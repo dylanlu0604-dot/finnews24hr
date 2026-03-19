@@ -3,28 +3,21 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>24HR 財經快訊</title>
+<title>24HR MKT NEWS</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@400;600;700;900&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
   :root {
-    --bg:        #07080d;
-    --bg2:       #0d0f18;
-    --bg3:       #13162200;
-    --panel:     #111420;
-    --border:    #1e2235;
-    --border2:   #252a40;
-    --orange:    #ff7b29;
-    --orange2:   #ff9a5c;
-    --cyan:      #00c8e0;
-    --green:     #00e87a;
-    --red:       #ff3d5a;
-    --yellow:    #ffd94a;
-    --text:      #d8d4cc;
-    --text2:     #8a8fa8;
-    --text3:     #555a72;
-    --mono: 'DM Mono', monospace;
-    --sans: 'Noto Serif TC', serif;
+    --bg:           #080810;
+    --surface:      #0f0f1a;
+    --border:       #1c1c2e;
+    --border-bright:#2a2a40;
+    --gold:         #c9a84c;
+    --gold-dim:     #8a6e30;
+    --text:         #e2e0d8;
+    --muted:        #5a5a72;
+    --green:        #4cc97a;
+    --panel-w:      380px;
   }
 
   * { margin: 0; padding: 0; box-sizing: border-box; }
@@ -32,487 +25,448 @@
   body {
     background: var(--bg);
     color: var(--text);
-    font-family: var(--sans);
-    font-size: 14px;
+    font-family: 'Noto Serif TC', serif;
     min-height: 100vh;
-    /* subtle scanline texture */
-    background-image: repeating-linear-gradient(
-      0deg,
-      transparent,
-      transparent 2px,
-      rgba(255,255,255,.012) 2px,
-      rgba(255,255,255,.012) 4px
-    );
+    overflow-x: hidden;
   }
 
-  /* ── TOPBAR ── */
-  #topbar {
-    position: sticky;
-    top: 0;
-    z-index: 100;
-    background: var(--bg2);
-    border-bottom: 2px solid var(--orange);
-    display: flex;
-    align-items: center;
-    gap: 0;
-    padding: 0;
+  body::before {
+    content: '';
+    position: fixed; inset: 0;
+    background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)' opacity='0.03'/%3E%3C/svg%3E");
+    pointer-events: none; z-index: 0;
   }
 
-  #logo {
-    font-family: var(--mono);
-    font-size: 13px;
-    font-weight: 600;
-    color: var(--bg);
-    background: var(--orange);
-    padding: 10px 18px;
-    letter-spacing: .12em;
-    text-transform: uppercase;
-    white-space: nowrap;
-    flex-shrink: 0;
+  /* ── HEADER ── */
+  header {
+    position: sticky; top: 0; z-index: 200;
+    background: rgba(8,8,16,.94);
+    backdrop-filter: blur(16px);
+    border-bottom: 1px solid var(--border);
+    height: 52px;
+    display: flex; align-items: center;
+    padding: 0 1.25rem; gap: 1rem;
   }
-
-  #ticker-wrap {
-    flex: 1;
-    overflow: hidden;
-    padding: 0 12px;
+  .wordmark {
+    font-family: 'DM Mono', monospace;
+    font-size: .85rem; font-weight: 500;
+    letter-spacing: .14em; color: var(--gold); flex-shrink: 0;
   }
-  #ticker-inner {
-    font-family: var(--mono);
-    font-size: 11px;
-    color: var(--text2);
-    letter-spacing: .05em;
-    white-space: nowrap;
-    animation: ticker 30s linear infinite;
-  }
-  @keyframes ticker {
-    0%   { transform: translateX(100%); }
-    100% { transform: translateX(-100%); }
-  }
-
-  #updated-wrap {
-    font-family: var(--mono);
-    font-size: 11px;
-    color: var(--cyan);
-    padding: 0 16px;
-    white-space: nowrap;
-    border-left: 1px solid var(--border2);
-    display: flex;
-    align-items: center;
-    gap: 6px;
-    height: 100%;
+  .wordmark em { color: var(--muted); font-style: normal; }
+  .updated {
+    font-family: 'DM Mono', monospace;
+    font-size: .62rem; color: var(--muted);
+    letter-spacing: .04em; margin-left: auto;
   }
   .pulse {
-    width: 7px; height: 7px;
-    border-radius: 50%;
-    background: var(--green);
-    animation: pulse 2s ease-in-out infinite;
+    display: inline-block; width: 5px; height: 5px;
+    border-radius: 50%; background: var(--green);
+    margin-right: 5px; animation: blink 2s infinite;
   }
-  @keyframes pulse {
-    0%, 100% { opacity: 1; box-shadow: 0 0 0 0 rgba(0,232,122,.6); }
-    50%       { opacity: .6; box-shadow: 0 0 0 5px rgba(0,232,122,0); }
+  @keyframes blink { 0%,100%{opacity:1} 50%{opacity:.2} }
+
+  /* ── LAYOUT ── */
+  .layout {
+    display: flex; align-items: flex-start;
+    position: relative; z-index: 1;
   }
 
-  /* ── CONTROLS ── */
-  #controls {
-    background: var(--panel);
+  /* ── LEFT: NEWS ── */
+  .news-col {
+    flex: 1; min-width: 0;
+    border-right: 1px solid var(--border);
+  }
+
+  .filter-wrap {
+    position: sticky; top: 52px; z-index: 99;
+    background: rgba(8,8,16,.92);
+    backdrop-filter: blur(12px);
     border-bottom: 1px solid var(--border);
-    padding: 10px 20px;
-    display: flex;
-    flex-wrap: wrap;
-    gap: 10px;
-    align-items: center;
+    padding: .55rem 1.25rem;
+    display: flex; flex-wrap: wrap; gap: .35rem; align-items: center;
   }
+  .cat-btn {
+    font-family: 'DM Mono', monospace;
+    font-size: .65rem; letter-spacing: .04em;
+    padding: .28rem .7rem;
+    border: 1px solid var(--border-bright); border-radius: 2px;
+    background: transparent; color: var(--muted); cursor: pointer;
+    transition: all .12s;
+  }
+  .cat-btn:hover { color: var(--text); border-color: var(--gold-dim); }
+  .cat-btn.active { background: var(--gold); color: #080810; border-color: var(--gold); font-weight: 500; }
 
-  /* Search */
-  #search-wrap {
-    position: relative;
-    flex: 1;
-    min-width: 180px;
-    max-width: 320px;
+  .time-pills { display: flex; gap: .25rem; align-items: center; margin-left: auto; }
+  .time-pill {
+    font-family: 'DM Mono', monospace;
+    font-size: .6rem; letter-spacing: .06em;
+    padding: .22rem .6rem;
+    border: 1px solid var(--border-bright); border-radius: 2px;
+    background: transparent; color: var(--muted); cursor: pointer;
+    transition: all .12s;
   }
-  #search-wrap svg {
-    position: absolute;
-    left: 10px; top: 50%;
-    transform: translateY(-50%);
-    opacity: .4;
+  .time-pill:hover { color: var(--text); border-color: var(--gold-dim); }
+  .time-pill.active { background: var(--gold-dim); color: var(--text); border-color: var(--gold-dim); }
+
+  .search-wrap { position: relative; }
+  .search-wrap svg {
+    position: absolute; left: 8px; top: 50%;
+    transform: translateY(-50%); opacity: .35;
   }
   #search {
-    width: 100%;
-    background: var(--bg2);
-    border: 1px solid var(--border2);
-    color: var(--text);
-    font-family: var(--sans);
-    font-size: 13px;
-    padding: 7px 10px 7px 34px;
-    border-radius: 4px;
-    outline: none;
-    transition: border-color .2s;
+    font-family: 'DM Mono', monospace;
+    font-size: .65rem; letter-spacing: .04em;
+    background: var(--surface); border: 1px solid var(--border-bright);
+    color: var(--text); padding: .28rem .7rem .28rem 26px;
+    border-radius: 2px; outline: none; width: 150px;
+    transition: border-color .15s;
   }
-  #search:focus { border-color: var(--orange); }
-  #search::placeholder { color: var(--text3); }
+  #search:focus { border-color: var(--gold-dim); }
+  #search::placeholder { color: var(--muted); }
 
-  /* Time filter pills */
-  .pill-group { display: flex; gap: 4px; }
-  .pill {
-    font-family: var(--mono);
-    font-size: 11px;
-    font-weight: 500;
-    padding: 5px 11px;
-    border-radius: 3px;
-    border: 1px solid var(--border2);
-    background: transparent;
-    color: var(--text2);
-    cursor: pointer;
-    letter-spacing: .06em;
-    transition: all .15s;
-    white-space: nowrap;
-  }
-  .pill:hover      { border-color: var(--orange); color: var(--orange); }
-  .pill.active     { background: var(--orange); border-color: var(--orange); color: #000; }
+  .feed-inner { padding: 1.2rem 1.25rem 5rem; max-width: 760px; }
 
-  /* Tag filter */
-  #tag-filter {
-    display: flex;
-    gap: 5px;
-    flex-wrap: wrap;
-    align-items: center;
-  }
-  .tag-btn {
-    font-family: var(--mono);
-    font-size: 10px;
-    padding: 3px 9px;
-    border-radius: 2px;
-    border: 1px solid transparent;
-    background: var(--bg2);
-    color: var(--text3);
-    cursor: pointer;
-    transition: all .15s;
-    letter-spacing: .05em;
-  }
-  .tag-btn:hover       { color: var(--text2); border-color: var(--border2); }
-  .tag-btn.active      { color: var(--bg); background: var(--cyan); }
-
-  #controls-label {
-    font-family: var(--mono);
-    font-size: 10px;
-    color: var(--text3);
-    letter-spacing: .08em;
-    white-space: nowrap;
-  }
-
-  #results-count {
-    font-family: var(--mono);
-    font-size: 11px;
-    color: var(--text3);
-    margin-left: auto;
-    white-space: nowrap;
-  }
-
-  /* ── FEED ── */
-  #feed {
-    max-width: 900px;
-    margin: 0 auto;
-    padding: 16px 20px 60px;
-  }
-
-  .news-item {
-    display: grid;
-    grid-template-columns: 120px 1fr;
-    gap: 0 16px;
+  .stats {
+    display: flex; gap: 2rem;
+    padding-bottom: 1.2rem;
     border-bottom: 1px solid var(--border);
-    padding: 14px 0;
-    animation: fadeIn .3s ease;
-    transition: background .15s;
+    margin-bottom: 1.5rem;
   }
-  .news-item:hover { background: rgba(255,123,41,.03); }
-  @keyframes fadeIn { from { opacity: 0; transform: translateY(4px); } to { opacity: 1; } }
+  .stat { font-family: 'DM Mono', monospace; font-size: .65rem; color: var(--muted); }
+  .stat strong { display: block; font-size: 1.4rem; color: var(--gold); font-weight: 500; letter-spacing: -.02em; line-height: 1.1; }
 
-  .news-meta {
-    text-align: right;
-    padding-top: 2px;
-  }
-  .news-time {
-    font-family: var(--mono);
-    font-size: 11px;
-    color: var(--text3);
-    letter-spacing: .04em;
-    white-space: nowrap;
-  }
-  .news-date {
-    font-family: var(--mono);
-    font-size: 10px;
-    color: var(--text3);
-    opacity: .6;
-    margin-top: 2px;
+  .results-count {
+    font-family: 'DM Mono', monospace;
+    font-size: .6rem; color: var(--muted); margin-bottom: .8rem;
   }
 
-  .news-body {}
-  .news-tags {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 4px;
-    margin-bottom: 6px;
+  .card {
+    display: grid; grid-template-columns: 64px 1fr;
+    gap: 1.2rem; padding: 1.2rem 0;
+    border-bottom: 1px solid var(--border);
+    animation: rise .3s ease both;
   }
+  @keyframes rise { from{opacity:0;transform:translateY(5px)} to{opacity:1} }
+
+  .card-time {
+    font-family: 'DM Mono', monospace;
+    font-size: .58rem; color: var(--muted);
+    padding-top: 3px; line-height: 1.8;
+  }
+  .card-time .t-date { display: block; }
+  .card-time .t-time { display: block; color: var(--gold); font-size: .68rem; }
+
+  .card-tags { display: flex; flex-wrap: wrap; gap: .3rem; margin-bottom: .45rem; }
   .tag {
-    font-family: var(--mono);
-    font-size: 9px;
-    padding: 2px 7px;
-    border-radius: 2px;
-    letter-spacing: .06em;
-    font-weight: 500;
-    cursor: pointer;
-    transition: opacity .15s;
+    font-family: 'DM Mono', monospace; font-size: .58rem;
+    padding: .12rem .45rem;
+    border: 1px solid rgba(201,168,76,.22);
+    color: var(--gold-dim); border-radius: 2px; letter-spacing: .03em;
   }
-  .tag:hover { opacity: .75; }
-
-  /* Tag colour cycling */
-  .tc0 { background: rgba(255,123,41,.18); color: var(--orange2); border: 1px solid rgba(255,123,41,.3); }
-  .tc1 { background: rgba(0,200,224,.14); color: var(--cyan);    border: 1px solid rgba(0,200,224,.25); }
-  .tc2 { background: rgba(0,232,122,.13); color: var(--green);   border: 1px solid rgba(0,232,122,.22); }
-  .tc3 { background: rgba(255,217,74,.13); color: var(--yellow); border: 1px solid rgba(255,217,74,.22); }
-  .tc4 { background: rgba(255,61,90,.14); color: var(--red);     border: 1px solid rgba(255,61,90,.25); }
-
-  .news-text {
-    font-size: 13.5px;
-    line-height: 1.75;
-    color: var(--text);
-    word-break: break-word;
-  }
-  .news-text mark {
-    background: rgba(255,123,41,.3);
-    color: var(--orange2);
-    border-radius: 2px;
-    padding: 0 2px;
+  .card-body {
+    font-size: .8rem; color: #a8a6a0; line-height: 1.85;
   }
 
-  /* ── EMPTY / LOADING ── */
-  #status {
-    text-align: center;
-    padding: 60px 0;
-    font-family: var(--mono);
-    font-size: 12px;
-    color: var(--text3);
-    letter-spacing: .08em;
-  }
-  .loading-bar {
-    width: 120px; height: 2px;
-    background: var(--border2);
-    border-radius: 2px;
-    margin: 12px auto 0;
-    overflow: hidden;
-  }
-  .loading-bar::after {
-    content: '';
-    display: block;
-    width: 40%;
-    height: 100%;
-    background: var(--orange);
-    animation: slide 1.2s ease-in-out infinite;
-  }
-  @keyframes slide {
-    0%   { transform: translateX(-100%); }
-    100% { transform: translateX(350%); }
+  .empty {
+    text-align: center; padding: 4rem 0;
+    font-family: 'DM Mono', monospace;
+    font-size: .75rem; color: var(--muted); line-height: 2;
   }
 
-  /* ── SCROLLBAR ── */
-  ::-webkit-scrollbar { width: 6px; }
+  /* ── RIGHT: MARKETS ── */
+  .market-col {
+    width: var(--panel-w); flex-shrink: 0;
+    position: sticky; top: 52px;
+    height: calc(100vh - 52px);
+    overflow-y: auto;
+    background: var(--surface);
+  }
+
+  .market-tabs {
+    display: flex;
+    border-bottom: 1px solid var(--border);
+    background: var(--bg);
+    position: sticky; top: 0; z-index: 10;
+  }
+  .m-tab {
+    font-family: 'DM Mono', monospace;
+    font-size: .58rem; letter-spacing: .06em;
+    padding: .65rem 0; flex: 1; text-align: center;
+    background: transparent; border: none;
+    color: var(--muted); cursor: pointer;
+    border-bottom: 2px solid transparent;
+    transition: all .12s;
+  }
+  .m-tab:hover { color: var(--text); }
+  .m-tab.active { color: var(--gold); border-bottom-color: var(--gold); }
+
+  .m-panel { display: none; }
+  .m-panel.active { display: block; }
+
+  .chart-label {
+    font-family: 'DM Mono', monospace;
+    font-size: .56rem; letter-spacing: .1em; text-transform: uppercase;
+    color: var(--muted); padding: .35rem .75rem;
+    background: var(--bg);
+    border-bottom: 1px solid var(--border);
+    border-top: 1px solid var(--border);
+  }
+
+  .main-chart { height: 260px; }
+  .mini-grid { display: grid; grid-template-columns: 1fr 1fr; }
+  .mini-item {
+    height: 138px; overflow: hidden;
+    border-right: 1px solid var(--border);
+    border-bottom: 1px solid var(--border);
+  }
+  .mini-item:nth-child(even) { border-right: none; }
+
+  /* TV widget containers need explicit height */
+  .tradingview-widget-container,
+  .tradingview-widget-container__widget { height: 100% !important; }
+
+  .market-col::-webkit-scrollbar { width: 3px; }
+  .market-col::-webkit-scrollbar-track { background: var(--surface); }
+  .market-col::-webkit-scrollbar-thumb { background: var(--border-bright); }
+  ::-webkit-scrollbar { width: 3px; }
   ::-webkit-scrollbar-track { background: var(--bg); }
-  ::-webkit-scrollbar-thumb { background: var(--border2); border-radius: 3px; }
+  ::-webkit-scrollbar-thumb { background: var(--border-bright); }
+
+  @media (max-width: 960px) { .market-col { display: none; } }
+  @media (max-width: 580px) {
+    header { padding: 0 .8rem; }
+    .filter-wrap { padding: .45rem .8rem; }
+    .feed-inner { padding: 1rem .8rem 5rem; }
+  }
 </style>
 </head>
 <body>
 
-<!-- TOPBAR -->
-<div id="topbar">
-  <div id="logo">📡 24HR MKT NEWS</div>
-  <div id="ticker-wrap">
-    <div id="ticker-inner">載入中…</div>
-  </div>
-  <div id="updated-wrap">
-    <div class="pulse"></div>
-    <span id="updated-time">—</span>
-  </div>
-</div>
+<header>
+  <div class="wordmark">24HR<em>/</em>MKT NEWS</div>
+  <div class="updated" id="updatedAt"><span class="pulse"></span>載入中…</div>
+</header>
 
-<!-- CONTROLS -->
-<div id="controls">
-  <!-- Search -->
-  <div id="search-wrap">
-    <svg width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
-      <circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/>
-    </svg>
-    <input type="text" id="search" placeholder="搜尋關鍵字…">
+<div class="layout">
+
+  <!-- ══ LEFT ══ -->
+  <div class="news-col">
+    <div class="filter-wrap" id="filterWrap">
+      <button class="cat-btn active" data-cat="">全部</button>
+
+      <div class="time-pills">
+        <span style="font-family:'DM Mono',monospace;font-size:.56rem;color:var(--muted);letter-spacing:.06em">時段</span>
+        <button class="time-pill active" data-h="1">1H</button>
+        <button class="time-pill" data-h="6">6H</button>
+        <button class="time-pill" data-h="24">24H</button>
+        <button class="time-pill" data-h="0">ALL</button>
+      </div>
+
+      <div class="search-wrap">
+        <svg width="12" height="12" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+          <circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/>
+        </svg>
+        <input type="text" id="search" placeholder="搜尋…">
+      </div>
+    </div>
+
+    <div class="feed-inner">
+      <div class="stats">
+        <div class="stat"><strong id="totalCount">—</strong>則快訊</div>
+      </div>
+      <div id="resultsCount" class="results-count"></div>
+      <div id="digestList"><div class="empty">載入中…</div></div>
+    </div>
   </div>
 
-  <!-- Time filter -->
-  <span class="controls-label" style="font-family:var(--mono);font-size:10px;color:var(--text3);letter-spacing:.08em;">時段</span>
-  <div class="pill-group" id="time-pills">
-    <button class="pill active" data-h="1">1H</button>
-    <button class="pill" data-h="6">6H</button>
-    <button class="pill" data-h="24">24H</button>
-    <button class="pill" data-h="0">ALL</button>
-  </div>
+  <!-- ══ RIGHT: MARKETS ══ -->
+  <div class="market-col">
+    <div class="market-tabs">
+      <button class="m-tab active" data-panel="equity">指數期貨</button>
+      <button class="m-tab" data-panel="fx">匯率</button>
+      <button class="m-tab" data-panel="bond">債券</button>
+      <button class="m-tab" data-panel="commodity">原物料</button>
+    </div>
 
-  <!-- Tag filter (populated dynamically) -->
-  <span class="controls-label" style="font-family:var(--mono);font-size:10px;color:var(--text3);letter-spacing:.08em;">標籤</span>
-  <div id="tag-filter"></div>
+    <!-- ① 指數期貨 -->
+    <div class="m-panel active" id="panel-equity">
+      <div class="chart-label">S&P 500 Futures (ES) — 1min K線</div>
+      <div class="main-chart">
+        <div class="tradingview-widget-container">
+          <div class="tradingview-widget-container__widget"></div>
+          <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+          {"autosize":true,"symbol":"CME_MINI:ES1!","interval":"1","timezone":"Asia/Taipei","theme":"dark","style":"1","locale":"zh_TW","hide_top_toolbar":true,"hide_legend":true,"hide_side_toolbar":true,"allow_symbol_change":false,"save_image":false,"backgroundColor":"rgba(8,8,16,1)","gridColor":"rgba(28,28,46,1)"}
+          </script>
+        </div>
+      </div>
+      <div class="chart-label">NQ / YM / Nikkei / TAIEX</div>
+      <div class="mini-grid">
+        <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"CME_MINI:NQ1!","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
+        <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"CME_MINI:YM1!","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
+        <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"OSE:NK225","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
+        <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"TWSE:Y9999","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
+      </div>
+    </div>
 
-  <div id="results-count"></div>
-</div>
+    <!-- ② 匯率 -->
+    <div class="m-panel" id="panel-fx">
+      <div class="chart-label">DXY 美元指數 — 1min K線</div>
+      <div class="main-chart">
+        <div class="tradingview-widget-container">
+          <div class="tradingview-widget-container__widget"></div>
+          <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+          {"autosize":true,"symbol":"TVC:DXY","interval":"1","timezone":"Asia/Taipei","theme":"dark","style":"1","locale":"zh_TW","hide_top_toolbar":true,"hide_legend":true,"hide_side_toolbar":true,"allow_symbol_change":false,"save_image":false,"backgroundColor":"rgba(8,8,16,1)","gridColor":"rgba(28,28,46,1)"}
+          </script>
+        </div>
+      </div>
+      <div class="chart-label">EUR/USD · USD/JPY · USD/CNH · USD/TWD</div>
+      <div class="mini-grid">
+        <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"FX:EURUSD","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
+        <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"FX:USDJPY","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
+        <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"FX:USDCNH","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
+        <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"FX:USDTWD","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
+      </div>
+    </div>
 
-<!-- FEED -->
-<div id="feed">
-  <div id="status">
-    載入中
-    <div class="loading-bar"></div>
-  </div>
-</div>
+    <!-- ③ 債券 -->
+    <div class="m-panel" id="panel-bond">
+      <div class="chart-label">US 10Y 殖利率 — 1min K線</div>
+      <div class="main-chart">
+        <div class="tradingview-widget-container">
+          <div class="tradingview-widget-container__widget"></div>
+          <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+          {"autosize":true,"symbol":"TVC:US10Y","interval":"1","timezone":"Asia/Taipei","theme":"dark","style":"1","locale":"zh_TW","hide_top_toolbar":true,"hide_legend":true,"hide_side_toolbar":true,"allow_symbol_change":false,"save_image":false,"backgroundColor":"rgba(8,8,16,1)","gridColor":"rgba(28,28,46,1)"}
+          </script>
+        </div>
+      </div>
+      <div class="chart-label">US 2Y · 5Y · 30Y · T-Bond Futures</div>
+      <div class="mini-grid">
+        <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"TVC:US02Y","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
+        <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"TVC:US05Y","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
+        <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"TVC:US30Y","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
+        <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"CME:ZB1!","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
+      </div>
+    </div>
+
+    <!-- ④ 原物料 -->
+    <div class="m-panel" id="panel-commodity">
+      <div class="chart-label">WTI 原油期貨 — 1min K線</div>
+      <div class="main-chart">
+        <div class="tradingview-widget-container">
+          <div class="tradingview-widget-container__widget"></div>
+          <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+          {"autosize":true,"symbol":"NYMEX:CL1!","interval":"1","timezone":"Asia/Taipei","theme":"dark","style":"1","locale":"zh_TW","hide_top_toolbar":true,"hide_legend":true,"hide_side_toolbar":true,"allow_symbol_change":false,"save_image":false,"backgroundColor":"rgba(8,8,16,1)","gridColor":"rgba(28,28,46,1)"}
+          </script>
+        </div>
+      </div>
+      <div class="chart-label">天然氣 · 黃金 · 白銀 · 小麥</div>
+      <div class="mini-grid">
+        <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"NYMEX:NG1!","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
+        <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"COMEX:GC1!","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
+        <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"COMEX:SI1!","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
+        <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"CBOT:ZW1!","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
+      </div>
+    </div>
+
+  </div><!-- /market-col -->
+</div><!-- /layout -->
 
 <script>
+/* ── NEWS FEED ── */
 const DATA_URL = './data.json';
-const REFRESH_MS = 5 * 60 * 1000; // 5 min
+let allItems = [], activeCat = '', activeHrs = 1, searchQ = '';
 
-let allItems  = [];
-let activeTag = null;
-let activeHrs = 1;
-let searchQ   = '';
-
-// ── tag colour map ──
-const tagColours = new Map();
-const TC = ['tc0','tc1','tc2','tc3','tc4'];
-let tcIdx = 0;
-function tagClass(name) {
-  if (!tagColours.has(name)) tagColours.set(name, TC[tcIdx++ % TC.length]);
-  return tagColours.get(name);
+function parseTime(str) {
+  if (!str) return 0;
+  return new Date(str.replace(' ','T') + '+08:00').getTime();
 }
-
-// ── fetch data ──
-async function loadData() {
-  try {
-    const r = await fetch(DATA_URL + '?t=' + Date.now());
-    if (!r.ok) throw new Error(r.status);
-    const d = await r.json();
-    allItems = d.items || [];
-
-    document.getElementById('updated-time').textContent = d.updated || '—';
-
-    // ticker
-    const sample = allItems.slice(0, 8).map(i => i.text.substring(0, 25) + '…').join('   ▪   ');
-    document.getElementById('ticker-inner').textContent = sample;
-
-    buildTagFilter();
-    render();
-  } catch (e) {
-    document.getElementById('status').innerHTML = `⚠ 資料載入失敗：${e.message}`;
-  }
-}
-
-// ── build tag buttons ──
-function buildTagFilter() {
-  const counts = new Map();
-  allItems.forEach(item => item.tags.forEach(t => counts.set(t, (counts.get(t) || 0) + 1)));
-  const sorted = [...counts.entries()].sort((a, b) => b[1] - a[1]).slice(0, 20);
-
-  const wrap = document.getElementById('tag-filter');
-  wrap.innerHTML = '';
-  sorted.forEach(([name, cnt]) => {
-    const btn = document.createElement('button');
-    btn.className = 'tag-btn' + (activeTag === name ? ' active' : '');
-    btn.textContent = `${name} (${cnt})`;
-    btn.onclick = () => {
-      activeTag = (activeTag === name) ? null : name;
-      document.querySelectorAll('.tag-btn').forEach(b => b.classList.remove('active'));
-      if (activeTag) btn.classList.add('active');
-      render();
-    };
-    wrap.appendChild(btn);
-  });
-}
-
-// ── highlight search term ──
 function highlight(text, q) {
   if (!q) return text;
-  const esc = q.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-  return text.replace(new RegExp(esc, 'gi'), m => `<mark>${m}</mark>`);
+  const esc = q.replace(/[.*+?^${}()|[\]\\]/g,'\\$&');
+  return text.replace(new RegExp(esc,'gi'), m =>
+    `<mark style="background:rgba(201,168,76,.28);color:#e2c87a;border-radius:2px;padding:0 2px">${m}</mark>`);
 }
 
-// ── parse time ──
-function parseTime(str) {
-  // "2026-03-19 14:30:00"
-  if (!str) return 0;
-  return new Date(str.replace(' ', 'T') + '+08:00').getTime();
+async function load() {
+  try {
+    const data = await (await fetch(DATA_URL + '?t=' + Date.now())).json();
+    allItems = data.items || [];
+    document.getElementById('totalCount').textContent = data.count || 0;
+    document.getElementById('updatedAt').innerHTML =
+      `<span class="pulse"></span>更新於 ${data.updated || '—'}`;
+    buildCats(); render();
+  } catch(e) {
+    document.getElementById('digestList').innerHTML =
+      `<div class="empty">無法載入資料<br>${e.message}</div>`;
+  }
 }
 
-// ── main render ──
+function buildCats() {
+  const counts = new Map();
+  allItems.forEach(item => item.tags.forEach(t => counts.set(t,(counts.get(t)||0)+1)));
+  const top = [...counts.entries()].sort((a,b)=>b[1]-a[1]).slice(0,18);
+  const wrap = document.getElementById('filterWrap');
+  wrap.querySelectorAll('.cat-btn:not([data-cat=""])').forEach(b => b.remove());
+  const pills = wrap.querySelector('.time-pills');
+  top.forEach(([name]) => {
+    const btn = document.createElement('button');
+    btn.className = 'cat-btn' + (activeCat===name ? ' active' : '');
+    btn.dataset.cat = name; btn.textContent = name;
+    wrap.insertBefore(btn, pills);
+  });
+}
+
 function render() {
   const now = Date.now();
-  const cutoff = activeHrs > 0 ? now - activeHrs * 3600 * 1000 : 0;
-
+  const cutoff = activeHrs > 0 ? now - activeHrs*3600000 : 0;
   const filtered = allItems.filter(item => {
     if (cutoff && parseTime(item.time) < cutoff) return false;
-    if (activeTag && !item.tags.includes(activeTag)) return false;
-    if (searchQ && !item.text.includes(searchQ) && !item.tags.some(t => t.includes(searchQ))) return false;
+    if (activeCat && !item.tags.includes(activeCat)) return false;
+    if (searchQ && !item.text.includes(searchQ) && !item.tags.some(t=>t.includes(searchQ))) return false;
     return true;
   });
-
-  document.getElementById('results-count').textContent = `共 ${filtered.length} 筆`;
-
-  const feed = document.getElementById('feed');
-  if (!filtered.length) {
-    feed.innerHTML = '<div id="status">無符合條件的快訊</div>';
-    return;
-  }
-
-  feed.innerHTML = filtered.map(item => {
-    const dt = item.time || '';
-    const datePart = dt.split(' ')[0] || '';
-    const timePart = dt.split(' ')[1] || '';
-
-    const tagsHtml = item.tags.map(t =>
-      `<span class="tag ${tagClass(t)}" onclick="filterTag('${t}')">${t}</span>`
-    ).join('');
-
-    return `
-<div class="news-item">
-  <div class="news-meta">
-    <div class="news-time">${timePart}</div>
-    <div class="news-date">${datePart}</div>
-  </div>
-  <div class="news-body">
-    <div class="news-tags">${tagsHtml}</div>
-    <div class="news-text">${highlight(item.text, searchQ)}</div>
-  </div>
-</div>`;
+  document.getElementById('resultsCount').textContent =
+    filtered.length < allItems.length ? `顯示 ${filtered.length} 筆` : '';
+  const list = document.getElementById('digestList');
+  if (!filtered.length) { list.innerHTML='<div class="empty">無符合條件的快訊</div>'; return; }
+  list.innerHTML = filtered.map((item,i) => {
+    const [dp,tp] = (item.time||'').split(' ');
+    const hm = (tp||'').slice(0,5);
+    const tags = (item.tags||[]).map(t=>`<span class="tag">${t}</span>`).join('');
+    return `<div class="card" style="animation-delay:${Math.min(i,20)*.03}s">
+      <div class="card-time"><span class="t-date">${dp||'—'}</span><span class="t-time">${hm}</span></div>
+      <div>${tags?`<div class="card-tags">${tags}</div>`:''}
+        <div class="card-body">${highlight(item.text,searchQ)}</div></div>
+    </div>`;
   }).join('');
 }
 
-// ── global for inline onclick ──
-function filterTag(name) {
-  activeTag = (activeTag === name) ? null : name;
-  document.querySelectorAll('.tag-btn').forEach(b => {
-    b.classList.toggle('active', b.textContent.startsWith(name + ' '));
+document.getElementById('filterWrap').addEventListener('click', e => {
+  const cb = e.target.closest('.cat-btn');
+  if (cb) {
+    document.querySelectorAll('.cat-btn').forEach(b=>b.classList.remove('active'));
+    cb.classList.add('active'); activeCat = cb.dataset.cat; render(); return;
+  }
+  const tp = e.target.closest('.time-pill');
+  if (tp) {
+    document.querySelectorAll('.time-pill').forEach(b=>b.classList.remove('active'));
+    tp.classList.add('active'); activeHrs = parseInt(tp.dataset.h); render();
+  }
+});
+document.getElementById('search').addEventListener('input', e => { searchQ=e.target.value.trim(); render(); });
+
+load();
+setInterval(load, 60000);
+
+/* ── MARKET TABS ── */
+document.querySelectorAll('.m-tab').forEach(tab => {
+  tab.addEventListener('click', () => {
+    document.querySelectorAll('.m-tab').forEach(t=>t.classList.remove('active'));
+    document.querySelectorAll('.m-panel').forEach(p=>p.classList.remove('active'));
+    tab.classList.add('active');
+    document.getElementById('panel-'+tab.dataset.panel).classList.add('active');
   });
-  render();
-}
-
-// ── wire controls ──
-document.getElementById('search').addEventListener('input', e => {
-  searchQ = e.target.value.trim();
-  render();
 });
-
-document.getElementById('time-pills').addEventListener('click', e => {
-  const btn = e.target.closest('.pill');
-  if (!btn) return;
-  document.querySelectorAll('.pill').forEach(b => b.classList.remove('active'));
-  btn.classList.add('active');
-  activeHrs = parseInt(btn.dataset.h);
-  render();
-});
-
-// ── init & auto-refresh ──
-loadData();
-setInterval(loadData, REFRESH_MS);
 </script>
 </body>
 </html>
