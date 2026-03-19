@@ -6,6 +6,7 @@
 <title>24HR MKT NEWS</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@400;600;700;900&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+<script src="https://unpkg.com/lightweight-charts@4.2.0/dist/lightweight-charts.standalone.production.js"></script>
 <style>
   :root {
     --bg:           #080810;
@@ -17,6 +18,7 @@
     --text:         #e2e0d8;
     --muted:        #5a5a72;
     --green:        #4cc97a;
+    --red:          #e05555;
     --live-w:       320px;
     --chart-w:      360px;
     --header-h:     52px;
@@ -55,7 +57,6 @@
     letter-spacing: .14em; color: var(--gold); flex-shrink: 0;
   }
   .wordmark em { color: var(--muted); font-style: normal; }
-
   .updated {
     font-family: 'DM Mono', monospace;
     font-size: .62rem; color: var(--muted); letter-spacing: .04em;
@@ -76,9 +77,7 @@
     z-index: 1;
   }
 
-  /* ════════════════
-     LEFT — LIVE
-  ════════════════ */
+  /* ════ LEFT — LIVE ════ */
   .live-col {
     width: var(--live-w); flex-shrink: 0;
     display: flex; flex-direction: column;
@@ -86,50 +85,33 @@
     background: var(--surface);
     overflow: hidden;
   }
-
   .col-header {
     font-family: 'DM Mono', monospace;
     font-size: .58rem; letter-spacing: .12em; text-transform: uppercase;
-    color: var(--muted);
-    padding: .38rem .85rem;
+    color: var(--muted); padding: .38rem .85rem;
     background: var(--bg);
     border-bottom: 1px solid var(--border);
     flex-shrink: 0;
   }
-
   .live-item {
-    flex: 1;
-    display: flex; flex-direction: column;
-    overflow: hidden;
-    min-height: 0;
+    flex: 1; display: flex; flex-direction: column;
+    overflow: hidden; min-height: 0;
   }
-
-  .live-divider {
-    height: 1px; flex-shrink: 0;
-    background: var(--border);
-  }
-
+  .live-divider { height: 1px; flex-shrink: 0; background: var(--border); }
   .live-player {
-    flex: 1;
-    position: relative;
-    background: #000;
-    min-height: 0;
+    flex: 1; position: relative; background: #000; min-height: 0;
   }
   .live-player iframe {
-    position: absolute; inset: 0;
-    width: 100%; height: 100%; border: none;
+    position: absolute; inset: 0; width: 100%; height: 100%; border: none;
   }
 
-  /* ════════════════
-     CENTER — NEWS
-  ════════════════ */
+  /* ════ CENTER — NEWS ════ */
   .news-col {
     flex: 1; min-width: 0;
     display: flex; flex-direction: column;
     border-right: 1px solid var(--border);
     overflow: hidden;
   }
-
   .filter-wrap {
     display: flex; flex-wrap: wrap; gap: .3rem; align-items: center;
     padding: .45rem .9rem;
@@ -176,11 +158,7 @@
   #search:focus { border-color: var(--gold-dim); }
   #search::placeholder { color: var(--muted); }
 
-  .feed-scroll {
-    flex: 1; overflow-y: auto;
-    padding: 1rem 1.1rem 2rem;
-  }
-
+  .feed-scroll { flex: 1; overflow-y: auto; padding: 1rem 1.1rem 2rem; }
   .stats {
     display: flex; gap: 1.5rem;
     padding-bottom: 1rem;
@@ -189,12 +167,7 @@
   }
   .stat { font-family: 'DM Mono', monospace; font-size: .6rem; color: var(--muted); }
   .stat strong { display: block; font-size: 1.3rem; color: var(--gold); font-weight: 500; letter-spacing: -.02em; line-height: 1.1; }
-
-  .results-count {
-    font-family: 'DM Mono', monospace;
-    font-size: .56rem; color: var(--muted); margin-bottom: .7rem;
-  }
-
+  .results-count { font-family: 'DM Mono', monospace; font-size: .56rem; color: var(--muted); margin-bottom: .7rem; }
   .card {
     display: grid; grid-template-columns: 58px 1fr;
     gap: 1rem; padding: 1rem 0;
@@ -202,49 +175,26 @@
     animation: rise .3s ease both;
   }
   @keyframes rise { from{opacity:0;transform:translateY(4px)} to{opacity:1} }
-
-  .card-time {
-    font-family: 'DM Mono', monospace;
-    font-size: .55rem; color: var(--muted);
-    padding-top: 2px; line-height: 1.8;
-  }
+  .card-time { font-family: 'DM Mono', monospace; font-size: .55rem; color: var(--muted); padding-top: 2px; line-height: 1.8; }
   .card-time .t-date { display: block; }
   .card-time .t-time { display: block; color: var(--gold); font-size: .64rem; }
-
   .card-tags { display: flex; flex-wrap: wrap; gap: .25rem; margin-bottom: .4rem; }
-  .tag {
-    font-family: 'DM Mono', monospace; font-size: .54rem;
-    padding: .1rem .4rem;
-    border: 1px solid rgba(201,168,76,.2);
-    color: var(--gold-dim); border-radius: 2px;
-  }
+  .tag { font-family: 'DM Mono', monospace; font-size: .54rem; padding: .1rem .4rem; border: 1px solid rgba(201,168,76,.2); color: var(--gold-dim); border-radius: 2px; }
   .card-body { font-size: .78rem; color: #a8a6a0; line-height: 1.82; }
-
-  .empty {
-    text-align: center; padding: 3rem 0;
-    font-family: 'DM Mono', monospace;
-    font-size: .7rem; color: var(--muted); line-height: 2;
-  }
-
+  .empty { text-align: center; padding: 3rem 0; font-family: 'DM Mono', monospace; font-size: .7rem; color: var(--muted); line-height: 2; }
   .feed-scroll::-webkit-scrollbar { width: 3px; }
   .feed-scroll::-webkit-scrollbar-track { background: var(--bg); }
   .feed-scroll::-webkit-scrollbar-thumb { background: var(--border-bright); }
 
-  /* ════════════════
-     RIGHT — CHARTS
-  ════════════════ */
+  /* ════ RIGHT — CHARTS ════ */
   .chart-col {
     width: var(--chart-w); flex-shrink: 0;
     display: flex; flex-direction: column;
-    background: var(--surface);
-    overflow: hidden;
+    background: var(--surface); overflow: hidden;
   }
-
   .market-tabs {
-    display: flex;
-    border-bottom: 1px solid var(--border);
-    background: var(--bg);
-    flex-shrink: 0;
+    display: flex; border-bottom: 1px solid var(--border);
+    background: var(--bg); flex-shrink: 0;
   }
   .m-tab {
     font-family: 'DM Mono', monospace;
@@ -252,42 +202,48 @@
     padding: .6rem 0; flex: 1; text-align: center;
     background: transparent; border: none;
     color: var(--muted); cursor: pointer;
-    border-bottom: 2px solid transparent;
-    transition: all .12s;
+    border-bottom: 2px solid transparent; transition: all .12s;
   }
   .m-tab:hover { color: var(--text); }
   .m-tab.active { color: var(--gold); border-bottom-color: var(--gold); }
-
-  .chart-body {
-    flex: 1; overflow-y: auto; overflow-x: hidden;
-  }
+  .chart-body { flex: 1; overflow-y: auto; overflow-x: hidden; }
   .chart-body::-webkit-scrollbar { width: 3px; }
   .chart-body::-webkit-scrollbar-track { background: var(--surface); }
   .chart-body::-webkit-scrollbar-thumb { background: var(--border-bright); }
-
   .m-panel { display: none; }
   .m-panel.active { display: block; }
-
   .chart-label {
     font-family: 'DM Mono', monospace;
-    font-size: .52rem; letter-spacing: .1em; text-transform: uppercase;
+    font-size: .52rem; letter-spacing: .08em;
     color: var(--muted); padding: .32rem .7rem;
     background: var(--bg);
     border-bottom: 1px solid var(--border);
     border-top: 1px solid var(--border);
   }
+  .main-chart { height: 240px; position: relative; }
+  .chart-loading {
+    position: absolute; inset: 0;
+    display: flex; align-items: center; justify-content: center;
+    font-family: 'DM Mono', monospace; font-size: .56rem; color: var(--muted);
+  }
 
-  .main-chart { height: 240px; overflow: hidden; }
+  /* Mini cards */
   .mini-grid { display: grid; grid-template-columns: 1fr 1fr; }
   .mini-item {
     height: 130px; overflow: hidden;
     border-right: 1px solid var(--border);
     border-bottom: 1px solid var(--border);
+    display: flex; flex-direction: column;
+    padding: 7px 8px 0;
   }
   .mini-item:nth-child(even) { border-right: none; }
-
-  .tradingview-widget-container,
-  .tradingview-widget-container__widget { height: 100% !important; }
+  .mini-info { display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 1px; }
+  .mini-name { font-family: 'DM Mono', monospace; font-size: .55rem; color: var(--text); font-weight: 500; letter-spacing: .02em; }
+  .mini-chg  { font-family: 'DM Mono', monospace; font-size: .52rem; }
+  .mini-price { font-family: 'DM Mono', monospace; font-size: .8rem; color: var(--text); margin-bottom: 2px; letter-spacing: -.01em; }
+  .mini-chart-area { flex: 1; min-height: 0; }
+  .up { color: var(--green); }
+  .dn { color: var(--red); }
 
   /* ── RESPONSIVE ── */
   @media (max-width: 1100px) { .live-col { display: none; } }
@@ -296,7 +252,6 @@
 </head>
 <body>
 
-<!-- HEADER -->
 <header>
   <div class="wordmark">24HR<em>/</em>MKT NEWS</div>
   <div class="updated" id="updatedAt"><span class="pulse"></span>載入中…</div>
@@ -329,7 +284,6 @@
   <div class="news-col">
     <div class="filter-wrap" id="filterWrap">
       <button class="cat-btn active" data-cat="">全部</button>
-
       <div class="time-pills">
         <span style="font-family:'DM Mono',monospace;font-size:.52rem;color:var(--muted);letter-spacing:.06em">時段</span>
         <button class="time-pill active" data-h="1">1H</button>
@@ -337,7 +291,6 @@
         <button class="time-pill" data-h="24">24H</button>
         <button class="time-pill" data-h="0">ALL</button>
       </div>
-
       <div class="search-wrap">
         <svg width="11" height="11" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
           <circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/>
@@ -345,7 +298,6 @@
         <input type="text" id="search" placeholder="搜尋…">
       </div>
     </div>
-
     <div class="feed-scroll">
       <div class="stats">
         <div class="stat"><strong id="totalCount">—</strong>則快訊</div>
@@ -363,96 +315,65 @@
       <button class="m-tab" data-panel="bond">債券</button>
       <button class="m-tab" data-panel="commodity">原物料</button>
     </div>
-
     <div class="chart-body">
 
-      <!-- ① 指數 -->
       <div class="m-panel active" id="panel-equity">
-        <div class="chart-label">S&P 500 Index — 1min</div>
-        <div class="main-chart">
-          <div class="tradingview-widget-container">
-            <div class="tradingview-widget-container__widget"></div>
-            <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
-            {"autosize":true,"symbol":"FOREXCOM:SPXUSD","interval":"1","timezone":"Asia/Taipei","theme":"dark","style":"1","locale":"zh_TW","hide_top_toolbar":true,"hide_legend":true,"hide_side_toolbar":true,"allow_symbol_change":false,"save_image":false,"backgroundColor":"rgba(8,8,16,1)","gridColor":"rgba(28,28,46,1)"}
-            </script>
-          </div>
-        </div>
-        <div class="chart-label">QQQ · DIA · EWJ · EWH (ETF)</div>
+        <div class="chart-label" id="ml-equity">S&P 500 — 載入中</div>
+        <div class="main-chart" id="mc-equity"><div class="chart-loading">載入中…</div></div>
+        <div class="chart-label">指數概覽</div>
         <div class="mini-grid">
-          <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"NASDAQ:QQQ","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
-          <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"AMEX:DIA","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
-          <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"AMEX:EWJ","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
-          <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"AMEX:EWH","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
+          <div class="mini-item" id="mini-equity-0"><div class="chart-loading" style="font-size:.5rem">…</div></div>
+          <div class="mini-item" id="mini-equity-1"><div class="chart-loading" style="font-size:.5rem">…</div></div>
+          <div class="mini-item" id="mini-equity-2"><div class="chart-loading" style="font-size:.5rem">…</div></div>
+          <div class="mini-item" id="mini-equity-3"><div class="chart-loading" style="font-size:.5rem">…</div></div>
         </div>
       </div>
 
-      <!-- ② 匯率 -->
       <div class="m-panel" id="panel-fx">
-        <div class="chart-label">DXY 美元指數 — 1min</div>
-        <div class="main-chart">
-          <div class="tradingview-widget-container">
-            <div class="tradingview-widget-container__widget"></div>
-            <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
-            {"autosize":true,"symbol":"CAPITALCOM:DXY","interval":"1","timezone":"Asia/Taipei","theme":"dark","style":"1","locale":"zh_TW","hide_top_toolbar":true,"hide_legend":true,"hide_side_toolbar":true,"allow_symbol_change":false,"save_image":false,"backgroundColor":"rgba(8,8,16,1)","gridColor":"rgba(28,28,46,1)"}
-            </script>
-          </div>
-        </div>
-        <div class="chart-label">EUR/USD · USD/JPY · GBP/USD · AUD/USD</div>
+        <div class="chart-label" id="ml-fx">DXY 美元指數 — 載入中</div>
+        <div class="main-chart" id="mc-fx"><div class="chart-loading">載入中…</div></div>
+        <div class="chart-label">匯率概覽</div>
         <div class="mini-grid">
-          <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"FX:EURUSD","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
-          <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"OANDA:USDJPY","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
-          <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"FX:GBPUSD","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
-          <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"OANDA:AUDUSD","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
+          <div class="mini-item" id="mini-fx-0"><div class="chart-loading" style="font-size:.5rem">…</div></div>
+          <div class="mini-item" id="mini-fx-1"><div class="chart-loading" style="font-size:.5rem">…</div></div>
+          <div class="mini-item" id="mini-fx-2"><div class="chart-loading" style="font-size:.5rem">…</div></div>
+          <div class="mini-item" id="mini-fx-3"><div class="chart-loading" style="font-size:.5rem">…</div></div>
         </div>
       </div>
 
-      <!-- ③ 債券 -->
       <div class="m-panel" id="panel-bond">
-        <div class="chart-label">TLT 長期公債 ETF — 1min</div>
-        <div class="main-chart">
-          <div class="tradingview-widget-container">
-            <div class="tradingview-widget-container__widget"></div>
-            <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
-            {"autosize":true,"symbol":"NASDAQ:TLT","interval":"1","timezone":"Asia/Taipei","theme":"dark","style":"1","locale":"zh_TW","hide_top_toolbar":true,"hide_legend":true,"hide_side_toolbar":true,"allow_symbol_change":false,"save_image":false,"backgroundColor":"rgba(8,8,16,1)","gridColor":"rgba(28,28,46,1)"}
-            </script>
-          </div>
-        </div>
-        <div class="chart-label">SHY · IEF · TLT · TMV (NASDAQ)</div>
+        <div class="chart-label" id="ml-bond">US 10Y 殖利率 — 載入中</div>
+        <div class="main-chart" id="mc-bond"><div class="chart-loading">載入中…</div></div>
+        <div class="chart-label">殖利率概覽</div>
         <div class="mini-grid">
-          <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"NASDAQ:SHY","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
-          <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"NASDAQ:IEF","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
-          <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"NASDAQ:TLT","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
-          <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"NASDAQ:TMV","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
+          <div class="mini-item" id="mini-bond-0"><div class="chart-loading" style="font-size:.5rem">…</div></div>
+          <div class="mini-item" id="mini-bond-1"><div class="chart-loading" style="font-size:.5rem">…</div></div>
+          <div class="mini-item" id="mini-bond-2"><div class="chart-loading" style="font-size:.5rem">…</div></div>
+          <div class="mini-item" id="mini-bond-3"><div class="chart-loading" style="font-size:.5rem">…</div></div>
         </div>
       </div>
 
-      <!-- ④ 原物料 -->
       <div class="m-panel" id="panel-commodity">
-        <div class="chart-label">WTI 原油 (USO) — 1min</div>
-        <div class="main-chart">
-          <div class="tradingview-widget-container">
-            <div class="tradingview-widget-container__widget"></div>
-            <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
-            {"autosize":true,"symbol":"NASDAQ:USO","interval":"1","timezone":"Asia/Taipei","theme":"dark","style":"1","locale":"zh_TW","hide_top_toolbar":true,"hide_legend":true,"hide_side_toolbar":true,"allow_symbol_change":false,"save_image":false,"backgroundColor":"rgba(8,8,16,1)","gridColor":"rgba(28,28,46,1)"}
-            </script>
-          </div>
-        </div>
-        <div class="chart-label">UNG · GLD · SLV · CPER (ETF)</div>
+        <div class="chart-label" id="ml-commodity">WTI 原油 — 載入中</div>
+        <div class="main-chart" id="mc-commodity"><div class="chart-loading">載入中…</div></div>
+        <div class="chart-label">原物料概覽</div>
         <div class="mini-grid">
-          <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"NASDAQ:UNG","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
-          <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"AMEX:GLD","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
-          <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"AMEX:SLV","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
-          <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"AMEX:CPER","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
+          <div class="mini-item" id="mini-commodity-0"><div class="chart-loading" style="font-size:.5rem">…</div></div>
+          <div class="mini-item" id="mini-commodity-1"><div class="chart-loading" style="font-size:.5rem">…</div></div>
+          <div class="mini-item" id="mini-commodity-2"><div class="chart-loading" style="font-size:.5rem">…</div></div>
+          <div class="mini-item" id="mini-commodity-3"><div class="chart-loading" style="font-size:.5rem">…</div></div>
         </div>
       </div>
 
-    </div><!-- /chart-body -->
-  </div><!-- /chart-col -->
+    </div>
+  </div>
 
-</div><!-- /body-wrap -->
+</div>
 
 <script>
-/* ── NEWS FEED ── */
+/* ════════════════════════════════
+   NEWS FEED
+════════════════════════════════ */
 const DATA_URL = './data.json';
 let allItems = [], activeCat = '', activeHrs = 1, searchQ = '';
 
@@ -538,16 +459,257 @@ document.getElementById('search').addEventListener('input', e => { searchQ=e.tar
 load();
 setInterval(load, 60000);
 
-/* ── CHART TABS ── */
+/* ════════════════════════════════
+   CHARTS — Lightweight Charts + Yahoo Finance
+════════════════════════════════ */
+const PROXY = 'https://corsproxy.io/?url=';
+
+const PANELS = {
+  equity: {
+    main:  { symbol: '^GSPC',    label: 'S&P 500' },
+    minis: [
+      { symbol: '^IXIC',    label: 'Nasdaq' },
+      { symbol: '^DJI',     label: 'Dow Jones' },
+      { symbol: '^N225',    label: 'Nikkei 225' },
+      { symbol: '^HSI',     label: 'Hang Seng' },
+    ]
+  },
+  fx: {
+    main:  { symbol: 'DX-Y.NYB', label: 'DXY 美元指數' },
+    minis: [
+      { symbol: 'EURUSD=X', label: 'EUR/USD' },
+      { symbol: 'JPY=X',    label: 'USD/JPY' },
+      { symbol: 'GBPUSD=X', label: 'GBP/USD' },
+      { symbol: 'AUDUSD=X', label: 'AUD/USD' },
+    ]
+  },
+  bond: {
+    main:  { symbol: '^TNX',     label: 'US 10Y 殖利率' },
+    minis: [
+      { symbol: '^IRX',     label: 'US 3M' },
+      { symbol: '^FVX',     label: 'US 5Y' },
+      { symbol: '^TNX',     label: 'US 10Y' },
+      { symbol: '^TYX',     label: 'US 30Y' },
+    ]
+  },
+  commodity: {
+    main:  { symbol: 'CL=F',     label: 'WTI 原油' },
+    minis: [
+      { symbol: 'NG=F',     label: '天然氣' },
+      { symbol: 'GC=F',     label: '黃金' },
+      { symbol: 'SI=F',     label: '白銀' },
+      { symbol: 'HG=F',     label: '銅' },
+    ]
+  }
+};
+
+const chartInstances = {};
+const initialized = new Set();
+let activePanelId = 'equity';
+
+// ── Fetch ──
+async function fetchYahoo(symbol) {
+  const url = `https://query1.finance.yahoo.com/v8/finance/chart/${encodeURIComponent(symbol)}?interval=5m&range=2d&includePrePost=false`;
+  try {
+    const res = await fetch(PROXY + encodeURIComponent(url), { cache: 'no-store' });
+    const json = await res.json();
+    return json?.chart?.result?.[0] ?? null;
+  } catch(e) {
+    console.warn('Yahoo fetch error:', symbol, e.message);
+    return null;
+  }
+}
+
+// ── Data builders ──
+function buildCandles(result) {
+  const ts = result.timestamp || [];
+  const q  = result.indicators?.quote?.[0] || {};
+  return ts.map((t, i) => ({
+    time: t,
+    open:  q.open?.[i],
+    high:  q.high?.[i],
+    low:   q.low?.[i],
+    close: q.close?.[i],
+  })).filter(d => d.open != null && d.close != null);
+}
+
+function buildArea(result) {
+  const ts = result.timestamp || [];
+  const closes = result.indicators?.quote?.[0]?.close || [];
+  return ts.map((t, i) => ({ time: t, value: closes[i] })).filter(d => d.value != null);
+}
+
+function fmt(n, decimals) {
+  if (n == null || isNaN(n)) return '—';
+  if (decimals !== undefined) return n.toFixed(decimals);
+  return n >= 1000 ? n.toLocaleString('en-US', { maximumFractionDigits: 2 }) :
+         n >= 10   ? n.toFixed(2) : n.toFixed(4);
+}
+
+function changePct(curr, prev) {
+  if (!curr || !prev) return { str: '—', up: null };
+  const p = ((curr - prev) / prev) * 100;
+  return { str: (p >= 0 ? '+' : '') + p.toFixed(2) + '%', up: p >= 0 };
+}
+
+// ── Chart defaults ──
+const LW_BASE = {
+  layout: {
+    background: { type: 'solid', color: 'transparent' },
+    textColor: '#5a5a72', fontSize: 10,
+  },
+  grid: {
+    vertLines: { color: '#1c1c2e' },
+    horzLines: { color: '#1c1c2e' },
+  },
+  timeScale: {
+    borderColor: '#2a2a40',
+    timeVisible: true, secondsVisible: false,
+    fixRightEdge: true,
+  },
+  rightPriceScale: { borderColor: '#2a2a40' },
+  crosshair: { mode: 1 },
+};
+
+// ── Init panel ──
+async function initPanel(panelId) {
+  if (initialized.has(panelId)) return;
+  initialized.add(panelId);
+
+  const cfg = PANELS[panelId];
+  if (!cfg) return;
+
+  // Main chart
+  const mainEl  = document.getElementById(`mc-${panelId}`);
+  const labelEl = document.getElementById(`ml-${panelId}`);
+
+  if (mainEl) {
+    const result = await fetchYahoo(cfg.main.symbol);
+    if (result) {
+      const price = result.meta.regularMarketPrice;
+      const prev  = result.meta.previousClose || result.meta.chartPreviousClose;
+      const chg   = changePct(price, prev);
+      if (labelEl) labelEl.textContent = `${cfg.main.label}  ${fmt(price)}  ${chg.str}`;
+
+      mainEl.innerHTML = '';
+      const chart = LightweightCharts.createChart(mainEl, {
+        ...LW_BASE,
+        width:  mainEl.clientWidth,
+        height: mainEl.clientHeight,
+      });
+      const series = chart.addCandlestickSeries({
+        upColor:        '#4cc97a', downColor:        '#e05555',
+        borderUpColor:  '#4cc97a', borderDownColor:  '#e05555',
+        wickUpColor:    '#4cc97a', wickDownColor:    '#e05555',
+      });
+      const candles = buildCandles(result);
+      if (candles.length) { series.setData(candles); chart.timeScale().fitContent(); }
+      chartInstances[`main-${panelId}`] = chart;
+      new ResizeObserver(() => chart.applyOptions({
+        width: mainEl.clientWidth, height: mainEl.clientHeight
+      })).observe(mainEl);
+    } else {
+      mainEl.innerHTML = '<div class="chart-loading">資料載入失敗</div>';
+    }
+  }
+
+  // Mini cards
+  cfg.minis.forEach((mini, i) => {
+    const cardEl = document.getElementById(`mini-${panelId}-${i}`);
+    if (!cardEl) return;
+
+    cardEl.innerHTML = `
+      <div class="mini-info">
+        <span class="mini-name">${mini.label}</span>
+        <span class="mini-chg" id="mchg-${panelId}-${i}">…</span>
+      </div>
+      <div class="mini-price" id="mprc-${panelId}-${i}">…</div>
+      <div class="mini-chart-area" id="mca-${panelId}-${i}"></div>`;
+
+    fetchYahoo(mini.symbol).then(result => {
+      const prcEl  = document.getElementById(`mprc-${panelId}-${i}`);
+      const chgEl  = document.getElementById(`mchg-${panelId}-${i}`);
+      const areaEl = document.getElementById(`mca-${panelId}-${i}`);
+
+      if (!result) {
+        if (prcEl) prcEl.textContent = '無資料';
+        if (chgEl) chgEl.textContent = '';
+        return;
+      }
+
+      const price = result.meta.regularMarketPrice;
+      const prev  = result.meta.previousClose || result.meta.chartPreviousClose;
+      const chg   = changePct(price, prev);
+
+      if (prcEl) prcEl.textContent = fmt(price);
+      if (chgEl) {
+        chgEl.textContent = chg.str;
+        chgEl.className = 'mini-chg ' + (chg.up === true ? 'up' : chg.up === false ? 'dn' : '');
+      }
+
+      if (areaEl) {
+        const mc = LightweightCharts.createChart(areaEl, {
+          ...LW_BASE,
+          width: areaEl.clientWidth, height: areaEl.clientHeight,
+          timeScale: { visible: false },
+          rightPriceScale: { visible: false },
+          leftPriceScale:  { visible: false },
+          grid: { vertLines: { visible: false }, horzLines: { visible: false } },
+          crosshair: { mode: 0 },
+          handleScroll: false, handleScale: false,
+        });
+        const lineColor = chg.up !== false ? '#4cc97a' : '#e05555';
+        const as = mc.addAreaSeries({
+          lineColor,
+          topColor:    chg.up !== false ? 'rgba(76,201,122,.18)' : 'rgba(224,85,85,.18)',
+          bottomColor: 'transparent',
+          lineWidth: 1,
+          priceLineVisible: false,
+          lastValueVisible: false,
+        });
+        const data = buildArea(result);
+        if (data.length) { as.setData(data); mc.timeScale().fitContent(); }
+        new ResizeObserver(() => mc.applyOptions({
+          width: areaEl.clientWidth, height: areaEl.clientHeight
+        })).observe(areaEl);
+      }
+    });
+  });
+}
+
+// ── Tab switching ──
 document.querySelectorAll('.m-tab').forEach(tab => {
   tab.addEventListener('click', () => {
-    document.querySelectorAll('.m-tab').forEach(t=>t.classList.remove('active'));
-    document.querySelectorAll('.m-panel').forEach(p=>p.classList.remove('active'));
+    document.querySelectorAll('.m-tab').forEach(t => t.classList.remove('active'));
+    document.querySelectorAll('.m-panel').forEach(p => p.classList.remove('active'));
     tab.classList.add('active');
-    document.getElementById('panel-'+tab.dataset.panel).classList.add('active');
+    activePanelId = tab.dataset.panel;
+    document.getElementById('panel-' + activePanelId).classList.add('active');
+    initPanel(activePanelId);
   });
 });
 
+// ── Auto-refresh active panel every 2 min ──
+setInterval(() => {
+  // destroy main chart so it re-renders
+  const key = `main-${activePanelId}`;
+  if (chartInstances[key]) {
+    try { chartInstances[key].remove(); } catch(e) {}
+    delete chartInstances[key];
+  }
+  initialized.delete(activePanelId);
+  // reset DOM
+  const mainEl = document.getElementById(`mc-${activePanelId}`);
+  if (mainEl) mainEl.innerHTML = '<div class="chart-loading">更新中…</div>';
+  PANELS[activePanelId]?.minis.forEach((_, i) => {
+    const el = document.getElementById(`mini-${activePanelId}-${i}`);
+    if (el) el.innerHTML = '<div class="chart-loading" style="font-size:.5rem">…</div>';
+  });
+  initPanel(activePanelId);
+}, 120000);
+
+// ── Initial load ──
+initPanel('equity');
 </script>
 </body>
 </html>
