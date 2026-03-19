@@ -122,8 +122,43 @@
   .up { color: var(--green); }
   .dn { color: var(--red); }
 
-  @media (max-width: 1100px) { .live-col { display: none; } }
-  @media (max-width: 820px)  { .chart-col { display: none; } }
+  /* ── 手機：底部 tab 切換 ── */
+  #mobile-tabs { display: none; }
+
+  @media (max-width: 820px) {
+    .body-wrap { flex-direction: column; }
+    .live-col, .news-col, .chart-col {
+      width: 100%; flex-shrink: 0;
+      border-right: none;
+      border-bottom: 1px solid var(--border);
+      height: calc(100vh - var(--header-h) - 44px);
+      display: none;
+    }
+    .live-col.mob-active,
+    .news-col.mob-active,
+    .chart-col.mob-active { display: flex; }
+
+    #mobile-tabs {
+      display: flex;
+      position: fixed; bottom: 0; left: 0; right: 0; z-index: 200;
+      height: 44px;
+      background: var(--bg);
+      border-top: 1px solid var(--border);
+    }
+    .mob-tab {
+      flex: 1; font-family: 'DM Mono', monospace;
+      font-size: .6rem; letter-spacing: .06em;
+      background: transparent; border: none;
+      color: var(--muted); cursor: pointer;
+      border-top: 2px solid transparent;
+      transition: all .12s;
+    }
+    .mob-tab.active { color: var(--gold); border-top-color: var(--gold); }
+  }
+
+  @media (min-width: 821px) and (max-width: 1100px) {
+    .live-col { display: none; }
+  }
 </style>
 </head>
 <body>
@@ -481,6 +516,28 @@ document.querySelectorAll('.m-tab').forEach(tab => {
 
 loadMarket();
 setInterval(loadMarket, 5 * 60 * 1000);
+</script>
+<!-- 手機底部 Tab -->
+<div id="mobile-tabs">
+  <button class="mob-tab" data-col="live">直播</button>
+  <button class="mob-tab active" data-col="news">快訊</button>
+  <button class="mob-tab" data-col="chart">K線</button>
+</div>
+
+<script>
+// 手機 tab 切換
+const colMap = { live: '.live-col', news: '.news-col', chart: '.chart-col' };
+document.querySelectorAll('.mob-tab').forEach(tab => {
+  tab.addEventListener('click', () => {
+    document.querySelectorAll('.mob-tab').forEach(t => t.classList.remove('active'));
+    tab.classList.add('active');
+    const col = tab.dataset.col;
+    Object.values(colMap).forEach(sel => document.querySelector(sel)?.classList.remove('mob-active'));
+    document.querySelector(colMap[col])?.classList.add('mob-active');
+  });
+});
+// 預設顯示快訊
+document.querySelector('.news-col')?.classList.add('mob-active');
 </script>
 </body>
 </html>
