@@ -1,5 +1,4 @@
 """
-新浪財經 7x24 快訊爬蟲
 - 爬取最新快訊（簡體）→ 轉換繁體（臺灣正體）
 - 輸出至 docs/data.json，供 GitHub Pages 讀取
 """
@@ -64,8 +63,18 @@ def fetch_sina_7x24(pages: int = 20, page_size: int = 50) -> list[dict]:
                 continue
             seen_ids.add(item_id)
 
+
             tags = [to_tw(t["name"]) for t in item.get("tag", []) if t.get("name")]
             text = to_tw(item.get("rich_text", "").strip())
+            
+            # 央行分類：標籤或內文含關鍵字自動歸類
+            CB_KEYWORDS = ["央行", "聯儲"]
+            if any(kw in tag for tag in tags for kw in CB_KEYWORDS) or \
+               any(kw in text for kw in CB_KEYWORDS):
+                if "央行" not in tags:
+                    tags.insert(0, "央行")
+
+            
 
             all_items.append({
                 "id": item_id,
