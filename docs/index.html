@@ -17,7 +17,9 @@
     --text:         #e2e0d8;
     --muted:        #5a5a72;
     --green:        #4cc97a;
-    --panel-w:      380px;
+    --live-w:       320px;
+    --chart-w:      360px;
+    --header-h:     52px;
   }
 
   * { margin: 0; padding: 0; box-sizing: border-box; }
@@ -39,13 +41,13 @@
 
   /* ── HEADER ── */
   header {
-    position: sticky; top: 0; z-index: 200;
-    background: rgba(8,8,16,.94);
+    position: fixed; top: 0; left: 0; right: 0; z-index: 300;
+    background: rgba(8,8,16,.96);
     backdrop-filter: blur(16px);
     border-bottom: 1px solid var(--border);
-    height: 52px;
+    height: var(--header-h);
     display: flex; align-items: center;
-    padding: 0 1.25rem; gap: 1rem;
+    padding: 0 1.25rem; gap: 1.2rem;
   }
   .wordmark {
     font-family: 'DM Mono', monospace;
@@ -53,10 +55,11 @@
     letter-spacing: .14em; color: var(--gold); flex-shrink: 0;
   }
   .wordmark em { color: var(--muted); font-style: normal; }
+
   .updated {
     font-family: 'DM Mono', monospace;
-    font-size: .62rem; color: var(--muted);
-    letter-spacing: .04em; margin-left: auto;
+    font-size: .62rem; color: var(--muted); letter-spacing: .04em;
+    margin-left: auto;
   }
   .pulse {
     display: inline-block; width: 5px; height: 5px;
@@ -65,30 +68,92 @@
   }
   @keyframes blink { 0%,100%{opacity:1} 50%{opacity:.2} }
 
-  /* ── LAYOUT ── */
-  .layout {
-    display: flex; align-items: flex-start;
-    position: relative; z-index: 1;
+  /* ── BODY ── */
+  .body-wrap {
+    display: flex;
+    position: fixed;
+    top: var(--header-h); left: 0; right: 0; bottom: 0;
+    z-index: 1;
   }
 
-  /* ── LEFT: NEWS ── */
+  /* ════════════════
+     LEFT — LIVE
+  ════════════════ */
+  .live-col {
+    width: var(--live-w); flex-shrink: 0;
+    display: flex; flex-direction: column;
+    border-right: 1px solid var(--border);
+    background: var(--surface);
+    overflow: hidden;
+  }
+
+  .col-header {
+    font-family: 'DM Mono', monospace;
+    font-size: .58rem; letter-spacing: .12em; text-transform: uppercase;
+    color: var(--muted);
+    padding: .45rem .85rem;
+    background: var(--bg);
+    border-bottom: 1px solid var(--border);
+    flex-shrink: 0;
+  }
+
+  .live-channels {
+    display: flex; flex-wrap: wrap; gap: .28rem;
+    padding: .45rem .7rem;
+    border-bottom: 1px solid var(--border);
+    background: var(--bg);
+    flex-shrink: 0;
+  }
+  .live-btn {
+    font-family: 'DM Mono', monospace;
+    font-size: .55rem; letter-spacing: .04em;
+    padding: .22rem .55rem;
+    border: 1px solid var(--border-bright); border-radius: 2px;
+    background: transparent; color: var(--muted); cursor: pointer;
+    transition: all .12s;
+  }
+  .live-btn:hover { color: var(--text); border-color: var(--gold-dim); }
+  .live-btn.active { background: var(--gold); color: #080810; border-color: var(--gold); font-weight: 500; }
+
+  .live-player {
+    flex: 1;
+    position: relative;
+    background: #000;
+  }
+  .live-player iframe {
+    position: absolute; inset: 0;
+    width: 100%; height: 100%; border: none;
+  }
+
+  .live-note {
+    font-family: 'DM Mono', monospace;
+    font-size: .52rem; color: var(--muted);
+    padding: .4rem .7rem; line-height: 1.7;
+    border-top: 1px solid var(--border);
+    flex-shrink: 0;
+  }
+
+  /* ════════════════
+     CENTER — NEWS
+  ════════════════ */
   .news-col {
     flex: 1; min-width: 0;
+    display: flex; flex-direction: column;
     border-right: 1px solid var(--border);
+    overflow: hidden;
   }
 
   .filter-wrap {
-    position: sticky; top: 52px; z-index: 99;
-    background: rgba(8,8,16,.92);
-    backdrop-filter: blur(12px);
+    display: flex; flex-wrap: wrap; gap: .3rem; align-items: center;
+    padding: .45rem .9rem;
+    background: rgba(8,8,16,.95);
     border-bottom: 1px solid var(--border);
-    padding: .55rem 1.25rem;
-    display: flex; flex-wrap: wrap; gap: .35rem; align-items: center;
+    flex-shrink: 0;
   }
   .cat-btn {
     font-family: 'DM Mono', monospace;
-    font-size: .65rem; letter-spacing: .04em;
-    padding: .28rem .7rem;
+    font-size: .6rem; letter-spacing: .04em;
+    padding: .24rem .6rem;
     border: 1px solid var(--border-bright); border-radius: 2px;
     background: transparent; color: var(--muted); cursor: pointer;
     transition: all .12s;
@@ -96,11 +161,11 @@
   .cat-btn:hover { color: var(--text); border-color: var(--gold-dim); }
   .cat-btn.active { background: var(--gold); color: #080810; border-color: var(--gold); font-weight: 500; }
 
-  .time-pills { display: flex; gap: .25rem; align-items: center; margin-left: auto; }
+  .time-pills { display: flex; gap: .22rem; align-items: center; margin-left: auto; }
   .time-pill {
     font-family: 'DM Mono', monospace;
-    font-size: .6rem; letter-spacing: .06em;
-    padding: .22rem .6rem;
+    font-size: .56rem; letter-spacing: .06em;
+    padding: .2rem .5rem;
     border: 1px solid var(--border-bright); border-radius: 2px;
     background: transparent; color: var(--muted); cursor: pointer;
     transition: all .12s;
@@ -110,88 +175,94 @@
 
   .search-wrap { position: relative; }
   .search-wrap svg {
-    position: absolute; left: 8px; top: 50%;
-    transform: translateY(-50%); opacity: .35;
+    position: absolute; left: 7px; top: 50%;
+    transform: translateY(-50%); opacity: .32;
   }
   #search {
     font-family: 'DM Mono', monospace;
-    font-size: .65rem; letter-spacing: .04em;
-    background: var(--surface); border: 1px solid var(--border-bright);
-    color: var(--text); padding: .28rem .7rem .28rem 26px;
-    border-radius: 2px; outline: none; width: 150px;
+    font-size: .6rem; letter-spacing: .04em;
+    background: var(--bg); border: 1px solid var(--border-bright);
+    color: var(--text); padding: .22rem .6rem .22rem 24px;
+    border-radius: 2px; outline: none; width: 130px;
     transition: border-color .15s;
   }
   #search:focus { border-color: var(--gold-dim); }
   #search::placeholder { color: var(--muted); }
 
-  .feed-inner { padding: 1.2rem 1.25rem 5rem; max-width: 760px; }
+  .feed-scroll {
+    flex: 1; overflow-y: auto;
+    padding: 1rem 1.1rem 2rem;
+  }
 
   .stats {
-    display: flex; gap: 2rem;
-    padding-bottom: 1.2rem;
+    display: flex; gap: 1.5rem;
+    padding-bottom: 1rem;
     border-bottom: 1px solid var(--border);
-    margin-bottom: 1.5rem;
+    margin-bottom: 1.2rem;
   }
-  .stat { font-family: 'DM Mono', monospace; font-size: .65rem; color: var(--muted); }
-  .stat strong { display: block; font-size: 1.4rem; color: var(--gold); font-weight: 500; letter-spacing: -.02em; line-height: 1.1; }
+  .stat { font-family: 'DM Mono', monospace; font-size: .6rem; color: var(--muted); }
+  .stat strong { display: block; font-size: 1.3rem; color: var(--gold); font-weight: 500; letter-spacing: -.02em; line-height: 1.1; }
 
   .results-count {
     font-family: 'DM Mono', monospace;
-    font-size: .6rem; color: var(--muted); margin-bottom: .8rem;
+    font-size: .56rem; color: var(--muted); margin-bottom: .7rem;
   }
 
   .card {
-    display: grid; grid-template-columns: 64px 1fr;
-    gap: 1.2rem; padding: 1.2rem 0;
+    display: grid; grid-template-columns: 58px 1fr;
+    gap: 1rem; padding: 1rem 0;
     border-bottom: 1px solid var(--border);
     animation: rise .3s ease both;
   }
-  @keyframes rise { from{opacity:0;transform:translateY(5px)} to{opacity:1} }
+  @keyframes rise { from{opacity:0;transform:translateY(4px)} to{opacity:1} }
 
   .card-time {
     font-family: 'DM Mono', monospace;
-    font-size: .58rem; color: var(--muted);
-    padding-top: 3px; line-height: 1.8;
+    font-size: .55rem; color: var(--muted);
+    padding-top: 2px; line-height: 1.8;
   }
   .card-time .t-date { display: block; }
-  .card-time .t-time { display: block; color: var(--gold); font-size: .68rem; }
+  .card-time .t-time { display: block; color: var(--gold); font-size: .64rem; }
 
-  .card-tags { display: flex; flex-wrap: wrap; gap: .3rem; margin-bottom: .45rem; }
+  .card-tags { display: flex; flex-wrap: wrap; gap: .25rem; margin-bottom: .4rem; }
   .tag {
-    font-family: 'DM Mono', monospace; font-size: .58rem;
-    padding: .12rem .45rem;
-    border: 1px solid rgba(201,168,76,.22);
-    color: var(--gold-dim); border-radius: 2px; letter-spacing: .03em;
+    font-family: 'DM Mono', monospace; font-size: .54rem;
+    padding: .1rem .4rem;
+    border: 1px solid rgba(201,168,76,.2);
+    color: var(--gold-dim); border-radius: 2px;
   }
-  .card-body {
-    font-size: .8rem; color: #a8a6a0; line-height: 1.85;
-  }
+  .card-body { font-size: .78rem; color: #a8a6a0; line-height: 1.82; }
 
   .empty {
-    text-align: center; padding: 4rem 0;
+    text-align: center; padding: 3rem 0;
     font-family: 'DM Mono', monospace;
-    font-size: .75rem; color: var(--muted); line-height: 2;
+    font-size: .7rem; color: var(--muted); line-height: 2;
   }
 
-  /* ── RIGHT: MARKETS ── */
-  .market-col {
-    width: var(--panel-w); flex-shrink: 0;
-    position: sticky; top: 52px;
-    height: calc(100vh - 52px);
-    overflow-y: auto;
+  .feed-scroll::-webkit-scrollbar { width: 3px; }
+  .feed-scroll::-webkit-scrollbar-track { background: var(--bg); }
+  .feed-scroll::-webkit-scrollbar-thumb { background: var(--border-bright); }
+
+  /* ════════════════
+     RIGHT — CHARTS
+  ════════════════ */
+  .chart-col {
+    width: var(--chart-w); flex-shrink: 0;
+    display: flex; flex-direction: column;
     background: var(--surface);
+    overflow: hidden;
   }
 
   .market-tabs {
     display: flex;
     border-bottom: 1px solid var(--border);
     background: var(--bg);
-    position: sticky; top: 0; z-index: 10;
+    flex-shrink: 0;
   }
   .m-tab {
     font-family: 'DM Mono', monospace;
-    font-size: .54rem; letter-spacing: .04em;
-    padding: .65rem 0; flex: 1; text-align: center;
+    font-size: .52rem; letter-spacing: .04em;
+    padding: .6rem 0; flex: 1; text-align: center;
     background: transparent; border: none;
     color: var(--muted); cursor: pointer;
     border-bottom: 2px solid transparent;
@@ -200,22 +271,29 @@
   .m-tab:hover { color: var(--text); }
   .m-tab.active { color: var(--gold); border-bottom-color: var(--gold); }
 
+  .chart-body {
+    flex: 1; overflow-y: auto; overflow-x: hidden;
+  }
+  .chart-body::-webkit-scrollbar { width: 3px; }
+  .chart-body::-webkit-scrollbar-track { background: var(--surface); }
+  .chart-body::-webkit-scrollbar-thumb { background: var(--border-bright); }
+
   .m-panel { display: none; }
   .m-panel.active { display: block; }
 
   .chart-label {
     font-family: 'DM Mono', monospace;
-    font-size: .56rem; letter-spacing: .1em; text-transform: uppercase;
-    color: var(--muted); padding: .35rem .75rem;
+    font-size: .52rem; letter-spacing: .1em; text-transform: uppercase;
+    color: var(--muted); padding: .32rem .7rem;
     background: var(--bg);
     border-bottom: 1px solid var(--border);
     border-top: 1px solid var(--border);
   }
 
-  .main-chart { height: 260px; }
+  .main-chart { height: 240px; overflow: hidden; }
   .mini-grid { display: grid; grid-template-columns: 1fr 1fr; }
   .mini-item {
-    height: 138px; overflow: hidden;
+    height: 130px; overflow: hidden;
     border-right: 1px solid var(--border);
     border-bottom: 1px solid var(--border);
   }
@@ -224,71 +302,40 @@
   .tradingview-widget-container,
   .tradingview-widget-container__widget { height: 100% !important; }
 
-  /* ── LIVE PANEL ── */
-  .live-channels {
-    display: flex; flex-wrap: wrap; gap: .3rem;
-    padding: .55rem .75rem;
-    border-bottom: 1px solid var(--border);
-    background: var(--bg);
-  }
-  .live-btn {
-    font-family: 'DM Mono', monospace;
-    font-size: .58rem; letter-spacing: .04em;
-    padding: .25rem .65rem;
-    border: 1px solid var(--border-bright); border-radius: 2px;
-    background: transparent; color: var(--muted); cursor: pointer;
-    transition: all .12s;
-  }
-  .live-btn:hover { color: var(--text); border-color: var(--gold-dim); }
-  .live-btn.active { background: var(--gold); color: #080810; border-color: var(--gold); font-weight: 500; }
-
-  .live-player {
-    position: relative; padding-top: 56.25%; background: #000;
-  }
-  .live-player iframe {
-    position: absolute; inset: 0;
-    width: 100%; height: 100%; border: none;
-  }
-
-  .live-note {
-    font-family: 'DM Mono', monospace;
-    font-size: .56rem; color: var(--muted);
-    padding: .5rem .75rem;
-    line-height: 1.6;
-    border-top: 1px solid var(--border);
-  }
-
-  .market-col::-webkit-scrollbar { width: 3px; }
-  .market-col::-webkit-scrollbar-track { background: var(--surface); }
-  .market-col::-webkit-scrollbar-thumb { background: var(--border-bright); }
-  ::-webkit-scrollbar { width: 3px; }
-  ::-webkit-scrollbar-track { background: var(--bg); }
-  ::-webkit-scrollbar-thumb { background: var(--border-bright); }
-
-  @media (max-width: 960px) { .market-col { display: none; } }
-  @media (max-width: 580px) {
-    header { padding: 0 .8rem; }
-    .filter-wrap { padding: .45rem .8rem; }
-    .feed-inner { padding: 1rem .8rem 5rem; }
-  }
+  /* ── RESPONSIVE ── */
+  @media (max-width: 1100px) { .live-col { display: none; } }
+  @media (max-width: 820px)  { .chart-col { display: none; } }
 </style>
 </head>
 <body>
 
+<!-- HEADER -->
 <header>
   <div class="wordmark">24HR<em>/</em>MKT NEWS</div>
   <div class="updated" id="updatedAt"><span class="pulse"></span>載入中…</div>
 </header>
 
-<div class="layout">
+<div class="body-wrap">
 
-  <!-- ══ LEFT ══ -->
+  <!-- ══ LEFT: LIVE ══ -->
+  <div class="live-col">
+    <div class="col-header">▶ 財經直播</div>
+    <div class="live-channels" id="liveChannels"></div>
+    <div class="live-player">
+      <iframe id="liveFrame" src=""
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen></iframe>
+    </div>
+    <div class="live-note">▸ 靜音播放，點播放器右下角可開聲音<br>▸ 顯示離線請切換其他頻道</div>
+  </div>
+
+  <!-- ══ CENTER: NEWS ══ -->
   <div class="news-col">
     <div class="filter-wrap" id="filterWrap">
       <button class="cat-btn active" data-cat="">全部</button>
 
       <div class="time-pills">
-        <span style="font-family:'DM Mono',monospace;font-size:.56rem;color:var(--muted);letter-spacing:.06em">時段</span>
+        <span style="font-family:'DM Mono',monospace;font-size:.52rem;color:var(--muted);letter-spacing:.06em">時段</span>
         <button class="time-pill active" data-h="1">1H</button>
         <button class="time-pill" data-h="6">6H</button>
         <button class="time-pill" data-h="24">24H</button>
@@ -296,14 +343,14 @@
       </div>
 
       <div class="search-wrap">
-        <svg width="12" height="12" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+        <svg width="11" height="11" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
           <circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/>
         </svg>
         <input type="text" id="search" placeholder="搜尋…">
       </div>
     </div>
 
-    <div class="feed-inner">
+    <div class="feed-scroll">
       <div class="stats">
         <div class="stat"><strong id="totalCount">—</strong>則快訊</div>
       </div>
@@ -312,115 +359,101 @@
     </div>
   </div>
 
-  <!-- ══ RIGHT: MARKETS ══ -->
-  <div class="market-col">
+  <!-- ══ RIGHT: CHARTS ══ -->
+  <div class="chart-col">
     <div class="market-tabs">
-      <button class="m-tab active" data-panel="equity">指數期貨</button>
+      <button class="m-tab active" data-panel="equity">指數</button>
       <button class="m-tab" data-panel="fx">匯率</button>
       <button class="m-tab" data-panel="bond">債券</button>
       <button class="m-tab" data-panel="commodity">原物料</button>
-      <button class="m-tab" data-panel="live">直播</button>
     </div>
 
-    <!-- ① 指數期貨 -->
-    <div class="m-panel active" id="panel-equity">
-      <div class="chart-label">S&P 500 Futures (ES) — 1min K線</div>
-      <div class="main-chart">
-        <div class="tradingview-widget-container">
-          <div class="tradingview-widget-container__widget"></div>
-          <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
-          {"autosize":true,"symbol":"FOREXCOM:SPXUSD","interval":"1","timezone":"Asia/Taipei","theme":"dark","style":"1","locale":"zh_TW","hide_top_toolbar":true,"hide_legend":true,"hide_side_toolbar":true,"allow_symbol_change":false,"save_image":false,"backgroundColor":"rgba(8,8,16,1)","gridColor":"rgba(28,28,46,1)"}
-          </script>
+    <div class="chart-body">
+
+      <!-- ① 指數 -->
+      <div class="m-panel active" id="panel-equity">
+        <div class="chart-label">S&P 500 Index — 1min</div>
+        <div class="main-chart">
+          <div class="tradingview-widget-container">
+            <div class="tradingview-widget-container__widget"></div>
+            <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+            {"autosize":true,"symbol":"FOREXCOM:SPXUSD","interval":"1","timezone":"Asia/Taipei","theme":"dark","style":"1","locale":"zh_TW","hide_top_toolbar":true,"hide_legend":true,"hide_side_toolbar":true,"allow_symbol_change":false,"save_image":false,"backgroundColor":"rgba(8,8,16,1)","gridColor":"rgba(28,28,46,1)"}
+            </script>
+          </div>
+        </div>
+        <div class="chart-label">NQ · DJ · Nikkei · HSI</div>
+        <div class="mini-grid">
+          <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"FOREXCOM:NASUSD","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
+          <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"FOREXCOM:DJUSD","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
+          <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"TVC:NI225","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
+          <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"TVC:HSI","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
         </div>
       </div>
-      <div class="chart-label">NQ · YM · Nikkei · HSI</div>
-      <div class="mini-grid">
-        <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"FOREXCOM:NASUSD","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
-        <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"FOREXCOM:DJUSD","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
-        <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"TVC:NI225","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
-        <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"TVC:HSI","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
-      </div>
-    </div>
 
-    <!-- ② 匯率 -->
-    <div class="m-panel" id="panel-fx">
-      <div class="chart-label">DXY 美元指數 — 1min K線</div>
-      <div class="main-chart">
-        <div class="tradingview-widget-container">
-          <div class="tradingview-widget-container__widget"></div>
-          <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
-          {"autosize":true,"symbol":"CAPITALCOM:DXY","interval":"1","timezone":"Asia/Taipei","theme":"dark","style":"1","locale":"zh_TW","hide_top_toolbar":true,"hide_legend":true,"hide_side_toolbar":true,"allow_symbol_change":false,"save_image":false,"backgroundColor":"rgba(8,8,16,1)","gridColor":"rgba(28,28,46,1)"}
-          </script>
+      <!-- ② 匯率 -->
+      <div class="m-panel" id="panel-fx">
+        <div class="chart-label">DXY 美元指數 — 1min</div>
+        <div class="main-chart">
+          <div class="tradingview-widget-container">
+            <div class="tradingview-widget-container__widget"></div>
+            <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+            {"autosize":true,"symbol":"CAPITALCOM:DXY","interval":"1","timezone":"Asia/Taipei","theme":"dark","style":"1","locale":"zh_TW","hide_top_toolbar":true,"hide_legend":true,"hide_side_toolbar":true,"allow_symbol_change":false,"save_image":false,"backgroundColor":"rgba(8,8,16,1)","gridColor":"rgba(28,28,46,1)"}
+            </script>
+          </div>
+        </div>
+        <div class="chart-label">EUR/USD · USD/JPY · GBP/USD · AUD/USD</div>
+        <div class="mini-grid">
+          <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"FX:EURUSD","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
+          <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"FX:USDJPY","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
+          <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"FX:GBPUSD","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
+          <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"FX:AUDUSD","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
         </div>
       </div>
-      <div class="chart-label">EUR/USD · USD/JPY · GBP/USD · AUD/USD</div>
-      <div class="mini-grid">
-        <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"FX:EURUSD","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
-        <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"FX:USDJPY","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
-        <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"FX:GBPUSD","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
-        <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"FX:AUDUSD","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
-      </div>
-    </div>
 
-    <!-- ③ 債券 -->
-    <div class="m-panel" id="panel-bond">
-      <div class="chart-label">US 10Y 殖利率 — 1min K線</div>
-      <div class="main-chart">
-        <div class="tradingview-widget-container">
-          <div class="tradingview-widget-container__widget"></div>
-          <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
-          {"autosize":true,"symbol":"TVC:US10Y","interval":"1","timezone":"Asia/Taipei","theme":"dark","style":"1","locale":"zh_TW","hide_top_toolbar":true,"hide_legend":true,"hide_side_toolbar":true,"allow_symbol_change":false,"save_image":false,"backgroundColor":"rgba(8,8,16,1)","gridColor":"rgba(28,28,46,1)"}
-          </script>
+      <!-- ③ 債券 -->
+      <div class="m-panel" id="panel-bond">
+        <div class="chart-label">US 10Y 殖利率 — 1min</div>
+        <div class="main-chart">
+          <div class="tradingview-widget-container">
+            <div class="tradingview-widget-container__widget"></div>
+            <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+            {"autosize":true,"symbol":"TVC:US10Y","interval":"1","timezone":"Asia/Taipei","theme":"dark","style":"1","locale":"zh_TW","hide_top_toolbar":true,"hide_legend":true,"hide_side_toolbar":true,"allow_symbol_change":false,"save_image":false,"backgroundColor":"rgba(8,8,16,1)","gridColor":"rgba(28,28,46,1)"}
+            </script>
+          </div>
+        </div>
+        <div class="chart-label">US 2Y · 5Y · 30Y · T-Bond Futures</div>
+        <div class="mini-grid">
+          <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"TVC:US02Y","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
+          <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"TVC:US05Y","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
+          <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"TVC:US30Y","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
+          <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"CME:ZB1!","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
         </div>
       </div>
-      <div class="chart-label">US 2Y · 5Y · 30Y · T-Bond Futures</div>
-      <div class="mini-grid">
-        <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"TVC:US02Y","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
-        <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"TVC:US05Y","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
-        <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"TVC:US30Y","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
-        <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"CME:ZB1!","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
-      </div>
-    </div>
 
-    <!-- ④ 原物料 -->
-    <div class="m-panel" id="panel-commodity">
-      <div class="chart-label">WTI 原油期貨 — 1min K線</div>
-      <div class="main-chart">
-        <div class="tradingview-widget-container">
-          <div class="tradingview-widget-container__widget"></div>
-          <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
-          {"autosize":true,"symbol":"NYMEX:CL1!","interval":"1","timezone":"Asia/Taipei","theme":"dark","style":"1","locale":"zh_TW","hide_top_toolbar":true,"hide_legend":true,"hide_side_toolbar":true,"allow_symbol_change":false,"save_image":false,"backgroundColor":"rgba(8,8,16,1)","gridColor":"rgba(28,28,46,1)"}
-          </script>
+      <!-- ④ 原物料 -->
+      <div class="m-panel" id="panel-commodity">
+        <div class="chart-label">WTI 原油 — 1min</div>
+        <div class="main-chart">
+          <div class="tradingview-widget-container">
+            <div class="tradingview-widget-container__widget"></div>
+            <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+            {"autosize":true,"symbol":"NYMEX:CL1!","interval":"1","timezone":"Asia/Taipei","theme":"dark","style":"1","locale":"zh_TW","hide_top_toolbar":true,"hide_legend":true,"hide_side_toolbar":true,"allow_symbol_change":false,"save_image":false,"backgroundColor":"rgba(8,8,16,1)","gridColor":"rgba(28,28,46,1)"}
+            </script>
+          </div>
+        </div>
+        <div class="chart-label">天然氣 · 黃金 · 白銀 · 銅</div>
+        <div class="mini-grid">
+          <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"NYMEX:NG1!","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
+          <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"COMEX:GC1!","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
+          <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"COMEX:SI1!","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
+          <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"COMEX:HG1!","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
         </div>
       </div>
-      <div class="chart-label">天然氣 · 黃金 · 白銀 · 銅</div>
-      <div class="mini-grid">
-        <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"NYMEX:NG1!","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
-        <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"COMEX:GC1!","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
-        <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"COMEX:SI1!","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
-        <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"COMEX:HG1!","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
-      </div>
-    </div>
 
-    <!-- ⑤ 直播 -->
-    <div class="m-panel" id="panel-live">
-      <div class="chart-label">財經新聞直播</div>
-      <div class="live-channels" id="liveChannels"></div>
-      <div class="live-player">
-        <iframe id="liveFrame"
-          src=""
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          allowfullscreen>
-        </iframe>
-      </div>
-      <div class="live-note">
-        ▸ 預設靜音，點播放器右下角可開聲音<br>
-        ▸ 直播若顯示離線請切換其他頻道
-      </div>
-    </div>
+    </div><!-- /chart-body -->
+  </div><!-- /chart-col -->
 
-  </div><!-- /market-col -->
-</div><!-- /layout -->
+</div><!-- /body-wrap -->
 
 <script>
 /* ── NEWS FEED ── */
@@ -455,7 +488,7 @@ async function load() {
 function buildCats() {
   const counts = new Map();
   allItems.forEach(item => item.tags.forEach(t => counts.set(t,(counts.get(t)||0)+1)));
-  const top = [...counts.entries()].sort((a,b)=>b[1]-a[1]).slice(0,18);
+  const top = [...counts.entries()].sort((a,b)=>b[1]-a[1]).slice(0,16);
   const wrap = document.getElementById('filterWrap');
   wrap.querySelectorAll('.cat-btn:not([data-cat=""])').forEach(b => b.remove());
   const pills = wrap.querySelector('.time-pills');
@@ -509,31 +542,24 @@ document.getElementById('search').addEventListener('input', e => { searchQ=e.tar
 load();
 setInterval(load, 60000);
 
-/* ── MARKET TABS ── */
+/* ── CHART TABS ── */
 document.querySelectorAll('.m-tab').forEach(tab => {
   tab.addEventListener('click', () => {
     document.querySelectorAll('.m-tab').forEach(t=>t.classList.remove('active'));
     document.querySelectorAll('.m-panel').forEach(p=>p.classList.remove('active'));
     tab.classList.add('active');
-    const panelId = 'panel-' + tab.dataset.panel;
-    document.getElementById(panelId).classList.add('active');
-    // 切到直播 tab 才載入，避免背景自動播放
-    if (tab.dataset.panel === 'live') {
-      const frame = document.getElementById('liveFrame');
-      if (!frame.src.includes('youtube.com')) setLive(activeLiveId);
-    }
+    document.getElementById('panel-'+tab.dataset.panel).classList.add('active');
   });
 });
 
-/* ── LIVE CHANNELS ── */
+/* ── LIVE ── */
 const liveChannels = [
-  { name: 'Bloomberg',    id: 'iEpJwprxDdk' },
+  { name: 'Bloomberg',     id: 'iEpJwprxDdk' },
   { name: 'Yahoo Finance', id: 'YDvsBbKfLPA' },
-  { name: 'CNBC',         id: '6_S9nI3YzSs'  },
-  { name: 'Fox Business', id: 'wMJAt73KABI'  },
-  { name: 'Al Jazeera',   id: 'h3MuIUGApuc'  },
+  { name: 'CNBC',          id: '6_S9nI3YzSs'  },
+  { name: 'Fox Business',  id: 'wMJAt73KABI'  },
+  { name: 'Al Jazeera',    id: 'h3MuIUGApuc'  },
 ];
-
 let activeLiveId = liveChannels[0].id;
 
 function setLive(id) {
@@ -542,22 +568,21 @@ function setLive(id) {
     `https://www.youtube.com/embed/${id}?autoplay=1&mute=1`;
 }
 
-function buildLiveChannels() {
+(function buildLive() {
   const wrap = document.getElementById('liveChannels');
   liveChannels.forEach(ch => {
     const btn = document.createElement('button');
     btn.className = 'live-btn' + (ch.id === activeLiveId ? ' active' : '');
     btn.textContent = ch.name;
     btn.onclick = () => {
-      document.querySelectorAll('.live-btn').forEach(b => b.classList.remove('active'));
+      document.querySelectorAll('.live-btn').forEach(b=>b.classList.remove('active'));
       btn.classList.add('active');
       setLive(ch.id);
     };
     wrap.appendChild(btn);
   });
-}
-
-buildLiveChannels();
+  setLive(activeLiveId);
+})();
 </script>
 </body>
 </html>
