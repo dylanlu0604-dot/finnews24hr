@@ -1,5 +1,4 @@
-name: 🕐 Sina 7x24 Scraper
-
+name: 🕐 Financial News Scraper
 on:
   schedule:
     - cron: "*/5 * * * *"   # 每 5 分鐘執行一次
