@@ -2,8 +2,12 @@ name: 🕐 Financial News Scraper
 
 on:
   schedule:
-    - cron: "*/15 * * * *"
+    - cron: "*/5 * * * *"
   workflow_dispatch:
+
+concurrency:
+  group: scraper
+  cancel-in-progress: false
 
 permissions:
   contents: write
@@ -11,7 +15,7 @@ permissions:
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    timeout-minutes: 4
+    timeout-minutes: 25
 
     steps:
       - name: Checkout repo
@@ -26,17 +30,22 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Run scraper
-        run: python scraper/fetch_sina.py || echo "[WARN] scraper failed"
-
-      - name: Commit & push (if changed)
+      - name: Run scraper every 5min (x5)
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/data.json scraper/news.db docs/market.json
-          if git diff --cached --quiet; then
-            echo "No changes, skipping commit."
-          else
-            git commit -m "data: update [$(date -u '+%Y-%m-%d %H:%M UTC')]"
-            git push
-          fi
+
+          for i in 1 2 3 4 5; do
+            echo "=== Round $i ==="
+            python scraper/fetch_sina.py || echo "[WARN] scraper failed"
+
+            git add docs/data.json scraper/news.db docs/market.json
+            if git diff --cached --quiet; then
+              echo "No changes."
+            else
+              git commit -m "data: round $i [$(date -u '+%H:%M:%S UTC')]"
+              git push
+            fi
+
+            [ $i -lt 5 ] && sleep 300
+          done
