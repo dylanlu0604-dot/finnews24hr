@@ -15,7 +15,7 @@ permissions:
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    timeout-minutes: 25
+    timeout-minutes: 62
 
     steps:
       - name: Checkout repo
@@ -30,12 +30,12 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Run scraper every 5min (x5)
+      - name: Run scraper every 3min (x20)
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          for i in 1 2 3 4 5; do
+          for i in $(seq 1 20); do
             echo "=== Round $i ==="
             python scraper/fetch_sina.py || echo "[WARN] scraper failed"
 
@@ -47,5 +47,5 @@ jobs:
               git push
             fi
 
-            [ $i -lt 5 ] && sleep 450
+            [ $i -lt 20 ] && sleep 180 || true
           done
