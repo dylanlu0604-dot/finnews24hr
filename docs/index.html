@@ -23,20 +23,14 @@
     --chart-w:      360px;
     --header-h:     52px;
   }
-
   * { margin: 0; padding: 0; box-sizing: border-box; }
-
   body {
-    background: var(--bg);
-    color: var(--text);
+    background: var(--bg); color: var(--text);
     font-family: 'Noto Serif TC', serif;
-    min-height: 100vh;
-    overflow-x: hidden;
+    min-height: 100vh; overflow-x: hidden;
   }
-
   body::before {
-    content: '';
-    position: fixed; inset: 0;
+    content: ''; position: fixed; inset: 0;
     background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)' opacity='0.03'/%3E%3C/svg%3E");
     pointer-events: none; z-index: 0;
   }
@@ -44,136 +38,49 @@
   /* ── HEADER ── */
   header {
     position: fixed; top: 0; left: 0; right: 0; z-index: 300;
-    background: rgba(8,8,16,.96);
-    backdrop-filter: blur(16px);
+    background: rgba(8,8,16,.96); backdrop-filter: blur(16px);
     border-bottom: 1px solid var(--border);
-    height: var(--header-h);
-    display: flex; align-items: center;
+    height: var(--header-h); display: flex; align-items: center;
     padding: 0 1.25rem; gap: 1.2rem;
   }
-  .wordmark {
-    font-family: 'DM Mono', monospace;
-    font-size: .85rem; font-weight: 500;
-    letter-spacing: .14em; color: var(--gold); flex-shrink: 0;
-  }
+  .wordmark { font-family: 'DM Mono', monospace; font-size: .85rem; font-weight: 500; letter-spacing: .14em; color: var(--gold); flex-shrink: 0; }
   .wordmark em { color: var(--muted); font-style: normal; }
-  .updated {
-    font-family: 'DM Mono', monospace;
-    font-size: .62rem; color: var(--muted); letter-spacing: .04em;
-    margin-left: auto;
-  }
-  .pulse {
-    display: inline-block; width: 5px; height: 5px;
-    border-radius: 50%; background: var(--green);
-    margin-right: 5px; animation: blink 2s infinite;
-  }
+  .updated { font-family: 'DM Mono', monospace; font-size: .62rem; color: var(--muted); letter-spacing: .04em; margin-left: auto; }
+  .pulse { display: inline-block; width: 5px; height: 5px; border-radius: 50%; background: var(--green); margin-right: 5px; animation: blink 2s infinite; }
   @keyframes blink { 0%,100%{opacity:1} 50%{opacity:.2} }
 
   /* ── BODY ── */
-  .body-wrap {
-    display: flex;
-    position: fixed;
-    top: var(--header-h); left: 0; right: 0; bottom: 0;
-    z-index: 1;
-  }
+  .body-wrap { display: flex; position: fixed; top: var(--header-h); left: 0; right: 0; bottom: 0; z-index: 1; }
 
   /* ════ LEFT — LIVE ════ */
-  .live-col {
-    width: var(--live-w); flex-shrink: 0;
-    display: flex; flex-direction: column;
-    border-right: 1px solid var(--border);
-    background: var(--surface);
-    overflow: hidden;
-  }
-  .col-header {
-    font-family: 'DM Mono', monospace;
-    font-size: .58rem; letter-spacing: .12em; text-transform: uppercase;
-    color: var(--muted); padding: .38rem .85rem;
-    background: var(--bg);
-    border-bottom: 1px solid var(--border);
-    flex-shrink: 0;
-  }
-  .live-item {
-    flex: 1; display: flex; flex-direction: column;
-    overflow: hidden; min-height: 0;
-  }
+  .live-col { width: var(--live-w); flex-shrink: 0; display: flex; flex-direction: column; border-right: 1px solid var(--border); background: var(--surface); overflow: hidden; }
+  .col-header { font-family: 'DM Mono', monospace; font-size: .58rem; letter-spacing: .12em; text-transform: uppercase; color: var(--muted); padding: .38rem .85rem; background: var(--bg); border-bottom: 1px solid var(--border); flex-shrink: 0; }
+  .live-item { flex: 1; display: flex; flex-direction: column; overflow: hidden; min-height: 0; }
   .live-divider { height: 1px; flex-shrink: 0; background: var(--border); }
-  .live-player {
-    flex: 1; position: relative; background: #000; min-height: 0;
-  }
-  .live-player iframe {
-    position: absolute; inset: 0; width: 100%; height: 100%; border: none;
-  }
+  .live-player { flex: 1; position: relative; background: #000; min-height: 0; }
+  .live-player iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: none; }
 
   /* ════ CENTER — NEWS ════ */
-  .news-col {
-    flex: 1; min-width: 0;
-    display: flex; flex-direction: column;
-    border-right: 1px solid var(--border);
-    overflow: hidden;
-  }
-  .filter-wrap {
-    display: flex; flex-wrap: wrap; gap: .3rem; align-items: center;
-    padding: .45rem .9rem;
-    background: rgba(8,8,16,.95);
-    border-bottom: 1px solid var(--border);
-    flex-shrink: 0;
-  }
-  .cat-btn {
-    font-family: 'DM Mono', monospace;
-    font-size: .6rem; letter-spacing: .04em;
-    padding: .24rem .6rem;
-    border: 1px solid var(--border-bright); border-radius: 2px;
-    background: transparent; color: var(--muted); cursor: pointer;
-    transition: all .12s;
-  }
+  .news-col { flex: 1; min-width: 0; display: flex; flex-direction: column; border-right: 1px solid var(--border); overflow: hidden; }
+  .filter-wrap { display: flex; flex-wrap: wrap; gap: .3rem; align-items: center; padding: .45rem .9rem; background: rgba(8,8,16,.95); border-bottom: 1px solid var(--border); flex-shrink: 0; }
+  .cat-btn { font-family: 'DM Mono', monospace; font-size: .6rem; letter-spacing: .04em; padding: .24rem .6rem; border: 1px solid var(--border-bright); border-radius: 2px; background: transparent; color: var(--muted); cursor: pointer; transition: all .12s; }
   .cat-btn:hover { color: var(--text); border-color: var(--gold-dim); }
   .cat-btn.active { background: var(--gold); color: #080810; border-color: var(--gold); font-weight: 500; }
-
   .time-pills { display: flex; gap: .22rem; align-items: center; margin-left: auto; }
-  .time-pill {
-    font-family: 'DM Mono', monospace;
-    font-size: .56rem; letter-spacing: .06em;
-    padding: .2rem .5rem;
-    border: 1px solid var(--border-bright); border-radius: 2px;
-    background: transparent; color: var(--muted); cursor: pointer;
-    transition: all .12s;
-  }
+  .time-pill { font-family: 'DM Mono', monospace; font-size: .56rem; letter-spacing: .06em; padding: .2rem .5rem; border: 1px solid var(--border-bright); border-radius: 2px; background: transparent; color: var(--muted); cursor: pointer; transition: all .12s; }
   .time-pill:hover { color: var(--text); border-color: var(--gold-dim); }
   .time-pill.active { background: var(--gold-dim); color: var(--text); border-color: var(--gold-dim); }
-
   .search-wrap { position: relative; }
-  .search-wrap svg {
-    position: absolute; left: 7px; top: 50%;
-    transform: translateY(-50%); opacity: .32;
-  }
-  #search {
-    font-family: 'DM Mono', monospace;
-    font-size: .6rem; letter-spacing: .04em;
-    background: var(--bg); border: 1px solid var(--border-bright);
-    color: var(--text); padding: .22rem .6rem .22rem 24px;
-    border-radius: 2px; outline: none; width: 130px;
-    transition: border-color .15s;
-  }
+  .search-wrap svg { position: absolute; left: 7px; top: 50%; transform: translateY(-50%); opacity: .32; }
+  #search { font-family: 'DM Mono', monospace; font-size: .6rem; letter-spacing: .04em; background: var(--bg); border: 1px solid var(--border-bright); color: var(--text); padding: .22rem .6rem .22rem 24px; border-radius: 2px; outline: none; width: 130px; transition: border-color .15s; }
   #search:focus { border-color: var(--gold-dim); }
   #search::placeholder { color: var(--muted); }
-
   .feed-scroll { flex: 1; overflow-y: auto; padding: 1rem 1.1rem 2rem; }
-  .stats {
-    display: flex; gap: 1.5rem;
-    padding-bottom: 1rem;
-    border-bottom: 1px solid var(--border);
-    margin-bottom: 1.2rem;
-  }
+  .stats { display: flex; gap: 1.5rem; padding-bottom: 1rem; border-bottom: 1px solid var(--border); margin-bottom: 1.2rem; }
   .stat { font-family: 'DM Mono', monospace; font-size: .6rem; color: var(--muted); }
   .stat strong { display: block; font-size: 1.3rem; color: var(--gold); font-weight: 500; letter-spacing: -.02em; line-height: 1.1; }
   .results-count { font-family: 'DM Mono', monospace; font-size: .56rem; color: var(--muted); margin-bottom: .7rem; }
-  .card {
-    display: grid; grid-template-columns: 58px 1fr;
-    gap: 1rem; padding: 1rem 0;
-    border-bottom: 1px solid var(--border);
-    animation: rise .3s ease both;
-  }
+  .card { display: grid; grid-template-columns: 58px 1fr; gap: 1rem; padding: 1rem 0; border-bottom: 1px solid var(--border); animation: rise .3s ease both; }
   @keyframes rise { from{opacity:0;transform:translateY(4px)} to{opacity:1} }
   .card-time { font-family: 'DM Mono', monospace; font-size: .55rem; color: var(--muted); padding-top: 2px; line-height: 1.8; }
   .card-time .t-date { display: block; }
@@ -187,65 +94,34 @@
   .feed-scroll::-webkit-scrollbar-thumb { background: var(--border-bright); }
 
   /* ════ RIGHT — CHARTS ════ */
-  .chart-col {
-    width: var(--chart-w); flex-shrink: 0;
-    display: flex; flex-direction: column;
-    background: var(--surface); overflow: hidden;
-  }
-  .market-tabs {
-    display: flex; border-bottom: 1px solid var(--border);
-    background: var(--bg); flex-shrink: 0;
-  }
-  .m-tab {
-    font-family: 'DM Mono', monospace;
-    font-size: .52rem; letter-spacing: .04em;
-    padding: .6rem 0; flex: 1; text-align: center;
-    background: transparent; border: none;
-    color: var(--muted); cursor: pointer;
-    border-bottom: 2px solid transparent; transition: all .12s;
-  }
+  .chart-col { width: var(--chart-w); flex-shrink: 0; display: flex; flex-direction: column; background: var(--surface); overflow: hidden; }
+  .market-tabs { display: flex; border-bottom: 1px solid var(--border); background: var(--bg); flex-shrink: 0; }
+  .m-tab { font-family: 'DM Mono', monospace; font-size: .52rem; letter-spacing: .04em; padding: .6rem 0; flex: 1; text-align: center; background: transparent; border: none; color: var(--muted); cursor: pointer; border-bottom: 2px solid transparent; transition: all .12s; }
   .m-tab:hover { color: var(--text); }
   .m-tab.active { color: var(--gold); border-bottom-color: var(--gold); }
+  .market-updated { font-family: 'DM Mono', monospace; font-size: .5rem; color: var(--muted); padding: .25rem .7rem; background: var(--bg); border-bottom: 1px solid var(--border); }
   .chart-body { flex: 1; overflow-y: auto; overflow-x: hidden; }
   .chart-body::-webkit-scrollbar { width: 3px; }
   .chart-body::-webkit-scrollbar-track { background: var(--surface); }
   .chart-body::-webkit-scrollbar-thumb { background: var(--border-bright); }
   .m-panel { display: none; }
   .m-panel.active { display: block; }
-  .chart-label {
-    font-family: 'DM Mono', monospace;
-    font-size: .52rem; letter-spacing: .08em;
-    color: var(--muted); padding: .32rem .7rem;
-    background: var(--bg);
-    border-bottom: 1px solid var(--border);
-    border-top: 1px solid var(--border);
-  }
+  .chart-label { font-family: 'DM Mono', monospace; font-size: .52rem; letter-spacing: .08em; color: var(--muted); padding: .32rem .7rem; background: var(--bg); border-bottom: 1px solid var(--border); border-top: 1px solid var(--border); }
   .main-chart { height: 240px; position: relative; }
-  .chart-loading {
-    position: absolute; inset: 0;
-    display: flex; align-items: center; justify-content: center;
-    font-family: 'DM Mono', monospace; font-size: .56rem; color: var(--muted);
-  }
+  .chart-loading { position: absolute; inset: 0; display: flex; align-items: center; justify-content: center; font-family: 'DM Mono', monospace; font-size: .56rem; color: var(--muted); }
 
   /* Mini cards */
   .mini-grid { display: grid; grid-template-columns: 1fr 1fr; }
-  .mini-item {
-    height: 130px; overflow: hidden;
-    border-right: 1px solid var(--border);
-    border-bottom: 1px solid var(--border);
-    display: flex; flex-direction: column;
-    padding: 7px 8px 0;
-  }
+  .mini-item { height: 130px; overflow: hidden; border-right: 1px solid var(--border); border-bottom: 1px solid var(--border); display: flex; flex-direction: column; padding: 7px 8px 0; }
   .mini-item:nth-child(even) { border-right: none; }
   .mini-info { display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 1px; }
-  .mini-name { font-family: 'DM Mono', monospace; font-size: .55rem; color: var(--text); font-weight: 500; letter-spacing: .02em; }
-  .mini-chg  { font-family: 'DM Mono', monospace; font-size: .52rem; }
+  .mini-name  { font-family: 'DM Mono', monospace; font-size: .55rem; color: var(--text); font-weight: 500; letter-spacing: .02em; }
+  .mini-chg   { font-family: 'DM Mono', monospace; font-size: .52rem; }
   .mini-price { font-family: 'DM Mono', monospace; font-size: .8rem; color: var(--text); margin-bottom: 2px; letter-spacing: -.01em; }
   .mini-chart-area { flex: 1; min-height: 0; }
   .up { color: var(--green); }
   .dn { color: var(--red); }
 
-  /* ── RESPONSIVE ── */
   @media (max-width: 1100px) { .live-col { display: none; } }
   @media (max-width: 820px)  { .chart-col { display: none; } }
 </style>
@@ -299,9 +175,7 @@
       </div>
     </div>
     <div class="feed-scroll">
-      <div class="stats">
-        <div class="stat"><strong id="totalCount">—</strong>則快訊</div>
-      </div>
+      <div class="stats"><div class="stat"><strong id="totalCount">—</strong>則快訊</div></div>
       <div id="resultsCount" class="results-count"></div>
       <div id="digestList"><div class="empty">載入中…</div></div>
     </div>
@@ -315,54 +189,36 @@
       <button class="m-tab" data-panel="bond">債券</button>
       <button class="m-tab" data-panel="commodity">原物料</button>
     </div>
-    <div class="chart-body">
+    <div class="market-updated" id="marketUpdated">報價更新：載入中</div>
+
+    <div class="chart-body" id="chartBody">
 
       <div class="m-panel active" id="panel-equity">
         <div class="chart-label" id="ml-equity">S&P 500 — 載入中</div>
         <div class="main-chart" id="mc-equity"><div class="chart-loading">載入中…</div></div>
         <div class="chart-label">指數概覽</div>
-        <div class="mini-grid">
-          <div class="mini-item" id="mini-equity-0"><div class="chart-loading" style="font-size:.5rem">…</div></div>
-          <div class="mini-item" id="mini-equity-1"><div class="chart-loading" style="font-size:.5rem">…</div></div>
-          <div class="mini-item" id="mini-equity-2"><div class="chart-loading" style="font-size:.5rem">…</div></div>
-          <div class="mini-item" id="mini-equity-3"><div class="chart-loading" style="font-size:.5rem">…</div></div>
-        </div>
+        <div class="mini-grid" id="mg-equity"></div>
       </div>
 
       <div class="m-panel" id="panel-fx">
         <div class="chart-label" id="ml-fx">DXY 美元指數 — 載入中</div>
         <div class="main-chart" id="mc-fx"><div class="chart-loading">載入中…</div></div>
         <div class="chart-label">匯率概覽</div>
-        <div class="mini-grid">
-          <div class="mini-item" id="mini-fx-0"><div class="chart-loading" style="font-size:.5rem">…</div></div>
-          <div class="mini-item" id="mini-fx-1"><div class="chart-loading" style="font-size:.5rem">…</div></div>
-          <div class="mini-item" id="mini-fx-2"><div class="chart-loading" style="font-size:.5rem">…</div></div>
-          <div class="mini-item" id="mini-fx-3"><div class="chart-loading" style="font-size:.5rem">…</div></div>
-        </div>
+        <div class="mini-grid" id="mg-fx"></div>
       </div>
 
       <div class="m-panel" id="panel-bond">
         <div class="chart-label" id="ml-bond">US 10Y 殖利率 — 載入中</div>
         <div class="main-chart" id="mc-bond"><div class="chart-loading">載入中…</div></div>
         <div class="chart-label">殖利率概覽</div>
-        <div class="mini-grid">
-          <div class="mini-item" id="mini-bond-0"><div class="chart-loading" style="font-size:.5rem">…</div></div>
-          <div class="mini-item" id="mini-bond-1"><div class="chart-loading" style="font-size:.5rem">…</div></div>
-          <div class="mini-item" id="mini-bond-2"><div class="chart-loading" style="font-size:.5rem">…</div></div>
-          <div class="mini-item" id="mini-bond-3"><div class="chart-loading" style="font-size:.5rem">…</div></div>
-        </div>
+        <div class="mini-grid" id="mg-bond"></div>
       </div>
 
       <div class="m-panel" id="panel-commodity">
         <div class="chart-label" id="ml-commodity">WTI 原油 — 載入中</div>
         <div class="main-chart" id="mc-commodity"><div class="chart-loading">載入中…</div></div>
         <div class="chart-label">原物料概覽</div>
-        <div class="mini-grid">
-          <div class="mini-item" id="mini-commodity-0"><div class="chart-loading" style="font-size:.5rem">…</div></div>
-          <div class="mini-item" id="mini-commodity-1"><div class="chart-loading" style="font-size:.5rem">…</div></div>
-          <div class="mini-item" id="mini-commodity-2"><div class="chart-loading" style="font-size:.5rem">…</div></div>
-          <div class="mini-item" id="mini-commodity-3"><div class="chart-loading" style="font-size:.5rem">…</div></div>
-        </div>
+        <div class="mini-grid" id="mg-commodity"></div>
       </div>
 
     </div>
@@ -374,7 +230,8 @@
 /* ════════════════════════════════
    NEWS FEED
 ════════════════════════════════ */
-const DATA_URL = './data.json';
+const DATA_URL   = './data.json';
+const MARKET_URL = './market.json';
 let allItems = [], activeCat = '', activeHrs = 1, searchQ = '';
 
 function parseTime(str) {
@@ -388,7 +245,7 @@ function highlight(text, q) {
     `<mark style="background:rgba(201,168,76,.28);color:#e2c87a;border-radius:2px;padding:0 2px">${m}</mark>`);
 }
 
-async function load() {
+async function loadNews() {
   try {
     const data = await (await fetch(DATA_URL + '?t=' + Date.now())).json();
     allItems = data.items || [];
@@ -455,212 +312,120 @@ document.getElementById('filterWrap').addEventListener('click', e => {
   }
 });
 document.getElementById('search').addEventListener('input', e => { searchQ=e.target.value.trim(); render(); });
-
-load();
-setInterval(load, 60000);
+loadNews();
+setInterval(loadNews, 60000);
 
 /* ════════════════════════════════
-   CHARTS — Lightweight Charts + Yahoo Finance
+   CHARTS — reads local market.json (no CORS)
 ════════════════════════════════ */
-// Multiple CORS proxies — tries each until one succeeds
-const PROXIES = [
-  url => `https://api.allorigins.win/raw?url=${encodeURIComponent(url)}`,
-  url => `https://corsproxy.io/?url=${encodeURIComponent(url)}`,
-  url => `https://api.codetabs.com/v1/proxy?quest=${encodeURIComponent(url)}`,
-  url => `https://thingproxy.freeboard.io/fetch/${url}`,
-];
-
-async function fetchWithProxy(targetUrl) {
-  for (const mkProxy of PROXIES) {
-    try {
-      const res = await fetch(mkProxy(targetUrl), {
-        signal: AbortSignal.timeout(7000)
-      });
-      if (!res.ok) continue;
-      const json = JSON.parse(await res.text());
-      if (json?.chart?.result?.[0]) return json;
-    } catch(e) { /* try next proxy */ }
-  }
-  return null;
-}
-
-const PANELS = {
-  equity: {
-    main:  { symbol: '^GSPC',    label: 'S&P 500' },
-    minis: [
-      { symbol: '^IXIC',    label: 'Nasdaq' },
-      { symbol: '^DJI',     label: 'Dow Jones' },
-      { symbol: '^N225',    label: 'Nikkei 225' },
-      { symbol: '^HSI',     label: 'Hang Seng' },
-    ]
-  },
-  fx: {
-    main:  { symbol: 'DX-Y.NYB', label: 'DXY 美元指數' },
-    minis: [
-      { symbol: 'EURUSD=X', label: 'EUR/USD' },
-      { symbol: 'JPY=X',    label: 'USD/JPY' },
-      { symbol: 'GBPUSD=X', label: 'GBP/USD' },
-      { symbol: 'AUDUSD=X', label: 'AUD/USD' },
-    ]
-  },
-  bond: {
-    main:  { symbol: '^TNX',     label: 'US 10Y 殖利率' },
-    minis: [
-      { symbol: '^IRX',     label: 'US 3M' },
-      { symbol: '^FVX',     label: 'US 5Y' },
-      { symbol: '^TNX',     label: 'US 10Y' },
-      { symbol: '^TYX',     label: 'US 30Y' },
-    ]
-  },
-  commodity: {
-    main:  { symbol: 'CL=F',     label: 'WTI 原油' },
-    minis: [
-      { symbol: 'NG=F',     label: '天然氣' },
-      { symbol: 'GC=F',     label: '黃金' },
-      { symbol: 'SI=F',     label: '白銀' },
-      { symbol: 'HG=F',     label: '銅' },
-    ]
-  }
-};
-
-const chartInstances = {};
-const initialized = new Set();
-let activePanelId = 'equity';
-
-// ── Fetch ──
-async function fetchYahoo(symbol) {
-  const url = `https://query1.finance.yahoo.com/v8/finance/chart/${encodeURIComponent(symbol)}?interval=5m&range=2d&includePrePost=false`;
-  return await fetchWithProxy(url);
-}
-
-// ── Data builders ──
-function buildCandles(result) {
-  const ts = result.timestamp || [];
-  const q  = result.indicators?.quote?.[0] || {};
-  return ts.map((t, i) => ({
-    time: t,
-    open:  q.open?.[i],
-    high:  q.high?.[i],
-    low:   q.low?.[i],
-    close: q.close?.[i],
-  })).filter(d => d.open != null && d.close != null);
-}
-
-function buildArea(result) {
-  const ts = result.timestamp || [];
-  const closes = result.indicators?.quote?.[0]?.close || [];
-  return ts.map((t, i) => ({ time: t, value: closes[i] })).filter(d => d.value != null);
-}
-
-function fmt(n, decimals) {
-  if (n == null || isNaN(n)) return '—';
-  if (decimals !== undefined) return n.toFixed(decimals);
-  return n >= 1000 ? n.toLocaleString('en-US', { maximumFractionDigits: 2 }) :
-         n >= 10   ? n.toFixed(2) : n.toFixed(4);
-}
-
-function changePct(curr, prev) {
-  if (!curr || !prev) return { str: '—', up: null };
-  const p = ((curr - prev) / prev) * 100;
-  return { str: (p >= 0 ? '+' : '') + p.toFixed(2) + '%', up: p >= 0 };
-}
-
-// ── Chart defaults ──
 const LW_BASE = {
-  layout: {
-    background: { type: 'solid', color: 'transparent' },
-    textColor: '#5a5a72', fontSize: 10,
-  },
-  grid: {
-    vertLines: { color: '#1c1c2e' },
-    horzLines: { color: '#1c1c2e' },
-  },
-  timeScale: {
-    borderColor: '#2a2a40',
-    timeVisible: true, secondsVisible: false,
-    fixRightEdge: true,
-  },
+  layout: { background: { type: 'solid', color: 'transparent' }, textColor: '#5a5a72', fontSize: 10 },
+  grid: { vertLines: { color: '#1c1c2e' }, horzLines: { color: '#1c1c2e' } },
+  timeScale: { borderColor: '#2a2a40', timeVisible: true, secondsVisible: false, fixRightEdge: true },
   rightPriceScale: { borderColor: '#2a2a40' },
   crosshair: { mode: 1 },
 };
 
-// ── Init panel ──
-async function initPanel(panelId) {
-  if (initialized.has(panelId)) return;
-  initialized.add(panelId);
+let marketCache = null;
+const createdCharts = {};
 
-  const cfg = PANELS[panelId];
-  if (!cfg) return;
+function fmt(n) {
+  if (n == null || isNaN(n)) return '—';
+  return n >= 1000 ? n.toLocaleString('en-US', { maximumFractionDigits: 2 }) :
+         n >= 10   ? n.toFixed(2) : n.toFixed(4);
+}
 
-  // Main chart
-  const mainEl  = document.getElementById(`mc-${panelId}`);
-  const labelEl = document.getElementById(`ml-${panelId}`);
+function changePct(price, prev) {
+  if (!price || !prev) return { str: '—', cls: '' };
+  const p = ((price - prev) / prev) * 100;
+  return { str: (p >= 0 ? '+' : '') + p.toFixed(2) + '%', cls: p >= 0 ? 'up' : 'dn' };
+}
 
-  if (mainEl) {
-    const result = await fetchYahoo(cfg.main.symbol);
-    if (result) {
-      const price = result.meta.regularMarketPrice;
-      const prev  = result.meta.previousClose || result.meta.chartPreviousClose;
-      const chg   = changePct(price, prev);
-      if (labelEl) labelEl.textContent = `${cfg.main.label}  ${fmt(price)}  ${chg.str}`;
+function buildChart(container, bars, type = 'candle') {
+  container.innerHTML = '';
+  const chart = LightweightCharts.createChart(container, {
+    ...LW_BASE,
+    width: container.clientWidth,
+    height: container.clientHeight,
+  });
 
-      mainEl.innerHTML = '';
-      const chart = LightweightCharts.createChart(mainEl, {
-        ...LW_BASE,
-        width:  mainEl.clientWidth,
-        height: mainEl.clientHeight,
-      });
-      const series = chart.addCandlestickSeries({
-        upColor:        '#4cc97a', downColor:        '#e05555',
-        borderUpColor:  '#4cc97a', borderDownColor:  '#e05555',
-        wickUpColor:    '#4cc97a', wickDownColor:    '#e05555',
-      });
-      const candles = buildCandles(result);
-      if (candles.length) { series.setData(candles); chart.timeScale().fitContent(); }
-      chartInstances[`main-${panelId}`] = chart;
-      new ResizeObserver(() => chart.applyOptions({
-        width: mainEl.clientWidth, height: mainEl.clientHeight
-      })).observe(mainEl);
-    } else {
-      mainEl.innerHTML = '<div class="chart-loading">資料載入失敗</div>';
-    }
+  if (type === 'candle') {
+    const s = chart.addCandlestickSeries({
+      upColor: '#4cc97a', downColor: '#e05555',
+      borderUpColor: '#4cc97a', borderDownColor: '#e05555',
+      wickUpColor: '#4cc97a', wickDownColor: '#e05555',
+    });
+    s.setData(bars.map(b => ({ time: b.t, open: b.o, high: b.h, low: b.l, close: b.c })));
+  } else {
+    const isUp = bars.length < 2 || bars[bars.length-1].c >= bars[0].c;
+    const s = chart.addAreaSeries({
+      lineColor: isUp ? '#4cc97a' : '#e05555',
+      topColor: isUp ? 'rgba(76,201,122,.18)' : 'rgba(224,85,85,.18)',
+      bottomColor: 'transparent',
+      lineWidth: 1, priceLineVisible: false, lastValueVisible: false,
+    });
+    s.setData(bars.map(b => ({ time: b.t, value: b.c })));
   }
 
-  // Mini cards
-  cfg.minis.forEach((mini, i) => {
-    const cardEl = document.getElementById(`mini-${panelId}-${i}`);
-    if (!cardEl) return;
+  chart.timeScale().fitContent();
+  new ResizeObserver(() => chart.applyOptions({
+    width: container.clientWidth, height: container.clientHeight
+  })).observe(container);
+  return chart;
+}
 
-    cardEl.innerHTML = `
+function renderPanel(panelId, marketData) {
+  const cfg = marketData.panels[panelId];
+  if (!cfg) return;
+  const symData = marketData.data;
+
+  // Main chart
+  const mainSym = cfg.main.symbol;
+  const mainEl  = document.getElementById(`mc-${panelId}`);
+  const labelEl = document.getElementById(`ml-${panelId}`);
+  const sd = symData[mainSym];
+
+  if (sd && sd.bars?.length && mainEl) {
+    const chg = changePct(sd.price, sd.prev_close);
+    if (labelEl) labelEl.innerHTML =
+      `${cfg.main.name} &nbsp;<span style="color:var(--text)">${fmt(sd.price)}</span>&nbsp;<span class="${chg.cls}">${chg.str}</span>`;
+    if (createdCharts[`main-${panelId}`]) {
+      try { createdCharts[`main-${panelId}`].remove(); } catch(e) {}
+    }
+    createdCharts[`main-${panelId}`] = buildChart(mainEl, sd.bars, 'candle');
+  } else if (mainEl) {
+    mainEl.innerHTML = '<div class="chart-loading">無資料</div>';
+  }
+
+  // Mini grid
+  const gridEl = document.getElementById(`mg-${panelId}`);
+  if (!gridEl) return;
+  gridEl.innerHTML = '';
+
+  cfg.minis.forEach((mini) => {
+    const card = document.createElement('div');
+    card.className = 'mini-item';
+
+    const md = symData[mini.symbol];
+    if (!md) {
+      card.innerHTML = `<div class="mini-info"><span class="mini-name">${mini.name}</span></div><div class="mini-price">無資料</div>`;
+      gridEl.appendChild(card);
+      return;
+    }
+
+    const chg = changePct(md.price, md.prev_close);
+    card.innerHTML = `
       <div class="mini-info">
-        <span class="mini-name">${mini.label}</span>
-        <span class="mini-chg" id="mchg-${panelId}-${i}">…</span>
+        <span class="mini-name">${mini.name}</span>
+        <span class="mini-chg ${chg.cls}">${chg.str}</span>
       </div>
-      <div class="mini-price" id="mprc-${panelId}-${i}">…</div>
-      <div class="mini-chart-area" id="mca-${panelId}-${i}"></div>`;
+      <div class="mini-price">${fmt(md.price)}</div>
+      <div class="mini-chart-area" style="flex:1;min-height:0"></div>`;
+    gridEl.appendChild(card);
 
-    fetchYahoo(mini.symbol).then(result => {
-      const prcEl  = document.getElementById(`mprc-${panelId}-${i}`);
-      const chgEl  = document.getElementById(`mchg-${panelId}-${i}`);
-      const areaEl = document.getElementById(`mca-${panelId}-${i}`);
-
-      if (!result) {
-        if (prcEl) prcEl.textContent = '無資料';
-        if (chgEl) chgEl.textContent = '';
-        return;
-      }
-
-      const price = result.meta.regularMarketPrice;
-      const prev  = result.meta.previousClose || result.meta.chartPreviousClose;
-      const chg   = changePct(price, prev);
-
-      if (prcEl) prcEl.textContent = fmt(price);
-      if (chgEl) {
-        chgEl.textContent = chg.str;
-        chgEl.className = 'mini-chg ' + (chg.up === true ? 'up' : chg.up === false ? 'dn' : '');
-      }
-
-      if (areaEl) {
+    if (md.bars?.length) {
+      const areaEl = card.querySelector('.mini-chart-area');
+      requestAnimationFrame(() => {
         const mc = LightweightCharts.createChart(areaEl, {
           ...LW_BASE,
           width: areaEl.clientWidth, height: areaEl.clientHeight,
@@ -671,58 +436,51 @@ async function initPanel(panelId) {
           crosshair: { mode: 0 },
           handleScroll: false, handleScale: false,
         });
-        const lineColor = chg.up !== false ? '#4cc97a' : '#e05555';
+        const isUp = chg.cls === 'up';
         const as = mc.addAreaSeries({
-          lineColor,
-          topColor:    chg.up !== false ? 'rgba(76,201,122,.18)' : 'rgba(224,85,85,.18)',
+          lineColor: isUp ? '#4cc97a' : '#e05555',
+          topColor:  isUp ? 'rgba(76,201,122,.15)' : 'rgba(224,85,85,.15)',
           bottomColor: 'transparent',
-          lineWidth: 1,
-          priceLineVisible: false,
-          lastValueVisible: false,
+          lineWidth: 1, priceLineVisible: false, lastValueVisible: false,
         });
-        const data = buildArea(result);
-        if (data.length) { as.setData(data); mc.timeScale().fitContent(); }
+        as.setData(md.bars.map(b => ({ time: b.t, value: b.c })));
+        mc.timeScale().fitContent();
         new ResizeObserver(() => mc.applyOptions({
           width: areaEl.clientWidth, height: areaEl.clientHeight
         })).observe(areaEl);
-      }
-    });
+      });
+    }
   });
 }
 
-// ── Tab switching ──
+async function loadMarket() {
+  try {
+    const data = await (await fetch(MARKET_URL + '?t=' + Date.now())).json();
+    marketCache = data;
+    document.getElementById('marketUpdated').textContent = `報價更新：${data.updated || '—'}（每 5 分鐘）`;
+    // Render active panel immediately
+    const activePanel = document.querySelector('.m-tab.active')?.dataset.panel || 'equity';
+    renderPanel(activePanel, data);
+  } catch(e) {
+    document.getElementById('marketUpdated').textContent = '報價載入失敗';
+    console.warn('market.json load error:', e.message);
+  }
+}
+
+// Tab switching
 document.querySelectorAll('.m-tab').forEach(tab => {
   tab.addEventListener('click', () => {
     document.querySelectorAll('.m-tab').forEach(t => t.classList.remove('active'));
     document.querySelectorAll('.m-panel').forEach(p => p.classList.remove('active'));
     tab.classList.add('active');
-    activePanelId = tab.dataset.panel;
-    document.getElementById('panel-' + activePanelId).classList.add('active');
-    initPanel(activePanelId);
+    const panelId = tab.dataset.panel;
+    document.getElementById('panel-' + panelId).classList.add('active');
+    if (marketCache) renderPanel(panelId, marketCache);
   });
 });
 
-// ── Auto-refresh active panel every 2 min ──
-setInterval(() => {
-  // destroy main chart so it re-renders
-  const key = `main-${activePanelId}`;
-  if (chartInstances[key]) {
-    try { chartInstances[key].remove(); } catch(e) {}
-    delete chartInstances[key];
-  }
-  initialized.delete(activePanelId);
-  // reset DOM
-  const mainEl = document.getElementById(`mc-${activePanelId}`);
-  if (mainEl) mainEl.innerHTML = '<div class="chart-loading">更新中…</div>';
-  PANELS[activePanelId]?.minis.forEach((_, i) => {
-    const el = document.getElementById(`mini-${activePanelId}-${i}`);
-    if (el) el.innerHTML = '<div class="chart-loading" style="font-size:.5rem">…</div>';
-  });
-  initPanel(activePanelId);
-}, 120000);
-
-// ── Initial load ──
-initPanel('equity');
+loadMarket();
+setInterval(loadMarket, 5 * 60 * 1000);
 </script>
 </body>
 </html>
