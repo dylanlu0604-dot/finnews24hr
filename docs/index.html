@@ -190,7 +190,7 @@
   }
   .m-tab {
     font-family: 'DM Mono', monospace;
-    font-size: .58rem; letter-spacing: .06em;
+    font-size: .54rem; letter-spacing: .04em;
     padding: .65rem 0; flex: 1; text-align: center;
     background: transparent; border: none;
     color: var(--muted); cursor: pointer;
@@ -221,9 +221,42 @@
   }
   .mini-item:nth-child(even) { border-right: none; }
 
-  /* TV widget containers need explicit height */
   .tradingview-widget-container,
   .tradingview-widget-container__widget { height: 100% !important; }
+
+  /* ── LIVE PANEL ── */
+  .live-channels {
+    display: flex; flex-wrap: wrap; gap: .3rem;
+    padding: .55rem .75rem;
+    border-bottom: 1px solid var(--border);
+    background: var(--bg);
+  }
+  .live-btn {
+    font-family: 'DM Mono', monospace;
+    font-size: .58rem; letter-spacing: .04em;
+    padding: .25rem .65rem;
+    border: 1px solid var(--border-bright); border-radius: 2px;
+    background: transparent; color: var(--muted); cursor: pointer;
+    transition: all .12s;
+  }
+  .live-btn:hover { color: var(--text); border-color: var(--gold-dim); }
+  .live-btn.active { background: var(--gold); color: #080810; border-color: var(--gold); font-weight: 500; }
+
+  .live-player {
+    position: relative; padding-top: 56.25%; background: #000;
+  }
+  .live-player iframe {
+    position: absolute; inset: 0;
+    width: 100%; height: 100%; border: none;
+  }
+
+  .live-note {
+    font-family: 'DM Mono', monospace;
+    font-size: .56rem; color: var(--muted);
+    padding: .5rem .75rem;
+    line-height: 1.6;
+    border-top: 1px solid var(--border);
+  }
 
   .market-col::-webkit-scrollbar { width: 3px; }
   .market-col::-webkit-scrollbar-track { background: var(--surface); }
@@ -286,6 +319,7 @@
       <button class="m-tab" data-panel="fx">匯率</button>
       <button class="m-tab" data-panel="bond">債券</button>
       <button class="m-tab" data-panel="commodity">原物料</button>
+      <button class="m-tab" data-panel="live">直播</button>
     </div>
 
     <!-- ① 指數期貨 -->
@@ -299,7 +333,7 @@
           </script>
         </div>
       </div>
-      <div class="chart-label">NQ / YM / Nikkei / TAIEX</div>
+      <div class="chart-label">NQ · YM · Nikkei · TAIEX</div>
       <div class="mini-grid">
         <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"CME_MINI:NQ1!","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
         <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"CME_MINI:YM1!","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
@@ -319,12 +353,12 @@
           </script>
         </div>
       </div>
-      <div class="chart-label">EUR/USD · USD/JPY · USD/CNH · USD/TWD</div>
+      <div class="chart-label">EUR/USD · USD/JPY · GBP/USD · AUD/USD</div>
       <div class="mini-grid">
         <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"FX:EURUSD","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
         <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"FX:USDJPY","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
-        <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"FX:USDCNH","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
-        <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"FX:USDTWD","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
+        <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"FX:GBPUSD","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
+        <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"FX:AUDUSD","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
       </div>
     </div>
 
@@ -359,12 +393,29 @@
           </script>
         </div>
       </div>
-      <div class="chart-label">天然氣 · 黃金 · 白銀 · 小麥</div>
+      <div class="chart-label">天然氣 · 黃金 · 白銀 · 銅</div>
       <div class="mini-grid">
         <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"NYMEX:NG1!","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
         <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"COMEX:GC1!","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
         <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"COMEX:SI1!","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
-        <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"CBOT:ZW1!","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
+        <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"COMEX:HG1!","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
+      </div>
+    </div>
+
+    <!-- ⑤ 直播 -->
+    <div class="m-panel" id="panel-live">
+      <div class="chart-label">財經新聞直播</div>
+      <div class="live-channels" id="liveChannels"></div>
+      <div class="live-player">
+        <iframe id="liveFrame"
+          src=""
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen>
+        </iframe>
+      </div>
+      <div class="live-note">
+        ▸ 預設靜音，點播放器右下角可開聲音<br>
+        ▸ 直播若顯示離線請切換其他頻道
       </div>
     </div>
 
@@ -464,9 +515,49 @@ document.querySelectorAll('.m-tab').forEach(tab => {
     document.querySelectorAll('.m-tab').forEach(t=>t.classList.remove('active'));
     document.querySelectorAll('.m-panel').forEach(p=>p.classList.remove('active'));
     tab.classList.add('active');
-    document.getElementById('panel-'+tab.dataset.panel).classList.add('active');
+    const panelId = 'panel-' + tab.dataset.panel;
+    document.getElementById(panelId).classList.add('active');
+    // 切到直播 tab 才載入，避免背景自動播放
+    if (tab.dataset.panel === 'live') {
+      const frame = document.getElementById('liveFrame');
+      if (!frame.src.includes('youtube.com')) setLive(activeLiveId);
+    }
   });
 });
+
+/* ── LIVE CHANNELS ── */
+const liveChannels = [
+  { name: 'Bloomberg',    id: 'iEpJwprxDdk' },
+  { name: 'Yahoo Finance', id: 'YDvsBbKfLPA' },
+  { name: 'CNBC',         id: '6_S9nI3YzSs'  },
+  { name: 'Fox Business', id: 'wMJAt73KABI'  },
+  { name: 'Al Jazeera',   id: 'h3MuIUGApuc'  },
+];
+
+let activeLiveId = liveChannels[0].id;
+
+function setLive(id) {
+  activeLiveId = id;
+  document.getElementById('liveFrame').src =
+    `https://www.youtube.com/embed/${id}?autoplay=1&mute=1`;
+}
+
+function buildLiveChannels() {
+  const wrap = document.getElementById('liveChannels');
+  liveChannels.forEach(ch => {
+    const btn = document.createElement('button');
+    btn.className = 'live-btn' + (ch.id === activeLiveId ? ' active' : '');
+    btn.textContent = ch.name;
+    btn.onclick = () => {
+      document.querySelectorAll('.live-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      setLive(ch.id);
+    };
+    wrap.appendChild(btn);
+  });
+}
+
+buildLiveChannels();
 </script>
 </body>
 </html>
