@@ -47,5 +47,5 @@ jobs:
               git push
             fi
 
-            [ $i -lt 5 ] && sleep 300
+            [ $i -lt 5 ] && sleep 450
           done
