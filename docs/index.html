@@ -91,46 +91,33 @@
     font-family: 'DM Mono', monospace;
     font-size: .58rem; letter-spacing: .12em; text-transform: uppercase;
     color: var(--muted);
-    padding: .45rem .85rem;
+    padding: .38rem .85rem;
     background: var(--bg);
     border-bottom: 1px solid var(--border);
     flex-shrink: 0;
   }
 
-  .live-channels {
-    display: flex; flex-wrap: wrap; gap: .28rem;
-    padding: .45rem .7rem;
-    border-bottom: 1px solid var(--border);
-    background: var(--bg);
-    flex-shrink: 0;
+  .live-item {
+    flex: 1;
+    display: flex; flex-direction: column;
+    overflow: hidden;
+    min-height: 0;
   }
-  .live-btn {
-    font-family: 'DM Mono', monospace;
-    font-size: .55rem; letter-spacing: .04em;
-    padding: .22rem .55rem;
-    border: 1px solid var(--border-bright); border-radius: 2px;
-    background: transparent; color: var(--muted); cursor: pointer;
-    transition: all .12s;
+
+  .live-divider {
+    height: 1px; flex-shrink: 0;
+    background: var(--border);
   }
-  .live-btn:hover { color: var(--text); border-color: var(--gold-dim); }
-  .live-btn.active { background: var(--gold); color: #080810; border-color: var(--gold); font-weight: 500; }
 
   .live-player {
     flex: 1;
     position: relative;
     background: #000;
+    min-height: 0;
   }
   .live-player iframe {
     position: absolute; inset: 0;
     width: 100%; height: 100%; border: none;
-  }
-
-  .live-note {
-    font-family: 'DM Mono', monospace;
-    font-size: .52rem; color: var(--muted);
-    padding: .4rem .7rem; line-height: 1.7;
-    border-top: 1px solid var(--border);
-    flex-shrink: 0;
   }
 
   /* ════════════════
@@ -319,14 +306,23 @@
 
   <!-- ══ LEFT: LIVE ══ -->
   <div class="live-col">
-    <div class="col-header">▶ 財經直播</div>
-    <div class="live-channels" id="liveChannels"></div>
-    <div class="live-player">
-      <iframe id="liveFrame" src=""
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-        allowfullscreen></iframe>
+    <div class="live-item">
+      <div class="col-header">▶ Bloomberg</div>
+      <div class="live-player">
+        <iframe src="https://www.youtube.com/embed/iEpJwprxDdk?autoplay=1&mute=1"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen></iframe>
+      </div>
     </div>
-    <div class="live-note">▸ 靜音播放，點播放器右下角可開聲音<br>▸ 顯示離線請切換其他頻道</div>
+    <div class="live-divider"></div>
+    <div class="live-item">
+      <div class="col-header">▶ Yahoo Finance</div>
+      <div class="live-player">
+        <iframe src="https://www.youtube.com/embed/YDvsBbKfLPA?autoplay=1&mute=1"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen></iframe>
+      </div>
+    </div>
   </div>
 
   <!-- ══ CENTER: NEWS ══ -->
@@ -381,7 +377,7 @@
             </script>
           </div>
         </div>
-        <div class="chart-label">QQQ · DIA · EWJ · EWH</div>
+        <div class="chart-label">QQQ · DIA · EWJ · EWH (ETF)</div>
         <div class="mini-grid">
           <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"NASDAQ:QQQ","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
           <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"AMEX:DIA","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
@@ -404,29 +400,29 @@
         <div class="chart-label">EUR/USD · USD/JPY · GBP/USD · AUD/USD</div>
         <div class="mini-grid">
           <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"FX:EURUSD","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
-          <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"FX:USDJPY","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
+          <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"OANDA:USDJPY","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
           <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"FX:GBPUSD","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
-          <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"FX:AUDUSD","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
+          <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"OANDA:AUDUSD","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
         </div>
       </div>
 
       <!-- ③ 債券 -->
       <div class="m-panel" id="panel-bond">
-        <div class="chart-label">US 10Y 殖利率 — 1min</div>
+        <div class="chart-label">TLT 長期公債 ETF — 1min</div>
         <div class="main-chart">
           <div class="tradingview-widget-container">
             <div class="tradingview-widget-container__widget"></div>
             <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
-            {"autosize":true,"symbol":"TVC:US10Y","interval":"1","timezone":"Asia/Taipei","theme":"dark","style":"1","locale":"zh_TW","hide_top_toolbar":true,"hide_legend":true,"hide_side_toolbar":true,"allow_symbol_change":false,"save_image":false,"backgroundColor":"rgba(8,8,16,1)","gridColor":"rgba(28,28,46,1)"}
+            {"autosize":true,"symbol":"NASDAQ:TLT","interval":"1","timezone":"Asia/Taipei","theme":"dark","style":"1","locale":"zh_TW","hide_top_toolbar":true,"hide_legend":true,"hide_side_toolbar":true,"allow_symbol_change":false,"save_image":false,"backgroundColor":"rgba(8,8,16,1)","gridColor":"rgba(28,28,46,1)"}
             </script>
           </div>
         </div>
-        <div class="chart-label">SHY · IEF · TLT · TMV</div>
+        <div class="chart-label">SHY · IEF · TLT · TMV (NASDAQ)</div>
         <div class="mini-grid">
-          <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"AMEX:SHY","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
-          <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"AMEX:IEF","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
-          <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"AMEX:TLT","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
-          <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"AMEX:TMV","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
+          <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"NASDAQ:SHY","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
+          <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"NASDAQ:IEF","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
+          <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"NASDAQ:TLT","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
+          <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"NASDAQ:TMV","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
         </div>
       </div>
 
@@ -437,13 +433,13 @@
           <div class="tradingview-widget-container">
             <div class="tradingview-widget-container__widget"></div>
             <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
-            {"autosize":true,"symbol":"AMEX:USO","interval":"1","timezone":"Asia/Taipei","theme":"dark","style":"1","locale":"zh_TW","hide_top_toolbar":true,"hide_legend":true,"hide_side_toolbar":true,"allow_symbol_change":false,"save_image":false,"backgroundColor":"rgba(8,8,16,1)","gridColor":"rgba(28,28,46,1)"}
+            {"autosize":true,"symbol":"NASDAQ:USO","interval":"1","timezone":"Asia/Taipei","theme":"dark","style":"1","locale":"zh_TW","hide_top_toolbar":true,"hide_legend":true,"hide_side_toolbar":true,"allow_symbol_change":false,"save_image":false,"backgroundColor":"rgba(8,8,16,1)","gridColor":"rgba(28,28,46,1)"}
             </script>
           </div>
         </div>
-        <div class="chart-label">UNG · GLD · SLV · CPER</div>
+        <div class="chart-label">UNG · GLD · SLV · CPER (ETF)</div>
         <div class="mini-grid">
-          <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"AMEX:UNG","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
+          <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"NASDAQ:UNG","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
           <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"AMEX:GLD","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
           <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"AMEX:SLV","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
           <div class="mini-item"><div class="tradingview-widget-container"><div class="tradingview-widget-container__widget"></div><script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>{"symbol":"AMEX:CPER","width":"100%","height":"100%","locale":"zh_TW","dateRange":"1D","colorTheme":"dark","isTransparent":true}</script></div></div>
@@ -552,37 +548,6 @@ document.querySelectorAll('.m-tab').forEach(tab => {
   });
 });
 
-/* ── LIVE ── */
-const liveChannels = [
-  { name: 'Bloomberg',     id: 'iEpJwprxDdk' },
-  { name: 'Yahoo Finance', id: 'YDvsBbKfLPA' },
-  { name: 'CNBC',          id: '6_S9nI3YzSs'  },
-  { name: 'Fox Business',  id: 'wMJAt73KABI'  },
-  { name: 'Al Jazeera',    id: 'h3MuIUGApuc'  },
-];
-let activeLiveId = liveChannels[0].id;
-
-function setLive(id) {
-  activeLiveId = id;
-  document.getElementById('liveFrame').src =
-    `https://www.youtube.com/embed/${id}?autoplay=1&mute=1`;
-}
-
-(function buildLive() {
-  const wrap = document.getElementById('liveChannels');
-  liveChannels.forEach(ch => {
-    const btn = document.createElement('button');
-    btn.className = 'live-btn' + (ch.id === activeLiveId ? ' active' : '');
-    btn.textContent = ch.name;
-    btn.onclick = () => {
-      document.querySelectorAll('.live-btn').forEach(b=>b.classList.remove('active'));
-      btn.classList.add('active');
-      setLive(ch.id);
-    };
-    wrap.appendChild(btn);
-  });
-  setLive(activeLiveId);
-})();
 </script>
 </body>
 </html>
