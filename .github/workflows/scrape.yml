@@ -11,7 +11,7 @@ permissions:
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    timeout-minutes: 6
+    timeout-minutes: 4
 
     steps:
       - name: Checkout repo
@@ -26,22 +26,17 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Run scraper every 60s (x5)
+      - name: Run scraper
+        run: python scraper/fetch_sina.py || echo "[WARN] scraper failed"
+
+      - name: Commit & push (if changed)
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-
-          for i in 1 2 3 4 5; do
-            echo "=== Round $i ==="
-            python scraper/fetch_sina.py || echo "[WARN] scraper failed, skipping"
-
-            git add docs/data.json scraper/news.db
-            if git diff --cached --quiet; then
-              echo "No changes."
-            else
-              git commit -m "data: round $i [$(date -u '+%H:%M:%S UTC')]"
-              git push
-            fi
-
-            [ $i -lt 5 ] && sleep 60
-          done
+          git add docs/data.json scraper/news.db
+          if git diff --cached --quiet; then
+            echo "No changes, skipping commit."
+          else
+            git commit -m "data: update [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+            git push
+          fi
