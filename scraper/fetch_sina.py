@@ -39,24 +39,30 @@ MARKET_SYMBOLS = {
             {"symbol": "YM=F",     "name": "Dow 期貨"},
             {"symbol": "NKD=F",    "name": "Nikkei 期貨"},
             {"symbol": "RTY=F",    "name": "Russell 2000 期貨"},
+            {"symbol": "FDAX=F",   "name": "DAX 期貨"},
+            {"symbol": "^VIX",     "name": "VIX 恐慌指數"},
         ]
     },
     "fx": {
-        "main":  {"symbol": "DX-Y.NYB", "name": "DXY"},
+        "main":  {"symbol": "DX-Y.NYB", "name": "DXY 美元指數"},
         "minis": [
             {"symbol": "EURUSD=X", "name": "EUR/USD"},
             {"symbol": "JPY=X",    "name": "USD/JPY"},
             {"symbol": "GBPUSD=X", "name": "GBP/USD"},
             {"symbol": "AUDUSD=X", "name": "AUD/USD"},
+            {"symbol": "CNY=X",    "name": "USD/CNY"},
+            {"symbol": "TWD=X",    "name": "USD/TWD"},
         ]
     },
     "bond": {
-        "main":  {"symbol": "^TNX",     "name": "US 10Y"},
+        "main":  {"symbol": "^TNX",      "name": "US 10Y 殖利率"},
         "minis": [
-            {"symbol": "^IRX",     "name": "US 3M"},
-            {"symbol": "^FVX",     "name": "US 5Y"},
-            {"symbol": "^TNX",     "name": "US 10Y"},
-            {"symbol": "^TYX",     "name": "US 30Y"},
+            {"symbol": "^IRX",      "name": "US 3M"},
+            {"symbol": "^FVX",      "name": "US 5Y"},
+            {"symbol": "^TNX",      "name": "US 10Y"},
+            {"symbol": "^TYX",      "name": "US 30Y"},
+            {"symbol": "DE10YT=RR", "name": "德國 10Y"},
+            {"symbol": "JP10YT=RR", "name": "日本 10Y"},
         ]
     },
     "commodity": {
@@ -66,6 +72,8 @@ MARKET_SYMBOLS = {
             {"symbol": "GC=F",     "name": "黃金"},
             {"symbol": "SI=F",     "name": "白銀"},
             {"symbol": "HG=F",     "name": "銅"},
+            {"symbol": "BZ=F",     "name": "Brent 原油"},
+            {"symbol": "ZW=F",     "name": "小麥"},
         ]
     },
 }
