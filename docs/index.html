@@ -6,6 +6,8 @@
 <title>24HR MKT NEWS</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@400;600;700;900&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+<script src="https://unpkg.com/lightweight-charts@4.2.0/dist/lightweight-charts.standalone.production.js"></script>
+<script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 <script>
 function googleTranslateElementInit() {
   new google.translate.TranslateElement(
@@ -14,8 +16,6 @@ function googleTranslateElementInit() {
   );
 }
 </script>
-<script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-<script src="https://unpkg.com/lightweight-charts@4.2.0/dist/lightweight-charts.standalone.production.js"></script>
 <style>
   :root {
     --bg:           #080810;
@@ -177,7 +177,7 @@ function googleTranslateElementInit() {
 
   /* Mini cards */
   .mini-grid { display: grid; grid-template-columns: 1fr 1fr; }
-  .mini-item { height: 130px; overflow: hidden; border-right: 1px solid var(--border); border-bottom: 1px solid var(--border); display: flex; flex-direction: column; padding: 7px 8px 0; }
+  .mini-item { height: 110px; overflow: hidden; border-right: 1px solid var(--border); border-bottom: 1px solid var(--border); display: flex; flex-direction: column; padding: 7px 8px 0; }
   .mini-item:nth-child(even) { border-right: none; }
   .mini-info { display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 1px; }
   .mini-name  { font-family: 'DM Mono', monospace; font-size: .55rem; color: var(--text); font-weight: 500; letter-spacing: .02em; }
@@ -548,17 +548,22 @@ function buildTicker(data) {
     { symbol: "ES=F",      label: "S&P Fut" },
     { symbol: "NQ=F",      label: "NQ Fut" },
     { symbol: "YM=F",      label: "Dow Fut" },
+    { symbol: "FDAX=F",    label: "DAX Fut" },
+    { symbol: "^VIX",      label: "VIX" },
     { symbol: "CL=F",      label: "WTI" },
+    { symbol: "BZ=F",      label: "Brent" },
     { symbol: "GC=F",      label: "Gold" },
     { symbol: "SI=F",      label: "Silver" },
     { symbol: "HG=F",      label: "Copper" },
+    { symbol: "NG=F",      label: "Nat Gas" },
     { symbol: "DX-Y.NYB",  label: "DXY" },
     { symbol: "EURUSD=X",  label: "EUR/USD" },
     { symbol: "JPY=X",     label: "USD/JPY" },
     { symbol: "GBPUSD=X",  label: "GBP/USD" },
+    { symbol: "USDCNH=X",  label: "USD/CNH" },
     { symbol: "^TNX",      label: "US 10Y" },
     { symbol: "^TYX",      label: "US 30Y" },
-    { symbol: "NG=F",      label: "Nat Gas" },
+    { symbol: "DE10YT=RR", label: "DE 10Y" },
   ];
   const html = TICKER_SYMBOLS.map(t => {
     const d = data.data?.[t.symbol];
