@@ -35,12 +35,12 @@ MARKET_SYMBOLS = {
     "equity": {
         "main":  {"symbol": "ES=F",     "name": "S&P 500 期貨"},
         "minis": [
-            {"symbol": "NQ=F",     "name": "Nasdaq 期貨"},
-            {"symbol": "YM=F",     "name": "Dow 期貨"},
-            {"symbol": "NKD=F",    "name": "Nikkei 期貨"},
-            {"symbol": "RTY=F",    "name": "Russell 2000 期貨"},
-            {"symbol": "FDAX=F",   "name": "DAX 期貨"},
-            {"symbol": "^VIX",     "name": "VIX 恐慌指數"},
+            {"symbol": "NQ=F",       "name": "Nasdaq 期貨"},
+            {"symbol": "YM=F",       "name": "Dow 期貨"},
+            {"symbol": "NKD=F",      "name": "Nikkei 期貨"},
+            {"symbol": "RTY=F",      "name": "Russell 2000 期貨"},
+            {"symbol": "^GDAXI",     "name": "DAX"},
+            {"symbol": "^VIX",       "name": "VIX 恐慌指數"},
         ]
     },
     "fx": {
@@ -61,8 +61,8 @@ MARKET_SYMBOLS = {
             {"symbol": "^FVX",      "name": "US 5Y"},
             {"symbol": "^TNX",      "name": "US 10Y"},
             {"symbol": "^TYX",      "name": "US 30Y"},
-            {"symbol": "DE10YT=RR", "name": "德國 10Y"},
-            {"symbol": "JP10YT=RR", "name": "日本 10Y"},
+            {"symbol": "HYG",       "name": "高收益債 ETF"},
+            {"symbol": "LQD",       "name": "投資級債 ETF"},
         ]
     },
     "commodity": {
