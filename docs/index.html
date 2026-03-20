@@ -30,8 +30,45 @@ function googleTranslateElementInit() {
     --red:          #e05555;
     --live-w:       320px;
     --chart-w:      360px;
+    --ticker-h:     28px;
     --header-h:     52px;
+    --top-h:        80px; /* ticker + header */
   }
+
+  /* ── TICKER TAPE ── */
+  #ticker-bar {
+    position: fixed; top: 0; left: 0; right: 0; z-index: 400;
+    height: var(--ticker-h);
+    background: #050508;
+    border-bottom: 1px solid var(--border);
+    overflow: hidden;
+    display: flex; align-items: center;
+  }
+  #ticker-track {
+    display: flex; align-items: center;
+    white-space: nowrap;
+    animation: ticker-scroll 60s linear infinite;
+  }
+  #ticker-track:hover { animation-play-state: paused; }
+  @keyframes ticker-scroll {
+    0%   { transform: translateX(0); }
+    100% { transform: translateX(-50%); }
+  }
+  .ticker-content {
+    display: inline-flex; align-items: center; gap: 0;
+    padding-right: 40px;
+  }
+  .t-item {
+    font-family: 'DM Mono', monospace;
+    font-size: .62rem; letter-spacing: .04em;
+    padding: 0 20px; border-right: 1px solid var(--border);
+    display: inline-flex; align-items: center; gap: 8px;
+    height: var(--ticker-h);
+  }
+  .t-name  { color: var(--muted); }
+  .t-price { color: var(--text); font-weight: 500; }
+  .t-chg.up { color: var(--green); }
+  .t-chg.dn { color: var(--red); }
   * { margin: 0; padding: 0; box-sizing: border-box; }
   body {
     background: var(--bg); color: var(--text);
@@ -46,7 +83,7 @@ function googleTranslateElementInit() {
 
   /* ── HEADER ── */
   header {
-    position: fixed; top: 0; left: 0; right: 0; z-index: 300;
+    position: fixed; top: var(--ticker-h); left: 0; right: 0; z-index: 300;
     background: rgba(8,8,16,.96); backdrop-filter: blur(16px);
     border-bottom: 1px solid var(--border);
     height: var(--header-h); display: flex; align-items: center;
@@ -78,7 +115,7 @@ function googleTranslateElementInit() {
   @keyframes blink { 0%,100%{opacity:1} 50%{opacity:.2} }
 
   /* ── BODY ── */
-  .body-wrap { display: flex; position: fixed; top: var(--header-h); left: 0; right: 0; bottom: 0; z-index: 1; }
+  .body-wrap { display: flex; position: fixed; top: var(--top-h); left: 0; right: 0; bottom: 0; z-index: 1; }
 
   /* ════ LEFT — LIVE ════ */
   .live-col { width: var(--live-w); flex-shrink: 0; display: flex; flex-direction: column; border-right: 1px solid var(--border); background: var(--surface); overflow: hidden; }
@@ -155,6 +192,14 @@ function googleTranslateElementInit() {
 </style>
 </head>
 <body>
+
+<!-- ── TICKER TAPE ── -->
+<div id="ticker-bar">
+  <div id="ticker-track">
+    <div id="ticker-inner" class="ticker-content">載入行情中…</div>
+    <div id="ticker-clone"  class="ticker-content" aria-hidden="true"></div>
+  </div>
+</div>
 
 <header>
   <div class="wordmark">24HR<em>/</em>MKT NEWS</div>
@@ -487,6 +532,7 @@ async function loadMarket() {
     const data = await (await fetch(MARKET_URL + '?t=' + Date.now())).json();
     marketCache = data;
     document.getElementById('marketUpdated').textContent = `報價更新：${data.updated || '—'}（每 5 分鐘）`;
+    buildTicker(data);
     // Render active panel immediately
     const activePanel = document.querySelector('.m-tab.active')?.dataset.panel || 'equity';
     renderPanel(activePanel, data);
@@ -494,6 +540,39 @@ async function loadMarket() {
     document.getElementById('marketUpdated').textContent = '報價載入失敗';
     console.warn('market.json load error:', e.message);
   }
+}
+
+// ── Ticker Tape ──
+function buildTicker(data) {
+  const TICKER_SYMBOLS = [
+    { symbol: "ES=F",      label: "S&P Fut" },
+    { symbol: "NQ=F",      label: "NQ Fut" },
+    { symbol: "YM=F",      label: "Dow Fut" },
+    { symbol: "CL=F",      label: "WTI" },
+    { symbol: "GC=F",      label: "Gold" },
+    { symbol: "SI=F",      label: "Silver" },
+    { symbol: "HG=F",      label: "Copper" },
+    { symbol: "DX-Y.NYB",  label: "DXY" },
+    { symbol: "EURUSD=X",  label: "EUR/USD" },
+    { symbol: "JPY=X",     label: "USD/JPY" },
+    { symbol: "GBPUSD=X",  label: "GBP/USD" },
+    { symbol: "^TNX",      label: "US 10Y" },
+    { symbol: "^TYX",      label: "US 30Y" },
+    { symbol: "NG=F",      label: "Nat Gas" },
+  ];
+  const html = TICKER_SYMBOLS.map(t => {
+    const d = data.data?.[t.symbol];
+    if (!d) return "";
+    const price = d.price; const prev = d.prev_close;
+    const chg = (!price || !prev) ? { str: "—", cls: "" } : (() => {
+      const p = ((price - prev) / prev) * 100;
+      return { str: (p >= 0 ? "▲" : "▼") + Math.abs(p).toFixed(2) + "%", cls: p >= 0 ? "up" : "dn" };
+    })();
+    const priceStr = price >= 1000 ? price.toLocaleString("en-US", {maximumFractionDigits: 2}) : price >= 10 ? price.toFixed(2) : price.toFixed(4);
+    return `<span class="t-item"><span class="t-name">${t.label}</span><span class="t-price">${priceStr}</span><span class="t-chg ${chg.cls}">${chg.str}</span></span>`;
+  }).join("");
+  document.getElementById("ticker-inner").innerHTML = html;
+  document.getElementById("ticker-clone").innerHTML = html;
 }
 
 // Tab switching
