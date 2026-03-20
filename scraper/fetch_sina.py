@@ -33,12 +33,12 @@ DOCS_DIR = os.path.join(BASE_DIR, "..", "docs")
 # ── 市場 symbol 設定 ──
 MARKET_SYMBOLS = {
     "equity": {
-        "main":  {"symbol": "^GSPC",    "name": "S&P 500"},
+        "main":  {"symbol": "ES=F",     "name": "S&P 500 期貨"},
         "minis": [
-            {"symbol": "^IXIC",    "name": "Nasdaq"},
-            {"symbol": "^DJI",     "name": "Dow Jones"},
-            {"symbol": "^N225",    "name": "Nikkei 225"},
-            {"symbol": "^HSI",     "name": "Hang Seng"},
+            {"symbol": "NQ=F",     "name": "Nasdaq 期貨"},
+            {"symbol": "YM=F",     "name": "Dow 期貨"},
+            {"symbol": "NKD=F",    "name": "Nikkei 期貨"},
+            {"symbol": "RTY=F",    "name": "Russell 2000 期貨"},
         ]
     },
     "fx": {
