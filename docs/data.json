@@ -1,7 +1,24 @@
 {
-  "updated": "2026-03-21 14:52:51",
-  "count": 3707,
+  "updated": "2026-03-21 14:56:08",
+  "count": 3709,
   "items": [
+    {
+      "id": "4761679",
+      "time": "2026-03-21 14:55:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "阿爾凱默斯（Alkem Labs）在印度推出司美格魯肽注射液，產品品牌名為Semasize、Obesema 及 Hepaglide，每週療程價格最低為 450 盧比，每月四劑售價 1800 盧比。"
+    },
+    {
+      "id": "4761678",
+      "time": "2026-03-21 14:52:51",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "【雷軍官宣：XiaomiMiMo首周限免開放】雷軍發博表示：Xiaomi MiMo 聯合 OpenClaw、OpenCode、KiloCode、Cline 和 BLACKBOXAI 五大主流Agent 框架，首周限免開放。歡迎國內開發者試用。"
+    },
     {
       "id": "4761677",
       "time": "2026-03-21 14:51:49",
