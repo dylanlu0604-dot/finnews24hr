@@ -614,8 +614,11 @@ def update_ai_summaries(conn) -> None:
         print("[AI] 已取得摘要用市場價格背景")
 
     # ── Backfill 模式 ──
-    # 設定 BACKFILL_FROM=YYYY-MM-DD 環境變數即可回溯該日期之後的所有時段
+    # 平常排程只處理目前這個 3 小時時段；需要一次性補歷史時，才設定環境變數。
+    # BACKFILL_FROM=YYYY-MM-DD：回溯該日期之後的所有時段。
+    # AI_SCORE_BACKFILL_DAYS=3：只回補最近 N 天缺 score 的既有摘要。
     backfill_from = os.getenv("BACKFILL_FROM", "").strip()
+    score_backfill_days = os.getenv("AI_SCORE_BACKFILL_DAYS", "").strip()
     if backfill_from:
         try:
             backfill_dt = datetime.strptime(backfill_from, "%Y-%m-%d").replace(tzinfo=TW)
@@ -624,10 +627,16 @@ def update_ai_summaries(conn) -> None:
             print(f"[BACKFILL] 回溯模式：從 {backfill_from} 起，預計處理 {target_slots} 個 {SLOT_HOURS} 小時時段")
         except ValueError:
             print(f"[ERROR] BACKFILL_FROM 格式錯誤（需為 YYYY-MM-DD）：{backfill_from}，改用預設值")
-            target_slots = int(72 / SLOT_HOURS)
+            target_slots = 1
+    elif score_backfill_days:
+        try:
+            target_slots = max(1, int(float(score_backfill_days) * 24 / SLOT_HOURS))
+            print(f"[BACKFILL] 分數回補模式：最近 {score_backfill_days} 天，預計處理 {target_slots} 個 {SLOT_HOURS} 小時時段")
+        except ValueError:
+            print(f"[ERROR] AI_SCORE_BACKFILL_DAYS 格式錯誤（需為數字）：{score_backfill_days}，改用預設值")
+            target_slots = 1
     else:
-        # 檢查近 3 天：已有完整摘要會跳過；缺 score 的舊摘要會補分數。
-        target_slots = int(float(os.getenv("AI_SCORE_BACKFILL_DAYS", "3")) * 24 / SLOT_HOURS)
+        target_slots = 1
 
     current_time = now
     new_count = 0
@@ -675,7 +684,7 @@ def update_ai_summaries(conn) -> None:
         # 將時間設為上一個時段的起點，準備下一次迴圈
         current_time = slot_start
 
-    if backfill_from:
+    if backfill_from or score_backfill_days:
         print(f"[BACKFILL] 完成：新增 {new_count} 個，補分數 {updated_scores} 個，已存在 {skipped_existing} 個，快訊不足略過 {skipped_thin} 個")
 
     # 迴圈結束後，統一存檔

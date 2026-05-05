@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: "*/5 * * * *"
   workflow_dispatch:
+    inputs:
+      ai_score_backfill_days:
+        description: "一次性回補 AI score 的天數；排程執行請留空"
+        required: false
+        default: ""
 
 concurrency:
   group: scraper
@@ -34,6 +39,7 @@ jobs:
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_SUMMARY_MODEL: ${{ vars.OPENAI_SUMMARY_MODEL || 'gpt-4.1-mini' }}
+          AI_SCORE_BACKFILL_DAYS: ${{ github.event.inputs.ai_score_backfill_days || '' }}
           GH_PAT: ${{ secrets.GH_PAT }}
         run: |
           git config user.name  "github-actions[bot]"
