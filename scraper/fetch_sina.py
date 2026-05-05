@@ -365,9 +365,9 @@ D 級：地緣政治
 輸出要求：
 1. summary_title：一句 15 字以內標題。
 2. summary：50~100 字以內總摘要。
-3. events：5~10 個重點事件，依該時段實際重要事件多寡決定數量，依重要程度由高到低排序（A→B→C→D）。
+3. events：5~10 個重點事件，依該時段實際重要事件多寡決定數量，依重要程度由高到低排序（S→A→B→C→D）。
 4. 每個事件包含 title、explanation、impact。
-5. 每個 explanation 約 50~100 字，說明事件。
+5. 每個 explanation 約 50~150 字，說明事件。
 6. **請勿在任何欄位輸出「S級 / A 級 / B 級 / C 級 / D 級」等分級標示**，分級僅作為內部篩選依據。
 7. 不要編造事實；若訊息不足，寧可寫得簡短或減少事件數量，也不要硬湊。
 8. 清淡時段寧可只給 5 則高質量事件，也不要為了湊數納入垃圾級內容。
@@ -503,7 +503,7 @@ def update_ai_summaries(conn) -> None:
             print(f"[BACKFILL] 回溯模式：從 {backfill_from} 起，預計處理 {target_slots} 個 {SLOT_HOURS} 小時時段")
         except ValueError:
             print(f"[ERROR] BACKFILL_FROM 格式錯誤（需為 YYYY-MM-DD）：{backfill_from}，改用預設值")
-            target_slots = 8
+            target_slots = 4
     else:
         # 只檢查近 1 天的時段；dedup 會跳過已有摘要的時段，只對缺口呼叫 API
         target_slots = int(24 / SLOT_HOURS)
