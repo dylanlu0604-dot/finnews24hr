@@ -66,6 +66,7 @@ jobs:
               echo "No changes."
             else
               git commit -m "data: round $i [$(date -u '+%H:%M:%S UTC')]"
+              git pull --rebase origin main
               git push
 
               # 同步 docs/ 到公開 repo
@@ -73,6 +74,7 @@ jobs:
               git -C /tmp/page-repo add .
               if ! git -C /tmp/page-repo diff --cached --quiet; then
                 git -C /tmp/page-repo commit -m "page: round $i [$(date -u '+%H:%M:%S UTC')]"
+                git -C /tmp/page-repo pull --rebase origin main
                 git -C /tmp/page-repo push
               fi
             fi
