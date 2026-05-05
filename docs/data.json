@@ -1,7 +1,93 @@
 {
-  "updated": "2026-05-05 18:12:19",
-  "count": 350,
+  "updated": "2026-05-05 18:15:43",
+  "count": 359,
   "items": [
+    {
+      "id": "te:economy:547835",
+      "time": "2026-05-05 18:13:51",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Africa",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "South Africa 10-Year Bond Yield at 1-Month High — South Africa’s 10-year bond yield climbed above 8.86%, the highest level since early April, as risk appetite was battered by fresh frictions in the Middle East and ongoing disruptions in the Strait of Hormuz. The US and Iran launched fresh attacks in the Gulf, raising uncertainty over the durability of the fragile ceasefire, while keeping energy prices elevated and adding to inflation concerns. SARB Governor Lesetja Kganyago said recently that policymakers will “very carefully” monitor incoming data for their next policy move, as the Iran war clouds the inflation outlook and amplifies global economic uncertainty. He added that the central bank will not pre-commit to a policy path, noting it “cannot offer certainty about our next steps”. Rising inflation risks from the Middle East conflict have led many analysts to expect a rate hike, but this could undermine South Africa’s still-fragile recovery and slow growth."
+    },
+    {
+      "id": "4861048",
+      "time": "2026-05-05 18:13:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽關於科威特銀行業的評估：預計多數銀行無需當局提供資金支援即可抵禦短期流動性壓力。"
+    },
+    {
+      "id": "4861047",
+      "time": "2026-05-05 18:13:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【霍爾木茲海峽衝突升級 以軍維持“最高戰備狀態”】當地時間5月4日，伊朗軍方稱，美軍驅逐艦無視警告試圖接近霍爾木茲海峽，伊朗開火反擊。阿聯酋稱當天遭到導彈和無人機襲擊。以色列方面表示對此保持高度關注，並且為停火破裂、重啟戰爭做好了準備。（央視新聞）"
+    },
+    {
+      "id": "te:economy:547834",
+      "time": "2026-05-05 18:13:12",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "LMI Logistics Managers Index",
+        "Importance 2"
+      ],
+      "text": "US Logistics Activity Accelerates — The Logistics Manager’s Index in the US increased to 69.9 in April 2026 from 65.7 in March, pointing to the strongest growth in the logistic sector since March 2022. Transportation prices continue their sharp upward trajectory (95 vs 89.4), the second-fasted rate of expansion for this, or any, metric on record. At the same time, inventory costs (74.7 vs 76.2) and warehousing prices (72.7 vs 67.4) remained elevated. Meanwhile, transportation utilization increased (69.6 vs 62.9) but transportation capacity recorded the second lowest reading on record (28.4 vs 39.2). Freight markets were already on a strong upward trajectory coming into 2026, the closure of the Strait of Hormuz and subsequent increase in fuel costs have supercharged these movements. Inventory level expanded faster (56.3 vs 54.8), as firms consolidate shipments to avoid transportation surcharges. Warehousing capacity (45.5 vs 46) fell faster but warehousing utilization (64.4 vs 59.8) expanded more."
+    },
+    {
+      "id": "te:economy:547833",
+      "time": "2026-05-05 18:13:11",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Serbia",
+        "Producer Prices Change",
+        "Importance 1"
+      ],
+      "text": "Serbia Producer Prices Rise the Most Since 2023 — Serbia’s producer prices advanced 7.8% year-on-year in April 2026, following a 5.3% rise in the previous month. This marked the highest reading since February 2023, lifted by higher costs in manufacturing (8.5% vs 5.6% in March), particularly in the manufacture of tobacco products (10.5% vs 6.7%), garments (1.9% vs 1.8%), coke and oil derivatives (56.2% vs 30.3%), chemicals and chemical products (16.1% vs 5.4%), and base metals (7.1% vs 6.9%). At the same time, prices jumped in mining and quarrying (21.1% vs 11%), while costs remained stable for electricity, gas, steam, and air-conditioning supply at 3.9%. Meanwhile, inflation moderated for water supply, sewerage, waste management, and remediation activities (4.4% vs 4.7%). On a monthly basis, producer prices rose by 2.1% in April, easing from a 4.9% growth in the preceding period."
+    },
+    {
+      "id": "4861046",
+      "time": "2026-05-05 18:13:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "惠譽：在惠譽的基準假設下，科威特銀行業具備充足緩衝能力，可承受伊朗衝突帶來的衝擊。"
+    },
+    {
+      "id": "4861045",
+      "time": "2026-05-05 18:12:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "Palantir表示， 預計運營費用將持續攀升，可能難以在未來保持盈利狀態。"
+    },
+    {
+      "id": "4861044",
+      "time": "2026-05-05 18:12:29",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【荷蘭國際：若天然氣價格跳漲，歐元將易受衝擊】荷蘭國際集團的Chris Turner在一份報告中表示，如果天然氣價格開始大幅上漲，歐元將面臨下跌風險。這位全球市場主管表示：“今年歐元區的幸事之一是，天然氣價格的飆升程度遠不及2022年，這意味著對歐元區貿易條件造成的負面衝擊遠沒有那麼大。”然而，荷蘭國際集團的大宗商品策略師警告稱，天然氣市場可能低估了波斯灣供應中斷的風險。Turner說，如果這一判斷正確，歐元“將面臨更廣泛的壓力“。歐元兌美元持穩於1.1689美元。"
+    },
+    {
+      "id": "4861043",
+      "time": "2026-05-05 18:12:05",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美國國債收益率下跌，美元小幅走強】隨著中東緊張局勢加劇，美國國債收益率從高位小幅回落，而美元兌一籃子貨幣則上漲。Kudotrade的Konstantinos Chrysikos在一份報告中表示：“緊張局勢加劇可能會使油價得到支撐，從而加劇通脹擔憂並錨定美國國債收益率。”伊朗向美國軍艦開火，擾亂了美國恢復霍爾木茲海峽航運的努力，並考驗了美國與伊朗的停火協議。Chrysikos說，謹慎的貨幣政策可能會持續很長一段時間，美國利率可能會保持不變直到明年年底。根據Tradeweb的資料，10年期美國國債收益率下跌2個基點，至4.425%，該收益率週一曾觸及4.464%的五週高點。DXY美元指數上漲0.15%，至98.521。"
+    },
     {
       "id": "4861041",
       "time": "2026-05-05 18:11:21",
