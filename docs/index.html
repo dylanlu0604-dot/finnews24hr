@@ -592,7 +592,7 @@ function initLanguageSelect() {
       <div class="score-panel" id="aiScorePanel">
         <div class="score-head">
           <div class="score-title">AI Scores</div>
-          <div class="score-sub">最近 8 個時段</div>
+          <div class="score-sub">最近 3 天</div>
         </div>
         <div id="aiScoreContent">
           <div class="chart-loading" style="position:relative;height:120px">載入中…</div>
@@ -1048,7 +1048,7 @@ function renderScoreLine(points) {
   const linePath = key => points.map((p, idx) => `${idx ? 'L' : 'M'}${x(idx).toFixed(1)},${y(p[key]).toFixed(1)}`).join(' ');
   const dots = (key, color) => points.map((p, idx) => `<circle cx="${x(idx)}" cy="${y(p[key])}" r="2.4" fill="${color}"/>`).join('');
   const labels = points.map((p, idx) => {
-    if (idx % 2 && idx !== points.length - 1) return '';
+    if (idx % 4 && idx !== points.length - 1) return '';
     return `<text x="${x(idx)}" y="140" text-anchor="middle" fill="#77736b" font-size="8" font-family="DM Mono">${attrEscape(p.label)}</text>`;
   }).join('');
   return `<svg class="score-svg" viewBox="0 0 ${w} ${h}" role="img" aria-label="AI score time series">
@@ -1071,7 +1071,7 @@ function renderAiScores() {
   if (!root) return;
   const points = aiSummaries
     .filter(item => scoreNum(item.risk_on_score) !== null && scoreNum(item.fundamental_surprise_score) !== null)
-    .slice(0, 8)
+    .slice(0, 24)
     .reverse()
     .map(item => ({
       label: formatAiSlot(item).replace(' ', '\n'),

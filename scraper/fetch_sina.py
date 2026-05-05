@@ -602,6 +602,10 @@ impact 欄位的目的是記錄「快訊中明確報導的市場實際反應或�
     return json.loads(text)
 
 
+def has_ai_scores(item: dict) -> bool:
+    return item.get("risk_on_score") is not None and item.get("fundamental_surprise_score") is not None
+
+
 def update_ai_summaries(conn) -> None:
     now = datetime.now(TW)
     data = load_ai_summaries()
@@ -620,20 +624,22 @@ def update_ai_summaries(conn) -> None:
             print(f"[BACKFILL] 回溯模式：從 {backfill_from} 起，預計處理 {target_slots} 個 {SLOT_HOURS} 小時時段")
         except ValueError:
             print(f"[ERROR] BACKFILL_FROM 格式錯誤（需為 YYYY-MM-DD）：{backfill_from}，改用預設值")
-            target_slots = 4
+            target_slots = int(72 / SLOT_HOURS)
     else:
-        # 只檢查近 1 天的時段；dedup 會跳過已有摘要的時段，只對缺口呼叫 API
-        target_slots = int(24 / SLOT_HOURS)
+        # 檢查近 3 天：已有完整摘要會跳過；缺 score 的舊摘要會補分數。
+        target_slots = int(float(os.getenv("AI_SCORE_BACKFILL_DAYS", "3")) * 24 / SLOT_HOURS)
 
     current_time = now
     new_count = 0
+    updated_scores = 0
     skipped_existing = 0
     skipped_thin = 0
 
     for i in range(target_slots):
         slot_start, slot_end, slot_id = time_slot(current_time)
+        existing_idx = next((idx for idx, item in enumerate(data.get("items", [])) if item.get("id") == slot_id), None)
 
-        if any(item.get("id") == slot_id for item in data.get("items", [])):
+        if existing_idx is not None and has_ai_scores(data["items"][existing_idx]):
             skipped_existing += 1
             print(f"[AI] {slot_id} 已有摘要，略過")
         else:
@@ -647,16 +653,22 @@ def update_ai_summaries(conn) -> None:
             else:
                 try:
                     result = call_openai_summary(items, slot_start, slot_end, market_context)
-                    data.setdefault("items", []).insert(0, {
+                    summary_item = {
                         "id": slot_id,
                         "slot_start": slot_start.strftime("%Y-%m-%d %H:%M:%S"),
                         "slot_end": slot_end.strftime("%Y-%m-%d %H:%M:%S"),
                         "generated_at": datetime.now(TW).strftime("%Y-%m-%d %H:%M:%S"),
                         "count": len(items),
                         **result,
-                    })
-                    new_count += 1
-                    print(f"[OK] AI 摘要：新增 {slot_id} ({len(items)} 則快訊)")
+                    }
+                    if existing_idx is None:
+                        data.setdefault("items", []).insert(0, summary_item)
+                        new_count += 1
+                        print(f"[OK] AI 摘要：新增 {slot_id} ({len(items)} 則快訊)")
+                    else:
+                        data["items"][existing_idx] = {**data["items"][existing_idx], **summary_item}
+                        updated_scores += 1
+                        print(f"[OK] AI 摘要：補分數 {slot_id} ({len(items)} 則快訊)")
                 except Exception as e:
                     print(f"[ERROR] AI 摘要 {slot_id} 失敗：{e}")
 
@@ -664,7 +676,7 @@ def update_ai_summaries(conn) -> None:
         current_time = slot_start
 
     if backfill_from:
-        print(f"[BACKFILL] 完成：新增 {new_count} 個，已存在 {skipped_existing} 個，快訊不足略過 {skipped_thin} 個")
+        print(f"[BACKFILL] 完成：新增 {new_count} 個，補分數 {updated_scores} 個，已存在 {skipped_existing} 個，快訊不足略過 {skipped_thin} 個")
 
     # 迴圈結束後，統一存檔
     save_ai_summaries(data)
