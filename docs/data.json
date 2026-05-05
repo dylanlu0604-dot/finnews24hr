@@ -1,7 +1,27 @@
 {
-  "updated": "2026-05-06 06:48:14",
-  "count": 11561,
+  "updated": "2026-05-06 06:51:42",
+  "count": 11563,
   "items": [
+    {
+      "id": "te:economy:548020",
+      "time": "2026-05-06 06:51:07",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "Unemployment Rate",
+        "Importance 2"
+      ],
+      "text": "New Zealand Jobless Rate Falls Below Forecasts — New Zealand's seasonally adjusted unemployment rate inched down to 5.3% in the March 2026 quarter, lower than both the previous quarter and market expectations of 5.4%. The latest reading declined from the highest jobless rate since the September 2015 quarter, as the number of unemployed individuals fell by 2,000 from the prior quarter to 163,000. At the same time, employment increased by 4 thousand to 2.89 million during the quarter, bringing the employment rate to 66.7%, unchanged from Q4."
+    },
+    {
+      "id": "4862121",
+      "time": "2026-05-06 06:48:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國大使館：涉疫郵輪上無中國公民】目前，涉漢坦病毒疫情郵輪“洪迪厄斯”號停泊在非洲國家維德角首都普拉亞港口外海域。中國駐維德角大使館當地時間5日晚發表宣告說，“經核實，船上無中國公民”。使館同時提醒在佛中國公民加強衛生防範。（新華社）"
+    },
     {
       "id": "4862120",
       "time": "2026-05-06 06:46:00",
