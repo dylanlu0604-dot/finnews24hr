@@ -1,7 +1,58 @@
 {
-  "updated": "2026-05-06 04:15:08",
-  "count": 11591,
+  "updated": "2026-05-06 04:18:31",
+  "count": 11594,
   "items": [
+    {
+      "id": "te:economy:548005",
+      "time": "2026-05-06 04:17:25",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Uruguay",
+        "Unemployment Rate",
+        "Importance 1"
+      ],
+      "text": "Uruguay Jobless Rate Rises in March — Uruguay’s unemployment rate rose to 7.8% in March 2026 from 7.4% in February, marking the highest level since May 2025. Joblessness was slightly higher in Montevideo at 8.0% than in the rest of the country at 7.6%. By gender, the unemployment rate stood at 9.3% for women and 6.4% for men, while youth unemployment remained elevated at 25.9% and was lowest among workers aged 65 and over at 2.9%. Among those employed, 9.4% were underemployed and 22% were not registered with social security in their main job. Meanwhile, the labor force participation rate edged down to 64.3% from 64.6%, and the employment rate declined to 59.3% from 59.8% in February."
+    },
+    {
+      "id": "te:markets:548003",
+      "time": "2026-05-06 04:16:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Live Nation Entertainment earnings below expectations at -1.85 USD — Live Nation Entertainment (LYV) released earnings per share at -1.85 USD, compared to market expectations of -0.33 USD."
+    },
+    {
+      "id": "4862047",
+      "time": "2026-05-06 04:16:31",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "AMD第一季度營收102.5億美元，預估98.9億美元。\n第一季度資本支出3.89億美元，預估2.152億美元。\n第一季度調整後每股收益1.37美元，預估1.28美元。 \n第一季度調整後運營收益25.4億美元，預估24.1億美元。\n第一季度研發支出24.0億美元，預估22.6億美元 。\n第一季度調整後運營利潤率25％，預估24.3％。\n預計第二季度營收109.0億美元至115.0億美元，預估105.2億美元。\n預計第二季度經調整毛利率大約56％，預估55.3％。"
+    },
+    {
+      "id": "4862046",
+      "time": "2026-05-06 04:15:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：蘋果就人工智慧版 Siri推遲上線一事，達成2.5 億美元和解協議。"
+    },
+    {
+      "id": "4862045",
+      "time": "2026-05-06 04:14:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "西方石油公司（OXY）一季度資本開支16億美元。"
+    },
     {
       "id": "te:markets:548001",
       "time": "2026-05-06 04:14:31",
@@ -97526,23 +97577,6 @@
         "市場"
       ],
       "text": "西部資料股價跟隨希捷股價上漲，盤後漲幅達7%。"
-    },
-    {
-      "id": "4848198",
-      "time": "2026-04-29 04:16:54",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "希捷科技公佈業績後，盤後股價上漲12%。"
-    },
-    {
-      "id": "4848197",
-      "time": "2026-04-29 04:15:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "北方石油天然氣公司：第一季度套期保值已實現虧損為1760萬美元，公司天然氣套期保值的收益被原油套期保值的虧損完全抵消。"
     }
   ]
 }
