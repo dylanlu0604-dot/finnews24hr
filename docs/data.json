@@ -1,7 +1,19 @@
 {
-  "updated": "2026-05-06 04:42:03",
+  "updated": "2026-05-06 04:45:27",
   "count": 11600,
   "items": [
+    {
+      "id": "te:economy:548012",
+      "time": "2026-05-06 04:44:40",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Uruguay",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Uruguay Inflation Accelerates in April — Uruguay’s annual inflation rose to 3.2% in April 2026 from 2.9% in the previous month. The strongest price increases were seen in education (7.1%), restaurants and lodging (7.1%), personal care and social security (5.3%), utilities (4.5%), information and communication (3.7%), alcoholic beverages and tobacco (3.4%), and insurance and financial services (3.2%), while prices fell for clothing and footwear (-4.7%). On a monthly basis, inflation picked up to 0.54% from 0.41% in March."
+    },
     {
       "id": "4862063",
       "time": "2026-05-06 04:39:19",
@@ -97643,14 +97655,6 @@
         "國際"
       ],
       "text": "Booking Holding高管：儘管短期市場動向帶來一定波動，但我們認為我們在中東的整體佈局是一項長期優勢。"
-    },
-    {
-      "id": "4848215",
-      "time": "2026-04-29 04:43:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "星巴克：20億美元成本削減計劃推進進度符合預期。"
     }
   ]
 }
