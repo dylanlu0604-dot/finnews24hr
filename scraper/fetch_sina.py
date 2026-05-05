@@ -452,12 +452,29 @@ D 級：地緣政治
 輸出要求：
 1. summary_title：一句 15 字以內標題。
 2. summary：50~100 字以內總摘要。
-3. events：5~10 個重點事件，依該時段實際重要事件多寡決定數量，依重要程度由高到低排序（S→A→B→C→D）。
-4. 每個事件包含 title、explanation、impact。
-5. 每個 explanation 約 50~150 字，說明事件。
-6. **請勿在任何欄位輸出「S級 / A 級 / B 級 / C 級 / D 級」等分級標示**，分級僅作為內部篩選依據。
-7. 不要編造事實；若訊息不足，寧可寫得簡短或減少事件數量，也不要硬湊。
-8. 清淡時段寧可只給 5 則高質量事件，也不要為了湊數納入垃圾級內容。
+3. risk_on_score：0~10 分數，10 代表市場完全 risk on，0 代表市場完全 risk off。
+4. fundamental_surprise_score：0~10 分數，10 代表經濟數據與財報全面優於預期，0 代表全面低於預期。
+5. score_commentary：一句 30 字以內說明兩個分數的主要依據。
+6. events：5~10 個重點事件，依該時段實際重要事件多寡決定數量，依重要程度由高到低排序（S→A→B→C→D）。
+7. 每個事件包含 title、explanation、impact。
+8. 每個 explanation 約 50~150 字，說明事件。
+9. **請勿在任何欄位輸出「S級 / A 級 / B 級 / C 級 / D 級」等分級標示**，分級僅作為內部篩選依據。
+10. 不要編造事實；若訊息不足，寧可寫得簡短或減少事件數量，也不要硬湊。
+11. 清淡時段寧可只給 5 則高質量事件，也不要為了湊數納入垃圾級內容。
+
+【分數規則 — 請直接根據 summary、events 與市場價格背景評分】
+risk_on_score：
+- 8~10：股市/信用/高 beta 資產強，VIX 或美元避險壓力低，市場明顯 risk on。
+- 5~7：股市仍高檔或漲跌互見，但油金、美元、利率或地緣風險使情緒分歧。
+- 3~4：風險資產承壓，避險資產或美元需求升溫。
+- 0~2：全面 risk off，股市、信用、週期資產同步轉弱。
+
+fundamental_surprise_score：
+- 8~10：主要經濟數據、企業財報或指引大多優於預期。
+- 5~7：數據與財報混合偏正面，或缺少足夠明確 surprise。
+- 3~4：數據與財報混合偏負面，或成長/需求訊號轉弱。
+- 0~2：主要數據與財報普遍低於預期。
+- 若時段缺少經濟數據與財報訊息，請給 5 分附近，不要硬判極端。
 
 【寫作風格 — 嚴格遵守，違反者視為錯誤輸出】
 
@@ -524,6 +541,9 @@ impact 欄位的目的是記錄「快訊中明確報導的市場實際反應或�
         "properties": {
             "summary_title": {"type": "string"},
             "summary": {"type": "string"},
+            "risk_on_score": {"type": "number", "minimum": 0, "maximum": 10},
+            "fundamental_surprise_score": {"type": "number", "minimum": 0, "maximum": 10},
+            "score_commentary": {"type": "string"},
             "events": {
                 "type": "array",
                 "minItems": 5,
@@ -540,7 +560,14 @@ impact 欄位的目的是記錄「快訊中明確報導的市場實際反應或�
                 },
             },
         },
-        "required": ["summary_title", "summary", "events"],
+        "required": [
+            "summary_title",
+            "summary",
+            "risk_on_score",
+            "fundamental_surprise_score",
+            "score_commentary",
+            "events",
+        ],
     }
     payload = {
         "model": OPENAI_SUMMARY_MODEL,
