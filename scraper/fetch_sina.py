@@ -430,7 +430,7 @@ def call_openai_summary(items: list[dict], start: datetime, end: datetime, marke
 
 
 S 級（最優先）：主要經濟體最新數據公佈
-   例：美國 4 月 CPI 創一年新高、非農就業、歐元區 GDP、中國 PMI、PCE、零售銷售。
+   例：美國 4 月 CPI 創一年新高、非農就業、歐元區 GDP、中國 PMI、PCE、零售銷售、JOLTS。
 
 A 級：主要經濟體政策公布
    例：川普宣布對歐洲關稅、澳洲央行升息、Fed 利率決議、財政部新政、人行降準。
