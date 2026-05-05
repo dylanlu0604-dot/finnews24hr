@@ -1,7 +1,35 @@
 {
-  "updated": "2026-05-06 05:15:40",
+  "updated": "2026-05-06 05:19:01",
   "count": 11591,
   "items": [
+    {
+      "id": "4862087",
+      "time": "2026-05-06 05:18:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "明晟公司（MSCI）：5 月指數審議結果定於 2026 年 5 月 12 日釋出。"
+    },
+    {
+      "id": "te:markets:548014",
+      "time": "2026-05-06 05:16:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Rises as Copom Signals Further Easing — The Ibovespa gained 0.6% to close at 186,754, as investors digested Copom minutes and a wave of corporate earnings. The central bank noted that while higher inflation is unlikely to prevent further rate cuts this year, risks to inflation expectations may limit the pace of easing compared to earlier projections. Banks advanced, with Bradesco (+1.5%) and Banco do Brasil (+1.7%) higher, while Ambev surged over 15% after reporting Q1 net income of R$3.89 billion, up 2.1% year-on-year. After the close, Iguatemi (-1.5%), Itaú (-0.3%), and TIM (-0.5%) are set to report results. Elsewhere, UBS BB raised Sabesp’s (+1.4%) target price to R$38 from R$33.80 but downgraded the stock to neutral, while Petrobras fell 1.4% as oil prices declined despite ongoing Middle East tensions."
+    },
+    {
+      "id": "4862086",
+      "time": "2026-05-06 05:15:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗媒體訊息：伊朗中部阿拉克市米坎溼地火情已得到控制，起火原因正在調查中。"
+    },
     {
       "id": "4862085",
       "time": "2026-05-06 05:15:22",
@@ -97564,30 +97592,6 @@
         "市場"
       ],
       "text": "希捷科技股價在季度報告發布後的盤後交易中最新上漲17%。"
-    },
-    {
-      "id": "4848248",
-      "time": "2026-04-29 05:18:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "希捷科技：第四財季業績指引計入了全球關稅政策和當前中東衝突帶來的極微預期影響。"
-    },
-    {
-      "id": "4848247",
-      "time": "2026-04-29 05:18:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國農業部長羅林斯：白宮正就摩洛哥磷酸鹽關稅事宜展開磋商。"
-    },
-    {
-      "id": "4848246",
-      "time": "2026-04-29 05:15:52",
-      "tags": [
-        "市場"
-      ],
-      "text": "希捷公佈季度業績後，西部資料股價在盤後交易中上漲10%。"
     }
   ]
 }
