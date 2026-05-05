@@ -1,7 +1,31 @@
 {
-  "updated": "2026-05-06 04:25:13",
-  "count": 11598,
+  "updated": "2026-05-06 04:28:35",
+  "count": 11599,
   "items": [
+    {
+      "id": "te:markets:548008",
+      "time": "2026-05-06 04:26:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Occidental Petroleum earnings above expectations at 1.06 USD — Occidental Petroleum (OXY) released earnings per share at 1.06 USD, compared to market expectations of 0.32 USD."
+    },
+    {
+      "id": "te:markets:548007",
+      "time": "2026-05-06 04:26:21",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "EOG Resources earnings above expectations at 3.41 USD — EOG Resources (EOG) released earnings per share at 3.41 USD, compared to market expectations of 2.3 USD."
+    },
     {
       "id": "4862053",
       "time": "2026-05-06 04:23:29",
@@ -97604,14 +97628,6 @@
         "市場"
       ],
       "text": "費埃哲公司股價盤後上漲4%，此前該公司上調了營收預期。"
-    },
-    {
-      "id": "4848202",
-      "time": "2026-04-29 04:25:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "通力電梯據悉接近以290 億歐元收購競爭對手蒂森克虜伯電梯。"
     }
   ]
 }
