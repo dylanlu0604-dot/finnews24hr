@@ -1,7 +1,189 @@
 {
-  "updated": "2026-05-05 22:00:17",
-  "count": 11439,
+  "updated": "2026-05-05 22:03:50",
+  "count": 11445,
   "items": [
+    {
+      "id": "4861563",
+      "time": "2026-05-05 22:03:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國ISM服務業支付價格指數持平於70.7；預期為73.5。"
+    },
+    {
+      "id": "te:markets:547930",
+      "time": "2026-05-05 22:03:30",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Edges Up as Oil Eases — The S&P/TSX Composite edged higher to trade above 33,500 on Tuesday, as oil prices declined but remained elevated amid ongoing Middle East tensions. The US and Iran launched fresh attacks in the Gulf on Monday, intensifying their standoff over the Strait of Hormuz. The prospect of softer energy prices eased concerns about broad inflation, supporting banks and the broader index. Royal Bank of Canada and TD Bank edged higher. Gold prices rose, lifting miners, with Barrick (+1.0%) and Wheaton Precious Metals (+1.0%) advancing. Cameco (+2.8%) gained after reporting higher Q1 earnings and EBITDA, driven by stronger uranium and fuel sales. Meanwhile, Shopify sank 10% despite beating Q1 revenue estimates and reporting a rise in gross profit to $1.54 billion from $1.16 billion a year earlier, as net income fell short. Suncor Energy (+0.3%) is set to report earnings after the close."
+    },
+    {
+      "id": "te:economy:547928",
+      "time": "2026-05-05 22:02:38",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Job Offers",
+        "Importance 3"
+      ],
+      "text": "US Job Openings Fall Less than Expected — Job openings in the US fell by 56,000 to 6.866 million in March 2026, above market expectations of 6.84 million. The number of job openings decreased in professional and business services (-318,000) but increased in finance and insurance (+98,000). Meanwhile, hires increased to 5.6 million while total separations changed little at 5.4 million. Within separations, both quits (3.2 million) and layoffs and discharges (1.9 million) were little changed."
+    },
+    {
+      "id": "4861562",
+      "time": "2026-05-05 22:02:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗媒體5日報道，伊朗首都德黑蘭以西的一家購物中心發生火災。報道未提供更多細節。（新華社）"
+    },
+    {
+      "id": "te:markets:547927",
+      "time": "2026-05-05 22:02:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Ireland",
+        "stocks",
+        "Importance 0"
+      ],
+      "text": "Accenture Stock Price Hits 6-year Low — Accenture shares decreased to 173.63 USD, the lowest since April 2020. Over the past 4 weeks, Accenture lost 12.54%, and in the last 12 months, it decreased 42.79%."
+    },
+    {
+      "id": "4861561",
+      "time": "2026-05-05 22:01:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國股指在經濟資料公佈後幾無變動。"
+    },
+    {
+      "id": "4861560",
+      "time": "2026-05-05 22:01:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美防長稱特朗普無需尋求國會批准即可繼續對伊軍事行動】當地時間5月5日，美國國防部長皮特·赫格塞思表示，鑑於本屆政府認定美國與伊朗之間的停火狀態仍在維持，美國總統特朗普無需尋求國會批准即可繼續進行戰爭行動。赫格塞思堅稱，如果特朗普下令恢復軍事打擊行動，屆時自然會就相關事宜展開討論。在談及戰鬥行動繼續進行的可能性時，赫格塞思表示，“這一選項始終是存在的。伊朗對此心知肚明”。赫格塞思稱，總統依然保留著重啟大規模戰鬥行動的契機與能力。如果伊朗不願兌現其應盡的承諾，或者不願達成協議，那麼美國國防部已處於高度戒備、蓄勢待發的狀態，隨時準備投入行動。同時，赫格塞思表示希望事態不必朝著那個方向發展。（央視新聞）"
+    },
+    {
+      "id": "4861559",
+      "time": "2026-05-05 22:01:20",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國國債收益率在ISM非製造業資料公佈後延續跌勢；10年期美國國債收益率當前下跌2.8個基點，報4.418%。"
+    },
+    {
+      "id": "4861558",
+      "time": "2026-05-05 22:01:10",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲鮑曼表示，消費者欺詐對金融體系構成風險。"
+    },
+    {
+      "id": "4861557",
+      "time": "2026-05-05 22:01:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油失守102美元/桶，日內跌4.20%。"
+    },
+    {
+      "id": "4861556",
+      "time": "2026-05-05 22:00:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國3月份離職人數為317.1萬人；預計為302.9萬人。"
+    },
+    {
+      "id": "te:markets:547926",
+      "time": "2026-05-05 22:00:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Rises on Corporate Earnings and Copom Minutes — The Ibovespa edged up to trade near 186,000 on Tuesday, as investors digested Copom minutes and a wave of corporate earnings. The central bank noted that the increase in inflation is unlikely to prevent more rate cuts this year, although threats to the anchor of inflation expectations may reduce the magnitude of cuts compared to those expected earlier. Banks advanced, with Bradesco (+1.0%) and Banco do Brasil (+2.0%) higher. Ambev jumped over 10% after reporting Q1 net income of R$3.89 billion, up 2.1% year-on-year. After the close, C&A (+1.3%), Iguatemi (+1.5%), Itaú (+0.2%), Prio (-2.3%), RD Saúde (+1.4%), and TIM (+1.4%) are set to report results. Elsewhere, UBS BB raised Sabesp’s (-0.9%) target price to R$38 from R$33.80 but downgraded the stock to neutral. Petrobras fell over 1% as oil prices declined despite Middle East tensions."
+    },
+    {
+      "id": "4861555",
+      "time": "2026-05-05 22:00:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國3月份裁員率為1.2%。"
+    },
+    {
+      "id": "4861554",
+      "time": "2026-05-05 22:00:21",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "美國3月新建住宅銷量摺合年率682,000套 預估為652,000套"
+    },
+    {
+      "id": "4861553",
+      "time": "2026-05-05 22:00:17",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "美國4月ISM服務業PMI從54降至53.6；預期值為53.7。"
+    },
+    {
+      "id": "te:economy:547925",
+      "time": "2026-05-05 22:00:13",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Composite PMI",
+        "Importance 1"
+      ],
+      "text": "US Private Sector Activity Grows Less than Initially Thought — The S&P Global US Composite PMI was revised down to 51.7 in April 2026 from a preliminary 52.0, yet still improved from March’s 50.3. Growth was driven by a rebound in services and stronger manufacturing, though new orders and employment saw only modest increases. Business confidence improved from March. Price pressures intensified, with input cost inflation hitting the highest level of 2026 so far, and selling prices rising at the fastest pace in nine months."
+    },
+    {
+      "id": "4861552",
+      "time": "2026-05-05 22:00:12",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國3月份職位空缺686.6萬個；預計為685萬個。"
+    },
+    {
+      "id": "te:markets:547924",
+      "time": "2026-05-05 22:00:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Opens 0.46% Higher — The Dow Jones Index is up by 223 points or 0.46 percent on Tuesday. Top gainers are Caterpillar (3.03%), Cisco Systems (1.72%) and Amazon (1.49%). Biggest losses came from Visa (-1.57%), IBM (-0.93%) and Microsoft (-0.72%)."
+    },
+    {
+      "id": "4861551",
+      "time": "2026-05-05 22:00:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國供應管理學會4月份非製造業指數降至53.6；預期53.7。"
+    },
     {
       "id": "4861550",
       "time": "2026-05-05 21:59:25",
@@ -95957,112 +96139,6 @@
         "公司"
       ],
       "text": "殼牌執行長：“我們正審視價值鏈中自身並非天然所有者的環節（比如中游業務），進行撤資。”"
-    },
-    {
-      "id": "4847811",
-      "time": "2026-04-28 22:03:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "Massive Bio藉助OpenAI實現的人工智慧引數化與預篩查，擴大了全球患者參與臨床試驗的可及範圍。"
-    },
-    {
-      "id": "4847810",
-      "time": "2026-04-28 22:03:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟委員會執行副主席裡貝拉：《數字市場法案》不會構成貿易壁壘。"
-    },
-    {
-      "id": "4847809",
-      "time": "2026-04-28 22:03:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "【西隴科學：一季度淨利潤1198.05萬元，同比增長38.68%】西隴科學公告，2026年第一季度營收為18.23億元，同比增長5.73%；淨利潤為1198.05萬元，同比增長38.68%。"
-    },
-    {
-      "id": "4847808",
-      "time": "2026-04-28 22:02:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國軒高科：2025年淨利潤23.83億元，同比增長97.49%】國軒高科公告，2025年營業收入450.7億元，同比增長27.35%。淨利潤23.83億元，同比增長97.49%。公司董事會審議透過的利潤分配預案為：向全體股東每10股派發現金紅利1元（含稅），不送紅股，不以公積金轉增股本。"
-    },
-    {
-      "id": "4847807",
-      "time": "2026-04-28 22:02:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "【統聯精密：第一季度淨虧損1991.59萬元】統聯精密公告，2026年第一季度營業收入1.64億元，同比下降5.89%。歸屬於上市公司股東的淨利潤-1991.59萬元，同比下降826.13%。報告期內，公司財務費用同比增長1395.2萬元，其中匯兌損失同比增加約1151.7萬元，主要系受美元兌人民幣匯率波動影響所致。人員薪酬、場地租賃費以及研發投入增加，導致公司管理費用與研發費用同比合計增加約892.33萬元。"
-    },
-    {
-      "id": "4847806",
-      "time": "2026-04-28 22:02:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "Manifest OS完成6000萬美元融資，將用於拓展全球首個原生人工智慧律所模式。"
-    },
-    {
-      "id": "4847805",
-      "time": "2026-04-28 22:02:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "【天智航：2026年第一季度淨虧損4645萬元】天智航公告，2026年第一季度營業收入5272.18萬元，同比下降10.01%。歸屬於上市公司股東的淨虧損4645萬元，上年同期淨虧損1320.49萬元。"
-    },
-    {
-      "id": "4847804",
-      "time": "2026-04-28 22:02:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：伊朗軍方發言人表示，霍爾木茲海峽西側由伊朗革命衛隊完全控制，東側則由伊朗軍隊協調控制。"
-    },
-    {
-      "id": "4847803",
-      "time": "2026-04-28 22:01:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：俄羅斯停止哈薩克原油輸歐後，德國計劃在波蘭尋找煉油產能。"
-    },
-    {
-      "id": "4847802",
-      "time": "2026-04-28 22:01:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "【賽諾醫療：第一季度淨利潤2446.28萬元，同比增長723.85%】賽諾醫療公告，2026年第一季度營業收入1.4億元，同比增長38.56%。淨利潤2446.28萬元，同比增長723.85%。報告期內，冠脈業務產品銷量同比實現顯著增長，神經業務於上年四季度進入規模銷售階段的新品塗層密網支架收入繼續確認。"
-    },
-    {
-      "id": "4847801",
-      "time": "2026-04-28 22:01:22",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美國4月里奇蒙德聯儲製造業指數 3，前值0。"
-    },
-    {
-      "id": "4847800",
-      "time": "2026-04-28 22:00:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "阿布扎比國家石油公司執行長：該公司仍將聚焦自身定位，做負責任、可靠的能源供應商，滿足全球日益增長的能源需求。"
-    },
-    {
-      "id": "4847799",
-      "time": "2026-04-28 22:00:23",
-      "tags": [
-        "資料",
-        "國際"
-      ],
-      "text": "美國4月份消費者信心指數為92.8；預期值為89.0。"
     }
   ]
 }
