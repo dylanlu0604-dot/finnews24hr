@@ -42,6 +42,17 @@ AI_SUMMARY_PATH = os.path.join(DOCS_DIR, "ai_summaries.json")
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "").strip()
 OPENAI_SUMMARY_MODEL = os.getenv("OPENAI_SUMMARY_MODEL", "gpt-5.4-nano").strip()
 
+AI_MARKET_CONTEXT_SYMBOLS = [
+    {"symbol": "ES=F", "name": "S&P 500 期貨", "kind": "price"},
+    {"symbol": "NQ=F", "name": "Nasdaq 期貨", "kind": "price"},
+    {"symbol": "GC=F", "name": "黃金", "kind": "price"},
+    {"symbol": "CL=F", "name": "WTI 原油", "kind": "price"},
+    {"symbol": "BZ=F", "name": "Brent 原油", "kind": "price"},
+    {"symbol": "DX-Y.NYB", "name": "DXY 美元指數", "kind": "price"},
+    {"symbol": "^VIX", "name": "VIX", "kind": "price"},
+    {"symbol": "^TNX", "name": "美國 10 年期殖利率", "kind": "yield"},
+]
+
 # ── 市場 symbol 設定 ──
 MARKET_SYMBOLS = {
     "equity": {
@@ -321,6 +332,72 @@ def compact_news_input(items: list[dict]) -> str:
     return "\n".join(lines)
 
 
+def pct_change(current: float, previous: float | None) -> float | None:
+    if previous in (None, 0):
+        return None
+    return (current / previous - 1) * 100
+
+
+def format_pct(value: float | None) -> str:
+    if value is None:
+        return "n/a"
+    return f"{value:+.2f}%"
+
+
+def format_market_price(value: float, kind: str) -> str:
+    if kind == "yield":
+        return f"{value:.2f}%"
+    if abs(value) >= 100:
+        return f"{value:,.2f}"
+    return f"{value:.4f}"
+
+
+def fetch_ai_market_context() -> str:
+    """抓 AI 摘要專用市場背景，避免標題只被新聞風險詞帶偏。"""
+    if not HAS_YF:
+        return ""
+
+    lines = []
+    for item in AI_MARKET_CONTEXT_SYMBOLS:
+        symbol = item["symbol"]
+        name = item["name"]
+        kind = item["kind"]
+        try:
+            hist = yf.Ticker(symbol).history(period="6mo", interval="1d", auto_adjust=True)
+            if hist.empty or "Close" not in hist:
+                continue
+
+            closes = hist["Close"].dropna()
+            if closes.empty:
+                continue
+
+            current = float(closes.iloc[-1])
+            prev_1m = float(closes.iloc[-22]) if len(closes) >= 22 else None
+            prev_3m = float(closes.iloc[-64]) if len(closes) >= 64 else None
+            high_3m = float(closes.tail(min(len(closes), 64)).max())
+
+            one_month = pct_change(current, prev_1m)
+            three_month = pct_change(current, prev_3m)
+            high_gap = pct_change(current, high_3m)
+            high_note = "，接近 3 個月高點" if high_gap is not None and high_gap >= -1 else ""
+
+            if kind == "yield":
+                one_month_text = f"{(current - prev_1m) * 100:+.0f}bp" if prev_1m is not None else "n/a"
+                three_month_text = f"{(current - prev_3m) * 100:+.0f}bp" if prev_3m is not None else "n/a"
+            else:
+                one_month_text = format_pct(one_month)
+                three_month_text = format_pct(three_month)
+
+            lines.append(
+                f"- {name}：最新 {format_market_price(current, kind)}，"
+                f"近 1 個月 {one_month_text}，近 3 個月 {three_month_text}{high_note}"
+            )
+        except Exception as e:
+            print(f"[YF AI CONTEXT ERROR] {symbol}: {e}")
+
+    return "\n".join(lines)
+
+
 def extract_response_text(response: dict) -> str:
     if response.get("output_text"):
         return response["output_text"]
@@ -332,10 +409,20 @@ def extract_response_text(response: dict) -> str:
     return "".join(parts)
 
 
-def call_openai_summary(items: list[dict], start: datetime, end: datetime) -> dict:
+def call_openai_summary(items: list[dict], start: datetime, end: datetime, market_context: str = "") -> dict:
     prompt = f"""
 你是財經新聞編輯。請根據以下 {len(items)} 則近 3 小時快訊，產生繁體中文（台灣）AI 摘要分析。
 時間區間：{start.strftime('%Y-%m-%d %H:%M')} 至 {end.strftime('%Y-%m-%d %H:%M')}（台灣時間）
+
+【市場價格背景（生成標題與摘要前必須先校準）】
+以下為主要資產截至摘要生成時的最新價格與中期表現。請把它當成判斷市場實際風險偏好的基準，而不是只根據新聞語氣下標。
+{market_context or "- 本次未取得市場價格背景，請只根據快訊中明確價格資料判斷。"}
+
+規則：
+- 若 S&P 500 / Nasdaq 維持高檔或近 1~3 個月上漲，summary_title 不得只寫「風險升溫」「地緣緊張」「避險升溫」等單邊負面標題。
+- 標題必須同時反映「風險資產價格狀態」與「新聞風險事件」。例如：股市高檔震盪、風險資產守高、油金波動牽動盤面。
+- 若新聞風險很多，但股市、信用或其他風險資產仍強，請寫成「市場消化風險」或「高檔震盪」，不要寫成全面 risk-off。
+- C 級市場行情事件需優先整合上述 S&P 500、黃金、WTI/Brent、DXY、VIX、美債殖利率的價格與 1 個月/3 個月表現。
 
 【篩選與排序原則（內部使用，請勿輸出等級標示）】
 請依下列重要程度由高到低，從快訊中挑出最具市場參考價值的事件（5~10 則），順序由最重要排到次重要：
@@ -491,6 +578,9 @@ impact 欄位的目的是記錄「快訊中明確報導的市場實際反應或�
 def update_ai_summaries(conn) -> None:
     now = datetime.now(TW)
     data = load_ai_summaries()
+    market_context = fetch_ai_market_context() if OPENAI_API_KEY else ""
+    if market_context:
+        print("[AI] 已取得摘要用市場價格背景")
 
     # ── Backfill 模式 ──
     # 設定 BACKFILL_FROM=YYYY-MM-DD 環境變數即可回溯該日期之後的所有時段
@@ -529,7 +619,7 @@ def update_ai_summaries(conn) -> None:
                 print(f"[SKIP] AI 摘要 {slot_id}：未設定 OPENAI_API_KEY")
             else:
                 try:
-                    result = call_openai_summary(items, slot_start, slot_end)
+                    result = call_openai_summary(items, slot_start, slot_end, market_context)
                     data.setdefault("items", []).insert(0, {
                         "id": slot_id,
                         "slot_start": slot_start.strftime("%Y-%m-%d %H:%M:%S"),
