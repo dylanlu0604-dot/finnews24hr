@@ -1,7 +1,37 @@
 {
-  "updated": "2026-05-06 07:02:04",
-  "count": 11568,
+  "updated": "2026-05-06 07:05:31",
+  "count": 11569,
   "items": [
+    {
+      "id": "te:markets:548021",
+      "time": "2026-05-06 07:03:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Nears 4-Week High After Jobs Data — The NZX 50 climbed 86 points, or 0.7%, to 13,126 in Wednesday morning trade, halting losses from the previous session after the unemployment rate unexpectedly declined in Q1 2026. The latest data showed New Zealand's unemployment rate inched down to 5.3% in Q1, lower than both the previous quarter and market expectations of 5.4%, which had been the highest level since Q2 2015. The broader index hit its highest level since April 10, mainly buoyed by financials and consumer staples. Meanwhile, a statement from RBNZ Governor Anna Breman in the Financial Stability Report, noting that the country's financial system is resilient and well-positioned to support households and businesses, also lifted sentiment. The index tracked Wall Street, which closed in the green overnight, supported by solid earnings reports and lower energy prices. Among the top performers were Infratil (9.0%), A2 Milk (1.4%), Mercury NZ (0.6%), Gentrack Group (0.5%), and ANZ Group (0.4%)."
+    },
+    {
+      "id": "4862140",
+      "time": "2026-05-06 07:03:27",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "特朗普宣佈暫停“自由計劃”後，標普500指數期貨上漲0.4%。"
+    },
+    {
+      "id": "4862139",
+      "time": "2026-05-06 07:02:46",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "韓國4月CPI創2024年7月以來最大同比升幅。"
+    },
     {
       "id": "4862138",
       "time": "2026-05-06 07:01:21",
@@ -97382,26 +97412,6 @@
         "焦點"
       ],
       "text": "今天《人民日報》頭版的主要內容有：\n1、中共中央政治局召開會議 分析研究當前經濟形勢和經濟工作 中共中央總書記習近平主持會議\n2、增強信心，保持經濟韌性和活力（今日談）\n3、《習近平談治國理政》第五卷英文版中印尼推介會在雅加達舉行\n4、各地區各部門各單位紮實開展學習教育——學以致用求實效 動真碰硬解難題（樹立和踐行正確政績觀）\n5、一季度全國城鎮新增就業299萬人 就業形勢保持總體穩定\n6、林下經濟邁入系統推進新階段（“十五五”開好局起好步）\n7、平陸運河27座跨運河橋樑全部建成。"
-    },
-    {
-      "id": "4848326",
-      "time": "2026-04-29 07:05:02",
-      "tags": [
-        "資料",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【機構：澳大利亞通脹前景相當嚴峻】西太平洋銀行高階經濟學家Justin Smirk表示，鑑於伊朗衝突已引發自上世紀70/80年代石油危機以來最大的能源衝擊，他預計澳大利亞2026年第一季度的整體CPI將環比上漲1.5%，同比上漲4.2%，然後在2026年第二季度見頂，屆時同比漲幅將略低於6.0%。核心通脹將在2026年第一季度同比上漲3.5%，然後在2026年下半年見頂，屆時漲幅將更接近4.0%。西太平洋銀行的這些預測可能意味著澳大利亞央行需要進一步收緊政策，而該央行將對再次未能將通脹率維持在2.5%的目標附近深感不安。"
-    },
-    {
-      "id": "4848325",
-      "time": "2026-04-29 07:04:04",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【英國國家經濟與社會研究所下調英國經濟增長預期：伊朗戰爭與通脹衝擊經濟】在英國央行敲定利率決議的前一日，英國知名智庫釋出預測稱，受伊朗戰爭影響，英國今明兩年經濟將大幅放緩，且通脹率在 2028 年前將持續高於央行目標水平。英國國家經濟與社會研究所週三表示，受中東衝突引發油氣價格暴漲影響，英國物價漲幅將從當前的 3.3% 升至 2027 年初的 4.1%。該機構預測，過去四年多數時間裡在發達經濟體中居高不下的英國通脹率，直至 2028 年才能回落至英國央行設定的 2% 目標值。英國今年經濟增速預計僅為 0.9%，2027 年為 1%，大幅低於該智庫 2 月作出的預期 —— 此前預估今明兩年增速分別為 1.4% 與 1.3%。研究所負責人戴維・艾克曼指出：“中東衝突充分暴露了英國經濟仍高度脆弱，極易遭受全球能源波動衝擊。” 該智庫給出的 2026 年英國經濟增長預期，略高於國際貨幣基金組織的最新預測。"
     }
   ]
 }
