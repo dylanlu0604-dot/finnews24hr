@@ -1,7 +1,38 @@
 {
-  "updated": "2026-05-06 05:08:59",
-  "count": 11586,
+  "updated": "2026-05-06 05:12:20",
+  "count": 11588,
   "items": [
+    {
+      "id": "4862078",
+      "time": "2026-05-06 05:10:12",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "AMD：面向Meta的晶片出貨按計劃將於今年下半年啟動。"
+    },
+    {
+      "id": "4862077",
+      "time": "2026-05-06 05:09:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "AMD高管：預計第二季度伺服器CPU收入將同比增長超過70%。"
+    },
+    {
+      "id": "te:markets:548013",
+      "time": "2026-05-06 05:09:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Slips on Middle East Tensions and Shopify Drop — The S&P/TSX Composite Index fell 0.2% to close at 33,567 on Tuesday, amid ongoing Middle East tensions and a wave of corporate earnings. The US and Iran launched fresh attacks in the Gulf, intensifying their standoff over the Strait of Hormuz. Meanwhile, Shopify plunged 10% despite beating Q1 revenue estimates and reporting higher gross profit, as net income disappointed, while Cameco dropped 3.1%, trimming earlier gains after strong results. In contrast, banks advanced as oil prices eased despite geopolitical risks, with softer energy costs helping to temper inflation concerns, as Royal Bank of Canada rose 0.3% and BMO gained 0.7%. Gold prices increased, supporting miners, with Barrick (+1.1%) and Wheaton Precious Metals (+1.0%) higher. Suncor Energy (+1.9%) is set to report earnings after the close."
+    },
     {
       "id": "4862076",
       "time": "2026-05-06 05:08:44",
@@ -97531,14 +97562,6 @@
         "其他"
       ],
       "text": "希捷科技公佈第四財季經調整後攤薄每股收益預期為5美元。"
-    },
-    {
-      "id": "4848241",
-      "time": "2026-04-29 05:10:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "Booking Holding： 預計中東局勢對二季度業務的衝擊將高於一季度。"
     }
   ]
 }
