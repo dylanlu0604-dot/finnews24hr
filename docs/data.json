@@ -1,7 +1,71 @@
 {
-  "updated": "2026-05-05 22:14:23",
-  "count": 11452,
+  "updated": "2026-05-05 22:17:52",
+  "count": 11453,
   "items": [
+    {
+      "id": "te:markets:547941",
+      "time": "2026-05-05 22:17:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Slides Over 4% as US Reaffirms Ceasefire — WTI crude futures fell more than 4% to below $102 per barrel on Tuesday, reversing gains from the previous session, after U.S. Defense Secretary Pete Hegseth said the ceasefire with Iran remains in place despite this week’s attacks on the UAE. He added that the Strait of Hormuz remains open, noting that two US commercial vessels transited safely with US military support, which repelled attacks from Iranian drones, missiles, and armed small boats. The developments come amid a stalemate between the US and Iran, with little progress toward renewed talks, as Tehran insists any negotiations require Washington to lift its naval blockade on Iranian ports."
+    },
+    {
+      "id": "4861592",
+      "time": "2026-05-05 22:17:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國3月份職位空缺略有下降 招聘活動有所回升】美國3月職位空缺變化不大，但招聘有所回升。美國勞工統計局週二公佈的資料顯示，職位空缺從2月修正後的692萬個小幅降至687萬個。彭博調查得出的經濟學家預期中值為685萬個。"
+    },
+    {
+      "id": "4861591",
+      "time": "2026-05-05 22:16:47",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "阿聯酋國防部表示，該國防空部隊正在應對來自伊朗的導彈與無人機襲擊。"
+    },
+    {
+      "id": "4861590",
+      "time": "2026-05-05 22:16:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "受阿聯酋報告影響，標普500指數和納斯達克100指數漲幅迅速收窄。"
+    },
+    {
+      "id": "te:economy:547938",
+      "time": "2026-05-05 22:15:28",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Economic Optimism Index",
+        "Importance 1"
+      ],
+      "text": "US Economic Sentiment Weakens Further — The RealClearMarkets/TIPP Economic Optimism Index eased further to 42.6 in May 2026, the lowest level since June 2024, down from 42.8 in April , though above the expected 42. The index has now remained below the neutral 50 mark for nine consecutive months, indicating sustained pessimism. The Six-Month Economic Outlook, which measures consumers’ views on the economy’s prospects over the next six months, fell 1.8% from 38.5 in April to 37.8 in May, its lowest level since June 2024. The Personal Financial Outlook, which tracks Americans’ expectations for their own finances over the next six months, was broadly unchanged, edging up 0.2% from 50.2 to 50.3, remaining just above neutral. Confidence in Federal Economic Policies, which gauges views on the effectiveness of government economic policy, was unchanged at 39.8 from April."
+    },
+    {
+      "id": "4861588",
+      "time": "2026-05-05 22:14:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "KKR首席財務官羅伯特·勒溫在電話會議上表示，已有多家機構對其直接貸款業務表達了可觀的投資意向。"
+    },
+    {
+      "id": "4861587",
+      "time": "2026-05-05 22:14:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿聯酋表示：防空系統正應對來襲導彈威脅。"
+    },
     {
       "id": "4861586",
       "time": "2026-05-05 22:14:15",
@@ -96167,54 +96231,6 @@
         "國際"
       ],
       "text": "【美伊談判陷入僵局 溝通渠道仍在】4月28日，本輪美以伊衝突迎來兩個月的節點，儘管各方達成了臨時停火協議，但仍然沒有就真正結束戰爭達成共識。伊朗提議分階段重啟談判，美方被曝對此不滿。自首輪伊美談判結束後，雙方的訴求和行動始終存在錯位。當伊朗短暫宣佈開放霍爾木茲海峽後，美方並未解除對伊朗的海上封鎖。在核問題上，伊美始終未能就高丰度濃縮鈾留存問題以及是否保留核能力達成一致。過去十天以來，巴基斯坦曾數次努力斡旋，希望伊美能夠重返談判桌，但現實卻是，雙方非但遲遲無法舉行第二輪談判，反而在表態中向對方施加了更大壓力。分析指出，關鍵分歧無法達成共識，根深蒂固的互不信任，是阻礙當前談判程序的最主要原因。（央視新聞）"
-    },
-    {
-      "id": "4847839",
-      "time": "2026-04-28 22:17:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "輝瑞就 Vyndamax 藥物達成三項和解協議。和解協議將VYNDAMAX在美國的專利實際到期日延長至2031年6月1日。"
-    },
-    {
-      "id": "4847838",
-      "time": "2026-04-28 22:15:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "阿根廷政府表示已致函歐盟委員會，要求對方提供技術層面澄清。"
-    },
-    {
-      "id": "4847837",
-      "time": "2026-04-28 22:15:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "CMS能源：每新增1吉瓦的大型負荷將帶來20億至50億美元的投資機會。"
-    },
-    {
-      "id": "4847836",
-      "time": "2026-04-28 22:15:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿根廷政府表示，在豆粕貨運因轉基因違規問題被拒後，已對荷蘭的檢測方法提出嚴重關切。"
-    },
-    {
-      "id": "4847835",
-      "time": "2026-04-28 22:15:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【阿聯酋退出歐佩克被視為打破集體思維、加強國家控制之舉】Zaye Capital Markets的Naeem Aslam表示，阿聯酋正在調整自身定位，以便更好地將其閒置產能貨幣化，並直接對市場訊號做出反應，而不是等待歐佩克的生產決策。Aslam說：“他們利用了這場危機，擺脫了委員會的束縛，並按照自己的時間表向市場大量供應閒置產能。“更廣泛地說，這一決定反映了一種向長期經濟多元化轉型的戰略，即額外的石油收入可以被投入主權財富基金、技術投資和能源轉型專案。他說：“透過在混亂最嚴重的時候退出，阿聯酋發出了新規則的訊號——能源主權高於集體思維的忠誠。”"
-    },
-    {
-      "id": "4847834",
-      "time": "2026-04-28 22:14:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "【威騰電氣：2026年第一季度淨利潤697.28萬元，同比下降47.55%】威騰電氣公告，2026年第一季度營業收入10.8億元，同比增長23.66%。淨利潤697.28萬元，同比下降47.55%。"
     }
   ]
 }
