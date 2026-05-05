@@ -1,7 +1,35 @@
 {
-  "updated": "2026-05-06 04:28:35",
-  "count": 11599,
+  "updated": "2026-05-06 04:31:58",
+  "count": 11600,
   "items": [
+    {
+      "id": "te:markets:548009",
+      "time": "2026-05-06 04:31:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Prudential Financial earnings above expectations at 3.61 USD — Prudential Financial (PRU) released earnings per share at 3.61 USD, compared to market expectations of 3.34 USD."
+    },
+    {
+      "id": "4862055",
+      "time": "2026-05-06 04:30:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "AMD股價盤後漲幅擴大至7%。"
+    },
+    {
+      "id": "4862054",
+      "time": "2026-05-06 04:30:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "拉美航空：假設航空燃油價格為每桶 170 美元，預計 2026 年第二季度新增燃油成本超 7 億美元。"
+    },
     {
       "id": "te:markets:548008",
       "time": "2026-05-06 04:26:22",
@@ -97611,23 +97639,6 @@
         "公司"
       ],
       "text": "Visa公司批准了一項新的價值200億美元的股票回購計劃。"
-    },
-    {
-      "id": "4848204",
-      "time": "2026-04-29 04:29:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本計劃實現全球首次太空太陽能向地面輸電。"
-    },
-    {
-      "id": "4848203",
-      "time": "2026-04-29 04:29:04",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "費埃哲公司股價盤後上漲4%，此前該公司上調了營收預期。"
     }
   ]
 }
