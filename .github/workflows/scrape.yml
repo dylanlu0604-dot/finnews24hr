@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
     inputs:
       ai_score_backfill_days:
-        description: "一次性回補 AI score 的天數；排程執行請留空"
+        description: "一次性回補 AI 摘要＋分數的天數；排程執行請留空"
         required: false
         default: ""
 
@@ -20,7 +20,7 @@ permissions:
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    timeout-minutes: 62
+    timeout-minutes: 360
 
     steps:
       - name: Checkout repo
@@ -35,7 +35,7 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Run scraper every 3min (x20)
+      - name: Run scraper
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_SUMMARY_MODEL: ${{ vars.OPENAI_SUMMARY_MODEL || 'gpt-4.1-mini' }}
@@ -50,7 +50,14 @@ jobs:
           git -C /tmp/page-repo config user.name  "github-actions[bot]"
           git -C /tmp/page-repo config user.email "github-actions[bot]@users.noreply.github.com"
 
-          for i in $(seq 1 20); do
+          if [ -n "$AI_SCORE_BACKFILL_DAYS" ]; then
+            rounds=1
+            echo "[BACKFILL] one-shot AI summary + score backfill for ${AI_SCORE_BACKFILL_DAYS} days"
+          else
+            rounds=20
+          fi
+
+          for i in $(seq 1 "$rounds"); do
             echo "=== Round $i ==="
             python scraper/fetch_sina.py || echo "[WARN] scraper failed"
 
@@ -70,5 +77,5 @@ jobs:
               fi
             fi
 
-            [ $i -lt 20 ] && sleep 180 || true
+            [ $i -lt "$rounds" ] && sleep 180 || true
           done
