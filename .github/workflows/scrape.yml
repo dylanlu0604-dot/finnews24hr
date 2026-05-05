@@ -34,9 +34,15 @@ jobs:
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_SUMMARY_MODEL: ${{ vars.OPENAI_SUMMARY_MODEL || 'gpt-4.1-mini' }}
+          GH_PAT: ${{ secrets.GH_PAT }}
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Clone 公開 page repo
+          git clone "https://x-access-token:${GH_PAT}@github.com/dylanlu0604-dot/finnews24hr-page.git" /tmp/page-repo
+          git -C /tmp/page-repo config user.name  "github-actions[bot]"
+          git -C /tmp/page-repo config user.email "github-actions[bot]@users.noreply.github.com"
 
           for i in $(seq 1 20); do
             echo "=== Round $i ==="
@@ -48,6 +54,14 @@ jobs:
             else
               git commit -m "data: round $i [$(date -u '+%H:%M:%S UTC')]"
               git push
+
+              # 同步 docs/ 到公開 repo
+              cp docs/index.html docs/data.json docs/ai_summaries.json docs/market.json /tmp/page-repo/
+              git -C /tmp/page-repo add .
+              if ! git -C /tmp/page-repo diff --cached --quiet; then
+                git -C /tmp/page-repo commit -m "page: round $i [$(date -u '+%H:%M:%S UTC')]"
+                git -C /tmp/page-repo push
+              fi
             fi
 
             [ $i -lt 20 ] && sleep 180 || true
