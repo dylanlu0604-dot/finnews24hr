@@ -539,8 +539,10 @@ function initLanguageSelect() {
     <!-- AI 摘要面板 -->
     <div class="center-view active" id="view-ai">
       <div class="ai-pills-bar">
-        <span class="ai-pills-label">最近 10 slots</span>
+        <span class="ai-pills-label">摘要日期</span>
         <div class="ai-period-controls">
+          <select id="aiMonthSelect" class="ai-period-select" aria-label="選擇摘要月份"></select>
+          <select id="aiDateSelect" class="ai-period-select" aria-label="選擇摘要日期"></select>
           <span id="aiPeriodCount" class="ai-period-count"></span>
         </div>
       </div>
@@ -991,7 +993,15 @@ document.querySelectorAll('.m-tab').forEach(tab => {
 /* ════════════════════════════════
    AI 摘要
 ════════════════════════════════ */
-let aiSummaries = [], activeAiId = '';
+let aiSummaries = [], activeAiId = '', activeAiMonth = '', activeAiDate = '';
+
+function aiDateKey(item) {
+  return (item.slot_start || item.slot_end || '').slice(0, 10);
+}
+
+function aiMonthKey(item) {
+  return aiDateKey(item).slice(0, 7);
+}
 
 function formatAiSlot(item) {
   const end = item.slot_end || '';
@@ -1014,6 +1024,10 @@ function formatRecentAiSlot(item) {
   const start = item.slot_start || '';
   if (!start) return formatAiSlot(item);
   return `${start.slice(5, 10).replace('-', '.')} ${formatAiSlotRange(item)}`;
+}
+
+function formatAiDateOption(dateKey) {
+  return dateKey ? dateKey.replaceAll('-', '.') : '—';
 }
 
 function scoreNum(value) {
@@ -1183,19 +1197,37 @@ function renderAiSummaryDetail(item) {
 
 function renderAiSummaries() {
   const list = document.getElementById('aiSummaryList');
+  const monthSelect = document.getElementById('aiMonthSelect');
+  const dateSelect = document.getElementById('aiDateSelect');
   const periodCount = document.getElementById('aiPeriodCount');
   const updated = document.getElementById('aiUpdated');
-  if (!list || !periodCount || !updated) return;
+  if (!list || !monthSelect || !dateSelect || !periodCount || !updated) return;
   updated.textContent = aiSummaries.length ? `更新 ${aiSummaries[0].generated_at || '—'}` : '尚無摘要';
   if (!aiSummaries.length) {
     list.innerHTML = '';
+    monthSelect.innerHTML = '';
+    dateSelect.innerHTML = '';
     periodCount.textContent = '';
     renderAiSummaryDetail(null);
     renderAiScores();
     return;
   }
-  const visibleSummaries = aiSummaries.slice(0, 10);
-  periodCount.textContent = `${visibleSummaries.length} slots`;
+  const months = [...new Set(aiSummaries.map(aiMonthKey).filter(Boolean))].sort().reverse();
+  if (!activeAiMonth || !months.includes(activeAiMonth)) {
+    activeAiMonth = months[0] || '';
+  }
+  monthSelect.innerHTML = months.map(month => `<option value="${attrEscape(month)}" ${month === activeAiMonth ? 'selected' : ''}>${attrEscape(month)}</option>`).join('');
+
+  const monthSummaries = aiSummaries.filter(item => aiMonthKey(item) === activeAiMonth);
+  const dates = [...new Set(monthSummaries.map(aiDateKey).filter(Boolean))].sort().reverse();
+  if (!activeAiDate || !dates.includes(activeAiDate)) {
+    activeAiDate = dates[0] || '';
+  }
+  dateSelect.innerHTML = dates.map(date => `<option value="${attrEscape(date)}" ${date === activeAiDate ? 'selected' : ''}>${attrEscape(formatAiDateOption(date))}</option>`).join('');
+
+  const daySummaries = monthSummaries.filter(item => aiDateKey(item) === activeAiDate);
+  const visibleSummaries = daySummaries.slice(0, 10);
+  periodCount.textContent = `${visibleSummaries.length}/${daySummaries.length} slots`;
 
   if (!activeAiId || !aiSummaries.some(item => item.id === activeAiId)) {
     activeAiId = (visibleSummaries[0] || aiSummaries[0]).id;
@@ -1230,6 +1262,19 @@ document.getElementById('aiSummaryList').addEventListener('click', e => {
   const item = e.target.closest('.ai-pill');
   if (!item) return;
   activeAiId = item.dataset.aiId;
+  renderAiSummaries();
+});
+
+document.getElementById('aiMonthSelect').addEventListener('change', e => {
+  activeAiMonth = e.target.value;
+  activeAiDate = '';
+  activeAiId = '';
+  renderAiSummaries();
+});
+
+document.getElementById('aiDateSelect').addEventListener('change', e => {
+  activeAiDate = e.target.value;
+  activeAiId = '';
   renderAiSummaries();
 });
 
