@@ -1,7 +1,36 @@
 {
-  "updated": "2026-05-06 07:19:17",
+  "updated": "2026-05-06 07:22:44",
   "count": 11575,
   "items": [
+    {
+      "id": "4862161",
+      "time": "2026-05-06 07:22:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀突破74美元/盎司，日內漲1.68%。"
+    },
+    {
+      "id": "te:economy:548029",
+      "time": "2026-05-06 07:21:21",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Industry Index",
+        "Importance 1"
+      ],
+      "text": "Australian Industry Conditions Improve — Australia’s Industry Index rose by 9.8 points to -24.4 in April 2026, signaling some stabilisation but still pointing to a deep contraction in industrial conditions. Key components improved modestly: activity and sales, as well as employment, each gained 4.5 points to -31.2 and -25.2, respectively, while new orders climbed 7.7 points to -24.8. Input volumes also picked up, rising 6.6 points to -5.5, suggesting a tentative recovery in demand. Yet cost pressures surged: the prices index jumped 13.5 points to 69.3 as fuel levies filtered through supply chains, pushing selling prices up 10.1 points to 23.1 and wages 2.1 points higher to 36.2. Capacity utilisation rebounded to 77.7% after earlier declines. Despite these gains, firms remain constrained by skilled labour shortages, elevated energy costs, lingering supply disruptions, and intensifying competition from online and overseas suppliers, underscoring structural headwinds even as headline conditions show modest improvement."
+    },
+    {
+      "id": "4862159",
+      "time": "2026-05-06 07:19:30",
+      "tags": [
+        "觀點"
+      ],
+      "text": "惠譽將高盛展望調整為正面；確認其長期發行人違約評級（IDR）維持“A”級。"
+    },
     {
       "id": "4862157",
       "time": "2026-05-06 07:17:27",
@@ -97446,31 +97475,6 @@
         "公司"
       ],
       "text": "【臺積電旗下子公司出售安謀控股股票 交易金額2.31億美元】據交易所公告披露，臺積電表示，旗下子公司臺積電合作伙伴有限公司已出售111萬股安謀控股（ARM）股票，交易總額2.31億美元。本次股票出售交易時段為4月28日至29日。"
-    },
-    {
-      "id": "4848343",
-      "time": "2026-04-29 07:22:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "【英偉達推出Nemotron 3 Nano Omni模型】當地時間4月28日，英偉達在公司部落格宣佈，推出名為Nemotron 3 Nano Omni的開源全模態推理模型，旨在為企業級AI Agent提供一體化基礎模型底座。英偉達介紹，這款模型融合了視覺、音訊與語言能力，將幫助AI智慧體實現高達9倍的效率提升。"
-    },
-    {
-      "id": "4848341",
-      "time": "2026-04-29 07:21:01",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【Visa：美國退稅提振了支出】Visa表示，其第二財季在美國的信用卡和簽帳金融卡支出普遍改善，該公司將此部分歸因於退稅額的增加。首席財務官Chris Suh在與分析師的電話會議上表示，該財季Visa在美國的支付額增長了8%，其中簽帳金融卡支付額增長7%，信用卡支付額增長10%，這兩項指標的增速均較第一財季加快。Suh說：“可自由支配和非自由支配支出依然強勁。我們並未從交易額中看到低支出消費者消費力減弱的跡象。”"
-    },
-    {
-      "id": "4848340",
-      "time": "2026-04-29 07:20:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "【一季度北京地區外貿起勢有力】昨天，北京海關釋出一季度北京地區外貿資料。據統計，一季度北京地區（含中央在京單位，下同）貨物貿易進出口總值7660.3億元，同比增長6.4%，起勢有力、開局良好。資料顯示，一季度，北京地區高新技術產品進出口值1342.9億元、增長11.0%，佔地區進出口總值的17.5%，較去年同期提高0.7個百分點，拉動地區進出口值增速1.8個百分點，拉動作用最強。其中，北京地區高新技術產品出口517.2億元、增長27.0% ，進口825.7億元、增長2.9%。具體看，半導體制造產業蓬勃發展，半導體制造裝置進口139.5億元、增長193.1%，積體電路出口120.6億元、增長129.4%；醫藥健康產業穩中向好，醫藥材及藥品進出口值294.7億元、增長5.4%，醫療儀器及器械進出口值65.5億元、增長15.6%。同期，航空器零部件進出口值48.6億元、增長10.7%；平板顯示模組出口值37.9億元、增長39.7%。（北京日報）"
     }
   ]
 }
