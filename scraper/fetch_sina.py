@@ -536,7 +536,6 @@ def update_ai_summaries(conn) -> None:
                         "slot_end": slot_end.strftime("%Y-%m-%d %H:%M:%S"),
                         "generated_at": datetime.now(TW).strftime("%Y-%m-%d %H:%M:%S"),
                         "count": len(items),
-                        "model": OPENAI_SUMMARY_MODEL,
                         **result,
                     })
                     new_count += 1
