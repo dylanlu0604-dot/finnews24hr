@@ -1,0 +1,54 @@
+name: 🕐 Financial News Scraper
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: scraper
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 62
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run scraper every 3min (x20)
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_SUMMARY_MODEL: ${{ vars.OPENAI_SUMMARY_MODEL || 'gpt-4.1-mini' }}
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          for i in $(seq 1 20); do
+            echo "=== Round $i ==="
+            python scraper/fetch_sina.py || echo "[WARN] scraper failed"
+
+            git add docs/data.json docs/ai_summaries.json scraper/news.db docs/market.json
+            if git diff --cached --quiet; then
+              echo "No changes."
+            else
+              git commit -m "data: round $i [$(date -u '+%H:%M:%S UTC')]"
+              git push
+            fi
+
+            [ $i -lt 20 ] && sleep 180 || true
+          done
