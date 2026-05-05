@@ -1,7 +1,52 @@
 {
-  "updated": "2026-05-05 21:21:47",
-  "count": 11482,
+  "updated": "2026-05-05 21:25:18",
+  "count": 11480,
   "items": [
+    {
+      "id": "4861479",
+      "time": "2026-05-05 21:24:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【遼寧：“五一”假期全省接待遊客人次同比增長13.45%】“遼寧文旅”微信公眾號5月5日訊息，據大資料測算，2026年“五一”假期，全省累計接待遊客人次同比增長13.45%，旅遊綜合收入同比增長13.70%；全省7家5A級旅遊景區接待遊客人次同比增長13.42%，旅遊綜合收入同比增長9.22%；全省9家一級博物館接待觀眾人次同比增長12.01%。"
+    },
+    {
+      "id": "4861478",
+      "time": "2026-05-05 21:23:19",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "普渡大學：美國四月農業信心指數降至121。"
+    },
+    {
+      "id": "4861476",
+      "time": "2026-05-05 21:22:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "法拉利執行長：我們目前未出現異常或反常的訂單取消情況。"
+    },
+    {
+      "id": "4861475",
+      "time": "2026-05-05 21:22:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "法拉利首席財務官：第一季度我們在中東地區的交付量得以保持同比持平。"
+    },
+    {
+      "id": "te:economy:547904",
+      "time": "2026-05-05 21:22:18",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Switzerland",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Swiss 10-Year Bond Yield Little Changed — Switzerland’s 10-year government bond yield hovered just above 0.4%, retreating from a recent nine-month peak of nearly 0.5%, as investors evaluated the Swiss National Bank’s policy path while tracking stalled US-Iran negotiations. Headline inflation rate rose to 0.6% in April, the highest since December 2024, from 0.3% in March, sitting slightly above the 0.5% average projected by the SNB for this year. The increase was largely driven by higher energy prices, as the Middle East conflict pushed petrol prices sharply higher. Meanwhile, core inflation edged down to 0.3% from 0.4% in March, marking the softest increase since July 2021, easing pressure on the central bank to change policy. The appreciation of the franc amid ongoing safe-haven demand due to persistent geopolitical tensions and Switzerland’s low energy dependence should soften the impact on consumer prices. The SNB is expected to keep interest rates at 0% in June and possibly over the next 12 months."
+    },
     {
       "id": "4861474",
       "time": "2026-05-05 21:18:52",
@@ -96316,65 +96361,6 @@
         "公司"
       ],
       "text": "【博通整合：2026年第一季度淨利潤1623.33萬元，同比下降1.57%】博通整合公告，2026年第一季度營收為3.11億元，同比增長87.77%；淨利潤為1623.33萬元，同比下降1.57%。"
-    },
-    {
-      "id": "4847679",
-      "time": "2026-04-28 21:25:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "【廣宇集團：2025年淨利潤3826.54萬元 同比扭虧為盈】廣宇集團(002133)4月28日披露年報，2025年實現營業收入40.76億元，同比減少12.34%；歸母淨利潤3826.54萬元，上年同期虧損10.09億元，同比扭虧為盈；基本每股收益0.0497元。"
-    },
-    {
-      "id": "4847678",
-      "time": "2026-04-28 21:24:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟經濟事務專員東布羅夫斯基斯：已批准更換高階貿易和能源官員。"
-    },
-    {
-      "id": "4847676",
-      "time": "2026-04-28 21:23:53",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "英國石油公司副CEO：我們正在非常仔細地監測諸如歐盟庫存水平等因素。目前原油輸往煉油廠的環節不存在問題。"
-    },
-    {
-      "id": "4847675",
-      "time": "2026-04-28 21:22:58",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "匈牙利央行行長：尚未與當選總理毛焦爾進行對話。新一屆政府對央行獨立性的尊重，會在市場信心層面獲得回報。"
-    },
-    {
-      "id": "4847674",
-      "time": "2026-04-28 21:22:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "【商湯科技釋出並開源日日新SenseNova U1】商湯科技今日釋出並開源日日新SenseNova U1 系列原生理解生成統一模型，能將語言與視覺資訊作為統一的複合體直接建模。(科創板日報)"
-    },
-    {
-      "id": "4847672",
-      "time": "2026-04-28 21:22:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "據港交所檔案：深圳創智芯聯科技股份有限公司向港交所提交上市申請書。"
-    },
-    {
-      "id": "4847671",
-      "time": "2026-04-28 21:21:50",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "瑞安航空執行長：中東衝突正促使更多人今年夏天預訂在歐洲度假。"
     }
   ]
 }
