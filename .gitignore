@@ -1,5 +1,4 @@
 scraper/.env
-scraper/news.db
 scraper/__pycache__/
 *.pyc
 .DS_Store
