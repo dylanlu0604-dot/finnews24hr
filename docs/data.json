@@ -1,7 +1,150 @@
 {
-  "updated": "2026-05-06 15:31:26",
-  "count": 11681,
+  "updated": "2026-05-06 15:34:48",
+  "count": 11693,
   "items": [
+    {
+      "id": "te:markets:548219",
+      "time": "2026-05-06 15:34:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Norway",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Statoil Asa earnings above expectations at 1.48 USD — Statoil Asa (STO) released earnings per share at 1.48 USD, compared to market expectations of 0.74 USD."
+    },
+    {
+      "id": "te:markets:548218",
+      "time": "2026-05-06 15:34:21",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Denmark",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Novo Nordisk earnings above expectations at 1.03 DKK — Novo Nordisk (NVO) released earnings per share at 1.03 DKK, compared to market expectations of 0.92 DKK."
+    },
+    {
+      "id": "4862894",
+      "time": "2026-05-06 15:34:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "寶馬執行長：堅信中國將繼續是我們最大的市場。"
+    },
+    {
+      "id": "4862893",
+      "time": "2026-05-06 15:34:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄安全域性逮捕多名為烏收集情報的特工】總檯記者當地時間6日獲悉，俄羅斯聯邦安全域性訊息稱，抓獲5名為烏克蘭情報機構工作的特工，包括4名俄羅斯公民和1名外國公民。他們涉嫌在伊熱夫斯克、巴爾瑙爾、布拉戈維申斯克、阿斯特拉罕四市收集俄國防工業、交通設施及特別軍事行動人員資訊。（央視新聞）"
+    },
+    {
+      "id": "4862892",
+      "time": "2026-05-06 15:34:00",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【歐洲股指上揚，受美伊緊張局勢升溫風險下降提振】歐洲藍籌股指開盤強勁上漲，因油價回落提振工業股，同時歐洲大陸的銀行股也紛紛上揚。德國對能源敏感的DAX上漲1.2%，隨著汽車製造商走高，寶馬在公佈業績後上漲5.6%。英國富時100指數上漲1.5%，受到Guinness所有者帝亞吉歐大漲4.85%的提振，該公司公佈第一財季銷售額增長超出預期。礦業股的上漲也對該指數構成了支撐。法國CAC 40指數上漲1.3%，法國農業信貸集團大漲3.15%。義大利富時MIB指數和西班牙IBEX 35指數分別上漲1.4%和1.3%，因這兩個指數中的銀行股均上揚。裕信在米蘭市場上漲3.6%，桑坦德銀行上漲2.6%。荷蘭AEX指數微升0.45%，隨著AI股票走高，阿斯麥上漲2%。"
+    },
+    {
+      "id": "te:markets:548216",
+      "time": "2026-05-06 15:33:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Zinc Moves Back Near 3½-Year High — Zinc futures rose past $3,400 per tonne, moving back close to a more than 3½-year high amid tightening near-term supply. The decline in LME inventories, alongside a narrowing Cash-3M contango, signaled reduced prompt availability. Falling treatment charges for zinc concentrate also underscored constraints in raw material supply. Additionally, stocks at the Shanghai Futures Exchange continued to drop and port-side concentrate inventories fell sharply. Ongoing mine closures and operational disruptions are further straining supply. Some relief, however, may come from the expected restart of Boliden’s Tara mine, the ramp-up of Ivanhoe’s Kipushi project, and the resumption of output at Garpenberg in Q2, all of which could add incremental supply. On the demand side, improving industrial activity in China supported sentiment, but persistent tensions in the Middle East continued to cloud the broader outlook."
+    },
+    {
+      "id": "te:markets:548214",
+      "time": "2026-05-06 15:33:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Rebounds on Renewed Hopes for Iran Deal — The FTSE 100 rose more than 1%, recovering from a 1.4% loss in the previous session, supported by gains in banking and mining stocks as optimism grew over a potential US-Iran deal to end the war, following signals of progress from President Donald Trump. Mining shares advanced alongside a broad rise in metal prices, while cyclical sectors such as banks and defence also moved higher. Diageo climbed over 3.5% after reporting a 0.3% increase in third-quarter net sales, driven by growth across Europe, Latin America, and Africa, beating expectations for a decline. Next edged up 0.5% despite warning that the Middle East conflict could reduce full-year results by £47 million. On the downside, oil majors Shell and BP fell 0.9% and 2% respectively as easing tensions pushed Brent crude lower for a second day. Smith and Nephew dropped about 3.5% after reporting results in line with expectations."
+    },
+    {
+      "id": "4862891",
+      "time": "2026-05-06 15:33:16",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【新聞分析：美政府為何醞釀收緊AI監管】分析人士認為，推動特朗普政府在AI監管問題上態度轉變的重要因素之一，是近期部分高效能模型顯現安全隱患。Anthropic公司上月推出的新模型“克勞德神話”在識別軟體漏洞方面表現突出，但可能會被網路攻擊者利用。該公司以“網路安全風險過高”為由，宣佈暫緩向公眾開放“克勞德神話”預覽版，僅向少數合作伙伴受控開放。輿論認為，這類技術突破使AI風險從潛在可能走向現實，監管緊迫性日益凸顯。（新華社）"
+    },
+    {
+      "id": "4862890",
+      "time": "2026-05-06 15:32:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【攜程否認網傳多部門大裁員】5月6日，據三言科技，有攜程員工在求職軟體平臺爆料稱，因為公司被罰款，大住宿部門要裁員20%，其他部門也有不到20%的裁員指標，產研部門更是直接裁員30%。 另有爆料稱，酒店業務已確定裁員20％。評論區有攜程員工表示，旅遊業務前端將裁員20％。 對此，攜程公關表示，“上述訊息不實，相關謠言帖文已被刪除。公司人才盤點是HR的正常工作，不意味著會裁員。”"
+    },
+    {
+      "id": "te:economy:548213",
+      "time": "2026-05-06 15:32:19",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Germany",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Bund Yield Eases as US-Iran Deal Hopes Reduce Inflation Fears — Germany’s 10-year Bund yield fell toward 3.0% as growing optimism over a potential US-Iran agreement drove oil prices lower, easing inflation pressures. US President Donald Trump announced a pause in \"Project Freedom,\" the Strait of Hormuz escort operation, citing \"great progress\" in mediated talks with Iran. However, he stressed that the US blockade on Iranian ports would \"remain in full force and effect.\" Despite the pullback, Bund yields stay close to 15-year highs, with investors still pricing in potential European Central Bank rate hikes due to the Middle East conflict’s persistent impact on inflation. Money markets now expect the ECB’s deposit facility rate to reach around 2.7% by December, reflecting two fully priced hikes and a possible third, with an 85% probability of a first rate increase in June."
+    },
+    {
+      "id": "te:markets:548212",
+      "time": "2026-05-06 15:32:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Opens 1.41% Higher — The FTSE 100 Index is gaining 144 points or 1.41 percent on Wednesday. Leading the gains are Anglo American (4.61%), Fresnillo (4.56%) and Standard Chartered (3.87%)."
+    },
+    {
+      "id": "4862889",
+      "time": "2026-05-06 15:31:47",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美媒：透過霍爾木茲海峽的美國商船上有美軍】美國全國廣播公司5日說，4日透過霍爾木茲海峽的兩艘美國商船上有美軍人員，這是首次有報道證實在所謂“自由計劃”行動中，有美軍人員出現在透過霍爾木茲海峽的船隻上。 報道說，這兩艘載有美軍人員的商船4日在穿越霍爾木茲海峽期間遭伊朗襲擊。五角大樓證實，伊朗在襲擊中動用了導彈、無人機和武裝快艇。美軍及時攔截並炸燬伊朗快艇。 報道還援引美軍中央司令部公共事務主任蒂姆·霍金斯的話說：“美軍為透過的商船提供了一道安全屏障，其中包括多層防禦措施，並由軍艦、飛機和訓練有素的人員提供保護。” 美軍4日啟動名為“自由計劃”的疏導行動，表示將“引導”被困在霍爾木茲海峽的船隻駛離該海峽。美軍中央司令部當天說，作為該行動的第一步，兩艘懸掛美國國旗的商船成功透過霍爾木茲海峽，並安全地繼續其航程。美國總統特朗普5日傍晚在社交媒體發文宣佈，“自由計劃”行動將短期暫停。(新華社)"
+    },
+    {
+      "id": "4862888",
+      "time": "2026-05-06 15:31:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【易天股份：子公司的微組裝裝置可應用於部分光模組的部分器件組裝工序】易天股份(300812)5月6日在互動平臺表示，公司子公司微組半導體的微組裝裝置可應用於部分光模組的部分器件組裝工序，部分精度對應的相關產品已獲得如索爾思等客戶訂單，訂單體量較小。"
+    },
+    {
+      "id": "te:markets:548210",
+      "time": "2026-05-06 15:31:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Opens 1.04% Higher — The DAX Index is picking up 255 points or 1.04 percent on Wednesday. Gains are led by Continental (4.86%), BMW (4.43%) and MTU Aero Engines AG (2.90%)."
+    },
     {
       "id": "4862887",
       "time": "2026-05-06 15:30:56",
@@ -152,6 +295,14 @@
         "觀點"
       ],
       "text": "【花旗：儘管上調預期，英飛凌科技仍可能遭遇獲利回吐】花旗分析師在給客戶的一份報告中寫道，儘管這家德國晶片製造商上調了到9月底的財政年度的銷售額和利潤率預期，但英飛凌科技的投資者仍可能在週三拋售該股。他們將潛在的獲利回吐歸因於英飛凌科技最近幾周的強勁表現：自1月份以來，該股已累計上漲逾55%，在過去12個月中幾乎增長一倍。英飛凌科技在法蘭克福上市的股票在開盤時上升了1%以上，但隨後轉為下跌。該股最新下跌1.9%，至59.34歐元。"
+    },
+    {
+      "id": "4862872",
+      "time": "2026-05-06 15:26:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【湖南瀏陽煙花廠爆炸事故後，1200萬預賠款已到賬】5月4日16時40分許，湖南長沙瀏陽市華盛煙花製造燃放有限公司車間突發爆炸事故，造成重大人員傷亡與財產損失。事故發生後，保險機構迅速行動，全面開展應急處置、客戶排查、急難救援及理賠服務等工作。記者從業內獲悉，5月5日，人保財險、平安產險已支付預賠款1200萬元。5日18時11分，人保財險完成湖南瀏陽煙花爆炸事故600萬元預付賠款的緊急支付，為地方應急救援、傷員救治及善後處置提供了及時有力的資金支撐。據介紹，事故發生後，人保財險第一時間啟動重大突發事件應急處置預案，主動對接地方黨委政府，專項制定理賠保障方案，開通綠色理賠通道，簡化審批流程。5日20時30分，平安產險快速完成安全生產責任保險600萬元預賠付。據悉，中國平安現場工作小組於5日上午抵達事故現場，從產品、理賠、渠道等多條線開展承保排查工作，瀏陽當地機構理賠人員已前往收治傷員的醫院，開展現場排查與客戶慰問工作。事故發生後，中國人保、中國人壽、中國太平、中國太保、中國平安、泰康保險等保險集團，統籌協調旗下保險子公司力量，全面投入事故搶險救援、傷者救治保障、保險理賠處置等各項工作。保險機構均表示，將密切關注事件進展，緊盯事故處置進展，全力做好後續查勘定損、理賠賠付等全流程服務。(金融時報)"
     },
     {
       "id": "4862871",
@@ -98682,30 +98833,6 @@
         "國際"
       ],
       "text": "【美國防長赫格塞斯將於週三出席眾議院軍事委員會聽證會】本週美國國防部長皮特・赫格塞斯將接連現身國會山，共和黨議員也將藉此機會，正面表達對特朗普政府處理伊朗戰事、以及五角大樓一系列高層高調解職事件的不滿。 赫格塞斯將於週三出席眾議院軍事委員會聽證會，這也是伊朗衝突爆發以來，他首次宣誓作證；週四他還將出席參議院軍事委員會聽證會。他將與參謀長聯席會議主席丹・凱恩上將一同出席，兩人預計將力推國防部2027財年1.5萬億美元國防預算申請。 參眾兩院議員均對赫格塞斯近期的人事任免敲響警鐘：他接連撤換口碑極佳的陸軍參謀長蘭迪・喬治、海軍部長約翰・費倫，外界擔憂五角大樓高層指揮體系出現人才空心化。 白宮眼下也面臨越來越多的不滿：一方面遲遲無法終結伊朗戰事，另一方面對作戰戰略、戰爭開支諱莫如深。本週，無需國會批准即可開展軍事行動的60天作戰授權期限即將到期。"
-    },
-    {
-      "id": "4849763",
-      "time": "2026-04-29 15:32:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中方回應是否會向貿易伙伴出口燃油】4月29日，外交部發言人林劍主持例行記者會。 路透社記者提問，路透社今天報道稱，中方將於5月恢復出口燃油，但會少於去年的水平。中方是否收到了亞洲國家關於燃油短缺的相關請求？中方是否會向貿易伙伴出口燃油？ 林劍表示，受中東局勢的影響，全球能源市場面臨供應短缺，對許多國家造成了衝擊。要從根本上解決問題，關鍵在於全力避免戰端重啟，推動實現全面持久的停火止戰，防止地區局勢進一步動盪對全球經濟發展造成更大影響。 “中方願同各方繼續保持溝通，共同維護全球的能源安全和產供鏈穩定。”林劍說。（北京日報）"
-    },
-    {
-      "id": "4849762",
-      "time": "2026-04-29 15:32:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【一汽解放：公司半固態電池計劃在下一代整車平臺中應用】一汽解放4月29日在互動平臺表示，目前公司半固態電池計劃在下一代整車平臺中應用，後續將加快技術轉化與產品落地節奏。"
-    },
-    {
-      "id": "4849761",
-      "time": "2026-04-29 15:32:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "【科大訊飛總裁吳曉如：今年10月將在昇騰950平臺上釋出國產旗艦大模型】4月29日下午，科大訊飛總裁吳曉如在公司2025年度暨2026年第一季度業績說明會上表示，今年10月，公司將在昇騰950平臺上釋出中國首個對標業界最先進主流模型的旗艦大模型。"
     }
   ]
 }
