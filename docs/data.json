@@ -1,7 +1,28 @@
 {
-  "updated": "2026-05-07 00:33:32",
-  "count": 11290,
+  "updated": "2026-05-07 00:37:03",
+  "count": 11288,
   "items": [
+    {
+      "id": "4864014",
+      "time": "2026-05-07 00:36:07",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【名不見經傳的塞爾維亞團體出價23.5億美元，競購俄資石油公司NIS過半股份】一家近期成立的塞爾維亞公司已向俄羅斯天然氣工業石油公司（Gazprom Neft）和俄羅斯天然氣工業股份公司（Gazprom）出價20億歐元（約23.5億美元），擬收購其持有的NIS公司共計56.1%的股份。 NIS運營著塞爾維亞唯一的煉油廠。 該公司所有者Ranko Mimovic表示，這一報價已獲得NIS俄方所有者的“普遍接受”。 這家名為KFT Senator Treasury G.T.7 Two LLC（簡稱Senator）的公司成立於2025年夏天。 該競標對匈牙利MOL集團構成了挑戰，後者正試圖收購NIS的多數股權。 自2025年10月以來，NIS一直處於美國的制裁之下。"
+    },
+    {
+      "id": "te:markets:548462",
+      "time": "2026-05-07 00:35:34",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "CAC 40 Jumps on Easing US-Iran Tensions — The CAC 40 climbed 2.9% to close at 8,299 on Wednesday, extending gains from the previous session as an improved geopolitical backdrop and upbeat corporate earnings lifted sentiment. US President Donald Trump signaled a pause in efforts to assist vessels in the Strait of Hormuz, citing ongoing talks with Iran, and said “great progress” had been made toward a potential agreement, easing concerns over disruptions to a key energy corridor. Financials led gains, with BNP Paribas (+5.2%), Société Générale (+5.5%), and Crédit Agricole (+3.6%) advancing, while AXA rose 3.7% after reporting solid Q1 growth and reaffirming full-year targets. Luxury stocks also performed strongly, with LVMH (+5.1%), Hermès (+5.3%), and Kering (+6.7%) higher. Industrials rallied, with Safran (+9.0%) and Airbus (+6.0%) rising after March industrial output grew 1% month-on-month, beating expectations."
+    },
     {
       "id": "te:markets:548461",
       "time": "2026-05-07 00:32:35",
@@ -96043,38 +96064,6 @@
         "其他"
       ],
       "text": "Coinbase：部分使用者在Polygon網路上可能遇到轉賬發出及到賬延遲的問題。"
-    },
-    {
-      "id": "4851588",
-      "time": "2026-04-30 00:36:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "菲利普斯66：即便霍爾木茲海峽關閉，高煉油利潤率仍將持續。"
-    },
-    {
-      "id": "4851587",
-      "time": "2026-04-30 00:35:38",
-      "tags": [
-        "市場"
-      ],
-      "text": "納斯達克100指數轉跌。"
-    },
-    {
-      "id": "4851586",
-      "time": "2026-04-30 00:35:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "現代汽車集團與佐治亞理工學院簽署諒解備忘錄，進一步開展氫能源出行開發合作。"
-    },
-    {
-      "id": "4851585",
-      "time": "2026-04-30 00:33:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡將在未來一小時內與特朗普通話。"
     }
   ]
 }
