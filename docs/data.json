@@ -1,7 +1,44 @@
 {
-  "updated": "2026-05-07 00:01:46",
+  "updated": "2026-05-07 00:05:21",
   "count": 11302,
   "items": [
+    {
+      "id": "4864003",
+      "time": "2026-05-07 00:04:56",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【報道：俄羅斯石油公司就施韋特煉油廠再次對德國採取法律行動】俄羅斯石油公司（Rosneft）已再次向德國當地法院提起訴訟，反對德國政府對其德國子公司的託管。這些子公司擁有PCK施韋特（PCK Schwedt）煉油廠的多數股權。 柏林-勃蘭登堡高等行政法院未能立即就此發表評論。德國經濟部目前未透過電話進行即時置評。德國法院發言人稱，俄羅斯石油公司於3月30日提起訴訟，以趕在截止日期前對德國經濟部2月底釋出的命令作出回應。該命令將這家俄羅斯公司的在德分支機構置於託管狀態。德國政府決定將其置於託管狀態，是為建立長期控制權而做出的努力的一部分；在此之前的框架要求每六個月重新延長一次國家控制權。俄羅斯石油公司曾在2022年針對之前的託管安排提起過訴訟，但未能成功。"
+    },
+    {
+      "id": "te:markets:548451",
+      "time": "2026-05-07 00:01:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "European Stocks Surge on Wednesday — European stocks surged on Wednesday as a prospective of an agreement in the Middle East lowered energy prices. The Eurozone's STOXX 50 gained 2.6% to 6,025 and the pan-European STOXX 600 rose 2.3% to 623. Iran was reportedly considering a memorandum sent by the US that if agreed to, would end the ongoing war and restore trade flows through the Strait of Hormuz. The developments drove oil and natural gas prices to decline sharply in the session, driving rate traders to trim the magnitude of rate hikes expected by the ECB this year and improving the outlook on margins for corporations. Industrial heavyweights led the gains on lower power prices, with Airbus, Schneider, Siemens, and Safran surging between 3.5% and 9%. Also, ASML jumped 6.2% on strong results from AMD. The pullback in sovereign yields also supported credit sensitive banks and luxury companies. Novo Nordisk added 3% on its guidance of strong sales for weight-loss pills, and AXA jumped 4% after earnings."
+    },
+    {
+      "id": "4864002",
+      "time": "2026-05-07 00:01:35",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "法國財政部：受需求下滑影響，法國 4 月機動車燃料消費量下降 11%。"
+    },
+    {
+      "id": "4864001",
+      "time": "2026-05-07 00:01:16",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "法國財政部：資料顯示，法國精煉油銷售毛利潤已經恢復至危機爆發之前的水平。"
+    },
     {
       "id": "4864000",
       "time": "2026-05-06 23:59:20",
@@ -96104,38 +96141,6 @@
         "其他"
       ],
       "text": "菲利普斯66：（原油）市場波動可能持續到2027年。"
-    },
-    {
-      "id": "4851554",
-      "time": "2026-04-30 00:04:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯3月份建築業同比下降1.9%。"
-    },
-    {
-      "id": "4851553",
-      "time": "2026-04-30 00:04:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普稱將繼續對伊朗實施海上封鎖】據美國阿克西奧斯新聞網站29日報道，美國總統特朗普接受採訪時說，他將繼續對伊朗實施海上封鎖，直到伊朗方面同意達成一項能夠打消美國對伊朗核計劃擔憂的協議。（新華社）"
-    },
-    {
-      "id": "4851552",
-      "time": "2026-04-30 00:03:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄外交部：東京審判在全人類層面具有重要意義】俄羅斯外交部發言人扎哈羅娃29日表示，東京審判在法律和全人類層面都具有重要意義。扎哈羅娃當天在記者會上就東京審判開庭80週年回答新華社記者相關提問時說，二戰期間日本軍國主義犯下的反人類罪行沒有追訴時效限制，查明這些罪行的工作將繼續進行。俄方正竭盡全力進一步揭露日本軍國主義的罪行，並將系統性公佈相關資訊。（新華社）"
-    },
-    {
-      "id": "4851551",
-      "time": "2026-04-30 00:02:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯聯邦統計局資料：今年1-2月俄羅斯企業利潤同比下降33.1%，規模為3.35萬億盧布。"
     }
   ]
 }
