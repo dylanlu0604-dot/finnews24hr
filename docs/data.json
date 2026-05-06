@@ -1,7 +1,53 @@
 {
-  "updated": "2026-05-07 00:08:53",
+  "updated": "2026-05-07 00:12:26",
   "count": 11300,
   "items": [
+    {
+      "id": "te:markets:548456",
+      "time": "2026-05-07 00:12:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 2.35% Higher — The FTSE MIB Index rose 1139 points or 2.35 percent on Wednesday to close at 49697 points. Leading the gains are Amplifon (12.40%), Lottomatica (6.68%) and Buzzi Unicem (5.75%)."
+    },
+    {
+      "id": "te:markets:548455",
+      "time": "2026-05-07 00:11:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 2.12% Higher — The DAX Index gained 517 points or 2.12 percent on Wednesday to close at 24919 points. Gains were led by MTU Aero Engines AG (11.26%), Continental (8.95%) and Airbus (5.98%)."
+    },
+    {
+      "id": "te:markets:548454",
+      "time": "2026-05-07 00:10:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 2.94% Higher — The CAC 40 Index went up by 237 points or 2.94 percent on Wednesday to close at 8299 points. The rise was led by Safran (9.75%), ArcelorMittal (8.03%) and Accor (7.68%)."
+    },
+    {
+      "id": "4864004",
+      "time": "2026-05-07 00:09:30",
+      "tags": [
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "有報道稱，霍爾木茲海峽一艘船隻遭到導彈襲擊。"
+    },
     {
       "id": "te:markets:548453",
       "time": "2026-05-07 00:08:10",
@@ -96100,39 +96146,6 @@
         "市場"
       ],
       "text": "標普：我們認為，WTI原油和布倫特原油價格需要進一步上漲，或是在高位維持較長時間，才能抑制需求、改善市場平衡。"
-    },
-    {
-      "id": "4851562",
-      "time": "2026-04-30 00:12:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "標普：2028年及以後的WTI原油與布倫特原油價格假設維持不變。"
-    },
-    {
-      "id": "4851561",
-      "time": "2026-04-30 00:11:42",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "標普：將2026年剩餘時段WTI原油與布倫特原油的價格預測假設每桶上調15美元，2027年每桶上調5美元。"
-    },
-    {
-      "id": "4851560",
-      "time": "2026-04-30 00:11:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大航空歡迎其飛行執行排班員以及客艙排班員就新的四年期集體協議完成的批准投票，結果積極。"
-    },
-    {
-      "id": "4851559",
-      "time": "2026-04-30 00:09:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗議長稱特朗普試圖迫使德黑蘭投降】伊朗議會議長卡利巴夫表示，美國總統特朗普正試圖透過經濟壓力和製造內部分裂迫使伊朗投降。卡利巴夫在一段向伊朗民眾發表的音訊講話中稱：“特朗普公然將國家劃分為強硬派和溫和派，然後立即談及實施海上封鎖，試圖透過經濟壓力和內部分裂迫使伊朗投降。”他補充稱，唯一能夠“對抗敵人”的辦法是實現國家團結。他還強調，伊朗的軍事和政治官員保持完全一致的立場。"
     }
   ]
 }
