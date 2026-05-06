@@ -1,7 +1,86 @@
 {
-  "updated": "2026-05-06 21:31:56",
-  "count": 11422,
+  "updated": "2026-05-06 21:35:21",
+  "count": 11420,
   "items": [
+    {
+      "id": "te:markets:548417",
+      "time": "2026-05-06 21:35:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Rise to New Records — US stocks rose on Wednesday as a potential end to the war with Iran improved the macroeconomic backdrop, while a series of strong earnings boosted AI stocks. The S&P 500 and the Nasdaq rose over 0.7% to new records, and the Dow added 400 points. The US reportedly was close to agreeing to a memorandum from Iran, potentially restoring trade through the Strait of Hormuz and triggering a slide in energy prices. Equities rose across all sectors, except energy producers. Meanwhile, AMD surged by 16% after beating earnings estimates and lifting its guidance on soaring levels of data center growth. Consistently, Super Micro Computer rose 15% on strong earnings. The news lifted others in the AI infrastructure space with Nvidia, Sandisk, Micron, and Intel adding over 2%. Also on the earnings front, Disney jumped 5% after reporting strong revenues, and Uber jumped 7% on a strong forecast for bookings."
+    },
+    {
+      "id": "4863814",
+      "time": "2026-05-06 21:34:47",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PTA連續主力合約日內跌2%，現報6636.00元。"
+    },
+    {
+      "id": "4863813",
+      "time": "2026-05-06 21:34:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "受油價下跌超5%影響，標普500能源指數下跌3%。"
+    },
+    {
+      "id": "4863812",
+      "time": "2026-05-06 21:33:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "英特爾(INTC.O)盤初漲2.9%，年初迄今累計漲超200%。"
+    },
+    {
+      "id": "4863811",
+      "time": "2026-05-06 21:33:23",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "以色列訊息人士：以色列並不知曉特朗普已接近與伊朗達成協議；以色列一直準備應對戰事升級。"
+    },
+    {
+      "id": "4863810",
+      "time": "2026-05-06 21:33:14",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "優步股價上漲5.4%，因公司預測第二季度預訂量和利潤均超出預期。"
+    },
+    {
+      "id": "4863809",
+      "time": "2026-05-06 21:33:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "華特迪士尼股價在第二季度營收和調整後利潤超預期後上漲5.6%。"
+    },
+    {
+      "id": "4863808",
+      "time": "2026-05-06 21:32:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【航行警告！南海實彈射擊訓練】據中國海事局網站訊息，茂名海事局釋出航行警告，5月7日至8日，每日6時至21時，南海部分海域進行射擊訓練，禁止進入。"
+    },
+    {
+      "id": "4863807",
+      "time": "2026-05-06 21:32:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐盟試圖快速落實美歐貿易協議 但內部分歧阻礙協議進展】在特朗普新一輪關稅施壓之下，歐盟立法者與成員國政府週三試圖敲定一項協議，擬取消對美國產品的關稅，但由於在保障機制問題上分歧明顯，歐盟內部達成快速協議的前景依然黯淡。特朗普上週五表示，本週將把對歐盟汽車及卡車的關稅從當前15%上調至25%，理由是歐盟未能履行去年7月在蘇格蘭達成的貿易協議條款。自該貿易協議簽署9個月以來，歐洲議會與歐盟理事會仍需就統一文字達成一致，相關關稅削減措施方可正式生效。然而，在關鍵分歧方面，歐盟議員主張設定更嚴格的保障條款，包括：若美國未履約則可暫停協議；將關稅減讓與美方行動掛鉤；以及在2028年3月31日後全面終止歐盟關稅讓步。一名歐盟外交官表示，成員國政府對加入此類條款興趣不大；另有官員指出，雙方仍存在顯著分歧，預計下月還需繼續談判。"
+    },
     {
       "id": "4863805",
       "time": "2026-05-06 21:31:03",
@@ -96974,102 +97053,6 @@
         "國際"
       ],
       "text": "據洲際交易所（ICE）資料顯示，受美國將延長對伊朗港口封鎖的訊息影響，近月荷蘭批發天然氣價格上漲5.52%，報每兆瓦時46.00歐元。"
-    },
-    {
-      "id": "4851235",
-      "time": "2026-04-29 21:35:13",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "以色列總理辦公室：內塔尼亞胡總理預計下週不會前往美國，他正與好友特朗普總統保持頻繁溝通。"
-    },
-    {
-      "id": "4851234",
-      "time": "2026-04-29 21:34:36",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納斯達克中國金龍指數漲超0.5%，優品車漲5.52%，百勝中國漲5.39%，Tims中國漲4.89%，蔚來漲4.27%，逸仙電商漲3.89%。"
-    },
-    {
-      "id": "4851233",
-      "time": "2026-04-29 21:34:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防軍發言人：米斯加夫阿姆地區因敵方飛行器入侵觸發警報後，經核實此次為誤判。"
-    },
-    {
-      "id": "4851232",
-      "time": "2026-04-29 21:34:13",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "多倫多證交所綜合指數在美聯儲與加拿大央行利率決議公佈前低開。"
-    },
-    {
-      "id": "4851231",
-      "time": "2026-04-29 21:33:32",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "【分析：英國央行或因通脹壓力於6月加息】Pantheon Macroeconomics的Robert Wood和Elliott Jordan-Doak在一份報告中稱，英國央行可能會在6月份加息，以努力將英國通脹率降至更接近英國央行2%的目標水平。由於能源價格高企推高了商品和服務的成本，英國3月份同比整體通脹率從2月份的3.0%升至3.3%。他們表示，英國央行“必須採取行動，確保通脹在中期內達到目標“。"
-    },
-    {
-      "id": "4851230",
-      "time": "2026-04-29 21:33:21",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "低硫燃料油連續主力合約日內漲4%，現報5073.00元。"
-    },
-    {
-      "id": "4851229",
-      "time": "2026-04-29 21:33:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內漲5%，現報109.62美元/桶。"
-    },
-    {
-      "id": "4851228",
-      "time": "2026-04-29 21:32:49",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "儲存類股票在希捷科技(STX.O)釋出樂觀預測後上漲。西部資料(WDC.O)上漲9.7%，美光科技(MU.O)上漲4%，閃迪(SNDK.O)上漲6.7%。"
-    },
-    {
-      "id": "4851227",
-      "time": "2026-04-29 21:32:12",
-      "tags": [
-        "市場"
-      ],
-      "text": "GE醫療股價下跌10%，創2025年4月以來最大單日跌幅。"
-    },
-    {
-      "id": "4851226",
-      "time": "2026-04-29 21:32:05",
-      "tags": [
-        "市場"
-      ],
-      "text": "星巴克股價一度上漲5.1%，創下1月28日以來最大盤中漲幅。"
-    },
-    {
-      "id": "4851225",
-      "time": "2026-04-29 21:31:59",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "恩智浦半導體股價飆升23%，創2010年12月以來最大漲幅。"
     }
   ]
 }
