@@ -1,7 +1,276 @@
 {
-  "updated": "2026-05-06 09:12:20",
-  "count": 11614,
+  "updated": "2026-05-06 09:30:54",
+  "count": 11645,
   "items": [
+    {
+      "id": "4862328",
+      "time": "2026-05-06 09:27:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【美軍稱在東太平洋打擊“販毒船”致3人死亡】美軍南方司令部5日發表宣告說，美軍當天在東太平洋對一艘“販毒船”發動打擊，船上3人被打死。宣告說，根據美軍南方司令部司令弗朗西斯·多諾萬的命令，美軍“南方之矛”聯合特遣部隊5日對一艘由“被認定的恐怖組織”運營的船隻實施打擊，打死船上3名男性“毒品恐怖分子”。"
+    },
+    {
+      "id": "4862327",
+      "time": "2026-05-06 09:27:18",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【儲存晶片板塊高開，德明利、江波龍多股創新高】儲存晶片板塊高開，訊息面上，海外儲存晶片巨頭接連大漲提振情緒。德明利、瀾起科技、中微公司、江波龍、大普微、盛視科技盤中創新高，通富微電、盈新發展漲停，朗科科技、夏農芯創、佰維儲存、興森科技、普冉股份跟漲。"
+    },
+    {
+      "id": "4862326",
+      "time": "2026-05-06 09:26:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺幣兌美元上漲0.3%至31.510。"
+    },
+    {
+      "id": "4862325",
+      "time": "2026-05-06 09:26:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "科創50指數高開4%。"
+    },
+    {
+      "id": "4862324",
+      "time": "2026-05-06 09:26:03",
+      "tags": [
+        "行業",
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "【五糧液低開6.49%，公司2025年財報“重寫”】五糧液低開6.49%，訊息面上，公司2025年財報“重寫”，2025年一季度營收從369.4億元調減至170.86億元，調減幅度53.7%，歸母淨利潤從148.6億元調減至44.16億元，降幅超70%；2025年前三季度累計調減營業收入303.07億元，調減歸母淨利潤150.36億元；2025年全年更正後營收405.29億元，同比下降54.55%，淨利潤89.54億元，同比下降71.89%。"
+    },
+    {
+      "id": "4862323",
+      "time": "2026-05-06 09:25:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【墨西哥中部列車與油罐車相撞致2死4傷】墨西哥中部克雷塔羅州民防部門5日在社交媒體釋出通告說，該州當天發生一起列車與油罐車相撞事故，造成至少2人死亡、4人受傷。通告說，事故發生在克雷塔羅州科隆市。當地應急部門已趕赴現場處置。在克雷塔羅州政府航空救援支援下，一名傷者被轉運接受治療，另有3名傷勢較輕人員被送往醫療中心檢查。通告說，目前，事故區域仍實施部分封閉，相關部門正在進行降溫和清理作業。事故原因仍在調查中。"
+    },
+    {
+      "id": "4862322",
+      "time": "2026-05-06 09:25:26",
+      "tags": [
+        "焦點"
+      ],
+      "text": "三大股指高開，滬指漲0.57％，深成指漲1.43％，創業板漲2.27％。"
+    },
+    {
+      "id": "4862321",
+      "time": "2026-05-06 09:25:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股鋰電池股走強 寧德時代漲近4%】截至發稿，寧德時代(03750.HK)漲3.97%，天齊鋰業(09696.HK)漲3.67%，彩客新能源(01986.HK)漲3.33%。"
+    },
+    {
+      "id": "4862320",
+      "time": "2026-05-06 09:25:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內漲1%，現報1530.05美元/盎司。"
+    },
+    {
+      "id": "4862319",
+      "time": "2026-05-06 09:23:42",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【港股儲存概念股走強 瀾起科技漲超8%】截至發稿，瀾起科技(06809.HK)漲8.21%，兆易創新(03986.HK)漲6.01%。"
+    },
+    {
+      "id": "4862318",
+      "time": "2026-05-06 09:23:33",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【海灣地區一貨船疑遭導彈襲擊 多名船員受傷】據美國方面5日訊息，一艘位於海灣地區的貨船疑似遭到一枚陸基巡航導彈的襲擊，船上多名菲律賓籍船員受傷。兩名匿名美國官員表示，遇襲的“CGM聖安東尼奧”號貨船隸屬於一家法國公司，事發時間為海灣地區當地時間5日深夜。船舶追蹤資料顯示，該船5日中午仍在阿聯酋迪拜附近海域，但不清楚它此後是否駛離該區域。英國海上貿易行動辦公室5日早些時候說，接收報告顯示，霍爾木茲海峽內“一艘貨船被不明發射物擊中”。"
+    },
+    {
+      "id": "te:economy:548062",
+      "time": "2026-05-06 09:23:29",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Argentina",
+        "Credit Rating",
+        "Importance 1"
+      ],
+      "text": "Fitch Raises Argentina’s Rating to “B-” — Fitch upgraded its credit rating on Argentina by one notch to “B-” from “CCC” on Tuesday, with a stable outlook, citing the country’s improved fiscal performance and progress on economic reforms. The note also cited legislative victories by Argentine President Javier Milei, including labor reforms and the easing of environmental restrictions on mining. However, the agency noted that vulnerabilities persist due to weak international reserves, high inflation, and a history of macroeconomic instability. Fitch said it expects economic growth to moderate to 3.2% in 2026. Standard & Poor’s credit rating for Argentina stands at CCC+ with a stable outlook. Moody’s credit rating for Argentina was last set at Caa1 with a stable outlook. DBRS’s credit rating for Argentina was last reported at B (low), also with a stable outlook."
+    },
+    {
+      "id": "4862317",
+      "time": "2026-05-06 09:22:58",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行今日未開展逆回購操作，因今日有4191億元7天期逆回購到期，當日實現淨回籠4191億元。"
+    },
+    {
+      "id": "4862316",
+      "time": "2026-05-06 09:22:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "長和股價開盤上漲1.4%。"
+    },
+    {
+      "id": "4862315",
+      "time": "2026-05-06 09:21:52",
+      "tags": [
+        "觀點"
+      ],
+      "text": "花旗將長和目標價從78.00港元上調至81.50港元。"
+    },
+    {
+      "id": "4862314",
+      "time": "2026-05-06 09:21:39",
+      "tags": [
+        "焦點"
+      ],
+      "text": "港股恒指高開漲0.51％，國企指數漲0.64％，科指開漲0.85%；華虹半導體、寧德時代、中芯國際均漲近4%。"
+    },
+    {
+      "id": "4862313",
+      "time": "2026-05-06 09:21:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳元兌美元上漲0.64%，報0.72289，觸及2022年6月以來新高。"
+    },
+    {
+      "id": "4862312",
+      "time": "2026-05-06 09:20:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【“五一”假期 深圳接待遊客733.36萬人次，同比增長5.3%】據深圳特區報，今年“五一”假期，深圳文旅市場多點開花、供需兩旺。記者5月5日從深圳市文化廣電旅遊體育局獲悉，全市接待遊客733.36萬人次，同比增長5.3%；實現旅遊收入56.29億元，同比增長3.6%。"
+    },
+    {
+      "id": "4862311",
+      "time": "2026-05-06 09:20:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我科研團隊在機器人空間智慧領域取得新突破】記者5日從浙江人形機器人創新中心獲悉，該中心聯合香港中文大學、浙江大學等團隊在機器人空間智慧領域取得重要突破，提出名為RAM的三維空間理解與操作模型，為提升機器人在複雜長程任務中的操作可靠性提供了新的技術路徑。相關成果近日發表於國際學術期刊《科學·機器人》。（科技日報）"
+    },
+    {
+      "id": "4862310",
+      "time": "2026-05-06 09:19:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【萬馬科技：公司液冷伺服器機櫃僅實現少量出貨，當前業務尚處於前期階段】萬馬科技5月6日在互動平臺表示，目前公司液冷伺服器機櫃僅實現少量出貨，當前業務尚處於前期階段，收入佔比較低。在光通訊領域，公司可提供光纖分纖箱、光纖配線架、光器件等產品。"
+    },
+    {
+      "id": "te:economy:548061",
+      "time": "2026-05-06 09:19:37",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Philippines",
+        "Unemployment Rate",
+        "Importance 1"
+      ],
+      "text": "Philippines Jobless Rate Ticks Down to 5% — The unemployment rate in the Philippines edged down to 5% in March 2026, the lowest level in three months, from 5.1% February. The number of unemployed persons decreased to 2.58 million from 2.66 million in the previous month. Meanwhile, the employment rate inched up to 95% from 94.9%, with total employment reaching 49.07 million. The labor force participation rate fell to 63.3% from 63.8% in February but was still above 62.9% in March 2025. The services sector accounted for the largest share of employment at 63.0%, followed by agriculture (19.1%) and industry (17.9%). The top sub-sectors were wholesale and retail trade; repair of motor vehicles and motorcycles (20.2%), agriculture and forestry (17.1%), and construction (9.6%). Wage and salary workers comprised 63.7% of the workforce, most of whom were employed in private establishments. The average weekly hours worked was estimated at 40.7 hours."
+    },
+    {
+      "id": "4862309",
+      "time": "2026-05-06 09:19:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "【挪威證實收到美國推遲武器交付通知】挪威國防部官員4日證實，已收到美國將延期交付挪威所訂購武器的通知。據英國方面此前訊息，由於伊朗戰事消耗美國大量軍火庫存，美方已告知多個歐洲盟友，其軍售交付可能出現長時間延期。美國國防部近期內部評估和外部機構評估均顯示，美軍關鍵武器彈藥的庫存在伊朗戰事中大量消耗，其中多個型號的導彈數量均消耗大約一半，且預計補充速度緩慢，數年內難以補齊缺口。"
+    },
+    {
+      "id": "te:economy:548060",
+      "time": "2026-05-06 09:16:30",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Philippines",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "Philippines Industrial Output Strongest Since 2023 — Manufacturing production in the Philippines climbed 10.5% year-on-year in March 2026, accelerating from a downwardly revised 4.5% gain in the previous month. This marked the strongest annual growth since January 2023, driven largely by a rebound in the manufacture of coke and refined petroleum products (4% vs -16.6% in February), which contributed 41.1% to the overall increase. Other key contributors included the manufacture of computer, electronic and optical products (20.8% vs 15.2%), basic metals (42% vs 32.3%), and transport equipment (7.4% vs 2.2%). In contrast, output growth moderated in the manufacture of food products (3% vs 3.5%), other non-metallic mineral products (4.4% vs 5.1%), tobacco products (3.2% vs 11.1%), and leather and related products, including footwear (13% vs 18.3%). On a seasonally adjusted monthly basis, industrial output rose 1.9%, rebounding from a 0.3% fall in February. For the first quarter of the year, industrial output expanded 5.5%."
+    },
+    {
+      "id": "4862308",
+      "time": "2026-05-06 09:16:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【澳大利亞總理阿爾巴尼斯：澳大利亞擬推出100億澳元燃油韌性保障計劃】澳大利亞總理安東尼・阿爾巴尼斯週三在悉尼發表講話稱，該國將在下週公佈的預算案中，納入一項100億澳元（合72億美元）的燃油安全與韌性配套計劃。該方案將撥款75億澳元，用於建設相關設施，增加燃油及化肥的供應與儲備規模。政府計劃自持約10億升燃油儲備。同時將支援整體燃油儲備擴容，確保柴油與航空煤油儲備量至少可滿足50天供應需求。資金扶持方式涵蓋貸款、股權投資、擔保、保險及價格補貼等多種形式。"
+    },
+    {
+      "id": "4862307",
+      "time": "2026-05-06 09:15:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "【人民幣兌美元中間價報6.8562，較上日調高66點】人民幣兌美元中間價報6.8562，較上日調高66點。"
+    },
+    {
+      "id": "4862306",
+      "time": "2026-05-06 09:15:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "人民幣兌美元中間價報6.8562元。"
+    },
+    {
+      "id": "4862305",
+      "time": "2026-05-06 09:15:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨日盤開盤漲0.38%，報25797.21點，低水101.40點。"
+    },
+    {
+      "id": "4862304",
+      "time": "2026-05-06 09:13:37",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "焦煤連續主力合約日內漲2%，現報1311.50元。"
+    },
+    {
+      "id": "4862303",
+      "time": "2026-05-06 09:13:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "紐西蘭儲備銀行行長佈雷曼：失業率證實伊朗戰爭前經濟已復甦。"
+    },
+    {
+      "id": "4862302",
+      "time": "2026-05-06 09:12:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣證交所加權股價指數日內漲幅擴大至1.6%，再創新高。"
+    },
+    {
+      "id": "4862301",
+      "time": "2026-05-06 09:12:12",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美媒：海灣地區一貨船疑遭導彈襲擊，多名船員受傷】據美國哥倫比亞廣播公司5日報道，一艘位於海灣地區的貨船疑似遭到一枚陸基巡航導彈的襲擊，船上多名菲律賓籍船員受傷。報道援引兩名匿名美國官員的話稱，遇襲的“CGM聖安東尼奧”號貨船隸屬於一家法國公司，事發時間為海灣地區當地時間5日深夜。船舶追蹤資料顯示，該船5日中午仍在阿聯酋迪拜附近海域，但不清楚它此後是否駛離該區域。英國海上貿易行動辦公室5日早些時候說，接收報告顯示，霍爾木茲海峽內“一艘貨船被不明發射物擊中”。(新華社)"
+    },
     {
       "id": "4862300",
       "time": "2026-05-06 09:12:07",
