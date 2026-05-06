@@ -1,7 +1,43 @@
 {
-  "updated": "2026-05-06 22:02:29",
-  "count": 11393,
+  "updated": "2026-05-06 22:05:49",
+  "count": 11389,
   "items": [
+    {
+      "id": "4863865",
+      "time": "2026-05-06 22:04:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國最高法院拒絕暫緩一項裁定蘋果在“堡壘之夜”開發商Epic Games針對App Store抽成發起的反壟斷訴訟中構成藐視法庭的命令。"
+    },
+    {
+      "id": "4863864",
+      "time": "2026-05-06 22:04:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【4月北京二手住宅網籤1.79萬套 創五年同期新高】“每天都有七八個經紀人主動加班”“諮詢量比節前漲了大概兩成”……這是今年“五一”假期北京一家中介門店的真實場景。而在剛剛過去的4月份，北京二手住宅網籤量已攀至近五年同期最高點。 從“入學季”剛需釋放，到改善需求接力入場，在政策紅利、需求釋放與季節效應三股力量作用下，目前北京二手房市場保持了較好的交易活躍度。更難得的是，“五一”假期市場熱度仍在延續。（新京報）"
+    },
+    {
+      "id": "te:markets:548431",
+      "time": "2026-05-06 22:04:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Rises as Oil Drops on Middle East Peace Hopes — The S&P/TSX Composite rose on Wednesday on hopes that a peace deal between the US and Iran could be reached soon, with reports suggesting both sides are close to a memorandum to end the Gulf conflict. Oil prices plunged on expectations that Middle East supply could resume, easing inflation concerns and supporting banks, with Royal Bank of Canada up over 1% and TD Bank adding +1.5%. Gold prices rose, aided by a weaker dollar and lower crude, lifting miners, as Agnico Eagle and Barrick surged around 5% and Wheaton Precious Metals advanced near 6.0%. On the earnings front, Suncor Energy and Cenovus Energy both beat expectations, the latter reporting an 83% profit jump. Still, shares of both fell about 4% amid declining oil prices. Elsewhere, Loblaw (-3.6%) posted slightly weaker-than-expected revenue, while Sun Life Financial (+1.0%) and Great-West Lifeco (+0.1%) are set to report later in the day. On the data front, the Ivey PMI rose to 57.7 in April from 49.7 in March."
+    },
+    {
+      "id": "4863863",
+      "time": "2026-05-06 22:03:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國4月全球供應鏈壓力指數 1.82，前值0.68。"
+    },
     {
       "id": "4863862",
       "time": "2026-05-06 22:02:01",
@@ -96793,73 +96829,6 @@
         "其他"
       ],
       "text": "【一季度有色金屬行業利潤大幅增長】記者4月29日從中國有色金屬工業協會舉辦的新聞釋出會上獲悉，一季度，12325家規上有色金屬工業企業實現利潤總額1928.5億元，同比增長110.7%。其中，有色礦採選業實現利潤508.7億元，同比增長95.5%；冶煉和壓延加工業實現利潤1419.8億元，同比增長116.7%。（新華社）"
-    },
-    {
-      "id": "4851321",
-      "time": "2026-04-29 22:04:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【寶馨科技：公司股票自5月6日起被實施退市風險警示及其他風險警示】寶馨科技公告，公司2025年度利潤總額、淨利潤，扣除非經常性損益後的淨利潤孰低為負值，且扣除後營業收入低於3億元。公司2025年度期末淨資產為負值。最近三個會計年度扣除非經常性損益前後淨利潤孰低者均為負值，且政旦志遠（深圳）會計師事務所出具了帶持續經營重大不確定性的強調事項段的保留意見審計報告。公司股票自2026年4月30日開市起停牌一天，並於2026年5月6日開市起復牌。自2026年5月6日起被實施“實施退市風險警示及其他風險警示”，股票簡稱由“寶馨科技”變更為“*ST寶馨”，實行實施退市風險警示及其他風險警示後公司股票交易的日漲跌幅限制由10%變為5%。"
-    },
-    {
-      "id": "4851320",
-      "time": "2026-04-29 22:04:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "【寶馨科技：2026年一季度淨虧損1255.16萬元】寶馨科技公告，2026年第一季度營收為4532.18萬元，同比增長12.07%；淨虧損1255.16萬元，上年同期淨虧損2371.62萬元。"
-    },
-    {
-      "id": "4851319",
-      "time": "2026-04-29 22:04:47",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國允許盧克石油國際公司進行部分交易，直至5月30日。"
-    },
-    {
-      "id": "4851318",
-      "time": "2026-04-29 22:04:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "【*ST三聖：公司股票將於5月6日撤銷退市風險警示及其他風險警示】*ST三聖公告，公司股票將於2026年5月6日撤銷退市風險警示及其他風險警示，股票簡稱由“*ST三聖”變更為“三聖股份”，股票程式碼仍為“002742”，日漲跌幅限制變更為10%。公司股票將於2026年4月30日停牌一天。"
-    },
-    {
-      "id": "4851317",
-      "time": "2026-04-29 22:03:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【一加、realme合併：成立子系列事業部，李炳忠任總經理；李傑負責子系列產品中心，向劉作虎彙報】4月29日晚，OPPO內部發布公告稱：新成立子系列事業部，OPPO高階副總裁（SVP）李炳忠（Sky）為該事業部負責人，其中包含的一加和realme的營銷服體系，由原realme營銷服總裁徐起負責，任命為子系列事業部營銷服負責人。產品方面成立子系列產品中心，並下設國內產品部門和海外產品部，統一由李傑負責，向劉作虎彙報，原realme副總裁王偉(Derek)為子系列產品中心副總經理，向李傑彙報。此外，原realme研發團隊重新迴歸集團，影像、硬體等部門併入OPPO，成為原OPPO各硬體部門下設部門。（雷峰網）"
-    },
-    {
-      "id": "4851316",
-      "time": "2026-04-29 22:03:54",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國財政部發布與俄羅斯相關的通用許可證。"
-    },
-    {
-      "id": "4851315",
-      "time": "2026-04-29 22:03:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國防部長赫格塞思、凱恩出席眾議院軍事委員會聽證會並作證。"
-    },
-    {
-      "id": "4851314",
-      "time": "2026-04-29 22:02:34",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國國債收益率持續攀升，達到3月以來最高水平。"
     }
   ]
 }
