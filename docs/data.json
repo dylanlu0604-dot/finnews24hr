@@ -1,7 +1,69 @@
 {
-  "updated": "2026-05-06 08:55:09",
-  "count": 11601,
+  "updated": "2026-05-06 08:58:28",
+  "count": 11605,
   "items": [
+    {
+      "id": "te:markets:548054",
+      "time": "2026-05-06 08:57:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "New Zealand Dollar Rises After Jobs Report — The New Zealand dollar rose to $0.591, marking a second consecutive session of gains, as investors digested the labor market report. The unemployment rate ticked down to 5.3% in the first quarter from 5.4% in the previous quarter, slightly below market expectations of 5.4%. Meanwhile, employment increased by just 0.2% over the quarter, missing the 0.3% forecast. The war in the Middle East has weighed heavily on business confidence, leading firms to scale back investment and hiring. Other details in the report also point to ample spare capacity in the market and subdued wage growth. Markets are pricing in only a 35% chance of a rate hike later this month, but an increase in July is still fully priced in. The Reserve Bank of New Zealand held its cash rate steady in April but signaled that any signs of significant second-round inflationary effects or a rise in medium-term inflation expectations would warrant decisive and timely rate hikes."
+    },
+    {
+      "id": "4862270",
+      "time": "2026-05-06 08:57:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "【離岸人民幣兌美元升破6.82】離岸人民幣兌美元升破6.82，日內漲0.1151%。"
+    },
+    {
+      "id": "4862269",
+      "time": "2026-05-06 08:57:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【4月30日560股獲融資買入超億元 寒武紀獲買入53.33億元居首】4月30日共有3458只個股獲融資資金買入，有560股買入金額超億元。其中，寒武紀、兆易創新、中際旭創融資買入金額排名前三，分別獲買入53.33億元、30.86億元、23.89億元。"
+    },
+    {
+      "id": "4862268",
+      "time": "2026-05-06 08:57:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【Yusheng Holdings Limited向港交所提交上市申請書】據港交所檔案：Yusheng Holdings Limited向港交所提交上市申請書。"
+    },
+    {
+      "id": "4862267",
+      "time": "2026-05-06 08:55:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲2%，現報74.24美元/盎司。"
+    },
+    {
+      "id": "4862266",
+      "time": "2026-05-06 08:55:14",
+      "tags": [
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【中金財富期貨：黃金受油價壓制依然明顯】節日期間黃金呈現震盪偏弱的態勢，主要原因在於節日期間美伊衝突無明顯緩解跡象，特朗普引導受困霍爾木茲海峽的船隻疏離的行動也未最終落地。黃金受油價壓制依然明顯，但是美股走勢對金價也有提振，黃金延續震盪的態勢，參與價值不大。"
+    },
+    {
+      "id": "4862265",
+      "time": "2026-05-06 08:54:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【金建希股價操縱案法官身亡現場發現遺書 】據韓國媒體6日報道，韓國警方在韓國前總統尹錫悅妻子金建希操縱股價案二審法官申宗旿身亡現場發現遺書。警方正以存在跳樓可能為前提，調查具體死因。報道說，警方於當日凌晨1時許在首爾高等法院大樓附近的花壇中發現申宗旿，隨後將其送往醫院。"
+    },
     {
       "id": "4862264",
       "time": "2026-05-06 08:54:21",
@@ -97719,32 +97781,6 @@
         "公司"
       ],
       "text": "【8天預計傳送旅客1.58億人次 鐵路 “五一”假期運輸今天啟動】從國鐵集團獲悉，今天（4月29日），鐵路“五一”假期運輸啟動，全國鐵路今天預計傳送旅客1390萬人次。假期運輸從今天到5月6日，共8天。假期運輸期間，全國鐵路預計傳送旅客1.58億人次，日均開行旅客列車超1.2萬列。"
-    },
-    {
-      "id": "4848583",
-      "time": "2026-04-29 08:57:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI表示：“當我們發現有人試圖利用我們的工具潛在策劃或實施暴力活動時，我們會採取行動，包括撤銷其訪問許可權。”"
-    },
-    {
-      "id": "4848582",
-      "time": "2026-04-29 08:56:42",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【東方甄選：依據股份激勵計劃獎勵302人，俞敏洪獲180萬股】東方甄選4月28日晚間公告，依據2023年股份激勵計劃，向公司董事、高管及核心員工授出1930.14萬股股份獎勵，涉及302人，佔已發行股份1.82%，當日收盤價28.44港元/股。核心激勵物件包括俞敏洪（執行董事、主席兼CEO），獲得180萬股，佔比0.17%。尹強（執行董事、CFO）獲得45萬股，佔比0.04%。以及300名員工獲得合計1705.14萬股，佔比1.61%。東方甄選表示，本次激勵用於繫結核心團隊、穩定管理層與骨幹員工，強化長期增長動力。"
-    },
-    {
-      "id": "4848581",
-      "time": "2026-04-29 08:56:09",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲料按兵不動 鮑威爾去留懸念受關注】經濟前景的不確定性及央行領導層的更迭，給本週的美聯儲會議蒙上陰影，預計該行官員將在週三維持利率不變。伊朗戰爭導致能源價格飆升及供應鏈受阻，增加了通脹升溫和經濟增長放緩的可能性，促使決策者釋放眼下傾向於採取觀望立場的訊號。聯邦公開市場委員會(FOMC)料連續第三次會議將聯邦基金利率目標區間維持在3.5%-3.75%不變。在很可能是傑羅姆·鮑威爾作為美聯儲主席的最後一次新聞釋出會上，投資者將從中尋找線索，判斷美聯儲打算維持這種耐心姿態多久。然而，更受外界關注的或許是鮑威爾對他在美聯儲未來去向的表態。鮑威爾曾暗示，5月15日主席任期屆滿後，他可能會繼續擔任美聯儲理事會成員。官員們將於當地時間週三下午2點在華盛頓釋出會後宣告，鮑威爾的新聞釋出會將於30分鐘後舉行。美聯儲觀察人士預計，這次的政策宣告與3月相比不會有重大變化，但可能會有幾處微調。比如，官員們可能會調整對勞動力市場的描述，以反映近期資料顯示儘管招聘人數偏低，但勞動力市場已趨於穩定。"
     }
   ]
 }
