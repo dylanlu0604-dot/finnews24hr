@@ -1,7 +1,45 @@
 {
-  "updated": "2026-05-06 21:48:51",
-  "count": 11404,
+  "updated": "2026-05-06 21:52:19",
+  "count": 11401,
   "items": [
+    {
+      "id": "4863844",
+      "time": "2026-05-06 21:51:52",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【漢莎2026年燃油成本預計額外增加17億歐元】德國漢莎航空集團6日表示，受中東局勢持續動盪及航油供應趨緊影響，集團2026年燃油成本預計將額外增加17億歐元，顯著推高運營成本。(新華社)"
+    },
+    {
+      "id": "te:markets:548426",
+      "time": "2026-05-06 21:51:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Brazilian Real Extends Rally — The Brazilian real strenghten to 4.91 per USD, its strongest level in more than two years, as investors continued to favor Brazilian assets amid high domestic interest rates and strong foreign inflows. The Central Bank of Brazil maintained a cautious tone after recent monetary easing, signaling that persistent global uncertainty and tighter international financial conditions could limit the pace of future rate cuts. Support for the Brazilian currency also came from resilient exports of oil, iron ore, soybeans, coffee, and beef, which continued to generate strong trade surpluses and steady dollar inflows. Meanwhile, expectations that the US Federal Reserve could gradually ease policy later this year, reinforced by falling oil prices, weakened the dollar broadly. Oil prices declined after reports that the White House was nearing a preliminary agreement with Iran aimed at ending the conflict and reopening the door to broader nuclear negotiations."
+    },
+    {
+      "id": "4863843",
+      "time": "2026-05-06 21:50:00",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲穆薩萊姆：貨幣政策獨立是寶貴資產。"
+    },
+    {
+      "id": "4863842",
+      "time": "2026-05-06 21:49:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【費城半導體指數盤初續漲超3%】費城半導體指數盤初續漲超3%，年內累漲60%；AMD績後暴漲超19%，ARM漲近9%，泛林集團漲超6%，臺積電漲近5%，英特爾漲超3%，美光科技、英偉達漲超2%。"
+    },
     {
       "id": "4863841",
       "time": "2026-05-06 21:47:34",
@@ -96870,65 +96908,6 @@
         "國際"
       ],
       "text": "【高盛：石油衝擊的外部溢位效應將推高美國通脹】高盛的分析師目前認為，中東衝突帶來的石油衝擊將比此前預期的更為持久。他們認為，這場衝突給美國經濟帶來了又一個通脹風險來源。高盛的經濟學家寫道：“與美國相比，亞洲和歐洲的許多國家正面臨更大的衝擊，其能源成本也面臨更大的上行風險。“因此，這些國家的出口產品價格可能會上漲，從而對美國消費者物價構成又一衝擊。高盛目前預計，到2026年底，核心個人消費支出(PCE)價格指數通脹率將為2.6%，高於此前2.5%的預估值。高盛稱，在嚴重不利情景下，年底核心PCE通脹率可能高達2.9%。高盛對整體PCE通脹率的基線預測升至3.4%，在嚴重不利情景下，該數字有高達4.3%的風險。"
-    },
-    {
-      "id": "4851285",
-      "time": "2026-04-29 21:51:24",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【王毅會見第80屆聯合國大會主席貝爾伯克】中共中央政治局委員、外交部長王毅29日在北京會見第80屆聯合國大會主席貝爾伯克。王毅表示，習近平主席提出全球治理倡議，發出維護多邊主義、改革完善全球治理體系、加強聯合國作用的明確訊號。中國將堅定維護以聯合國為核心的國際體系，以中國發展帶動各國共同發展，以中國良治賦能全球治理。貝爾伯克感謝中方長期堅定支援聯合國和聯大工作，表示面對層出不窮的全球性挑戰，只有各方攜手才能共同應對。期待繼續同中方加強合作，推動完善全球治理。本屆聯大將繼續遵守第2758號決議。 (新華社)"
-    },
-    {
-      "id": "4851284",
-      "time": "2026-04-29 21:51:16",
-      "tags": [
-        "市場"
-      ],
-      "text": "費城晶片指數上漲1.1%，恩智浦半導體業績公佈後股價飆升25%，領漲該指數。"
-    },
-    {
-      "id": "4851283",
-      "time": "2026-04-29 21:51:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "墨西哥總統宣佈達成協議，要求所有公共工程專案必須使用墨西哥本國企業生產的鋼材。"
-    },
-    {
-      "id": "4851282",
-      "time": "2026-04-29 21:51:02",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "加拿大央行行長：中東戰爭和美國貿易政策仍是持續的不確定因素；展望假設關稅保持不變，預計到2027年中期油價將降至每桶75美元。預計產出缺口在-0.5%至-1.5%。長期通脹預期依然穩定。略微上調2026年增長預期至1.2%，2027年為1.6%。"
-    },
-    {
-      "id": "4851281",
-      "time": "2026-04-29 21:49:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國參議員沃倫：我們今日不應推進《美國競爭力法案》（WARREN）的立法程序。"
-    },
-    {
-      "id": "4851280",
-      "time": "2026-04-29 21:49:32",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美國參議員沃倫表示，投票推進沃什提名，就是投票助力特朗普接管美聯儲。"
-    },
-    {
-      "id": "4851279",
-      "time": "2026-04-29 21:49:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "德國兩年期國債收益率上漲7個基點至2.716%，創三週新高。"
     }
   ]
 }
