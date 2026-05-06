@@ -1,7 +1,31 @@
 {
-  "updated": "2026-05-07 00:05:21",
-  "count": 11302,
+  "updated": "2026-05-07 00:08:53",
+  "count": 11300,
   "items": [
+    {
+      "id": "te:markets:548453",
+      "time": "2026-05-07 00:08:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Mastercard Stock Price Hits 4-week Low — Mastercard shares decreased to 491.95 USD, the lowest since April 2026. Over the past 4 weeks, Mastercard lost 1.2%, and in the last 12 months, it decreased 13.08%."
+    },
+    {
+      "id": "te:markets:548452",
+      "time": "2026-05-07 00:07:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 2.19% Higher — The FTSE 100 Index rose 224 points or 2.19 percent on Wednesday to close at 10443 points. Leading the gains are Fresnillo (11.24%), Endeavour (8.89%) and Easyjet Plc (8.04%)."
+    },
     {
       "id": "4864003",
       "time": "2026-05-07 00:04:56",
@@ -96109,38 +96133,6 @@
         "國際"
       ],
       "text": "【伊朗議長稱特朗普試圖迫使德黑蘭投降】伊朗議會議長卡利巴夫表示，美國總統特朗普正試圖透過經濟壓力和製造內部分裂迫使伊朗投降。卡利巴夫在一段向伊朗民眾發表的音訊講話中稱：“特朗普公然將國家劃分為強硬派和溫和派，然後立即談及實施海上封鎖，試圖透過經濟壓力和內部分裂迫使伊朗投降。”他補充稱，唯一能夠“對抗敵人”的辦法是實現國家團結。他還強調，伊朗的軍事和政治官員保持完全一致的立場。"
-    },
-    {
-      "id": "4851558",
-      "time": "2026-04-30 00:08:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "菲利普斯66：成品油市場前景收緊程度進一步加劇，預計今年剩餘時間煉油利潤率仍將保持利好。"
-    },
-    {
-      "id": "4851557",
-      "time": "2026-04-30 00:08:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊朗境內的石油倉儲設施與輸油管道已瀕臨爆炸臨界點。"
-    },
-    {
-      "id": "4851556",
-      "time": "2026-04-30 00:08:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯別爾哥羅德州長：烏克蘭無人機襲擊俄羅斯別爾哥羅德州，造成3人死亡、8人受傷。"
-    },
-    {
-      "id": "4851555",
-      "time": "2026-04-30 00:06:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "菲利普斯66：（原油）市場波動可能持續到2027年。"
     }
   ]
 }
