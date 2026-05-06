@@ -1,7 +1,75 @@
 {
-  "updated": "2026-05-06 15:11:07",
+  "updated": "2026-05-06 15:14:30",
   "count": 11683,
   "items": [
+    {
+      "id": "te:economy:548198",
+      "time": "2026-05-06 15:14:13",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Czech Republic",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Czech Republic Inflation at 6-Month High — The annual inflation rate in the Czech Republic rose to 2.5% year-on-year in April 2026 from 1.9% in the previous month, in line with market expectations, according to preliminary estimates. This marked the highest level since October 2025, driven by a sharp increase in alcoholic beverages and tobacco (5.2% vs 3.3% in March). Prices also rebounded for energy (1.5% vs -1.7%), while goods inflation accelerated (1.1% vs 0.1%) and services edged up (4.8% vs 4.7%). In contrast, deflation in food and soft drinks persisted (-1.3% vs -1.1%). On a monthly basis, consumer prices increased 0.5% in April, slightly easing from 0.6% in the prior period."
+    },
+    {
+      "id": "4862852",
+      "time": "2026-05-06 15:13:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【白犀牛完成C1輪融資】5月6日，白犀牛宣佈完成C1輪融資。本次融資由戰略投資方某頭部全球物流產業資本、深圳南山戰新投，以及老股東元禾厚望等多方聯合注資，資金將主要用於核心技術研發迭代、車規級產品規模化量產、多場景商業化拓展及全球市場佈局。"
+    },
+    {
+      "id": "4862851",
+      "time": "2026-05-06 15:12:54",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【東吳證券：維持海南機場“增持”評級，美蘭並表Q1收入增長，封關帶動客流增長】東吳證券研報指出，美蘭並表海南機場Q1收入增長，封關帶動客流增長。2025年公司實現營收44.20億元，同比+1.19%；歸母淨利潤2.19億元，同比-52.33%。26Q1營收大幅增長主要系美蘭空港並表，帶動扣非淨利潤顯著增長。公司融入海南國資後開啟高質量發展，持續推進去地產化工作，收購美蘭空港後將實現海南自貿港民航機場資源深度整合。考慮房地產業務下滑、鳳凰機場T3投運成本增加等原因，下調26/27年歸母淨利潤為2.3/2.5億元（前值為10.2/13.7億元），新增28年歸母淨利潤為2.7億元，對應26-28年PE估值為179/165/155倍。考慮公司統一運營管理海南三大機場，有望持續享受海南赴島遊的繁榮及未來自貿港政策紅利，維持“增持”評級。"
+    },
+    {
+      "id": "4862850",
+      "time": "2026-05-06 15:12:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【空客計劃 2020 年以來首次發債 應對供應鏈中斷】空中客車公司正計劃發行公募債券，為2020 年以來首次發債。受年初經營承壓影響，公司擬藉此補充現金儲備。知情人士透露，這家航空航天及防務企業已啟動7 年期歐元高階債券的發行工作。資料顯示，上一次進行國際債券融資還是近六年前新冠疫情暴發初期。該知情人士稱，本次債券發行定價利差為較中期互換利率溢價 90 至 95 個基點。"
+    },
+    {
+      "id": "te:economy:548197",
+      "time": "2026-05-06 15:12:02",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "UK Gilt Yields Fall on US-Iran Deal Optimism — UK 10-year gilt yields eased to 5.0% on Wednesday as hopes of a US-Iran deal pushed oil prices lower, reducing inflation concerns. While US President Donald Trump paused \"Project Freedom\" in the Strait of Hormuz, citing progress in talks, he maintained the blockade on Iranian ports. Despite the decline, gilt yields remain near 18-year highs, as investors still anticipate potential Bank of England interest rate hikes due to the prolonged Middle East conflict's impact on already above-target inflation and domestic political pressure. Markets are pricing in at least two quarter-point rate hikes from the Bank of England this year, following last month's decision to hold rates steady. Governor Andrew Bailey described the move as a \"difficult judgement call,\" warning of risks in delaying action. Attention is also turning to Britain’s municipal elections on Thursday, with polls suggesting a possible setback for Prime Minister Keir Starmer’s Labour Party."
+    },
+    {
+      "id": "4862849",
+      "time": "2026-05-06 15:11:28",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "寶馬執行長：我們認為，這（特朗普關稅公告）是促成貿易協議落地僅剩的契機。"
+    },
+    {
+      "id": "4862848",
+      "time": "2026-05-06 15:10:57",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【伯恩斯坦：寶馬汽車業務表現良好】Bernstein分析師在一份研究報告中表示，寶馬第一季度業績表明其備受關注的汽車業務表現良好，盈利能力和現金流均超出預期。這家德國汽車製造商公佈的集團收入和息稅前收益低於平均預期。Bernstein表示，這部分是由於其摩托車和金融服務部門的業績弱於預期。Bernstein的分析師表示，寶馬汽車業務的息稅前利潤率為5%，處於其4%至6%全年預期區間的中間值，且比平均預期高出30個基點。他們補充說，這是在沒有計入美國任何關稅退款的情況下實現的。該股大漲4.6%。"
+    },
     {
       "id": "4862847",
       "time": "2026-05-06 15:09:59",
@@ -98630,62 +98698,6 @@
         "國際"
       ],
       "text": "馮德萊恩：中東衝突的後果可能持續多年。"
-    },
-    {
-      "id": "4849718",
-      "time": "2026-04-29 15:14:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "馮德萊恩：伊朗和平協議必須包括霍爾木茲自由過境。"
-    },
-    {
-      "id": "4849717",
-      "time": "2026-04-29 15:14:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "馮德萊恩：伊朗和平協議必須涵蓋核問題與導彈問題。"
-    },
-    {
-      "id": "4849716",
-      "time": "2026-04-29 15:13:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "【騰訊文件接入WorkBuddy資料庫】4月29日，騰訊文件宣佈正式接入WorkBuddy資料庫。據介紹，使用者只需在WorkBuddy PC端或微信小程式完成一次授權，AI就能直接讀取騰訊文件裡的資料，無需下載、上傳或頻繁切換應用，自動完成從資料獲取到內容產出的全流程操作。"
-    },
-    {
-      "id": "4849715",
-      "time": "2026-04-29 15:12:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "馮德萊恩：我們的制裁正在扼殺俄羅斯的戰爭經濟。"
-    },
-    {
-      "id": "4849714",
-      "time": "2026-04-29 15:12:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【正泰新能與Midsummer達成戰略合作 將為其供應高效光伏元件】4月27日，正泰新能與英國頭部可再生能源分銷商Midsummer於英國劍橋郡正式簽約，達成戰略合作伙伴關係。雙方聚焦英國戶用及工商業光伏市場，攜手加速區域清潔能源普及，助推英國能源轉型與低碳發展。此次合作協議達成後，正泰新能將為Midsummer供應ASTRO N7s 2.0高效光伏元件。"
-    },
-    {
-      "id": "4849713",
-      "time": "2026-04-29 15:12:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "瑞銀執行長埃爾莫蒂：希望議會能考量廣大利益相關者對資本規劃提出的關切。"
-    },
-    {
-      "id": "4849712",
-      "time": "2026-04-29 15:11:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "【特斯拉中國官宣5月購車政策】4月29日，特斯拉中國發布5月購車政策，Model 3/Y/Y L可享5年0息，首付低至7.99萬元，月供低至2460元。另有1-5年低息方案，首付低至4.59萬元。"
     }
   ]
 }
