@@ -1,7 +1,76 @@
 {
-  "updated": "2026-05-06 15:38:12",
-  "count": 11700,
+  "updated": "2026-05-06 15:41:36",
+  "count": 11708,
   "items": [
+    {
+      "id": "te:markets:548224",
+      "time": "2026-05-06 15:41:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "French Stocks Extend Gains — The CAC 40 climbed 1.2% to 8,157 on Wednesday, extending gains from the previous session as an improving geopolitical backdrop and upbeat corporate earnings buoyed investor sentiment. US President Trump signaled a pause in efforts to assist stranded vessels in the Strait of Hormuz, citing ongoing diplomatic discussions with Iran. He added that “great progress” had been made toward a potential peace agreement, helping to calm concerns over disruptions in a key global energy corridor. On the corporate front, AXA gained 2.1% after reporting solid Q1 growth and expressing confidence in achieving FY earnings targets. Financial peers followed suit, particularly BNP Paribas (2.3%), Crédit Agricole (2.6%), and Société Générale (2.5%). Luxury heavyweights also performed well, including LVMH (1.3%), Hermès (0.8%), and Kering (1.4%). Meanwhile, industrial output rose 1% month-on-month in March, surpassing expectations of a 0.5% increase and rebounding from a revised 0.9% drop in February."
+    },
+    {
+      "id": "4862909",
+      "time": "2026-05-06 15:40:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "【電影票降價了 五一檔平均票價36.3元】各地以真金白銀送出惠民觀影福利，加深文旅聯動，創新“電影+”模式，打造假日經濟新亮點。“五一”期間，北京、河北、浙江、安徽、雲南等地相繼推出觀影補貼。四川五天內發放300萬元電影消費券，配套發放100萬元美食文旅補貼，讓看電影更實惠。今年五一檔平均票價36.3元，去年同期平均票價39.5元，同比下降8%（央視財經）"
+    },
+    {
+      "id": "4862908",
+      "time": "2026-05-06 15:40:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "波蘭國防部長科夏奇克-卡米什：北約成員國需在2030年前將國防開支佔GDP的比重提升至5%，否則恐為時已晚。"
+    },
+    {
+      "id": "4862907",
+      "time": "2026-05-06 15:39:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【土耳其對涉華聚乙烯、聚丙烯制防水油布啟動反傾銷日落複審調查】5月5日，土耳其釋出第2026/13號公告稱，應土耳其生產商申請，對原產於中國和越南的聚乙烯、聚丙烯制防水油布啟動反傾銷第三次日落複審調查。案件調查期間，現行反傾銷稅持續有效。公告自發布之日起生效。"
+    },
+    {
+      "id": "4862906",
+      "time": "2026-05-06 15:39:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【諾和諾德：一季度司美格魯肽全系放量】諾和諾德釋出2026年第一季度財報，第一季度銷售達到968.23億丹麥克朗，以固定匯率計算增長32%。一季度，司美格魯肽全線維持增長態勢，合計銷售額突破528.88億丹麥克朗。減重版司美格魯肽注射液Wegovy®（國內商品名諾和盈®）和降糖版司美格魯肽注射液Ozempic®（國內商品名諾和泰®）分別錄得182.35億與278.25億丹麥克朗。"
+    },
+    {
+      "id": "4862905",
+      "time": "2026-05-06 15:39:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【上交所：滬市主機板公司業績說明會“惠民促消費”主題周正式開啟】2026年5月6日，滬市主機板公司業績說明會“惠民促消費”主題周正式拉開帷幕。滬市主機板公司積極順應消費升級趨勢，持續豐富優質供給、創新消費場景，在服務民生需求的同時不斷拓展發展空間。在接下來的一個月內，貴州茅臺、南方航空、東鵬飲料、片仔癀、雅戈爾等滬市主機板公司將緊扣消費領域發展趨勢，圍繞年度經營情況、業務佈局及行業趨勢，展示公司在產品升級、品牌打造、渠道拓展等方面的積極探索。同時，本次主題周活動內將舉辦“悠享生活”“悅享文旅”“鄉村振興”專場活動，分別邀請相關產業鏈公司代表集體召開業績說明會，集中展現公司風采。屆時，各公司董事長、總經理、財務負責人、董事會秘書及獨立董事等將出席說明會，系統解讀經營成果，回應市場關切，進一步提升資訊披露質量與溝通效果。（上交所釋出）"
+    },
+    {
+      "id": "4862904",
+      "time": "2026-05-06 15:38:55",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美國汽油價格突破每加侖 4.50 美元，創 2022 年 7 月以來新高】受中東長期衝突持續影響，美國普通無鉛汽油全國平均零售價於週二升至每加侖 4.54 美元，突破 4.50 美元關口，為 2022 年 7 月以來首次，油價漲勢延續，民眾出行成本壓力進一步加大。當前價格較 2022 年 6 月創下的 5.01 美元歷史峰值僅差約 50 美分；從季節性來看，已創歷年同期最高紀錄。自伊朗戰爭爆發以來，汽油價格漲幅已超每加侖 1.50 美元。特朗普近期稱衝突解決已取得 “重大進展”，市場正密切關注局勢緩和的任何突破訊號。"
+    },
+    {
+      "id": "4862903",
+      "time": "2026-05-06 15:38:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "俄檢方通報：一架 Aeroprakt-22 輕型飛機在鄂木斯克地區墜毀。"
+    },
     {
       "id": "4862902",
       "time": "2026-05-06 15:37:46",
