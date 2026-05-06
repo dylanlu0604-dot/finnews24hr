@@ -1,7 +1,1857 @@
 {
-  "updated": "2026-05-06 18:19:47",
-  "count": 11655,
+  "updated": "2026-05-06 19:21:52",
+  "count": 11558,
   "items": [
+    {
+      "id": "te:economy:548376",
+      "time": "2026-05-06 19:21:23",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Treasury Yields Fall Sharply — The yield on the US 10-year Treasury note fell around 7bps to 4.34% on Wednesday, extending a 2bps decline in the previous session, as a sharp drop in oil prices eased inflation concerns. Oil came under pressure amid hopes that the conflict with Iran could be nearing an end. Axios reported that the White House believes it is close to reaching an agreement with Iran on a preliminary memorandum of understanding to halt the war and set the stage for more detailed nuclear negotiations, citing two US officials and other sources. In addition, the US said its offensive operations against Iran had concluded and announced a temporary pause in “Project Freedom.” The decline in oil prices helped ease fears of renewed inflationary pressures. Investors are now awaiting the Treasury’s Refunding Announcement, after estimates released on Monday showed the US Treasury expects to borrow $189 billion in the second quarter, $79 billion more than previously projected in February."
+    },
+    {
+      "id": "4863521",
+      "time": "2026-05-06 19:21:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "陶氏美股盤前跌超10%，現報36.67美元。"
+    },
+    {
+      "id": "te:markets:548375",
+      "time": "2026-05-06 19:20:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Pound Hits Over Two-Month High Amid US-Iran Deal Hopes — The British pound climbed above $1.36, reaching its strongest level since mid-February, as the US dollar’s safe-haven appeal faded amid growing optimism over a potential US-Iran agreement. According to Axios, the White House is close to a one-page Memorandum of Understanding with Iran to end the conflict and begin nuclear negotiations, the closest the parties have been to a deal since the conflict started. Tehran is expected to respond within 48 hours, though no agreement is finalized. Investors also focused on Britain’s municipal elections on Thursday, with polls suggesting Prime Minister Keir Starmer’s Labour Party might face a significant setback. On monetary policy, financial markets now price in about 50 basis points of tightening, equivalent to two rate hikes, by year-end, down from up to three hikes priced in earlier this month."
+    },
+    {
+      "id": "4863520",
+      "time": "2026-05-06 19:20:57",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【“五一”假期 全國食品安全總體平穩有序】記者今天（5月6日）瞭解到，“五一”假期，群眾聚餐頻次和食品消費量明顯增長。市場監管總區域性署各地市場監管部門聚焦重點領域，全面強化監管、壓實各方責任，嚴厲打擊違法違規行為，切實保障群眾飲食安全，維護消費者合法權益。各地市場監管部門結合“五一”期間食品消費特點，緊盯重點環節、重點場所、重點品類，聚焦旅遊景區、交通樞紐、商業街區、農村集市、婚宴酒店等重點區域，圍繞餐飲服務、食品銷售、網路訂餐、節令食品等關鍵領域開展監督檢查，強化全鏈條風險防控，加大抽檢監測與執法辦案力度，暢通投訴舉報渠道，完善應急值守機制，堅決防範群體性食品安全事件。據不完全統計，“五一”假期，全國市場監管部門累計檢查食品生產經營主體61萬餘家次，監督抽檢4.2萬餘批次，未發生重大食品安全事故。(央視新聞)"
+    },
+    {
+      "id": "4863518",
+      "time": "2026-05-06 19:20:13",
+      "tags": [
+        "行業"
+      ],
+      "text": "【崔東樹：建議推出經濟型電動車標準】乘聯分會秘書長崔東樹發文稱，中國應加快推出經濟型電動車標準，完善C7駕照、推動其體系化普及並建立世界優勢。當前，經濟型電動車已成為全球代步車型主流，憑藉經濟、便捷、實用的特點，適配多個國家和地區的民生需求，推出統一標準既是適配國內老齡化、縣鄉市場等需求、破解車市低迷等行業痛點的關鍵，也是對接國際市場、推動汽車產業升級、培育本土出海品牌的重要舉措。"
+    },
+    {
+      "id": "4863517",
+      "time": "2026-05-06 19:19:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【共進股份：擬以5000萬元增資弘光向尚 持股7.0621%】共進股份公告，擬以自有資金5000萬元對弘光向尚進行增資，其中100.14萬元計入新增註冊資本，剩餘4899.86萬元計入資本公積。增資完成後，公司將持有弘光向尚7.0621%的股權。弘光向尚為新一代積體電路矽基光電整合晶片設計的高科技企業，2025年營業收入為3.47萬元，淨利潤為-1352.59萬元。本次交易構成關聯交易，獨立董事王新河迴避表決。交易不構成重大資產重組，已獲董事會審議透過，無需提交股東大會審議。"
+    },
+    {
+      "id": "4863516",
+      "time": "2026-05-06 19:19:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華貿物流：4名高管減持計劃期滿 均未實施減持】華貿物流公告稱，2026年1月8日披露4名高管減持計劃，董事、總經理陳宇擬減持不超204,000股（佔總股本0.0156%）；財務總監兼董秘於永乾擬減持不超118,600股（佔0.0091%）；副總經理蔣波擬減持不超101,500股（佔0.0078%）；副總經理吳灝擬減持不超38,600股（佔0.0029%）。截至公告披露日，減持時間區間（1月30日-4月30日）已屆滿，4人未進行減持。"
+    },
+    {
+      "id": "te:markets:548374",
+      "time": "2026-05-06 19:18:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Rolls-Royce Stock Price Hits 8-week High — Rolls-Royce shares increased to 1330.00 GBp, the highest since March 2026. Over the past 4 weeks, Rolls-Royce gained 16.03%, and in the last 12 months, it increased 73.08%."
+    },
+    {
+      "id": "4863515",
+      "time": "2026-05-06 19:18:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈塞特：美國預計全年GDP增長率為4%。"
+    },
+    {
+      "id": "4863514",
+      "time": "2026-05-06 19:17:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約商品交易所6月交貨的輕質原油期貨價格盤中一度跌破每桶90美元，跌幅超12%。"
+    },
+    {
+      "id": "4863513",
+      "time": "2026-05-06 19:17:27",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "【東方證券：購買上海證券股權，停牌前股價無異常波動】東方證券公告稱，公司擬透過發行A股股份及支付現金的方式購買上海證券100%的股權，股票自2026年4月20日開市起停牌。停牌前第21個交易日（2026年3月19日）收盤價為9.60元/股，停牌前一交易日（2026年4月17日）收盤價為9.34元/股，20個交易日內公司股價跌幅2.71%。剔除大盤和同行業板塊因素影響後，公司股票價格累計漲跌幅未超20%，未出現異常波動情形。"
+    },
+    {
+      "id": "te:markets:548373",
+      "time": "2026-05-06 19:17:21",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Euro Gains Ground Amid US-Iran Deal Optimism — The euro extended its gain toward $1.18, reaching its strongest level since April 20, as the US dollar’s safe-haven appeal faded amid growing optimism over a potential US-Iran agreement. According to Axios, the White House is close to a one-page Memorandum of Understanding with Iran to end the conflict and begin nuclear negotiations, the closest the parties have been to a deal since the conflict started. Tehran is expected to respond within 48 hours, though no agreement is finalized. Money markets have scaled back bets on European Central Bank rate hikes, now expecting the deposit facility rate to reach around 2.6% by December, reflecting two fully priced hikes, with a 75% chance of a first increase in June. On Wednesday, ECB board member Piero Cipollone said the likelihood of a rate hike had risen due to persistent inflation pressures, echoing similar remarks from other policymakers earlier this month."
+    },
+    {
+      "id": "4863512",
+      "time": "2026-05-06 19:17:17",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "希臘財政部長：希臘將在6月提前償還69億歐元的首批救助貸款。希臘公共債務佔GDP比率預計明年將接近130%。"
+    },
+    {
+      "id": "4863511",
+      "time": "2026-05-06 19:17:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【康拓醫療：2025年度擬每股派發現金紅利0.32元】康拓醫療公告稱，2025年度利潤分配方案已獲2026年4月21日的2025年年度股東會審議透過。本次利潤分配以總股本81,239,172股為基數，每股派發現金紅利0.32元（含稅），共計派發現金紅利2599.65萬元。股權登記日為2026年5月12日，除權（息）日和現金紅利發放日為2026年5月13日。"
+    },
+    {
+      "id": "4863510",
+      "time": "2026-05-06 19:16:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈塞特：沒有私人信貸的人不必擔心。"
+    },
+    {
+      "id": "4863509",
+      "time": "2026-05-06 19:16:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【DeepSeek被曝投後估值或達450億美元】據媒體報道，包括國家積體電路產業投資基金在內的多家官方投資機構正在洽談領投DeepSeek首輪融資，此次融資可能使DeepSeek估值達到約450億美元，不過上述訊息尚未得到證實。（澎湃）"
+    },
+    {
+      "id": "4863508",
+      "time": "2026-05-06 19:15:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "甲骨文美股盤前漲超2%，現報189.15美元。"
+    },
+    {
+      "id": "4863507",
+      "time": "2026-05-06 19:15:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海啟動國家資料領域國際合作綜合試點】記者從2026全球數字合作交流會暨全球資料周獲悉，上海作為資料領域國際合作首批試點，正式啟動國家資料領域國際合作綜合試點工作。本次試點聚焦6大板塊、17項具體任務，面向2030年，上海著力構建設施領先、規則互認、載體賦能、場景融合的國際資料合作新體系，緊扣釋放資料價值、繁榮數字經濟、推進數字出海服務，打造“高標準跨境資料新基座、高質量規則互認新體系、高能級國際合作新載體、高協同出海服務新生態”的工作格局，為參與全球數字治理、推動資料跨境便捷流動探索創新。（21世紀經濟報道）"
+    },
+    {
+      "id": "4863506",
+      "time": "2026-05-06 19:15:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "漢莎航空正在制定應對今年夏天可能出現燃油短缺的應急計劃，其中包括在目前直飛航班中增加停靠點。"
+    },
+    {
+      "id": "4863505",
+      "time": "2026-05-06 19:14:22",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "哈塞特：我們並沒有威脅美聯儲的獨立性。"
+    },
+    {
+      "id": "4863504",
+      "time": "2026-05-06 19:14:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈塞特：行政命令將為人工智慧提供“清晰路線圖”。"
+    },
+    {
+      "id": "4863503",
+      "time": "2026-05-06 19:14:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈塞特：正在研究可能關於人工智慧和商業的行政命令。"
+    },
+    {
+      "id": "4863502",
+      "time": "2026-05-06 19:13:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "交易商稱，約旦此次12萬噸大麥招標目前已收到5家參與方的報價。"
+    },
+    {
+      "id": "te:markets:548372",
+      "time": "2026-05-06 19:13:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "NRG Energy earnings below expectations at 1.49 USD — NRG Energy (NRG) released earnings per share at 1.49 USD, compared to market expectations of 2.77 USD."
+    },
+    {
+      "id": "te:markets:548370",
+      "time": "2026-05-06 19:12:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Rise to New Records — Futures tracking US equities surged on Wednesday as a potential end to the war with Iran improved the macroeconomic backdrop, while a series of strong earnings boosted AI stocks. Contracts for the S&P 500 and the Nasdaq 100 gained 1% and 1.5%, respectively, for new records, while those for the Dow were 500 points higher. The US reportedly was close to agreeing to a memorandum from Iran, potentially restoring trade through the Strait of Hormuz and triggering a slide in energy prices. Equities across a broad range of sectors rose on the developments. Meanwhile, AMD surged by 20% after beating earnings estimates and lifting its guidance on soaring levels of data center growth. Consistently, Super Micro Computer rose 15% on strong earnings. The news lifted others in the AI infrastructure space with Nvidia, Sandisk, Micron, and Intel adding over 3%. Also on the earnings front, Disney jumped 5% after reporting strong revenues."
+    },
+    {
+      "id": "4863501",
+      "time": "2026-05-06 19:12:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈塞特：Mythos模型暴露了我們此前忽視的各類安全漏洞隱患。"
+    },
+    {
+      "id": "4863500",
+      "time": "2026-05-06 19:11:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞典水庫蓄水率為27.2%，前一週為25.0%。"
+    },
+    {
+      "id": "4863499",
+      "time": "2026-05-06 19:10:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "哈塞特：鮑威爾的處境仍然不明朗。"
+    },
+    {
+      "id": "4863498",
+      "time": "2026-05-06 19:10:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "HUT 8 CORP 股價延續漲勢，漲幅高達 28%。"
+    },
+    {
+      "id": "4863497",
+      "time": "2026-05-06 19:10:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所（ICE）資料顯示，荷蘭近月天然氣價格下跌13%，至40.78歐元/兆瓦時。"
+    },
+    {
+      "id": "4863496",
+      "time": "2026-05-06 19:10:25",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "標普全球：羅馬尼亞削減財政赤字的承諾意味著未來幾年將出臺額外的整固措施。"
+    },
+    {
+      "id": "4863495",
+      "time": "2026-05-06 19:10:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "標普全球：能源價格衝擊的滯脹影響及相關支援措施可能會給中東歐的財政狀況帶來更大壓力。"
+    },
+    {
+      "id": "4863494",
+      "time": "2026-05-06 19:10:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普全球：羅馬尼亞聯合政府倒臺“或導致2027年預算討論複雜化”。"
+    },
+    {
+      "id": "4863493",
+      "time": "2026-05-06 19:09:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "迪拜媒體辦公室：2025年透過迪拜國際金融中心經紀成交的保費總額突破34億美元。"
+    },
+    {
+      "id": "4863492",
+      "time": "2026-05-06 19:09:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油失守97美元/桶，日內跌11.79%。"
+    },
+    {
+      "id": "4863491",
+      "time": "2026-05-06 19:09:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【李飛飛的AI遊戲初創公司Astrocade完成5600萬美元融資】近日，AI科學家李飛飛聯合創辦的AI遊戲公司Astrocade完成5600萬美元新融資，旨在打造一種全新的互動娛樂平臺。本輪融資包括由紅杉資本領投的B輪融資和由Sea領投的A輪融資，參投名單包括谷歌、英偉達、LG Technology Ventures、Dentsu Ventures,、Conviction Embed、Chaac Ventures、Rogue VC等眾多機構。"
+    },
+    {
+      "id": "4863490",
+      "time": "2026-05-06 19:09:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油失守89美元/桶，日內跌13.03%。"
+    },
+    {
+      "id": "4863489",
+      "time": "2026-05-06 19:09:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌13%，現報88.95美元/桶。"
+    },
+    {
+      "id": "4863488",
+      "time": "2026-05-06 19:08:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【司南導航：董事翟傳潤已減持0.18%】司南導航公告，公司董事、副總裁兼董事會秘書翟傳潤已完成減持計劃，2026年2月6日至2026年5月5日透過集中競價減持14.73萬股，佔公司總股本0.18%，成交價40.18～49元/股，減持金額624.17萬元；減持後持股44.2萬股，佔0.55%，此前持股58.93萬股，佔0.73%。"
+    },
+    {
+      "id": "4863487",
+      "time": "2026-05-06 19:08:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【永傑新材：收到上交所重大資產重組草案的問詢函】永傑新材公告，公司於2026年5月6日收到上海證券交易所上市公司管理一部《關於對永傑新材料股份有限公司重大資產重組草案的問詢函》。問詢函針對公司擬現金購買奧科寧克中國持有的秦皇島標的100%股權和崑山標的95%股權的交易目的、交易方案、標的資產的財務狀況、估值及業務、償債壓力等方面提出多項問題，要求公司作出說明和補充披露。公司將按照要求組織相關各方進行回覆並履行資訊披露義務。"
+    },
+    {
+      "id": "te:markets:548367",
+      "time": "2026-05-06 19:08:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Marriott International earnings above expectations at 2.72 USD — Marriott International (MAR) released earnings per share at 2.72 USD, compared to market expectations of 2.53 USD."
+    },
+    {
+      "id": "4863486",
+      "time": "2026-05-06 19:08:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股三大指數期貨均漲超1%】標普500指數期貨上漲1%，納斯達克100指數期貨上漲1.71%，道瓊斯指數期貨上漲1.22%。"
+    },
+    {
+      "id": "4863485",
+      "time": "2026-05-06 19:08:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈塞特：信用卡消費“飆升”。"
+    },
+    {
+      "id": "4863484",
+      "time": "2026-05-06 19:07:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "《紐約時報》第一季度總營收為7.122億美元。"
+    },
+    {
+      "id": "te:markets:548366",
+      "time": "2026-05-06 19:07:37",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Shell Stock Price Hits 8-week Low — Shell shares decreased to 36.41 EUR, the lowest since March 2026. Over the past 4 weeks, Shell plc lost 10.63%, and in the last 12 months, it increased 26.89%."
+    },
+    {
+      "id": "4863483",
+      "time": "2026-05-06 19:07:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍對黎巴嫩多地真主黨目標發動打擊】以色列國防軍當地時間6日午間說，以軍已開始打擊黎巴嫩多個地區的黎真主黨武裝基礎設施。 當天早些時候，以國防軍發言人要求黎巴嫩南部12個村鎮的居民撤離。 以軍早些時候在另一份宣告中稱，過去24小時，以軍打擊了約25個黎真主黨目標，包括武器庫、用於軍事用途的建築物等。以軍還說，真主黨6日上午向駐紮在黎南部的以軍發射了數枚火箭彈、迫擊炮彈以及無人機，但“沒有造成任何人員傷亡”。 據《以色列時報》報道，以軍正按照以防長卡茨的指示，在以色列控制的黎南部“安全緩衝區”內拆毀黎村莊房屋，稱這些房屋“要麼被用來儲存真主黨的武器，要麼可能被用來襲擊以色列”。(新華社)"
+    },
+    {
+      "id": "4863482",
+      "time": "2026-05-06 19:07:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人6日對美國消費者新聞與商業頻道說，伊朗正在“評估”美方提出的包括14個條款的停戰諒解備忘錄。（新華社）"
+    },
+    {
+      "id": "4863481",
+      "time": "2026-05-06 19:07:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京面向高校應屆畢業生配租3500套房源】北京保障房中心日前釋出訊息，為緩解新畢業大學生留京居住難題，落實首都高水平人才高地建設戰略部署，北京保障房中心將持有運營的部分專案房源面向高校應屆畢業生專項配租，本次配租房源共計3500套，意向登記將於5月8日正式開啟，至5月底結束。（新華社）"
+    },
+    {
+      "id": "4863480",
+      "time": "2026-05-06 19:06:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "阿斯麥美股盤前漲超6%，現報1529.594美元。"
+    },
+    {
+      "id": "4863479",
+      "time": "2026-05-06 19:06:34",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【ST清越：股票交易異常波動 多項風險情形尚未消除】ST清越公告稱，公司股票在2026年4月30日、5月6日連續2個交易日收盤價格跌幅偏離值累計超30%，屬異常波動。經自查及問詢，截至5月6日，公司、控股股東及實控人無應披露未披露重大資訊，生產經營未變。因2025年度財務報告內控被出具否定意見，公司4月30日起被實施其他風險警示，簡稱變更為“ST清越”，該風險未消除。此外，公司因涉嫌財務資料虛假記載被立案，調查尚在進行中。"
+    },
+    {
+      "id": "4863478",
+      "time": "2026-05-06 19:06:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "《紐約時報》第二季展望：廣告總收入將實現高個位數增長。"
+    },
+    {
+      "id": "te:economy:548365",
+      "time": "2026-05-06 19:06:07",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Mortgage Rate",
+        "Importance 2"
+      ],
+      "text": "US Mortgage Rates Rise for Second Week — The average US 30-year fixed mortgage rate for conforming loans of $806,500 or less edged up to 6.45% in the week ending May 1, 2026, from 6.37% the previous week, according to the Mortgage Bankers Association’s Weekly Mortgage Applications Survey. The increase tracked a rise in Treasury yields amid elevated geopolitical uncertainties and stalled US-Iran negotiations, as soaring energy prices fueled bets of a Fed hike this year. As a result, total mortgage application volume fell 4.4%, marking the second consecutive weekly decline. Refinance demand dropped 5.0%, while applications to purchase a home decreased by 3.7%."
+    },
+    {
+      "id": "4863477",
+      "time": "2026-05-06 19:06:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌11%，現報97.77美元/桶。"
+    },
+    {
+      "id": "4863476",
+      "time": "2026-05-06 19:05:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "《紐約時報》展望第二季度訂閱總收入將增長10%-12%。"
+    },
+    {
+      "id": "te:economy:548364",
+      "time": "2026-05-06 19:05:44",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Mortgage Applications",
+        "Importance 1"
+      ],
+      "text": "US Mortgage Applications Fall for 2nd Week — Mortgage applications int he US dropped by 4.4% from the previous week in the last week of April, extending the 2.6% drop in the previous week, according to data compiled by the Mortgage Bankers Association. The drop was aligned with the 8bps increase in benchmark mortgage rates, prompted by an increase in Treasury yields of longer maturities in the period as soaring energy prices, evidence of higher underlying inflation and a robust labor market promoted bets of a Fed hike this year. Applications for a contract to refinance a mortgage, which are sensitive to short-term changes in interest rates, fell by 5%. In turn, applications for a mortgage to purchase a new home fell by 3.7%."
+    },
+    {
+      "id": "4863475",
+      "time": "2026-05-06 19:05:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "【融資客出手搶籌15只量子科技概念股】當前，量子科技已成為全球科技競爭的前沿高地。從業績資料來看，今年一季度，僅少數量子科技概念股實現同比增長（含扭虧為盈），其中普源精電、光庫科技、天和防務、九聯科技、亨通光電等淨利潤增速靠前。據資料寶統計，資金面上，截至4月30日收盤，4月以來融資淨買入超1億元的量子科技概念股有15只；3股融資淨買入金額超10億元，分別是亨通光電、中天科技、中國長城。"
+    },
+    {
+      "id": "4863474",
+      "time": "2026-05-06 19:05:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "雪佛龍股價下跌高達5.3%，埃克森美孚股價下跌4.6%。"
+    },
+    {
+      "id": "4863473",
+      "time": "2026-05-06 19:05:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "哈塞特談伊朗：看來他們現在取得了很大進展。"
+    },
+    {
+      "id": "4863472",
+      "time": "2026-05-06 19:04:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【四川長虹：累計回購0.4245%公司股份】四川長虹公告，截至2026年4月30日，公司已累計回購股份1959.67萬股，佔公司截至本公告披露日總股本的比例為0.4245%，購買的最高價為人民幣10.01元/股、最低價為人民幣8.46元/股，已支付的資金總額為人民幣1.83億元（不含交易費用）。"
+    },
+    {
+      "id": "4863471",
+      "time": "2026-05-06 19:04:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "哈塞特談伊朗：昨天戰情室氣氛高昂。"
+    },
+    {
+      "id": "4863470",
+      "time": "2026-05-06 19:03:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【沙特阿美與沙特電信合作 部署下一代超級計算機】沙特阿美與沙特電信公司解決方案部門合作部署下一代超級計算機，此次合作預計將增強阿美在勘探和油田開發運營中的數字化創新能力。"
+    },
+    {
+      "id": "4863469",
+      "time": "2026-05-06 19:02:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "雪佛龍美股盤前跌超5%，現報182.974美元。"
+    },
+    {
+      "id": "4863468",
+      "time": "2026-05-06 19:02:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【湖北省委書記王忠林在武漢調研光電子資訊產業高質量發展】據“湖北釋出”訊息，5月6日，湖北省委書記、省人大常委會主任王忠林在武漢東湖新技術開發區調研光電子資訊產業高質量發展工作。他強調，要以更大力度、更實舉措加強基礎研究，著力提升原始創新能力，加快打造世界級光電子資訊產業叢集。長飛光纖光纜股份有限公司是光纖光纜行業的領軍企業，成功突破了空芯光纖關鍵技術，重新整理全球最低衰減紀錄。王忠林與企業負責人深入交流，希望企業充分發揮光電子資訊產業“鏈主”企業作用，持續強化技術迭代升級，推動產學研用深度融合，進一步鞏固全球行業領先地位。"
+    },
+    {
+      "id": "4863467",
+      "time": "2026-05-06 19:02:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【利爾化學：持股5%以上股東減持150.24萬股 減持比例0.19%】利爾化學公告稱，截至2026年5月5日，持股5%以上股東中通投資有限公司減持計劃期限已屆滿。減持期間為2026年2月10日 - 2026年3月12日，減持方式為集中競價交易，減持均價16.96元/股，減持股數1,502,400股，減持比例0.19%。減持後，中通投資持股68,477,069股，佔總股本比例8.55%。本次減持未超計劃，不會導致公司控制權變化。"
+    },
+    {
+      "id": "4863466",
+      "time": "2026-05-06 19:02:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海順新材：霍爾果斯大甲部分合夥人已減持0.9221%】海順新材公告，霍爾果斯大甲部分合夥人已於2026年2月2日至2026年4月30日透過集中競價減持透過非交易過戶取得的公司首發前股份及資本公積轉增股份，共計減持169.56萬股，減持均價16.65元/股，佔剔除回購股份後總股本的0.9221%，減持後持股數降至0股，減持計劃實施完畢。"
+    },
+    {
+      "id": "4863465",
+      "time": "2026-05-06 19:02:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國石油美股盤前跌超5%，現報44.1美元。"
+    },
+    {
+      "id": "4863464",
+      "time": "2026-05-06 19:01:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【重慶市酉陽縣委書記楊通勝接受紀律審查和監察調查】中央紀委國家監委網站通報，據重慶市紀委監委訊息：重慶市酉陽縣委書記楊通勝涉嫌嚴重違紀違法，目前正接受重慶市紀委監委紀律審查和監察調查。"
+    },
+    {
+      "id": "4863463",
+      "time": "2026-05-06 19:01:08",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國國債擴大漲幅，10年期收益率下跌9個基點至4.33%。"
+    },
+    {
+      "id": "4863462",
+      "time": "2026-05-06 19:00:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "Nyobolt 完成 6000 萬美元融資。"
+    },
+    {
+      "id": "4863461",
+      "time": "2026-05-06 19:00:43",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油失守98美元/桶，日內跌10.84%。"
+    },
+    {
+      "id": "4863460",
+      "time": "2026-05-06 19:00:36",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【科林電氣：股票交易異常波動 一季度營收、淨利雙降】科林電氣公告稱，公司股票於2026年4月29日、4月30日、5月6日連續三個交易日內日收盤價格漲幅偏離值累計超20%，屬異常波動。經自查，公司目前經營正常，除已披露資訊外，無應披露未披露重大事項。2026年一季度，公司合併營收8.66億元，同比降4.97%；淨利潤4238.99萬元，同比降41.70%。此外，期間陳賀、張成鎖按計劃減持股份，公司靜態、市淨率高於行業平均，提醒投資者注意交易風險。"
+    },
+    {
+      "id": "4863459",
+      "time": "2026-05-06 19:00:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國至5月1日當週MBA30年期固定抵押貸款利率 6.45%，前值6.37%。\n美國至5月1日當週MBA抵押貸款申請活動指數 285.3，前值298.5。\n美國至5月1日當週MBA抵押貸款再融資活動指數 928.6，前值977.9。\n美國至5月1日當週MBA抵押貸款購買指數 171.1，前值177.7。"
+    },
+    {
+      "id": "4863458",
+      "time": "2026-05-06 19:00:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【佳禾食品：擬6.5億元投建年產46萬噸超級植物奶專案】佳禾食品公告稱，公司擬以全資子公司南通佳之味為主體，投資6.5億元建設年產46萬噸超級植物奶智慧製造專案，建設地點位於江蘇省南通市海門經濟技術開發區，建設週期3年，預計2026年7月開工，投資收益率預計為13.81%。該議案已透過董事會審議，無需提交股東會。不過，專案存在審批、資金及市場環境等風險。"
+    },
+    {
+      "id": "te:markets:548362",
+      "time": "2026-05-06 18:59:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Johnson Controls earnings above expectations at 1.19 USD — Johnson Controls (JCI) released earnings per share at 1.19 USD, compared to market expectations of 1.11 USD."
+    },
+    {
+      "id": "te:markets:548361",
+      "time": "2026-05-06 18:59:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Uber earnings above expectations at 0.72 USD — Uber (UBER) released earnings per share at 0.72 USD, compared to market expectations of 0.69 USD."
+    },
+    {
+      "id": "4863457",
+      "time": "2026-05-06 18:59:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【峰飛航空科技與高新長空簽署戰略合作及批次採購協議】5月6日，峰飛航空科技宣佈已與濟寧高新長空智航發展有限公司正式簽署戰略合作及批次採購協議。根據協議，高新長空向峰飛航空批次採購包含V2000CG凱瑞鷗、V2000CGF凱瑞鷗消防型、V2000EM盛世龍等eVTOL航空器共計50架，首架V2000CGF凱瑞鷗消防型已於近日完成交付。"
+    },
+    {
+      "id": "4863456",
+      "time": "2026-05-06 18:59:27",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國2至7年期國債收益率當日下跌10個基點。"
+    },
+    {
+      "id": "te:markets:548360",
+      "time": "2026-05-06 18:59:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "BNP Paribas Stock Price Hits 9-week High — BNP Paribas shares increased to 94.56 EUR, the highest since February 2026. Over the past 4 weeks, BNP Paribas gained 12.85%, and in the last 12 months, it increased 24.28%."
+    },
+    {
+      "id": "4863455",
+      "time": "2026-05-06 18:59:12",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "義大利埃尼集團股票停牌後恢復交易，盤前股價下跌6.1%。"
+    },
+    {
+      "id": "4863454",
+      "time": "2026-05-06 18:58:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【依米康與易普集達成戰略合作 共拓預製模組化算力基建市場】據依米康訊息，4月28日，依米康科技集團與易普集實業有限公司正式簽署戰略合作協議。雙方宣佈在資料中心預製模組化領域展開深度協同，以“整合平臺+核心溫控元件”的組合拳，共同搶灘全球算力基建市場。"
+    },
+    {
+      "id": "4863453",
+      "time": "2026-05-06 18:58:05",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "交易員降低對英國央行加息的押注，預計年底前將加息49個基點。"
+    },
+    {
+      "id": "4863452",
+      "time": "2026-05-06 18:57:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鼎龍股份：三類拋光液產品取得重大進展並獲得訂單】鼎龍股份(300054.SZ)公告稱，公司控股子公司—武漢鼎澤新材料技術有限公司，近期在半導體CMP拋光液領域接連取得三項重大進展，分別在大矽片精拋液、氧化鈰拋光液、先進封裝用TSV拋光液領域實現產品突破並獲得客戶訂單。大矽片精拋液、氧化鈰拋光液、先進封裝用TSV拋光液領域在國內的市場規模合計超10億元，目前國產化率極低。公司本次實現多類拋光液產品突破，進一步補齊國內高階CMP拋光液供給短板，更好響應國內多類核心客戶端拋光液本土化供應需求。"
+    },
+    {
+      "id": "4863451",
+      "time": "2026-05-06 18:57:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【首季增速創五年新高 香港經濟穩健開局】5月5日，香港首季經濟成績單出爐。2026年一季度，香港本地生產總值同比實質增長5.9%，季度增速創近五年新高，較去年四季度提速1.9個百分點。(新華社)"
+    },
+    {
+      "id": "te:markets:548359",
+      "time": "2026-05-06 18:57:25",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Exelon earnings above expectations at 0.91 USD — Exelon (EXC) released earnings per share at 0.91 USD, compared to market expectations of 0.87 USD."
+    },
+    {
+      "id": "4863450",
+      "time": "2026-05-06 18:57:23",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國所提方案：以後再與伊朗談判達成全面的核協議。"
+    },
+    {
+      "id": "te:markets:548358",
+      "time": "2026-05-06 18:57:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Platinum Surges as Middle East De-escalation Lifts Metals — Platinum futures rose above $2,000 an ounce, reaching their highest level since April 22, as signs of de-escalation in the Middle East weighed on oil prices, easing inflation concerns. According to Axios, the White House is close to a deal with Iran to end the conflict and begin nuclear negotiations, the nearest to an agreement since the war started. Precious metals had faced significant selling pressure since the war began, as soaring energy costs fueled inflation fears and reinforced expectations that central banks might maintain high interest rates or tighten policy further. Meanwhile, the platinum market remains structurally tight, with production concentrated in South Africa and Russia, making it highly vulnerable to disruption. In South Africa, aging mines and high power costs continue to limit growth, while Russia faces sanctions-related constraints."
+    },
+    {
+      "id": "4863449",
+      "time": "2026-05-06 18:56:59",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國所提方案：伊朗承諾暫停核濃縮活動。"
+    },
+    {
+      "id": "4863448",
+      "time": "2026-05-06 18:56:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "【斯洛伐克擬派F-16戰機參加北約防空任務】當地時間5月6日，斯洛伐克國防部長卡利尼亞克宣佈，斯洛伐克的F-16戰鬥機將參與北約“空中警戒”任務，保護波羅的海國家的領空。斯洛伐克國防部長表示：“我們很高興宣佈，計劃在2027年底參與北約在波羅的海地區的‘空中警戒’任務。”該任務旨在保護立陶宛、拉脫維亞和愛沙尼亞的領空——這些國家雖為北約成員，但沒有本國戰鬥機航空力量。此外，卡利尼亞克表示，從2028年起，斯洛伐克還計劃參與北約輪換式防空任務，並將為此部署兩套來自以色列的Barak MX防空系統。（央視新聞）"
+    },
+    {
+      "id": "4863447",
+      "time": "2026-05-06 18:56:23",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國所提方案：伊朗開始重新開放霍爾木茲海峽，美國解除封鎖。"
+    },
+    {
+      "id": "4863446",
+      "time": "2026-05-06 18:56:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "土耳其主要銀行指數<.XBANK>漲幅擴大，上漲5.15%。"
+    },
+    {
+      "id": "4863445",
+      "time": "2026-05-06 18:56:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【長城汽車：4月因部分可轉債轉股新發行101股A股】長城汽車公告稱，2026年4月1日至30日，因部分可轉債持有者轉股，公司新發行101股A股。截至4月底，公司法定/註冊股本總額為85.58億元。其中，H股法定/註冊股份數目為23.19億股，本月無變動；A股法定/註冊股份數目為62.39億股，較上月底增加101股。"
+    },
+    {
+      "id": "4863444",
+      "time": "2026-05-06 18:55:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "Uber預計第二財季總預訂額為562.5億至577.5億美元，市場預期562.3億美元。"
+    },
+    {
+      "id": "4863443",
+      "time": "2026-05-06 18:54:43",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗稱將確保船隻安全透過霍爾木茲海峽】據伊朗媒體6日報道，伊朗伊斯蘭革命衛隊海軍釋出通告稱，“感謝波斯灣和阿曼灣的船長和船東遵守霍爾木茲海峽的相關規定，併為區域海上安全做出貢獻”。 通告稱：“隨著侵略者的威脅被消除，新的規程已經生效，我們將確保船隻安全、穩定地透過霍爾木茲海峽。”（新華社）"
+    },
+    {
+      "id": "4863442",
+      "time": "2026-05-06 18:54:24",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗正在評估美國提出的結束戰爭新方案。"
+    },
+    {
+      "id": "te:markets:548355",
+      "time": "2026-05-06 18:54:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Palladium Surges on Middle East Deal Hopes — Palladium futures climbed above $1,550 per ounce in May, following gains in other precious metals to reach their highest level since April 20, as signs of de-escalation in the Middle East weighed on oil prices, easing inflation concerns. According to Axios, the White House is close to a deal with Iran to end the conflict and begin nuclear negotiations, the nearest to an agreement since the war started. Precious metals had faced significant selling pressure since the war began, as soaring energy costs fueled inflation fears and reinforced expectations that central banks might maintain high interest rates or tighten policy further. On the supply side, the market remains tight, with output disruptions in South Africa and ongoing geopolitical sensitivity around Russian exports, which continue to face sanctions-related constraints and shifting trade flows."
+    },
+    {
+      "id": "4863441",
+      "time": "2026-05-06 18:54:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4720美元/盎司，日內漲3.59%。"
+    },
+    {
+      "id": "te:markets:548354",
+      "time": "2026-05-06 18:54:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "currency",
+        "Importance 1"
+      ],
+      "text": "Dollar Index Hits 9-week Low — DXY decreased to 97.63, the lowest since February 2026. Over the past 4 weeks, Dollar Index lost 2.22%, and in the last 12 months, it decreased 1.98%."
+    },
+    {
+      "id": "4863440",
+      "time": "2026-05-06 18:54:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4730美元/盎司，日內漲3.55%。"
+    },
+    {
+      "id": "4863439",
+      "time": "2026-05-06 18:53:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞穗將閃迪目標股價從1220美元上調至1625美元。"
+    },
+    {
+      "id": "4863438",
+      "time": "2026-05-06 18:53:52",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油失守90美元/桶，日內跌12.05%。"
+    },
+    {
+      "id": "4863437",
+      "time": "2026-05-06 18:53:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌12%，現報89.95美元/桶。"
+    },
+    {
+      "id": "4863436",
+      "time": "2026-05-06 18:53:44",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油失守99美元/桶，日內跌10.12%。"
+    },
+    {
+      "id": "4863435",
+      "time": "2026-05-06 18:53:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌10%，現報98.76美元/桶。"
+    },
+    {
+      "id": "4863434",
+      "time": "2026-05-06 18:53:42",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【ST龍大：擬向下修正“龍大轉債”轉股價格】ST龍大公告，截至2026年5月6日，公司股票已有十個交易日的收盤價低於當期轉股價格的90%（即3.78元/股），已觸發“龍大轉債”轉股價格向下修正條款。公司董事會提議向下修正“龍大轉債”轉股價格，並提交公司股東會審議。"
+    },
+    {
+      "id": "4863433",
+      "time": "2026-05-06 18:53:32",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "伊朗總統表示：“我已注意到物價上漲的情況。部分漲價源於原材料價格波動，以及民眾皆知的非正義戰爭帶來的相關影響，但囤積居奇、哄抬物價的牟利行為絕不能容忍。 我已責令司法部長協同司法機關，對任何擾亂社會安定的違法行為採取嚴厲整治措施。”"
+    },
+    {
+      "id": "4863432",
+      "time": "2026-05-06 18:52:58",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐股漲幅擴大，法國CAC 40指數漲3%，德國DAX指數漲近3%，歐洲斯托克50指數漲近3%，英國富時100指數漲超2%。"
+    },
+    {
+      "id": "te:markets:548353",
+      "time": "2026-05-06 18:52:27",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Shell Stock Price Hits 8-week Low — Shell shares decreased to 3170.00 GBp, the lowest since March 2026. Over the past 4 weeks, Shell plc lost 11.04%, and in the last 12 months, it increased 30.67%."
+    },
+    {
+      "id": "4863431",
+      "time": "2026-05-06 18:52:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【長陽科技：擬500萬元增資中固時代獲1.6667%股份】長陽科技公告稱，公司擬使用自有資金500萬元向中固時代增資，認繳其新增註冊資本21.30萬元，增資完成後將持有1.6667%的股份。本次投資已透過公司總經理辦公會審議，不構成關聯交易和重大資產重組。中固時代專注固態電池，自成立持續虧損，2025年營收25.69萬元，淨虧損1165.46萬元。協議約定，若2027年營收未達1億元，實際控制人將補償；若2031年底未上市等，投資人有權要求回購股權。"
+    },
+    {
+      "id": "4863430",
+      "time": "2026-05-06 18:51:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【“五一”期間高速公路新能源汽車日均充電量同比增長超50%】記者從國家能源局瞭解到，這個“五一”假期，高速公路新能源汽車充電次數共計397.84萬次，充電量達到9493.14萬千瓦時，日均充電量1898.63萬千瓦時，同比增長52.8%。是今年平日的2.34倍。（央視新聞）"
+    },
+    {
+      "id": "4863429",
+      "time": "2026-05-06 18:51:31",
+      "tags": [
+        "宏觀",
+        "國際",
+        "兩會"
+      ],
+      "text": "【王滬寧會見孟加拉國外交部長卡利勒】中共中央政治局常委、全國政協主席王滬寧6日在京會見孟加拉國外交部長卡利勒。王滬寧表示，2016年，習近平主席對孟加拉國進行歷史性國事訪問，為中孟關係發展指明方向。中方將繼續在和平共處五項原則基礎上發展對孟友好關係，加強兩國高層交往，堅定相互支援，深化各領域合作，推動中孟全面戰略合作伙伴關係走深走實，更好惠及兩國人民。中國全國政協願為此作出積極貢獻。卡利勒表示，中國是孟加拉國的真正朋友。孟方始終視中國為外交優先方向，堅定恪守一箇中國原則，堅定認為聯大第2758號決議不容置疑，堅定支援中國國家統一，期待同中方傳承歷史友好，加強務實合作，將孟中關係提升到更高水平。（新華社）"
+    },
+    {
+      "id": "4863428",
+      "time": "2026-05-06 18:50:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌11%，現報90.91美元/桶。"
+    },
+    {
+      "id": "4863427",
+      "time": "2026-05-06 18:50:43",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油失守91美元/桶，日內跌11.11%。"
+    },
+    {
+      "id": "4863426",
+      "time": "2026-05-06 18:50:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東航物流：聯想控股協議轉讓11.29%股份過戶完成】東航物流公告，公司持股5%以上股東聯想控股將其所持有的公司無限售流通股1.79億股（佔公司總股本的11.29%），透過協議轉讓的方式轉讓給中國物流資本。本次協議轉讓股份事項已透過上海證券交易所合規性確認，並於2026年5月6日取得中國證券登記結算有限責任公司出具的《證券過戶登記確認書》，過戶日期為2026年4月30日，過戶數量為1.79億股，股份性質為無限售流通股，本次股份協議轉讓事項的過戶登記手續已辦理完成。受讓方中國物流資本承諾轉讓完成後的十八個月內不以任何方式減持本次協議受讓的東航物流股份。"
+    },
+    {
+      "id": "4863425",
+      "time": "2026-05-06 18:50:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞穗將AMD目標股價從280美元上調至415美元。"
+    },
+    {
+      "id": "te:markets:548352",
+      "time": "2026-05-06 18:49:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gasoline Sinks from 4-Year High — Gasoline future for delivery at the New York Harbor plummeted to $3.35 per gallon on Wednesday after reaching a four-year high of $3.75 two sessions prior, as the potential end to the war between the US and Iran improved the supply outlook from the Middle East. Reports indicated that the US was close to agreeing on a memorandum to end the conflict with Iran. An end to the war would likely start the process of restoring tanker flows through the Strait of Hormuz, enabling GCC from exporting their full storages of fuel. Shipping activity through Hormuz has been halted since the start of March, disrupting 20 million bpd of oil and refined products for major importers. On top of that, jet fuel and diesel shortages in Europe and Asia drove major energy producers to prioritize their refining capacity for distillates instead of motor gasoline, exacerbating supply risks. Consequently, US gasoline stocks sank for the 11th straight week, depleting inventory ahead of the high-demand summer season."
+    },
+    {
+      "id": "4863424",
+      "time": "2026-05-06 18:49:46",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "路透調查預測：截至7月底，印度盧比兌美元匯率將跌至1美元兌95.00盧比；截至10月底將為1美元兌94.87盧比；截至2027年4月底將為1美元兌95.00盧比。"
+    },
+    {
+      "id": "te:markets:548351",
+      "time": "2026-05-06 18:49:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Solar Energy Index Hits 32-month High — Solar Energy Index increased to 61.99 USD, the highest since August 2023. Over the past 4 weeks, Solar Energy Index gained 12.68%, and in the last 12 months, it increased 105.07%."
+    },
+    {
+      "id": "4863423",
+      "time": "2026-05-06 18:49:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴基斯坦外長：我們正致力於推動美伊停火，最終實現戰爭的永久終結。"
+    },
+    {
+      "id": "4863422",
+      "time": "2026-05-06 18:49:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【立華股份：4月肉雞銷售收入12.28億元 環比增長8.96%】立華股份(300761)5月6日公告，公司2026年4月銷售肉雞4796.03萬隻，銷售收入12.28億元，毛雞銷售均價11.27元/公斤，環比變動分別為13.1%、8.96%、-4.25%，同比變動分別為5.52%、9.16%、0.63%。公司2026年4月銷售肉豬20.81萬頭，銷售收入2.58億元，肉豬銷售均價9.70元/公斤，環比變動分別為11.16%、4.03%、-6.01%，同比變動分別為23.14%、-18.61%、-35.68%。"
+    },
+    {
+      "id": "4863421",
+      "time": "2026-05-06 18:49:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家防總辦公室、應急管理部會商部署南方強降雨和北方部分地區強對流天氣防範應對工作】按照國家防總副總指揮、應急管理部部長張成中工作部署，5月6日，國家防總辦公室、應急管理部組織氣象、水利、自然資源等部門，聯合會商研判近期南方地區新一輪強降雨發展趨勢和北方部分地區強對流天氣情況，部署重點地區防範應對工作。國家防總辦公室主任、應急管理部副部長兼水利部副部長陳敏主持會商。會商指出，5月6日至8日,南方地區自西向東迎來新一輪降水過程，西南地區東部、江南、華南等地有中到大雨，局地暴雨；此外，6日至7日，山西東南部、河北南部、山東西北部、河南北部等地部分地區將有10級以上雷暴大風、冰雹天氣。會商強調，各地各有關部門要提高思想認識，切實把防的工作做在先，壓實壓細防汛減災責任措施。要樹牢底線思維，堅決克服僥倖心理，始終繃緊防汛安全弦，用“事心中有底”的行動力構築起防禦風險的堅固防線。要強化事前預防，全面排查整治山洪和地質災害風險區、中小水庫、中小河流、堤防險工險段、城市地下空間、公路橋隧等重點部位，以及養老院、學校、醫院、工地工棚、民宿農家樂、旅遊景區等重點場所的風險隱患。針對強對流天氣，及時採取設施防風加固、停工停航避險等措施。要加強臨災應對，密切監視雨情、水情、風情發展變化，及時釋出預警資訊，嚴格落實直達基層責任人的臨災預警“叫應”和跟蹤反饋機制，堅持人防、技防、物防結合，緊盯高陡邊坡、靠山臨崖、狹窄行洪河道等高風險區域，果斷轉移受威脅群眾。要加強基層指導培訓，提升基層幹部識別風險、預警“叫應”、組織轉移及先期處置的實戰能力。"
+    },
+    {
+      "id": "4863420",
+      "time": "2026-05-06 18:48:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東鵬飲料：擬10億-20億元回購股份 截至4月底尚未實施】東鵬飲料公告稱，公司於2026年4月1日及4月29日分別透過董事會及股東會審議，同意以集中競價交易方式回購A股股份，金額不低於10億元、不超過20億元，價格不超248元/股，用於登出並減少註冊資本、員工持股計劃或股權激勵，期限自股東會審議透過之日起12個月內。截至2026年4月30日，公司尚未進行股份回購。"
+    },
+    {
+      "id": "4863419",
+      "time": "2026-05-06 18:48:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "百度盤前漲超7%。"
+    },
+    {
+      "id": "4863418",
+      "time": "2026-05-06 18:48:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST美芝：起訴中鐵建工集團 涉案金額1938.56萬元】*ST美芝公告稱，公司因精裝修材料買賣合同糾紛，對被告中鐵建工集團有限公司向廣州鐵路運輸法院提起訴訟，廣州中鐵諾德置業有限公司為第三人，涉案金額暫合計1938.56萬元。案件尚未開庭審理，對公司本期或期後利潤的影響尚不確定。除已披露訴訟、仲裁事項外，公司及控股子公司連續十二個月內累計涉訴7件，涉案金額1184.15萬元。"
+    },
+    {
+      "id": "4863417",
+      "time": "2026-05-06 18:48:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【亞太精選ETF南方提示二級市場溢價風險】南方基金管理股份有限公司公告，公司旗下南方基金南方東英富時亞太低碳精選交易型開放式指數證券投資基金（QDII）（場內簡稱：亞太精選ETF，交易程式碼：159687）二級市場交易價格明顯高於基金份額參考淨值（IOPV），出現較大幅度溢價。特此鄭重提醒廣大投資者，應密切關注二級市場交易價格溢價風險，審慎做出投資決策,如盲目投資，可能遭受重大損失。"
+    },
+    {
+      "id": "4863416",
+      "time": "2026-05-06 18:48:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐元/美元上漲0.8%至1.1786，觸及4月21日以來最高水平。"
+    },
+    {
+      "id": "te:markets:548349",
+      "time": "2026-05-06 18:47:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Silver Surges Over 6% as Middle East Tensions Ease — Silver jumped more than 6% to above $77 an ounce on Wednesday, reaching its highest level since April 21, as signs of de-escalation in the Middle East weighed on oil prices, easing inflation concerns. According to Axios, the White House is close to a deal with Iran to end the conflict and start nuclear talks, the nearest to an agreement since the war began. The proposal would require Iran to accept enhanced UN inspections, halt nuclear enrichment for 12–15 years, potentially transfer highly enriched uranium abroad, and limit underground facilities. In return, the US would gradually lift sanctions and unfreeze billions in Iranian assets. Earlier, US President Donald Trump paused escalation plans, citing progress in talks. Precious metals had faced significant selling pressure since the war began, as soaring energy costs fueled inflation fears and reinforced expectations that central banks might keep interest rates elevated or tighten policy further."
+    },
+    {
+      "id": "4863415",
+      "time": "2026-05-06 18:47:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【恆光股份：股東湘江產業已減持1.95%】恆光股份公告，持股5%股東湘江產業投資有限責任公司減持計劃期限屆滿，2026年3月6日至2026年4月28日透過集中競價減持215.02萬股，減持均價27.62元/股，佔公司總股本1.95%。此前其擬在2026年2月5日至2026年5月4日合計減持不超330萬股即2.99%。減持後持股550.98萬股，佔5.00%，減持前為766萬股，佔6.95%。"
+    },
+    {
+      "id": "4863414",
+      "time": "2026-05-06 18:47:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST萃華：因公司未按規定披露定期報告，中國證監會決定對公司立案】ST萃華公告，公司於近日收到中國證券監督管理委員會下發的《立案告知書》（證監立案字0022026006號），因公司未按規定披露定期報告，根據《中華人民共和國證券法》《中華人民共和國行政處罰法》等法律法規，中國證監會決定對公司立案。"
+    },
+    {
+      "id": "4863413",
+      "time": "2026-05-06 18:47:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "AMD股價延續漲勢，漲幅可能高達20%。"
+    },
+    {
+      "id": "4863412",
+      "time": "2026-05-06 18:46:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "VINFAST在菲律賓正式推出VF MPV 7。"
+    },
+    {
+      "id": "4863411",
+      "time": "2026-05-06 18:46:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "阿里巴巴美股盤前漲超5%，現報139.05美元。"
+    },
+    {
+      "id": "4863410",
+      "time": "2026-05-06 18:46:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【漳汕高鐵山家特大橋開始架樑施工】記者從中鐵十二局集團瞭解到，近日，隨著首榀32米高鐵箱梁穩穩架設在橋墩上，漳汕高鐵廣東段重點工程山家特大橋進入架樑施工階段。漳汕高鐵全線建成通車後，將與福廈高鐵、廣汕高鐵等共同組成沿海大通道，進一步完善區域路網結構，助力東部沿海地區高質量發展。(新華社)"
+    },
+    {
+      "id": "4863409",
+      "time": "2026-05-06 18:45:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【研奧股份：控股股東一致行動人完成減持0.5322%】研奧股份公告，截至2026年5月6日，控股股東一致行動人長春研奧同人投資合夥企業（有限合夥）已完成此前披露的減持計劃，於2026年4月8日至2026年4月30日透過集中競價減持41.83萬股，減持均價28.3元/股，佔公司總股本0.5322%，佔剔除回購專用賬戶股份後總股本0.5356%；減持後持股降至37.17萬股，佔公司總股本0.4729%，佔剔除回購專用賬戶股份後總股本0.4759%。"
+    },
+    {
+      "id": "4863408",
+      "time": "2026-05-06 18:45:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "迪士尼股價延續漲勢，盤前漲幅高達8.7%。"
+    },
+    {
+      "id": "te:markets:548345",
+      "time": "2026-05-06 18:45:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Sensex Hits Over 2-Week High — India’s BSE Sensex rose 1.2% to close at 77,958.5 on Wednesday, an over two-week high, recovering from prior losses. Global market sentiment improved following a drop in crude oil prices after US President Trump claimed progress in negotiations with Iran toward an agreement to end the war. Washington is reportedly nearing a one-page memorandum of understanding with Tehran to end the over two-month conflict. The latest domestic data was also supportive. India’s services sector grew more strongly than initially estimated in April, hitting a five-month high. Moreover, the Indian government’s new credit-guarantee scheme, worth $1.9 billion, gave banks and airlines a lift, with the plan targeting companies heavily impacted by the Middle East crisis. Airline InterGlobe Aviation climbed 6.6%, with banks also advancing significantly. HDFC Bank added 3.1% after Reuters reported that law firms reviewing its governance are set to find no major lapses, paving the way for the CEO’s reappointment."
+    },
+    {
+      "id": "4863407",
+      "time": "2026-05-06 18:45:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【我國首批自主培養的飛艇商用駕駛員持證上崗】記者從中國航空工業集團特種飛行器研究所獲悉，5月6日，我國首批自主培養的4名飛艇駕駛員獲得由中國民用航空局頒發的商業駕駛執照，正式持證上崗。這標誌著我國飛艇商用駕駛員自主培養實現從無到有的突破，為飛艇產業自主可控發展及低空經濟高質量發展奠定堅實基礎。此次獲得商業駕駛執照的4名駕駛員，分別來自客戶單位和研製單位。培訓嚴格遵循中國民用航空局批准的培訓大綱，構建理論、模擬、實操全鏈條課程，學員駕駛國產“祥雲”AS700載人飛艇完成400餘次起降訓練，順利透過考核。(新華社)"
+    },
+    {
+      "id": "4863406",
+      "time": "2026-05-06 18:44:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "蒙特利爾銀行將PayPal目標股價從52美元下調至46美元。"
+    },
+    {
+      "id": "te:markets:548344",
+      "time": "2026-05-06 18:44:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Walt Disney earnings above expectations at 1.57 USD — Walt Disney (DIS) released earnings per share at 1.57 USD, compared to market expectations of 1.5 USD."
+    },
+    {
+      "id": "4863405",
+      "time": "2026-05-06 18:44:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "富國銀行將Shopify目標價從166美元下調至144美元。"
+    },
+    {
+      "id": "te:markets:548343",
+      "time": "2026-05-06 18:44:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gold Surges 3% as Middle East De-escalation Eases Inflation Fears — Gold climbed above $4,700 an ounce on Wednesday, rising for a second consecutive session as signs of de-escalation in the Middle East pushed oil prices lower, easing inflation concerns. According to Axios, the White House is nearing a one-page Memorandum of Understanding with Iran to end the conflict and begin nuclear negotiations, the closest the parties have been to a deal since the conflict started. The proposal would require Iran to accept enhanced UN inspections, halt nuclear enrichment for 12–15 years, potentially transfer highly enriched uranium abroad, and limit underground facilities. In return, the US would gradually lift sanctions and unfreeze billions in Iranian assets. Earlier, US President Donald Trump paused escalation plans, citing progress in talks. Gold has faced significant selling pressure since the war began, as soaring energy costs fueled inflation fears and reinforced expectations that central banks might keep interest rates elevated or tighten policy further."
+    },
+    {
+      "id": "4863404",
+      "time": "2026-05-06 18:43:51",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "阿波羅全球管理公司管理資產規模突破1萬億美元，盤前股價上漲2.2%。"
+    },
+    {
+      "id": "4863403",
+      "time": "2026-05-06 18:43:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士稱，儘管產量下降，但印度認為糖供應前景穩定，無需限制食糖出口。"
+    },
+    {
+      "id": "4863402",
+      "time": "2026-05-06 18:43:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "迪士尼Q2業績超預期 盤前漲4.5%。"
+    },
+    {
+      "id": "4863401",
+      "time": "2026-05-06 18:43:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "迪士尼預計本財年調整後每股收益增速約16%（含第53週會計週期）。"
+    },
+    {
+      "id": "4863400",
+      "time": "2026-05-06 18:42:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中稀有色：股東廣東稀土擬減持不超過1%】中稀有色公告，截至本公告日，股東廣東省稀土產業集團有限公司持有公司6728.72萬股，佔20%。該股東計劃自本次減持計劃披露之日起15個交易日後的3個月內，透過集中競價方式減持不超過336.44萬股，不超過公司總股本的1%。減持期限為2026年5月28日～2026年8月27日，減持價格將根據屆時市場價格及交易方式確定；如減持期間公司發生送股、資本公積金轉增股本等股份變動，擬減持數量將相應調整。"
+    },
+    {
+      "id": "4863399",
+      "time": "2026-05-06 18:42:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊海軍表示，隨著“來自侵略者的威脅”消除，且基於新流程，船舶將能夠安全穩定地透過霍爾木茲海峽。"
+    },
+    {
+      "id": "4863398",
+      "time": "2026-05-06 18:42:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【阿波羅資管規模在一季度創紀錄流入後突破1萬億美元】另類資產管理公司阿波羅全球管理在第一季度錄得創紀錄資金流入後，資產管理規模突破1萬億美元，同時公佈的業績也超出華爾街預期。公司在當地時間週二的宣告中表示，經調整淨利潤同比增長8%，至12.1億美元，合每股1.94美元，高於市場分析師給出的1.88美元平均預期。宣告顯示，公司第一季度資金流入總額達到1150億美元，過去12個月累計流入3000億美元。相比之下，黑石集團今年前三個月吸納資金685億美元，而KKR與ARES Management分別錄得278億美元和295億美元資金流入。阿波羅資本解決方案業務費用收入大增60%。與費用相關的收益跳升30%至7.28億美元，同樣超出預期；可產生管理費的資產管理規模則增長40%，至8360億美元。"
+    },
+    {
+      "id": "4863397",
+      "time": "2026-05-06 18:42:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗國家媒體報道稱，伊朗革命衛隊海軍對在波斯灣及阿曼海航行、遵守伊朗規定透過霍爾木茲海峽並予以配合的所有船隻船長與船東表示感謝。"
+    },
+    {
+      "id": "4863396",
+      "time": "2026-05-06 18:41:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "迪士尼：將不再推進對OpenAI的 planned投資；會繼續探索與OpenAI及其他主體的商業合作機會。"
+    },
+    {
+      "id": "4863395",
+      "time": "2026-05-06 18:41:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "迪士尼：目前美國本土樂園及度假村需求穩健，同時也關注消費者目前面臨的宏觀經濟不確定性。"
+    },
+    {
+      "id": "4863394",
+      "time": "2026-05-06 18:41:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "迪士尼：目標是在2026財年完成至少80億美元的股票回購。"
+    },
+    {
+      "id": "4863393",
+      "time": "2026-05-06 18:41:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "迪士尼第二季度營收251.7億美元，預估248.7億美元。"
+    },
+    {
+      "id": "te:economy:548340",
+      "time": "2026-05-06 18:41:16",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Luxembourg",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Luxembourg Inflation Hits 2-Year High — The annual inflation rate in Luxembourg rose to 3.1% in April 2026 from 2.4% in the previous month, marking the highest level since March 2024. Price pressures intensified for housing and utilities (4.4% vs 1.7% in March), transportation (6.3% vs 4.2%), alcoholic beverages and tobacco (3.2% vs 2.6%), restaurants and accommodation services (3.3% vs 2.9%), and personal care, social protection, and miscellaneous goods and services (1.7% vs 1.2%). Inflation also edged higher for furniture, household items and routine home maintenance (1.0% vs 0.9%), while clothing and footwear increased 0.2% after being flat in March. At the same time, inflation held steady for health (1.8%) and education (6.2%), while deflation eased for information and communication (-0.1% vs -1.0%). Conversely, price growth slowed for food and non-alcoholic beverages (2.4% vs 2.8%) and recreation, sport, and culture (2.5% vs 4.7%). On a monthly basis, consumer prices rose to 1.2% in April from 0.9% in the prior period."
+    },
+    {
+      "id": "4863392",
+      "time": "2026-05-06 18:41:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華鈺礦業：青海稀貴金屬擬減持公司不超1%股份】華鈺礦業(601020)5月6日公告，青海西部稀貴金屬有限公司（簡稱“青海稀貴金屬”）持有公司8.82%股份，計劃透過大宗交易和集中競價方式，合計減持公司股份不超過820萬股，即不超公司總股本的1%。"
+    },
+    {
+      "id": "4863391",
+      "time": "2026-05-06 18:41:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東方證券：4月法定/註冊股本總額84.97億元 無變動】東方證券公告稱，截至2026年4月30日，公司法定/註冊股本總額為84.97億元，其中A股法定/註冊股份數74.69億股，H股法定/註冊股份數10.27億股，較上月均無變動。本月A股已發行股份（不包括庫存股份）74.08億股、庫存股份6154.65萬股，H股已發行股份10.27億股、無庫存股份，均無變動。公司確認已符合適用的公眾持股量要求。"
+    },
+    {
+      "id": "4863390",
+      "time": "2026-05-06 18:40:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【佰奧智慧：持股5%以上股東及董事擬合計減持不超1.99%股份】佰奧智慧公告稱，持股6.8907%的股東朱莉華及持股4.7971%的股東兼董事莊華鋒，因個人資金需求，擬在減持計劃披露之日起15個交易日之後的3個月內，透過集中競價方式分別減持不超923,100股，均不超公司總股本的0.9959%。本次減持計劃實施存在不確定性，不會對公司治理等產生重大影響。"
+    },
+    {
+      "id": "4863389",
+      "time": "2026-05-06 18:40:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌9%，現報99.94美元/桶。"
+    },
+    {
+      "id": "4863388",
+      "time": "2026-05-06 18:40:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST*易錄：2025年淨虧損27.36億元 股票將被實施退市風險警示】易華錄公告稱，2025年度淨利潤為-27.36億元，虧損額占上年末淨資產的204.73%。公司計提信用減值損失和資產減值損失共計18.50億元，導致2025年利潤總額減少18.50億元。截至2025年末，公司未彌補虧損金額超過實收股本總額三分之一。審計報告出具帶持續經營重大不確定性段落的無保留意見。公司股票自4月29日開市起停牌1個交易日，4月30日開市起復牌，簡稱由“易華錄”變更為“*ST易錄”，將被實施退市風險警示及其他風險警示。此外，公司因涉嫌資訊披露違法違規被中國證監會立案。"
+    },
+    {
+      "id": "te:economy:548339",
+      "time": "2026-05-06 18:40:14",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Germany",
+        "Government Bond 10Y",
+        "Importance 2"
+      ],
+      "text": "Bund Yield Dips Below 3% on US-Iran Deal Hopes — Germany’s 10-year Bund yield extended its decline below 3% as investors scaled back expectations for ECB rate hikes in 2026, with optimism over a potential US-Iran peace deal pushing oil prices lower and easing inflation concerns. Money markets now expect the ECB’s deposit facility rate to reach around 2.6% by December, reflecting two fully priced hikes and a possible third, with a 75% chance of a first rate increase in June. On Wednesday, ECB board member Piero Cipollone said the likelihood of a rate hike had risen due to high inflation pressures, echoing similar remarks from other policymakers earlier this month. According to Axios, the White House is close to a one-page Memorandum of Understanding with Iran to end the conflict and begin nuclear negotiations, the closest the parties have been to a deal since the conflict started. Tehran is expected to respond within 48 hours, though no agreement is finalized."
+    },
+    {
+      "id": "te:markets:548338",
+      "time": "2026-05-06 18:39:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Daimler Truck Holding AG earnings below expectations at 0.18 EUR — Daimler Truck Holding AG (DTG) released earnings per share at 0.18 EUR, compared to market expectations of 0.61 EUR."
+    },
+    {
+      "id": "te:markets:548337",
+      "time": "2026-05-06 18:39:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Cencora earnings below expectations at 4.75 USD — Cencora (COR) released earnings per share at 4.75 USD, compared to market expectations of 4.87 USD."
+    },
+    {
+      "id": "te:markets:548336",
+      "time": "2026-05-06 18:39:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Apollo Global Management earnings below expectations at 1.94 USD — Apollo Global Management (APO) released earnings per share at 1.94 USD, compared to market expectations of 2.14 USD."
+    },
+    {
+      "id": "te:markets:548335",
+      "time": "2026-05-06 18:39:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "CVS Health earnings above expectations at 2.57 USD — CVS Health (CVS) released earnings per share at 2.57 USD, compared to market expectations of 2.23 USD."
+    },
+    {
+      "id": "4863387",
+      "time": "2026-05-06 18:39:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【券商分類評價北交所專項評價資料定向披露 全面覆蓋保薦上市、推薦掛牌等全業務鏈條】從業內獲悉，北京證券交易所近日已向各證券公司定向傳送2026年證券公司分類評價北交所業務專項評價資料明細，完整披露了評價期內各券商的加分項與扣分項具體數值，並以各單項指標排名首位的券商資料為行業基準值，為券商在北交所及新三板業務賽道的競爭態勢提供了清晰、可對標的量化標尺。此次評價資料來源於公開資訊及交易系統，全面覆蓋從保薦上市、推薦掛牌、股票發行、做市交易到投資者開戶等北交所全業務鏈條。 (中證金牛座)"
+    },
+    {
+      "id": "4863386",
+      "time": "2026-05-06 18:39:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗陸軍常務副參謀長：軍旅生涯中的底氣與自信，源於邏輯支撐，而這份邏輯根植於實力。敵對勢力在妄議伊朗之前，應當看清伊朗民族的脊樑與本國武裝力量的底氣。先審視我們的文明、歷史與地緣底蘊，再來談論伊朗。"
+    },
+    {
+      "id": "4863385",
+      "time": "2026-05-06 18:38:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【僑銀股份：中標安徽省阜陽市潁泉區環衛保潔市場化專案】僑銀股份(002973)5月6日公告，公司收到安徽省阜陽市潁泉區環衛保潔市場化專案的中標通知書。該專案中標金額6603萬元/年，預估中標總金額7.92億元/12年。合同履約期限採用“3+3+3+3”模式，即初始履約期為3年。"
+    },
+    {
+      "id": "4863384",
+      "time": "2026-05-06 18:38:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST新元：積極整改爭取撤銷股票交易其他風險警示】*ST新元公告稱，公司因內控審計報告否定、連續三年淨利潤為負、主要銀行賬戶被凍結、收到行政處罰事先告知書等，股票交易被實施其他風險警示。公司採取多項整改措施：內控缺陷整改已消除影響；預重整推進，確定產業投資人；臨時管理人賬戶已啟用，資金狀況改善；完成財務報表會計差錯更正。公司將在滿足條件後申請撤銷風險警示，提醒投資者注意風險。"
+    },
+    {
+      "id": "4863383",
+      "time": "2026-05-06 18:37:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "斯蒂芬斯公司將ADM目標股價從65美元上調至80美元。"
+    },
+    {
+      "id": "4863382",
+      "time": "2026-05-06 18:37:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印度與越南升級夥伴關係 強化能源、礦產等領域合作】印度總理莫迪與越南國家主席蘇林周三舉行廣泛會談，討論能源、關鍵礦產以及供應鏈韌性等領域合作。雙方尋求進一步提升夥伴關係，並計劃到2030年將雙邊貿易額提高至250億美元。莫迪在會談後表示：“今天，我們將雙邊關係提升至更高層次的全面戰略伙伴關係，並將推動雙方夥伴關係邁向更高目標。”他補充稱，雙方將在安全、可持續發展、供應鏈韌性以及文化、互聯互通和能力建設等各領域深化合作。他指出，過去十年間，印越貿易額已翻倍至160億美元。莫迪表示：“我們作出了多項重要決定，力爭到2030年將雙邊貿易額提升至250億美元。”他說，雙方還同意在年底前“更新”印度-東盟貿易協定。（日經新聞）"
+    },
+    {
+      "id": "4863381",
+      "time": "2026-05-06 18:36:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "富國銀行將AMD目標股價從345美元上調至505美元。"
+    },
+    {
+      "id": "4863380",
+      "time": "2026-05-06 18:36:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【苑東生物：氨酚羥考酮緩釋片獲藥品註冊證書】苑東生物(688513)5月6日公告，公司近日收到國家藥監局核准簽發的氨酚羥考酮緩釋片《藥品註冊證書》，該藥品適應症為用於治療術後中重度疼痛。公司氨酚羥考酮緩釋片首家獲批上市，有效填補了國內強阿片複方緩控釋製劑的空白，標誌著公司在麻醉鎮痛領域重磅新品實現重要突破。"
+    },
+    {
+      "id": "4863379",
+      "time": "2026-05-06 18:36:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【巨星農牧：5%以上股東擬減持不超3%股份】巨星農牧公告稱，5%以上股東和邦集團及其一致行動人賀正剛共持股84,157,402股，佔總股本16.09%。和邦集團計劃2026年5月28日至8月27日，透過集中競價減持不超5,229,792股、大宗交易減持不超10,459,584股，合計不超15,689,376股，即不超總股本3%。減持因自身資金安排，實施存在不確定性。"
+    },
+    {
+      "id": "4863378",
+      "time": "2026-05-06 18:36:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【湖南省委書記沈曉明：要深挖徹查煙花廠爆炸事故涉事企業背後相關責任人員，依法依規嚴肅查處】5月6日，湖南省委書記沈曉明主持召開影片排程會，學習貫徹習近平總書記重要指示精神，聽取瀏陽煙花廠爆炸事故處置工作進展情況彙報，研究部署後續處置工作。沈曉明強調，要盡最大努力搜救失聯人員，持續做好傷亡人員家屬情緒疏導工作，深入細緻開展一對一安撫善後，給予更多關心關愛。要儘快修繕事故周邊區域受損房屋，在確保安全的前提下，有序組織群眾重返家園，儘快恢復群眾正常生產生活秩序。要密切監測住院傷員病情發展，用精心的治療與護理，幫助傷員儘快恢復健康。要深刻汲取事故教訓，以最嚴要求、最實行動開展安全生產專項治理，建立省領導包領域與包行業相結合的工作機制，以上率下把安全生產責任壓實到企業、場景和工位，進一步排查整治各領域風險隱患。要科學有序做好事故現場後續處置工作，有效管控危險源，防止發生次生災害。要深挖徹查涉事企業背後相關責任人員，依法依規嚴肅查處。（湖南日報）"
+    },
+    {
+      "id": "4863377",
+      "time": "2026-05-06 18:35:56",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油失守100美元/桶，日內跌9.00%。"
+    },
+    {
+      "id": "4863376",
+      "time": "2026-05-06 18:35:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【佰維儲存：持股5%以上股東減持869.67萬股 套現16.46億元】佰維儲存公告稱，國家積體電路產業投資基金二期股份有限公司曾持有公司3223.94萬股，佔比6.90%。2026年2月4日至5月3日，該股東透過大宗交易、集中競價方式累計減持869.67萬股，佔公司目前總股本的1.8471%，減持價格158.47 - 248.37元/股，減持總金額16.46億元。未完成減持64.59萬股，當前持股2354.27萬股，佔比5.0002%。"
+    },
+    {
+      "id": "4863375",
+      "time": "2026-05-06 18:35:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "NiSource Inc：與谷歌及亞馬遜合作後，Genco專案成本節省規模擴大至14億美元。"
+    },
+    {
+      "id": "te:markets:548332",
+      "time": "2026-05-06 18:35:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Heating Oil Sinks to 2-Week Low — Heating oil futures for deliver at the New York Harbor sank to the $3.7 per gallon mark on Wednesday, their lowest in two weeks, as signs of a potential agreement between Iran and the US supported the normalization of energy exports from the Middle East. Reports indicated that the US was close to agreeing on a memorandum by Iran to end their war, expected to start the process of clearing the passage for tankers to leave the Persian Gulf. The export of oil and distilled products through the Strait has been all but halted since the start of the war in March, stressing refineries and driving the price of heating oil futures to a record high of $4.6 in March. Consequently, European and Asian refineries have been forced to balance their capacity for gasoline with higher shares of diesel and jet fuel production. Still, major European airlines already cancelled thousands of flight due to shortages of distilled fuels, and shortages in Asia drove China to resume exporting diesel."
+    },
+    {
+      "id": "4863374",
+      "time": "2026-05-06 18:34:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油期貨<LCOc1>在美伊備忘錄相關訊息傳出後，跌破每桶100美元關口，為4月22日以來首次。"
+    },
+    {
+      "id": "4863373",
+      "time": "2026-05-06 18:34:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【西山科技：出資2000萬元設立全資子公司並完成工商登記】西山科技公告稱，為推進長遠發展規劃，公司以自有資金或自籌資金2000萬元在重慶市兩江新區投資設立全資子公司重慶星輝電機有限公司。近日，星輝電機取得《營業執照》，完成工商註冊登記。公司持股100%，法定代表人為王常英。該投資不涉及關聯交易和重大資產重組，不會對公司經營及財務狀況產生不利影響，但子公司經營可能面臨風險，公司將加強管理應對。"
+    },
+    {
+      "id": "4863372",
+      "time": "2026-05-06 18:34:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "梅利厄斯研究所將AMD目標股價從325美元上調至500美元。"
+    },
+    {
+      "id": "4863371",
+      "time": "2026-05-06 18:34:20",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【西部黃金：吐魯番金源公司擬減持公司不超0.02%股份】西部黃金(601069)5月6日公告，持股5%的股東吐魯番金源礦冶有限責任公司（簡稱“金源公司”）計劃以集中競價交易方式，減持公司股份合計不超過16.98萬股，減持比例不超過公司總股本的0.02%。"
+    },
+    {
+      "id": "te:economy:548331",
+      "time": "2026-05-06 18:33:52",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "UK Gilt Yields Slide on US-Iran Deal Hopes — UK 10-year gilt yields extended their decline toward 4.9% as investors scaled back expectations for Bank of England rate hikes in 2026, with optimism over a potential US-Iran peace deal pushing oil prices lower and easing inflation concerns. Financial markets now price in about 50 basis points of tightening, equivalent to two rate hikes, by year-end, down from up to three hikes priced in earlier this month. According to Axios, the White House is close to a one-page Memorandum of Understanding with Iran to end the conflict and begin nuclear negotiations, the closest the parties have been to a deal since the conflict started. Tehran is expected to respond within 48 hours, though no agreement is finalized. Earlier, US President Donald Trump paused escalation plans, citing progress in talks. Attention is also turning to Britain’s municipal elections on Thursday, with polls suggesting a possible setback for Prime Minister Keir Starmer’s Labour Party."
+    },
+    {
+      "id": "4863370",
+      "time": "2026-05-06 18:33:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油失守92美元/桶，日內跌10.10%。"
+    },
+    {
+      "id": "4863369",
+      "time": "2026-05-06 18:33:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌10%，現報92.04美元/桶。"
+    },
+    {
+      "id": "4863368",
+      "time": "2026-05-06 18:33:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀突破78美元/盎司，日內漲6.01%。"
+    },
+    {
+      "id": "4863367",
+      "time": "2026-05-06 18:33:02",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【百濟神州：一季度淨利潤16.08億元，同比扭虧為盈】百濟神州公告，公司一季度營收為105.44億元，同比增長31%；淨利潤為16.08億元，上年同期虧損9450.3萬元，同比扭虧為盈。"
+    },
+    {
+      "id": "4863366",
+      "time": "2026-05-06 18:32:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【麒麟信安：登出93.23萬股已回購股份】麒麟信安公告，公司本次將登出回購專用證券賬戶中的93.23萬股已回購股份，佔登出前公司總股本1.03億股的比例為0.91%。本次登出完成後，公司股本由1.03億股變更為1.02億股。"
+    },
+    {
+      "id": "4863365",
+      "time": "2026-05-06 18:32:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【今年“五一”假期 全國城市公園接待遊客量超2.12億人次】記者今天（5月6日）從住房和城鄉建設部獲悉，今年“五一”假期，各地城市公園共計接待遊客量超2.12億人次。假日期間，近1萬個市集與文化活動在公園舉行，帶動消費超68億元，滿足了市民遊客探訪文化底蘊、感受園林魅力、科普體驗等多樣化的遊覽需求。（央視新聞）"
+    },
+    {
+      "id": "4863363",
+      "time": "2026-05-06 18:31:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【PCB覆銅板需求激增 交貨週期已延長至3倍】據TheElec獲悉，隨著PCB需求激增，基板廠商訂購覆銅板（CCL）的交貨週期已從兩週延長至最長六週。這些產品所採用的是低熱膨脹係數玻璃纖維（T-玻璃），能最大限度地減少高溫工藝過程中襯底的變形，因此非常有利於微電路的製造和大面積襯底的製備。"
+    },
+    {
+      "id": "4863362",
+      "time": "2026-05-06 18:31:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "CVS上調本財年調整後每股收益指引至7.30–7.50美元，此前指引為7.00–7.20美元；市場預期為7.12美元。"
+    },
+    {
+      "id": "4863361",
+      "time": "2026-05-06 18:30:53",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4710美元/盎司，日內漲3.38%。"
+    },
+    {
+      "id": "4863360",
+      "time": "2026-05-06 18:30:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲6%，現報78.00美元/盎司。"
+    },
+    {
+      "id": "4863358",
+      "time": "2026-05-06 18:30:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜：在義大利啟動減少水資源損耗專案，每年可節約用水2億升。"
+    },
+    {
+      "id": "te:markets:548330",
+      "time": "2026-05-06 18:30:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The SENSEX Index Closes 1.22% Higher — The SENSEX Index went up by 941 points or 1.22 percent on Wednesday to close at 77959 points. The rise was led by Tata Motors (5.28%), Indusind Bank (4.10%) and Asian Paints (3.91%)."
+    },
+    {
+      "id": "4863357",
+      "time": "2026-05-06 18:29:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【常熟銀行：6名高管合計增持55萬股，耗資387.58萬元】常熟銀行公告，陸鼎昌等6名高管自2025年11月21日至2026年5月6日透過上交所集中競價合計增持55萬股，耗資387.58萬元，佔總股本0.0166%，達到原計劃不少於55萬股的增持下限。增持後6人合計持股91.83萬股，佔0.0277%，其中陸鼎昌32.1萬股、張康德17.26萬股、幹晴17.48萬股、程鵬飛10萬股、倪建峰10萬股、唐志鋒50000股。增持完成後6個月內不減持。"
+    },
+    {
+      "id": "4863356",
+      "time": "2026-05-06 18:29:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【上海鳳凰：首次回購0.0582%公司股份】上海鳳凰公告，2026年5月6日，公司透過集中競價交易方式首次回購B股股份30萬股，佔公司總股本比例0.0582%，購買最高價0.389美元/股、最低價0.384美元/股，支付總金額11.64萬美元（不含交易費用）。"
+    },
+    {
+      "id": "4863355",
+      "time": "2026-05-06 18:27:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【百濟神州：預計2026年營業收入將介於人民幣436億元至452億元之間】百濟神州公告，公司對預計的中國企業會計準則下2026年全年的經營業績進行調整。營業收入預計為人民幣436億元至452億元之間。"
+    },
+    {
+      "id": "4863354",
+      "time": "2026-05-06 18:27:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國兩年期國債收益率下跌15個基點，降至4.37%。"
+    },
+    {
+      "id": "4863353",
+      "time": "2026-05-06 18:27:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "【英偉達美股盤前漲超2%】英偉達美股盤前漲超2%，現報200.47美元。"
+    },
+    {
+      "id": "4863352",
+      "time": "2026-05-06 18:27:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "牧原股份：4月份，公司銷售商品豬714.3萬頭，同比變動8.68%；商品豬銷售均價9.45元/公斤，同比變動-35.54%；商品豬銷售收入85.03億元，同比變動-32.49%。"
+    },
+    {
+      "id": "4863351",
+      "time": "2026-05-06 18:26:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊海軍司令部：感謝波斯灣及阿曼灣地區的船長與船東，感謝他們遵守伊朗關於霍爾木茲海峽的各項規定，併為維護地區海上安全作出的貢獻。隨著侵略者的威脅已被化解，且新的通行規程已正式實施，霍爾木茲海峽的安全、穩定通航將得到切實保障。"
+    },
+    {
+      "id": "4863348",
+      "time": "2026-05-06 18:23:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "工信部公開徵求《輕型汽車電子穩定性控制系統效能要求及試驗方法》等2項強制性國家標準（報批稿）、《專用校車安全技術條件》強制性國家標準外文版（報批稿）意見。"
+    },
+    {
+      "id": "4863347",
+      "time": "2026-05-06 18:23:40",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【百勝智慧：終止支付現金收購中科深谷股權】百勝智慧公告，公司原計劃以支付現金方式收購中科深谷不低於51%股權，但因交易雙方未能就關鍵條款達成一致，決定終止本次收購。終止收購不會對公司財務狀況和經營狀況產生重大影響，公司將繼續推進智慧機器人產品研發戰略。"
+    },
+    {
+      "id": "4863346",
+      "time": "2026-05-06 18:23:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "【埃克森美孚美股盤前跌超4%】埃克森美孚美股盤前跌超4%，現報148.522美元。"
+    },
+    {
+      "id": "4863345",
+      "time": "2026-05-06 18:22:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【均瑤健康：董監高羅喜悅、崔鵬、郭沁已分別減持0.013%、0.005%、0.014%】均瑤健康公告，截至2026年5月5日，董監高減持計劃實施完畢：羅喜悅透過集中競價累計減持78600股，佔公司總股本0.013%；崔鵬減持32400股，佔0.005%；郭沁減持82500股，佔0.014%；朱曉明、向衛兵均未減持。"
+    },
+    {
+      "id": "4863344",
+      "time": "2026-05-06 18:21:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "黎巴嫩衛生部稱，以色列空襲導致黎巴嫩東部四人死亡。"
+    },
+    {
+      "id": "4863343",
+      "time": "2026-05-06 18:21:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【輝隆股份：擬登出已回購股份1157.72萬股】輝隆股份公告，公司擬對回購專用證券賬戶的股份1157.72萬股進行登出並相應減少註冊資本。2022年11月24日，公司董事會審議透過回購股份方案，擬以集中競價交易方式回購總額不低於人民幣8000萬元且不超過人民幣1.5億元，回購價格不超過人民幣14元/股。2023年5月25日，公司透過回購專用證券賬戶以集中競價方式累計回購股份1157.72萬股，成交金額為1億元（不含交易費用）。"
+    },
+    {
+      "id": "4863342",
+      "time": "2026-05-06 18:21:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "據印度尼西亞媒體報道，印尼蘇門答臘島6日發生一起客車與油罐車相撞事故，造成至少16人死亡。（新華社）"
+    },
+    {
+      "id": "4863341",
+      "time": "2026-05-06 18:21:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "荷蘭外交部表示，一名荷蘭人、一名英國人和一名德國人從Hondius遊輪上撤離。"
+    },
+    {
+      "id": "4863340",
+      "time": "2026-05-06 18:20:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華鈺礦業：股東青海西部稀貴擬減持不超1%】華鈺礦業公告，股東青海西部稀貴金屬有限公司持有7233.64萬股，佔8.8219%；擬自披露日起15個交易日後的3個月內，以大宗交易和集中競價方式合計減持不超820萬股，不超1.0000%。其中大宗交易任意連續90日內減持不超2.00%，集中競價任意連續90日內減持不超1.00%，減持價格隨行就市。"
+    },
+    {
+      "id": "4863339",
+      "time": "2026-05-06 18:20:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【工黨地方選舉或迎歷史最差表現 斯塔默強硬表態“不會辭職”】據斯塔默的盟友透露，英國首相斯塔默“不會接受任何離開唐寧街的安排”來回應工黨在週四選舉中可能慘敗的結果以及隨之而來的新一輪辭職呼聲。多項分析預測，執政黨可能在本輪地方選舉中面臨歷史最差表現，這也加劇了工黨內部議員會對斯塔默地位發出挑戰的猜測。一位盟友表示：“斯塔默不會接受任何交易、協議或時間表。”該人士強調，首相將抵制任何要求其下臺的壓力，“他當前專注於領導國家，並已制定一項強化英國經濟安全的宏大計劃。”然而，據保守黨民調專家估算，工黨預計將在英格蘭地方議會選舉中淨失約1850個地方議席。另有民調顯示，工黨還可能在威爾士權力下放制度自1999年設立以來首次失去控制權，同時在蘇格蘭或被擠至第三位，落後於蘇格蘭民族黨及英國改革黨。另外，衛生大臣韋斯·斯特里廷、前副首相安吉拉·雷納以及大曼徹斯特市長安迪·伯納姆的支持者們紛紛放話，稱若選舉結果慘淡，他們三人有望取代斯塔默的位置。"
+    },
     {
       "id": "4863338",
       "time": "2026-05-06 18:18:42",
@@ -96228,2517 +98078,6 @@
         "公司"
       ],
       "text": "【天風證券：2026年第一季度淨利潤22.36萬元，同比下降99.07%】天風證券公告，2026年第一季度營業收入4.37億元，同比下降31.06%。利潤總額1218.63萬元，同比下降76.27%。淨利潤22.36萬元，同比下降99.07%。"
-    },
-    {
-      "id": "4850783",
-      "time": "2026-04-29 19:21:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華夏銀行：第一季度淨利潤49.87億元，下降1.50%】華夏銀行公告，2026年第一季度營業收入246.22億元，同比增長35.33%。歸屬於上市公司股東的淨利潤49.87億元，下降1.50%。基本每股收益0.31元，下降3.13%。扣除非經常性損益後的淨利潤49.88億元，增長1.71%。加權平均淨資產收益率1.57%，下降0.10個百分點。"
-    },
-    {
-      "id": "4850782",
-      "time": "2026-04-29 19:21:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "【新東方成立東方無憂培訓學校】天眼查工商資訊顯示，近日，上海新東方無憂培訓學校有限公司成立，法定代表人為許順康，註冊資本100萬人民幣，經營範圍包括從事語言能力培訓的營利性民辦培訓服務機構等。股東資訊顯示，該公司由新東方無憂（上海）文化發展有限公司全資持股，新東方無憂（上海）文化發展有限公司實際控制人為俞敏洪。"
-    },
-    {
-      "id": "4850781",
-      "time": "2026-04-29 19:21:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【同濟科技：2026年第一季度淨利潤5740.51萬元，同比下降34.41%】同濟科技公告，2026年第一季度營收為10.19億元，同比增長12.92%；淨利潤為5740.51萬元，同比下降34.41%。"
-    },
-    {
-      "id": "4850780",
-      "time": "2026-04-29 19:21:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿斯利康將向英國生命科學領域投資 3 億英鎊。"
-    },
-    {
-      "id": "4850779",
-      "time": "2026-04-29 19:21:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "【柳鋼股份：正籌劃發行股份及支付現金購買廣西鋼鐵集團有限公司的部分股權】柳鋼股份公告，公司正在籌劃以發行股份及支付現金的方式購買廣西柳州鋼鐵集團有限公司持有的廣西鋼鐵集團有限公司的部分股權，並募集配套資金。本次交易不會導致公司控股股東、實際控制人變更，構成關聯交易，但預計不構成重大資產重組。公司A股股票自2026年4月23日起停牌，預計停牌時間不超過10個交易日。公司及相關各方正積極推進本次交易的各項工作，預計將於停牌期限屆滿前召開董事會審議本次交易預案，並及時履行資訊披露義務，申請公司股票復牌。"
-    },
-    {
-      "id": "4850778",
-      "time": "2026-04-29 19:21:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國汽車協會AAA：美國汽油平均價格已達到4.29美元/加侖。"
-    },
-    {
-      "id": "4850777",
-      "time": "2026-04-29 19:21:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國中央司令部：在美國對伊朗實施封鎖圍困之前，伊朗恰巴哈爾港日均約有 5 艘船舶停靠或錨泊。如今，恰巴哈爾港滯留船舶數量已超 20 艘，與此同時，美軍正借本輪持續封鎖，切斷伊朗的進出商貿航線。"
-    },
-    {
-      "id": "4850776",
-      "time": "2026-04-29 19:20:37",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【比特幣溫和上漲，美國股指期貨走高】比特幣小幅走高，因美國股指期貨顯示股市在隔夜下跌後將出現反彈。白宮數字資產顧問Patrick Witt稱，特朗普政府計劃就戰略性比特幣儲備釋出一項重大宣告，這也給該加密貨幣帶來提振。然而，由於美國和伊朗似乎並未更接近達成和平協議，比特幣的漲幅有限。Trade Nation的David Morrison在一份報告中說，在當前地緣政治不確定性持續的背景下，比特幣近期的波動性表現溫和，這令投資者感到鼓舞。“現在的大問題是，是會出現更大幅度的回撥，還是比特幣能積聚足夠能量以突破並站穩在80,000美元上方。”倫敦證券交易所集團的資料顯示，比特幣上漲1.6%，至77,639美元。"
-    },
-    {
-      "id": "4850775",
-      "time": "2026-04-29 19:20:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "【彤程新材：股東擬減持不超1.86%公司股份】彤程新材(603650)4月29日公告，持股1.86%的股東舟山市宇彤創業投資合夥企業（有限合夥）擬透過集中競價交易和/或大宗交易方式合計減持不超過1143.46萬股，即不超過公司總股本的1.86%。"
-    },
-    {
-      "id": "4850774",
-      "time": "2026-04-29 19:19:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "【調查騙補案 美明尼蘇達州22地遭突查】美國司法部28日說，聯邦調查局(FBI)和國土安全調查局人員當天搜查了明尼蘇達州22處地點，作為針對該州社會福利專案“反欺詐調查的一部分”。據路透社報道，針對明尼蘇達州社會福利專案存在欺詐的調查受聯邦政府重點關注，由美國副總統萬斯牽頭。據美聯社報道，持械執法人員當天出現在明尼阿波利斯市一些託兒所。一名匿名知情人士披露，調查地點包括託兒所、經營場所和部分民宅。暫不清楚這些涉事場所存在何種犯罪行為。(新華社)"
-    },
-    {
-      "id": "4850773",
-      "time": "2026-04-29 19:19:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【天宜上佳：公司股票被實施退市風險警示及疊加其他風險警示 4月30日停牌一天】*ST天宜(688033.SH)公告稱，公司2025年度財務報告被中審眾環出具無法表示意見的審計報告，觸及退市風險警示情形；同時，2025年度財務報告內部控制被出具否定意見的審計報告，疊加其他風險警示。公司股票將於2026年4月30日停牌一天，自2026年5月6日起復牌並實施退市風險警示及其他風險警示，證券簡稱變更為“*ST天宜”。公司目前處於預重整階段，董事會已採取措施爭取撤銷風險警示。"
-    },
-    {
-      "id": "4850772",
-      "time": "2026-04-29 19:19:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【山外山：第一季度淨利潤5447.67萬元，同比增長47.21%】山外山公告，2026年第一季度營收為2.3億元，同比增長21.33%；淨利潤為5447.67萬元，同比增長47.21%。"
-    },
-    {
-      "id": "4850771",
-      "time": "2026-04-29 19:19:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "【高測股份：2026年第一季度淨虧損5022.79萬元】高測股份公告，2026年第一季度營業收入7.92億元，同比增長15.46%。歸屬於上市公司股東的淨虧損5022.79萬元，上年同期淨虧損7413.98萬元。報告期內，受光伏行業影響，產品價格依然承壓，但公司充分發揮“切割裝置+切割耗材+切割工藝”融合發展及技術閉環優勢，實現持續降本增效，盈利能力同比改善。"
-    },
-    {
-      "id": "4850770",
-      "time": "2026-04-29 19:19:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "【攜程目標5年引入2億外國遊客】4月29日，攜程集團正式宣佈未來五年目標引入2億入境遊人次，並同步邀請功夫巨星成龍出任攜程“入境遊大使”。（第一財經）"
-    },
-    {
-      "id": "4850769",
-      "time": "2026-04-29 19:18:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "基準分析師將通用汽車目標股價從90美元上調至105美元。"
-    },
-    {
-      "id": "4850768",
-      "time": "2026-04-29 19:18:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息人士稱，隨著港口產能恢復、天氣條件好轉，俄羅斯 5 月或上調海運原油出口量。"
-    },
-    {
-      "id": "4850767",
-      "time": "2026-04-29 19:17:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "6月份北海布倫特原油裝載量定為兩船。"
-    },
-    {
-      "id": "4850766",
-      "time": "2026-04-29 19:17:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "香港推出措施應對燃料價格問題；將推出柴油補貼計劃。"
-    },
-    {
-      "id": "4850765",
-      "time": "2026-04-29 19:17:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【全築股份：第一季度淨利潤224.74萬元，同比增長111.73%】全築股份公告，第一季度營收為2.94億元，同比增長38.31%；淨利潤為224.74萬元，同比增長111.73%。"
-    },
-    {
-      "id": "4850764",
-      "time": "2026-04-29 19:17:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【長江電力：第一季度淨利潤67.61億元，同比增長30.50%】長江電力公告，2026年第一季度營收為181.12億元，同比增長6.44%；淨利潤為67.61億元，同比增長30.50%。"
-    },
-    {
-      "id": "4850763",
-      "time": "2026-04-29 19:17:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中洲控股：第一季度淨虧損6622.7萬元】中洲控股公告，2026年第一季度營收為3.52億元，同比下降66.44%；淨虧損6622.7萬元，上年同期淨利潤為1.39億元。"
-    },
-    {
-      "id": "4850762",
-      "time": "2026-04-29 19:17:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "【德聯集團：2026年第一季度淨利潤3131.93萬元，同比增長11.98%】德聯集團公告，2026年第一季度營收為11.76億元，同比增長8.19%；淨利潤為3131.93萬元，同比增長11.98%。"
-    },
-    {
-      "id": "4850761",
-      "time": "2026-04-29 19:17:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2026年4月票房破10億】據貓眼專業版資料，4月29日19時15分，2026年4月總票房破10億，《我，許可》《超級馬力歐銀河大電影》《挽救計劃》分列4月票房榜前三位。"
-    },
-    {
-      "id": "4850760",
-      "time": "2026-04-29 19:16:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【湘潭電化：一季度淨利潤8934.93萬元，同比增長88.78%】湘潭電化公告，2026年第一季度營收為4.19億元，同比增長0.33%；淨利潤為8934.93萬元，同比增長88.78%。"
-    },
-    {
-      "id": "4850759",
-      "time": "2026-04-29 19:16:38",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【TCL科技：第一季度淨利潤同比增長53.71%】TCL科技(000100.SZ)公告稱，2026年第一季度實現營業收入434.54億元，同比增長8.43%；歸屬於上市公司股東的淨利潤為15.56億元，同比增長53.71%。業績變動主要系半導體顯示業務受益於全球LCD面板行業供需格局改善，電視面板價格上漲，以及公司均衡業務佈局實現穩健增長所致。公司Q1淨利潤15.56億，2025年Q4淨利潤14.7億，據此計算，Q1淨利潤環比增長5%。"
-    },
-    {
-      "id": "4850758",
-      "time": "2026-04-29 19:16:31",
-      "tags": [
-        "市場"
-      ],
-      "text": "SOFI TECHNOLOGIES股價在公佈第一季度業績後盤前下跌7.7%。"
-    },
-    {
-      "id": "4850757",
-      "time": "2026-04-29 19:16:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度4月經濟報告：印度可推動達成更具雄心的貿易協定，構建多元化供應鏈。"
-    },
-    {
-      "id": "4850756",
-      "time": "2026-04-29 19:15:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "韋德布什將閃迪目標價從740美元上調至1200美元。"
-    },
-    {
-      "id": "4850755",
-      "time": "2026-04-29 19:15:50",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "太平洋防務公司獲美國海軍陸戰隊合同，將研發下一代電子戰原型裝備。"
-    },
-    {
-      "id": "4850754",
-      "time": "2026-04-29 19:15:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【洪田股份：2026年第一季度淨虧損1602.08萬元】洪田股份公告，2026年第一季度營業收入1.18億元，同比下降12.78%。淨虧損1602.08萬元，上年同期淨虧損2524.87萬元。"
-    },
-    {
-      "id": "4850753",
-      "time": "2026-04-29 19:15:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華建集團：第一季度淨利潤410.59萬元，同比下降93.18%】華建集團公告，2026年第一季度營業收入11.91億元，同比下降7.44%。淨利潤410.59萬元，同比下降93.18%。扣除非經常性損益後淨利潤-805.22萬元，同比下降116.77%。"
-    },
-    {
-      "id": "4850752",
-      "time": "2026-04-29 19:15:37",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "印度財政部報告：盧比持續走弱是推高國內通脹的又一壓力點，或將抬高進口價格。"
-    },
-    {
-      "id": "4850751",
-      "time": "2026-04-29 19:15:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息稱，4月迄今為止，俄羅斯西部港口的原油出口量維持在每日220萬桶，與3月的出口量持平。"
-    },
-    {
-      "id": "4850750",
-      "time": "2026-04-29 19:15:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華建集團：第一季度淨利潤410.59萬元，同比下降93.18%】華建集團公告，2026年第一季度營業收入11.91億元，同比下降7.44%。淨利潤410.59萬元，同比下降93.18%。扣除非經常性損益後淨利潤-805.22萬元，同比下降116.77%。"
-    },
-    {
-      "id": "4850749",
-      "time": "2026-04-29 19:15:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "【沐曦股份：2026年第一季度淨虧損9884.24萬元】沐曦股份公告，2026年第一季度營業收入5.62億元，上年同期3.2億元。歸屬於上市公司股東的淨虧損9884.24萬元，上年同期淨虧損2.33億元。"
-    },
-    {
-      "id": "4850748",
-      "time": "2026-04-29 19:15:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度經濟事務司：經濟增長下行風險加大；通脹、財政赤字上行風險加劇。"
-    },
-    {
-      "id": "4850747",
-      "time": "2026-04-29 19:14:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度經濟事務司：厄爾尼諾或致西南季風降雨量低於常年均值。"
-    },
-    {
-      "id": "4850746",
-      "time": "2026-04-29 19:14:20",
-      "tags": [
-        "行業",
-        "其他",
-        "焦點"
-      ],
-      "text": "國家新聞出版署公佈2026年4月份進口網路遊戲審批資訊，共7款遊戲獲批。"
-    },
-    {
-      "id": "4850745",
-      "time": "2026-04-29 19:14:17",
-      "tags": [
-        "央行",
-        "市場",
-        "國際"
-      ],
-      "text": "以色列央行行長阿米爾・亞龍表示，自 10 月 7 日衝突爆發以來，以色列戰爭開支已達約4050 億新謝克爾（摺合約 1370 億美元），給經濟帶來沉重壓力。 政府債務佔國內生產總值比重從約 60% 飆升至 70%，多年財政成果付諸東流。"
-    },
-    {
-      "id": "4850744",
-      "time": "2026-04-29 19:13:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "【京投發展：第一季度淨虧損1.28億元】京投發展公告，2026年第一季度營業收入8.29億元，上年同期2.54億元。淨虧損1.28億元，上年同期淨虧損1.49億元。"
-    },
-    {
-      "id": "4850743",
-      "time": "2026-04-29 19:13:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "德意志銀行將恩智浦半導體目標股價從265美元上調至315美元。"
-    },
-    {
-      "id": "4850742",
-      "time": "2026-04-29 19:13:33",
-      "tags": [
-        "宏觀",
-        "公司"
-      ],
-      "text": "德國財政部長：我們不指望2027年能獲得私有化收益，政府內部關於Uniper（uniper，德國能源巨頭）與SEFE（德國能源儲存與電力銷售公司）的討論仍在進行中。"
-    },
-    {
-      "id": "4850741",
-      "time": "2026-04-29 19:13:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度4月經濟報告：一年期就業預期仍維持正值但有所走弱，表明市場對未來就業的樂觀情緒有所降溫。"
-    },
-    {
-      "id": "4850740",
-      "time": "2026-04-29 19:13:23",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "印度財政部報告：物價壓力高企或將加大增長與通脹之間政策權衡的難度。"
-    },
-    {
-      "id": "4850739",
-      "time": "2026-04-29 19:13:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "【海利生物：5月6日起實施退市風險警示 股票簡稱變更為“*ST海利”】海利生物(603718.SH)公告稱，公司2025年度經審計的利潤總額、淨利潤及扣非淨利潤均為負值，且營業收入低於3億元，觸及退市風險警示情形。公司股票將於2026年4月30日停牌一天，自2026年5月6日起實施退市風險警示，股票簡稱變更為“*ST海利”。"
-    },
-    {
-      "id": "4850738",
-      "time": "2026-04-29 19:13:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【松芝股份：2026年一季度淨利潤7139.07萬元，同比下降23.43%】松芝股份公告，2026年第一季度營收為11.95億元，同比下降1.45%；淨利潤為7139.07萬元，同比下降23.43%。"
-    },
-    {
-      "id": "4850737",
-      "time": "2026-04-29 19:13:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "【寧波能源：第一季度淨利潤7251.81萬元，同比增長71.60%】寧波能源公告，2026年第一季度營收為10.7億元，同比增長9.78%；淨利潤為7251.81萬元，同比增長71.60%。"
-    },
-    {
-      "id": "4850736",
-      "time": "2026-04-29 19:13:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "【寧波能源：第一季度淨利潤7251.81萬元，同比增長71.60%】寧波能源公告，2026年第一季度營收為10.7億元，同比增長9.78%；淨利潤為7251.81萬元，同比增長71.60%。"
-    },
-    {
-      "id": "4850735",
-      "time": "2026-04-29 19:12:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度4月經濟報告：伊朗危機預計不會對金融穩定造成不利影響。"
-    },
-    {
-      "id": "4850734",
-      "time": "2026-04-29 19:12:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【東南網架：第一季度淨利潤1525.4萬元，同比下降67.48%】東南網架公告，第一季度營收為18.96億元，同比下降22.23%；淨利潤為1525.4萬元，同比下降67.48%。"
-    },
-    {
-      "id": "4850733",
-      "time": "2026-04-29 19:12:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【張家港行：第一季度淨利潤5.76億元，同比增長2.50%】張家港行公告，2026年第一季度營業收入12.66億元，同比下降4.43%。歸屬於上市公司股東的淨利潤5.76億元，同比增長2.50%。基本每股收益0.24元/股，同比增長4.35%。"
-    },
-    {
-      "id": "4850732",
-      "time": "2026-04-29 19:12:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "道達爾能源執行長：我們將等待霍爾木茲海峽局勢真正穩定後，才會重啟該地區的業務運營。"
-    },
-    {
-      "id": "4850731",
-      "time": "2026-04-29 19:12:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【晶科能源：2025年度淨虧損68.82億元】晶科能源(688223)釋出2025年年度報告，實現營業收入654.92億元，同比下降29.18%；歸屬於上市公司股東的淨利潤為-68.82億元，較2024年淨利潤9892.76萬元由盈轉虧。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。公司Q4淨利潤-29.61億，Q3淨利潤-10.12億，據此計算，Q4淨利潤環比持續虧損。"
-    },
-    {
-      "id": "4850730",
-      "time": "2026-04-29 19:12:26",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印度4月經濟報告：通脹或轉變為成本推動型通脹，原因是企業與生產商為保護利潤率，會將上漲的投入成本轉嫁給下游。"
-    },
-    {
-      "id": "4850729",
-      "time": "2026-04-29 19:12:20",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印度經濟事務司：批發物價上漲顯現成本推動型通脹抬頭跡象。"
-    },
-    {
-      "id": "4850728",
-      "time": "2026-04-29 19:12:10",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【聯電第一季度營收超預期 下半年將調漲晶圓價格】晶片製造商聯電(UMC.US)週三表示，儘管面臨儲存晶片供應短缺及伊朗戰爭影響等逆風因素，市場需求仍展現韌性，公司將在今年下半年上調價格。聯電公佈第一季度營收為新臺幣610.4億元(約合19.3億美元)，超出預期1000萬美元，同比增長5.5%；淨利潤為新臺幣161.7億元，同比大增108%。聯電在財報宣告中指出，進入第二季度，通訊領域需求回升，加之計算機、消費電子及工業市場需求穩健，預計晶圓出貨量將保持強勁。"
-    },
-    {
-      "id": "4850727",
-      "time": "2026-04-29 19:12:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "【潞化科技：2026年第一季度淨虧損4871.62萬元】潞化科技公告，2026年第一季度營業收入22.97億元，同比下降1.84%。淨虧損4871.62萬元，上年同期淨虧損1.4億元。"
-    },
-    {
-      "id": "4850726",
-      "time": "2026-04-29 19:11:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "印尼鎳礦企業淡水河谷印尼：第一季度鎳冰鎳產量為13620公噸，上年同期為17027噸。"
-    },
-    {
-      "id": "4850725",
-      "time": "2026-04-29 19:11:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度經濟事務司：中東危機拖累印度27 財年初工業表現。全球能源市場形勢變化對通脹構成顯著上行風險。"
-    },
-    {
-      "id": "4850724",
-      "time": "2026-04-29 19:11:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度經濟事務司：印度需求端指標整體韌性依舊穩健。"
-    },
-    {
-      "id": "4850723",
-      "time": "2026-04-29 19:11:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "【潞化科技：2026年第一季度淨虧損4871.62萬元】潞化科技公告，2026年第一季度營業收入22.97億元，同比下降1.84%。淨虧損4871.62萬元，上年同期淨虧損1.4億元。"
-    },
-    {
-      "id": "4850722",
-      "time": "2026-04-29 19:11:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國寶安：第一季度淨利潤1746.27萬元，同比下降89.64%】中國寶安公告，2026年第一季度營業收入58.23億元，同比增長19.72%。淨利潤1746.27萬元，同比下降89.64%。"
-    },
-    {
-      "id": "4850721",
-      "time": "2026-04-29 19:11:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "【長青科技：2026年第一季度淨利潤1241.14萬元，同比下降2.34%】長青科技公告，2026年第一季度營收為1.25億元，同比增長29.73%；淨利潤為1241.14萬元，同比下降2.34%。"
-    },
-    {
-      "id": "4850720",
-      "time": "2026-04-29 19:11:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "【黑貓股份：2026年第一季度淨虧損9507.71萬元】黑貓股份公告，2026年第一季度營業收入18.98億元，同比下降12.94%。淨虧損9507.71萬元，上年同期淨虧損3551.81萬元。"
-    },
-    {
-      "id": "4850719",
-      "time": "2026-04-29 19:11:01",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "維塔可可股價盤前上漲20%，此前該公司上調年度銷售預期。"
-    },
-    {
-      "id": "4850718",
-      "time": "2026-04-29 19:10:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "道達爾能源執行長表示：在所有情景下，我預計2026年原油價格至少都會達到每桶80美元。"
-    },
-    {
-      "id": "4850717",
-      "time": "2026-04-29 19:10:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯外長拉夫羅夫將於 5 月 14 日至 15 日訪問印度。"
-    },
-    {
-      "id": "4850716",
-      "time": "2026-04-29 19:10:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "【易思維：2026年第一季度淨虧損3017.8萬元】易思維公告，2026年第一季度營業收入2728.74萬元，同比增長37.7%。淨虧損3017.8萬元，上年同期淨虧損1895.75萬元。"
-    },
-    {
-      "id": "4850715",
-      "time": "2026-04-29 19:09:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "東鵬飲料：公司2026年一季度實現淨利潤12.57億元，同比增長28.31%。"
-    },
-    {
-      "id": "4850714",
-      "time": "2026-04-29 19:09:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "晶科能源：一季度淨虧損13.5億元，上年同期虧損13.9億元。"
-    },
-    {
-      "id": "4850713",
-      "time": "2026-04-29 19:08:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國倫敦北部戈德斯格林發生持刀傷人事件，兩人遇刺，一名男子已被捕。"
-    },
-    {
-      "id": "4850712",
-      "time": "2026-04-29 19:08:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以軍空襲黎南部致2人死亡 】黎巴嫩軍方29日發表宣告說，以色列當天對黎南部賓特朱拜勒地區發動空襲，造成一名軍方人員及其兄弟死亡。宣告說，這名軍方人員與其兄弟在騎摩托車從工作地點返回住所途中遭空襲身亡。"
-    },
-    {
-      "id": "4850711",
-      "time": "2026-04-29 19:08:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "【光大嘉寶：2026年第一季度淨虧損1.12億元】光大嘉寶公告，2026年第一季度營業收入3.31億元，同比下降6.57%。淨虧損1.12億元，上年同期淨虧損1.18億元。"
-    },
-    {
-      "id": "4850710",
-      "time": "2026-04-29 19:08:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "【軟控股份：一季度淨利潤3037.98萬元 同比下降60.02%】軟控股份(002073)4月29日披露一季報，公司2026年一季度實現營業收入16.76億元，同比下降7.29%；歸母淨利潤3037.98萬元，同比下降60.02%。報告期內，1.第一季度收入規模下降，利潤較同期有所下降；2.撫順及盤錦伊科思消費稅事項自2025年第二季度開始繳納，2025年一季度並未受其影響，故報告期內對利潤影響較大。同時，受化工行業整體環境的影響，下游需求較去年同期有較大程度的下滑。"
-    },
-    {
-      "id": "4850709",
-      "time": "2026-04-29 19:08:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "【廣電網路：2026年第一季度淨虧損1.88億元】廣電網路公告，2026年第一季度營業收入2.64億元，同比下降24.79%。淨虧損1.88億元，上年同期淨虧損1.48億元。"
-    },
-    {
-      "id": "4850708",
-      "time": "2026-04-29 19:08:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "【阿聯酋石油企業通知客戶下月在霍爾木茲海峽外提貨】據美國方面28日訊息，阿拉伯聯合大公國一家國營石油企業已通知其部分長期客戶，5月份可在波斯灣外的富查伊拉港以船對船轉運方式提取貨物。這表明已有阿聯酋油輪突破伊朗和美國的“雙重封鎖”，穿過霍爾木茲海峽。（央視新聞）"
-    },
-    {
-      "id": "4850707",
-      "time": "2026-04-29 19:07:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "德意志銀行將星巴克目標價從114美元上調至120美元；將可口可樂目標價從86美元上調至88美元；將景順目標股價從30美元上調至31美元。"
-    },
-    {
-      "id": "4850706",
-      "time": "2026-04-29 19:07:17",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【安迪蘇：第一季度淨利潤3.06億元，同比下降34.27%】安迪蘇公告，2026年第一季度營收為44.03億元，同比增長2.42%；淨利潤為3.06億元，同比下降34.27%。利潤下降主要系功能性產品價格雖然在季度末出現價格上漲，但相較去年整體承壓，抵消了全球主要市場蛋氨酸銷量增長以及特種品業務在銷售(+19%)和毛利(+16%)均實現的雙位數增長帶來的積極影響。"
-    },
-    {
-      "id": "4850705",
-      "time": "2026-04-29 19:06:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【金圓股份：第一季度淨虧損5812.29萬元】金圓股份公告，2026年第一季度營收為36.35億元，同比增長108.59%；淨虧損5812.29萬元，上年同期淨利潤1616.87萬元。"
-    },
-    {
-      "id": "4850704",
-      "time": "2026-04-29 19:06:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【越秀資本：一季度淨利潤12.97億元，同比增長97.68%】越秀資本公告，2026年第一季度營業總收入15.39億元，同比下降16.92%；淨利潤12.97億元，同比增長97.68%。"
-    },
-    {
-      "id": "4850703",
-      "time": "2026-04-29 19:06:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【美格智慧：第一季度淨利潤4665.47萬元，同比增長0.76%】美格智慧公告，2026年第一季度營收為9.28億元，同比下降6.97%；淨利潤為4665.47萬元，同比增長0.76%。"
-    },
-    {
-      "id": "4850702",
-      "time": "2026-04-29 19:06:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "德國財長克林貝爾：目前尚未到考慮暫停債務剎車機制的階段。"
-    },
-    {
-      "id": "4850701",
-      "time": "2026-04-29 19:05:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "【正和生態：2026年第一季度淨利潤虧損1290.3萬元，同比下降130.71%】正和生態公告，2026年第一季度營業收入6710.85萬元，同比下降5.30%。淨利潤虧損1290.3萬元，上年同期淨利潤4201.56萬元。"
-    },
-    {
-      "id": "4850700",
-      "time": "2026-04-29 19:05:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "黑石抵押貸款信託第一季度可歸屬股東淨虧損為630萬美元。"
-    },
-    {
-      "id": "4850699",
-      "time": "2026-04-29 19:05:13",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "通用動力公司股價盤前上漲1%，此前該公司公佈一季度營收超出市場預期，一季度利潤實現上調。"
-    },
-    {
-      "id": "4850698",
-      "time": "2026-04-29 19:05:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "【柳藥集團：2026年第一季度淨利潤2.25億元，同比下降19.02%】柳藥集團公告，2026年第一季度營業收入53.77億元，同比增長1.13%。淨利潤2.25億元，同比下降19.02%。報告期內，公司繼續強化“創新破局、協力突圍”戰略，一方面強化技術創新、服務創新，推動數字化轉型，加快公司醫院智慧供應鏈專案實施、醫院端“SPD+AI”增值服務落地、零售端專業健康服務升級和O2O\\B2B即時零售發展。公司以技術、服務創新突破同質競爭，進一步穩固公司與醫院客戶關係，提升零售客戶粘性，構建就醫用藥全鏈條的新生態。"
-    },
-    {
-      "id": "4850697",
-      "time": "2026-04-29 19:05:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中百集團：2026年一季度淨虧損9740.4萬元】中百集團公告，2026年第一季度營業收入20.32億元，同比下降20.83%。淨虧損9740.4萬元，上年同期淨虧損9885.1萬元。"
-    },
-    {
-      "id": "4850696",
-      "time": "2026-04-29 19:04:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【通鼎互聯：2026年第一季度淨利潤5127.4萬元，同比下降61.05%】通鼎互聯公告，2026年第一季度營業收入10.64億元，同比增長61.13%。淨利潤5127.4萬元，同比下降61.05%。"
-    },
-    {
-      "id": "4850695",
-      "time": "2026-04-29 19:04:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【深圳能源：2026年第一季度淨利潤12.49億元，同比下降7.56%】深圳能源公告，2026年第一季度營業收入99.5億元，同比增長1.73%。淨利潤12.49億元，同比下降7.56%。"
-    },
-    {
-      "id": "4850694",
-      "time": "2026-04-29 19:04:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【金龍魚：一季度淨利潤14.82億元，同比增長50.98%】金龍魚公告，2026年第一季度營收為655.31億元，同比增長10.92%；淨利潤為14.82億元，同比增長50.98%。"
-    },
-    {
-      "id": "4850693",
-      "time": "2026-04-29 19:04:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "【烏克蘭正式向以色列提出請求，要求逮捕涉嫌非法運糧船隻】烏克蘭外長在社交平臺發文稱，烏克蘭已透過外交和法律渠道正式向以色列提出請求，要求對“PANORMITIS”號船採取行動。烏克蘭檢察總長辦公室已根據烏克蘭法院的裁決，向以色列當局提交了相關請求，要求逮捕該船，以便進行正在進行的調查。該船涉嫌運載從烏克蘭暫時佔領區的封閉港口非法運輸的糧食貨物，違反了國際法和烏克蘭法律。這不是推特外交，而是一個非常具體的國際法律援助請求，必須得到回應。我們希望以方認真對待，而不是以情緒化的宣告回應。"
-    },
-    {
-      "id": "4850692",
-      "time": "2026-04-29 19:03:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【五礦資本：第一季度淨利潤2.84億元，同比增長48.00%】五礦資本公告，2026年第一季度營業總收入14.39億元，同比下降9.27%；淨利潤2.84億元，同比增長48.00%。"
-    },
-    {
-      "id": "4850691",
-      "time": "2026-04-29 19:03:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "【歌力思：第一季度淨利潤4100.11萬元，同比增長0.14%】歌力思公告，第一季度營收為7.44億元，同比增長7.77%；淨利潤為4100.11萬元，同比增長0.14%。"
-    },
-    {
-      "id": "4850690",
-      "time": "2026-04-29 19:02:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "【星湖科技：2026年第一季度淨虧損4688.96萬元】星湖科技公告，2026年第一季度營業收入37.4億元，同比下降7.41%。歸屬於上市公司股東的淨利潤-4688.96萬元，同比下降109.89%。基本每股收益-0.0282元/股，同比下降109.89%。"
-    },
-    {
-      "id": "4850689",
-      "time": "2026-04-29 19:02:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "【大千生態：2026年第一季度淨虧損1263.27萬元】大千生態公告，2026年第一季度營業收入9646.06萬元，同比增長335.19%。歸屬於上市公司股東的淨虧損1263.27萬元，上年同期淨利潤245.85萬元。"
-    },
-    {
-      "id": "4850688",
-      "time": "2026-04-29 19:02:24",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "通用動力公司盤前上漲3.9%，此前該公司公佈的第一季度每股收益超出預期。"
-    },
-    {
-      "id": "4850687",
-      "time": "2026-04-29 19:02:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭要求以色列扣押一艘載有被盜穀物的船隻。"
-    },
-    {
-      "id": "4850686",
-      "time": "2026-04-29 19:01:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國銀行：第一季度歸母淨利潤566.31億元，同比增長4.17%】中國銀行公告，2026年第一季度營收為1788.46億元，同比增長8.44%；歸母淨利潤為566.31億元，同比增長4.17%。"
-    },
-    {
-      "id": "4850685",
-      "time": "2026-04-29 19:01:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "國家新聞出版署公佈2026年4月份國產網路遊戲審批資訊，共147款遊戲獲批。"
-    },
-    {
-      "id": "4850684",
-      "time": "2026-04-29 19:00:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【藍特光學：第一季度淨利潤1.3億元，同比增長184.40%】 藍特光學公告，2026年第一季度營業收入4.51億元，同比增長76.53%。淨利潤1.3億元，同比增長184.40%。主要系本報告期內，公司各大業務板塊均保持了良好的增長態勢：①光學稜鏡業務作為公司銷售佔比最大的核心業務，持續受益於消費電子領域較為旺盛的終端市場需求，下游對於微稜鏡產品的需求進一步增加，形成了較大的業績增量；②光學透鏡業務作為公司近年來穩定增長的新興板塊，非球面透鏡產品受益於下游光通訊應用等領域的市場需求快速增加，營收貢獻進一步擴大；③光學晶圓業務儘管目前基數較小，但受益於新興技術應用的孵化與相關市場需求增長的催化，業務規模保持快速增長。"
-    },
-    {
-      "id": "4850683",
-      "time": "2026-04-29 19:00:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國至4月24日當週MBA抵押貸款再融資活動指數 977.9，前值1023.1。\n美國至4月24日當週MBA抵押貸款申請活動指數 298.5，前值303.3。\n美國至4月24日當週MBA抵押貸款購買指數 177.7，前值175.6。"
-    },
-    {
-      "id": "4850682",
-      "time": "2026-04-29 19:00:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "瑞幸咖啡：第一季度淨利潤5.061億元人民幣，同比-3.6%。"
-    },
-    {
-      "id": "4850681",
-      "time": "2026-04-29 19:00:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "瑞幸咖啡：第一季度淨營收120.0億元人民幣，同比+35%。"
-    },
-    {
-      "id": "4850680",
-      "time": "2026-04-29 18:59:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中遠海控：第一季度淨利潤58.77億元，同比下降49.75%】中遠海控公告，2026年第一季度營收為517.97億元，同比下降10.63%；淨利潤為58.77億元，同比下降49.75%。"
-    },
-    {
-      "id": "4850679",
-      "time": "2026-04-29 18:59:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【新贛江：2026年第一季度淨利潤310.79萬元，同比下降41.61%】新贛江公告，2026年第一季度營業收入3570.99萬元，同比增長4.61%。淨利潤310.79萬元，同比下降41.61%。"
-    },
-    {
-      "id": "4850678",
-      "time": "2026-04-29 18:59:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【N中科儀：2026年第一季度淨利潤1.72億元，同比增長938.68%】N中科儀公告，2026年第一季度營業收入2.56億元，同比增長38.90%。淨利潤1.72億元，同比增長938.68%。"
-    },
-    {
-      "id": "4850677",
-      "time": "2026-04-29 18:59:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以總理請求推遲其涉腐案聽證會遭駁回】據以色列媒體29日報道，以色列總理內塔尼亞胡當天在特拉維夫地方法院出席其涉腐敗案聽證會，法院駁回其推遲召開聽證會的請求，但同意內塔尼亞胡暫時離席處理“緊急事務”。據《以色列時報》報道，內塔尼亞胡方向法院申請推遲3小時召開聽證會，但法院駁回了這一請求，僅同意他臨時前往位於特拉維夫的以色列國防軍總部處理“緊急事務”。（新華社）"
-    },
-    {
-      "id": "4850676",
-      "time": "2026-04-29 18:59:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "【星環科技：2026年第一季度淨虧損5599.84萬元】星環科技公告，2026年第一季度營業收入8124.58萬元，同比增長26.24%。歸屬於上市公司股東的淨利潤-5599.84萬元，上年同期為-8357.71萬元。基本每股收益-0.46元／股，上年同期為-0.69元／股。"
-    },
-    {
-      "id": "4850675",
-      "time": "2026-04-29 18:59:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "【安旭生物：第一季度淨虧損1036萬元】安旭生物公告，2026年第一季度營收為7119.89萬元，同比下降38.25%；淨虧損1036萬元，上年同期淨利潤為3402.96萬元。"
-    },
-    {
-      "id": "4850674",
-      "time": "2026-04-29 18:59:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "【安旭生物：2025年淨利潤6942.13萬元，同比下降63.90%】安旭生物公告，2025年營業收入4.51億元，同比下降16.54%；淨利潤6942.13萬元，同比下降63.90%。公司擬向全體股東每10股派發現金紅利8元（含稅），合計派發現金紅利1.01億元（含稅），佔本年度合併報表歸屬於上市公司股東淨利潤的146.10%。"
-    },
-    {
-      "id": "4850673",
-      "time": "2026-04-29 18:58:24",
-      "tags": [
-        "央行",
-        "公司"
-      ],
-      "text": "【法巴銀行：鑑於通脹風險，英國央行或在2026年加息兩次】法國巴黎銀行的保羅·霍林斯沃思在一個網路研討會上表示，來自高能源價格的通脹壓力可能會促使英國央行在2026年加息兩次。“我們認為，石油供應衝擊的性質，加上粘性基本通脹，將需要英國央行加息。”倫敦證券交易所集團的資料顯示，投資者已完全反映了英國央行到9月前兩次加息25個基點的預期，以及年底前第三次加息的機率為64%。"
-    },
-    {
-      "id": "4850672",
-      "time": "2026-04-29 18:58:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國船舶：第一季度淨利潤48.32億元，同比增長251.64%】中國船舶公告，2026年第一季度營收為433.12億元，同比增長54.90%；淨利潤為48.32億元，同比增長251.64%。"
-    },
-    {
-      "id": "4850671",
-      "time": "2026-04-29 18:58:00",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【2連板利通電子：持有的算力裝置均已對外出租 若未來晶片斷供將對業務後續發展產生重要不利影響】利通電子(603629)公告稱，公司股票於4月27日、28日、29日連續3個交易日內收盤價格漲幅偏離值累計達20%，屬於股票交易異常波動。首先，公司算力行業客戶集中度較高，若出現違約情況，極可能對公司業績造成重大不利影響。其次，截至目前，公司持有的算力裝置均已對外出租，若未來晶片斷供，將對公司業務的後續發展產生重要不利影響。再次，越來越多的公司進入算力租賃行業，市場正在變得“擁擠”，公司不僅會逐漸失去先發優勢，還有可能要面對毛利率下滑的經營風險。最後，如果未來AI場景運用的開發不及預期，勢必會產生“降溫”效應，影響公司算力業務的業績。"
-    },
-    {
-      "id": "4850670",
-      "time": "2026-04-29 18:57:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國船舶：2025年淨利潤78.48億元，同比增長86.00%】中國船舶公告，2025年實現營業收入1519.78億元，同比增長13.97%；利潤總額107.24億元，同比增長96.95%；歸屬於上市公司股東的淨利潤78.48億元，同比增長86.00%。公司擬向全體股東每10股派發現金紅利3.65元（含稅），合計擬派發現金紅利人民幣27.47億元，佔2025年度歸屬於上市公司股東淨利潤的比例為35.00%。"
-    },
-    {
-      "id": "4850669",
-      "time": "2026-04-29 18:57:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【理工導航：2026年第一季度淨虧損1390.98萬元】理工導航公告，2026年第一季度營業收入940.14萬元，同比增長116.75%。歸屬於上市公司股東的淨虧損1390.98萬元，上年同期淨虧損1051.6萬元。"
-    },
-    {
-      "id": "4850668",
-      "time": "2026-04-29 18:57:37",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【三菱日聯：若美聯儲強調通脹風險，美元或將上漲】三菱日聯銀行的Derek Halpenny在一份報告中稱，如果美聯儲承認伊朗戰爭推高能源價格帶來了更高的通脹前景，從而表現出“偏緊縮”的立場，美元可能會上漲。他表示，美聯儲主席傑羅姆·鮑威爾可能會在他很可能是最後一次的記者會上強調正在加劇的價格穩定風險。他稱，這可能會導致美國前端收益率躍升，並強化美元需求改善的初步跡象。"
-    },
-    {
-      "id": "4850667",
-      "time": "2026-04-29 18:57:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【ST思科瑞：2026年第一季度淨虧損347.15萬元】ST思科瑞公告，2026年第一季度營業收入4532.89萬元，同比增長17.25%。歸屬於上市公司股東的淨虧損347.15萬元，上年同期淨虧損530.19萬元。"
-    },
-    {
-      "id": "4850666",
-      "time": "2026-04-29 18:57:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "【緯德資訊：2025年淨利潤1189.77萬元，同比增長2.82%】緯德資訊公告，2025年實現營業收入1.39億元，同比增長41.55%；淨利潤1189.77萬元，同比增長2.82%。公司2025年度擬以實施權益分派股權登記日的總股本扣減公司回購專用證券賬戶中的股份為基數，向全體股東每10股派發現金紅利0.45元（含稅），以資本公積金向全體股東每10股轉增4股，不送紅股。預計共派發現金紅利372.12萬元（含稅），預計轉增3307.74萬股。"
-    },
-    {
-      "id": "4850665",
-      "time": "2026-04-29 18:57:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "【慧辰股份：2026年第一季度淨虧損2755.87萬元】慧辰股份公告，2026年第一季度營業收入1.05億元，同比增長36.48%。歸屬於上市公司股東的淨虧損2755.87萬元，上年同期淨虧損1765.7萬元。扣除非經常性損益後淨虧損2958.44萬元。經營活動產生的現金流量淨額1351.2萬元，上年同期淨額15128.84元。"
-    },
-    {
-      "id": "4850664",
-      "time": "2026-04-29 18:57:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "【光線傳媒：電影《去你的島》、《第十七條》有暑期上映的可能】光線傳媒今日在互動平臺表示，公司目前有幾部電影有暑期上映的可能，分別是《去你的島》、《第十七條》。"
-    },
-    {
-      "id": "4850663",
-      "time": "2026-04-29 18:56:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【宏力達：第一季度淨利潤1418.79萬元，同比下降32.10%】宏力達公告，第一季度營收為7408.69萬元，同比下降53.39%；淨利潤為1418.79萬元，同比下降32.10%。"
-    },
-    {
-      "id": "4850662",
-      "time": "2026-04-29 18:56:50",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【昆工科技：收到雲南監管局行政監管措施決定書】昆工科技公告，公司收到中國證券監督管理委員會雲南監管局下發的《行政監管措施決定書》，因財務會計管理不健全和關聯交易未披露違規行為，被採取責令改正的行政監管措施，並記入證券期貨市場誠信檔案。公司將加強證券法律法規學習培訓，提高規範運作意識，建立健全財務管理和資訊披露制度，強化內部控制制度執行。"
-    },
-    {
-      "id": "4850661",
-      "time": "2026-04-29 18:56:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【香飄飄：2025年淨利潤同比下降62.38% 擬10派0.7元】香飄飄(603711)4月29日披露年報，2025年實現營業收入29.26億元，同比下降11%；歸母淨利潤9524.16萬元，同比下降62.38%。公司擬每10股派發現金紅利0.7元(含稅)。報告期內銷量下降。"
-    },
-    {
-      "id": "4850660",
-      "time": "2026-04-29 18:56:28",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【巴克萊：“AI終結SaaS論”在現實中存在繆誤】巴克萊銀行表示，當前市場關於“AI終結SaaS”的悲觀情緒被明顯放大，但企業真實決策邏輯並不支援這一判斷。首先，SaaS支出佔企業整體成本比例極低：典型標普500指數成分股公司年收入約147億美元、IT預算約4.3億美元，而軟體僅佔IT預算約20%，意味著SaaS通常只是企業總支出中的“小頭”。再次，SaaS模式本質上透過外包IT運維，幫助企業減少硬體投入和人員成本（後者佔IT預算約50%），因此即便SaaS訂閱費用上升，整體仍可能降低企業總IT成本。巴克萊指出，AI更可能改變SaaS定價模式與產品形態（如按用量計費、Agent化能力增強），而非短期替代平臺級SaaS；現實企業遷移成本與風險遠高於理論節省空間。"
-    },
-    {
-      "id": "4850659",
-      "time": "2026-04-29 18:56:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【香飄飄：一季度淨利潤9338.93萬元 同比扭虧為盈】香飄飄(603711)4月29日披露一季報，公司2026年一季度實現營業收入8.78億元，同比增長51.41%；歸母淨利潤9338.93萬元，同比扭虧為盈，主要系產品銷量上升所致。"
-    },
-    {
-      "id": "4850658",
-      "time": "2026-04-29 18:56:01",
-      "tags": [
-        "行業"
-      ],
-      "text": "【新能源車滲透率突破60%】乘聯會發文，宣佈截至 4 月 26 日，本月（4 月）全國乘用車市場零售量已突破百萬，達 100.4 萬輛。其中新能源車滲透率突破 60%，共 61.4 萬輛。"
-    },
-    {
-      "id": "4850657",
-      "time": "2026-04-29 18:55:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【比依股份：2025年淨利潤8147.36萬元，同比下降41.62%】比依股份公告，2025年營業收入23.5億元，同比增長14.17%。淨利潤8147.36萬元，同比下降41.62%。"
-    },
-    {
-      "id": "4850656",
-      "time": "2026-04-29 18:55:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "【比依股份：第一季度淨虧損1651.16萬元，同比轉虧】比依股份公告，2026年第一季度營收為5.49億元，同比增長3.50%；淨虧損1651.16萬元，上年同期淨利潤為1501.15萬元。本報告期內全資子公司新建專案剛轉入固定資產，尚處投產初期，產能未完全釋放，投入產出比階段性偏低。"
-    },
-    {
-      "id": "4850655",
-      "time": "2026-04-29 18:55:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "【龍泉股份：2026年一季度淨虧損735.39萬元】龍泉股份公告，2026年第一季度營收為2.03億元，同比增長13.72%；淨虧損735.39萬元，上年同期淨虧損1468.94萬元。"
-    },
-    {
-      "id": "4850654",
-      "time": "2026-04-29 18:55:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【財富趨勢：第一季度淨利潤3453.88萬元，同比下降25.71%】財富趨勢公告，2026年第一季度營收為5371.84萬元，同比下降2.16%；淨利潤為3453.88萬元，同比下降25.71%。"
-    },
-    {
-      "id": "4850653",
-      "time": "2026-04-29 18:55:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【春立醫療：2026年第一季度淨利潤同比增長6.27%】春立醫療公告，2026年第一季度營業收入2.17億元，同比下降5.60%。歸屬於上市公司股東的淨利潤6171.1萬元，同比增長6.27%。基本每股收益0.16元/股，同比增長6.67%。"
-    },
-    {
-      "id": "4850652",
-      "time": "2026-04-29 18:55:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "【機構：2026年全球摺疊手機面板出貨量有望達到2800萬片 同比增長51%】CINNO Research最新報告指出，產業鏈最新訊息顯示，蘋果首款摺疊屏手機——iPhone Fold已進入量產前的最後衝刺階段，預計將於2026年秋季正式釋出。蘋果的入局被視為摺疊屏市場發展的一個重要節點。該機構預測，受蘋果採購訂單等因素驅動，2026年全球摺疊手機面板出貨量將將實現顯著增長，同比增幅可能達到51%，總量有望觸及2800萬片。這一增長趨勢預計將持續。隨著製造成本的逐步最佳化、鉸鏈與螢幕技術的迭代、產品形態的豐富以及軟體生態的進一步完善，市場規模有望穩步擴大。"
-    },
-    {
-      "id": "4850651",
-      "time": "2026-04-29 18:55:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "【龍蟠科技：第一季度淨利潤2.14億元】龍蟠科技公告，2026年第一季度營收為34.97億元，同比增長119.61%；淨利潤為2.14億元，上年同期虧損2594.88萬元。"
-    },
-    {
-      "id": "4850650",
-      "time": "2026-04-29 18:55:09",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【丁薛祥出席第九屆數字中國建設峰會開幕式並發表主旨講話】第九屆數字中國建設峰會29日在福州開幕，中共中央政治局常委、國務院副總理丁薛祥出席開幕式並發表主旨講話。丁薛祥表示，深入推進數字中國建設，提升數智化發展水平，是事關中國式現代化全域性的戰略任務。以習近平同志為核心的黨中央高度重視數字中國建設，作出一系列決策部署，我國數字基礎設施不斷完善，資料要素潛能持續釋放，新業態新模式不斷湧現，繪就一幅幅向新向好的發展畫卷。 丁薛祥指出，當前新一輪科技革命和產業變革加速突破，以人工智慧為代表的數智技術深度重塑全球發展格局，數字經濟發展正邁入智慧經濟新階段。要把握人工智慧發展大勢，加快建設數字中國，全方位賦能經濟社會發展，為中國式現代化注入強大動力。(新華社)"
-    },
-    {
-      "id": "4850649",
-      "time": "2026-04-29 18:55:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "【第九屆數字中國建設峰會數字住建發展分論壇在福州舉辦】4月29日，第九屆數字中國建設峰會數字住建發展分論壇在福建省福州市舉辦，主題為“以數築基、以智賦能，開啟‘十五五’數智住建新徵程”。住房城鄉建設部副部長陳紹旺，福建省副省長王金福出席論壇並致辭。"
-    },
-    {
-      "id": "4850648",
-      "time": "2026-04-29 18:54:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "蒙特利爾銀行將紐柯鋼鐵目標價從235美元上調至250美元。"
-    },
-    {
-      "id": "4850647",
-      "time": "2026-04-29 18:54:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "【愛柯迪：2025年度淨利潤11.71億元，同比增長24.69%】愛柯迪公告，2025年實現營業收入74.13億元，同比增長9.89%；淨利潤11.71億元，同比增長24.69%。擬以10股派發現金股利4元（含稅）。"
-    },
-    {
-      "id": "4850646",
-      "time": "2026-04-29 18:54:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "【愛柯迪：2026年第一季度淨利潤2.19億元，同比下降14.89%】愛柯迪公告，2026年第一季度營收為19.22億元，同比增長15.40%；淨利潤為2.19億元，同比下降14.89%。"
-    },
-    {
-      "id": "4850645",
-      "time": "2026-04-29 18:53:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【獅頭股份：第一季度淨利潤52.63萬元，同比下降9.73%】獅頭股份公告，2026年第一季度營業收入1.14億元，同比下降2.32%。淨利潤52.63萬元，同比下降9.73%。"
-    },
-    {
-      "id": "4850644",
-      "time": "2026-04-29 18:53:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【浦發銀行：第一季度淨利潤178.61億元，同比增長1.49%】浦發銀行公告，2026年第一季度營業收入465.73億元，同比增長1.42%；淨利潤178.61億元，同比增長1.49%。"
-    },
-    {
-      "id": "4850643",
-      "time": "2026-04-29 18:53:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【康樂衛士：公司股票自5月6日起被實施退市風險警示】康樂衛士公告，公司2025年度經審計的歸屬於上市公司股東的所有者權益為負值，根據《北京證券交易所股票上市規則》相關規定，公司股票自2026年5月6日開市起被實施“退市風險警示”，股票簡稱由“康樂衛士”變更為“*ST康樂”，股票程式碼仍為“920575”。公司股票自2026年4月30日開市起停牌一天，5月6日開市起復牌。"
-    },
-    {
-      "id": "4850642",
-      "time": "2026-04-29 18:53:39",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【安道麥A：一季度淨利潤5.69億元 同比增長276.65%】安道麥A(000553)4月29日披露一季報，公司2026年一季度實現營業收入72.06億元，同比增長0.46%；歸母淨利潤5.69億元，同比增長276.65%，基本每股收益0.244元。公司2026年第一季度毛利與毛利率同比提升，主要原因在於匯率走勢有利、銷售額增長以及業務質量提升，抵消了價格下跌和美元計價成本上升的影響。"
-    },
-    {
-      "id": "4850641",
-      "time": "2026-04-29 18:53:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "【潮宏基：一季度淨利潤2.64億元，同比增長39.52%】潮宏基公告，第一季度營收為24.98億元，同比增長10.93%；淨利潤為2.64億元，同比增長39.52%。"
-    },
-    {
-      "id": "4850640",
-      "time": "2026-04-29 18:53:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "【金逸影視：2026年第一季度淨虧損2163.69萬元】金逸影視公告，2026年第一季度營業收入2.45億元，同比下降51.46%。淨虧損2163.69萬元，上年同期淨利潤1.06億元。"
-    },
-    {
-      "id": "4850639",
-      "time": "2026-04-29 18:53:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "【慈文傳媒：2026年第一季度淨虧損1313.28萬元】慈文傳媒公告，2026年第一季度營收為247.5萬元，同比下降98.69%；淨虧損1313.28萬元，上年同期淨利潤202.7萬元。"
-    },
-    {
-      "id": "4850638",
-      "time": "2026-04-29 18:53:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【廣宇集團：2026年一季度淨虧損416.3萬元】廣宇集團公告，2026年第一季度營業收入3.11億元，同比下降64.04%。淨虧損416.3萬元，上年同期淨虧損3816.13萬元。"
-    },
-    {
-      "id": "4850637",
-      "time": "2026-04-29 18:53:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "【富恆新材：公司股票可能被實施退市風險警示】富恆新材公告，公司2025年度財務報告內部控制被出具否定意見的審計報告，觸及《北京證券交易所股票上市規則》10.4.2條，公司股票可能被實施退市風險警示。根據規定，如公司2026年度出現連續兩個會計年度財務報告內部控制被出具無法表示意見或否定意見的審計報告，北京證券交易所將對公司股票實施退市風險警示。"
-    },
-    {
-      "id": "4850636",
-      "time": "2026-04-29 18:53:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "【富恆新材：2026年第一季度淨利潤虧損1496.84萬元】富恆新材公告，2026年第一季度營業收入7577.65萬元，同比下降55.01%。淨利潤虧損1496.84萬元，上年同期淨利潤593.3萬元。"
-    },
-    {
-      "id": "4850635",
-      "time": "2026-04-29 18:53:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "【富恆新材：2025年淨虧損1.01億元】富恆新材公告，2025年營業收入3.75億元，同比下降13.17%。歸屬於上市公司股東的淨虧損1.01億元，上年同期淨利潤647.07萬元。"
-    },
-    {
-      "id": "4850634",
-      "time": "2026-04-29 18:52:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國大臣表示：政府正持續制定各類應急方案，以提升航空燃油供應的靈活性；我們已要求英國各煉油廠將供應量提至最大。"
-    },
-    {
-      "id": "4850633",
-      "time": "2026-04-29 18:52:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【森馬服飾：2025年度每10股派1.5元現金紅利】森馬服飾公告稱，2025年度利潤分配方案為以現有總股本2,694,090,160股為基數，向全體股東每10股派1.5元現金（含稅），不送股及轉增股本。股權登記日為2026年5月8日，除權除息日為5月11日。邱光和、邱堅強等5位股東的現金紅利由公司自行派發，其餘委託中國結算深圳分公司代派。本次權益分派後，公司將對2026年股票期權的行權價格進行相應調整。"
-    },
-    {
-      "id": "4850632",
-      "time": "2026-04-29 18:52:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【浪潮資訊：第一季度淨利潤同比增長30.74%】浪潮資訊(000977.SZ)公告稱，2026年第一季度實現營業收入354.70億元，同比下降24.30%；歸屬於上市公司股東的淨利潤為6.05億元，同比增長30.74%。公司Q1淨利潤6.05億，2025年Q4淨利潤9.31億，據此計算，Q1淨利潤環比下降35%。"
-    },
-    {
-      "id": "4850631",
-      "time": "2026-04-29 18:52:24",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "科威特央行：3月份對私營部門銀行貸款同比增長7.29%。"
-    },
-    {
-      "id": "4850630",
-      "time": "2026-04-29 18:52:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家郵政局：企業要持續深化“反內卷”工作，增強合規經營意識】4月28日，國家郵政局召開主要快遞企業負責人座談會。會議要求，各企業要堅決扛牢主體責任，守牢行業穩定底線，切實履行維護網路穩定主體責任，健全監測預警處置機制，強化風險隱患排查，積極推動矛盾糾紛化解；要持續深化“反內卷”工作，增強合規經營意識，最佳化考核管理規則，規範經營服務行為，維護公平競爭市場環境；要繃緊安全生產之弦，紮實推進安全生產兩項國標宣貫，全面排查整治重大事故隱患，嚴格執行寄遞安全“三項制度”，建強行業平安員隊伍，全面築牢行業安全防線；要抓實權益保障，規範用工管理，健全多層次保障體系，切實維護快遞員群體合法權益；要全面提升服務質量，開展快件丟失損毀專項整治，持續治理農村違規收費問題，不斷提升服務能力和群眾滿意度；要堅持黨建引領，築牢發展根基，積極推進“兩個覆蓋”深化拓展，增強黨組織政治功能和組織功能，推動黨建與生產經營、服務保障、安全生產深度融合，以高質量黨建引領行業高質量發展。（國家郵政局）"
-    },
-    {
-      "id": "4850629",
-      "time": "2026-04-29 18:52:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華達科技：2025年淨利潤同比增長12.7% 擬10派2.6元】華達科技(603358)4月29日披露年報，2025年實現營業收入49.94億元，同比下降2.19%；歸母淨利潤2.54億元，同比增長12.7%；基本每股收益0.55元。公司擬每10股派發現金紅利2.6元(含稅)。報告期內，公司新能源汽車零部件業務實現收入19.55億元，同比增長10.35%，佔公司整個主營業務收入的比例為42.21%。"
-    },
-    {
-      "id": "4850628",
-      "time": "2026-04-29 18:52:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "【富春染織：第一季度淨利潤同比增長1415.88%】富春染織(605189.SH)公告稱，2026年第一季度實現營業收入8.73億元，同比增長30.32%；歸屬於上市公司股東的淨利潤為7329.74萬元，同比增長1415.88%。業績變動主要系公司銷售量增加，產品成本結構不斷最佳化，疊加大宗商品棉花漲價所致。公司Q1淨利潤0.73億，2025年Q4淨利潤0.53億，據此計算，Q1淨利潤環比增長37%。"
-    },
-    {
-      "id": "4850627",
-      "time": "2026-04-29 18:51:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華熙生物：第一季度淨利潤同比下降36.55%】華熙生物(688363.SH)公告稱，2026年第一季度實現營業收入8.29億元，同比下降23.06%；歸屬於上市公司股東的淨利潤為0.65億元，同比下降36.55%。業績變動主要系皮膚科學創新轉化業務收入同比下降所致。公司Q1淨利潤0.65億，2025年Q4淨利潤0.4億，據此計算，Q1淨利潤環比增長62%。"
-    },
-    {
-      "id": "4850626",
-      "time": "2026-04-29 18:51:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "渤健：預計目前適用於本公司業務的關稅不會對2026年的運營產生重大不利影響。"
-    },
-    {
-      "id": "4850625",
-      "time": "2026-04-29 18:51:34",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "據花旗集團資料，房利美的機構類住房抵押貸款支援證券（MBS）持倉規模上月激增 177 億美元，這是 2009 年以來的最大增幅。"
-    },
-    {
-      "id": "4850624",
-      "time": "2026-04-29 18:50:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "【曝iPhone明年記憶體成本將佔整機45%】據 JP 摩根分析，蘋果公司目前正面臨來自儲存供應鏈的前所未有成本壓力，到 2027 年（明年），iPhone 中儲存器（RAM 記憶體與快閃記憶體）的成本佔比可能從當前的 10% 飆升至 45%，成為整機成本控制中最關鍵的部分之一。"
-    },
-    {
-      "id": "4850623",
-      "time": "2026-04-29 18:49:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "【恒生電子：第一季度淨利潤同比增長342.87%】恒生電子(600570.SH)公告稱，2026年第一季度實現營業收入9.05億元，同比下降11.75%；歸屬於上市公司股東的淨利潤為1.39億元，同比增長342.87%。業績變動主要系公司本期投資收益與公允價值變動收益比上年同期增加所致。"
-    },
-    {
-      "id": "4850622",
-      "time": "2026-04-29 18:49:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "恒生電子第一季度營收9.053億元人民幣。"
-    },
-    {
-      "id": "4850621",
-      "time": "2026-04-29 18:48:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【百勝中國：一季度淨新增門店636家，創單季歷史新高】4月29日，百勝中國在港交所公告，2026年第一季度，總收入同比增長10%至33億美元，或增長4%，不計及外幣換算影響；淨新增門店636家，創單季歷史新高，是去年同期的兩倍以上，其中淨新增加盟店佔比為39%；截至2026年3月31日，門店總數達到18,737家；經營利潤同比增長12%至4.47億美元，創一季度新高；餐廳利潤率為18.2%，同比下降40個基點，主要由於因外賣佔比提升而增加的騎手成本，部分被營運精簡所抵銷；每股攤薄盈利同比增長13%至0.87美元，或同比增長7%，不計及外幣換算影響。"
-    },
-    {
-      "id": "4850620",
-      "time": "2026-04-29 18:48:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "【鵬鼎控股：第一季度淨利潤同比下降5.21%】鵬鼎控股(002938.SZ)公告稱，2026年第一季度實現營業收入79.86億元，同比下降1.25%；歸屬於上市公司股東的淨利潤為4.63億元，同比下降5.21%。公司Q1淨利潤4.63億，2025年Q4淨利潤13.3億，據此計算，Q1淨利潤環比下降65%。"
-    },
-    {
-      "id": "4850619",
-      "time": "2026-04-29 18:47:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【瑞銀稱有錢客戶對私募信貸的熱情降溫 更偏好流動性與資本保全】瑞銀集團首席財務官Todd Tuckner表示，最近的事態發展已讓該公司的有錢客戶對私募信貸的熱情降溫，加劇了該資產類別面臨的挑戰。Tuckner週三在分析師電話會議上表示，在當前環境下，有錢客戶對私募信貸的熱情變得更加“審慎”，這明顯反映出宏觀經濟的不確定性，以及客戶更偏好流動性與資本保全。目前規模達1.8萬億美元的私募信貸產業在歷經多年快速擴張後，正遭遇一些增長痛。"
-    },
-    {
-      "id": "4850618",
-      "time": "2026-04-29 18:47:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "東亞塞拜然省官方宣告：特此向大不里士市民告知，城區部分割槽域傳出的爆炸聲，系阿明德村對齋月戰爭遺留爆炸物進行定點可控銷燬所致，民眾無需恐慌。"
-    },
-    {
-      "id": "4850617",
-      "time": "2026-04-29 18:46:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "迪拜媒體辦公室：迪拜國際金融中心（DIFC）3月增長強勁，2026年3月共有258家公司在此設立。"
-    },
-    {
-      "id": "4850616",
-      "time": "2026-04-29 18:46:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "【有研復材：第一季度淨利潤為26.60萬元 同比扭虧為盈】有研復材(688811.SH)公告稱，2026年第一季度實現營業收入1.07億元，同比增長62.22%；歸屬於上市公司股東的淨利潤為26.60萬元，同比扭虧為盈。業績變動主要系銷量增加，營業收入增加，經營性利潤增加所致。"
-    },
-    {
-      "id": "4850615",
-      "time": "2026-04-29 18:46:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基： 我方已統計出，受烏克蘭遠端打擊制裁影響，俄羅斯石油出口損失最新資料如下：普里莫爾斯克港口裝載量下降 13%，新羅西斯克港口下降 38%，烏斯特 - 盧加港口下降 43%。我們認為俄方這類內部統計資料存在低估。與此同時，我方將持續開展行動，進一步削減俄羅斯的石油收入與出口規模。"
-    },
-    {
-      "id": "4850614",
-      "time": "2026-04-29 18:46:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "瀘州老窖2025年全年營收257.3億元、淨利108.3億元；2026年一季度營收80.3億元、淨利37.1億元。"
-    },
-    {
-      "id": "4850613",
-      "time": "2026-04-29 18:46:01",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "澤連斯基：烏克蘭將持續打擊俄羅斯石油相關設施。"
-    },
-    {
-      "id": "4850612",
-      "time": "2026-04-29 18:45:27",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【中信建投證券成立未來產業和政策研究院】據中信建投證券官微，中信建投證券未來產業和政策研究院正式成立，該研究院作為公司戰略級的綜合性研究平臺，將發揮分析研究專長，賦能中國產業升級，聚焦“四投聯動”，致力於構建“資源整合型”的高階智庫，進一步提升公司研究業務“第一名片”功能定位和專業影響力，力爭為公司打造“三ZHI一新一化”一流投資銀行貢獻戰略力量。"
-    },
-    {
-      "id": "4850611",
-      "time": "2026-04-29 18:45:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "【信立泰：SAL0167片臨床試驗申請獲受理】信立泰(002294.SZ)公告稱，公司收到國家藥品監督管理局核准簽發的受理通知書，自主研發的創新藥SAL0167片臨床試驗申請獲得受理。該藥品為環肽藥物，擬用於高脂血症，具有成為強效降脂優選方案的潛力。公告提示，藥品研發週期長、風險較高，短期內對公司業績不會產生實際影響。"
-    },
-    {
-      "id": "4850610",
-      "time": "2026-04-29 18:45:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "惠譽評級：全球結構性融資表現受經濟走弱拖累。"
-    },
-    {
-      "id": "4850609",
-      "time": "2026-04-29 18:44:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "【山東國信新進浙商銀行前十大股東，3月末持股比例升至2.94%】浙商銀行披露2026年第一季度報告顯示，山東省國際信託股份有限公司（簡稱“山東國信”）於一季度大舉增持，3月末持股數量超過8.08億股，佔該行總股本的2.94%，進入該行前十大股東序列。據瞭解，山東國信於2023年5月透過參與股權拍賣完成對浙商銀行的入股，持有該行6.38億股股份。截至3月末，浙商銀行總資產突破3.7萬億元，較年初增長6.6%。今年一季度，該行實現營業收入171.9億元、歸母淨利潤59.9億元，分別同比增長0.5%、0.7%。"
-    },
-    {
-      "id": "4850608",
-      "time": "2026-04-29 18:44:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "迪拜媒體辦公室：一季度共有775家新企業在迪拜國際金融中心設立區域辦事處。"
-    },
-    {
-      "id": "4850607",
-      "time": "2026-04-29 18:44:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿聯酋官員表示： 目前阿聯酋不考慮任何退出舉措 。"
-    },
-    {
-      "id": "4850606",
-      "time": "2026-04-29 18:43:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "【全國超90所高校成立人工智慧學院，AI+帶動學科融合潮】近年來，我國高校的院系專業設定調整不斷加快。4月25日，河南農業大學人工智慧學院成立儀式暨農業人工智慧論壇在河南農業大學龍子湖校區舉行。河南農業大學黨委書記嶽傑勇稱，人工智慧學院的成立體現了高起點匯聚戰略資源，融合科教產多方力量，創新“三位一體”協同模式的高、融、新三大特質。學院將聚焦智慧農業，突破“卡脖子”難題，著力打造人才培養高地、創新基地和融合發展陣地，為農業強國建設貢獻智慧力量。為保障國家糧食安全、推進農業農村現代化、建設農業強國和農業強省貢獻更多智慧和力量。此外，近期還有多所高校組建人工智慧學院，包括鄭州師範學院、安慶師範大學、五邑大學。第一財經記者根據公開資料統計發現，目前全國已有超過90所高校成立人工智慧學院。（第一財經）"
-    },
-    {
-      "id": "4850605",
-      "time": "2026-04-29 18:43:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "【佩斯科夫：俄羅斯沒有退出歐佩克+的計劃】俄羅斯總統新聞秘書佩斯科夫4月29日表示，俄羅斯尊重阿聯酋退出歐佩克及歐佩克+的決定，並期待繼續與該國進行能源對話。俄羅斯沒有退出歐佩克+的計劃。"
-    },
-    {
-      "id": "4850604",
-      "time": "2026-04-29 18:43:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿聯酋官員表示：阿聯酋正在重新評估自身對各多邊機構在全領域所發揮的作用與作出貢獻的關聯性及效用。"
-    },
-    {
-      "id": "4850603",
-      "time": "2026-04-29 18:42:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【容百科技：第一季度淨利潤為1160.07萬元 同比扭虧為盈】容百科技公告，公司2026年第一季度實現營業收入37.81億元，同比增長27.58%；歸屬於上市公司股東的淨利潤為1160.07萬元，同比扭虧為盈。業績變動主要系在部分關鍵原材料價格存在上行預期的背景下，公司採取了相對積極的庫存策略，提升了公司的盈利空間。"
-    },
-    {
-      "id": "4850602",
-      "time": "2026-04-29 18:41:43",
-      "tags": [
-        "央行",
-        "市場"
-      ],
-      "text": "【機構：全球供應衝擊意味著英國央行降息的可能性不大】Dun & Bradstreet的John Payne在一份報告中表示，儘管最初預計2026年將降息，但全球供應衝擊改變了英國央行的前景。他預計，由於全球能源和其他商品價格已經上漲，英國央行將把基準利率維持在3.75%。這位高階經濟學家說：“即便對海灣地區進口的直接依賴度較低，英國也面臨通脹的連鎖反應，到第三季度通脹率可能達到3.5%。”“將利率維持在當前水平將反映出該行對通脹的謹慎態度。”他說，英國經濟近來顯現出的韌性降低了降息的必要性。英國央行將於週四公佈一項決定。"
-    },
-    {
-      "id": "4850601",
-      "time": "2026-04-29 18:41:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "卡達國民銀行：該專案預計每年可生產至多20萬噸生物燃料。"
-    },
-    {
-      "id": "4850600",
-      "time": "2026-04-29 18:40:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "長高電新：擬擇機出售持有的富特科技的股票779.27萬股，佔富特科技目前股份總數的5.01%。"
-    },
-    {
-      "id": "4850599",
-      "time": "2026-04-29 18:40:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "富國銀行將通用汽車目標股價從57美元上調至59美元。"
-    },
-    {
-      "id": "4850598",
-      "time": "2026-04-29 18:40:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "【光峰科技：第一季度淨虧損3727.89萬元】光峰科技公告，2026年第一季度營業收入2.32億元，同比下降49.67%。淨虧損3727.89萬元，上年同期淨虧損2135.96萬元。"
-    },
-    {
-      "id": "4850597",
-      "time": "2026-04-29 18:40:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【光峰科技：2025年淨利潤虧損2.74億元】光峰科技公告，2025年營業收入17.09億元，同比下降29.32%。淨利潤虧損2.74億元，上年同期淨利潤2795.31萬元。公司2025年度擬不派發現金紅利，不送紅股，不以公積金轉增股本。"
-    },
-    {
-      "id": "4850596",
-      "time": "2026-04-29 18:40:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "卡達國民銀行（QNB）將參與融資，開發中東最大的單筆可持續航空燃料生產設施。"
-    },
-    {
-      "id": "4850595",
-      "time": "2026-04-29 18:40:20",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "富國銀行將美國鋼鐵公司目標股價從213美元上調至244美元。"
-    },
-    {
-      "id": "4850594",
-      "time": "2026-04-29 18:39:58",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【中金嶺南：一季度淨利潤5.04億元 同比增長84.45%】中金嶺南(000060)4月29日披露一季報，公司2026年一季度實現營業收入190.14億元，同比增長21.3%；歸母淨利潤5.04億元，同比增長84.45%。"
-    },
-    {
-      "id": "4850593",
-      "time": "2026-04-29 18:39:24",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【勞動力短缺 日本航空將引入人形機器人】日本航空公司宣佈，將從5月開始嘗試引進人形機器人在東京羽田機場從事地面服務工作，以節省人力。 據英國廣播公司28日報道，這一試驗專案由日本航空公司和GMO AI機器人公司合作，為期兩年。日航在宣告中說，地面服務作業高度依賴人力，傳統固定式自動化裝置和單一功能機器人難以適應現有基礎設施和複雜操作流程，而使用人形機器人則無需對現有機場設施或飛機結構進行重大改造。"
-    },
-    {
-      "id": "4850592",
-      "time": "2026-04-29 18:39:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【上海股權信託財產登記試點擴圍，落地全國首單合夥企業形式股權家族信託】記者獲悉，4月28日，兩單股權信託財產登記試點案例在上海市普陀區市場監督管理局順利完成股權信託財產登記，推動股權信託登記運用範圍進一步拓展到合夥制企業，運用場景進一步擴充套件至存量資產盤活等領域。其中，上海信託落地全國首單合夥企業形式股權家族信託，建元信託落地上海首單股權信託財產登記的行政管理服務信託。據瞭解，透過最佳化登記註冊系統，試點案例創新性地在國家企業信用資訊公示系統（上海地方頻道）中標註並公示股權信託的信託名稱、信託登記編碼等資訊，為最佳化股權信託登記打造創新實踐樣本。"
-    },
-    {
-      "id": "4850591",
-      "time": "2026-04-29 18:38:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國鐵建：第一季度淨利潤為43.92億元，同比下降14.72%】中國鐵建公告，2026年第一季度營收為2315.82億元，同比下降9.81%；淨利潤為43.92億元，同比下降14.72%。"
-    },
-    {
-      "id": "4850590",
-      "time": "2026-04-29 18:38:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【滬矽產業：2026年第一季度淨虧損4.83億元】滬矽產業公告，2026年第一季度營收為10.84億元，同比增長35.22%；淨虧損4.83億元，上年同期淨虧損2.09億元。"
-    },
-    {
-      "id": "4850589",
-      "time": "2026-04-29 18:38:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【天地科技：第一季度淨利潤4.33億元，同比下降69.86%】天地科技公告，2026年第一季度營業收入59.81億元，同比下降11.64%。淨利潤4.33億元，同比下降69.86%。扣除非經常性損益後淨利潤4.03億元，同比下降14.76%。"
-    },
-    {
-      "id": "4850588",
-      "time": "2026-04-29 18:38:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "【順絡電子：一季度淨利潤1.78億元，同比下降23.71%】順絡電子公告，2026年第一季度營收為16.85億元，同比增長15.34%；淨利潤為1.78億元，同比下降23.71%。"
-    },
-    {
-      "id": "4850587",
-      "time": "2026-04-29 18:38:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【濰柴動力：第一季度淨利潤30.85億元，同比增長13.83%】濰柴動力公告，2026年第一季度營收為625.63億元，同比增長8.87%；淨利潤為30.85億元，同比增長13.83%。"
-    },
-    {
-      "id": "4850586",
-      "time": "2026-04-29 18:38:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "【元隆雅圖：一季度淨利潤虧損302.31萬元，同比下降166.68%】元隆雅圖公告，2026年第一季度營業收入6億元，同比下降8.50%。淨利潤虧損302.31萬元，同比下降166.68%。"
-    },
-    {
-      "id": "4850585",
-      "time": "2026-04-29 18:38:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "大不里士附近銷燬爆炸物現場傳出爆炸聲。"
-    },
-    {
-      "id": "4850584",
-      "time": "2026-04-29 18:38:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：阿聯酋重新評估其在多邊組織中的角色。"
-    },
-    {
-      "id": "4850583",
-      "time": "2026-04-29 18:37:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【梅雁吉祥：第一季度淨虧損1469.79萬元】梅雁吉祥公告，2026年第一季度營收為7120.42萬元，同比增長93.58%；淨虧損1469.79萬元，上年同期淨虧損1651.89萬元。"
-    },
-    {
-      "id": "4850582",
-      "time": "2026-04-29 18:37:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國中冶：第一季度淨利潤16.33億元，同比增長1.59%】中國中冶公告，2026年第一季度營業收入922.04億元，同比下降24.59%；淨利潤16.33億元，同比增長1.59%。"
-    },
-    {
-      "id": "4850581",
-      "time": "2026-04-29 18:37:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "富國銀行將星巴克目標股價從110美元上調至115美元。"
-    },
-    {
-      "id": "4850580",
-      "time": "2026-04-29 18:37:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "德國總理默茨：從伊朗戰事爆發之初，我就對此心存疑慮。 德國乃至整個歐洲正深受其後果影響，霍爾木茲海峽封鎖就是典型一例。"
-    },
-    {
-      "id": "4850579",
-      "time": "2026-04-29 18:37:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "【健友股份：第一季度淨利潤8901.19萬元，同比增長5.07%】健友股份公告，2026年第一季度營收為9.29億元，同比增長4.91%；淨利潤為8901.19萬元，同比增長5.07%。"
-    },
-    {
-      "id": "4850578",
-      "time": "2026-04-29 18:37:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "桑坦德銀行執行長：預計到2026年末，阿根廷業務的風險成本將維持在700個基點左右波動。"
-    },
-    {
-      "id": "4850577",
-      "time": "2026-04-29 18:36:28",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "據港交所披露，4月24日，摩根士丹利對東方電氣股份有限公司H股的多頭持倉佔比從4.34%升至5.28%。"
-    },
-    {
-      "id": "4850576",
-      "time": "2026-04-29 18:36:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "【百勝中國：第一季度淨利潤3.09億美元，同比增長6%】百勝中國公告，2026年第一季度總收入33億美元，同比增長4%。淨利潤3.09億美元，同比增長6%。公司向股東回饋3.16億美元，其中包括2.14億美元的股票回購和1.02億美元的現金股息。"
-    },
-    {
-      "id": "4850574",
-      "time": "2026-04-29 18:36:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國能建：第一季度淨利潤14.54億元，同比下降9.75%】中國能建公告，2026年第一季度營業收入1020.18億元，同比增長1.64%；淨利潤14.54億元，同比下降9.75%。"
-    },
-    {
-      "id": "4850573",
-      "time": "2026-04-29 18:36:00",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【中遠海控：附屬公司中遠海運國際貨運擬225.57萬美元收購中國海貿49%股權】中遠海控公告，於2026年4月29日，公司間接全資附屬公司中遠海運國際貨運與公司關連人士美國海貿訂立股權轉讓協議，據此，中遠海運國際貨運同意購買且美國海貿同意出售中國海貿的49%股權，代價為225.57萬美元（相當於約17,594,442.76港元）。截至公告日期，中遠海運國際貨運持有中國海貿51%股權。於股權轉讓完成後，中遠海運國際貨運將持有中國海貿所有股權，中國海貿繼續為公司的附屬公司，其財務報表將繼續綜合併入集團財務報表。"
-    },
-    {
-      "id": "4850572",
-      "time": "2026-04-29 18:35:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【北辰實業：2026年第一季度淨虧損1.51億元】北辰實業公告，2026年第一季度營收為12.82億元，同比增長7.26%；淨虧損1.51億元，上年同期淨虧損2.95億元。"
-    },
-    {
-      "id": "4850571",
-      "time": "2026-04-29 18:35:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【西藏城投：2026年第一季度淨虧損5304.1萬元】西藏城投公告，2026年第一季度營業收入6501.99萬元，同比下降87.84%。歸屬於上市公司股東的淨利潤-5304.1萬元，上年同期為-3438.66萬元。扣除非經常性損益後淨利潤-5402.27萬元，上年同期為-3505.53萬元。"
-    },
-    {
-      "id": "4850569",
-      "time": "2026-04-29 18:35:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "【蘇寧環球：第一季度淨利潤497.37萬元，同比下降89.40%】蘇寧環球公告，2026年第一季度營收為3.32億元，同比下降15.45%；淨利潤為497.37萬元，同比下降89.40%。"
-    },
-    {
-      "id": "4850568",
-      "time": "2026-04-29 18:35:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "【天康生物：2026年一季度淨虧損1.63億元】天康生物公告，2026年第一季度營收為39.17億元，同比下降6.30%；淨虧損1.63億元，上年同期淨利潤為1.48億元。"
-    },
-    {
-      "id": "4850567",
-      "time": "2026-04-29 18:35:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "【廣東建工：第一季度淨利潤1.12億元，同比下降22.14%】廣東建工公告，第一季度營收為139.6億元，同比下降3.20%；淨利潤為1.12億元，同比下降22.14%。"
-    },
-    {
-      "id": "4850566",
-      "time": "2026-04-29 18:35:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華宏科技：2026年第一季度淨利潤2.16億元，同比增長595.21%】華宏科技公告，2026年第一季度營收為25.12億元，同比增長74.93%；淨利潤為2.16億元，同比增長595.21%。"
-    },
-    {
-      "id": "4850565",
-      "time": "2026-04-29 18:35:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "【葵花葯業：一季度淨利潤1.1億元，同比增長93.11%】葵花葯業公告，2026年第一季度營收為8.44億元，同比增長27.19%；淨利潤為1.1億元，同比增長93.11%。"
-    },
-    {
-      "id": "4850564",
-      "time": "2026-04-29 18:35:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "【索菲亞：2026年第一季度淨虧損3843.1萬元】索菲亞公告，2026年第一季度營業收入15.19億元，同比下降25.46%。淨虧損3843.1萬元，上年同期淨利潤1210.12萬元。"
-    },
-    {
-      "id": "4850563",
-      "time": "2026-04-29 18:35:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "【盈趣科技：第一季度淨利潤9325.65萬元，同比增長21.68%】盈趣科技公告，第一季度營收為11.37億元，同比增長32.37%；淨利潤為9325.65萬元，同比增長21.68%。"
-    },
-    {
-      "id": "4850562",
-      "time": "2026-04-29 18:35:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "【新天藥業：第一季度淨利潤349.52萬元，同比下降16.53%】新天藥業公告，2026年第一季度營收為1.79億元，同比下降7.53%；淨利潤為349.52萬元，同比下降16.53%。"
-    },
-    {
-      "id": "4850561",
-      "time": "2026-04-29 18:34:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "【閩東電力：2026年第一季度淨利潤虧損2718.58萬元】閩東電力公告，2026年第一季度營業收入7952.03萬元，同比下降39.30%。淨利潤虧損2718.58萬元，上年同期淨利潤1123.89萬元。"
-    },
-    {
-      "id": "4850560",
-      "time": "2026-04-29 18:34:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【北方銅業：2026年一季度淨利潤6.15億元，同比增長65.74%】北方銅業公告，2026年第一季度營業收入100.44億元，同比增長46.89%。淨利潤6.15億元，同比增長65.74%。"
-    },
-    {
-      "id": "4850559",
-      "time": "2026-04-29 18:34:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "【和勝股份：一季度淨利潤2459.02萬元，同比增長104.65%】和勝股份公告，2026年第一季度營收為10.14億元，同比增長36.82%；淨利潤為2459.02萬元，同比增長104.65%。"
-    },
-    {
-      "id": "4850558",
-      "time": "2026-04-29 18:34:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【朝陽科技：2026年一季度淨利潤虧損312.5萬元，同比下降114.77%】朝陽科技公告，2026年第一季度營收為3.69億元，同比下降6.99%；淨利潤虧損312.5萬元，上年同期淨利潤為2116.34萬元。歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損380.8萬元，上年同期淨利潤為2052.1萬元。經營活動產生的現金流量淨額為2495.67萬元，同比下降65.36%。基本每股收益為-0.02元/股，上年同期為0.1600元/股。"
-    },
-    {
-      "id": "4850557",
-      "time": "2026-04-29 18:34:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "黑石私人信貸基金（BCRED）投資組合規模突破800億美元。"
-    },
-    {
-      "id": "4850556",
-      "time": "2026-04-29 18:34:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "黑石私人信貸基金公佈季度總流入資金為19億美元，回購金額為32億美元。"
-    },
-    {
-      "id": "4850555",
-      "time": "2026-04-29 18:34:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "黑石私人信貸基金：受地緣政治動盪與人工智慧顛覆擔憂推動，一季度市場波動加劇、不確定性上升。"
-    },
-    {
-      "id": "4850554",
-      "time": "2026-04-29 18:33:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "中信銀行：第一季度淨利息收入362.7億元人民幣。"
-    },
-    {
-      "id": "4850553",
-      "time": "2026-04-29 18:33:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【上海文旅局：29日起，上海居民可赴金門、馬祖旅遊】上海市文旅局4月29日釋出公告：即日起，上海居民可透過上海市、福建省具備相關資質的旅行社報名赴金門、馬祖團隊遊和個人遊，並按規定向上述兩地公安機關出入境管理機構申請辦理赴金門、馬祖旅遊簽註。"
-    },
-    {
-      "id": "4850552",
-      "time": "2026-04-29 18:33:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "義大利邁瑞公司股價漲幅達9.36%後，交易自動停牌。"
-    },
-    {
-      "id": "4850551",
-      "time": "2026-04-29 18:33:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "中信銀行：第一季度淨利潤201.0億元人民幣。"
-    },
-    {
-      "id": "4850550",
-      "time": "2026-04-29 18:33:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【方盛股份：2026年第一季度淨利潤350.2萬元，同比下降50.08%】方盛股份公告，2026年第一季度營業收入8177.93萬元，同比增長9.83%。淨利潤350.2萬元，同比下降50.08%。"
-    },
-    {
-      "id": "4850549",
-      "time": "2026-04-29 18:33:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "【貝因美：累計回購2577.83萬股】貝因美公告，截至2026年4月28日，公司透過股份回購專用證券賬戶以集中競價交易方式累計回購公司股份2577.83萬股，佔公司總股本的2.3868%，最高成交價為7.21元/股，最低成交價為5.16元/股，成交總金額為1.6億元（不含交易費用）。公司本次股份回購的實施符合回購方案及相關法律法規的要求。實際回購時間區間為2025年8月4日至2026年3月30日。"
-    },
-    {
-      "id": "4850548",
-      "time": "2026-04-29 18:33:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "【金達威：第一季度淨利潤6561.32萬元，同比下降46.11%】金達威公告，第一季度營收為8.13億元，同比下降1.68%；淨利潤為6561.32萬元，同比下降46.11%。"
-    },
-    {
-      "id": "4850547",
-      "time": "2026-04-29 18:33:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華軟科技：2026年第一季度淨虧損3829.51萬元】華軟科技公告，2026年第一季度營業收入8916.32萬元，同比下降13.69%。歸屬於上市公司股東的淨虧損3829.51萬元，上年同期淨虧損2272.45萬元。"
-    },
-    {
-      "id": "4850546",
-      "time": "2026-04-29 18:33:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "【東華軟體：2026年一季度淨利潤6195.98萬元，同比增長12.17%】東華軟體公告，2026年第一季度營業收入28.78億元，同比下降7.42%。淨利潤6195.98萬元，同比增長12.17%。扣除非經常性損益後的淨利潤5599.77萬元，同比增長1.85%。經營活動產生的現金流量淨額1.2億元，同比增長154.66%。基本每股收益0.0193元/股，同比增長12.21%。"
-    },
-    {
-      "id": "4850544",
-      "time": "2026-04-29 18:32:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【美迪西：第一季度淨利潤1561.54萬元】美迪西公告，2026年第一季度營收為3.65億元，上年同期為2.67億元；淨利潤為1561.54萬元，上年同期為-1454.68萬元。"
-    },
-    {
-      "id": "4850543",
-      "time": "2026-04-29 18:32:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "【雲南白藥：第一季度淨利潤20.37億元，同比增長5.31%】雲南白藥公告，2026年第一季度營收為116.03億元，同比增長7.02%；淨利潤為20.37億元，同比增長5.31%。"
-    },
-    {
-      "id": "4850542",
-      "time": "2026-04-29 18:32:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【仁東控股：第一季度淨利潤4702.43萬元，同比下降90.30%】仁東控股公告，2026年第一季度營業收入2.17億元，同比增長7.53%。淨利潤4702.43萬元，同比下降90.30%。"
-    },
-    {
-      "id": "4850541",
-      "time": "2026-04-29 18:32:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【安妮股份：2026年一季度淨虧損72.99萬元】安妮股份公告，2026年第一季度營業收入8476.93萬元，同比增長4.50%。淨虧損72.99萬元，上年同期淨利潤135.71萬元。"
-    },
-    {
-      "id": "4850540",
-      "time": "2026-04-29 18:32:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【武商集團：第一季度淨利潤1.23億元，同比下降13.47%】武商集團公告，第一季度營收為17.68億元，同比下降1.06%；淨利潤為1.23億元，同比下降13.47%。"
-    },
-    {
-      "id": "4850539",
-      "time": "2026-04-29 18:32:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【濰柴重機：第一季度淨利潤5459.49萬元，同比增長76.49%】濰柴重機公告，2026年第一季度營收為20.67億元，同比增長87.00%；淨利潤為5459.49萬元，同比增長76.49%。"
-    },
-    {
-      "id": "4850538",
-      "time": "2026-04-29 18:32:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "【金地集團：第一季度淨虧損6.8億元】金地集團公告，2026年第一季度營業收入78.82億元，同比增長32.11%。歸屬於上市公司股東的淨虧損6.8億元，上年同期淨虧損6.58億元。"
-    },
-    {
-      "id": "4850537",
-      "time": "2026-04-29 18:32:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【博瑞醫藥：第一季度淨利潤為929.37萬元 同比下降28.29%】博瑞醫藥(688166.SH)公告稱，2026年第一季度實現營業收入3.25億元，同比增長30.52%；歸屬於上市公司股東的淨利潤為929.37萬元，同比下降28.29%。業績變動主要系產品銷售收入增長所致，其中抗真菌類原料藥產品由於商業化需求階段性波動，本期收入較去年同期增長92.05%。公司Q1淨利潤0.09億，2025年Q4淨利潤0.04億，據此計算，Q1淨利潤環比增長121%。"
-    },
-    {
-      "id": "4850536",
-      "time": "2026-04-29 18:32:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "【昭衍新藥：2026年第一季度淨利潤2.38億元，同比增長479.67%】昭衍新藥公告，2026年第一季度營業收入3.16億元，同比增長10.02%。淨利潤2.38億元，同比增長479.67%。"
-    },
-    {
-      "id": "4850535",
-      "time": "2026-04-29 18:32:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "【法拉電子：第一季度淨利潤2.68億元，同比增長1.30%】法拉電子公告，2026年第一季度營業收入12.84億元，同比增長6.72%。淨利潤2.68億元，同比增長1.30%。"
-    },
-    {
-      "id": "4850534",
-      "time": "2026-04-29 18:32:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "【馮德萊恩：美以伊衝突已造成歐盟能源支出增加超270億歐元】當地時間4月29日，歐盟委員會主席馮德萊恩對外表示，美以伊60余天的衝突，已經造成歐盟在化石燃料進口支出方面增加超過270億歐元。馮德萊恩稱，衝突可能會持續數月甚至數年，因此能源問題成為歐盟議程的重中之重。馮德萊恩表示，四年內歐洲發生了2次重大能源危機，因此必須減少對進口化石燃料的過度依賴，並大力發展經濟實惠的清潔能源，包括可再生能源以及核能。為應對能源挑戰，歐盟計劃進一步實行聯合天然氣採購制度。（央視新聞）"
-    },
-    {
-      "id": "4850533",
-      "time": "2026-04-29 18:31:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【衢州發展：2025年淨利潤2.61億元，同比下降74.29%】衢州發展公告，2025年營業收入35.89億元，同比下降78.23%；淨利潤2.61億元，同比下降74.29%。公司2025年度利潤分配方案為：不派發現金紅利，不送紅股，不以公積金轉增股本。"
-    },
-    {
-      "id": "4850532",
-      "time": "2026-04-29 18:31:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "D.A.戴維森將星巴克目標股價從97美元上調至102美元。"
-    },
-    {
-      "id": "4850531",
-      "time": "2026-04-29 18:31:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "【大湖股份：2026年第一季度淨利潤虧損293.7萬元，同比減虧14.61%】大湖股份公告，2026年第一季度營業收入1.5億元，同比下降0.95%。歸屬於上市公司股東的淨利潤虧損293.7萬元，同比減虧14.61%。基本每股收益-0.006元/股，同比上升14.29%。"
-    },
-    {
-      "id": "4850530",
-      "time": "2026-04-29 18:31:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中遠海發：第一季度淨利潤4.13億元，同比下降14.01%】 中遠海發公告，2026年第一季度營業收入59.86億元，同比增長10.49%。淨利潤4.13億元，同比下降14.01%。"
-    },
-    {
-      "id": "4850529",
-      "time": "2026-04-29 18:30:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "中原證券：第一季度淨利潤1.687億元人民幣。"
-    },
-    {
-      "id": "4850528",
-      "time": "2026-04-29 18:30:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "【興通股份：擬投資不超7.32億元建造4艘不鏽鋼化學品船舶】興通股份(603209.SH)公告稱，公司及子公司擬投資建造4艘13,000載重噸不鏽鋼化學品船舶，投資總額不超過7.32億元，單艘船舶造價不超過1.83億元。本次投資旨在落實公司“1+2+1”戰略發展規劃，最佳化船隊結構，拓展國際業務，提升核心競爭力。資金來源為自有資金和銀行貸款，不構成關聯交易或重大資產重組。"
-    },
-    {
-      "id": "4850527",
-      "time": "2026-04-29 18:30:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基稱，烏克蘭將繼續擴大對俄打擊的射程範圍。"
-    },
-    {
-      "id": "4850526",
-      "time": "2026-04-29 18:30:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【園林股份：2025年淨利潤虧損1.7億元】 園林股份公告，2025年營業收入4.83億元，同比下降33.07%。歸屬於上市公司股東的淨虧損1.7億元，上年同期淨虧損1.9億元。公司2025年度擬不進行利潤分配，也不進行資本公積轉增股本。"
-    },
-    {
-      "id": "4850524",
-      "time": "2026-04-29 18:30:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "【花溪科技：2025年淨虧損413.07萬元】 花溪科技公告，2025年營業收入6569.27萬元，同比下降20.07%。歸屬於上市公司股東的淨虧損413.07萬元，上年同期淨利潤156.26萬元。"
-    },
-    {
-      "id": "4850523",
-      "time": "2026-04-29 18:29:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【2025新財富雜誌最佳上市公司結果釋出】 “2025新財富雜誌最佳上市公司”活動於2026年1月正式啟動，參與的樣本公司包括於2023年12月31日及之前上市的所有A股公司，覆蓋主機板、科創板、創業板、北證。本次活動旨在對中國上市公司資訊披露質量、可持續發展（ESG）表現、品牌影響力等進行綜合評估，挖掘在誠信經營、可持續發展、國潮品牌方面表現最受市場認可的典型代表，並透過總結推廣其經驗，推動資本市場構建良好生態。本次活動分兩個階段進行。第一階段，《新財富》雜誌與光華-羅特曼資訊和資本市場研究中心基於問卷調查及大資料分析獲得的主客觀資料，構建“中國上市公司資訊透明度指數”，隨後，綜合該指數及各上市公司的財務和品牌相關指標、國內外ESG評級體系評分等得分情況，釋出入圍名單。第二階段，《新財富》雜誌對入圍上市公司進行盡職調查及走訪，並同時開啟票選環節。最後，綜合兩個階段得分情況，產生百強“最佳上市公司”結果。同時，根據自主申報、盡調及綜合得分情況，在百強“最佳上市公司”中，誕生了10位“年度最佳行業卓越領航人”。（新財富雜誌）"
-    },
-    {
-      "id": "4850522",
-      "time": "2026-04-29 18:29:38",
-      "tags": [
-        "宏觀",
-        "焦點"
-      ],
-      "text": "【深圳進一步最佳化調整房地產相關政策】深圳市住房和建設局29日印發《關於進一步最佳化調整本市房地產相關政策的通知》，自2026年4月30日起施行。\n\n進一步最佳化調整住房限購政策\n\n為更好滿足居民合理住房需求，推動住有宜居、職住平衡，《通知》明確進一步最佳化調整住房限購政策。一是符合本市商品住房購買條件的居民家庭，包括本市戶籍居民家庭、自購房之日前在本市連續繳納社會保險或個人所得稅滿1年及以上的非本市戶籍居民家庭，在執行現有住房限購政策基礎上，可在福田區、南山區和寶安區新安街道範圍內增購1套商品住房。即：在福田區、南山區和寶安區新安街道範圍內，本市戶籍居民家庭可購買3套商品住房，自購房之日前在本市連續繳納社會保險或個人所得稅滿1年及以上的非本市戶籍居民家庭可購買2套商品住房。二是持有有效深圳經濟特區居住證的非本市戶籍居民家庭，可在福田區、南山區和寶安區新安街道範圍內購買1套商品住房，無需提供繳納社會保險或個人所得稅證明。符合本市商品住房購買條件的居民家庭、無法提供自購房之日前在本市連續繳納社會保險或個人所得稅滿1年及以上證明的非本市戶籍居民家庭在本市其他區域購買商品住房政策不變。成年單身人士繼續按照居民家庭執行商品住房限購政策。\n\n進一步最佳化調整住房公積金貸款政策\n\n為更好發揮住房公積金制度的保障作用，加大對繳存職工住房消費的支援力度，進一步滿足繳存職工的住房需求，經市住房公積金管理委員會審議透過，本市住房公積金貸款額度調整如下。一是提高住房公積金貸款額度，繳存職工個人申請的，貸款額度從60萬元提高至70萬元，繳存職工家庭申請的，貸款額度從110萬元提高至130萬元。二是最佳化住房公積金貸款額度上浮比例，購買本市首套住房的，上浮比例從40%提高至60%；新增初婚初育居民家庭購買本市住房上浮情形，上浮比例為50%，有兩個及以上子女的居民家庭購買本市住房的，上浮比例從50%提高至70%，初婚初育家庭和有兩個及以上子女居民家庭的上浮比例需二選一，不能疊加；購買本市保障性住房的，上浮比例從20%提高至40%。同時符合多種上浮情形可累加上浮比例，最高可上浮170%，即繳存職工個人最高可貸189萬元，繳存職工家庭最高可貸351萬元。 (深圳特區報)"
-    },
-    {
-      "id": "4850521",
-      "time": "2026-04-29 18:29:27",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "【各大投行前瞻美聯儲利率決議——米蘭會否繼續投降息票？】\n1. 摩根大通：預計美聯儲將按兵不動，維持利率不變的投票結果將是11比1，米蘭將投下維持利率不變的反對票。\n2. 法興銀行：預計美聯儲將按兵不動，鑑於本次會議不公佈經濟預測摘要和點陣圖，市場預計政策層面不會有太多變化。\n3. 高盛集團：預計美聯儲將按兵不動，會後宣告可能會承認就業市場資料好轉和通脹資料走高，但將維持既有的政策指引不變。\n4. 三菱日聯：預計美聯儲將按兵不動，美聯儲理事米蘭可能會放棄其降息投票，宣告可能會明確提及通脹使命面臨的上行風險加大。\n5. 富國銀行：預計美聯儲將按兵不動，宣告或指出能源成本令通脹居高不下，並弱化前瞻指引，修改“對基準利率進一步調整的幅度和時間”的措辭。\n6. 摩根士丹利：預計美聯儲將按兵不動，宣告變動預計不大，FOMC可能仍保持寬鬆偏向，但強調高度不確定性意味著在政策制定上需要耐心。\n7. 德意志銀行：預計美聯儲將按兵不動，可能刪除“對基準利率進行進一步（additional）調整的幅度和時間”措辭中的“進一步”來為後續加息鋪路。\n8. 丹斯克銀行：預計美聯儲將按兵不動，可能不會提供明確的前瞻性指引，但如果有對重啟寬鬆的謹慎暗示，可能觸發美債收益率下跌和美元廣泛走軟。\n9. 紐約梅隆銀行：預計美聯儲將按兵不動，前瞻性指引將十分有限，鑑於市場尚未對永續性通脹風險進行定價，給予了美聯儲暫時忽視短期通脹壓力的空間。"
-    },
-    {
-      "id": "4850520",
-      "time": "2026-04-29 18:29:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "【海昌智慧：一季度淨利潤8713萬元，同比增長219.22%】海昌智慧公告，2026年第一季度營業收入4.32億元，同比增長144.26%。淨利潤8713萬元，同比增長219.22%。"
-    },
-    {
-      "id": "4850519",
-      "time": "2026-04-29 18:28:41",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "伊朗貨幣跌至歷史新低，兌美元匯率達180萬里亞爾兌1美元。"
-    },
-    {
-      "id": "4850518",
-      "time": "2026-04-29 18:28:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "哈薩克設立政府債券一級交易商制度。"
-    },
-    {
-      "id": "4850517",
-      "time": "2026-04-29 18:28:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【錦江航運：2026年第一季度淨利潤3.35億元，同比下降6.02%】錦江航運公告，2026年第一季度營收為17.32億元，同比增長3.97%；淨利潤為3.35億元，同比下降6.02%。"
-    },
-    {
-      "id": "4850516",
-      "time": "2026-04-29 18:28:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "【天瑪智控：2026年第一季度淨利潤1232.18萬元，同比下降77.07%】天瑪智控公告，2026年第一季度營業收入2.78億元，同比下降16.03%。淨利潤1232.18萬元，同比下降77.07%。主要系報告期內，受煤炭行業週期性調整及能源結構加速轉型影響，公司主要客戶投資決策趨於審慎，資本開支收緊，同時行業競爭進一步加劇。公司經營業績受此影響有所下降。"
-    },
-    {
-      "id": "4850515",
-      "time": "2026-04-29 18:28:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "【南網科技：第一季度淨利潤4931.66萬元，同比下降13.38%】南網科技公告，2026年第一季度營業收入4.45億元，同比下降12.66%。淨利潤4931.66萬元，同比下降13.38%。"
-    },
-    {
-      "id": "4850514",
-      "time": "2026-04-29 18:27:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟的裡貝拉：新版併購準則將於週四釋出。"
-    },
-    {
-      "id": "4850513",
-      "time": "2026-04-29 18:27:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "【航行警告！北部灣實彈射擊】據中國海事局網站訊息，湛江海事局釋出航行警告，4月29日18時至30日12時，北部灣部分海域進行實彈射擊，禁止駛入。"
-    },
-    {
-      "id": "4850512",
-      "time": "2026-04-29 18:26:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "據AXIOS報道，特朗普的首艘戰艦造價將超過170億美元。"
-    },
-    {
-      "id": "4850511",
-      "time": "2026-04-29 18:26:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "【倍益康：第一季度淨利潤54.61萬元】倍益康公告，2026年第一季度營業收入5073.8萬元，同比下降0.39%。淨利潤54.61萬元，上年同期為淨虧損162.88萬元。"
-    },
-    {
-      "id": "4850510",
-      "time": "2026-04-29 18:26:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2026年度電影總票房破129億 五一檔新片票房破5000萬】據網路平臺資料，截至4月29日，2026年度電影總票房（含預售）突破129億元。五一檔新片票房預售已破5000萬元，《給阿嬤的情書》、《寒戰1994》、《10間敢死隊》位列新片預售票房榜前三位。(央視新聞)"
-    },
-    {
-      "id": "4850509",
-      "time": "2026-04-29 18:26:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "【好萊客：2026年第一季度淨虧損2211.01萬元】好萊客公告，2026年第一季度營收為2.77億元，同比下降29.03%；淨虧損2211.01萬元，上年同期淨利潤為220.07萬元。"
-    },
-    {
-      "id": "4850508",
-      "time": "2026-04-29 18:26:28",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根大通將通用汽車目標股價從97美元上調至98美元。"
-    },
-    {
-      "id": "4850507",
-      "time": "2026-04-29 18:25:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "通用電氣醫療集團：第一季度通脹形勢發生重大變化，預計2026年投入成本將增加約2.5億美元。"
-    },
-    {
-      "id": "4850506",
-      "time": "2026-04-29 18:25:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "NSDL：全球基金在上一交易日淨賣出價值199億盧比的印度股票。"
-    },
-    {
-      "id": "4850505",
-      "time": "2026-04-29 18:25:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【金開新能：2026年第一季度淨虧損1919.96萬元】金開新能公告，2026年第一季度營收為7.48億元，同比下降12.39%；淨虧損1919.96萬元，上年同期淨利潤為1.2億元。"
-    },
-    {
-      "id": "4850504",
-      "time": "2026-04-29 18:25:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "美銀全球研究將可口可樂目標股價從88美元上調至90美元。"
-    },
-    {
-      "id": "4850503",
-      "time": "2026-04-29 18:24:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "【萊紳通靈：第一季度淨利潤5350.85萬元，同比增長88.83%】萊紳通靈公告，2026年第一季度營業收入3.63億元，同比下降2.21%。淨利潤5350.85萬元，同比增長88.83%。基本每股收益0.16元/股，同比增長100.00%。"
-    },
-    {
-      "id": "4850502",
-      "time": "2026-04-29 18:24:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國通號：2026年第一季度淨利潤5.21億元，同比下降7.16%】中國通號公告，2026年第一季度營收為64.65億元，同比下降3.52%；淨利潤為5.21億元，同比下降7.16%。"
-    },
-    {
-      "id": "4850501",
-      "time": "2026-04-29 18:23:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "美銀全球研究將通用汽車目標股價從105美元上調至106美元。"
-    },
-    {
-      "id": "4850500",
-      "time": "2026-04-29 18:23:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中國駐韓國大使館釋出“五一”假期來韓旅遊注意事項：切勿參與跨境賭博，慎用無人機或相機拍攝，美容整形須謹慎等】\n一、強化安全意識\n遵守韓國法律法規和風俗習慣，在公共場合展現良好形象。遠離遊行、示威等政治性活動，單人出行、前往人員密集地區注意安全防範。遭遇挑釁或不公正待遇時，保持理性剋制，及時報警，透過合法手段表達訴求和維護自身權益。謹慎選擇多人混宿的廉價旅館。\n\n二、甄別旅行社和旅遊產品\n\n團體遊客行前應選擇正規有資質的旅行社，簽訂旅遊合同並認真閱讀條款，警惕含有強制消費的“低價遊”。旅遊途中如遇強制消費等糾紛，建議保留證據向國內文旅部門投訴。如因消費問題被迫中斷行程，可向韓國警方求助。\n\n三、切勿參與跨境賭博\n\n我國法律嚴禁賭博，刑法修正案已將跨境賭博正式入刑，嚴厲打擊跨境賭博違法犯罪行為。即使境外賭場系合法開設，中國公民跨境賭博也涉嫌觸犯我國法律，可能被追究法律責任。請認清跨境賭博違法性、危害性，潔身自好，遠離賭博。\n\n四、慎用無人機或相機拍攝\n\n中國遊客在韓違規使用無人機拍攝受到拘押逮捕的案例多次發生，教訓深刻。請務必留意“禁止拍攝”等警示標誌，切勿拍攝軍用設施、軍事裝置及情報部門等敏感機構建築，未經允許勿拍攝他人或私人住宅。建議不要使用無人機進行拍攝，如確需使用，請務必提前熟知韓國相關法律法規，不要在機場等禁飛區、禁止拍照區域等敏感地點使用無人機。\n\n五、美容整形須謹慎\n\n切忌盲從廣告宣傳，術前全面瞭解手術風險及可能的併發症、後遺症。注意甄別中介、醫院和醫生資質，選擇正規醫療機構和專業整形醫生，嚴防“幽靈手術”。發生醫療糾紛時，請透過正當途徑理性維權。如術後容貌發生較大變化，出境時請攜帶手術證明材料，以免影響登記和出入境。"
-    },
-    {
-      "id": "4850498",
-      "time": "2026-04-29 18:23:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "【宏輝果蔬：第一季度淨利潤300.89萬元，同比下降33.21%】宏輝果蔬公告，2026年第一季度營收為2.02億元，同比下降17.92%；淨利潤為300.89萬元，同比下降33.21%。主要系新設立子公司的前期籌備、團隊搭建增加費用支出。"
-    },
-    {
-      "id": "4850497",
-      "time": "2026-04-29 18:23:10",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "通用電氣醫療集團下調利潤預期，但預計透過價格調整與成本管控抵消逾半數通脹影響。公司股價下跌6.6%。"
-    },
-    {
-      "id": "4850496",
-      "time": "2026-04-29 18:22:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【昱能科技：2026年第一季度淨虧損6163.14萬元】昱能科技公告，2026年第一季度營業收入1.48億元，同比下降22.42%。淨虧損6163.14萬元，上年同期淨利潤2887.97萬元。"
-    },
-    {
-      "id": "4850495",
-      "time": "2026-04-29 18:22:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "【科前生物：2026年第一季度淨利潤7923.62萬元，同比下降26.79%】科前生物公告，2026年第一季度營業收入2.28億元，同比下降7.20%。淨利潤7923.62萬元，同比下降26.79%。"
-    },
-    {
-      "id": "4850494",
-      "time": "2026-04-29 18:22:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【皓元醫藥：2026年第一季度淨利潤6784.05萬元，同比增長8.75%】皓元醫藥公告，2026年第一季度營收為7.29億元，同比增長20.21%；淨利潤為6784.05萬元，同比增長8.75%。"
-    },
-    {
-      "id": "4850493",
-      "time": "2026-04-29 18:22:44",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【金健米業：第一季度淨利潤17.5萬元，同比下降98.09%】金健米業公告，2026年第一季度營收為8.13億元，同比增長5.68%；淨利潤為17.5萬元，同比下降98.09%。主要原因是國際局勢帶動油價上行，原材料成本持續上漲；但終端產品調價幅度不及原料漲幅，導致油脂板塊毛利同比大幅減少。"
-    },
-    {
-      "id": "4850492",
-      "time": "2026-04-29 18:22:42",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "通用電氣醫療集團：第一季度儲存晶片、石油及運費成本大幅上漲，預計該影響將貫穿2026年剩餘時間。"
-    },
-    {
-      "id": "4850491",
-      "time": "2026-04-29 18:22:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中閩能源：2026年第一季度淨利潤1.96億元，同比下降21.86%】中閩能源公告，2026年第一季度營業收入4.63億元，同比下降9.83%。淨利潤1.96億元，同比下降21.86%。"
-    },
-    {
-      "id": "4850490",
-      "time": "2026-04-29 18:22:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "【ST華鵬：公司股票將於5月6日被實施退市風險警示】ST華鵬公告，因2025年度經審計歸屬於上市公司股東的期末淨資產為負值，公司股票將於2026年5月6日被實施退市風險警示。公司股票將於2026年4月30日停牌一天。"
-    },
-    {
-      "id": "4850489",
-      "time": "2026-04-29 18:22:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "【ST華鵬：2026年第一季度淨虧損3922.67萬元】ST華鵬公告，2026年第一季度營收為9540.7萬元，同比增長4.28%；淨虧損3922.67萬元，上年同期淨虧損2738.15萬元。"
-    },
-    {
-      "id": "4850488",
-      "time": "2026-04-29 18:22:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "通用電氣醫療集團預計2026年關稅影響將小於2025年。"
-    },
-    {
-      "id": "4850487",
-      "time": "2026-04-29 18:22:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "【東微半導：第一季度淨利潤555.79萬元，同比下降28.80%】東微半導公告，2026年第一季度營收為2.8億元，同比下降1.10%；淨利潤為555.79萬元，同比下降28.80%。"
-    },
-    {
-      "id": "4850486",
-      "time": "2026-04-29 18:21:54",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "通用電氣醫療集團已開始在新的美國海關及邊境保護局入口網站申請退稅，其指引中未計入《出口管理條例》相關關稅退還款項。"
-    },
-    {
-      "id": "4850485",
-      "time": "2026-04-29 18:21:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "【歐盟委員會透過臨時國家援助框架以支援經濟】歐盟委員會已透過一項臨時國家援助框架，允許成員國在中東危機的背景下支援歐盟經濟。中東危機臨時國家援助框架（METSAF）是一個有針對性的臨時框架，旨在應對危機對經濟中最受衝擊的行業所造成的影響，包括農業、漁業、交通運輸以及能源密集型行業。"
-    },
-    {
-      "id": "4850484",
-      "time": "2026-04-29 18:21:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "【好當家：第一季度淨利潤783.8萬元，同比增長19.20%】好當家公告，2026年第一季度營業收入2.48億元，同比增長19.96%。淨利潤783.8萬元，同比增長19.20%。"
-    },
-    {
-      "id": "4850483",
-      "time": "2026-04-29 18:21:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "通用電氣醫療集團宣佈調整高管團隊並更新運營安排，以提升執行效率、加快創新步伐並推動增長。"
-    },
-    {
-      "id": "4850482",
-      "time": "2026-04-29 18:21:11",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【華海藥業：擬籌劃控股子公司華奧泰分拆上市】華海藥業公告，為促進生物創新藥研發平臺發展，公司擬籌劃控股子公司上海華奧泰生物藥業股份有限公司分拆上市。本次分拆上市不會影響公司對華奧泰的控制權，也不會對公司其他業務板塊的持續經營和整體盈利能力構成實質性影響。華奧泰成立於2013年9月，專注於大分子創新藥物研發，聚焦腫瘤、自身免疫疾病領域。公司董事會已審議透過相關議案，授權管理層啟動分拆上市前期籌劃工作。"
-    },
-    {
-      "id": "4850481",
-      "time": "2026-04-29 18:21:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "通用電氣醫療集團第一季度每股收益為0.85美元。"
-    },
-    {
-      "id": "4850480",
-      "time": "2026-04-29 18:20:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "迪拜媒體辦公室：國家專案旨在應對全球挑戰，保障阿聯酋對基礎食品、醫療及工業產品的需求。"
-    },
-    {
-      "id": "4850479",
-      "time": "2026-04-29 18:20:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國防部更名將耗費巨資】據美國媒體4月28日報道，美國國防部已向國會申請，以立法形式敲定更名為“戰爭部”事宜。國防部表示，預計此次更名耗資約5200萬美元，不會對2027財年國防預算申請造成“重大影響”。“實際成本正在實施過程中統計，將在本財年更名工作執行完畢後公佈”。 報道說，這次更名將對聯邦法律進行約7600處更改，包括將國防部正式更名為“戰爭部”，將國防部長更名為“戰爭部長”等。(CCTV國際時訊)"
-    },
-    {
-      "id": "4850478",
-      "time": "2026-04-29 18:20:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "通用電氣醫療集團重申，受全球終端市場需求向好驅動，2026財年營收將實現增長。"
-    },
-    {
-      "id": "4850477",
-      "time": "2026-04-29 18:20:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國石油：一季度淨利潤483.33億元 同比增長1.9%】中國石油(601857)4月29日披露一季報，公司2026年一季度實現營業收入7363.83億元，同比下降2.2%；淨利潤483.33億元，同比增長1.9%，主要由於天然氣銷量增加、成品油及化工產品銷量及毛利增加。"
-    },
-    {
-      "id": "4850476",
-      "time": "2026-04-29 18:20:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華海藥業：2026年第一季度淨利潤4.04億元，同比增長35.90%】華海藥業公告，2026年第一季度營業收入23.35億元，同比下降1.40%。淨利潤4.04億元，同比增長35.90%。歸屬於上市公司股東的扣除非經常性損益的淨利潤1.36億元，同比下降52.19%。"
-    },
-    {
-      "id": "4850475",
-      "time": "2026-04-29 18:20:31",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【中泰證券：第一季度淨利潤4.69億元，同比增長26.80%】中泰證券公告，2026年第一季度營業收入31.07億元，同比增長25.14%。淨利潤4.69億元，同比增長26.80%。"
-    },
-    {
-      "id": "4850474",
-      "time": "2026-04-29 18:20:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【王小洪在全國公安機關常態化開展掃黑除惡鬥爭推進會議上強調 以為人民出政績以實幹出政績的使命擔當 堅決抓好常態化掃黑除惡鬥爭】全國公安機關常態化開展掃黑除惡鬥爭推進會議29日召開，中共中央書記處書記、公安部部長王小洪出席並講話。王小洪強調，要深入貫徹落實習近平總書記重要指示精神和黨中央決策部署，堅定擁護“兩個確立”、堅決做到“兩個維護”，牢固樹立、深入踐行正確政績觀，以為人民出政績、以實幹出政績的使命擔當，堅決抓好常態化掃黑除惡鬥爭，不斷取得黨和人民滿意的新成效，努力為實現“十五五”良好開局創造安全穩定的政治社會環境。 王小洪要求，準確把握形勢任務，堅持主動出擊、露頭就打、窮追猛打，堅決打好重大案件突破、重點類案偵辦等攻堅戰，向黑惡犯罪不斷髮起凌厲攻勢。持續推進綜合治理，堅持懲防並舉、標本兼治，加強系統治理、綜合施策，強力整治重點地區，推動加強基層治理，提升依法治理水平，努力實現常治長效。強化工作組織保障，最佳化執行機制，細化任務分工，層層壓實責任，建強專業隊伍，推進常態化掃黑除惡走深走實。(新華社)"
-    },
-    {
-      "id": "4850473",
-      "time": "2026-04-29 18:20:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "【上海電氣：2026年一季度淨利潤3.8億元，同比增長30.15%】上海電氣公告，2026年第一季度營業總收入243.19億元，同比增長9.32%；營業收入241.92億元，同比增長9.49%；利潤總額9.51億元，同比增長1.96%；歸屬於上市公司股東的淨利潤3.8億元，同比增長30.15%；歸屬於上市公司股東的扣除非經常性損益的淨利潤2.87億元，同比增長39.75%；基本每股收益0.0245元/股，同比增長30.32%。"
-    },
-    {
-      "id": "4850472",
-      "time": "2026-04-29 18:20:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "【博聞科技：第一季度淨利潤1025.43萬元，同比增長68.10%】博聞科技公告，2026年第一季度營收為1562.65萬元，同比增長34.40%；淨利潤為1025.43萬元，同比增長68.10%。"
-    },
-    {
-      "id": "4850471",
-      "time": "2026-04-29 18:19:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【金風科技：擬以3億元至5億元回購A股股份並登出】金風科技(002202.SZ)公告稱，公司擬透過集中競價交易方式回購A股股份，回購資金總額不低於3億元且不超過5億元，回購價格上限為39.84元/股。回購的股份將全部予以登出並減少公司註冊資本。該議案尚需提交公司臨時股東會及類別股東會議審議。"
     }
   ]
 }
