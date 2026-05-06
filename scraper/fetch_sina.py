@@ -381,6 +381,49 @@ def recent_news_for_summary(conn, start: datetime, end: datetime, limit: int = 3
     return [{"id": r[0], "time": r[1], "tags": json.loads(r[2]), "text": r[3]} for r in rows]
 
 
+def compact_te_market_text(text: str) -> str:
+    title, sep, desc = text.partition(" — ")
+    if not sep:
+        return title[:220]
+
+    first_sentence = re.split(r"(?<=[.!?])\s+", desc, maxsplit=1)[0]
+    background_markers = (
+        " after ",
+        " following ",
+        " as ",
+        " while ",
+        " amid ",
+        " due to ",
+        " on hopes ",
+        " on expectations ",
+    )
+    background_keywords = (
+        "Reserve Bank",
+        "central bank",
+        "rate",
+        "hike",
+        "cut",
+        "PMI",
+        "GDP",
+        "inflation",
+        "earnings",
+        "forecast",
+        "expectations",
+        "data",
+        "report",
+    )
+    lowered = first_sentence.lower()
+    cut_at = None
+    for marker in background_markers:
+        idx = lowered.find(marker)
+        if idx >= 0 and any(keyword.lower() in lowered[idx:] for keyword in background_keywords):
+            cut_at = idx if cut_at is None else min(cut_at, idx)
+    if cut_at is not None:
+        first_sentence = first_sentence[:cut_at].rstrip(" ,;")
+
+    return f"{title} — {first_sentence}"[:220]
+
+
 def compact_news_input(items: list[dict]) -> str:
     lines = []
     for item in items:
@@ -388,7 +431,8 @@ def compact_news_input(items: list[dict]) -> str:
         tags = ",".join(item_tags[:5])
         text = clean_text(item.get("text", ""))[:260]
         if "Trading Economics" in item_tags and "Markets" in item_tags:
-            text = f"【TE市場行情，只代表本時段價格反應；文中提到的央行決議、經濟數據或財報若無同時段獨立快訊，不得視為新事件】{text}"
+            text = compact_te_market_text(text)
+            text = f"【TE市場行情，只保留本時段價格反應；已移除央行/數據/財報背景，禁止推回政策或數據新事件】{text}"
         lines.append(f"- {item.get('time')} [{tags}] {text}")
     return "\n".join(lines)
 
