@@ -1,7 +1,19 @@
 {
-  "updated": "2026-05-07 00:26:33",
-  "count": 11292,
+  "updated": "2026-05-07 00:29:58",
+  "count": 11290,
   "items": [
+    {
+      "id": "te:markets:548460",
+      "time": "2026-05-07 00:26:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Hits Record High as Oil Eases — The FTSE MIB jumped 2.3% to close at 49,697 on Wednesday, reaching a fresh record high as oil prices continued to ease on renewed hopes for a peace deal in the Iran conflict. The US said its offensive military actions against Iran had been completed, while President Donald Trump indicated Washington would temporarily suspend efforts to assist vessels leaving the Strait of Hormuz to allow room for renewed negotiations. Financials led the rally, with UniCredit (+4.6%), Intesa Sanpaolo (+3.3%), Banco BPM (+3.9%), and BPER Banca (+3.7%) posting strong gains, while Generali rose 2.2% ahead of earnings. Leonardo (+5.0%) is also set to report results, alongside TIM (+1.6%) and Poste Italiane (+2.3%). Eni fell 4.1% on lower oil prices. On the data front, PMI surveys showed Italy’s private sector returned to growth in April, although the services sector remained in contraction."
+    },
     {
       "id": "4864012",
       "time": "2026-05-07 00:20:56",
@@ -96058,30 +96070,6 @@
         "公司"
       ],
       "text": "行業團體聯合發聲，反對聯合太平洋與諾福克南方鐵路公司合併。"
-    },
-    {
-      "id": "4851582",
-      "time": "2026-04-30 00:28:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國前司法部長邦迪將就愛潑斯坦案檔案處理作證】據美國眾議院監督委員會發言人稱，前司法部長帕姆·邦迪已同意下月在國會作證，就司法部處理已公佈的與愛潑斯坦有關的檔案一事作證。"
-    },
-    {
-      "id": "4851581",
-      "time": "2026-04-30 00:27:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "保時捷首席財務官：供應鏈安全可控，目前中東局勢未對我們的生產造成任何干擾。"
-    },
-    {
-      "id": "4851580",
-      "time": "2026-04-30 00:27:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "【我國資料資源正由規模擴張向價值釋放躍升】國家資料局29日在第九屆數字中國建設峰會上釋出的《全國資料資源調查報告（2025年）》顯示，我國資料要素市場化價值化程序顯著提速，資料資源供給體系、資料流通體系和資料開發利用體系協同演進，正由資料資源規模擴張向資料要素價值釋放躍升。(新華社)"
     }
   ]
 }
