@@ -1,7 +1,51 @@
 {
-  "updated": "2026-05-07 06:50:32",
-  "count": 11003,
+  "updated": "2026-05-07 06:53:55",
+  "count": 11008,
   "items": [
+    {
+      "id": "4864299",
+      "time": "2026-05-07 06:52:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國法官駁回佐治亞縣要求歸還聯邦調查局搜查時查扣的2020年選舉選票的申請。"
+    },
+    {
+      "id": "4864298",
+      "time": "2026-05-07 06:52:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "【一季度上市銀行非利息收入同比增長9%】Wind資訊資料顯示，一季度42家上市銀行非利息收入合計達4605.14億元，同比增長9%，顯著高於營收增速。作為非利息收入的重要組成部分，中間業務收入繼續改善，合計為2398.92億元，同比增長6%。 具體來看，一季度有28家上市銀行非利息收入實現同比增長。其中，蘭州銀行、華夏銀行的非利息收入分別為20.33億元、69.53億元，同比增速分別為354%、162%；另有14家上市銀行的非利息收入實現兩位數增幅。 受資本市場活躍向好、居民理財意願較強等因素影響，一季度上市銀行中間業務收入普遍表現良好，成為驅動非利息收入增長的重要原因。（證券日報）"
+    },
+    {
+      "id": "4864297",
+      "time": "2026-05-07 06:51:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【一季度險資躋身641家上市公司前十大流通股股東】Wind資訊資料顯示，截至一季度末，險資合計重倉（成為上市公司前十大流通股股東）A股641只，較2025年底的617只淨增24只，持股數量淨增約42.4億股。從重倉結構變化上看，險資加倉了銀行股，並新進入多家高階製造行業上市公司的前十大流通股股東。 業內人士認為，增配權益資產是險資提升長期投資收益、匹配負債成本的戰略選擇。展望未來，險資的權益資產配置整體仍有望穩步提升，在配置模式上將以高股息資產夯實“壓艙石”，並輔以配置成長股等標的來增強收益彈性。（證券日報）"
+    },
+    {
+      "id": "4864296",
+      "time": "2026-05-07 06:51:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【一季度86家基金管理人在管產品合計盈利533億元】Wind資訊資料顯示，2026年一季度，164家基金管理人中，有86家基金管理人旗下產品合計實現盈利，合計盈利533.05億元。其中，南方基金旗下基金合計盈利109.89億元，居首位。 從盈利產品結構來看，固收類產品、商品型基金及部分主動權益基金均實現了可觀盈利。頭部機構與中小特色基金管理人各展所長，行業盈利格局呈現出鮮明的多元化特徵。（證券日報）"
+    },
+    {
+      "id": "te:markets:548490",
+      "time": "2026-05-07 06:50:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Extends Gains, Hits 4-Week High — The NZX 50 rose 84 points, or 0.6%, to 13,229 in Thursday morning trade, extending gains from the previous session and tracking a rally on Wall Street overnight amid hopes of a potential US-Iran end to the war and solid AI stock earnings. Wednesday's unemployment data continued to lift sentiment, as the jobless rate unexpectedly declined to 5.3% in Q1. The latest figure was lower than both the previous quarter and market expectations of 5.4%, which had been the highest level since Q2 2015. The broader index hit its highest level since April 9, mainly supported by the healthcare, tech, and materials sectors. A statement from RBNZ Governor Anna Breman also continued to fuel sentiment, noting that the country’s financial system is resilient and well-positioned to support households and businesses. Top performers included Fisher & Paykel (2.1%), Gentrack Group (1.9%), Ebos Group (1.4%), AFT Pharmaceuticals (1.1%), Contact Energy (1.0%), A2 Milk (0.6%), and Westpac Banking Corp. (0.5%)."
+    },
     {
       "id": "4864295",
       "time": "2026-05-07 06:49:06",
