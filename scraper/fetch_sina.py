@@ -384,8 +384,11 @@ def recent_news_for_summary(conn, start: datetime, end: datetime, limit: int = 3
 def compact_news_input(items: list[dict]) -> str:
     lines = []
     for item in items:
-        tags = ",".join(item.get("tags", [])[:5])
+        item_tags = item.get("tags", [])
+        tags = ",".join(item_tags[:5])
         text = clean_text(item.get("text", ""))[:260]
+        if "Trading Economics" in item_tags and "Markets" in item_tags:
+            text = f"【TE市場行情，只代表本時段價格反應；文中提到的央行決議、經濟數據或財報若無同時段獨立快訊，不得視為新事件】{text}"
         lines.append(f"- {item.get('time')} [{tags}] {text}")
     return "\n".join(lines)
 
@@ -536,6 +539,7 @@ def call_openai_summary(items: list[dict], start: datetime, end: datetime, marke
 - 央行官員發言屬於重要政策/數據訊號，尤其是 Fed、ECB、BOJ、BOE、PBOC 及上述主要經濟體央行官員對利率、通膨、就業、匯率與金融穩定的表態。
 - 事件必須以本時間區間內實際發生、公布或更新的內容為主；若快訊提到「前一日或更早」的政策/數據/財報，只能當作背景，不得把舊事件寫成該時段新事件。
 - Trading Economics 的市場行情文章若只是「引用」先前央行決議、經濟數據或財報作為價格變動背景，event title 必須聚焦「本時段的價格/市場反應」，不可改寫成「央行宣布升息」或「數據公布」。
+- 不得把兩個不同事件硬合併成同一個 event。例：澳洲燃料儲備政策與澳元走勢可各自成為獨立事件；若澳元走勢文中引用 RBA 先前升息，只能寫「澳元因升息背景與風險偏好走強」，不得寫成「澳洲央行宣布升息與燃料儲備政策」。
 - 若同一時段有大量重要經濟數據，摘要與 events 可高度集中在經濟數據；即使約 70% 內容都是經濟數據也可以。
 - 市場行情類事件請整合股市、匯市、債市、原物料與加密貨幣表現，儘量合併成 1~2 則摘要，不要拆成零散多則。
 
@@ -618,6 +622,7 @@ fundamental_surprise_score：
 ▸ 風格要點 ◂
 - 用財經評論的直述語氣，主詞是「市場標的本身」（油價、美元、台股⋯），不是「快訊」。
 - 同一事件若有多個時點數據，整合成一句「先⋯後⋯」「由⋯轉為⋯」，不要分述為「一則⋯另一則⋯」。
+- 只有同一主體、同一事件鏈的多個時點可以整合；不同政策、不同資產、不同發布者不得為了省 events 數量而合併。
 - 每個 events.explanation 要寫成完整分析段落：先交代核心事實，再說明它代表的市場/政策/基本面訊號，最後補上對相關資產或風險偏好的影響。不可只寫成短版新聞摘要。
 - 句子要連貫、流暢，避免「⋯，並⋯，並⋯」這種堆砌式語法。
 - 中文用詞要符合台灣財經媒體慣例（殖利率、盤中、日內、創高、回吐、衝高拉回、買盤、賣壓⋯）。
