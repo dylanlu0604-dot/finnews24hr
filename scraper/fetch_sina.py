@@ -193,9 +193,9 @@ def process_item(raw: dict) -> dict:
             "tags": tags, "text": text}
 
 
-def parse_te_time(value: str) -> str:
+def parse_te_time(value: str) -> str | None:
     if not value:
-        return datetime.now(TW).strftime("%Y-%m-%d %H:%M:%S")
+        return None
     raw = value.replace("Z", "+00:00")
     try:
         dt = datetime.fromisoformat(raw)
@@ -203,7 +203,7 @@ def parse_te_time(value: str) -> str:
         try:
             dt = datetime.strptime(value[:19], "%Y-%m-%dT%H:%M:%S")
         except ValueError:
-            return datetime.now(TW).strftime("%Y-%m-%d %H:%M:%S")
+            return None
     if dt.tzinfo is None:
         dt = dt.replace(tzinfo=timezone.utc)
     return dt.astimezone(TW).strftime("%Y-%m-%d %H:%M:%S")
@@ -228,9 +228,13 @@ def process_tradingeconomics_item(raw: dict) -> dict | None:
     if importance not in (None, ""):
         tags.append(f"Importance {importance}")
 
+    item_time = parse_te_time(raw.get("Date") or raw.get("date") or "")
+    if not item_time:
+        return None
+
     return {
         "id": f"te:{stream_type}:{item_id}",
-        "time": parse_te_time(raw.get("Date") or raw.get("date") or ""),
+        "time": item_time,
         "tags": [to_tw(t) for t in tags],
         "text": to_tw(text),
     }
@@ -492,6 +496,8 @@ def call_openai_summary(items: list[dict], start: datetime, end: datetime, marke
 - 排除中國券商所有研報、策略、配置建議與市場評論，例如中信證券、中國銀河證券、銀河證券、中信建投、中信建投證券、華泰證券、天風證券、東方證券、廣發證券、國盛證券、東吳證券、開源證券、華西證券、招商證券、興業證券、國海證券、國金證券、中泰證券、信達證券、申萬宏源證券、海通證券、國泰君安、光大證券、中金公司等提出的市場策略，不得納入摘要事件。
 - 只排除中國券商的觀點型內容；不要因此排除 SEC、倫敦證券交易所、東京證券交易所、印度證券交易委員會等海外監管機構或交易所公告。
 - 央行官員發言屬於重要政策/數據訊號，尤其是 Fed、ECB、BOJ、BOE、PBOC 及上述主要經濟體央行官員對利率、通膨、就業、匯率與金融穩定的表態。
+- 事件必須以本時間區間內實際發生、公布或更新的內容為主；若快訊提到前一日或更早的政策/數據/財報，只能當作背景，不得把舊事件寫成該時段新事件。
+- Trading Economics 的市場行情文章若只是引用先前央行決議、經濟數據或財報作為價格變動背景，event title 必須聚焦「本時段的價格/市場反應」，不可改寫成「央行宣布升息」或「數據公布」。
 - 若同一時段有大量重要經濟數據，摘要與 events 可高度集中在經濟數據；即使約 70% 內容都是經濟數據也可以。
 - 市場行情類事件請整合股市、匯市、債市、原物料與加密貨幣表現，儘量合併成 1~2 則摘要，不要拆成零散多則。
 
