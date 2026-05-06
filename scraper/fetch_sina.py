@@ -310,16 +310,33 @@ def save_ai_summaries(data: dict) -> None:
 
 
 def recent_news_for_summary(conn, start: datetime, end: datetime, limit: int = 330) -> list[dict]:
-    rows = conn.execute(
+    start_text = start.strftime("%Y-%m-%d %H:%M:%S")
+    end_text = end.strftime("%Y-%m-%d %H:%M:%S")
+    te_limit = min(60, limit)
+    te_rows = conn.execute(
         """
         SELECT id, time, tags, text
         FROM news
-        WHERE time >= ? AND time < ?
+        WHERE time >= ? AND time < ? AND id LIKE 'te:%'
         ORDER BY time DESC
         LIMIT ?
         """,
-        (start.strftime("%Y-%m-%d %H:%M:%S"), end.strftime("%Y-%m-%d %H:%M:%S"), limit),
+        (start_text, end_text, te_limit),
     ).fetchall()
+
+    remaining_limit = max(0, limit - len(te_rows))
+    other_rows = conn.execute(
+        """
+        SELECT id, time, tags, text
+        FROM news
+        WHERE time >= ? AND time < ? AND id NOT LIKE 'te:%'
+        ORDER BY time DESC
+        LIMIT ?
+        """,
+        (start_text, end_text, remaining_limit),
+    ).fetchall()
+
+    rows = sorted([*te_rows, *other_rows], key=lambda r: r[1], reverse=True)
     return [{"id": r[0], "time": r[1], "tags": json.loads(r[2]), "text": r[3]} for r in rows]
 
 
@@ -471,6 +488,11 @@ def call_openai_summary(items: list[dict], start: datetime, end: datetime, marke
 
 【篩選與排序原則（內部使用，請勿輸出等級標示）】
 請依下列重要程度由高到低，從快訊中挑出最具市場參考價值的事件（5~10 則），順序由最重要排到次重要：
+- 本 prompt 所稱「主要經濟體」與「重要經濟體」一律指 G20 + 台灣，請用此範圍判斷資料重要性。
+- 排除中國券商所有市場評論與策略觀點，例如中信證券、銀河證券等券商提出的市場策略，不得納入摘要事件。
+- 央行官員發言屬於重要政策/數據訊號，尤其是 Fed、ECB、BOJ、BOE、PBOC 及 G20 + 台灣央行官員對利率、通膨、就業、匯率與金融穩定的表態。
+- 若同一時段有大量重要經濟數據，摘要與 events 可高度集中在經濟數據；即使約 70% 內容都是經濟數據也可以。
+- 市場行情類事件請整合股市、匯市、債市、原物料與加密貨幣表現，儘量合併成 1~2 則摘要，不要拆成零散多則。
 
 
 
