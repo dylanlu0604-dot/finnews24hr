@@ -1,7 +1,97 @@
 {
-  "updated": "2026-05-06 17:58:03",
-  "count": 11647,
+  "updated": "2026-05-06 18:02:15",
+  "count": 11652,
   "items": [
+    {
+      "id": "4863296",
+      "time": "2026-05-06 18:01:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【涉漢坦病毒郵輪病例增至8人】世衛組織今天（5月6日）表示，“洪迪厄斯”號郵輪新增一名漢坦病毒感染者。截至目前，該郵輪上共有8例病例，其中3例經實驗室檢測確認為漢坦病毒。（CCTV國際時訊）"
+    },
+    {
+      "id": "te:economy:548323",
+      "time": "2026-05-06 18:00:34",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Africa",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "South Africa 10-Year Bond Yield Inches Down — South Africa’s 10-year bond yield fell to near 8.63% from recent one-month highs of 8.85%, as growing optimism over a potential resolution to the US-Iran conflict eased inflation pressures. Oil prices extended losses after US President Trump said that \"great steps have been made toward a comprehensive agreement\" and suspended Project Freedom in the Strait of Hormuz. In South Africa, inflationary pressures remain elevated due to higher energy prices and fertilizer shortages. The inflation rate edged up to 3.1% in March from 3% a month earlier and is expected to quicken in the months ahead. The South African central bank has signalled uncertainty over the near-term policy outlook, while reiterating its strong commitment to the inflation target. Governor Lesetja Kganyago said the bank remains focused on anchoring inflation at 3% and is prepared to act if needed to prevent second-round effects from emerging price pressures, suggesting a possible rate hike could be on the horizon."
+    },
+    {
+      "id": "4863295",
+      "time": "2026-05-06 18:00:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油失守93美元/桶，日內跌9.15%。"
+    },
+    {
+      "id": "4863294",
+      "time": "2026-05-06 18:00:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌9%，現報93.06美元/桶。"
+    },
+    {
+      "id": "4863293",
+      "time": "2026-05-06 17:59:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲6%，現報77.20美元/盎司。"
+    },
+    {
+      "id": "4863292",
+      "time": "2026-05-06 17:59:29",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "英國利率期貨目前定價顯示，到2026年底，英國央行將加息約53個基點，而在市場開盤時，這一預期為63個基點。"
+    },
+    {
+      "id": "4863291",
+      "time": "2026-05-06 17:59:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "4月30日，貝萊德所持寧德時代H股（股票程式碼<3750.HK>）多頭倉位從6.96%降至5.56%。"
+    },
+    {
+      "id": "te:markets:548322",
+      "time": "2026-05-06 17:58:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "UK Natural Gas Futures Fall to 2-Week Low — UK natural gas futures dropped more than 9% to around 104 pence per therm, the lowest level in two weeks, tracking a broader decline in energy markets as optimism grew over a potential end to the Middle East conflict and a reopening of the Strait of Hormuz. Reports indicated the US and Iran are close to a preliminary agreement that could lead to wider nuclear talks, raising hopes of de escalation and easing supply disruption risks. President Donald Trump also announced a temporary halt to “Project Freedom,” a military operation aimed at securing shipping through the strait, citing progress in negotiations. The conflict and near closure of the key route had removed about a fifth of global LNG supply, pushing UK natural gas prices almost 50% higher. While most Middle East gas flows to Asia, the disruption has tightened global supply and increased competition, leaving Europe on alert as it works to rebuild gas inventories ahead of winter."
+    },
+    {
+      "id": "4863290",
+      "time": "2026-05-06 17:58:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴基斯坦KSE-100指數上漲4%至171,469.60點。"
+    },
+    {
+      "id": "4863289",
+      "time": "2026-05-06 17:57:57",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "英國利率期貨目前定價顯示，到2026年底，英國央行將加息約53個基點，而在市場開盤時，這一預期為63個基點。"
+    },
     {
       "id": "4863288",
       "time": "2026-05-06 17:57:49",
@@ -98618,47 +98708,6 @@
         "公司"
       ],
       "text": "【貴廣網路：2026年第一季度淨虧損2.66億元】貴廣網路公告，2026年第一季度營業收入2.44億元，同比下降12.58%。淨虧損2.66億元，上年同期淨虧損2.67億元。"
-    },
-    {
-      "id": "4850371",
-      "time": "2026-04-29 17:58:44",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "俄羅斯聯邦儲蓄銀行：預計下半年盧布兌美元匯率將處於80-90區間。"
-    },
-    {
-      "id": "4850370",
-      "time": "2026-04-29 17:58:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【超卓航科：第一季度淨利潤369.16萬元，同比增長76.01%】超卓航科公告，2026年第一季度營業收入1.03億元，同比增長30.95%。淨利潤369.16萬元，同比增長76.01%。報告期內，公司積極拓展民用航空維修市場，相關業務實現穩步增長，有效帶動公司營業收入提升；工業母機及其零部件製造業務項下的冶金裝置專案完成驗收並實現結算，相應增加本期營業收入規模。"
-    },
-    {
-      "id": "4850369",
-      "time": "2026-04-29 17:58:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "【恆玄科技：第一季度淨利潤8904.41萬元，同比下降53.26%】恆玄科技公告，2026年第一季度營收為6.69億元，同比下降32.72%；淨利潤為8904.41萬元，同比下降53.26%。"
-    },
-    {
-      "id": "4850368",
-      "time": "2026-04-29 17:58:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【先鋒精科：2026年第一季度淨利潤2477.18萬元，同比下降41.00%】先鋒精科公告，2026年第一季度營業收入2.84億元，同比下降5.46%。淨利潤2477.18萬元，同比下降41.00%。"
-    },
-    {
-      "id": "4850367",
-      "time": "2026-04-29 17:58:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中航重機：2026年第一季度淨利潤1.58億元，同比下降20.14%】中航重機公告，2026年第一季度營業收入24.55億元，同比增長6.46%。利潤總額3.46億元，同比增長14.06%。淨利潤1.58億元，同比下降20.14%。扣除非經常性損益後的淨利潤1.55億元，同比下降17.46%。"
     }
   ]
 }
