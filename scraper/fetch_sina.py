@@ -352,9 +352,8 @@ def format_market_price(value: float, kind: str) -> str:
     return f"{value:.4f}"
 
 
-def market_high_note(current: float, closes_6m, closes_long) -> str:
-    """回傳市場高點狀態；避免把歷史新高誤寫成 3 個月高點。"""
-    notes = []
+def market_position_note(current: float, closes_6m, closes_long) -> str:
+    """回傳市場位置狀態；內部看長短期高低點，輸出文字保持簡潔。"""
 
     if closes_long is not None and not closes_long.empty:
         high_all = float(closes_long.max())
@@ -362,17 +361,32 @@ def market_high_note(current: float, closes_6m, closes_long) -> str:
         if all_gap is not None and all_gap >= -0.25:
             return "，創/接近歷史新高"
 
+        low_all = float(closes_long.min())
+        all_low_gap = pct_change(current, low_all)
+        if all_low_gap is not None and all_low_gap <= 0.25:
+            return "，創/接近歷史新低"
+
         high_52w = float(closes_long.tail(min(len(closes_long), 252)).max())
         high_52w_gap = pct_change(current, high_52w)
         if high_52w_gap is not None and high_52w_gap >= -0.5:
-            notes.append("接近 52 週高點")
+            return "，高檔震盪"
+
+        low_52w = float(closes_long.tail(min(len(closes_long), 252)).min())
+        low_52w_gap = pct_change(current, low_52w)
+        if low_52w_gap is not None and low_52w_gap <= 0.5:
+            return "，低檔震盪"
 
     high_3m = float(closes_6m.tail(min(len(closes_6m), 64)).max())
     high_3m_gap = pct_change(current, high_3m)
     if high_3m_gap is not None and high_3m_gap >= -1:
-        notes.append("接近 3 個月高點")
+        return "，維持近期高點"
 
-    return f"，{'，'.join(notes)}" if notes else ""
+    low_3m = float(closes_6m.tail(min(len(closes_6m), 64)).min())
+    low_3m_gap = pct_change(current, low_3m)
+    if low_3m_gap is not None and low_3m_gap <= 1:
+        return "，維持近期低點"
+
+    return ""
 
 
 def fetch_ai_market_context() -> str:
@@ -404,7 +418,7 @@ def fetch_ai_market_context() -> str:
 
             one_month = pct_change(current, prev_1m)
             three_month = pct_change(current, prev_3m)
-            high_note = market_high_note(current, closes, closes_long)
+            position_note = market_position_note(current, closes, closes_long)
 
             if kind == "yield":
                 one_month_text = f"{(current - prev_1m) * 100:+.0f}bp" if prev_1m is not None else "n/a"
@@ -415,7 +429,7 @@ def fetch_ai_market_context() -> str:
 
             lines.append(
                 f"- {name}：最新 {format_market_price(current, kind)}，"
-                f"近 1 個月 {one_month_text}，近 3 個月 {three_month_text}{high_note}"
+                f"近 1 個月 {one_month_text}，近 3 個月 {three_month_text}{position_note}"
             )
         except Exception as e:
             print(f"[YF AI CONTEXT ERROR] {symbol}: {e}")
@@ -447,8 +461,12 @@ def call_openai_summary(items: list[dict], start: datetime, end: datetime, marke
 - 若 S&P 500 / Nasdaq 維持高檔或近 1~3 個月上漲，summary_title 不得只寫「風險升溫」「地緣緊張」「避險升溫」等單邊負面標題。
 - 標題必須同時反映「風險資產價格狀態」與「新聞風險事件」。例如：股市高檔震盪、風險資產守高、油金波動牽動盤面。
 - 若新聞風險很多，但股市、信用或其他風險資產仍強，請寫成「市場消化風險」或「高檔震盪」，不要寫成全面 risk-off。
-- 若快訊或市場價格背景明確顯示主要股指「創新高 / 歷史新高 / 52 週新高」，必須使用「創新高」或「歷史高點」等相同強度描述，不得降格改寫成「接近三個月高點」。
-- 只有在沒有歷史新高或 52 週新高訊號、且市場背景只顯示 3 個月區間時，才可使用「三個月高點」。
+- 若快訊或市場價格背景明確顯示主要股指「創新高 / 歷史新高」，必須使用「創新高」或「歷史高點」等相同強度描述，不得降格改寫成「接近三個月高點」。
+- 若市場價格背景寫「高檔震盪」，可描述為股市高檔震盪或風險資產守高，不要寫出「52 週」。
+- 若市場價格背景寫「維持近期高點」，可描述為股市維持近期高點，不要寫出「三個月」或「52 週」。
+- 若快訊或市場價格背景明確顯示主要股指「創新低 / 歷史新低」，必須使用「創新低」或「歷史低點」等相同強度描述。
+- 若市場價格背景寫「低檔震盪」，可描述為低檔震盪，不要寫出「52 週」。
+- 若市場價格背景寫「維持近期低點」，可描述為維持近期低點，不要寫出「三個月」或「52 週」。
 - C 級市場行情事件需優先整合上述 S&P 500、黃金、WTI/Brent、DXY、VIX、美債殖利率的價格與 1 個月/3 個月表現。
 
 【篩選與排序原則（內部使用，請勿輸出等級標示）】
