@@ -1,7 +1,46 @@
 {
-  "updated": "2026-05-06 12:45:46",
-  "count": 11658,
+  "updated": "2026-05-06 12:49:09",
+  "count": 11659,
   "items": [
+    {
+      "id": "4862616",
+      "time": "2026-05-06 12:48:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "三一重卡據悉考慮香港IPO，或籌資約5億美元。"
+    },
+    {
+      "id": "te:economy:548136",
+      "time": "2026-05-06 12:47:31",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Netherlands",
+        "Personal Spending",
+        "Importance 1"
+      ],
+      "text": "Dutch Household Spending Rebounds in March — Household consumption in the Netherlands rose by 0.9% year-on-year in March 2026, rebounding from a 0.5% fall in the previous month. It marked the strongest increase since late November, driven mainly by durable goods, which households purchased 4.7% more than a year earlier (vs -1.1% in February). Spending was particularly strong on cars, electrical appliances, and household goods. Services expenditure, accounting for over half of total household consumption, also increased 0.4% from 0.1% in the prior month, as consumers spent more on transport and communication, medical services, and housing, but less on hospitality, recreation, and culture. In contrast, consumption decreased for food and beverages (-0.5% vs 0.3%) and other goods, such as energy and motor fuels (-1.4% vs -1.4%). Looking ahead, conditions for personal consumption were less favorable in April as consumers grew more pessimistic about their financial outlook and the year-on-year increase in stock prices was smaller."
+    },
+    {
+      "id": "4862615",
+      "time": "2026-05-06 12:47:28",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美元兌日元驟跌 疑似官方隱性干預】週三美元兌日元匯率無端驟然走低，交易人士紛紛揣測日本當局疑似出手拋售美元。截至目前，日方仍不願承認進行匯市干預，但自上週匯率在160關口附近掉頭回落以來，外匯交易員始終保持高度警惕。市場同時留意，根據國際貨幣基金組織的指導方針，日本在11月前還有兩次為期三天的干預機會，以維持其匯率自由浮動的地位。"
+    },
+    {
+      "id": "4862614",
+      "time": "2026-05-06 12:47:15",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【研究報告：全球石油庫存下降或致部分地區供應短缺】美國高盛集團日前釋出的一份研究報告顯示，當前全球石油庫存正接近達到8年來的最低水平，庫存下降速度不一、地區分配不平衡，引發人們對部分地區成品油率先出現供應短缺的擔憂。高盛在報告中預計，包括陸上、海上原油儲備和成品油庫存在內，全球石油總庫存目前能夠滿足101天的需求總量，到5月底可能僅能滿足98天的需求總量。成品油方面，全球庫存在中東戰事爆發前可以滿足50天需求，目前僅能滿足45天需求。（新華社）"
+    },
     {
       "id": "4862613",
       "time": "2026-05-06 12:45:12",
@@ -98359,30 +98398,6 @@
         "其他"
       ],
       "text": "【國家資料局：紮實推進資料基礎設施建設】國家資料局4月28日下午在福州市成功舉辦第九屆數字中國建設峰會“資料基礎設施和資料標準化分論壇”。國家發展改革委黨組成員、國家資料局局長劉烈宏指出，國家資料基礎設施是現代化基礎設施體系的關鍵組成部分，是新型基礎設施建設的重要內容，是全國一體化資料市場的核心載體，能夠在資料生產供給、規模流通、價值共創等方面發揮重要作用。要抓住“資料要素×”與“人工智慧+”行動歷史性交匯這一機遇，從規劃設計、技術創新、場景賦能、標準研製、安全保障等方面精準發力，紮實推進資料基礎設施建設。同時，要發揮國家標準生態貫通作用，加強跨行業、跨領域資料標準協同。"
-    },
-    {
-      "id": "4849486",
-      "time": "2026-04-29 12:46:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家數研院副院長：將算力與電網規劃納入統一空間體系，適度超前、動態適配AI發展】4月28日，由國家資料發展研究院主辦的資料發展理論與實踐研究主題交流活動在福州市舉辦。活動期間成立了“算電協同科技與產業融合創新聯合體”。國家數研院副院長袁軍說，當前，算電協同發展面臨安全、綠色、經濟三重目標的協同困境，即“不可能三角”挑戰。算力需求增長快與能源設施建設週期長錯配，“電等算”易致過度配置和資源浪費。需全國一盤棋，將算力與電網規劃納入統一空間體系，適度超前、動態適配AI發展。（澎湃）"
-    },
-    {
-      "id": "4849485",
-      "time": "2026-04-29 12:46:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "瑞銀：儘管風險升高，仍有信心實現2026年財務目標。"
-    },
-    {
-      "id": "4849484",
-      "time": "2026-04-29 12:46:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "瑞銀：市場保持韌性，受中東問題外交解決預期支撐。"
     }
   ]
 }
