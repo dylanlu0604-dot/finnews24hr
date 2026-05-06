@@ -1,7 +1,29 @@
 {
-  "updated": "2026-05-06 12:22:07",
-  "count": 11657,
+  "updated": "2026-05-06 12:25:29",
+  "count": 11655,
   "items": [
+    {
+      "id": "te:markets:548125",
+      "time": "2026-05-06 12:23:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Copper Extends Gains for a Second Session — Copper futures rose above $6 per pound on Wednesday, advancing for a second straight session as improving sentiment around a potential US-Iran agreement supported broader gains across the metals complex. The US reaffirmed its ceasefire with Iran, confirmed that offensive operations have ended, and temporarily paused efforts to assist stranded vessels exiting the Strait of Hormuz to allow time for renewed negotiations. Oil prices fell sharply, easing inflation concerns and reducing expectations that central banks may need to raise interest rates. Copper was also supported by supply-side risks, as disruptions linked to the Middle East conflict affected sulfur flows to China, prompting Beijing to restrict exports of sulphuric acid, an input crucial to nearly half of Chile’s copper refining capacity. On the demand side, continued investment by major technology companies in large-scale data center buildouts is reinforcing longer-term demand expectations for copper."
+    },
+    {
+      "id": "4862590",
+      "time": "2026-05-06 12:22:45",
+      "tags": [
+        "央行",
+        "資料",
+        "市場",
+        "國際"
+      ],
+      "text": "【泰國4月整體通脹率達2.89%，創三年多新高】泰國商務部週三公佈，泰國4月整體居民消費價格指數同比上漲2.89%，為三年多來最大漲幅；3月該指數曾同比下降0.08%。商務部表示，能源價格高企推升了通脹水平，本次資料遠高於媒體調查預估的1.81%漲幅。這是自2025年3月以來泰國整體CPI首次實現同比上漲，同時創下2023年2月以來的最高同比增幅。泰國商務部維持今年全年通脹預期在1.5%至2.5%區間，處於央行1%至3%的目標區間之內。剔除波動較大的能源及生鮮食品價格後，泰國4月核心CPI同比上漲0.83%。泰國貿易政策與戰略辦公室主任南塔蓬・吉拉萊薩蓬在新聞釋出會上表示，受能源價格影響，預計5月整體通脹率將達3.06%，二季度整體通脹率為3.67%。南塔蓬稱，儘管經濟增速放緩、通脹居高不下，但泰國經濟並未陷入滯脹。"
+    },
     {
       "id": "4862589",
       "time": "2026-05-06 12:21:50",
@@ -98315,38 +98337,6 @@
         "公司"
       ],
       "text": "【香港交易所第一季度利潤創歷史新高 受IPO和股市交易活躍提振】香港交易所第一季度利潤創歷史新高，受IPO和股市交易活躍提振。香港交易所公佈第一季度淨利潤增長27%，至52億港元；預估中值為46億港元。核心收入增長22%，至77億港元。香港交易所行政總裁陳翊庭表示，香港IPO市場維持強勁動能，IPO規模繼續保持全球領先，一批高質量企業排隊上市，繼續凸顯香港作為創新及成長型企業重要融資平臺的角色。香港股市今年1月IPO融資額創下歷史同期新高。港交所第一季度股票日均成交額增長約14%。香港交易所表示，目前有逾500家公司在排隊上市。"
-    },
-    {
-      "id": "4849459",
-      "time": "2026-04-29 12:25:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "據《今日以色列報》29日報道，以色列將接受同黎巴嫩達成一項“有限協議”。"
-    },
-    {
-      "id": "4849458",
-      "time": "2026-04-29 12:25:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大皇家銀行將通用汽車目標股價從96美元下調至95美元。"
-    },
-    {
-      "id": "4849457",
-      "time": "2026-04-29 12:24:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "【泰國能源委員會批准居民階梯電價方案】泰國能源政策委員會已批准居民用電階梯收費機制，在全球能源價格高企背景下，旨在推動民眾節約用電。泰國能源部週三釋出宣告稱，新電價機制下，居民每月前200度用電量，每度電價不超過3泰銖（約合0.09美元）。超出該額度的用電量將按更高階梯費率計費，以此提升能源利用效率、精準落實補貼政策。監管機構同時獲指示，將於5月至8月期間，投入約3.7億泰銖，為月用電量200度及以下的家庭補貼燃料附加電費。相關部門將於6月前正式落地實施全新電價方案。"
-    },
-    {
-      "id": "4849456",
-      "time": "2026-04-29 12:23:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "【香港交易所：香港一季度繼續位列全球第一大IPO市場】香港交易所公告，2026年第一季，香港繼續穩居全球新股市場首位，上市活動和集資額延續2025年的強勁勢頭。2026年第一季共有40家公司上市，總集資額達1,104億元，是2025年第一季的近六倍，創2021年以來的第一季新高紀錄。"
     }
   ]
 }
