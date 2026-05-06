@@ -1,7 +1,54 @@
 {
-  "updated": "2026-05-07 05:11:36",
-  "count": 11039,
+  "updated": "2026-05-07 05:15:03",
+  "count": 11041,
   "items": [
+    {
+      "id": "te:markets:548484",
+      "time": "2026-05-07 05:14:26",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Edges Up as Oil Drops on Peace Hopes — The Ibovespa rose 0.5% to close at 187,691 on Wednesday, as reports of a potential US–Iran agreement to end the Middle East conflict supported sentiment, with a Pakistani mediator indicating both sides are close to a memorandum and President Donald Trump saying compliance by Iran could end the war and reopen the Strait of Hormuz. Oil prices plunged on expectations of resumed supply, easing inflation concerns. Most banks advanced, with Bradesco and Banco do Brasil both up 0.7%. Vale jumped 3.6%, supported by higher iron ore prices as trading resumed in China after the May Day holiday. Elsewhere, Minerva (-2.2%) is set to report results. Oil stocks declined sharply, tracking lower crude prices, with PRIO (-4.3%) leading losses, followed by Petrobras (-2.9%), despite PRIO reporting results above estimates. On the data front, Brazil’s services PMI rose to 52.3 in April from 50.1."
+    },
+    {
+      "id": "4864229",
+      "time": "2026-05-07 05:14:06",
+      "tags": [
+        "宏觀",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國國務院：聯合國本應是和平解決全球衝突的平臺。倘若聯合國無法譴責伊朗針對霍爾木茲海峽航運的惡意威脅，那將是對聯合國的真正考驗。"
+    },
+    {
+      "id": "4864228",
+      "time": "2026-05-07 05:13:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列軍方對黎巴嫩南部的阿爾齊鎮發動了空襲。"
+    },
+    {
+      "id": "4864227",
+      "time": "2026-05-07 05:12:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡達與阿聯酋在聯合高階委員會會議期間承諾加強雙邊關係。"
+    },
+    {
+      "id": "4864226",
+      "time": "2026-05-07 05:11:43",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "Snap執行長：第一季度，美國每日活躍聊天使用者中近75%都檢視了聊天欄內的廣告。"
+    },
     {
       "id": "4864225",
       "time": "2026-05-07 05:10:45",
@@ -93944,31 +93991,6 @@
         "市場"
       ],
       "text": "富時A50期指連續夜盤收跌0.55%，報15486點。"
-    },
-    {
-      "id": "4852075",
-      "time": "2026-04-30 05:13:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "【烏軍稱對克里米亞等多地俄軍事和後勤設施發動襲擊】烏克蘭武裝部隊總參謀部29日在社交媒體發文稱，28日至29日凌晨，烏軍對扎波羅熱、頓涅茨克、克里米亞等地俄軍雷達站、防空系統、彈藥庫、油庫等重要軍事和後勤設施發動襲擊。烏武裝部隊總參謀部稱，烏軍此次襲擊目標包括位於克里米亞西部卡恰機場的“MR-10”雷達站和防空指揮所，扎波羅熱地區南部季霍尼夫卡的“道爾”防空導彈系統，位於克里米亞北部五一村的彈藥庫和南部辛菲羅波爾的油庫。烏武裝部隊總參謀部稱，烏軍還對扎波羅熱、頓涅茨克地區和俄羅斯境內庫爾斯克州的俄軍無人機指揮所和無人機維修點實施了打擊。俄方對此暫無回應。（央視新聞）"
-    },
-    {
-      "id": "4852074",
-      "time": "2026-04-30 05:13:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "據知情人士透露，汽車供應商Tenneco準備今年IPO，該公司投資方包括阿波羅。"
-    },
-    {
-      "id": "4852073",
-      "time": "2026-04-30 05:12:19",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油突破112美元/桶，日內漲7.31%。"
     }
   ]
 }
