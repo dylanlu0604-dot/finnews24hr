@@ -193,9 +193,37 @@ def process_item(raw: dict) -> dict:
             "tags": tags, "text": text}
 
 
-def parse_te_time(value: str) -> str | None:
+TE_TIME_FIELDS = (
+    "date",
+    "Date",
+    "datetime",
+    "DateTime",
+    "time",
+    "Time",
+    "timestamp",
+    "Timestamp",
+    "createdAt",
+    "CreatedAt",
+    "created_at",
+    "lastUpdate",
+    "LastUpdate",
+    "last_updated",
+)
+
+
+def parse_te_time(value) -> str | None:
     if not value:
         return None
+    if isinstance(value, (int, float)):
+        timestamp = value / 1000 if value > 10_000_000_000 else value
+        return datetime.fromtimestamp(timestamp, timezone.utc).astimezone(TW).strftime("%Y-%m-%d %H:%M:%S")
+    value = str(value).strip()
+    if not value:
+        return None
+    if re.fullmatch(r"\d{10,13}", value):
+        timestamp = int(value)
+        timestamp = timestamp / 1000 if timestamp > 10_000_000_000 else timestamp
+        return datetime.fromtimestamp(timestamp, timezone.utc).astimezone(TW).strftime("%Y-%m-%d %H:%M:%S")
     raw = value.replace("Z", "+00:00")
     try:
         dt = datetime.fromisoformat(raw)
@@ -207,6 +235,14 @@ def parse_te_time(value: str) -> str | None:
     if dt.tzinfo is None:
         dt = dt.replace(tzinfo=timezone.utc)
     return dt.astimezone(TW).strftime("%Y-%m-%d %H:%M:%S")
+
+
+def extract_te_time(raw: dict) -> str | None:
+    for field in TE_TIME_FIELDS:
+        parsed = parse_te_time(raw.get(field))
+        if parsed:
+            return parsed
+    return None
 
 
 def process_tradingeconomics_item(raw: dict) -> dict | None:
@@ -228,8 +264,9 @@ def process_tradingeconomics_item(raw: dict) -> dict | None:
     if importance not in (None, ""):
         tags.append(f"Importance {importance}")
 
-    item_time = parse_te_time(raw.get("Date") or raw.get("date") or "")
+    item_time = extract_te_time(raw)
     if not item_time:
+        print(f"[WARN] Trading Economics：略過無有效時間欄位的 item {stream_type}:{item_id}")
         return None
 
     return {
