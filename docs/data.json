@@ -1,7 +1,28 @@
 {
-  "updated": "2026-05-07 00:29:58",
+  "updated": "2026-05-07 00:33:32",
   "count": 11290,
   "items": [
+    {
+      "id": "te:markets:548461",
+      "time": "2026-05-07 00:32:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Netherlands",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Koninklijke Ahold Delhaize NV earnings in line with market expectations at 0.62 EUR — Koninklijke Ahold Delhaize NV (AD) released earnings per share at 0.62 EUR, in line with market expectations."
+    },
+    {
+      "id": "4864013",
+      "time": "2026-05-07 00:31:29",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "錫連續主力合約日內漲5%，現報425160.00元。"
+    },
     {
       "id": "te:markets:548460",
       "time": "2026-05-07 00:26:56",
@@ -96054,22 +96075,6 @@
         "國際"
       ],
       "text": "以色列總理內塔尼亞胡將在未來一小時內與特朗普通話。"
-    },
-    {
-      "id": "4851584",
-      "time": "2026-04-30 00:32:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "菲利普斯66：《瓊斯法案》豁免助力公司一季度搶佔市場份額。"
-    },
-    {
-      "id": "4851583",
-      "time": "2026-04-30 00:30:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "行業團體聯合發聲，反對聯合太平洋與諾福克南方鐵路公司合併。"
     }
   ]
 }
