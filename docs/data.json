@@ -1,7 +1,70 @@
 {
-  "updated": "2026-05-07 10:22:11",
-  "count": 11067,
+  "updated": "2026-05-07 10:25:43",
+  "count": 11068,
   "items": [
+    {
+      "id": "4864841",
+      "time": "2026-05-07 10:25:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國“數字性犯罪”猖獗 政府組建新機構應對】據韓國方面訊息，韓國政府6日宣佈組建一個新的跨部門機構，以提高應對“數字性犯罪”的能力。訊息稱，韓國當前正面臨一場“數字性犯罪”危機，犯罪手段包括在公共場合進行秘密拍攝，以及透過人工智慧技術進行深度偽造等。韓國政府此次宣佈成立的新機構名為“數字性犯罪受害者綜合支援組”，由來自性別平等家族部、廣播媒體通訊委員會和警方的多名專家組成。（央視）"
+    },
+    {
+      "id": "4864836",
+      "time": "2026-05-07 10:24:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "【綠電概念再度拉昇 中國能建直線漲停】綠電概念盤中再度拉昇，算電協同方向繼續領漲，中國能建直線漲停，此前華電遼能走出10天6板，大唐發電2連板，華電能源、華孚時尚逼近漲停，節能風電、協鑫能科、中國電建等快速跟漲。"
+    },
+    {
+      "id": "te:markets:548556",
+      "time": "2026-05-07 10:24:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Australian Dollar Notches New 4-Year Peak — The Australian dollar rose above $0.72, reaching a new four-year peak as growing expectations of a Middle East peace deal weakened the safe-haven US dollar, while disappointing domestic trade figures weighed on sentiment. Australia unexpectedly recorded a goods trade deficit of AUD 1.84 billion in March, its first in over eight years, as imports of data centre computing equipment surged, while fuel shipments also jumped on higher prices driven by the Iran conflict. Elsewhere, the greenback remained under pressure after reports that the US and Iran are moving toward formally ending the conflict, potentially reopening the Strait of Hormuz and paving the way for further nuclear talks. The Aussie also continued to benefit from a rate hike this week from the Reserve Bank of Australia, which lifted the cash rate to 4.35%. Markets now see only a 20% chance of another move in June after three rate hikes this year, while a further increase toward 4.60% by September remains fully priced."
+    },
+    {
+      "id": "4864833",
+      "time": "2026-05-07 10:24:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "雅高中國CEO：制定進一步向中國西部地區擴張的戰略。"
+    },
+    {
+      "id": "4864831",
+      "time": "2026-05-07 10:23:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【聚焦人工智慧教育應用等 2026世界數字教育大會將釋出八項成果】今天，教育部在京召開釋出會，介紹2026年世界數字教育大會的籌備情況。教育部科學技術與資訊化司副司長舒華介紹，2026世界數字教育大會將按照前沿引領、實踐賦能與全球共識三個篇章，共釋出八項成果。第一篇章前沿引領，共釋出三項成果。包括《中國智慧教育發展報告（2025—2026）》《全球數字教育發展指數（2026）》《人工智慧教育倫理：參考框架》。其中，《全球數字教育發展指數（2026）》參評的國家和地區從72個擴充套件至82個，首次將“超越人工智慧的思維能力培養”納入指數研究，深化對“人工智慧+教育”的洞察。第二篇章實踐賦能，共釋出四項成果。中國智慧教育公共服務平臺升級，釋出《人工智慧教育倫理：參考框架》，公佈世界數字教育創新十大案例，以及釋出兩項世界數字教育聯盟標準，包含《人工智慧教育應用系統》和《人工智慧賦能智慧校園基本要素》兩項標準。第三篇章全球共識，釋出一項成果，即《人工智慧教育杭州倡議》，呼籲世界各國攜手並進，加快落實聯合國未來峰會《全球數字契約》，推動實現2030年教育可持續發展目標。"
+    },
+    {
+      "id": "4864827",
+      "time": "2026-05-07 10:23:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "雅高集團中國CEO：雅高集團中國第一季度入境預訂量增長25%。"
+    },
+    {
+      "id": "te:markets:548555",
+      "time": "2026-05-07 10:22:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "TTF Prices Steady, US-Iran Deal in Focus — European natural gas futures steadied near €44 per MWh on Thursday, following a 6.4% decline in the previous session, as markets weighed prospects of a US-Iran deal that could lead to the gradual reopening of the Strait of Hormuz. Washington and Tehran are reportedly moving closer to an agreement on a one page of memorandum to end their conflict, with Iran expected to respond in the coming days. The latest US proposal came after President Trump briefly suspended an initiative to provide safe passage for vessels through the strait. The effective closure of the vital waterway has choked off around one-fifth of global LNG supply, with the route currently facing a dual blockade from both sides. While most gas from the Persian Gulf are directed toward Asia, the disruption has tightened global supply, raising concerns in Europe as the region needs to replenish inventories before next winter."
+    },
     {
       "id": "4864814",
       "time": "2026-05-07 10:21:20",
@@ -94259,54 +94322,6 @@
         "其他"
       ],
       "text": "特斯拉：電動卡車Semi進入量產新階段。"
-    },
-    {
-      "id": "4852540",
-      "time": "2026-04-30 10:24:46",
-      "tags": [
-        "市場"
-      ],
-      "text": "【仿製藥概念震盪走高 華神科技漲停】仿製藥概念震盪走高，華神科技漲停，南新制藥漲超16%，博瑞醫藥、珍寶島、復旦張江、仟源醫藥等漲幅居前。"
-    },
-    {
-      "id": "4852539",
-      "time": "2026-04-30 10:24:40",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【全鏈路自主可控！星辰大模型等十項中央企業數字技術成果釋出】29日下午，在第九屆數字中國建設峰會上，國務院國資委釋出十項中央企業數字技術成果。現場重點發布“星辰大模型”“港口數字孿生智慧體擬真決策平臺”等十項中央企業數字技術成果，全方位展現中央企業在工業軟體、核心電子元器件、人工智慧等關鍵領域取得的各項數字技術新突破。中央企業參會代表 黃智勇：“星辰大模型”實現了“全模態、全尺寸、全國產”，從根本上保證了大模型全鏈路技術的自主可控。此外，現場還發布了《數智賦能未來產業 創新引領產業變革》倡議書，倡議各方凝聚共識、協同發力，共同推動未來產業高質量發展。"
-    },
-    {
-      "id": "4852538",
-      "time": "2026-04-30 10:24:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【釘釘推出充電寶版錄音卡，DingTalk A1 Pro售價1299元】4月30日，釘釘正式推出DingTalk A1 Pro，並在天貓釘釘官方旗艦店開售，售價1299元。其主要面向高頻出差的商務人士和超級個體，自帶2980mAh大電池，可以隨時為手機應急充電，已透過新國標3C認證。"
-    },
-    {
-      "id": "4852537",
-      "time": "2026-04-30 10:23:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "寒武紀成交額超100億元。"
-    },
-    {
-      "id": "4852536",
-      "time": "2026-04-30 10:23:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "【伊利股份2025年歸母淨利潤率10%創歷史新高圓滿完成9%-10%目標】4月30日，在伊利股份（600887.SH）2025年度暨2026年第一季度業績說明會上，伊利集團董事長潘剛表示：“2026年，收入端力爭實現更好的成績；淨利率在2025年高基數的基礎上呈現繼續向好趨勢，並在新戰略週期裡再上一個新臺階。”值得注意的是，2025年，伊利實現歸母淨利潤率10%，創歷史新高。在行業面臨供需波動、經濟不確定性等多重考驗背景下，伊利圓滿完成“十四五”戰略週期中設定的淨利潤率9%-10%目標。伊利股份4月29日釋出的財報資料顯示，公司實現營業總收入1159.31億元，同比增長0.13%；利潤總額130億元，同比增長28.31%；歸母淨利潤115.65億元，同比增長36.82%，以前瞻性均衡業務結構佈局，重塑乳業增長邏輯，成為唯一實現營收淨利雙增的綜合性乳企，中國乳業“一超”斷層式領先格局再次深化。"
-    },
-    {
-      "id": "4852535",
-      "time": "2026-04-30 10:23:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【王騰加倉小米 稱相信小米一定能重回增長】4月30日，原小米中國區市場部總經理、REDMI品牌總經理，現任今日宜休科技創始人王騰發文：手機市場下行，大家日子都不好過，但小米有汽車和AIOT業務，而且AI時代還有大模型和具身智慧、自研晶片等新增長點，相信小米一定能重回增長，前幾天加倉了一些小米股票。"
     }
   ]
 }
