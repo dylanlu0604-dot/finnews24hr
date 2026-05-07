@@ -1,7 +1,62 @@
 {
-  "updated": "2026-05-07 13:43:57",
-  "count": 11019,
+  "updated": "2026-05-07 13:47:20",
+  "count": 11021,
   "items": [
+    {
+      "id": "4865457",
+      "time": "2026-05-07 13:46:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深證成指漲1.01%，現報15615.824點；上證指數漲0.38%，現報4175.854點；創業板指漲1.36%，現報3829.694點。"
+    },
+    {
+      "id": "4865456",
+      "time": "2026-05-07 13:46:13",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "科赫爾：若經濟形勢沒有改善，歐洲央行將考慮在未來幾個月加息。"
+    },
+    {
+      "id": "4865455",
+      "time": "2026-05-07 13:45:59",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委馬丁·科赫爾表示，歐洲央行將採取資料驅動、逐次會議決策的模式。"
+    },
+    {
+      "id": "te:markets:548595",
+      "time": "2026-05-07 13:45:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Reaches 4-Week High, Closes Up 1% — The NZX 50 rose 125 points, or 1.0%, to close at 13,271 on Thursday, extending gains from the previous session and tracking a rally on Wall Street overnight amid hopes of a potential end to the US-Iran war and solid AI stock earnings. The broader index hit its highest level since April 9, with almost all sectors trading in the green, including technology, financials, consumer staples, materials, and energy. Wednesday's unemployment data continued to lift sentiment, as the jobless rate unexpectedly declined to 5.3% in Q1. The latest figure was lower than both the previous quarter and market expectations of 5.4%, which had been the highest level since Q2 2015. Top performers included Gentrack Group (7.3%), Infratil (4.1%), A2 Milk (2.5%), Hallenstein Glasson (2.5%), Henderson Far East Income (2.4%), Ebos Group (2.3%), Westpac Banking Corp. (2.1%), Scales Corporation (2.0%), Contact Energy (1.1%), and ANZ Group (0.8%)."
+    },
+    {
+      "id": "4865454",
+      "time": "2026-05-07 13:44:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴克萊將英飛凌目標股價從44歐元上調至63歐元。"
+    },
+    {
+      "id": "4865453",
+      "time": "2026-05-07 13:44:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "索羅門群島議會7日透過一項對總理馬內萊的不信任動議。（新華社）"
+    },
     {
       "id": "4865452",
       "time": "2026-05-07 13:43:21",
@@ -93906,39 +93961,6 @@
         "市場"
       ],
       "text": "大眾汽車釋出財報後，股價盤前上漲1.6%。"
-    },
-    {
-      "id": "4852836",
-      "time": "2026-04-30 13:45:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【海特生物：2026年重點工作任務是推進埃普奈明新增產能建設】海特生物(300683)近日在業績說明會上表示，埃普奈明目前已進入醫保，2026年基本實現了滿產滿銷的狀態，公司2026年的重點工作任務是推進埃普奈明新增產能的建設。"
-    },
-    {
-      "id": "4852835",
-      "time": "2026-04-30 13:45:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "大眾汽車：已削減近10億歐元管理費用。"
-    },
-    {
-      "id": "4852834",
-      "time": "2026-04-30 13:44:53",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【寒武紀午後觸及20cm漲停，股價逼近1700元】寒武紀午後觸及20cm漲停，股價逼近1700元，成交額超250億元。"
-    },
-    {
-      "id": "4852833",
-      "time": "2026-04-30 13:43:59",
-      "tags": [
-        "市場"
-      ],
-      "text": "德國國債期貨下跌0.2%，報124.48，創3月27日以來新低。"
     }
   ]
 }
