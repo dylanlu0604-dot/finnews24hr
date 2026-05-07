@@ -1,7 +1,83 @@
 {
-  "updated": "2026-05-07 23:26:31",
-  "count": 10950,
+  "updated": "2026-05-07 23:30:00",
+  "count": 10954,
   "items": [
+    {
+      "id": "4866743",
+      "time": "2026-05-07 23:29:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿根廷總統米萊：將向國會提交新版 RIGI 計劃。"
+    },
+    {
+      "id": "4866742",
+      "time": "2026-05-07 23:29:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "荷蘭衛生研究所：這三人在飛機上與一名病毒感染者接觸後出現症狀。"
+    },
+    {
+      "id": "4866741",
+      "time": "2026-05-07 23:29:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "荷蘭衛生研究所：荷蘭國內共3名有症狀人員接受了漢坦病毒檢測，其中兩人檢測結果為陰性，另一人的檢測結果仍在分析中。"
+    },
+    {
+      "id": "4866740",
+      "time": "2026-05-07 23:28:18",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "CNN報道伊朗霍爾木茲海峽規則後，標普500指數漲幅收窄。"
+    },
+    {
+      "id": "4866739",
+      "time": "2026-05-07 23:28:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "NBA為歐洲籃球聯賽競購方案提供30億美元優惠籌碼。"
+    },
+    {
+      "id": "te:markets:548858",
+      "time": "2026-05-07 23:27:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Wheat Futures Fall to 3-Week Low — Wheat futures fell below $6 per bushel, the lowest in three weeks, pressured by lower oil prices and improving US weather forecasts. Crude dropped under $100 per barrel as markets reacted to signs of progress in US-Iran peace talks, easing concerns over supply disruptions tied to the Strait of Hormuz. Forecasts also called for rain across dry US Plains wheat areas, though traders warned some crop damage may already be irreversible. The US Department of Agriculture rated 31% of the US winter wheat crop in good to excellent condition, up from 30% last week but still the weakest for this period since 2023. Weekly US old crop export sales totaled 78,800 tons, below expectations, while Algeria bought roughly 390,000 to 420,000 tons of wheat in an international tender. Russia’s IKAR consultancy also cut its 2025 to 2026 wheat export forecast to 44.5 million tons from 46 million previously."
+    },
+    {
+      "id": "4866738",
+      "time": "2026-05-07 23:26:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油5分鐘內上漲0.66美元/桶，報92.37美元/桶；布倫特原油5分鐘內上漲0.59美元/桶，報98.47美元/桶。"
+    },
+    {
+      "id": "4866737",
+      "time": "2026-05-07 23:26:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "保時捷股份公司：汽車IT部門將於7月1日起併入研發部門。"
+    },
+    {
+      "id": "4866736",
+      "time": "2026-05-07 23:26:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國CAC40指數日內跌幅達1.00%。德國DAX指數日內跌幅達1.00%。"
+    },
     {
       "id": "4866735",
       "time": "2026-05-07 23:26:19",
@@ -93727,47 +93803,6 @@
         "國際"
       ],
       "text": "美國國防部長赫格塞思：下一年度國防預算體現了當下局勢的緊迫性。"
-    },
-    {
-      "id": "4854318",
-      "time": "2026-04-30 23:29:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列媒體報道：一枚從黎巴嫩發射的火箭彈落入以色列北部空曠地帶，未造成人員傷亡。"
-    },
-    {
-      "id": "4854317",
-      "time": "2026-04-30 23:29:34",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約洲際交易所可可期貨漲幅超 5%，報每噸 3593 美元。"
-    },
-    {
-      "id": "4854316",
-      "time": "2026-04-30 23:28:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2026五一檔新片總票房破億】據貓眼專業版資料，2026年五一檔新片總票房破億，《穿普拉達的女王2》《給阿嬤的情書》《寒戰1994》暫列五一檔新片票房榜前三位"
-    },
-    {
-      "id": "4854315",
-      "time": "2026-04-30 23:27:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "自 3 月以來，可追蹤原油出口量暴跌超 80%；由於油輪關閉定位追蹤系統，伊朗原油出口已無法精確統計。資料顯示，美國還在阿曼灣遠海以外區域攔截驅離油輪。"
-    },
-    {
-      "id": "4854314",
-      "time": "2026-04-30 23:26:44",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "非洲金融公司(AFC)表示，正與至少十家非洲及國際金融機構進行談判，計劃為洛比託走廊礦產運輸專案籌集30億至50億美元資金。參與談判的貸方包括花旗集團、南非標準銀行、Absa銀行及泛非貸方Ecobank等。"
     }
   ]
 }
