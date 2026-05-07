@@ -350,10 +350,64 @@ def save_ai_summaries(data: dict) -> None:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
 
+SUMMARY_PRIORITY_KEYWORDS = (
+    # S: macro data
+    "CPI", "PCE", "PMI", "GDP", "nonfarm", "payroll", "JOLTS", "retail sales",
+    "inflation", "unemployment", "jobless", "employment", "trade deficit",
+    "trade surplus", "exports", "imports", "consumer confidence",
+    "通膨", "通脹", "通貨膨脹", "非農", "就業", "失業", "零售銷售",
+    "貿易逆差", "貿易順差", "出口", "進口", "消費者信心",
+    # A: policy
+    "Fed", "Federal Reserve", "ECB", "BOJ", "BOE", "PBOC", "central bank",
+    "interest rate", "rate decision", "tariff", "sanction", "fiscal",
+    "央行", "美聯儲", "聯準會", "日本央行", "歐洲央行", "英國央行",
+    "利率", "降準", "關稅", "制裁", "財政",
+    # B: globally relevant companies
+    "Nvidia", "NVDA", "Apple", "Microsoft", "Alphabet", "Google", "Amazon",
+    "Meta", "Tesla", "TSMC", "ASML", "AMD", "Arm", "OpenAI", "earnings",
+    "revenue", "guidance", "財報", "營收", "指引", "獲利",
+)
+
+SUMMARY_LOW_VALUE_KEYWORDS = (
+    "券商", "策略", "配置", "研報", "建議投資者關注", "主力合約", "夜盤",
+    "酒價", "註冊資本", "成立新", "股份註銷",
+)
+
+
+def summary_priority_score(row) -> int:
+    item_id, item_time, tags_json, text = row
+    tags = json.loads(tags_json)
+    tag_text = " ".join(tags)
+    full_text = f"{tag_text} {text}"
+    score = 0
+
+    if any(keyword.lower() in full_text.lower() for keyword in SUMMARY_PRIORITY_KEYWORDS):
+        score += 100
+    if "Importance 3" in tags:
+        score += 80
+    elif "Importance 2" in tags:
+        score += 45
+    elif "Importance 1" in tags:
+        score += 15
+
+    if "Economy" in tags:
+        score += 35
+    if any(tag in tags for tag in ("央行", "宏觀", "國際", "公司")):
+        score += 20
+    if "Markets" in tags:
+        score -= 20
+    if item_id.startswith("te:markets:"):
+        score -= 35
+    if any(keyword in full_text for keyword in SUMMARY_LOW_VALUE_KEYWORDS):
+        score -= 60
+
+    return score
+
+
 def recent_news_for_summary(conn, start: datetime, end: datetime, limit: int = 330) -> list[dict]:
     start_text = start.strftime("%Y-%m-%d %H:%M:%S")
     end_text = end.strftime("%Y-%m-%d %H:%M:%S")
-    te_limit = min(60, limit)
+    te_limit = min(40, limit)
     te_rows = conn.execute(
         """
         SELECT id, time, tags, text
@@ -377,7 +431,7 @@ def recent_news_for_summary(conn, start: datetime, end: datetime, limit: int = 3
         (start_text, end_text, remaining_limit),
     ).fetchall()
 
-    rows = sorted([*te_rows, *other_rows], key=lambda r: r[1], reverse=True)
+    rows = sorted([*te_rows, *other_rows], key=lambda r: (summary_priority_score(r), r[1]), reverse=True)[:limit]
     return [{"id": r[0], "time": r[1], "tags": json.loads(r[2]), "text": r[3]} for r in rows]
 
 
@@ -558,8 +612,9 @@ def call_openai_summary(items: list[dict], start: datetime, end: datetime, marke
 你是財經新聞編輯。請根據以下 {len(items)} 則近 3 小時快訊，產生繁體中文（台灣）AI 摘要分析。
 時間區間：{start.strftime('%Y-%m-%d %H:%M')} 至 {end.strftime('%Y-%m-%d %H:%M')}（台灣時間）
 
-【市場價格背景（生成標題與摘要前必須先校準）】
+【市場價格背景（只用於校準情緒，不是事件來源）】
 以下為主要資產截至摘要生成時的最新價格與中期表現。請把它當成判斷市場實際風險偏好的基準，而不是只根據新聞語氣下標。
+除非快訊本身沒有足夠 S/A/B 級事件，否則不要把市場價格背景拆成獨立 events。
 {market_context or "- 本次未取得市場價格背景，請只根據快訊中明確價格資料判斷。"}
 
 規則：
@@ -573,7 +628,7 @@ def call_openai_summary(items: list[dict], start: datetime, end: datetime, marke
 - 若快訊或市場價格背景明確顯示主要股指「創新低 / 歷史新低」，必須使用「創新低」或「歷史低點」等相同強度描述。
 - 若市場價格背景寫「低檔震盪」，可描述為低檔震盪，不要寫出「52 週」。
 - 若市場價格背景寫「維持近期低點」，可描述為維持近期低點，不要寫出「三個月」或「52 週」。
-- C 級市場行情事件需優先整合上述 S&P 500、黃金、WTI/Brent、DXY、VIX、美債殖利率的價格與 1 個月/3 個月表現。
+- C 級市場行情事件只能作為收尾補充，最多 1~2 則；若已選出 5 則以上 S/A/B 事件，C 級不得超過 1 則。
 
 【篩選與排序原則（內部使用，請勿輸出等級標示）】
 請依下列重要程度由高到低，從快訊中挑出最具市場參考價值的事件（5~10 則），順序由最重要排到次重要：
@@ -583,9 +638,10 @@ def call_openai_summary(items: list[dict], start: datetime, end: datetime, marke
 - 央行官員發言屬於重要政策/數據訊號，尤其是 Fed、ECB、BOJ、BOE、PBOC 及上述主要經濟體央行官員對利率、通膨、就業、匯率與金融穩定的表態。
 - 事件必須以本時間區間內實際發生、公布或更新的內容為主；若快訊提到「前一日或更早」的政策/數據/財報，只能當作背景，不得把舊事件寫成該時段新事件。
 - Trading Economics 的市場行情文章若只是「引用」先前央行決議、經濟數據或財報作為價格變動背景，event title 必須聚焦「本時段的價格/市場反應」，不可改寫成「央行宣布升息」或「數據公布」。
+- Trading Economics 的 Economy 文章若是當下公布的 GDP、PMI、CPI、貿易、就業、央行紀要或利率訊號，應依 S/A 級優先處理，不要被 Markets 行情文蓋掉。
 - 不得把兩個不同事件硬合併成同一個 event。例：澳洲燃料儲備政策與澳元走勢可各自成為獨立事件；若澳元走勢文中引用 RBA 先前升息，只能寫「澳元因升息背景與風險偏好走強」，不得寫成「澳洲央行宣布升息與燃料儲備政策」。
 - 若同一時段有大量重要經濟數據，摘要與 events 可高度集中在經濟數據；即使約 70% 內容都是經濟數據也可以。
-- 市場行情類事件請整合股市、匯市、債市、原物料與加密貨幣表現，儘量合併成 1~2 則摘要，不要拆成零散多則。
+- 市場行情類事件請整合股市、匯市、債市、原物料與加密貨幣表現，必須合併成 1~2 則，不要拆成零散多則；不得讓行情事件佔 events 過半。
 
 
 
@@ -599,7 +655,7 @@ B 級：全球重要公司消息（限具全球影響力之大型企業）
    例：ASML Q1 營收高於預期、NVDA 財報前瞻、OpenAI 延後 IPO、Apple、TSMC、Microsoft。
 
 C 級：全球市場行情摘要整理
-    全球股市、匯市、債市、原物料、加密貨幣等主要資產行情整理。不要分開寫很多則，儘量合併寫在1~2則。需要儘量提到數據表現。
+    全球股市、匯市、債市、原物料、加密貨幣等主要資產行情整理。只作為背景補充，不可壓過 S/A/B。不要分開寫很多則，必須合併寫在 1~2 則。
 
 D 級：地緣政治
    例：美伊停火談判延後
@@ -623,13 +679,13 @@ D 級：地緣政治
 3. risk_on_score：0~10 分數，10 代表市場完全 risk on，0 代表市場完全 risk off。
 4. fundamental_surprise_score：0~10 分數，10 代表經濟數據與財報全面優於預期，0 代表全面低於預期。
 5. score_commentary：一句 60 字以內說明兩個分數的主要依據。
-6. events：5~10 個重點事件，依該時段實際重要事件多寡決定數量，依重要程度由高到低排序（S→A→B→C→D）。
+6. events：5~10 個重點事件，依該時段實際重要事件多寡決定數量，依重要程度由高到低排序（S→A→B→C→D）。若快訊中存在任何 S/A/B 候選，前 3 則 events 必須優先選 S/A/B，不得用 C 級行情開場。
 7. 每個事件包含 title、explanation、impact。
 8. 每個 explanation 約 300~450 字，必須包含「發生了什麼」、「為何重要」、「對市場情緒、資產價格、經濟基本面或企業獲利的含意」。不要只用一兩句話轉述價格。
 9. **請勿在任何欄位輸出「S級 / A 級 / B 級 / C 級 / D 級」等分級標示**，分級僅作為內部篩選依據。
 10. 不要編造事實；若訊息不足，寧可寫得簡短或減少事件數量，也不要硬湊。
 11. 清淡時段寧可只給 5 則高質量事件，也不要為了湊數納入垃圾級內容。
-12. 如果S、A、B級的經濟數據很多，70%以上的events都是S級的也沒關係。
+12. 如果 S、A、B 級的經濟數據很多，70%以上的 events 都是 S/A/B 也沒關係；相反地，C 級行情不得超過 2 則。
 13. 若快訊或市場價格背景明確顯示主要股指「創新高 / 歷史新高」，摘要內容要偏向非常樂觀的情緒去寫，不要強調太多風險。
 
 【分數規則 — 請直接根據 summary、events 與市場價格背景評分】
