@@ -1,7 +1,88 @@
 {
-  "updated": "2026-05-07 20:13:16",
-  "count": 10949,
+  "updated": "2026-05-07 20:16:44",
+  "count": 10942,
   "items": [
+    {
+      "id": "4866343",
+      "time": "2026-05-07 20:16:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀突破82美元/盎司，日內漲6.08%。"
+    },
+    {
+      "id": "te:economy:548778",
+      "time": "2026-05-07 20:15:45",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brazil",
+        "Industrial Production Mom",
+        "Importance 0"
+      ],
+      "text": "Brazil Industrial Output Extends Growth Streak — Brazil’s industrial production rose 0.1% in March 2026 from February, marking a third consecutive monthly gain. Growth was driven by coke, refined petroleum products and biofuels (+2.2%), chemicals (+4.0%), vehicles (+1.1%), metallurgy (+1.2%), and machinery and equipment (+1.0%). Durable consumer goods increased 1.7%, extending gains over the past three months to 9.9%, while capital goods (+0.6%), intermediate goods (+0.5%), and semi- and non-durable consumer goods (+0.4%) also advanced. On an annual basis, industrial output rose 4.3%, rebounding from a 0.7% decline in February."
+    },
+    {
+      "id": "4866342",
+      "time": "2026-05-07 20:15:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲6%，現報81.94美元/盎司。"
+    },
+    {
+      "id": "4866341",
+      "time": "2026-05-07 20:15:07",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "新聞集團B美股盤前跌超10%，現報27.0美元。"
+    },
+    {
+      "id": "te:markets:548777",
+      "time": "2026-05-07 20:14:27",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Extends Fall as US-Iran Deal Eyed — WTI crude futures fell toward $91.5 per barrel on Thursday, extending a sharp decline from the previous session as investors weighed the prospects for a Middle East peace deal. Reports suggested that the US sent a one-page memorandum of understanding through Pakistani intermediaries aimed at formally ending the conflict and paving the way for the gradual reopening of the Strait of Hormuz. Tehran is expected to respond within days after confirming it was reviewing the US proposal, although broader negotiations surrounding Iran’s nuclear program are reportedly set to take place later. However, President Trump cautioned that a deal has not yet been finalized and it would be a \"big assumption\" that Iran would accept the proposal, while threatening to resume military strikes if it fails to comply. Meanwhile, latest data showed US oil exports climbed to a record high last week as countries increasingly turned to American supply amid shortages linked to the conflict."
+    },
+    {
+      "id": "4866339",
+      "time": "2026-05-07 20:14:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "【雲鋒金融旗下雲鋒有魚上線實物黃金代幣產品】雲鋒金融旗下“雲鋒有魚”平臺正式上線實物黃金代幣產品。據介紹，該產品依託持牌金融機構的合規運營框架，並由金融數字資產基礎設施平臺AlphaToken提供核心底層代幣化基礎設施支援，旨在為合格專業投資者提供更便捷、透明的實物黃金數字化資產配置服務。雲鋒金融方面表示，此舉是雲鋒有魚在現實世界資產（RWA）領域的重要佈局，進一步拓展了面向專業投資者的另類資產服務體系。（新浪科技）"
+    },
+    {
+      "id": "4866338",
+      "time": "2026-05-07 20:13:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌4%，現報91.27美元/桶。"
+    },
+    {
+      "id": "4866337",
+      "time": "2026-05-07 20:13:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌4%，現報91.27美元/桶。"
+    },
+    {
+      "id": "4866336",
+      "time": "2026-05-07 20:13:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【長纜科技：已回購股份減持完畢 獲資金7707.05萬元】長纜科技公告稱，截至2026年5月7日，公司已完成已回購股份減持，透過集中競價交易方式減持386.20萬股，佔總股本的2.00%，所得資金7707.05萬元（不含交易費用），成交均價19.96元/股。減持所得資金用於補充流動資金，不會導致公司控制權和股權結構變動，不影響當期利潤，不會對公司經營等產生重大影響。"
+    },
     {
       "id": "te:markets:548774",
       "time": "2026-05-07 20:12:54",
@@ -93499,145 +93580,6 @@
         "國際"
       ],
       "text": "歐洲央行：決策將基於對通脹前景及其相關風險的評估，評估過程將結合經濟與金融資料，同時考量核心通脹的動態以及貨幣政策的傳導效力。"
-    },
-    {
-      "id": "4853887",
-      "time": "2026-04-30 20:16:37",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行：堅持實施相關政策，確保中期通脹穩定在 2% 水平。"
-    },
-    {
-      "id": "4853886",
-      "time": "2026-04-30 20:16:20",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行：管委會並未預先承諾將遵循特定的利率路徑。"
-    },
-    {
-      "id": "4853883",
-      "time": "2026-04-30 20:16:07",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行：通脹上行風險、經濟增長下行風險均已加劇。"
-    },
-    {
-      "id": "4853881",
-      "time": "2026-04-30 20:15:56",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行：管理委員會將密切監控局勢，遵循資料依賴型逐次會議方式，確定合適的貨幣政策立場。"
-    },
-    {
-      "id": "4853879",
-      "time": "2026-04-30 20:15:48",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行：戰爭對中期通脹與經濟活動的影響，將取決於能源價格衝擊的強度、持續時間，以及其間接效應與第二輪效應的規模。"
-    },
-    {
-      "id": "4853878",
-      "time": "2026-04-30 20:15:36",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行：並未預先承諾採取特定的利率路徑。"
-    },
-    {
-      "id": "4853877",
-      "time": "2026-04-30 20:15:29",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行：管委會仍處於有利位置，能夠穩妥應對當前的不確定性。"
-    },
-    {
-      "id": "4853876",
-      "time": "2026-04-30 20:15:26",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行表示：中東戰事已導致能源價格大幅攀升，推高通脹水平，並拖累經濟信心。"
-    },
-    {
-      "id": "4853875",
-      "time": "2026-04-30 20:15:23",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數期貨延續漲勢，觸及盤中高點0.5%。"
-    },
-    {
-      "id": "4853874",
-      "time": "2026-04-30 20:15:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國儀量子科創板IPO定於5月11日上會】上海證券交易所上市稽核委員會定於2026年5月11日召開2026年第21次上市稽核委員會審議會議，審議國儀量子技術(合肥)股份有限公司(首發)。"
-    },
-    {
-      "id": "4853873",
-      "time": "2026-04-30 20:15:15",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【歐洲央行如期按兵不動】歐洲央行維持三大利率不變，符合市場預期。該行已連續第七次會議按兵不動。存款機制利率、主要再融資利率和邊際貸款利率分別維持在2%、2.15%和2.40%不變。歐元區至4月30日歐洲央行主要再融資利率 2.15%，預期2.15%，前值2.15%。歐元區至4月30日歐洲央行存款機制利率 2%，預期2.00%，前值2.00%。"
-    },
-    {
-      "id": "4853872",
-      "time": "2026-04-30 20:15:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "【海南昌江核電二期3號機組首次開啟帶核除錯】記者今天（4月30日）從中國華能獲悉，海南自貿港首個“華龍一號”核電專案，華能昌江核電二期專案3號機組開始裝載首爐核燃料，標誌著該機組首次開啟帶核除錯，進入併網發電前置核心流程。隨著水下抓具將燃料元件從乏池內提起，緩慢移動並精準放入反應堆堆芯預定位置，華能昌江核電二期專案3號機組首爐核燃料正式開始裝載。專案位於海南省昌江黎族自治縣，規劃建設兩臺120萬千瓦級“華龍一號”壓水堆核電機組。兩臺機組預計分別於2026年和2027年投產發電，投入商業執行後可提供清潔電能超180億度，能夠滿足100萬人口的生產生活年度用電需求，相當於每年減少標煤消耗632.6萬噸，為自貿港產業發展注入綠色動力。（央視新聞）"
-    },
-    {
-      "id": "4853871",
-      "time": "2026-04-30 20:14:52",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行行長貝利：我認為收益率曲線當前位置並無不當。"
-    },
-    {
-      "id": "4853870",
-      "time": "2026-04-30 20:14:47",
-      "tags": [
-        "央行",
-        "市場"
-      ],
-      "text": "【英國央行行長貝利講話之際 兩年期國債延續漲勢】在英國央行官員維持政策不變且行長安德魯·貝利表示當前處於“一個合理的位置”後，交易員減少了對英國央行加息的押注，英國國債延續漲勢。對貨幣政策變化最敏感的兩年期國債收益率下跌10個基點，至4.45%。10年期國債收益率下跌8個基點，至4.99%。貝利隨後在新聞釋出會上表示，貨幣政策“沒有太多能做的”，無法阻止油價推動的價格上升影響英國企業和家庭，之後這些國債漲勢進一步擴大。Marlborough Investment Management基金經理James Athey表示：“貝利開場這番表態聽起來相當偏鴿派。”貨幣市場削減了對今年加息幅度的押注，目前計入約66個基點，相當於加息兩次，外加略高於60%的機率進行第三次加息。在利率決定公佈前，市場計入的加息幅度約為73個基點。"
-    },
-    {
-      "id": "4853869",
-      "time": "2026-04-30 20:14:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "英格蘭銀行行長貝利：存在無需加息的路徑，也存在需要加息的路徑。"
-    },
-    {
-      "id": "4853868",
-      "time": "2026-04-30 20:14:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "【烏克蘭對多名白俄羅斯相關人員及企業實施制裁】當地時間30日，烏克蘭總統澤連斯基簽署總統令，批准啟動針對白俄羅斯相關人員及企業的制裁，重點針對白俄羅斯總統盧卡申科的兩個兒子維克多·盧卡申科和德米特里·盧卡申科，同時涉及多名白俄羅斯官員及11家企業。制裁措施具體包含，對維克多·盧卡申科的制裁涵蓋凍結資產、中止貿易、限制過境與飛行運輸、禁止參與私有化和政府採購等，其中部分制裁無限期實施，其餘有效期為十年；德米特里·盧卡申科則被實施類似制裁，包括凍結資產、金融限制、禁止參與私有化和政府採購等。除盧卡申科的兩個兒子外，此次制裁還涉及白俄羅斯武裝力量總參謀長帕維爾·穆拉韋伊科、前總統辦公廳主任維克多·舍伊曼等多名官員及公民。（央視新聞）"
     }
   ]
 }
