@@ -1,7 +1,63 @@
 {
-  "updated": "2026-05-08 04:06:30",
-  "count": 11085,
+  "updated": "2026-05-08 04:09:55",
+  "count": 11083,
   "items": [
+    {
+      "id": "te:markets:548895",
+      "time": "2026-05-08 04:09:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Airbnb earnings below expectations at 0.26 USD — Airbnb (ABNB) released earnings per share at 0.26 USD, compared to market expectations of 0.31 USD."
+    },
+    {
+      "id": "te:markets:548894",
+      "time": "2026-05-08 04:09:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Uruguay",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "MercadoLibre earnings below expectations at 8.23 USD — MercadoLibre (MELI) released earnings per share at 8.23 USD, compared to market expectations of 10.46 USD."
+    },
+    {
+      "id": "te:markets:548893",
+      "time": "2026-05-08 04:09:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Gilead Sciences earnings above expectations at 2.03 USD — Gilead Sciences (GILD) released earnings per share at 2.03 USD, compared to market expectations of 1.9 USD."
+    },
+    {
+      "id": "4867124",
+      "time": "2026-05-08 04:07:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "CoreWeave一季度營收20.78億美元，IBES預期19.65億美元。"
+    },
+    {
+      "id": "te:markets:548892",
+      "time": "2026-05-08 04:07:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Trade Desk earnings above expectations at 0.28 USD — Trade Desk (TTD) released earnings per share at 0.28 USD, compared to market expectations of 0.121 USD."
+    },
     {
       "id": "4867123",
       "time": "2026-05-08 04:04:25",
@@ -94915,63 +94971,6 @@
         "國際"
       ],
       "text": "【伊朗譴責以色列對“全球堅韌船隊”的襲擊】當地時間4月30日，伊朗外交部發言人巴加埃發表宣告表示，以色列在國際水域襲擊“全球堅韌船隊”並強行拘押支援加沙民眾的人士，屬於“海盜行為和恐怖行徑”，對此予以強烈譴責。據悉，以色列海軍扣押了175名試圖突破其對加沙地帶海上封鎖的船隊活動人士。巴加埃指出，該國際行動由來自數十個國家的支援巴勒斯坦事業人士參與，旨在打破對加沙地帶的封鎖並向當地民眾提供人道援助。他表示，對該船隊的襲擊不僅是對人道救援行動的打擊，也是對人類良知和共同價值的衝擊。（央視新聞）"
-    },
-    {
-      "id": "4854622",
-      "time": "2026-05-01 04:09:48",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "閃迪公司股價走勢反轉，盤後時段財報與業績 outlook 公佈後下跌7%"
-    },
-    {
-      "id": "4854621",
-      "time": "2026-05-01 04:09:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "Reddit一季度營收6.634億美元，分析師預期6.093億美元。一季度淨利潤2.04億美元，分析師預期1.174億美元。一季度ARPU為5.23美元，分析師預期4.87美元。一季度日活使用者數1.268億，分析師預期1.2627億。"
-    },
-    {
-      "id": "4854620",
-      "time": "2026-05-01 04:08:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "【11國外長髮表聯合宣告 譴責以色列襲擊“全球堅韌船隊”】據土耳其外交部訊息，當地時間4月30日，土耳其、巴西、約旦、巴基斯坦、西班牙、馬來西亞、孟加拉國、哥倫比亞、馬爾地夫、南非和利比亞等國外交部長髮表聯合宣告，強烈譴責以色列襲擊“全球堅韌船隊”。宣告指出，該船隊所進行的是一項旨在引起國際社會關注加沙人道主義局勢的民間人道主義行動。以方對船隻實施攻擊並在國際水域拘押活動人士，嚴重違反了國際法和國際人道主義法。宣告對相關平民活動人士的安全表示關切，並敦促以色列方面立即採取措施予以釋放。（央視新聞）"
-    },
-    {
-      "id": "4854619",
-      "time": "2026-05-01 04:07:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "西部資料第三財季淨營收33.4億美元，同比增長45%，分析師預期32.3億美元。預計第四財季運營開支3.85億-3.95億美元，預計調整後毛利潤率51%-52%。"
-    },
-    {
-      "id": "4854618",
-      "time": "2026-05-01 04:07:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "羅布樂思一季度日活躍使用者1.32億，市場預期1.438億。"
-    },
-    {
-      "id": "4854617",
-      "time": "2026-05-01 04:07:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "IMAX第一季度營收8,140萬美元，預估7,980萬美元。"
-    },
-    {
-      "id": "4854616",
-      "time": "2026-05-01 04:06:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "【不滿歐洲盟友 特朗普暗示考慮在西班牙和義大利削減駐軍】當地時間4月30日，美國總統特朗普在白宮記者會上表示，部分歐洲盟友在對伊朗問題上“沒有提供幫助”，並點名西班牙和義大利“表現不佳”。他稱，美國在處理中東局勢時“並不依賴他國”，並表示此前曾測試盟友意願，但多數國家選擇“不介入”。特朗普指出，美國在伊朗問題上已具備“完全掌控力”，稱無需外部支援即可完成軍事行動，並再次強調伊朗“不能擁有核武器”。他表示，美國軍事行動已對伊朗造成嚴重打擊，稱其軍力已被“削弱”。此外，特朗普批評部分歐洲國家在烏克蘭問題上的表現，並對德國當前政策提出疑問，認為其在移民、能源及地區安全問題上面臨多重挑戰。在被問及是否會像對德國一樣，調整在歐洲的駐軍部署時，特朗普表示“很可能會這麼做”，暗示可能考慮從西班牙和義大利撤出部分美軍。（央視新聞）"
     }
   ]
 }
