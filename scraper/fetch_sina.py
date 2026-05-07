@@ -842,7 +842,8 @@ def update_ai_summaries(conn) -> None:
         print("[AI] 已取得摘要用市場價格背景")
 
     # ── Backfill 模式 ──
-    # 平常排程只處理目前這個 3 小時時段；需要一次性補歷史時，才設定環境變數。
+    # 平常排程會往回看最近幾個 3 小時時段，已存在的摘要會跳過；
+    # 這樣手動刪除雲端某一筆摘要後，下一輪排程可自動補回。
     # BACKFILL_FROM=YYYY-MM-DD：回溯該日期之後的所有時段。
     # AI_SCORE_BACKFILL_DAYS=3：只回補最近 N 天缺 score 的既有摘要。
     backfill_from = os.getenv("BACKFILL_FROM", "").strip()
@@ -862,9 +863,12 @@ def update_ai_summaries(conn) -> None:
             print(f"[BACKFILL] 分數回補模式：最近 {score_backfill_days} 天，預計處理 {target_slots} 個 {SLOT_HOURS} 小時時段")
         except ValueError:
             print(f"[ERROR] AI_SCORE_BACKFILL_DAYS 格式錯誤（需為數字）：{score_backfill_days}，改用預設值")
-            target_slots = 1
+            target_slots = 3
     else:
-        target_slots = 1
+        try:
+            target_slots = max(1, int(os.getenv("AI_LOOKBACK_SLOTS", "3")))
+        except ValueError:
+            target_slots = 3
 
     current_time = now
     new_count = 0
