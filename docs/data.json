@@ -1,7 +1,60 @@
 {
-  "updated": "2026-05-08 01:12:50",
-  "count": 11051,
+  "updated": "2026-05-08 01:16:24",
+  "count": 11056,
   "items": [
+    {
+      "id": "4866917",
+      "time": "2026-05-08 01:16:04",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "週四（5月7日），美聯儲隔夜逆回購協議（RRP）使用規模為7.73億美元，上個交易日報16.33億美元。"
+    },
+    {
+      "id": "te:markets:548884",
+      "time": "2026-05-08 01:16:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Crude Oil Swings Higher — WTI crude oil futures erased their sharp losses to $95.5 per barrel on Thursday as markets continued to wait for clarity on potential supply from the Persian Gulf. Iran was still reviewing the memorandum sent by the US to end their two-month war, which would include the gradual resumption of tanker flows from the Middle East. President Trump had signaled optimism on Iran agreeing to the concessions, which drove oil and refined product prices to plunge last session. Still, the pullback was limited as global oil supply is expected to remain muted even if restrictions in the Strait of Hormuz are lifted. Resumption of production capacity in GCC states is due to be slow do to damage and insurers are reluctant to service tankers crossing the Strait following reports of strikes in the region. The halt in exports from the key region drove the US to deplete its product stocks, with gasoline inventories dropping for 12 consecutive weeks, while those for distillate fuel fell for nine weeks."
+    },
+    {
+      "id": "4866916",
+      "time": "2026-05-08 01:15:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI： GPT-實時翻譯（GPT‑REALTIME‑TRANSLATE）定價為每分鐘0.034美元； GPT-實時Whisper語音轉寫（GPT‑REALTIME‑WHISPER）定價為每分鐘0.017美元。"
+    },
+    {
+      "id": "4866915",
+      "time": "2026-05-08 01:15:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：GPT-REALTIME-2的定價為每100萬音訊輸入代幣32美元，每100萬音訊輸出代幣64美元。"
+    },
+    {
+      "id": "4866914",
+      "time": "2026-05-08 01:14:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：透過API新模型推進語音智慧發展。"
+    },
+    {
+      "id": "4866913",
+      "time": "2026-05-08 01:12:59",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【軟銀擬攜手英偉達、富士康，打造日本國產AI伺服器】日本軟銀公司尋求在本土開發和製造人工智慧伺服器，並計劃在到本年代末在英偉達和富士康等主要廠商的協助下開始設計和組裝零部件。軟銀集團旗下的行動通訊業務計劃專注於高效能伺服器的研發，目標是能夠高速執行尖端圖形處理器(GPU)。該專案將被納入最早於週一公佈的中期管理計劃。軟銀已就伺服器開發和生產事宜與英偉達、富士康展開討論。英偉達擁有一套針對其GPU伺服器的認證體系，而富士康是全球領先的AI伺服器代工製造商之一。"
+    },
     {
       "id": "4866912",
       "time": "2026-05-08 01:12:19",
@@ -94652,14 +94705,6 @@
         "國際"
       ],
       "text": "週四（4月30日），美聯儲隔夜逆回購協議（RRP）使用規模為82.61億美元（交易對手12家），上個交易日報6.43億美元。"
-    },
-    {
-      "id": "4854408",
-      "time": "2026-05-01 01:13:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "【法國政府仍維持經濟增長預期 儘管第一季度陷入停滯】法國財長Roland Lescure表示，儘管第一季度經濟意外陷入停滯，原因是國內需求疲弱以及出口下滑，但政府不會修改其增長預測。Lescure表示，今年前3個月經濟未能增長，部分原因是伊朗戰爭爆發帶來的影響，也因為一些臨時性因素，包括地方選舉前公共投資下降，以及天氣溫和導致能源需求減少。法國政府本月早些時候已將2026年經濟增長預測小幅下調至0.9%，以反映中東衝突的影響。他在RTL電臺表示：“今年還剩下3個季度，如果經濟擺脫停滯，並在接下來2個或3個季度回升，就沒有理由重新來過。衝突存在很大不確定性，必須非常密切地關注，如果我們需要調整預測，我們會這樣做，但現階段沒有理由這麼做。”"
     }
   ]
 }
