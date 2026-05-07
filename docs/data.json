@@ -1,7 +1,110 @@
 {
-  "updated": "2026-05-07 09:43:43",
-  "count": 11054,
+  "updated": "2026-05-07 09:47:12",
+  "count": 11056,
   "items": [
+    {
+      "id": "te:economy:548528",
+      "time": "2026-05-07 09:46:10",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Exports",
+        "Importance 1"
+      ],
+      "text": "Australia Exports Fall 2.7% in March — Australia’s goods exports dropped 2.7% month-on-month to AUD 43.93 billion in March 2026, reversing a downwardly revised 4.2% rise in the previous month, mainly driven by other rural products. Rural exports plunged 11.6% to AUD 6.32 billion, weighed down by declines in meat and meat preparations (-2.9%), other rural goods (-23.1%), cereal grains and cereal preparations (-6.0%), and wool and sheepskins (-8.9%)."
+    },
+    {
+      "id": "4864595",
+      "time": "2026-05-07 09:45:56",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內跌5%，現報4893.00元。"
+    },
+    {
+      "id": "4864594",
+      "time": "2026-05-07 09:45:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲1%，現報78.10美元/盎司。"
+    },
+    {
+      "id": "4864593",
+      "time": "2026-05-07 09:45:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "蔚來ES9將於5月27日正式上市並開啟交付，5月11日開啟使用者試駕。"
+    },
+    {
+      "id": "4864592",
+      "time": "2026-05-07 09:45:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PTA連續主力合約日內跌4%，現報6500.00元。"
+    },
+    {
+      "id": "4864591",
+      "time": "2026-05-07 09:45:22",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "菲律賓股市指數上漲2%至6088.14點。"
+    },
+    {
+      "id": "te:markets:548527",
+      "time": "2026-05-07 09:44:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 2"
+      ],
+      "text": "Dollar Weakens on Middle East Peace Prospects — The dollar index slipped below 98 on Thursday, extending losses from the prior session as markets priced in rising expectations of a US-Iran agreement to end the war. Reports indicated that both sides are nearing a one-page, 14-point memorandum of understanding aimed at formally ending the conflict, potentially reopening the Strait of Hormuz, and laying the groundwork for more detailed nuclear negotiations. However, President Trump cautioned that no deal has yet been finalized, warning that military strikes could resume if Tehran fails to comply. Oil prices dropped sharply on easing geopolitical risk, helping to reduce inflation concerns and temper expectations that central banks will need to maintain restrictive policy for longer. Still, Chicago Fed Bank President Goolsbee struck a cautious tone, noting that inflation has not continued its descent toward the US Federal Reserve’s 2% target and has instead picked up since the start of the conflict."
+    },
+    {
+      "id": "4864590",
+      "time": "2026-05-07 09:44:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內跌6%，現報626.70元。"
+    },
+    {
+      "id": "4864589",
+      "time": "2026-05-07 09:43:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PVC連續主力合約日內跌3%，現報5146.00元。"
+    },
+    {
+      "id": "4864588",
+      "time": "2026-05-07 09:43:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【光啟技術成立新公司，含衛星及無人飛行器相關業務】企查查APP顯示，近日，四川蜂群智盾科技有限公司成立，註冊資本1億元，經營範圍包含：衛星行動通訊終端製造；衛星行動通訊終端銷售；智慧無人飛行器製造；智慧無人飛行器銷售等。企查查股權穿透顯示，該公司由光啟技術全資持股。"
+    },
+    {
+      "id": "4864587",
+      "time": "2026-05-07 09:43:33",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【工業金屬板塊盤初上揚，麗島新材觸及漲停】工業金屬板塊盤初上揚，麗島新材觸及漲停，株冶集團漲超7%，盛達資源、盛屯礦業、中金嶺南跟漲。"
+    },
     {
       "id": "4864586",
       "time": "2026-05-07 09:42:32",
@@ -94096,84 +94199,6 @@
         "其他"
       ],
       "text": "【2026五一檔新片預售票房破6000萬】據貓眼專業版資料，2026年五一檔新片預售總票房破6000萬，《給阿嬤的情書》《寒戰1994》《10間敢死隊》暫列五一檔新片票房榜前三位。"
-    },
-    {
-      "id": "4852454",
-      "time": "2026-04-30 09:45:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國農業部預測，澳大利亞2026/27年度小麥產量將同比下降19%。"
-    },
-    {
-      "id": "4852453",
-      "time": "2026-04-30 09:45:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "【五八智慧與當虹科技達成戰略合作 共建機器人遙操作技術聯合實驗室】據五八智慧訊息，五八智慧科技（杭州）有限公司（簡稱“五八智慧”）與杭州當虹科技股份有限公司（簡稱“當虹科技”）正式簽署戰略合作協議。雙方將圍繞具身智慧機器人、低延時影片通訊、AI識別、VR沉浸式互動、端邊雲協同等方向開展深度合作，並聯合掛牌成立“機器人遙操作技術聯合實驗室”。"
-    },
-    {
-      "id": "4852452",
-      "time": "2026-04-30 09:45:18",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【零售板塊短線拉昇，國芳集團漲停】零售板塊短線拉昇，國芳集團漲停，友阿股份、美凱龍、百大集團、寧波中百、天音控股跟漲。"
-    },
-    {
-      "id": "4852451",
-      "time": "2026-04-30 09:45:13",
-      "tags": [
-        "資料"
-      ],
-      "text": "中國4月RatingDog製造業PMI 52.2，預期51，前值50.8。"
-    },
-    {
-      "id": "4852450",
-      "time": "2026-04-30 09:45:05",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內漲幅達3.06%，成分股中，芯原股份漲17.65%，翱捷科技漲9.98%，寒武紀漲8.56%，天合光能漲8.11%。"
-    },
-    {
-      "id": "4852449",
-      "time": "2026-04-30 09:44:58",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "三星電子：受中東衝突影響，物流成本上漲風險正在加劇。"
-    },
-    {
-      "id": "4852448",
-      "time": "2026-04-30 09:44:47",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "三星電子：中東衝突尚未造成生產中斷。"
-    },
-    {
-      "id": "4852447",
-      "time": "2026-04-30 09:44:45",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "國務院任免國家工作人員。任命張成中為國家消防救援局第一政治委員。"
-    },
-    {
-      "id": "4852446",
-      "time": "2026-04-30 09:44:07",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "三星電子：已從中東獲得天然氣庫存保障。"
     }
   ]
 }
