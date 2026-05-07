@@ -1,7 +1,28 @@
 {
-  "updated": "2026-05-08 05:36:31",
-  "count": 11053,
+  "updated": "2026-05-08 05:39:54",
+  "count": 11050,
   "items": [
+    {
+      "id": "4867182",
+      "time": "2026-05-08 05:39:18",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國軍方稱在襲擊後不尋求局勢升級。"
+    },
+    {
+      "id": "te:markets:548916",
+      "time": "2026-05-08 05:37:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "TSX Falls as Investors Book Gains and Energy Losses Weigh — The S&P/TSX Composite Index fell 0.4% to close at 33,857 on Thursday, as investors locked in recent gains ahead of US and Canadian jobs data due Friday. Forecasts point to Canada adding 15,000 jobs in April, with the unemployment rate holding at 6.7%. Energy shares weighed on the index as oil prices declined on expectations that a potential US–Iran agreement could lead to a gradual reopening of the Strait of Hormuz. Canadian Natural Resources fell 2.1%, while Suncor lost 1.0%. Technology stocks provided support, with Shopify rebounding 5.8% after steep losses earlier in the week. Enerflex rose 5.5% after reporting stronger Q1 revenue, while Cascades slipped 2.4% on weaker-than-expected sales. Nutrien dropped 7.5% despite higher quarterly profit. Wheaton Precious Metals fell 2.1% before reporting record revenue, earnings, and cash flow after the close."
+    },
     {
       "id": "4867181",
       "time": "2026-05-08 05:35:25",
@@ -94729,46 +94750,6 @@
         "市場"
       ],
       "text": "4月份，歐元兌美元累計上漲1.54%，週四（4月30日）紐約尾盤報1.1731，4月7日以來持續走高，4月17日達到1.1849，隨後略微回吐漲幅；英鎊兌美元累漲2.83%，報1.3602，4-7日以來持續上揚，4月14日以來高位窄幅震盪——主要交投於1.35上方，4月30日達到1.3612；美元兌瑞郎累跌2.18%，報0.7817。商品貨幣對中，澳元兌美元累漲4.31%、報0.7197，紐元兌美元累漲2.75%、報0.5905，美元兌加元累跌2.37%、報1.3586。瑞典克朗兌美元累漲2.45%，挪威克朗兌美元累漲4.54%，丹麥克朗兌美元累漲1.52%。"
-    },
-    {
-      "id": "4854750",
-      "time": "2026-05-01 05:39:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "穆迪評級確認美元對加拿大的評級為A2。"
-    },
-    {
-      "id": "4854749",
-      "time": "2026-05-01 05:37:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "蘋果首席財務官表示：蘋果本季度業績指引已將供應受限因素納入考量。"
-    },
-    {
-      "id": "4854748",
-      "time": "2026-05-01 05:37:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "標普正考慮修改指數規則，加快大型IPO公司納入指數的程序。"
-    },
-    {
-      "id": "4854747",
-      "time": "2026-05-01 05:37:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普政府就法官裁決提起上訴，該裁決推翻了美國衛生部長肯尼迪的疫苗相關議程。"
-    },
-    {
-      "id": "4854746",
-      "time": "2026-05-01 05:36:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：迪士尼下調部分技術崗位員工的股票薪酬。"
     }
   ]
 }
