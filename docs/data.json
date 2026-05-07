@@ -1,7 +1,26 @@
 {
-  "updated": "2026-05-08 06:27:36",
-  "count": 11044,
+  "updated": "2026-05-08 06:31:11",
+  "count": 11046,
   "items": [
+    {
+      "id": "te:markets:548921",
+      "time": "2026-05-08 06:30:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Methanol Slumps by 5.38% — Top commodity loser is Methanol (-5.38%). Gains are led by Natural Gas EU (3.58%), Heating Oil (3.14%), Crude Oil WTI (1.92%) and Brent Crude Oil (1%)."
+    },
+    {
+      "id": "4867212",
+      "time": "2026-05-08 06:29:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【加碼科技金融，中小銀行盼AIC試點擴容】在新質生產力亟需長期資本賦能的背景下，科技金融成為銀行競逐的核心賽道，金融資產投資公司（AIC）試點擴容的呼聲由此升溫。從業內獲悉，多家股份行、城商行呼籲AIC試點進一步擴容，希望藉助AIC牌照突破自身傳統信貸瓶頸，透過“股權+債權”聯動模式，精準賦能科技企業發展。（上證報）"
+    },
     {
       "id": "4867211",
       "time": "2026-05-08 06:24:15",
