@@ -1,7 +1,29 @@
 {
-  "updated": "2026-05-08 07:02:44",
-  "count": 11053,
+  "updated": "2026-05-08 07:06:15",
+  "count": 11052,
   "items": [
+    {
+      "id": "te:economy:548926",
+      "time": "2026-05-08 07:05:46",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Korea",
+        "Current Account",
+        "Importance 1"
+      ],
+      "text": "South Korea Logs Largest-Ever Current Account Surplus — South Korea’s current account surplus widened to USD 37.33 billion in March 2026 from USD 23.19 billion in the previous month. It marked the highest monthly surplus ever, surpassing the previous record set in February."
+    },
+    {
+      "id": "4867233",
+      "time": "2026-05-08 07:04:22",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "【伊拉克否認有關協助伊朗出售石油的指控】伊拉克石油部發表宣告，否認美國財政部針對該國石油部副部長的指控，指控涉及透過伊拉克協助伊朗出售石油。宣告稱，伊拉克方面願意就此事開展任何公正的調查並予以配合。石油部還表示，出口事務由國有石油營銷公司負責，而非分管分銷事務的石油部副部長。"
+    },
     {
       "id": "4867232",
       "time": "2026-05-08 07:00:18",
@@ -94785,30 +94807,6 @@
         "其他"
       ],
       "text": "【蘇丹中部發生交通事故致14人死亡 】蘇丹警方4月30日發表宣告說，該國中部傑濟拉州當天發生一起交通事故，造成14人死亡、16人受傷。宣告說，當天下午，在傑濟拉州東部希拉利耶市附近路段，一輛小型公共汽車出現機械故障，與一輛迎面駛來的長途大客車相撞。事發後，交警迅速到場處置，將傷者送往醫院。"
-    },
-    {
-      "id": "4854808",
-      "time": "2026-05-01 07:03:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "日產取消在密西西比州工廠生產電動SUV的計劃。"
-    },
-    {
-      "id": "4854807",
-      "time": "2026-05-01 07:03:35",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根大通將富國銀行評級維持在中性。"
-    },
-    {
-      "id": "4854806",
-      "time": "2026-05-01 07:03:09",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根大通將富國銀行目標股價從每股91.00美元下調至每股86.50美元。"
     }
   ]
 }
