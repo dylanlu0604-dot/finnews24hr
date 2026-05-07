@@ -1,7 +1,27 @@
 {
-  "updated": "2026-05-07 13:30:26",
-  "count": 11032,
+  "updated": "2026-05-07 13:33:49",
+  "count": 11027,
   "items": [
+    {
+      "id": "te:markets:548593",
+      "time": "2026-05-07 13:32:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Rupiah Gets Boost From Central Bank Policy Measures — The Indonesian rupiah hovered around IDR 17,360 per dollar on Thursday after briefly touching 17,425 in the previous session. The local currency found some support as the U.S. dollar slipped further on reports that Washington and Tehran are drafting a new proposal to end the Middle East conflict, easing haven demand. Locally, President Prabowo approved seven new Bank Indonesia measures to bolster the currency, including halving the cap on undocumented dollar cash buying to USD 25,000 and requiring resource exporters to place 50% of forex earnings in domestic banks from June 1. However, the rupiah has fallen almost 4% this year, with skepticism over policy effectiveness persisting even as the central bank has held rates steady since October. On the trade front, March’s surplus was not supported by export growth, but driven by falling imports. Shrinking forex reserves also weighed on sentiment, despite Governor Perry Warjiyo saying they remain sufficient to support stabilisation efforts."
+    },
+    {
+      "id": "4865442",
+      "time": "2026-05-07 13:30:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【伊拉克空軍空襲“伊斯蘭國”據點】伊拉克聯合行動指揮部下屬安全媒體中心6日發表宣告說，伊空軍當天在北部基爾庫克省山區實施兩次空襲，打死3名極端組織“伊斯蘭國”武裝分子，並摧毀其藏匿據點。宣告說，根據軍事情報部門提供的精確資訊，在連續三天監視和跟蹤後，伊空軍6日下午成功實施兩次打擊。空襲摧毀了兩處“伊斯蘭國”據點，並擊斃3名武裝分子。宣告強調，伊拉克安全部隊將繼續推進清剿行動，徹底消除其殘餘勢力，確保國家安全穩定。伊拉克政府2017年12月宣佈打擊“伊斯蘭國”的行動取得勝利。此後，“伊斯蘭國”殘餘勢力主要在伊拉克偏遠農村地區流竄，不時發動襲擊。(新華社)"
+    },
     {
       "id": "4865441",
       "time": "2026-05-07 13:29:13",
@@ -93981,64 +94001,6 @@
         "國際"
       ],
       "text": "大眾汽車集團：目前無法可靠評估中東局勢升級未來可能造成的影響，因此相關影響並未納入核心業績預測資料當中。"
-    },
-    {
-      "id": "4852815",
-      "time": "2026-04-30 13:33:44",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "20年期日本國債收益率升至3.405%，創1月20日以來新高。"
-    },
-    {
-      "id": "4852814",
-      "time": "2026-04-30 13:33:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "大眾汽車集團：預計集團營業銷售回報率將處於4.0%至5.5%區間。"
-    },
-    {
-      "id": "4852813",
-      "time": "2026-04-30 13:32:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "大眾汽車仍然預測全年營收增長0％至3％。"
-    },
-    {
-      "id": "4852812",
-      "time": "2026-04-30 13:31:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "大眾汽車第一季度營業利潤24.6億歐元，預估30.2億歐元。"
-    },
-    {
-      "id": "4852811",
-      "time": "2026-04-30 13:31:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "大眾汽車 第一季度營業利潤率3.3％，預估3.42％。"
-    },
-    {
-      "id": "4852810",
-      "time": "2026-04-30 13:31:27",
-      "tags": [
-        "資料"
-      ],
-      "text": "法國第一季度GDP年率初值為1.1%，預期1.3%，前值1.20%。"
-    },
-    {
-      "id": "4852809",
-      "time": "2026-04-30 13:30:47",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本兩年期國債收益率上升1個基點，至1.380%。"
     }
   ]
 }
