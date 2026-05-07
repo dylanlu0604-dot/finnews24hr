@@ -1,7 +1,61 @@
 {
-  "updated": "2026-05-07 23:40:33",
-  "count": 10961,
+  "updated": "2026-05-07 23:44:01",
+  "count": 10965,
   "items": [
+    {
+      "id": "4866769",
+      "time": "2026-05-07 23:43:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "HAWKEYE 360股票指示價34.50 美元 / 35.50 美元，IPO 發行價 26 美元。"
+    },
+    {
+      "id": "te:markets:548864",
+      "time": "2026-05-07 23:43:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Canadian Dollar Steady on Lower Oil and Dovish Outlook — The Canadian dollar weakened toward the 1.635 mark per USD from the seven-week high of 1.358 on April 30th, losing some ground due to the outlook of a dovish Bank of Canada and lower crude oil prices. The US stated that it was close to reaching a peace deal with Iran that would restore oil supply through the Strait of Hormuz. The resulting decline in crude oil prices limited the outlook of foreign exchange inflows to Canada due to lower turnover on oil exports. Meanwhile, the latest round of GDP data flagged a slowdown in the economy following the start of the war, supporting the Bank of Canada's dovish tilt in its guidance, opting to prioritize growth as inflation was not yet entrenched. Preliminary GDP data reflected a stall from the previous month in March despite higher energy output."
+    },
+    {
+      "id": "4866767",
+      "time": "2026-05-07 23:42:39",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "雪佛龍公司：近期中東地緣政治局勢已對公司業務造成影響，且預計將繼續產生影響。"
+    },
+    {
+      "id": "4866766",
+      "time": "2026-05-07 23:42:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "空中客車4月錄得28架飛機總訂單，交付飛機67架。"
+    },
+    {
+      "id": "4866765",
+      "time": "2026-05-07 23:41:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥考慮向瓜地馬拉出口天然氣。"
+    },
+    {
+      "id": "4866764",
+      "time": "2026-05-07 23:41:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴基斯坦總理夏巴茲・謝里夫表示，他於週四與卡達首相兼外交大臣穆罕默德・本・阿卜杜勒拉赫曼・本・賈西姆・阿勒薩尼通電話，雙方就地區局勢、以及推動實現持久和平與穩定的相關努力交換了意見。"
+    },
     {
       "id": "4866763",
       "time": "2026-05-07 23:40:09",
@@ -93846,22 +93900,6 @@
         "國際"
       ],
       "text": "美國國防部長赫格塞思：美國金穹反導系統專案按計劃推進。"
-    },
-    {
-      "id": "4854333",
-      "time": "2026-04-30 23:43:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【扎克伯格個人財富單日縮水超200億美元】由於Meta公司股價大跌9%，其創始人扎克伯格的個人財富單日縮水超200億美元，降至2088億美元，目前居於世界第五。"
-    },
-    {
-      "id": "4854332",
-      "time": "2026-04-30 23:41:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "據 CoinDesk 訊息，馬克・扎克伯格旗下 Meta 將為創作者推出穩定幣收益結算服務。"
     }
   ]
 }
