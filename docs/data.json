@@ -1,7 +1,113 @@
 {
-  "updated": "2026-05-07 16:07:02",
-  "count": 11046,
+  "updated": "2026-05-07 16:10:27",
+  "count": 11047,
   "items": [
+    {
+      "id": "te:markets:548688",
+      "time": "2026-05-07 16:10:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Edges Lower — The FTSE MIB was slightly lower at 49,600 on Thursday, trimming gains after hitting a fresh record at the open, as investors digested mixed corporate updates and earnings reports. Davide Campari-Milano slumped over 11% as Middle East–driven inflation weighed on spirits demand, despite the company saying pricing should support its appeal. Tenaris also fell over 5% after maintaining Q1 profitability but warning that the same conflict could weigh on Q2 sales. FinecoBank eased 0.5% after reporting lower Q1 profits. On the upside, Poste Italiane rose over 2% after reporting higher Q1 profits, while Nexi gained 0.3% on earnings growth. Meanwhile, traders monitored developments in the US–Iran conflict and whether Tehran would accept Washington’s proposal. President Trump said no agreement had been finalized, calling it “perhaps a big assumption” that Iran would agree, while warning that military strikes could resume at higher intensity if Tehran failed to comply."
+    },
+    {
+      "id": "te:economy:548686",
+      "time": "2026-05-07 16:10:08",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Norway",
+        "Interest Rate",
+        "Importance 2"
+      ],
+      "text": "Norges Bank Raises Key Rate to 4.25% — The Norges Bank unexpectedly raised its policy rate by 25 basis points to 4.25% at its May meeting, defying market expectations for no change. The central bank emphasized that inflation remains too high and is likely to stay elevated due to the ongoing Middle East war. Policymakers argued that a higher policy rate is necessary to bring inflation back to target within a reasonable timeframe, warning that prolonged high inflation could lead firms and households to expect persistently elevated prices, making it harder to tame later. Despite significant uncertainty about future economic developments, the bank noted that its monetary policy outlook has not materially changed since March, with projections still pointing to a policy rate between 4.25% and 4.5% by year-end."
+    },
+    {
+      "id": "te:markets:548685",
+      "time": "2026-05-07 16:10:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Oat Drops by 4.40% — Top commodity losers are Oat (-4.40%), Wheat (-1.28%) and Cotton (-0.96%). Gains are led by Rice (0.90%), Rubber (0.83%) and Palm Oil (0.77%)."
+    },
+    {
+      "id": "4865777",
+      "time": "2026-05-07 16:09:54",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "據中東媒體7日援引訊息人士的話報道，伊朗和美國已就緩解美國海上封鎖以換取霍爾木茲海峽逐步重新開放達成共識。不過該訊息尚未得到美伊證實。（新華社）"
+    },
+    {
+      "id": "4865776",
+      "time": "2026-05-07 16:09:49",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "惠而浦股價盤前下跌16.4%，此前該公司一季度銷售額不及預期，並宣佈暫停派發股息。"
+    },
+    {
+      "id": "4865775",
+      "time": "2026-05-07 16:09:06",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "Beyond Meat股價盤前下跌11.1%，此前該公司公佈的第二季度銷售額預測低於市場預期。"
+    },
+    {
+      "id": "4865774",
+      "time": "2026-05-07 16:09:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【港股收盤：恒生指數漲1.574%，恒生科技指數漲3.057%】創科實業漲10.306%，華虹半導體漲8.686%，快手-W漲7.333%，周大福漲7.288%，金山軟體漲6.153%，金蝶國際漲5.269%，同程旅行漲5.121%。"
+    },
+    {
+      "id": "4865773",
+      "time": "2026-05-07 16:08:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【荷蘭一女子疑似感染漢坦病毒送醫】荷蘭衛生部5月7日表示，一名荷蘭女子因出現漢坦病毒感染的疑似症狀，已被送往阿姆斯特丹的一家醫院接受治療。據稱，該女子是荷蘭皇家航空（KLM）的一名空乘人員，曾與一名在南非約翰內斯堡因漢坦病毒感染去世的女子有過接觸。（央視新聞）"
+    },
+    {
+      "id": "4865772",
+      "time": "2026-05-07 16:07:35",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "DoorDash股價盤前上漲11.3%，此前該公司公佈季度訂單價值預測高於市場預期。"
+    },
+    {
+      "id": "4865771",
+      "time": "2026-05-07 16:07:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國家外匯管理局公佈2026年4月末外匯儲備規模資料】國家外匯管理局統計資料顯示，截至2026年4月末，我國外匯儲備規模為34105億美元，較3月末上升684億美元，升幅為2.05%。2026年4月，受宏觀經濟資料、主要經濟體貨幣政策及預期等因素影響，美元指數下跌，全球主要金融資產價格表現有所分化。匯率折算和資產價格變化等因素綜合作用，當月外匯儲備規模上升。我國不斷鞏固拓展經濟穩中向好態勢，發展韌性和活力進一步彰顯，有利於外匯儲備規模保持基本穩定。"
+    },
+    {
+      "id": "4865769",
+      "time": "2026-05-07 16:06:52",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "【今日特朗普要聞】\n1、當地時間5月6日，特朗普接受採訪時，對美國同伊朗達成協議的前景表示樂觀，稱可能達成的協議包括伊朗將其高丰度濃縮鈾運送至美國。但他同時威脅稱：“如果他們不同意，那我們就實施轟炸。”\n2、美國總統特朗普5月6日表示，美國在與伊朗的談判中“完全掌控局勢”，美國對伊朗的封鎖如同“鋼鐵之牆”，伊朗已無計可施，即使伊朗現在不同意達成協議，很快就會同意。特朗普還稱，美國絕不會讓伊朗擁有核武器，並會獲取伊朗的濃縮鈾。\n3、特朗普將於美國東部時間週四上午11點會見巴西總統盧拉。\n4、德國默茨談特朗普：我們存在分歧，但我可以接受。今後我仍會直言不諱。\n5、美國總統特朗普： 特德·特納剛剛去世，他創辦了CNN，後來將其出售，這筆交易讓他感到非常痛心，因為新老闆把CNN這個他的“寶貝”毀了。它變得政治正確，完全背離了他的理念。\n6、白宮和美國財政部官員已經就擴大“特朗普賬戶”（正式名稱為530A賬戶）的可投資範圍展開內部討論。目前的討論包括允許全球最富有的人士捐贈其公司股票。\n7、美國政府邊境事務主管湯姆·霍曼：特朗普正就移民合法身份事宜與內閣成員進行磋商。\n8、特朗普解僱民主黨籍礦山安全專員及其工作人員。\n9、特朗普：股市今日創歷史新高。就業和401-K計劃正在蓬勃發展。"
+    },
     {
       "id": "4865768",
       "time": "2026-05-07 16:05:42",
@@ -94231,88 +94337,6 @@
         "公司"
       ],
       "text": "【易德龍：5%以上股東部分股份質押延期至2027年4月24日】易德龍公告稱，5%以上股東王明持有公司無限售流通股19,057,160股，佔總股本11.88%。2026年4月24日，其將原質押給南京證券的3,770,000股辦理延期購回手續，原到期日為2026年4月24日，新到期日為2027年4月24日。延期後，王明累計質押11,740,000股，佔其所持股份比例61.60%，佔公司總股本比例7.32%，質押融資用於個人資金需求。"
-    },
-    {
-      "id": "4853173",
-      "time": "2026-04-30 16:10:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "黎巴嫩真主黨：於當地時間4月30日星期四上午8:45，使用一架俯衝轟炸機瞄準了位於雅林鎮南部的一門自走式155毫米火炮，併成功命中。"
-    },
-    {
-      "id": "4853172",
-      "time": "2026-04-30 16:09:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "【快手推出AI桌面智慧體 零程式碼生成本地應用】4月30日，快手正式推出AI桌面智慧體產品KroWork。KroWork面向非技術使用者，透過自然語言即可驅動AI自主完成檔案處理、瀏覽器自動化、應用生成和本地部署，意味著使用者可使用KroWork將重複性工作流生成為本地桌面應用，同時資料不上傳雲端。KroWork團隊表示，希望透過AI降低軟體開發門檻，讓不會程式設計的人也能把日常需求變成自己的桌面工具。"
-    },
-    {
-      "id": "4853171",
-      "time": "2026-04-30 16:09:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防軍發言人： 不久前，一架以色列國防軍遙控飛行器在黎巴嫩南部被擊落，此前真主黨恐怖組織發射了一枚地對空導彈。 無資訊洩露擔憂，此事件正在調查中。"
-    },
-    {
-      "id": "4853170",
-      "time": "2026-04-30 16:09:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【港股收盤：恒生指數跌1.284%，恒生科技指數跌0.788%】小米集團-W跌3.716%，騰訊音樂-SW跌4.101%，萬洲國際跌4.418%，中國宏橋跌4.667%，康師傅控股跌4.893%，比亞迪股份跌5.356%，蔚來-SW跌6.286%。"
-    },
-    {
-      "id": "4853169",
-      "time": "2026-04-30 16:08:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國人民銀行：3月末境外機構和個人持有境內股票37149.80億元，2月末為41654.96億元。"
-    },
-    {
-      "id": "4853168",
-      "time": "2026-04-30 16:08:34",
-      "tags": [
-        "市場"
-      ],
-      "text": "彭博美元現貨指數下跌0.2%；歐元、英鎊觸及日內高點。"
-    },
-    {
-      "id": "4853167",
-      "time": "2026-04-30 16:08:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "南非3月預算餘額為負456.1億蘭特，2025年3月預算餘額為負112.3億蘭特。"
-    },
-    {
-      "id": "4853166",
-      "time": "2026-04-30 16:08:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "【渤海銀行：一季度末資產規模突破兩萬億元】渤海銀行2026年一季度資訊披露報告顯示，截至2026年3月末，渤海銀行資產總額突破2萬億，較上年末增長5.71%至20447.72億元人民幣。2026年1-3月，渤海銀行實現淨利潤34.13億元人民幣。"
-    },
-    {
-      "id": "4853165",
-      "time": "2026-04-30 16:07:11",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【日本財相稱干預時機臨近 日元短線上漲】日本財務大臣片山皋月週四在被問及日元再度下跌時表示，採取“果斷”市場行動的時機正在臨近。當被問及具體行動可能是什麼，以及日本是否可能與美國協調行動以遏制日元跌勢時，她拒絕發表評論。受該言論影響，日元短線大幅上漲，美元兌日元USD/JPY短線下挫80點，跌破160關口。美國財經網站investinglive分析師Giuseppe Dellamotta表示：“更強硬的口頭干預會推高日元，美日160關口無疑是日本官員的底線，但過往多次表明，在宏觀基本面偏弱的背景下，這類干預效果有限。”"
-    },
-    {
-      "id": "4853164",
-      "time": "2026-04-30 16:07:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：SK海力士考慮最早於7月在美國上市。"
     }
   ]
 }
