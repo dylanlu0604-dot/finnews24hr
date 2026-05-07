@@ -1,7 +1,129 @@
 {
-  "updated": "2026-05-08 00:58:52",
-  "count": 11032,
+  "updated": "2026-05-08 01:02:23",
+  "count": 11043,
   "items": [
+    {
+      "id": "4866896",
+      "time": "2026-05-08 01:01:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "派拉蒙影業與華納音樂集團達成院線電影合作協議。"
+    },
+    {
+      "id": "4866895",
+      "time": "2026-05-08 01:01:33",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行施納貝爾：供應鏈中斷跡象再度顯現。"
+    },
+    {
+      "id": "4866894",
+      "time": "2026-05-08 01:01:22",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲：經季節性調整後，截至5月第6周，美國未清償商業票據餘額增加73億美元。"
+    },
+    {
+      "id": "te:markets:548882",
+      "time": "2026-05-08 01:01:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Ease from Records — US stocks swung lower on Thursday, trimming the sharp gains that culminated in records last session as markets awaited for clarity on energy supply from the Middle East. The Dow lost 0.5% after briefly crossing the 50,000 mark, while the S&P 500 and Nasdaq eased off their records. Iran continued to assess the memorandum sent by the US to end their war and restore tanker flows through the Strait of Hormuz. The possibility of a restart in energy flows from the area drove prices for major energy commodities to tumble in the week, aiding the bond market and pushing back against expectations of rate hikes by the Fed. Chip producer pulled back as markets took profits from their surge last session, with Micron, AMD, and Lam Research dropping around 4%. In turn, McDonald's was higher after beating first-quarter estimates across all parameters. Also, Citi gained 1% after announcing a $30 billion share buyback."
+    },
+    {
+      "id": "4866893",
+      "time": "2026-05-08 01:01:03",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "施納貝爾：喪失央行獨立性將加劇通脹、拖累經濟增長。"
+    },
+    {
+      "id": "4866892",
+      "time": "2026-05-08 01:00:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "施納貝爾：居民通脹預期正在快速調整。"
+    },
+    {
+      "id": "4866891",
+      "time": "2026-05-08 01:00:46",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "施納貝爾：歐洲央行將採取一切必要舉措，把通脹拉回 2% 目標水平。"
+    },
+    {
+      "id": "4866890",
+      "time": "2026-05-08 01:00:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "施納貝爾：若能源衝擊擴散蔓延，貨幣政策將需收緊。"
+    },
+    {
+      "id": "4866889",
+      "time": "2026-05-08 01:00:24",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "施納貝爾：央行抗擊通脹，獨立性是關鍵。"
+    },
+    {
+      "id": "4866888",
+      "time": "2026-05-08 01:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】國際銅夜盤收跌0.32%，滬銅收跌0.28%，滬鋁收漲0.12%，滬鋅收漲0.54%，滬鉛收跌0.36%，滬鎳收跌0.94%，滬錫收漲0.76%。氧化鋁夜盤收跌0.03%，鋁合金收跌0.04%。不鏽鋼夜盤收跌0.97%。"
+    },
+    {
+      "id": "4866887",
+      "time": "2026-05-08 01:00:01",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【德國財長將稅收專家給出的財政缺口主要歸咎於美伊戰爭】德國財政部長Lars Klingbeil表示，就在幾周前，政府仍預期經濟將溫和復甦。“（美國總統）特朗普不負責任的戰爭以及由此引發的全球能源價格衝擊，暫時減緩了經濟增長的正向勢頭。戰爭正在讓我們耗費資金，”如果危機進一步加深，政府已準備好隨時採取行動。"
+    },
+    {
+      "id": "4866886",
+      "time": "2026-05-08 00:59:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴黎檢方稱應對馬斯克及其旗下 X 平臺提起指控。"
+    },
+    {
+      "id": "4866885",
+      "time": "2026-05-08 00:59:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "倍耐力：我們已調整貿易流向，不再經過霍爾木茲海峽，改為經紅海，再從阿聯酋和阿曼走陸路運輸，成本影響處於可控範圍。"
+    },
+    {
+      "id": "4866884",
+      "time": "2026-05-08 00:58:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國最大的區域輸電組織PJM：可用以滿足用電需求的發電容量約為1.802億千瓦，已簽約需求響應資源容量約為78萬千瓦。"
+    },
     {
       "id": "4866883",
       "time": "2026-05-08 00:58:21",
@@ -94473,30 +94595,6 @@
         "其他"
       ],
       "text": "Anthropic 宣佈，Claude 安全防護功能現已開啟公開測試版。"
-    },
-    {
-      "id": "4854399",
-      "time": "2026-05-01 01:02:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI：自6月1日起，需採用許可型模型方能實現高階賬戶安全防護。"
-    },
-    {
-      "id": "4854398",
-      "time": "2026-05-01 01:01:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿克曼表示，散戶投資者超額認購其 IPO，是該股週三上市交易後股價走低的誘因之一，預計這兩隻證券都將大幅反彈。"
-    },
-    {
-      "id": "4854397",
-      "time": "2026-05-01 01:00:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "OPENAI：推出高階賬戶安全防護功能。"
     }
   ]
 }
