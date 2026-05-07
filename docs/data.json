@@ -1,7 +1,44 @@
 {
-  "updated": "2026-05-08 05:00:53",
-  "count": 11081,
+  "updated": "2026-05-08 05:09:33",
+  "count": 11082,
   "items": [
+    {
+      "id": "4867167",
+      "time": "2026-05-08 05:08:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗最高聯合軍事司令部：美軍襲擊駛入霍爾木茲海峽的伊朗油輪及另一艘船隻，已違反停火協議。"
+    },
+    {
+      "id": "4867166",
+      "time": "2026-05-08 05:08:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗最高聯合軍事司令部：伊朗將對任何襲擊果斷、毫不遲疑地予以強力反擊。"
+    },
+    {
+      "id": "4867165",
+      "time": "2026-05-08 05:06:10",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【訊息人士稱3艘美軍驅逐艦在霍爾木茲海峽附近遭襲】當地時間8日，伊朗方面訊息人士稱，3艘美軍驅逐艦在霍爾木茲海峽附近遭到伊朗海軍打擊。據瞭解，上述驅逐艦正向阿曼海方向撤離。目前伊朗及美國官方均未對此作出回應。（央視新聞）"
+    },
+    {
+      "id": "te:economy:548914",
+      "time": "2026-05-08 05:06:05",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Consumer Credit",
+        "Importance 0"
+      ],
+      "text": "US Consumer Credit Growth Beats Forecasts — Total US consumer credit increased by $24.9 billion in March 2026, following a downwardly revised $8.85 billion rise in the previous month and well above forecasts of a $12.5 billion increase. Revolving credit, which includes credit card debt, rose to $1.34 trillion from $1.33 trillion in February. Meanwhile, nonrevolving credit, including auto and student loans, increased to $3.80 trillion from $3.79 trillion in the prior month."
+    },
     {
       "id": "4867163",
       "time": "2026-05-08 04:59:35",
@@ -94965,32 +95002,6 @@
         "公司"
       ],
       "text": "蘋果公司執行長表示，他將全力配合新任執行長的任何工作需求。"
-    },
-    {
-      "id": "4854701",
-      "time": "2026-05-01 05:06:14",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "加拿大航空執行長表示，航空煤油價格的上漲速度正在考驗整個商用航空業的需求韌性，同時也凸顯了保持業務剋制自律的必要性。"
-    },
-    {
-      "id": "4854700",
-      "time": "2026-05-01 05:06:00",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "加拿大航空執行長表示，儘管受燃料成本推動票價上漲，但我們的全網航線在整個預訂週期內仍持續保持強勁需求。"
-    },
-    {
-      "id": "4854699",
-      "time": "2026-05-01 05:04:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "惠譽：2026年一季度，有24家新的私人信用借款人發生違約，創歷史新高。"
     }
   ]
 }
