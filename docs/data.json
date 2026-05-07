@@ -1,7 +1,57 @@
 {
-  "updated": "2026-05-07 22:48:23",
-  "count": 10947,
+  "updated": "2026-05-07 22:51:53",
+  "count": 10942,
   "items": [
+    {
+      "id": "4866677",
+      "time": "2026-05-07 22:50:51",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4770美元/盎司，日內漲1.62%。"
+    },
+    {
+      "id": "4866676",
+      "time": "2026-05-07 22:50:51",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4770美元/盎司，日內漲1.62%。"
+    },
+    {
+      "id": "4866675",
+      "time": "2026-05-07 22:50:02",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "國內滬銀期貨主力合約漲4.50%，報20094元/千克。"
+    },
+    {
+      "id": "te:markets:548837",
+      "time": "2026-05-07 22:49:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "US Natgas Prices Rise after EIA Data — US natural gas futures climbed more than 2% to $2.79 per MMBtu after the Energy Information Administration reported a smaller than expected storage build. Utilities injected 63 billion cubic feet of gas into storage in the week ended May 1, below forecasts of 74 bcf and lower than both last year’s 104 bcf increase and the five year average of 77 bcf. Production in the Lower 48 states is also trending lower, with output expected to fall to a one week low as weak spot prices have prompted producers including EQT Corporation to scale back supply while waiting for stronger prices. Weather forecasts suggest mostly seasonal conditions through May 22, with cooling demand beginning to exceed heating demand. Meanwhile, gas flows to major US LNG export plants eased from April’s record levels due to routine spring maintenance."
+    },
+    {
+      "id": "te:markets:548836",
+      "time": "2026-05-07 22:48:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Mexico",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Mexican Peso Strengthens Ahead of Banxico Decision — The Mexican peso strengthened to 17.2 per USD in the first week of May, reaching its strongest level since late February, as softer oil prices and easing inflation expectations weighed on the US dollar and supported market sentiment. Investors also awaited the Bank of Mexico’s monetary policy decision, with markets widely expecting another interest rate cut. Mexico’s economy contracted by 0.8% in the first quarter of 2026, a sharper decline than forecasts for a 0.5% drop, signaling broad-based weakness across the economy. Manufacturing and services both posted steep contractions, while extractive industries also declined despite higher oil and silver prices. The weak economic data reinforced expectations that Banxico will continue its monetary easing cycle this year, after the central bank unexpectedly cut interest rates in March despite persistent inflationary pressures."
+    },
     {
       "id": "4866674",
       "time": "2026-05-07 22:48:02",
@@ -93620,91 +93670,6 @@
         "市場"
       ],
       "text": "紐元兌美元NZD/USD日內漲幅擴大至1.00%，現報0.5887。"
-    },
-    {
-      "id": "4854252",
-      "time": "2026-04-30 22:51:29",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "多位美國參議員就盧特尼克貸款事宜致信Tether公司執行長。參議員們還就向家族信託貸款一事致信盧特尼克。"
-    },
-    {
-      "id": "4854251",
-      "time": "2026-04-30 22:51:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "Atlas Merchant Capital創始合夥人兼執行長Bob Diamond：利率短期內不太可能下調，而通脹和債務風險正在持續攀升。"
-    },
-    {
-      "id": "4854250",
-      "time": "2026-04-30 22:51:11",
-      "tags": [
-        "市場"
-      ],
-      "text": "BLUE OWL CAPITAL股價上漲至盤中最高點7.2%。"
-    },
-    {
-      "id": "4854249",
-      "time": "2026-04-30 22:50:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國首相斯塔默：將加強猶太社群可見警力部署。"
-    },
-    {
-      "id": "4854248",
-      "time": "2026-04-30 22:50:03",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【迅捷興：正在籌劃以簡易程式向特定物件發行股票事項】迅捷興公告，公司股票交易連續三個交易日內收盤價格漲幅偏離值累計達到30%，屬於股票交易異常波動情形。經公司自查，並向公司控股股東、實際控制人馬卓先生函證核實：2026年4月17日，2025年年度股東會審議透過了《關於提請股東會授權董事會以簡易程式向特定物件發行股票的議案》，授權期限為自公司2025年年度股東會審議透過之日起至公司2026年年度股東會召開之日止。目前公司正在籌劃以簡易程式向特定物件發行股票事項，該事項尚處於前期籌劃和內部溝通階段，相關方案尚未最終確定，該事項尚存在不確定性。除上述事項外，公司、控股股東和實際控制人不存在關於公司的應披露而未披露的重大事項或處於籌劃階段的重大事項。"
-    },
-    {
-      "id": "4854247",
-      "time": "2026-04-30 22:49:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "禮來在電話會議中表示，截至目前，已有超過2萬名患者接受了替爾泊肽的治療。"
-    },
-    {
-      "id": "4854246",
-      "time": "2026-04-30 22:49:11",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "安徽華恒生物科技股份有限公司向港交所提交上市申請書，獨家保薦人為華泰國際。"
-    },
-    {
-      "id": "4854245",
-      "time": "2026-04-30 22:49:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "Blue Owl：對SpaceX的投資已獲得10倍回報，已出售了約一半的持倉。"
-    },
-    {
-      "id": "4854244",
-      "time": "2026-04-30 22:48:58",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "潘興廣場美國公司擬透過首次公開發行募資 20.26 億美元。"
-    },
-    {
-      "id": "4854243",
-      "time": "2026-04-30 22:48:49",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "潘興廣場美國公司將透過私募配售募資 29.74 億美元。"
     }
   ]
 }
