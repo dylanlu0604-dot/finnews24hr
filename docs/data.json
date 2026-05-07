@@ -1,7 +1,56 @@
 {
-  "updated": "2026-05-07 23:09:05",
-  "count": 10944,
+  "updated": "2026-05-07 23:12:36",
+  "count": 10941,
   "items": [
+    {
+      "id": "te:economy:548849",
+      "time": "2026-05-07 23:12:20",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Inflation Expectations",
+        "Importance 1"
+      ],
+      "text": "US Consumer Inflation Expectations Rise for 2nd Month — Median one-year-ahead inflation expectations in the US increased for a second month to 3.6% in April 2026, the highest in a year, compared to 3.4% in March. Inflation uncertainty also increased at the one-year-ahead horizon. Gas price growth expectations retreated appreciably to 5.1% from a 9.4% spike in March. A decrease was also seen in price change expectations for food (-0.8 percentage point to 5.2%), medical care (-0.1 percentage point to 9.6%), college education (-0.2 percentage point to 8.8%), rent (-1.1 percentage points to 6%) and home price (-0.3 percentage point to 3%). Meanwhile, inflation expectations remained steady at 3.1% for the three-year horizon and at 3% for the five-year one."
+    },
+    {
+      "id": "4866703",
+      "time": "2026-05-07 23:12:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "模里西斯4月份總儲備為98.11億美元。"
+    },
+    {
+      "id": "4866702",
+      "time": "2026-05-07 23:11:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏軍稱對俄軍多處重要設施實施打擊】烏克蘭武裝部隊總參謀部7日在社交媒體上發文稱，7日凌晨以來，烏軍對俄軍多處重要設施實施打擊，其中包括一艘軍艦。烏武裝部隊總參謀部稱，烏軍對俄羅斯達吉斯坦共和國卡斯皮斯克軍事基地一艘多用途小型導彈艦發動襲擊，該艦具備發射“口徑”巡航導彈的能力。烏軍還打擊了其他多個目標，包括俄軍在盧甘斯克地區一處指揮所、在頓涅茨克地區一處無人機指揮所、在盧甘斯克地區的彈藥庫和燃料庫，以及在扎波羅熱和頓涅茨克地區的兵力集結地。此外，烏軍還襲擊了俄羅斯彼爾姆邊疆區一家煉油廠，此次襲擊距離超過1500公里。"
+    },
+    {
+      "id": "4866701",
+      "time": "2026-05-07 23:10:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "波音股價上漲2.7%"
+    },
+    {
+      "id": "te:markets:548848",
+      "time": "2026-05-07 23:10:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Boeing Stock Price Hits 11-week High — Boeing shares increased to 236.50 USD, the highest since February 2026. Over the past 4 weeks, Boeing gained 7.58%, and in the last 12 months, it increased 22.23%."
+    },
     {
       "id": "4866700",
       "time": "2026-05-07 23:08:12",
@@ -93634,75 +93683,6 @@
         "市場"
       ],
       "text": "潘興廣場美股紐交所上市次日，股價大漲 30.4%。"
-    },
-    {
-      "id": "4854289",
-      "time": "2026-04-30 23:12:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源資訊署（EIA）：美國 2 月汽油需求同比下降 1.1%，日均減少 9.5 萬桶，降至日均 858.6 萬桶；1 月汽油需求同比下滑 2.7%。"
-    },
-    {
-      "id": "4854288",
-      "time": "2026-04-30 23:12:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源資訊署（EIA）：美國 2 月餾分油需求同比增長 5.4%，日均增加 21.6 萬桶，至日均 421.3 萬桶；1 月餾分油需求則同比下降 1.0%。"
-    },
-    {
-      "id": "4854287",
-      "time": "2026-04-30 23:12:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源資訊署《石油供應月報》：美國 2 月石油總需求同比上升 4.5%，日均增加 91.3 萬桶，至日均 2113.8 萬桶；而 1 月需求同比下降 0.4%。"
-    },
-    {
-      "id": "4854286",
-      "time": "2026-04-30 23:12:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "【烏總統簽署延長國家戰時狀態法令】烏克蘭最高拉達（議會）30日在官網釋出訊息稱，烏克蘭總統澤連斯基簽署了延長國家戰時狀態的法令。澤連斯基27日向最高拉達遞交了法令草案，提議將國家戰時狀態和軍事動員從5月4日延長至8月2日，共90天。烏最高拉達28日投票透過了關於延長國家戰時狀態和軍事動員的法令草案。這是自2022年2月俄烏衝突升級以來，烏最高拉達第19次批准延長相關法令。 (新華社)"
-    },
-    {
-      "id": "4854285",
-      "time": "2026-04-30 23:11:52",
-      "tags": [
-        "資料",
-        "市場",
-        "國際"
-      ],
-      "text": "【美國一季度經濟增長低於預期】美國商務部4月30日公佈的初步資料顯示，今年第一季度美國國內生產總值（GDP）環比按年率計算增長2%，低於市場預期。資料顯示，當季佔美國經濟總量約70%的個人消費支出增長1.6%，低於前一季度的1.9%。個人消費支出、國內私人投資以及政府消費和支出對一季度經濟增長的貢獻分別為1.08個百分點、1.48個百分點和0.73個百分點，商品與服務淨出口的貢獻為負1.3個百分點。資料還顯示，受中東戰事帶來的能源價格大幅上漲影響，美國一季度個人消費支出價格指數上漲4.5%，顯著高於前一季度的2.9%；同期扣除食品和能源後的核心消費支出價格指數上漲4.3%，高於前一季度的2.7%。（新華社）"
-    },
-    {
-      "id": "4854284",
-      "time": "2026-04-30 23:11:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國聯邦通訊委員會投票決定更新衛星頻譜共享相關規則。"
-    },
-    {
-      "id": "4854283",
-      "time": "2026-04-30 23:10:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "龍舌蘭酒生產商 Becle 公司：公司全年將持續進行股票再平衡操作，出貨量或將維持一定波動；北美區負責人表示，渠道分銷轉型程序正按預期推進。"
-    },
-    {
-      "id": "4854282",
-      "time": "2026-04-30 23:10:13",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "以色列網路安全企業Check Point Software 公司CEO納達夫·扎夫里爾：產品收入受到市場策略變化的影響，我們對這些變革與市場領先技術相結合將驅動可持續長期價值充滿信心。"
     }
   ]
 }
