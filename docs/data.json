@@ -1,7 +1,73 @@
 {
-  "updated": "2026-05-07 23:44:01",
-  "count": 10965,
+  "updated": "2026-05-07 23:47:28",
+  "count": 10968,
   "items": [
+    {
+      "id": "te:markets:548866",
+      "time": "2026-05-07 23:47:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Falls on Weak Corporate Earnings — The FTSE MIB fell 0.8% to close at 49,291 on Thursday, trimming gains after reaching a fresh record high at the open, as investors digested mixed corporate earnings. Davide Campari-Milano slumped after Q1 organic revenue missed market expectations, while Tenaris plunged 14.4% despite maintaining profitability, warning that the Iran conflict could weigh on Q2 sales. FinecoBank eased 1.8% after reporting lower first-quarter profit. On the upside, Poste Italiane gained 2.5% after posting higher Q1 profit, while Nexi rose 1.2% on earnings growth. Meanwhile, investors continued to monitor developments in the US–Iran conflict and whether Tehran would accept Washington’s proposal. Eni fell 2.5% as oil prices declined."
+    },
+    {
+      "id": "te:markets:548865",
+      "time": "2026-05-07 23:47:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Arabica Coffee Futures at 2024-Lows — Arabica coffee futures eased toward $2.7 per pound, hitting the lowest since early November 2024, pressured by expectations of increased supply in the near-term. Traders closely monitor the incoming 2026/27 harvest in top producer Brazil. Weather conditions remain favorable in Brazilian producing areas, with predominantly dry weather and high temperatures, which is favoring the progress of the harvest and reducing risks to production at this time. Even though it is still in its initial phase, the market is already anticipating a larger harvest, keeping prices under pressure. In late April, the Coffee Trading Academy forecast Brazil’s 2026/27 output to rise 12% year-over-year to 71.4 million bags. Meanwhile, the demand outlook is clouded by potential price increases tied to the ongoing US–Israeli conflict with Iran."
+    },
+    {
+      "id": "4866775",
+      "time": "2026-05-07 23:47:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部宣佈：停火期間，特別軍事行動區域內所有俄軍部隊將全面停止作戰行動。"
+    },
+    {
+      "id": "4866773",
+      "time": "2026-05-07 23:46:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "一位高管表示，藍貓頭鷹科技金融公司債務基金透過部分出售其所持太空探索技術公司（SpaceX）股份獲得了1.33億美元收益。"
+    },
+    {
+      "id": "4866772",
+      "time": "2026-05-07 23:45:16",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "花旗集團美國消費信用卡部門負責人帕姆·哈布納：人工智慧工具助力信用卡業務數字銷售額增長25%。"
+    },
+    {
+      "id": "4866771",
+      "time": "2026-05-07 23:45:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "埃尼石油：董事會任命克勞迪奧·德卡爾齊連任執行長，並委任各董事會專門委員會。"
+    },
+    {
+      "id": "4866770",
+      "time": "2026-05-07 23:44:47",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "雪佛龍公司：預計將繼續把其委內瑞拉資產產出的原油輸送至美國及國際市場。"
+    },
     {
       "id": "4866769",
       "time": "2026-05-07 23:43:39",
@@ -21,6 +87,14 @@
         "Importance 1"
       ],
       "text": "Canadian Dollar Steady on Lower Oil and Dovish Outlook — The Canadian dollar weakened toward the 1.635 mark per USD from the seven-week high of 1.358 on April 30th, losing some ground due to the outlook of a dovish Bank of Canada and lower crude oil prices. The US stated that it was close to reaching a peace deal with Iran that would restore oil supply through the Strait of Hormuz. The resulting decline in crude oil prices limited the outlook of foreign exchange inflows to Canada due to lower turnover on oil exports. Meanwhile, the latest round of GDP data flagged a slowdown in the economy following the start of the war, supporting the Bank of Canada's dovish tilt in its guidance, opting to prioritize growth as inflation was not yet entrenched. Preliminary GDP data reflected a stall from the previous month in March despite higher energy output."
+    },
+    {
+      "id": "4866768",
+      "time": "2026-05-07 23:43:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "雪佛智（Cheniere）執行長傑克·富斯科表示，科珀斯克里斯蒂液化天然氣專案三期擴建專案投產後產量超出預期，運營可靠性也更高。"
     },
     {
       "id": "4866767",
@@ -93858,48 +93932,6 @@
         "國際"
       ],
       "text": "【特朗普據悉將簽署行政命令 擴大退休儲蓄計劃的覆蓋範圍】據一名白宮官員稱，美國總統唐納德·特朗普將簽署一項旨在擴大退休儲蓄計劃覆蓋面的行政命令，面向那些僱主未提供此項福利的勞動者。此舉意在將政府的資訊傳遞重點重新聚焦於經濟議題。據Semafor報道，這項行政命令指示財政部建立一個名為TrumpIRA.gov的新網站，讓勞動者能夠查詢私營部門的退休儲蓄計劃。Semafor週四稍早率先報道了特朗普將簽署該命令的計劃。該媒體稱，政府希望將這項舉措與美國前總統喬·拜登任內透過的一項法律相配合。該法律規定政府將提供匹配繳款，旨在幫助勞動者增加退休儲蓄。根據該法律中的“儲蓄者配比”專案，收入低於3.5萬美元的個人每年最多可獲得1000美元的政府配比繳費。"
-    },
-    {
-      "id": "4854338",
-      "time": "2026-04-30 23:47:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "墨西哥國家石油公司（PEMEX）稱，其一季度日均原油加工量為165 萬桶。"
-    },
-    {
-      "id": "4854337",
-      "time": "2026-04-30 23:46:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國防部長赫格塞思： 上一屆政府的國防部過於關注身份政治、種族與性別議題。"
-    },
-    {
-      "id": "4854336",
-      "time": "2026-04-30 23:46:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿聯酋國家通訊社訊息：阿聯酋總檢察長將13 名涉案人員及 6 家企業組成的犯罪網路移交國家安全法院審理，涉案緣由為企圖向蘇丹港當局轉運軍用物資。"
-    },
-    {
-      "id": "4854335",
-      "time": "2026-04-30 23:44:55",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【美國個人消費支出價格指數漲幅升至近3年來高點】美國商務部4月30日公佈的資料顯示，美國3月個人消費支出價格指數同比漲幅達3.5%，顯著高於前月的2.8%，為2023年6月以來的最高水平。資料還顯示，剔除波動較大的食品和能源價格後，3月核心個人消費支出價格指數同比上漲3.2%，高於前月的3%。個人消費支出價格指數是美國聯邦儲備委員會密切關注的一項通脹指標，是其制定貨幣政策的重點參考資料，也是實現美聯儲通脹目標的主要參照指標之一。(新華社)"
-    },
-    {
-      "id": "4854334",
-      "time": "2026-04-30 23:44:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國防部長赫格塞思：美國金穹反導系統專案按計劃推進。"
     }
   ]
 }
