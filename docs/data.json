@@ -1,7 +1,43 @@
 {
-  "updated": "2026-05-08 04:16:49",
-  "count": 11079,
+  "updated": "2026-05-08 04:20:10",
+  "count": 11076,
   "items": [
+    {
+      "id": "te:markets:548902",
+      "time": "2026-05-08 04:19:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Republic Services earnings above expectations at 1.70 USD — Republic Services (RSG) released earnings per share at 1.70 USD, compared to market expectations of 1.67 USD."
+    },
+    {
+      "id": "te:markets:548900",
+      "time": "2026-05-08 04:16:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Coinbase Global earnings below expectations at -1.49 USD — Coinbase Global (COIN) released earnings per share at -1.49 USD, compared to market expectations of 0.35 USD."
+    },
+    {
+      "id": "te:markets:548899",
+      "time": "2026-05-08 04:16:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "McKesson earnings above expectations at 11.69 USD — McKesson (MCK) released earnings per share at 11.69 USD, compared to market expectations of 11.57 USD."
+    },
     {
       "id": "te:markets:548896",
       "time": "2026-05-08 04:12:49",
@@ -94894,55 +94930,6 @@
         "公司"
       ],
       "text": "亞馬遜（AWS）：Amazon Q開發者IDE外掛及付費訂閱將於2027年4月30日終止支援。"
-    },
-    {
-      "id": "4854643",
-      "time": "2026-05-01 04:20:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "亞馬遜（AWS）：推出KIRO，這是一款智慧體驅動型開發環境（整合開發環境IDE、命令列工具CLI），專為規範驅動開發從零打造。"
-    },
-    {
-      "id": "4854640",
-      "time": "2026-05-01 04:19:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：防空系統正在攔截德黑蘭上空的小型無人機與偵察無人機。"
-    },
-    {
-      "id": "4854638",
-      "time": "2026-05-01 04:18:21",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "特朗普在接受採訪時表示，美國廣播公司（ABC）保留Kimmel的節目播出，將會將自身置於極大的風險之中。"
-    },
-    {
-      "id": "4854637",
-      "time": "2026-05-01 04:17:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗邁赫爾通訊社報道了防空行動，但未透露行動原因。"
-    },
-    {
-      "id": "4854635",
-      "time": "2026-05-01 04:17:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "波士頓啤酒公司預計，本財年關稅成本將達2000萬至3000萬美元。"
-    },
-    {
-      "id": "4854634",
-      "time": "2026-05-01 04:17:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "英特爾股價在4月份超過翻倍，創五十五年前登陸納斯達克以來最佳單月表現。"
     }
   ]
 }
