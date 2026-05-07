@@ -1,7 +1,70 @@
 {
-  "updated": "2026-05-08 06:48:52",
-  "count": 11050,
+  "updated": "2026-05-08 06:52:23",
+  "count": 11055,
   "items": [
+    {
+      "id": "te:markets:548925",
+      "time": "2026-05-08 06:52:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "New Zealand Stocks Slip but Head for 2nd Weekly Gain — The NZX 50 dropped 62 points, or 0.5%, to 13,208 in Friday morning trading, halting gains from the previous two sessions and tracking a downbeat session on Wall Street overnight as traders awaited Iran's. The broader index retreated from its highest level since April 9, reached a day earlier, with almost all sectors trading in the red, led by the energy sector. Caution was also built as investors anticipated the release of trade data from China, scheduled for this weekend, as well as Chinese inflation data and US jobs data due next week to guide the economic outlook for both countries. Domestically, traders also await New Zealand's food inflation and manufacturing PMI data due next week. Among the biggest laggards were A2 Milk (-1.8%), Infratil (-1.7%), Briscoe Group (-0.9%), Fisher & Paykel (-0.4%), and Mainfreight (-0.4%). For the week, the index rose 1.3%, marking a second consecutive weekly gain."
+    },
+    {
+      "id": "4867229",
+      "time": "2026-05-08 06:50:47",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【美媒披露：有美國組織高價僱網紅抹黑中國AI產業，相關資金來自美AI巨頭】據美國《連線》雜誌等媒體近日披露，有美國組織花高價僱網紅抹黑中國的AI產業，有爆料者稱相關團體的資金來自美國人工智慧（AI）行業巨頭開放人工智慧研究中心（OpenAI）等知名企業。對此，一些收到邀約的美國博主已明確表示，他們拒絕參與這種對中國的抹黑行動。（環球時報）"
+    },
+    {
+      "id": "4867228",
+      "time": "2026-05-08 06:49:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta：加拿大《C-22 法案》第二部分可能會對加拿大人的隱私與網路安全造成重大負面影響。"
+    },
+    {
+      "id": "4867227",
+      "time": "2026-05-08 06:49:07",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲卡什卡利：由於伊朗戰爭的緣故，FOMC下一次利率行動（的方向）不確定。"
+    },
+    {
+      "id": "4867226",
+      "time": "2026-05-08 06:49:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta：加拿大《C-22 法案》現行第一部分，將為執法部門提供有效的法律框架，以獲取關鍵證據、維護公共安全。"
+    },
+    {
+      "id": "4867225",
+      "time": "2026-05-08 06:48:56",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【民調：63%的美國人將高油價歸咎於特朗普】絕大多數美國人表示，歷史性的油價飆升令他們倍感經濟壓力。 根據NPR/PBS News/Marist週三釋出的調查結果，超八成美國人表示，燃油價格上漲導致家庭預算出現嚴重（33%）或輕微（48%）壓力。 僅19%的人表示油價未給他們帶來任何壓力。 據美國汽車協會（AAA）資料，全美普通汽油均價已連續15日上漲，週四攀升至每加侖4.56美元，較中東戰爭爆發前的2.98美元/加侖大幅上漲。 這項於4月27日至4月30日開展的民調發現，63%的美國人將高油價主要或部分歸咎於唐納德・特朗普總統，其中包括89%的民主黨人、32%的共和黨人和63%的無黨派人士。 僅37%的公眾認為特朗普責任很小或無責任。"
+    },
+    {
+      "id": "4867224",
+      "time": "2026-05-08 06:48:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta針對加拿大《C-22 法案》：敦促政府修訂法案，取消企業必須在系統中加裝第三方監控工具的相關義務。"
+    },
     {
       "id": "4867223",
       "time": "2026-05-08 06:48:11",
@@ -94762,22 +94825,6 @@
         "國際"
       ],
       "text": "【伊朗股市暫停交易至5月4日】當地時間30日，伊朗證券交易組織表示，根據最高證券委員會的決議，股票市場交易將暫停至5月4日。該組織表示，股市重啟時間將視市場狀況持續評估結果及相關條件是否滿足而定。（央視新聞）"
-    },
-    {
-      "id": "4854800",
-      "time": "2026-05-01 06:51:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "【2004年以來首次：美國在商品豬群中發現偽狂犬病病例】4月30日，美國農業部發布通知稱，自2004年以來，首次在美國的商品豬設施中檢測到了偽狂犬病病毒。作為美國農業部例行檢測的一部分，愛荷華州的一個小型商品豬設施中檢測到了偽狂犬病病毒的抗體。受感染的5頭公豬來自得克薩斯州的一個戶外設施。偽狂犬病是一種病毒性牲畜疾病，已於2004年從商品豬產業中被根除，但在美國的野豬種群中仍有發現。美國農業部表示，此事件對美國生豬及種豬出口“可能產生有限、短期的影響”，但該疾病對消費者健康或商品豬肉供應的安全不構成風險。"
-    },
-    {
-      "id": "4854799",
-      "time": "2026-05-01 06:51:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "【聯合國機構：加沙爆炸物汙染嚴重 已成“每日緊急危機”】當地時間4月30日，聯合國地雷行動處表示，加沙地帶和約旦河西岸的爆炸物汙染已成為一場“每日都在發生的緊急危機”。聯合國地雷行動處巴勒斯坦被佔領土專案負責人朱利葉斯·範德瓦爾特當天從加沙連線聯合國記者會時表示，根據歐盟、聯合國和世界銀行近期釋出的加沙快速損害與需求評估，加沙210萬人口中，已有190萬人流離失所，許多人多次被迫遷移；約六成民眾失去家園，加沙人類發展水平被認為倒退了約77年。（央視新聞）"
     }
   ]
 }
