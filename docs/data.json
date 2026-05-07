@@ -1,7 +1,65 @@
 {
-  "updated": "2026-05-08 04:33:48",
-  "count": 11073,
+  "updated": "2026-05-08 04:37:11",
+  "count": 11077,
   "items": [
+    {
+      "id": "te:markets:548913",
+      "time": "2026-05-08 04:36:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Consolidated Edison earnings below expectations at 2.18 USD — Consolidated Edison (ED) released earnings per share at 2.18 USD, compared to market expectations of 2.29 USD."
+    },
+    {
+      "id": "4867143",
+      "time": "2026-05-08 04:35:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達將向 IREN 投資至多 21 億美元。"
+    },
+    {
+      "id": "4867142",
+      "time": "2026-05-08 04:35:23",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗首都德黑蘭西部啟動防空系統】當地時間7日夜間，伊朗首都德黑蘭西部啟動防空系統。（央視新聞）"
+    },
+    {
+      "id": "te:markets:548912",
+      "time": "2026-05-08 04:35:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.68% Lower — The Dow Jones Index decreased 337 points or 0.68 percent on Thursday to close at 49573 points. The decline was led by Caterpillar (-3.34%), JPMorgan (-2.73%) and 3M (-1.90%). On the upside, the strongest performers were Salesforce (3.34%), IBM (2.45%) and Nvidia (1.80%)."
+    },
+    {
+      "id": "4867141",
+      "time": "2026-05-08 04:33:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "加密貨幣交易所Coinbase一季度淨虧損3.941億美元。"
+    },
+    {
+      "id": "4867140",
+      "time": "2026-05-08 04:33:49",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：全球經濟易受供應鏈中斷衝擊。"
+    },
     {
       "id": "4867139",
       "time": "2026-05-08 04:33:20",
@@ -94901,22 +94959,6 @@
         "焦點"
       ],
       "text": "蘋果2026財年Q2 EPS 2.01美元，去年同期1.65美元，市場預期1.94美元。2026財年Q2 淨利潤295.78億美元，去年同期247.8億美元，市場預期282.98億美元。"
-    },
-    {
-      "id": "4854673",
-      "time": "2026-05-01 04:36:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國貿易代表格里爾：美國將給予其他英國商品優惠待遇。"
-    },
-    {
-      "id": "4854670",
-      "time": "2026-05-01 04:35:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "蘋果第二季度IPAD收入 69.1億美元，預估66.5億美元。"
     }
   ]
 }
