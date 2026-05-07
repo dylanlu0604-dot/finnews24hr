@@ -1,7 +1,27 @@
 {
-  "updated": "2026-05-08 04:27:02",
-  "count": 11078,
+  "updated": "2026-05-08 04:30:25",
+  "count": 11077,
   "items": [
+    {
+      "id": "te:markets:548906",
+      "time": "2026-05-08 04:28:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Monster Beverage earnings above expectations at 0.58 USD — Monster Beverage (MNST) released earnings per share at 0.58 USD, compared to market expectations of 0.53 USD."
+    },
+    {
+      "id": "4867136",
+      "time": "2026-05-08 04:27:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會主席馮德萊恩：截至7月初，關稅削減談判已取得良好進展。"
+    },
     {
       "id": "4867135",
       "time": "2026-05-08 04:26:46",
@@ -94923,30 +94943,6 @@
         "其他"
       ],
       "text": "蘋果第二季度營收1,111.8億美元，預估1,096.6億美元。"
-    },
-    {
-      "id": "4854656",
-      "time": "2026-05-01 04:30:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "蘋果第二季度MAC收入 84.0億美元，預估81.3億美元。"
-    },
-    {
-      "id": "4854655",
-      "time": "2026-05-01 04:29:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "瑞銀將Alphabet的目標股價從每股375美元上調至每股410美元。"
-    },
-    {
-      "id": "4854654",
-      "time": "2026-05-01 04:28:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：豐田擬在印度新建三座工廠，這些生產基地將用於支撐面向非洲及中東地區的出口業務。"
     }
   ]
 }
