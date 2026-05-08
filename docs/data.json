@@ -1,7 +1,184 @@
 {
-  "updated": "2026-05-08 20:42:30",
-  "count": 12203,
+  "updated": "2026-05-08 20:46:00",
+  "count": 12216,
   "items": [
+    {
+      "id": "mkt:019e079f-5cb5-7557-85c4-da53c37752a0",
+      "time": "2026-05-08 20:45:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Nasdaq100",
+        "Impact bullish"
+      ],
+      "text": "NASDAQ 100 FUTURES EXTEND GAIN TO 1%"
+    },
+    {
+      "id": "mkt:019e079f-3d70-7557-85c4-d01618e0a4bb",
+      "time": "2026-05-08 20:45:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "SPOT GOLD RISES 1% TO $4,729.59/OZ"
+    },
+    {
+      "id": "mkt:019e079f-2625-7557-85c4-c85ebdc6467b",
+      "time": "2026-05-08 20:45:30",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "【Chris Anstey on US Job Data】Remember there are two surveys, one of employers and one of households. The household survey shows that the labor force shrank last month. And indeed the employment rolls dropped in that survey. So the unemployment rate held steady only because people exited the labor market, which is not what you want to see from an economic-growth perspective."
+    },
+    {
+      "id": "4868618",
+      "time": "2026-05-08 20:45:25",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "“美聯儲傳聲筒”Nick Timiraos：根據住戶調查，就業人數減少了22.6萬人。勞動力規模縮減了9.2萬人。勞動參與率微幅下滑0.1個百分點，降至61.8%。（換言之，失業率之所以未見上升，是因為人們退出了勞動力市場，而非因為他們找到了工作。）"
+    },
+    {
+      "id": "4868617",
+      "time": "2026-05-08 20:45:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其能源部長巴伊拉克塔爾在土耳其與阿爾及利亞領導人於安卡拉會晤後對記者表示：“我們希望在今年內敲定新協議。現有協議將於2027年9月到期，我們的目標是續簽。”"
+    },
+    {
+      "id": "4868616",
+      "time": "2026-05-08 20:45:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大掉期市場預計到12月將出現35個基點的加息，低於就業資料公佈前的44個基點。"
+    },
+    {
+      "id": "4868615",
+      "time": "2026-05-08 20:44:52",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【豐田新財年淨利潤預計下降22%】日本豐田汽車公司8日預計，受中東局勢持續緊張及原材料價格上漲影響，公司新財年（2026年4月至2027年3月）淨利潤將較上財年下降22%。 豐田當天釋出財報說，按照美元對日元匯率為1比150計算，中東相關因素將合計拖累營業利潤減少6700億日元。受此影響，公司新財年淨利潤預計將降至3萬億日元。 財報顯示，美國關稅政策給豐田帶來重大負擔。雖然公司採取多項措施，仍難抵消美國關稅政策帶來的負面影響。上財年，關稅等因素導致豐田營業利潤下降21.5%。 豐田副社長兼首席財務官宮崎洋一表示，新財年將是公司連續第3個財年出現利潤下滑。在經營環境劇烈變化背景下，公司此前仍以短期應對措施為主，中長期業務結構改革推進不足。"
+    },
+    {
+      "id": "mkt:019e079e-49e6-7557-85c4-c7fda405956a",
+      "time": "2026-05-08 20:44:34",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "【Jordan Rochester, head of FICC strategy for EMEA at Mizuho Bank on US Job Data】Better number on the headline growth, but weaker wage growth and the same story of a slowing in jobs growth over the past three months. Unemployment rate unchanged again makes it hard to suggest a material slowdown in labor markets validates the idea of cuts this year. Not a big reason for markets to move too much either side apart from ruling out the more dovish scenarios some analysts were highlighting."
+    },
+    {
+      "id": "4868614",
+      "time": "2026-05-08 20:44:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其能源部長阿爾帕斯蘭·巴伊拉克塔爾表示，土耳其希望在2027年9月現有協議到期前，延長與阿爾及利亞的液化天然氣供應協議，並透露部分天然氣可能轉運至東南歐。"
+    },
+    {
+      "id": "4868613",
+      "time": "2026-05-08 20:44:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀突破82美元/盎司，日內漲2.27%。"
+    },
+    {
+      "id": "4868612",
+      "time": "2026-05-08 20:43:40",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【溫州宏豐：公司股價短期漲幅較大，可能存在非理性炒作風險】溫州宏豐公告，股票於2026年5月6日、2026年5月7日、2026年5月8日連續三個交易日收盤價格漲幅偏離值累計超過30%，根據《深圳證券交易所交易規則》等的相關規定，屬於股票交易異常波動情形。截至本公告日，公司當前滾動市盈率87.45倍，遠高於電器機械和器材製造業行業滾動市盈率27.69倍（資料來源：中證指數有限公司）。公司股價短期漲幅較大，可能存在非理性炒作風險，敬請廣大投資者注意投資風險。"
+    },
+    {
+      "id": "mkt:019e079d-4de3-7557-85c4-bb7ee19dfee1",
+      "time": "2026-05-08 20:43:29",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "【Editor Cecile Daurat on US Job Data】Some more details from the report: US April Private Payrolls Rise 123k M/M; Est. +75k US April Manufacturing Payrolls Fall 2k M/M; Est. +3k US April Participation Rate 61.8%; Est. 61.9% US April Government Payrolls Fall 8,000 M/M"
+    },
+    {
+      "id": "4868611",
+      "time": "2026-05-08 20:43:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部長表示：莫斯科時間7時至14時，俄軍值班防空系統攔截並摧毀了145架烏克蘭固定翼型無人機。"
+    },
+    {
+      "id": "4868610",
+      "time": "2026-05-08 20:43:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "挪威浮式油氣生產解決方案提供商BW Offshore已與Catcher油田合作伙伴達成協議，修訂其BW Catcher浮式生產儲卸裝置的合同，將協議延長至2030年12月31日，並設有正負六個月的浮動視窗。"
+    },
+    {
+      "id": "4868609",
+      "time": "2026-05-08 20:42:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【浪潮資訊：董事彭震和高管劉軍已分別減持0.0005%和0.0010%】浪潮資訊公告，董事彭震2026年5月7日、5月8日以76.87元、72.75元/股各減持8000股、7000股，分別佔總股本0.0005%、0.0005%；高管劉軍5月7日以72.3元/股減持15000股，佔0.0010%。減持後，兩人各持41.71萬股，佔0.0284%，其中無限售條件股份各93020股，有限售條件股份各32.41萬股。減持股份來源為股權激勵計劃行權所得。"
+    },
+    {
+      "id": "mkt:019e079c-7a0b-7557-85c4-b543761d84b9",
+      "time": "2026-05-08 20:42:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "【Nick Timiraos on US Job Data】The 6-month hiring average climbed to 55,000 jobs, the most since May 2025. The U.S. economy added 115,000 jobs in April, and the unemployment rate was 4.3%. March hiring was revised up by 7,000 and February was revised down by 23,000."
+    },
+    {
+      "id": "4868608",
+      "time": "2026-05-08 20:42:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "元道通訊：公司股票將於2026年5月11日停牌一天，5月12日復牌並實施退市風險警示，股票簡稱變更為“*ST元道”，日漲跌幅限制仍為20%。"
+    },
     {
       "id": "4868607",
       "time": "2026-05-08 20:42:06",
@@ -106598,39 +106775,6 @@
         "市場"
       ],
       "text": "【算力基建四大方向“圈定” 相關個股已漲超400%】國家資料局近日透露，下一步將聚焦“東數西算”工程、一體化算力網監測排程、算電協同、邊緣算力建設四大方向，為人工智慧高速發展築牢底座。 記者注意到，在人工智慧高速發展的大背景下，今年以來，A股市場上算力基建相關概念股受到持續關注，利通電子、長光華芯、協創資料等個股自今年年初以來漲幅明顯。其中，利通電子累計漲幅達441.88%。（上證報）"
-    },
-    {
-      "id": "4856121",
-      "time": "2026-05-01 20:45:44",
-      "tags": [
-        "資料"
-      ],
-      "text": "【機構：英國製造業PMI上修表明該國經濟在戰爭之際具有韌性】Pantheon Macroeconomics的Rob Wood和Elliott Jordan-Doak在一份報告中稱，英國4月份製造業採購經理人指數(PMI)的上修與其他指標一致，表明在能源價格飆升的情況下，該國經濟表現良好。4月份製造業PMI為53.7，高於初值53.6和3月份的51.0。這些經濟學家表示，這表明儘管油價飆升，但在4月21日初值調查期結束至4月27日最終調查結束期間，市場人氣有所改善。新訂單、出口訂單和就業均有所改善。他們表示，儘管部分需求反映出企業為應對預期的供應中斷而提前行動，但這種改善可能會促使Pantheon Macroeconomics上調其對第二季度經濟零增長的預期。"
-    },
-    {
-      "id": "4856120",
-      "time": "2026-05-01 20:43:25",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【瑞銀：美國短期投資級信用債頗具吸引力】瑞銀策略師在一份報告中表示，期限為一至三年的美國投資級信用債估值偏低，這使其具有吸引力。他們表示，短期美國投資級信用債的利差表現落後於美國信用債市場其他領域的普漲行情。此外，這些策略師表示，如果市場開始反映經濟增長受衝擊的預期，這可能會促使美聯儲傾向於降息，從而為短期信用債提供提振。"
-    },
-    {
-      "id": "4856119",
-      "time": "2026-05-01 20:43:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網自動測定：05月01日20時39分在臺灣宜蘭縣海域附近（北緯24.90度，東經122.10度）發生5.4級左右地震，最終結果以正式速報為準。"
-    },
-    {
-      "id": "4856118",
-      "time": "2026-05-01 20:42:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基表示，烏克蘭需要強化軍隊合同制度，並考慮對服役時間較長的軍人實行分階段輪換。"
     }
   ]
 }
