@@ -1,7 +1,113 @@
 {
-  "updated": "2026-05-08 14:09:34",
-  "count": 11295,
+  "updated": "2026-05-08 14:12:57",
+  "count": 11305,
   "items": [
+    {
+      "id": "te:markets:549066",
+      "time": "2026-05-08 14:12:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Sony earnings below expectations at 14.24 JPY — Sony (6758) released earnings per share at 14.24 JPY, compared to market expectations of 34.44 JPY."
+    },
+    {
+      "id": "te:economy:549065",
+      "time": "2026-05-08 14:12:33",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Germany",
+        "Imports",
+        "Importance 1"
+      ],
+      "text": "German Imports Jump 5.1% MoM — Germany’s imports surged 5.1% month-on-month to €121.5 billion in March 2026, the highest amount since November 2022, accelerating from an upwardly revised 4.9% increase in the prior month and far exceeding market expectations of a 0.8% gain. Purchases from EU partners grew 3.0%, supported by stronger purchases from both euro area countries (1.7%) and non-euro-area members (5.7%). Meanwhile, imports from non-EU countries jumped 7.4%, driven by higher shipments from China (4.9%) and the United Kingdom (11.7%). In contrast, imports from the United States declined 3.7%. For the first quarter, Germany’s imports increased 1.9% year-on-year to €347.3 billion. Compared with March last year, total imports surged 11.1%, picking up from a 0.7% rise in February."
+    },
+    {
+      "id": "4867755",
+      "time": "2026-05-08 14:12:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部：烏克蘭持續發動攻擊。"
+    },
+    {
+      "id": "4867754",
+      "time": "2026-05-08 14:12:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "棉花連續主力合約日內跌2%，現報16410.00元。"
+    },
+    {
+      "id": "4867753",
+      "time": "2026-05-08 14:12:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部：俄軍自午夜起停火。"
+    },
+    {
+      "id": "4867752",
+      "time": "2026-05-08 14:11:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部：烏克蘭違反停火協議。"
+    },
+    {
+      "id": "4867751",
+      "time": "2026-05-08 14:11:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "海灣海洋服務公司：海灣戰爭導致專案開發停滯，該國業務暫停，一季度平均利用率降至74%。"
+    },
+    {
+      "id": "4867750",
+      "time": "2026-05-08 14:11:30",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根士丹利將馬士基目標股價從8700丹麥克朗上調至8900丹麥克朗。"
+    },
+    {
+      "id": "4867749",
+      "time": "2026-05-08 14:11:22",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "萊茵金屬法蘭克福早盤交易中股價下跌2.7%，此前摩根大通將其評級從增持下調至中性。"
+    },
+    {
+      "id": "te:markets:549062",
+      "time": "2026-05-08 14:11:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Poised for Lower Open — European equity markets were set for a weaker open on Friday, extending the previous session’s losses as renewed clashes between the US and Iran in the Strait of Hormuz reignited geopolitical concerns. Three US Navy destroyers transiting the strategic waterway reportedly intercepted Iranian attacks and carried out retaliatory strikes, although President Donald Trump said the ceasefire remains in effect. In Europe, investors will monitor German trade data and UK house price figures for further economic signals. On the corporate front, earnings reports are due from Intesa Sanpaolo, Enel, and International Airlines Group, among others. In premarket trading, futures tied to the Euro Stoxx 50 and Stoxx 600 were both down around 0.6%."
+    },
+    {
+      "id": "te:economy:549060",
+      "time": "2026-05-08 14:10:28",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Germany",
+        "Exports",
+        "Importance 2"
+      ],
+      "text": "German Exports Unexpectedly Rise in March — Germany’s exports unexpectedly increased by 0.5% month-on-month to a near 3½-year high of €135.8 billion in March 2026, slowing sharply from a 3.6% rise in February and beating market expectations of a 1.7% decline. Shipments to EU member states grew 3.4%, with exports to the Eurozone rising 4.1% and those to non-Eurozone countries climbing 1.7%. By contrast, exports to third countries fell 3.3%, weighed down by a 7.9% drop in shipments to the US, Germany’s largest export market, and a 1.8% decline in exports to China. Meanwhile, exports to the UK rose 3.2%. For the first quarter of 2026, outbound shipments rose 1.7% year-on-year to €401.4 billion."
+    },
     {
       "id": "4867748",
       "time": "2026-05-08 14:08:14",
@@ -97002,14 +97108,6 @@
         "國際"
       ],
       "text": "【加皇資本：運動服裝公司似乎易受油價飆升衝擊】加皇資本市場的分析師在一份報告中寫道，與其他服裝和時尚行業相比，體育用品公司受高油價衝擊的風險敞口似乎更大。與奢侈時尚品相比，運動服裝的投入成本中石油敞口相對較高，貨運成本也更高，而利潤率則更低。這家加拿大銀行表示，這對體育用品集團耐克以及德國的阿迪達斯和彪馬的財務業績的潛在影響“非常負面“。隨著美國和伊朗之間的談判陷入僵局，以及關鍵的霍爾木茲海峽實際上仍然關閉，原油期貨價格週五繼續上漲，進一步突破每桶100美元。"
-    },
-    {
-      "id": "4855619",
-      "time": "2026-05-01 14:12:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "【新疆宏景集團董事長李建宏在阿爾巴尼亞遭遇車禍去世】據新疆旅遊協會官微訊息，據多方訊息確認，新疆宏景集團董事長李建宏於2026年4月27日15:00在阿爾巴尼亞遭遇車禍，已不幸離世。據悉，事發於阿爾巴尼亞愛爾巴桑市附近Xibraka高速路口。由於雨天路滑導致車輛失控，引發多車連環相撞，李建宏當場遇難，另有6人受傷（含外籍人員）。"
     }
   ]
 }
