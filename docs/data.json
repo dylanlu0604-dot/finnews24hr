@@ -1,7 +1,186 @@
 {
-  "updated": "2026-05-08 20:31:49",
-  "count": 12138,
+  "updated": "2026-05-08 20:35:31",
+  "count": 12155,
   "items": [
+    {
+      "id": "4868586",
+      "time": "2026-05-08 20:34:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "莫三比克國家統計局公佈，4月同比通脹率為4.41%。"
+    },
+    {
+      "id": "4868585",
+      "time": "2026-05-08 20:34:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄新社援引俄羅斯方面訊息：切爾諾貝利核電站周邊起火後，俄羅斯正監測輻射狀況。"
+    },
+    {
+      "id": "4868584",
+      "time": "2026-05-08 20:34:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀突破81美元/盎司，日內漲3.24%。"
+    },
+    {
+      "id": "4868583",
+      "time": "2026-05-08 20:33:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯稱輻射狀況穩定。"
+    },
+    {
+      "id": "4868582",
+      "time": "2026-05-08 20:33:55",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "美國利率期貨小幅下調了市場對美聯儲到2026年加息的預期機率。"
+    },
+    {
+      "id": "4868581",
+      "time": "2026-05-08 20:33:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【國產模型Token低至國際競品二十分之一 中國AI能力正服務全球#】業內人士介紹，隨著我國算力基礎設施不斷完善，加上開源模型和電價的優勢，當前也出現了詞元出海的趨勢。部分海外使用者會選擇在中國部署模型訓練任務，或者直接呼叫國內算力來生成詞元。一些算力中心，還直接建在了海外。專家認為，詞元出海的背後，體現的是中國的AI能力正在服務全球。“國產模型的Token（詞元）價格僅為國際競品的三分之一到二十分之一，在長上下文、程式碼生成、多模態智慧體排程等領域已經實現了突破。國產模型積極開源，快速覆蓋了東南亞、中東還有拉美等市場。” （央視財經）"
+    },
+    {
+      "id": "4868580",
+      "time": "2026-05-08 20:33:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲3%，現報80.87美元/盎司。"
+    },
+    {
+      "id": "te:economy:549253",
+      "time": "2026-05-08 20:33:10",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Average Hourly Earnings",
+        "Importance 2"
+      ],
+      "text": "US Wage Growth Slightly Below Forecasts — Average hourly earnings for all employees on US private nonfarm payrolls rose by 6 cents, or 0.2%, over a month to $37.41 in April 2026, the same pace as in the prior month and slightly below estimates of a 0.3% increase. In April, average hourly earnings of private-sector production and nonsupervisory employees rose by 11 cents, or 0.3%, to $32.23. Over the year, average hourly earnings have increased by 3.6%, up from a downwardly revised 3.4% rise in March but below the expected 3.8% advance."
+    },
+    {
+      "id": "4868579",
+      "time": "2026-05-08 20:33:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國勞工統計局：4月份，醫療保健、交通運輸與倉儲業以及零售業的就業人數有所增加，聯邦政府的就業人數則持續減少。"
+    },
+    {
+      "id": "4868578",
+      "time": "2026-05-08 20:32:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "【2-3月非農就業新增人數合計被下修1.6萬人】美國勞工統計局：2月份非農就業總人數被下修了23,000人，從-133,000人調整為-156,000人；而3月份的資料則被上修了7,000人，從+178,000人調整為+185,000人。經過這些修正後，2月和3月的合計就業人數較此前公佈的資料減少了16,000人。"
+    },
+    {
+      "id": "te:economy:549251",
+      "time": "2026-05-08 20:32:37",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Unemployment Rate",
+        "Importance 1"
+      ],
+      "text": "US Jobless Rate Unchanged in April — The US unemployment rate held at 4.3% in April 2026, matching market expectations. However, the number of unemployed rose by 134,000 to 7.37 million, while total employment declined by 226,000 to 162.62 million. The labor force shrank by 92,000 to 170.0 million, causing the participation rate to dip 0.1 percentage point to 61.8%. The employment rate also edged down to 59.1% from 59.2%. Meanwhile, the broader U-6 unemployment rate, which accounts for discouraged and underemployed workers, increased to 8.2% from 8.0%."
+    },
+    {
+      "id": "te:economy:549250",
+      "time": "2026-05-08 20:32:34",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Non Farm Payrolls",
+        "Importance 3"
+      ],
+      "text": "US Non Farm Payrolls Beat Forecasts Again — The US economy added 115K jobs in April 2026, following an upwardly revised 185K increase in March, and way above market forecasts of 62K. Job gains occurred in health care, transportation and warehousing, and retail trade. Federal government employment continued to decline. While the figure points to a moderation in hiring, it also marks the first back-to-back monthly increase in employment in nearly a year, reinforcing signs that the US labor market is gradually cooling while remaining broadly resilient."
+    },
+    {
+      "id": "4868577",
+      "time": "2026-05-08 20:32:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "美元指數報價下跌0.26%，報97.97點。"
+    },
+    {
+      "id": "4868576",
+      "time": "2026-05-08 20:32:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "美元/日元<JPY=>下跌0.14%，報156.69。"
+    },
+    {
+      "id": "4868575",
+      "time": "2026-05-08 20:32:04",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "現貨黃金<XAU=>在美國就業資料公佈後維持漲幅，最新上漲0.5%，報每盎司4709.32美元。"
+    },
+    {
+      "id": "4868574",
+      "time": "2026-05-08 20:31:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "彭博美元現貨指數在就業報告發布後維持跌勢。"
+    },
+    {
+      "id": "4868573",
+      "time": "2026-05-08 20:31:52",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國非農資料和加拿大就業資料公佈後，美元兌加元USD/CAD短線上揚逾20點，現報1.3675。"
+    },
+    {
+      "id": "4868572",
+      "time": "2026-05-08 20:31:47",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國國債收益率在4月就業報告公佈後小幅縮減跌幅；10年期美國國債收益率最新下跌1.2個基點，報4.382%。"
+    },
+    {
+      "id": "4868571",
+      "time": "2026-05-08 20:31:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "勞氏船級社已向惠生新能源頒發原則性認可證書，認可其針對惡劣環境設計的浮式生產儲卸裝置概念，該概念採用內轉塔式繫泊系統。"
+    },
+    {
+      "id": "4868569",
+      "time": "2026-05-08 20:31:26",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "強勁的4月就業資料提振了美國國債價格，使其保持穩定。"
+    },
     {
       "id": "4868568",
       "time": "2026-05-08 20:31:14",
@@ -105916,32 +106095,6 @@
         "國際"
       ],
       "text": "美國國際集團 (AIG)：中東衝突推升保險需求。"
-    },
-    {
-      "id": "4856106",
-      "time": "2026-05-01 20:35:08",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "義大利保險企業忠利集團(Generali)執行長菲利普·多內表示，忠利對旗下私人銀行Banca Generali的現狀感到滿意，即使未來不再是控股股東，雙方仍可繼續保持合作關係"
-    },
-    {
-      "id": "4856105",
-      "time": "2026-05-01 20:34:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭西部城市捷爾諾波爾市長表示，俄羅斯無人機襲擊造成10人受傷，並擊中了工業及基礎設施目標。"
-    },
-    {
-      "id": "4856104",
-      "time": "2026-05-01 20:34:12",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "比特幣升破78000美元，日內漲2.19%。"
     }
   ]
 }
