@@ -1,7 +1,87 @@
 {
-  "updated": "2026-05-08 20:49:28",
-  "count": 12223,
+  "updated": "2026-05-08 20:52:55",
+  "count": 12227,
   "items": [
+    {
+      "id": "mkt:019e07a5-7671-7557-85c4-f10f8c5f50cf",
+      "time": "2026-05-08 20:52:24",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "【Seth Sternberg, CEO and co-founder at Honor Technology】Continued growth in healthcare jobs, with job gains occurring in nursing and residential care facilities and home health care services, and social services -- all employment categories that are related to home healthcare. But those numbers mask a much bigger problem. Demand for in-home care is growing far faster than our workforce can keep up with."
+    },
+    {
+      "id": "4868630",
+      "time": "2026-05-08 20:52:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【 美國務卿稱希望美伊進入嚴肅談判程序】 魯比奧表示，希望伊朗提出的是“認真嚴肅的提議”，並稱美方希望當前局勢能夠“推動雙方進入嚴肅談判程序”。魯比奧稱，如果有導彈射向美國，美方將作出回應。魯比奧說，7日發生的襲擊行動與美國針對伊朗的“史詩怒火行動”是“分開的”。在涉黎巴嫩相關議題上，魯比奧強調，美國不會與真主黨進行談判，當前重點是與黎巴嫩政府合作。在談及北約與駐軍問題時，魯比奧表示，美國一直有計劃在北約框架內進行軍事部署調整，但關於北約及美軍部署的具體細節，最終仍將由美國總統特朗普決定。他同時稱，近期在義大利舉行的相關會談中，並未討論北約及美軍部署的具體安排。（央視）"
+    },
+    {
+      "id": "te:markets:549265",
+      "time": "2026-05-08 20:52:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Rebound to Record Highs — US equity futures extended their rebound to record highs on Friday as the strong earnings prospectives and robust labor market signals offset risks from the war in Iran. Contracts for the S&P 500 and Nasdaq were 0.6% higher at new records, while those for the Dow added 150 points. Companies in the AI infrastructure and software space continued to rise after leading the rally this week. Their recent earnings cited stronger productivity and growing demand that is due to be undeterred by macroeconomic headwinds in the US economy. Strikes between Iran and US pushed back any hopes of a deal that restores energy supply from the Persian Gulf. Also, the jobs report pointed to back-to-back months of higher employment gains than expected, strengthening the rhetoric from hawkish FOMC members as higher core inflation and surging energy prices backed bets of a Fed hike this year. Tesla and Nvidia were 1% higher premarket, while AMD gained 2% to be on track for a 15% surge this week."
+    },
+    {
+      "id": "mkt:019e07a4-99ae-7557-85c4-eb4c07eb82a3",
+      "time": "2026-05-08 20:51:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "【Goldman Sachs Asset Management Multi Sector Fixed Income Investing Head Lindsay Rosner】 The job print that makes cutting more likely. The Fed will shift its focus to containing upside inflation risks now that the labor market appears back on track. The FOMC could well feel compelled to remove the easing bias from its next post-meeting statement in June, which would suggest the hawks are gaining the upper hand on the committee for the time being. Strong data and inflation have likely put paid to any easing in the foreseeable future, though this could change depending on how energy prices and the situation in the Middle East develop."
+    },
+    {
+      "id": "4868628",
+      "time": "2026-05-08 20:50:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美公佈首批UFO相關政府檔案】據美國媒體報道，美國國防部今天（5月8日）開始公佈首批“與外星人、地外生命、不明空中現象（UAP）以及不明飛行物（UFO）相關”的政府檔案，並表示公眾可以自行判斷相關內容。 報道稱，此次檔案公開工作除國防部外，還涉及白宮、美國國家情報總監辦公室、能源部、美國國家航空航天局以及聯邦調查局。美國國防部表示，未來還將持續分批公佈更多相關檔案。 美國總統特朗普今年2月以“美國公眾非常感興趣”為由，要求政府機構著手公開關聯不明飛行物、不明航空現象以及外星人可能存在的政府檔案。特朗普4月17日又公開稱，政府工作人員梳理有關UFO的材料時發現了不少“有趣的檔案”，首批檔案將很快公開。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:019e07a3-1344-7557-85c4-e6c4d480f893",
+      "time": "2026-05-08 20:49:48",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US Economy",
+        "WTI",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "【Capital.com Senior Market Analyst Daniela Hathorn on US Job Data】The latest US jobs report adds an interesting layer to that backdrop. On the surface, payrolls came in stronger than expected, but the details were more mixed. From a market perspective, that mix supports the current positioning. It reduces the urgency for the Fed to tighten further, while not being weak enough to trigger recession fears. In the context of elevated oil prices and geopolitical risk, this is a relatively ‘goldilocks’ outcome. However, it also reinforces the idea that markets are pricing a best-case balance of resilient growth, contained inflation and manageable geopolitical fallout."
+    },
+    {
+      "id": "4868627",
+      "time": "2026-05-08 20:49:21",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美國國債在非農就業報告後維持早盤漲幅】美國國債基本維持了早盤漲幅。4月非農就業報告顯示，失業率維持在4.3%不變，非農就業人數增加11.5萬人，高於預期的6.5萬人。平均時薪增幅低於預期。收益率曲線中段債券領漲，收益率下降多達1.5個基點，5年/30年收益率差擴大1.2個基點。美聯儲會期對應的OIS合約隱含加息2個基點左右，資料公佈前為4個基點。"
+    },
     {
       "id": "4868626",
       "time": "2026-05-08 20:48:43",
@@ -106812,30 +106892,6 @@
         "國際"
       ],
       "text": "半島電視臺分社負責人援引訊息人士說法：伊朗已透過巴基斯坦遞交新提案，核談判恐難達成成果，各方焦點或轉向結束戰事。"
-    },
-    {
-      "id": "4856126",
-      "time": "2026-05-01 20:52:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "國家預警釋出：2026年05月01日20時39分（北京時間），中國臺灣省周邊海域（24.91°N,122.04°E）發生5.6級地震，震源深度為76千米。自然資源部海嘯預警中心根據初步地震引數判斷，本次地震不會引發海嘯。"
-    },
-    {
-      "id": "4856125",
-      "time": "2026-05-01 20:51:47",
-      "tags": [
-        "市場"
-      ],
-      "text": "TC能源表示，哥倫比亞燃氣系統需求已上漲近50%，預計到2035年將新增約40億立方英尺/日的負荷。"
-    },
-    {
-      "id": "4856124",
-      "time": "2026-05-01 20:50:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "成都車禍致人死傷，警方釋出通報。（新華社）"
     }
   ]
 }
