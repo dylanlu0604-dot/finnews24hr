@@ -1,7 +1,27 @@
 {
-  "updated": "2026-05-09 00:28:07",
-  "count": 12419,
+  "updated": "2026-05-09 00:31:41",
+  "count": 12417,
   "items": [
+    {
+      "id": "4868971",
+      "time": "2026-05-09 00:31:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "香港天文臺釋出黃色暴雨警告。"
+    },
+    {
+      "id": "te:markets:549327",
+      "time": "2026-05-09 00:29:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Flat Amid Geopolitical and Trade Tensions — The FTSE MIB closed flat at 49,289 on Friday as investors weighed renewed tariff threats and escalating geopolitical tensions. US President Donald Trump warned that the European Union could face significantly higher tariffs as early as July 4 if it does not reduce duties on US imports to zero. The comments followed a call with European Commission President von der Leyen, who said negotiations were progressing toward lowering trade barriers. Markets were also pressured by heightened tensions in the Middle East after the US carried out strikes on Iranian military targets in response to attacks on three US Navy destroyers in the Strait of Hormuz. Financials traded lower, with UniCredit down 1.3% and Intesa Sanpaolo losing 2.0%, despite the latter reporting stronger-than-expected Q1 2026 results. Leonardo dropped 3.2% following the appointment of Lorenzo Mariani as CEO. In contrast, energy-related stocks advanced, with Eni up 1.7%, Prysmian gaining 5.8%, and Tenaris rising 2.8%."
+    },
     {
       "id": "mkt:019e0869-cc0b-7aa7-bba7-9b1778410bb4",
       "time": "2026-05-09 00:26:51",
@@ -108922,38 +108942,6 @@
         "國際"
       ],
       "text": "歐洲議會貿易委員會主席：歐盟及歐洲議會方面認可蘇格蘭脫歐協議。"
-    },
-    {
-      "id": "4856423",
-      "time": "2026-05-02 00:30:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：正在考量收購Spirit Airlines。"
-    },
-    {
-      "id": "4856422",
-      "time": "2026-05-02 00:30:17",
-      "tags": [
-        "市場"
-      ],
-      "text": "英國富時100指數下跌，能源股與阿斯利康股價走弱拖累大盤。"
-    },
-    {
-      "id": "4856421",
-      "time": "2026-05-02 00:29:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我們剛剛和伊朗進行了對話，看看會發生什麼吧。"
-    },
-    {
-      "id": "4856420",
-      "time": "2026-05-02 00:28:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談對歐盟汽車加徵關稅：歐盟並未遵守協定。此舉會迫使企業將生產轉移到美國。"
     }
   ]
 }
