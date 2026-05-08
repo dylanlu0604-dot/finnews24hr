@@ -1,7 +1,72 @@
 {
-  "updated": "2026-05-08 08:31:39",
-  "count": 11075,
+  "updated": "2026-05-08 08:35:04",
+  "count": 11080,
   "items": [
+    {
+      "id": "4867333",
+      "time": "2026-05-08 08:34:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【工業和資訊化部批覆第六代行動通訊系統技術試驗頻率】為進一步推動我國6G技術研發、標準研製與產業化程序，工業和資訊化部近日向 IMT-2030（6G）推進組批覆6GHz頻段6G試驗頻率使用許可，支援其在部分地區開展6G技術試驗，面向國際電信聯盟確定的6G典型場景與關鍵效能指標，開展技術研發攻關和測試驗證。 此次批覆6G技術試驗頻率，將有力推動我國6G高質量發展。（工信微報）"
+    },
+    {
+      "id": "4867332",
+      "time": "2026-05-08 08:34:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【五糧液：白酒行業加速出清 經歷調整期後將逐漸步入修復期】五糧液(000858)在業績說明會表示，當前，白酒行業正處於加速出清階段，呈現“總量承壓、結構最佳化”的發展態勢，持續向優勢品牌、優勢企業集中。伴隨宏觀經濟持續回升向好、政策環境趨於穩定、各類產業支援政策持續加碼、新興消費潛力持續釋放，行業在經歷調整期後，將逐漸步入修復期，終將在適配市場經濟發展規模情況下回歸良性發展軌道。"
+    },
+    {
+      "id": "te:economy:548957",
+      "time": "2026-05-08 08:34:01",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Composite PMI",
+        "Importance 1"
+      ],
+      "text": "Japan Composite PMI Revised Lower — Japan’s S&P Global Composite PMI was at 52.2 in April 2026, lower than flash data of 52.4 and 53.0 in the previous month. It was the 13th straight month of private-sector expansion despite marking the lowest reading since December."
+    },
+    {
+      "id": "4867331",
+      "time": "2026-05-08 08:33:32",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【阿聯酋絞盡腦汁賣原油  4月安排多艘油輪透過霍爾木茲海峽】據報道，根據業界訊息人士與航運資料顯示，為避免遭到伊朗襲擊，阿聯酋及買家近期關閉船舶定位追蹤系統，安排多艘裝載原油的油輪駛過霍爾木茲海峽，試圖運出因中東衝突而在海灣地區積壓的石油。儘管這些出貨量僅為美以對伊朗開戰前阿聯酋日常出口量的一小部分，但顯示出該產油國與買家為了釋放原油銷售而願意承擔的風險。據三名訊息人士、Kpler的船舶追蹤資料以及SynMax的衛星資料分析顯示，阿聯酋的阿布扎比國家石油公司(ADNOC)在4月成功利用四艘油輪，從海灣地區的終端出口了至少400萬桶的上扎庫姆原油和200萬桶達斯原油。這些原油貨物的去向包括：透過船對船（STS）轉卸至另一艘油輪，之後再運往東南亞一家煉油廠；卸入阿曼的儲油設施；直接航行前往韓國的煉油廠。上述三名訊息人士中，其中一人對事件有直接瞭解，另兩人熟悉ADNOC的運作。"
+    },
+    {
+      "id": "4867330",
+      "time": "2026-05-08 08:33:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【墨西哥一購物廣場發生特大火災 造成多人死傷】記者當地時間5月7日獲悉，墨西哥洛斯莫奇斯一家購物廣場發生特大火災，已造成多人死傷。緊急救援人員正在現場，當局正在調查起火原因。"
+    },
+    {
+      "id": "te:markets:548956",
+      "time": "2026-05-08 08:32:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Heating Oil Futures Rebound — Heating oil futures for delivery at the New York Harbor climbed toward $4.0 per gallon, extending their rebound from a two-week low, as renewed attacks in the Middle East reinforced concerns over deeper energy disruptions in the region. The US and Iran exchanged fire in the Strait of Hormuz, with both sides accusing the other of initiating the confrontation, putting a month-long ceasefire in doubt. Oil and refined fuel shipments through the Strait have been severely disrupted since the war began in March, putting pressure on refineries and pushing heating oil futures to a record high of $4.6 in March. In response, refineries across Europe and Asia have adjusted operations to produce more diesel and jet fuel at the expense of gasoline output. Even so, fuel shortages forced major European airlines to cancel thousands of flights, while tightening supplies in Asia prompted China to resume diesel exports."
+    },
+    {
+      "id": "4867329",
+      "time": "2026-05-08 08:31:41",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本五年期國債收益率上升1個基點，至1.860%。"
+    },
     {
       "id": "te:markets:548953",
       "time": "2026-05-08 08:30:58",
@@ -95025,23 +95090,6 @@
         "其他"
       ],
       "text": "【預計傳送旅客82.8萬人次 鐵路上海站今迎“五一”假期客流最高峰】從鐵路上海站（下轄上海站、上海南站、上海虹橋站、上海松江站、上海西站、南翔北站、安亭北站、安亭西站、金山北站、練塘站）獲悉，5月1日，鐵路上海站迎來“五一”假期客流最高峰，預計傳送旅客82.8萬人次（上海站21.3萬人次，上海南站12.5萬人次，上海虹橋站42.5萬人次，上海松江站5.9萬人次，其他車站共0.6萬人次），同比增長7.4%。"
-    },
-    {
-      "id": "4854891",
-      "time": "2026-05-01 08:33:18",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【“2026深圳五一好房節”今日開幕】為進一步提振行業發展信心、啟用合理住房消費、規範房地產市場秩序，5月1日至2日，深圳隆重舉辦“活力深圳 宜居未來——2026深圳五一好房節”。該活動由深圳市住房和建設局指導、深圳廣播電影電視集團主辦、全市“10＋1”區住房和建設局協辦。主會場設在深圳市寶安區歡樂港灣濱海公園雕塑廣場，全市“10＋1”區分會場同步聯動，是今年以來深圳規模最大、官方支援力度最強、媒體資源最集中、產業鏈參與最全面的房地產促消費、穩市場活動。據悉，此次“五一好房節”全市共有50多家房企參展，帶來超100個優質專案，集中讓利，推出一批品質優、價格實、讓利足的特價房源、限時折扣、專屬禮包，不玩套路、不搞噱頭、不設隱形門檻，以“真金白銀”啟用合理住房消費需求。（深圳特區報）"
-    },
-    {
-      "id": "4854890",
-      "time": "2026-05-01 08:31:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "【黑龍江省啟動“五一”文旅消費周活動】據黑龍江釋出，為貫徹落實文化和旅遊部2026年全國“五一”文化和旅遊消費周工作部署，“五一”假期，黑龍江省圍繞“北國好風光 惠聚黑龍江”主題，發放文旅消費券5000萬元，統籌推出百條精品線路、百場特色活動、百項惠民政策，全力豐富假日文旅供給、啟用消費潛力、提升遊客體驗，推動全省文旅市場持續升溫、提質增效。"
     }
   ]
 }
