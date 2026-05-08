@@ -1,7 +1,88 @@
 {
-  "updated": "2026-05-08 17:21:32",
-  "count": 11630,
+  "updated": "2026-05-08 17:24:59",
+  "count": 11639,
   "items": [
+    {
+      "id": "4868198",
+      "time": "2026-05-08 17:24:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "萬斯敦促行業合作，在與 OpenAI 和 Anthropic 執行長的會晤中。"
+    },
+    {
+      "id": "4868197",
+      "time": "2026-05-08 17:23:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "瑞典能源大臣：政府願意出面承擔核電擴容的成本，這一政策也適用於大瀑布電力公司（Vattenfall）正在討論的電廠延壽專案。"
+    },
+    {
+      "id": "4868196",
+      "time": "2026-05-08 17:23:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【微芯生物：公司持有的“一種TRKA(G667C)和FLT3靶點抑制劑及其與西達本胺的組合物”專利權被部分宣告無效】微芯生物公告，公司於近日收到國家智慧財產權局出具的《無效宣告請求審查決定書》（第610969號）。經審查，宣告公司所持有的“一種TRKA(G667C)和FLT3靶點抑制劑及其與西達本胺的組合物”（專利號：ZL202211051615.8）的專利權部分無效。"
+    },
+    {
+      "id": "4868195",
+      "time": "2026-05-08 17:23:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌1%，現報93.85美元/桶。"
+    },
+    {
+      "id": "te:economy:549208",
+      "time": "2026-05-08 17:22:24",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Hungary",
+        "Government Budget Value",
+        "Importance 0"
+      ],
+      "text": "Hungary April Budget Deficit Widens — Hungary recorded a budget deficit of HUF 429.4 billion in April 2026, wider than the HUF 376.4 billion shortfall a year earlier, as rising spending outpaced revenue growth. Tax revenues rose 8.2% year-on-year, but higher outlays on pensions, healthcare, transport subsidies, infrastructure, and housing pushed total spending up more strongly, resulting in a wider shortfall."
+    },
+    {
+      "id": "4868193",
+      "time": "2026-05-08 17:22:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【蘇寧易購宣佈進軍海外市場】今日，蘇寧易購召開“2026蘇寧易購618電商啟動暨出海戰略釋出會”，宣佈進軍海外市場。（新浪科技）"
+    },
+    {
+      "id": "te:economy:549207",
+      "time": "2026-05-08 17:21:35",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Iceland",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Iceland Trade Deficit Hits a Record High — Iceland's trade deficit widened to ISK 64.9 billion in April 2026, reaching a historic high, from ISK 54.1 billion deficit in in the same month a year earlier. Exports declined 11% year-on-year to ISK 73.2 billion, mainly due to a decrease in shipments of manufacturing goods (-22%). However, exports of farmed fish increased 103% and agricultural products rose 41%. Imports edged up 1% to ISK 138.1 billion, supported by strong increases in fuel and lubricants imports (66%) and transport equipment (31%), although partly offset by lower imports of industrial supplies (-15%) and food products (-18%). Over the last twelve months, Iceland's trade deficit stood at ISK 429.6 billion."
+    },
+    {
+      "id": "4868192",
+      "time": "2026-05-08 17:21:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟航空安全域性：今天，歐盟委員會還將釋出一份指南，闡明現有歐盟規則中可用於協助緩解此次危機對航空業影響的各項靈活措施。"
+    },
+    {
+      "id": "4868191",
+      "time": "2026-05-08 17:21:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油失守94美元/桶，日內跌0.94%。"
+    },
     {
       "id": "4868190",
       "time": "2026-05-08 17:21:08",
