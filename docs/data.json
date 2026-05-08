@@ -1,7 +1,73 @@
 {
-  "updated": "2026-05-09 00:03:17",
-  "count": 12413,
+  "updated": "2026-05-09 00:06:51",
+  "count": 12418,
   "items": [
+    {
+      "id": "mkt:019e0855-c994-7aa7-bba7-5e05f688dacb",
+      "time": "2026-05-09 00:05:00",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Qatari PM Says Chances of US-Iran Deal Are ‘High’ Ahead of Vance Meeting】Qatari Prime Minister Sheikh Mohammed bin Abdulrahman bin Jassim Al-Thani arrived in Washington for talks with Vice President JD Vance as diplomacy over the Iran war intensified. Al-Thani told al-Araby al-Jadeed there is a “high probability” the US and Iran will reach a deal. Secretary of State Marco Rubio said the US expected Iran’s response to a draft agreement “today at some point.” Iran’s Foreign Minister Abbas Aragchi said “every time a diplomatic solution is on the table, the U.S. opts for a reckless military adventure.”"
+    },
+    {
+      "id": "mkt:019e0855-6337-7aa7-bba7-52091af1238c",
+      "time": "2026-05-09 00:04:34",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "BEFORE MEETING WITH VANCE, QATARI PRIME MINISTER SAYS THERE'S A \"HIGH PROBABILITY\" U.S., IRAN WILL REACH DEAL – CBS"
+    },
+    {
+      "id": "4868960",
+      "time": "2026-05-09 00:04:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【長江防總：要堅持旱澇同防同治】當前長江流域已全面進入汛期。記者8日從長江防汛抗旱總指揮部瞭解到，今年汛期長江流域部分時段流域內可能旱澇並存。 據長江流域氣象中心最新預測，2026年長江流域汛期旱澇並存，長江中游旱重於澇，強對流天氣將多發。預計主汛期降水總體偏少。在空間上，金沙江、岷江、嘉陵江、長江下游等流域偏多一至二成，長江中游幹流區偏少二至四成。時間演變上，6月下旬至7月上旬長江中下游地區有雨水集中期，7月中旬後隨著副熱帶高壓北抬，岷江、嘉陵江流域降雨將增多，四川盆地東部至長江中游將出現階段性高溫天氣，盛夏期颱風影響將增多。長江防總要求，流域各地相關部門和單位要堅定踐行“生命至上、安全第一”理念，注重以大機率思維應對小機率事件，注重長短結合、標本兼治，注重專群結合、社會共治，切實提高水旱災害防禦的科學性、預見性、針對性和實效性。同時，要深刻把握水旱災害防禦工作的重要性、複雜性和艱鉅性，壓緊壓實防汛抗旱責任，深入排查整治風險隱患，堅持旱澇同防同治，堅決打好今年長江流域防汛抗旱工作主動仗。（新華社）"
+    },
+    {
+      "id": "mkt:019e0854-dc04-7aa7-bba7-4a1abc18fdb4",
+      "time": "2026-05-09 00:03:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRAN PARLIAMENT NATIONAL SECURITY COMMISSION CHAIRMAN: BILL TO BE APPROVED IN PARLIAMENT PUBLIC SESSION IRAN PARLIAMENT NATIONAL SECURITY COMMISSION CHAIRMAN: BILL TO BECOME DETERRENT LAW AFTER GUARDIAN COUNCIL APPROVAL"
+    },
+    {
+      "id": "4868959",
+      "time": "2026-05-09 00:03:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "ABC在提交的法律檔案中表示：特朗普政府針對《觀點》欄目下達的同等播出時長指令違反了美國聯邦通訊委員會（FCC）相關規定，且對言論自由權利構成威脅。"
+    },
+    {
+      "id": "mkt:019e0854-640a-7aa7-bba7-40bc46a6d4b3",
+      "time": "2026-05-09 00:03:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EURONEXT APRIL TOTAL CASH MARKET TRANSACTION VALUE M/M -20%"
+    },
+    {
+      "id": "mkt:019e0854-4300-7aa7-bba7-3ed4621e9717",
+      "time": "2026-05-09 00:03:20",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "DIS.O"
+      ],
+      "text": "ABC SAYS TRUMP ADMINISTRATION EQUAL TIME ORDER ON \"THE VIEW\" VIOLATED FCC RULES, THREATENS FREE SPEECH RIGHTS -- FILING"
+    },
     {
       "id": "4868958",
       "time": "2026-05-09 00:02:30",
@@ -108836,23 +108902,6 @@
         "國際"
       ],
       "text": "歐洲央行管委Dolenc：中期通脹預期相對穩定。"
-    },
-    {
-      "id": "4856397",
-      "time": "2026-05-02 00:05:01",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行管委Sleijpen：對通脹的影響取決於危機持續的時間。"
-    },
-    {
-      "id": "4856396",
-      "time": "2026-05-02 00:04:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "【澤連斯基稱將啟動對烏軍的改革】烏克蘭總統澤連斯基5月1日在社交媒體發文稱，將於6月啟動對烏軍的改革，重點是大幅增加前線作戰人員的薪酬，尤其是步兵的薪酬。此外，從今年開始，烏軍有可能讓軍事人員分階段退役。澤連斯基稱，烏軍指揮機構和政府部門此前已就烏軍隊改革的關鍵領域達成一致，接下來一個月將商定相關細節。他說，此次改革要大幅增加對軍隊的財政支援，指揮官、軍官和士官的薪酬應大幅增加，戰鬥崗位薪酬應是後方崗位薪酬的數倍。澤連斯基要求在徵兵合同中明確服役期限，如有可能，將從今年開始，根據明確的時間標準，讓軍事人員分階段退役。（新華社）"
     }
   ]
 }
