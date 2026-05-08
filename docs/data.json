@@ -1,7 +1,43 @@
 {
-  "updated": "2026-05-09 03:25:43",
-  "count": 12450,
+  "updated": "2026-05-09 03:29:08",
+  "count": 12452,
   "items": [
+    {
+      "id": "4869111",
+      "time": "2026-05-09 03:28:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中證金融研究院與華夏基金研究顯示 個人養老金基金助力投資者轉向長期投資】個人養老金制度啟動實施三年多來，投資情況如何？中證金融研究院與華夏基金開展的一項研究顯示：與普通基金產品相比，個人養老金基金的投資具有讓投資者“更易拿得住、交易行為更穩、投資體驗更好”等特點。 該研究基於2022年11月至2026年1月期間，超過157萬名投資者的交易資料，對個人養老金基金產品（Y份額）與普通賬戶基金產品（A/C份額）的投資行為進行比較。研究發現，養老金基金不僅是一種養老金產品，更有助於悄然改變個人投資者的行為方式。（證券時報）"
+    },
+    {
+      "id": "mkt:019e090f-323b-7222-b4aa-3f4ebb2debde",
+      "time": "2026-05-09 03:27:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US PREPARES AI SECURITY ORDER THAT OMITS MANDATORY MODEL TESTS WHITE HOUSE DRAFT AI ORDER STILL SUBJECT TO CHANGE, PEOPLE SAY"
+    },
+    {
+      "id": "te:economy:549341",
+      "time": "2026-05-09 03:26:36",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Costa Rica",
+        "Inflation Rate",
+        "Importance 0"
+      ],
+      "text": "Costa Rica CPI Rate Falls Further in April — Costa Rica’s annual inflation rate fell 1.64% in April 2026, following a 2.73% decline in the previous month. The deflationary trend was mainly driven by lower prices for food (-3.91%), transport (-3.69%), clothing and footwear (-2.58%), furniture and household services (-2.25%), and housing and utilities (-1.48%). Prices also declined for information and communication (-0.75%) and financial services and insurance (-0.51%). The strongest inflationary pressures were recorded in education (2.94%), healthcare (1.43%), and alcoholic beverages and tobacco (1.36%). On a monthly basis, consumer prices fell 0.04% in April, after a 0.34% increase in the previous month."
+    },
+    {
+      "id": "4869107",
+      "time": "2026-05-09 03:25:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "週五（5月8日）紐約尾盤，ICE美元指數跌0.19%，報87.876點，本週累計下跌0.28%，交投區間為98.579-97.625點，整體呈現出M形走勢。彭博美元指數跌0.23%，報1187.73點，本週累跌0.47%，交投區間為1196.97-1184.67點。"
+    },
     {
       "id": "4869106",
       "time": "2026-05-09 03:25:00",
@@ -109403,22 +109439,6 @@
         "國際"
       ],
       "text": "美國參議院民主黨成員Warren質疑總統特朗普政府關於降低成本的那些計劃。"
-    },
-    {
-      "id": "4856577",
-      "time": "2026-05-02 03:29:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "【白宮致函美國國會 稱與伊朗的敵對行動已經“結束”】當地時間5月1日獲悉，白宮在一封致美國國會的信中表示，儘管美軍在伊朗周邊地區仍有軍事存在，但其與伊朗的敵對行動已經“結束”。特朗普政府表示，鑑於4月初已開始停火，對伊戰爭實際上已經結束。這一表態與“60天法律期限”有關，試圖解釋為何無需就此尋求國會授權。信中還表示，儘管美國對伊朗政權的軍事行動取得了成功，並且持續努力確保持久和平，但伊朗對美國及其武裝部隊構成的威脅仍然十分重大。（央視新聞）"
-    },
-    {
-      "id": "4856576",
-      "time": "2026-05-02 03:28:45",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美元指數1日上漲】衡量美元對六種主要貨幣的美元指數當天上漲0.11%，在匯市尾市收於98.157。截至紐約匯市尾市，1歐元兌換1.1731美元，高於前一交易日的1.1729美元；1英鎊兌換1.3589美元，高於前一交易日的1.3583美元。1美元兌換157.02日元，高於前一交易日的156.49日元；1美元兌換0.7811瑞士法郎，低於前一交易日的0.7819瑞士法郎；1美元兌換1.3587加元，低於前一交易日的1.3612加元；1美元兌換9.2172瑞典克朗，低於前一交易日的9.2354瑞典克朗。"
     }
   ]
 }
