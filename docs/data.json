@@ -1,7 +1,209 @@
 {
-  "updated": "2026-05-08 20:35:31",
-  "count": 12155,
+  "updated": "2026-05-08 20:39:00",
+  "count": 12196,
   "items": [
+    {
+      "id": "4868598",
+      "time": "2026-05-08 20:38:27",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "【美國4月非農新增就業11.5萬人，連續第二個月超預期】美國勞工統計局週五公佈的資料顯示，4月美國經濟新增就業崗位11.5萬個，連續第二個月超出華爾街預期。這一數字低於3月份上修後的18.5萬個新增崗位，但高於機構調查中經濟學家預期的6.5萬個。近幾個月來，美國就業資料波動較大，在大幅增長與大幅下滑之間搖擺，令分析師難以評估整體經濟健康狀況。儘管失業率仍處於相對低位，但美聯儲內部在如何應對伊朗戰爭引發的能源衝擊方面分歧日益加劇，政策制定者們正在辯論其對經濟的潛在影響。部分官員擔憂，通脹上升可能與失業率攀升相伴而生，形成滯脹格局，因為消費者減少支出，導致僱主裁員。克利夫蘭聯儲主席哈馬克週四表示，如果企業看到其產品需求不再強勁，那可能意味著它們會減少招聘。目前看來，基本上每個想要工作的人都能找到工作。但如果需求側承受壓力，那麼美聯儲使命中關於就業的一側就可能面臨風險。因此，當前存在很大的不確定性。"
+    },
+    {
+      "id": "mkt:019e0798-8a9a-7557-85c4-960b3c01be7e",
+      "time": "2026-05-08 20:38:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "【Chris Anstey on US Job Data】And keep in mind, with a “breakeven” rate of around 50,000 according to Bloomberg Economics -- in other words, the payroll gain needed to absorb new entrants into the labor force -- this 115,000 increase is really quite strong. There’s no obvious threat here to the Fed’s maximum-employment mandate. Very hard to see Kevin Warsh next month getting a consensus behind interest-rate cuts..."
+    },
+    {
+      "id": "4868597",
+      "time": "2026-05-08 20:38:09",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "加拿大美元兌美元下跌0.1%，報1加元兌1.3679美元，此前美國國內資料顯示就業崗位減少。"
+    },
+    {
+      "id": "te:markets:549259",
+      "time": "2026-05-08 20:37:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Enel earnings in line with market expectations at 0.18 EUR — Enel (ENEL) released earnings per share at 0.18 EUR, in line with market expectations."
+    },
+    {
+      "id": "4868596",
+      "time": "2026-05-08 20:37:42",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "運輸、物流、供應鏈和倉儲行業的公司UTC Overseas與Transoceanic Development宣佈成立合資企業UTC Transoceanic，旨在支援美國墨西哥灣沿岸能源、電力和工業基礎設施專案日益增長的後勤需求。"
+    },
+    {
+      "id": "4868595",
+      "time": "2026-05-08 20:37:31",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【英科醫療：擬使用不超180億元閒置資金進行委託理財】英科醫療5月8日公告，公司及子公司擬使用最高額度合計不超過（含）180億元人民幣（或等值其他幣種）的閒置自有資金進行委託理財。公司計劃主要投資於風險較低、收益較穩定的金 融產品。委託理財指公司委託包括但不限於銀行、證券、基金等專業 金融機構對資產進行投資和管理或者購買相關理財產品的行為，類別 包括但不限於保本票據、銀行理財產品、券商理財產品、固定收益類 產品等。"
+    },
+    {
+      "id": "4868594",
+      "time": "2026-05-08 20:37:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲2%，現報81.81美元/盎司。"
+    },
+    {
+      "id": "mkt:019e0797-714b-7557-85c4-8f89b23671c7",
+      "time": "2026-05-08 20:37:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "ANALYST CHRIS ANSTEY: WE’VE NOW SEEN BACK-TO-BACK MONTHLY JOBS INCREASES FOR THE FIRST TIME IN A YEAR"
+    },
+    {
+      "id": "4868593",
+      "time": "2026-05-08 20:37:00",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【溫州宏豐：股票交易異常波動 提示業績及投資風險】溫州宏豐公告稱，公司股票於2026年5月6日-5月8日連續三個交易日收盤價格漲幅偏離值累計超30%，屬異常波動。經核查，公司、控股股東和實控人不存在應披露未披露重大事項，異常波動期間實控人無買賣公司股票行為。2025年淨利潤2517.41萬元，2026年一季度淨利潤5629.53萬元，同比大幅增長。但白銀價格波動或影響業績，當前滾動市盈率87.45倍，遠高於行業，提醒投資者注意風險。"
+    },
+    {
+      "id": "4868592",
+      "time": "2026-05-08 20:36:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "彭博美元現貨指數跌至當日低點。"
+    },
+    {
+      "id": "4868591",
+      "time": "2026-05-08 20:36:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股納斯達克100指數期貨漲超1%】美股納斯達克100指數期貨漲超1%，標普500指數期貨漲0.66%，道瓊斯指數期貨漲0.49%。"
+    },
+    {
+      "id": "te:economy:549258",
+      "time": "2026-05-08 20:36:41",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Unemployment Rate",
+        "Importance 2"
+      ],
+      "text": "Canada Unemployment Rate Rises to 6-Month High — The unemployment rate in Canada rose to 6.9% in April of 2026 from 6.7% in the previous month, overshooting expectations that it would remain unchanged at 6.7% to mark the highest jobless rate in six months. The number of unemployed people rose by 51.2 thousand from the previous month, or 3.4%, to 1.566 million. The increase was partially explained by a 33.5 thousand increase in the labor force as more Canadians entered the job market to look for employment, lifting the labor force participation rate by 0.1 percentage points to 65%. In turn, the proportion of the unemployed population that has been looking for work for six months or more was little changed at 22.5%, remaining above the long-term average of 17.1%. The monthly layoff rate was at 0.6%, in line with the pre-pandemic average. Meanwhile, net employment unexpectedly fell by 17.7 thousand, missing expectations of a 15 thousand gain."
+    },
+    {
+      "id": "4868590",
+      "time": "2026-05-08 20:36:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【夢潔股份：5%以上股東減持至5%以下 減持計劃未實施完畢】夢潔股份公告稱，持股5%以上股東李建偉於2026年3月20日至5月7日，透過集中競價交易減持237.001萬股，佔總股本0.31694%。減持後，李建偉持股3738.8972萬股，佔總股本4.99999%，不再是5%以上股東。本次減持與此前披露計劃一致，且未實施完畢，不會導致公司控制權變化，也不影響公司治理結構及持續經營。"
+    },
+    {
+      "id": "4868589",
+      "time": "2026-05-08 20:35:54",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【美股盤前要聞速遞】\n①美股三大指數期貨齊漲，道指期貨漲0.46%，標普500指數期貨漲0.60%，納指期貨漲0.88%。\n②德國DAX指數跌0.97%，英國富時100指數跌0.12%，法國CAC40指數跌0.84%，歐洲斯托克50指數跌0.87%。\n③WTI原油漲0.11%，報94.92美元/桶。布倫特原油漲0.17%，報100.23美元/桶。\n④美國4月季調後非農就業人口11.5萬人，預期6.2萬人，前值由17.8萬人修正為18.5萬人。美國4月失業率 4.3%，預期4.30%，前值4.30%。\n⑤橋水創始人達利歐表示，美國正走向一段歷時多年的長期動盪，背後原因包括龐大的財政赤字、日益擴大的貧富差距，以及左右派之間日趨嚴重的政治分裂。投資人應該保持投資組合多元化，黃金的配置比例在5%到15%之間。\n⑥大型科技巨頭創紀錄的 7250 億美元人工智慧投資戰略，開始透支美國頭部企業的財務財力，致使其今年可結餘現金流跌至過去十年最低水平。\n⑦Cloudflare股價盤前下跌16.7%，此前該公司公佈第二季度營收預測略低於市場預期，並宣佈裁員。\n⑧CoreWeave股價盤前下跌9.5%，此前該公司上調了年度資本支出預期區間的下限。\n⑨微芯科技股價盤前上漲2.7%，此前該公司第四季度營收超出市場預期。"
+    },
+    {
+      "id": "4868588",
+      "time": "2026-05-08 20:35:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "由商船三井與臺灣大同海洋公司合資成立的Ta San Shang Marine已接收新造除錯服務作業船TSS Cruiser，該船現已準備就緒，將支援臺灣的海上風電場運營。"
+    },
+    {
+      "id": "4868587",
+      "time": "2026-05-08 20:35:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【龔正會見2026年中韓工商領導人經濟會議嘉賓代表團】上海市市長龔正今天（5月8日）會見了韓國經營者總協會會長孫京植率領的2026年中韓工商領導人經濟會議嘉賓代表團。龔正說，中韓建交34年來，雙邊關係穩步發展，經貿合作的“壓艙石”和“推進器”作用不斷凸顯。上海與韓國經貿關係十分密切，是韓資企業在中國的主要集聚地。當前，上海正加快建成具有世界影響力的社會主義現代化國際大都市，深入實施擴大內需戰略，加快構建現代化產業體系，著力推動高質量發展。期待繼續與韓國知名企業深化合作、共贏未來。希望韓國企業繼續加大在滬投資佈局，把更多優質資源、重大專案和功能板塊放在上海。歡迎韓國企業繼續積極參加進博會，把更多新產品、新技術、新服務帶到上海、引入中國。上海正持續打造市場化、法治化、國際化的一流營商環境，希望韓國企業建言獻策，推動上海營商環境不斷最佳化，更好地服務韓國企業在滬發展。孫京植說，中韓兩國建交以來，雙邊貿易規模穩步攀升。上海是一座美麗的城市，經濟發展成果顯著，在金融、貿易、航運、科技創新等領域發展迅速，為外資企業提供了優質營商環境。上海與韓國地緣相鄰、交往密切，上海的發展對韓國企業在華投資興業意義重大，我們將持續擴大在滬投資，期待深化與上海企業在技術研發等領域的合作，實現互利共贏，增進兩國友誼。 (上海釋出)"
+    },
+    {
+      "id": "mkt:019e0795-c8c0-7ff0-9ed5-288198595515",
+      "time": "2026-05-08 20:34:39",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "S&P 500 FUTURES, NASDAQ 100 FUTURES RISE TO SESSION HIGH"
+    },
+    {
+      "id": "mkt:019e0795-c6c2-7ff0-9ed5-2749427a7443",
+      "time": "2026-05-08 20:34:31",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "Market Regions",
+        "Emerging Markets",
+        "DXY",
+        "Impact bullish",
+        "CNH",
+        "Impact bearish"
+      ],
+      "text": "EM CURRENCY GAUGE TRIMS LOSSES AFTER US JOBS DATA TOPS ESTIMATE"
+    },
+    {
+      "id": "mkt:019e0795-c471-7ff0-9ed5-1b04724ddffa",
+      "time": "2026-05-08 20:34:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "US INTEREST RATE FUTURES MODESTLY PARE ODDS OF FED RATE HIKE BY 2026"
+    },
     {
       "id": "4868586",
       "time": "2026-05-08 20:34:17",
@@ -28,6 +230,26 @@
       "text": "現貨白銀突破81美元/盎司，日內漲3.24%。"
     },
     {
+      "id": "mkt:16e75268-e62b-46fb-9e04-c9a50968ed3a",
+      "time": "2026-05-08 20:34:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. TREASURY YIELDS SLIGHTLY PARE DECLINES AFTER APRIL JOBS REPORT; YIELD ON 10-YEAR TREASURY NOTE LAST DOWN 1.2 BASIS POINTS AT 4.382%"
+    },
+    {
+      "id": "mkt:019e0795-acaf-7ff0-9ed5-1634d24c4162",
+      "time": "2026-05-08 20:34:00",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "SPOT GOLD HOLDS GAINS AFTER US JOBS DATA, LAST UP 0.5% AT $4,709.32/OZ"
+    },
+    {
       "id": "4868583",
       "time": "2026-05-08 20:33:59",
       "tags": [
@@ -46,6 +268,14 @@
       "text": "美國利率期貨小幅下調了市場對美聯儲到2026年加息的預期機率。"
     },
     {
+      "id": "mkt:aa1d085a-4535-4127-b8ff-2edac49a6254",
+      "time": "2026-05-08 20:33:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. STOCK INDEX FUTURES EXTEND GAINS AFTER APRIL JOBS DATA"
+    },
+    {
       "id": "4868581",
       "time": "2026-05-08 20:33:49",
       "tags": [
@@ -60,6 +290,22 @@
         "市場"
       ],
       "text": "現貨白銀日內漲3%，現報80.87美元/盎司。"
+    },
+    {
+      "id": "mkt:019e0794-a258-7ff0-9ed4-fabd4ef18b1d",
+      "time": "2026-05-08 20:33:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "US BLS: IN APRIL, AVERAGE HOURLY EARNINGS OF PRIVATE-SECTOR PRODUCTION AND NONSUPERVISORY EMPLOYEES ROSE BY 11 CENTS, OR 0.3 PERCENT, TO $32.23"
     },
     {
       "id": "te:economy:549253",
@@ -80,6 +326,22 @@
         "國際"
       ],
       "text": "美國勞工統計局：4月份，醫療保健、交通運輸與倉儲業以及零售業的就業人數有所增加，聯邦政府的就業人數則持續減少。"
+    },
+    {
+      "id": "mkt:019e0794-9e51-7ff0-9ed4-f5f6d62aad4d",
+      "time": "2026-05-08 20:33:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "US BLS: IN APRIL, AVERAGE HOURLY EARNINGS FOR ALL EMPLOYEES ON PRIVATE NONFARM PAYROLLS ROSE BY 6 CENTS, OR 0.2 PERCENT, TO $37.41. OVER THE YEAR, AVERAGE HOURLY EARNINGS HAVE INCREASED BY 3.6 PERCENT"
     },
     {
       "id": "4868578",
@@ -112,6 +374,14 @@
         "Importance 3"
       ],
       "text": "US Non Farm Payrolls Beat Forecasts Again — The US economy added 115K jobs in April 2026, following an upwardly revised 185K increase in March, and way above market forecasts of 62K. Job gains occurred in health care, transportation and warehousing, and retail trade. Federal government employment continued to decline. While the figure points to a moderation in hiring, it also marks the first back-to-back monthly increase in employment in nearly a year, reinforcing signs that the US labor market is gradually cooling while remaining broadly resilient."
+    },
+    {
+      "id": "mkt:019e0793-8ed8-7ff0-9ed4-ecd51d5b8601",
+      "time": "2026-05-08 20:32:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US BLS: TRANSPORTATION AND WAREHOUSING EMPLOYMENT INCREASED BY 30,000 IN APRIL, REFLECTING A GAIN IN COURIERS AND MESSENGERS (+38,000). HOWEVER, EMPLOYMENT IN TRANSPORTATION AND WAREHOUSING IS DOWN BY 105,000 SINCE REACHING A PEAK IN FEBRUARY 2025"
     },
     {
       "id": "4868577",
@@ -173,6 +443,23 @@
       "text": "勞氏船級社已向惠生新能源頒發原則性認可證書，認可其針對惡劣環境設計的浮式生產儲卸裝置概念，該概念採用內轉塔式繫泊系統。"
     },
     {
+      "id": "4868570",
+      "time": "2026-05-08 20:31:44",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【司法部黨組成員、副部長鬍衛列：全面推行“掃碼入企” 以智慧執法規範涉企行政檢查】司法部黨組成員、副部長鬍衛列表示，全面推行“掃碼入企”，是司法部黨組堅決貫徹落實黨中央、國務院決策部署，以“小切口”推動涉企行政執法提質增效、常態化規範行政檢查行為的具體舉措。這項舉措對行政執法工作具有重要意義，概括起來有三方面：一是推動執法行為更規範，依託數字化監管實現執法全過程可回溯可監督，從源頭上遏制亂檢查頑疾；二是推動執法理念再強化，嚴格恪守法治底線，踐行法治為民的宗旨，切實尊重和保障各類經營主體合法權益；三是推動執法方式現代化，以數字技術深度賦能執法監管，打破資料壁壘、提升監管效能。"
+    },
+    {
+      "id": "mkt:720d88b0-d68c-457f-884b-393cff177b73",
+      "time": "2026-05-08 20:31:43",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "US BLS: UNEMPLOYMENT RATE WAS UNCHANGED AT 4.3 PERCENT IN APRIL, AND THE NUMBER OF UNEMPLOYED PEOPLE CHANGED LITTLE AT 7.4 MILLION. BOTH MEASURES CHANGED LITTLE OVER THE YEAR"
+    },
+    {
       "id": "4868569",
       "time": "2026-05-08 20:31:26",
       "tags": [
@@ -197,6 +484,55 @@
         "其他"
       ],
       "text": "加拿大4月就業人數 -1.77萬人，預期1.5萬人，前值1.41萬人。"
+    },
+    {
+      "id": "mkt:019e0792-63ed-7ff0-9ed4-e43bb8e4e641",
+      "time": "2026-05-08 20:30:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "US10Y",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "US BLS: THE CHANGE IN TOTAL NONFARM PAYROLL EMPLOYMENT FOR FEBRUARY WAS REVISED DOWN BY 23,000, FROM -133,000 TO -156,000, AND THE CHANGE FOR MARCH WAS REVISED UP BY 7,000, FROM +178,000 TO +185,000"
+    },
+    {
+      "id": "mkt:019e0792-5f4e-7ff0-9ed4-d8c7830a785b",
+      "time": "2026-05-08 20:30:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "US LABOR APR NONFARM PAYROLLS +115K; CONSENSUS +55K"
+    },
+    {
+      "id": "mkt:019e0792-4129-7ff0-9ed4-d37fa497c62d",
+      "time": "2026-05-08 20:30:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "US BLS: JOB GAINS OCCURRED IN HEALTH CARE, TRANSPORTATION AND WAREHOUSING, AND RETAIL TRADE. FEDERAL GOVERNMENT EMPLOYMENT CONTINUED TO DECLINE"
     },
     {
       "id": "4868566",
@@ -232,6 +568,165 @@
         "焦點"
       ],
       "text": "以太坊升破2300美元，日內漲0.39%。"
+    },
+    {
+      "id": "4868562",
+      "time": "2026-05-08 20:30:07",
+      "tags": [
+        "宏觀",
+        "焦點",
+        "國際"
+      ],
+      "text": "【5月8日《新聞聯播》主要內容】今天《新聞聯播》主要內容有：1.應習近平邀請 塔吉克總統將對華進行國事訪問； 2.【新思想引領新徵程】粵港澳大灣區加快打造高質量發展動力源； 3.李強簽署國務院令 公佈修訂後的《中華人民共和國行政複議法實施條例》； 4.丁薛祥在調研基礎研究時強調 深入貫徹落實加強基礎研究座談會精神 全面提升基礎研究水平和原始創新能力； 5.我國營商環境持續改善： （1）五項“一件事”政務服務改革全面完成； （2）涉企行政檢查“掃碼入企”全面推行； 6.培育消費新場景新業態 激發消費新動能； 7.天舟十號船箭組合體轉運至發射區 將於近日擇機發射； 8.【在希望的田野上】新技術新裝備助力農業生產； 9.國內聯播快訊： （1）中宣部等部門部署開展文化科技衛生“三下鄉”活動； （2）我國改革完善兒童用藥供應保障機制； （3）一季度末科技型中小企業貸款餘額同比增長20.9%； （4）《人工智慧終端智慧化分級》系列國家標準釋出； （5）《國內貿易交易指引（試行）》今天釋出實施； （6）一季度深圳對亞太經濟合作組織其他經濟體進出口近9000億元； （7）成達萬高鐵資陽沱江特大橋順利合龍； （8）平陸運河青年樞紐船閘開始密封檢查； （9）首屆央企面向退役軍人專場招聘活動在雄安啟動； （10）橫琴與拱北口岸同步開通車輛免刷證智慧通關； 10.日本民眾舉行集會抗議高市政權推動擴軍修憲等危險動向 俄羅斯外交部發言人強調銘記歷史 警惕日本“再軍事化”； 11.美國和伊朗在霍爾木茲海峽區域再度交火 伊媒稱目前局勢恢復正常； 12.國際聯播快訊： （1）俄國防部宣佈實施勝利日停火； （2）糧農組織警告中東緊張局勢衝擊糧食供應； （3）美法院裁定美政府10%全球關稅政策違法； （4）全球多家航司削減大量航班； （5）日本一核電機組因蒸汽洩漏暫停運轉。"
+    },
+    {
+      "id": "mkt:acb9fe8f-272f-42dd-9f6b-540811ea9fbd",
+      "time": "2026-05-08 20:30:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | Government Employment SA (Apr) | actual -8000K | previous -8000K"
+    },
+    {
+      "id": "mkt:ed2581e5-e5f3-4b3d-8257-85a9cf277493",
+      "time": "2026-05-08 20:30:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Manufacturing Employment SA (Apr) | actual -2000K | consensus 5000K | previous 15000K"
+    },
+    {
+      "id": "mkt:dce2d655-ef3a-48dc-8bc7-8737121abc31",
+      "time": "2026-05-08 20:30:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Average Hourly Earnings (YoY) (Apr) | actual 3.6% | consensus 3.80% | previous 3.50%"
+    },
+    {
+      "id": "mkt:9cc3d00c-a52f-4078-a531-268e858838e3",
+      "time": "2026-05-08 20:30:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Nonfarm Payroll Employment (Apr) | actual 115000K | consensus 62000K | previous 178000K"
+    },
+    {
+      "id": "mkt:019e0791-0cfb-7ff0-9ed4-ca3223ea1306",
+      "time": "2026-05-08 20:30:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Average Workweek (Apr) | actual 34.3 | consensus 34.2 | previous 34.2"
+    },
+    {
+      "id": "mkt:d6b5eaaa-4455-47b3-b1dd-5f8d7476a9c7",
+      "time": "2026-05-08 20:30:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Private Nonfarm Payroll Employment (Apr) | actual 123000K | consensus 75000K | previous 186000K"
+    },
+    {
+      "id": "mkt:019e0791-0cb1-7ff0-9ed4-c0619a3275a7",
+      "time": "2026-05-08 20:30:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Average Hourly Earnings (MoM) (Apr) | actual 0.2% | consensus 0.30% | previous 0.20%"
+    },
+    {
+      "id": "mkt:019e0791-0c34-7ff0-9ed4-ba7b7cfeb0f3",
+      "time": "2026-05-08 20:30:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Unemployment Rate (Apr) | actual 4.3% | consensus 4.30% | previous 4.30%"
+    },
+    {
+      "id": "mkt:019e0791-0c31-7ff0-9ed4-b28b7bdfced9",
+      "time": "2026-05-08 20:30:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | U6 Unemployment Rate (Apr) | actual 8.2% | previous 8.00%"
+    },
+    {
+      "id": "mkt:019e0791-0bdf-7ff0-9ed4-ad3c57bb8aba",
+      "time": "2026-05-08 20:30:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Labour Force Participation Rate (Apr) | actual 61.8% | consensus 62% | previous 61.90%"
+    },
+    {
+      "id": "mkt:019e0790-f752-7ff0-9ed4-8f6c93372af5",
+      "time": "2026-05-08 20:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Unemployment Rate (Apr) | actual 6.9% | consensus 6.7% | previous 6.70%"
+    },
+    {
+      "id": "mkt:019e0790-f84c-7ff0-9ed4-9d27de5eb2fc",
+      "time": "2026-05-08 20:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Employment Change Part Time (Apr) | actual 29000K | previous 15200K"
+    },
+    {
+      "id": "mkt:019e0790-f850-7ff0-9ed4-a664eacb41a0",
+      "time": "2026-05-08 20:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Employment Change Full Time (Apr) | actual -46700K | previous -1100K"
+    },
+    {
+      "id": "mkt:019e0790-f7d2-7ff0-9ed4-96a09c8ba440",
+      "time": "2026-05-08 20:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Labor Force Participation Rate (Apr) | actual 65% | consensus 64.9% | previous 64.90%"
+    },
+    {
+      "id": "mkt:019e0790-f721-7ff0-9ed4-805386b8b742",
+      "time": "2026-05-08 20:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Employment Change (Apr) | actual -17700K | consensus 15000K | previous 14100K"
     },
     {
       "id": "4868561",
@@ -106052,49 +106547,6 @@
         "國際"
       ],
       "text": "澤連斯基稱烏克蘭啟動軍隊改革。"
-    },
-    {
-      "id": "4856111",
-      "time": "2026-05-01 20:38:58",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【有關伊朗的報道釋出後油價下跌 美國國債升至日內高點】據Axios報道，伊朗已於週四透過巴基斯坦就美國提出的最新停戰協議修訂作出回應。在該訊息推動下，美國國債期貨上漲至當日高位，現券收益率全線轉為小幅下行。隨著油價因該訊息回落，美國國債收益率日內由此前的小幅上行轉為小幅下行或基本持平。6月WTI原油期貨目前日內下跌約2%，並觸及盤中低點。"
-    },
-    {
-      "id": "4856110",
-      "time": "2026-05-01 20:37:33",
-      "tags": [
-        "觀點"
-      ],
-      "text": "國海證券恢復跟蹤南方航空A股，評級買進。"
-    },
-    {
-      "id": "4856109",
-      "time": "2026-05-01 20:36:42",
-      "tags": [
-        "觀點"
-      ],
-      "text": "國海證券給予中國國航A股買進的初始評級。"
-    },
-    {
-      "id": "4856108",
-      "time": "2026-05-01 20:36:33",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國國際集團 (AIG)：中東衝突對公司直接影響有限。"
-    },
-    {
-      "id": "4856107",
-      "time": "2026-05-01 20:36:30",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國國際集團 (AIG)：中東衝突推升保險需求。"
     }
   ]
 }
