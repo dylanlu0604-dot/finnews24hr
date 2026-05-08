@@ -1,7 +1,20 @@
 {
-  "updated": "2026-05-09 01:33:31",
-  "count": 12420,
+  "updated": "2026-05-09 01:36:54",
+  "count": 12418,
   "items": [
+    {
+      "id": "mkt:019e08a7-2595-7222-b4a9-4f7fb8d6491d",
+      "time": "2026-05-09 01:33:52",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【U.S. Targets Empty Iranian Tankers to Tighten Oil Blockade】The U.S. is seeking to stop Iran from using empty tankers as floating oil storage while enforcing a blockade of Iranian ports, according to a U.S. official. U.S. Central Command said more than 70 tankers carrying capacity for over 166 million barrels of oil, valued at more than $13 billion, are being prevented from entering or leaving Iranian ports. Centcom said the U.S. this week struck and disabled three empty Iranian-flagged tankers attempting to load oil. TankerTrackers identified two vessels hit overnight as Sea Star III and Sevda, saying they had “infiltrated the blockade perimeter” in recent days."
+    },
     {
       "id": "mkt:019e08a6-56f8-7222-b4a9-43699c401158",
       "time": "2026-05-09 01:32:59",
@@ -109032,31 +109045,6 @@
         "國際"
       ],
       "text": "【加密貨幣“恐懼與貪婪指數“在短暫下跌後迴歸“中性“水平】CoinMarketCap的加密貨幣“恐懼與貪婪指數“本週曾短暫跌回“恐懼“區間，但在美聯儲決定維持利率穩定後反彈。該指數目前報45（滿分100），處於“中性“水平。4月28日，該指數跌至39，落入“恐懼“類別。分析師稱，資金之所以流出加密貨幣，是因為投資者試圖對沖風險。自美聯儲會議以來，比特幣已小幅反彈。比特幣上漲2.4%，至78,300美元；以太幣上漲1.8%，至2,304美元；XRP上漲1.8%，至1.39美元；solana攀升1.4%，至84.18美元。"
-    },
-    {
-      "id": "4856503",
-      "time": "2026-05-02 01:35:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "世界衛生組織成員國同意延長病原體獲取和利益共享附件談判。"
-    },
-    {
-      "id": "4856502",
-      "time": "2026-05-02 01:34:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗多家通訊社稱，伊朗西北部遺留的戰爭未爆彈藥發生爆炸，造成十四名伊斯蘭革命衛隊成員身亡。"
-    },
-    {
-      "id": "4856501",
-      "time": "2026-05-02 01:33:53",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【特朗普稱他“可能”會前往法國參加G7峰會】美國總統特朗普表示，儘管美國與主要盟友在伊朗戰爭和貿易問題上存在分歧，但他仍計劃出席6月份在法國舉行的七國集團（G7）領導人峰會。當被問及是否會參加世界最富裕國家代表的聚會時，特朗普在白宮告訴記者：“可能會。”G7領導人定於6月15日至17日在法國東南部城市埃維昂萊班舉行會議。此次會議召開之際，正值中東衝突加劇了美國與其他經濟體之間的緊張關係。"
     }
   ]
 }
