@@ -1,7 +1,1788 @@
 {
-  "updated": "2026-05-08 21:14:30",
-  "count": 12263,
+  "updated": "2026-05-08 22:15:54",
+  "count": 12340,
   "items": [
+    {
+      "id": "4868822",
+      "time": "2026-05-08 22:15:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "南行管線可經拱心石海灣支線日輸送原油超 80 萬桶。"
+    },
+    {
+      "id": "4868821",
+      "time": "2026-05-08 22:15:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【海辰儲能重慶基地成為全球首座儲能電池“燈塔工廠”】5月8日訊息，近日，世界經濟論壇（WEF）公佈了2026年新晉全球“燈塔工廠”名單，海辰儲能重慶基地成功入選，成為全球首座儲能電池“燈塔工廠”。該基地同時也是全球首款千安時長時儲能專用電池量產工廠。"
+    },
+    {
+      "id": "4868820",
+      "time": "2026-05-08 22:14:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "YPF執行長表示，其燃油價格管制是在沒有政府幹預的情況下進行的。"
+    },
+    {
+      "id": "4868819",
+      "time": "2026-05-08 22:13:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "魯比奧：在羅馬與義大利總理梅洛尼舉行會晤，進一步鞏固美意持久戰略伙伴關係。"
+    },
+    {
+      "id": "4868818",
+      "time": "2026-05-08 22:13:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗哈爾克島附近疑似發生石油洩漏】當地時間5月8日，有訊息稱，衛星影象顯示，伊朗關鍵石油出口樞紐哈爾克島附近疑似發生石油洩漏。（央視新聞）"
+    },
+    {
+      "id": "4868817",
+      "time": "2026-05-08 22:12:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "綠洲集團在股東大會前將凱達集團持股比例增持至 15%。"
+    },
+    {
+      "id": "te:markets:549292",
+      "time": "2026-05-08 22:12:26",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Enbridge earnings in line with market expectations at 0.98 CAD — Enbridge (ENB) released earnings per share at 0.98 CAD, in line with market expectations."
+    },
+    {
+      "id": "4868815",
+      "time": "2026-05-08 22:12:17",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "富達國民資訊服務公司公佈第二季度調整後利潤預測低於市場預期後，其股價下跌6.2%。"
+    },
+    {
+      "id": "4868814",
+      "time": "2026-05-08 22:12:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "墨西哥總統辛鮑姆：目前沒有任何關於美國境內墨西哥領事館接受審查的相關資訊。"
+    },
+    {
+      "id": "4868812",
+      "time": "2026-05-08 22:11:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗媒體8日報道，伊朗武裝部隊當天與美國船隻在霍爾木茲海峽發生零星衝突。（新華社）"
+    },
+    {
+      "id": "mkt:019e07ed-536f-7557-85c6-410662a0a330",
+      "time": "2026-05-08 22:10:54",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "IRAN'S FARS NEWS REPORTS SPORADIC CLASHES BETWEEN IRANIAN ARMED FORCES AND U.S. VESSELS IN THE STRAIT OF HORMUZ SINCE ABOUT AN HOUR AGO"
+    },
+    {
+      "id": "mkt:019e07ed-3330-7aa7-bba5-90b35322bd3c",
+      "time": "2026-05-08 22:10:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CHINA'S FOREIGN MINISTER MET WITH FRENCH PRESIDENT'S FOREIGN AFFAIRS ADVISOR - STATEMENT"
+    },
+    {
+      "id": "4868810",
+      "time": "2026-05-08 22:10:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "拉加德：歐元區經濟在進入此次能源衝擊前的初始狀況，比俄羅斯入侵烏克蘭之前更有利。"
+    },
+    {
+      "id": "4868809",
+      "time": "2026-05-08 22:10:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗法爾斯新聞社報道，自約一小時前起，伊朗武裝部隊與美國艦船在霍爾木茲海峽發生零星衝突。"
+    },
+    {
+      "id": "4868808",
+      "time": "2026-05-08 22:09:47",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【王毅同法國總統外事顧問博納會談】2026年5月8日，中共中央政治局委員、中央外辦主任王毅在北京同法國總統外事顧問博納舉行會談。王毅表示，去年12月馬克龍總統成功訪華，雙方就推動中法關係走穩走好達成重要共識，兩國元首的戰略引領體現了兩國關係的高水平和特殊性。中方願同法方一道，繼續落實馬克龍總統訪華成果，讓中法合作取得更大進展，更多造福兩國人民。中方重視近期法國議會透過簡化非法所獲他國文物歸還程式的法律草案，願同法方加強這方面合作，增進民心相通和文明互鑑。當今世界亂象叢生，中法作為聯合國安理會常任理事國和獨立自主大國，對維護國際和平、穩定與發展負有重要責任，雙方有必要加強戰略溝通，開展戰略協調，共同應對全球性挑戰，推動中法全面戰略伙伴關係排除各種干擾，實現健康、穩定發展。王毅表示，中法關係的基礎是牢固政治互信，關鍵是相互尊重對方核心利益。希望法方以實際行動恪守一箇中國原則，不同臺灣當局進行任何形式的官方往來，不向“臺獨”分裂勢力發出任何錯誤訊號。中國對歐政策一以貫之，始終視歐洲為多極世界的重要一極，支援歐洲一體化和歐盟發展壯大。中歐始終是夥伴而非對手。希望法國作為歐盟重要國家發揮積極建設性作用，推動歐盟樹立正確理性對華認知，採取務實開放對華經貿政策，為中歐關係長期健康穩定發展掃清障礙。（外交部）"
+    },
+    {
+      "id": "4868807",
+      "time": "2026-05-08 22:09:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "受人工智慧相關擔憂影響，TCI 已將微軟持倉減持至投資組合的 1%"
+    },
+    {
+      "id": "mkt:019e07eb-e217-7557-85c6-3279cbb8434d",
+      "time": "2026-05-08 22:09:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O",
+        "Impact bearish"
+      ],
+      "text": "TCI CUT MICROSOFT STAKE TO 1% OF PORTOLIO OVER AI CONCERNS: FT"
+    },
+    {
+      "id": "4868806",
+      "time": "2026-05-08 22:08:32",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：歐洲央行已做好充分準備，可在需要時迅速作出應對。"
+    },
+    {
+      "id": "4868805",
+      "time": "2026-05-08 22:08:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥總統辛鮑姆表示，墨西哥駐美領事館涉足政治一事“完全不實”，這些領事館僅提供協助並保護墨西哥公民。"
+    },
+    {
+      "id": "4868804",
+      "time": "2026-05-08 22:08:01",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：歐盟作為能源淨進口國，在能源價格飆升時也會遭遇貿易條件稅衝擊。"
+    },
+    {
+      "id": "4868803",
+      "time": "2026-05-08 22:07:43",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行拉加德：能源成本上漲推高投入價格，而價格漲幅隨後可能會傳導至消費者。"
+    },
+    {
+      "id": "mkt:019e07ea-0181-7557-85c6-2f8fcd644545",
+      "time": "2026-05-08 22:07:16",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "US DISABLED TWO VESSELS WHILE ENFORCING BLOCKADE: CENTCOM"
+    },
+    {
+      "id": "4868802",
+      "time": "2026-05-08 22:07:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國軍方：美國在阿曼灣扣留另外兩艘違反封鎖規定的船隻，使其喪失執行能力。"
+    },
+    {
+      "id": "mkt:019e07e9-bde4-7aa7-bba5-79aba0a082f1",
+      "time": "2026-05-08 22:06:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "【US Consumer Sentiment Declines to Record Low on Inflation Angst】U.S. consumer sentiment fell to a record low in early May as Americans grew more concerned about inflation, rising gasoline prices and the impact on household finances. The University of Michigan’s preliminary sentiment index dropped to 48.2 from 49.8, while consumers expected inflation of 4.5% over the next year. Gasoline prices rose above $4.50 a gallon for the first time since 2022 amid the Iran war. Survey director Joanne Hsu said consumers continued to feel pressured by higher living costs, particularly fuel prices and tariffs."
+    },
+    {
+      "id": "4868801",
+      "time": "2026-05-08 22:06:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：美軍稱在阿曼灣癱瘓兩艘船隻。"
+    },
+    {
+      "id": "4868800",
+      "time": "2026-05-08 22:06:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗官員：一名失蹤水兵在昨晚的美軍襲擊中身亡。"
+    },
+    {
+      "id": "4868799",
+      "time": "2026-05-08 22:06:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【美股儲存板塊集體上揚】 美股儲存板塊集體上揚，美光科技漲10%，重新整理歷史新高，總市值突破8000億美元；閃迪漲8%，西部資料漲3.8%，希捷科技漲3%。"
+    },
+    {
+      "id": "4868798",
+      "time": "2026-05-08 22:05:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "TCI擔心人工智慧的發展可能會影響微軟的地位。"
+    },
+    {
+      "id": "4868797",
+      "time": "2026-05-08 22:05:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗、土耳其外長通電話。"
+    },
+    {
+      "id": "te:economy:549289",
+      "time": "2026-05-08 22:05:30",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Consumer Confidence",
+        "Importance 3"
+      ],
+      "text": "US Consumer Sentiment Dips to New Record Low — The University of Michigan’s Consumer Sentiment Index dropped to a record low of 48.2 in early May 2026, missing market expectations of 49.5 and falling below April’s 49.8. The current conditions component declined about 9% to 47.8, driven by growing concerns over high prices affecting personal finances and buying conditions for major purchases. Meanwhile, the expectations index edged up to 48.5, though real income expectations continued their decline from March. About one-third of consumers spontaneously cited gasoline prices, and roughly 30% mentioned tariffs, underscoring that consumers still feel pressured by rising costs, particularly at the pump. Year-ahead inflation expectations eased slightly to 4.5% from 4.7%, while long-run inflation expectations dipped to 3.4% from 3.5%."
+    },
+    {
+      "id": "mkt:019e07e8-57a1-7aa7-bba5-743828ae18af",
+      "time": "2026-05-08 22:05:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRAN, TURKEY FMS HOLD PHONE CALL: ARAGHCHI'S OFFICIAL TELEGRAM"
+    },
+    {
+      "id": "te:economy:549288",
+      "time": "2026-05-08 22:05:13",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Michigan Inflation Expectations",
+        "Importance 1"
+      ],
+      "text": "US 1-Year Inflation Outlook Edges Lower — The year-ahead inflation expectations in the United States, as compiled by the survey of the University of Michigan, eased to 4.5% in May 2026 from a seven-month high of 4.7% in April, preliminary estimates showed. At the same time, the five-year inflation outlook edged down to 3.4% from a six-month high of 3.5% in the month before."
+    },
+    {
+      "id": "4868796",
+      "time": "2026-05-08 22:04:34",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "金燭有限公司：經備考調整後，泛美白銀將持有金燭約6%的股權。"
+    },
+    {
+      "id": "4868795",
+      "time": "2026-05-08 22:04:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "TCI 基金在 2025 年末將微軟持倉從投資組合佔比 10% 進行減持。"
+    },
+    {
+      "id": "4868794",
+      "time": "2026-05-08 22:03:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "霍恩旗下對沖基金TCI已拋售其持有的幾乎全部價值80億美元的微軟股份。"
+    },
+    {
+      "id": "4868793",
+      "time": "2026-05-08 22:03:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "希臘正調查在該國一島嶼洞穴中發現的一架烏克蘭海軍無人機。"
+    },
+    {
+      "id": "te:economy:549287",
+      "time": "2026-05-08 22:03:00",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Wholesale Inventories",
+        "Importance 1"
+      ],
+      "text": "US Wholesale Inventory Growth Revised Slightly Down — US wholesale inventories advanced by 1.3% month-over-month to $906.371 billion in March 2026, following a 0.9% increase in February and compared with a preliminary estimate of 1.4%. Still, this marked the second consecutive monthly increase in wholesale inventories and the strongest since August 2022, prompted by a surge in stocks of nondurable goods (3.2% vs 1.1% in February). Rises were noted in drugs (0.2%), groceries (1%), farm products(2.4%), and petroleum (33.9%). Meanwhile, durable goods inventory growth slowed to 0.2% from 0.9%, as a decline in machinery (-0.2%) and automotive (-0.1) more then offset increases in electrical (2.9%) and metals (0.7%). On a yearly basis, wholesale inventories rose 2.9% in March."
+    },
+    {
+      "id": "4868792",
+      "time": "2026-05-08 22:02:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【成達萬高鐵資陽沱江特大橋順利合龍\n】5月8日，成都至達州至萬州高速鐵路全線控制性工程資陽沱江特大橋順利合龍，為線路按期通車奠定堅實基礎。成達萬高鐵是我國“八縱八橫”高鐵網沿江通道的重要組成部分，建成後將進一步完善成渝地區路網結構，助力成渝地區雙城經濟圈綜合交通運輸體系建設。（新華社）"
+    },
+    {
+      "id": "4868791",
+      "time": "2026-05-08 22:01:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "納斯達克100指數漲幅擴大至1.5%。"
+    },
+    {
+      "id": "4868790",
+      "time": "2026-05-08 22:01:31",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "美國密歇根大學消費者信心指數連續第二個月創紀錄新低。"
+    },
+    {
+      "id": "4868789",
+      "time": "2026-05-08 22:01:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【一季度我國服務進出口總額同比增長2.3%\n】商務部8日釋出資料顯示，2026年一季度，我國服務進出口總額18229億元，同比增長2.3%。\n資料顯示，一季度，我國服務出口7045.2億元，同比增長11.2%；服務進口11183.8億元，同比下降2.6%。服務貿易逆差4138.6億元，比上年同期縮小1001.5億元。\n知識密集型服務出口保持較快增長。一季度，知識密集型服務進出口7937.1億元，同比增長1.6%，佔總體服務進出口的比重為43.5%。知識密集型服務出口3842.6億元，同比增長6.1%，其中，個人文化和娛樂服務、金融服務增長最快，增速分別為25.6%和16.1%；知識密集型服務進口4094.5億元，同比下降2.3%。\n旅行服務出口和運輸服務進口快速增長。一季度，旅行服務出口1053.5億元，同比增長32.3%，位居服務出口各領域增速首位；運輸服務進口2302.1億元，同比增長22.8%，在服務進口規模前五大領域中增速最快。（新華社）"
+    },
+    {
+      "id": "te:markets:549285",
+      "time": "2026-05-08 22:01:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Gains as Markets Assess Jobs Data — The S&P/TSX Composite gained more than 0.5% to trade above 34,000 on Friday, as investors assessed the North American labor backdrop and the outlook for Middle East energy supply. Although clashes continued and attacks on the UAE renewed tensions near the Strait of Hormuz, the US is still awaiting Iran’s response to its proposal to end the conflict, keeping oil prices elevated. Meanwhile, the unexpected decline in Canadian employment reinforced expectations that the Bank of Canada will refrain from raising interest rates this year. Most banks traded higher, with BMO up more than 1% and Canadian Imperial Bank advancing nearly 1%. On the earnings front, Enbridge (-0.1%) and Wheaton Precious Metals (+4.1%) both reported results above expectations. Cardinal Energy (-0.5%) posted higher first-quarter revenue on record production, while Emera (+1.4%) reported adjusted EPS above forecasts. Rogers Sugar (+1.7%), however, posted weaker-than-expected second-quarter revenue."
+    },
+    {
+      "id": "4868788",
+      "time": "2026-05-08 22:00:42",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【沙特與阿聯酋仍冒險透過霍爾木茲運輸原油】據外媒報道，知情人士稱，自霍爾木茲海峽航運受阻以來，沙特阿美貿易公司（Aramco Trading）以及阿聯酋國家石油公司阿布扎比國家石油公司（Adnoc）等企業，仍持續透過該海峽運輸原油貨物。儘管當前運輸量僅為伊朗近10周前關閉這條石油通道之前的一小部分，但兩家公司的行動仍提醒市場，部分供應依然能夠抵達全球市場。知情人士稱，Adnoc是最早嘗試將原油、燃料及天然氣貨物穿越海峽運出的公司之一。該公司向客戶供應Upper Zakum原油，這一油種通常在濟爾庫島裝載，但此次則是在波斯灣外的富查伊拉海域交付。據Vortexa資料，4月底，一艘裝載阿布扎比原油的超大型油輪關閉應答器，穿越霍爾木茲海峽駛離波斯灣。Kpler資料顯示，截至週四，另一艘超大型油輪Fujairah Energy仍停泊在阿布扎比附近海域，船上裝載了一半來自濟爾庫島、透過船對船轉運獲得的原油。一份租船協議顯示，該船已被Adnoc臨時租用，計劃於5月15日至17日裝載原油並運往亞洲。"
+    },
+    {
+      "id": "4868787",
+      "time": "2026-05-08 22:00:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "索尼與臺積電達成合作，共同開發下一代影象感測器。"
+    },
+    {
+      "id": "te:markets:549284",
+      "time": "2026-05-08 22:00:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Mexico",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Mexican Peso Holds High After Banxico Decision — The Mexican peso rose to 17.2 in May, approaching the strongest in two years after the Bank of Mexico stated that it was done with its interest-rate cutting cycle. The central bank reduced its benchmark policy rate by 25bps to 6.5% in a narrow decision, compared to expectations of more consensus for a cut, but signaled that it concluded the easing cycle that began in March of 2024. Banxico delivered the clear statement as elevated energy prices due to the war in the Middle East threaten inflation expectations in the Mexican economy. This supported the continuation of the peso carry trade, supporting the currency despite downside risks to growth. The last GDP data pointed to a sharper contraction than expected of 0.8% in Q1."
+    },
+    {
+      "id": "4868786",
+      "time": "2026-05-08 22:00:31",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "美國5月一年期通脹率預期初值 4.5%，預期4.8%，前值4.70%。\n美國5月密歇根大學消費者信心指數初值 48.2，預期49.5，前值49.8。\n美國3月批發銷售月率 2.8%，預期1.6%，前值由2.70%修正為2.6%。"
+    },
+    {
+      "id": "te:markets:549283",
+      "time": "2026-05-08 22:00:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Opens 0.23% Higher — The Dow Jones Index is picking up 114 points or 0.23 percent on Friday. Gains are led by Cisco Systems (3.26%), Nvidia (2.80%) and Apple (2.22%). Biggest losers are IBM (-2.16%), McDonalds (-1.22%) and Visa (-1.15%)."
+    },
+    {
+      "id": "4868785",
+      "time": "2026-05-08 22:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4760美元/盎司，日內漲1.04%。"
+    },
+    {
+      "id": "mkt:019e07e3-5b1a-7557-85c6-0ed3043e94ad",
+      "time": "2026-05-08 22:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Wholesale Sales (MoM) (Mar) | actual 2.8% | consensus 1.6% | previous 2.70%"
+    },
+    {
+      "id": "mkt:019e07e3-5b1b-7557-85c6-15587e14e971",
+      "time": "2026-05-08 22:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | University of Michigan Consumer Expectations Index Flash (May) | actual 48.5 | consensus 48.1 | previous 48.1"
+    },
+    {
+      "id": "mkt:019e07e3-5a4f-7557-85c6-010c3494b32d",
+      "time": "2026-05-08 22:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | University of Michigan Current Conditions Index Flash (May) | actual 47.8 | consensus 52 | previous 52.5"
+    },
+    {
+      "id": "mkt:019e07e3-59b3-7557-85c5-fa378c4802ef",
+      "time": "2026-05-08 22:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Expected Changes in Prices During the Next Five Years (May) | actual 3.4% | consensus 3.5% | previous 3.50%"
+    },
+    {
+      "id": "mkt:019e07e3-59b2-7557-85c5-f5b8bca2cd29",
+      "time": "2026-05-08 22:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | University of Michigan Consumer Sentiment Index Flash (May) | actual 48.2 | consensus 49.5 | previous 49.8"
+    },
+    {
+      "id": "mkt:019e07e3-5987-7557-85c5-ee6074e7637a",
+      "time": "2026-05-08 22:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Expected Changes in Prices During the Next Year (May) | actual 4.5% | consensus 4.8% | previous 4.70%"
+    },
+    {
+      "id": "4868784",
+      "time": "2026-05-08 21:59:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所倫敦可可期貨<LCCc2>下跌4%，至每噸3161英鎊。"
+    },
+    {
+      "id": "4868783",
+      "time": "2026-05-08 21:58:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "火箭實驗室延續漲勢，漲幅擴大至20%。"
+    },
+    {
+      "id": "4868782",
+      "time": "2026-05-08 21:58:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗省長證實，昨夜美軍襲擊事件中一名失蹤水手已被發現身亡。"
+    },
+    {
+      "id": "4868781",
+      "time": "2026-05-08 21:57:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "摩托羅拉系統股價在一季度業績釋出後跌至三個多月新低，最新下跌9.4%。"
+    },
+    {
+      "id": "4868780",
+      "time": "2026-05-08 21:56:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗外交部：武裝力量已做好全面準備 將回擊任何侵略】據伊朗塔斯尼姆通訊社8日報道，伊朗外交部發言人巴加埃表示，伊朗正在審議美國提出的結束戰爭方案。伊朗名義上處於停火狀態，但武裝力量已做好全面準備，正密切注視局勢，若有必要將全力回擊任何侵略。（新華社）"
+    },
+    {
+      "id": "4868779",
+      "time": "2026-05-08 21:56:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【玻色量子釋出新一代專用量子計算機及通用光量子晶片】5月8日，在第二十八屆中國北京國際科技產業博覽會期間，玻色量子釋出新一代專用量子計算機“馭量·山海1000”及通用光量子晶片。據介紹，“馭量·山海1000”成為業內首個可部署於資料中心、提供商業雲服務的量子計算平臺，在算力、模式與可靠性方面均實現提升。該產品提供三種可自主切換的工作模式：精準模式支援550計算量子位元，標準模式支援1000計算量子位元，超頻模式最高支援3000計算量子位元規模，計算效能逐級提升。在可靠性方面，裝置還搭載了AI賦能的容錯系統，對產品運維進行主動管理，整機可用時長不少於每日16小時。（中國證券報）"
+    },
+    {
+      "id": "4868778",
+      "time": "2026-05-08 21:56:27",
+      "tags": [
+        "資料",
+        "觀點",
+        "其他"
+      ],
+      "text": "巴西空間研究所：資料顯示，在截至今年3月的過去12個月裡，巴西亞馬孫雨林的森林砍伐面積較上年同期下降約28%，創下2019年以來的最低水平。這是巴西盧拉政府上任後持續推進環保政策的積極成果。"
+    },
+    {
+      "id": "4868777",
+      "time": "2026-05-08 21:56:07",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "據伊朗塔斯尼姆通訊社8日報道，伊朗外交部發言人巴加埃表示，伊朗正在審議美國提出的結束戰爭方案。伊朗名義上處於停火狀態，但武裝力量已做好全面準備，正密切注視局勢，若有必要將全力回擊任何侵略。（新華社）"
+    },
+    {
+      "id": "4868776",
+      "time": "2026-05-08 21:55:52",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "美光科技股價突破700美元，現漲8%，總市值超7900億美元。"
+    },
+    {
+      "id": "4868775",
+      "time": "2026-05-08 21:55:05",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "亞馬遜網路服務美國東部1區完全恢復正常預計仍需數小時。"
+    },
+    {
+      "id": "4868774",
+      "time": "2026-05-08 21:54:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【魯比奧：若俄烏談判無進展 美方“不想浪費時間”】正在義大利訪問的美國國務卿魯比奧8日表示，如果圍繞烏克蘭問題的談判無法取得進展，美方不願繼續在解決俄烏衝突上耗費時間。據義大利《晚郵報》報道，魯比奧當天在美國駐義大利大使館舉行的新聞釋出會上談及烏克蘭問題時說：“我仍願意充當調停者，但如果相關努力沒有取得進展，我不想浪費時間。” （新華社）"
+    },
+    {
+      "id": "4868773",
+      "time": "2026-05-08 21:54:12",
+      "tags": [
+        "資料",
+        "其他"
+      ],
+      "text": "緬甸礦工發現了一顆極為罕見的巨型紅寶石，據稱是該國發現的有史以來第二重的寶石。這顆11000克拉（2.2公斤，合4.8磅）的寶石是在上曼德勒地區的莫戈克鎮附近出土的，該地區是利潤豐厚的寶石開採業的中心地帶，在緬甸曠日持久的內戰中近期經歷了多次激烈戰鬥。"
+    },
+    {
+      "id": "mkt:019e07dd-e10d-7557-85c5-e01fca17c790",
+      "time": "2026-05-08 21:54:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "MU.O",
+        "Impact bullish"
+      ],
+      "text": "MICRON SHARES TOP $700, UP 8%, WITH MARKET VALUE EXCEEDING $790BN"
+    },
+    {
+      "id": "4868772",
+      "time": "2026-05-08 21:53:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "據路透社8日報道，衛星影象顯示，伊朗關鍵石油出口樞紐哈爾克島附近疑似發生石油洩漏。（新華社）"
+    },
+    {
+      "id": "4868771",
+      "time": "2026-05-08 21:53:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【《公安部關於修改〈道路交通事故處理程式規定〉的決定（徵求意見稿）》公開徵求意見】為進一步改革道路交通事故處理工作，提升事故處理工作效率，更好地適應經濟社會發展和人民群眾的實際需求，我部修訂了《道路交通事故處理程式規定》，形成《公安部關於修改〈道路交通事故處理程式規定〉的決定（徵求意見稿）》。現向社會公開徵求意。（澎湃）"
+    },
+    {
+      "id": "mkt:019e07dd-424b-7557-85c5-d9ac19667b85",
+      "time": "2026-05-08 21:53:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA SHARES HIT RECORD HIGH, LAST UP 2.7%"
+    },
+    {
+      "id": "4868770",
+      "time": "2026-05-08 21:52:57",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國軍方襲擊試圖突破封鎖的油輪。"
+    },
+    {
+      "id": "4868769",
+      "time": "2026-05-08 21:52:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗海軍在阿曼灣扣押 “海洋錦鯉” 號油輪。"
+    },
+    {
+      "id": "4868768",
+      "time": "2026-05-08 21:51:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗軍方扣押一艘試圖破壞本國石油出口、損害國家利益的油輪。"
+    },
+    {
+      "id": "4868767",
+      "time": "2026-05-08 21:51:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列空襲黎巴嫩南部，造成10餘人死亡。"
+    },
+    {
+      "id": "te:markets:549282",
+      "time": "2026-05-08 21:50:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Currency",
+        "Importance 0"
+      ],
+      "text": "Sterling Strongest Since Mid-February as PM Starmer Holds On — The pound climbed above $1.36, reaching its strongest level since mid-February, as Prime Minister Keir Starmer vowed to stay in office despite early election results showing significant losses for his Labour Party. Nigel Farage’s Reform UK gained ground in English council elections, while Labour lost hundreds of seats, though the decline was less severe than some of the worst-case forecasts. Many results are still expected to be announced after markets close today and into the weekend. Meanwhile, optimism over a potential US-Iran peace deal eased concerns that persistent inflation could keep interest rates elevated for longer, after President Trump maintained that the ceasefire remained \"in effect\" despite recent clashes. Financial markets continue to anticipate two Bank of England rate hikes by year-end."
+    },
+    {
+      "id": "4868766",
+      "time": "2026-05-08 21:50:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗稱美軍襲擊伊民用船隻致10人受傷5人失蹤】據伊朗邁赫爾通訊社8日報道，美軍7日晚襲擊伊朗民用船隻，造成10人受傷，5人失蹤。 報道援引伊朗霍爾木茲甘省米納卜市官員穆罕默德·拉德邁赫爾的話說，美軍在霍爾木茲海峽和阿曼海水域發動侵略行動，一艘貨船在米納卜附近水域被擊中並起火。貨船上共有15名船員，其中10人受傷被送往醫院。相關部門及搜救小組正全力搜尋其餘船員。 報道說，美國海軍聲稱在一次旨在開放霍爾木茲海峽的行動中摧毀了數艘伊朗伊斯蘭革命衛隊導彈艇，但隨後被證實這些是漁船和貨船。(新華社)"
+    },
+    {
+      "id": "4868765",
+      "time": "2026-05-08 21:50:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【建龍微納：2025年營收8.41億元 擬派現3001.80萬元】建龍微納公告稱，2025年營收84,062.05萬元，同比增長7.94%；歸母淨利潤9,852.36萬元，同比增長31.79%；扣非淨利潤9,458.69萬元，同比增長55.65%。2025年12月，全資子公司收購上海漢興能源40%股權。公司擬以總股本為基數，向全體股東每10股派發現金紅利3元（含稅），合計擬派現3001.80萬元，佔2025年歸母淨利潤的30.47%。此外，公司還將在5月15日召開2025年年度股東會，審議多項議案。"
+    },
+    {
+      "id": "4868764",
+      "time": "2026-05-08 21:50:26",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【衛星影象顯示伊朗哈爾克島附近疑似出現大規模漏油】據外媒報道，本週衛星影象顯示，伊朗主要石油樞紐哈爾克島附近海域出現疑似漏油，覆蓋面積達數十平方公里。衛星於5月6日至8日拍攝的影象顯示，這片疑似漏油帶呈灰白色油膜狀，覆蓋了島嶼西側海域。衝突與環境觀察組織（Conflict and Environment Observatory）研究員Leon Moreland表示：“從視覺上看，這片油膜與原油洩漏特徵一致。”他估計受影響面積約為45平方公里。Moreland補充稱，目前尚不清楚此次疑似漏油的原因以及洩漏源頭，不過5月8日的影象未顯示存在新的持續洩漏跡象。氣候與大宗商品領域諮詢公司Data Desk聯合創始人Louis Goddard也認同這些影象很可能顯示的是漏油事件。他表示，這可能是美以對伊戰爭爆發70天以來規模最大的一次漏油事故。"
+    },
+    {
+      "id": "4868763",
+      "time": "2026-05-08 21:49:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "惠譽確認海灣國際銀行（英國）有限公司的評級為“A-”，展望穩定。"
+    },
+    {
+      "id": "4868762",
+      "time": "2026-05-08 21:49:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國金融行為監管局（FCA）：正與審裁處及對該計劃提出質疑的各方就暫停該計劃部分內容的可能性展開磋商。"
+    },
+    {
+      "id": "4868761",
+      "time": "2026-05-08 21:49:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國金融行為監管局（FCA）：汽車金融賠償計劃案件的開庭時間尚不明確，且開庭時間不太可能早於10月。"
+    },
+    {
+      "id": "4868760",
+      "time": "2026-05-08 21:48:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "英偉達股價上漲2.65%，報217.1美元/股，股價重新整理記錄新高，總市值達5.28萬億美元。"
+    },
+    {
+      "id": "4868759",
+      "time": "2026-05-08 21:48:27",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "俄羅斯國家原子能公司：伊朗布什爾核電站工程重新恢復推進。"
+    },
+    {
+      "id": "te:economy:549278",
+      "time": "2026-05-08 21:48:11",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "UK Gilt Yields Fall as PM Starmer Vows to Stay — UK 10-year gilt yields extended their decline to 4.85%, the lowest since April 20, as Prime Minister Keir Starmer pledged to remain in office despite early election results showing significant losses for his Labour Party. Nigel Farage’s Reform UK made gains in English council elections, while Labour lost hundreds of seats, though the decline was less severe than some of the worst-case scenarios. Still, many results are expected to be announced after markets close today and into the weekend. At the same time, optimism over a potential US-Iran peace deal eased fears that persistent inflation could keep interest rates elevated for longer, after President Trump insisted the ceasefire remained \"in effect\" despite recent clashes. Financial markets still expect the Bank of England to deliver two rate hikes by year-end."
+    },
+    {
+      "id": "4868758",
+      "time": "2026-05-08 21:47:56",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【烏克蘭襲擊俄大型煉油廠與輸油設施】烏克蘭表示，其襲擊了俄羅斯兩座主要燃料生產設施以及一座輸油泵站，進一步加大了對俄羅斯煉油體系的壓力。俄羅斯煉油廠開工率在4月已降至多年低點。烏克蘭總統澤連斯基表示，無人機夜間襲擊了位於雅羅斯拉夫爾的一座煉油廠，該地位於莫斯科東北約282公里。烏克蘭國家安全域性稱，還再次襲擊了彼爾姆的Permnefteorgsintez煉油廠以及附近一座輸油泵站。這兩處設施均位於莫斯科以東約1500公里，本週稍早也曾遭到打擊。上述煉油廠均屬於俄羅斯十大燃料生產設施之列。其中，雅羅斯拉夫爾煉油廠由俄羅斯石油公司與俄羅斯天然氣石油公司共同持有，日加工能力約30萬桶。盧克石油公司旗下彼爾姆煉油廠產能約26萬桶/日。彼爾姆輸油站則屬於俄羅斯干線管道網路的一部分，負責將西西伯利亞原油輸送至俄羅斯中部以及盧克石油煉油廠。"
+    },
+    {
+      "id": "4868757",
+      "time": "2026-05-08 21:47:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "魯比奧：總統始終會做出符合美國最大利益的決策。 我認為我們在做到這一點的同時，也能與教會繼續保持富有成效、成果豐碩的關係，因為教會在全球範圍內同樣扮演著重要角色。"
+    },
+    {
+      "id": "4868756",
+      "time": "2026-05-08 21:46:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭革命衛隊：伊斯蘭抵抗運動武裝人員於 2026 年 5 月 8 日週五 15 時 15 分，使用航空炸彈襲擊了敵方以色列軍隊位於拜亞達鎮的一處新建指揮據點，且已確認精準命中目標。”"
+    },
+    {
+      "id": "4868755",
+      "time": "2026-05-08 21:46:44",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【5月8日增減持彙總】據統計，5月8日盤後，興通股份、世紀華通、滬矽產業、富創精密、永臻股份等五家A股上市公司披露擬減持情況。當日暫無A股公司披露增持情況。"
+    },
+    {
+      "id": "4868754",
+      "time": "2026-05-08 21:45:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大聯合汽車與航空航天工人工會（UNIFOR）：兩年期合同確保第一年時薪漲幅最高達5加元，第二年再漲3%。"
+    },
+    {
+      "id": "mkt:019e07d6-71cd-7557-85c5-d726d10b97f9",
+      "time": "2026-05-08 21:45:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "Nasdaq100",
+        "Impact bullish"
+      ],
+      "text": "U.S. STOCKS EXTEND GAINS, NASDAQ UP 1.00%"
+    },
+    {
+      "id": "4868753",
+      "time": "2026-05-08 21:45:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大統一工會（UNIFOR）以93%的贊成票批准了北美地區沃爾瑪的首份工會合同。"
+    },
+    {
+      "id": "te:markets:549277",
+      "time": "2026-05-08 21:45:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Danaher Stock Price Hits 12-month Low — Danaher shares decreased to 172.00 USD, the lowest since April 2025. Over the past 4 weeks, Danaher lost 10.8%, and in the last 12 months, it decreased 9.27%."
+    },
+    {
+      "id": "4868752",
+      "time": "2026-05-08 21:45:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納指漲1.01%，現報26067.210點；道指漲0.19%，現報49692.520點；標普500指數漲0.51%，現報7374.830點。"
+    },
+    {
+      "id": "4868751",
+      "time": "2026-05-08 21:44:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "衛星影象顯示，伊朗哈爾克島出口中心附近疑似發生石油洩漏。"
+    },
+    {
+      "id": "4868750",
+      "time": "2026-05-08 21:44:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股CPU雙雄延續強勢 AMD、英特爾股價雙雙漲超5%】美股CPU雙雄大漲。AMD股價上漲5.36%，報430.365美元/股，總市值報7018億美元。英特爾股價上漲5%，報115.08美元/股，總市值報5784億美元。"
+    },
+    {
+      "id": "4868749",
+      "time": "2026-05-08 21:44:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本證實發生今年首起熊襲人致死事件】日本政府8日證實，日本出現今年第一起熊襲人致死事件，另有報告指向兩起疑似事件。日本環境省說，今年第一起熊襲人致死事件的受害者為一名55歲女子，4月21日在日本東北部巖手縣被發現。另據日本警方通報，山形縣、巖手縣本週先後發現兩具遺體，但未提到兩人死亡原因。日本媒體報道，這兩人可能死於熊襲擊。春天到來，熊從冬眠中甦醒，日本各地“熊出沒”報告也隨之增多。日本《讀賣新聞》報道，在日本東北部宮城縣、秋田縣和福島縣，4月收到目擊熊活動的報告數量較去年同期增長3倍。日本一名熊類研究專家警告，日本東北部居民必須高度重視“熊害”，“開春不久就出現如此嚴重的損失，原因尚難確定”，原本預測今年熊類不缺食物，“本應是平靜的一年”。環境省4月7日公佈的初步統計資料顯示，2025年4月至2026年3月的財年內，日本全國共有238人遭熊襲受傷，其中13人死亡，兩項資料均創歷史新高；此外，日本全年報告“熊出沒”事件5萬餘起，為近5年來最多。專家說，近年來熊類數量迅速增多，而人口持續減少，導致熊頻繁出沒鄉間等地，造成去年“熊害”猖獗（新華社）"
+    },
+    {
+      "id": "4868748",
+      "time": "2026-05-08 21:43:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "【三菱日聯銀行：地方選舉後市場暫不太可能反映對英國財政風險的預期】三菱日聯銀行的Derek Halpenny表示，在執政的工黨於初步地方選舉結果中遭遇重大挫敗後，市場現在開始反映對英國政府政策左傾的預期還為時過早。許多地方議會的選舉結果仍有待公佈。Halpenny說，目前尚不清楚如果結果比預期的更糟，首相基爾·斯塔默是否會辭職，或者如果他留任，誰會願意挑戰他。他表示，如果市場感覺到可能會出現一位更左傾的首相，他們可能會開始在英國國債和英鎊中反映對政治和財政風險增加的預期。"
+    },
+    {
+      "id": "te:markets:549276",
+      "time": "2026-05-08 21:43:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Rises on Middle East Peace Hopes — The Ibovespa gained nearly 1% to hover near the 185,000 mark on Friday, as investors awaited Iran’s response to a US proposal aimed at ending the conflict in the Middle East. Banks led gains, with Itaú rising nearly 1.5%, while other notable performers included Vale (+1.2%), WEG (+1.9%), Axia (+1.0%), and Rede D’Or. Petrobras edged higher as uncertainty over a potential peace deal persisted and clashes near the Strait of Hormuz continued. Elsewhere, Cemig (+1.1%), which is set to release Q1 2026 results later in the day, approved the election of Alexandre Ramos Peixoto as CEO. Banco do Brasil (+1.6%) said it renegotiated more than R$430 million in customer debt over two days. Embraer (-6.2%) fell after reporting adjusted net income of R$145.4 million in Q1, down 51.5% from a year earlier. On the data front, revenue in Brazil’s manufacturing industry rose 3.8% in March from February, though growth remained slower than a year earlier."
+    },
+    {
+      "id": "4868747",
+      "time": "2026-05-08 21:42:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國防部：依據特朗普總統指令，已解密並公開尚未解開的不明空中現象相關檔案。此舉開創了前所未有的資訊透明尺度，歷屆政府均未做到這一程度。"
+    },
+    {
+      "id": "te:markets:549275",
+      "time": "2026-05-08 21:42:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Progressive Stock Price Hits 4-week Low — Progressive shares decreased to 193.59 USD, the lowest since April 2026. Over the past 4 weeks, Progressive lost 2.13%, and in the last 12 months, it decreased 31.72%."
+    },
+    {
+      "id": "4868746",
+      "time": "2026-05-08 21:41:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "沙特阿美貿易公司和阿布扎比國家石油公司透過霍爾木茲海峽運輸石油貨物。沙烏地阿拉伯和阿聯酋公司透過水道獲得的石油流量有限。"
+    },
+    {
+      "id": "4868745",
+      "time": "2026-05-08 21:41:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗稱正在考慮如何回應美提出的“結束戰事計劃”】當地時間5月8日，伊朗外交部發言人巴加埃在接受採訪時表示，伊朗方面正在考慮對美國提出的“結束戰事計劃”的回應，相關談判正在進行中，一旦達成最終結果，伊方將會立即公佈訊息。巴加埃指責美方5月7日晚間至8日凌晨期間的軍事行動嚴重違反國際法和停火協議，稱伊朗方面“已給予敵人沉重打擊”。巴加埃表示，目前的局勢處於“名義上的停火狀態”，同時伊朗武裝部隊已做好充分準備，並密切監控局勢，一旦有必要，將全力對敵人的侵略和冒險行為作出反擊。（央視新聞）"
+    },
+    {
+      "id": "te:markets:549274",
+      "time": "2026-05-08 21:40:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Philip Morris International Stock Price Hits 7-week High — Philip Morris International shares increased to 171.84 USD, the highest since March 2026. Over the past 4 weeks, Philip Morris International gained 6.67%, and in the last 12 months, it decreased 0.19%."
+    },
+    {
+      "id": "4868744",
+      "time": "2026-05-08 21:39:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍（IDF）：“空軍已對黎巴嫩真主黨恐怖組織向以色列北部定居點發射火箭彈的發射裝置實施打擊。”"
+    },
+    {
+      "id": "4868743",
+      "time": "2026-05-08 21:39:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英國地方選舉工黨選情不利 斯塔默稱“不會一走了之”】英國首相斯塔默8日對媒體表示，雖然工黨在英國地方選舉中面臨不利局面，但他不會“一走了之”。斯塔默表示，地方選舉結果顯示出選民對現狀不滿，但他不會“一走了之，讓國家陷入混亂”。（新華社）"
+    },
+    {
+      "id": "4868742",
+      "time": "2026-05-08 21:39:12",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "DXC科技股價下跌23.7%，此前該公司公佈的2027財年調整後利潤預測低於市場預期。"
+    },
+    {
+      "id": "4868741",
+      "time": "2026-05-08 21:39:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "【費城半導體指數開盤漲近3%】費城半導體指數開盤漲近3%。英偉達股價上漲1.71%，博通股價上漲1.99%，美光科技股價上漲7.39%，超威半導體股價上漲4.54%，阿斯麥股價上漲2.01%。"
+    },
+    {
+      "id": "4868740",
+      "time": "2026-05-08 21:38:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【據港交所檔案：奔赴自然戶外運動集團股份有限公司 (前稱為伯希和戶外運動集團股份有限公司)向港交所提交上市申請書】據港交所檔案：奔赴自然戶外運動集團股份有限公司 (前稱為伯希和戶外運動集團股份有限公司)向港交所提交上市申請書。"
+    },
+    {
+      "id": "4868739",
+      "time": "2026-05-08 21:38:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "吐司（Toast）股價在釋出一季度業績後下跌14.4%。"
+    },
+    {
+      "id": "4868738",
+      "time": "2026-05-08 21:37:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "英國30年期金邊債券收益率單日下跌10個基點，至5.534%，創4月20日以來新低。"
+    },
+    {
+      "id": "mkt:019e07ce-e989-7557-85c5-c92e1baed6c9",
+      "time": "2026-05-08 21:37:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "HASSETT: TRUMP, XI HAVE A STRONG WORKING RELATIONSHIP"
+    },
+    {
+      "id": "4868737",
+      "time": "2026-05-08 21:37:35",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "摩洛哥頒佈法令，任命央行理事會新任成員。"
+    },
+    {
+      "id": "4868736",
+      "time": "2026-05-08 21:37:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股光通訊板塊開盤普漲 康寧漲超4%】Credo漲超3%，Lumentum漲超1%，康寧漲超4%，AAOI漲超6%。"
+    },
+    {
+      "id": "4868735",
+      "time": "2026-05-08 21:36:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "【蘋果股價重新整理記錄新高】蘋果股價上漲2%，報293.2美元/股，股價重新整理記錄新高，總市值報4.31萬億美元。"
+    },
+    {
+      "id": "4868734",
+      "time": "2026-05-08 21:36:39",
+      "tags": [
+        "市場",
+        "觀點",
+        "焦點"
+      ],
+      "text": "高盛BDC股價下跌5.7%，創9月以來最大跌幅。"
+    },
+    {
+      "id": "4868733",
+      "time": "2026-05-08 21:36:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【保時捷關閉三非核心業務部門，裁員逾500人】保時捷將關閉旗下三個非整車製造業務部門，執行長邁克爾·萊特斯正首次推動裁員，以應對銷量下滑以及調整電動車戰略所帶來的成本壓力。保時捷週五表示，計劃關閉Cellforce電池業務、電動腳踏車業務以及Cetitec軟體子公司，該決定將影響德國和克羅埃西亞超過500名員工。保時捷今年4月已同意出售持有布加迪超級跑車品牌所屬合資公司的股份，管理層也暗示未來可能進一步剝離資產。萊特斯今年3月承認，除到本十年末計劃削減的約3900個崗位外，公司還打算進一步裁員。目前保時捷約有4萬名員工。公司預計，其資本支出將在今年見頂，隨後隨著研發支出下降，資本支出將逐步回落。"
+    },
+    {
+      "id": "4868732",
+      "time": "2026-05-08 21:36:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗：仍在權衡如何回應美方提案】新華社德黑蘭5月8日電 據伊朗媒體8日報道，伊朗外交部發言人稱，伊方仍在權衡如何回應美國所提方案。（新華社）"
+    },
+    {
+      "id": "mkt:019e07cd-51d8-7557-85c5-c52363e88fbe",
+      "time": "2026-05-08 21:35:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NATIONAL ECONOMIC COUNCIL'S HASSETT: IRAN WAR DOES NOT DISPLACE TOP PRIORITIES W/ CHINA"
+    },
+    {
+      "id": "4868731",
+      "time": "2026-05-08 21:35:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "IREN股價上漲10.6%，因英偉達將對其投資至多21億美元。"
+    },
+    {
+      "id": "mkt:019e07cd-1a5d-7557-85c5-ba275f98a424",
+      "time": "2026-05-08 21:35:42",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "GLW.O",
+        "Impact bullish",
+        "NVDA.O"
+      ],
+      "text": "CORNING SHARES UP 4.9% AS NVIDIA FUNDS CONSTRUCTION OF CO'S NEW FACTORIES"
+    },
+    {
+      "id": "4868730",
+      "time": "2026-05-08 21:35:40",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "康寧股價上漲4.9%，因英偉達出資資助該公司新工廠建設。"
+    },
+    {
+      "id": "4868729",
+      "time": "2026-05-08 21:35:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿古斯研究將雪弗龍目標股價從203美元上調至206美元。"
+    },
+    {
+      "id": "4868728",
+      "time": "2026-05-08 21:35:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【九豐能源：控股股東及其一致行動人持股比例被動增加至48.18%】九豐能源公告，公司以集中競價交易方式回購的股份838.98萬股已於2026年5月7日登出完成。上述股份登出後，控股股東、實際控制人及其一致行動人持股比例由47.62%被動增加至48.18%，觸及1%的整數倍。公司總股本由7.14億股變更為7.06億股。"
+    },
+    {
+      "id": "4868727",
+      "time": "2026-05-08 21:34:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "Upwork股價在公司第一季度營收不及預期、宣佈裁員24%後，跌至兩年多來新低；股價最終收跌23%。"
+    },
+    {
+      "id": "4868726",
+      "time": "2026-05-08 21:34:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "AKAMAI股價飆升25%，創2006年7月以來最大漲幅。"
+    },
+    {
+      "id": "4868725",
+      "time": "2026-05-08 21:34:17",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "比爾控股股價上漲12.8%，此前該公司宣佈裁員30%，且第三季度扭虧為盈。"
+    },
+    {
+      "id": "4868724",
+      "time": "2026-05-08 21:34:07",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "火箭實驗室（Rocket Lab）開盤大漲近14%，公司Q1營收暴增64%，並同時宣佈拿下特朗普政府\"黃金穹頂\"導彈防禦專案訂單。"
+    },
+    {
+      "id": "te:markets:549273",
+      "time": "2026-05-08 21:34:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Rebound to Records — US equities rebounded to record highs on Friday as the strong earnings prospectives and robust labor market signals offset risks from the war in Iran. The S&P 500 and Nasdaq were 0.5% higher at new records, while the Dow added over 100 points. Companies in the AI infrastructure and software space continued to rise after leading the rally this week. Their recent earnings cited stronger productivity and growing demand that is due to be undeterred by macroeconomic headwinds in the US economy. Strikes between Iran and US pushed back any hopes of a deal that restores energy supply from the Persian Gulf. Also, the jobs report pointed to back-to-back months of higher employment gain than expected, strengthening the rhetoric from hawkish FOMC members as higher core inflation and surging energy prices backed bets of a Fed hike this year. Tesla and Nvidia were over 1% higher, while AMD gained 2% to be on track for a 15% surge this week."
+    },
+    {
+      "id": "4868723",
+      "time": "2026-05-08 21:33:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "莫三比克4月份消費者價格指數同比上漲4.41%。"
+    },
+    {
+      "id": "te:markets:549272",
+      "time": "2026-05-08 21:33:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Pfizer Stock Price Hits 13-week Low — Pfizer shares decreased to 26.00 USD, the lowest since February 2026. Over the past 4 weeks, Pfizer lost 4.91%, and in the last 12 months, it increased 13.71%."
+    },
+    {
+      "id": "4868722",
+      "time": "2026-05-08 21:33:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "美客多股價下跌11.7%，因季度利潤下滑。"
+    },
+    {
+      "id": "4868721",
+      "time": "2026-05-08 21:33:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐元兌美元EUR/USD日內漲幅達0.50%，現報1.1783。"
+    },
+    {
+      "id": "4868720",
+      "time": "2026-05-08 21:33:30",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4740美元/盎司，日內漲1.13%。"
+    },
+    {
+      "id": "4868719",
+      "time": "2026-05-08 21:33:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "【世衛組織：已啟動應對漢坦病毒疫情行動】世界衛生組織新聞發言人克里斯蒂安·林德邁爾8日表示，漢坦病毒疫情已根據《國際衛生條例》啟動應對行動，世衛組織正與維德角、西班牙、荷蘭、南非、英國和阿根廷的有關部門以及歐洲疾病預防控制中心等密切合作。林德邁爾表示，對潛在感染者的接觸者追蹤工作仍在繼續。“我們正在追蹤所有人，我們正在檢視飛機和輪船的座位表，甚至可能進一步追蹤某人的行蹤，看看他們去過哪裡，或者可能與哪些人有過密切接觸。”林德邁爾強調，漢坦病毒已經被發現約30年，全球每年約有2000例病例，其發病率很低。漢坦病毒傳染性並不強，不會輕易在人與人之間傳播。一些在此次疫情中密切接觸過感染者的人，其病毒檢查結果都是陰性，這足以說明漢坦病毒對普通人群的風險非常低。“我需要反覆強調，即使是那些共用艙房的人，在某些情況下似乎也沒有同時感染。”（央視新聞）"
+    },
+    {
+      "id": "4868718",
+      "time": "2026-05-08 21:32:44",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "CLOUDFLARE股價下跌16%，創2024年5月以來最大跌幅。"
+    },
+    {
+      "id": "4868717",
+      "time": "2026-05-08 21:32:35",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4750美元/盎司，日內漲0.83%。"
+    },
+    {
+      "id": "4868716",
+      "time": "2026-05-08 21:32:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "由於市場預期不及預期，COREWEAVE 開盤下跌 7%。"
+    },
+    {
+      "id": "4868715",
+      "time": "2026-05-08 21:32:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "富倫斯能源開盤大漲 32%，投行羅斯上調評級轉為看好。"
+    },
+    {
+      "id": "4868714",
+      "time": "2026-05-08 21:31:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "FORWARD AIR股價開盤暴跌45%，創歷史新低。"
+    },
+    {
+      "id": "4868713",
+      "time": "2026-05-08 21:31:21",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "怪獸飲料公司股價上漲14%，創2017年3月以來最大漲幅。"
+    },
+    {
+      "id": "mkt:019e07c8-fc4b-7557-85c5-b0f1f1d46048",
+      "time": "2026-05-08 21:31:12",
+      "tags": [
+        "MKT News",
+        "COIN.O",
+        "Impact bearish"
+      ],
+      "text": "COINBASE GLOBAL SHARES FALL 4% AFTER CO LOGS SECOND STRAIGHT QUARTERLY LOSS"
+    },
+    {
+      "id": "mkt:019e07c8-ee70-7557-85c5-af61b3452761",
+      "time": "2026-05-08 21:31:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bullish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "US STOCKS OPEN HIGHER: DOW +0.38%, S&P 500 +0.44%, NASDAQ +0.54%"
+    },
+    {
+      "id": "4868712",
+      "time": "2026-05-08 21:31:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美媒體人稱美編造戰爭說辭如同夢話】在“今日俄羅斯”電視臺今天（5月8日）釋出的採訪影片中，美國媒體人、福克斯新聞臺前主播克萊頓·莫里斯指出，“美國政府圍繞對伊朗戰爭編造各種說辭，如同活在自己的幻想中。美國政府根本沒有結束這場戰爭的戰略或目標，已陷入了困境”。#美媒體人批美用一路轟炸幫伊朗人#莫里斯還指出，美國政府口口聲聲說要“幫助”伊朗人，要“解放伊朗女性”，可事實上，這所謂的“解放”和“幫助”，卻是透過轟炸伊朗學校和幼童、轟炸伊朗的橋樑等基礎設施來“實現”的——說美國是在“幫助”伊朗人，“簡直一派謊言”。莫里斯勸美國政府，“放過伊朗吧，也別再聽以色列的擺佈了。” （CCTV國際時訊）"
+    },
+    {
+      "id": "4868711",
+      "time": "2026-05-08 21:30:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股開盤：三大股指齊漲】道指漲0.44%，標普500指數漲0.46%，納指漲0.59%。阿克邁漲22.94%，怪物飲料漲10.82%，CPAY漲7.92%，XYZ漲6.79%，美光漲5.97%。“七姐妹”方面：特斯拉漲1.78%，蘋果漲1.57%，英偉達漲1.16%，亞馬遜跌0.12%，谷歌跌0.14%，Meta Platforms跌0.34%，微軟跌1.22%。"
+    },
+    {
+      "id": "4868710",
+      "time": "2026-05-08 21:30:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數漲超1%，百度漲6.17%，阿特斯漲4.02%，嗶哩嗶哩漲3.37%，萬國資料漲2.40%，騰訊音樂漲1.73%。"
+    },
+    {
+      "id": "4868709",
+      "time": "2026-05-08 21:30:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽維持對SMBC航空資本“BBB+”/穩定評級。"
+    },
+    {
+      "id": "te:markets:549271",
+      "time": "2026-05-08 21:30:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "UnitedHealth Stock Price Hits 27-week High — UnitedHealth shares increased to 373.22 USD, the highest since October 2025. Over the past 4 weeks, UnitedHealth gained 20.84%, and in the last 12 months, it decreased 4.1%."
+    },
+    {
+      "id": "4868708",
+      "time": "2026-05-08 21:29:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "【商務部：持續鞏固擴大中俄雙邊貿易規模 繼續穩定能源、礦產、糧食等大宗商品貿易】商務部歐亞司副司長馬馳8日在第十屆中國—俄羅斯博覽會新聞釋出會上介紹，商務部將會同有關部門，與俄方加強協作，推動中俄經貿合作提質升級，進一步豐富兩國關係發展內涵。首先是持續鞏固擴大雙邊貿易規模，商務部將繼續穩定能源、礦產、糧食等大宗商品貿易，在保障兩國產業鏈供應鏈安全穩定的同時，為世界經濟注入穩定性和新動能；商務部還將持續擴大機電產品和特色農產品、消費品貿易，加快培育跨境電商、海外倉，推動現代服務業升級，打造雙邊貿易新的增長點。"
+    },
+    {
+      "id": "4868707",
+      "time": "2026-05-08 21:29:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "愛迪生電力公司執行長表示：若達成和平協議，我們預計卡達將在30至45天內恢復供應液化天然氣，但供應量將低於此前水平。"
+    },
+    {
+      "id": "4868706",
+      "time": "2026-05-08 21:29:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄總統新聞秘書：俄羅斯將繼續與國際奧委會對話】俄羅斯總統新聞秘書佩斯科夫8日表示，俄羅斯將繼續就其運動員重返國際賽場問題與國際奧委會對話。（環球網）"
+    },
+    {
+      "id": "4868705",
+      "time": "2026-05-08 21:28:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽確認加拿大銀行航空業評級為“A-”，展望穩定。"
+    },
+    {
+      "id": "4868704",
+      "time": "2026-05-08 21:28:01",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "恩橋公司認為，美國墨西哥灣沿岸英格爾賽德出口碼頭4月、5月及6月的增量出口運力需求強勁。"
+    },
+    {
+      "id": "4868703",
+      "time": "2026-05-08 21:27:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【“來電島1號”在青島投入運營】5月8日，面向無人駕駛車的自動充電及運營系統“來電島1號”在山東省青島市亮相。據介紹，該系統整合立體車庫、充電機器人、泊車機器人與AI智慧體等，可實現全無人運營下的自動泊車、自動充電、智慧修車、虛擬電廠等功能，為無人駕駛規模化運營提供可複製方案。（新華社）"
+    },
+    {
+      "id": "4868702",
+      "time": "2026-05-08 21:27:22",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PTA連續主力合約日內跌1%，現報6322.00元。"
+    },
+    {
+      "id": "4868701",
+      "time": "2026-05-08 21:26:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "海關總署：即日起，允許符合相關要求的莫三比克野生水產品進口。"
+    },
+    {
+      "id": "4868700",
+      "time": "2026-05-08 21:26:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：明天的行動取決於今天的進一步情況。"
+    },
+    {
+      "id": "4868699",
+      "time": "2026-05-08 21:26:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國一汽與國家電投集團簽署數智化轉型合作框架協議】5月8日，中國一汽與國家電投集團簽署數智化轉型合作框架協議。雙方將圍繞數智化轉型體制機制設計、人才培養與能力建設、數智化平臺工具及AI應用、數智化應用服務、聯合創新與課題攻關等方面全方位開展合作。"
+    },
+    {
+      "id": "4868698",
+      "time": "2026-05-08 21:26:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "瑞銀將怪物飲料公司目標股價從80美元上調至84美元。"
+    },
+    {
+      "id": "4868697",
+      "time": "2026-05-08 21:25:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞銀將愛彼迎目標股價從153美元上調至157美元。"
+    },
+    {
+      "id": "4868696",
+      "time": "2026-05-08 21:25:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞銀將雅保目標價從230美元上調至264美元。"
+    },
+    {
+      "id": "4868695",
+      "time": "2026-05-08 21:24:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人表示，德黑蘭方面仍在斟酌對美方提案的答覆意見。"
+    },
+    {
+      "id": "mkt:019e07c2-b4f3-7229-aa59-620236081725",
+      "time": "2026-05-08 21:24:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact mixed",
+        "XAUUSD"
+      ],
+      "text": "IRAN SAYS US PROPOSAL TO END WAR IS UNDER REVIEW: TASNIM"
+    },
+    {
+      "id": "4868694",
+      "time": "2026-05-08 21:23:27",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【中梁控股：前4月累計合約銷售金額約為人民幣25.7億元】中梁控股公告，2026年1月至4月，公司累計合約銷售（包括合營企業及聯營公司的合約銷售）金額約為人民幣25.7億元，累計合約銷售面積約為26.1萬平方米，合約銷售均價約為人民幣9800元/平方米。2026年4月單月，公司合約銷售（包括合營企業及聯營公司的合約銷售）金額約為人民幣5.5億元，合約銷售面積約為54000平方米，合約銷售均價約為人民幣10200元/平方米。"
+    },
+    {
+      "id": "4868693",
+      "time": "2026-05-08 21:22:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗塔斯尼姆通訊社：伊朗表示正在審議美國提出的結束衝突提案。"
+    },
+    {
+      "id": "4868692",
+      "time": "2026-05-08 21:21:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【魯比奧稱預計伊朗8日回應美國提出的協議方案】正在義大利訪問的美國國務卿魯比奧8日在羅馬錶示，預計伊朗將於當日對美國提出的協議方案作出回應。據義大利安莎社報道，魯比奧8日在美國駐義大利大使館舉行的新聞釋出會上稱：“我們拭目以待，未來幾小時內將會有進展。伊朗目前處於分裂狀態，但我確實希望他們能提出一項嚴肅的提議。”(新華社)"
+    },
+    {
+      "id": "4868690",
+      "time": "2026-05-08 21:21:45",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "【經濟學家：加拿大就業轉弱強化加央行觀望預期】加拿大帝國商業銀行資本市場經濟學家Andrew Grantham表示，加拿大4月就業減少、失業率由6.7%升至6.9%，顯示勞動力市場的鬆弛程度正在加劇。加拿大4月就業人數減少1.77萬人，其中全職崗位再次下滑是主要拖累。2026年前四個月，加拿大全職就業累計減少約4.7萬人，降幅約0.3%。Grantham表示，勞動力市場鬆弛程度的加劇，應會限制油價衝擊向其他商品和服務領域擴散。他補充稱，這份資料進一步強化了加拿大帝國商業銀行對於加拿大央行將在2026年維持觀望立場的預期。"
+    },
+    {
+      "id": "4868689",
+      "time": "2026-05-08 21:19:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈塞特強調財政責任是解決債務問題的關鍵。"
+    },
+    {
+      "id": "4868688",
+      "time": "2026-05-08 21:19:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈塞特：除了財政責任之外，不會在債務問題上採取任何行動。"
+    },
+    {
+      "id": "4868687",
+      "time": "2026-05-08 21:19:06",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【烏官員稱該國防空系統導彈短缺 發射裝置處於“半空”狀態】當地時間5月8日，烏克蘭空軍發言人伊格納特表示，受導彈供應不足影響，烏防空部隊發射裝置處於“半空”狀態，防空系統陷入“飢餓配給”困境。伊格納特指出，導彈供應不足是制約烏防空能力的關鍵，彈藥消耗量激增是主要原因。目前烏空軍正透過多種國際渠道緊急爭取援助，甚至需請求盟友提供5至10枚導彈，用於主力防空系統。（央視新聞）"
+    },
+    {
+      "id": "4868686",
+      "time": "2026-05-08 21:18:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈塞特：認為需要增長才能控制赤字。"
+    },
+    {
+      "id": "4868685",
+      "time": "2026-05-08 21:18:31",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "哈塞特：我們相信強勢美元。"
+    },
+    {
+      "id": "4868684",
+      "time": "2026-05-08 21:18:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈塞特：行政部門絕不會以任何方式進行債務違約。"
+    },
+    {
+      "id": "4868683",
+      "time": "2026-05-08 21:17:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "哈塞特：預計歐盟將在7月4日前達成貿易協議。"
+    },
+    {
+      "id": "4868682",
+      "time": "2026-05-08 21:17:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國白宮國家經濟委員會主任哈塞特：不同意法院關於IEEPA的裁決。"
+    },
+    {
+      "id": "mkt:019e07bc-7718-7557-85c5-a628cfa2719d",
+      "time": "2026-05-08 21:17:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DAX",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "HASSETT: EXPECT EU TRADE DEAL BY FOURTH OF JULY"
+    },
+    {
+      "id": "4868681",
+      "time": "2026-05-08 21:17:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國防部長赫格塞思：正與特朗普總統步調一致，致力於在政府對‘不明異常現象’的認知方面，實現前所未有的透明度。這些曾深藏於機密等級背後的檔案，長期以來引發了種種合情合理的猜測——如今，是時候讓美國人民親眼一睹其真容了。"
+    },
+    {
+      "id": "4868680",
+      "time": "2026-05-08 21:17:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "哈塞特：備用方案將確保特朗普的貿易政策得以落實。"
+    },
+    {
+      "id": "mkt:019e07bc-1751-7557-85c5-9e0af129974e",
+      "time": "2026-05-08 21:17:03",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "HASSETT: BACKUP PLAN WILL ENSURE TRUMP'S TRADE POLICY MADE REAL"
+    },
+    {
+      "id": "4868679",
+      "time": "2026-05-08 21:16:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美高階官員稱美軍空襲數艘試圖突破封鎖的油輪】一名美國高階官員透露，美軍當天實施了空襲，目標為數艘試圖突破封鎖的空油輪。該官員表示，被襲擊船隻為“超大型原油運輸船”（VLCC），屬於“體積巨大的空船”，當時正試圖返回伊朗，並嘗試突破當前封鎖。當地時間5月8日，美國中央司令部表示，目前有超過70艘油輪因美軍行動無法進入或離開伊朗港口。美國中央司令部同時表示，目前針對伊朗港口的封鎖行動“仍全面有效”。（央視新聞）"
+    },
+    {
+      "id": "mkt:019e07bb-d048-7557-85c5-963f4e3980e3",
+      "time": "2026-05-08 21:16:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "HASSETT: DISAGREE WITH COURT'S DECISION ON IEEPA"
+    },
+    {
+      "id": "mkt:019e07bb-9d9e-7557-85c5-8804db79afd9",
+      "time": "2026-05-08 21:16:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "HASSETT: GREER WILL HAVE MORE TODAY ON LATEST TRADE RULING"
+    },
+    {
+      "id": "4868678",
+      "time": "2026-05-08 21:16:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈塞特：正在針對最新關稅裁決研究各種選項。"
+    },
+    {
+      "id": "mkt:019e07bb-8a64-7557-85c5-836b1bf05d65",
+      "time": "2026-05-08 21:16:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "HASSETT: THINK WE'LL SEE RATE CUTS THIS YEAR BECAUSE OF WARSH"
+    },
+    {
+      "id": "4868677",
+      "time": "2026-05-08 21:16:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈塞特：格里爾今天將帶來更多關於最新貿易裁決的資訊。"
+    },
+    {
+      "id": "mkt:019e07bb-6f0a-7557-85c5-785a59c2bdef",
+      "time": "2026-05-08 21:16:24",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "HASSETT: NO SIGN OF RUNAWAY INFLATION FOR FED TO RAISE RATES"
+    },
+    {
+      "id": "mkt:019e07bb-652b-7557-85c5-724ac7d9ac7c",
+      "time": "2026-05-08 21:16:22",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "US10Y",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "HASSETT: CORE INFLATION HAS REMAINED STABLE DESPITE OIL, JOBS"
+    },
+    {
+      "id": "mkt:019e07bb-55af-7557-85c5-6b2d772b4402",
+      "time": "2026-05-08 21:16:18",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "HASSETT: ONE ROBOTS GET BETTER, WE'LL NEED MORE RE-SKILL POLICY"
+    },
+    {
+      "id": "4868676",
+      "time": "2026-05-08 21:16:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈塞特：因為沃什，我認為今年我們會看到降息。"
+    },
+    {
+      "id": "mkt:019e07bb-4ae3-7557-85c5-648a9fe6966a",
+      "time": "2026-05-08 21:16:15",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Nasdaq100",
+        "Impact bullish",
+        "S&P500",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "HASSETT: AI-ADJACENT JOBS ARE THE ONES GROWING THE FASTEST"
+    },
+    {
+      "id": "mkt:019e07bb-39cf-7557-85c5-5a01a51110d8",
+      "time": "2026-05-08 21:16:10",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "HASSETT: DATA SHOWING PEOPLE USING AI TOOLS FOR THEIR JOBS"
+    },
+    {
+      "id": "mkt:019e07bb-2df3-7557-85c5-539398930553",
+      "time": "2026-05-08 21:16:07",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "HASSETT: PEOPLE SHOULD USE AI TOOLS FOR CAREER PROTECTION"
+    },
+    {
+      "id": "mkt:019e07bb-2210-7557-85c5-49e52b7f2fa2",
+      "time": "2026-05-08 21:16:04",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "HASSETT ON AI JOB LOSS: NOW WE'RE SEEING AI JOB CREATION"
+    },
+    {
+      "id": "4868675",
+      "time": "2026-05-08 21:14:57",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "巴西航空工業公司ADR迅速下跌至5%。"
+    },
+    {
+      "id": "4868674",
+      "time": "2026-05-08 21:14:21",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "哈塞特：美聯儲無需加息，因為沒有跡象表明通脹失控。"
+    },
     {
       "id": "4868673",
       "time": "2026-05-08 21:14:12",
@@ -25,6 +1806,14 @@
         "其他"
       ],
       "text": "哈塞特談人工智慧導致的失業：現在我們看到人工智慧正在創造就業。"
+    },
+    {
+      "id": "4868670",
+      "time": "2026-05-08 21:13:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "據美國媒體報道，美軍8日在霍爾木茲海峽對多艘試圖突破封鎖的空載伊朗油輪發動空襲。 （新華社）"
     },
     {
       "id": "4868669",
@@ -106271,1002 +108060,6 @@
         "國際"
       ],
       "text": "【報道：以色列評估戰事結束後伊朗政權仍有能力迅速重啟推進核計劃 】在美國與伊朗持續談判之際，以色列國防軍內部認為：美方對伊朗的軍事打擊目標雖已達成，但只要伊朗核計劃不撤出本土、鈾濃縮活動不停止，此前所有軍事行動都將淪為徹底失敗。 以色列軍方高層評估，即便伊朗的導彈設施、指揮總部及軍方指揮官遭到打擊，戰事結束後，伊朗政權仍有能力迅速重啟推進核計劃。"
-    },
-    {
-      "id": "4856266",
-      "time": "2026-05-01 22:15:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴克萊將蘋果目標價從248美元上調至253美元。"
-    },
-    {
-      "id": "4856265",
-      "time": "2026-05-01 22:13:29",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "航運資料顯示，委內瑞拉對美石油出口增至約每日44.5萬桶。"
-    },
-    {
-      "id": "4856264",
-      "time": "2026-05-01 22:13:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "航運資料顯示，美國雪佛龍、貿易商托克和維多，以及印度信實工業成為4月份委內瑞拉石油的最大接收方。"
-    },
-    {
-      "id": "4856263",
-      "time": "2026-05-01 22:13:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "航運資料顯示，委內瑞拉4月石油出口升至每日123萬桶。"
-    },
-    {
-      "id": "4856262",
-      "time": "2026-05-01 22:13:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "航運資料顯示，委內瑞拉對印度的石油出口增至每日約37.4萬桶。"
-    },
-    {
-      "id": "4856261",
-      "time": "2026-05-01 22:12:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "埃克森美孚執行長稱，公司計劃參與阿聯酋油氣增產專案。"
-    },
-    {
-      "id": "4856260",
-      "time": "2026-05-01 22:12:54",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內漲4%，現報76.67美元/盎司。"
-    },
-    {
-      "id": "4856259",
-      "time": "2026-05-01 22:12:51",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4670美元/盎司，日內漲0.88%。"
-    },
-    {
-      "id": "4856258",
-      "time": "2026-05-01 22:12:43",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油失守107美元/桶，日內跌3.22%。"
-    },
-    {
-      "id": "4856257",
-      "time": "2026-05-01 22:12:40",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內跌5%，現報99.81美元/桶。"
-    },
-    {
-      "id": "4856256",
-      "time": "2026-05-01 22:12:33",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4650美元/盎司，日內漲0.63%。"
-    },
-    {
-      "id": "4856255",
-      "time": "2026-05-01 22:12:29",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內跌3%，現報107.07美元/桶。"
-    },
-    {
-      "id": "4856254",
-      "time": "2026-05-01 22:12:19",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4660美元/盎司，日內漲0.66%。"
-    },
-    {
-      "id": "4856253",
-      "time": "2026-05-01 22:12:13",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【報道稱自二戰結束以來 美國債首次超過經濟總量】據美國福克斯商業頻道援引美國預算相關檔案報道，截至3月底，該國國債的總額超過了GDP總額，這是二戰結束以來首次出現此類情況。據美國商務部經濟分析局估計，截至3月31日，美國的債務總額約為31.27萬億美元。與此同時，當時美國GDP的規模估計為31.22萬億美元。據報道，上一次出現此類情況是在1946年，當時美國債佔GDP的比例為106%。"
-    },
-    {
-      "id": "4856252",
-      "time": "2026-05-01 22:12:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油失守100美元/桶，日內跌4.86%。"
-    },
-    {
-      "id": "4856251",
-      "time": "2026-05-01 22:11:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "埃克森美孚執行長表示，金帕斯專案第三列液化天然氣裝卸列車預計將於明年第二季度完工。"
-    },
-    {
-      "id": "4856250",
-      "time": "2026-05-01 22:11:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗足協主席：國家隊是否赴美參加世界盃仍需與國際足聯溝通協調】總檯記者當地時間5月1日獲悉，伊朗足協主席塔傑表示，伊朗國家隊是否前往美國參加世界盃相關賽事，仍需與國際足聯官員進行進一步溝通協調。塔傑指出，如果伊朗隊參賽，必須確保不會為球隊製造任何場外爭議或不利因素。（央視新聞）"
-    },
-    {
-      "id": "4856249",
-      "time": "2026-05-01 22:10:35",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "埃克森美孚 CEO：伊朗局勢並未改變公司對其液化天然氣資產組合的看法。"
-    },
-    {
-      "id": "4856248",
-      "time": "2026-05-01 22:09:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "美股光通訊股集體走高，lumentum漲逾7%，AAOI漲逾6%，雙雙創新高；Coherent漲約4%。"
-    },
-    {
-      "id": "4856247",
-      "time": "2026-05-01 22:08:43",
-      "tags": [
-        "市場"
-      ],
-      "text": "Quantum Leap Acquisition開盤價10美元，IPO發行價為10美元。"
-    },
-    {
-      "id": "4856246",
-      "time": "2026-05-01 22:07:59",
-      "tags": [
-        "其他",
-        "焦點",
-        "國際"
-      ],
-      "text": "市場訊息：德黑蘭同意透過技術專業委員會磋商核議題，承諾長期凍結鈾濃縮活動，並將導彈及軍備相關議題延後至後續階段再談判。"
-    },
-    {
-      "id": "4856245",
-      "time": "2026-05-01 22:07:27",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲洛根：通脹擔憂引發對前瞻指引的異議】達拉斯聯儲行長洛裡・洛根表示，她對通脹回落至美聯儲2%目標水平所需時長的擔憂日益加劇，並解釋了自己為何對最新政策宣告中的措辭持異議——該措辭暗示美聯儲下一步政策調整大機率會是降息。 她稱：“中東局勢衝突可能導致供應鏈中斷持續發酵或反覆出現，進而催生更多通脹上行壓力。” 在傑羅姆・鮑威爾擔任美聯儲主席的最後一次議息會議上，有三名官員對央行最新政策宣告投下反對票，理由是宣告立場過於鴿派。他們反對在美聯儲政策宣告中保留傾向寬鬆的表述，另外兩人分別是克利夫蘭聯儲行長貝絲・哈馬克與明尼阿波利斯聯儲行長尼爾・卡什卡里。 美聯儲理事斯蒂芬・米蘭主張降息，此次投下異議票，支援降息25個基點。 洛根表示，即便在本輪衝突爆發之前，她就認為美聯儲當前的利率政策立場已能很好應對經濟面臨的各類風險，這也釋放出訊號：重啟降息並無迫切必要性。 洛根指出，如同近期會後宣告所示，美聯儲對利率路徑的前瞻指引，是央行調控經濟的核心手段之一。她表示：“聯邦公開市場委員會像近期會後宣告那樣，對未來利率走勢給出前瞻指引，這類指引本身就是一項重要的政策工具。”"
-    },
-    {
-      "id": "4856243",
-      "time": "2026-05-01 22:05:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨黃金轉漲，最新上漲0.4%，報每盎司4638.14美元。"
-    },
-    {
-      "id": "4856242",
-      "time": "2026-05-01 22:04:58",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "雪佛龍股價在一季度財報釋出後下跌1.23%。"
-    },
-    {
-      "id": "4856241",
-      "time": "2026-05-01 22:04:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "Sculptor 設立資訊長辦公室，為萊文離職做人事鋪墊。"
-    },
-    {
-      "id": "4856240",
-      "time": "2026-05-01 22:04:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "惠譽評級：北美中游業務的下一階段增長將更有利於信用評級。"
-    },
-    {
-      "id": "4856239",
-      "time": "2026-05-01 22:04:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "彭博美元現貨指數在ISM不及格後跌至盤中低點。"
-    },
-    {
-      "id": "4856238",
-      "time": "2026-05-01 22:04:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國議員內部通告：一名古巴移民於4月28日在佐治亞州的美國移民羈押期間死亡。通告顯示，美國移民與海關執法局正就死亡事件展開調查，但初步懷疑為自殺。"
-    },
-    {
-      "id": "4856237",
-      "time": "2026-05-01 22:03:55",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國國債收益率小幅走低"
-    },
-    {
-      "id": "4856236",
-      "time": "2026-05-01 22:03:47",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲洛根：越來越擔心通脹前景，經濟前景非常不確定，通脹路徑前景不確定。就業市場保持穩定。"
-    },
-    {
-      "id": "4856235",
-      "time": "2026-05-01 22:02:56",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲洛根：戰事或將引發供應鏈長期中斷風險。"
-    },
-    {
-      "id": "4856234",
-      "time": "2026-05-01 22:02:41",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "洛根：美聯儲的下一步行動可能是加息或降息。"
-    },
-    {
-      "id": "4856233",
-      "time": "2026-05-01 22:02:28",
-      "tags": [
-        "央行",
-        "市場"
-      ],
-      "text": "英國國債價格上漲，交易員減少對英國央行2026年加息的押注。"
-    },
-    {
-      "id": "4856232",
-      "time": "2026-05-01 22:02:16",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期銀突破77美元/盎司，日內漲4.06%。"
-    },
-    {
-      "id": "4856231",
-      "time": "2026-05-01 22:02:09",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4640美元/盎司，日內漲0.41%。"
-    },
-    {
-      "id": "4856230",
-      "time": "2026-05-01 22:02:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4650美元/盎司，日內漲0.45%。"
-    },
-    {
-      "id": "4856229",
-      "time": "2026-05-01 22:02:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "蘋果股價漲幅擴大至5%以上，創8月以來最大漲幅。"
-    },
-    {
-      "id": "4856228",
-      "time": "2026-05-01 22:01:51",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲洛根：我對暗示下一步調整大機率為降息的表述持異議。前瞻指引是重要的政策工具。"
-    },
-    {
-      "id": "4856227",
-      "time": "2026-05-01 22:01:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "巴西國家石油公司將航空煤油價格上調18%。"
-    },
-    {
-      "id": "4856226",
-      "time": "2026-05-01 22:01:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國股指在4月ISM製造業採購經理人指數公佈後變動極小。"
-    },
-    {
-      "id": "4856225",
-      "time": "2026-05-01 22:00:39",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內漲4%，現報76.99美元/盎司。"
-    },
-    {
-      "id": "4856224",
-      "time": "2026-05-01 22:00:12",
-      "tags": [
-        "資料",
-        "國際"
-      ],
-      "text": "美國4月ISM就業指數 46.4，預期49，前值48.7；\n美國4月ISM製造業PMI 52.7，預期53，前值52.7。"
-    },
-    {
-      "id": "4856222",
-      "time": "2026-05-01 21:59:25",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納指漲1.00%，現報25142.101點；道指漲0.52%，現報49911.551點；標普500指數漲0.75%，現報7263.260點。"
-    },
-    {
-      "id": "4856221",
-      "time": "2026-05-01 21:59:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "納斯達克100指數漲1%。"
-    },
-    {
-      "id": "4856220",
-      "time": "2026-05-01 21:58:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "埃克森美孚執行長表示，公司將繼續關注委內瑞拉的投資機會。"
-    },
-    {
-      "id": "4856219",
-      "time": "2026-05-01 21:57:55",
-      "tags": [
-        "市場"
-      ],
-      "text": "西部資料轉漲。"
-    },
-    {
-      "id": "4856218",
-      "time": "2026-05-01 21:56:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "瑞銀獲得勞工機構許可，獲准開展退休基金管理業務。"
-    },
-    {
-      "id": "4856217",
-      "time": "2026-05-01 21:55:41",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油失守108美元/桶，日內跌2.19%。"
-    },
-    {
-      "id": "4856216",
-      "time": "2026-05-01 21:55:26",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內跌2%，現報108.06美元/桶。"
-    },
-    {
-      "id": "4856215",
-      "time": "2026-05-01 21:55:25",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【德副總理：德國不需要特朗普的“指點”】針對此前美國總統特朗普對德國政府和德國總理的批評，德國副總理兼財政部長克林拜爾5月1日表示，德國不需要特朗普的“指點”。據德新社報道，克林拜爾當天在德國北威州貝格卡門市舉行的一個活動上表示，德國“真的不需要特朗普的指點。他應該看看自己造成了哪些爛攤子。他應該確保現在能與伊朗進行嚴肅的和平談判”。（新華社）"
-    },
-    {
-      "id": "4856214",
-      "time": "2026-05-01 21:55:22",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油日內跌4%，現報100.83美元/桶。"
-    },
-    {
-      "id": "4856213",
-      "time": "2026-05-01 21:55:18",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油失守101美元/桶，日內跌3.94%。"
-    },
-    {
-      "id": "4856212",
-      "time": "2026-05-01 21:54:44",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗外長向多國同僚通報伊朗停戰立場。"
-    },
-    {
-      "id": "4856211",
-      "time": "2026-05-01 21:54:40",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨白銀突破76美元/盎司，日內漲3.22%。"
-    },
-    {
-      "id": "4856210",
-      "time": "2026-05-01 21:54:30",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內漲3%，現報75.95美元/盎司。"
-    },
-    {
-      "id": "4856209",
-      "time": "2026-05-01 21:53:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗官方媒體：伊朗外長向地區各國同僚通報情況。"
-    },
-    {
-      "id": "4856208",
-      "time": "2026-05-01 21:52:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "美元兌日元USD/JPY短線一度下挫約40點至156.32，後快速回升至156.64。"
-    },
-    {
-      "id": "4856207",
-      "time": "2026-05-01 21:52:20",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【支援老字號發展 海南出臺六項措施】據海南日報，近日，海南省商務廳、省財政廳、省市場監督管理局出臺《海南省支援老字號創新發展若干措施》，透過六項措施支援老字號創新發展。六項措施分別為支援老字號集聚區建設、支援市縣引進老字號品牌、支援市縣開展老字號促消費活動、強化老字號宣傳推廣、推廣老字號“必購必帶”、加強老字號行政指導。"
-    },
-    {
-      "id": "4856206",
-      "time": "2026-05-01 21:52:16",
-      "tags": [
-        "市場"
-      ],
-      "text": "英偉達股價一度轉跌。"
-    },
-    {
-      "id": "4856205",
-      "time": "2026-05-01 21:51:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國疾控中心報告新增 22 例麻疹病例；今年累計達 1814 例。"
-    },
-    {
-      "id": "4856204",
-      "time": "2026-05-01 21:51:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美歐要各自組建霍爾木茲海峽護航聯盟？法國外長這樣說】法國外交部長巴羅5月1日說，美國打算組建的霍爾木茲海峽國際聯盟與歐洲國家先前提出的護航方案“不是競爭關係”。被問及法國是否打算加入美方牽頭的所謂“聯盟”時，巴羅回覆，目前“無法置評”。（新華社）"
-    },
-    {
-      "id": "4856203",
-      "time": "2026-05-01 21:51:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本民眾就自衛隊員自民黨會上“唱國歌”再提訴訟】一批日本民眾4月30日就一名自衛隊隊員在執政黨自民黨的大會上唱日本國歌提起訴訟，指控這類行為屬於政治行為，違反自衛隊法。這是日本民眾3天內就“唱國歌”事件提起的第二起訴訟，被告包括首相高市早苗和其他高官。據日本多家媒體報道，30日，200多名民眾共同向東京地方檢察廳提起訴訟，被告包括唱國歌的陸上自衛隊員、陸上自衛隊幕僚長和組織大會的自民黨高官。（新華社）"
-    },
-    {
-      "id": "4856202",
-      "time": "2026-05-01 21:49:45",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "埃克森美孚執行長表示，一旦海峽重新開放，中東目前停產的產能可以相對較快地恢復生產，但受損的卡達液化天然氣生產線恢復則需要更長時間。"
-    },
-    {
-      "id": "4856201",
-      "time": "2026-05-01 21:49:30",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【歐洲央行管委Makhlouf：通脹上行風險加劇 經濟面臨“逆風”】歐洲央行管理委員會成員Gabriel Makhlouf表示，週四對歐元區經濟狀況的初步評估，加上消費者和企業信心走弱，表明經濟增長面臨“短期逆風”。這位愛爾蘭央行行長週五在一篇部落格文章中表示：“儘管最新資訊大體上與我們此前對通脹前景的評估一致，但通脹的上行風險和經濟增長的下行風險都已加劇。”Makhlouf表示，由於伊朗戰爭何時結束、霍爾木茲海峽何時重新開放都沒有明確時間表，他擔心能源價格在更長時間內維持高位的情景。中東戰爭如今已進入第3個月，而週四公佈的官方資料顯示，第一季度經濟增速放緩，而第一季度只涵蓋了戰事爆發後的第一個月。他的這番言論發表於歐洲央行行長克里斯蒂娜·拉加德前一天暗示將在下次會議上考慮加息之後，基本呼應了其他幾位歐洲央行官員週五表達的擔憂。德國央行行長Joachim Nagel表示，如果前景沒有改善，利率可能需要上升。愛沙尼亞的Madis Muller也提到了這一點，而奧地利央行行長Martin Kocher則呼籲給更多時間評估經濟面臨的風險。"
-    },
-    {
-      "id": "4856200",
-      "time": "2026-05-01 21:48:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "【“五一”假期首日，兩岸“小三通”航線客流量增長】5月1日，4條小三通航線共發航38班次，運送旅客6732人次，同比增長21.8%。其中： 廈金航線發航24班次，運送旅客5556人次，旅客量同比增長19.59%。 泉金航線發航4班次，運送旅客597人次，同比增長4.92%。（看臺海）"
-    },
-    {
-      "id": "4856199",
-      "time": "2026-05-01 21:48:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗最高領袖穆傑塔巴・哈梅內伊： 美國那些紙老虎軍事基地連自身都難保，更保護不了地區內那些依附、追捧美國的勢力。"
-    },
-    {
-      "id": "4856198",
-      "time": "2026-05-01 21:47:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "COATUE設立專項投資實體，拿地建設人工智慧資料中心。"
-    },
-    {
-      "id": "4856197",
-      "time": "2026-05-01 21:45:34",
-      "tags": [
-        "市場"
-      ],
-      "text": "閃迪轉漲，現上漲2%。"
-    },
-    {
-      "id": "4856196",
-      "time": "2026-05-01 21:45:05",
-      "tags": [
-        "資料",
-        "國際"
-      ],
-      "text": "美國4月標普全球製造業PMI終值 54.5，預期 54，初值 54。"
-    },
-    {
-      "id": "4856195",
-      "time": "2026-05-01 21:45:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內漲3%，現報76.25美元/盎司。"
-    },
-    {
-      "id": "4856194",
-      "time": "2026-05-01 21:41:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "高樂氏股價跌至2014年8月以來最低水平，最新跌幅約為10%。"
-    },
-    {
-      "id": "4856193",
-      "time": "2026-05-01 21:41:17",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期銀突破76美元/盎司，日內漲2.69%。"
-    },
-    {
-      "id": "4856192",
-      "time": "2026-05-01 21:41:14",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "第一季度財報公佈後， Rivian股價下跌4.42%。"
-    },
-    {
-      "id": "4856191",
-      "time": "2026-05-01 21:41:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "美銀全球研究將閃迪目標股價從1080美元上調至1550美元。"
-    },
-    {
-      "id": "4856190",
-      "time": "2026-05-01 21:41:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "【何小鵬認為純電汽車一定是未來】小鵬集團董事長、CEO何小鵬在《對話》中表示：“首先我認為純電一定是未來，但是我認為在過程中間，混動，例如增程，一定是過渡的中間態。”蔚來創始人、董事長、CEO李斌表示：“我覺得不同的時間點、不同的區域，其實會有合適的能源動力形式的選擇。我們從一開始就選擇了一條終局，以終為始去看這個事。”（央視財經）"
-    },
-    {
-      "id": "4856189",
-      "time": "2026-05-01 21:39:49",
-      "tags": [
-        "市場"
-      ],
-      "text": "芝加哥期權交易所波動率指數跌至兩個多月來的最低水平，尾盤下跌0.17點，報16.72點。"
-    },
-    {
-      "id": "4856188",
-      "time": "2026-05-01 21:39:35",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "據 Axios 記者：知情人士透露，白宮特使史蒂夫・威特科夫週一向伊方提交了一份修正案清單，核心要求是將核議題重新納入協議草案文字。 訊息人士稱，其中一項修正案要求：在談判持續期間，伊朗必須承諾不得將任何濃縮鈾從遭空襲的核設施轉移出去，也不得在這些設施重啟任何核相關活動。"
-    },
-    {
-      "id": "4856187",
-      "time": "2026-05-01 21:38:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國週一向伊朗傳送了一份修正案清單。"
-    },
-    {
-      "id": "4856186",
-      "time": "2026-05-01 21:38:49",
-      "tags": [
-        "市場"
-      ],
-      "text": "禮來股價上漲4.3%，報974.548美元/股，總市值報9178億美元。"
-    },
-    {
-      "id": "4856185",
-      "time": "2026-05-01 21:38:15",
-      "tags": [
-        "市場"
-      ],
-      "text": "甲骨文股價上漲5.1%，報169.640美元/股，總市值報4879億美元。"
-    },
-    {
-      "id": "4856184",
-      "time": "2026-05-01 21:37:49",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "根據美國證券交易委員會（SEC）檔案： 黑石私募信貸基金提交I類、S類及D類股份發行申請，融資總規模最高達450億美元。"
-    },
-    {
-      "id": "4856183",
-      "time": "2026-05-01 21:36:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "美銀全球研究將蘋果目標股價從325美元上調至330美元。"
-    },
-    {
-      "id": "4856182",
-      "time": "2026-05-01 21:35:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國汽車工人聯合會計劃在斯特蘭蒂斯密歇根州 Ram 1500 皮卡工廠舉行罷工投票。"
-    },
-    {
-      "id": "4856181",
-      "time": "2026-05-01 21:35:44",
-      "tags": [
-        "市場"
-      ],
-      "text": "高樂氏股價下跌10%，創2022年以來最大單日跌幅。"
-    },
-    {
-      "id": "4856180",
-      "time": "2026-05-01 21:34:43",
-      "tags": [
-        "市場"
-      ],
-      "text": "莫德納股價在釋出第一季度業績後下跌3.1%。"
-    },
-    {
-      "id": "4856179",
-      "time": "2026-05-01 21:34:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2026五一檔檔期票房破2億】據貓眼專業版資料， 截至5月1日13時14分，2026年五一檔（5月1日-5月5日）總票房破億，《寒戰1994》《消失的人》《穿普拉達的女王2》分列檔期票房榜前三位。"
-    },
-    {
-      "id": "4856178",
-      "time": "2026-05-01 21:34:06",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "芝加哥期權交易所全球市場公司股價在一季度利潤增長、計劃裁員20%後創歷史新高，最新上漲8.3%。"
-    },
-    {
-      "id": "4856177",
-      "time": "2026-05-01 21:33:36",
-      "tags": [
-        "市場"
-      ],
-      "text": "高露潔-棕欖第一季度業績超預期，股價上漲約2%。"
-    },
-    {
-      "id": "4856176",
-      "time": "2026-05-01 21:33:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內跌3%，現報101.90美元/桶。"
-    },
-    {
-      "id": "4856175",
-      "time": "2026-05-01 21:33:12",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油失守102美元/桶，日內跌2.98%。"
-    },
-    {
-      "id": "4856174",
-      "time": "2026-05-01 21:33:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "ROBLOX股價暴跌24%，創下2022年2月以來最大單日跌幅。"
-    },
-    {
-      "id": "4856173",
-      "time": "2026-05-01 21:33:04",
-      "tags": [
-        "資料",
-        "市場",
-        "其他"
-      ],
-      "text": "納斯達克綜合指數首次突破25000點。"
-    },
-    {
-      "id": "4856172",
-      "time": "2026-05-01 21:33:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油失守109美元/桶，日內跌1.28%。"
-    },
-    {
-      "id": "4856171",
-      "time": "2026-05-01 21:32:46",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數、納斯達克綜合指數盤初漲0.37%、0.54%，二者同創記錄新高。"
-    },
-    {
-      "id": "4856170",
-      "time": "2026-05-01 21:32:34",
-      "tags": [
-        "市場"
-      ],
-      "text": "費城半導體指數開盤走低，最新下跌近1%。"
-    },
-    {
-      "id": "4856169",
-      "time": "2026-05-01 21:32:25",
-      "tags": [
-        "公司",
-        "焦點",
-        "國際"
-      ],
-      "text": "【巴基斯坦官員：伊朗針對美方和平協議條款的最新答覆已送達美方】巴基斯坦官員稱，伊朗針對美方和平協議條款的最新答覆已送達美方官員手中。巴基斯坦官員週五向哥倫比亞廣播公司（CBS）透露，伊朗針對美方最新停戰條件給出了修訂版回應，並已轉達給美國官方。這也印證了伊朗官方媒體的報道：伊朗已提出新方案，至少願意舉行第二輪直接和平談判。巴方官員表示，德黑蘭透過巴基斯坦斡旋方，就美方在停戰協議上提出的最新修改條件，向美方遞交了一份修訂答覆。"
-    },
-    {
-      "id": "4856168",
-      "time": "2026-05-01 21:31:59",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "蘋果股價上漲3.9%，此前公司公佈第三季度銷售額預測高於市場預期。"
-    },
-    {
-      "id": "4856167",
-      "time": "2026-05-01 21:31:20",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "Reddit股價上漲12.9%，此前該公司公佈第二季度收入預測高於市場預期。"
-    },
-    {
-      "id": "4856166",
-      "time": "2026-05-01 21:31:18",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內跌1%，現報109.28美元/桶。"
-    },
-    {
-      "id": "4856165",
-      "time": "2026-05-01 21:31:11",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "羅布樂思股價下跌23.1%，此前該公司下調了全年預訂收入預期。"
-    },
-    {
-      "id": "4856164",
-      "time": "2026-05-01 21:31:05",
-      "tags": [
-        "市場"
-      ],
-      "text": "閃迪第三財季業績公佈後股價下跌3.1%。"
-    },
-    {
-      "id": "4856163",
-      "time": "2026-05-01 21:30:52",
-      "tags": [
-        "市場"
-      ],
-      "text": "西部資料股價在第三季度業績公佈後下跌6.4%。"
-    },
-    {
-      "id": "4856162",
-      "time": "2026-05-01 21:30:47",
-      "tags": [
-        "市場"
-      ],
-      "text": "雅詩蘭黛股價上漲13%，創2025年4月以來最大單日漲幅。"
-    },
-    {
-      "id": "4856161",
-      "time": "2026-05-01 21:30:45",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股開盤：三大股指齊漲】道指漲0.35%，標普500指數漲0.33%，納指漲0.42%。Atlassian漲22.29%，雅詩蘭黛漲10.16%，GoDaddy漲7.29%，PSKY漲6.93%，芝加哥期權交易所漲6.69%，工時公司漲5.70%。“七姐妹”方面：蘋果漲3.60%，微軟漲1.33%，英偉達漲1.01%，Meta Platforms漲0.88%，特斯拉漲0.69%，亞馬遜跌0.66%，谷歌跌1.37%。"
-    },
-    {
-      "id": "4856160",
-      "time": "2026-05-01 21:30:28",
-      "tags": [
-        "資料"
-      ],
-      "text": "加拿大4月RBC製造業PMI 53.3，前值 50。"
-    },
-    {
-      "id": "4856159",
-      "time": "2026-05-01 21:30:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴基斯坦官方：伊朗針對美國和平協議條件的最新回應，已轉交美方官員  。"
-    },
-    {
-      "id": "4856158",
-      "time": "2026-05-01 21:29:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "【473.8萬人次！長三角鐵路創單日客髮量歷史新高】記者5月1日從中國鐵路上海局集團有限公司獲悉，5月1日，長三角鐵路傳送旅客473.8萬人次，超過今年4月4日創下的單日傳送旅客466萬人次的最高紀錄，創下單日客髮量歷史新高。（上證報）"
-    },
-    {
-      "id": "4856157",
-      "time": "2026-05-01 21:28:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣東“五一”假期首日4A級以上景區接待遊客341.6萬人次】據廣東省文化和旅遊廳初步測算，2026年五一假期第一天（5月1日），全省4A級及以上景區接待遊客341.6萬人次，同比增長7.7%；納入監測的14段古驛道沿線重點區域接待遊客51.5萬人次，同比增長6.4%；納入監測的13家紅色旅遊經典景區接待遊客26.1萬人次，同比增長6.0%；納入監測的100個鄉村旅遊點和歷史古村落接待遊客44.4萬人次，同比增長6.8%；納入監測的80個重點公共文化機構接待市民遊客19.0萬人，同比增長5.3%。（21財經）"
-    },
-    {
-      "id": "4856156",
-      "time": "2026-05-01 21:24:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以軍向黎巴嫩南部一村莊釋出緊急撤離警告】當地時間5月1日下午，以色列國防軍向黎巴嫩南部哈布什村居民釋出緊急撤離警告，要求該村居民向村莊外撤離至距離不少於1000米的開闊地帶。以軍稱，鑑於黎巴嫩真主黨違反停火協議，以軍將對其採取強力行動。以軍警告稱，任何靠近黎真主黨武裝人員、設施及武器裝備的人員都將面臨生命危險。（央視新聞）"
-    },
-    {
-      "id": "4856155",
-      "time": "2026-05-01 21:24:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "【“贛超”賽場免費為中小微和“三農”企業打廣告】1日晚，2026年江西省城市足球超級聯賽（簡稱“贛超”）揭幕戰在南昌國際體育中心打響。賽場邊新換的LED廣告屏上，滾動的不只有大品牌，8家“三農”企業和4家中小微企業的商標首次免費“亮相”。（新華社）"
-    },
-    {
-      "id": "4856154",
-      "time": "2026-05-01 21:23:50",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "潘興廣場控股公司執行長阿克曼收購潘興廣場美國有限公司4,897,171股股票。"
-    },
-    {
-      "id": "4856153",
-      "time": "2026-05-01 21:23:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "比爾・阿克曼透過美股 4 號公告披露已增持潘興廣場股票。"
-    },
-    {
-      "id": "4856152",
-      "time": "2026-05-01 21:21:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "據美國媒體5月1日報道，一架小型飛機在得克薩斯州奧斯汀附近墜毀，機上5人全部遇難。（新華社）"
-    },
-    {
-      "id": "4856151",
-      "time": "2026-05-01 21:19:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "貝萊德私人信貸基金：該基金將收購至多9310萬股由本基金股東所投出、且未按發盤說明撤回的股份。"
-    },
-    {
-      "id": "4856150",
-      "time": "2026-05-01 21:18:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "內塔尼亞胡釋出一段健身房影片，以此證明自己身體健康。"
-    },
-    {
-      "id": "4856149",
-      "time": "2026-05-01 21:18:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：據調查，16%的美國人支援美國退出北約。"
-    },
-    {
-      "id": "4856148",
-      "time": "2026-05-01 21:16:26",
-      "tags": [
-        "央行",
-        "資料",
-        "市場",
-        "國際"
-      ],
-      "text": "【在戰爭引發通脹擔憂的情況下美國國債收益率變動不大】隨著伊朗戰爭進入第三個月且石油貿易正常化毫無跡象，美國國債收益率變動不大。原油期貨下滑，但仍高於100美元。明尼阿波利斯聯邦儲備銀行的卡什卡利及其克利夫蘭聯儲的同僚哈馬克在各自的宣告中表達了對戰爭引發通脹的擔憂，並解釋了他們為何反對央行暗示下一步最可能舉措是降息的溝通方式。平均預期顯示，4月份美國製造業採購經理人指數(PMI)預計將從52.3小幅升至53.9。10年期美國國債收益率報4.386%，昨日為4.389%。兩年期美國國債收益率從3.883%小幅升至3.888%。"
-    },
-    {
-      "id": "4856147",
-      "time": "2026-05-01 21:14:46",
-      "tags": [
-        "市場"
-      ],
-      "text": "HF Sinclair表示，隨著燃油價格持續上漲，已開始觀察到出行需求出現一定下滑。"
     }
   ]
 }
