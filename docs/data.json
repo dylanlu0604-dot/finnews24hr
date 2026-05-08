@@ -1,7 +1,81 @@
 {
-  "updated": "2026-05-09 02:00:22",
-  "count": 12411,
+  "updated": "2026-05-09 02:03:40",
+  "count": 12413,
   "items": [
+    {
+      "id": "4869023",
+      "time": "2026-05-09 02:02:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：結束這場重大沖突的談判仍在進行當中，我們每天都在不斷拉近談判距離，距離達成共識越來越近。"
+    },
+    {
+      "id": "4869022",
+      "time": "2026-05-09 02:02:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：停火協議將包含停止所有軍事行動，同時雙方將互換各 1000 名囚犯。"
+    },
+    {
+      "id": "mkt:019e08c0-de40-7222-b4a9-809cc2695592",
+      "time": "2026-05-09 02:01:57",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "TRUMP: TALKS ARE CONTINUING ON ENDING THIS MAJOR CONFLICT AND WE ARE GETTING CLOSER AND CLOSER EVERY DAY"
+    },
+    {
+      "id": "4869021",
+      "time": "2026-05-09 02:01:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：本次停火將包括暫停一切動能軍事行動，此外還將實施雙方各交換1000名囚犯的換囚安排。"
+    },
+    {
+      "id": "mkt:019e08c0-bbaa-7222-b4a9-7dce330d7be8",
+      "time": "2026-05-09 02:01:49",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "TRUMP: THIS CEASEFIRE WILL INCLUDE A SUSPENSION OF ALL KINETIC ACTIVITY, AND ALSO A PRISON SWAP OF 1,000 PRISONERS FROM EACH COUNTRY"
+    },
+    {
+      "id": "mkt:019e08c0-a9f4-7222-b4a9-7421d45e0032",
+      "time": "2026-05-09 02:01:44",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "TRUMP: THERE WILL BE A THREE DAY CEASEFIRE (MAY 9TH, 10TH, AND 11TH) IN WAR BETWEEN RUSSIA AND UKRAINE TRUMP ON IRAN: TALKS ARE CONTINUING ON ENDING THIS MAJOR CONFLICT"
+    },
+    {
+      "id": "4869020",
+      "time": "2026-05-09 02:01:42",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：俄羅斯與烏克蘭戰爭將停火三天（5月9日、10日及11日）。"
+    },
     {
       "id": "mkt:019e08bb-fc60-7222-b4a9-6b1ff3ba74c5",
       "time": "2026-05-09 01:56:37",
@@ -108959,49 +109033,6 @@
         "國際"
       ],
       "text": "以色列藉助鐵穹導彈系統協助阿聯酋進行防禦。"
-    },
-    {
-      "id": "4856527",
-      "time": "2026-05-02 02:03:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐洲汽車製造商協會總幹事表示：若恢復27.5%的關稅，且貿易爭端持續無期限，將對歐洲汽車製造商、從業人員以及更廣泛的歐盟經濟造成嚴重損害。"
-    },
-    {
-      "id": "4856526",
-      "time": "2026-05-02 02:02:35",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "特朗普媒體科技集團(DJT.O)計劃將Truth Social和 Truth+拆分成立獨立的上市公司。"
-    },
-    {
-      "id": "4856525",
-      "time": "2026-05-02 02:01:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐洲汽車製造商協會對美國總統特朗普的關稅言論未作評論，但敦促歐盟立法者儘快完成立法透過。"
-    },
-    {
-      "id": "4856524",
-      "time": "2026-05-02 02:00:40",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲鮑曼：Mythos表明AI工具的“動態本性”。"
-    },
-    {
-      "id": "4856523",
-      "time": "2026-05-02 02:00:27",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲鮑曼：美聯儲將考慮對人工智慧工具採取監管方式。"
     }
   ]
 }
