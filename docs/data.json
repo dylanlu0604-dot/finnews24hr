@@ -1,7 +1,62 @@
 {
-  "updated": "2026-05-09 00:49:31",
-  "count": 12396,
+  "updated": "2026-05-09 00:53:03",
+  "count": 12400,
   "items": [
+    {
+      "id": "mkt:019e0880-3538-7aa7-bba7-c49a577646de",
+      "time": "2026-05-09 00:51:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Apple",
+        "NVIDIA",
+        "Market Themes",
+        "Chip Wars",
+        "Magnificent 7",
+        "INTC.O",
+        "Impact bullish",
+        "AAPL.O"
+      ],
+      "text": "【Apple, Intel Reach Preliminary Deal on Chip Manufacturing for Apple Devices】Apple and Intel have reached a preliminary agreement for Intel to manufacture some chips for Apple devices, following more than a year of talks, according to people familiar with the matter. The Trump administration helped facilitate the deal after converting nearly $9 billion in federal grants into a 10% stake in Intel. Commerce Secretary Howard Lutnick reportedly met with Apple CEO Tim Cook, Elon Musk and Nvidia CEO Jensen Huang to encourage partnerships with Intel. Apple currently relies on TSMC for chip production and has cited advanced chip shortages as a constraint on supply."
+    },
+    {
+      "id": "4868984",
+      "time": "2026-05-09 00:51:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "英特爾股價短線直線拉昇，盤中大漲10%，市值突破6000億美元。"
+    },
+    {
+      "id": "mkt:019e087e-eedf-7aa7-bba7-b8cd65b82edd",
+      "time": "2026-05-09 00:49:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Chip Wars",
+        "Magnificent 7",
+        "INTC.O",
+        "Impact bullish",
+        "AAPL.O",
+        "Impact mixed"
+      ],
+      "text": "APPLE, INTEL HAVE REACHED AGREEMENT FOR INTEL TO MAKE CHIPS IN APPLE DEVICES, SOURCES SAY -- WSJ"
+    },
+    {
+      "id": "4868983",
+      "time": "2026-05-09 00:49:26",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "市場訊息：蘋果與英特爾達成初步晶片製造協議。"
+    },
     {
       "id": "4868982",
       "time": "2026-05-09 00:47:56",
