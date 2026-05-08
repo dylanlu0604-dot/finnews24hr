@@ -1,7 +1,18 @@
 {
-  "updated": "2026-05-09 06:12:46",
+  "updated": "2026-05-09 06:18:06",
   "count": 12579,
   "items": [
+    {
+      "id": "te:markets:549353",
+      "time": "2026-05-09 06:15:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Norwegian Krone Appreciates by 1.06% — Top currency gainers are Norwegian Krone (1.06%), Brazilian Real (0.99%), Mexican Peso (0.75%), British Pound (0.60%), Euro (0.53%) and Japanese Yen (0.19%). Biggest losers are South Korean Won (-0.25%) and Dollar Index (-0.23%)."
+    },
     {
       "id": "4869315",
       "time": "2026-05-09 06:09:19",
@@ -110661,15 +110672,6 @@
         "國際"
       ],
       "text": "【美在中東8國16處軍事設施受損】據美國有線電視新聞網（CNN）當地時間5月1日報道，根據其調查，伊朗及抵抗陣線“破壞了中東8個國家至少16處美國軍事設施”，其中一些設施已“幾乎無法使用”。報道稱，調查是根據數十張衛星影象，並採訪美國及海灣國家的多名知情人士進行的。衛星影象顯示，伊朗的主要打擊目標包括先進的雷達系統、通訊系統和飛機。這些資產大多“價格昂貴且難以替換”。 報道稱，駐有美國軍事設施的美國海灣盟國在伊朗的反擊中首當其衝，並私下批評美國在沒有與盟友協商的情況下發動戰爭。（CCTV國際時訊）"
-    },
-    {
-      "id": "4856650",
-      "time": "2026-05-02 06:17:13",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國國務院批准向阿聯酋潛在出售先進精確殺傷武器系統，交易金額 1.476 億美元。"
     }
   ]
 }
