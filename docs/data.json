@@ -1,7 +1,19 @@
 {
-  "updated": "2026-05-08 08:35:04",
+  "updated": "2026-05-08 08:38:32",
   "count": 11080,
   "items": [
+    {
+      "id": "te:economy:548958",
+      "time": "2026-05-08 08:35:44",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Services PMI",
+        "Importance 2"
+      ],
+      "text": "Japan Services Activity Expansion Revised Downward — Japan’s S&P Global Services PMI was revised slightly lower to 51.0 in April 2026 from 51.2 in the flash reading and down from March’s final 53.4, signalling a thirteenth successive month of expansion. However, the latest reading remained the lowest figure since May 2025, as new orders grew at the slowest pace since last October, while foreign sales declined for the first time in five months, albeit modestly."
+    },
     {
       "id": "4867333",
       "time": "2026-05-08 08:34:48",
@@ -95082,14 +95094,6 @@
         "國際"
       ],
       "text": "Wolfe Research首席經濟學家Stephanie Roth：從勞動力市場形勢以及居高不下的通脹來看，經濟資料短期內不支援美聯儲降息。"
-    },
-    {
-      "id": "4854892",
-      "time": "2026-05-01 08:35:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "【預計傳送旅客82.8萬人次 鐵路上海站今迎“五一”假期客流最高峰】從鐵路上海站（下轄上海站、上海南站、上海虹橋站、上海松江站、上海西站、南翔北站、安亭北站、安亭西站、金山北站、練塘站）獲悉，5月1日，鐵路上海站迎來“五一”假期客流最高峰，預計傳送旅客82.8萬人次（上海站21.3萬人次，上海南站12.5萬人次，上海虹橋站42.5萬人次，上海松江站5.9萬人次，其他車站共0.6萬人次），同比增長7.4%。"
     }
   ]
 }
