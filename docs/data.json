@@ -1,7 +1,296 @@
 {
-  "updated": "2026-05-09 02:27:18",
-  "count": 12409,
+  "updated": "2026-05-09 02:51:19",
+  "count": 12420,
   "items": [
+    {
+      "id": "mkt:019e08eb-83ef-7222-b4a9-f9e7ff43ed9e",
+      "time": "2026-05-09 02:48:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "KREMLIN: RUSSIA ALSO AGREED TO CARRY OUT POW SWAP - IFX"
+    },
+    {
+      "id": "mkt:019e08ea-f487-7222-b4a9-f7ec07112335",
+      "time": "2026-05-09 02:47:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "LARGE PLUME OF SMOKE SEEN AFTER EXPLOSION AT CHALMETTE REFINERY - LOCAL MEDIA"
+    },
+    {
+      "id": "mkt:019e08ea-e045-7222-b4a9-e89bc19889e4",
+      "time": "2026-05-09 02:47:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "KREMLIN: RUSSIA AGREED TO CEASEFIRE PROPOSED BY TRUMP - IFX"
+    },
+    {
+      "id": "4869050",
+      "time": "2026-05-09 02:46:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "據IFX： 俄羅斯同意特朗普提出的 5 月 9 日至 11 日停火計劃。"
+    },
+    {
+      "id": "mkt:019e08e9-2966-7222-b4a9-e6c30cb3fb4a",
+      "time": "2026-05-09 02:45:58",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "GOOGLE’S ISOMORPHIC LABS TO RAISE OVER $2 BILLION IN NEW FUNDING"
+    },
+    {
+      "id": "mkt:019e08e5-485f-7222-b4a9-d8d78c4f2af2",
+      "time": "2026-05-09 02:41:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UKRAINE'S ZELENSKIY ISSUES DECREE 'ALLOWING' MOSCOW VICTORY DAY PARADE TO PROCEED, ENSURING NO WEAPONS AIMED AT RED SQUARE"
+    },
+    {
+      "id": "4869049",
+      "time": "2026-05-09 02:41:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基簽署法令，默許莫斯科勝利日閱兵照常舉行，並確保不會有武器瞄準紅場。"
+    },
+    {
+      "id": "4869048",
+      "time": "2026-05-09 02:41:11",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：美聯儲資產負債表具備縮減空間，但是否有必要縮減尚不明確。"
+    },
+    {
+      "id": "mkt:019e08e4-a866-7222-b4a9-d3b78c7c8c28",
+      "time": "2026-05-09 02:41:03",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bearish",
+        "S&P500",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "FED'S GOOLSBEE: FED BALANCE SHEET CAN BE SMALLER BUT UNCLEAR IT NEEDS TO BE"
+    },
+    {
+      "id": "mkt:019e08e4-8f66-7222-b4a9-ced638c6f29d",
+      "time": "2026-05-09 02:40:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "FED'S GOOLSBEE: OPEN TO CONSIDER WARSH IDEAS ABOUT CHANGING FED COMMUNICATIONS"
+    },
+    {
+      "id": "4869047",
+      "time": "2026-05-09 02:40:39",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：願意考慮沃什提出的改革美聯儲溝通機制相關建議。"
+    },
+    {
+      "id": "4869043",
+      "time": "2026-05-09 02:39:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌旗下 Isomorphic Labs 擬募資 20 億美元新一輪融資。"
+    },
+    {
+      "id": "mkt:019e08e2-5e3f-7222-b4a9-c2c85a50d982",
+      "time": "2026-05-09 02:38:33",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "FED'S GOOLSBEE: A STAGFLATION SHOCK IS ONE OF THE WORST THINGS FOR A CENTRAL BANK TO DEAL WITH"
+    },
+    {
+      "id": "mkt:019e08e1-0de6-7222-b4a9-bc887b3a9e49",
+      "time": "2026-05-09 02:37:07",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "FED'S GOOLSBEE: WE HAVE TO PAY ATTENTION TO INFLATION RATE WHEN PRICE PRESSURES MOUNTING"
+    },
+    {
+      "id": "4869042",
+      "time": "2026-05-09 02:36:37",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：當物價壓力不斷升溫時，我們必須關注通脹率。"
+    },
+    {
+      "id": "4869041",
+      "time": "2026-05-09 02:36:14",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：若認為美聯儲眼前只剩降息一條路徑，這種看法是錯誤的。"
+    },
+    {
+      "id": "mkt:019e08e0-3dbd-7222-b4a9-b10b72c872a3",
+      "time": "2026-05-09 02:36:14",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "FED'S GOOLSBEE: WOULD BE WRONG TO ONLY THINK ONLY RATE CUTS ARE BEFORE THE FED"
+    },
+    {
+      "id": "4869040",
+      "time": "2026-05-09 02:33:34",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：通脹是當下最受關注的議題。"
+    },
+    {
+      "id": "4869039",
+      "time": "2026-05-09 02:33:17",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：仍樂觀認為利率有望下行。"
+    },
+    {
+      "id": "mkt:019e08dd-6fa9-7222-b4a9-a8272b3cf4ca",
+      "time": "2026-05-09 02:33:08",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "FED'S GOOLSBEE: INFLATION IS \"THE TOPIC OF THE MOMENT\""
+    },
+    {
+      "id": "4869038",
+      "time": "2026-05-09 02:32:35",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：若通脹進展符合預期，將推動利率下調，但目前尚未出現這種情況。"
+    },
+    {
+      "id": "mkt:019e08dc-da58-7222-b4a9-a047bf8f5c85",
+      "time": "2026-05-09 02:32:31",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "FED'S GOOLSBEE: OPTIMISTIC PROGRESS ON INFLATION WOULD LEAD TO LOWER RATES, BUT NOT HAPPENING YET"
+    },
+    {
+      "id": "4869037",
+      "time": "2026-05-09 02:31:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI 6月原油期貨收報95.42美元/桶。NYMEX 6月天然氣期貨收報2.7570美元/百萬英熱單位。NYMEX 6月汽油期貨收報3.5267美元/加侖，NYMEX 6月取暖油期貨收報3.8991美元/加侖。"
+    },
+    {
+      "id": "mkt:019e08db-66ff-7222-b4a9-9d4edbd305cc",
+      "time": "2026-05-09 02:30:56",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "U.S. CRUDE OIL FUTURES SETTLE AT $95.42/BBL, UP 61 CENTS, 0.64 PCT"
+    },
+    {
+      "id": "te:markets:549339",
+      "time": "2026-05-09 02:30:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: XRP Rises by 2.44% — Top crypto gainers are XRP (2.44%), Binance (1.70%), Ether (1.19%) and Bitcoin (0.28%)."
+    },
+    {
+      "id": "4869036",
+      "time": "2026-05-09 02:30:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普稱俄烏9日起停火三天並交換戰俘】美國總統特朗普8日在社交媒體發文稱，俄羅斯和烏克蘭將從9日開始停火三天，雙方還將相互交換1000名戰俘。特朗普所說停火日期與俄烏先前各自發布的停火安排有所出入。（新華社）"
+    },
+    {
+      "id": "4869035",
+      "time": "2026-05-09 02:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收漲0.58%，報626.30元人民幣/桶。滬金夜盤收跌0.21%，滬銀收漲0.09%。"
+    },
+    {
+      "id": "4869034",
+      "time": "2026-05-09 02:28:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基證實了特朗普宣佈的為期三天停火的訊息。"
+    },
+    {
+      "id": "mkt:019e08d8-9f56-7222-b4a9-969d57b56664",
+      "time": "2026-05-09 02:27:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UKRAINE'S ZELENSKIY CONFIRMS TRUMP’S ANNOUNCEMENT OF THREE-DAY CEASEFIRE ZELENSKIY SAYS UKRAINE AND RUSSIA WILL EXCHANGE 1000 PRISONERS EACH"
+    },
     {
       "id": "mkt:019e08d6-481e-7222-b4a9-8b6b3def4893",
       "time": "2026-05-09 02:25:21",
@@ -108859,153 +109148,6 @@
         "國際"
       ],
       "text": "伊朗司法部長：我們不想要戰爭，我們也不希望它繼續。"
-    },
-    {
-      "id": "4856563",
-      "time": "2026-05-02 02:46:51",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數漲幅收窄，觸及盤中低點。"
-    },
-    {
-      "id": "4856562",
-      "time": "2026-05-02 02:46:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "白宮正式告知國會：儘管美軍仍駐紮在該地區，但美方認定與伊朗的衝突已宣告結束。"
-    },
-    {
-      "id": "4856561",
-      "time": "2026-05-02 02:45:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "【受美國拖欠會費等因素影響 世貿組織計劃削減10%預算】總檯記者當地時間5月1日獲悉，一份世界貿易組織（WTO）的檔案顯示，鑑於美國再次陷入會費拖欠狀態，且越來越多的成員國未能按時繳納會費，世界貿易組織正準備削減約10%的支出，相關措施包括凍結招聘及裁減短期工作人員。根據WTO預算、財務與行政委員會3月12日和2月18日的內部檔案顯示， 美國目前屬於10個“第一類拖欠”成員之一，這意味著其已拖欠會費至少一年但未滿兩年，進一步加劇了WTO日益沉重的財政壓力。目前尚不清楚美國何時以及是否會支付這筆款項。（央視新聞）"
-    },
-    {
-      "id": "4856560",
-      "time": "2026-05-02 02:44:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "墨西哥總統：將於週一公佈一系列旨在提振墨西哥私人投資的舉措，核心是對行政辦事流程進行徹底簡化。"
-    },
-    {
-      "id": "4856559",
-      "time": "2026-05-02 02:43:04",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【伊朗最高領袖：當前階段需要推動“經濟抗爭”】當地時間5月1日，伊朗最高領袖穆傑塔巴·哈梅內伊發表致辭，稱伊朗已向世界展示其應對阻礙伊朗發展之敵的“獨特能力”。他指出，伊朗在當前階段需要推動“經濟抗爭”，必須在這一領域挫敗敵人。伊朗人民持續出現在各類場合表達對伊朗武裝力量的支援，伊朗人民在面對挑戰時展現出的堅韌反映出伊朗在外部壓力下增強其內部實力的堅定決心。（央視新聞）"
-    },
-    {
-      "id": "4856558",
-      "time": "2026-05-02 02:38:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普表示，他不會尋求國會批准繼續對伊朗採取軍事行動，並聲稱，以往從來沒有人這麼做過，從來沒有人申請過這種授權。"
-    },
-    {
-      "id": "4856557",
-      "time": "2026-05-02 02:37:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列事務專家：以色列在與黎巴嫩的談判中難以取得實質性進展，原因是以方不願做出讓步，且不相信黎巴嫩政府有能力解除真主黨武裝。此外，以色列刻意避免與美國產生對立，正等待美伊談判結果，因為這場談判將決定真主黨的未來走向。"
-    },
-    {
-      "id": "4856556",
-      "time": "2026-05-02 02:36:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普告訴國會，伊朗敵對行動已經結束。"
-    },
-    {
-      "id": "4856555",
-      "time": "2026-05-02 02:34:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：無需獲得對伊朗採取軍事行動的授權。"
-    },
-    {
-      "id": "4856554",
-      "time": "2026-05-02 02:33:10",
-      "tags": [
-        "資料",
-        "市場"
-      ],
-      "text": "根據卡爾希(Kalshi )平臺交易員的預測，西德克薩斯中質原油期貨尚未觸及2026年的高點。這個預測市場平臺的使用者認為，今年油價有超過50%的機率將達到每桶127美元，遠高於4月7日創下的每桶約113美元的當前收盤高點。"
-    },
-    {
-      "id": "4856553",
-      "time": "2026-05-02 02:32:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "高頻交易巨頭Jane Street去年支付員工94億美元薪酬。"
-    },
-    {
-      "id": "4856552",
-      "time": "2026-05-02 02:32:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟委員會表示，如果美國採取不符合貿易協定的措施，歐盟將保留一切可選方案以保護自身利益。"
-    },
-    {
-      "id": "4856551",
-      "time": "2026-05-02 02:31:17",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國原油期貨結算價報每桶101.94美元，下跌3.13美元，跌幅2.98%。"
-    },
-    {
-      "id": "4856550",
-      "time": "2026-05-02 02:31:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟委員會表示，歐盟仍致力於構建可預期、互利共贏的跨大西洋關係。"
-    },
-    {
-      "id": "4856549",
-      "time": "2026-05-02 02:30:59",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI 6月原油期貨收報101.94美元/桶。NYMEX 6月天然氣期貨收報2.78美元/百萬英熱單位。NYMEX 6月汽油期貨收報3.5952美元/加侖，NYMEX 6月取暖油期貨收報3.9496美元/加侖。"
-    },
-    {
-      "id": "4856548",
-      "time": "2026-05-02 02:30:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟委員會：正按標準實施歐美貿易協議。"
-    },
-    {
-      "id": "4856547",
-      "time": "2026-05-02 02:29:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗革命衛隊：波斯灣全新管控規則已制定，將依據最高領袖歷史性指令落地實施。"
-    },
-    {
-      "id": "4856546",
-      "time": "2026-05-02 02:28:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗伊斯蘭革命衛隊：掌控波斯灣與霍爾木茲海峽近2000公里伊朗海岸線，將為伊朗及整個地區帶來生計保障、安全穩定與繁榮發展。"
     }
   ]
 }
