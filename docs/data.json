@@ -1,7 +1,35 @@
 {
-  "updated": "2026-05-09 04:18:02",
-  "count": 12539,
+  "updated": "2026-05-09 04:21:27",
+  "count": 12542,
   "items": [
+    {
+      "id": "4869226",
+      "time": "2026-05-09 04:21:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "週五（5月8日），半導體ETF收漲4.90%，全球科技股指數ETF、科技行業ETF至少漲3.44%，銀行業ETF、區域銀行ETF至多跌0.14%，能源業ETF跌0.45%，網路股指數ETF跌0.86%。"
+    },
+    {
+      "id": "4869225",
+      "time": "2026-05-09 04:20:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "百事公司：股東在年度股東大會上投票反對設立獨立董事會主席的提案。"
+    },
+    {
+      "id": "te:markets:549342",
+      "time": "2026-05-09 04:18:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "S&P 500, Nasdaq Rise to Record High — The S&P 500 rose 0.8% to close at 7,399 on Friday, while the Nasdaq Composite gained 1.7% to a record 26,247, with both indexes hitting fresh highs. The Dow Jones Industrial Average edged up 12 points to 49,609. Sentiment was supported by stronger than expected US labor data, as nonfarm payrolls increased by 115,000 in April, beating forecasts, while the unemployment rate held at 4.3%. Investors also monitored renewed clashes between the US and Iran in the Strait of Hormuz, though President Donald Trump said the ceasefire remained intact. Markets continued to await Tehran’s response to a US proposal aimed at ending the conflict. Meanwhile, optimism around AI spending boosted technology shares, with Micron Technology and Sandisk surging sharply. All three major indexes ended the week higher, supported by strong corporate earnings and continued strength in tech stocks."
+    },
     {
       "id": "4869224",
       "time": "2026-05-09 04:17:36",
