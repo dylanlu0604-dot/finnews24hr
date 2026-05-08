@@ -1,7 +1,108 @@
 {
-  "updated": "2026-05-09 00:56:35",
-  "count": 12400,
+  "updated": "2026-05-09 01:00:09",
+  "count": 12405,
   "items": [
+    {
+      "id": "mkt:019e0888-004a-7aa7-bba7-fad7dd9160ea",
+      "time": "2026-05-09 00:59:51",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "FITCH ON OIL AND EUROPEAN GAS PRICE ASSUMPTIONS: EXPECT NON-OPEC SUPPLY GROWTH OF ABOUT 3 MMBPD"
+    },
+    {
+      "id": "mkt:019e0887-3154-7aa7-bba7-f0bbfc660236",
+      "time": "2026-05-09 00:58:58",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "FITCH ON OIL AND EUROPEAN GAS PRICE ASSUMPTIONS: EXPECT MARKET OVERSUPPLY WILL REDUCE PRICES"
+    },
+    {
+      "id": "4868992",
+      "time": "2026-05-09 00:58:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "惠譽關於原油及歐洲天然氣價格預期：預計市場供應過剩將壓低價格。"
+    },
+    {
+      "id": "4868991",
+      "time": "2026-05-09 00:58:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗官員稱美軍襲擊伊民用船隻 已致1死10傷】當地時間8日，伊朗霍爾木茲甘省官員宣佈，7日晚美軍襲擊了該省米納卜市的一艘民用船隻，造成該船起火。事件已造成1人死亡、10人受傷，另有4人失蹤。（央視新聞）"
+    },
+    {
+      "id": "mkt:019e0886-6bd1-7aa7-bba7-ecff01773c9a",
+      "time": "2026-05-09 00:58:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "FITCH: AVERAGE ANNUAL OIL PRICES LIKELY TO BE LOWER IF STRAIT OF HORMUZ CLOSURE LASTS FOR LESS THAN FIVE MONTHS"
+    },
+    {
+      "id": "4868990",
+      "time": "2026-05-09 00:58:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽：若霍爾木茲海峽關閉持續時間不足五個月，全年原油均價或將走低。"
+    },
+    {
+      "id": "te:markets:549330",
+      "time": "2026-05-09 00:57:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Canadian Dollar Weakens on Underwhelming Labor Data — The Canadian dollar weakened to 1.37 per USD, extending the pullback from the seven-week high of 1.358 on April 30th following weak domestic labor data. Net employment in Canada unexpectedly fell by 17K jobs in April and the unemployment rate rose to a six-month high of 6.9%, strengthening bets that the BoC will prioritize economic growth and refrain from tightening policy further this year. At the same time, stronger-than-expected US labor data boosted expectations that the Federal Reserve could keep interest rates elevated for longer, backing the preference for the greenback instead of the loonie for North American investors. Meanwhile, investors continued to monitor developments in the Middle East after renewed US-Iran hostilities raised uncertainty over prospects for a deal that could restore oil supply from the region and ease energy inflation."
+    },
+    {
+      "id": "4868989",
+      "time": "2026-05-09 00:57:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽：預計若霍爾木茲海峽關閉，5-7 月布倫特原油將維持每桶 100-110 美元，到 9 月回落至每桶 70 美元。"
+    },
+    {
+      "id": "mkt:019e0885-94ff-7aa7-bba7-e60b197b64b4",
+      "time": "2026-05-09 00:57:12",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "FITCH: EXPECT BRENT TO STAY AT USD100-110/BARREL IN MAY-JULY DURING HORMUZ CLOSURE, BEFORE FALLING TO USD70/BARREL BY SEPTEMBER"
+    },
+    {
+      "id": "4868988",
+      "time": "2026-05-09 00:57:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "惠譽評級上調其近期油價與歐洲天然氣價格假設。"
+    },
     {
       "id": "mkt:019e0884-d7dc-7aa7-bba7-d96255f3eec0",
       "time": "2026-05-09 00:56:24",
@@ -108795,46 +108896,6 @@
         "國際"
       ],
       "text": "【特朗普稱60天戰爭許可權“完全違憲”】美國總統特朗普稱，一項限制未經國會授權使用武力的法律“完全違憲”，這表明他不會尋求國會的正式許可來繼續與伊朗的戰爭。“這完全違憲，”特朗普稱，“以前從未使用過這種做法。為什麼我們要例外？”特朗普的言論代表了本屆政府最新一次對1973年《戰爭權力決議案》的無視，該決議案規定，若總統在60天后仍需繼續使用武力，必須獲得國會發布的宣戰宣告。許多立法者將今天視為第60天的節點，依據是特朗普於3月2日向國會通報了敵對行動的開始。"
-    },
-    {
-      "id": "4856470",
-      "time": "2026-05-02 00:58:12",
-      "tags": [
-        "市場"
-      ],
-      "text": "精神航空股價盤中跌幅進一步收窄至7%。"
-    },
-    {
-      "id": "4856469",
-      "time": "2026-05-02 00:57:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國網路安全和基礎設施安全域性提案擬將修復網路安全漏洞的限期從兩週縮短至三天。"
-    },
-    {
-      "id": "4856468",
-      "time": "2026-05-02 00:57:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "因擔憂人工智慧賦能駭客攻擊，美國網路安全官員正考慮縮短漏洞修復期限。"
-    },
-    {
-      "id": "4856467",
-      "time": "2026-05-02 00:57:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "Meta收購Assured Robot Intelligence，交易條款未披露。"
-    },
-    {
-      "id": "4856466",
-      "time": "2026-05-02 00:56:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "Meta收購機器人人工智慧公司，助力人形機器人技術研發。"
     }
   ]
 }
