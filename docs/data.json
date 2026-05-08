@@ -1,7 +1,39 @@
 {
-  "updated": "2026-05-09 04:58:56",
+  "updated": "2026-05-09 05:02:15",
   "count": 12553,
   "items": [
+    {
+      "id": "mkt:019e0964-4334-7222-b4ab-2c5e3e142762",
+      "time": "2026-05-09 05:00:26",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "RUSSIAN FOREIGN MINISTER LAVROV TELLS UAE MINISTER THAT U.S.-IRAN TALKS NEED TO BE SUPPORTED TO PREVENT RESUMPTION OF HOSTILITIES"
+    },
+    {
+      "id": "4869270",
+      "time": "2026-05-09 05:00:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美韓簽署造船業合作備忘錄】美國商務部與韓國產業部（貿易、工業及能源部）今日簽署諒解備忘錄，正式設立韓美造船夥伴關係倡議（KUSPI），旨在加強雙方在商用船舶建造、人才隊伍建設、產業現代化以及海事製造業投資領域的雙邊合作。具體合作內容包括：促進外商對美國海事產業基地的直接投資、開展人才培養專案、推進造船廠產能提升計劃、進行技術交流，以及由美國商務部和韓國產業部商定的其他相關合作事項。"
+    },
+    {
+      "id": "te:markets:549351",
+      "time": "2026-05-09 04:59:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Gains as Dovish BoC Bets Offset Middle East Risks — The S&P/TSX Composite gained 0.6% to close at 34,078 on Friday, as investors assessed the North American labor backdrop and the outlook for Middle East energy supply. Although clashes continued and attacks on the UAE renewed tensions near the Strait of Hormuz, the US is still awaiting Iran’s response to its proposal to end the conflict, keeping oil prices elevated. Meanwhile, the unexpected decline in Canadian employment reinforced expectations that the Bank of Canada will refrain from raising interest rates this year, supporting equities and bank stocks. BMO and Royal Bank of Canada both gained 0.5%. On the earnings front, Enbridge (-0.5%) and Wheaton Precious Metals (+5.7%) both reported results above expectations. Cardinal Energy (+1.4%) posted higher first-quarter revenue on record production, while Emera (+1.1%) reported adjusted EPS above forecasts. Rogers Sugar (+0.3%), however, posted weaker-than-expected second-quarter revenue."
+    },
     {
       "id": "mkt:019e095f-7575-7222-b4ab-20f4084d184a",
       "time": "2026-05-09 04:55:11",
@@ -110424,31 +110456,6 @@
         "觀點"
       ],
       "text": "【5月2日美股成交額前20：閃迪創歷史新高，多家機構大幅上調其目標價】週五美股成交額第1名閃迪收高8.25%，股價創歷史新高，成交255.52億美元。週五多家機構集中大幅上調閃迪目標價，最高看漲至2000美元，反映市場對其增長預期顯著強化，情緒明顯轉向樂觀。具體而言，①Susquehanna將閃迪目標價從1000美元上調至2000美元。②花旗將閃迪目標價從980美元上調至1300美元。③美銀全球研究將閃迪目標股價從1080美元上調至1550美元。④瑞穗將閃迪目標價從1000美元上調至1220美元。⑤巴克萊將閃迪目標股價從750美元上調至1200美元。⑥梅里厄斯研究將閃迪目標股價從1350美元上調至1500美元。"
-    },
-    {
-      "id": "4856628",
-      "time": "2026-05-02 04:59:44",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：已告知德國將把汽車關稅提高至25%。"
-    },
-    {
-      "id": "4856627",
-      "time": "2026-05-02 04:59:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "據Axios：美國預估封鎖已造成伊朗損失 48 億美元。"
-    },
-    {
-      "id": "4856626",
-      "time": "2026-05-02 04:58:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：歐盟並未遵守與美國達成的貿易協議。"
     }
   ]
 }
