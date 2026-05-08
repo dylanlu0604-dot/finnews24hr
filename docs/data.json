@@ -1,7 +1,64 @@
 {
-  "updated": "2026-05-09 00:17:32",
-  "count": 12422,
+  "updated": "2026-05-09 00:21:04",
+  "count": 12426,
   "items": [
+    {
+      "id": "mkt:019e0862-5236-7aa7-bba7-8c5bea91efeb",
+      "time": "2026-05-09 00:18:41",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB WILL TAKE NECESSARY ACTIONS TO CONTROL RISING ENERGY PRICES, SAYS NAGEL"
+    },
+    {
+      "id": "mkt:019e0862-2f8a-7aa7-bba7-808bc21df49b",
+      "time": "2026-05-09 00:18:32",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB IS VERY ALERT TO INFLATION THREATS, SAYS NAGEL"
+    },
+    {
+      "id": "4868970",
+      "time": "2026-05-09 00:18:14",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委納格爾：歐洲央行將採取必要行動以控制不斷上漲的能源價格。"
+    },
+    {
+      "id": "4868969",
+      "time": "2026-05-09 00:17:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數跌超0.5%，再鼎醫藥跌6.05%，優品車跌5.13%，新東方跌3.64%，中進醫療跌3.64%，虎牙跌3.59%。"
+    },
+    {
+      "id": "te:markets:549324",
+      "time": "2026-05-09 00:17:27",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "DAX Closes on Negative Note — Frankfurt's DAX 40 closed about 1.3% lower at 24,339 on Friday, extending losses from the prior day, mirroring a broadly negative sentiment across Europe. Traders remained cautious amid reports of military clashes in the Strait of Hormuz, which raised doubts about the deal that could potentially restore energy flows from the Persian Gulf. At the same time, US President Trump on Thursday vowed to impose “much higher” tariffs on the EU by July 4 if the bloc fails to reduce its tariffs on US goods to zero. Rheinmetall plunged more than 15% to top losers after a profit miss on Thursday and JPMorgan’s downgrade to neutral from overweight, which also saw its price target slashed to €1,500 from €2,130. Daimler Truck followed closely, falling nearly 8%. Commerzbank dropped 4.2% as the bank upgraded its financial targets following solid results and set out its strategy for the coming years amid UniCredit’s takeover bid, including plans to cut 3,000 jobs. For the week, the index added 0.2%."
+    },
     {
       "id": "4868968",
       "time": "2026-05-09 00:17:11",
@@ -108952,15 +109009,6 @@
         "國際"
       ],
       "text": "美國財政部長貝森特將持續全力打擊伊朗的資金籌措能力。"
-    },
-    {
-      "id": "4856410",
-      "time": "2026-05-02 00:19:53",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【路透調查顯示：墨西哥央行將於5月7日最後降息25個基點】路透調查顯示，墨西哥央行將於5月7日最後降息25個基點，結束長達兩年多的降息週期，將利率降至中性水平。此舉將使該國貨幣政策處於既不緊縮也不刺激經濟活動的狀態，當前美以對伊朗相關衝突正加劇通脹壓力。但部分受訪人士表示，儘管經濟依然疲軟，在不確定性上升的背景下，墨西哥央行可能維持基準利率不變。24位分析師中有18位預計，墨西哥央行將在5月7日會議上把基準利率從6.75% 降至6.50%，這將是2024年3 開啟降息週期以來的第15次降息。少數6位分析師認為，在3月已降息25個基點後，央行將按兵不動；該行五人委員會此次決策是近年來最難預測的決議之一。"
     }
   ]
 }
