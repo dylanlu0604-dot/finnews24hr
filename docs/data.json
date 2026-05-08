@@ -1,7 +1,97 @@
 {
-  "updated": "2026-05-08 20:56:23",
-  "count": 12232,
+  "updated": "2026-05-08 20:59:52",
+  "count": 12238,
   "items": [
+    {
+      "id": "4868641",
+      "time": "2026-05-08 20:59:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【恆盛能源：實控人之一杜順仙擬減持公司不超3%股份】恆盛能源(605580)5月8日公告，公司實控人之一杜順仙擬透過集中競價和大宗交易方式，減持公司無限售條件流通股不超過840萬股，即不超過公司股份總數的3%。"
+    },
+    {
+      "id": "te:markets:549268",
+      "time": "2026-05-08 20:58:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Futures Edge Higher as Ceasefire Holds — Futures tracking the S&P/TSX Composite were higher on Friday as markets assessed the North American labor backdrop and the outlook of energy supply from the Middle East. Although clashes continued and attacks on the UAE renewed tensions near the Strait of Hormuz, the US is still awaiting Iran’s response to its proposal to end the conflict, underpinning oil prices at elevated levels. Still, the unexpected drop in Canadian employment consolidated bets that the BoC will refrain from hiking interest rates this year. On the earnings front, Enbridge and Wheaton Precious Metals both reported results above expectations. Cardinal Energy posted higher first-quarter revenue on record production. Emera’s adjusted EPS also topped forecasts. In contrast, Rogers Sugar reported weaker-than-expected second-quarter revenue."
+    },
+    {
+      "id": "mkt:019e07ab-4ad2-7557-85c5-16df4f61518d",
+      "time": "2026-05-08 20:58:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "Macro & Rates",
+        "US Economy",
+        "Nasdaq100",
+        "Impact bullish",
+        "S&P500",
+        "WTI"
+      ],
+      "text": "【MKTNews Morning Bid - US】- U.S. stock futures rose on Friday following a better-than-expected April’s jobs report and as traders eyed developments between the U.S. and Iran. - Bureau of Labor Statistics reported that nonfarm payrolls rose by 115,000 last month, more than the 55,000 that economists polled by Dow Jones were expecting. The U.S. jobless rate also held steady at 4.3%, in line with expectations. - U.S. Central Command said that military forces “intercepted unprovoked Iranian attacks and responded with self-defense strikes” as a trio of U.S. Navy destroyers transited the waterway. - Trump said there was “no damage done to the three Destroyers, but great damage done to the Iranian attackers.” He also reportedly said that the ceasefire is still in effect, saying the strikes against Iranian targets were “just a love tap.” - U.S. Secretary of State Marco Rubio told reporters Friday that the U.S. “should know something today” regarding a response from Iran on the peace proposal. - A senior Iranian official said that the country would not allow the U.S. to reopen the Strait of Hormuz passageway with an “unrealistic plan\" - Upbeat tech earnings have put the Nasdaq on pace to climb 2.8% on the week. The S&P 500 is on track for a rise of 1.5%, while the Dow Jones has lagged with a week-to-date gain of just 0.2% - Asia-Pacific markets mostly traded lower Friday, as concerns grew over renewed hostilities between Iran and the U.S. amid a fragile ceasefire."
+    },
+    {
+      "id": "4868640",
+      "time": "2026-05-08 20:58:31",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【海上絲路指數：本週整體運力供小於需 多數航線運價上漲】本週寧波航運交易所釋出的海上絲綢之路指數之寧波出口集裝箱運價指數(NCFI)報收於1462.6點，較上週上漲7.7%。21條航線中有20條航線運價指數上漲，1條航線運價指數基本持平。“海上絲綢之路”沿線地區主要港口中，13個港口運價指數上漲，1個港口運價指數下跌，2個港口運價指數基本持平。①歐洲航線運價指數為1131.9點，較上週上漲8.3%；地東航線運價指數為1377.4點，較上週上漲24.7%；地西航線運價指數為1817.0點，較上週上漲26.5%。②美東航線運價指數為1390.2點，較上週上漲7.4%；美西航線運價指數為1746.3點，較上週上漲7.8%。③中東航線運價指數為3884.7點，較上週基本持平。"
+    },
+    {
+      "id": "4868639",
+      "time": "2026-05-08 20:57:42",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "AI雲端計算基礎設施公司CoreWeave週五盤前交易中股價下跌約6.5%，此前該公司釋出的第二季度營收指引讓華爾街失望，同時一季度淨虧損進一步擴大。"
+    },
+    {
+      "id": "4868638",
+      "time": "2026-05-08 20:57:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "美光科技美股盤前漲超4%，現報672.5美元。"
+    },
+    {
+      "id": "4868637",
+      "time": "2026-05-08 20:57:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國對得克薩斯州採用初創企業Avride自動駕駛技術的自動駕駛汽車撞車事故展開調查。"
+    },
+    {
+      "id": "4868636",
+      "time": "2026-05-08 20:57:15",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【非農公佈後，美聯儲近期利率決議預期變化不大】據CME“美聯儲觀察”：美聯儲到6月維持利率不變的機率為94.9%（公佈前為96.9%），累計降息25個基點的機率為5.1%（公佈前為3.1%）。美聯儲到7月維持利率不變的機率為88.8%（公佈前為90.7%），累計降息25個基點的機率為10.8%（公佈前為9.1%），累計降息50個基點的機率為0.4%（公佈前為0.2%）。"
+    },
+    {
+      "id": "4868635",
+      "time": "2026-05-08 20:56:17",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "網路安全與雲端計算服務商Akamai Technologies股價週五盤前飆升27%，此前該公司宣佈與一家美國領先的前沿AI模型提供商簽署了一份為期七年、價值18億美元的雲基礎設施服務合同。"
+    },
     {
       "id": "4868634",
       "time": "2026-05-08 20:55:55",
@@ -106936,30 +107026,6 @@
         "其他"
       ],
       "text": "【德國2025年右翼動機暴力事件創2016年以來新高】德國聯邦刑事警察局的2025年統計資料顯示，這一年收到各州報告帶有右翼動機的暴力犯罪事件達到1598起，為2016年以來最多。據德國方面5月1日訊息，這一數字在2023年和2024年分別為1270起和1488起。2025年，大部分帶有右翼動機的暴力犯罪事件涉嫌造成人身傷害。（央視）"
-    },
-    {
-      "id": "4856132",
-      "time": "2026-05-01 20:59:30",
-      "tags": [
-        "觀點"
-      ],
-      "text": "國海證券給予東方航空A股買進的初始評級。"
-    },
-    {
-      "id": "4856131",
-      "time": "2026-05-01 20:57:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "油輪追蹤機構：改道前往伊朗、運載原油的油輪數量持續攀升。"
-    },
-    {
-      "id": "4856130",
-      "time": "2026-05-01 20:57:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "比亞迪：累計汽車銷量102萬輛。"
     }
   ]
 }
