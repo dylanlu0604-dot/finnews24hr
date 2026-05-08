@@ -1,7 +1,36 @@
 {
-  "updated": "2026-05-08 22:36:32",
-  "count": 12371,
+  "updated": "2026-05-08 22:39:58",
+  "count": 12369,
   "items": [
+    {
+      "id": "4868861",
+      "time": "2026-05-08 22:39:32",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "俄羅斯央行：將5月9日盧布對美元官方匯率設定為1美元兌換74.2963盧布，前一交易日匯率為1美元兌換74.6209盧布。"
+    },
+    {
+      "id": "4868860",
+      "time": "2026-05-08 22:38:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿根廷國家石油公司YPF：投資者對阿根廷液化天然氣（LNG）的需求超過（本公司自身的）融資目標。"
+    },
+    {
+      "id": "te:economy:549303",
+      "time": "2026-05-08 22:37:39",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Treasury Yields Edge Down, Iran Response Awaited — The yield on the US 10-year Treasury note fell to 4.35% on Friday, approaching the two-week lows touched earlier in the week, as developments in the Middle East continued to dominate investor sentiment. Uncertainty persists over how quickly the US and Iran can reach an agreement to end the conflict, with US Secretary of State Marco Rubio saying Washington expects a response from Tehran on Friday regarding a proposal to end the war. Although President Trump said the ceasefire remains in effect, both the US and Iran have reportedly exchanged fire in the Strait of Hormuz. Meanwhile, the latest jobs report showed the US economy added 115K jobs last month, nearly double market expectations of 62K. In addition, the Michigan Consumer Sentiment survey showed confidence fell to a record low. Markets continue to expect the Fed to keep interest rates largely unchanged through the rest of the year, while pricing in roughly a 40% chance of a rate hike by April 2027."
+    },
     {
       "id": "4868859",
       "time": "2026-05-08 22:35:42",
@@ -108310,49 +108339,6 @@
         "國際"
       ],
       "text": "【比亞迪海外銷量再創新高，加速邁向“本地化製造+服務”】5月1日，比亞迪公告稱，4月份銷售32.11萬輛。截至今年4月，公司新能源汽車累計銷售超1610萬輛。值得注意的是，比亞迪4月海外表現持續亮眼，海外銷售突破13萬輛，創歷史新高。國盛證券分析稱，比亞迪海外佈局成效顯著，出口銷售保持高增。公司持續推出多款純電及插混車型，精準匹配全球各市場差異化消費需求。市場佈局方面，公司在歐洲、東南亞、拉美、中東等市場全面發力。截至目前，比亞迪新能源汽車累計出口超208萬輛。海通國際證券分析稱，比亞迪海外業務加速放量，本地化佈局驅動中長期成長空間開啟。2025年公司海外業務進入收穫期，全年出口銷量突破100萬輛，成為業績結構最佳化的重要支撐。（中證金牛座）"
-    },
-    {
-      "id": "4856290",
-      "time": "2026-05-01 22:39:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際貨幣基金組織表示，首席經濟學家古蘭沙將重返學術界。"
-    },
-    {
-      "id": "4856289",
-      "time": "2026-05-01 22:38:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際貨幣基金組織的皮埃爾 - 奧利維耶・古蘭沙將於 7 月 1 日卸任。"
-    },
-    {
-      "id": "4856288",
-      "time": "2026-05-01 22:38:13",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【SEC改財報為半年披露的提案透過白宮審查】美國證券交易委員會（SEC）一項允許上市公司將財報披露頻率由每季度一次降至每半年一次的計劃，已透過白宮審查，進一步接近落地。根據政府網站資訊，此次審查於本週早些時候完成，SEC由此將得以正式公佈該計劃並徵求公眾意見。在收到反饋後，委員們還需再次對最終版本進行投票，規則方可生效。投票通常在數月後。"
-    },
-    {
-      "id": "4856287",
-      "time": "2026-05-01 22:37:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "【英海軍：美以伊戰事致霍爾木茲海峽航運量驟降九成以上】英國皇家海軍5月1日說，自美國和以色列對伊朗發動軍事行動以來，霍爾木茲海峽航運通行量大幅下降，每日透過該海峽的船舶數量已從衝突前的約130艘降至不足10艘，降幅超過90%。英國皇家海軍援引其主導的英國海上貿易行動辦公室的監測結果說，美、以對伊朗發動“史詩怒火”軍事行動以來，霍爾木茲海峽及周邊水域的安全事件報告數量大幅增加。據統計，3月1日至4月27日共發生41起安全事件。（新華社）"
-    },
-    {
-      "id": "4856286",
-      "time": "2026-05-01 22:36:39",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【三菱日聯：英鎊兌歐元或將維持區間波動】三菱日聯銀行分析師Derek Halpenny在一份報告中稱，在英國央行和歐洲央行週四做出政策決定後，英鎊兌歐元可能繼續在窄幅區間交投。他說，這兩家央行的決定幾乎沒有表明政策會出現重大分化。他說：“我們清楚地看到，如果從現在到6月份的會議期間能源價格不出現大幅逆轉，英國央行和歐洲央行都將加息。”歐洲央行和英國央行週四均如預期維持利率不變。歐元上漲0.1%，至0.8626英鎊。"
     }
   ]
 }
