@@ -1,7 +1,65 @@
 {
-  "updated": "2026-05-08 21:07:31",
-  "count": 12251,
+  "updated": "2026-05-08 21:10:59",
+  "count": 12254,
   "items": [
+    {
+      "id": "4868663",
+      "time": "2026-05-08 21:10:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯聯邦消費者權益保護和公益監督局表示：安第斯漢坦病毒對俄羅斯民眾不具備危險性。"
+    },
+    {
+      "id": "te:markets:549270",
+      "time": "2026-05-08 21:09:25",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Prices Hit Mid-March Highs on US-Iran Ceasefire Hopes — Silver prices rose above $80 per ounce on Friday, marking their highest level since mid-March and setting course for a weekly gain of over 7%, as optimism over a potential US-Iran peace deal helped ease fears that stubborn inflation could prolong high interest rates. Even after a recent exchange of fire, the most serious test of their month-long ceasefire, Iran reported the situation had normalized, and US President Donald Trump affirmed the ceasefire was still \"in effect.\" Investors also reacted to the latest US jobs data, which showed the economy added 115,000 jobs last month, exceeding forecasts of 62,000 and signaling resilience in the labor market. Since the war began in late February, silver has fallen nearly 14%, weighed down by rising oil prices that amplified inflation concerns and complicated the interest rate outlook."
+    },
+    {
+      "id": "mkt:019e07b5-0a06-7557-85c5-30215badf228",
+      "time": "2026-05-08 21:09:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "IRAN'S SEMI-OFFICIAL MEHR REPORTS EXPLOSION IN AREA NEAR HORMUZ"
+    },
+    {
+      "id": "4868662",
+      "time": "2026-05-08 21:08:50",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "【“美聯儲傳聲筒”：非農資料意味著美聯儲關注點將從就業轉向通脹】“美聯儲傳聲筒”Nick Timiraos表示，四個月前美聯儲面臨的一個重大問題是：是否需要繼續降息以支撐看起來搖搖欲墜的勞動力市場。如今這一問題已不復存在。勞動力市場已經企穩，而受關稅以及伊朗戰爭影響，通脹正從此前的回落轉向重新上升。4月非農報告凸顯了這一前景變化，並意味著在判斷目前已堅定按兵不動的美聯儲下一步政策方向時，市場焦點將明確轉向通脹資料。4月招聘活動保持穩健，失業率維持不變，收入增長也依然堅挺，這些都不足以構成降息理由。隨著勞動力市場為美聯儲提供了繼續等待的空間，政策討論的下一步將是何時以及如何轉向“中性”——即加息與降息的可能性變得大致相當，而答案可能幾乎完全取決於未來的通脹資料。"
+    },
+    {
+      "id": "4868661",
+      "time": "2026-05-08 21:07:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國CAC40指數日內跌幅達1.00%。"
+    },
+    {
+      "id": "4868660",
+      "time": "2026-05-08 21:07:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【山東淄博一公司制氫裝置閃爆2死1傷，事故調查報告公佈】山東淄博市應急管理局5月6日公佈《淄博淄川淄博正拓氣體有限公司“2·26”一般氣體閃爆事故調查報告》。2025年2月26日19時8分，位於淄博市淄川區的淄博正拓氣體有限公司發生一起氣體閃爆事故，造成2人死亡、1人受傷，直接經濟損失380萬元。經調查認定，該事故是一起因壓力管道使用單位對壓力管道日常檢查、維護保養不到位，僱用無資質施工隊伍違規帶壓密封堵漏作業導致的一般生產安全責任事故。（澎湃）"
+    },
     {
       "id": "4868659",
       "time": "2026-05-08 21:07:10",
@@ -107122,31 +107180,6 @@
         "公司"
       ],
       "text": "【安寧股份：目前公司未單獨提取釩產品】安寧股份(002978)5月1日在互動平臺表示，公司一直致力於釩鈦磁鐵礦的綜合利用，在釩清潔提取以及釩電解液製備方面有一定的技術儲備，但目前公司未單獨提取釩產品。"
-    },
-    {
-      "id": "4856144",
-      "time": "2026-05-01 21:10:25",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國國際集團（AIG）高管表示，直接投資貸款敞口約為12億美元，佔一般保險投資組合的比例不到1.5%；軟體相關風險敞口約為1.3億美元，僅佔綜合保險投資組合的16個基點（0.16%）。"
-    },
-    {
-      "id": "4856143",
-      "time": "2026-05-01 21:08:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "麥當勞將在多個市場推出全新系列飲品。"
-    },
-    {
-      "id": "4856142",
-      "time": "2026-05-01 21:07:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國農業部稱已向未知買家售出148,240噸玉米。"
     }
   ]
 }
