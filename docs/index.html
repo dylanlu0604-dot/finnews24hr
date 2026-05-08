@@ -643,24 +643,73 @@ const AI_SUMMARY_URL = './ai_summaries.json';
 const MAX_RENDER_ITEMS = 500;
 const TAG_ORDER = [
   '全部',
+  '焦點',
+  '重要',
+  '熱門',
   '國際',
-  '公司',
-  '其他',
+  '中國',
+  '美國',
+  '歐洲',
+  '日本亞太',
+  '新興市場',
   '市場',
   '央行',
-  '焦點',
   '宏觀',
+  '經濟數據',
+  '公司',
+  '科技',
+  '商品',
+  '加密',
   '觀點',
   'Trading Economics',
-  '資料',
-  'Importance 1',
-  'Markets',
-  'Economy',
-  'Commodity',
+  'MKT News',
   '原創',
-  '国际',
+  '其他',
 ];
 const FILTER_TAGS = TAG_ORDER.filter(tag => tag !== '全部');
+const TAG_ALIASES = {
+  '国际': '國際',
+  'Important': '重要',
+  'Importance 1': '重要',
+  'Importance 2': '重要',
+  'Importance 3': '重要',
+  'Hot': '熱門',
+  'Breaking News 24h': '焦點',
+  'Policy': '國際',
+  'Market Regions': '國際',
+  'Greater China': '中國',
+  'Chinese Policy & Markets': '中國',
+  'China EV Leaders': ['中國', '科技'],
+  'China Tech Giants': ['中國', '科技'],
+  'Wall Street (US)': '美國',
+  'US Economy': ['美國', '經濟數據'],
+  'Europe & UK': '歐洲',
+  'Japan & APAC': '日本亞太',
+  'Emerging Markets': '新興市場',
+  'Markets': '市場',
+  'Market Themes': '市場',
+  'Impact bullish': '市場',
+  'Impact bearish': '市場',
+  'Impact mixed': '市場',
+  'The Trump Trade': '市場',
+  '央行': '央行',
+  'The Fed (FOMC)': '央行',
+  'Macro & Rates': '宏觀',
+  'Treasury Yields': '宏觀',
+  'Economy': '宏觀',
+  '資料': '經濟數據',
+  'Economic Calendar': '經濟數據',
+  'Star Stocks': '公司',
+  'Magnificent 7': ['公司', '科技'],
+  'AI Revolution': '科技',
+  'Chip Wars': '科技',
+  'Commodities': '商品',
+  'Commodity': '商品',
+  'Energy': '商品',
+  'Precious Metals': '商品',
+  'Industrial Metals': '商品',
+  'Crypto Concepts': '加密',
+};
 let allItems = [], activeCats = new Set(), activeHrs = 24, searchQ = '';
 
 function parseTime(str) {
@@ -675,8 +724,16 @@ function highlight(text, q) {
 }
 
 function getDisplayTags(item) {
-  const rawTags = new Set(item.tags || []);
-  const tags = FILTER_TAGS.filter(tag => rawTags.has(tag));
+  const rawTags = item.tags || [];
+  const normalized = new Set();
+  rawTags.forEach(rawTag => {
+    const mapped = TAG_ALIASES[rawTag] || rawTag;
+    const mappedTags = Array.isArray(mapped) ? mapped : [mapped];
+    mappedTags.forEach(tag => {
+      if (FILTER_TAGS.includes(tag)) normalized.add(tag);
+    });
+  });
+  const tags = FILTER_TAGS.filter(tag => normalized.has(tag));
   return tags.length ? tags : ['其他'];
 }
 

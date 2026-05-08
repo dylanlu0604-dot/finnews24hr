@@ -4,6 +4,8 @@
 - 抓取市場報價（yfinance）→ docs/market.json
 """
 
+from __future__ import annotations
+
 import requests
 import json
 import os
@@ -38,6 +40,9 @@ DOCS_DIR = os.path.join(BASE_DIR, "..", "docs")
 EXPORT_DAYS = 7
 TE_STREAM_URL = "https://tradingeconomics.com/ws/stream.ashx"
 TE_STREAM_TYPES = ("markets", "economy")
+MKTNEWS_FLASH_URL = "https://api.mktnews.net/api/flash"
+MKTNEWS_PAGE_LIMIT = 50
+MKTNEWS_DEFAULT_PAGES = 1
 AI_SUMMARY_PATH = os.path.join(DOCS_DIR, "ai_summaries.json")
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "").strip()
 OPENAI_SUMMARY_MODEL = os.getenv("OPENAI_SUMMARY_MODEL", "gpt-5.4-nano").strip()
@@ -181,6 +186,51 @@ def fetch_tradingeconomics_stream_news(stream_type: str, limit: int = 50) -> lis
         return []
 
 
+def fetch_mktnews_flash(pages: int = MKTNEWS_DEFAULT_PAGES, page_size: int = MKTNEWS_PAGE_LIMIT) -> list[dict]:
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+                      "AppleWebKit/537.36 (KHTML, like Gecko) "
+                      "Chrome/123.0.0.0 Safari/537.36",
+        "Accept": "application/json, text/plain, */*",
+        "Accept-Language": "en-US,en;q=0.9",
+        "Referer": "https://mktnews.com/flash.html",
+    }
+    page_size = min(max(1, page_size), MKTNEWS_PAGE_LIMIT)
+    results = []
+    seen_ids = set()
+    last_id = None
+    for page in range(1, max(1, pages) + 1):
+        params = {"limit": page_size}
+        if last_id:
+            params["last_id"] = last_id
+        try:
+            r = requests.get(MKTNEWS_FLASH_URL, params=params, headers=headers, timeout=15)
+            r.raise_for_status()
+            payload = r.json()
+            data = payload.get("data", payload) if isinstance(payload, dict) else payload
+            if not isinstance(data, list):
+                print(f"[WARN] MKT News：第 {page} 頁非預期回應格式 {type(data).__name__}")
+                break
+            if not data:
+                break
+            new_items = []
+            for item in data:
+                item_id = item.get("id") if isinstance(item, dict) else None
+                if item_id and item_id not in seen_ids:
+                    seen_ids.add(item_id)
+                    new_items.append(item)
+            results.extend(new_items)
+            last_item = data[-1] if isinstance(data[-1], dict) else {}
+            next_last_id = last_item.get("id")
+            if not next_last_id or next_last_id == last_id or len(data) < page_size:
+                break
+            last_id = next_last_id
+        except Exception as e:
+            print(f"[ERROR] MKT News 第 {page} 頁：{e}")
+            break
+    return results
+
+
 def process_item(raw: dict) -> dict:
     tags = [to_tw(t["name"]) for t in raw.get("tag", []) if t.get("name")]
     text = to_tw(raw.get("rich_text", "").strip())
@@ -271,6 +321,106 @@ def process_tradingeconomics_item(raw: dict) -> dict | None:
 
     return {
         "id": f"te:{stream_type}:{item_id}",
+        "time": item_time,
+        "tags": [to_tw(t) for t in tags],
+        "text": to_tw(text),
+    }
+
+
+def flatten_mktnews_classification(raw: dict) -> list[str]:
+    names = []
+    for key in ("classification", "classify"):
+        values = raw.get(key) or []
+        if not isinstance(values, list):
+            continue
+        for item in values:
+            if not isinstance(item, dict):
+                continue
+            name = clean_text(item.get("name", ""))
+            parent = clean_text(item.get("parent", ""))
+            if parent and parent not in names:
+                names.append(parent)
+            if name and name not in names:
+                names.append(name)
+            child = item.get("child") or []
+            if isinstance(child, list):
+                for child_item in child:
+                    if isinstance(child_item, dict):
+                        child_name = clean_text(child_item.get("name", ""))
+                        if child_name and child_name not in names:
+                            names.append(child_name)
+    return names
+
+
+def format_mktnews_economic_text(data: dict) -> str:
+    title = clean_text(data.get("title") or data.get("name") or "")
+    country = clean_text(data.get("country") or "")
+    actual = data.get("actual")
+    previous = data.get("previous")
+    consensus = data.get("consensus")
+    unit = clean_text(data.get("unit") or "")
+    pieces = []
+    if country:
+        pieces.append(country)
+    if title:
+        pieces.append(title)
+    if actual not in (None, ""):
+        pieces.append(f"actual {actual}{unit}")
+    if consensus not in (None, ""):
+        pieces.append(f"consensus {consensus}{unit}")
+    if previous not in (None, ""):
+        pieces.append(f"previous {previous}{unit}")
+    return " | ".join(pieces)
+
+
+def process_mktnews_flash_item(raw: dict) -> dict | None:
+    item_id = raw.get("id")
+    data = raw.get("data") or {}
+    if not item_id or not isinstance(data, dict):
+        return None
+
+    item_time = parse_te_time(raw.get("time"))
+    if not item_time:
+        print(f"[WARN] MKT News：略過無有效時間欄位的 item {item_id}")
+        return None
+
+    title = clean_text(data.get("title") or "")
+    content = clean_text(data.get("content") or "")
+    if raw.get("type") == 1:
+        text = format_mktnews_economic_text(data)
+    else:
+        text = title if not content or content == title else f"{title} — {content}" if title else content
+    if not text:
+        return None
+
+    tags = ["MKT News"]
+    if raw.get("type") == 1:
+        tags.append("Economic Calendar")
+    if raw.get("important"):
+        tags.append("Important")
+    if raw.get("hot"):
+        tags.append("Hot")
+
+    for name in flatten_mktnews_classification(raw):
+        if name not in tags:
+            tags.append(name)
+
+    impacts = raw.get("impact") or []
+    if isinstance(impacts, list):
+        for impact in impacts:
+            if not isinstance(impact, dict):
+                continue
+            symbol = clean_text(impact.get("symbol") or "")
+            direction = clean_text(impact.get("impact") or "")
+            if symbol and symbol not in tags:
+                tags.append(symbol)
+            if direction and direction != "none":
+                impact_tag = f"Impact {direction}"
+                if impact_tag not in tags:
+                    tags.append(impact_tag)
+
+    return {
+        "id": f"mkt:{item_id}",
         "time": item_time,
         "tags": [to_tw(t) for t in tags],
         "text": to_tw(text),
@@ -993,6 +1143,10 @@ def export_market_json(market_data: dict) -> None:
 def main():
     now = datetime.now(TW).strftime("%Y-%m-%d %H:%M:%S")
     print(f"[{now}] 開始執行...")
+    try:
+        mktnews_pages = max(1, int(os.getenv("MKTNEWS_PAGES", str(MKTNEWS_DEFAULT_PAGES))))
+    except ValueError:
+        mktnews_pages = MKTNEWS_DEFAULT_PAGES
 
     # 1. 快訊
     conn = sqlite3.connect(DB_PATH)
@@ -1007,11 +1161,15 @@ def main():
         te_processed = [item for item in (process_tradingeconomics_item(r) for r in te_raw_items) if item]
         te_new_counts[stream_type] = upsert_items(conn, te_processed)
 
+    mktnews_raw_items = fetch_mktnews_flash(pages=mktnews_pages, page_size=MKTNEWS_PAGE_LIMIT)
+    mktnews_processed = [item for item in (process_mktnews_flash_item(r) for r in mktnews_raw_items) if item]
+    mktnews_new_count = upsert_items(conn, mktnews_processed)
+
     update_ai_summaries(conn)
     updated, total = export_news_json(conn)
     conn.close()
     te_summary = "｜".join(f"TE {name} 新增 {count} 筆" for name, count in te_new_counts.items())
-    print(f"[OK] 快訊：新浪新增 {sina_new_count} 筆｜{te_summary}｜累計 {total} 筆")
+    print(f"[OK] 快訊：新浪新增 {sina_new_count} 筆｜{te_summary}｜MKT News {mktnews_pages} 頁新增 {mktnews_new_count} 筆｜累計 {total} 筆")
 
     # 2. 市場報價
     if HAS_YF:

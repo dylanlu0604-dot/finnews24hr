@@ -5,7 +5,7 @@
 
 ```
 ├── scraper/
-│   └── fetch_sina.py       # 爬蟲主程式（新浪 + Trading Economics，簡體→繁體）
+│   └── fetch_sina.py       # 爬蟲主程式（新浪 + Trading Economics + MKT News，簡體→繁體）
 ├── docs/
 │   ├── index.html          # GitHub Pages 前端
 │   └── data.json           # 爬蟲產出（自動更新）
@@ -59,7 +59,11 @@ git push -u origin main
 
 程式會直接讀取 `https://tradingeconomics.com/stream?i=markets` 與 `https://tradingeconomics.com/stream?i=economy` 這兩個新聞清單前端使用的 stream JSON 來源，不需要 API key，也不會逐一爬取商品、股指或國家頁面。每則新聞會以 `te:<stream>:<ID>` 寫入資料庫，時間使用 stream 的 `date` 欄位轉成台灣時間，標籤會包含 `Trading Economics`、`Markets` 或 `Economy`、country、category、symbol 與 importance。
 
-### 7. AI 摘要分析（可選）
+### 7. MKT News 快訊來源
+
+程式會讀取 `https://api.mktnews.net/api/flash`，這是 `https://mktnews.com/flash.html` 前端使用的快訊 API；頁面初始快取另有 `https://static.mktnews.net/json/flash/en.json`。API 每頁最多 50 筆，日常排程預設只抓最新 1 頁；若要手動回補，可設定 `MKTNEWS_PAGES=10` 或更高，程式會用最後一筆 `id` 當 `last_id` 往前翻頁。每則快訊會以 `mkt:<id>` 寫入資料庫，時間使用 API 的 ISO `time` 欄位轉成台灣時間，標籤會包含 `MKT News`、`Important`、`Hot`、分類、影響標的與方向。
+
+### 8. AI 摘要分析（可選）
 
 若 repo → **Settings** → **Secrets and variables** → **Actions** 設定 `OPENAI_API_KEY`，爬蟲會每 6 小時用 OpenAI API 摘要一次剛完成的 6 小時快訊，輸出到 `docs/ai_summaries.json`。前端右欄會顯示一天最多四則摘要；點選任一摘要可查看 10 大重點事件與每則約 100 字解釋。
 
