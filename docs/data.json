@@ -1,7 +1,42 @@
 {
-  "updated": "2026-05-08 12:09:28",
-  "count": 11227,
+  "updated": "2026-05-08 12:12:54",
+  "count": 11230,
   "items": [
+    {
+      "id": "4867621",
+      "time": "2026-05-08 12:11:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：緊張局勢持續一年後，美國與南非就礦業交易展開會談。"
+    },
+    {
+      "id": "4867620",
+      "time": "2026-05-08 12:11:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【香港傳染病學專家曾祈殷：香港漢坦病毒風險不是特別高，但不能掉以輕心】據香港電臺網站5月8日訊息，世界衛生組織表示，荷蘭郵輪洪迪厄斯號至今報告8宗涉及漢坦病毒的個案，當中3人死亡，涉及的是漢坦病毒家族成員、可以人傳人的安第斯病毒。香港衛生防護中心表示，郵輪上沒有香港居民。感染及傳染病科專科醫生曾祈殷表示，漢坦病毒的天然宿主包括老鼠或田鼠等囓齒動物。涉事郵輪途經的地方，包括南美的島嶼，都是鼠患較嚴重的地方，估計染病人士可能在上船前已經受感染。而安第斯病毒暫時所知屬於有限度人傳人，要透過密切接觸，例如夫婦或者密閉空間等。他認為香港現在的風險不是特別高，但不能掉以輕心，最重要是加緊做好滅鼠及防鼠工作。"
+    },
+    {
+      "id": "te:markets:549027",
+      "time": "2026-05-08 12:11:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Palm Oil Set for Back-to-Back Weekly Losses — Malaysian palm oil futures traded below MYR 4,550 per tonne, extending recent losses as weakness in Dalian edible oils weighed on sentiment. The market is heading for a second straight weekly decline, down about 0.8% so far, reflecting demand concerns. April imports by top consumer India plunged 27% month-over-month to a one-year low, adding to bearish sentiment. Meanwhile, cargo surveyors estimated Malaysia’s exports during April 1–25 fell 15.7%–16.8% from March, linked to softer post-festive buying. Still, losses were partly cushioned by a weaker ringgit and firmer Chicago soyoil. Crude oil prices also climbed on renewed U.S.–Iran tensions, boosting expectations for stronger biofuel demand. Domestically, Malaysia will implement its B15 biodiesel mandate from June 1, raising the blend from the current B10 to curb fuel imports and support palm oil consumption. Market participants now await monthly data from the Malaysian Palm Oil Board due Monday for clearer supply-demand signals."
+    },
+    {
+      "id": "4867619",
+      "time": "2026-05-08 12:11:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【湖南瀏陽煙花廠爆炸事故已致37人死亡】5月4日下午，瀏陽市華盛煙花製造燃放有限公司發生爆炸。截至5月8日，事故已致37人死亡。"
+    },
     {
       "id": "4867618",
       "time": "2026-05-08 12:06:02",
@@ -96392,14 +96427,6 @@
         "市場"
       ],
       "text": "住友商事股價在財報釋出後一度上漲4.5%。"
-    },
-    {
-      "id": "4855512",
-      "time": "2026-05-01 12:11:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "伊藤忠商事：計劃在2026財年回購至少3000億日元的股票。"
     }
   ]
 }
