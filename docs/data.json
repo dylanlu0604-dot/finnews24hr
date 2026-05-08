@@ -1,7 +1,89 @@
 {
-  "updated": "2026-05-08 14:23:09",
-  "count": 11315,
+  "updated": "2026-05-08 14:26:33",
+  "count": 11322,
   "items": [
+    {
+      "id": "4867776",
+      "time": "2026-05-08 14:26:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "多晶矽連續主力合約日內跌4%，現報38860.00元。"
+    },
+    {
+      "id": "te:economy:549075",
+      "time": "2026-05-08 14:25:58",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Sweden",
+        "Household Spending MoM",
+        "Importance 1"
+      ],
+      "text": "Swedish Household Spending Hits 4-Month High — Household spending in Sweden increased 1.4% month-on-month in March 2026, picking up from an upwardly revised 0.2% rise in the previous month. This marked the highest reading since November 2025, mainly driven by stronger consumption of clothing and footwear (3.4% vs 0.4% in February), transport, retail trade, and motor vehicle services (2.3% vs 0.7%), post and telecommunications (3.2% vs 1.1%), and recreation and culture (3.7% vs 1.4%). At the same time, spending rebounded in food and beverages (3.1% vs -0.4%), restaurants, cafes, hotels, and other accommodation services (1.6% vs -1.4%), and other goods and services (4.5% vs -4.0%). Meanwhile, consumption slowed for furniture, furnishings, household equipment, and consumables (0.6% vs 0.8%), while it declined for housing, electricity, gas, and heating (-1.7% vs 0.5%). On a yearly basis, household consumption climbed 4.1%, accelerating from an upwardly revised 1.9% increase in the previous month."
+    },
+    {
+      "id": "4867775",
+      "time": "2026-05-08 14:25:25",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達80億港元。"
+    },
+    {
+      "id": "te:economy:549072",
+      "time": "2026-05-08 14:24:53",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Germany",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "German Trade Surplus Smallest in 4 Months — Germany’s trade surplus narrowed to €14.4 billion in March 2026 from a downwardly revised €19.6 billion in February, falling short of market expectations of €18.4 billion. It was the smallest trade surplus since last November, as exports rose less than imports. Exports unexpectedly increased by 0.5% mom to a near 3½-year high of €135.8 billion, slowing sharply from a 3.6% rise in February and beating expectations of a 1.7% decline. Shipments to EU member states grew 3.4%, with exports to the Eurozone rising 4.1% and those to non-Eurozone countries climbing 1.7%. By contrast, exports to third countries fell 3.3%. Meanwhile, imports surged 5.1% mom to €121.5 billion, the highest level since November 2022, accelerating from an upwardly revised 4.9% increase in February and far exceeding expectations of a 0.8% rise. The increase was driven by purchases from both EU partners (3.0%) and non-EU countries (7.4%), particularly imports from China and the UK."
+    },
+    {
+      "id": "te:economy:549070",
+      "time": "2026-05-08 14:23:54",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Germany",
+        "Industrial Production Mom",
+        "Importance 1"
+      ],
+      "text": "German Industrial Output Unexpectedly Falls — Germany’s industrial output shrank 0.7% month-on-month in March 2026, following a downwardly revised 0.5% decline in the previous month and missing market expectations for a 0.5% increase. The drop was mainly driven by weaker energy production (-4.0%) and a decline in mechanical engineering output (-2.7%). In contrast, activity improved in construction (1.9%) and the automotive industry (1.9%). Excluding energy and construction, industrial production declined 0.9%, reflecting lower output of capital goods (-1.6%) and consumer goods (-1.9%), while intermediate goods production rose 0.8%. On a less volatile three-month basis, industrial activity contracted 1.2% in the January–March period compared with the previous three months. On an annual basis, industrial production dropped 2.8%, sharply worsening from a 0.2% decline in February."
+    },
+    {
+      "id": "4867774",
+      "time": "2026-05-08 14:23:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國交通部長：預計今年夏季不會出現大規模航班取消。"
+    },
+    {
+      "id": "4867773",
+      "time": "2026-05-08 14:23:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄烏均稱停火但戰火未熄】烏克蘭宣佈自當地時間5月6日零點起停火，俄羅斯宣佈自當地時間今天（5月8日）零點起停火——但據俄羅斯莫斯科市長索比亞寧通報稱，自今天零點起，已有26架烏克蘭無人機在接近莫斯科時被擊落。俄羅斯交通部稱，俄羅斯南部13家機場因遭無人機襲擊停止運營。烏克蘭總統澤連斯基今天還在社交媒體上稱，烏軍對俄羅斯雅羅斯拉夫爾州一處石油設施實施打擊。澤連斯基稱，這處石油設施距離邊境約700公里遠，這次襲擊對“切斷俄羅斯戰爭資金來源、遏制其戰爭能力意義重大”。（CCTV國際時訊）"
+    },
+    {
+      "id": "te:economy:549069",
+      "time": "2026-05-08 14:23:04",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Sweden",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "Sweden Industrial Output Growth Slows in March — Industrial production in Sweden rose 3% year-on-year in March 2026, easing from a downwardly revised 6.2% in the previous month. Manufacturing output slowed to 3.5% from 6.4% in the prior month, weighed down by weaker gains in textiles, clothing and leather industries (3% vs 6.3% in February), and transport equipment (0.1% vs 19.5%), as well as declines in electrical equipment (-5.3% vs 0.6%), machinery and equipment (-1.4% vs 5.2%), and motor vehicles, trailers and semi-trailers (-1.9% vs 18.9%). Meanwhile, mining and quarrying output fell 6.8%, reversing a 6.1% rise in the previous month. On a seasonally adjusted monthly basis, industrial production dropped 2%, down from a downwardly revised 3.8% growth in the prior period."
+    },
     {
       "id": "4867772",
       "time": "2026-05-08 14:21:53",
@@ -97186,14 +97268,6 @@
         "其他"
       ],
       "text": "【法國總理：將部署AI工具 排查資訊系統漏洞】法國總理發文：面對網路攻擊日益增多的態勢，必須加強對本國資訊系統的防護。國家各部門均被明確賦予網路安全方面的專屬職責。國家網路與安全部門將針對本國資訊系統開展模擬攻擊演練。提前制定各類危機預案，包括數字網路全面癱瘓極端場景，以應對最嚴重的突發狀況。將研發並部署人工智慧工具，用於排查資訊系統中的漏洞與安全隱患。這關乎國家安全與主權大局。"
-    },
-    {
-      "id": "4855629",
-      "time": "2026-05-01 14:25:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【紐西蘭總理：對阿曼的努力表示讚賞】紐西蘭總理發文稱，海灣地區的局勢穩定至關重要，這有助於緩解紐西蘭民眾面臨的油價壓力，而高油價困境正困擾著全球各國人民。昨日，我與阿曼蘇丹進行了會談。阿曼仍在為推動海灣局勢化解、恢復地區穩定而努力。外交斡旋是解決問題的關鍵，我對阿曼為推動透過談判達成解決方案所做的努力表示讚賞。"
     }
   ]
 }
