@@ -1,7 +1,300 @@
 {
-  "updated": "2026-05-08 19:51:05",
-  "count": 12139,
+  "updated": "2026-05-08 20:07:15",
+  "count": 12138,
   "items": [
+    {
+      "id": "mkt:019e077b-2014-7ff0-9ed4-59a4e21143e2",
+      "time": "2026-05-08 20:06:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "GREER: GOAL WITH CHINA IS STABILITY"
+    },
+    {
+      "id": "mkt:019e077b-0e1b-7ff0-9ed4-53404373e2e8",
+      "time": "2026-05-08 20:06:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "US TRADE REPRESENTATIVE JAMIESON GREER REITERATES RELATIONSHIP WITH CHINA IMBALANCED"
+    },
+    {
+      "id": "mkt:019e077a-d2db-7ff0-9ed4-4acd1150400e",
+      "time": "2026-05-08 20:05:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BALTIC DRY INDEX FALLS 1.85% TO 2,978 IN LONDON"
+    },
+    {
+      "id": "mkt:019e077a-b2a3-7ff0-9ed4-459c9b66bd6a",
+      "time": "2026-05-08 20:05:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. SECRETARY OF STATE RUBIO ON IRAN: I HOPE IT'S A SERIOUS OFFER"
+    },
+    {
+      "id": "mkt:019e077a-a715-7ff0-9ed4-3ebe112368e1",
+      "time": "2026-05-08 20:05:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. SECRETARY OF STATE RUBIO ON IRAN: HAVE NOT RECEIVED RESPONSE YET"
+    },
+    {
+      "id": "mkt:019e077a-8f4d-7ff0-9ed4-31204644a958",
+      "time": "2026-05-08 20:05:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. SECRETARY OF STATE RUBIO ON IRAN: WE SHOULD GET IRAN RESPONSE TODAY"
+    },
+    {
+      "id": "4868519",
+      "time": "2026-05-08 20:04:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗說襲擊伊朗讓以色列加速消亡】伊朗最高領袖軍事顧問穆赫辛·雷扎伊近日在接受黎巴嫩“廣場”電視臺採訪時稱，以色列內塔尼亞胡政府的行動“有效地縮短了以色列這個國家存在的時間表”，如今全球“反對以色列的情緒顯著高漲”，那些曾經支援以色列的人也已經轉向支援“以色列的敵人”。雷扎伊指出，美國人終會離開這一地區，而伊朗卻會留下來，這是以色列必須考慮的問題。雷扎伊還稱，伊朗對抗美國的勝利在全球引發了“重大的震動”，美國和北約的關係出現裂痕，阿拉伯國家也在開始構想一個“沒有美國存在的地區秩序”。（CCTV國際時訊）"
+    },
+    {
+      "id": "te:economy:549245",
+      "time": "2026-05-08 20:04:03",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Mauritius",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Mauritius Inflation Rate Quickens to 3.6% in April — The annual inflation rate in Mauritius accelerated to 3.6% in April 2026 from a one-year low of 2.7% in the prior month. Upward pressure came primarily from prices of restaurants & hotels (11% vs 9.2% in March); alcoholic beverages & tobacco (9.4% vs 9.1%); transportation (7.5% vs 4.8%); miscellaneous goods & services (5% vs 3.5%) and housing & utilities (3.9% vs 2.1%). Meanwhile, prices continued to fall for food & non-alcoholic beverages (-2.3% vs -2.9%). On a monthly basis, the CPI rose by 1.3%, the most since January 2025, after a 0.1% increase in the prior month."
+    },
+    {
+      "id": "4868518",
+      "time": "2026-05-08 20:03:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧談伊朗問題：我們今日應會收到伊朗的答覆。"
+    },
+    {
+      "id": "4868517",
+      "time": "2026-05-08 20:02:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧談及兵力部署：北約內部始終有兵力輪換調整的預案。"
+    },
+    {
+      "id": "4868516",
+      "time": "2026-05-08 20:01:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧在義大利會談時表示：未討論北約與駐歐美軍的具體議題。"
+    },
+    {
+      "id": "4868515",
+      "time": "2026-05-08 20:01:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧就北約兵力部署表態：最終決定權歸特朗普。"
+    },
+    {
+      "id": "4868513",
+      "time": "2026-05-08 20:01:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "智利4月份消費者價格環比上漲1.3%；此前預期上漲1.5%；同比上漲4.0%；預計+4.2%。"
+    },
+    {
+      "id": "mkt:019e0776-4dbc-7ff0-9ed4-2b32d3233581",
+      "time": "2026-05-08 20:00:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "US: OVER 70 TANKERS US MILITARY BLOCKING FROM IRANIAN PORTS"
+    },
+    {
+      "id": "mkt:019e0775-ef91-7ff0-9ed4-2711447f2128",
+      "time": "2026-05-08 20:00:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. SECRETARY OF STATE RUBIO ON ITALY MEETING: DID NOT DISCUSS SPECIFICS OF NATO, U.S. TROOPS"
+    },
+    {
+      "id": "4868512",
+      "time": "2026-05-08 20:00:11",
+      "tags": [
+        "資料"
+      ],
+      "text": "墨西哥4月份消費者信心指數為44.427。"
+    },
+    {
+      "id": "4868511",
+      "time": "2026-05-08 20:00:09",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國務院：同意在上海市暫時調整實施有關行政法規規定】上海市人民政府、司法部：你們關於在上海市暫時調整實施有關行政法規規定的請示收悉。現批覆如下：一、同意自即日起在上海市暫時調整實施《外國律師事務所駐華代表機構管理條例》的有關規定（目錄附後）。二、上海市人民政府、司法部等有關部門要根據上述調整，及時對本市、本部門制定的規章和規範性檔案作相應調整，統籌發展和安全，建立相適應的管理制度。三、國務院將根據上述調整實施情況，適時對本批覆的內容進行調整。（國務院）"
+    },
+    {
+      "id": "4868510",
+      "time": "2026-05-08 19:59:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【飛榮達：特定股東完成減持50,064股，佔總股本0.0086%】飛榮達公告稱，特定股東寧波飛馳榮達股權投資有限公司在2026年4月2日至7月1日的減持計劃已實施完畢。其於5月6日至7日透過集中競價方式減持公司股份50,064股，佔公司總股本的0.0086%，減持均價37.01元/股。本次減持後，飛馳投資不再持有公司股份。董事、副總經理馬軍減持計劃尚未實施完畢，公司將持續關注並及時披露其權益變動情況。"
+    },
+    {
+      "id": "4868509",
+      "time": "2026-05-08 19:58:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧談及與教皇會晤：教會是重要的全球性機構。"
+    },
+    {
+      "id": "4868508",
+      "time": "2026-05-08 19:58:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中東緊張局勢再起之際，歐元信用債違約保護成本上升】由於美伊衝突出現新的緊張局勢，為歐元信用債違約提供保險的成本上升。IG分析師在一份報告中說：“美伊之間重新爆發的衝突威脅到了脆弱的停火協議，並引發了對透過霍爾木茲海峽的航運受到干擾的擔憂。“投資者擔心長期衝突對全球經濟的影響。標普全球市場財智資料顯示，歐元高收益信用違約掉期iTraxx Europe Crossover指數上升1個基點，至279個基點。"
+    },
+    {
+      "id": "4868507",
+      "time": "2026-05-08 19:57:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【潤澤科技：擬2億元參與設立創業投資合夥企業】潤澤科技公告稱，公司擬與上海森銳、海南晨興共同發起設立嘉興浩瀾潤澤芯微創業投資合夥企業，合夥企業認繳出資總額2.01億元，公司作為有限合夥人以自有資金認繳出資2億元，佔比99.4975%。本次投資已透過公司總經理辦公會議審議，不構成同業競爭和關聯交易、重大資產重組。基金聚焦人工智慧產業鏈未上市公司的股權（創業）投資，但存在不能實現預期收益的風險。"
+    },
+    {
+      "id": "4868506",
+      "time": "2026-05-08 19:57:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【渝開發：擬募資不超8114.32萬元投入兩房地產專案】渝開發公告稱，公司擬向特定物件發行不超3000萬股股票，募集資金不超8114.32萬元，用於格萊美城和貫金和府一期專案。格萊美城專案總投資16.01億元，預計使用募集資金1516.13萬元，預計實現不含稅銷售額21.21億元，淨利潤4.45億元。貫金和府一期專案總投資10.45億元，預計使用募集資金6598.19萬元，預計實現不含稅銷售額11.24億元，淨利潤1.07億元。本次募資將提升公司資金實力，為後續發展奠定基礎。"
+    },
+    {
+      "id": "4868505",
+      "time": "2026-05-08 19:57:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：古巴不接受援助。"
+    },
+    {
+      "id": "4868504",
+      "time": "2026-05-08 19:57:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧就古巴問題表示：美方已準備好提供更多人道主義援助。"
+    },
+    {
+      "id": "te:economy:549243",
+      "time": "2026-05-08 19:57:11",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Hungary",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Hungary 10Y Bond Yield Hits 27-month Low — Hungary 10 Year Government Bond Yield decreased to 5.75%, the lowest since January 2024. Over the past 4 weeks, Hungary 10Y Bond Yield lost 85.00 basis points, and in the last 12 months, it decreased 92.00 basis points."
+    },
+    {
+      "id": "4868503",
+      "time": "2026-05-08 19:56:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：認為與教皇的會晤非常積極。"
+    },
+    {
+      "id": "mkt:019e0772-5d25-7ff0-9ed4-1dfe3389808d",
+      "time": "2026-05-08 19:56:35",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Market Regions",
+        "Emerging Markets",
+        "Copper"
+      ],
+      "text": "RIO TINTO EVALUATES ECONOMIC POTENTIAL OF ARGENTINA'S LOS AZULES COPPER AS IT CONSIDERS RAISING ITS STAKE, SOURCES SAY"
+    },
+    {
+      "id": "4868502",
+      "time": "2026-05-08 19:54:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "訊息人士稱，力拓集團正評估阿根廷洛斯阿蘇萊斯銅礦的經濟潛力，並考慮增持該專案股權。"
+    },
+    {
+      "id": "4868501",
+      "time": "2026-05-08 19:54:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞安航空宣佈將於今年冬季關閉其塞薩洛尼基運營基地。"
+    },
+    {
+      "id": "te:markets:549242",
+      "time": "2026-05-08 19:54:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Set for 7% Weekly Drop — Brent crude oil futures fell 7% to below $101 per barrel this week as President Donald Trump said the ceasefire with Iran remained in place despite fresh clashes between US and Iranian forces, reinforcing hopes that a broader agreement could still be reached. US Central Command said American forces struck military targets in Iran after Tehran fired on three destroyers in the Strait of Hormuz, though officials stressed they were not seeking escalation. Trump later said the vessels had safely exited the strait without damage. Oil markets remain focused on Hormuz, which has been effectively closed since late February, disrupting global crude flows and forcing production shutdowns across the region. Traders continue balancing hopes for diplomacy against the risk of renewed escalation. The International Energy Agency warned the conflict is removing around 14 million barrels per day from global supply, while the UAE reported intercepting missiles and drones near the strait."
+    },
+    {
+      "id": "4868500",
+      "time": "2026-05-08 19:53:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "拉脫維亞國防部長宣佈，因烏克蘭無人機墜毀致使雷澤克內附近一處石油基地受損，他準備辭職。"
+    },
+    {
+      "id": "te:markets:549241",
+      "time": "2026-05-08 19:53:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "WTI Set for Sharp Weekly Loss — WTI crude oil futures fell 7% to below $95 per barrel this week as President Donald Trump said the ceasefire with Iran remained in place despite fresh clashes between US and Iranian forces, reinforcing hopes that a broader agreement could still be reached. US Central Command said American forces struck military targets in Iran after Tehran fired on three destroyers in the Strait of Hormuz, though officials stressed they were not seeking escalation. Trump later said the vessels had safely exited the strait without damage. Oil markets remain focused on Hormuz, which has been effectively closed since late February, disrupting global crude flows and forcing production shutdowns across the region. Traders continue balancing hopes for diplomacy against the risk of renewed escalation. The International Energy Agency warned the conflict is removing around 14 million barrels per day from global supply, while the UAE reported intercepting missiles and drones near the strait."
+    },
+    {
+      "id": "4868498",
+      "time": "2026-05-08 19:52:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【偉測科技：擬發行可轉換公司債券募集資金不超過20億元】偉測科技公告，公司擬向不特定物件發行可轉換公司債券募集資金不超過20億元，扣除發行費用後的募集資金將用於偉測科技上海總部基地專案、偉測科技西南總部及研發測試基地專案以及償還銀行貸款及補充流動資金。"
+    },
     {
       "id": "4868497",
       "time": "2026-05-08 19:49:32",
@@ -105636,301 +105929,6 @@
         "國際"
       ],
       "text": "美聯儲卡什卡利：即使出現霍爾木茲海峽很快重新開放的“有利情景”，通脹水平也會居高不下，導致利率需要在較長時間內維持不變。足夠大的價格衝擊可能危及通脹預期，可能需要美聯儲透過一系列加息來維護其捍衛2%通脹目標的公信力。"
-    },
-    {
-      "id": "4856046",
-      "time": "2026-05-01 20:06:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【奇瑞集團4月銷量25.1萬輛，同比增長25.2%】奇瑞集團：4月份，集團銷量251,386輛，同比增長25.2%；集團出口177,573輛，同比增長102.4%。集團新能源汽車銷量100,276輛，同比增長63.8%。"
-    },
-    {
-      "id": "4856045",
-      "time": "2026-05-01 20:06:26",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲卡什卡利推演中東衝突的兩種演變情景】美聯儲卡什卡利在文章中推演了中東衝突的兩種演變情景： 他表示，若霍爾木茲海峽航運能較快恢復通暢，核心通脹大機率連續第三年維持在3%左右，將持續壓制居民消費，或同時衝擊勞動力市場。這種情況下，美聯儲可能需要長期按兵不動，之後再逐步啟動降息。 但如果衝突長期僵持，將同時推高美國通脹與失業率。鑑於美國通脹已連續五年高於美聯儲目標，恐導致長期通脹預期脫錨，屆時美聯儲或將被迫加息以扭轉這一趨勢。"
-    },
-    {
-      "id": "4856044",
-      "time": "2026-05-01 20:05:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "WW國際公司：符合資格的會員每月購買司美格魯肽（Ozempic）處方，最低僅需25美元。"
-    },
-    {
-      "id": "4856043",
-      "time": "2026-05-01 20:05:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "諾和諾德：5月4日將在美國推出用於治療2型糖尿病的口服索馬魯肽（Ozempic片劑）。"
-    },
-    {
-      "id": "4856042",
-      "time": "2026-05-01 20:05:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "諾和諾德旗下的索馬魯肽口服片（商品名Ozempic®）是目前唯一經美國食品藥品監督管理局批准、用於治療成人2型糖尿病的口服胰高血糖素樣肽-1（GLP-1）肽類藥物，即將在美國上市。"
-    },
-    {
-      "id": "4856041",
-      "time": "2026-05-01 20:04:35",
-      "tags": [
-        "宏觀",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【兩名美聯儲官員對本週的政策宣告投下反對票：伊朗局勢衝突對美國經濟造成衝擊】兩名美聯儲官員表示，他們對本週的政策宣告投下反對票，原因是宣告繼續暗示美聯儲下一步行動仍大機率為降息，這一表述已不再合適。 二人稱，伊朗局勢衝突對美國經濟造成衝擊，令貨幣政策未來路徑的不確定性進一步上升。 明尼阿波利斯聯儲行長尼爾・卡什卡利週五釋出文章表示：“我認為聯邦公開市場委員會應當給出這樣的政策展望：後續利率調整既可能降息、也可能加息，具體取決於經濟走勢。此舉或在當下一定程度上收緊金融條件，提前對沖高通脹局面，避免未來不得不出臺更強力的貨幣政策應對措施。” 克利夫蘭聯儲行長貝絲・哈馬克週五單獨發表宣告稱，美國經濟今年以來韌性十足，油價上漲進一步加劇了全面通脹壓力。 她表示：“2026年經濟前景不確定性攀升，也讓貨幣政策未來走向更難預判。鑑於當前經濟前景，我認為政策宣告中明確的寬鬆傾向已不合時宜。” 哈馬克、卡什卡利與達拉斯聯儲行長洛裡・洛根均支援維持利率不變的決議，但反對宣告中暗示美聯儲傾向重啟降息的措辭。"
-    },
-    {
-      "id": "4856040",
-      "time": "2026-05-01 20:03:20",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行皮爾：因此，我認為我們應當更迅速地採取行動，應對新的通脹壓力。"
-    },
-    {
-      "id": "4856039",
-      "time": "2026-05-01 20:03:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "諾和諾德：自下週一起，Ozempic 口服制劑將在美國市場取代瑞倍適（Rybelsus）。"
-    },
-    {
-      "id": "4856038",
-      "time": "2026-05-01 20:02:40",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲卡什卡利：美聯儲應該釋放訊號，下一步可能是降息或加息。"
-    },
-    {
-      "id": "4856037",
-      "time": "2026-05-01 20:02:15",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "英國央行皮爾：我與貨幣政策委員會多數委員的主要分歧在於，伊朗衝突爆發前，我就更擔憂抗通脹程序會停滯。"
-    },
-    {
-      "id": "4856036",
-      "time": "2026-05-01 20:02:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭國家安全域性（SBU）稱其打擊了俄羅斯圖阿普謝港的一座油碼頭與一座煉油廠，引發火災。"
-    },
-    {
-      "id": "4856035",
-      "time": "2026-05-01 20:01:55",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲哈馬克：失業率基本持平。"
-    },
-    {
-      "id": "4856034",
-      "time": "2026-05-01 20:01:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭稱其連夜襲擊了俄羅斯的TUAPSE煉油廠。"
-    },
-    {
-      "id": "4856033",
-      "time": "2026-05-01 20:01:15",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "諾和諾德釋出宣告，公司將在美國市場把這款降糖口服藥統一更名為諾和泰（Ozempic）。"
-    },
-    {
-      "id": "4856032",
-      "time": "2026-05-01 20:01:06",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲哈瑪克：2026年經濟迄今表現強勁。油價上漲正加劇通脹壓力，對 “進一步調整” 措辭投下反對意見。"
-    },
-    {
-      "id": "4856031",
-      "time": "2026-05-01 20:00:43",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "聯儲哈馬克表示，FOMC 的寬鬆政策傾向已不再適宜。"
-    },
-    {
-      "id": "4856030",
-      "time": "2026-05-01 20:00:37",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "卡什卡利：美聯儲 FOMC 宣告中的前瞻指引並不適宜。"
-    },
-    {
-      "id": "4856029",
-      "time": "2026-05-01 20:00:24",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲卡什卡利：若戰爭持續拖延，通脹預期或將上行。"
-    },
-    {
-      "id": "4856028",
-      "time": "2026-05-01 20:00:12",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲卡什卡利：不受通脹因素影響的通脹預期將需要加息。"
-    },
-    {
-      "id": "4856027",
-      "time": "2026-05-01 19:59:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "【深圳：打造智慧財產權金融特色產品】深圳金融監管局、深圳市智慧財產權局、深圳市地方金融管理局近日印發《深圳市推進智慧財產權金融生態綜合試點行動方案（2026—2027年）》，其中提出，打造智慧財產權金融特色產品。引導金融機構開發促進智慧財產權轉移轉化的金融產品，鼓勵企業透過受讓、被許可、自實施等方式加快專利產業化程序。推廣“鵬知貸”智慧財產權質押融資系列產品品牌，支援銀行機構進一步擴大產品規模、拓寬押品範圍、最佳化貸款利率、延長貸款期限，加大對“20+8”戰略性新興產業叢集和未來產業的智慧財產權金融支援力度。面向擁有優質智慧財產權的初創企業和科技人才，推出“種子貸”“深才貸”等特色產品，提供場景化綜合金融服務。持續完善遊戲、動漫、影視、音樂、文化等領域版權金融服務。"
-    },
-    {
-      "id": "4856026",
-      "time": "2026-05-01 19:58:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿古斯研究將高通目標價從180美元上調至220美元。"
-    },
-    {
-      "id": "4856025",
-      "time": "2026-05-01 19:57:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "帝國石油：預計關稅不會對其合併財務狀況、經營業績或現金流產生重大影響。"
-    },
-    {
-      "id": "4856024",
-      "time": "2026-05-01 19:56:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "帝國石油：本季度下游日均加工量為38.4萬桶。"
-    },
-    {
-      "id": "4856023",
-      "time": "2026-05-01 19:55:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "帝國石油：第一季度上游產量為每日41.9萬桶總石油當量桶。"
-    },
-    {
-      "id": "4856022",
-      "time": "2026-05-01 19:55:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國防部技術主管表示：Anthropic 仍在黑名單之列。"
-    },
-    {
-      "id": "4856021",
-      "time": "2026-05-01 19:54:08",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行行長皮爾：不過貨幣政策委員會也已強調，隨時準備在必要時採取行動。"
-    },
-    {
-      "id": "4856020",
-      "time": "2026-05-01 19:54:03",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行皮爾：貨幣政策委員會不願對利率作出鎖定承諾，需保持政策靈活性。"
-    },
-    {
-      "id": "4856019",
-      "time": "2026-05-01 19:53:57",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行皮爾：相關言論代表貨幣政策委員會的整體觀點。"
-    },
-    {
-      "id": "4856018",
-      "time": "2026-05-01 19:52:51",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行皮爾：維持利率不變更多是一項主動決策。"
-    },
-    {
-      "id": "4856017",
-      "time": "2026-05-01 19:52:29",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行皮爾：維持利率不變並非被動決策。"
-    },
-    {
-      "id": "4856016",
-      "time": "2026-05-01 19:52:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "【報道稱美國“艾森豪威爾”號航母維修後重返服役】據報道，美國航空母艦“德懷特·艾森豪威爾”號在維修和海試後正恢復服役。訊息顯示，航母在維修期間，檢查了渦輪軸和飛機發射彈射器，並進行了現代化改造。該航母上一次執行任務是在2023年，前往中東完成任務。"
-    },
-    {
-      "id": "4856015",
-      "time": "2026-05-01 19:52:14",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "英國央行首席經濟學家皮爾：金融環境收緊對於伊朗戰爭帶來的通脹風險而言，似乎是合理應對措施。"
-    },
-    {
-      "id": "4856014",
-      "time": "2026-05-01 19:52:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "蘋果股價盤前延續漲勢，觸及盤中高點4.1%。"
-    },
-    {
-      "id": "4856013",
-      "time": "2026-05-01 19:51:49",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行皮爾：貨幣政策委員會內部對第二輪效應存在分歧。正就金融收緊議題展開大量討論。"
     }
   ]
 }
