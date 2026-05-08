@@ -1,7 +1,107 @@
 {
-  "updated": "2026-05-08 22:57:14",
-  "count": 12387,
+  "updated": "2026-05-08 23:00:38",
+  "count": 12392,
   "items": [
+    {
+      "id": "te:markets:549309",
+      "time": "2026-05-08 23:00:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Norwegian Krone Rises by 1.02% — Top currency gainers are Norwegian Krone (1.02%), Brazilian Real (0.97%), Swedish Krona (0.71%), British Pound (0.50%), Euro (0.41%) and Japanese Yen (0.19%). Biggest loser is Dollar Index (-0.15%)."
+    },
+    {
+      "id": "4868900",
+      "time": "2026-05-08 23:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】純鹼連續跌2.49%，燃料油連續漲2.18%，低硫燃料油連續漲2.00%，瀝青連續漲1.29%，聚丙烯連續漲1.25%。"
+    },
+    {
+      "id": "te:economy:549308",
+      "time": "2026-05-08 23:00:01",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brazil",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Brazil 10-Year Government Bond Yield Rebounds — The yield on Brazil’s 10-year government bond rebounded to 13.9% from the two-week low of 13.8% on May 6th as risks of higher inflation backed the outlook of elevated interest rates. The Central Bank of Brazil signaled that it sees pro-inflationary risks in its latest minutes, as the war in the Middle East lifted energy costs and threatened spreading to broader areas of the economy. Brazil’s annual inflation rate rose to 4.14% in March 2026 from 3.81% in February, slightly above market expectations of 4.0%, particularly due to the impact of energy inflation on transportation costs. The slower pace of rate cuts by the central bank had driven the Treasury to conduct a R$44 billion buyback earlier in the year to limit higher yields."
+    },
+    {
+      "id": "4868899",
+      "time": "2026-05-08 22:59:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "黎巴嫩真主黨宣稱擊中黎巴嫩南部的以色列指揮所。"
+    },
+    {
+      "id": "4868898",
+      "time": "2026-05-08 22:59:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽評級：將加州 M-S-R 能源管理局 2009A、B、C 專案收益相關評級展望上調至正面；維持A 級信用評級不變。"
+    },
+    {
+      "id": "4868897",
+      "time": "2026-05-08 22:59:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【獅子山卡車與客車相撞致10人死亡】獅子山警方8日證實，一輛集裝箱卡車7日在獅子山首都弗里敦附近的一條高速公路上與兩輛客車相撞，造成至少10人死亡，多人受傷。初步調查顯示，涉事卡車在行駛中失控，與一輛客運車輛和一輛私家車相撞，造成人員傷亡。事故原因正在調查中。當地警方官員稱，傷者已被送往醫院接受治療，事故造成的死亡人數可能會增加。（央視新聞）"
+    },
+    {
+      "id": "4868896",
+      "time": "2026-05-08 22:59:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【上美股份：2026年6月23日將派發股息0.857006港元/股】上美股份（02145.HK）公告，公司2025年度末期股息已獲股東周年大會批准，每股派發人民幣0.75元；以港元派付的末期股息按匯率1.142674（1人民幣兌1.142674港元）折算，每股H股派發0.857006港元（含稅）。該末期股息將於2026年6月23日或之前派付予截至2026年5月18日營業時間結束時登記在冊的股東。"
+    },
+    {
+      "id": "4868894",
+      "time": "2026-05-08 22:58:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "Moderna股價上漲16.4%。"
+    },
+    {
+      "id": "4868893",
+      "time": "2026-05-08 22:57:20",
+      "tags": [
+        "宏觀",
+        "市場"
+      ],
+      "text": "【報告：儘管英國國債反應積極，英國政治不確定性依然存在】英國國債收益率下降，顯示出對早期地方選舉結果的積極反應。然而，Peel Hunt的Kallum Pickering在一份報告中表示，對這種初步反應應持謹慎態度，因為英國的政治局勢仍然不穩定。Pickering說，英國國債收益率下降可能是由於基爾·斯塔默有意繼續擔任首相，以及目前沒有挑戰者。不過他表示：“現在得出任何確切結論還為時過早，局勢仍在不斷變化。”Tradeweb的資料顯示，10年期英國國債收益率下降3.5個基點，至4.885%，早些時候曾觸及4.864%的兩週低點。"
+    },
+    {
+      "id": "te:economy:549306",
+      "time": "2026-05-08 22:57:20",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Africa",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "South Africa 10-Year Bond Yield Edges Higher — South Africa’s 10-year bond yield rose to near 8.63%, as geopolitical uncertainty persisted and domestic political concerns resurfaced. Ongoing Middle East tensions continue to cloud the economic outlook, posing risks to inflation and growth. Higher energy prices and fertilizer shortages are expected to lift inflation in the coming months, while the central bank reaffirmed its strong commitment to the 3% target. On the political front, South Africa's Constitutional Court reopened the possibility of impeachment proceedings against President Cyril Ramaphosa, overturning the 2022 parliamentary vote that blocked such proceedings in the context of the \"Phala Phala\" scandal. Ramaphosa is accused of hiding from police and tax authorities a 2020 break-in and theft of large sums of foreign currency allegedly stashed in furniture at his luxury farmhouse."
+    },
+    {
+      "id": "4868892",
+      "time": "2026-05-08 22:56:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【教育部黨組學習貫徹習近平總書記在加強基礎研究座談會上的重要講話精神】5月8日，教育部黨組書記、部長懷進鵬主持召開黨組會，傳達學習習近平總書記在加強基礎研究座談會上的重要講話精神，研究部署貫徹落實工作。部黨組成員出席會議。 會議指出，在“十五五”開局之年，習近平總書記出席加強基礎研究座談會並發表重要講話，充分體現了以習近平同志為核心的黨中央對基礎研究的高度重視，深刻彰顯了基礎研究作為整個科學體系的源頭、所有技術問題的總機關，對實現高水平科技自立自強的根本支撐作用。習近平總書記的重要講話，充分肯定我國基礎研究取得的成就，全面分析面臨的新形勢新挑戰，對加強基礎研究作出戰略部署、提出明確要求，具有很強的政治性、思想性、指導性，為加強基礎研究指明瞭前進方向、提供了根本遵循。（教育部）"
+    },
     {
       "id": "te:economy:549304",
       "time": "2026-05-08 22:56:47",
@@ -108445,56 +108545,6 @@
         "市場"
       ],
       "text": "精神航空盤中股價迅速跌至當日低點，下跌57%。"
-    },
-    {
-      "id": "4856313",
-      "time": "2026-05-01 23:00:07",
-      "tags": [
-        "市場"
-      ],
-      "text": "【英特爾股價觸及100美元 總市值飆升至5000億美元】英特爾股價上漲6%，一度站上100美元/股，現報99.780美元/股，總市值報5015億美元，重新整理記錄新高。英特爾股價在4月份累計大漲114%。"
-    },
-    {
-      "id": "4856312",
-      "time": "2026-05-01 22:59:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "富國銀行將蘋果公司目標價從300.00美元上調至310.00美元。"
-    },
-    {
-      "id": "4856311",
-      "time": "2026-05-01 22:59:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "精神航空與美國聯邦政府的救助協議已破裂。"
-    },
-    {
-      "id": "4856310",
-      "time": "2026-05-01 22:59:13",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "精神航空準備停運倒閉，其債券持有人不支援救助重組方案。"
-    },
-    {
-      "id": "4856309",
-      "time": "2026-05-01 22:58:55",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【CBOT玉米主力合約漲超1%】CBOT玉米主力合約漲超1%，現報479.5美分/蒲式耳。"
-    },
-    {
-      "id": "4856308",
-      "time": "2026-05-01 22:58:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "據報道，伊朗民眾正做好重回戰爭狀態的準備。"
     }
   ]
 }
