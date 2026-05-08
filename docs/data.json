@@ -1,7 +1,27 @@
 {
-  "updated": "2026-05-09 00:38:48",
-  "count": 12406,
+  "updated": "2026-05-09 00:42:21",
+  "count": 12402,
   "items": [
+    {
+      "id": "4868976",
+      "time": "2026-05-09 00:42:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗媒體：美伊波斯灣交火目前已停 地區類似衝突可能重燃】伊朗塔斯尼姆通訊社8日援引軍方訊息人士的話報道，在美國針對伊朗油輪採取武力行動後，伊朗武裝力量已火力回擊美方違反停火協議的“恐怖主義行為”。該訊息人士稱，經過一段時間交火，目前衝突已經停止，局勢恢復平靜。他同時警告，若美方再次試圖進入波斯灣或對伊朗船隻進行騷擾，將再度遭到堅決回應，該地區類似衝突重新爆發的可能性依然存在。 (新華社)"
+    },
+    {
+      "id": "te:markets:549329",
+      "time": "2026-05-09 00:40:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "CAC 40 Falls as US-Iran Tensions Weigh — The CAC 40 fell 1.1% to close at 8,113 on Friday, extending the previous session’s losses as renewed tensions between the US and Iran rattled investor sentiment. Three US Navy destroyers reportedly intercepted Iranian attacks in the Strait of Hormuz and carried out retaliatory strikes, raising fears of a broader regional conflict and pushing oil prices higher. European markets remained vulnerable to developments in the Middle East due to the region’s reliance on imported energy and concerns that higher oil prices could fuel inflation and weigh on economic growth. US President Trump warned that the EU could face significantly higher tariffs if trade agreements are not reached. Most sectors traded lower, with financial stocks BNP Paribas (-1.8%) and AXA (-1.3%) among the main decliners. Luxury names LVMH (-1.2%) and Hermès (-2.4%) also fell amid weaker risk appetite, while industrials Airbus (-1.9%) and Safran (-2.9%) declined. In contrast, TotalEnergies gained 0.7%."
+    },
     {
       "id": "mkt:019e0874-aadb-7aa7-bba7-b610703c55ae",
       "time": "2026-05-09 00:38:44",
@@ -108804,55 +108824,6 @@
         "國際"
       ],
       "text": "美國財長貝森特：伊朗是全球恐怖主義的禍首源頭。美國財政部正透過經濟雷霆手段強勢行動，切斷伊朗軍方的資金命脈。我方將持續無情打擊伊朗政權創收、轉移及匯回資金的能力，並追查所有協助德黑蘭規避制裁的相關方。"
-    },
-    {
-      "id": "4856447",
-      "time": "2026-05-02 00:42:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美總統簽署行政令 擴大對古巴制裁範圍】當地時間5月1日，總檯記者獲悉，美國總統特朗普簽署行政令，擴大對古巴政府的制裁範圍。美國官員表示，新制裁將針對支援古巴政府安全機構、涉及腐敗等情況的個人與實體，同時覆蓋相關代理人及支持者。此外，該行政令授權實施“次級制裁”，即對與被制裁物件進行交易或提供協助的第三方個人和機構同樣施加制裁。據悉，目前尚未明確具體被列入制裁名單的物件。（央視新聞）"
-    },
-    {
-      "id": "4856446",
-      "time": "2026-05-02 00:40:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普吹捧美國股市創歷史新高。"
-    },
-    {
-      "id": "4856445",
-      "time": "2026-05-02 00:40:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：汽油價格現在很高，但戰爭結束後就會下降。"
-    },
-    {
-      "id": "4856444",
-      "time": "2026-05-02 00:39:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：這場戰爭結束後，石油、天然氣及所有能源價格都將大幅暴跌。"
-    },
-    {
-      "id": "4856443",
-      "time": "2026-05-02 00:39:45",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國本田汽車公司：4月份電動汽車銷量為41,344輛。"
-    },
-    {
-      "id": "4856442",
-      "time": "2026-05-02 00:39:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：美國現在不會離開霍爾木茲海峽。"
     }
   ]
 }
