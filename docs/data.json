@@ -1,7 +1,38 @@
 {
-  "updated": "2026-05-08 08:52:15",
-  "count": 11086,
+  "updated": "2026-05-08 08:55:42",
+  "count": 11085,
   "items": [
+    {
+      "id": "te:markets:548971",
+      "time": "2026-05-08 08:54:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Japanese Shares Slip on US-Iran Fighting — The Nikkei 225 Index fell 0.4% to around 62,500, while the broader Topix Index dropped 0.6% to 3,817 on Friday, giving back part of the previous session’s gains as renewed fighting between the US and Iran in the Strait of Hormuz revived geopolitical concerns. In Japan, data showed real wages rose for a third consecutive month in March, reinforcing the Bank of Japan’s case for additional interest rate hikes even as the Middle East conflict adds uncertainty to the economic outlook. Among individual stocks, notable declines were recorded in SoftBank Group (-3.2%), Fujikura (-2.7%), Fast Retailing (-2.2%), Lasertec (-2.3%), and Ibiden Co (-8%). Despite Friday’s pullback, Japan’s benchmark indexes remain on track for strong weekly gains after Thursday’s sharp rally, as upbeat earnings from major technology firms strengthened optimism around artificial intelligence and lifted demand for semiconductor-related shares."
+    },
+    {
+      "id": "4867349",
+      "time": "2026-05-08 08:53:25",
+      "tags": [
+        "央行",
+        "公司",
+        "資料",
+        "國際"
+      ],
+      "text": "【機構：儘管第一季度增長疲軟，菲律賓央行仍可能加息】荷蘭國際集團的Deepali Bhargava表示，儘管該國第一季度GDP增長資料疲軟，但菲律賓央行仍可能在6月份推進加息。這位亞太區研究主管指出，該國經濟第一季度同比增長2.8%，低於第四季度3.0%的增幅，且今年剩餘時間的前景更加疲軟。然而，在4月份物價飆升至三年多高點之後，菲律賓央行近期強調，其首要目標是控制通脹。該央行可能會擔心通脹壓力正變得更加廣泛。”CPI漲幅超出預期的幅度非常大，我認為這可能會帶來菲律賓央行更大幅度、更快加息的風險，“她說。"
+    },
+    {
+      "id": "4867348",
+      "time": "2026-05-08 08:53:04",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通將泡泡瑪特目標價從157.00港元下調至140.00港元。"
+    },
     {
       "id": "4867347",
       "time": "2026-05-08 08:51:30",
@@ -95119,40 +95150,6 @@
         "市場"
       ],
       "text": "【澳大利亞房價漲幅因利率攀升而放緩】由於利率上升對市場構成拖累，澳大利亞4月份房價錄得2025年1月以來最慢增速。房地產研究機構Cotality的資料顯示，4月份房價環比上漲0.3%。全國資料受到悉尼和墨爾本的拖累，這兩個城市的房價當月下跌了0.6%。該資料顯示，悉尼房價目前較11月的峰值低1.0%，而墨爾本房價則較2025年11月的週期性高點低1.9%。Cotality補充稱，4月份所有首府城市的房價增速都放緩了，但各地情況仍差異很大。珀斯的房價增長也明顯後勁不足，但市場依然強勁，4月份房價上漲了2.1%。Cotality的研究總監蒂姆·勞利斯(Tim Lawless)表示，市場降溫的趨勢從去年底就已開始顯現。他說：“由於負擔能力和償債能力方面的限制對需求構成壓力，房地產市場從去年年底開始就已失去動能。”"
-    },
-    {
-      "id": "4854908",
-      "time": "2026-05-01 08:55:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "委內瑞拉與美國達成的石油交易將帶來超過20億美元的投資。"
-    },
-    {
-      "id": "4854907",
-      "time": "2026-05-01 08:53:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美政府官員：2月28日開始的“敵對行動已結束” 】美國政府高階官員稱，根據《戰爭權力法》，2月28日開始的“敵對行動已結束”。（新華社）"
-    },
-    {
-      "id": "4854906",
-      "time": "2026-05-01 08:53:27",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【委內瑞拉與亨特石油公司、Crossover Energy公司簽署石油和天然氣協議】委內瑞拉官員們在國家電視臺直播的一場活動中表示，美國能源企業Crossover Energy和Hunt Oil Company的旗下子公司週四與委內瑞拉政府簽署了初步協議。這是代理總統羅德里格斯（Delcy Rodriguez）為鼓勵對該國投資所做努力的一部分。羅德里格斯表示，該協議可能使這些公司參與該國主要產油區——包括阿納科、莫納加斯和巴里納斯——的石油和天然氣生產。"
-    },
-    {
-      "id": "4854905",
-      "time": "2026-05-01 08:52:43",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "委內瑞拉與美國公司簽署石油行業諒解備忘錄。"
     }
   ]
 }
