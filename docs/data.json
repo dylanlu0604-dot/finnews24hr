@@ -1,7 +1,26 @@
 {
-  "updated": "2026-05-08 08:38:32",
-  "count": 11080,
+  "updated": "2026-05-08 08:41:56",
+  "count": 11078,
   "items": [
+    {
+      "id": "te:markets:548960",
+      "time": "2026-05-08 08:39:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gasoline Rises Back Toward 4-Year High — Gasoline futures for delivery at the New York Harbor rose above $3.50 per gallon, climbing back toward their four-year high, as fresh clashes in the Middle East heightened worries over prolonged energy supply disruptions. The US and Iran traded attacks in the Strait of Hormuz, with each side blaming the other for sparking the clash, raising doubts about the month-long ceasefire. Traffic through the Strait of Hormuz has remained suspended since early March, disrupting the flow of roughly 20 million barrels per day of oil and refined fuels to key importing nations. At the same time, shortages of diesel and jet fuel in Europe and Asia prompted major refiners to shift more capacity toward distillate production rather than gasoline, worsening supply concerns. As a result, US gasoline inventories fell for an 11th consecutive week, further tightening stockpiles ahead of the peak summer demand season."
+    },
+    {
+      "id": "4867334",
+      "time": "2026-05-08 08:39:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【OpenAI推出“可信聯絡人”安全功能】當地時間5月7日，OpenAI宣佈推出“可信聯絡人”功能。具體而言，如果OpenAI的自動化系統和經過培訓的稽核人員檢測到成年使用者可能曾討論過自殘行為，且這種行為可能構成嚴重的安全隱患，則該聯絡人將會收到通知。宣告稱，該功能不會取代專業護理或危機干預服務，而是為處於困境中的使用者提供多重保障措施。ChatGPT仍會鼓勵使用者在適當情況下聯絡危機熱線或緊急服務部門。"
+    },
     {
       "id": "te:economy:548958",
       "time": "2026-05-08 08:35:44",
@@ -95060,40 +95079,6 @@
         "其他"
       ],
       "text": "【江蘇省上線“人工智慧+”應急指揮資訊系統】4月29日，江蘇省“人工智慧+”應急指揮資訊系統正式上線，著力打造智慧研判、科學指揮、高效處置的應急指揮“智慧大腦”，標誌著江蘇省應急指揮數智化轉型邁向更高水平。該系統圍繞應急指揮全鏈條、全流程，重點打造智慧資訊處理、智慧輔助決策、智慧指揮排程、智慧事件覆盤四大核心功能模組。在事故資訊編報場景中，可實現對渠道眾多、形態多樣的事故資訊進行關聯分析，自動生成規範制式報告，資訊編報時長從約20分鐘壓縮至5分鐘內。在智慧輔助決策場景中，實現智慧問答、秒級查詢、即查即顯，資訊查詢從數小時壓縮至秒級響應。"
-    },
-    {
-      "id": "4854896",
-      "time": "2026-05-01 08:41:48",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【上海航運交易所：節前運輸市場總體平穩 航線運價整體略有上浮】據上海航運交易所，“五一”假期前中國出口集裝箱運輸市場總體執行平穩，中東航線運價略有回落，其餘遠洋航線節前運價總體略有上升。本週，出口集裝箱運價綜合指數小幅上漲。4月30日，上海航運交易所釋出的上海出口集裝箱綜合運價指數為1911.40點，較上期上漲1.9%。"
-    },
-    {
-      "id": "4854895",
-      "time": "2026-05-01 08:41:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "鴻蒙智行： 新銳智慧SUV問界M6上市1周交付突破5000臺。"
-    },
-    {
-      "id": "4854894",
-      "time": "2026-05-01 08:40:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【144股獲券商買入評級，鼎勝新材目標漲幅達125.94%】Wind資料顯示，4月30日，共有144只個股獲券商買入評級，其中4只個股公佈了目標價格。按最高目標價計算，鼎勝新材、中煤能源、宏發股份目標漲幅排名居前，漲幅分別達125.94%、28.69%、27.81%。從評級調整方向來看，132只個股評級維持不變，1只個股評級獲調高，11只個股為首次評級。此外，有13只個股獲多家券商關注，中國人壽、新華保險、錦江酒店獲評級數量居前，分別有3家、2家、2家券商給予評級。從獲買入評級個股所屬Wind行業來看，資本貨物、材料Ⅱ、食品、飲料與菸草買入評級個股數量最多，分別有23只、18只、11只。"
-    },
-    {
-      "id": "4854893",
-      "time": "2026-05-01 08:39:09",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "Wolfe Research首席經濟學家Stephanie Roth：從勞動力市場形勢以及居高不下的通脹來看，經濟資料短期內不支援美聯儲降息。"
     }
   ]
 }
