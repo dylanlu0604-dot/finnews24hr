@@ -1,7 +1,25 @@
 {
-  "updated": "2026-05-09 02:54:43",
+  "updated": "2026-05-09 02:58:08",
   "count": 12419,
   "items": [
+    {
+      "id": "mkt:019e08f2-d221-7222-b4aa-0bdbb163b0ce",
+      "time": "2026-05-09 02:56:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "WORLD HEALTH ORGANIZATION CHIEF TO TRAVEL TO CANARY ISLANDS FOR HANTAVIRUS RESPONSE EFFORTS"
+    },
+    {
+      "id": "4869053",
+      "time": "2026-05-09 02:56:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "世界衛生組織總幹事將前往加那利群島，推進漢坦病毒防疫應對工作。"
+    },
     {
       "id": "mkt:019e08ee-57e1-7222-b4aa-07f5b175eeae",
       "time": "2026-05-09 02:51:38",
@@ -109127,22 +109145,6 @@
         "其他"
       ],
       "text": "Spirit Airlines可能最早在本週六停止運營。"
-    },
-    {
-      "id": "4856567",
-      "time": "2026-05-02 02:55:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗司法部長：我們尋求談判，而不是接受命令。"
-    },
-    {
-      "id": "4856566",
-      "time": "2026-05-02 02:55:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油期貨結算價報每桶108.17美元，下跌2.23美元，跌幅2.02%。"
     }
   ]
 }
