@@ -1,7 +1,41 @@
 {
-  "updated": "2026-05-08 12:43:37",
-  "count": 11244,
+  "updated": "2026-05-08 12:47:02",
+  "count": 11245,
   "items": [
+    {
+      "id": "te:economy:549039",
+      "time": "2026-05-08 12:45:21",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Netherlands",
+        "Manufacturing Production MoM",
+        "Importance 0"
+      ],
+      "text": "Dutch Manufacturing Output Rebounds in March — Manufacturing production in the Netherlands rose 2.8% month-on-month in March 2026, rebounding from a 1.3% drop in February. This marked the strongest growth since December 2023. Overall industrial production also increased by 2.8% from a month earlier. Compared with the same period last year, output grew 1.7%, with half of all industrial business categories recording higher production. Among the eight major sectors, the machinery industry posted the strongest growth, while the electrical and electronics sector recorded the steepest decline."
+    },
+    {
+      "id": "4867651",
+      "time": "2026-05-08 12:44:37",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "【德財長說美髮動的“不負責任戰爭”衝擊德經濟】德國財政部長拉爾斯·克林拜爾7日說，美國政府對伊朗發動的“不負責任的戰爭”導致能源價格飆升，令德國經濟和公共財政遭受重大打擊。 克林拜爾當天接受多家媒體採訪時說，中東戰事導致德國稅收收入預期下調，進而拖累經濟增長。他援引一項資料說，由於當前中東緊張局勢加劇能源價格上漲，今後經濟放緩的可能性上升，導致德國未來五年稅收預期下調約875億歐元。 克林拜爾說，資料體現了德國目前面臨的“嚴重不確定性”，凸顯持續加強危機管理的重要性。他表示，德國需聚焦投資與改革以增強經濟韌性，減輕外部風險可能帶來的衝擊。 (新華社)"
+    },
+    {
+      "id": "te:markets:549038",
+      "time": "2026-05-08 12:44:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Indian Rupee Weakens on Oil Prices Jump — The Indian rupee weakened to around 94.5 per dollar, reversing part of a two-day recovery, as renewed US-Iran hostilities in the Strait of Hormuz drove oil prices higher. The escalation, marked by exchanges of fire and accusations of ceasefire violations, reignited concerns over potential disruptions to a key global shipping route, prompting a sharp rebound in Brent crude to around $101.50 per barrel. Higher oil prices pressured the rupee through India’s elevated energy import exposure, with recent gains unwound as volatile crude prices drove position adjustments across the FX market. Persistent structural dollar demand also continued to weigh on the currency, while central bank measures aimed at stabilising the rupee offered only limited support. Market participants said a sustained recovery would depend on stability in oil prices and moderation in related dollar outflows."
+    },
     {
       "id": "4867650",
       "time": "2026-05-08 12:42:00",
@@ -96537,22 +96571,6 @@
         "A股"
       ],
       "text": "以現金分紅總額/淨利潤計算，2025年A股公司現金分紅比例達到44.87%，同樣為歷史最高水平。"
-    },
-    {
-      "id": "4855562",
-      "time": "2026-05-01 12:46:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "澳門公佈四月博彩收入較上年同期增長5.5%，達到199億澳門元。"
-    },
-    {
-      "id": "4855561",
-      "time": "2026-05-01 12:43:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿聯酋國防部：國防部副部長易卜拉欣·納賽爾·阿爾阿拉維接待了亞塞拜然國防部副部長阿吉爾·古爾巴諾夫，雙方討論了加強國防領域合作的方式，並審議了一些共同關心的問題。古爾巴諾夫還了解了阿聯酋的國家防務工業和軍事生產能力，包括製造和現代技術的進展。"
     }
   ]
 }
