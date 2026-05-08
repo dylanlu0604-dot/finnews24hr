@@ -1,7 +1,60 @@
 {
-  "updated": "2026-05-09 05:05:38",
-  "count": 12559,
+  "updated": "2026-05-09 05:09:02",
+  "count": 12564,
   "items": [
+    {
+      "id": "4869281",
+      "time": "2026-05-09 05:08:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "SAFEPOINT HOLDINGS提交IPO申請。"
+    },
+    {
+      "id": "4869280",
+      "time": "2026-05-09 05:07:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "週五（5月8日）紐約尾盤，標普500股指期貨最終漲0.81%，道指期貨漲0.10%，納斯達克100股指期貨漲2.32%。羅素2000股指期貨漲0.71%。"
+    },
+    {
+      "id": "te:markets:549352",
+      "time": "2026-05-09 05:06:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Rises as Investors Await US-Iran Deal — The Ibovespa gained 0.5% to close at 184,108 on Friday, as investors awaited Iran’s response to a US proposal aimed at ending the conflict in the Middle East. Banks led gains, with Itaú rising 1.1%, while other notable performers included Vale (+0.9%), WEG (+2.7%), and Azzas (+1.1%). Petrobras fell 1.2% as uncertainty over a potential peace deal persisted and clashes near the Strait of Hormuz continued. Elsewhere, Cemig (+0.9%), which is set to release Q1 2026 results later in the day, approved the election of Alexandre Ramos Peixoto as CEO. Banco do Brasil (+0.5%) said it renegotiated more than R$430 million in customer debt over two days. Embraer plunged 11.4% after reporting adjusted net income of R$145.4 million in Q1, down 51.5% from a year earlier. On the data front, revenue in Brazil’s manufacturing industry rose 3.8% in March from February, though growth remained weaker than a year earlier."
+    },
+    {
+      "id": "4869279",
+      "time": "2026-05-09 05:05:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "埃隆·馬斯克旗下人工智慧初創公司xAI上週裁員約10人。"
+    },
+    {
+      "id": "4869278",
+      "time": "2026-05-09 05:05:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "週五（5月8日）紐約尾盤（週六北京時間04:59），離岸人民幣（CNH）兌美元報6.7971元，較週四紐約尾盤漲116點，日內整體交投於6.8099-6.7955元區間，逼近2023年2月9日尾盤報價6.7922元、當年1月16日頂部6.6975元。本週，離岸人民幣累計上漲大約340點，漲幅0.50%。"
+    },
+    {
+      "id": "4869277",
+      "time": "2026-05-09 05:05:38",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "土耳其任命YUSUF EMRE AKGUNDUZ為央行副行長。"
+    },
     {
       "id": "4869276",
       "time": "2026-05-09 05:05:08",
@@ -110496,14 +110549,6 @@
         "市場"
       ],
       "text": "富時A50期指連續夜盤收漲0.1%，報15669點。"
-    },
-    {
-      "id": "4856629",
-      "time": "2026-05-02 05:07:35",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【5月2日美股成交額前20：閃迪創歷史新高，多家機構大幅上調其目標價】週五美股成交額第1名閃迪收高8.25%，股價創歷史新高，成交255.52億美元。週五多家機構集中大幅上調閃迪目標價，最高看漲至2000美元，反映市場對其增長預期顯著強化，情緒明顯轉向樂觀。具體而言，①Susquehanna將閃迪目標價從1000美元上調至2000美元。②花旗將閃迪目標價從980美元上調至1300美元。③美銀全球研究將閃迪目標股價從1080美元上調至1550美元。④瑞穗將閃迪目標價從1000美元上調至1220美元。⑤巴克萊將閃迪目標股價從750美元上調至1200美元。⑥梅里厄斯研究將閃迪目標股價從1350美元上調至1500美元。"
     }
   ]
 }
