@@ -1,7 +1,230 @@
 {
-  "updated": "2026-05-09 01:03:50",
-  "count": 12410,
+  "updated": "2026-05-09 01:23:28",
+  "count": 12420,
   "items": [
+    {
+      "id": "mkt:019e089d-3113-7222-b4a9-2536bb24c4ab",
+      "time": "2026-05-09 01:22:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRAN'S FOREIGN MINISTRY SPOKESPERSON: WE DO OUR WORK AND DO NOT CARE ABOUT DEADLINES OR ULTIMATUMS - ISNA"
+    },
+    {
+      "id": "mkt:019e089d-0b36-7222-b4a9-1e44f5c0d04a",
+      "time": "2026-05-09 01:22:50",
+      "tags": [
+        "MKT News",
+        "AVGO.O"
+      ],
+      "text": "APOLLO, BLACKSTONE WEIGH $35 BILLION FINANCING FOR BROADCOM"
+    },
+    {
+      "id": "mkt:019e089c-b80e-7222-b4a9-137e382d05cd",
+      "time": "2026-05-09 01:22:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CRUISE SHIP HANTAVIRUS PATIENTS COULD NOT HAVE BEEN INFECTED IN TIERRA DEL FUEGO - PROVINCIAL HEALTH AUTHORITY"
+    },
+    {
+      "id": "4869009",
+      "time": "2026-05-09 01:22:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿波羅與黑石集團考慮圍繞博通融資350億美元。"
+    },
+    {
+      "id": "4869008",
+      "time": "2026-05-09 01:21:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：三艘驅逐艦目前正在阿拉伯海航行，為對伊朗的封鎖行動提供支援。截至今日，美軍中央司令部部隊已攔截改道 57 艘商船，並癱瘓 4 艘，阻止這些船舶進出伊朗港口。"
+    },
+    {
+      "id": "4869007",
+      "time": "2026-05-09 01:20:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗駐德國大使：如果歐洲擔心霍爾木茲海峽，它應該約束美國。"
+    },
+    {
+      "id": "4869006",
+      "time": "2026-05-09 01:20:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【西班牙發現一例涉疫郵輪相關疑似病例】西班牙衛生部8日表示，一名曾與“洪迪厄斯”號郵輪後續病亡乘客搭乘同一航班的人員，因出現與感染漢坦病毒相符症狀，在該國東南部阿利坎特市送醫治療。"
+    },
+    {
+      "id": "mkt:019e089a-603c-7222-b4a9-0e8b4cddbec5",
+      "time": "2026-05-09 01:19:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "IRAN'S AMBASSADOR TO GERMANY: IF EUROPE IS WORRIED ABOUT HORMUZ, IT SHOULD RESTRAIN THE US - IRNA"
+    },
+    {
+      "id": "mkt:019e0898-b7e0-7222-b4a9-056a0bdd7df7",
+      "time": "2026-05-09 01:18:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRAN'S AMBASSADOR TO CHINA: RELATIONS BETWEEN CHINA AND IRAN WILL EXPAND AND DEEPEN AFTER THE WAR - ISNA"
+    },
+    {
+      "id": "4869005",
+      "time": "2026-05-09 01:16:15",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "週五（5月8日），美聯儲隔夜逆回購協議（RRP）使用規模為7.87億美元，上個交易日報7.73億美元。"
+    },
+    {
+      "id": "mkt:019e0896-af75-7222-b4a8-fa3aa76db654",
+      "time": "2026-05-09 01:15:53",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "NEW YORK FED ACCEPTS $0.787 BLN OF $0.787 BLN SUBMITTED TO REVERSE REPO FACILITY ON MAY 08"
+    },
+    {
+      "id": "mkt:019e0896-90b0-7222-b4a8-f2128a7b13fb",
+      "time": "2026-05-09 01:15:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRAN'S AMBASSADOR TO CHINA: CHINA CAN ACT AS GUARANTOR OF ANY AGREEMENT IN PERSIAN GULF REGION - ISNA"
+    },
+    {
+      "id": "mkt:019e0895-1e29-7222-b4a8-e9a6a1ed4865",
+      "time": "2026-05-09 01:14:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRAN DENIES ASSAULT ON CHINESE OIL TANKER - ISNA"
+    },
+    {
+      "id": "4869004",
+      "time": "2026-05-09 01:13:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度政府釋出新版勞工法典下的工資相關實施細則。"
+    },
+    {
+      "id": "mkt:019e0892-8d4c-7222-b4a8-e117c7745c1d",
+      "time": "2026-05-09 01:11:22",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【No Commercial Ship Crossings Reported in Strait of Hormuz as Tensions Escalate】No commercial vessels operated by registered shipping companies have crossed the Strait of Hormuz since Tuesday amid rising hostilities between Iran and the U.S., according to S&P Global Intelligence data. In the past seven days, 1,018 ships were tracked within 200 miles of the strait, though activity was largely limited to shadow fleet vessels, Iran-owned ships engaged in local trade, and some smaller crossings. Jeremy Domballe, maritime director at S&P Global Intelligence, said: “Absent a clear resolution, any increase in transits is more likely to begin as a slow trickle rather than a mass exodus, as key operational and security questions would still need to be addressed before confidence returns at scale.”"
+    },
+    {
+      "id": "mkt:019e0891-e691-7aa7-bba8-511bd4fc425a",
+      "time": "2026-05-09 01:10:39",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "NO COMMERCIAL SHIPS CROSS STRAIT OF HORMUZ IN THREE DAYS - WSJ"
+    },
+    {
+      "id": "4869003",
+      "time": "2026-05-09 01:10:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "據華爾街日報：特朗普計劃解僱美國食品藥品監督管理局（FDA）局長馬蒂・馬卡里。"
+    },
+    {
+      "id": "mkt:019e0891-af66-7222-b4a8-d8225a784791",
+      "time": "2026-05-09 01:10:25",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "TRUMP PLANNING TO FIRE FDA COMMISSIONER MARTY MAKARY - WSJ"
+    },
+    {
+      "id": "4869002",
+      "time": "2026-05-09 01:09:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "納斯達克100指數漲幅擴大至2.1%。"
+    },
+    {
+      "id": "4869001",
+      "time": "2026-05-09 01:05:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英國威爾士首席大臣宣佈辭任威爾士工黨領袖】英國威爾士地方政府首席大臣埃盧妮德·摩根8日說，她將辭去威爾士工黨領袖職務。當天公佈的威爾士議會選舉結果顯示，摩根失去議席。英國地方選舉初步結果8日揭曉，首相斯塔默領導的工黨遭遇失利。（新華社）"
+    },
+    {
+      "id": "mkt:019e088c-b353-7aa7-bba8-4e17db9003e8",
+      "time": "2026-05-09 01:04:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "PUTIN: FORTUNATELY, NO TRAGIC INCIDENTS OCCURRED AS A RESULT"
+    },
+    {
+      "id": "4869000",
+      "time": "2026-05-09 01:04:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京：此事可能會危及民用航空器的飛行安全。"
+    },
+    {
+      "id": "mkt:019e088b-c67d-7aa7-bba8-40a15f6b8f21",
+      "time": "2026-05-09 01:03:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "PUTIN: THIS COULD HAVE AN IMPACT ON THE SAFETY OF CIVIL AIRCRAFT"
+    },
+    {
+      "id": "4868999",
+      "time": "2026-05-09 01:03:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京： 烏克蘭襲擊了頓河畔羅斯托夫地區空中交通管制中心。"
+    },
+    {
+      "id": "mkt:019e088b-941d-7aa7-bba8-3bae1876efb3",
+      "time": "2026-05-09 01:03:37",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "PUTIN: UKRAINE ATTACKED ROSTOV-ON-DON REGIONAL AIR TRAFFIC CONTROL CENTER"
+    },
     {
       "id": "mkt:019e088b-75fd-7aa7-bba8-301967769fb0",
       "time": "2026-05-09 01:03:28",
@@ -108823,131 +109046,6 @@
         "國際"
       ],
       "text": "美國財政部：美國針對伊朗實施新一輪制裁，涉及6名個人、21家實體及1艘船隻。"
-    },
-    {
-      "id": "4856494",
-      "time": "2026-05-02 01:23:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "納斯達克表示，UNITED HOMES GROUP INC. A類股預計最後交易日為5月1日。"
-    },
-    {
-      "id": "4856493",
-      "time": "2026-05-02 01:22:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家航空航天局（NASA）：NASA及合作方更新國際空間站2026年飛行任務計劃。"
-    },
-    {
-      "id": "4856492",
-      "time": "2026-05-02 01:21:33",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "美國芝加哥商業交易所（CME）集團：4月30日，EBS平臺受理的日元成交量達到858億美元，創最近十年來新高。透過CME旗下FX Link產品的日元成交量突破9.2萬合約，創歷史新高。日元期權成交總額42億美元。4月30日，期貨、期權、現貨市場的日元成交量1407億美元。"
-    },
-    {
-      "id": "4856491",
-      "time": "2026-05-02 01:21:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家航空航天局（NASA）：NASA肯尼迪航天中心主任宣佈計劃卸任退休。"
-    },
-    {
-      "id": "4856490",
-      "time": "2026-05-02 01:19:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美媒：美軍在中東8國16處軍事設施在伊朗襲擊中受損】美國有線電視新聞網1日釋出調查報道說，對伊朗發起軍事行動以來，美國分佈在中東地區8個國家的至少16處軍事設施在伊方襲擊中受損，其中部分設施實際上已無法使用。這一調查報道依據數十張衛星影象，採訪來自美國及海灣阿拉伯國家的多名知情人士。據一名熟悉受損情況評估的美國國會助理透露，美軍在中東地區的大多數部署地點都受到影響。“各方對戰損情況評估不一。較為悲觀的看法是有些設施已被整體摧毀，需要關閉。而一些領導層級的人認為這些設施具有戰略價值，仍值得修復。”報道說，衛星影象顯示，伊朗主要打擊目標包括先進的雷達系統、通訊系統以及各類飛機。那名國會助理說，伊朗確實把這些設施當成“最划算的攻擊目標”，“在這一地區，雷達系統不僅造價最為昂貴，也是我們最為稀缺的資源”。（新華社）"
-    },
-    {
-      "id": "4856489",
-      "time": "2026-05-02 01:18:49",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【特朗普稱美國目前不會離開霍爾木茲海峽】美國總統特朗普表示，美國目前“不會離開”霍爾木茲海峽，他為美國的封鎖行動辯護，並稱該行動“很強大”。特朗普表示，封鎖措施正在奏效，並聲稱一旦戰爭結束，能源價格將大幅下降。“這場戰爭結束後，石油、天然氣以及所有東西的價格都會暴跌，”他說。他還讚揚美國股市創下歷史新高，並表示在他執政期間的專案都在“按時”和“按預算”完成。"
-    },
-    {
-      "id": "4856488",
-      "time": "2026-05-02 01:17:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗官員：與美方的談判並非特朗普所稱的電話溝通。"
-    },
-    {
-      "id": "4856487",
-      "time": "2026-05-02 01:16:41",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "週五（5月1日），美聯儲隔夜逆回購協議（RRP）使用規模為6.07億美元（交易對手5家），上個交易日報82.61億美元。"
-    },
-    {
-      "id": "4856486",
-      "time": "2026-05-02 01:15:00",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲官員：聯邦公開市場委員會的寬鬆傾向已不再適宜。"
-    },
-    {
-      "id": "4856485",
-      "time": "2026-05-02 01:13:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普威脅提高歐盟汽車進口關稅 歐盟：不可接受】針對美國總統特朗普宣稱將對歐盟汽車加徵25%關稅，當地時間5月1日，歐洲議會國際貿易委員會主席朗格表示，特朗普的相關做法“不可接受”，並批評美方“多次違反協議”，這一最新舉措恰好證明了美方是多麼不可靠。朗格指出，歐盟方面將繼續履行既有安排，並強調美方做法“不是對待親密夥伴應有的方式”。朗格還表示，歐洲議會正在推進相關立法工作，已形成議會立場，目標是在今年6月前完成。據悉，特朗普1日表示，由於歐盟未遵守協議，將對歐盟汽車加徵關稅，並稱此舉將使企業將生產轉移至美國。（央視新聞）"
-    },
-    {
-      "id": "4856484",
-      "time": "2026-05-02 01:10:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國中央司令部：美國軍隊繼續執行對伊朗的海上封鎖。目前，已有45艘商船被指示掉頭或返回港口。"
-    },
-    {
-      "id": "4856483",
-      "time": "2026-05-02 01:10:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗最高領袖表示：伊朗伊斯蘭共和國已在軍事對抗中向世界展現出自身不俗的實力，如今也必須在經濟聖戰與文化聖戰層面挫敗並擊潰敵人。"
-    },
-    {
-      "id": "4856482",
-      "time": "2026-05-02 01:09:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "記者：“這是週六有人企圖刺殺你之後，你首次出席大型公開活動。你感覺安全嗎？”  \n特朗普： 我壓根沒往這方面想。"
-    },
-    {
-      "id": "4856481",
-      "time": "2026-05-02 01:05:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外長週五與俄羅斯外長通電話，討論德黑蘭經由巴基斯坦向美方遞交的最新提議。"
-    },
-    {
-      "id": "4856480",
-      "time": "2026-05-02 01:05:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "美方否認有關加沙軍民協調中心已關閉的相關報道。"
     }
   ]
 }
