@@ -1,7 +1,36 @@
 {
-  "updated": "2026-05-09 01:36:54",
-  "count": 12418,
+  "updated": "2026-05-09 01:40:15",
+  "count": 12419,
   "items": [
+    {
+      "id": "4869013",
+      "time": "2026-05-09 01:39:40",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院：美方預計以黎會談將朝著全面安全與和平框架方向推進。"
+    },
+    {
+      "id": "4869012",
+      "time": "2026-05-09 01:38:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【遭美國扣押的伊朗貨船抵達巴基斯坦卡拉奇港】5月8日，據航運訊息人士透露，伊朗貨船“圖斯卡”號已抵達巴基斯坦卡拉奇港，之後將接受檢查，並被送往卡拉奇造船廠進行維修。維修完成後，將移交給伊朗。美國已將該船船員移交給巴基斯坦，船員已返回伊朗。（央視新聞）"
+    },
+    {
+      "id": "te:economy:549335",
+      "time": "2026-05-09 01:37:56",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Calendar",
+        "Importance 2"
+      ],
+      "text": "Week Ahead - May 11th — Geopolitical tension in the Middle East will remain the focus for global markets as the US-Iran ceasefire was repeatedly threatened last week. Among economic data releases, the spotlight will be on the US consumer and producer inflation rates amid a divided Fed, in addition to retail sales and industrial production. In Europe, the UK will post its GDP, trade balance, and join the Eurozone in publishing industrial production, while Germany will publish the ZEW sentiment report. China will release key monetary aggregates and join the US in posting its CPI and PPI. Elsewhere, the Bank of Japan will unveil details on policymakers' takes and leading indicators are should be the focus in Australia. Earnings will be important in Asia and Europe, featuring results from Tencent, Alibaba, Siemens, Allianz, Siemens Energy, Mitsubishi Financial, Mizuho, and the Commonwealth Bank."
+    },
     {
       "id": "mkt:019e08a7-2595-7222-b4a9-4f7fb8d6491d",
       "time": "2026-05-09 01:33:52",
@@ -109027,24 +109056,6 @@
         "國際"
       ],
       "text": "【俄伊外長通電話 討論伊朗就結束與美以衝突的立場】總檯記者當地時間5月1日獲悉，伊朗外交部訊息稱，俄羅斯外長拉夫羅夫與伊朗外長阿拉格齊通電話。兩國外長討論了伊朗方面關於結束與美國和以色列衝突的立場。（央視新聞）"
-    },
-    {
-      "id": "4856505",
-      "time": "2026-05-02 01:39:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國法官裁定：禁止特朗普政府終止近3000名葉門籍人士的免遭驅逐保護。"
-    },
-    {
-      "id": "4856504",
-      "time": "2026-05-02 01:38:39",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【加密貨幣“恐懼與貪婪指數“在短暫下跌後迴歸“中性“水平】CoinMarketCap的加密貨幣“恐懼與貪婪指數“本週曾短暫跌回“恐懼“區間，但在美聯儲決定維持利率穩定後反彈。該指數目前報45（滿分100），處於“中性“水平。4月28日，該指數跌至39，落入“恐懼“類別。分析師稱，資金之所以流出加密貨幣，是因為投資者試圖對沖風險。自美聯儲會議以來，比特幣已小幅反彈。比特幣上漲2.4%，至78,300美元；以太幣上漲1.8%，至2,304美元；XRP上漲1.8%，至1.39美元；solana攀升1.4%，至84.18美元。"
     }
   ]
 }
