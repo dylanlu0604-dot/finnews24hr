@@ -1,7 +1,44 @@
 {
-  "updated": "2026-05-08 14:43:34",
-  "count": 11342,
+  "updated": "2026-05-08 14:46:56",
+  "count": 11345,
   "items": [
+    {
+      "id": "4867809",
+      "time": "2026-05-08 14:46:20",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "丁二烯橡膠連續主力合約日內跌4%，現報15240.00元。"
+    },
+    {
+      "id": "te:markets:549092",
+      "time": "2026-05-08 14:46:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Iron Ore Extends Rally on Stronger Steel Prices — Iron ore futures rose above CNY 815 per ton, climbing toward their strongest levels since February last year and heading for a fourth consecutive weekly gain as firmer steel prices continued to support demand for the key steelmaking material. Analysts said stronger steel prices have improved profit margins for mills, encouraging greater iron ore purchasing activity. Prices were also supported by a continued decline in steel inventories, which have now fallen for seven straight weeks, signaling potential restocking demand for raw materials. On the supply side, Brazilian iron ore shipments increased to 34.57 million tons in April from 30.07 million tons a year earlier, highlighting ample global supply conditions. Meanwhile, mining operations resumed this week at two blocks of Guinea’s massive Simandou iron ore project, operated by a consortium led by Baowu Resources, after workers ended a strike."
+    },
+    {
+      "id": "4867807",
+      "time": "2026-05-08 14:45:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "任天堂2025年SWITCH硬體銷量380萬臺，同比下降65%。"
+    },
+    {
+      "id": "4867806",
+      "time": "2026-05-08 14:43:36",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美國債務規模超過GDP，美媒：觸及令人擔憂的里程碑】上週，美國經濟分析局釋出的資料顯示，美國公眾持有的聯邦債務佔國內生產總值（GDP）的比例接近100.2%。這是自二戰結束後不久以及新冠疫情初期以來，美國首次在非戰爭時期出現負債率突破100%的情況。 “美國債務達到了令人擔憂的里程碑，美國政府卻毫不關心。”美國《紐約時報》5月7日以此為題發文稱，美國債務規模超過經濟總產出，標誌著美國經濟已嚴重失衡。經濟學家擔心，債務狀況惡化正將美國推向財政危機，美國可能難以負擔不斷上漲的債務利息。（觀察者網）"
+    },
     {
       "id": "4867805",
       "time": "2026-05-08 14:42:58",
@@ -97436,15 +97473,6 @@
         "國際"
       ],
       "text": "日本首相高市早苗：從今天起，將訪問越南和澳大利亞。"
-    },
-    {
-      "id": "4855643",
-      "time": "2026-05-01 14:45:45",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "小鵬集團4月交付量31011輛。"
     }
   ]
 }
