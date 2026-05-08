@@ -1,7 +1,27 @@
 {
-  "updated": "2026-05-09 04:21:27",
-  "count": 12542,
+  "updated": "2026-05-09 04:24:52",
+  "count": 12545,
   "items": [
+    {
+      "id": "te:markets:549344",
+      "time": "2026-05-09 04:24:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Oil Edges Higher on Friday, Posts Weekly Loss — Brent crude oil rose 1.2% to settle near $101 per barrel on Friday as renewed clashes between the US and Iran raised doubts about the durability of a fragile ceasefire and tempered hopes for a quick peace agreement, though prices still posted a weekly loss of about 6%. Fighting in the Persian Gulf kept markets focused on the Strait of Hormuz, which has remained largely closed since late February, disrupting global crude flows and creating a major supply shock. Iran accused the US of violating the ceasefire, while Washington said American forces struck Iranian military targets after attacks on US warships and blocked tankers attempting to leave Iranian ports. President Donald Trump said the ceasefire remained in effect despite the exchanges. Traders continue balancing expectations for diplomacy against the risk of further escalation."
+    },
+    {
+      "id": "4869227",
+      "time": "2026-05-09 04:21:33",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國 SEC 備案檔案披露顯示，截至 3 月 31 日，優步科技公司持有 Weride Inc 1120 萬份贊助股份權益。"
+    },
     {
       "id": "4869226",
       "time": "2026-05-09 04:21:02",
@@ -210,6 +230,14 @@
         "其他"
       ],
       "text": "標普：積極展望反映我們預計安道拉在本十年剩餘時間將繼續保持大規模財政盈餘與經常賬戶對外盈餘。"
+    },
+    {
+      "id": "4869197",
+      "time": "2026-05-09 04:08:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "標普關於以色列的評級觀點：預計今年中央政府財政赤字將維持高位。"
     },
     {
       "id": "4869193",
