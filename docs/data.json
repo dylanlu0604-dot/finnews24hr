@@ -1,7 +1,39 @@
 {
-  "updated": "2026-05-08 12:16:17",
-  "count": 11234,
+  "updated": "2026-05-08 12:19:42",
+  "count": 11233,
   "items": [
+    {
+      "id": "te:markets:549031",
+      "time": "2026-05-08 12:18:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Copper Set for Weekly Rise — Copper futures held above $6.1 per pound on Friday and were on track to post a weekly gain of more than 3%, supported by easing energy prices earlier in the week, which helped reduce pressure on global growth and industrial metals demand. However, sentiment remained fragile as the US and Iran exchanged fire in the Strait of Hormuz. The Trump administration is currently awaiting Iran’s response to a proposal aimed at reopening Hormuz and ending the nearly 10-week conflict, with reports suggesting Tehran is expected to reply via Pakistan within the next two days. The ongoing conflict has also disrupted shipments of sulphuric acid, a key input in copper refining, adding to supply-side risks. At the same time, continued large-scale agreements among major technology firms have accelerated data center construction, strengthening the longer-term demand outlook for copper given its critical role in electrification and power grid infrastructure."
+    },
+    {
+      "id": "te:economy:549029",
+      "time": "2026-05-08 12:18:22",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Malaysia",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "Malaysia Industrial Output Growth Steady in March — Industrial production in Malaysia grew by 3.1% year-on-year in March 2026, matching market expectations and the pace seen in the previous month. Still, the latest figure remained the weakest growth in industrial activity since last June, driven mainly by a deeper contraction in mining output (-6.5% vs -2.0%), as crude oil and condensate production declined more sharply (-11.3% vs -4.3%) and natural gas output continued to fall (-3.4% vs -0.4%). On the other hand, activity in the manufacturing sector increased 5.5% from 4.2% in the previous month, mainly boosted by robust output of electrical and electronic products (12.5% vs 12.9%) and food, beverages, and tobacco (9.1% vs 5.7%). Additionally, the generation of electricity also went up (4.9% vs 4.6%). On a seasonally adjusted monthly basis, industrial activity fell by 1.8% in March, easing from a 2.9% drop in the preceding period."
+    },
+    {
+      "id": "4867627",
+      "time": "2026-05-08 12:17:54",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【特朗普：“特朗普的股市再創新高”】美國總統特朗普當地時間深夜釋出一張圖片，內容為：“特朗普的股市再創新高！標普500指數已突破7300點。”"
+    },
     {
       "id": "4867626",
       "time": "2026-05-08 12:15:28",
@@ -96426,40 +96458,6 @@
         "市場"
       ],
       "text": "【麗江“失寵”？麗江五一機票跌破2折，住宿不到百元】記者從多個OTA搜尋發現，多地“五一”機票價格跳水，5月2日、3日出發的機票價格降幅超過60%。比如北京飛麗江、南寧、海口，5月3日的價格只有350元、360元、320元，降幅都超過60%，尤其是麗江，降幅達63%。而麗江“五一”期間的酒店和民宿價格也並沒有暴漲，大量民宿價格低於200元，甚至有客棧低至28元。（21財經）"
-    },
-    {
-      "id": "4855536",
-      "time": "2026-05-01 12:18:49",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "【品牌金飾克價超1400元 貴金屬分析師：預計價格中心年內將逐步上移】4月30日，國際貴金屬止跌回漲。5月1日，國內品牌金飾價格已紛紛來到1400元/克上方。當日周生生足金飾品報價1415元/克、周大福足金飾品價格更達到1419元/克，老鳳祥報價也在1410元/克。上海鋼聯鉛鋅資訊部貴金屬分析師黃廷分析稱：短期看，美伊地緣局勢延續僵持，但長期緩和終是大機率事件，貴金屬短期的價格波動幅度或不及歷史極端水平。中長期看，通脹及經濟下行壓力，疊加去美元化及央行購金需求支撐，貴金屬下方支撐明顯，預計價格中心年內將逐步上移。"
-    },
-    {
-      "id": "4855534",
-      "time": "2026-05-01 12:17:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "蔚來汽車：2026年4月，蔚來全新ES8完成13,020臺新車交付。截至目前，全新ES8已經擁有超過100,000名使用者，並且重新整理了中國40萬元以上高階車型交付十萬臺最快紀錄。此外，全新ES8已經連續四個月斬獲大型SUV和40萬元以上車型銷量冠軍。"
-    },
-    {
-      "id": "4855530",
-      "time": "2026-05-01 12:16:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "傑富瑞將卡特彼勒公司目標價從900美元上調至1045美元。"
-    },
-    {
-      "id": "4855528",
-      "time": "2026-05-01 12:16:22",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "伊藤忠商事股價在財報釋出後一度上漲 4.4%。"
     }
   ]
 }
