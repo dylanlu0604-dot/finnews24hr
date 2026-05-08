@@ -1,7 +1,37 @@
 {
-  "updated": "2026-05-09 02:23:55",
+  "updated": "2026-05-09 02:27:18",
   "count": 12409,
   "items": [
+    {
+      "id": "mkt:019e08d6-481e-7222-b4a9-8b6b3def4893",
+      "time": "2026-05-09 02:25:21",
+      "tags": [
+        "MKT News",
+        "Hot",
+        "Policy",
+        "Breaking News 24h"
+      ],
+      "text": "【Trump Says Russia, Ukraine Agree to Three-Day Ceasefire and Prisoner Swap】President Donald Trump said Russia and Ukraine agreed to a three-day ceasefire from May 9-11, coinciding with Russia’s Victory Day celebrations. Trump said the agreement also includes a prisoner exchange involving 1,000 prisoners from each side. There was no immediate confirmation from Russian President Vladimir Putin or Ukrainian President Volodymyr Zelenskiy. “Hopefully, it is the beginning of the end of a very long, deadly, and hard fought War,” Trump said in a social media post."
+    },
+    {
+      "id": "te:markets:549338",
+      "time": "2026-05-09 02:25:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Orange Juice Spikes by 5.77% — Top commodity gainers are Orange Juice (5.77%), Canola (2.06%) and Cotton (2%). Biggest losers are Cocoa (-4.20%) and Oat (-2.29%)."
+    },
+    {
+      "id": "4869033",
+      "time": "2026-05-09 02:25:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基表示將與俄羅斯進行囚犯交換。"
+    },
     {
       "id": "4869032",
       "time": "2026-05-09 02:21:46",
@@ -108976,34 +109006,6 @@
         "國際"
       ],
       "text": "伊朗伊斯蘭革命衛隊：掌控波斯灣與霍爾木茲海峽近2000公里伊朗海岸線，將為伊朗及整個地區帶來生計保障、安全穩定與繁榮發展。"
-    },
-    {
-      "id": "4856545",
-      "time": "2026-05-02 02:26:58",
-      "tags": [
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "【摩根士丹利：Shopify料將加速增長，市場預期升溫】摩根士丹利在一份報告中稱，得益於強勁的第三方資料和健康的美國電子商務趨勢，定於下週公佈第一財季業績的Shopify似乎有望實現更快的增長。摩根士丹利的分析師表示，近期的第三方資料為穩健的基本面提供了支援，與此同時，也“緩解了對智慧體商務相關看跌理由的擔憂“。這些分析師補充說，儘管加劇的地緣政治壓力對消費者人氣構成了影響，但“美國電子商務需求繼續看起來很健康，第一季度無店鋪銷售增長在整個季度都保持了韌性。”Shopify股價上漲4.7%，至172.62加元，但年初至今累計下跌22%。"
-    },
-    {
-      "id": "4856544",
-      "time": "2026-05-02 02:25:49",
-      "tags": [
-        "宏觀",
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲副主席鮑曼：監管機構必須考慮如何應對Mythos等新技術】美聯儲最高銀行監管官員表示，監管機構必須考慮如何以最佳方式監管像Anthropic PBC的Mythos這樣的新技術。“從一方面看，這種能力使企業能夠處理其自行識別出的漏洞，從而增強網路安全，”美聯儲負責監管事務的副主席米歇爾·鮑曼在週五的書面講話中表示。“但從另一方面看，如果被惡意使用，它可能被用來識別並利用弱點。”Anthropic在評估針對這項強大新技術的防護措施之際，已限制其最新人工智慧模型的釋出。該模型也促使特朗普政府官員開始考慮發生對金融穩定構成威脅的網路攻擊的可能性。4月份訊息，美國財政部長斯科特·貝森特和美聯儲主席傑羅姆·鮑威爾近期與華爾街銀行會面，討論Mythos帶來的潛在風險，並確保銀行採取預防措施來保護其系統。鮑曼週五表示，這類會議“極其有益”，有助於確保銀行體系受到保護。“Anthropic的Mythos，這種能夠識別網路漏洞的人工智慧模型，凸顯了這項技術的動態特性，以及其能力能夠以多麼快的速度演進，”鮑曼表示。鮑曼強調，監管機構必須在政府內部協調，並與銀行討論新興技術，同時支援人工智慧工具的快速演進。她還補充稱，監管機構正在制定一份關於人工智慧採納和使用規範的報告。"
-    },
-    {
-      "id": "4856543",
-      "time": "2026-05-02 02:24:31",
-      "tags": [
-        "市場"
-      ],
-      "text": "【英國10年期國債收益率跌約5個基點】週五（5月1日）歐市尾盤，英國10年期國債收益率跌4.8個基點，報4.964%，保時捷22:00前後短線顯著跳水，本週累計上漲5.2個基點，4月27-29日持續走高，4月40日高開至5.088%，隨後持續走低。兩年期英債收益率跌3.5個基點，報4.417%，本週累漲6.7個基點。30年期英債收益率跌4.5個基點，報5.647%，本週累漲6.2個基點；50年期英債收益率跌4.6個基點，報5.202%，本週累漲5.0個基點。2/10年期英債收益率利差跌跌1.210個基點，報+54.576個基點，本週累跌1.322個基點。"
     }
   ]
 }
