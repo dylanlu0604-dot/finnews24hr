@@ -1,7 +1,103 @@
 {
-  "updated": "2026-05-08 22:53:45",
-  "count": 12381,
+  "updated": "2026-05-08 22:57:14",
+  "count": 12387,
   "items": [
+    {
+      "id": "te:economy:549304",
+      "time": "2026-05-08 22:56:47",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Mexico",
+        "Consumer Confidence",
+        "Importance 1"
+      ],
+      "text": "Mexico Consumer Confidence Edges Up Slightly — Consumer sentiment in Mexico edged up to 44.4 in April 2026 from an upwardly revised 44.2 in March, pointing to a modest improvement, although consumers remained broadly pessimistic. Assessments of current economic conditions (29.6 vs. 29.2) and future household prospects (57.8 vs. 56.9) improved slightly, while inflation expectations eased (15.2 vs. 16.0). Meanwhile, expectations for the broader economy were little changed (45.3 vs. 45.4), and views on the labor market weakened somewhat (46.4 vs. 47.5)."
+    },
+    {
+      "id": "4868891",
+      "time": "2026-05-08 22:56:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【江蘇省增資擴產戰新產業基金揭牌】江蘇省增資擴產戰新產業基金揭牌儀式8日在蘇州舉行。該基金總規模100億元，由江蘇省戰略性新興產業母基金與13個設區市共同出資設立。"
+    },
+    {
+      "id": "4868890",
+      "time": "2026-05-08 22:56:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：共和黨以及全美在弗吉尼亞州取得重大勝利。弗吉尼亞州最高法院剛剛推翻了民主黨惡劣的選區不公正重劃方案。讓美國再次偉大！"
+    },
+    {
+      "id": "4868889",
+      "time": "2026-05-08 22:55:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "Mabwell一款炎症性腸病（IBD）藥物臨床試驗申請獲美國 FDA 批准。"
+    },
+    {
+      "id": "4868888",
+      "time": "2026-05-08 22:55:26",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "倫敦安全公共有限公司：中東衝突將推高通脹水平，或衝擊本市場的商業信心與經濟增長。"
+    },
+    {
+      "id": "4868887",
+      "time": "2026-05-08 22:54:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "在美國國防部公開的UFO檔案中，一段影片顯示，一個星形物體被拍到以“之”字形軌跡在空中快速不規則移動。相關檔案並未解釋該物體的來源。影片拍攝於2013年。"
+    },
+    {
+      "id": "mkt:019e0815-66f7-7aa7-bba5-e6f57c079482",
+      "time": "2026-05-08 22:54:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRANIAN INTERIOR MINISTRY OFFICIAL: ENEMY SIEGE HAS NO EFFECT. FULL SECURITY ESTABLISHED, NO BORDER ISSUES - ISNA"
+    },
+    {
+      "id": "4868886",
+      "time": "2026-05-08 22:54:39",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "倫敦證券股份有限公司：中東衝突未對本集團造成直接影響。"
+    },
+    {
+      "id": "4868885",
+      "time": "2026-05-08 22:54:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "【分析師：加拿大4月就業資料相當糟糕 不理解市場加息定價】蒙特利爾銀行資本市場首席經濟學家Doug Porter表示，加拿大4月就業資料“相當糟糕”。總就業人數下降，商品生產部門所有細分領域均出現就業流失，失業率也進一步上升。自年初以來，加拿大已減少11.1萬個全職崗位。Porter說：“在經濟艱難掙扎、甚至連邁出一步都異常困難的情況下，很難理解市場為何仍在定價今年晚些時候超過一次加息的可能性。”他還表示，加拿大勞動力市場閒置正在擴大。"
+    },
+    {
+      "id": "mkt:019e0814-c11c-7aa7-bba5-dc7648a953f2",
+      "time": "2026-05-08 22:53:58",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "TRUMP PRAISES VIRGINIA COURT RULING STRIKING DOWN DEMS' MAP TRUMP PRAISES VIRGINIA SUPREME COURT RULING"
+    },
+    {
+      "id": "4868884",
+      "time": "2026-05-08 22:53:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普稱讚弗吉尼亞州法院推翻民主黨地圖的裁決。"
+    },
     {
       "id": "4868883",
       "time": "2026-05-08 22:52:18",
@@ -108399,46 +108495,6 @@
         "國際"
       ],
       "text": "據報道，伊朗民眾正做好重回戰爭狀態的準備。"
-    },
-    {
-      "id": "4856307",
-      "time": "2026-05-01 22:56:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗官員稱霍爾木茲海峽是德黑蘭的“自然權利”。"
-    },
-    {
-      "id": "4856306",
-      "time": "2026-05-01 22:56:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗向美國提交新的談判方案 霍爾木茲海峽仍然關閉】在美國總統特朗普誓言維持對伊朗的海上封鎖之際，德黑蘭向美國發出一項新的和平提議。伊朗官方通訊社IRNA週五報道稱，德黑蘭透過巴基斯坦向華盛頓轉達了最新立場。戰爭爆發前承載全球約五分之一石油和液化天然氣運輸的霍爾木茲海峽是當前僵局的核心。伊朗和美國均暗示，只有對方讓步才會考慮同意放鬆對航運的限制。IRNA未詳細說明伊朗最新提議中關於霍爾木茲海峽或核活動等關鍵問題的具體表述。特朗普週四表示，對伊朗港口的封鎖正在剝奪該國急需的石油收入，這種壓力將迫使德黑蘭重返談判桌。"
-    },
-    {
-      "id": "4856305",
-      "time": "2026-05-01 22:55:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗議長：戰勝敵對超級大國後的建設日子即將來臨。"
-    },
-    {
-      "id": "4856304",
-      "time": "2026-05-01 22:54:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國地質調查局：內華達州錫爾普林斯東南 19 公里處發生 5.2 級地震。"
-    },
-    {
-      "id": "4856303",
-      "time": "2026-05-01 22:54:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "雅詩蘭黛：為加速推進與西班牙香水巨頭Puig的合併計劃並提振盈利水平，將在全球範圍內再裁減多達3000個崗位。"
     }
   ]
 }
