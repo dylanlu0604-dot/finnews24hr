@@ -1,7 +1,67 @@
 {
-  "updated": "2026-05-08 14:02:44",
-  "count": 11285,
+  "updated": "2026-05-08 14:06:11",
+  "count": 11292,
   "items": [
+    {
+      "id": "4867743",
+      "time": "2026-05-08 14:04:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "英鎊<GBP=D3>上漲0.19%，報1.3575美元<GBP=D3>；工黨在地方選舉中遭遇慘敗。"
+    },
+    {
+      "id": "4867742",
+      "time": "2026-05-08 14:03:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "斯特蘭蒂斯擬深化在華合資佈局：聯合研發電動車、調整西班牙工廠產能。"
+    },
+    {
+      "id": "4867741",
+      "time": "2026-05-08 14:03:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "民調顯示，瑞士民眾對於將人口上限設定為1000萬的提案支援率與反對率持平。"
+    },
+    {
+      "id": "4867740",
+      "time": "2026-05-08 14:03:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超2.5萬億元，較上日此時縮量958億元。"
+    },
+    {
+      "id": "te:markets:549055",
+      "time": "2026-05-08 14:03:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Coal Falls as Fuel Switching Demand Remains Limited — Coal prices slipped toward $130 per ton and were on track to finish the week lower, as fuel switching by major Asian economies in response to the Middle East-driven energy supply shock proved less aggressive than initially expected. Thermal coal has served as an alternative to liquefied natural gas for power generation, particularly after the effective closure of the Strait of Hormuz disrupted roughly 20% of global LNG supply. However, recent data showed that both Japan and South Korea imported less thermal coal in April compared with March, with volumes also remaining well below the five-year average, indicating that demand has stayed relatively subdued by historical standards. Analysts also noted that the sharpest decline in LNG imports across Asia has come from China, which has reduced overseas purchases and shifted instead toward domestic coal production as well as pipeline and locally sourced natural gas, helping ease pressure on global LNG supply available to other Asian buyers."
+    },
+    {
+      "id": "4867739",
+      "time": "2026-05-08 14:02:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【郵儲銀行增資至1201億，增幅約21%】天眼查App顯示，近日，郵儲銀行發生工商變更，註冊資本由約991.6億人民幣增至約1201億人民幣，增幅約21%。中國郵政儲蓄銀行股份有限公司成立於2007年3月，法定代表人為鄭國雨，經營範圍包括吸收公眾存款、辦理國內外結算、辦理票據承兌和貼現等，由中國郵政集團有限公司、香港中央結算（代理人）有限公司、中國行動通訊集團有限公司等共同持股。"
+    },
+    {
+      "id": "4867738",
+      "time": "2026-05-08 14:02:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【西寧三部門約談58同城青海代理公司：推進虛假房源專項整治】西寧市住房保障和房產管理局5月7日發文指出，近期58同城青海板塊出現的房產中介機構虛假房源資訊導致群眾上當受騙，嚴重侵害了老百姓的切身利益。4月30日，西寧市房產局聯合市委網信辦、市公安局網安支隊對58同城平臺青海艾天網路科技有限公司進行了專項約談與工作督導。作為58同城平臺的青海代理，青海艾天科技公司在賬號稽核環節存在明顯漏洞，此次約談明確指出，艾天科技公司在資訊釋出鏈條中負有不可推卸的主體責任，必須摒棄被動應對投訴的消極態度，切實履行網路資訊服務提供者的法定監管義務，落實“經紀機構及人員釋出房源前必須完成前置備案稽核”的規定。"
+    },
     {
       "id": "4867737",
       "time": "2026-05-08 14:01:32",
@@ -49,6 +109,14 @@
         "公司"
       ],
       "text": "國際航空集團（IAG）預計到2026年將收回約60%新增燃油成本帶來的影響。"
+    },
+    {
+      "id": "4867731",
+      "time": "2026-05-08 13:59:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【郵儲銀行增資至1201億 增幅約21%】天眼查App顯示，近日，郵儲銀行（601658）發生工商變更，註冊資本由約991.6億人民幣增至約1201億人民幣，增幅約21%。 中國郵政儲蓄銀行股份有限公司成立於2007年3月，法定代表人為鄭國雨，經營範圍包括吸收公眾存款、辦理國內外結算、辦理票據承兌和貼現等，由中國郵政集團有限公司、香港中央結算（代理人）有限公司、中國行動通訊集團有限公司等共同持股。"
     },
     {
       "id": "4867730",
@@ -96912,15 +96980,6 @@
         "國際"
       ],
       "text": "【日本開始追加釋放國家石油儲備】當地時間5月1日，日本政府表示，已在茨城縣內的石油基地開始追加釋放國家石油儲備。受中東局勢影響，日本近期原油進口量驟降，引發廣泛擔憂。3月26日，日本政府開始釋放國家石油儲備。4月10日，日本首相高市早苗表示，將在5月追加釋放約相當於20天用量的國家石油儲備。（央視新聞）"
-    },
-    {
-      "id": "4855615",
-      "time": "2026-05-01 14:05:58",
-      "tags": [
-        "行業",
-        "其他"
-      ],
-      "text": "【交通運輸部：4月30日全社會跨區域人員流動量22074.8萬人次】據交通運輸部訊息，2026年4月30日，全社會跨區域人員流動量22074.8萬人次，環比增長30.4%，同比增長3.5%。其中：鐵路客運量1979萬人次，環比增長42.1%，同比增長8.0%。公路人員流動量（包括高速公路及普通國省道非營業性小客車人員出行量、公路營業性客運量）19770萬人次，環比增長29.6%，同比增長3.1%。其中，公路營業性客運量3620萬人次，環比增長11.1%，同比增長1.3%；高速公路及普通國省道非營業性小客車人員出行量16150萬人次，環比增長34.6%，同比增長3.5%。水路客運量87.8萬人次，環比增長35.1%，同比增長6.0%。民航客運量238.0萬人次，環比增長7.8%，同比增長1.5%。全國郵政行業攬收包裹5.21億件，環比下降5.6%；投遞包裹5.73億件，環比下降1.5%。"
     }
   ]
 }
