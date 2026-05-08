@@ -1,7 +1,53 @@
 {
-  "updated": "2026-05-09 00:13:58",
-  "count": 12418,
+  "updated": "2026-05-09 00:17:32",
+  "count": 12422,
   "items": [
+    {
+      "id": "4868968",
+      "time": "2026-05-09 00:17:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Jane Street季度交易收入161億美元，創歷史新高】Jane Street Group在今年第一季度創下161億美元交易收入的紀錄，較2025年第一季度的收入增長了一倍多。淨利潤同樣較去年同期翻了一番，Jane Street 報告第一季度淨利潤為 103 億美元。Jane Street 的業績主要受中頻策略推動，並受益於對人工智慧和科技公司的私人投資。"
+    },
+    {
+      "id": "4868967",
+      "time": "2026-05-09 00:16:26",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委納格爾：歐洲央行對通脹風險抬頭保持高度警惕。"
+    },
+    {
+      "id": "4868966",
+      "time": "2026-05-09 00:14:51",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "訊息人士稱，簡街資本  (Jane Street)  公佈第一季度淨營收161 億美元，淨利潤103 億美元。"
+    },
+    {
+      "id": "mkt:019e085e-8929-7aa7-bba7-7e9b0e7110ea",
+      "time": "2026-05-09 00:14:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "JANE STREET POSTS FIRST-QUARTER NET REVENUES OF $16.1 BILLION, WITH NET INCOME OF $10.3 BILLION, SOURCES SAY"
+    },
+    {
+      "id": "te:markets:549323",
+      "time": "2026-05-09 00:14:27",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "European Stocks Close Lower for 2nd Session — European stocks closed sharply lower for a second session on Friday as fresh strikes between Iran and the US added to risks of energy shortages for major European importers. The Eurozone's STOXX 50 fell 1.1% to 5,905 and the pan-European STOXX 600 dropped 0.8% to 612. Tankers and military vessels were reportedly hit during the day to dim expectations that the US and Iranian delegations were closer to agreeing on an end to the war, driving markets to reconsider the positions taken during Wednesday when the consensus saw more optimism in the conflict's end. Risk-sensitive consumer cyclical stocks closed lower, with Hermes, Adidas, and Inditex dropping more than 2.5%. Meanwhile, Safran fell 3% for another session of sharp selling, and Rheinmetall sank 10% as investors continued to assess the company's earnings report from yesterday. Meanwhile, Intesa Sanpaolo dropped 2% after posting its earnings report."
+    },
     {
       "id": "4868965",
       "time": "2026-05-09 00:13:01",
@@ -108915,14 +108961,6 @@
         "國際"
       ],
       "text": "【路透調查顯示：墨西哥央行將於5月7日最後降息25個基點】路透調查顯示，墨西哥央行將於5月7日最後降息25個基點，結束長達兩年多的降息週期，將利率降至中性水平。此舉將使該國貨幣政策處於既不緊縮也不刺激經濟活動的狀態，當前美以對伊朗相關衝突正加劇通脹壓力。但部分受訪人士表示，儘管經濟依然疲軟，在不確定性上升的背景下，墨西哥央行可能維持基準利率不變。24位分析師中有18位預計，墨西哥央行將在5月7日會議上把基準利率從6.75% 降至6.50%，這將是2024年3 開啟降息週期以來的第15次降息。少數6位分析師認為，在3月已降息25個基點後，央行將按兵不動；該行五人委員會此次決策是近年來最難預測的決議之一。"
-    },
-    {
-      "id": "4856409",
-      "time": "2026-05-02 00:14:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗議會議長：伊朗將迎來新的建設階段】當地時間5月1日，伊朗議會議長卡利巴夫表示，伊朗即將迎來發展與建設的新階段，而國家的繁榮離不開廣大勞動者的辛勤付出。卡利巴夫表示，如今伊朗比任何時候都更需要這些長期支援國家發展的勞動者。隨著在對抗外部強權中取得勝利，伊朗將迎來新的建設階段。實現國家繁榮離不開廣大工人的持續努力，在現任領導層的帶領下，生產建設者也將推動伊朗實現發展與自給自足。（央視新聞）"
     }
   ]
 }
