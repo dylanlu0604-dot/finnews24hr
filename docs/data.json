@@ -1,7 +1,88 @@
 {
-  "updated": "2026-05-08 15:54:07",
-  "count": 11454,
+  "updated": "2026-05-08 15:57:34",
+  "count": 11458,
   "items": [
+    {
+      "id": "4867957",
+      "time": "2026-05-08 15:56:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度航空部長表示，（印度航空夢想飛機）最終報告“大機率”會在一個月內公佈。"
+    },
+    {
+      "id": "4867956",
+      "time": "2026-05-08 15:56:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【DeepSeek近三年增資14倍 DeepSeek近期增資50%天眼查App顯示，DeepSeek關聯公司杭州深度求索人工智慧基礎技術研究有限公司成立於2023年7月，法定代表人為裴湉，經營範圍包括工程和技術研究和試驗發展、軟體開發、計算機系統服務等，由寧波程恩企業管理諮詢合夥企業（有限合夥）、梁文鋒共同持股。變更記錄顯示，該公司註冊資本從2023年的100萬人民幣增至2026年的1500萬人民幣，值得一提的是，今年4月，該公司註冊資本由1000萬人民幣增至1500萬人民幣，增幅50%。"
+    },
+    {
+      "id": "te:markets:549160",
+      "time": "2026-05-08 15:56:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Extends Retreat — The FTSE MIB fell 0.5% to 49,000 on Friday, extending its pullback from record highs, as tariff threats and geopolitical tensions weighed on sentiment. President Trump warned that the European Union could face significantly higher tariffs as early as July 4 if it does not cut duties on US imports to zero. The remarks followed a call with European Commission President von der Leyen, who said negotiations were still progressing and that the EU was making “good progress” toward lowering trade barriers ahead of the deadline. Meanwhile, markets were also pressured by heightened tensions in the Middle East after the US conducted strikes on Iranian military targets in response to attacks on three US Navy destroyers in the Strait of Hormuz. Financial stocks led losses, with UniCredit (-1.4%), Intesa Sanpaolo (-1.2%), BPER Banca (-2.2%), and Banca Mediolanum (-1%), among the notable laggards. For the week, the index is heading for a second weekly advance."
+    },
+    {
+      "id": "4867955",
+      "time": "2026-05-08 15:55:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度航空部長表示，對印度航空夢想飛機墜毀事故的調查已進入最後階段。"
+    },
+    {
+      "id": "4867954",
+      "time": "2026-05-08 15:55:25",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達130億港元。"
+    },
+    {
+      "id": "te:economy:549159",
+      "time": "2026-05-08 15:55:18",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Germany",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Bund Yields Slightly Up as ECB Rate Hike Expectations Strengthen — Germany’s 10-year Bund yield edged higher to 3.02% as markets adopted a more hawkish stance on the European Central Bank’s policy outlook, driven by renewed inflation concerns. Brent crude oil prices climbed back above $100 per barrel following clashes between the US and Iran near the Strait of Hormuz, an escalation that risks further destabilizing a fragile ceasefire. Elsewhere, US President Donald Trump warned the European Union that he would increase tariffs on EU goods to \"much higher levels\" if the bloc does not reduce its tariffs on US goods to zero by July 4. Money markets are currently pricing in more than 50 basis points of tightening, or at least two rate hikes, by the end of the year, with over a 75% probability of a first increase in June. Several ECB board members have recently warned that the likelihood of a rate hike has risen due to persistent inflation pressures."
+    },
+    {
+      "id": "4867953",
+      "time": "2026-05-08 15:55:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【森林包裝：2025年營收27.92億元 淨利潤降68.34%擬分紅】森林包裝公告稱，2025年度公司實現營業收入27.92億元，同比增長18.18%；淨利潤6123.47萬元，同比減少68.34%。公司2025年度擬向全體股東每股派發現金紅利0.07元（含稅），合計擬派發現金紅利2900.80萬元，佔淨利潤比例47.37%，不實施派送紅股和公積金轉增股本。此外，公司擬續聘中匯會計師事務所擔任2026年度財務審計機構，2026年度預計對外擔保額度不超24億元，擬向銀行申請不超28億元綜合授信額度。"
+    },
+    {
+      "id": "4867952",
+      "time": "2026-05-08 15:54:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：一位沙特訊息人士表示，沙特不會允許使用其空域進行“攻擊性軍事行動”，並稱沙特正在尋求平穩局勢。"
+    },
+    {
+      "id": "4867951",
+      "time": "2026-05-08 15:54:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【專家解讀本次汽油、柴油價格調控：合理調價 保障穩定供應】國家發展改革委有關負責人說，中石油、中石化、中海油公司及其他原油加工企業要組織好成品油生產和調運，確保市場穩定供應，嚴格執行國家價格政策。各地相關部門要加大市場監督檢查力度，嚴厲查處不執行國家價格政策的行為，維護正常市場秩序。消費者可透過12315平臺舉報價格違法行為。（新華社）"
+    },
     {
       "id": "4867950",
       "time": "2026-05-08 15:53:14",
@@ -98425,49 +98506,6 @@
         "焦點"
       ],
       "text": "蘋果美股盤前漲近3%。訊息面上，蘋果第二財季營收1111.8億美元，高於市場預期；並批准一項至多1000億美元的股票回購計劃，提高派息至每股0.27美元。"
-    },
-    {
-      "id": "4855701",
-      "time": "2026-05-01 15:56:56",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4590美元/盎司，日內跌0.86%。"
-    },
-    {
-      "id": "4855700",
-      "time": "2026-05-01 15:56:42",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "現代汽車美國公司：4月總銷量為80,157輛。"
-    },
-    {
-      "id": "4855699",
-      "time": "2026-05-01 15:56:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美防長否認利用內幕訊息牟利】當地時間4月30日，美國國防部長赫格塞思出席國會參議院軍事委員會聽證會，連續第二天遭民主黨議員“圍攻”。在民主黨籍參議員沃倫的追問下，赫格塞思強調，任何有關自己利用戰爭內幕訊息牟取私利的言論都是“無稽之談”。他“否認否決以及否定”自己曾透過戰爭牟利。聽證會上，還有抗議者闖入現場，高呼“美國人不想捲入對伊朗的戰爭”。據英國《金融時報》3月底報道，多名訊息人士透露，赫格塞思的經紀人在美以發動針對伊朗的軍事行動前數週，曾嘗試進行鉅額防務投資，引發外界對“內幕交易”的懷疑。雖然五角大樓方面極力否認，但此事持續發酵。 （CCTV國際時訊）"
-    },
-    {
-      "id": "4855698",
-      "time": "2026-05-01 15:55:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "【塞爾維亞駐華大使：我和大連有段特殊情緣】近日，塞爾維亞駐華大使瑪婭·斯特凡諾維奇在接受採訪時表示，自己與大連之間有頗深的情感紐帶，想重訪大連。（中國日報）"
-    },
-    {
-      "id": "4855697",
-      "time": "2026-05-01 15:55:12",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4580美元/盎司，日內跌0.91%。"
     }
   ]
 }
