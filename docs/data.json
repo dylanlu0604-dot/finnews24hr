@@ -1,7 +1,77 @@
 {
-  "updated": "2026-05-08 22:22:50",
-  "count": 12343,
+  "updated": "2026-05-08 22:26:17",
+  "count": 12346,
   "items": [
+    {
+      "id": "mkt:019e07fa-e229-7aa7-bba5-b6631a1fc6a5",
+      "time": "2026-05-08 22:25:42",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "BARCLAYS: RECOMMEND GOING LONG THE DECEMBER 2026 ICE GASOIL MINUS BRENT CRACK SPREAD AT $33.4/BBL AT THE TIME OF WRITING"
+    },
+    {
+      "id": "mkt:019e07fa-d1af-7aa7-bba5-ad9c6628d8cf",
+      "time": "2026-05-08 22:25:38",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "BARCLAYS: EVEN IN MOST OPTIMISTIC SCENARIO, WE THINK OIL PRICES ARE PROBABLY TOO LOW AS DEMAND REMAINS LARGELY RESILIENT AND INVENTORIES CONTINUE TO DRAW FAST"
+    },
+    {
+      "id": "4868837",
+      "time": "2026-05-08 22:25:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴克萊銀行：建議在撰寫本報告時，以每桶33.4美元的價格做多2026年12月洲際交易所（ICE）柴油-布倫特原油裂解價差空頭頭寸。"
+    },
+    {
+      "id": "4868836",
+      "time": "2026-05-08 22:25:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴克萊銀行：即便在最樂觀的情景假設下，我們仍認為當前油價偏低，因為原油需求整體保持韌性，且庫存仍在快速下降。"
+    },
+    {
+      "id": "te:markets:549294",
+      "time": "2026-05-08 22:25:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Currency",
+        "Importance 0"
+      ],
+      "text": "Euro Rises on Iran Ceasefire Hopes — The euro extended gains above $1.175, reaching its strongest level since April 20, buoyed by optimism over a potential resolution to the Iran conflict. US President Donald Trump confirmed that the ceasefire with Iran remains in effect, while Tehran stated it is still reviewing a US proposal to end the conflict. US Secretary of State Marco Rubio added that Washington expects Iran’s response soon. Meanwhile, Trump warned the EU that the US would impose \"much higher\" tariffs on EU goods unless the bloc eliminates its tariffs on US products by July 4. Money markets are pricing in at least two rate hikes by the ECB this year, with a more than 75% probability of a first increase in June. ECB President Christine Lagarde noted on Friday that the central bank is prepared to act swiftly if needed and that the euro area’s economic starting position ahead of the energy shock is more favorable than it was before Russia’s invasion of Ukraine."
+    },
+    {
+      "id": "4868835",
+      "time": "2026-05-08 22:24:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國農業部長羅林斯：美國化肥供應充足，擔憂焦點在於價格。"
+    },
+    {
+      "id": "4868833",
+      "time": "2026-05-08 22:22:49",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "巴克萊：維持2026年布倫特原油價格預測為每桶100美元，上行風險偏多。"
+    },
     {
       "id": "mkt:019e07f8-338e-7aa7-bba5-a38825cba875",
       "time": "2026-05-08 22:22:47",
@@ -108051,39 +108121,6 @@
         "市場"
       ],
       "text": "英特爾持續拉昇，現漲超5%。"
-    },
-    {
-      "id": "4856281",
-      "time": "2026-05-01 22:26:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際貨幣基金組織：皮埃爾-奧利維爾·古蘭沙將卸任IMF經濟顧問兼研究部主任。"
-    },
-    {
-      "id": "4856280",
-      "time": "2026-05-01 22:25:49",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "據美國官員今天（5月1日）表示，美軍最大航母“福特”號已離開中東地區。（CCTV國際時訊）"
-    },
-    {
-      "id": "4856279",
-      "time": "2026-05-01 22:24:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "新興市場股票和外匯指數延續漲勢，美元因ISM資料不及預期而走軟。"
-    },
-    {
-      "id": "4856278",
-      "time": "2026-05-01 22:23:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "埃克森美孚與卡達仍在評估拉斯拉凡港修復工程的時間進度。"
     }
   ]
 }
