@@ -1,7 +1,99 @@
 {
-  "updated": "2026-05-08 20:52:55",
-  "count": 12227,
+  "updated": "2026-05-08 20:56:23",
+  "count": 12232,
   "items": [
+    {
+      "id": "4868634",
+      "time": "2026-05-08 20:55:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【博尼國際：出售附屬公司義烏博尼】博尼國際公告，公司與金國軍先生及金博先生全資擁有的Newpoly Holding Corporation訂立股份收購協議，出售香港博尼的全部已發行股份，即10000股普通股。同時，浙江博尼的全部資產及負債將轉讓至義烏博尼，完成後，義烏博尼將成為公司間接全資附屬公司。此外，公司與買方訂立租賃協議，繼續租賃物業的1棟7樓、3棟1-5樓、4棟2-4樓及宿舍樓。股東特別大會將於2026年5月26日舉行，以批准相關交易。"
+    },
+    {
+      "id": "mkt:019e07a8-647c-7557-85c5-0c8b91cb596a",
+      "time": "2026-05-08 20:55:35",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish",
+        "EURUSD"
+      ],
+      "text": "【RSM Chief Economist Joseph Brusuelas 】Conditions in the American labor market remain remarkably stable. Labor market demand, albeit soft by recent standards, is more than sufficient to keep the unemployment rate from rising as the economy adjusts to a historic supply shock that will soon erase nominal wage gains that is causing household consumption to slow. Thus, an uneasy status quo best described as a low hire, low fire labor market remains intact."
+    },
+    {
+      "id": "mkt:019e07a7-0d7c-7557-85c5-01abc27576e1",
+      "time": "2026-05-08 20:54:08",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "PGIM’S ON BTV SAYS THE REPORT “LOCKS IN THE STALEMATE AT THE FED. IT SOLIDIFIES THAT THEY ARE ON HOLD HERE INDEFINITELY.”"
+    },
+    {
+      "id": "4868633",
+      "time": "2026-05-08 20:53:52",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "投行Stifel認為，在財報引發的拋售之後，Shake Shack目前的估值已處於投資者不容忽視的折價水平，因此將這家快餐休閒連鎖店的評級從持有上調至買入，但將目標價從105美元下調至85美元"
+    },
+    {
+      "id": "te:economy:549267",
+      "time": "2026-05-08 20:53:50",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Employment Change",
+        "Importance 1"
+      ],
+      "text": "Canada Employment Unexpectedly Falls in April — Employment in Canada edged down by 18,000 in April 2026, following a gain of 14,000 in the prior month and missing forecasts for a 15,000 increase. The result marked a second straight month of limited movement after February’s sharp decline of 84,000 jobs. Full-time employment fell by 47,000, while part-time positions increased by 29,000. Employment levels were broadly unchanged across the private and public sectors, as well as among self-employed workers. The unemployment rate rose among youth aged 15 to 24 to 14.3% and among core-aged men to 6.1%. Regionally, employment declined in Quebec, Newfoundland and Labrador, Saskatchewan, and New Brunswick, while Ontario added 42,000 jobs. Meanwhile, the employment rate slipped 0.1 percentage points to 60.5%."
+    },
+    {
+      "id": "mkt:019e07a6-69c5-7557-85c4-f979dc1f2d82",
+      "time": "2026-05-08 20:53:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "【Senior Editor Chris Anstey on US Job Data】Another negative proviso: total employment in the household survey was the lowest since December 2024, at 162.6 million. In other words, there’s been no employment expansion at all in the Trump administration. You can bet there will be some Democrats who will make hay from that."
+    },
+    {
+      "id": "4868632",
+      "time": "2026-05-08 20:53:05",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "【高盛：美國資料中心用電需求或在兩年內翻倍】高盛預計，美國資料中心電力需求將從2025年的31GW增長至2026年的41GW，並在2027年進一步升至66GW。高盛認為，本輪AI資料中心擴張正在重塑美國地理格局。得州和佐治亞州正成為AI資料中心的重要聚集地，因為這些地區電力供應擴張更快，接入能力更強。"
+    },
+    {
+      "id": "4868631",
+      "time": "2026-05-08 20:52:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【亞馬遜北弗吉尼亞資料中心雲服務中斷問題已基本解決】5月8日，據報道，亞馬遜的雲服務已基本恢復正常。此前，亞馬遜旗下的雲端計算部門於7日報告稱，其位於弗吉尼亞州北部的一個資料中心因過熱引發服務中斷。其導致包括加密貨幣交易所Coinbase在內的多家企業受到影響。"
+    },
     {
       "id": "mkt:019e07a5-7671-7557-85c4-f10f8c5f50cf",
       "time": "2026-05-08 20:52:24",
@@ -106868,30 +106960,6 @@
         "其他"
       ],
       "text": "比亞迪：累計汽車銷量102萬輛。"
-    },
-    {
-      "id": "4856129",
-      "time": "2026-05-01 20:56:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "比亞迪：4月乘用車銷量314100輛。"
-    },
-    {
-      "id": "4856128",
-      "time": "2026-05-01 20:55:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網正式測定：05月01日20時39分在臺灣宜蘭縣海域（北緯24.88度，東經122.07度）發生5.4級地震，震源深度100千米。"
-    },
-    {
-      "id": "4856127",
-      "time": "2026-05-01 20:55:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "半島電視臺分社負責人援引訊息人士說法：伊朗已透過巴基斯坦遞交新提案，核談判恐難達成成果，各方焦點或轉向結束戰事。"
     }
   ]
 }
