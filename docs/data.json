@@ -1,7 +1,45 @@
 {
-  "updated": "2026-05-09 04:41:54",
-  "count": 12557,
+  "updated": "2026-05-09 04:45:18",
+  "count": 12558,
   "items": [
+    {
+      "id": "4869262",
+      "time": "2026-05-09 04:44:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國與韓國簽署諒解備忘錄，加強雙邊造船業合作伙伴關係。"
+    },
+    {
+      "id": "mkt:019e0953-aabb-7222-b4ab-1c8488cd67ed",
+      "time": "2026-05-09 04:42:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US AND SOUTH KOREA SIGN MOU TO ENHANCE BILATERAL SHIPBUILDING PARTNERSHIP - ITA"
+    },
+    {
+      "id": "mkt:019e0953-68f5-7222-b4ab-113d62643b48",
+      "time": "2026-05-09 04:42:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Star Stocks",
+        "Alibaba",
+        "Tencent",
+        "JD.com",
+        "US10Y",
+        "Impact bearish",
+        "S&P500",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【Global Week Ahead (May 11-15)】 United States - April CPI (Tue), PPI (Wed), Retail Sales (Thu) Impact: Strong inflation data could further delay Fed rate-cut expectations and pressure bond markets. - Senate vote on Kevin Warsh Fed Chair nomination; Powell term ends Friday Impact: Leadership transition uncertainty may increase market volatility and reshape Fed policy expectations. - Key earnings: Cisco, Applied Materials, Constellation Energy Impact: Results will offer signals on AI spending, semiconductor demand, and power consumption trends. China - Trump visits China for Xi summit (Thu-Fri) Impact: Markets will watch for progress on tariffs, trade, AI restrictions, and geopolitical tensions. Any progress on de-escalation could ease oil prices and reduce global inflation pressure. - April CPI/PPI data (Mon) - Key earnings: Alibaba, Tencent, JD, Hon Hai Other Countries - UK King’s Speech (Wed) and Q1 GDP (Thu) - Eurozone GDP and Germany ZEW sentiment - Bucharest Nine security meeting (Wed) Impact: NATO and regional leaders will discuss Russia-related security risks and defense coordination."
+    },
     {
       "id": "4869257",
       "time": "2026-05-09 04:38:58",
@@ -110451,22 +110489,6 @@
         "國際"
       ],
       "text": "伊朗外交部 ：外長阿拉格齊與歐盟外交政策負責人通電話。"
-    },
-    {
-      "id": "4856612",
-      "time": "2026-05-02 04:44:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗革命衛隊：將按最高領袖指示重塑波斯灣管理規則】當地時間5月1日晚，伊朗伊斯蘭革命衛隊海軍司令部發表宣告稱，根據伊朗最高領袖的指示，“波斯灣新的管理規則和方案將被制定並實施”。宣告說，伊朗伊斯蘭革命衛隊海軍透過對伊朗在波斯灣和霍爾木茲海峽近2000公里海岸線的掌控與管轄，“將為伊朗以及整個地區提供生計保障，為該地區帶來安全與繁榮”。（央視新聞）"
-    },
-    {
-      "id": "4856611",
-      "time": "2026-05-02 04:44:43",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國際油價1日下跌】截至當天收盤，紐約商品交易所6月交貨的輕質原油期貨價格下跌3.13美元，收於每桶101.94美元，跌幅為2.98%；7月交貨的倫敦布倫特原油期貨價格下跌2.23美元，收於每桶108.17美元，跌幅為2.02%。"
     }
   ]
 }
