@@ -1,7 +1,47 @@
 {
-  "updated": "2026-05-08 08:28:08",
-  "count": 11074,
+  "updated": "2026-05-08 08:31:39",
+  "count": 11075,
   "items": [
+    {
+      "id": "te:markets:548953",
+      "time": "2026-05-08 08:30:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Steadies as US-Iran Tensions Persist — Silver traded near $79 an ounce on Friday after experiencing sharp volatility in the previous session, as renewed clashes between the US and Iran weakened hopes for a near-term peace agreement and reignited inflation concerns. US Central Command said American forces intercepted Iranian attacks and launched defensive strikes while guided missile destroyers moved through the Strait of Hormuz, while stressing that the military does not seek further escalation. Meanwhile, the Trump administration is awaiting Iran’s response to a proposal aimed at reopening Hormuz and ending the nearly 10-week conflict, with reports indicating that Tehran is expected to respond through Pakistan within the next two days. Silver remains down over 15% since the conflict began, as the effective closure of the Strait of Hormuz triggered a historic surge in energy prices, fueling inflation fears and strengthening expectations that central banks may need to raise interest rates."
+    },
+    {
+      "id": "4867328",
+      "time": "2026-05-08 08:30:31",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "日本4月標普全球服務業採購經理人指數（PMI）為51.0，初值為51.2。日本4月份標普全球綜合PMI報52.2。"
+    },
+    {
+      "id": "te:markets:548952",
+      "time": "2026-05-08 08:29:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Wheaton Precious Metals earnings below expectations at 1.28 USD — Wheaton Precious Metals (WPM) released earnings per share at 1.28 USD, compared to market expectations of 1.44 USD."
+    },
+    {
+      "id": "4867327",
+      "time": "2026-05-08 08:29:08",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【財政部下達支援學前教育發展資金458億元 推進學前教育普及普惠安全優質發展】為貫徹落實黨中央、國務院決策部署，推進學前教育普及普惠安全優質發展，財政部近期下達2026年支援學前教育發展資金458億元，比上年增加125.6億元，增長38%，重點支援地方鞏固落實好學前教育免保育教育費政策；補足普惠性資源短板，提高保教質量，鞏固家庭經濟困難兒童等群體資助制度。“十四五”時期，中央財政累計安排支援學前教育發展資金1262億元。從2025年秋季學期起，免除公辦幼兒園學前一年在園兒童保育教育費,對民辦園適齡兒童給予相應減免，惠及超過1400萬在園兒童，減輕家庭教育支出超過200億元。下一步，財政部將會同教育部指導地方充分發揮省級統籌作用，合理安排中央補助資金和地方應承擔的免保育教育費補助資金，保障幼兒園正常運轉。同時，深入推進學前教育擴優提質工作，加快補齊短板弱項，穩步提升幼兒園辦園水平。"
+    },
     {
       "id": "4867326",
       "time": "2026-05-08 08:27:07",
@@ -95002,30 +95042,6 @@
         "其他"
       ],
       "text": "【黑龍江省啟動“五一”文旅消費周活動】據黑龍江釋出，為貫徹落實文化和旅遊部2026年全國“五一”文化和旅遊消費周工作部署，“五一”假期，黑龍江省圍繞“北國好風光 惠聚黑龍江”主題，發放文旅消費券5000萬元，統籌推出百條精品線路、百場特色活動、百項惠民政策，全力豐富假日文旅供給、啟用消費潛力、提升遊客體驗，推動全省文旅市場持續升溫、提質增效。"
-    },
-    {
-      "id": "4854889",
-      "time": "2026-05-01 08:30:51",
-      "tags": [
-        "市場"
-      ],
-      "text": "美元/日元<JPY=EBS>上漲0.42%，報157.29。"
-    },
-    {
-      "id": "4854888",
-      "time": "2026-05-01 08:30:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本4月份標普全球製造業採購經理人指數為55.1，高於3月份的51.6。"
-    },
-    {
-      "id": "4854887",
-      "time": "2026-05-01 08:29:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "墨西哥任命希梅娜·埃斯科韋多為貿易部副部長。"
     }
   ]
 }
