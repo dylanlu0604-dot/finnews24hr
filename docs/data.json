@@ -1,7 +1,48 @@
 {
-  "updated": "2026-05-09 02:58:08",
-  "count": 12419,
+  "updated": "2026-05-09 03:01:53",
+  "count": 12423,
   "items": [
+    {
+      "id": "4869064",
+      "time": "2026-05-09 03:01:04",
+      "tags": [
+        "公司",
+        "資料"
+      ],
+      "text": "【谷歌旗下Isomorphic Labs將籌集超20億美元新資金】據知情人士透露，從谷歌旗下DeepMind分拆出來的AI藥物發現公司Isomorphic Labs正進行深入討論，擬在新一輪融資中籌集超過20億美元。這知情人士表示，曾領投Isomorphic Labs去年首輪融資的風險投資公司Thrive Capital將主導新一輪融資。其中一位知情人士稱，Alphabet也參與其中，但該輪融資尚未結束。這筆額外融資將標誌著Alphabet將其未來主義押注轉變為獨立業務的長期計劃又邁出一步。Alphabet旗下的自動駕駛部門Waymo今年早些時候以1260億美元的估值籌集了160億美元。"
+    },
+    {
+      "id": "4869062",
+      "time": "2026-05-09 03:00:29",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通將碩騰（Zoetis）目標股價從每股190.00美元下調至130.00美元。"
+    },
+    {
+      "id": "4869061",
+      "time": "2026-05-09 03:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收跌0.11%，報26126.95點，低水266.76點。"
+    },
+    {
+      "id": "mkt:019e08f5-104d-7222-b4aa-16467166613b",
+      "time": "2026-05-09 02:58:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "AI CHIPMAKER CEREBRAS SAID TO PLAN IPO PRICE INCREASE MONDAY CEREBRAS IS SAID TO EXPECT IPO PRICE RANGE OF $125-$135/SHARE"
+    },
+    {
+      "id": "4869059",
+      "time": "2026-05-09 02:58:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "AI 晶片廠商 Cerebras 據悉計劃於週一上調 IPO 發行價。"
+    },
     {
       "id": "mkt:019e08f2-d221-7222-b4aa-0bdbb163b0ce",
       "time": "2026-05-09 02:56:31",
@@ -109137,14 +109178,6 @@
         "國際"
       ],
       "text": "【報道：WildFire Energy股東正尋求按逾40億美元出售該美國頁岩油運營商】據知情人士透露，投資公司華平投資（Warburg Pincus）和凱恩安德森（Kayne Anderson）正在探索出售WildFire Energy的可能性，預計任何交易對這家美國頁岩油運營商的估值（含債務）都將超過40億美元。 根據WildFire Energy官方網站顯示，該公司是得克薩斯州南部鷹灘（Eagle Ford）頁岩盆地最大的私營運營商之一，日均淨產量約為5萬桶油當量。傑富瑞（Jefferies）的投資銀行家已被聘請負責 WildFire 的拍賣流程，正式的市場推廣預計將在未來幾周內啟動。"
-    },
-    {
-      "id": "4856568",
-      "time": "2026-05-02 02:58:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "Spirit Airlines可能最早在本週六停止運營。"
     }
   ]
 }
