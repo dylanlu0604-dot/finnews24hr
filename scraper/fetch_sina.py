@@ -661,6 +661,32 @@ def format_market_price(value: float, kind: str) -> str:
     return f"{value:.4f}"
 
 
+def format_market_context_date(value) -> str:
+    try:
+        if hasattr(value, "to_pydatetime"):
+            value = value.to_pydatetime()
+        if isinstance(value, datetime):
+            if value.tzinfo is not None:
+                value = value.astimezone(TW)
+            return value.strftime("%Y-%m-%d")
+    except Exception:
+        pass
+    return str(value)[:10]
+
+
+def is_market_context_stale(latest_index, now: datetime) -> bool:
+    try:
+        if hasattr(latest_index, "to_pydatetime"):
+            latest_index = latest_index.to_pydatetime()
+        if isinstance(latest_index, datetime):
+            if latest_index.tzinfo is not None:
+                latest_index = latest_index.astimezone(TW)
+            return latest_index.date() < now.date()
+    except Exception:
+        pass
+    return True
+
+
 def market_position_note(current: float, closes_6m, closes_long) -> str:
     """回傳市場位置狀態；內部看長短期高低點，輸出文字保持簡潔。"""
 
@@ -703,6 +729,7 @@ def fetch_ai_market_context() -> str:
     if not HAS_YF:
         return ""
 
+    now = datetime.now(TW)
     lines = []
     for item in AI_MARKET_CONTEXT_SYMBOLS:
         symbol = item["symbol"]
@@ -721,6 +748,9 @@ def fetch_ai_market_context() -> str:
             long_hist = ticker.history(period="max", interval="1d", auto_adjust=True)
             closes_long = long_hist["Close"].dropna() if not long_hist.empty and "Close" in long_hist else None
 
+            latest_index = closes.index[-1]
+            latest_date = format_market_context_date(latest_index)
+            stale = is_market_context_stale(latest_index, now)
             current = float(closes.iloc[-1])
             prev_1m = float(closes.iloc[-22]) if len(closes) >= 22 else None
             prev_3m = float(closes.iloc[-64]) if len(closes) >= 64 else None
@@ -736,8 +766,13 @@ def fetch_ai_market_context() -> str:
                 one_month_text = format_pct(one_month)
                 three_month_text = format_pct(three_month)
 
+            freshness_note = (
+                f"最近可得收盤/結算價（資料日期 {latest_date}，不代表摘要時段內交易）"
+                if stale
+                else f"盤中/最新價（資料日期 {latest_date}）"
+            )
             lines.append(
-                f"- {name}：最新 {format_market_price(current, kind)}，"
+                f"- {name}：{freshness_note} {format_market_price(current, kind)}，"
                 f"近 1 個月 {one_month_text}，近 3 個月 {three_month_text}{position_note}"
             )
         except Exception as e:
@@ -763,19 +798,22 @@ def call_openai_summary(items: list[dict], start: datetime, end: datetime, marke
 時間區間：{start.strftime('%Y-%m-%d %H:%M')} 至 {end.strftime('%Y-%m-%d %H:%M')}（台灣時間）
 
 【市場價格背景（只用於校準情緒，不是事件來源）】
-以下為主要資產截至摘要生成時的最新價格與中期表現。請把它當成判斷市場實際風險偏好的基準，而不是只根據新聞語氣下標。
-除非快訊本身沒有足夠 S/A/B 級事件，否則不要把市場價格背景拆成獨立 events。
+以下為主要資產價格與中期表現，只能用來校準市場情緒，不是近 3 小時新聞事件來源。
+若標示「最近可得收盤/結算價」，代表該標的在摘要時段內可能休市或資料未更新，只能寫成前一交易日/最近可得水準，絕對不可寫成「近 3 小時上漲、盤中攀升、最新大漲、持續創高」。
+近 1 個月、近 3 個月漲跌幅是中期表現，絕對不可改寫成日內漲跌、近 3 小時漲跌或盤中走勢。
+不得把市場價格背景拆成獨立 events；events 必須來自下方快訊。
 {market_context or "- 本次未取得市場價格背景，請只根據快訊中明確價格資料判斷。"}
 
 規則：
 - 若 S&P 500 / Nasdaq 維持高檔或近 1~3 個月上漲，summary_title 不得只寫「風險升溫」「地緣緊張」「避險升溫」等單邊負面標題。
 - 標題必須同時反映「風險資產價格狀態」與「新聞風險事件」。例如：股市高檔震盪、風險資產守高、油金波動牽動盤面。
 - 若新聞風險很多，但股市、信用或其他風險資產仍強，請寫成「市場消化風險」或「高檔震盪」，不要寫成全面 risk-off。
-- 若快訊或市場價格背景明確顯示主要股指「創新高 / 歷史新高」，必須使用「創新高」或「歷史高點」等相同強度描述，不得降格改寫成「接近三個月高點」。
-- 若快訊或市場價格背景明確顯示主要股指「創新高 / 歷史新高」，摘要內容要偏向非常樂觀的情緒去寫，不要強調太多風險。
+- 若快訊或標示「盤中/最新價」的市場價格背景明確顯示主要股指「創新高 / 歷史新高」，必須使用「創新高」或「歷史高點」等相同強度描述，不得降格改寫成「接近三個月高點」。
+- 若只有標示「最近可得收盤/結算價」的市場價格背景顯示高點，只能描述成「最近可得價格仍在高檔」，不得寫成摘要時段內創高或上漲。
+- 若快訊或標示「盤中/最新價」的市場價格背景明確顯示主要股指「創新高 / 歷史新高」，摘要內容要偏向非常樂觀的情緒去寫，不要強調太多風險。
 - 若市場價格背景寫「高檔震盪」，可描述為股市高檔震盪或風險資產守高，不要寫出「52 週」。
 - 若市場價格背景寫「維持近期高點」，可描述為股市維持近期高點，不要寫出「三個月」或「52 週」。
-- 若快訊或市場價格背景明確顯示主要股指「創新低 / 歷史新低」，必須使用「創新低」或「歷史低點」等相同強度描述。
+- 若快訊或標示「盤中/最新價」的市場價格背景明確顯示主要股指「創新低 / 歷史新低」，必須使用「創新低」或「歷史低點」等相同強度描述。
 - 若市場價格背景寫「低檔震盪」，可描述為低檔震盪，不要寫出「52 週」。
 - 若市場價格背景寫「維持近期低點」，可描述為維持近期低點，不要寫出「三個月」或「52 週」。
 - C 級市場行情事件只能作為收尾補充，最多 1~2 則；若已選出 5 則以上 S/A/B 事件，C 級不得超過 1 則。
@@ -820,7 +858,7 @@ D 級：地緣政治
 - 接著用同一段串起股、匯、債、原物料與主要區域市場表現：美股/科技股、歐股、亞股、美元指數、美債 10 年期殖利率、黃金、WTI/Brent 原油；有明確數字就寫數字，沒有就簡短描述方向。
 - 寫法要接近：「近 3 小時市場聚焦 ___，美股/科技股 ___，歐亞股 ___；債匯方面，美元 ___、10 年期美債殖利率 ___；原物料方面，油價 ___、金價 ___，反映 ___。」
 - 若主要股指創新高或維持高檔，summary 要把股市高檔與風險偏好放在前面，再補充油金、美元、美債或地緣風險，不要把風險事件寫成主旋律。
-- 若近 3 小時缺少某類資產資料，不要硬湊；但只要市場價格背景有提供，就應盡量納入 summary。
+- 若近 3 小時缺少某類資產資料，不要硬湊；市場價格背景只能補充風險偏好狀態，不得改寫成摘要時段內行情。
 - 不要寫成 events 的條列縮寫，也不要逐句重複「某某宣布、某某表示」。summary 應該是一段流暢的總評。
 
 輸出要求：
@@ -836,7 +874,7 @@ D 級：地緣政治
 10. 不要編造事實；若訊息不足，寧可寫得簡短或減少事件數量，也不要硬湊。
 11. 清淡時段寧可只給 5 則高質量事件，也不要為了湊數納入垃圾級內容。
 12. 如果 S、A、B 級的經濟數據很多，70%以上的 events 都是 S/A/B 也沒關係；相反地，C 級行情不得超過 2 則。
-13. 若快訊或市場價格背景明確顯示主要股指「創新高 / 歷史新高」，摘要內容要偏向非常樂觀的情緒去寫，不要強調太多風險。
+13. 若快訊或標示「盤中/最新價」的市場價格背景明確顯示主要股指「創新高 / 歷史新高」，摘要內容要偏向非常樂觀的情緒去寫，不要強調太多風險；若只是「最近可得收盤/結算價」，只能當成中期背景。
 
 【分數規則 — 請直接根據 summary、events 與市場價格背景評分】
 risk_on_score：
