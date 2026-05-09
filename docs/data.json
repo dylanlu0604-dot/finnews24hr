@@ -1,7 +1,27 @@
 {
-  "updated": "2026-05-09 08:00:26",
-  "count": 12621,
+  "updated": "2026-05-09 08:03:44",
+  "count": 12618,
   "items": [
+    {
+      "id": "te:economy:549358",
+      "time": "2026-05-09 08:01:52",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Colombia",
+        "Inflation Rate",
+        "Importance 0"
+      ],
+      "text": "Colombia Inflation Rate Rises in April — Colombia’s annual inflation rate accelerated to 5.68% in April 2026 from 5.56% in the previous month, above market expectations of 5.63% and marking the highest reading since September 2024. Over the past 12 months, the largest price increases were recorded in restaurants and hotels (9.61%), health (8.21%), education (7.58%), alcoholic beverages and tobacco (6.91%), food and non-alcoholic beverages (6.71%), miscellaneous goods and services (6.11%), and furniture and household maintenance (5.79%). Meanwhile, inflation remained below the national average for transport (4.95%), information and communication (4.88%), housing and utilities (4.11%), clothing and footwear (2.67%), and recreation and culture (2.52%). On a monthly basis, consumer prices rose 0.78% in April, matching the pace recorded in March."
+    },
+    {
+      "id": "4869380",
+      "time": "2026-05-09 08:00:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "Lumentum控股公司將於五月加入納斯達克100指數。"
+    },
     {
       "id": "4869379",
       "time": "2026-05-09 07:41:26",
@@ -110987,47 +111007,6 @@
         "國際"
       ],
       "text": "特朗普：昨天與伊拉克新任總統通了電話。"
-    },
-    {
-      "id": "4856868",
-      "time": "2026-05-02 08:03:22",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【輝瑞與Arvinas公司乳腺癌新藥獲得美國FDA批准】當地時間5月1日，Arvinas公司與其合作伙伴輝瑞共同宣佈，美國食品藥品監督管理局（FDA）已批准VEPPANU （vepdegestrant）用於治療經FDA授權檢測確定的、雌激素受體陽性（ER+）/人表皮生長因子受體2陰性（HER2-）、雌激素受體1（ESR1）突變晚期或轉移性乳腺癌成年患者，且患者需在接受至少一種內分泌治療後出現疾病進展。這也是FDA首次批准一種蛋白降解靶向嵌合體（PROTAC），即一種異雙功能蛋白質降解劑療法。"
-    },
-    {
-      "id": "4856865",
-      "time": "2026-05-02 08:02:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際貨幣基金組織談安哥拉：2025年石油產量大幅下降，財政和外部狀況惡化。"
-    },
-    {
-      "id": "4856864",
-      "time": "2026-05-02 08:00:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際貨幣基金組織談安哥拉：2026年預算規劃了財政整頓，並重申承諾實施審慎債務管理。"
-    },
-    {
-      "id": "4856863",
-      "time": "2026-05-02 08:00:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際貨幣基金組織關於安哥拉的報告顯示：2026年安哥拉通脹率持續放緩至12.4%，這一情況部分得益於緊縮貨幣政策。"
-    },
-    {
-      "id": "4856862",
-      "time": "2026-05-02 08:00:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：不能讓伊朗擁有核武器。"
     }
   ]
 }
