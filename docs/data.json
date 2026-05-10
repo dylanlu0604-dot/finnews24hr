@@ -1,7 +1,39 @@
 {
-  "updated": "2026-05-10 16:39:03",
-  "count": 12785,
+  "updated": "2026-05-10 16:42:29",
+  "count": 12786,
   "items": [
+    {
+      "id": "te:economy:549408",
+      "time": "2026-05-10 16:41:45",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Rwanda",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Rwanda Inflation Rate at 2-/1/2-Year High of 11.5% — Rwanda's annual inflation rate accelerated to 11.5% in April 2026 from 7.7% in the previous month. It was the highest level since October 2023, with food and non-alcoholic beverages rising at the fastest pace in nine months (5.8% vs. 4.6% in March), mainly driven by meat and non-alcoholic beverages."
+    },
+    {
+      "id": "te:markets:549407",
+      "time": "2026-05-10 16:40:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "State Bank of India earnings above expectations at 21.28 INR — State Bank of India (SBIN) released earnings per share at 21.28 INR, compared to market expectations of 15.37 INR."
+    },
+    {
+      "id": "4870329",
+      "time": "2026-05-10 16:39:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "新華社記者在現場獲悉，涉漢坦病毒疫情郵輪“洪迪厄斯”號10日抵達西班牙特內里費島格拉納迪利亞港水域後，船上人員開始疏散。 （新華社）"
+    },
     {
       "id": "4870328",
       "time": "2026-05-10 16:37:50",
@@ -112355,22 +112387,6 @@
         "國際"
       ],
       "text": "【波蘭總理圖斯克：目前沒有跡象表明駐德美軍會進行重新部署】波蘭總理圖斯克週日表示，波蘭未收到任何跡象，表明美國從德國撤出的駐軍會轉而重新部署至其他地區，而非撤回美國本土。當被問及美方是否暗示這批駐軍可能調往北約東翼、而非返回美國時，圖斯克稱：“目前我們沒有收到任何此類訊號。”"
-    },
-    {
-      "id": "4858068",
-      "time": "2026-05-03 16:41:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄稱烏克蘭襲擊普里莫爾斯克港 關鍵石油樞紐一度起火】俄羅斯方面稱，烏克蘭襲擊了波羅的海沿岸的重要石油出口樞紐普里莫爾斯克港，引發火災，當地政府表示火勢已被迅速撲滅。列寧格勒州州長亞歷山大·德羅茲堅科週日稱，該地區的防空系統擊落了超過60架烏克蘭無人機，港口是關鍵目標。他補充說，火災已被消除，但未說明具體損失程度。普里莫爾斯克港是俄羅斯石油工業的重要組成部分，在今年烏克蘭發動一系列襲擊之前，該港通常每日出口超過100萬桶原油和柴油。這些襲擊是基輔方面針對港口和煉油廠更廣泛行動的一部分。該港口在3月23日遭無人機襲擊後，曾暫時停止了油輪裝貨。"
-    },
-    {
-      "id": "4858067",
-      "time": "2026-05-03 16:40:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "挪威天然氣公司Gassco：阿斯加德氣田5 月 3 日至 5 月 4 日突發非計劃停產，日均氣量減少500 萬立方米。"
     }
   ]
 }
