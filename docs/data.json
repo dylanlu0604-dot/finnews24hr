@@ -1,7 +1,66 @@
 {
-  "updated": "2026-05-11 23:24:52",
-  "count": 13794,
+  "updated": "2026-05-11 23:28:26",
+  "count": 13797,
   "items": [
+    {
+      "id": "4872852",
+      "time": "2026-05-11 23:26:57",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "Frontier Airlines股價跌至盤中低點。訊息面上，特朗普稱不考慮救助美國航空公司。"
+    },
+    {
+      "id": "mkt:019e17a5-c1e3-7116-a108-8331a963447c",
+      "time": "2026-05-11 23:26:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "IRAN SAYS ENRICHMENT IS NON-NEGOTIABLE: IRIB"
+    },
+    {
+      "id": "mkt:019e17a5-af27-7dd9-b923-0b46fd7d2475",
+      "time": "2026-05-11 23:26:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRAN SAYS NUCLEAR TECHNOLOGY NOT ON AGENDA OF US TALKS: IRIB"
+    },
+    {
+      "id": "mkt:019e17a5-a06d-7116-a108-74ed4dea1880",
+      "time": "2026-05-11 23:26:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "1 US CITIZEN FROM HANATVIRUS SHIP IS IN NEB BIOCONTAINMENT UNIT"
+    },
+    {
+      "id": "4872851",
+      "time": "2026-05-11 23:25:41",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗：涉核問題不在美伊會談議程之內。"
+    },
+    {
+      "id": "te:economy:549704",
+      "time": "2026-05-11 23:25:33",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Mozambique",
+        "Inflation Rate",
+        "Importance 0"
+      ],
+      "text": "Mozambique Inflation Rate Quickens to 6-Month High — The annual inflation rate in Mozambique accelerated for the third consecutive month, reaching a six-month high of 4.41% in April 2026. The increase was attributed to severe flooding in recent months and fuel supply constraints in several parts of the country, which caused shortages and disrupted the distribution of essential goods. Price pressures were most pronounced in food & non-alcoholic beverages (10.24% vs 6.20% in March); clothing & footwear (5.23% vs 4.68%); restaurants & hotels (4.58% vs 5.30%) and recreation & culture (3.96% vs 3.48%). On a monthly basis, the CPI rose by 0.63%, after a 0.22% increase in the month before."
+    },
     {
       "id": "4872850",
       "time": "2026-05-11 23:23:36",
@@ -122044,31 +122103,6 @@
         "其他"
       ],
       "text": "據德國焦點線上新聞網報道，一輛汽車在德國萊比錫市衝撞人群。"
-    },
-    {
-      "id": "4859909",
-      "time": "2026-05-04 23:27:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "阿聯酋稱伊朗襲擊富查伊拉後，布倫特原油價格升至每桶114美元以上。"
-    },
-    {
-      "id": "4859908",
-      "time": "2026-05-04 23:27:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "墨西哥國家地震局通報：墨西哥城遭遇6 級地震襲擊。"
-    },
-    {
-      "id": "4859907",
-      "time": "2026-05-04 23:25:36",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國30年期國債收益率突破5.01%，為去年7月份以來首次。"
     }
   ]
 }
