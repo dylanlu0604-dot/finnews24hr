@@ -502,12 +502,12 @@ def save_ai_summaries(data: dict) -> None:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
 
-def prune_ai_summaries_before(cutoff_text: str) -> int:
+def prune_ai_summaries_since(cutoff_text: str) -> int:
     data = load_ai_summaries()
     before = len(data.get("items", []))
     data["items"] = [
         item for item in data.get("items", [])
-        if (item.get("slot_end") or item.get("slot_start") or "") >= cutoff_text
+        if (item.get("slot_end") or item.get("slot_start") or "") < cutoff_text
     ]
     removed = before - len(data["items"])
     if removed:
@@ -515,29 +515,27 @@ def prune_ai_summaries_before(cutoff_text: str) -> int:
     return removed
 
 
-def clear_history_if_requested(conn) -> None:
-    raw_days = os.getenv("CLEAR_HISTORY_DAYS", "").strip()
+def clear_recent_ai_summaries_if_requested() -> None:
+    raw_days = os.getenv("CLEAR_RECENT_SUMMARY_DAYS", "").strip()
     if not raw_days:
         return
 
     try:
-        keep_days = float(raw_days)
+        clear_days = float(raw_days)
     except ValueError:
-        print(f"[ERROR] CLEAR_HISTORY_DAYS 格式錯誤（需為正數）：{raw_days}，略過清理")
+        print(f"[ERROR] CLEAR_RECENT_SUMMARY_DAYS 格式錯誤（需為正數）：{raw_days}，略過清理")
         return
 
-    if keep_days <= 0:
-        print(f"[ERROR] CLEAR_HISTORY_DAYS 必須大於 0：{raw_days}，略過清理")
+    if clear_days <= 0:
+        print(f"[ERROR] CLEAR_RECENT_SUMMARY_DAYS 必須大於 0：{raw_days}，略過清理")
         return
 
-    cutoff = datetime.now(TW) - timedelta(days=keep_days)
+    cutoff = datetime.now(TW) - timedelta(days=clear_days)
     cutoff_text = cutoff.strftime("%Y-%m-%d %H:%M:%S")
-    cur = conn.execute("DELETE FROM news WHERE time < ?", (cutoff_text,))
-    conn.commit()
-    summary_removed = prune_ai_summaries_before(cutoff_text)
+    summary_removed = prune_ai_summaries_since(cutoff_text)
     print(
-        f"[CLEANUP] 已保留最近 {keep_days:g} 天資料；"
-        f"刪除 news.db {cur.rowcount} 筆、AI 摘要 {summary_removed} 筆（cutoff {cutoff_text}）"
+        f"[CLEANUP] 已清除最近 {clear_days:g} 天 AI 摘要 "
+        f"{summary_removed} 筆（slot_end >= {cutoff_text}）"
     )
 
 
@@ -1322,7 +1320,7 @@ def main():
     mktnews_processed = [item for item in (process_mktnews_flash_item(r) for r in mktnews_raw_items) if item]
     mktnews_new_count = upsert_items(conn, mktnews_processed)
 
-    clear_history_if_requested(conn)
+    clear_recent_ai_summaries_if_requested()
     update_ai_summaries(conn)
     updated, total = export_news_json(conn)
     conn.close()
