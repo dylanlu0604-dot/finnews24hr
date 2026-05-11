@@ -1,7 +1,56 @@
 {
-  "updated": "2026-05-12 03:57:32",
-  "count": 13928,
+  "updated": "2026-05-12 04:00:56",
+  "count": 13923,
   "items": [
+    {
+      "id": "4873141",
+      "time": "2026-05-12 04:00:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體收漲】道指漲0.19%，標普500指數漲0.19%，納指漲0.10%。Lumentum Holdings Inc. Common Stock When Issued漲16.53%，Coherent Corp漲13.25%，康寧漲11.01%，高通漲8.42%，VRT漲8.23%，CF實業漲8.19%。“七姐妹”方面：特斯拉漲3.89%，英偉達漲1.95%，蘋果跌0.14%，微軟跌0.62%，亞馬遜跌1.35%，Meta Platforms跌1.79%，谷歌跌2.60%。"
+    },
+    {
+      "id": "mkt:019e18a0-5d3e-7dd9-b926-9532553282b0",
+      "time": "2026-05-12 04:00:23",
+      "tags": [
+        "MKT News",
+        "Dow",
+        "Impact bullish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "DOW CLOSED +0.19%, S&P500 +0.19%, NASDAQ +0.10%"
+    },
+    {
+      "id": "4873139",
+      "time": "2026-05-12 04:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收漲0.97%】中進醫療漲6.57%，Tims中國漲6.28%，虎牙漲5.65%，再鼎醫藥漲5.16%，中汽系統漲5.22%。"
+    },
+    {
+      "id": "4873138",
+      "time": "2026-05-12 03:59:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "據《泰晤士報》報道：英國內政大臣馬哈茂德及多名內閣高階大臣已敦促首相斯塔默，考慮明確下臺離任時間表。"
+    },
+    {
+      "id": "mkt:019e189e-d6b7-7dd9-b926-8ea84e7007bc",
+      "time": "2026-05-12 03:58:43",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "UK PM STARMER TOLD BY HOME MINISTER MAHMOOD AND OTHER SENIOR CABINET MINISTERS TO CONSIDER SETTING OUT A TIMELINE FOR HIS DEPARTURE - TIMES REPORT"
+    },
     {
       "id": "mkt:019e1896-30e3-7dd9-b926-837d14128e3c",
       "time": "2026-05-12 03:49:16",
@@ -123331,99 +123380,6 @@
         "國際"
       ],
       "text": "30年期美國國債收益率升破5%，結算價創去年5月23日以來最高水平。"
-    },
-    {
-      "id": "4860199",
-      "time": "2026-05-05 04:00:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國農業部資料顯示，截至上週，美國玉米播種進度已完成38%。"
-    },
-    {
-      "id": "4860198",
-      "time": "2026-05-05 04:00:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國農業部資料顯示，上週美國冬小麥作物優良率達31%。"
-    },
-    {
-      "id": "4860197",
-      "time": "2026-05-05 04:00:45",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股收盤：三大股指集體收跌】道指跌1.12%，標普500指數跌0.40%，納指跌0.19%。聯合包裹跌10.47%，聯邦快遞跌9.12%，羅賓遜物流跌9.06%，挪威郵輪跌8.59%，Old Dominion Freight Line跌6.62%，洛斯公司跌5.89%。“七姐妹”方面：亞馬遜漲1.42%，特斯拉漲0.45%，Meta Platforms漲0.27%，英偉達漲0.02%，微軟跌0.18%，谷歌跌0.97%，蘋果跌1.18%。"
-    },
-    {
-      "id": "4860196",
-      "time": "2026-05-05 04:00:37",
-      "tags": [
-        "市場"
-      ],
-      "text": "挪威郵輪股價下跌8.6%，創下自2025年5月1日以來的最低水平。"
-    },
-    {
-      "id": "4860195",
-      "time": "2026-05-05 04:00:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國農業部：美國大豆種植面積截至上週已完成33%。"
-    },
-    {
-      "id": "4860194",
-      "time": "2026-05-05 04:00:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【納斯達克中國金龍指數收跌0.03%】金生遊樂跌5.23%，阿特斯跌5.08%，盛豐物流跌3.72%，水滴公司跌3.70%，逸仙電商跌3.47%。"
-    },
-    {
-      "id": "te:547569",
-      "time": "2026-05-05 03:59:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Wells Fargo Stock Price Hits 4-week Low — Wells Fargo shares decreased to 79.25 USD, the lowest since April 2026. Over the past 4 weeks, Wells Fargo lost 3.14%, and in the last 12 months, it increased 7.35%."
-    },
-    {
-      "id": "te:markets:547569",
-      "time": "2026-05-05 03:59:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Wells Fargo Stock Price Hits 4-week Low — Wells Fargo shares decreased to 79.25 USD, the lowest since April 2026. Over the past 4 weeks, Wells Fargo lost 3.14%, and in the last 12 months, it increased 7.35%."
-    },
-    {
-      "id": "4860193",
-      "time": "2026-05-05 03:58:18",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "美國海關與邊境保護局：《國際緊急經濟權力法》相關退稅業務最早將於5月12日啟動。"
-    },
-    {
-      "id": "4860192",
-      "time": "2026-05-05 03:58:10",
-      "tags": [
-        "公司",
-        "焦點",
-        "國際"
-      ],
-      "text": "美國海關與邊境保護局釋出關稅退稅流程公告。"
     }
   ]
 }
