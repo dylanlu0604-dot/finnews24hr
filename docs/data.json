@@ -1,7 +1,50 @@
 {
-  "updated": "2026-05-12 02:20:08",
-  "count": 13948,
+  "updated": "2026-05-12 02:23:36",
+  "count": 13951,
   "items": [
+    {
+      "id": "4873053",
+      "time": "2026-05-12 02:22:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "南非總統拉馬福薩將就“農場門”醜聞專家組調查報告提起法律訴訟，該報告認定拉馬福薩存在不當行為。"
+    },
+    {
+      "id": "4873052",
+      "time": "2026-05-12 02:21:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭反腐敗機構：澤連斯基前辦公廳主任已收到正式涉嫌違法告知書。"
+    },
+    {
+      "id": "mkt:019e1845-9c3c-7dd9-b925-e28bb739ba1c",
+      "time": "2026-05-12 02:21:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ZELENSKIY'S FORMER CHIEF OF STAFF SERVED WITH OFFICIAL NOTICE OF SUSPICION: ANTI-CORRUPTION AGENCY"
+    },
+    {
+      "id": "4873051",
+      "time": "2026-05-12 02:21:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗議會議長卡利巴夫：我們的武裝部隊已準備好對任何侵略作出應有的教訓性回應；錯誤的戰略和錯誤的決定，總是會帶來錯誤的結果，全世界早已明白這一點。我們已為所有選項做好準備；他們將會感到震驚。"
+    },
+    {
+      "id": "te:markets:549728",
+      "time": "2026-05-12 02:20:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Silver Rallies by 6.78% — Top commodity gainers are Silver (6.78%), Platinum (3.93%), Copper (2.73%) and Gold (0.13%)."
+    },
     {
       "id": "mkt:019e1844-49af-7dd9-b925-da056d3b2307",
       "time": "2026-05-12 02:19:48",
@@ -123540,28 +123583,6 @@
         "Importance 1"
       ],
       "text": "Agricultural Commodities Updates: Cocoa Spikes by 8.57% — Top commodity gainers are Cocoa (8.57%), Rice (4.70%) and Sugar (2.41%). Biggest loser is Cotton (-1.62%)."
-    },
-    {
-      "id": "te:547564",
-      "time": "2026-05-05 02:20:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Silver Falls by 3.24% — Top commodity losers are Silver (-3.24%), Platinum (-2.51%), Copper (-2.12%) and Gold (-2.05%)."
-    },
-    {
-      "id": "te:markets:547564",
-      "time": "2026-05-05 02:20:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Silver Falls by 3.24% — Top commodity losers are Silver (-3.24%), Platinum (-2.51%), Copper (-2.12%) and Gold (-2.05%)."
     }
   ]
 }
