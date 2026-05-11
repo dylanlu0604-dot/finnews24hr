@@ -1,7 +1,64 @@
 {
-  "updated": "2026-05-12 00:19:00",
-  "count": 13902,
+  "updated": "2026-05-12 00:22:26",
+  "count": 13901,
   "items": [
+    {
+      "id": "4872939",
+      "time": "2026-05-12 00:21:39",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "阿聯酋正式允許居民使用加密貨幣繳納政府相關費用。"
+    },
+    {
+      "id": "4872938",
+      "time": "2026-05-12 00:20:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列襲擊黎巴嫩南部一家醫療中心，造成至少一人死亡，四人受傷。"
+    },
+    {
+      "id": "4872937",
+      "time": "2026-05-12 00:20:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：美國在其談判方案中表示將解凍伊朗被凍結的資金，但伊朗堅持要求這些資金必須在一定期限內解凍。"
+    },
+    {
+      "id": "4872936",
+      "time": "2026-05-12 00:20:05",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "特斯拉前首席財務官迪帕克・阿胡賈加盟美國電池回收獨角獸公司Redwood Materials。"
+    },
+    {
+      "id": "mkt:019e17d6-7a6e-7dd9-b924-94c952aa014d",
+      "time": "2026-05-12 00:19:52",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Crypto Concepts",
+        "COIN.O"
+      ],
+      "text": "COINBASE GLOBAL INC: SOME USERS MAY EXPERIENCE DELAYED SENDS AND RECEIVES OF MONAD (MON) & MONUSDC"
+    },
+    {
+      "id": "te:markets:549718",
+      "time": "2026-05-12 00:19:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "DAX Posts Marginal Gain — Frankfurt’s DAX 40 reversed early losses to close marginally up at 24,350 on Monday, as investors tracked further Middle East developments, while AI optimism remained in play. The US-Iran negotiations suffered another setback, after President Trump dismissed Iran’s latest proposal as “totally unacceptable,” accusing Tehran of “playing games.” Among key movers, BASF rose 4.7% to lead gains after Goldman Sachs reaffirmed its “buy” rating and raised its target price to €65 from €63. Infineon Technologies followed closely, rising 3.8%. On the flip side, defence stocks including Rheinmetall (-11.5%), Renk (-6%) and Hensoldt (-4.9%) fell sharply, also weighed by Russian President Vladimir Putin’s more conciliatory tone on the Ukraine war. Gea Group dropped 5% despite beating first-quarter 2026 order intake and operating profit estimates. Hannover Re shed 3.5% despite a 48% yearly rise in net profit to €710.6 million, which missed analyst expectations of €721 million."
+    },
     {
       "id": "mkt:019e17d5-30fa-7dd9-b924-8e0076260b87",
       "time": "2026-05-12 00:18:28",
@@ -123074,70 +123131,6 @@
         "國際"
       ],
       "text": "美軍中央司令部司令布拉德·庫珀：美軍摧毀了六艘試圖干擾商業航運的伊朗小型船隻。"
-    },
-    {
-      "id": "4859962",
-      "time": "2026-05-05 00:22:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "【德國萊比錫發生汽車衝撞人群事件 已致2死多傷】當地時間4日，德國東部城市萊比錫發生汽車衝撞人群事件。據萊比錫當地警方稱，4日下午，一輛汽車撞向人群。德國方面有訊息稱，事件造成2人死亡，多人受傷。目前涉事司機已被警方逮捕，事件發生的具體原因暫不清楚。（央視新聞）"
-    },
-    {
-      "id": "te:547543",
-      "time": "2026-05-05 00:22:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "FTSE MIB Falls on Middle East Risks — The FTSE MIB dropped 1.6% to close at 47,478 on Monday, as investors weighed Middle East developments and renewed trade tensions. Iran’s navy said it turned away enemy warships in the Strait of Hormuz, while US Central Command stated no US ships had been hit. Oil prices jumped earlier in the session, raising concerns about the impact of higher crude costs on global inflation. Financials led declines, with Intesa Sanpaolo down 2.6% and UniCredit shedding 2.4%. Trade worries also weighed after US President Donald Trump said tariffs on EU cars and trucks would rise to 25%, prompting the European Commission to consider countermeasures. Stellantis fell 1.4%. Utilities were also weaker, with Enel down 2.5% and Snam losing 2.3%. In contrast, STMicroelectronics rose 2.1%, supported by a tech rally on the Nasdaq."
-    },
-    {
-      "id": "te:markets:547543",
-      "time": "2026-05-05 00:22:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "FTSE MIB Falls on Middle East Risks — The FTSE MIB dropped 1.6% to close at 47,478 on Monday, as investors weighed Middle East developments and renewed trade tensions. Iran’s navy said it turned away enemy warships in the Strait of Hormuz, while US Central Command stated no US ships had been hit. Oil prices jumped earlier in the session, raising concerns about the impact of higher crude costs on global inflation. Financials led declines, with Intesa Sanpaolo down 2.6% and UniCredit shedding 2.4%. Trade worries also weighed after US President Donald Trump said tariffs on EU cars and trucks would rise to 25%, prompting the European Commission to consider countermeasures. Stellantis fell 1.4%. Utilities were also weaker, with Enel down 2.5% and Snam losing 2.3%. In contrast, STMicroelectronics rose 2.1%, supported by a tech rally on the Nasdaq."
-    },
-    {
-      "id": "4859961",
-      "time": "2026-05-05 00:22:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "美軍中央司令部司令布拉德·庫珀：伊朗曾試圖透過向商業航運船隻開火實施干擾，但行動已失敗。"
-    },
-    {
-      "id": "4859960",
-      "time": "2026-05-05 00:21:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿曼北部一棟居民樓遭襲擊，兩名外籍人員受中度傷勢。"
-    },
-    {
-      "id": "4859959",
-      "time": "2026-05-05 00:20:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "美軍中央司令部司令布拉德·庫珀：美國已在霍爾木茲海峽“開闢自由通行通道”。"
-    },
-    {
-      "id": "4859958",
-      "time": "2026-05-05 00:19:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "彭博美元指數漲0.3%，重新整理日高。"
     }
   ]
 }
