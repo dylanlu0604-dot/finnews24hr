@@ -1,7 +1,55 @@
 {
-  "updated": "2026-05-12 07:47:04",
-  "count": 13877,
+  "updated": "2026-05-12 07:50:27",
+  "count": 13880,
   "items": [
+    {
+      "id": "4873309",
+      "time": "2026-05-12 07:50:13",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【美國州長在電費飆升之際推動電網改革】馬里蘭州州長韋斯·摩爾週一呼籲對美國最大的電力市場——PJM電力互聯絡統進行改革，改革內容包括推行長期電力合同，並要求資料中心為服務其運營所需的昂貴基礎設施承擔費用。PJM互聯電網覆蓋中西部和大西洋中部地區的13個州，是全球資料中心最密集的地區。該市場的供電緊張導致家庭電費急劇上漲，並引發了日益加劇的政治審查。“長期以來，電價的可負擔性與供電的可靠性被錯誤地視為相互衝突的目標……彷彿為了確保明天燈火通明，就必須讓工薪家庭在今天承擔沉重的電費負擔，”摩爾在PJM網際網路絡年度會員大會上的講話中表示，“這是一種虛假的選擇。”在過去約兩年裡，科技巨頭對伺服器機房的需求一直超過電網新增供電能力，PJM正考慮實施重大改革，以遏制資料中心的需求並重新平衡區域電力供應。PJM的容量支付機制（作為在用電高峰期保障電力供應的保險機制）在過去兩年間飆升了約1,000%。摩爾是去年成功推動對該價格實施臨時上限的一批州長之一。PJM改革提案的核心支柱之一，是推動供電方與資料中心之間簽訂長期固定價格合同。儘管摩爾與PJM成員（包括公用事業公司和電廠開發商）在改革的大體框架上達成一致，但雙方對市場波動的成因存在分歧。"
+    },
+    {
+      "id": "4873308",
+      "time": "2026-05-12 07:48:57",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4760美元/盎司，日內漲0.54%。"
+    },
+    {
+      "id": "4873307",
+      "time": "2026-05-12 07:48:44",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4770美元/盎司，日內漲0.89%。"
+    },
+    {
+      "id": "4873306",
+      "time": "2026-05-12 07:48:41",
+      "tags": [
+        "宏觀",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【日元盤整 交易員等待貝森特的會晤】前市日元兌其他G10和亞洲貨幣盤整。美國財政部長貝森特曾表示，他今天將在東京與日本首相高市早苗和財務大臣片山皋月會晤。野村外匯研究團隊的分析師在評論中表示：“市場正密切關注美國的立場。“野村的分析師補充說：“美國對干預和日本央行緊縮政策的寬容立場，可能有助於使走強日元的努力更加有效和持久。“資料顯示，美元基本持平於157.22日元，歐元持平於185.20日元，而澳元上漲0.2%，至113.90日元。"
+    },
+    {
+      "id": "4873305",
+      "time": "2026-05-12 07:47:39",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【受AI熱潮提振，日經指數或將上漲】隨著對AI相關主題的熱情持續，日本股市或將上漲。新加坡交易所的日經指數期貨上漲0.6%，至62885點。投資者正密切關注日本企業盈利情況，三菱重工業和富士膠片料將於週二晚些時候公佈業績。中東衝突也備受關注。日經指數週一下跌0.5%，至62417.88點。"
+    },
     {
       "id": "4873304",
       "time": "2026-05-12 07:46:51",
@@ -122945,28 +122993,6 @@
         "Importance 0"
       ],
       "text": "Silver Holds Losses on Mideast Escalation — Silver held below $73 an ounce on Tuesday after dropping nearly 2% in the previous session, pressured by intensifying tensions in the Middle East that have driven energy prices higher and amplified inflation concerns. US forces repelled Iranian attacks while escorting two US-flagged vessels through the Strait of Hormuz, while the UAE reported intercepting cruise missiles launched by Iran and attributed a major fire at its Fujairah port to an Iranian drone strike. These developments followed President Trump’s plan to restore shipping through Hormuz and support stranded vessels, although shipowners remain cautious amid elevated security risks. The latest escalation has cast doubt on the viability of the four-week ceasefire, with oil prices and global bond yields surging on expectations that central banks may need to raise interest rates to contain inflation. Silver is now down about 22% since the war started in late February."
-    },
-    {
-      "id": "te:547601",
-      "time": "2026-05-05 07:50:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Gold Holds Decline on Mideast Escalation — Gold held near $4,500 an ounce on Tuesday after dropping nearly 2% in the previous session, pressured by intensifying tensions in the Middle East that have driven energy prices higher and amplified inflation concerns. US forces repelled Iranian attacks while escorting two US-flagged vessels through the Strait of Hormuz, while the UAE reported intercepting cruise missiles launched by Iran and attributed a major fire at its Fujairah port to an Iranian drone strike. These developments followed President Trump’s plan to restore shipping through Hormuz and support stranded vessels, although shipowners remain cautious amid elevated security risks. The latest escalation has cast doubt on the viability of the four-week ceasefire, with oil prices and global bond yields surging on expectations that central banks may need to raise interest rates to contain inflation. Gold is currently down nearly 15% since the war started in late February."
-    },
-    {
-      "id": "te:markets:547601",
-      "time": "2026-05-05 07:50:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Gold Holds Decline on Mideast Escalation — Gold held near $4,500 an ounce on Tuesday after dropping nearly 2% in the previous session, pressured by intensifying tensions in the Middle East that have driven energy prices higher and amplified inflation concerns. US forces repelled Iranian attacks while escorting two US-flagged vessels through the Strait of Hormuz, while the UAE reported intercepting cruise missiles launched by Iran and attributed a major fire at its Fujairah port to an Iranian drone strike. These developments followed President Trump’s plan to restore shipping through Hormuz and support stranded vessels, although shipowners remain cautious amid elevated security risks. The latest escalation has cast doubt on the viability of the four-week ceasefire, with oil prices and global bond yields surging on expectations that central banks may need to raise interest rates to contain inflation. Gold is currently down nearly 15% since the war started in late February."
     }
   ]
 }
