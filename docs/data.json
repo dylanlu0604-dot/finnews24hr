@@ -1,7 +1,116 @@
 {
-  "updated": "2026-05-12 00:08:49",
-  "count": 13886,
+  "updated": "2026-05-12 00:12:12",
+  "count": 13893,
   "items": [
+    {
+      "id": "mkt:019e17cf-268a-7dd9-b924-66cb821c906e",
+      "time": "2026-05-12 00:11:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TRUMP SAYS XI PREFERS THAT THE U.S. DOES NOT SUPPLY WEAPONS TO TAIWAN"
+    },
+    {
+      "id": "4872928",
+      "time": "2026-05-12 00:11:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "【本輪巴以衝突已造成加沙地帶72740人死亡】當地時間5月11日，加沙地帶衛生部門公佈最新統計報告稱，自本輪停火以來，加沙地帶因以軍襲擊而死亡的人數升至854人，另有2453人受傷。自2023年10月7日新一輪巴以大規模衝突爆發以來，以色列對加沙地帶的襲擊已累計造成72740人死亡、172555人受傷。（央視新聞）"
+    },
+    {
+      "id": "mkt:019e17ce-d9ab-7dd9-b924-5f892ddf2507",
+      "time": "2026-05-12 00:11:32",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "TRUMP APPROVES PLAN TO FIRE FDA COMMISSIONER MAKARY -CBS"
+    },
+    {
+      "id": "te:markets:549715",
+      "time": "2026-05-12 00:11:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 0.05% Higher — The DAX Index went up by 12 points or 0.05 percent on Monday to close at 24350 points. The rise was led by BASF (3.50%), Brenntag (3.22%) and Zalando (2.27%). On the downside, the weakerst performers were Gea Group (-5.44%), Adidas (-3.51%) and MTU Aero Engines AG (-3.18%)."
+    },
+    {
+      "id": "4872927",
+      "time": "2026-05-12 00:10:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗是個美麗的國家，只是掌權的人或許不該在那裡。"
+    },
+    {
+      "id": "4872926",
+      "time": "2026-05-12 00:10:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：過去數月，烏克蘭已損失2.5萬名士兵。"
+    },
+    {
+      "id": "te:markets:549714",
+      "time": "2026-05-12 00:10:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 0.74% Lower — The CAC 40 Index fell 60 points or 0.74 percent on Monday to close at 8053 points. Leading the losses are LVMH (-4.32%), AXA (-3.59%) and Veolia (-3.43%). Top gainers were TP (7.40%), STMicroelectronics (3.13%) and Orange (1.93%)."
+    },
+    {
+      "id": "4872925",
+      "time": "2026-05-12 00:09:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我願意——這話聽著很沉重——以身赴難、為國擋子彈。這種說法本身就讓人心情沉重，尤其從我口中說出更是如此，但我確實願意為國家挺身而出、甘願付出一切。"
+    },
+    {
+      "id": "mkt:019e17cd-5b18-7dd9-b924-57c3b6dba0b0",
+      "time": "2026-05-12 00:09:54",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "S&P500",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "TRUMP: CHINA'S XI IS MORE LIKELY TO BRING UP TAIWAN"
+    },
+    {
+      "id": "4872924",
+      "time": "2026-05-12 00:09:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及伊朗：伊朗領導層這群人毫無信譽可言。"
+    },
+    {
+      "id": "te:markets:549713",
+      "time": "2026-05-12 00:09:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "European Stocks Edge Lower — European stocks closed lower for a third session on Monday amid continued pressure from the war in the Middle East and its impact on lower energy supply. The Eurozone's STOXX 50 fell 0.3% to 5,895 and the pan-European STOXX 600 was flat at 612. US President Trump stated that the US rejected Iran's counteroffer of concessions to end their war over the weekend, escalating the hawkish rhetoric and prolonging the suspension of energy exports from the key region. Risk-sensitive companies within the consumer discretionary sector led the losses, dragging luxury brands traded in Paris. LVMH fell over 4%, while Hermes and L'Oreal dropped around 3%. In turn, Schneider Electric added 2.3% after its recent pressure this month, and Siemens gained 1.4% ahead of its earnings result this week."
+    },
     {
       "id": "mkt:019e17cb-15cf-7dd9-b924-4f8407e9b2cf",
       "time": "2026-05-12 00:07:25",
@@ -122937,40 +123046,6 @@
         "國際"
       ],
       "text": "交易員增持押注美聯儲將在2027年3月前加息的倉位。"
-    },
-    {
-      "id": "4859952",
-      "time": "2026-05-05 00:10:52",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國2/3年期國債收益率漲10個基點。"
-    },
-    {
-      "id": "4859951",
-      "time": "2026-05-05 00:10:26",
-      "tags": [
-        "市場"
-      ],
-      "text": "【德國兩年期國債收益率漲超9個基點，投資者權衡加息風險】週一（5月4日）歐市尾盤，德國10年期國債收益率漲5.5個基點，重新整理日高至3.092%，全天處於上漲狀態、整體呈現出N形走勢。兩年期德債收益率漲9.3個基點，重新整理日高至2.736%，全天處於上漲狀態、歐股開盤之前微幅回落至2.645%重新整理日低；30年期德債收益率3.6個基點，重新整理日高至3.540%。2/10年期德債收益率利差跌3.925個基點，重新整理日低至+35.159個基點。"
-    },
-    {
-      "id": "4859950",
-      "time": "2026-05-05 00:09:15",
-      "tags": [
-        "市場"
-      ],
-      "text": "新興市場外匯指數轉跌，巴西雷亞爾、南非蘭特、哥倫比亞比索重新整理日低。"
-    },
-    {
-      "id": "4859949",
-      "time": "2026-05-05 00:09:11",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4510美元/盎司，日內跌2.34%。"
     }
   ]
 }
