@@ -1,7 +1,35 @@
 {
-  "updated": "2026-05-12 00:12:12",
+  "updated": "2026-05-12 00:15:36",
   "count": 13893,
   "items": [
+    {
+      "id": "4872930",
+      "time": "2026-05-12 00:14:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "委內瑞拉代總統羅德里格斯：委內瑞拉沒有成為美國第51個州的計劃。"
+    },
+    {
+      "id": "4872929",
+      "time": "2026-05-12 00:12:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普批准解僱FDA局長馬卡里。"
+    },
+    {
+      "id": "te:markets:549716",
+      "time": "2026-05-12 00:12:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 0.76% Higher — The FTSE MIB Index gained 375 points or 0.76 percent on Monday to close at 49665 points. Gains were led by Diasorin (5.54%), Prysmian (3.29%) and Saipem (3.23%). Biggest losers were Avio (-5.69%), Moncler (-4.62%) and Brunello Cucinelli (-3.62%)."
+    },
     {
       "id": "mkt:019e17cf-268a-7dd9-b924-66cb821c906e",
       "time": "2026-05-12 00:11:52",
@@ -123021,31 +123049,6 @@
         "其他"
       ],
       "text": "據航班追蹤網站 Flightradar24 訊息，受阿聯酋地區遭遇襲擊相關訊息影響，多架飛往阿聯酋的航班改道備降馬斯喀特。"
-    },
-    {
-      "id": "4859955",
-      "time": "2026-05-05 00:14:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "IBM 推出網路欺詐防護解決方案。"
-    },
-    {
-      "id": "4859954",
-      "time": "2026-05-05 00:12:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "【馬裡過渡總統兼任防長】根據馬裡過渡總統戈伊塔4日簽署的總統令，戈伊塔兼任國防和退伍軍人事務部長。根據當日簽署的另一份總統令，奧馬爾·迪亞拉被任命為國防部長級代表。迪亞拉此前任馬裡武裝部隊總參謀長。（新華社）"
-    },
-    {
-      "id": "4859953",
-      "time": "2026-05-05 00:12:39",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "交易員增持押注美聯儲將在2027年3月前加息的倉位。"
     }
   ]
 }
