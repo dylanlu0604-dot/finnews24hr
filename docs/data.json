@@ -1,7 +1,61 @@
 {
-  "updated": "2026-05-11 19:43:11",
-  "count": 13506,
+  "updated": "2026-05-11 19:46:35",
+  "count": 13510,
   "items": [
+    {
+      "id": "mkt:019e16dc-3b60-7dd9-b91f-28a713d3326e",
+      "time": "2026-05-11 19:46:32",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "KUAISHOU PLANS TO SPIN OFF UNIT AT $20B VALUATION: INFORMATION"
+    },
+    {
+      "id": "4872366",
+      "time": "2026-05-11 19:46:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華大基因與稻田集團達成病理深度合作】據華大基因訊息，近日，華大基因與稻田集團在西安正式簽署病理深度合作協議，稻田光合・華大時空病理中心同步揭牌成立。雙方將圍繞分子病理診斷、時空組學臨床轉化、智慧化病理診斷等前沿方向深度協同，推動自主基因技術與臨床應用網路高效融合，助力我國精準醫學與基層病理能力全面升級。"
+    },
+    {
+      "id": "mkt:019e16db-cf0b-7dd9-b91f-219cd2ab49d6",
+      "time": "2026-05-11 19:46:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "1024.HK"
+      ],
+      "text": "KUAISHOU PLANS TO SPIN OFF KLING AI VIDEO UNIT: INFORMATION"
+    },
+    {
+      "id": "4872363",
+      "time": "2026-05-11 19:44:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【比利時將向烏克蘭提供全部F-16戰機】據德國新聞電影片道網站5月11日報道，比利時計劃將其整個F-16戰機編隊提供給烏克蘭。 比利時當地媒體報道稱，到2029年，53架F-16戰機的大部分將轉交給烏克蘭。此舉的前提是，比利時正逐步引入更加先進的F-35戰機以取代F-16。 在此之前，比利時就承諾向烏克蘭提供F-16戰機，且數量超過所有國家。（參考訊息）"
+    },
+    {
+      "id": "te:markets:549648",
+      "time": "2026-05-11 19:44:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Cotton Futures Hover Around 2-Year High — Cotton futures traded around 84.7 cents per pound, holding close to the highest since April 2024, mainly supported by elevated oil prices amid ongoing geopolitical tensions. Rising crude oil prices push up polyester production costs, making cotton a more attractive substitute and thereby supporting cotton demand. Meanwhile, attention remains on weather conditions in key US growing regions. Conditions remain dry in the main growing regions of Texas, although isolated rain showers are still expected for much of the Delta and Southeast cotton-producing areas. In the meantime, the latest USDA's weekly crop progress report showed that 21% of the US cotton crop was planted in the week ended May 3, up from 16% a week earlier and above the five-year average of 19%."
+    },
+    {
+      "id": "4872360",
+      "time": "2026-05-11 19:43:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【多氟多：大圓柱電池產能急需擴大 預計到年底廣西、焦作電池基地合計產能目標超50Gwh】多氟多董事長、總經理李雲峰在今天下午舉行的業績說明會上表示，目前公司大圓柱電池產品訂單飽滿，產能急需擴大，預計廣西、焦作電池基地今年底合計產能目標超50Gwh；2026年公司六氟磷酸鋰計劃出貨6萬噸左右，現階段該產品產銷穩定。另外，公司已建成100噸/年硼穩定同位素系列新材料產線。"
+    },
     {
       "id": "mkt:019e16d9-21c9-7dd9-b91f-1b6b07d2cadd",
       "time": "2026-05-11 19:43:09",
@@ -75,6 +129,16 @@
         "市場"
       ],
       "text": "洲際交易所紐約可可期貨漲幅超10%，報每噸4621美元。"
+    },
+    {
+      "id": "4872351",
+      "time": "2026-05-11 19:40:12",
+      "tags": [
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【摩根大通策略師提醒 美國股市高位之下潛藏通脹風險】摩根大通的Grace Peters表示，全球碎片化、人工智慧和通脹是當前塑造市場的三大關鍵力量，而中東戰爭等近期事件使這些趨勢更加緊迫。Peters警告稱，資本支出的上升可能加劇通脹風險，建議投資者透過配置黃金等抗通脹資產來增強投資組合的韌性，同時在債券方面保持偏短久期配置。她對企業盈利增長仍持樂觀態度，預計在資本支出增加以及人工智慧推動利潤率提升的背景下，盈利增速將超過過去幾十年的水平。"
     },
     {
       "id": "4872350",
@@ -178,6 +242,15 @@
         "宏觀"
       ],
       "text": "【央行：下階段還要加快構建覆蓋全面的宏觀審慎管理體系】央行釋出2026年第一季度中國貨幣政策執行報告，其中提到，下階段還要加快構建覆蓋全面的宏觀審慎管理體系。一是強化“雙支柱”調控框架的協調配合。把握好宏觀審慎政策和貨幣政策兼具宏觀屬性和逆週期調節功能，各有側重、緊密聯動、相互補充的關係定位，健全“雙支柱”調控框架。做實做強宏觀審慎政策支柱，靠前防範化解可能產生系統性影響的風險，為貨幣政策實施拓展空間，形成“雙支柱”宏觀調控合力。二是完善宏觀審慎管理機制。結合金融領域重點法律制定修訂，落實中國人民銀行宏觀審慎管理職責。完善宏觀審慎和金融穩定委員會工作機制，籌劃和落地宏觀審慎和金融穩定重大事項，持續最佳化宏觀審慎政策體系，提高風險識別的科學性和政策實施的精準性、有效性。三是夯實宏觀審慎監測評估機制。持續健全監測框架、豐富評估手段，加強監測結果運用，強化風險提示。既要前瞻性整體把握金融風險演變趨勢，也要引導金融機構主動校正行為，阻斷或弱化風險累積和傳染。四是豐富宏觀審慎政策工具箱，持續做好重點領域宏觀審慎管理。基於我國金融體系發展階段和特點、系統性風險來源變化，逐步拓展宏觀審慎管理範圍，根據形勢變化及時豐富和完善宏觀審慎政策工具，提升科學性、有效性。強化對系統重要性銀行的附加監管，穩步拓寬附加監管範圍。做好跨境資本流動宏觀審慎管理，維護跨境資本有序流動。建立健全金融市場、大型平臺等領域宏觀審慎管理框架。"
+    },
+    {
+      "id": "4872341",
+      "time": "2026-05-11 19:35:59",
+      "tags": [
+        "央行",
+        "宏觀"
+      ],
+      "text": "【央行：持續探索構建中國特色宏觀審慎管理體系】央行釋出2026年第一季度中國貨幣政策執行報告，其中提到，中國人民銀行持續探索構建中國特色宏觀審慎管理體系。在2009 年危機後探索宏觀審慎管理的基礎上，近年來，中國人民銀行認真貫徹落實黨中央、國務院決策部署，從我國基本國情出發，不斷完善宏觀審慎管理。一是建立宏觀審慎管理機制。釋出《宏觀審慎政策指引（試行）》，明確我國開展宏觀審慎管理的總體思路。設立中國人民銀行宏觀審慎和金融穩定委員會，研判系統性金融風險，強化宏觀審慎政策統籌協調。二是加強系統性金融風險監測。定量與定性相結合，從宏觀整體視角強化風險形勢研判。三是不斷豐富宏觀審慎政策工具。在系統重要性金融機構、金融市場、房地產金融、跨境資本流動等重點領域廣泛開展實踐。根據風險防範需要，創設支援資本市場的相關工具，拓展中央銀行維護金融市場穩定的宏觀審慎管理功能；加強債券市場監測與預期引導，遏制利率風險積累擴散。具有中國特色的宏觀審慎管理體系已初步形成，發揮了防範系統性金融風險的積極作用。"
     },
     {
       "id": "mkt:019e16d2-6b63-7dd9-b91e-fa6a05d081c5",
@@ -119212,40 +119285,6 @@
         "Importance 2"
       ],
       "text": "10-Year Treasury Yield Approaches 4-Week High — The yield on the US 10-year Treasury note rose to 4.42% on Monday, hovering near the four-week highs reached last week, as traders assessed escalating tensions in the Middle East and a further increase in oil prices. Investors are also looking ahead to the Treasury Department’s announcement of its borrowing plans for the next three months, alongside several speeches from Fed officials and key economic data releases this week, including the jobs report. The US Treasury is widely expected to maintain the size of its quarterly refunding at $125 billion. On the data front, the US economy is projected to have added around 60,000 jobs in April, marking a sharp slowdown from 178,000 in March, while the unemployment rate is likely to have held steady at 4.3%. Markets currently anticipate that the Fed will keep the federal funds rate unchanged for the remainder of the year, although the probability of a 25 basis point rate hike in December stands at around 15%."
-    },
-    {
-      "id": "4859557",
-      "time": "2026-05-04 19:46:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "德國外長：毫無疑問，北約在歐洲的威懾能力絕不會存在任何不足。"
-    },
-    {
-      "id": "4859556",
-      "time": "2026-05-04 19:45:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗媒體：阿聯酋實際上已成為以色列的棋子，並代該政權付出沉重的代價。"
-    },
-    {
-      "id": "4859555",
-      "time": "2026-05-04 19:45:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗媒體：第一槍已經打響了。"
-    },
-    {
-      "id": "4859554",
-      "time": "2026-05-04 19:44:44",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【法國央行行長：歐洲央行應在資料允許的情況下收緊利率】法國央行行長表示，在評估伊朗戰爭引發的通脹壓力之際，歐洲央行的貨幣政策必須保持謹慎但警惕。弗朗索瓦·維勒魯瓦·德加洛在致法國總統埃馬紐埃爾·馬克龍的年度信函中表示，歐洲央行應準備好毫不猶豫地採取行動，以防止能源成本上漲傳導至第二輪效應，例如透過工資。不過，他表示，該行只有在收集到關於其傳導至更基本價格壓力的足夠資料後，才能採取行動。歐洲央行上週將關鍵利率維持在2.0%。維勒魯瓦·德加洛表示，這場戰爭“顯然是一次負面的供應衝擊”，導致法國經濟增長放緩、通脹加劇。"
     }
   ]
 }
