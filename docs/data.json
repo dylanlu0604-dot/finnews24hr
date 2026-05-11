@@ -1,7 +1,50 @@
 {
-  "updated": "2026-05-12 07:43:38",
-  "count": 13874,
+  "updated": "2026-05-12 07:47:04",
+  "count": 13877,
   "items": [
+    {
+      "id": "4873304",
+      "time": "2026-05-12 07:46:51",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "指標10年期日本國債期貨早盤下跌0.11點。"
+    },
+    {
+      "id": "4873303",
+      "time": "2026-05-12 07:46:30",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【金價上漲 受可能的頭寸調整影響】金價在亞洲早盤交易中上漲，受可能的頭寸調整影響。 現貨黃金上漲0.5%，報每盎司4,756.30美元。 InTouch Capital Markets的分析師團隊在評論中表示：“投資者在等待有關美國和伊朗下一步行動的更多細節。“該團隊指出：“總統特朗普對伊朗最新的溝通表達了不滿，並正與他的顧問坐下來確定未來的戰略。“該團隊補充說，特朗普似乎想放棄進一步的軍事打擊，但伊朗不斷的拒絕可能會促使他採取其他行動。"
+    },
+    {
+      "id": "4873302",
+      "time": "2026-05-12 07:45:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【A股定增一覽：8家公司披露定增進展】Wind資料顯示，5月12日，A股共8家公司釋出定增相關公告。其中2家公司披露股票定增預案，2家定增預案獲股東大會透過，1家定增預案獲交易所透過，2家定增預案獲證監會透過。從當日最新披露定增預案來看，海量資料、迅捷興定增募資預案金額最高，分別擬定增不超7.02億元、1.3億元。今年以來，已有71家公司公告定增方案已完成，23家公司定增金額超10億元。具體來看，中國神華、中國能建、北汽藍谷定增募資金額最高，募資總額分別為200.0億元、65.0億元、60.0億元。"
+    },
+    {
+      "id": "4873301",
+      "time": "2026-05-12 07:45:40",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經平均指數期貨早盤上漲0.72%。"
+    },
+    {
+      "id": "4873300",
+      "time": "2026-05-12 07:44:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【燃料價格居高不下 特朗普支援暫停聯邦汽油稅】美國總統特朗普週一表示，他支援降低每加侖18.4美分的聯邦汽油稅。伊朗戰爭導致美國燃料價格飆升，已引發美國駕車者的憤怒。要免除這項稅費需要國會透過立法，目前國會由特朗普所屬的共和黨控制。當被問及是否會暫停該稅時，特朗普對記者表示：“是的，我會降低。”而被問及暫停期限時，特朗普在橢圓形辦公室表示：“直到適當時機。”密蘇里州共和黨籍參議員霍利(Josh Hawley)表示，他週一將提出立法，暫停徵收汽油稅和每加侖24.4美分的柴油稅，為期90天。根據美國汽車協會（AAA）資料，截至週一，美國汽油均價為每加侖4.52美元，創2022年以來新高（當時均價曾達到5.01美元的峰值）。"
+    },
     {
       "id": "4873298",
       "time": "2026-05-12 07:42:23",
@@ -122924,23 +122967,6 @@
         "Importance 2"
       ],
       "text": "Gold Holds Decline on Mideast Escalation — Gold held near $4,500 an ounce on Tuesday after dropping nearly 2% in the previous session, pressured by intensifying tensions in the Middle East that have driven energy prices higher and amplified inflation concerns. US forces repelled Iranian attacks while escorting two US-flagged vessels through the Strait of Hormuz, while the UAE reported intercepting cruise missiles launched by Iran and attributed a major fire at its Fujairah port to an Iranian drone strike. These developments followed President Trump’s plan to restore shipping through Hormuz and support stranded vessels, although shipowners remain cautious amid elevated security risks. The latest escalation has cast doubt on the viability of the four-week ceasefire, with oil prices and global bond yields surging on expectations that central banks may need to raise interest rates to contain inflation. Gold is currently down nearly 15% since the war started in late February."
-    },
-    {
-      "id": "4860402",
-      "time": "2026-05-05 07:45:26",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美國加州調查特朗普政府取消海上風電租賃協議一事】加利福尼亞州能源官員週一就特朗普政府與一家海上風電公司達成的協議展開調查，該協議旨在取消在該州中部海岸外計劃實施的一個專案。 該州表示，正在就這筆1.2億美元的政府款項收集資訊，以確定其是否違反法律。"
-    },
-    {
-      "id": "4860401",
-      "time": "2026-05-05 07:43:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【我國重大油氣基礎設施建設跑出加速度】記者今天從國家管網集團獲悉，我國重大油氣基礎設施——海南液化天然氣二期工程完成3號儲罐重達821噸的穹頂氣升頂作業，標誌著專案實現階段性重大進展。（央視新聞）"
     }
   ]
 }
