@@ -1,7 +1,62 @@
 {
-  "updated": "2026-05-11 23:45:59",
-  "count": 13836,
+  "updated": "2026-05-11 23:49:28",
+  "count": 13842,
   "items": [
+    {
+      "id": "4872888",
+      "time": "2026-05-11 23:48:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士：印度因制裁原因拒絕採購俄羅斯液化天然氣，雙方仍就合規可交易貨運批次持續談判。"
+    },
+    {
+      "id": "mkt:019e17b8-e4c9-7aaf-9291-d67497254681",
+      "time": "2026-05-11 23:47:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TRUMP: REPUBLICANS SHOULD WALK AWAY WITH MIDTERMS"
+    },
+    {
+      "id": "mkt:019e17b8-d9dd-7aaf-9291-c831dafb7d29",
+      "time": "2026-05-11 23:47:22",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "OIL PRICES EXTEND GAINS, BRENT CRUDE RISES ABOVE $104/BBL"
+    },
+    {
+      "id": "4872887",
+      "time": "2026-05-11 23:47:21",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：共和黨人應該贏得中期選舉。"
+    },
+    {
+      "id": "4872886",
+      "time": "2026-05-11 23:46:54",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "油價延續漲勢，布倫特原油價格突破每桶104美元。"
+    },
+    {
+      "id": "4872885",
+      "time": "2026-05-11 23:46:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普聲稱擁有一套絕佳策略，可阻止伊朗獲取核武器。"
+    },
     {
       "id": "4872884",
       "time": "2026-05-11 23:45:40",
@@ -444,6 +499,15 @@
         "MKT News"
       ],
       "text": "PENTAGON SHOWS OFF NUCLEAR-ARMED SUBMARINE IN GIBRALTAR - WSJ"
+    },
+    {
+      "id": "4872861",
+      "time": "2026-05-11 23:34:28",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【摩根大通：布倫特原油2026年或將維持在100美元以上】摩根大通預計，即使霍爾木茲海峽在6月重新開放，布倫特原油價格在2026年的大部分時間裡仍將維持在100美元左右的低位，理由是庫存緊張和物流限制。該行表示，庫存快速下降和季節性需求將使經合組織成員國的庫存水平在8月接近壓力水平，即使海峽重新開放，市場供應仍將保持緊張。摩根大通預測，2026年布倫特原油均價為96美元，年中季度將出現超過100美元的峰值。分析人士還警告稱，瓶頸可能轉移到油輪運力和煉油能力，從而延緩正常化程序。沙特阿美執行長也單獨表示，目前的混亂局面是史上最嚴重的，並警告稱復甦可能要到2027年才能實現。"
     },
     {
       "id": "mkt:019e17ac-46f4-7dd9-b923-3e4b74f6fa8b",
@@ -122485,18 +122549,6 @@
         "其他"
       ],
       "text": "阿聯酋空中交通陷入中斷， 已有可靠訊息證實，沙迦機場與迪拜機場的航班執行均已受到影響。"
-    },
-    {
-      "id": "te:economy:547530",
-      "time": "2026-05-04 23:48:45",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Colombia",
-        "Manufacturing PMI",
-        "Importance 1"
-      ],
-      "text": "Colombia's Manufacturing PMI Slips in April — Colombia's Davivienda Manufacturing PMI eased to 50.8 in April 2026 from 51.4 in March, marked by the first production decline in over a year. Manufacturers reduced buying levels, as new orders growth slowed, amid subdued consumer demand, and costs rose to a three-year high, mainly for chemicals, hydrocarbons, packaging, plastics, rubber and textiles. Additionally, higher supplier delivery times and customs-related disruptions quickened the rate of inventory depletion to a two and a half year low. On employment, fixed-term staff were mainly hired, although overall job creation stayed modest. Business confidence deteriorated to its lowest level in nearly two years, as manufacturers cited rising competition, inflationary pressures, and softer demand as key concerns."
     }
   ]
 }
