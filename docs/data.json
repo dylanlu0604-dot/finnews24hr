@@ -1,7 +1,31 @@
 {
-  "updated": "2026-05-12 01:06:46",
+  "updated": "2026-05-12 01:10:09",
   "count": 13916,
   "items": [
+    {
+      "id": "mkt:019e1804-7e1a-7dd9-b925-2e1e95606016",
+      "time": "2026-05-12 01:10:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "REDISTRICTING WAR ISN’T OVER, DEMOCRATS SAY. PLANNING HUDDLE THIS WEEK IN WASHINGTON - CNBC"
+    },
+    {
+      "id": "4872986",
+      "time": "2026-05-12 01:09:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國民主黨人士：選區重劃之爭尚未落幕，本週將在華盛頓召開閉門籌劃會議。"
+    },
+    {
+      "id": "4872985",
+      "time": "2026-05-12 01:06:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普稱美伊停火協議命懸一線 華府考慮恢復軍事行動可能性】美伊停火週一陷入尤為脆弱的階段，特朗普拒絕德黑蘭最新和平提議，並稱該協議“處於嚴重依賴生命維持裝置的狀態”。特朗普週一在白宮橢圓形辦公室對記者表示，伊朗的最新回應是“一堆垃圾”，他“甚至沒有看完”。一名知情人士稱，伊朗要求華盛頓解除海上封鎖並放鬆制裁，同時堅持對霍爾木茲海峽航運保留一定控制權。特朗普未說明美國是否會恢復對伊朗的軍事打擊，但他此前曾威脅稱，如果伊朗領導層不接受其條件，將採取行動。他週一早些時候表示，正在考慮恢復護航計劃以協助船隻透過霍爾木茲海峽。三名美國官員透露，在週日與伊朗的談判陷入僵局後，特朗普將於週一與國家安全團隊會面，討論伊朗戰爭下一步行動，包括可能恢復軍事行動。"
+    },
     {
       "id": "4872984",
       "time": "2026-05-12 01:05:12",
@@ -123230,37 +123254,6 @@
         "國際"
       ],
       "text": "據以色列第14頻道：一名以色列高階官員表示，已準備好立即恢復在伊朗的戰鬥，正等待美國方面的綠燈。"
-    },
-    {
-      "id": "te:547557",
-      "time": "2026-05-05 01:09:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "EU Natural Gas Prices Rise Sharply — European natural gas futures rose to almost €49 per megawatt hour as tensions in the Middle East escalated again. The UAE reported intercepting Iranian cruise missiles aimed at several locations across the country, shattering the tenuous calm that had settled in after the ceasefire in early April. The Strait of Hormuz, has been effectively closed since late February and has disrupted roughly a fifth of global LNG flows. European gas prices have risen about 40% since the conflict began, as the blockage tightened global supply and increased competition for cargoes, though they have eased from peak levels as some Asian buyers reduced imports."
-    },
-    {
-      "id": "te:markets:547557",
-      "time": "2026-05-05 01:09:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "EU Natural Gas Prices Rise Sharply — European natural gas futures rose to almost €49 per megawatt hour as tensions in the Middle East escalated again. The UAE reported intercepting Iranian cruise missiles aimed at several locations across the country, shattering the tenuous calm that had settled in after the ceasefire in early April. The Strait of Hormuz, has been effectively closed since late February and has disrupted roughly a fifth of global LNG flows. European gas prices have risen about 40% since the conflict began, as the blockage tightened global supply and increased competition for cargoes, though they have eased from peak levels as some Asian buyers reduced imports."
-    },
-    {
-      "id": "4860004",
-      "time": "2026-05-05 01:08:13",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "道富集團CEO：伊朗戰事正引發全球資本流向重大重構。"
     }
   ]
 }
