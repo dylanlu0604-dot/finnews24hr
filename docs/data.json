@@ -1,7 +1,47 @@
 {
-  "updated": "2026-05-11 22:01:44",
-  "count": 13744,
+  "updated": "2026-05-11 22:05:17",
+  "count": 13747,
   "items": [
+    {
+      "id": "4872729",
+      "time": "2026-05-11 22:04:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國30年期國債跌幅進一步擴大，當日收益率當前上行10個基點，報5.675%。"
+    },
+    {
+      "id": "4872728",
+      "time": "2026-05-11 22:04:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國有線電視新聞網：伊朗謀求對霍爾木茲海峽的主權，阿曼同樣擁有該水道的相關權益。"
+    },
+    {
+      "id": "4872727",
+      "time": "2026-05-11 22:03:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【茅臺改革：“全面向C”】5月11日，貴州茅臺召開2025年度及2026年第一季度業績說明會。公司管理層直面2025年公司上市以來首次營收與歸母淨利潤下降的現實，詳細闡釋了應對策略及2026年一季度“利潤慢於收入”的結構性原因。 貴州茅臺黨委副書記、董事、代總經理王莉表示，公司在面對行業深度調整，消費需求疲軟、消費場景減少帶來的市場挑戰之時，充分尊重市場規律，堅持“不唯指標”，主動收縮規模以維護渠道韌性，保持市場穩定，因此四季度營收、利潤都有較大下降。但公司也從中看到了以消費者為中心、以市場需求為驅動的市場化轉型契機和難得的改革視窗期，果斷抓住機會在2026年伊始，開啟了“全面向C”的市場化改革。（上海證券報微信公眾號）"
+    },
+    {
+      "id": "4872726",
+      "time": "2026-05-11 22:02:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【容大感光：在AI算力相關PCB光刻膠領域已進行佈局 目前已形成多款產品矩陣】 容大感光5月11日在業績說明會上表示，公司在AI算力相關PCB光刻膠領域已進行前瞻性佈局，目前已形成多款產品矩陣。相關產品正積極推進客戶驗證工作，部分型號已實現量產，後續公司將緊跟AI算力基礎設施升級需求，持續深化技術研發與客戶拓展。"
+    },
+    {
+      "id": "4872725",
+      "time": "2026-05-11 22:02:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國4月二手房銷量增至402萬套；預估為405萬套。"
+    },
     {
       "id": "4872723",
       "time": "2026-05-11 22:00:48",
@@ -11,6 +51,30 @@
         "國際"
       ],
       "text": "【特朗普抨擊伊朗對和平計劃的回應“不可接受” 美國股市漲勢停滯】週一，美股整體缺乏明確方向，但強勁的企業財報推動華爾街策略師繼續上調標普500目標，同時市場仍在評估伊朗戰爭持續時間的不確定性。標普500指數開盤基本持平。晶片股的強勁表現繼續提振了基準股指，其中英特爾和美光科技等公司表現最為突出。科技股為主的納斯達克100指數小幅上漲0.2%，而道瓊斯工業平均指數則下跌0.1%。“市場仍然相信會達成停火協議，” Sevens Report的創始人湯姆·埃塞耶表示，這是特朗普稱伊朗對其結束戰爭提議的回應“完全不可接受”後，股市沒有出現更大幅度拋售的原因。"
+    },
+    {
+      "id": "mkt:019e1756-ece9-7dd9-b922-12b8753815d1",
+      "time": "2026-05-11 22:00:27",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "U.S APRIL NATIONAL MEDIAN HOME PRICE FOR EXISTING HOMES $417,700, +0.9 PCT FROM APRIL 2025"
+    },
+    {
+      "id": "mkt:019e1756-d96c-7dd9-b922-0a6d9ddecd54",
+      "time": "2026-05-11 22:00:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "CHINA RECORDED MODEST IMPROVEMENT OF $2.1 BILLION OF DEBT INFLOWS AND $1.5 BILLION OF EQUITY INFLOWS IN APRIL - IIF"
     },
     {
       "id": "4872722",
@@ -23,6 +87,40 @@
       "text": "美國4月成屋銷售總數年化 402萬戶，預期405萬戶，前值由398萬戶修正為401萬戶。\n美國4月成屋銷售年化月率 0.2%，預期2.80%，前值由-3.60%修正為-2.9%。"
     },
     {
+      "id": "mkt:019e1756-d8c2-7dd9-b922-07172fbbc62e",
+      "time": "2026-05-11 22:00:18",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "RECOVERY LED BY $51.9 BILLION OF DEBT INFLOWS VS $682 MILLION OUTFLOW IN MARCH - IIF"
+    },
+    {
+      "id": "mkt:019e1756-ca4e-7dd9-b921-fc65acd9f1fd",
+      "time": "2026-05-11 22:00:16",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Conference Board Employment Trends Index (Apr) | actual 105.77 | previous 105.72"
+    },
+    {
+      "id": "mkt:019e1756-c41f-7dd9-b921-f3416e03b550",
+      "time": "2026-05-11 22:00:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "CNH",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "EMERGING MARKET PORTFOLIO INFLOWS REBOUND TO $58.3 BILLION IN APRIL AFTER IRAN WAR TRIGGERED $66.2 BILLION OUTFLOW IN MARCH - IIF DATA"
+    },
+    {
       "id": "te:markets:549688",
       "time": "2026-05-11 22:00:08",
       "tags": [
@@ -33,6 +131,26 @@
         "Importance 1"
       ],
       "text": "The Dow Jones Index Opens 0.19% Higher — The Dow Jones Index is picking up 95 points or 0.19 percent on Monday. Gains are led by Chevron (1.51%), Merck (1.40%) and 3M (1.05%). Biggest losers are Nike (-2.56%), P&G (-1.84%) and Microsoft (-1.28%)."
+    },
+    {
+      "id": "mkt:019e1756-6d96-7dd9-b921-eb006d5c32b7",
+      "time": "2026-05-11 22:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Existing Home Sales SAAR (MoM) (Apr) | actual 0.2% | consensus 2.80% | previous -3.60%"
+    },
+    {
+      "id": "mkt:019e1756-6d77-7dd9-b921-e193e9747db6",
+      "time": "2026-05-11 22:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Existing Home Sales Total SAAR (Apr) | actual 4020000M | consensus 4050000M | previous 3980000M"
     },
     {
       "id": "4872721",
@@ -121480,84 +121598,6 @@
         "觀點"
       ],
       "text": "【中信建投：Agentic AI 重塑通用計算價值】中信建投釋出研報稱，從預訓練到強化學習與Agentic AI，人工智慧的正規化演進推動了CPU需求量的顯著提升。當Agent併發量超過傳統CPU承載上限時，會出現請求佇列堆積、工具呼叫超時、多輪推理迴圈延遲飆升等問題，在不同型別智慧體任務中，CPU在執行耗時和能耗佔比上相較於GPU佔據較高比重，成為Agent執行的主要瓶頸。過去在算力產業鏈價值分配上，CPU被持續邊緣化，而隨著AgenticAI帶來的CPU需求激增，疊加上游漲價與產能受限，導致今年以來全球CPU市場漲價及缺貨持續加劇。Arm CEO Haas指出，傳統AI負載在每GW的資料中心容量下約需3000萬個CPU核心，而在Agentic AI時代CPU核心需求將激增至每GW一億兩千萬顆。同時在Intel在2026Q1財報電話會上表示未來的CPU與GPU配比將從現在的8:1提升至1:1。"
-    },
-    {
-      "id": "4859792",
-      "time": "2026-05-04 22:04:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國3月扣除飛機的非國防資本貨物訂單修正後為增長3.4%；3月裝運資料維持初值，增長1.2%。"
-    },
-    {
-      "id": "4859791",
-      "time": "2026-05-04 22:04:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國3月計算機/電子產品訂單增長3.6%。"
-    },
-    {
-      "id": "te:economy:547496",
-      "time": "2026-05-04 22:04:27",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Factory Orders",
-        "Importance 2"
-      ],
-      "text": "US Factory Orders Rise More than Expected — US factory orders rose 1.5% month-over-month to $630.4 billion in March 2026, beating market expectations of 0.5% and following an upwardly revised 0.3% increase in February. New orders for manufactured durable goods increased 0.8% to $318.9 billion, ending three straight months of declines. Computers and electronic products surged 3.6%, the most since March 2001, with electromedical, measuring, and control instruments up 7.9% to a record high amid an AI investment boom and data center construction. Transport equipment orders also rose 0.8%, led by vehicles (0.9%), defense aircraft and parts (17.8%), and ships and boats (30.9%). Gains were also seen in machinery (0.9%), electrical equipment, appliances, and components (0.8%), and primary metals (0.5%). Nondurable goods orders rose 2.1% to $311.5 billion, the highest level since October 2022. Excluding transportation, factory orders grew 1.6% in March, while excluding defense, orders rose 0.9%."
-    },
-    {
-      "id": "4859790",
-      "time": "2026-05-04 22:04:11",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根大通最新調查顯示，大多數小企業主未做好繼任規劃。"
-    },
-    {
-      "id": "4859789",
-      "time": "2026-05-04 22:03:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "【加拿大推出10億加元貸款計劃，援助受關稅衝擊的產業】加拿大政府週一宣佈了一項總額達10億加元（約合7.3465億美元）的貸款計劃，旨在向受美國關稅影響的產業提供援助。政府在一份宣告中表示：“該計劃將面向那些生產並出口含有鋼鐵、鋁或銅成分產品的產業。”宣告還補充道，這筆貸款將透過加拿大開發銀行發放。此外，政府還宣佈向各區域發展機構撥款5億加元，以支援所有受關稅影響的行業。"
-    },
-    {
-      "id": "4859788",
-      "time": "2026-05-04 22:03:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度信實工業表示，其烷基化裝置目前正降負荷執行，以減少烷基化油出口。"
-    },
-    {
-      "id": "4859787",
-      "time": "2026-05-04 22:02:16",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行銀行監管委員會主席布赫：降低資本要求可能只是導致對股東的分配增加，而不是更多的貸款。"
-    },
-    {
-      "id": "4859786",
-      "time": "2026-05-04 22:02:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國藝電：Visa與EA SPORTS FC及EA SPORTS大學橄欖球達成合作，推出遊戲內獎勵。"
-    },
-    {
-      "id": "4859785",
-      "time": "2026-05-04 22:01:49",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "CIRCLE公告：法國Circle已獲批准可在歐盟提供加密資產服務。"
     }
   ]
 }
