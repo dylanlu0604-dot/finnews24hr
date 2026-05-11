@@ -1,7 +1,81 @@
 {
-  "updated": "2026-05-11 23:07:23",
-  "count": 13778,
+  "updated": "2026-05-11 23:10:50",
+  "count": 13780,
   "items": [
+    {
+      "id": "mkt:019e1796-bec7-7dd9-b922-7c92b21d5817",
+      "time": "2026-05-11 23:10:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TRUMP SAYS POSITIVE CALL WITH PUTIN"
+    },
+    {
+      "id": "mkt:019e1796-a5fc-7dd9-b922-752adfb4d56c",
+      "time": "2026-05-11 23:10:09",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "TRUMP SAYS WE WILL HIT IRAN THEY HAVE NOT SEEN BEFORE IF DEAL IS NOT REACHED"
+    },
+    {
+      "id": "4872829",
+      "time": "2026-05-11 23:09:55",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "佳能位於菲律賓的工廠將於6月下旬關閉。"
+    },
+    {
+      "id": "4872828",
+      "time": "2026-05-11 23:09:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：特朗普擬暫停聯邦汽油稅。"
+    },
+    {
+      "id": "te:economy:549703",
+      "time": "2026-05-11 23:08:50",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "El Salvador",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "El Salvador Inflation Rate at Highest Since 2023 — Consumer prices in El Salvador rose 2.2% year-over-year in April 2026, the highest reading since October 2023, accelerating from 1.47% in March. Prices increased at a faster pace for food and non-alcoholic beverages (3.0% vs 2.7%), housing and utilities (1.1% vs 0.7%), healthcare (2.6% vs 2.5%), and recreation and culture (1.1% vs 0.0%). Transport prices rebounded by 3.3% after a 0.9% decline in March, while deflation for clothing and footwear eased slightly (-0.05% vs -0.2%). In contrast, prices for communication services fell further (-0.7% vs -0.3%). On a monthly basis, consumer prices rose 0.7% in April, following a 0.4% increase in the previous month."
+    },
+    {
+      "id": "4872827",
+      "time": "2026-05-11 23:08:05",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國聯邦通訊委員會委員戈麥斯敦促迪士尼執行長，對美國廣播公司（ABC）的牌照審查發起抗辯申訴。"
+    },
+    {
+      "id": "4872826",
+      "time": "2026-05-11 23:07:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們擁有海量石油資源。"
+    },
+    {
+      "id": "4872825",
+      "time": "2026-05-11 23:07:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普稱伊朗強硬派領導人將妥協】福克斯新聞援引與美國總統特朗普的通話報道稱，特朗普表示，伊朗強硬派領導人將在談判中妥協。特朗普表示，他將與伊朗打交道，直到達成協議。特朗普還告訴福克斯新聞，如果美國重啟對穿越霍爾木茲海峽船隻的海上護航，這將是更大規模軍事行動的一部分。"
+    },
     {
       "id": "mkt:019e1793-f758-7dd9-b922-6888b038a2b9",
       "time": "2026-05-11 23:07:13",
@@ -121858,54 +121932,6 @@
         "國際"
       ],
       "text": "印度 2026 財年總稅收收入增長 4.03%，稅收淨收入增長 5.12%。"
-    },
-    {
-      "id": "4859884",
-      "time": "2026-05-04 23:10:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "【阿聯酋通報防空系統應對導彈威脅 】阿聯酋國家緊急危機與災害管理局4日釋出通報說，當前該國防空系統正在應對一起導彈威脅。（新華社）"
-    },
-    {
-      "id": "4859883",
-      "time": "2026-05-04 23:09:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "據以色列 i24 新聞記者：迪拜地區傳出爆炸聲，阿聯酋防空系統正攔截來襲導彈。"
-    },
-    {
-      "id": "4859882",
-      "time": "2026-05-04 23:09:51",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數轉跌。"
-    },
-    {
-      "id": "4859881",
-      "time": "2026-05-04 23:08:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國警方：在對上週倫敦一處紀念牆縱火事件的反恐調查中，逮捕了兩人。"
-    },
-    {
-      "id": "4859880",
-      "time": "2026-05-04 23:08:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "據伊朗塔斯尼姆通訊社訊息：有部分非官方、未經證實的報道稱，阿聯酋富查伊拉港或傑貝阿里港發生爆炸。"
-    },
-    {
-      "id": "4859879",
-      "time": "2026-05-04 23:07:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "【澤連斯基呼籲歐洲參與烏俄談判】烏克蘭總統澤連斯基4日表示，歐洲應以“可行的外交形式”參與烏克蘭與俄羅斯的和平談判，在對俄立場上發出一致聲音。澤連斯基當天在亞美尼亞首都埃裡溫舉行的第八屆歐洲政治共同體領導人會議上說，歐洲應以“可行的外交形式”參與任何相關談判。烏克蘭正與美國保持聯絡，也理解美方的觀點和立場，“但最好在對俄談判中發出一致的聲音”。澤連斯基還在會上對歐盟透過第20輪對俄製裁方案表示感謝。他說，今年夏季將是戰事的關鍵節點，歐洲應持續以制裁方式對俄施壓，促使俄羅斯選擇用外交方式解決問題。（新華社）"
     }
   ]
 }
