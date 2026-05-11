@@ -1,7 +1,44 @@
 {
-  "updated": "2026-05-11 08:09:34",
-  "count": 12835,
+  "updated": "2026-05-11 08:13:05",
+  "count": 12836,
   "items": [
+    {
+      "id": "4871081",
+      "time": "2026-05-11 08:12:38",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信證券：預計垃圾焚燒發電行業未來仍能保持高景氣度與業績穩健增長】中信證券研報稱，2025年垃圾焚燒發電行業收入降幅縮窄，業績走出週期底部，運營端&非運營端均呈現持續改善趨勢。我們測算行業自由現金流同比增長186%，絕對金額增長142億元。行業分紅訊號轉向積極，DPS與派息率均實現增長。隨著行業持續加碼併購&出海，預計未來仍能保持高景氣度與業績穩健增長。"
+    },
+    {
+      "id": "te:markets:549425",
+      "time": "2026-05-11 08:11:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Slips as Trump Rejects Iran Response — Silver prices fell below $80 an ounce on Monday, giving back part of last week’s gains after President Donald Trump rejected Iran’s response to his peace proposal as “TOTALLY UNACCEPTABLE,” sustaining concerns over inflationary pressures. Reports indicated that Tehran had offered to move part of its highly enriched uranium stockpile to a third country, while refusing to dismantle its nuclear facilities. Meanwhile, renewed attacks across the Middle East over the weekend threatened to undermine a fragile ceasefire that took effect in early April. The Strait of Hormuz also remains effectively closed as Washington and Tehran continue to struggle toward a diplomatic resolution to the conflict, keeping energy prices elevated and intensifying inflation concerns. That strengthened expectations that central banks may raise interest rates further to contain price pressures, a development that tends to weigh on precious metals."
+    },
+    {
+      "id": "4871080",
+      "time": "2026-05-11 08:11:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金富科技：包裝業務板塊2026年在手訂單預期實現良好增長】關於公司包裝業務板塊2026年預計經營情況，金富科技(003018)5月8日在路演活動中表示，2025年公司在建生產基地全部投產，有效擴大了公司產能。依託產能規模的穩步提升，公司著力加強客戶開發與市場拓展，2026年在手訂單預期實現良好增長。包裝業務板塊2026年堅持“促增長、提質量、拓市場、降成本”的核心思路，持續夯實發展根基，為公司發展提供穩定的營收和利潤。"
+    },
+    {
+      "id": "4871079",
+      "time": "2026-05-11 08:10:56",
+      "tags": [
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【中信證券：美聯儲下半年基準情形為降息1次25bps】中信證券研報稱，2026年4月美國新增非農就業人數高於預期，失業率4.3%符合預期。我們認為4月資料較前兩月更能反映當前美國就業市場狀態，其一是4月一次性因素減少；其二是4月企業回覆率較高；其三是Birth-death模型影響是近4份資料中最小的。需求端，4月美國就業市場呈現總量韌性、裁員壓力邊際增加的特徵。供給端，勞動力參與率和就業人口比下降，但25–54歲壯年參與率保持穩定，說明並非是核心勞動力大規模退出，而是老齡化和退休因素拖累總體參與率。美聯儲貨幣政策方面，我們延續此前觀點：沃什接任後，若伊朗局勢緩和、油價回落帶動通脹預期降溫，下半年基準情形為降息1次25bps。"
+    },
     {
       "id": "4871078",
       "time": "2026-05-11 08:08:56",
@@ -112766,30 +112803,6 @@
         "其他"
       ],
       "text": "哥倫比亞波帕揚展覽活動發生卡車衝入人群事件，造成至少2人死亡、37人受傷。"
-    },
-    {
-      "id": "4858715",
-      "time": "2026-05-04 08:10:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國海軍：有油輪遭不明射彈擊中，船員安全。"
-    },
-    {
-      "id": "4858714",
-      "time": "2026-05-04 08:10:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國海軍：收到阿聯酋富查伊拉以北78海里處發生事件的報告。"
-    },
-    {
-      "id": "4858713",
-      "time": "2026-05-04 08:09:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【一季度末股東戶數下降公司排行：16家公司降逾40%】根據統計，剔除2026年上市的次新股後，截至2026年一季度末，與2025年末相比，有16家A股上市公司股東戶數降幅超過40%，其中，富臨精工、譽帆科技降幅超過50%。富臨精工為創業板公司，公司主要業務為汽車發動機零部件、新能源汽車智慧電控和新能源鋰電正極材料的研發、生產和銷售。行業分佈方面，按申萬一級行業分類，這16家公司中，3家為機械裝置行業，3家為輕工製造行業，另外，汽車、商業貿易均有兩家。股價方面，今年以來，富臨精工漲68%，揚子新材漲50%。（證券時報）"
     }
   ]
 }
