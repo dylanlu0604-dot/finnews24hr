@@ -1,7 +1,42 @@
 {
-  "updated": "2026-05-12 04:07:57",
-  "count": 13917,
+  "updated": "2026-05-12 04:11:22",
+  "count": 13915,
   "items": [
+    {
+      "id": "mkt:019e18a9-936b-7dd9-b926-aa38834efd59",
+      "time": "2026-05-12 04:10:26",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XOM.O",
+        "MPC.O"
+      ],
+      "text": "U.S. ENERGY DEPT: NINE COMPANIES TAKING U.S. SPR OIL LOANS INCLUDING EXXONMOBIL, MARATHON AND PHILLIPS 66"
+    },
+    {
+      "id": "mkt:019e18a9-777a-7dd9-b926-a36253c89e62",
+      "time": "2026-05-12 04:10:19",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "US ENERGY DEPARTMENT: COMPANIES BORROW 53.33 MLN BARRELS OF CRUDE OIL FROM THE SPR, OUT OF 92.5 MLN BARRELS OFFERED"
+    },
+    {
+      "id": "te:markets:549736",
+      "time": "2026-05-12 04:09:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Simon Property earnings above expectations at 1.48 USD — Simon Property (SPG) released earnings per share at 1.48 USD, compared to market expectations of 1.43 USD."
+    },
     {
       "id": "mkt:019e18a3-612d-7dd9-b926-98298453c54b",
       "time": "2026-05-12 04:03:40",
@@ -123279,49 +123314,6 @@
         "國際"
       ],
       "text": "特朗普：民調顯示“有32%的民眾反對特朗普總統”。要是換個提問方式，比如問“伊朗擁有核武器是否可以接受？”，結果肯定就不是32%了。但即便你這麼問，照樣還會得出32%這種資料，因為這些民調完全是造假的。"
-    },
-    {
-      "id": "4860216",
-      "time": "2026-05-05 04:10:56",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國特勤局：美國特勤局人員已抵達華盛頓特區15街與獨立大道交口發生的涉警官槍擊事件現場。"
-    },
-    {
-      "id": "4860215",
-      "time": "2026-05-05 04:10:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國法庭檔案顯示，該和解方案不涉及過錯自認，將撤銷伊隆·馬斯克個人身份的被告資格，並會徹底了結本案。"
-    },
-    {
-      "id": "4860214",
-      "time": "2026-05-05 04:09:56",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國法院檔案顯示，美國證券交易委員會就針對埃隆·馬斯克的訴訟達成和解，該訴訟與馬斯克披露其初始所持推特股份一事相關。和解協議要求埃隆·馬斯克可撤銷信託支付150萬美元民事罰款。"
-    },
-    {
-      "id": "4860213",
-      "time": "2026-05-05 04:08:16",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【澤連斯基宣佈烏方6日零時起實施停火】當地時間5月4日，烏克蘭總統澤連斯基正式宣佈，烏克蘭將自6日零時起實施停火。澤連斯基指出，烏方將從指定時刻起，嚴格執行對等行動原則。"
-    },
-    {
-      "id": "4860212",
-      "time": "2026-05-05 04:07:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "土耳其能源部長表示，全球應做好準備，伊朗戰事或將引發一場持續時間更長的能源危機。"
     }
   ]
 }
