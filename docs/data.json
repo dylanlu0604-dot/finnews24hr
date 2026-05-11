@@ -1,7 +1,106 @@
 {
-  "updated": "2026-05-11 22:08:40",
-  "count": 13749,
+  "updated": "2026-05-11 22:12:02",
+  "count": 13756,
   "items": [
+    {
+      "id": "4872743",
+      "time": "2026-05-11 22:11:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "秘魯多名部長在新聞釋出會上討論秘魯國家石油公司的新一輪融資事宜。"
+    },
+    {
+      "id": "te:markets:549690",
+      "time": "2026-05-11 22:11:20",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Africa",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "South African Rand at Over 3-Week High — The South African rand edged up to around 16.3 per USD, the highest since April 17, amid a broadly stable dollar and rising prices of precious metal prices. Investors awaited further developments in the Middle East after President Trump rejected Iran’s response to peace proposals, with tensions still elevated. The Strait of Hormuz remains effectively disrupted, keeping oil prices elevated and fueling inflation concerns. Meanwhile, South Africa Reserve Bank's Governor Lesetja Kganyago said it is keeping its options open on interest rates as rising Middle East tensions and higher oil prices pose fresh inflation risks. He noted that although inflation has continued to trend lower overall, expectations are still not fully anchored at the central bank’s preferred 3% target. The South African Reserve Bank has kept its benchmark lending rate unchanged at 6.75% in its last two policy meetings, with the next decision scheduled for later this month."
+    },
+    {
+      "id": "4872741",
+      "time": "2026-05-11 22:10:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗國會發言人：核技術不在談判範圍內，鈾濃縮問題不可談判。"
+    },
+    {
+      "id": "4872740",
+      "time": "2026-05-11 22:10:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：烏克蘭襲擊俄羅斯別爾哥羅德州，造成1人死亡、3人受傷。"
+    },
+    {
+      "id": "4872739",
+      "time": "2026-05-11 22:09:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "陝西延安通報超限站員工收受車主9000元：涉事人員停職待查。"
+    },
+    {
+      "id": "te:economy:549689",
+      "time": "2026-05-11 22:09:32",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Existing Home Sales",
+        "Importance 3"
+      ],
+      "text": "US Existing Home Rebound Less than Expected — Existing home sales in the United States inched higher by 0.2% from the seven-month low in the previous month to an annualized rate of 4.02 million units in April of 2026. The result was slightly below expectations 4.05 million units sold, pressured by higher mortgage rates after the surge in energy prices drove long-term Treasury yields to increase. Sales fell sharply in the West (-2.6% to 750 thousand), offsetting an increase in the Midwest (2.2% to 950 thousand). Inventory grew by 5.8% to 1.47 million, equivalent to 4.4 months of supply. Still, the NAR saw the result as optimistic. “Despite mixed macroeconomic signals—including a record-high stock market and historically low consumer confidence—home sales were modestly boosted by the continued improvement in housing affordability,” said NAR Chief Economist Dr. Lawrence Yun. “Mortgage rates are lower from a year ago, and average income growth is outpacing home price gains.”"
+    },
+    {
+      "id": "4872738",
+      "time": "2026-05-11 22:09:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：佩斯科夫表示，莫斯科方面尚未收到歐洲對於施羅德出任俄歐談判代表人選的回應。克里姆林宮稱，普京提名這位德國前總理的表態，已在歐洲引發熱議。"
+    },
+    {
+      "id": "4872737",
+      "time": "2026-05-11 22:08:58",
+      "tags": [
+        "觀點",
+        "焦點"
+      ],
+      "text": "摩根大通：預計2026年油價平均為96美元/桶，第二、第三和第四季度分別為103、104和98美元/桶。"
+    },
+    {
+      "id": "4872736",
+      "time": "2026-05-11 22:08:48",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【辛巴威主權財富基金尋求2.5億美元以提升黃金產量】辛巴威國有主權財富基金 Mutapa Investment Fund Ltd. 需要 2.5 億美元來擴大其在全國的黃金開採業務。副首席投資官歐內斯特·丹赫爾表示，與當地貸款機構的談判已經開始。該基金擁有穆塔帕黃金資源有限公司。“我們目前正在著手進行一項7500萬美元的本地債務銀團貸款專案，這只是一個開始，”他表示，“3月份，我們實現了340公斤的創紀錄產量，我們預計從2028年起產量將達到570公斤。”去年，穆塔帕黃金產量為 3.6 噸；今年產量下滑至 3.3 噸，全部賣給了國營精煉廠Fidelity Gold Refinery。丹赫爾沒有透露參與此次融資計劃的實體名稱。穆塔帕黃金資源公司在全國擁有五處礦權，總面積約5.2萬公頃。"
+    },
+    {
+      "id": "4872735",
+      "time": "2026-05-11 22:08:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "YORK SPACE 股價迅速轉跌。"
+    },
+    {
+      "id": "mkt:019e175e-6344-777f-b702-f0732c381e05",
+      "time": "2026-05-11 22:08:40",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "IRAN FOREIGN MINISTRY SPOKESPERSON: IRAN IS NOT A BULLY — IT STANDS UP TO BULLIES"
+    },
     {
       "id": "4872734",
       "time": "2026-05-11 22:08:13",
@@ -121586,39 +121685,6 @@
         "其他"
       ],
       "text": "【隆基綠能董事長：五年內儲能業務規模追平光伏，不打儲能價格戰】“我們看到儲能賽道未來的增長機會，希望五年內把儲能業務發展到與光伏相近的體量和規模。”光伏一體化龍頭隆基綠能（601012.SH）董事長鍾寶申在4月30日舉行的業績說明會上詳解儲能規劃時表示，今年隆基的儲能出貨量預計為6GWh，明年的出貨目標尚未制定，但總體上會謀求較高增速。鍾寶申說，價格競爭不是隆基進入儲能賽道後的優先選擇，更多是透過服務和技術與客戶建立深度繫結，以確保毛利在預期目標內。 （澎湃）"
-    },
-    {
-      "id": "4859800",
-      "time": "2026-05-04 22:10:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國外交部：正在調查韓國船隻火災原因及損失詳情。將與相關國家保持密切溝通。"
-    },
-    {
-      "id": "4859799",
-      "time": "2026-05-04 22:10:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "捷藍航空：限時向精神航空自由精神會籍銀卡及金卡會員提供會籍匹配禮遇。"
-    },
-    {
-      "id": "4859798",
-      "time": "2026-05-04 22:09:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國外交部：霍爾木茲海峽該韓國籍船隻上共有24名船員。"
-    },
-    {
-      "id": "4859797",
-      "time": "2026-05-04 22:09:12",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "美光科技股價大漲8.6%，閃迪上漲7.3%，西部資料上漲3.5%，希捷科技上漲1.6%。"
     }
   ]
 }
