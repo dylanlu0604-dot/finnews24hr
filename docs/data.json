@@ -1,7 +1,60 @@
 {
-  "updated": "2026-05-11 23:17:46",
-  "count": 13795,
+  "updated": "2026-05-11 23:21:24",
+  "count": 13797,
   "items": [
+    {
+      "id": "4872846",
+      "time": "2026-05-11 23:20:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐佩克產量跌至20年來最低點，霍爾木茲海峽危機導致出口受阻】受伊朗衝突和霍爾木茲海峽中斷的影響，歐佩克4月份石油日產量下降83萬桶，至2004萬桶，創20多年來的最低水平。科威特在經歷了整整一個月的出口中斷後，產量降幅最大，沙烏地阿拉伯和伊拉克也減產。阿聯酋是海灣地區唯一增產的產油國，其出口路線繞過了霍爾木茲海峽。委內瑞拉和利比亞也增加了產量。"
+    },
+    {
+      "id": "4872845",
+      "time": "2026-05-11 23:19:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士稱，伊朗與美國談判的進展可能取決於特朗普訪華的結果。"
+    },
+    {
+      "id": "mkt:019e179f-d858-7dd9-b922-eaa166a31e12",
+      "time": "2026-05-11 23:19:56",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Iran-US Talks Progress Tied to Trump China Visit Outcome, Source Says】A regional source told CNN that US-Iran talks will not make significant progress before Trump meets Xi Jinping in Beijing, saying movement on negotiations will \"depend on the results of President Trump’s visit to Beijing.\" The source said Iranian Foreign Minister Abbas Araghchi is “very likely” to attend the BRICS Foreign Ministers’ meeting in Delhi on Thursday and Friday, overlapping with Trump’s visit. Araghchi’s attendance is “important,” as Saudi and Egyptian foreign ministers may also be present, though not confirmed, amid Pakistan-mediated US-Iran backchannel dialogue. The source added China will be an important player in ensuring dialogue continues."
+    },
+    {
+      "id": "mkt:019e179e-de9e-7dd9-b922-e006186f3b3a",
+      "time": "2026-05-11 23:19:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "PROGRESS IN IRAN-US TALKS MAY DEPEND ON OUTCOME OF TRUMP'S CHINA VISIT, SOURCE SAYS - CNN"
+    },
+    {
+      "id": "mkt:019e179d-a024-7dd9-b922-dd6aeda279ea",
+      "time": "2026-05-11 23:17:46",
+      "tags": [
+        "MKT News",
+        "MOS.O"
+      ],
+      "text": "MOSAIC REVIEWING RARE EARTH OPPORTUNITIES IN THE US"
+    },
+    {
+      "id": "4872844",
+      "time": "2026-05-11 23:17:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "特斯拉漲超0.8%，重新整理日高。"
+    },
     {
       "id": "4872843",
       "time": "2026-05-11 23:17:09",
@@ -122037,39 +122090,6 @@
         "市場"
       ],
       "text": "現貨黃金日內跌2%，現報4523.25美元/盎司。"
-    },
-    {
-      "id": "4859897",
-      "time": "2026-05-04 23:21:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數和納斯達克100指數迅速擴大跌幅。"
-    },
-    {
-      "id": "4859896",
-      "time": "2026-05-04 23:20:14",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "阿聯酋富查伊拉官方表示，一處石油工業場地遭伊朗無人機襲擊後突發火災。"
-    },
-    {
-      "id": "4859895",
-      "time": "2026-05-04 23:19:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "委內瑞拉反對派領導人馬查多：委內瑞拉有必要確定大選日期。"
-    },
-    {
-      "id": "4859894",
-      "time": "2026-05-04 23:18:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "【荷蘭將轉運涉疫郵輪上2名疑似漢坦病毒病例】日前出現漢坦病毒感染病例的郵輪運營方說，荷蘭政府將嘗試把目前仍在船上的2名疑似病例送回荷蘭接受治療。世界衛生組織官員4日表示，這一感染事件對公眾健康構成的風險較低，“無需恐慌”。涉事郵輪運營方“泛海探險”公司在一份落款為3日的最新宣告中證實，其運營的郵輪“洪迪厄斯”號上出現“嚴重醫療事件”，目前已造成3人死亡，其中2人在船上死亡，1人下船後死亡；另有1人正在南非約翰內斯堡接受重症監護，而仍在船上的2人“需要緊急救治”。宣告說，荷蘭政府已同意牽頭開展聯合行動，將“洪迪厄斯”號上2名出現症狀的人員從維德角送至荷蘭，同時計劃將死亡病例中的一名男性乘客遺體以及一名與死者關係密切、目前未出現症狀的乘客也送回荷蘭。（央視新聞）"
     }
   ]
 }
