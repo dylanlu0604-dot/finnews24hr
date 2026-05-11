@@ -1,7 +1,38 @@
 {
-  "updated": "2026-05-12 04:00:56",
-  "count": 13923,
+  "updated": "2026-05-12 04:04:26",
+  "count": 13925,
   "items": [
+    {
+      "id": "mkt:019e18a3-612d-7dd9-b926-98298453c54b",
+      "time": "2026-05-12 04:03:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "WTI"
+      ],
+      "text": "【S&P 500, Nasdaq Close at Records as Chip Stocks Extend Rally】US stocks edged higher Monday, with the S&P 500 and Nasdaq Composite closing at fresh record highs as semiconductor shares continued to rally. The S&P 500 rose 0.19%, the Nasdaq gained 0.1%, and the Dow Jones Industrial Average added 0.19%. Micron climbed to a record high, helping lift chip stocks. Oil prices also advanced as geopolitical tensions remained in focus after President Donald Trump rejected Iran’s revised proposal aimed at ending the conflict and lifting sanctions. Investors are now watching upcoming US inflation data for signs of higher energy prices feeding into broader inflation pressures."
+    },
+    {
+      "id": "4873143",
+      "time": "2026-05-12 04:03:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏克蘭總統辦公室前主任被控涉嫌腐敗】當地時間11日，烏克蘭國家反腐敗局和特別反腐敗檢察院表示，破獲一個涉嫌透過基輔近郊高階房地產開發專案洗白4.6億格里夫納資金的有組織犯罪團伙。該團伙的成員之一為烏克蘭總統辦公室前主任葉爾馬克，相關部門已提出指控。烏克蘭總統顧問利特溫對此發表評論稱，相關訴訟程式目前仍在繼續，現在就做出結論還為時過早。（央視新聞）"
+    },
+    {
+      "id": "4873142",
+      "time": "2026-05-12 04:01:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "ALPHABET股價收盤下跌3%，創3月以來最大跌幅。"
+    },
     {
       "id": "4873141",
       "time": "2026-05-12 04:00:45",
@@ -10,6 +41,14 @@
         "焦點"
       ],
       "text": "【美股收盤：三大股指集體收漲】道指漲0.19%，標普500指數漲0.19%，納指漲0.10%。Lumentum Holdings Inc. Common Stock When Issued漲16.53%，Coherent Corp漲13.25%，康寧漲11.01%，高通漲8.42%，VRT漲8.23%，CF實業漲8.19%。“七姐妹”方面：特斯拉漲3.89%，英偉達漲1.95%，蘋果跌0.14%，微軟跌0.62%，亞馬遜跌1.35%，Meta Platforms跌1.79%，谷歌跌2.60%。"
+    },
+    {
+      "id": "4873140",
+      "time": "2026-05-12 04:00:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國加州一海上石油平臺起火 2人受傷 】美國海岸警衛隊11日證實，位於加利福尼亞州聖巴巴拉縣附近海域的一座石油平臺當日發生大火，26名工作人員被緊急撤離。據當地媒體報道，兩人在火災中受傷。"
     },
     {
       "id": "mkt:019e18a0-5d3e-7dd9-b926-9532553282b0",
@@ -123363,23 +123402,6 @@
         "Importance 0"
       ],
       "text": "Vertex Pharmaceuticals earnings above expectations at 4.47 USD — Vertex Pharmaceuticals (VRTX) released earnings per share at 4.47 USD, compared to market expectations of 4.43 USD."
-    },
-    {
-      "id": "4860201",
-      "time": "2026-05-05 04:04:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "多鄰國股價上漲5%，此前公佈的第一季度每股收益和營收均超出預期。"
-    },
-    {
-      "id": "4860200",
-      "time": "2026-05-05 04:01:34",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "30年期美國國債收益率升破5%，結算價創去年5月23日以來最高水平。"
     }
   ]
 }
