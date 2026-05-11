@@ -1,7 +1,135 @@
 {
-  "updated": "2026-05-11 23:38:53",
-  "count": 13813,
+  "updated": "2026-05-11 23:42:29",
+  "count": 13822,
   "items": [
+    {
+      "id": "4872878",
+      "time": "2026-05-11 23:42:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗沒有清除核塵埃的裝置。"
+    },
+    {
+      "id": "4872877",
+      "time": "2026-05-11 23:41:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普計劃批准7-OH合法化。 \n注：7-OH，即7-羥基二甲基色胺，是一種天然致幻類精神活性物質。"
+    },
+    {
+      "id": "mkt:019e17b3-929c-7aaf-9291-8fac4b2329b8",
+      "time": "2026-05-11 23:41:44",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "TRUMP: IRAN DOESN'T HAVE EQUIPMENT TO TAKE OUT NUCLEAR DUST"
+    },
+    {
+      "id": "mkt:019e17b3-091d-7aaf-9291-838b8fb21cb4",
+      "time": "2026-05-11 23:41:09",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "TRUMP ON NUCLEAR DUST: IRAN SAID US OR CHINA ABLE TO TAKE OUT"
+    },
+    {
+      "id": "4872876",
+      "time": "2026-05-11 23:41:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：對伊朗的封鎖是軍事天才之舉。"
+    },
+    {
+      "id": "te:economy:549705",
+      "time": "2026-05-11 23:40:53",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Africa",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "South Africa 10-Year Bond Yield at Near 1-Week High — South Africa’s 10-year bond yield rose further to around 8.69%, a near one-week high, amid rising political uncertainty and ongoing geopolitical risks. President Cyril Ramaphosa is facing renewed pressure after the Constitutional Court ruled that Parliament acted unconstitutionally in blocking an impeachment inquiry into the 2022 Phala Phala scandal. The ruling has revived political tensions, raising concerns over the stability of the Government of National Unity (GNU) and adding pressure on the ANC ahead of November’s local government elections. Meanwhile, the standoff in US–Iran peace negotiations and ongoing energy supply disruptions are keeping oil prices elevated and stoking inflation concerns."
+    },
+    {
+      "id": "4872875",
+      "time": "2026-05-11 23:40:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "【澤連斯基與德國防長會晤 推進多項軍事及能源合作】當地時間11日，烏克蘭總統澤連斯基在基輔會見到訪的德國國防部長皮斯托裡烏斯，雙方重點就聯合武器生產、無人機合作等議題展開磋商並達成共識。澤連斯基稱，德國對烏克蘭軍事援助累計已達286億歐元，目前兩國正推進六項聯合武器生產專案，此舉標誌著雙方軍事技術合作實現重要起步。（央視新聞）"
+    },
+    {
+      "id": "4872873",
+      "time": "2026-05-11 23:39:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普稱伊朗提議“愚蠢”。"
+    },
+    {
+      "id": "4872872",
+      "time": "2026-05-11 23:39:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗：是在為全世界做好事。"
+    },
+    {
+      "id": "mkt:019e17b1-c4f1-7dd9-b923-a29be779295d",
+      "time": "2026-05-11 23:39:42",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "TRUMP CALLS IRAN PROPOSAL 'STUPID'"
+    },
+    {
+      "id": "4872871",
+      "time": "2026-05-11 23:39:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗：已有多名伊朗高層領導人遭擊殺。"
+    },
+    {
+      "id": "4872870",
+      "time": "2026-05-11 23:39:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗：不施加任何壓力，就能取得徹底勝利。"
+    },
+    {
+      "id": "mkt:019e17b1-41a6-7dd9-b923-9c4492359a7d",
+      "time": "2026-05-11 23:39:04",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "TRUMP ON IRAN: LEADERS HAVE BEEN KILLED"
+    },
+    {
+      "id": "4872869",
+      "time": "2026-05-11 23:39:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國在伊朗拒絕和平提議 於直布羅陀展示核潛艇存在】就在美國總統特朗普拒絕伊朗最新提出的停火方案，稱其“完全不可接受”後，五角大樓證實，一艘美國海軍俄亥俄級核潛艇已停靠直布羅陀港，這是罕見地公開披露“轟炸機”級潛艇的部署。美國海軍表示，此次訪問凸顯了美國的核能力和北約的承諾，並指出該潛艇是核三位一體中最具生存能力的打擊力量之一。該潛艇的具體型號尚未公佈。"
+    },
     {
       "id": "mkt:019e17b0-cead-7dd9-b923-925e2f6cae9f",
       "time": "2026-05-11 23:38:40",
@@ -122229,46 +122357,6 @@
         "市場"
       ],
       "text": "葡萄牙汽車協會（ACAP）資料：4 月特斯拉新車註冊量同比下滑 32.8%，1 至 4 月累計同比上漲 19.7%。"
-    },
-    {
-      "id": "4859929",
-      "time": "2026-05-04 23:42:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "警方證實：德國東部城市萊比錫汽車衝撞事件已造成兩人死亡。"
-    },
-    {
-      "id": "4859928",
-      "time": "2026-05-04 23:42:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "明晟公司MSCI北歐國家指數跌0.5%，報380.30點。在十個板塊中，北歐工業板塊跌幅最大。DSV A/S跌7.6%，在一眾北歐個股裡表現最差。"
-    },
-    {
-      "id": "4859927",
-      "time": "2026-05-04 23:40:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "聯邦快遞（FDX）跌幅擴大至9.4%，聯合包裹服務（UPS）跌10%。"
-    },
-    {
-      "id": "4859926",
-      "time": "2026-05-04 23:39:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "【礦業商會：保守估計，2026年阿根廷礦業出口將增長49%】阿根廷礦業商會主席Roberto Cacciola表示，預計2026年阿根廷的礦業出口將大幅增長49%，達到90億美元。這一預測是保守的，如果當前價格持續下去，該國礦業出口的價值可能會更高。2025年，阿根廷礦業出口額為60.56億美元，較上年增長30%。"
-    },
-    {
-      "id": "4859925",
-      "time": "2026-05-04 23:39:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯： 紐約梅隆銀行正大力佈局人工智慧領域。 人工智慧是無需大幅增加開支、即可提升效能的工具。"
     }
   ]
 }
