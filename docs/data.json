@@ -1,7 +1,35 @@
 {
-  "updated": "2026-05-12 04:47:53",
-  "count": 13880,
+  "updated": "2026-05-12 04:51:15",
+  "count": 13883,
   "items": [
+    {
+      "id": "4873177",
+      "time": "2026-05-12 04:49:02",
+      "tags": [
+        "公司",
+        "央行",
+        "國際"
+      ],
+      "text": "【英國金融科技公司 Wise 在美雙重上市，完成交易首秀】Wise Group Plc.已經在納斯達克掛牌交易（程式碼為WSE），5月11日收跌3.5%，報15.40美元，旨在利用美國更龐大的股票市場及其龐大的投資者群體。Wise執行長Kristo Kaarmann表示，雙重上市旨在增加流動性並延長交易時間。Wise正尋求透過其Wise Platform業務在美國擴張，並已申請組建美國國家信託銀行，以連線美聯儲的支付系統。"
+    },
+    {
+      "id": "4873176",
+      "time": "2026-05-12 04:48:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "ITV報道稱，英國副首相拉米敦促斯塔默給出辭職時間表。"
+    },
+    {
+      "id": "mkt:019e18cc-899d-7dd9-b926-e09620a14540",
+      "time": "2026-05-12 04:48:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "UK DEPUTY PM LAMMY URGING STARMER TO SET OUT A TIMETABLE TO QUIT, ITV REPORTS"
+    },
     {
       "id": "4873173",
       "time": "2026-05-12 04:46:03",
