@@ -1,7 +1,31 @@
 {
-  "updated": "2026-05-12 00:25:55",
-  "count": 13904,
+  "updated": "2026-05-12 00:29:18",
+  "count": 13901,
   "items": [
+    {
+      "id": "4872945",
+      "time": "2026-05-12 00:28:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗：被凍結資金應在規定期限內予以解凍撥付。"
+    },
+    {
+      "id": "4872944",
+      "time": "2026-05-12 00:27:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：伊朗設定了接收被凍結資金的時間期限。"
+    },
+    {
+      "id": "4872943",
+      "time": "2026-05-12 00:25:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "奈飛現跌超1%。"
+    },
     {
       "id": "4872942",
       "time": "2026-05-12 00:25:08",
@@ -123110,63 +123134,6 @@
         "Importance 2"
       ],
       "text": "US Stocks Retreat Further — US equities fell further from records on Monday as escalation to the conflict with Iran risked higher energy prices for longer. The S&P 500 and the Nasdaq 100 dropped 0.5% from their peaks, while the Dow lost 400 points. The UAE was under missile threat for the first time since the US imposed a ceasefire, while both the US and Iran denied each other's claims of attacks on the US navy and US commercial vessels making it out of the Persian Gulf. Inflation concerns deepened as energy prices rose further, adding to the likelihood of a restrictive Federal Reserve following the multiple hawkish dissents last week. AI infrastructure companies, which are more sensitive to swings in risk sentiment due to the speculative bets on AI, were firmly lower with Nvidia, Broadcom, AMD, Qualcomm, and Intel sliding between 1.5% and 6%. In turn, Berkshire Hathaway dropped despite higher revenues in its first quarter without Warren Buffet. Palantir gained 1% ahead of its earnings after the bell."
-    },
-    {
-      "id": "4859970",
-      "time": "2026-05-05 00:27:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "【巴西一小型飛機撞上居民樓至少一人死亡】據巴西米納斯吉拉斯州消防部門確認，一架小型單引擎飛機當地時間4日中午左右在州首府貝洛奧裡藏特市突然失去控制，撞上一棟居民樓，機上一名乘客當場死亡。消防部門初步訊息顯示，飛機上共有4名乘客，其中一人死亡，三人重傷。（新華社）"
-    },
-    {
-      "id": "4859969",
-      "time": "2026-05-05 00:27:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿聯酋國家緊急危機與災害管理局（NCEMA）釋出第五起導彈威脅相關預警。"
-    },
-    {
-      "id": "4859968",
-      "time": "2026-05-05 00:26:49",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美軍中央司令部司令布拉德·庫珀：已協助兩艘懸掛美國國旗的船隻透過了霍爾木茲海峽。"
-    },
-    {
-      "id": "te:547544",
-      "time": "2026-05-05 00:26:46",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "DAX Finishes Lower — Frankfurt's DAX 40 closed about 1.2% lower at 24,036 on Monday, as traders weighed escalating Middle East hostilities and conflicting US and Iranian statements regarding the status of the Strait of Hormuz. Iran claimed it had struck missiles at US military vessels and launched drones against the UAE, while the US said it had successfully escorted commercial ships out of the Persian Gulf under its maritime operation. Among key movers, Deutsche Post plunged 7.1%, after Amazon announced it will open its logistics network to third-party companies via “Amazon Supply Chain Services.” Continental slipped 5.1%, BASF fell 3.9% and RWE was down 3.5%, as they traded ex-dividend. Automotive stocks such as Mercedes-Benz (-3.6%), Volkswagen (-2.6%) and BMW (-2.6%) came under pressure after US President Trump announced plans to raise import duties on cars from the EU to 25%, up from 15%. On the upside, Rheinmetall rose 2.4% to lead the index after a buy recommendation from Spanish bank Santander."
-    },
-    {
-      "id": "te:markets:547544",
-      "time": "2026-05-05 00:26:46",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "DAX Finishes Lower — Frankfurt's DAX 40 closed about 1.2% lower at 24,036 on Monday, as traders weighed escalating Middle East hostilities and conflicting US and Iranian statements regarding the status of the Strait of Hormuz. Iran claimed it had struck missiles at US military vessels and launched drones against the UAE, while the US said it had successfully escorted commercial ships out of the Persian Gulf under its maritime operation. Among key movers, Deutsche Post plunged 7.1%, after Amazon announced it will open its logistics network to third-party companies via “Amazon Supply Chain Services.” Continental slipped 5.1%, BASF fell 3.9% and RWE was down 3.5%, as they traded ex-dividend. Automotive stocks such as Mercedes-Benz (-3.6%), Volkswagen (-2.6%) and BMW (-2.6%) came under pressure after US President Trump announced plans to raise import duties on cars from the EU to 25%, up from 15%. On the upside, Rheinmetall rose 2.4% to lead the index after a buy recommendation from Spanish bank Santander."
-    },
-    {
-      "id": "4859967",
-      "time": "2026-05-05 00:26:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "義大利經濟部長表示，義大利呼籲歐盟對能源行業徵收暴利稅。"
     }
   ]
 }
