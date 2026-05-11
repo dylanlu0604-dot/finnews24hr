@@ -1,7 +1,23 @@
 {
-  "updated": "2026-05-12 00:29:18",
+  "updated": "2026-05-12 00:32:40",
   "count": 13901,
   "items": [
+    {
+      "id": "4872946",
+      "time": "2026-05-12 00:30:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗最高領袖顧問：特朗普似乎聽信了五角大樓的謊言，刻意掩蓋美軍大量人員傷亡的真實人數。"
+    },
+    {
+      "id": "mkt:019e17df-5917-7dd9-b924-b85765857b55",
+      "time": "2026-05-12 00:29:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A SOURCE CLOSE TO THE NEGOTIATION TEAM: IRAN HAS SET A SPECIFIC PERIOD IN ITS PROPOSED PLAN TO RECEIVE ITS BLOCKED FUNDS"
+    },
     {
       "id": "4872945",
       "time": "2026-05-12 00:28:43",
@@ -123110,30 +123126,6 @@
         "國際"
       ],
       "text": "美軍中央司令部司令布拉德·庫珀：伊朗相關作戰能力並未消失，但已大幅削弱。"
-    },
-    {
-      "id": "te:547547",
-      "time": "2026-05-05 00:30:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stocks Retreat Further — US equities fell further from records on Monday as escalation to the conflict with Iran risked higher energy prices for longer. The S&P 500 and the Nasdaq 100 dropped 0.5% from their peaks, while the Dow lost 400 points. The UAE was under missile threat for the first time since the US imposed a ceasefire, while both the US and Iran denied each other's claims of attacks on the US navy and US commercial vessels making it out of the Persian Gulf. Inflation concerns deepened as energy prices rose further, adding to the likelihood of a restrictive Federal Reserve following the multiple hawkish dissents last week. AI infrastructure companies, which are more sensitive to swings in risk sentiment due to the speculative bets on AI, were firmly lower with Nvidia, Broadcom, AMD, Qualcomm, and Intel sliding between 1.5% and 6%. In turn, Berkshire Hathaway dropped despite higher revenues in its first quarter without Warren Buffet. Palantir gained 1% ahead of its earnings after the bell."
-    },
-    {
-      "id": "te:markets:547547",
-      "time": "2026-05-05 00:30:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stocks Retreat Further — US equities fell further from records on Monday as escalation to the conflict with Iran risked higher energy prices for longer. The S&P 500 and the Nasdaq 100 dropped 0.5% from their peaks, while the Dow lost 400 points. The UAE was under missile threat for the first time since the US imposed a ceasefire, while both the US and Iran denied each other's claims of attacks on the US navy and US commercial vessels making it out of the Persian Gulf. Inflation concerns deepened as energy prices rose further, adding to the likelihood of a restrictive Federal Reserve following the multiple hawkish dissents last week. AI infrastructure companies, which are more sensitive to swings in risk sentiment due to the speculative bets on AI, were firmly lower with Nvidia, Broadcom, AMD, Qualcomm, and Intel sliding between 1.5% and 6%. In turn, Berkshire Hathaway dropped despite higher revenues in its first quarter without Warren Buffet. Palantir gained 1% ahead of its earnings after the bell."
     }
   ]
 }
