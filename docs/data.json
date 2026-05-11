@@ -1,7 +1,73 @@
 {
-  "updated": "2026-05-12 02:27:02",
-  "count": 13954,
+  "updated": "2026-05-12 02:30:29",
+  "count": 13957,
   "items": [
+    {
+      "id": "te:markets:549730",
+      "time": "2026-05-12 02:30:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Ether Drops by 1.17% — Today's cryptos market is characterized by modest daily movements, with Ether standing out as the frontrunner with a -1.17% decrease."
+    },
+    {
+      "id": "4873060",
+      "time": "2026-05-12 02:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收漲0.11%，報633.30元人民幣/桶。滬金夜盤收漲0.45%，滬銀收漲6.41%。"
+    },
+    {
+      "id": "4873059",
+      "time": "2026-05-12 02:29:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "福特：福特能源設定年度裝機部署目標為20吉瓦時，首批客戶交付計劃於2027年末進行。"
+    },
+    {
+      "id": "mkt:019e184c-ac9c-7dd9-b926-0c3bfdb2fb69",
+      "time": "2026-05-12 02:28:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "SOUTH AFRICA'S PRESIDENT RAMAPHOSA SAYS FULLY INTEND TO CONTINUE SERVING THE PEOPLE OF SOUTH AFRICA"
+    },
+    {
+      "id": "mkt:019e184c-780c-7dd9-b926-00267cd86670",
+      "time": "2026-05-12 02:28:44",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Crypto Concepts",
+        "Bitcoin",
+        "Impact bullish",
+        "Ethereum"
+      ],
+      "text": "PAYWARD, THE PARENT COMPANY OF KRAKEN, IS RAISING FRESH FUNDING AT A $20 BILLION VALUATION - COINDESK"
+    },
+    {
+      "id": "4873058",
+      "time": "2026-05-12 02:28:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "加密貨幣交易所Kraken的母公司Payward正以200億美元估值進行新一輪融資。"
+    },
+    {
+      "id": "4873057",
+      "time": "2026-05-12 02:27:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "南非總統拉馬福薩：我決心履行並完成賦予我的使命。"
+    },
     {
       "id": "mkt:019e1849-ad3f-7dd9-b925-fbb9e7235736",
       "time": "2026-05-12 02:25:38",
@@ -123570,44 +123636,6 @@
         "市場"
       ],
       "text": "WTI 6月原油期貨收報106.42美元/桶。NYMEX 6月天然氣期貨收報2.8670美元/百萬英熱單位。NYMEX 6月汽油期貨收報3.7382美元/加侖，NYMEX 6月取暖油期貨收報4.0732美元/加侖。"
-    },
-    {
-      "id": "te:547566",
-      "time": "2026-05-05 02:30:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: Bitcoin Appreciates by 2.17% — Top crypto gainers are Bitcoin (2.17%), Ether (1.75%) and Binance (1.39%)."
-    },
-    {
-      "id": "te:markets:547566",
-      "time": "2026-05-05 02:30:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: Bitcoin Appreciates by 2.17% — Top crypto gainers are Bitcoin (2.17%), Ether (1.75%) and Binance (1.39%)."
-    },
-    {
-      "id": "4860064",
-      "time": "2026-05-05 02:27:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以官員稱以方已做好重返戰鬥準備 正待美“開綠燈”】當地時間5月4日，一名以色列官員表示，以方已做好隨時重返戰鬥的準備，目前正等待美國方面“開綠燈”。該官員未明確說明“重返戰鬥”對應的具體戰線。（央視新聞）"
-    },
-    {
-      "id": "4860063",
-      "time": "2026-05-05 02:27:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "【布羅克曼稱其所持OpenAI的股份價值接近300億美元】OpenAI聯合創始人兼總裁格雷格·布羅克曼表示，他在OpenAI的持股目前價值接近300億美元，使其成為持股規模較大的個人股東之一。布羅克曼週一在OpenAI與馬斯克之間的一場備受關注的法律糾紛中首次出庭作證時確認了這一金額。在庭審詢問中，布羅克曼確認其所持公司股份價值超過200億美元，並在被問及是否“更接近300億美元”時回答“是”。他還表示，自己並未向該初創公司投入任何個人資金。馬斯克指控布羅克曼及OpenAI執行長山姆·阿爾特曼背離了OpenAI最初的非營利定位，將該專案用於謀取個人利益。馬斯克正尋求包括將阿爾特曼和布羅克曼從領導職位上撤換在內的多項救濟措施。"
     }
   ]
 }
