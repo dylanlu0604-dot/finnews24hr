@@ -1,7 +1,46 @@
 {
-  "updated": "2026-05-12 02:40:49",
-  "count": 13967,
+  "updated": "2026-05-12 02:44:15",
+  "count": 13970,
   "items": [
+    {
+      "id": "mkt:019e1859-e56d-7dd9-b926-244a3ab1c8fb",
+      "time": "2026-05-12 02:43:25",
+      "tags": [
+        "MKT News",
+        "COIN.O",
+        "Impact bullish",
+        "Bitcoin",
+        "Impact mixed",
+        "Ethereum"
+      ],
+      "text": "COINBASE CEO BRIAN ARMSTRONG IS SCHEDULED TO SPEAK AT THE SENATE GOP STEERING LUNCH ON WEDNESDAY AHEAD OF CLARITY ACT MARK-UP THURSDAY"
+    },
+    {
+      "id": "4873074",
+      "time": "2026-05-12 02:42:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "Coinbase執行長布萊恩・阿姆斯特朗定於週三出席參議院共和黨核心小組午餐會並發表講話，為週四《加密法案》審議修訂議程造勢。"
+    },
+    {
+      "id": "4873073",
+      "time": "2026-05-12 02:41:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【剛果（金）東部遭多起武裝襲擊 至少50名平民死亡】剛果（金）地方媒體11日報道，烏干達反政府武裝“民主同盟軍”近日襲擊剛果（金）東部多地，造成至少50名平民死亡。（新華社）"
+    },
+    {
+      "id": "mkt:019e1857-87f0-7dd9-b926-1e0edbe2ee57",
+      "time": "2026-05-12 02:40:50",
+      "tags": [
+        "MKT News",
+        "DINO.O",
+        "Impact bearish"
+      ],
+      "text": "MASSIVE FIRE AND HEAVY SMOKE REPORTED AT HF SINCLAIR REFINERY IN OKLAHOMA- LOCAL MEDIA"
+    },
     {
       "id": "4873072",
       "time": "2026-05-12 02:40:22",
@@ -123720,15 +123759,6 @@
         "國際"
       ],
       "text": "【澤連斯基稱烏方尚未收到關於5月9日停火的相關提議】當地時間5月4日，烏克蘭總統澤連斯基在埃裡溫舉行的歐洲政治共同體峰會期間接受採訪時表示，烏方尚未收到任何關於5月9日停火的正式聯絡及相關提議。澤連斯基指出，美國與俄羅斯已就5月9日可能實施的停火事宜展開溝通，但相關溝通完全未涉及烏方。他強調，當前衝突發生在俄羅斯與烏克蘭之間，因此烏方有權瞭解美俄溝通所達成的相關協議。（央視新聞）"
-    },
-    {
-      "id": "4860069",
-      "time": "2026-05-05 02:42:21",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美國檢察官提交申請，要求撤銷其對美聯儲主席鮑威爾的調查。"
     }
   ]
 }
