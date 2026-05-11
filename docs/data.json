@@ -1,7 +1,27 @@
 {
-  "updated": "2026-05-11 19:32:58",
-  "count": 13494,
+  "updated": "2026-05-11 19:36:22",
+  "count": 13493,
   "items": [
+    {
+      "id": "mkt:019e16d2-6b63-7dd9-b91e-fa6a05d081c5",
+      "time": "2026-05-11 19:35:49",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "CHINA C.BANK: TO REFORM AND IMPROVE THE LPR MECHANISM, FOCUSING ON IMPROVING QUOTE QUALITY TO BETTER REFLECT ACTUAL LENDING MARKET RATES"
+    },
+    {
+      "id": "4872340",
+      "time": "2026-05-11 19:33:49",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【央行：近年來我國國際收支變動特徵體現了國內經濟高質量發展和對外開放擴大取得積極成效，未來國際收支有條件保持基本平衡】央行釋出2026年第一季度中國貨幣政策執行報告，其中提到，近年來我國國際收支保持基本平衡，經常賬戶順差和非儲備性質金融賬戶逆差同步增加，反映與世界經濟聯絡更加緊密，以更加開放姿態融入全球。我國積累的經常賬戶順差透過企業、銀行等對外投資，配置到全球不同區域和產業，境內主體國際化經營和多元化資產配置增加，同時也支援了貿易和投資夥伴產業發展與金融穩定，實現互利共贏。總的來看，近年來我國國際收支變動特徵體現了國內經濟高質量發展和對外開放擴大取得積極成效，未來國際收支有條件保持基本平衡。一是我國外貿穩出口、擴進口將協同推進。我國對外貿易競爭力強、貿易結構最佳化，外貿新業態蓬勃發展，有助於出口保持韌性。我國已成為全球第二大消費市場，未來將繼續發揮超大規模市場優勢，進口更多國際優質商品，推動擴進口和穩出口更好結合，促進貿易最佳化平衡發展。二是境內企業將繼續開展全球多元化佈局，推動合作領域、模式、業態創新，開展多元化資產配置，對外投資將平穩、有序發展。三是我國因地制宜發展新質生產力，不斷擴大高水平對外開放，積極拓展區域經貿合作，將持續吸引外資投資中國和配置人民幣資產。"
+    },
     {
       "id": "te:markets:549646",
       "time": "2026-05-11 19:31:57",
@@ -12,6 +32,15 @@
         "Importance 1"
       ],
       "text": "Sulfur Hits New Peak — Sulfur futures surged to a record high of CNY 7,050 per tonne as the Middle East conflict disrupted a key link in the global fertilizer supply chain. Almost half of global sulfur production comes from the region, and the near closure of the Strait of Hormuz has sharply reduced shipments, tightening availability. Sulfur is a critical input for sulfuric acid, which is widely used in phosphate fertilizers for crops such as corn and soybeans. Supply conditions were already strained before the conflict due to strong industrial demand, particularly from the mining sector, where sulfuric acid is used in metal extraction, as well as export restrictions from major producers including China and Russia. With fertilizer producers now competing with industrial users for limited supply, some output has already been cut and inventories are under pressure, increasing the risk of further disruptions across agricultural and industrial markets."
+    },
+    {
+      "id": "4872339",
+      "time": "2026-05-11 19:31:30",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "【央行：對一些不合理的、容易削減貨幣政策傳導的市場行為加強規範】央行釋出2026年第一季度中國貨幣政策執行報告。報告顯示，下一階段，深入推進利率市場化改革，暢通貨幣政策傳導渠道。健全市場化利率形成、調控和傳導機制，發揮中央銀行政策利率引導作用，引導隔夜利率在政策利率水平附近執行，促進社會融資成本低位執行。強化利率政策執行和監督，適時開展對金融機構利率政策執行情況的執法檢查和定價能力的現場評估，促進金融機構提升利率定價能力。更好發揮市場利率定價自律機制作用，有效落實各項利率自律倡議，對一些不合理的、容易削減貨幣政策傳導的市場行為加強規範，維護市場競爭秩序。改革完善貸款市場47報價利率（LPR），著重提高LPR報價質量，更真實反映貸款市場利率水平。"
     },
     {
       "id": "4872338",
@@ -119100,39 +119129,6 @@
         "國際"
       ],
       "text": "美國運通預計從運通全球商務旅行業務（AMEX GBT）交易中獲得約 15 億美元收益。"
-    },
-    {
-      "id": "4859546",
-      "time": "2026-05-04 19:34:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "芝加哥商品交易所集團（CME Group）4 月日均成交量2590 萬手。"
-    },
-    {
-      "id": "4859545",
-      "time": "2026-05-04 19:33:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息： 華僑銀行擬收購滙豐銀行印尼零售及財富管理資產。"
-    },
-    {
-      "id": "4859544",
-      "time": "2026-05-04 19:33:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "德國外長：已與伊朗外長通話，嚴正敦促伊朗方面必須做好談判準備。"
-    },
-    {
-      "id": "4859543",
-      "time": "2026-05-04 19:33:04",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【阿聯酋稱油輪過霍爾木茲遭伊朗襲擊】阿聯酋外交部今天（5月4日）發表宣告，稱一艘隸屬於阿布扎比國家石油公司的油輪在透過霍爾木茲海峽時“遭到伊朗襲擊”，並對此予以“強烈譴責”。宣告稱，該油輪在穿越海峽時遭到2架無人機襲擊，不過未有人員傷亡報告。 阿聯酋強調，伊朗必須停止襲擊，全面終止一切敵對行為，並完全且無條件地重新開放霍爾木茲海峽，從而實現地區安全以及全球經濟與貿易穩定。（CCTV國際時訊）"
     }
   ]
 }
