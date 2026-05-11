@@ -1,7 +1,169 @@
 {
-  "updated": "2026-05-11 15:29:22",
-  "count": 13255,
+  "updated": "2026-05-11 15:32:45",
+  "count": 13271,
   "items": [
+    {
+      "id": "4871766",
+      "time": "2026-05-11 15:32:22",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "高盛表示，外國證券投資機構流出印度股市的資金即將耗盡，但買盤仍將受到限制。"
+    },
+    {
+      "id": "te:markets:549588",
+      "time": "2026-05-11 15:32:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Opens 0.19% Higher — The FTSE 100 Index is gaining 20 points or 0.19 percent on Monday. Leading the gains are Compass (3.80%), International Airlines Group (3.43%) and Airtel Africa (3.16%). Top losers are JD Sports Fashion (-2.38%), 3i (-2.12%) and Persimmon (-1.98%)."
+    },
+    {
+      "id": "4871765",
+      "time": "2026-05-11 15:32:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【騰訊跟投階躍25億美金融資，雙方已達成戰略合作】老股東騰訊已跟投階躍星辰新一輪融資。上週有訊息人士對記者稱，階躍即將完成25億美金融資，並已拆除紅籌架構，加速赴港IPO準備。據瞭解，早在階躍B輪融資，騰訊就已進入其股東名單，並連續跟投。不久前，雙方合作關係進一步深化。騰訊雲與階躍簽署戰略合作，雙方將整合階躍基礎大模型和騰訊系內容及應用生態共同發力AI座艙Agent，連線騰訊系音樂、影片、地圖、支付、出行服務等板塊，實現車內服務閉環。"
+    },
+    {
+      "id": "te:economy:549587",
+      "time": "2026-05-11 15:31:52",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Moldova",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Moldova Inflation Rate Hits 4-Month High — The annual inflation rate in Moldova rose to 6.8% in April 2026 from 5.8% in the previous month, marking the highest level since December 2025. Prices of non-food products accelerated (7.1% vs 4.8% in March), driven by strong increases in fuels and motor fuels, footwear, construction materials, and medicines. At the same time, price growth in services edged up (6.9% vs 6.6%), supported by increases in passenger transport, regulated tariffs for electricity supply, drinking water supply and sewage services, and public catering. Meanwhile, inflation for food products remained unchanged at 6.3%, despite notable increases in eggs, vegetables, fruits, milk and dairy products, meat, meat preparations and canned goods, and vegetable oil. On a monthly basis, consumer prices advanced 1.8% in April, the highest reading in fifteen months, following a 1.3% increase in the prior month."
+    },
+    {
+      "id": "4871764",
+      "time": "2026-05-11 15:31:35",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【博威合金：目前板帶產能利用率接近滿產 美國2GW電池片專案最快年底交割】博威合金董事長、總裁謝識才在今天舉行的2025年度業績說明會上表示，目前公司板帶產能利用率接近滿產，根據市場需求公司正在規劃超薄帶的專案。傳統引線框架材料公司在調整產能，重點向Socket基座專用的連線材料發展，公司提供的樣品已經得到下游大客戶的認可。美國2GW電池片專案預計今年年底完工，交割要待專案建成後進行。"
+    },
+    {
+      "id": "te:economy:549585",
+      "time": "2026-05-11 15:31:33",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Germany",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Bund Yield Rises Amid Inflation Concerns — Germany’s 10-year Bund yield increased to 3.02% as oil prices climbed due to heightened tensions between the US and Iran, amplifying inflation concerns and strengthening expectations of further ECB rate hikes. Brent crude exceeded $105 per barrel after President Trump rejected Iran’s latest peace proposal as “totally unacceptable.” The future of the Strait of Hormuz remains unclear, following reports that Iran had proposed diluting some enriched uranium and transferring the rest to a third country, though Iran disputed this claim. Money markets are now factoring in at least two ECB rate increases this year, with a probability of over 78% for the first hike in June. ECB President Christine Lagarde emphasized on Friday that the central bank is prepared to act decisively if needed, adding that the euro area’s economic position is stronger now than it was before Russia’s invasion of Ukraine."
+    },
+    {
+      "id": "te:markets:549583",
+      "time": "2026-05-11 15:31:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Opens 0.43% Lower — The DAX Index is losing 105 points. Losses were led by Gea Group (-4.43%), Rheinmetall (-2.95%) and Hannover Rueck (-2.25%). Offsetting the fall, top gainers were HeidelbergCement (1.41%), BASF (1.30%) and SAP (1.07%)."
+    },
+    {
+      "id": "4871763",
+      "time": "2026-05-11 15:30:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【卡耶塔諾出任菲律賓新任參議長】5月11日，菲律賓參議長髮生變更，由艾倫·彼得·卡耶塔諾出任新任參議長。（央視新聞）"
+    },
+    {
+      "id": "te:economy:549582",
+      "time": "2026-05-11 15:30:52",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Czech Republic",
+        "Retail Sales YoY",
+        "Importance 1"
+      ],
+      "text": "Czech Retail Sales Rise 4.9% in March — Retail sales in the Czech Republic rose by 4.9% year-on-year in March 2026, exceeding market expectations of a 3.4% gain and accelerating from an upwardly revised 3.7% increase in the previous month. Sales increased for all categories, including food, beverages and tobacco (4.8% vs 0.9% in February), non-food products (5.5% vs 6%), and automotive fuel (2.6% vs 3.5%). Among the non-food sector, turnover particularly rose in specialized stores selling cosmetics and toiletries (7.5% vs 7.2%), pharmaceutical and medical goods (6.8% vs 4.7%), and non-specialized stores selling mainly non-food goods (6.6% vs 6.2%). Sales in online and mail order stores also increased by 13.4% (vs 16.1%). On a seasonally adjusted monthly basis, retail activity grew by 1.2% in March, marking the sharpest increase since last April and rebounding from a revised 0.2% gain in the preceding period."
+    },
+    {
+      "id": "4871762",
+      "time": "2026-05-11 15:30:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【商絡電子：暫未獲海力士等儲存廠商代理權】商絡電子5月11日在互動平臺表示，公司暫未取得海力士、西部資料、閃迪等儲存廠商代理權；公司已獲得鎧俠儲存代理權，並與國內主流儲存廠商建立了長期穩定的授權分銷關係。"
+    },
+    {
+      "id": "4871761",
+      "time": "2026-05-11 15:30:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "菲律賓參議院投票選舉艾倫・卡耶塔諾當選參議院議長。"
+    },
+    {
+      "id": "te:markets:549581",
+      "time": "2026-05-11 15:30:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Opens 0.64% Lower — The CAC 40 Index is falling 52 points. Losses were driven by AXA (-4.90%), Veolia (-4.38%) and Renault (-2.52%). Biggest rises came from STMicroelectronics (3.07%), ENGIE (1.26%) and TotalEnergies SE (1.12%)."
+    },
+    {
+      "id": "4871760",
+      "time": "2026-05-11 15:29:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士稱，韓國SK能源將蔚山原油裝置的維護提前至5月中旬，該裝置將停運約一個月。"
+    },
+    {
+      "id": "4871759",
+      "time": "2026-05-11 15:29:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外交部：中方願同俄方推動構建更加公正合理的全球治理體系】就俄羅斯總統普京表示俄中戰略協作已成為遏制衝突、維護全球戰略穩定的關鍵支柱，外交部發言人郭嘉昆11日在例行記者會上答問時表示，中俄是新時代全面戰略協作夥伴。近年來，在習近平主席和普京總統的戰略引領下，中俄關系保持高水平發展，為變亂交織的世界注入強大穩定性。今年，中俄關系發展迎來新的歷史機遇。中方願同俄方繼續秉持永久睦鄰友好、全面戰略協作、互利合作共贏精神，不斷加強各領域合作，推動構建更加公正合理的全球治理體系。(新華社)"
+    },
+    {
+      "id": "4871758",
+      "time": "2026-05-11 15:29:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東方證券：維持快手-W“買入”評級 看好可靈技術和商業化領先優勢】東方證券釋出研報稱，預測快手-W(01024)26-28年經調整歸母淨利潤為170/185/204億元。參考可比公司，給予公司26年17xPE估值，對應合理價值為2,816億CNY，摺合3,220億HKD（港幣兌人民幣匯率0.875），目標價74.06港元/股，維持“買入”評級。"
+    },
+    {
+      "id": "4871757",
+      "time": "2026-05-11 15:29:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外交部：中方將繼續為停火止戰、勸和促談發揮積極作用】5月11日，外交部發言人郭嘉昆主持例行記者會。有記者針對伊朗局勢提問。郭嘉昆表示，關於伊朗局勢，中方的立場是一貫的，將繼續為停火止戰、勸和促談發揮積極作用。（央視新聞）"
+    },
+    {
+      "id": "4871756",
+      "time": "2026-05-11 15:29:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【經濟學家：日元未來數月料將繼續面臨拋售壓力】日生基礎研究所經濟學家Tsuyoshi Ueno表示，日元在未來幾個月可能繼續面臨強大的拋售壓力。他說，如果原油進口回升，這將增加拋售日元的需求。他補充說，對日本政府將實施財政擴張以對抗通脹的猜測不斷升溫，這也可能進一步削弱該貨幣。“雖然預計政府將透過口頭和實質性干預來阻止日元在160水平上方企穩，但美元兌日元在下半年可能繼續在150區間中高段交易，“他說。美元最新報157.07日元。"
+    },
     {
       "id": "mkt:019e15f0-8b6d-7dd9-b91c-6c2f1bfd169d",
       "time": "2026-05-11 15:29:06",
@@ -54,6 +216,15 @@
       "text": "萊茵金屬、亨索爾特、倫克、蒂森克虜伯海事系統股價下跌，跌幅介於2.2%至3.9%之間。"
     },
     {
+      "id": "4871753",
+      "time": "2026-05-11 15:28:48",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【今日特朗普要聞】\n1、據澎湃新聞，外交部5月11日宣佈，美國總統特朗普將於5月13日至15日對中國進行國事訪問。5月10日播出的採訪中，特朗普表示很期待訪問中國，相信此次訪華之旅將會很精彩。\n2、美國總統特朗普在其社交媒體“真實社交”發文表示，他讀了伊朗那些所謂的“代表”發來的回應，他不喜歡這份回應，“這完全不可接受”。\n3、特朗普在採訪中被問及伊朗掩埋在廢墟深處的濃縮鈾時說：“我們遲早會拿到它，我們一直在監視它。我搞了個叫‘太空軍’的東西，他們正在盯著。如果有人靠近那個地方，我們會知道，並且會把他們炸飛。”\n4、據美國媒體報道，一位名不見經傳的伊拉克商人阿里·扎伊迪（Ali AlZaidi），在獲得美國總統特朗普支援後，已成為下一任伊拉克總理的熱門人選。\n5、特朗普社交媒體發文痛批自己任命的兩位最高法院共和黨大法官，不滿他們在關稅案中反對自己的政策，指責他們為表現 “獨立” 而傷害國家，並擔憂他們接下來會在出生地公民權問題上做出不利裁決，呼籲他們忠於國家而非刻意反對自己。\n6、在上週日的一檔最新採訪中，美國總統特朗普表示，希望到肯塔基州的諾克斯堡，看看這座金庫中還有沒有黃金。他還稱，他與團隊之前就討論過這個問題，他懷疑某些人有沒有把黃金留在諾克斯堡，因為這些人經常偷東西。\n7、美國總統特朗普10日在社交媒體發文說，美政府將加強監管，確保聯邦機構優先採購美國產品。\n8、特朗普在社交平臺發文，批評福克斯新聞邀請自由派嘉賓卻不反駁其言論，並警告這種做法會損害保守派立場、影響選舉前景。\n9、美東時間週一下午 3 點，特朗普將簽署行政令。\n10、特朗普私下裡詢問顧問們，更傾向於讓萬斯還是魯比奧競選2028年總統，有時甚至建議他們兩人聯手。助手們表示，他主要是在開玩笑。"
+    },
+    {
       "id": "4871752",
       "time": "2026-05-11 15:28:35",
       "tags": [
@@ -76,6 +247,14 @@
         "市場"
       ],
       "text": "越南VN指數下跌1%，至1,895.96點。"
+    },
+    {
+      "id": "4871749",
+      "time": "2026-05-11 15:27:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "【“大空頭”知名投資人評AI：堪比1999—2000年網際網路泡沫】據報道，5月8日標普500指數再創歷史新高，同一天，伯裡在訂閱平臺Substack釋出市場警示。 他直言：“股市漲跌根本不是由就業資料或消費者信心決定。大盤一味直線上漲，只靠一個所有人都自以為看懂的兩個字母主題在支撐。眼下氛圍，如同1999至2000年泡沫最後的瘋狂階段。” 他這樣概括當下市場輿論：“全天從頭到尾，話題只有AI，沒人討論其他任何事。”在伯裡看來，市場被單一主題完全主導，正是泡沫末期的典型特徵。 伯裡警示中最具體的一點，是將費城半導體指數類比2000年3月科技股崩盤前夕的走勢。資料顯示，截至5月8日的單週內，該指數大漲超10%，2026年年內漲幅逼近65%，成分股涵蓋英偉達、博通、英特爾、美光、臺積電等巨頭。 伯裡認為，這種急速拉昇的走勢，復刻了網際網路泡沫末期科技股的拋物線式暴漲，隨後便迎來大跌。"
     },
     {
       "id": "mkt:019e15ee-fd65-7dd9-b91c-5aca8c77fc80",
@@ -116955,35 +117134,6 @@
         "市場"
       ],
       "text": "布倫特原油日內漲1%，現報109.26美元/桶。"
-    },
-    {
-      "id": "te:economy:547317",
-      "time": "2026-05-04 15:30:45",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Spain",
-        "Manufacturing PMI",
-        "Importance 1"
-      ],
-      "text": "Spain Factory Activity Surprises on the Upside — The S&P Global Spain Manufacturing PMI rose to 51.7 in April 2026 from 48.7 in March, surpassing market forecasts of 49.5. The latest data signals a return to growth in manufacturing activity for the first time since last November, driven by a solid rise in production, which increased at its fastest pace in five months. This was supported by a slight rebound in new orders following March’s sharp contraction, partly reflecting inventory accumulation as clients sought to secure goods amid product shortages and supply disruptions linked to the Middle East war. Export orders continued to decline for the eighth consecutive month, though at a slower pace, highlighting underlying demand fragility. Purchasing activity and employment decreased again. Price pressures intensified, with input costs rising at the fastest rate since June 2022 and selling prices increasing at their steepest since November 2022. Sentiment remained historically weak, with firms highly uncertain about the outlook."
-    },
-    {
-      "id": "4859117",
-      "time": "2026-05-04 15:30:27",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美聯航一波音客機降落時失控，撞上公路燈柱和拖車】美國聯合航空公司一架客機3日準備在美國新澤西州紐瓦克自由國際機場降落時，撞上附近高速公路上一根燈柱和一輛行駛中的拖車。客機最終安全降落，無人員受傷，拖車司機受輕傷。監管部門已展開調查。出事客機從義大利威尼斯起飛，搭載221名乘客和10名機組人員。美國聯邦航空局宣告說，這架波音飛機於當地時間14時左右撞上紐瓦克機場附近高速公路上的燈柱，客機輕微受損。據紐約州和新澤西州港務局宣告，事故造成燈柱和拖車受損。拖車司機受輕傷，就醫後出院。機場在確認跑道安全後恢復正常運轉。新澤西州警方發言人說，客機機腹與燈柱和拖車發生碰撞。據美國媒體報道，紐瓦克自由國際機場一條跑道垂直於相鄰的高速公路，進港航班會在公路上方低空飛行以準備降落。美聯航方面表示，目前正評估客機受損情況，調查期間涉事機組將暫時停飛。美國聯邦航空局和國家運輸安全委員會已展開調查，初步調查報告定於30天內出具。(新華社)"
-    },
-    {
-      "id": "4859116",
-      "time": "2026-05-04 15:30:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "瑞士4月SVME採購經理人指數 54.5，預期52，前值53.3。"
     }
   ]
 }
