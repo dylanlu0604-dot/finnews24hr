@@ -1,7 +1,136 @@
 {
-  "updated": "2026-05-11 23:14:17",
-  "count": 13785,
+  "updated": "2026-05-11 23:17:46",
+  "count": 13795,
   "items": [
+    {
+      "id": "4872843",
+      "time": "2026-05-11 23:17:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "15 名漢坦病毒涉疫郵輪上的美國公民現已在內布拉斯加州接受隔離觀察。"
+    },
+    {
+      "id": "mkt:019e179c-d8c5-7dd9-b922-d6ff6f13e756",
+      "time": "2026-05-11 23:16:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US OFFICIALS SPEAK ON STATUS OF AMERICAN HANTAVIRUS EXPOSURE"
+    },
+    {
+      "id": "mkt:019e179c-c2f5-7dd9-b922-cb31c406b186",
+      "time": "2026-05-11 23:16:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "1 HANTAVIRUS SUSPECTED CASE IN NEBRASKA IS DUAL US-UK CITIZEN"
+    },
+    {
+      "id": "mkt:019e179c-b377-7dd9-b922-c7508e3b75bb",
+      "time": "2026-05-11 23:16:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "15 US CITIZENS FROM HANTAVIRUS SHIP NOW IN NEBRASKA QUARANTINE"
+    },
+    {
+      "id": "mkt:019e179c-afc4-7dd9-b922-b88d9cad8966",
+      "time": "2026-05-11 23:16:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "2 US CITIZENS FROM HANTAVIRUS SHIP QUARANTINED AT EMORY IN ATL"
+    },
+    {
+      "id": "4872842",
+      "time": "2026-05-11 23:16:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內漲3%，現報1532.50美元/盎司。"
+    },
+    {
+      "id": "mkt:019e179c-7022-7dd9-b922-b377d005ecfb",
+      "time": "2026-05-11 23:16:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TRUMP: BEING WAITED BY A LARGE GROUP OF GENERALS ON IRAN"
+    },
+    {
+      "id": "4872841",
+      "time": "2026-05-11 23:16:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "立陶宛計劃部署軍隊，以守護霍爾木茲海峽的航運安全。"
+    },
+    {
+      "id": "4872840",
+      "time": "2026-05-11 23:15:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我方已徹底摧毀伊朗海軍。"
+    },
+    {
+      "id": "4872839",
+      "time": "2026-05-11 23:15:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗已經喪失武器、領導層、海軍及陸軍力量。"
+    },
+    {
+      "id": "mkt:019e179a-f33a-7dd9-b922-abe21b7df522",
+      "time": "2026-05-11 23:14:51",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "TRUMP SAYS IRAN IS OUT OF WEAPONS, LEADERSHIP, NAVY, ARMY TRUMP SAYS WE WIPED OUT IRAN NAVY"
+    },
+    {
+      "id": "4872838",
+      "time": "2026-05-11 23:14:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：將與一大群將軍會面，討論伊朗問題。"
+    },
+    {
+      "id": "mkt:019e179a-bd21-7dd9-b922-a25c5a57d1d3",
+      "time": "2026-05-11 23:14:37",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "TRUMP: TO MEET LARGE GROUP OF GENERALS ABOUT IRAN"
+    },
+    {
+      "id": "mkt:019e179a-8794-7dd9-b922-99ebb583184b",
+      "time": "2026-05-11 23:14:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Apple",
+        "Tesla",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "【Musk, Cook Among Executives to Join Trump on China Trip for Xi Summit, White House Says】The White House is inviting senior executives including Elon Musk of Tesla, Tim Cook of Apple, and Boeing CEO Kelly Ortberg, along with leaders from Goldman Sachs, Blackstone, BlackRock, Citigroup, and Meta, to accompany President Donald Trump on his trip to China for a summit with President Xi Jinping. A White House official said the delegation of more than a dozen executives is expected to pursue potential business deals and purchase agreements with Beijing during the visit."
+    },
     {
       "id": "4872837",
       "time": "2026-05-11 23:13:55",
@@ -121941,42 +122070,6 @@
         "公司"
       ],
       "text": "【荷蘭將轉運涉疫郵輪上2名疑似漢坦病毒病例】日前出現漢坦病毒感染病例的郵輪運營方說，荷蘭政府將嘗試把目前仍在船上的2名疑似病例送回荷蘭接受治療。世界衛生組織官員4日表示，這一感染事件對公眾健康構成的風險較低，“無需恐慌”。涉事郵輪運營方“泛海探險”公司在一份落款為3日的最新宣告中證實，其運營的郵輪“洪迪厄斯”號上出現“嚴重醫療事件”，目前已造成3人死亡，其中2人在船上死亡，1人下船後死亡；另有1人正在南非約翰內斯堡接受重症監護，而仍在船上的2人“需要緊急救治”。宣告說，荷蘭政府已同意牽頭開展聯合行動，將“洪迪厄斯”號上2名出現症狀的人員從維德角送至荷蘭，同時計劃將死亡病例中的一名男性乘客遺體以及一名與死者關係密切、目前未出現症狀的乘客也送回荷蘭。（央視新聞）"
-    },
-    {
-      "id": "4859893",
-      "time": "2026-05-04 23:17:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗否認過去數小時有商船或油輪透過霍爾木茲海峽】據伊朗伊斯蘭共和國廣播電視臺4日報道，伊朗伊斯蘭革命衛隊公共關係部門表示，過去數小時內沒有任何商船或油輪透過霍爾木茲海峽，並否認美方關於海峽已有船隻通行的說法，稱其“毫無根據、完全是謊言”。報道還說，任何違反革命衛隊海軍既定原則的海上行動都將面臨“嚴重風險”，違規船隻將被“武力攔截”。（新華社）"
-    },
-    {
-      "id": "4859892",
-      "time": "2026-05-04 23:16:30",
-      "tags": [
-        "其他",
-        "焦點",
-        "國際"
-      ],
-      "text": "阿聯酋國防部：第四枚導彈已墜入海中。"
-    },
-    {
-      "id": "4859891",
-      "time": "2026-05-04 23:16:16",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "阿聯酋國防部：已攔截來自伊朗的三枚導彈。"
-    },
-    {
-      "id": "4859890",
-      "time": "2026-05-04 23:15:55",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "阿聯酋國防部：阿聯酋探測到四枚來自伊朗方向的導彈。"
     }
   ]
 }
