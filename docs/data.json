@@ -1,7 +1,28 @@
 {
-  "updated": "2026-05-12 06:51:55",
-  "count": 13856,
+  "updated": "2026-05-12 06:55:23",
+  "count": 13855,
   "items": [
+    {
+      "id": "4873253",
+      "time": "2026-05-12 06:52:50",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【期價突破20萬元/噸，碳酸鋰“高漲”勢頭持續】碳酸鋰期貨價格5月11日繼續保持上漲勢頭，主力合約2609上漲3.51%，報收205020元/噸，創下兩年來新高。自年初12萬元/噸起步，碳酸鋰期貨價格5個月內漲幅超過40%。碳酸鋰現貨與期貨價格保持聯動，我的鋼鐵網資料顯示，5月11日，電池級碳酸鋰（晚盤）均價報195400元/噸，噸價較8日上漲2150元。“此番鋰價強勢反彈，核心來自供給收縮預期與需求端爆發增長的共振。”有熟悉鋰礦產業人士分析認為，隨著鋰價走強，產業端也是動作頻頻。目前來看，下游對鋰價上漲還是具備一定“容忍度”的，短期內仍具備一定上漲空間。（上證報）"
+    },
+    {
+      "id": "te:markets:549751",
+      "time": "2026-05-12 06:51:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "New Zealand Stocks Trade Lower in Morning Session — The NZX 50 dropped 47 points, or 0.4%, to 13,164 in Tuesday morning trading, erasing gains from the previous session, mainly weighed down by the healthcare, financial, tech, and utilities sectors. Meanwhile, gains in industrial and real estate stocks capped losses. Traders remained cautious ahead of New Zealand's food inflation data and manufacturing PMI, both due later this week. Investors were also awaiting US inflation data on Tuesday amid rising fuel prices, which could help guide the Fed's monetary policy decision at its upcoming meeting. Markets will also monitor the plans of US President Trump and Chinese President Xi Jinping later this week. However, a rally on Wall Street overnight, supported by AI-linked stocks, limited the decline. Among the early losers were Fisher & Paykel (-2.0%), Meridian Energy (-1.8%), Infratil (-1.5%), Gentrack Group (-1.5%), and Contact Energy (-0.5%)."
+    },
     {
       "id": "4873252",
       "time": "2026-05-12 06:51:15",
@@ -122760,30 +122781,6 @@
         "國際"
       ],
       "text": "【德國央行行長：美以對伊戰事抑制歐元區經濟增長 加劇通貨膨脹】德國央行行長納格爾4日表示，美國和以色列針對伊朗的戰事導致嚴重的經濟後果。納格爾在法蘭克福一場活動上發表演講稱，近期在國際市場上，石油和天然氣價格不斷飆升，而且價格波動幅度遠高於本輪美以伊衝突爆發前水平，這造成了雙重負面影響：一方面抑制了歐元區經濟增長，另一方面加劇了歐元區通貨膨脹，而且這種後果將在未來相當長的一段時間內持續影響歐元區。（央視新聞）"
-    },
-    {
-      "id": "4860373",
-      "time": "2026-05-05 06:55:10",
-      "tags": [
-        "觀點"
-      ],
-      "text": "Meta聘請摩根士丹利與摩根大通，牽頭埃爾帕索資料中心專案交易。"
-    },
-    {
-      "id": "4860372",
-      "time": "2026-05-05 06:53:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "蘇丹指控阿聯酋和衣索比亞涉嫌參與喀土穆機場襲擊事件。"
-    },
-    {
-      "id": "4860371",
-      "time": "2026-05-05 06:53:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "【iOS27自定義錢包通行證】科技記者馬克 · 古爾曼（Mark Gurman）稱，蘋果正在開發一項功能，將允許使用者從電影票、音樂會通行證和健身房會員卡等物品的掃描中生成數字通行證。 該選項將稱為“Create a Pass（建立通行證）”，它將連線 Wallet 錢包應用與不相容該應用的通行證。"
     }
   ]
 }
