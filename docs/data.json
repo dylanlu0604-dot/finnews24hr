@@ -1,7 +1,85 @@
 {
-  "updated": "2026-05-11 17:14:52",
-  "count": 13390,
+  "updated": "2026-05-11 17:18:19",
+  "count": 13394,
   "items": [
+    {
+      "id": "4872021",
+      "time": "2026-05-11 17:18:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "斯塔默：經濟基本面穩健。"
+    },
+    {
+      "id": "mkt:019e1653-abd7-7dd9-b91d-2289fc12aac1",
+      "time": "2026-05-11 17:17:22",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "XAUUSD",
+        "Impact bearish",
+        "WTI",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "【Gold Slides 1% as Oil Gains on U.S.-Iran Stalemate and Fed Rate Expectations Rise】Gold futures fall 1% as a lack of progress in U.S.-Iran peace talks pushes oil prices higher, fueling concerns over prolonged disruptions and higher inflation; “markets are increasingly expecting higher interest rates to combat inflation risks tied to elevated energy prices, which is negative for non-yielding gold,” says Soojin Kim from MUFG, while “strong U.S. labour market data continues to support expectations that the Fed will keep rates elevated for longer,” and in early European trading, the move reflects ongoing sensitivity to energy-driven inflation pressures and interest rate expectations."
+    },
+    {
+      "id": "4872020",
+      "time": "2026-05-11 17:17:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "深交所：2026年5月11日，春光集團（證券程式碼：301531）在深交所舉行上市儀式。"
+    },
+    {
+      "id": "te:markets:549624",
+      "time": "2026-05-11 17:16:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "Hong Kong Shares Steady as AI Optimism Offset Worries — The Hang Seng Index were little changed, closing at 26,407 on Monday, as early losses driven by geopolitical concerns were offset by selective buying in technology and financial shares later in the session. Sentiment initially weakened after US President Donald Trump rejected Iran’s latest peace proposal as “totally unacceptable,” reviving concerns over prolonged tensions in the Middle East and potential disruptions to shipping through the Strait of Hormuz. However, bargain hunting later supported the market, with Shenzhen Ldrobot surging more than 150% in its Hong Kong debut amid strong demand for AI and robotics-related stocks. GoFintech Quantum Innovation also rallied after announcing a strategic partnership in quantum-enabled drug discovery. Investors still remained cautious ahead of the release of Hong Kong’s first-quarter GDP growth data later this week, which could offer fresh signals on the city’s economic recovery."
+    },
+    {
+      "id": "4872019",
+      "time": "2026-05-11 17:15:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "斯塔默：我不會置身事外，讓國家陷入混亂。"
+    },
+    {
+      "id": "4872018",
+      "time": "2026-05-11 17:15:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【微信支付上線“組合支付”】微信支付上線了“組合支付”能力，即使用者在進行轉賬時可在收銀臺任選“零錢、零錢通、經營賬戶、簽帳金融卡、分付”中的任意兩種方式進行組合，完成支付。該能力上線前，使用者只能透過單一支付渠道完成支付。據其介紹，“組合支付”能力方便使用者在大額支付場景下靈活選擇支付方式，打破單一支付渠道的額度限制。"
+    },
+    {
+      "id": "4872017",
+      "time": "2026-05-11 17:15:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【福達合金：公司深耕電接觸材料生產加工領域多年 主營業務未發生調整】福達合金股票交易風險提示公告，公司成立於1994年，深耕電接觸材料生產加工領域多年，主要產品包括觸頭材料、復層觸頭、觸頭元件等，能夠為客戶提供電接觸材料一體化解決方案。經公司內部自查確認，當前公司主營業務未發生調整，整體經營態勢穩定。"
+    },
+    {
+      "id": "4872016",
+      "time": "2026-05-11 17:14:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "斯塔默：絕不會將英國拖入伊朗戰爭。"
+    },
     {
       "id": "4872015",
       "time": "2026-05-11 17:14:27",
@@ -118113,42 +118191,6 @@
         "其他"
       ],
       "text": "【嵐圖泰山X8車型累計訂單達3.6萬輛】5月4日，嵐圖汽車宣佈，嵐圖泰山X8五一假期三天訂單超6000輛，累計訂單達3.6萬輛。"
-    },
-    {
-      "id": "4859269",
-      "time": "2026-05-04 17:17:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：俄國防部稱，烏軍一天在特別軍事行動中損失約1240名軍人。"
-    },
-    {
-      "id": "4859268",
-      "time": "2026-05-04 17:15:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：伊朗方面稱，霍爾木茲海峽局勢暫無變化。"
-    },
-    {
-      "id": "te:economy:547376",
-      "time": "2026-05-04 17:15:08",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United Kingdom",
-        "Government Bond 10Y",
-        "Importance 0"
-      ],
-      "text": "UK 10-Year Gilt Yields Near 2008 Highs on Rate Hike Expectations — UK 10-year gilt yields held at 4.95%, near their highest since 2008, as investors priced in potential Bank of England rate hikes to combat inflation. The focus also remains on Britain’s municipal elections this Thursday, with polls indicating a possible setback for Prime Minister Keir Starmer’s Labour Party. The rise in yields reflects ongoing global energy shocks, with oil prices at four-year highs and the Strait of Hormuz still closed due to the US-Israeli conflict with Iran. Markets see a 50% chance of a BoE rate hike in June and expect two 25-basis-point increases by September. However, uncertainty persists after the BoE kept rates unchanged, citing a broad range of economic impacts from the Iran war, from scenarios demanding aggressive rate rises to others requiring no action. Governor Andrew Bailey called the decision a \"difficult judgement call,\" cautioning that delaying action until inflationary pressures are clear could lead to a late response."
-    },
-    {
-      "id": "4859267",
-      "time": "2026-05-04 17:14:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：過去兩週，受燃油短缺擔憂升溫影響，全球各家航空公司已從五月航班計劃中削減 200 萬個座位。"
     }
   ]
 }
