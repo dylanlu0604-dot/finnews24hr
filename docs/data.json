@@ -1,7 +1,73 @@
 {
-  "updated": "2026-05-12 02:13:14",
-  "count": 13934,
+  "updated": "2026-05-12 02:16:40",
+  "count": 13939,
   "items": [
+    {
+      "id": "4873042",
+      "time": "2026-05-12 02:16:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "真主黨持續在黎巴嫩南部襲擊入侵的以色列軍隊，宣稱在巴亞達地區用無人機襲擊以軍士兵，並在阿迪薩地區襲擊了以軍炮兵裝備。"
+    },
+    {
+      "id": "4873041",
+      "time": "2026-05-12 02:16:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國郵政署：價格變動調整將於7月12日生效。"
+    },
+    {
+      "id": "4873040",
+      "time": "2026-05-12 02:16:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "漢坦病毒涉事郵輪最後六名乘客撤離下船，船長對眾人的耐心表示致意。"
+    },
+    {
+      "id": "4873039",
+      "time": "2026-05-12 02:15:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國郵政建議於2026年7月實施競爭性調價。"
+    },
+    {
+      "id": "te:markets:549727",
+      "time": "2026-05-12 02:15:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural Gas EU Spikes by 5.88% — Top commodity gainers are Natural Gas EU (5.88%), Natural gas (5.57%), Natural Gas UK (5.15%), Brent Crude Oil (3.33%) and Crude Oil WTI (3.24%)."
+    },
+    {
+      "id": "mkt:019e183e-bc69-7dd9-b925-d148d0c83d4a",
+      "time": "2026-05-12 02:13:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "WHITE HOUSE DEPUTY PRESS SEC. KELLY: TRUMP NOT RUSHING ON IRAN & HAS ALL OPTIONS ON THE TABLE"
+    },
+    {
+      "id": "mkt:019e183e-a057-7dd9-b925-cfa39250397a",
+      "time": "2026-05-12 02:13:37",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "WHITE HOUSE DEP. PRESS SEC. KELLY ON TRUMP-XI TALKS: WE CAN EXPECT MORE GOOD DEALS FOR THE US"
+    },
     {
       "id": "4873038",
       "time": "2026-05-12 02:11:47",
@@ -123421,28 +123487,6 @@
         "Importance 1"
       ],
       "text": "Metals Commodities Updates: Silver Falls by 3.24% — Top commodity losers are Silver (-3.24%), Platinum (-2.51%), Copper (-2.12%) and Gold (-2.05%)."
-    },
-    {
-      "id": "te:547563",
-      "time": "2026-05-05 02:15:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Natural Gas EU Spikes by 6.28% — Top commodity gainers are Natural Gas EU (6.28%), Brent Crude Oil (4.76%), Gasoline (3.60%) and Crude Oil WTI (3.01%). Biggest loser is Natural Gas UK (-1.68%)."
-    },
-    {
-      "id": "te:markets:547563",
-      "time": "2026-05-05 02:15:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Natural Gas EU Spikes by 6.28% — Top commodity gainers are Natural Gas EU (6.28%), Brent Crude Oil (4.76%), Gasoline (3.60%) and Crude Oil WTI (3.01%). Biggest loser is Natural Gas UK (-1.68%)."
     }
   ]
 }
