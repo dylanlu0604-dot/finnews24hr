@@ -1,7 +1,34 @@
 {
-  "updated": "2026-05-12 06:38:25",
-  "count": 13851,
+  "updated": "2026-05-12 06:41:48",
+  "count": 13852,
   "items": [
+    {
+      "id": "te:markets:549749",
+      "time": "2026-05-12 06:40:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Cocoa Rallies by 12.15% — Top commodity gainers are Cocoa (12.15%), Cotton (4.05%) and Wheat (2.43%). Biggest losers are Canola (-1.31%) and Rubber (-0.76%)."
+    },
+    {
+      "id": "4873242",
+      "time": "2026-05-12 06:39:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國防部長赫格塞思：今日，我召整合立一個特別審查小組，對全軍軍事法律體系中涉及軍人權益的各個方面，開展全面、長期、覆蓋整個國防部的系統性審查。 該小組將重塑公信力、強化軍隊戰力、推動實質性改革，並確保現役軍人理應享有世界級水準的軍事法律保障。"
+    },
+    {
+      "id": "4873241",
+      "time": "2026-05-12 06:38:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "【5月12日隔夜要聞一覽】\n1、特朗普：與伊朗停火協議已“岌岌可危”。\n2、特朗普提議暫停聯邦燃油稅直至油價回落。\n3、特斯拉Model S和Model X正式停產。\n4、特朗普對伊朗戰爭洩密事件不滿，促使司法部展開積極調查。\n5、伊朗官員：伊美就濃縮鈾處置方式存在嚴重分歧。\n6、伊朗議長：伊武裝部隊已做好準備應對任何侵略行為。\n7、美聯邦航空管理局批准麥道11型貨機恢復運營。\n8、委內瑞拉代總統否認該國將成為美國“第51州”。\n9、白宮記協晚宴槍擊案嫌疑人對檢方指控不認罪。"
+    },
     {
       "id": "4873240",
       "time": "2026-05-12 06:35:12",
@@ -122736,28 +122763,6 @@
         "Importance 1"
       ],
       "text": "Crypto Updates: Bitcoin Increases by 2.01% — Top crypto gainers are Bitcoin (2.01%), Ether (1.45%) and Binance (1.18%)."
-    },
-    {
-      "id": "te:547587",
-      "time": "2026-05-05 06:40:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Cocoa Soars by 8.57% — Top commodity gainers are Cocoa (8.57%), Rice (4.55%) and Sugar (2.41%). Biggest loser is Cotton (-1.53%)."
-    },
-    {
-      "id": "te:markets:547587",
-      "time": "2026-05-05 06:40:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Cocoa Soars by 8.57% — Top commodity gainers are Cocoa (8.57%), Rice (4.55%) and Sugar (2.41%). Biggest loser is Cotton (-1.53%)."
     }
   ]
 }
