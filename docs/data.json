@@ -1,7 +1,82 @@
 {
-  "updated": "2026-05-11 21:51:13",
-  "count": 13739,
+  "updated": "2026-05-11 21:54:38",
+  "count": 13743,
   "items": [
+    {
+      "id": "4872714",
+      "time": "2026-05-11 21:53:40",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數漲超1%，再鼎醫藥漲6.99%，理想汽車漲5.61%，百度漲4.08%，小鵬汽車漲3.91%，Tims中國漲3.66%。"
+    },
+    {
+      "id": "te:markets:549686",
+      "time": "2026-05-11 21:53:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Gains as Mining Stocks Rally — The S&P/TSX Composite Index gained 0.5% on Monday, lifted by strong gains in the mining sector. Barrick Mining surged more than 8% after beating estimates for first-quarter profit as higher gold prices offset lower production. Peers Agnico Eagle (+2.5%) and Wheaton Precious Metals (+3.5%) also advanced. Meanwhile, oil prices rose on renewed supply concerns after US President Donald Trump rejected Iran’s response to a proposed peace agreement. Energy producers traded higher, with Canadian Natural and Suncor Energy both gaining more than 1%. In contrast, elevated energy costs maintained fears of global stagflation, pressuring banking stocks. Royal Bank of Canada fell 0.5%, while TD Bank edged lower. Elsewhere, Doman Building Materials gained more than 4.5% despite reporting first-quarter revenue below expectations."
+    },
+    {
+      "id": "4872713",
+      "time": "2026-05-11 21:53:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "立陶宛總統府表示，立陶宛最高國防政策機構已向議會提議，批准派遣至多40名士兵及相關人員支援美國在霍爾木茲海峽的任務。"
+    },
+    {
+      "id": "4872712",
+      "time": "2026-05-11 21:53:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：呼籲英國首相斯塔默辭職的工黨議員人數已增至54人。"
+    },
+    {
+      "id": "mkt:019e174f-f876-7dd9-b921-cd288905d4bd",
+      "time": "2026-05-11 21:52:57",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "LITHUANIA'S TOP DEFENCE POLICY BODY PROPOSES TO PARLIAMENT TO APPROVE SENDING UP TO 40 SOLDIERS AND PERSONNEL TO AID U.S. MISSION IN HORMUZ STRAIT - PRESIDENT'S OFFICE"
+    },
+    {
+      "id": "4872711",
+      "time": "2026-05-11 21:52:15",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【美股太空概念走高】美股太空概念走高，Rocket Lab漲超4%盤中創新高，上一日暴漲超34%；AST SpaceMobile漲超5%，將於盤後公佈財報。“SpaceX概念基金”DXYZ再度大漲超11%，VCX漲近18%。"
+    },
+    {
+      "id": "4872710",
+      "time": "2026-05-11 21:51:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海川智慧：公司自動衡器產品沒有涉及機器人的感知與控制領域】海川智慧(300720)5月11日在互動平臺表示，公司的自動衡器產品沒有涉及機器人的感知與控制領域。"
+    },
+    {
+      "id": "4872709",
+      "time": "2026-05-11 21:50:42",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "【經濟學家：在勞動力市場惡化的情況下，加拿大“絕無可能“加息】經濟學家兼Rosenberg Research負責人David Rosenberg表示，在勞動力市場疲軟的情況下，加拿大央行“絕無可能“上調政策利率。“要不是因為美伊戰爭相關的油價衝擊，該央行可能已經在討論恢復降息計劃了，”Rosenberg寫道。4月份的就業資料顯示，在2026年的前四個月裡，該國經濟淨減少了11.2萬個就業崗位。然而他指出，固定收益交易員已經反映了在2026年底前至少加息兩次的預期。“加拿大勞動力市場正在失去它可能曾擁有的任何活力，而且通脹放緩的資源缺口正在擴大，“他說。"
+    },
     {
       "id": "4872708",
       "time": "2026-05-11 21:50:18",
@@ -121463,39 +121538,6 @@
         "國際"
       ],
       "text": "歐洲央行週一公佈的調查顯示，專業預測人士預計，受戰爭影響的通脹上升將只是暫時性的，這為通脹回落至2%的前景帶來一些積極訊號。"
-    },
-    {
-      "id": "4859773",
-      "time": "2026-05-04 21:53:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大 4 月機動車銷量同比下滑 3.9%。"
-    },
-    {
-      "id": "4859772",
-      "time": "2026-05-04 21:53:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國總統特朗普發圖稱，美國的海軍、空軍以及導彈系統100%正常運作，而伊朗的軍事系統完全被摧毀，伊朗的領導人也遭到了打擊。"
-    },
-    {
-      "id": "4859771",
-      "time": "2026-05-04 21:52:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基在亞美尼亞會見喬治亞總理。"
-    },
-    {
-      "id": "4859770",
-      "time": "2026-05-04 21:51:45",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【歐洲央行官員Kazimir稱6月加息“幾乎不可避免”】歐洲央行管理委員會成員Peter Kazimir表示，由於伊朗衝突，歐洲央行在6月下次會議上很可能將不得不加息。這位斯洛伐克官員稱，儘管決策者並未預先承諾任何既定路徑，且仍需更多資料以評估衝突影響，但“我們仍堅持我們的方式”。“基於這一點，6月收緊政策幾乎不可避免，”他週一在評論文章中表示，“我們越來越有可能需要為歐元區通脹廣泛上升且增長明顯走弱的較長時期做好準備。”"
     }
   ]
 }
