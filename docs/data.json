@@ -1,7 +1,19 @@
 {
-  "updated": "2026-05-12 07:09:40",
-  "count": 13850,
+  "updated": "2026-05-12 07:13:05",
+  "count": 13849,
   "items": [
+    {
+      "id": "te:economy:549754",
+      "time": "2026-05-12 07:12:12",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "BRC Retail Sales Monitor YoY",
+        "Importance 0"
+      ],
+      "text": "UK Retail Sales Fall for 1st Time in 17 Months — UK retail sales decreased by 3.4% year-on-year on a like-for-like basis in April 2026, missing market expectations of a 0.8% increase and reversing a 3.1% gain in the previous month. The latest figure also marked the first month of decline since November 2024."
+    },
     {
       "id": "4873263",
       "time": "2026-05-12 07:08:01",
@@ -122721,22 +122733,6 @@
         "觀點"
       ],
       "text": "【劑泰科技尋求透過香港IPO募資21.1億港元】根據提交給香港交易所的檔案，劑泰科技（北京）股份有限公司香港上市擬發行2.01億股股票，每股發行價10.50港幣。據估算，該公司勢將融資21.1億港元（2.69億美元）。該公司將於5月13日掛牌上市，Jefferies、德意志銀行和中信證券是聯席保薦人。"
-    },
-    {
-      "id": "4860391",
-      "time": "2026-05-05 07:12:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "入口網站iran-cost-ticker.com的統計資料顯示，雖說美國當局宣佈衝突已經結束，但美國與伊朗衝突的開支已超過709億美元，並且這一數字還在增長。"
-    },
-    {
-      "id": "4860390",
-      "time": "2026-05-05 07:11:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯常駐聯合國日內瓦辦事處及其他國際組織代表根納季·加季洛夫表示，在芬蘭等歐洲無核武器國家部署核武器對俄羅斯國家安全構成威脅。"
     }
   ]
 }
