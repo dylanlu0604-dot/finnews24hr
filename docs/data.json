@@ -1,7 +1,117 @@
 {
-  "updated": "2026-05-11 23:52:53",
-  "count": 13848,
+  "updated": "2026-05-11 23:56:21",
+  "count": 13857,
   "items": [
+    {
+      "id": "4872900",
+      "time": "2026-05-11 23:56:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普吹捧美股股市。"
+    },
+    {
+      "id": "mkt:019e17c0-2e01-7dd9-b923-e6deb2475944",
+      "time": "2026-05-11 23:55:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TRUMP: I RESPECT XI A LOT, HOPEFULLY HE RESPECTS ME"
+    },
+    {
+      "id": "mkt:019e17c0-268c-7dd9-b923-df973ddcf2f8",
+      "time": "2026-05-11 23:55:18",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "CNH"
+      ],
+      "text": "TRUMP ON CHINA: GREAT RELATIONSHIP WITH XI TRUMP: DOING SMART BUSINESS WITH CHINA TRUMP: WE'RE DOING GREAT WITH CHINA"
+    },
+    {
+      "id": "mkt:019e17bf-b5a7-7552-8f2a-9bf67ece72a6",
+      "time": "2026-05-11 23:54:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "INDIA'S MODI TO VISIT UAE, NETHERLANDS, SWEDEN, NORWAY, AND ITALY BETWEEN MAY 15 - MAY 20 - GOVT. STATEMENT"
+    },
+    {
+      "id": "4872899",
+      "time": "2026-05-11 23:54:56",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：我們與中國的關係非常好。"
+    },
+    {
+      "id": "mkt:019e17bf-993c-7552-8f2a-97b70b3aa5d4",
+      "time": "2026-05-11 23:54:50",
+      "tags": [
+        "MKT News",
+        "TSN.O",
+        "Impact bearish"
+      ],
+      "text": "TYSON FOODS SHARES FALL TO SESSION-LOW 3%"
+    },
+    {
+      "id": "4872898",
+      "time": "2026-05-11 23:54:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度政府宣告：莫迪將於5月15日至20日期間訪問阿聯酋、荷蘭、瑞典、挪威與義大利。"
+    },
+    {
+      "id": "4872897",
+      "time": "2026-05-11 23:54:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普政府將暫時降低牛肉進口關稅】特朗普政府將允許更多外國生產的牛肉以更低的關稅稅率進口。特朗普的牛肉政策將影響所有牛肉出口國。特朗普政府還將放寬對狼的保護措施，並放寬美國養牛戶的耳標規定。"
+    },
+    {
+      "id": "4872896",
+      "time": "2026-05-11 23:53:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【利仁科技：控股股東擬協議轉讓10%公司股份】利仁科技公告稱，公司控股股東、實際控制人宋老亮擬透過協議轉讓方式，分別向上海蘊力科技合夥企業（有限合夥）和董湘琳各轉讓公司5%股份，合計轉讓10%股份。轉讓單價為32.77元/股，轉讓價款均為1.21億元。本次轉讓不觸及要約收購，不會導致公司控制權變更。"
+    },
+    {
+      "id": "mkt:019e17be-84f5-7552-8f2a-8f7685e23c66",
+      "time": "2026-05-11 23:53:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "INDIA'S MODI TO VISIT UAE, NETHERLANDS, SWEDEN, NORWAY, AND ITALY - GOVT. STATEMENT"
+    },
+    {
+      "id": "mkt:019e17bd-d1eb-7552-8f2a-87586981a8fb",
+      "time": "2026-05-11 23:52:56",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "TRUMP: WORKING ON GETTING BEEF PRICES DOWN"
+    },
+    {
+      "id": "4872895",
+      "time": "2026-05-11 23:52:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：正在努力降低牛肉價格。"
+    },
     {
       "id": "mkt:019e17bd-b77c-7dd9-b923-d3f2c657e065",
       "time": "2026-05-11 23:52:49",
@@ -9,6 +119,14 @@
         "MKT News"
       ],
       "text": "TRUMP ADMINISTRATION TO TEMPORARILY REDUCE TARIFFS ON BEEF IMPORTS, SOURCES SAY - WSJ"
+    },
+    {
+      "id": "4872894",
+      "time": "2026-05-11 23:52:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗人兩天前說他們準備好讓我們來把鈾濃縮材料拿走，然後又反悔了。他們在信中一次也沒提到他們準備放棄核武器。"
     },
     {
       "id": "mkt:019e17bd-59aa-7dd9-b923-c8add37434cc",
@@ -122576,39 +122694,6 @@
         "國際"
       ],
       "text": "【德國副總理：如果美方加徵關稅 歐盟將反制】德國副總理兼財政部長克林拜爾4日呼籲美國總統特朗普履行去年夏天與歐盟達成的關稅協議。克林拜爾表示，“歐洲信守承諾，現在我希望美方也能如此。加徵關稅會損害歐美雙方的企業和就業。”與此同時，克林拜爾明確表示，如果特朗普將歐盟輸美汽車關稅從此前的15%提高至25%，歐盟將會進行反制。克林拜爾稱，包括德國在內的歐盟國家立場很明確，“我們不希望事態升級，但是也做好了應對事態升級的準備。”（央視新聞）"
-    },
-    {
-      "id": "4859937",
-      "time": "2026-05-04 23:56:16",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "【阿聯酋再次釋出導彈威脅警報】阿聯酋4日晚再次向民眾手機發布緊急警報說，存在“潛在導彈威脅”，民眾應立即採取避險措施。（新華社）"
-    },
-    {
-      "id": "4859936",
-      "time": "2026-05-04 23:55:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "義大利總理：我們希望在天然氣和石油供應方面加強我國與亞塞拜然的關係。"
-    },
-    {
-      "id": "4859935",
-      "time": "2026-05-04 23:55:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "富查伊拉媒體辦公室通報：伊朗無人機襲擊富查伊拉石油工業區，三名印度公民受中度傷勢。"
-    },
-    {
-      "id": "4859934",
-      "time": "2026-05-04 23:54:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基：與俄羅斯達成僅為期一天的停火不可行。"
     }
   ]
 }
