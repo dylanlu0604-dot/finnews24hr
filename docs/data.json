@@ -1,7 +1,125 @@
 {
-  "updated": "2026-05-11 14:28:31",
-  "count": 13191,
+  "updated": "2026-05-11 14:32:00",
+  "count": 13199,
   "items": [
+    {
+      "id": "mkt:019e15bc-008b-7dd9-b91b-d1918e6197cf",
+      "time": "2026-05-11 14:31:39",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "KOSPI INDEX CLOSED UP 4.32%"
+    },
+    {
+      "id": "4871629",
+      "time": "2026-05-11 14:31:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225股價指數收盤下跌0.5%，報62417.88點，科技股拖累大盤走低。"
+    },
+    {
+      "id": "mkt:019e15bb-8d76-7dd9-b91b-cb52890a2b28",
+      "time": "2026-05-11 14:31:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "NIKKEI 225 CLOSED DOWN 0.47%"
+    },
+    {
+      "id": "4871628",
+      "time": "2026-05-11 14:31:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "匈牙利被提名出任經濟與能源事務部長的卡皮塔尼：將重新稽核保克什核電站擴建專案的融資協議與執行條件。"
+    },
+    {
+      "id": "4871627",
+      "time": "2026-05-11 14:30:50",
+      "tags": [
+        "公司",
+        "資料"
+      ],
+      "text": "【上交所科創債推出四年累計發行1.99萬億元】上交所2021年全市場率先引導優質企業發行科創用途公司債券，並於2022年5月率先發布科創債規則，標誌著科創債正式面世。截至2026年4月末，四年來，上交所已發行科創債1.99萬億元，存量規模為1.78萬億元，其中，中長期科創債市場份額約為55%，成為中長期科創債主戰場。"
+    },
+    {
+      "id": "4871626",
+      "time": "2026-05-11 14:30:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國衛生部長就漢坦病毒疫情表態：法國目前已排查出 22 名密切接觸者。"
+    },
+    {
+      "id": "mkt:019e15ba-be22-7dd9-b91b-c3654e0ee38c",
+      "time": "2026-05-11 14:30:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "【China’s Private Refiners Seek Beijing Approval to Cut Run Rates】China’s private refiners are seeking government approval to cut oil-processing rates after Beijing previously ordered them to maintain 2025 production levels to safeguard domestic fuel supply. The request comes as the Persian Gulf war drives up crude costs and crushes refining margins. The policy pushed refinery run rates in April to the highest level in nearly two years, causing gasoline and diesel inventories to surge while many refiners, especially in Shandong, suffered mounting losses. China’s top economic planner, the NDRC, has yet to comment on the requests."
+    },
+    {
+      "id": "te:markets:549550",
+      "time": "2026-05-11 14:30:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Nikkei 225 Index Closes 0.38% Lower — The Nikkei 225 Index dropped 240 points or 0.38 percent on Monday to close at 62474 points. Losses were led by Nintendo Co (-8.58%), Softbank (-6.80%) and IHI (-6.54%). Offsetting the fall, top gainers were Konami (9.91%), Ajinomoto (9.22%) and Sony (8.86%)."
+    },
+    {
+      "id": "te:economy:549549",
+      "time": "2026-05-11 14:29:45",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Denmark",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Denmark Inflation Rises to 4-Month High — The annual inflation rate in Denmark rose to 1.4% in April 2026, the highest in four months, from 1.2% in the previous month. Transportation costs increased at a faster pace (3.3% vs 2.2% in March), led by rising fuel prices linked to the Middle East conflict, particularly diesel (32.5% vs 18.3%) and petrol (14.6% vs 9.0%). Food inflation also picked up (2.7% vs 1.8%), while housing and utility costs were unchanged after a 0.3% fall in March. Meanwhile, softer price increases were observed in information and communication (4.0% vs 4.5%), recreation, sport and culture (0.7% vs 2.2%), and personal care and miscellaneous goods and services (2.1% vs 2.2%), while prices for restaurants and hotels declined (-0.9% vs 1.4%). On a monthly basis, consumer prices edged up 0.2%, after showing no growth in the previous month. Core inflation, which excludes energy and unprocessed food, eased slightly to 1.6% in April from 1.7% in March."
+    },
+    {
+      "id": "4871625",
+      "time": "2026-05-11 14:29:28",
+      "tags": [
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【摩根士丹利稱石油市場正“與時間賽跑” 霍爾木茲海峽何時重開至關重要】摩根士丹利表示，石油市場正在“與時間賽跑”，如果霍爾木茲海峽的封鎖持續到6月，此前共同遏制伊朗戰爭所引發油價漲勢的那些因素可能將不再奏效。Martijn Rats等分析師在一份報告中指出，儘管損失近10億桶供應，但由於市場帶著緩衝進入危機，且投資者一直預期海峽能重開，因此原油期貨始終未突破2022年高位。"
+    },
+    {
+      "id": "4871624",
+      "time": "2026-05-11 14:28:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國衛生部長表示，該郵輪上另外四名法國乘客新冠檢測結果為陰性，但仍將再次接受檢測。"
+    },
+    {
+      "id": "4871623",
+      "time": "2026-05-11 14:28:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【經英吉利海峽偷渡英國人數8年突破20萬】英國官方統計顯示，自8年前開始相關統計以來，乘小船橫渡英吉利海峽抵達英國的偷渡客人數已突破20萬。據英國天空新聞頻道10日援引英國內政部資料包道，截至本月8日，自2018年以來乘船經英吉利海峽偷渡英國的人數達到20萬零13人。僅8日一天，就有70人橫渡英吉利海峽，意味著今年這類偷渡客累計已達7380人。（新華社）"
+    },
     {
       "id": "4871622",
       "time": "2026-05-11 14:27:57",
@@ -116346,40 +116464,6 @@
         "國際"
       ],
       "text": "韓國KOSPI指數收盤上漲338.12點，漲幅5.12%，報6936.99點，創歷史新高。"
-    },
-    {
-      "id": "4859029",
-      "time": "2026-05-04 14:31:15",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "MSCI亞太指數上漲2.3%，創盤中歷史新高。"
-    },
-    {
-      "id": "4859028",
-      "time": "2026-05-04 14:30:46",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "法國央行行長維勒魯瓦：我們目前正面臨一場前所未有的衝擊。"
-    },
-    {
-      "id": "4859027",
-      "time": "2026-05-04 14:30:33",
-      "tags": [
-        "資料"
-      ],
-      "text": "瑞典4月製造業採購經理人指數（PMI）為57.2。"
-    },
-    {
-      "id": "4859026",
-      "time": "2026-05-04 14:30:22",
-      "tags": [
-        "市場"
-      ],
-      "text": "匈牙利3月份生產者價格指數同比上漲1.2%。匈牙利3月份生產者價格環比上漲3.9%。"
     }
   ]
 }
