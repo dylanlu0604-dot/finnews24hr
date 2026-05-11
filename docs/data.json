@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-12 05:25:00",
-  "count": 13883,
+  "updated": "2026-05-12 05:28:23",
+  "count": 13880,
   "items": [
     {
       "id": "te:economy:549743",
@@ -123002,38 +123002,6 @@
         "其他"
       ],
       "text": "國際原子能機構（IAEA）：團隊今日造訪了扎波羅熱核電站的外部輻射控制實驗室（ERCL）。此前一天，該核電站稱其遭到無人機襲擊。"
-    },
-    {
-      "id": "4860315",
-      "time": "2026-05-05 05:27:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗呼籲波斯灣各國摒棄對外安全依附，並稱美軍駐留實為累贅隱患。"
-    },
-    {
-      "id": "te:547583",
-      "time": "2026-05-05 05:26:57",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Ibovespa Falls as Middle East Risks Weigh — The Ibovespa dropped 0.9% to close at 185,600 on Monday, pressured by rising tensions in the Middle East. Oil prices jumped after reports that two missiles struck a US warship, though a senior US official denied the incident. The IRGC Navy released a map designating parts of the Strait of Hormuz under Iranian military control, warning it may act against vessels that breach its rules, raising concerns over shipping security. With the strait effectively closed, fears of an energy shock fueling global inflation persisted. Banks led losses, with Itaú down 1.8%, Bradesco falling 2.1%, and Banco do Brasil losing 1.3% after weak earnings. Vale dropped 3.1%, while Rede D’Or and WEG fell 1.2% and 1.1%, respectively. In contrast, Embraer rose 2.5% after Brazil’s manufacturing PMI hit a 14-month high, while Marfrig gained 3.3% on progress in its Middle East venture, Sadia Halal. Petrobras added 0.5%, supported by higher oil prices."
-    },
-    {
-      "id": "te:markets:547583",
-      "time": "2026-05-05 05:26:57",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Ibovespa Falls as Middle East Risks Weigh — The Ibovespa dropped 0.9% to close at 185,600 on Monday, pressured by rising tensions in the Middle East. Oil prices jumped after reports that two missiles struck a US warship, though a senior US official denied the incident. The IRGC Navy released a map designating parts of the Strait of Hormuz under Iranian military control, warning it may act against vessels that breach its rules, raising concerns over shipping security. With the strait effectively closed, fears of an energy shock fueling global inflation persisted. Banks led losses, with Itaú down 1.8%, Bradesco falling 2.1%, and Banco do Brasil losing 1.3% after weak earnings. Vale dropped 3.1%, while Rede D’Or and WEG fell 1.2% and 1.1%, respectively. In contrast, Embraer rose 2.5% after Brazil’s manufacturing PMI hit a 14-month high, while Marfrig gained 3.3% on progress in its Middle East venture, Sadia Halal. Petrobras added 0.5%, supported by higher oil prices."
     }
   ]
 }
