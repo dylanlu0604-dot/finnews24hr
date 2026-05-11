@@ -1,7 +1,93 @@
 {
-  "updated": "2026-05-11 23:49:28",
-  "count": 13842,
+  "updated": "2026-05-11 23:52:53",
+  "count": 13848,
   "items": [
+    {
+      "id": "mkt:019e17bd-b77c-7dd9-b923-d3f2c657e065",
+      "time": "2026-05-11 23:52:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TRUMP ADMINISTRATION TO TEMPORARILY REDUCE TARIFFS ON BEEF IMPORTS, SOURCES SAY - WSJ"
+    },
+    {
+      "id": "mkt:019e17bd-59aa-7dd9-b923-c8add37434cc",
+      "time": "2026-05-11 23:52:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "S&P 500 AND NASDAQ EXTEND GAINS; LAST UP 0.3%"
+    },
+    {
+      "id": "4872893",
+      "time": "2026-05-11 23:52:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數與納斯達克指數漲幅擴大，目前均上漲0.3%。"
+    },
+    {
+      "id": "4872892",
+      "time": "2026-05-11 23:51:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽評級：儘管主權評級上調，阿根廷大型企業評級仍保持不變。"
+    },
+    {
+      "id": "te:markets:549709",
+      "time": "2026-05-11 23:51:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Edges Higher — The FTSE 100 edged slightly higher on Monday, outperforming weaker European peers as gains in heavyweight oil stocks and a strong update from Compass supported the index. Shell rose 0.7% and BP added 1% as Brent crude climbed back above $103 per barrel after President Donald Trump rejected Iran’s latest peace proposal as “totally unacceptable.” Compass jumped more than 2% after raising its full-year profit guidance, helped by acquisitions and improving margins, with analysts pointing to stronger expected growth in the second half of the year. International Airlines Group also gained around 5.5% following strong first-quarter results that showed a 77% increase in operating profit. On the downside, Unilever fell more than 2%, while BAE Systems went down 1.6%, and Babcock fell 1.7%."
+    },
+    {
+      "id": "4872891",
+      "time": "2026-05-11 23:50:52",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普談伊朗： 他們以為我會對此感到厭倦、乏味，或是承受外界壓力。但我毫無壓力，完全沒有任何壓力。我們必將取得徹底勝利。"
+    },
+    {
+      "id": "4872890",
+      "time": "2026-05-11 23:50:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普： 庫爾德人只會一味索取、索取、再索取。他們在美國國會里名聲很好，國會方面稱他們作戰勇猛。但他們只有拿到報酬，才肯賣力打仗。"
+    },
+    {
+      "id": "te:markets:549708",
+      "time": "2026-05-11 23:50:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "American Express Stock Price Hits 4-week Low — American Express shares decreased to 312.21 USD, the lowest since April 2026. Over the past 4 weeks, American Express lost 3.55%, and in the last 12 months, it increased 4.48%."
+    },
+    {
+      "id": "4872889",
+      "time": "2026-05-11 23:49:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【聯合國內羅畢辦事處啟動擴建專案】聯合國秘書長古特雷斯與肯亞總統魯託11日在肯亞首都內羅畢共同啟動聯合國內羅畢辦事處擴建專案。該專案總投資3.4億美元，預計2029年完工，屆時內羅畢將成為繼紐約和日內瓦之後的第三大聯合國機構樞紐城市。（新華社）"
+    },
     {
       "id": "4872888",
       "time": "2026-05-11 23:48:08",
@@ -122523,32 +122609,6 @@
         "國際"
       ],
       "text": "澤連斯基：與俄羅斯達成僅為期一天的停火不可行。"
-    },
-    {
-      "id": "4859933",
-      "time": "2026-05-04 23:50:52",
-      "tags": [
-        "其他",
-        "焦點",
-        "國際"
-      ],
-      "text": "阿聯酋國家緊急危機與災害管理局釋出通報，稱遭遇第四波導彈威脅。防空系統正針對導彈威脅作出攔截響應。"
-    },
-    {
-      "id": "4859932",
-      "time": "2026-05-04 23:50:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網正式測定：05月04日23時19分在墨西哥（北緯16.60度，西經98.05度）發生5.5級地震，震源深度10千米。"
-    },
-    {
-      "id": "4859931",
-      "time": "2026-05-04 23:49:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿聯酋空中交通陷入中斷， 已有可靠訊息證實，沙迦機場與迪拜機場的航班執行均已受到影響。"
     }
   ]
 }
