@@ -1,7 +1,69 @@
 {
-  "updated": "2026-05-12 00:42:54",
-  "count": 13911,
+  "updated": "2026-05-12 00:46:17",
+  "count": 13913,
   "items": [
+    {
+      "id": "4872966",
+      "time": "2026-05-12 00:45:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國特使威特科夫、副總統萬斯、國務卿魯比奧與特朗普一同出席會議。"
+    },
+    {
+      "id": "mkt:019e17ed-859e-7dd9-b924-e4528ad194ca",
+      "time": "2026-05-12 00:45:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Hot",
+        "Policy",
+        "Breaking News 24h",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Trump Weighs Renewed Military Action Against Iran After Talks Stall】President Donald Trump met with his national security team Monday to discuss next steps in the Iran conflict, including possible renewed military action, after Tehran rejected a US proposal to end the war. Trump said Iran’s response was “inappropriate” and described the ceasefire as being “on massive life support.” US officials said Trump still wants a deal but is considering military options to pressure Iran over its nuclear program. Possible measures include restarting maritime operations in the Strait of Hormuz or resuming strikes on remaining Iranian targets. Officials said Trump is unlikely to order action before returning from his China trip later this week."
+    },
+    {
+      "id": "mkt:019e17ec-4d80-7dd9-b924-dcd2dfb2fed6",
+      "time": "2026-05-12 00:43:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "TRUMP WEIGHS MILITARY ACTION AGAINST IRAN: AXIOS TRUMP MEETING WITH NATIONAL SECURITY TEAM ON IRAN MONDAY: AXIOS"
+    },
+    {
+      "id": "4872965",
+      "time": "2026-05-12 00:43:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "標普500指數和納斯達克100指數迅速回吐漲幅。"
+    },
+    {
+      "id": "4872964",
+      "time": "2026-05-12 00:43:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普將與團隊討論伊朗戰爭的未來走向。"
+    },
+    {
+      "id": "4872963",
+      "time": "2026-05-12 00:43:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普週一與國家安全團隊就伊朗問題舉行會議。"
+    },
     {
       "id": "4872962",
       "time": "2026-05-12 00:42:17",
@@ -123175,46 +123237,6 @@
         "國際"
       ],
       "text": "對沖基金潘興廣場創始人兼CEO比爾·阿克曼：對美國紐約市長Mamdani的感覺“並不怎麼好”。你無法趕走華爾街的肯・格里芬這類人物。 趕走創收支柱企業與精英群體，並不能讓紐約變得物價親民、生活可負擔。"
-    },
-    {
-      "id": "4859983",
-      "time": "2026-05-05 00:43:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "IBM DB2 智慧中樞現已支援谷歌 Vertex AI 與英特爾 Gaudi 晶片進行AI 推理工作負載。"
-    },
-    {
-      "id": "4859982",
-      "time": "2026-05-05 00:43:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "美軍中央司令部司令布拉德·庫珀：美國的兩個任務是海上封鎖以及開闢霍爾木茲海峽航道。"
-    },
-    {
-      "id": "te:547549",
-      "time": "2026-05-05 00:42:59",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "CAC 40 Falls as Middle East Tensions Weigh — The CAC 40 dropped 1.7% to close at 7,976 on Monday, extending losses from the previous week amid uncertainty over US–Iran tensions. Iran’s navy said it turned away enemy warships in the Strait of Hormuz, while US Central Command stated no US ships had been hit. Oil prices jumped earlier in the session, raising concerns about the impact of higher crude costs on global inflation. Risk aversion weighed on luxury stocks, with L’Oréal down 1.7% and Hermès losing 2.2%. Industrials were also mostly lower, as Safran fell 2.9%. In contrast, Airbus rose 0.7% and STMicroelectronics gained 2.1%, supported by a tech rally on the Nasdaq."
-    },
-    {
-      "id": "te:markets:547549",
-      "time": "2026-05-05 00:42:59",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "CAC 40 Falls as Middle East Tensions Weigh — The CAC 40 dropped 1.7% to close at 7,976 on Monday, extending losses from the previous week amid uncertainty over US–Iran tensions. Iran’s navy said it turned away enemy warships in the Strait of Hormuz, while US Central Command stated no US ships had been hit. Oil prices jumped earlier in the session, raising concerns about the impact of higher crude costs on global inflation. Risk aversion weighed on luxury stocks, with L’Oréal down 1.7% and Hermès losing 2.2%. Industrials were also mostly lower, as Safran fell 2.9%. In contrast, Airbus rose 0.7% and STMicroelectronics gained 2.1%, supported by a tech rally on the Nasdaq."
     }
   ]
 }
