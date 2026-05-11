@@ -1,7 +1,23 @@
 {
-  "updated": "2026-05-12 00:56:31",
-  "count": 13907,
+  "updated": "2026-05-12 00:59:55",
+  "count": 13903,
   "items": [
+    {
+      "id": "mkt:019e17f8-f918-7dd9-b924-fcef3411203b",
+      "time": "2026-05-12 00:57:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "LABOUR AFFILIATED UNION BOSS: ‘VERY DIFFICULT’ TO SEE HOW STARMER CAN CONTINUE - TELEGRAPH"
+    },
+    {
+      "id": "4872974",
+      "time": "2026-05-12 00:57:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴勒斯坦：以色列佔領軍推土機已開始在被佔領耶路撒冷東南部阿勒埃伊扎裡耶鎮東部的阿爾馬沙特勒地區，拆除巴勒斯坦人的建築設施與商鋪。"
+    },
     {
       "id": "4872973",
       "time": "2026-05-12 00:53:02",
@@ -123127,66 +123143,6 @@
         "國際"
       ],
       "text": "【伊朗第一副總統：管控霍爾木茲海峽是伊朗的合法權利】伊朗第一副總統阿雷夫當地時間4日表示，管控霍爾木茲海峽是伊朗的合法權利，這一能力為抵禦外部壓力提供了重要保障。伊朗不尋求戰爭，但如果戰爭被強加，將作出果斷回應。（央視新聞）"
-    },
-    {
-      "id": "te:economy:547555",
-      "time": "2026-05-05 00:59:49",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "US 10-Year Treasury Note Hits 9-Month High — The yield on the US 10-year Treasury note rose to 4.456% on Monday, the highest since July 2025 as tensions in the Middle East escalated pushing oil prices higher again. The UAE reported intercepting Iranian cruise missiles aimed at several locations across the country, shattering the tenuous calm that had settled in after the ceasefire in early April. At the same time, investors are also looking ahead to the Treasury Department’s announcement of its borrowing plans for the next three months, alongside several speeches from Fed officials and jobs report. On the data front, the US economy is projected to have added around 60,000 jobs in April, marking a sharp slowdown from 178,000 in March, while the unemployment rate is likely to have held steady at 4.3%. Markets currently anticipate that the Fed will keep the funds rate unchanged for the remainder of the year, although the rise in energy cost may push it to raise the borrowing cost."
-    },
-    {
-      "id": "4860001",
-      "time": "2026-05-05 00:59:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "據Politico：美國國防部長赫格塞思、凱恩暫定於 5 月 12 日就軍事預算事宜出席聽證會作證。"
-    },
-    {
-      "id": "4860000",
-      "time": "2026-05-05 00:58:54",
-      "tags": [
-        "宏觀",
-        "公司",
-        "國際"
-      ],
-      "text": "【歐洲各國財長希望獲得Mythos訪問許可權以做好防禦準備】歐洲各國財政部長正在向Anthropic PBC施壓，要求其讓本地企業獲取Mythos人工智慧模型的訪問權，以免這些企業暴露在數字攻擊的風險之下，並落後於美國同行。“歐洲需要作出回應，”西班牙經濟大臣Carlos Cuerpo週一在布魯塞爾歐元集團財長會議前對記者表示。他表示，歐盟必須確定“我們能如何自我防禦，確保我們的企業能夠獲取這些模型，保護企業免受潛在風險的影響”。財長們週一將討論這一議題，因為各界越發擔心這個人工智慧模型一旦落入不法分子之手可能引發前所未有的數字攻擊。但迄今為止，歐洲企業尚未獲得Mythos的使用許可權，這讓它們無法評估這一尚未釋出的工具可能帶來的影響。"
-    },
-    {
-      "id": "4859999",
-      "time": "2026-05-05 00:57:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "據警方和消防部門稱，奧地利薩爾茨堡中央火車站因貨運列車洩漏危險物質而關閉。"
-    },
-    {
-      "id": "te:547553",
-      "time": "2026-05-05 00:57:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Gasoline Surges to 4-Year High — Gasoline future for delivery at the New York Harbor held near $3.70 per gallon, the highest in nearly four years, on the risk of longer supply disruptions from the Middle East. Iran stated it attacked two US military vessels and denied the US's claim that commercial ships had left the Persian Gulf, while UAE was under threat of missiles for the first time in weeks. This was opposite to US communications, escalating the ongoing conflict and extending the halt of oil and refined product from the region. Shipping activity through Hormuz has been halted since the start of March, disrupting 20 million bpd of oil and refined products for major importers. On top of that, jet fuel and diesel shortages in Europe and Asia drove major energy producers to prioritize their refining capacity for distillates instead of motor gasoline, exacerbating supply risks. Consequently, US gasoline stocks sank for the 11th straight week, depleting inventory ahead of the high-demand summer season."
-    },
-    {
-      "id": "te:markets:547553",
-      "time": "2026-05-05 00:57:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Gasoline Surges to 4-Year High — Gasoline future for delivery at the New York Harbor held near $3.70 per gallon, the highest in nearly four years, on the risk of longer supply disruptions from the Middle East. Iran stated it attacked two US military vessels and denied the US's claim that commercial ships had left the Persian Gulf, while UAE was under threat of missiles for the first time in weeks. This was opposite to US communications, escalating the ongoing conflict and extending the halt of oil and refined product from the region. Shipping activity through Hormuz has been halted since the start of March, disrupting 20 million bpd of oil and refined products for major importers. On top of that, jet fuel and diesel shortages in Europe and Asia drove major energy producers to prioritize their refining capacity for distillates instead of motor gasoline, exacerbating supply risks. Consequently, US gasoline stocks sank for the 11th straight week, depleting inventory ahead of the high-demand summer season."
     }
   ]
 }
