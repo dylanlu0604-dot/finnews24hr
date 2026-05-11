@@ -1,7 +1,77 @@
 {
-  "updated": "2026-05-11 15:32:45",
-  "count": 13271,
+  "updated": "2026-05-11 15:36:09",
+  "count": 13274,
   "items": [
+    {
+      "id": "te:markets:549589",
+      "time": "2026-05-11 15:34:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Socks Cautious to Kick Off the Week — Both the STOXX 50 and the STOXX 600 fluctuated around the flatline on Monday, starting the week on a cautious note as tensions in the Middle East persisted, with no signs of a swift resolution to the conflict. US President Trump rejected Iran’s counterproposal aimed at ending the 10-week conflict, calling it “totally unacceptable,” while Tehran vowed to “never bow.” As a result, oil prices moved higher, fueling concerns over the economic impact of a prolonged oil shock."
+    },
+    {
+      "id": "4871774",
+      "time": "2026-05-11 15:34:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【南網數字：公司未在廣西南寧開展算力建設專案】南網數字(301638)5月11日在互動平臺回覆稱，公司未在廣西南寧開展算力建設專案。"
+    },
+    {
+      "id": "4871772",
+      "time": "2026-05-11 15:34:02",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "蒂森克虜伯海洋系統執行長：中東衝突可能會進一步推動國防裝備需求。"
+    },
+    {
+      "id": "4871771",
+      "time": "2026-05-11 15:33:53",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗外交部：伊朗向美國提出的提議“並不過分”】據伊朗媒體11日報道，伊朗外交部發言人巴加埃表示，伊朗向美國提出的提議“並不過分”，而美國仍堅持“不合理的要求”。（新華社）"
+    },
+    {
+      "id": "4871770",
+      "time": "2026-05-11 15:33:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國前總理韓德洙就涉內亂案二審結果向最高法院提起上訴】據韓國紐西斯通訊社11日報道，韓國前總理韓德洙對其涉內亂案二審判決結果表示不服，向韓國大法院（最高法院）提起上訴。(新華社)"
+    },
+    {
+      "id": "4871769",
+      "time": "2026-05-11 15:33:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【小商品城：副總經理黃曉英辭職 聘任孫甜為副總經理】小商品城公告稱，因工作變動，黃曉英於2026年5月11日辭去副總經理職務，原定任期至2028年12月18日，辭職後不再擔任公司任何職務，且未持有公司股票。同日，公司召開董事會會議，審議透過聘任孫甜為副總經理，任期至本屆董事會屆滿。孫甜未持有公司股份，無關聯關係及不得任職情形。"
+    },
+    {
+      "id": "4871768",
+      "time": "2026-05-11 15:33:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中美元首會晤，上海美資企業最期待什麼？】“作為上海美資企業代表，我們非常高興看到兩國元首即將會晤。”上海美國商會會長鄭藝（Eric Zheng）告訴記者，期望透過此訪為美中經貿關係“定調”，找到兩國合作共贏之道。上海美國商會成立於1915年，如今擁有1000多家會員企業、3000多名會員，被外界視作“美國在華的商業之聲”。“穩定、可預期的兩國經貿關係，符合彼此根本利益，對我們企業而言一定是最大的利好。”鄭藝說。（解放日報）"
+    },
+    {
+      "id": "4871767",
+      "time": "2026-05-11 15:32:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "【5月11日滬深兩市漲停分析】創業板指漲超3%、科創50創歷史新高，半導體晶片產業集體爆發，全市成交額突破3.5萬億。福達合金5連板，大唐發電4連板，一圖看懂>>"
+    },
     {
       "id": "4871766",
       "time": "2026-05-11 15:32:22",
@@ -117090,50 +117160,6 @@
         "國際"
       ],
       "text": "伊朗外交部發言人：在美國對我們進行攻擊之前，霍爾木茲海峽一直是國際航運的安全通道。"
-    },
-    {
-      "id": "4859121",
-      "time": "2026-05-04 15:34:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "奧地利勞動局公佈的資料顯示，該國4月失業率為7.5%。"
-    },
-    {
-      "id": "4859120",
-      "time": "2026-05-04 15:34:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "【交通運輸部：5月3日，全社會跨區域人員流動量30056.4萬人次】2026年5月3日，全社會跨區域人員流動量30056.4萬人次，環比增長1%，同比增長3.7%。鐵路客運量1859.8萬人次，環比下降6%，同比增長2.5%。公路人員流動量（包括高速公路及普通國省道非營業性小客車人員出行量、公路營業性客運量）27813萬人次，環比增長1.6%，同比增長4%。其中，公路營業性客運量3911萬人次，環比下降0.7%，同比增長14.8%；高速公路及普通國省道非營業性小客車人員出行量23902萬人次，環比增長1.9%，同比增長2.4%。水路客運量198.5萬人次，環比下降5.3%，同比下降7.7%。民航客運量185.1萬人次，環比下降4%，同比下降11.8%。（交通運輸部）"
-    },
-    {
-      "id": "4859119",
-      "time": "2026-05-04 15:34:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部發言人： 美國難以放棄其強硬立場訴求。霍爾木茲海峽當前局勢，是美國對伊朗採取侵略行徑造成的結果。"
-    },
-    {
-      "id": "te:economy:547321",
-      "time": "2026-05-04 15:32:56",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Poland",
-        "Manufacturing PMI",
-        "Importance 1"
-      ],
-      "text": "Poland Manufacturing Remains in Contraction — Poland’s S&P Global Manufacturing PMI edged up to 48.8 in April 2026 from 48.7 in March, surpassing market expectations of 48.6 but remaining below the 50 threshold, signaling a twelfth straight month of deteriorating business conditions. It was weighed down by a faster decline in new orders, which fell for the thirteenth consecutive month amid weak demand and heightened uncertainty over supply chains and shortages linked to the Middle East conflict. Output declined, marking its eleventh contraction in the past year, though the pace was mild. Meanwhile, cost pressures surged, with input prices rising at the fastest rate since May 2022 due to higher raw material and transport costs. Firms passed these increases on, lifting output prices at the quickest pace since June 2022. Firms built up inventories and faced longer delivery times, while employment fell for the twelfth straight month. Manufacturers remained cautiously optimistic, though confidence slipped to a five-month low."
-    },
-    {
-      "id": "4859118",
-      "time": "2026-05-04 15:32:45",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內漲1%，現報109.26美元/桶。"
     }
   ]
 }
