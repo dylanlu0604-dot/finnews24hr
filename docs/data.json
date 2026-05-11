@@ -1,7 +1,166 @@
 {
-  "updated": "2026-05-11 23:35:26",
-  "count": 13800,
+  "updated": "2026-05-11 23:38:53",
+  "count": 13813,
   "items": [
+    {
+      "id": "mkt:019e17b0-cead-7dd9-b923-925e2f6cae9f",
+      "time": "2026-05-11 23:38:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TRUMP ON IRAN: NO PRESSURE AT ALL, WILL HAVE COMPLETE VICTORY"
+    },
+    {
+      "id": "mkt:019e17b0-604b-7dd9-b923-8f59288f562a",
+      "time": "2026-05-11 23:38:10",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "TRUMP: LOOKING TO APPROVE 7-OH"
+    },
+    {
+      "id": "mkt:019e17b0-2aad-7dd9-b923-87c10d98a88b",
+      "time": "2026-05-11 23:37:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TRUMP ON IRAN: DOING SERVICE TO THE WORLD"
+    },
+    {
+      "id": "mkt:019e17af-ef0f-7dd9-b923-79ef8dbada64",
+      "time": "2026-05-11 23:37:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "EUROPEAN INDEXES CLOSED MIXED, DAX +0.16%, FTSE100 +0.31%, CAC40 -0.69%, EUROSTOXX50 -0.33%, IBEX35 -0.26%, FTSEMIB +0.74%"
+    },
+    {
+      "id": "mkt:019e17af-e557-7dd9-b923-744f26f2c8a3",
+      "time": "2026-05-11 23:37:35",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "TRUMP: IRAN BLOCKADE WAS PART OF MILITARY GENIUS"
+    },
+    {
+      "id": "4872868",
+      "time": "2026-05-11 23:37:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普重申伊朗不能擁有核武器。"
+    },
+    {
+      "id": "4872867",
+      "time": "2026-05-11 23:37:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我有一個針對伊朗的計劃。"
+    },
+    {
+      "id": "4872866",
+      "time": "2026-05-11 23:36:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗方案不可接受。"
+    },
+    {
+      "id": "mkt:019e17af-3bcd-7dd9-b923-687deff3d0dc",
+      "time": "2026-05-11 23:36:54",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "TRUMP REITERATES IRAN CAN'T HAVE NUCLEAR WEAPON"
+    },
+    {
+      "id": "4872865",
+      "time": "2026-05-11 23:36:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：美方目前尚不清楚該如何從已遭摧毀的伊朗核設施中回收 “核塵埃”。"
+    },
+    {
+      "id": "mkt:019e17ae-dedd-7dd9-b923-67aedf77b5e0",
+      "time": "2026-05-11 23:36:35",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "TRUMP: HAVE A PLAN ON IRAN"
+    },
+    {
+      "id": "mkt:019e17ae-ba02-7dd9-b923-5dbd025842bc",
+      "time": "2026-05-11 23:36:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TRUMP: IRAN PROPOSAL UNACCEPTABLE"
+    },
+    {
+      "id": "4872864",
+      "time": "2026-05-11 23:36:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美國天然氣期貨漲超4.00%，現報3.128美元/百萬英熱。"
+    },
+    {
+      "id": "mkt:019e17ad-eabd-7dd9-b923-57292f315bb5",
+      "time": "2026-05-11 23:35:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "FTSE100",
+        "Impact bearish",
+        "GBPUSD",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "FINANCIAL CONDUCT AUTHORITY’S RATHI SAYS ‘WORRIED’ ABOUT INTEGRITY, FINANCIAL CRIME RISK IN PRIVATE MARKETS"
+    },
+    {
+      "id": "4872863",
+      "time": "2026-05-11 23:35:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：伊朗要求解凍數十億美元的被凍結資產，以結束與美國的戰爭。"
+    },
+    {
+      "id": "mkt:019e17ad-c143-7dd9-b923-4bce10dbb746",
+      "time": "2026-05-11 23:35:17",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "TRUMP: WOULD LIKE YOU TO LOOK AT PAYMENT SCHEDULES"
+    },
     {
       "id": "mkt:019e17ad-9da9-7dd9-b923-40e14a0bde37",
       "time": "2026-05-11 23:35:12",
@@ -122110,30 +122269,6 @@
         "國際"
       ],
       "text": "美國副總統萬斯： 紐約梅隆銀行正大力佈局人工智慧領域。 人工智慧是無需大幅增加開支、即可提升效能的工具。"
-    },
-    {
-      "id": "4859924",
-      "time": "2026-05-04 23:38:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "真主黨領導人納伊姆・卡西姆表示不會停火，指責以色列和美國持續採取侵略行徑，當前衝突局勢正不斷升級。"
-    },
-    {
-      "id": "4859923",
-      "time": "2026-05-04 23:37:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "【無人機襲擊致阿聯酋富查伊拉石油工業區起火】阿聯酋富查伊拉媒體辦公室4日證實，富查伊拉石油工業區發生火災，原因是受到一架來自伊朗方向的無人機襲擊。（新華社）"
-    },
-    {
-      "id": "4859922",
-      "time": "2026-05-04 23:36:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "【墨西哥南部發生6級地震 首都有震感】墨西哥國家地震局4日釋出初步報告說，該國南部瓦哈卡州當天發生6級地震，首都墨西哥城有震感。（新華社）"
     }
   ]
 }
