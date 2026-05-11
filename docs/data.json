@@ -1,7 +1,49 @@
 {
-  "updated": "2026-05-12 00:39:27",
-  "count": 13908,
+  "updated": "2026-05-12 00:42:54",
+  "count": 13911,
   "items": [
+    {
+      "id": "4872962",
+      "time": "2026-05-12 00:42:17",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普考慮對伊朗採取軍事行動。"
+    },
+    {
+      "id": "4872961",
+      "time": "2026-05-12 00:42:00",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國量化交易巨頭哈德遜河交易公司（HRT）斬獲64 億美元創紀錄市場交易收益。"
+    },
+    {
+      "id": "4872960",
+      "time": "2026-05-12 00:41:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國總統馬克龍：法國與歐洲同非洲開展合作共建的能力，對我們的未來至關重要。"
+    },
+    {
+      "id": "4872959",
+      "time": "2026-05-12 00:39:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊拉克訊息人士：伊朗革命衛隊聖城旅指揮官伊斯梅爾・卡阿尼已前往伊拉克，要求當地部分武裝團體不得與美國建立關係。他還就伊拉克政府向武裝組織輸送武器一事，向伊政府劃出了紅線。"
+    },
+    {
+      "id": "mkt:019e17e8-a49c-7dd9-b924-d6509ca3ac7b",
+      "time": "2026-05-12 00:39:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "THE CLAIM BY SOME WESTERN MEDIA ABOUT IRAN'S PROPOSAL FOR A 15-YEAR NUCLEAR SUSPENSION IS COMPLETELY FALSE, SAYS SOURCE CLOSE TO THE NUCLEAR NEGOTIATION TEAM"
+    },
     {
       "id": "4872958",
       "time": "2026-05-12 00:39:17",
@@ -123173,23 +123215,6 @@
         "Importance 0"
       ],
       "text": "CAC 40 Falls as Middle East Tensions Weigh — The CAC 40 dropped 1.7% to close at 7,976 on Monday, extending losses from the previous week amid uncertainty over US–Iran tensions. Iran’s navy said it turned away enemy warships in the Strait of Hormuz, while US Central Command stated no US ships had been hit. Oil prices jumped earlier in the session, raising concerns about the impact of higher crude costs on global inflation. Risk aversion weighed on luxury stocks, with L’Oréal down 1.7% and Hermès losing 2.2%. Industrials were also mostly lower, as Safran fell 2.9%. In contrast, Airbus rose 0.7% and STMicroelectronics gained 2.1%, supported by a tech rally on the Nasdaq."
-    },
-    {
-      "id": "4859981",
-      "time": "2026-05-05 00:42:03",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗國家電視臺訊息：伊朗軍方官員否認美軍關於伊朗多艘小型船隻被擊沉的報道。"
-    },
-    {
-      "id": "4859980",
-      "time": "2026-05-05 00:39:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：以色列內閣將於週三晚上召開會議。"
     }
   ]
 }
