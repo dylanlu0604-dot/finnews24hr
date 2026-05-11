@@ -1,7 +1,80 @@
 {
-  "updated": "2026-05-11 14:11:24",
-  "count": 13162,
+  "updated": "2026-05-11 14:14:51",
+  "count": 13167,
   "items": [
+    {
+      "id": "te:economy:549538",
+      "time": "2026-05-11 14:14:17",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Norway",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Norway Inflation Rate Slows to 3.4% — Norway’s annual inflation rate eased to 3.4% in April 2026 from 3.6% in March. Price growth mainly slowed for housing, water, electricity, gas and other fuels (3.6% vs 4.9% in March) and transport (2.4% vs 4.2%). Inflation also moderated for furnishings and household equipment (0.3% vs 2.4%) and restaurants and accommodation services (5.8% vs 6.3%). Meanwhile, price growth accelerated sharply for food and non-alcoholic beverages (6.6% vs 1.6%), alongside alcoholic beverages and tobacco (3.5% vs 3.2%), clothing and footwear (1.5% vs 1.4%), and recreation and culture (4.0% vs 3.9%). Inflation was unchanged for education services at 2.4%, while prices for personal care and miscellaneous goods remained in deflation (-1.3% vs -1.2%). On a monthly basis, the CPI rose 0.4%, accelerating from a 0.2% gain in the previous period. Meanwhile, the CPI-ATE, which excludes energy and tax effects, grew 3.2% year-on-year, the highest in three months, picking up from 3.0% in March."
+    },
+    {
+      "id": "4871596",
+      "time": "2026-05-11 14:13:08",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【沙特國家石油公司：全球原油市場或到2027年才能恢復正常】當前中東局勢前景不明，據美國方面10日訊息，沙烏地阿拉伯國家石油公司總裁兼執行長阿明·納賽爾當天表示，即使霍爾木茲海峽的航運立即恢復，原油市場仍需要幾個月的時間來恢復供需平衡。但如果霍爾木茲海峽的航運受限再持續數週，全球原油市場或將到2027年才會恢復正常。納賽爾還表示，過去兩個月，全球石油供應減少約10億桶。即便能源流動恢復正常，整個系統也需要一段時間才能迴歸常態。（央視新聞）"
+    },
+    {
+      "id": "4871595",
+      "time": "2026-05-11 14:12:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "住友金屬礦山高管：儘管中東局勢危機，但菲律賓鎳工廠的生產受到的影響將微乎其微，因為該廠所需的大部分硫酸都由我們位於日本的東陽工廠供應。"
+    },
+    {
+      "id": "mkt:019e15aa-2958-7dd9-b91b-a9de41d3cd0b",
+      "time": "2026-05-11 14:12:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "S.KOREA MARKET WATCHDOG: CLOSELY MONITORING RETAIL INVESTORS' LEVERAGED STOCK INVESTMENTS S.KOREA MARKET WATCHDOG: TO TAKE PRE-EMPTIVE MEASURES IF NEEDED FOR MARKET STABILITY"
+    },
+    {
+      "id": "4871594",
+      "time": "2026-05-11 14:12:08",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "韓國市場監管機構：必要時將採取先發制人措施維護市場穩定。"
+    },
+    {
+      "id": "4871593",
+      "time": "2026-05-11 14:12:05",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "韓國市場監管機構：正密切監控散戶投資者的股票槓桿投資活動。"
+    },
+    {
+      "id": "4871592",
+      "time": "2026-05-11 14:11:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【機構：預估2030年Micro LED CPO光收發模組產值將達8.48億美元】根據TrendForce集邦諮詢最新Micro LED產業研究，生成式AI驅動高速光通訊需求急速攀升，由於Micro LED具備僅1-2 pJ/bit的能耗，以及具有低於百億分之一的誤位元速率(Bit Error Rate, BER)，有望在垂直擴充套件(Scale-Up)的資料中心網路中，與AEC（主動式電纜）及VCSEL NPO（垂直共振腔面射型雷射近封裝光學）並列為機櫃內(Intra-Rack)三大短距高速傳輸方案。因此，TrendForce集邦諮詢預估，Micro LED CPO光收發模組市場產值將於2030年達8.48億美元"
+    },
+    {
+      "id": "4871591",
+      "time": "2026-05-11 14:11:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗塔斯尼姆通訊社：伊朗處決被判為以色列和美國從事間諜活動的男子。"
+    },
     {
       "id": "4871590",
       "time": "2026-05-11 14:10:35",
@@ -116088,31 +116161,6 @@
         "公司"
       ],
       "text": "阿聯酋阿布扎比國家石油公司執行長蘇丹·賈比爾表示：阿聯酋為重新定位自身在全球能源格局中的地位、退出石油輸出國組織（歐佩克）及歐佩克+所作出的主權決定，並非針對任何一方。"
-    },
-    {
-      "id": "4859017",
-      "time": "2026-05-04 14:14:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "阿聯酋阿布扎比國家石油公司（ADNOC）執行長蘇丹·賈比爾就霍爾木茲海峽問題發表講話：重要貿易航線的安全並非僅屬地區事務，而是全球共同責任。"
-    },
-    {
-      "id": "4859016",
-      "time": "2026-05-04 14:13:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "澳大利亞S&P/ASX 200指數收盤下跌0.4%，至8,697.10點。"
-    },
-    {
-      "id": "4859015",
-      "time": "2026-05-04 14:12:54",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【波音因737 MAX墜機事故再遭民事起訴】美國波音公司將於4日在芝加哥聯邦法院出庭，就一起與2019年衣索比亞航空公司波音737 MAX客機墜機事故有關的民事訴訟應訴。原告系事故遇難者薩米婭·斯圖莫的家屬。斯圖莫是一名美國籍非政府組織工作人員，2019年3月前往肯亞工作時，在上述墜機事故中喪生。2018年10月和2019年3月，印度尼西亞獅子航空公司和衣索比亞航空公司分別發生空難，總計346人喪生，失事飛機均為波音737 MAX客機，且都關聯客機的機動特性增強系統的自動防失速軟體錯誤啟用。"
     }
   ]
 }
