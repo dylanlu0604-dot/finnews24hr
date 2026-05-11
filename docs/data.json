@@ -1,7 +1,142 @@
 {
-  "updated": "2026-05-11 20:48:23",
-  "count": 13611,
+  "updated": "2026-05-11 20:51:56",
+  "count": 13620,
   "items": [
+    {
+      "id": "mkt:019e1717-dfc3-7dd9-b920-8025a6384247",
+      "time": "2026-05-11 20:51:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "HASSETT: DON'T WANT SOME GIANT NEW BUREAUCRACY TO APPROVE AI"
+    },
+    {
+      "id": "mkt:019e1717-9eb0-7dd9-b920-79a93f38fc38",
+      "time": "2026-05-11 20:51:24",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "WTI",
+        "Impact mixed",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "HASSETT: HIGH ENERGY PRICES VERY UNLIKELY TO CAUSE US RECESSION"
+    },
+    {
+      "id": "mkt:019e1717-8ed9-7dd9-b920-732d4dd11ff0",
+      "time": "2026-05-11 20:51:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100"
+      ],
+      "text": "S&P 500, NASDAQ 100 FUTURES EXTEND DROP; IRAN DEPLOYS SUBS"
+    },
+    {
+      "id": "4872529",
+      "time": "2026-05-11 20:50:33",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "標普500指數和納斯達克100指數期貨跌幅擴大；報道稱伊朗部署潛艇。"
+    },
+    {
+      "id": "4872528",
+      "time": "2026-05-11 20:50:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國白宮國家經濟委員會主任哈塞特：高能源價格極不太可能引發美國經濟衰退。"
+    },
+    {
+      "id": "4872527",
+      "time": "2026-05-11 20:49:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中芯國際：發行股份購買資產事項獲上交所併購重組委審議透過】中芯國際(688981.SH)公告稱，公司擬向國家積體電路產業投資基金等發行股份購買中芯北方積體電路製造(北京)有限公司49%股權。該事項已獲上交所併購重組稽核委員會審議透過，尚需經證監會同意註冊後方可實施。"
+    },
+    {
+      "id": "mkt:019e1715-e897-7dd9-b920-6d4286d4f228",
+      "time": "2026-05-11 20:49:27",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "HASSETT: NO RUSH WITH IRAN TALKS AS THEIR ECONOMY ON THE BRINK"
+    },
+    {
+      "id": "mkt:019e1715-d11f-7dd9-b920-6483efde4107",
+      "time": "2026-05-11 20:49:25",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "HASSETT SAYS IRAN'S ECONOMY ON THE BRINK OF 'COLLAPSE'"
+    },
+    {
+      "id": "4872526",
+      "time": "2026-05-11 20:49:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國白宮國家經濟委員會主任哈塞特：無需急於和伊朗展開談判，因其經濟已瀕臨崩潰邊緣。"
+    },
+    {
+      "id": "mkt:019e1715-acd9-7dd9-b920-5f2919345bee",
+      "time": "2026-05-11 20:49:16",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "HASSETT: WE'RE GOING INTO TRUMP-XI MEETING VERY 'AMBITIOUS"
+    },
+    {
+      "id": "mkt:019e1715-9aa2-7dd9-b920-50318e8da531",
+      "time": "2026-05-11 20:49:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "IRAN SAYS DEPLOYED DEEP-ROAMING SUBMARINES IN STRAIT OF HORMUZ"
+    },
+    {
+      "id": "mkt:019e1715-848c-7dd9-b920-4f854285317b",
+      "time": "2026-05-11 20:49:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "HASSETT: GUESS CHINA WOULD WANT TO REINSPECT ITS IRAN RELATIONS"
+    },
+    {
+      "id": "4872525",
+      "time": "2026-05-11 20:49:00",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "福克斯執行長：我們與美國國家橄欖球聯盟之間“實際上並沒有任何矛盾”。"
+    },
     {
       "id": "4872524",
       "time": "2026-05-11 20:48:10",
@@ -120186,38 +120321,6 @@
         "國際"
       ],
       "text": "歐洲央行金多斯：制定利率時保持冷靜至關重要。"
-    },
-    {
-      "id": "4859656",
-      "time": "2026-05-04 20:51:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國交通部長：精神航空的命運與伊朗戰爭無關。"
-    },
-    {
-      "id": "4859655",
-      "time": "2026-05-04 20:50:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "斯洛伐克總理菲科表示，他將於5月9日在莫斯科與普京會晤，不會參加閱兵式。"
-    },
-    {
-      "id": "4859654",
-      "time": "2026-05-04 20:50:47",
-      "tags": [
-        "市場"
-      ],
-      "text": "【強生美股盤前漲超3%】強生美股盤前漲超3%，現報235.01美元。"
-    },
-    {
-      "id": "4859653",
-      "time": "2026-05-04 20:49:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "立陶宛方面稱， 必須就關稅問題與美方展開談判。"
     }
   ]
 }
