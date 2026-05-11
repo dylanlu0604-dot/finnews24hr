@@ -1,7 +1,45 @@
 {
-  "updated": "2026-05-11 14:38:49",
-  "count": 13211,
+  "updated": "2026-05-11 14:42:14",
+  "count": 13209,
   "items": [
+    {
+      "id": "4871650",
+      "time": "2026-05-11 14:41:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【交通運輸部：上週監測港口貨物吞吐量環比下降7.14%】5月4日—5月10日，全國物流保通保暢執行資料：國家鐵路運輸貨物8258萬噸，環比增長2.2%；全國高速公路貨車通行5165.8萬輛，環比增長7.48%；監測港口完成貨物吞吐量25835.7萬噸，環比下降7.14%，完成集裝箱吞吐量664.8萬標箱，環比下降4.3%；民航保障航班11.7萬班（其中貨運航班4297班，包括國際貨運航班2873班，國內貨運航班1424班），環比下降5.17%；郵政快遞攬收量約39.8億件，環比增長9.43%；投遞量約38.34億件，環比增長2.43%。（交通運輸部）"
+    },
+    {
+      "id": "mkt:019e15c3-b253-7dd9-b91b-f3014533bb0d",
+      "time": "2026-05-11 14:40:07",
+      "tags": [
+        "MKT News",
+        "9984.T",
+        "Impact bullish"
+      ],
+      "text": "SOFTBANK REPORTS FY2026 Q4 OPERATING INCOME OF 158.43BN YEN; FULL-YEAR NET PROFIT CAME IN AT 550.76BN YEN VERSUS 526.13BN YEN A YEAR EARLIER"
+    },
+    {
+      "id": "te:markets:549556",
+      "time": "2026-05-11 14:39:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "ASX 200 Pares Losses at Finish — The S&P/ASX 200 dropped 45 points, or 0.5%, to close at 8,699 on Monday, extending losses from the prior session as weaker U.S. futures and surging oil prices rattled sentiment amid escalating U.S.–Iran tensions. Traders also turned cautious ahead of Australia’s 2026 federal budget due Tuesday, as Treasurer Jim Chalmers warned that global conflicts and persistent inflation were keeping the economy “hostage.” In China, Australia’s main trading partner, April consumer inflation accelerated, driven partly by higher transport costs linked to supply disruptions. However, losses on the ASX were capped as Beijing reported record high exports and imports in April, pushing the trade surplus above forecasts. Healthcare, financials, and consumer stocks led the decline. Among notable movers, Greatland Resources fell 2.4%, followed by JB Hi-Fi (-2.2%), and Qantas (-2.0%). CSL Ltd. plunged 15.5% after warning of an additional impairment charge for FY2026–27 and cutting its earnings outlook for 2026."
+    },
+    {
+      "id": "4871649",
+      "time": "2026-05-11 14:39:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "軟銀2026財年第四季度營業收入1584.3億日元。財年淨利潤5507.6億日元，上年同期5261.3億日元。"
+    },
     {
       "id": "4871648",
       "time": "2026-05-11 14:38:35",
@@ -116521,55 +116559,6 @@
         "國際"
       ],
       "text": "歐盟高官卡拉斯：美國計劃從德國撤出5000名美軍的公佈時機出人意料。"
-    },
-    {
-      "id": "4859046",
-      "time": "2026-05-04 14:41:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴基斯坦政府：伊朗船隻經必要維修後，也將返航至巴基斯坦海域，交還原船東。"
-    },
-    {
-      "id": "4859045",
-      "time": "2026-05-04 14:41:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "歐元集團主席：我們希望歐元區進一步擴張。"
-    },
-    {
-      "id": "4859044",
-      "time": "2026-05-04 14:41:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴基斯坦政府：船員將於週一移交給伊朗當局。"
-    },
-    {
-      "id": "4859043",
-      "time": "2026-05-04 14:41:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "現代汽車：4月全球銷量為130萬輛。"
-    },
-    {
-      "id": "4859042",
-      "time": "2026-05-04 14:40:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴基斯坦政府：被扣押的伊朗集裝箱船上22名船員已由美方疏散至巴基斯坦。"
-    },
-    {
-      "id": "4859041",
-      "time": "2026-05-04 14:38:58",
-      "tags": [
-        "央行",
-        "市場"
-      ],
-      "text": "哈薩克央行表示，其4月出售了價值3540億堅戈的外匯，以匹配黃金購買規模，並將於5月出售價值3540億堅戈的外匯。"
     }
   ]
 }
