@@ -1,7 +1,34 @@
 {
-  "updated": "2026-05-12 06:14:37",
-  "count": 13857,
+  "updated": "2026-05-12 06:18:00",
+  "count": 13858,
   "items": [
+    {
+      "id": "4873230",
+      "time": "2026-05-12 06:15:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【上市公司認購理財規模大降 閒置資金運用趨謹慎 】據Wind資料統計，截至5月11日，今年以來A股上市公司認購理財產品規模約為2528.78億元，有近600家公司參與其中。值得注意的是，與去年同期相比，今年以來上市公司認購理財產品規模下降約50%，參與企業數量與認購產品數量也同步下降。業內人士認為，在理財產品收益率預期下降、監管趨嚴的背景下，上市公司對於閒置資金的運用趨於謹慎。同時，隨著部分行業景氣度提升，不少上市公司的資金迴流主業。（中證報）"
+    },
+    {
+      "id": "te:markets:549744",
+      "time": "2026-05-12 06:15:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Indian Rupee Depreciates by 0.90% — Top currency losers are Indian Rupee (-0.90%), South Korean Won (-0.89%), Japanese Yen (-0.31%) and British Pound (-0.15%). Gains are led by Brazilian Real (0.52%) and Norwegian Krone (0.32%). Meanwhile, Dollar Index and Euro were little changed."
+    },
+    {
+      "id": "4873229",
+      "time": "2026-05-12 06:14:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中汽協資料顯示 4月新能源汽車市場保持平穩執行】5月11日，中國汽車工業協會在月度資訊釋出會上披露，4月，我國汽車產銷較去年同期小幅下降。其中，出口延續快速增長勢頭，對汽車市場形成穩定支撐；商用車市場保持增長，新能源汽車市場平穩執行。 中汽協資料顯示，4月，我國汽車產銷分別完成257.5萬輛和252.6萬輛，同比分別下降1.7%和2.5%。內需市場仍待改善提振。4月，汽車國內銷量完成162.5萬輛，同比下降21.6%。其中，傳統燃料汽車國內銷量71萬輛，同比下降32.2%。對於4月汽車產銷量的下滑，有受訪專家表示，主要受到年初“以舊換新”政策切換、新能源汽車購置稅補貼退坡、消費信心偏弱等多重短期因素影響。（中證報）"
+    },
     {
       "id": "4873228",
       "time": "2026-05-12 06:12:55",
@@ -122789,28 +122816,6 @@
         "國際"
       ],
       "text": "【能源價格飆升加劇歐盟經濟增長放緩和通脹水平能源價格飆升加劇歐盟經濟增長放緩和通脹水平】當地時間4日，歐盟委員會負責經濟事務的委員東布羅夫斯基斯在新聞釋出會上表示，由於中東戰事，能源價格飆升，上週石油價格突破每桶125美元。能源價格上漲影響歐洲經濟中的每一個參與者，包括企業和家庭，它們正將歐盟經濟推向增長放緩和通脹加劇的道路。東布羅夫斯基斯強調，信心下降、融資環境收緊和外部需求疲軟，都加劇了其直接影響。當下整體經濟影響將取決於衝突的演變，特別是其對能源供應和基礎設施的影響。但由於歐盟國家赤字和債務水平較高、利率環境較高以及迫切需要增加國防開支，歐盟的迴旋餘地十分有限。（央視新聞）"
-    },
-    {
-      "id": "te:547584",
-      "time": "2026-05-05 06:15:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: Swedish Krona Drops by 0.78% — Top currency losers are Swedish Krona (-0.78%), Polish Zloty (-0.60%), Indian Rupee (-0.47%), British Pound (-0.37%), Euro (-0.26%) and Japanese Yen (-0.13%). Gains are led by Brazilian Real (0.56%) and Dollar Index (0.33%)."
-    },
-    {
-      "id": "te:markets:547584",
-      "time": "2026-05-05 06:15:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: Swedish Krona Drops by 0.78% — Top currency losers are Swedish Krona (-0.78%), Polish Zloty (-0.60%), Indian Rupee (-0.47%), British Pound (-0.37%), Euro (-0.26%) and Japanese Yen (-0.13%). Gains are led by Brazilian Real (0.56%) and Dollar Index (0.33%)."
     }
   ]
 }
