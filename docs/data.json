@@ -1,7 +1,125 @@
 {
-  "updated": "2026-05-12 07:50:27",
-  "count": 13880,
+  "updated": "2026-05-12 07:53:50",
+  "count": 13890,
   "items": [
+    {
+      "id": "te:markets:549762",
+      "time": "2026-05-12 07:53:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Steady Ahead of CPI Report — US stock futures held steady on Tuesday as investors prepared for April’s consumer inflation report, which may offer fresh insight into how the Iran war is influencing the economy and shaping expectations for Federal Reserve policy. Traders also continued monitoring developments in the Middle East after President Trump said the US-Iran ceasefire was on “massive life support” following his rejection of Tehran’s latest peace proposal. Meanwhile, Trump is expected to meet with Chinese President Xi Jinping later this week, with trade and artificial intelligence likely to dominate discussions between the two leaders. During Monday’s regular session, the S&P 500 and Nasdaq Composite advanced 0.19% and 0.1%, respectively, with both indexes closing at fresh record highs as chipmakers extended gains amid ongoing optimism surrounding AI-driven demand. The Dow also added 0.19%. Six of the 11 major S&P sectors finished in positive territory, led by energy, materials, and industrial stocks."
+    },
+    {
+      "id": "4873321",
+      "time": "2026-05-12 07:53:14",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行會議紀要：一名成員表示，雖然目前無需倉促行動，但若無明顯經濟放緩跡象，日本央行應儘快加息。"
+    },
+    {
+      "id": "4873320",
+      "time": "2026-05-12 07:52:50",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行會議摘要：一名委員表示，即便中東局勢後續走向仍不明確，日本央行也很有可能從下次會議起啟動加息。"
+    },
+    {
+      "id": "4873319",
+      "time": "2026-05-12 07:52:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期金日內漲1%，現報4776.50美元/盎司。"
+    },
+    {
+      "id": "4873317",
+      "time": "2026-05-12 07:52:06",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行會議紀要：一名成員表示，在當前階段，優先抑制通脹的政策加息極有可能對經濟發展造成負面影響。"
+    },
+    {
+      "id": "4873316",
+      "time": "2026-05-12 07:51:51",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行會議摘要：一名成員表示，中東局勢的影響難以預判，央行在本次會議上需採取觀望態度。"
+    },
+    {
+      "id": "4873315",
+      "time": "2026-05-12 07:51:48",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行會議摘要：一名成員表示，日本央行可能需要應對物價上行偏離目標的風險。"
+    },
+    {
+      "id": "4873314",
+      "time": "2026-05-12 07:51:43",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行4月會議意見摘要：一名成員表示，鑑於實際利率已處於顯著低位，日本央行繼續上調政策利率是合適之舉。"
+    },
+    {
+      "id": "4873313",
+      "time": "2026-05-12 07:51:39",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行一位委員：有權加息以回應經濟和物價情況。"
+    },
+    {
+      "id": "4873312",
+      "time": "2026-05-12 07:51:33",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "一位日本央行委員表示：日本實際利率顯著偏低。"
+    },
+    {
+      "id": "4873311",
+      "time": "2026-05-12 07:51:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【巴克萊信用卡資料：英國消費者4月削減開支 為2024年底以來首見】週二公佈的調查顯示，受伊朗戰爭不斷擴大的經濟影響衝擊，英國消費者4月削減開支，是自2024年11月以來的首見，消費重點轉向生活必需品而非休閒娛樂。巴克萊表示，其信用卡和簽帳金融卡消費在4月同比下降0.1%，而3月為增長0.9%。巴克萊調查顯示，酒店和旅遊方面的消費大幅下滑。英國零售業聯盟（BRC）對零售商進行的另一項調查顯示，4月店內消費出現急劇下降，儘管其中可能有復活節假期影響因素。兩項調查均顯示，隨著英國家庭採取審慎的財務態度，高價商品的消費有所減少。這些資料與其他反映消費者信心動搖的經濟指標相呼應。"
+    },
+    {
+      "id": "mkt:019e1973-81f3-7dd9-b927-10608231b0d9",
+      "time": "2026-05-12 07:51:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Foreign Exchange Reserves (Apr) | actual 1382981000000B | previous 1374700000000B"
+    },
+    {
+      "id": "4873310",
+      "time": "2026-05-12 07:50:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本4月末外匯儲備為13,830.0億美元(3月末為13,747.0億)。"
+    },
     {
       "id": "4873309",
       "time": "2026-05-12 07:50:13",
@@ -122963,36 +123081,6 @@
         "其他"
       ],
       "text": "【中國檯球協會向吳宜澤致賀信】5月5日，中國檯球協會祝賀吳宜澤奪得2026年斯諾克世界錦標賽冠軍。"
-    },
-    {
-      "id": "4860403",
-      "time": "2026-05-05 07:53:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "【分析人士：美伊海上對峙持續 雙方恐陷入長期消耗】伊朗軍方稱，美軍驅逐艦無視警告試圖接近霍爾木茲海峽，伊朗開火反擊。阿聯酋稱當天遭到了導彈和無人機的襲擊。分析人士認為，伊朗目前正採取“懸崖戰術”，透過導彈警示美軍艦等行動將局勢推向衝突臨界點，迫使美國在軍事失控與經濟封鎖之間做選擇。美方則採取經濟和金融壓迫等“侵蝕戰略”，雙方恐將陷入長期消耗。（央視新聞）"
-    },
-    {
-      "id": "te:547602",
-      "time": "2026-05-05 07:53:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Silver Holds Losses on Mideast Escalation — Silver held below $73 an ounce on Tuesday after dropping nearly 2% in the previous session, pressured by intensifying tensions in the Middle East that have driven energy prices higher and amplified inflation concerns. US forces repelled Iranian attacks while escorting two US-flagged vessels through the Strait of Hormuz, while the UAE reported intercepting cruise missiles launched by Iran and attributed a major fire at its Fujairah port to an Iranian drone strike. These developments followed President Trump’s plan to restore shipping through Hormuz and support stranded vessels, although shipowners remain cautious amid elevated security risks. The latest escalation has cast doubt on the viability of the four-week ceasefire, with oil prices and global bond yields surging on expectations that central banks may need to raise interest rates to contain inflation. Silver is now down about 22% since the war started in late February."
-    },
-    {
-      "id": "te:markets:547602",
-      "time": "2026-05-05 07:53:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Silver Holds Losses on Mideast Escalation — Silver held below $73 an ounce on Tuesday after dropping nearly 2% in the previous session, pressured by intensifying tensions in the Middle East that have driven energy prices higher and amplified inflation concerns. US forces repelled Iranian attacks while escorting two US-flagged vessels through the Strait of Hormuz, while the UAE reported intercepting cruise missiles launched by Iran and attributed a major fire at its Fujairah port to an Iranian drone strike. These developments followed President Trump’s plan to restore shipping through Hormuz and support stranded vessels, although shipowners remain cautious amid elevated security risks. The latest escalation has cast doubt on the viability of the four-week ceasefire, with oil prices and global bond yields surging on expectations that central banks may need to raise interest rates to contain inflation. Silver is now down about 22% since the war started in late February."
     }
   ]
 }
