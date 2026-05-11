@@ -1,7 +1,62 @@
 {
-  "updated": "2026-05-11 07:58:59",
+  "updated": "2026-05-11 08:02:32",
   "count": 12831,
   "items": [
+    {
+      "id": "4871071",
+      "time": "2026-05-11 08:01:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "奇瑞與Autobacs（澳德巴克斯）的合資企業計劃到2029年在日本推出四款中國製造電動汽車車型，並在2030年之後在日本本土生產。（日經新聞）"
+    },
+    {
+      "id": "4871070",
+      "time": "2026-05-11 08:00:56",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "三星電子股價上漲超5%，創下歷史新高。"
+    },
+    {
+      "id": "te:markets:549424",
+      "time": "2026-05-11 08:00:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Ease on Middle East Uncertainty — US stock futures edged lower on Monday as uncertainty surrounding the Middle East conflict intensified after President Donald Trump described Iran’s response to his peace proposal as “TOTALLY UNACCEPTABLE.” The Strait of Hormuz remains effectively closed as Washington and Tehran continue to struggle toward a diplomatic resolution, keeping energy prices elevated and fueling concerns about inflation. Investors are also awaiting April US inflation data for further signs of how rising oil prices are feeding into broader price pressures across the economy. On the corporate side, earnings reports due this week include results from Constellation Energy, Fox Corporation, Barrick Mining, Applied Materials, and Ross Stores, among others. Last week, the S&P 500 and Nasdaq Composite advanced 2.33% and 4.51%, respectively, with both indexes reaching fresh record highs, supported by solid corporate earnings and continued momentum in technology shares."
+    },
+    {
+      "id": "4871069",
+      "time": "2026-05-11 08:00:50",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "日本日經平均股價創下歷史新高。"
+    },
+    {
+      "id": "4871068",
+      "time": "2026-05-11 08:00:40",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）開盤上漲3.7%，至7775.31點。"
+    },
+    {
+      "id": "4871067",
+      "time": "2026-05-11 08:00:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "【日韓股市開盤】日經225指數上午開盤報63203.44點，漲幅0.78％。韓國綜合股價指數（KOSPI）開盤上漲3.7％，至7775.31點。"
+    },
     {
       "id": "4871066",
       "time": "2026-05-11 07:57:24",
@@ -112702,60 +112757,6 @@
         "其他"
       ],
       "text": "中國奧園：委聘畢馬威諮詢（香港）為財務顧問。"
-    },
-    {
-      "id": "4858709",
-      "time": "2026-05-04 08:02:00",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "三星電子股價上漲3%。"
-    },
-    {
-      "id": "4858708",
-      "time": "2026-05-04 08:01:16",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4620美元/盎司，日內跌0.53%。"
-    },
-    {
-      "id": "4858707",
-      "time": "2026-05-04 08:01:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油突破102美元/桶，日內漲0.06%。"
-    },
-    {
-      "id": "4858706",
-      "time": "2026-05-04 08:00:48",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數（KOSPI）開盤上漲2.8%，至6782.93點。"
-    },
-    {
-      "id": "4858705",
-      "time": "2026-05-04 08:00:47",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4610美元/盎司，日內跌0.15%。"
-    },
-    {
-      "id": "4858704",
-      "time": "2026-05-04 08:00:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "應用材料公司將收購ASMPT的NEXX業務。"
     }
   ]
 }
