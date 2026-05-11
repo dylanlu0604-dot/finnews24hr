@@ -1,7 +1,26 @@
 {
-  "updated": "2026-05-12 06:28:15",
-  "count": 13856,
+  "updated": "2026-05-12 06:31:37",
+  "count": 13853,
   "items": [
+    {
+      "id": "te:markets:549746",
+      "time": "2026-05-12 06:30:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural gas Rallies by 6.04% — Top commodity gainers are Natural gas (6.04%), Natural Gas EU (5.82%), Natural Gas UK (5.15%), Brent Crude Oil (2.95%) and Crude Oil WTI (2.83%)."
+    },
+    {
+      "id": "4873234",
+      "time": "2026-05-12 06:28:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【百億級基金經理陣營新變化】在近年來的結構性行情中，百億級基金經理陣營也在發生變化：昔日的千億級“頂流”基金經理，由於固守傳統賽道，規模持續縮水；擁抱AI科技浪潮的新銳基金經理崛起，快速躋身百億級行列。與2025年底相比，截至今年一季度末，華泰柏瑞基金陳文凱、前海開源基金吳國清、銀華基金方建等管理規模均大幅增長，晉升為百億級基金經理。從這些管理規模快速攀升的基金經理來看，普遍抓住AI投資主線，基金業績較為出色。（上證報）"
+    },
     {
       "id": "4873233",
       "time": "2026-05-12 06:25:42",
@@ -122753,52 +122772,6 @@
         "公司"
       ],
       "text": "精神航空在法庭檔案中表示，受近期地緣政治事件導致燃油價格大幅且持續飆升影響，公司已於週末被迫永久停飛全部機隊。"
-    },
-    {
-      "id": "4860359",
-      "time": "2026-05-05 06:30:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗革命衛隊政治事務副主管：美國雖在炫耀武力、全力投入博弈，但最終必將遭遇失敗；特朗普當前的核心困境是重新打通霍爾木茲海峽，在為期40天的戰事期間及戰後，其用盡一切辦法，卻始終毫無成效；特朗普完全沒有能力讓局勢退回2月28日之前的狀態，也無法改變當前局面。"
-    },
-    {
-      "id": "te:547585",
-      "time": "2026-05-05 06:30:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Naphtha Surges by 6.53% — Top commodity gainers are Naphtha (6.53%), Natural Gas EU (6.20%), Brent Crude Oil (5.20%) and Crude Oil WTI (2.79%). Biggest losers are Natural Gas UK (-1.69%) and Ethanol (-0.73%)."
-    },
-    {
-      "id": "te:markets:547585",
-      "time": "2026-05-05 06:30:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Naphtha Surges by 6.53% — Top commodity gainers are Naphtha (6.53%), Natural Gas EU (6.20%), Brent Crude Oil (5.20%) and Crude Oil WTI (2.79%). Biggest losers are Natural Gas UK (-1.69%) and Ethanol (-0.73%)."
-    },
-    {
-      "id": "4860358",
-      "time": "2026-05-05 06:30:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗革命衛隊政治事務副主管表示，美伊對抗升級所造成的損失，美國將承受更大代價。"
-    },
-    {
-      "id": "4860357",
-      "time": "2026-05-05 06:29:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗外長：霍爾木茲海峽上的“自由計劃”是“僵局計劃”】伊朗外交部長阿拉格齊當地時間5日在社交媒體上表示，霍爾木茲海峽發生的種種事件清楚表明，政治危機無法透過軍事手段解決。隨著談判在巴基斯坦的積極斡旋下取得進展，美國應警惕被別有用心者再次拖入泥潭。阿聯酋亦應警惕。“自由計劃”就是“僵局計劃”。當地時間5月3日，美國總統特朗普宣佈啟動名為“自由計劃”的行動，“引導”被困船隻駛離霍爾木茲海峽。（央視新聞）"
     }
   ]
 }
