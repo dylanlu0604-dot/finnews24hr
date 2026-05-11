@@ -1,7 +1,84 @@
 {
-  "updated": "2026-05-11 16:19:43",
-  "count": 13303,
+  "updated": "2026-05-11 16:23:08",
+  "count": 13306,
   "items": [
+    {
+      "id": "4871892",
+      "time": "2026-05-11 16:22:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST興化：股東興化集團擬增持4000萬至7000萬元】ST興化公告，股東陝西興化集團有限責任公司擬自公告日起6個月內透過深交所集中競價、大宗交易增持公司股票，增持金額不低於4000萬元、不超過7000萬元；截至本公告日已持有2.22億股，佔公司總股本17.43%；資金來源為自有資金，增持期間及法定期限內不減持。"
+    },
+    {
+      "id": "4871890",
+      "time": "2026-05-11 16:22:14",
+      "tags": [
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【韓國KOSPI指數逼近8000點，韓國券商認為價格仍被低估】韓國KOSPI指數在突破7000點僅三天之後，就已逼近8000點的高位。即便如此，韓國國內主要券商的研究人員仍表示，股票價格尚未跟上盈利增長的步伐。據韓聯社5月11日報道稱，包括Meritz Securities（美利茲證券）、IBK投資證券和韓華投資證券在內的各大公司的研究部門負責人預計，由半導體股票引領的盈利重估現象暫時還會持續下去。他們還表示，即便將國內和國外的政治事件因素考慮在內，對晶片股進一步上漲的預期至少會持續到6月和7月。然而，一些研究人士表示，投資者應當考慮到在8月之後可能出現的回撥情況，他們指出，在市場經歷大幅短期上漲之後，獲利回吐的壓力正在不斷增大。"
+    },
+    {
+      "id": "4871889",
+      "time": "2026-05-11 16:21:20",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【浩瀚深度：2025年營收3.88億元 淨利潤虧損333.57萬元】浩瀚深度公告稱，國金證券對公司2025年度規範執行情況進行現場檢查。2025年公司營收3.88億元，同比下降12.35%；淨利潤虧損333.57萬元，同比下降109.23%；扣非淨利潤虧損1404.08萬元，同比下降154.94%。業績下降受運營商開支收縮、子公司業務未貢獻利潤、可轉債利息費用增加等因素影響。截至2025年底，可轉債募投專案進度低，部分專案存在延期風險，保薦機構提請公司合理評估並及時披露資訊。"
+    },
+    {
+      "id": "4871888",
+      "time": "2026-05-11 16:21:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京金融監管局提示：“交通安全統籌”不是車險】國家金融監督管理總局北京監管局11日釋出風險提示，“交通安全統籌”不是保險業務，不受金融監管部門監管，僅是交通運輸企業面向自有車輛開展的非經營性行業互助行為，提醒廣大消費者謹防上當受騙。（新華社）"
+    },
+    {
+      "id": "4871887",
+      "time": "2026-05-11 16:20:38",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "蒂森克虜伯海洋系統執行長：加拿大與德挪夥伴達成潛艇協議的速度會快於與韓國達成協議。"
+    },
+    {
+      "id": "4871886",
+      "time": "2026-05-11 16:20:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "【伍德沃德美股盤前跌超26%】伍德沃德美股盤前跌超26%，現報273.242美元。"
+    },
+    {
+      "id": "4871885",
+      "time": "2026-05-11 16:20:20",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "Lumentum美股盤前漲4%，公司將於5月18日起加入納斯達克100指數。"
+    },
+    {
+      "id": "mkt:019e161f-1da8-7dd9-b91c-91109a902a9f",
+      "time": "2026-05-11 16:19:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "HUNGARY'S NOMINEE FOR FOREIGN MINISTER ANITA ORBAN: HUNGARY'S NEW GOVERNMENT AIMS TO HAVE TRANSPARENT, EQUAL RELATIONSHIP WITH RUSSIA"
+    },
+    {
+      "id": "4871884",
+      "time": "2026-05-11 16:19:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "匈牙利外交部長提名人安妮塔·歐爾班：匈牙利總理馬扎爾將於下週出訪華沙。"
+    },
     {
       "id": "4871883",
       "time": "2026-05-11 16:19:27",
@@ -117360,60 +117437,6 @@
         "國際"
       ],
       "text": "阿聯酋貿易部長：目前正與美國就貨幣互換協議展開磋商。"
-    },
-    {
-      "id": "4859210",
-      "time": "2026-05-04 16:23:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿聯酋貿易部長：未來基礎設施專案將成為優先發展重點。"
-    },
-    {
-      "id": "4859209",
-      "time": "2026-05-04 16:22:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基：已與歐盟委員會主席馮德萊恩達成一致，將積極推進與歐盟的無人機協議。"
-    },
-    {
-      "id": "4859208",
-      "time": "2026-05-04 16:22:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基：與馮德萊恩討論了歐盟貸款第一期款項的撥付事宜。"
-    },
-    {
-      "id": "te:economy:547362",
-      "time": "2026-05-04 16:20:45",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Turkey",
-        "Balance of Trade",
-        "Importance 1"
-      ],
-      "text": "Turkey Trade Deficit Narrows in April — Turkey’s trade deficit narrowed to USD 8.5 billion in April 2026 from USD 12.1 billion in the same month a year ago, according to preliminary data from the Trade Ministry. This marks the smallest trade gap since January, amid a double-digit growth in exports that significantly outpaced the increase in imports. Exports surged 22.3% year-on-year to USD 25.4 billion, driven by higher sales of raw materials (20.6%), consumer goods (15.1%), and capital goods (34.9%). Germany remained the top export destination, followed by the US, Italy, England, and Spain. Imports rose 3.1% to USD 33.9 billion, amid increased purchases of raw materials (5.6%) and capital goods (1.6%), which offset a decline in consumer goods imports (-6.7%). China remained the leading source of imports, followed by Russia, Germany, the US, and Italy. In the first four months of the year, the country's trade gap widened to USD 37.2 billion from USD 34.6 billion, as imports (4.3%) rose more than exports (3.0%)."
-    },
-    {
-      "id": "4859207",
-      "time": "2026-05-04 16:20:24",
-      "tags": [
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "歐洲央行辛庫斯：加息的可能性更大。"
-    },
-    {
-      "id": "4859206",
-      "time": "2026-05-04 16:20:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "亞航長程（AirAsia X Bhd）即將接近達成協議，收購約150架空客集團（Airbus SE）A220飛機。"
     }
   ]
 }
