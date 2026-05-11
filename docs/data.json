@@ -1,7 +1,45 @@
 {
-  "updated": "2026-05-12 02:44:15",
-  "count": 13970,
+  "updated": "2026-05-12 02:47:43",
+  "count": 13972,
   "items": [
+    {
+      "id": "te:markets:549734",
+      "time": "2026-05-12 02:45:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Abbott Stock Price Hits 6-year Low — Abbott shares decreased to 82.25 USD, the lowest since April 2020. Over the past 4 weeks, Abbott lost 18.29%, and in the last 12 months, it decreased 37.67%."
+    },
+    {
+      "id": "mkt:019e185b-8888-7dd9-b926-2f6e0af9f504",
+      "time": "2026-05-12 02:45:12",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "DXY",
+        "Impact bullish",
+        "CNH",
+        "Impact bearish"
+      ],
+      "text": "CHINESE WIRELESS CHIPS MAKER QUECTEL WIRELESS SUES US GOVERNMENT OVER INCLUSION ON LIST OF COMPANIES ALLEGEDLY AIDING BEIJING'S MILITARY"
+    },
+    {
+      "id": "te:economy:549733",
+      "time": "2026-05-12 02:44:14",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "US Treasury Yields Advance Amid US-Iran Setback — The yield on the US 10-year Treasury note climbed around 5bps to 4.4% on Monday, as renewed tensions in US-Iran negotiations pushed oil prices higher and reignited inflation concerns. Sentiment deteriorated after President Trump rejected Iran’s response to his proposal, warning that the ceasefire was on “life support,” further fuelling fears of prolonged geopolitical instability in the Middle East. Meanwhile, US inflation data due tomorrow will be closely watched for further clues on the Fed’s next policy steps. The Fed is widely expected to keep the federal funds rate unchanged this year, while investors currently see a 31% chance of a rate hike in March. Investors were also looking ahead to a summit between US President Trump and Chinese President Xi Jinping expected later this week. According to US officials, the two leaders are set to discuss Iran, Taiwan, artificial intelligence, nuclear weapons, and critical minerals."
+    },
     {
       "id": "mkt:019e1859-e56d-7dd9-b926-244a3ab1c8fb",
       "time": "2026-05-12 02:43:25",
@@ -123751,14 +123789,6 @@
         "國際"
       ],
       "text": "【伊朗警告阿聯酋勿當以色列棋子】伊朗塔斯尼姆通訊社當地時間5月4日晚援引一名伊朗軍方訊息人士的話報道說，“如果阿聯酋成為以色列的‘棋子’，犯下錯誤，他們將得到永遠不會忘記的教訓。”這名訊息人士強調，如果阿聯酋“採取不理智的行動”，其所有利益“都將成為伊朗的目標”，任何阿聯酋設施“都不會安全”。（CCTV國際時訊）"
-    },
-    {
-      "id": "4860070",
-      "time": "2026-05-05 02:45:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "【澤連斯基稱烏方尚未收到關於5月9日停火的相關提議】當地時間5月4日，烏克蘭總統澤連斯基在埃裡溫舉行的歐洲政治共同體峰會期間接受採訪時表示，烏方尚未收到任何關於5月9日停火的正式聯絡及相關提議。澤連斯基指出，美國與俄羅斯已就5月9日可能實施的停火事宜展開溝通，但相關溝通完全未涉及烏方。他強調，當前衝突發生在俄羅斯與烏克蘭之間，因此烏方有權瞭解美俄溝通所達成的相關協議。（央視新聞）"
     }
   ]
 }
