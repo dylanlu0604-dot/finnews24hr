@@ -1,7 +1,169 @@
 {
-  "updated": "2026-05-11 18:30:35",
-  "count": 13374,
+  "updated": "2026-05-11 18:34:06",
+  "count": 13389,
   "items": [
+    {
+      "id": "4872179",
+      "time": "2026-05-11 18:33:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【多利科技：董事長鄧麗琴等多名股東擬減持股份】多利科技公告，實際控制人之一致行動人、董事長鄧麗琴持股7250.18萬股，佔23.3493%，擬自公告披露起15個交易日後3個月內透過集中競價或大宗交易減持不超310.51萬股，佔1.0000%，減持價不低於26.84元/股；董事王玉萍、副總經理高國環、財務總監曹峰各持股17.58萬股，佔0.0566%，均擬以集中競價減持不超43940股，佔0.0142%。"
+    },
+    {
+      "id": "4872178",
+      "time": "2026-05-11 18:33:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會發言人：我們與Anthropic進行了良好的溝通，目前尚未進入可對該人工智慧模型的潛在准入問題進行猜測的階段。"
+    },
+    {
+      "id": "4872177",
+      "time": "2026-05-11 18:33:14",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【大唐發電：連續四個交易日內日收盤價格累計漲幅偏離大盤指數43.65%】大唐發電釋出風險提示，公司股票於2026年5月6日、5月7日、5月8日連續三個交易日內日收盤價格漲幅偏離值累計超過20%，根據《上海證券交易所交易規則》的有關規定，屬於股票交易異常波動情形。2026年5月6日至5月11日連續四個交易日內日收盤價格累計漲幅偏離大盤指數43.65%、偏離火電指數38.49%，偏離大盤指數和所屬行業指數。公司所屬電力、熱力生產和供應業最新市淨率為1.86倍，公司最新市淨率為3.06倍，高於行業平均水平。經公司自查，公司目前生產經營活動一切正常，日常經營情況未發生重大變化。市場環境或行業政策未發生重大調整，生產成本和銷售等情況未出現大幅波動，內部生產經營秩序正常。本公司董事和高階管理人員正常履行職責。"
+    },
+    {
+      "id": "mkt:019e1699-235a-7dd9-b91e-2f6a09a8557f",
+      "time": "2026-05-11 18:33:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EU COMMISSION'S SPOKESPERSON: WE HAVE GOOD EXCHANGES WITH ANTRHOPIC, WE ARE NOT AT A STAGE WHERE WE CAN SPECULATE ON POTENTIAL ACCESS TO AI MODEL"
+    },
+    {
+      "id": "4872176",
+      "time": "2026-05-11 18:33:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【羅普特：首次出售60000股已回購股份】羅普特公告，公司於2026年5月11日透過集中競價交易方式首次出售已回購股份60000股，佔公司總股本的0.03%，成交總額為102.99萬元，成交最高價為17.25元/股，最低價為17.08元/股，均價為17.17元/股。"
+    },
+    {
+      "id": "4872175",
+      "time": "2026-05-11 18:32:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【奇安信與西安理工大學達成戰略合作】據奇安信訊息，近日，奇安信與西安理工大學戰略合作協議簽約儀式在西安理工大學電腦科學與工程學院舉行。雙方將在技術合作創新、產學研合作、人才交流培養等方面進行深入合作。"
+    },
+    {
+      "id": "4872174",
+      "time": "2026-05-11 18:32:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "美銀全球研究將必能寶的評級從“弱於大盤”上調至“中性”後，該股盤前股價上漲3.7%。"
+    },
+    {
+      "id": "4872173",
+      "time": "2026-05-11 18:32:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會發言人：與Anthropic就Mythos進行持續接觸。我們已經與Anthropic舉行了四到五次會議，並在不同階段與OpenAI和Anthropic進行了交談。"
+    },
+    {
+      "id": "4872172",
+      "time": "2026-05-11 18:32:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會發言人：我們歡迎OpenAI主動接洽，包括開放其人工智慧模型訪問許可權的可能性。"
+    },
+    {
+      "id": "4872171",
+      "time": "2026-05-11 18:32:01",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "鐵穹系統製造商拉斐爾公司董事長：以色列鐵穹防禦系統對真主黨、哈馬斯發射的火箭彈攔截有效率達99%。"
+    },
+    {
+      "id": "mkt:019e1697-fe67-7dd9-b91e-23dec71fd437",
+      "time": "2026-05-11 18:31:57",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "EU COMMISSION'S SPOKESPERSON: WE WELCOME PROACTIVE ENGAGEMENT FROM OPENAI, INCLUDING POSSIBILITY TO GIVE ACCESS TO ITS AI MODEL"
+    },
+    {
+      "id": "4872170",
+      "time": "2026-05-11 18:31:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【領匯e9正式上市 售價15.08萬起】5月9日，領匯汽車第二款戰略車型領匯e9正式上市。據介紹，領匯e9定位“閃充商務C級轎車”，搭載閃充技術、第二代刀片電池、天神之眼輔助駕駛系統等配置。領匯e9共推出535豪華版、605閃充豪華版、605閃充旗艦版三款配置，官方指導價15.08-16.98萬元。（新浪科技）"
+    },
+    {
+      "id": "4872169",
+      "time": "2026-05-11 18:31:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "自然資源部與中國氣象局5月11日18時聯合釋出地質災害氣象風險預警：預計，5月11日20時至12日20時，雲南南部、新疆西北部等地部分地區發生地質災害的氣象風險較高（黃色預警）。各級政府及有關部門按照應急預案做好地質災害防禦工作。"
+    },
+    {
+      "id": "4872168",
+      "time": "2026-05-11 18:31:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "倫鋁日內漲幅達2.00%，現報3545.20美元/噸。"
+    },
+    {
+      "id": "mkt:019e1697-a52e-7dd9-b91e-1efc03818d7c",
+      "time": "2026-05-11 18:31:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ISRAEL'S IRON DOME 99% EFFECTIVE AGAINST HEZBOLLAH, HAMAS ROCKETS, SAYS CHAIRMAN OF IRON DOME MAKER RAFAEL"
+    },
+    {
+      "id": "te:economy:549631",
+      "time": "2026-05-11 18:31:32",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Latvia",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Latvia Trade Deficit Widens in March — Latvia’s trade deficit widened to EUR 394.6 million in March 2026 from EUR 270.1 million in the corresponding month a year earlier. Imports climbed 11.4% year-on-year to EUR 2,241.7 million, driven by higher purchases of mineral fuels, oil and refined petroleum products (58.2%), mechanisms and mechanical devices (13.9%), and pharmaceutical products (43.5%). Imports also increased from EU countries (11.4%) and non-EU countries (16.2%). Meanwhile, exports rose at a slower pace of 6% to EUR 1,847.1 million, supported by higher shipments of mineral fuels, oil and refined petroleum products (15.6%), electrical equipment and appliances (4.6%), machinery and mechanical appliances (10%), and alcoholic and non-alcoholic beverages (33.9%). Among key trading partners, exports rose to EU countries (11.5%), and CIS countries (25.8%). In the first three months of the year, the country’s trade deficit widened to EUR 900.1 million from EUR 610.3 million in the same period last year."
+    },
+    {
+      "id": "4872167",
+      "time": "2026-05-11 18:31:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度化肥補貼預計每月增加1000 億至 1500 億印度盧比。"
+    },
+    {
+      "id": "mkt:019e1697-0792-7dd9-b91e-115e6372858d",
+      "time": "2026-05-11 18:30:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRANIAN FARS NEWS AGENCY: EXPLOSION IN A BUILDING IN ARAK"
+    },
+    {
+      "id": "mkt:019e1696-d5a9-7dd9-b91e-0994807baa60",
+      "time": "2026-05-11 18:30:44",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "EU COMMISSION'S SPOKESPERSON: WE HAVE ALREADY HAD LIKE FOUR OR FIVE MEETINGS WITH ANTHROPIC, TALKS WITH OPENAI AND ANTHROPIC AT DIFFERENT STAGES"
+    },
     {
       "id": "te:markets:549630",
       "time": "2026-05-11 18:30:18",
@@ -118025,42 +118187,6 @@
         "市場"
       ],
       "text": "挪威郵輪公司股價盤前下跌5.5%，因其全年盈利展望低於市場預期。"
-    },
-    {
-      "id": "4859458",
-      "time": "2026-05-04 18:32:54",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "貨幣市場定價顯示，歐洲央行到6月加息的機率已超過90%。"
-    },
-    {
-      "id": "4859457",
-      "time": "2026-05-04 18:32:40",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國否認一艘美國船隻遭到伊朗導彈襲擊。"
-    },
-    {
-      "id": "4859456",
-      "time": "2026-05-04 18:32:27",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國官員否認美國軍艦遭伊朗導彈擊中。"
-    },
-    {
-      "id": "4859455",
-      "time": "2026-05-04 18:32:09",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "挪威郵輪公司：中東衝突相關近期事件已對旗下全部三個品牌的預訂業務造成影響。"
     }
   ]
 }
