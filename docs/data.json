@@ -1,7 +1,63 @@
 {
-  "updated": "2026-05-11 14:21:39",
-  "count": 13180,
+  "updated": "2026-05-11 14:25:08",
+  "count": 13185,
   "items": [
+    {
+      "id": "te:economy:549545",
+      "time": "2026-05-11 14:24:10",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Norway",
+        "Producer Prices Change",
+        "Importance 1"
+      ],
+      "text": "Norway Producer Inflation Highest Since 2022 — Producer prices in Norway climbed by 22.7% year-on-year in April 2026, accelerating from a 16.9% surge in the previous month. This marked the second consecutive month of increase and the sharpest since September 2022, driven largely by significantly higher prices for electricity, gas and steam (46.5% vs 46% in March), energy goods (39% vs 26.6%), and extraction of oil and natural gas (35.5% vs 25.3%). Producer inflation also went up for manufacturing (7.4% vs 1.5%), particularly for refined petroleum products (42.3% vs 46%) and basic metals (10.4% vs 7.2%). Excluding energy goods, producer prices rose by 4.5%, following a 3.7% gain in March. On a monthly basis, producer prices fell by 0.5% in April, reversing sharply from an 18.4% increase in the preceding period."
+    },
+    {
+      "id": "4871616",
+      "time": "2026-05-11 14:23:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "匈牙利提名經濟與能源事務部長卡皮塔尼：公共資金將基於經濟效益而非政治忠誠度分配。"
+    },
+    {
+      "id": "4871615",
+      "time": "2026-05-11 14:23:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "【傑富瑞：伊朗堅持的時間可能會超過特朗普的耐心】Jefferies的Mohit Kumar在一份報告中表示，在美國總統和伊朗拒絕了彼此結束戰爭的提議後，“不戰不和“的局面繼續存在。這位全球經濟學家表示，伊朗拒絕拆除其核專案（這是美國總統特朗普的一項關鍵要求），同時霍爾木茲海峽實際上仍處於關閉狀態。“特朗普確實希望達成一項協議，但他需要向支持者表明，美國成功達成了一項核協議，而這正是參戰的全部意義所在。”Kumar說，美國經濟的韌性表明，這場戰爭目前尚未對美國產生任何實質性影響，而時間在伊朗一邊，其堅持的時間可能會超過特朗普的耐心。"
+    },
+    {
+      "id": "te:economy:549544",
+      "time": "2026-05-11 14:23:13",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Lithuania",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Lithuania Inflation Rate Highest Since 2023 — Lithuania’s annual inflation rate rose to 5.3% in April 2026 from 4.8% in the previous month, marking the highest level since August 2023. Prices climbed for transport (14.2% vs 8.3% in March), while continuing to rise for housing and utilities (7.1% vs 6.5%), restaurants and accommodation services (6.3% vs 6%), information and communication (2.8% vs 1.7%), and education (3.5% vs 3.4%). Price growth also rebounded in furnishings, household equipment, and routine household maintenance (2% vs -0.5%). In contrast, price increases slowed for food and non-alcoholic beverages (0.9% vs 2.4%), alcoholic beverages and tobacco (7.6% vs 7.9%), health (2.8% vs 3%), recreation, sport and culture (7.3% vs 7.8%), and personal care, social protection, and miscellaneous goods and services (4.1% vs 5.6%), while clothing and footwear prices declined (-0.4% vs 0.4%). On a monthly basis, consumer prices eased 0.6% in April after a 1.5% increase in the prior period."
+    },
+    {
+      "id": "4871614",
+      "time": "2026-05-11 14:22:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【巴西免簽了：今天起巴西免簽入境】今天（11日）起， 持普通護照的中國公民可免簽入境巴西。巴西政府7日宣佈，2026年5月11日至12月31日，持有效普通護照來巴西旅遊、經商、過境以及從事文藝或體育活動的中國公民，可免簽入境，停留期不超過30天且不可延期。 （央視財經）"
+    },
+    {
+      "id": "4871613",
+      "time": "2026-05-11 14:22:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蔚來申請註冊NIOBOT商標 蔚來申請註冊NOMIBOT商標】天眼查智慧財產權資訊顯示，近日，上海蔚來汽車有限公司申請註冊多枚“NIOBOT”“NOMIBOT”“NEOBOT”商標，國際分類包括餐飲住宿、社會服務等，當前商標狀態均為等待實質審查。該公司成立於2015年5月，法定代表人為秦力洪，註冊資本30億美元，經營範圍包括以自有資金從事投資活動、投資管理、汽車零配件批發等，由蔚來控股有限公司全資持股。"
+    },
     {
       "id": "4871612",
       "time": "2026-05-11 14:21:28",
@@ -116262,14 +116318,6 @@
         "國際"
       ],
       "text": "薩博稱希望今年能與烏克蘭最終敲定戰鬥機交易。"
-    },
-    {
-      "id": "4859023",
-      "time": "2026-05-04 14:22:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "據歐洲-地中海地震中心訊息，當地時間5月4日14時許，菲律賓薩馬省發生6.0級地震，震源深度56公里。"
     }
   ]
 }
