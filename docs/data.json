@@ -1,7 +1,70 @@
 {
-  "updated": "2026-05-11 23:56:21",
-  "count": 13857,
+  "updated": "2026-05-11 23:59:46",
+  "count": 13863,
   "items": [
+    {
+      "id": "4872905",
+      "time": "2026-05-11 23:58:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我願意為國家擋子彈。"
+    },
+    {
+      "id": "4872904",
+      "time": "2026-05-11 23:58:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲7%，現報85.97美元/盎司。"
+    },
+    {
+      "id": "te:markets:549710",
+      "time": "2026-05-11 23:58:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Rises on Energy and Utilities Gains — The FTSE MIB rose 0.8% to close at 49,665 on Monday, supported by gains in the utilities and energy sectors. Eni climbed 3.0% as oil prices rose amid renewed US-Iran tensions, while Enel gained 2.7%. Other notable performers included Prysmian (+3.2%), Tenaris (+1.9%), and STMicroelectronics (+2.6%). On the earnings front, Mediobanca rose 0.6% ahead of its earnings release scheduled for Tuesday. BPER Banca (+0.6%), Snam (0.0%), Recordati Ord. (-0.2%), and Infrastrutture Wireless (+2.2%) are also set to report results this week. Meanwhile, luxury stocks underperformed amid weaker risk appetite, with Ferrari (-2.9%), Moncler (-5.0%), and Brunello Cucinelli (-3.3%) posting losses. Leonardo fell 3.5%, while Stellantis declined 1.5%."
+    },
+    {
+      "id": "mkt:019e17c2-37e6-7dd9-b923-e9a88ea5bf27",
+      "time": "2026-05-11 23:57:44",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "TRUMP PRAISES STOCK MARKET PERFORMANCE"
+    },
+    {
+      "id": "4872903",
+      "time": "2026-05-11 23:56:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國將暫停對牛肉實施年度關稅配額。"
+    },
+    {
+      "id": "4872902",
+      "time": "2026-05-11 23:56:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普稱伊朗對美方案的回應愚蠢】美國總統特朗普5月11日在白宮對媒體表示，伊朗對美國所提方案的回應“愚蠢”，“停火協議已岌岌可危”。"
+    },
+    {
+      "id": "4872901",
+      "time": "2026-05-11 23:56:15",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普政府最早將於下週一暫時降低牛肉進口關稅。"
+    },
     {
       "id": "4872900",
       "time": "2026-05-11 23:56:00",
@@ -122685,15 +122748,6 @@
         "國際"
       ],
       "text": "伊朗東北部馬什哈德一購物中心突發火災，已有四座消防站趕赴現場處置。"
-    },
-    {
-      "id": "4859938",
-      "time": "2026-05-04 23:56:50",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【德國副總理：如果美方加徵關稅 歐盟將反制】德國副總理兼財政部長克林拜爾4日呼籲美國總統特朗普履行去年夏天與歐盟達成的關稅協議。克林拜爾表示，“歐洲信守承諾，現在我希望美方也能如此。加徵關稅會損害歐美雙方的企業和就業。”與此同時，克林拜爾明確表示，如果特朗普將歐盟輸美汽車關稅從此前的15%提高至25%，歐盟將會進行反制。克林拜爾稱，包括德國在內的歐盟國家立場很明確，“我們不希望事態升級，但是也做好了應對事態升級的準備。”（央視新聞）"
     }
   ]
 }
