@@ -1,7 +1,32 @@
 {
-  "updated": "2026-05-12 06:48:32",
+  "updated": "2026-05-12 06:51:55",
   "count": 13856,
   "items": [
+    {
+      "id": "4873252",
+      "time": "2026-05-12 06:51:15",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院：特朗普政府持續針對伊朗革命衛隊的金融網路實施打擊。"
+    },
+    {
+      "id": "4873251",
+      "time": "2026-05-12 06:50:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【下一代火星直升機旋翼轉速突破音速】據美國國家航空航天局（NASA）官網最新報道，美國已完成下一代火星直升機旋翼關鍵測試，其葉片尖端速度在模擬火星大氣環境中突破音速達到1.08馬赫（1馬赫即1倍音速），這將為未來火星飛行器攜帶更重科學儀器與有效載荷、開展低空探索奠定基礎。"
+    },
+    {
+      "id": "4873250",
+      "time": "2026-05-12 06:49:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議院少數黨領袖舒默：參議院共和黨上週公佈的720億美元和解法案充分暴露了他們的優先事項：在毫無監管約束的情況下向ICE和邊境巡邏隊注入數百萬美元資金，同時動用10億美元納稅人錢款為特朗普修建金碧輝煌的宴會廳，而幫助美國民眾應對不斷攀升的生活成本的撥款卻是零。這是可恥的，民主黨人將動用我們手中的一切工具來阻止這項法案。"
+    },
     {
       "id": "4873249",
       "time": "2026-05-12 06:47:08",
@@ -122759,42 +122784,6 @@
         "其他"
       ],
       "text": "【iOS27自定義錢包通行證】科技記者馬克 · 古爾曼（Mark Gurman）稱，蘋果正在開發一項功能，將允許使用者從電影票、音樂會通行證和健身房會員卡等物品的掃描中生成數字通行證。 該選項將稱為“Create a Pass（建立通行證）”，它將連線 Wallet 錢包應用與不相容該應用的通行證。"
-    },
-    {
-      "id": "te:547589",
-      "time": "2026-05-05 06:50:50",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "New Zealand Stocks Snap 4-Session Winning Streak — The NZX 50 fell 83 points, or 0.6%, to 13,014 in Tuesday morning trade, erasing gains from the previous four sessions. This followed a decline on Wall Street overnight, as a renewed surge in oil prices amid escalating Middle East tensions raised concerns about inflation. The broader index retreated from its highest level since April 10, which was reached a day earlier, with all sectors trading in the red, led by tech stocks. Traders also anticipated the release of unemployment data for Q1 2026, due on Wednesday, after the jobless rate hit its highest level since Q3 2015 in Q4 2025. Among the biggest laggards was Gentrack Group (-17.1%), after announcing plans for a share buyback and signaling expectations of lower revenue for the 2026 financial year. Other early losers included Fisher & Paykel (-1.4%), Meridian Energy (-1.0%), Chorus (-0.8%), Summerset Group (-0.8%), Auckland International Airport (-0.7%), AFT Pharmaceuticals (-0.6%), and Scales Corporation (-0.5%)."
-    },
-    {
-      "id": "te:markets:547589",
-      "time": "2026-05-05 06:50:50",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "New Zealand Stocks Snap 4-Session Winning Streak — The NZX 50 fell 83 points, or 0.6%, to 13,014 in Tuesday morning trade, erasing gains from the previous four sessions. This followed a decline on Wall Street overnight, as a renewed surge in oil prices amid escalating Middle East tensions raised concerns about inflation. The broader index retreated from its highest level since April 10, which was reached a day earlier, with all sectors trading in the red, led by tech stocks. Traders also anticipated the release of unemployment data for Q1 2026, due on Wednesday, after the jobless rate hit its highest level since Q3 2015 in Q4 2025. Among the biggest laggards was Gentrack Group (-17.1%), after announcing plans for a share buyback and signaling expectations of lower revenue for the 2026 financial year. Other early losers included Fisher & Paykel (-1.4%), Meridian Energy (-1.0%), Chorus (-0.8%), Summerset Group (-0.8%), Auckland International Airport (-0.7%), AFT Pharmaceuticals (-0.6%), and Scales Corporation (-0.5%)."
-    },
-    {
-      "id": "4860370",
-      "time": "2026-05-05 06:50:39",
-      "tags": [
-        "公司",
-        "資料",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【週二重要財經資訊提醒：日內請重點關注（以下均為北京時間）】 \n① 全天 A股繼續休市，日本、韓國因兒童節休市；\n② 12:30 澳洲聯儲公佈利率決議和貨幣政策宣告，澳洲聯儲主席布洛克召開貨幣政策新聞釋出會；\n③ 14:30 瑞士4月CPI；\n④ 16:30 中國香港一季度GDP初值；\n⑤ 美股盤前 格芯釋出業績報告；\n⑥ 20:30 美國3月貿易帳，加拿大3月貿易帳；\n⑦ 21:45 美國4月標普全球服務業、綜合PMI終值；\n⑧ 22:00 美國4月ISM非製造業指數，3月JOLTS職位空缺；\n⑨ 美股盤後 AMD、Lumentum、Strategy、西方石油公司釋出業績報告；\n⑩ 次日05:00 紐西蘭聯儲公佈金融穩定報告。"
     }
   ]
 }
