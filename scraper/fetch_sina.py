@@ -13,6 +13,7 @@ import re
 import sqlite3
 from html import unescape
 from datetime import datetime, timezone, timedelta
+from zoneinfo import ZoneInfo
 from dotenv import load_dotenv # 新增這一行
 
 
@@ -34,6 +35,7 @@ except ImportError:
     print("[WARN] yfinance 未安裝，跳過市場資料")
 
 TW = timezone(timedelta(hours=8))
+ET = ZoneInfo("America/New_York")
 BASE_DIR = os.path.dirname(__file__)
 DB_PATH  = os.path.join(BASE_DIR, "news.db")
 DOCS_DIR = os.path.join(BASE_DIR, "..", "docs")
@@ -500,6 +502,45 @@ def save_ai_summaries(data: dict) -> None:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
 
+def prune_ai_summaries_before(cutoff_text: str) -> int:
+    data = load_ai_summaries()
+    before = len(data.get("items", []))
+    data["items"] = [
+        item for item in data.get("items", [])
+        if (item.get("slot_end") or item.get("slot_start") or "") >= cutoff_text
+    ]
+    removed = before - len(data["items"])
+    if removed:
+        save_ai_summaries(data)
+    return removed
+
+
+def clear_history_if_requested(conn) -> None:
+    raw_days = os.getenv("CLEAR_HISTORY_DAYS", "").strip()
+    if not raw_days:
+        return
+
+    try:
+        keep_days = float(raw_days)
+    except ValueError:
+        print(f"[ERROR] CLEAR_HISTORY_DAYS 格式錯誤（需為正數）：{raw_days}，略過清理")
+        return
+
+    if keep_days <= 0:
+        print(f"[ERROR] CLEAR_HISTORY_DAYS 必須大於 0：{raw_days}，略過清理")
+        return
+
+    cutoff = datetime.now(TW) - timedelta(days=keep_days)
+    cutoff_text = cutoff.strftime("%Y-%m-%d %H:%M:%S")
+    cur = conn.execute("DELETE FROM news WHERE time < ?", (cutoff_text,))
+    conn.commit()
+    summary_removed = prune_ai_summaries_before(cutoff_text)
+    print(
+        f"[CLEANUP] 已保留最近 {keep_days:g} 天資料；"
+        f"刪除 news.db {cur.rowcount} 筆、AI 摘要 {summary_removed} 筆（cutoff {cutoff_text}）"
+    )
+
+
 SUMMARY_PRIORITY_KEYWORDS = (
     # S: macro data
     "CPI", "PCE", "PMI", "GDP", "nonfarm", "payroll", "JOLTS", "retail sales",
@@ -674,17 +715,87 @@ def format_market_context_date(value) -> str:
     return str(value)[:10]
 
 
-def is_market_context_stale(latest_index, now: datetime) -> bool:
+def market_index_date(value) -> object:
     try:
-        if hasattr(latest_index, "to_pydatetime"):
-            latest_index = latest_index.to_pydatetime()
-        if isinstance(latest_index, datetime):
-            if latest_index.tzinfo is not None:
-                latest_index = latest_index.astimezone(TW)
-            return latest_index.date() < now.date()
+        if hasattr(value, "to_pydatetime"):
+            value = value.to_pydatetime()
+        if isinstance(value, datetime):
+            if value.tzinfo is not None:
+                value = value.astimezone(ET)
+            return value.date()
     except Exception:
         pass
-    return True
+    try:
+        return datetime.strptime(str(value)[:10], "%Y-%m-%d").date()
+    except Exception:
+        return None
+
+
+def market_context_cutoff_date(reference_time: datetime):
+    """Return the latest exchange-date that can be used as context for this slot."""
+
+    ref_et = reference_time.astimezone(ET)
+    cutoff = ref_et.date()
+    weekday = ref_et.weekday()
+
+    # US equity/futures weekend pause: Friday evening through Sunday 18:00 ET.
+    if weekday == 5:
+        cutoff -= timedelta(days=1)
+    elif weekday == 6 and ref_et.hour <= 18:
+        cutoff -= timedelta(days=2)
+    elif weekday == 4 and ref_et.hour >= 17:
+        # After Friday's futures pause starts, the last usable session is Friday.
+        cutoff = ref_et.date()
+
+    return cutoff
+
+
+def filter_market_history_for_slot(series, reference_time: datetime):
+    cutoff = market_context_cutoff_date(reference_time)
+    try:
+        return series[[market_index_date(idx) is not None and market_index_date(idx) <= cutoff for idx in series.index]]
+    except Exception:
+        return series
+
+
+def is_market_context_stale(latest_index, reference_time: datetime) -> bool:
+    latest_date = market_index_date(latest_index)
+    cutoff = market_context_cutoff_date(reference_time)
+    if latest_date is None:
+        return True
+    return latest_date < cutoff
+
+
+def is_us_weekend_market_closure(start: datetime, end: datetime) -> bool:
+    def in_closure(value: datetime) -> bool:
+        value_et = value.astimezone(ET)
+        weekday = value_et.weekday()
+        return (
+            (weekday == 4 and value_et.hour >= 17)
+            or weekday == 5
+            or (weekday == 6 and value_et.hour < 18)
+        )
+
+    probe = start
+    while probe < end:
+        if not in_closure(probe):
+            return False
+        probe += timedelta(minutes=30)
+    return in_closure(end - timedelta(seconds=1))
+
+
+def market_session_note(start: datetime, end: datetime) -> str:
+    if not is_us_weekend_market_closure(start, end):
+        return "- 本摘要區間未完全落在美股週末休市時段，仍須依快訊與市場背景的新鮮度描述。"
+
+    start_et = start.astimezone(ET).strftime("%Y-%m-%d %H:%M")
+    end_et = end.astimezone(ET).strftime("%Y-%m-%d %H:%M")
+    return (
+        f"- 本摘要區間換算美東時間為 {start_et} 至 {end_et}，"
+        "完全落在美股與主要美股期貨週末休市期間；不得寫美股/科技股在近 3 小時"
+        "維持高檔、上漲、震盪、創高或回落。若引用市場價格背景，只能寫成"
+        "前一交易日/最近可得價格仍在高檔或低檔的背景。"
+    )
 
 
 def market_position_note(current: float, closes_6m, closes_long) -> str:
@@ -724,12 +835,12 @@ def market_position_note(current: float, closes_6m, closes_long) -> str:
     return ""
 
 
-def fetch_ai_market_context() -> str:
+def fetch_ai_market_context(reference_time: datetime | None = None) -> str:
     """抓 AI 摘要專用市場背景，避免標題只被新聞風險詞帶偏。"""
     if not HAS_YF:
         return ""
 
-    now = datetime.now(TW)
+    reference_time = reference_time or datetime.now(TW)
     lines = []
     for item in AI_MARKET_CONTEXT_SYMBOLS:
         symbol = item["symbol"]
@@ -741,16 +852,20 @@ def fetch_ai_market_context() -> str:
             if hist.empty or "Close" not in hist:
                 continue
 
-            closes = hist["Close"].dropna()
+            closes = filter_market_history_for_slot(hist["Close"].dropna(), reference_time)
             if closes.empty:
                 continue
 
             long_hist = ticker.history(period="max", interval="1d", auto_adjust=True)
-            closes_long = long_hist["Close"].dropna() if not long_hist.empty and "Close" in long_hist else None
+            closes_long = (
+                filter_market_history_for_slot(long_hist["Close"].dropna(), reference_time)
+                if not long_hist.empty and "Close" in long_hist
+                else None
+            )
 
             latest_index = closes.index[-1]
             latest_date = format_market_context_date(latest_index)
-            stale = is_market_context_stale(latest_index, now)
+            stale = is_market_context_stale(latest_index, reference_time)
             current = float(closes.iloc[-1])
             prev_1m = float(closes.iloc[-22]) if len(closes) >= 22 else None
             prev_3m = float(closes.iloc[-64]) if len(closes) >= 64 else None
@@ -793,9 +908,13 @@ def extract_response_text(response: dict) -> str:
 
 
 def call_openai_summary(items: list[dict], start: datetime, end: datetime, market_context: str = "") -> dict:
+    session_note = market_session_note(start, end)
     prompt = f"""
 你是財經新聞編輯。請根據以下 {len(items)} 則近 3 小時快訊，產生繁體中文（台灣）AI 摘要分析。
 時間區間：{start.strftime('%Y-%m-%d %H:%M')} 至 {end.strftime('%Y-%m-%d %H:%M')}（台灣時間）
+
+【交易時段檢查】
+{session_note}
 
 【市場價格背景（只用於校準情緒，不是事件來源）】
 以下為主要資產價格與中期表現，只能用來校準市場情緒，不是近 3 小時新聞事件來源。
@@ -1025,9 +1144,6 @@ def has_ai_scores(item: dict) -> bool:
 def update_ai_summaries(conn) -> None:
     now = datetime.now(TW)
     data = load_ai_summaries()
-    market_context = fetch_ai_market_context() if OPENAI_API_KEY else ""
-    if market_context:
-        print("[AI] 已取得摘要用市場價格背景")
 
     # ── Backfill 模式 ──
     # 平常排程會往回看最近幾個 3 小時時段，已存在的摘要會跳過；
@@ -1081,6 +1197,9 @@ def update_ai_summaries(conn) -> None:
                 print(f"[SKIP] AI 摘要 {slot_id}：未設定 OPENAI_API_KEY")
             else:
                 try:
+                    market_context = fetch_ai_market_context(slot_end)
+                    if market_context:
+                        print(f"[AI] {slot_id} 已取得摘要用市場價格背景（截至 {slot_end.strftime('%Y-%m-%d %H:%M')}）")
                     result = call_openai_summary(items, slot_start, slot_end, market_context)
                     summary_item = {
                         "id": slot_id,
@@ -1203,6 +1322,7 @@ def main():
     mktnews_processed = [item for item in (process_mktnews_flash_item(r) for r in mktnews_raw_items) if item]
     mktnews_new_count = upsert_items(conn, mktnews_processed)
 
+    clear_history_if_requested(conn)
     update_ai_summaries(conn)
     updated, total = export_news_json(conn)
     conn.close()

@@ -9,6 +9,10 @@ on:
         description: "一次性回補 AI 摘要＋分數的天數；排程執行請留空"
         required: false
         default: ""
+      clear_history_days:
+        description: "保留最近 N 天資料，清除更早的歷史資料；排程執行請留空"
+        required: false
+        default: ""
 
 concurrency:
   group: scraper
@@ -40,6 +44,7 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_SUMMARY_MODEL: ${{ vars.OPENAI_SUMMARY_MODEL || 'gpt-4.1-mini' }}
           AI_SCORE_BACKFILL_DAYS: ${{ github.event.inputs.ai_score_backfill_days || '' }}
+          CLEAR_HISTORY_DAYS: ${{ github.event.inputs.clear_history_days || '' }}
           GH_PAT: ${{ secrets.GH_PAT }}
         run: |
           git config user.name  "github-actions[bot]"
@@ -50,9 +55,14 @@ jobs:
           git -C /tmp/page-repo config user.name  "github-actions[bot]"
           git -C /tmp/page-repo config user.email "github-actions[bot]@users.noreply.github.com"
 
-          if [ -n "$AI_SCORE_BACKFILL_DAYS" ]; then
+          if [ -n "$AI_SCORE_BACKFILL_DAYS" ] || [ -n "$CLEAR_HISTORY_DAYS" ]; then
             rounds=1
-            echo "[BACKFILL] one-shot AI summary + score backfill for ${AI_SCORE_BACKFILL_DAYS} days"
+            if [ -n "$AI_SCORE_BACKFILL_DAYS" ]; then
+              echo "[BACKFILL] one-shot AI summary + score backfill for ${AI_SCORE_BACKFILL_DAYS} days"
+            fi
+            if [ -n "$CLEAR_HISTORY_DAYS" ]; then
+              echo "[CLEANUP] one-shot history cleanup, keeping ${CLEAR_HISTORY_DAYS} days"
+            fi
           else
             rounds=20
           fi
