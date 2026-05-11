@@ -1,7 +1,147 @@
 {
-  "updated": "2026-05-11 15:25:58",
-  "count": 13248,
+  "updated": "2026-05-11 15:29:22",
+  "count": 13255,
   "items": [
+    {
+      "id": "mkt:019e15f0-8b6d-7dd9-b91c-6c2f1bfd169d",
+      "time": "2026-05-11 15:29:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRAN'S BAGHAEI SAYS TEHRAN ONLY SEEKS TO SECURE ITS RIGHTS AND GAVE GENEROUS AND RESPONSIBLE SUGGESTIONS TO THE U.S."
+    },
+    {
+      "id": "te:economy:549580",
+      "time": "2026-05-11 15:28:59",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "UK Gilt Yields Rise on Inflation Fears, Political Uncertainty — UK 10-year gilt yields climbed back above 4.95% as rising oil prices, driven by escalating tensions between the US and Iran, heightened inflation concerns and reinforced expectations of further Bank of England rate hikes. Investors also continued to assess the fallout from last week’s UK local elections. Brent crude surpassed $105 per barrel after President Trump dismissed Iran’s latest peace proposal as “totally unacceptable.” The fate of the Strait of Hormuz remains uncertain, as reports from The Wall Street Journal suggested Iran had offered to dilute some enriched uranium and transfer the remainder to a third country, a claim Iran denied. Domestically, Prime Minister Keir Starmer is set to deliver a key speech on Monday aiming to reassure Labour MPs of his leadership amid heavy election losses and growing speculation of a potential challenge."
+    },
+    {
+      "id": "mkt:019e15f0-67f2-7dd9-b91c-63bfb08444ca",
+      "time": "2026-05-11 15:28:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "SAUDI CRUDE OIL SUPPLY TO CHINA SET TO FALL TO RECORD LOW OF ABOUT 10 MLN BBLS IN JUNE, SOURCES SAY"
+    },
+    {
+      "id": "4871755",
+      "time": "2026-05-11 15:28:55",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【上期所：給予欒琨、通琨建信1號私募證券投資基金通報批評處分】5月11日，上海期貨交易所釋出違規處理決定公告。公告指出，2025年9月29日，通琨建信1號私募證券投資基金基金經理欒琨操作通琨建信1號私募證券投資基金賬戶和其客戶的賬戶在黃金期權合約上實施事先約定的相互交易、轉移資金，擾亂市場秩序的行為。上述行為已構成《上海期貨交易所違規處理辦法》第三十二條第一款第三項規定的違規行為。依據該辦法第三十二條，決定給予欒琨、通琨建信1號私募證券投資基金通報批評處分；責令改正，處通琨建信1號私募證券投資基金罰款1萬元，處欒琨罰款1.5萬元，在違規案件處理決定書生效之日起5個交易日內如數繳納至上海期貨交易所指定賬戶。相關違規處罰決定記入證券期貨市場誠信檔案資料庫。"
+    },
+    {
+      "id": "4871754",
+      "time": "2026-05-11 15:28:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "萊茵金屬、亨索爾特、倫克、蒂森克虜伯海事系統股價下跌，跌幅介於2.2%至3.9%之間。"
+    },
+    {
+      "id": "4871752",
+      "time": "2026-05-11 15:28:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交官稱，德黑蘭方面僅尋求維護本國合法權益，且已向美方提出了慷慨且負責任的提議。"
+    },
+    {
+      "id": "4871751",
+      "time": "2026-05-11 15:28:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【阿里釋出全新AI店小蜜】5月11日，阿里釋出全新AI店小蜜，這是電商行業首個具備售前與售後辦事能力的客服Agent。據實測資料顯示，商家接入AI店小蜜後，平均轉人工率下降45%，“AI+人”協同轉化效果相比純人工客服增加超10%。"
+    },
+    {
+      "id": "4871750",
+      "time": "2026-05-11 15:27:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "越南VN指數下跌1%，至1,895.96點。"
+    },
+    {
+      "id": "mkt:019e15ee-fd65-7dd9-b91c-5aca8c77fc80",
+      "time": "2026-05-11 15:27:24",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Crypto Concepts",
+        "Bitcoin",
+        "Impact bullish",
+        "Impact mixed",
+        "Ethereum",
+        "GBPUSD"
+      ],
+      "text": "【Top Crypto Stories of PAST 48 Hours - MKTNews】 Bitcoin / Institutional Flows - Michael Saylor says Strategy would buy “10 to 20” bitcoin for every one it sells: report - Bitcoin whale address moves $41 million in BTC after 12-year dormancy: onchain data - Morgan Stanley’s bitcoin ETF absorbs $194 million in first month with no net daily outflows Crypto Markets & Infrastructure - Canton Network developer Digital Asset eyes $300 million raise at $2 billion valuation, led by a16z crypto - Arbitrum’s $71 million in ETH cleared for Aave transfer as North Korea terrorism creditors retain legal claim Regulation & Policy - Bank of England’s Bailey warns of looming “wrestle” with US over stablecoin rules, flags run risk for UK Security & Incidents - LayerZero issues public apology for Kelp DAO exploit response, admits fault in single-verifier setup"
+    },
+    {
+      "id": "4871748",
+      "time": "2026-05-11 15:26:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外交部：中方正同東盟國家就南海行為準則案文保持密切磋商】5月11日，外交部發言人郭嘉昆主持例行記者會。 有記者提問，在上週舉行的東盟峰會上，峰會呼籲制定具有法律約束力的南海行為準則，該準則需符合包括《聯合國海洋法公約》在內的國際法。在此之後的新聞釋出會上，菲律賓總統馬科斯認為在本年內達成各項準則是可行的，請問中方對此有何評論？ 郭嘉昆表示，制定南海行為準則是落實南海各方行為宣言的重要舉措，也是中國和東盟國家的重要共識，有利於各方更好地管控分歧，促進合作，維護南海和平穩定。 “目前中方正同東盟國家就準則案文保持密切磋商，希望各方堅定目標、聚焦共識、排除干擾，爭取早日達成準則。” （北京日報）"
+    },
+    {
+      "id": "4871747",
+      "time": "2026-05-11 15:26:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人表示，伊朗提交給美國的提案“並不過分”，而美國仍持續提出“不合理要求”。"
+    },
+    {
+      "id": "mkt:019e15ee-15a1-7dd9-b91c-51d401fcdc6a",
+      "time": "2026-05-11 15:26:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "IRAN'S FOREIGN MINISTRY SPOKESPERSON BAGHAEI SAYS IRAN'S PROPOSAL TO THE U.S. 'WAS NOT EXCESSIVE', U.S. CONTINUES TO HAVE 'UNREASONABLE DEMANDS'"
+    },
+    {
+      "id": "4871746",
+      "time": "2026-05-11 15:26:24",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【受油價上漲提振，歐洲能源股走高】隨著油價攀升，歐洲能源股在開盤交易中走高；此前美國總統特朗普表示，伊朗對美國起草的結束衝突提議的反應是不可接受的。布倫特原油上漲3.3%，至每桶104.61美元，而西得州中質油期貨上漲3.7%，至每桶98.98美元。油價仍對結束戰爭和開放霍爾木茲海峽協議的預期進展高度敏感。在倫敦市場，英國石油公司上漲1.3%，殼牌上漲0.7%。義大利的埃尼上漲1.7%，西班牙的睿爍能源上漲0.45%。挪威的Equinor上漲近1.9%。"
+    },
+    {
+      "id": "te:economy:549579",
+      "time": "2026-05-11 15:26:08",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "India",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "India 10Y Yield Climbs to 1-Month High — The yield on India’s 10-year G-Sec rose to around 7%, extending gains to reach a month high as government bonds tracked a sell-off in US Treasuries amid a broader risk-off tone in global markets. Sentiment weakened after stalled US-Iran peace negotiations and a sharp rally in crude oil prices fueled concerns over sustained inflation pressures and fiscal strain for energy-importing economies. Brent crude remained above the $100-per-barrel mark, keeping traders wary of higher import costs and a widening current account deficit. Domestic bonds also came under pressure as investors trimmed positions ahead of key macro data, including India’s April inflation print due Tuesday, which is expected to edge closer to the RBI’s 4% target after a softer reading in March. Meanwhile, swap rates climbed further, reflecting growing bets on tighter financial conditions ahead."
+    },
     {
       "id": "4871745",
       "time": "2026-05-11 15:25:23",
@@ -116844,68 +116984,6 @@
         "其他"
       ],
       "text": "瑞士4月SVME採購經理人指數 54.5，預期52，前值53.3。"
-    },
-    {
-      "id": "4859115",
-      "time": "2026-05-04 15:29:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交官巴蓋伊將外交斡旋結束戰爭進度緩慢歸咎於美國。"
-    },
-    {
-      "id": "4859114",
-      "time": "2026-05-04 15:29:04",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "印度聯邦銀行有限公司：將從渣打銀行印度分行收購零售信用卡業務組合。"
-    },
-    {
-      "id": "4859113",
-      "time": "2026-05-04 15:28:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部發言人巴加埃：美國很難放棄其“最大施壓”要求。"
-    },
-    {
-      "id": "4859112",
-      "time": "2026-05-04 15:28:38",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內跌1%，現報74.64美元/盎司。"
-    },
-    {
-      "id": "4859111",
-      "time": "2026-05-04 15:28:33",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油突破103美元/桶，日內漲1.08%。"
-    },
-    {
-      "id": "te:economy:547315",
-      "time": "2026-05-04 15:28:32",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Turkey",
-        "Inflation Rate",
-        "Importance 2"
-      ],
-      "text": "Turkey Inflation Rate Hits 6-Month High — The annual inflation rate jumped to 32.37% in April 2026 from 30.87% in the previous month, surpassing market expectations of 31.25%. It marked the highest reading since October 2025, as prices accelerated across most major sub-indices, particularly food and non-alcoholic beverages (34.55% vs 32.36% in March), housing and utilities (46.6% vs 42.06%), and transport (35.06% vs 34.35%). Other categories also contributed to overall price growth, including clothing and footwear (9.66% vs 7.2%), furnishings and household goods (21.42% vs 20.52%), and health (33.02% vs 29.98%). Rising inflation is increasingly being shaped by external headwinds, particularly the prolonged Middle East war, which has pushed global oil prices higher. For Turkey, a net energy importer, the surge in energy costs is adding further strain to an already elevated inflation environment. On a monthly basis, consumer prices climbed to a three-month high of 4.18%, from 1.94% in March and above expectations of 3.28%."
-    },
-    {
-      "id": "4859110",
-      "time": "2026-05-04 15:28:31",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內漲1%，現報102.99美元/桶。"
     }
   ]
 }
