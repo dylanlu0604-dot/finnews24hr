@@ -1,7 +1,117 @@
 {
-  "updated": "2026-05-11 14:32:00",
-  "count": 13199,
+  "updated": "2026-05-11 14:35:24",
+  "count": 13207,
   "items": [
+    {
+      "id": "4871639",
+      "time": "2026-05-11 14:35:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股黃金股多數下跌，靈寶黃金跌超10%】港股黃金股多數下跌，靈寶黃金跌超10%，招金礦業跌超5%，山東黃金、洛陽鉬業、紫金礦業跟跌。"
+    },
+    {
+      "id": "mkt:019e15bf-2acf-7dd9-b91b-e6a051c4261c",
+      "time": "2026-05-11 14:35:10",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "KOSPI HITS NEW RECORD CLOSE; CHIP, ROBOTICS, AUTO STOCKS ADVANCE"
+    },
+    {
+      "id": "4871638",
+      "time": "2026-05-11 14:34:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【佰維儲存在合肥成立芯勢力半導體公司】企查查APP顯示，近日，合肥芯勢力半導體有限公司成立，註冊資本為1000萬元，經營範圍包含：積體電路設計；積體電路晶片設計及服務；積體電路銷售；積體電路晶片及產品銷售等。企查查股權穿透顯示，該公司由佰維儲存旗下杭州芯勢力半導體有限公司全資持股。"
+    },
+    {
+      "id": "4871637",
+      "time": "2026-05-11 14:34:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國總統府：針對商船的襲擊是毫無道理的。我們尚未確定攻擊者身份。"
+    },
+    {
+      "id": "4871636",
+      "time": "2026-05-11 14:34:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國青瓦臺：強烈譴責襲擊貨輪事件。"
+    },
+    {
+      "id": "4871635",
+      "time": "2026-05-11 14:33:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國青瓦臺：已制定應對襲擊者的方案。"
+    },
+    {
+      "id": "4871634",
+      "time": "2026-05-11 14:33:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國青瓦臺官員：將能夠根據專家的法醫鑑定結果就該事件得出最終結論。"
+    },
+    {
+      "id": "te:economy:549553",
+      "time": "2026-05-11 14:33:47",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Romania",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Romania Trade Deficit Largest in 5 Months — Romania’s trade deficit widened to EUR 2.927 billion in March 2026, compared with EUR 2.856 billion in the same month a year earlier. Exports increased 6.2% year-on-year to a record high of EUR 8.959 billion, supported by stronger shipments to both EU (8.1%) and non-EU (1.4%) countries. Meanwhile, imports rose 5.3% to EUR 11.885 billion, driven by an 8.1% increase in arrivals from EU countries, while imports from non-EU countries fell 2.6%. In the first quarter of the year, the trade deficit reached EUR 7.704 billion. Exports grew 1.1% to EUR 23.812 billion, buoyed by higher sales of machinery and transport equipment (2.9%) and manufactured goods classified mainly by raw materials (3.4%). In contrast, imports fell 1.7% to EUR 31.517, weighed down by lower purchases of miscellaneous manufactured articles (-3%), manufactured goods classified mainly by raw materials (-3.1%), and mineral fuels, lubricants and related materials (-14.2%)."
+    },
+    {
+      "id": "4871633",
+      "time": "2026-05-11 14:33:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國青瓦臺官員：已確認“襲擊事件”中涉事飛行物體的殘骸。"
+    },
+    {
+      "id": "4871632",
+      "time": "2026-05-11 14:33:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國青瓦臺官員表示：目前我們不清楚伊朗在“納木號事件”中是否扮演了任何角色。"
+    },
+    {
+      "id": "mkt:019e15bd-3d09-7dd9-b91b-dd7ca11eeca2",
+      "time": "2026-05-11 14:33:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SOUTH KOREA BLUE HOUSE OFFICIAL: WE ARE UNAWARE AT THIS POINT WHAT ROLE IF ANY IRAN HAD IN THE NAMU INCIDENT"
+    },
+    {
+      "id": "4871631",
+      "time": "2026-05-11 14:32:40",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超3.2萬億元，較上日此時放量4717億元。"
+    },
+    {
+      "id": "4871630",
+      "time": "2026-05-11 14:32:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【5月11日：“農產品批發價格200指數”比上週六下降0.35個點】據農業農村部監測，5月11日“農產品批發價格200指數”為115.48，比上週六下降0.35個點，“菜籃子”產品批發價格指數為115.96，比上週六下降0.40個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為14.99元/公斤，比上週六上升1.1%；牛肉66.52元/公斤，比上週六上升0.8%；羊肉64.36元/公斤，比上週六下降0.5%；雞蛋8.95元/公斤，比上週六上升1.5%；白條雞16.95元/公斤，比上週六上升0.6%。重點監測的28種蔬菜平均價格為4.24元/公斤，比上週六下降0.2%；重點監測的6種水果平均價格為7.63元/公斤，比上週六下降0.4%。鯽魚20.03元/公斤，比上週六下降1.4%；鯉魚14.91元/公斤，比上週六下降0.5%；白鰱魚10.33元/公斤，比上週六上升2.2%；大帶魚41.32元/公斤，比上週六下降0.9%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與上週六相比價格升幅前五名的是蔥頭、洋白菜、生菜、韭菜和花鰱魚，幅度分別為4.1%、3.4%、2.8%、2.2%和2.2%；價格降幅前五名的是菠蘿、白蘿蔔、豆角、大白菜和大蒜，幅度分別為4.3%、3.5%、3.3%、2.7%和2.5%。"
+    },
     {
       "id": "mkt:019e15bc-008b-7dd9-b91b-d1918e6197cf",
       "time": "2026-05-11 14:31:39",
@@ -116420,50 +116530,6 @@
         "國際"
       ],
       "text": "歐元集團主席基里亞科斯・皮拉卡基斯：歐盟希望履行其在美歐協議中的承諾；希望不必針對美方啟用備選應對措施；增加不確定性會造成相當大的問題。"
-    },
-    {
-      "id": "4859034",
-      "time": "2026-05-04 14:33:29",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "法國央行行長維勒魯瓦：預計今年（財政）赤字率將為5%。"
-    },
-    {
-      "id": "4859033",
-      "time": "2026-05-04 14:32:51",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "法國央行行長維勒魯瓦：法國應能避免衰退。"
-    },
-    {
-      "id": "4859032",
-      "time": "2026-05-04 14:32:37",
-      "tags": [
-        "市場"
-      ],
-      "text": "SK海力士股價收盤上漲12.5%，創歷史新高。"
-    },
-    {
-      "id": "4859031",
-      "time": "2026-05-04 14:32:11",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "三星電子股價收盤上漲5.44%，創歷史最高收盤價。"
-    },
-    {
-      "id": "4859030",
-      "time": "2026-05-04 14:32:06",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國KOSPI指數收盤上漲338.12點，漲幅5.12%，報6936.99點，創歷史新高。"
     }
   ]
 }
