@@ -1,7 +1,97 @@
 {
-  "updated": "2026-05-11 20:09:50",
-  "count": 13539,
+  "updated": "2026-05-11 20:13:23",
+  "count": 13549,
   "items": [
+    {
+      "id": "4872427",
+      "time": "2026-05-11 20:12:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "沙特阿美執行長：市場已出現約10億桶石油的供應缺口。霍爾木茲海峽以外的替代供應流向與戰略儲備釋放部分抵消了上述影響。"
+    },
+    {
+      "id": "te:economy:549655",
+      "time": "2026-05-11 20:12:50",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Government Bond 10Y",
+        "Importance 2"
+      ],
+      "text": "UK Gilt Yields Surge on Political Risks and US-Iran Standoff — UK 10-year gilt yields jumped to 5% as growing political uncertainty and the stalemate between the US and Iran over a peace deal drove oil prices higher, bringing inflation concerns to the forefront. UK Prime Minister Keir Starmer sought to reassure critics of his leadership following Labour’s poor performance in local council elections, though his speech lacked new policy proposals. Attention has now shifted to whether a leadership challenge will emerge in the coming days, with Starmer stating he will fight any such attempt and will not step down. Meanwhile, brent crude surpassed $105 per barrel after President Trump dismissed Iran’s latest peace proposal as “totally unacceptable.” The fate of the Strait of Hormuz remains uncertain, with The Wall Street Journal reporting that Iran had offered to dilute some enriched uranium and transfer the remainder to a third country, a claim Iran denied. Markets are pricing in at least two Bank of England rate hikes by December."
+    },
+    {
+      "id": "4872426",
+      "time": "2026-05-11 20:12:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【羅欣藥業：劉振騰辭任總經理 聘任陳明為總經理】羅欣藥業公告稱，2026年5月8日，劉振騰因公司戰略及架構最佳化辭去總經理職務，原定任期至2029年1月28日，辭任後繼續擔任董事長等職。其為公司實控人之一，間接持股2.42億股。5月11日，公司董事會同意聘任陳明為總經理，任期至第六屆董事會屆滿。陳明現任北京健康董事長兼總經理，間接持股238.48萬股，其控股的得怡資本為公司持股5%以上股東的基金管理人。"
+    },
+    {
+      "id": "4872425",
+      "time": "2026-05-11 20:12:18",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度證券交易委員會（SEBI）：美銀證券印度分公司支付590萬盧比與SEBI達成和解。"
+    },
+    {
+      "id": "4872424",
+      "time": "2026-05-11 20:11:14",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "印度市場監管機構：就美國銀行證券印度有限公司一案下達和解令。"
+    },
+    {
+      "id": "4872423",
+      "time": "2026-05-11 20:11:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "沙特阿美執行長納賽爾：第一季度，我們的原油當量日產量為1260萬桶。"
+    },
+    {
+      "id": "mkt:019e16f2-b9eb-7dd9-b91f-84c2b4fe1589",
+      "time": "2026-05-11 20:11:06",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "SAUDI ARAMCO CEO NASSER: IN THE FIRST QUARTER, WE PRODUCED 12.6 MILLION BARRELS OF OIL EQUIVALENT PER DAY"
+    },
+    {
+      "id": "4872422",
+      "time": "2026-05-11 20:10:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華榮股份：恆益3號擬減持不超0.95%公司股份】華榮股份公告，恆益3號擬在本公告披露之日起15個交易日後的3個月內，透過大宗交易方式將所持有的公司股份320萬股轉讓給胡志微。轉讓完成後，恆益3號將不再持有公司股份。"
+    },
+    {
+      "id": "4872421",
+      "time": "2026-05-11 20:10:08",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "福克斯股價盤前上漲3%，此前該公司第三季度營收超出市場預期。"
+    },
+    {
+      "id": "4872420",
+      "time": "2026-05-11 20:10:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "Cerebras系統此次 IPO 募資規模上調至最高48 億美元，此前擬定募資上限為 35 億美元。"
+    },
     {
       "id": "4872419",
       "time": "2026-05-11 20:09:35",
@@ -20,6 +110,14 @@
         "Brent"
       ],
       "text": "SAUDI ARAMCO CEO NASSER: IF HORMUZ DISRUPTION CONTINUES FOR A FEW MORE WEEKS, NORMALIZATION WON'T HAPPEN UNTIL INTO 2027"
+    },
+    {
+      "id": "4872418",
+      "time": "2026-05-11 20:09:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【35家機構2025年合計營收484.45億元 比上年增長14.9%】據統計，截至目前，除中英益利資管及2025年底成立的友邦保險資管、荷全保險資管外，已有35家保險資管機構披露2025年財報。資料顯示，35家機構2025年合計營收484.45億元，比上年增長14.9%；合計淨利潤218.64億元，比上年增長18.3%。2025年，保險資管“萬億級”機構從8家增至11家，華夏久盈、華泰資產、大家資產管理規模分別超過1.3萬億元、1萬億元、1萬億元，新晉“萬億級”保險資管機構行列。中國人民大學財政金融學院教授鄭志剛認為，中小保險資管機構改善經營業績需從兩方面發力：一是凝聚規模優勢，透過資產組合最佳化甚至必要的併購重組，提高資本運作規模；二是強化內部風控，持續深耕細分市場，提升內部核心競爭力，以有效的風險防控增強未來競爭實力。（中國銀行保險報）"
     },
     {
       "id": "4872417",
@@ -119,6 +217,14 @@
         "其他"
       ],
       "text": "世界衛生組織稱，已確認與該郵輪相關的安第斯漢坦病毒病例共7例，另有2例疑似病例。"
+    },
+    {
+      "id": "4872408",
+      "time": "2026-05-11 20:05:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國電信量子-經典空芯共纖傳輸重新整理全球紀錄】中國電信研究院依託雲網融合新型基礎設施中試平臺和大科創裝置，聯合科大國盾量子、長飛、中興及北京郵電大學等頂尖產學研團隊，成功實現40Tbps（50×800Gbps）超大容量經典光通訊與商用量子金鑰分發（QKD）系統在百公里空芯光纖的穩定共傳，創下全球量子-經典共傳系統新紀錄，安全金鑰率達9.56kbps，有效解決了共纖條件下大容量傳輸與量子訊號的噪聲抑制難題，為量子安全通訊規模化商用部署掃清關鍵技術障礙。（科創板日報）"
     },
     {
       "id": "4872407",
@@ -119528,24 +119634,6 @@
         "其他"
       ],
       "text": "斯洛伐克1-4月預算赤字25.85億歐元。"
-    },
-    {
-      "id": "4859590",
-      "time": "2026-05-04 20:11:15",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【特朗普政府擔憂涉密AI產能不足 擬加快谷歌TPU安全審批流程】谷歌母公司Alphabet執行長桑達爾・皮查伊於週四到訪白宮，與特朗普政府多名高層官員舉行了一系列高規格關鍵會晤。 據報道，會晤背後另有核心議題：美方擔憂人工智慧算力產能不足，政府難以儲備充足的人工智慧運算資源以維繫自身國防安全體系。 此番擔憂源於人工智慧公司Anthropic推出的Claude Mythos前瞻大模型，該模型僅向數十家企業及政府機構開放使用許可權。Anthropic稱限量釋出是出於安全優先考量，但此舉卻引發了美國政界及華府圈層的普遍不安。這也為谷歌、OpenAI等企業帶來了契機。儘管政府看似在緩和與Anthropic的關係，但同時希望藉助谷歌雙子座大模型、OpenAI的GPT系列模型及其他前沿人工智慧技術，降低對Claude模型的依賴。據瞭解，谷歌目前面臨一大難題：其自研人工智慧處理晶片張量處理器（TPU）無法適配部分涉密業務場景。而Anthropic之所以成為政府的便捷選擇，核心在於其模型大多執行在亞馬遜雲科技平臺上；亞馬遜已投入數十億美元，拿下業內最高等級的6級安全認證資質。 當前美國政府正多方尋求路徑，為谷歌張量處理器加速推進同等安全資質審批流程。"
-    },
-    {
-      "id": "4859589",
-      "time": "2026-05-04 20:09:55",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "禮來公司股價盤前下跌3%。"
     }
   ]
 }
