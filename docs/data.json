@@ -1,7 +1,36 @@
 {
-  "updated": "2026-05-12 05:04:45",
+  "updated": "2026-05-12 05:08:08",
   "count": 13885,
   "items": [
+    {
+      "id": "te:markets:549741",
+      "time": "2026-05-12 05:07:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "Ibovespa Falls as Stagflation Concerns Weigh — The Ibovespa dropped 1.2% to close at 181,909 on Monday, as rising oil prices and persistent uncertainty surrounding US-Iran negotiations weighed on investor sentiment. Washington rejected Tehran’s latest peace proposal. Markets remained pressured by fears that higher energy costs could intensify global stagflation risks. Financial stocks led the decline, with Bradesco down 2.7% and Itaú falling 2.2%. Utilities also underperformed, with Azzas losing 2.8%. Telefônica Brasil plunged 6.1% after posting net income below market expectations. Other notable laggards included WEG (-2.9%) and Rede D’Or (-6.1%). In contrast, Petrobras gained 1.7%, supported by firmer crude prices ahead of its earnings release later in the day. Vale also advanced 2.4% amid higher iron ore prices."
+    },
+    {
+      "id": "4873205",
+      "time": "2026-05-12 05:05:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯媒體報道：勝利日停戰期限已正式屆滿。"
+    },
+    {
+      "id": "4873203",
+      "time": "2026-05-12 05:05:20",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "俄羅斯副總理諾瓦克： 俄羅斯預計 2026 年通脹率為 5.2%，2027 年通脹率將回落至央行 4% 的目標水平。"
+    },
     {
       "id": "4873202",
       "time": "2026-05-12 05:04:30",
@@ -123014,38 +123043,6 @@
         "國際"
       ],
       "text": "【白宮因附近發生槍擊短暫封鎖 一名槍手已被打死】當地時間5月4日下午，美國白宮因附近發生槍擊事件一度短暫實施封鎖。美國特勤局釋出宣告稱，“特勤局人員已抵達華盛頓特區第15街與獨立大道交界處一起涉及執法人員的槍擊案現場。一人被執法人員開槍擊中，目前具體情況尚不清楚。”據瞭解，這一事發地點距離白宮僅有約一英里（1.61公里），鄰近華盛頓紀念碑。事發後不久，白宮特勤局特工擊斃一名在華盛頓紀念碑附近的槍手，目前形勢得到控制，已無嚴重安全威脅。（央視新聞）"
-    },
-    {
-      "id": "4860304",
-      "time": "2026-05-05 05:07:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "哥倫比亞國家石油公司與帕雷克斯資源簽署2.5億美元協議，聯合開發多處油田。"
-    },
-    {
-      "id": "te:547582",
-      "time": "2026-05-05 05:05:54",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Falls as Middle East Tensions Escalate — The S&P/TSX Composite fell 0.7% to close at 33,639 on Monday, as investors assessed renewed tensions between the US and Iran over the Strait of Hormuz. Iran’s navy said it turned away enemy warships attempting to pass through the strait, while US Central Command stated no US ships had been hit. Oil prices jumped earlier in the session, fueling concerns that higher crude costs could lift global inflation. The banking sector declined, with BMO down 1.6% and Royal Bank of Canada off 0.7%. Gold prices slipped, pressuring miners, as Agnico Eagle fell 2% and Wheaton Precious Metals lost 1.1%. Energy producers, however, advanced on elevated oil prices, with Canadian Natural up 1.4% and Suncor gaining 1.6%."
-    },
-    {
-      "id": "te:markets:547582",
-      "time": "2026-05-05 05:05:54",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Falls as Middle East Tensions Escalate — The S&P/TSX Composite fell 0.7% to close at 33,639 on Monday, as investors assessed renewed tensions between the US and Iran over the Strait of Hormuz. Iran’s navy said it turned away enemy warships attempting to pass through the strait, while US Central Command stated no US ships had been hit. Oil prices jumped earlier in the session, fueling concerns that higher crude costs could lift global inflation. The banking sector declined, with BMO down 1.6% and Royal Bank of Canada off 0.7%. Gold prices slipped, pressuring miners, as Agnico Eagle fell 2% and Wheaton Precious Metals lost 1.1%. Energy producers, however, advanced on elevated oil prices, with Canadian Natural up 1.4% and Suncor gaining 1.6%."
     }
   ]
 }
