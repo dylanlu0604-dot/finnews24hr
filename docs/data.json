@@ -1,7 +1,19 @@
 {
-  "updated": "2026-05-12 05:21:37",
-  "count": 13887,
+  "updated": "2026-05-12 05:25:00",
+  "count": 13883,
   "items": [
+    {
+      "id": "te:economy:549743",
+      "time": "2026-05-12 05:22:10",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Costa Rica",
+        "Unemployment Rate",
+        "Importance 0"
+      ],
+      "text": "Costa Rica Unemployment Rate Rises in Q1 2026 — Costa Rica’s unemployment rate rose to 7.1% in the first quarter of 2026, up from 6.3% in the previous quarter and little changed compared to the same period a year earlier. The unemployment rate stood at 6.4% for men and 8.1% for women. Nationwide, the number of unemployed people was estimated at 164,000, including 92,000 men and 72,000 women. Meanwhile, the share of employed people classified as underemployed was estimated at 3.3%. The number of workers employed in informal jobs reached 824,000."
+    },
     {
       "id": "4873214",
       "time": "2026-05-12 05:20:22",
@@ -123022,46 +123034,6 @@
         "Importance 1"
       ],
       "text": "Ibovespa Falls as Middle East Risks Weigh — The Ibovespa dropped 0.9% to close at 185,600 on Monday, pressured by rising tensions in the Middle East. Oil prices jumped after reports that two missiles struck a US warship, though a senior US official denied the incident. The IRGC Navy released a map designating parts of the Strait of Hormuz under Iranian military control, warning it may act against vessels that breach its rules, raising concerns over shipping security. With the strait effectively closed, fears of an energy shock fueling global inflation persisted. Banks led losses, with Itaú down 1.8%, Bradesco falling 2.1%, and Banco do Brasil losing 1.3% after weak earnings. Vale dropped 3.1%, while Rede D’Or and WEG fell 1.2% and 1.1%, respectively. In contrast, Embraer rose 2.5% after Brazil’s manufacturing PMI hit a 14-month high, while Marfrig gained 3.3% on progress in its Middle East venture, Sadia Halal. Petrobras added 0.5%, supported by higher oil prices."
-    },
-    {
-      "id": "4860314",
-      "time": "2026-05-05 05:24:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "Palantir執行長：我們現有70名銷售人員。"
-    },
-    {
-      "id": "4860313",
-      "time": "2026-05-05 05:24:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "多鄰國首席財務官：我們已經開始發現內部人工智慧成本出現了相當大幅的增長。"
-    },
-    {
-      "id": "4860312",
-      "time": "2026-05-05 05:24:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "沙烏地阿拉伯外交部發表宣告稱，在地區局勢升級之際，沙特呼籲保持克制，並支援巴基斯坦進行調解。"
-    },
-    {
-      "id": "4860311",
-      "time": "2026-05-05 05:22:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗最高領袖駐國防委員會代表阿里・阿克巴爾・艾哈邁迪安：伊朗國家安全是不容談判的原則。美國應當清楚，我方在縱深區域開展複雜的非對稱及混合作戰行動，將扭轉局勢平衡，讓美方為其決策付出超出承受底線的高昂代價。這並非警告，而是即將成為現實的既定態勢，一切終將昭然顯現。"
-    },
-    {
-      "id": "4860310",
-      "time": "2026-05-05 05:21:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "沙烏地阿拉伯外交部申明，沙特王國支援阿聯酋為維護自身主權、安全及領土完整所採取的一切舉措。"
     }
   ]
 }
