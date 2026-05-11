@@ -1,7 +1,104 @@
 {
-  "updated": "2026-05-11 23:10:50",
-  "count": 13780,
+  "updated": "2026-05-11 23:14:17",
+  "count": 13785,
   "items": [
+    {
+      "id": "4872837",
+      "time": "2026-05-11 23:13:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普就 “特朗普賬戶” 資金事宜稱讚戴爾創始人。"
+    },
+    {
+      "id": "4872836",
+      "time": "2026-05-11 23:13:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "特斯拉股價上漲。"
+    },
+    {
+      "id": "4872835",
+      "time": "2026-05-11 23:13:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗戰爭即將結束。"
+    },
+    {
+      "id": "4872834",
+      "time": "2026-05-11 23:12:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普： 但凡什麼事情口碑糟糕、惹人非議，我偏就要去做，而民主黨人反倒還會批准。"
+    },
+    {
+      "id": "4872833",
+      "time": "2026-05-11 23:12:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：推行兒童保育改革。"
+    },
+    {
+      "id": "4872832",
+      "time": "2026-05-11 23:11:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "佳能發言人：佳能正在為其菲律賓工廠物色潛在買家，同時也在考量其他方案。"
+    },
+    {
+      "id": "mkt:019e1798-2e3e-7dd9-b922-96bc03142e09",
+      "time": "2026-05-11 23:11:49",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "TRUMP: ENACTING CHILD CARE REFORMS"
+    },
+    {
+      "id": "4872831",
+      "time": "2026-05-11 23:11:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列攻擊仍在繼續，加沙死亡人數已升至72740人。"
+    },
+    {
+      "id": "mkt:019e1797-a282-7dd9-b922-8ccb6dc4d800",
+      "time": "2026-05-11 23:11:13",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "TRUMP SAYS IRAN WAR WILL BE OVER SOON"
+    },
+    {
+      "id": "4872830",
+      "time": "2026-05-11 23:11:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "佳能已排除將（菲律賓）工廠產能外遷的可能性。"
+    },
+    {
+      "id": "mkt:019e1797-639f-7dd9-b922-86bc1d8e3455",
+      "time": "2026-05-11 23:10:55",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "SPOT PLATINUM RISES 3% TO $2,120.20/OZ"
+    },
     {
       "id": "mkt:019e1796-bec7-7dd9-b922-7c92b21d5817",
       "time": "2026-05-11 23:10:15",
@@ -121880,58 +121977,6 @@
         "國際"
       ],
       "text": "阿聯酋國防部：阿聯酋探測到四枚來自伊朗方向的導彈。"
-    },
-    {
-      "id": "4859889",
-      "time": "2026-05-04 23:13:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "油價延續漲勢，布倫特原油價格逼近每桶113美元。"
-    },
-    {
-      "id": "4859888",
-      "time": "2026-05-04 23:12:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國海上貿易行動中心（UKMTO）表示，已收到一起事件報告，事發地點位於阿聯酋迪拜以北36 海里處。 貨船報告機艙發生火災，目前起火原因尚不明確。所有船員均安全，人員全部清點在冊。"
-    },
-    {
-      "id": "4859887",
-      "time": "2026-05-04 23:12:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "黎巴嫩總統：在與以色列總理內塔尼亞胡舉行任何會面前，必須先和以色列達成安全協議。"
-    },
-    {
-      "id": "4859886",
-      "time": "2026-05-04 23:11:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "據伊朗媒體訊息：伊朗海軍在霍爾木茲海峽向美國驅逐艦鳴槍示警。"
-    },
-    {
-      "id": "te:economy:547520",
-      "time": "2026-05-04 23:11:11",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Mexico",
-        "Manufacturing PMI",
-        "Importance 1"
-      ],
-      "text": "Mexico Manufacturing PMI Falls Further — Mexico’s S&P Global Manufacturing PMI dropped to 47.7 in April 2026 from 48.9 in March, signaling a sharper deterioration in the sector. The index remained below the 50.0 threshold for an eighth straight month. New orders declined for the sixth consecutive month, leading to a marked drop in output that was steeper than in March. International sales also contracted, adding to demand weakness. Cost pressures intensified, with input prices rising at the second-fastest pace on record. However, firms passed on only limited increases, with output price inflation remaining subdued. Producers continued to trim inventories and scale back purchasing. Weak demand also drove job cuts, with firms reducing temporary staff and placing permanent workers on technical leave. Business sentiment turned negative, with firms expecting output to decline over the next 12 months amid cash flow constraints, high costs, weak investment, tariffs, and geopolitical tensions."
-    },
-    {
-      "id": "4859885",
-      "time": "2026-05-04 23:10:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度 2026 財年總稅收收入增長 4.03%，稅收淨收入增長 5.12%。"
     }
   ]
 }
