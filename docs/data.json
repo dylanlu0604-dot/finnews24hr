@@ -1,7 +1,113 @@
 {
-  "updated": "2026-05-11 09:42:20",
-  "count": 12919,
+  "updated": "2026-05-11 09:45:47",
+  "count": 12929,
   "items": [
+    {
+      "id": "te:economy:549456",
+      "time": "2026-05-11 09:45:08",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "China 10Y Yield Slips on Strong Trade Data — China’s 10-year government bond yield slipped to around 1.76% on Monday, snapping a two-session gain, as stronger-than-expected trade data reinforced confidence in the economy ahead of a closely watched Trump-Xi meeting. China’s exports surged 14.1% year-on-year to a record USD 359.44 billion in April 2026, well above forecasts for a 7.9% increase and sharply accelerating from March’s 2.5% growth. The strong performance was driven in part by sustained global demand linked to the artificial intelligence investment boom, which helped offset disruptions to shipping routes following the closure of the Strait of Hormuz. Imports also rose strongly, climbing 25.3% from a year earlier to an all-time high of USD 274.62 billion. Market attention is now turning to the Trump-Xi meeting in Beijing later this week, where the two leaders are expected to discuss the Middle East conflict, Taiwan, and a potential framework for renewed trade negotiations between the world’s two largest economies."
+    },
+    {
+      "id": "4871221",
+      "time": "2026-05-11 09:45:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達1.96%，成分股中，瀾起科技漲11.67%，天嶽先進漲8.76%，阿特斯漲7.03%，晶合整合漲5.41%。"
+    },
+    {
+      "id": "4871220",
+      "time": "2026-05-11 09:44:45",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【軍工裝備板塊短線拉昇，光電股份漲停】軍工裝備板塊短線拉昇，光電股份漲停，愛樂達漲超10%，廣聯航空、隆達股份、江航裝備、航發動力、三角防務等跟漲。相關ETF方面，軍工ETF易方達（512560）漲1.09%，成交額1812.28萬元，軍工龍頭ETF富國（512710）漲1.6%，成交額1.92億元。"
+    },
+    {
+      "id": "4871219",
+      "time": "2026-05-11 09:44:39",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "泰國石油：受中東局勢緊張影響，本公司2026年第二季度原油採購成本及流動性狀況已受到重大影響。"
+    },
+    {
+      "id": "4871218",
+      "time": "2026-05-11 09:44:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "泰國石油：隨著中東局勢趨於正常化，預計將面臨庫存虧損，同時還要受到早前提前採購的高成本原油的影響。"
+    },
+    {
+      "id": "4871217",
+      "time": "2026-05-11 09:43:59",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "泰國石油：對於26財年第二季度展望，公司評估認為市場環境仍將不明朗，或導致波動持續。"
+    },
+    {
+      "id": "4871216",
+      "time": "2026-05-11 09:43:23",
+      "tags": [
+        "資料",
+        "市場"
+      ],
+      "text": "【國家統計局：4月石油和天然氣開採業價格環比上漲18.5%】國家統計局城市司首席統計師董莉娟解讀2026年4月份PPI資料，從環比看，全國PPI環比上漲1.7%，漲幅比上月擴大0.7個百分點。本月PPI環比執行的主要特點：一是國際輸入性因素影響國內石油相關行業價格上漲。國際原油價格上行帶動國內石油相關行業價格上漲。其中，石油和天然氣開採業價格環比上漲18.5%，石油煤炭及其他燃料加工業價格上漲16.4%，化學原料和化學制品製造業價格上漲8.3%，化學纖維製造業價格上漲5.6%，橡膠和塑膠製品業價格上漲1.7%。二是國內部分行業需求增加帶動價格上行。算力需求快速增長，電氣化程序加快，光纖製造價格環比上漲22.5%，外儲存裝置及部件價格上漲3.2%，有色金屬冶煉和壓延加工業價格上漲0.2%；電煤補庫存需求有所釋放，疊加化工、冶金等非電用煤需求增加，煤炭開採和洗選業價格上漲1.9%；製造業裝置更新持續推進帶動用鋼需求增加，黑色金屬冶煉和壓延加工業價格上漲0.6%。三是國內市場競爭秩序不斷最佳化，相關行業價格上漲或降幅收窄。深入整治“內卷式”競爭成效繼續顯現，鋰離子電池製造價格環比上漲1.6%，新能源車整車製造價格下降0.1%，降幅比上月收窄0.7個百分點。"
+    },
+    {
+      "id": "4871215",
+      "time": "2026-05-11 09:43:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "大盤主力淨流出超100億。"
+    },
+    {
+      "id": "te:economy:549453",
+      "time": "2026-05-11 09:42:35",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Food Inflation",
+        "Importance 0"
+      ],
+      "text": "China Food Prices Drop for 1st Time in 3 Months — China’s food prices fell 1.6% year-on-year in April 2026, reversing a 0.3% increase in the previous month as supply conditions improved. It marked the first decline in food prices since January, with prices falling for fresh vegetables (-0.5% vs 4.9% in March) and fresh fruit (-1.0% vs 4.0%)."
+    },
+    {
+      "id": "mkt:019e14b3-1971-7dd9-b91a-1b15633de13f",
+      "time": "2026-05-11 09:42:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Alibaba",
+        "9988.HK",
+        "Impact bearish"
+      ],
+      "text": "HONG KONG SHARES OF ALIBABA DOWN MORE THAN 3%"
+    },
+    {
+      "id": "4871214",
+      "time": "2026-05-11 09:42:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【新型柔性單晶矽電池將助力商業航天與太空光伏發展】本次天舟十號飛船還將搭載柔性封裝單晶矽太陽電池樣品進入太空，開展在軌空間環境實驗，該實驗專案將為我國商業航天網際網路組網、太空算力及未來太空光伏產業發展提供技術支撐。此次隨天舟十號上行的柔性單晶矽太陽電池，由我國科研團隊歷時三年自主研發。電池原型樣品由科研人員封裝後，放入專用實驗單元送上太空，將安置於中國空間站材料艙外暴露實驗平臺，開展空間粒子輻照、紫外輻照、原子氧侵蝕等空間綜合極端環境下的暴露實驗。科研人員將對照地面模擬實驗與在軌前後效能資料，校驗地面實驗模型與太空真實環境的匹配度，摸清電池效能的衰減規律。據瞭解，相較於當前航天主流的砷化鎵電池，這款柔性單晶矽電池輕薄可捲曲、重量可控，每平方米不足一公斤，運載成本更低，造價僅為砷化鎵電池的十分之一。 (央視新聞)"
+    },
     {
       "id": "4871213",
       "time": "2026-05-11 09:41:32",
@@ -113698,15 +113804,6 @@
         "原創"
       ],
       "text": "【韓國央行副行長稱是時候考慮加息了】韓國央行高階副行長柳相岱週一表示，鑑於物價上漲速度超出預期，韓國央行是時候考慮加息了。柳相岱正在烏茲別克出席亞洲開發銀行年會，他表示，鑑於儘管中東地緣政治風險依然存在，但韓國經濟依然保持韌性，而通脹增速可能超出預期，因此現在應該將關注點轉向潛在的加息。韓國央行4月份決定維持利率不變，原因是擔心伊朗衝突會減緩經濟增長。柳相岱表示，該行在5月28日的利率決策會議上“有可能”暗示今年或以後某個時候需要加息。他表示，考慮到經常賬戶盈餘、物價水平和各種增長指標等經濟基本面，美元兌韓元匯率與過去相比處於高位是“不爭的事實”。"
-    },
-    {
-      "id": "4858812",
-      "time": "2026-05-04 09:45:18",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "韓國央行副行長柳相岱表示，該行在5月28日的利率決策會議上“有可能”暗示今年或以後某個時候需要加息。"
     }
   ]
 }
