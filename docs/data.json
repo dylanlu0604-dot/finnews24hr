@@ -1,7 +1,102 @@
 {
-  "updated": "2026-05-11 13:57:25",
-  "count": 13147,
+  "updated": "2026-05-11 14:01:04",
+  "count": 13150,
   "items": [
+    {
+      "id": "te:markets:549533",
+      "time": "2026-05-11 14:00:30",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Set for Muted Open — European equity markets were set for a muted open on Monday as the US and Iran continued to struggle toward a diplomatic resolution to the 10-week conflict. President Donald Trump dismissed Iran’s response to his peace proposal as “TOTALLY UNACCEPTABLE,” while Tehran reportedly demanded an end to military operations on all fronts as well as the removal of sanctions. Israeli Prime Minister Benjamin Netanyahu also stated that the conflict is not over, emphasizing that the US and Israel remain committed to limiting Iran’s nuclear ambitions. Meanwhile, investors had little economic or corporate news from Europe to drive sentiment, with no major data releases or earnings reports scheduled for Monday. In premarket trading, futures linked to the Euro Stoxx 50 and Stoxx Europe 600 were broadly flat to slightly higher."
+    },
+    {
+      "id": "mkt:019e159f-6d32-7dd9-b91b-784b2d25d1d7",
+      "time": "2026-05-11 14:00:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "China EV Leaders",
+        "CSI300",
+        "Impact bullish",
+        "CNH",
+        "Copper"
+      ],
+      "text": "CHINA APRIL NEW ENERGY VEHICLE SALES +9.7% Y/Y - CCTV"
+    },
+    {
+      "id": "4871575",
+      "time": "2026-05-11 14:00:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【一季度全國消協組織為消費者挽回經濟損失2.16億元】記者今天從中國消費者協會瞭解到，今年一季度全國消協組織共受理消費者投訴470100件，解決277267件，為消費者挽回經濟損失2.16億元。按照投訴性質分析，佔比前三位的分別是：售後服務問題佔27.82%，合同問題佔22.34%，質量問題佔19.44%。與2025年一季度相比，售後服務、虛假宣傳、價格問題投訴比重上升，合同、質量、計量問題投訴比重下降。其中，在所有投訴中，商品類投訴為237224件，佔總投訴量的50.46%，與2025年一季度相比，比重下降2.81個百分點；服務類投訴為213099件，佔總投訴量的45.33%，比重上升4.10個百分點。商品投訴中，投訴量居前五位的分別為服裝、普通食品、通訊類產品、鞋、汽車及零部件。服務投訴中，投訴量居前五位的分別為經營性網際網路服務、餐飲、培訓、遠端購物、美容美髮。（央視新聞）"
+    },
+    {
+      "id": "4871574",
+      "time": "2026-05-11 13:59:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【富春股份：已將AI工具運用在遊戲研發、運營及日常管理增效上】5月11日，富春股份在深交所互動易平臺回答投資者關於“公司開發AI遊戲進度”問題時表示，公司已將AI工具運用在遊戲研發、運營及日常管理增效上。"
+    },
+    {
+      "id": "4871573",
+      "time": "2026-05-11 13:59:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟外交與安全政策高階代表：我方支援華盛頓與德黑蘭透過外交途徑解決分歧。"
+    },
+    {
+      "id": "4871572",
+      "time": "2026-05-11 13:58:32",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【高盛認為AI推動韓國呈現K型化 利率面臨壓力】高盛集團由Andrew Tilton領導的經濟學家團隊指出，他們目前預計韓國將在第三季度和第四季度分別加息25個基點。他們指出，今年，韓國AI相關出口可能增加兩倍至國內生產總值(GDP)的近30%。與此同時，受區域性供應過剩和能源衝擊的影響，非技術類出口可能仍將保持低迷。“K型週期表明，應採取有針對性、審慎的財政政策。”經濟學家在5月11日的一份報告中寫道：隨著AI驅動的出口大幅增長，貨幣面臨升值。”"
+    },
+    {
+      "id": "4871571",
+      "time": "2026-05-11 13:58:13",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【防務熱潮持續，德國TKMS訂單積壓創下240億美元的歷史新高】德國軍艦製造商蒂森克虜伯海洋系統公司（TKMS）週一表示，其手頭訂單積壓量已創下新高；與此同時，由於歐洲各國正致力於減少對美國的軍事依賴，整個歐洲地區對武器裝備的需求在持續激增。該公司披露，截至3月底，其手頭訂單積壓量已增至206億歐元（約合242億美元），高於去年12月底的187億歐元。該公司還補充道，得益於潛艇和聲納技術兩大業務部門的強勁表現，其上半年的銷售額和利潤均超出了市場預期。"
+    },
+    {
+      "id": "4871570",
+      "time": "2026-05-11 13:58:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：英國傘兵空降大西洋偏遠島嶼，執行漢坦病毒相關任務。"
+    },
+    {
+      "id": "mkt:019e159c-d0f4-7dd9-b91b-71632f15a797",
+      "time": "2026-05-11 13:57:39",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Market Regions",
+        "Emerging Markets",
+        "DXY",
+        "Impact bullish",
+        "WTI",
+        "CNH",
+        "Impact bearish"
+      ],
+      "text": "【Emerging Stocks Set to Close at Record High on Tech Bets】Emerging-market equities climbed on AI-driven chip optimism, with a developing-nation stock gauge rising as much as 1.4% and heading for a record close despite concerns over stalled US-Iran peace talks. South Korea’s benchmark index surged 5% to an all-time high, led by semiconductor stocks including SK Hynix, Samsung Electronics and MediaTek amid fears of a memory-chip shortage. JPMorgan raised its South Korea stock target for the second time in under a month, citing a stronger semiconductor cycle and governance reforms. Still, some strategists warned valuations appear stretched and vulnerable to supply disruptions. Emerging-market currencies meanwhile slipped as rising oil prices strengthened the dollar after Donald Trump rejected Iran’s peace proposal."
+    },
     {
       "id": "4871569",
       "time": "2026-05-11 13:56:55",
@@ -115883,55 +115978,6 @@
         "國際"
       ],
       "text": "伊朗武裝力量聯合司令部表示，美國的挑釁行為只會“讓當前局勢複雜化”，並危及波斯灣海域船舶航行安全。"
-    },
-    {
-      "id": "4859005",
-      "time": "2026-05-04 14:00:39",
-      "tags": [
-        "資料",
-        "國際"
-      ],
-      "text": "俄羅斯 4 月製造業指數（PMI）降至 48.1，3 月為 48.3。"
-    },
-    {
-      "id": "4859004",
-      "time": "2026-05-04 13:59:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗武裝力量聯合司令部：我方全面掌控霍爾木茲海峽安全，並對其進行有力管控。"
-    },
-    {
-      "id": "4859003",
-      "time": "2026-05-04 13:59:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網自動測定：05月04日13時55分在新疆克孜勒蘇州阿克陶縣附近（北緯38.65度，東經73.85度）發生4.7級左右地震，最終結果以正式速報為準。"
-    },
-    {
-      "id": "4859002",
-      "time": "2026-05-04 13:58:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "據伊朗媒體4日援引伊朗武裝部隊哈塔姆安比亞中央總部高階官員的話報道說，“我們警告任何外國武裝力量，特別是侵略成性的美國軍隊，若其意圖接近或進入霍爾木茲海峽，將遭到打擊”。（新華社）"
-    },
-    {
-      "id": "4859001",
-      "time": "2026-05-04 13:58:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗武裝力量統一指揮部發言人：霍爾木茲海峽的通航需與伊朗武裝力量協調進行。"
-    },
-    {
-      "id": "4859000",
-      "time": "2026-05-04 13:57:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "【港股恒大物業再漲超9%】5月4日，恒大物業再漲超9%，漲8.55%，報1.65港元，成交額6146.11萬港元。"
     }
   ]
 }
