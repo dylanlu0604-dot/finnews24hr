@@ -1,7 +1,54 @@
 {
-  "updated": "2026-05-12 04:11:22",
-  "count": 13915,
+  "updated": "2026-05-12 04:14:50",
+  "count": 13909,
   "items": [
+    {
+      "id": "mkt:019e18ad-3cc1-7dd9-b926-c428a309802c",
+      "time": "2026-05-12 04:14:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Hot",
+        "Policy",
+        "Breaking News 24h",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【UAE Secretly Conducted Strikes on Iran During War, WSJ Reports】The United Arab Emirates carried out covert military strikes on Iran during the recent conflict, including an early April attack on an oil refinery on Iran’s Lavan Island that caused a major fire and disrupted production for months, according to people familiar with the matter. Iran later launched missile and drone attacks on the UAE and Kuwait in response. The UAE declined to comment directly on the strikes but cited its right to respond militarily to hostile acts. The report said the UAE deepened military cooperation with the U.S. as Iran targeted Gulf infrastructure and population centers during the war. Analysts cited in the report said the conflict marked a major shift in the UAE’s strategic posture toward Iran."
+    },
+    {
+      "id": "4873147",
+      "time": "2026-05-12 04:12:53",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "據華爾街日報：訊息人士稱，阿聯酋此前已對伊朗實施軍事打擊。阿聯酋的襲擊包括對伊朗拉萬島上一座煉油廠的攻擊。阿聯酋一直在秘密對伊朗進行攻擊。阿聯酋尚未公開承認對伊朗的襲擊。"
+    },
+    {
+      "id": "mkt:019e18ab-9c41-7dd9-b926-bb6cd7bbb1b7",
+      "time": "2026-05-12 04:12:40",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "U.A.E. HASN'T PUBLICLY ACKNOWLEDGED STRIKES ON IRAN - WSJ"
+    },
+    {
+      "id": "mkt:019e18ab-52af-7dd9-b926-b7130895ab91",
+      "time": "2026-05-12 04:12:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "THE U.A.E. HAS BEEN SECRETLY CARRYING OUT ATTACKS ON IRAN - WSJ U.A.E. MILITARY CONDUCTED DIRECT STRIKES ON IRAN, TARGETING A REFINERY ON LAVAN ISLAND IRAN RETALIATED WITH OVER 2,800 MISSILE AND DRONE STRIKES AGAINST U.A.E. ENERGY INFRASTRUCTURE"
+    },
     {
       "id": "mkt:019e18a9-936b-7dd9-b926-aa38834efd59",
       "time": "2026-05-12 04:10:26",
@@ -123225,95 +123272,6 @@
         "國際"
       ],
       "text": "美國特勤局通報，執法人員在第15街與獨立大道交匯處（臨近白宮及國家廣場）發生槍擊事件。有一人遭執法人員槍擊，目前狀況不明。事件細節仍不清晰，暫未獲悉作案動機、嫌疑人身份及警員是否受傷等相關資訊。"
-    },
-    {
-      "id": "4860226",
-      "time": "2026-05-05 04:14:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際貨幣基金組織（IMF）總裁格奧爾基耶娃表示，如果這場衝突持續到2027年，且油價達到每桶125美元，那麼我們必須做好準備迎接“糟糕得多的結果”。"
-    },
-    {
-      "id": "4860225",
-      "time": "2026-05-05 04:14:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談伊朗問題：儘管有“小規模戰爭”，美國經濟依然繁榮。"
-    },
-    {
-      "id": "4860224",
-      "time": "2026-05-05 04:13:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際貨幣基金組織（IMF）總裁格奧爾基耶娃表示，通脹雖已開始抬頭，但長期通脹預期仍保持穩定，因此目前我們尚未進入最危險的區間。"
-    },
-    {
-      "id": "te:547572",
-      "time": "2026-05-05 04:13:48",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "On Semiconductor earnings above expectations at 0.64 USD — On Semiconductor (ON) released earnings per share at 0.64 USD, compared to market expectations of 0.61 USD."
-    },
-    {
-      "id": "te:markets:547572",
-      "time": "2026-05-05 04:13:48",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "On Semiconductor earnings above expectations at 0.64 USD — On Semiconductor (ON) released earnings per share at 0.64 USD, compared to market expectations of 0.61 USD."
-    },
-    {
-      "id": "4860223",
-      "time": "2026-05-05 04:13:02",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "國際貨幣基金組織（IMF）總裁格奧爾基耶娃表示，因中東衝突導致全球增長小幅放緩、物價小幅上漲的原有IMF預測已不再成立。"
-    },
-    {
-      "id": "4860222",
-      "time": "2026-05-05 04:12:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國特勤局：一名人員遭執法人員槍擊，目前傷情不明。"
-    },
-    {
-      "id": "4860221",
-      "time": "2026-05-05 04:12:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "馬士基表示，旗下懸掛美國船旗的汽車運輸船聯盟費爾法克斯號已於 5 月 4 日經霍爾木茲海峽駛出波斯灣。"
-    },
-    {
-      "id": "4860220",
-      "time": "2026-05-05 04:11:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普： 我不算老年人，我遠比普通老年人群體年輕。我的身心狀態和五十年前一模一樣。"
-    },
-    {
-      "id": "4860218",
-      "time": "2026-05-05 04:11:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：民調顯示“有32%的民眾反對特朗普總統”。要是換個提問方式，比如問“伊朗擁有核武器是否可以接受？”，結果肯定就不是32%了。但即便你這麼問，照樣還會得出32%這種資料，因為這些民調完全是造假的。"
     }
   ]
 }
