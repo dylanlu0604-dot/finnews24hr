@@ -1,7 +1,106 @@
 {
-  "updated": "2026-05-11 09:38:48",
-  "count": 12914,
+  "updated": "2026-05-11 09:42:20",
+  "count": 12919,
   "items": [
+    {
+      "id": "4871213",
+      "time": "2026-05-11 09:41:32",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【伊朗副外長警告法英兩國勿加劇危機】針對法國和英國牽頭的霍爾木茲海峽多國護航行動，伊朗副外長加里布阿巴迪5月10日警告法國和英國不要向霍爾木茲海峽部署軍艦，伊朗方面不會允許任何地區外的勢力干涉霍爾木茲海峽的安全。法國國防部6日釋出新聞公告稱，法國海軍“戴高樂”號航母正穿越蘇伊士運河駛向紅海南部，為霍爾木茲海峽多國護航行動做準備。英國媒體9日報道稱，英國“龍”號驅逐艦將被部署至中東，以備參加霍爾木茲海峽護航行動。（CCTV國際時訊）"
+    },
+    {
+      "id": "4871212",
+      "time": "2026-05-11 09:41:14",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "菲律賓股指上漲1%，至6022.05點。"
+    },
+    {
+      "id": "4871211",
+      "time": "2026-05-11 09:41:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【港口航運板塊盤初震盪下挫，國航遠洋跌超7%】港口航運板塊盤初震盪下挫，國航遠洋跌超7%，招商輪船、招商南油跌超6%，中遠海能、北部灣港、南京港跟跌。"
+    },
+    {
+      "id": "4871210",
+      "time": "2026-05-11 09:40:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "港股光通訊概念股持續走高，劍橋科技、長飛光纖光纜漲超7%，FIT HON TENG漲超5%，匯聚科技漲近4%。"
+    },
+    {
+      "id": "4871209",
+      "time": "2026-05-11 09:40:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "S-OIL：受韓國燃料價格上限政策影響，面臨鉅額虧損。"
+    },
+    {
+      "id": "4871208",
+      "time": "2026-05-11 09:39:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "【元件板塊多數走高，風華高科漲停】元件板塊多數走高，風華高科漲停，達利凱普、方正科技、博敏電子、廣合科技、迅捷興跟漲。"
+    },
+    {
+      "id": "te:economy:549450",
+      "time": "2026-05-11 09:38:56",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Building Permits MoM",
+        "Importance 1"
+      ],
+      "text": "Australia Building Permits Fall 10.5% in March — The seasonally adjusted number of total dwellings approved in Australia fell 10.5% month-on-month to 17,300 units in March 2026, reversing a 31.0% surge in February, confirming preliminary data. This marked the steepest decline since late December, driven primarily by a sharp contraction in approvals for private sector dwellings excluding houses (-26.0% vs 101.1% in February), while growth in private sector house approvals eased to 0.9% from 2.0%. By region, total dwelling approvals declined in most states, including Victoria (-16.9%), Western Australia (-15.5%), Queensland (-6.4%), and South Australia (-2.1%), while increases were recorded in New South Wales (3.2%) and Tasmania (2.6%). Despite the monthly decline, total dwelling approvals were still up 9.0% year-on-year, following a 16.1% gain in the previous period."
+    },
+    {
+      "id": "mkt:019e14af-e644-7dd9-b91a-13b989ed426f",
+      "time": "2026-05-11 09:38:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "CHINA'S CSI IT INDEX UP MORE THAN 3%"
+    },
+    {
+      "id": "te:markets:549449",
+      "time": "2026-05-11 09:38:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "New Zealand Dollar Retreats — The New Zealand dollar fell to around $0.595 on Monday, retreating from a more than two-month high as risk sentiment weakened again after President Donald Trump dismissed Iran’s response to the US proposal to end the war. Trump described the response as “totally unacceptable” and accused Tehran of playing games, dampening hopes for an imminent resolution to the 10-week-long conflict. The tensions have pushed oil prices higher, posing a challenge for New Zealand’s inflation and economic outlook. Reserve Bank of New Zealand Governor Anna Breman recently noted that core inflation measures remained stable within the central bank’s target range in the first quarter, prompting investors to scale back expectations of a rate hike in May. However, markets continue to fully price in an increase in July as elevated energy costs fuel inflation concerns. Meanwhile, last week’s mixed labor market data had little impact on interest rate expectations."
+    },
+    {
+      "id": "mkt:019e14af-c7a1-7dd9-b91a-09e45d976283",
+      "time": "2026-05-11 09:38:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "CHINA'S CSI SEMICONDUCTOR INDEX UP 3%"
+    },
     {
       "id": "4871207",
       "time": "2026-05-11 09:38:19",
@@ -113608,47 +113707,6 @@
         "國際"
       ],
       "text": "韓國央行副行長柳相岱表示，該行在5月28日的利率決策會議上“有可能”暗示今年或以後某個時候需要加息。"
-    },
-    {
-      "id": "4858811",
-      "time": "2026-05-04 09:41:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國海軍護航艦艇可能被排除在特朗普的霍爾木茲海峽倡議之外。"
-    },
-    {
-      "id": "4858810",
-      "time": "2026-05-04 09:41:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "SK海力士韓股漲幅擴大至7.9%。"
-    },
-    {
-      "id": "4858809",
-      "time": "2026-05-04 09:40:54",
-      "tags": [
-        "觀點"
-      ],
-      "text": "MiniMax港股一度漲近11%，高盛因其收入穩健等上調評級至買入。"
-    },
-    {
-      "id": "4858808",
-      "time": "2026-05-04 09:40:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "普拉達港股漲超3%"
-    },
-    {
-      "id": "4858807",
-      "time": "2026-05-04 09:39:14",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "恒生指數漲超2%，現報26293.400點；恒生科技指數現漲3.172%。"
     }
   ]
 }
