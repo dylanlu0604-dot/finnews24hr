@@ -1,7 +1,83 @@
 {
-  "updated": "2026-05-12 23:14:34",
-  "count": 14752,
+  "updated": "2026-05-12 23:18:02",
+  "count": 14749,
   "items": [
+    {
+      "id": "4875604",
+      "time": "2026-05-12 23:17:29",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4670美元/盎司，日內跌1.27%。"
+    },
+    {
+      "id": "mkt:019e1cc3-f218-7dd3-a757-037de405248f",
+      "time": "2026-05-12 23:17:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "WALDRON SAYS M&A MARKET HAS GOTTEN BETTER SINCE IRAN WAR BEGAN"
+    },
+    {
+      "id": "4875603",
+      "time": "2026-05-12 23:17:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國議員就伊朗戰爭成本拷問赫格塞思 對透明度不足和目標模糊不滿】負責監督五角大樓開支的美國議員週二就伊朗戰爭不斷上升的成本向國防部長赫格塞思施壓。此前，美國總統唐納德·特朗普暗示，與德黑蘭之間脆弱的停火可能破裂。五角大樓代理主計長Jules Hurst週二向議員表示，伊朗戰爭迄今的估算成本目前已接近290億美元。他在4月29日的一場聽證會上給出的數字為250億美元。考慮到彈藥、軍事行動和中東地區部署的巨大成本，這一數字當時就遭到議員和外部專家批評，認為明顯偏低。美國眾議院撥款委員會資深民主黨議員、來自康涅狄格州的Rosa DeLauro週二表示：“自這場戰爭開始以來，始終缺乏透明度。”她表示，成本每天都在上升，而政府在這場衝突中的戰略並不明確，即便似乎可能再度爆發激烈戰事。她還說：“最終目標含糊其辭，甚至根本完全沒有明確的定義。”海格塞斯此次出席眾議院撥款委員會國防小組委員會聽證會，再次就特朗普政府提出的2027財年1.5萬億美元國防開支請求作證。這一規模前所未有。"
+    },
+    {
+      "id": "mkt:019e1cc3-a3bb-7dd3-a756-fbc3f24a152d",
+      "time": "2026-05-12 23:17:00",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "US ENERGY DEPARTMENT MIGHT FUND BILLIONS FOR LONG-TERM NUCLEAR REACTOR COMPONENTS, ACCORDING TO NEI LEADER"
+    },
+    {
+      "id": "mkt:019e1cc3-5590-7dd3-a756-f35d9a3e1a19",
+      "time": "2026-05-12 23:16:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "PJM MAY HAVE GROWN TOO BIG TO FUNCTION, FERC'S SWETT SAYS"
+    },
+    {
+      "id": "mkt:019e1cc3-075f-7dd3-a756-e95c0c0d76f2",
+      "time": "2026-05-12 23:16:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "KYIV & WASHINGTON ARE PREPARING TO SIGN A FIRST-OF-ITS-KIND DEAL TO ALLOW UKRAINIAN DRONES TO BE EXPORTED TO THE US FOR MILITARY TESTING, ACCORDING TO A DRAFT DOCUMENT SEEN BY FT"
+    },
+    {
+      "id": "4875602",
+      "time": "2026-05-12 23:16:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌3%，現報1472.55美元/盎司。"
+    },
+    {
+      "id": "4875601",
+      "time": "2026-05-12 23:16:16",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "高盛總裁John Waldron： 自伊朗戰事爆發以來，併購市場行情已出現回暖。"
+    },
+    {
+      "id": "4875600",
+      "time": "2026-05-12 23:14:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "根據特拉維夫大學開展的一項研究，75% 的以色列阿拉伯公民支援參與非國防性質的民事義務服務。半數受訪者（53.3%）表示，目前自身對該國擁有強烈的歸屬感。"
+    },
     {
       "id": "4875599",
       "time": "2026-05-12 23:13:15",
@@ -130942,109 +131018,6 @@
         "國際"
       ],
       "text": "市場資訊：白宮已就霍爾木茲海峽“自由計劃”行動提前私下通知伊朗並警告伊朗不得進行干預。"
-    },
-    {
-      "id": "te:economy:547968",
-      "time": "2026-05-05 23:17:43",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "US 10-Year Treasury Yield Falls From July-Highs — The yield on the US 10-year Treasury note edged down to 4.42% on Tuesday, after rising by around 6bps to its highest level since July 2025 in the previous session. The decline came as oil prices fell nearly 4%, following a sharp spike on Monday. Traders continue to monitor developments in the Middle East, where a ceasefire appears to be holding after the US and Iran exchanged fire, with the UAE also becoming involved. US Defense Secretary Pete Hegseth added that two US commercial vessels transited safely through the Strait of Hormuz with military support, providing some temporary relief over concerns about further escalation. Market participants also digested fresh economic data. The ISM Services PMI indicated a slowdown in services activity, while job openings came in slightly above expectations. Meanwhile, the US Treasury said on Monday it now expects to borrow $189 billion in the second quarter, $79 billion more than projected in February."
-    },
-    {
-      "id": "4861690",
-      "time": "2026-05-05 23:17:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國銀行就紐約州抵押貸款託管法上訴勝訴。"
-    },
-    {
-      "id": "4861689",
-      "time": "2026-05-05 23:17:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊朗海軍和空軍已被徹底摧毀。"
-    },
-    {
-      "id": "4861688",
-      "time": "2026-05-05 23:17:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "【“博科聖地”襲擊查德一軍事基地致23死26傷】查德軍隊總參謀部5日釋出通報說，4日22時許，極端組織“博科聖地”襲擊了查德國防與安全部隊位於查德湖省的軍事基地，造成23人死亡、26人受傷。（新華社）"
-    },
-    {
-      "id": "4861687",
-      "time": "2026-05-05 23:17:19",
-      "tags": [
-        "公司",
-        "觀點",
-        "其他"
-      ],
-      "text": "Raymond James分析師John Freeman週二將戴文能源評級從“跑贏大盤”上調至“強力買入”，目標價從62美元大幅上調至72美元。該機構認為，隨著科特拉能源合併案完成，戴文能源擁有“多種選項”來縮小與其同行的估值差距。"
-    },
-    {
-      "id": "4861686",
-      "time": "2026-05-05 23:17:07",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【美總統再批美聯儲主席】美國聯邦儲備委員會主席鮑威爾日前宣佈，他將在主席任期結束後留任美聯儲理事。對此，與鮑威爾素來不和的特朗普政府感到非常不滿。還有美國政府高階官員稱，鮑威爾留任美聯儲理事的行為對下任主席提名人選凱文·沃什“是一種侮辱”。"
-    },
-    {
-      "id": "4861685",
-      "time": "2026-05-05 23:16:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊朗現在只剩下幾艘帶機槍的小船了。"
-    },
-    {
-      "id": "4861684",
-      "time": "2026-05-05 23:16:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談伊朗：已經狠狠地打敗了他們。"
-    },
-    {
-      "id": "4861683",
-      "time": "2026-05-05 23:16:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "人工智慧初創公司Anthropic執行長在紐約金融活動上表示，該公司員工總數約為3500人。"
-    },
-    {
-      "id": "4861682",
-      "time": "2026-05-05 23:15:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿聯酋國防部：部隊正積極應對導彈和無人機威脅。"
-    },
-    {
-      "id": "4861681",
-      "time": "2026-05-05 23:15:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿聯酋：防空系統目前正應對導彈威脅。"
-    },
-    {
-      "id": "4861680",
-      "time": "2026-05-05 23:15:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗總統佩澤希齊揚：若政治淪為單純的權力博弈，結局便是如今的世界，充斥混亂壓迫不公與掠奪。在我們的民族精神與宗教價值觀中，脫離道德的權力毫無意義，如今伊朗代表著堅守道義與責任的力量，而其對手則象徵著肆意妄為不受約束的強權。"
     }
   ]
 }
