@@ -1,7 +1,56 @@
 {
-  "updated": "2026-05-12 13:26:00",
-  "count": 14123,
+  "updated": "2026-05-12 13:29:24",
+  "count": 14128,
   "items": [
+    {
+      "id": "4874200",
+      "time": "2026-05-12 13:28:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "拜耳第一季度調整後EBITDA 45億歐元，預估39.4億歐元。"
+    },
+    {
+      "id": "mkt:019e1aa8-2ce2-7dd9-b928-f49ada9aa3d7",
+      "time": "2026-05-12 13:28:07",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Unitree Unveils: GD01, A Manned Transformable Mecha, from $650,000 】Unitree: The world's first production-ready manned mecha. It can transform. It's a civilian vehicle. It weighs ~500kg with you inside. Please everyone be sure to use the robot in a Friendly and Safe manner"
+    },
+    {
+      "id": "4874199",
+      "time": "2026-05-12 13:27:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "滙豐將MONCLER目標股價從70歐元下調至68歐元。"
+    },
+    {
+      "id": "4874198",
+      "time": "2026-05-12 13:27:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "滙豐將路威酩軒目標股價從650歐元下調至600歐元。"
+    },
+    {
+      "id": "4874197",
+      "time": "2026-05-12 13:27:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "滙豐將愛馬仕目標股價從2300歐元下調至2100歐元。"
+    },
+    {
+      "id": "4874196",
+      "time": "2026-05-12 13:25:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【進度條重新整理，引江濟淮工程階段驗收工作全面完成】近日，淮委會同安徽省水利廳主持召開引江濟淮工程（安徽段）鳳凰頸泵站改造工程機組啟動驗收會議。鳳凰頸泵站改造工程順利透過機組啟動驗收，標誌著引江濟淮工程階段驗收工作全面收官。引江濟淮工程是跨流域、跨省的重大戰略性水資源配置和綜合利用工程，為國家172項節水供水重大水利工程的標誌性專案，供水範圍涉及河南、安徽兩省15市55縣（市、區），總面積7.06萬平方公里，輸水線路總長723公里。工程2022年試通水通航、2025年實現“雙線引江”，緩解皖北、豫東地區水資源短缺矛盾，改善流域水生態環境提供堅實保障。（央視新聞）"
+    },
     {
       "id": "4874195",
       "time": "2026-05-12 13:25:35",
@@ -125157,18 +125206,6 @@
         "Importance 1"
       ],
       "text": "Crypto Updates: Ether Increases by 1.64% — Top crypto gainers are Ether (1.64%) and Bitcoin (1.53%)."
-    },
-    {
-      "id": "te:economy:547704",
-      "time": "2026-05-05 13:28:24",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Singapore",
-        "Retail Sales YoY",
-        "Importance 1"
-      ],
-      "text": "Singapore Retail Sales Growth Eases in March — Retail sales in Singapore rose by 4.8% year-on-year in March 2026, slowing from a 8.3% increase in the previous month. This marked the second consecutive month of growth in retail activity but at a softer pace, largely due to lower sales in department stores (-5.7% vs 18% in February) and food and alcohol (-6% vs 12.7%). Activity growth also slowed in supermarkets and hypermarkets (2.7% vs 28.9%), cosmetics, toiletries and medical goods (3.3% vs 13.5%), and overall retail sales excluding motor vehicles, parts and accessories (3.3% vs 11.3%). On the other hand, turnover increased for motor vehicles, parts and accessories (12.9% vs -7.8%), petrol service stations (4% vs -10.1%), and computer and telecommunication equipment (11.9% vs 2.6%). On a seasonally adjusted monthly basis, retail trade grew by 3.7%, rebounding from a 4.3% drop in February."
     }
   ]
 }
