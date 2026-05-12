@@ -1,7 +1,52 @@
 {
-  "updated": "2026-05-13 00:38:04",
-  "count": 14730,
+  "updated": "2026-05-13 00:41:28",
+  "count": 14731,
   "items": [
+    {
+      "id": "mkt:019e1d0e-6cec-7772-877a-0802194c51e5",
+      "time": "2026-05-13 00:39:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact mixed",
+        "DXY",
+        "S&P500"
+      ],
+      "text": "【Kevin Warsh Confirmed to Fed Board, Chair Vote Pending】The Senate confirmed Kevin Warsh to the Federal Reserve Board of Governors Tuesday in a 51-45 vote for a 14-year term. A separate vote on his nomination to succeed Jerome Powell as Fed chair is expected Wednesday. The confirmation largely followed party lines, with Democrat John Fetterman joining Republicans in support. Warsh’s confirmation comes amid Trump’s push for rate cuts, rising inflation, and Democratic concerns over Fed independence. Warsh has pledged to act independently if confirmed as chair."
+    },
+    {
+      "id": "4875678",
+      "time": "2026-05-13 00:38:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "智利國家銅業委員會（Cochilco）資料：智利埃斯孔迪達銅礦 3 月銅產量同比下滑 15.75%，降至 10.16萬噸。"
+    },
+    {
+      "id": "mkt:019e1d0d-8e88-7772-877a-061f84a50b31",
+      "time": "2026-05-13 00:38:08",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "PENNSYLVANIA'S FETTERMAN WAS ONLY DEMOCRAT TO SUPPORT WARSH'S CONFIRMATION"
+    },
+    {
+      "id": "mkt:019e1d0d-7d36-7772-8779-ffb3a54d1cce",
+      "time": "2026-05-13 00:38:00",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "CHILEAN MINE ESCONDIDA COPPER PRODUCTION DOWN 15.75% Y/Y IN MARCH TO 101,600 TONS - COCHILCO"
+    },
     {
       "id": "mkt:019e1d0d-5fe2-7772-8779-f623f82a8d66",
       "time": "2026-05-13 00:37:56",
@@ -131017,33 +131062,6 @@
         "國際"
       ],
       "text": "【特朗普向美國食藥局局長施壓 要求批准調味電子煙】據知情人士透露，特朗普近日心生不滿，於週末斥責美國食品藥品監督管理局局長馬蒂・馬卡里，批評其在調味電子煙和尼古丁製品審批事宜上行動遲緩。知情人士表示，特朗普週末在佛羅里達州多次致電相關人員，並於週一在白宮展開商討，就馬卡里的任職問題，以及調味電子煙對支援自己的年輕選民群體的重要性，向幕僚徵求意見。幕僚向特朗普表示，馬卡里一直阻礙特朗普的電子煙相關政策推行，認為其已成為本屆政府的一大阻礙。此前，白宮有意批准洛杉磯電子煙製造商格拉斯旗下薄荷、芒果、藍莓等口味電子煙產品，卻遭到馬卡里拒絕，公然違背白宮意向。特朗普與馬卡里已就調味電子煙審批政策轉向一事展開溝通，但目前尚不確定馬卡里是否會改變立場。部分訊息人士稱，馬卡里正考慮放寬電子煙口味的審批尺度。此前馬卡里出於公共健康風險考量，不願批准水果類及其他易吸引未成年人的電子煙口味上市。"
-    },
-    {
-      "id": "4861855",
-      "time": "2026-05-06 00:39:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "Altria Group股價轉漲。"
-    },
-    {
-      "id": "te:markets:547990",
-      "time": "2026-05-06 00:39:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Lumber Futures Remain Below $600 — Lumber futures have been trading below $600 per thousand board feet since early April, as weaker consumer sentiment and uncertainty surrounding developments in the Middle East weigh on demand. At the same time, supply constraints in several regions have partially offset the decline in demand. Profitability for Canadian mills remains under pressure from elevated duties and tariffs. The US has recently outlined preliminary antidumping and countervailing duties on Canadian softwood lumber, with the antidumping rate reduced from 20.6% to 10.7% and the countervailing duty trimmed from 14.6% to 14.2%, bringing the combined rate to about 25.9%. Including an existing 10% Section 232 tariff, total effective duties on Canadian imports are expected to remain near 35.9% once they take effect in August. Despite these measures aimed at supporting domestic producers, US sawmill utilisation remains relatively weak at around 64%, with capacity use trending lower since 2017."
-    },
-    {
-      "id": "4861854",
-      "time": "2026-05-06 00:38:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "eBay董事會將於本週召開會議，審議對遊戲驛站的收購要約。"
     }
   ]
 }
