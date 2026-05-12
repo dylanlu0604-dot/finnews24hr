@@ -1,7 +1,161 @@
 {
-  "updated": "2026-05-13 00:10:31",
-  "count": 14725,
+  "updated": "2026-05-13 00:14:00",
+  "count": 14733,
   "items": [
+    {
+      "id": "mkt:019e1cf7-4b7c-7772-8779-8fc7a2135aee",
+      "time": "2026-05-13 00:13:49",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "EIA NOW EXPECTS IRAN WILL HAVE TO REDUCE OIL OUTPUT, IN PART DUE TO U.S. BLOCKADE"
+    },
+    {
+      "id": "4875665",
+      "time": "2026-05-13 00:13:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源資訊署預計，受伊朗局勢衝突影響，原油停產規模將於 5 月達到峰值，約1080 萬桶 / 日。"
+    },
+    {
+      "id": "4875664",
+      "time": "2026-05-13 00:12:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統新聞秘書佩斯科夫：俄羅斯已就薩爾馬特導彈試射事宜通知美國及其他相關國家。"
+    },
+    {
+      "id": "mkt:019e1cf6-8f3a-7772-8779-861fe0f4420a",
+      "time": "2026-05-13 00:12:42",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "EIA EXPECTS IRAN WAR RELATED OIL PRODUCTION SHUT INS TO PEAK AT ABOUT 10.8 MLN BPD IN MAY"
+    },
+    {
+      "id": "te:markets:550064",
+      "time": "2026-05-13 00:12:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 1.36% Lower — The FTSE MIB Index fell 674 points or 1.36 percent on Tuesday to close at 48991 points. Leading the losses are STMicroelectronics (-5.40%), Prysmian (-4.92%) and Nexi (-4.26%)."
+    },
+    {
+      "id": "mkt:019e1cf6-260c-7772-8779-7834d4a3bb0f",
+      "time": "2026-05-13 00:11:58",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "KUWAIT ACCUSES IRAN OF TRYING TO INFILTRATE ITS MILITARY-FOCUSED ISLAND - WSJ"
+    },
+    {
+      "id": "4875663",
+      "time": "2026-05-13 00:11:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源資訊署預計，即便霍爾木茲海峽航運恢復通行，原油產量與貿易格局也要到 2026 年末或 2027 年初才能迴歸衝突前水平。"
+    },
+    {
+      "id": "mkt:019e1cf5-dc56-7772-8779-76733391e7f7",
+      "time": "2026-05-13 00:11:46",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "EIA EXPECTS OUTPUT AND TRADE PATTERNS TO RETURN TO PRE-CONFLICT LEVELS BY LATE 2026 OR EARLY 2027 EVEN AFTER STRAIT OF HORMUZ FLOWS RESUME"
+    },
+    {
+      "id": "mkt:019e1cf5-8581-7772-8779-6dfa4cb7de5d",
+      "time": "2026-05-13 00:11:38",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "US10Y"
+      ],
+      "text": "RUSSIA HAS NOTIFIED THE US AND OTHER COUNTRIES ABOUT THE TESTS OF THE \"SARMAT\" - PESKOV SAID"
+    },
+    {
+      "id": "4875662",
+      "time": "2026-05-13 00:11:36",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "CBOT小麥期貨上漲，美國農業部（USDA）預計美國冬小麥產量將銳減25%。"
+    },
+    {
+      "id": "te:markets:550063",
+      "time": "2026-05-13 00:11:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 1.62% Lower — The DAX Index dropped 395 points or 1.62 percent on Tuesday to close at 23955 points. Losses were led by Munich RE (-5.99%), Zalando (-5.86%) and Siemens Energy (-5.05%)."
+    },
+    {
+      "id": "te:markets:550062",
+      "time": "2026-05-13 00:10:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "US Natgas Prices Fall More than 3% — US natural gas futures fell more than 3% to around $2.8 per MMBtu as expectations for weaker demand, elevated storage levels, and lower LNG feedgas flows weighed on prices. Mild spring weather earlier in the season allowed utilities to inject more gas into storage than usual, leaving inventories about 7% above seasonal norms as of early May. Weather forecasts suggest mostly near average conditions through late May, limiting near term demand upside. LNG exports also softened, with flows to major US export terminals averaging 17.1 bcfd so far in May, down from April’s record 18.8 bcfd due to seasonal maintenance. Domestic production has also eased slightly, with Lower 48 output slipping to about 109.3 bcfd from April levels, as low spot prices prompted some producers, including EQT, to curb output."
+    },
+    {
+      "id": "mkt:019e1cf4-7a4f-7772-8779-6404b3e41be8",
+      "time": "2026-05-13 00:10:44",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Nasdaq100",
+        "Impact bearish"
+      ],
+      "text": "PHILADELPHIA SE SEMICONDUCTOR INDEX DROPS 5.6% AFTER RISING MORE THAN 8% IN THE LAST TWO SESSIONS"
+    },
+    {
+      "id": "mkt:019e1cf4-54f2-7772-8779-5dadae9f16bf",
+      "time": "2026-05-13 00:10:35",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOGL.O"
+      ],
+      "text": "【SpaceX, Google Discuss Orbital Data Center Partnership Ahead of IPO】Google is in talks with SpaceX on a rocket launch deal tied to the companies’ orbital data-center ambitions, according to people familiar with the matter. Google is also discussing potential agreements with other launch providers. The talks come as SpaceX promotes orbital computing to investors ahead of its planned IPO. Google said last year it plans to launch prototype satellites by 2027 under Project Suncatcher with Planet Labs. Elon Musk has described orbital data centers as “the next frontier” for SpaceX. SpaceX recently announced computing and infrastructure agreements with Anthropic and Cursor."
+    },
     {
       "id": "te:markets:550061",
       "time": "2026-05-13 00:10:17",
@@ -130872,67 +131026,6 @@
         "其他"
       ],
       "text": "德國外長表示，德國無法接受對約旦河西岸部分地區的事實吞併。"
-    },
-    {
-      "id": "te:markets:547987",
-      "time": "2026-05-06 00:12:32",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Shopify Stock Price Hits 11-week Low — Shopify shares decreased to 150.61 CAD, the lowest since February 2026. Over the past 4 weeks, Shopify Inc lost 8.38%, and in the last 12 months, it increased 17.24%."
-    },
-    {
-      "id": "4861825",
-      "time": "2026-05-06 00:12:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "兩名訊息人士稱，奈及利亞國家石油公司（NNPC）將於6月向丹格特煉油廠分配6船原油用於裝船，5月的分配量為7船。"
-    },
-    {
-      "id": "te:markets:547986",
-      "time": "2026-05-06 00:12:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE MIB Index Closes 2.27% Higher — The FTSE MIB Index went up by 1079 points or 2.27 percent on Tuesday to close at 48558 points. The rise was led by Prysmian (10.08%), UniCredit (6.13%) and Amplifon (4.59%)."
-    },
-    {
-      "id": "4861824",
-      "time": "2026-05-06 00:11:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以軍總參謀長：若伊朗襲擊以色列 以軍已做好回應準備】當地時間5月5日，以色列國防軍總參謀長扎米爾表示，如果伊朗在海灣局勢升級之際襲擊以色列，軍方“已做好以武力回應的準備”。扎米爾表示：“我們的部隊已部署在所有戰區，隨時準備應對任何情況——無論來自近處還是遠處。”（央視新聞）"
-    },
-    {
-      "id": "te:markets:547985",
-      "time": "2026-05-06 00:11:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The DAX Index Closes 1.71% Higher — The DAX Index rose 410 points or 1.71 percent on Tuesday to close at 24402 points. Leading the gains are Infineon (6.25%), Commerzbank (4.50%) and Siemens (4.46%)."
-    },
-    {
-      "id": "4861823",
-      "time": "2026-05-06 00:10:49",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普政府正擬定相關規則，加強對違規無人機飛行的安全管控。"
     }
   ]
 }
