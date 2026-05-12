@@ -1,7 +1,145 @@
 {
-  "updated": "2026-05-12 21:58:13",
-  "count": 14718,
+  "updated": "2026-05-12 22:01:49",
+  "count": 14715,
   "items": [
+    {
+      "id": "te:markets:550041",
+      "time": "2026-05-12 22:01:20",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "IBM Stock Price Hits 13-month Low — IBM shares decreased to 220.70 USD, the lowest since April 2025. Over the past 4 weeks, IBM lost 7.01%, and in the last 12 months, it decreased 12.82%."
+    },
+    {
+      "id": "4875449",
+      "time": "2026-05-12 22:00:58",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "俄羅斯經濟部下調了 2026 至 2029 年石油產量及出口量的預期預測。"
+    },
+    {
+      "id": "4875448",
+      "time": "2026-05-12 22:00:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗擴大霍爾木茲海峽界定範圍伊朗表示，已大幅擴大對霍爾木茲海峽的界定範圍，如今認定該航道涵蓋的水域面積遠多於戰前劃定範圍。伊朗伊斯蘭革命衛隊海軍一名官員稱，伊朗絕不允許任何勢力侵犯其領海與國家利益。"
+    },
+    {
+      "id": "mkt:019e1c7d-3aea-7dd3-a756-415fa8380155",
+      "time": "2026-05-12 22:00:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "CHINA JINMAO ANNOUNCEMENT CONTINUING CONNECTED TRANSACTIONS AND DISCI"
+    },
+    {
+      "id": "mkt:019e1c7d-1ec3-7dd3-a756-3fe7adfb9d59",
+      "time": "2026-05-12 22:00:22",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "RUSSIA'S OIL PRODUCTION FORECAST IS CUT BY 14.2 MLN T TO 511 MLN T IN 2026, BY 16.6 MLN T TO 516 MLN T IN 2027 IN BASE CASE SCENARIO - ECONOMY MINISTRY RUSSIA'S OIL EXPORTS ESTIMATES ARE REVISED DOWN BY 4.5 MLN T TO 237.2 MLN T IN 2026, BY 16.5 MLN T TO 227.4 MLN T IN 2027 IN BASE CASE SCENARIO - ECONOMY MINISTRY"
+    },
+    {
+      "id": "te:markets:550040",
+      "time": "2026-05-12 22:00:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Opens 0.51% Lower — The Dow Jones Index is dropping 255 points. Leading the losses are Caterpillar (-2.56%), Goldman Sachs (-1.88%) and Boeing (-1.83%). Top gainers were Merck (1.48%), Walmart (1.46%) and J&J (1.15%)."
+    },
+    {
+      "id": "4875447",
+      "time": "2026-05-12 22:00:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄總統新聞秘書：特別軍事行動可隨時結束】俄羅斯總統新聞秘書佩斯科夫12日在新聞釋出會上表示，只要烏克蘭方面能夠做出相關決定，俄羅斯在停火安排後重啟的特別軍事行動可隨時結束。佩斯科夫說，烏克蘭方面清楚應該做出何種決定。俄羅斯總統普京歡迎美國繼續發揮調解作用。普京願意同烏克蘭總統澤連斯基進行會晤。（新華社）"
+    },
+    {
+      "id": "4875446",
+      "time": "2026-05-12 21:59:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【京東高管：外賣業務一定會實現盈利】一季度財報電話會議上，在被問及外賣業務的盈利目標時，京東CFO單甦表示，外賣業務最終一定會實現盈利。同時京東外賣不是一個獨立的業務，京東在加快釋放外賣業務的協同價值，外賣業務持續帶動京東整體流量和使用者的健康增長。他同時表示，一季度京東外賣實現了成立以來幅度最大的環比減虧。隨著經營改善以及廣告系統的完善，一季度外賣所產生的佣金和廣告收入環比增長接近兩倍。（第一財經）"
+    },
+    {
+      "id": "4875445",
+      "time": "2026-05-12 21:59:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "納斯達克100指數跌幅擴大至1%。"
+    },
+    {
+      "id": "4875444",
+      "time": "2026-05-12 21:58:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數跌幅擴大至0.5%。"
+    },
+    {
+      "id": "mkt:019e1c7b-f4e4-7dd3-a756-37380d9ad07b",
+      "time": "2026-05-12 21:58:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "S&P 500 EXTENDS DROP TO 0.5%"
+    },
+    {
+      "id": "4875443",
+      "time": "2026-05-12 21:58:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "納斯達克100指數跌幅擴大至1%。"
+    },
+    {
+      "id": "mkt:019e1c7b-5887-7dd3-a756-2aac8197e617",
+      "time": "2026-05-12 21:58:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Nasdaq100",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "NASDAQ 100 EXTENDS DECLINE TO 1%"
+    },
+    {
+      "id": "4875442",
+      "time": "2026-05-12 21:58:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "輝瑞有限公司宣佈派發每股75盧比的股息。"
+    },
     {
       "id": "4875441",
       "time": "2026-05-12 21:57:18",
@@ -130599,162 +130737,6 @@
         "Importance 0"
       ],
       "text": "Accenture Stock Price Hits 6-year Low — Accenture shares decreased to 173.63 USD, the lowest since April 2020. Over the past 4 weeks, Accenture lost 12.54%, and in the last 12 months, it decreased 42.79%."
-    },
-    {
-      "id": "4861561",
-      "time": "2026-05-05 22:01:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國股指在經濟資料公佈後幾無變動。"
-    },
-    {
-      "id": "4861560",
-      "time": "2026-05-05 22:01:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美防長稱特朗普無需尋求國會批准即可繼續對伊軍事行動】當地時間5月5日，美國國防部長皮特·赫格塞思表示，鑑於本屆政府認定美國與伊朗之間的停火狀態仍在維持，美國總統特朗普無需尋求國會批准即可繼續進行戰爭行動。赫格塞思堅稱，如果特朗普下令恢復軍事打擊行動，屆時自然會就相關事宜展開討論。在談及戰鬥行動繼續進行的可能性時，赫格塞思表示，“這一選項始終是存在的。伊朗對此心知肚明”。赫格塞思稱，總統依然保留著重啟大規模戰鬥行動的契機與能力。如果伊朗不願兌現其應盡的承諾，或者不願達成協議，那麼美國國防部已處於高度戒備、蓄勢待發的狀態，隨時準備投入行動。同時，赫格塞思表示希望事態不必朝著那個方向發展。（央視新聞）"
-    },
-    {
-      "id": "4861559",
-      "time": "2026-05-05 22:01:20",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國國債收益率在ISM非製造業資料公佈後延續跌勢；10年期美國國債收益率當前下跌2.8個基點，報4.418%。"
-    },
-    {
-      "id": "4861558",
-      "time": "2026-05-05 22:01:10",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲鮑曼表示，消費者欺詐對金融體系構成風險。"
-    },
-    {
-      "id": "4861557",
-      "time": "2026-05-05 22:01:07",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油失守102美元/桶，日內跌4.20%。"
-    },
-    {
-      "id": "4861556",
-      "time": "2026-05-05 22:00:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國3月份離職人數為317.1萬人；預計為302.9萬人。"
-    },
-    {
-      "id": "te:markets:547926",
-      "time": "2026-05-05 22:00:53",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Ibovespa Rises on Corporate Earnings and Copom Minutes — The Ibovespa edged up to trade near 186,000 on Tuesday, as investors digested Copom minutes and a wave of corporate earnings. The central bank noted that the increase in inflation is unlikely to prevent more rate cuts this year, although threats to the anchor of inflation expectations may reduce the magnitude of cuts compared to those expected earlier. Banks advanced, with Bradesco (+1.0%) and Banco do Brasil (+2.0%) higher. Ambev jumped over 10% after reporting Q1 net income of R$3.89 billion, up 2.1% year-on-year. After the close, C&A (+1.3%), Iguatemi (+1.5%), Itaú (+0.2%), Prio (-2.3%), RD Saúde (+1.4%), and TIM (+1.4%) are set to report results. Elsewhere, UBS BB raised Sabesp’s (-0.9%) target price to R$38 from R$33.80 but downgraded the stock to neutral. Petrobras fell over 1% as oil prices declined despite Middle East tensions."
-    },
-    {
-      "id": "4861555",
-      "time": "2026-05-05 22:00:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國3月份裁員率為1.2%。"
-    },
-    {
-      "id": "4861554",
-      "time": "2026-05-05 22:00:21",
-      "tags": [
-        "資料",
-        "國際"
-      ],
-      "text": "美國3月新建住宅銷量摺合年率682,000套 預估為652,000套"
-    },
-    {
-      "id": "4861553",
-      "time": "2026-05-05 22:00:17",
-      "tags": [
-        "資料",
-        "國際"
-      ],
-      "text": "美國4月ISM服務業PMI從54降至53.6；預期值為53.7。"
-    },
-    {
-      "id": "te:economy:547925",
-      "time": "2026-05-05 22:00:13",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Composite PMI",
-        "Importance 1"
-      ],
-      "text": "US Private Sector Activity Grows Less than Initially Thought — The S&P Global US Composite PMI was revised down to 51.7 in April 2026 from a preliminary 52.0, yet still improved from March’s 50.3. Growth was driven by a rebound in services and stronger manufacturing, though new orders and employment saw only modest increases. Business confidence improved from March. Price pressures intensified, with input cost inflation hitting the highest level of 2026 so far, and selling prices rising at the fastest pace in nine months."
-    },
-    {
-      "id": "4861552",
-      "time": "2026-05-05 22:00:12",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國3月份職位空缺686.6萬個；預計為685萬個。"
-    },
-    {
-      "id": "te:markets:547924",
-      "time": "2026-05-05 22:00:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Opens 0.46% Higher — The Dow Jones Index is up by 223 points or 0.46 percent on Tuesday. Top gainers are Caterpillar (3.03%), Cisco Systems (1.72%) and Amazon (1.49%). Biggest losses came from Visa (-1.57%), IBM (-0.93%) and Microsoft (-0.72%)."
-    },
-    {
-      "id": "4861551",
-      "time": "2026-05-05 22:00:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國供應管理學會4月份非製造業指數降至53.6；預期53.7。"
-    },
-    {
-      "id": "4861550",
-      "time": "2026-05-05 21:59:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "艾昆緯高管表示，未來四到五年內將陸續出現藥品專利到期潮，這會進一步推動製藥企業補充管線，從而提升對合同研究組織服務的需求。"
-    },
-    {
-      "id": "4861549",
-      "time": "2026-05-05 21:59:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "【李嘉誠家族擬拋售43億英鎊英國資產】5月5日午間，李嘉誠家族旗下的港股上市公司長和披露了一筆價值約455億港元的交易。公告稱，長和旗下電訊業務集團CKHGT已同意出售其於英國電訊業務VodafoneThree所持有的全數股權，收取43億英鎊（相當於454.94億港元）的代價金額，有關交易須待相關監管機構批准。據瞭解，VodafoneThree的主要業務為流動網路營運，目前為英國最大流動網路營運商，擁有超過2800萬名客戶。（上證報）"
-    },
-    {
-      "id": "4861548",
-      "time": "2026-05-05 21:58:19",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【機構：霍爾木茲海峽持續受阻料將推高穀物期貨】霍爾木茲海峽的交通受阻一直對芝加哥期貨交易所的穀物期貨構成支撐，但一些分析師預計，如果衝突很快得到解決，價格將迅速逆轉。AgResource在一份報告中表示：“以美國和全球庫存與使用比率衡量，穀物估值遠高於‘合理價值’，而穀物分析師幾十年來一直使用該比率。”該公司表示，這就是為什麼霍爾木茲海峽的局勢是芝加哥期貨交易所價格的最大影響因素。這場戰爭已推動穀物期貨年初至今上漲，但今天上午稍作喘息——芝加哥期貨交易所玉米期貨下跌0.7%，大豆期貨下跌0.4%，小麥期貨下跌1%。"
     }
   ]
 }
