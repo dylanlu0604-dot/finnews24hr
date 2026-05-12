@@ -1,7 +1,89 @@
 {
-  "updated": "2026-05-12 22:09:15",
-  "count": 14723,
+  "updated": "2026-05-12 22:13:07",
+  "count": 14724,
   "items": [
+    {
+      "id": "te:markets:550043",
+      "time": "2026-05-12 22:12:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "JD.com earnings above expectations at 5.12 USD — JD.com (JD) released earnings per share at 5.12 USD, compared to market expectations of 3.37 USD."
+    },
+    {
+      "id": "mkt:019e1c87-e8a1-7dd3-a756-738c69ed90a2",
+      "time": "2026-05-12 22:12:09",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "US NATURAL GAS FUTURES FALL 3% INTRADAY TO $2.822 PER MILLION BRITISH THERMAL UNITS"
+    },
+    {
+      "id": "mkt:019e1c87-db8e-7dd3-a756-6ed9db8f8701",
+      "time": "2026-05-12 22:12:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "OVER 100 UK MPS SIGN STATEMENT BACKING STARMER"
+    },
+    {
+      "id": "4875478",
+      "time": "2026-05-12 22:11:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "逾 100 名英國下議院議員簽署宣告，表態支援斯塔默。"
+    },
+    {
+      "id": "4875477",
+      "time": "2026-05-12 22:10:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "匈牙利總理毛焦爾發表講話並公佈新一屆內閣名單。"
+    },
+    {
+      "id": "4875476",
+      "time": "2026-05-12 22:10:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "【柬埔寨表示不與泰國就海洋問題進行雙邊談判】柬埔寨代理國家元首、參議院主席洪森12日在社交媒體上發文表示，柬方不會與泰國就海洋問題進行任何雙邊談判。洪森說，他提醒政府不要與泰國就海洋問題進行任何雙邊談判，而應直接訴諸1982年《聯合國海洋法公約》規定的機制，無需等待泰方的任何協議。他表示，柬方對泰方廢除2001年簽署的諒解備忘錄感到遺憾，但也感謝泰方幫助柬方轉向使用國際機制。泰國單方面廢除諒解備忘錄，瓦解了就重疊海洋權益進行雙邊談判的框架。柬埔寨副首相兼外交大臣布拉索昆5日說，柬方將啟動《聯合國海洋法公約》強制調解程式。泰國總理府發言人拉差達5日說，內閣會議決定廢除與柬埔寨的一份關於兩國重疊海域問題的備忘錄，轉而採用《聯合國海洋法公約》框架下的國際法機制以更好維護國家利益。（新華社）"
+    },
+    {
+      "id": "te:markets:550042",
+      "time": "2026-05-12 22:10:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Iron Ore Eases from 15-Month High — Iron ore futures in China eased to CNY 815 after testing the 15-month high of CNY 823 on May 11th as higher inventories momentarily offset the impact of strong demand from steelmakers. Industry data showed that iron ore inventories at Chinese ports were at around 167 million tons in March, a 14.2% annual increase to remain at the highest level on record. The ample availability matched a sharp rate of take-in from blast furnaces. The same industry reports pointed to a record level of operating rates in domestic blast furnaces, aiming to maintain elevated capacity levels as stimulus measures by the central government limited the impact of the prolonged property crisis on new construction. Second-hand home sales surged 72% annually during the May holiday. Stimulus expectations for the rest of the year were underpinned by the higher magnitude of special bonds by China's largest cities, which are commonly used to finance infrastructure projects."
+    },
+    {
+      "id": "4875475",
+      "time": "2026-05-12 22:09:35",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國司法部就巴爾的摩基大橋致命撞橋事故相關安全疏漏，對一家新加坡航運公司提起刑事指控。"
+    },
+    {
+      "id": "4875474",
+      "time": "2026-05-12 22:09:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普稱阻止伊朗研發核武器“只是時間問題”】當地時間5月12日，美國總統特朗普表示，與伊朗之間爆發的衝突無需急於解決。在接受採訪時，特朗普稱，伊朗正面臨收入來源被切斷的局面。特朗普還表示，他確信能夠阻止伊朗研發核武器，稱“這僅僅是時間問題。”（央視新聞）"
+    },
     {
       "id": "4875473",
       "time": "2026-05-12 22:08:55",
@@ -241,6 +323,15 @@
         "其他"
       ],
       "text": "國際貨幣基金組織：工作人員與坦尚尼亞就擴充套件信貸安排及韌性與可持續性安排的最終審查達成工作人員層面協議。"
+    },
+    {
+      "id": "4875450",
+      "time": "2026-05-12 22:01:44",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【報告：美國天然氣期貨回吐部分漲幅】美國天然氣期貨回吐昨日的部分漲幅，近期受天氣驅動的需求依然疲軟。EBW Analytics的Eli Rubin在一份報告中表示，考慮到平季需求低迷以及計劃中的管道維護，供暖季結束後的供應下降並不令人意外。他說，供應受限的情況通常會持續到6月中上旬。雖然在未來30-45天內的某個時候可能會出現反彈，但不斷增加的儲備盈餘和恢復的產量“給紐約商交所天然氣期貨在仲夏至夏末期間帶來阻力“。天然氣價格下跌2.6%，報每百萬英熱單位2.834美元。"
     },
     {
       "id": "te:markets:550041",
@@ -130723,91 +130814,6 @@
         "國際"
       ],
       "text": "【Apollo經濟學家稱AI最終會創造更多崗位】 Apollo Global Management的首席經濟學家Torsten Slok表示，人工智慧帶來生產率提升，最終創造的崗位可能會多於流失的崗位。Slok週二在接受採訪時表示：“整體而言，從各個行業來看，生產投入成本基本上都有所下降。”他說，當投入成本變得更低時，“對這些投入的需求就會增加”。他以放射科醫生為例稱，隨著AI降低了影像判讀成本，該領域的就業和薪資正在上升。市場對AI衝擊勞動力市場的擔憂十分普遍。諾貝爾獎得主、經濟學家Simon Johnson表示，他認為“高薪工作”可能消失；OpenAI上月也提出政策建議，旨在幫助應對AI驅動的動盪時代。儘管如此，也有人預計AI將帶來積極影響。德國央行行長Joachim Nagel今年3月對德國學生表示，廣泛使用AI的歐洲企業大多反映正在招聘員工。"
-    },
-    {
-      "id": "4861582",
-      "time": "2026-05-05 22:12:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "日產在宣告中表示：我們將把桑德蘭工廠的兩條生產線整合為一條。"
-    },
-    {
-      "id": "te:economy:547936",
-      "time": "2026-05-05 22:12:35",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "New Home Sales",
-        "Importance 3"
-      ],
-      "text": "US New Home Sales Jump 7.4% in March — Sales of new single-family homes in the US rose 7.4% month-over-month to 682,000 in March 2026, exceeding expectations of 650,000 and up from 635,000 in February. Gains were led by the South (+11.1% to 441,000) and the Northeast (+80.0% to 27,000), offsetting declines in the West (-3.5% to 138,000) and Midwest (-5.0% to 76,000). Housing supply stood at 481,000 units, representing 8.5 months at the current sales pace, while the median new home price fell 6.2% year-over-year to $387,400."
-    },
-    {
-      "id": "4861581",
-      "time": "2026-05-05 22:12:28",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "“美聯儲傳聲筒”Nick Timiraos：美國職位空缺數量保持平穩，3 月三個月移動平均值維持在 700 萬。3 月，每一位登記失業人員對應0.94 個職位空缺，與近期趨勢基本一致。"
-    },
-    {
-      "id": "4861580",
-      "time": "2026-05-05 22:11:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "【法國議會兩院對等混合委員會透過草案 簡化非法所獲文物歸還程式】法國議會兩院對等混合委員會日前就一項旨在簡化非法所獲他國文物歸還程式的法律草案達成一致。該草案文字將於6日和7日分別在法國國民議會（議會下院）和參議院（議會上院）審議。這項草案旨在簡化法國公共領域的非法所獲他國文物歸還程式。根據法國現行法律，所謂“納入公共領域的文物原則上不可轉讓”，歸還相關文物需逐案立法處理，程式較為複雜。而最新草案擬建立一套制度性機制：允許在符合歸還條件的情況下，將1815年至1972年間法國以偷盜、掠奪等方式所得的外國文物，從公共領域中“移出”，簡化歸還程式。屆時歸還事宜還可透過行政程式批准，無需逐案立法。（新華社）"
-    },
-    {
-      "id": "4861579",
-      "time": "2026-05-05 22:11:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部發言人敦促海灣國家停止依附他國尋求安全。"
-    },
-    {
-      "id": "4861578",
-      "time": "2026-05-05 22:10:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "【C919大飛機首飛九週年 4月航班量同比增長117.9%】5月5日，國產大飛機C919迎來首飛9週年。航班管家資料顯示，截至2026年4月末，C919累計執飛商業客運航班已超過4.2萬班次，運營規模持續擴大。僅2026年4月，當月執飛航班量 3190班次，同比大幅增長117.9%，展現出強勁的市場運營能力。航線網路方面，自投入執行以來，C919已累計執飛往返航線57條（單程113條），覆蓋29座機場，其中包括28座境內機場及港澳臺機場1座（中國香港），航線佈局穩步拓展。（新華財經）"
-    },
-    {
-      "id": "4861577",
-      "time": "2026-05-05 22:10:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美軍隨時準備恢復對伊朗大規模作戰】美軍參謀長聯席會議主席凱恩5月5日在新聞釋出會上稱，美軍隨時準備好恢復對伊朗大規模作戰，只待指令下達。凱恩稱，美軍中央司令部及其他聯合作戰部隊始終保持高度戒備，一旦接到命令，隨時準備對伊朗發起大規模作戰行動。他表示，重啟對伊軍事行動的門檻是一項政治決定。目前，美軍仍處於低烈度軍事行動階段。（CCTV國際時訊）"
-    },
-    {
-      "id": "te:economy:547934",
-      "time": "2026-05-05 22:09:30",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Job Quits",
-        "Importance 1"
-      ],
-      "text": "US Job Quits Rise in March — The number of job quits in the US rose to 3.171 million in March 2026 from the upwardly revised 3.046 million in February but below 3.456 million a year ago. The number of quits increased the most in healthcare and social assistance (+37,000); accommodation and food services (+25,000) and real estate and rental and leasing (+19,000). The quits rate, a metric that measures voluntary job leavers as a proportion of total employment, rose to 2% from 1.9% previously."
-    },
-    {
-      "id": "te:economy:547933",
-      "time": "2026-05-05 22:09:26",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Canada",
-        "Services PMI",
-        "Importance 1"
-      ],
-      "text": "Canada Services PMI Improves in April — Canada’s S&P Global Services PMI Business Activity Index rose to 49.2 in April from 47.2 in March, but remained below the 50.0 threshold for a sixth straight month. The sector showed signs of stabilization, with activity declining only marginally and at the slowest pace in six months. Firms increased staffing levels for the first time since August 2025, while business confidence climbed to a one-and-a-half-year high. However, concerns over the Middle East conflict and tariffs persisted, with firms reporting higher operating costs. Selling prices rose at the fastest pace in two years, reflecting mounting cost pressures."
     }
   ]
 }
