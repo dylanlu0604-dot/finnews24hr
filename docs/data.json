@@ -1,7 +1,72 @@
 {
-  "updated": "2026-05-12 23:31:51",
-  "count": 14748,
+  "updated": "2026-05-12 23:35:20",
+  "count": 14744,
   "items": [
+    {
+      "id": "4875629",
+      "time": "2026-05-12 23:34:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄成功試射最新型“薩爾馬特”洲際彈道導彈】俄羅斯戰略火箭兵司令謝爾蓋·卡拉卡耶夫12日在視訊會議上向總統普京報告，俄當天成功試射最新型“薩爾馬特”洲際彈道導彈。塔斯社援引卡拉卡耶夫的話報道說，“薩爾馬特”洲際彈道導彈能夠可靠地摧毀目標並完成戰略威懾任務，將顯著增強俄軍作戰能力。普京說，“薩爾馬特”射程超過3.5萬公里，同時精度大幅提高，能夠穿透所有導彈防禦系統，是“世界上威力最強大的導彈系統”。普京表示，俄羅斯正逐步實施核力量發展計劃。“波塞冬”核動力無人潛航器和“海燕”核動力巡航導彈的研發工作已進入最後階段。（新華社）"
+    },
+    {
+      "id": "mkt:019e1cd3-1cee-7dd3-a757-7ac768424a2c",
+      "time": "2026-05-12 23:34:17",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "PETR4.SA",
+        "Impact bullish"
+      ],
+      "text": "PETROBRAS REFINERIES OPERATING AT 103% OF CAPACITY, SAYS EXECUTIVE"
+    },
+    {
+      "id": "4875628",
+      "time": "2026-05-12 23:32:39",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣六週期國債，得標利率3.615%，投標倍數2.80。拍賣52週期國債，得標利率3.650%，投標倍數3.41。"
+    },
+    {
+      "id": "4875627",
+      "time": "2026-05-12 23:32:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "【野村：市場更青睞衛生大臣而非曼徹斯特市長接替斯塔默】在英國首相基爾·斯塔默抵禦黨內領袖挑戰之際，野村預計，如果衛生大臣韋斯·斯特里廷成功競逐工黨最高職位，英國市場會更青睞他，而不是曼徹斯特市長安迪·伯納姆。外匯策略師Dominic Bunning和Yusuke Miyairi在一份報告中寫道：“斯特里廷獲勝可能會讓英鎊和英國國債都鬆一口氣”；他們補充稱，這位中右翼大臣強調財政紀律，並透過增長實現再分配，“與斯塔默的做法一致，表明政治不確定性不會進一步加劇。”相比之下，他們預計，伯納姆獲勝可能會引發英國市場進一步拋售。"
+    },
+    {
+      "id": "mkt:019e1cd1-128b-7dd3-a757-723c21621285",
+      "time": "2026-05-12 23:32:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 12-Month Bill Auction Bid/Cover Ratio (May.12) | actual 3.41 | previous 3.21"
+    },
+    {
+      "id": "mkt:019e1cd1-11c4-7dd3-a757-6ade18cde0b8",
+      "time": "2026-05-12 23:32:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 12-Month Bill Auction Accepted at High (May.12) | actual 4.56% | previous 62.43%"
+    },
+    {
+      "id": "mkt:019e1cd1-1178-7dd3-a757-61d6c1d4dde6",
+      "time": "2026-05-12 23:32:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 12-Month Bill Auction High Yield Rate (May.12) | actual 3.65% | previous 3.56%"
+    },
     {
       "id": "mkt:019e1ccf-fc8e-7dd3-a757-5e8dbaca2470",
       "time": "2026-05-12 23:30:47",
@@ -130940,102 +131005,6 @@
         "公司"
       ],
       "text": "Popular公司（NASDAQ: BPOP）週二宣佈，由其旗下Popular Capital Trust II發行的6.125%累積月度收益信託優先證券（BPOPM）將進行月度分配，每份證券派發現金0.127604美元。"
-    },
-    {
-      "id": "4861733",
-      "time": "2026-05-05 23:34:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國防長赫格塞思表示，美國正在確保對霍爾木茲海峽的控制。"
-    },
-    {
-      "id": "4861732",
-      "time": "2026-05-05 23:34:39",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "標普全球公司股價迅速轉跌。"
-    },
-    {
-      "id": "4861731",
-      "time": "2026-05-05 23:34:31",
-      "tags": [
-        "宏觀",
-        "公司"
-      ],
-      "text": "Anthropic執行長表示，政府應當出臺規則約束人工智慧模型的釋出。"
-    },
-    {
-      "id": "4861730",
-      "time": "2026-05-05 23:34:23",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "埃克森美孚勘探副總裁約翰·阿迪爾：中東衝突對供應中斷造成的全面影響尚未顯現。"
-    },
-    {
-      "id": "4861729",
-      "time": "2026-05-05 23:34:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "埃克森美孚勘探副總裁約翰·阿迪爾：阿拉斯加地區的盈虧平衡生產油價約為每桶45美元，而其他地區為每桶30美元。"
-    },
-    {
-      "id": "4861728",
-      "time": "2026-05-05 23:34:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "埃克森美孚勘探副總裁約翰·阿代爾：阿拉斯加的開採成本高於二疊紀盆地與蓋亞那，這帶來了開發挑戰。"
-    },
-    {
-      "id": "4861727",
-      "time": "2026-05-05 23:34:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "馬拉松石油：預計二季度航空煤油 - 柴油裂解價差將維持高位。"
-    },
-    {
-      "id": "4861726",
-      "time": "2026-05-05 23:33:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國防長赫格塞思：“自由計劃”正在進行中。"
-    },
-    {
-      "id": "4861725",
-      "time": "2026-05-05 23:33:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟就發債計劃下後續資金需求釋出招標建議書（RFP）。"
-    },
-    {
-      "id": "te:economy:547974",
-      "time": "2026-05-05 23:32:49",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Tunisia",
-        "Inflation Rate",
-        "Importance 0"
-      ],
-      "text": "Tunisia Inflation Rate Quickens to 1-Year High — The annual inflation rate in Tunisia rose to 5.5% in April 2026, the highest in a year, from 5% in each of the previous two months. Main upward pressure stemmed from prices of food & non-alcoholic beverages (8.2% vs 6.8% in March); clothing & footwear (9.3% vs 7.5%) and restaurants & hotels (6.2% vs 6.2%). Meanwhile, price growth slowed for some CPI categories, including transportation (2.2% vs 2.8%) and furnishings and household equipment (4.5% vs. 4.8%). On a monthly basis, the CPI rose by 1.1% in April, after a 1% increase in the prior month."
-    },
-    {
-      "id": "4861724",
-      "time": "2026-05-05 23:32:40",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行管委維勒魯瓦：若出現第二輪通脹效應，歐洲央行將啟動加息。"
     }
   ]
 }
