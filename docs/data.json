@@ -1,7 +1,58 @@
 {
-  "updated": "2026-05-13 02:30:12",
-  "count": 14810,
+  "updated": "2026-05-13 02:33:39",
+  "count": 14809,
   "items": [
+    {
+      "id": "te:markets:550077",
+      "time": "2026-05-13 02:33:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Copper Hits All-time High — Copper increased to an all-time high of 6.58 USD/Lbs. Over the past 4 weeks, Copper gained 10.09%, and in the last 12 months, it increased 40.86%."
+    },
+    {
+      "id": "4875765",
+      "time": "2026-05-13 02:32:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普啟程。"
+    },
+    {
+      "id": "4875764",
+      "time": "2026-05-13 02:31:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI 6月原油期貨收漲4.11美元，漲幅4.19%，報102.18美元/桶。NYMEX 6月天然氣期貨收報2.8430美元/百萬英熱單位。NYMEX 6月汽油期貨收報3.6977美元/加侖，NYMEX 6月取暖油期貨收報4.1588美元/加侖。"
+    },
+    {
+      "id": "mkt:019e1d75-3606-7772-877c-f0e43d99abb3",
+      "time": "2026-05-13 02:30:57",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "U.S. CRUDE OIL FUTURES SETTLE AT $102.18/BBL, UP $4.11, 4.19 PCT"
+    },
+    {
+      "id": "te:economy:550076",
+      "time": "2026-05-13 02:30:16",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Budget Value",
+        "Importance 1"
+      ],
+      "text": "US Government Budget Surplus Misses Expetations — The US government recorded a $215 billion budget surplus in April 2026, down from $258.4 billion in the same month a year earlier and below forecasts of a $220 billion surplus. Government outlays rose to $622.3 billion from $591.8 billion in April 2025. The largest spending categories were Social Security ($139 billion), net interest payments ($97 billion), Medicare ($88 billion), and national defense ($77 billion). Meanwhile, receipts declined to $837.3 billion from $850.2 billion a year earlier. Most revenue came from individual income taxes ($515 billion), social insurance and retirement contributions ($196 billion), and corporate income taxes ($83 billion). So far in fiscal year 2026, the US government has accumulated a budget deficit of $954 billion."
+    },
     {
       "id": "4875763",
       "time": "2026-05-13 02:30:02",
@@ -131932,59 +131983,6 @@
         "國際"
       ],
       "text": "【伊朗軍方否認近期襲擊阿聯酋】伊朗武裝部隊哈塔姆安比亞中央總部當地時間5月5日發表宣告稱，“近期未針對阿聯酋發動任何襲擊”。宣告警告稱，如果阿聯酋對伊朗管轄的島嶼、港口和海岸線採取任何行動，伊朗方面將作出“壓倒性回應”。 (央視新聞)"
-    },
-    {
-      "id": "4861956",
-      "time": "2026-05-06 02:33:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "教皇利奧在遭遇特朗普最新抨擊後表示，自己只是在宣講福音，同時稱外界有權對他提出批評。"
-    },
-    {
-      "id": "4861955",
-      "time": "2026-05-06 02:31:41",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "【OpenAI 2026年將投入500億美元用於算力建設】OpenAI聯合創始人兼總裁格雷格·布羅克曼表示，公司預計今年投入500億美元購置算力，為其人工智慧軟體提供支撐。布羅克曼於週二表態稱，隨著公司研發更先進的人工智慧模型、服務更廣的使用者群體，這家ChatGPT開發商的算力成本已從2017年約3000萬美元飆升至今年的數百億美元。此番發言正值他在OpenAI與埃隆·馬斯克備受關注的法庭糾紛中出庭作證的第二天。"
-    },
-    {
-      "id": "4861954",
-      "time": "2026-05-06 02:31:03",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國原油期貨收於每桶102.27美元，下跌4.15美元，跌幅3.90%。"
-    },
-    {
-      "id": "4861953",
-      "time": "2026-05-06 02:30:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "惠譽：在持續監管審查下，美國銀行加大了對私人信貸的資訊披露力度。"
-    },
-    {
-      "id": "te:markets:547997",
-      "time": "2026-05-06 02:30:19",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: Bitcoin Rises by 2.06% — Top crypto gainers are Bitcoin (2.06%), XRP (1.38%) and Ether (1.07%)."
-    },
-    {
-      "id": "4861952",
-      "time": "2026-05-06 02:30:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【西班牙提議涉疫郵輪轉移感染者至維德角】世界衛生組織與西班牙衛生部5日就涉漢坦病毒疫情郵輪“洪迪厄斯”號是否停靠西班牙加那利群島接受醫療處置進行磋商。西班牙方面提議將感染者就近轉移至非洲國家維德角，避免該郵輪停靠加那利群島。"
     }
   ]
 }
