@@ -1,7 +1,39 @@
 {
-  "updated": "2026-05-13 04:41:28",
-  "count": 14833,
+  "updated": "2026-05-13 04:44:49",
+  "count": 14836,
   "items": [
+    {
+      "id": "4875852",
+      "time": "2026-05-13 04:44:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "黎巴嫩衛生部稱，以色列空襲該國南部，造成13人死亡。"
+    },
+    {
+      "id": "mkt:019e1dee-dff4-7772-877e-70d92572bd8a",
+      "time": "2026-05-13 04:44:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UAE PRESIDENT, TRUMP DISCUSSED IN PHONE CALL STRATEGIC COOPERATION AND REVIEWED DEVELOPMENTS IN THE MIDDLE EAST - EMIRATI NEWS AGENCY"
+    },
+    {
+      "id": "4875851",
+      "time": "2026-05-13 04:42:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國南卡羅來納州共和黨人暫時擱置選區重劃計劃。"
+    },
+    {
+      "id": "4875850",
+      "time": "2026-05-13 04:41:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數12日上漲】美元指數12日上漲。衡量美元對六種主要貨幣的美元指數當天上漲0.35%，在匯市尾市收於98.298。截至紐約匯市尾市，1歐元兌換1.1741美元，低於前一交易日的1.1775美元；1英鎊兌換1.3532美元，低於前一交易日的1.3629美元。1美元兌換157.59日元，高於前一交易日的157.21日元；1美元兌換0.7808瑞士法郎，高於前一交易日的0.7782瑞士法郎；1美元兌換1.3701加元，高於前一交易日的1.3673加元；1美元兌換9.2926瑞典克朗，高於前一交易日的9.2235瑞典克朗。"
+    },
     {
       "id": "te:markets:550084",
       "time": "2026-05-13 04:41:18",
@@ -132279,18 +132311,6 @@
         "國際"
       ],
       "text": "據NBC：美國船隻在穿越霍爾木茲海峽期間配備了軍事安保人員。"
-    },
-    {
-      "id": "te:economy:548012",
-      "time": "2026-05-06 04:44:40",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Uruguay",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Uruguay Inflation Accelerates in April — Uruguay’s annual inflation rose to 3.2% in April 2026 from 2.9% in the previous month. The strongest price increases were seen in education (7.1%), restaurants and lodging (7.1%), personal care and social security (5.3%), utilities (4.5%), information and communication (3.7%), alcoholic beverages and tobacco (3.4%), and insurance and financial services (3.2%), while prices fell for clothing and footwear (-4.7%). On a monthly basis, inflation picked up to 0.54% from 0.41% in March."
     }
   ]
 }
