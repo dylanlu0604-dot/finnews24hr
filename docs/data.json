@@ -1,7 +1,311 @@
 {
-  "updated": "2026-05-13 04:15:02",
-  "count": 14821,
+  "updated": "2026-05-13 04:38:04",
+  "count": 14830,
   "items": [
+    {
+      "id": "te:markets:550083",
+      "time": "2026-05-13 04:36:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Gains as Energy Stocks Rally on Supply Concerns — he S&P/TSX Composite Index rose 0.4% to close at 34,291 on Tuesday, supported by gains in energy and banking stocks. Oil prices advanced after renewed disagreements between Iran and the US over a proposed peace framework revived supply concerns. Canadian Natural climbed 4.1%, while Imperial Oil gained 2.6% and Cenovus Energy added 3.2%. Banks also traded higher, with Royal Bank of Canada up 1.0% and TD Bank gaining 0.8%, offsetting declines in BMO (-0.2%) and Brookfield (-0.5%). BMO also agreed to sell its transportation and vendor finance businesses to Stonepeak. Meanwhile, gold prices weakened as a stronger US dollar clouded the outlook for US interest rates. Barrick fell 2.4%, while Wheaton Precious Metals lost 0.5%. Elsewhere, Chemtrade Logistics dropped 9.8% after weak quarterly results, while Organigram plunged 14.4% on weaker net revenue. Constellation Software (0.4%) and Franco-Nevada (-0.2%) are set to release Q1 2026 earnings after the close."
+    },
+    {
+      "id": "te:markets:550082",
+      "time": "2026-05-13 04:35:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.11% Higher — The Dow Jones Index rose 57 points or 0.11 percent on Tuesday to close at 49761 points. Leading the gains are UnitedHealth (3.17%), Walmart (2.24%) and Coca-Cola (1.83%). Top losers were Salesforce (-3.42%), IBM (-1.66%) and Caterpillar (-1.63%)."
+    },
+    {
+      "id": "mkt:019e1de6-5d52-7772-877e-6c43111de5c1",
+      "time": "2026-05-13 04:34:14",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | API Weekly Crude Oil Runs (May.8) | actual 188000M | previous 41000M"
+    },
+    {
+      "id": "mkt:019e1de6-5d4b-7772-877e-615d22daeeac",
+      "time": "2026-05-13 04:34:09",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | API Weekly Petroleum Products Imports Change (May.8) | actual -317000M | previous 265000M"
+    },
+    {
+      "id": "mkt:019e1de6-5d4a-7772-877e-58d5eaeb7a11",
+      "time": "2026-05-13 04:34:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | API Weekly Crude Oil Imports Change (May.8) | actual 337000M | previous -144000M"
+    },
+    {
+      "id": "mkt:019e1de6-196e-7772-877e-557254a97a26",
+      "time": "2026-05-13 04:33:56",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | API Weekly Heating Oil Stocks Change (May.8) | actual -116000M | previous -473000M"
+    },
+    {
+      "id": "4875845",
+      "time": "2026-05-13 04:33:53",
+      "tags": [
+        "宏觀",
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國十個州的檢察官於週二要求市場監管機構，強制OpenAI 執行長山姆・奧特曼，在公司潛在上市之前，就其可能存在的利益衝突作出全面說明、予以公開澄清。"
+    },
+    {
+      "id": "mkt:019e1de5-c82d-7772-877e-4c0ea7acb762",
+      "time": "2026-05-13 04:33:47",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | API Weekly Cushing Crude Oil Stocks Change (May.8) | actual -1755000M | previous -1045000M"
+    },
+    {
+      "id": "mkt:019e1de5-7c49-7772-877e-47ab224ea3c1",
+      "time": "2026-05-13 04:33:36",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | API Weekly Distillate Stocks Change (May.8) | actual -319000M | consensus -2995000M | previous -4642000M"
+    },
+    {
+      "id": "mkt:019e1de5-322a-7772-877e-3fff77635fec",
+      "time": "2026-05-13 04:33:23",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | API Weekly Gasoline Stocks Change (May.8) | actual 502000M | consensus -2549000M | previous -6107000M"
+    },
+    {
+      "id": "mkt:019e1de4-cdc9-7772-877e-35f967ff52c8",
+      "time": "2026-05-13 04:33:14",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | API Weekly Crude Oil Stocks Change (May.8) | actual -2188000M | consensus -1654000M | previous -8141000M"
+    },
+    {
+      "id": "4875844",
+      "time": "2026-05-13 04:32:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "厄瓜多司法委員會通報：一名厄瓜多女法官在厄瓜多與秘魯邊境附近遭槍擊遇害。事發當下，諾沃亞政府正為打擊有組織犯罪而全國實施緊急狀態。"
+    },
+    {
+      "id": "4875843",
+      "time": "2026-05-13 04:31:41",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國稀土公司獲德克薩斯州半導體基金1420萬美元撥款。"
+    },
+    {
+      "id": "4875842",
+      "time": "2026-05-13 04:28:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "VinFast：實施企業重組。"
+    },
+    {
+      "id": "mkt:019e1de0-766b-7772-877e-2efffb8372cd",
+      "time": "2026-05-13 04:28:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "MUSK: SPACEX IS CONSIDERING SEVERAL LOCATIONS DOMESTICALLY AND INTERNATIONALLY TO BUILD THE WORLD’S MOST ADVANCED SPACEPORTS"
+    },
+    {
+      "id": "mkt:019e1ddf-bdd5-7772-877e-244ed73524b6",
+      "time": "2026-05-13 04:27:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TRUMP: FAKE NEWS MEDIA SAYING IRANIAN ENEMY IS DOING WELL IS TANTAMOUNT TO TREASON"
+    },
+    {
+      "id": "mkt:019e1ddf-6ff7-7772-877e-1eb775f3367a",
+      "time": "2026-05-13 04:27:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "WH SR. ADVISER HASSETT ON GASOLINE TAX: TRUMP'S VIEW IS WE SHOULD MODERNIZE"
+    },
+    {
+      "id": "mkt:019e1ddf-2182-7772-877e-102e117cd1f7",
+      "time": "2026-05-13 04:26:59",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "WH SR. ADVISER HASSETT ON SPR: WE'RE RELEASING AS FAST AS POSSIBLE"
+    },
+    {
+      "id": "4875841",
+      "time": "2026-05-13 04:25:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普批評媒體有關伊朗 “局勢向好” 的報道。"
+    },
+    {
+      "id": "4875840",
+      "time": "2026-05-13 04:25:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普經濟顧問哈塞特談汽油稅：特朗普的觀點是我們應當進行稅制現代化改革。"
+    },
+    {
+      "id": "4875839",
+      "time": "2026-05-13 04:24:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌正將 NotebookLM 整合至谷歌工作區工作室（Google Workspace Studio）。"
+    },
+    {
+      "id": "4875838",
+      "time": "2026-05-13 04:24:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "馬斯克：太空探索技術公司（SpaceX）正考量多地選址，籌建太空港。"
+    },
+    {
+      "id": "4875837",
+      "time": "2026-05-13 04:23:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普經濟顧問哈塞特談及戰略石油儲備（SPR）：我們正以最快速度投放儲備原油。"
+    },
+    {
+      "id": "mkt:019e1ddb-10b2-7772-877e-0ec2c8e4117e",
+      "time": "2026-05-13 04:22:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EARTHQUAKE REPORTED IN TEHRAN - IRANIAN MEDIA"
+    },
+    {
+      "id": "mkt:019e1dda-c284-7772-877e-03e48064bcf6",
+      "time": "2026-05-13 04:21:58",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "WH SR. ADVISER HASSETT: TRUMP IS CONFIDENT THE HORMUZ STRAIT WILL BE OPEN SOON"
+    },
+    {
+      "id": "mkt:019e1dda-7468-7772-877d-fc25fe952eef",
+      "time": "2026-05-13 04:21:55",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "WH SR. ADVISER HASSETT: THIS IS A TEMPORARY ENERGY SHOCK - FOX BUSINESS"
+    },
+    {
+      "id": "4875835",
+      "time": "2026-05-13 04:20:49",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會主席：體育博彩平臺與預測市場實行分類監管。"
+    },
+    {
+      "id": "4875834",
+      "time": "2026-05-13 04:20:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普經濟顧問哈塞特：特朗普相信霍爾木茲海峽很快就會開放。"
+    },
+    {
+      "id": "4875833",
+      "time": "2026-05-13 04:19:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗德黑蘭發生地震。"
+    },
+    {
+      "id": "4875832",
+      "time": "2026-05-13 04:18:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家經濟委員會哈塞特：此次能源衝擊只是暫時性的。"
+    },
+    {
+      "id": "4875831",
+      "time": "2026-05-13 04:17:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "沙烏地阿拉伯外交部表示，沙特支援科威特為維護自身安全而採取的一切措施。"
+    },
+    {
+      "id": "4875830",
+      "time": "2026-05-13 04:17:27",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會主席：將對市場上的內幕交易進行監管。"
+    },
+    {
+      "id": "4875829",
+      "time": "2026-05-13 04:16:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "聯邦快遞希望人工智慧服務商按業務成效收費，而非按token用量或訂閱模式計費。思愛普旗下 ServiceNow 也觀察到這一趨勢，但警示稱：在企業軟體領域，界定和衡量所謂 “業務成效”，很容易演變成合同條款糾紛亂象。"
+    },
     {
       "id": "te:markets:550080",
       "time": "2026-05-13 04:14:19",
@@ -131960,236 +132264,6 @@
         "國際"
       ],
       "text": "美國至5月1日當週API原油庫存 -814.1萬桶，預期-275萬桶，前值-179.3萬桶。"
-    },
-    {
-      "id": "4862061",
-      "time": "2026-05-06 04:37:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國達拉斯附近購物中心發生槍擊 兩死三傷】美國得克薩斯州警方5日說，達拉斯市西北方向的卡羅爾頓市一家購物中心當天發生槍擊，造成兩人死亡、三人受傷。"
-    },
-    {
-      "id": "te:markets:548011",
-      "time": "2026-05-06 04:36:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Corteva earnings above expectations at 1.50 USD — Corteva (CTVA) released earnings per share at 1.50 USD, compared to market expectations of 1.17 USD."
-    },
-    {
-      "id": "4862060",
-      "time": "2026-05-06 04:36:10",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【5月6日美股成交額前20：英特爾大漲約13%，多家機構上調其目標價】週二美股成交額第4名英特爾收高12.95%，成交203.4億美元。英特爾2026第一財季業績超預期，多家華爾街機構上調目標價。公司2026年第一季度財報顯示，資料中心與人工智慧（DCAI）部門營收同比增長22%，AI相關業務已佔總營收的60%。同時，公司已上調PC及伺服器CPU價格，行業供需緊張可能延續至2027年，市場對其盈利修復的確定性預期增強 。多家華爾街機構在財報後上調了英特爾的目標價。機構普遍認為，AI需求增長、地緣政治優勢（作為美國領先晶片製造商）以及管理層執行力的改善是推動公司價值重估的關鍵 。"
-    },
-    {
-      "id": "4862059",
-      "time": "2026-05-06 04:35:27",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗外交部：阿聯酋正與美國和以色列合作對抗德黑蘭。"
-    },
-    {
-      "id": "4862058",
-      "time": "2026-05-06 04:35:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以軍稱密切關注局勢發展 準備“強有力回應”】以色列國防軍總參謀長扎米爾5日說，以軍密切關注波斯灣地區局勢發展，如果以色列在該地區持續升級的局勢中成為攻擊目標，以方準備“做出強有力的回應”。扎米爾當天在以色列空軍司令職務交接儀式上說，以軍正“高度保持戰備狀態”，“準備對任何傷害以色列的企圖做出強有力的回應”。新任以色列空軍司令奧默·蒂施勒在儀式上表示，如有必要，以軍將把所有空中力量向東部署，用於對付伊朗。（新華社）"
-    },
-    {
-      "id": "te:markets:548010",
-      "time": "2026-05-06 04:35:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Closes 0.73% Higher — The Dow Jones Index went up by 357 points or 0.73 percent on Tuesday to close at 49299 points. The rise was led by Caterpillar (3.34%), Apple (2.66%) and Cisco Systems (1.79%). On the downside, the weakerst performers were UnitedHealth (-1.86%), Visa (-1.41%) and Walt Disney (-1.16%)."
-    },
-    {
-      "id": "4862057",
-      "time": "2026-05-06 04:34:16",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國際油價5日顯著下跌】截至當天收盤，紐約商品交易所6月交貨的輕質原油期貨價格下跌4.15美元，收於每桶102.27美元，跌幅為3.9%；7月交貨的倫敦布倫特原油期貨價格下跌4.57美元，收於每桶109.87美元，跌幅為3.99%。"
-    },
-    {
-      "id": "4862056",
-      "time": "2026-05-06 04:34:10",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美元指數5日上漲】衡量美元對六種主要貨幣的美元指數當天上漲0.07%，在匯市尾市收於98.441。截至紐約匯市尾市，1歐元兌換1.1700美元，高於前一交易日的1.1692美元；1英鎊兌換1.3551美元，高於前一交易日的1.3534美元。1美元兌換157.88日元，高於前一交易日的157.24日元；1美元兌換0.7827瑞士法郎，低於前一交易日的0.7836瑞士法郎；1美元兌換1.3618加元，高於前一交易日的1.3611加元；1美元兌換9.2598瑞典克朗，低於前一交易日的9.2861瑞典克朗。"
-    },
-    {
-      "id": "te:markets:548009",
-      "time": "2026-05-06 04:31:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Prudential Financial earnings above expectations at 3.61 USD — Prudential Financial (PRU) released earnings per share at 3.61 USD, compared to market expectations of 3.34 USD."
-    },
-    {
-      "id": "4862055",
-      "time": "2026-05-06 04:30:12",
-      "tags": [
-        "市場"
-      ],
-      "text": "AMD股價盤後漲幅擴大至7%。"
-    },
-    {
-      "id": "4862054",
-      "time": "2026-05-06 04:30:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "拉美航空：假設航空燃油價格為每桶 170 美元，預計 2026 年第二季度新增燃油成本超 7 億美元。"
-    },
-    {
-      "id": "te:markets:548008",
-      "time": "2026-05-06 04:26:22",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Occidental Petroleum earnings above expectations at 1.06 USD — Occidental Petroleum (OXY) released earnings per share at 1.06 USD, compared to market expectations of 0.32 USD."
-    },
-    {
-      "id": "te:markets:548007",
-      "time": "2026-05-06 04:26:21",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "EOG Resources earnings above expectations at 3.41 USD — EOG Resources (EOG) released earnings per share at 3.41 USD, compared to market expectations of 2.3 USD."
-    },
-    {
-      "id": "4862053",
-      "time": "2026-05-06 04:23:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "Anthropic 承諾在谷歌的雲服務和晶片上投資2000億美元。（The Information）"
-    },
-    {
-      "id": "4862052",
-      "time": "2026-05-06 04:23:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部發言人發表宣告，否認阿聯酋有關伊朗向其發射導彈和無人機的指控，表示伊朗的防禦行動完全針對美國。"
-    },
-    {
-      "id": "4862051",
-      "time": "2026-05-06 04:22:52",
-      "tags": [
-        "市場"
-      ],
-      "text": "Strategy一季度營收1.243億美元，IBES預期0.0494億美元。一季度每股收益（EPS）為38.25美元，IBES預期美股虧損0.17美元。一季度運營虧損包含數字資產未實現的虧損144.6億美元。MSTR美股盤後跌1.3%，報184.46美元。"
-    },
-    {
-      "id": "te:markets:548006",
-      "time": "2026-05-06 04:21:33",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Advanced Micro Devices earnings above expectations at 1.37 USD — Advanced Micro Devices (AMD) released earnings per share at 1.37 USD, compared to market expectations of 1.27 USD."
-    },
-    {
-      "id": "4862050",
-      "time": "2026-05-06 04:20:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "Lumentum第三財季營收8.084億美元，IBES預期8.043億美元。\n第三財季調整後每股收益（EPS）為2.37美元，IBES預期2.27美元。\n第三財季調整後淨利潤2.257億美元，分析師預期2.025億美元。\n預計第四財季營收9.60億-10.1億美元，預計調整後EPS為2.85-3.05美元。"
-    },
-    {
-      "id": "4862049",
-      "time": "2026-05-06 04:19:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "西方石油公司：2026 年規劃持續推進油氣成本節約，目標較 2023 年實現約 25 億美元油氣成本節省。2026年第一季度全球總產量平均為每日142.6萬桶油當量。本財年石油和天然氣總產量展望為141-146萬桶/日油當量。"
-    },
-    {
-      "id": "4862048",
-      "time": "2026-05-06 04:18:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "超微電腦公佈季度每股收益 0.84 美元，較分析師一致預期 0.62 美元高出 35.48%；較去年同期每股收益 0.31 美元同比大增 170.97%。\n公司季度營收達 102.43 億美元，低於分析師一致預期 123.32 億美元，不及預期 16.94%；但較去年同期 46.00 億美元營收同比增長 122.68%。"
-    },
-    {
-      "id": "te:economy:548005",
-      "time": "2026-05-06 04:17:25",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Uruguay",
-        "Unemployment Rate",
-        "Importance 1"
-      ],
-      "text": "Uruguay Jobless Rate Rises in March — Uruguay’s unemployment rate rose to 7.8% in March 2026 from 7.4% in February, marking the highest level since May 2025. Joblessness was slightly higher in Montevideo at 8.0% than in the rest of the country at 7.6%. By gender, the unemployment rate stood at 9.3% for women and 6.4% for men, while youth unemployment remained elevated at 25.9% and was lowest among workers aged 65 and over at 2.9%. Among those employed, 9.4% were underemployed and 22% were not registered with social security in their main job. Meanwhile, the labor force participation rate edged down to 64.3% from 64.6%, and the employment rate declined to 59.3% from 59.8% in February."
-    },
-    {
-      "id": "te:markets:548003",
-      "time": "2026-05-06 04:16:51",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Live Nation Entertainment earnings below expectations at -1.85 USD — Live Nation Entertainment (LYV) released earnings per share at -1.85 USD, compared to market expectations of -0.33 USD."
-    },
-    {
-      "id": "4862047",
-      "time": "2026-05-06 04:16:31",
-      "tags": [
-        "公司",
-        "其他",
-        "焦點",
-        "國際"
-      ],
-      "text": "AMD第一季度營收102.5億美元，預估98.9億美元。\n第一季度資本支出3.89億美元，預估2.152億美元。\n第一季度調整後每股收益1.37美元，預估1.28美元。 \n第一季度調整後運營收益25.4億美元，預估24.1億美元。\n第一季度研發支出24.0億美元，預估22.6億美元 。\n第一季度調整後運營利潤率25％，預估24.3％。\n預計第二季度營收109.0億美元至115.0億美元，預估105.2億美元。\n預計第二季度經調整毛利率大約56％，預估55.3％。"
-    },
-    {
-      "id": "4862046",
-      "time": "2026-05-06 04:15:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：蘋果就人工智慧版 Siri推遲上線一事，達成2.5 億美元和解協議。"
     }
   ]
 }
