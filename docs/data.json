@@ -1,7 +1,40 @@
 {
-  "updated": "2026-05-12 11:38:15",
-  "count": 14101,
+  "updated": "2026-05-12 11:41:36",
+  "count": 14102,
   "items": [
+    {
+      "id": "4874091",
+      "time": "2026-05-12 11:40:58",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【海外知名投行釋出人形機器人最新研報 多家深企躋身全球百強榜單】近日，海外知名投行摩根士丹利釋出人形機器人行業最新研報，持續看好中國人形機器人產業鏈發展。該機構梳理出全球100家人形機器人核心企業，多家深圳企業成功躋身這份產業鏈百強榜單。“未來5到10年，機器人產業將成為中國出口的下一個關鍵驅動力，與十年前的電動車產業類似。”摩根士丹利在研報中給出如是樂觀判斷。該機構釋出的百強榜單，將人形機器人產業鏈劃分為大腦、身體以及整合三大核心環節，比亞迪、騰訊、優必選、速騰聚創、雷賽智慧、兆威機電、立訊精密等多家深圳企業紛紛上榜。搶抓人形機器人產業爆發式增長機遇，深圳圍繞整機系統到感知、控制、驅動等零部件配套供應，構建起覆蓋上下游的完備產業鏈體系。（深圳特區報）"
+    },
+    {
+      "id": "4874090",
+      "time": "2026-05-12 11:40:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿布扎比國家石油公司天然氣部門（ADNOC GAS）：“儘管我們目前正在處理霍爾木茲海峽海運通行中斷的問題，但本公司的長期業務根基依然穩固。”"
+    },
+    {
+      "id": "mkt:019e1a44-f026-7dd9-b928-7c647de31394",
+      "time": "2026-05-12 11:39:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "FOREIGN INVESTORS’ EXIT FROM INDIA AT RECORD HIGH-FT"
+    },
+    {
+      "id": "4874089",
+      "time": "2026-05-12 11:38:58",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【OpenAI衝刺IPO之際 其CEO奧爾特曼恐面臨嚴厲審查】據報道，隨著OpenAI準備啟動首次公開募股（IPO），其執行長奧爾特曼（Sam Altman）的個人投資行為正受到美國共和黨人愈發嚴格的審視。眾議院監督委員會已啟動一項針對潛在利益衝突的調查，多位共和黨籍州總檢察長也呼籲美國證交會對此進行審查。這一系列動作源於4月的一篇報道。報道稱，奧爾特曼曾推動OpenAI為其個人投資的公司提供支援。與此同時，這也與馬斯克提起的一項訴訟相呼應。在該訴訟中，馬斯克指控奧爾特曼和OpenAI誘導他出資數千萬美元，共同創立一家非營利組織性質的OpenAI，隨後卻將這家AI實驗室轉變為營利性企業。根據美國眾議院監督委員會週一公佈在官網上的檔案，該委員會已於上週五向奧爾特曼發函，要求OpenAI高層就潛在利益衝突進行情況說明，並提交有關公司治理實踐的相關檔案。"
+    },
     {
       "id": "4874088",
       "time": "2026-05-12 11:37:31",
@@ -124929,37 +124962,6 @@
         "国际"
       ],
       "text": "【菲律宾4月通胀率创三年高点，增加进一步加息的可能性】受中东冲突引发的燃油价格飙升影响，菲律宾4月份的按年通胀率升至三年来的最高水平，这增加了进一步收紧货币政策的可能性。 菲律宾统计局周二表示，4月消费者物价指数（CPI）同比上涨7.2%，创2023年3月以来最大升幅。这一数据高于路透调查的经济学家给出的5.5%预估中值，也超出了央行此前预测的5.6%-6.4%区间。 Bank of the Philippine Islands的首席经济学家Emilio Neri表示，菲律宾央行可能被迫再次召开临时政策会议并加息，以遏制通胀。 “是的，我们不排除在例行会议之间采取强力加息的可能性。在如此动荡的环境下，我们不能仅依靠供给侧措施来确保菲律宾通胀率保持稳定。” 菲律宾高度依赖中东石油，这使其在地缘政治冲突期间极易受到供应冲击和价格波动的影响。"
-    },
-    {
-      "id": "4860542",
-      "time": "2026-05-05 11:39:29",
-      "tags": [
-        "市场",
-        "焦点"
-      ],
-      "text": "比特币升破81000美元，日内涨1.46%。"
-    },
-    {
-      "id": "te:547660",
-      "time": "2026-05-05 11:38:31",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Palm Oil Rises Further, Hits 3-Week High — Malaysian palm oil futures extended gains, hovering above MYR 4,650 per tonne and notching a three-week peak. The upside was supported by a weaker ringgit and optimism over Malaysia’s biodiesel policy. Kuala Lumpur is reportedly set to roll out B15 biodiesel, from the current B10, starting June 1, with 19 plants expected to begin production, a move aimed at reducing reliance on fossil fuel imports amid soaring oil prices. However, gains were capped by weaker demand signals. Imports in key buyer India fell 27% mom to a one-year low in April, as higher prices narrowed palm oil’s discount to rival oils and discouraged purchases. Export trends also softened, with cargo surveyors reporting shipments for April 1–25 dropped 15.7%–16.8% from March, reflecting typical post-festive weakness. Additional pressure came from rising supply, as top producer Indonesia exported 5.85 million tonnes of crude and refined palm oil in the January–March period, up 9.3% yoy, according to official data."
-    },
-    {
-      "id": "te:markets:547660",
-      "time": "2026-05-05 11:38:31",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Palm Oil Rises Further, Hits 3-Week High — Malaysian palm oil futures extended gains, hovering above MYR 4,650 per tonne and notching a three-week peak. The upside was supported by a weaker ringgit and optimism over Malaysia’s biodiesel policy. Kuala Lumpur is reportedly set to roll out B15 biodiesel, from the current B10, starting June 1, with 19 plants expected to begin production, a move aimed at reducing reliance on fossil fuel imports amid soaring oil prices. However, gains were capped by weaker demand signals. Imports in key buyer India fell 27% mom to a one-year low in April, as higher prices narrowed palm oil’s discount to rival oils and discouraged purchases. Export trends also softened, with cargo surveyors reporting shipments for April 1–25 dropped 15.7%–16.8% from March, reflecting typical post-festive weakness. Additional pressure came from rising supply, as top producer Indonesia exported 5.85 million tonnes of crude and refined palm oil in the January–March period, up 9.3% yoy, according to official data."
     }
   ]
 }
