@@ -1,7 +1,48 @@
 {
-  "updated": "2026-05-12 23:35:20",
-  "count": 14744,
+  "updated": "2026-05-12 23:38:45",
+  "count": 14739,
   "items": [
+    {
+      "id": "te:markets:550052",
+      "time": "2026-05-12 23:38:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "European Stocks Close Sharply Lower — European stocks closed sharply lower on Tuesday as energy prices continued to rise and worsen the headwinds faced by the European corporate sector. The Eurozone's STOXX 50 fell 1.4% to 5,815 and the pan-European STOXX 600 fell 1.1% to 606. The US and Iran were unable to resolve their impasse after both sides rejected each others' concession offers, prompting US President Trump to state that the current ceasefire is close to being broken. The resulting jump in oil and natural gas prices coincided with fresh evidence of higher inflation in the US and political instability in the UK, lifting euro-denominated sovereign yields. Consequently, banks and insurers tumbled, with Santander, BNP Paribas, and ING dropping 2.3%, while Munich Re sank 6.3% after posting results. Siemens Energy also fell victim to earnings results and dropped 5.7%. Meanwhile, a global rout in the AI sector pressured Prosus and ASML to drop 5.8% and 3.1%, respectively."
+    },
+    {
+      "id": "4875631",
+      "time": "2026-05-12 23:37:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【美槍擊案受害者家屬起訴ChatGPT】2025年4月，佛羅里達州立大學塔拉哈西校區發生槍擊事件，導致2人死亡、6人受傷，槍手菲尼克斯·伊克納被捕。其中一名遇難者蒂魯·查巴的妻子5月10日對伊克納和OpenAI提起訴訟。原告稱，槍手作案前曾就槍擊案話題與OpenAI旗下聊天機器人ChatGPT聊天數月，ChatGPT據信就如何給槍上子彈、發生槍擊案後政府會如何應對等問題提供了資訊。而這家企業未能採取措施防止這類事件發生。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:019e1cd6-69a2-7dd3-a757-80f3e49c9f3b",
+      "time": "2026-05-12 23:37:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "EUROPEAN INDEXES CLOSED LOWER, DAX -1.66%, FTSE 100 -0.11%, CAC40 -0.95%, EURO STOXX50 -1.42%, IBEX35 -1.62%, FTSE MIB -1.37%"
+    },
+    {
+      "id": "4875630",
+      "time": "2026-05-12 23:35:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍發言人：馬納拉與馬爾加利奧特地區因偵測到敵方飛行器入侵拉響防空警報。此後，真主黨向黎巴嫩南部以國防軍駐防區域及以色列境內，發射多架爆炸式無人機和可疑空中目標。以色列空軍攔截其中一架無人機，另有一架無人機在以色列境內黎巴嫩邊境附近墜落爆炸。目前暫無人員傷亡。 此次事件系真主黨再次違反停火共識協議。"
+    },
     {
       "id": "4875629",
       "time": "2026-05-12 23:34:47",
@@ -130930,81 +130971,6 @@
         "公司"
       ],
       "text": "在Seeking Alpha最新發布的管理式醫療板塊Quant評級中，聯合健康集團旗下UnitedHealthcare部門排名中游。"
-    },
-    {
-      "id": "4861742",
-      "time": "2026-05-05 23:38:33",
-      "tags": [
-        "市場"
-      ],
-      "text": "湯森路透迅速轉跌。"
-    },
-    {
-      "id": "4861741",
-      "time": "2026-05-05 23:38:15",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "德國時尚集團Hugo Boss週二公佈2026年第一季度財報，受品牌與渠道戰略調整以及中東地緣衝突影響，集團銷售額和利潤雙雙下滑。儘管如此，該公司公佈的業績仍略高於市場預期。"
-    },
-    {
-      "id": "4861740",
-      "time": "2026-05-05 23:37:54",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐西蘭運營的全球乳製品貿易價格指數上漲1.5%，平均售價為每噸4127美元。"
-    },
-    {
-      "id": "4861739",
-      "time": "2026-05-05 23:37:40",
-      "tags": [
-        "市場"
-      ],
-      "text": "恆天然全球乳品貿易價格指數上漲1.5%。"
-    },
-    {
-      "id": "4861738",
-      "time": "2026-05-05 23:36:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國防長赫格塞思：歸根結底，伊朗需要做出抉擇，他們清楚我們佔據絕對優勢。我們希望伊朗作出明智選擇。"
-    },
-    {
-      "id": "4861737",
-      "time": "2026-05-05 23:36:21",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "丹麥生物技術公司諾維信（Novonesis）週二公佈2026年第一季度財報，受益於各業務板塊的廣泛增長，公司實現有機銷售增長7%，符合市場預期。管理層同時確認了全年業績指引。"
-    },
-    {
-      "id": "4861736",
-      "time": "2026-05-05 23:36:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿聯酋總統表示，阿聯酋仍有能力威懾任何侵略行為。"
-    },
-    {
-      "id": "4861735",
-      "time": "2026-05-05 23:36:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗稱當前優先事項是結束戰爭】據伊朗新聞電視臺5月5日報道，伊朗外交部發言人巴加埃就當前伊美談判程序表示，伊朗正在對美國“深度不信任與懷疑”的氛圍中進行談判，無法忘記美國去年6月及今年2月28日對伊朗實施的無端侵略，強調伊朗在整個外交程序中必須保持“高度警惕”。 巴加埃表示，伊朗決定不在此前已證明極為複雜、難以達成協議的問題上浪費時間，當前優先事項是聚焦結束戰爭，“因為這一問題關乎所有地區、關乎我們的民族、也關乎國際社會”。他說：“如果美國人真的認真對待外交，他們必須抓住這一機會，因為全世界都在等待他們至少展示出善意。” （CCTV國際時訊）"
-    },
-    {
-      "id": "4861734",
-      "time": "2026-05-05 23:35:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "Popular公司（NASDAQ: BPOP）週二宣佈，由其旗下Popular Capital Trust II發行的6.125%累積月度收益信託優先證券（BPOPM）將進行月度分配，每份證券派發現金0.127604美元。"
     }
   ]
 }
