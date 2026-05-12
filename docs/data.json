@@ -1,7 +1,45 @@
 {
-  "updated": "2026-05-12 09:58:28",
-  "count": 14039,
+  "updated": "2026-05-12 10:01:49",
+  "count": 14037,
   "items": [
+    {
+      "id": "4873844",
+      "time": "2026-05-12 10:01:24",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼股市基準指數上漲1%至6977.08點。"
+    },
+    {
+      "id": "te:markets:549805",
+      "time": "2026-05-12 10:01:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Hong Kong Shares Edge Higher Despite Geopolitical Jitters — The Hang Seng Index rose 155 points, or 0.6%, to 26,560 on Tuesday, extending gains from the previous session as optimism surrounding artificial intelligence-related shares helped support regional sentiment despite lingering geopolitical concerns. The advance came after reports indicated investors remained bullish on the AI trade even as the US and Iran failed to reach a peace agreement, while oil prices climbed amid the ongoing stalemate. In Hong Kong, financial and technology shares led gains, with continued buying interest in AI-related and growth stocks helping to offset broader caution. Notable movers included Kuaishou Technology (10.1%), Tencent Holdings (0.1%), Semiconductor Manufacturing International Corporation (1.4%), AIA Group (0.4%), and Techtronic Industries Co. (0.7%). Despite the advance, trading remained cautious as investors monitored Middle East tensions and positioned ahead of upcoming economic data from Hong Kong for clearer growth signals."
+    },
+    {
+      "id": "4873838",
+      "time": "2026-05-12 10:01:12",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼股市基準指數開盤上漲0.6%，至6946.85點。"
+    },
+    {
+      "id": "4873831",
+      "time": "2026-05-12 09:58:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "中際旭創成為創業板歷史上第二隻千元股，也是A股史上第十隻千元股，該股自2025年5月12日以來累計上漲超970%，今年累計上漲超63%。"
+    },
     {
       "id": "4873829",
       "time": "2026-05-12 09:58:18",
@@ -124361,64 +124399,6 @@
         "市場"
       ],
       "text": "布倫特原油日內跌1%，現報113.23美元/桶。"
-    },
-    {
-      "id": "4860487",
-      "time": "2026-05-05 10:01:10",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印尼股市基準指數開盤基本持平，報6968.57。"
-    },
-    {
-      "id": "te:547643",
-      "time": "2026-05-05 10:01:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Hong Kong",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Hong Kong Shares Slide as Middle East Conflict Escalates — The Hang Seng Index dipped 363 points, or 1.4%, to 25,730 on Tuesday, trimming earlier gains as expectations for progress in Washington-Tehran talks continued to fade. Sentiment turned more cautious after a fresh escalation in Middle East tensions, with reports of renewed strikes on maritime targets near the Strait of Hormuz and damage to port facilities across parts of the Gulf, marking the most serious flare-up since a fragile ceasefire was reached several weeks ago. At the same time, oil markets prices held firm triggered by the renewed tensions, with traders reacting to reports of disrupted shipping activity and heightened risks to energy facilities in the Middle East. In Hong Kong, the renewed escalation revived fears that the fragile truce could break down and potentially push the region back into a prolonged period of instability. Among major decliners included Tencent Holdings (-1.4%), Trip.com (-2.2%), Xiaomi Corporation (-1.9%), AIA Group (-2.1%), and SMIC (-1.6%)."
-    },
-    {
-      "id": "te:markets:547643",
-      "time": "2026-05-05 10:01:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Hong Kong",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Hong Kong Shares Slide as Middle East Conflict Escalates — The Hang Seng Index dipped 363 points, or 1.4%, to 25,730 on Tuesday, trimming earlier gains as expectations for progress in Washington-Tehran talks continued to fade. Sentiment turned more cautious after a fresh escalation in Middle East tensions, with reports of renewed strikes on maritime targets near the Strait of Hormuz and damage to port facilities across parts of the Gulf, marking the most serious flare-up since a fragile ceasefire was reached several weeks ago. At the same time, oil markets prices held firm triggered by the renewed tensions, with traders reacting to reports of disrupted shipping activity and heightened risks to energy facilities in the Middle East. In Hong Kong, the renewed escalation revived fears that the fragile truce could break down and potentially push the region back into a prolonged period of instability. Among major decliners included Tencent Holdings (-1.4%), Trip.com (-2.2%), Xiaomi Corporation (-1.9%), AIA Group (-2.1%), and SMIC (-1.6%)."
-    },
-    {
-      "id": "4860486",
-      "time": "2026-05-05 10:00:27",
-      "tags": [
-        "市場",
-        "央行"
-      ],
-      "text": "【馬來亞銀行：建倉澳元的更好機會或將出現】馬來亞銀行外匯研究和策略團隊在一份報告中稱，積累澳元兌其他貨幣的更好機會可能即將到來。該團隊認為，對於澳大利亞央行今天的決定，可能會出現兩種情況——澳大利亞央行維持利率不變，但對通脹問題發出偏緊縮訊號；或者澳大利亞央行加息並暗示將按兵不動。該團隊稱，“兩種情況都可能導致“澳元兌美元出現暫時性回撥。該團隊補充稱，此外，澳元兌紐西蘭元匯率也有可能從近期高點回落，跌向1.2070。FactSet資料顯示，澳元下跌0.1%，至0.7159美元，但兌紐西蘭元匯率持平，報1.2207紐西蘭元。"
-    },
-    {
-      "id": "4860485",
-      "time": "2026-05-05 10:00:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓國產業部長將會見盧特尼克 商討美國投資事宜】韓國政府表示，韓國產業部長金廷官本週將會見美國商務部長霍華德·盧特尼克，就韓國在美投資展開磋商，此舉是落實兩國去年簽署貿易協議的相關舉措之一。韓國產業部稱，金廷官將於週三抵達華盛頓特區，與盧特尼克等美國核心政府官員會晤。雙方將舉行初步磋商，推進韓國在2025年11月簽署的聯合情況說明中承諾的3500億美元在美投資計劃。產業部表示，金廷官還將與美國國會議員商討雙邊貿易相關議題。韓國產業部透露，在前往華盛頓之前，金廷官將於週二至週三到訪加拿大渥太華，會見加拿大工業部長梅蘭妮·喬利、能源部長蒂姆·霍奇森等官員，洽談能源合作事宜。"
-    },
-    {
-      "id": "4860484",
-      "time": "2026-05-05 09:58:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國產業部長將會見盧特尼克，討論美國投資相關議題。"
     }
   ]
 }
