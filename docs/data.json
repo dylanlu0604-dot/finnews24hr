@@ -1,7 +1,52 @@
 {
-  "updated": "2026-05-12 21:18:22",
-  "count": 14654,
+  "updated": "2026-05-12 21:21:45",
+  "count": 14661,
   "items": [
+    {
+      "id": "4875338",
+      "time": "2026-05-12 21:20:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "據《每日電訊報》報道，英國青年失業率如今已高於希臘和西班牙。"
+    },
+    {
+      "id": "4875337",
+      "time": "2026-05-12 21:19:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗戰爭遲遲未結束 赫格塞斯因國防開支問題受到質詢】據外媒報道，負責監督五角大樓支出的美國議員週二向美國防長赫格塞思施壓，對伊朗戰爭不斷攀升的成本發出質疑。眾議院撥款委員會級別最高的民主黨議員Rosa DeLauro表示，“自這場戰爭開始以來，政府一直缺乏透明度。”她指出，成本與日俱增，而政府的衝突戰略卻不明朗，敵對行動似乎隨時可能再次爆發。明尼蘇達州眾議員貝蒂·麥科勒姆是國防小組委員會的資深民主黨成員，她指出此前對這場戰爭的成本估計為 250 億美元，並要求五角大樓高階官員“深入挖掘”更多細節。麥科勒姆還詢問赫格塞斯，如果國會不根據《戰爭權力法》授權繼續軍事行動，他是否有計劃從該地區撤軍或將部隊轉移出去。“如有必要，我們有升級計劃；如有必要，我們有撤回計劃；如有必要，我們有轉移資產的計劃，”赫格塞斯回答說，並表示他不想在公開場合提供這些細節。"
+    },
+    {
+      "id": "mkt:019e1c57-29aa-7dd3-a755-2bd1e871cffe",
+      "time": "2026-05-12 21:18:52",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "HEGSETH: ANY DEALING WITH IRAN WILL HAPPEN “ON AMERICA’S TERMS,” SIGNALING WASHINGTON WILL MAINTAIN A HARDLINE STANCE IN NEGOTIATIONS & SECURITY MATTERS"
+    },
+    {
+      "id": "4875336",
+      "time": "2026-05-12 21:18:34",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "venture global執行長邁克·薩貝爾表示，即便伊朗衝突結束，卡達能源的北方氣田擴建專案也會因供應鏈受阻進一步推遲。"
+    },
+    {
+      "id": "4875335",
+      "time": "2026-05-12 21:18:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英國政府又有兩名官員辭職】據英國媒體12日報道，英國內政部政務次官傑絲·菲利普斯與司法部政務次官亞歷克絲·戴維斯-瓊斯相繼宣佈辭職。（新華社）"
+    },
     {
       "id": "4875334",
       "time": "2026-05-12 21:18:03",
@@ -36,12 +81,38 @@
       "text": "現貨黃金失守4680美元/盎司，日內跌1.15%。"
     },
     {
+      "id": "mkt:019e1c56-dd80-7dd3-a755-20304d8c4d7d",
+      "time": "2026-05-12 21:17:19",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Trump Says Iran “Just a Matter of Time” as Pressure Campaign Intensifies】President Donald Trump said the US expects Iran’s economy to collapse under pressure from a blockade of its ports, arguing the conflict will resolve without urgency. Speaking on radio, he said Iran is being cut off from revenue and claimed US strikes have weakened its military leadership and capabilities. Trump added he is confident Iran will be prevented from developing a nuclear weapon, saying: “It’s just a question of time.”"
+    },
+    {
       "id": "4875330",
       "time": "2026-05-12 21:17:10",
       "tags": [
         "國際"
       ],
       "text": "【特朗普稱，隨著施壓持續升級，伊朗問題只是時間問題】特朗普總統表示，美國預計伊朗經濟將在港口封鎖的壓力下崩潰，並認為相關衝突無需急於解決。他在電臺採訪中稱，伊朗正被切斷收入來源，還聲稱美國的打擊行動已嚴重削弱其軍方領導層及軍事能力。特朗普同時表示，有信心阻止伊朗研發核武器，並補充道：“這只是時間早晚的事。”"
+    },
+    {
+      "id": "mkt:019e1c56-db9b-7dd3-a755-1d0cb2ba3eed",
+      "time": "2026-05-12 21:16:59",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "US DEFENSE SECRETARY HEGSETH SAYS THE IRAN CEASEFIRE AGREEMENT REMAINS IN EFFECT DESPITE RECENT TENSIONS AND EXCHANGES OF FIRE"
     },
     {
       "id": "4875329",
@@ -51,6 +122,28 @@
         "焦點"
       ],
       "text": "紐約期金失守4690美元/盎司，日內跌0.82%。"
+    },
+    {
+      "id": "mkt:019e1c56-c802-7dd3-a755-12698fe11e71",
+      "time": "2026-05-12 21:16:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Star Stocks",
+        "NVIDIA",
+        "Tesla",
+        "Apple",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "S&P500"
+      ],
+      "text": "【MKTNews Morning Bid - US】- President Donald Trump didn’t mince words about Iran’s counteroffer yesterday, telling reporters that Tehran’s proposal to end the war was “garbage” and that the ceasefire was “on life support.” Oil prices spiked yesterday following Trump’s comments. Prices continued to rise overnight, with Brent crude futures now sitting above $107 while West Texas Intermediate futures rose back above $100 per barrel. The S&P 500 and Nasdaq Composite were still both able to hit new all-time highs yesterday. The former also closed above 7,400 for the first time. - Trump will head to China this week to meet with Chinese President Xi Jinping. Trump invited executives from a swath of major companies to join the delegation to China, a White House official said. The group includes Tesla’s Elon Musk, Apple’s Tim Cook, Meta’s Dina Powell McCormick and Micron’s Sanjay Mehrotra . Outside of tech, Citigroup’s Jane Fraser, Boeing’s Kelly Ortberg and Goldman Sachs’ David Solomon are also on the list. C isco CEO Chuck Robbins was invited but cannot attend due to the company’s earnings, according to a spokesperson. Several companies with interests in China including Nvidia, Disney and General Motors also didn’t have representation on the White House’s list. - General Motors is slashing hundreds of salaried information technology employees in a bid to cut costs. GM said in a statement that it is “transforming” its IT arm to “better position the company for the future.” The Detroit-based automaker is still hiring IT workers despite the reductions. Trump and congressional Republicans are proposing a suspension of the federal gas tax as fuel prices surge ahead of the midterm elections."
     },
     {
       "id": "4875328",
@@ -130111,15 +130204,6 @@
         "Importance 1"
       ],
       "text": "Swiss 10-Year Bond Yield Little Changed — Switzerland’s 10-year government bond yield hovered just above 0.4%, retreating from a recent nine-month peak of nearly 0.5%, as investors evaluated the Swiss National Bank’s policy path while tracking stalled US-Iran negotiations. Headline inflation rate rose to 0.6% in April, the highest since December 2024, from 0.3% in March, sitting slightly above the 0.5% average projected by the SNB for this year. The increase was largely driven by higher energy prices, as the Middle East conflict pushed petrol prices sharply higher. Meanwhile, core inflation edged down to 0.3% from 0.4% in March, marking the softest increase since July 2021, easing pressure on the central bank to change policy. The appreciation of the franc amid ongoing safe-haven demand due to persistent geopolitical tensions and Switzerland’s low energy dependence should soften the impact on consumer prices. The SNB is expected to keep interest rates at 0% in June and possibly over the next 12 months."
-    },
-    {
-      "id": "4861474",
-      "time": "2026-05-05 21:18:52",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美軍推動軍工廠商開放武器軟體 打通系統相容並接入AI】美國軍方正推動國防承包商開放武器軟體許可權，以提升各裝備間的互操作性，並助力其與新興人工智慧工具實現融合對接。 美國國防部週二表示，已有九家企業同意打通從雷達到地對空導彈發射裝置等各類系統的資料互通。官方稱，參與企業既有洛克希德・馬丁、波音等傳統軍工巨頭，也包括帕蘭提爾、安杜里爾工業等新興科技防務公司。 美國陸軍部長丹・德里斯科爾在簡報會上表示：“我們過往大量裝備都是封閉系統，防空與反導體系無法便捷接入下一代指揮控制系統。” 該專案旨在解決軍方長期面臨的痛點：各類武器系統在設計上往往無法互聯互通。整合多類感測器、作戰載具與武器裝備流程冗長，政府不得不追加大量工程合同，推高整體軍費成本。"
     }
   ]
 }
