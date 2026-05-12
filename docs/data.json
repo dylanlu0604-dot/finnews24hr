@@ -1,7 +1,69 @@
 {
-  "updated": "2026-05-13 01:05:46",
-  "count": 14751,
+  "updated": "2026-05-13 01:09:17",
+  "count": 14753,
   "items": [
+    {
+      "id": "mkt:019e1d29-6559-7772-877a-e288f9f4223e",
+      "time": "2026-05-13 01:08:32",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "RUSSIAN FORCES HIT RESIDENTIAL BUILDING IN CENTRAL UKRAINIAN CITY OF KRYVYI RIH, TWO DEAD, REGIONAL GOVERNOR SAYS"
+    },
+    {
+      "id": "4875699",
+      "time": "2026-05-13 01:08:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "地區州長稱：俄軍襲擊烏克蘭中部城市克里沃伊羅格的一棟居民樓，造成兩人死亡。"
+    },
+    {
+      "id": "te:markets:550068",
+      "time": "2026-05-13 01:06:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Aluminum Approaches 4-Year High — Aluminum futures in the UK rose to $3,550 per tonne, approaching the four-year high of $3,650 on April 16th amid prolonged supply disruptions from the Middle East. The US and Iran exchanged threats and extended their impasse that has halted the flows of commercial vessels in the Persian Gulf. Pre-war supply from Gulf countries were responsible for 9% of global supply and nearly 25% of non-Chinese supply. On top of that, direct attacks on the largest refiners in the region delayed the eventual return of supply from the area, with EGA's flagship plant expected to return to capacity in one year, and Bahrain's ALBA operations being suspended. The resulting surge in natural gas costs also lifted refining costs. Meanwhile, strong manufacturing activity data from China supported the demand backdrop. This was magnified by ample borrowing of special bonds in recent municipal debt auctions for their largest cities, which are commonly used for aluminum-intense infrastructure development."
+    },
+    {
+      "id": "4875698",
+      "time": "2026-05-13 01:06:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：正與宏碁、華碩、戴爾、惠普、聯想等合作伙伴攜手，打造首批 Googlebook 裝置。"
+    },
+    {
+      "id": "mkt:019e1d27-a78a-7772-877a-de2bc919fc71",
+      "time": "2026-05-13 01:06:23",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "GOOGLE: WORKING WITH PARTNERS LIKE ACER, ASUS, DELL, HP & LENOVO TO MAKE THE FIRST GOOGLEBOOKS"
+    },
+    {
+      "id": "mkt:019e1d26-edf7-7772-877a-d79e8cc6a92e",
+      "time": "2026-05-13 01:05:50",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "EXXONMOBIL BAYTOWN REFINERY REPORTS A LEAK ON THE INLET DUCT OF REACTOR 501A RESULTED IN EMISSION TO ATMOSPHERE"
+    },
     {
       "id": "mkt:019e1d26-3ac6-7772-877a-cc80756df299",
       "time": "2026-05-13 01:05:00",
@@ -131236,39 +131298,6 @@
         "國際"
       ],
       "text": "【特朗普避談伊朗何種行為將被視為違反停火協議】美國總統特朗普5日在白宮回答記者提問時拒絕談論伊朗方面究竟何種行為將被視為違反美伊停火協議。特朗普在白宮參加一場活動期間被媒體問到“伊朗的什麼行為算違反停火”，含糊地回答說：“你們會知道的，因為我會告訴你們……他們（伊朗）知道該做什麼，也知道不該做什麼。”他還稱，伊朗在“玩把戲”，但“他們想要達成協議”。"
-    },
-    {
-      "id": "4861879",
-      "time": "2026-05-06 01:09:08",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "城堡證券CEO格里芬：特朗普針對委內瑞拉的舉措取得了極具戰略意義的顯著成果。"
-    },
-    {
-      "id": "4861878",
-      "time": "2026-05-06 01:07:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄新社：俄羅斯外長拉夫羅夫與美國國務卿魯比奧的通話具有建設性、務實性。"
-    },
-    {
-      "id": "4861877",
-      "time": "2026-05-06 01:06:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯外長拉夫羅夫與美國國務卿魯比奧討論了國際議程、俄美關係以及雙邊接觸日程安排。"
-    },
-    {
-      "id": "4861876",
-      "time": "2026-05-06 01:06:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯外長拉夫羅夫與美國國務卿魯比奧商討俄美關係。"
     }
   ]
 }
