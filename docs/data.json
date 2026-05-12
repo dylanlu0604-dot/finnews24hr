@@ -1,7 +1,104 @@
 {
-  "updated": "2026-05-12 17:08:09",
-  "count": 14454,
+  "updated": "2026-05-12 17:11:33",
+  "count": 14457,
   "items": [
+    {
+      "id": "4874760",
+      "time": "2026-05-12 17:11:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟氣候行動專員：歐洲必須增加自主能源生產，需要更多可再生能源，但也需發展核能。"
+    },
+    {
+      "id": "4874759",
+      "time": "2026-05-12 17:10:52",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【市場監管總局釋出《零售商品稱重計量監督管理辦法（修正草案徵求意見稿）》公開徵求意見】市場監管總局對《零售商品稱重計量監督管理辦法》進行修改完善，最佳化食品稱重負偏差量值、明確零售商品經營者義務，切實引導零售商品經營者合理配備並使用計量器具，堅決遏制商品量短缺等行為，促進形成誠信、公平、透明的市場交易環境。經過充分調研、專家論證並書面徵求相關部門及地方意見，研究形成修正草案徵求意見稿及其說明，現向社會公開徵求意見。（國家市場監管總局）"
+    },
+    {
+      "id": "4874758",
+      "time": "2026-05-12 17:10:34",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【青島證監局召開轄區北交所重點擬上市企業座談會】日前，青島證監局聯合北京證券交易所在青島高新區召開轄區北交所重點擬上市企業座談會，傳達學習資本市場最新改革政策和監管要求，分析轄區企業上市工作面臨的形勢，結合樹立和踐行正確政績觀學習教育，廣泛聽取市場主體意見建議，推動轄區擬上市企業利用資本市場實現更高質量發展。（證監會）"
+    },
+    {
+      "id": "mkt:019e1b73-a497-7dd9-b92b-6acffc08ae48",
+      "time": "2026-05-12 17:10:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Qatar Orders LNG Ships at Ras Laffan to Switch Off Tracking Transponders】Qatar has instructed vessels at its main LNG export hub Ras Laffan to turn off Automatic Identification System transponders, according to people familiar with the matter. The directive, issued this week, applies to ships within the port, anchorages, and surrounding waters. The move is described as a safety measure. QatarEnergy did not immediately comment."
+    },
+    {
+      "id": "4874757",
+      "time": "2026-05-12 17:10:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "阿聯酋全球鋁業首席營銷官：中東衝突不會改變我們的投資計劃。"
+    },
+    {
+      "id": "mkt:019e1b73-74a8-7dd9-b92b-66fc89a03ed4",
+      "time": "2026-05-12 17:10:11",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "EU CLIMATE COMMISSIONER: EUROPE MUST PRODUCE MORE OF ITS OWN ENERGY, NEEDS MORE RENEWABLES, BUT ALSO NUCLEAR POWER"
+    },
+    {
+      "id": "te:economy:549963",
+      "time": "2026-05-12 17:10:05",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Euro Area",
+        "ZEW Economic Sentiment Index",
+        "Importance 1"
+      ],
+      "text": "Eurozone Investor Morale Higher Than Expected — The ZEW Indicator of Economic Sentiment for the Euro Area rose by 11.3 points to -9.1 in May 2026, beating market expectations of -20. In May, 51.1% of analysts expected no change in economic activity, while 29% anticipated a deterioration and 19.9% expected improvement. The assessment of the current situation also improved, with the index rising 1.6 points to -41.4, while inflation expectations dropped 13.7 points to 65.3."
+    },
+    {
+      "id": "4874756",
+      "time": "2026-05-12 17:09:12",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【花旗集團對中國平安的多頭持倉比例降至5.96%】據香港交易所披露，花旗集團對中國平安保險(集團)股份有限公司 - H股的多頭持倉比例於2026年5月6日從6.25%降至5.96%。"
+    },
+    {
+      "id": "4874755",
+      "time": "2026-05-12 17:09:09",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【摩根大通（JPMorgan）對嗶哩嗶哩-W的多頭持倉比例降至14.64%】據香港交易所披露，摩根大通（JPMorgan）對嗶哩嗶哩股份有限公司 - W的多頭持倉比例於2026年5月6日從15.9%降至14.64%。"
+    },
+    {
+      "id": "4874754",
+      "time": "2026-05-12 17:08:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家防總辦公室應急管理部會商部署防汛減災工作】國家防總辦公室、應急管理部組織氣象、水利、自然資源等部門會商研判近期強降雨發展趨勢，部署重點地區防汛減災工作。會商指出，預計5月12日至14日，江南、華南及貴州東部等地部分地區將有大雨或暴雨，局地大暴雨，局地伴有雷暴大風、冰雹等強對流天氣，要注意防範山洪和地質災害、中小河流洪水和城市內澇。會商強調，要強化臨災預警“叫應”和跟蹤反饋，滾動開展聯合會商，嚴格落實直達基層一線的臨災預警“叫應”和跟蹤反饋機制，重點抓好轉移避險工作，按照“四個一律”要求堅決果斷轉移受威脅群眾。要強化風險隱患排查整治，盯緊守牢薄弱堤段、病險水庫、狹窄行洪河道、山洪溝口和養老院、施工工地、工棚、民宿、旅遊景區等重點部位，把風險隱患消除在成災之前。（應急管理部）"
+    },
+    {
+      "id": "4874753",
+      "time": "2026-05-12 17:08:30",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【納指科技ETF景順：將於5月13日開市起至當日10:30停牌】景順長城基金管理有限公司公告，景順長城納斯達克科技市值加權交易型開放式指數證券投資基金（QDII）（場內簡稱：納指科技ETF景順，交易程式碼：159509）將於2026年5月13日開市起停牌，自當日10:30起復牌；停牌期間本基金贖回業務照常辦理。"
+    },
     {
       "id": "4874752",
       "time": "2026-05-12 17:07:37",
@@ -128050,78 +128147,6 @@
         "國際"
       ],
       "text": "【伊朗邊防警察指揮官：胡齊斯坦省查獲5艘船隻，繳獲走私燃油20萬升】伊朗執法部隊邊防警察司令表示：為落實加強胡齊斯坦省沿海水道管控的行動部署，邊防警衛接到情報，有人計劃透過既定走私路線運送兩批燃油，走私至波斯灣國家並倒賣予中間商。執勤人員迅速趕赴現場，排查並查獲4艘船隻，經檢查，船上查獲走私柴油共計13萬升。馬赫沙赫爾海軍基地執勤人員同步開展專項行動，另查獲一艘商用船隻，船上繳獲燃油6.8萬升。兩次行動共抓獲8名涉案嫌疑人。相關查扣物資及涉案人員在完成初步案件卷宗後，已移交主管部門，依法進入司法審理程式。"
-    },
-    {
-      "id": "4860937",
-      "time": "2026-05-05 17:10:50",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【美汽油價格較衝突前暴漲近50%】據美國有線電視新聞網4日報道，美國汽油價格較中東衝突爆發前，已上漲接近50%。如果霍爾木茲海峽下個月仍無法開放，美國汽油價格的上漲幅度將接近70%。報道還援引知情人士的話說，美國總統團隊多次向美國能源行業代表施壓，希望能提高產量以緩解壓力，但能源行業暫未作出承諾。（央視財經）"
-    },
-    {
-      "id": "4860936",
-      "time": "2026-05-05 17:10:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【博瑞醫藥：BGM0504注射液減重適應症Ⅲ期臨床試驗達成預期目標】博瑞醫藥(688166)5月5日公告，近日，全資子公司博瑞製藥（蘇州）有限公司自主研發的BGM0504注射液減重適應症Ⅲ期臨床試驗達成預期目標。BGM0504是公司自主研發的GLP-1（胰高血糖素樣肽1）和GIP（葡萄糖依賴性促胰島素多肽）受體雙重激動劑，可激動GIP和GLP-1下游通路，產生控制血糖、減重和治療非酒精性脂肪性肝炎（NASH）等生物學效應，展現多種代謝疾病治療潛力。此外，BGM0504注射液2型糖尿病適應症目前在國內也處於Ⅲ期臨床試驗階段。"
-    },
-    {
-      "id": "te:economy:547823",
-      "time": "2026-05-05 17:10:16",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Slovenia",
-        "Balance of Trade",
-        "Importance 1"
-      ],
-      "text": "Slovenia Trade Deficit Widens — Slovenia recorded a trade deficit of EUR 1,104.6 million in March 2026 compared to a surplus of EUR 810.17 million in the same month last year. Exports declined 15.6% to EUR 6,505.5 million, mainly due to a decrease in processing of products, which had made a significant contribution in the previous year. Meanwhile, imports rose by 10.3% to EUR 7,610.1 million. Trade with EU Member States strengthened, with exports increasing by 6.9% and imports by 3.1%. On the other hand, exports with EU non-member countries declined by 28.4%, while imports climbed by 16.1%. For the first quarter of 2026, the trade deficit widened to EUR 2.9 billion, as exports declined sharply by 26.8% and imports jumped by 16.1%."
-    },
-    {
-      "id": "4860935",
-      "time": "2026-05-05 17:10:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯國防部： 此次打擊是對烏克蘭襲擊俄羅斯民用基礎設施的報復性回擊。"
-    },
-    {
-      "id": "4860934",
-      "time": "2026-05-05 17:08:46",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "俄羅斯國防部：俄軍打擊烏克蘭國防與能源設施。"
-    },
-    {
-      "id": "4860933",
-      "time": "2026-05-05 17:08:42",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4560美元/盎司，日內漲0.81%。"
-    },
-    {
-      "id": "4860932",
-      "time": "2026-05-05 17:08:30",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4570美元/盎司，日內漲0.81%。"
-    },
-    {
-      "id": "4860931",
-      "time": "2026-05-05 17:08:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "【香港：今年“五一”假期將有約98萬人次內地旅客訪港，同比增長7%】“五一”假期香港人流暢旺，香港特區政府入境事務處預計，今年“五一”假期將有約98萬人次內地旅客訪港，同比增長7%，香港假日旅遊人氣滿滿活力足。"
     }
   ]
 }
