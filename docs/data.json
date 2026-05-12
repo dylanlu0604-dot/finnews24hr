@@ -1,7 +1,55 @@
 {
-  "updated": "2026-05-12 11:55:03",
-  "count": 14111,
+  "updated": "2026-05-12 11:58:24",
+  "count": 14112,
   "items": [
+    {
+      "id": "4874118",
+      "time": "2026-05-12 11:57:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐洲議會：議會與歐盟理事會談判代表就應對歐盟基本藥物短缺問題達成臨時協議。"
+    },
+    {
+      "id": "4874117",
+      "time": "2026-05-12 11:57:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "據報道，在過去兩個月裡，投資者已從印度股市撤資2萬億盧比（約合210億美元）；這使得今年成為自1993年印度市場向海外投資開放以來，外資流向表現最糟糕的一年。"
+    },
+    {
+      "id": "mkt:019e1a54-3507-7dd9-b928-81f120ea254a",
+      "time": "2026-05-12 11:56:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "INDIA'S NIFTY 50 INDEX LAST DOWN 0.5%"
+    },
+    {
+      "id": "4874116",
+      "time": "2026-05-12 11:56:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【場景智慧企業躍盟科技完成C輪融資】蘇州躍盟資訊科技股份有限公司近日宣佈完成數億元C輪融資。本輪融資由元禾辰坤領投，軟銀亞洲、卓璞基金、園豐資本跟投。躍盟科技聚焦用AI技術提高媒體的商業資訊分發精度，從而提升廣告主的支出與收益。據悉，公司目前正同步啟動上市籌備。"
+    },
+    {
+      "id": "4874113",
+      "time": "2026-05-12 11:55:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【漢朔科技：暫無港股上市計劃】漢朔科技5月12日在互動平臺表示，公司目前暫無港股上市計劃，未來如有該類計劃並達到資訊披露標準，公司將嚴格按照相關規定及時履行資訊披露義務。"
+    },
+    {
+      "id": "4874112",
+      "time": "2026-05-12 11:55:00",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【瑞銀：上調A股盈利預測至11%，中國資產全球吸引力凸顯】“我們將2026年全部A股盈利同比增長預測從此前的8%上調至11%。”在5月11日舉行的媒體分享會上，瑞銀證券中國股票策略分析師孟磊表示。從全球視角來看，國際市場對中國資產的關注度正在持續升溫。瑞銀全球金融市場部中國主管房東明指出，在全球不確定性加劇、地緣政治波動明顯的背景下，中國資產的抗風險和低相關性的屬性，越來越凸顯了吸引力。他強調，中國資本市場擁有完整的產業鏈與多元化的能源結構，今年更是彰顯了低相關性、分散風險的優勢，被越來越多的機構投資者稱為是全球資產的“避風港”。房東明介紹，國際投資者目前高度關注三大方向：AI創新和高科技產業、中國優質企業出海與全球化佈局，以及“反內卷”帶來的新機遇。（澎湃）"
+    },
     {
       "id": "4874111",
       "time": "2026-05-12 11:54:29",
@@ -124973,55 +125021,6 @@
         "其他"
       ],
       "text": "汇丰银行第一季度税前利润为93.8亿美元，低于此前预期的95.9亿美元。"
-    },
-    {
-      "id": "4860553",
-      "time": "2026-05-05 11:57:49",
-      "tags": [
-        "市场",
-        "国际"
-      ],
-      "text": "印度Nifty 50指数跌幅扩大，最新下跌0.55%。"
-    },
-    {
-      "id": "4860552",
-      "time": "2026-05-05 11:57:39",
-      "tags": [
-        "市场"
-      ],
-      "text": "【5月国内航线燃油费未“如约”上调】每个月的5号是国内航线燃油附加费调整的窗口期，不过截至今日记者发稿，国内航司并没有发布燃油费调整的通知。这意味着，5月的国内航线燃油附加费仍会执行4月5日开始的标准，即800公里(含)以下航段收取60元，800公里以上航段收取120元。如果按照4月份的国际油价测算，5月的国内航煤价格要继续上涨，突破万元每吨，但据多家航司反馈，进入5月后，中石化的航空煤油出厂价格并未调整，意味着有关部门对国内航油采购价格也进行了调控。这也是5月国内航线燃油附加费未上调的原因：航司的国内航油综合采购成本没有进一步提高。（第一财经）"
-    },
-    {
-      "id": "4860551",
-      "time": "2026-05-05 11:57:07",
-      "tags": [
-        "国际"
-      ],
-      "text": "韩国国防部：将参与国际谈判，以保障船舶通过霍尔木兹海峡的航行安全。"
-    },
-    {
-      "id": "te:547666",
-      "time": "2026-05-05 11:56:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "India",
-        "Currency",
-        "Importance 2"
-      ],
-      "text": "Indian Rupee Hits Fresh Record Low — The Indian rupee slipped to around 95.4 per dollar, hitting fresh record lows after a brief period of stabilization, as renewed strength in global oil prices intensified pressure on the currency. The move followed a 6% surge in crude on Monday after Iran escalated military actions in the Strait of Hormuz and an oil facility in the UAE was hit, further unsettling energy markets. Additional pressure came from US–Iran exchanges in the Gulf, which dampened hopes of de-escalation and reinforced concerns over risks for oil-importing economies. At the same time, the lack of substantial capital inflows has increased the currency’s vulnerability to external shocks, limiting its ability to recover. Market dynamics have also shifted, with importers increasing hedging activity to guard against further depreciation, while exporters are holding back, anticipating further currency weakness."
-    },
-    {
-      "id": "te:markets:547666",
-      "time": "2026-05-05 11:56:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "India",
-        "Currency",
-        "Importance 2"
-      ],
-      "text": "Indian Rupee Hits Fresh Record Low — The Indian rupee slipped to around 95.4 per dollar, hitting fresh record lows after a brief period of stabilization, as renewed strength in global oil prices intensified pressure on the currency. The move followed a 6% surge in crude on Monday after Iran escalated military actions in the Strait of Hormuz and an oil facility in the UAE was hit, further unsettling energy markets. Additional pressure came from US–Iran exchanges in the Gulf, which dampened hopes of de-escalation and reinforced concerns over risks for oil-importing economies. At the same time, the lack of substantial capital inflows has increased the currency’s vulnerability to external shocks, limiting its ability to recover. Market dynamics have also shifted, with importers increasing hedging activity to guard against further depreciation, while exporters are holding back, anticipating further currency weakness."
     }
   ]
 }
