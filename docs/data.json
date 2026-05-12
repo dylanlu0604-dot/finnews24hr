@@ -1,7 +1,138 @@
 {
-  "updated": "2026-05-13 00:03:25",
-  "count": 14710,
+  "updated": "2026-05-13 00:07:04",
+  "count": 14719,
   "items": [
+    {
+      "id": "4875658",
+      "time": "2026-05-13 00:05:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "法院檔案顯示：美國海關與邊境保護局預計，截至 5 月 11 日，將針對830 萬筆進口報關業務，支付含利息在內的關稅退稅合計354.6 億美元。"
+    },
+    {
+      "id": "4875657",
+      "time": "2026-05-13 00:04:30",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【日本尼得科公司被曝存在質量違規問題 】據日媒12日報道，日本大型電機制造企業尼得科公司存在質量違規問題，涉及電機零部件設計變更、檢測資料篡改等，相關問題或超過1000項。日本共同社等媒體報道說，涉事產品包括家電用電機和車載零部件等。公司內部調查顯示，約97%的問題涉及未經客戶同意擅自更新模具，或變更製造工序、產品設計等，其餘約3%涉及試驗和檢測資料篡改、產地標識不當等。預計13日將成立由外部律師組成的調查委員會，計劃在8月底前查明情況。（新華社）"
+    },
+    {
+      "id": "mkt:019e1cf0-9719-7cc6-9aba-6ffeabbcc8e9",
+      "time": "2026-05-13 00:04:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "EIA ASSUMES STRAIT OF HORMUZ WILL BE CLOSED THROUGH LATE MAY, GRADUAL RESUMPTION OF TRAFFIC IN JUNE, AND REACH PRE-CONFLICT LEVEL LATER IN 2026"
+    },
+    {
+      "id": "mkt:019e1cf0-3429-7cc6-9aba-62878fc71392",
+      "time": "2026-05-13 00:04:24",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | EIA US Crude Oil Production Estimate (Next Year) (May) | actual 14100000M | previous 13950000M"
+    },
+    {
+      "id": "mkt:019e1cef-94ce-7cc6-9aba-59d0996b96cc",
+      "time": "2026-05-13 00:04:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. EIA ESTIMATES 10.5 MLN BPD OF CRUDE OIL OUTPUT WAS SHUT IN DURING APRIL FROM IRAQ, SAUDI ARABIA, KUWAIT, UAE, QATAR AND BAHRAIN"
+    },
+    {
+      "id": "mkt:019e1cef-94ce-7cc6-9aba-541fb1a9a270",
+      "time": "2026-05-13 00:04:20",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | EIA US Crude Oil Production Estimate (Current Year) (May) | actual 13650000M | previous 13510000M"
+    },
+    {
+      "id": "mkt:019e1cef-1332-7cc6-9aba-4e65289de42f",
+      "time": "2026-05-13 00:04:09",
+      "tags": [
+        "MKT News",
+        "WTI"
+      ],
+      "text": "U.S. OIL PRODUCTION TO AVERAGE 13.73 MLN BPD IN MAY VS 13.75 MLN BPD IN APRIL; TO AVERAGE 13.75 MLN BPD IN JUNE – EIA"
+    },
+    {
+      "id": "mkt:019e1cee-3159-7cc6-9aba-42228bbab916",
+      "time": "2026-05-13 00:03:52",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "EIA SEES 2026 WORLD OIL OUTPUT OF 101.6 MLN BPD, VS PRIOR FORECAST 104.3 MLN BPD; SEES 2027 OUTPUT OF 109.5 MLN BPD (PVS 109.5 MLN BPD) EIA SEES 2026 U.S. OIL OUTPUT OF 13.65 MLN BPD, VS PRIOR FORECAST 13.51 MLN BPD; SEES 2027 OUTPUT OF 14.1 MLN BPD (PVS 13.95 MLN BPD)"
+    },
+    {
+      "id": "mkt:019e1ced-fe8b-7cc6-9aba-3a721acf084a",
+      "time": "2026-05-13 00:03:39",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "EIA SEES 2026 WORLD OIL DEMAND OF 104.2 MLN BPD, VS PRIOR FORECAST 104.6 MLN BPD; SEES 2027 DEMAND OF 105.6 MLN BPD (PVS 106.2 MLN BPD) EIA SEES 2026 U.S. OIL DEMAND OF 20.7 MLN BPD, VS PRIOR FORECAST 20.6 MLN BPD; SEES 2027 DEMAND OF 20.7 MLN BPD (PVS 20.7 MLN BPD)"
+    },
+    {
+      "id": "4875656",
+      "time": "2026-05-13 00:03:35",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "據華爾街日報：SpaceX與谷歌正洽談在軌建設軌道資料中心相關合作，谷歌同時也在與其他火箭發射企業展開磋商。"
+    },
+    {
+      "id": "mkt:019e1ced-b25f-7cc6-9aba-37f6f79156ce",
+      "time": "2026-05-13 00:03:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed"
+      ],
+      "text": "EIA SEES 2026 WTI PRICE AVERAGE OF 85.68/BBL, VS PRIOR FORECAST 87.41/BBL; 2027 FORECAST OF 74.39/BBL (PVS 72.43/BBL)"
+    },
+    {
+      "id": "mkt:019e1ced-7fcd-7cc6-9aba-2c91ec393970",
+      "time": "2026-05-13 00:03:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact mixed"
+      ],
+      "text": "EIA SEES 2026 BRENT PRICE AVERAGE OF 94.85/BBL, VS PRIOR FORECAST 96/BBL; 2027 FORECAST OF 79.39/BBL (PVS 76.09/BBL)"
+    },
     {
       "id": "mkt:019e1ced-0b45-7cc6-9aba-2315f8fddea7",
       "time": "2026-05-13 00:02:37",
@@ -130749,31 +130880,6 @@
         "Importance 1"
       ],
       "text": "The FTSE 100 Index Closes 1.37% Lower — The FTSE 100 Index decreased 142 points or 1.37 percent on Tuesday to close at 10222 points. The decline was led by HSBC Holdings (-6.21%), Entain (-5.81%) and Marks & Spencer (-4.80%)."
-    },
-    {
-      "id": "4861818",
-      "time": "2026-05-06 00:05:18",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "微軟、xAI、谷歌將向美國政府提前開放人工智慧模型查閱許可權。"
-    },
-    {
-      "id": "4861817",
-      "time": "2026-05-06 00:04:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國中央司令部：一架美國空軍 F-16 戰鬥機在霍爾木茲海峽附近執行巡邏任務。美軍在海峽及其周邊部署了大量軍力與火力，構築防禦屏障，以保護美軍人員及護衛商業航運安全。"
-    },
-    {
-      "id": "4861816",
-      "time": "2026-05-06 00:03:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "波音釋出737 MAX機型全新培訓模組。"
     }
   ]
 }
