@@ -1,7 +1,60 @@
 {
-  "updated": "2026-05-13 04:01:36",
-  "count": 14821,
+  "updated": "2026-05-13 04:04:58",
+  "count": 14825,
   "items": [
+    {
+      "id": "mkt:019e1dca-defa-7772-877d-f35478902f60",
+      "time": "2026-05-13 04:04:55",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Dow Inches Up as Tech Retreats on Hot CPI, Oil Surges】US stocks were mixed Tuesday as tech gains stalled and investors digested April’s inflation data. The Nasdaq fell 0.7%, S&P 500 dropped 0.16%, while the Dow rose 0.1%. Core CPI exceeded expectations at 3.8% annually, driven by higher energy costs amid the Strait of Hormuz blockade. Oil prices climbed, with WTI above $102/bbl and Brent above $107/bbl. President Trump heads to China to meet Xi, with trade and AI as the focus, while US-Iran tensions remain elevated."
+    },
+    {
+      "id": "4875825",
+      "time": "2026-05-13 04:03:43",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "高通股價收盤下跌11%，創下自2020年3月以來最大單日跌幅。"
+    },
+    {
+      "id": "4875824",
+      "time": "2026-05-13 04:03:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "美股晶片指數收跌3%，盤中一度下跌6.8%。"
+    },
+    {
+      "id": "mkt:019e1dc9-9757-7772-877d-e8e3e7c78875",
+      "time": "2026-05-13 04:03:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "WTI"
+      ],
+      "text": "US HOMELAND SECURITY SECRETARY MULLIN: HOPEFULLY WE CAN STOP CHINA FROM MOVING INTO TAIWAN"
+    },
+    {
+      "id": "mkt:019e1dc9-491e-7772-877d-e5de1ed06fdf",
+      "time": "2026-05-13 04:02:58",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "QCOM.O",
+        "Impact bearish",
+        "Nasdaq100"
+      ],
+      "text": "QUALCOMM SHARES CLOSE 11% LOWER IN WORST DAY SINCE MARCH 2020"
+    },
     {
       "id": "4875823",
       "time": "2026-05-13 04:01:05",
@@ -132182,14 +132235,6 @@
         "國際"
       ],
       "text": "【魯比奧確認對伊朗“史詩怒火”軍事行動已結束】美國國務卿魯比奧5日在一場記者會上稱，正如美總統特朗普通知國會所說，美國今年2月底對伊朗發動的“史詩怒火”軍事行動已經結束，“我們已完成這一階段任務”。（新華社）"
-    },
-    {
-      "id": "4862041",
-      "time": "2026-05-06 04:02:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：《戰爭權力法》“100%違憲”。"
     }
   ]
 }
