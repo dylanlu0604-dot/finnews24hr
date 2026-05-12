@@ -1,7 +1,51 @@
 {
-  "updated": "2026-05-12 13:52:48",
-  "count": 14129,
+  "updated": "2026-05-12 13:56:09",
+  "count": 14132,
   "items": [
+    {
+      "id": "4874231",
+      "time": "2026-05-12 13:55:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌1%，現報85.17美元/盎司。"
+    },
+    {
+      "id": "4874230",
+      "time": "2026-05-12 13:55:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【佳都科技等成立宇算星河科技公司，含AI業務】企查查APP顯示，近日，宇算星河（廣州）科技有限公司成立，註冊資本2000萬元，經營範圍包含：雲端計算裝置銷售；人工智慧應用軟體開發；人工智慧理論與演算法軟體開發；人工智慧基礎軟體開發等。企查查股權穿透顯示，該公司由佳都科技等共同持股。"
+    },
+    {
+      "id": "te:economy:549869",
+      "time": "2026-05-12 13:53:58",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Norway",
+        "Consumer Confidence",
+        "Importance 1"
+      ],
+      "text": "Norway Consumer Morale Worsens in Q2 — Norway’s consumer confidence indicator fell to -20.0 in Q2 2026, following an upwardly revised -12.4 in the previous quarter. This marked the seventeenth consecutive period of negative sentiment and the most pessimistic reading since Q1 2024, as consumers’ expectations for the country’s economic performance continued to weaken over the past twelve months (-47.0 vs -31.7 in Q1) and over the next twelve months (-35 vs -20.1). Moreover, households’ sentiment about their personal finances a year ahead turned negative (-4 vs 9.5), alongside an assessment of personal finances over the past year (-9 vs 0.5). The outlook also deteriorated further with regard to major purchases (-16 vs -11.2)."
+    },
+    {
+      "id": "4874228",
+      "time": "2026-05-12 13:53:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴克萊將路威酩軒評級從均配上調至增持，目標股價從570歐元上調至600歐元。"
+    },
+    {
+      "id": "4874227",
+      "time": "2026-05-12 13:53:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "巴克萊將開雲集團評級從減持上調至持平，目標股價從255歐元上調至300歐元。"
+    },
     {
       "id": "4874226",
       "time": "2026-05-12 13:52:40",
@@ -125196,25 +125240,6 @@
         "其他"
       ],
       "text": "【國際能源署：2025年甲烷排放仍居高位 減排可促進能源安全】國際能源署4日釋出的《2026年全球甲烷追蹤》報告顯示，2025年全球化石燃料相關的甲烷排放仍處於“極高”水平，且在全球範圍內尚無下降跡象。在當前能源危機背景下，治理甲烷排放可以帶來重大能源安全利益。報告說，為了應對全球變暖並改善空氣質量，近年來許多國家和企業提出甲烷減排目標。然而，2025年能源行業甲烷排放接近歷史最高水平，顯示了減排承諾與實施之間存在明顯差距。報告指出，減少甲烷排放還有助於提升能源安全。霍爾木茲海峽航運受阻後，全球液化天然氣供應減少約20%，能源安全已成為各國重要關切。(新華社)"
-    },
-    {
-      "id": "4860661",
-      "time": "2026-05-05 13:55:59",
-      "tags": [
-        "央行"
-      ],
-      "text": "澳洲聯儲主席布洛克：不希望失業率不必要地進一步攀升。"
-    },
-    {
-      "id": "4860660",
-      "time": "2026-05-05 13:54:16",
-      "tags": [
-        "公司",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【澳元走弱，因美伊衝突出現升溫跡象】因有跡象顯示美伊衝突升溫，澳元兌美元下跌。伊朗週一襲擊了數艘船隻和阿聯酋一個石油港口。西太平洋銀行的Richard Franulovich在一份評論中表示：“過去24小時內，局勢從對峙姿態轉向更公開的武力升級，已對風險資產造成衝擊。“這位外匯策略集團主管稱，這“可能解釋了為何在澳大利亞央行加息決定後，澳元僅錄得小幅上漲，難以走高“。Franulovich補充說：“如果該衝突繼續趨於升溫，澳元最終可能測試0.7100的下軌。“倫敦證券交易所集團的資料顯示，澳元下跌0.4%，至0.7141美元。"
     }
   ]
 }
