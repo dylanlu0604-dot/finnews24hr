@@ -1,7 +1,44 @@
 {
-  "updated": "2026-05-13 02:43:50",
-  "count": 14820,
+  "updated": "2026-05-13 02:47:13",
+  "count": 14822,
   "items": [
+    {
+      "id": "mkt:019e1d82-efe3-7772-877d-3c9b0403928d",
+      "time": "2026-05-13 02:46:20",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "BRENT CRUDE FUTURES SETTLE AT $107.77/BBL, UP $3.56, 3.42 PCT"
+    },
+    {
+      "id": "mkt:019e1d82-d70e-7772-877d-37a383b8a509",
+      "time": "2026-05-13 02:46:14",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "ALI SAFRI, ADVISOR TO THE IRANIAN FOREIGN MINISTRY SPOKESPERSON, TO AL JAZEERA MUBASHER: WE ARE FOCUSING IN THE CURRENT PHASE ON ENDING THE WAR"
+    },
+    {
+      "id": "mkt:019e1d82-4af8-7772-877d-2ae34e4d6a28",
+      "time": "2026-05-13 02:45:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Nasdaq100",
+        "Impact bearish"
+      ],
+      "text": "NASDAQ 100 INDEX PARES DROP TO ABOUT 1.5%; HAD BEEN DOWN 2.4%"
+    },
     {
       "id": "4875771",
       "time": "2026-05-13 02:42:36",
@@ -132091,14 +132128,6 @@
         "國際"
       ],
       "text": "【美國達拉斯附近購物中心發生槍擊 兩死三傷】美國得克薩斯州警方5日說，達拉斯市以北一家購物中心發生槍擊，造成兩人死亡、三人受傷。"
-    },
-    {
-      "id": "4861958",
-      "time": "2026-05-06 02:46:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴西總統盧拉要求立即釋放加沙船隊活動人士。"
     }
   ]
 }
