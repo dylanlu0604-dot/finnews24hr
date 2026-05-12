@@ -1,7 +1,108 @@
 {
-  "updated": "2026-05-12 20:36:13",
-  "count": 14618,
+  "updated": "2026-05-12 20:40:31",
+  "count": 14617,
   "items": [
+    {
+      "id": "4875243",
+      "time": "2026-05-12 20:39:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "石油世界機構預計，2026年全球生物柴油產量將達6710萬噸，高於2025年的6130萬噸。"
+    },
+    {
+      "id": "mkt:019e1c32-9d1d-7dd3-a754-6bc7aa01bf64",
+      "time": "2026-05-12 20:38:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NORWAY’S DEPUTY FOREIGN MINISTER MEETS WITH IRAN’S ARAGHCHI, PER THE IRANIAN FOREIGN MINISTRY"
+    },
+    {
+      "id": "4875242",
+      "time": "2026-05-12 20:38:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【萬科A：深鐵集團向公司提供25億元股東借款額度並由公司提供擔保】5月12日，萬科A公告，公司於2026年5月12日與第一大股東深圳市地鐵集團有限公司（下稱“深鐵集團”或“出借人”）簽署《關於股東借款及資產擔保的框架協議》。根據《框架協議》，深鐵集團在2026年1月1日至2026年12月31日期間向公司提供不超過25億元借款額度，借款額度包括《框架協議》生效之前已實際發生但公司未提供抵/質押擔保措施的信用借款及已提供擔保但後續確認無法實施或部分無法實施的借款，及《框架協議》生效之後發生的借款，公司將對《框架協議》下實際發生的借款提供抵押擔保、質押擔保、保證擔保等擔保方式。"
+    },
+    {
+      "id": "mkt:019e1c32-24bc-7dd3-a754-644b8d68a1a1",
+      "time": "2026-05-12 20:38:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "INDIA TO RELEASE PROVISIONAL ESTIMATE OF 4Q, ANNUAL GDP JUNE 7"
+    },
+    {
+      "id": "4875240",
+      "time": "2026-05-12 20:38:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "DBGI透過海灣阿拉伯國家合作委員會（GCC）達成服裝授權合作協議，為現有美國專案供貨，總價值最高達1.25億美元。"
+    },
+    {
+      "id": "4875239",
+      "time": "2026-05-12 20:38:06",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國短期利率期貨在通脹資料公佈後略微收窄早前的跌幅。"
+    },
+    {
+      "id": "te:economy:550012",
+      "time": "2026-05-12 20:36:56",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Mexico",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "Mexico Industrial Output Falls in March — Mexico’s industrial production declined 1.3% year-over-year in March 2026, matching the drop recorded in February and coming in slightly better than forecasts of a 1.5% contraction. The construction sector remained the main drag, shrinking 6.2% amid declines in building construction (-8.1%) and specialized construction activities (-2.4%). Manufacturing output also fell 1.0%, weighed down by a 10.4% drop in the production of electrical accessories, appliances, and power generation equipment. In contrast, mining output expanded 6.0%, supported by a 45.7% surge in mining-related services. The utilities sector also posted modest growth of 0.2%. On a seasonally adjusted monthly basis, industrial production fell 0.6% in March, reversing a 0.4% increase in February."
+    },
+    {
+      "id": "4875237",
+      "time": "2026-05-12 20:36:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "京東高管：短期內，電子產品漲價在一定程度上抑制了消費者需求。"
+    },
+    {
+      "id": "mkt:019e1c30-a38e-7dd3-a754-5c6f5ce46b16",
+      "time": "2026-05-12 20:36:50",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "JD.com",
+        "JD.O",
+        "Impact bearish"
+      ],
+      "text": "JD.COM EXEC - IN THE SHORT TERM, ELECTRONICS PRICE HIKES DAMPEN CONSUMER DEMAND TO SOME EXTENT"
+    },
+    {
+      "id": "te:economy:550010",
+      "time": "2026-05-12 20:36:30",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Core Inflation Rate MoM",
+        "Importance 1"
+      ],
+      "text": "US Core CPI Rises More Than Expected — Core consumer prices in the United States, which exclude food and energy, rose by 0.4% from the previous month in April of 2026, the most in over one year, overshooting market expectations of a 0.3% increase. The jump reflected the spread of higher energy prices from the war in the Middle East to core areas of the consumer basket. Prices rose sharply for shelter (0.6% vs 0.3% in March), transportation services (0.3% vs 0.6%), and apparel (0.6% vs 1%)."
+    },
+    {
+      "id": "4875236",
+      "time": "2026-05-12 20:36:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "京東高管：本輪電子產品漲價幅度大且涉及範圍廣。"
+    },
     {
       "id": "4875235",
       "time": "2026-05-12 20:36:01",
@@ -129633,121 +129734,6 @@
         "Importance 1"
       ],
       "text": "Canada Exports Jump to Over One-Year High — Canada’s exports rose 8.5% month-on-month to C$72.8 billion in March 2026, the highest level since January 2025. Amid uncertainty over the economic fallout from the Iran conflict, some sectors saw sharp gains. Exports of metal and non-metallic mineral products and energy led the increase. Non-metallic mineral product exports surged 24.0% to a record C$15.3 billion, driven largely by unwrought gold, silver, and platinum group metals. Energy exports rose 15.6% to C$17.1 billion, the highest since September 2022, supported by an 18.9% jump in crude oil exports due to higher prices. Excluding these categories, export growth was more modest, rising 1.1% in March."
-    },
-    {
-      "id": "te:economy:547888",
-      "time": "2026-05-05 20:40:11",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Exports",
-        "Importance 1"
-      ],
-      "text": "US Exports Hit New Record in March — US exports rose 2.0%, or $6.2 billion, to a record $320.9 billion in March 2026, fueled by a $6.5 billion surge in goods exports. Industrial supplies and materials led the gain, up $5.0 billion, driven by higher energy prices tied to the Iran conflict. Key contributors included crude oil (+$2.8 billion), other petroleum products (+$1.7 billion), and fuel oil (+$1.6 billion), while exports of other precious metals fell $1.6 billion. Food, feed, and beverage exports increased $1.1 billion, boosted by soybeans, while consumer goods exports declined $1.7 billion. Services exports dipped $0.3 billion, with travel down $1.1 billion, partially offset by gains in transport (+$0.2 billion), financial services (+$0.1 billion), and other business services (+$0.1 billion)."
-    },
-    {
-      "id": "4861390",
-      "time": "2026-05-05 20:39:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國防部長表態：我們感謝以色列，但掌舵決策權始終唯一 —— 掌控在特朗普手中。"
-    },
-    {
-      "id": "4861388",
-      "time": "2026-05-05 20:38:36",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "杜邦表示，第一季度因相關產品無法從中東出運，公司營收蒙受約1000萬美元損失。"
-    },
-    {
-      "id": "te:economy:547886",
-      "time": "2026-05-05 20:38:22",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Canada",
-        "Balance of Trade",
-        "Importance 2"
-      ],
-      "text": "Canada Posts Surprise Trade Surplus — Canada posted a trade surplus of C$1.8 billion in March 2026 compared to the downwardly revised C$5.1 billion in February and better than the expected C$2.9 billion shortfall. This marked the first trade surplus since September 2025. Exports rose 8.5% over a month to C$72.8 billion in March, the highest level since January 2025, boosted by shipments of metal and non-metallic mineral products (24%) and energy products (15.6%). Conversely, imports fell 1.6% to C$71 billion, following February's record high, with declines were observed in 8 of the 11 product sections."
-    },
-    {
-      "id": "4861387",
-      "time": "2026-05-05 20:38:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "SHOPIFY高管：第一季度使用Sidekick人工智慧助手的周活躍店鋪數量同比增長三倍。"
-    },
-    {
-      "id": "4861386",
-      "time": "2026-05-05 20:38:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基：烏梅羅夫就烏克蘭近期與中東及海灣地區達成的安全與經濟協議落實情況作了詳細彙報，相關合作正按計劃穩步推進。 另外，我方正與歐盟推進無人機戰略合作協議相關事宜。"
-    },
-    {
-      "id": "4861385",
-      "time": "2026-05-05 20:37:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國防部長赫格塞思：這片國際水域屬於世界各國所有，不歸伊朗用來徵稅、收取通行費或加以管控。"
-    },
-    {
-      "id": "te:economy:547885",
-      "time": "2026-05-05 20:37:20",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Balance of Trade",
-        "Importance 3"
-      ],
-      "text": "US Trade Deficit Widens in March — The United States trade deficit widened to $60.3 billion in March of 2026 from the revised $57.8 billion gap in the previous month, loosely aligned with market expectations of $60.9 billion to mark the widest deficit so far this year. Imports rose by $8.7 billion, or 2.3% from the previous month to $381 billion in the period. In the meantime, exports jumped by $6.2 billion, or 2.0%, to $320.9 billion, aided by the boost in turnover from higher energy costs of oil, product, and natural gas since the start of the war in March."
-    },
-    {
-      "id": "te:economy:547884",
-      "time": "2026-05-05 20:36:58",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Imports",
-        "Importance 1"
-      ],
-      "text": "US Imports Rise to 1-Year High — US imports climbed by $8.7B to $381.2B in March, the highest in a year, driven largely by a surge in goods. Goods imports rose $10.6B to $302.2B, with Census-based figures showing a $10.2B increase. Automotive vehicles, parts, and engines led gains (+$3.6B), including a $2.8B jump in passenger cars. Consumer goods (+$2.4B) and capital goods (+$2.1B) also contributed, with computer accessories up $2.0B despite a $2.3B drop in computers. Industrial supplies and materials increased $2.1B, while net balance of payments adjustments added $0.4B. Meanwhile, services imports fell $1.9B to $79.0B, reflecting declines in intellectual property charges (-$1.0B), transport (-$0.4B), and travel (-$0.4B)."
-    },
-    {
-      "id": "4861383",
-      "time": "2026-05-05 20:36:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "維多利亞的秘密公司：董事會已開展全面審查；認定佈雷特·布蘭迪的候選人身份存在聲譽、法律及治理風險。"
-    },
-    {
-      "id": "4861382",
-      "time": "2026-05-05 20:36:34",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "高盛任命埃裡卡・萊斯利為公司首席行政官。"
-    },
-    {
-      "id": "4861381",
-      "time": "2026-05-05 20:36:18",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【黃金出口激增和能源價格飆升 加拿大6個月來首次出現商品貿易順差】加拿大在3月份實現了六個月來的首次商品貿易順差，原因是黃金出貨量激增以及能源價格飆升推動了出口增長。加拿大統計局週二表示，3月出現17.8億加元（約合13.1億美元）的商品貿易順差。加拿大統計局稱，3月份出口增長8.5%，達到727.7億加元，為歷史第二高水平，而進口則下降1.6%，至709.9億加元。加拿大對美國的出口增長了8.3%，而從美國的進口則下降了1.2%，這使得加拿大對鄰國的長期貿易順差從2月份的28.6億加元擴大至3月份的70.7億加元。"
     }
   ]
 }
