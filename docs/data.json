@@ -1,7 +1,89 @@
 {
-  "updated": "2026-05-12 09:55:06",
-  "count": 14038,
+  "updated": "2026-05-12 09:58:28",
+  "count": 14039,
   "items": [
+    {
+      "id": "4873829",
+      "time": "2026-05-12 09:58:18",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "豬肉板塊持續走弱，華統股份逼近跌停，金新農、立華股份、新五豐、羅牛山跟跌。"
+    },
+    {
+      "id": "4873824",
+      "time": "2026-05-12 09:58:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "SK海力士股價下跌1.7%，報184.8萬韓元。"
+    },
+    {
+      "id": "mkt:019e19e7-58b1-7dd9-b928-29da4bc9c7be",
+      "time": "2026-05-12 09:57:32",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Trump’s schedule in China, according to the White House】Wednesday Trump arrives in Beijing Thursday at 10:00am local time Trump participates in a greeting with Xi Jinping 10:15am Trump has a bilateral meeting with Xi 6:00pm Trump attends State Banquet Friday 11:30am Trump-Xi “Friendship Photo” 11:40am Trump- Xi “Bilateral Tea” 12:15pm Bilateral Lunch"
+    },
+    {
+      "id": "4873819",
+      "time": "2026-05-12 09:56:54",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【港股人工智慧概念股走強 諾比侃漲近20%】截至發稿，諾比侃(02635.HK)漲19.72%，海致科技集團(02706.HK)漲8.72%，快手-W(01024.HK)漲6.01%。"
+    },
+    {
+      "id": "te:markets:549803",
+      "time": "2026-05-12 09:56:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 2"
+      ],
+      "text": "Dollar Rises on Ceasefire Uncertainty — The dollar index moved back above 98 on Tuesday as President Trump cast doubt on the sustainability of US-Iran ceasefire after he rejected Tehran’s latest peace offer, boosting safe-haven demand for the greenback. Reports also suggested that Trump is expected to meet with his national security team to consider a potential resumption of military operations, while revisiting plans to escort commercial vessels through the Strait of Hormuz. The ongoing conflict has kept oil prices elevated, reinforcing inflation risks and strengthening expectations that interest rates may need to remain higher for longer to contain price pressures. Meanwhile, investors were awaiting April’s consumer inflation report for clearer signals on how the Iran war is affecting the economy and shaping the Federal Reserve’s policy outlook. Trump is also set to meet with Chinese President Xi Jinping later this week, with trade relations and artificial intelligence expected to dominate the agenda."
+    },
+    {
+      "id": "4873814",
+      "time": "2026-05-12 09:55:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【“運河+自貿港”！平陸運河力爭東博會期間通航 構建“洋浦港—北部灣港—平陸運河”通道】平陸運河是西部陸海新通道的骨幹工程，是新中國成立以來建設的第一條通江達海的運河工程。記者獲悉，廣西將高標準高質量高效率建設平陸運河，全力確保在今年中國—東盟博覽會期間實現運河通航試執行目標，力爭運河首航開通“南寧港—洋浦港”江海直達航線，織密北部灣港至海南港口的集裝箱航線，並於年內開通北海—三亞郵輪航線，持續對接國投交通控股有限公司等有意願的單位參與構建“洋浦港—北部灣港—平陸運河”物流通道，謀劃推進一批桂瓊合作專案前期工作。其中，著力構建 “洋浦港—北部灣港—平陸運河”通道，“運河+自貿港”雙重賦能將為區域經貿合作開闢全新空間，通道的暢通疊加海南自貿港政策紅利，帶動廣西、海南兩地產業合作全面深化。國家通道戰略框架內，北部灣港定位為西部陸海新通道的國際門戶海港和國際樞紐海港，與洋浦港的區域國際集裝箱樞紐港和國際樞紐海港形成“定位互補、合作深化、良性互動”格局。平陸運河建成後，北部灣港、洋浦港透過短途海運串聯，實現“內陸集疏—北部灣集散—洋浦中轉”的高效分工。北部灣港背靠大西南、面向東南亞，是我國對東盟進出口最便捷的出海港口，西南產品依託該通道實現國際運輸，共同構築面向東盟開放合作的陸海聯動前沿陣地。（證券時報）"
+    },
+    {
+      "id": "4873810",
+      "time": "2026-05-12 09:55:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超1萬億元，較上日此時縮量1557億元。"
+    },
+    {
+      "id": "4873809",
+      "time": "2026-05-12 09:55:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中際旭創持續拉昇漲超6%，股價突破1000元，總市值達到1.11萬億元。"
+    },
+    {
+      "id": "4873807",
+      "time": "2026-05-12 09:55:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "液化石油氣連續主力合約日內漲5%，現報6017.00元。"
+    },
     {
       "id": "4873806",
       "time": "2026-05-12 09:54:43",
@@ -124337,87 +124419,6 @@
         "國際"
       ],
       "text": "韓國產業部長將會見盧特尼克，討論美國投資相關議題。"
-    },
-    {
-      "id": "4860483",
-      "time": "2026-05-05 09:58:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "【大華銀行：印尼貿易順差或將收窄】大華銀行經濟學家Enrico Tanuwidjaja和Vincentius Ming Shen在一份報告中表示，在中東緊張局勢持續以及美國關稅不確定性的情況下，印尼的貿易順差可能會收窄且波動性會加大。他們表示，印尼盾走弱和進口需求疲軟可能會對貿易平衡構成壓力，而全球經濟增長放緩可能會抑制出口勢頭。不過，他們認為，政府推動的下游加工產業（尤其是在礦產和稀土領域）應會為出口提供支援。計劃中的巴釐巴板煉油廠升級應有助於減少對石油進口的依賴，並隨著時間的推移改善油氣貿易平衡。他們補充說，新的貿易協議和更強勁的投資活動也可能支援出口增長，不過資本品進口的增加可能會限制增幅。"
-    },
-    {
-      "id": "te:547641",
-      "time": "2026-05-05 09:57:55",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Kiwi Dollar Weakens on Renewed Middle East Tensions — The New Zealand dollar extended its decline, slipping to $0.586, as tensions in the Middle East flared again, dampening risk appetite. The US and Iran exchanged fire in the Persian Gulf on Monday, with the UAE also drawn into the situation, raising fresh doubts over the stability of a four-week ceasefire. The escalation followed President Donald Trump’s announcement of a plan to restore transit through the Strait of Hormuz and assist stranded vessels in exiting the region. Meanwhile, investors are now turning their attention to New Zealand’s first-quarter jobs report due on Wednesday for fresh clues on the economy’s health amid the energy shock from the Middle East conflict. RBNZ board member Prasanna Gai said that the model of the Strait of Hormuz disruption does not suggest a reflexive tightening bias, although it has raised the neutral rate."
-    },
-    {
-      "id": "te:markets:547641",
-      "time": "2026-05-05 09:57:55",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Kiwi Dollar Weakens on Renewed Middle East Tensions — The New Zealand dollar extended its decline, slipping to $0.586, as tensions in the Middle East flared again, dampening risk appetite. The US and Iran exchanged fire in the Persian Gulf on Monday, with the UAE also drawn into the situation, raising fresh doubts over the stability of a four-week ceasefire. The escalation followed President Donald Trump’s announcement of a plan to restore transit through the Strait of Hormuz and assist stranded vessels in exiting the region. Meanwhile, investors are now turning their attention to New Zealand’s first-quarter jobs report due on Wednesday for fresh clues on the economy’s health amid the energy shock from the Middle East conflict. RBNZ board member Prasanna Gai said that the model of the Strait of Hormuz disruption does not suggest a reflexive tightening bias, although it has raised the neutral rate."
-    },
-    {
-      "id": "4860482",
-      "time": "2026-05-05 09:57:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國外交部：將在起火船舶拖至港口後調查霍爾木茲海峽船隻起火事故原因。"
-    },
-    {
-      "id": "4860481",
-      "time": "2026-05-05 09:56:21",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【國藥太極在研生物藥司美格魯肽亮相廣交會開啟全球招商】據太極集團訊息，近日，第139屆中國進出口商品交易會（廣交會）如期舉行，國藥太極攜核心在研生物藥——司美格魯肽亮相，並正式開啟全球招商。目前，國藥太極已按照中國與美國GMP要求，建成原料藥與製劑生產車間。值得一提的是，該產品原料已完成美國DMF備案，具備成熟的全球供應能力。"
-    },
-    {
-      "id": "te:547640",
-      "time": "2026-05-05 09:55:36",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Yen Slips as Dollar Rises on Mideast Fears — The Japanese yen weakened past 157 per dollar on Tuesday, paring recent gains as the dollar rebounded on safe-haven demand amid renewed hostilities in the Middle East that threatened to unravel the four-week ceasefire between the US and Iran. Escalating tensions around the Strait of Hormuz, which pushed energy prices higher, also bolstered expectations that the US Federal Reserve may need to raise interest rates to contain inflation, lending additional support to the dollar. Meanwhile, traders remained cautious following suspected intervention by Japanese authorities last week, which triggered a sharp rally in the yen. Reports suggested Tokyo may have spent roughly $35 billion to support its currency, though officials have not confirmed any action. Market participants continue to weigh the risk of further intervention, with Tokyo often taking advantage of thin holiday liquidity and typically conducting multiple rounds of yen buying when stepping in."
-    },
-    {
-      "id": "te:markets:547640",
-      "time": "2026-05-05 09:55:36",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Yen Slips as Dollar Rises on Mideast Fears — The Japanese yen weakened past 157 per dollar on Tuesday, paring recent gains as the dollar rebounded on safe-haven demand amid renewed hostilities in the Middle East that threatened to unravel the four-week ceasefire between the US and Iran. Escalating tensions around the Strait of Hormuz, which pushed energy prices higher, also bolstered expectations that the US Federal Reserve may need to raise interest rates to contain inflation, lending additional support to the dollar. Meanwhile, traders remained cautious following suspected intervention by Japanese authorities last week, which triggered a sharp rally in the yen. Reports suggested Tokyo may have spent roughly $35 billion to support its currency, though officials have not confirmed any action. Market participants continue to weigh the risk of further intervention, with Tokyo often taking advantage of thin holiday liquidity and typically conducting multiple rounds of yen buying when stepping in."
-    },
-    {
-      "id": "4860480",
-      "time": "2026-05-05 09:55:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄外交部：日本須放棄“反俄路線”】俄羅斯外交部網站4日釋出通報說，俄外交部副部長魯堅科4日會見日本參議院議員鈴木宗男。俄方表示，為了恢復兩國間接觸，日本當局須放棄“不符合日本及日本民眾利益的敵對反俄路線”，並付諸實際行動。通報說，俄日關係已倒退數十年。俄方提請日方議員注意日本領導層推進國家軍事化以及擴大向烏克蘭提供軍事技術援助的相關舉動。（新華社）"
     }
   ]
 }
