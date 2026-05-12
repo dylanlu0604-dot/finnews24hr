@@ -1,7 +1,78 @@
 {
-  "updated": "2026-05-12 15:46:21",
-  "count": 14326,
+  "updated": "2026-05-12 15:49:49",
+  "count": 14329,
   "items": [
+    {
+      "id": "4874551",
+      "time": "2026-05-12 15:49:05",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行納格爾：基準情景包含兩次加息。"
+    },
+    {
+      "id": "4874550",
+      "time": "2026-05-12 15:48:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國一直在與丹麥開展高度保密的定期談判，計劃在格陵蘭島南部新建三座軍事基地。"
+    },
+    {
+      "id": "mkt:019e1b28-d1b0-7dd9-b92a-47ae4380ea3e",
+      "time": "2026-05-12 15:48:36",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB'S NAGEL: BASELINE INCLUDED TWO RATE HIKES"
+    },
+    {
+      "id": "4874549",
+      "time": "2026-05-12 15:47:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新聯電子：公司中標國家電網5454.07萬元專案】新聯電子公告，近日收到國家電網有限公司及國網物資有限公司發來的中標通知書，通知公司為“國家電網有限公司2026年營銷專案第一次計量裝置公開招標採購（招標編號：0711-26OTL03622006）”的中標單位，共中4個包，中標總金額為5454.07萬元。"
+    },
+    {
+      "id": "4874548",
+      "time": "2026-05-12 15:47:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟最高法院裁定：義大利電信監管機構有權要求Meta就新聞片段向出版商作出賠償。"
+    },
+    {
+      "id": "4874547",
+      "time": "2026-05-12 15:47:04",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印尼央行副行長：盧比受中東衝突升級、償債及股息匯回帶來的國內季節性美元需求增加承壓。"
+    },
+    {
+      "id": "4874546",
+      "time": "2026-05-12 15:46:53",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行納格爾：若通脹預期失控脫錨，我們的政策使命要求必須採取行動，6 月將做出研判。"
+    },
+    {
+      "id": "4874545",
+      "time": "2026-05-12 15:46:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟法院：成員國可規定，新聞出版物出版商授權線上服務提供商使用其出版物時，有權獲得公平報酬。"
+    },
     {
       "id": "mkt:019e1b26-70ea-7dd9-b92a-3995398c8399",
       "time": "2026-05-12 15:46:04",
@@ -158,6 +229,14 @@
         "國際"
       ],
       "text": "美國財長貝森特：未提出具體財政政策相關要求。"
+    },
+    {
+      "id": "4874531",
+      "time": "2026-05-12 15:41:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【西班牙衛生部門稱該國首位漢坦病毒感染者病情穩定】當地時間12日，西班牙衛生部門通報了該國首例確診感染漢坦病毒病例的最新救治情況。目前，該名感染者生命體徵平穩，正在接受密切醫學觀察。該名確診患者為此前從郵輪撤離的14名西班牙籍人員之一。在轉運至馬德里戈麥斯·烏利亞軍事醫院後，其病毒檢測結果呈陽性。院方通報稱，患者目前“表現穩定”，暫未出現嚴重的臨床惡化。（央視新聞）"
     },
     {
       "id": "4874530",
@@ -126928,65 +127007,6 @@
         "其他"
       ],
       "text": "【“五一”假期北京各公園接待遊客1058.39萬人次】記者從北京市園林綠化局獲悉，2026年整個“五一”小長假期間，北京全市公園共接待遊客1058.39萬人次，同比增加13.58%。假期5天納客量排名前三的公園分別為：頤和園78.80萬人次、天壇公園77.64萬人次、朝陽公園47.59萬人次。（央視新聞）"
-    },
-    {
-      "id": "4860822",
-      "time": "2026-05-05 15:49:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "摩爾多瓦能源部長：我們正從羅馬尼亞採購額外航空燃油供應。"
-    },
-    {
-      "id": "te:markets:547783",
-      "time": "2026-05-05 15:48:52",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "DAX Edges Higher — Frankfurt's DAX 40 edged up 0.3% on Tuesday, following a downbeat session the day before, as traders continued to assess developments in the Middle East while keeping a close watch on the earnings season. Among the individual stocks, Scout24 climbed 2.6% after JP Morgan is keeping its Buy rating. The target price remains set at EUR 83. Rheinmetall rose 1.4% following a 7.7% year-on-year increase in first-quarter earnings and the reaffirmation of its full-year revenue and margin guidance."
-    },
-    {
-      "id": "4860821",
-      "time": "2026-05-05 15:48:39",
-      "tags": [
-        "央行",
-        "資料",
-        "市場",
-        "國際"
-      ],
-      "text": "【野村經濟學家：菲律賓通脹跳升或將引起該國央行警覺】菲律賓4月份通脹飆升，促使野村的經濟學家預測，整體CPI將超過該國央行2026年的目標。重要的是，4月份核心通脹也大幅升溫，這證實了野村的觀點，即燃料成本上漲的傳導效應正在迅速擴大，並可能引起該國央行的警覺。野村的Euben Paracuelles和Nabila Amani現在認為2026年整體通脹率為6.1%，高於此前預測的4.9%，也遠高於菲律賓央行2%-4%的目標。他們將核心通脹率預測從3.8%上調至4.6%。因此，他們預計菲律賓央行今年將再加息75個基點至5.25%，從6月份開始。他們補充說：“不過，鑑於增長方面的不利因素和外部風險，我們認為菲律賓央行將保持審慎的做法。“他們預測會有一個短暫的緊縮週期，然後在2027年下半年降息75個基點。"
-    },
-    {
-      "id": "4860820",
-      "time": "2026-05-05 15:47:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "【東陽光：籌劃發行股份收購東數一號100%股權事項正有序推進】東陽光公告稱，公司正籌劃發行股份收購宜昌東數一號投資有限責任公司100%股權並募集配套資金，預計構成重大資產重組及關聯交易。公司股票於2月24日起停牌，3月9日起復牌。截至公告披露日，盡職調查、審計和評估等工作正有序推進，後續將再次召開董事會審議並披露正式方案。本次交易尚需董事會、股東會審議及監管機構批准，能否實施及實施時間不確定。"
-    },
-    {
-      "id": "4860819",
-      "time": "2026-05-05 15:47:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【東陽光：控股子公司簽署160億元至190億元算力服務採購框架合同】東陽光公告，控股子公司東莞東陽光雲智算科技有限公司與A公司簽署《算力服務採購框架合同》，合同預計總金額區間為人民幣160億元至190億元。"
-    },
-    {
-      "id": "te:markets:547781",
-      "time": "2026-05-05 15:46:48",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "FTSE 100 Falls Led by HSBC — The FTSE 100 fell around 1% on Tuesday, pressured by weakness in HSBC Holdings after disappointing earnings. Shares in the lender dropped more than 5% as first quarter profit missed expectations due to an unexpected fraud related charge in the UK, despite solid performance in its wealth division and Hong Kong business. HSBC said it remains well positioned to navigate global uncertainty, including risks tied to Middle East tensions, and raised its net interest income outlook. Elsewhere, Vodafone rose about 0.8% after announcing it will buy out CK Hutchison’s stake in VodafoneThree for £4.3 billion. Broader sentiment remained cautious as escalating conflict between the US and Iran heightened inflation concerns and added to global market volatility."
     }
   ]
 }
