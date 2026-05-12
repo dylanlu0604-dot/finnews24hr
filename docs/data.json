@@ -1,7 +1,56 @@
 {
-  "updated": "2026-05-13 02:37:04",
-  "count": 14815,
+  "updated": "2026-05-13 02:40:27",
+  "count": 14819,
   "items": [
+    {
+      "id": "4875770",
+      "time": "2026-05-13 02:39:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "《泰晤士報》訊息：英國能源大臣米利班德告知內閣大臣，若衛生大臣斯特里廷很快發起黨魁競選，他已準備好參選工黨領袖。"
+    },
+    {
+      "id": "mkt:019e1d7c-8f6c-7772-877d-210039e140da",
+      "time": "2026-05-13 02:39:22",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "UK ENERGY MINISTER MILIBAND TOLD CABINET MINISTERS HE IS PREPARED TO RUN FOR LABOUR LEADERSHIP IF HEALTH MINISTER STREETING TRIGGERS IMMINENT CONTEST - THE TIMES"
+    },
+    {
+      "id": "mkt:019e1d7c-6a29-7772-877d-1ea1276af2bc",
+      "time": "2026-05-13 02:39:13",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "KEIR STARMER APPEARS TO HAVE FENDED OFF AN IMMEDIATE LEADERSHIP THREAT, WITH WES STREETING ALLIES LEAVING THE GOVERNMENT AND NO CHALLENGE FROM THE HEALTH SECRETARY, PER GUARDIAN REPORTER"
+    },
+    {
+      "id": "mkt:019e1d7b-2f29-7772-877d-1372fcdf72c5",
+      "time": "2026-05-13 02:37:34",
+      "tags": [
+        "MKT News",
+        "005930.KS",
+        "Impact bearish"
+      ],
+      "text": "SOUTH KOREA'S LABOUR COMMISSION: THERE IS \"WIDE GAP\" IN POSITIONS OF SAMSUNG, UNION"
+    },
+    {
+      "id": "4875769",
+      "time": "2026-05-13 02:37:32",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "韓國勞動委員會：三星工會與三星管理層之間存在“巨大分歧”。"
+    },
     {
       "id": "4875768",
       "time": "2026-05-13 02:35:51",
@@ -132042,14 +132091,6 @@
         "國際"
       ],
       "text": "巴西總統盧拉要求立即釋放加沙船隊活動人士。"
-    },
-    {
-      "id": "4861957",
-      "time": "2026-05-06 02:39:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗軍方否認近期襲擊阿聯酋】伊朗武裝部隊哈塔姆安比亞中央總部當地時間5月5日發表宣告稱，“近期未針對阿聯酋發動任何襲擊”。宣告警告稱，如果阿聯酋對伊朗管轄的島嶼、港口和海岸線採取任何行動，伊朗方面將作出“壓倒性回應”。 (央視新聞)"
     }
   ]
 }
