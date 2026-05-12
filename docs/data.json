@@ -1,7 +1,53 @@
 {
-  "updated": "2026-05-13 00:24:19",
-  "count": 14730,
+  "updated": "2026-05-13 00:27:43",
+  "count": 14731,
   "items": [
+    {
+      "id": "te:markets:550066",
+      "time": "2026-05-13 00:26:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Wheat Futures Jump 5% after WASDE Report — Wheat futures jumped more than 5% to $6.57 per bushel, the highest since June 2024, after US government forecasts pointed to a tighter supply outlook for the coming season. The USDA projected all wheat production at 1,561 million bushels, down 424 million from last year due to lower acreage and weaker yields. The first survey based estimate for 2026 to 2027 winter wheat output also showed a sharp drop of 25%, driven mainly by reduced Hard Red Winter production. Crop conditions also deteriorated unexpectedly, with the USDA rating 28% of winter wheat as good to excellent, down from 31% the previous week and below analyst expectations. This is the weakest reading for this time of year since 2022, reinforcing concerns that recent rainfall has not been enough to offset drought stress in US Plains regions. Additional support came from energy markets, where oil prices rose after comments from US President Donald Trump that the Iran ceasefire remains fragile."
+    },
+    {
+      "id": "mkt:019e1d01-9017-7772-8779-c74eda7e0380",
+      "time": "2026-05-13 00:24:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "MAJORITY OF U.S. SENATE VOTES TO CONFIRM KEVIN WARSH TO BE FEDERAL RESERVE GOVERNOR; VOTING CONTINUES"
+    },
+    {
+      "id": "mkt:019e1d00-f3b8-7772-8779-bbfdecfc9b19",
+      "time": "2026-05-13 00:24:04",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact mixed",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Iran Sets Five Conditions for Nuclear Talks With US: Al Jazeera Reporter on X】A well-informed source on the progress of negotiations between Iran and the United States confirmed that the top-level directives issued to the Iranian negotiating team included five conditions that must be met before entering into talks on the nuclear file: 1.Ending the war on all fronts 2.Lifting all sanctions 3.Releasing frozen assets 4.Compensating for war damages and losses 5.Recognition of Iran’s sovereign right over the Strait of Hormuz"
+    },
+    {
+      "id": "4875672",
+      "time": "2026-05-13 00:23:46",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國參議院已獲得足夠票數，確認沃什擔任美聯儲理事會成員，任期十四年，自2026年2月1日起算。投票仍在進行中。"
+    },
     {
       "id": "4875671",
       "time": "2026-05-13 00:22:53",
@@ -130989,31 +131035,6 @@
         "其他"
       ],
       "text": "【科技考古復原唐河東節度使李克用容貌】5月5日，復旦大學科技考古團隊披露了唐河東節度使李克用肖像復原示意圖。據介紹，李克用容貌復原並非“憑空想象”，復旦大學文物與博物館學系科技考古團隊根據李克用顱骨和基因資料製作了這一肖像復原示意圖。 古基因組研究顯示，一代梟雄、沙陀首領李克用長著黑色或深棕色頭髮，膚色偏淺，相貌勇武雄偉。"
-    },
-    {
-      "id": "4861843",
-      "time": "2026-05-06 00:25:18",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "委內瑞拉央行預計2026年每月外匯注入規模達10億美元。"
-    },
-    {
-      "id": "4861842",
-      "time": "2026-05-06 00:25:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭：俄羅斯空襲扎波羅熱市，至少12人死亡。"
-    },
-    {
-      "id": "4861841",
-      "time": "2026-05-06 00:24:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗石油部長：戰爭期間石油出口狀況良好，整體表現令人滿意。"
     }
   ]
 }
