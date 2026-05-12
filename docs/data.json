@@ -1,7 +1,63 @@
 {
-  "updated": "2026-05-13 03:17:32",
-  "count": 14817,
+  "updated": "2026-05-13 03:20:58",
+  "count": 14818,
   "items": [
+    {
+      "id": "mkt:019e1da1-c2f6-7772-877d-79f25bf51b61",
+      "time": "2026-05-13 03:20:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRAN'S FOREIGN MINISTRY SAYS ITS EMBASSY IN KUWAIT NEEDS TO BE GRANTED ACCESS TO THE DETAINED IRANIAN NATIONALS IRAN'S FOREIGN MINISTRY SAYS THE FOUR IRANIANS, ARRESTED BY KUWAIT, WERE ENGAGED IN A ROUTINE NAVAL PATROL MISSION AND ENTERED KUWAIT'S TERRITORIAL WATERS DUE TO 'DISRUPTION IN THEIR NAVIGATION'"
+    },
+    {
+      "id": "4875795",
+      "time": "2026-05-13 03:19:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國阿拉巴馬州州長定於8月11日舉行眾議院特別選舉。"
+    },
+    {
+      "id": "4875794",
+      "time": "2026-05-13 03:19:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部表示，需要允許伊朗駐科威特大使館探視被扣押的伊朗公民。"
+    },
+    {
+      "id": "4875793",
+      "time": "2026-05-13 03:19:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊拉克和巴基斯坦據稱已分別同伊朗簽訂協議以運輸能源】伊拉克和巴基斯坦已分別同伊朗簽訂協議，以從海灣地區運輸石油和液化天然氣。根據協議，伊拉克確保了兩艘超大型原油運輸船的安全通行，這兩艘船於5月10日透過了霍爾木茲海峽，每艘船載有約200萬桶原油。而根據巴基斯坦和伊朗之間達成的另一項雙邊協議，兩艘裝載卡達液化天然氣的油輪正駛往巴基斯坦。訊息人士稱，伊拉克和巴基斯坦均未就過境事宜直接向伊朗或其伊朗伊斯蘭革命衛隊支付任何款項。（央視新聞）"
+    },
+    {
+      "id": "4875792",
+      "time": "2026-05-13 03:18:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部表示，被科威特逮捕的四名伊朗人當時正在執行常規海上巡邏任務，因“導航故障”誤入科威特領海。"
+    },
+    {
+      "id": "4875791",
+      "time": "2026-05-13 03:17:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普稱考慮伊朗協議時未考慮美國民眾的財務狀況】週二當有記者問及，特朗普與伊朗達成結束戰爭的協議，在多大程度上是出於對美國人經濟狀況的考慮時，總統特朗普回答道：“一點也沒有。”“我不考慮美國人的經濟狀況，”特朗普表示，“我不考慮任何人。我只考慮一件事-我們不能讓伊朗擁有核武器。僅此而已。”"
+    },
+    {
+      "id": "mkt:0472a974-e60b-4dc5-a686-6666ac70e831",
+      "time": "2026-05-13 03:17:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRAN'S FOREIGN MINISTRY REJECTS KUWAIT'S STATEMENTS THAT TEHRAN WAS PLANNING 'HOSTILE ACTIONS' AGAINST THE GULF COUNTRY - STATEMENT"
+    },
     {
       "id": "4875790",
       "time": "2026-05-13 03:17:04",
@@ -83,6 +139,22 @@
         "國際"
       ],
       "text": "【伊拉克和巴基斯坦分別與伊朗達成協議，透過霍爾木茲海峽運輸石油和液化天然氣】知情人士稱，伊拉克和巴基斯坦分別與伊朗達成協議，透過霍爾木茲海峽運輸石油和液化天然氣。伊拉克確保了兩艘超大型原油運輸船（每艘載有約200萬桶原油）於週日安全透過霍爾木茲海峽。一位伊拉克石油部官員稱，伊拉克正在尋求伊朗批准更多過境運輸，以保護佔其預算95%的石油收入。業內人士稱，根據伊斯蘭堡和德黑蘭之間達成的另一項雙邊協議，兩艘裝載卡達液化天然氣的油輪也正駛往巴基斯坦。伊拉克和巴基斯坦均未就過境運輸向伊朗或伊朗革命衛隊支付任何費用，卡達也未直接參與這些雙邊協議。"
+    },
+    {
+      "id": "mkt:014e7262-677d-45ee-9a0c-dd717d21e742",
+      "time": "2026-05-13 03:04:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BRAZIL GOVERNMENT: AT THE MOMENT BRAZILIAN EXPORTS OF ANIMAL PRODUCTS ARE PROCEEDING NORMALLY BRAZIL GOVERNMENT WILL PROMPTLY TAKE ALL NECESSARY MEASURES TO REVERSE THIS DECISION BRAZIL HAS SCHEDULED A MEETING WITH EU AUTHORITIES ON WEDNESDAY TO SEEK EXPLANATIONS ABOUT THE DECISION"
+    },
+    {
+      "id": "mkt:ba8c0ea4-4320-44c5-9ed5-2b4927a2d0d0",
+      "time": "2026-05-13 03:03:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BRAZIL RECEIVED WITH SURPRISE THE NEWS OF ITS REMOVAL FROM THE LIST OF COUNTRIES AUTHORIZED TO EXPORT ANIMAL PRODUCTS TO THE EU, STARTING SEPTEMBER 3 - STATEMENT"
     },
     {
       "id": "4875780",
@@ -132042,70 +132114,6 @@
         "其他"
       ],
       "text": "市場訊息：Meta計劃面向消費者推出高階智慧自主體AI 助手。"
-    },
-    {
-      "id": "4861999",
-      "time": "2026-05-06 03:20:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國交通部稱，特朗普政府已與墨西哥達成共識，以解決美國對2015年美墨航空運輸協定的擔憂。"
-    },
-    {
-      "id": "4861998",
-      "time": "2026-05-06 03:20:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：伊朗必須坐到談判桌前，接受相關條款。"
-    },
-    {
-      "id": "4861997",
-      "time": "2026-05-06 03:20:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：如果在霍爾木茲海峽遭到攻擊，美國將以致命手段回應。"
-    },
-    {
-      "id": "4861996",
-      "time": "2026-05-06 03:19:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：美國對伊朗的制裁執行力度加大。"
-    },
-    {
-      "id": "4861995",
-      "time": "2026-05-06 03:19:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "特斯拉在歐洲推廣其“監督版完全自動駕駛”（FSD）軟體的程序獲得關鍵進展。比利時弗拉芒大區週二表示，正在研究能否在荷蘭批准後快速跟進引入該技術。"
-    },
-    {
-      "id": "4861994",
-      "time": "2026-05-06 03:19:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧： 伊朗90%的整體貿易已陷入停滯。"
-    },
-    {
-      "id": "4861993",
-      "time": "2026-05-06 03:18:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧： 美國將持續疏通霍爾木茲海峽航道，以恢復航行自由。"
-    },
-    {
-      "id": "4861992",
-      "time": "2026-05-06 03:17:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：“自由計劃”是一項防禦性行動，而非進攻性行動。美國正在部署軍事資產，以擴大對霍爾木茲海峽商業航運的防禦保護傘。美國軍隊在霍爾木茲海峽摧毀了7艘伊朗快艇。"
     }
   ]
 }
