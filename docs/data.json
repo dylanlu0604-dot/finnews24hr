@@ -1,7 +1,80 @@
 {
-  "updated": "2026-05-12 11:28:05",
-  "count": 14088,
+  "updated": "2026-05-12 11:31:29",
+  "count": 14095,
   "items": [
+    {
+      "id": "4874080",
+      "time": "2026-05-12 11:30:54",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度盧比兌美元開盤跌至95.50的紀錄低點，較前收盤價下跌0.2%。"
+    },
+    {
+      "id": "4874079",
+      "time": "2026-05-12 11:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨早盤收盤】 30年期主力合約漲0.28%， 10年期主力合約漲0.05%， 5年期主力合約漲0.03%， 2年期主力合約漲0.01%。"
+    },
+    {
+      "id": "4874078",
+      "time": "2026-05-12 11:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨早盤收盤】白銀連續漲6.43%，液化石油氣連續漲5.64%，多晶矽連續跌4.37%，鉑連續漲2.90%，工業矽連續跌2.84%。"
+    },
+    {
+      "id": "4874077",
+      "time": "2026-05-12 11:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤收盤】 中證1000指數期貨連續跌0.89%， 滬深300指數期貨連續跌0.31%， 中證500指數期貨連續跌0.84%， 上證50指數期貨連續跌0.03%。"
+    },
+    {
+      "id": "mkt:019e1a3b-d162-7dd9-b928-71ce8e1d308a",
+      "time": "2026-05-12 11:29:48",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "005930.KS",
+        "Impact mixed",
+        "000660.KS"
+      ],
+      "text": "【 Korea Roils Markets by Floating ‘Citizen Dividend’ From AI Tax】A top South Korean policymaker suggested citizens should receive an “AI dividend” funded by taxes on AI-related profits, reflecting pressure to redistribute gains from the AI boom benefiting firms like Samsung Electronics and SK Hynix. Presidential policy chief Kim Yong-beom’s Facebook post triggered sharp swings in Korean equities, with the Kospi falling as much as 5.1% before paring losses after clarification that he referred to excess tax revenue rather than a new windfall tax. Investors in Samsung and SK Hynix also saw volatility but recovered some losses. The remarks highlight rising concern over AI-driven inequality and growing views of AI as national infrastructure."
+    },
+    {
+      "id": "4874076",
+      "time": "2026-05-12 11:29:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "【研究稱南極可能正從全球變暖“緩衝器”變為“放大器”】澳大利亞新南威爾士大學11日釋出公報說，該校科研人員參與的一個國際研究團隊發現，數十年來，南極海冰似乎對全球變暖具有一定的抵禦能力，幫助減緩氣候變化速度，但一系列海洋和大氣變化使南極海冰在2015年後突然急劇減少，這種系統性轉變可能會加速全球變暖。論文第一作者、英國南安普敦大學研究員、澳大利亞新南威爾士大學訪問研究員阿迪蒂亞·納拉亞南說，南極如今可能正從全球變暖“緩衝器”轉變為“放大器”。研究論文已發表在美國《科學進展》雜誌上。（新華社）"
+    },
+    {
+      "id": "4874075",
+      "time": "2026-05-12 11:28:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【馬斯克訴OpenAI案新進展：微軟CEO納德拉稱馬斯克從未向其質疑微軟投資】埃隆・馬斯克訴OpenAI案當地時間5月11日迎來兩位關鍵證人：微軟CEO薩蒂亞·納德拉和OpenAI聯合創始人伊利亞·蘇茨克韋爾出庭作證。納德拉在法庭上強調，馬斯克從未就微軟對OpenAI的投資是否違反任何特殊條款及相關承諾等向他提出過任何異議。2024年，馬斯克對OpenAI、公司CEO山姆·奧特曼以及公司總裁格雷格・布羅克曼提起訴訟，指控他們背棄初創時的非營利承諾，藉助公益機構外殼轉向商業化牟利，違背慈善信託責任。微軟也被列為該案被告。馬斯克指控微軟協助並縱容OpenAI涉嫌違背公益信託宗旨的行為。自2019年起，微軟便是OpenAI的主要投資方，2023年，微軟更是大手一揮對OpenAI投資了高達100億美元。馬斯克認為，微軟這筆100億美元投資是關鍵轉折點，讓他認定OpenAI正在背離自身非營利使命。"
+    },
+    {
+      "id": "4874074",
+      "time": "2026-05-12 11:28:21",
+      "tags": [
+        "市場",
+        "觀點",
+        "國際",
+        "原創"
+      ],
+      "text": "【三菱日聯摩根士丹利證券：除非美國暗示聯合干預 否則美元有望繼續走強】三菱日聯摩根士丹利證券的貨幣策略師Shota Ryu指出，除非美國財政部長斯科特·貝森特在會晤日本首相高市早苗及財務大臣片山皋月時發出暗示聯合干預的言論，否則美元將繼續測試更高水準。儘管日本5月初長假期間可能出現干預，但美元迅速反彈，顯示美元的上行壓力及日元的下行壓力皆較強勁。市場普遍認為，日本單方面干預收效甚微。如果只是重申七國集團的宣告只會鼓勵投機者買進美元、賣出日元。由於投機者可以透過在干預期間賣出美元，然後在干預結束後買回美元來獲利，因此干預實際上可能會導致投機者參與度增加，從而進一步降低其有效性。"
+    },
     {
       "id": "4874073",
       "time": "2026-05-12 11:26:12",
@@ -124830,16 +124903,6 @@
         "国际"
       ],
       "text": "【索尼PS5再涨价】Sony（索尼）近期已在美国市场将Play Station 5 Slim游戏主机的Certified Refurbished版本（即所谓的“官翻版”）价格上调了100美元（现汇率约合684元人民币）。调价后“官翻版”的PS 5 Slim数字版价格为499.99美元、PS 5 Slim光驱版则是549.99美元。仅有少量库存的原始PS 5光驱版则保持在399.99美元。索尼近期分两次在多个市场调整了全新Play Station 5主机的定价，其中国行起步价升至3999元人民币。"
-    },
-    {
-      "id": "4860538",
-      "time": "2026-05-05 11:28:25",
-      "tags": [
-        "公司",
-        "观点",
-        "国际"
-      ],
-      "text": "【华泰证券与印尼BNI启动战略合作】5月5日，华泰证券宣布，已通过旗下子公司华泰金融控股（香港）有限公司与印尼BNI旗下券商BNI证券达成战略双向合作。华泰将通过印尼本地券商向当地投资者提供覆盖宏观、策略、个股的全维度报告。"
     }
   ]
 }
