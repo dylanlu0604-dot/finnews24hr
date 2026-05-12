@@ -1,7 +1,83 @@
 {
-  "updated": "2026-05-12 20:57:11",
+  "updated": "2026-05-12 21:01:18",
   "count": 14639,
   "items": [
+    {
+      "id": "4875285",
+      "time": "2026-05-12 21:00:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "芝加哥商品交易所將推出人工智慧算力期貨市場。"
+    },
+    {
+      "id": "mkt:019e1c46-2cc7-7dd3-a754-a2270c5c923f",
+      "time": "2026-05-12 21:00:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CME TO CREATE FUTURES MARKET FOR COMPUTING POWER BACKING AI"
+    },
+    {
+      "id": "4875284",
+      "time": "2026-05-12 21:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國內期貨夜盤開盤】多晶矽連續跌5.84%，工業矽連續跌3.88%，生豬連續跌3.65%，液化石油氣連續漲2.87%，低硫燃料油連續漲2.67%。"
+    },
+    {
+      "id": "4875283",
+      "time": "2026-05-12 20:59:44",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲資料顯示，5月11日美國有效聯邦基金利率為3.63%，當日成交規模為1140億美元；5月8日有效聯邦基金利率同樣為3.63%，當日成交規模為1230億美元。"
+    },
+    {
+      "id": "te:markets:550022",
+      "time": "2026-05-12 20:59:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Slumps as Geopolitical and Inflation Risks Rise — Silver dropped over 1% to $84.5 an ounce on Tuesday, pressured by heightened Middle East uncertainty and the prolonged shutdown of the Strait of Hormuz, which pushed oil prices higher and kept inflation risks in focus. A stronger dollar also weighed on the metal. US President Donald Trump stated that the US-Iran ceasefire was on \"massive life support\" after rejecting Tehran’s latest peace proposal, fueling concerns that the critical shipping route could remain blocked. Reports suggest Trump will meet with his national security team to discuss a potential restart of military operations and revisit plans to escort commercial ships through the Strait. Economically, US inflation rose to 3.8% in April, the highest since May 2023, while the core rate also surpassed forecasts at 2.8%. The data complicates the Federal Reserve’s policy path, increasing the chances of a 25bps rate hike by December."
+    },
+    {
+      "id": "4875282",
+      "time": "2026-05-12 20:59:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟航空安全域性：中東波斯灣空域的通用空域許可（CZIB）有效期延長至2026年5月27日。"
+    },
+    {
+      "id": "4875280",
+      "time": "2026-05-12 20:58:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度反壟斷監管機構：批准阿達尼電力收購GVK能源100%股權。"
+    },
+    {
+      "id": "4875279",
+      "time": "2026-05-12 20:58:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭議員：前總統已抵達高等反腐敗法院。"
+    },
+    {
+      "id": "4875278",
+      "time": "2026-05-12 20:57:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "安德瑪削減激勵薪酬，以抵消關稅成本。"
+    },
     {
       "id": "4875277",
       "time": "2026-05-12 20:56:31",
@@ -129870,85 +129946,6 @@
         "其他"
       ],
       "text": "嘉信理財：面向零售投資者客戶推出人工智慧服務能力。"
-    },
-    {
-      "id": "4861427",
-      "time": "2026-05-05 21:00:57",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行稱，黃金和黃金應收賬款在一週內下降了9900萬歐元。"
-    },
-    {
-      "id": "4861426",
-      "time": "2026-05-05 21:00:53",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行稱外匯儲備增加6億歐元，達到3407億歐元。"
-    },
-    {
-      "id": "4861425",
-      "time": "2026-05-05 21:00:19",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【美媒：美以正在協調 或準備對伊朗發動新一輪打擊】美國有線電視新聞網5日援引以色列訊息人士的話報道說，隨著霍爾木茲海峽緊張局勢升級，以色列正與美國協調，“為可能對伊朗發動的新一輪打擊”做準備。該訊息人士稱，新一輪打擊目標將集中在能源基礎設施和伊朗高階官員，旨在透過一場短期行動向伊朗施壓，迫使其在談判中作出更多讓步。但該訊息人士強調，是否恢復打擊仍取決於美國總統特朗普。特朗普對美伊談判陷入僵局以及無法開放霍爾木茲海峽“感到沮喪”。（新華社）"
-    },
-    {
-      "id": "4861424",
-      "time": "2026-05-05 20:58:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "兩名訊息人士稱，俄羅斯基裡什煉油廠在遭遇烏克蘭無人機襲擊後已停止原油加工。"
-    },
-    {
-      "id": "4861423",
-      "time": "2026-05-05 20:58:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國3月國際貿易逆差為603億美元】當地時間5月5日，根據美國經濟分析局和美國人口普查局公佈的資料，美國2026年3月國際貿易逆差為603億美元，高於2月份的578億美元（經修訂）。3月份的出口額為3209億美元，進口額為3812億美元。（央視新聞）"
-    },
-    {
-      "id": "4861422",
-      "time": "2026-05-05 20:58:22",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【美國關鍵國債收益率突破5% 凸顯債券市場面臨越來越大壓力】在本週初自7月份以來首次突破5%這一關鍵水平後，30年期美國國債收益率一直在5%左右徘徊，表明全球最大債券市場的壓力並未減輕。這是一個具有特殊重要性的門檻，交易員正關注是否有跡象顯示收益率可能進一步上移。截至週二美東時間上午6:42，該收益率報5.01%，週一曾觸及5.03%。債券拋售的核心原因是，隨著霍爾木茲海峽仍處於關閉狀態以及油價飆升，市場對通脹以及降息次數可能減少產生了新一輪擔憂。企業在人工智慧上的大量支出，也引發了對短期內價格漲幅可能加快的擔憂。"
-    },
-    {
-      "id": "4861421",
-      "time": "2026-05-05 20:57:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "截至福布斯年度全球億萬富豪榜，埃隆・馬斯克穩居全球首富，身價高達 8390 億美元。"
-    },
-    {
-      "id": "4861420",
-      "time": "2026-05-05 20:57:43",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "印度尼西亞央行行長：將強化美元購買業務的基礎資產要求，以支撐印尼盾匯率。"
-    },
-    {
-      "id": "4861419",
-      "time": "2026-05-05 20:57:33",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【部分歐洲監管機構對特斯拉FSD安全持懷疑態度】特斯拉執行長埃隆・馬斯克表示，他有信心歐盟很快將批准這家車企的全自動駕駛系統。但部分歐洲監管機構的郵件顯示，他們對這項技術及其宣稱的安全效益持明顯懷疑態度。據報道，郵件顯示，荷蘭、瑞典、芬蘭、丹麥和挪威的監管機構對這項技術提出了多項顧慮，而這些國家在馬斯克推動FSD獲批的程序中擁有關鍵話語權。 監管方擔憂的問題包括：系統存在超速傾向、在結冰路面行駛的安全性，以及駕駛員能否繞過車載防手機使用的管控功能。 監管機構還對特斯拉的做法表示不滿——該公司公開號召車主向監管部門施壓，要求放行全自動駕駛系統。 歐盟委員會將於週二聽取荷蘭官員解釋批准特斯拉FSD的理由。"
     }
   ]
 }
