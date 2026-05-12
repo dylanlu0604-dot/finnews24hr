@@ -1,7 +1,51 @@
 {
-  "updated": "2026-05-13 04:38:04",
-  "count": 14830,
+  "updated": "2026-05-13 04:41:28",
+  "count": 14833,
   "items": [
+    {
+      "id": "te:markets:550084",
+      "time": "2026-05-13 04:41:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Falls on Petrobras Results and Inflation Concerns — The Ibovespa fell 0.9% to close at 180,342 on Tuesday, pressured by disappointing Petrobras results and losses in banking stocks. Petrobras dropped 1.6% after reporting a 7.2% annual decline in first-quarter 2026 profit, alongside weaker adjusted EBITDA and lower diesel and gasoline revenues. Major banks also traded lower as Brazil’s inflation rate accelerated in April, driven by higher food and fuel prices and moving closer to the upper limit of the central bank’s target range. The data reinforced concerns that persistent inflationary pressures could slow the pace of future Selic rate cuts. Higher bond yields also fueled worries over borrowing costs and weaker credit demand. Itaú fell 1.1%, Bradesco lost 0.9%, and Itaúsa declined 1.7% despite solid quarterly results. On the upside, Hapvida surged 9.3% after posting earnings above expectations."
+    },
+    {
+      "id": "4875849",
+      "time": "2026-05-13 04:41:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價12日顯著上漲】國際油價12日顯著上漲。截至當天收盤，紐約商品交易所6月交貨的輕質原油期貨價格上漲4.11美元，收於每桶102.18美元，漲幅為4.19%；7月交貨的倫敦布倫特原油期貨價格上漲3.56美元，收於每桶107.77美元，漲幅為3.42%。"
+    },
+    {
+      "id": "4875848",
+      "time": "2026-05-13 04:40:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞稱將支援由英國、法國在霍爾木茲海峽主導的防禦性行動。"
+    },
+    {
+      "id": "4875847",
+      "time": "2026-05-13 04:39:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "奧地利譴責美國間諜飛機未經許可闖入該國領空。"
+    },
+    {
+      "id": "4875846",
+      "time": "2026-05-13 04:38:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "油輪追蹤機構TankerTrackers：據估算，二戰期間沉沒的船隻中，約有1.13 億桶原油封存於海底。"
+    },
     {
       "id": "te:markets:550083",
       "time": "2026-05-13 04:36:46",
@@ -132247,23 +132291,6 @@
         "Importance 1"
       ],
       "text": "Uruguay Inflation Accelerates in April — Uruguay’s annual inflation rose to 3.2% in April 2026 from 2.9% in the previous month. The strongest price increases were seen in education (7.1%), restaurants and lodging (7.1%), personal care and social security (5.3%), utilities (4.5%), information and communication (3.7%), alcoholic beverages and tobacco (3.4%), and insurance and financial services (3.2%), while prices fell for clothing and footwear (-4.7%). On a monthly basis, inflation picked up to 0.54% from 0.41% in March."
-    },
-    {
-      "id": "4862063",
-      "time": "2026-05-06 04:39:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "【南非衛生部證實該國確診一例漢坦病毒病例】當地時間5月5日，南非衛生部證實，一名在南非接受治療的英國籍男性患者漢坦病毒檢測結果呈陽性，目前病情危重，正在約翰內斯堡桑頓一傢俬立醫療機構接受隔離治療。南非衛生部門表示，相關病例較為罕見，目前沒有證據顯示病毒在南非社會面傳播，公眾無需恐慌。（央視新聞）"
-    },
-    {
-      "id": "4862062",
-      "time": "2026-05-06 04:38:34",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國至5月1日當週API原油庫存 -814.1萬桶，預期-275萬桶，前值-179.3萬桶。"
     }
   ]
 }
