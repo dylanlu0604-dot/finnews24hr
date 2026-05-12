@@ -1,7 +1,188 @@
 {
-  "updated": "2026-05-12 15:28:56",
-  "count": 14307,
+  "updated": "2026-05-12 15:32:28",
+  "count": 14315,
   "items": [
+    {
+      "id": "te:markets:549925",
+      "time": "2026-05-12 15:32:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Opens 0.77% Lower — The FTSE 100 Index is falling 79 points. Losses were driven by Natwest (-4.56%), WPP (-4.15%) and Barclays (-4.12%). Biggest rises came from Intertek (5.47%), British American Tobacco (1.58%) and IMI (1.38%)."
+    },
+    {
+      "id": "4874505",
+      "time": "2026-05-12 15:32:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣：貝森特與高市早苗會談氣氛十分積極。"
+    },
+    {
+      "id": "4874504",
+      "time": "2026-05-12 15:31:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "【德國將出資逾1000萬歐元支援烏克蘭建設軍事訓練中心】據德國方面當地時間5月12日訊息，德國將出資超1000萬歐元，參與歐盟一項在烏克蘭境內建設軍事訓練中心的倡議。德國國防部長皮斯托裡烏斯訪問烏克蘭期間在基輔表示，相關資金將用於配套建設一座完整的軍事訓練中心。皮斯托裡烏斯稱，這些設在烏克蘭境內的訓練設施旨在幫助烏克蘭軍隊保持作戰能力。訊息稱，自俄烏衝突升級以來，已有近27000名烏克蘭士兵在德國接受培訓。（央視新聞）"
+    },
+    {
+      "id": "4874503",
+      "time": "2026-05-12 15:31:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX ：獵鷹 9 號火箭從加利福尼亞 4E 發射臺將NROL-172衛星送入軌道。"
+    },
+    {
+      "id": "te:markets:549924",
+      "time": "2026-05-12 15:31:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Opens 1.02% Lower — The DAX Index is dropping 249 points. Leading the losses are Munich RE (-4.30%), Zalando (-4.06%) and Infineon (-1.89%)."
+    },
+    {
+      "id": "te:markets:549923",
+      "time": "2026-05-12 15:30:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "British American Tobacco Stock Price Hits 4-week High — British American Tobacco shares increased to 4447.00 GBp, the highest since April 2026. Over the past 4 weeks, British American Tobacco gained 2.21%, and in the last 12 months, it increased 46.62%."
+    },
+    {
+      "id": "4874502",
+      "time": "2026-05-12 15:30:41",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【外交部：中美經貿關係的本質是互利共贏】5月12日，外交部發言人郭嘉昆主持例行記者會。在回答有關中美經貿關係的問題時，郭嘉昆表示，中美經貿關係的本質是互利共贏，雙方應該共同落實好兩國元首達成的重要共識，為中美經貿合作和世界經濟注入更多的穩定性，具體問題建議向中方主管部門進行詢問。（央視新聞）"
+    },
+    {
+      "id": "4874501",
+      "time": "2026-05-12 15:30:30",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【比特幣下跌，受脆弱的美伊停火拖累】在美國總統特朗普表示美國與伊朗之間的停火“岌岌可危”從而抑制了風險偏好之後，比特幣下跌。Jefferies經濟學家Mohit Kumar在一份報告中表示：“中東地區仍處於‘非戰非和’的局面，但停火看起來越來越脆弱。”倫敦證券交易所集團資料顯示，比特幣下跌0.9%，至81,054美元。"
+    },
+    {
+      "id": "te:markets:549922",
+      "time": "2026-05-12 15:30:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Opens 0.64% Lower — The CAC 40 Index is losing 51 points. Losses were led by Societe Generale (-2.68%), Stellantis NV (-2.54%) and Capgemini (-2.39%). Offsetting the fall, top gainers were Thales (1.07%), TotalEnergies SE (0.85%) and Kering (0.59%)."
+    },
+    {
+      "id": "4874500",
+      "time": "2026-05-12 15:29:57",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【貝森特訪日期間日元劇烈波動，美日匯率協調受關注】在美國財長貝森特訪問日本期間，週二，日元兌美元一度大幅上漲，但隨後回吐部分漲幅。東京下午交易時段，日元兌美元一度突然上漲0.3%，升至156.78。東京時間下午3:56（北京時間下午2:56）左右，日元漲幅收窄至0.2%，報157.50。此次波動發生之前，日本在上週長假期間曾多次疑似出手干預匯市。4月30日，也就是日本當局首次干預匯市當天，日元兌美元一度飆升高達3%。日本財務大臣片山皋月週二在東京與貝森特會面後確認，兩國正在就匯率政策保持密切協調。Lombard Odier Singapore高階宏觀策略師Homin Lee表示：“與自4月30日以來我們所見證的幾次劇烈波動相比，今天下午早些時候出現的盤中走勢幅度並不算特別大；但我們推測，這一走勢反映了與‘片山-貝森特會晤’相關的最新訊息，同時也折射出市場對於‘美日兩國在日元匯率管理上持續保持默契協調’這一敘事的解讀。”"
+    },
+    {
+      "id": "mkt:019e1b17-8112-7dd9-b92a-29a42add8252",
+      "time": "2026-05-12 15:29:45",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "U.S. TREASURY SECRETARY BESSENT: JGB YIELDS ARE PRICING IN PERHAPS INFLATION, A SHORT-TERM BLIP IN INFLATION THAT I BELIEVE IS TRANSIENT"
+    },
+    {
+      "id": "mkt:019e1b17-7466-7dd9-b92a-2558b5bf0d57",
+      "time": "2026-05-12 15:29:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "U.S. TREASURY SECRETARY BESSENT: I HAVE KNOWN BOJ GOVERNOR UEDA FOR MORE THAN 15 YEARS, HAVE GREAT CONFIDENCE HE WILL GUIDE BOJ TO A VERY SUCCESSFUL MONETARY POLICY"
+    },
+    {
+      "id": "te:markets:549920",
+      "time": "2026-05-12 15:29:34",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Trades at 6-Week Low — The FTSE 100 fell around 1% to a six-week low on Tuesday as doubts over the durability of the US-Iran ceasefire and rising political uncertainty in the UK weighed on sentiment. Pressure on Prime Minister Keir Starmer intensified after more than 70 Labour MPs reportedly called for him to outline a timetable for his departure following weak local election results, increasing concerns over political stability. Meanwhile, President Trump said the ceasefire with Iran was on “massive life support” after Tehran’s latest response to a US-backed peace proposal. Banks led the decline, with HSBC down 1.5%, Lloyds Banking losing 4%, Barclays falling 4.4%, NatWest down 4.6%, and Standard Chartered retreating 2%. AstraZeneca and GSK also slipped. Vodafone dropped over 2.5% despite reporting earnings ahead of expectations and a return to growth in Germany, its biggest market. Limiting losses, oil majors Shell and BP gained as crude prices stayed elevated amid persistent tensions in the Middle East."
+    },
+    {
+      "id": "4874499",
+      "time": "2026-05-12 15:29:06",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部長貝森特：日本國債收益率走勢，或許已經反映了通脹因素，在我看來，這只是通脹層面的短期小幅波動，屬於暫時性現象。"
+    },
+    {
+      "id": "4874498",
+      "time": "2026-05-12 15:29:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "歐元/英鎊一個月期權觸及3月以來最高看漲水平。"
+    },
+    {
+      "id": "4874497",
+      "time": "2026-05-12 15:28:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外交部：伊朗局勢當務之急是全力避免戰端重啟】5月12日，外交部發言人郭嘉昆主持例行記者會，有記者就伊朗局勢提問。郭嘉昆表示，關於伊朗的戰事，當務之急是全力避免戰端重啟，而不是惡意關聯抹黑中國。（央視新聞）"
+    },
+    {
+      "id": "4874496",
+      "time": "2026-05-12 15:28:29",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "蒂森克虜伯執行長：我們認為，業務重組與歐盟保障措施已提升了鋼鐵業務的價值。"
+    },
+    {
+      "id": "4874495",
+      "time": "2026-05-12 15:28:18",
+      "tags": [
+        "宏觀",
+        "央行",
+        "國際"
+      ],
+      "text": "美國財政部長貝森特：我與日本央行行長植田和男相識已有15年有餘，我非常相信他會引導日本央行推行極為成功的貨幣政策。"
+    },
     {
       "id": "4874494",
       "time": "2026-05-12 15:28:00",
@@ -126695,101 +126876,6 @@
         "公司"
       ],
       "text": "【萬邦德：若公司下一個年度的財務報告內部控制仍被出具無法表示意見或者否定意見的審計報告，公司股票將會被實施退市風險警示】萬邦德公告，因公司2025年度審計機構北京德皓對公司2025年度內部控制出具了否定意見的內部控制審計報告。根據《深圳證券交易所股票上市規則》第9.4.1條第（六）項的規定，若公司下一個年度的財務報告內部控制被出具無法表示意見或者否定意見的審計報告，公司股票將會被實施退市風險警示。"
-    },
-    {
-      "id": "4860788",
-      "time": "2026-05-05 15:32:21",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "鴻海四月營收同比增長29.74%。"
-    },
-    {
-      "id": "te:markets:547765",
-      "time": "2026-05-05 15:32:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE 100 Index Opens 1.02% Lower — The FTSE 100 Index is losing 106 points. Losses were led by HSBC Holdings (-5.46%), Standard Chartered (-3.17%) and Lloyds Banking (-2.93%)."
-    },
-    {
-      "id": "4860787",
-      "time": "2026-05-05 15:31:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "【丹麥航運公司一貨船透過霍爾木茲海峽】丹麥廣播公司5日援引丹麥航運公司馬士基的一份宣告報道，其旗下公司運營的一艘汽車運輸船4日安全透過霍爾木茲海峽。馬士基在一份宣告中說，“聯盟費爾法克斯”號汽車運輸船在通行過程中未發生意外。該船此前位於波斯灣，因持續存在的安全擔憂無法離開該地區。 (新華社)"
-    },
-    {
-      "id": "te:markets:547763",
-      "time": "2026-05-05 15:31:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The DAX Index Opens 0.27% Higher — The DAX Index is up by 66 points or 0.27 percent on Tuesday. Top gainers are Scout24 (2.66%), Commerzbank (2.06%) and E.ON (1.53%). Biggest losses came from Fresenius Medical Care (-4.79%), Fresenius (-1.20%) and Airbus (-0.50%)."
-    },
-    {
-      "id": "4860786",
-      "time": "2026-05-05 15:31:08",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【亞馬遜全面開放旗下物流網路】當地時間4日，美國電商巨頭亞馬遜宣佈，將其全球物流與供應鏈網路全面開放給所有型別、所有規模的企業使用，不再僅限於入駐商家。根據亞馬遜當天釋出的宣告，這項服務面向全行業第三方企業開放，企業可依託亞馬遜的物流體系，完成從原材料運輸、跨境轉運、倉儲分撥到終端成品配送的全鏈條供應鏈管理。市場分析人士認為，此舉意味著亞馬遜進軍物流行業，可能會加劇行業競爭。訊息公佈後，4日當天美股物流板塊承壓，聯合包裹（UPS）股價跌超10%，聯邦快遞股價跌超9%。亞馬遜則上漲1.41%。（央視財經）"
-    },
-    {
-      "id": "4860785",
-      "time": "2026-05-05 15:30:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "鴻海4月銷售額為8,321億元臺幣。"
-    },
-    {
-      "id": "4860784",
-      "time": "2026-05-05 15:30:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴基斯坦總理：我們強烈譴責針對阿聯酋的襲擊，並全力支援阿聯酋。"
-    },
-    {
-      "id": "te:markets:547761",
-      "time": "2026-05-05 15:30:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The CAC 40 Index Opens 0.34% Higher — The CAC 40 Index is gaining 27 points or 0.34 percent on Tuesday. Leading the gains are Orange (2.80%), TP (2.66%) and Bureau Veritas (1.92%). Top losers are Sanofi (-3.87%), Renault (-0.71%) and STMicroelectronics (-0.64%)."
-    },
-    {
-      "id": "4860783",
-      "time": "2026-05-05 15:30:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：英力士與殼牌達成協議，共同勘探油氣新機遇。"
-    },
-    {
-      "id": "4860782",
-      "time": "2026-05-05 15:29:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：澳大利亞逆勢加息，背離全球降息趨勢。"
     }
   ]
 }
