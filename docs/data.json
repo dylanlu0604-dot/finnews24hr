@@ -1,7 +1,78 @@
 {
-  "updated": "2026-05-12 14:23:14",
-  "count": 14158,
+  "updated": "2026-05-12 14:26:36",
+  "count": 14165,
   "items": [
+    {
+      "id": "mkt:019e1add-8bd1-7dd9-b929-40d84777448b",
+      "time": "2026-05-12 14:26:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Key UAE Gas Plant to Return to Normal Next Year From War Damage】Adnoc Gas said the UAE’s key Habshan natural gas processing plant, damaged during the Iran war, is operating at about 60% capacity and is not expected to fully recover until 2027. The facility aims to reach 80% capacity by year-end after being targeted twice in April. The conflict has also severely disrupted the Strait of Hormuz, cutting off major oil and gas flows and driving up energy prices. Adnoc Gas expects a $400 million to $600 million second-quarter impact from the Hormuz closure, with LNG exports remaining constrained until shipping routes reopen."
+    },
+    {
+      "id": "4874288",
+      "time": "2026-05-12 14:26:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "維茲航空夏季燃油需求已進行約70%的對沖操作。燃油套期保值均價約為每噸720美元。"
+    },
+    {
+      "id": "4874286",
+      "time": "2026-05-12 14:25:49",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國埃爾位元系統公司獲美國陸軍一份價值2.12億美元的交付訂單，訂單內容為增強型雙目夜視鏡。"
+    },
+    {
+      "id": "4874285",
+      "time": "2026-05-12 14:25:44",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "法國巴黎銀行的經濟學家表示，日本央行4月會議的意見摘要顯示，委員會成員正在為近期的加息做準備，但也為委員會6月再次開會時的政策選擇留出了空間。"
+    },
+    {
+      "id": "4874284",
+      "time": "2026-05-12 14:25:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "日立建機跌幅擴大，最大跌幅觸及 6.6%。"
+    },
+    {
+      "id": "4874283",
+      "time": "2026-05-12 14:25:01",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【陶瓷基板概念區域性異動 科翔股份觸及20cm漲停】午後陶瓷基板概念區域性異動，科翔股份20cm漲停，續創歷史新高，此前蒙娜麗莎3連板，國瓷材料、旭光電子、博敏電子跟漲。訊息面上，機構指出，隨著GPU功耗激增，高導熱陶瓷基板已成為全球AI巨頭破解晶片散熱瓶頸的剛需元件，全球陶瓷基板市場正處於規模快速擴張階段，2025年市場規模已達32.9億元，年複合增長率達18.69%，2026年全球市場規模預計進一步攀升至180億至200億人民幣，下游需求釋放確定性極高。"
+    },
+    {
+      "id": "4874282",
+      "time": "2026-05-12 14:24:51",
+      "tags": [
+        "資料",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【機構：汽油價格上漲將對美國CPI構成上行壓力】SEB的Elisabet Kopelman在週二釋出4月份消費者價格通脹資料前表示，汽油價格上漲將對美國整體CPI構成持續的上行壓力。這位美國經濟學家兼美聯儲觀察人士表示，剔除食品和能源的核心通脹率預計也將以更快的速度上升，但這主要反映了租金方面的技術性影響，以及去年政府停擺的溢位效應。她說：“能源價格上漲對其他價格的溢位效應需要更長時間，調查中的銷售價格等指標仍在發出令人安心的訊號，而包括租金在內的服務價格已逐漸緩和。”分析師平均預期4月份整體通脹率為3.7%，而3月份為3.3%。"
+    },
+    {
+      "id": "4874281",
+      "time": "2026-05-12 14:24:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "液化石油氣連續主力合約日內漲7%，現報6132.00元。"
+    },
     {
       "id": "4874278",
       "time": "2026-05-12 14:23:05",
@@ -125474,14 +125545,6 @@
         "Importance 0"
       ],
       "text": "Bharti Airtel Stock Price Hits 4-week Low — Bharti Airtel shares decreased to 1806.00 INR, the lowest since April 2026. Over the past 4 weeks, Bharti Airtel gained 0.75%, and in the last 12 months, it decreased 4.99%."
-    },
-    {
-      "id": "4860691",
-      "time": "2026-05-05 14:24:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "法國巴黎銀行Exane券商將歐萊雅評級從表現落後上調至中性。"
     }
   ]
 }
