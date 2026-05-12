@@ -1,7 +1,118 @@
 {
-  "updated": "2026-05-12 20:40:31",
-  "count": 14617,
+  "updated": "2026-05-12 20:43:29",
+  "count": 14629,
   "items": [
+    {
+      "id": "4875253",
+      "time": "2026-05-12 20:43:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "雙槍科技：公司“金鋼瓷”材料僅用於生產餐具產品，目前尚在客戶拓展階段，訂單不足1000萬元，佔公司營業收入的比重極小；“竹基禾塑”材料基於當下研發規劃，僅用於工業托盤的研發與試產，目前在中試階段，尚未有客戶訂單及批次生產，且未應用於汽車、建材、光模組、光通訊工程、AI硬體和機器人等多個領域；未來“金鋼瓷”及竹塑托盤的訂單獲取和業務發展存在較大不確定性。"
+    },
+    {
+      "id": "mkt:019e1c36-0407-7dd3-a754-7930a2a6220b",
+      "time": "2026-05-12 20:42:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK MINISTER ALEX DAVIES-JONES RESIGNS - REPORTS"
+    },
+    {
+      "id": "4875251",
+      "time": "2026-05-12 20:42:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度政府：2026財年年度GDP及季度GDP初步估算資料將於6月5日釋出。"
+    },
+    {
+      "id": "te:economy:550016",
+      "time": "2026-05-12 20:41:53",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Energy Inflation",
+        "Importance 0"
+      ],
+      "text": "US Energy Inflation Highest Since 2022 — US energy inflation soared to 17.9% year-over-year in April 2026, up from 12.5% in March and marking the steepest annual increase since September 2022. The surge was driven by the Iran war and the closure of the Strait of Hormuz. Energy commodities spiked 29.2%, with gasoline prices up 28.4% and fuel oil rising 54.3%. Energy services also climbed 5.4%, led by a 6.1% increase in electricity costs and a 3.0% rise in piped gas service. On a monthly basis, energy prices jumped 3.8% in April, following a 10.9% surge in March."
+    },
+    {
+      "id": "4875249",
+      "time": "2026-05-12 20:41:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【正元智慧：募集資金專戶511.02萬元被凍結】正元智慧公告稱，公司近日收到法院出具的民事裁定書等材料，公司一募集資金專項賬戶中511.02萬元被凍結，系山東貓之源商業管理有限公司因合同糾紛申請訴前財產保全所致。該金額佔2023年可轉債募集資金淨額的1.49%、最近一期經審計淨資產的0.47%，佔比較小，不會對公司生產經營、募集資金使用及募投專案投入造成重大不利影響。公司將積極溝通協商，妥善解決此事。"
+    },
+    {
+      "id": "te:markets:550015",
+      "time": "2026-05-12 20:41:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 0"
+      ],
+      "text": "DXY Climbs after Hot Inflation Data — The dollar index climbed above 98 after a key US inflation report highlighted the economic impact of higher energy costs and supply disruptions linked to the war in Iran. Consumer prices rose 3.8% year-on-year in April, the fastest pace since 2023, while monthly inflation accelerated to 0.6%. Core CPI, which excludes food and energy, increased 0.4% from March and 2.8% annually, exceeding forecasts. Part of the rise was linked to distortions in rent calculations following the 2025 government shutdown. Investors also monitored growing tensions in the Middle East, with President Donald Trump reportedly frustrated by the lack of progress in negotiations with Iran. The Strait of Hormuz remains largely closed, severely disrupting global energy shipments and pushing oil prices higher. The supply shock has begun feeding into broader measures of supply-chain stress, reviving concerns about persistent inflationary pressures and keeping central banks cautious on interest-rate policy."
+    },
+    {
+      "id": "4875248",
+      "time": "2026-05-12 20:41:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度政府：已將年度GDP及季度GDP初步預估資料的釋出日期修訂為每年6月7日。"
+    },
+    {
+      "id": "4875247",
+      "time": "2026-05-12 20:40:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【凱普生物：持股5%以上股東減持致持股比例降至5.67%】凱普生物公告稱，持股5%以上股東眾合之原持有公司股份40,147,564股，佔總股本6.21%。此前眾合之計劃2026年3月6日至6月5日減持不超19,395,000股（佔總股本3%）。近日，因公司資本公積金轉增股本、回購股份登出及眾合之減持，其持股比例自前次公告的6.26%降至5.67%，觸及1%整數倍。眾合之本次減持與此前計劃一致，無違規情形。"
+    },
+    {
+      "id": "mkt:019e1c34-2cc1-7dd3-a754-77c865cd0fa1",
+      "time": "2026-05-12 20:40:20",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "【US Inflation Outpaces Wage Growth Again】US consumer prices rose 3.8% over the past year, exceeding the 3.6% increase in wages, marking the first time in about three years that inflation has outpaced paycheck growth. The gap suggests many Americans are seeing declines in real purchasing power as living costs rise faster than earnings."
+    },
+    {
+      "id": "4875246",
+      "time": "2026-05-12 20:40:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "羅氏執行長在電話會議中確認，診斷業務部門的長期展望為營收增長中個位數至高個位數區間。"
+    },
+    {
+      "id": "4875245",
+      "time": "2026-05-12 20:40:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【滙豐上調布倫特原油預測，假設霍爾木茲海峽在第三季度末恢復正常】滙豐上調了其布倫特原油價格預測，假設透過霍爾木茲海峽的交通和海灣地區的石油產量將從6月中旬開始逐步恢復。“我們現在的基準情境假設……到2026年第三季度末，系統級產量和供應將恢復到接近正常的水平，“該行高階油氣分析師Kim Fustier表示。“更長時間的干擾意味著更大的庫存消耗、更具挑戰性的戰後庫存補充，以及更高的剩餘風險溢價，從而支撐更高的長期價格錨點。“滙豐現在預計，今年布倫特原油均價將達到每桶95美元，高於此前預期的每桶80美元。從2027年起，這一國際原油基準價格預計為每桶75美元，而此前的預估為70美元。"
+    },
+    {
+      "id": "4875244",
+      "time": "2026-05-12 20:39:18",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "烏干達財政部表示，發行首支主權伊斯蘭 Sukuk 債券的工作已進入後期階段。"
+    },
     {
       "id": "4875243",
       "time": "2026-05-12 20:39:04",
@@ -25,6 +136,17 @@
         "公司"
       ],
       "text": "【萬科A：深鐵集團向公司提供25億元股東借款額度並由公司提供擔保】5月12日，萬科A公告，公司於2026年5月12日與第一大股東深圳市地鐵集團有限公司（下稱“深鐵集團”或“出借人”）簽署《關於股東借款及資產擔保的框架協議》。根據《框架協議》，深鐵集團在2026年1月1日至2026年12月31日期間向公司提供不超過25億元借款額度，借款額度包括《框架協議》生效之前已實際發生但公司未提供抵/質押擔保措施的信用借款及已提供擔保但後續確認無法實施或部分無法實施的借款，及《框架協議》生效之後發生的借款，公司將對《框架協議》下實際發生的借款提供抵押擔保、質押擔保、保證擔保等擔保方式。"
+    },
+    {
+      "id": "4875241",
+      "time": "2026-05-12 20:38:50",
+      "tags": [
+        "央行",
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【韓國股指逼近8000點大幅震盪 機構熱議衝擊萬點】韓國綜合股價指數（KOSPI）原本即將衝擊8000點關口，受短期大幅衝高後的獲利了結拋壓影響，開始進入休整階段。元大證券12日釋出資料顯示：納入MSCI全球指數的成分企業中，韓國近12個月淨利潤達3300億美元，僅次於美國的2.95萬億美元，位居全球第二。其後依次為：日本3000億美元、英國2500億美元。 分析指出，相較於盈利體量，韓國在MSCI全球指數中的市值佔比明顯偏低，這也是韓股整體被低估的核心原因。在半導體盈利高增的背景下，市場開始熱議KOSPI衝擊10000點。 目前KOSPI近12個月市盈率（PER）僅8.5倍，低於歷次全球金融危機時期水平。 分析師認為，在半導體帶動業績走強、價值重估邏輯支撐下，只要估值迴歸合理，股指完全具備站穩並突破萬點的基礎。 但也有觀點指出，年內漲幅已達81%的韓股，短期存在調整壓力。 IBK投資證券研究員Byun Joon-ho表示：“與KOSPI高度相關的領先經濟指標，大機率在8—9月見頂；半導體出口增速也可能從9月開始放緩。疊加傑克遜霍爾央行年會、美國中期選舉等不確定性，預計夏季行情過後，市場波動將明顯加大。”"
     },
     {
       "id": "mkt:019e1c32-24bc-7dd3-a754-644b8d68a1a1",
@@ -300,6 +422,14 @@
         "Impact bullish"
       ],
       "text": "US SHORT-TERM INTEREST-RATE FUTURES SLIGHTLY PARE EARLIER LOSSES AFTER INFLATION DATA"
+    },
+    {
+      "id": "4875223",
+      "time": "2026-05-12 20:32:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三峽水庫為長江中下游補水超100億立方米】 記者從中國三峽集團獲悉，自2025年11月21日啟動枯水期補水排程以來，截至5月12日，三峽水庫已累計為長江中下游補水超100億立方米，為長江中下游沿線民生供水、農業生產、航運暢通及生態保護提供了堅實保障。每年冬季至來年春季是長江流域少雨時期，為有效應對枯水期挑戰，三峽集團依據水利部長江水利委員會排程要求科學制定補水方案，持續加大三峽水庫下洩流量，日均出庫流量超7000立方米每秒，平均出庫流量超自然平均流量近六成。目前，長江流域正式進入汛期。據長江流域氣象中心最新預測，2026年長江流域汛期旱澇並存，長江中游旱重於澇，主汛期降水總體偏少。（新華社）"
     },
     {
       "id": "mkt:019e1c2c-e36c-7dd9-b92f-2c37b4a4dfe7",
@@ -129714,26 +129844,6 @@
         "國際"
       ],
       "text": "【荷蘭國際：市場反映英國央行將大幅加息的預期，英鎊或將保持堅挺】荷蘭國際集團(ING)策略師在一份報告中稱，受投資者對英國央行將迅速加息的預期所支撐，英鎊兌歐元可能保持相對堅挺。高企的能源價格已導致投資者提高了對英國央行加息的預期，以應對能源價格驅動的通脹。倫敦證券交易所集團(LSEG)的資料顯示，市場完全反映了英國央行將在2026年進行兩次加息的預期，預計首次加息將在7月前進行。這些策略師稱，在英國央行傳達其加息幅度將低於歐洲央行之前，歐元兌英鎊匯率“似乎可以在0.86-0.88區間的中間位置徘徊更長時間“。歐元兌英鎊下跌0.1%，至0.8632英鎊。"
-    },
-    {
-      "id": "4861391",
-      "time": "2026-05-05 20:41:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國3月貿易逆差擴大 進口增速超出口增速】3月份美國貿易逆差擴大，進口額增幅超過出口額，表明消費者和企業需求強勁。美國商務部週二公佈的資料顯示，商品和服務貿易逆差環比增長4.4%，達到603億美元，而機構市場預期中值為610億美元。進口額增長2.3%，主要反映出汽車和消費品進口量的增長。此外，由於人工智慧的快速發展提振了對外國製造的計算機裝置的需求，資本貨物進口也有所增長。3月份出口額比上月增長2%，得益於石油和其他石油產品出貨量的增加。3 月份資料標誌著本季度淨出口對GDP的拖累程度創下近一年來的最高紀錄。"
-    },
-    {
-      "id": "te:economy:547890",
-      "time": "2026-05-05 20:41:42",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Canada",
-        "Exports",
-        "Importance 1"
-      ],
-      "text": "Canada Exports Jump to Over One-Year High — Canada’s exports rose 8.5% month-on-month to C$72.8 billion in March 2026, the highest level since January 2025. Amid uncertainty over the economic fallout from the Iran conflict, some sectors saw sharp gains. Exports of metal and non-metallic mineral products and energy led the increase. Non-metallic mineral product exports surged 24.0% to a record C$15.3 billion, driven largely by unwrought gold, silver, and platinum group metals. Energy exports rose 15.6% to C$17.1 billion, the highest since September 2022, supported by an 18.9% jump in crude oil exports due to higher prices. Excluding these categories, export growth was more modest, rising 1.1% in March."
     }
   ]
 }
