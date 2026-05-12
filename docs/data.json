@@ -1,7 +1,32 @@
 {
-  "updated": "2026-05-13 07:16:20",
-  "count": 14867,
+  "updated": "2026-05-13 07:19:43",
+  "count": 14868,
   "items": [
+    {
+      "id": "4875972",
+      "time": "2026-05-13 07:18:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【Anthropic正以9000億美元估值尋求至少300億美元融資】當地時間5月12日，據報道，知情人士透露，Anthropic正尋求以逾9000億美元的投前估值，融資至少300億美元。報道稱，此次融資最快可於本月底完成，但目前協議尚未最終敲定，條款清單也尚未簽署。"
+    },
+    {
+      "id": "4875971",
+      "time": "2026-05-13 07:18:10",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【華泰證券：交易型資金情緒快速回升】華泰證券指出，近期國內外財報季催化驗證AI需求強勁下，市場交投活躍，交易型資金熱度快速回升至1月底附近水位：1）融資資金上週淨買入超800億元、活躍度為10.5%，均創2026年2月以來新高；2）龍虎榜資金累計近1個月淨買入額接近1月底高位，且軟體（計算機）超越硬體（通訊）成為遊資買入主要方向；3）以參與交易的投資者數量衡量的投資者情緒修復至1月底左右水位。但需要提示的是，1）融資擔保比例回升至300%的歷史高位（僅次於2020年7月302%），融資資金浮盈達到歷史高位區間；2）ETF仍在延續前期的淨贖回趨勢，寬基ETF是主要的流出方向，在行業ETF中，我們觀察到部分資金出現獲利了結的意願，其在上週減倉電子、機械、計算機、通訊方向。"
+    },
+    {
+      "id": "4875970",
+      "time": "2026-05-13 07:17:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【人民日報：莫讓智慧助手製造“消費陷阱”】技術是一把雙刃劍，AI輔助消費的同時，一些“消費陷阱”隨之出現。有不法商家利用GEO（生成式引擎最佳化）技術，大量釋出虛假軟文、炮製不實資訊“投餵”AI，扭曲AI的推薦結果，讓消費者獲取的攻略、測評內容淪為虛假營銷的載體。此外，一些AI智慧體存在資訊幻覺問題，出現商品引數錯誤、價格虛報、服務資訊不實等情況，看似專業的消費建議，實則暗藏消費陷阱。這些問題不僅導致消費者做出錯誤決策，也破壞了消費市場的誠信根基，削弱了公眾對智慧技術的信任，擾亂了公平有序的市場競爭秩序。人工智慧為消費市場帶來了全新機遇，讓消費更便捷、更智慧，也給不法分子帶來可乘之機。面對新技術，消費者應保持理性審慎，切勿過度依賴、盲目輕信，在參考AI給出的消費建議時，多方核實資訊真偽，透過官方渠道、真實評價、線下核驗等方式交叉驗證。 為規範市場秩序，平臺作為技術提供者與生態運營者，必須切實扛起主體責任，強化技術風控能力，加大對AI訓練資料的稽核力度，建立全流程資料溯源機制，不斷最佳化推薦機制。從監管層面來說，要加快構建AI時代的消費者權益保護體系，健全消費維權機制，明確AI輔助消費糾紛責任界定，保障維權渠道暢通，推動形成健康、透明、可信的AI消費服務生態。"
+    },
     {
       "id": "4875969",
       "time": "2026-05-13 07:15:34",
@@ -132544,22 +132569,6 @@
         "Importance 1"
       ],
       "text": "Australian Industry Conditions Improve — Australia’s Industry Index rose by 9.8 points to -24.4 in April 2026, signaling some stabilisation but still pointing to a deep contraction in industrial conditions. Key components improved modestly: activity and sales, as well as employment, each gained 4.5 points to -31.2 and -25.2, respectively, while new orders climbed 7.7 points to -24.8. Input volumes also picked up, rising 6.6 points to -5.5, suggesting a tentative recovery in demand. Yet cost pressures surged: the prices index jumped 13.5 points to 69.3 as fuel levies filtered through supply chains, pushing selling prices up 10.1 points to 23.1 and wages 2.1 points higher to 36.2. Capacity utilisation rebounded to 77.7% after earlier declines. Despite these gains, firms remain constrained by skilled labour shortages, elevated energy costs, lingering supply disruptions, and intensifying competition from online and overseas suppliers, underscoring structural headwinds even as headline conditions show modest improvement."
-    },
-    {
-      "id": "4862159",
-      "time": "2026-05-06 07:19:30",
-      "tags": [
-        "觀點"
-      ],
-      "text": "惠譽將高盛展望調整為正面；確認其長期發行人違約評級（IDR）維持“A”級。"
-    },
-    {
-      "id": "4862157",
-      "time": "2026-05-06 07:17:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "根據申報檔案，伯克希爾哈撒韋已以每股149.8429美元的價格出售了120萬股達維塔（DAVITA） 公司股票。"
     }
   ]
 }
