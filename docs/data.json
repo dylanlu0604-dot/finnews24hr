@@ -1,7 +1,71 @@
 {
-  "updated": "2026-05-12 09:21:13",
-  "count": 13982,
+  "updated": "2026-05-12 09:24:36",
+  "count": 13986,
   "items": [
+    {
+      "id": "mkt:019e19c8-b59f-7dd9-b927-d51968d91a9c",
+      "time": "2026-05-12 09:24:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "1024.HK",
+        "Impact bullish"
+      ],
+      "text": "KUAISHOU JUMPS 9.9% AT OPEN AFTER REPORT IT PLANS TO SPIN OFF ITS KLING AI VIDEO BUSINESS"
+    },
+    {
+      "id": "4873669",
+      "time": "2026-05-12 09:23:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國Kospi指數跌幅擴大至1%，現報7741.97點。"
+    },
+    {
+      "id": "4873668",
+      "time": "2026-05-12 09:23:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "美元/日元<JPY=EBS>上漲0.18%，報157.49。"
+    },
+    {
+      "id": "4873667",
+      "time": "2026-05-12 09:22:02",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行公開市場今日淨投放5.0億元人民幣。"
+    },
+    {
+      "id": "4873666",
+      "time": "2026-05-12 09:21:33",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行今日開展5億元7天逆回購操作，投標量5億元，中標量5億元，操作利率為1.40%，與此前持平。"
+    },
+    {
+      "id": "mkt:019e19c6-2dc0-7dd9-b927-ca3a61d4968f",
+      "time": "2026-05-12 09:21:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "HONG KONG STOCKS OPEN HIGHER: HANG SENG +0.34%, TECH INDEX +0.45%"
+    },
+    {
+      "id": "4873665",
+      "time": "2026-05-12 09:21:16",
+      "tags": [
+        "焦點"
+      ],
+      "text": "港股恒指高開漲0.34％，國企指數漲0.2％，科指開漲0.45%。快手漲約10%。"
+    },
     {
       "id": "mkt:019e19c6-160d-7dd9-b927-c574b3803b4f",
       "time": "2026-05-12 09:21:12",
@@ -123900,38 +123964,6 @@
         "國際"
       ],
       "text": "【盧比創歷史新低，凸顯石油衝擊下印度央行干預支撐已現侷限】印度盧比近期跌至歷史新低，凸顯高企油價正不斷抵消印度為穩定對外收支狀況所做的政策努力。貿易形勢惡化、外資持續外流、國際收支壓力不斷擴大，共同將盧比鎖定在持續貶值通道，也暴露出印度外部脆弱性正在加深。印度央行此前出臺多項舉措，意在抑制匯市投機頭寸，盧比一度因此走強，而如今前期漲幅已悉數回吐。近幾個月來，印度央行加大美元拋售力度、收緊國內市場流動性，並強化離岸市場監管：於3月27日收緊銀行淨敞口頭寸限額，4月1日禁止交易盧比相關無本金交割遠期合約。 上述措施初期觸發空頭回補、壓縮遠期溢價，透過收窄在岸與離岸市場套利空間，暫時穩住了盧比匯率。但此類干預只能平緩匯率波動，無法扭轉整體貶值大趨勢。儘管印度整體外匯儲備看似充足，但自3月末以來儲備規模已整體回落，反映出央行大舉現貨市場干預的成本持續攀升。"
-    },
-    {
-      "id": "te:547626",
-      "time": "2026-05-05 09:23:26",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Australia Stocks Fall Further Ahead of RBA Rate Decision — Australian shares dipped 62 points, or 0.7%, to 8,635 in early deals on Tuesday, extending losses from the prior session amid growing caution that the central bank will raise cash rates for a third straight meeting later today, with a further move possible in September amid a battle against persistent inflationary pressures. On the data front, March building permits tumbled 10.5% mom after a strong rebound earlier, while April job ads fell for a second month. Overnight on Wall Street, equities ended lower Monday, with the S&P 500 down from record highs, after a South Korean vessel was struck in the Strait of Hormuz, underscoring Tehran’s grip on Middle East oil flows. Consumer durables, healthcare, process industries, and retail trade drove the losses, though gains in energy minerals and logistics helped cap weakness. Among major laggards were ALS Ltd. (-3.8%), Northern Star Resources (-2.7%), and Ramelius Resources (-1.8%). Four big banks slipped between 0.5% to 0.9%."
-    },
-    {
-      "id": "te:markets:547626",
-      "time": "2026-05-05 09:23:26",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Australia Stocks Fall Further Ahead of RBA Rate Decision — Australian shares dipped 62 points, or 0.7%, to 8,635 in early deals on Tuesday, extending losses from the prior session amid growing caution that the central bank will raise cash rates for a third straight meeting later today, with a further move possible in September amid a battle against persistent inflationary pressures. On the data front, March building permits tumbled 10.5% mom after a strong rebound earlier, while April job ads fell for a second month. Overnight on Wall Street, equities ended lower Monday, with the S&P 500 down from record highs, after a South Korean vessel was struck in the Strait of Hormuz, underscoring Tehran’s grip on Middle East oil flows. Consumer durables, healthcare, process industries, and retail trade drove the losses, though gains in energy minerals and logistics helped cap weakness. Among major laggards were ALS Ltd. (-3.8%), Northern Star Resources (-2.7%), and Ramelius Resources (-1.8%). Four big banks slipped between 0.5% to 0.9%."
-    },
-    {
-      "id": "4860459",
-      "time": "2026-05-05 09:23:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本出光興產採購美國WTI、Mars原油，8月到港】交易商知情人士透露，日本煉油商出光興產上週末購入約400 萬桶美國原油，預計 8 月到港交付。採購原油品種包含西德克薩斯輕質原油（WTI）與Mars原油。日本其他煉油企業，包括引能仕、科斯莫石油、太陽石油，此前也已採購 8 月到港的美國原油。"
     }
   ]
 }
