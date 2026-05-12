@@ -1,7 +1,54 @@
 {
-  "updated": "2026-05-13 00:14:00",
-  "count": 14733,
+  "updated": "2026-05-13 00:17:26",
+  "count": 14735,
   "items": [
+    {
+      "id": "mkt:019e1cf9-df39-7772-8779-a30222c42e4b",
+      "time": "2026-05-13 00:16:32",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "EIA SAYS IF STRAIT OF HORMUZ IS SHUT THROUGH LATE JUNE, CRUDE OIL PRICES WOULD BE $20/BBL HIGHER THAN CURRENT FORECAST THAT ASSUMES REOPENING IN LATE MAY"
+    },
+    {
+      "id": "mkt:019e1cf9-89aa-7772-8779-99f93a258dbd",
+      "time": "2026-05-13 00:16:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Hegseth Says China Holds Significant Leverage Over Iran Ahead of Trump-Xi Meeting】Pete Hegseth said China has “a lot of leverage” over Iran ahead of President Donald Trump’s trip to Beijing to meet Chinese leader Xi Jinping. Speaking on Capitol Hill, Hegseth said President Trump holds the most influence but noted China’s leverage over Tehran. Sen. Lindsey Graham said China buys 90% of Iran’s oil and is the largest purchaser of Russian oil and gas, adding that Xi is “propping up Russia and Iran.”"
+    },
+    {
+      "id": "4875667",
+      "time": "2026-05-13 00:15:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "小麥期貨大漲最高達 6.2%，創 2023 年 8 月以來最大單日漲幅。"
+    },
+    {
+      "id": "mkt:019e1cf8-a908-7772-8779-925d1471fa8d",
+      "time": "2026-05-13 00:15:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "HEGSETH: CHINA HAS 'A LOT OF LEVERAGE' OVER IRAN - WSJ"
+    },
+    {
+      "id": "4875666",
+      "time": "2026-05-13 00:13:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源資訊署目前預計，伊朗將被迫削減石油產量，部分原因是美國實施的封鎖措施。"
+    },
     {
       "id": "mkt:019e1cf7-4b7c-7772-8779-8fc7a2135aee",
       "time": "2026-05-13 00:13:49",
@@ -131002,30 +131049,6 @@
         "公司"
       ],
       "text": "黑石集團與 KKR 集團正與谷歌展開洽談，計劃讓兩家機構旗下所投企業接入谷歌的人工智慧模型。"
-    },
-    {
-      "id": "4861828",
-      "time": "2026-05-06 00:17:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【機構正大舉買入比特幣】在上週短暫出現一連串的淨流出後，比特幣ETF已重新轉為資金流入。根據Coinglass的資料，截至今日之前，比特幣ETF已連續三天錄得正流入。週一錄得約5.32億美元的資金流入，週五則有6.3億美元的資金流入。據Capriole Investments的Charles Edwards稱，機構買家被視為推動了這些強勁的資金流入，機構正在買入的比特幣數量接近每日開採供應量的600%。每天大約有450枚比特幣被新開採出來，這意味著機構每天購買大約2,700枚比特幣，按今日81,543美元的價格計算，價值2.2億美元。"
-    },
-    {
-      "id": "4861827",
-      "time": "2026-05-06 00:16:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普稱德黑蘭“應該揮舞白旗投降”】美國總統特朗普週二貶低伊朗的軍事能力，稱德黑蘭“應該揮舞白旗投降”，但又表示伊朗“太過驕傲”，不會這樣做。特朗普在白宮橢圓形辦公室對記者表示，伊朗的軍事力量已被削弱到只能發射“玩具槍”，並稱儘管伊朗在公開場合虛張聲勢，但私下裡希望達成協議。“他們在玩把戲，但我可以告訴你，他們想達成協議。當你的軍隊已經徹底不存在了，誰會不想呢？”他說。特朗普高度評價美國對伊朗港口實施的封鎖行動，稱：“這就像一塊鋼鐵，沒有人會去挑戰這道封鎖。我認為它運作得非常好。”當被問及伊朗需要做出什麼舉動才會違反停火協議時，特朗普表示：“你們會知道的，因為我會告訴你們，他們知道什麼事情不能做。”特朗普還表示，伊朗“應該把那面投降的白旗留著”。“如果這是一場打鬥，他們早就該停手了，”特朗普說。"
-    },
-    {
-      "id": "4861826",
-      "time": "2026-05-06 00:15:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "德國外長表示，德國無法接受對約旦河西岸部分地區的事實吞併。"
     }
   ]
 }
