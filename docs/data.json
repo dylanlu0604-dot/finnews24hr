@@ -1,7 +1,70 @@
 {
-  "updated": "2026-05-12 20:53:45",
-  "count": 14637,
+  "updated": "2026-05-12 20:57:11",
+  "count": 14639,
   "items": [
+    {
+      "id": "4875277",
+      "time": "2026-05-12 20:56:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈維拉航運第一季度營業利潤為1.205億挪威克朗。"
+    },
+    {
+      "id": "4875276",
+      "time": "2026-05-12 20:56:19",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【分析：英國政治不確定性或令英鎊和英國國債持續承壓】法國興業銀行的Kit Juckes在一份報告中表示，由於對英國首相基爾·斯塔默未來的不確定性，英鎊和英國國債在未來幾天面臨進一步走弱的風險。“人們的一個擔憂是，權力從斯塔默向任何繼任者的移交可能會進展緩慢。“斯塔默正在頂住要求其辭職的壓力。此外，博彩公司最看好接替他的大曼徹斯特市長Andy Burnham可能難以重返議會。他說，無論發生什麼，未來工黨政策都將經歷一段不確定時期。英鎊下跌0.5%，至1.3537美元。歐元上漲0.25%，至0.8676英鎊。Tradeweb資料顯示，10年期英國國債收益率上升近11個基點，至5.104%。"
+    },
+    {
+      "id": "4875275",
+      "time": "2026-05-12 20:55:55",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "美國至5月9日當週紅皮書商業零售銷售年率 9.6%，前值7.8%。"
+    },
+    {
+      "id": "te:markets:550020",
+      "time": "2026-05-12 20:55:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gold Dips Amid Middle East Tensions and Inflation Pressures — Gold fell below $4,710 an ounce on Tuesday amid heightened Middle East uncertainty and the prolonged shutdown of the Strait of Hormuz, which pushed oil prices higher and kept inflation risks in focus. A rebounding dollar also weighed on bullion. US President Donald Trump stated that the US-Iran ceasefire was on \"massive life support\" after rejecting Tehran’s latest peace proposal, raising concerns that the critical shipping route could remain blocked for an extended period. Reports indicate Trump is set to meet with his national security team to discuss a potential restart of military operations and revisit plans to escort commercial ships through the Strait. On the economic data front, US inflation accelerated to 3.8% in April, the highest since May 2023, while the core rate also exceeded expectations at 2.8%. The data significantly complicates the Federal Reserve's outlook, increasing the likelihood that the expected year-end rate cut may be delayed until 2027."
+    },
+    {
+      "id": "mkt:019e1c41-a704-7dd3-a754-9c99b0e47499",
+      "time": "2026-05-12 20:55:25",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Redbook Retail Sales (YoY) (May.9) | actual 9.6% | previous 7.8%"
+    },
+    {
+      "id": "4875274",
+      "time": "2026-05-12 20:54:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：英國議員亞歷克斯·戴維斯-瓊斯是第三位辭職的英國大臣。她表示，“我懇請你（英國首相斯塔默）為國家利益行事，並拿出你的離職時間表。”"
+    },
+    {
+      "id": "4875273",
+      "time": "2026-05-12 20:54:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所（ICE）：5月可可期貨交割申報共50份，總量為625手。"
+    },
     {
       "id": "4875272",
       "time": "2026-05-12 20:52:53",
@@ -129886,50 +129949,6 @@
         "國際"
       ],
       "text": "【部分歐洲監管機構對特斯拉FSD安全持懷疑態度】特斯拉執行長埃隆・馬斯克表示，他有信心歐盟很快將批准這家車企的全自動駕駛系統。但部分歐洲監管機構的郵件顯示，他們對這項技術及其宣稱的安全效益持明顯懷疑態度。據報道，郵件顯示，荷蘭、瑞典、芬蘭、丹麥和挪威的監管機構對這項技術提出了多項顧慮，而這些國家在馬斯克推動FSD獲批的程序中擁有關鍵話語權。 監管方擔憂的問題包括：系統存在超速傾向、在結冰路面行駛的安全性，以及駕駛員能否繞過車載防手機使用的管控功能。 監管機構還對特斯拉的做法表示不滿——該公司公開號召車主向監管部門施壓，要求放行全自動駕駛系統。 歐盟委員會將於週二聽取荷蘭官員解釋批准特斯拉FSD的理由。"
-    },
-    {
-      "id": "4861418",
-      "time": "2026-05-05 20:56:39",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "土耳其央行行長：通脹預期仍高於我們的通脹預測。"
-    },
-    {
-      "id": "4861417",
-      "time": "2026-05-05 20:55:58",
-      "tags": [
-        "資料",
-        "國際"
-      ],
-      "text": "美國至5月2日當週紅皮書商業零售銷售年率 7.8%，前值7.7%。"
-    },
-    {
-      "id": "4861416",
-      "time": "2026-05-05 20:55:49",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "土耳其央行：通脹前景面臨緊張風險持續。"
-    },
-    {
-      "id": "4861415",
-      "time": "2026-05-05 20:54:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "Shopify高管：公司內部應用人工智慧正讓所有職能部門運轉提速，透過有規劃地使用人工智慧，員工人均產出正得到提升。"
-    },
-    {
-      "id": "4861414",
-      "time": "2026-05-05 20:54:10",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "印尼央行行長：與經濟基本面相比，印尼盾當前估值偏低。貶值由季節性因素導致，印尼央行將在在岸與離岸市場出手干預以穩定。"
     }
   ]
 }
