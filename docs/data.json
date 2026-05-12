@@ -1,7 +1,97 @@
 {
-  "updated": "2026-05-12 09:14:29",
-  "count": 13975,
+  "updated": "2026-05-12 09:17:51",
+  "count": 13981,
   "items": [
+    {
+      "id": "mkt:019e19c2-e420-7dd9-b927-ba6306732692",
+      "time": "2026-05-12 09:17:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "CHINA SETS YUAN MID-POINT AT STRONGEST LEVEL SINCE MARCH 24, 2023"
+    },
+    {
+      "id": "4873661",
+      "time": "2026-05-12 09:17:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【湖北宜化等投資成立科技開發新公司】企查查APP顯示，近日，湖北宜創科技開發有限公司成立，經營範圍包含：科技中介服務；工程和技術研究和試驗發展；數字技術服務等。企查查股權穿透顯示，該公司由湖北宜化等共同持股。"
+    },
+    {
+      "id": "4873659",
+      "time": "2026-05-12 09:16:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【寶能地產被凍結16.8億股權#】天眼查App顯示，中山朗勁投資有限公司新增一則股權凍結資訊，被執行人為寶能地產股份有限公司，凍結股權數額16.8億餘元，凍結期限為3年，執行法院為廣東省深圳市中級人民法院。 中山朗勁投資有限公司成立於2015年6月，法定代表人為邊峰，註冊資本約40.8億人民幣，經營範圍包括投資興辦實業、受託管理非公開募集基金、股權投資等，由寶能地產股份有限公司、深圳深業物流集團股份有限公司共同持股。"
+    },
+    {
+      "id": "mkt:019e19c1-cccc-7dd9-b927-b3a4b97cf104",
+      "time": "2026-05-12 09:16:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SEOUL STOCK MARKET'S KOSPI TURNS DOWN, REVERSING EARLY GAIN OF 2.27%"
+    },
+    {
+      "id": "mkt:019e19c1-9208-7dd9-b927-a90b9f1f4061",
+      "time": "2026-05-12 09:16:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "PBOC SETS MIDPOINT FOR USD/CNY AT 6.8426, DOWN 41 PIPS"
+    },
+    {
+      "id": "4873658",
+      "time": "2026-05-12 09:15:47",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "首爾股市韓國綜合股價指數轉跌，此前錄得2.27%的早盤漲幅現已回吐。"
+    },
+    {
+      "id": "4873657",
+      "time": "2026-05-12 09:15:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【天壇公園5月13日至14日暫停開放】天壇公園5月13日至14日暫停開放，感謝您的理解與配合。（北京日報）"
+    },
+    {
+      "id": "4873656",
+      "time": "2026-05-12 09:15:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "人民幣兌美元中間價報6.8426元，較上日調高41點。"
+    },
+    {
+      "id": "4873655",
+      "time": "2026-05-12 09:15:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨日盤開盤漲0.32%，報26297.44點，低水109.40點。"
+    },
+    {
+      "id": "4873654",
+      "time": "2026-05-12 09:14:50",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "五年期日本國債收益率升至1.915%，創歷史新高。"
+    },
     {
       "id": "4873653",
       "time": "2026-05-12 09:14:14",
@@ -123828,44 +123918,6 @@
         "公司"
       ],
       "text": "【今天全國鐵路預計傳送旅客2300萬人次】假期接近尾聲，鐵路迎來返程客流高峰，客流持續保持高位執行。記者從國鐵集團瞭解到，今天，全國鐵路預計傳送旅客2300萬人次，計劃加開旅客列車2225列。昨天，全國鐵路傳送旅客2038.3萬人次，運輸安全平穩有序。（央視新聞）"
-    },
-    {
-      "id": "te:547623",
-      "time": "2026-05-05 09:16:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "US Natgas Prices Hover Near 4-Week Highs — US natural gas futures fell to $2.84 per MMBtu, though they remained near a four-week high, supported by declining output. Production has trended lower in recent months, as major producers such as EQT have scaled back activity in response to weak spot prices. While earlier mild spring weather enabled stronger-than-usual storage injections, the recent drop in production, along with cooler conditions and firmer demand, likely narrowed the inventory surplus to around 7% above seasonal norms in the week ended May 1, down from 8% in the previous week. Meanwhile, temperatures are expected to remain broadly near normal through May 19, limiting sharp swings in demand. LNG export flows have also softened, averaging 17.4 bcfd so far in May, compared with April’s record of 18.8 bcfd."
-    },
-    {
-      "id": "te:markets:547623",
-      "time": "2026-05-05 09:16:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "US Natgas Prices Hover Near 4-Week Highs — US natural gas futures fell to $2.84 per MMBtu, though they remained near a four-week high, supported by declining output. Production has trended lower in recent months, as major producers such as EQT have scaled back activity in response to weak spot prices. While earlier mild spring weather enabled stronger-than-usual storage injections, the recent drop in production, along with cooler conditions and firmer demand, likely narrowed the inventory surplus to around 7% above seasonal norms in the week ended May 1, down from 8% in the previous week. Meanwhile, temperatures are expected to remain broadly near normal through May 19, limiting sharp swings in demand. LNG export flows have also softened, averaging 17.4 bcfd so far in May, compared with April’s record of 18.8 bcfd."
-    },
-    {
-      "id": "4860454",
-      "time": "2026-05-05 09:15:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒指期貨日盤開盤跌0.29%，報25819.90點，低水275.98點。"
-    },
-    {
-      "id": "4860453",
-      "time": "2026-05-05 09:15:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗媒體5日援引伊朗軍方訊息人士的話報道說，美軍襲擊的不是伊朗伊斯蘭革命衛隊的作戰艦艇，而是“兩艘載有乘客的小船”，襲擊造成船上5名平民乘客死亡。（新華社）"
     }
   ]
 }
