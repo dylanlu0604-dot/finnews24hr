@@ -1,7 +1,54 @@
 {
-  "updated": "2026-05-12 08:00:36",
+  "updated": "2026-05-12 08:03:58",
   "count": 13899,
   "items": [
+    {
+      "id": "te:economy:549766",
+      "time": "2026-05-12 08:03:27",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Senegal",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Senegal Inflation Holds at 3-Month High — The annual inflation rate in Senegal stood at 1.4% in April 2026, unchanged from March’s three-month high. The main upward pressure came from food and non-alcoholic beverages inflation, which remained elevated at 1.7%, unchanged from March. On a monthly basis, the CPI fell 0.5%, reversing a 0.2% rise in March."
+    },
+    {
+      "id": "4873337",
+      "time": "2026-05-12 08:02:22",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數上漲2.1%，至7989.80點，創下歷史新高。"
+    },
+    {
+      "id": "4873336",
+      "time": "2026-05-12 08:01:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "滙豐銀行：預計證券將獲准納入愛爾蘭證券交易所全球交易市場（GEM）正式名單並進行交易。"
+    },
+    {
+      "id": "4873335",
+      "time": "2026-05-12 08:01:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "滙豐擬發行15億美元、票息6.750%的永續次級或有可轉換債券。"
+    },
+    {
+      "id": "4873334",
+      "time": "2026-05-12 08:00:40",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）開盤報7953.41點，上漲1.7%。"
+    },
     {
       "id": "4873333",
       "time": "2026-05-12 08:00:20",
@@ -123117,54 +123164,6 @@
         "市場"
       ],
       "text": "澳大利亞標普/澳證200指數早盤下跌0.5%，報8657.40點。"
-    },
-    {
-      "id": "te:547603",
-      "time": "2026-05-05 08:02:59",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "US Futures Flat After Tepid Session — US stock futures were little changed on Tuesday after the major averages declined in the prior session, pressured by renewed violence in the Middle East that threatened to derail the four-week ceasefire between the US and Iran. US forces repelled Iranian attacks while escorting two US-flagged vessels through the Strait of Hormuz, while the UAE reported intercepting cruise missiles launched by Iran and attributed a major fire at its Fujairah port to a drone strike. In Monday’s regular trading, the Dow dropped 1.13%, the S&P 500 fell 0.41%, and the Nasdaq Composite slipped 0.19%. Ten of the 11 S&P sectors closed in negative territory, with materials, industrials, and consumer staples leading the declines. Investors now shift focus to a slate of corporate earnings due Tuesday, including results from AMD, Arista Networks, Pfizer, Duke Energy, and PayPal. On the macro front, traders will monitor the latest US services activity data along with the JOLTs Job Openings report."
-    },
-    {
-      "id": "te:markets:547603",
-      "time": "2026-05-05 08:02:59",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "US Futures Flat After Tepid Session — US stock futures were little changed on Tuesday after the major averages declined in the prior session, pressured by renewed violence in the Middle East that threatened to derail the four-week ceasefire between the US and Iran. US forces repelled Iranian attacks while escorting two US-flagged vessels through the Strait of Hormuz, while the UAE reported intercepting cruise missiles launched by Iran and attributed a major fire at its Fujairah port to a drone strike. In Monday’s regular trading, the Dow dropped 1.13%, the S&P 500 fell 0.41%, and the Nasdaq Composite slipped 0.19%. Ten of the 11 S&P sectors closed in negative territory, with materials, industrials, and consumer staples leading the declines. Investors now shift focus to a slate of corporate earnings due Tuesday, including results from AMD, Arista Networks, Pfizer, Duke Energy, and PayPal. On the macro front, traders will monitor the latest US services activity data along with the JOLTs Job Openings report."
-    },
-    {
-      "id": "4860411",
-      "time": "2026-05-05 08:02:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "【伯克希爾選定通用再保險董事長，接任保險核心干將阿吉特·賈恩】據知情人士透露，伯克希爾哈撒韋已敲定由通用再保險董事長查理·沙米耶，接任深耕保險業務多年的核心操盤手阿吉特·賈恩，旨在確保集團最核心業務板塊實現平穩領導層交接。 知情人士稱，待賈恩決定退休後，沙米耶將接手執掌伯克希爾龐大的保險業務板塊。現年74歲的賈恩，被伯克希爾董事長沃倫·巴菲特評價為無可替代，目前尚未釋放任何卸任訊號，預計短期內仍將留任現有職位。（環球市場播報）"
-    },
-    {
-      "id": "4860410",
-      "time": "2026-05-05 08:01:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "【提醒：日韓股市今日休市】日韓股市05月05日(星期二)休市。"
-    },
-    {
-      "id": "4860409",
-      "time": "2026-05-05 08:01:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息： 伯克希爾選定查理・沙米耶為保險業務副總裁阿吉特・賈恩繼任者。"
     }
   ]
 }
