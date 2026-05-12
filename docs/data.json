@@ -1,7 +1,51 @@
 {
-  "updated": "2026-05-12 10:05:12",
-  "count": 14035,
+  "updated": "2026-05-12 10:08:34",
+  "count": 14038,
   "items": [
+    {
+      "id": "4873874",
+      "time": "2026-05-12 10:08:24",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【鉛鋅板塊短線走低】鉛鋅板塊短線走低，中金嶺南跌超9%，鋅業股份、西藏珠峰、馳宏鋅鍺、中色股份等跟跌。"
+    },
+    {
+      "id": "4873864",
+      "time": "2026-05-12 10:06:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【交通運輸部關於處罰9家國際集裝箱班輪運輸公司和7家無船承運業務經營者的通告】2025年8月、9月、11月，交通運輸部分別在廣州、青島、寧波口岸組織對國際集裝箱班輪運輸公司和無船承運業務經營者的運價備案執行情況開展了檢查，共發現9家國際集裝箱班輪運輸公司、7家無船承運業務經營者（名單後附）存在未履行運價備案手續或實際執行運價與備案價格不一致等違規行為。我部依據《中華人民共和國國際海運條例》第三十八條規定，對上述企業實施了行政處罰，並對違規情節嚴重的企業進行了約談。為加強國際集裝箱班輪運輸和無船承運市場的監管，強化社會監督，現依據《中華人民共和國行政處罰法》，將被處罰的企業予以通告。請國際集裝箱班輪運輸公司和無船承運業務經營者引以為戒，完善企業運價備案工作制度，做到責任到人，切實履行好運價備案義務。下一步，我部及經部授權的省級交通運輸主管部門將加大對企業運價備案執行情況的檢查力度，依法糾正違規行為。"
+    },
+    {
+      "id": "te:markets:549806",
+      "time": "2026-05-12 10:06:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "US Natgas Prices Hit Over 6-Week High — US natural gas futures rose to $2.91 per MMBtu, the highest level in more than six weeks, supported by declining production and the restart of a liquefaction train at Freeport LNG’s export facility. Output across the Lower 48 states has trended lower in recent weeks as major producers, including EQT, scaled back activity due to low spot prices. Additionally, a liquefaction train at Freeport LNG export terminal in Texas has reportedly resumed operations following a brief shutdown caused by a compressor issue. Analysts noted that LNG exports continue to provide strong support to prices, although flows to certain terminals have eased from record levels amid seasonal maintenance. Meanwhile, weather forecasts point to mostly near-normal temperatures through May 26, with cooling needs gradually replacing late-season heating demand."
+    },
+    {
+      "id": "4873857",
+      "time": "2026-05-12 10:06:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲1%，現報105.30美元/桶。"
+    },
+    {
+      "id": "4873854",
+      "time": "2026-05-12 10:05:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國農村供水保障程度顯著提升】從水利部瞭解到，“十四五”以來，我國農村供水保障程度顯著提升，提前兩年實現“十四五”規劃目標。截至2025年底，全國農村自來水普及率達到96%，規模化供水工程覆蓋農村人口比例達到71%，縣域統管比例達到72%。截至2025年底，全國現有381.6萬處農村供水工程，形成覆蓋8.5億農村人口的供水保障網路，邊遠山區和用水困難地區逐步用上自來水。"
+    },
     {
       "id": "4873847",
       "time": "2026-05-12 10:02:42",
@@ -124368,22 +124412,6 @@
         "Importance 1"
       ],
       "text": "Taiwan Stocks Slip on Profit-Taking, Stay Above 40,000 — The TAIEX, Taiwan’s benchmark stock index, fell 134 points, or 0.3%, to 40,051 in morning trade on Tuesday, halting gains from the previous session, as traders took profits after the index hit a record high on Monday amid optimism over AI infrastructure demand. Losses in electronic technology and technology services stocks mainly drove the decline. A downbeat session on Wall Street overnight also pressured sentiment, amid worries that higher oil prices could fuel inflation following a new escalation in the Middle East. However, the index remained above the 40,000 level after surging 4.6% on Monday, closing above the 40,000-point mark for the first time, at 40,705, led by large-cap semiconductor stocks. Contract chipmaker TSMC, which accounts for more than 40% of total market value, fell 1.3% after jumping in the previous session. Other early losers included Delta Electronics (-2.2%), Unimicron Tech (-1.1%), and International Games System (-0.7%)."
-    },
-    {
-      "id": "4860494",
-      "time": "2026-05-05 10:07:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "港股半導體股延續昨日強勢，瀾起科技(06809.HK)漲超6.5%，晶門半導體(02878.HK)漲超3.5%，芯智控股(02166.HK)漲超3%，中電華大科技(00085.HK)、兆易創新(03986.HK)均漲1%。"
-    },
-    {
-      "id": "4860493",
-      "time": "2026-05-05 10:05:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "力拓集團：索迪斯獲授力拓皮爾巴拉地區設施管理合同，這份七年期合同將於2026年6月啟動，並且附有額外延長三年的選擇權。"
     }
   ]
 }
