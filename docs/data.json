@@ -1,7 +1,136 @@
 {
-  "updated": "2026-05-13 01:56:02",
-  "count": 14760,
+  "updated": "2026-05-13 01:59:27",
+  "count": 14769,
   "items": [
+    {
+      "id": "4875734",
+      "time": "2026-05-13 01:59:13",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：我仍對利率將大幅下調持樂觀態度，但前提是通脹方面要取得進展。"
+    },
+    {
+      "id": "4875733",
+      "time": "2026-05-13 01:59:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：會在合適的時機談論古巴問題。"
+    },
+    {
+      "id": "4875732",
+      "time": "2026-05-13 01:58:55",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：目前美聯儲不需要進行艱難的平衡調控。"
+    },
+    {
+      "id": "mkt:019e1d57-1b15-7772-877b-fa11bd576641",
+      "time": "2026-05-13 01:58:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "TRUMP ON RUSSIAN OIL WAIVER: WILL DO WHATEVER IS REQUIRED"
+    },
+    {
+      "id": "4875731",
+      "time": "2026-05-13 01:58:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：古巴是一個失敗的國家。"
+    },
+    {
+      "id": "mkt:019e1d56-7a3e-7772-877b-f3584ccb4147",
+      "time": "2026-05-13 01:57:44",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "TRUMP: OUR INFLATION IS SHORT-TERM"
+    },
+    {
+      "id": "mkt:019e1d56-0ec7-7772-877b-ec19a3e5397e",
+      "time": "2026-05-13 01:57:18",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "TRUMP: YOU'RE GONNA HAVE A GUSHER OF OIL LIKE YOU'VE NEVER HAD BEFORE. WE ASSUMED OIL WOULD GO MUCH HIGHER"
+    },
+    {
+      "id": "4875730",
+      "time": "2026-05-13 01:56:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們的通貨膨脹是短期的。"
+    },
+    {
+      "id": "4875729",
+      "time": "2026-05-13 01:56:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及俄羅斯石油豁免政策：將採取一切必要舉措。"
+    },
+    {
+      "id": "4875728",
+      "time": "2026-05-13 01:56:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：將拭目以待與伊朗停火的事態發展。對伊朗的制裁非常有效，之前德黑蘭透過霍爾木茲海峽獲得了大量資金。我們已經消滅了伊朗軍隊。（關於通貨膨脹）我的政策正在發揮作用。"
+    },
+    {
+      "id": "mkt:019e1d56-0880-7772-877b-e0c45a901859",
+      "time": "2026-05-13 01:56:15",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "TRUMP TOUTS LAST THREE MONTHS INFLATION LEVEL"
+    },
+    {
+      "id": "mkt:019e1d55-75b2-7772-877b-deb458d78b56",
+      "time": "2026-05-13 01:55:23",
+      "tags": [
+        "MKT News",
+        "005930.KS"
+      ],
+      "text": "SAMSUNG ELEC, SOUTH KOREAN LABOUR UNION FAIL TO REACH PAY DEAL -UNION"
+    },
+    {
+      "id": "mkt:019e1d54-e16a-7772-877b-d40f9ce154d9",
+      "time": "2026-05-13 01:54:50",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "TRUMP ON IRAN: BLOCKADE HAS BEEN EFFECTIVE"
+    },
     {
       "id": "4875727",
       "time": "2026-05-13 01:54:39",
@@ -131440,38 +131569,6 @@
         "國際"
       ],
       "text": "OpenAI：推出測試版自助廣告管理工具，允許美國廣告主自行註冊並直接購買廣告投放，廣告將展示在ChatGPT中。"
-    },
-    {
-      "id": "4861932",
-      "time": "2026-05-06 01:58:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI：將在持續測試和最佳化使用者體驗的過程中，逐步向更多商家開放廣告管理工具。"
-    },
-    {
-      "id": "4861931",
-      "time": "2026-05-06 01:58:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI：今日，我們開始在ChatGPT中推出自助廣告管理工具公測版。"
-    },
-    {
-      "id": "4861930",
-      "time": "2026-05-06 01:58:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗總統辦公室主任：總統與革命衛隊指揮官不存在分歧】據伊朗塔斯尼姆通訊社5日報道，伊朗總統辦公室主任哈吉·米爾薩伊就有關總統佩澤希齊揚與伊朗伊斯蘭革命衛隊指揮官存在分歧的傳聞作出回應，明確予以否認。他表示，在總統與相關指揮官共同出席的各類會議中，所有決策均以一致意見透過，不存在分歧情況。當天早些時候，伊朗總統辦公室一名官員否認有關佩澤希齊揚可能辭職的傳聞，稱相關說法為部分媒體為炒作熱點而製造的謠言。（新華社）"
-    },
-    {
-      "id": "4861929",
-      "time": "2026-05-06 01:57:27",
-      "tags": [
-        "市場"
-      ],
-      "text": "蘋果市值超越白銀，躋身全球市值第四大資產。"
     }
   ]
 }
