@@ -1,7 +1,86 @@
 {
-  "updated": "2026-05-12 23:55:54",
-  "count": 14709,
+  "updated": "2026-05-13 00:01:23",
+  "count": 14708,
   "items": [
+    {
+      "id": "4875649",
+      "time": "2026-05-12 23:58:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：奧地利軍方在兩天內兩次緊急出動颱風戰鬥機，原因是美軍軍機未經許可擅自闖入奧地利領空。 涉事機型確認為美國空軍 PC-12/U-28A 偵察機，遭攔截後隨即返航。"
+    },
+    {
+      "id": "mkt:019e1ce7-f2b5-7cc6-9aba-0de57a3aa98f",
+      "time": "2026-05-12 23:57:03",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "ICE GASOIL MAY FUTURES SETTLE AT $1,178.50 A TON"
+    },
+    {
+      "id": "mkt:019e1ce7-d460-7cc6-9aba-005e5cc70189",
+      "time": "2026-05-12 23:56:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "5.6 MAG. EARTHQUAKE 96 KM W OF LATA SOLOMON ISLANDS :USGS"
+    },
+    {
+      "id": "mkt:019e1ce7-ba49-7cc6-9ab9-fc2b340cb8c1",
+      "time": "2026-05-12 23:56:48",
+      "tags": [
+        "MKT News",
+        "PBR.N",
+        "Impact bearish"
+      ],
+      "text": "PETROBRAS UNLIKELY TO PAY EXTRA ORDINARY DIVIDEND THIS YEAR"
+    },
+    {
+      "id": "4875648",
+      "time": "2026-05-12 23:56:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "巴西石油公司執行長：公司正開拓墨西哥、非洲新市場，且極有可能也會進軍委內瑞拉市場。"
+    },
+    {
+      "id": "mkt:019e1ce7-a1a3-7cc6-9ab9-f051001b8741",
+      "time": "2026-05-12 23:56:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "PETROBRAS CEO SAYS FIRM IS LOOKING FOR NEW MARKETS IN MEXICO, AFRICA AND 'VERY LIKELY' WILL ALSO DO SO IN VENEZUELA"
+    },
+    {
+      "id": "4875647",
+      "time": "2026-05-12 23:56:27",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美國天然氣期貨跌超3.00%，現報3.034美元/百萬英熱。"
+    },
+    {
+      "id": "mkt:019e1ce6-fd55-7cc6-9ab9-ed1b38bc4797",
+      "time": "2026-05-12 23:56:00",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OPENAI CEO SAM ALTMAN IS CALLED TO THE WITNESS STAND AT TRIAL IN ELON MUSK'S LAWSUIT"
+    },
+    {
+      "id": "4875646",
+      "time": "2026-05-12 23:55:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "OpenAI執行長奧爾特曼在埃隆・馬斯克的訴訟案庭審中被傳喚出庭作證。"
+    },
     {
       "id": "te:markets:550057",
       "time": "2026-05-12 23:54:56",
@@ -130670,93 +130749,6 @@
         "國際"
       ],
       "text": "烏克蘭緊急服務部門表示，俄羅斯襲擊扎波羅熱造成的死亡人數已升至9人。"
-    },
-    {
-      "id": "4861806",
-      "time": "2026-05-06 00:00:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿拉斯加航空簽約採購波音虛擬飛機培訓平臺。"
-    },
-    {
-      "id": "4861805",
-      "time": "2026-05-06 00:00:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟委員會表示，歐盟貿易專員塞夫科維奇呼籲美國迅速恢復在特恩貝里達成的協議關稅條款。。"
-    },
-    {
-      "id": "4861804",
-      "time": "2026-05-05 23:59:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "豐田將採用氫燃料電池卡車開展美國境內整車運輸。"
-    },
-    {
-      "id": "4861803",
-      "time": "2026-05-05 23:59:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "法院檔案顯示：美國聯邦航空管理局承包商被控威脅特朗普。"
-    },
-    {
-      "id": "4861802",
-      "time": "2026-05-05 23:58:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "馬拉松石油表示，中陸地區目前是其業務體系中表現最強勁的市場。"
-    },
-    {
-      "id": "4861801",
-      "time": "2026-05-05 23:57:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "馬拉松石油表示，中大陸地區汽油與柴油庫存極度緊張。"
-    },
-    {
-      "id": "te:markets:547979",
-      "time": "2026-05-05 23:56:59",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "FTSE 100 Falls, HSBC Drops by Over 6% — The FTSE 100 dropped more than 1% on Tuesday, with HSBC Holdings weighing heavily on the index after a disappointing earnings report. The bank’s shares fell over 6% as first-quarter profit missed forecasts due to an unexpected fraud-related charge in the UK, despite strong performance in its wealth and Hong Kong divisions. HSBC said it remains well-positioned to handle global uncertainty, including risks linked to Middle East tensions, and raised its net interest income outlook. Other major stocks also declined, with AstraZeneca down about 1%, Unilever falling 3.2%, and GSK slipping 2.6%. Shell was a bright spot, rising 0.8% on firmer energy prices. Overall sentiment stayed cautious amid US-Iran tensions."
-    },
-    {
-      "id": "4861800",
-      "time": "2026-05-05 23:56:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "黑石信貸主管德拉特：AI溢位效應將蔓延至債務市場。"
-    },
-    {
-      "id": "4861799",
-      "time": "2026-05-05 23:56:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟告知美方須在7月前落實貿易協議的核心條款。"
-    },
-    {
-      "id": "te:markets:547978",
-      "time": "2026-05-05 23:56:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Copper Recovers from Week Losses — Copper futures in the US rose to over $5.95 per pound on Tuesday, the highest in a week, as energy prices eased off their peaks and eased concerns of lower demand for manufacturing across major economies. The US and Iran refrained from significant escalation to their war following strikes yesterday, easing inflationary risks that were pressuring industrial metals. Copper futures were around 15% higher this year, remaining close to their record high of $6.2 in late January as the war also dented supply of the metal. Top producer Chile faces supply risks as the conflict disrupts sulphur flows to China, prompting Beijing to curb exports of sulphuric acid, an input critical to nearly half of Chile’s copper refining capacity. On top of that, major tech companies continued to sign agreements that exponentially increase datacenter construction, supporting the outlook for copper due to its utility in electrification and grid technology."
     }
   ]
 }
