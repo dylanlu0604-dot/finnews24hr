@@ -1,7 +1,45 @@
 {
-  "updated": "2026-05-12 08:03:58",
-  "count": 13899,
+  "updated": "2026-05-12 08:07:21",
+  "count": 13900,
   "items": [
+    {
+      "id": "4873340",
+      "time": "2026-05-12 08:06:59",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本東證指數上漲1%，至3879.55。"
+    },
+    {
+      "id": "te:economy:549767",
+      "time": "2026-05-12 08:05:56",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Foreign Exchange Reserves",
+        "Importance 0"
+      ],
+      "text": "Japan Forex Reserves Rise in April — Japan’s foreign reserves rose by USD 8.25 billion to USD 1.38 trillion in April 2026, from a three-month low of USD 1.37 trillion in the previous month. The reserves consisted of USD 1.17 trillion in foreign currency assets, USD 11.27 billion in the IMF reserve position, USD 61.05 billion in SDRs, USD 125.43 billion in gold, and 15.82 billion in other reserve assets."
+    },
+    {
+      "id": "4873339",
+      "time": "2026-05-12 08:04:26",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "軟銀集團股價上漲3.3%。"
+    },
+    {
+      "id": "4873338",
+      "time": "2026-05-12 08:04:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普在白宮玫瑰園俱樂部晚宴上發表講話：如有需要，將幫助紐約和洛杉磯。"
+    },
     {
       "id": "te:economy:549766",
       "time": "2026-05-12 08:03:27",
@@ -123132,38 +123170,6 @@
         "Importance 0"
       ],
       "text": "Kazakhstan Inflation Rate Hits 13-Month Low — The annual inflation rate in Kazakhstan slowed to 10.6% in April 2026 from 11% in the previous month, marking its lowest reading since March 2025. The main downward pressure came from food and non-alcoholic beverages (4.5% vs 4.7% in March), while inflation remained unchanged for housing and utilities (0.6%), transport (1%), alcoholic beverages and tobacco (0.2%), household items (0.5%), communication (0.3%), education (0.2%), restaurants and hotels (0.2%), and miscellaneous goods and services (1%). In contrast, costs increased at a faster pace for clothing and footwear (0.9% vs 0.1%). On a monthly basis, consumer prices edged up to 0.8% from 0.6% in March."
-    },
-    {
-      "id": "te:547605",
-      "time": "2026-05-05 08:07:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Currency",
-        "Importance 2"
-      ],
-      "text": "Aussie Stays Firm Ahead of RBA Decision — The Australian dollar held its recent decline to below $0.72 on Tuesday, but remained near four-year highs as markets positioned ahead of a widely expected rate hike from the Reserve Bank later today. A quarter-point rise in the 4.1% cash rate is priced with an 85% probability, which would return it to its post-COVID peak of 4.35% when inflation was above 7%. A further move to 4.60% is priced by September, with a more than 50% chance of a third hike by year-end. However, a split vote today similar to the March meeting could scale back expectations for additional hikes and weigh on the Aussie. The currency has been the second-best G10 performer this year, but rising risks to economic growth from a prolonged Middle East conflict may lead the central bank to slow its tightening cycle after today’s decision, limiting further upside. Meanwhile, fresh data showed the composite PMI returned to expansion at 50.4, as services activity recovered, while manufacturing production continued to fall."
-    },
-    {
-      "id": "te:markets:547605",
-      "time": "2026-05-05 08:07:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Currency",
-        "Importance 2"
-      ],
-      "text": "Aussie Stays Firm Ahead of RBA Decision — The Australian dollar held its recent decline to below $0.72 on Tuesday, but remained near four-year highs as markets positioned ahead of a widely expected rate hike from the Reserve Bank later today. A quarter-point rise in the 4.1% cash rate is priced with an 85% probability, which would return it to its post-COVID peak of 4.35% when inflation was above 7%. A further move to 4.60% is priced by September, with a more than 50% chance of a third hike by year-end. However, a split vote today similar to the March meeting could scale back expectations for additional hikes and weigh on the Aussie. The currency has been the second-best G10 performer this year, but rising risks to economic growth from a prolonged Middle East conflict may lead the central bank to slow its tightening cycle after today’s decision, limiting further upside. Meanwhile, fresh data showed the composite PMI returned to expansion at 50.4, as services activity recovered, while manufacturing production continued to fall."
-    },
-    {
-      "id": "4860413",
-      "time": "2026-05-05 08:06:54",
-      "tags": [
-        "市場"
-      ],
-      "text": "澳大利亞標普/澳證200指數早盤下跌0.5%，報8657.40點。"
     }
   ]
 }
