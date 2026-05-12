@@ -1,7 +1,27 @@
 {
-  "updated": "2026-05-13 00:17:26",
-  "count": 14735,
+  "updated": "2026-05-13 00:20:51",
+  "count": 14733,
   "items": [
+    {
+      "id": "4875668",
+      "time": "2026-05-13 00:19:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "黎巴嫩衛生部長表示，自 3 月 2 日以來，以色列已針對救護車及民防救援人員發動 163 次襲擊，造成 108 名醫護及救援人員殉難。"
+    },
+    {
+      "id": "mkt:019e1cfc-a8e8-7772-8779-a9f466834a0f",
+      "time": "2026-05-13 00:19:40",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Brent"
+      ],
+      "text": "【US EIA to Launch Quarterly Energy Security Report Tracking Hormuz Flows and Global Reserves】The US Energy Information Administration will begin publishing quarterly reports on global strategic petroleum reserves and oil and LNG flows through shipping choke points starting Wednesday. The new datasets are intended to provide insight into how the war in Iran has disrupted energy supplies and altered oil-market assumptions. EIA Administrator Tristan Abbey said the timing of resumed flows through the Strait of Hormuz and Middle East output recovery remain key factors in the agency’s price forecasts through year-end."
+    },
     {
       "id": "mkt:019e1cf9-df39-7772-8779-a30222c42e4b",
       "time": "2026-05-13 00:16:32",
@@ -131016,39 +131036,6 @@
         "國際"
       ],
       "text": "美國前財長姆努欽：美國債務問題不存在應急兜底的解決方案。"
-    },
-    {
-      "id": "4861832",
-      "time": "2026-05-06 00:19:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "德國商業銀行執行長：裕信銀行的收購報價未包含溢價，這不合常理。"
-    },
-    {
-      "id": "4861831",
-      "time": "2026-05-06 00:19:22",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "摩根大通CEO戴蒙看好萬億美元人工智慧資本支出熱潮。"
-    },
-    {
-      "id": "4861830",
-      "time": "2026-05-06 00:18:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "德國外交部長表示，加沙地帶的人道主義援助必須緊急改善。"
-    },
-    {
-      "id": "4861829",
-      "time": "2026-05-06 00:17:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "黑石集團與 KKR 集團正與谷歌展開洽談，計劃讓兩家機構旗下所投企業接入谷歌的人工智慧模型。"
     }
   ]
 }
