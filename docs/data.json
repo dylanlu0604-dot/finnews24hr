@@ -1,7 +1,57 @@
 {
-  "updated": "2026-05-13 07:46:58",
-  "count": 14882,
+  "updated": "2026-05-13 07:50:27",
+  "count": 14883,
   "items": [
+    {
+      "id": "mkt:019e1e99-0c3d-7772-877e-a9738638a793",
+      "time": "2026-05-13 07:50:06",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Outstanding Bank Loan (YoY) (Apr) | actual 5.4% | previous 4.80%"
+    },
+    {
+      "id": "4876006",
+      "time": "2026-05-13 07:50:03",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【在伊朗衝突存在不確定性之際 日經指數可能下跌】隨著對伊朗衝突及其經濟影響的不確定性持續存在，日本股市可能下跌。新加坡交易所的日經指數期貨下跌0.2%，至62420點。隔夜公佈的政府資料顯示，受汽油價格上漲推動，4月份美國消費者物價漲幅較上年同期達到3.8%。投資者正關注中東局勢的發展以及日本企業的盈利情況。日經指數週二上漲0.5%，至62742.57點。"
+    },
+    {
+      "id": "mkt:019e1e98-f8b1-7772-877e-a174177359a7",
+      "time": "2026-05-13 07:50:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Current Account USA (Mar) | actual 4681500000000B | consensus 3879400000000B | previous 3932700000000B"
+    },
+    {
+      "id": "4876005",
+      "time": "2026-05-13 07:48:08",
+      "tags": [
+        "資料",
+        "央行",
+        "國際"
+      ],
+      "text": "【專家：當前降準降息仍有空間 但上半年落地必要性不強】中國首席經濟學家論壇理事長、國際金融研究院院長連平表示，儘管我國存在階段性輸入性通脹擾動、CPI在短期內抬升，但並無持續性通脹壓力。而且，國內經濟仍處於調結構的過程中，產能過剩、內需偏弱的供強需弱特徵依然存在，無須過度擔憂物價回升帶來負面衝擊。因此，物價的階段性回升，並不意味著貨幣政策需要收緊。“當前降準降息仍有空間，但上半年落地必要性不強，機率也偏低。”連平表示，國內物價回暖，疊加美聯儲降息預期延後，或制約我國短期內的降息操作。而且，從政策思路看，今年的貨幣政策也不以降準、降息等總量型、價格型政策為重點，政策發力核心轉向結構性貨幣政策工具。"
+    },
+    {
+      "id": "te:markets:550108",
+      "time": "2026-05-13 07:47:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Gold Pressured by Strong US Inflation Data — Gold traded near $4,700 an ounce on Wednesday, facing downward pressure after stronger-than-expected US inflation figures reduced expectations for Federal Reserve rate cuts. US consumer inflation accelerated to 3.8% in April, above market forecasts of 3.7% and the highest reading since May 2023, as escalating energy costs tied to the Middle East conflict pushed prices higher. Investors now expect the Fed to keep interest rates unchanged for the remainder of the year, while markets have begun pricing in the possibility of a rate increase in April next year. President Donald Trump also introduced fresh measures aimed at easing consumer costs, focusing on beef and gasoline prices as his administration faces mounting political pressure ahead of the November midterm elections. Meanwhile, oil prices rallied over the past three sessions as ongoing diplomatic efforts to resolve the US-Iran war continued to stall, keeping concerns over inflation and energy markets firmly in focus."
+    },
     {
       "id": "4876004",
       "time": "2026-05-13 07:45:54",
@@ -132645,46 +132695,6 @@
         "公司"
       ],
       "text": "【全球記憶體告急 蘋果下架多款高效能Mac裝置】5月6日，受全球記憶體短缺危機影響，蘋果線上商店下架了多款高效能Mac裝置。目前，配備32GB和64GB記憶體的Mac mini已無法直接購買，M4 Pro版本的記憶體上限被壓縮至48GB，且256GB固態硬碟版本也被移除，致使該系列起售價升至799美元。同時，Mac Studio系列M3 Ultra版的256GB記憶體選項已取消，目前最高僅提供96GB配置，部分型號送貨時間延長至9-10周。 庫克表示，蘋果低估了使用者本地執行AI工具的需求，預計未來幾個月供需失衡仍將持續。由於預計記憶體成本將顯著上升，蘋果透過削減高配選項以保障基礎型號供應。業內預測，受三星和SK海力士供應限制，記憶體超級週期有望延續至2027年，消費者購買高效能裝置的成本將維持高位。（快科技）"
-    },
-    {
-      "id": "te:markets:548035",
-      "time": "2026-05-06 07:50:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Gold Extends Gains for a Second Session — Gold climbed toward $4,600 an ounce on Wednesday, advancing for a second straight session as signs of de-escalation in the Middle East pushed oil prices lower, helping to alleviate inflation concerns. Defense Secretary Hegseth said the ceasefire established nearly a month ago remains intact, while Secretary of State Rubio confirmed that offensive operations have ended as Washington pivots toward safeguarding shipping routes in the Strait of Hormuz. President Trump also announced a temporary pause in a US-led effort to assist stranded vessels in exiting the strait, allowing time to gauge whether a deal with Iran to end the conflict can be reached, although the blockade on ships traveling to and from Iranian ports will stay in place. Gold has faced significant selling pressure since the onset of the war, as soaring energy costs fueled inflation fears and reinforced expectations that central banks may keep interest rates elevated for longer or potentially tighten further."
-    },
-    {
-      "id": "4862179",
-      "time": "2026-05-06 07:49:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以媒：特朗普近日一度考慮恢復空襲伊朗】據以色列第12頻道電視臺5日以美國高階官員為訊息源報道，就是否恢復對伊朗空襲，美總統特朗普近日立場反覆變化，但暫時按兵不動，以便談判繼續。報道說，特朗普1日一度要下令再次發動空襲，但伊朗當天經由巴基斯坦提交最新談判方案後，他在最後一刻改變了主意，儘管他對這一方案表示“不滿意”。作為替代，特朗普選擇啟動“疏導”霍爾木茲海峽的“自由計劃”行動，同時給外交程序更多時間。報道稱，儘管美政府官員強調，特朗普目前仍傾向於窮盡談判手段，但一些“來自白宮以外的顧問”正向特朗普施壓，要求恢復空襲。一些美國官員警告，如果特朗普接下來幾天相信談判已經進入死衚衕，將下令對伊朗發動一輪“短促而猛烈”的軍事打擊，以打破僵局，迫使伊朗就範。美政府官員告訴第12頻道電視臺，包括總統特使威特科夫、女婿庫什納在內的一些身邊人告訴特朗普，與伊朗的談判正在取得進展，分歧在縮小，但同時強調，即便能與伊朗外交部長阿拉格齊達成協議，也不確定伊朗伊斯蘭革命衛隊是否會接受。據伊朗塔斯尼姆通訊社5日報道，伊朗總統辦公室主任哈吉·米爾薩伊就有關總統佩澤希齊揚與伊朗伊斯蘭革命衛隊指揮官存在分歧的傳聞作出回應，明確予以否認。(新華社)"
-    },
-    {
-      "id": "te:economy:548034",
-      "time": "2026-05-06 07:48:32",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Industry Index Manufacturing",
-        "Importance 1"
-      ],
-      "text": "Australia Manufacturing Stays in Contraction — Australia’s Ai Group Industry Index for manufacturing edged up 0.7 points to -27.9 in April 2026, still deep in contraction as cost and demand pressures persisted. Fixed-price contracts limited firms’ ability to pass on rising input costs, while export disruptions, cautious ordering, and shipment delays drove production cutbacks. Upstream, chemicals saw a moderated decline as demand was brought forward, but other segments struggled with weak confidence, supply disruptions, and rising energy costs. Minerals and metals fell to a record low, hit by softer exports, delayed orders, raw material shortages, and skilled labour constraints. Downstream conditions were uneven: some machinery and equipment makers reported steady demand, but others flagged rising raw material and fuel costs alongside customer uncertainty. Food and beverage producers faced higher input, packaging, and transport costs, with limited pricing power squeezing margins further."
-    },
-    {
-      "id": "4862178",
-      "time": "2026-05-06 07:47:35",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【亞市早盤金價上漲 特朗普暫停“自由專案”以觀望伊朗協議能否最終敲定】在積極的投資者情緒下，金價在早盤交易中上漲。現貨黃金上漲0.6%，報每盎司4,584.89美元。美國總統特朗普在Truth Social上發帖稱，他已同意暫停“自由專案”，這是本屆政府旨在促進商船透過霍爾木茲海峽的倡議。特朗普說：“在與伊朗代表達成全面最終協議方面已經取得了巨大進展。”FOREX.com市場分析師Fawad Razaqzada在一封電子郵件中表示，黃金正越來越多地被視為一種風險敏感型資產。"
     }
   ]
 }
