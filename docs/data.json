@@ -1,7 +1,105 @@
 {
-  "updated": "2026-05-13 00:07:04",
-  "count": 14719,
+  "updated": "2026-05-13 00:10:31",
+  "count": 14725,
   "items": [
+    {
+      "id": "te:markets:550061",
+      "time": "2026-05-13 00:10:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 0.95% Lower — The CAC 40 Index decreased 76 points or 0.95 percent on Tuesday to close at 7980 points. The decline was led by STMicroelectronics (-5.44%), Societe Generale (-4.33%) and Schneider Electric (-3.86%). On the upside, the strongest performers were TotalEnergies SE (1.67%), Danone (1.55%) and L'Oréal (1.41%)."
+    },
+    {
+      "id": "mkt:019e1cf3-c83d-7cc6-9aba-b3e62e13851c",
+      "time": "2026-05-13 00:09:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ISRAELI ARMY: HEZBOLLAH EXPLOSIVE DRONE EXPLODED INSIDE OUR TERRITORY AND THERE ARE NO CASUALTIES"
+    },
+    {
+      "id": "4875661",
+      "time": "2026-05-13 00:08:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【剛果（金）總理：剛中基建合作助力地區互聯互通】剛果（金）總理圖盧卡12日視察金沙薩環線公路專案時說，剛果（金）和中國的基礎設施合作成果正持續推動該國經濟社會發展，不僅改善了當地交通條件，還為地區互聯互通注入動力。圖盧卡說，基礎設施建設對於提升城市執行效率、促進人員和貨物流通、帶動區域經濟發展具有重要意義。她表示，自己曾多次到訪剛中合作專案現場，相關專案凝結著兩國建設者的智慧和汗水，已成為兩國互利合作的重要成果。（新華社）"
+    },
+    {
+      "id": "4875660",
+      "time": "2026-05-13 00:08:12",
+      "tags": [
+        "資料",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "EIA年度能源展望報告：預計2026年全球石油需求為1.042億桶/日，此前預測為1.046億桶/日；預計2027年需求為1.056億桶/日，此前預測為1.062億桶/日。\n預計2026年全球石油產量為1.016億桶/日，此前預測為1.043億桶/日；預計2027年產量為1.095億桶/日，此前預測為1.095億桶/日。\n預計霍爾木茲海峽將關閉至5月底，6月逐步恢復通航，並於2026年晚些時候達到衝突前水平。\n預計4月份伊拉克、沙烏地阿拉伯、科威特、阿聯酋、卡達和巴林共有1050萬桶/日的原油產量被暫停。"
+    },
+    {
+      "id": "mkt:019e1cf2-f6c4-7cc6-9aba-ad1fd10ae766",
+      "time": "2026-05-13 00:07:49",
+      "tags": [
+        "MKT News",
+        "GOOGL.O"
+      ],
+      "text": "GOOGLE IS IN DISCUSSIONS WITH OTHER ROCKET-LAUNCH COMPANIES AS WELL, SOURCE SAYS - WSJ"
+    },
+    {
+      "id": "te:markets:550060",
+      "time": "2026-05-13 00:07:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 0.22% Lower — The FTSE 100 Index fell 22 points or 0.22 percent on Tuesday to close at 10247 points. Leading the losses are Vodafone (-7.77%), Marks & Spencer (-5.43%) and 3i (-4.65%). Top gainers were Intertek (6.88%), British American Tobacco (5.82%) and London Stock Exchange (3.37%)."
+    },
+    {
+      "id": "mkt:019e1cf2-f605-7cc6-9aba-a656d57a81b4",
+      "time": "2026-05-13 00:06:53",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "U.S. CBP ANTICIPATES AS OF MAY 11 PAYING TARIFF REFUNDS WITH INTEREST OF $35.46 BILLION ON 8.3 MILLION ENTRIES -COURT FILING"
+    },
+    {
+      "id": "4875659",
+      "time": "2026-05-13 00:06:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta：推出更多家長專屬洞察功能，幫助家長更好了解青少年在 Instagram 上的演算法推薦機制。"
+    },
+    {
+      "id": "mkt:019e1cf2-f55a-7cc6-9aba-9ddc433962d8",
+      "time": "2026-05-13 00:06:36",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "META: INTRODUCING ADDITIONAL INSIGHTS FOR PARENTS TO BETTER UNDERSTAND THEIR TEEN’S ALGORITHM ON INSTAGRAM"
+    },
+    {
+      "id": "mkt:019e1cf2-c024-7cc6-9aba-9475f196e8b3",
+      "time": "2026-05-13 00:06:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SEN. LINDSAY GRAHAM SLAMS PENTAGON OVER IRAN: 'EVERYTHING Y'ALL DID FAILED' - WSJ"
+    },
     {
       "id": "4875658",
       "time": "2026-05-13 00:05:34",
@@ -9,6 +107,44 @@
         "國際"
       ],
       "text": "法院檔案顯示：美國海關與邊境保護局預計，截至 5 月 11 日，將針對830 萬筆進口報關業務，支付含利息在內的關稅退稅合計354.6 億美元。"
+    },
+    {
+      "id": "mkt:019e1cf2-8546-7cc6-9aba-8ac102599bfd",
+      "time": "2026-05-13 00:05:29",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. PROPANE EXPORTS TO RISE THROUGH 2027 AS BUYERS IN ASIA REPLACE MIDDLE EAST SUPPLY - EIA"
+    },
+    {
+      "id": "mkt:019e1cf2-853f-7cc6-9aba-8283fc6d67bf",
+      "time": "2026-05-13 00:05:26",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "EIA SEES 2026 U.S. NATGAS OUTPUT OF 110.6 BCF/DAY, VS PRIOR FORECAST 109.6 BCF/D; SEES 2027 DEMAND OF 115 BCF/D (PVS 112.6 BCF/D) EIA SEES 2026 U.S. NATGAS DEMAND OF 91.2 BCF/DAY, VS PRIOR FORECAST 90.6 BCF/D; SEES 2027 DEMAND OF 94.4 BCF/D (PVS 92.7 BCF/D) U.S. NATURAL GAS PRODUCTION TO AVERAGE 121.3 BCF/DAY IN MAY VS 121.1 BCF/DAY IN APRIL; TO AVERAGE 121.7 BCF/DAY IN JUNE – EIA"
+    },
+    {
+      "id": "mkt:019e1cf1-70a3-7cc6-9aba-7b67d6453b2e",
+      "time": "2026-05-13 00:04:42",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | EIA US Natural Gas Production Estimate (Next Year) (May) | actual 115000000000B | previous 112600000000B"
+    },
+    {
+      "id": "mkt:019e1cf0-f85f-7cc6-9aba-75ebe080bcd5",
+      "time": "2026-05-13 00:04:34",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | EIA US Natural Gas Production Estimate (Current Year) (May) | actual 110600000000B | previous 109600000000B"
     },
     {
       "id": "4875657",
@@ -130797,89 +130933,6 @@
         "國際"
       ],
       "text": "特朗普政府正擬定相關規則，加強對違規無人機飛行的安全管控。"
-    },
-    {
-      "id": "te:markets:547984",
-      "time": "2026-05-06 00:10:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The CAC 40 Index Closes 1.08% Higher — The CAC 40 Index gained 86 points or 1.08 percent on Tuesday to close at 8062 points. Gains were led by Schneider Electric (4.72%), TP (4.24%) and STMicroelectronics (3.38%)."
-    },
-    {
-      "id": "te:economy:547983",
-      "time": "2026-05-06 00:09:57",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "New Zealand",
-        "Global Dairy Trade Price Index",
-        "Importance 0"
-      ],
-      "text": "Global Dairy Prices Rebound 1.5% in Early May — The Global Dairy Trade Price Index rose 1.5% to $4,127 per tonne in the two weeks ending May 5, 2026, snapping two straight declines. Gains were led by buttermilk powder (+9.0%), mozzarella (+4.7%), and lactose (+3.7%), while cheddar (-3.6%) and butter (-2.6%) prices fell."
-    },
-    {
-      "id": "4861822",
-      "time": "2026-05-06 00:09:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗石油部長：受損設施將在最短時間內重建。"
-    },
-    {
-      "id": "te:markets:547981",
-      "time": "2026-05-06 00:08:53",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "DAX Closes at Over 2-Week High — Frankfurt's DAX 40 gained ground to close about 1.7% firmer at 24,392 on Tuesday, the highest in over two weeks, recovering from the previous day's losses. Market sentiment strengthened as global energy prices eased on hopes of progress toward reopening the Strait of Hormuz, despite lingering tensions. Better-than-expected quarterly results from both sides of the Atlantic lent further support. Tech stocks and heavyweight energy-sensitive industrials were the top performers. Among key movers, Infineon led the way, rising nearly 7%, followed by Siemens Energy and Siemens, both up 3.6%. Commerzbank shares climbed over 4% following UniCredit's official takeover bid. Rheinmetall gained 3.4% after reiterating its full-year guidance of 40%–45% sales growth, despite first-quarter 2026 sales and operating profit coming in below analysts’ estimates. On the flip side, Fresenius Medical Care plunged over 10%, as it reported a decline in Q1 net profit that exceeded market expectations."
-    },
-    {
-      "id": "4861821",
-      "time": "2026-05-06 00:08:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普：伊朗仍有意達成協議】美國總統特朗普重申了此前的表態，稱伊朗仍有意達成協議。但他對伊朗釋放訊號的兩面做法表示不滿，稱伊朗公開表態，與其同美方談判人員及決策層進行閉門會談和電話溝通的實際立場始終相悖。"
-    },
-    {
-      "id": "4861820",
-      "time": "2026-05-06 00:07:43",
-      "tags": [
-        "公司",
-        "焦點",
-        "國際"
-      ],
-      "text": "【美國證券交易委員會公佈允許企業每半年釋出財報的提案】美國證券交易委員會(SEC)提議修改規則，允許企業以新的10-S表格形式提交半年度報告，替代10-Q表格的季度報告，藉此履行《1934年證券交易法》規定的中期報告義務。SEC還提議調整S-X條例中的財務報表要求，以便利半年度報告，並簡化有關財務報表時效性的規則。"
-    },
-    {
-      "id": "4861819",
-      "time": "2026-05-06 00:07:24",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "歐洲頂尖科技企業執行長呼籲放寬人工智慧監管規則。"
-    },
-    {
-      "id": "te:markets:547980",
-      "time": "2026-05-06 00:07:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE 100 Index Closes 1.37% Lower — The FTSE 100 Index decreased 142 points or 1.37 percent on Tuesday to close at 10222 points. The decline was led by HSBC Holdings (-6.21%), Entain (-5.81%) and Marks & Spencer (-4.80%)."
     }
   ]
 }
