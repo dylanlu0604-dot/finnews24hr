@@ -1,7 +1,111 @@
 {
-  "updated": "2026-05-12 16:50:57",
-  "count": 14426,
+  "updated": "2026-05-12 16:54:24",
+  "count": 14431,
   "items": [
+    {
+      "id": "4874717",
+      "time": "2026-05-12 16:54:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐蒙特盤前股價下跌1.4%，西塞班尼Stillwater盤前股價下跌4.8%，哈莫尼黃金盤前股價下跌2.2%。"
+    },
+    {
+      "id": "mkt:019e1b64-692e-7dd9-b92a-e79fb55e3eda",
+      "time": "2026-05-12 16:53:45",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "KGC.N",
+        "Impact bearish",
+        "AU.N"
+      ],
+      "text": "KINROSS GOLD DOWN 1.6%, ANGLOGOLD ASHANTI FALLS 3.1%"
+    },
+    {
+      "id": "mkt:019e1b64-38d8-7dd9-b92a-dd7a73181281",
+      "time": "2026-05-12 16:53:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "CHINA’S DOMESTIC FLIGHT FUEL SURCHARGE WILL BE RAISED AGAIN STARTING MAY 16 - YICAI"
+    },
+    {
+      "id": "4874716",
+      "time": "2026-05-12 16:53:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "烏干達當選總統穆塞韋尼宣誓就職。"
+    },
+    {
+      "id": "mkt:019e1b63-b3fb-7dd9-b92a-d19a464518e2",
+      "time": "2026-05-12 16:52:59",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "NEM.O",
+        "Impact bearish",
+        "SBSW.O",
+        "HMY.O"
+      ],
+      "text": "US-LISTED SHARES OF GOLD MINERS FALL PREMARKET AS GOLD PRICES SLIP NEWMONT DOWN 1.4%, SIBANYE STILLWATER FALLS 4.8%, HARMONY GOLD DOWN 2.2%"
+    },
+    {
+      "id": "4874715",
+      "time": "2026-05-12 16:52:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【打破常規！國內航線燃油附加費5月16日起再上調】記者獲悉，有機票代理已收到航空公司通知，國內航線燃油附加費擬自5月16日起上調，其中800公里(含)以下航段收取90元，800公里以上航段170元。目前800公里(含)以下航段收取燃油費60元，800公里以上航段120元，意味著國內航線燃油費在5月要分別上調30元和50元。上個月國內航線燃油附加費曾上漲5倍。按照常規每月5日調整燃油附加費，本月延遲調整到16日。（第一財經）"
+    },
+    {
+      "id": "4874714",
+      "time": "2026-05-12 16:52:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【恆為科技：目前沒有向人形機器人領域拓展的計劃】恆為科技(603496)5月12日在互動平臺表示，公司目前沒有向人形機器人領域拓展的計劃。"
+    },
+    {
+      "id": "mkt:019e1b63-3ccc-7dd9-b92a-cad9b4936ec2",
+      "time": "2026-05-12 16:52:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "INDIAN BANKS RESUME GOLD, SILVER IMPORTS AFTER PAYING 3% TAX, SOURCES SAY BANKS CLEAR 9 TONS OF GOLD, 34 TONS OF SILVER FROM CUSTOMS IN MAY, SOURCES SAY"
+    },
+    {
+      "id": "4874713",
+      "time": "2026-05-12 16:51:44",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "訊息人士稱，印度銀行繳納3%的稅款後恢復黃金與白銀進口業務，5月多家銀行經海關清關黃金9噸、白銀34噸。"
+    },
+    {
+      "id": "te:economy:549960",
+      "time": "2026-05-12 16:51:30",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Hong Kong",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "HK 10Y Bond Yield Hits 13-week High — HK 10 Year Government Bond Yield increased to 3.09%, the highest since February 2026. Over the past 4 weeks, Hong Kong 10Y Bond Yield gained 11.20 basis points, and in the last 12 months, it increased 7.10 basis points."
+    },
     {
       "id": "mkt:019e1b61-cd98-7dd9-b92a-c64c9da30a3d",
       "time": "2026-05-12 16:50:54",
@@ -127802,47 +127906,6 @@
         "公司"
       ],
       "text": "【紅板科技：子公司成功競拍江西志浩100%股權 利於快速擴充公司PCB產能】紅板科技(603459.SH)公告稱，公司子公司吉安市輝陽電子有限公司透過京東資產交易平臺成功競得江西志浩電子科技有限公司100%股權，成交價格為4.19億元。本次競拍成功符合公司戰略發展規劃，有利於快速擴充公司PCB產能，完善產業佈局；有利於整合江西志浩現有產能、客戶與技術資源，提升公司市場競爭力；有利於落實公司在中高階印製電路板領域的產能擴張計劃，增強持續盈利能力。"
-    },
-    {
-      "id": "4860905",
-      "time": "2026-05-05 16:53:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "【賽力斯：4月回購55.06萬股A股 法定/註冊股本總額未變】賽力斯集團公告稱，截至2026年4月30日，公司法定/註冊股本總額為17.42億元，本月未發生變動。本月公司回購55.06萬股A股，價格為90.76元/股，尚未登出。已發行股份（不包括庫存股份）和庫存股份數目均未變，且符合適用的公眾持股量要求。"
-    },
-    {
-      "id": "4860904",
-      "time": "2026-05-05 16:53:07",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油失守112美元/桶，日內跌2.19%。"
-    },
-    {
-      "id": "4860903",
-      "time": "2026-05-05 16:52:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以方稱黎真主黨在停火期間發動襲擊 以軍反擊打死約200人】當地時間5月5日，總檯記者從以色列陸軍方面獲悉，自4月17日與黎巴嫩的停火協議生效以來，黎巴嫩真主黨使用70架無人機針對以色列國防軍在黎巴嫩南部和以色列北部的部隊發動襲擊，其中有11架擊中目標。停火期間，有5名以軍士兵死亡、另有33名以軍士兵受傷。作為回應，以軍對黎巴嫩境內約500個黎巴嫩真主黨目標進行了打擊，並打死了約200名黎巴嫩真主黨武裝人員。（央視新聞）"
-    },
-    {
-      "id": "4860902",
-      "time": "2026-05-05 16:52:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "零跑汽車：訂於2026年5月15日舉行董事會會議，以批准本集團截至2026年3月31日止三個月的第一季度業績及其刊發。"
-    },
-    {
-      "id": "4860901",
-      "time": "2026-05-05 16:52:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "【世衛組織稱涉疫郵輪公眾風險較低】針對“洪迪厄斯”號郵輪上多人感染漢坦病毒，世界衛生組織官員5月4日表示，正在與相關方面合作，確保乘客和船員的安全與健康，遏制病毒傳播、追查感染源。世衛組織4日還通報稱，根據現有資訊和以往對病毒的瞭解，公眾面臨的總體風險較低。（CCTV國際時訊）"
     }
   ]
 }
