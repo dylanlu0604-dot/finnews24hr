@@ -1,7 +1,39 @@
 {
-  "updated": "2026-05-12 20:46:55",
-  "count": 14637,
+  "updated": "2026-05-12 20:50:20",
+  "count": 14631,
   "items": [
+    {
+      "id": "mkt:019e1c3c-3421-7dd3-a754-88f21a1b4b5b",
+      "time": "2026-05-12 20:49:27",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Timiraos Notes April CPI Undercuts Tariff-Driven Inflation Narrative】Nick Timiraos said the optimistic view that recent inflation firming is mainly tariff-led, and therefore likely temporary, is challenged by April CPI data. Housing rose 0.6%, in line with expectations after prior softness. However, core services excluding housing increased 0.45% month-on-month, the third-highest reading since January 2025, while the 12-month rate hit 3.3%, the highest since February 2025. Core goods rose 0.03% on the month and 1.13% year-on-year."
+    },
+    {
+      "id": "4875262",
+      "time": "2026-05-12 20:48:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "據以色列媒體報道，以色列中間派耶希阿提德黨將於下週提交解散國會的法案。"
+    },
+    {
+      "id": "4875261",
+      "time": "2026-05-12 20:46:48",
+      "tags": [
+        "宏觀",
+        "公司"
+      ],
+      "text": "【安徽省委省政府在京與工信部、國務院國資委、中國人保集團等六家國家部委和單位舉行工作會談 梁言順王清憲李樂成張玉卓丁向群等出席】5月11日至12日，安徽省委書記梁言順、省長王清憲在北京分別與工信部黨組書記、部長李樂成，國務院國資委黨委書記、主任張玉卓，中國人保集團黨委書記、董事長丁向群等舉行工作會談。工信部領導辛國斌、柯吉欣、謝遠生，國務院國資委領導李鎮、龐驍剛，中國人保集團領導趙鵬，省領導王東偉、單向前、任清華、李中，中國科大校長常進分別參加相關活動。\n\n梁言順、王清憲代表省委、省政府向工信部、國務院國資委、中國人保等長期以來的關心支援表示感謝，就有關事項深入交流。梁言順說，近年來全省上下深入貫徹習近平總書記考察安徽重要講話精神，真抓實幹、創先爭優，推動美好安徽建設邁出堅實步伐。希望工信部、國務院國資委、中國人保等一如既往關心安徽，在政策支援、專案佈局、試點示範等方面給予更多指導幫助。我們將深化對接合作，落細落實各項工作，更好服務全國發展大局。\n\n李樂成表示，安徽工業基礎良好，發展勢頭強勁。工信部將全力支援安徽因地制宜發展新質生產力，在落實國家發展戰略、促進工業經濟高質量發展、推動科技創新和產業創新深度融合、梯度培育中小企業等方面發揮更大作用，構建體現安徽特色的現代化產業體系，為建設製造強國貢獻更大力量。\n\n張玉卓表示，安徽創新資源豐富、產業特色鮮明，中央企業與安徽合作空間廣闊。國務院國資委將強化與安徽創新協同、產業協同、改革協同，鼓勵支援央企完善對接機制，加大投資佈局力度，深化全方位務實合作，助力安徽做強做優做大國有企業和國有資本，為實現高質量發展注入強勁動力。（安徽釋出）"
+    },
     {
       "id": "4875260",
       "time": "2026-05-12 20:46:29",
@@ -129837,85 +129869,6 @@
         "國際"
       ],
       "text": "【法國稱若美國威脅歐盟產業 歐盟將予以反制】法國負責對外貿易的部長級代表Nicolas Forissier表示，如果唐納德·特朗普對鋼鐵等戰略性行業發出過度威脅，歐盟有工具可以加以應對。美國總統上週五表示，計劃在本週將對歐盟轎車和卡車進口的關稅提高至25%，理由是他認為歐盟未遵守7月達成的貿易協議。歐盟官員表示，在雙方推進協議執行的同時，如果特朗普落實這一威脅，歐盟將保留所有選項。"
-    },
-    {
-      "id": "te:economy:547897",
-      "time": "2026-05-05 20:49:32",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Building Permits",
-        "Importance 1"
-      ],
-      "text": "US Building Permits Revised Down — US building permits fell 11.4% month-over-month to a seasonally adjusted annualized rate of 1.363 million in March 2026, below the preliminary estimate of 1.372 million, revised figures showed. The reading marked the lowest level since August 2025. In February, building permits rose 11%. Permits for buildings with five or more units dropped by 24.9% to an annualized rate of 419 thousand, while single-family permits decreased by 3.8% to 895 Thousand. Regionally, permits declined in the Northeast (-30.2% to 113 thousand), the Midwest (-3.2% to 212 thousand), in the South (-8% to 715 thousand), and in the West (-15% to 323 thousand)."
-    },
-    {
-      "id": "4861404",
-      "time": "2026-05-05 20:49:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "【北約前官員：歐洲必須把命運掌握在自己手中 絕不能再依賴美國】當地時間5月5日，北約前負責防務與安全合作的高階官員、德國資深安全問題專家格林德·尼胡斯（Gerlinde Niehus）在接受波蘭電視臺世界新聞網‌（TVP World）節目採訪時表示，美國總統特朗普宣佈將從德國撤出部分駐軍，意味著歐洲需要加快步伐擺脫對美國的防務依賴，“歐洲必須把命運掌握在自己手中”。（央視）"
-    },
-    {
-      "id": "4861403",
-      "time": "2026-05-05 20:49:07",
-      "tags": [
-        "市場"
-      ],
-      "text": "PAYPAL盤前股價跌幅擴大至10%。"
-    },
-    {
-      "id": "4861402",
-      "time": "2026-05-05 20:48:53",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "土耳其央行行長：將繼續以物價穩定這一核心目標為導向，動用一切貨幣政策工具。"
-    },
-    {
-      "id": "4861401",
-      "time": "2026-05-05 20:48:39",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【三諾生物：歐盟臨時禁令的裁定未導致公司CGM產品生產中斷】三諾生物(300298)5月5日在互動平臺回覆投資者稱，目前歐盟相關法院臨時禁令的裁定未導致公司CGM產品生產中斷，臺架測試、人體臨床試驗等所需產品供應未受影響，因此預計不會對公司在美國開展的相關臨床研究及510（k）申報流程產生影響。"
-    },
-    {
-      "id": "4861400",
-      "time": "2026-05-05 20:48:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "默克：完成收購泰倫斯製藥股份有限公司。該交易預計將按資產收購進行會計處理，因此將產生約58億美元的變動，合每股2.35美元，計入2026財年第二季度及全年業績。"
-    },
-    {
-      "id": "4861399",
-      "time": "2026-05-05 20:48:07",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "土耳其央行：2026 年經常賬戶赤字預計低於長期均值。"
-    },
-    {
-      "id": "4861398",
-      "time": "2026-05-05 20:47:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "據燈塔專業版實時資料，截至5月5日20時46分，影片《寒戰1994》票房突破2億。"
-    },
-    {
-      "id": "4861397",
-      "time": "2026-05-05 20:47:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "貝寶股價反轉，盤前交易當前下跌8%。"
     }
   ]
 }
