@@ -1,7 +1,102 @@
 {
-  "updated": "2026-05-12 19:09:23",
-  "count": 14534,
+  "updated": "2026-05-12 19:12:45",
+  "count": 14542,
   "items": [
+    {
+      "id": "mkt:019e1be3-8a2e-7dd9-b92d-5a9a01973f6d",
+      "time": "2026-05-12 19:12:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RUTTE: EUROPEANS HAVE HEARD US PRESIDENT, ARE RESPONDING"
+    },
+    {
+      "id": "4875034",
+      "time": "2026-05-12 19:12:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【迎豐股份：領航投資擬減持公司不超0.91%股份】迎豐股份(605055)5月12日公告，持股8.61%的股東海南迎豐領航創業投資合夥企業（有限合夥）（簡稱“領航投資”）擬透過集中競價方式減持公司股票不超過400萬股，減持比例不超過公司總股本的0.91%。"
+    },
+    {
+      "id": "4875033",
+      "time": "2026-05-12 19:11:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈薩克4月份零售貿易額同比增長5%。"
+    },
+    {
+      "id": "4875032",
+      "time": "2026-05-12 19:11:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【皮阿諾：股東珠海鴻祿擬減持不超過3%】皮阿諾公告，持股6.00%的股東珠海鴻祿企業管理合夥企業（有限合夥）計劃自本公告披露之日起15個交易日後的3個月內，以集中競價、大宗交易方式合計減持不超過548.75萬股，佔公司總股本3.00%，其中透過集中競價減持不超過182.92萬股，佔1%，透過大宗交易減持不超過365.83萬股，佔2%；減持股份來源為協議轉讓方式取得，減持價格將根據二級市場價格及交易方式確定。"
+    },
+    {
+      "id": "4875031",
+      "time": "2026-05-12 19:11:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：軟銀向英國半導體公司Graphcore注資4.5億美元。"
+    },
+    {
+      "id": "mkt:019e1be2-1a39-7dd9-b92d-55b1348867e9",
+      "time": "2026-05-12 19:11:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "CHINA, US DISCUSS CORN PURCHASES AHEAD OF TRUMP-XI SUMMIT"
+    },
+    {
+      "id": "4875030",
+      "time": "2026-05-12 19:10:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度貿易部長：印度與阿曼自由貿易協定將於6月1日生效。"
+    },
+    {
+      "id": "4875029",
+      "time": "2026-05-12 19:10:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金楊精密：擬用募集資金置換1.76億元預先投入資金】金楊精密公告稱，公司向不特定物件發行可轉換公司債券，截至2026年4月24日，實際募集資金9.80億元，扣除發行費用565.33萬元，淨額為9.74億元。截至5月8日，公司以自籌資金預先投入募集資金投資專案1.76億元，包括廈門專案8010.31萬元、孝感專案9560.37萬元；預先支付發行費用47.58萬元，擬用募集資金置換上述預先投入的自籌資金。"
+    },
+    {
+      "id": "te:economy:549993",
+      "time": "2026-05-12 19:10:21",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Africa",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "South Africa Factory Output Rebounds in March — Manufacturing activity in South Africa increased 0.9% year-on-year in March 2026, following an upwardly revised 2.3% fall in February. This marks the first increase in manufacturing output since November, primarily due to food & beverages (3.5%); petroleum, chemical products, rubber and plastic products (1.8%) and electrical machinery (11.9%). On a seasonally adjusted monthly basis, output rose by 0.8%, after a downwardly revised 1.8% fall in the previous month. Manufacturing production decreased by 1% in Q1 2026 compared with the previous period."
+    },
+    {
+      "id": "4875028",
+      "time": "2026-05-12 19:10:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【浪潮資訊：每10股派發現金股利0.40元（含稅）】浪潮資訊公告，公司2025年度利潤分配方案為：以現有總股本14.68億股為基數，向全體股東每10股派發現金股利0.40元（含稅），共計派發現金股利5873.91萬元。股權登記日為2026年5月19日，除權除息日為2026年5月20日。"
+    },
+    {
+      "id": "4875027",
+      "time": "2026-05-12 19:10:00",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "市場訊息：一份美烏雙方的備忘錄概述了兩國間防務協議的條款；該協議將允許烏克蘭向美國出口軍事技術，並與美國公司成立合資企業生產無人機。"
+    },
     {
       "id": "4875025",
       "time": "2026-05-12 19:09:05",
@@ -128878,35 +128973,6 @@
         "國際"
       ],
       "text": "菲律賓國防部長：感謝日方就防務裝備轉讓事宜開展審議，我方非常樂意與日方合作，儘快取得切實成果。"
-    },
-    {
-      "id": "4861179",
-      "time": "2026-05-05 19:12:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "【加沙援助船隊成員稱被以軍扣押後遭毆打和虐待：公然違反國際法】據多名活動人士表示，在以色列非法攔截並扣押了向加沙地帶運送援助物資船隊的“全球堅韌船隊”後，被扣押的活動人士遭到了以色列士兵的毆打，多人在獲釋後被送往醫院。4月29日晚些時候，以色列軍隊在希臘克里特島附近的國際水域扣押了“全球堅韌船隊”的至少22艘船隻以及約180名活動人士。據新華社報道，土耳其、西班牙、巴西、約旦、巴基斯坦等十餘個國家4月30日強烈譴責以色列在希臘克里特島附近海域攔截向加沙地帶運送人道主義援助物資的“全球堅韌船隊”，指出以方舉動“公然違反國際法”。（澎湃）"
-    },
-    {
-      "id": "te:markets:547867",
-      "time": "2026-05-05 19:11:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Duke Energy earnings above expectations at 1.93 USD — Duke Energy (DUK) released earnings per share at 1.93 USD, compared to market expectations of 1.78 USD."
-    },
-    {
-      "id": "4861178",
-      "time": "2026-05-05 19:10:23",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "巴西央行：高利率帶來的影響仍在信貸餘額中持續顯現。"
     }
   ]
 }
