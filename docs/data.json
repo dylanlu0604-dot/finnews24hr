@@ -1,7 +1,42 @@
 {
-  "updated": "2026-05-12 09:41:35",
-  "count": 14022,
+  "updated": "2026-05-12 09:44:58",
+  "count": 14023,
   "items": [
+    {
+      "id": "4873750",
+      "time": "2026-05-12 09:44:02",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "三星電子股價下跌4.7%，報272500韓元。"
+    },
+    {
+      "id": "4873744",
+      "time": "2026-05-12 09:43:26",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【光纖概念反覆走強 通鼎互聯4連板】光纖概念反覆走強，通鼎互聯4連板，杭電股份、長飛光纖、法爾勝、中天科技、亨通光電、特發資訊跟漲。"
+    },
+    {
+      "id": "4873740",
+      "time": "2026-05-12 09:42:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【《深圳市綜合交通“十五五”規劃（徵求意見稿）》公開徵求意見】深圳市交通運輸局就《深圳市綜合交通“十五五”規劃（徵求意見稿）》公開徵求意見，其中提出，構建內外通達海運網路，持續鞏固歐美遠洋航線優勢，拓展APEC區域及“一帶一路”共建國家海運航線。深化與主要班輪公司戰略合作，大力發展水水中轉、汽車海運、國際中轉集拼等業務，大力拓展內貿和近洋航線，推動內貿集裝箱量質齊升，到2030年，港口集裝箱吞吐量達3800萬標箱。"
+    },
+    {
+      "id": "4873739",
+      "time": "2026-05-12 09:41:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4730美元/盎司，日內漲0.03%。"
+    },
     {
       "id": "te:markets:549797",
       "time": "2026-05-12 09:41:17",
@@ -124244,31 +124279,6 @@
         "Importance 0"
       ],
       "text": "Hungary Factory Activity Sees Improvement in April — The HALPIN Manufacturing PMI rose to 50.5 in April 2026 from a downwardly revised 50.3 in the previous month, remaining below its long-term monthly average of 52.6. The sector recorded a slight expansion, as new orders continued to grow, supported by a moderate increase in order backlogs. Production also strengthened, and purchasing activity remained in expansion territory. External demand showed improvement, with both export and import indices increasing. However, employment conditions weakened further, remaining firmly in contraction and signaling ongoing labor market softness in the sector. Supplier performance also deteriorated, pointing to continued shortening of delivery times. Price pressures intensified notably during the month, marking the largest monthly increase among all components."
-    },
-    {
-      "id": "4860474",
-      "time": "2026-05-05 09:43:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "【15項重點專案全方位賦能 長沙全力打造年輕人友好高地】據湖南日報訊息，5月4日，記者從長沙市青年工作聯席會議辦公室瞭解到，今年長沙制定的《長沙市年輕人友好城市建設2026年重點專案清單》已正式釋出。該清單聚焦青年實習實訓、就業創業、婚戀生育、文旅體消費及演繹賽事新消費業態建設等方面，推出共計15項重點專案，旨在全方位最佳化青年發展環境，將長沙打造成青年創新創業目的地與年輕人友好城市建設高地。"
-    },
-    {
-      "id": "4860473",
-      "time": "2026-05-05 09:42:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "衍生集團（國際）控股有限公司在港交所公告，已於今天上午9時31分起短暫停止買賣。"
-    },
-    {
-      "id": "4860472",
-      "time": "2026-05-05 09:42:06",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "恒生科技指數跌超2%，現報4876.910點；恒生指數現跌1.332%。"
     }
   ]
 }
