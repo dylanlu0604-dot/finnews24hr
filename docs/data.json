@@ -1,7 +1,415 @@
 {
-  "updated": "2026-05-12 16:35:01",
-  "count": 14400,
+  "updated": "2026-05-12 16:50:57",
+  "count": 14426,
   "items": [
+    {
+      "id": "mkt:019e1b61-cd98-7dd9-b92a-c64c9da30a3d",
+      "time": "2026-05-12 16:50:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TRADERS FULLY PRICE THREE QUARTER-POINT BOE RATE HIKES IN 2026"
+    },
+    {
+      "id": "4874712",
+      "time": "2026-05-12 16:50:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【理想L9 Livis首發馬赫M100晶片】據理想汽車訊息，全新理想L9 Livis首發搭載理想自研馬赫M100晶片。"
+    },
+    {
+      "id": "4874711",
+      "time": "2026-05-12 16:50:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【美銀：上調敏實集團目標價至57港元，看好新業務前景】美銀證券發表研報指，敏實集團2026年將實現可持續盈利增長，其新業務包括機器人、固體氧化物燃料電池(SOFC)及液冷系統進展良好。該行將敏實目標價由52港元上調至57港元，重申“買入”評級。管理層表示，機器人業務預計在2026年為公司貢獻5億元銷售額，包括零部件銷售及機器人組裝。此外，公司已開始SOFC解決方案的零部件業務，並已向潛在客戶傳送互連件、支撐結構及雙極板的樣品，同時已從中國SOFC客戶獲得支撐結構、雙極板及框架的新訂單。液冷業務方面，分流管及液冷箱已於2025年底開始付運，液冷板及冷卻液分配裝置(CDU)等更多新產品將於2026年下半年開始付運。"
+    },
+    {
+      "id": "4874710",
+      "time": "2026-05-12 16:49:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【馮德萊恩：歐盟應探討限制兒童使用社交媒體】歐盟委員會主席馮德萊恩說，歐盟應探討限制兒童使用社交媒體，有關新規最早可能於今年夏天提出。據報道，馮德萊恩已委託一個專家小組在7月前提交報告，說明歐盟應採取哪些措施來保護未成年人免受網路傷害，其中包括可能實施的社媒禁令。馮德萊恩星期二（5月12日）在哥本哈根舉行的關於人工智慧與兒童的峰會上說：“在不預設專家小組結論的前提下，我認為我們必須考慮推遲兒童使用社媒。根據結果，我們可能在今年夏天提出一項法律提案。”她指出，兒童和青少年因接觸社媒而遭受的諸多傷害並非偶然，“而是將我們孩子的注意力視為商品的商業模式所導致的後果”。"
+    },
+    {
+      "id": "4874709",
+      "time": "2026-05-12 16:49:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國預測今年玉米種植面積將下降11%。"
+    },
+    {
+      "id": "4874708",
+      "time": "2026-05-12 16:48:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特將會見日本大型銀行和商社高管。"
+    },
+    {
+      "id": "mkt:019e1b5f-7d70-7dd9-b92a-bf154071aba3",
+      "time": "2026-05-12 16:47:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK PM STARMER: THE LABOUR PARTY HAS A PROCESS FOR CHALLENGING A LEADER AND THAT HAS NOT BEEN TRIGGERED"
+    },
+    {
+      "id": "mkt:019e1b5e-d554-7dd9-b92a-b6af80831d68",
+      "time": "2026-05-12 16:47:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "UK PM STARMER TELLS HIS CABINET THAT HE IS STAYING PUT, GUARDIAN REPORTER"
+    },
+    {
+      "id": "4874707",
+      "time": "2026-05-12 16:47:17",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "英國首相斯塔默：工黨設有領導人挑戰程式，目前該程式尚未啟動。"
+    },
+    {
+      "id": "4874706",
+      "time": "2026-05-12 16:47:13",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "英國首相斯塔默告知內閣：全國民眾期待我們著手履行治理職責。這是我目前正在推進的工作，也是我們整個內閣必須共同完成的任務。"
+    },
+    {
+      "id": "4874705",
+      "time": "2026-05-12 16:46:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國際學生人數減兩成 高校財政壓力加劇】研究顯示，今年春季美國高校的新入學外國本科生人數，較去年同期平均下降了20%。這凸顯了特朗普政府與高等教育界的對峙，正衝擊美國大學重要的人才與資金來源。這項針對149所美國高校的調查發現，同2025年春季比較，約62%學校的本科和研究生專案的國際學生入學人數都有所下降。國際學生通常支付全額學費，是美國大學重要收入來源。特朗普政府則把限制國際學生招生視為重塑高等教育體系和收緊移民政策的一部分。報告稱，如果今年秋季國際學生人數的跌幅也接近20%，一些高校可能面臨嚴重財政壓力。"
+    },
+    {
+      "id": "4874704",
+      "time": "2026-05-12 16:46:43",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "英國首相斯塔默告知其內閣，他不會卸任。"
+    },
+    {
+      "id": "4874703",
+      "time": "2026-05-12 16:46:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【全球野火今年已燒燬逾一億公頃土地 厄爾尼諾或加劇災情】科學家警告，氣候變化已導致亞洲和非洲等地今年出現創紀錄的野火。隨著北半球夏季臨近以及厄爾尼諾現象開始顯現，預計情況將進一步惡化。世界氣候歸因組織（World Weather Attribution）的資料顯示，今年1月至4月的野火已造成前所未有的破壞，燒燬土地超過1億5000萬公頃，比此前紀錄高出20%。"
+    },
+    {
+      "id": "4874702",
+      "time": "2026-05-12 16:46:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "【採集熟練工人資料 韓國加緊研發物理人工智慧】在韓國首爾樂天酒店裡，從業9年的戴維·樸像曾經數千次做過的那樣熟練地疊好一塊餐巾，隨後開始擦拭酒杯和刀叉。他的同事則開始為宴會做準備。與平時不同的是，他們的頭、胸和手上都綁著攝像頭。據美聯社11日報道，戴維和同事們在幫助韓國人工智慧初創企業“真實世界”採集資料，用於研發物理人工智慧。透過這種方法，該企業還採集了物流工人在庫房拿、舉、搬運物品和超市工作人員在貨架上擺放商品等動作的資料。（新華社）"
+    },
+    {
+      "id": "4874701",
+      "time": "2026-05-12 16:46:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華森製藥：甘桔冰梅片完成境內生產藥品備案】華森製藥公告，公司產品甘桔冰梅片（規格：糖衣片，片心重0.2g）有效期由24個月變更為36個月的備案資訊已公示。甘桔冰梅片為公司重點中成藥，對咽乾、咽痛、聲音嘶啞、咽粘膜充血等療效突出，具有清熱解毒、消腫止痛、宣肺化痰、生津潤燥等多種作用，尤其適用於以咽痛、咽乾、聲音嘶啞為主要特徵的呼吸道感染，可抗炎抑菌、抗病毒、消腫止痛。"
+    },
+    {
+      "id": "4874700",
+      "time": "2026-05-12 16:45:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【今年前4個月全國食品進出口貿易同比增長6.5%】記者從今天舉行的2026年APEC食品安全合作論壇大會上瞭解到，今年前4個月，全國食品進出口貿易5948.6億元，同比增長6.5%。其中，進口4092.2億元，同比增長8.8%，出口1856.4億元，同比增長1.9%前4個月，我國對APEC其他經濟體進出口食品3503.8億元。其中進口2298.3億元、出口1205.5億元，肉類、乳品、酒類分別進出口214.8億元、201.1億元、118.3億元。前4個月，我國對APEC其他經濟體食品貿易額佔食品貿易總額的58.9%，其中進口占56.2%，出口佔64.9%。（央視新聞）"
+    },
+    {
+      "id": "4874699",
+      "time": "2026-05-12 16:44:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "Omdia：到2030年社交媒體廣告將佔據全球線上廣告收入近半份額，屆時全球線上廣告市場規模將達到6400億美元。"
+    },
+    {
+      "id": "4874698",
+      "time": "2026-05-12 16:43:25",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "交易員已充分消化英國央行在2026年三次加息的預期。"
+    },
+    {
+      "id": "4874697",
+      "time": "2026-05-12 16:43:24",
+      "tags": [
+        "資料",
+        "市場"
+      ],
+      "text": "【4月北京CPI環比由降轉漲 同比漲幅擴大】國家統計局北京調查總隊12日釋出的資料顯示，今年4月，北京居民消費價格指數(CPI)環比由降轉漲，同比漲幅擴大。從同比看，4月北京CPI上漲0.6%。食品中，豬肉、鮮果和鮮菜價格分別下降17.0%、5.2%和3.4%，雞蛋、水產品價格均下降0.8%；羊肉、牛肉和禽肉類價格分別上漲5.3%、4.5%和1.8%。非食品中，工業消費品價格上漲2.6%，其中，汽油價格漲幅由上月3.6%擴大至19.0%，黃金飾品價格漲幅回落至45.9%；服務價格上漲0.7%，其中，飛機票和旅行社收費價格均由上月的下降轉為上漲，漲幅分別為16.9%和4.7%。資料顯示，4月北京工業生產者出廠價格同比下降1.7%、環比下降0.1%；工業生產者購進價格同比上漲0.3%、環比上漲1.1%。(中國新聞網)"
+    },
+    {
+      "id": "4874696",
+      "time": "2026-05-12 16:42:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "拜耳執行長：無論最高法院是否作出有利裁決，我們有信心在2026年了結相關訴訟。"
+    },
+    {
+      "id": "4874695",
+      "time": "2026-05-12 16:42:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗法爾斯通訊社12日報道，伊朗伊斯蘭革命衛隊海軍高階官員穆罕默德·阿克巴爾扎德在採訪中表示，一艘美國護衛艦近期試圖透過霍爾木茲海峽，伊朗方面對其嚴密監控，觀察到其挑釁行為後開火警告，該艦隨即改變航向。伊朗正密切關注地區動向，絕不允許任何侵犯其水域的行為。阿克巴爾扎德未披露此次事件發生的具體時間。（新華社）"
+    },
+    {
+      "id": "4874694",
+      "time": "2026-05-12 16:42:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "【英偉達4天漲出一個“甲骨文” 分析師稱晶片需求絲毫未見放緩】根據道瓊斯市場資料，過去4個交易日，英偉達股價上漲了14%，市值增加了5910億美元，這一市值增量已超過甲骨文當前約5570億美元的總市值。伯恩斯坦分析師表示，投資者可能是在對近期大型雲服務商強勁的資本支出承諾表示認可，這表明市場對英偉達晶片的需求絲毫沒有放緩跡象。"
+    },
+    {
+      "id": "4874693",
+      "time": "2026-05-12 16:42:03",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "匈牙利提名財政部長卡爾曼：將就加入歐元區啟動專業層面與公眾層面辯論。"
+    },
+    {
+      "id": "4874692",
+      "time": "2026-05-12 16:41:51",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "匈牙利提名的財政部長卡爾曼：我國將在2020年滿足加入歐元區的標準。"
+    },
+    {
+      "id": "mkt:019e1b59-7787-7dd9-b92a-ae1646cebbb9",
+      "time": "2026-05-12 16:41:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "SENIOR EU OFFICIAL SAYS ITS EU CARBON MARKET REVIEW SHOULD APPLY AN EFFECTIVE PRICE SIGNAL TO THE EU'S FAIR SHARE OF INTERNATIONAL AVIATION EMISSIONS FOR EXTRA- EUROPEAN FLIGHTS"
+    },
+    {
+      "id": "4874691",
+      "time": "2026-05-12 16:41:44",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "匈牙利提名財政部長卡爾曼：此舉將為2030年將赤字降至GDP的3%奠定道路。"
+    },
+    {
+      "id": "mkt:019e1b59-55b4-7dd9-b92a-a16d3434a87c",
+      "time": "2026-05-12 16:41:39",
+      "tags": [
+        "MKT News",
+        "MRK.O"
+      ],
+      "text": "MERCK: SIGNS MOU WITH TWO CHINESE COMPANIES TO ADVANCE CLINICAL COOPERATION - STATEMENT"
+    },
+    {
+      "id": "4874690",
+      "time": "2026-05-12 16:41:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國負責住房、社群及地方政府事務的政務次官米婭塔·法恩布拉12日宣佈辭職，呼籲英國首相斯塔默“設定有序過渡時間表”。（新華社）"
+    },
+    {
+      "id": "mkt:019e1b59-34bf-7dd9-b92a-9922f5eaf864",
+      "time": "2026-05-12 16:41:31",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100",
+        "Impact bearish"
+      ],
+      "text": "UK 10-YEAR GILT YIELD RISES TO 5.119%, HIGHEST SINCE JULY 2008, UP 11 BPS ON DAY"
+    },
+    {
+      "id": "4874689",
+      "time": "2026-05-12 16:41:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟高階官員表示，歐盟對其碳市場的審議應針對歐洲以外航班在歐盟國際航空排放公平份額中落實有效的價格訊號。"
+    },
+    {
+      "id": "4874688",
+      "time": "2026-05-12 16:40:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "匈牙利提名財政大臣卡爾曼：將於夏末前向議會提交經修正後的2026年預算案。"
+    },
+    {
+      "id": "4874687",
+      "time": "2026-05-12 16:40:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "匈牙利獲提名財長卡曼：自3月以來債券收益率持續下行，若跌勢得以維持，未來四年債務利息成本或將減少2.4萬億福林。"
+    },
+    {
+      "id": "4874686",
+      "time": "2026-05-12 16:39:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【譚德塞：沒有任何跡象顯示漢坦病毒出現大規模暴發】世界衛生組織總幹事譚德塞表示，沒有任何跡象顯示漢坦病毒出現更大規模的暴發。"
+    },
+    {
+      "id": "4874685",
+      "time": "2026-05-12 16:39:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡達實施新安全措施，要求船舶在LNG港口關閉訊號。"
+    },
+    {
+      "id": "te:economy:549959",
+      "time": "2026-05-12 16:39:12",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Czech Republic",
+        "Unemployment Rate",
+        "Importance 1"
+      ],
+      "text": "Czech Jobless Rate at 4-Month Low — The Czech unemployment rate edged down to 4.9% in April 2026 from 5.0% in the previous month, slightly above market expectations of 4.8%. This was driven by continued seasonal employment and the economic recovery, bringing the jobless rate to its lowest level since December 2025. The number of unemployed individuals fell by 7,866 month-on-month to 364,472 but was still up by 45,932 compared to the same month last year. Meanwhile, the number of registered job vacancies rose by 2,938 from the previous month to 94,483."
+    },
+    {
+      "id": "4874684",
+      "time": "2026-05-12 16:38:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國10年期國債收益率上漲12個基點至5.12%，創2008年以來最高水平。"
+    },
+    {
+      "id": "4874683",
+      "time": "2026-05-12 16:38:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【香港教育局局長：努力推進香港數字教育轉型】2026世界數字教育大會5月11日至13日在杭州舉行。香港特區政府教育局局長蔡若蓮受訪時表示，香港教育界正努力推進香港數字教育轉型。她表示，國家在數字教育發展的方向和目標，對於香港未來推進數字教育發展非常重要。她說，目前香港《中小學數字教育藍圖》編訂工作已進入尾聲，正在廣泛收集各界意見。 她進一步表示，首先要讓教師掌握人工智慧的基礎知識、提升自身數字素養；其次要推動數字素養與不同學科深度融合，引導學生在實際應用中學習；此外要加強人工智慧在學校治理、教育管理和教學評估中的應用，透過資料反饋教學評鑑、提升管理效能。(中新網)"
+    },
+    {
+      "id": "mkt:019e1b56-420d-7dd9-b92a-93cd4cc65f94",
+      "time": "2026-05-12 16:38:00",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "SIX CABINET MINISTERS EXPECTED TO TELL UK PM STARMER TO QUIT, TELEGRAPH NEWSPAPER SAYS"
+    },
+    {
+      "id": "4874682",
+      "time": "2026-05-12 16:37:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【默沙東簽署本土合作協議，持續擴充套件在華創新合作網路】5月12日，默沙東研發（中國）有限公司宣佈，已分別與美賽生物、達歌生物簽署合作協議，各方將基於獨立合作框架，共同推進臨床合作開發；並與澤璟製藥、益方生物簽署合作意向書。本輪合作聚焦腫瘤及自身免疫疾病等治療領域：默沙東將與美賽生物在自身免疫疾病領域開展抗體藥物的臨床開發，與達歌生物聚焦腫瘤領域分子膠藥物的臨床開發。（默沙東中國）"
+    },
+    {
+      "id": "4874681",
+      "time": "2026-05-12 16:36:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國10年期國債收益率升至2008年7月以來新高，報5.119%，日內漲幅為11個基點。"
+    },
+    {
+      "id": "4874680",
+      "time": "2026-05-12 16:36:45",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "六名內閣大臣將要求英國首相斯塔默辭職。"
+    },
+    {
+      "id": "4874679",
+      "time": "2026-05-12 16:36:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【方大炭素：董事江國利離任 提名謝海東補選董事】方大炭素公告稱，董事江國利因個人原因於2026年5月12日辭去董事職務，辭職後不再擔任公司任何職務。其離任不會影響董事會正常執行。為保證董事會正常運作，公司於同日召開會議，提名謝海東為第九屆非獨立董事候選人，任期自股東會審議透過至第九屆董事會屆滿。謝海東現任公司總經理。"
+    },
+    {
+      "id": "4874678",
+      "time": "2026-05-12 16:36:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【方大炭素：召開2026年第三次臨時股東會，將補選非獨立董事】方大炭素公告稱，公司2026年第三次臨時股東會將於5月28日15點在甘肅省蘭州市紅古區海石灣鎮方大炭素辦公樓五樓會議室現場召開，也可透過上海證券交易所股東會網路投票系統參與。此次會議將審議關於補選第九屆董事會非獨立董事的議案。股權登記日為5月21日，股東可於5月27日9:00-12:00、14:00-17:00辦理登記。"
+    },
+    {
+      "id": "4874677",
+      "time": "2026-05-12 16:35:59",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "匈牙利獲提名財政部長卡爾曼：對腐敗將零容忍。"
+    },
+    {
+      "id": "4874676",
+      "time": "2026-05-12 16:35:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "世衛組織總幹事譚德塞：我們無法強迫各國接受我們的協議，只能提供建議和推薦。"
+    },
+    {
+      "id": "4874675",
+      "time": "2026-05-12 16:35:40",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "匈牙利財政部長：正研究將發展銀行MFB資本化或設立特殊目的實體以資助歐盟專案的可能性。"
+    },
+    {
+      "id": "4874674",
+      "time": "2026-05-12 16:35:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【習近平將舉行儀式歡迎塔吉克總統拉赫蒙訪華】5月12日下午，國家主席習近平將在北京人民大會堂東門外廣場舉行儀式，歡迎塔吉克總統拉赫蒙對我國進行國事訪問。（央視新聞）"
+    },
     {
       "id": "4874673",
       "time": "2026-05-12 16:34:38",
@@ -127435,195 +127843,6 @@
         "其他"
       ],
       "text": "【世衛組織稱涉疫郵輪公眾風險較低】針對“洪迪厄斯”號郵輪上多人感染漢坦病毒，世界衛生組織官員5月4日表示，正在與相關方面合作，確保乘客和船員的安全與健康，遏制病毒傳播、追查感染源。世衛組織4日還通報稱，根據現有資訊和以往對病毒的瞭解，公眾面臨的總體風險較低。（CCTV國際時訊）"
-    },
-    {
-      "id": "4860900",
-      "time": "2026-05-05 16:50:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內跌2%，現報112.15美元/桶。"
-    },
-    {
-      "id": "4860899",
-      "time": "2026-05-05 16:49:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯媒體報道：俄羅斯數字發展、通訊與大眾傳媒部正牽頭協調，擬在莫斯科推出網站白名單機制，保障民眾可訪問具有社會重要性的網路站點。"
-    },
-    {
-      "id": "4860898",
-      "time": "2026-05-05 16:49:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯報道：救援人員正在卡拉恰伊-切爾克斯共和國搜尋兩名失蹤遊客。"
-    },
-    {
-      "id": "te:economy:547814",
-      "time": "2026-05-05 16:48:43",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Philippines",
-        "Government Bond 10Y",
-        "Importance 0"
-      ],
-      "text": "Philippines 10Y Bond Yield Hits 3-1/2-year High — Philippines 10 Year Government Bond Yield increased to 7.15%, the highest since November 2022. Over the past 4 weeks, Philippines 10Y Bond Yield gained 43.00 basis points, and in the last 12 months, it increased 87.30 basis points."
-    },
-    {
-      "id": "4860897",
-      "time": "2026-05-05 16:47:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國常駐聯合國大使：美國與海灣阿拉伯國家正擬定一份聯合國安理會決議，擬譴責伊朗因美以空襲行動而封鎖霍爾木茲海峽的行為。"
-    },
-    {
-      "id": "te:economy:547813",
-      "time": "2026-05-05 16:45:36",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Armenia",
-        "Interest Rate",
-        "Importance 1"
-      ],
-      "text": "Armenia Leaves Key Rate Unchanged — The Central Bank of Armenia held its benchmark interest rate steady at 6.5% during its May 2026 meeting, and also maintained the deposit and lending rates at 5% and 8%, respectively. Annual inflation rose to a three-year high of 4.5% from 4.3% in February, while core inflation remained unchanged at 4.7%. Beyond inflation, the broader economic backdrop remains supportive. Economic activity stayed resilient in the first quarter of 2026, underpinned by strong expansion in construction and services. Growth in the services sector, in particular, reflects a shift toward segments fueled by rising domestic demand. However, uncertainty about the current demand conditions is rising, as geopolitical tensions and volatile energy prices increase inflation risks and weigh on the outlook. The Board reaffirmed its decision to keep the policy rate unchanged, while emphasizing its readiness to adjust policy as needed to safeguard its medium-term objective of maintaining inflation at 3%."
-    },
-    {
-      "id": "4860896",
-      "time": "2026-05-05 16:45:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "訊息人士：美國向2艘小型民船開火，而非革命衛隊的船隻。美國軍方聲稱打擊了6艘伊朗快艇的說法不實，實際上沒有任何伊朗衛隊的戰鬥船只受到攻擊。"
-    },
-    {
-      "id": "te:economy:547811",
-      "time": "2026-05-05 16:43:50",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Germany",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "German Bund Yields Stay Elevated on ECB Rate Hike Expectations — Germany’s 10-year Bund yield held above 3.05%, near multi-year highs, as investors bet on imminent ECB rate hikes to combat inflation. The rise reflects ongoing global energy disruptions, with oil prices at four-year peaks and the Strait of Hormuz still closed due to the US-Israeli conflict with Iran. Markets now price in over three ECB hikes this year. Though the ECB kept rates unchanged at its last meeting, it left the door open for future moves, citing inflation risks and growth concerns. ECB President Christine Lagarde confirmed the unanimous decision to hold, though a hike was debated. Meanwhile, officials Joachim Nagel, Madis Müller, and Peter Kazimir signaled potential tightening as early as June, warning of worsening inflation and persistent price pressures."
-    },
-    {
-      "id": "4860895",
-      "time": "2026-05-05 16:43:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【時代電氣：2026年多日購回股份擬登出 5月4日付出近1700萬元】時代電氣公告稱，2026年2月10日至5月4日期間多個交易日存在購回股份擬登出但尚未登出情況，如2月10日購回109,700股，佔比0.0224%，每股購回價42.7334港元等。5月4日，公司於本交易所購回467,300股，每股最高購回價36.46港元，最低36.02港元，付出的價格總額1697.55萬元。公司於2025年6月27日透過購回授權決議，可購回股份總數48,904,090股，已購回8,574,800股，佔比1.7534%。"
-    },
-    {
-      "id": "4860894",
-      "time": "2026-05-05 16:43:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "【今年以舊換新帶動銷售額超6000億元】商務大資料顯示：截至5月2日，今年消費品以舊換新已惠及8427.4萬人次，帶動銷售額6193.6億元。隨著以舊換新政策進一步加力擴圍，5月1日起，上海、湖北、重慶等地已同步實施自主品類補貼，在國家10類產品基礎上，新增智慧家居、適老化等產品類別。（央視財經）"
-    },
-    {
-      "id": "te:economy:547810",
-      "time": "2026-05-05 16:43:19",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Hong Kong",
-        "GDP Annual Growth Rate",
-        "Importance 1"
-      ],
-      "text": "Hong Kong Q1 GDP Hits Near 5-Year High — Hong Kong’s economy expanded 5.9% year-on-year in the first quarter of 2026, comfortably beating market expectations of 3.5% and accelerating from an upwardly revised 4.0% in Q4 2025, preliminary estimates showed. It marked the strongest economic growth since Q2 2021, supported by expansion across domestic and external demand. Household consumption jumped to 5% from 2.5% in Q4 2025, while government spending increased to 2.9% from 1.5%. In addition, gross fixed capital formation surged 17.7%, compared with 11.7% in the prior period. External trade also provided a significant boost, as exports of goods jumped to 23.8% from 15.4%, while imports climbed to 29.9% from 18.2%. On a seasonally adjusted quarterly basis, GDP grew to a five-year high of 2.9%, compared with an upwardly revised 1.1% in the preceding quarter."
-    },
-    {
-      "id": "4860893",
-      "time": "2026-05-05 16:41:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊軍方訊息人士否認襲擊富查伊拉稱美方應對此負責】據伊朗媒體4日報道，一名不願公開姓名的伊朗軍方訊息人士當天否認阿聯酋富查伊拉石油工業區火災與伊朗有關，並就有關阿聯酋威脅打擊伊朗的報道作回應，警告阿聯酋不得采取不當行動。據伊朗伊斯蘭共和國廣播電視臺報道，這名伊朗軍方訊息人士說，伊朗沒有預先策劃任何針對富查伊拉石油工業區的襲擊計劃。相關事件是美國“軍事冒險行為”的結果，美方應對此負責。他指責美方試圖為“非法透過霍爾木茲海峽受限水域”的船隻製造通道。伊朗塔斯尼姆通訊社報道，這名軍方訊息人士說，目前關於阿聯酋威脅打擊伊朗的說法多為媒體援引訊息源報道，尚無來自阿聯酋方面的正式威脅。但是，如果阿聯酋“成為以色列的工具並採取不當行動”，伊朗將作出嚴厲回應，阿聯酋“所有利益都可能成為打擊目標”，阿境內設施“將不再安全”。這名訊息人士表示，阿聯酋“對自身安全形勢心知肚明”，若作出“錯誤選擇”，伊方將不再保持克制，並將阿聯酋“視同以色列的一部分加以應對”。富查伊拉媒體辦公室4日釋出宣告稱，富查伊拉石油工業區當天遭一架來自伊朗方向的無人機襲擊而起火，造成3名印度籍人員受傷。阿聯酋國防部當晚宣佈，該國防空系統當天成功攔截來自伊朗方向的12枚彈道導彈、3枚巡航導彈以及4架無人機。(新華社)"
-    },
-    {
-      "id": "4860892",
-      "time": "2026-05-05 16:41:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯聯邦安全域性克拉斯諾達爾邊疆區分局表示，執法部門在阿納帕拘留了某國際恐怖組織秘密團伙的三名成員。"
-    },
-    {
-      "id": "4860891",
-      "time": "2026-05-05 16:40:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "【比亞迪：2026年4月新能源汽車產銷量同比均下滑】比亞迪公告稱，2026年4月，公司新能源汽車產量322,298輛，同比下降16.19%，本年累計產量1,030,335輛，同比下降28.56%；銷量321,123輛，同比下降15.51%，本年累計銷量1,021,586輛，同比下降26.02%。4月出口新能源汽車合計135,098輛。2026年4月新能源汽車動力電池及儲能電池裝機總量約為20.977GWh，2026年累計裝機總量約為81.192GWh。"
-    },
-    {
-      "id": "4860890",
-      "time": "2026-05-05 16:39:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "【長安汽車：4月產量18.09萬輛、銷量17.93萬輛，同比下降】證券簡稱公告，2026年4月，長安汽車產量18.09萬輛，銷量17.93萬輛，其中海外銷量77659輛；產量同比變動-6.87%，銷量同比變動-5.95%。本年累計產量66.69萬輛，同比變動-15.13%，累計銷量73.68萬輛，同比變動-17.75%。"
-    },
-    {
-      "id": "4860889",
-      "time": "2026-05-05 16:38:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【比亞迪：4月新能源汽車產量32.23萬輛、銷量32.11萬輛】比亞迪公告，2026年4月新能源汽車產量32.23萬輛，銷量32.11萬輛；本年累計產量103.03萬輛，同比下降28.56%，去年累計144.21萬輛；累計銷量102.16萬輛，同比下降26.02%，去年累計138.09萬輛。4月出口新能源汽車13.51萬輛；4月新能源汽車動力電池及儲能電池裝機總量約20.98 GWh，2026年累計裝機總量約81.19 GWh。"
-    },
-    {
-      "id": "te:markets:547806",
-      "time": "2026-05-05 16:37:41",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Euro Little-Changed as Geopolitics and ECB Hike Bets Weigh — The euro traded near $1.17, as investors weighed Middle East tensions, new US tariffs, and rising expectations of an ECB rate hike as soon as June. Oil prices stayed close to four-year highs due to the US-Iran standoff over the Strait of Hormuz. Meanwhile, Trump ordered the withdrawal of 5,000 US troops from Germany, hinting at further cuts, and raised tariffs on EU cars and trucks to 25%, accusing the EU of failing to uphold its trade deal with Washington. Markets now price in over three ECB hikes this year. Though the ECB held rates steady last week, it signaled potential adjustments, citing inflation risks and growth concerns. Officials Joachim Nagel, Madis Müller, and Peter Kazimir hinted at tightening in June, warning of persistent price pressures."
-    },
-    {
-      "id": "4860888",
-      "time": "2026-05-05 16:37:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯聯邦安全域性克拉斯諾達爾邊疆區分局通報稱，已在阿納帕查獲並搗毀一個國際恐怖組織的秘密分支據點。"
-    },
-    {
-      "id": "4860887",
-      "time": "2026-05-05 16:37:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "【本輪巴以衝突已致加沙地帶72615人死亡】當地時間5月5日，加沙地帶衛生部門發表宣告稱，自2023年10月7日巴以新一輪大規模衝突爆發以來，以軍在加沙地帶的軍事行動已造成72615名巴勒斯坦人死亡，另有17.25萬人受傷。（央視新聞）"
-    },
-    {
-      "id": "4860886",
-      "time": "2026-05-05 16:35:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【金海通：擬發行可轉債募資不超8.5億元 用於半導體先進裝備智慧製造等專案】金海通(603061)5月5日公告，公司擬向不特定物件發行可轉債，募資總額不超過8.5億元（含），投資於半導體先進裝備智慧製造及創新研發專案、補充流動資金。"
-    },
-    {
-      "id": "4860885",
-      "time": "2026-05-05 16:35:43",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【分析：英鎊漲勢料將受限，受美元走強影響】Monex Europe的分析師在一份報告中表示，鑑於避險資產需求增加導致美元上漲，英鎊的漲幅可能受限。此外，市場將關注定於週四舉行的英國地方選舉的結果，目前外界擔心首相基爾·斯塔默可能面臨領導權挑戰。這些分析師表示：“我們預計英鎊的反彈嘗試將受到限制，除非中東局勢出現明顯降溫或美國收益率大幅下降。“英鎊上漲0.1%，至1.3544美元。"
     }
   ]
 }
