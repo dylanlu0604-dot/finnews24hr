@@ -1,7 +1,19 @@
 {
-  "updated": "2026-05-13 04:11:40",
-  "count": 14824,
+  "updated": "2026-05-13 04:15:02",
+  "count": 14821,
   "items": [
+    {
+      "id": "te:markets:550080",
+      "time": "2026-05-13 04:14:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "S&P 500 and Nasdaq End the Session Lower — US stocks cut losses in the last three hours of trading, with the S&P 500 closing 0.2% lower, the Dow remaining near the flat line, and the Nasdaq falling 0.7%. Hot April CPI report consolidated worries that higher energy prices may dent earnings prospectives backing bets that the Fed will not cut rates this year against recent evidence of a robust labor market. Alphabet, Amazon, Microsoft, Tesla were down more than 1% while Nvidia and Apple turn positive. Chip and memory producers also decline as South Korea mulled establishing a universal dividend for the recent surges in AI infrastructure stocks, pressuring Broadcom and AMD to fall 2%. Meanwhile, telehealth company Hims & Hers plunged 15% after its first-quarter earnings report missed expectations."
+    },
     {
       "id": "4875828",
       "time": "2026-05-13 04:11:03",
@@ -132178,48 +132190,6 @@
         "其他"
       ],
       "text": "市場訊息：蘋果就人工智慧版 Siri推遲上線一事，達成2.5 億美元和解協議。"
-    },
-    {
-      "id": "4862045",
-      "time": "2026-05-06 04:14:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "西方石油公司（OXY）一季度資本開支16億美元。"
-    },
-    {
-      "id": "te:markets:548001",
-      "time": "2026-05-06 04:14:31",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Emerson Electric earnings in line with market expectations at 1.54 USD — Emerson Electric (EMR) released earnings per share at 1.54 USD, in line with market expectations."
-    },
-    {
-      "id": "4862044",
-      "time": "2026-05-06 04:14:22",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【貝萊德CEO預言算力期貨市場將誕生】貝萊德執行長Larry Fink表示，全球對算力的需求極為龐大，未來交易員將能夠在相關期貨市場上進行押注。“一種新的資產類別將是購買算力期貨，”Fink週二在Beverly Hills舉行的米爾肯研究院全球會議一場小組討論中表示，並稱，美國在算力、晶片和記憶體方面均存在不足。“我們目前的算力確實不夠。”這家全球最大的資產管理公司正透過與微軟、英偉達以及阿聯酋投資機構MGX等合作，向資料中心和能源公司投入數百億美元。"
-    },
-    {
-      "id": "te:markets:548000",
-      "time": "2026-05-06 04:11:58",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "S&P 500 & Nasdaq Hit New Records — US equities climbed to new highs on Tuesday, buoyed by a retreat in energy prices that eased concerns about a sharper uptick in inflation this year. The S&P 500 gained 0.8% and the Nasdaq advanced 1.2%, both reaching record levels, while the Dow closed up 0.8%. Oil and product prices eased after Defense Secretary Hegseth stated that the ceasefire with Iran is still holding, despite attacks targeting the UAE this week. High energy costs had already driven bets of a Fed hike this year. The JOLTS reflected a robust labor market in March and strong ISM results, including surging prices, aligned with arguments from hawkish Fed dissenters. Intel surged 14% on reports that it may produce processors for Apple devices. Amazon also gained on fresh additions of logistics and distribution. In turn, Palantir dropped 7% after missing the market's ambitious guidance estimates, and AMD sank ahead of its results after the bell."
     }
   ]
 }
