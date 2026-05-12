@@ -1,7 +1,32 @@
 {
-  "updated": "2026-05-13 04:08:23",
+  "updated": "2026-05-13 04:11:40",
   "count": 14824,
   "items": [
+    {
+      "id": "4875828",
+      "time": "2026-05-13 04:11:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "黎巴嫩真主黨稱，在黎巴嫩南部的亞爾夫哈爾法鎮，使用無人機襲擊並命中一輛以色列工程車輛。"
+    },
+    {
+      "id": "4875827",
+      "time": "2026-05-13 04:09:22",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通將在以太坊區塊鏈上推出代幣化貨幣市場基金。"
+    },
+    {
+      "id": "4875826",
+      "time": "2026-05-13 04:08:30",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "法國總統馬克龍：體育產業佔全球國內生產總值的2%。而在非洲，體育產業僅佔其國內生產總值的0.5%。這一現狀並不合理，究其根源，存在運動員人才被變相掠奪、大量流失至其他國家的現象。"
+    },
     {
       "id": "mkt:019e1dca-defa-7772-877d-f35478902f60",
       "time": "2026-05-13 04:04:55",
@@ -132195,38 +132220,6 @@
         "Importance 2"
       ],
       "text": "S&P 500 & Nasdaq Hit New Records — US equities climbed to new highs on Tuesday, buoyed by a retreat in energy prices that eased concerns about a sharper uptick in inflation this year. The S&P 500 gained 0.8% and the Nasdaq advanced 1.2%, both reaching record levels, while the Dow closed up 0.8%. Oil and product prices eased after Defense Secretary Hegseth stated that the ceasefire with Iran is still holding, despite attacks targeting the UAE this week. High energy costs had already driven bets of a Fed hike this year. The JOLTS reflected a robust labor market in March and strong ISM results, including surging prices, aligned with arguments from hawkish Fed dissenters. Intel surged 14% on reports that it may produce processors for Apple devices. Amazon also gained on fresh additions of logistics and distribution. In turn, Palantir dropped 7% after missing the market's ambitious guidance estimates, and AMD sank ahead of its results after the bell."
-    },
-    {
-      "id": "4862043",
-      "time": "2026-05-06 04:10:52",
-      "tags": [
-        "市場"
-      ],
-      "text": "Super Micro美股盤後股價大漲 9%。"
-    },
-    {
-      "id": "te:markets:547999",
-      "time": "2026-05-06 04:09:55",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Electronic Arts EA earnings below expectations at 1.81 USD — Electronic Arts EA (EA) released earnings per share at 1.81 USD, compared to market expectations of 2.39 USD."
-    },
-    {
-      "id": "te:markets:547998",
-      "time": "2026-05-06 04:09:53",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Arista Networks earnings above expectations at 0.87 USD — Arista Networks (ANET) released earnings per share at 0.87 USD, compared to market expectations of 0.81 USD."
     }
   ]
 }
