@@ -1,7 +1,50 @@
 {
-  "updated": "2026-05-12 12:28:43",
-  "count": 14111,
+  "updated": "2026-05-12 12:32:03",
+  "count": 14110,
   "items": [
+    {
+      "id": "4874147",
+      "time": "2026-05-12 12:30:58",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【中韓半導體ETF盤中溢價率最高超過30% 管理人數次提示風險】今日三星電子、SK海力士等韓國晶片股衝高回落，致中韓半導體ETF華泰柏瑞的走勢也發生較大波動。該基金今日上午一度上漲7.54%，溢價率超30%，不過臨近午盤時衝高回落並一度翻綠。近期該基金持續溢價，基金管理人提示投資者關注二級市場交易價格溢價風險，投資者如果盲目投資，可能遭受重大損失。"
+    },
+    {
+      "id": "4874146",
+      "time": "2026-05-12 12:30:19",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【摩根資產管理料油價下半年回落 維持超配股票立場】摩根資產管理週二稱，預計布倫特原油價將在第三和第四季回落至更正常的水平，全球經濟應能挺過能源衝擊並實現穩健增長，併為其在未來12-18個月的投資期內繼續保持“追逐風險”的立場（包括超配股票）奠定了基礎。該行首席投資組合經理盛楠在一份評論指出，全球經濟各地區對能源價格上漲的脆弱性各不相同，其中美國經濟將從高於趨勢的增長率轉變為接近或略高於趨勢的增長率，高油價對核心通脹的傳導有限；消費者和企業都將把能源價格飆升視為暫時現象，這應有助於避免更廣泛的經濟放緩。投資策略方面，她指出，維持溫和的“追逐風險”（risk-on）立場，包括超配股票，並重申對科技和通訊服務板塊的偏好。在固定收益方面，隨著收益率曲線變陡，傾向於較短的久期；信用債配置為中性，反映了回報的不對稱分佈。"
+    },
+    {
+      "id": "te:markets:549850",
+      "time": "2026-05-12 12:29:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Banco BTG Pactual earnings above expectations at 1.24 BRL — Banco BTG Pactual (BPAC11) released earnings per share at 1.24 BRL, compared to market expectations of 1.23 BRL."
+    },
+    {
+      "id": "te:markets:549849",
+      "time": "2026-05-12 12:29:27",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Petrobras earnings above expectations at 2.75 BRL — Petrobras (PETR3) released earnings per share at 2.75 BRL, compared to market expectations of 1.68 BRL."
+    },
     {
       "id": "4874145",
       "time": "2026-05-12 12:27:49",
@@ -124974,50 +125017,6 @@
         "Importance 2"
       ],
       "text": "RBA Hikes Key Rate to 4.35% — The Reserve Bank of Australia raised its cash rate by 25 bps to 4.35% at its April 2026 meeting, following a hike in March, in line with market expectations. The move followed a material pickup in inflation in the second half of 2025, which has been partly driven by stronger capacity pressures in the economy, alongside additional inflationary impact from sharply higher fuel and commodity prices due to the Middle East conflict. The Board noted early signs of firms passing on cost pressures to consumers, with short-term inflation expectations also rising. Updated forecasts suggest underlying inflation will peak higher than previously expected before gradually easing as demand slows and capacity constraints improve under tighter monetary conditions."
-    },
-    {
-      "id": "4860581",
-      "time": "2026-05-05 12:31:47",
-      "tags": [
-        "央行"
-      ],
-      "text": "澳元在澳洲聯儲決議公佈後走勢震盪，最新持平於0.7168美元。"
-    },
-    {
-      "id": "4860580",
-      "time": "2026-05-05 12:31:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "【哥倫比亞礦難致9人死亡】哥倫比亞國家礦業局4日釋出宣告說，哥中部昆迪納馬卡省當天發生一起煤礦爆炸事故，已確認9名礦工遇難、6名礦工獲救。（新華社）"
-    },
-    {
-      "id": "te:economy:547684",
-      "time": "2026-05-05 12:30:51",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Egypt",
-        "Manufacturing PMI",
-        "Importance 1"
-      ],
-      "text": "Egypt Non-Oil Private Sector Activity Hit 3-Year Low — The S&P Global Egypt PMI fell to 46.6 in April 2026 from 48.0 in March, marking a sharper deterioration in non-oil private sector conditions and the steepest rate of contraction since January 2023. Both output and new orders declined significantly amid persistent cost pressures and softer demand. Input costs rose at the fastest pace since January 2023, driven by higher fuel and material prices linked to Middle East tensions. In response, firms cut purchasing and reduced headcount to contain costs. Order books contracted sharply, pulling down output, while weak demand was broad-based, especially in manufacturing and wholesale & retail. On the cost front, selling prices rose at the strongest pace since August 2024 as firms passed on higher costs despite weak demand. Meanwhile, purchasing activity fell and input orders were reduced, reflecting softer sales and tighter operating conditions. Looking ahead, business confidence remained subdued regarding year-ahead output."
-    },
-    {
-      "id": "4860579",
-      "time": "2026-05-05 12:30:26",
-      "tags": [
-        "央行"
-      ],
-      "text": "【澳洲聯儲如期加息25個基點】澳洲聯儲加息25個基點至4.35%，符合市場預期，為連續第三次加息。"
-    },
-    {
-      "id": "4860578",
-      "time": "2026-05-05 12:28:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "哥伦比亚国家矿业局通报：哥伦比亚发生煤矿爆炸事故，已造成9名矿工遇难、6人受伤。"
     }
   ]
 }
