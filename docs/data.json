@@ -1,7 +1,18 @@
 {
-  "updated": "2026-05-13 03:20:58",
-  "count": 14818,
+  "updated": "2026-05-13 03:24:21",
+  "count": 14816,
   "items": [
+    {
+      "id": "mkt:019e1da2-f88b-7772-877d-84c45296a578",
+      "time": "2026-05-13 03:21:20",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Iran Fails to Export Crude by Sea for Nearly a Month】According to TankerTrackers.com, Iran has not successfully exported crude oil by sea over the past 28 days. Some refined products were shipped as they were not sanctioned by the U.S. OFAC. Kharg Island has not loaded any tankers since May 6 due to an oil leak Tehran denies. Many empty and cargo-laden tankers remain near the blockade perimeter and off Pakistan’s coast. TankerTrackers defines a successful export as a tanker crossing the U.S. Navy blockade without returning."
+    },
     {
       "id": "mkt:019e1da1-c2f6-7772-877d-79f25bf51b61",
       "time": "2026-05-13 03:20:00",
@@ -132090,30 +132101,6 @@
         "國際"
       ],
       "text": "美國國務卿魯比奧：我們必須就伊朗願意談判的議題達成一致。如果存在真正的外交途徑，那可能會引導伊朗走向繁榮。但我不確定是否會存在真正的外交途徑。美國掌握著所有的牌。"
-    },
-    {
-      "id": "4862003",
-      "time": "2026-05-06 03:23:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "【蘋果據悉將允許使用者選用多款第三方人工智慧服務】蘋果公司將允許使用者從一系列外部人工智慧服務中進行選擇，為其軟體各項功能提供支援。此舉旨在推進將旗下裝置打造為綜合性AI平臺的戰略。知情人士表示，使用者將能夠在多個第三方AI模型中進行選擇，用於生成和編輯文字及影象等任務。這項變化預計將於今年秋季隨iOS 27、iPadOS 27 和macOS 27上線。彭博新聞社3月報道稱，蘋果計劃向外部人工智慧助手開放Siri，此舉旨在強化iPhone作為人工智慧平臺的地位。在2024年推出的Apple 智慧平臺目前在Siri、“寫作工具”和“圖樂園”等功能中僅提供ChatGPT這一種第三方選項。這都是蘋果力求在人工智慧市場佔據優勢的一環，但路徑有所不同。該公司並非僅依靠自研最佳AI軟體和服務，而是致力於讓使用者能夠在其裝置上便捷獲取多種選擇。"
-    },
-    {
-      "id": "4862001",
-      "time": "2026-05-06 03:22:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：任何幫助伊朗規避制裁的外國金融機構或商業行為體都將面臨二次制裁風險，並失去進入美國金融體系的資格。美國特使威特科夫和特朗普女婿庫什納正在努力推動外交程序。"
-    },
-    {
-      "id": "4862000",
-      "time": "2026-05-06 03:21:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：Meta計劃面向消費者推出高階智慧自主體AI 助手。"
     }
   ]
 }
