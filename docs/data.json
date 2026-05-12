@@ -1,7 +1,26 @@
 {
-  "updated": "2026-05-13 02:13:13",
-  "count": 14808,
+  "updated": "2026-05-13 02:16:37",
+  "count": 14805,
   "items": [
+    {
+      "id": "te:markets:550072",
+      "time": "2026-05-13 02:15:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Heating Oil Rises by 4.88% — Top commodity gainers are Heating Oil (4.88%), Crude Oil WTI (4.38%) and Brent Crude Oil (3.63%). Biggest losers are Natural gas (-2.42%) and Coking Coal (-0.52%)."
+    },
+    {
+      "id": "4875755",
+      "time": "2026-05-13 02:14:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：北約令我失望，我們不需要它的幫助。美國人民明白為什麼現在的成本如此高，戰爭結束後這些成本會迅速下降。（談及伊朗）我可以現在退出，但我不想這樣，我想徹底完成這件事。我們對伊朗的控制非常到位。我們要麼達成協議，要麼他們將被徹底摧毀。無論如何，我們都贏了。每個美國人都明白，伊朗不能擁有核武器。如果股市稍微出現波動，美國人民也能理解。"
+    },
     {
       "id": "mkt:019e1d64-6bbc-7772-877c-ced471972721",
       "time": "2026-05-13 02:12:52",
@@ -131916,52 +131935,6 @@
         "國際"
       ],
       "text": "美國警方通報：達拉斯北部一家購物中心附近發生槍擊事件，造成2人死亡、3人受傷。"
-    },
-    {
-      "id": "4861943",
-      "time": "2026-05-06 02:15:50",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "委內瑞拉債券大幅上漲，美國放寬部分舉措，允許其開展債務重組相關操作。"
-    },
-    {
-      "id": "4861942",
-      "time": "2026-05-06 02:15:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基：俄羅斯襲擊扎波羅熱，醫院內7人受傷。"
-    },
-    {
-      "id": "te:markets:547994",
-      "time": "2026-05-06 02:15:19",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Crude Oil WTI Drops by 3.83% — Top commodity losers are Crude Oil WTI (-3.83%), Brent Crude Oil (-3.78%) and Gasoline (-3.24%). Gains are led by Natural Gas UK (2.57%)."
-    },
-    {
-      "id": "4861941",
-      "time": "2026-05-06 02:14:24",
-      "tags": [
-        "宏觀",
-        "公司",
-        "國際"
-      ],
-      "text": "【美國已批准向委內瑞拉提供與潛在債務重組相關的服務】據美國財政部網站週二釋出的公告顯示，美國已頒佈一項通用許可，授權向委內瑞拉提供與潛在債務重組相關的特定服務，其中包括委內瑞拉國家石油公司（PdVSA）及其關聯實體的債務。"
-    },
-    {
-      "id": "4861940",
-      "time": "2026-05-06 02:13:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭地方官員稱，俄羅斯的襲擊造成烏克蘭東南部第聶伯羅市三人死亡、九人受傷。"
     }
   ]
 }
