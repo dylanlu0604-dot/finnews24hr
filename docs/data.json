@@ -1,7 +1,46 @@
 {
-  "updated": "2026-05-13 02:23:23",
-  "count": 14806,
+  "updated": "2026-05-13 02:26:47",
+  "count": 14808,
   "items": [
+    {
+      "id": "4875762",
+      "time": "2026-05-13 02:25:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗：與美談判先決條件是結束戰事和解除封鎖霍爾木茲海峽】當地時間5月12日，伊朗外交部發言人巴加埃表示，結束戰事和解除對霍爾木茲海峽的封鎖是同美國進行任何談判的先決條件。巴加埃還表示，美國要求的是伊朗“徹底投降”，而不是真正的對話。他還指出，封鎖霍爾木茲海峽的責任在於美國，根據國際法，海上封鎖構成戰爭行為。（央視新聞）"
+    },
+    {
+      "id": "4875761",
+      "time": "2026-05-13 02:25:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿聯酋通訊社：阿聯酋將與真主黨有關聯的個人及實體列入恐怖分子名單。"
+    },
+    {
+      "id": "te:markets:550074",
+      "time": "2026-05-13 02:24:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Wheat Rallies by 7.13% — Top commodity gainers are Wheat (7.13%), Orange Juice (4.19%) and Barley (2%). Biggest losers are Cocoa (-2.36%), Cotton (-1.83%) and Oat (-1.47%)."
+    },
+    {
+      "id": "mkt:019e1d6e-90a0-7772-877c-ed63e4c71b92",
+      "time": "2026-05-13 02:24:05",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "S&P 500 INDEX TRIMS LOSS TO 0.5%, HAD EARLIER FALLEN AS MUCH AS 1%"
+    },
     {
       "id": "4875760",
       "time": "2026-05-13 02:21:50",
@@ -131927,25 +131966,6 @@
         "其他"
       ],
       "text": "【西班牙提議涉疫郵輪轉移感染者至維德角】世界衛生組織與西班牙衛生部5日就涉漢坦病毒疫情郵輪“洪迪厄斯”號是否停靠西班牙加那利群島接受醫療處置進行磋商。西班牙方面提議將感染者就近轉移至非洲國家維德角，避免該郵輪停靠加那利群島。"
-    },
-    {
-      "id": "te:markets:547996",
-      "time": "2026-05-06 02:25:19",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Orange Juice Drops by 4.90% — Top commodity losers are Orange Juice (-4.90%), Wheat (-2.08%) and Corn (-1.81%). Gains are led by Cocoa (4.58%), Rice (2.70%) and Cotton (2.17%)."
-    },
-    {
-      "id": "4861951",
-      "time": "2026-05-06 02:24:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗總統：美國正對伊採取“極限施壓”】當地時間5月5日，伊朗總統佩澤希齊揚表示，儘管美方承諾對話，但美國在該地區的軍事行動升級和威脅仍然存在。美國正在對伊朗採取“極限施壓”，伊朗不會受美方政策壓迫而接受美方要求。（央視新聞）"
     }
   ]
 }
