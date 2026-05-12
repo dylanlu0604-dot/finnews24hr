@@ -1,7 +1,61 @@
 {
-  "updated": "2026-05-12 15:49:49",
-  "count": 14329,
+  "updated": "2026-05-12 15:53:19",
+  "count": 14330,
   "items": [
+    {
+      "id": "4874557",
+      "time": "2026-05-12 15:52:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "英鎊跌至一週新低1.3514美元。"
+    },
+    {
+      "id": "te:markets:549935",
+      "time": "2026-05-12 15:52:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Falls Over 1% — The FTSE MIB fell over 1% to around 49,000 on Tuesday, giving back gains from the previous session, as hopes for a swift resolution to the US–Iran war continued to fade. This followed comments from US President Donald Trump, who said the truce is “on life support” and rejected Tehran’s latest counterproposal as “unacceptable,” pushing oil prices higher and keeping fears of inflationary pressures. Heavyweight financials were among the early laggards, including UniCredit (-1.9%), Intesa Sanpaolo (-1.6%), Assicurazioni Generali (-1.2%), Banco BPM (-1.1%), BPER Banca (-2.0%), and FinecoBank (-1.1%)."
+    },
+    {
+      "id": "4874556",
+      "time": "2026-05-12 15:51:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "歐元兌英鎊升至近三週高點0.8688。"
+    },
+    {
+      "id": "4874554",
+      "time": "2026-05-12 15:50:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "儘管已達成停火協議，以色列仍轟炸黎巴嫩南部納巴蒂耶地區城鎮，衝突襲擊持續上演。"
+    },
+    {
+      "id": "4874553",
+      "time": "2026-05-12 15:50:39",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【機構：泰國通脹壓力可能進一步加劇】RHB Bank的Barnabas Gan在一份報告中表示，泰國的通脹壓力可能進一步加劇。4月份整體通脹率同比升至2.89%，而3月份為下降0.08%。全球原油價格上漲推高了國內零售燃油價格。隨著生產商將更高的運營和投入成本轉嫁給消費者，預製食品價格也有所上漲。RHB維持其對泰國2026年整體通脹率1.0%的預測。不過，RHB指出，如果中東地緣政治緊張局勢持續，且霍爾木茲海峽實際上保持關閉，其預測可能會上調至接近2.5%。"
+    },
+    {
+      "id": "4874552",
+      "time": "2026-05-12 15:50:18",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【澳新銀行：通脹和需求擔憂令黃金承壓】受美伊之間脆弱停火局勢令前景蒙上陰影的影響，金價應聲下跌。在歐洲早盤交易中，紐約黃金期貨價格下跌0.7%，報每盎司4697.70美元。澳新銀行的分析師指出：“市場目前似乎陷入了兩難境地，一方面是地緣政治引發的焦慮，另一方面則是對通脹上行的擔憂。”與此同時，實物黃金需求也可能面臨風險，因為印度總理已呼籲國民在未來一年內暫緩購買黃金，以協助維護國家外匯儲備。"
+    },
     {
       "id": "4874551",
       "time": "2026-05-12 15:49:05",
@@ -126962,51 +127016,6 @@
         "國際"
       ],
       "text": "西班牙外交大臣：霍爾木茲海峽問題沒有軍事解決辦法。讓霍爾木茲海峽恢復正常狀態，不可能透過戰爭實現，只能透過談判。西班牙仍堅持其立場，不參與任何針對伊朗戰爭的軍事行動。"
-    },
-    {
-      "id": "4860826",
-      "time": "2026-05-05 15:52:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗媒體報道：伊朗第一副總統談及拆除部分邊境隔離牆以便利過境通行一事時補充表示，未來一週內，將就拆除部分邊境隔離牆、保障過境通行的相關事宜開展審議，經各方協調並取得必要批准後予以落實推進。"
-    },
-    {
-      "id": "te:markets:547785",
-      "time": "2026-05-05 15:52:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "French Stocks Recover — The CAC 40 rose 0.8% to 8,034 on Tuesday, rebounding from the previous session as investors largely focused on corporate earnings. Vicat gained 2.9% after reporting Q1 sales growth and reaffirming its 2026 outlook. In addition, Saint-Gobain rose 0.3% on plans to sell part of its distribution business. Other gains included LVMH (0.7%), Schneider Electric (1.3%), Orange (2.6%), and Capgemini (1%). In contrast, Sanofi dropped 4% to its lowest level since March 2020 after announcing a $294 million AI expansion investment. Beneteau also fell 2.4% despite Q1 revenue growth, as a slowdown in order intake linked to Middle East uncertainty tempered outlook. Nevertheless, investors remained on edge after US forces reportedly repelled Iranian attacks while escorting two US-flagged vessels through the Strait of Hormuz, and reports indicated a drone strike on the UAE’s Fujairah port. The renewed tensions threatened to unravel the fragile ceasefire between the US and Iran."
-    },
-    {
-      "id": "4860825",
-      "time": "2026-05-05 15:51:14",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "印尼財政部長：將為使用本土鎳電池的電動車提供更高的激勵措施。"
-    },
-    {
-      "id": "4860824",
-      "time": "2026-05-05 15:50:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "長城汽車：4月汽車銷量為106312輛，同比增長6.25%。"
-    },
-    {
-      "id": "4860823",
-      "time": "2026-05-05 15:49:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "【“五一”假期北京各公園接待遊客1058.39萬人次】記者從北京市園林綠化局獲悉，2026年整個“五一”小長假期間，北京全市公園共接待遊客1058.39萬人次，同比增加13.58%。假期5天納客量排名前三的公園分別為：頤和園78.80萬人次、天壇公園77.64萬人次、朝陽公園47.59萬人次。（央視新聞）"
     }
   ]
 }
