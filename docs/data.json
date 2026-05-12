@@ -1,7 +1,133 @@
 {
-  "updated": "2026-05-12 14:46:50",
-  "count": 14211,
+  "updated": "2026-05-12 14:50:12",
+  "count": 14218,
   "items": [
+    {
+      "id": "mkt:019e1af3-3188-7dd9-b929-9f65d25a6ce2",
+      "time": "2026-05-12 14:50:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SPOT PLATINUM FALLS 3% TO $2,067.15/OZ"
+    },
+    {
+      "id": "mkt:019e1af3-1ac8-7dd9-b929-978ab7870b2f",
+      "time": "2026-05-12 14:50:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "INDIA OIL MINISTER: AT SOME STAGE GOVT WILL HAVE TO TAKE A VIEW ON HOW LONG OIL MARKETING FIRMS CAN TAKE LOSSES"
+    },
+    {
+      "id": "4874367",
+      "time": "2026-05-12 14:49:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌2%，現報84.11美元/盎司。"
+    },
+    {
+      "id": "4874366",
+      "time": "2026-05-12 14:49:51",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超3.1萬億元，較上日此時縮量2850億元。"
+    },
+    {
+      "id": "4874365",
+      "time": "2026-05-12 14:49:47",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀失守85美元/盎司，日內跌1.27%。"
+    },
+    {
+      "id": "4874364",
+      "time": "2026-05-12 14:49:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "日立集團計劃透過大宗交易出售所持日立建機約8%的股份。"
+    },
+    {
+      "id": "4874363",
+      "time": "2026-05-12 14:49:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度石油部長：政府終究必須就是石油營銷企業還能承擔虧損多久表明立場。"
+    },
+    {
+      "id": "4874362",
+      "time": "2026-05-12 14:48:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "衣索比亞航空正考慮訂購空客 A350、A220 機型。"
+    },
+    {
+      "id": "4874361",
+      "time": "2026-05-12 14:48:44",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "拜耳股份公司（程式碼）公佈業績後，其股價在法蘭克福早盤交易中上漲3.4%。"
+    },
+    {
+      "id": "4874360",
+      "time": "2026-05-12 14:48:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度Nifty IT指數跌幅擴大至4%，創2023年5月以來新低。"
+    },
+    {
+      "id": "4874359",
+      "time": "2026-05-12 14:48:06",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【光大期貨：白銀強勢領漲超5%，供給端擾動支撐盤面】白銀短期偏強格局明顯，供給端擾動預期或為盤面持續提供支撐，但不宜過度追高。後續需重點關注美伊談判進展、秘魯能源政策實際影響、美聯儲新任主席政策立場以及白銀供給端變化。（光大期貨）"
+    },
+    {
+      "id": "4874358",
+      "time": "2026-05-12 14:47:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "EQT將以每股約3000日元的價格收購比價網Kakaku.com股份，並將該公司私有化退市。"
+    },
+    {
+      "id": "4874357",
+      "time": "2026-05-12 14:47:43",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【花旗策略師：標普 500 期貨空頭平倉或助推股市猛漲】花旗策略師表示，儘管虧損不斷累積，投資者仍堅持持有標普 500 指數期貨空頭頭寸，空頭平均建倉點位約 6680 點；這加大了空頭回補風險，進而可能推動股市進一步強勢衝高。由 David Chew 領銜的團隊撰文稱，受避險資金持續流入推動，納斯達克期貨持倉大幅向多頭區間攀升，美股市場情緒持續回暖，不過當前名義持倉規模尚未達到極端水平。"
+    },
+    {
+      "id": "4874356",
+      "time": "2026-05-12 14:47:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "西門子能源首席財務官：若油價維持在每桶105美元左右，預計不會對業務產生重大影響；但如果油價升至每桶120至130美元，情況將會改變。"
+    },
+    {
+      "id": "4874355",
+      "time": "2026-05-12 14:47:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜本次債券包含 3 年期、6 年期、9 年期、12 年期、18 年期及 25 年期品種，預計於今日晚些時候敲定發行定價。"
+    },
     {
       "id": "4874354",
       "time": "2026-05-12 14:46:33",
@@ -125871,82 +125997,6 @@
         "國際"
       ],
       "text": "印度總理：強烈譴責針對阿聯酋的襲擊事件，此次襲擊造成三名印度公民受傷，並強調襲擊平民與基礎設施的行為不可接受。"
-    },
-    {
-      "id": "4860729",
-      "time": "2026-05-05 14:50:05",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "匈牙利央行行長瓦爾加：今年基礎預算赤字可能擴大，該問題必須得到控制。"
-    },
-    {
-      "id": "4860728",
-      "time": "2026-05-05 14:49:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗總統辦公室：任何傳播分裂、對立和衝突的言論，都是在戰時從背後刺來的毒刃。"
-    },
-    {
-      "id": "4860727",
-      "time": "2026-05-05 14:48:48",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "馬來西亞總理：政府將撥款4800萬林吉特，幫助稻農應對成本上漲。"
-    },
-    {
-      "id": "4860726",
-      "time": "2026-05-05 14:48:41",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "匈牙利央行行長瓦爾加：在政策措施支撐下，居民消費仍將是經濟增長的核心驅動力。"
-    },
-    {
-      "id": "4860725",
-      "time": "2026-05-05 14:47:57",
-      "tags": [
-        "資料",
-        "市場",
-        "國際"
-      ],
-      "text": "【彭博經濟研究：汽油價格上漲對美國汽車銷量影響有限】燃油成本上漲似乎正在改變汽車銷量的構成。燃油車的需求面臨壓力，但隨著消費者因汽油價格高企而考慮更高效的替代方案，電動車的銷量可能會獲得一定支撐。4月輕型車銷量摺合成年率為1,592萬輛（前值為1,634萬輛），低於我們和市場普遍預期的1,600萬輛。這一數字也低於去年的平均水平1,612萬輛。不過，4月銷量較第一季度平均水平1,565萬輛有所改善。4月購車意願持續走高，表明市場整體具備韌性。與此同時，燃油成本上漲可能會加速消費者需求向電動車轉移，特斯拉方面的評論也暗示了消費者對電動車的興趣有所提升。假設本季度剩餘時間的銷量保持穩定，汽車銷售對第二季度GDP的提振作用可能略大於此前估計的0.6個百分點。總而言之，3月強勁的銷量反映了受冬季天氣因素抑制的購車需求的集中釋放，但由於油價上漲加重了購車負擔，4月不太可能維持這種強勁勢頭。儘管較3月有所放緩，但總體而言，整體汽車需求依然穩健。"
-    },
-    {
-      "id": "4860724",
-      "time": "2026-05-05 14:47:28",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "匈牙利央行行長瓦爾加：新一屆政府的經濟政策舉措將是影響通脹前景的另一關鍵因素。"
-    },
-    {
-      "id": "te:economy:547736",
-      "time": "2026-05-05 14:47:28",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "US 10-Year Yield Holds Advance — The yield on the US 10-year Treasury note hovered around 4.44% on Tuesday after rising more than 5 basis points in the previous session, as escalating tensions in the Middle East drove energy prices higher and intensified inflation concerns. US forces repelled Iranian attacks while escorting two US-flagged vessels through the Strait of Hormuz, while the UAE reported intercepting cruise missiles launched by Iran and attributed a major fire at its Fujairah port to a drone strike. Oil prices, the dollar, and Treasury yields advanced in tandem on expectations that the Federal Reserve may need to raise interest rates to contain inflation. Investors now turn to upcoming speeches from Fed officials and a slate of key economic releases, including the closely watched monthly jobs report. The US economy is projected to have added around 60K jobs in April, marking a sharp slowdown from the 178K increase in March."
-    },
-    {
-      "id": "4860723",
-      "time": "2026-05-05 14:47:04",
-      "tags": [
-        "央行",
-        "市場",
-        "國際"
-      ],
-      "text": "匈牙利央行行長瓦爾加：伊朗衝突加劇通脹風險，但福林走強與燃油價格上限抑制了物價漲幅。"
     }
   ]
 }
