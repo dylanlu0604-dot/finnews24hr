@@ -1,7 +1,40 @@
 {
-  "updated": "2026-05-13 05:15:15",
+  "updated": "2026-05-13 05:18:38",
   "count": 14854,
   "items": [
+    {
+      "id": "4875890",
+      "time": "2026-05-13 05:18:10",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【三星勞資談判破裂 罷工風險上升】三星電子與其工會未能在最後一刻達成工資協議，這加劇了發生罷工的風險，可能擾亂這家全球最大儲存晶片製造商的運營。此前，在韓國勞動部門調解下進行的為期兩天的馬拉松式談判宣告破裂，工會與管理層在與人工智慧(AI)利潤大幅增長掛鉤的績效獎金問題上分歧嚴重。工會要求三星取消現行獎金上限，將15%的營業利潤用於員工獎金，並將相關條款寫入勞動合同。三星提出將10%的營業利潤用於獎金，並提供一項高於行業標準的一次性特別補償方案。公司高管表示，工會的要求從長期來看難以持續。"
+    },
+    {
+      "id": "4875889",
+      "time": "2026-05-13 05:17:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統新聞秘書佩斯科夫：特朗普目前暫無訪俄安排。"
+    },
+    {
+      "id": "4875888",
+      "time": "2026-05-13 05:16:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特王儲與阿聯酋總統通電話，討論地區局勢。"
+    },
+    {
+      "id": "4875887",
+      "time": "2026-05-13 05:15:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時A50期指連續夜盤收跌0.18%，報15947點。"
+    },
     {
       "id": "4875886",
       "time": "2026-05-13 05:14:04",
@@ -132436,42 +132469,6 @@
         "國際"
       ],
       "text": "據美國證券交易委員會檔案顯示，Alphabet計劃發行總規模為85億加元的四期票據。"
-    },
-    {
-      "id": "4862087",
-      "time": "2026-05-06 05:18:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "明晟公司（MSCI）：5 月指數審議結果定於 2026 年 5 月 12 日釋出。"
-    },
-    {
-      "id": "te:markets:548014",
-      "time": "2026-05-06 05:16:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Ibovespa Rises as Copom Signals Further Easing — The Ibovespa gained 0.6% to close at 186,754, as investors digested Copom minutes and a wave of corporate earnings. The central bank noted that while higher inflation is unlikely to prevent further rate cuts this year, risks to inflation expectations may limit the pace of easing compared to earlier projections. Banks advanced, with Bradesco (+1.5%) and Banco do Brasil (+1.7%) higher, while Ambev surged over 15% after reporting Q1 net income of R$3.89 billion, up 2.1% year-on-year. After the close, Iguatemi (-1.5%), Itaú (-0.3%), and TIM (-0.5%) are set to report results. Elsewhere, UBS BB raised Sabesp’s (+1.4%) target price to R$38 from R$33.80 but downgraded the stock to neutral, while Petrobras fell 1.4% as oil prices declined despite ongoing Middle East tensions."
-    },
-    {
-      "id": "4862086",
-      "time": "2026-05-06 05:15:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗媒體訊息：伊朗中部阿拉克市米坎溼地火情已得到控制，起火原因正在調查中。"
-    },
-    {
-      "id": "4862085",
-      "time": "2026-05-06 05:15:22",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時A50期指連續夜盤收漲0.31%，報15679點。"
     }
   ]
 }
