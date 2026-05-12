@@ -1,7 +1,157 @@
 {
-  "updated": "2026-05-12 14:40:06",
-  "count": 14196,
+  "updated": "2026-05-12 14:43:29",
+  "count": 14209,
   "items": [
+    {
+      "id": "te:markets:549894",
+      "time": "2026-05-12 14:43:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "ASX 200 Ends 0.4% Lower — Australia’s S&P/ASX 200 slipped 31 points, or 0.4%, to close at 8,671 on Tuesday, extending losses for a third session as fading hopes for a U.S.–Iran peace deal and weaker U.S. futures weighed on sentiment. President Donald Trump warned the ceasefire was “on life support” after rejecting Tehran’s counterproposal, stoking fears of prolonged Middle East tensions. Locally, investor confidence was dampened by the April business confidence report, which remained deeply negative despite a slight rise from March’s historic drop. Still, losses were partly cushioned by anticipation of the 2026/27 Federal Budget, expected to outline reforms, cost-of-living relief, and tax changes such as potential adjustments to negative gearing, alongside narrower deficit projections. Most sectors finished lower, led by commercial services, consumer stocks, financials, and healthcare. The big four banks fell 1.4%–2.4%, while Xero (-3.5%), REA Group (-2.7%), and Coles (-2.6%) were among notable laggards."
+    },
+    {
+      "id": "4874345",
+      "time": "2026-05-12 14:43:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度石油部長：我國現有儲量可滿足60天的原油、液化天然氣（LNG）需求，以及45天的液化石油氣（LPG）需求，供應端不存在問題。"
+    },
+    {
+      "id": "4874344",
+      "time": "2026-05-12 14:43:04",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【大和證券：日本央行決策者似乎更擔心價格上行風險】大和證券經濟學家Kento Minami表示，日本央行4月份會議紀要顯示，決策者似乎更擔心價格上行風險，而不是中東緊張局勢可能帶來的經濟下行風險。Minami表示，日本央行可能越來越關注風險平衡，而不是實現其基準經濟前景的可能性。“因此，即使在高度不確定的環境中，隨著該行優先應對通脹上行風險，加息步伐加快的可能性也在增加，”他表示。"
+    },
+    {
+      "id": "te:economy:549893",
+      "time": "2026-05-12 14:42:56",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Switzerland",
+        "Producer Prices Change",
+        "Importance 1"
+      ],
+      "text": "Swiss Producer and Import Prices Fall 2.0% — Switzerland’s producer and import prices fell by 2.0% year-on-year in April 2026, following a 2.7% decline in the previous month, extending the country’s nearly three-year deflationary streak. The drop was driven by continued decline in producer prices, which remained unchanged at -2.4%, reflecting lower costs for manufactured goods (-2.1%), particularly computer, electronic and optical products, as well as watches (-2.4%). Import prices also continued to drop, though at a slower pace (-1.0% vs -3.2% in March), as a sharp increase in mining and quarrying products (+37.9%) partly offset lower prices for agricultural products (-2.2%) and manufactured goods (-1.4%). On a monthly basis, producer and import prices rose 0.8%, accelerating from a 0.2% gain in March, mainly driven by higher petroleum product prices, while petroleum and natural gas also became more expensive. Basic metals and semi-finished metal products likewise recorded price increases."
+    },
+    {
+      "id": "4874343",
+      "time": "2026-05-12 14:42:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌1%，現報85.08美元/盎司。"
+    },
+    {
+      "id": "4874342",
+      "time": "2026-05-12 14:41:56",
+      "tags": [],
+      "text": "滬深兩市成交額連續第5個交易日突破3萬億元，較上日此時縮量2776億元。"
+    },
+    {
+      "id": "4874341",
+      "time": "2026-05-12 14:41:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度石油部長：我們已提高液化石油氣（LPG）產量。"
+    },
+    {
+      "id": "mkt:019e1aeb-7bfe-7dd9-b929-8dcee5377007",
+      "time": "2026-05-12 14:41:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "INDIA OIL MINISTER: WE HAVE RAMPED UP LPG PRODUCTION"
+    },
+    {
+      "id": "mkt:019e1aeb-645c-7dd9-b929-816932bd6a53",
+      "time": "2026-05-12 14:41:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "TURNOVER ON SSE AND SZSE EXCEEDED 3TN YUAN FOR A FIFTH STRAIGHT SESSION, DOWN 277.6BN YUAN FROM THE SAME TIME YESTERDAY"
+    },
+    {
+      "id": "4874340",
+      "time": "2026-05-12 14:41:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度石油部長：液化石油氣供應充足有餘。"
+    },
+    {
+      "id": "4874339",
+      "time": "2026-05-12 14:41:14",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "西門子能源執行長：受此次危機影響，我們觀察到電力基礎設施需求出現部分上漲。"
+    },
+    {
+      "id": "4874338",
+      "time": "2026-05-12 14:41:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【報告：衝突暴力首超災害成全球流離失所主因】一份12日釋出的報告顯示，截至去年底，全球有8220萬境內流離失所者。衝突和暴力在去年首次超過自然和人為災害，成為導致流離失所的主要因素。根據總部設在瑞士日內瓦的境內流離失所情況監測中心年度報告，去年全年，全球新增境內流離失所6580萬人次，其中3230萬人次流離失所由衝突和暴力造成，較前年增加60%，而且超過由風暴、洪水等災害造成的2990萬人次流離失所。（新華社）"
+    },
+    {
+      "id": "4874337",
+      "time": "2026-05-12 14:40:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍稱打死多名黎巴嫩真主黨成員】當地時間12日，以色列國防軍發表宣告稱，過去數週，以軍在黎巴嫩南部開展行動，行動期間打死超過350名“對以色列平民和以軍部隊構成威脅”的黎巴嫩真主黨成員。宣告稱，以軍還打擊了超過1100個黎巴嫩真主黨目標，包括供武裝人員活動的軍事設施、武器儲存設施、已裝載並準備發射的發射器以及其他基礎設施。宣告表示，以軍將繼續根據以黎之間的相關共識以及以色列政府指示開展行動。（央視新聞）"
+    },
+    {
+      "id": "4874336",
+      "time": "2026-05-12 14:40:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中證協“把脈”券商合規評估實效，探索AI賦能等破局新路徑】記者5月12日從業內獨家獲悉，為系統性瞭解行業合規實踐的真實狀況，為後續最佳化自律監管規則、提升全行業合規管理有效性奠定堅實基礎，中國證券業協會近期在行業內開展了2026年度證券公司合規管理有效性評估及合規類自律規則“立改廢釋”專項調研。據悉，調研直指當前合規評估工作中的共性挑戰，如管理層重視不足、評估工作流於形式、與其他檢查重複加重負擔等，並引導行業思考破局之道，其中“探索AI、智慧體等新興技術在合規評估領域的應用”成為重要前瞻方向。（中證金牛座）"
+    },
+    {
+      "id": "4874335",
+      "time": "2026-05-12 14:40:27",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超3萬億元，較上日此時縮量2823億元。"
+    },
+    {
+      "id": "4874334",
+      "time": "2026-05-12 14:40:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破106美元/桶，日內漲1.72%。"
+    },
+    {
+      "id": "4874333",
+      "time": "2026-05-12 14:40:01",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "西門子能源執行長：中東危機對財務層面的財務影響微乎其微。"
+    },
     {
       "id": "4874332",
       "time": "2026-05-12 14:39:51",
@@ -125780,39 +125930,6 @@
         "國際"
       ],
       "text": "阿聯酋總統顧問：我們感謝並珍視海灣、阿拉伯及國際社會對阿聯酋發來的聲援資訊，這些發聲都對“伊朗背信攻擊”進行了譴責。"
-    },
-    {
-      "id": "4860715",
-      "time": "2026-05-05 14:43:25",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "挪威財政部長：主權財富基金暴露於金融市場不確定性之中，集中度風險已有所上升。"
-    },
-    {
-      "id": "4860714",
-      "time": "2026-05-05 14:43:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國加州馬拉松卡森煉油廠披露發生非計劃火炬放空事件。"
-    },
-    {
-      "id": "4860713",
-      "time": "2026-05-05 14:41:05",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "英國財政部：將在2026/27財年結束前，在每週標售中推出期限約為12個月的短期國庫券。"
-    },
-    {
-      "id": "4860712",
-      "time": "2026-05-05 14:40:07",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "挪威央行行長：非上市可再生能源資產佔比有望在短期內升至2%。"
     }
   ]
 }
