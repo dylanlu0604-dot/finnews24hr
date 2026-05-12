@@ -1,7 +1,129 @@
 {
-  "updated": "2026-05-12 09:38:12",
-  "count": 14009,
+  "updated": "2026-05-12 09:41:35",
+  "count": 14022,
   "items": [
+    {
+      "id": "te:markets:549797",
+      "time": "2026-05-12 09:41:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "South Korean Shares Snap Record Rally — The benchmark KOSPI fell more than 3% to around 7,540 on Tuesday, snapping a record-setting run, as investors locked in profits following the recent surge toward the 8,000 mark. Sentiment also turned cautious after US President Trump warned that the Iran ceasefire was on “massive life support,” reviving concerns over disruptions in the Strait of Hormuz and higher oil prices. Large-cap performance was mixed, with Samsung Electronics (-0.2%), LG Energy Solution (-2.9%), and Hanwha Aerospace (-1.4%) declining, while SK Hynix (2.5%), Hyundai Motor (4.3%), and HD Hyundai Heavy Industries (4.2%) advanced. Still, support remained from continued optimism surrounding the AI-driven semiconductor boom after major Wall Street chip stocks extended gains overnight. Investors also assessed upbeat domestic growth expectations after Finance Minister Koo Yun-cheol said South Korea’s economy is likely to grow by more than 2% this year on strong semiconductor exports and record current account surpluses."
+    },
+    {
+      "id": "4873738",
+      "time": "2026-05-12 09:41:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲1%，現報99.05美元/桶。"
+    },
+    {
+      "id": "4873737",
+      "time": "2026-05-12 09:40:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【太陽能：已與多家算力企業溝通對接 嘗試開展綠電直連專案合作】太陽能(000591)5月11日在業績說明會上表示，公司積極關注綠電相關產業發展情況，正在積極開發算力中心供電及算力儲能業務，已與多家算力企業開展了溝通對接，嘗試開展綠電直連專案合作。"
+    },
+    {
+      "id": "4873736",
+      "time": "2026-05-12 09:40:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國KOSPI指數日內跌幅擴大至5%，現報7423.16點。"
+    },
+    {
+      "id": "4873735",
+      "time": "2026-05-12 09:39:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數回吐全部漲幅，下跌0.08%。"
+    },
+    {
+      "id": "4873734",
+      "time": "2026-05-12 09:39:16",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【綠電概念反覆走強 韶能股份直線漲停】綠電概念反覆走強，韶能股份直線漲停，大唐發電5連板，銀星能源、華電遼能、甘肅能源、晉控電力、立新能源跟漲。"
+    },
+    {
+      "id": "te:markets:549795",
+      "time": "2026-05-12 09:39:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Platinum Futures Hit 3-Week High — Platinum futures rose above $2,100 an ounce, reaching their highest since April 17, despite elevated inflation risks driven by heightened uncertainty in the Middle East and the prolonged disruption of the Strait of Hormuz. Ongoing difficulties in US–Iran diplomacy have heightened fears of prolonged disruption to the key shipping route, while reports indicated that President Trump is set to meet his national security team to discuss possible renewed military operations and measures to escort commercial shipping through Hormuz. This kept energy prices elevated and expectations of further central bank rate hikes, dampening demand for non-yielding assets. Meanwhile, the platinum market remains structurally tight, with output concentrated in South Africa and Russia, making production highly vulnerable to disruption. In South Africa, aging mines, high power costs, and only gradual gains from new projects continue to limit growth, while Russia faces sanctions-related constraints."
+    },
+    {
+      "id": "4873730",
+      "time": "2026-05-12 09:39:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "MSCI亞太指數下跌1%至269.54點。"
+    },
+    {
+      "id": "4873729",
+      "time": "2026-05-12 09:38:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國Kospi指數跌幅擴大至4%，現報7503.91點。"
+    },
+    {
+      "id": "4873727",
+      "time": "2026-05-12 09:38:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "【北證50指數漲幅擴大至1%】北證50指數漲幅擴大至1%，現報1441.12點。"
+    },
+    {
+      "id": "4873726",
+      "time": "2026-05-12 09:38:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內漲幅達1.16%，成分股中，戈碧迦漲5.18%，連城數控漲4.68%，聚星科技漲3.44%，同惠電子漲3.36%。"
+    },
+    {
+      "id": "4873725",
+      "time": "2026-05-12 09:38:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超5000億元，較上日此時縮量1078億元。"
+    },
+    {
+      "id": "4873722",
+      "time": "2026-05-12 09:38:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【工行：如意金積存業務的產品風險等級調整為R2-中低風險】中國工商銀行釋出關於調整如意金積存業務產品風險等級與客戶風險承受能力等級的公告。自北京時間2026年5月19日起，如意金積存業務的產品風險等級調整為R2-中低風險，對應客戶風險承受能力等級調整為C2-穩健型及以上；個人客戶辦理如意金積存業務的開戶、主動積存或新增定期積存計劃的，需透過工商銀行營業網點、網上銀行或中國工商銀行APP等渠道，按我行統一的風險測評問卷進行風險承受能力評估、取得C2-穩健型及以上的評估結果（已有前述評估結果且在有效期內的無需重測）並簽訂如意金積存風險揭示書（已簽署風險揭示書的無需重籤）。已開立如意金積存賬戶的個人客戶辦理提取實物，贖回,有效期內定期積存計劃的執行、修改和終止,如意金積存賬戶的登出等操作的，不受前述條件的限制。（工商銀行）"
+    },
+    {
+      "id": "4873719",
+      "time": "2026-05-12 09:38:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【哥倫比亞考卡省一村莊發生爆炸 致1死6傷】據哥倫比亞考卡省政府訊息，當地時間11日，哥倫比亞考卡省阿爾赫利亞市埃爾普拉泰阿多村發生爆炸，造成1人死亡、6人受傷。據悉，爆炸發生在反對派武裝“中央參謀部”弗蘭克·戈麥斯派系的一個爆炸物倉庫。當地正在調查此次爆炸是否屬於蓄意襲擊。"
+    },
     {
       "id": "4873716",
       "time": "2026-05-12 09:37:15",
@@ -124147,14 +124269,6 @@
         "焦點"
       ],
       "text": "恒生科技指數跌超2%，現報4876.910點；恒生指數現跌1.332%。"
-    },
-    {
-      "id": "4860471",
-      "time": "2026-05-05 09:39:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "【港股電力裝置股走低 東方電氣跌超8%】截至發稿，東方電氣(01072.HK)跌8.58%，濰柴動力(02338.HK)跌6.33%，哈爾濱電氣(01133.HK)跌6.07%。"
     }
   ]
 }
