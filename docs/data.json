@@ -1,7 +1,15 @@
 {
-  "updated": "2026-05-12 12:45:27",
-  "count": 14112,
+  "updated": "2026-05-12 12:48:48",
+  "count": 14111,
   "items": [
+    {
+      "id": "4874160",
+      "time": "2026-05-12 12:48:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【美投行唱好Tesla 稱未反映機械人業務價值 續予500美元目標價】華爾街投資銀行Piper Sandler看好Tesla（特斯拉）股票，認為該公司尚未充分反映出人形機械人Optimus業務的未來價值。該行分析師Alexander Potter認為，如果Tesla股價為每股400美元，投資者幾乎相當於免費買入Optimus業務。Piper Sandler維持對Tesla股票的“增持”評級和500美元的目標價，這意味著該機構預計機械人相關業務能帶來每股100美元的價值，Alexander Potter還認為這一數字可能偏保守。"
+    },
     {
       "id": "4874159",
       "time": "2026-05-12 12:43:51",
@@ -125020,26 +125028,6 @@
         "國際"
       ],
       "text": "【澳洲央行表示，一如預期，中東局勢進展正對通脹產生影響】澳洲央行表示，海灣衝突是加劇通脹和經濟增長前景的衝擊。一如預期，中東局勢進展正對通脹產生影響。燃料價格上漲加劇通脹，且有跡象表明，這可能會對更廣泛的商品和服務價格產生第二輪效應。委員會將關注資料及不斷變化的前景和風險評估，以指導其決策。"
-    },
-    {
-      "id": "te:economy:547693",
-      "time": "2026-05-05 12:48:24",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United Arab Emirates",
-        "Manufacturing PMI",
-        "Importance 1"
-      ],
-      "text": "UAE Non-Oil Private Sector Growth Softens in April — The S&P Global UAE PMI fell to 52.1 in April 2026 from 52.9 in March, marking the weakest improvement in operating conditions since February 2021, as non-oil private sector momentum continued to ease. New orders slowed to a more than five-year low amid weaker client spending and softer tourism. Export orders fell sharply, recording one of the steepest declines on record outside the pandemic period due to Middle East shipping disruptions and Strait of Hormuz constraints. Despite softer demand, output still expanded solidly on ongoing project and infrastructure work. However, cost pressures intensified, with input price inflation accelerating to its strongest level since mid-2024 on higher oil and transport costs. Firms responded by sharply lifting selling prices, with output charges increasing at the fastest pace since 2011 as companies sought to protect margins amid rising costs and supply disruptions. Employment growth also softened as hiring slowed, while salary inflation eased."
-    },
-    {
-      "id": "4860594",
-      "time": "2026-05-05 12:48:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "【湖南瀏陽煙花廠爆炸事故現場最新情況：正進行第二輪排查】昨天下午，湖南長沙瀏陽市華盛煙花製造燃放有限公司車間發生爆炸。記者從事故現場指揮部瞭解到，截至目前，事故已造成21人遇難，61人受傷。目前，現場救援指揮部正組織開展第二輪排查。公安機關已對涉事企業負責人採取控制措施，事故原因調查、善後處置等工作正在有序進行。 (央視新聞)"
     }
   ]
 }
