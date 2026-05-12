@@ -1,7 +1,92 @@
 {
-  "updated": "2026-05-12 23:42:10",
-  "count": 14731,
+  "updated": "2026-05-12 23:45:34",
+  "count": 14732,
   "items": [
+    {
+      "id": "mkt:019e1cdd-003f-7cc6-9ab9-b137917ca275",
+      "time": "2026-05-12 23:45:05",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "ICE U.K. NAT GAS JUNE FUTURES SETTLE AT 114.80 PENCE/THERM"
+    },
+    {
+      "id": "te:markets:550053",
+      "time": "2026-05-12 23:45:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Falls as US-Iran Peace Hopes Fade — The FTSE MIB fell 1.4% to close at 48,991 on Tuesday, reversing gains from the previous session as hopes for a swift resolution to the US-Iran conflict continued to fade. US President Trump said the truce was “on life support” and rejected Tehran’s latest counterproposal. Oil prices rose and renewed concerns over stagflation. Heavyweight financials traded lower, with UniCredit down 0.9%, Generali losing 1.7%, and Intesa Sanpaolo falling 1.4%. The main exceptions were MPS, which gained 1.5% after reporting strong Q1 2026 results, and Mediobanca (+1.3%), amid plans for a merger with the state bank. Utilities also posted losses, with Enel down 1.6%. Other notable laggards included STMicroelectronics (-5.3%), Leonardo (-2.6%), and Prysmian (-5.2%). Elsewhere, Eni rose 0.9% as higher oil prices supported energy stocks, while Recordati traded lower ahead of its earnings release. On the data front, Italy’s industrial production rose 1.5% year-over-year in March."
+    },
+    {
+      "id": "4875638",
+      "time": "2026-05-12 23:44:26",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【Venture Global與道達爾能源、維多集團簽署新LNG供應協議】美國液化天然氣（LNG）出口商Venture Global表示，已與道達爾能源、貿易巨頭維多集團（Vitol）簽署了新的液化天然氣供應協議。根據協議，未來五年內這兩家公司的合計採購量將略高於100萬公噸/年（mtpa）。"
+    },
+    {
+      "id": "mkt:019e1cdc-5c7b-7cc6-9ab9-adaf1ef49f4d",
+      "time": "2026-05-12 23:44:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "PAKISTANI FOREIGN MINISTRY: FOREIGN MINISTER DISCUSSED WITH HIS CHINESE COUNTERPART EFFORTS TO FACILITATE DIALOGUE BETWEEN WASHINGTON AND TEHRAN TO ENHANCE PEACE"
+    },
+    {
+      "id": "4875637",
+      "time": "2026-05-12 23:43:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "巴西石油公司執行長：巴西石油認為墨西哥灣墨西哥所屬海域勘探開發程度偏低，與墨西哥國家石油公司（PEMEX）合作或將帶來新的勘探機遇。"
+    },
+    {
+      "id": "4875636",
+      "time": "2026-05-12 23:43:21",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "俄羅斯央行：4 月俄羅斯出口商外匯銷售額達 73 億美元。"
+    },
+    {
+      "id": "mkt:019e1cdb-38d1-7cc6-9ab9-a5773138fdd5",
+      "time": "2026-05-12 23:43:09",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "ISRAELI ARMY: WE INTERCEPTED A DRONE LAUNCHED BY HEZBOLLAH TOWARDS OUR FORCES, AND ANOTHER FELL NEAR THE BORDER"
+    },
+    {
+      "id": "4875635",
+      "time": "2026-05-12 23:42:52",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "俄羅斯央行表示，受全球油價走高影響，4 月俄羅斯市場外匯銷售額環比翻倍，規模達298 億美元。"
+    },
+    {
+      "id": "4875634",
+      "time": "2026-05-12 23:42:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "格陵蘭島領導人表示，美國駐軍問題是其與特朗普政府外交官談判的議題之一。"
+    },
     {
       "id": "4875633",
       "time": "2026-05-12 23:40:44",
@@ -130830,81 +130915,6 @@
         "公司"
       ],
       "text": "Anthropic執行長表示，公司前50大客戶中有40%為金融機構。"
-    },
-    {
-      "id": "4861758",
-      "time": "2026-05-05 23:44:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "Anthropic執行長表示，金融是該公司企業收入僅次於科技的第二大行業。"
-    },
-    {
-      "id": "4861757",
-      "time": "2026-05-05 23:44:01",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行經濟學家萊恩：在可再生能源或核電佔比更高的國家，對最新能源衝擊的反應更為溫和。"
-    },
-    {
-      "id": "4861756",
-      "time": "2026-05-05 23:43:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普被問及是否會很快武裝伊朗時說：我不想說。"
-    },
-    {
-      "id": "te:markets:547977",
-      "time": "2026-05-05 23:43:48",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "European Stocks Rebound — European stocks closed sharply higher on Tuesday, benefiting from some respite in global energy prices and a batch of optimistic corporate earnings. The Eurozone's STOXX 50 rose 1.8% to 5,870 and the pan-European STOXX 600 advanced 0.7%. Heavyweight industrials surged amid the pullback in oil and natural gas prices that Europe imports, with Siemens, Schneider, and Siemens Energy jumping between 5% and 3%. The war in Iran did not escalate to more aggressive striking following brief attacks from the US and Iran yesterday. Meanwhile, AB InBev surged close to 10% after beating estimates for its first-quarter earnings and recording the first growth in sales in around three years. UniCredit soared close to 7% after posting higher profits, raising its full-year outlook, and launching its bid to raise its stake in Commerzbank. Also, Rheinmetall jumped 3.3% after reporting a 7.7% increase in earnings."
-    },
-    {
-      "id": "te:markets:547975",
-      "time": "2026-05-05 23:43:30",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "DXY Little Changed on Tuesday — The dollar index traded little changed at 98.4 on Tuesday, pausing the gains recorded over the previous two sessions as tensions between the US and Iran showed signs of easing. This follows an intense day on Monday, when both countries exchanged fire and the UAE became involved. A ceasefire now appears to be holding, and US Defense Secretary Pete Hegseth said two US commercial vessels transited safely through the Strait of Hormuz with military support, offering some reassurance. Still, the situation remains fragile. On the policy front, the Fed is widely expected to keep the federal funds rate unchanged through the rest of the year, with markets pricing in roughly a 50% chance of a quarter-point hike in early 2027. The dollar weakened against the euro, the pound, and the Australian dollar after the Reserve Bank of Australia raised borrowing costs for a third consecutive meeting. In contrast, the greenback gained against the yen amid suspected intervention by Japanese authorities."
-    },
-    {
-      "id": "4861755",
-      "time": "2026-05-05 23:43:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊朗國內的人想發起抗議活動，但他們沒有槍。"
-    },
-    {
-      "id": "4861754",
-      "time": "2026-05-05 23:43:06",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行經濟學家萊恩：若歐盟2030年氣候目標僅透過提高碳價實現，對通脹的影響將在2027年達到峰值，較基準水平高出0.4個百分點，且該影響將持續偏高至2030年。"
-    },
-    {
-      "id": "4861753",
-      "time": "2026-05-05 23:42:50",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行經濟學家萊恩：氣候“臨界點”一旦被突破，可能引發的經濟破壞將遠大於目前已出現的情況。"
     }
   ]
 }
