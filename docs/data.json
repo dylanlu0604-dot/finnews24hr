@@ -1,7 +1,15 @@
 {
-  "updated": "2026-05-12 19:26:30",
-  "count": 14551,
+  "updated": "2026-05-12 19:30:10",
+  "count": 14547,
   "items": [
+    {
+      "id": "mkt:019e1bf1-08cf-7dd9-b92d-89bcd3df446e",
+      "time": "2026-05-12 19:27:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "FITCH AFFIRMS JPMORGAN RMB MONEY MARKET FUND AT 'AAAMMF(CHN)"
+    },
     {
       "id": "4875065",
       "time": "2026-05-12 19:26:13",
@@ -128996,50 +129004,6 @@
         "其他"
       ],
       "text": "土耳其4月份實際有效匯率為106.30。"
-    },
-    {
-      "id": "4861212",
-      "time": "2026-05-05 19:28:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總理：夜間，俄軍襲擊了波爾塔瓦州的民用能源設施。國家緊急服務部門救援人員在現場滅火時，遭到第二枚導彈的針對性打擊。  第聶伯羅彼得羅夫斯克州也遭遇襲擊，造成 1 人死亡。哈爾科夫、扎波羅熱州及基輔州同樣遭俄軍打擊，關鍵基礎設施受損，數千民眾斷電。"
-    },
-    {
-      "id": "4861211",
-      "time": "2026-05-05 19:27:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2026五一檔票房超去年】據燈塔專業版，截至5月5日19時24分，2026年五一檔總票房已突破7.48億，超過2025年五一檔最終票房（7.47億）。"
-    },
-    {
-      "id": "te:markets:547871",
-      "time": "2026-05-05 19:27:30",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "US Futures Rise Toward Records — US equity futures inched higher on Tuesday, approaching the records from last week on support from a pullback in energy prices. Contracts for the S&P 500, Dow, and Nasdaq 100 were around 0.3% higher. Oil and product prices eased despite no improvement from yesterday's escalatory developments, when Iran attacked the UAE and accusations of strikes between the US and Iran jeopardized the ceasefire in place over the last weeks. Higher energy prices drove long-term yields to fresh peaks for the year and rate futures indicated some bets of a Fed hike this year, as high and broad inflation combine with evidence of a strong labor market. Earnings also remained in the spotlight. Pfizer was 1% higher pre-market after posting their results. Also, Intel gained over 4% on reports that it may produce processors for Apple devices. Amazon also gained on fresh additions of logistics and distribution services. In turn, Palantir dropped 3% after missing the market's ambitious guidance estimates."
-    },
-    {
-      "id": "4861210",
-      "time": "2026-05-05 19:27:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "美軍中央司令部：布什號航母艦上載有60餘架各型飛機。"
-    },
-    {
-      "id": "4861209",
-      "time": "2026-05-05 19:26:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "真主黨： 在巴亞達鎮上空使用地對空導彈瞄準一架以色列敵方直升機，且已確認擊中目標。"
     }
   ]
 }
