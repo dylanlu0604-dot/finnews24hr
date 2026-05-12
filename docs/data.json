@@ -1,7 +1,29 @@
 {
-  "updated": "2026-05-13 00:31:09",
-  "count": 14732,
+  "updated": "2026-05-13 00:34:35",
+  "count": 14729,
   "items": [
+    {
+      "id": "mkt:019e1d09-6050-7772-8779-d8bf2ea8d3a8",
+      "time": "2026-05-13 00:33:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "THE EU IS IN TALKS TO JOIN A US-LED ALLIANCE TO SECURE TECH SUPPLY CHAINS"
+    },
+    {
+      "id": "4875676",
+      "time": "2026-05-13 00:33:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "納斯達克100指數跌幅擴大至2.1%。"
+    },
     {
       "id": "mkt:019e1d06-ee25-7772-8779-d5bb6370640b",
       "time": "2026-05-13 00:30:53",
@@ -131012,53 +131034,6 @@
         "Importance 0"
       ],
       "text": "FTSE MIB Rises on Oil Retreat and Strong Earnings — The FTSE MIB rose 2.3% to close at 48,556 on Tuesday, supported by easing oil prices and strong corporate earnings. Oil prices declined but remained elevated amid ongoing Middle East tensions, as the US and Iran continued their standoff over the Strait of Hormuz. The prospect of softer energy prices eased inflation concerns, lifting financials and the broader index. Intesa Sanpaolo gained 2.4% and MPS rose 3.6%, while UniCredit jumped 5.9% after reporting a record quarter, with net profit of €3.217 billion and higher full-year guidance. Italgas added 1.9% after posting a 44.1% rise in revenue and a 6% increase in net profit. Prysmian surged 10% on plans to pursue €4 billion in M&A deals. On the downside, Ferrari fell 3.9% as deliveries dropped 4.4% year-on-year to 3,436 units amid a model transition. Leonardo (+0.9%) and Amplifon (+4.6%) are also set to report results."
-    },
-    {
-      "id": "4861851",
-      "time": "2026-05-06 00:33:12",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗伊斯蘭革命衛隊海軍司令部：再次警告。我們警告所有計劃透過霍爾木茲海峽的船隻；透過霍爾木茲海峽的唯一安全航線是伊朗伊斯蘭共和國此前宣佈的通道，任何船隻偏離航線的行為都是不安全的，並將面臨伊朗伊斯蘭革命衛隊海軍的果斷行動。"
-    },
-    {
-      "id": "te:markets:547988",
-      "time": "2026-05-06 00:32:52",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Ambev earnings in line with market expectations at 0.24 BRL — Ambev (ABEV3) released earnings per share at 0.24 BRL, in line with market expectations."
-    },
-    {
-      "id": "4861850",
-      "time": "2026-05-06 00:32:11",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "市場資訊：特朗普向美國食品藥品監督管理局局長施壓，要求其批准調味電子煙上市。"
-    },
-    {
-      "id": "4861849",
-      "time": "2026-05-06 00:31:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "【秘魯通貝斯大區發生5.0級地震】當地時間5月5日上午，秘魯西北部通貝斯大區發生5.0級地震。據秘魯地球物理研究所釋出的資訊，地震發生於當地時間上午10時58分，震源深度為55公里。震中位於秘魯佐裡託斯東北約13公里處。截至目前，尚無人員傷亡或重大財產損失報告。"
-    },
-    {
-      "id": "4861848",
-      "time": "2026-05-06 00:31:39",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【歐洲央行行長稱能源成本飆升敲響警鐘 呼籲減少化石燃料依賴】歐洲央行行長拉加德表示，伊朗戰爭引發的能源成本飆升，應成為歐洲減少對化石燃料和能源進口依賴的警鐘。歐洲約60%的能源依賴進口，且幾乎全部為化石燃料，拉加德週二在法蘭克福一場氣候會議上表示，這種現狀“顯然不可持續”。“當前能源價格飆升提醒我們這種依賴的代價，”她說。“替代能源為在能源安全、可持續性與可負擔性之間實現平衡提供了最清晰的路徑。”"
     }
   ]
 }
