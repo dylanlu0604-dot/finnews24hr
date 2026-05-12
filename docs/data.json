@@ -1,7 +1,70 @@
 {
-  "updated": "2026-05-13 01:45:55",
-  "count": 14756,
+  "updated": "2026-05-13 01:49:13",
+  "count": 14758,
   "items": [
+    {
+      "id": "mkt:019e1d4e-70dc-7772-877b-96e3553bb47a",
+      "time": "2026-05-13 01:49:00",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "FED'S GOOLSBEE: INTERCONNECTION OF PRIVATE CREDIT WITH CONVENTIONAL INSTITUTIONS ARE NOT AS BIG AS CONNECTIONS IN 2007-2009 FINANCIAL CRISIS"
+    },
+    {
+      "id": "4875723",
+      "time": "2026-05-13 01:47:38",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：私人信貸與傳統金融機構的關聯度，遠不及 2007 至 2009 年金融危機時期。"
+    },
+    {
+      "id": "mkt:019e1d4c-b572-7772-877b-8bf203d6ae44",
+      "time": "2026-05-13 01:47:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "COURT HALTS ORDER DECLARING NEW TRUMP TARIFFS UNLAWFUL FOR NOW APPEALS COURT WEIGHING US BID FOR LONGER PAUSE ON TARIFF RULING"
+    },
+    {
+      "id": "mkt:019e1d4c-6d7d-7772-877b-86333809afe2",
+      "time": "2026-05-13 01:46:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US FIRST LADY NOT TRAVELLING TO CHINA WITH TRUMP - SCMP"
+    },
+    {
+      "id": "mkt:019e1d4c-54c9-7772-877b-7fbcfce69b0a",
+      "time": "2026-05-13 01:46:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Hot",
+        "Market Themes",
+        "The Trump Trade",
+        "Market Regions",
+        "Greater China",
+        "Policy",
+        "Breaking News 24h",
+        "Chinese Policy & Markets"
+      ],
+      "text": "【Air Force One Passenger List for Trump’s China Trip Released】Traveling with President Trump aboard AF1 today to China, per White House, include: Eric Trump Lara Trump Secretary Marco Rubio Secretary Pete Hegseth Ambassador Jamieson Greer James Blair Beau Harrison Stephen Miller Steven Cheung Robert Gabriel Michael Kratsios Ross Worthington Walt Nauta Ambassador Monica Crowley"
+    },
     {
       "id": "mkt:019e1d48-1ef9-7772-877b-77c8bf32b0e2",
       "time": "2026-05-13 01:42:06",
@@ -131376,30 +131439,6 @@
         "國際"
       ],
       "text": "兩艘美國船隻被困霍爾木茲海峽南部、阿曼附近海域。"
-    },
-    {
-      "id": "4861919",
-      "time": "2026-05-06 01:48:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "【保加利亞總統將授權政黨聯盟“進步保加利亞”組閣】保加利亞總統約託娃5日表示，她將於7日授權贏得大選的政黨聯盟“進步保加利亞”組閣，希望國民議會8日選出新政府。"
-    },
-    {
-      "id": "4861918",
-      "time": "2026-05-06 01:47:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌正為Gemini打造全天候人工智慧個人助手。"
-    },
-    {
-      "id": "4861917",
-      "time": "2026-05-06 01:46:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗總統佩澤希齊揚：美國推行極限施壓政策，要求伊朗回到談判桌，屈從於美國的單邊要求——這是不可能的。"
     }
   ]
 }
