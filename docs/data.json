@@ -1,7 +1,19 @@
 {
-  "updated": "2026-05-13 03:31:13",
-  "count": 14814,
+  "updated": "2026-05-13 03:34:36",
+  "count": 14811,
   "items": [
+    {
+      "id": "te:economy:550078",
+      "time": "2026-05-13 03:32:32",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Paraguay",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Paraguay Trade Balance Returns to Surplus — Paraguay’s trade balance swung to a $2.68 billion surplus in April 2026 from a $76.6 million deficit in the same month a year earlier. Exports rose 14.6% year-over-year to $1.59 billion, driven mainly by a 35.8% increase in primary goods shipments. Exports of manufactured agricultural goods grew 2.7%, while industrial manufactures advanced 18.7%. In contrast, electricity exports declined 39.7%. Meanwhile, imports increased 12.2% to $1.60 billion. Purchases of consumer goods rose 3.8%, while imports of capital goods and intermediate goods fell 12.0% and 4.1%, respectively."
+    },
     {
       "id": "mkt:019e1daa-4909-7772-877d-97d3ed30808e",
       "time": "2026-05-13 03:29:19",
@@ -132054,40 +132066,6 @@
         "國際"
       ],
       "text": "墨西哥政府表示，已與美國交通部就雙邊航空運輸協定達成一系列措施。"
-    },
-    {
-      "id": "4862018",
-      "time": "2026-05-06 03:33:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：美國的目標是在霍爾木茲海峽建立一個“安全通道”。"
-    },
-    {
-      "id": "4862017",
-      "time": "2026-05-06 03:32:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：美國將盡一切努力促成雙方持續對話，以推動永久停火取得進展。"
-    },
-    {
-      "id": "4862016",
-      "time": "2026-05-06 03:32:40",
-      "tags": [
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "愛爾蘭媒體監管機構媒體委員會(Coimisiún na Meán)週二宣佈，已對Meta旗下Facebook和Instagram平臺正式展開兩項調查，重點審查其是否透過演算法設計和“暗黑模式”操控使用者選擇，涉嫌違反歐盟《數字服務法案》（DSA）。"
-    },
-    {
-      "id": "4862015",
-      "time": "2026-05-06 03:32:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：以色列和黎巴嫩之間的和平協議是可以實現的，黎巴嫩的問題出在真主黨。"
     }
   ]
 }
