@@ -1,7 +1,21 @@
 {
-  "updated": "2026-05-13 00:55:16",
+  "updated": "2026-05-13 00:58:42",
   "count": 14745,
   "items": [
+    {
+      "id": "mkt:019e1d1d-6be7-7772-877a-7cc388283fdc",
+      "time": "2026-05-13 00:55:23",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bearish"
+      ],
+      "text": "TESLA SHARES EXTEND DECLINE TO 5%"
+    },
     {
       "id": "4875688",
       "time": "2026-05-13 00:55:06",
@@ -131186,14 +131200,6 @@
         "Importance 1"
       ],
       "text": "Intuitive Surgical Stock Price Hits 28-week Low — Intuitive Surgical shares decreased to 447.61 USD, the lowest since October 2025. Over the past 4 weeks, Intuitive Surgical lost 0.85%, and in the last 12 months, it decreased 15.4%."
-    },
-    {
-      "id": "4861863",
-      "time": "2026-05-06 00:57:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "Salesforce執行長馬克·貝尼奧夫：2026財年我不會再招聘任何工程師。"
     }
   ]
 }
