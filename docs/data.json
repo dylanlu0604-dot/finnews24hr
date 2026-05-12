@@ -1,7 +1,110 @@
 {
-  "updated": "2026-05-13 02:06:22",
-  "count": 14794,
+  "updated": "2026-05-13 02:09:49",
+  "count": 14801,
   "items": [
+    {
+      "id": "mkt:019e1d61-63dc-7772-877c-acde0b619c45",
+      "time": "2026-05-13 02:09:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "AMAZON: AMAZON NOW OFFERS SAME-DAY PERISHABLE GROCERY DELIVERY IN OVER 1,000 CITIES, TOWNS WITH PLANS TO DOUBLE THAT REACH BY YEAR'S END - BLOG"
+    },
+    {
+      "id": "4875751",
+      "time": "2026-05-13 02:09:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜官：亞馬遜目前已在超 1000 座城鎮推出生鮮食品當日達配送服務，並計劃在年底前將覆蓋範圍擴大一倍。"
+    },
+    {
+      "id": "4875750",
+      "time": "2026-05-13 02:09:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及選區重劃：這一程序進展十分順利， 我們將拿下大量席位。"
+    },
+    {
+      "id": "mkt:019e1d60-a0b9-7772-877c-a158240c87ab",
+      "time": "2026-05-13 02:08:50",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "CNH"
+      ],
+      "text": "TRUMP WILL TALK WITH XI MAINLY ABOUT TRADE"
+    },
+    {
+      "id": "4875749",
+      "time": "2026-05-13 02:08:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國會預算局表示，由 7800 顆衛星組成的美國金色穹頂天基攔截衛星星座，未來 20 年總成本將達7430 億美元。"
+    },
+    {
+      "id": "4875748",
+      "time": "2026-05-13 02:08:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國會預算局測算，美國 “金色穹頂” 專案成本達1.2 萬億美元，遠超美國國防部預估的 1850 億美元。"
+    },
+    {
+      "id": "mkt:019e1d5f-f14a-7772-877c-9eed3c7412e8",
+      "time": "2026-05-13 02:08:06",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "US10Y",
+        "Impact bearish",
+        "S&P500",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "CBO ESTIMATES TRUMP'S \"GOLDEN DOME\" IDEA WOULD COST A COOL $1.2 TRILLION"
+    },
+    {
+      "id": "4875747",
+      "time": "2026-05-13 02:06:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會發言人表示：自 9 月 3 日起，巴西部分產品將被禁止出口至歐盟，涵蓋牛類肉製品、家禽及蛋類產品。"
+    },
+    {
+      "id": "mkt:019e1d5e-fa5a-7772-877c-97a2cc2b53b2",
+      "time": "2026-05-13 02:06:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "EUROPEAN COMMISSION SAYS BRAZIL CAN NO LONGER EXPORT SOME PRODUCTS TO EU INCLUDING BOVINE, POULTRY, EGGS EFFECTIVE SEP 3 - SPOKESPERSON"
+    },
+    {
+      "id": "mkt:019e1d5e-b82a-7772-877c-8c9311a5254b",
+      "time": "2026-05-13 02:06:11",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "TRUMP: LOTS TO DISCUSS WITH XI BUT WOULDN'T SAY IRAN IS ONE OF THEM"
+    },
     {
       "id": "4875746",
       "time": "2026-05-13 02:06:07",
@@ -9,6 +112,16 @@
         "國際"
       ],
       "text": "據伊朗法爾斯通訊社：若五大條件得不到滿足，伊朗不會參與下一輪美方談判。"
+    },
+    {
+      "id": "mkt:019e1d5e-63b0-7772-877c-80b4dcd20c1d",
+      "time": "2026-05-13 02:06:04",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "TRUMP: UP TO STARMER IF HE SHOULD STAY OR GO"
     },
     {
       "id": "mkt:019e1d5e-1135-7772-877c-78d036d8c242",
@@ -131785,39 +131898,6 @@
         "國際"
       ],
       "text": "烏克蘭地方官員稱，俄羅斯的襲擊造成烏克蘭東南部第聶伯羅市三人死亡、九人受傷。"
-    },
-    {
-      "id": "4861939",
-      "time": "2026-05-06 02:09:25",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗聯合司令部警告稱，如果阿聯酋對伊朗的島嶼、港口及海岸線採取任何行動，伊朗將作出“毀滅性反擊”。"
-    },
-    {
-      "id": "4861938",
-      "time": "2026-05-06 02:08:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗聯合軍事司令部表示，近日並未對阿聯酋發動任何襲擊。"
-    },
-    {
-      "id": "4861937",
-      "time": "2026-05-06 02:08:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國批准某些潛在的委內瑞拉債務重組服務。"
-    },
-    {
-      "id": "4861936",
-      "time": "2026-05-06 02:08:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國頒發與委內瑞拉相關的通用許可證。"
     }
   ]
 }
