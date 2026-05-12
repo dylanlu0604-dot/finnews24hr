@@ -1,7 +1,32 @@
 {
-  "updated": "2026-05-13 06:45:47",
-  "count": 14881,
+  "updated": "2026-05-13 06:49:09",
+  "count": 14882,
   "items": [
+    {
+      "id": "4875950",
+      "time": "2026-05-13 06:48:19",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "華盛頓方面：我方預計霍爾木茲海峽將一直關閉至五月底。"
+    },
+    {
+      "id": "4875949",
+      "time": "2026-05-13 06:46:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長會見挪威副外長，討論美伊“談判現狀”。"
+    },
+    {
+      "id": "4875948",
+      "time": "2026-05-13 06:45:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "【人民日報刊文：元首外交即將開啟中美關係新篇章】應中國國家主席習近平邀請，美國總統特朗普將於5月13日至15日對中國進行國事訪問。這是美國總統時隔9年再次訪華，是特朗普總統第二個任期內首次訪華，亦是今年以來中美元首首次面對面會晤。中美元首即將聚首北京，舉世矚目。此訪對新時代中美關係發展具有重要歷史意義。中美關係的前景是光明的。在雙方共同努力下，兩國相互尊重、和平共處、合作共贏的願景終將實現。希望美方同中方相向而行，共同推動特朗普總統此次訪華取得成功，開啟中美關係新篇章，為世界注入更多穩定性和正能量。"
+    },
     {
       "id": "te:markets:550090",
       "time": "2026-05-13 06:45:09",
@@ -132668,22 +132693,6 @@
         "Importance 2"
       ],
       "text": "New Zealand Jobless Rate Falls Below Forecasts — New Zealand's seasonally adjusted unemployment rate inched down to 5.3% in the March 2026 quarter, lower than both the previous quarter and market expectations of 5.4%. The latest reading declined from the highest jobless rate since the September 2015 quarter, as the number of unemployed individuals fell by 2,000 from the prior quarter to 163,000. At the same time, employment increased by 4 thousand to 2.89 million during the quarter, bringing the employment rate to 66.7%, unchanged from Q4."
-    },
-    {
-      "id": "4862121",
-      "time": "2026-05-06 06:48:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國大使館：涉疫郵輪上無中國公民】目前，涉漢坦病毒疫情郵輪“洪迪厄斯”號停泊在非洲國家維德角首都普拉亞港口外海域。中國駐維德角大使館當地時間5日晚發表宣告說，“經核實，船上無中國公民”。使館同時提醒在佛中國公民加強衛生防範。（新華社）"
-    },
-    {
-      "id": "4862120",
-      "time": "2026-05-06 06:46:00",
-      "tags": [
-        "資料"
-      ],
-      "text": "紐西蘭第一季度失業率 5.3%，預期5.40%，前值5.40%。\n紐西蘭第一季度就業參與率 70.4%，預期70.50%，前值70.50%。\n紐西蘭第一季度就業人數季率 0.2%，預期0.3%，前值0.50%。"
     }
   ]
 }
