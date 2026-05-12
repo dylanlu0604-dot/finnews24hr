@@ -1,7 +1,59 @@
 {
-  "updated": "2026-05-13 02:16:37",
-  "count": 14805,
+  "updated": "2026-05-13 02:20:00",
+  "count": 14804,
   "items": [
+    {
+      "id": "mkt:019e1d6a-c9e5-7772-877c-e578256d41f5",
+      "time": "2026-05-13 02:19:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "GOOGLE TO HIRE HUNDREDS OF ENGINEERS TO HELP CUSTOMERS ADOPT ITS AI- THE INFORMATION"
+    },
+    {
+      "id": "4875758",
+      "time": "2026-05-13 02:19:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：谷歌將招聘數百名工程師，助力客戶落地採用其人工智慧技術。"
+    },
+    {
+      "id": "4875757",
+      "time": "2026-05-13 02:19:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【匈牙利新政府宣誓就職】匈牙利總理毛焦爾·彼得領導的新一屆政府12日在國會宣誓就職。毛焦爾在國會發言說，新政府的目標是建設一個運轉良好、富有人文關懷的匈牙利，並“重建近年來流失的政府公信力”。（新華社）"
+    },
+    {
+      "id": "mkt:019e1d69-18ad-7772-877c-db23fbddd634",
+      "time": "2026-05-13 02:18:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TRUMP'S PROPOSED 'GOLDEN DOME' ESTIMATED TO COST $1.2 TRILLION, FAR MORE THAN HE INITIALLY SAID - AP TRUMP’S MISSILE DEFENSE PROJECTION ROSE FROM $175 BILLION TO $1.2 TRILLION"
+    },
+    {
+      "id": "4875756",
+      "time": "2026-05-13 02:17:48",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【高盛營運長：銀行業的“人力裝配線”面臨自動化】高盛總裁兼營運長John Waldron表示，人工智慧(AI)的應用正幫助該行在無需大幅增加招聘的情況下擴大業務規模。Waldron週二在接受採訪時稱：“我常把高盛形容為一條‘人力裝配線’。你看看製造業的發展，它已經變得更加機器人化、更加自動化，而銀行業在這方面的轉型程度還沒有那麼高。”在高盛及整個華爾街，後臺崗位正越來越多由機器承擔，高管們在尋找更多可透過AI提升效率和推動增長的領域，這引發了對裁員可能性的討論。Waldron表示：“我們的人力裝配線將變得更加數字化，智慧體將成為我們的機器人。我不確定整體員工規模將如何變化，但我認為公司將變得更有韌性、更具擴充套件性。”"
+    },
+    {
+      "id": "mkt:019e1d68-a165-7772-877c-d6327576e64b",
+      "time": "2026-05-13 02:17:28",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact mixed",
+        "XAUUSD"
+      ],
+      "text": "【Saudi Arabia Conducted Covert Strikes on Iran Amid Regional War】Saudi Arabia carried out unreported airstrikes on Iran in late March in retaliation for attacks on its territory, marking the first known direct Saudi military action on Iranian soil. The strikes were followed by diplomatic engagement and an understanding to de-escalate, with Iran curtailing direct attacks on the kingdom. The conflict, which began after U.S. and Israeli strikes on February 28, has drawn in Gulf states, including the UAE. Ali Vaez of the International Crisis Group said the sequence “shows pragmatic recognition on both sides that uncontrolled escalation carries unacceptable costs.”"
+    },
     {
       "id": "te:markets:550072",
       "time": "2026-05-13 02:15:19",
@@ -131877,64 +131929,6 @@
         "Importance 1"
       ],
       "text": "Metals Commodities Updates: Copper Rises by 2.49% — Top commodity gainers are Copper (2.49%), Gold (0.87%) and Silver (0.66%)."
-    },
-    {
-      "id": "4861950",
-      "time": "2026-05-06 02:19:15",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國國務院批准了加拿大擬採購C-17運輸機維持保障服務及相關裝備的潛在軍售專案，預估金額為5.4億美元。"
-    },
-    {
-      "id": "4861949",
-      "time": "2026-05-06 02:19:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國內外科醫師協會：美國內外科醫師協會簡報指出，與醫師進行面對面門診能強化知情同意程式。"
-    },
-    {
-      "id": "4861948",
-      "time": "2026-05-06 02:18:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "輝瑞正專注於早期科研階段的併購合作。"
-    },
-    {
-      "id": "4861947",
-      "time": "2026-05-06 02:17:34",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國國務院批准以3.736億美元的價格向烏克蘭出售聯合直接攻擊增程彈藥及相關配套裝備，潛在交易生效。"
-    },
-    {
-      "id": "4861946",
-      "time": "2026-05-06 02:17:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本參議員：對俄製裁損害日本國家利益】正在俄羅斯訪問的日本國會參議員鈴木宗男5日對俄羅斯媒體表示，日本對俄製裁同樣損害了日本國家利益。 鈴木說，日本前首相岸田文雄執政期間完全追隨時任美國總統拜登的政策制裁俄羅斯，這已成為日本的“負面遺產”。 “我認為有必要儘快建立日本外務大臣茂木敏充和俄外交部長拉夫羅夫之間的電話聯絡。”鈴木表示，日俄兩國外長或副外長可能會於7月在菲律賓首都馬尼拉舉行的東盟外長會議期間會晤。（新華社）"
-    },
-    {
-      "id": "4861945",
-      "time": "2026-05-06 02:17:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國內科與外科醫師協會已向美國最高法院提起訴訟，反對米非司酮郵寄墮胎給藥方案。"
-    },
-    {
-      "id": "4861944",
-      "time": "2026-05-06 02:16:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國警方通報：達拉斯北部一家購物中心附近發生槍擊事件，造成2人死亡、3人受傷。"
     }
   ]
 }
