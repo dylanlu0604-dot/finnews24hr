@@ -1,7 +1,39 @@
 {
-  "updated": "2026-05-12 23:45:34",
-  "count": 14732,
+  "updated": "2026-05-12 23:48:58",
+  "count": 14721,
   "items": [
+    {
+      "id": "te:markets:550054",
+      "time": "2026-05-12 23:48:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "DAX 40 Falls to 2-Week Low — The DAX 40 dropped 1.5% to 23,975 on Tuesday, hitting a two-week low as rising geopolitical tensions in the Middle East and higher oil prices weighed on market sentiment. Although the Iran ceasefire has held for nearly five weeks, US President Donald Trump warned it is now “hanging by a thread,” increasing concerns over renewed conflict and its potential impact on global growth. Investors remain cautious about prolonged disruption, while some hope China could play a mediating role between the parties. On the corporate front, Munich Re fell 6% despite reporting strong profits, after accepting price reductions in contract renewals. Siemens Energy declined 5.6% even after posting a solid second quarter and signalling further shareholder returns ahead. In contrast, Bayer rose 4% after a strong start to the year, supported by robust demand for soybean and corn seeds and continued cost-cutting efforts."
+    },
+    {
+      "id": "4875640",
+      "time": "2026-05-12 23:48:37",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "據Semafor白宮經濟記者：美國特拉華州民主黨參議員克里斯·庫恩斯透露，他剛剛投票反對批准沃什出任美聯儲理事；並且在沃什競選美聯儲主席的提名錶決中，他也會投出反對票。而就在昨晚， 庫恩斯還是助力推進沃什提名程式的兩名民主黨議員之一。他表示，昨晚的程式性投票 “只是為了進入正式表決環節而已”。"
+    },
+    {
+      "id": "4875639",
+      "time": "2026-05-12 23:45:34",
+      "tags": [
+        "資料",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "“新美聯儲通訊社”Nick Timiraos：克利夫蘭聯儲 4 月中位數 CPI環比上漲 0.40%，摺合年化增速 4.9%。12 個月中位數 CPI 微升至 2.8%，為去年夏季以來首次上行。"
+    },
     {
       "id": "mkt:019e1cdd-003f-7cc6-9ab9-b137917ca275",
       "time": "2026-05-12 23:45:05",
@@ -130801,120 +130833,6 @@
         "國際"
       ],
       "text": "特朗普：希望伊朗金融體系崩潰。"
-    },
-    {
-      "id": "4861772",
-      "time": "2026-05-05 23:48:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊朗經濟正在崩潰。"
-    },
-    {
-      "id": "4861771",
-      "time": "2026-05-05 23:48:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普重申對郵寄投票的批評。"
-    },
-    {
-      "id": "4861770",
-      "time": "2026-05-05 23:48:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "南非政府將五月批發柴油價格從之前的每升6.19蘭特修訂為每升5.27蘭特。"
-    },
-    {
-      "id": "4861769",
-      "time": "2026-05-05 23:48:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "國際貨幣基金組織格奧爾基耶娃就伊朗局勢表示：即便戰事今日結束，處理後果也至少需要三到四個月。"
-    },
-    {
-      "id": "4861768",
-      "time": "2026-05-05 23:48:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：對部分參議院共和黨人在阻撓議事中的表現感到失望。"
-    },
-    {
-      "id": "4861767",
-      "time": "2026-05-05 23:47:55",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：若伊朗拒不達成協議，局勢將迅速且有條不紊地升級。"
-    },
-    {
-      "id": "4861766",
-      "time": "2026-05-05 23:47:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊朗玩弄權術，但他們最終還是想達成協議。"
-    },
-    {
-      "id": "4861765",
-      "time": "2026-05-05 23:46:58",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油失守110美元/桶，日內跌3.93%。"
-    },
-    {
-      "id": "4861764",
-      "time": "2026-05-05 23:46:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我不喜歡伊朗跟我談了之後又否認。"
-    },
-    {
-      "id": "4861763",
-      "time": "2026-05-05 23:46:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普重申美國對霍爾木茲海峽擁有“完全控制權”。"
-    },
-    {
-      "id": "4861762",
-      "time": "2026-05-05 23:46:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊朗希望達成協議。"
-    },
-    {
-      "id": "4861761",
-      "time": "2026-05-05 23:46:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊朗沒有向由美國護衛的船隻開火。"
-    },
-    {
-      "id": "4861760",
-      "time": "2026-05-05 23:46:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：如果伊朗不達成協議，其將迅速走向覆滅。"
-    },
-    {
-      "id": "4861759",
-      "time": "2026-05-05 23:45:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "Anthropic執行長表示，公司前50大客戶中有40%為金融機構。"
     }
   ]
 }
