@@ -1,7 +1,23 @@
 {
-  "updated": "2026-05-12 13:22:39",
-  "count": 14124,
+  "updated": "2026-05-12 13:26:00",
+  "count": 14123,
   "items": [
+    {
+      "id": "4874195",
+      "time": "2026-05-12 13:25:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【工業氣體概念持續調整 華特氣體跌超10%】午後工業氣體概念持續調整，華特氣體跌超10%，金宏氣體、水發燃氣、蜀道裝備、僑源股份、九豐能源均跌超5%。"
+    },
+    {
+      "id": "4874194",
+      "time": "2026-05-12 13:25:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "墨西哥國家石油公司：薩利納克魯斯煉油廠Hydros 2裝置冷卻塔火災已得到控制。事故已造成6人受傷，傷者已被送往當地醫院救治。事故已得到控制，不會對附近居民構成風險。"
+    },
     {
       "id": "4874193",
       "time": "2026-05-12 13:21:39",
@@ -125153,31 +125169,6 @@
         "Importance 1"
       ],
       "text": "Singapore Retail Sales Growth Eases in March — Retail sales in Singapore rose by 4.8% year-on-year in March 2026, slowing from a 8.3% increase in the previous month. This marked the second consecutive month of growth in retail activity but at a softer pace, largely due to lower sales in department stores (-5.7% vs 18% in February) and food and alcohol (-6% vs 12.7%). Activity growth also slowed in supermarkets and hypermarkets (2.7% vs 28.9%), cosmetics, toiletries and medical goods (3.3% vs 13.5%), and overall retail sales excluding motor vehicles, parts and accessories (3.3% vs 11.3%). On the other hand, turnover increased for motor vehicles, parts and accessories (12.9% vs -7.8%), petrol service stations (4% vs -10.1%), and computer and telecommunication equipment (11.9% vs 2.6%). On a seasonally adjusted monthly basis, retail trade grew by 3.7%, rebounding from a 4.3% drop in February."
-    },
-    {
-      "id": "4860630",
-      "time": "2026-05-05 13:25:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "瑞士證券交易所（SIX）：已獲瑞士金融市場監督管理局（FINMA）批准，將數字中央證券存管機構 SIX Digital Exchange AG併入SIX SIS AG。"
-    },
-    {
-      "id": "4860629",
-      "time": "2026-05-05 13:24:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "泰國：泰國政府將依據新法令從國內市場舉債融資。"
-    },
-    {
-      "id": "4860628",
-      "time": "2026-05-05 13:23:30",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "泰國財政部長：所有借款都將來自國內。"
     }
   ]
 }
