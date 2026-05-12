@@ -1,7 +1,99 @@
 {
-  "updated": "2026-05-12 16:10:41",
-  "count": 14353,
+  "updated": "2026-05-12 16:14:09",
+  "count": 14360,
   "items": [
+    {
+      "id": "4874617",
+      "time": "2026-05-12 16:13:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【墨西哥取消為世界盃提前40天放暑假計劃】墨西哥政府訊息人士11日披露，因遭到家長、智庫和地方當局的反對，墨西哥政府取消為迎接世界盃提前40天放暑假的計劃。 上週，墨西哥教育部長馬里奧·德爾加多在參加一場活動時說，考慮到籌備世界盃賽事及熱浪來襲等因素，“我們定於6月5日結束本學年”，即提前40天放暑假。（新華社）"
+    },
+    {
+      "id": "4874616",
+      "time": "2026-05-12 16:13:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "布魯塞爾機場：因道路施工期間發生燃氣洩漏，通往機場的道路現已封閉，目前僅可搭乘火車抵達機場。"
+    },
+    {
+      "id": "4874615",
+      "time": "2026-05-12 16:13:16",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "匈牙利提名財政部長卡爾曼：僅靠預算措施無法遏制財政赤字與債務，需重啟經濟。"
+    },
+    {
+      "id": "4874614",
+      "time": "2026-05-12 16:12:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "匈牙利獲提名財長卡爾曼：需構建可預期的經濟環境，以及可信且可持續的赤字路徑。"
+    },
+    {
+      "id": "4874613",
+      "time": "2026-05-12 16:12:28",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "匈牙利提名財政部長卡爾曼：我們的經濟政策需要全面轉向。"
+    },
+    {
+      "id": "4874612",
+      "time": "2026-05-12 16:12:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "迪拜水電局（DEWA）：第一季度迪拜經濟延續強勁態勢，電力、供水及供冷服務需求保持穩定。"
+    },
+    {
+      "id": "4874611",
+      "time": "2026-05-12 16:12:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國青瓦臺官員表示，韓國總統政策首席秘書有關從人工智慧收益中發放公民分紅的相關言論，僅代表其個人觀點。"
+    },
+    {
+      "id": "4874610",
+      "time": "2026-05-12 16:10:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國中鐵：未啟動關於港股退市的相關評估工作】中國中鐵5月12日在互動平臺回覆投資者提問時表示，公司未啟動關於港股退市的相關評估工作，任何涉及上市地位的重大決策均需綜合考量多重因素。"
+    },
+    {
+      "id": "4874608",
+      "time": "2026-05-12 16:10:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【漢得資訊：公司與深度求索公司不存在股權關係】漢得資訊5月12日在互動平臺表示，經核實，公司與深度求索公司不存在股權關係。"
+    },
+    {
+      "id": "te:economy:549948",
+      "time": "2026-05-12 16:10:31",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Germany",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Bund Yields Near 15-Year High on ECB Rate Hike Bets — Germany’s 10-year Bund yield climbed to 3.1%, approaching its highest level since May 2011, as traders increased bets on European Central Bank rate hikes amid concerns over the fragile US-Iran ceasefire and rising inflation. Brent crude oil prices surpassed $105 a barrel after US President Trump rejected Iran’s latest peace proposal, calling it a “piece of garbage” and saying he “didn’t even finish reading it.” The prospect of a long-lasting impact of the Middle East conflict on the economy led investors to price in nearly three additional ECB rate hikes by year-end. On the data front, final figures confirmed Germany’s inflation rate rose to 2.9% in April, the highest since January 2024, driven by a surge in energy prices."
+    },
+    {
+      "id": "4874607",
+      "time": "2026-05-12 16:10:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【啟明資訊：聘任呂洋為公司董事會秘書】啟明資訊5月12日公告，公司當天召開第七屆董事會2026年第三次臨時會議，審議透過了《關於聘任董事會秘書的議案》，公司董事會同意聘任呂洋為公司董事會秘書，任期自本次董事會審議透過之日起至第七屆董事會屆滿之日止。"
+    },
     {
       "id": "te:economy:549947",
       "time": "2026-05-12 16:10:22",
@@ -127189,43 +127281,6 @@
         "其他"
       ],
       "text": "信驊第一季度淨利潤14.1億元臺幣，預估12.7億元臺幣。"
-    },
-    {
-      "id": "4860860",
-      "time": "2026-05-05 16:13:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：伊朗方面表示，從今天起，申請外匯的使用者可以在兩家銀行——梅拉特銀行和貿易銀行，使用身份證購買最高1000美元或歐元的外匯。"
-    },
-    {
-      "id": "te:economy:547794",
-      "time": "2026-05-05 16:13:39",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United Kingdom",
-        "New Passenger Car Registrations YoY",
-        "Importance 2"
-      ],
-      "text": "UK Car Market Grows 24% in April — UK new car sales rose by 24% year-over-year in April 2026, reaching 149,247 registrations, reflecting a rebound from a weak April 2025, when buyers advanced purchases to avoid tax hikes, including VED and the Expensive Car Supplement on BEVs. While April is typically a low-volume month, this was the strongest performance since 2019, with growth across all sectors: fleets (+26.8%), private retail (+20.2%), and business (+15.0%). Petrol car demand grew 8.2%, while diesel registrations dipped 1%. Electrified vehicles accounted for over half (53.2%) of the market for the second consecutive month. PHEV registrations surged 46.4% (13.8% market share), and HEVs rose 18.8% (13.2% share). BEV sales jumped 59.1% to 39,084 units, pushing total registrations since 2002 past two million. BEVs took a 26.2% market share for the month and 23.1% year-to-date, still below the 33% Zero Emission Vehicle Mandate target, despite manufacturer discounts and the Electric Car Grant."
-    },
-    {
-      "id": "4860859",
-      "time": "2026-05-05 16:11:10",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "菲律賓央行：央行將堅決履行將通脹增速放緩的首要職責，並將採取必要行動，確保通脹在合理時間內回落至3%的目標水平。"
-    },
-    {
-      "id": "4860858",
-      "time": "2026-05-05 16:11:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "英國汽車行業機構：英國4月新車登記量同比增長24.0%，達到149,247輛。2026年英國新增汽車登記總量將上漲3.6%，至209.3萬輛。"
     }
   ]
 }
