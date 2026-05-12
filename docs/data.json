@@ -1,7 +1,144 @@
 {
-  "updated": "2026-05-12 21:36:23",
-  "count": 14675,
+  "updated": "2026-05-12 21:39:47",
+  "count": 14682,
   "items": [
+    {
+      "id": "4875393",
+      "time": "2026-05-12 21:39:28",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "裡蓋蒂計算公司股價下跌1.6%，此前該公司公佈第一季度調整後虧損大於市場預期。"
+    },
+    {
+      "id": "4875392",
+      "time": "2026-05-12 21:38:54",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "國際電力解決方案公司股價下跌34%，此前該公司公佈第一季度營收和利潤均下滑。"
+    },
+    {
+      "id": "mkt:019e1c69-8418-7dd3-a755-b5247b546358",
+      "time": "2026-05-12 21:38:45",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "TRUMP: THINK THE MEETING WITH XI IS GOING TO BE GOOD"
+    },
+    {
+      "id": "4875391",
+      "time": "2026-05-12 21:38:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "【加密貨幣普遍回撥，比特幣維持在8萬美元上方】今晨主要加密貨幣面臨壓力，從許多L1區塊鏈在上週晚些時候和剛過去的週末錄得的近期漲幅中回落。然而，比特幣仍維持在80,000美元關口上方，實際報80,864美元。除了來自ETF的比特幣需求增加外，比特幣還迎來了更多“堅定買家”——即不斷積累比特幣並”HODL“而不是積極交易的錢包。Bitfinex的分析師援引BitGo Research的資料稱，這些買家正在購買自新型冠狀病毒疫情以來數量最多的比特幣。Bitfinex表示：“從歷史上看，該指標先前的峰值往往出現在價格大幅回升之前，因為長期持有者帶來的賣方壓力減少，收緊了可用供應。”"
+    },
+    {
+      "id": "te:markets:550033",
+      "time": "2026-05-12 21:38:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Extends Gains Amid Ceasefire Doubts — WTI crude oil futures jumped nearly 4% to around $102 per barrel on Tuesday, extending a 2.8% gain in the previous session, as concerns grew that disruptions in the Strait of Hormuz could persist. President Donald Trump said the US-Iran ceasefire was on “massive life support” after rejecting Tehran’s latest peace proposal, raising fears that the key shipping route may remain effectively closed for longer. Iran reportedly demanded an end to the US naval blockade and sanctions relief while seeking to maintain some control over traffic through Hormuz. Meanwhile, reports indicated Trump was preparing to meet with his national security team to consider renewed military action and discuss plans to escort commercial vessels through the strait. Saudi Aramco CEO Amin Nasser warned the market is losing about 100 million barrels of oil supply each week, adding that if disruptions continue, a return to normal market conditions may not occur until next year."
+    },
+    {
+      "id": "te:markets:550032",
+      "time": "2026-05-12 21:38:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Fall from Records — US equities fell from record highs on Tuesday after a hot April CPI report consolidated worries that higher energy prices may dent earnings prospectives. The Nasdaq dropped more than 1%, while the S&P 500 and Dow were around 0.4% lower. The headline inflation rate rose more than expected to a three-year high of 3.8%, backing bets that the Fed will not cut rates this year amid the risk of an inflationary shock against recent evidence of a robust labor market. AI hyperscalers and major chip producers were both lower to halt their surge this month, with Tesla, Nvidia, Amazon, and Alphabet down more than 1%. Chip and memory producers were also lower as South Korea mulled establishing a universal dividend for the recent surges in AI infrastructure stocks, pressuring Broadcom and AMD to fall 2%. Meanwhile, telehealth company Hims & Hers plunged 15% after its first-quarter earnings report missed their expectations."
+    },
+    {
+      "id": "4875390",
+      "time": "2026-05-12 21:38:05",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "MICROVAST股價下跌30.5%，報1.41美元；此前該公司公佈一季度經調整虧損，去年同期為盈利，且一季度營收下滑。"
+    },
+    {
+      "id": "4875389",
+      "time": "2026-05-12 21:37:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "普京：“薩爾馬特”導彈射程可超過3.5萬公里。"
+    },
+    {
+      "id": "mkt:019e1c68-5f75-7dd3-a755-abf5836c48f4",
+      "time": "2026-05-12 21:37:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RUSSIA'S PUTIN: WORK ON \"POSEIDON\" AND \"BUREVESTNIK\" SYSTEMS IS IN ITS FINAL STAGES"
+    },
+    {
+      "id": "4875388",
+      "time": "2026-05-12 21:37:22",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：服務業通脹可能預示經濟過熱。"
+    },
+    {
+      "id": "mkt:019e1c67-cf05-7dd3-a755-a2dbf937a9bc",
+      "time": "2026-05-12 21:37:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RUSSIA'S PUTIN: WORK ON \"POSEIDON\" AND \"BUREVESTNIK\" SYSTEMS IS IN ITS FINAL STAGES"
+    },
+    {
+      "id": "4875387",
+      "time": "2026-05-12 21:37:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京：“波塞冬”與“海燕”核動力戰略系統的研發工作已進入最後階段。"
+    },
+    {
+      "id": "te:markets:550031",
+      "time": "2026-05-12 21:37:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "IBM Stock Price Hits 11-week Low — IBM shares decreased to 221.66 USD, the lowest since February 2026. Over the past 4 weeks, IBM lost 6.63%, and in the last 12 months, it decreased 12.47%."
+    },
+    {
+      "id": "4875386",
+      "time": "2026-05-12 21:36:29",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "D-Wave量子計算公司股價在釋出第一季度業績後下跌3.9%。"
+    },
+    {
+      "id": "4875385",
+      "time": "2026-05-12 21:36:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普重申伊朗不能擁有核武器。"
+    },
     {
       "id": "mkt:019e1c67-18fc-7dd3-a755-9c91b77fe0cc",
       "time": "2026-05-12 21:36:17",
@@ -10,6 +147,31 @@
         "Important"
       ],
       "text": "TRUMP REITERATES IRAN CAN'T HAVE NUCLEAR WEAPON TRUMP ON IRAN: WE'RE NOT GOING TO RUSH ANYTHING"
+    },
+    {
+      "id": "4875384",
+      "time": "2026-05-12 21:36:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗：我們不會倉促行事。"
+    },
+    {
+      "id": "4875383",
+      "time": "2026-05-12 21:36:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數跌超0.5%，虎牙跌6.40%，金山雲跌4.83%，聲網跌4.62%，百度跌3.22%，萬國資料跌2.97%。"
+    },
+    {
+      "id": "4875382",
+      "time": "2026-05-12 21:36:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗：我們不必操之過急。"
     },
     {
       "id": "mkt:019e1c66-cce1-7dd3-a755-948b144e0674",
@@ -130263,101 +130425,6 @@
         "國際"
       ],
       "text": "法拉利執行長：針對美國加徵關稅事宜，我們已從過往經驗中汲取教訓，已做好應對準備。目前我們正在等待最終決定，隨後將據此採取相應行動。"
-    },
-    {
-      "id": "4861522",
-      "time": "2026-05-05 21:39:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國中央司令部：截至週二，已有 51 艘船隻被勒令返航或返回港口，以此禁止商船進出伊朗海域，美軍仍在持續實施海上封鎖。"
-    },
-    {
-      "id": "4861521",
-      "time": "2026-05-05 21:39:03",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "英特爾股價上漲9.9%，此前有報道稱蘋果已就美國晶片製造事宜與英特爾及三星展開洽談。"
-    },
-    {
-      "id": "4861520",
-      "time": "2026-05-05 21:38:56",
-      "tags": [
-        "市場"
-      ],
-      "text": "烏爾塔美妝（ULTA Beauty）股價上漲3.1%，此前美銀全球研究將其評級從中性上調至買入。"
-    },
-    {
-      "id": "4861519",
-      "time": "2026-05-05 21:38:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "【受中東戰事影響 德國工商大會下調德企出口預期】德國工商大會5日釋出的一項調查結果顯示，受中東局勢特別是伊朗戰事影響，德國企業海外經營預期明顯轉弱，出口前景預期由此前的小幅增長轉為停滯，外部環境不確定性持續上升。該調查覆蓋逾4500家企業。近三分之一受訪企業認為，衝突暴露全球供應鏈脆弱性，這些企業預計相關市場經濟形勢將進一步趨緊。前景預期方面，調查顯示企業信心明顯走弱，預計經濟形勢將惡化的企業比例由中東衝突前的24%升至32%，表明企業對外部環境的擔憂加劇。德國工商大會預計，今年德國出口或難以實現增長，而此前預期將增長1%。（新華社）"
-    },
-    {
-      "id": "te:markets:547913",
-      "time": "2026-05-05 21:38:34",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "S&P 500 and Nasdaq 100 Rise to Record Highs — US equities rose to fresh peaks on Tuesday as a pullback in energy prices tamed yesterday's risk of more aggressive inflation this year. The S%P 500 and the Nasdaq 100 rose 0.7% to record highs, and the Dow rose 0.5%. Oil and product prices eased as the strikes between Iran against the US and UAE yesterday did not result in all-out attacks against Iranian energy infrastructure, preventing the worsening of an already serios energy shock for economies that import from the Middle East. High energy costs had already driven bets of a Fed hike this year, as high and broad inflation combine with evidence of a strong labor market. Earnings also remained in the spotlight. Pfizer was 1% higher after posting their results. Also, Intel gained over 4% on reports that it may produce processors for Apple devices. Amazon also gained on fresh additions of logistics and distribution services. In turn, Palantir dropped 3% after missing the market's ambitious guidance estimates."
-    },
-    {
-      "id": "4861518",
-      "time": "2026-05-05 21:38:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "葡萄牙擬對能源企業新設暴利稅。"
-    },
-    {
-      "id": "4861517",
-      "time": "2026-05-05 21:38:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "湯森路透股價上漲5.2%，因季度業績超出預期。"
-    },
-    {
-      "id": "4861516",
-      "time": "2026-05-05 21:37:44",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "杜邦股價上漲6.3%，此前該公司上調了2026年的利潤與銷售額預期。"
-    },
-    {
-      "id": "4861515",
-      "time": "2026-05-05 21:37:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "納斯達克100指數漲幅擴大至1%。"
-    },
-    {
-      "id": "4861514",
-      "time": "2026-05-05 21:37:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "美光科技市值突破7000億美元，現漲近8%。"
-    },
-    {
-      "id": "4861513",
-      "time": "2026-05-05 21:37:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防軍表示：今日（週二）早些時候，以軍在加沙地帶北部、黃線區域以軍部署點附近展開行動，空襲打擊了哈馬斯一個武裝恐怖分子小組。"
     }
   ]
 }
