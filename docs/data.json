@@ -1,7 +1,37 @@
 {
-  "updated": "2026-05-13 00:44:54",
-  "count": 14734,
+  "updated": "2026-05-13 00:48:19",
+  "count": 14735,
   "items": [
+    {
+      "id": "mkt:019e1d16-b5ff-7772-877a-37a538d09cc0",
+      "time": "2026-05-13 00:48:08",
+      "tags": [
+        "MKT News",
+        "Bitcoin",
+        "Impact bearish"
+      ],
+      "text": "BITCOIN BREAKS BELOW $80,000"
+    },
+    {
+      "id": "4875681",
+      "time": "2026-05-13 00:47:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "比特幣跌破80000美元，日內跌2.23%。"
+    },
+    {
+      "id": "mkt:019e1d15-3563-7772-877a-2c343dfda5ac",
+      "time": "2026-05-13 00:46:29",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "A LARGE OIL SLICK IS MOVING NEAR IRAN’S KHARG ISLAND. EXPERTS WARN OF POTENTIAL NEW LEAKS - CNN"
+    },
     {
       "id": "4875680",
       "time": "2026-05-13 00:44:40",
@@ -131074,22 +131104,6 @@
         "Importance 0"
       ],
       "text": "CAC 40 Rises on Corporate Earnings — The CAC 40 rose 1.1% to close at 8,062 on Tuesday, as investors focused on corporate earnings. Axa gained 0.5% after reporting a strong start to 2026, with gross written premiums and other revenue up 6% year-on-year to €38.0 billion in Q1. Vicat rose 2% after posting higher sales and reaffirming its 2026 outlook, while Saint-Gobain added 1.1% on plans to sell part of its distribution business. Other gains included LVMH (+1.3%), Schneider Electric (+4.8%), and Orange (+1.3%). On the downside, Sanofi dropped 4.7% after announcing a $294 million AI investment. Beneteau fell 2.4% despite Q1 revenue growth, as weaker order intake tied to Middle East uncertainty weighed on its outlook."
-    },
-    {
-      "id": "4861858",
-      "time": "2026-05-06 00:46:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "秘魯國家統計局公佈，2025年秘魯貧困率從2024年的27.6%降至25.7%。"
-    },
-    {
-      "id": "4861857",
-      "time": "2026-05-06 00:45:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場資訊：遊戲驛站執行長對eBay發起的主動收購要約基本無望落地。"
     }
   ]
 }
