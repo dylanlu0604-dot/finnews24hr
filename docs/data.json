@@ -1,7 +1,90 @@
 {
-  "updated": "2026-05-12 23:52:25",
-  "count": 14711,
+  "updated": "2026-05-12 23:55:54",
+  "count": 14709,
   "items": [
+    {
+      "id": "te:markets:550057",
+      "time": "2026-05-12 23:54:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Edges Down Slightly — The FTSE 100 slipped 0.2% on Tuesday, with banks weighing on the index, though it still outperformed broader European markets. Sentiment was hit by growing doubts over the stability of the US-Iran ceasefire and rising political uncertainty in the UK. Prime Minister Keir Starmer has stated he will remain in office despite calls from over 70 Labour MPs for his resignation following the party’s poor local election results. Banking stocks led declines, with HSBC, Lloyds, Barclays, NatWest and Standard Chartered all falling between 1% and 4%. Vodafone dropped more than 7% despite beating earnings expectations and returning to growth in Germany. Limiting losses, oil majors Shell and BP rose as crude prices remained elevated amid ongoing Middle East tensions."
+    },
+    {
+      "id": "mkt:019e1ce5-fee4-7cc6-9ab9-e1044a93066d",
+      "time": "2026-05-12 23:54:55",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "ZELENSKIY SAYS UKRAINE STRUCK GAS FACILITIES IN RUSSIA'S ORENBURG REGION, MORE THAN 1,500 KM FROM UKRAINE"
+    },
+    {
+      "id": "te:markets:550056",
+      "time": "2026-05-12 23:54:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Lead Hits 12-week High — Lead increased to 1999.00 USD/T, the highest since February 2026. Over the past 4 weeks, Lead gained 3.71%, and in the last 12 months, it increased 0.39%."
+    },
+    {
+      "id": "4875645",
+      "time": "2026-05-12 23:54:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：烏克蘭襲擊了俄羅斯奧倫堡州的天然氣設施，該地距離烏克蘭逾 1500 公里。"
+    },
+    {
+      "id": "4875644",
+      "time": "2026-05-12 23:53:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "據巴西環球新聞網（G1）：歐盟禁止從巴西進口動物及肉類產品。"
+    },
+    {
+      "id": "mkt:019e1ce4-a07c-7cc6-9ab9-dec9732be178",
+      "time": "2026-05-12 23:53:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "EU BANS IMPORTS OF ANIMAL, MEAT FROM BRAZIL: G1"
+    },
+    {
+      "id": "te:markets:550055",
+      "time": "2026-05-12 23:53:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "CAC 40 Extends Losses on US-Iran Tensions — The CAC 40 fell 0.9% to close at 7,980 on Tuesday, marking a fourth consecutive session of losses as fading hopes for a US-Iran peace agreement continued to weigh on sentiment. US President Donald Trump said a potential ceasefire with Iran was “on life support” after Tehran rejected a US-backed proposal aimed at ending the conflict. The renewed geopolitical uncertainty pushed oil prices higher, reviving concerns over inflation and slowing economic growth. Investors also reassessed the outlook for monetary policy in Europe, with markets now pricing in two additional 25 basis-point rate hikes from the ECB by September. Financial stocks led the losses, with BNP Paribas down 2.7% and Société Générale falling 3.8%. Industrials also traded lower, with Airbus down 1.7% and Safran losing 1.3%. On the upside, TotalEnergies gained 1.8% as higher crude prices supported energy stocks, while most luxury shares advanced, including L’Oréal (+1.5%)."
+    },
+    {
+      "id": "4875643",
+      "time": "2026-05-12 23:52:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "巴西石油公司執行長：公司或將提前推進既定投資計劃。"
+    },
     {
       "id": "4875642",
       "time": "2026-05-12 23:51:28",
@@ -130674,91 +130757,6 @@
         "Importance 1"
       ],
       "text": "Copper Recovers from Week Losses — Copper futures in the US rose to over $5.95 per pound on Tuesday, the highest in a week, as energy prices eased off their peaks and eased concerns of lower demand for manufacturing across major economies. The US and Iran refrained from significant escalation to their war following strikes yesterday, easing inflationary risks that were pressuring industrial metals. Copper futures were around 15% higher this year, remaining close to their record high of $6.2 in late January as the war also dented supply of the metal. Top producer Chile faces supply risks as the conflict disrupts sulphur flows to China, prompting Beijing to curb exports of sulphuric acid, an input critical to nearly half of Chile’s copper refining capacity. On top of that, major tech companies continued to sign agreements that exponentially increase datacenter construction, supporting the outlook for copper due to its utility in electrification and grid technology."
-    },
-    {
-      "id": "4861798",
-      "time": "2026-05-05 23:55:46",
-      "tags": [
-        "公司",
-        "焦點",
-        "國際"
-      ],
-      "text": "美國證券交易委員會稱其擬透過修訂規則，允許上市公司自願選擇每半年披露一次報告。"
-    },
-    {
-      "id": "4861797",
-      "time": "2026-05-05 23:55:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "【羅馬尼亞總統啟動新政府組建磋商】羅馬尼亞總統達恩5日說，已開始為組建新政府進行磋商。磋商將先在非正式層面進行，隨後透過與各黨代表團的正式會議推進。達恩當天發表影片宣告說：“我理解羅馬尼亞人對國家運作、腐敗問題及日常生活的期望，我會在討論中充分考慮這些訴求。我們將在合理時間內組建新政府。”（新華社）"
-    },
-    {
-      "id": "4861796",
-      "time": "2026-05-05 23:55:02",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "法國總統馬克龍將提名穆蘭為法國央行行長。"
-    },
-    {
-      "id": "4861795",
-      "time": "2026-05-05 23:53:59",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【歐盟航空安全域性將中東衝突空域飛行警告延長至5月12日】歐盟航空安全域性當地時間5月5日釋出公告稱，已將其涵蓋中東和波斯灣衝突區的飛行警告有效期延長至2026年5月12日。"
-    },
-    {
-      "id": "4861794",
-      "time": "2026-05-05 23:53:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際貨幣基金組織總裁格奧爾基耶娃談人工智慧：需設定監管護欄，目前全球的道德基礎仍不穩固。"
-    },
-    {
-      "id": "4861793",
-      "time": "2026-05-05 23:53:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊朗用機槍掃射船隻，卻毫無作用。"
-    },
-    {
-      "id": "4861792",
-      "time": "2026-05-05 23:53:36",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "歐盟敦促美國遵守 2025 年協議中15% 的關稅上限。"
-    },
-    {
-      "id": "4861791",
-      "time": "2026-05-05 23:53:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗議會議事局發言人：關於議會全體會議的召開事宜，已敲定安排，下週在各專門委員會會議照常舉行的同時，議會全體會議將以線上視訊會議形式召開。"
-    },
-    {
-      "id": "4861790",
-      "time": "2026-05-05 23:53:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談伊朗：他們什麼時候才會認輸？"
-    },
-    {
-      "id": "4861789",
-      "time": "2026-05-05 23:52:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊朗應該舉白旗投降。"
     }
   ]
 }
