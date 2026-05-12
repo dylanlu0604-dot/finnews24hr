@@ -1,7 +1,45 @@
 {
-  "updated": "2026-05-13 00:34:35",
-  "count": 14729,
+  "updated": "2026-05-13 00:38:04",
+  "count": 14730,
   "items": [
+    {
+      "id": "mkt:019e1d0d-5fe2-7772-8779-f623f82a8d66",
+      "time": "2026-05-13 00:37:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SEPARATE VOTE WILL BE REQUIRED TO CONFIRM WARSH AS CHAIR"
+    },
+    {
+      "id": "mkt:019e1d0d-2d04-7772-8779-ef97329cf9a9",
+      "time": "2026-05-13 00:37:43",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "WARSH SUCCEEDS STEPHEN MIRAN AS A FED GOVERNOR"
+    },
+    {
+      "id": "4875677",
+      "time": "2026-05-13 00:36:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "智利國家銅業委員會（Cochilco）資料顯示：智利國家銅業（Codelco）3 月銅產量同比下降 9.98%，降至 110900 噸。"
+    },
+    {
+      "id": "mkt:019e1d0b-e923-7772-8779-e22b28cf5d29",
+      "time": "2026-05-13 00:36:20",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "CHILE'S CODELCO COPPER PRODUCTION DOWN 9.98% Y/Y IN MARCH TO 110,900 TONS - COCHILCO"
+    },
     {
       "id": "mkt:019e1d09-6050-7772-8779-d8bf2ea8d3a8",
       "time": "2026-05-13 00:33:34",
@@ -131006,34 +131044,6 @@
         "其他"
       ],
       "text": "eBay董事會將於本週召開會議，審議對遊戲驛站的收購要約。"
-    },
-    {
-      "id": "4861853",
-      "time": "2026-05-06 00:37:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "Turning Point Brand股價飆升至3.9%，創歷史新高。"
-    },
-    {
-      "id": "4861852",
-      "time": "2026-05-06 00:36:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "英國《每日電訊報》稱，美以對伊朗魯莽的軍事行動，或將致使20萬戶英國家庭陷入貧困。"
-    },
-    {
-      "id": "te:markets:547989",
-      "time": "2026-05-06 00:35:23",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "FTSE MIB Rises on Oil Retreat and Strong Earnings — The FTSE MIB rose 2.3% to close at 48,556 on Tuesday, supported by easing oil prices and strong corporate earnings. Oil prices declined but remained elevated amid ongoing Middle East tensions, as the US and Iran continued their standoff over the Strait of Hormuz. The prospect of softer energy prices eased inflation concerns, lifting financials and the broader index. Intesa Sanpaolo gained 2.4% and MPS rose 3.6%, while UniCredit jumped 5.9% after reporting a record quarter, with net profit of €3.217 billion and higher full-year guidance. Italgas added 1.9% after posting a 44.1% rise in revenue and a 6% increase in net profit. Prysmian surged 10% on plans to pursue €4 billion in M&A deals. On the downside, Ferrari fell 3.9% as deliveries dropped 4.4% year-on-year to 3,436 units amid a model transition. Leonardo (+0.9%) and Amplifon (+4.6%) are also set to report results."
     }
   ]
 }
