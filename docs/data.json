@@ -1,7 +1,26 @@
 {
-  "updated": "2026-05-13 02:26:47",
-  "count": 14808,
+  "updated": "2026-05-13 02:30:12",
+  "count": 14810,
   "items": [
+    {
+      "id": "4875763",
+      "time": "2026-05-13 02:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收漲2.66%，報652.00元人民幣/桶。滬金夜盤收跌0.86%，滬銀收跌0.24%。"
+    },
+    {
+      "id": "te:markets:550075",
+      "time": "2026-05-13 02:29:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: XRP Drops by 2.96% — Top crypto losers are XRP (-2.96%), Ether (-2.67%), Binance (-1.59%) and Bitcoin (-1.55%)."
+    },
     {
       "id": "4875762",
       "time": "2026-05-13 02:25:44",
