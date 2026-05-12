@@ -1,7 +1,48 @@
 {
-  "updated": "2026-05-12 08:07:21",
-  "count": 13900,
+  "updated": "2026-05-12 08:10:44",
+  "count": 13902,
   "items": [
+    {
+      "id": "te:economy:549769",
+      "time": "2026-05-12 08:09:19",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Japan 10Y Bond Yield Hits Near 29-year High — Japan 10 Year Government Bond Yield increased to 2.54%, the highest since July 1997. Over the past 4 weeks, Japan 10Y Bond Yield gained 6.94 basis points, and in the last 12 months, it increased 115.40 basis points."
+    },
+    {
+      "id": "4873342",
+      "time": "2026-05-12 08:08:55",
+      "tags": [
+        "宏觀",
+        "觀點"
+      ],
+      "text": "【國金證券：樓市“小陽春”熱度有望延續 預計房價止跌態勢將更加穩固】國金證券研報稱，上週新房景氣度下行趨緩，47個重點城市新房成交同比下降20.4%，新房延續開年以來偏弱走勢。上週二手房景氣度底部企穩，22城二手房成交量季節性回落，同比由正轉負錄得-7.3%，主要受“五一”假期錯位的影響。近期，多地密集出臺房地產政策，樓市有望延續“小陽春”的熱度。當前二手房市場的供需正在發生邊際變化，26個重點城市二手房掛牌量同環比均出現回落，但代表需求側的實時成交量仍在改善。4月以來，樓市再度出現止跌跡象。百城二手房掛牌價環比降幅收窄至-0.3%，4月全國二手房成交價環比由負轉正，錄得0.05%。預計隨著掛牌量的回落，房價止跌的態勢將更加穩固。"
+    },
+    {
+      "id": "te:economy:549768",
+      "time": "2026-05-12 08:08:11",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Ireland",
+        "Construction PMI",
+        "Importance 1"
+      ],
+      "text": "Irish Construction Shrinks the Most in 5 Months — The AIB Ireland Construction PMI dropped to 47.1 in April 2026 from March’s 10-month high of 53.2, marking the first contraction in three months. The latest figure also marked the steepest decline since last November, as new orders fell for the first time in five months due to the impact of the Middle East conflicts."
+    },
+    {
+      "id": "4873341",
+      "time": "2026-05-12 08:08:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日修訂安保檔案，如何表述中國成焦點】日本政府計劃今年之內修訂“安保三檔案”，日媒稱對中國局勢的判斷及認知成為各方爭論的焦點之一。日本時事通訊社10日報道稱，在日本首相高市早苗涉臺言論導致中日關係遇冷的背景下，若新版檔案使用“威脅”等比現行版本更為強硬的措辭表述，勢必引發中方進一步反彈。日本執政黨內部既有對華強硬的論調，也有聲音認為應顧及對華關係，行文措辭保持克制。（環球時報）"
+    },
     {
       "id": "4873340",
       "time": "2026-05-12 08:06:59",
@@ -123150,26 +123191,6 @@
         "市場"
       ],
       "text": "歐元斯托克50指數期貨下跌0.2%，德國DAX指數期貨下跌0.4%，英國富時指數期貨下跌0.7%。"
-    },
-    {
-      "id": "4860414",
-      "time": "2026-05-05 08:09:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本三陸地區近海發生5.2級地震】當地時間5月5日8時54分左右，日本巖手縣觀測到最大震度為3的地震。日本氣象廳稱，震源位於三陸地區近海，震源深度約為30公里，震級推定為5.2級。此次地震沒有引發海嘯的風險。（央視新聞）"
-    },
-    {
-      "id": "te:economy:547606",
-      "time": "2026-05-05 08:08:26",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Kazakhstan",
-        "Inflation Rate",
-        "Importance 0"
-      ],
-      "text": "Kazakhstan Inflation Rate Hits 13-Month Low — The annual inflation rate in Kazakhstan slowed to 10.6% in April 2026 from 11% in the previous month, marking its lowest reading since March 2025. The main downward pressure came from food and non-alcoholic beverages (4.5% vs 4.7% in March), while inflation remained unchanged for housing and utilities (0.6%), transport (1%), alcoholic beverages and tobacco (0.2%), household items (0.5%), communication (0.3%), education (0.2%), restaurants and hotels (0.2%), and miscellaneous goods and services (1%). In contrast, costs increased at a faster pace for clothing and footwear (0.9% vs 0.1%). On a monthly basis, consumer prices edged up to 0.8% from 0.6% in March."
     }
   ]
 }
