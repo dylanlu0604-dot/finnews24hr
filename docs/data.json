@@ -1,7 +1,31 @@
 {
-  "updated": "2026-05-12 13:46:03",
-  "count": 14127,
+  "updated": "2026-05-12 13:49:26",
+  "count": 14126,
   "items": [
+    {
+      "id": "4874217",
+      "time": "2026-05-12 13:48:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "據報道，殼牌計劃出售其旗下的法國加油站業務。"
+    },
+    {
+      "id": "4874216",
+      "time": "2026-05-12 13:47:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "瀾起科技A股成交額達200億元，現跌3.7%。"
+    },
+    {
+      "id": "4874215",
+      "time": "2026-05-12 13:45:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "樂天化學股價下跌17%。"
+    },
     {
       "id": "te:markets:549866",
       "time": "2026-05-12 13:43:53",
@@ -125167,38 +125191,6 @@
         "Importance 1"
       ],
       "text": "Indonesia Q1 Jobless Rate Lowest Since 1997 — The unemployment rate in Indonesia fell to 4.68% in Q1 of 2026 from 4.76% in the same quarter the previous year, marking the lowest figure since Q4 1997. The number of unemployed persons edged down by 0.48% from a year earlier to 7.24 million. At the same time, the number of employed increased by 1.3% to 147.67 million, mostly in agriculture, wholesale & retail trade, and manufacturing. Meanwhile, the labor force participation rate was little changed at 70.56%."
-    },
-    {
-      "id": "4860653",
-      "time": "2026-05-05 13:48:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：嘉能可哈薩克鋅冶煉廠火災已被撲滅。"
-    },
-    {
-      "id": "4860652",
-      "time": "2026-05-05 13:48:36",
-      "tags": [
-        "市場"
-      ],
-      "text": "【分析：歐元區5月份政府債券總發行量料將增加】LBBW的Elmar Voelker在一份報告中稱，歐元區11個最大發行國5月份的政府債券總發行量預計為1,300億歐元，不過可能在1,200億歐元至1,350億歐元之間。這位高階固定收益分析師表示，相比之下，2025年5月的發行量為1,190億歐元。他表示，LBBW預計葡萄牙、比利時和希臘本月將發行新債，而德國也可能銀團承銷一筆新的30年期德國國債。他表示，如果發行新一批與通脹掛鉤、面向散戶的義大利債券BTP Italia，將大幅推高總發行量。他稱：“因此，我們認為歐元區政府債券的總供應量範圍相對較廣。”"
-    },
-    {
-      "id": "4860651",
-      "time": "2026-05-05 13:46:38",
-      "tags": [
-        "央行"
-      ],
-      "text": "澳洲聯儲主席布洛克：擔憂澳大利亞民眾會形成通脹根深蒂固的預期。"
-    },
-    {
-      "id": "4860650",
-      "time": "2026-05-05 13:46:26",
-      "tags": [
-        "央行"
-      ],
-      "text": "澳洲聯儲主席布洛克：未來六個月加息對通脹毫無作用。"
     }
   ]
 }
