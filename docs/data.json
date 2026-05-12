@@ -1,7 +1,72 @@
 {
-  "updated": "2026-05-12 17:25:14",
-  "count": 14489,
+  "updated": "2026-05-12 17:28:40",
+  "count": 14491,
   "items": [
+    {
+      "id": "4874806",
+      "time": "2026-05-12 17:28:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【宇樹科技釋出載人機甲，投資人回應】今日，宇樹釋出GD01載人變形機甲GD01，定價390萬元起。宇樹早期投資人趙楠表示，宇樹一直在圍繞它的科技樹路線圖做探索。機甲機器人的核心是透過一個容易破圈的場景向全世界表達了宇樹在感測器、控制器和工程能力這些機器人核心技術上的優越性。與其它公司不同，宇樹的產品本身的破圈性就是營銷的引擎。（一財）"
+    },
+    {
+      "id": "4874805",
+      "time": "2026-05-12 17:27:50",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "歐盟氣候行動專員：我們都理解公眾對能源公司在危機期間獲取“暴利”的不滿。"
+    },
+    {
+      "id": "4874804",
+      "time": "2026-05-12 17:27:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【5家險企償付能力不達標】近日，保險機構陸續公佈2026年第一季度償付能力情況。據記者統計，截至發稿，共有86家財產險公司、72家人身險公司及16家再保險公司按期披露了相關資料。整體來看，行業償付能力水平充裕。超過97%的保險機構償付能力充足，14家獲得風險綜合評級AAA的最高評價。不過，一季度共有5家機構償付能力不達標，另有兩家為重點核查物件。根據償二代二期工程監管要求，保險公司償付能力達標須同時滿足三項條件：核心償付能力充足率不低於50%、綜合償付能力充足率不低於100%、風險綜合評級在B類及以上。三項中任一不達標，即被認定為償付能力不達標機構。具體來看，在5家不達標機構中，華匯人壽、亞太財險、新疆前海聯合財險、安華農險因風險綜合評級為C類而不達標。多家險企表示，公司治理問題嚴重，正在積極推進整改。（《金融時報》）"
+    },
+    {
+      "id": "4874803",
+      "time": "2026-05-12 17:27:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【UR與美團閃購達成戰略合作】URBAN REVIVO（UR）宣佈與美團閃購達成戰略合作。5月13日，UR首批合作門店將正式上線美團閃購，消費者可線上選購，享受最快30分鐘送達服務。"
+    },
+    {
+      "id": "4874802",
+      "time": "2026-05-12 17:26:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "匈牙利總理卡曼預計與中央銀行將開展“良好合作”。"
+    },
+    {
+      "id": "4874801",
+      "time": "2026-05-12 17:26:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【空中客車服務公司Satair完成對Unical Aviation及ecube收購】5月12日，空中客車服務公司Satair宣佈，已完成對Unical Aviation Inc.（簡稱“Unical”）及其子公司ecube的收購。作為新領導架構的一部分，Unical執行長Sharon Green將同時任職VAS Aero Services執行長，以加強Satair各二手可用航材（USM）業務單元的戰略協同。"
+    },
+    {
+      "id": "4874800",
+      "time": "2026-05-12 17:26:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【宇樹科技釋出載人機甲，投資人回應】5月12日，宇樹釋出GD01載人變形機甲GD01，定價390萬元起。宇樹創始人王興興親自登上機甲駕駛艙，並演示了一段真人操作。根據官方介紹，該產品為全球首款量產版載人機甲，可以變形，民用交通工具，體重約500kg（載人後）。宇樹早期投資人趙楠表示：宇樹一直在圍繞它的科技樹路線圖做探索。機甲機器人的核心是透過一個容易破圈的場景向全世界表達了宇樹在感測器、控制器和工程能力這些機器人核心技術上的優越性。與其它公司不同，宇樹的產品本身的破圈性就是營銷的引擎。（第一財經）"
+    },
+    {
+      "id": "4874799",
+      "time": "2026-05-12 17:26:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "5月12日，國家主席習近平在北京同塔吉克總統拉赫蒙舉行會談。（新華社）"
+    },
     {
       "id": "4874798",
       "time": "2026-05-12 17:25:08",
@@ -128387,58 +128452,6 @@
         "公司"
       ],
       "text": "【積成電子：預中標約2.01億元國家電網採購專案】積成電子(002339)5月5日公告，國家電網有限公司近日公告了“國家電網有限公司2026年輸變電專案第二次變電裝置（含電纜）公開招標採購推薦的中標候選人公示”、“國家電網有限公司2026年輸變電專案第二次變電裝置直接採購（單一來源）推薦的成交候選人公示”、“國家電網有限公司2026年輸變電專案第一次變電裝置框架協議（協議庫存）公開招標採購推薦的中標候選人公示”和“國家電網有限公司2026年營銷專案第一次計量裝置公開招標採購推薦的中標候選人公示”，公司為上述專案的中標候選人之一，共中15個包，中標金額合計約2.01億元。"
-    },
-    {
-      "id": "4860959",
-      "time": "2026-05-05 17:28:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：澤連斯基是個精明難纏的人，我們希望促成爭端和解。要知道，烏克蘭正在丟失領土，而俄羅斯和烏克蘭雙方都付出了慘重代價。我對澤連斯基本人並無惡感。我和他一直還算相處融洽，唯獨在白宮有過一次不愉快，我覺得當時他的態度略顯咄咄逼人。"
-    },
-    {
-      "id": "4860958",
-      "time": "2026-05-05 17:26:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【通達股份：預中標3.29億元國家電網採購專案】通達股份(002560)5月5日公告，國家電網有限公司電子商務平臺近日釋出了《國家電網有限公司2026年輸變電專案第二次變電裝置（含電纜）公開招標採購推薦的中標候選人公示》、《國家電網有限公司2026年輸變電專案第一次變電裝置框架協議（協議庫存）公開招標採購推薦的中標候選人公示》、《國家電網有限公司2026年輸變電專案第一次裝置性材料框架協議（協議庫存）公開招標採購推薦的中標候選人公示》、《國家電網有限公司2026年輸變電專案第二次裝置性材料公開招標採購推薦的中標候選人公示》。公示開始時間為4月30日，公示期3日。據公司測算，公司預中標物資總價值共計3.29億元，約佔公司2025年度營業總收入的4.11%。"
-    },
-    {
-      "id": "4860957",
-      "time": "2026-05-05 17:26:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "世衛組織：有人員在航班途中離世。"
-    },
-    {
-      "id": "te:markets:547824",
-      "time": "2026-05-05 17:26:29",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "South Africa",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "South Africa Rand Hovers Around 1-Month Low — The South African rand traded around 16.8 per USD, hovering near the lowest since early April, as the dollar remained supported by safe-haven demand on renewed hostilities in the Middle East that tested the fragile US-Iran ceasefire. The US and Iran launched fresh attacks in the Gulf as they sought control of the Strait of Hormuz through competing maritime blockades, following President Trump’s move to restore shipping through the strait and assist stranded vessels. In South Africa, the economic backdrop remains challenging, with inflationary pressures and sluggish growth guiding SARB policy. As a net importer of petroleum products, the country is highly exposed to global energy price swings, with inflation rising to 3.1% in March and expected to climb further on higher energy and food costs. The government said it will sharply raise pump prices for petrol, diesel, and other petroleum products from May 6, adding to expectations of a possible rate hike by the central bank."
-    },
-    {
-      "id": "4860956",
-      "time": "2026-05-05 17:26:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國總統特朗普稱伊朗人民需要槍支，並認為他們正在獲得一些槍支。"
-    },
-    {
-      "id": "4860955",
-      "time": "2026-05-05 17:26:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊斯蘭革命衛隊副總司令：如果美國對伊朗升級緊張局勢，將遭受嚴重後果。"
     }
   ]
 }
