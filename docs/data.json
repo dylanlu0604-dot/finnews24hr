@@ -1,7 +1,81 @@
 {
-  "updated": "2026-05-12 23:18:02",
-  "count": 14749,
+  "updated": "2026-05-12 23:21:27",
+  "count": 14748,
   "items": [
+    {
+      "id": "4875610",
+      "time": "2026-05-12 23:20:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "科威特已召見伊朗大使，此前科威特指控伊朗伊斯蘭革命衛隊人員滲透布比延島，並與科威特安全部隊發生衝突。"
+    },
+    {
+      "id": "4875609",
+      "time": "2026-05-12 23:19:53",
+      "tags": [
+        "觀點"
+      ],
+      "text": "高盛總裁John Waldron： 政府應在開支方面保持更大剋制。"
+    },
+    {
+      "id": "mkt:019e1cc5-7870-7dd3-a757-17bbe347437e",
+      "time": "2026-05-12 23:19:23",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "KUWAIT HAS SUMMONED IRAN’S AMBASSADOR AFTER ALLEGING THAT IRGC PERSONNEL INFILTRATED BUBIYAN ISLAND & CLASHED WITH KUWAITI SECURITY FORCES"
+    },
+    {
+      "id": "4875608",
+      "time": "2026-05-12 23:19:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4660美元/盎司，日內跌1.58%。"
+    },
+    {
+      "id": "4875607",
+      "time": "2026-05-12 23:18:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "據美國核能研究所負責人透露，美國能源部或撥款數十億美元，用於長期核反應堆零部件專案。"
+    },
+    {
+      "id": "4875606",
+      "time": "2026-05-12 23:18:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【亞馬遜首次發行瑞士法郎債券 募資28億瑞士法郎】亞馬遜首次發行瑞士法郎債券，分成創紀錄的六個期限檔，顯示大型科技公司正將融資渠道拓展至其慣常依賴的債券市場之外。知情人士透露，該公司透過發行3年、6年、9年、12年、18年和25年期債券，募資28.2億瑞士法郎（約36億美元）。發行規模在簿記建檔過程中多次上調，各期限債券的利差定價均在初步價格指引區間的中點附近。"
+    },
+    {
+      "id": "mkt:019e1cc4-6035-7dd3-a757-0a241f4d5d2a",
+      "time": "2026-05-12 23:18:12",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "PETR4.SA",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "PETROBRAS TO SEE BENEFITS OF HIGHER OIL PRICES IN 2Q, CFO SAYS"
+    },
+    {
+      "id": "4875605",
+      "time": "2026-05-12 23:17:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "美股費城半導體指數跌幅擴大至5%，英特爾、高通跌10%"
+    },
     {
       "id": "4875604",
       "time": "2026-05-12 23:17:29",
@@ -130940,84 +131014,6 @@
         "觀點"
       ],
       "text": "摩根大通CEO戴蒙：Anthropic推出Mythos的做法完全正確。"
-    },
-    {
-      "id": "4861698",
-      "time": "2026-05-05 23:20:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗外交部：敦促美方在外交問題上“展現善意”】據伊朗新聞電視臺5日報道，伊朗外交部發言人巴加埃就當前伊美談判程序表示，伊朗決定不在難以達成協議的問題上浪費時間，當前優先事項是聚焦結束戰爭，敦促美方在外交問題上“展現善意”。巴加埃表示，伊朗正在對美國“深度不信任與懷疑”的氛圍中進行談判，無法忘記美國去年6月及今年2月28日對伊朗實施的無端侵略，強調伊朗在整個外交程序中必須保持“高度警惕”。（新華社）"
-    },
-    {
-      "id": "4861697",
-      "time": "2026-05-05 23:20:33",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "Anthropic執行長表示，儘管軟體行業整體將實現增長，但人工智慧顛覆可能會導致部分獨立軟體即服務（SaaS）企業破產。"
-    },
-    {
-      "id": "4861696",
-      "time": "2026-05-05 23:20:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "醫療保健分銷巨頭康德樂（Cardinal Health）預計將於5月宣佈季度派息方案。基於公司強勁的第三財季業績及歷史派息規律，市場普遍預期此次派息將延續其長達31年的連續分紅增長紀錄。"
-    },
-    {
-      "id": "4861695",
-      "time": "2026-05-05 23:20:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "【馬裡軍方說在該國多地打擊恐怖分子目標】馬裡軍方5日說，4日在該國多地實施多輪空襲，打擊恐怖分子目標，包括摧毀其車輛以及燃料和彈藥倉庫等。馬裡武裝部隊總參謀部當天發表宣告說，軍方首先打擊了莫普提區久拉市以西一處恐怖分子藏匿點，摧毀6輛皮卡車、數輛摩托車以及一處隱蔽的燃料和彈藥倉庫。軍方隨後又在莫普提區塞瓦雷市以北地區發動空襲，打死約50名恐怖分子，摧毀4輛皮卡車、數輛摩托車和一處大型燃料和彈藥倉庫。軍方還在梅納卡區梅納卡市東南方向發動第三輪打擊，“徹底消滅”一個恐怖分子團伙。馬裡軍方表示，將繼續在全國範圍內追剿恐怖分子。（新華社）"
-    },
-    {
-      "id": "te:markets:547971",
-      "time": "2026-05-05 23:20:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "US Natgas Prices Fall on Lower LNG Flows — US natural gas futures fell below $2.8 per MMBtu as supply increased in the domestic market, while exports declined. Pipeline flows to LNG export terminals dropped to the lowest level since late January due to routine spring maintenance, which temporarily reduces export capacity and leaves more gas in the US. Looking ahead, a gradual increase in cooling demand is expected as summer approaches. On the supply side, low prices have encouraged producers to reduce output. Companies such as EQT Corporation have scaled back drilling or temporarily curtailed production to avoid selling at weak prices. Still, storage remains about 7% above the seasonal average."
-    },
-    {
-      "id": "4861694",
-      "time": "2026-05-05 23:19:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【Alphabet擬發行至少127億美元的債券 用於推進最新AI佈局】Alphabet在創紀錄發行其他幣種債券僅數月後，正在發行其史上規模最大的歐元計價債券，並首次進入加元債市場，凸顯其在人工智慧領域的雄心壯志所帶來的巨大融資需求。據知情人士透露，這家谷歌母公司擬透過歐元債籌資90億歐元（105億美元），這將是Alphabet在該幣種下規模最大的一筆交易。此次發行分為六個期限，吸引了超過183億歐元的認購，低於此前252億歐元的水平。知情人士還表示，該公司已啟動首次加元債發行，計劃籌資30億加元（22億美元）至50億加元，分四個期限，期限從5年至30年不等。其中最長期限債券的初步定價指引為較基準上浮1.15個百分點。此次歐元和加元債發行，距離公司此前發行近320億美元的美元、英鎊和瑞郎計價債券僅過去數月。"
-    },
-    {
-      "id": "4861693",
-      "time": "2026-05-05 23:19:20",
-      "tags": [
-        "公司",
-        "資料",
-        "市場"
-      ],
-      "text": "農業巨頭阿徹丹尼爾斯米德蘭公司(ADM)週二早盤上漲6.1%，此前該公司公佈了一季度財報，業績表現喜憂參半。儘管營收不及預期，但盈利超出市場預測，公司同時大幅上調了全年盈利指引。"
-    },
-    {
-      "id": "4861692",
-      "time": "2026-05-05 23:18:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "Anthropic執行長在紐約金融活動上表示，第一財季收入按年化計算增長了“80倍”。"
-    },
-    {
-      "id": "4861691",
-      "time": "2026-05-05 23:18:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場資訊：白宮已就霍爾木茲海峽“自由計劃”行動提前私下通知伊朗並警告伊朗不得進行干預。"
     }
   ]
 }
