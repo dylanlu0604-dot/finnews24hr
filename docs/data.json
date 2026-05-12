@@ -1,7 +1,78 @@
 {
-  "updated": "2026-05-12 23:07:42",
-  "count": 14752,
+  "updated": "2026-05-12 23:11:08",
+  "count": 14756,
   "items": [
+    {
+      "id": "4875596",
+      "time": "2026-05-12 23:10:57",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "摩根大通CEO戴蒙：公司將因為上調銀行稅而放棄新英國總部計劃。"
+    },
+    {
+      "id": "mkt:019e1cbd-95a4-7dd3-a756-d5d086e2c0ea",
+      "time": "2026-05-12 23:10:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "PETROBRAS CONTINUES TO LOOK FOR OIL PROJECTS ABROAD: CEO"
+    },
+    {
+      "id": "4875595",
+      "time": "2026-05-12 23:10:42",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國眾議院議員致函派拉蒙執行長David Ellison，要求其就擬收購華納兄弟一事作出相關答覆。"
+    },
+    {
+      "id": "4875594",
+      "time": "2026-05-12 23:09:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "秘魯總統大選計票進入收尾階段，已完成99.76%選票統計；保守派Fujimori以 17.17% 得票率領先，左翼Sanchez緊隨其後、得票率 12.00%，右翼Lopez Aliaga得票率 11.91%。"
+    },
+    {
+      "id": "te:economy:550048",
+      "time": "2026-05-12 23:09:44",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Debt Balance Total",
+        "Importance 1"
+      ],
+      "text": "US Household Debt Rises Slightly — Total household debt in the US increased by $18 billion from the prior quarter to a new record high of $18.8 trillion in Q1 2026. Mortgage balances grew by $21 billion to $13.19 trillion, and auto loan balances increased by $18 billion to $1.69 trillion. Home equity line of credit (HELOC) balances increased by $12 billion to $446 billion, while student loan balances decreased by $6 billion to $1.66 trillion. Credit card balances fell by $25 billion to $1.25 trillion. \"Aggregate household debt levels rose slightly, with modest increases in most debt types offsetting a seasonal decline in credit card balances,” said Daniel Mangrum, Research Economist at the New York Fed. “Delinquency transition rates were mostly steady, while student loan delinquencies are returning to pre-pandemic levels.\""
+    },
+    {
+      "id": "mkt:019e1cbc-27e1-7dd3-a756-cd71a758b959",
+      "time": "2026-05-12 23:09:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "9101.T",
+        "Impact bearish"
+      ],
+      "text": "NYK LINE'S CEO STATES THE COMPANY MIGHT INCREASE ITS FLEET OF LARGE CRUDE CARRIERS"
+    },
+    {
+      "id": "mkt:019e1cbb-ddd7-7dd3-a756-c70e23fab436",
+      "time": "2026-05-12 23:08:54",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "JAPAN'S NYK LINE EYES MORE OIL TANKERS FOR SUPPLIES OUTSIDE THE MIDDLE EAST - CEO, CITED BY NIKKEI"
+    },
     {
       "id": "4875592",
       "time": "2026-05-12 23:07:31",
@@ -131002,31 +131073,6 @@
         "公司"
       ],
       "text": "邊疆航空高管：第二季度我們與精神航空的航線重疊度高於所有其他航空公司，這讓我們公司得以搶佔精神航空流失的需求客源。"
-    },
-    {
-      "id": "4861670",
-      "time": "2026-05-05 23:10:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "馬拉松石油 CEO：受戰爭影響，全球 6% 的煉油產能已停工停產。"
-    },
-    {
-      "id": "4861669",
-      "time": "2026-05-05 23:09:46",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "貝萊德CEO拉里・芬克：算力期貨將成為全新資產類別。"
-    },
-    {
-      "id": "4861668",
-      "time": "2026-05-05 23:07:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "彭博美元現貨指數跌幅延續至日內低點。"
     }
   ]
 }
