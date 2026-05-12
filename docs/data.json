@@ -1,7 +1,41 @@
 {
-  "updated": "2026-05-12 21:21:45",
-  "count": 14661,
+  "updated": "2026-05-12 21:25:15",
+  "count": 14659,
   "items": [
+    {
+      "id": "4875344",
+      "time": "2026-05-12 21:24:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國防長：1.5萬億美元的預算申請“是歷史性規模”】美國國防部長皮特・赫格塞思與參謀長聯席會議主席丹・凱恩將軍，將於週二出席參眾兩院負責稽核五角大樓預算申請的小組委員會聽證會。眼下正值伊朗戰事期間，特朗普政府正申請1.5萬億美元國防預算。 赫格塞思與凱恩將接連出席參眾兩院撥款委員會下屬、分管國防開支的小組委員會聽證會。 這份2027財年1.5萬億美元預算草案，是政府與國會進行年度開支談判的基準起點，較2026年國防預算大幅增加42%。 赫格塞思在開場陳述中表示，1.5萬億美元的預算申請“誠然是歷史性規模”，但同時強調這是一份兼顧財政穩健的預算。 他稱：“總統提交的這份預算，體現了當下局勢的緊迫程度。” 民主黨方面已就伊朗戰事及其授權程式提出質疑。民主黨眾議員羅莎・德勞羅在開場發言中向赫格塞思和凱恩警示：本屆政府並未向國會拿出任何清晰、連貫的戰略方案。參議院撥款委員會民主黨參議員、亞利桑那州的馬克・凱利直言，1.5萬億美元的預算規模離譜至極。"
+    },
+    {
+      "id": "4875343",
+      "time": "2026-05-12 21:23:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "黎巴嫩稱以色列空襲造成兩名民防人員身亡。"
+    },
+    {
+      "id": "4875342",
+      "time": "2026-05-12 21:22:27",
+      "tags": [
+        "資料",
+        "央行",
+        "國際"
+      ],
+      "text": "【報告：美國高通脹引發加息呼聲，儘管此舉不太可能】Regan Capital的Skyler Weinand寫道，CPI連續第二次高於3%，增強了美聯儲加息的理由。到4月底，較上年同期的消費者物價漲幅達到3.8%，高於3.7%的預期。與此同時，其他指標顯示經濟具有韌性。Weinand說：“近期的通脹和就業資料意味著，美聯儲的下一步行動應該是加息，而不是降息。“但這對美聯儲來說並非易事。他說，考慮到“即將上任的主席Warsh面臨的壓力，我們認為不太可能加息“。"
+    },
+    {
+      "id": "4875341",
+      "time": "2026-05-12 21:21:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東星醫療：擬支付7.7億元購買醫佳寶90%股權】東星醫療公告，公司擬支付7.7億元購買醫佳寶90%股權。本次交易完成後，上市公司將持有醫佳寶90%股權，醫佳寶將成為上市公司的控股子公司。本次交易不涉及發行股份，不會對上市公司的股權結構產生影響。根據立信會計師出具的上市公司《審計報告》和《備考審閱報告》，本次交易完成前後上市公司的主要財務指標顯示，資產總額將上升至33.82億元，營業收入將提高至6.66億元，營業利潤及淨利潤將有所提高，上市公司的持續盈利能力和發展潛力將得到增強。"
+    },
     {
       "id": "4875338",
       "time": "2026-05-12 21:20:02",
@@ -130151,59 +130185,6 @@
         "國際"
       ],
       "text": "美國電力公司（AEP）：評估谷歌在西弗吉尼亞州帕特南縣投資數十億美元的資料中心開發專案。"
-    },
-    {
-      "id": "4861479",
-      "time": "2026-05-05 21:24:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "【遼寧：“五一”假期全省接待遊客人次同比增長13.45%】“遼寧文旅”微信公眾號5月5日訊息，據大資料測算，2026年“五一”假期，全省累計接待遊客人次同比增長13.45%，旅遊綜合收入同比增長13.70%；全省7家5A級旅遊景區接待遊客人次同比增長13.42%，旅遊綜合收入同比增長9.22%；全省9家一級博物館接待觀眾人次同比增長12.01%。"
-    },
-    {
-      "id": "4861478",
-      "time": "2026-05-05 21:23:19",
-      "tags": [
-        "資料",
-        "國際"
-      ],
-      "text": "普渡大學：美國四月農業信心指數降至121。"
-    },
-    {
-      "id": "4861477",
-      "time": "2026-05-05 21:22:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【滬市頭部公司呈現四大亮點！132家躋身“千億市值俱樂部”】Wind資料顯示，截至目前，滬市千億市值的頭部企業（以下簡稱“頭部公司”）總量已達132家，其中滬市主機板公司114家，科創板18家，合計市值46.14萬億元，佔滬市公司總市值的59%。滬市頭部公司作為國民經濟各領域的排頭兵，已成為維護資本市場平穩執行的壓艙石與穩定器。從2025年年報及近年來的經營資料看，滬市頭部公司呈現出“四大亮點”。從業績來看，滬市頭部公司的2025年營收、淨利潤佔滬市全部公司的比重分別達58.6%、87.2%，體現了頭部企業的規模優勢與盈利主導地位。（中證金牛座）"
-    },
-    {
-      "id": "4861476",
-      "time": "2026-05-05 21:22:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "法拉利執行長：我們目前未出現異常或反常的訂單取消情況。"
-    },
-    {
-      "id": "4861475",
-      "time": "2026-05-05 21:22:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "法拉利首席財務官：第一季度我們在中東地區的交付量得以保持同比持平。"
-    },
-    {
-      "id": "te:economy:547904",
-      "time": "2026-05-05 21:22:18",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Switzerland",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Swiss 10-Year Bond Yield Little Changed — Switzerland’s 10-year government bond yield hovered just above 0.4%, retreating from a recent nine-month peak of nearly 0.5%, as investors evaluated the Swiss National Bank’s policy path while tracking stalled US-Iran negotiations. Headline inflation rate rose to 0.6% in April, the highest since December 2024, from 0.3% in March, sitting slightly above the 0.5% average projected by the SNB for this year. The increase was largely driven by higher energy prices, as the Middle East conflict pushed petrol prices sharply higher. Meanwhile, core inflation edged down to 0.3% from 0.4% in March, marking the softest increase since July 2021, easing pressure on the central bank to change policy. The appreciation of the franc amid ongoing safe-haven demand due to persistent geopolitical tensions and Switzerland’s low energy dependence should soften the impact on consumer prices. The SNB is expected to keep interest rates at 0% in June and possibly over the next 12 months."
     }
   ]
 }
