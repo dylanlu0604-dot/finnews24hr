@@ -1,7 +1,136 @@
 {
-  "updated": "2026-05-12 21:11:32",
-  "count": 14634,
+  "updated": "2026-05-12 21:14:58",
+  "count": 14643,
   "items": [
+    {
+      "id": "mkt:019e1c53-44c9-7dd3-a754-f817710e964e",
+      "time": "2026-05-12 21:14:39",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "GOOLSBEE: WORST PART OF APRIL CPI IS SERVICES INFLATION"
+    },
+    {
+      "id": "4875321",
+      "time": "2026-05-12 21:14:20",
+      "tags": [
+        "資料",
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲官員古爾斯比表示，4 月消費者物價指數（CPI）資料不及預期、表現更差。"
+    },
+    {
+      "id": "mkt:019e1c52-b9f7-7dd3-a754-f19f4e0aebd9",
+      "time": "2026-05-12 21:14:04",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "FED'S GOOLSBEE SAYS APRIL CPI REPORT WORSE THAN EXPECTED"
+    },
+    {
+      "id": "4875320",
+      "time": "2026-05-12 21:14:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "AEROVIRONMENT 迅速擴大漲幅，國防合同收益達 1.2%。"
+    },
+    {
+      "id": "4875319",
+      "time": "2026-05-12 21:13:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華芢生物：Pro-101-1治療深二度燒燙傷的IIIa期臨床試驗完成首例患者入組】華芢生物公告，本公司研發並用於治療深二度燒燙傷的Pro-101-1的IIIa期臨床試驗，於近日完成了首例患者入組。Pro-101-1為本公司核心產品之一。本臨床試驗為一項隨機、雙盲、安慰劑對照研究，旨在進一步評價重組人血小板源生長因子(rhPDGF-BB)凝膠治療深Ⅱ度燒傷創面的有效性和安全性，並在大量入組受試者中為後續IIIb期臨床試驗的設計提供關鍵引數。此次Pro-101-1的IIIa期臨床試驗完成首例患者入組是本公司在燒燙傷治療領域上的又一次重大的研發進展。"
+    },
+    {
+      "id": "4875317",
+      "time": "2026-05-12 21:13:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI承諾出資200億美元，或可獲得 Cerebras 11%的股權。"
+    },
+    {
+      "id": "mkt:019e1c51-afd8-7dd3-a754-e88a5a702b75",
+      "time": "2026-05-12 21:12:55",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OPENAI’S $20 BILLION COMMITMENT COULD GIVE IT AN 11% STAKE IN CEREBRAS - THE INFORMATION"
+    },
+    {
+      "id": "4875316",
+      "time": "2026-05-12 21:12:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "Cerebras將於本週透過首次公開募股上市，募資55億美元，這筆交易將給OpenAI帶來一筆意外收益，最終規模或超50億美元。"
+    },
+    {
+      "id": "4875315",
+      "time": "2026-05-12 21:12:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "航空環境公司：獲籤合同，將為道恩天域系統加裝黑豹防禦系統。"
+    },
+    {
+      "id": "mkt:019e1c50-b618-7dd3-a754-e5a0fb48705a",
+      "time": "2026-05-12 21:11:51",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "PENTAGON OFFICIAL SAYS IRAN WAR COST AT $29 BILLION"
+    },
+    {
+      "id": "4875314",
+      "time": "2026-05-12 21:11:50",
+      "tags": [
+        "資料",
+        "央行",
+        "國際"
+      ],
+      "text": "分析師Anstey評美國CPI：這些資料將進一步證實這樣一個觀點，即美聯儲不僅不會採取行動，而且官員們很可能會繼續逐步擺脫近幾個月來的寬鬆政策預期。"
+    },
+    {
+      "id": "mkt:019e1c50-a4c5-7dd3-a754-d88644b9f2f1",
+      "time": "2026-05-12 21:11:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution",
+        "NVDA.O",
+        "Impact bullish",
+        "MSFT.O"
+      ],
+      "text": "【CME and Silicon Data Plan Futures Market for AI Computing Power】CME Group, the largest US derivatives exchange, is partnering with Silicon Data to develop futures contracts tied to computing power used in AI systems. The contracts aim to help traders, financial firms, AI developers, and cloud providers hedge volatility and price risk in compute markets. Silicon Data’s GPU-based benchmarks will underpin the products, which are still awaiting regulatory approval. CME CEO Terry Duffy described compute as “the new oil of the 21st century,” while BlackRock CEO Larry Fink said compute futures could emerge as a new asset class amid persistent supply shortages and strong AI-driven demand."
+    },
+    {
+      "id": "4875313",
+      "time": "2026-05-12 21:11:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "五角大樓官員稱伊朗戰爭開支將達290億美元。"
+    },
     {
       "id": "4875312",
       "time": "2026-05-12 21:11:20",
@@ -129889,41 +130018,6 @@
         "市場"
       ],
       "text": "沙特國債管理中心表示，該國在該地區地緣政治事件發生前已籌得約90%的所需資金。"
-    },
-    {
-      "id": "4861469",
-      "time": "2026-05-05 21:14:40",
-      "tags": [
-        "資料",
-        "國際"
-      ],
-      "text": "普渡大學 ：美國農民信心指數在4月份走低。"
-    },
-    {
-      "id": "4861468",
-      "time": "2026-05-05 21:14:25",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "摩根大通私人銀行全球策略師Madison Faller：業績仍是推動美股上漲的燃料。下一個問題是，業績強勢能否從科技股擴充套件到更多板塊。投資組合不能只靠一個板塊支撐整個市場。"
-    },
-    {
-      "id": "4861467",
-      "time": "2026-05-05 21:12:26",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "法拉利執行長：鑑於中東地區目前面臨的暫時性物流難題，我們已敲定替代方案，可繼續為該區域的客戶提供服務。"
-    },
-    {
-      "id": "4861466",
-      "time": "2026-05-05 21:12:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度部長：已將2026/27榨季甘蔗最低保護價定為每公擔365盧比。"
     }
   ]
 }
