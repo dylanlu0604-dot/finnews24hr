@@ -1,7 +1,37 @@
 {
-  "updated": "2026-05-14 04:52:23",
-  "count": 15441,
+  "updated": "2026-05-14 04:55:55",
+  "count": 15436,
   "items": [
+    {
+      "id": "4878642",
+      "time": "2026-05-14 04:55:17",
+      "tags": [
+        "資料",
+        "市場",
+        "國際"
+      ],
+      "text": "週三（5月13日）紐約尾盤，現貨黃金跌0.55%，報4689.05美元/盎司，日內整體持續走低，交投於4726.92-4669.68美元，美國PPI批發通脹資料釋出後、在美股盤初重新整理日低。COMEX黃金期貨漲0.26%，報4698.20美元/盎司。"
+    },
+    {
+      "id": "te:markets:550429",
+      "time": "2026-05-14 04:54:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Drops on Geopolitical Tensions — The Ibovespa fell 1.8% to close at 177,098 on Wednesday as fading expectations for a US-Iran peace agreement weighed on investor sentiment. The stalling of negotiations this week reduced prospects for a reopening of the Strait of Hormuz, while concerns over stagflation pressures and higher bond yields continued to pressure banks and the broader market. Most stocks traded lower. In the financial sector, Bradesco fell 1.7% and Itaúsa lost 1.4%, while utilities also weakened, with Sabesp down 1.5% and Azzas shedding 4.2%. Petrobras dropped 2.4%, while Ambev (-1.4%) and Rede D’Or (-3.3%) also posted losses. On the upside, Vale gained 1.3% amid higher iron ore prices. After the close, Banco do Brasil (-2.6%), CSN (-3%), and Eneva (-2.1%) are set to report earnings results."
+    },
+    {
+      "id": "4878641",
+      "time": "2026-05-14 04:53:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "思科：光學業務方面，Acacia第三季度訂單規模超 10 億美元，同比實現三位數增幅。"
+    },
     {
       "id": "4878640",
       "time": "2026-05-14 04:51:57",
@@ -138748,75 +138778,6 @@
         "市場"
       ],
       "text": "【金價漲2.8%，逼近4700美元】週三（5月6日）紐約尾盤，現貨黃金漲2.84%，報4686.74美元/盎司，5月5日北京時間00:00前後跌至4504.20美元以來持續回升，5月6日06:00以來加速上漲。COMEX黃金期貨漲2.81%，報4696.80美元/盎司。現貨白銀漲6.22%，報77.31美元/盎司，5月6日亞太盤初以來也持續上漲。COMEX白銀期貨漲5.77%，報78.83美元/盎司。COMEX銅期貨漲3.05%，報6.176美元/磅，5月5日00:00跌至5.820美元以來，持續上漲。"
-    },
-    {
-      "id": "4864211",
-      "time": "2026-05-07 04:55:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大銀行行長在向參議院作證詞時表示：將政府最新財政措施納入考量後，7月貨幣政策報告中的通脹預測不會發生太大變動。"
-    },
-    {
-      "id": "4864210",
-      "time": "2026-05-07 04:55:43",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "空客商用飛機部門執行長表示，中東航司並未取消寬體客機訂單。"
-    },
-    {
-      "id": "4864209",
-      "time": "2026-05-07 04:55:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "空中客車民用航空部門執行長表示，空客A220客機若推出更大容量型號，已經獲得了航司客戶的積極反饋。"
-    },
-    {
-      "id": "te:markets:548483",
-      "time": "2026-05-07 04:54:48",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Rises as Oil Drops on Peace Hopes — The S&P/TSX Composite Index rose 1.2% to close at 33,982 on Wednesday, as hopes for a US–Iran peace deal boosted sentiment, with reports suggesting both sides are nearing a memorandum to end the Gulf conflict. Oil prices plunged on expectations that Middle East supply could resume, easing inflation concerns and supporting banks, with Royal Bank of Canada (+1.9%) and TD Bank (+2.7%) higher. Gold prices rose, aided by a weaker dollar and lower crude, lifting miners, as Agnico Eagle (+6.6%), Barrick (+7.6%), and Wheaton Precious Metals (+7.5%) surged. On the earnings front, Suncor Energy and Cenovus Energy both beat expectations, the latter reporting an 83% profit jump, but shares fell 7.5% and 4.9%, respectively, amid declining oil prices. Elsewhere, Loblaw (-5.4%) posted weaker-than-expected revenue, while Sun Life Financial (+0.1%) and Great-West Lifeco (+0.8%) are set to report later in the day. On the data front, the Ivey PMI rose to 57.7 in April from 49.7 in March."
-    },
-    {
-      "id": "4864208",
-      "time": "2026-05-07 04:54:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "馬斯克：我單年納稅額超100億美元。總體來看，我最終繳納的稅款或將高達數萬億美元。"
-    },
-    {
-      "id": "4864207",
-      "time": "2026-05-07 04:53:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗石油部長贊格內赫：國家預算設定的油價基準為每桶 54 美元，當前石油收入對應的實際油價已超過每桶 90 美元。"
-    },
-    {
-      "id": "4864206",
-      "time": "2026-05-07 04:53:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗官員贊格內赫：預算設定油價基準為每桶54美元，當前石油收入對應油價高於每桶90美元。"
-    },
-    {
-      "id": "4864205",
-      "time": "2026-05-07 04:52:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "西班牙表示，將於5月11日開始從加那利群島撤離涉漢坦病毒遊輪乘客。"
     }
   ]
 }
