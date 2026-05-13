@@ -1,7 +1,51 @@
 {
-  "updated": "2026-05-13 14:26:14",
-  "count": 14968,
+  "updated": "2026-05-13 14:29:44",
+  "count": 14965,
   "items": [
+    {
+      "id": "4877029",
+      "time": "2026-05-13 14:27:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【工信部召開高質量行業資料集建設工作座談會】工信部召開高質量行業資料集建設工作座談會，會議強調，工業資料開發利用是推動人工智慧技術變革、加快培育新質生產力、推進製造業數智化轉型的重要抓手。我國工業資料資源豐富、產業體系完備、應用場景廣闊，工業資料資源開發利用潛力巨大。要聚焦工業資料“採、集、用”難點，深化路徑探索，構建資料流通激勵機制，加快高質量行業資料集建設。要夯實工業資料基礎設施，加強技術攻關和標準體系建設，築牢發展根基。要支援資料服務企業發展，構建資料合作聯合體等新型合作模式，培育協同創新的工業資料產業生態。要分類引導大中小企業開展資料開發利用，分業推進行業數智化轉型，推動產業叢集等載體資料共享和價值共創。"
+    },
+    {
+      "id": "te:markets:550243",
+      "time": "2026-05-13 14:27:25",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Set for Higher Open — European equity markets were headed for a stronger open on Wednesday, rebounding from the previous session’s losses as investors focused on a fresh round of corporate earnings. Companies due to report results include Allianz, Eon, Merck, Porsche, and RWE. Meanwhile, German industrial giant Siemens unveiled a new €6 billion share buyback program spanning the next five years after reporting a first-quarter profit of €2.03 billion. On the data front, investors will monitor Eurozone GDP, employment, and industrial production figures for further clues on the region’s economic outlook. Traders also continued to track developments in the Middle East, where diplomatic efforts to end the US-Iran war have shown limited progress, while hotter-than-expected US inflation data reinforced concerns about tighter Federal Reserve policy. In premarket trading, Euro Stoxx 50 futures gained 0.9%, while Stoxx 600 futures advanced 0.7%."
+    },
+    {
+      "id": "4877028",
+      "time": "2026-05-13 14:27:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國汽車工業協會（VDA）：歐盟2035年二氧化碳排放新規將導致德國5萬個汽車行業崗位面臨流失風險；德國汽車行業面臨“嚴重的選址危機”。"
+    },
+    {
+      "id": "4877027",
+      "time": "2026-05-13 14:26:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【江特電機成立國際礦業公司】企查查APP顯示，近日，江西江特國際礦業有限公司成立，經營範圍包含：非煤礦山礦產資源開採，礦產資源勘查，金屬與非金屬礦產資源地質勘探等。企查查股權穿透顯示，該公司由江特電機全資持股。"
+    },
+    {
+      "id": "4877026",
+      "time": "2026-05-13 14:26:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "州長：俄羅斯阿斯特拉罕一座煉油廠遭無人機襲擊後起火。"
+    },
     {
       "id": "4877025",
       "time": "2026-05-13 14:25:59",
@@ -133687,79 +133731,6 @@
         "國際"
       ],
       "text": "【花旗建議押注歐洲央行加息幅度將超過英國央行】花旗銀行表示，市場目前對兩大央行的加息預期趨於接近，但在上週的貨幣政策會議上，二者的政策思路已顯現明顯差異；該行建議押注歐洲央行加息幅度將超過英國央行。這家美資銀行策略師傑米・塞爾於週三釋出的客戶研報中寫道：“儘管英國央行表態若地緣衝突惡化將加息，但在基準情景下，其加息機率、以及兌現市場定價加息幅度的可能性，都明顯低於歐洲央行。”他建議做多 2026 年 7 月英國貨幣政策委員會掛鉤的英鎊隔夜同業拆借利率（SONIA）、做空 2026 年 7 月歐洲央行掛鉤的歐元短期利率（ESTR），入場利差 174 個基點，目標看向 158 個基點，止損位設定在 182 個基點；他提示風險情景：兩大央行政策步調完全一致，或在極端利空環境下英國央行加息反而超過歐洲央行。"
-    },
-    {
-      "id": "4862747",
-      "time": "2026-05-06 14:29:33",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "韓國青瓦臺：不要相信相關報道，目前尚不需要對特朗普提出的參與“自由計劃”的呼籲進行審議。"
-    },
-    {
-      "id": "4862746",
-      "time": "2026-05-06 14:29:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國青瓦臺：昨日尚未確認現代海運（HMM）的貨輪是否遇襲。"
-    },
-    {
-      "id": "te:economy:548176",
-      "time": "2026-05-06 14:29:00",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Russia",
-        "Composite PMI",
-        "Importance 1"
-      ],
-      "text": "Russia Private Sector Shrinks at Softer Rate — Russia’s S&P Global Composite PMI edged up to 49.1 in April 2026 from 48.8 in March. However, it signaled a second straight month of contraction in private sector activity, as manufacturing output and services stayed subdued. New orders declined again, with a renewed fall in services demand coinciding with a modest drop in manufacturing sales, pointing to weak overall demand conditions. Employment fell for a third consecutive month. Backlogs also deteriorated further, as service sector outstanding work declined again and manufacturing work-in-hand contracted at a faster pace. On the price front, inflationary pressures eased, with both input costs and output charges rising at the slowest pace so far in 2026, retreating from the VAT-driven spike seen earlier in the year. Despite this moderation, cost increases remained relatively elevated. Looking ahead, overall sentiment weakened, largely due to softer optimism among service providers, highlighting ongoing uncertainty in the outlook."
-    },
-    {
-      "id": "4862745",
-      "time": "2026-05-06 14:28:32",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【過去12個月美光科技股價已暴漲700%】截止到美東時間5日收盤，美光科技股價漲幅超過11%，市值達到約7220億美元，使得它成功躋身美國市值最高的10家科技公司之列。美光科技近期股價表現異常強勁，今年以來累計漲幅達124%，市值增加約3950億美元；過去12個月股價暴漲近7倍，市值增加超過6200億美元。研究機構IDC最新報告指出，在人工智慧需求的支撐下，儲存晶片市場有望擺脫傳統週期性波動模式。（央視財經）"
-    },
-    {
-      "id": "4862744",
-      "time": "2026-05-06 14:27:39",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【小摩：上調濰柴動力AH股目標價，均維持“增持”評級】摩根大通將濰柴動力H股目標價由40港元上調至52港元，並將濰柴動力A股目標價由38元上調至49元，均維持“增持”評級，因公司轉型已經達到可衡量的里程碑，同時該行估值模型計入由2027年起更高質量、更高利潤率的盈利組合。報告提到，主要的增量推動因素是利潤率。隨著人工智慧資料中心(AIDC)規模擴大，路線圖從備用柴油機擴充套件至主用燃氣發動機和固體氧化物燃料電池(SOFC)，預期公司的電力與能源業務有望在整體利潤中佔據更大份額。"
-    },
-    {
-      "id": "4862743",
-      "time": "2026-05-06 14:27:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "諾和諾德首席財務官：品牌GLP-1市場正在擴張。"
-    },
-    {
-      "id": "4862742",
-      "time": "2026-05-06 14:27:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "芬蘭航空集團（FINNAIR OYJ）：受比利時全國罷工行動影響，2026年5月12日布魯塞爾機場的航班可能出現執行中斷。"
-    },
-    {
-      "id": "4862741",
-      "time": "2026-05-06 14:26:58",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "純鹼連續主力合約日內漲3%，現報1272.00元。"
     }
   ]
 }
