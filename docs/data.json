@@ -1,7 +1,35 @@
 {
-  "updated": "2026-05-14 06:13:37",
-  "count": 15407,
+  "updated": "2026-05-14 06:17:07",
+  "count": 15406,
   "items": [
+    {
+      "id": "4878671",
+      "time": "2026-05-14 06:16:43",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【政策、電網招標等因素共振 電力及裝置板塊上行邏輯堅實】“算力的盡頭是電力”這句話，在最近幾個交易日再度引起市場共鳴。截至5月13日收盤，綠色電力概念股中，大唐發電6連板，韶能股份、晉控電力2連板。此外，華電遼能、華電能源也收穫了多個漲停板。特高壓、智慧電網概念股中，寶光股份、四方股份、漢纜股份、通達股份、中恆電氣也都以漲停報收。資深公用事業以及電新行業研究人士認為，本輪相關板塊上漲是算電協同政策頂層設計落地、國網大額訂單密集中標、極端高溫預期升溫等多重邏輯共振的結果。（上證報）"
+    },
+    {
+      "id": "4878670",
+      "time": "2026-05-14 06:16:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【權益資產回暖推升淨值 “10元基”數量增至百隻】權益資產持續回暖，基金淨值穩步提升，推動“10元基”數量增長。資料顯示，目前復權單位淨值突破10元的主動管理型基金已達百隻。分析這些績優基金可以發現，基金經理對產業趨勢的把握，平臺化投研體系的持續賦能，讓這些基金穿越週期，在業績長跑中勝出。（上證報）"
+    },
+    {
+      "id": "te:markets:550430",
+      "time": "2026-05-14 06:15:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Brazilian Real Depreciates by 1.79% — Top currency losers are Brazilian Real (-1.79%), New Zealand Dollar (-0.28%), Swedish Krona (-0.28%), Euro (-0.18%), Japanese Yen (-0.12%) and British Pound (-0.08%). Gains are led by Mexican Peso (0.33%), Norwegian Krone (0.28%), Australian Dollar (0.26%) and Dollar Index (0.15%)."
+    },
     {
       "id": "4878669",
       "time": "2026-05-14 06:10:18",
@@ -138506,41 +138534,6 @@
         "其他"
       ],
       "text": "空客斬獲190億美元訂單，創下加拿大史上最大單筆飛機交易紀錄。"
-    },
-    {
-      "id": "4864270",
-      "time": "2026-05-07 06:16:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家信用合作社管理局：已將位於密西西比州傑克遜的傑克遜地區聯邦信用合作社交由接管管理。"
-    },
-    {
-      "id": "te:markets:548485",
-      "time": "2026-05-07 06:15:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: South Korean Won Increases by 1.61% — Top currency gainers are South Korean Won (1.61%), New Zealand Dollar (1.16%), Japanese Yen (0.99%), Euro (0.49%) and British Pound (0.38%). Biggest losers are Norwegian Krone (-0.45%) and Dollar Index (-0.44%)."
-    },
-    {
-      "id": "4864269",
-      "time": "2026-05-07 06:14:52",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內漲1%，現報78.08美元/盎司。"
-    },
-    {
-      "id": "4864268",
-      "time": "2026-05-07 06:13:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "法國：前總統薩科齊獲得假釋。"
     }
   ]
 }
