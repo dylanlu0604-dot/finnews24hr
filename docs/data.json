@@ -1,7 +1,122 @@
 {
-  "updated": "2026-05-14 03:59:57",
-  "count": 15445,
+  "updated": "2026-05-14 04:03:31",
+  "count": 15447,
   "items": [
+    {
+      "id": "mkt:019e22ef-ac94-7dd0-a6aa-c5ef1e459a27",
+      "time": "2026-05-14 04:03:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "FORD SHARES END 13% HIGHER, MARKING THEIR LARGEST RALLY SINCE 2020"
+    },
+    {
+      "id": "mkt:019e22ef-6871-7dd0-a6aa-bf028e0b5b68",
+      "time": "2026-05-14 04:02:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "Market Themes",
+        "AI Revolution",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "Dow",
+        "Impact bearish"
+      ],
+      "text": "【S&P 500, Nasdaq Hit Records as Tech Rally Offsets Hot Inflation Data】US stocks climbed to record highs on Wednesday despite stronger-than-expected producer inflation data, with the S&P 500 rising 0.6% and the Nasdaq gaining 1.2% as semiconductor and megacap tech shares advanced. The Dow Jones Industrial Average edged lower. The Senate also confirmed Kevin Warsh as the next Federal Reserve chair in a 54-45 vote. Markets continued to monitor inflation pressures, Fed policy expectations, and President Donald Trump’s summit with Xi Jinping in Beijing focused on trade and AI discussions."
+    },
+    {
+      "id": "4878617",
+      "time": "2026-05-14 04:02:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達收漲2.3%，連續第六個交易日走高。"
+    },
+    {
+      "id": "mkt:019e22ee-dce2-7dd0-a6aa-b53e598f8a5c",
+      "time": "2026-05-14 04:02:19",
+      "tags": [
+        "MKT News",
+        "NVDA.O",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "NVIDIA SHARES CLOSE UP 2.3%, EXTENDING WIN STREAK TO SIXTH DAY"
+    },
+    {
+      "id": "mkt:019e22ee-902c-7dd0-a6aa-adfd1c9eed58",
+      "time": "2026-05-14 04:02:00",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOGL.O",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "ALPHABET SHARES CLOSE UP 3.9% TO HIT A FRESH RECORD"
+    },
+    {
+      "id": "4878616",
+      "time": "2026-05-14 04:01:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "福特股價收盤大漲 13%，創 2020 年以來最大單日漲幅。"
+    },
+    {
+      "id": "4878615",
+      "time": "2026-05-14 04:00:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體漲跌不一】道指跌0.13%，標普500指數漲0.59%，納指漲1.22%。福特汽車漲13.30%，ON SEMICONDUCTOR漲11.23%，邁威爾科技漲8.20%，Coherent Corp漲7.91%，APP AppLovin跌7.58%，輝盛研究系統跌6.56%。“七姐妹”方面：谷歌漲4.00%，特斯拉漲2.71%，英偉達漲2.32%，Meta Platforms漲2.31%，亞馬遜漲1.65%，蘋果漲1.46%，微軟跌0.65%。"
+    },
+    {
+      "id": "mkt:019e22ed-23f9-7dd0-a6aa-a7dd8825b1bf",
+      "time": "2026-05-14 04:00:23",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "SECOND DRONE STRIKE HITS THE IRANIAN OPPOSITION CAMP NORTH OF ERBIL - SECURITY SOURCES"
+    },
+    {
+      "id": "mkt:019e22ec-f77e-7dd0-a6aa-9c1627187afd",
+      "time": "2026-05-14 04:00:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Nasdaq100",
+        "Impact bullish",
+        "S&P500",
+        "Dow",
+        "Impact bearish"
+      ],
+      "text": "NASDAQ CLOSED +1.20%, S&P 500 +0.59%, DOW -0.13%"
+    },
+    {
+      "id": "4878614",
+      "time": "2026-05-14 04:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收漲3.87%】世紀互聯漲25.00%，金山雲漲16.88%，能鏈智電漲15.48%，禾賽科技漲12.34%，阿里巴巴漲8.06%。"
+    },
     {
       "id": "4878613",
       "time": "2026-05-14 03:50:40",
@@ -138756,73 +138871,6 @@
         "國際"
       ],
       "text": "美國財長貝森特將於週二分別與日本首相高市早苗、外務大臣片山五月以及日本央行行長植田和男舉行會談。"
-    },
-    {
-      "id": "4864172",
-      "time": "2026-05-07 04:03:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國聯邦調查局週三對弗吉尼亞州一位民主黨資深議員的辦公室及其名下一處商業場所展開搜查，此事隸屬於一項腐敗調查。"
-    },
-    {
-      "id": "4864171",
-      "time": "2026-05-07 04:01:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "華納兄弟探索集團第一季度每股收益為虧損1.17美元，市場一致預期為虧損0.07美元。"
-    },
-    {
-      "id": "4864170",
-      "time": "2026-05-07 04:01:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "華納兄弟探索公司第一季度自由現金流量為負4.76億美元，市場一致預期為6.378億美元。"
-    },
-    {
-      "id": "4864169",
-      "time": "2026-05-07 04:01:22",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "華納兄弟探索公司第一季度收入為88.9億美元，市場一致預期為89億美元。"
-    },
-    {
-      "id": "4864168",
-      "time": "2026-05-07 04:01:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "華納兄弟探索集團第一季度流媒體收入為28.9億美元，市場預期為28.6億美元。"
-    },
-    {
-      "id": "4864167",
-      "time": "2026-05-07 04:01:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "華納兄弟探索集團第一季度影業營收為31.3億美元，市場預期為25.5億美元。"
-    },
-    {
-      "id": "4864166",
-      "time": "2026-05-07 04:00:45",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股收盤：三大股指集體收漲】道指漲1.23%，標普500指數漲1.44%，納指漲2.03%。超微電腦漲24.69%，達維塔保健漲23.59%，AMD漲18.58%，PHYSICIANS REALTY TRUST COM漲18.05%，國際香料香精漲17.21%，Arm Holdings漲13.63%。“七姐妹”方面：英偉達漲5.85%，谷歌漲2.84%，特斯拉漲2.34%，Meta Platforms漲1.30%，蘋果漲1.15%，微軟漲0.61%，亞馬遜漲0.53%。"
-    },
-    {
-      "id": "4864165",
-      "time": "2026-05-07 04:00:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【納斯達克中國金龍指數收漲3.53%】百度漲11.53%，金山雲漲8.44%，Tims中國漲3.03%，阿里巴巴漲6.95%，世紀互聯漲6.37%。"
     }
   ]
 }
