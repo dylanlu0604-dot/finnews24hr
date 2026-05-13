@@ -1,7 +1,169 @@
 {
-  "updated": "2026-05-14 01:28:48",
-  "count": 15342,
+  "updated": "2026-05-14 01:32:20",
+  "count": 15354,
   "items": [
+    {
+      "id": "4878446",
+      "time": "2026-05-14 01:32:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "墨西哥石油公司在宣告中證實，薩利納克魯斯煉油廠事故造成一名工人死亡。"
+    },
+    {
+      "id": "mkt:019e2264-ff9c-7dd0-a6a8-512fc982da24",
+      "time": "2026-05-14 01:31:43",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "KASHKARI: LABOR MARKET LOOKS LIKE IT'S HANGING IN THERE"
+    },
+    {
+      "id": "mkt:019e2264-e93a-7dd0-a6a8-4eb38164b122",
+      "time": "2026-05-14 01:31:39",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "KASHKARI: IRAN SHOCK HAS UPENDED INFLATION ENVIRONMENT"
+    },
+    {
+      "id": "mkt:019e2264-d8e1-7dd0-a6a8-42cec552b200",
+      "time": "2026-05-14 01:31:31",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "KASHKARI: LABOR MARKET MOVING SIDEWAYS, 'LUKEWARM'"
+    },
+    {
+      "id": "mkt:019e2264-c0fc-7dd0-a6a8-39a30752d14e",
+      "time": "2026-05-14 01:31:26",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bullish",
+        "S&P500",
+        "Impact mixed",
+        "WTI"
+      ],
+      "text": "KASHKARI: BEFORE IRAN CONFLICT HAD SOME CONFIDENCE INFLATION WAS HEADING BACK DOWN TO 2%"
+    },
+    {
+      "id": "4878445",
+      "time": "2026-05-14 01:31:21",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲卡什卡里：伊朗危機顛覆了通脹環境。"
+    },
+    {
+      "id": "mkt:019e2264-7c9d-7dd0-a6a8-341d91b52e41",
+      "time": "2026-05-14 01:31:11",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "BOC MINUTES: SCOPE TO BE PATIENT 'FOR NOW,' BUT SITUATION COULD CHANGE QUICKLY"
+    },
+    {
+      "id": "mkt:019e2264-5d60-7dd0-a6a8-2a919e7349a5",
+      "time": "2026-05-14 01:31:03",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Brent"
+      ],
+      "text": "BOC MINUTES: CENTRAL BANK'S OIL-PRICE FORECAST SUBJECT TO 'CONSIDERABLE UNCERTAINTY'"
+    },
+    {
+      "id": "4878443",
+      "time": "2026-05-14 01:30:58",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲卡什卡里：在伊朗衝突爆發前，我曾一度有信心通脹會回落至2%。"
+    },
+    {
+      "id": "mkt:019e2264-26cb-7dd0-a6a8-25113dee98ef",
+      "time": "2026-05-14 01:30:45",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "BANK OF CANADA MINUTES: RATE INCREASES NEEDED SHOULD OIL PRICES STAY ELEVATED FOR LONGER"
+    },
+    {
+      "id": "4878441",
+      "time": "2026-05-14 01:30:25",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲卡什卡里：通脹衝擊不會讓美聯儲擺脫困境，但確實讓通脹控制工作更具挑戰性。"
+    },
+    {
+      "id": "mkt:019e2263-c85f-7dd0-a6a8-1a0ce3a7f232",
+      "time": "2026-05-14 01:30:25",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "KASHKARI: INFLATIONARY SHOCKS DON'T LET THE FED OFF THE HOOK, BUT HAVE MADE THE JOB CHALLENGING ON INFLATION"
+    },
+    {
+      "id": "4878439",
+      "time": "2026-05-14 01:29:28",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲卡什卡里：必須將通脹回落至2%目標，絕不能隨意調整目標基準。"
+    },
+    {
+      "id": "mkt:019e2263-2dd7-7dd0-a6a8-1791fb8a6746",
+      "time": "2026-05-14 01:29:23",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "KASHKARI: NEED TO GET BACK TO 2% INFLATION, SHOULD NOT MOVE THE GOALPOST"
+    },
     {
       "id": "4878438",
       "time": "2026-05-14 01:28:19",
@@ -137694,23 +137856,6 @@
         "國際"
       ],
       "text": "市場訊息：美國批准延長英國石油公司在亞塞拜然氣田與伊朗、俄羅斯合作方開展業務的經營許可。"
-    },
-    {
-      "id": "4864064",
-      "time": "2026-05-07 01:31:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美軍：一艘伊朗船試圖突破封鎖 美戰機炸壞船舵】美軍中央司令部6日在社交媒體發文說，伊朗一艘空載油輪當天試圖突破美軍封鎖，駛往伊朗在阿曼灣的一座港口。一架美軍艦載戰鬥機用機炮炸壞其船舵，迫使這艘船無法駛往伊朗。（新華社）"
-    },
-    {
-      "id": "4864063",
-      "time": "2026-05-07 01:30:42",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "西方石油公司：受中東戰事擾亂物流影響，硫磺銷售業務預計將於 2026 年下半年恢復正常。"
     }
   ]
 }
