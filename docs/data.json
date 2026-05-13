@@ -1,7 +1,113 @@
 {
-  "updated": "2026-05-13 22:56:07",
-  "count": 15177,
+  "updated": "2026-05-13 22:59:39",
+  "count": 15186,
   "items": [
+    {
+      "id": "mkt:019e21d9-77c4-7772-bc7e-cef5646c506b",
+      "time": "2026-05-13 22:59:20",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "SENIOR WHITE HOUSE OFFICIAL: CHINA HAS ALREADY PRESSURED IRAN TO REACH AN AGREEMENT - POLITICO"
+    },
+    {
+      "id": "te:economy:550395",
+      "time": "2026-05-13 22:59:16",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "US 10Y Bond Yield Hits 42-week High — US 10 Year Government Bond Yield increased to 4.49%, the highest since July 2025. Over the past 4 weeks, US 10 Year Note Bond Yield gained 23.90 basis points, and in the last 12 months, it decreased 4.50 basis points."
+    },
+    {
+      "id": "4878232",
+      "time": "2026-05-13 22:59:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "波蘭軍方：與俄羅斯打擊烏克蘭相關的軍事航空行動已經結束。"
+    },
+    {
+      "id": "mkt:019e21d9-336f-7772-bc7e-c6df12199e89",
+      "time": "2026-05-13 22:59:01",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "SAUDI FOREIGN MINISTER: SAUDI ARABIA CONTINUES TO SUPPORT REGIONAL DE-ESCALATION; STRESSES IMPORTANCE OF NORMALIZING HORMUZ SHIPPING"
+    },
+    {
+      "id": "4878231",
+      "time": "2026-05-13 22:58:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【聯合國就副秘書長被以方短暫扣留作出回應】聯合國秘書長副發言人哈克13日就聯合國負責安全和安保事務的副秘書長吉勒·米肖此前在以色列機場被短暫扣留一事表示，米肖已收到以色列外交部發來的致歉，以色列外交部將此事歸因於人為失誤。哈克在郵件中告訴新華社記者，米肖此行前往耶路撒冷，目的是商討在確保聯合國人員在加沙地帶、約旦河西岸及更廣泛地區的安全方面，以色列應承擔的義務。聯合國工作人員及人道主義工作者的安全是聯合國開展工作的必要先決條件。（新華社）"
+    },
+    {
+      "id": "mkt:019e21d8-d82d-7772-bc7e-bd2b263bd784",
+      "time": "2026-05-13 22:58:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRANIAN PRESIDENT: THE ENEMIES' DREAMS OF OUR PEOPLE'S SURRENDER AND SUBMISSION WILL NEVER COME TRUE"
+    },
+    {
+      "id": "4878230",
+      "time": "2026-05-13 22:58:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "阿里巴巴美股逆勢反轉，上漲 6.5%。"
+    },
+    {
+      "id": "mkt:019e21d8-7f7e-7772-bc7e-b116bec7762f",
+      "time": "2026-05-13 22:58:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "POLISH ARMY SAYS OPERATIONS OF MILITARY AVIATION RELATED TO RUSSIAN STRIKES ON UKRAINE HAVE ENDED"
+    },
+    {
+      "id": "mkt:019e21d7-e943-7772-bc7e-ab1a9f31985b",
+      "time": "2026-05-13 22:57:38",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alibaba",
+        "BABA.N",
+        "Impact bullish"
+      ],
+      "text": "ALIBABA'S U.S. SHARES REVERSE COURSE, LAST UP 6.5%"
+    },
+    {
+      "id": "4878229",
+      "time": "2026-05-13 22:57:13",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美國10年期國債收益率觸及7月以來最高 交易員上調美聯儲加息押注】美國基準10年期國債收益率升至7月以來最高水平，資料顯示美國通脹加速，導致交易員幾乎完全消化美聯儲將在未來一年加息的預期。受中東戰爭引發能源價格上漲影響，週三釋出的美國4月批發通脹加速至2022年以來最快，10年期國債收益率上漲近2個基點，一度升至約4.49%。資料公佈後，各期限國債收益率一度觸及盤中高點，隨後回落至基本持平的水平，美元走強。"
+    },
+    {
+      "id": "4878228",
+      "time": "2026-05-13 22:56:16",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【機構：儘管發生霍爾木茲危機，石油市場緩衝機制仍抑制了價格上漲】FxPro的Alex Kuptsikevich表示，儘管與霍爾木茲海峽幾近關閉有關的供應衝擊不斷加深，但原油期貨並未進一步上漲，不過長期的封鎖可能會為更大幅度的上漲鋪平道路。“布倫特原油每桶105美元左右的價格似乎太低了，“該首席市場分析師表示。“此外，現在期貨和現貨價格之間幾乎沒有差異，而在4月初，這一價差超過了30美元。”Kuptsikevich表示，到目前為止，市場一直依賴幾個緩衝機制，包括龐大的全球庫存，以及更強勁的美國出口和海灣生產商的替代航運安排。“儘管如此，霍爾木茲海峽關閉造成的石油短缺正在為未來價格上漲奠定基礎，“他說。“時間站在布倫特原油多頭這一邊。”"
+    },
     {
       "id": "4878227",
       "time": "2026-05-13 22:54:05",
@@ -136001,23 +136107,6 @@
         "國際"
       ],
       "text": "【伊朗議會發言人：美媒報道只是美方“願望清單”】伊朗議會國家安全與外交政策委員會發言人易卜拉欣·雷扎伊6日表示，美國阿克西奧斯新聞網站有關美伊接近達成協議的報道“更像是一份美國的願望清單，而非現實”。雷扎伊在社交媒體上說，美國在這場他們正在失敗的戰爭中，得不到他們在面對面談判中未能得到的東西。如果美方不選擇妥協、不作出必要讓步，其自身或其代理力量採取任何挑釁行動，伊朗將作出嚴厲回應。美國阿克西奧斯新聞網站6日早些時候報道，特朗普政府認為，與伊朗接近達成一份一頁紙長的諒解備忘錄。該備忘錄包括14個條款，旨在結束戰事，併為更詳細的核問題談判設定框架。（新華社）"
-    },
-    {
-      "id": "4863935",
-      "time": "2026-05-06 22:58:10",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【小熊電器：近期原材料價格上漲會帶來一定的成本端壓力】小熊電器(002959)5月6日在業績說明會上表示，近期原材料價格的上漲會給公司帶來一定的成本端壓力，公司將密切關注原材料價格走勢，透過持續的降本控費、提質增效，實現企業穩健發展，同時按照相關規定和經營管理的需要適時開展套期保值業務，以應對原料價格波動。"
-    },
-    {
-      "id": "4863934",
-      "time": "2026-05-06 22:57:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國總統特朗普： 特德·特納剛剛去世，他創辦了CNN，後來將其出售，這筆交易讓他感到非常痛心，因為新老闆把CNN這個他的“寶貝”毀了。它變得政治正確，完全背離了他的理念。"
     }
   ]
 }
