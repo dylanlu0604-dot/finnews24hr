@@ -1,7 +1,62 @@
 {
-  "updated": "2026-05-13 23:35:35",
-  "count": 15234,
+  "updated": "2026-05-13 23:39:13",
+  "count": 15251,
   "items": [
+    {
+      "id": "4878303",
+      "time": "2026-05-13 23:38:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "利比亞國家石油公司（NOC）董事長表示，預計拉斯盧夫煉油廠將在6個月至1年內重啟。"
+    },
+    {
+      "id": "mkt:019e21fd-d24c-7772-bc7f-f0f44f5cda87",
+      "time": "2026-05-13 23:38:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EUROPEAN INDEXES CLOSED HIGHER, EURO STOXX 50 +0.92%, ITALY FTSE MIB +0.99%, DAX +0.72%, FTSE 100 +0.55%, CAC 40 +0.35%"
+    },
+    {
+      "id": "mkt:019e21fd-33a0-7772-bc7f-ebc6ed4aaaa0",
+      "time": "2026-05-13 23:38:11",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "【Fed Survey Finds Rising Job Anxiety and Persistent Inflation Concerns】A Federal Reserve survey found Americans remained broadly concerned about inflation in 2025, while anxiety over the job market increased amid near-zero job growth. About 42% of adults said finding or keeping a job was a concern, up from 37% in 2024, while roughly 90% worried about rising prices. The survey also showed financial stress was more pronounced among lower-income households, younger adults and Black Americans. Nearly a quarter of renters fell behind on rent, and about half of adults under 30 lived with their parents. Separately, one in four workers reported using generative AI on the job."
+    },
+    {
+      "id": "4878302",
+      "time": "2026-05-13 23:37:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "人工智慧公司Mistral正為無法使用Mythos模型的銀行開發全新AI模型。"
+    },
+    {
+      "id": "4878301",
+      "time": "2026-05-13 23:36:13",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲調查：美國民眾財務狀況整體平穩，但就業擔憂升溫】美聯儲調查顯示，2025年有73%的美國人財務狀況尚可或生活寬裕，與2024年持平。63%的成年人有能力用現金或等價資金應對400美元的突發緊急開支，同比持平。僅26%的成年人認為美國整體經濟狀況良好或極佳，低於2024年的29%、2019年的50%。受物價上漲影響調整消費生活行為的成年人佔比達77%，低於2024年的79%。民眾對物價上漲的擔憂略有緩和，但仍是最普遍的財務顧慮。有42%的成年人對求職或保住現有工作存在一定程度乃至嚴重擔憂，高於2024年的37%。四分之一的職場人士在過去一個月工作中使用過生成式人工智慧。使用AI的職場人群，更傾向於認為人工智慧會助力自身職業發展，而非取代自身工作崗位。"
+    },
+    {
+      "id": "4878300",
+      "time": "2026-05-13 23:36:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內漲3%，現報1538.11美元/盎司。"
+    },
     {
       "id": "4878299",
       "time": "2026-05-13 23:35:04",
@@ -21,6 +76,21 @@
       "text": "【烏稱俄軍對烏多地發動無人機襲擊 俄方暫無回應】當地時間5月13日，烏克蘭總統澤連斯基在社交媒體上表示，俄方對烏克蘭發動了大規模攻擊。俄軍持續發射“見證者”無人機襲擊烏克蘭，重點針對靠近北約國家邊境的地區，外喀爾巴阡州、利沃夫州、沃倫州、伊萬諾-弗蘭科夫斯克市、羅夫諾州等多地均遭到打擊。截至目前，襲擊已造成6人死亡、數十人受傷（其中含兒童），俄方已發射至少800架無人機，攻擊仍在持續。烏克蘭外喀爾巴阡州軍事行政長官當天在社交媒體上發表宣告稱，該地區遭到俄烏衝突爆發以來最大規模攻擊，州內多個社群發生爆炸。此外，伊萬諾-弗蘭科夫斯克市市長表示，該市遭到俄方襲擊，市區內傳出清晰爆炸聲，防空警報持續作響。對於上述表態，俄羅斯方面暫無回應。（央視新聞）"
     },
     {
+      "id": "mkt:019e21f9-9f9a-7772-bc7f-e2740804aa38",
+      "time": "2026-05-13 23:34:15",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "FED SURVEY: CERTAIN DEMOGRAPHIC GROUPS, INCLUDING LOW-INCOME, YOUNG, AND BLACK ADULTS, SAW MEANINGFUL DECLINES IN ASSESSMENTS OF FINANCIAL WELLBEING"
+    },
+    {
       "id": "4878297",
       "time": "2026-05-13 23:34:12",
       "tags": [
@@ -29,6 +99,26 @@
         "國際"
       ],
       "text": "美聯儲柯林斯：我能夠預見有加息的必要性。"
+    },
+    {
+      "id": "mkt:019e21f9-9bcd-7772-bc7f-db1e9338ef50",
+      "time": "2026-05-13 23:34:12",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "FED SURVEY: IN 2025 73% OF AMERICANS SAID DOING OK OR COMFORTABLE FINANCIALLY, UNCHANGED FROM 2024"
+    },
+    {
+      "id": "mkt:019e21f9-8d06-7772-bc7f-d1aff9844c12",
+      "time": "2026-05-13 23:34:09",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "FED SURVEY: CONCERNS ABOUT PRICE INCREASES EASED SLIGHTLY YET REMAINED MOST COMMON FINANCIAL CONCERN AMONG US ADULTS"
     },
     {
       "id": "4878296",
@@ -40,6 +130,16 @@
       "text": "美聯儲柯林斯：美國央行可能需要加息以緩解通脹壓力。"
     },
     {
+      "id": "mkt:019e21f9-55e7-7772-bc7f-ce2af92b54de",
+      "time": "2026-05-13 23:34:00",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "FED SURVEY: IN 2025 63% SAID COULD COVER $400 EMERGENCY WITH CASH OR EQUIVALENT, UNCHANGED FROM 2024"
+    },
+    {
       "id": "4878295",
       "time": "2026-05-13 23:33:59",
       "tags": [
@@ -47,6 +147,82 @@
         "國際"
       ],
       "text": "美聯儲柯林斯：今年通脹不會回落，或在2027年降溫。"
+    },
+    {
+      "id": "mkt:019e21f9-2dcf-7772-bc7f-c18b72b5c535",
+      "time": "2026-05-13 23:33:54",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "FED SURVEY: ONE-IN-FOUR WORKERS SAID THEY USED GENERATIVE AI AT WORK IN THE PRIOR MONTH"
+    },
+    {
+      "id": "mkt:019e21f9-2d07-7772-bc7f-bb1aa4448378",
+      "time": "2026-05-13 23:33:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "FED SURVEY: AI USERS MORE LIKELY TO EXPECT IT TO IMPROVE THEIR CAREER THAN TO EXPECT IT TO REPLACE THEIR JOBS"
+    },
+    {
+      "id": "mkt:019e21f9-2d05-7772-bc7f-b6f3e150f0b1",
+      "time": "2026-05-13 23:33:48",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Month Bill Auction High Yield Rate (May.13) | actual 3.615% | previous 3.61%"
+    },
+    {
+      "id": "mkt:019e21f9-2cbf-7772-bc7f-aa15cbb6a57c",
+      "time": "2026-05-13 23:33:46",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "FED SURVEY: IN 2025 77% OF ADULTS CHANGED BEHAVIOR IN RESPONSE TO HIGHER PRICES VS 79% IN 2024 FED SURVEY: IN 2025 42% OF ADULTS SAID \"FINDING OR KEEPING A JOB\" WAS EITHER A \"MINOR\" OR \"MAJOR CONCERN\" VS 37% IN 2024"
+    },
+    {
+      "id": "mkt:019e21f9-1cc9-7772-bc7f-a4c3dcbf94e5",
+      "time": "2026-05-13 23:33:44",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Month Bill Auction Bid/Cover Ratio (May.13) | actual 3.2 | previous 3.13"
+    },
+    {
+      "id": "mkt:019e21f9-0eb5-7772-bc7f-9f25189da7f8",
+      "time": "2026-05-13 23:32:44",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "COLLINS SAYS SHE HOPES ECONOMY WILL ALLOW FOR MORE RATE CUTS LATER THIS YEAR"
+    },
+    {
+      "id": "mkt:019e21f9-0e04-7772-bc7f-91b216d8df70",
+      "time": "2026-05-13 23:32:34",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "COLLINS: ENERGY SHOCK CREATES DOWNSIDE GROWTH RISKS, UPSIDE INFLATION RISK"
     },
     {
       "id": "4878294",
@@ -69,6 +245,57 @@
       "text": "【歐洲主要股指收盤普漲】歐洲斯托克600指數上漲0.66%，歐元斯托克指數上漲0.76%，歐元區藍籌股指數上漲0.7%。英國富時100指數上漲0.35%，德國DAX指數上漲0.61%，法國CAC 40指數上漲0.23%，西班牙IBEX指數上漲0.25%。"
     },
     {
+      "id": "mkt:019e21f8-8c64-7772-bc7f-8961f284006b",
+      "time": "2026-05-13 23:32:26",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "COLLINS SAYS SHE IS MOST WORRIED ABOUT INFLATION OUTLOOK RIGHT NOW"
+    },
+    {
+      "id": "mkt:019e21f8-4d00-7772-bc7f-85595026d475",
+      "time": "2026-05-13 23:32:12",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "COLLINS: QUICK END TO WAR WOULD MEAN RESILIENT DEMAND, SOME RISE IN UNEMPLOYMENT"
+    },
+    {
+      "id": "mkt:019e21f7-e742-7772-bc7f-7cd896173020",
+      "time": "2026-05-13 23:32:02",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "COLLINS: INFLATION WILL NOT ABATE THIS YEAR, COULD COOL IN 2027"
+    },
+    {
+      "id": "mkt:019e21f7-5770-7772-bc7f-71ded8aa0134",
+      "time": "2026-05-13 23:31:54",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "COLLINS: PROLONGED MIDDLE EAST WAR CREATES CHALLENGING POLICY CHOICES"
+    },
+    {
       "id": "te:markets:550400",
       "time": "2026-05-13 23:31:49",
       "tags": [
@@ -79,6 +306,16 @@
         "Importance 1"
       ],
       "text": "Starbucks Stock Price Hits 14-month High — Starbucks shares increased to 108.05 USD, the highest since March 2025. Over the past 4 weeks, Starbucks gained 10.73%, and in the last 12 months, it increased 24.24%."
+    },
+    {
+      "id": "mkt:019e21f7-27b5-7772-bc7f-6b67a5c447d8",
+      "time": "2026-05-13 23:31:38",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "COLLINS: RIGHT NOW FED POLICY 'WELL POSITIONED' TO DEAL WITH RISKS"
     },
     {
       "id": "4878292",
@@ -136540,49 +136777,6 @@
         "國際"
       ],
       "text": "【以軍總參謀長稱隨時準備重啟對伊朗軍事行動】儘管美國釋放出同伊朗談判“前景看好”訊號，以色列國防軍總參謀長扎米爾6日表示，以軍仍“保持高度戒備”，隨時準備對伊朗發起“一場強力的大範圍軍事行動”。扎米爾當天在黎巴嫩南部的以軍控制區稱，以色列仍在準備採取更廣泛的行動，包括可能對伊朗發起直接軍事行動。以軍已準備好伊朗的“一系列待打擊目標”，隨時可開展軍事行動。（新華社）"
-    },
-    {
-      "id": "4863982",
-      "time": "2026-05-06 23:39:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：索尼將斥資近 40 億美元收購賈斯汀・比伯、尼爾・楊的音樂作品版權庫。"
-    },
-    {
-      "id": "4863981",
-      "time": "2026-05-06 23:38:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基：我們與亞塞拜然總統討論了幾周前我訪問亞塞拜然期間我們商定的各項措施的落實情況。我們將繼續致力於發展烏克蘭和亞塞拜然的雙邊關係，以及與該地區其他國家的關係，以增強安全與穩定。"
-    },
-    {
-      "id": "4863980",
-      "time": "2026-05-06 23:37:46",
-      "tags": [
-        "其他",
-        "焦點",
-        "國際"
-      ],
-      "text": "卡達首相向《新阿拉伯報》表示：伊美談判已取得積極進展。"
-    },
-    {
-      "id": "4863979",
-      "time": "2026-05-06 23:36:30",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "瑞銀CEO：中東戰爭的影響需要時間才能被市場消化。"
-    },
-    {
-      "id": "4863978",
-      "time": "2026-05-06 23:35:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "CNN援引以色列訊息人士：內塔尼亞胡向美國尋求伊朗談判的最新進展。"
     }
   ]
 }
