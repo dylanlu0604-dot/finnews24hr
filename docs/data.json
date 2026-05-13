@@ -1,7 +1,86 @@
 {
-  "updated": "2026-05-13 10:58:16",
-  "count": 14939,
+  "updated": "2026-05-13 11:01:53",
+  "count": 14941,
   "items": [
+    {
+      "id": "4876791",
+      "time": "2026-05-13 11:00:56",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "泰國SET指數開盤上漲0.9%，至1496.69點。"
+    },
+    {
+      "id": "mkt:019e1f47-7464-7553-b25e-84ce733eb5d0",
+      "time": "2026-05-13 11:00:35",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "South Korea | L Money Supply (MoM) (Mar) | actual -0.4% | previous 0.90%"
+    },
+    {
+      "id": "4876790",
+      "time": "2026-05-13 11:00:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國智庫KDI將2026年GDP增長預測從1.9%上調至2.5%。"
+    },
+    {
+      "id": "mkt:019e1f47-4297-7553-b25e-7e6531c6f2ca",
+      "time": "2026-05-13 11:00:23",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "South Korea | M2 Money Supply (MoM) (Mar) | actual 0.4% | previous 0.00%"
+    },
+    {
+      "id": "4876789",
+      "time": "2026-05-13 11:00:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國3月經調整後的L貨幣供應量環比下降0.4%。"
+    },
+    {
+      "id": "4876788",
+      "time": "2026-05-13 11:00:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國3月經調整後的M2貨幣供應量環比增長0.4%。"
+    },
+    {
+      "id": "mkt:019e1f46-e554-7553-b25e-76ec3d120a01",
+      "time": "2026-05-13 11:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "South Korea | L Money Supply (YoY) (Mar) | actual 7.2% | previous 8%"
+    },
+    {
+      "id": "4876787",
+      "time": "2026-05-13 10:59:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬來西亞種植園部長就生物燃料發表宣告：馬來西亞將確保其生物燃料物流在6月份為B15做好準備。"
+    },
+    {
+      "id": "4876786",
+      "time": "2026-05-13 10:59:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "【英國將派軍艦、戰鬥機等參與霍爾木茲海峽護航行動】英國國防部12日發表宣告說，英國將派遣軍艦、戰鬥機以及無人掃雷裝置和反無人機系統，參與霍爾木茲海峽多國護航行動。 英國國防大臣約翰·希利當天在一個有40多個國家代表參加的線上防長會議後公佈了這一計劃。英國國防部表示，英國將為相關任務新增1.15億英鎊（約合10.57億元人民幣）資金，用於無人掃雷裝置和反無人機系統。 根據計劃，具備實戰經驗的“颱風”戰鬥機將執行空中巡邏任務，掃雷專家也將參與相關行動。英國“龍”號驅逐艦正在前往中東，以備參加行動，其搭載的“海毒蛇”防空系統具備反無人機能力。 希利在宣告中表示，英國正與盟友共同維護霍爾木茲海峽安全。新增部署的反無人機系統、軍艦和戰機，將有助於增強國際商業航運信心，並減輕地區衝突對英國造成的影響。 英國國防部強調，該行動“嚴格屬於防禦性質”，旨在保障國際航運安全。(新華社)"
+    },
     {
       "id": "4876785",
       "time": "2026-05-13 10:57:40",
@@ -133334,70 +133413,6 @@
         "市場"
       ],
       "text": "紐約期銀日內漲3%，現報75.79美元/盎司。"
-    },
-    {
-      "id": "4862481",
-      "time": "2026-05-06 11:01:37",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【我國煤礦防爆裝備智慧化測評關鍵技術取得突破】市場監管總局近期組織國內科研機構，開展煤礦防爆裝備智慧化測評關鍵技術研究工作，取得了一系列創新成果，推動我國在煤礦防爆裝備測評領域實現技術突破。研究團隊開展煤礦防爆裝備內部點燃不傳爆、故障安全開斷、溫升等試驗智慧化測評技術研究，揭示了極限溫度環境下防爆裝備安全演變規律，建立了煤礦防爆安全特徵引數的虛實對映關係模型，研製了煤礦防爆裝備智慧化測評裝置，發明了防爆結構內部點燃不傳爆瞬態全息提取技術，制修訂煤礦防爆裝備相關國家/行業標準10項，為煤礦防爆裝備產品安全的有效檢測提供了從方法到標準的重要技術基礎。目前，研究成果已在有關檢驗機構與生產企業進行應用，對煤礦防爆變頻器、煤礦防爆組合開關、煤礦防爆電控箱、煤礦防爆電纜聯結器等產品進行防爆與效能檢測，有力支撐國產煤礦防爆裝備的技術迭代與質量提升。"
-    },
-    {
-      "id": "4862480",
-      "time": "2026-05-06 11:01:19",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "【“五一”假期1127.9萬人次出入境 較去年同期增長3.5%】據國家移民管理局通報，今年“五一”假期全國邊檢機關共保障1127.9萬人次中外人員出入境，日均225.6萬人次，較去年“五一”假期增長3.5%，單日出入境通關最高峰出現在5月2日，達252.9萬人次。其中，外國人入出境125.5萬人次，較去年同期增長12.5%；入境外國人中，適用免籤政策入境43.6萬人次，較去年同期增長14.7%。共計查驗出入境交通運輸工具53.1萬架（艘、列、輛）次，較去年同期增長16.6%。按照國家移民管理局統一部署，全國邊檢機關嚴格落實“兩公佈一提示”要求，科學預測、及時釋出本口岸出入境客流情況，提示廣大出入境人員合理安排行程；科學組織勤務，開足查驗通道，嚴格執行中國公民通關排隊不超過30分鐘措施；密切部門協作聯動，穩妥做好高峰期客流疏導和交通配套綜合保障，全力保障旅客順暢通關。“五一”假期期間，全國口岸出入境安全高效、平穩有序。"
-    },
-    {
-      "id": "te:economy:548107",
-      "time": "2026-05-06 11:00:48",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Vietnam",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Vietnam Holds 2026 Inflation Target at 4.5% Despite War Risks — Vietnam’s central bank will maintain its 2026 inflation target at 4.5% even as price pressures from the Iran war mount, Governor Pham Duc An said in an interview. Inflation rose 5.46% yoy in April, driven by an 11.1% surge in transport costs. Duc An noted that the global economic landscape remains “complex and unpredictable,” with geopolitical tensions complicating policy stance. The State Bank pledged to support production and business activity to help meet the government’s goal of double-digit growth over the next five years. Monetary policy will be managed flexibly, coordinated with fiscal measures to balance growth and stability. Further, authorities will rely on open market operations to ensure liquidity, steer credit toward productive sectors, and restrict lending to riskier areas. The board will also monitor market conditions closely, adjusting rates as needed while maintaining a balance between credit expansion and capital mobilisation."
-    },
-    {
-      "id": "4862479",
-      "time": "2026-05-06 11:00:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【部分城商行希望獲得AIC牌照 暫未獲“放行”】今年3月，郵儲銀行旗下金融資產投資公司（AIC）獲批開業，銀行系AIC就此擴容至9家。日前，記者在採訪中瞭解到，已有數家地方城商行就開設AIC事宜與相關部門進行積極溝通，但未有實質進展。相關上市銀行知情人士向記者表示，地方政府對於下轄銀行機構開設AIC熱情較大，但與相關部門溝通下來的情況是，AIC擴容機構將暫定在國有行、股份行層面，“可能需要後續觀察股份行AIC的運營情況，才決定是否將城商行納入其中”。（財聯社）"
-    },
-    {
-      "id": "4862478",
-      "time": "2026-05-06 10:59:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國民技術MCU打入全球頂級電源管理廠商，目前已批次供貨】5月6日，記者從國內MCU產業鏈獲悉，大量海外AI電源、光通訊公司，正開始大規模採購國產MCU晶片，以應對高速擴張的算力和AI電源需求。其中，國民技術今年已開始對全球頂級電源管理大廠實現批次供貨，目前電源監控晶片已穩定量產，單價1.5～2美元。據瞭解，國民技術今年7月兩款通訊類晶片也將完成送樣，有望成為該客戶核心國產MCU合作伙伴，持續提升配套份額。（介面新聞）"
-    },
-    {
-      "id": "4862477",
-      "time": "2026-05-06 10:58:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "【全球AI電源出貨激增導致MCU晶片供不應求】隨著全球AI電源需求激增，國內MCU晶片廠商面臨罕見的“缺貨提價”局面。由於AI電源作為GPU的大規模採購物件，核心控制晶片MCU的需求也大幅增加。國內廠商如中微半導體和國民技術已開始提高晶片價格，並在全球頂級電源管理公司中實現批次供貨。AI伺服器和光模組需求的爆發，進一步推動了MCU市場需求。(介面新聞）"
-    },
-    {
-      "id": "te:markets:548106",
-      "time": "2026-05-06 10:58:33",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Heating Oil Futures Fall Further — US heating oil futures extended their decline, dropping below $4.0 per gallon, after indications of a potential US-Iran peace agreement. President Donald Trump stated that operations to escort stranded ships out of the Strait of Hormuz would be temporarily paused to allow time to finalize a deal with Iran, but added that the blockade of Iranian ports would remain in place. His comments followed Secretary of State Marco Rubio’s assurance that the Middle East ceasefire is still holding and that the initial major US military operation against Iran has ended. Iran also denied carrying out attacks against the UAE, but warned of a “decisive response” if Abu Dhabi launches strikes on its territory. Meanwhile, weather forecasts have shifted slightly warmer as the market transitions toward the summer cooling season, although below-average temperatures are still expected across parts of the US Midwest in the near term."
     }
   ]
 }
