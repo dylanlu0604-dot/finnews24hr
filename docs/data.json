@@ -1,7 +1,69 @@
 {
-  "updated": "2026-05-13 19:40:53",
-  "count": 15080,
+  "updated": "2026-05-13 19:44:17",
+  "count": 15079,
   "items": [
+    {
+      "id": "4877868",
+      "time": "2026-05-13 19:44:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭羅夫諾州州長表示，俄羅斯的襲擊造成該烏克蘭西部羅夫諾州2人死亡，4人受傷。"
+    },
+    {
+      "id": "4877867",
+      "time": "2026-05-13 19:42:56",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "阿里巴巴執行長表示，代理商工作負荷激增，已大幅推高了對圍繞CPU、儲存及容器構建的傳統雲產品的需求。"
+    },
+    {
+      "id": "mkt:019e2125-8f99-7eef-a1cb-58c7624561d6",
+      "time": "2026-05-13 19:42:50",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alibaba",
+        "BABA.N",
+        "Impact bullish"
+      ],
+      "text": "ALIBABA CEO - SURGE IN AGENT WORKLOADS HAS SIGNIFICANTLY ELEVATED DEMAND FOR TRADITIONAL CLOUD PRODUCTS BUILT AROUND CPU STORAGE AND CONTAINERS"
+    },
+    {
+      "id": "4877866",
+      "time": "2026-05-13 19:42:03",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【泡泡瑪特：成本上漲影響毛利率，不會過度關注拉布布短期收益】5月13日，潮玩品牌泡泡瑪特國際集團（泡泡瑪特，09992.HK）舉行2026年第一季度業務更新電話會，泡泡瑪特首席財務官楊鏡冰在會上表示，近期的國際油價、航運市場波動比較大，尤其是國際航運的燃油價格上漲後，泡泡瑪特頭程的海運費、附加的燃油費、倉庫都有一定的提升，這對海外業務毛利率也會有一定的影響。在電話會上，泡泡瑪特披露，旗下IP LABUBU首部相關電影專案正在推進，目前處於劇本創作階段，下半年將推出兩款重點產品，同時規劃了世界盃相關合作營銷動作。泡泡瑪特營運長司德表示，LABUBU的流量在全球範圍內有高有低，有漲有跌是正常現象，公司運營IP不會過度關注它的短期收益，會用一個更長遠的時間和角度去運營它、看待它、挖掘它的商業價值。（澎湃）"
+    },
+    {
+      "id": "mkt:019e2123-df54-7eef-a1cb-5066b3e2899f",
+      "time": "2026-05-13 19:40:59",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alibaba",
+        "Market Themes",
+        "Chip Wars",
+        "China Tech Giants",
+        "BABA.N",
+        "Impact bullish",
+        "9988.HK"
+      ],
+      "text": "ALIBABA CEO - T-HEAD'S PROPRIETARY GPU CHIPS ARE IN SCALED MASS PRODUCTION, WITH OVER 60% OF COMPUTE ALREADY SERVING EXTERNAL CUSTOMERS"
+    },
+    {
+      "id": "4877865",
+      "time": "2026-05-13 19:40:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿里巴巴執行長表示，平頭哥自研GPU晶片已進入規模化量產階段，超過60%的算力已對外服務客戶。"
+    },
     {
       "id": "mkt:019e2122-efba-7eef-a1cb-4e7e252920ea",
       "time": "2026-05-13 19:39:58",
@@ -134873,67 +134935,6 @@
         "觀點"
       ],
       "text": "摩根士丹利正式推出加密貨幣交易業務，定價低於同業競爭對手。"
-    },
-    {
-      "id": "4863568",
-      "time": "2026-05-06 19:44:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【第139屆廣交會期間廣東地區離境退稅同比增長近十倍】記者從國家稅務總局廣東省稅務局瞭解到，今年4月15日至5月5日第139屆廣交會期間，廣東地區（不含深圳）離境退稅開單3.5萬份，同比增長9.83倍。自2026年5月1日起，境外旅客在廣東（含深圳）、廣西、海南任意一地辦理離境退稅“即買即退”並申領預付金後，可在三省區任一離境退稅口岸離境。這意味著，境外旅客在華購物退稅進一步打破“購物地—離境口岸”必須對應的地域限制，在華南地區實現更大範圍的跨區域互認。（央視新聞）"
-    },
-    {
-      "id": "4863567",
-      "time": "2026-05-06 19:43:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：轟炸程度和強度都會高得多。"
-    },
-    {
-      "id": "4863566",
-      "time": "2026-05-06 19:43:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "【羅博特科：簽訂4.03億元重大合同】羅博特科公告，公司全資子公司ficonTEC及其子公司於2026年4月8日至5月1日期間，分別與公司B的子公司及公司F簽署了日常經營重大合同。與公司B的子公司簽署合同金額約為2680萬美元，摺合人民幣約為1.83億元，佔公司2025年度經審計營業收入的比例為19.26%。與公司F簽署合同金額約為3226萬美元，摺合人民幣約為2.2億元，佔營業收入的比例約為23.16%。上述合同涉及量產化測試裝置、耦合裝置、視覺檢測裝置等，預計將對公司未來年度經營業績產生積極影響。"
-    },
-    {
-      "id": "te:economy:548382",
-      "time": "2026-05-06 19:42:51",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Egypt",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Egypt Inflation Rate Slows to 14.9% in April — Egypt’s annual urban inflation eased to 14.9% in April 2026 from 15.2% in March, which marked a ten-month high. The slowdown came despite upward pressure from the Iran conflict, which pushed fuel costs higher and weakened the currency. The largest component of the inflation basket, food and beverages, climbed by 6.7%, the most in ten months, after a 5.8% rise in March. The country faces increasing inflationary pressures from external sources, including energy and supply-chain disruptions, and domestic drivers such as fertilizer costs and regulated increases in fuel and public transport prices."
-    },
-    {
-      "id": "4863565",
-      "time": "2026-05-06 19:42:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談伊朗：若伊朗同意，極度緊張的局勢將終結，高效的封鎖將確保霍爾木茲海峽對所有國家開放，伊朗也包含在內。"
-    },
-    {
-      "id": "4863564",
-      "time": "2026-05-06 19:42:28",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：若伊朗不同意達成協議，轟炸行動即將開始。"
-    },
-    {
-      "id": "4863563",
-      "time": "2026-05-06 19:42:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯方面表示：在基輔方面宣佈“停火”期間，烏克蘭武裝部隊仍持續對埃內爾戈達爾發起大規模進攻，且無人機威脅依舊存在。"
     }
   ]
 }
