@@ -1,7 +1,78 @@
 {
-  "updated": "2026-05-13 23:56:59",
-  "count": 15262,
+  "updated": "2026-05-14 00:01:07",
+  "count": 15267,
   "items": [
+    {
+      "id": "4878322",
+      "time": "2026-05-13 23:59:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "惠譽確認法航荷航集團評級為“BBB-”，展望穩定。"
+    },
+    {
+      "id": "mkt:019e2210-efef-7dd0-a6a6-b913a98baebb",
+      "time": "2026-05-13 23:59:55",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "NAFTOGAZ: RUSSIA HIT FACILITIES IN KHARKIV, ZHYTOMYR REGIONS"
+    },
+    {
+      "id": "4878321",
+      "time": "2026-05-13 23:59:22",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內漲4%，現報21936.00元。"
+    },
+    {
+      "id": "mkt:019e220f-2227-7dd0-a6a6-b115482652d9",
+      "time": "2026-05-13 23:57:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "GERMANY WEIGHS E3 BILLION IN SUBSIDY CUTS TO EASE BUDGET STRAIN"
+    },
+    {
+      "id": "4878320",
+      "time": "2026-05-13 23:57:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "比特幣跌破79000美元，日內跌1.88%。"
+    },
+    {
+      "id": "4878319",
+      "time": "2026-05-13 23:57:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國考慮削減30億歐元補貼，以緩解預算壓力。"
+    },
+    {
+      "id": "te:markets:550404",
+      "time": "2026-05-13 23:56:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Rises on Tech and Industry Gains — The FTSE MIB rose 0.9% to close at 49,420 on Wednesday as investors focused on corporate earnings while continuing to monitor developments in the Middle East. Recordati gained 4% after reporting a 22.4% year-over-year increase in first-quarter net income and reaffirming its full-year 2026 guidance. STMicroelectronics surged 9.9%, tracking gains across the broader European semiconductor sector. Other notable performers included Prysmian (+4%), Stellantis (+3.4%), and Tenaris (+2.6%). Meanwhile, Snam fell 1% despite posting strong first-quarter results, while Infrastrutture Wireless lost 1.1% ahead of its earnings release."
+    },
     {
       "id": "4878318",
       "time": "2026-05-13 23:55:37",
@@ -136882,24 +136953,6 @@
         "宏觀"
       ],
       "text": "法國財政部：資料顯示，法國精煉油銷售毛利潤已經恢復至危機爆發之前的水平。"
-    },
-    {
-      "id": "4864000",
-      "time": "2026-05-06 23:59:20",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【分析稱Axios報道70分鐘前油市現9.2億美元異常空單】根據市場觀察機構The Kobeissi Letter分析，在Axios報道稱美國與伊朗接近就一份結束戰爭的“14點”協議達成共識的70分鐘前，約價值9.2億美元的原油空頭頭寸被建立。美東時間今日凌晨3:40（北京時間15:40），在沒有任何重大新聞的情況下，市場建立了近1萬張原油空頭合約。按名義價值計算，這筆交易規模約為9.2億美元，對於凌晨3:40這一時段而言屬於異常鉅額交易。70分鐘後的美東時間4:50（北京時間16:40），Axios報道稱，美國“接近”達成一份結束伊朗戰爭的“諒解備忘錄”。到美東時間早上7:00（北京時間19:00），油價已下跌超過12%，上述原油空頭頭寸浮盈約1.25億美元。"
-    },
-    {
-      "id": "4863999",
-      "time": "2026-05-06 23:57:55",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【王毅同孟加拉國外長卡利勒會談 】中共中央政治局委員、外交部長王毅6日在北京同孟加拉國外長卡利勒舉行會談。王毅表示，中方願同孟方賡續傳統友誼，增進政治互信，深化務實合作，做孟國家發展程序中最可信賴的夥伴。願同孟方在多邊機構以及地區合作框架中加強溝通合作，共同為世界和地區和平發展作出貢獻。卡利勒表示，中國始終是孟方值得信賴、不可或缺的朋友和夥伴。孟新政府高度重視對華關係，在涉臺問題上堅定同中方站在一起。孟方感謝中方長期以來給予的支援幫助，期待將兩國關係提升至新高度。（新華社）"
     }
   ]
 }
