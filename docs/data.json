@@ -1,7 +1,84 @@
 {
-  "updated": "2026-05-13 09:14:33",
-  "count": 14869,
+  "updated": "2026-05-13 09:17:58",
+  "count": 14872,
   "items": [
+    {
+      "id": "4876341",
+      "time": "2026-05-13 09:17:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國KOSPI指數抹去稍早一度達3.2%的跌幅。"
+    },
+    {
+      "id": "mkt:019e1ee7-d3e7-7553-b25c-b5e8232a61f0",
+      "time": "2026-05-13 09:16:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "HANG SENG FUTURES OPEN UP 0.16%"
+    },
+    {
+      "id": "mkt:019e1ee7-6cae-7553-b25c-ae2ad69aebb2",
+      "time": "2026-05-13 09:15:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Unitree Launches $650,000 Transformable Manned Mecha, Draws Musk Praise】Chinese robotics firm Unitree Robotics unveiled the GD01, which it described as the world’s first “production-ready” transformable manned mecha for civilian use, with a starting price of $650,000. The company said the roughly 500-kilogram vehicle can carry a human operator and switch between different forms. The launch drew attention from Elon Musk, who responded to the announcement on X with: “Cool.”"
+    },
+    {
+      "id": "4876329",
+      "time": "2026-05-13 09:15:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "【人民幣兌美元中間價報6.8431，較上日調低5點】人民幣兌美元中間價報6.8431，較上日調低5點。"
+    },
+    {
+      "id": "mkt:019e1ee7-3df2-7553-b25c-a76fcee01129",
+      "time": "2026-05-13 09:15:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "DXY",
+        "Impact bullish",
+        "CNH",
+        "Impact bearish"
+      ],
+      "text": "PBOC SETS MIDPOINT FOR USD/CNY AT 6.8431, UP 5 PIPS"
+    },
+    {
+      "id": "4876320",
+      "time": "2026-05-13 09:15:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨日盤開盤漲0.14%，報26181.00點，低水166.91點。"
+    },
+    {
+      "id": "mkt:019e1ee6-a270-7553-b25c-99e5f25012cd",
+      "time": "2026-05-13 09:14:51",
+      "tags": [
+        "MKT News",
+        "1810.HK",
+        "Impact bullish"
+      ],
+      "text": "XIAOMI ANNOUNCES THAT THE XIAOMI 17 MAX WILL BE RELEASED LATER THIS MONTH"
+    },
+    {
+      "id": "4876318",
+      "time": "2026-05-13 09:14:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "【加密貨幣全線跳水近10萬人爆倉】5月13日，加密貨幣市場突然全線跳水。截至發稿，比特幣跌超1%，一度跌破8萬美元，以太坊跌超2%，XRP跌近3%，狗狗幣跌近1%，HYPE跌超4%。根據CoinGlass資料統計，最近24小時，全球共有超9.6萬人爆倉 ，爆倉總金額為2.77億美元。"
+    },
     {
       "id": "4876315",
       "time": "2026-05-13 09:13:26",
@@ -132582,50 +132659,6 @@
         "國際"
       ],
       "text": "【挪威證實收到美國推遲武器交付通知】挪威國防部官員4日證實，已收到美國將延期交付挪威所訂購武器的通知。據英國方面此前訊息，由於伊朗戰事消耗美國大量軍火庫存，美方已告知多個歐洲盟友，其軍售交付可能出現長時間延期。美國國防部近期內部評估和外部機構評估均顯示，美軍關鍵武器彈藥的庫存在伊朗戰事中大量消耗，其中多個型號的導彈數量均消耗大約一半，且預計補充速度緩慢，數年內難以補齊缺口。"
-    },
-    {
-      "id": "te:economy:548060",
-      "time": "2026-05-06 09:16:30",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Philippines",
-        "Industrial Production",
-        "Importance 1"
-      ],
-      "text": "Philippines Industrial Output Strongest Since 2023 — Manufacturing production in the Philippines climbed 10.5% year-on-year in March 2026, accelerating from a downwardly revised 4.5% gain in the previous month. This marked the strongest annual growth since January 2023, driven largely by a rebound in the manufacture of coke and refined petroleum products (4% vs -16.6% in February), which contributed 41.1% to the overall increase. Other key contributors included the manufacture of computer, electronic and optical products (20.8% vs 15.2%), basic metals (42% vs 32.3%), and transport equipment (7.4% vs 2.2%). In contrast, output growth moderated in the manufacture of food products (3% vs 3.5%), other non-metallic mineral products (4.4% vs 5.1%), tobacco products (3.2% vs 11.1%), and leather and related products, including footwear (13% vs 18.3%). On a seasonally adjusted monthly basis, industrial output rose 1.9%, rebounding from a 0.3% fall in February. For the first quarter of the year, industrial output expanded 5.5%."
-    },
-    {
-      "id": "4862308",
-      "time": "2026-05-06 09:16:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "【澳大利亞總理阿爾巴尼斯：澳大利亞擬推出100億澳元燃油韌性保障計劃】澳大利亞總理安東尼・阿爾巴尼斯週三在悉尼發表講話稱，該國將在下週公佈的預算案中，納入一項100億澳元（合72億美元）的燃油安全與韌性配套計劃。該方案將撥款75億澳元，用於建設相關設施，增加燃油及化肥的供應與儲備規模。政府計劃自持約10億升燃油儲備。同時將支援整體燃油儲備擴容，確保柴油與航空煤油儲備量至少可滿足50天供應需求。資金扶持方式涵蓋貸款、股權投資、擔保、保險及價格補貼等多種形式。"
-    },
-    {
-      "id": "4862307",
-      "time": "2026-05-06 09:15:29",
-      "tags": [
-        "市場"
-      ],
-      "text": "【人民幣兌美元中間價報6.8562，較上日調高66點】人民幣兌美元中間價報6.8562，較上日調高66點。"
-    },
-    {
-      "id": "4862306",
-      "time": "2026-05-06 09:15:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "人民幣兌美元中間價報6.8562元。"
-    },
-    {
-      "id": "4862305",
-      "time": "2026-05-06 09:15:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒指期貨日盤開盤漲0.38%，報25797.21點，低水101.40點。"
     }
   ]
 }
