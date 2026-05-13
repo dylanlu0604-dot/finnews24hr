@@ -1,7 +1,103 @@
 {
-  "updated": "2026-05-13 21:32:47",
+  "updated": "2026-05-13 21:36:13",
   "count": 15109,
   "items": [
+    {
+      "id": "mkt:019e218c-eb2f-7eee-bb64-2f261d92e1ab",
+      "time": "2026-05-13 21:35:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA SHARES RISE 2.6% TO HIT RECORD HIGH"
+    },
+    {
+      "id": "te:markets:550380",
+      "time": "2026-05-13 21:35:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "SAP Stock Price Hits 28-month Low — SAP shares decreased to 137.52 EUR, the lowest since January 2024. Over the past 4 weeks, SAP lost 4.08%, and in the last 12 months, it decreased 46.67%."
+    },
+    {
+      "id": "4878087",
+      "time": "2026-05-13 21:35:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "雲端計算服務提供商Nebius開盤漲超14%。"
+    },
+    {
+      "id": "mkt:019e218c-13f4-7eee-bb64-20b0eadd1d1b",
+      "time": "2026-05-13 21:34:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "WDC.O",
+        "Impact bullish",
+        "MU.O",
+        "STX.O"
+      ],
+      "text": "US MEMORY CHIPMAKERS SHARES RISE IN MORNING U.S. TRADE SANDISK GAINS 2.3%, MICRON UP 4.7% WESTERN DIGITAL RISES 0.7%, SEAGATE TECHNOLOGY UP 1.1%"
+    },
+    {
+      "id": "4878086",
+      "time": "2026-05-13 21:34:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【世紀互聯引入新戰略投資者，寧德時代入局】世紀互聯宣佈，PJ Millennium I Limited與PJ Millennium II Limited將以每股普通股1.4486美元（每ADS 8.6914美元）的現金對價，從山東高速控股集團有限公司實益擁有的兩家主體處，合計收購最多6.5億股A類普通股。交易完成後，買方將合計持有公司約38.1%股份。買方均為PJ Millennium Limited Partnership的全資子公司。該合夥企業的普通合夥人為Lochpine BG I GP Limited，系寧德時代的非控股、非合併關聯方。"
+    },
+    {
+      "id": "4878085",
+      "time": "2026-05-13 21:34:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "西部資料股價上漲0.7%，希捷科技股價上漲1.1%。"
+    },
+    {
+      "id": "te:markets:550379",
+      "time": "2026-05-13 21:34:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Tech Continues to Support US Stocks — US equities were mixed, with tech outperforming losses in broader sectors as faster inflation weighed against the ongoing AI rally. The S&P 500 and the Nasdaq were slightly higher while the Dow fell 200 points. Producer inflation surged more than expected in April, both for energy-exposed goods and non-energy services, to show that the impact of the war in the Middle East on prices has spread past direct fuel costs onto the broader economy. This coincided with a fresh increase in refined fuel prices this week amid the continued blockade of tankers in the Persian Gulf. Still, strong earnings prospectives from AI software and hardware producers continued to carry stock indices since the Q1 earnings season. Hyperscalers were higher premarket after SoftBank unveiled soaring gains from its private OpenAI stake. Also, Nvidia gained 2.5% as CEO Huang surprisingly joined other tech leaders and the US delegation in their summit with China."
+    },
+    {
+      "id": "4878082",
+      "time": "2026-05-13 21:34:02",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國運通公司：美國運通擴大其在加拿大熱門連鎖餐廳的支付受理覆蓋範圍。"
+    },
+    {
+      "id": "4878081",
+      "time": "2026-05-13 21:32:47",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數漲超1%，世紀互聯漲23.00%，海天網路漲9.57%，金山雲漲7.09%，晶科能源漲4.02%，禾賽科技漲4.51%。"
+    },
     {
       "id": "4878080",
       "time": "2026-05-13 21:32:24",
@@ -135277,85 +135373,6 @@
         "國際"
       ],
       "text": "美聯儲穆薩萊姆  ：美國經濟在 2026 年開局具備相當強勁的增長動能。金融環境非常寬鬆。我的感覺是經濟順風大於逆風。關稅和戰爭的不確定性是逆風因素。勞動力市場在去年逐漸降溫後似乎已趨於穩定。"
-    },
-    {
-      "id": "te:markets:548417",
-      "time": "2026-05-06 21:35:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stocks Rise to New Records — US stocks rose on Wednesday as a potential end to the war with Iran improved the macroeconomic backdrop, while a series of strong earnings boosted AI stocks. The S&P 500 and the Nasdaq rose over 0.7% to new records, and the Dow added 400 points. The US reportedly was close to agreeing to a memorandum from Iran, potentially restoring trade through the Strait of Hormuz and triggering a slide in energy prices. Equities rose across all sectors, except energy producers. Meanwhile, AMD surged by 16% after beating earnings estimates and lifting its guidance on soaring levels of data center growth. Consistently, Super Micro Computer rose 15% on strong earnings. The news lifted others in the AI infrastructure space with Nvidia, Sandisk, Micron, and Intel adding over 2%. Also on the earnings front, Disney jumped 5% after reporting strong revenues, and Uber jumped 7% on a strong forecast for bookings."
-    },
-    {
-      "id": "4863814",
-      "time": "2026-05-06 21:34:47",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "PTA連續主力合約日內跌2%，現報6636.00元。"
-    },
-    {
-      "id": "4863813",
-      "time": "2026-05-06 21:34:22",
-      "tags": [
-        "市場"
-      ],
-      "text": "受油價下跌超5%影響，標普500能源指數下跌3%。"
-    },
-    {
-      "id": "4863812",
-      "time": "2026-05-06 21:33:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "英特爾(INTC.O)盤初漲2.9%，年初迄今累計漲超200%。"
-    },
-    {
-      "id": "4863811",
-      "time": "2026-05-06 21:33:23",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "以色列訊息人士：以色列並不知曉特朗普已接近與伊朗達成協議；以色列一直準備應對戰事升級。"
-    },
-    {
-      "id": "4863810",
-      "time": "2026-05-06 21:33:14",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "優步股價上漲5.4%，因公司預測第二季度預訂量和利潤均超出預期。"
-    },
-    {
-      "id": "4863809",
-      "time": "2026-05-06 21:33:11",
-      "tags": [
-        "市場"
-      ],
-      "text": "華特迪士尼股價在第二季度營收和調整後利潤超預期後上漲5.6%。"
-    },
-    {
-      "id": "4863808",
-      "time": "2026-05-06 21:32:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "【航行警告！南海實彈射擊訓練】據中國海事局網站訊息，茂名海事局釋出航行警告，5月7日至8日，每日6時至21時，南海部分海域進行射擊訓練，禁止進入。"
-    },
-    {
-      "id": "4863807",
-      "time": "2026-05-06 21:32:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "【歐盟試圖快速落實美歐貿易協議 但內部分歧阻礙協議進展】在特朗普新一輪關稅施壓之下，歐盟立法者與成員國政府週三試圖敲定一項協議，擬取消對美國產品的關稅，但由於在保障機制問題上分歧明顯，歐盟內部達成快速協議的前景依然黯淡。特朗普上週五表示，本週將把對歐盟汽車及卡車的關稅從當前15%上調至25%，理由是歐盟未能履行去年7月在蘇格蘭達成的貿易協議條款。自該貿易協議簽署9個月以來，歐洲議會與歐盟理事會仍需就統一文字達成一致，相關關稅削減措施方可正式生效。然而，在關鍵分歧方面，歐盟議員主張設定更嚴格的保障條款，包括：若美國未履約則可暫停協議；將關稅減讓與美方行動掛鉤；以及在2028年3月31日後全面終止歐盟關稅讓步。一名歐盟外交官表示，成員國政府對加入此類條款興趣不大；另有官員指出，雙方仍存在顯著分歧，預計下月還需繼續談判。"
     }
   ]
 }
