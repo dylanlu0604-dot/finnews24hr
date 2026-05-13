@@ -1,7 +1,45 @@
 {
-  "updated": "2026-05-14 06:54:19",
-  "count": 15390,
+  "updated": "2026-05-14 06:57:43",
+  "count": 15391,
   "items": [
+    {
+      "id": "4878691",
+      "time": "2026-05-14 06:57:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【首季實質違約主體“零”新增背後：城投債和地產債券風險緩釋持續推進】信用債市場正處於一個流動性寬鬆與信用狀態極佳的階段。中誠信研究院院長袁海霞表示：“今年信用風險處於極低狀態，甚至一季度並未有新增實質違約主體。”據悉，這是自2016年以來，第一季度信用債市場首次出現此種情形。市場人士認為：一方面，這與適度寬鬆的貨幣政策及低利率環境密不可分；另一方面，在信用債發行主體中，大型房企債務重組有了極大進展，城投企業加速進行債務置換，均有利於信用風險的化解。展望未來，信用債市場仍需關注房地產企業債務重組進展、各行業中弱資質企業及其相關可轉債的市場風險。（上證報）"
+    },
+    {
+      "id": "4878689",
+      "time": "2026-05-14 06:56:29",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【5月14日隔夜要聞一覽】\n1、美國參議院以54票對45票批准沃什出任美聯儲主席。\n2、美聯儲調查顯示，絕大多數美國人在2025年對高物價感到擔憂，並且越來越多人也開始對就業市場感到焦慮。\n3、以色列總理證實伊朗戰爭期間秘訪阿聯酋 伊朗外長譴責 阿聯酋否認。\n4、週三美股成交額第1名美光收高4.83%，股價首次收在800美元之上，創歷史新高，市值突破9000億美元。\n5、福特大漲13%，創逾六年最大漲幅，分析師看好其與寧德時代合作帶來的優勢。\n6、思科將裁員近4000人，稱將投資轉向人工智慧及相關增長領域。\n7、英偉達股價上漲2.3%，連續第六個交易日走高，盤中市值達到5.5萬億美元。\n8、凱西·伍德的旗艦交易所交易基金（ETF）似乎錯失了科技和人工智慧的這波大漲行情。\n9、通脹風險偏向上行，美聯儲柯林斯暗示加息的可能性。"
+    },
+    {
+      "id": "4878688",
+      "time": "2026-05-14 06:56:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX：由於發射場天氣條件不利，原定於今日執行的CRS-34國際空間站補給任務發射已被取消。目前目標發射時間調整為5月15日週五。"
+    },
+    {
+      "id": "te:markets:550435",
+      "time": "2026-05-14 06:55:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "New Zealand Stocks Hit 2-Week Low — The NZX 50 fell by 0.3% to 13,020 on Thursday morning, marking its lowest level since April 30 after declining for the third consecutive session, mainly driven by losses in energy, utilities, and industrials. Traders turned cautious following the RBNZ quarterly survey, which highlighted expectations of higher inflation, interest rates, and unemployment, along with weaker growth for the upcoming year. Investor sentiment was further subdued ahead of the release of New Zealand's food inflation data and manufacturing PMI scheduled for Friday. Global markets are also keeping a close eye on a potential meeting between US President Trump and Chinese President Xi Jinping later this week. New Zealand's stocks took a hit, with the market plunging by 3.5% due to a warning from a firm about the largest loss in four years caused by increased fuel costs amidst the conflict in the Middle East. Other early losers included AFC Pharmaceuticals (-2.5%) and Contact Energy (-1.0%)."
+    },
     {
       "id": "4878687",
       "time": "2026-05-14 06:48:14",
@@ -138372,31 +138410,6 @@
         "國際"
       ],
       "text": "韓國產業部長表示，美國投資計劃將於6月之後公佈。"
-    },
-    {
-      "id": "4864303",
-      "time": "2026-05-07 06:57:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "【哈馬斯高階成員證實其子在以軍對加沙地帶的襲擊中受重傷】當地時間6日晚間，巴勒斯坦伊斯蘭抵抗運動（哈馬斯）高階成員哈利勒·哈亞在接受採訪時表示，在當晚以軍對加沙地帶的襲擊中，其兒子阿扎姆及其他幾人身受重傷。哈利勒·哈亞強調，巴勒斯坦人民不會讓敵人輕易得逞，也不會向其罪行屈服，他們將繼續奮鬥，直到實現全部合法權利。以色列軍方對此暫無回應。（央視新聞）"
-    },
-    {
-      "id": "4864302",
-      "time": "2026-05-07 06:56:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【阿根廷流調：涉疫郵輪患者夫婦到過南美三國】阿根廷衛生部6日公佈暴發漢坦病毒疫情的“洪迪厄斯”號郵輪上兩名患者的活動軌跡，顯示這對首先發病的荷蘭夫婦在登船前到過阿根廷、智利和烏拉圭。"
-    },
-    {
-      "id": "4864301",
-      "time": "2026-05-07 06:54:49",
-      "tags": [
-        "宏觀",
-        "公司"
-      ],
-      "text": "【轉移餘廢藥物、加固受損房屋 瀏陽煙花廠爆炸事故相關處置工作正在進行】5月4日，湖南長沙瀏陽市華盛煙花製造燃放有限公司車間發生爆炸。事故發生後，湖南省煙花爆竹企業全面停產整頓，並在全省範圍內開展安全生產風險隱患大排查大整治。6日，在應急管理部門的指揮排程下，當地組織專業人員開始對事發現場滯留的餘廢藥物及成品半成品進行轉運處置。此外，湖南省住建部門也派出專業技術力量，對受損房屋進行應急處置和修復加固工作。（央視新聞）"
     }
   ]
 }
