@@ -1,7 +1,64 @@
 {
-  "updated": "2026-05-13 09:45:04",
-  "count": 14882,
+  "updated": "2026-05-13 09:48:28",
+  "count": 14877,
   "items": [
+    {
+      "id": "te:economy:550140",
+      "time": "2026-05-13 09:47:59",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Home Loans",
+        "Importance 1"
+      ],
+      "text": "Australia Q1 Home Loans Fall — The value of new owner-occupier loan commitments for dwellings in Australia declined by 4.3% quarter-on-quarter to AUD 61.4 billion in Q1 2026, reversing a downwardly revised 9.4% growth in the previous quarter. First-home buyer demand slipped 6.7%, after surging 15.2% in Q4, which had marked the sharpest rise in two years. Demand from non–first-home buyers also dipped 5.0%, following a 6.5% increase previously. On an annual basis, owner-occupier lending jumped 14.3%. Meanwhile, investment lending for housing fell 3.0% to AUD 41.5 billion, swinging from a 8.2% decrease in Q4. Year-on-year, investment loan values jumped 25.3%."
+    },
+    {
+      "id": "4876452",
+      "time": "2026-05-13 09:47:31",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【液冷概念表現活躍 華升股份漲停】液冷概念表現活躍，華升股份漲停，歐陸通、長纜科技、日科化學、工業富聯、金田股份等大漲。"
+    },
+    {
+      "id": "4876445",
+      "time": "2026-05-13 09:46:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "創新藥概念震盪走低，泰格醫藥跌超10%，雙鷺藥業、南新制藥、前沿生物、三生國健、悅康藥業跌幅居前。"
+    },
+    {
+      "id": "4876444",
+      "time": "2026-05-13 09:46:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "英偉達美股夜盤直線拉昇漲0.7%。"
+    },
+    {
+      "id": "te:markets:550139",
+      "time": "2026-05-13 09:46:20",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "South Korean Shares Rebound — The benchmark KOSPI rose more than 1% to around 7,740 on Wednesday, rebounding after a sharp selloff in the previous session as investors selectively bought semiconductor and large-cap technology stocks. Optimism over AI demand and strength in chip exports continued to support sentiment. Gains were led by SK Hynix (2.9%), SK Square (1.9%), Hyundai Motor (5.3%), HD Hyundai Heavy Industries (2.6%), and Kia Corporation (1.9%), while losses were seen in Samsung Electronics (-2.2%), LG Energy Solution (-3.2%), and Doosan Enerbility (-4.9%). Meanwhile, hotter-than-expected US inflation strengthened expectations that the Federal Reserve could keep interest rates elevated for longer, while lingering uncertainty over US-Iran peace talks and elevated oil prices continued to weigh on sentiment. Investors also remained cautious amid policy uncertainty over proposals to redistribute AI-driven excess tax revenues and fears of a major Samsung Electronics strike after wage talks collapsed."
+    },
+    {
+      "id": "4876437",
+      "time": "2026-05-13 09:46:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美透露以色列在阿聯酋部署鐵穹】美國駐以色列大使邁克·赫卡比5月12日在特拉維夫大學舉行的一場會議上確認，以色列已在阿聯酋部署“鐵穹”防空系統及相關操作人員。 美國常駐聯合國代表華爾茲當天也證實，以色列已在阿聯酋部署“鐵穹”防空系統，並在近期衝突中幫助阿聯酋攔截導彈。這是“鐵穹”首次被部署到以色列和美國以外的國家。 以色列與阿聯酋2020年簽署關係正常化協議，此後經濟和軍事聯絡不斷加強。（CCTV國際時訊）"
+    },
     {
       "id": "4876430",
       "time": "2026-05-13 09:44:22",
@@ -132714,100 +132771,6 @@
         "市場"
       ],
       "text": "【海光資訊20cm漲停再創歷史新高】海光資訊20cm漲停再創歷史新高，總市值超8200億元，年內漲幅近60%。"
-    },
-    {
-      "id": "4862383",
-      "time": "2026-05-06 09:48:21",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "【工信部：一季度規上電子資訊製造業實現營業收入同比增長14.8%】工信部公佈2026年一季度電子資訊製造業執行情況。2026年一季度，我國電子資訊製造業生產快速增長，出口持續回升，效益大幅提升，投資增速加快，行業整體發展態勢良好。一季度，規模以上電子資訊製造業實現營業收入4.31萬億元，同比增長14.8%；營業成本3.69萬億元，同比增長11.7%；實現利潤總額2170億元，同比增長1.25倍。3月份，規模以上電子資訊製造業營業收入1.68萬億元，同比增長15.7%。"
-    },
-    {
-      "id": "4862382",
-      "time": "2026-05-06 09:48:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "Rivian執行長表示，正在開發更親民定價的R2車型的不同版本。"
-    },
-    {
-      "id": "4862381",
-      "time": "2026-05-06 09:47:57",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨白銀突破75美元/盎司，日內漲3.12%。"
-    },
-    {
-      "id": "4862380",
-      "time": "2026-05-06 09:47:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【小米成立科技新公司 含電池製造業務】企查查APP顯示，近日，北京小米景旭科技有限公司成立，經營範圍包含：電機制造；電池製造；電動機制造；發電機及發電機組製造；汽車零部件及配件製造等。企查查股權穿透顯示，該公司由小米通訊技術有限公司間接全資持股。"
-    },
-    {
-      "id": "4862379",
-      "time": "2026-05-06 09:46:59",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "富時中國A50指數期貨漲幅擴大至1%。"
-    },
-    {
-      "id": "4862377",
-      "time": "2026-05-06 09:45:56",
-      "tags": [
-        "資料"
-      ],
-      "text": "RATINGDOG中國4月份綜合PMI報53.1，前值51.5。"
-    },
-    {
-      "id": "4862376",
-      "time": "2026-05-06 09:45:44",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "深證成指漲2.00%，現報15410.032點；上證指數漲0.74%，現報4142.654點；創業板指漲2.83%，現報3781.077點。"
-    },
-    {
-      "id": "4862375",
-      "time": "2026-05-06 09:45:36",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內漲幅達7％，成分股中，海光資訊漲19％，瀾起科技漲15％，佰維儲存漲14％，龍芯中科漲13％。"
-    },
-    {
-      "id": "4862374",
-      "time": "2026-05-06 09:45:17",
-      "tags": [
-        "資料"
-      ],
-      "text": "中國4月RatingDog服務業PMI 52.6，預期52，前值52.1。"
-    },
-    {
-      "id": "4862373",
-      "time": "2026-05-06 09:45:15",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【光纖概念股震盪走高，杭電股份漲停】光纖概念股震盪走高，杭電股份漲停，仕佳光子漲超10%，亨通光電、雲南鍺業、中貝通訊、天孚通訊、通光線纜跟漲。"
-    },
-    {
-      "id": "4862372",
-      "time": "2026-05-06 09:45:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "大盤主力淨流入超100億。"
     }
   ]
 }
