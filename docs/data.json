@@ -1,7 +1,32 @@
 {
-  "updated": "2026-05-13 14:12:18",
-  "count": 14979,
+  "updated": "2026-05-13 14:15:48",
+  "count": 14971,
   "items": [
+    {
+      "id": "4877015",
+      "time": "2026-05-13 14:15:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【Figure創始人：F.04機器人已鎖定設計 正啟動零部件交付流程】Figure創始人佈雷特·阿德科克(Brett Adcock)在社交平臺X發文稱，F.04機器人已完全鎖定設計，並啟動零部件交付流程。他表示：“F.04是我們迄今為止在機器人世代更迭之間取得的最大飛躍，該系統的工程技術已進步至全新的高度。我們打造出了真正令人驚歎的產品，我迫不及待地想向世界展示我們團隊的實力。”"
+    },
+    {
+      "id": "4877014",
+      "time": "2026-05-13 14:14:54",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行：日本央行行長植田和男將於5月27日在日本央行主辦的貨幣政策會議上發表演講。"
+    },
+    {
+      "id": "mkt:019e1ff9-25eb-7553-b25f-f32748f07263",
+      "time": "2026-05-13 14:14:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BOJ: BOJ GOVERNOR UEDA TO DELIVER SPEECH ON MAY 27 AT BOJ-HOSTED CONFERENCE ON MONETARY POLICY"
+    },
     {
       "id": "mkt:019e1ff6-e371-7553-b25f-eef3cd4ab020",
       "time": "2026-05-13 14:12:14",
@@ -133754,109 +133779,6 @@
         "公司"
       ],
       "text": "【新鋁時代等成立智造科技公司，含機器人業務】企查查APP顯示，近日，重慶新鋁時代智造科技有限公司成立，經營範圍包含：工業機器人銷售；特殊作業機器人制造；智慧機器人的研發；人工智慧硬體銷售；人工智慧應用軟體開發等。企查查股權穿透顯示，該公司由新鋁時代等共同持股。"
-    },
-    {
-      "id": "te:markets:548164",
-      "time": "2026-05-06 14:15:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "European Stocks Set for Strong Open — European equity markets were poised for a solid open on Wednesday, building on sharp gains from the previous session as easing tensions in the Middle East and strong corporate earnings supported sentiment. The US reaffirmed its ceasefire with Iran, confirmed that offensive operations have ended, and temporarily paused efforts to assist stranded vessels exiting the Strait of Hormuz to allow time for potential renewed negotiations. On the corporate front, German chipmaker Infineon Technologies issued a stronger-than-expected revenue outlook for the current quarter, buoyed by a surge in spending on AI infrastructure. Danish pharmaceutical group Novo Nordisk also indicated that this year’s sales decline may be less severe than initially anticipated, supported by improving demand for its Wegovy obesity treatment. Investors will also assess earnings from BMW, Daimler Truck and AXA, among others. In premarket trading, Euro Stoxx 50 and Stoxx 600 futures both advanced by more than 1%."
-    },
-    {
-      "id": "4862722",
-      "time": "2026-05-06 14:14:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "【瑞銀：上調ARM目標價至245美元，預計到2030年市佔率達到40-45%】瑞銀髮表報告指，面對投資者大量詢問代理式AI對伺服器CPU潛在市場規模的影響，認為CPU對XPU的附掛率到2030年預計較去年的基準增長約5倍；並有獨立CPU-only伺服器機櫃的新增需求，預計x86與ARM架構大致各佔一半，該趨勢最終也將外溢至催化個人電腦需求，包括全新需求與替換週期。總體而言，該行估計伺服器CPU在市場規模從2025年的約300億美元，到2030年將增長約5倍至約1700億美元，這將為ARM、英特爾、AMD帶來全面性的上升空間。該行預計ARM到2030年在總出貨量市佔率達到40-45%(相對2025年約15%)，將其目標價由175美元上調至245美元。"
-    },
-    {
-      "id": "4862721",
-      "time": "2026-05-06 14:13:59",
-      "tags": [
-        "國際",
-        "原創"
-      ],
-      "text": "【韓國一季度出口近2200億美元創歷史新高，晶片出口飆升139%】韓國產業通商資源部週三表示，受全球人工智慧（AI）資料中心強勁增長的推動，韓國今年第一季度出口額達2199億美元，同比增長37.8%，創歷史新高。半導體出口成為主要驅動力，同比增長139%至785億美元，主要得益於人工智慧相關伺服器投資的激增。在半導體領域，DRAM出口額同比增長249.1%至357.9億美元，而NAND快閃記憶體晶片出口同比增長377.5%至53.9億美元。"
-    },
-    {
-      "id": "4862720",
-      "time": "2026-05-06 14:13:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "諾和諾德執行長：儘管有競爭對手進入市場，我們仍看到市場對我們的口服降糖藥保持持續需求。"
-    },
-    {
-      "id": "4862719",
-      "time": "2026-05-06 14:13:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "澳大利亞S&P/ASX 200指數收盤上漲1.3%，至8793.60點。"
-    },
-    {
-      "id": "te:economy:548162",
-      "time": "2026-05-06 14:13:02",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Sweden",
-        "Inflation Rate",
-        "Importance 2"
-      ],
-      "text": "Sweden Consumer Prices Fall for 1st Time in 6 Years — Consumer prices in Sweden edged down by 0.1% year-on-year in April 2026, missing market forecasts of a 0.3% rise and slipping from a slightly downwardly revised 0.5% gain in the previous month, according to preliminary estimates. The latest figure also marked the first month of decline since April 2020. “In the preliminary calculations, we can see that food prices fell by 5.5% from March to April,” said Sofie Öhman, price statistician at Statistics Sweden. On a monthly basis, consumer prices dropped by 0.6%, exceeding forecasts of a 0.2% fall and the same pace as in the preceding period. Meanwhile, the CPI with a fixed interest rate (CPIF), the Riskbank’s target measure, rose by 0.8% year-on-year in April, the softest increase since December 2020, below expectations of a 1.2% gain and slowing from March’s 1.6% rise."
-    },
-    {
-      "id": "4862718",
-      "time": "2026-05-06 14:12:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "【杭氧股份等在寧夏成立氣體新公司】企查查APP顯示，近日，寧夏寧東杭氧氣體有限公司成立，註冊資本1億元，經營範圍包含：普通機械裝置安裝服務；機械裝置租賃；氣體、液體分離及純淨裝置銷售等。企查查股權穿透顯示，該公司由杭氧股份等共同持股。"
-    },
-    {
-      "id": "te:markets:548161",
-      "time": "2026-05-06 14:12:45",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Euro Gains as US-Iran Deal Hopes Rise — The euro strengthened above $1.17, trading at its highest since April 21, as optimism over a potential US-Iran agreement grew. US President Donald Trump paused \"Project Freedom,\" the operation guiding ships through the Strait of Hormuz, citing \"great progress\" in talks with Iran. Yet, he stressed that the US blockade of ships to and from Iranian ports would \"remain in full force and effect,\" keeping uncertainty alive over the Strait’s future."
-    },
-    {
-      "id": "4862717",
-      "time": "2026-05-06 14:12:43",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "諾和諾德首席財務官：油價上漲僅對公司塑膠產品業務造成輕微影響。"
-    },
-    {
-      "id": "4862716",
-      "time": "2026-05-06 14:12:34",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根士丹利將AMD目標股價從360美元上調至410美元。"
-    },
-    {
-      "id": "4862715",
-      "time": "2026-05-06 14:12:29",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【美政府關閉移民拘留監察員辦公室 美媒：為了“攆人”】美國國土安全部5日證實，美國移民拘留監察員辦公室已被關閉，理由是“資金不足”。然而據一些美國媒體解讀，這是為了迫使部分移民主動離境。移民拘留監察員辦公室由美國會立法設立，2019年獲批籌建、2021年正式成立，負責審查移民拘留系統中的虐待與不當行為。截至4日下午，該辦公室向在押移民家屬及代理律師提供投訴渠道的公開網站已無法訪問，介紹辦公室職能的基礎資訊網頁也已下線。美國土安全部發言人在向媒體傳送的郵件中稱，關停移民拘留監察員辦公室緣於國會批准的撥款不足，“這是國會所為。眾議院透過國土安全部撥款法案，上週經簽署生效”。然而，美國《赫芬頓郵報》報道指出，相關法案文字並未要求關閉該辦公室。報道認為，特朗普政府一直在擴充移民拘留設施容量，而關停監察員辦公室直接削弱了對移民拘留設施的監管力度。（新華社）"
     }
   ]
 }
