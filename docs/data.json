@@ -1,7 +1,61 @@
 {
-  "updated": "2026-05-13 16:04:33",
-  "count": 14993,
+  "updated": "2026-05-13 16:07:57",
+  "count": 14986,
   "items": [
+    {
+      "id": "mkt:019e2060-a01a-7770-bf40-9fbe1a3bb007",
+      "time": "2026-05-13 16:07:43",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "US MEMORY CHIPMAKERS SHARES RISE IN PREMARKET TRADING: SANDISK GAINS 3.5%, MICRON UP 5.2%"
+    },
+    {
+      "id": "4877257",
+      "time": "2026-05-13 16:07:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國空間站首次人類“人工胚胎”實驗進展順利】5月13日，據中國科學院空間應用工程與技術中心訊息，隨天舟十號上行太空的人類“人工胚胎”實驗樣本，已裝置於中國空間站實驗模組，目前實驗進展順利。這是世界首次在太空開展的人類“人工胚胎”實驗。（新華社）"
+    },
+    {
+      "id": "4877256",
+      "time": "2026-05-13 16:07:10",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國記憶體晶片製造商股價盤前交易上漲。"
+    },
+    {
+      "id": "4877255",
+      "time": "2026-05-13 16:05:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "【英特爾美股盤前漲超4%】英特爾美股盤前漲超4%，現報125.46美元。"
+    },
+    {
+      "id": "te:markets:550290",
+      "time": "2026-05-13 16:05:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Copper Gains by 1.44% — Top commodity gainers are Copper (1.44%), Titanium (1.04%) and Iron Ore CNY (0.92%). Biggest losers are Silicon (-0.58%) and Gold (-0.30%)."
+    },
+    {
+      "id": "4877254",
+      "time": "2026-05-13 16:04:27",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【軟銀數百億美元砸向AI】據CNBC報道，日本軟銀集團近日已向重點投資控股的英國人工智慧晶片與系統研發公司Graphcore注資超4.5億美元（約合人民幣30.6億元），以繼續加碼佈局AI基礎設施賽道。據知情人士透露，本輪注資為軟銀今年計劃向Graphcore撥付資金的“一部分”，後續可能還將有更大規模資金注入。近年來，AI一直是軟銀的重點投資領域，目前已投入數百億美元，包括持有OpenAI股份以及加碼AI基礎設施建設等。Graphcore曾被視為英偉達的潛在挑戰者，儘管此前累計融資規模已達數億美元，公司始終未能實現規模化商業落地。軟銀創始人兼執行長孫正義此前表示，Graphcore是一家晶片研發技術積澱深厚的企業。（央視財經）"
+    },
     {
       "id": "4877253",
       "time": "2026-05-13 16:03:54",
@@ -133973,119 +134027,6 @@
         "市場"
       ],
       "text": "超微電腦股價盤前大漲19.3%，此前該公司公佈第四季度業績預測高於市場預期。"
-    },
-    {
-      "id": "4863000",
-      "time": "2026-05-06 16:07:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【金牌家居：2025年營收降5.01% 家裝業務有望延續增長】金牌家居公告稱，公司4月30日透過電話會議接待機構調研。2025年公司實現營收33.01億元，同比降5.01%；淨利潤0.22億元，同比降89.02%，主要因市場下行、投入增加及費用上升。家裝渠道累計佈局門店1540家，營收7.99億元，同比增約26%，未來有望延續增長。此外，公司釋出2025年度分紅方案，每股派現0.10元（含稅），佔淨利潤69.75%，尚待股東會審議。"
-    },
-    {
-      "id": "4862999",
-      "time": "2026-05-06 16:07:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "【*ST長投：涉訴金額變更為1.22億元 影響尚不確定】*ST長投公告稱，上海長江聯合金屬交易中心有限公司訴公司其他與破產有關的糾紛一案已一審開庭。2026年4月30日，原告變更訴訟請求，要求五被告按持股比例返還利潤等，涉訴金額合計1.22億元，其中公司需按40%持股比例返還4878.00萬元。本次訴訟對公司利潤的影響尚不確定，公司及子公司近12個月內累計涉訴金額461.46萬元，佔最近一期經審計歸母淨資產的5.29%。"
-    },
-    {
-      "id": "te:economy:548248",
-      "time": "2026-05-06 16:07:27",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Euro Area",
-        "Services PMI",
-        "Importance 1"
-      ],
-      "text": "Euro Area Services Sector Shrinks in April — The S&P Global Eurozone Services PMI was revised up slightly to 47.6 in April 2026 from 47.4, but still fell from 50.2 in March, marking its first move into contraction in nearly a year and the sharpest decline in activity since February 2021. Demand weakened further, with new orders falling at the fastest pace since October 2023, partly due to a drop in export business. Employment was broadly unchanged for a second consecutive month, a notable shift from the strong hiring trend seen in previous years. Backlogs were reduced at the quickest pace since March 2025, suggesting firms are working through existing orders. Meanwhile, cost pressures intensified, with input and output price inflation rising to multi-year highs. Business confidence also deteriorated, dropping to its lowest level in 42 months."
-    },
-    {
-      "id": "4862998",
-      "time": "2026-05-06 16:07:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "瑞士政府：目前瑞士民眾未面臨危險。"
-    },
-    {
-      "id": "4862997",
-      "time": "2026-05-06 16:07:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "【九強生物：取得三項醫療器械註冊證書】九強生物公告稱，公司近日收到北京市藥品監督管理局頒發的三項《醫療器械註冊證》，產品包括α1 - 酸性糖蛋白測定試劑盒、免疫球蛋白E測定試劑盒、不飽和鐵結合力測定試劑盒，註冊證有效期均至2031年。這些註冊證的取得豐富了公司體外診斷生化細分領域產品線，有利於提升核心競爭力和市場拓展能力，但產品實際銷售情況取決於市場推廣效果，目前無法預測對未來業績的影響。"
-    },
-    {
-      "id": "4862996",
-      "time": "2026-05-06 16:07:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "瑞士政府：這名患者此前曾一艘郵輪上的乘客，該郵輪上已出現多例病例。"
-    },
-    {
-      "id": "4862995",
-      "time": "2026-05-06 16:06:49",
-      "tags": [
-        "資料",
-        "其他",
-        "焦點"
-      ],
-      "text": "【創歷史同期新高 “五一”假期交通出行人數達15.17億人次】來自交通運輸部的資料顯示，2026年“五一”假期（5月1日至5月5日）全社會跨區域人員流動量達15.17億人次，比2025年同期增長3.49%，創歷史同期新高。 （新華社）"
-    },
-    {
-      "id": "4862994",
-      "time": "2026-05-06 16:06:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "瑞士政府：一名漢坦病毒感染者目前正在蘇黎世接受治療。"
-    },
-    {
-      "id": "4862993",
-      "time": "2026-05-06 16:06:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "紐西蘭總理：今晚與芬蘭總統 交談很愉快——我們雙方都支援緩和局勢的努力。我也感謝他對烏克蘭局勢的見解。"
-    },
-    {
-      "id": "4862992",
-      "time": "2026-05-06 16:06:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "紐西蘭總理：中東的穩定對於確保燃料透過海灣持續流動並幫助降低紐西蘭人的燃料價格至關重要。"
-    },
-    {
-      "id": "4862991",
-      "time": "2026-05-06 16:05:45",
-      "tags": [
-        "市場"
-      ],
-      "text": "匈牙利福林日內上漲，盤中短暫觸及359.50兌歐元的四年多新高。"
-    },
-    {
-      "id": "te:markets:548244",
-      "time": "2026-05-06 16:05:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Lithium Carbonate Soars by 5.93% — Top commodity gainers are Lithium Carbonate (5.93%), Silver (4.66%), Iron Ore CNY (2.70%) and Gold (2.67%)."
-    },
-    {
-      "id": "4862990",
-      "time": "2026-05-06 16:05:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "【東方海洋：全資子公司取得兩項醫療器械註冊證】東方海洋(002086.SZ)公告稱，公司全資子公司艾維可生物科技有限公司自主研發的β-膠原特殊序列測定試劑盒和總I型膠原氨基端延長肽測定試劑盒，近日獲得山東省藥監局註冊批准。"
     }
   ]
 }
