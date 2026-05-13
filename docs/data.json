@@ -1,7 +1,99 @@
 {
-  "updated": "2026-05-13 21:36:13",
-  "count": 15109,
+  "updated": "2026-05-13 21:39:37",
+  "count": 15108,
   "items": [
+    {
+      "id": "mkt:019e2190-13a7-7eee-bb64-3eaf5f554599",
+      "time": "2026-05-13 21:38:52",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "IMF'S GEORGIEVA: IF OIL PRICES STAY HIGH INTO 2027 THERE IS RISK OF TECHNICAL RECESSION"
+    },
+    {
+      "id": "te:markets:550382",
+      "time": "2026-05-13 21:38:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Costco Wholesale Stock Price Hits 4-week High — Costco Wholesale shares increased to 1031.00 USD, the highest since April 2026. Over the past 4 weeks, Costco Wholesale gained 4.81%, and in the last 12 months, it increased 2.9%."
+    },
+    {
+      "id": "4878092",
+      "time": "2026-05-13 21:38:10",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "波蘭央行委員Kotecki：關於波蘭加息的討論可能在七月開始。目前波蘭利率維持穩定的可能性更大。"
+    },
+    {
+      "id": "te:markets:550381",
+      "time": "2026-05-13 21:38:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Coca-Cola Stock Price Hits 10-week High — Coca-Cola shares increased to 80.32 USD, the highest since March 2026. Over the past 4 weeks, Coca-Cola gained 5.05%, and in the last 12 months, it increased 16.4%."
+    },
+    {
+      "id": "4878091",
+      "time": "2026-05-13 21:37:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達(NVDA.O)股價續創歷史新高至227.16美元。"
+    },
+    {
+      "id": "4878090",
+      "time": "2026-05-13 21:37:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【阿里吳泳銘：未來希望實現晶片全棧自研】在2026財年Q4財報分析師電話會上，吳泳銘表示，自研晶片在阿里雲的部署量還是不大。但未來有希望從GPU、CPU到儲存、網路晶片實現全棧自研，目前主要是產能受限。隨著自研晶片的滲透率提升，將進一步提升毛利率。"
+    },
+    {
+      "id": "mkt:019e218e-0219-7eee-bb64-31fa5ef4c374",
+      "time": "2026-05-13 21:36:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "CORRECT: HUNGARY-EU TALKS ON DEFENCE FUNDS ADVANCE: HVG"
+    },
+    {
+      "id": "4878089",
+      "time": "2026-05-13 21:36:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "英偉達開盤股價上漲2.6%，創下歷史新高。"
+    },
+    {
+      "id": "4878088",
+      "time": "2026-05-13 21:36:15",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "ZoomInfo科技公司股價下跌1.6%，此前瑞穗將其股票評級從中性下調至表現不佳。"
+    },
     {
       "id": "mkt:019e218c-eb2f-7eee-bb64-2f261d92e1ab",
       "time": "2026-05-13 21:35:39",
@@ -135280,99 +135372,6 @@
         "國際"
       ],
       "text": "美聯儲穆薩萊姆：目前也存在一些看似合理的設想，可能導致降息和加息。實現2%的目標是美聯儲對經濟增長和就業的最佳貢獻。"
-    },
-    {
-      "id": "te:markets:548419",
-      "time": "2026-05-06 21:39:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Meta Stock Price Hits 4-week Low — Meta shares decreased to 599.32 USD, the lowest since April 2026. Over the past 4 weeks, Meta Platforms, Inc. gained 5.07%, and in the last 12 months, it increased 2.52%."
-    },
-    {
-      "id": "4863823",
-      "time": "2026-05-06 21:39:07",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲穆薩萊姆：當前政策在實質層面上處於中性或略微寬鬆的狀態。"
-    },
-    {
-      "id": "4863822",
-      "time": "2026-05-06 21:38:42",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲穆薩萊姆：有合理的情景表明，利率需要在一段時間內保持穩定。"
-    },
-    {
-      "id": "4863821",
-      "time": "2026-05-06 21:38:37",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲穆薩萊姆：兩項任務均存在風險，但風險正向通脹方向轉移。"
-    },
-    {
-      "id": "4863820",
-      "time": "2026-05-06 21:38:25",
-      "tags": [
-        "宏觀",
-        "公司"
-      ],
-      "text": "【國臺辦回應臺企與顏文群“切割”：搞“臺獨”害人害己 必遭懲治】\"臺獨\"頑固分子劉世芳外甥顏文群所在的公司昨天發表與其切割的宣告，解除顏文群在臺灣總公司和大陸分公司的所有職務。國務院臺辦發言人陳斌華答記者問時表示，\"臺獨\"破壞臺海和平穩定，損害兩岸同胞利益，是一條走不通的絕路，搞\"臺獨\"害人害己，必遭懲治。我們決不允許\"臺獨\"頑固分子及其親屬在大陸投資經商謀利，決不允許支援\"臺獨\"，破壞兩岸關係的人一邊在大陸賺錢，一邊支援\"臺獨\"分裂活動。我們的懲\"獨\"舉措只針對極少數\"臺獨\"分子，不涉及廣大臺胞臺企，我們將一如既往歡迎，支援廣大臺胞臺企紮根祖國大陸發展，分享中國式現代化發展機遇與成果，讓臺胞臺企更有幸福感，獲得感。（日月譚天）"
-    },
-    {
-      "id": "4863819",
-      "time": "2026-05-06 21:38:14",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲穆薩萊姆：通脹水平顯著高於2%的目標。除了關稅和石油衝擊外，還需關注潛在的通脹問題。"
-    },
-    {
-      "id": "4863818",
-      "time": "2026-05-06 21:37:38",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美國聖路易聯儲主席Musalem：目前包括寬鬆金融環境在內的順風因素對美國經濟的影響大於逆風因素。關稅和戰爭相關的不確定性是逆風因素。經過去年逐步降溫後，勞動力市場似乎已經趨於穩定。近期的就業增長基本處於盈虧平衡水平。"
-    },
-    {
-      "id": "4863817",
-      "time": "2026-05-06 21:37:23",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【上期所低硫燃油主力合約大跌5%】上期所低硫燃油主力合約大跌5%，報4960元/噸。"
-    },
-    {
-      "id": "4863816",
-      "time": "2026-05-06 21:37:12",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲穆薩萊姆：近期就業增長大致維持在盈虧平衡水平。"
-    },
-    {
-      "id": "4863815",
-      "time": "2026-05-06 21:36:51",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲穆薩萊姆  ：美國經濟在 2026 年開局具備相當強勁的增長動能。金融環境非常寬鬆。我的感覺是經濟順風大於逆風。關稅和戰爭的不確定性是逆風因素。勞動力市場在去年逐漸降溫後似乎已趨於穩定。"
     }
   ]
 }
