@@ -1,7 +1,122 @@
 {
-  "updated": "2026-05-14 07:50:22",
-  "count": 15386,
+  "updated": "2026-05-14 07:54:04",
+  "count": 15387,
   "items": [
+    {
+      "id": "te:markets:550458",
+      "time": "2026-05-14 07:53:20",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Gold Weighed Down by Fed Rate Hike Fears — Gold traded below $4,700 an ounce on Thursday after sliding for two straight sessions, as rising US inflation reinforced expectations that the Federal Reserve could keep interest rates higher for longer or even hike them. Data released Thursday showed US wholesale inflation accelerated in April to its fastest pace since 2022, fueled by higher trade and energy costs linked to the Iran war. The report followed Tuesday’s data showing consumer inflation climbed to 3.8% last month, the highest reading since May 2023. Investors have now fully ruled out a Fed rate cut this year, while increasingly expect a greater likelihood of another rate hike before year-end. Although gold is traditionally viewed as a hedge against inflation, higher interest rates tend to pressure the non-yielding asset. Meanwhile, markets are also closely watching President Trump’s visit to China for signs of progress on the fragile trade truce and developments surrounding the Iran conflict."
+    },
+    {
+      "id": "4878753",
+      "time": "2026-05-14 07:51:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【南太平洋島國紐埃總理贏得連任】當地時間13日，南太平洋島國紐埃議會舉行總理選舉，現任總理多爾頓·塔格拉吉成功連任新一屆紐埃總理。紐埃位於南太平洋中部，面積為260平方公里，全國常住人口1564人（2022年），是世界上人口最少的國家之一。紐埃於1974年實行內部自治，同紐西蘭保持自由聯絡。"
+    },
+    {
+      "id": "4878752",
+      "time": "2026-05-14 07:51:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本5月8日當週外資淨買進日本股票 14375億日元，前值 8079億日元。日本5月8日當週外資淨買進日本債券 1062億日元，前值 -7869億日元。日本5月8日當週淨買進國外股票 -5936億日元，前值 412億日元。日本5月8日當週淨買進國外債券 16407億日元，前值 -8877億日元。"
+    },
+    {
+      "id": "mkt:019e23c0-954a-7dd0-a6ab-5f11752fee23",
+      "time": "2026-05-14 07:51:06",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Weekly Foreign Stocks Buying (May.8) | actual -593600000000B | previous 41200000000B"
+    },
+    {
+      "id": "mkt:019e23c0-9548-7dd0-a6ab-502df5f7acdb",
+      "time": "2026-05-14 07:51:06",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Weekly Foreign investment in Japanese Bonds (May.8) | actual 106200000000B | previous -786900000000B"
+    },
+    {
+      "id": "mkt:019e23c0-42cb-7dd0-a6ab-467e3537f6ab",
+      "time": "2026-05-14 07:50:39",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | M3 Money Supply (YoY) (Apr) | actual 1.6% | previous 1.40%"
+    },
+    {
+      "id": "mkt:019e23c0-42c8-7dd0-a6ab-3ab59c8f1454",
+      "time": "2026-05-14 07:50:34",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | M2 Money Supply (YoY) (Apr) | actual 2.3% | previous 2.00%"
+    },
+    {
+      "id": "4878751",
+      "time": "2026-05-14 07:50:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本4月貨幣存量M3同比 1.6%，前值 1.4%。"
+    },
+    {
+      "id": "mkt:019e23c0-42c6-7dd0-a6ab-30d8a8808841",
+      "time": "2026-05-14 07:50:18",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Broadest Liquidity (YoY) (Apr) | actual 2.8% | previous 2.8%"
+    },
+    {
+      "id": "4878750",
+      "time": "2026-05-14 07:50:12",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【日本央行前行長黑田東彥：干預行動不大可能對日元產生持久影響】日本央行前行長黑田東彥週三表示，日本近期的干預匯市行動或許阻止了日元兌美元跌破160關口，但這不太可能對支撐日元產生持久影響。黑田東彥在一場研討會上表示，只有當外匯干預對投機者造成巨大打擊，或是其力度足以扭轉市場情緒時，才會產生長期影響。“日本當局此次針對日元過度貶值採取了果斷行動。但很難指望這一舉措對日元產生持久影響，”黑田東彥表示。他在擔任日本央行行長之前，曾擔任主管日本匯率政策的財務省官員。“最近這輪干預確實起到了一定作用，阻止日元兌美元跌破160關口，否則日元將進一步下跌，”他說。“但干預的影響通常不會持續太久。”黑田東彥在研討會上表示：“我認為，基於日本的經濟基本面，日元/美元匯率在120-130左右被視為均衡水位。”美元兌日元週三在157.80左右 。"
+    },
+    {
+      "id": "mkt:019e23bf-a2bd-7dd0-a6ab-26dc63967be8",
+      "time": "2026-05-14 07:50:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Weekly Foreign investment in Japanese Stocks (May.8) | actual 1437500000000B | previous 807900000000B"
+    },
+    {
+      "id": "mkt:019e23bf-a2be-7dd0-a6ab-293c05e6bf89",
+      "time": "2026-05-14 07:50:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Weekly Foreign Bonds Buying (May.8) | actual 1640700000000B | previous -887700000000B"
+    },
     {
       "id": "4878749",
       "time": "2026-05-14 07:47:45",
@@ -138269,106 +138384,6 @@
         "國際"
       ],
       "text": "日本央行會議紀要：成員一致認為，日本央行應隨著經濟與物價形勢向好，持續加息。"
-    },
-    {
-      "id": "4864379",
-      "time": "2026-05-07 07:53:56",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行一位委員：調整寬鬆政策的措施不應長期擱置。"
-    },
-    {
-      "id": "4864378",
-      "time": "2026-05-07 07:53:36",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行會議紀要：一名委員表示，目前沒有跡象顯示日本央行此前的加息削弱了其貨幣政策對經濟的刺激效果。"
-    },
-    {
-      "id": "4864377",
-      "time": "2026-05-07 07:52:51",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行會議紀要：一名成員認為日本央行應在相對較早的階段對大幅負的實際利率作出調整。"
-    },
-    {
-      "id": "4864376",
-      "time": "2026-05-07 07:52:47",
-      "tags": [
-        "宏觀",
-        "公司",
-        "國際"
-      ],
-      "text": "【美國出臺新反恐戰略 優先打擊西半球販毒集團】美國白宮6日宣佈，總統特朗普已簽署一項新的國家反恐戰略，將打擊西半球的販毒集團列為首要任務。自去年9月初以來，美軍在加勒比海和東太平洋擊沉多艘美方所謂“販毒船”、稱打死船上“毒品恐怖分子”，並於同年11月發起“南方之矛”軍事行動。然而，美國政府一直未公佈任何可以證明其攻擊目標涉毒的證據。據美國媒體報道，美軍對所謂“販毒船”的襲擊已造成至少191人死亡。(新華社)"
-    },
-    {
-      "id": "4864375",
-      "time": "2026-05-07 07:52:03",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行會議紀要：少數成員表示，鑑於中東局勢不確定性加劇，本次會議維持政策利率不變是合適的做法。"
-    },
-    {
-      "id": "4864374",
-      "time": "2026-05-07 07:51:45",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【中金：看好模型健康、擴張要素齊備的生鮮龍頭公司長期成長空間】中金指出，生鮮作為居民一日三餐的核心組成部分，不僅是競爭激烈的流量入口級品類，其背後更承載著三十年來中國零售行業商業模式創新迭代的縮影。縱觀行業發展時間軸，橫跨國內海外市場，連鎖化、近場化都是生鮮零售演進的大勢所趨。看好模型健康、擴張要素齊備的龍頭公司長期成長空間。"
-    },
-    {
-      "id": "4864373",
-      "time": "2026-05-07 07:51:36",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行會議紀要：委員稱，各方擔憂油價上漲會引發通脹再度升溫。"
-    },
-    {
-      "id": "4864372",
-      "time": "2026-05-07 07:51:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：巴西下議院透過關鍵礦產法案。"
-    },
-    {
-      "id": "4864371",
-      "time": "2026-05-07 07:51:14",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行3月會議紀要：多名成員認為日本央行維持政策利率在0.75%是恰當的。"
-    },
-    {
-      "id": "4864370",
-      "time": "2026-05-07 07:51:10",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行公佈3月18日至19日政策會議紀要。"
-    },
-    {
-      "id": "4864369",
-      "time": "2026-05-07 07:51:01",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行成員：如果經濟前景符合預期，則適宜加息。"
     }
   ]
 }
