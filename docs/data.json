@@ -1,7 +1,111 @@
 {
-  "updated": "2026-05-13 14:54:19",
-  "count": 14978,
+  "updated": "2026-05-13 14:57:45",
+  "count": 14982,
   "items": [
+    {
+      "id": "4877089",
+      "time": "2026-05-13 14:57:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【寒武紀成交額達200億元】寒武紀成交額達200億元，現漲2.92%。"
+    },
+    {
+      "id": "te:economy:550253",
+      "time": "2026-05-13 14:57:21",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Hungary",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "Hungary Industrial Output Growth Confirmed at 6.7% — Industrial production in Hungary rose 6.7% year-on-year in March 2026, matching preliminary estimates and rebounding sharply from a downwardly revised 0.9% decline in the previous month. It marked the strongest annual growth since September 2022, driven by broad-based gains across most manufacturing industries (7% vs -0.3% in February), which account for roughly 95% of total industrial output. Production mainly increased for computer, electronic and optical products (21.9% vs 24.6%) and machinery and equipment (20.3% vs 0.8%). In addition, output in mining and quarrying as well as electricity, gas, steam, and air conditioning supply rebounded by 7.5% and 2.3%, respectively, following four consecutive months of decline. On a seasonally and working-day-adjusted basis, industrial output increased by 3.1%, after a 1.8% drop in February. Over the first three months of the year, industrial activity was 1% higher than in the same period last year."
+    },
+    {
+      "id": "4877088",
+      "time": "2026-05-13 14:57:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【機構：本週多晶矽市場成交回暖 累庫壓力放緩】據安泰科統計，n型復投料（棒狀矽）成交價格區間為3.5-3.6萬元/噸，成交均價為3.53萬元/噸，環比持平；n型顆粒矽成交價格區間為3.4-3.6萬元/噸，成交均價為3.43萬元/噸，環比持平。本週市場呈現積極變化，新簽訂單企業數量增至4-5家，整體簽單量同步增加。市場活躍度提升的主要原因在於：一方面，下游矽片環節因終端部分訂單增加以及對原材料多晶矽價格已處於底部的判斷，小幅提升開工率，從而帶動了對矽料的採購需求；另一方面，矽料價格連續數週企穩，強化了市場“價格見底”的共識，促使部分此前觀望的下游企業開始執行階段性補庫計劃。（矽業分會）"
+    },
+    {
+      "id": "4877087",
+      "time": "2026-05-13 14:56:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯巴什科爾託斯坦一工業設施因“工藝流程違規”發生火災。"
+    },
+    {
+      "id": "4877086",
+      "time": "2026-05-13 14:56:46",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PVC連續主力合約日內漲2%，現報5220.00元。"
+    },
+    {
+      "id": "4877085",
+      "time": "2026-05-13 14:56:45",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "瀾起科技A股成交額達200億元，現漲7.26%。"
+    },
+    {
+      "id": "4877084",
+      "time": "2026-05-13 14:56:41",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超3.2萬億元，較上日此時縮量114億元。"
+    },
+    {
+      "id": "4877083",
+      "time": "2026-05-13 14:55:48",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【日本兩大軸承製造商NSK與NTN計劃2027年前整合】5月12日，日本精工（NSK）與NTN簽署基本協議，計劃在2027年10月前完成管理整合。NSK與NTN分別是全球第三和第四大軸承製造商，此次合併將打造一家全球領先的軸承企業。根據計劃，將成立一家控股公司，總裁由NSK任命，董事長由NTN任命。兩家公司面臨汽車和工業機械市場增長放緩以及電動汽車加速轉型的挑戰，旨在透過生產整合和更高效的研發投入來降低成本、提升競爭力。"
+    },
+    {
+      "id": "4877082",
+      "time": "2026-05-13 14:55:31",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "光大證券最新研報表示，創業板指主要指標仍在各指數中名列前茅，具有高增長、高盈利、低估值的特點。不過，交易層面，當前指數估值偏高，但基本面支撐同樣較強，不易發生趨勢性行情，預計偏強震盪為主。（21財經）"
+    },
+    {
+      "id": "te:economy:550252",
+      "time": "2026-05-13 14:55:26",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Hungary",
+        "Construction Output",
+        "Importance 1"
+      ],
+      "text": "Hungary Construction Output Recovers in March — Hungary’s construction output rose by 3.9% year-on-year in March 2026, rebounding from a downwardly revised 1.1% decline in the previous month. Output in civil engineering works climbed by 3.0%, recovering from a 7.7% drop in February, mainly driven by a 7.3% increase in specialised construction activities. Meanwhile, building constructions also rose by 4.4% from 1.7%. On a seasonally adjusted monthly basis, construction output grew by 0.5% in March. For the first quarter of 2026, the total volume of construction output declined by 4.2% compared to the same period a year earlier, as construction of buildings and civil engineering output fell by 1.6% and 9.4%, respectively."
+    },
+    {
+      "id": "4877081",
+      "time": "2026-05-13 14:54:51",
+      "tags": [
+        "資料",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【華爾街通脹焦慮加劇 機構關注美聯儲下一步如何抉擇】週二出爐火爆超預期的消費者物價資料，進一步加劇了華爾街對通脹的焦慮情緒。即便在最新消費者物價指數（CPI）公佈之前，通脹預期就已持續攀升。當前美股市場在很大程度上對美伊衝突及其引發的能源衝擊選擇淡然無視，而通脹預期抬頭正成為一大潛在風險點。近幾年，即便通脹整體居高不下，股票及其他風險資產依舊錶現不俗。 背後關鍵在於市場遠期通脹預期一直保持溫和，給美聯儲留出了降息空間。分析師表示，一旦通脹預期再度抬頭，或將倒逼美聯儲轉向加息，市場環境也將隨之承壓。 研究機構惠譽博華投資級及宏觀策略主管Zach Griffiths表示：“若股市最終開始正視通脹盈虧平衡利率的異動，我一點也不意外。此前美聯儲官員尚可因市場通脹預期平穩而稍感安心，但眼下這一局面顯然正在發生轉變。”"
+    },
     {
       "id": "mkt:019e201d-0c2a-755a-b973-fcd53e9d9bfa",
       "time": "2026-05-13 14:53:54",
@@ -133820,67 +133924,6 @@
         "其他"
       ],
       "text": "【海光資訊成交額達200億元，現漲16.46%】5月6日下午，海光資訊成交額達200億元，現漲16.46%。"
-    },
-    {
-      "id": "4862809",
-      "time": "2026-05-06 14:57:44",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "集運指數歐線期貨連續主力合約日內漲5%，現報2391.00點。"
-    },
-    {
-      "id": "4862808",
-      "time": "2026-05-06 14:57:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "【第2屆冷卻液與液冷技術論壇將於5月中旬在滬舉行】由亞化諮詢主辦的第2屆冷卻液與液冷技術論壇將於5月14日-15日在上海召開。在此次會議上，行業領軍企業新華三、巨化、埃克森美孚、瓦克化學、道達爾、天津長蘆化工、深圳綠色雲圖、杭州京工電科技有限公司、蘇州銥諾、合肥華清高科、中國石化潤滑油有限公司北京研究院、中國科學院上海高等研究院、中國科學院過程工程研究所、中國科學院金屬研究所、深圳智微通等，將圍繞AI算力時代的液冷與冷卻液技術與市場趨勢展開探討。"
-    },
-    {
-      "id": "4862807",
-      "time": "2026-05-06 14:56:10",
-      "tags": [
-        "央行",
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【報告：英國國債面臨通脹風險和政治風險壓力】Ebury的Matthew Ryan在一份報告中表示，鑑於中東衝突持續以及國內的政治壓力，出於對通脹的擔憂，英國國債正面臨壓力。Ryan表示，投資者擔心霍爾木茲海峽的關閉可能會使能源價格居高不下，並推高英國通脹，從而可能促使英國央行迅速加息。此外，定於週四舉行的地方選舉也帶來了政治風險。“這裡最大的風險是在新領導人的帶領下向激進左翼傾斜，這可能會引發對更寬鬆的財政規則、額外的增稅以及無資金支援的支出承諾的擔憂。“倫敦證券交易所集團資料顯示，週二英國30年期國債收益率飆升至28年來的最高水平，達到5.787%。"
-    },
-    {
-      "id": "4862806",
-      "time": "2026-05-06 14:55:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣州“五一”假期一手住宅認購量同比增長超50%】記者6日從廣州市住房和城鄉建設局獲悉，“五一”假期，廣州房地產市場活躍度顯著回升，一二手住宅市場同步向好，樓市回暖態勢明朗。 資料顯示，5月1日至5日，廣州一手住宅市場熱度顯著提升，全市一手樓盤日均到訪量8692組次，同比增長30.8%，日均認購量634套，同比增長50.1%。二手住宅市場保持平穩增長。假期日均帶看人次、日均認購量較4月分別增長15.6%、5.2%，認購量同比增長63.4%，同時二手房新增掛牌量有所回落。（新華社）"
-    },
-    {
-      "id": "4862805",
-      "time": "2026-05-06 14:55:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：漢坦病毒暴發的郵輪將停靠在西班牙特內里費島。"
-    },
-    {
-      "id": "4862804",
-      "time": "2026-05-06 14:55:01",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印度Nifty 50指數<.NSEI>回吐全部漲幅，最新下跌0.01%。"
-    },
-    {
-      "id": "4862802",
-      "time": "2026-05-06 14:54:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "【“五一”假期全國民航運輸旅客1054萬人次 航班正常率達97.2%】記者從民航局瞭解到，2026年“五一”假期期間（5月1日～5日），全國民航累計運輸旅客1054萬人次，日均211萬人次；航班正常率達97.2%，同比增長7.2個百分點。（中國民航報）"
     }
   ]
 }
