@@ -1,7 +1,138 @@
 {
-  "updated": "2026-05-13 21:46:28",
-  "count": 15112,
+  "updated": "2026-05-13 21:49:52",
+  "count": 15123,
   "items": [
+    {
+      "id": "te:markets:550385",
+      "time": "2026-05-13 21:49:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Falls on Hawkish Fed Outlook — The S&P/TSX Composite Index fell more than 0.5% to trade below 34,500 on Wednesday amid expectations of restrictive monetary policy and high energy prices. The stalling of US-Iran peace talks this week reduced expectations for a reopening of the Strait of Hormuz. Concerns over broader stagflation pressures and higher bond yields continued to weigh on banks and the broader market. BMO and the Royal Bank of Canada shed near 0.5%. Meanwhile, gold prices extended declines after higher-than-expected US producer prices reinforced expectations of tighter Federal Reserve policy, pressuring mining stocks. Agnico Eagle and Barrick were down nealy 2%. In other news, Equinox Gold lost near 5% after it announced plans to acquire Orla Mining (-2%) in a deal that would create a North America-focused gold producer with an implied market value of roughly $18.5 billion. Boyd Group gained near 1% after it reported a 28% increase in first-quarter sales, though results slightly missed forecasts."
+    },
+    {
+      "id": "te:markets:550384",
+      "time": "2026-05-13 21:49:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Nuclear Energy Index Hits 4-week Low — Nuclear Energy Index decreased to 52.60 USD, the lowest since April 2026. Over the past 4 weeks, Nuclear Energy Index lost 0.53%, and in the last 12 months, it increased 86.19%."
+    },
+    {
+      "id": "4878116",
+      "time": "2026-05-13 21:48:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【方程豹豹5/8閃充版正式上市，SHARK皮卡品牌併入方程豹序列】5月13日，比亞迪方程豹宣佈豹5、豹8閃充版同步上市，加大硬派越野市場佈局。 新車限時權益價分別為29.98萬元及40.98萬元，新車核心升級在於搭載800V高壓閃充平臺與第二代刀片電池，綜合續航里程均超1300公里，補能效率大幅提升。"
+    },
+    {
+      "id": "4878115",
+      "time": "2026-05-13 21:48:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗勞工部長表示：我國必須將原油國內銷售量降至零。"
+    },
+    {
+      "id": "mkt:019e2199-0478-7eee-bb64-615e99fa1700",
+      "time": "2026-05-13 21:48:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Alibaba",
+        "BABA.N"
+      ],
+      "text": "ALIBABA UP MORE THAN 2% AFTER FALLING ABOUT 3% EARLIER IN THE SESSION"
+    },
+    {
+      "id": "4878114",
+      "time": "2026-05-13 21:48:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "聯邦快遞：股東每持有2股聯邦快遞股票將獲發1股聯邦快遞貨運公司股份。"
+    },
+    {
+      "id": "4878113",
+      "time": "2026-05-13 21:48:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "聯邦快遞貨運部門將於2026年6月1日以股票程式碼“FDXF”在紐約證券交易所開始交易。"
+    },
+    {
+      "id": "4878112",
+      "time": "2026-05-13 21:48:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數跌幅擴大至盤中低點0.2%。"
+    },
+    {
+      "id": "4878111",
+      "time": "2026-05-13 21:47:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "路透社調查：2026年英國通脹平均率為3.2%，經濟增速為0.8%（4月調查預期分別為3.2%、0.7%）。"
+    },
+    {
+      "id": "4878110",
+      "time": "2026-05-13 21:47:47",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "路透調查：56位經濟學家中有27位認為，英國央行今年將維持銀行利率在3.75%不變；7位經濟學家預計利率至少降息一次，22位經濟學家預計利率至少加息一次。"
+    },
+    {
+      "id": "4878109",
+      "time": "2026-05-13 21:47:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【英國一1700人郵輪疑暴發腸胃疾病 暫未同漢坦病毒關聯】法國電視一臺13日報道，一艘英國公司的郵輪12日晚抵達法國西南城市波爾多，船上疑似暴發腸胃疾病，目前乘客和船員約1700人被限制下船。法國電視一臺報道，郵輪上一名約90歲乘客疑似因“腸胃炎類疾病”在途中死亡，另有50人出現消化道感染症狀。（新華社）"
+    },
+    {
+      "id": "mkt:019e2198-0e2e-7eee-bb64-59ad6e2c60c6",
+      "time": "2026-05-13 21:47:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "S&P500",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "S&P 500 EXTENDS DECLINE TO SESSION-LOW 0.2%"
+    },
+    {
+      "id": "4878108",
+      "time": "2026-05-13 21:47:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "阿里巴巴轉漲超2%，盤初曾下跌約3%。"
+    },
+    {
+      "id": "4878107",
+      "time": "2026-05-13 21:46:46",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "馬斯克、黃仁勳等隨特朗普抵京畫面。（中新網）"
+    },
     {
       "id": "mkt:019e2196-bd95-7eee-bb64-52f19e4e507d",
       "time": "2026-05-13 21:46:27",
@@ -10,6 +141,14 @@
         "Important"
       ],
       "text": "NASDAQ 100 TURNS NEGATIVE"
+    },
+    {
+      "id": "4878106",
+      "time": "2026-05-13 21:46:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克 100 指數轉跌。"
     },
     {
       "id": "4878105",
@@ -135381,38 +135520,6 @@
         "國際"
       ],
       "text": "美聯儲穆薩萊姆：貨幣政策獨立是寶貴資產。"
-    },
-    {
-      "id": "4863842",
-      "time": "2026-05-06 21:49:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "【費城半導體指數盤初續漲超3%】費城半導體指數盤初續漲超3%，年內累漲60%；AMD績後暴漲超19%，ARM漲近9%，泛林集團漲超6%，臺積電漲近5%，英特爾漲超3%，美光科技、英偉達漲超2%。"
-    },
-    {
-      "id": "4863841",
-      "time": "2026-05-06 21:47:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄稱扎波羅熱核電站所在地一行政大樓遭襲起火】當地時間5月6日，俄方任命的埃涅爾戈達爾市市長普霍夫稱，該市行政大樓當天遭烏克蘭軍方襲擊，一間辦公室起火。他表示，該大樓近期持續受到烏方“針對性和系統性”打擊。埃涅爾戈達爾市是扎波羅熱核電站所在地。烏方對此暫無回應。（央視新聞）"
-    },
-    {
-      "id": "4863840",
-      "time": "2026-05-06 21:46:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國透過巴基斯坦釋放伊朗船員。"
-    },
-    {
-      "id": "4863839",
-      "time": "2026-05-06 21:46:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "法國總統府：法國及其合作伙伴有能力確保霍爾木茲海峽的安全。"
     }
   ]
 }
