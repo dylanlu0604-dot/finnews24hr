@@ -1,7 +1,80 @@
 {
-  "updated": "2026-05-14 01:25:25",
-  "count": 15338,
+  "updated": "2026-05-14 01:28:48",
+  "count": 15342,
   "items": [
+    {
+      "id": "4878438",
+      "time": "2026-05-14 01:28:19",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲卡什卡里：霍爾木茲海峽將封閉多久目前仍是一個巨大的未知數，這會對通脹產生重大影響。"
+    },
+    {
+      "id": "mkt:019e2261-d315-7dd0-a6a8-0bf57537ef5a",
+      "time": "2026-05-14 01:28:16",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "KASHKARI: A HUGE QUESTION MARK ABOUT HOW LONG HORMUZ STRAIT WILL BE CLOSED, THAT WILL HAVE A BIG EFFECT ON INFLATION"
+    },
+    {
+      "id": "4878436",
+      "time": "2026-05-14 01:27:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗副外長：霍爾木茲海峽通航將實行收費制。"
+    },
+    {
+      "id": "4878435",
+      "time": "2026-05-14 01:27:28",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲卡什卡里：通脹水平過高。"
+    },
+    {
+      "id": "mkt:019e2261-48e4-7dd0-a6a8-059a4bcc2499",
+      "time": "2026-05-14 01:27:27",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "FED'S KASHKARI: INFLATION TOO HIGH"
+    },
+    {
+      "id": "mkt:019e2260-fabd-7dd0-a6a7-f84a1b681bf1",
+      "time": "2026-05-14 01:27:21",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "IRANIAN DEPUTY FOREIGN MINISTER: NAVIGATION THROUGH THE STRAIT OF HORMUZ WILL BE SUBJECT TO FEES"
+    },
+    {
+      "id": "4878434",
+      "time": "2026-05-14 01:26:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗外長：科威特“非法”攻擊伊朗船隻並扣押伊公民】伊朗外長阿拉格齊當地時間13日晚對外表示，科威特“非法”攻擊了一艘伊朗船隻，並扣押了4名伊朗公民。他要求科方立即釋放扣押人員，並稱伊朗“保留採取回應措施的權利”。科威特方面對此暫無官方回應。 （央視新聞）"
+    },
     {
       "id": "4878432",
       "time": "2026-05-14 01:23:25",
@@ -137638,30 +137711,6 @@
         "國際"
       ],
       "text": "西方石油公司：受中東戰事擾亂物流影響，硫磺銷售業務預計將於 2026 年下半年恢復正常。"
-    },
-    {
-      "id": "4864062",
-      "time": "2026-05-07 01:27:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：將從伊朗獲得鈾。"
-    },
-    {
-      "id": "4864061",
-      "time": "2026-05-07 01:27:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "西方石油公司：阿聯酋阿爾霍斯油田的運營受限情況始於 3 月中旬，預計將在二季度末前恢復正常。"
-    },
-    {
-      "id": "4864060",
-      "time": "2026-05-07 01:26:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "據以色列Now 14新聞報道，真主黨拉德萬部隊指揮官馬爾基·布盧特在貝魯特身亡。"
     }
   ]
 }
