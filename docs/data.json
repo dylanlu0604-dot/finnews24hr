@@ -1,7 +1,69 @@
 {
-  "updated": "2026-05-14 07:32:47",
-  "count": 15384,
+  "updated": "2026-05-14 07:36:17",
+  "count": 15388,
   "items": [
+    {
+      "id": "te:markets:550453",
+      "time": "2026-05-14 07:36:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Steadies as Markets Watch Trump-Xi Talks — Brent crude futures steadied above $105 per barrel on Thursday, pausing their recent advance as investors shifted focus to the upcoming meeting between US President Donald Trump and Chinese President Xi Jinping. The leaders are expected to center discussions on trade rather than tensions surrounding the Iran war, although Washington recently intensified pressure on Tehran by threatening banks and imposing fresh sanctions on entities involved in Iranian oil sales to China, the largest importer of its crude. Meanwhile, the US Energy Information Administration reported that crude oil and fuel flows through the Strait of Hormuz declined by nearly 6 million barrels per day in the first quarter after the Middle East conflict erupted in late February. The IEA also warned that the global oil market is likely to remain heavily undersupplied until October even if the conflict ends next month, while Saudi Arabia informed OPEC that its oil output fell to the lowest level since 1990"
+    },
+    {
+      "id": "te:markets:550452",
+      "time": "2026-05-14 07:35:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Steadies as Markets Watch Trump-Xi Talks — WTI crude futures steadied around $101 per barrel on Thursday, pausing their recent advance as investors shifted focus to the upcoming meeting between US President Donald Trump and Chinese President Xi Jinping. The leaders are expected to center discussions on trade rather than tensions surrounding the Iran war, although Washington recently intensified pressure on Tehran by threatening banks and imposing fresh sanctions on entities involved in Iranian oil sales to China, the largest importer of its crude. Meanwhile, the US Energy Information Administration reported that crude oil and fuel flows through the Strait of Hormuz declined by nearly 6 million barrels per day in the first quarter after the Middle East conflict erupted in late February. The IEA also warned that the global oil market is likely to remain heavily undersupplied until October even if the conflict ends next month, while Saudi Arabia informed OPEC that its oil output fell to the lowest level since 1990."
+    },
+    {
+      "id": "4878733",
+      "time": "2026-05-14 07:34:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中青報：過半受訪應屆生將求職方向調至不易被AI替代的崗位】近日，中國青年報社社會調查中心聯合問卷網，對1333名應屆畢業生進行了“AI就業季”專題調查。資料顯示，在AI快速發展的背景下，91.1%的受訪應屆生調整了求職規劃，超六成受訪應屆生會分析AI相關崗位要求，針對性準備簡歷和麵試。對於AI時代企業的選人用人，64.1%的受訪應屆生期待企業注重人才培養，提供完善的崗前培訓與成長支援。"
+    },
+    {
+      "id": "4878732",
+      "time": "2026-05-14 07:33:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【FOF總規模突破3500億元 偏債混合型FOF成主要增量】5月13日，僅售一天的易方達如意安惠6個月持有FOF（基金中的基金）公告成立，募集規模高達32.98億元。對FOF發行來說，這一規模不小，在年內成立的FOF規模中也能擠進前十。隨著這些大規模FOF的出現，截至5月13日，FOF總規模已突破3500億元，年內新增規模突破1000億元。證券時報記者採訪獲悉，FOF蓬勃發展的背後，頭部公募和銀行等渠道展現出了強大的獲客能力，透過FOF的多元配置特點承接了增量大類配置資金。策略創新將會成為FOF未來發力點，如“固收+”策略的偏債混FOF。"
+    },
+    {
+      "id": "4878731",
+      "time": "2026-05-14 07:33:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：05月14日07時16分在新疆阿克蘇地區沙雅縣（北緯40.61度，東經82.74度）發生3.3級地震，震源深度20千米。"
+    },
+    {
+      "id": "4878730",
+      "time": "2026-05-14 07:32:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【一季度深圳新登記經營主體近12萬戶】從深圳市市場監督管理局獲悉，截至今年一季度末，深圳市經營主體總數為465.25萬戶，同比增長4.75%。其中企業295.04萬戶，同比增長7.11%；個體工商戶170.21萬戶，同比增長0.88%。新登記經營主體11.98萬戶，同比增長6.79%。亮麗的資料，彰顯出深圳對創業和投資者落地發展的吸引力，良好營商環境也讓深圳商事經營主體動能澎湃。（深圳特區報）"
+    },
+    {
+      "id": "4878729",
+      "time": "2026-05-14 07:32:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "百濟神州：百悅達獲美國FDA批准成為美國首款且目前唯一治療復發╱難治套 細胞淋巴瘤的BCL2抑制劑。"
+    },
     {
       "id": "4878728",
       "time": "2026-05-14 07:29:23",
@@ -138330,32 +138392,6 @@
         "其他"
       ],
       "text": "【男子腿綁475支減肥針劑入境被查，海關提醒】近日，在廣東珠海市拱北口岸旅檢大廳，海關查獲一名男子非法攜帶減肥針劑入境。當天，這名宋姓男子進境時，海關工作人員發現他所攜帶的行李機檢影象異常，立即對其進行攔截。工作人員從宋某的包內，查獲了650支走私減肥針劑。此外，宋某的大腿、小腿等部位還捆綁了475支針劑，走私減肥針劑共1125支。海關對這批針劑進行了扣押，案件正在進一步處理中。海關提醒，此類減肥針劑多為未獲批准的處方藥，存在極高健康風險。進出境旅客應自覺遵守海關監管規定，切勿非法攜帶違禁品或未申報物品入境。"
-    },
-    {
-      "id": "4864351",
-      "time": "2026-05-07 07:35:49",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "陸金所：收到紐約證券交易所關於其符合上市標準的通知。已按時向美國證券交易委員會提交定期檔案，將從紐約證券交易所的延遲提交檔案公司名單中移除。"
-    },
-    {
-      "id": "4864350",
-      "time": "2026-05-07 07:33:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "【FF宣佈暫停原Super One 400V車型合作專案，改為800V架構】北京時間5月7日，法拉第未來（NASDAQ: FFAI）宣佈，公司計劃升級FX Super One為800V版本或加速AIHER混增專案，同時暫停原Super One 400V車型合作專案。更新後的交付時間表為：在必要資金到位後，Super One 800V純電車型預計將在6至9個月內實現第一階段交付，12至15個月內實現第二階段交付，21至24個月內實現第三階段交付；AIHER混增車型預計將在9至12個月內實現第一階段交付，21至24個月內實現第二階段交付，24至28個月內實現第三階段交付。"
-    },
-    {
-      "id": "4864349",
-      "time": "2026-05-07 07:33:35",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【Arm Holdings新晶片需求旺盛 但供應不足】Arm Holdings表示，預計其新系列電腦晶片的需求將走高，但該公司維持對這些晶片的收入預期不變，同時正努力提高供應。這家英國半導體公司曾在3月份表示，預計到2028年初將售出價值10億美元的晶片。該公司週三稱，其需求預測已增長一倍，達到20億美元，但表示供應不足，無法滿足新的訂單需求。執行長雷內·哈斯(Rene Haas)在一次分析師電話會議上說：“我們在3月底談到的數字是，現有供應可支援10億美元的需求。這包括記憶體、晶圓、封裝，以及獲取測試裝置。因此，對於20億美元的需求，我們現在正在確保供應以支援這一需求。”他補充說：“公司正在夜以繼日地工作，以確保我們能為客戶找到正確的答案。”Arm仍預計，這些晶片的收入將從當前財政年度的第四財季開始入賬。高管們在電話會議上表示，預計今年每個季度運營支出將環比增長几個百分點，部分歸因於供應鏈的建設。該公司預計，到該財年底，收入增速將超過運營支出增速。該公司股價在收盤時上漲近28%，但在隨後的電話會議後下跌7.2%，至220.18美元。"
     }
   ]
 }
