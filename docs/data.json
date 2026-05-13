@@ -1,7 +1,75 @@
 {
-  "updated": "2026-05-13 23:49:52",
-  "count": 15257,
+  "updated": "2026-05-13 23:53:24",
+  "count": 15262,
   "items": [
+    {
+      "id": "4878316",
+      "time": "2026-05-13 23:53:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "LME三個月期鋁觸及3690美元/噸，創下自2022年3月以來的最高水平，目前漲幅3.1%。"
+    },
+    {
+      "id": "4878315",
+      "time": "2026-05-13 23:51:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【渣打：日本或需更多幹預以抑制日元空頭情緒】渣打策略師Steve Englander和Nicholas Chia週三在客戶報告中寫道，美元兌日元重返接近158水平，表明如果東京方面希望遏制市場對日元的做空情緒，可能需要進一步進行干預。策略師表示，日本當局可能已在150區間高位至160之間為日元重新劃定了一道防線。"
+    },
+    {
+      "id": "mkt:019e2208-e0c1-7dd0-a6a6-9c95dbcd3b19",
+      "time": "2026-05-13 23:50:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "REP. MALLIOTAKIS PLANS TO UNVEIL GAS TAX HOLIDAY BILL: POLITICO"
+    },
+    {
+      "id": "te:markets:550403",
+      "time": "2026-05-13 23:50:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "European Stocks Rebound — European stocks closed firmly higher on Wednesday, halting four consecutive sessions of losses amid a rebound in the tech sector and stability for banks. The Eurozone's STOXX 50 added 1% to 5,870 and the STOXX 600 gained 0.7% to 611. A sharp rebound in European AI stocks matched the momentum for their US counterparts in the last session as US chip producer CEOs were due to meet with Chinese officials for potential trade agreements. Infineon surged over 10% after receiving broker upgrades, ASML jumped 5%, and Prosus added 4%. Meanwhile, a busy session for German earnings included results by Siemens, which missed revenue estimates but closed slightly higher after launching a share buyback program. Also, Allianz climbed 1.3% after reporting record first-quarter earnings and profit. Merck surged 7.3% after posting a smaller-than-expected decline in earnings and raising its 2026 guidance outlook."
+    },
+    {
+      "id": "mkt:019e2208-90b8-7dd0-a6a6-902ff154411b",
+      "time": "2026-05-13 23:50:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NASA, SPACEX TARGET MAY 13 FOR RESUPPLY MISSION LAUNCH"
+    },
+    {
+      "id": "te:economy:550402",
+      "time": "2026-05-13 23:50:29",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "France",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "France 10Y Bond Yield Hits 6-week High — France 10 Year Government Bond Yield increased to 3.88%, the highest since March 2026. Over the past 4 weeks, France 10Y Bond Yield gained 7.30 basis points, and in the last 12 months, it increased 35.05 basis points."
+    },
+    {
+      "id": "mkt:019e2208-4298-7dd0-a6a6-8c3c79e28543",
+      "time": "2026-05-13 23:50:27",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "LME THREE MONTH ALUMINIUM HITS $3,690/T, HIGHEST SINCE MARCH 2022, LAST UP 3.1%"
+    },
     {
       "id": "4878314",
       "time": "2026-05-13 23:48:57",
@@ -136831,23 +136899,6 @@
         "國際"
       ],
       "text": "【哈塞特稱白宮考慮設立AI模型審查機制 防範網路安全風險】白宮國家經濟委員會主任凱文·哈塞特週三表示，白宮正研究一項行政令，擬為Anthropic PBC的Mythos等新人工智慧模型建立審查機制，以保護企業和政府網路免受AI相關網路安全風險。“我們正在研究，可能透過一項行政令，為各方提供清晰路徑，以及未來那些可能出現漏洞的AI應當遵循怎樣的程式，確保它們在被證明安全後才能像經FDA批准的藥物一樣推出，”哈塞特對福克斯新聞說。新舉措醞釀之際，Anthropic數週前披露其突破性模型Mythos擅長髮現網路漏洞，並可能構成全球網路安全風險。目前該模型僅向少數大型科技和金融公司開放，特朗普政府也在推動其向聯邦機構開放以測試政府系統。哈塞特週三對此予以確認。"
-    },
-    {
-      "id": "4863994",
-      "time": "2026-05-06 23:53:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "黎巴嫩議會議長貝里：我與共和國總統、內閣總理之間的關係穩固，且對鞏固局勢穩定至關重要。 在當前形勢下，我們依靠內部團結和阿拉伯國家的支援。 儘管真主黨恪守停火協議，但以色列仍違反了該協議。"
-    },
-    {
-      "id": "4863993",
-      "time": "2026-05-06 23:51:20",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "卡夫亨氏執行長：業績好於預期得益於市場份額增長，若通脹壓力持續不減，企業將採取對沖操作，應對2027年及之後成本大幅走高的風險。今年大部分時間裡，我們已經採取了相當有效的對沖措施來應對油價上漲的影響。 我們一直在審視最佳化旗下業務組合，未來不排除進行業務增補或剝離調整。"
     }
   ]
 }
