@@ -1,7 +1,81 @@
 {
-  "updated": "2026-05-14 02:51:24",
-  "count": 15455,
+  "updated": "2026-05-14 02:54:56",
+  "count": 15462,
   "items": [
+    {
+      "id": "mkt:019e22b1-114b-7dd0-a6a9-fa51fc03308e",
+      "time": "2026-05-14 02:54:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. DEPT OF HOMELAND SECURITY: U.S. COAST GUARD FINALIZED A $3.5 BLN CONTRACT WITH DAVIE DEFENSE FOR THE CONSTRUCTION AND DELIVERY OF FIVE ARCTIC SECURITY CUTTERS"
+    },
+    {
+      "id": "mkt:019e22b0-f848-7dd0-a6a9-f0cf6b8660dd",
+      "time": "2026-05-14 02:54:43",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "VANCE ON IRAN TALKS: THINK WE ARE MAKING PROGRESS"
+    },
+    {
+      "id": "4878586",
+      "time": "2026-05-14 02:54:42",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國國土安全部：美國海岸警衛隊已與戴維防務公司敲定一份價值35億美元的合同，由該公司建造並交付五艘北極安全巡邏艦。"
+    },
+    {
+      "id": "4878585",
+      "time": "2026-05-14 02:54:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "萬斯談伊朗談判：我們認為目前正在取得進展。"
+    },
+    {
+      "id": "4878582",
+      "time": "2026-05-14 02:54:07",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院：若古巴政府允許，美國準備向古巴民眾提供1億美元直接援助。"
+    },
+    {
+      "id": "mkt:019e22af-e4b8-7dd0-a6a9-ec697560ceb5",
+      "time": "2026-05-14 02:53:30",
+      "tags": [
+        "MKT News",
+        "NFLX.O",
+        "Impact bullish"
+      ],
+      "text": "NETFLIX SECURES THREE MORE FOOTBALL GAMES IN NEW NFL DEAL - WSJ"
+    },
+    {
+      "id": "mkt:019e22ae-6cc4-7dd0-a6a9-e7e7f1d2b1a9",
+      "time": "2026-05-14 02:51:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Hot",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Policy",
+        "Breaking News 24h",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Senate Confirms Kevin Warsh as Fed Chair in Closest Vote on Record】The Senate confirmed Kevin Warsh as Federal Reserve chair in a 54-45 vote, the narrowest confirmation margin for a Fed leader on record. The vote came amid concerns over persistent inflation and political pressure from President Donald Trump for lower interest rates. Warsh, who will succeed Jerome Powell on Friday, pledged to preserve the Fed’s monetary policy independence during his confirmation hearing. The confirmation followed stronger-than-expected April producer inflation data and growing debate inside the Fed over whether future rate moves could include hikes as well as cuts."
+    },
     {
       "id": "4878579",
       "time": "2026-05-14 02:50:54",
