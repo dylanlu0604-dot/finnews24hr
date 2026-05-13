@@ -1,7 +1,36 @@
 {
-  "updated": "2026-05-13 13:18:11",
-  "count": 14964,
+  "updated": "2026-05-13 13:21:34",
+  "count": 14966,
   "items": [
+    {
+      "id": "te:economy:550216",
+      "time": "2026-05-13 13:20:06",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Economy Watchers Survey",
+        "Importance 1"
+      ],
+      "text": "Japan Services Sentiment Drops to Over 4-Year Low — Japan’s services sector sentiment index fell to 40.8 in April 2026 from 42.2 in the prior month, missing market expectations of 41.6 and marking the lowest reading since February 2022. The decline also extended losses for a second straight month, highlighting a sluggish domestic recovery amid rising uncertainty linked to tensions in the Middle East. Household-related indicators weakened notably, suggesting softer spending conditions as consumers turned more cautious amid higher living costs and external risks. The corporate activity index also declined, pressured mainly by weakness in the non-manufacturing sector, while employment conditions deteriorated further, signaling slower hiring momentum among service-sector firms. Meanwhile, the economic outlook index, which measures sentiment for the months ahead, edged up to 39.4 from March’s more than five-month low of 38.7, indicating some expectations that conditions could stabilize despite persistent uncertainty."
+    },
+    {
+      "id": "4876956",
+      "time": "2026-05-13 13:19:31",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【算力租賃概念午後持續拉昇 資料港漲停】算力租賃概念午後持續拉昇，資料港漲停，此前潤建股份、城地香江、奧瑞德、中嘉博創漲停，宏景科技、潤澤科技、平治資訊、網宿科技、協創資料均漲超10%，東陽光、大位科技、美利雲跟漲。"
+    },
+    {
+      "id": "4876955",
+      "time": "2026-05-13 13:18:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗處決一名被控為以色列摩薩德從事間諜活動的男子。"
+    },
     {
       "id": "4876954",
       "time": "2026-05-13 13:17:17",
@@ -133676,16 +133705,6 @@
         "公司"
       ],
       "text": "【騰達科技：對全部產品進行價格上調】騰達科技釋出調價通知，根據當前原材料及市場行情，公司決定於5月6日下午13時對全部產品進行價格上調，線上騰達優購系統同步執行。"
-    },
-    {
-      "id": "4862650",
-      "time": "2026-05-06 13:21:15",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【英偉達中國份額降至0 國產晶片、儲存集體暴漲：海光、寒武紀等創歷史新高】美國晶片管制讓英偉達在中國市場份額降直接從66%銳減至0%，而國產晶片也因此受益。 在上述訊息影響下，國產晶片集體出現了暴漲。 今日早盤，科創50指數持續走強，盤中拉昇漲超8%，海光資訊、寒武紀、瀾起科技、佰維儲存、中芯國際、華虹公司、中微公司等權重股大幅走強。 其中，寒武紀大漲超13%，最新股價報1933.22元/股，而海光資訊直接20%漲停，股價雙雙創新高。（科工力量）"
     }
   ]
 }
