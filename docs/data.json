@@ -1,7 +1,101 @@
 {
-  "updated": "2026-05-14 01:01:33",
-  "count": 15327,
+  "updated": "2026-05-14 01:04:57",
+  "count": 15337,
   "items": [
+    {
+      "id": "4878410",
+      "time": "2026-05-14 01:04:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "匈牙利總理毛焦爾：匈牙利將釋放更多燃油儲備。"
+    },
+    {
+      "id": "4878409",
+      "time": "2026-05-14 01:04:19",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "納斯達克100指數漲幅擴大至1%。"
+    },
+    {
+      "id": "mkt:019e224b-a112-7dd0-a6a7-b95067193174",
+      "time": "2026-05-14 01:03:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NETANYAHU SAYS HE MET WITH EMIRATI PRESIDENT DURING IRAN WAR -STATEMENT"
+    },
+    {
+      "id": "4878408",
+      "time": "2026-05-14 01:03:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡在一份宣告中稱，伊朗戰爭期間他曾與阿聯酋總統會面。"
+    },
+    {
+      "id": "4878407",
+      "time": "2026-05-14 01:02:46",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國30年期國債收益率下降5.046%，高於預售時的5.041%。"
+    },
+    {
+      "id": "mkt:019e224b-52e2-7dd0-a6a7-b472f1847e48",
+      "time": "2026-05-14 01:02:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ISRAEL'S NETANYAHU VISITED THE UAE DURING THE WAR, PM’S OFFICE SAYS"
+    },
+    {
+      "id": "4878406",
+      "time": "2026-05-14 01:02:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理辦公室稱，以色列總理內塔尼亞胡在戰爭期間訪問了阿聯酋。"
+    },
+    {
+      "id": "4878405",
+      "time": "2026-05-14 01:02:24",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國30年期國債投標倍數為2.30，非競爭性投標金額為6232萬美元。一級交易商認購了本次30年期美債發售總額的11.66%，直接認購者認購佔比為21.74%，間接認購者佔比為66.6%。"
+    },
+    {
+      "id": "mkt:019e224a-25af-7dd0-a6a7-aba73a3013e9",
+      "time": "2026-05-14 01:02:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 30-Year Bid/Cover Ratio (May.13) | actual 2.3 | previous 2.39"
+    },
+    {
+      "id": "mkt:019e224a-25ae-7dd0-a6a7-a1ef76ae3a2d",
+      "time": "2026-05-14 01:02:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 30-Year Bond Auction High Yield Rate (May.13) | actual 5.046% | previous 4.876%"
+    },
+    {
+      "id": "mkt:019e224a-25ab-7dd0-a6a7-9f8ddb8fcad5",
+      "time": "2026-05-14 01:02:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 30-Year Bond Auction Accepted at High (May.13) | actual 72.06% | previous 15.44%"
+    },
     {
       "id": "4878401",
       "time": "2026-05-14 01:00:14",
@@ -137531,18 +137625,6 @@
         "Importance 1"
       ],
       "text": "McDonalds Stock Price Hits 15-month Low — McDonalds shares decreased to 283.00 USD, the lowest since January 2025. Over the past 4 weeks, McDonalds lost 7.15%, and in the last 12 months, it decreased 11.03%."
-    },
-    {
-      "id": "te:markets:548465",
-      "time": "2026-05-07 01:02:30",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Abbott Stock Price Hits 6-year Low — Abbott shares decreased to 86.16 USD, the lowest since April 2020. Over the past 4 weeks, Abbott lost 15.36%, and in the last 12 months, it decreased 35.66%."
     }
   ]
 }
