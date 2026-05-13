@@ -1,7 +1,109 @@
 {
-  "updated": "2026-05-13 08:00:40",
-  "count": 14886,
+  "updated": "2026-05-13 08:04:05",
+  "count": 14892,
   "items": [
+    {
+      "id": "4876027",
+      "time": "2026-05-13 08:03:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星電子：將透過真誠對話，竭盡全力防止最壞情況發生。"
+    },
+    {
+      "id": "4876026",
+      "time": "2026-05-13 08:03:16",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "資生堂股價在公佈第一季度財報後一度下跌5.6%。"
+    },
+    {
+      "id": "4876025",
+      "time": "2026-05-13 08:02:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星：對調解談判破裂表示遺憾，將努力繼續與工會進行談判。"
+    },
+    {
+      "id": "4876024",
+      "time": "2026-05-13 08:02:25",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數下跌2.1%，至7481.70點。"
+    },
+    {
+      "id": "4876023",
+      "time": "2026-05-13 08:02:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本電產股票因賣單過量暫停交易。"
+    },
+    {
+      "id": "4876022",
+      "time": "2026-05-13 08:01:58",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "韓國晶片股早盤走低，三星電子股價跌5%。"
+    },
+    {
+      "id": "te:economy:550111",
+      "time": "2026-05-13 08:01:42",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Loan Growth",
+        "Importance 1"
+      ],
+      "text": "Japan Bank Lending Growth Highest Since 2021 — Japan’s bank lending rose by 5.4% year-on-year in April 2026, surpassing market expectations of a 4.6% increase and accelerating from a 4.8% gain in the previous month. The latest figure also marked the fastest growth since March 2021. Total outstanding loans across major, regional, and shinkin banks reached JPY 671 trillion. Major banks led the expansion with an 8% increase, followed by regional banks at 4.3%. Meanwhile, shinkin banks, local cooperative lenders serving small businesses and communities, saw a more modest 1.6% rise, reflecting weaker credit demand in certain segments of the economy."
+    },
+    {
+      "id": "4876021",
+      "time": "2026-05-13 08:01:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【停火協議結束 俄烏繼續軍事行動】俄羅斯國防部12日通報稱，當地時間11日24時停火協議結束，俄武裝部隊繼續開展特別軍事行動。俄軍對56個區域的烏軍軍用機場、彈藥庫、燃料庫等目標實施了打擊，擊落108架固定翼無人機。烏克蘭武裝部隊總參謀部12日通報稱，過去一天前線地區發生174次戰鬥，烏軍在多個方向擊退俄軍進攻，擊落俄軍1252架無人機。"
+    },
+    {
+      "id": "te:economy:550110",
+      "time": "2026-05-13 08:01:13",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Current Account",
+        "Importance 2"
+      ],
+      "text": "Japan Current Account Surplus Hit Record High — Japan’s current account surplus increased to JPY 4,681.5 billion in March 2026 from JPY 3,625.3 billion in the same month a year earlier, surpassing market expectations of JPY 3,879 billion and marking the largest amount on record. The goods account surplus surged to JPY 830.5 billion from JPY 611.3 billion in the prior year, as export growth (11.7%) outpaced imports (10.0%). Also, the primary income surplus widened to JPY 4,630.7 billion from JPY 3,832.6 billion. Meantime, Meanwhile, the secondary income deficit narrowed to JPY 522.0 billion from JPY 778.9 billion, while the services account deficit widened sharply to JPY 257.8 billion from JPY 39.8 billion. At the same time, the services account deficit increased significantly to JPY 257.8 billion from JPY 39.8 billion."
+    },
+    {
+      "id": "4876020",
+      "time": "2026-05-13 08:01:04",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行週三表示，4月銀行放款餘額較上年同期增長5.4%。包括“信金”銀行在內的四大類銀行放款總額為670.647萬億日元(4.26萬億美元)。"
+    },
+    {
+      "id": "4876019",
+      "time": "2026-05-13 08:00:38",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）開盤下跌1.7%，至7513.65點。"
+    },
     {
       "id": "4876018",
       "time": "2026-05-13 08:00:21",
@@ -132694,48 +132796,6 @@
         "國際"
       ],
       "text": "韓國KOSPI指數上漲5%，至7285.34。"
-    },
-    {
-      "id": "4862197",
-      "time": "2026-05-06 08:02:53",
-      "tags": [
-        "市場"
-      ],
-      "text": "MSCI亞太指數上漲1%至263.96點。"
-    },
-    {
-      "id": "4862196",
-      "time": "2026-05-06 08:02:37",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "三星股價上漲9.5%，市值突破1萬億美元，受益於記憶體晶片熱潮。"
-    },
-    {
-      "id": "4862195",
-      "time": "2026-05-06 08:01:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "首爾股市韓國綜合股價指數首次突破7000點。"
-    },
-    {
-      "id": "4862194",
-      "time": "2026-05-06 08:01:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "SK海力士股價漲幅超9%，創下歷史新高。"
-    },
-    {
-      "id": "4862193",
-      "time": "2026-05-06 08:00:43",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數（KOSPI）開盤上漲2.2%，至7093.01點。日本市場今日休市。"
     }
   ]
 }
