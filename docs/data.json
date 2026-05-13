@@ -1,7 +1,15 @@
 {
-  "updated": "2026-05-14 04:24:29",
-  "count": 15437,
+  "updated": "2026-05-14 04:27:58",
+  "count": 15434,
   "items": [
+    {
+      "id": "4878624",
+      "time": "2026-05-14 04:27:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "阿聯酋外交部否認有關內塔尼亞胡訪問阿聯酋的報道。"
+    },
     {
       "id": "4878623",
       "time": "2026-05-14 04:21:24",
@@ -138728,48 +138736,6 @@
         "公司"
       ],
       "text": "可口可樂公司第一季度調整後每股收益為1.79美元。"
-    },
-    {
-      "id": "te:markets:548481",
-      "time": "2026-05-07 04:26:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "MetLife earnings above expectations at 2.42 USD — MetLife (MET) released earnings per share at 2.42 USD, compared to market expectations of 2.2 USD."
-    },
-    {
-      "id": "te:markets:548480",
-      "time": "2026-05-07 04:26:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Realty Income earnings below expectations at 0.33 USD — Realty Income (O) released earnings per share at 0.33 USD, compared to market expectations of 0.39 USD."
-    },
-    {
-      "id": "4864187",
-      "time": "2026-05-07 04:25:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "DoorDash：截至2026年3月31日的三個月，錄得重組費用4800萬美元。"
-    },
-    {
-      "id": "4864186",
-      "time": "2026-05-07 04:24:56",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【國際金融協會稱外資對美國國債的需求趨於停滯】金融業全球性行業組織表示，隨著債務水平攀升，外國投資者開始顯現分散配置、減少對美國國債依賴的跡象。國際金融協會（IIF）週三釋出的報告顯示，今年外國投資者對美國政府債券的淨買入保持穩定，而對日本和歐洲主權債的配置增加。該協會代表約400家銀行、保險公司和資產管理機構。“近期市場發展顯示出投資組合分散的早期跡象，尤其體現在跨境政府證券投資方面，”IIF由Emre Tiftik和Khadija Mahmood等組成的團隊寫道。他們補充稱，“這些趨勢部分反映了債務軌跡的分化”，因為預計美國債務佔GDP比重將繼續上升，而歐洲和日本則處於更為溫和的路徑。"
     }
   ]
 }
