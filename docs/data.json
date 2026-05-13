@@ -1,7 +1,45 @@
 {
-  "updated": "2026-05-13 08:14:14",
-  "count": 14888,
+  "updated": "2026-05-13 08:17:36",
+  "count": 14887,
   "items": [
+    {
+      "id": "4876049",
+      "time": "2026-05-13 08:16:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）擴大跌幅至3%。"
+    },
+    {
+      "id": "te:markets:550113",
+      "time": "2026-05-13 08:16:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Mitsui Stock Price Hits 4-week High — Mitsui shares increased to 6021.00 JPY, the highest since April 2026. Over the past 4 weeks, Mitsui lost 4.04%, and in the last 12 months, it increased 103.99%."
+    },
+    {
+      "id": "4876045",
+      "time": "2026-05-13 08:15:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國提出分階段參與霍爾木茲海峽安全事務】韓國國防部長安圭伯在華盛頓特區向媒體發表講話稱，首爾方面正考慮以“分階段”方式參與保障霍爾木茲海峽安全，並已將這一立場與美方溝通。安圭伯概述了支援霍爾木茲海峽通航正常化的可能步驟，包括表達政治支援、派遣部隊、開展情報共享以及提供軍事資產支援；但目前尚未就擴大部隊參與範圍展開具體討論，因為相關行動需要遵循國內法律程式。"
+    },
+    {
+      "id": "4876040",
+      "time": "2026-05-13 08:14:12",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "【三星與工會獎金談判破裂 官方深表遺憾】三星電子在一份郵件宣告中表示，對工會宣佈獎金髮放談判破裂一事深表遺憾。工會此次決定引發股東及韓國民眾的極大擔憂。三星將盡力繼續與工會磋商，避免事態惡化至最壞局面。另據訊息，韓國財政部長具潤哲也對談判破裂表示 “深感遺憾”。他在社交平臺 X 上發文稱：必須不惜一切代價避免罷工，並補充韓國政府將自始至終給予堅定不移的支援。"
+    },
     {
       "id": "4876039",
       "time": "2026-05-13 08:12:06",
@@ -132703,53 +132741,6 @@
         "國際"
       ],
       "text": "【中信證券：煤價有望超預期 Q2業績彈性也預計將進一步放大】中信證券研報表示，中東地緣衝突以來，國內動力煤需求面臨淡季，但化工耗煤需求或持續釋放，推動煤價小幅上漲，表現好於預期；焦煤價格在供給擾動的預期下，也穩中看漲。煤炭板塊近幾周跟隨中東局勢波動過後，重拾上漲，隨著夏季旺季臨近、海外因素支撐、厄爾尼諾天氣等預期，旺季預期板塊利好因素有望持續疊加，與市場風格輪動形成共振，煤價有望超預期，Q2業績彈性也預計將進一步放大。"
-    },
-    {
-      "id": "te:markets:548040",
-      "time": "2026-05-06 08:17:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Silver Rebounds as US-Iran Tensions Ease — Silver rose above $73.5 an ounce on Wednesday, recouping losses from earlier in the week as signs of de-escalation in the Middle East weighed on oil prices, helping to ease inflation concerns. Defense Secretary Hegseth said the ceasefire established nearly a month ago remains in place, while Secretary of State Rubio confirmed that offensive operations have ended as Washington shifts its focus to securing shipping routes in the Strait of Hormuz. President Trump also announced a temporary pause in a US-led effort to assist stranded vessels in exiting the strait, allowing time to assess whether a deal with Iran to end the conflict can be reached, though the blockade on ships traveling to and from Iranian ports will remain in effect. Silver has come under sustained selling pressure since the start of the conflict, as surging energy costs fueled inflation concerns and strengthened expectations that central banks may keep interest rates higher for longer or even tighten policy further."
-    },
-    {
-      "id": "4862214",
-      "time": "2026-05-06 08:15:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "【五一假期澳門入境旅客約87.3萬人次】澳門特區政府治安警察局6日公佈的資料顯示，五一假期澳門各口岸總通關客流量381.2萬人次，同比增1.6%，其中，入境澳門旅客約87.3萬人次。 從客源地來看，內地、港、臺及外國的旅客分別佔83.0％、10.8％、1.3％及4.9％。資料還顯示，5月2日澳門出入境客流量重新整理三項單日通關紀錄，分別是：總通關客流88.9萬人次、入境旅客24.8萬人次，以及橫琴口岸通關客流近14.8萬人次。"
-    },
-    {
-      "id": "4862213",
-      "time": "2026-05-06 08:15:37",
-      "tags": [
-        "市場"
-      ],
-      "text": "歐元斯托克50指數期貨上漲0.6%，德國DAX指數期貨上漲0.6%，富時指數期貨上漲0.9%。"
-    },
-    {
-      "id": "4862212",
-      "time": "2026-05-06 08:14:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：優步推出機器人計程車服務前，Nuro已獲無人駕駛測試許可。"
-    },
-    {
-      "id": "te:markets:548039",
-      "time": "2026-05-06 08:14:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Futures Gain on Iran Deal Hopes — US stock futures advanced on Wednesday as optimism grew that a deal with Tehran could be within reach, after Washington declared an end to offensive operations against Iran, reaffirmed the ceasefire, and temporarily halted efforts to assist stranded vessels in exiting the Strait of Hormuz. Futures tied to the S&P 500 and Nasdaq 100 climbed 0.4% and 0.8%, respectively, while Dow futures edged up 0.2%. In extended trading, Advanced Micro Devices surged more than 16% after posting stronger-than-expected first-quarter earnings and revenue, along with an upbeat outlook for the current quarter. Super Micro Computer also jumped 18% following robust profit guidance, whereas Arista Networks slid nearly 12% after falling short of margin expectations. Investors now turn to another batch of earnings due Wednesday, including reports from AppLovin, Walt Disney, Uber, CVS Health, and DoorDash. Market participants will also monitor the release of ADP’s private payrolls report for April."
     }
   ]
 }
