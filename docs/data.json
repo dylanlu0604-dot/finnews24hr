@@ -1,7 +1,138 @@
 {
-  "updated": "2026-05-14 02:58:27",
-  "count": 15468,
+  "updated": "2026-05-14 03:02:47",
+  "count": 15469,
   "items": [
+    {
+      "id": "mkt:019e22b6-fd8d-7dd0-a6aa-4edf2ffbf60c",
+      "time": "2026-05-14 03:01:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact mixed",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "ECB'S LANE: DEMAND DESTRUCTION CHANNELS LIMIT THE REQUIRED ADJUSTMENT IN THE MONETARY STANCE, FISCAL EXPANSION DOES OPPOSITE"
+    },
+    {
+      "id": "mkt:019e22b6-ec43-7dd0-a6aa-4265eeea0ca7",
+      "time": "2026-05-14 03:01:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact mixed",
+        "EURUSD",
+        "DXY"
+      ],
+      "text": "ECB'S LANE: FIRM-SIDE AND NEWS-BASED INDICATORS SUGGEST CURRENT ENERGY SHOCK IS UNFOLDING IN A LESS DEMAND-SUPPORTIVE ENVIRONMENT"
+    },
+    {
+      "id": "mkt:019e22b6-e90e-7dd0-a6aa-3b1dd79de7ed",
+      "time": "2026-05-14 03:01:09",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "DXY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "ECB'S LANE: PROPAGATION OF IRAN SHOCK MAY BE MORE CONTAINED THAN IN 2022, BUT STRONGER AND FASTER THAN HISTORICAL AVERAGES"
+    },
+    {
+      "id": "mkt:019e22b6-ce1f-7dd0-a6aa-33237bc7fece",
+      "time": "2026-05-14 03:01:05",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB'S LANE: A MID-SIZE BUT NOT-TOO-PERSISTENT OVERSHOOT COULD WARRANT SOME MEASURED ADJUSTMENT"
+    },
+    {
+      "id": "mkt:019e22b6-c036-7dd0-a6aa-2ad258b9d3a0",
+      "time": "2026-05-14 03:01:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "ECB'S LANE: INCREASE IN SELLING PRICE EXPECTATIONS SUGGESTS INPUT COST PRESSURES WILL MAP INTO HIGHER OUTPUT PRICES IN COMING MONTHS"
+    },
+    {
+      "id": "mkt:019e22b6-adc4-7dd0-a6aa-21fec1ad2122",
+      "time": "2026-05-14 03:00:57",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB'S LANE: IN FACE OF LARGER AND MORE PERSISTENT OVERSHOOT, RESPONSE MUST BE APPROPRIATELY FORCEFUL OR PERSISTENT"
+    },
+    {
+      "id": "mkt:019e22b6-a46e-7dd0-a6aa-187a9d75a819",
+      "time": "2026-05-14 03:00:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ECB'S LANE: OPTIMAL RESPONSE MIGHT BE SMALLER FOR EXOGENOUS SUPPLY DISRUPTION THAN FOR DEMAND SHOCK"
+    },
+    {
+      "id": "4878594",
+      "time": "2026-05-14 03:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收漲1.93%，報26693.41點，高水304.97點。"
+    },
+    {
+      "id": "4878593",
+      "time": "2026-05-14 02:59:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油期貨結算價報每桶105.63美元，下跌2.14美元，跌幅1.99%。"
+    },
+    {
+      "id": "mkt:019e22b5-7392-7dd0-a6aa-1494701cc29e",
+      "time": "2026-05-14 02:59:25",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "VANCE: THE INFLATION NUMBER LAST MONTH WAS NOT GREAT"
+    },
+    {
+      "id": "mkt:019e22b5-23a0-7dd0-a6aa-08b16bc6f3ce",
+      "time": "2026-05-14 02:59:16",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "BRENT CRUDE FUTURES SETTLE AT $105.63/BBL, DOWN $2.14, 1.99 PCT"
+    },
     {
       "id": "4878592",
       "time": "2026-05-14 02:57:45",
@@ -138873,89 +139004,6 @@
         "國際"
       ],
       "text": "特朗普：埃克森美孚與雪佛龍董事長週二晚間到訪白宮。"
-    },
-    {
-      "id": "4864112",
-      "time": "2026-05-07 03:02:43",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "義大利能源巨頭埃尼公司股東批准了由義大利政府提名的董事會成員名單，為現年71歲的執行長克勞迪奧·德斯卡爾齊開啟創紀錄的第五個任期掃清了障礙。"
-    },
-    {
-      "id": "4864111",
-      "time": "2026-05-07 03:02:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：昨晚會見了埃克森美孚董事長。"
-    },
-    {
-      "id": "4864110",
-      "time": "2026-05-07 03:02:11",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "記者：你面對的伊朗對手一直拒絕屈服。\n特朗普：你憑什麼說他們拒絕屈服？你並不清楚實情。\n記者：幾天前他們還向美軍艦艇開火。\n特朗普：幾天前已經是很久以前的事了。他們迫切希望達成協議。"
-    },
-    {
-      "id": "4864109",
-      "time": "2026-05-07 03:01:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我們很有可能與伊朗達成協議。"
-    },
-    {
-      "id": "4864108",
-      "time": "2026-05-07 03:01:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "雙線資本CEO警告私人信貸機構採用實物付息以及期限錯配蘊藏風險。"
-    },
-    {
-      "id": "4864107",
-      "time": "2026-05-07 03:01:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：過去24小時內就伊朗問題進行了非常良好的談判。"
-    },
-    {
-      "id": "4864106",
-      "time": "2026-05-07 03:00:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談伊朗：他們非常想達成協議，我們拭目以待。"
-    },
-    {
-      "id": "4864105",
-      "time": "2026-05-07 03:00:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談伊朗：我們贏了。"
-    },
-    {
-      "id": "4864104",
-      "time": "2026-05-07 03:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒指期貨夜盤收漲1.10%，報26304.53點，高水90.75點。"
-    },
-    {
-      "id": "4864103",
-      "time": "2026-05-07 02:58:32",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【NextDecade認為：中東衝突將推動LNG船長期租賃業務】NextDecade 航運副總裁Peter Fitzpatrick在美國得州休斯頓舉行的一場活動上表示，持續的中東衝突和其他干擾因素，將導致更多公司透過長期合同而非現貨市場租賃液化天然氣（LNG）船。Fitzpatrick表示，在燃料供應過剩時期，LNG行業習慣於在現貨市場租賃船舶，因此在2024-25年期間達成的長期協議極少。然而，市場正開始意識到波動性將會增加，並正在開始適應。"
     }
   ]
 }
