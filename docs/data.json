@@ -1,7 +1,52 @@
 {
-  "updated": "2026-05-13 13:28:21",
-  "count": 14968,
+  "updated": "2026-05-13 13:31:42",
+  "count": 14970,
   "items": [
+    {
+      "id": "4876964",
+      "time": "2026-05-13 13:30:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌1%，現報85.64美元/盎司。"
+    },
+    {
+      "id": "te:markets:550221",
+      "time": "2026-05-13 13:30:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Binance Appreciates by 2.13% — Top crypto gainers are Binance (2.13%), XRP (1.50%), Ether (1.20%) and Bitcoin (0.78%)."
+    },
+    {
+      "id": "4876963",
+      "time": "2026-05-13 13:30:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國第一季度ILO失業率 8.1%，預期7.8%，前值7.90%。"
+    },
+    {
+      "id": "mkt:019e1fd0-39e1-7553-b25f-6e1028d1da35",
+      "time": "2026-05-13 13:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "France | ILO Unemployment Rate (Q1) | actual 8.1% | consensus 7.8% | previous 7.90%"
+    },
+    {
+      "id": "4876962",
+      "time": "2026-05-13 13:29:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "途易集團執行長：我們預計不會出現航空燃油短缺。"
+    },
     {
       "id": "4876961",
       "time": "2026-05-13 13:28:08",
@@ -133706,30 +133751,6 @@
         "Importance 1"
       ],
       "text": "Estonia Industrial Output Hits Over 1-Year Low — Industrial production in Estonia fell 3.1% year-on-year in March 2026, after a 0.5% drop in the previous month, marking the lowest level since December 2024. Output declined sharply in electricity, gas, steam, and air conditioning supply (-19.5% vs 4.0% in February), while manufacturing remained in contraction (unchanged at -1.2%), weighed down by food products (-4.1%), leather and related products (-19.5%), paper and paper products (-10.4%), coke and refined petroleum products (-21.8%), basic and pharmaceutical products and preparations (-15.3%), and furniture (-7.6%). In contrast, production accelerated in mining and quarrying (5.9% vs 0.1%). In the energy sector, the volume of production measured in megawatt-hours of electricity slumped by 23.6%, while heat output fell by 9.6% year-on-year in March, as weather conditions were warmer than usual. On a monthly basis, industrial activity declined by 2.5%, following a 0.7% drop in the preceding period."
-    },
-    {
-      "id": "4862658",
-      "time": "2026-05-06 13:31:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "諾和諾德：受GLP-1產品銷售預期上調推動，公司上調2026年業績預期。"
-    },
-    {
-      "id": "4862657",
-      "time": "2026-05-06 13:31:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "諾和諾德2026年第一季度調整後營業利潤達到328.58億丹麥克朗。"
-    },
-    {
-      "id": "4862656",
-      "time": "2026-05-06 13:30:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "寶馬第一季度汽車業務息稅前利潤率為5%，低於預期的5.16%。"
     }
   ]
 }
