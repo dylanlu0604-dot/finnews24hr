@@ -1,7 +1,39 @@
 {
-  "updated": "2026-05-13 21:49:52",
+  "updated": "2026-05-13 21:53:17",
   "count": 15123,
   "items": [
+    {
+      "id": "4878120",
+      "time": "2026-05-13 21:52:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國眾議院將依據《戰爭權力法案》，就一項要求美軍退出針對伊朗敵對行動的決議展開辯論。"
+    },
+    {
+      "id": "4878119",
+      "time": "2026-05-13 21:51:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：空客集團、黑石集團擬入局參與 Quantum Systems 本輪融資。"
+    },
+    {
+      "id": "4878118",
+      "time": "2026-05-13 21:50:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【沙特稱該國石油產量4月再次暴跌 降至1990年以來最低水平】沙烏地阿拉伯向OPEC報告稱，由於伊朗戰爭阻斷了從波斯灣的出口，該國原油產量上月進一步暴跌至1990年以來最低水平。沙特向OPEC表示，4月份產量又減少65.1萬桶/日，降至631.6萬桶/日。這使得2月份以來的減產幅度達到42%，並標誌著產量降至36年前海灣戰爭爆發以來的最低水平。當前的供應中斷髮生之際，OPEC成員國再次捲入衝突，伊朗戰爭阻斷了波斯灣的運輸，並導致沙烏地阿拉伯、阿拉伯聯合大公國和伊拉克等國產量創紀錄下降。燃料價格飆升，加劇了全球經濟衰退風險。沙特向OPEC表示，其“供應市場的數量”，即不包括進入庫存的供應，略高於產量，為687.9萬桶/日。"
+    },
+    {
+      "id": "4878117",
+      "time": "2026-05-13 21:49:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "安德瑪股價下跌3%，此前斯蒂費爾將其評級下調至“持有”。"
+    },
     {
       "id": "te:markets:550385",
       "time": "2026-05-13 21:49:41",
@@ -135482,44 +135514,6 @@
         "國際"
       ],
       "text": "穆薩萊姆：美聯儲必須為其政策結果負責，並就其決策進行透明溝通。"
-    },
-    {
-      "id": "4863845",
-      "time": "2026-05-06 21:52:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "CoinGlass資料顯示，過去24小時，加密貨幣市場超12萬人爆倉，爆倉總金額超5億美元。"
-    },
-    {
-      "id": "4863844",
-      "time": "2026-05-06 21:51:52",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【漢莎2026年燃油成本預計額外增加17億歐元】德國漢莎航空集團6日表示，受中東局勢持續動盪及航油供應趨緊影響，集團2026年燃油成本預計將額外增加17億歐元，顯著推高運營成本。(新華社)"
-    },
-    {
-      "id": "te:markets:548426",
-      "time": "2026-05-06 21:51:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Brazilian Real Extends Rally — The Brazilian real strenghten to 4.91 per USD, its strongest level in more than two years, as investors continued to favor Brazilian assets amid high domestic interest rates and strong foreign inflows. The Central Bank of Brazil maintained a cautious tone after recent monetary easing, signaling that persistent global uncertainty and tighter international financial conditions could limit the pace of future rate cuts. Support for the Brazilian currency also came from resilient exports of oil, iron ore, soybeans, coffee, and beef, which continued to generate strong trade surpluses and steady dollar inflows. Meanwhile, expectations that the US Federal Reserve could gradually ease policy later this year, reinforced by falling oil prices, weakened the dollar broadly. Oil prices declined after reports that the White House was nearing a preliminary agreement with Iran aimed at ending the conflict and reopening the door to broader nuclear negotiations."
-    },
-    {
-      "id": "4863843",
-      "time": "2026-05-06 21:50:00",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲穆薩萊姆：貨幣政策獨立是寶貴資產。"
     }
   ]
 }
