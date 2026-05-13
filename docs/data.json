@@ -1,7 +1,87 @@
 {
-  "updated": "2026-05-14 00:01:07",
-  "count": 15267,
+  "updated": "2026-05-14 00:04:40",
+  "count": 15273,
   "items": [
+    {
+      "id": "4878330",
+      "time": "2026-05-14 00:04:25",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲柯林斯：失業率仍處於相對較低水平。"
+    },
+    {
+      "id": "4878329",
+      "time": "2026-05-14 00:04:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "據貓眼專業版資料，電影《給阿嬤的情書》上映第15天，總票房破2億。"
+    },
+    {
+      "id": "4878328",
+      "time": "2026-05-14 00:03:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基稱，俄羅斯向烏克蘭發射了至少800架無人機，造成6人死亡。"
+    },
+    {
+      "id": "4878327",
+      "time": "2026-05-14 00:02:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta：Instagram Threads的“實時帖（Instants）”功能今日起在全球上線，相關獨立應用將在部分國家推出。"
+    },
+    {
+      "id": "4878326",
+      "time": "2026-05-14 00:02:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic：面向小型企業推出Claude大模型。"
+    },
+    {
+      "id": "4878325",
+      "time": "2026-05-14 00:01:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "META：推出Instagram“即時快拍（Instants）”功能，這是一種可隨時與密友或互關粉絲分享照片的全新方式。"
+    },
+    {
+      "id": "mkt:019e2212-98d3-7dd0-a6a6-c6cebd0bb38d",
+      "time": "2026-05-14 00:01:44",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O"
+      ],
+      "text": "META: LAUNCHING INSTANTS ON INSTAGRAM ,NEW WAY TO SHARE PHOTOS IN MOMENT WITH YOUR CLOSE FRIENDS OR MUTUAL FOLLOWERS"
+    },
+    {
+      "id": "4878324",
+      "time": "2026-05-14 00:01:08",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "俄羅斯魯薩格羅集團：董事會建議不派發股息。"
+    },
+    {
+      "id": "4878323",
+      "time": "2026-05-14 00:00:43",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "烏克蘭石油天然氣公司稱，俄羅斯襲擊了該公司的設施。"
+    },
     {
       "id": "4878322",
       "time": "2026-05-13 23:59:56",
@@ -136925,34 +137005,6 @@
         "國際"
       ],
       "text": "【報道：俄羅斯石油公司就施韋特煉油廠再次對德國採取法律行動】俄羅斯石油公司（Rosneft）已再次向德國當地法院提起訴訟，反對德國政府對其德國子公司的託管。這些子公司擁有PCK施韋特（PCK Schwedt）煉油廠的多數股權。 柏林-勃蘭登堡高等行政法院未能立即就此發表評論。德國經濟部目前未透過電話進行即時置評。德國法院發言人稱，俄羅斯石油公司於3月30日提起訴訟，以趕在截止日期前對德國經濟部2月底釋出的命令作出回應。該命令將這家俄羅斯公司的在德分支機構置於託管狀態。德國政府決定將其置於託管狀態，是為建立長期控制權而做出的努力的一部分；在此之前的框架要求每六個月重新延長一次國家控制權。俄羅斯石油公司曾在2022年針對之前的託管安排提起過訴訟，但未能成功。"
-    },
-    {
-      "id": "te:markets:548451",
-      "time": "2026-05-07 00:01:42",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "European Stocks Surge on Wednesday — European stocks surged on Wednesday as a prospective of an agreement in the Middle East lowered energy prices. The Eurozone's STOXX 50 gained 2.6% to 6,025 and the pan-European STOXX 600 rose 2.3% to 623. Iran was reportedly considering a memorandum sent by the US that if agreed to, would end the ongoing war and restore trade flows through the Strait of Hormuz. The developments drove oil and natural gas prices to decline sharply in the session, driving rate traders to trim the magnitude of rate hikes expected by the ECB this year and improving the outlook on margins for corporations. Industrial heavyweights led the gains on lower power prices, with Airbus, Schneider, Siemens, and Safran surging between 3.5% and 9%. Also, ASML jumped 6.2% on strong results from AMD. The pullback in sovereign yields also supported credit sensitive banks and luxury companies. Novo Nordisk added 3% on its guidance of strong sales for weight-loss pills, and AXA jumped 4% after earnings."
-    },
-    {
-      "id": "4864002",
-      "time": "2026-05-07 00:01:35",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "法國財政部：受需求下滑影響，法國 4 月機動車燃料消費量下降 11%。"
-    },
-    {
-      "id": "4864001",
-      "time": "2026-05-07 00:01:16",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "法國財政部：資料顯示，法國精煉油銷售毛利潤已經恢復至危機爆發之前的水平。"
     }
   ]
 }
