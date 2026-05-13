@@ -1,7 +1,67 @@
 {
-  "updated": "2026-05-14 02:30:09",
-  "count": 15431,
+  "updated": "2026-05-14 02:33:46",
+  "count": 15436,
   "items": [
+    {
+      "id": "4878543",
+      "time": "2026-05-14 02:31:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "阿斯麥ADR漲超5%，現報1602美元，盤中市值突破6300億美元。"
+    },
+    {
+      "id": "mkt:019e229b-7066-7dd0-a6a9-7bc442df612b",
+      "time": "2026-05-14 02:31:12",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "U.S. CRUDE OIL FUTURES SETTLE AT $101.02/BBL, DOWN $1.16, 1.14 PCT"
+    },
+    {
+      "id": "4878542",
+      "time": "2026-05-14 02:30:59",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國原油期貨結算價報每桶101.02美元，下跌1.16美元，跌幅1.14%。"
+    },
+    {
+      "id": "mkt:019e229a-e087-7dd0-a6a9-754cbaca3160",
+      "time": "2026-05-14 02:30:34",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "BRAZIL'S MORETTI: WE STILL HAVE VERY HIGH BRENT CRUDE OIL PRICES, AND THIS REQUIRES US TO CONSTANTLY UPDATE OUR STRATEGY FOR MITIGATING THE IMPACTS OF THE WAR"
+    },
+    {
+      "id": "te:markets:550425",
+      "time": "2026-05-14 02:30:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Binance Rises by 1.35% — Today's cryptos market is characterized by modest daily movements, with Binance standing out as the frontrunner with a 1.35% increase."
+    },
+    {
+      "id": "4878539",
+      "time": "2026-05-14 02:30:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收跌3.40%，報622.20元人民幣/桶。滬金夜盤收漲0.11%，滬銀收漲3.46%。"
+    },
     {
       "id": "4878538",
       "time": "2026-05-14 02:29:56",
@@ -138582,14 +138642,6 @@
         "國際"
       ],
       "text": "【美商務部長就愛潑斯坦案閉門作證】5月6日，美國商務部長盧特尼克“自願”就其與愛潑斯坦的關係接受美國國會眾議院監督與政府改革委員會的問詢，進行閉門作證。不過，這次問詢沒有像美國前總統比爾·克林頓和前國務卿希拉里·克林頓向該委員會閉門作證時那樣進行錄影。該委員會主席、共和黨人科默表示，不對盧特尼克“自願”參加的這次問詢進行錄影的決定“符合委員會的慣例”。 盧特尼克在今年2月出席國會公開聽證會時承認，他曾於2012年12月攜家人登上愛潑斯坦位於加勒比海的私人島嶼，並與他共進午餐。（CCTV國際時訊 ）"
-    },
-    {
-      "id": "4864091",
-      "time": "2026-05-07 02:31:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "調查顯示，據美國能源資訊署週四報告預估，上週美國天然氣庫存增加 740 億立方英尺。"
     }
   ]
 }
