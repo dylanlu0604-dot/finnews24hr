@@ -1,7 +1,27 @@
 {
-  "updated": "2026-05-14 04:07:01",
-  "count": 15440,
+  "updated": "2026-05-14 04:10:35",
+  "count": 15438,
   "items": [
+    {
+      "id": "te:markets:550426",
+      "time": "2026-05-14 04:10:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Cisco Systems earnings above expectations at 1.06 USD — Cisco Systems (CSCO) released earnings per share at 1.06 USD, compared to market expectations of 1.03 USD."
+    },
+    {
+      "id": "4878619",
+      "time": "2026-05-14 04:09:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "人工智慧晶片廠商 Cerebras 擬以每股 185 美元定價進行首次公開發行（IPO）。"
+    },
     {
       "id": "4878618",
       "time": "2026-05-14 04:05:58",
@@ -138769,46 +138789,6 @@
         "Importance 0"
       ],
       "text": "AppLovin earnings above expectations at 3.56 USD — AppLovin (APP) released earnings per share at 3.56 USD, compared to market expectations of 3.41 USD."
-    },
-    {
-      "id": "te:markets:548475",
-      "time": "2026-05-07 04:09:21",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Fortinet earnings above expectations at 0.82 USD — Fortinet (FTNT) released earnings per share at 0.82 USD, compared to market expectations of 0.62 USD."
-    },
-    {
-      "id": "te:markets:548474",
-      "time": "2026-05-07 04:09:20",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "ARM Holdings earnings above expectations at 0.60 USD — ARM Holdings (ARM) released earnings per share at 0.60 USD, compared to market expectations of 0.47 USD."
-    },
-    {
-      "id": "4864181",
-      "time": "2026-05-07 04:09:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特訪日行程議程涵蓋稀土與能源議題。"
-    },
-    {
-      "id": "4864180",
-      "time": "2026-05-07 04:08:42",
-      "tags": [
-        "市場"
-      ],
-      "text": "DoorDash股價在盤後交易公佈業績後上漲11%。"
     }
   ]
 }
