@@ -1,7 +1,109 @@
 {
-  "updated": "2026-05-13 21:29:21",
-  "count": 15104,
+  "updated": "2026-05-13 21:32:47",
+  "count": 15109,
   "items": [
+    {
+      "id": "4878080",
+      "time": "2026-05-13 21:32:24",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "康赫倫特公司股價上漲8.8%，創歷史新高。"
+    },
+    {
+      "id": "mkt:019e2189-a1d6-7eee-bb64-189c386afcfb",
+      "time": "2026-05-13 21:31:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "BABA.N",
+        "Impact bearish",
+        "NVDA.O",
+        "Impact bullish",
+        "MU.O"
+      ],
+      "text": "US STOCKS OPEN MIXED: DOW -0.3%, S&P 500 +0.08%, NASDAQ +0.23%. ALIBABA FALLS 2.9% AFTER EARNINGS; AI CHIP STOCKS RISE, WITH MICRON UP 6.3%, QUALCOMM AND INTEL UP ABOUT 3%, AND NVIDIA UP 1.9%"
+    },
+    {
+      "id": "4878079",
+      "time": "2026-05-13 21:31:19",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "在美國上市的阿里巴巴股價下跌2.9%，此前該公司季度營收與利潤均未達市場預期。"
+    },
+    {
+      "id": "4878078",
+      "time": "2026-05-13 21:30:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股開盤：三大股指漲跌不一】道指跌0.38%，標普500指數漲0.04%，納指漲0.17%。Coherent Corp漲7.42%，美光漲5.56%，Lumentum Holdings Inc. Common Stock When Issued漲5.47%，GoDaddy跌3.77%，美國電力跌3.71%。“七姐妹”方面：英偉達漲1.89%，特斯拉漲0.90%，蘋果跌0.13%，谷歌跌0.47%，Meta Platforms跌0.70%，亞馬遜跌0.79%，微軟跌1.35%。"
+    },
+    {
+      "id": "4878077",
+      "time": "2026-05-13 21:30:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英媒曝衛生大臣準備辭職競選工黨黨首】據英國《泰晤士報》13日援引英國衛生和社會福利大臣韋斯·斯特里廷身邊人士訊息報道，斯特里廷已準備辭職競選工黨黨首。 報道說，斯特里廷被廣泛認為是英國首相、工黨黨首斯塔默的潛在競爭者。斯特里廷私下裡已經明確表示將競選工黨黨首。他最快或將於14日辭職，並已開始著手準備獲得工黨下院議員的支援。 13日早間，斯特里廷走進首相官邸唐寧街10號，與斯塔默進行了不到20分鐘的會面，但未回答任何媒體提問。 由於英國工黨在地方選舉中慘敗，斯塔默連日來陷入執政危機。12日，有數名政府部門的政務次官以辭職“逼宮”，但同時多名內閣大臣表態支援斯塔默。(新華社)"
+    },
+    {
+      "id": "mkt:019e2188-3020-7eee-bb64-13a1a6460048",
+      "time": "2026-05-13 21:30:33",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "HUNGARY-EU TALKS ON DEFENCE FUNDS ADVANCE: TELEX"
+    },
+    {
+      "id": "4878076",
+      "time": "2026-05-13 21:30:30",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數漲超0.5%，360數科漲0.08%。"
+    },
+    {
+      "id": "4878075",
+      "time": "2026-05-13 21:30:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【蘇格蘭民族黨將推進針對斯塔默的不信任動議】據英國媒體13日報道，蘇格蘭民族黨表示將在英國議會推進不信任動議，以決定首相斯塔默的去留。英國天空新聞頻道援引該黨英國議會下院新任領袖戴夫·杜根的宣告說，這場“領導層鬧劇”必須立即結束，這樣議會才能專注於真正重要的問題，唯一的辦法就是斯塔默下臺。宣告說：“他已經失去選民和自己黨內議員的信任，這種信任無法挽回。工黨必須停止拖延這場危機，應立即結束它。”（新華社）"
+    },
+    {
+      "id": "te:markets:550378",
+      "time": "2026-05-13 21:30:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Opens 0.11% Higher — The Dow Jones Index is up by 56 points or 0.11 percent on Tuesday. Top gainers are 3M (2.93%), Caterpillar (0.99%) and Amgen (0.92%). Biggest losses came from Salesforce (-1.73%), Microsoft (-1.45%) and Walmart (-1.17%)."
+    },
+    {
+      "id": "te:markets:550377",
+      "time": "2026-05-13 21:30:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Salesforce Stock Price Hits 4-week Low — Salesforce shares decreased to 168.24 USD, the lowest since April 2026. Over the past 4 weeks, Salesforce Inc lost 2.58%, and in the last 12 months, it decreased 41.78%."
+    },
     {
       "id": "4878074",
       "time": "2026-05-13 21:27:44",
@@ -135254,52 +135356,6 @@
         "國際"
       ],
       "text": "【歐盟試圖快速落實美歐貿易協議 但內部分歧阻礙協議進展】在特朗普新一輪關稅施壓之下，歐盟立法者與成員國政府週三試圖敲定一項協議，擬取消對美國產品的關稅，但由於在保障機制問題上分歧明顯，歐盟內部達成快速協議的前景依然黯淡。特朗普上週五表示，本週將把對歐盟汽車及卡車的關稅從當前15%上調至25%，理由是歐盟未能履行去年7月在蘇格蘭達成的貿易協議條款。自該貿易協議簽署9個月以來，歐洲議會與歐盟理事會仍需就統一文字達成一致，相關關稅削減措施方可正式生效。然而，在關鍵分歧方面，歐盟議員主張設定更嚴格的保障條款，包括：若美國未履約則可暫停協議；將關稅減讓與美方行動掛鉤；以及在2028年3月31日後全面終止歐盟關稅讓步。一名歐盟外交官表示，成員國政府對加入此類條款興趣不大；另有官員指出，雙方仍存在顯著分歧，預計下月還需繼續談判。"
-    },
-    {
-      "id": "4863805",
-      "time": "2026-05-06 21:31:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "AMD股價開盤飆升16%，創10月以來最大漲幅。"
-    },
-    {
-      "id": "te:markets:548415",
-      "time": "2026-05-06 21:30:48",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Walt Disney Stock Price Hits 10-week High — Walt Disney shares increased to 107.38 USD, the highest since February 2026. Over the past 4 weeks, Walt Disney gained 4.36%, and in the last 12 months, it increased 9.02%."
-    },
-    {
-      "id": "4863804",
-      "time": "2026-05-06 21:30:45",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股開盤：三大股指齊漲】道指漲0.97%，標普500指數漲0.64%，納指漲0.62%。康寧漲17.17%，超微電腦漲15.54%，國際香料香精漲15.40%，AMD漲15.07%，達維塔保健漲10.55%，Arm Holdings漲10.13%。“七姐妹”方面：谷歌漲1.21%，英偉達漲1.09%，亞馬遜漲0.42%，Meta Platforms跌0.27%，蘋果跌0.59%，特斯拉跌1.23%，微軟跌1.36%。"
-    },
-    {
-      "id": "4863803",
-      "time": "2026-05-06 21:30:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【英國對萬事達、Visa及PayPal展開反競爭行為調查】英國金融監管機構表示，已對萬事達(MA.N)、Visa(V.N)以及Paypal(PYPL.O)展開調查，原因是懷疑其在PayPal數字錢包的資金流轉與使用方面存在反競爭行為。英國金融行為監管局週三表示，目前尚未就相關企業是否違反競爭法得出結論。PayPal本週已在一份監管檔案中披露了這項調查。PayPal一名代表表示，公司正配合FCA調查，但由於案件仍在進行中，不會進一步置評。"
-    },
-    {
-      "id": "4863802",
-      "time": "2026-05-06 21:30:28",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納斯達克中國金龍指數漲超1%，百度漲8.22%，阿里巴巴漲3.83%，金山雲漲2.09%，新東方漲2.27%。"
     }
   ]
 }
