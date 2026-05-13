@@ -1,7 +1,231 @@
 {
-  "updated": "2026-05-13 16:01:04",
-  "count": 14985,
+  "updated": "2026-05-13 16:04:33",
+  "count": 14993,
   "items": [
+    {
+      "id": "4877253",
+      "time": "2026-05-13 16:03:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "【閃迪美股盤前漲超5%】閃迪美股盤前漲超5%，現報1525.16美元。"
+    },
+    {
+      "id": "4877252",
+      "time": "2026-05-13 16:03:03",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "沃爾沃自動駕駛解決方案公司與DSV宣佈將在美國得克薩斯州開展自動駕駛貨運業務。"
+    },
+    {
+      "id": "4877251",
+      "time": "2026-05-13 16:02:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際能源署警告稱，隨著全球石油庫存以創紀錄速度下降，油價將進一步飆升。"
+    },
+    {
+      "id": "mkt:019e205c-3f67-755a-b974-e14cb936916c",
+      "time": "2026-05-13 16:02:55",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "U.S. S&P 500 E-MINI FUTURES UP 0.3%, NASDAQ 100 FUTURES UP 0.7%, DOW FUTURES UP 0.01%"
+    },
+    {
+      "id": "mkt:019e205c-3e5a-755a-b974-dc289e7a976c",
+      "time": "2026-05-13 16:02:50",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "IEA: PETROCHEMICAL, AVIATION SECTORS ARE MOST IMPACTED"
+    },
+    {
+      "id": "mkt:019e205c-0b5e-755a-b974-d35198476541",
+      "time": "2026-05-13 16:02:36",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "IEA: U.S. PRODUCTION HIT ALL-TIME HIGH OF 21.9 MLN B/D IN APRIL, DRIVEN BY CRUDE OUTPUT OF 14 MLN B/D"
+    },
+    {
+      "id": "mkt:019e205b-daa7-755a-b974-ce76f38d10d0",
+      "time": "2026-05-13 16:02:22",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "IEA: GLOBAL OIL SUPPLY DECLINED BY FURTHER 1.8 MLN B/D TO 95.1 MLN B/D IN APRIL"
+    },
+    {
+      "id": "mkt:019e205b-a33c-755a-b974-c743b6305adb",
+      "time": "2026-05-13 16:02:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "IEA: OPEC+ OUTPUT WAS AT ITS LOWEST IN MORE THAN 35 YEARS"
+    },
+    {
+      "id": "4877250",
+      "time": "2026-05-13 16:02:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國中車集團增資至約245.1億】天眼查App顯示，近日，中國中車集團有限公司發生工商變更，註冊資本由230億人民幣增至約245.1億人民幣。該公司成立於2002年7月，法定代表人為孫永才，經營範圍包括授權範圍內的國有資產和國有股權經營管理、資本運營、投資及投資管理、資產管理及資產受託管理等。"
+    },
+    {
+      "id": "mkt:019e205b-6c0e-755a-b974-b9e163bc14c8",
+      "time": "2026-05-13 16:02:00",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "IEA HAD PREVIOUSLY FORECAST OIL-DEMAND CONTRACTION BY 80,000 B/D IN 2026"
+    },
+    {
+      "id": "mkt:019e205b-5612-755a-b974-b545c821cc36",
+      "time": "2026-05-13 16:01:51",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "IEA: OIL MARKET TO REMAIN IN DEFICIT UNTIL 4Q IF HORMUZ FLOWS GRADUALLY RESUME FROM 3Q"
+    },
+    {
+      "id": "mkt:019e205b-25da-755a-b974-a872bee84cf0",
+      "time": "2026-05-13 16:01:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "IEA: OPEC+ SPARE CAPACITY HIT HISTORIC LOW AT JUST 170,000 B/D"
+    },
+    {
+      "id": "4877249",
+      "time": "2026-05-13 16:01:34",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國標普500迷你股指期貨上漲0.3%，納斯達克100股指期貨上漲0.7%，道瓊斯股指期貨上漲0.01%。"
+    },
+    {
+      "id": "4877248",
+      "time": "2026-05-13 16:01:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "日產汽車：2025/26財年全年汽車業務自由現金流為負4808億日元，下半年該業務自由現金流為正1120億日元。"
+    },
+    {
+      "id": "mkt:019e205a-ea61-755a-b974-a52eb950cb8b",
+      "time": "2026-05-13 16:01:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IEA: PUBLICATION OF MARKET REPORT INCLUDING FORECAST TO 2031 SCHEDULED FOR JUNE WAS POSTPONED"
+    },
+    {
+      "id": "4877247",
+      "time": "2026-05-13 16:01:26",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【美股大型科技股盤前多數上漲，英偉達漲1%】美股大型科技股盤前多數上漲，英偉達漲1%，谷歌A漲0.7%，亞馬遜、特斯拉漲0.6%，Meta漲0.2%，微軟漲0.1%，蘋果持平。"
+    },
+    {
+      "id": "4877246",
+      "time": "2026-05-13 16:01:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中材國際：獲證監會批覆，可向專業投資者發行不超20億公司債】中材國際公告稱，公司收到中國證監會批覆，同意公司向專業投資者公開發行面值總額不超過20億元的公司債券。本次發行應按報送上海證券交易所的募集說明書進行，批覆自同意註冊之日起24個月內有效，可分期發行。發行結束前如發生重大事項，公司應及時報告並處理。公司將按要求辦理髮行事宜並及時披露資訊。"
+    },
+    {
+      "id": "mkt:019e205a-bddd-755a-b974-988538c2875d",
+      "time": "2026-05-13 16:01:16",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "IEA: OPEC+ PRODUCTION FELL BY 1.9 MLN B/D ON MONTH"
+    },
+    {
+      "id": "4877245",
+      "time": "2026-05-13 16:01:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股中概股盤前多數上漲，萬國資料漲7%】美股中概股盤前多數上漲，萬國資料漲7%，京東漲3%，網易、貝殼漲1%，阿里巴巴漲0.7%，拼多多漲0.4%，百度持平，攜程跌0.4%。"
+    },
+    {
+      "id": "4877244",
+      "time": "2026-05-13 16:01:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯4月份原油出口環比增加25萬桶/日，至490萬桶/日。"
+    },
+    {
+      "id": "mkt:019e205a-8729-755a-b974-93a82aa8029a",
+      "time": "2026-05-13 16:01:03",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "IEA: U.S. SUPPLY FORECAST TO INCREASE BY 610,000 B/D IN 2026"
+    },
     {
       "id": "mkt:019e205a-6976-755a-b974-8d4db3abe870",
       "time": "2026-05-13 16:00:56",
@@ -133862,118 +134086,6 @@
         "公司"
       ],
       "text": "【東方海洋：全資子公司取得兩項醫療器械註冊證】東方海洋(002086.SZ)公告稱，公司全資子公司艾維可生物科技有限公司自主研發的β-膠原特殊序列測定試劑盒和總I型膠原氨基端延長肽測定試劑盒，近日獲得山東省藥監局註冊批准。"
-    },
-    {
-      "id": "4862989",
-      "time": "2026-05-06 16:04:18",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【中方回應美要求中方施壓伊朗傳聞】中國外交部發言人林劍5月6日主持例行記者會。 有記者提問：美國政府要求中方對伊朗進行施壓，以開放霍爾木茲海峽，中方對此有何評論？ 林劍：霍爾木茲海峽的局勢持續緊張，只有儘早實現全面止戰才能為緩解海峽局勢的緊張創造必要條件。海峽沿岸國的領土安全和主權完整應得到尊重，地區國家的合理關切應得到重視，國際社會的正當利益也應得到維護。（中新網）"
-    },
-    {
-      "id": "4862988",
-      "time": "2026-05-06 16:03:39",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨鈀金價格上漲3%，至每盎司 1530.33 美元。"
-    },
-    {
-      "id": "4862987",
-      "time": "2026-05-06 16:03:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "【外交部：對布朗總理獲得連任表示祝賀】5月6日，外交部發言人林劍主持例行記者會。有記者就安地卡及巴布達大選結果提問。對此，林劍表示，中方對布朗總理獲得連任表示祝賀。安地卡及巴布達是中國在加勒比地區的好朋友、好夥伴。中方願同安方一道努力，繼續深化各領域務實合作，推動兩國的友好關係邁上新臺階，更好造福兩國人民。（央視新聞）"
-    },
-    {
-      "id": "te:economy:548241",
-      "time": "2026-05-06 16:03:20",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "France",
-        "Services PMI",
-        "Importance 1"
-      ],
-      "text": "France Services Slump Deepens in April — The S&P Global France Services PMI fell to 46.5 in April 2026 from 48.8 in March, confirming preliminary estimates. This marked the steepest contraction since February 2025, as demand conditions weakened significantly. New orders declined at the fastest pace in close to two-and-a-half years, driven by slower client decision-making, cautious spending behaviour, cost pressures, and unfavourable geopolitical conditions. Export demand also fell at the quickest rate in nearly 18 months. On prices, input cost inflation surged to a 29-month high, reflecting sharp increases in fuel, energy, and material costs. Despite this, firms raised selling prices only modestly, as intense competition limited pricing power. Labour market conditions remained mildly positive, with firms still adding staff, although job creation was marginal. Business sentiment fell to a four-month low amid rising inflation expectations and ongoing geopolitical tensions in the Middle East."
-    },
-    {
-      "id": "4862986",
-      "time": "2026-05-06 16:02:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "【我國牽頭髮起海上風電柔直併網電能質量國際標準成功立項】記者今天從國家標準委瞭解到，由我國向國際電工委員會（IEC）提出的《柔性直流併網海上風電場諧波評估技術規範》國際標準提案近日正式立項。該標準是該領域的首項IEC國際標準，由我國專家擔任專案負責人，法國、德國、英國等多國專家共同制定。（央視新聞）"
-    },
-    {
-      "id": "4862985",
-      "time": "2026-05-06 16:02:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "據韓媒YTN：伊朗大使館否認其與霍爾木茲海峽韓國船隻受損有關。"
-    },
-    {
-      "id": "4862984",
-      "time": "2026-05-06 16:02:32",
-      "tags": [
-        "市場"
-      ],
-      "text": "【英特爾盤前漲5.21%，現報113.79美元】英特爾盤前漲5.21%，現報113.79美元。訊息面上，蘋果與英特爾就晶片代工合作展開初步洽談，市場看好其晶圓代工業務前景。"
-    },
-    {
-      "id": "4862983",
-      "time": "2026-05-06 16:01:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "美元/日元跌1.3%至155.80。"
-    },
-    {
-      "id": "4862982",
-      "time": "2026-05-06 16:01:35",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "美股盤前，AMD大漲超16%，公司Q1營收超預期增長38%，二季度指引超預期；儲存晶片概念股延續漲勢，美光科技漲超5%，閃迪漲超6%。"
-    },
-    {
-      "id": "4862981",
-      "time": "2026-05-06 16:01:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美股中概股盤前漲跌互現，百度漲6%】美股中概股盤前漲跌互現，百度漲6%，阿里巴巴漲3%，百濟神州漲1%，拼多多、網易漲0.4%，攜程跌0.2%，蔚來跌1%，理想汽車跌2%。"
-    },
-    {
-      "id": "4862980",
-      "time": "2026-05-06 16:01:13",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【美股大型科技股盤前多數下跌，谷歌A漲1%】美股大型科技股盤前多數下跌，谷歌A漲1%，英偉達持平，亞馬遜跌0.2%，特斯拉跌0.5%，Meta、蘋果跌0.6%，微軟跌0.7%。"
-    },
-    {
-      "id": "4862979",
-      "time": "2026-05-06 16:01:08",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國標普500 E-迷你股指期貨上漲0.32%，道指期貨上漲0.28%，納斯達克100期貨上漲0.77%。"
-    },
-    {
-      "id": "4862978",
-      "time": "2026-05-06 16:01:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "倫敦金屬交易所(LME)：鋅庫存減少1450噸，銅庫存減少950噸，鎳庫存減少24噸，鉛庫存減少2100噸，鋁庫存減少2500噸，錫庫存增加25噸。"
     }
   ]
 }
