@@ -1,7 +1,91 @@
 {
-  "updated": "2026-05-13 11:15:50",
+  "updated": "2026-05-13 11:19:18",
   "count": 14935,
   "items": [
+    {
+      "id": "4876814",
+      "time": "2026-05-13 11:19:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【小米汽車工廠暫停預約參觀】據小米汽車工廠參觀預約介面顯示，小米官方已臨時關閉5月13日至5月22日期間的工廠參觀報名通道，使用者在此時間段內無法提交參觀預約申請。"
+    },
+    {
+      "id": "4876812",
+      "time": "2026-05-13 11:18:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【機構：預計到2030年全球現場音樂市場將超過500億美元】Omdia報告顯示，2025年全球演唱會及音樂節門票收入已超過400億美元，並預計到2030年將進一步增長至500億美元以上。2025年同比增長約2.5%，增速相對溫和，反映出行業在經歷2021年疫情後強勁反彈後的穩定期——當時全球現場音樂收入僅為88億美元。這一趨勢表明，現場音樂市場正從 “快速恢復增長階段” 逐步進入張階段”，增長節奏趨於平緩，但整體規模仍持續擴大。"
+    },
+    {
+      "id": "4876811",
+      "time": "2026-05-13 11:17:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本電產：預計調查將於8月底完成。"
+    },
+    {
+      "id": "4876810",
+      "time": "2026-05-13 11:17:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "截止11:17，兩市100只個股漲停。"
+    },
+    {
+      "id": "4876809",
+      "time": "2026-05-13 11:16:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【騰訊：元寶支援一鍵總結微信群聊】5月13日，騰訊發文稱，選中微信群聊聊天記錄轉發其他應用-選擇元寶-複製貼上給元寶，就能讓它幫你總結。此外，還可以將發票報銷發給元寶生成表格、讓元寶透過聊天記錄制定個性化旅行方案等。"
+    },
+    {
+      "id": "4876808",
+      "time": "2026-05-13 11:16:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本電產成立委員會調查涉嫌質量篡改事件。"
+    },
+    {
+      "id": "4876807",
+      "time": "2026-05-13 11:16:16",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "日本電產釋出關於潛在質量問題及成立外部專家調查委員會的公告。"
+    },
+    {
+      "id": "te:economy:550183",
+      "time": "2026-05-13 11:16:03",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "Inflation Expectations",
+        "Importance 1"
+      ],
+      "text": "New Zealand 2-Year Inflation Outlook Climbs to 2.53% — The Reserve Bank of New Zealand’s (RBNZ) quarterly survey of expectations showed that business managers forecast inflation at 2.53% over the next two years in Q2 2026, up from 2.37% in the previous period, marking the highest reading since Q4 2023. Meanwhile, one-year inflation expectations also climbed to 3.41%, the highest in over two years, up from 2.59% in Q1. In contrast, longer-term expectations eased, with five-year inflation forecasts falling to 2.22% from 2.31%, and ten-year expectations declining to 2.19% from 2.30%. In terms of monetary policy, respondents expect the Official Cash Rate (OCR) to rise to 2.34% from 2.25% by the end of the June quarter, and increase further to 3.01% over the next year. The adjustment comes ahead of the RBNZ’s monetary policy decision in May 2026."
+    },
+    {
+      "id": "mkt:019e1f55-87bb-7553-b25e-8ff8119a7056",
+      "time": "2026-05-13 11:15:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "【Trump on Truth Social: I will be asking President Xi to “open up” China】CNBC incorrectly reported that the Great Jensen Huang, of Nvidia, was not invited to the incredible gathering of the World’s Greatest Businessmen/women proudly going to China. In actuality, Jensen is currently on Air Force One and, unless I ask him to leave, which is highly unlikely, CNBC’s reporting is incorrect or, as they say in politics, FAKE NEWS! It is an Honor to have Jensen, Elon, Tim Apple, Larry Fink, Stephen Schwarzmann, Kelly Ortberg (Boeing), Brian Sikes (Cargill), Jane Fraser (Citi), Larry Culp (GE Aerospace), David Solomon (Goldman Sachs), Sanjay Mehrotra (Micron), Cristiano Amon (Qualcomm), and many others journeying to the Great Country of China where I will be asking President Xi, a Leader of extraordinary distinction, to “open up” China so that these brilliant people can work their magic, and help bring the People’s Republic to an even higher level! In fact, I promise, that when we are together, which will be in a matter of hours, I will make that my very first request. I have never seen or heard of any idea that would be more beneficial to our incredible Countries!"
+    },
     {
       "id": "4876806",
       "time": "2026-05-13 11:13:32",
@@ -133291,78 +133375,6 @@
         "公司"
       ],
       "text": "【長三角鐵路“五一”假期傳送旅客超2138萬人次 增幅超5.6%】從中國鐵路上海局集團有限公司獲悉，剛剛過去的“五一”假期長三角鐵路傳送旅客約2138.1萬人次，日均傳送427.6萬人次，日均較去年同期多傳送旅客約22.8萬人次，增幅超5.6%。其中，5月1日單日傳送旅客473.8萬人次，創上鐵集團單日旅客傳送量新高，5月5日返程最高峰傳送431.1萬人次，客流熱度貫穿整個假期。"
-    },
-    {
-      "id": "4862514",
-      "time": "2026-05-06 11:19:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "【193項上榜，2025年元宇宙典型案例名單公佈】工信部資訊，根據《工業和資訊化部辦公廳 教育部辦公廳 文化和旅遊部辦公廳 廣電總局辦公廳關於組織開展2025年元宇宙典型案例推薦工作的通知》（工信廳聯科函〔2025〕272號），經各地主管部門和有關單位推薦、專家評審和網上公示，確定了193項2025年元宇宙典型案例（名單見附件），現予以公佈。各地工業和資訊化主管部門、教育主管部門、文化和旅遊主管部門、廣播電視主管部門結合本地區實際，在技術創新、應用落地、政府服務等方面對入選案例加大支援力度，推動優秀成果規模化應用。"
-    },
-    {
-      "id": "4862513",
-      "time": "2026-05-06 11:18:12",
-      "tags": [],
-      "text": "港股恒生指數盤中漲超1％，恒生科技指數漲超1.7％，信義玻璃、中芯國際均漲近10％，龍湖集團、華潤置地均漲超5％，百度、阿里巴巴均漲超4％。"
-    },
-    {
-      "id": "4862512",
-      "time": "2026-05-06 11:17:43",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超2萬億元，較上日此時放量2658億元。"
-    },
-    {
-      "id": "4862511",
-      "time": "2026-05-06 11:17:43",
-      "tags": [
-        "市場"
-      ],
-      "text": "阿里巴巴港股上漲超4%。"
-    },
-    {
-      "id": "4862510",
-      "time": "2026-05-06 11:17:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【算力租賃概念持續走高 十餘隻成分股漲停】算力租賃概念盤中持續走高，大位科技、晶科科技封漲停，此前東方國信、利通電子、東陽光、協鑫能科等多股漲停，平治資訊、行雲科技、優刻得、銅牛資訊、首都線上等多股漲超10%。"
-    },
-    {
-      "id": "4862509",
-      "time": "2026-05-06 11:16:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中遠海能、電投綠能等在大連成立倉儲物流公司】企查查APP顯示，近日，大連中遠海能綠能倉儲物流有限公司成立，法定代表人為趙春波，註冊資本為3.78億元，經營範圍包含：裝卸搬運；國內貨物運輸代理；港口貨物裝卸搬運活動；國際貨物運輸代理；海上國際貨物運輸代理等。企查查股權穿透顯示，該公司由中遠海能全資子公司大連中遠海運能源供應鏈有限公司、大連西中島發展集團有限公司、電投綠能旗下國電投未來能源發展（上海）有限公司共同持股。"
-    },
-    {
-      "id": "4862508",
-      "time": "2026-05-06 11:16:53",
-      "tags": [
-        "市場"
-      ],
-      "text": "30年期國債“26超長特別國債02”收益率上行1.90bp報2.2440%。"
-    },
-    {
-      "id": "4862507",
-      "time": "2026-05-06 11:16:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "國債期貨跌幅擴大，30年期國債期貨日內跌0.65%，10年期跌0.07%。"
-    },
-    {
-      "id": "4862506",
-      "time": "2026-05-06 11:15:51",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "鈀連續主力合約日內漲5%，現報376.80元。"
     }
   ]
 }
