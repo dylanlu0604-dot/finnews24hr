@@ -1,7 +1,91 @@
 {
-  "updated": "2026-05-14 01:32:20",
-  "count": 15354,
+  "updated": "2026-05-14 01:35:44",
+  "count": 15361,
   "items": [
+    {
+      "id": "4878454",
+      "time": "2026-05-14 01:35:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "【普京簽署命令更換俄烏邊境兩州州長】俄羅斯總統普京5月13日簽署命令，任命亞歷山大·舒瓦耶夫為別爾哥羅德州代理州長，任命伊戈爾·科瓦利丘克為布良斯克州代理州長。這兩個州都是俄烏邊境州。據報道，普京已接受別爾哥羅德州州長格拉德科夫與布良斯克州州長博戈馬茲的辭呈，兩人均系自願離任。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:019e2267-6729-7dd0-a6a8-66ebc69c3ffd",
+      "time": "2026-05-14 01:34:19",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "BRAZIL GOVERNMENT TO ANNOUNCE MEASURE TO SUBSIDIZE GASOLINE, SAY SOURCES"
+    },
+    {
+      "id": "4878452",
+      "time": "2026-05-14 01:33:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "哈馬斯：我們呼籲立即成立加沙管理國家委員會，並允許其進入加沙地帶，全面承擔其職責，併為其運作提供必要的資源。"
+    },
+    {
+      "id": "mkt:019e2266-a728-7dd0-a6a8-5d5e1c8b1f1e",
+      "time": "2026-05-14 01:33:29",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "【US 30-Year Treasury Auction Clears Above 5% for First Time Since 2007】Investors secured 5% yields on 30-year US Treasuries for the first time since 2007 after a $25 billion bond auction cleared at 5.046%, reflecting rising inflation concerns and higher energy prices. Demand at the auction was moderate, with yields slightly above pre-sale trading levels. The sale followed weaker-than-expected demand for recent three- and 10-year Treasury auctions. The last 30-year Treasury carrying a 5% coupon was issued before the global financial crisis, while long-dated Treasury yields have periodically traded above 5% since 2023 amid aggressive Federal Reserve tightening and increased government borrowing."
+    },
+    {
+      "id": "4878451",
+      "time": "2026-05-14 01:33:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "計票結果顯示：桑切斯將與藤森進入秘魯總統大選第二輪對決。"
+    },
+    {
+      "id": "4878450",
+      "time": "2026-05-14 01:32:55",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "據訊息人士透露，巴西政府將出臺汽油補貼措施。"
+    },
+    {
+      "id": "4878449",
+      "time": "2026-05-14 01:32:44",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲卡什卡里：勞動力市場橫盤停滯，表現“不溫不火”。"
+    },
+    {
+      "id": "4878448",
+      "time": "2026-05-14 01:32:33",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲卡什卡里：勞動力市場看起來仍在支撐。"
+    },
+    {
+      "id": "4878447",
+      "time": "2026-05-14 01:32:22",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【加拿大央行對通脹動態的快速變化保持警惕】根據加拿大央行最新的會議紀要，該行官員們一致認為，需要根據中東局勢的發展以及與美國的貿易緊張關係，隨時準備迅速調整利率政策。央行決策者一致認為，儘管美伊衝突導致汽油價格受到初步衝擊，但他們目前可以保持耐心，將主要利率維持不變。會議紀要稱：“形勢可能瞬息萬變，貨幣政策或需作出應對，以防範通脹範圍擴大且更趨持久的風險。“該會議紀要涵蓋了由六名成員組成的管理委員會自4月21日開始的審議內容。八天後，該央行表示，將其隔夜利率目標維持在2.25%不變，並補充說，只要經濟發展符合預期，預計利率水平不會有太大變化。該預測的前提是，特朗普政府對加拿大商品徵收的關稅水平和幅度不會發生變化。此外，加拿大央行假設，通脹率將在4月份達到約3%的峰值，並且到2027年中期，原油價格將回落至每桶75美元的水平。"
+    },
     {
       "id": "4878446",
       "time": "2026-05-14 01:32:01",
@@ -137839,23 +137923,6 @@
         "國際"
       ],
       "text": "以色列第 13 頻道：以色列在貝魯特定點清除拉德萬部隊指揮官後，已為北部局勢可能升級做好準備。"
-    },
-    {
-      "id": "4864066",
-      "time": "2026-05-07 01:32:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "據報道，出現漢坦病毒疫情的郵輪已駛離維德角。"
-    },
-    {
-      "id": "4864065",
-      "time": "2026-05-07 01:32:26",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "市場訊息：美國批准延長英國石油公司在亞塞拜然氣田與伊朗、俄羅斯合作方開展業務的經營許可。"
     }
   ]
 }
