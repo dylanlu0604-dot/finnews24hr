@@ -1,7 +1,101 @@
 {
-  "updated": "2026-05-13 14:57:45",
-  "count": 14982,
+  "updated": "2026-05-13 15:01:52",
+  "count": 14970,
   "items": [
+    {
+      "id": "4877097",
+      "time": "2026-05-13 15:01:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "A股收盤，上證指數漲0.67%，深證成指漲1.67%，創業板指漲2.63%。"
+    },
+    {
+      "id": "4877096",
+      "time": "2026-05-13 15:00:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其3月份經常賬戶赤字為96.72億美元；預計為-97億美元。"
+    },
+    {
+      "id": "4877095",
+      "time": "2026-05-13 15:00:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨收盤】集運指數歐線期貨連續漲4.25%，20號膠連續漲3.63%，天然橡膠連續漲2.78%，纖維板連續跌2.37%，焦煤連續跌2.35%。"
+    },
+    {
+      "id": "4877094",
+      "time": "2026-05-13 15:00:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐股開盤普跌，德國DAX指數跌1.62%，英國富時100指數跌0.04%，法國CAC40指數跌0.95%，歐洲斯托克50指數跌1.48%，義大利富時MIB指數跌1.36%。"
+    },
+    {
+      "id": "4877093",
+      "time": "2026-05-13 15:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨午盤收盤】 中證1000指數期貨連續漲1.92%， 滬深300指數期貨連續漲1.20%， 中證500指數期貨連續漲1.72%， 上證50指數期貨連續漲0.21%。"
+    },
+    {
+      "id": "mkt:019e2022-9f6d-755a-b974-0d20f82f5556",
+      "time": "2026-05-13 15:00:00",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "CORRECTED-KUWAIT LOWERS (NOT RAISES) JUNE CRUDE PRICES FOR ASIA – PRICING DOCUMENT"
+    },
+    {
+      "id": "mkt:019e2022-4d78-755a-b974-037f599dc310",
+      "time": "2026-05-13 14:59:39",
+      "tags": [
+        "MKT News",
+        "688256.SS",
+        "Impact bullish"
+      ],
+      "text": "A-SHARE CAMBRICON TURNOVER REACH 20BN YUAN, UP 2.92%"
+    },
+    {
+      "id": "te:economy:550254",
+      "time": "2026-05-13 14:59:05",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "France",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "France April Inflation Confirmed at 2.2% — France’s annual inflation rose to 2.2% in April 2026 from 1.7% in March, confirming preliminary estimates and marking its highest level since July 2024. The pickup was mainly driven by energy prices, which surged 14.3% (vs 7.4% in March), reflecting a sharp rise in petroleum products (31.4% vs 18.1%) linked to the Middle East conflict. Services inflation also edged up to 1.8% from 1.7%. In contrast, food inflation slowed to 1.2% from 1.8%, while prices of manufactured goods continued to decline (-0.6% vs -0.5%). On a monthly basis, CPI rose 1.0%, unchanged from March, driven by increases in seasonal services (1.2%) and higher energy prices (4.7%), especially petroleum products (8.2%), while food rose slightly and manufactured goods were stable. Core inflation increased to 1.2% from 1.1%. Meanwhile, EU-harmonized inflation rose to 2.5%, marking the first time since August 2024 that France has exceeded the ECB’s 2% target."
+    },
+    {
+      "id": "4877091",
+      "time": "2026-05-13 14:58:47",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "【莫迪的緊縮政策加劇了市場對印度股市的悲觀情緒】印度總理莫迪推動限制燃油和黃金消費的舉措，加劇了印度本已疲軟的股市的不確定性，並引發了人們的擔憂，即旨在保護經濟的措施最終可能會抑制整體消費支出。週三，印度政府將黃金和白銀的進口稅提高了一倍以上。此前，莫迪呼籲削減非必需品進口，以保護外匯儲備。受中東衝突的影響，投資者對進一步的措施（例如燃油價格上漲）日益擔憂，印度NIFTY指數本週下跌了約3%。Pace 360首席全球策略師戈埃爾表示：“第一輪攻勢已經打響，即對黃金進口徵稅——而且可能還會有更多舉措出臺。”他預計，如果伊朗戰爭持續下去，汽油零售價格將會上漲。“市場對這些宣告反應強烈。地緣政治方面的悲觀情緒再次達到極高水平。”"
+    },
+    {
+      "id": "4877090",
+      "time": "2026-05-13 14:58:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息： 哈薩克 1-4 月原油減產約 500 萬噸。"
+    },
     {
       "id": "4877089",
       "time": "2026-05-13 14:57:31",
@@ -133721,209 +133815,6 @@
         "其他"
       ],
       "text": "【我科研團隊首次揭示交錯磁近鄰效應】記者6日從寧波東方理工大學獲悉，該校周通團隊在磁學與自旋電子學領域取得重要進展，首次揭示了交錯磁近鄰效應，為交錯磁性的介面工程與功能化應用開闢了全新路徑。相關成果日前發表在國際期刊《物理評論快報》上。（科技日報）"
-    },
-    {
-      "id": "4862826",
-      "time": "2026-05-06 15:01:25",
-      "tags": [
-        "公司",
-        "市場",
-        "焦點",
-        "A股"
-      ],
-      "text": "【收評：創業板指放量漲2.75%續創近11年新高，市場成交額放大至3.2萬億元】A股三大指數今日集體上漲，截至收盤，上證指數漲1.17%，深證成指漲2.33%，創業板指漲2.75%，北證50漲2.5%，科創50指數漲5.47%。全市場成交額32466億元，較上日成交額放量4874億元，全市場超3800只個股上漲。板塊題材上，貴金屬、儲存晶片、算力租賃、PET銅箔、小金屬、CPO、PCB概念、液冷伺服器板塊漲幅居前；油氣開採及服務、旅遊及酒店、白酒、銀行、教育、大豆、草甘膦板塊跌幅居前。盤面上，海外儲存晶片巨頭接連大漲推動AI產業鏈集體爆發，儲存晶片方面，江波龍、兆易創新、通富微電等10餘股漲停；PET銅箔概念股午後大幅拉昇，德福科技20cm漲停續創新高，銅冠銅箔、萬邦股份跟漲；國產算力晶片方向同樣表現強勁，海光資訊早盤一度20cm漲停創新高。國際金價反彈，貴金屬板塊午後震盪走高，曉程科技、四川黃金、赤峰黃金領漲板塊。另一方面，油氣股跟隨國際油價調整，中曼石油、中國海油等股下挫。白酒股同樣表現欠佳，五糧液盤中跌超5%，此前公司2025年財報“重寫”。"
-    },
-    {
-      "id": "4862825",
-      "time": "2026-05-06 15:01:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "【5月6日：“農產品批發價格200指數”比節前下降0.14個點】據農業農村部監測，5月6日“農產品批發價格200指數”為116.11，比節前（4月30日，下同）下降0.14個點，“菜籃子”產品批發價格指數為116.70，比節前下降0.16個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為15.19元/公斤，與節前持平；牛肉66.76元/公斤，比節前上升0.4%；羊肉64.34元/公斤，比節前上升0.5%；雞蛋8.83元/公斤，比節前上升4.1%；白條雞17.42元/公斤，比節前上升1.0%。重點監測的28種蔬菜平均價格為4.25元/公斤，比節前下降0.2%；重點監測的6種水果平均價格為7.69元/公斤，比節前上升0.3%。鯽魚20.35元/公斤，比節前上升1.3%；鯉魚14.95元/公斤，比節前上升0.2%；白鰱魚10.65元/公斤，比節前上升1.5%；大帶魚43.11元/公斤，比節前上升1.2%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與節前相比價格升幅前五名的是菜花、巨峰葡萄、雞蛋、菠蘿和芹菜，幅度分別為9.6%、5.6%、4.1%、3.0%和2.6%；價格降幅前五名的是西瓜、冬瓜、西葫蘆、萵筍和黃瓜，幅度分別為5.0%、3.6%、3.4%、3.2%和2.9%。"
-    },
-    {
-      "id": "4862824",
-      "time": "2026-05-06 15:01:15",
-      "tags": [
-        "市場"
-      ],
-      "text": "南非主要股指上漲1.1%，至116,254.40。"
-    },
-    {
-      "id": "4862823",
-      "time": "2026-05-06 15:01:08",
-      "tags": [
-        "市場"
-      ],
-      "text": "【ETF兩市成交額4726.58億元】截至收盤，ETF兩市成交額報4726.58億元，分型別來看，股票型ETF成交額1957億元，債券型ETF成交額1449.77億元，貨幣型ETF成交額504.66億元，商品型ETF成交額93.39億元，QDII型ETF成交額444.35億元。其中，成交額最高的非貨幣型ETF分別是滬深300ETF（510300）中證500ETF（510500）科創50ETF（588000）成交額分別為91.31億元88.73億元76.67億元"
-    },
-    {
-      "id": "4862822",
-      "time": "2026-05-06 15:01:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "A股收盤，上證指數漲1.17%，深證成指漲2.33%，創業板指漲2.75%。"
-    },
-    {
-      "id": "4862821",
-      "time": "2026-05-06 15:00:54",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【市場監管總局召開黨組（擴大）會議深入學習貫徹中央政治局會議精神】會議強調，要縱深推進全國統一大市場建設，開展制止濫用行政權力排除、限制競爭反壟斷執法質效提升專項行動，綜合運用標準引領、價格執法、質量監管等手段，深入整治“內卷式”競爭。要加快推進放心消費環境建設，強化消費糾紛源頭解決，加強消費維權能力建設。要增強質量技術基礎能力，新建一批國家計量基準，健全國家標準體系，深入實施“質量三強一基”工程。要防範化解市場監管領域安全風險，深化平臺外賣食品安全等專項整治，加強重點產品質量安全追溯。要圍繞樹立和踐行正確政績觀，紮實推進各項工作取得實績實效。同時，要做好“五一”期間“三品一特”安全監管、價格監管等工作，強化值班值守和應急處置。"
-    },
-    {
-      "id": "4862820",
-      "time": "2026-05-06 15:00:43",
-      "tags": [
-        "資料",
-        "市場"
-      ],
-      "text": "捷克統計局公佈，4月CPI初值同比上漲2.5%，符合路透調查預期的上漲2.5%。"
-    },
-    {
-      "id": "te:economy:548193",
-      "time": "2026-05-06 15:00:42",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "France",
-        "Industrial Production Mom",
-        "Importance 1"
-      ],
-      "text": "France Industrial Output Exceeds Expectations — Industrial production in France rose 1% month-on-month in March 2026, beating market expectations of a 0.5% increase and rebounding from an upwardly revised 0.9% fall in the previous month. Manufacturing output recovered to 1.2% from a 0.1% decline in February, mainly driven by a rebound in transport equipment (2.3% vs -0.7%), agri-food products (1% vs -0.8%), and electrical, electronic and computer equipment (1.6% vs -0.2%). Output also strengthened in the manufacture of coke and refined petroleum products (6.3% vs 1.6%) and other industrial goods (0.8% vs 0.2%). Overall industrial production was further supported by a return to growth in extractive industries, energy and water (0.3% vs -3.4%), particularly electricity, gas, steam and air-conditioning (0.3% vs -3.5%). On a yearly basis, industrial output increased 0.9% in March, compared with a 0.3% decline in the previous month."
-    },
-    {
-      "id": "4862819",
-      "time": "2026-05-06 15:00:35",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "諾和諾德<NOVOb.CO>股價上漲5.2%，此前該公司第一季度業績超出市場預期，且上調了業績展望。"
-    },
-    {
-      "id": "4862818",
-      "time": "2026-05-06 15:00:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防軍：一枚攔截導彈已向疑似空中目標發射，該目標位於以色列國防軍在黎巴嫩南部行動區域，攔截結果正在審查中。"
-    },
-    {
-      "id": "te:markets:548192",
-      "time": "2026-05-06 15:00:22",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "ASX 200 Snaps Losing Streak, Ends at Near Two-Week High — The S&P/ASX 200 surged 113 points or 1.3% to close at 8,794 on Wednesday, ending two sessions of losses and nearing a two-week high. A solid rise in U.S. stock futures boosted sentiment after Wall Street hit record highs, as President Trump signaled a comprehensive deal with Iran was close and paused naval operations in the Strait of Hormuz. Regional confidence was reinforced by stronger April manufacturing and services data in China, Australia’s top trading partner. However, gains were capped by caution ahead of Australia's trade data later this week. On the policy front, the Reserve Bank raised rates for a third straight meeting on Tuesday, in line with expectations, but warned that higher fuel costs from the Middle East conflict risk second-round inflation effects. Sector gains were broad, led by non-energy minerals, logistics, and financials. PLS Group climbed 3.3%, followed by Fortescue (3.2%), BHP (3.0%), and Evolution Mining (2.2%). The big four banks rose between 2.8% and 3.5%."
-    },
-    {
-      "id": "4862817",
-      "time": "2026-05-06 15:00:18",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超3.2萬億元，較上日此時放量4763億元。"
-    },
-    {
-      "id": "4862816",
-      "time": "2026-05-06 15:00:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "【股指期貨午盤收盤】 中證1000指數期貨連續漲2.27%， 滬深300指數期貨連續漲1.64%， 中證500指數期貨連續漲2.81%， 上證50指數期貨連續漲1.43%。"
-    },
-    {
-      "id": "4862815",
-      "time": "2026-05-06 15:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【商品期貨收盤】錫連續漲8.38%，碳酸鋰連續漲7.31%，白銀連續漲5.85%，集運指數歐線期貨連續漲5.07%，燒鹼連續漲4.51%，鈀連續漲4.18%，鉑連續漲4.03%，鎳連續漲3.52%，低硫燃料油連續漲2.93%，鐵礦石連續漲2.84%。"
-    },
-    {
-      "id": "te:markets:548191",
-      "time": "2026-05-06 15:00:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Stocks in Italy Hit 26-year High — IT40 increased to 49068.00 Index Points, the highest since March 2000. Over the past 4 weeks, Italy Stock Market Index (IT40) gained 8.01%, and in the last 12 months, it increased 28%."
-    },
-    {
-      "id": "4862814",
-      "time": "2026-05-06 15:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "歐股開盤漲跌不一，德國DAX指數漲1.71%，英國富時100指數跌1.4%，法國CAC40指數漲1.08%，歐洲斯托克50指數漲1.84%，義大利富時MIB指數漲2.27%。"
-    },
-    {
-      "id": "4862813",
-      "time": "2026-05-06 15:00:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4680美元/盎司，日內漲2.44%。"
-    },
-    {
-      "id": "4862812",
-      "time": "2026-05-06 14:59:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "戴姆勒卡車首席財務官在電話會議上表示：我們已根據美國本土含量計劃申請關稅減免。"
-    },
-    {
-      "id": "4862811",
-      "time": "2026-05-06 14:59:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "戴姆勒卡車首席財務官在電話會議上表示：一季度關稅影響金額達到了三位數百萬低位區間（即1億-2億美元/歐元之間，依計價貨幣不同而定）。"
-    },
-    {
-      "id": "te:markets:548190",
-      "time": "2026-05-06 14:58:42",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "UK Natural Gas Prices Drop from 4-Week High — UK natural gas futures dropped more than 2% to 112.4 pence per therm, retreating from a four-week high amid hopes of a US-Iran peace agreement that could ease Hormuz disruptions. President Donald Trump said efforts to guide stranded vessels out of the strait would be temporarily paused as part of a push to secure a deal with Iran, but maintained restrictions on Iranian ports. Secretary of State Marco Rubio also stated that the ceasefire remains intact and that the initial US-Israeli offensive in Iran has ended. Meanwhile, Iran denied carrying out attacks in the UAE and warned it would retaliate if Abu Dhabi launches strikes on its territory. UK gas prices have surged more than 50% as tighter supply heightened competition for cargoes, though they have eased from earlier peaks as demand from parts of Asia softened. Meanwhile, weather forecasts for May across Europe suggest volatility, with alternating storm systems and warmer spells likely to drive fluctuations in demand."
-    },
-    {
-      "id": "te:economy:548189",
-      "time": "2026-05-06 14:58:21",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Hungary",
-        "Industrial Production",
-        "Importance 1"
-      ],
-      "text": "Hungary Factory Output Hits Over 3-Year High — Industrial production in Hungary rose by 6.7% year-on-year in March 2026, rebounding sharply from a 1.5% decline in the previous month, according to preliminary estimates. This marked the strongest growth in over three years, since September 2022, with production volumes increasing across the vast majority of manufacturing subsectors compared to the same month a year earlier. Among the most important sub-sectors, manufacture of computer, electronic and optical products, as well as in electrical equipment and in food, beverages, and tobacco products grew significantly. Meanwhile the manufacture of transport equipment expanded slightly. On a seasonally and working-day-adjusted basis, industrial output rose by 3.1% in March, reversing a 1.8% decrease in February. Over the first quarter of 2026, industrial production was 1.0% higher than in the same period last year."
-    },
-    {
-      "id": "4862810",
-      "time": "2026-05-06 14:57:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "【海光資訊成交額達200億元，現漲16.46%】5月6日下午，海光資訊成交額達200億元，現漲16.46%。"
     }
   ]
 }
