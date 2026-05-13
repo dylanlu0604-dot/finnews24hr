@@ -1,7 +1,76 @@
 {
-  "updated": "2026-05-13 11:19:18",
-  "count": 14935,
+  "updated": "2026-05-13 11:25:03",
+  "count": 14937,
   "items": [
+    {
+      "id": "4876821",
+      "time": "2026-05-13 11:23:02",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【海南板塊震盪走強】海南板塊震盪走強，金盤科技漲超10%，海南瑞澤、海南橡膠、海汽集團、新大洲A、中鎢高新、海馬汽車跟漲。"
+    },
+    {
+      "id": "4876820",
+      "time": "2026-05-13 11:22:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國航空發動機集團增資至約511.5億】天眼查App顯示，5月11日，中國航空發動機集團有限公司發生工商變更，註冊資本由500億人民幣增至約511.5億人民幣。該公司成立於2016年5月，法定代表人為張玉金，經營範圍含軍民用飛行器動力裝置、第二動力裝置、燃氣輪機、直升機傳動系統的設計、研製、生產、維修、銷售和售後服務等，由中國航空工業集團有限公司、中國商用飛機有限責任公司等共同持股。"
+    },
+    {
+      "id": "4876819",
+      "time": "2026-05-13 11:22:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【超盒算NB首次進京 6月多店同開 盒馬要從美團手裡“搶”回主場】盒馬折扣業態超盒算NB門店將在北京多店同開，入駐朝陽望京、昌平回龍觀等地的商場。據部分知情人士透露，北京多家超盒算NB新店預計6月中下旬同步開業。盒馬此次轉頭殺回北京，也是為防守將在京開出近10家快樂猴超市的美團。短短一年多時間，盒馬與美團激烈角逐，從江浙滬大本營一路火拼至華南市場。電商巨頭圍繞折扣超市的門店規模、自有品牌和履約能力展開全方位競賽。硬折扣戰事迎來新一輪升級。（北京商報）"
+    },
+    {
+      "id": "te:markets:550185",
+      "time": "2026-05-13 11:22:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "New Zealand Dollar Edges Higher — The New Zealand dollar edged up to $0.596 as investors digested comments from Prime Minister Christopher Luxon. In a pre-Budget speech, Luxon reaffirmed the government’s commitment to returning the budget to a surplus by 2028–29 and placing debt on a downward trajectory toward 40% of GDP. The country's Budget for 2026 will be delivered on May 28. Meanwhile, investors remain focused on geopolitical developments in the Middle East, where rising tensions have pushed oil prices higher. This has complicate New Zealand’s efforts to contain inflation while supporting an economic recovery. Reserve Bank of New Zealand Governor Anna Breman recently noted that core inflation measures remained stable within the central bank’s target range in the first quarter, prompting investors to trim bets on a rate hike in May. However, markets continue to fully price in an increase in July as elevated energy costs fuel inflation concerns."
+    },
+    {
+      "id": "4876818",
+      "time": "2026-05-13 11:22:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局：日本伊豆群島地區發生5.1級地震。"
+    },
+    {
+      "id": "4876817",
+      "time": "2026-05-13 11:20:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【西門子醫療與養和簽署合作協議】5月12日，西門子醫療與養和醫療集團在\"亞洲醫療健康高峰論壇\"上籤署合作協議，確立養和成為西門子醫療在亞洲首個光子計數CT模擬定位技術（Photon-counting CT Simulator）卓越示範中心。"
+    },
+    {
+      "id": "4876816",
+      "time": "2026-05-13 11:20:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本電產：將審查相關問題對財務業績的影響。"
+    },
+    {
+      "id": "4876815",
+      "time": "2026-05-13 11:19:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本電產：目前未發現任何會立即影響產品功能或安全性的問題。"
+    },
     {
       "id": "4876814",
       "time": "2026-05-13 11:19:05",
@@ -9,6 +78,14 @@
         "其他"
       ],
       "text": "【小米汽車工廠暫停預約參觀】據小米汽車工廠參觀預約介面顯示，小米官方已臨時關閉5月13日至5月22日期間的工廠參觀報名通道，使用者在此時間段內無法提交參觀預約申請。"
+    },
+    {
+      "id": "4876813",
+      "time": "2026-05-13 11:18:45",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【島內團體希望邀請張凌赫、劉宇寧赴臺交流，國臺辦：支援】國務院臺辦13日上午舉行例行新聞釋出會，發言人張晗回答記者提問。有臺灣記者問，臺北演藝經紀文化交流協會創會理事長王祥基5月11日在北京出席海峽兩岸中華文化峰會時透露，今年將持續推動兩岸演藝合作，希望邀請大陸藝人如張凌赫、劉宇寧等人赴臺交流，計劃透過籤售會、影視創作座談會等文化活動，讓臺灣粉絲有機會近距離與偶像見面。訊息一出，引發臺灣粉絲的熱烈期待。請問發言人對此有何評論？臺灣粉絲有機會實現追星夢嗎？張晗說，近期，多部大陸影視劇在島內熱播，其中一些演員深受臺灣觀眾的喜愛，我們對此喜聞樂見，支援臺灣有關團體邀請大陸藝人赴臺交流與島內觀眾見面。（澎湃新聞）"
     },
     {
       "id": "4876812",
@@ -133310,71 +133387,6 @@
         "公司"
       ],
       "text": "【長安凱程換帥完成工商變更】天眼查App顯示，近日，長安凱程關聯公司重慶長安凱程汽車科技有限公司發生工商變更，彭陶卸任法定代表人、董事長，由王孝飛接任，同時，多位高管發生變更。該公司成立於2020年7月，註冊資本約14.2億人民幣，經營範圍含汽車租賃、道路貨物運輸、汽車新車銷售、汽車零配件批發、汽車零部件及配件製造、新能源汽車整車銷售、新能源汽車電附件銷售、汽車零部件研發、工程和技術研究和試驗發展等。股東資訊顯示，該公司由長安汽車（000625）、重慶臨空開發投資集團有限公司、建信金融資產投資有限公司等共同持股。"
-    },
-    {
-      "id": "4862519",
-      "time": "2026-05-06 11:24:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "【張新武已任全國總工會副主席候選人】中華全國總工會網站近日更新後顯示，此前擔任全國總工會書記處書記、黨組成員的張新武已任全國總工會副主席候選人。（澎湃）"
-    },
-    {
-      "id": "te:economy:548111",
-      "time": "2026-05-06 11:24:20",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "China",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "China 10Y Yield Rises After Holiday Break — China’s 10-year government bond yield rose toward 1.77% on Wednesday as investors returned from an extended holiday break, with sentiment shifting on the back of improving geopolitical signals and upbeat PMI data. US President Trump said there was “great progress” toward a “complete and final agreement with representatives of Iran.” He also noted that the United States would temporarily pause efforts to assist stranded vessels leaving the Strait of Hormuz, signaling a potential easing of regional tensions. Similarly, Trump said he plans to discuss the Iran situation with Chinese President Xi Jinping during their upcoming summit on May 14–15, in an effort to help de-escalate broader geopolitical risks. On the domestic front, a private survey indicated continued economic expansion, with the composite PMI rising to 53.1 in April from 51.5 in March, reflecting faster growth in both sectors, as manufacturing output increased to 52.2 from 50.8 and services activity rose to 52.6 from 52.1."
-    },
-    {
-      "id": "te:markets:548110",
-      "time": "2026-05-06 11:24:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "TTF Prices Hold Decline — European natural gas futures hovered around €46.8 per MWh, holding their retreat from a four-week high after President Trump hinted at progress toward a peace deal with Iran. Trump said that operations to escort stranded ships out of the Strait of Hormuz would be briefly paused in a bid to reach a deal with Iran to end the Middle East war. However, he maintained restrictions on Iranian ports. This followed comments from Secretary of State Marco Rubio, who said the ceasefire remains intact and that the initial US-Israeli offensive in Iran is over after achieving its objectives. Meanwhile, Iran denied carrying out attacks against the UAE and warned of retaliation if Abu Dhabi launches strikes on its territory. The strait has been effectively closed for the past two months, cutting roughly one-fifth of global LNG supply. Prices have climbed about 40% since the start of the conflict, although they have recently eased amid weak demand from some Asian buyers."
-    },
-    {
-      "id": "4862518",
-      "time": "2026-05-06 11:23:23",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "截止11:23，兩市100只個股漲停。"
-    },
-    {
-      "id": "4862517",
-      "time": "2026-05-06 11:22:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國KOSPI指數突破7400點，日內漲6.68%。"
-    },
-    {
-      "id": "4862516",
-      "time": "2026-05-06 11:19:47",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4650美元/盎司，日內漲2.04%。"
-    },
-    {
-      "id": "4862515",
-      "time": "2026-05-06 11:19:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "【長三角鐵路“五一”假期傳送旅客超2138萬人次 增幅超5.6%】從中國鐵路上海局集團有限公司獲悉，剛剛過去的“五一”假期長三角鐵路傳送旅客約2138.1萬人次，日均傳送427.6萬人次，日均較去年同期多傳送旅客約22.8萬人次，增幅超5.6%。其中，5月1日單日傳送旅客473.8萬人次，創上鐵集團單日旅客傳送量新高，5月5日返程最高峰傳送431.1萬人次，客流熱度貫穿整個假期。"
     }
   ]
 }
