@@ -1,7 +1,30 @@
 {
-  "updated": "2026-05-14 04:41:56",
-  "count": 15436,
+  "updated": "2026-05-14 04:45:21",
+  "count": 15435,
   "items": [
+    {
+      "id": "4878630",
+      "time": "2026-05-14 04:44:49",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點",
+        "其他"
+      ],
+      "text": "【5月14日美股成交額前20：美光市值突破9000億美元】週三美股成交額第1名美光收高4.83%，股價首次收在800美元之上，創歷史新高，成交430.45億美元，市值突破9000億美元。美銀將美光股價目標從500美元上調至950美元，同時維持對該股的“買入”評級。該行認為，未來幾年，與人工智慧伺服器和資料中心相關的記憶體晶片需求增速將繼續超過供應增速。在這一趨勢中，美光已成為最大的贏家之一，尤其是在先進人工智慧晶片中使用的高頻寬記憶體領域。"
+    },
+    {
+      "id": "te:markets:550428",
+      "time": "2026-05-14 04:43:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Closes Lower on Hawkish Fed Outlook — The S&P/TSX Composite Index fell 0.7% to close at 34,041 on Wednesday as investors assessed the outlook for restrictive monetary policy and elevated energy prices. The stalling of US-Iran peace talks this week reduced expectations for a reopening of the Strait of Hormuz, while concerns over stagflation pressures and rising bond yields continued to weigh on banks and the broader market. BMO fell 1.4% and Royal Bank of Canada lost 1.2%. Meanwhile, gold prices extended declines after stronger-than-expected US producer prices reinforced expectations of tighter Federal Reserve policy, pressuring mining stocks. Agnico Eagle slipped 0.6% and Barrick dropped 2.1%. Elsewhere, Equinox Gold fell 2.1% after announcing plans to acquire Orla Mining (+0.8%) in a deal that would create a North America-focused gold producer valued at roughly $18.5 billion. Boyd Group slumped 12% after first-quarter sales missed forecasts."
+    },
     {
       "id": "4878629",
       "time": "2026-05-14 04:36:19",
@@ -138727,31 +138750,6 @@
         "國際"
       ],
       "text": "哈馬斯：儘管已達成停火，以色列仍在加沙持續犯下殘暴罪行。"
-    },
-    {
-      "id": "4864198",
-      "time": "2026-05-07 04:43:58",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗向霍爾木茲海峽的商船發出通知稱，伊朗港口已做好全面準備，可為過往船舶提供通用航運服務與保障。"
-    },
-    {
-      "id": "4864197",
-      "time": "2026-05-07 04:43:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗官方正考慮美方提出的一項新提案，該提案或有望重啟和平談判；與此同時，特朗普總統發出威脅，若伊朗不予同意，美方將重啟大規模毀滅性轟炸行動。"
-    },
-    {
-      "id": "4864196",
-      "time": "2026-05-07 04:42:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "三菱重工力求提升投入產出效益，以對標通用電氣韋諾瓦、西門子。"
     }
   ]
 }
