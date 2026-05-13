@@ -1,7 +1,39 @@
 {
-  "updated": "2026-05-13 09:51:52",
-  "count": 14879,
+  "updated": "2026-05-13 09:55:16",
+  "count": 14870,
   "items": [
+    {
+      "id": "4876471",
+      "time": "2026-05-13 09:53:12",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【金屬鋅板塊短線拉昇】金屬鋅板塊短線拉昇，羅平鋅電漲停，盛屯礦業、恆邦股份、馳宏鋅鍺、中金嶺南、鋅業股份等紛紛走高。"
+    },
+    {
+      "id": "mkt:019e1f09-67f1-7553-b25d-978abb02d780",
+      "time": "2026-05-13 09:52:50",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "NVIDIA SAYS CEO JENSEN HUANG IS JOINING TRUMP’S CHINA TRIP - CNBC"
+    },
+    {
+      "id": "mkt:019e1f09-63d6-7553-b25d-88b457c4db21",
+      "time": "2026-05-13 09:52:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "600875.SS",
+        "Impact bullish",
+        "2208.HK"
+      ],
+      "text": "HK WIND POWER STOCKS GAIN: DONGFANG ELECTRIC UP NEARLY 6%, GOLDWIND UP 4.24%"
+    },
     {
       "id": "4876464",
       "time": "2026-05-13 09:51:03",
@@ -132689,108 +132721,6 @@
         "其他"
       ],
       "text": "【東莞市政府副秘書長陳志軍主動投案接受紀律審查和監察調查】據“廉潔東莞”6日訊息，東莞市政府副秘書長陳志軍涉嫌嚴重違紀違法，主動投案，目前正接受東莞市紀委監委紀律審查和監察調查。"
-    },
-    {
-      "id": "4862400",
-      "time": "2026-05-06 09:55:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "據知情人士透露，韓國煉油商SK Innovation購買了至少400萬桶美國原油，將於8月到貨。"
-    },
-    {
-      "id": "4862399",
-      "time": "2026-05-06 09:54:53",
-      "tags": [],
-      "text": "創業板指漲逾3％，江波龍漲近20％，北京君正、潤澤科技漲逾10％，常山藥業、光環新網漲逾9％。"
-    },
-    {
-      "id": "4862398",
-      "time": "2026-05-06 09:54:37",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內漲幅達8.04%，成分股中，海光資訊漲20.00%，佰維儲存漲16.73%，瀾起科技漲15.46%，龍芯中科漲14.90%。"
-    },
-    {
-      "id": "4862397",
-      "time": "2026-05-06 09:54:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "【科創50指數漲幅擴大至8%】科創50指數漲幅擴大至8%，現報1696.91點。"
-    },
-    {
-      "id": "4862395",
-      "time": "2026-05-06 09:54:07",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超1萬億元，較上日此時放量1227億元。"
-    },
-    {
-      "id": "4862394",
-      "time": "2026-05-06 09:53:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "【房地產板塊延續強勢 金融街3連板】房地產板塊延續強勢，金融街3連板，大名城、特發服務、我愛我家、三湘印象、濱江集團跟漲。"
-    },
-    {
-      "id": "4862393",
-      "time": "2026-05-06 09:53:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "北證50日內漲幅達2.02%，成分股中，華嶺股份漲15.04%，戈碧迦漲11.29%，曙光數創漲7.11%，並行科技漲6.08%。"
-    },
-    {
-      "id": "4862392",
-      "time": "2026-05-06 09:53:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "【箭元科技等在山東成立航天科技新公司】企查查APP顯示，近日，經緯領航（山東）航天科技有限公司成立，註冊資本1億元，經營範圍包含：火箭發射裝置研發和製造；民用航天發射技術服務等。企查查股權穿透顯示，該公司由北京箭元科技有限責任公司等共同持股。"
-    },
-    {
-      "id": "4862391",
-      "time": "2026-05-06 09:53:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "SK海力士漲超10%。"
-    },
-    {
-      "id": "4862390",
-      "time": "2026-05-06 09:52:56",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "創業板指漲3.00%，現報3787.606點；上證指數漲0.88%，現報4148.534點；深證成指漲2.14%，現報15431.146點。"
-    },
-    {
-      "id": "4862389",
-      "time": "2026-05-06 09:52:17",
-      "tags": [
-        "市場"
-      ],
-      "text": "【創新藥概念股震盪上揚，通化金馬漲停】創新藥概念股震盪上揚，通化金馬漲停，歐林生物、博瑞醫藥漲超10%，常山藥業、仟源醫藥、奧翔藥業、聯環藥業、振東製藥跟漲。"
-    },
-    {
-      "id": "te:economy:548076",
-      "time": "2026-05-06 09:52:07",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "China",
-        "Services PMI",
-        "Importance 2"
-      ],
-      "text": "China Services Growth Beats Estimates — The RatingDog China General Services PMI increased to 52.6 in April 2026 from March’s three-month low of 52.1, surpassing market forecasts of 52. New business grew for the fortieth successive month, the second-longest period of continuous expansion in the survey's history, with domestic demand remaining a key driver. Meanwhile, foreign sales fell for the second straight month, although the rate of decline was only marginal and eased compared with March. Employment declined fractionally for the third month in succession. Average input price inflation accelerated to its highest level in 2026 so far, boosted by higher oil prices and fuel costs due to the impact of the war in the Middle East. Meanwhile, selling prices fell for the fourth time in the past five months, albeit marginally. Finally, business confidence was among the highest recorded over the past year, supported by new projects, market expansion, and efficiency gains."
     }
   ]
 }
