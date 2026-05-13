@@ -1,7 +1,71 @@
 {
-  "updated": "2026-05-13 15:27:14",
-  "count": 14974,
+  "updated": "2026-05-13 15:30:35",
+  "count": 14969,
   "items": [
+    {
+      "id": "te:markets:550274",
+      "time": "2026-05-13 15:30:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Opens 0.23% Higher — The CAC 40 Index is gaining 19 points or 0.23 percent on Wednesday. Leading the gains are ArcelorMittal (3.47%), STMicroelectronics (3.10%) and Legrand (1.12%). Top losers are Renault (-1.89%), Kering (-1.30%) and LVMH (-1.29%)."
+    },
+    {
+      "id": "4877148",
+      "time": "2026-05-13 15:29:38",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "保時捷股份公司法蘭克福早盤股價走勢反轉，目前下跌1.4%。"
+    },
+    {
+      "id": "4877147",
+      "time": "2026-05-13 15:29:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "韋斯・斯特里廷進入唐寧街 10 號，與斯塔默舉行會晤。"
+    },
+    {
+      "id": "te:markets:550273",
+      "time": "2026-05-13 15:28:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "UK Natural Gas Holds Advance — UK natural gas futures dropped to 114 pence per therm but still held most of its gains from the previous sessions, amid persistent uncertainty over how long supply disruptions in the Middle East would last. President Donald Trump’s dismissal of Iran’s response to a US-backed peace proposal has intensified concerns that the 10-week war could continue, further disrupting shipping through the Strait of Hormuz. Optimism for a lasting ceasefire have also diminished. The strait remained largely closed, with the route currently facing restrictions from both sides, choking off around one-fifth of global LNG supply. While most gas from the Persian Gulf goes to Asia, the disruption has tightened global supply and increased competition, fueling concerns in Europe as the region needs to replenish inventories before next winter."
+    },
+    {
+      "id": "4877146",
+      "time": "2026-05-13 15:28:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外交部：堅決反對所謂“哥本哈根民主峰會”執意邀請“臺獨”分子大放厥詞】針對有報道說賴清德在“哥本哈根民主峰會”發表影片講話，外交部發言人郭嘉昆13日在例行記者會上答問時表示，所謂“哥本哈根民主峰會”充滿意識形態偏見，執意邀請“臺獨”分子大放厥詞，嚴重違反一箇中國原則，我們對此堅決反對。中方敦促有關方面切實恪守一箇中國原則，不為“臺獨”勢力提供舞臺。郭嘉昆說，無論賴清德說什麼、做什麼，都改變不了臺灣是中國領土一部分的歷史和法理事實，撼動不了國際社會堅持一箇中國原則的基本格局。（新華社）"
+    },
+    {
+      "id": "4877145",
+      "time": "2026-05-13 15:28:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "【英國國債收益率下跌，正值英國首相繼續留任之際】英國國債收益率下跌，扭轉了週二的大幅上漲勢頭，正值英國首相基爾·斯塔默誓言繼續擔任英國領導人之際。到目前為止，斯塔默的潛在挑戰者尚未正式宣佈參選，這緩解了人們對近期領導層更迭的擔憂。英國國債收益率週二攀升至數十年來的高點，因為投資者擔心英國領導層的更迭可能會為更高的財政支出開啟大門，並可能導致更多的政府債務。Tradeweb的資料顯示，10年期英國國債收益率下跌3.7個基點，至5.057%。"
+    },
+    {
+      "id": "4877143",
+      "time": "2026-05-13 15:27:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "南非主要股指上漲 1%，報 117936.80 點。"
+    },
     {
       "id": "4877142",
       "time": "2026-05-13 15:26:55",
@@ -133761,112 +133825,6 @@
         "其他"
       ],
       "text": "【西藏自治區拉薩市委常委、常務副市長佔堆被查】據西藏自治區紀委監委訊息：西藏自治區拉薩市委常委、常務副市長，一級巡視員佔堆涉嫌嚴重違紀違法，目前正接受西藏自治區紀委監委紀律審查和監察調查。"
-    },
-    {
-      "id": "te:markets:548209",
-      "time": "2026-05-06 15:30:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The CAC 40 Index Opens 1.24% Higher — The CAC 40 Index is up by 100 points or 1.24 percent on Wednesday. Top gainers are Safran (3.82%), AXA (3.30%) and Bouygues (3.26%)."
-    },
-    {
-      "id": "4862885",
-      "time": "2026-05-06 15:30:00",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【有餐飲店回收廢棄油？重慶萬州：調查仍在進行中】重慶市萬州區市場監管局5月6日通報：近日，網傳萬州區“某餐飲店回收廢棄油”的影片，引發社會關注。對此，市監局局高度重視，第一時間聯合城市管理、公安等部門和屬地街道辦事處趕赴現場，全面調查核實。透過調取店內監控、查驗進出貨臺賬、詢問店員等，暫未發現有使用廢棄油脂加工食品的行為，但發現該店與第三方有廢棄油脂交易記錄。目前，調查仍在進行中，如發現有違法違規使用廢棄油脂行為，將依法依規嚴肅處理。"
-    },
-    {
-      "id": "4862884",
-      "time": "2026-05-06 15:29:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "【光子躍遷釋出首款8K AI拇指運動相機LEAPTIC Cube】5月6日，智慧影像品牌光子躍遷釋出旗下首款新品LEAPTIC Cube並開啟電商平臺預售。據介紹，LEAPTIC Cube是首款8K AI拇指運動相機，機身重55.9克，搭載1/1.3英寸大底感測器，支援8K超高畫質錄製。產品配備雙屏獨立架構與正反磁吸設計，內建全鏈路AI系統，覆蓋拍攝前引數預判、拍攝中構圖最佳化及拍攝後一鍵成片全流程。此次預售推出標準版與全能套裝。"
-    },
-    {
-      "id": "4862883",
-      "time": "2026-05-06 15:29:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中光學：半導體封裝用陶瓷劈刀產品實現小批次生產並交付客戶】中光學5月6日在互動平臺表示，公司半導體封裝用陶瓷劈刀產品實現小批次生產並交付客戶。"
-    },
-    {
-      "id": "4862882",
-      "time": "2026-05-06 15:29:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "丹麥可再生能源巨頭沃旭能源CEO表示，從供應角度來看，目前未受霍爾木茲海峽關閉的影響。"
-    },
-    {
-      "id": "4862881",
-      "time": "2026-05-06 15:29:34",
-      "tags": [
-        "市場"
-      ],
-      "text": "戴姆特（Demant）股價漲幅進一步擴大，目前已上漲13%，有望創下2008年10月以來最大單日漲幅。"
-    },
-    {
-      "id": "4862880",
-      "time": "2026-05-06 15:29:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "安全訊息來源稱，無人機襲擊擊中了伊拉克埃爾比勒北部伊朗庫爾德反對派組織營地的一處軍火庫。"
-    },
-    {
-      "id": "te:markets:548208",
-      "time": "2026-05-06 15:29:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "European Stocks Up More than 1% — European stocks rose on Wednesday, with both the STOXX 50 and the STOXX 600 gaining more than 1%, extending the previous session’s rally. The move came as oil prices declined for a second consecutive day, amid hopes that a resolution to the conflict with Iran could be reached soon. US President Trump announced a pause in “Project Freedom,” a plan aimed at “guiding” ships through the Strait of Hormuz. Meanwhile, the earnings season remains in full swing. Shares of Novo Nordisk surged 7% after the company raised its full-year profit guidance, while AXA climbed 2.5% following a 6% increase in first-quarter revenue."
-    },
-    {
-      "id": "4862879",
-      "time": "2026-05-06 15:28:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "Equinor執行長：目前談論股票回購、特別股息還為時尚早。"
-    },
-    {
-      "id": "4862878",
-      "time": "2026-05-06 15:28:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "據以色列媒體：訊息人士稱，美國已告知以方哈馬斯拒絕解除武裝。"
-    },
-    {
-      "id": "4862877",
-      "time": "2026-05-06 15:28:20",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨賣出額達50億港元。"
-    },
-    {
-      "id": "4862876",
-      "time": "2026-05-06 15:28:07",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【英國國債收益率下跌，受油價走低影響】隨著油價下跌緩解了對通脹的擔憂，英國國債收益率走低。美國總統特朗普宣佈，他將暫停美國在霍爾木茲海峽的一項行動，以允許商船透過，這導致油價下跌，並重燃了人們對中東衝突可能得到解決的樂觀情緒。Tradeweb的資料顯示，10年期英國國債收益率下跌6.3個基點，至5.005%，週二曾觸及5.102%的六週高點。"
     }
   ]
 }
