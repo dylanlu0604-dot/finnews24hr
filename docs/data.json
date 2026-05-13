@@ -1,7 +1,70 @@
 {
-  "updated": "2026-05-13 10:38:11",
-  "count": 14914,
+  "updated": "2026-05-13 10:42:22",
+  "count": 14915,
   "items": [
+    {
+      "id": "te:economy:550172",
+      "time": "2026-05-13 10:39:17",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Japan 10Y Yield Extends Rally on BOJ Hike Bets — Japan’s 10-year government bond yield rose to around 2.59% on Wednesday, scaling its highest levels since 1997 as markets increasingly priced in an imminent interest rate hike from the Bank of Japan. The central bank’s Summary of Opinions from its April meeting indicated policymakers were open to rate increases as early as the next meeting, with surging oil prices heightening inflation risks. Members noted that the economy is recovering at a moderate pace but remains vulnerable to higher energy costs, while underlying inflation was seen gradually converging toward the 2% target. The OECD also projected that the BOJ’s policy rate could reach 2% by the end of 2027. Meanwhile, oil prices stayed elevated as diplomatic efforts to resolve the US-Iran war continued to stall, keeping inflationary pressures in focus."
+    },
+    {
+      "id": "mkt:019e1f33-8737-7553-b25e-2e3bfda186db",
+      "time": "2026-05-13 10:38:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "OECD SECRETARY-GENERAL: WE DON’T THINK BOJ IS CLEARLY BEHIND THE CURVE, INFLATION EXPECTATIONS ARE ANCHORED AND WAGE DYNAMICS ARE STRENGTHENING"
+    },
+    {
+      "id": "4876728",
+      "time": "2026-05-13 10:38:29",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超1.5萬億元，較上日此時縮量1840億元。"
+    },
+    {
+      "id": "te:markets:550171",
+      "time": "2026-05-13 10:37:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Offshore Yuan Remains at Over 3-Year Peak — The offshore yuan held steady for a second consecutive session at 6.79 per dollar on Wednesday, holding near its strongest level since February 2023, as markets positioned themselves ahead of the highly anticipated summit between US President Donald Trump and Chinese President Xi Jinping. Over the two-day talks, the leaders of the world’s two largest economies are expected to discuss a broad agenda that includes trade relations, tariffs, AI, Taiwan, and the ongoing Middle East conflict. However, President Trump has indicated he intends to focus primarily on trade, tempering the likelihood that the Iran conflict will feature prominently in the talks. Both sides are expected to push for an extension of the current trade truce, as tariffs remain a point of tension in the two countries’ relationship. China has long criticised US measures, while the Trump administration pursues investigations into Beijing’s trade practices."
+    },
+    {
+      "id": "4876717",
+      "time": "2026-05-13 10:36:25",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【國臺辦：買再多的武器都是螳臂當車 只會讓“臺獨”加速敗亡】5月13日，國務院臺辦舉行例行新聞釋出會。總檯記者就臺灣軍購費用引發輿論質疑提問。發言人張晗表示，我們堅決反對臺美軍事勾連，民進黨當局所謂防務安全包藏著以武謀“獨”、以武拒統的種種禍心，其大肆揮霍臺灣老百姓的血汗錢，甘當美國的“提款機”，損害臺灣民眾的切身利益，破壞臺海的和平穩定。我們解決臺灣問題，完成國家統一的決心堅如磐石，能力堅不可摧。正告民進黨當局，祖國統一勢不可擋，買再多的武器都是螳臂當車，只會讓“臺獨”加速敗亡，受到歷史和正義的審判。（央視新聞）"
+    },
+    {
+      "id": "4876711",
+      "time": "2026-05-13 10:35:50",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "經合組織秘書長：不以為日本央行嚴重落後於曲線。通脹預期穩定，工資增長勢頭強勁。"
+    },
     {
       "id": "4876708",
       "time": "2026-05-13 10:34:16",
@@ -133104,53 +133167,6 @@
         "公司"
       ],
       "text": "【安乃達等在南京成立智慧機器人公司】企查查APP顯示，近日，星澤卓光智慧機器人（南京）有限公司成立，法定代表人為袁儒鵬，經營範圍包含：智慧機器人的研發；智慧機器人銷售；人工智慧應用軟體開發；電力電子元器件銷售等。企查查股權穿透顯示，該公司由袁儒鵬、朱海濤、安乃達全資子公司安乃達投資（海南）有限公司共同持股。"
-    },
-    {
-      "id": "te:economy:548100",
-      "time": "2026-05-06 10:41:51",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "New Zealand",
-        "News",
-        "Importance 1"
-      ],
-      "text": "Financial System Resilient Amid Worsening Global Outlook: RBNZ — New Zealand’s financial system remains resilient even as global risks intensify, according to the central bank's Governor Anna Breman. In its latest Financial Stability Report, she said the system is well-positioned to support households and businesses if conditions weaken. However, prolonged conflict in the Middle East is raising global financial stability risks and already weighing on the domestic economy. While growth had been recovering, the outlook has softened, with slower momentum expected to affect employment and make debt servicing more challenging. Despite these headwinds, the banking sector remains robust, supported by strong capital and funding buffers. Stress tests also indicate that banks can withstand severe economic shocks, leaving them capable of supporting customers and managing pressures from offshore funding markets."
-    },
-    {
-      "id": "4862460",
-      "time": "2026-05-06 10:39:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【茅臺金石基金入股擴散焊裝備研發商陝西智拓】企查查APP顯示，近日，陝西智拓固相增材製造技術有限公司發生工商變更，新增茅臺金石（貴州）產業發展基金合夥企業（有限合夥）等為股東，同時註冊資本增至7214.63萬元。企查查資訊顯示，該公司成立於2016年，經營範圍包含：通用零部件製造；機械零件、零部件加工；金屬切割及焊接裝置製造等。據其官網，該公司致力於真空擴散焊裝備研製，材料連線，核心芯體，工程開發方向的專業服務，及整合、高效的換熱散熱解決方案。"
-    },
-    {
-      "id": "4862459",
-      "time": "2026-05-06 10:39:36",
-      "tags": [
-        "市場",
-        "觀點",
-        "央行",
-        "原創"
-      ],
-      "text": "【NAB預計澳洲聯儲6月份再次加息，將現金利率提高至4.60%】澳大利亞國民銀行（NAB）在一份報告中表示，預計澳洲聯儲將在6月份再次加息，將現金利率提高至4.60%。澳大利亞國民銀行表示，澳洲聯儲週二的決定明顯傾向於優先考慮價格穩定。隨著經濟增長放緩和失業率上升，澳洲聯儲最終將需要使現金利率正常化。該行繼續預測澳洲聯儲將在2027年下半年兩次降息，開始利率正常化程序。澳洲聯儲繼續面臨通脹率已高於目標水平的挑戰，而油價上漲帶來的第二輪壓力可能會相對迅速地顯現出來，NAB補充道。"
-    },
-    {
-      "id": "4862458",
-      "time": "2026-05-06 10:38:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "【全球數字企業服務生態共商共建共享合作倡議釋出】全球數字合作交流會暨全球資料周5月6日在上海開幕。全球數字企業服務生態共商共建共享合作倡議釋出。"
-    },
-    {
-      "id": "4862457",
-      "time": "2026-05-06 10:38:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本在菲律賓軍演發射88式導彈】據菲律賓媒體報道，今天（5月6日），日本的88式導彈首次在“肩並肩”軍演中發射。這是戰後日本首次境外發射進攻型導彈。（CCTV國際時訊）"
     }
   ]
 }
