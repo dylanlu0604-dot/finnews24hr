@@ -1,7 +1,209 @@
 {
-  "updated": "2026-05-13 15:57:37",
-  "count": 14980,
+  "updated": "2026-05-13 16:01:04",
+  "count": 14985,
   "items": [
+    {
+      "id": "mkt:019e205a-6976-755a-b974-8d4db3abe870",
+      "time": "2026-05-13 16:00:56",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "IEA ASSUMES GLOBAL GDP GROWTH OF 2.9%, DOWN FROM PREVIOUS ESTIMATE OF 3%"
+    },
+    {
+      "id": "4877242",
+      "time": "2026-05-13 16:00:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際能源署在月度報告中預計，2026年全球石油總供應將比需求每日少178萬桶，而上一份報告的預測為全球石油總供應比需求每日多41萬桶。"
+    },
+    {
+      "id": "mkt:019e205a-457a-755a-b974-869af2673249",
+      "time": "2026-05-13 16:00:47",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "IEA: GLOBAL OIL SUPPLY FORECAST TO DECLINE BY 3.9 MLN B/D IN 2026 FROM 1.5 MLN B/D PREVIOUSLY"
+    },
+    {
+      "id": "4877241",
+      "time": "2026-05-13 16:00:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "國際能源署預計，若伊朗爆發戰爭，2026年全球石油需求將每日減少42萬桶，此前的預測為每日減少8萬桶。"
+    },
+    {
+      "id": "4877240",
+      "time": "2026-05-13 16:00:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際能源署認為，自2月以來霍爾木茲海峽關閉導致的全球石油供應總損失為每日1280萬桶。"
+    },
+    {
+      "id": "mkt:019e205a-1e06-755a-b974-78b553131883",
+      "time": "2026-05-13 16:00:37",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "IEA FORECASTS OPEC+ PRODUCTION TO DECLINE BY 4.7 MLN B/D IN 2026"
+    },
+    {
+      "id": "4877239",
+      "time": "2026-05-13 16:00:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "國際能源署（IEA）稱，4月俄羅斯石油產量同比下降46萬桶/日。"
+    },
+    {
+      "id": "4877238",
+      "time": "2026-05-13 16:00:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "國際能源署（IEA）：受烏克蘭無人機襲擊影響，俄羅斯4月原油產量環比下降14萬桶/日，同比下降46萬桶/日，至880萬桶/日。"
+    },
+    {
+      "id": "mkt:019e2059-fd96-755a-b974-7173f1b18590",
+      "time": "2026-05-13 16:00:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "IEA: FORECAST BASED ON ASSUMPTION THAT FLOWS THROUGH HORMUZ GRADUALLY RESUME FROM JUNE"
+    },
+    {
+      "id": "4877237",
+      "time": "2026-05-13 16:00:26",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "國際能源署稱，受伊朗戰爭衝擊，石油庫存以創紀錄的速度下降。"
+    },
+    {
+      "id": "4877236",
+      "time": "2026-05-13 16:00:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "比亞迪表示，義大利已列入海外建廠候選國家短名單。"
+    },
+    {
+      "id": "te:markets:550289",
+      "time": "2026-05-13 16:00:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Crude Oil WTI Drops by 0.95% — Top commodity losers are Crude Oil WTI (-0.95%), Natural Gas UK (-0.88%), Heating Oil (-0.85%) and Brent Crude Oil (-0.82%)."
+    },
+    {
+      "id": "4877235",
+      "time": "2026-05-13 16:00:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：比亞迪正與斯特蘭蒂斯及其他車企洽談，擬接手歐盟汽車工廠。"
+    },
+    {
+      "id": "mkt:019e2059-9877-755a-b974-6b46a39ad53b",
+      "time": "2026-05-13 16:00:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "S&P500",
+        "Impact bullish",
+        "Hang Seng Index",
+        "CSI300"
+      ],
+      "text": "CHINA, U.S. HAD CANDID, IN-DEPTH, CONSTRUCTIVE EXCHANGES - CHINA STATE MEDIA"
+    },
+    {
+      "id": "mkt:019e2059-88c1-755a-b974-60d9719a043a",
+      "time": "2026-05-13 15:59:59",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "【China AI Stocks Surge as Huang’s Visit Boosts H200 Supply Bets】Shares of Chinese AI developers surged as Nvidia CEO Jensen Huang joined President Trump’s Beijing trip, raising hopes for H200 chip access. MiniMax Group and Zhipu climbed 18% and 38% respectively, driven by expectations that onshore LLMs could benefit from better Nvidia chips. Investors are increasingly focused on AI developments, with Huang’s last-minute addition spotlighting technology ahead of the high-stakes summit."
+    },
+    {
+      "id": "4877234",
+      "time": "2026-05-13 15:59:33",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【中美在韓國舉行經貿磋商】當地時間5月13日，中美經貿中方牽頭人、國務院副總理何立峰與美方牽頭人、美國財政部長貝森特在韓國舉行經貿磋商。雙方以兩國元首重要共識為指引，秉持相互尊重、和平共處、合作共贏的原則，就解決彼此關注的經貿問題和進一步拓展務實合作進行了坦誠、深入、建設性的交流。(新華社)"
+    },
+    {
+      "id": "4877233",
+      "time": "2026-05-13 15:58:37",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【歐洲央行管委Rehn警告 滯脹衝擊已在資料中初見端倪】歐洲央行管委Olli Rehn警告，受伊朗戰爭和能源價格上漲影響，相關資料開始顯示出滯脹跡象。“相關跡象在統計資料中已初見端倪，歐元區第一季度經濟增速僅略高於零，通脹率則加速至3%，”這位芬蘭央行行長週三在一次演講中稱。他強調當前衝擊沒有2022年上一輪價格飆升時那麼嚴重，但表示事態發展已偏離歐洲央行的基線預期，且正朝著”不太樂觀的情景靠攏，至少在油價方面是如此”。"
+    },
+    {
+      "id": "4877232",
+      "time": "2026-05-13 15:58:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【贛粵高速：4月份車輛通行服務收入約2.81億元】贛粵高速(600269)5月13日公告，公司2026年4月份車輛通行服務收入約2.81億元。"
+    },
+    {
+      "id": "4877231",
+      "time": "2026-05-13 15:57:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST人福：控股子公司鹽酸R - 氯胺酮注射液獲藥物臨床試驗批准】ST人福公告稱，公司控股子公司宜昌人福（公司持股80%）近日收到國家藥監局核准簽發的鹽酸R - 氯胺酮注射液《藥物臨床試驗批准通知書》，同意開展用於具有急性自殺意念或行為的抑鬱症的臨床試驗。國內暫無以R - 氯胺酮為活性成分的相關產品獲批上市。截至目前，宜昌人福在該專案累計研發投入約700萬元。後續需啟動臨床研究，完成後申報生產上市。醫藥產品研發週期長、環節多，有不確定性，公司將及時披露進展。"
+    },
+    {
+      "id": "4877230",
+      "time": "2026-05-13 15:57:45",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "瑞典財政部長透露，瑞典政府將推出規模175億瑞典克朗的能源危機援助方案。"
+    },
+    {
+      "id": "4877229",
+      "time": "2026-05-13 15:57:38",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【花王股份：股價異常波動 一季度淨虧損609萬元】花王股份公告稱，公司股票於2026年5月8日、11日、12日連續3個交易日內日收盤價格漲幅偏離值累計超20%，5月13日再次漲停。2026年第一季度，公司營收1.48億元，淨利潤虧損608.53萬元，扣非淨利潤虧損1208.31萬元。此外，公司證券簡稱將自5月15日起變更為“順景科技”，程式碼保持不變。提醒投資者注意股價波動和經營業績風險。"
+    },
     {
       "id": "4877228",
       "time": "2026-05-13 15:57:13",
@@ -133772,147 +133974,6 @@
         "其他"
       ],
       "text": "倫敦金屬交易所(LME)：鋅庫存減少1450噸，銅庫存減少950噸，鎳庫存減少24噸，鉛庫存減少2100噸，鋁庫存減少2500噸，錫庫存增加25噸。"
-    },
-    {
-      "id": "4862977",
-      "time": "2026-05-06 16:00:29",
-      "tags": [
-        "市場"
-      ],
-      "text": "【偉創力美股盤前漲超19%】偉創力美股盤前漲超19%，現報115.706美元。"
-    },
-    {
-      "id": "te:economy:548240",
-      "time": "2026-05-06 16:00:22",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Italy",
-        "Services PMI",
-        "Importance 1"
-      ],
-      "text": "Italy Services Activity Contracts Less Than Expected — The S&P Global Italy Services PMI rose to 49.8 in April from 48.8 in March, better than market expectations of 47.6 and indicating a near-return to growth. New business saw an uptick, despite remaining subdued and well below the long-run average. Employment also rose slightly, although the pace of hiring slowed compared to historical trends. Meanwhile, output continued to contract, as firms pointed to persistent uncertainty linked to the Middle East conflict, alongside elevated cost pressures and still-muted inflows of new work. On the pricing front, input costs accelerated to its highest level since early 2023, driven by rising energy and fuel costs as well as increasing wage bills. Looking ahead, firms retained a generally positive outlook for the coming year. However, business confidence remained significantly below its long-term average, as ongoing geopolitical tensions, particularly the risk of a prolonged conflict in the Middle East continue to cast a shadow over expectations."
-    },
-    {
-      "id": "4862976",
-      "time": "2026-05-06 16:00:21",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "【安徽省委常委、合肥市委書記費高雲被查】安徽省委常委、合肥市委書記費高雲涉嫌嚴重違紀違法，目前正接受中央紀委國家監委紀律審查和監察調查。（央視新聞）"
-    },
-    {
-      "id": "te:markets:548239",
-      "time": "2026-05-06 16:00:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Crude Oil WTI Falls by 4.11% — Top commodity losers are Crude Oil WTI (-4.11%), Brent Crude Oil (-3.68%) and Heating Oil (-2.69%)."
-    },
-    {
-      "id": "4862975",
-      "time": "2026-05-06 16:00:09",
-      "tags": [
-        "資料"
-      ],
-      "text": "歐元區4月服務業PMI終值 47.6，預期47.4，前值47.4。歐元區4月綜合PMI終值 48.8，預期48.6，前值48.6。"
-    },
-    {
-      "id": "4862974",
-      "time": "2026-05-06 16:00:06",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4680美元/盎司，日內漲2.72%。"
-    },
-    {
-      "id": "4862973",
-      "time": "2026-05-06 16:00:06",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨鉑金<XPT=>上漲近3%，至每盎司2011.80美元。"
-    },
-    {
-      "id": "4862972",
-      "time": "2026-05-06 15:59:37",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油失守98美元/桶，日內跌4.21%。"
-    },
-    {
-      "id": "4862971",
-      "time": "2026-05-06 15:59:32",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4690美元/盎司，日內漲2.66%。"
-    },
-    {
-      "id": "4862970",
-      "time": "2026-05-06 15:59:12",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內漲2%，現報1544.00美元/盎司。"
-    },
-    {
-      "id": "4862969",
-      "time": "2026-05-06 15:59:11",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【中東戰事持續延宕或進一步推高德國通脹】中東戰事延宕導致能源價格劇烈波動，衝擊不少歐洲國家民生。在德國，物價上漲壓力不斷顯現，波及食品、汽油、天然氣、電力等多項生活成本。分析人士認為，當前德國通脹上行正從能源向消費端蔓延，並影響中長期經濟預期。（新華社）"
-    },
-    {
-      "id": "4862968",
-      "time": "2026-05-06 15:58:58",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油失守106美元/桶，日內跌3.54%。"
-    },
-    {
-      "id": "4862967",
-      "time": "2026-05-06 15:58:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【廣生堂在海南成立新公司 註冊資本1000萬】天眼查App顯示，近日，廣生堂（海南）藥業有限公司成立，法定代表人為李振陽，註冊資本1000萬人民幣，經營範圍包括保健食品銷售、網際網路銷售、食品網際網路銷售、會議及展覽服務等，由廣生堂（300436）全資持股。"
-    },
-    {
-      "id": "4862966",
-      "time": "2026-05-06 15:58:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【長源電力：2026年4月發電量23.66億千瓦時 同比降14.82%】長源電力公告稱，2026年4月，公司完成發電量23.66億千瓦時，同比降低14.82%，其中火電、新能源發電量同比分別降低16.61%、39.18%，水電發電量同比增長95.90%。2026年1 - 4月累計完成發電量116.44億千瓦時，同比增長3.60%，火電、水電發電量同比分別增長4.64%、56.95%，新能源發電量同比降低23.56%。提醒投資者不宜以此資料簡單推算公司經營業績。"
-    },
-    {
-      "id": "4862965",
-      "time": "2026-05-06 15:58:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中汽協：1-3月汽車整車出口231.2萬輛，同比增長40.9%】據中國汽車工業協會整理的海關總署資料顯示，2026年3月,汽車整車出口78萬輛，環比增長6.0%，同比增長30.8%，出口金額達138.0億美元，環比增長8.3%，同比增長43.5%。2026年1-3月，汽車整車出口231.2萬輛，同比增長40.9%；出口金額達407.7億美元，同比增長56.0%。"
-    },
-    {
-      "id": "4862964",
-      "time": "2026-05-06 15:58:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內跌4%，現報98.11美元/桶。"
     }
   ]
 }
