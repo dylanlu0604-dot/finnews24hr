@@ -1,7 +1,61 @@
 {
-  "updated": "2026-05-13 15:23:49",
-  "count": 14976,
+  "updated": "2026-05-13 15:27:14",
+  "count": 14974,
   "items": [
+    {
+      "id": "4877142",
+      "time": "2026-05-13 15:26:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【汶萊王儲比拉抵達深圳】今天（5月13日）下午，汶萊王儲比拉抵達深圳寶安國際機場。接下來，他將走訪深圳企業，感受深圳的創新活力。（深圳釋出）"
+    },
+    {
+      "id": "te:economy:550271",
+      "time": "2026-05-13 15:26:37",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Czech Republic",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Czechia Inflation Confirmed at 6-Month High — The annual inflation rate in the Czech Republic rose to 2.5% year-on-year in April 2026 from 1.9% in the previous month, confirming preliminary estimates and marking the highest reading since October 2025. Price growth continued for several categories namely housing and utilities (1.2% vs 1% in March), transport (8.7% vs 5.5%), alcoholic beverages and tobacco (5.2% vs 3.3%), recreation, sports and culture (3.4% vs 2.5%), information and communication (3.4% vs 2.9%), and health (4% vs 3.9%). Conversely, inflation eased for furnishings, household equipment and routine household maintenance (1.4% vs 1.7%), restaurants and accommodation services (4.3% vs 4.4%), and personal care, social protection and miscellaneous goods and services (3.5% vs 3.7%). Deflation also continued for food and non-alcoholic beverages (-1.3% vs -1.1%) and clothing and footwear (-2.4% vs -2.6%), though at a softer pace. On a monthly basis, consumer prices slowed slightly to 0.5% in April from 0.6%."
+    },
+    {
+      "id": "4877141",
+      "time": "2026-05-13 15:26:14",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【“硫磺荒”疊加“AI熱”？倫銅衝破14000美元大關】行情資料顯示，LME期銅價格週二上漲約1%，至每噸14100美元附近，逐漸逼近1月份創下的每噸14500美元以上的歷史高點。分析人士指出，作為工業金屬風向標的銅價在最近幾個交易日強勁上漲，這得益於多個因素，包括中國需求的復甦以及中東硫磺供應的緊張——硫酸是某些銅生產工藝中不可或缺的原料。此外，由於銅被廣泛應用於資料中心及其支援的電力基礎設施，隨著AI股票的飆升，銅價與美國股市的關聯度也顯著提高。"
+    },
+    {
+      "id": "4877140",
+      "time": "2026-05-13 15:25:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東方電氣等成立電力科技公司】企查查APP顯示，近日，東方電氣（正定）電力科技有限公司成立，法定代表人為楊嘉偉，註冊資本為3096.86萬元，經營範圍包含：機械電氣裝置製造；機械電氣裝置銷售；輸配電及控制裝置製造；智慧輸配電及控制裝置銷售等。企查查股權穿透顯示，該公司由河北智峰谷電力科技有限公司、東方電氣旗下東方電氣集團科學技術研究院有限公司等共同持股。"
+    },
+    {
+      "id": "4877139",
+      "time": "2026-05-13 15:24:30",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【經合組織呼籲日本提高生產率和勞動力供應】經合組織表示，在應對人口老齡化和人口減少的長期挑戰之際，日本經濟增長的關鍵在於提高生產率和增加勞動力供應。經合組織秘書長Mathias Cormann表示：“為了應對不斷上升的償債成本和人口老齡化帶來的壓力，日本應保持改革勢頭，以減少公共債務並建立財政緩衝。”Cormann補充道：“減少行政負擔將提高公司生產率，而加強對老年工人和女性的工作激勵將增加勞動力供應。“提高生產率一直是日本首相高市早苗提出的主要增長戰略之一。"
+    },
+    {
+      "id": "4877138",
+      "time": "2026-05-13 15:23:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【俞浩兌現承諾！追覓將邀上萬員工赴上海迪士尼，或花費千萬元】追覓科技將於5月22日 15:30～23:00於上海迪士尼舉辦“追覓日”企業活動，邀請公司員工及相關合作伙伴親赴上海迪士尼。“全員都會去，創始人俞浩也會去。”有追覓內部員工對新浪科技表示。此前，追覓科技創始人俞浩曾在公司群中問道：“可否包場玩迪斯尼，公司全員？”隨後有補充道“感受到大家熱情了，正在聯絡”。（新浪科技）"
+    },
     {
       "id": "te:markets:550270",
       "time": "2026-05-13 15:23:12",
@@ -133813,80 +133867,6 @@
         "國際"
       ],
       "text": "【英國國債收益率下跌，受油價走低影響】隨著油價下跌緩解了對通脹的擔憂，英國國債收益率走低。美國總統特朗普宣佈，他將暫停美國在霍爾木茲海峽的一項行動，以允許商船透過，這導致油價下跌，並重燃了人們對中東衝突可能得到解決的樂觀情緒。Tradeweb的資料顯示，10年期英國國債收益率下跌6.3個基點，至5.005%，週二曾觸及5.102%的六週高點。"
-    },
-    {
-      "id": "te:economy:548206",
-      "time": "2026-05-06 15:27:08",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Spain",
-        "Composite PMI",
-        "Importance 1"
-      ],
-      "text": "Spain Private Sector Falls for 1st Time in Nearly 2-1/2-Years — The HCOB Spain Composite PMI fell to 48.7 in April 2026 from 52.4 in March, signalling the first contraction in the country's private sector since November 2023. The downturn was driven by the services sector, while manufacturing output continued to expand solidly. New orders declined as demand softened amid widespread uncertainty linked to the conflict in the Middle East, alongside growing concerns about inflationary pressures."
-    },
-    {
-      "id": "4862875",
-      "time": "2026-05-06 15:26:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "沃旭能源執行長表示：從供應端來看，我們目前未受到霍爾木茲海峽關閉的影響。"
-    },
-    {
-      "id": "4862874",
-      "time": "2026-05-06 15:26:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息： 印尼將設立債券穩定基金。"
-    },
-    {
-      "id": "4862873",
-      "time": "2026-05-06 15:26:13",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "【花旗：儘管上調預期，英飛凌科技仍可能遭遇獲利回吐】花旗分析師在給客戶的一份報告中寫道，儘管這家德國晶片製造商上調了到9月底的財政年度的銷售額和利潤率預期，但英飛凌科技的投資者仍可能在週三拋售該股。他們將潛在的獲利回吐歸因於英飛凌科技最近幾周的強勁表現：自1月份以來，該股已累計上漲逾55%，在過去12個月中幾乎增長一倍。英飛凌科技在法蘭克福上市的股票在開盤時上升了1%以上，但隨後轉為下跌。該股最新下跌1.9%，至59.34歐元。"
-    },
-    {
-      "id": "4862872",
-      "time": "2026-05-06 15:26:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "【湖南瀏陽煙花廠爆炸事故後，1200萬預賠款已到賬】5月4日16時40分許，湖南長沙瀏陽市華盛煙花製造燃放有限公司車間突發爆炸事故，造成重大人員傷亡與財產損失。事故發生後，保險機構迅速行動，全面開展應急處置、客戶排查、急難救援及理賠服務等工作。記者從業內獲悉，5月5日，人保財險、平安產險已支付預賠款1200萬元。5日18時11分，人保財險完成湖南瀏陽煙花爆炸事故600萬元預付賠款的緊急支付，為地方應急救援、傷員救治及善後處置提供了及時有力的資金支撐。據介紹，事故發生後，人保財險第一時間啟動重大突發事件應急處置預案，主動對接地方黨委政府，專項制定理賠保障方案，開通綠色理賠通道，簡化審批流程。5日20時30分，平安產險快速完成安全生產責任保險600萬元預賠付。據悉，中國平安現場工作小組於5日上午抵達事故現場，從產品、理賠、渠道等多條線開展承保排查工作，瀏陽當地機構理賠人員已前往收治傷員的醫院，開展現場排查與客戶慰問工作。事故發生後，中國人保、中國人壽、中國太平、中國太保、中國平安、泰康保險等保險集團，統籌協調旗下保險子公司力量，全面投入事故搶險救援、傷者救治保障、保險理賠處置等各項工作。保險機構均表示，將密切關注事件進展，緊盯事故處置進展，全力做好後續查勘定損、理賠賠付等全流程服務。(金融時報)"
-    },
-    {
-      "id": "4862871",
-      "time": "2026-05-06 15:25:14",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "寶馬執行長：美國政府非常支援寶馬的出口模式。"
-    },
-    {
-      "id": "4862870",
-      "time": "2026-05-06 15:24:09",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "寶馬執行長：美國政府非常支援寶馬的出口模式。"
-    },
-    {
-      "id": "4862869",
-      "time": "2026-05-06 15:24:05",
-      "tags": [
-        "央行",
-        "資料",
-        "市場",
-        "國際"
-      ],
-      "text": "【巴克萊：儘管通脹激增，泰國央行料將按兵不動】巴克萊經濟學家在一份報告中表示，儘管通脹激增，預計泰國央行到2026年底都將維持利率不變。4月份整體CPI同比上漲2.89%，主要受能源價格上漲推動。巴克萊預計，在2026年的大部分時間裡，通脹將保持在高位，不過泰國央行最近表示，預計通脹將暫時保持在3%以上。巴克萊表示，與通脹相比，泰國央行可能更擔心源於中東衝突的增長風險。"
     }
   ]
 }
