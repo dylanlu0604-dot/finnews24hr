@@ -1,7 +1,51 @@
 {
-  "updated": "2026-05-13 14:15:48",
+  "updated": "2026-05-13 14:19:18",
   "count": 14971,
   "items": [
+    {
+      "id": "te:economy:550236",
+      "time": "2026-05-13 14:18:33",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Romania",
+        "GDP Annual Growth Rate",
+        "Importance 1"
+      ],
+      "text": "Romania GDP Shrinks for 1st Time Since 2020 — Romania’s economy contracted by 1.7% year-on-year in the first quarter of 2026, reversing a modest 0.2% expansion in the previous three-month period, according to preliminary estimates. The latest figure marked the country’s first annual economic contraction since the fourth quarter of 2020, highlighting a significant loss of momentum at the start of the year. On a seasonally adjusted quarterly basis, the country’s GDP fell by 0.2%, following an upwardly revised 2% decline in the previous quarter."
+    },
+    {
+      "id": "te:economy:550234",
+      "time": "2026-05-13 14:18:20",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Sweden",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Sweden Consumer Prices Edge Down in April — Consumer prices in Sweden edged down by 0.1% year-on-year in April 2026, confirming preliminary estimates, following a 0.5% rise in March. This was the first decline in consumer prices since April 2020, mainly due to a sharp drop in prices for food and non-alcoholic beverages (-5.7% vs 0% in March). Prices also fell faster for information and communication (-2.1% vs -1.8%), recreation, sport and culture (-2.4% vs -0.6%), and health (-5.3% vs -4.6%), while prices for housing and utilities (-0.1% vs -0.4%) and furnishing, household equipment, and routine household maintenance (-2.0% vs -3.6%) declined at softer rates. On the other hand, transport costs increased at a faster pace (5.2% vs 3.3%), amid rising energy prices due to the Middle East conflict. On a monthly basis, the CPI fell 0.6%, matching the pace recorded in March."
+    },
+    {
+      "id": "4877016",
+      "time": "2026-05-13 14:16:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "英國石油公司：英國石油進入烏茲別克北烏斯秋爾特產品分成協議專案。已購得該產品分成協議項下總計40%參與權益，其中20%來自現有合夥人亞塞拜然國家石油公司（SOCAR），另外20%來自烏茲別克國家石油天然氣公司（Uzbekneftegaz）。"
+    },
+    {
+      "id": "te:economy:550232",
+      "time": "2026-05-13 14:15:57",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Romania",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Romania Inflation Rate Rise the Most Since 2023 — The inflation rate in Romania rose by 10.7% year-on-year in April 2026 from 9.9% in the previous month, matching market expectations. This marked the highest level since April 2023, driven mainly by higher costs in non-food goods (12.02% vs 10.89% in March), particularly in clothing, hosiery, trimmings, and haberdashery (7.10% vs 7.05%), cultural and sporting products (8.13% vs 7.81%), and fuels (15.65% vs 12.93%). At the same time, prices increased in services (13.04% vs 11.05%). In contrast, price growth moderated for food products (7.39% vs 7.67%), weighed down by lower costs in milling and bakery products (7.82% vs 8.60%), fruit and tinned fruit (9.61% vs 11.79%), and meat and meat products (5.98% vs 6.46%). On a monthly basis, consumer prices grew by 0.84% in April, following a 0.78% rise in the preceding period. Meanwhile, the HICP-based annual inflation rate rose to 9.5% from 9% in the previous month."
+    },
     {
       "id": "4877015",
       "time": "2026-05-13 14:15:04",
@@ -133742,43 +133786,6 @@
         "市場"
       ],
       "text": "【A500ETF南方（159352）創上市以來新高，機構稱中國股市上升的勢頭遠未結束】5月6日，A500ETF南方（159352）盤中大漲超2%，創上市以來新高。國泰海通證券表示，近期，市場持續反彈，滬指再度站上4100點關口。往後看，中國股市上升的勢頭遠未結束，並有望走出新高。財報季後行情廣度預計將顯著擴散，具備產業催化的中小主題也有望迎來投資機會。招商證券認為，隨著海外衝突對A股的影響邊際降低，A股回到國內經濟和基本面。市場有望保持震盪上行的態勢，指數有望在5月創下年內階段性新高。A500ETF南方（159352）緊密跟蹤中證A500指數，中證A500指數從各行業選取市值較大、流動性較好的500只證券作為指數樣本，以反映各行業最具代表性上市公司證券的整體表現。資料顯示，截至2026年4月30日，中證A500指數(000510)前十大權重股分別為寧德時代、中際旭創、貴州茅臺、中國平安、紫金礦業、新易盛、招商銀行、美的集團、寒武紀、立訊精密，前十大權重股合計佔比20.42%。投資者可借道A500ETF南方（159352）及其聯接基金（A類022434；C類022435）一鍵佈局。"
-    },
-    {
-      "id": "te:markets:548168",
-      "time": "2026-05-06 14:18:46",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Switzerland",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Alcon AG earnings above expectations at 0.85 CHF — Alcon AG (ALC) released earnings per share at 0.85 CHF, compared to market expectations of 0.81 CHF."
-    },
-    {
-      "id": "4862725",
-      "time": "2026-05-06 14:18:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "【蔚能電池增資至約28.1億】天眼查App顯示，近日，武漢蔚能電池資產有限公司發生工商變更，註冊資本由約26.4億人民幣增至約28.1億人民幣。 該公司成立於2020年8月，法定代表人為賴曉明，經營範圍包括電動汽車充電基礎設施運營、蓄電池租賃、新能源汽車廢舊動力蓄電池回收及梯次利用等，由蔚來控股有限公司、武漢光谷產業投資有限公司、寧德時代（300750）等共同持股。"
-    },
-    {
-      "id": "4862724",
-      "time": "2026-05-06 14:16:42",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "錫連續主力合約日內漲8%，現報413950.00元。"
-    },
-    {
-      "id": "4862723",
-      "time": "2026-05-06 14:16:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "【新鋁時代等成立智造科技公司，含機器人業務】企查查APP顯示，近日，重慶新鋁時代智造科技有限公司成立，經營範圍包含：工業機器人銷售；特殊作業機器人制造；智慧機器人的研發；人工智慧硬體銷售；人工智慧應用軟體開發等。企查查股權穿透顯示，該公司由新鋁時代等共同持股。"
     }
   ]
 }
