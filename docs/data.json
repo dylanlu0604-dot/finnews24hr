@@ -1,7 +1,26 @@
 {
-  "updated": "2026-05-14 01:45:59",
-  "count": 15366,
+  "updated": "2026-05-14 01:49:23",
+  "count": 15368,
   "items": [
+    {
+      "id": "4878475",
+      "time": "2026-05-14 01:46:48",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲卡什卡里：兩黨均認可美聯儲的獨立性具備基石性地位。"
+    },
+    {
+      "id": "mkt:019e2272-bab6-7dd0-a6a8-8d8685a8f95e",
+      "time": "2026-05-14 01:46:34",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "KASHKARI: FED INDEPENDENCE AS 'FOUNDATIONAL' IS UNDERSTOOD BY BOTH POLITICAL PARTIES"
+    },
     {
       "id": "mkt:019e2271-d579-7dd0-a6a8-8134b0c256f0",
       "time": "2026-05-14 01:45:41",
