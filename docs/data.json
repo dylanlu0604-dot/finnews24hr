@@ -1,7 +1,23 @@
 {
-  "updated": "2026-05-14 04:14:05",
+  "updated": "2026-05-14 04:17:36",
   "count": 15440,
   "items": [
+    {
+      "id": "4878622",
+      "time": "2026-05-14 04:16:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "思科將裁員不到4000人，不到員工總數的5%。"
+    },
+    {
+      "id": "4878621",
+      "time": "2026-05-14 04:14:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "思科：預計 2026 財年來自超大規模雲服務商的訂單規模達90 億美元，高於此前的 50 億美元。"
+    },
     {
       "id": "4878620",
       "time": "2026-05-14 04:13:48",
@@ -138782,26 +138798,6 @@
         "Importance 0"
       ],
       "text": "TKO Group earnings below expectations at 1.12 USD — TKO Group (WWE) released earnings per share at 1.12 USD, compared to market expectations of 1.26 USD."
-    },
-    {
-      "id": "4864182",
-      "time": "2026-05-07 04:16:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗稱該國國家足球隊將在世界盃開始前14天抵美】當地時間5月6日，伊朗國家足球隊主教練在接受採訪時表示，伊朗國家足球隊將於美加墨世界盃開始前14天抵達美國。（央視新聞）"
-    },
-    {
-      "id": "te:markets:548478",
-      "time": "2026-05-07 04:16:34",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "DoorDash earnings above expectations at 0.42 USD — DoorDash (DASH) released earnings per share at 0.42 USD, compared to market expectations of 0.38 USD."
     }
   ]
 }
