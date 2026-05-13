@@ -1,7 +1,146 @@
 {
-  "updated": "2026-05-13 20:01:18",
-  "count": 15077,
+  "updated": "2026-05-13 20:04:50",
+  "count": 15084,
   "items": [
+    {
+      "id": "4877908",
+      "time": "2026-05-13 20:04:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "塔塔汽車執行長：大宗商品價格的影響非常嚴重。"
+    },
+    {
+      "id": "mkt:019e2139-3ae9-7eef-a1cb-dedd5241ab80",
+      "time": "2026-05-13 20:04:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "OPEC KEEPS 2027 NON-DOC SUPPLY-GROWTH FORECAST AT 620,000 B/D"
+    },
+    {
+      "id": "4877907",
+      "time": "2026-05-13 20:04:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐佩克月報：將2026年美國經濟增長預測維持在2.2%；將2027年美國經濟增長預測維持在2%。將2026年對歐佩克的原油需求預期下調20萬桶/日，至4270萬桶/日。將2026年歐元區經濟增長預測從1.2%下調至1.1%，將2027年歐元區經濟增長預測維持在1.2%。美國石油製品淨進口較上輪統計減少266萬桶/日至-563萬桶/日。"
+    },
+    {
+      "id": "mkt:019e2139-0b08-7eef-a1cb-d2e34d7b5a6b",
+      "time": "2026-05-13 20:04:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact mixed",
+        "WTI"
+      ],
+      "text": "OPEC RAISES 2027 GLOBAL OIL-DEMAND GROWTH FORECAST TO 1.54 MLN B/D FROM 1.34 MLN B/D OPEC CUTS 2026 GLOBAL OIL-DEMAND GROWTH FORECAST TO 1.17 MLN B/D FROM 1.38 MLN B/D OPEC KEEPS 2026 NON-DOC SUPPLY-GROWTH FORECAST AT 630,000 B/D OPEC: NON-DOC ARE COUNTRIES NOT PARTICIPATING IN DECLARATION OF COOPERATION"
+    },
+    {
+      "id": "mkt:019e2138-2e8a-7eef-a1cb-cbeadd01cfe2",
+      "time": "2026-05-13 20:03:04",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alibaba",
+        "BABA.N",
+        "Impact bullish"
+      ],
+      "text": "ALIBABA EXEC - ONGOING INVESTMENTS IN CLOUD INFRASTRUCTURE WILL INCREASE GROSS MARGINS ON THOSE SAME OFFERINGS"
+    },
+    {
+      "id": "4877905",
+      "time": "2026-05-13 20:03:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐佩克月報：俄羅斯4月份的石油產量較3月份下降了107,000桶/日，降至905.7萬桶/日。歐佩克+4月原油日產量平均為3319萬桶，比3月減少174萬桶，因伊朗戰爭促使中東成員國減產。歐佩克將2026年全球經濟增長預測維持在3.1%；將2027年全球經濟增長預測維持在3.2%。預計2026年第二季度全球石油需求為1.0457億桶/日（此前預測為1.0507億桶/日）。"
+    },
+    {
+      "id": "mkt:019e2137-c82e-7eef-a1cb-c5bb7fcf1fd6",
+      "time": "2026-05-13 20:02:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "OPEC KEEPS 2027 GLOBAL ECONOMIC-GROWTH FORECAST AT 3.2%"
+    },
+    {
+      "id": "mkt:019e2137-c82d-7eef-a1cb-bebaa586da5c",
+      "time": "2026-05-13 20:01:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "OPEC KEEPS 2026 U.S. ECONOMIC-GROWTH FORECAST AT 2.2% OPEC KEEPS 2027 U.S. ECONOMIC-GROWTH FORECAST AT 2%"
+    },
+    {
+      "id": "mkt:019e2137-c823-7eef-a1cb-b6a0ceeff3da",
+      "time": "2026-05-13 20:01:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "Brent",
+        "WTI"
+      ],
+      "text": "OPEC KEEPS EUROZONE ECONOMIC-GROWTH FORECAST AT 1.2% FOR 2027 OPEC TRIMS EUROZONE ECONOMIC-GROWTH FORECAST TO 1.1% FROM 1.2% FOR 2026"
+    },
+    {
+      "id": "4877904",
+      "time": "2026-05-13 20:01:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿里巴巴首席財務官表示：“過去一年我們在人工智慧領域的投資一直非常堅定，未來兩年我們也將繼續保持同等堅定的態度推進這類投資。”"
+    },
+    {
+      "id": "4877903",
+      "time": "2026-05-13 20:01:09",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "歐佩克月報：將2026年全球原油需求增速預期從138萬桶/日下調至117萬桶/日，將2027年全球原油需求增速預期從134萬桶/日上調至154萬桶/日。"
+    },
+    {
+      "id": "mkt:019e2137-c7e5-7eef-a1cb-a89c60e10e97",
+      "time": "2026-05-13 20:01:09",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "OPEC KEEPS 2026 GLOBAL ECONOMIC-GROWTH FORECAST AT 3.1%"
+    },
+    {
+      "id": "mkt:019e2136-e52f-7eef-a1cb-a4c1a15c1ccc",
+      "time": "2026-05-13 20:00:51",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alibaba",
+        "Market Themes",
+        "AI Revolution",
+        "BABA.N",
+        "Impact bullish"
+      ],
+      "text": "ALIBABA CFO - \"WE'VE BEEN VERY RESOLUTE IN MAKING (AI) INVESTMENTS OVER THE PAST YEAR, AND WE INTEND TO BE EQUALLY RESOLUTE IN CONTINUING THESE INVESTMENTS\" OVER THE NEXT TWO YEARS"
+    },
     {
       "id": "4877902",
       "time": "2026-05-13 20:00:35",
@@ -9,6 +148,20 @@
         "國際"
       ],
       "text": "市場訊息：美國監察機構對國土安全部部長諾姆主導的ICE拘留中心倉庫採購計劃展開調查。該計劃擬斥資380億美元，將倉庫改建為移民與海關執法局拘留中心。"
+    },
+    {
+      "id": "mkt:019e2136-96d0-7eef-a1cb-9d49385bb5ea",
+      "time": "2026-05-13 20:00:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "OPEC SAYS OPEC+ CRUDE OUTPUT AVERAGED 33.19 MILLION BPD IN APRIL 2026, DOWN 1.74 MILLION BPD FROM MARCH, AS IRAN WAR PROMPTED MIDDLE EAST MEMBERS TO CUT OUTPUT"
     },
     {
       "id": "mkt:019e2136-312d-7eef-a1cb-93f8a8483ae0",
@@ -134886,64 +135039,6 @@
         "其他"
       ],
       "text": "阿根廷礦業部長：阿根廷預計未來十年鋰出口額達121億美元，銅出口額達206億美元。"
-    },
-    {
-      "id": "4863618",
-      "time": "2026-05-06 20:04:01",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國能源部長賴特：美國將在霍爾木茲海峽實現交通暢通，無論有沒有伊朗協議，都能獲得自由流動。"
-    },
-    {
-      "id": "4863617",
-      "time": "2026-05-06 20:03:37",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "雪佛龍公司宣佈將在馬耳他以南海域尋找石油和天然氣。馬耳他位於地中海產油國利比亞、義大利和突尼西亞之間，該國目前尚無任何油氣生產。"
-    },
-    {
-      "id": "4863616",
-      "time": "2026-05-06 20:03:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣東多部門聯合廣州釋出若干措施 支援越秀區打造養老金融示範樣板】廣東省地方金融管理局、廣東省民政廳等多部門及廣州市人民政府印發《關於支援廣州市越秀區建設廣東省養老金融高質量發展示範樣板的若干措施》，其中提出，打造金融促進銀髮經濟消費場景。支援越秀區在重點消費商圈深度植入“賽事+銀髮集市+養老金融”模式，爭取2027年底前推動不少於2處商業體轉型為銀髮消費綜合體。支援金融機構整合“銀髮生活”關聯資源，聯動醫療、養老、商業等機構，為越秀區銀髮消費者提供專屬折扣、醫療綠色通道、健康管理積分及緊急援助等權益服務，構建“支付+消費+服務”閉環生態。"
-    },
-    {
-      "id": "4863615",
-      "time": "2026-05-06 20:02:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【昊海生科：5月6日回購85,200股H股 付出187.11萬元】昊海生科公告稱，公司於2026年5月6日在香港聯交所回購85,200股H股，每股回購價在21.6-22.12港元之間，付出的價格總額為1,871,110港元（約187.11萬元）。此外，2026年3月23日至5月6日期間，公司還有多次回購股份但尚未登出的情況。公司曾於2025年6月10日透過購回授權決議，可回購股份總數為3,914,184股，截至5月6日，已根據購回授權回購3,377,400股，佔已發行股份（不包括庫存股份）的8.63%。"
-    },
-    {
-      "id": "4863614",
-      "time": "2026-05-06 20:01:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "衣索比亞上調汽油零售價18%、柴油零售價11%。"
-    },
-    {
-      "id": "4863613",
-      "time": "2026-05-06 20:01:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "貝克休斯與熱塑性複合管材製造商Strohm已簽署協議，共同開發用於超深水管線和立管應用的混合柔性管。兩家公司表示，這一新解決方案面向水深超過3000米的海上專案，旨在滿足作業者尋求低成本和低風險深水開發技術的需求。"
-    },
-    {
-      "id": "4863612",
-      "time": "2026-05-06 20:01:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "波羅的海乾散貨指數漲5.61%，至2991點。"
     }
   ]
 }
