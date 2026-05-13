@@ -1,7 +1,44 @@
 {
-  "updated": "2026-05-14 04:10:35",
-  "count": 15438,
+  "updated": "2026-05-14 04:14:05",
+  "count": 15440,
   "items": [
+    {
+      "id": "4878620",
+      "time": "2026-05-14 04:13:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "訊息人士：微軟正洽談收購多家 AI 初創企業，為後 OpenAI 時代佈局做準備。微軟已與人工智慧初創公司 Inception 洽談相關合作交易。微軟曾考慮收購 Cursor 公司，後因反壟斷監管顧慮最終放棄該收購計劃。"
+    },
+    {
+      "id": "mkt:019e22f9-5074-7dd0-a6aa-dbba61c87187",
+      "time": "2026-05-14 04:13:44",
+      "tags": [
+        "MKT News",
+        "UPS.O"
+      ],
+      "text": "UPS - KEVIN M. WARSH RESIGNS FROM BOARD EFFECTIVE MAY 13, 2026 - SEC FILING"
+    },
+    {
+      "id": "mkt:019e22f9-2927-7dd0-a6aa-d2b431fea051",
+      "time": "2026-05-14 04:13:34",
+      "tags": [
+        "MKT News",
+        "MSFT.O",
+        "Impact bullish"
+      ],
+      "text": "MICROSOFT EXPLORING AI STARTUP DEALS TO PREPARE FOR LIFE AFTER OPENAI: SOURCES MICROSOFT WEIGHED ACQUISITION OF CURSOR, BACKED AWAY OVER ANTITRUST CONCERNS: SOURCES MICROSOFT HAS DISCUSSED DEAL WITH AI STARTUP INCEPTION: SOURCES INCEPTION HAS HIRED BANK TO NEGOTIATE A DEAL OF AT LEAST $1 BILLION: SOURCE"
+    },
+    {
+      "id": "mkt:019e22f7-c1df-7dd0-a6aa-ce4d431e2be2",
+      "time": "2026-05-14 04:12:02",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "AI CHIPMAKER CEREBRAS SAID POISED TO PRICE IPO AT $185/SHARE"
+    },
     {
       "id": "te:markets:550426",
       "time": "2026-05-14 04:10:14",
@@ -138765,30 +138802,6 @@
         "Importance 0"
       ],
       "text": "DoorDash earnings above expectations at 0.42 USD — DoorDash (DASH) released earnings per share at 0.42 USD, compared to market expectations of 0.38 USD."
-    },
-    {
-      "id": "te:markets:548477",
-      "time": "2026-05-07 04:14:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Infineon earnings below expectations at 0.34 EUR — Infineon (IFX) released earnings per share at 0.34 EUR, compared to market expectations of 0.38 EUR."
-    },
-    {
-      "id": "te:markets:548476",
-      "time": "2026-05-07 04:14:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "AppLovin earnings above expectations at 3.56 USD — AppLovin (APP) released earnings per share at 3.56 USD, compared to market expectations of 3.41 USD."
     }
   ]
 }
