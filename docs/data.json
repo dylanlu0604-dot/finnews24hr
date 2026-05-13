@@ -1,7 +1,61 @@
 {
-  "updated": "2026-05-13 21:53:17",
-  "count": 15123,
+  "updated": "2026-05-13 21:56:43",
+  "count": 15125,
   "items": [
+    {
+      "id": "4878125",
+      "time": "2026-05-13 21:56:33",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美國天然氣期貨走高】隨著市場權衡不斷減弱的供暖需求與逐漸回升的製冷需求，美國天然氣期貨走高，呈現日間波動。Pinebrook Energy Advisors的Andy Huenefeld在一份報告中表示：“2026年較低的價格環境正導致全國燃氣發電資產的利用率提高，從而在天氣正常化的基礎上增加了天然氣消費量。”“該行業的需求料將繼續超過上年同期的水平，這可能會限制進入夏季高峰期的庫存增長。“紐約商交所天然氣價格上漲2.5%，報每百萬英熱單位2.914美元。"
+    },
+    {
+      "id": "4878124",
+      "time": "2026-05-13 21:55:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中航光電：公司具有CPO全光互連鏈路產品的解決方案】中航光電(002179)5月13日在互動平臺表示，公司具有CPO全光互連鏈路產品的解決方案，涉及光shuffle、光背板、高密度面板聯結器、外接光源及光引擎等核心產品，子公司翔通光科技佈局有隔離器、準直器、環形器、光纖陣列單元等光無源元器件產品，均與行業頭部客戶有深入對接合作。"
+    },
+    {
+      "id": "4878123",
+      "time": "2026-05-13 21:54:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理辦公室：內塔尼亞胡會見和平委員會成員姆拉德諾夫。"
+    },
+    {
+      "id": "4878122",
+      "time": "2026-05-13 21:53:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數轉漲。"
+    },
+    {
+      "id": "mkt:019e219d-3a30-7eee-bb64-6f63c2dd3703",
+      "time": "2026-05-13 21:53:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "Nasdaq100",
+        "Impact bullish"
+      ],
+      "text": "NASDAQ 100 TURNS POSITIVE"
+    },
+    {
+      "id": "4878121",
+      "time": "2026-05-13 21:53:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雅化集團：辛巴威鋰精礦出口手續已完成並啟動發運】雅化集團在互動平臺表示，公司辛巴威鋰精礦出口手續已完成，並已啟動發運。公司硫酸鋰工廠專案正在推進中，預計明年建成。"
+    },
     {
       "id": "4878120",
       "time": "2026-05-13 21:52:52",
@@ -135479,41 +135533,6 @@
         "Importance 1"
       ],
       "text": "Oil Falls on Hopes of US–Iran Deal — WTI crude oil futures dropped about 6% to around $96 per barrel on Wednesday, extending a 3.9% decline from the previous session, as hopes for a diplomatic breakthrough between the US and Iran increased. Tehran said it is reviewing a US backed proposal to end the two month conflict, with a response expected via Pakistani mediators once a decision is reached. President Donald Trump signaled that a deal could reopen the Strait of Hormuz, but warned of more intense strikes if Iran fails to comply. Earlier reports indicated Washington had presented a draft framework for ending the war, with markets anticipating a reply within days. Trump also said the US would pause “Project Freedom,” a naval effort to escort vessels through the strait, citing progress in talks. Around 23,000 seafarers remain stranded in the Persian Gulf, and despite easing tensions, supply disruptions and high energy costs continue to weigh on global demand, with shipping flows likely to take weeks to normalize."
-    },
-    {
-      "id": "4863850",
-      "time": "2026-05-06 21:56:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "滙豐銀行將東鵬飲料A股評級上調至“買進”，目標價237元。"
-    },
-    {
-      "id": "4863849",
-      "time": "2026-05-06 21:54:43",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會（CFTC）：責令一名紐約交易員因欺詐性掛單行為支付20萬美元罰款。交易員在交易國債期貨時使用了虛假交易。"
-    },
-    {
-      "id": "4863848",
-      "time": "2026-05-06 21:54:36",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "美國天然氣期貨跌超3.00%，現報2.978美元/百萬英熱。"
-    },
-    {
-      "id": "4863846",
-      "time": "2026-05-06 21:53:41",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "穆薩萊姆：美聯儲必須為其政策結果負責，並就其決策進行透明溝通。"
     }
   ]
 }
