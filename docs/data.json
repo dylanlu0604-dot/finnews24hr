@@ -1,7 +1,90 @@
 {
-  "updated": "2026-05-13 09:21:22",
+  "updated": "2026-05-13 09:24:45",
   "count": 14872,
   "items": [
+    {
+      "id": "mkt:019e1eee-e1e7-7553-b25c-d8426d5494a9",
+      "time": "2026-05-13 09:22:56",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "JD.com",
+        "9618.HK",
+        "Impact bullish"
+      ],
+      "text": "HONG KONG SHARES OF JD.COM SET TO OPEN UP 3.6%"
+    },
+    {
+      "id": "mkt:019e1eee-49a5-7553-b25c-d39e18c1fd78",
+      "time": "2026-05-13 09:22:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH"
+      ],
+      "text": "CHINA C.BANK INJECTS 500 MLN YUAN VIA 7-DAY REVERSE REPOS AT 1.40% VS PRIOR 1.40% - STATEMENT"
+    },
+    {
+      "id": "mkt:019e1eed-ef5c-7553-b25c-cde91df56fa1",
+      "time": "2026-05-13 09:22:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "HANG SENG OPENS +0.08%, TECH INDEX OPENS -0.3%"
+    },
+    {
+      "id": "mkt:019e1eed-a145-7553-b25c-c5e38a83fa06",
+      "time": "2026-05-13 09:22:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "The Trump Trade",
+        "Magnificent 7"
+      ],
+      "text": "NVIDIA'S JENSEN HUANG TO JOIN US PRESIDENT TRUMP'S CHINA VISIT - SOURCES"
+    },
+    {
+      "id": "4876356",
+      "time": "2026-05-13 09:22:07",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行公開市場今日淨回籠255.0億元人民幣。"
+    },
+    {
+      "id": "4876355",
+      "time": "2026-05-13 09:21:39",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行今日開展5億元7天逆回購操作，投標量5億元，中標量5億元，操作利率為1.40%，與此前持平。"
+    },
+    {
+      "id": "4876354",
+      "time": "2026-05-13 09:21:36",
+      "tags": [
+        "焦點"
+      ],
+      "text": "港股恒指高開漲0.08％，國企指數跌0.05％，科指開跌0.3%。京東物流績後漲超7%，泡泡瑪特漲約4%。"
+    },
+    {
+      "id": "4876353",
+      "time": "2026-05-13 09:21:16",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "比特幣升破81000美元，日內漲0.71%。"
+    },
     {
       "id": "4876352",
       "time": "2026-05-13 09:20:51",
@@ -132584,77 +132667,6 @@
         "市場"
       ],
       "text": "鈀金期貨日內漲1%，現報1530.05美元/盎司。"
-    },
-    {
-      "id": "4862319",
-      "time": "2026-05-06 09:23:42",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【港股儲存概念股走強 瀾起科技漲超8%】截至發稿，瀾起科技(06809.HK)漲8.21%，兆易創新(03986.HK)漲6.01%。"
-    },
-    {
-      "id": "4862318",
-      "time": "2026-05-06 09:23:33",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【海灣地區一貨船疑遭導彈襲擊 多名船員受傷】據美國方面5日訊息，一艘位於海灣地區的貨船疑似遭到一枚陸基巡航導彈的襲擊，船上多名菲律賓籍船員受傷。兩名匿名美國官員表示，遇襲的“CGM聖安東尼奧”號貨船隸屬於一家法國公司，事發時間為海灣地區當地時間5日深夜。船舶追蹤資料顯示，該船5日中午仍在阿聯酋迪拜附近海域，但不清楚它此後是否駛離該區域。英國海上貿易行動辦公室5日早些時候說，接收報告顯示，霍爾木茲海峽內“一艘貨船被不明發射物擊中”。"
-    },
-    {
-      "id": "te:economy:548062",
-      "time": "2026-05-06 09:23:29",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Argentina",
-        "Credit Rating",
-        "Importance 1"
-      ],
-      "text": "Fitch Raises Argentina’s Rating to “B-” — Fitch upgraded its credit rating on Argentina by one notch to “B-” from “CCC” on Tuesday, with a stable outlook, citing the country’s improved fiscal performance and progress on economic reforms. The note also cited legislative victories by Argentine President Javier Milei, including labor reforms and the easing of environmental restrictions on mining. However, the agency noted that vulnerabilities persist due to weak international reserves, high inflation, and a history of macroeconomic instability. Fitch said it expects economic growth to moderate to 3.2% in 2026. Standard & Poor’s credit rating for Argentina stands at CCC+ with a stable outlook. Moody’s credit rating for Argentina was last set at Caa1 with a stable outlook. DBRS’s credit rating for Argentina was last reported at B (low), also with a stable outlook."
-    },
-    {
-      "id": "4862317",
-      "time": "2026-05-06 09:22:58",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "央行今日未開展逆回購操作，因今日有4191億元7天期逆回購到期，當日實現淨回籠4191億元。"
-    },
-    {
-      "id": "4862316",
-      "time": "2026-05-06 09:22:10",
-      "tags": [
-        "市場"
-      ],
-      "text": "長和股價開盤上漲1.4%。"
-    },
-    {
-      "id": "4862315",
-      "time": "2026-05-06 09:21:52",
-      "tags": [
-        "觀點"
-      ],
-      "text": "花旗將長和目標價從78.00港元上調至81.50港元。"
-    },
-    {
-      "id": "4862314",
-      "time": "2026-05-06 09:21:39",
-      "tags": [
-        "焦點"
-      ],
-      "text": "港股恒指高開漲0.51％，國企指數漲0.64％，科指開漲0.85%；華虹半導體、寧德時代、中芯國際均漲近4%。"
-    },
-    {
-      "id": "4862313",
-      "time": "2026-05-06 09:21:24",
-      "tags": [
-        "市場"
-      ],
-      "text": "澳元兌美元上漲0.64%，報0.72289，觸及2022年6月以來新高。"
     }
   ]
 }
