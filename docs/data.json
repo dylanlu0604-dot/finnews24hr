@@ -1,7 +1,35 @@
 {
-  "updated": "2026-05-14 04:34:56",
-  "count": 15439,
+  "updated": "2026-05-14 04:38:24",
+  "count": 15440,
   "items": [
+    {
+      "id": "4878629",
+      "time": "2026-05-14 04:36:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "受業績預期超預期及裁員訊息提振，思科股價漲幅擴大至 15%。"
+    },
+    {
+      "id": "4878628",
+      "time": "2026-05-14 04:35:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價13日下跌】截至當天收盤，紐約商品交易所6月交貨的輕質原油期貨價格下跌1.16美元，收於每桶101.02美元，跌幅為1.14%；7月交貨的倫敦布倫特原油期貨價格下跌2.14美元，收於每桶105.63美元，跌幅為1.99%。"
+    },
+    {
+      "id": "te:markets:550427",
+      "time": "2026-05-14 04:35:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.16% Lower — The Dow Jones Index decreased 80 points or 0.16 percent on Wednesday to close at 49681 points. The decline was led by Salesforce (-3.13%), Home Depot (-2.49%) and IBM (-1.89%). On the upside, the strongest performers were J&J (2.76%), 3M (2.72%) and Cisco Systems (2.42%)."
+    },
     {
       "id": "mkt:019e2309-2843-7dd0-a6ab-062d92f59e55",
       "time": "2026-05-14 04:29:42",
@@ -138756,26 +138784,6 @@
         "國際"
       ],
       "text": "伊朗局勢談判前景難料，美方外交官被警示警惕線上預測市場相關風險。"
-    },
-    {
-      "id": "4864191",
-      "time": "2026-05-07 04:37:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大銀行高階副行長在向參議院作證時表示，穩定幣可能在2027年年中或下半年推出。"
-    },
-    {
-      "id": "te:markets:548482",
-      "time": "2026-05-07 04:35:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Closes 1.35% Higher — The Dow Jones Index rose 667 points or 1.35 percent on Wednesday to close at 49965 points. Leading the gains are Walt Disney (7.59%), Nvidia (5.93%) and Honeywell International (3.77%)."
     }
   ]
 }
