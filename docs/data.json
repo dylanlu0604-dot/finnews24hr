@@ -1,7 +1,52 @@
 {
-  "updated": "2026-05-14 01:59:33",
-  "count": 15387,
+  "updated": "2026-05-14 02:02:58",
+  "count": 15390,
   "items": [
+    {
+      "id": "4878491",
+      "time": "2026-05-14 02:02:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴西雷亞爾對美元即期匯率下跌1.3%，1美元兌4.96雷亞爾。"
+    },
+    {
+      "id": "4878490",
+      "time": "2026-05-14 02:01:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡達埃米爾與阿聯酋總統就地區局勢發展、強化安全合作相關舉措舉行磋商。"
+    },
+    {
+      "id": "mkt:019e2280-0da7-7dd0-a6a8-e68a310683da",
+      "time": "2026-05-14 02:01:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "SENATE NOW VOTING TO CONFIRM KEVIN WARSH AS FED CHAIR"
+    },
+    {
+      "id": "mkt:019e227f-cc90-7dd0-a6a8-dc89a2d52429",
+      "time": "2026-05-14 02:01:01",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "'STICKINESS OF FEAR' SLOWS RETURN TO THE STRAIT OF HORMUZ, SAYS SHIPPING BOSS - WSJ"
+    },
     {
       "id": "mkt:019e227d-550f-7dd0-a6a8-d283672fb334",
       "time": "2026-05-14 01:58:19",
@@ -138187,14 +138232,6 @@
         "國際"
       ],
       "text": "據福克斯新聞：特朗普對與伊朗的合作框架持樂觀態度。"
-    },
-    {
-      "id": "4864079",
-      "time": "2026-05-07 02:02:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "【阿根廷：預計十年內鋰和銅出口額將達327億美元】阿根廷礦業部長Luis Lucero表示，阿根廷預計10年內鋰出口額將達121億美元，銅出口額將達206億美元，而去年該國的礦業出口總額僅為60億美元。Lucero在聖胡安省舉行的一場礦業活動間隙表示：“10年內，阿根廷每年的碳酸鋰當量（LCE）產量可能達到58萬噸，銅產量可達164.1萬噸。”目前已獲得批准並提交給該國“大型投資激勵制度”（RIGI）的礦業專案總價值已達506.92億美元。"
     }
   ]
 }
