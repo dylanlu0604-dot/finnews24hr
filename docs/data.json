@@ -1,7 +1,54 @@
 {
-  "updated": "2026-05-13 21:08:51",
-  "count": 15109,
+  "updated": "2026-05-13 21:12:18",
+  "count": 15107,
   "items": [
+    {
+      "id": "mkt:019e2177-63af-7eee-bb63-ed2b9254fe4f",
+      "time": "2026-05-13 21:11:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IDF LEADER SAYS OPERATION IS STILL IN PROGRESS"
+    },
+    {
+      "id": "mkt:019e2177-1583-7eee-bb63-e7c7fc1a9442",
+      "time": "2026-05-13 21:11:38",
+      "tags": [
+        "MKT News",
+        "Bitcoin",
+        "Impact bullish",
+        "Ethereum"
+      ],
+      "text": "CHARLES SCHWAB LAUNCHES BITCOIN AND ETHEREUM TRADING"
+    },
+    {
+      "id": "4878055",
+      "time": "2026-05-13 21:11:35",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "全美汽車工人聯合會：若美國車軸公司拒絕提供公平合同，將發起罷工。"
+    },
+    {
+      "id": "4878054",
+      "time": "2026-05-13 21:10:49",
+      "tags": [
+        "資料",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【強勁的PPI資料使美聯儲降息路徑複雜化】根據芝商所FedWatch的資料，市場預期到12月加息的機率超過30%。在生產者價格資料高於預期之後，美聯儲越來越難以證明今年降息的合理性。4月份生產者價格上漲1.4%，高於經濟學家預期的0.5%的增幅。"
+    },
+    {
+      "id": "4878053",
+      "time": "2026-05-13 21:09:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍：軍事行動尚未結束。"
+    },
     {
       "id": "4878052",
       "time": "2026-05-13 21:08:23",
@@ -135282,68 +135329,6 @@
         "國際"
       ],
       "text": "【美媒：伊朗對美軍事資產造成的打擊遠超公開報道程度】據《華盛頓郵報》對衛星影象的分析顯示，自戰爭爆發以來，伊朗空襲已損壞或摧毀中東地區美軍基地至少228處建築或裝置，包括機庫、營房、燃料庫、飛機，以及關鍵雷達、通訊和防空裝置，破壞程度遠超美國政府公開承認或此前媒體的報道。總體而言，中東地區15處美軍基地共有217棟建築和11件裝置遭到損壞或摧毀。相關損毀表明，美軍低估了伊朗的打擊能力，未能充分適應現代無人機戰爭，也未對部分基地提供足夠防護。戰略與國際研究中心高階顧問、退役美國海軍陸戰隊上校Mark Cancian表示：“伊朗襲擊非常精準，沒有隨機彈坑顯示其打偏。”報道發現，襲擊命中了卡達烏代德空軍基地的衛星通訊設施；巴林裡法和伊薩空軍基地以及科威特阿里·薩利姆空軍基地的“愛國者”導彈防禦裝置；駐巴林海軍支援基地的一面衛星天線（該基地為美國第五艦隊總部）；科威特比靈營的一座發電廠；以及三處基地中的五個燃料儲存囊設施。審查的損毀中超過一半發生在第五艦隊總部以及科威特三處基地，其中阿里夫詹營是美軍陸軍地區總部。"
-    },
-    {
-      "id": "4863773",
-      "time": "2026-05-06 21:12:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "貢沃爾集團：已與德爾芬中游能源公司簽署長期液化天然氣供應協議，協議約定未來20年間，德爾芬中游能源每年向貢沃爾供應30萬噸液化天然氣。"
-    },
-    {
-      "id": "4863772",
-      "time": "2026-05-06 21:11:50",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "市場訊息：伊朗和沙特外長呼籲加強地區合作，以防止緊張局勢升級。"
-    },
-    {
-      "id": "te:economy:548408",
-      "time": "2026-05-06 21:11:27",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Poland",
-        "Interest Rate",
-        "Importance 1"
-      ],
-      "text": "National Bank of Poland Keeps Rates Steady as Expected — The National Bank of Poland left its key reference rate unchanged at 3.75% for a second consecutive meeting on May 6, 2026, in line with expectations. The lombard and deposit rates were also held steady at 4.25% and 3.25%, respectively. The decision comes as inflation in Poland rose for a second consecutive month to 3.2% in April, driven by higher energy prices amid the conflict with Iran. In March, the central bank cut borrowing costs by 25bps, just days after the war in the Middle East began, but has since shifted to a more cautious, wait-and-see stance."
-    },
-    {
-      "id": "4863771",
-      "time": "2026-05-06 21:11:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基：需加快國有能源企業改革程序。"
-    },
-    {
-      "id": "4863770",
-      "time": "2026-05-06 21:10:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基：SENSE BANK 必須在今年完成私有化。"
-    },
-    {
-      "id": "4863769",
-      "time": "2026-05-06 21:09:40",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美國市場疲軟 本田叫停在加拿大建廠計劃】日本媒體6日援引訊息人士的話報道，鑑於目前美國市場需求疲軟，日本本田汽車公司決定無限期凍結在加拿大建電動汽車工廠的計劃。（新華社）"
-    },
-    {
-      "id": "4863768",
-      "time": "2026-05-06 21:09:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【杭州灣跨海鐵路大橋南航道橋首座主塔封頂】5月6日，由國鐵上海建設公司建設管理、中交二航局承建的杭州灣跨海鐵路大橋南航道橋首座主塔順利封頂，標誌著這一超級工程建設取得重大階段性進展。杭州灣跨海鐵路大橋是新建南通至寧波高速鐵路關鍵控制性工程，全長29.2公里，採用時速350公里雙線無砟軌道設計，由北、中、南三座航道橋及海中引橋、淺灘區引橋共同組成。（新華社）"
     }
   ]
 }
