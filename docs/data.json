@@ -1,7 +1,71 @@
 {
-  "updated": "2026-05-13 21:02:03",
-  "count": 15102,
+  "updated": "2026-05-13 21:05:28",
+  "count": 15106,
   "items": [
+    {
+      "id": "4878045",
+      "time": "2026-05-13 21:04:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達與 IneffABLE 達成工程級深度合作。"
+    },
+    {
+      "id": "4878044",
+      "time": "2026-05-13 21:04:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：蘋果與谷歌補齊簡訊安全漏洞，iOS 26.5 正式為安卓與iPhone之間的互通對話，上線端到端加密RCS簡訊功能。"
+    },
+    {
+      "id": "4878043",
+      "time": "2026-05-13 21:03:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【派斯林：2025年營收8.82億元 淨虧損3.48億元】派斯林公告稱，2025年公司實現營業收入8.82億元，同比降低51.62%；歸母淨利潤淨虧損3.48億元，同比降低651.08%。年末總資產38.19億元，同比增長6.58%；淨資產25.23億元，同比增長26.14%；資產負債率33.95%，同比降低10.24個百分點。因淨利潤為負，2025年度擬不進行利潤分配、不實施資本公積金轉增股本。此外，公司擬在2026年為子公司和控股股東分別提供不超2.00億元、2.50億元的擔保額度。"
+    },
+    {
+      "id": "4878041",
+      "time": "2026-05-13 21:02:30",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "亞馬遜：與美國合眾銀行及萬事達卡聯合推出Prime商務卡與亞馬遜商務卡。"
+    },
+    {
+      "id": "4878040",
+      "time": "2026-05-13 21:02:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "Workday：整合於微軟 365 Copilot 的 SANA 自助智慧助手。"
+    },
+    {
+      "id": "mkt:019e216f-2c12-7eee-bb63-d1f34f54582d",
+      "time": "2026-05-13 21:01:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution",
+        "Chip Wars",
+        "The Trump Trade",
+        "China Tech Giants",
+        "Magnificent 7",
+        "Star Stocks",
+        "NVIDIA",
+        "Alibaba",
+        "DXY",
+        "Impact bullish",
+        "BABA.N",
+        "Impact bearish",
+        "NVDA.O"
+      ],
+      "text": "【MKTNews Morning Bid - US】- The consumer price index rose at its fastest clip in nearly three years last month, according to federal data released yesterday. The headline annual inflation reading came in at 3.8%, its highest level since 2023, moving further from the Federal Reserve’s target of 2%. - Alibaba Group ADRs (BABA) slip 3% after the company posted its first operating loss since the depths of the Covid pandemic, underscoring the extent to which China’s e-commerce leader is spending on the AI initiatives it hopes will power its next phase of growth. - Nvidia last night confirmed that CEO Jensen Huang is among the slew of executives traveling to China for Trump’s visit. Huang’s name wasn’t on a list of CEOs joining the U.S. delegation provided by a White House official earlier this week, causing uncertainty over whether he would join. - Chipmakers, opticals and storage firms gain as supply for global memory chips, key to AI infrastructure build-outs, tightens further. The sector is also getting a boost from Huang’s trip to China. - Trump said yesterday that Dr. Marty Makary resigned as commissioner of the Food and Drug Administration. Kyle Diamantas, a former top food official at the agency, will become acting commissioner."
+    },
     {
       "id": "4878039",
       "time": "2026-05-13 21:00:37",
@@ -135252,23 +135316,6 @@
         "國際"
       ],
       "text": "伊朗媒體：美國媒體AXIOS（關於伊朗問題）報道的部分內容屬於猜測。"
-    },
-    {
-      "id": "4863761",
-      "time": "2026-05-06 21:02:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "禮來承諾向印第安納州各生產基地追加45億美元投資，開設全球首家專屬基因藥物工廠。"
-    },
-    {
-      "id": "4863760",
-      "time": "2026-05-06 21:02:14",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "上海原油連續主力合約日內跌4%，現報640.50元。"
     }
   ]
 }
