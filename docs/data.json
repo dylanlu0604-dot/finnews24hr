@@ -1,7 +1,50 @@
 {
-  "updated": "2026-05-13 12:44:24",
-  "count": 14954,
+  "updated": "2026-05-13 12:47:48",
+  "count": 14953,
   "items": [
+    {
+      "id": "4876915",
+      "time": "2026-05-13 12:46:23",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "三星電子股價上漲1.3%，漲幅滯後於大盤，此前薪資談判破裂；SK海力士股價暴漲7%。"
+    },
+    {
+      "id": "mkt:019e1fa8-10bd-7553-b25f-1489a9bf0791",
+      "time": "2026-05-13 12:46:08",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "005930.KS",
+        "Impact mixed",
+        "000660.KS",
+        "Impact bullish"
+      ],
+      "text": "SAMSUNG ELEC UP 1.3% LAGGING WIDER MARKET AFTER PAY TALKS FALL APART; SK HYNIX RALLY 7%"
+    },
+    {
+      "id": "4876914",
+      "time": "2026-05-13 12:46:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "蘇黎世保險集團：財產意外險收入增長提速，人工智慧推動資料中心建設需求，中端市場增長拓寬。"
+    },
+    {
+      "id": "mkt:019e1fa7-b5d1-7553-b25f-0d343c23917a",
+      "time": "2026-05-13 12:45:45",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China Sees Its Soy Imports Sliding Just as US Farmers Eye Deals】China, the world’s top soybean importer, expects 2026-27 purchases to fall 7.6% to 95.5 million tons and consumption to drop 6% as its pig herd shrinks, reducing demand for feed and cooking oil. This contrasts with the USDA’s forecast of 114 million tons. The decline follows Beijing’s efforts to cut pig numbers and comes as US farmers aim to expand sales amid renewed trade talks ahead of Trump’s meeting with Xi Jinping."
+    },
     {
       "id": "4876913",
       "time": "2026-05-13 12:41:26",
@@ -133527,54 +133570,6 @@
         "其他"
       ],
       "text": "三一重卡據悉考慮香港IPO，或籌資約5億美元。"
-    },
-    {
-      "id": "te:economy:548136",
-      "time": "2026-05-06 12:47:31",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Netherlands",
-        "Personal Spending",
-        "Importance 1"
-      ],
-      "text": "Dutch Household Spending Rebounds in March — Household consumption in the Netherlands rose by 0.9% year-on-year in March 2026, rebounding from a 0.5% fall in the previous month. It marked the strongest increase since late November, driven mainly by durable goods, which households purchased 4.7% more than a year earlier (vs -1.1% in February). Spending was particularly strong on cars, electrical appliances, and household goods. Services expenditure, accounting for over half of total household consumption, also increased 0.4% from 0.1% in the prior month, as consumers spent more on transport and communication, medical services, and housing, but less on hospitality, recreation, and culture. In contrast, consumption decreased for food and beverages (-0.5% vs 0.3%) and other goods, such as energy and motor fuels (-1.4% vs -1.4%). Looking ahead, conditions for personal consumption were less favorable in April as consumers grew more pessimistic about their financial outlook and the year-on-year increase in stock prices was smaller."
-    },
-    {
-      "id": "4862615",
-      "time": "2026-05-06 12:47:28",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【美元兌日元驟跌 疑似官方隱性干預】週三美元兌日元匯率無端驟然走低，交易人士紛紛揣測日本當局疑似出手拋售美元。截至目前，日方仍不願承認進行匯市干預，但自上週匯率在160關口附近掉頭回落以來，外匯交易員始終保持高度警惕。市場同時留意，根據國際貨幣基金組織的指導方針，日本在11月前還有兩次為期三天的干預機會，以維持其匯率自由浮動的地位。"
-    },
-    {
-      "id": "4862614",
-      "time": "2026-05-06 12:47:15",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "【研究報告：全球石油庫存下降或致部分地區供應短缺】美國高盛集團日前釋出的一份研究報告顯示，當前全球石油庫存正接近達到8年來的最低水平，庫存下降速度不一、地區分配不平衡，引發人們對部分地區成品油率先出現供應短缺的擔憂。高盛在報告中預計，包括陸上、海上原油儲備和成品油庫存在內，全球石油總庫存目前能夠滿足101天的需求總量，到5月底可能僅能滿足98天的需求總量。成品油方面，全球庫存在中東戰事爆發前可以滿足50天需求，目前僅能滿足45天需求。（新華社）"
-    },
-    {
-      "id": "4862613",
-      "time": "2026-05-06 12:45:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "據阿聯酋媒體6日報道，迪拜一在建建築物起火。 社交媒體畫面顯示，現場出現大量濃煙。火災原因尚不明。（新華社）"
-    },
-    {
-      "id": "4862612",
-      "time": "2026-05-06 12:45:01",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【日元兌美元匯率一度大漲1.2%】日元兌美元匯率一度上漲1.2%，至156.06，重拾日本當局干預匯市引發的漲勢。注：4月30日，日本政府自2024年以來首次干預匯市，推動日元飆升。"
     }
   ]
 }
