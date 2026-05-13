@@ -1,7 +1,74 @@
 {
-  "updated": "2026-05-13 09:55:16",
-  "count": 14870,
+  "updated": "2026-05-13 09:58:38",
+  "count": 14874,
   "items": [
+    {
+      "id": "4876499",
+      "time": "2026-05-13 09:57:32",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "燃氣輪機概念早盤拉昇，濰柴動力漲停，東方電氣、萬澤股份、上海電氣漲超6%，博盈特焊、中國動力跟漲。"
+    },
+    {
+      "id": "mkt:019e1f0d-acd9-7553-b25d-9ee76e6d021c",
+      "time": "2026-05-13 09:57:30",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meituan",
+        "3690.HK",
+        "Impact bullish"
+      ],
+      "text": "MEITUAN RISES OVER 3% IN HONG KONG"
+    },
+    {
+      "id": "4876495",
+      "time": "2026-05-13 09:56:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "2026年1—3月 “十五五”首年首季我國電子商務實現良好開局 。"
+    },
+    {
+      "id": "4876494",
+      "time": "2026-05-13 09:56:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【李彥宏：AI時代的度量衡是日活智慧體數（DAA）】 5月13日舉辦的Create2026百度AI開發者大會開幕式上，百度創始人李彥宏提出，AI時代的度量衡可能是“日活智慧體數”（Daily Active Agents，簡稱DAA），與移動網際網路最通用的度量衡“日活使用者數”（DAU）相對應。李彥宏表示，目前較接近業界共識的度量衡是Token消耗，但Token不一定代表終局，它代表成本，並不代表收益；它衡量的是投入，而不是產出。“當人類進入智慧體時代，衡量一個平臺和生態的繁榮，更應該關注DAA這個指標，關注有多少Agents在給人類幹活，並交付結果。這比無謂的Token消耗，更接近價值，也更接近本質。”"
+    },
+    {
+      "id": "te:markets:550144",
+      "time": "2026-05-13 09:56:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Corn Holds Firm Despite Ample US Supplies — Corn futures held above $4.60 per bushel, sustaining early gains near one-year highs as the USDA’s latest outlook pointed to a slightly tighter US supply outlook for the 2026/27 season. The agency projected corn production at 15.995 billion bushels, down 6% from a record harvest but still the second-largest on record, while ending stocks were forecast at 1.957 billion bushels, down 185 million year-on-year and slightly above market expectations. Exports are expected to ease to 3.15 billion bushels, reflecting softer external demand, while domestic use remains broadly steady. Even with ample overall supply, prices were supported by improved sentiment across grain markets, as USDA projections reinforced a gradually tightening longer-term outlook alongside strong biofuel demand tied to elevated crude oil prices and geopolitical tensions. Corn has already risen about 9% year-to-date, with further gains potentially helping lift cash prices closer to breakeven levels for US farmers."
+    },
+    {
+      "id": "te:markets:550143",
+      "time": "2026-05-13 09:56:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Heating Oil Hovers Near 5-Week High — Heating oil futures for delivery at New York Harbor slipped to around $4.10 per gallon but held most of their recent gains near a five-week high, as the Middle East conflict continues without a clear resolution, prolonging disruptions to regional energy supply. US President Donald Trump has rejected Tehran’s latest response to a proposed peace framework, keeping the Strait of Hormuz effectively shut. Maritime transit through the key passageway has been halted since early March, disrupting nearly 20 million barrels per day of crude oil and refined product exports to major importing countries. In response, refineries across Europe and Asia have shifted output toward diesel and jet fuel at the expense of gasoline. Meanwhile, the National Weather Service forecasts a high likelihood that most of the US will experience above-normal temperatures over the next 6–10 days, potentially curbing near-term heating demand."
+    },
+    {
+      "id": "4876484",
+      "time": "2026-05-13 09:55:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【百度李彥宏：“自我進化”是一次從未有過的大機會】5月13日舉辦的Create 2026百度AI開發者大會開幕式上，百度創始人李彥宏詳釋“自我進化”：一是智慧體的自我進化，從被動響應到從環境中不斷吸取營養來提升自己，並主動執行；二是人類個體的自我進化，從普通個體到超級個體，並學會跟AI共存；三是企業組織的自我進化，從人與人的分工協作，到人與智慧體的混合編隊，成為超級組織。李彥宏稱，“這是一次我們從未見過的大變革，也是一次我們從未有過的大機會。而機會靠行動兌現。沒有行動，就沒有改變！沒有改變，就沒有進化！”"
+    },
     {
       "id": "4876471",
       "time": "2026-05-13 09:53:12",
@@ -132696,31 +132763,6 @@
         "焦點"
       ],
       "text": "南向資金淨賣出額達10億港元。"
-    },
-    {
-      "id": "4862403",
-      "time": "2026-05-06 09:58:15",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "上證指數漲1.01%，現報4153.879點；深證成指漲2.15%，現報15432.522點；創業板指漲3.13%，現報3792.226點。"
-    },
-    {
-      "id": "4862402",
-      "time": "2026-05-06 09:55:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【貪玩遊戲等成立智算科技公司 含AI及積體電路晶片業務】企查查APP顯示，近日，廣州旭動智算科技有限公司成立，經營範圍包含：積體電路晶片設計及服務；積體電路銷售；人工智慧應用軟體開發；人工智慧公共資料平臺；人工智慧公共服務平臺技術諮詢服務等。企查查股權穿透顯示，該公司由貪玩遊戲關聯公司江西貪玩資訊科技有限公司、廣州點動資訊科技股份有限公司共同持股。"
-    },
-    {
-      "id": "4862401",
-      "time": "2026-05-06 09:55:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "【東莞市政府副秘書長陳志軍主動投案接受紀律審查和監察調查】據“廉潔東莞”6日訊息，東莞市政府副秘書長陳志軍涉嫌嚴重違紀違法，主動投案，目前正接受東莞市紀委監委紀律審查和監察調查。"
     }
   ]
 }
