@@ -1,7 +1,107 @@
 {
-  "updated": "2026-05-13 10:42:22",
-  "count": 14915,
+  "updated": "2026-05-13 10:45:57",
+  "count": 14921,
   "items": [
+    {
+      "id": "mkt:019e1f3a-076c-7553-b25e-35018b7ed0bc",
+      "time": "2026-05-13 10:45:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Texas Instruments Expands Global Chip Production to Capture AI Infrastructure Demand: Nikkei】Texas Instruments is expanding its in-house semiconductor manufacturing footprint across Japan, Malaysia, the US, Germany and China to boost supply of “foundational” chips used in AI infrastructure, a senior executive told Nikkei Asia. The company is investing in GaN and mature-node chip production and targeting over 95% in-house chip manufacturing and 90% packaging and testing capacity by 2030. TI said its strongest growth is coming from data centers and industrial recovery, with data center revenue up 90% year-on-year in Q1, while industrial business grew 30%. TI is also investing over $60 billion in US fabs and expanding capacity in Japan and Malaysia to improve supply-chain resilience and support AI-driven demand."
+    },
+    {
+      "id": "te:markets:550175",
+      "time": "2026-05-13 10:45:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "South Korean Won Falls to Over 1-Month Low — The South Korean won weakened to around 1,498 per dollar, extending losses to its lowest level in over a month, as lingering geopolitical tensions and a stronger dollar weighed on sentiment. President Donald Trump’s comments that the ceasefire was on “massive life support” heightened concerns over escalation risks, keeping Strait of Hormuz supply disruption fears in focus and supporting oil prices. This increased pressure on South Korea’s energy import costs, given its reliance on imported crude and commodities. At the same time, hotter-than-expected US inflation reinforced expectations that the Federal Reserve may keep rates higher for longer, supporting US dollar strength and widening yield differentials with Asian currencies, further limiting recovery in the won. Volatility in Korean equities also weighed on sentiment, as foreign investors trimmed exposure after sharp swings in the KOSPI, while rebalancing flows added to dollar demand and sustained downside pressure on the currency."
+    },
+    {
+      "id": "4876763",
+      "time": "2026-05-13 10:45:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【PCB概念反覆走強 生益科技觸及漲停續創歷史新高】PCB概念反覆走強，生益科技、大族鐳射觸及漲停，股價續創歷史新高，鵬鼎控股、宏昌電子、大族數控、中一科技、寶鼎科技等跟漲。"
+    },
+    {
+      "id": "4876762",
+      "time": "2026-05-13 10:44:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣加權股價指數下跌2%至41,059.39點。"
+    },
+    {
+      "id": "te:economy:550174",
+      "time": "2026-05-13 10:44:55",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "China 10Y Yield Hits 3-Week Low — China’s 10-year government bond yield dropped to around 1.74% on Wednesday, hitting its lowest level in three weeks as investors geared up for the closely watched summit between US President Donald Trump and Chinese President Xi Jinping. The two-day meeting between the leaders is expected to cover a wide-ranging agenda, including trade relations, tariffs, artificial intelligence, Taiwan, and the ongoing conflict in the Middle East. However, Trump has signaled that his primary focus will be trade issues, suggesting that the Iran-related conflict is unlikely to feature prominently in the discussions. Investors are also watching for progress on a potential extension of the current trade truce, as tariffs remain a key source of friction between Washington and Beijing. China has consistently criticised US trade measures, while the Trump administration continues to pursue investigations into China’s trade practices."
+    },
+    {
+      "id": "4876761",
+      "time": "2026-05-13 10:44:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "經合組織秘書長表示：要繼續依靠運轉良好的市場，就必須更好地解決扭曲市場的行為，以及利用補貼謀取不公平貿易優勢這類問題。"
+    },
+    {
+      "id": "te:markets:550173",
+      "time": "2026-05-13 10:44:25",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "MSCI Review Sparks Selloff in Indonesian Stocks — Indonesian shares plunged 96 points, or 1.4%, to 6,760 in Wednesday morning trade, extending losses for a fourth session and notching their lowest since mid-2025. Sentiment soured after Morgan Stanley Capital International (MSCI) removed six local stocks from its Global Standard Index. The adjustment could reduce Indonesia’s weight in MSCI indexes by 16bps from 0.72% to 0.56%, potentially triggering IDR 29.5 trillion in capital outflows, according to local media. Meanwhile, U.S. equity futures were mixed after Wall Street closed mostly lower overnight, pressured by hotter-than-expected April inflation, higher oil prices, and persistent Middle East tensions. Most sectors in IDX Composite retreated, led by healthcare, cyclicals, and energy, though transport and industrials posted gains that helped cap losses. Major decliners included Amman Mineral Intl. (-9.1%), Petrindo Jaya Kreasi (-9.0%), Sumer Alfaria Trijaya (-4.2%), and Alamtri Resources (-2.3%)."
+    },
+    {
+      "id": "4876760",
+      "time": "2026-05-13 10:43:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "滬深兩市成交額突破1.5萬億元。"
+    },
+    {
+      "id": "4876759",
+      "time": "2026-05-13 10:42:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金安國紀：目前公司覆銅板和電子玻纖佈滿產滿銷】金安國紀(002636)5月12日在業績說明會上表示，目前，公司的覆銅板和電子玻纖布是滿產滿銷。2025年度，受覆銅板行業景氣度回升，公司覆銅板產銷數量同比增長、銷售價格逐漸回升，毛利率提高，實現營業收入同比上升及淨利潤大幅增長。"
+    },
+    {
+      "id": "4876755",
+      "time": "2026-05-13 10:41:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【泡泡瑪特：國際油價及航運市場波動較大 對海外業務毛利率造成影響】泡泡瑪特管理層在5月13日舉行的電話會上表示，近期國際油價及航運市場波動幅度較大，尤其國際航運燃油價格走高，公司頭程海運費、燃油附加費、倉儲成本均有所增加，這些因素會對海外業務毛利率造成影響。"
+    },
+    {
+      "id": "4876746",
+      "time": "2026-05-13 10:40:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【里昂：預計嗶哩嗶哩首季盈利能力進一步改善，維持“跑贏大市”評級】里昂發表報告指，預計嗶哩嗶哩第一季將維持穩健的收入增長，盈利能力進一步改善。該行預計總收入將同比增長7%至75億元，經調整淨利潤5.43億元；廣告收入應持續強勁增長，主要受遊戲廣告需求穩健以及AI應用推廣增加所帶動。該行同時認為，嗶哩嗶哩憑藉年輕使用者群體，是捕捉AI廣告的重要平臺之一；公司即使持續投入AI，仍有望進一步提升整體盈利能力。嗶哩嗶哩目前股價對應2027年預估經調整市盈率為15.7倍，該行對嗶哩嗶哩美股目標價29.1美元不變，維持“跑贏大市”評級。"
+    },
     {
       "id": "te:economy:550172",
       "time": "2026-05-13 10:39:17",
@@ -133122,51 +133222,6 @@
         "公司"
       ],
       "text": "【海信家電等成立磁浮科技公司 註冊資本3000萬】天眼查App顯示，近日，海信天瑞（山東）磁浮科技有限公司成立，法定代表人為殷必彤，註冊資本3000萬人民幣，經營範圍含製冷、空調裝置製造，製冷、空調裝置銷售，風機、風扇製造，風機、風扇銷售，機械裝置研發等。股東資訊顯示，該公司由海信家電（000921）、山東天瑞重工有限公司分別持股60%、40%。"
-    },
-    {
-      "id": "4862464",
-      "time": "2026-05-06 10:45:35",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根大通將ADM目標股價從65美元上調至74美元"
-    },
-    {
-      "id": "4862463",
-      "time": "2026-05-06 10:45:19",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【市場監管總局批准籌建全國智慧化醫療器械標準化工作組】市場監管總局批准籌建全國智慧化醫療器械標準化工作組，由國家藥監局負責管理。全國智慧化醫療器械標準化工作組主要負責全國智慧化醫療器械，包括人工智慧醫療器械、醫用機器人、腦機介面醫療器械以及融合技術類醫療器械等領域的標準化工作。該工作組的籌建，契合國家戰略與產業發展迫切需求，順應人工智慧、醫用機器人、腦機介面等新技術與醫療器械深度融合的發展趨勢，將有效填補我國智慧化醫療器械領域標準化技術組織空白，進一步完善醫療器械標準體系佈局。"
-    },
-    {
-      "id": "4862462",
-      "time": "2026-05-06 10:43:05",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "錫連續主力合約日內漲4%，現報398650.00元。"
-    },
-    {
-      "id": "te:markets:548102",
-      "time": "2026-05-06 10:42:52",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Indonesia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Indonesian Equities Rise for Third Session — Indonesian shares advanced 37 points or 0.5% to 7,094 in early Wednesday trade, extending gains for a third session after record closes on Wall Street’s S&P 500 and Nasdaq, lifted by U.S. President Donald Trump’s pause in efforts to reopen the Strait of Hormuz to allow time for a deal with Iran. Locally, Indonesia's GDP grew 5.61% yoy in Q1 2026, beating market forecasts and marking the fastest yearly expansion since 2022, boosted by festive-season demand, government spending on the Free Nutritious Meal Program, and a favorable low base. However, strength was tempered by a smaller trade surplus in March, reflecting sharp declines in coal and coffee exports. Meanwhile, the rupiah's weakness persisted, adding pressure to the economy. All sectors moved higher, led by basic materials, non-cyclicals, and industrials. Top movers included J Resources Asia Pacific (11.8%), TBS Energy Utama (8.6%), Unilever Indonesia (5.5%), and Energi Mega Persada (4.6%)."
-    },
-    {
-      "id": "4862461",
-      "time": "2026-05-06 10:42:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【安乃達等在南京成立智慧機器人公司】企查查APP顯示，近日，星澤卓光智慧機器人（南京）有限公司成立，法定代表人為袁儒鵬，經營範圍包含：智慧機器人的研發；智慧機器人銷售；人工智慧應用軟體開發；電力電子元器件銷售等。企查查股權穿透顯示，該公司由袁儒鵬、朱海濤、安乃達全資子公司安乃達投資（海南）有限公司共同持股。"
     }
   ]
 }
