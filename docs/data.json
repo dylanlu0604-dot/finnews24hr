@@ -1,7 +1,16 @@
 {
-  "updated": "2026-05-14 07:46:52",
-  "count": 15391,
+  "updated": "2026-05-14 07:50:22",
+  "count": 15386,
   "items": [
+    {
+      "id": "4878749",
+      "time": "2026-05-14 07:47:45",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【隔夜美國科技股上漲後 日經指數或將走高】繼隔夜美國晶片股和其他科技股上漲後，日本股市或將走高。新加坡交易所的日經指數期貨上漲0.3%，報63495點。投資者正關注大國峰會及日本企業盈利情況。伊朗戰爭的最新進展也備受關注。日經指數週三收盤上漲0.8%，報63272.11點。"
+    },
     {
       "id": "4878748",
       "time": "2026-05-14 07:46:37",
@@ -138360,59 +138369,6 @@
         "國際"
       ],
       "text": "日本央行成員：如果經濟前景符合預期，則適宜加息。"
-    },
-    {
-      "id": "4864368",
-      "time": "2026-05-07 07:50:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本4月貨幣基礎同比下降11.3%。"
-    },
-    {
-      "id": "4864367",
-      "time": "2026-05-07 07:49:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普將於週四下午4點（美國東部時間）簽署行政命令。"
-    },
-    {
-      "id": "4864366",
-      "time": "2026-05-07 07:49:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普將於美國東部時間週四上午11點會見巴西總統盧拉。"
-    },
-    {
-      "id": "4864365",
-      "time": "2026-05-07 07:48:33",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【日經指數或將上漲 受美伊和平談判希望提振】隨著對美伊和平談判的希望持續，日本股市或將上漲。新加坡交易所的日經指數期貨開盤報61890點，較週三上漲585點，較週五上漲2660點。日本市場週一至週三因公眾假日休市。投資者正關注中東局勢的發展及其對企業盈利的影響。日經指數週五上漲0.4%，至59513.12點。"
-    },
-    {
-      "id": "te:markets:548494",
-      "time": "2026-05-07 07:48:27",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Gold Holds Gains on Middle East Peace Prospects — Gold traded near $4,700 an ounce on Thursday after rising roughly 3% in the previous session, as hopes for a US-Iran agreement triggered a sharp decline in oil prices and helped ease inflation worries. Reports indicated that the US had sent a one-page memorandum of understanding through Pakistani mediators aimed at formally ending the conflict and potentially allowing the gradual reopening of the Strait of Hormuz. Tehran is expected to respond in the coming days after confirming it was reviewing a US peace proposal, while more comprehensive negotiations over Iran’s nuclear program are reportedly expected later. Oil prices tumbled, easing concerns over inflationary pressures and reducing expectations that central banks would need to maintain restrictive policies for longer. Still, Federal Reserve Bank of Chicago President Austan Goolsbee warned that inflation has not continued to cool toward the US central bank’s 2% target and has instead accelerated since the outbreak of the war."
-    },
-    {
-      "id": "4864364",
-      "time": "2026-05-07 07:47:02",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【中金：看好模型健康、擴張要素齊備的生鮮龍頭公司長期成長空間】中金指出，生鮮作為居民一日三餐的核心組成部分，不僅是競爭激烈的流量入口級品類，其背後更承載著三十年來中國零售行業商業模式創新迭代的縮影。縱觀行業發展時間軸，橫跨國內海外市場，連鎖化、近場化都是生鮮零售演進的大勢所趨。看好模型健康、擴張要素齊備的龍頭公司長期成長空間。"
     }
   ]
 }
