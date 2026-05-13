@@ -1,7 +1,204 @@
 {
-  "updated": "2026-05-13 13:48:36",
-  "count": 14969,
+  "updated": "2026-05-13 14:01:55",
+  "count": 14973,
   "items": [
+    {
+      "id": "4876995",
+      "time": "2026-05-13 14:01:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "【多元金融板塊異動拉昇 南華期貨漲停】午後多元金融板塊異動拉昇，南華期貨漲停，永安期貨、建元信託、瑞達期貨、弘業期貨等紛紛跟漲。"
+    },
+    {
+      "id": "4876994",
+      "time": "2026-05-13 14:01:09",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "日本石油勘探公司（JAPEX）高管表示：本財年下半年可能會根據天然氣與電力供應情況，再採購一船替代液化天然氣。"
+    },
+    {
+      "id": "te:markets:550227",
+      "time": "2026-05-13 14:00:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Rupiah Inches Higher After Hitting Fresh Historic Low — The rupiah edged up to around IDR 17,490 per dollar on Wednesday after briefly sliding past 17,500, a fresh record low. Support came from speculation that Bank Indonesia might lift its benchmark rate to 5.0% at next week’s meeting, after holding at 4.75% since October, to stem capital outflows and stabilize the currency. Sentiment also improved on reports that the government will launch a bond stabilization fund to shore up the debt market amid rising yields and foreign selling. The rebound in rupiah was modest as the dollar strengthened further after hotter-than-expected U.S. inflation data, dampening hopes for near-term Fed cuts. Meanwhile, President Prabowo criticized Governor Warjiyo over the rupiah’s weakness while backing seven new measures, including tighter FX rules and liquidity adjustments. Still, the rupiah has lost about 4.6% this year, weighed down by soft fundamentals, shrinking reserves, fiscal strains, and sustained outflows."
+    },
+    {
+      "id": "4876993",
+      "time": "2026-05-13 14:00:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "羅馬尼亞第一季度 GDP 同比下降 1.7%；預計-0.2%。"
+    },
+    {
+      "id": "4876992",
+      "time": "2026-05-13 14:00:27",
+      "tags": [
+        "資料"
+      ],
+      "text": "德國4月批發物價指數月率 2%，前值2.7%。德國4月批發物價指數年率 6.3%，前值4.1%。"
+    },
+    {
+      "id": "4876991",
+      "time": "2026-05-13 14:00:16",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【兩項港口散雜貨電子單證國家標準釋出 8月1日起正式實施】市場監管總局批准釋出《港口散雜貨電子提貨單》和《港口散雜貨進口電子艙單》兩項推薦性國家標準，將於8月1日正式實施。這是首次針對港口散雜貨電子單證制定的國家標準，規定了兩類電子單證的總體要求、資料交換要求和使用要求。總體要求方面：規定了電子單證應包含的基本資訊、主要業務相關方、依託平臺的基本要求，以及單證接收後的處理方式；資料交換方面，規定了單證的資料交換方式與資訊項基本屬性，並據此對單證的各項基本資訊項進行詳細說明；使用要求方面，規定了單證的生成與使用要求，明確了單證的建立方和使用方，以及相關的流轉流程、確認流程和使用情形。兩項標準的釋出實施，將進一步規範港口散雜貨電子提貨單和進口電子艙單的應用，助力港口加快實現主要作業單證電子化和業務專案線上辦理，推進港口無紙化作業發展，為建設世界一流港口提供有力支撐。"
+    },
+    {
+      "id": "4876990",
+      "time": "2026-05-13 14:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達2.03%，成分股中，時代電氣漲20.00%，天嶽先進漲11.93%，恆玄科技漲7.05%，芯聯整合漲6.68%。"
+    },
+    {
+      "id": "mkt:019e1feb-bfdd-7553-b25f-d7582d653550",
+      "time": "2026-05-13 14:00:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | Wholesale Price Index (YoY) (Apr) | actual 6.3% | previous 4.1%"
+    },
+    {
+      "id": "mkt:019e1feb-bfda-7553-b25f-c8d8a915a1a8",
+      "time": "2026-05-13 14:00:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | Wholesale Price Index (MoM) (Apr) | actual 2% | previous 2.7%"
+    },
+    {
+      "id": "4876989",
+      "time": "2026-05-13 13:59:43",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "日本石油勘探公司（JAPEX）高管：預計2026財年，為確保替代貨物供應，液化天然氣採購成本將增加156億日元。"
+    },
+    {
+      "id": "4876988",
+      "time": "2026-05-13 13:58:44",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指漲2.00%，現報4013.700點；上證指數漲0.41%，現報4231.667點；深證成指漲1.21%，現報16016.705點。"
+    },
+    {
+      "id": "4876987",
+      "time": "2026-05-13 13:58:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "塞普勒斯總統表示，聯合國或於今年推出塞普勒斯和平計劃。"
+    },
+    {
+      "id": "mkt:019e1fe9-a10e-7553-b25f-c76e5a8366c6",
+      "time": "2026-05-13 13:57:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RUSSIA'S LAVROV: MANY GOOD WORDS ARE SAID ABOUT THE ENORMOUS POTENTIAL OF U.S.-RUSSIAN RELATIONS BUT IN REALITY 'NOTHING IS HAPPENING'"
+    },
+    {
+      "id": "4876986",
+      "time": "2026-05-13 13:56:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【穎通控股9750萬元投資香氛品牌馥郁滿鋪，取得15%股權】穎通控股有限公司釋出公告稱，公司全資附屬公司穎通（中國）國際貿易有限責任公司已於2026年4月13日簽署增資認購協議及股東協議，以總價人民幣9750萬元認購杭州白晝與夢生物科技有限公司新增註冊資本，取得後者增資完成後15%的股權。白晝與夢旗下運營芳療功效護膚、個人護理及香氛品牌“馥郁滿鋪”。該品牌主打改善肌膚狀態及情緒療愈。馥郁滿鋪此前曾獲凱輝基金、內向基金、挑戰者創投在內的三輪融資。（介面新聞 周芳穎）"
+    },
+    {
+      "id": "4876985",
+      "time": "2026-05-13 13:55:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "新易盛成交額達200億元，現漲5.07%。"
+    },
+    {
+      "id": "te:markets:550225",
+      "time": "2026-05-13 13:54:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Extends Losses, Closes Down 0.1% — The NZX 50 fell 17 points, or 0.1%, to close at 13,063 on Wednesday, retreating for the second straight session and tracking declines on Wall Street overnight, as a faster-than-expected inflation reading amid higher oil prices raised concerns that the Fed will not cut rates this year. Fresh data also pressured sentiment, with business inflation expectations accelerating to 2.53% in Q2, marking the fastest increase since Q4 2023. Traders also remained cautious ahead of the release of New Zealand's food inflation data and manufacturing PMI, both due later this week. Markets will also monitor developments surrounding a potential meeting between US President Trump and Chinese President Xi Jinping later this week. Technology stocks, communication services, and financials mainly dragged the index lower, with notable losses from AFC Pharmaceuticals (-6.7%), Westpac Banking Corp. (-4.5%), ANZ Group (-2.6%), Infratil (-1.5%), and Auckland International Airport (-1.3%)."
+    },
+    {
+      "id": "4876984",
+      "time": "2026-05-13 13:53:13",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨賣出額達30億港元。"
+    },
+    {
+      "id": "4876983",
+      "time": "2026-05-13 13:52:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "梅賽德斯賓士將把柏林的七家經銷商出售給加拿大買家。"
+    },
+    {
+      "id": "4876982",
+      "time": "2026-05-13 13:50:19",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "韓國政府將支援並鼓勵三星電子與工會透過對話解決問題。"
+    },
+    {
+      "id": "mkt:019e1fe2-b011-7553-b25f-bcbb0c1d8db8",
+      "time": "2026-05-13 13:50:10",
+      "tags": [
+        "MKT News",
+        "005930.KS",
+        "Impact bullish"
+      ],
+      "text": "SOUTH KOREA GOVERNMENT WILL SUPPORT AND ENCOURAGE SAMSUNG ELEC AND UNION TO RESOLVE ISSUES THROUGH DIALOGUE -BLUE HOUSE"
+    },
+    {
+      "id": "mkt:019e1fe2-6ce2-7553-b25f-b62dae970369",
+      "time": "2026-05-13 13:49:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SOUTH KOREA PRESIDENT LEE DID NOT DISCUSS NORTH KOREA WITH U.S. OR CHINA ENVOYS -BLUE HOUSE"
+    },
+    {
+      "id": "4876981",
+      "time": "2026-05-13 13:48:30",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【儲存晶片午後持續走強】儲存晶片午後持續走強，大族鐳射、德明利、博敏電子、雅克科技、聖泉集團、萬潤科技、三孚股份漲停，晶盛機電漲超10%，晶升股份、勝科奈米、永安行、恆坤新材、壹石通跟漲。"
+    },
     {
       "id": "4876980",
       "time": "2026-05-13 13:48:20",
@@ -133610,165 +133807,6 @@
         "市場"
       ],
       "text": "瑞典4月CPIF初步資料顯示同比上漲0.8%，預期上漲1.2%。"
-    },
-    {
-      "id": "4862700",
-      "time": "2026-05-06 14:01:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "亞塞拜然中央銀行將關鍵再融資利率維持在6.5%不變，符合市場預期。"
-    },
-    {
-      "id": "4862699",
-      "time": "2026-05-06 14:01:34",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "白銀連續主力合約日內漲6%，現報18885.00元。"
-    },
-    {
-      "id": "4862698",
-      "time": "2026-05-06 14:00:57",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "玉米連續主力合約日內跌2%，現報2374.00元。"
-    },
-    {
-      "id": "4862697",
-      "time": "2026-05-06 14:00:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "英國翠峰集團執行長蒂埃裡·加尼爾辭職。"
-    },
-    {
-      "id": "4862696",
-      "time": "2026-05-06 14:00:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "傑富瑞將AMD目標股價從300美元上調至415美元。"
-    },
-    {
-      "id": "4862695",
-      "time": "2026-05-06 13:59:05",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【黃金股震盪走高，四川黃金、曉程科技漲超8%】黃金股震盪走高，四川黃金、曉程科技漲超8%，赤峰黃金、山金國際、湖南黃金紛紛拉昇。"
-    },
-    {
-      "id": "4862693",
-      "time": "2026-05-06 13:57:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "EDP可再生能源執行長：葡萄牙與西班牙針對電力生產商徵收暴利稅“完全不合邏輯”。"
-    },
-    {
-      "id": "4862692",
-      "time": "2026-05-06 13:56:58",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "EDP可再生能源執行長：我們將堅持未來三年在美國投資45億歐元的投資計劃。"
-    },
-    {
-      "id": "4862691",
-      "time": "2026-05-06 13:56:38",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4660美元/盎司，日內漲2.26%。"
-    },
-    {
-      "id": "4862690",
-      "time": "2026-05-06 13:56:29",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4670美元/盎司，日內漲2.23%。"
-    },
-    {
-      "id": "te:markets:548155",
-      "time": "2026-05-06 13:55:21",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Indonesia",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Rupiah Near Record Low as Reserves, Exports Weigh — The Indonesian rupiah hovered near IDR 17,400 per dollar on Wednesday, close to record lows as concerns over external buffers deepened. Declining foreign reserves have raised doubts about the central bank’s ability to support the currency, with markets awaiting April data due Thursday after March figures fell to a near two-year low. Exports also shrank in March, the first time since December, adding pressure to the external balance. Authorities have moved to respond: the chief economic minister said the government is working with Bank Indonesia to expand swap lines with China, Japan, and South Korea, while the central bank cut the cap on undocumented U.S. dollar cash purchases to USD 25,000 from USD 50,000 to curb speculation. April Inflation stayed contained at 2.42%, within the central bank’s limit, though risks persist from rising energy costs and supply disruptions linked to Middle East tensions. Meantime, the U.S. dollar index eased on hopes of a potential Washington–Tehran deal."
-    },
-    {
-      "id": "4862689",
-      "time": "2026-05-06 13:54:25",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "惠譽針對印尼債券市場表示，主要風險包括與資本市場監管擔憂相關的國內市場波動，以及伊朗衝突的影響。"
-    },
-    {
-      "id": "4862688",
-      "time": "2026-05-06 13:53:33",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【電網裝置板塊震盪拉昇 中恆電氣漲停】午後電網裝置板塊震盪拉昇，中恆電氣封漲停，科林電氣觸及漲停，安靠智電漲超10%，四方股份、思源電氣、雙傑電氣、順鈉股份跟漲。"
-    },
-    {
-      "id": "4862687",
-      "time": "2026-05-06 13:53:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "惠譽關於印尼債券市場表示：企業違約付款/債務重組情況可能會持續下去。"
-    },
-    {
-      "id": "4862686",
-      "time": "2026-05-06 13:51:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：Deepseek接近達到450億美元估值。"
-    },
-    {
-      "id": "4862685",
-      "time": "2026-05-06 13:49:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中方呼籲防止AI成為少數富國的遊戲】中國、尚比亞常駐聯合國代表團和中國科學技術協會5月5日在紐約聯合國總部共同舉辦“人工智慧能力建設國際合作之友小組會議”。中國常駐聯合國代表傅聰大使表示，我們要堅持多邊主義，秉持共商共建共享原則推進AI發展，防止AI成為少數富裕國家或群體的“遊戲”。中國科技部副部長陳家昌在發言中指出，中國堅持走開源開放的人工智慧創新之路，加快構建普惠全球的技術創新生態，中國人工智慧已成為全球人工智慧專利最大貢獻國，專利數量佔全球總量的60%。中國願同世界各國一道，深化國際合作，推動人工智慧健康發展，促進世界經濟增長，增進各國人民福祉。 (央視新聞)"
-    },
-    {
-      "id": "4862684",
-      "time": "2026-05-06 13:49:10",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "挪威Equinor執行長：即便中東恢復和平，石油市場也需要大約六個月才能迴歸常態。"
-    },
-    {
-      "id": "4862683",
-      "time": "2026-05-06 13:49:00",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "大陸集團：中東衝突預計將給輪胎業務帶來1億至數億歐元區間的毛損，主要受原材料價格上漲推動。"
     }
   ]
 }
