@@ -1,7 +1,191 @@
 {
-  "updated": "2026-05-13 22:00:05",
-  "count": 15123,
+  "updated": "2026-05-13 22:03:31",
+  "count": 15137,
   "items": [
+    {
+      "id": "4878144",
+      "time": "2026-05-13 22:02:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：白宮官員表示，美國總統特朗普政府要求各州醫療補助監管機構遵守反欺詐法規。"
+    },
+    {
+      "id": "4878143",
+      "time": "2026-05-13 22:02:46",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行官員：貨幣政策無法抵消能源價格帶來的成本推動型衝擊。"
+    },
+    {
+      "id": "4878142",
+      "time": "2026-05-13 22:02:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：晶片初創公司Fractile融資2.2億美元以加速人工智慧查詢。"
+    },
+    {
+      "id": "4878141",
+      "time": "2026-05-13 22:02:22",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行官員表示：隨著新市場參與者平倉，緊縮政策立場可能引發市場波動，且有可能導致國內金融狀況比預期收緊。"
+    },
+    {
+      "id": "4878140",
+      "time": "2026-05-13 22:02:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗副外長表示，伊朗正擬定針對途經霍爾木茲海峽船隻收取的 “通行服務費”。"
+    },
+    {
+      "id": "4878139",
+      "time": "2026-05-13 22:02:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "塞爾維亞3月份經常賬戶赤字為3.5298億歐元。"
+    },
+    {
+      "id": "4878138",
+      "time": "2026-05-13 22:01:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "Urban Outfitters與 DoorDash 宣佈達成合作。"
+    },
+    {
+      "id": "4878137",
+      "time": "2026-05-13 22:01:33",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "英國貨幣政策委員會委員：近期地緣政治事件進一步表明，英國經濟極易受到國際衝擊的影響，而這些衝擊可能要求出臺政策應對。"
+    },
+    {
+      "id": "4878136",
+      "time": "2026-05-13 22:00:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta：將在WhatsApp推出搭載Meta AI的無痕聊天功能。"
+    },
+    {
+      "id": "4878135",
+      "time": "2026-05-13 22:00:54",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數漲超3%，世紀互聯漲29.81%，金山雲漲15.68%，京東漲6.94%，萬國資料漲6.98%，中進醫療漲6.53%。"
+    },
+    {
+      "id": "mkt:019e21a5-6820-7eee-bb64-afc4a45a121d",
+      "time": "2026-05-13 22:00:50",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "CHIPS STARTUP FRACTILE RAISES $220M TO SPEED UP AI QUERIES: WSJ"
+    },
+    {
+      "id": "4878134",
+      "time": "2026-05-13 22:00:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta：未來數月將在WhatsApp及Meta AI應用推出面向Meta AI的隱身聊天功能。"
+    },
+    {
+      "id": "mkt:019e21a5-19f0-7eee-bb64-a67679286501",
+      "time": "2026-05-13 22:00:45",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "META.O",
+        "Impact bullish"
+      ],
+      "text": "META: INCOGNITO CHAT WITH META AI ROLLING OUT ON WHATSAPP & META AI APP OVER COMING MONTHS"
+    },
+    {
+      "id": "mkt:019e21a4-cbc2-7eee-bb64-9d56c559c5c4",
+      "time": "2026-05-13 22:00:40",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "PENTAGON EFFORT POSITIONS IT TO POTENTIALLY PROCURE OVER 10,000 LOW-COST, CONTAINERIZED MISSILES OVER THREE YEARS STARTING IN 2027 - STATEMENT"
+    },
+    {
+      "id": "4878133",
+      "time": "2026-05-13 22:00:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破103美元/桶，日內漲0.83%。"
+    },
+    {
+      "id": "mkt:019e21a4-2f73-7eee-bb64-9053147502ed",
+      "time": "2026-05-13 22:00:32",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "META.O",
+        "Impact bullish"
+      ],
+      "text": "META: IN COMING MONTHS, TO INTRODUCE SIDE CHAT WITH META AI PROTECTED BY PRIVATE PROCESSING"
+    },
+    {
+      "id": "mkt:019e21a3-e132-7eee-bb64-8d2089c3826a",
+      "time": "2026-05-13 22:00:27",
+      "tags": [
+        "MKT News",
+        "LDOS.O",
+        "Impact bullish"
+      ],
+      "text": "PENTAGON SET TO ANNOUNCE FRAMEWORK AGREEMENTS WITH ANDURIL, COASPIRE, LEIDOS AND ZONE 5 ON LOW-COST CONTAINERIZED MUNITIONS - STATEMENT"
+    },
+    {
+      "id": "4878132",
+      "time": "2026-05-13 22:00:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：五角大樓將與安杜里爾工業公司、Coaspire公司、萊多斯公司以及Zone 5公司簽署低成本集裝箱化彈藥框架協議。"
+    },
+    {
+      "id": "mkt:019e21a3-9313-7eee-bb64-817793161cd2",
+      "time": "2026-05-13 22:00:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "PENTAGON TO AWARD TWO-YEAR PROCUREMENT CONTRACT TO CASTELION FOR A MINIMUM OF 500 BLACKBEARD MISSILES ANNUALLY, UPON TESTING AND VALIDATION - STATEMENT"
+    },
+    {
+      "id": "4878131",
+      "time": "2026-05-13 22:00:12",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "一份宣告顯示：美國五角大樓將在測試驗證完成後，與卡斯蒂利昂公司簽訂為期兩年的採購合同，每年最低採購500枚“黑鬍子”導彈。"
+    },
     {
       "id": "4878130",
       "time": "2026-05-13 21:58:52",
@@ -135460,59 +135644,6 @@
         "國際"
       ],
       "text": "美國4月全球供應鏈壓力指數 1.82，前值0.68。"
-    },
-    {
-      "id": "4863862",
-      "time": "2026-05-06 22:02:01",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【分析師：油價或將急跌，但不會回到戰前水平】FXPro首席市場分析師Alex Kuptsikevich在報告中表示，由於美國不願在與伊朗的衝突中進一步升級緊張局勢，石油市場目前已將和平協議視為基本情景。“航運一旦迅速恢復，被困在霍爾木茲海峽的油輪將短期內集中釋放供應，從而壓低布倫特原油和WTI原油價格。”不過他補充稱，由於全球庫存已經消耗，以及海灣國家受損基礎設施修復仍需時間，到今年年底前，油價不太可能回到戰前水平。“布倫特原油和WTI油價的下跌很可能會非常迅速，但持續時間不會太長。”"
-    },
-    {
-      "id": "4863861",
-      "time": "2026-05-06 22:01:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI：我們已與 AMD、博通、英特爾、微軟及英偉達達成合作，共同釋出多路徑可靠連線（MRC）。"
-    },
-    {
-      "id": "4863860",
-      "time": "2026-05-06 22:01:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以軍總參謀長：在伊朗仍有一系列目標尚待打擊】當地時間5月6日，以色列國防軍總參謀長扎米爾表示，以軍與美軍的合作和協調始終持續，目前正密切關注局勢發展。扎米爾表示，以色列在伊朗仍有一系列目標尚待打擊。以軍正處於高度戒備狀態，隨時準備重返戰爭。他表示，此類行動將進一步削弱伊朗政權。扎米爾還表示，自本次美以伊衝突爆發以來，已有超過2000名黎真主黨武裝人員在黎巴嫩被以軍打死。對此，黎真主黨方面暫無回應。（央視新聞）"
-    },
-    {
-      "id": "4863859",
-      "time": "2026-05-06 22:00:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "微軟：將在歐洲各地大幅投資資料中心區域。"
-    },
-    {
-      "id": "4863858",
-      "time": "2026-05-06 22:00:30",
-      "tags": [
-        "資料"
-      ],
-      "text": "加拿大4月Ivey未季調PMI 61.5，前值56.5。加拿大4月Ivey季調後PMI 57.7，前值49.7。"
-    },
-    {
-      "id": "te:markets:548430",
-      "time": "2026-05-06 22:00:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Opens 1.17% Higher — The Dow Jones Index is gaining 577 points or 1.17 percent on Wednesday. Leading the gains are Walt Disney (8.09%), Nvidia (3.97%) and Sherwin-Williams (3.28%)."
     }
   ]
 }
