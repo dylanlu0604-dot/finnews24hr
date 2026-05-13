@@ -1,7 +1,42 @@
 {
-  "updated": "2026-05-14 01:15:10",
+  "updated": "2026-05-14 01:18:34",
   "count": 15337,
   "items": [
+    {
+      "id": "te:markets:550421",
+      "time": "2026-05-14 01:17:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 0"
+      ],
+      "text": "Apple traded above 300 USD — Apple increased 1.77 to 300.01"
+    },
+    {
+      "id": "mkt:019e2256-0efb-7dd0-a6a7-eedff2498f38",
+      "time": "2026-05-14 01:15:25",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "USDJPY",
+        "Impact bullish",
+        "DXY",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "YEN FACES NEW PRESSURE AS MARKETS SEE CHANCES FOR US RATE HIKE -NIKKEI"
+    },
+    {
+      "id": "4878422",
+      "time": "2026-05-14 01:15:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：市場預判美國存在加息可能，日元再度承壓。"
+    },
     {
       "id": "4878420",
       "time": "2026-05-14 01:13:23",
@@ -137612,33 +137647,6 @@
         "國際"
       ],
       "text": "以色列表示，其軍方已在貝魯特發動襲擊，目標為真主黨拉德萬部隊的一名指揮官。"
-    },
-    {
-      "id": "4864054",
-      "time": "2026-05-07 01:17:44",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲古爾斯比：如果人工智慧真能達到宣傳的效果，那會非常理想，但美聯儲仍需警惕經濟過熱。"
-    },
-    {
-      "id": "4864053",
-      "time": "2026-05-07 01:17:17",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "週三（5月6日），美聯儲隔夜逆回購協議（RRP）使用規模為16.33億美元（交易對手7家），上個交易日報11.22億美元。"
-    },
-    {
-      "id": "4864052",
-      "time": "2026-05-07 01:17:06",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲古爾斯比：如果人們將未來預期收益提前至當前消費，很容易導致經濟過熱。"
     }
   ]
 }
