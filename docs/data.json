@@ -1,7 +1,511 @@
 {
-  "updated": "2026-05-14 02:02:58",
-  "count": 15390,
+  "updated": "2026-05-14 02:30:09",
+  "count": 15431,
   "items": [
+    {
+      "id": "4878538",
+      "time": "2026-05-14 02:29:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "巴西石油公司CEO莫雷蒂：當前布倫特原油價格仍處於極高水平，這要求我們持續更新策略，以緩解俄烏衝突帶來的影響。"
+    },
+    {
+      "id": "4878537",
+      "time": "2026-05-14 02:28:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西政府：每升汽油每讓利0.10雷亞爾，每月預計開支為2.72億雷亞爾。"
+    },
+    {
+      "id": "4878536",
+      "time": "2026-05-14 02:28:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌2%，現報105.61美元/桶。"
+    },
+    {
+      "id": "4878535",
+      "time": "2026-05-14 02:28:29",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國國家運輸安全委員會建議透過基於場景的實景模擬訓練，提升飛行員應對駕駛艙煙霧緊急情況的準備能力。"
+    },
+    {
+      "id": "4878534",
+      "time": "2026-05-14 02:28:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西政府：柴油每升補貼0.10雷亞爾，每月預計支出為4.92億雷亞爾。"
+    },
+    {
+      "id": "4878533",
+      "time": "2026-05-14 02:28:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西政府：該項措施（補貼）將保持財政中性。"
+    },
+    {
+      "id": "4878532",
+      "time": "2026-05-14 02:26:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯：今天，我們正向全美50個醫療補助專案下發通知函，要求各州證明其正切實、嚴厲地追訴本地醫保欺詐行為；如若做不到，我們將切斷撥付給各州反欺詐專項機構的資金。"
+    },
+    {
+      "id": "4878531",
+      "time": "2026-05-14 02:25:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西補貼政策還將涵蓋柴油。"
+    },
+    {
+      "id": "4878528",
+      "time": "2026-05-14 02:25:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "巴西國家石油公司將向進口商支付補貼。"
+    },
+    {
+      "id": "4878527",
+      "time": "2026-05-14 02:25:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "巴西國家石油公司將向生產商支付補貼。"
+    },
+    {
+      "id": "te:markets:550424",
+      "time": "2026-05-14 02:25:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Cocoa Drops by 3.68% — Top commodity losers are Cocoa (-3.68%), Oat (-2.61%) and Orange Juice (-1.92%). Gains are led by Rice (2.67%), Sugar (2.53%) and Barley (2.01%)."
+    },
+    {
+      "id": "mkt:019e2295-b019-7dd0-a6a9-6928dfb0ed28",
+      "time": "2026-05-14 02:24:55",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "BRAZIL'S REAL WEAKENS PAST 5.00 PER U.S. DOLLAR IN SPOT TRADING"
+    },
+    {
+      "id": "4878526",
+      "time": "2026-05-14 02:23:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯：有些人被開具了根本無需服用的藥物處方。有時他們還被強行使用不必要的藥劑，原因就是不法從業者刻意慫恿虛假開方、違規給藥。這不僅是對美國納稅人的欺詐，更是踐踏了每位民眾與處方醫師之間本應存在的信任。"
+    },
+    {
+      "id": "4878525",
+      "time": "2026-05-14 02:23:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯：夏威夷、紐約等藍州放任福利欺詐現象滋生蔓延。"
+    },
+    {
+      "id": "mkt:019e2294-00b9-7dd0-a6a9-655587b016f5",
+      "time": "2026-05-14 02:23:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BRAZIL GOVERNMENT: NEW SUBSIDY WILL INITIALLY COVER GASOLINE, BUT COULD BE EXTENDED TO DIESEL WHEN THE BENEFITS ALREADY IMPLEMENTED FOR DIESEL EXPIRE IN MAY"
+    },
+    {
+      "id": "4878524",
+      "time": "2026-05-14 02:22:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西政府：新補貼最初將覆蓋汽油，但在已實施的柴油補貼於5月到期後，該補貼可擴大覆蓋至柴油。"
+    },
+    {
+      "id": "4878523",
+      "time": "2026-05-14 02:22:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯：猜猜過去幾年，夏威夷在醫療補助欺詐案件中有多少起定罪或起訴記錄？答案是零，沒有一起起訴，也沒有一起定罪。"
+    },
+    {
+      "id": "4878522",
+      "time": "2026-05-14 02:22:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西政府宣告：汽油和柴油價格補貼不得超過聯邦燃油稅的上限。"
+    },
+    {
+      "id": "4878521",
+      "time": "2026-05-14 02:22:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "【萬斯：延遲向加州撥付13億美元醫療補助計劃資金】美國副總統萬斯宣佈，聯邦政府將推遲向加州撥付超10億美元醫療補助計劃報銷款項，理由是加州未能打擊系統性欺詐行為。萬斯表示：“我們正式宣佈，聯邦政府將暫緩向加利福尼亞州撥付13 億美元的醫療補助報銷資金。原因很簡單：加州一直沒有嚴肅對待醫保欺詐問題。”"
+    },
+    {
+      "id": "mkt:019e2293-0619-7dd0-a6a9-5d4d98c43522",
+      "time": "2026-05-14 02:21:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BRAZIL GOVERNMENT ANNOUNCES MEASURES TO SUBSIDIZE GASOLINE BRAZIL GOVERNMENT: SUBSIDY FOR GASOLINE AND DIESEL PRICES CANNOT EXCEED THE CEILING OF FEDERAL TAXES ON FUEL -STATEMENT"
+    },
+    {
+      "id": "mkt:019e2292-32fa-7dd0-a6a9-57eda1bf49c9",
+      "time": "2026-05-14 02:21:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ONE OF THE MEETINGS (JUNIOR MINISTERS) WAS ABOUT 25 MINS LONG. THE PM DID NOT MENTION WES STREETING BY NAME BUT SAID THE COMING EVENTS WERE GOING TO BE “UTTER CHAOS”. CLEAR HE WOULD STAND AND FIGHT - POLITICO"
+    },
+    {
+      "id": "4878518",
+      "time": "2026-05-14 02:20:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西政府宣佈推出汽油補貼措施。"
+    },
+    {
+      "id": "te:markets:550423",
+      "time": "2026-05-14 02:20:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Platinum Gains by 3.09% — Top commodity gainers are Platinum (3.09%), Silver (1.75%) and Copper (1.75%). Biggest losers are Silicon (-0.58%) and Gold (-0.52%)."
+    },
+    {
+      "id": "4878517",
+      "time": "2026-05-14 02:19:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國佐治亞州議員將於7月17日開始審議選區重劃事宜。"
+    },
+    {
+      "id": "mkt:019e2290-9865-7dd0-a6a9-48fd170636da",
+      "time": "2026-05-14 02:19:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "THREE SOURCES SAY STARMER SUMMONED MINISTERS TO TWO SHORT NOTICE MEETINGS TONIGHT, ONE WITH MINISTERS OF STATE THE OTHER WITH JUNIOR MINISTERS, BOTH IN HIS PARLIAMENTARY OFFICE BEHIND THE SPEAKERS CHAIR - POLITICO"
+    },
+    {
+      "id": "4878516",
+      "time": "2026-05-14 02:19:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴西雷亞爾兌美元貶值2%，現貨交易匯率跌至1美元兌4.99雷亞爾。"
+    },
+    {
+      "id": "4878515",
+      "time": "2026-05-14 02:18:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "OpenAI執行長奧特曼：如果不用當前最頂尖的模型和最優設定，我會感到些許不安。但有時候，即便響應速度很慢，我也並不在意。我在想，我們是否應該更多側重價格與速度的權衡，而非一味糾結價格與智慧水平的取捨。"
+    },
+    {
+      "id": "4878514",
+      "time": "2026-05-14 02:17:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗總統為伊朗男足壯行】5月13日，伊朗總統佩澤希齊揚在德黑蘭會見了正備戰世界盃的伊朗國家男子足球隊。當晚，伊朗球迷還在德黑蘭市中心的恩格拉布廣場為球隊舉行了歡送儀式。據瞭解，伊朗男足將先前往土耳其進行訓練和友誼賽，然後再啟程參賽美加墨世界盃。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:019e228f-4bb9-7dd0-a6a9-4343f7928ad7",
+      "time": "2026-05-14 02:17:53",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Crypto Concepts"
+      ],
+      "text": "JPMORGAN AM LAUNCHES SECOND TOKENIZED MONEY MARKET FUND ON ETHEREUM"
+    },
+    {
+      "id": "4878512",
+      "time": "2026-05-14 02:17:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "交易員：巴西新聞媒體 Intercept Brasil 曝出右翼總統熱門人選弗拉維奧・博索納羅與馬斯特銀行所有者沃爾卡羅存在關聯後，巴西本幣匯率走弱。"
+    },
+    {
+      "id": "4878510",
+      "time": "2026-05-14 02:16:37",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "摩根大通資產管理公司在以太坊上推出第二隻代幣化貨幣市場基金。"
+    },
+    {
+      "id": "4878509",
+      "time": "2026-05-14 02:16:26",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行貨幣政策委員曼恩在被問及近期金邊債券走勢時表示，金融環境對利率決策具有重要影響。"
+    },
+    {
+      "id": "mkt:019e228d-6ab4-7dd0-a6a9-38425c74f4ef",
+      "time": "2026-05-14 02:15:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Burnham Tells Labour Allies He Still Has Path Back to Parliament】Greater Manchester Mayor Andy Burnham told Labour allies he still has options to return to parliament despite several potential seats failing to materialize ahead of a possible leadership contest. MPs linked to speculation over stepping aside, including Jeff Smith and Afzal Khan, denied their seats were available. Supporters of Burnham expressed concern that a fast-moving leadership race led by Wes Streeting could leave him without time to re-enter parliament, while some allies discussed the possibility of a transition arrangement with Keir Starmer."
+    },
+    {
+      "id": "mkt:019e228d-1c87-7dd0-a6a9-33553f1aa674",
+      "time": "2026-05-14 02:15:33",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact mixed"
+      ],
+      "text": "BANK OF ENGLAND'S MANN: ASKED ON RECENT GILT MOVES, SAYS FINANCIAL LANDSCAPE IS RELEVANT FOR RATE DECISIONS"
+    },
+    {
+      "id": "te:markets:550422",
+      "time": "2026-05-14 02:15:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Heating Oil Falls by 4.64% — Top commodity losers are Heating Oil (-4.64%), Gasoline (-1.94%), Methanol (-1.84%), Brent Crude Oil (-1.83%) and Crude Oil WTI (-1.02%). Gains are led by Natural gas (0.72%) and Germany Natural Gas THE (0.60%)."
+    },
+    {
+      "id": "4878508",
+      "time": "2026-05-14 02:14:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國佐治亞州州長召開特別會議，審議選區重劃事宜。"
+    },
+    {
+      "id": "mkt:019e228b-6bd6-7dd0-a6a9-2e6a6c2d60ce",
+      "time": "2026-05-14 02:13:42",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "WTI"
+      ],
+      "text": "【US Officials Say Chinese Firms Discussed Secret Arms Transfers to Iran】US officials said Chinese companies and Iranian officials discussed covert arms transfers routed through third countries to conceal the origin of shipments. Intelligence reviewed by Washington suggests talks included potential weapons deliveries, though officials said it remains unclear whether transfers occurred or received formal approval from Beijing. The report is expected to add pressure on President Donald Trump to raise the issue during his Beijing visit with President Xi Jinping. US officials also said China has provided Iran with intelligence, satellite support and dual-use components used in drones and missiles, while Beijing remains a major buyer of Iranian oil."
+    },
+    {
+      "id": "mkt:019e228a-5fcd-7dd0-a6a9-259361b82a48",
+      "time": "2026-05-14 02:12:34",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "VANCE: U.S. GOVERNMENT TO DEFER $1.3 BILLION IN MEDICAID FUNDING TO CALIFORNIA"
+    },
+    {
+      "id": "mkt:019e228a-1a9d-7dd0-a6a9-1e5fcc51fb13",
+      "time": "2026-05-14 02:12:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "'HOLD THE LINE’: BURNHAM TELLS ALLIES IN PARLIAMENT HE STILL HAS OPTIONS TO RETURN – GUARDIAN"
+    },
+    {
+      "id": "mkt:019e2289-ed78-7dd0-a6a9-161a246cf328",
+      "time": "2026-05-14 02:12:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CHINESE COMPANIES HAVE BEEN IN TALKS REGARDING WEAPONS SALES TO IRAN – NYT"
+    },
+    {
+      "id": "4878506",
+      "time": "2026-05-14 02:11:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度政府令：出口至歐盟與美國、符合CXL配額（優惠貿易安排項下配額）及關稅配額（TRQ）規定的食糖，不適用食糖出口禁令。"
+    },
+    {
+      "id": "4878505",
+      "time": "2026-05-14 02:11:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯：美國政府將向加州延遲撥付13億美元醫療補助計劃資金。"
+    },
+    {
+      "id": "4878502",
+      "time": "2026-05-14 02:10:30",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "印度政府令稱，即日起至2026年9月30日禁止食糖出口，若提前釋出新命令則以新命令生效時間為準。"
+    },
+    {
+      "id": "mkt:019e2288-5a65-7dd0-a6a9-0c7f00af47e8",
+      "time": "2026-05-14 02:10:21",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bearish"
+      ],
+      "text": "【Culper Research Targets Nvidia Over Alleged China Supply Diversion Risks】Short seller Culper Research disclosed a short position in Nvidia, alleging more than 20% of the company’s FY2026 compute revenue remains tied to China despite US export restrictions. The report claims Nvidia-linked products were diverted through Southeast Asian intermediaries including Megaspeed and Malaysia-based Speedmatrix, with alleged connections to Alibaba-backed procurement channels. Culper also alleged Nvidia had the ability to detect diversion activity and questioned CEO Jensen Huang’s relationship with Megaspeed-linked executives. The firm argued Nvidia’s China business is now facing structural decline as Beijing increasingly favors domestic AI hardware alternatives."
+    },
+    {
+      "id": "4878501",
+      "time": "2026-05-14 02:10:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "【EIA稱上季度霍爾木茲海峽石油流量驟降近30%】透過霍爾木茲海峽的原油及燃料流量在第一季度每日減少近600萬桶，這場巨大的能源衝擊顛覆了全球供應體系並導致價格飆升。根據美國能源資訊管理局(EIA)週三釋出的資料，今年前三個月，每日透過霍爾木茲海峽的原油及石油液體約為1460萬桶。這遠低於去年同期的2040萬桶，也低於2025年第四季度的2070萬桶。霍爾木茲海峽的航運在伊朗戰爭爆發後基本陷入癱瘓狀態，阻礙了全球約四分之一海運石油運輸。全球基準布倫特自衝突爆發以來已飆升逾45%。在美國，全國零售汽油均價已突破每加侖4.5美元，在2022年以來的高點附近徘徊。"
+    },
+    {
+      "id": "4878499",
+      "time": "2026-05-14 02:08:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達現漲2.5%。"
+    },
+    {
+      "id": "4878498",
+      "time": "2026-05-14 02:06:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【又一艘郵輪暴發聚集性病例】5月13日，法國西南部新阿基坦大區政府禁止一艘停靠波爾多的郵輪上人員下船。據瞭解，這艘郵輪上出現了“數十例疑似腸胃炎病例”。新阿基坦大區衛生部門在宣告中表示，禁止乘客和船員下船的措施是臨時性的，目前在等待醫學檢測結果——不過“沒有理由將其與近日‘洪迪厄斯’郵輪上出現的漢坦病毒聚集性病例聯絡起來”。這艘名為“雄心”號的郵輪5月8日從英國出發，開始為期14天的英國、法國和西班牙旅程。船上載有1233名乘客（其中大部分為英國或愛爾蘭公民）和514名船員。該郵輪5月11日在法國布列塔尼大區佈雷斯特停靠期間，一名92歲的英國乘客“因心臟驟停在船上去世”——但目前來看，該死亡病例“似乎與此次疑似胃腸道疾病聚集性病例無關”。 據悉，胃腸道疾病在郵輪上“比較常見”。美國疾病控制與預防中心今年已報告了郵輪上發生的兩起大腸桿菌和兩起諾如病毒聚集性病例。 腸胃炎的主要症狀包括嘔吐和腹瀉，有時可能導致包括脫水在內的更嚴重症狀。該病傳染性很強，但通常不會產生嚴重後果。 （CCTV國際時訊）"
+    },
+    {
+      "id": "4878497",
+      "time": "2026-05-14 02:05:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡爾珀（Culper）建議做空英偉達。"
+    },
+    {
+      "id": "4878496",
+      "time": "2026-05-14 02:05:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "加利福尼亞州啟動10億美元中型和重型電動卡車購置補貼專案。"
+    },
+    {
+      "id": "mkt:019e2284-35bf-7dd0-a6a9-02c673607e19",
+      "time": "2026-05-14 02:05:28",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bearish"
+      ],
+      "text": "CULPER RESEARCH SAYS THEY ARE SHORT NVIDIA"
+    },
+    {
+      "id": "4878495",
+      "time": "2026-05-14 02:05:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿聯酋總統顧問：阿聯酋重申政治解決方案與談判的重要性。"
+    },
+    {
+      "id": "mkt:019e2283-df1a-7dd0-a6a8-fdddfa705eed",
+      "time": "2026-05-14 02:04:47",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "ADVISOR TO UAE'S PRESIDENT ANWAR GARGASH: ARAB-IRANIAN RELATIONS IN GULF CANNOT BE BUILT ON CONFRONTATION AND CONFLICT"
+    },
+    {
+      "id": "mkt:019e2283-90f0-7dd0-a6a8-f3b26ec24294",
+      "time": "2026-05-14 02:04:39",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "ADVISOR TO UAE'S PRESIDENT ANWAR GARGASH: UAE DID NOT SEEK WAR AND WORKED SINCERELY TO AVOID IT"
+    },
+    {
+      "id": "4878494",
+      "time": "2026-05-14 02:04:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "阿聯酋總統顧問：海灣地區的阿拉伯-伊朗關係不能建立在對抗與衝突的基礎之上。"
+    },
+    {
+      "id": "4878493",
+      "time": "2026-05-14 02:04:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿聯酋總統顧問：阿聯酋未尋求開戰，且一直為避免衝突誠摯努力。"
+    },
+    {
+      "id": "4878492",
+      "time": "2026-05-14 02:04:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國佛州槍擊案律師：ChatGPT為槍手作案“出謀劃策”】美國佛羅里達州立大學槍擊案受害者家屬10日向法院提起訴訟，指控美國開放人工智慧研究中心（OpenAI）旗下聊天機器人ChatGPT為槍手作案“出謀劃策”，而這家企業未能採取措施防止這類事件發生。12日，一名槍擊案受害者家屬的代理律師在接受美國媒體採訪時也直言，ChatGPT責任不可免除，理應像交管部門設定公路護欄一樣，建立AI安全防護機制。（央視新聞）"
+    },
+    {
+      "id": "mkt:019e2282-a661-7dd0-a6a8-ea52e88754fb",
+      "time": "2026-05-14 02:03:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ADVISOR TO UAE'S PRESIDENT ANWAR GARGASH: UAE REAFFIRMS IMPORTANCE OF POLITICAL SOLUTIONS AND NEGOTIATIONS"
+    },
     {
       "id": "4878491",
       "time": "2026-05-14 02:02:14",
@@ -138086,152 +138590,6 @@
         "國際"
       ],
       "text": "調查顯示，據美國能源資訊署週四報告預估，上週美國天然氣庫存增加 740 億立方英尺。"
-    },
-    {
-      "id": "te:markets:548472",
-      "time": "2026-05-07 02:30:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: Binance Rises by 3.09% — Today's cryptos market is characterized by modest daily movements, with Binance standing out as the frontrunner with a 3.09% increase."
-    },
-    {
-      "id": "4864090",
-      "time": "2026-05-07 02:30:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "上期所原油期貨夜盤收跌5.11%，報633.20元人民幣/桶。滬金夜盤收漲0.98%，滬銀收漲2.80%。"
-    },
-    {
-      "id": "4864089",
-      "time": "2026-05-07 02:27:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "黎巴嫩國家通訊社：以色列軍方對黎巴嫩南部實施空襲。"
-    },
-    {
-      "id": "te:markets:548471",
-      "time": "2026-05-07 02:25:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Oat Plunges by 7.17% — Top commodity losers are Oat (-7.17%), Palm Oil (-3.89%) and Sugar (-3.51%). Gains are led by Cocoa (4.96%) and Butter (2.86%)."
-    },
-    {
-      "id": "4864088",
-      "time": "2026-05-07 02:22:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "英國《金融時報》：歐盟委員會正考慮在能源供應危機期間暫停實施甲烷排放處罰。"
-    },
-    {
-      "id": "4864087",
-      "time": "2026-05-07 02:22:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "阿聯酋外交部宣告：保留採取一切主權、法律、外交及軍事權利，以應對任何威脅及 “敵對行為”。"
-    },
-    {
-      "id": "4864086",
-      "time": "2026-05-07 02:21:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "阿聯酋外交部宣告：阿聯酋譴責伊朗的“敵對”言論。"
-    },
-    {
-      "id": "4864085",
-      "time": "2026-05-07 02:20:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "阿聯酋外交部發表宣告稱，本國與國際及防務合作伙伴的關係屬於主權事務。"
-    },
-    {
-      "id": "te:markets:548470",
-      "time": "2026-05-07 02:20:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Silver Surges by 6.15% — Top commodity gainers are Silver (6.15%), Lithium Carbonate (5.93%), Platinum (4.33%) and Gold (2.90%)."
-    },
-    {
-      "id": "4864084",
-      "time": "2026-05-07 02:18:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗總統：對美不信任源於美方的敵對行為】當地時間5月6日，伊朗總統佩澤希齊揚同法國總統馬克龍通話，就最新地區局勢交換了意見。佩澤希齊揚在通話中提到伊朗對美國的不信任，並強調這種不信任源於美方的敵對行為，最近的例子是美方在談判期間兩次襲擊伊朗，這實際上被視為“在背後捅刀”。馬克龍在通話中表示，恢復霍爾木茲海峽的平靜有助於推動核問題和地區事務的談判。（央視新聞）"
-    },
-    {
-      "id": "te:markets:548469",
-      "time": "2026-05-07 02:15:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Brent Crude Oil Slumps by 8.24% — Top commodity losers are Brent Crude Oil (-8.24%), Crude Oil WTI (-7.52%) and Heating Oil (-6.25%). Gains are led by Methanol (1.37%) and Coking Coal (0.85%)."
-    },
-    {
-      "id": "4864083",
-      "time": "2026-05-07 02:10:01",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "康寧公司（GLW）維持超過14%的漲幅，持穩於185美元附近，美股盤初曾達到195.81美元——盤中漲幅超過20.79%。英偉達擬向該公司投資高達32億美元，簽署大規模光纖協議並新建三座AI專用工廠。"
-    },
-    {
-      "id": "te:markets:548468",
-      "time": "2026-05-07 02:09:22",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Arista Networks Stock Price Hits 4-week Low — Arista Networks shares decreased to 140.92 USD, the lowest since April 2026. Over the past 4 weeks, Arista Networks gained 5.68%, and in the last 12 months, it increased 63.37%."
-    },
-    {
-      "id": "4864082",
-      "time": "2026-05-07 02:08:17",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "據福克斯新聞：被問及伊朗問題的解決時間節點，特朗普給出答覆一週。"
-    },
-    {
-      "id": "4864081",
-      "time": "2026-05-07 02:07:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "【內塔尼亞胡：以美共同目標包括移除伊朗所有濃縮鈾】以色列總理府6日晚間發表宣告說，以總理內塔尼亞胡當天召集安全內閣開會時說，以色列正與美國保持溝通，雙方共同目標包括移除伊朗所有濃縮鈾材料、消除伊朗鈾濃縮能力。內塔尼亞胡稱他“幾乎每天都與美國總統特朗普通電話”，雙方團隊保持密切溝通，當晚他還會與特朗普通話。他稱，以美之間“協調一致”，雙方有共同目標，其中最重要的是移除伊朗所有濃縮鈾材料，並消除伊朗鈾濃縮能力。內塔尼亞胡說，特朗普相信“無論如何都能實現目標”。同時，他已下令以色列國防軍和安全機構“為任何情況做好準備”。（新華社）"
-    },
-    {
-      "id": "4864080",
-      "time": "2026-05-07 02:05:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "據福克斯新聞：特朗普對與伊朗的合作框架持樂觀態度。"
     }
   ]
 }
