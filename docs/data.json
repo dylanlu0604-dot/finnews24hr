@@ -1,7 +1,25 @@
 {
-  "updated": "2026-05-14 05:06:16",
-  "count": 15430,
+  "updated": "2026-05-14 05:17:18",
+  "count": 15421,
   "items": [
+    {
+      "id": "4878647",
+      "time": "2026-05-14 05:15:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時A50期指連續夜盤收漲0.35%，報16122點。"
+    },
+    {
+      "id": "4878646",
+      "time": "2026-05-14 05:11:17",
+      "tags": [
+        "資料",
+        "市場",
+        "國際"
+      ],
+      "text": "週三（5月13日）紐約尾盤，美國10年期基準國債收益率漲0.58個基點，報4.4688%，北京時間20:30釋出美國批發通脹資料PPI之前持穩於4.46%附近，資料釋出後出現一波跳空上揚行情——隨後出現V形反轉、23:30重新整理日高至4.5003%。兩年期美債收益率跌1.23個基點，報3.9791%，PPI資料釋出前下挫至3.9791%，隨後出現一波M形衝高回落行情——21:46回落至3.9791%、23:30重新整理日高至4.0127%，03:27重新整理日低至3.9750%。"
+    },
     {
       "id": "4878645",
       "time": "2026-05-14 05:04:25",
@@ -138635,101 +138653,6 @@
         "其他"
       ],
       "text": "馬斯克：GB300是目前最強的人工智慧計算機。"
-    },
-    {
-      "id": "4864230",
-      "time": "2026-05-07 05:15:16",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時A50期指連續夜盤收漲0.46%，報15888點。"
-    },
-    {
-      "id": "te:markets:548484",
-      "time": "2026-05-07 05:14:26",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Ibovespa Edges Up as Oil Drops on Peace Hopes — The Ibovespa rose 0.5% to close at 187,691 on Wednesday, as reports of a potential US–Iran agreement to end the Middle East conflict supported sentiment, with a Pakistani mediator indicating both sides are close to a memorandum and President Donald Trump saying compliance by Iran could end the war and reopen the Strait of Hormuz. Oil prices plunged on expectations of resumed supply, easing inflation concerns. Most banks advanced, with Bradesco and Banco do Brasil both up 0.7%. Vale jumped 3.6%, supported by higher iron ore prices as trading resumed in China after the May Day holiday. Elsewhere, Minerva (-2.2%) is set to report results. Oil stocks declined sharply, tracking lower crude prices, with PRIO (-4.3%) leading losses, followed by Petrobras (-2.9%), despite PRIO reporting results above estimates. On the data front, Brazil’s services PMI rose to 52.3 in April from 50.1."
-    },
-    {
-      "id": "4864229",
-      "time": "2026-05-07 05:14:06",
-      "tags": [
-        "宏觀",
-        "焦點",
-        "國際"
-      ],
-      "text": "美國國務院：聯合國本應是和平解決全球衝突的平臺。倘若聯合國無法譴責伊朗針對霍爾木茲海峽航運的惡意威脅，那將是對聯合國的真正考驗。"
-    },
-    {
-      "id": "4864228",
-      "time": "2026-05-07 05:13:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列軍方對黎巴嫩南部的阿爾齊鎮發動了空襲。"
-    },
-    {
-      "id": "4864227",
-      "time": "2026-05-07 05:12:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "卡達與阿聯酋在聯合高階委員會會議期間承諾加強雙邊關係。"
-    },
-    {
-      "id": "4864226",
-      "time": "2026-05-07 05:11:43",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "Snap執行長：第一季度，美國每日活躍聊天使用者中近75%都檢視了聊天欄內的廣告。"
-    },
-    {
-      "id": "4864225",
-      "time": "2026-05-07 05:10:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國駐聯合國大使邁克・沃爾茨表示，在霍爾木茲海峽局勢持續緊張的背景下，伊朗正處境急轉直下，且迫切希望達成協議。"
-    },
-    {
-      "id": "4864224",
-      "time": "2026-05-07 05:10:29",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國際油價6日大幅下跌】國際油價6日大幅下跌。截至當天收盤，紐約商品交易所6月交貨的輕質原油期貨價格下跌7.19美元，收於每桶95.08美元，跌幅為7.03%；7月交貨的倫敦布倫特原油期貨價格下跌8.60美元，收於每桶101.27美元，跌幅為7.83%。"
-    },
-    {
-      "id": "4864223",
-      "time": "2026-05-07 05:10:18",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美元指數6日下跌】美元指數6日下跌。衡量美元對六種主要貨幣的美元指數當天下跌0.43%，在匯市尾市收於98.017。截至紐約匯市尾市，1歐元兌換1.1748美元，高於前一交易日的1.1700美元；1英鎊兌換1.3593美元，高於前一交易日的1.3551美元。1美元兌換156.45日元，低於前一交易日的157.88日元；1美元兌換0.7790瑞士法郎，低於前一交易日的0.7827瑞士法郎；1美元兌換1.3636加元，高於前一交易日的1.3618加元；1美元兌換9.2339瑞典克朗，低於前一交易日的9.2598瑞典克朗。"
-    },
-    {
-      "id": "4864222",
-      "time": "2026-05-07 05:08:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "Snap執行長：動態產品廣告收入同比增長超30%。"
-    },
-    {
-      "id": "4864221",
-      "time": "2026-05-07 05:08:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "凱雷集團與多元化能源公司合作，設立規模12億美元的油氣合資專案。"
     }
   ]
 }
