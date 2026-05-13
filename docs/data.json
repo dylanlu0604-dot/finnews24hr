@@ -1,7 +1,107 @@
 {
-  "updated": "2026-05-13 10:05:23",
-  "count": 14886,
+  "updated": "2026-05-13 10:08:51",
+  "count": 14889,
   "items": [
+    {
+      "id": "te:markets:550152",
+      "time": "2026-05-13 10:08:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Hong Kong Stocks Slip on Mixed Cues — The Hang Seng Index slipped 80 points, or 0.3%, at 26,270 on Wednesday, as investors balanced concerns over rising U.S. inflation and escalating Middle East tensions against optimism surrounding the anticipated Trump-Xi meeting. Sentiment remained cautious after President Donald Trump signaled a tougher stance toward Iran following criticism of the ceasefire, while persistent geopolitical risks kept pressure on global markets. Oil prices held firm after sharp gains as the prolonged conflict in the Middle East continued to disrupt shipping flows through the Strait of Hormuz, fueling worries over renewed inflationary pressures. Chinese technology shares were also in focus with investors increasingly demanding clearer returns from heavy AI spending by firms such as Alibaba Group and Tencent ahead of the earnings season. Notable laggards included Tencent Holdings (-0.4%), SMIC (-3.0%), and Techtronic Industries (-2.9%), while AIA Group and Pop Mart advanced 1.2% and 2.0%, respectively."
+    },
+    {
+      "id": "4876558",
+      "time": "2026-05-13 10:07:14",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "泰國央行：政策應優先考慮結構轉型和在現有條件下保留財政空間。"
+    },
+    {
+      "id": "mkt:019e1f16-87c9-7553-b25d-c83fa4979eab",
+      "time": "2026-05-13 10:06:55",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China Tech Giants",
+        "BIDU.O",
+        "Impact bearish"
+      ],
+      "text": "BAIDU DOWN OVER 3%"
+    },
+    {
+      "id": "4876557",
+      "time": "2026-05-13 10:06:38",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "泰國央行：委員會認為，以消費為基礎的刺激措施只能提供短暫的經濟支撐。"
+    },
+    {
+      "id": "4876556",
+      "time": "2026-05-13 10:06:09",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "泰國央行會議紀要：預計2026年整體信貸增長仍將疲軟。"
+    },
+    {
+      "id": "mkt:019e1f15-d928-7553-b25d-c546838d2efd",
+      "time": "2026-05-13 10:05:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade",
+        "Magnificent 7",
+        "Star Stocks",
+        "NVIDIA"
+      ],
+      "text": "【Nvidia CEO Jensen Huang Joins Trump China Trip as Last-Minute Addition】Nvidia CEO Jensen Huang will join US President Donald Trump on his China visit as a last-minute addition. He was seen boarding Air Force One during a stopover in Alaska. Trump is also accompanied by several high-profile US business leaders, including Elon Musk, though Huang’s participation was not confirmed until late Tuesday. White House spokesman Steven Cheung said Huang’s schedule changed and “it just happened to work out.”"
+    },
+    {
+      "id": "mkt:019e1f15-8aed-7553-b25d-b95e5a0e0ea0",
+      "time": "2026-05-13 10:05:40",
+      "tags": [
+        "MKT News",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "TURNOVER ON SSE AND SZSE EXCEEDS 1TN YUAN, DOWN 143.5BN YUAN FROM THE SAME TIME YESTERDAY"
+    },
+    {
+      "id": "4876555",
+      "time": "2026-05-13 10:05:39",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "泰國央行：企業無法將這些成本轉嫁給消費者，或導致企業倒閉。"
+    },
+    {
+      "id": "4876554",
+      "time": "2026-05-13 10:05:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "大和將吉利汽車評級從買入下調至持有。"
+    },
+    {
+      "id": "4876553",
+      "time": "2026-05-13 10:05:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "大和將吉利汽車目標價從24.50港元下調至23.70港元。"
+    },
     {
       "id": "4876552",
       "time": "2026-05-13 10:05:07",
@@ -132815,69 +132915,6 @@
         "其他"
       ],
       "text": "巴西央行：隨時準備採取一切必要措施，確保通脹迴歸目標水平。"
-    },
-    {
-      "id": "4862423",
-      "time": "2026-05-06 10:08:50",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "三星電子股價上漲12%，至260,500韓元。"
-    },
-    {
-      "id": "4862422",
-      "time": "2026-05-06 10:08:24",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4630美元/盎司，日內漲1.61%。"
-    },
-    {
-      "id": "4862421",
-      "time": "2026-05-06 10:08:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "【關係持續回暖，土耳其與沙特或互免簽證】土耳其外交訊息人士5日表示，土耳其與沙烏地阿拉伯計劃近日簽署簽證互免協議。路透社援引上述訊息人士說法報道，土耳其外交部長費丹定於6日與沙特外交大臣費薩爾共同主持在土首都安卡拉舉行的土耳其-沙特協調委員會會議。預計會議期間，雙方將簽署針對普通護照和外交護照持有者的簽證互免協議。(新華社)"
-    },
-    {
-      "id": "4862420",
-      "time": "2026-05-06 10:08:08",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4640美元/盎司，日內漲1.59%。"
-    },
-    {
-      "id": "4862419",
-      "time": "2026-05-06 10:07:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "港股半導體股持續走強，瀾起科技漲超18%，兆易創新漲超14%，中芯國際、華虹半導體漲超10%。"
-    },
-    {
-      "id": "4862418",
-      "time": "2026-05-06 10:06:50",
-      "tags": [
-        "宏觀",
-        "焦點",
-        "國際"
-      ],
-      "text": "【王毅同伊朗外長阿拉格齊會談】中共中央政治局委員、外交部長王毅6日在北京同伊朗外長阿拉格齊舉行會談。(新華社)"
-    },
-    {
-      "id": "4862417",
-      "time": "2026-05-06 10:05:35",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【中東緊張局勢緩解之際黃金期貨走高】分析師表示，在中東緊張局勢緩解之際，黃金期貨走高。澳洲聯邦銀行的Vivek Dhar在一份研究報告中表示，“特朗普宣佈暫時擱置一項由美國主導的為透過霍爾木茲海峽的船隻提供安全通道的計劃“，這緩解了上述緊張局勢。該分析師表示，自金價在3月2日觸及每盎司5,422美元的盤中高點以來，黃金期貨的走勢大多與中東緊張局勢的方向相反。Dhar補充說：“黃金的上漲可能受到中東任何停火希望、隨著高能源價格拖累全球增長市場反映降息預期，以及對美聯儲獨立性擔憂的推動。“現貨黃金最新上漲1.5%，至每盎司4,625.28美元。"
     }
   ]
 }
