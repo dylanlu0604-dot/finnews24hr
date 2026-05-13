@@ -1,7 +1,66 @@
 {
-  "updated": "2026-05-13 22:03:31",
-  "count": 15137,
+  "updated": "2026-05-13 22:07:01",
+  "count": 15140,
   "items": [
+    {
+      "id": "4878152",
+      "time": "2026-05-13 22:06:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "彪馬股票在法蘭克福股市上漲高達5.4%。"
+    },
+    {
+      "id": "4878151",
+      "time": "2026-05-13 22:06:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲1%，現報103.20美元/桶。"
+    },
+    {
+      "id": "4878150",
+      "time": "2026-05-13 22:06:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【神思電子：“公司被立案調查”為謠言，公司經營一切正常】5月13日，神思電子(300479)相關負責人向記者表示，近日股吧出現與公司相關的不實傳聞，多名投資者致電公司，問詢是否存在高管被立案調查、拘留等相關情況。公司已第一時間向投資者公開闢謠，明確網傳資訊均為不實傳言。截至目前，神思電子各項業務有序開展，生產經營一切正常，不存在高管遭到調查、拘留等情形。"
+    },
+    {
+      "id": "4878149",
+      "time": "2026-05-13 22:06:09",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國國防部宣告稱，將宣佈與美國國防公司Anduril、CoAspire、Leidos及Zone 5就低成本集裝箱式彈藥達成框架協議。該計劃使其有望從2027年開始的三年內，採購超過10,000枚低成本、集裝箱化導彈。"
+    },
+    {
+      "id": "4878148",
+      "time": "2026-05-13 22:06:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以稱在所有戰區創造了新安全現實】5月13日，以色列國防軍總參謀長扎米爾在約旦河西岸北部地區視察時表示，以軍已經在所有戰區創造了“新的安全現實”，但當前的軍事行動並未結束。扎米爾稱，以軍已準備好在必要時重啟戰鬥，並始終在防禦和進攻兩端保持持續的戰備狀態，這種戰備“從約旦河西岸一直延伸至德黑蘭”。扎米爾還透露了其他戰線的最新進展：在黎巴嫩方向，以軍繼續在利塔尼河及其他區域開展行動；在加沙地帶，以軍仍在進行進攻性行動。（CCTV國際時訊）"
+    },
+    {
+      "id": "4878146",
+      "time": "2026-05-13 22:03:46",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行貨幣政策委員曼恩：收緊政策立場可能引發波動，因為新的市場參與者會平倉，這可能導致國內金融狀況比預期更為緊縮。"
+    },
+    {
+      "id": "4878145",
+      "time": "2026-05-13 22:03:33",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行貨幣政策委員曼恩：貨幣政策無法抵消能源價格帶來的成本推動衝擊。"
+    },
     {
       "id": "4878144",
       "time": "2026-05-13 22:02:52",
@@ -18,6 +77,14 @@
         "其他"
       ],
       "text": "英國央行官員：貨幣政策無法抵消能源價格帶來的成本推動型衝擊。"
+    },
+    {
+      "id": "mkt:019e21a6-b098-7eee-bb64-b1c636bff37d",
+      "time": "2026-05-13 22:02:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "VANCE TO ASK STATES TO COMPLY W/ ANTIFRAUD STATUTES: WSJ"
     },
     {
       "id": "4878142",
@@ -135600,50 +135667,6 @@
         "國際"
       ],
       "text": "以色列總理內塔尼亞胡與美國官員就伊朗談判進展進行交談。"
-    },
-    {
-      "id": "4863866",
-      "time": "2026-05-06 22:06:15",
-      "tags": [
-        "市場"
-      ],
-      "text": "美股貴金屬股集體走強，泛美白銀漲超12%，赫克拉礦業、哈莫尼黃金漲超11%，金田漲近11%，科爾黛倫礦業漲超9%，紐曼礦業漲超6%。"
-    },
-    {
-      "id": "4863865",
-      "time": "2026-05-06 22:04:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國最高法院拒絕暫緩一項裁定蘋果在“堡壘之夜”開發商Epic Games針對App Store抽成發起的反壟斷訴訟中構成藐視法庭的命令。"
-    },
-    {
-      "id": "4863864",
-      "time": "2026-05-06 22:04:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "【4月北京二手住宅網籤1.79萬套 創五年同期新高】“每天都有七八個經紀人主動加班”“諮詢量比節前漲了大概兩成”……這是今年“五一”假期北京一家中介門店的真實場景。而在剛剛過去的4月份，北京二手住宅網籤量已攀至近五年同期最高點。 從“入學季”剛需釋放，到改善需求接力入場，在政策紅利、需求釋放與季節效應三股力量作用下，目前北京二手房市場保持了較好的交易活躍度。更難得的是，“五一”假期市場熱度仍在延續。（新京報）"
-    },
-    {
-      "id": "te:markets:548431",
-      "time": "2026-05-06 22:04:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Rises as Oil Drops on Middle East Peace Hopes — The S&P/TSX Composite rose on Wednesday on hopes that a peace deal between the US and Iran could be reached soon, with reports suggesting both sides are close to a memorandum to end the Gulf conflict. Oil prices plunged on expectations that Middle East supply could resume, easing inflation concerns and supporting banks, with Royal Bank of Canada up over 1% and TD Bank adding +1.5%. Gold prices rose, aided by a weaker dollar and lower crude, lifting miners, as Agnico Eagle and Barrick surged around 5% and Wheaton Precious Metals advanced near 6.0%. On the earnings front, Suncor Energy and Cenovus Energy both beat expectations, the latter reporting an 83% profit jump. Still, shares of both fell about 4% amid declining oil prices. Elsewhere, Loblaw (-3.6%) posted slightly weaker-than-expected revenue, while Sun Life Financial (+1.0%) and Great-West Lifeco (+0.1%) are set to report later in the day. On the data front, the Ivey PMI rose to 57.7 in April from 49.7 in March."
-    },
-    {
-      "id": "4863863",
-      "time": "2026-05-06 22:03:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國4月全球供應鏈壓力指數 1.82，前值0.68。"
     }
   ]
 }
