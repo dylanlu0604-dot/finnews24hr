@@ -1,7 +1,33 @@
 {
-  "updated": "2026-05-13 13:31:42",
-  "count": 14970,
+  "updated": "2026-05-13 13:35:04",
+  "count": 14965,
   "items": [
+    {
+      "id": "4876966",
+      "time": "2026-05-13 13:33:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新銳股份：PCB鑽針棒材透過國內知名AI伺服器板廠商批次測試驗證，預計三年內月產能達1億支】從新銳股份處獲悉，公司PCB鑽針棒材業務近期迎來最新進展。其中0.25mm刃徑PCB鑽針棒材已透過國內知名AI伺服器板廠商批次測試驗證，效能對標進口標準；0.25mm以下超細規格同步開發測試。公司相關負責人表示，新銳股份現已為擬併購的子公司慧聯電子穩定供應鑽針棒材原料，支援客戶打樣與定製化開發。產能規劃方面，預計2026年底月產能達2000萬支，2028年可達1億支/月。（財聯社）"
+    },
+    {
+      "id": "4876965",
+      "time": "2026-05-13 13:32:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【大洋電機成立機器人科技公司，含多項AI業務】企查查APP顯示，近日，大洋機器人科技（深圳）有限公司成立，註冊資本3000萬元，經營範圍包含：智慧機器人的研發；智慧機器人銷售；人工智慧行業應用系統整合服務；人工智慧基礎軟體開發等。企查查股權穿透顯示，該公司由大洋電機全資持股。"
+    },
+    {
+      "id": "mkt:019e1fd2-60af-7553-b25f-7300a800e315",
+      "time": "2026-05-13 13:32:21",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "JAPEX EXECUTIVE: WE HAVE SECURED THREE LNG CARGOES FOR FY2026 AS SUBSTITUTE FOR MIDDLE EASTERN SUPPLIES"
+    },
     {
       "id": "4876964",
       "time": "2026-05-13 13:30:35",
@@ -133679,78 +133705,6 @@
         "其他"
       ],
       "text": "諾和諾德第一季度淨利潤為485.6億丹麥克朗，高於預期的234.9億丹麥克朗。"
-    },
-    {
-      "id": "te:markets:548151",
-      "time": "2026-05-06 13:35:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "NZX 50 Ends Near 4-Week High After Jobs Data — The NZX 50 climbed 109 points, or 0.8%, to 13,145 in Wednesday morning trade, halting losses from the previous session after the unemployment rate unexpectedly declined in Q1 2026. The latest data showed New Zealand’s unemployment rate inched down to 5.3% in Q1, lower than both the previous quarter and market expectations of 5.4%, which had been the highest level since Q2 2015. The broader index hit its highest level since April 10, mainly buoyed by financials, materials, and energy stocks. Sentiment was also lifted by a statement from RBNZ Governor Anna Breman in the Financial Stability Report, noting that the country’s financial system is resilient and well-positioned to support households and businesses. The index tracked a rise in US futures following a rally on Wall Street overnight, supported by solid earnings reports and lower energy prices. Among the top movers were Infratil (13.2%), Westpac Banking Corp. (4.4%), Turners Automotive Group (3.6%), and ANZ Group (2.6%)."
-    },
-    {
-      "id": "4862664",
-      "time": "2026-05-06 13:34:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "【福達股份成立機器人關節科技公司】企查查APP顯示，近日，桂林福達機器人關節科技有限公司成立，註冊資本5000萬元，經營範圍包含：機械零件、零部件銷售；電子元器件製造；高速精密齒輪傳動裝置銷售；齒輪及齒輪減、變速箱製造等。企查查股權穿透顯示，該公司由福達股份全資持股。"
-    },
-    {
-      "id": "4862663",
-      "time": "2026-05-06 13:34:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "諾和諾德預計全球GLP-1市場將持續擴張。"
-    },
-    {
-      "id": "4862662",
-      "time": "2026-05-06 13:34:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "諾和諾德：目前預計2026年淨財務專案虧損約6億丹麥克朗，此前預期為淨收益約23億丹麥克朗。"
-    },
-    {
-      "id": "4862661",
-      "time": "2026-05-06 13:33:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "諾和諾德：截至4月17日當週，口服版Wegovy周度處方總量突破20萬份。"
-    },
-    {
-      "id": "4862660",
-      "time": "2026-05-06 13:32:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "諾和諾德：一季度WEGOVY 銷售額 182.4 億丹麥克朗。"
-    },
-    {
-      "id": "4862659",
-      "time": "2026-05-06 13:32:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "諾和諾德預計全年調整後銷售額將同比下降4%至12%，此前預期為同比下降5%至13%。"
-    },
-    {
-      "id": "te:economy:548150",
-      "time": "2026-05-06 13:31:55",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Estonia",
-        "Industrial Production",
-        "Importance 1"
-      ],
-      "text": "Estonia Industrial Output Hits Over 1-Year Low — Industrial production in Estonia fell 3.1% year-on-year in March 2026, after a 0.5% drop in the previous month, marking the lowest level since December 2024. Output declined sharply in electricity, gas, steam, and air conditioning supply (-19.5% vs 4.0% in February), while manufacturing remained in contraction (unchanged at -1.2%), weighed down by food products (-4.1%), leather and related products (-19.5%), paper and paper products (-10.4%), coke and refined petroleum products (-21.8%), basic and pharmaceutical products and preparations (-15.3%), and furniture (-7.6%). In contrast, production accelerated in mining and quarrying (5.9% vs 0.1%). In the energy sector, the volume of production measured in megawatt-hours of electricity slumped by 23.6%, while heat output fell by 9.6% year-on-year in March, as weather conditions were warmer than usual. On a monthly basis, industrial activity declined by 2.5%, following a 0.7% drop in the preceding period."
     }
   ]
 }
