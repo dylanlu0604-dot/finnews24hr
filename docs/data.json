@@ -1,7 +1,17 @@
 {
-  "updated": "2026-05-14 06:57:43",
+  "updated": "2026-05-14 07:01:17",
   "count": 15391,
   "items": [
+    {
+      "id": "mkt:019e2392-712b-7dd0-a6ab-1ad746ea03ec",
+      "time": "2026-05-14 07:01:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | RICS House Price Balance (Apr) | actual -34 | consensus -25 | previous -23.00"
+    },
     {
       "id": "4878691",
       "time": "2026-05-14 06:57:16",
@@ -138402,14 +138412,6 @@
         "其他"
       ],
       "text": "澳大利亞啟動新一輪海上勘探區塊申請提名。"
-    },
-    {
-      "id": "4864304",
-      "time": "2026-05-07 06:58:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國產業部長表示，美國投資計劃將於6月之後公佈。"
     }
   ]
 }
