@@ -1,7 +1,56 @@
 {
-  "updated": "2026-05-13 08:04:05",
-  "count": 14892,
+  "updated": "2026-05-13 08:07:27",
+  "count": 14894,
   "items": [
+    {
+      "id": "4876033",
+      "time": "2026-05-13 08:05:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星電子：工會就薪酬協議談判作出的決定令人遺憾，因為它給公司、員工、股東以及公眾都帶來了擔憂。"
+    },
+    {
+      "id": "4876032",
+      "time": "2026-05-13 08:05:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期金日內漲1%，現報4733.81美元/盎司。"
+    },
+    {
+      "id": "4876031",
+      "time": "2026-05-13 08:04:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本電產：部分產品的材料、生產工藝及設計或存在未經客戶批准擅自變更的情況。"
+    },
+    {
+      "id": "4876030",
+      "time": "2026-05-13 08:04:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲1%，現報87.42美元/盎司。"
+    },
+    {
+      "id": "4876029",
+      "time": "2026-05-13 08:04:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲3%，現報88.23美元/盎司。"
+    },
+    {
+      "id": "4876028",
+      "time": "2026-05-13 08:03:59",
+      "tags": [
+        "國際",
+        "原創"
+      ],
+      "text": "【巴西宣佈恢復對50美元以下跨境電商平臺購物的免稅政策】巴西總統盧拉當地時間週二簽署了一項行政命令，取消對價值不超過50美元的境外購物徵收的聯邦稅，從而扭轉了此前備受詬病的這一稅收政策。此舉預計將降低巴西低收入民眾廣泛使用的跨境電商平臺上的商品購買成本。巴西財政部執行秘書羅傑里奧·塞隆表示：“這將使那些嚴重依賴這些平臺購買日常生活必需品的貧困低收入人群受益。”"
+    },
     {
       "id": "4876027",
       "time": "2026-05-13 08:03:51",
@@ -132755,47 +132804,6 @@
         "觀點"
       ],
       "text": "【中信建投：一季報顯示A股業績改善但景氣分化明顯 行業配置思路仍聚焦景氣邏輯】中信建投指出，高景氣推動全球科技股共振大漲，投資者情緒進入高漲區，全球高景氣進一步鞏固科技作為當前市場核心主線的格局。美伊局勢再度緊張，短期擾動有限。一季報顯示A股業績改善但景氣分化明顯，行業配置思路仍聚焦景氣邏輯，重點關注：AI（半導體、光通訊、伺服器、電子布等）、油氣生產、煤化工、煤炭、新能源（鋰電、鈉電、風電、能源金屬）、軍工、食品飲料（非白酒）、美容護理。"
-    },
-    {
-      "id": "te:economy:548037",
-      "time": "2026-05-06 08:07:23",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Ireland",
-        "Services PMI",
-        "Importance 1"
-      ],
-      "text": "Irish Services Sector Contracts for 1st Time in 5 Years — The AIB Ireland Services PMI dropped to 49.7 in April 2026 from 50.7 in March, marking the first contraction in activity since February 2021, as overall business activity declined marginally. New business was broadly unchanged, with firms citing economic uncertainty and higher costs linked to the Middle East war. Transport, tourism & leisure and financial services recorded declines, while technology, media & telecoms expanded strongly and business services rose modestly. New export orders fell for the first time since June 2025, and backlogs declined slightly amid softer demand. Employment rebounded after March’s fall, with most sectors hiring. Meanwhile, input cost inflation accelerated to its highest since December 2022, driven by fuel, freight, energy, and wage increases, pushing firms to lift charges at a two-year high pace. Sentiment remained positive but subdued, near a multi-year low, as geopolitical risks, rising costs, and interest rate concerns weighed on the outlook."
-    },
-    {
-      "id": "4862200",
-      "time": "2026-05-06 08:06:38",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "韓國交易所暫停KOSPI指數的程式化交易：KOSPI 200期貨漲幅達5%後，交易熔斷機制啟動，程式化交易暫停5分鐘。"
-    },
-    {
-      "id": "4862199",
-      "time": "2026-05-06 08:04:53",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【“五一”節後百基齊發 公募基金積極佈局權益市場】“五一”小長假後，公募基金產品迎來新發小高峰，逾百隻新品扎堆開售。其中，權益類基金佔比超過七成，成為發行主力。一邊是公募新發如火如荼，一邊是次新基金“新子彈”快速打入市場，多家公募機構表示，關注A股節後的結構性機會。Choice資料顯示，5月共有129只新基金進入發售期（不同份額分開計算）。僅“五一”節後的首個交易日（5月6日）就有42只基金啟動發售，且涉及多家大型基金公司，包括易方達基金、廣發基金、中歐基金、博時基金、華安基金、永贏基金等，部分基金公司的新發產品數量達到4只。（上海證券報）"
-    },
-    {
-      "id": "4862198",
-      "time": "2026-05-06 08:04:16",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "韓國KOSPI指數上漲5%，至7285.34。"
     }
   ]
 }
