@@ -1,7 +1,93 @@
 {
-  "updated": "2026-05-13 09:24:45",
-  "count": 14872,
+  "updated": "2026-05-13 09:28:08",
+  "count": 14871,
   "items": [
+    {
+      "id": "mkt:019e1ef2-1a72-7553-b25c-fde6e3d22c0d",
+      "time": "2026-05-13 09:27:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "S&P500",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "CNH"
+      ],
+      "text": "CHINA'S SSE STAR CHIP INDEX SET TO OPEN DOWN 3%"
+    },
+    {
+      "id": "mkt:019e1ef1-b380-7553-b25c-f74f747b041b",
+      "time": "2026-05-13 09:26:57",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "CHINA'S CSI CEMENT INDEX SET TO OPEN UP 2.5%"
+    },
+    {
+      "id": "mkt:019e1ef0-f0fd-7553-b25c-eb0303fe76cd",
+      "time": "2026-05-13 09:26:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component",
+        "CSI300"
+      ],
+      "text": "A-SHARES OPEN LOWER: SHANGHAI -0.53%, SHENZHEN -0.7%, CHINEXT -0.87%"
+    },
+    {
+      "id": "4876359",
+      "time": "2026-05-13 09:26:00",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期日本國債收益率上漲5.0個基點至2.590%。"
+    },
+    {
+      "id": "mkt:019e1ef0-a689-7553-b25c-e2704396fab5",
+      "time": "2026-05-13 09:25:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "WHITE HOUSE CORRESPONDENT KELLIE MEYER: PRESIDENT TRUMP HAS LANDED AT TED STEVENS ANCHORAGE INTERNATIONAL AIRPORT AT 5:15 P.M. LOCAL TIME/ 9:15 PM ET FOR A SCHEDULED STOP BEFORE CONTINUING ON TO BEIJING. POOL REPORTS."
+    },
+    {
+      "id": "4876358",
+      "time": "2026-05-13 09:25:30",
+      "tags": [
+        "焦點"
+      ],
+      "text": "三大股指低開，滬指跌0.53％，深成指跌0.7％，創業板跌0.87％。"
+    },
+    {
+      "id": "te:markets:550131",
+      "time": "2026-05-13 09:24:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Soybeans Hold Near 2-Year High — Soybean futures held above $12 per bushel, moving close to a two-year high reached on March 12, after the USDA projected tighter-than-expected US supplies for the 2026/27 marketing year, reinforcing expectations of strong biofuel-driven demand. The agency forecast soybean ending stocks at 310 million bushels, down from 340 million in 2025/26 and below expectations for an increase, while also trimming old-crop inventories. USDA also projected average soybean prices at $11.40 per bushel next season, nearly 10% above this year’s level, offering relief to US farmers hit by years of weak crop prices, excess grain supplies, trade disruptions, and elevated input costs. Soybean futures have already rallied 17% so far this year, raising hopes that farm-level cash prices could move closer to break-even levels. Additional support came from strong domestic crushing demand tied to expanding biofuel blending mandates and concerns over global oil supply disruptions linked to the Iran conflict."
+    },
+    {
+      "id": "4876357",
+      "time": "2026-05-13 09:24:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "劑泰科技（METIS TECHBIO）香港上市首日飆漲173%，此前透過IPO籌資2.7億美元。"
+    },
     {
       "id": "mkt:019e1eee-e1e7-7553-b25c-d8426d5494a9",
       "time": "2026-05-13 09:22:56",
@@ -132591,82 +132677,6 @@
         "市場"
       ],
       "text": "澳大利亞S&P/ASX 200指數上漲1%，至8768.20點。"
-    },
-    {
-      "id": "4862328",
-      "time": "2026-05-06 09:27:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【美軍稱在東太平洋打擊“販毒船”致3人死亡】美軍南方司令部5日發表宣告說，美軍當天在東太平洋對一艘“販毒船”發動打擊，船上3人被打死。宣告說，根據美軍南方司令部司令弗朗西斯·多諾萬的命令，美軍“南方之矛”聯合特遣部隊5日對一艘由“被認定的恐怖組織”運營的船隻實施打擊，打死船上3名男性“毒品恐怖分子”。"
-    },
-    {
-      "id": "4862327",
-      "time": "2026-05-06 09:27:18",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【儲存晶片板塊高開，德明利、江波龍多股創新高】儲存晶片板塊高開，訊息面上，海外儲存晶片巨頭接連大漲提振情緒。德明利、瀾起科技、中微公司、江波龍、大普微、盛視科技盤中創新高，通富微電、盈新發展漲停，朗科科技、夏農芯創、佰維儲存、興森科技、普冉股份跟漲。"
-    },
-    {
-      "id": "4862326",
-      "time": "2026-05-06 09:26:49",
-      "tags": [
-        "市場"
-      ],
-      "text": "臺幣兌美元上漲0.3%至31.510。"
-    },
-    {
-      "id": "4862325",
-      "time": "2026-05-06 09:26:38",
-      "tags": [
-        "市場"
-      ],
-      "text": "科創50指數高開4%。"
-    },
-    {
-      "id": "4862324",
-      "time": "2026-05-06 09:26:03",
-      "tags": [
-        "行業",
-        "公司",
-        "市場",
-        "焦點"
-      ],
-      "text": "【五糧液低開6.49%，公司2025年財報“重寫”】五糧液低開6.49%，訊息面上，公司2025年財報“重寫”，2025年一季度營收從369.4億元調減至170.86億元，調減幅度53.7%，歸母淨利潤從148.6億元調減至44.16億元，降幅超70%；2025年前三季度累計調減營業收入303.07億元，調減歸母淨利潤150.36億元；2025年全年更正後營收405.29億元，同比下降54.55%，淨利潤89.54億元，同比下降71.89%。"
-    },
-    {
-      "id": "4862323",
-      "time": "2026-05-06 09:25:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "【墨西哥中部列車與油罐車相撞致2死4傷】墨西哥中部克雷塔羅州民防部門5日在社交媒體釋出通告說，該州當天發生一起列車與油罐車相撞事故，造成至少2人死亡、4人受傷。通告說，事故發生在克雷塔羅州科隆市。當地應急部門已趕赴現場處置。在克雷塔羅州政府航空救援支援下，一名傷者被轉運接受治療，另有3名傷勢較輕人員被送往醫療中心檢查。通告說，目前，事故區域仍實施部分封閉，相關部門正在進行降溫和清理作業。事故原因仍在調查中。"
-    },
-    {
-      "id": "4862322",
-      "time": "2026-05-06 09:25:26",
-      "tags": [
-        "焦點"
-      ],
-      "text": "三大股指高開，滬指漲0.57％，深成指漲1.43％，創業板漲2.27％。"
-    },
-    {
-      "id": "4862321",
-      "time": "2026-05-06 09:25:26",
-      "tags": [
-        "市場"
-      ],
-      "text": "【港股鋰電池股走強 寧德時代漲近4%】截至發稿，寧德時代(03750.HK)漲3.97%，天齊鋰業(09696.HK)漲3.67%，彩客新能源(01986.HK)漲3.33%。"
-    },
-    {
-      "id": "4862320",
-      "time": "2026-05-06 09:25:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內漲1%，現報1530.05美元/盎司。"
     }
   ]
 }
