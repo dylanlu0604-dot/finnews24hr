@@ -1,7 +1,82 @@
 {
-  "updated": "2026-05-13 21:39:37",
-  "count": 15108,
+  "updated": "2026-05-13 21:43:03",
+  "count": 15111,
   "items": [
+    {
+      "id": "4878098",
+      "time": "2026-05-13 21:42:23",
+      "tags": [
+        "資料"
+      ],
+      "text": "哥倫比亞4月份消費者信心指數為13.7。"
+    },
+    {
+      "id": "4878097",
+      "time": "2026-05-13 21:42:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國土邊境活動協調局（COGAT）表示：本週，我們經凱雷姆沙洛姆口岸，協調約 130 名持有各類簽證的加沙人員撤離，前往多個目的地國家，後續經由約旦中轉。我方正與國際合作夥伴協作，透過凱雷姆沙洛姆口岸、拉法口岸以及拉蒙國際機場，安排更多醫療及非醫療類人員撤離行動。與此同時，拉法邊境口岸仍保持通行運轉；截至目前，已有約 2300 人經該口岸進入加沙，2500 人離開加沙。”"
+    },
+    {
+      "id": "4878096",
+      "time": "2026-05-13 21:42:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "國際貨幣基金組織總裁格奧爾基耶娃：若油價持續高位至 2027 年，存在出現技術性衰退的風險。我們建議歐洲各國政府針對油價採取有針對性的措施，並制定明確的退出策略。"
+    },
+    {
+      "id": "4878095",
+      "time": "2026-05-13 21:40:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "【德國汽車工業協會：德汽車業到2035年或再流失12.5萬個崗位】德國汽車工業協會13日發表宣告說，受產業轉型、德國營商環境惡化及國際競爭加劇等因素影響，到2035年德國汽車行業或將再流失12.5萬個就業崗位。 德國汽車工業協會當天釋出的最新測算顯示，2019年至今，德國汽車行業已流失約10萬個崗位；到2035年，預計該行業較2019年將累計減少22.5萬個崗位。 該協會認為，由於德國營商環境惡化、國際競爭力下降，近年來該國就業放緩速度有所加快。同時，與交通數字化轉型等相關的新投資和新崗位正越來越多地流向海外。 德國汽車工業協會主席希爾德加德·穆勒說：“德國作為生產基地的條件正不斷惡化，高稅負、高能源價格、高勞動力成本等問題削弱了產業競爭力。企業出於經濟原因，不得不將生產和投資轉向德國乃至歐洲以外地區，以維持自身競爭力。”(新華社)"
+    },
+    {
+      "id": "mkt:019e2191-2b84-7eee-bb64-45ddea0c945c",
+      "time": "2026-05-13 21:40:22",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "IMF'S GEORGIEVA: WE ADVISE EUROPEAN GOVERNMENTS TO HAVE TARGETED MEASURES REGARDING OIL PRICES, WITH CLEAR EXIT STRATEGY"
+    },
+    {
+      "id": "te:markets:550383",
+      "time": "2026-05-13 21:40:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Dips as US-Iran Peace Hopes Fade — The Ibovespa lost near 1% to hover below the 180,000 mark on Wednesday as fading expectations for a US-Iran peace agreement weighed on sentiment. The stalling of negotiations this week reduced prospects for a reopening of the Strait of Hormuz, while concerns over stagflation pressures and higher bond yields continued to pressure banks and the broader market. Most stocks traded lower. In the banking sector, Bradesco and Banco do Brasil shed about 0.5%, while utilities also weakened, with Sabesp and Azzas down more than 0.5%. Petrobras and WEG both lost close to 1%. On the upside, Vale gained nearly 1% amid higher iron ore prices. After the close, Banco do Brasil, CSN (+0.5%) and Eneva (-0.6%) are set to report earnings results."
+    },
+    {
+      "id": "4878094",
+      "time": "2026-05-13 21:39:55",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4680美元/盎司，日內跌0.14%。"
+    },
+    {
+      "id": "4878093",
+      "time": "2026-05-13 21:39:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普直言毫不在乎美國人經濟狀況】據美國《華盛頓郵報》報道，當地時間5月12日下午，特朗普在白宮南草坪與記者交談。 當被記者問到“美國人的經濟狀況”在多大程度上促使他達成結束伊朗戰爭的協議時，特朗普竟回答：“一點也沒有（Not even a little bit）。” “當我談到伊朗時，唯一重要的事情就是，他們不能擁有核武器，”特朗普告訴記者，“我不會考慮美國人的經濟狀況。我誰都不考慮（I don’t think about anybody）。” 特朗普說：“我只考慮一件事，那就是我們絕不能讓伊朗擁有核武器。”（觀察者網）"
+    },
     {
       "id": "mkt:019e2190-13a7-7eee-bb64-3eaf5f554599",
       "time": "2026-05-13 21:38:52",
@@ -135327,51 +135402,6 @@
         "國際"
       ],
       "text": "【王毅同孟加拉國外長卡利勒會談】2026年5月6日，中共中央政治局委員、外交部長王毅在北京同來華訪問的孟加拉國外長卡利勒舉行會談。王毅表示，中方願推動高質量共建“一帶一路”倡議同孟國家發展戰略對接，深化經貿、投資、基建、水利、人文等傳統領域合作，拓展綠色發展、數字經濟等新興產業合作，支援有實力的中方企業赴孟投資興業。中方同孟加拉國等南亞國家發展關係不針對第三方，也不應受第三方影響。中方願同孟方在多邊機構以及地區合作框架中加強溝通合作，共同為世界和地區和平發展作出貢獻。（外交部）"
-    },
-    {
-      "id": "4863829",
-      "time": "2026-05-06 21:42:50",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "CVS健康公司股價在上調盈利預期後上漲9.3%。"
-    },
-    {
-      "id": "4863827",
-      "time": "2026-05-06 21:41:56",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲穆薩萊姆：消費者和企業均表示，他們在應對不斷上漲的高價格方面感到困難。"
-    },
-    {
-      "id": "4863826",
-      "time": "2026-05-06 21:41:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "穆薩萊姆：2%的通脹率意味著利率可以再下調一些。"
-    },
-    {
-      "id": "4863825",
-      "time": "2026-05-06 21:41:21",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "低硫燃料油連續主力合約日內跌5%，現報4959.00元。"
-    },
-    {
-      "id": "4863824",
-      "time": "2026-05-06 21:40:19",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲穆薩萊姆：目前也存在一些看似合理的設想，可能導致降息和加息。實現2%的目標是美聯儲對經濟增長和就業的最佳貢獻。"
     }
   ]
 }
