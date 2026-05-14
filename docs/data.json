@@ -1,7 +1,66 @@
 {
-  "updated": "2026-05-15 03:39:18",
-  "count": 15142,
+  "updated": "2026-05-15 03:42:49",
+  "count": 15140,
   "items": [
+    {
+      "id": "4880543",
+      "time": "2026-05-15 03:41:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：一架美國政府飛機現身哈瓦那國際機場停機坪。"
+    },
+    {
+      "id": "mkt:019e2802-76d1-7bb5-b4d2-4ff6e3f7186c",
+      "time": "2026-05-15 03:41:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "UK PM STARMER APPOINTS LUCY RIGBY AS CHIEF SECRETARY TO THE TREASURY - STATEMENT"
+    },
+    {
+      "id": "mkt:019e2802-28a5-7bb5-b4d2-4070c7be2c17",
+      "time": "2026-05-15 03:41:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. GOV'T PLANE ON TARMAC AT HAVANA INTERNATIONAL AIRPORT - WITNESS"
+    },
+    {
+      "id": "4880542",
+      "time": "2026-05-15 03:41:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國首相斯塔默任命詹姆斯·默裡為衛生大臣。"
+    },
+    {
+      "id": "4880541",
+      "time": "2026-05-15 03:40:45",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "斯塔默任命LUCY RIGBY為財政部常務次官。"
+    },
+    {
+      "id": "4880540",
+      "time": "2026-05-15 03:39:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國政府：詹姆斯・默裡被任命為衛生及社會保障大臣。"
+    },
+    {
+      "id": "4880539",
+      "time": "2026-05-15 03:39:25",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4660美元/盎司，日內跌0.61%。"
+    },
     {
       "id": "mkt:019e2800-1dc4-7bb5-b4d2-3a43a76f5313",
       "time": "2026-05-15 03:39:16",
@@ -136726,107 +136785,6 @@
         "The Fed (FOMC)"
       ],
       "text": "FED'S WILLIAMS: THE DATA SUPPORT IDEA OF K-SHAPED ECONOMY, LOWER INCOME FAMILIES UNDER PRESSURE"
-    },
-    {
-      "id": "4867103",
-      "time": "2026-05-08 03:42:24",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲威廉姆斯：就業市場穩定，經濟已展現出強勁韌性。"
-    },
-    {
-      "id": "mkt:019e03f6-6474-7775-8cba-02248af1b85b",
-      "time": "2026-05-08 03:42:19",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "US10Y"
-      ],
-      "text": "FED'S WILLIAMS: ECONOMY HAS SHOWN A LOT OF RESILIENCE, AMID STABLE JOB MARKET"
-    },
-    {
-      "id": "4867102",
-      "time": "2026-05-08 03:42:05",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲威廉姆斯：去年美國經濟表現好於多數預期。"
-    },
-    {
-      "id": "mkt:019e03f6-217f-7775-8cb9-f86b26a84658",
-      "time": "2026-05-08 03:42:01",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "US Economy",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "WTI",
-        "Impact mixed"
-      ],
-      "text": "FED'S WILLIAMS: ECONOMY PERFORMED BETTER LAST YEAR THAN MANY EXPECTED"
-    },
-    {
-      "id": "4867101",
-      "time": "2026-05-08 03:41:28",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲威廉姆斯： 當前經濟存在大量不確定性。"
-    },
-    {
-      "id": "mkt:019e03f5-5cae-7775-8cb9-f01bcb887c41",
-      "time": "2026-05-08 03:41:12",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "FED'S WILLIAMS: THERE IS A LOT OF UNCERTAINTY IN THE ECONOMY RIGHT NOW"
-    },
-    {
-      "id": "4867100",
-      "time": "2026-05-08 03:41:00",
-      "tags": [
-        "市場"
-      ],
-      "text": "週四（5月7日）紐約尾盤，ICE美元指數漲0.08%，報98.10點，日內交投區間為97.82-98.17點，北京時間22:30以來持續走高。"
-    },
-    {
-      "id": "mkt:019e03f4-ac94-7775-8cb9-ed71228ce0ca",
-      "time": "2026-05-08 03:40:27",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "【Trump Extends EU Trade Deal Deadline to July 4, Warns of Higher Tariffs】President Donald Trump said he will give the European Union until July 4 to ratify its trade agreement with the US, extending an earlier deadline after warning of potential tariff increases on EU goods, including autos. The decision followed talks with European Commission President Ursula von der Leyen. Trump said: “I agreed to give her until our Country’s 250th Birthday or, unfortunately, their Tariffs would immediately jump to much higher levels.” Markets showed a muted reaction, with automaker shares largely steady after the announcement."
-    },
-    {
-      "id": "mkt:019e03f3-b957-7775-8cb9-e2f32c62ac49",
-      "time": "2026-05-08 03:39:24",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "S&P500",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "MONEY-MARKET FUND ASSETS JUMP $122B, MOST SINCE APRIL 2020, PER ICI"
     }
   ]
 }
