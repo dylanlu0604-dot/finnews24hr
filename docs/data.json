@@ -1,7 +1,155 @@
 {
-  "updated": "2026-05-14 14:16:00",
-  "count": 15441,
+  "updated": "2026-05-14 14:19:27",
+  "count": 15452,
   "items": [
+    {
+      "id": "4879261",
+      "time": "2026-05-14 14:19:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "鴻海：預計2026年計算產品收入將同比小幅下滑，此前預測同樣為小幅下滑。"
+    },
+    {
+      "id": "4879260",
+      "time": "2026-05-14 14:18:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列軍方對黎巴嫩貝卡谷地及南部的八座城鎮與村莊釋出疏散令。"
+    },
+    {
+      "id": "te:markets:550553",
+      "time": "2026-05-14 14:18:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Poised for Higher Open — European equity markets were set to open higher on Thursday, building on the previous session’s gains as investors responded to stronger-than-expected growth in the British economy during the first quarter, before the full effects of the Iran war began to weigh on activity. Still, political uncertainty in the UK remained elevated, with Prime Minister Keir Starmer continuing to face pressure over his leadership. Investors also focused on the meeting between US President Donald Trump and Chinese President Xi Jinping, amid hopes that the two sides could improve relations despite ongoing disputes over tariffs and other sensitive issues. On the corporate side, earnings reports are expected from National Grid, 3i Group, Brenntag, Burberry and Telefonica, among others. In premarket trading, Euro Stoxx 50 futures rose 0.8%, while Stoxx 600 futures gained 0.5%."
+    },
+    {
+      "id": "mkt:019e2523-41fc-799f-8003-b323b38852c5",
+      "time": "2026-05-14 14:18:48",
+      "tags": [
+        "MKT News",
+        "2317.TW",
+        "Impact bullish"
+      ],
+      "text": "FOXCONN: EXPECTS Q2 REVENUE FOR CLOUD AND NETWORKING PRODUCTS TO SEE STRONG GROWTH Y/Y"
+    },
+    {
+      "id": "mkt:019e2523-3388-799f-8003-ac0d62f2fb4a",
+      "time": "2026-05-14 14:18:41",
+      "tags": [
+        "MKT News",
+        "2317.TW"
+      ],
+      "text": "FOXCONN: EXPECTS Q2 REVENUE FOR COMPUTING PRODUCTS TO BE FLATTISH Y/Y"
+    },
+    {
+      "id": "4879259",
+      "time": "2026-05-14 14:17:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "鴻海：預計二季度雲與網路產品營收將實現同比強勁增長。"
+    },
+    {
+      "id": "4879258",
+      "time": "2026-05-14 14:17:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "鴻海：預計智慧消費電子業務第二季度營收將實現同比大幅增長。"
+    },
+    {
+      "id": "mkt:019e2522-fb01-799f-8003-a707880fabd5",
+      "time": "2026-05-14 14:17:29",
+      "tags": [
+        "MKT News",
+        "2317.TW",
+        "Impact bullish"
+      ],
+      "text": "FOXCONN: EXPECTS Q2 REVENUE FOR SMART CONSUMER ELECTRONICS TO SEE SIGNIFICANT GROWTH Y/Y"
+    },
+    {
+      "id": "4879257",
+      "time": "2026-05-14 14:17:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "鴻海：預計第二季度收入同比將實現強勁增長。"
+    },
+    {
+      "id": "mkt:019e2522-a72d-799f-8003-98285c756c4d",
+      "time": "2026-05-14 14:17:24",
+      "tags": [
+        "MKT News",
+        "2317.TW",
+        "Impact bullish"
+      ],
+      "text": "FOXCONN: EXPECTS 2026 REVENUE TO SEE STRONG GROWTH Y/Y (VS PREVIOUS FORECAST OF STRONG GROWTH)"
+    },
+    {
+      "id": "mkt:019e2522-0ad0-799f-8003-97b1b4deac0a",
+      "time": "2026-05-14 14:17:17",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "IRAN'S FOREIGN MINISTER: TEHRAN CALLS ON BRICS MEMBERS TO UNEQUIVOCALLY CONDEMN U.S. AND ISRAEL AGGRESSION AGAINST IRAN - STATEMENT"
+    },
+    {
+      "id": "mkt:019e2521-bca7-799f-8003-896071b792d9",
+      "time": "2026-05-14 14:17:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "2317.TW",
+        "Impact bullish"
+      ],
+      "text": "FOXCONN: Q1 NET PROFIT T$49.92 BLN (VS ANALYST FORECAST T$48.88 BLN)"
+    },
+    {
+      "id": "4879256",
+      "time": "2026-05-14 14:17:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部長發表宣告稱：西方的“虛假優越感”必須被全球南方粉碎。"
+    },
+    {
+      "id": "4879255",
+      "time": "2026-05-14 14:16:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "鴻海：預計2026年收入將實現同比強勁增長，此前預期同樣為強勁增長。"
+    },
+    {
+      "id": "4879253",
+      "time": "2026-05-14 14:16:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部長發表宣告稱：德黑蘭呼籲金磚國家成員國明確譴責美國和以色列對伊朗的侵略行徑。"
+    },
+    {
+      "id": "4879252",
+      "time": "2026-05-14 14:15:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "鴻海第一季度營收2.12萬億元臺幣，預估2.15萬億元臺幣。"
+    },
     {
       "id": "4879251",
       "time": "2026-05-14 14:15:46",
@@ -139227,55 +139375,6 @@
         "市場"
       ],
       "text": "馬士基執行長表示：預計第二季度運費將上漲。"
-    },
-    {
-      "id": "4865502",
-      "time": "2026-05-07 14:18:28",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "馬士基執行長稱：受中東戰事影響，公司每月額外增加成本5 億美元。"
-    },
-    {
-      "id": "4865501",
-      "time": "2026-05-07 14:18:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "【內蒙古特高壓外送電量突破9000億千瓦時】記者7日從國網內蒙古東部電力有限公司獲悉，截至5月6日，內蒙古特高壓累計外送電量突破9000億千瓦時，達9001.58億千瓦時。國網蒙東電力已建成“五交三直”8條特高壓通道，形成連線能源基地與負荷中心的“電力大動脈”，將內蒙古豐富的風光清潔能源源源不斷送往華東、華北等12個省區市，外送電量長期位居全國前列，且連續8年保持增長。(新華社)"
-    },
-    {
-      "id": "4865500",
-      "time": "2026-05-07 14:17:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "宇樹科技：全球首個人形機器人任務動作應用商店——宇樹UniStore官方共享應用平臺正式全面開放。"
-    },
-    {
-      "id": "te:economy:548602",
-      "time": "2026-05-07 14:17:30",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Romania",
-        "Retail Sales YoY",
-        "Importance 1"
-      ],
-      "text": "Romania Retail Sales Fall at a Slower Pace — Retail sales in Romania fell 3.2% year-on-year in March 2026, easing from a downwardly revised 5.9% decline in the previous month, marking the eighth consecutive month of contraction. Sales of automotive fuel in specialised stores returned to growth (4.1% vs -3.7% in February). At the same time, the decline in non-food products softened (-7.4% vs -9.4%). In contrast, sales of food, beverages, and tobacco fell further (-3.0% vs -1.1%). On a monthly basis, retail activity jumped 2.6% in March, following an upwardly revised 0.5% increase in the preceding period."
-    },
-    {
-      "id": "te:economy:548601",
-      "time": "2026-05-07 14:16:55",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Germany",
-        "Factory Orders",
-        "Importance 2"
-      ],
-      "text": "German Factory Orders Pick Up Strongly — Germany’s factory orders surged 5.0% mom in March 2026, sharply accelerating from an upwardly revised 1.4% growth in the prior month and easily topping market expectations of a 1% increase. The upturn was boosted by a positive trend in new orders across almost all economic sectors, including electrical equipment (21.5%), data processing equipment, electronic and optical products (14.4%), and mechanical engineering (6.9%). Order intake increased for all components, notably intermediate goods (9.2%), consumer goods (7.3%), and capital goods (2.1%). Foreign orders jumped 5.6%, boosted by demand from the euro area (10.1%) and non-euro area markets (2.7%). In addition, domestic orders grew 4.0%. Excluding large-scale contracts, total orders rose 5.1%, reaching their highest level since February 2023. On a less volatile basis, new orders in Q1 2026 fell 4.1% from the prior period, due to a very high volume of large orders at the end of 2025. Excluding large orders, they increased by 1.6%."
     }
   ]
 }
