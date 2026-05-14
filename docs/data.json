@@ -1,7 +1,60 @@
 {
-  "updated": "2026-05-15 04:50:30",
-  "count": 15137,
+  "updated": "2026-05-15 04:53:57",
+  "count": 15140,
   "items": [
+    {
+      "id": "4880618",
+      "time": "2026-05-15 04:53:15",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "特朗普大額賣出微軟、亞馬遜和META。"
+    },
+    {
+      "id": "4880617",
+      "time": "2026-05-15 04:53:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【4月金融資料出爐 直接融資佔比持續提升 業內專家：貸款增長較以前放緩或將成為常態】中國人民銀行5月14日釋出的金融統計資料包告顯示，4月末，廣義貨幣（M2）餘額、社會融資規模存量、人民幣貸款餘額分別同比增長8.6%、7.8%和5.6%。"
+    },
+    {
+      "id": "4880616",
+      "time": "2026-05-15 04:51:21",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【特朗普倫理申報檔案披露其涉及美股相關交易】美國政府道德辦公室週四公佈兩份最新財務披露檔案顯示，特朗普今年早些時候披露了總額至少2.2億美元的美國大型企業證券交易活動。最新報告涵蓋2026年前三個月，交易金額僅公佈寬泛區間、未披露精確數額，累計交易規模介於2.2億至約7.5億美元之間。其買入標的包括微軟、元宇宙平臺Meta、甲骨文、博通、美國銀行、高盛等企業相關證券，同時還涉及市政債券交易。單筆規模在100萬至500萬美元的大額買入標的，包括標普500指數基金、英偉達以及蘋果公司；單筆500萬至2500萬美元的大額拋售標的涵蓋微軟、亞馬遜和Meta。披露檔案並未逐一明確證券具體型別，未註明是普通股還是公司債券。"
+    },
+    {
+      "id": "mkt:019e2841-b650-7bb5-b4d2-e30a4d69d58e",
+      "time": "2026-05-15 04:50:55",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "Magnificent 7",
+        "Star Stocks",
+        "Microsoft",
+        "Meta Platforms",
+        "MSFT.O",
+        "META.O",
+        "GS.O"
+      ],
+      "text": "【Trump Ethics Filing Reveals Hundreds of Millions in US Securities Trades】US President Donald Trump disclosed at least $220 million in financial transactions tied to major US companies during the first quarter of 2026, according to new ethics filings released by the Office of Government Ethics. The disclosures showed purchases and sales involving securities linked to Microsoft, Meta Platforms, Oracle, Broadcom, Bank of America and Goldman Sachs. The filings listed broad transaction ranges rather than exact values and did not specify whether the trades involved stocks or bonds."
+    },
+    {
+      "id": "4880615",
+      "time": "2026-05-15 04:50:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "據披露檔案特朗普大手筆增持英偉達、蘋果股票。"
+    },
     {
       "id": "4880614",
       "time": "2026-05-15 04:49:24",
@@ -136628,22 +136681,6 @@
         "國際"
       ],
       "text": "據AXIOS：美國週四在霍爾木茲海峽地區實施打擊。"
-    },
-    {
-      "id": "4867151",
-      "time": "2026-05-08 04:51:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗邁赫爾通訊社：伊朗南部米納布地區傳出爆炸聲。"
-    },
-    {
-      "id": "mkt:019e0435-ab31-7775-8cbb-21ff9bdbdad8",
-      "time": "2026-05-08 04:51:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IRAN'S MEHR: EXPLOSION SOUND IN MINAB IN SOUTHERN IRAN"
     }
   ]
 }
