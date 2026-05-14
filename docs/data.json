@@ -1,7 +1,103 @@
 {
-  "updated": "2026-05-15 02:16:55",
-  "count": 15225,
+  "updated": "2026-05-15 02:42:18",
+  "count": 15188,
   "items": [
+    {
+      "id": "4880490",
+      "time": "2026-05-15 02:33:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI 6月原油期貨收報101.17美元/桶。NYMEX 6月天然氣期貨收報2.894美元/百萬英熱單位。NYMEX 6月汽油期貨收報3.6057美元/加侖，NYMEX 6月取暖油期貨收報3.9056美元/加侖。"
+    },
+    {
+      "id": "4880489",
+      "time": "2026-05-15 02:31:20",
+      "tags": [
+        "央行",
+        "宏觀",
+        "國際"
+      ],
+      "text": "委內瑞拉央行代理行長：委內瑞拉代表團將於本月底前前往華盛頓，與國際貨幣基金組織（IMF）舉行會晤。 2026年第一季度，石油行業GDP下降2.1%，非石油行業GDP增長3.1%。與美國財政部保持每日對話，關係密切。"
+    },
+    {
+      "id": "mkt:019e27c2-02dc-7bb5-b4d2-127e2d4262cd",
+      "time": "2026-05-15 02:30:53",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "U.S. CRUDE OIL FUTURES SETTLE AT $101.17/BBL, UP 15 CENTS, 0.15 PCT"
+    },
+    {
+      "id": "4880486",
+      "time": "2026-05-15 02:30:24",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "委內瑞拉央行代理行長：2026年第一季度國內生產總值增長2.51%，預計到2026年底GDP將增長約8%。"
+    },
+    {
+      "id": "te:markets:550829",
+      "time": "2026-05-15 02:30:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: XRP Surges by 7.03% — Top crypto gainers are XRP (7.03%), Bitcoin (3.29%) and Ether (2.56%)."
+    },
+    {
+      "id": "4880485",
+      "time": "2026-05-15 02:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收跌0.30%，報631.90元人民幣/桶。滬金夜盤收跌0.32%，滬銀收跌3.54%。"
+    },
+    {
+      "id": "te:markets:550828",
+      "time": "2026-05-15 02:25:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Orange Juice Tumbles by 5.23% — Top commodity losers are Orange Juice (-5.23%), Cocoa (-3.87%) and Cotton (-3.18%). Gains are led by Rubber (4.42%), Barley (4.14%) and Lumber (1.13%)."
+    },
+    {
+      "id": "mkt:019e27b9-7057-7bb5-b4d2-0bcbb712cdd0",
+      "time": "2026-05-15 02:22:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "XAI IS LAUNCHING AN EARLY BETA OF GROK BUILD, BEING A CODING AGENT FOR SUPER-GROK HEAVY USERS"
+    },
+    {
+      "id": "te:markets:550827",
+      "time": "2026-05-15 02:20:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Platinum Slumps by 5.15% — Top commodity losers are Platinum (-5.15%), Silver (-3.22%), Lithium Carbonate (-2.74%) and Gold (-0.24%). Gains are led by Steel Rebar (0.81%)."
+    },
+    {
+      "id": "4880475",
+      "time": "2026-05-15 02:17:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "XAI 正式推出 Grok Build 早期測試版。"
+    },
     {
       "id": "mkt:019e27b3-4be0-7bb5-b4d2-02204c424397",
       "time": "2026-05-15 02:15:22",
@@ -137207,446 +137303,6 @@
         "國際"
       ],
       "text": "伊朗當地報道：數分鐘前，阿巴斯港民眾聽到城區周邊傳來數聲疑似爆炸的聲響。目前聲響來源及確切事發地點仍不明。"
-    },
-    {
-      "id": "mkt:019e03be-8a35-7775-8cb8-a5a049188717",
-      "time": "2026-05-08 02:41:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "AXIOS REPORTER BARAK RAVID SAID ON X THAT AXIOS NEVER REPORTED AN “IMMINENT DEAL” AND CALLED THE CLAIM FALSE PROPAGANDA FROM IRANIAN REGIME-LINKED ACCOUNTS"
-    },
-    {
-      "id": "4867048",
-      "time": "2026-05-08 02:40:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外長表示，若戰事結束、封鎖及制裁解除，霍爾木茲海峽航運將恢復正常。"
-    },
-    {
-      "id": "mkt:019e03bc-a4bc-7775-8cb8-9d39024eac1f",
-      "time": "2026-05-08 02:39:15",
-      "tags": [
-        "MKT News",
-        "MCD.O",
-        "Impact bearish"
-      ],
-      "text": "MCDONALD’S SEES ROUGHLY $250 MILLION IN RESTRUCTURING EXPENSES NEXT YEAR, PER FILING"
-    },
-    {
-      "id": "4867047",
-      "time": "2026-05-08 02:37:45",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內跌3%，現報1505.44美元/盎司。"
-    },
-    {
-      "id": "4867046",
-      "time": "2026-05-08 02:37:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "麥當勞公司在截至2026年3月31日的三個月中，因推進組織最佳化產生了4700萬美元重組費用。"
-    },
-    {
-      "id": "4867045",
-      "time": "2026-05-08 02:36:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：美國將繼續採取行動，直到古巴進行改革。"
-    },
-    {
-      "id": "4867044",
-      "time": "2026-05-08 02:36:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "麥當勞：預計2026年將產生約2.5億美元重組費用。"
-    },
-    {
-      "id": "mkt:019e03b9-c59a-7775-8cb8-9780897ba77c",
-      "time": "2026-05-08 02:36:05",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "IRAN'S FOREIGN MINISTRY SPOKESPERSON SAYS SUPREME LEADER MOJTABA KHAMENEI HAS FULL OVERSIGHT OVER ALL MATTERS AND ISSUES -NOURNEWS IRAN'S FOREIGN MINISTRY SPOKESPERSON SAYS SUPREME LEADER IS MANAGING DEVELOPMENTS, NO ACTION IS TAKEN WITHOUT HIS PERMISSION -NOURNEWS"
-    },
-    {
-      "id": "4867043",
-      "time": "2026-05-08 02:35:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部發言人表示，最高領袖正在統籌局勢發展，未經其批准不會採取任何行動。"
-    },
-    {
-      "id": "4867041",
-      "time": "2026-05-08 02:34:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部發言人稱，最高領袖穆傑塔巴・哈梅內伊對所有事務擁有全面掌控權。"
-    },
-    {
-      "id": "mkt:019e03b7-9c76-7775-8cb8-8aa321d01a6c",
-      "time": "2026-05-08 02:33:45",
-      "tags": [
-        "MKT News",
-        "DIS.N"
-      ],
-      "text": "DEMOCRATIC SENATORS DEMAND FEDERAL COMMUNICATIONS COMMISSION CHAIR CARR ANSWER QUESTIONS ON EARLY REVIEW OF DISNEY ABC STATION LICENSES -- LETTER"
-    },
-    {
-      "id": "4867040",
-      "time": "2026-05-08 02:33:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "民主黨參議員要求美國聯邦通訊委員會主席卡爾，就迪士尼旗下 ABC 電視臺牌照提前審查事宜作出答覆。"
-    },
-    {
-      "id": "4867039",
-      "time": "2026-05-08 02:31:19",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲哈馬克：鑑於不確定性，我需要對下一步政策舉措保持開放態度。"
-    },
-    {
-      "id": "4867038",
-      "time": "2026-05-08 02:31:06",
-      "tags": [
-        "市場"
-      ],
-      "text": "博通股價在成交量驟升後走低，此前有報道稱其與OpenAI的交易遭遇融資障礙，博通最新下跌4%，報408美元。"
-    },
-    {
-      "id": "mkt:019e03b5-30dc-7775-8cb8-822f353afe43",
-      "time": "2026-05-08 02:31:04",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI"
-      ],
-      "text": "U.S. CRUDE OIL FUTURES SETTLE AT $94.81/BBL, DOWN 27 CENTS, 0.28 PCT"
-    },
-    {
-      "id": "4867037",
-      "time": "2026-05-08 02:31:03",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國原油期貨結算價報每桶94.81美元，下跌27美分，跌幅0.28%。"
-    },
-    {
-      "id": "mkt:019e03b5-0a47-7775-8cb8-7bc9c5cf884d",
-      "time": "2026-05-08 02:30:56",
-      "tags": [
-        "MKT News",
-        "AVGO.O",
-        "Impact bearish"
-      ],
-      "text": "BROADCOM EDGE LOWER IN VOLUME SPIKE FOLLOWING REPORT THAT ITS DEAL WITH OPENAI HAS HIT A FINANCING SNAG, LAST DOWN 4% AT $408"
-    },
-    {
-      "id": "mkt:019e03b4-b8f8-7775-8cb8-774cc05b32f3",
-      "time": "2026-05-08 02:30:35",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "FED'S HAMMACK: I HEAR CONCERNS AMONG BUSINESSES THAT AN INFLATIONARY MINDSET IS STARTING TO BECOME ENTRENCHED IN PEOPLE'S MINDS"
-    },
-    {
-      "id": "4867036",
-      "time": "2026-05-08 02:30:26",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲哈馬克：我聽到企業界擔憂，通脹心態正開始在民眾心中根深蒂固。"
-    },
-    {
-      "id": "te:markets:548889",
-      "time": "2026-05-08 02:30:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: Ether Drops by 2.18% — Top crypto losers are Ether (-2.18%), XRP (-2.03%) and Bitcoin (-1.61%)."
-    },
-    {
-      "id": "4867035",
-      "time": "2026-05-08 02:30:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "上期所原油期貨夜盤收跌0.88%，報629.10元人民幣/桶。滬金夜盤收漲0.12%，滬銀收漲2.49%。"
-    },
-    {
-      "id": "4867034",
-      "time": "2026-05-08 02:28:30",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【阿波羅CEO警告巨大地緣政治重組來襲 世界尚未做好準備】阿波羅全球管理公司執行長Marc Rowan表示，世界還沒有做好準備應對人工智慧、價格壓力和不斷上升的政府債務帶來的衝擊。Rowan週四在華盛頓特區舉行的全國保險專員協會論壇上表示，隨著關稅上漲和製造業向國內轉移，一場“巨大的地緣政治重組”正在進行中。他補充說，其中一些措施，例如限制商品和勞動力的自由流動，可能會引發通脹。他說：“但我們還沒有真正看到通脹。”"
-    },
-    {
-      "id": "mkt:019e03b2-99bc-7775-8cb8-6ef1f60643d1",
-      "time": "2026-05-08 02:28:16",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "Star Stocks",
-        "Apple",
-        "Policy",
-        "Breaking News 24h",
-        "AAPL.O",
-        "Impact bullish"
-      ],
-      "text": "【Apple AirPods with Built-In Cameras Reach Advanced AI Testing Stage】Apple has reached advanced design validation testing for AirPods with built-in low-resolution cameras, advancing its AI wearable push. The cameras would enable Siri to analyze surroundings for questions, directions, and contextual assistance rather than capture media. Development spans about four years, with launch delayed by Siri upgrades expected in September. Hardware is near final, but AI performance may still influence timing. Apple competes with OpenAI and Meta in AI devices."
-    },
-    {
-      "id": "4867033",
-      "time": "2026-05-08 02:27:50",
-      "tags": [
-        "市場"
-      ],
-      "text": "【傳奇投資者：AI牛市“還能再持續一兩年”】傳奇投資者保羅·都鐸·瓊斯（Paul Tudor Jones）表示，由人工智慧（AI）推動的牛市仍有繼續上漲的空間，在尋找與早期科技繁榮的相似之處時，他最近買入了更多相關股票。這位億萬富翁對沖基金經理稱，“我覺得今年1月的Claude，相當於1981年微軟問世的那個時刻。”"
-    },
-    {
-      "id": "4867032",
-      "time": "2026-05-08 02:25:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗官員阿齊茲：韓國拒絕參與霍爾木茲海峽軍事行動，此舉十分明智。"
-    },
-    {
-      "id": "mkt:019e03b0-400b-7775-8cb8-6443d2a143d4",
-      "time": "2026-05-08 02:25:42",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "IRAN'S AZIZI: SOUTH KOREA'S REFUSAL TO PARTICIPATE IN MILITARY OPERATIONS IN THE STRAIT OF HORMUZ WAS WISE"
-    },
-    {
-      "id": "te:markets:548888",
-      "time": "2026-05-08 02:25:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Cocoa Soars by 5.42% — Top commodity gainers are Cocoa (5.42%), Butter (1.17%) and Rubber (0.83%). Biggest losers are Oat (-4.77%), Coffee (-4.02%) and Orange Juice (-3.08%)."
-    },
-    {
-      "id": "4867031",
-      "time": "2026-05-08 02:24:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴西媒體在特朗普與盧拉閉門會晤結束後離開白宮，本次會晤不對外開放媒體採訪。"
-    },
-    {
-      "id": "mkt:019e03ae-f9d9-7775-8cb8-5b3df725246f",
-      "time": "2026-05-08 02:24:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TRUMP: ADDITIONAL MEETINGS WILL BE SCHEDULED OVER COMING MONTHS"
-    },
-    {
-      "id": "mkt:019e03ae-ed25-7775-8cb8-51b7967e2e61",
-      "time": "2026-05-08 02:24:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TRUMP: REPRESENTATIVES ARE SCHEDULED TO GET TOGETHER TO DISCUSS CERTAIN KEY ELEMENTS"
-    },
-    {
-      "id": "mkt:019e03ae-db0e-7775-8cb8-4fee0052f583",
-      "time": "2026-05-08 02:24:11",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "TRUMP: MEETING WITH BRAZIL'S LULA WENT VERY WELL"
-    },
-    {
-      "id": "4867030",
-      "time": "2026-05-08 02:23:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：代表們已安排開會討論若干關鍵要素。"
-    },
-    {
-      "id": "4867029",
-      "time": "2026-05-08 02:23:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：未來幾個月將安排更多與巴西方面的會晤。"
-    },
-    {
-      "id": "mkt:019e03ad-f01c-7775-8cb8-43a55c3ea293",
-      "time": "2026-05-08 02:23:11",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "TRUMP: DISCUSSED MANY TOPICS, INCLUDING TRADE AND, SPECIFICALLY, TARIFFS IN MEETING WITH BRAZIL'S LULA"
-    },
-    {
-      "id": "4867028",
-      "time": "2026-05-08 02:23:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：將安排與盧拉的更多會晤。"
-    },
-    {
-      "id": "4867027",
-      "time": "2026-05-08 02:23:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我們討論了貿易和關稅問題。"
-    },
-    {
-      "id": "4867026",
-      "time": "2026-05-08 02:22:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：與盧拉的會面進展順利。"
-    },
-    {
-      "id": "4867025",
-      "time": "2026-05-08 02:22:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：與盧拉討論了關稅問題。"
-    },
-    {
-      "id": "4867024",
-      "time": "2026-05-08 02:21:56",
-      "tags": [
-        "市場"
-      ],
-      "text": "博通股價迅速跌至當日低點，下跌4.5%。"
-    },
-    {
-      "id": "4867023",
-      "time": "2026-05-08 02:21:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "【蘋果新款內建攝像頭的 AirPods 已進入研發後期】蘋果公司新款內建攝像頭的 AirPods 已進入研發後期，這有望成為蘋果首款專為人工智慧時代打造的穿戴裝置，具有里程碑意義。據知情人士透露，該專案已進入原型機接近最終外觀設計與功能定型的階段。因相關研發仍處於保密狀態，知情人士要求匿名。這款耳機藉助攝像頭感知使用者周邊環境並提供資訊，目前已進入高階測試階段。"
-    },
-    {
-      "id": "mkt:019e03ab-a8c1-7775-8cb8-3f88a41aa486",
-      "time": "2026-05-08 02:20:41",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "AAPL.O",
-        "Impact bullish"
-      ],
-      "text": "APPLE’S CAMERA-EQUIPPED AI AIRPODS REACH ADVANCED TESTING STAGE AIRPODS CAMERAS WILL BE USED TO FEED VISUAL INFORMATION TO SIRI"
-    },
-    {
-      "id": "4867022",
-      "time": "2026-05-08 02:20:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：蘋果帶攝像頭 AI 版 AirPods 進入高階測試階段。"
-    },
-    {
-      "id": "te:markets:548887",
-      "time": "2026-05-08 02:20:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Silver Gains by 3.05% — Top commodity gainers are Silver (3.05%), Silicon (1.76%), Lithium Carbonate (1.60%) and Gold (0.36%)."
-    },
-    {
-      "id": "mkt:019e03ab-2512-7775-8cb8-32a5f371264a",
-      "time": "2026-05-08 02:20:08",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Shipping Through Strait of Hormuz Falls to Near Zero Amid Disruptions and GPS Interference】Shipping traffic through the Strait of Hormuz has dropped to near zero over the past 48 hours, according to MarineTraffic data reviewed by CNN, with no confirmed vessels transiting between the Arabian Sea and the Persian Gulf. The dataset also shows widespread GPS interference and spoofing, including ships appearing on land or clustered at the same coordinates off the UAE coast, while analysts note the figures may undercount activity due to vessels going dark or signal disruption amid heightened regional tensions."
-    },
-    {
-      "id": "4867021",
-      "time": "2026-05-08 02:18:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "據報道，霍爾木茲海峽航運通行量降至近乎歸零。"
-    },
-    {
-      "id": "mkt:019e03a8-b287-7775-8cb8-2850578d5b5d",
-      "time": "2026-05-08 02:17:27",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "SHIPPING TRAFFIC THROUGH THE STRAIT OF HORMUZ DROPS TO NEAR-ZERO - CNN"
-    },
-    {
-      "id": "mkt:019e03a8-5b03-7775-8cb8-2129a8c9063b",
-      "time": "2026-05-08 02:17:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TRUMP IS REPORTEDLY MORE THAN 2 HOURS LATE FOR HIS MEETING WITH BRAZILIAN PRESIDENT LULA, WITH NO EXPLANATION"
     }
   ]
 }
