@@ -1,7 +1,50 @@
 {
-  "updated": "2026-05-14 22:10:18",
-  "count": 15499,
+  "updated": "2026-05-14 22:13:50",
+  "count": 15490,
   "items": [
+    {
+      "id": "4880256",
+      "time": "2026-05-14 22:13:37",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "堪薩斯聯儲主席施密德：持續通脹是經濟面臨的最緊迫風險，通脹水平顯然仍過高。"
+    },
+    {
+      "id": "4880255",
+      "time": "2026-05-14 22:12:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國審計監管機構正考慮對負責監督會計師事務所的部門進行大規模裁員。"
+    },
+    {
+      "id": "4880254",
+      "time": "2026-05-14 22:12:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "【星展：香港樓價近一年漲7%，“供低於租”重燃投資客熱情】5月14日，星展銀行（香港）經濟研究部房地產業分析師丘卓文在簡報會上表示，香港住宅市場自2025年下半年起已見底反彈，截至2026年3月，樓價近一年累計上漲約7%，但仍比2021年8月曆史高位低逾15%。（21財經）"
+    },
+    {
+      "id": "4880253",
+      "time": "2026-05-14 22:11:24",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國當局正採取行動結束對印度阿達尼集團董事長高塔姆·阿達尼的欺詐案件。"
+    },
+    {
+      "id": "4880252",
+      "time": "2026-05-14 22:10:48",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【伊朗戰爭推高俄油稅基 烏拉爾原油出口價格創逾兩年高位】伊朗戰爭為俄羅斯帶來了進一步的利好，俄羅斯烏拉爾原油出口混合油的計稅價格本月達到了自2023年10月以來的最高水平。根據俄羅斯稅務部門的資料，財政部將基於平均每桶94.87美元的烏拉爾油價和76.938盧布兌1美元的匯率，計算5月份石油生產商的稅收。這相當於每桶近7300盧布，較上月增長18%，較去年同期增長60%。"
+    },
     {
       "id": "4880251",
       "time": "2026-05-14 22:09:03",
@@ -140033,156 +140076,6 @@
         "國際"
       ],
       "text": "墨西哥總統辛鮑姆：儘管特朗普發表的評論，墨西哥仍在採取行動打擊犯罪。"
-    },
-    {
-      "id": "4866607",
-      "time": "2026-05-07 22:13:45",
-      "tags": [
-        "央行",
-        "資料",
-        "市場",
-        "國際"
-      ],
-      "text": "【挪威央行加息以應對通脹壓力】挪威央行7日宣佈，將基準利率上調0.25個百分點至4.25%，以應對持續高企的通脹壓力。挪威央行表示，其貨幣和金融穩定委員會在會議上一致決定加息。近期中東戰事導致原油等大宗商品價格上漲，推高通脹壓力，提高基準利率有助於維護市場對實現通脹目標的信心。挪威央行行長伊達·沃爾登·巴謝在新聞釋出會上說，挪威通脹率仍然過高，並已連續數年高於目標水平。資料顯示，3月挪威核心通脹率按年率計算為3%。挪威央行3月預測，到今年年底基準利率可能升至4.25%至4.5%之間。（央視新聞）"
-    },
-    {
-      "id": "4866606",
-      "time": "2026-05-07 22:13:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國發布與伊朗和古巴相關的制裁名單。"
-    },
-    {
-      "id": "4866605",
-      "time": "2026-05-07 22:12:47",
-      "tags": [
-        "市場"
-      ],
-      "text": "英偉達股價上漲至盤中最高點，漲幅達到2.2%。"
-    },
-    {
-      "id": "4866604",
-      "time": "2026-05-07 22:12:21",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲哈馬克：美聯儲會議上達成的共識遠比表面上看起來要多。"
-    },
-    {
-      "id": "mkt:019e02c8-4a77-766d-bbae-75a99ca493e3",
-      "time": "2026-05-07 22:12:18",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "FED'S HAMMACK: THERE WAS A LOT MORE CONSENSUS THAT IT APPEARS AT FED MEETING"
-    },
-    {
-      "id": "4866603",
-      "time": "2026-05-07 22:12:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "【歐洲議會官員：歐盟就美歐貿易協定達成一致已近在咫尺】歐盟資深立法者朗格（Bernd Lange）認為，一項旨在落實歐盟與美國貿易協定的協議有望在本月晚些時候敲定。作為歐洲議會的首席貿易談判代表，朗格稱，儘管歐盟機構在持續到5月7日凌晨的談判中未能達成妥協，但歐盟內部的協議已觸手可及。在5月7日的採訪中，朗格表示他有信心在5月12日或19日舉行的下一輪談判中達成協議。這將為歐洲議會6月份的全體會議投票掃清障礙，而那是法律生效前的最後步驟之一。"
-    },
-    {
-      "id": "mkt:019e02c7-ef48-766d-bbae-6d73336177de",
-      "time": "2026-05-07 22:11:53",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish",
-        "Nasdaq100"
-      ],
-      "text": "NVIDIA SHARES EXTEND GAIN TO SESSION-HIGH 2.2%"
-    },
-    {
-      "id": "mkt:019e02c7-c91d-766d-bbae-6011475b4bbd",
-      "time": "2026-05-07 22:11:47",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "US10Y"
-      ],
-      "text": "FED'S HAMMACK: BASELINE IS THAT RATES ON HOLD FOR LONG PERIOD"
-    },
-    {
-      "id": "4866602",
-      "time": "2026-05-07 22:11:43",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲的哈馬克表示，價格上漲正在損害消費者的購買力。"
-    },
-    {
-      "id": "mkt:019e02c7-9c0b-766d-bbae-5d045f77fdb5",
-      "time": "2026-05-07 22:11:36",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "FED'S HAMMACK: IRAN WAR CAN IMPACT BOTH SIDES OF FED'S MANDATE"
-    },
-    {
-      "id": "mkt:019e02c7-869d-766d-bbae-576da9a81bfd",
-      "time": "2026-05-07 22:11:30",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "U.S. ISSUES NEW IRAN-RELATED SANCTIONS -TREASURY DEPARTMENT WEBSITE"
-    },
-    {
-      "id": "4866601",
-      "time": "2026-05-07 22:11:10",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲官員哈馬克：伊朗戰事可能從雙重維度衝擊美聯儲政策使命目標。"
-    },
-    {
-      "id": "te:economy:548823",
-      "time": "2026-05-07 22:10:40",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Construction Spending",
-        "Importance 1"
-      ],
-      "text": "US Construction Spending Rises More than Expected — Construction spending in the US rose by 0.6% month-over-month in March 2026, following a 0.2% fall in the prior month and better than the expected 0.2% increase. This marked the first increase since December last year. Private construction increased by 0.8%, buoyed by a 1.7% gain in the residential segment, primarily new single-family projects (+2.7%) and, to a lesser extent, multi-family projects (+0.3%). Conversely, spending on nonresidential structures shrank by 0.2%, primarily manufacturing (-1.2%), commercial (-0.6%) and lodging (-0.5%). Meanwhile, public construction spending fell 0.2%, led by declines in both residential (-2.7%) and nonresidential (-0.2%) segments. Year-on-year, construction spending grew by 1.6%."
-    },
-    {
-      "id": "4866600",
-      "time": "2026-05-07 22:10:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "傑富瑞（Jefferies）將ARM目標股價上調至290美元，此前為210美元。"
     }
   ]
 }
