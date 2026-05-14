@@ -1,7 +1,95 @@
 {
-  "updated": "2026-05-14 14:36:37",
-  "count": 15445,
+  "updated": "2026-05-14 14:40:02",
+  "count": 15446,
   "items": [
+    {
+      "id": "te:markets:550579",
+      "time": "2026-05-14 14:39:25",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "ASX 200 Finishes Slightly Higher After Recent Losses — Australia’s S&P/ASX 200 edged up to close at 8,641 on Thursday, snapping a four-session losing streak as gains in consumer durables, process industries, and industrial services lifted sentiment. Optimism improved after President Donald Trump, speaking at a Beijing summit with Xi Jinping, said U.S.–China ties would become “better than ever before,” with talks set to cover trade, tariffs, Taiwan, and Iran through Friday. Locally, focus turned to the 2026/27 federal budget. Commonwealth Bank analysts noted sizeable savings alongside substantial new spending, but judged the plan unlikely to shift the Reserve Bank’s near-term policy outlook or meaningfully ease inflation. Three of the big four banks advanced, while BHP (1.1%), Macquarie (2.8%), and Insurance Australia Group (3.3%) also gained. In contrast, Lynas Rare Earths slumped 10.4% as investors unwound the geopolitical premium in critical minerals amid renewed U.S.–China diplomatic engagement."
+    },
+    {
+      "id": "mkt:019e2535-8ccf-799f-8003-ef61c7a13e9a",
+      "time": "2026-05-14 14:38:46",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "NVIDIA",
+        "Apple",
+        "2317.TW",
+        "Impact bullish",
+        "AAPL.O",
+        "NVDA.O"
+      ],
+      "text": "【Nvidia Partner Hon Hai Profit Jumps After AI Fuels Server Sales】Nvidia server partner Hon Hai Precision Industry reported stronger-than-expected first-quarter profit, underscoring resilient AI hardware demand. Net income rose to NT$49.9 billion, above estimates of NT$48.4 billion, while sales increased 30% to about NT$2.1 trillion. AI server demand drove growth in cloud and networking, helping offset higher costs and supply-chain risks tied to the Middle East crisis. Analysts said demand for Apple’s iPhone 17 series and entry-level iPhone 17e also supported consumer electronics growth, though margins may face pressure from rising AI server exposure."
+    },
+    {
+      "id": "4879289",
+      "time": "2026-05-14 14:38:31",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "以色列與埃爾位元系統公司簽署合同，升級 F-35增程效能。"
+    },
+    {
+      "id": "4879288",
+      "time": "2026-05-14 14:37:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國誠通等成立科技成果轉化創投基金 出資額10億】天眼查App顯示，近日，誠通蘇實（蘇州）科技成果轉化創業投資基金合夥企業（有限合夥）成立，執行事務合夥人為誠通科創私募基金管理（北京）有限公司，出資額10億人民幣，經營範圍為以私募基金從事股權投資、投資管理、資產管理等活動，創業投資。合夥人資訊顯示，該基金由中國誠通旗下誠通科創私募基金管理（北京）有限公司、誠通科創投資基金（北京）合夥企業（有限合夥）、江蘇蘇州高階裝備產業專項母基金（有限合夥）、蘇州工業園區二期產業投資基金（有限合夥）共同出資。"
+    },
+    {
+      "id": "te:economy:550576",
+      "time": "2026-05-14 14:37:25",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "India",
+        "Producer Prices Change",
+        "Importance 1"
+      ],
+      "text": "India Wholesale Price Inflation Highest Since 2022 — India’s wholesale prices increased 8.30% year-on-year in April 2026, accelerating sharply from a 3.88% rise in March and surpassing expectations of 4.4%. This marked the fastest growth since October 2022, driven by a faster rise in manufacturing and food costs and a sharp increase in fuel prices due to the impact of the Middle East crisis."
+    },
+    {
+      "id": "4879287",
+      "time": "2026-05-14 14:37:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏克蘭總統辦公室前主任葉爾馬克被審前羈押】當地時間14日，烏克蘭最高反腐敗法院對總統辦公室前主任安德烈·葉爾馬克採取審前羈押（即拘留）措施，羈押期限為60天，並允許其以1.4億格里夫納的保釋金獲得保釋。葉爾馬克當天表示，他將對最高反腐敗法院作出的審前羈押裁決提出上訴。（央視新聞）"
+    },
+    {
+      "id": "mkt:019e2534-36a9-799f-8003-e03ddfc95144",
+      "time": "2026-05-14 14:36:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "SEOUL KOSPI OFFICIALLY ENDS UP 1.75% AT HIGHEST CLOSE ON RECORD"
+    },
+    {
+      "id": "mkt:019e2533-e87c-799f-8003-dd492ac9ef6c",
+      "time": "2026-05-14 14:36:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "005930.KS",
+        "Impact bullish"
+      ],
+      "text": "SHARES OF SAMSUNG ELECTRONICS END UP 4.23% AT HIGHEST CLOSE ON RECORD"
+    },
     {
       "id": "4879286",
       "time": "2026-05-14 14:35:39",
@@ -139280,66 +139368,6 @@
         "公司"
       ],
       "text": "【龍芯中科在山東成立新公司 註冊資本2000萬】天眼查App顯示，近日，龍芯中科（山東）資訊科技有限公司成立，法定代表人為康麗鋒，註冊資本2000萬人民幣，經營範圍包括計算機軟硬體及外圍裝置製造、計算機軟硬體及輔助裝置批發、積體電路設計等，由龍芯中科（688047）全資持股。"
-    },
-    {
-      "id": "4865548",
-      "time": "2026-05-07 14:39:38",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4740美元/盎司，日內漲1.11%。"
-    },
-    {
-      "id": "4865547",
-      "time": "2026-05-07 14:39:21",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4750美元/盎司，日內漲1.20%。"
-    },
-    {
-      "id": "4865546",
-      "time": "2026-05-07 14:39:21",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4750美元/盎司，日內漲1.20%。"
-    },
-    {
-      "id": "4865545",
-      "time": "2026-05-07 14:39:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "【泰國總理：將與柬埔寨首相在東盟峰會期間會面】泰國總理阿努廷7日接受媒體採訪時表示，他將在第48屆東盟峰會期間與柬埔寨首相洪瑪奈會面。他同時重申，處理泰柬關係問題時將始終以維護泰國主權和泰國人民利益為首要條件。 阿努廷當天率代表團啟程前往菲律賓，參加定於本週舉行的第48屆東盟峰會。在被記者問及是否會與柬埔寨首相會面，阿努廷表示，“肯定會會面，但可能並非雙邊會晤”，菲律賓作為東道主，可能會安排小組討論。他同時指出，任何討論都必須有益於泰國，維護泰國主權和人民利益。（新華社）"
-    },
-    {
-      "id": "4865544",
-      "time": "2026-05-07 14:38:31",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨黃金日內漲1%，現報4738.55美元/盎司。"
-    },
-    {
-      "id": "4865543",
-      "time": "2026-05-07 14:37:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "【香港或於7月開始容許狗進入食肆 本月18日起接受申請】香港特區政府食物環境衛生署（食環署）今日（7日）公佈，將於5月18日開始接受食肆提交申請，預計在7月內開始容許狗只進入獲准的食肆。 食環署發言人表示，《2026年食物業（修訂）規例》將於明日（8日）正式生效，但需注意，食肆必須先提出申請，獲批准才可以讓狗只進入。食環署下星期會舉行多場簡介會，向飲食業界介紹規管和申請安排，並將於5月18日開始接受食肆提交容許狗只進入的申請。 發言人介紹，食環署預計於6月中旬批出首輪申請。為預留時間讓業界做好營運準備，食環署會於7月指定一日，從該日起容許狗只進入獲批准食肆，具體日期會於稍後公佈。在該日期前，任何人都不可攜狗只進入食肆（導盲犬及工作犬除外）。"
-    },
-    {
-      "id": "4865542",
-      "time": "2026-05-07 14:37:15",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【外交部：中方堅定支援古巴維護國家主權和安全】5月7日，外交部發言人林劍主持例行記者會。有記者就美方升級對古巴制裁相關問題提問。對此，林劍表示，對於美方出臺有關行政令，中方日前已經表明了立場。我願重申，美國變本加厲對古巴實施非法單邊制裁，嚴重侵犯古巴人民生存權、發展權，嚴重違反國際關係基本準則。中方堅定支援古巴維護國家主權和安全，堅決反對干涉古巴內政，敦促美方立即終止對古巴的封鎖制裁和任何形式的脅迫施壓。（央視新聞）"
     }
   ]
 }
