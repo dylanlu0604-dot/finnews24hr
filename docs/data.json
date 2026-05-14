@@ -1,7 +1,80 @@
 {
-  "updated": "2026-05-14 13:14:51",
-  "count": 15390,
+  "updated": "2026-05-14 13:18:13",
+  "count": 15394,
   "items": [
+    {
+      "id": "4879173",
+      "time": "2026-05-14 13:17:54",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "哈薩克央行：4 月黃金及外匯淨儲備規模達657.76 億美元，環比變動1.7%。"
+    },
+    {
+      "id": "mkt:019e24ea-f759-777f-be5c-4ca1f4684b64",
+      "time": "2026-05-14 13:17:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Xi, Trump Visit Beijing’s Temple of Heaven During State Visit】Xi Jinping and Donald Trump visited Beijing’s Temple of Heaven on May 14 during Trump’s state visit to China, CCTV reported. Xi greeted Trump at the Hall of Prayer for Good Harvests. The two leaders posed for a photo at the square in front of the hall and toured the historic site."
+    },
+    {
+      "id": "4879172",
+      "time": "2026-05-14 13:16:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "本田執行長：目標是到2028/29財年，透過汽車業務的結構調整及其他領域最佳化，積累超過7萬億日元的現金流。"
+    },
+    {
+      "id": "mkt:019e24ea-74f8-777f-be5c-41a338d94414",
+      "time": "2026-05-14 13:16:15",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "YIELD ON 30-YEAR JGB RISES TO 3.885%, HIGHEST ON RECORD"
+    },
+    {
+      "id": "mkt:019e24e9-cf53-777f-be5c-3be60105ef00",
+      "time": "2026-05-14 13:16:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "KRAKEN : PLAID US FUNDING EXPERIENCING DELAYS FOR USD DEPOSITS AND WITHDRAWALS DUE TO VENDOR ISSUE - STATUS PAGE"
+    },
+    {
+      "id": "4879171",
+      "time": "2026-05-14 13:15:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【習近平同美國總統特朗普參觀天壇】5月14日，國家主席習近平同來華進行國事訪問的美國總統特朗普參觀天壇。習近平在祈年殿迎接特朗普到訪。兩國元首在祈年殿廣場合影，並共同參觀祈年殿。(央視)"
+    },
+    {
+      "id": "mkt:019e24e9-0373-777f-be5c-3068de032182",
+      "time": "2026-05-14 13:15:10",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Crypto Concepts"
+      ],
+      "text": "KRAKEN: PLAID US FUNDING EXPERIENCING DELAYS FOR USD DEPOSITS AND WITHDRAWALS DUE TO VENDOR ISSUE - STATUS PAGE"
+    },
+    {
+      "id": "4879169",
+      "time": "2026-05-14 13:14:41",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "本田CEO：計劃到2028年將印度的摩托車產能從2026年的625萬輛提升至800萬輛；計劃在印度擴大摩托車生產基地，並以此為基地向包括阿根廷在內的中美洲和南美洲出口產品。無限期擱置加拿大電動汽車價值鏈專案，將對未來戰略重新考量。"
+    },
     {
       "id": "4879168",
       "time": "2026-05-14 13:13:26",
@@ -9,6 +82,14 @@
         "公司"
       ],
       "text": "本田執行長：目標是在截至2031年3月的財年末實現投入資本回報率達到10%。"
+    },
+    {
+      "id": "4879167",
+      "time": "2026-05-14 13:13:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "【菲警方稱參議院槍擊案嫌疑人已被捕 軍方否認軍人開槍】菲律賓馬尼拉南部警區14日發表宣告說，13日晚在參議院大樓區域內連開數槍的嫌疑人已被逮捕，該嫌疑人為現年44歲的菲律賓國家調查局司機。菲律賓軍方14日表示，軍方人員並未捲入該槍擊事件。警區宣告說，當晚事發後，駐守參議院的安保分隊人員將嫌疑人當場制服並逮捕。目前暫未有人員傷亡報告，當局正在對事件進一步調查。菲律賓武裝部隊總參謀長羅密歐·布勞納14日接受當地媒體採訪時表示，已與現場指揮官核實，軍方人員負責參議院安保工作，並未捲入參議院大樓槍擊事件，“昨晚開槍的人裡沒有軍人”。"
     },
     {
       "id": "4879166",
@@ -138721,50 +138802,6 @@
         "國際"
       ],
       "text": "【美國新反恐戰略稱歐洲為“滋生恐怖威脅的溫床”】美國6日出臺新的國家反恐戰略。在戰略報告中，美國政府指責歐洲成為“滋生恐怖威脅的溫床”，敦促其加大反恐力度。報告說，歐洲各國依然是美國首要且長期的反恐合作伙伴。然而，歐洲正面臨巨大威脅，它既是恐怖襲擊的目標，也是“滋生恐怖威脅的溫床”。“基地”組織、“伊斯蘭國”、販毒集團以及某些“國家行為體”，利用歐洲邊境管控的薄弱環節及其日益縮減的反恐資源，將歐洲變成“策劃針對歐洲及美國民眾襲擊的不受制約的行動空間”。報告說，富裕的北約盟國可能淪為恐怖分子籌集資金、提供後勤保障及招募人員的樞紐，這“絕對不可接受”。"
-    },
-    {
-      "id": "4865431",
-      "time": "2026-05-07 13:18:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "據報道，俄羅斯稱其部隊自週三晚以來已摧毀347架烏克蘭無人機。"
-    },
-    {
-      "id": "4865430",
-      "time": "2026-05-07 13:17:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "瑞士電信集團：2026年第一季度集團營收同比下降4.1%，至36.06億瑞郎。"
-    },
-    {
-      "id": "4865429",
-      "time": "2026-05-07 13:16:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "丸紅：伯克希爾哈撒韋投票權持股比例增至10.10%。"
-    },
-    {
-      "id": "4865428",
-      "time": "2026-05-07 13:16:03",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【韓國首爾公寓價格上漲 重點區域需求依然強勁】韓國房地產委員會週四公佈資料顯示，首爾公寓房價已連續第66周走高。截至5月4日當週，首爾公寓房價環比上漲0.15%，漲幅較前一週的0.14%小幅擴大。韓國房地產委員會表示，樓市整體呈現分化格局，但首爾公寓房價仍整體上行。部分割槽域市場仍處於觀望狀態，而大型公寓社群及交通樞紐周邊住宅持續受到穩健購房需求追捧，價格也屢創新高。韓國全國公寓房價整體上漲0.04%。"
-    },
-    {
-      "id": "te:markets:548592",
-      "time": "2026-05-07 13:15:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: South Korean Won Depreciates by 0.34% — Top currency loser is South Korean Won (-0.34%). Meanwhile, British Pound, Euro, Dollar Index and Japanese Yen were little changed."
     }
   ]
 }
