@@ -1,7 +1,36 @@
 {
-  "updated": "2026-05-15 04:19:25",
+  "updated": "2026-05-15 04:22:51",
   "count": 15138,
   "items": [
+    {
+      "id": "4880585",
+      "time": "2026-05-15 04:21:45",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【瑞穗：隨著天氣變暖，美國天然氣期貨上漲】美國天然氣期貨結算價走高，5月下半月天氣變暖的前景料將提振電力部門的需求，且周度庫存增幅符合常態。美國能源情報署報告稱，上週地下庫存增加850億立方英尺，達到22,900億立方英尺，這比五年平均水平高出1,400億立方英尺，即6.5%。瑞穗的Robert Yawger在一份報告中表示，如果氣溫高於正常水平的預測成真，“預計天然氣價格將向3美元水平反彈“。紐約商交所天然氣期貨結算價上漲1%，報每百萬英熱單位2.894美元。"
+    },
+    {
+      "id": "te:markets:550832",
+      "time": "2026-05-15 04:19:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Tech Powers US Stocks to Fresh Highs — The US stock market surged toward new records on Thursday, amid strength in AI-related companies and optimism surrounding the US-China summit in Beijing. The S&P 500 climbed 0.8% to cross 7,500 for the first time, while the Nasdaq gained 0.9% and the Dow crossed 50,000 for the first time since the start of the Iran war in February. Tech rallied, with Cisco Systems soaring 13% on upgraded revenue and earnings forecasts. Meanwhile, Nvidia jumped 4.4%, extending its monthly rally to 15% after the US cleared 10 Chinese firms to receive H200 chips."
+    },
+    {
+      "id": "4880583",
+      "time": "2026-05-15 04:19:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：一架小型飛機墜毀於俄亥俄州阿克倫市坎特伯雷圈區域一處民宅，引發爆炸並起火，目前傷亡情況不明。"
+    },
     {
       "id": "mkt:019e2824-0d7a-7bb5-b4d2-98d1e8ff70d1",
       "time": "2026-05-15 04:18:31",
@@ -136675,40 +136704,6 @@
         "Importance 0"
       ],
       "text": "Microchip Technology earnings above expectations at 0.57 USD — Microchip Technology (MCHP) released earnings per share at 0.57 USD, compared to market expectations of 0.5 USD."
-    },
-    {
-      "id": "mkt:019e041a-ec5a-7775-8cba-ad364d1d1791",
-      "time": "2026-05-08 04:22:13",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "FED'S WILLIAMS: US GOVERNMENT DEBT MUST BE ADDRESSED AT SOME POINT"
-    },
-    {
-      "id": "4867129",
-      "time": "2026-05-08 04:22:12",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲威廉姆斯：正密切關注政府債務。美國政府債務出現大量需求。"
-    },
-    {
-      "id": "mkt:019e041a-d31a-7775-8cba-a3a46341c991",
-      "time": "2026-05-08 04:22:07",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish",
-        "DXY",
-        "XAUUSD",
-        "Impact mixed"
-      ],
-      "text": "FED'S WILLIAMS: THERE IS ENOURMOUS DEMAND FOR US GOVERNMENT DEBT"
     }
   ]
 }
