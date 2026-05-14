@@ -1,7 +1,105 @@
 {
-  "updated": "2026-05-14 13:45:11",
-  "count": 15410,
+  "updated": "2026-05-14 13:48:33",
+  "count": 15416,
   "items": [
+    {
+      "id": "4879212",
+      "time": "2026-05-14 13:48:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "英偉達暗盤短線拉昇，現漲1.57%。"
+    },
+    {
+      "id": "4879211",
+      "time": "2026-05-14 13:48:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【OpenAI回應TanStack供應鏈攻擊：未發現使用者資料洩露】5月14日，OpenAI針對近期發生的針對熱門開源庫TanStack的“Mini Shai-Hulud”供應鏈攻擊事件釋出宣告表示，在監測到此次針對多款常用npm軟體包的惡意攻擊後，安全團隊已迅速排查了內部系統，目前尚未發現任何使用者資料被洩露或非法訪問的證據。OpenAI指出，雖然其核心服務未受直接破壞，但為了確保本地環境的安全，所有使用其官方應用程式的macOS使用者須在2026年6月12日前完成軟體更新。"
+    },
+    {
+      "id": "mkt:019e2506-f0d2-777f-be5c-9f304c58f185",
+      "time": "2026-05-14 13:47:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "The Trump Trade",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "【Chinese Stocks Fall as Markets Await Signals From Xi-Trump Talks】Chinese equities fell as Xi Jinping met Donald Trump in Beijing, with investors locking in profits after a tech-led rally and awaiting clearer signals from the talks. The CSI 300 dropped as much as 1.7%, underperforming Asia-Pacific peers, while technology shares led declines, pushing the ChiNext and STAR 50 down up to 2.5% and 2.6% after recent record highs. Strategists called it a “buy the news, sell the facts” move. Trump and Xi held a cordial opening, with Trump citing a “fantastic future” and Xi urging partnership over rivalry, while warning over Taiwan-related risks."
+    },
+    {
+      "id": "mkt:019e2506-ac08-777f-be5c-904819397d5d",
+      "time": "2026-05-14 13:47:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "Magnificent 7",
+        "Star Stocks",
+        "NVIDIA",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "SOURCES SAY THE US HAS APPROVED ABOUT 10 CHINESE COMPANIES TO PURCHASE NVIDIA H200 CHIPS"
+    },
+    {
+      "id": "mkt:019e2506-6559-777f-be5c-8de4fb5999d2",
+      "time": "2026-05-14 13:46:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump on U.S.–China Ties, Calls for “Best-Ever” Relations】U.S. President Donald Trump said he was honored to pay a state visit to China and described U.S.–China relations as positive, saying he and Chinese President Xi Jinping have maintained the longest and strongest relationship between leaders of the two countries, according to Xinhua. Trump said Xi is a great leader and China is a great country, adding that he has deep respect for Xi and the Chinese people. He described the meeting as a globally significant one. He said he is willing to work with Xi to strengthen communication and cooperation, properly manage differences, and “open the best U.S.–China relationship in history,” while building a more promising future for both countries."
+    },
+    {
+      "id": "4879210",
+      "time": "2026-05-14 13:46:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基表示，自週三午夜以來，俄羅斯已發射了超過1560架無人機。"
+    },
+    {
+      "id": "mkt:019e2505-9450-777f-be5c-86d557ec224f",
+      "time": "2026-05-14 13:45:59",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "005930.KS",
+        "Impact bearish"
+      ],
+      "text": "SAMSUNG ELC STARTS LOWERING CHIP PRODUCTION FROM THURSDAY AHEAD OF POSSIBLE STRIKE - MEDIA"
+    },
+    {
+      "id": "4879209",
+      "time": "2026-05-14 13:45:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "據報道，三星電子已於週四起下調晶片產量，為可能發生的罷工提前做準備。"
+    },
+    {
+      "id": "mkt:019e2505-4621-777f-be5c-7bbd30013111",
+      "time": "2026-05-14 13:45:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Xi–Trump Exchange Views on Global Flashpoints】Chinese President Xi Jinping and U.S. President Donald Trump exchanged views on major international and regional issues, including the Middle East situation, the Ukraine crisis and the Korean Peninsula, during talks at the Great Hall of the People in Beijing on May 14, according to Xinhua. The two leaders also agreed to support each other in hosting this year’s APEC Economic Leaders’ Meeting and the G20 Summit."
+    },
+    {
+      "id": "4879208",
+      "time": "2026-05-14 13:45:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "沙烏地阿拉伯4月份消費者價格指數同比上漲1.66%。"
+    },
     {
       "id": "4879207",
       "time": "2026-05-14 13:44:29",
@@ -138900,42 +138998,6 @@
         "國際"
       ],
       "text": "美國銀行將挪威國家石油（Equinor）的目標價從400挪威克朗下調至360挪威克朗。"
-    },
-    {
-      "id": "4865458",
-      "time": "2026-05-07 13:47:46",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美媒：沙特不滿迫使特朗普“突然”叫停“自由計劃”】美國疏導霍爾木茲海峽被困船隻通行的“自由計劃”，從啟動到暫停僅持續不到48小時。據美國媒體6日報道，由於該行動未提前與海灣盟友協調，引發沙烏地阿拉伯方面不滿，美國總統特朗普不得不“突然180度大轉彎”，叫停“自由計劃”，以便美方在關鍵空域的軍事准入權能夠得以恢復。美國全國廣播公司援引美國官員訊息報道說，特朗普3日在社交媒體發文稱美國於中東當地時間4日上午啟動“自由計劃”，令其海灣盟友感到意外，這激怒了沙特領導層。沙特通知美國，不允許美軍飛機從沙特蘇丹王子空軍基地起飛，也不允許美軍飛越沙特領空來支援“自由計劃”。上述官員稱，特朗普與沙特王儲兼首相穆罕默德之間的通話未能解決問題，迫使特朗普暫停“自由計劃”。(新華社)"
-    },
-    {
-      "id": "4865457",
-      "time": "2026-05-07 13:46:34",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "深證成指漲1.01%，現報15615.824點；上證指數漲0.38%，現報4175.854點；創業板指漲1.36%，現報3829.694點。"
-    },
-    {
-      "id": "4865456",
-      "time": "2026-05-07 13:46:13",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "科赫爾：若經濟形勢沒有改善，歐洲央行將考慮在未來幾個月加息。"
-    },
-    {
-      "id": "4865455",
-      "time": "2026-05-07 13:45:59",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行管委馬丁·科赫爾表示，歐洲央行將採取資料驅動、逐次會議決策的模式。"
     }
   ]
 }
