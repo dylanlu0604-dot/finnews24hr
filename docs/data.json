@@ -1,7 +1,39 @@
 {
-  "updated": "2026-05-14 22:49:18",
-  "count": 15479,
+  "updated": "2026-05-14 22:52:52",
+  "count": 15475,
   "items": [
+    {
+      "id": "4880308",
+      "time": "2026-05-14 22:52:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本廣島縣一船舶拆解廠發生火災】據日本共同社報道，日本廣島縣吳市一船舶拆解廠14日中午發生火災，目前暫無人員傷亡報告。當地政府已向在事發地附近居住的約650人釋出疏散指示。（新華社）"
+    },
+    {
+      "id": "4880307",
+      "time": "2026-05-14 22:52:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【頻準鐳射IPO將於5月21日上會，擬募資約14.1億元】5月14日晚，上交所網站顯示，上交所上市稽核委員會定於5月21日召開2026年第23次上市稽核委員會審議會議，稽核上海頻準鐳射科技股份有限公司（簡稱“頻準鐳射”）的科創板首發事項。"
+    },
+    {
+      "id": "4880306",
+      "time": "2026-05-14 22:51:32",
+      "tags": [
+        "資料"
+      ],
+      "text": "羅馬尼亞看守總理：通脹年率預計將在8月份從4月的兩位數降至約6%。"
+    },
+    {
+      "id": "4880305",
+      "time": "2026-05-14 22:49:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄國防部稱大規模打擊烏軍工企業】俄羅斯國防部14日在社交媒體上釋出通報說，過去一天，俄軍對烏克蘭軍工企業、烏軍使用的能源和運輸設施等實施了大規模打擊，以回應烏方對俄民用目標的襲擊。通報說，俄武裝力量使用包括“匕首”高超音速導彈在內的陸基、空基和海基高精度遠端武器以及攻擊型無人機，對烏克蘭軍工企業、軍用機場以及烏軍使用的燃料和運輸基礎設施發動了大規模打擊。所有預定目標均被擊中。（新華社）"
+    },
     {
       "id": "4880304",
       "time": "2026-05-14 22:48:58",
@@ -139908,81 +139940,6 @@
         "焦點"
       ],
       "text": "現貨白銀突破82美元/盎司，日內漲6.07%。"
-    },
-    {
-      "id": "4866680",
-      "time": "2026-05-07 22:52:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "賴特表示，隨著庫容被填滿，伊朗可能會繼續逐步縮減產量。"
-    },
-    {
-      "id": "4866679",
-      "time": "2026-05-07 22:52:42",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4760美元/盎司，日內漲1.48%。"
-    },
-    {
-      "id": "te:economy:548838",
-      "time": "2026-05-07 22:51:55",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Natural Gas Stocks Change",
-        "Importance 1"
-      ],
-      "text": "US Natural Gas Stocks Rise Less than Expected — US energy firms injected 63 billion cubic feet of natural gas into storage in the week ended May 1, below market expectations of 74 bcf. This compares with a 104 bcf build in the same week last year and a five-year average increase of 77 bcf. Total inventories rose to 2.205 trillion cubic feet, standing about 3.5% above year-ago levels and 6.7% above the seasonal average. In the previous week, ending April 24, storage levels increased by 79 bcf."
-    },
-    {
-      "id": "4866678",
-      "time": "2026-05-07 22:51:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【三星家電門店稱月底或下月中旬退市：“被國產壓得太厲害” 中國產線仍面向海外】三星家電在中國市場的調整正在進入門店一線。記者探訪發現，有門店工作人員稱，相關家電產品“被國產壓得太厲害”，預計月底或下月中旬不再銷售。不過，銷售端收縮並不意味著製造端撤離，三星家電相關產線仍在中國，產品更多面向海外市場。專家認為，這背後反映出中國家電市場競爭邏輯正在變化，外資品牌如果在本土化、產品創新和服務支撐上跟不上，就很難再僅憑品牌光環贏得消費者。（第一財經）"
-    },
-    {
-      "id": "4866677",
-      "time": "2026-05-07 22:50:51",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4770美元/盎司，日內漲1.62%。"
-    },
-    {
-      "id": "4866676",
-      "time": "2026-05-07 22:50:51",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4770美元/盎司，日內漲1.62%。"
-    },
-    {
-      "id": "4866675",
-      "time": "2026-05-07 22:50:02",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "國內滬銀期貨主力合約漲4.50%，報20094元/千克。"
-    },
-    {
-      "id": "te:markets:548837",
-      "time": "2026-05-07 22:49:52",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "US Natgas Prices Rise after EIA Data — US natural gas futures climbed more than 2% to $2.79 per MMBtu after the Energy Information Administration reported a smaller than expected storage build. Utilities injected 63 billion cubic feet of gas into storage in the week ended May 1, below forecasts of 74 bcf and lower than both last year’s 104 bcf increase and the five year average of 77 bcf. Production in the Lower 48 states is also trending lower, with output expected to fall to a one week low as weak spot prices have prompted producers including EQT Corporation to scale back supply while waiting for stronger prices. Weather forecasts suggest mostly seasonal conditions through May 22, with cooling demand beginning to exceed heating demand. Meanwhile, gas flows to major US LNG export plants eased from April’s record levels due to routine spring maintenance."
     }
   ]
 }
