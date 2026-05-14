@@ -1,7 +1,63 @@
 {
-  "updated": "2026-05-14 23:40:31",
-  "count": 15461,
+  "updated": "2026-05-14 23:44:02",
+  "count": 15454,
   "items": [
+    {
+      "id": "mkt:019e2727-6028-7112-a65c-4b29a7354570",
+      "time": "2026-05-14 23:42:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "BOE'S PILL: HOUSEHOLDS AND FIRMS ARE WORRIED ABOUT INFLATION"
+    },
+    {
+      "id": "4880374",
+      "time": "2026-05-14 23:42:25",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行首席經濟學家Huw Pill： 家庭與企業均對通脹形勢感到擔憂。"
+    },
+    {
+      "id": "te:markets:550801",
+      "time": "2026-05-14 23:41:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Rises for 2nd Session — The FTSE 100 edged higher on Thursday after gaining 0.6% in the previous session, though it underperformed other European markets as several major stocks traded ex-dividend, weighing on the index. Political developments also remained in focus, with leadership uncertainty increasing after Wes Streeting resigned as Keir Starmer’s health secretary, fuelling speculation about a possible challenge to the prime minister. National Grid gained more than 1% after pledging at least £70 billion over five years to upgrade UK and US energy networks, despite missing operating profit estimates. In contrast, Burberry fell more than 6% even after stronger-than-expected sales driven by China and the Americas and the appointment of William Jackson as its new chair. 3i dropped 14% after warning that Middle East tensions would hit its key investment in Action. UK economic data provided some support, with GDP rising 0.6% in Q1 and March growth beating expectations at 0.3% versus a forecast contraction."
+    },
+    {
+      "id": "4880373",
+      "time": "2026-05-14 23:41:46",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "哥倫比亞財長： 哥倫比亞正致力於穩定債務與GDP比率。  哥倫比亞央行需要降息。"
+    },
+    {
+      "id": "4880372",
+      "time": "2026-05-14 23:41:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "據報道：伊拉克議會未對規劃部、文化部、重建部、教育部、內政部部長候選人投出信任票。"
+    },
+    {
+      "id": "4880371",
+      "time": "2026-05-14 23:40:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "據福克斯新聞：美國邊境巡邏局局長班克斯辭職。"
+    },
     {
       "id": "mkt:019e2725-5dc7-7112-a65c-41d975546d8c",
       "time": "2026-05-14 23:40:14",
@@ -139719,132 +139775,6 @@
         "國際"
       ],
       "text": "雪佛龍公司：預計將繼續把其委內瑞拉資產產出的原油輸送至美國及國際市場。"
-    },
-    {
-      "id": "4866769",
-      "time": "2026-05-07 23:43:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "HAWKEYE 360股票指示價34.50 美元 / 35.50 美元，IPO 發行價 26 美元。"
-    },
-    {
-      "id": "te:markets:548864",
-      "time": "2026-05-07 23:43:23",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Canadian Dollar Steady on Lower Oil and Dovish Outlook — The Canadian dollar weakened toward the 1.635 mark per USD from the seven-week high of 1.358 on April 30th, losing some ground due to the outlook of a dovish Bank of Canada and lower crude oil prices. The US stated that it was close to reaching a peace deal with Iran that would restore oil supply through the Strait of Hormuz. The resulting decline in crude oil prices limited the outlook of foreign exchange inflows to Canada due to lower turnover on oil exports. Meanwhile, the latest round of GDP data flagged a slowdown in the economy following the start of the war, supporting the Bank of Canada's dovish tilt in its guidance, opting to prioritize growth as inflation was not yet entrenched. Preliminary GDP data reflected a stall from the previous month in March despite higher energy output."
-    },
-    {
-      "id": "mkt:019e031b-930b-7775-8cb4-33e44c9baa72",
-      "time": "2026-05-07 23:43:16",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "CVX.O",
-        "Impact bearish",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "CHEVRON CORP: RECENT GEOPOLITICAL CONDITIONS IN MIDDLE EAST HAVE IMPACTED, AND EXPECTED TO CONTINUE TO IMPACT, COMPANY’S BUSINESS"
-    },
-    {
-      "id": "4866768",
-      "time": "2026-05-07 23:43:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "雪佛智（Cheniere）執行長傑克·富斯科表示，科珀斯克里斯蒂液化天然氣專案三期擴建專案投產後產量超出預期，運營可靠性也更高。"
-    },
-    {
-      "id": "mkt:019e031b-5ac0-7775-8cb4-2d74444979ce",
-      "time": "2026-05-07 23:43:04",
-      "tags": [
-        "MKT News",
-        "AIR.PA"
-      ],
-      "text": "AIRBUS REPORTED 181 DELIVERIES FROM JANUARY TO APRIL"
-    },
-    {
-      "id": "4866767",
-      "time": "2026-05-07 23:42:39",
-      "tags": [
-        "宏觀",
-        "公司",
-        "國際"
-      ],
-      "text": "雪佛龍公司：近期中東地緣政治局勢已對公司業務造成影響，且預計將繼續產生影響。"
-    },
-    {
-      "id": "4866766",
-      "time": "2026-05-07 23:42:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "空中客車4月錄得28架飛機總訂單，交付飛機67架。"
-    },
-    {
-      "id": "mkt:019e031a-82d0-7ee6-80c2-000aca144ff7",
-      "time": "2026-05-07 23:42:09",
-      "tags": [
-        "MKT News",
-        "AIR.PA",
-        "Impact bullish"
-      ],
-      "text": "AIRBUS APRIL AIRCRAFT GROSS ORDERS 28 JETS"
-    },
-    {
-      "id": "mkt:019e031a-6d41-7ee6-80c1-fb2cf3f8023c",
-      "time": "2026-05-07 23:42:03",
-      "tags": [
-        "MKT News",
-        "AIR.PA",
-        "Impact bullish"
-      ],
-      "text": "AIRBUS APRIL AIRCRAFT DELIVERIES 67 JETS"
-    },
-    {
-      "id": "mkt:019e0319-e0fd-7775-8cb4-1645d6eb4e77",
-      "time": "2026-05-07 23:41:28",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "MEXICO CONSIDERING EXPORTING GAS TO GUATEMALA: SHEINBAUM"
-    },
-    {
-      "id": "4866765",
-      "time": "2026-05-07 23:41:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "墨西哥考慮向瓜地馬拉出口天然氣。"
-    },
-    {
-      "id": "4866764",
-      "time": "2026-05-07 23:41:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴基斯坦總理夏巴茲・謝里夫表示，他於週四與卡達首相兼外交大臣穆罕默德・本・阿卜杜勒拉赫曼・本・賈西姆・阿勒薩尼通電話，雙方就地區局勢、以及推動實現持久和平與穩定的相關努力交換了意見。"
-    },
-    {
-      "id": "mkt:019e0319-71e0-7ee6-80c1-f4c09f23f996",
-      "time": "2026-05-07 23:40:59",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "PANAMA PRESIDENT MULINO SAYS DETENTION OF PANAMANIAN-FLAGGED SHIPS IN CHINESE PORTS \"HAS BEGUN TO DECREASE\""
     }
   ]
 }
