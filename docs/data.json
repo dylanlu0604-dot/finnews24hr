@@ -1,7 +1,118 @@
 {
-  "updated": "2026-05-14 18:21:36",
-  "count": 15477,
+  "updated": "2026-05-14 18:25:05",
+  "count": 15476,
   "items": [
+    {
+      "id": "4879816",
+      "time": "2026-05-14 18:24:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿聯酋航空藉助GE航空航天的專業技術提升發動機維修零部件修復能力。"
+    },
+    {
+      "id": "4879815",
+      "time": "2026-05-14 18:24:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中芯國際：相較上個季度 公司對今年整體運營情況更加樂觀】中芯國際釋出一季報，一季度，公司實現銷售收入25.05億美元，環比增長0.7%；毛利率為20.1%，環比增加0.9個百分點。 二季度，公司給出的收入指引為環比增長14%到16%，毛利率指引為20%-22%，與上一季指引相比提升2個百分點。 基於客戶需求和在手訂單情況，相較於上個季度，公司對於今年的整體運營情況更加樂觀。公司將緊密跟蹤客戶需求，靈活調配資源，加快產品回應速度，確保在複雜環境中依然能保持高品質的交付。"
+    },
+    {
+      "id": "4879814",
+      "time": "2026-05-14 18:23:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "科翔股份：公司子公司廣州陶積電電子科技有限公司的主營業務為陶瓷印製電路板、陶瓷基板的研發和生產製造，但陶積電公司應用於AI領域的陶瓷基板目前仍處於研發打樣階段，在公司銷售收入佔比極小，且後續產品的量產和銷售，存在較大不確定性。"
+    },
+    {
+      "id": "te:economy:550698",
+      "time": "2026-05-14 18:22:54",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Kazakhstan",
+        "Unemployment Rate",
+        "Importance 1"
+      ],
+      "text": "Kazakhstan Jobless Rate Edges Down to 4.5% — The unemployment rate in Kazakhstan edged down to 4.5% in the first quarter of 2026, following a 4.6% growth in the previous five quarters. The number of unemployed individuals decreased by 7.4 thousand year-on-year to 446.1 thousand, while total employment rose by 360.1 thousand to 9.39 million. Hired employment expanded by 149.5 thousand, while self-employment fell by 40.9 thousand. The labor force totaled 9.84 million during the quarter. The employment rate reached 64.1% of the population aged 15 and over, equivalent to 95.5% of the labor force. Youth unemployment (aged 15-34) stood at 3%, slightly down from 3.1% in the previous quarter."
+    },
+    {
+      "id": "mkt:019e2602-e5a4-7aa5-b403-5a2dae46b158",
+      "time": "2026-05-14 18:22:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "S&P500",
+        "Impact bullish",
+        "CNH",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "CHINA'S XI, AT STATE BANQUET FOR TRUMP: MUTUAL RESPECT IS KEY TO STABLE CHINA-US TIES"
+    },
+    {
+      "id": "4879813",
+      "time": "2026-05-14 18:22:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局（USGS）：南桑威奇群島地區發生5.1 級中度地震。"
+    },
+    {
+      "id": "mkt:019e2602-d6d9-7aa5-b403-57bf0617ff01",
+      "time": "2026-05-14 18:22:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. TREASURY SECRETARY BESSENT ON IRAN: WE BELIEVE WE'RE AT POINT WHERE IRAN IS NOT PAYING SOLDIERS OR REPLENISHING WEAPONS STOCKS FROM ABROAD"
+    },
+    {
+      "id": "mkt:019e2602-d621-7aa5-b403-4f025f1e63e3",
+      "time": "2026-05-14 18:22:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "BA.O",
+        "Impact bullish"
+      ],
+      "text": "BOEING SHARES UP 1.1% PREMARKET AFTER BESSENT SAYS MIGHT SEE LARGE BOEING ORDERS FROM CHINA"
+    },
+    {
+      "id": "4879812",
+      "time": "2026-05-14 18:22:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "【高通美股盤前跌超5%】高通美股盤前跌超5%，現報201.985美元。"
+    },
+    {
+      "id": "4879811",
+      "time": "2026-05-14 18:21:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國人口普查局釋出2024-2025年度人口資料，資料顯示美國該年人口增長率降至約0.5%，為2021年以來的最低水平。"
+    },
+    {
+      "id": "4879810",
+      "time": "2026-05-14 18:21:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "【超威半導體美股盤前跌超2%】超威半導體美股盤前跌超2%，現報436.33美元。"
+    },
+    {
+      "id": "mkt:019e2601-8c42-7aa5-b403-44b4a9faf660",
+      "time": "2026-05-14 18:21:30",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "U.S. TREASURY SECRETARY BESSENT ON IRAN: WE BELIEVE STORAGE IS FULL"
+    },
     {
       "id": "mkt:019e2601-646d-7aa5-b403-3acab7f23697",
       "time": "2026-05-14 18:21:24",
@@ -19,6 +130,14 @@
         "Important"
       ],
       "text": "U.S. TREASURY SECRETARY BESSENT ON IRAN: SEEING MAIN LOADING FACILITY HAS HAD NO LOADINGS FOR PAST THREE DAYS"
+    },
+    {
+      "id": "4879809",
+      "time": "2026-05-14 18:21:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國競爭與市場管理局（CMA）：我們正評估相關潛在競爭問題，以及若作出最終指定決定，是否需要採取措施保障消費者的選擇權。"
     },
     {
       "id": "4879808",
@@ -139773,130 +139892,6 @@
         "市場"
       ],
       "text": "【盛視科技：股票交易異常波動 近期經營情況正常】盛視科技公告稱，公司股票於2026年4月30日、5月6日、5月7日連續3個交易日收盤價格漲幅偏離值累計超20%，屬異常波動。經核實，公司前期披露資訊無需更正補充，近期經營正常，內外部環境未變，公司、控股股東和實控人無應披露未披露重大事項。此外，公司擬分別採購不超11億元和60億元的IT裝置及零配件，後者尚需2025年年度股東會審議。"
-    },
-    {
-      "id": "4866127",
-      "time": "2026-05-07 18:24:55",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【恆譽環保：持股5%以上股東減持股份，權益比例降至4.99%】恆譽環保公告稱，截至2026年5月7日收盤，持股5%以上股東山東山發綠色產業投資母基金合夥企業（有限合夥）透過集中競價方式累計減持公司股份3.3萬股，佔公司總股本的比例由5.04%減少至4.99%。本次權益變動為履行此前減持計劃，不觸及要約收購，不會導致公司控股股東及實際控制人變化，也不會對公司治理及經營產生重大影響。目前，該股東減持計劃尚未實施完畢。"
-    },
-    {
-      "id": "4866126",
-      "time": "2026-05-07 18:24:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【惠天熱電：全資子公司訴訟執行異議裁定被撤銷】惠天熱電公告稱，全資子公司佳匯商貿與包鋼礦業買賣合同糾紛案件處於執行異議審查階段，涉案金額993.35萬元，2025年度公司已對該涉案金額全額計提預計負債。此前佳匯商貿執行異議申請被中級法院駁回，後向高階法院申請複議。近日，高階法院裁定撤銷中級法院異議裁定，指令其對執行異議進行審查。截至2026年5月6日，公司累計新增未披露小額訴訟案件2件，涉案金額合計0.92萬元。案件情況不明，對公司損益影響尚不能判斷。"
-    },
-    {
-      "id": "4866125",
-      "time": "2026-05-07 18:24:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "【涉疫“洪迪厄斯”號郵輪上有30名乘客在病例被發現前已上岸】針對出現漢坦病毒病例的“洪迪厄斯”號郵輪，涉事航運公司7日釋出的最新通報顯示，在船上病例被正式發現並採取隔離措施之前，已有30名乘客提前離船上岸。目前，世界衛生組織及相關國家衛生部門已針對這批人員展開緊急追蹤與健康監測，嚴防病毒進一步擴散。（央視新聞）"
-    },
-    {
-      "id": "4866124",
-      "time": "2026-05-07 18:24:20",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【ST豆神：股票交易異常波動 近期經營未發生重大變化】ST豆神公告稱，公司股票交易連續2個交易日（2026年5月6日、5月7日）內收盤價格跌幅偏離值累計超30%，屬異常波動。目前經營正常，內外部經營環境未發生重大變化，不存在應披露而未披露的重大資訊。控股股東及實控人竇昕先生承諾6月30日前將4660萬股股份質押至指定主體，預計近日完成。此外，董事趙伯奇和朱雅特擬分別增持不低於1200萬元和800萬元股份。"
-    },
-    {
-      "id": "te:economy:548749",
-      "time": "2026-05-07 18:24:10",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Latvia",
-        "Industrial Production",
-        "Importance 1"
-      ],
-      "text": "Latvia Industrial Production Rises in March — Latvia’s industrial production rose 9.5% year-on-year in March 2026, following an upwardly revised 6.4% increase in the previous month. Manufacturing output rebounded to 4.4% from a 2% decline in February, driven by gains in food products (8.7% vs 3.2%), chemicals and chemical products (15.9% vs 6.5%), and recoveries in wearing apparel (3.2% vs -14.4%), wood and wood products excluding furniture, manufacture of articles of straw and plaiting materials (0.5% vs -4.9%), printing and reproduction of recorded media (1.9% vs -9.5%), and rubber and plastic products (27.7% vs -13.5%). At the same time, output in electricity, gas, and supply continued to increase (34.6% vs 33.5%), while declines in mining and quarrying eased (-21.5% vs -37.2%). On a monthly basis, industrial production rebounded to 1.3% in March from a revised 0.6% decline in February."
-    },
-    {
-      "id": "4866123",
-      "time": "2026-05-07 18:23:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "郵輪運營商通報：30 名乘客在聖赫勒拿島離開漢坦病毒涉事郵輪。"
-    },
-    {
-      "id": "te:economy:548748",
-      "time": "2026-05-07 18:23:20",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Israel",
-        "Unemployment Rate",
-        "Importance 1"
-      ],
-      "text": "Israel Unemployment Ticks Up to 2.8% in March — Israel’s seasonally adjusted unemployment rate rose slightly to 2.8% in March 2026, up from an eight-month low of 2.7% in February. The non-seasonally adjusted jobless rate, however, fell to 2.5% from 2.6%, with the number of unemployed decreasing by 3,500 to 113,900. Meanwhile, the labor force participation rate declined to 62.0% from 62.4%, signaling a modest reduction in workforce engagement. The employment rate also dropped to 60.2% from 60.8% in February."
-    },
-    {
-      "id": "4866122",
-      "time": "2026-05-07 18:23:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗油氣出口商聯盟：中東戰事導致伊天然氣減產約10%】伊朗油氣出口商聯盟發言人哈米德·侯賽尼近日在接受卡達半島電視臺獨家專訪時表示，受美以伊戰事及海上封鎖影響，伊朗天然氣產量下降約10%，受損設施完全修復需耗時兩年。 侯賽尼指出，儘管國際油價飆升增加了伊朗的石油收入，但戰事與封鎖帶來的損害同樣顯著。由於南帕爾斯巨型氣田多處設施遇襲，伊朗天然氣產量一度減少約2億立方米。經採取裝置轉移和生產整合等措施，目前實際損失量控制在1億立方米左右。 在石油領域，侯賽尼警告說，美國實施的海上封鎖導致運輸成本攀升及貿易風險加劇。他表示，雖然目前原油產量尚未下降，但若封鎖持續，伊朗可能被迫削減原油產量並關停部分無國內需求的煉油產能。 侯賽尼還披露，德黑蘭市區的汽柴油儲備庫曾遭襲擊，導致市內儲油能力不足。在石化工業方面，主要損失集中在電力供應環節。此外，他認為透過鐵路運輸石油的替代方案在經濟上不可行。 目前，伊朗受損設施的重建工作已啟動。侯賽尼預計，石化和煉油行業將在未來數月內逐步恢復正常，但天然氣行業的受損具有持續性，完全修復仍需約兩年時間。 伊朗油氣出口商聯盟由伊朗私營企業與政府機構共同組成，成員包括石化、潤滑油及能源領域的主要大中型企業與機構。(新華社)"
-    },
-    {
-      "id": "4866121",
-      "time": "2026-05-07 18:23:06",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【盛視科技：採購IT裝置及零配件事項尚需提交公司年度股東會進行審議】盛視科技釋出異動公告，公司股票於2026年4月30日、2026年5月6日、2026年5月7日連續3個交易日收盤價格漲幅偏離值累計超過20%，根據《深圳證券交易所交易規則》的相關規定，屬於股票交易異常波動的情形。公司於2026年4月29日披露了《關於購買資產的公告》，公司擬採購總金額不超過人民幣60億元的IT裝置及零配件，該事項尚需提交公司於2026年5月11日召開的2025年年度股東會進行審議。除上述事項外，公司未發現其他可能對公司股票交易價格產生較大影響的媒體報道或市場傳聞。"
-    },
-    {
-      "id": "4866118",
-      "time": "2026-05-07 18:22:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "卡達外交部：首相兼外交大臣表示，我方期待美伊雙方達成協議，為兩國間所有懸而未決的問題提供永久性解決方案，併兼顧地區各國及國際社會的利益。"
-    },
-    {
-      "id": "4866117",
-      "time": "2026-05-07 18:22:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【博聞科技：股東上海德朋擬減持不超1%】博聞科技公告，持股6%的股東上海德朋當前持有1415.99萬股，將於公告披露15個交易日後起至2026年8月26日，透過集中競價減持不超過236.09萬股，比例不超1%。"
-    },
-    {
-      "id": "4866116",
-      "time": "2026-05-07 18:22:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "【芯朋微：已與光模組頭部客戶合作開發光模組專用電源產品系列】芯朋微(688508)5月7日在互動平臺回覆稱，公司已在光模組方案的電源解決方案進行佈局，已與光模組頭部客戶合作開發光模組專用電源產品系列。"
-    },
-    {
-      "id": "4866115",
-      "time": "2026-05-07 18:22:08",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【ST晨鳴：B股連續三日收盤價跌幅偏離值累計超12%】ST晨鳴公告稱，公司B股（證券程式碼：200488）於2026年4月30日、5月6日、5月7日連續三個交易日收盤價格跌幅偏離值累計超過12%，屬股票交易異常波動。經核查，公司前期披露資訊無更正、補充之處，未發現公共傳媒報道未公開重大資訊，生產經營正常，內外經營環境未變，公司、控股股東和實控人無應披露未披露重大事項，控股股東和實控人在異動期間無買賣公司股票行為。"
-    },
-    {
-      "id": "4866114",
-      "time": "2026-05-07 18:21:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "【貴州茅臺：2026年4月，公司累計回購股份28.91萬股】貴州茅臺公告，截至2026年4月底，公司已累計回購股份108.33萬股，佔公司總股本的比例為0.0865%，購買的最高價為1499.74元/股、最低價為1322.6元/股，已支付的總金額為15.21億元（不含交易費用）。2026年4月，公司累計回購股份28.91萬股，佔公司總股本的比例為0.0231%，購買的最高價為1454.4元/股、最低價為1400.52元/股，支付的金額為4.09億元。"
     }
   ]
 }
