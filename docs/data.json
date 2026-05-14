@@ -1,7 +1,19 @@
 {
-  "updated": "2026-05-15 03:21:43",
-  "count": 15147,
+  "updated": "2026-05-15 03:25:13",
+  "count": 15145,
   "items": [
+    {
+      "id": "te:economy:550830",
+      "time": "2026-05-15 03:24:40",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Argentina",
+        "Inflation Rate MoM",
+        "Importance 1"
+      ],
+      "text": "Argentina Monthly Inflation Slows in April — Consumer prices in Argentina rose 2.6% month-over-month in April 2026, easing from 3.4% in March and remaining close to forecasts of 2.5%. Regulated prices posted the largest increase, rising 4.7% amid higher transportation and electricity costs. Core CPI advanced 2.3%, supported by increases in housing rents and related expenses, as well as restaurant and dining prices. Seasonal prices were unchanged, as higher clothing prices linked to the seasonal transition were offset by declines in tourism and fruit prices. Among major categories, transport recorded the strongest monthly increase, rising 4.4% due to higher fuel prices, followed by education with a 4.2% gain. Food and non-alcoholic beverages (1.5%) and recreation and culture (1.0%) posted the smallest increases. Year-to-date inflation reached 12.3%."
+    },
     {
       "id": "4880528",
       "time": "2026-05-15 03:20:18",
@@ -136847,31 +136859,6 @@
         "Impact bearish"
       ],
       "text": "US PENSION FUND THREATENS TO DIVEST TOTALENERGIES STAKE OVER OFFSHORE WIND EXIT-FT"
-    },
-    {
-      "id": "4867091",
-      "time": "2026-05-08 03:24:43",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【美國務卿批准向中東國家出售價值258億美元的武器】當地時間5月7日，美國國務卿魯比奧批准向中東夥伴國出售數百枚防空攔截彈及其他武器，相關交易總額達258億美元。據悉，這一數字是上週政府宣佈達成這些協議時所披露金額的三倍。據美國國務院發言人透露，魯比奧於5月1日緊急批准了向巴林、以色列、科威特、卡達和阿拉伯聯合大公國進行的上述武器銷售。（央視新聞）"
-    },
-    {
-      "id": "4867090",
-      "time": "2026-05-08 03:24:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西總統盧拉：我們在鞏固巴美關係上邁出了重要一步。"
-    },
-    {
-      "id": "mkt:019e03e5-af78-7775-8cb9-9bb3ad917c5e",
-      "time": "2026-05-08 03:24:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "BRAZIL'S LULA: WE'VE TAKEN AN IMPORTANT STEP TO CONSOLIDATE BRAZIL-U.S. RELATIONS"
     }
   ]
 }
