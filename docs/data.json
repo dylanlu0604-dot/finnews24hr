@@ -1,7 +1,118 @@
 {
-  "updated": "2026-05-14 10:11:59",
+  "updated": "2026-05-14 10:15:29",
   "count": 15331,
   "items": [
+    {
+      "id": "4878946",
+      "time": "2026-05-14 10:15:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【電投綠能旗下氫能公司註冊資本從5000萬元增加至約1.16億元】企查查APP顯示，近日，長春吉電氫能有限公司發生工商變更，註冊資本從5000萬元增加至約1.16億元。企查查顯示，該公司成立於2021年3月，法定代表人於杭，由電投綠能全資持股。"
+    },
+    {
+      "id": "te:markets:550506",
+      "time": "2026-05-14 10:14:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Shanghai Stocks Hover Near 11-Year High — The Shanghai Composite fell 0.2% to around 4,233, though it remained near its strongest level since July 2015, while the Shenzhen Component declined 0.9% to 15,950, as investors closely monitored the highly anticipated summit between US President Donald Trump and Chinese President Xi Jinping. The meeting, viewed as a pivotal moment for US-China relations, is expected to address a broad range of sensitive issues, including the Iran conflict, trade and tariffs, AI, and Taiwan. Trump is reportedly expected to urge Beijing to use its ties with Tehran to help reopen the Strait of Hormuz, though he has downplayed the Iran conflict as the main focus of talks. The long-anticipated summit had been delayed for weeks due to tensions surrounding the Iran conflict, with investors now watching for signs of a diplomatic breakthrough that could bolster global market sentiment. Notable laggards included Cambricon Technologies (-2.2%), Luxshare Precision Industry (-4.1%), and Shennan Circuits (-4.0%)."
+    },
+    {
+      "id": "mkt:019e2443-aa78-777f-be5a-33d46f086387",
+      "time": "2026-05-14 10:14:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "Japan & APAC"
+      ],
+      "text": "JAPAN'S TAKAICHI MULLS BRITAIN, ITALY VISITS BEFORE G7 IN FRANCE IN JUNE-KYODO"
+    },
+    {
+      "id": "4878945",
+      "time": "2026-05-14 10:14:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【京東方旗下材料科技公司增資至9.2億】企查查APP顯示，近日，北京京東方材料科技有限公司發生工商變更，註冊資本由5.2億元增至9.2億元。企查查資訊顯示，該公司成立於2024年，經營範圍包含：新材料技術研發；新材料技術推廣服務；化工產品銷售（不含許可類化工產品）；電子專用材料銷售，由京東方A全資持股。"
+    },
+    {
+      "id": "4878944",
+      "time": "2026-05-14 10:14:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺積電：德國晶圓廠目前正在建設中，並按計劃推進。計劃首先提供 28 奈米和 22 奈米制程，隨後將推出 16 奈米和 12 奈米制程。"
+    },
+    {
+      "id": "4878943",
+      "time": "2026-05-14 10:13:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "臺積電：在日本的第一座晶圓廠目前已開始量產 22 奈米和 28 奈米產品。由於市場需求強勁，第二座晶圓廠的計劃已升級為 3 奈米制程。"
+    },
+    {
+      "id": "4878942",
+      "time": "2026-05-14 10:13:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺積電預計，到2026年，亞利桑那州的產量將同比增長1.8倍，良率與臺灣的產量相當。"
+    },
+    {
+      "id": "te:markets:550505",
+      "time": "2026-05-14 10:13:27",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Hong Kong Stocks Extend Rally — The Hang Seng Index surged 160 points, or 0.6%, to 26,550 on Thursday, extending gains from the previous session as optimism over easing US-China tensions lifted sentiment across Hong Kong equities. Markets rose as investors priced in reduced geopolitical risk and potential stabilisation of US-China relations ahead of the Trump-Xi summit in Beijing. The advance also tracked broader regional strength, with technology-related stocks acting as the main driver of the rally. Tencent Holdings led gains, up 2.6%. Among other notable movers were Meituan Class (3.9%), InnoScience Technology (3.4%), Kuaishou Technology (4.8%), Xiaomi Corporation (2.2%), and Semiconductor Manufacturing International Corporation (1.6%). However, markets remain sensitive to developments in US economic data, Federal Reserve interest rate expectations, and any updates on US-China diplomatic talks, which could quickly shift momentum in either direction."
+    },
+    {
+      "id": "4878941",
+      "time": "2026-05-14 10:13:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "臺積電：在美國亞利桑那州的第一座晶圓廠已投產。第二座晶圓廠的裝置搬遷計劃於2026年下半年進行。第三座晶圓廠的建設正在進行中。第四座晶圓廠以及該廠的首座先進封裝設施預計將於今年開工建設。"
+    },
+    {
+      "id": "4878940",
+      "time": "2026-05-14 10:12:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺積電：預計2022年至2026年間，人工智慧加速器晶圓的需求將增長11倍。"
+    },
+    {
+      "id": "4878939",
+      "time": "2026-05-14 10:12:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺積電表示，其先進封裝技術CoWoS（晶片封裝於晶圓基板上）的產能複合年增長率預計在2022年至2027年間將超過80%。"
+    },
+    {
+      "id": "te:markets:550502",
+      "time": "2026-05-14 10:12:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Taiwan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Taiwan Stocks Near Record High as Tech Shares Rally — The TAIEX, Taiwan’s benchmark stock index, climbed 552 points, or 1.4%, to near a record peak of 41,953 in Thursday morning trade, halting losses from the previous session and buoyed mainly by electronic technology stocks as optimism over AI infrastructure demand fueled sentiment. The broader index tracked record highs in the S&P 500 and the Nasdaq Composite overnight, supported by continued strength in technology shares. The electronic technology sector rose 1.1%, with Taiwan Semiconductor Manufacturing Company (TSMC), which accounts for more than 40% of the total market value, up 1.8%. Markets are also keeping a close eye on a meeting between US President Donald Trump and Chinese President Xi Jinping later this week. Other early gainers included Delta Electronics (3.0%), ASE Technology Holding (1.8%), and MediaTek (0.4%)."
+    },
     {
       "id": "4878938",
       "time": "2026-05-14 10:11:48",
@@ -137959,116 +138070,6 @@
         "國際"
       ],
       "text": "【滙豐上調香港2026年經濟增長預期至3.8%】滙豐環球投資研究5月7日釋出最新香港經濟報告，將2026年及2027年香港本地生產總值（GDP）增長預期分別上調至3.8%及3.0%。報告指出，本地增長正在鞏固；鑑於香港的經濟結構，預期中東衝突影響相對有限；“安全港”和互聯互通吸引資本和人才，財富拉動消費，人工智慧推動投資。（介面新聞）"
-    },
-    {
-      "id": "4864787",
-      "time": "2026-05-07 10:15:25",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【第三輪第六批中央生態環境保護督察全面啟動】為深入貫徹黨的二十大和二十屆歷次全會精神，認真落實四中全會部署，貫徹落實習近平生態文明思想和習近平總書記重要指示批示精神，根據《生態環境保護督察工作條例》規定，經黨中央、國務院批准，第三輪第六批中央生態環境保護督察全面啟動。組建7箇中央生態環境保護督察組，分別對遼寧、吉林、黑龍江、廣東、廣西、西藏、新疆7省（區）和新疆生產建設兵團開展督察，進駐時間1個月。"
-    },
-    {
-      "id": "te:markets:548548",
-      "time": "2026-05-07 10:15:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Asia FX Updates: South Korean Won Drops by 0.30% — Top currency loser is South Korean Won (-0.30%). Gains are led by Chinese Yuan (0.13%) and Japanese Yen (0.10%)."
-    },
-    {
-      "id": "4864785",
-      "time": "2026-05-07 10:14:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "菲律賓經濟計劃部長：未來數月政府支出將提速。"
-    },
-    {
-      "id": "4864781",
-      "time": "2026-05-07 10:14:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "菲律賓經濟計劃部長：我們將聚焦在接下來幾個季度重拾更強增長動能。"
-    },
-    {
-      "id": "4864778",
-      "time": "2026-05-07 10:14:06",
-      "tags": [
-        "市場"
-      ],
-      "text": "【煤炭板塊持續走弱 中煤能源等多股跌超5%】煤炭板塊盤中持續走弱，昊華能源跌超7%，中煤能源、兗礦能源、陝西煤業、晉控煤業、恆源煤電等均跌超5%。"
-    },
-    {
-      "id": "4864773",
-      "time": "2026-05-07 10:13:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "菲律賓經濟計劃部長：正在為厄爾尼諾現象發展可能帶來的影響做準備。"
-    },
-    {
-      "id": "te:economy:548547",
-      "time": "2026-05-07 10:13:14",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Philippines",
-        "GDP Annual Growth Rate",
-        "Importance 2"
-      ],
-      "text": "Philippine GDP Growth Slows in Q1 — The Philippines’ GDP expanded 2.8% year-on-year in Q1 2026, missing expectations of a 3.5% growth, and down from a 3% expansion in Q4. This marked the softest economic growth since the contraction in Q1 2021, as the Middle East war-driven oil shock compounded pressures from a major infrastructure graft scandal, pushing the Philippine economy into one of its weakest stretches in 16 years outside the pandemic period."
-    },
-    {
-      "id": "4864769",
-      "time": "2026-05-07 10:13:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "第三輪第六批中央生態環境保護督察全面啟動。"
-    },
-    {
-      "id": "4864768",
-      "time": "2026-05-07 10:12:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "菲律賓基準股指漲幅一度達2.3%，報6106.96點，創4月10日以來新高。"
-    },
-    {
-      "id": "te:markets:548546",
-      "time": "2026-05-07 10:12:53",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Shanghai Stocks Hit New 2-Month High — The Shanghai Composite edged up 0.2% to 4,169 on Thursday, hitting a new two-month high, while the Shenzhen Component was flat near 15,458, supported by growing hopes of a de-escalation in the Middle East. Reports indicated the US and Iran are nearing a memorandum to end hostilities, potentially paving the way for the gradual reopening of the Strait of Hormuz. However, Trump warned that military action could resume if Tehran fails to comply, while Iran has yet to formally respond. Attention is also turning to a highly anticipated summit next week between Trump and Chinese President Xi Jinping. Meanwhile, China’s financial regulator reportedly told major state-owned banks to halt new lending to five refiners sanctioned by the US over alleged ties to Iran’s oil trade, despite earlier guidance from China’s Commerce Ministry urging firms to ignore US sanctions. Top gainers included China Life Insurance (2.1%), Zijin Mining Group (2.1%), and Victory Giant Technology (2.7%)."
-    },
-    {
-      "id": "4864767",
-      "time": "2026-05-07 10:12:46",
-      "tags": [
-        "央行",
-        "公司",
-        "觀點"
-      ],
-      "text": "【央行定於5月10日發行2026吉祥文化金銀紀念幣一套】央行公告，中國人民銀行定於2026年5月10日發行2026吉祥文化金銀紀念幣一套。該套紀念幣共6枚，其中金質紀念幣3枚，銀質紀念幣3枚，均為中華人民共和國法定貨幣。"
-    },
-    {
-      "id": "4864765",
-      "time": "2026-05-07 10:12:28",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "Clean Max Enviro能源環境解決方案有限公司：蘋果與Clean Max合作，約100億盧比投資推動印度可再生能源發展。"
     }
   ]
 }
