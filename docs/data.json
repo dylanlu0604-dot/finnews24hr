@@ -1,7 +1,63 @@
 {
-  "updated": "2026-05-15 00:13:59",
-  "count": 15429,
+  "updated": "2026-05-15 00:17:29",
+  "count": 15430,
   "items": [
+    {
+      "id": "mkt:019e2746-f7d8-7bb5-b4d0-ba24a228383e",
+      "time": "2026-05-15 00:16:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CIRCLE INTERNET SHARES QUICKLY TURN POSITIVE, UP 1.5% AS CLARITY ACT MARKUP UNDERWAY"
+    },
+    {
+      "id": "mkt:019e2746-ba0e-7bb5-b4d0-b762289882af",
+      "time": "2026-05-15 00:16:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK'S SIMONS: I BELIEVE BURNHAM IS THE ONE TO LEAD LABOUR"
+    },
+    {
+      "id": "mkt:019e2746-5b84-7bb5-b4d0-ab08f2357cab",
+      "time": "2026-05-15 00:16:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "UK LAWMAKER JOSH SIMONS' RESIGNATION PAVES WAY FOR GREATER MANCHESTER MAYOR BURNHAM TO CONTEST PARLIAMENTARY BY-ELECTION"
+    },
+    {
+      "id": "mkt:019e2746-0d59-7bb5-b4d0-a61565365af7",
+      "time": "2026-05-15 00:16:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "UK LAWMAKER JOSH SIMONS GIVES UP PARLIAMENTARY SEAT IN GREATER MANCHESTER - POST ON X"
+    },
+    {
+      "id": "te:markets:550813",
+      "time": "2026-05-15 00:15:30",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "DAX Closes at 1-Week High — Frankfurt's DAX 40 closed about 1.3% firmer at a one-week high of 24,453 on Thursday, marking the second day of advances and outperforming its regional peers. Market sentiment was bolstered by optimism surrounding the Trump-Xi summit and sustained enthusiasm for AI and technology. The White House said US President Trump and Chinese President Xi Jinping agreed on the need to keep the Strait of Hormuz open and block Iran’s nuclear ambitions, though Beijing reiterated its firm stance on Taiwan, warning of potential conflict if mishandled. Xi also told top US tech CEOs that China will open up “even more.” Among key movers, Infineon and SAP posted the biggest gains, rising 5.6% and 3.4%, respectively. Siemens also advanced 2.3% after revealing plans to acquire several core business units from Mermec Group."
+    },
+    {
+      "id": "4880400",
+      "time": "2026-05-15 00:15:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：英國議員喬希・西蒙斯辭去大曼徹斯特地區的議會席位。"
+    },
     {
       "id": "4880399",
       "time": "2026-05-15 00:12:54",
@@ -139540,47 +139596,6 @@
         "其他"
       ],
       "text": "沙特主權財富基金PIF為70億美元三部分債券的發行給出最終條款。"
-    },
-    {
-      "id": "4866823",
-      "time": "2026-05-08 00:17:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美伊或接近達成臨時協議 美核心關切被擱置】路透社7日援引多名訊息人士的說法報道，美國和伊朗可能接近達成一項臨時協議。美方此前提出的多項核心要求，如伊朗暫停核活動、限制導彈計劃、停止支援所謂“地區代理人”等，均未納入協議草案。\n\n報道稱，這項仍在醞釀中的協議以一份僅有一頁的短期備忘錄為核心，而非一份全面和平協議。這反映出雙方之間的深刻分歧，也意味著該協議只是一個過渡步驟。知情官員表示，伊朗正在審議這份旨在停止交戰、但將最具爭議的問題留待日後解決的協議草案。\n\n根據訊息人士和官員的說法，該協議將包含三個階段：首先正式結束戰事，其次解決霍爾木茲海峽危機，最後啟動為期30天的談判視窗，以爭取達成一份更廣泛的協議。\n\n報道說，該協議未能解決美方提出的諸如伊朗暫停核活動、重新開放霍爾木茲海峽等關鍵要求。此外，協議未提及美國曾提出但遭伊朗拒絕的多項要求，例如限制伊朗導彈計劃，以及要求伊朗停止對黎巴嫩真主黨等所謂“代理人武裝”的支援。（新華社）"
-    },
-    {
-      "id": "4866822",
-      "time": "2026-05-08 00:16:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗表示，目前討論的核心議題為停火以及地區局勢穩定。"
-    },
-    {
-      "id": "4866821",
-      "time": "2026-05-08 00:16:39",
-      "tags": [
-        "市場"
-      ],
-      "text": "LME期銅跌0.1%，報13372.50美元/噸。LME期鉛漲0.1%，報1980美元/噸，一度漲至1990美元創2月27日以來盤中新高。LME期鋁漲1.0%，報3488美元/噸。LME期鋅漲1.6%，報3455美元/噸。LME期錫漲0.5%，報54105美元/噸。LME期鎳跌0.6%，報19090美元/噸。"
-    },
-    {
-      "id": "4866820",
-      "time": "2026-05-08 00:16:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿根廷總統米萊表示將向國會提交針對各行業的“超級裡吉”投資計劃。"
-    },
-    {
-      "id": "mkt:019e0339-71cf-7775-8cb5-2dccf075fbf2",
-      "time": "2026-05-08 00:15:56",
-      "tags": [
-        "MKT News",
-        "Macro & Rates"
-      ],
-      "text": "SAUDI ARABIA'S PIF SETS FINAL TERMS FOR $7 BLN THREE-PART BOND -IFR"
     }
   ]
 }
