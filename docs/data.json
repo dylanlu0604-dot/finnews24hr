@@ -1,7 +1,88 @@
 {
-  "updated": "2026-05-14 14:29:45",
+  "updated": "2026-05-14 14:33:12",
   "count": 15450,
   "items": [
+    {
+      "id": "4879281",
+      "time": "2026-05-14 14:32:05",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【日韓股市收盤漲跌互現】日經225指數收跌0.98%，報62654.05點。韓國綜指收漲1.62%，報7971.42點。"
+    },
+    {
+      "id": "4879280",
+      "time": "2026-05-14 14:31:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【41款移動應用違法違規收集使用個人資訊被通報】經公安部計算機資訊系統安全產品質量監督檢驗中心檢測，41款移動應用存在一項或者多項違法違規收集使用個人資訊情況。20款移動應用未公開個人資訊收集使用規則：《享充充電》（微信小程式）、《小牛充充充電》（微信小程式）、《智惠充電Pro》（微信小程式）、《家用充電樁助手》（微信小程式）、《白駒充電-兩輪版》（微信小程式）、《廣汽能源》（支付寶小程式）、《UU充電樁》（微信小程式）、《騰付充電單車》（微信小程式）、《領樁充電》（微信小程式）、《帝鵬充電》（微信小程式）、《星星充電》（支付寶小程式）、《速充充電》（微信小程式）、《開鑫充電》（微信小程式）、《智爾充電》（微信小程式）、《安易充電》（微信小程式）、《聯聯充電Pro》（支付寶小程式）、《驢子充電》（微信小程式）等。"
+    },
+    {
+      "id": "mkt:019e252e-c724-799f-8003-d37784fc05d4",
+      "time": "2026-05-14 14:31:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "KOSPI INDEX CLOSED UP 1.62%"
+    },
+    {
+      "id": "4879279",
+      "time": "2026-05-14 14:31:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度政府資料顯示：印度4月製造業通脹同比為4.62%。"
+    },
+    {
+      "id": "mkt:019e252e-a626-799f-8003-cf6607c1b5a7",
+      "time": "2026-05-14 14:31:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "NIKKEI 225 CLOSED DOWN 0.98%"
+    },
+    {
+      "id": "4879278",
+      "time": "2026-05-14 14:31:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度政府公佈：該國4月批發價格指數（WPI）同比通脹率為8.30%，路透調查預期為4.40%；燃料價格指數同比增長24.71%。"
+    },
+    {
+      "id": "4879277",
+      "time": "2026-05-14 14:30:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【Asymmetric：日本已具備引發一場外匯危機的全部要素】Asymmetric Advisors認為，隨著當局一次次入市干預，官方支撐日元的效果不斷減弱。“一旦外匯市場意識到只有日本單打獨鬥地進行干預，就可能嗅到機會，開始做空日元，並再次試探日本財務省強調的160阻力位水平，”擁有37年日本市場經驗的策略師Amir Anvarzadeh表示。“他們每次從這裡進行干預，影響可能都會越來越小，因為賣方會開始圍獵這一貨幣”。"
+    },
+    {
+      "id": "4879275",
+      "time": "2026-05-14 14:30:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【5月14日：“農產品批發價格200指數”比昨天下降0.04個點】據農業農村部監測，5月14日“農產品批發價格200指數”為115.23，比昨天下降0.04個點，“菜籃子”產品批發價格指數為115.66，比昨天下降0.05個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為14.93元/公斤，與昨天持平；牛肉66.33元/公斤，比昨天下降0.4%；羊肉64.16元/公斤，比昨天下降0.5%；雞蛋9.26元/公斤，比昨天上升1.4%；白條雞16.80元/公斤，比昨天上升0.3%。重點監測的28種蔬菜平均價格為4.20元/公斤，比昨天上升0.2%；重點監測的6種水果平均價格為7.84元/公斤，比昨天上升0.3%。鯽魚20.21元/公斤，比昨天上升0.4%；鯉魚14.87元/公斤，比昨天下降1.2%；白鰱魚10.45元/公斤，比昨天上升3.7%；大帶魚41.88元/公斤，比昨天上升0.5%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與昨天相比價格升幅前五名的是南瓜、蔥頭、白鰱魚、巨峰葡萄和西紅柿，幅度分別為4.7%、3.9%、3.7%、2.1%和2.1%；價格降幅前五名的是菠蘿、菠菜、西葫蘆、芹菜和鴨梨，幅度分別為2.6%、1.8%、1.6%、1.4%和1.3%。"
+    },
+    {
+      "id": "te:markets:550566",
+      "time": "2026-05-14 14:30:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Nikkei 225 Index Closes 0.69% Lower — The Nikkei 225 Index dropped 438 points or 0.69 percent on Thursday to close at 62834 points. Losses were led by Fujikura (-19.10%), Mitsui Engineering & Shipbuilding (-16.19%) and Mitsubishi Materials (-13.16%). Offsetting the fall, top gainers were Tokai Carbon (17.64%), Sumitomo Osaka Cement (10.99%) and Nidec (10.80%)."
+    },
     {
       "id": "4879274",
       "time": "2026-05-14 14:29:05",
@@ -139292,91 +139373,6 @@
         "國際"
       ],
       "text": "市場訊息：日本首相高市早苗將於5月19日訪問韓國。"
-    },
-    {
-      "id": "4865530",
-      "time": "2026-05-07 14:32:32",
-      "tags": [
-        "市場"
-      ],
-      "text": "【報告：紐商所黃金期貨看漲動能已恢復】RHB Retail Research的Joseph Chai在一份研究報告中表示，根據日線圖，紐商所黃金期貨的看漲動能已經恢復。該分析師表示，該大宗商品正經歷積極的價格走勢。明確突破每盎司4,700美元的第一阻力位後，隨後的焦點將轉向每盎司4,850美元的阻力位。不過，Chai表示，20日和50日簡單移動平均線呈下降趨勢，並繼續對該期貨施加下行壓力。該分析師補充說，在每盎司5,000美元處可能會出現強勁的拋售壓力。現貨黃金上漲0.5%，報每盎司4,715.14美元。"
-    },
-    {
-      "id": "4865529",
-      "time": "2026-05-07 14:32:23",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4730美元/盎司，日內漲0.87%。"
-    },
-    {
-      "id": "4865528",
-      "time": "2026-05-07 14:32:16",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4740美元/盎司，日內漲1.00%。"
-    },
-    {
-      "id": "4865527",
-      "time": "2026-05-07 14:32:16",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4740美元/盎司，日內漲1.00%。"
-    },
-    {
-      "id": "4865526",
-      "time": "2026-05-07 14:31:15",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【日韓股市集體收漲】日經225指數收漲5.58%，報62833.84點，續創歷史新高，韓國綜指收漲1.43%，報7490.04點。"
-    },
-    {
-      "id": "4865525",
-      "time": "2026-05-07 14:31:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "【5月7日：“農產品批發價格200指數”比昨天下降0.15個點】據農業農村部監測，5月7日“農產品批發價格200指數”為115.96，比昨天下降0.15個點，“菜籃子”產品批發價格指數為116.53，比昨天下降0.17個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為15.12元/公斤，比昨天下降0.5%；牛肉66.34元/公斤，比昨天下降0.6%；羊肉63.80元/公斤，比昨天下降0.8%；雞蛋8.78元/公斤，比昨天下降0.6%；白條雞16.74元/公斤，比昨天下降3.9%。重點監測的28種蔬菜平均價格為4.29元/公斤，比昨天上升0.9%；重點監測的6種水果平均價格為7.59元/公斤，比昨天下降1.3%。鯽魚20.19元/公斤，比昨天下降0.8%；鯉魚14.74元/公斤，比昨天下降1.4%；白鰱魚10.49元/公斤，比昨天下降1.5%；大帶魚40.49元/公斤，比昨天下降6.1%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與昨天相比價格升幅前五名的是菠菜、蔥頭、菜花、生菜和芹菜，幅度分別為3.9%、3.2%、3.2%、2.6%和2.3%；價格降幅前五名的是大帶魚、菠蘿、鴨梨、白條雞和大黃花魚，幅度分別為6.1%、5.2%、4.8%、3.9%和3.4%。"
-    },
-    {
-      "id": "te:markets:548613",
-      "time": "2026-05-07 14:30:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Nikkei 225 Index Closes 5.91% Higher — The Nikkei 225 Index went up by 3517 points or 5.91 percent on Thursday to close at 63030 points. The rise was led by Softbank (18.44%), Mitsui Mining & Smelting (17.05%) and Seiko Epson (15.16%)."
-    },
-    {
-      "id": "4865524",
-      "time": "2026-05-07 14:30:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期銀突破79美元/盎司，日內漲2.24%。"
-    },
-    {
-      "id": "te:markets:548612",
-      "time": "2026-05-07 14:29:46",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "South Korea",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "South Korean Won Trims Gains — The South Korean won fell half a percent to around 1,454 per dollar on Thursday, trimming some gains but remaining near its strongest level in over two months, as investors booked profits after the recent rally. The currency had strengthened recently on improved global risk sentiment and robust domestic equity performance. Despite the modest pullback, broader support remained intact as signs of progress in US–Iran peace negotiations helped limit demand for the dollar and supported Asian currencies overall. Korea’s strong external position also continued to provide structural support, with record first-quarter exports led by semiconductors, where shipments surged 139% year-on-year on strong AI-driven demand. At the same time, strength in the KOSPI, which remains near record highs, helped sustain expectations of equity-related inflows, keeping the won broadly supported."
     }
   ]
 }
