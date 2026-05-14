@@ -1,7 +1,54 @@
 {
-  "updated": "2026-05-14 21:56:06",
-  "count": 15496,
+  "updated": "2026-05-14 21:59:36",
+  "count": 15497,
   "items": [
+    {
+      "id": "4880230",
+      "time": "2026-05-14 21:59:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "塔塔電塔塔電力可再生能源公司任命吉嫩德拉・V・帕蒂爾為首席財務官（CFO）。"
+    },
+    {
+      "id": "te:markets:550773",
+      "time": "2026-05-14 21:58:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Holds Steady as Markets Watch US-China Talks — The S&P/TSX Composite Index traded little changed near the 34,000 mark on Thursday as investors monitored developments surrounding the Middle East conflict and a high-stakes US-China summit. US President Donald Trump is expected to discuss the Iran war during the meeting, while peace talks between Tehran and Washington remain deadlocked. The banking sector posted gains, with Royal Bank of Canada and BMO both rising near 1%. On the earnings front, Canadian Tire fell 3% despite reporting first-quarter adjusted profit above market expectations, while Keyera gained more than 1.5% despite posting a quarterly loss. Sherritt International plunged over 20% after warning that its first-quarter financial filing could be delayed following the resignation of its external auditor and departure of its finance chief. On the data front, Canadian home sales rose modestly in April while prices edged lower. Canada’s wholesale trade also increased 1.9% in March, above forecasts."
+    },
+    {
+      "id": "4880229",
+      "time": "2026-05-14 21:57:11",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【可立克：已階段性完成同下遊客戶漲價協商工作】可立克(002782)近日在投資者關係活動中表示，公司2026年一季度營業收入保持穩健增長，毛利率有所下滑，主要原因是大宗商品銅等原材料價格上漲，向下遊客戶傳導存在一定的滯後性影響所致。公司已階段性完成同下遊客戶漲價協商工作，並持續最佳化產品結構、強化供應鏈成本管控與內部精益管理，穩步提升盈利水平。"
+    },
+    {
+      "id": "mkt:019e26c6-de4d-7dde-99f5-118898d65a59",
+      "time": "2026-05-14 21:57:07",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Gulf States Weigh Postwar Iran Security Pact】Saudi Arabia has discussed a possible non-aggression pact between Middle East states and Iran as part of postwar regional security planning, with diplomats saying Riyadh is looking at the 1970s Helsinki Process as a model and considering multiple options. The UAE has taken a harder line on Iran during the war and may resist joining any such framework, while Saudi Arabia and several Gulf states are backing Pakistan-led mediation efforts and deepening coordination with Pakistan, Turkey, and Egypt on defense and economic ties, including a Saudi-Pakistan mutual defense pact signed in September."
+    },
+    {
+      "id": "4880228",
+      "time": "2026-05-14 21:56:07",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度政府：提前授權項下黃金進口額度限制為100千克。"
+    },
     {
       "id": "4880227",
       "time": "2026-05-14 21:55:20",
@@ -140128,38 +140175,6 @@
         "Importance 0"
       ],
       "text": "Coffee Hits 17-month Low — Coffee decreased to 274.45 USd/Lbs, the lowest since November 2024. Over the past 4 weeks, Coffee lost 4.86%, and in the last 12 months, it decreased 30.58%."
-    },
-    {
-      "id": "4866582",
-      "time": "2026-05-07 21:59:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "墨西哥能源部長：墨西哥計劃到 2030 年前投入1400 億墨西哥比索用於天然氣管道建設投資。"
-    },
-    {
-      "id": "4866581",
-      "time": "2026-05-07 21:58:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "默茨：政府必須將增長列為優先事項，增長再分配更重要。"
-    },
-    {
-      "id": "4866580",
-      "time": "2026-05-07 21:57:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "【阿聯酋媒體：阿聯酋將設立委員會記錄伊朗“侵略行為”】據阿聯酋媒體，阿聯酋將設立一個國家委員會，專門記錄“伊朗的侵略行為”及由此造成的破壞。報道稱，這一新機構將基於可靠證據建立一份全面的國家檔案，從而為阿聯酋針對伊朗的法律行動提供支援。此前，阿聯酋於本週早些時候表示，已攔截來自伊朗的數次導彈和無人機襲擊，其唯一仍在運作的石油出口港口富查伊拉也遭到火力打擊。這是自上個月美伊停火協議生效以來德黑蘭發動的首次襲擊。伊朗否認對該海灣國家採取了行動，但警告稱，若阿聯酋對其發起任何行動，必將遭到“毀滅性反擊”。在這場戰爭爆發前，伊朗與阿布扎比一直保持著良好關係，不過雙方在伊朗的地區影響力及海灣爭議島嶼問題上依然存在分歧。"
-    },
-    {
-      "id": "4866579",
-      "time": "2026-05-07 21:56:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基：烏克蘭和平談判代表與美國團隊進行了會談。"
     }
   ]
 }
