@@ -1,7 +1,87 @@
 {
-  "updated": "2026-05-14 09:13:20",
-  "count": 15358,
+  "updated": "2026-05-14 09:16:49",
+  "count": 15356,
   "items": [
+    {
+      "id": "mkt:019e240e-1883-777f-be59-435e9a626f2a",
+      "time": "2026-05-14 09:16:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "HANG SENG FUTURES OPEN UP 1.97%"
+    },
+    {
+      "id": "mkt:019e240d-ab21-777f-be59-3e2deb9036e2",
+      "time": "2026-05-14 09:15:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "PBOC SETS MIDPOINT FOR USD/CNY AT 6.8401, DOWN 30 PIPS"
+    },
+    {
+      "id": "4878851",
+      "time": "2026-05-14 09:15:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "【人民幣兌美元中間價報6.8401，較上日調高30點】人民幣兌美元中間價報6.8401，較上日調高30點。"
+    },
+    {
+      "id": "4878850",
+      "time": "2026-05-14 09:15:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "人民幣兌美元中間價報6.8401元。"
+    },
+    {
+      "id": "4878849",
+      "time": "2026-05-14 09:15:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨日盤開盤漲1.97%，報26701.68點，高水313.24點。"
+    },
+    {
+      "id": "4878848",
+      "time": "2026-05-14 09:15:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "【泰國擬縮短93國遊客免籤停留期限】綜合泰國《曼谷郵報》和《民族報》報道，泰國外交部正準備向內閣提交一份計劃，調整目前93個國家遊客的免籤停留時間，從60天減少至30天，以期防止犯罪活動發生。泰國副總理兼外長西哈薩12日針對此事回應稱，政府正在對整體的簽證政策進行審查，以確定現有簽證類別是否全部必要並考慮對部分類別進行合併。他預計，針對外國遊客的免籤停留時間由60天減少至30天的提議不會遭到反對。"
+    },
+    {
+      "id": "te:markets:550487",
+      "time": "2026-05-14 09:14:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "US Natgas Prices Hover Near 6-Week High — US natural gas futures rose to around $2.87 per MMBtu, moving back near a six-week high, as declining production and improved demand expectations continued to support prices. Output has softened in recent weeks as some energy companies, such as EQT, curtailed output due to persistently low spot prices. Forecasts showed gas demand across the Lower 48 states, including exports, averaging around 98.9 bcfd this week and next, with the latest projections revised slightly higher from the previous outlook. Meanwhile, gas flows to major US export facilities declined from a monthly record due to seasonal maintenance work at several plants, including Freeport LNG in Texas and Cameron LNG in Louisiana. Investors now await the weekly storage report, which is expected to show that the surplus in inventories relative to the five-year average remained largely unchanged."
+    },
+    {
+      "id": "4878847",
+      "time": "2026-05-14 09:13:52",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【巴克萊：韓國央行料將於8月開始收緊政策】巴克萊的Bum Ki Son表示，韓國央行可能在8月開始收緊政策。該經濟學家預計，韓國央行將進行“預防性的“加息——今年第三季度和第四季度以及明年第二季度各加息一次——將政策利率從目前的2.50%上調至3.25%。他在一份研究報告中寫道，在第一季度國內生產總值(GDP)表現強於預期之後，韓國央行可能對增長前景變得更加自信。他補充說，對中東石油價格衝擊導致整體消費者通脹上升的擔憂，也可能強化韓國央行對預防性加息的偏好。"
+    },
     {
       "id": "mkt:019e240a-928e-777f-be59-302df4ca43b6",
       "time": "2026-05-14 09:12:13",
@@ -138095,88 +138175,6 @@
         "國際"
       ],
       "text": "【韓國超越加拿大 躋身全球第七大股市】受人工智慧晶片需求持續火爆推動，韓國股市市值已超越加拿大，成為全球第七大股票市場。資料顯示：韓國上市公司總市值今年暴漲71%，達到4.59萬億美元；加拿大股市市值同期僅上漲約7%，為4.5萬億美元。市值突破萬億美元大關的三星電子，以及SK海力士，今年股價均實現翻倍以上漲幅。兩家企業在AI晶片領域佔據主導地位，令其產品與股票備受市場追捧。"
-    },
-    {
-      "id": "4864525",
-      "time": "2026-05-07 09:16:20",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "乙二醇連續主力合約日內跌3%，現報4996.00元。"
-    },
-    {
-      "id": "4864524",
-      "time": "2026-05-07 09:16:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "菲律賓外交部長：將向各國外長同僚通報緬甸局勢及五點共識。"
-    },
-    {
-      "id": "4864523",
-      "time": "2026-05-07 09:16:15",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨白銀突破78美元/盎司，日內漲0.88%。"
-    },
-    {
-      "id": "4864522",
-      "time": "2026-05-07 09:16:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國股市市值超越加拿大，成為全球第七大股市。"
-    },
-    {
-      "id": "4864521",
-      "time": "2026-05-07 09:15:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "菲律賓外交部長：東盟需在危機時期強化危機協調與機制準備工作。"
-    },
-    {
-      "id": "4864520",
-      "time": "2026-05-07 09:15:33",
-      "tags": [
-        "市場"
-      ],
-      "text": "【人民幣兌美元中間價報6.8487，較上日調高75點】人民幣兌美元中間價報6.8487，較上日調高75點。"
-    },
-    {
-      "id": "4864519",
-      "time": "2026-05-07 09:15:29",
-      "tags": [
-        "市場"
-      ],
-      "text": "人民幣兌美元中間價報6.8487元。"
-    },
-    {
-      "id": "4864518",
-      "time": "2026-05-07 09:15:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒指期貨日盤開盤漲1.16%，報26320.60點，高水106.82點。"
-    },
-    {
-      "id": "4864517",
-      "time": "2026-05-07 09:14:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【加拿大政府討論是否把給予中國電動汽車的進口配額進一步下放到各個廠家】據報道，加拿大政府官員正在討論如何分配中國製造電動汽車的低關稅進口配額，包括是否限制每家公司可以使用的配額多少。目前，官員們正在討論是否在4.9萬輛的配額中，為不同的中國製造商分配特定份額——即配額內配額，以確保沒有哪個廠商一家獨大。4.9萬輛的配額限制在加拿大整體汽車市場中所佔比例相對較小，不到去年新轎車和卡車銷量的3%。據加拿大全球事務部的宣告，截至本週，這些配額尚未被使用。"
-    },
-    {
-      "id": "4864516",
-      "time": "2026-05-07 09:14:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "【犀裡光電完成新一輪融資，聯想創投參與】5月7日，薄膜鈮酸鋰片上系統光子引擎提供商犀裡光電科技（杭州）有限責任公司宣佈完成新一輪融資，聯想創投入局，老股東元禾原點跟投。本輪融資將主要用於提升薄膜鈮酸鋰光子晶片平臺的整合度與工程化能力，推進核心工藝迭代、晶圓級製造及量產驗證，並進一步探索與光模組、AI資料中心、通訊裝置等下游產業夥伴的合作落地，推動光子整合晶片在AI算力互聯和下一代通訊網路中的實際應用。"
     }
   ]
 }
