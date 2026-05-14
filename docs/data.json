@@ -1,7 +1,16 @@
 {
-  "updated": "2026-05-15 04:12:32",
+  "updated": "2026-05-15 04:15:58",
   "count": 15138,
   "items": [
+    {
+      "id": "4880579",
+      "time": "2026-05-15 04:15:19",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國投資公司協會（ICI）：截至5月13日當週，貨幣市場基金總資產增加4.36億美元，至7.75萬億美元。在應稅貨幣市場基金中，政府基金增加32.5億美元，優質基金減少40.8億美元；免稅貨幣市場基金增加12.7億美元。"
+    },
     {
       "id": "4880578",
       "time": "2026-05-15 04:12:13",
@@ -136713,18 +136722,6 @@
         "Importance 0"
       ],
       "text": "McKesson earnings above expectations at 11.69 USD — McKesson (MCK) released earnings per share at 11.69 USD, compared to market expectations of 11.57 USD."
-    },
-    {
-      "id": "te:markets:548896",
-      "time": "2026-05-08 04:12:49",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stocks Finish in the Red — US stocks fell from records on Thursday, as investors watched for Iran's response to the US peace proposal that could pave the way for the Strait of Hormuz to reopen. The Dow lost 0.6%, pulling back from the 50,000 mark, while the S&P 500 and Nasdaq fell 0.4% and 0.1%, respectively, easing off record highs. Iran was still reviewing the memorandum sent by the US aimed at ending the conflict and restoring tanker traffic through the strait, while recent reports indicated that Washington was considering restarting an operation to help secure commercial shipping routes. Among equities, Amazon fell 1.3%, along with semiconductor stocks such as Micron (-3%) and Broadcom (-2.9%).In turn, McDonald's fell 0.1% despite beating earnings estimates."
     }
   ]
 }
