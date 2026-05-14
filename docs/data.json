@@ -1,7 +1,65 @@
 {
-  "updated": "2026-05-14 14:22:54",
-  "count": 15452,
+  "updated": "2026-05-14 14:26:19",
+  "count": 15450,
   "items": [
+    {
+      "id": "mkt:019e2529-e3dd-799f-8003-c134974f6437",
+      "time": "2026-05-14 14:26:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Chinese Public Greets Trump in Beijing With AI Memes, Confidence】Chinese social media users reacted enthusiastically to Donald Trump’s landmark Beijing visit, sharing AI memes and jokes about his delegation, though some complained about disruptions caused by the trip. Many expressed pride and confidence, viewing China as engaging the US on equal footing and portraying Beijing as a source of stability amid global turmoil. Weibo user Xing Lida, who has more than 6 million followers, wrote that it was the first time in about 130 years that China and the US were holding talks as equal powers, referring to the late Qing dynasty period when the US overtook China economically."
+    },
+    {
+      "id": "te:economy:550562",
+      "time": "2026-05-14 14:25:58",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "UK Trade Gap Widens to Largest Since 2022 — The United Kingdom trade deficit widened to £9.66 billion in March 2026, up from an upwardly revised £5.34 billion in the previous month, marking the largest trade gap since January 2022. Exports rose 0.2% month-on-month to £79.13 billion, while imports grew at a faster pace of 5.3% to a three-month high of £88.78 billion. Goods exports edged up 0.1% to £32.35 billion, driven by higher shipments to the EU (3.9%), while those to non-EU countries remained relatively unchanged. Exports to the EU increased due to a £0.6 billion rise in fuel exports and a £0.2 billion increase in chemical exports. Services exports ticked up 0.2% to £46.78 billion. On the import side, goods imports inched up 0.1% to £59.57 billion, while services imports were unchanged at £29.21 billion."
+    },
+    {
+      "id": "4879269",
+      "time": "2026-05-14 14:25:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【預計今年小麥旺季收購量達1億噸左右】今年夏糧旺季收購即將啟動。國家糧食和物資儲備局糧食儲備司司長羅守全14日對媒體表示，今年小麥旺季收購量預計達1億噸左右，與上年基本持平。目前夏糧收購各項準備工作已全部就緒。（新華社）"
+    },
+    {
+      "id": "4879268",
+      "time": "2026-05-14 14:25:14",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【日本長期國債暴跌，全球拋售潮加劇壓力】儘管 30 年期國債拍賣需求強勁，但受全球收益率持續上行拖累，日本長期國債週四價格下跌。30 年期國債收益率一度攀升 10 個基點至3.915%，創該品種 1999 年推出以來新高；20 年期與 40 年期國債收益率也同步升至數十年高位，分別上漲 8 個基點和 7.5 個基點。此次拋售潮源於美國經濟資料強化通脹加速跡象，美債收益率隨之走高，交易員進而加大對美聯儲加息的押注。"
+    },
+    {
+      "id": "te:economy:550560",
+      "time": "2026-05-14 14:24:29",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Manufacturing Production MoM",
+        "Importance 1"
+      ],
+      "text": "UK Manufacturing Output Unexpectedly Rises in March — Manufacturing production in the UK advanced by 1.2% month-on-month in March 2026, sharply exceeding market forecasts of a 0.2% decline and rebounding from a revised 0.2% fall in the previous month. Output increased in eight of the thirteen subsectors, with activity recovering in transport equipment (2% vs -2.1% in February), basic metals (2.1% vs -1.7%), rubber and plastic products (1.8% vs -0.4%), food, beverages and tobacco (1.1% vs -0.9%), textiles, wearing apparel and leather products (3.6% vs -3.9%), and wood and paper products (1.2% vs -0.4%). At the same time, output rose in basic pharmaceutical products (2.1% vs 0.5%), electrical equipment (3.3% vs 2.9%), and chemical products (2.9% vs 1.6%). Meanwhile, declines were recorded in computer, electronics and optical products (1.9% vs 2%). On a yearly basis, manufacturing production increased by 1.2% in March, against expectations of stagnation, recovering from a revised 0.8% decline in the preceding period."
+    },
+    {
+      "id": "4879267",
+      "time": "2026-05-14 14:24:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "力拓集團任命特魯迪·查爾斯為首席法務官。"
+    },
     {
       "id": "4879266",
       "time": "2026-05-14 14:21:59",
@@ -139318,75 +139376,6 @@
         "其他"
       ],
       "text": "【馬斯克：xAI解散並納入SpaceX，22萬塊GPU租給Anthropic】埃隆·馬斯克發文稱，他旗下的人工智慧企業xAI即將正式解散並整體併入SpaceX，成為SpaceX旗下的一款AI產品，名為SpaceXAI。此舉標誌著馬斯克旗下科技生態完成AI業務戰略重組。Colossus 1叢集搭載超22萬塊英偉達GPU，包括高密度部署的H100、H200及下一代GB200加速器，可為大語言模型、多模態系統、科學模擬和前沿規模的生成式AI提供算力支援。Anthropic方面表示，計劃利用新增算力，直接提升Claude Pro和Claude Max訂閱使用者的服務容量。"
-    },
-    {
-      "id": "4865517",
-      "time": "2026-05-07 14:25:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "LG集團：第一季度初步營業利潤為4138億韓元，同比下降35.1%。"
-    },
-    {
-      "id": "4865516",
-      "time": "2026-05-07 14:25:45",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【交銀國際：上調中信證券目標價至32港元，維持“買入”評級】交銀國際發表研報指，中信證券在去年歸母淨利潤300.76億元、同比增長38.6%的基礎上，今年首季繼續保持盈利高增長，單季利潤首次突破100億元。期內，各業務板塊收入均錄得按年較快增長。其中，證券經紀、投行、資管及投資業務收入按年分別增長48%、24%、37%和25%，公允價值變動帶動投資收益按年增加32%，利息淨收入增至11億元。管理層認為，隨著目前資本市場改革紅利釋放，公司在規模、全牌照及全業務鏈的龍頭優勢將進一步凸顯，對業績增長韌性和可持續性表示樂觀。該行預計未來三年公司龍頭地位持續穩固，歸母淨利潤分別達到375億元、405億元及440億元。該行認為，公司在目前市場環境下各項業務表現領先同業，估值有進一步向上修復潛力，上調目標價至32港元，維持“買入”評級。"
-    },
-    {
-      "id": "4865515",
-      "time": "2026-05-07 14:25:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "【光迅科技成交額達100億元】5月7日下午，光迅科技成交額達100億元，現漲9.65%。"
-    },
-    {
-      "id": "4865514",
-      "time": "2026-05-07 14:25:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "【機構：大廠減產疊加AI周邊IC需求驟增 晶圓代工成熟製程醞釀漲價】根據TrendForce集邦諮詢最新晶圓代工產業研究，全球成熟製程面臨供給與需求格局轉變，2025年下半年以來，臺積電、三星晶圓代工兩大廠減產八英寸產能，加上AI伺服器等對電源管理、功率需求持續成長，2026年全球前十大晶圓代工業者平均八英寸產能利用率已回升至近90%。不僅八英寸產能利用率與代工價格已止跌回升，十二英寸成熟製程也有望因臺積電規劃減產而帶動轉單。儘管目前十二英寸成熟製程未出現供不應求程度，但不排除中長期臺積電訂單外溢效應，將促使Tier 2晶圓廠於2026年下半年再度向客戶釋出漲價意圖。"
-    },
-    {
-      "id": "4865513",
-      "time": "2026-05-07 14:24:44",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【上海保租房再發力：收購二手房、改建低效商辦用作保租房】在今天的《2026上海民生訪談》節目中，上海市房管局局長高世昀表示，上海聚焦新市民、青年人等重點群體，圍繞家庭不同成長階段，打造多樣化保障性租賃住房產品，從“一張床”“一間房”到“一套房”，讓市民租得到、租得近、租得起、租得穩、租得好。最受關注的莫過於，今年上海在保租房籌措方面，有了創新舉措——在中心城區收購小戶型二手房用作保租房，有效縮短保租房建設週期，加快形成有效供應，完善核心區域的供應佈局。上海已制訂出臺1+1+X政策體系，破解非居房屋改造專案執行民用水電標準、按照居民生活垃圾處理收費等問題，推動“之家”專案制度化、規範化發展。“十五五”期間，全市計劃新增建設者管理者之家床位12萬張以上,到“十五五”期末總量力爭達到20萬張。重點聚焦需求旺盛的中心城區，充分利用非居存量房屋改建、保租房集中社群遴選等多元渠道，最佳化點位佈局。"
-    },
-    {
-      "id": "4865512",
-      "time": "2026-05-07 14:24:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "馬士基執行長：多艘旗下船舶滯留海灣水域。"
-    },
-    {
-      "id": "te:economy:548608",
-      "time": "2026-05-07 14:23:39",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Denmark",
-        "Manufacturing Production MoM",
-        "Importance 1"
-      ],
-      "text": "Danish Manufacturing Output Rebounds in March — Denmark’s manufacturing production climbed by 8.6% month-on-month in March 2026, rebounding from an upwardly revised 4.5% drop in the previous month. This marked the strongest growth in manufacturing activity since late September, largely driven by a 37% surge (vs -14.9% in February) in the output of the electronics industry. Production in the pharmaceutical industry, the most important sector, which accounted for 20% of total manufacturing output, also increased by 15% (vs 8.2%). Other notable improvements came from transport (19.5% vs -11.1%), rubber, plastic, glass and concrete (15.5% vs -5.4%), and textile, clothing and leather (9.7% vs -5.8%). Meanwhile, output in the petroleum and chemical (-0.9% vs -5.7%) and machinery industry (-0.6% vs 4.8%) decreased. On a non-seasonally adjusted annual basis, manufacturing activity rose by 20.7% in March, the fastest increase since October 2024, accelerating from a 6.4% gain in February."
-    },
-    {
-      "id": "4865511",
-      "time": "2026-05-07 14:23:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "馬士基執行長：迄今為止成本已轉嫁給客戶。"
     }
   ]
 }
