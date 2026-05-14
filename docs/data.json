@@ -1,7 +1,81 @@
 {
-  "updated": "2026-05-14 21:02:24",
-  "count": 15527,
+  "updated": "2026-05-14 21:05:49",
+  "count": 15523,
   "items": [
+    {
+      "id": "mkt:019e2696-a5f0-7dde-99f4-83e4e9a1f2cb",
+      "time": "2026-05-14 21:03:24",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Crypto Concepts",
+        "Bitcoin",
+        "Impact mixed",
+        "Ethereum"
+      ],
+      "text": "CME GROUP INC - TO LAUNCH NASDAQ CME CRYPTO INDEX FUTURES ON JUNE 8 PENDING REGULATORY REVIEW"
+    },
+    {
+      "id": "4880151",
+      "time": "2026-05-14 21:03:22",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀失守86美元/盎司，日內跌1.69%。"
+    },
+    {
+      "id": "mkt:019e2696-57c8-7dde-99f4-7f6c61004dc3",
+      "time": "2026-05-14 21:03:06",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "CENTCOM: 70 VESSELS REDIRECTED SINCE START OF BLOCKADE"
+    },
+    {
+      "id": "4880149",
+      "time": "2026-05-14 21:02:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "【兩艘駛往印度的LPG運輸船透過霍爾木茲海峽 近日通航船隻數進一步增加】兩艘從波斯灣運送烹飪燃料、駛往印度的船隻已透過霍爾木茲海峽，使得自週日以來經由這一水道通行的大型石油、燃料和天然氣運輸船數量增至10艘。這一數字較近幾周有所增加，儘管結束戰爭的談判仍“陷於僵局”。"
+    },
+    {
+      "id": "mkt:019e2695-6d3f-7dde-99f4-71e891706d33",
+      "time": "2026-05-14 21:02:22",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Crypto Concepts",
+        "Bitcoin",
+        "Impact bullish",
+        "Ethereum"
+      ],
+      "text": "CME GROUP TO LAUNCH NASDAQ CME CRYPTO INDEX FUTURES"
+    },
+    {
+      "id": "mkt:019e2695-1f1b-7dde-99f4-69a0d8764d0e",
+      "time": "2026-05-14 21:02:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Nasdaq100",
+        "Impact bearish"
+      ],
+      "text": "NASDAQ FUTURES TURN NEGATIVE"
+    },
+    {
+      "id": "4880148",
+      "time": "2026-05-14 21:01:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克期貨轉跌。"
+    },
     {
       "id": "4880147",
       "time": "2026-05-14 21:01:43",
@@ -140300,108 +140374,6 @@
         "國際"
       ],
       "text": "波蘭央行行長：我們持有約600噸黃金儲備。"
-    },
-    {
-      "id": "4866469",
-      "time": "2026-05-07 21:05:48",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "匈牙利央行：對經濟前景持謹慎立場。"
-    },
-    {
-      "id": "4866468",
-      "time": "2026-05-07 21:04:56",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "亞馬遜：美國銀行將把數百項應用遷移至亞馬遜雲科技（AWS）雲平臺。"
-    },
-    {
-      "id": "4866467",
-      "time": "2026-05-07 21:04:44",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【上期所低硫燃油主力合約大跌5%】上期所低硫燃油主力合約大跌5%，報4711元/噸。"
-    },
-    {
-      "id": "4866466",
-      "time": "2026-05-07 21:04:30",
-      "tags": [
-        "央行",
-        "市場"
-      ],
-      "text": "匈牙利央行：福林走強有助於緩解居民消費價格指數帶來的通脹影響。"
-    },
-    {
-      "id": "4866465",
-      "time": "2026-05-07 21:04:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "PLANET LABS德國分部：與希臘政府達成為期兩年、金額達七位數的協議，助力該國國家衛星航天專案。"
-    },
-    {
-      "id": "4866464",
-      "time": "2026-05-07 21:03:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "星際戰機公司：何塞・阿里亞斯出任太空運營副總裁。"
-    },
-    {
-      "id": "4866463",
-      "time": "2026-05-07 21:03:25",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "亞馬遜：美國銀行將藉助亞馬遜雲科技人工智慧開展欺詐檢測與合規工作。"
-    },
-    {
-      "id": "4866462",
-      "time": "2026-05-07 21:03:14",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "亞馬遜：美國合眾銀行將藉助亞馬遜Bedrock平臺與Nova Sonic部署生成式人工智慧。"
-    },
-    {
-      "id": "4866461",
-      "time": "2026-05-07 21:02:58",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "燃料油連續主力合約日內跌4%，現報4166.00元。"
-    },
-    {
-      "id": "mkt:019e0288-c3e4-766d-bbad-a40af33e0220",
-      "time": "2026-05-07 21:02:57",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Amazon",
-        "Market Themes",
-        "Magnificent 7",
-        "AMZN.O",
-        "Impact bullish"
-      ],
-      "text": "AMAZON - U.S. BANK EXPANDS STRATEGIC COLLABORATION WITH AWS FOR DIGITAL TRANSFORMATION"
-    },
-    {
-      "id": "4866460",
-      "time": "2026-05-07 21:02:50",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "PTA連續主力合約日內跌3%，現報6390.00元。"
     }
   ]
 }
