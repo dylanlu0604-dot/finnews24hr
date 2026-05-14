@@ -1,7 +1,31 @@
 {
-  "updated": "2026-05-15 05:18:16",
+  "updated": "2026-05-15 05:21:51",
   "count": 15133,
   "items": [
+    {
+      "id": "4880638",
+      "time": "2026-05-15 05:20:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "智利礦業部確認方丹出任智利國家銅業公司（CODELCO）新任董事長。"
+    },
+    {
+      "id": "4880637",
+      "time": "2026-05-15 05:18:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "據黎巴嫩國家廣播電視臺報道，黎巴嫩與以色列在華盛頓舉行的談判已結束，將於明日上午重啟。"
+    },
+    {
+      "id": "4880636",
+      "time": "2026-05-15 05:18:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "超微電腦任命馬修·陶貝格爾為首席營收官。"
+    },
     {
       "id": "4880635",
       "time": "2026-05-15 05:17:21",
@@ -136565,34 +136589,6 @@
         "國際"
       ],
       "text": "美國紐約聯儲主席威廉姆斯：中東衝突正在加劇供應鏈的緊張局勢。由於美國作為主要能源生產國的地位，在一定程度上“受到了保護”，但亞洲和歐洲正面臨困境，警告現狀可能會產生“溢位效應”。、"
-    },
-    {
-      "id": "4867174",
-      "time": "2026-05-08 05:19:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗譴責以色列襲擊貝魯特南郊】當地時間8日，伊朗外交部發言人巴加埃發表宣告，譴責以色列對黎巴嫩首都貝魯特南郊居民區發動襲擊。發言人稱，襲擊造成多名黎巴嫩平民傷亡，並導致基礎設施受損。巴加埃向遇難者家屬表示慰問，並強調伊朗與黎巴嫩站在一起，共同應對相關襲擊行為。巴加埃還表示，以色列持續對黎巴嫩實施軍事行動，並多次使用包括白磷彈在內的被禁止武器。他稱，這一局面是美國及包括德國、英國在內部分國家支援相關行動的結果。他還呼籲聯合國安理會及各國政府應承擔責任，對相關行為進行追責。（央視新聞）"
-    },
-    {
-      "id": "te:economy:548915",
-      "time": "2026-05-08 05:18:26",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Brazil",
-        "Balance of Trade",
-        "Importance 0"
-      ],
-      "text": "Brazil Trade Surplus Widens in April — Brazil posted a $10.5 billion trade surplus in April 2026, up 37.5% from a year earlier, as exports rose 14.3% to $34.15 billion while imports increased 6.2% to $23.61 billion. Agricultural exports climbed 16.1% to $9.23 billion, extractive industry shipments rose 17.9% to $8.28 billion, and manufacturing exports advanced 11.6% to $16.44 billion. Exports to China surged 32.5% to $11.61 billion, while sales to Argentina fell 18.5% and exports to the US declined 11.3%. On the import side, manufacturing purchases rose 7.4% to $21.93 billion, while agricultural imports dropped 25.8%. Imports from China increased 20.7% to $6.05 billion and purchases from Argentina rose 21.2%, while imports from the US fell 18.1%."
-    },
-    {
-      "id": "4867173",
-      "time": "2026-05-08 05:18:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以色列證實下週將與黎巴嫩舉行第三輪談判】一名以色列政府官員7日向新華社記者證實，以色列和黎巴嫩之間的第三輪談判將於下週在美國首都華盛頓舉行。這名不願透露姓名的官員表示，以黎談判將於當地時間14日至15日舉行。今年4月14日和4月23日，以色列駐美大使和黎巴嫩駐美大使在美方斡旋下舉行了兩輪談判。（新華社）"
     }
   ]
 }
