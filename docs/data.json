@@ -1,7 +1,44 @@
 {
-  "updated": "2026-05-14 09:06:19",
-  "count": 15364,
+  "updated": "2026-05-14 09:09:49",
+  "count": 15365,
   "items": [
+    {
+      "id": "mkt:019e2408-360d-777f-be59-2e42552f8e26",
+      "time": "2026-05-14 09:09:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China Commodity Futures Open Mixed; Silver Up Over 3%】China’s most active futures open mixed, with silver up over 3%, tin up over 2%, and No.20 rubber, rubber, platinum and aluminum all rising over 1%. On the downside, crude oil and LPG fall over 2%, while fuel oil and ethylene glycol drop over 1%."
+    },
+    {
+      "id": "4878843",
+      "time": "2026-05-14 09:08:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "【華泰期貨：市場風險偏好已基本從美伊地緣邏輯脫離，對於黃金投資的需求或略有增強】目前市場風險偏好已基本從美伊地緣邏輯脫離，對於黃金投資的需求或略有增強，因此預計近期黃金價格或以震盪偏強格局為主；當下白銀與黃金宏觀邏輯類似，但由於風險情緒的回升，白銀價格相較於黃金略微偏強。白銀本身價格預計同樣維持震盪偏強格局。"
+    },
+    {
+      "id": "4878842",
+      "time": "2026-05-14 09:08:05",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【全球最大規模的股市上漲在韓國引發投機狂潮 投資者借入創紀錄的資金來加大股票投資力度】在規模達4.6萬億美元的韓國股市中，市場亢奮情緒隨處可見。受過去一年漲幅超200%帶動——遠超全球所有其他市場，韓國民眾正大舉借貸、加碼股票投資，借貸規模創下歷史新高。市場成交量飆升至紀錄水平，股指單日波動5%及以上已成常態，也讓韓國綜合股價指數（Kospi）成為全球波動最大的主要股指。錯失焦慮情緒（FOMO）在韓國職場、餐廳及家庭聚會中蔓延，情緒愈發濃烈，越來越多投資者開始為子女開戶炒股。Toss證券統計資料顯示，今年一季度18歲以下新增股票賬戶數量較去年同期暴漲近十倍。37歲的首爾影片創作者Jang Eunjung,表示：“散戶情緒極度狂熱，近乎癲狂。”隨著股市大漲，她主打股票投資的YouTube頻道，從寥寥無幾的觀眾漲至130餘萬訂閱者。“我們今後還能再見到這樣直線拉昇的行情嗎？”此番交易熱潮主要由韓國晶片企業在人工智慧熱潮中的核心地位驅動，也讓長期沉寂的韓國股市，一躍成為全球觀察AI投資狂熱熱度最重要的風向標之一。"
+    },
+    {
+      "id": "te:markets:550485",
+      "time": "2026-05-14 09:07:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Japan’s Nikkei Hits New Record High — The Nikkei 225 Index rose 0.8% to trade above 63,700 on Thursday, setting fresh all-time highs as strong corporate earnings and upbeat guidance reinforced investor confidence, while sustained demand for artificial intelligence-related stocks continued to drive gains. Japanese equities also mirrored a tech-led rally on Wall Street overnight, even as accelerating US inflation fueled concerns that the Federal Reserve could still opt for another rate hike. At the same time, markets remained focused on the meeting between US President Donald Trump and Chinese President Xi Jinping, with discussions expected to prioritize trade relations. Among individual movers, gains were led by Kioxia Holdings (1.7%), Furukawa Electric (1.5%), Advantest (2.8%), Fanuc (10.4%) and Resonac Holdings (15.6%). In contrast, mining firm Mitsui Kinzoku fell 11.8% after issuing a weaker profit forecast for FY2027 despite projecting higher sales."
+    },
     {
       "id": "4878841",
       "time": "2026-05-14 09:04:59",
@@ -138204,32 +138241,6 @@
         "焦點"
       ],
       "text": "上海原油連續主力合約日內跌5%，現報633.70元。"
-    },
-    {
-      "id": "4864505",
-      "time": "2026-05-07 09:09:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "【瞭望｜國產算力突圍重塑產業競爭邏輯】近日，深度求索正式釋出並開源新一代模型DeepSeek V4，同時宣佈全面適配華為昇騰晶片。這是國產大模型首次在國產晶片上完成從訓練到推理的全棧部署，標誌著我國AI產業正逐步構建起自主可控的產業競爭新邏輯。在外部技術封鎖加劇背景下，國產晶片替代已從“備選項”升級為“必選項”。這一適配突破的核心價值，更在於推動產業結構從“單點突破”走向“體系協同”。除了華為昇騰，寒武紀、摩爾執行緒、海光資訊等國產晶片品牌均宣佈完成對DeepSeek V4的“Day0”適配，模型釋出即適配上線，晶片廠商不再需要除錯周期。這標誌著，國產算力產業鏈上下游協同攻堅的格局正加速形成。"
-    },
-    {
-      "id": "4864504",
-      "time": "2026-05-07 09:08:09",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "日本國際石油開發帝石（Inpex）股價下跌6.2%，日本石油勘探公司股價下跌5.9%。"
-    },
-    {
-      "id": "4864502",
-      "time": "2026-05-07 09:06:39",
-      "tags": [
-        "市場"
-      ],
-      "text": "【酒價內參5月7日價格釋出：青花郎領跌 總價創5天以來新低】新浪財經“酒價內參”過去24小時收集的資料顯示，中國白酒市場主要大單品的終端零售均價在5月7日整體走弱。如果主要單品各取一瓶整體打包售賣，今日總售價為9939元，較昨日下跌13元，創下近5天以來最低。市場在連續三日回暖後出現溫和回撥，終端交投情緒有所降溫，核心單品漲跌分化依然顯著，部分腰部酒品的跌幅較重。今日白酒市場11大單品四漲六跌一平，輸家略佔上風。上漲方面，五糧液普五八代和水晶劍南春漲幅居前，上漲4元/瓶，前者逼近一個月來最高紀錄，後者平近一個月最大漲幅，價格亦創下4月7日以來最高；精品茅臺與國窖1573上漲3元/瓶。下跌方面，青花郎跌幅居前，下跌9元/瓶，失守700元關口；古井貢古20與習酒君品均下跌7元/瓶；飛天茅臺下跌2元/瓶；五糧液1618與青花汾20均下跌2元/瓶。洋河夢之藍M6+的價格環比保持不變。"
     }
   ]
 }
