@@ -1,7 +1,154 @@
 {
-  "updated": "2026-05-14 18:14:22",
-  "count": 15455,
+  "updated": "2026-05-14 18:17:57",
+  "count": 15462,
   "items": [
+    {
+      "id": "mkt:019e25fd-ffa7-7aa5-b402-c7272a5a31d7",
+      "time": "2026-05-14 18:17:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SMIC REPORTS Q1 2026 NET PROFIT OF 1.361BN YUAN, UP 0.4% YEAR-ON-YEAR"
+    },
+    {
+      "id": "4879799",
+      "time": "2026-05-14 18:17:39",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【巴基斯坦外交部：美伊停火協議仍然有效】5月14日，巴基斯坦外交部發言人安德拉比在新聞釋出會上稱，伊朗與美國之間的停火協議仍然有效，巴方正與相關談判方保持聯絡。（央視新聞）"
+    },
+    {
+      "id": "mkt:019e25fd-5bb1-7aa5-b402-bfd57b2e0140",
+      "time": "2026-05-14 18:16:59",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "U.S. TREASURY SECRETARY BESSENT ON CHINA: SOYBEANS ARE ALL TAKEN CARE OF"
+    },
+    {
+      "id": "mkt:019e25fd-4a0f-7aa5-b402-b497e48c4217",
+      "time": "2026-05-14 18:16:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "CHINA'S XI, AT STATE BANQUET FOR TRUMP: THIS IS A HISTORIC VISIT"
+    },
+    {
+      "id": "mkt:019e25fd-2895-7aa5-b402-aafab804dce4",
+      "time": "2026-05-14 18:16:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "OPEC+ TO PERSIST WITH SYMBOLIC MONTHLY HIKES - DELEGATES"
+    },
+    {
+      "id": "mkt:019e25fc-f11e-7aa5-b402-a6c009bce0f1",
+      "time": "2026-05-14 18:16:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "BA.O",
+        "Impact bullish"
+      ],
+      "text": "U.S. TREASURY SECRETARY BESSENT ON CHINA: THINK WE'RE GOING TO SEE LARGE BOEING ORDERS"
+    },
+    {
+      "id": "4879798",
+      "time": "2026-05-14 18:16:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中遠海控：5月14日回購196萬股 涉資2925.08萬元】中遠海控公告稱，公司於2026年5月14日回購196萬股，每股回購價在14.6-15.06港元，付出價格總額2925.08萬元。此外，自2026年3月23日至5月14日期間，公司多次回購股份，累計回購數量可觀。公司於2025年5月28日獲回購授權，可回購股份總數為2.88億股，截至目前已回購2990.55萬股，佔授權透過當日已發行股份（不包括庫存股份）的1.04%。下次新股發行或庫存股份再出售或轉讓暫止期至2026年6月13日。"
+    },
+    {
+      "id": "mkt:019e25fc-c9fe-7aa5-b402-9e87e3ae0b49",
+      "time": "2026-05-14 18:16:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "OPEC+ HAS PLAN TO COMPLETE SERIES OF QUOTA HIKES - REPORTS"
+    },
+    {
+      "id": "mkt:019e25fc-77bc-7aa5-b402-942c9cfcebd1",
+      "time": "2026-05-14 18:16:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "U.S. TREASURY SECRETARY BESSENT ON CHINA: PROFITABILITY OF CHINESE FIRMS IS WAY DOWN DESPITE GOVERNMENT SUBSIDIES"
+    },
+    {
+      "id": "mkt:019e25fc-2ae9-7aa5-b402-8c43af031ed0",
+      "time": "2026-05-14 18:15:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "U.S. TREASURY SECRETARY BESSENT ON CHINA, TRADE: U.S. HAS A STRONGER POSITION BECAUSE OF OUR TRADE DEFICIT WITH CHINA"
+    },
+    {
+      "id": "4879797",
+      "time": "2026-05-14 18:15:24",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "市場訊息：Anthropic推出面向小型企業的Claude。"
+    },
+    {
+      "id": "4879796",
+      "time": "2026-05-14 18:15:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "中芯國際：2026年一季度公司實現銷售收入25.05億美元，環比增長0.7%；毛利率為20.1%，環比增加0.9個百分點。預計二季度收入環比增長14%到16%，毛利率指引為20%-22%，與上一季指引相比提升2個百分點。"
+    },
+    {
+      "id": "mkt:019e25fb-dcbf-7aa5-b402-8612b9b18427",
+      "time": "2026-05-14 18:15:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "U.S. TREASURY SECRETARY BESSENT ON CHINA: WERE TRYING TO BALANCE TRADE OUT"
+    },
+    {
+      "id": "4879795",
+      "time": "2026-05-14 18:14:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "OPEC + 計劃完成一系列產量配額上調。"
+    },
     {
       "id": "4879794",
       "time": "2026-05-14 18:13:49",
@@ -139577,69 +139724,6 @@
         "國際"
       ],
       "text": "【常軍紅：中方呼籲亞行持續推進跨境互聯互通 穩步實施業務模式改革】2026年5月3日至6日，亞洲開發銀行理事會第59屆年會在烏茲別克撒馬爾罕舉行。本屆年會以“進步的交匯點：共創區域互聯新未來”為主題，並就全球價值鏈轉型、技術變革與包容性增長等議題進行討論。財政部部長助理常軍紅與會併發言。常軍紅表示，當今國際局勢變亂交織，世界經濟受到地緣動盪、保護主義等持續衝擊。亞太各經濟體應加強互利合作，把握新機遇，應對新挑戰，攜手構建人類命運共同體。中方呼籲亞行持續推進跨境互聯互通，穩步實施業務模式改革，不斷深化與中高收入成員合作，支援發展中成員更好地適應和融入全球價值鏈，促進亞太經濟穩步增長和可持續發展。 常軍紅指出，中國對全球經濟增長的貢獻率穩定在30%左右，今年一季度GDP同比增長5%，實現良好開局。中國將進一步擴大高水平對外開放，與全球和亞太地區共創繁榮穩定未來。"
-    },
-    {
-      "id": "4866106",
-      "time": "2026-05-07 18:17:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【金新農：2026年04月生豬銷量14.63萬頭】金新農公告，2026年04月生豬銷量14.63萬頭（其中商品豬6.77萬頭、仔豬7.81萬頭、種豬0.05萬頭），生豬銷售收入9153.62萬元，商品豬銷售均價9.36元/公斤。"
-    },
-    {
-      "id": "4866105",
-      "time": "2026-05-07 18:17:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "尼達姆將ARM目標股價從200美元上調至255美元。"
-    },
-    {
-      "id": "4866104",
-      "time": "2026-05-07 18:16:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯外交部：不會對針對5月9日閱兵的襲擊威脅掉以輕心。"
-    },
-    {
-      "id": "4866103",
-      "time": "2026-05-07 18:15:40",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點"
-      ],
-      "text": "【中金所：批准摩根士丹利期貨（中國）有限公司成為交易會員】中國金融期貨交易所批准摩根士丹利期貨（中國）有限公司成為交易會員。至此，中金所共有會員155家。其中，期貨公司全面結算會員27家、交易結算會員99家、交易會員24家；非期貨公司交易結算會員5家。"
-    },
-    {
-      "id": "4866102",
-      "time": "2026-05-07 18:14:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "【柳鋼股份：擬向柳鋼集團發行股份及支付現金購買廣西鋼鐵13%股權】柳鋼股份公告，公司擬透過發行股份及支付現金的方式向柳鋼集團購買其合計持有的廣西鋼鐵13%股權，並向不超過35名特定投資者發行股份募集配套資金。本次交易的交易價格尚未確定，標的資產的交易價格將以符合法律規定的評估機構出具並經國有資產監督管理部門或其授權機構備案的資產評估報告確定的評估結果為基礎，由交易各方協商確定。募集配套資金總額不超過15億元，將用於支付本次交易的現金對價和補充流動資金、償還債務等。"
-    },
-    {
-      "id": "4866101",
-      "time": "2026-05-07 18:14:32",
-      "tags": [
-        "國際",
-        "兩會"
-      ],
-      "text": "【趙樂際會見美國國會參議員代表團】全國人大常委會委員長趙樂際7日在北京會見美國國會參議員代表團戴安斯一行。趙樂際表示，中美關係穩定、健康、可持續發展，符合兩國人民共同利益和國際社會普遍期待。去年以來，在兩國元首戰略引領下，中美關係實現總體穩定。中方願同美方落實好兩國元首重要共識，加強對話溝通，妥善管控分歧，拓展務實合作。臺灣問題是中國核心利益中的核心，是中美關係中最重要的問題，希望美方恪守一箇中國原則，慎重對待和處理臺灣問題。趙樂際表示，中國全國人大願同美國國會加強交往，實現更多交流和互訪。各位參議員此訪有助於促進中美接觸交往和兩國立法機構對話交流。希望美方客觀理性看待中國和中國的發展，歡迎更多美國議員來中國參訪。（新華社）"
-    },
-    {
-      "id": "te:economy:548746",
-      "time": "2026-05-07 18:14:31",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Ireland",
-        "Unemployment Rate",
-        "Importance 1"
-      ],
-      "text": "Irish Jobless Rate Falls to 4.8% in April — Ireland’s seasonally adjusted unemployment rate declined to 4.8% in April 2026, down from a revised 5.0% in March and slightly above the 4.6% recorded a year earlier. The total number of unemployed people fell by 5,900 to 140,300. By gender, the unemployment rate for females decreased to 5.2% from a revised 5.3% in March, with the number of unemployed women dropping by 2,300 to 71,200. For males, the rate fell to 4.5% from 4.7%, with unemployment declining by 3,500 to 69,200. Youth unemployment (ages 15-24) also improved, falling to 9.8% from 11.2% in March. For those aged 25-74, the rate edged down to 4.1% from 4.2%."
     }
   ]
 }
