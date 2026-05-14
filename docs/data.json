@@ -1,7 +1,31 @@
 {
-  "updated": "2026-05-15 00:28:16",
-  "count": 15417,
+  "updated": "2026-05-15 00:31:47",
+  "count": 15412,
   "items": [
+    {
+      "id": "mkt:019e2753-b995-7bb5-b4d0-c9e414cb6117",
+      "time": "2026-05-15 00:30:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SOURCE REPORTING THE EVENT IN WASHINGTON: NO INDICATIONS OF ANY SERIOUS BREACH OCCURRING IN THE ROUND OF NEGOTIATIONS BETWEEN LEBANON AND ISRAEL"
+    },
+    {
+      "id": "mkt:019e2752-ee2a-7bb5-b4d0-c3e2773855f9",
+      "time": "2026-05-15 00:30:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "OPENAI SAYS HACKERS STOLE SOME DATA AFTER LATEST CODE SECURITY ISSUE – TECHCRUNCH"
+    },
+    {
+      "id": "4880403",
+      "time": "2026-05-15 00:28:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：伊朗不再擁有威脅重大地區行動和我們空中、海上行動自由的手段。我們已癱瘓82%的伊朗防空導彈系統。伊朗的部隊和防空系統在功能和作戰上已變得毫無意義。我們還削弱了伊朗在生產彈道導彈和無人機方面的工業和技術能力。"
+    },
     {
       "id": "te:economy:550819",
       "time": "2026-05-15 00:24:43",
@@ -139404,71 +139428,6 @@
         "國際"
       ],
       "text": "歐盟官員磋商將為歐洲議會最終投票鋪平道路。"
-    },
-    {
-      "id": "4866840",
-      "time": "2026-05-08 00:31:46",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "戴利稱公眾清楚美聯儲致力於物價穩定。"
-    },
-    {
-      "id": "4866839",
-      "time": "2026-05-08 00:31:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴黎檢方對馬斯克及 X 平臺展開調查。"
-    },
-    {
-      "id": "mkt:019e0347-438e-7775-8cb5-6cf95eca30c8",
-      "time": "2026-05-08 00:31:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "GERMAN FINANCE MINISTER KLINGBEIL: WANT TO COOPERATE MORE CLOSELY ON SUPPLY CHAIN RESILIENCE, CRITICAL RAW MATERIALS, DEFENCE, AI"
-    },
-    {
-      "id": "4866838",
-      "time": "2026-05-08 00:30:59",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "德國財政部長克林貝爾表示：德國希望在供應鏈韌性、關鍵原材料、國防以及人工智慧領域開展更緊密的合作。"
-    },
-    {
-      "id": "4866837",
-      "time": "2026-05-08 00:30:42",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "德國財政部長：希望擴大德國與加拿大之間的緊密夥伴關係。"
-    },
-    {
-      "id": "4866836",
-      "time": "2026-05-08 00:30:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "倍耐力：除效率計劃外，已啟動應急措施，以抵消中東危機自第二季度起產生的影響。"
-    },
-    {
-      "id": "4866835",
-      "time": "2026-05-08 00:30:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "據 Michael Burry 週四在其 Substack 釋出的持倉交易更新顯示，他已清倉Salesforce與Autodesk持倉，轉而買入Zoetis股票。"
-    },
-    {
-      "id": "mkt:019e0345-9edf-7775-8cb5-60871318abb6",
-      "time": "2026-05-08 00:29:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "GERMAN FINANCE MINISTER KLINGBEIL: WANT TO EXPAND CLOSE PARTNERSHIP BETWEEN GERMANY AND CANADA"
     }
   ]
 }
