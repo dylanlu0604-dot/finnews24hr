@@ -1,7 +1,25 @@
 {
-  "updated": "2026-05-15 05:35:54",
+  "updated": "2026-05-15 05:39:24",
   "count": 15145,
   "items": [
+    {
+      "id": "4880658",
+      "time": "2026-05-15 05:37:48",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【應用材料營收展望超出分析師預期 人工智慧需求帶來提振】美國最大的半導體裝置供應商應用材料釋出的銷售和利潤預測遠超分析師預期，這主要得益於人工智慧計算和儲存晶片需求的飆升。應用材料週四在宣告中表示，截至7月的第三財季營收預計約為89.5億美元。分析師此前平均預期的營收為81.5億美元。剔除特定專案後的每股收益約為3.36美元，高於分析師預測的2.88美元。三星電子和美光科技等應用材料的客戶正在擴大生產規模，以應對儲存晶片供應短缺。資料中心以及用於執行人工智慧任務的裝置市場蓬勃發展，也推動半導體需求達到新高。執行長表Gary Dickerson在宣告中說道，“人工智慧計算基礎設施在全球範圍內的快速建設”，加上應用材料在關鍵市場的領先地位，“為公司未來多年持續的收入和利潤增長奠定了極其堅實的基礎”。財報釋出後，該公司股價盤後交易中上漲約5%。截至收盤，該股今年以來累計上漲71%，與基準的費城半導體指數走勢基本一致。第二財季銷售額增長11%至79.1億美元，剔除特定專案的每股收益攀升至2.86美元。分析師此前預測營收為76.7億美元，每股收益為2.68美元。"
+    },
+    {
+      "id": "4880657",
+      "time": "2026-05-15 05:37:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中情局官員透露：美國中情局局長強調，特朗普總統傾向於透過對話解決問題，但古巴方面不應抱有幻想，以為美國總統不會劃定並執行紅線底線。"
+    },
     {
       "id": "4880656",
       "time": "2026-05-15 05:35:39",
@@ -136666,27 +136684,6 @@
         "國際"
       ],
       "text": "【Airbnb一季度取消率因中東衝突上升 積極籌備世界盃賽事接待】Airbnb在週四收盤後公佈了好壞參半的第一季度業績，並警告稱伊朗戰爭引發的區域性疲軟。與許多旅遊和航空公司一樣，Airbnb正感受到伊朗戰爭的壓力，這場戰爭推高了油價、取消了航班，並加劇了廣泛的區域不確定性。 該公司預計，由於戰爭，第二季度的間夜量和座位預訂量將面臨100個基點的逆風，並且相比第一季度會有所減速。在本季度，Airbnb表示中東衝突導致歐洲、中東、非洲和亞太地區的取消率“略有上升”。然而，這家民宿平臺表示，它看到了與去年關稅威脅時“類似的情況”，當時導致北美某些地區之間的“疲軟”，但其他地區的旅行有所增長。Airbnb還在為繁忙的夏季做準備，即將到來的國際足聯世界盃將在加拿大、墨西哥和美國的16個城市舉行。 該公司表示，它計劃為賽事接待的客人數量將超過以往任何時候，並且自10月份開始宣傳以來，已有超過10萬個房源加入該平臺。今年2月，Airbnb推出了針對新房東的750美元激勵計劃，以滿足賽事需求。"
-    },
-    {
-      "id": "4867182",
-      "time": "2026-05-08 05:39:18",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國軍方稱在襲擊後不尋求局勢升級。"
-    },
-    {
-      "id": "te:markets:548916",
-      "time": "2026-05-08 05:37:52",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "TSX Falls as Investors Book Gains and Energy Losses Weigh — The S&P/TSX Composite Index fell 0.4% to close at 33,857 on Thursday, as investors locked in recent gains ahead of US and Canadian jobs data due Friday. Forecasts point to Canada adding 15,000 jobs in April, with the unemployment rate holding at 6.7%. Energy shares weighed on the index as oil prices declined on expectations that a potential US–Iran agreement could lead to a gradual reopening of the Strait of Hormuz. Canadian Natural Resources fell 2.1%, while Suncor lost 1.0%. Technology stocks provided support, with Shopify rebounding 5.8% after steep losses earlier in the week. Enerflex rose 5.5% after reporting stronger Q1 revenue, while Cascades slipped 2.4% on weaker-than-expected sales. Nutrien dropped 7.5% despite higher quarterly profit. Wheaton Precious Metals fell 2.1% before reporting record revenue, earnings, and cash flow after the close."
     }
   ]
 }
