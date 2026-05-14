@@ -1,7 +1,250 @@
 {
-  "updated": "2026-05-14 20:31:18",
-  "count": 15527,
+  "updated": "2026-05-14 20:34:41",
+  "count": 15547,
   "items": [
+    {
+      "id": "4880096",
+      "time": "2026-05-14 20:34:29",
+      "tags": [
+        "資料"
+      ],
+      "text": "加拿大3月批發庫存月率 2.7%，前值-0.3%。"
+    },
+    {
+      "id": "4880095",
+      "time": "2026-05-14 20:34:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國4月零售銷售 7570.85億美元，前值7520.63億美元。美國4月核心零售銷售 6178.56億美元，前值6124.36億美元。"
+    },
+    {
+      "id": "mkt:019e267b-1ad8-7dde-99f4-16d1f6e827fc",
+      "time": "2026-05-14 20:34:18",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Wholesale Inventories (MoM) (Mar) | actual 2.7% | previous -0.3%"
+    },
+    {
+      "id": "4880094",
+      "time": "2026-05-14 20:33:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國4月石油進口價格環比上升19.0%。"
+    },
+    {
+      "id": "mkt:792dff1a-ece3-4e6c-80e6-684741260921",
+      "time": "2026-05-14 20:33:36",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Core Retail Sales (Apr) | actual 617856000000B | previous 612436000000B"
+    },
+    {
+      "id": "mkt:01cd9e5e-8a47-46de-96ea-2975349a76f0",
+      "time": "2026-05-14 20:33:26",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Retail Sales (Apr) | actual 757085000000B | previous 752063000000B"
+    },
+    {
+      "id": "4880093",
+      "time": "2026-05-14 20:33:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【煌上煌：新餘煌上煌累計減持3%股份】煌上煌公告，新餘煌上煌投資管理中心（有限合夥）自2026年4月30日至5月13日透過集中競價及大宗交易累計減持1678.6萬股，佔公司總股本3%。其中4月30日集中競價減持559.5萬股，佔1%，均價12.43元；5月7日大宗交易減持168.19萬股，佔0.30%，均價11.8元；5月13日大宗交易減持950.91萬股，佔1.70%，均價11.8元。減持後，新餘煌上煌及一致行動人合計持股3.54億股，佔63.30%，觸及1%整數倍，本次減持計劃已完成。"
+    },
+    {
+      "id": "mkt:019e267a-aa99-7335-8cb1-cf69ea6448b7",
+      "time": "2026-05-14 20:32:51",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Import Price Index (YoY) (Apr) | actual 4.2% | consensus 3% | previous 2.10%"
+    },
+    {
+      "id": "4880092",
+      "time": "2026-05-14 20:32:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST瑞和：重整投資人深圳市檳城電子股份有限公司投資約9.51億元】*ST瑞和公告，公司與重整投資人深圳市檳城電子股份有限公司簽署了《重整投資協議》。根據協議，深圳市檳城電子股份有限公司將以3.9元/股的價格認購轉增股份2.44億股，總投資金額預計為9.51億元。重整投資人承諾自股份過戶之日起36個月內不轉讓所持股份。重整投資人的加入有望改善公司財務結構，化解債務危機，增強公司持續經營和盈利能力。"
+    },
+    {
+      "id": "mkt:019e267a-52ca-7335-8cb1-c7fbc3bf9d54",
+      "time": "2026-05-14 20:32:47",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "US APRIL IMPORT PRICE INDEX RISES 1.9% MOM, THE LARGEST INCREASE SINCE MARCH 2022"
+    },
+    {
+      "id": "mkt:019e267a-129e-7335-8cb1-bc35dabf2abb",
+      "time": "2026-05-14 20:32:40",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Export Price Index (YoY) (Apr) | actual 8.8% | consensus 6.6% | previous 5.60%"
+    },
+    {
+      "id": "mkt:019e2679-cd2e-7335-8cb1-b5914e67653f",
+      "time": "2026-05-14 20:32:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "US APR PETROLEUM IMPORT PRICES +19.0%"
+    },
+    {
+      "id": "te:economy:550727",
+      "time": "2026-05-14 20:32:13",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Retail Sales MoM",
+        "Importance 3"
+      ],
+      "text": "US Retail Sales Rise as Expected in April — Retail sales in the US increased 0.5% month-over-month in April 2026, following a downwardly revised 1.6% gain in March and in line with forecasts. Sales at gasoline stations recorded the biggest increase (2.8%), as gasoline prices continued to rise due to the war with Iran. Retail sales data is not adjusted for inflation."
+    },
+    {
+      "id": "4880091",
+      "time": "2026-05-14 20:32:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "嘉信理財集團：截至2025年4月末，客戶總資產為12.61萬億美元。"
+    },
+    {
+      "id": "mkt:019e2679-84cd-7335-8cb1-ad3dba33cd65",
+      "time": "2026-05-14 20:32:12",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "US 10-YR U.S. TREASURY YIELDS SLIGHTLY PARE EARLIER DROP AFTER DATA, LAST DOWN 3.4 BASIS POINTS AT 4.445% TWO-YR U.S. TREASURY YIELD LAST DOWN 3 BASIS POINTS AT 3.961%"
+    },
+    {
+      "id": "mkt:019e2679-35f9-7335-8cb1-a7aad53c8ba6",
+      "time": "2026-05-14 20:32:01",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "U.S. STOCK INDEX FUTURES HOLD GAINS AFTER APRIL RETAIL SALES, WEEKLY JOBLESS CLAIMS DATA"
+    },
+    {
+      "id": "4880090",
+      "time": "2026-05-14 20:31:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "斐樂（FILA）第一季度調整後淨利潤為740萬歐元。"
+    },
+    {
+      "id": "mkt:019e2679-2ef3-7335-8cb1-9ce2a08f8a33",
+      "time": "2026-05-14 20:31:57",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "U.S. DOLLAR INDEX EDGES HIGHER AFTER DATA, LAST UP 0.09% AT 98.55"
+    },
+    {
+      "id": "4880089",
+      "time": "2026-05-14 20:31:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "美元兌日元上漲0.04%，報157.91。"
+    },
+    {
+      "id": "4880088",
+      "time": "2026-05-14 20:31:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "英鎊下跌0.07%，報1.3515美元。"
+    },
+    {
+      "id": "mkt:019e2679-20c1-7335-8cb1-93d874fa7542",
+      "time": "2026-05-14 20:31:49",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "SPOT PALLADIUM FALLS 3% TO $1,454.50/OZ"
+    },
+    {
+      "id": "4880087",
+      "time": "2026-05-14 20:31:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "美元指數資料公佈後小幅抬升，最新上漲0.09%，報98.55點。"
+    },
+    {
+      "id": "4880086",
+      "time": "2026-05-14 20:31:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐元下跌0.07%，報1.1705美元。"
+    },
+    {
+      "id": "4880085",
+      "time": "2026-05-14 20:31:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌4%，現報1474.00美元/盎司。"
+    },
+    {
+      "id": "4880084",
+      "time": "2026-05-14 20:31:33",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國股指期貨在四月零售銷售及每週初請失業金資料公佈後維持漲勢。"
+    },
+    {
+      "id": "4880083",
+      "time": "2026-05-14 20:31:27",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國4月出口價格環比上漲3.3%；預期上漲1.2%；\n美國4月份進口價格環比上漲1.9%；預期上漲1.0%。"
+    },
     {
       "id": "4880081",
       "time": "2026-05-14 20:30:50",
@@ -28,12 +271,106 @@
       "text": "美國4月零售銷售月率 0.5%，預期0.5%，前值1.70%。\n美國4月進口物價指數月率 1.9%，預期1%，前值由0.80%修正為0.9%。"
     },
     {
+      "id": "mkt:019e2677-efcc-7335-8cb1-8df4b9184a80",
+      "time": "2026-05-14 20:30:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "US INITIAL JOBLESS CLAIMS FOUR-WEEK AVERAGE 203,750 US JOBLESS CLAIMS 211,000 IN MAY 9 WEEK; EST. 205K"
+    },
+    {
+      "id": "mkt:019e2677-ef69-7335-8cb1-85a522b93007",
+      "time": "2026-05-14 20:30:10",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Wholesale Sales (MoM) (Mar) | actual 1.9% | consensus 1.4% | previous 2.00%"
+    },
+    {
       "id": "4880078",
       "time": "2026-05-14 20:30:07",
       "tags": [
         "國際"
       ],
       "text": "美國上週首次申領失業救濟人數為211,000人；預估為205,000人。"
+    },
+    {
+      "id": "mkt:019e2677-cfc1-7335-8cb1-7d18b1bc3ee8",
+      "time": "2026-05-14 20:30:06",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Core Retail Sales (MoM) (Apr) | actual 0.7% | consensus 0.6% | previous 1.90%"
+    },
+    {
+      "id": "mkt:019e2677-a343-7335-8cb1-682f3c04b327",
+      "time": "2026-05-14 20:30:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Export Price Index (MoM) (Apr) | actual 3.3% | consensus 1.1% | previous 1.60%"
+    },
+    {
+      "id": "mkt:019e2677-a340-7335-8cb1-6585d37bcef3",
+      "time": "2026-05-14 20:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Continued Jobless Claims (May.2) | actual 1782000K | consensus 1790000K | previous 1766000K"
+    },
+    {
+      "id": "mkt:019e2677-caf0-7335-8cb1-70d830e03a47",
+      "time": "2026-05-14 20:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Import Price Index (MoM) (Apr) | actual 1.9% | consensus 1% | previous 0.80%"
+    },
+    {
+      "id": "mkt:019e2677-a0dc-7335-8cb1-5783763d5363",
+      "time": "2026-05-14 20:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Initial Jobless Claims 4-Week Average (May.9) | actual 203750K | previous 203250K"
+    },
+    {
+      "id": "mkt:019e2677-2120-7335-8cb1-4301509d283f",
+      "time": "2026-05-14 20:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Initial Jobless Claims (May.9) | actual 211000K | consensus 205000K | previous 200000K"
+    },
+    {
+      "id": "mkt:019e2677-20bc-7335-8cb1-3fabd82a41bd",
+      "time": "2026-05-14 20:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Retail Sales (MoM) (Apr) | actual 0.5% | consensus 0.5% | previous 1.70%"
     },
     {
       "id": "4880077",
@@ -140254,146 +140591,6 @@
         "國際"
       ],
       "text": "世界黃金協會：所有地區均錄得資金淨流入，其中歐洲（+37億美元）領跑；亞洲（+18億美元）和北美（+10億美元）也錄得了顯著的資金流入。"
-    },
-    {
-      "id": "4866385",
-      "time": "2026-05-07 20:34:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【倍輕鬆：擬回購登出94.23萬股股票】倍輕鬆公告，公司擬回購登出2024年員工持股計劃未解鎖的94.23萬股股票，回購價格為授予價格32.92元/股。本次回購登出完成後，公司總股本將從8594.54萬股減少至8500.31萬股，佔總股本比例100%。"
-    },
-    {
-      "id": "4866384",
-      "time": "2026-05-07 20:34:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國第一季度勞動生產率初值環比增長0.8%；預期增長0.6%。"
-    },
-    {
-      "id": "4866383",
-      "time": "2026-05-07 20:34:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "克里姆林宮表示，俄羅斯總統普京將在勝利日閱兵上發表講話，並將會見外國來賓。"
-    },
-    {
-      "id": "te:markets:548789",
-      "time": "2026-05-07 20:34:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Netherlands",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Adyen earnings in line with market expectations at 17.94 EUR — Adyen (ADYEN) released earnings per share at 17.94 EUR, in line with market expectations."
-    },
-    {
-      "id": "te:markets:548788",
-      "time": "2026-05-07 20:34:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Leonardo SpA earnings above expectations at 0.23 EUR — Leonardo SpA (LDO) released earnings per share at 0.23 EUR, compared to market expectations of 0.22 EUR."
-    },
-    {
-      "id": "te:markets:548787",
-      "time": "2026-05-07 20:34:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "HeidelbergCement earnings below expectations at 1.27 EUR — HeidelbergCement (HEI) released earnings per share at 1.27 EUR, compared to market expectations of 1.50 EUR."
-    },
-    {
-      "id": "4866382",
-      "time": "2026-05-07 20:33:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "【歐盟將禁止AI生成深度偽造色情內容】歐洲議會議員和歐盟成員國7日就修訂《人工智慧法案》達成共識，同意禁止人工智慧系統生成“深度偽造”的色情內容。據法新社報道，這一禁令將被納入2024年透過的《人工智慧法案》修訂條款。歐洲議會議員邁克爾·麥克納馬拉說，這是歐盟首次透過立法明確禁止“脫衣換臉”類應用程式，“歐盟今天劃定了‘紅線’。人工智慧絕不能用於羞辱、剝削或危害他人”。歐洲議會和歐盟成員國代表當天還同意，推遲實施針對高風險人工智慧系統的監管規定。根據原計劃，針對獨立人工智慧系統的監管規定應於2026年8月生效，嵌入其他產品中的人工智慧工具應於2027年8月實施。上述時間將分別推遲至2027年12月和2028年8月。歐盟委員會此前表示，調整實施時間旨在幫助企業適應監管要求，以免抑制創新，歐盟仍將透過《人工智慧法案》其他條款推動人工智慧安全發展。 (新華社)"
-    },
-    {
-      "id": "te:economy:548786",
-      "time": "2026-05-07 20:33:35",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Unit Labour Costs QoQ",
-        "Importance 2"
-      ],
-      "text": "US Labor Costs Rise Less than Expected — Unit labor costs in the US nonfarm business sector increased by 2.3% in Q1 2026, less than market expectations of 2.6% and after an upwardly revised 4.6% rise in Q4, preliminary estimates showed. It reflects a 31% increase in hourly compensation and a 0.8% increase in productivity. In the manufacturing sector, unit labor costs rose 2.4%, reflecting a 6.1% increase in hourly compensation and a 3.6% increase in productivity. On an annual basis, nonfarm unit labor costs rose 1.2%, while manufacturing unit labor costs advanced 3.7%."
-    },
-    {
-      "id": "4866381",
-      "time": "2026-05-07 20:33:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "據奧地利《皇冠報》7日報道，奧地利林茨市一家餐館外發生槍擊事件，已造成3人死亡。（新華社）"
-    },
-    {
-      "id": "4866380",
-      "time": "2026-05-07 20:33:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "根據美國證券交易委員會（SEC）備案檔案：滙豐銀行將發行兩級固定/浮動利率優先無抵押票據，發行規模尚未披露。"
-    },
-    {
-      "id": "4866379",
-      "time": "2026-05-07 20:32:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國一季度非農生產力初值 0.8%，預期1%，前值由1.80%修正為1.6%。"
-    },
-    {
-      "id": "4866378",
-      "time": "2026-05-07 20:32:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "智利 4 月貿易順差 19.12 億美元；預期值 24.55 億美元。"
-    },
-    {
-      "id": "4866377",
-      "time": "2026-05-07 20:31:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統助理烏沙科夫：俄羅斯總統普京將會見寮國總統。"
-    },
-    {
-      "id": "4866376",
-      "time": "2026-05-07 20:31:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣東自貿區南沙、橫琴推出兩項外匯便利化試點】國家外匯管理局廣東省分局釋出通知，在廣東自由貿易試驗區廣州南沙片區、珠海橫琴片區正式啟動資本專案結匯資金使用、最佳化外匯NRA賬戶（即境外機構的境內外匯賬戶）退匯資金流程兩項改革試點，持續深化跨境投融資便利化，助力粵港澳大灣區開放型經濟提質增效。本次試點明確南沙、橫琴片區內的非金融企業資本金、外債項下外匯收入及其結匯人民幣資金，在真實合規前提下，可用於非關聯企業借款，進一步拓寬企業跨境資金使用空間。作為全國首批試點區域，廣州南沙自貿片區自2022年1月啟動相關改革以來，截至2026年一季度末，已有30家企業累計辦理80筆試點業務，試點金額5.46億美元。珠海橫琴自貿片區成為繼廣州南沙自貿片區後，國家外匯管理局廣東省分局轄內第二個獲批開展擴大資本專案收入使用範圍試點的區域。（央視新聞）"
-    },
-    {
-      "id": "mkt:019e026c-05fb-7669-adb9-85b62500f799",
-      "time": "2026-05-07 20:31:21",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "U.S. TREASURY YIELDS HOLD DECLINES AFTER DATA; YIELD ON 10-YEAR TREASURY NOTE LAST DOWN 2.2 BASIS POINTS AT 4.332%"
     }
   ]
 }
