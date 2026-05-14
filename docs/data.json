@@ -1,7 +1,52 @@
 {
-  "updated": "2026-05-14 08:37:51",
-  "count": 15364,
+  "updated": "2026-05-14 08:41:22",
+  "count": 15366,
   "items": [
+    {
+      "id": "4878809",
+      "time": "2026-05-14 08:40:36",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "韓國：三星罷工或將對經濟構成重大風險。"
+    },
+    {
+      "id": "4878808",
+      "time": "2026-05-14 08:39:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國：若外部環境改善，外匯市場將迅速企穩。"
+    },
+    {
+      "id": "4878807",
+      "time": "2026-05-14 08:39:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國：投機交易導致外匯波動過度擴大。"
+    },
+    {
+      "id": "4878806",
+      "time": "2026-05-14 08:38:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【在摩洛哥失蹤的兩名美軍士兵遺體均已找到 】美軍非洲司令部13日發表宣告說，本月初在摩洛哥參加軍演時失蹤的另一名美軍士兵的遺體已被找到。至此，在這起事件中失蹤的兩名美軍士兵遺體均已找到。宣告說，美國和摩洛哥組成的聯合搜救隊12日在一處沿海洞穴內發現了這名19歲士兵的遺體。一架美國軍機正載著這兩名士兵遺體返回美國。這兩名美國軍人隸屬參加“非洲獅2026”多國軍演的美軍部隊，2日在摩洛哥德拉角訓練區附近失蹤。美軍非洲司令部10日說，其中一名士兵的遺體9日被摩洛哥軍方找到。"
+    },
+    {
+      "id": "te:markets:550468",
+      "time": "2026-05-14 08:38:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Stocks in Australia Hit 6-week Low — ASX200 decreased to 8582.00 Index Points, the lowest since April 2026. Over the past 4 weeks, Australia Stock Market Index (AU200) lost 3.92%, and in the last 12 months, it increased 3.97%."
+    },
     {
       "id": "4878805",
       "time": "2026-05-14 08:37:05",
@@ -138171,32 +138216,6 @@
         "Importance 2"
       ],
       "text": "Japan’s Nikkei Hits Fresh All-Time High — The Nikkei 225 Index jumped around 4% to roughly 62,000 in post-holiday trading on Thursday, reaching a new record as strong technology earnings and growing expectations of a Middle East peace deal lifted global risk sentiment. Reports indicated that the US and Iran are close to a one-page, 14-point memorandum of understanding aimed at ending the conflict, with provisions that could eventually lead to the reopening of the Strait of Hormuz and a framework for further nuclear negotiations. Japanese equities caught up with gains in global markets, as upbeat results from major US technology firms reinforced optimism around artificial intelligence. Advanced Micro Devices rallied nearly 20% overnight after strong earnings. In Japan, notable gains were seen across AI- and semiconductor-linked stocks, including Advantest (7%), SoftBank Group (11%), Fujikura (7%), Keyence (6%) and Lasertec (7%)."
-    },
-    {
-      "id": "4864460",
-      "time": "2026-05-07 08:41:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "一位美國聯邦法官拒絕了富爾頓縣官員的請求，該請求旨在迫使聯邦調查局歸還今年早些時候被沒收的2020年大選數百個選票箱。"
-    },
-    {
-      "id": "4864459",
-      "time": "2026-05-07 08:39:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "據伊朗媒體7日報道，伊朗國防部發言人禮薩·塔拉埃-尼克說，以色列必須承認伊朗人民的權利，這將為結束戰事鋪平道路。美國若不承認伊朗人民的權利、不與以色列劃清界限、不正視現實，就無法擺脫其深陷的泥潭。（新華社）"
-    },
-    {
-      "id": "4864458",
-      "time": "2026-05-07 08:37:56",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "【日本最高外匯官員稱國際貨幣基金組織規則並不限制干預次數】日本最高外匯官員三村淳週四表示，國際貨幣基金組織(IMF)的規則並未限制各當局干預外匯市場的頻率。日元週三大幅上漲後，三村淳對記者說，政府將繼續帶著高度緊迫感密切關注匯率走勢。他拒絕就這些波動發表評論。三村淳稱，外匯市場的投機活動仍在繼續。當局正在關注各個市場，以尋求可能的應對措施。他拒絕評論日元匯率是否存在一條防線。他也拒絕就美國財政部長斯科特·貝森特即將進行的訪問發表評論。"
     }
   ]
 }
