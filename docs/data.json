@@ -1,7 +1,42 @@
 {
-  "updated": "2026-05-14 11:33:02",
-  "count": 15344,
+  "updated": "2026-05-14 11:36:24",
+  "count": 15346,
   "items": [
+    {
+      "id": "4879044",
+      "time": "2026-05-14 11:36:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【浙商中拓等成立供應鏈公司，含金屬材料銷售業務】企查查APP顯示，近日，浙商中拓建邦（江蘇）供應鏈有限公司成立，法定代表人為趙維，註冊資本為1億元，經營範圍包含：供應鏈管理服務；金屬材料銷售；有色金屬合金銷售；金屬製品銷售；金屬鏈條及其他金屬製品銷售等。企查查股權穿透顯示，該公司由浙商中拓、山西建邦集團有限公司共同持股。"
+    },
+    {
+      "id": "4879043",
+      "time": "2026-05-14 11:35:32",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本30年期國債拍賣的投標倍數為3.49，前次拍賣為3.115，12個月平均值為3.37。"
+    },
+    {
+      "id": "mkt:019e248d-b425-777f-be5b-4646a2d966c0",
+      "time": "2026-05-14 11:35:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "CHINA'S XI MEETS TRUMP IN BEIJING; MUSK, COOK, HUANG AND OTHER US CEOS ATTEND THE TALKS, CCTV REPORTS"
+    },
+    {
+      "id": "4879042",
+      "time": "2026-05-14 11:34:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華沿機器人在蘇州成立新公司】企查查APP顯示，近日，華沿機器人（蘇州）有限公司成立，法定代表人為王光能，註冊資本為3500萬元，經營範圍包含：工業機器人制造；工業機器人銷售；智慧機器人的研發；智慧機器人銷售等。企查查股權穿透顯示，該公司由華沿機器人全資持股。"
+    },
     {
       "id": "4879040",
       "time": "2026-05-14 11:32:43",
@@ -138266,25 +138301,6 @@
         "公司"
       ],
       "text": "【多地農商行存款再降息 全國性銀行按兵不動】近期，多地農商行密集下調存款利率，部分銀行還加強了差異化利率定價，提高負債成本管理的精細化程度。與此同時，以國有大型銀行和股份制銀行為代表的全國性銀行存款利率保持穩定，銀行業存款利率調整呈現明顯分化。專家表示，兩類銀行存款利率調整節奏出現差異，源於負債結構、息差壓力和調整週期不同，預計後續地方農商行仍需“補降”負債成本。（中證金牛座）"
-    },
-    {
-      "id": "te:markets:548571",
-      "time": "2026-05-07 11:33:56",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Corn Prices Hit 3-Week Low — Corn futures fell around $4.5 per bushel, hitting a three-week low as declining oil prices weighed on biofuel-related demand, while faster US planting progress added pressure. Reports that the US and Iran were closing in on an agreement to end the war sent oil prices plunging, which reduced the biofuel-related support that had helped lift prices in recent sessions. A faster-than-average US planting pace weighed on prices as well, with USDA crop progress report showing nationwide planting at 38% complete, ahead of the five-year average of 34%. Recent weather across the US Corn Belt has improved, with forecasts pointing to drier conditions that are easing earlier concerns about planting delays following Midwest storms. However, some regions continue to see uneven soil moisture. Export demand remained relatively steady, with USDA reporting net export sales of old-crop US corn in the week ended April 23 at 1,597,800 tons, in line with expectations for 1,000,000 to 1,900,000 tons."
-    },
-    {
-      "id": "4865138",
-      "time": "2026-05-07 11:33:30",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根大通將英飛凌目標股價從48歐元上調至74歐元。"
     }
   ]
 }
