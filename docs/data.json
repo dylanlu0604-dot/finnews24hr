@@ -1,7 +1,102 @@
 {
-  "updated": "2026-05-14 20:34:41",
-  "count": 15547,
+  "updated": "2026-05-14 20:38:04",
+  "count": 15545,
   "items": [
+    {
+      "id": "mkt:019e267e-61a7-7dde-99f4-29558468badb",
+      "time": "2026-05-14 20:37:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CUBA SAYS COUNTRY DOESN'T REJECT FOREIGN AID AFTER US PROPOSAL"
+    },
+    {
+      "id": "mkt:019e267e-1396-7dde-99f4-269c3fac4463",
+      "time": "2026-05-14 20:37:37",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "IRAQ SOUGHT FINANCIAL ASSISTANCE FROM IMF AS A RESULT OF CONFLICT IN MIDDLE EAST, SOURCE CLOSE TO IMF SAYS"
+    },
+    {
+      "id": "4880100",
+      "time": "2026-05-14 20:37:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "一位知情人士向國際貨幣基金組織透露，受中東衝突影響，伊拉克已向IMF尋求資金援助。"
+    },
+    {
+      "id": "te:economy:550733",
+      "time": "2026-05-14 20:36:26",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Export Prices MoM",
+        "Importance 1"
+      ],
+      "text": "US Export Prices Rise the Most in Over 4 Years — US export prices rose by 3.3% month-over-month in April 2026, up from a downwardly revised 1.5% advance in March and overshooting market forecasts of a 1.1% increase. This marks the steepest rise in export prices since March 2022. Higher prices for nonagricultural and agricultural exports contributed to the monthly advance. U.S. export prices rose 8.8% over the 12-month period ended April 2026, the strongest increase since September 2022."
+    },
+    {
+      "id": "4880099",
+      "time": "2026-05-14 20:36:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【富祥藥業：證券簡稱變更為“富祥股份”】富祥藥業公告稱，公司第五屆董事會第九次會議審議透過《關於變更證券簡稱的議案》，決定將證券簡稱由“富祥藥業”變更為“富祥股份”，新簡稱將於2026年5月15日啟用。"
+    },
+    {
+      "id": "te:economy:550731",
+      "time": "2026-05-14 20:35:55",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Initial Jobless Claims",
+        "Importance 2"
+      ],
+      "text": "US Initial Jobless Claims Rise More than Expected — The number of people claiming unemployment benefits in the US rose by 12,000 from the previous week to 211,000 on the first week of May, above market expectations of 205,000. Continuing jobless claims, which are a proxy for outstanding unemployment in the US, rose by 24,000 to 1,782,000, slightly under the expectations of 1,790,000. Despite the increases, the claim counts remained well under their respective averages from the previous year, aligning with other data that reflect a robust labor market and low levels of job cuts. Meanwhile, initial claims filed by federal employees, which have been under scrutiny due to government shutdowns that have delayed unemployment insurance filing, fell by 46 claims to 392."
+    },
+    {
+      "id": "4880098",
+      "time": "2026-05-14 20:35:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【明微電子：明微技術擬受讓579.02萬股股份佔總股本5.26%】明微電子公告，股東明微技術擬透過詢價轉讓方式受讓579.02萬股股份，佔公司總股本5.26%。受讓方為具備相應定價能力和風險承受能力的機構投資者。轉讓價格下限不低於傳送認購邀請書之日（即2026年5月14日，含當日）前20個交易日明微電子股票交易均價的70%。"
+    },
+    {
+      "id": "4880097",
+      "time": "2026-05-14 20:35:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【海底撈把火鍋搬進電影院】海底撈與北京亦莊奢享影城合作推出 “火鍋影廳”，消費者可以邊看電影邊享用正宗海底撈火鍋，這也是海底撈首次在北京嘗試這一新模式。從露營店、夜宵店再到進駐電影院，海底撈希望透過持續的場景創新，創造更多 “到店理由”。"
+    },
+    {
+      "id": "mkt:019e267b-aae1-7dde-99f4-191d8357be97",
+      "time": "2026-05-14 20:34:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "WES STREETING WON'T TRIGGER LEADERSHIP CONTEST THURSDAY: PERSON PERSON FAMILIAR WITH WES STREETING'S PLANS SAYS IN TEXT MESSAGE"
+    },
+    {
+      "id": "te:economy:550729",
+      "time": "2026-05-14 20:34:58",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Import Prices MoM",
+        "Importance 2"
+      ],
+      "text": "US Import Prices Rise More than Expected — US import prices rose 1.9% month-over-month in April 2026, the most since March 2022 and well above market expectations for a 1% increase, following gains of 0.9% in March and 1% in February. The rise was largely driven by a sharp jump in fuel and lubricant prices, which climbed 16.3% after increasing 10% the previous month. It marked the biggest monthly advance since March 2022. Petroleum and petroleum product prices surged 19%, more than offsetting a 22.1% decline in import natural gas prices. Nonfuel import prices also increased 0.8% in April after a 0.2% rise in March, supported by higher costs for capital goods, industrial supplies, consumer goods and food products, while automotive prices declined. On an annual basis, US import prices advanced 4.2% from April 2025 to April 2026, matching the strongest yearly increase since October 2022."
+    },
     {
       "id": "4880096",
       "time": "2026-05-14 20:34:29",
@@ -48,6 +143,16 @@
     },
     {
       "id": "mkt:01cd9e5e-8a47-46de-96ea-2975349a76f0",
+      "time": "2026-05-14 20:33:26",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Retail Sales (Apr) | actual 757085000000B | previous 752063000000B"
+    },
+    {
+      "id": "mkt:019e267a-f7a2-7335-8cb1-d669e3644861",
       "time": "2026-05-14 20:33:26",
       "tags": [
         "MKT News",
@@ -140470,127 +140575,6 @@
         "國際"
       ],
       "text": "美國大豆出口總銷量為147,400噸。"
-    },
-    {
-      "id": "4866395",
-      "time": "2026-05-07 20:37:59",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "智利央行會議紀要顯示：戰爭持續及其對油價及其他大宗商品價格的影響，將加劇通脹與經濟活動面臨的風險。"
-    },
-    {
-      "id": "4866394",
-      "time": "2026-05-07 20:37:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "雅寶執行長：能源安全與電網韌性是全球鋰需求的最大驅動因素之一。"
-    },
-    {
-      "id": "4866393",
-      "time": "2026-05-07 20:37:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國玉米總出口銷售額為1,484,500噸。美國小麥總出口銷售額為266,300噸。"
-    },
-    {
-      "id": "4866392",
-      "time": "2026-05-07 20:37:07",
-      "tags": [
-        "市場"
-      ],
-      "text": "土耳其主要銀行指數上漲3%。"
-    },
-    {
-      "id": "4866391",
-      "time": "2026-05-07 20:36:47",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "【捷克央行維持關鍵利率不變】捷克央行將關鍵利率維持在3.50%不變。"
-    },
-    {
-      "id": "te:economy:548792",
-      "time": "2026-05-07 20:36:43",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Nonfarm Productivity QoQ",
-        "Importance 2"
-      ],
-      "text": "US Productivity Growth Slows Below Forecasts — Labor productivity in the US nonfarm business sector rose 0.8% in the first quarter of 2026, slowing from a revised 1.6% increase in the previous quarter and missing market expectations of a 1.4% gain, according to preliminary estimates. Output grew 1.5% and hours worked increased 0.7%."
-    },
-    {
-      "id": "te:markets:548791",
-      "time": "2026-05-07 20:36:36",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "South Africa",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Gold Fields earnings above expectations at 1.21 USD — Gold Fields (GFI) released earnings per share at 1.21 USD, compared to market expectations of 1.14 USD."
-    },
-    {
-      "id": "te:economy:548790",
-      "time": "2026-05-07 20:36:19",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Initial Jobless Claims",
-        "Importance 2"
-      ],
-      "text": "US Initial Jobless Claims Rise Less than Expected — The number of people claiming unemployment benefits in the US rose by 10,000 from the three-year low in previous week to 200,000 in the last week of April, below market expectations of 205,000, and remaining firmly under the recent and historical average. Meanwhile, continuing claims, which are a proxy for outstanding unemployment in the US, fell by 10,000 to 1,766,000 on the week ending April 25th, the lowest in over two years and contrasting with expectations of an increase to 1,800,000."
-    },
-    {
-      "id": "4866390",
-      "time": "2026-05-07 20:36:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "【奧本海默上調康寧目標價】奧本海默將康寧目標價從120美元上調至210美元。"
-    },
-    {
-      "id": "4866389",
-      "time": "2026-05-07 20:35:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "【雷賽智慧：行星關節模組等產品獲得數十家主流機器人客戶訂單】雷賽智慧(002979)5月7日接受機構調研時表示，2025年，公司的無框力矩電機產品交付超過12萬臺，取得20倍以上的增長，獲得機器人行業頭部廠商智元機器人“優秀供應商夥伴”；根據國內外客戶業務預期，目前正在建設年產200萬臺的自動化生產製造能力；公司的行星關節模組、諧波關節模組以及21自由度靈巧手研發成功並實現批次供應，目前已經獲得數十家主流機器人客戶訂單，並開始規模化供貨。"
-    },
-    {
-      "id": "4866388",
-      "time": "2026-05-07 20:35:27",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "智利央行會議紀要：董事會成員一致認為，宏觀經濟前景仍在高不確定性背景下演進。"
-    },
-    {
-      "id": "4866387",
-      "time": "2026-05-07 20:35:13",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【燃油價格暴漲，全球多家航司削減逾7.5萬個夏季航班】一份最新航空資料分析報告顯示，由於航空燃油價格持續飆升，全球多家航空公司決定在今年夏季削減逾7.5萬個航班。削減航班數最多的4家航司均來自美國。（新華社）"
-    },
-    {
-      "id": "4866386",
-      "time": "2026-05-07 20:34:56",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "世界黃金協會：所有地區均錄得資金淨流入，其中歐洲（+37億美元）領跑；亞洲（+18億美元）和北美（+10億美元）也錄得了顯著的資金流入。"
     }
   ]
 }
