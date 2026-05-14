@@ -1,7 +1,83 @@
 {
-  "updated": "2026-05-14 14:46:55",
+  "updated": "2026-05-14 14:50:21",
   "count": 15454,
   "items": [
+    {
+      "id": "mkt:019e2540-036e-799f-8003-fee9fb13f62a",
+      "time": "2026-05-14 14:50:12",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "U.S. CRUDE FUTURES FALL $1.15 TO $99.87/BBL AS CHINA'S XI HAILS TRADE PROGRESS IN TRUMP SUMMIT"
+    },
+    {
+      "id": "te:markets:550589",
+      "time": "2026-05-14 14:49:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Japanese Shares Decline as Investors Take Profits — The Nikkei 225 Index fell 0.98% to close at 62,654 on Thursday, while the broader Topix Index lost 0.95% to 3,882, with Japanese equities retreating from record highs as investors locked in profits following a strong rally. SoftBank Group dropped 4.3% despite reporting a sharp increase in quarterly profit driven by valuation gains tied to its investment in OpenAI. Meanwhile, Fujikura plunged 19.1% even after posting strong double-digit growth in both sales and profits. Elsewhere, mining company Mitsui Kinzoku declined 7.9% after issuing a weaker profit outlook for FY2027 despite forecasting higher revenue. Other major decliners included Kioxia Holdings (-4.6%), JX Advanced Metals (-4.7%), Mitsubishi Heavy Industries (-5.7%), Sumitomo Electric (-5.1%) and Sony Group (-5.3%). Investors also continued monitoring the meeting between US President Donald Trump and Chinese President Xi Jinping amid hopes for improved relations despite ongoing tariff disputes and other contentious issues."
+    },
+    {
+      "id": "4879314",
+      "time": "2026-05-14 14:49:38",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【以色列與埃爾位元簽署 F-35 增程能力升級合同】以色列國防部宣佈，已與埃爾位元旗下全資子公司賽克隆公司簽署一份價值3400 萬美元的合同，為洛克希德・馬丁製造的 F-35 “阿迪爾” 戰鬥機研發增程效能。該協議涵蓋外掛油箱的研發與適配整合，油箱基於賽克隆公司原本為 F-16 戰機設計的現有方案改進而來。此項新升級能力預計將延長戰機作戰航程、降低對空中加油的依賴，並提升遠端任務的作戰靈活性。該合同是以色列國防部整體軍力建設戰略的一部分，旨在強化以色列應對未來十年高強度安全域性勢的戰備能力。"
+    },
+    {
+      "id": "4879313",
+      "time": "2026-05-14 14:48:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "Nexon 與 EA 續約合作，繼續在韓國運營 FC系列（原 FIFA 足球系列）遊戲。"
+    },
+    {
+      "id": "te:economy:550586",
+      "time": "2026-05-14 14:47:35",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Saudi Arabia",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Saudi Arabia Inflation Eases Slightly in April — The annual inflation rate in Saudi Arabia eased to 1.7% in April 2026 from 1.8% in the previous month, slightly below market expectations of 1.8%. Prices rose at a softer pace in housing and utilities (3.8% vs 3.9% in March), recreation, sport and culture (1.8% vs 2.0%), restaurant and accommodation services (1.0% vs 2.2%), and personal care, social protection and miscellaneous goods and services (6.3% vs 8.2%). Additionally, deflation continued in clothing and footwear (-0.3% vs -0.1%) and furnishings, household equipment and maintenance (unchanged at -0.5%). Meanwhile, costs increased further in food and beverages (0.6% vs 0.3%), transport (1.0% vs 0.9%), information and communication (1.3% vs 1.0%), and insurance and financial services (2.3% vs 2.1%), while inflation remained steady for tobacco (0.4%), health (0.4%), and education (1.4%). On a monthly basis, consumer prices rose 0.2% in April, easing slightly from 0.3% in the previous month."
+    },
+    {
+      "id": "4879312",
+      "time": "2026-05-14 14:47:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【寧波建工等成立城市運營管理公司】企查查APP顯示，近日，浙江海定城市運營管理有限公司成立，法定代表人為蔡海波，註冊資本為4100萬元，經營範圍包含：市政設施管理；園林綠化工程施工；城市綠化管理；工程管理服務；物業管理等。企查查股權穿透顯示，該公司由寧波建工(601789)旗下寧波市政工程建設集團股份有限公司、寧波東興瀝青製品有限公司共同持股。"
+    },
+    {
+      "id": "4879311",
+      "time": "2026-05-14 14:47:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗外長：關於伊朗不存在任何軍事解決方案】當地時間14日，伊朗外長阿拉格齊表示，關於伊朗不存在任何軍事解決方案，伊朗人民永遠都不會屈服於任何威脅或壓力。阿拉格齊還表示，伊朗已經準備好為了捍衛自由和土地而拼殺，同時也準備好繼續透過外交途徑來解決問題。（央視新聞）"
+    },
+    {
+      "id": "4879310",
+      "time": "2026-05-14 14:47:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "碳酸鋰連續主力合約日內跌5%，現報191640.00元。"
+    },
     {
       "id": "4879309",
       "time": "2026-05-14 14:46:31",
@@ -139382,74 +139458,6 @@
         "焦點"
       ],
       "text": "滬深兩市成交額超3萬億元，較上日此時縮量997億元。"
-    },
-    {
-      "id": "4865570",
-      "time": "2026-05-07 14:50:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "【信託業協會：抵制“內卷式”競爭】中國信託業協會制定了《中國信託業協會關於最佳化信託服務，促進信託業健康可持續發展的倡議書》。《倡議書》指出，秉承“質價相符”，抵制“內卷式”競爭；規範營銷行為，履行消保責任；堅持長期主義，摒棄盲目短視；聚焦增量市場，最佳化金融服務；堅守信義底線，強化職業操守。此次倡議，是協會自律提質的重要舉措，也是協會引領行業規範發展、良性競爭的重要行動。下一步，協會將繼續引導全體會員單位共同踐行倡議理念，堅守受託職責、恪守合規底線，提升服務質效，助力信託業行穩致遠、長效發展。"
-    },
-    {
-      "id": "4865569",
-      "time": "2026-05-07 14:49:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "【澳新銀行：菲律賓經濟前景依然充滿挑戰】澳新銀行研究部的Kausani Basak和Sanjay Mathur在一份報告中表示，在高通脹、增長疲軟和持續的外部不利因素下，菲律賓的經濟前景依然充滿挑戰。第一季度經濟增長差於預期，GDP較上年同期僅增長2.8%，而澳新銀行的預測為增長3.4%，第四季度為增長3.0%。在截至3月31日的三個月中，家庭消費也有所放緩，同比增長3.0%，而第四季度的增幅為3.8%。澳新銀行表示：“展望未來，隨著不斷上升的通脹侵蝕實際收入並迫使人們削減非必需品消費，家庭支出可能會面臨額外的壓力。”"
-    },
-    {
-      "id": "4865568",
-      "time": "2026-05-07 14:48:37",
-      "tags": [
-        "市場"
-      ],
-      "text": "德國兩年期國債收益率大幅下跌，日內累計下跌近3個基點，報2.5339%。"
-    },
-    {
-      "id": "4865567",
-      "time": "2026-05-07 14:48:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "殼牌首席財務官表示，公司一直在銷售珍珠天然氣制油專案庫存的產量。"
-    },
-    {
-      "id": "4865566",
-      "time": "2026-05-07 14:48:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國紅十字系統2025年調撥救災款物超4億元】記者今天從中國紅十字會瞭解到，2025年全國紅十字系統高效處置地震洪澇等各類災害，累計啟動應急響應228次，緊急救援、轉移安置和災後重建投入款物超4億元。（央視新聞）"
-    },
-    {
-      "id": "4865565",
-      "time": "2026-05-07 14:47:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "殼牌CEO：削減股票回購計劃是為了將資金分配到資產負債表上。"
-    },
-    {
-      "id": "te:markets:548616",
-      "time": "2026-05-07 14:47:27",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Broad Sector Strength Lifts ASX 200 to Two-Week Peak — The S&P/ASX 200 rose 85 points or near 1% to finish at 8,878 on Thursday, marking strength for the second straight session following record closes on Wall Street Wednesday, amid a strong earnings season and mounting hopes that the U.S. and Iran were closing in on an agreement to end the war. Australian markets stayed at their highest level in two weeks, boosted by gains in most sectors led by process industries, non-energy minerals, consumers, and producer manufacturing. However, gains were capped by March trade data showing the first trade deficit since December 2017, as imports hit record peaks but exports fell. Meantime, inflation jitters persisted as the Reserve Bank warned that surging fuel costs from the Middle East conflict could ignite second-round pressures in Australia, despite three rate hikes already this year. Among top movers were BHP Group (3.8%), Fortescue (3.7%), Evolution Mining (6.3%), and Lynas Rare Earths (3.6%). Also, two of the big four lenders posted gains."
-    },
-    {
-      "id": "4865564",
-      "time": "2026-05-07 14:47:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "殼牌首席財務官：伊朗戰爭導致約10%的石油和天然氣產量中斷。"
     }
   ]
 }
