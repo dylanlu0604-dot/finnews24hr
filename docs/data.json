@@ -1,7 +1,119 @@
 {
-  "updated": "2026-05-14 15:17:11",
-  "count": 15441,
+  "updated": "2026-05-14 15:20:42",
+  "count": 15447,
   "items": [
+    {
+      "id": "te:markets:550610",
+      "time": "2026-05-14 15:20:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Iron Ore Retreats on Weak Steel Demand — Iron ore futures slipped below CNY 815 per ton, pulling back from their highest levels in nearly two years as a seasonal slowdown in steel demand pressured feedstock prices. Domestic steel consumption in China continued to face headwinds from sluggish construction activity and broader economic uncertainty, while demand for Chinese steel exports also weakened as overseas buyers showed limited willingness to purchase at elevated prices. On the supply side, industry data indicated that iron ore inventories at Chinese ports stood at roughly 167 million tons in March, up 14.2% from a year earlier and remaining at record-high levels. Meanwhile, the massive Simandou iron ore project reported record shipments of 1.2 million tons in April. Globally, iron ore shipments increased 7% in April 2026 compared with the same month last year, adding further pressure to the market."
+    },
+    {
+      "id": "4879377",
+      "time": "2026-05-14 15:20:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【遊戲驛站CEO指責eBay草率回絕收購要約】遊戲驛站執行長瑞安・科恩針對eBay拒絕其560億美元收購要約一事強硬回擊，並重申將發起敵意收購的威脅。 郵件顯示，科恩週三致信eBay董事會主席保羅・普雷斯勒，指責該公司未就其收購要約實質內容展開任何溝通，便草率否決了這份每股125美元的非邀約收購方案。 科恩表示，儘管與eBay董事會會面的請求遭拒，但他計劃直接向股東提交收購要約。 科恩在信中寫道：“（eBay董事）不應在未評估方案實質價值的情況下，否決每股125美元的收購提議。交易的財務邏輯清晰、資訊公開。eBay股東有權對其進行評估。” 為推進收購，遊戲驛站已增持eBay 5%股份，為敵意收購奠定基礎。 市值僅103億美元的遊戲驛站，本月早些時候宣佈以現金+股票形式收購eBay——後者市值是其四倍以上。"
+    },
+    {
+      "id": "4879376",
+      "time": "2026-05-14 15:19:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "博柏利首席財務官在媒體電話會議上表示：在歐洲市場，遊客和本地客戶的佔比大概各為一半，美國遊客的消費表現勢頭良好。"
+    },
+    {
+      "id": "4879375",
+      "time": "2026-05-14 15:19:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星工會領導人在一份宣告中表示，要求資方在週五上午10點前對工會訴求作出答覆，否則工會將發起罷工。"
+    },
+    {
+      "id": "4879374",
+      "time": "2026-05-14 15:18:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐洲理事會啟動綜合危機應對機制 監測漢坦病毒疫情】當地時間14日，歐洲理事會發布訊息稱，歐盟輪值主席國塞普勒斯決定啟動歐洲理事會的綜合政治危機應對機制（IPCR），以資訊共享的模式積極監測正在暴發的漢坦病毒疫情。據稱，啟動IPCR機制將促進成員國和歐盟機構之間的資訊交流。該機制將作為一個平臺，彙集所有相關資訊，加強對疫情形勢的瞭解併為相關工作提供支援。（央視新聞）"
+    },
+    {
+      "id": "4879373",
+      "time": "2026-05-14 15:18:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【何小鵬攜新科技旗艦小鵬GX出席2026世界品牌莫干山大會】近日，何小鵬攜新科技旗艦小鵬GX出席2026世界品牌莫干山大會。小鵬集團董事長、CEO何小鵬圍繞物理AI智慧體的應用與創新，分享了對全球未來出行新生態的深度思考，提出品牌建設的六大要點，並介紹了即將上市的最新產品，科技集大成之作——小鵬GX。小鵬集團致力於發展為面向全球的物理AI公司，讓智慧汽車和人形機器人等高品質產品走向全球。（新華社）"
+    },
+    {
+      "id": "4879372",
+      "time": "2026-05-14 15:18:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "鴻海：全年展望維持強勁看法不變，對今年審慎樂觀，AI仍為主要成長動能。人工智慧不是短期趨勢，我們將把握人工智慧的長期增長趨勢。"
+    },
+    {
+      "id": "4879371",
+      "time": "2026-05-14 15:17:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【陳奇闢謠從千里科技離職】千里智駕聯席CEO陳奇闢謠了市場上的離職傳聞。他在社交媒體發文稱，“人在公司，還在為千里智駕打拼，謝謝大家關心。”此前市場訊息傳聞，陳奇或將離職創業。"
+    },
+    {
+      "id": "te:economy:550606",
+      "time": "2026-05-14 15:17:50",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Spain",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Spain Inflation Rate Confirmed at 3.2% in April — Spain recorded an annual inflation rate of 3.2% in April 2026, matching the flash estimate and below March’s 3.4%, which was the steepest since June 2024. A slower rise in prices of housing and utilities (1.9% vs 3.7% in March), particularly electricity, contributed significantly to the overall moderation in inflation, supported by Government anti-crisis measures that lowered electricity bills through tax reductions. The core rate, which excludes volatile items such as food and energy, edged down to 2.8% from 2.9%. Meanwhile, the EU-harmonised annual rate accelerated to 3.5%, a new high since June 2024, up from 3.4% in March. On a monthly basis, consumer prices rose by 0.4%, in line with initial estimates, slowing from 1.2% in March."
+    },
+    {
+      "id": "4879370",
+      "time": "2026-05-14 15:17:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "【5月14日滬深兩市漲停分析】滬指跌1.52%失守4200點，全市下跌個股超4300只。蒙娜麗莎5連板，利仁科技4連板，一圖看懂>>"
+    },
+    {
+      "id": "mkt:019e2559-3773-7aa5-b400-5a64c73f74e5",
+      "time": "2026-05-14 15:17:34",
+      "tags": [
+        "MKT News",
+        "INTC.O"
+      ],
+      "text": "INTEL WILL TODAY ANNOUNCE ITS RETURN TO FORMULA ONE SPONSORSHIP WITH A LONG-TERM MCLAREN RACING PARTNERSHIP - SKY NEWS"
+    },
+    {
+      "id": "4879369",
+      "time": "2026-05-14 15:17:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈薩克國家統計委員會：1-4月工業產出同比增長1.9%。"
+    },
+    {
+      "id": "4879368",
+      "time": "2026-05-14 15:17:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "路透調查：針對韓圓的空頭押注降至2月中旬以來最低水平。"
+    },
     {
       "id": "4879367",
       "time": "2026-05-14 15:16:57",
@@ -139309,73 +139421,6 @@
         "市場"
       ],
       "text": "【德商銀行：若英國地方選舉重新引發財政擔憂，英鎊或將下跌】德國商業銀行的Michael Pfister在一份報告中表示，如果週四的英國地方選舉導致人們重新對財政可持續性產生擔憂，英鎊可能會下跌。他表示，預計執政的工黨將遭受重大挫敗，這可能會重新引發對首相基爾·斯塔默命運的擔憂。他說，潛在的繼任者可能更傾向於該黨的左翼，後者寧願放棄平衡預算，也要將更多資金分配給各個專案。近年來，公共財政的艱難處境一直拖累著英鎊。“如果這種財政紀律現在受到質疑，英鎊可能會再次面臨巨大壓力。“英鎊上漲0.1%，至1.3602美元。歐元下跌0.1%，至0.8637英鎊。"
-    },
-    {
-      "id": "4865649",
-      "time": "2026-05-07 15:20:00",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "菲律賓比索兌美元漲幅擴大至1.6%。"
-    },
-    {
-      "id": "te:markets:548647",
-      "time": "2026-05-07 15:19:41",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "South Korea",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "South Korean Shares Close at New Peak — The benchmark KOSPI rose 1.43% to close at 7,490 on Thursday, resuming its rally to a fresh record high as buying returned in heavyweight technology and industrial stocks after earlier profit-taking. Among heavyweight stocks, Samsung Electronics and SK Hynix advanced 2.07% and 3.31%, respectively, while Hyundai Motor (4.00%), Doosan Enerbility (7.40%), HD Hyundai Heavy Industries (6.94%), and Kia Corporation (1.94%) also posted notable gains, helping offset earlier weakness across the broader market. Sentiment remained supported by easing concerns over the Middle East conflict after fresh signs of progress in US–Iran peace negotiations boosted global risk appetite and lifted Wall Street to record highs overnight. Additional support came from continued optimism surrounding AI-driven semiconductor demand after South Korea’s first-quarter exports hit a record high, with chip shipments soaring 139% year-on-year."
-    },
-    {
-      "id": "4865648",
-      "time": "2026-05-07 15:19:31",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "由於伊朗考慮美國的霍爾木茲海峽計劃，歐洲天然氣價格下跌高達5.5%。"
-    },
-    {
-      "id": "4865647",
-      "time": "2026-05-07 15:19:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "【第六批耗材國採5月密集落地】近日，隨著湖南、江西、內蒙古、廣東、北京、黑龍江等多地接連披露執行時間，第六批國家組織高值醫用耗材集中帶量採購（下稱“第六批耗材國採”）正式進入落地的密集期，覆蓋藥物塗層球囊、泌尿介入兩大類12種耗材的全國市場。此次集採開標於今年初完成，涉及市場規模約110億元，共227家企業的496個產品投標，最終202家企業的440個產品中選。隨著各地官宣，此前未完全公開的擬中選價格也正式浮出水面：藥物塗層球囊類產品中選價格區間為1677元-6015元，泌尿介入類耗材中選價格區間為60元-1537元。（21世紀經濟報道）"
-    },
-    {
-      "id": "te:economy:548646",
-      "time": "2026-05-07 15:18:52",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Czech Republic",
-        "Construction Output",
-        "Importance 1"
-      ],
-      "text": "Czech Construction Output Rises Faster in March — Construction output in the Czech Republic rose by 5.8% year-on-year in March 2026, accelerating from a 4.1% increase in the previous month. This marked the second consecutive month of growth in construction activity, largely driven by a 10.8% increase (vs 7.8% in February) in building construction. On the other hand, activity in civil engineering construction (-5.8% vs -5.5%) declined at a faster pace due to a high comparison base. A total of 5,497 building permits were granted, up 13.4% year-on-year, driven by a higher number of permits for family houses, while the floor area of new building construction fell 17.2% due to fewer permitted multi-dwelling buildings. Meanwhile, construction of 2,979 dwellings started, down 5.5% from a year earlier. On a monthly basis, construction activity grew by 1% in March, following a 0.8% gain in February."
-    },
-    {
-      "id": "4865646",
-      "time": "2026-05-07 15:17:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度金融服務部秘書：我們已要求各銀行確保儘快推出新的出口信貸擔保計劃（ECGLS）。"
-    },
-    {
-      "id": "4865645",
-      "time": "2026-05-07 15:17:34",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期銀突破80美元/盎司，日內漲3.49%。"
     }
   ]
 }
