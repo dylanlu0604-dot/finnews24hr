@@ -1,7 +1,63 @@
 {
-  "updated": "2026-05-15 04:33:16",
-  "count": 15136,
+  "updated": "2026-05-15 04:36:45",
+  "count": 15131,
   "items": [
+    {
+      "id": "4880599",
+      "time": "2026-05-15 04:36:24",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "市場訊息：美國黃金企業簽署協議，推進委內瑞拉礦業專案。"
+    },
+    {
+      "id": "te:markets:550838",
+      "time": "2026-05-15 04:35:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.75% Higher — The Dow Jones Index gained 370 points or 0.75 percent on Thursday to close at 50063 points. Gains were led by Cisco Systems (13.38%), Nvidia (4.40%) and Caterpillar (1.83%). Biggest losers were Boeing (-4.68%), 3M (-1.35%) and Amazon (-1.15%)."
+    },
+    {
+      "id": "4880598",
+      "time": "2026-05-15 04:34:27",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "Gemini Space Station Inc.獲得1億美元投資。公司一季度營收5030萬美元，分析師預期4870萬美元。"
+    },
+    {
+      "id": "4880597",
+      "time": "2026-05-15 04:33:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX最快或於下週遞交IPO招股說明書。"
+    },
+    {
+      "id": "mkt:019e2831-f8f3-7bb5-b4d2-c619f2b4217e",
+      "time": "2026-05-15 04:33:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SPACEX IPO PROSPECTUS COULD LAND AS SOON AS NEXT WEEK, SOURCES SAY - CNBC"
+    },
+    {
+      "id": "mkt:019e2831-a320-7bb5-b4d2-b906ee98a869",
+      "time": "2026-05-15 04:33:22",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Crypto Concepts"
+      ],
+      "text": "GEMINI SECURED A $100 MILLION STRATEGIC INVESTMENT FROM WINKLEVOSS CAPITAL AT $14/SHARE"
+    },
     {
       "id": "4880596",
       "time": "2026-05-15 04:32:18",
@@ -55,6 +111,14 @@
         "國際"
       ],
       "text": "美聯儲5月13日當週貼現窗貸款餘額60億美元，之前一週57.4億美元。"
+    },
+    {
+      "id": "4880593",
+      "time": "2026-05-15 04:28:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國疾控中心通：美國新增 150 例沙門氏菌病例，波及 18 個新增州；華盛頓州出現 1 例死亡病例，感染與家庭後院家禽飼養相關。"
     },
     {
       "id": "4880592",
@@ -136543,148 +136607,6 @@
         "其他"
       ],
       "text": "受英偉達投資影響，IREN股價飆升25%。"
-    },
-    {
-      "id": "te:markets:548913",
-      "time": "2026-05-08 04:36:24",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Consolidated Edison earnings below expectations at 2.18 USD — Consolidated Edison (ED) released earnings per share at 2.18 USD, compared to market expectations of 2.29 USD."
-    },
-    {
-      "id": "4867143",
-      "time": "2026-05-08 04:35:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "英偉達將向 IREN 投資至多 21 億美元。"
-    },
-    {
-      "id": "4867142",
-      "time": "2026-05-08 04:35:23",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【伊朗首都德黑蘭西部啟動防空系統】當地時間7日夜間，伊朗首都德黑蘭西部啟動防空系統。（央視新聞）"
-    },
-    {
-      "id": "te:markets:548912",
-      "time": "2026-05-08 04:35:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Closes 0.68% Lower — The Dow Jones Index decreased 337 points or 0.68 percent on Thursday to close at 49573 points. The decline was led by Caterpillar (-3.34%), JPMorgan (-2.73%) and 3M (-1.90%). On the upside, the strongest performers were Salesforce (3.34%), IBM (2.45%) and Nvidia (1.80%)."
-    },
-    {
-      "id": "mkt:019e0426-82b6-7775-8cba-f442ccda86b2",
-      "time": "2026-05-08 04:34:53",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O"
-      ],
-      "text": "NVIDIA CORP - FUTURE DEPLOYMENTS TO FOCUS ON IREN'S 2 GW SWEETWATER CAMPUS IN TEXAS"
-    },
-    {
-      "id": "mkt:019e0426-6b1a-7775-8cba-e96fa7872d2e",
-      "time": "2026-05-08 04:34:47",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "IREN.MI"
-      ],
-      "text": "NVIDIA CORP - GRANTED FIVE-YEAR RIGHT TO BUY UP TO 30 MLN IREN SHARES AT $70 PER SHARE"
-    },
-    {
-      "id": "mkt:019e0426-586c-7775-8cba-e365b1e0a1fb",
-      "time": "2026-05-08 04:34:42",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish",
-        "IREN.MI"
-      ],
-      "text": "NVIDIA AND IREN ANNOUNCE STRATEGIC PARTNERSHIP TO ACCELERATE DEPLOYMENT OF UP TO 5 GIGAWATTS OF AI INFRASTRUCTURE"
-    },
-    {
-      "id": "mkt:019e0426-2e28-7775-8cba-dad2226fcb04",
-      "time": "2026-05-08 04:34:31",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "FED'S WILLIAMS: US LESS EXPOSED TO SUPPLY CHAIN DISRUPTIONS RELATIVE TO OTHER PARTS OF THE WORLD"
-    },
-    {
-      "id": "4867141",
-      "time": "2026-05-08 04:33:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "加密貨幣交易所Coinbase一季度淨虧損3.941億美元。"
-    },
-    {
-      "id": "4867140",
-      "time": "2026-05-08 04:33:49",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲威廉姆斯：全球經濟易受供應鏈中斷衝擊。"
-    },
-    {
-      "id": "mkt:019e0425-72d5-7775-8cba-d14b30223208",
-      "time": "2026-05-08 04:33:43",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "XAUUSD",
-        "Impact mixed"
-      ],
-      "text": "FED'S WILLIAMS: THE GLOBAL ECONOMY IS SUSCEPTIBLE TO SUPPLY CHAIN DISRUPTIONS"
-    },
-    {
-      "id": "4867139",
-      "time": "2026-05-08 04:33:20",
-      "tags": [
-        "央行",
-        "市場",
-        "國際"
-      ],
-      "text": "美國至5月1日當週外國央行持有美國國債 -87.4億美元，前值66.79億美元。"
     }
   ]
 }
