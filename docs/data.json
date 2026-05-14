@@ -1,7 +1,36 @@
 {
-  "updated": "2026-05-14 12:47:42",
-  "count": 15387,
+  "updated": "2026-05-14 12:51:06",
+  "count": 15386,
   "items": [
+    {
+      "id": "mkt:019e24d0-cfae-777f-be5b-f73ac4e9c9fd",
+      "time": "2026-05-14 12:48:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "XI TO US CEOS: SAYS CHINA WELCOMES US TO STRENGTHEN RECRIPOCAL COOPERATION IN CHINA - XINHUA"
+    },
+    {
+      "id": "mkt:019e24d0-ce55-777f-be5b-e9d317b4b936",
+      "time": "2026-05-14 12:48:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "S&P500",
+        "Copper"
+      ],
+      "text": "XI TO US CEOS: SAYS CHINA'S DOOR WILL ONLY OPEN WIDER - XINHUA"
+    },
     {
       "id": "4879141",
       "time": "2026-05-14 12:47:25",
@@ -138702,31 +138731,6 @@
         "公司"
       ],
       "text": "住友商事：伯克希爾·哈撒韋公司的投票權總和現在為 10.05%，高於變更前的 9.3%。"
-    },
-    {
-      "id": "4865399",
-      "time": "2026-05-07 12:49:19",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【上交所：景順長城全球半導體晶片產業股票型證券投資基金（QDII-LOF）臨時停牌】上交所釋出通知，根據景順長城基金管理有限公司申請，本所於2026年5月7日盤中即時起至收市暫停景順長城全球半導體晶片產業股票型證券投資基金（QDII-LOF）（證券程式碼：501225）交易業務。"
-    },
-    {
-      "id": "4865398",
-      "time": "2026-05-07 12:48:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "【雷克薩斯純電三排座SUV全球首發】5月7日，雷克薩斯宣佈純電三排座SUV全新TZ全球首發，新車車長5.1米，軸距3.05米，配備95.82kWh大電池。"
-    },
-    {
-      "id": "4865397",
-      "time": "2026-05-07 12:48:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【深圳鐵路“五一”假期累計到發旅客674.11萬人次 同比增9.8%】記者從深圳鐵路部門獲悉，為期8天的鐵路“五一”假期運輸於5月6日落下帷幕。4月29日至5月6日，深圳鐵路累計到發旅客674.11萬人次，同比增9.8%。"
     }
   ]
 }
