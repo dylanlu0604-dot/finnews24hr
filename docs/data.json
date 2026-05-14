@@ -1,7 +1,40 @@
 {
-  "updated": "2026-05-15 07:42:48",
-  "count": 15190,
+  "updated": "2026-05-15 07:46:18",
+  "count": 15189,
   "items": [
+    {
+      "id": "4880792",
+      "time": "2026-05-15 07:45:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【豪恩汽電：收到某德系高階豪華汽車品牌產品定點信，預計專案生命週期內總營業額約7.8億元】豪恩汽電公告，公司近日收到某德系高階豪華汽車品牌的智慧駕駛視覺感知（ADAS攝像感知）產品的定點信。專案生命週期為7年，預估生命週期內總營業額約7.8億元，預計2027年9月開始量產。"
+    },
+    {
+      "id": "4880791",
+      "time": "2026-05-15 07:45:26",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事巴爾：期待沃什上任後能在美聯儲做出一番成就。"
+    },
+    {
+      "id": "4880790",
+      "time": "2026-05-15 07:43:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【光迅科技：當前未生產光隔離器用的法拉第旋片】光迅科技(002281)5月14日在業績說明會表示，公司當前未生產光隔離器用的法拉第旋片。"
+    },
+    {
+      "id": "4880789",
+      "time": "2026-05-15 07:42:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：日本防衛省正考慮向菲律賓出口88式岸艦導彈。"
+    },
     {
       "id": "4880788",
       "time": "2026-05-15 07:40:14",
@@ -137036,53 +137069,6 @@
         "國際"
       ],
       "text": "日本日經平均指數期貨早盤下跌1.54%。"
-    },
-    {
-      "id": "4867271",
-      "time": "2026-05-08 07:44:59",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【軟銀與英偉達和鴻海磋商，擬開發“日本製造”的AI伺服器】據報道，軟銀集團開始與英偉達和鴻海磋商，考慮開發“日本製造”的人工智慧伺服器，最早下週一公佈計劃。據悉，軟銀希望到本十年末先透過組裝外部採購的元件建立生產系統，最終全面掌控伺服器的製造流程。"
-    },
-    {
-      "id": "4867270",
-      "time": "2026-05-08 07:44:36",
-      "tags": [
-        "公司",
-        "國際",
-        "原創"
-      ],
-      "text": "【英偉達出資數十億美元助力康寧新建工廠】英偉達和康寧公司的CEO週四證實，除了本週早些時候披露的至多32 億美元股權投資外，英偉達還額外出資數十億美元，助力康寧新建工廠。英偉達CEO黃仁勳表示，該公司已向康寧支付了數十億美元的預付款。本週早些時候英偉達宣佈對康寧進行股權投資時，並未披露這筆預付款項。“這將創造數千個就業崗位，”黃仁勳說，康寧“將建造全新的工廠”，使其美國產能“提高十倍”。"
-    },
-    {
-      "id": "4867269",
-      "time": "2026-05-08 07:44:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "【大容量電芯迭代速度遠超行業預期 500+Ah產品將在2026年迎來爆發式增長】隨著市場對長時儲能專案的需求上升，大容量電芯成行業競爭焦點。近日，多家廠商展出或釋出了500+Ah甚至更高容量的儲能電芯，大容量電芯迭代速度遠超行業預期。證券時報記者從多家電芯廠商獲悉，多數廠商的大容量儲能電芯已進入轉產階段，客戶整體接受度較好，部分廠商計劃於2026年第三季度實現大電芯量產交付。業內反饋，500+Ah產品將在2026年迎來爆發式增長、取代314Ah產品並逐步主導市場，預計在2027年成為儲能電芯主流產品。今年以來，國家相關部委多次召開動力及儲能電池行業座談會。受訪人士反饋，從電芯維度看，大容量電芯對技術能力的要求遠超314Ah及以下產品，技術壁壘正在加速形成；從整合商角度看，頭部系統整合商正透過長期戰略合作鎖定電芯產能，而中小整合商則面臨更大的供應風險。"
-    },
-    {
-      "id": "te:economy:548940",
-      "time": "2026-05-08 07:44:05",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Argentina",
-        "Industrial Production",
-        "Importance 1"
-      ],
-      "text": "Argentina Industrial Output Rises for 1st Time in 9 Months — Argentina’s industrial production rose by 5.0% year-on-year in March 2026, recovering from an 8.6% decline in the previous month. It marked the first month of growth in industrial activity since late June, as ten of the sixteen manufacturing divisions posted annual gains, led by chemicals and chemical products up 15.9%, petroleum refining coke and nuclear fuel up 13.5%, wood paper publishing and printing up 12.8%, metal products up 9.2%, food and beverages up 7.9%, and motor vehicles trailers and auto parts up 7.6%. Tobacco products also surged 28.2%, while non-metallic mineral products increased 6.9%. Meanwhile, major declines were recorded in textiles down 23.3%, machinery and equipment down 11.3%, basic metal industries down 10.1%, and wearing apparel leather and footwear down 8.9%. On a seasonally adjusted monthly basis, industrial activity rebounded 3.2% in March after falling 3.1% in February, though output in the first quarter remained 2.3% below the same period last year."
-    },
-    {
-      "id": "4867268",
-      "time": "2026-05-08 07:43:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "【殲-35“0001編號”戰機亮相 這架特殊的“隱身戰鷹”瞄準國際市場】近日，在電視節目中，一架機頭印著“AVIC”標識、編號為“0001”的殲-35隱身戰鬥機從機庫滑出，在螢幕上驚豔亮相，給軍迷們留下了巨大遐想空間。這並非一次普通的裝備展示——機身沒有空軍的“八一”軍徽，塗裝也與軍方列裝版本有所不同，而航空工業的英文縮寫“AVIC”非常醒目。軍事評論員傅前哨表示，我們不難推測，它很有可能是一款出口型版本。（央視）"
     }
   ]
 }
