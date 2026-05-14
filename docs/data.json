@@ -1,7 +1,32 @@
 {
-  "updated": "2026-05-15 07:25:18",
-  "count": 15185,
+  "updated": "2026-05-15 07:28:49",
+  "count": 15184,
   "items": [
+    {
+      "id": "4880770",
+      "time": "2026-05-15 07:27:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：XAI聯合創始人正洽談為其人工智慧初創公司籌集至多10億美元資金。"
+    },
+    {
+      "id": "4880769",
+      "time": "2026-05-15 07:26:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦航空管理局（FAA）訊息：佛羅里達州棕櫚灘機場將於7月9日起正式更名為特朗普國際機場。"
+    },
+    {
+      "id": "4880768",
+      "time": "2026-05-15 07:25:37",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲理事斯蒂芬·米蘭遞交辭呈】當地時間5月14日，美聯儲理事斯蒂芬·米蘭提交辭呈，辭去美聯儲理事會成員職務，其辭呈將在其繼任者宣誓就職時或就職前不久生效。米蘭自2025年9月16日起擔任美聯儲理事會成員。米蘭在辭呈中批評了美聯儲衡量通脹的方式，稱如果“不針對這些錯誤作出調整，就會讓失業率升至不必要的高水平，並且對抗的是虛假而非真實的通脹”。米蘭還表示，他對沃什計劃在美聯儲作出的改變感到興奮，包括對其溝通和資產負債表政策進行調整。米蘭是知名的鴿派，在擔任美聯儲理事期間的每一次政策會議上都投票支援降息，包括投下異議票，敦促降息幅度超過其他官員所同意的幅度。"
+    },
     {
       "id": "4880767",
       "time": "2026-05-15 07:24:18",
@@ -137006,48 +137031,6 @@
         "國際"
       ],
       "text": "【市場分析：日經指數此番大漲高度集中於部分個股，走勢與韓國股市相似，預計短期內將出現回撥】市場分析指出，日經指數前一交易日衝高大漲，後續大機率需要進行快速調整。本輪上漲高度集中在少數板塊，以人工智慧（AI）相關個股為主，行情持續性偏弱。據媒體測算，自4月以來拉動日經平均指數上漲的行情中，軟銀集團、愛德萬測試等前十權重貢獻股的漲幅貢獻率超過80%；遠高於今年2月指數創下階段高點時30%以上的佔比。去年10月，受高市早苗當選首相引發的高市交易行情疊加科技股上漲推動，這批龍頭個股的漲幅貢獻率一度接近90%；而日經指數在當月月末觸及峰值後，約三週內下跌了近7%。"
-    },
-    {
-      "id": "te:economy:548936",
-      "time": "2026-05-08 07:28:19",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Mexico",
-        "Interest Rate",
-        "Importance 1"
-      ],
-      "text": "Banxico Cuts Interest Rate to 6.5%, as Expected — The Bank of Mexico lowered its benchmark interest rate by 25 basis points to 6.50% at its May 7, 2026 meeting, as expected, bringing it to its lowest level since April 2022 and likely marking the end of the easing cycle that began in March 2024. The decision was split, with three board members backing the cut while two favored holding rates unchanged. Banxico cited a contraction in Mexico’s economy during Q1 2026, saying weaker activity has created greater economic slack and reduced demand-driven inflation pressures. Inflation eased between mid-March and April, with headline inflation slowing from 4.63% to 4.45% and core inflation falling from 4.46% to 4.26%. Despite upward revisions to short-term inflation forecasts due to higher non-core prices, the central bank still expects inflation to converge to its 3% target in Q2 2027. Banxico said maintaining the policy rate at the current level will likely be appropriate going forward amid ongoing geopolitical and trade-related uncertainty."
-    },
-    {
-      "id": "4867255",
-      "time": "2026-05-08 07:28:14",
-      "tags": [
-        "市場"
-      ],
-      "text": "【多隻貨幣基金收益率跌破1%】近日，南方現金通貨幣A等多隻頭部貨幣基金7日年化收益率相繼跌破1%關口。資料顯示，截至5月6日，全市場351只貨幣基金（僅統計主份額）中，已有130只產品7日年化收益率低於1%，佔比達37.04%，而去年同期僅26只。"
-    },
-    {
-      "id": "te:markets:548935",
-      "time": "2026-05-08 07:27:43",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Rises on Renewed Middle East Tensions — Brent crude futures climbed above $102 per barrel on Friday, recouping some losses from earlier in the week as fresh clashes between the US and Iran threatened to derail diplomatic efforts to end the conflict. US Central Command said American forces intercepted Iranian attacks and carried out defensive strikes while guided missile destroyers passed through the Strait of Hormuz, emphasizing that the military does not intend to escalate tensions further. Meanwhile, the Trump administration is awaiting Iran’s response to a proposal aimed at reopening Hormuz and ending the nearly 10-week conflict, with tensions remaining elevated across both the Persian Gulf and Lebanon. According to reports, Tehran is expected to deliver its response through Pakistan within the next two days. Separately, the IEA warned that the war was disrupting roughly 14 million barrels per day of global oil supply and noted that any post-conflict production recovery would likely proceed gradually."
-    },
-    {
-      "id": "te:markets:548934",
-      "time": "2026-05-08 07:27:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Oil Rises on Renewed Middle East Tensions — WTI crude futures climbed above $97 per barrel on Friday, recouping some losses from earlier in the week as fresh clashes between the US and Iran threatened to derail diplomatic efforts to end the conflict. US Central Command said American forces intercepted Iranian attacks and carried out defensive strikes while guided missile destroyers passed through the Strait of Hormuz, emphasizing that the military does not intend to escalate tensions further. Meanwhile, the Trump administration is awaiting Iran’s response to a proposal aimed at reopening Hormuz and ending the nearly 10-week conflict, with tensions remaining elevated across both the Persian Gulf and Lebanon. According to reports, Tehran is expected to deliver its response through Pakistan within the next two days. Separately, the IEA warned that the war was disrupting roughly 14 million barrels per day of global oil supply and noted that any post-conflict production recovery would likely proceed gradually."
     }
   ]
 }
