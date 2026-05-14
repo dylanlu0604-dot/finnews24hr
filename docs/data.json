@@ -1,7 +1,53 @@
 {
-  "updated": "2026-05-14 22:31:34",
-  "count": 15482,
+  "updated": "2026-05-14 22:35:09",
+  "count": 15479,
   "items": [
+    {
+      "id": "4880289",
+      "time": "2026-05-14 22:34:10",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "沃倫要求美國證券交易委員會調查特朗普家族加密貨幣公司。"
+    },
+    {
+      "id": "4880288",
+      "time": "2026-05-14 22:33:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【英聯股份：複合鋁箔、複合銅箔的產品正在進行送樣、測試、反饋過程中】英聯股份5月14日在業績說明會上表示，公司自2023年至今持續推進複合鋁箔、複合銅箔專案（複合集流體專案）的產業化進度，截至目前已累計投入超過9億元進行專案建設，已有5條複合鋁箔和5條複合銅箔生產線，開展了自有廠房的規劃和建設，啟動引進精益管理流程，為規模化進行生產條件的準備。產品端，複合鋁箔、複合銅箔的產品正在進行送樣、測試、反饋過程中，並持續投入技術研發，開發新一代電池用的鋰金屬負極材料相關產品，提升產品的應用深度、廣度，推進產業化進度。"
+    },
+    {
+      "id": "te:economy:550782",
+      "time": "2026-05-14 22:32:49",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Natural Gas Stocks Change",
+        "Importance 1"
+      ],
+      "text": "US Natural Gas Stocks Rise Last Week — US energy firms injected a near-normal 85 billion cubic feet of natural gas into storage in the week ended May 8, in line with expectations. This compares with a 109 billion cubic foot build during the same week a year earlier and a five-year average increase of 84 billion cubic feet for the period between 2021 and 2025. Following the latest increase, total stockpiles rose to 2.290 trillion cubic feet, around 2.3% higher than the same week last year and 6.5% above the five-year seasonal average. In the previous week ending May 1, inventories had risen by 63 billion cubic feet."
+    },
+    {
+      "id": "4880287",
+      "time": "2026-05-14 22:32:12",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國能源資訊署（EIA）公佈天然氣庫存增幅符合預期後，美國天然氣期貨縮減跌幅，當前下跌0.8%。"
+    },
+    {
+      "id": "4880286",
+      "time": "2026-05-14 22:31:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "墨西哥總統辛鮑姆：與歐盟的貿易協議不影響美墨加協定。"
+    },
     {
       "id": "mkt:019e26e6-13dd-7dde-99f5-9d02d811567b",
       "time": "2026-05-14 22:31:13",
@@ -139934,75 +139980,6 @@
         "公司"
       ],
       "text": "荷蘭浮式生產專業公司SBM Offshore週四上調了2026年營收指引，此前一季度定向營收增長逾兩倍，主要受其總包業務及One Guyana出售交易的推動。該公司於2月以23億美元的價格將FPSO vessel One Guyana出售給埃克森美孚。"
-    },
-    {
-      "id": "4866656",
-      "time": "2026-05-07 22:34:56",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "義大利埃尼公司宣佈，其位於印尼近海的Geliga-1天然氣發現取得了強勁的試井結果，這將支援加速開發庫泰盆地的計劃。"
-    },
-    {
-      "id": "4866655",
-      "time": "2026-05-07 22:34:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "賴特：美國派往伊朗的核查人員將來自能源部。"
-    },
-    {
-      "id": "4866653",
-      "time": "2026-05-07 22:34:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "義大利埃尼公司與英國石油公司在尼羅河三角洲地區獲得新的天然氣發現，該發現透過採用先進定向鑽探技術從陸上鑽探近海井，預計日產氣量約為5000萬立方英尺。"
-    },
-    {
-      "id": "4866652",
-      "time": "2026-05-07 22:32:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "賴特：看來伊朗的石油日產量已經減少了40萬桶。"
-    },
-    {
-      "id": "te:markets:548831",
-      "time": "2026-05-07 22:32:20",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Vistra Corp earnings below expectations at 1.31 USD — Vistra Corp (VST) released earnings per share at 1.31 USD, compared to market expectations of 1.32 USD."
-    },
-    {
-      "id": "4866651",
-      "time": "2026-05-07 22:32:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源部長賴特：我們與伊朗官員沒有直接對話。"
-    },
-    {
-      "id": "4866650",
-      "time": "2026-05-07 22:31:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "石油與天然氣勘探及開發商Amplitude Energy（原Cooper Energy）已獲得澳大利亞奧特韋盆地Annie近海氣田的生產許可VIC/L37，目標於2028年實現首氣。"
-    },
-    {
-      "id": "4866649",
-      "time": "2026-05-07 22:31:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "殼牌執行長表示，目前仍有幾艘我方船隻位於霍爾木茲海峽內。"
     }
   ]
 }
