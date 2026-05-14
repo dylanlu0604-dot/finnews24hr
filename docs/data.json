@@ -1,7 +1,15 @@
 {
-  "updated": "2026-05-15 03:07:38",
-  "count": 15159,
+  "updated": "2026-05-15 03:11:09",
+  "count": 15150,
   "items": [
+    {
+      "id": "4880515",
+      "time": "2026-05-15 03:09:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：陪審團裁定埃克森美孚在會計相關事宜上無需向投資者承擔法律責任。"
+    },
     {
       "id": "4880514",
       "time": "2026-05-15 03:04:43",
@@ -136908,105 +136916,6 @@
         "DXY"
       ],
       "text": "IRANIAN FOREIGN MINISTRY: TEHRAN HAS DECIDED NOT TO NEGOTIATE AT PRESENT REGARDING NUCLEAR MATTERS IRANIAN FOREIGN MINISTRY: NEGOTIATIONS WITH WASHINGTON WILL CONTINUE IN A NEW FORMA"
-    },
-    {
-      "id": "4867082",
-      "time": "2026-05-08 03:11:05",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "墨西哥央行降息25個基點，至6.50%。"
-    },
-    {
-      "id": "4867081",
-      "time": "2026-05-08 03:09:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗南部傳出爆炸聲，具體原因尚不明確】當地時間7日，總檯記者獲悉，伊朗南部格什姆島及阿巴斯港附近傳出多次爆炸聲。訊息人士稱，部分聲響可能與伊朗伊斯蘭革命衛隊海軍在霍爾木茲海峽對部分未經授權通行船隻發出警告的行動有關。目前，伊朗官方暫未對此作出回應。（央視新聞）"
-    },
-    {
-      "id": "4867080",
-      "time": "2026-05-08 03:09:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：已同意給馮德萊恩寬限期，至美國建國 250 週年為止；如若不然，關稅將立刻大幅上調至更高水平。"
-    },
-    {
-      "id": "mkt:019e03d7-e08d-7775-8cb9-52b15164fd49",
-      "time": "2026-05-08 03:08:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "EGYPTIAN NATIONAL WHO PLEADED GUILTY TO FIRE-BOMBING PRO-ISRAEL RALLY IN COLORADO SENTENCED TO LIFE IN PRISON WITHOUT POSSIBILITY OF PAROLE"
-    },
-    {
-      "id": "mkt:019e03d7-b0dd-7775-8cb9-49a734f975c8",
-      "time": "2026-05-08 03:08:44",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "The Trump Trade",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "TRUMP: AGREED TO GIVE URSULA VON DER LEYEN UNTIL OUR COUNTRY'S 250TH BIRTHDAY OR, UNFORTUNATELY, THEIR TARIFFS WOULD IMMEDIATELY JUMP TO MUCH HIGHER LEVELS"
-    },
-    {
-      "id": "4867079",
-      "time": "2026-05-08 03:08:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我們討論了諸多議題，其中包括雙方達成完全共識，伊朗絕不能擁有核武器。"
-    },
-    {
-      "id": "4867078",
-      "time": "2026-05-08 03:08:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我與歐盟委員會主席馮德萊恩通了一次非常愉快的電話。"
-    },
-    {
-      "id": "mkt:019e03d7-31fa-7775-8cb9-45b335d72b5d",
-      "time": "2026-05-08 03:08:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TRUMP: DISCUSSED MANY TOPICS, INCLUDING THAT WE ARE COMPLETELY UNITED THAT IRAN CAN NEVER HAVE A NUCLEAR WEAPON"
-    },
-    {
-      "id": "mkt:019e03d7-1cda-7775-8cb9-3e7abc8c7c46",
-      "time": "2026-05-08 03:08:09",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "TRUMP: HAD A GREAT CALL WITH PRESIDENT OF EUROPEAN COMMISSION, URSULA VON DER LEYEN"
-    },
-    {
-      "id": "mkt:019e03d6-cc64-7775-8cb9-37608cc0ff74",
-      "time": "2026-05-08 03:07:49",
-      "tags": [
-        "MKT News",
-        "Policy",
-        "Breaking News 24h",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Sounds of Several Explosions Reported Near Qeshm Island and Bandar Abbas】Sounds of several explosions heard near Qeshm Island and Bandar Abbas. Local sources reported hearing several explosions, with no precise information yet about their origin. Some reports say the sounds may be related to Islamic Revolutionary Guard Corps Navy operations to warn ships about unauthorized passage through the Strait of Hormuz. Investigations are ongoing to determine the source and verify details."
     }
   ]
 }
