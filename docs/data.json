@@ -1,7 +1,71 @@
 {
-  "updated": "2026-05-15 04:47:04",
-  "count": 15132,
+  "updated": "2026-05-15 04:50:30",
+  "count": 15137,
   "items": [
+    {
+      "id": "4880614",
+      "time": "2026-05-15 04:49:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英國政府：26 個國家於週四發表聯合宣告】英國政府釋出宣告稱，26 個國家於週四發表聯合宣告，支援一項多國軍事行動，以保障霍爾木茲海峽的航行自由。英國國防部發布的這份宣告表示：“英國、法國及 24 個夥伴國家，支援動用外交、經濟及軍事綜合力量維護這條水道安全。”宣告稱，38 個國家的國防部長及代表於 5 月 12 日舉行會議，支援一項獨立且純防禦性質的行動，重點保護航運安全並開展掃雷作業。宣告補充道：“必須維護《聯合國海洋法公約》框架下的航行自由。"
+    },
+    {
+      "id": "mkt:019e283f-fccc-7bb5-b4d2-db7b81747f61",
+      "time": "2026-05-15 04:49:02",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "MICROSOFT, META, ORACLE AMONG TRUMP DISCLOSURES - NBC"
+    },
+    {
+      "id": "4880612",
+      "time": "2026-05-15 04:48:57",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "市場消：博通、美國銀行、高盛亦出現在特朗普持倉披露名單中。"
+    },
+    {
+      "id": "mkt:019e283f-de7f-7bb5-b4d2-d57fdefb16e0",
+      "time": "2026-05-15 04:48:54",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "TRUMP ETHICS FILING SHOWS TRADES TIED TO US STOCKS - NBC"
+    },
+    {
+      "id": "4880611",
+      "time": "2026-05-15 04:48:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：特朗普披露持倉涉及微軟、元宇宙平臺 Meta、甲骨文等企業。"
+    },
+    {
+      "id": "4880610",
+      "time": "2026-05-15 04:47:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "據美國證券交易委員會（SEC）檔案顯示：黑石擔保貸款基金提交票據發行定價條款清單，擬發行規模最高達6.5億美元。"
+    },
+    {
+      "id": "4880609",
+      "time": "2026-05-15 04:46:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：特朗普倫理申報檔案披露其涉及美股相關交易。"
+    },
     {
       "id": "4880608",
       "time": "2026-05-15 04:46:15",
@@ -136580,28 +136644,6 @@
         "MKT News"
       ],
       "text": "IRAN'S MEHR: EXPLOSION SOUND IN MINAB IN SOUTHERN IRAN"
-    },
-    {
-      "id": "mkt:019e0433-c1b0-7775-8cbb-1dc340c10adb",
-      "time": "2026-05-08 04:49:21",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "FOX NEWS REPORTER CITING A SENIOR US OFFICIAL: CEASEFIRE WITH IRAN NOT ENDING"
-    },
-    {
-      "id": "4867149",
-      "time": "2026-05-08 04:47:35",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "據福克斯新聞記者：美國高階官員表示特朗普與伊朗的停火還沒有結束。"
     }
   ]
 }
