@@ -1,7 +1,19 @@
 {
-  "updated": "2026-05-15 01:27:56",
-  "count": 15301,
+  "updated": "2026-05-15 01:31:24",
+  "count": 15293,
   "items": [
+    {
+      "id": "mkt:019e2789-64e0-7bb5-b4d1-6a034e8edd97",
+      "time": "2026-05-15 01:29:36",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "IRANIAN LAWMAKER PROPOSES SHUTTING DOWN BAB AL-MANDAB STRAIT – IRAN INTL"
+    },
     {
       "id": "mkt:019e2787-8b3c-7bb5-b4d1-63c591e2c41f",
       "time": "2026-05-15 01:27:34",
@@ -138286,93 +138298,6 @@
         "MKT News"
       ],
       "text": "WHITE HOUSE EXPECTS TO RECEIVE IRAN'S RESPONSE TO THE LATEST US PROPOSAL ON FRIDAY - CHANNEL 12"
-    },
-    {
-      "id": "4866947",
-      "time": "2026-05-08 01:30:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國官員淡化伊朗襲擊事件後，沙烏地阿拉伯與科威特實施限制措施，海灣國家擔憂得不到美國保護。"
-    },
-    {
-      "id": "4866946",
-      "time": "2026-05-08 01:29:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "【沙特兩國解除美軍基地及領空限制 為霍爾木茲海峽護航行動掃清障礙】據報道，據美國及沙特官員透露，沙烏地阿拉伯與科威特已解除在美國啟動霍爾木茲海峽通航護航行動後、對美軍使用其基地和領空實施的限制。此舉化解了一大阻礙，此前該限制一度拖累特朗普政府派遣艦船穿越這條關鍵水道的計劃。美國官員表示，特朗普政府目前計劃重啟由海空力量護航民用船隻的行動。該行動本週僅開展 36 小時便中途暫停。目前重啟具體時間尚未敲定，但五角大樓官員給出時間表，最快或於本週重啟。美國此次強行疏通霍爾木茲海峽的行動，依賴大規模軍機編隊保護民用船隻免遭伊朗導彈與無人機襲擊，沙特和科威特的基地及領空對行動開展至關重要。但此次任務也引發了近年來沙美軍事關係中最嚴重的分歧，特朗普與沙特王儲為此多次高層通話，也令美沙之間長期存在的安全協議面臨破裂風險。"
-    },
-    {
-      "id": "4866945",
-      "time": "2026-05-08 01:29:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普政府最早將於本週重啟“自由行動”計劃，這是一項引導民用船舶安全通行霍爾木茲海峽的行動。"
-    },
-    {
-      "id": "4866944",
-      "time": "2026-05-08 01:28:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "知情人士透露，儘管多奈爾提高報價且黑石集團表達了收購興趣，馬里納克斯仍推進出售程序。"
-    },
-    {
-      "id": "mkt:019e037c-1505-7775-8cb7-1ed8a83c958f",
-      "time": "2026-05-08 01:28:40",
-      "tags": [
-        "MKT News",
-        "HZO.O",
-        "Impact bullish",
-        "BX.O"
-      ],
-      "text": "MARINEMAX PRESSES ON WITH SALE, AS DONERAIL RAISES OFFER AND BLACKSTONE EXPRESSES INTEREST, SOURCES SAY"
-    },
-    {
-      "id": "mkt:019e037b-cb86-7775-8cb7-16c5168cc927",
-      "time": "2026-05-08 01:28:25",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "OIL FUTURES EXTEND GAINS, BRENT CRUDE UP $1 A BARREL AND US CRUDE UP $2"
-    },
-    {
-      "id": "mkt:019e037b-ae9a-7775-8cb7-0ab01dbda80e",
-      "time": "2026-05-08 01:28:16",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Policy",
-        "Breaking News 24h",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Saudi Arabia, Kuwait Restore US Military Base Access for Hormuz Mission】Saudi Arabia and Kuwait have lifted restrictions on US military use of their bases and airspace, clearing the way for Washington to potentially resume “Project Freedom,” an operation aimed at securing commercial shipping through the Strait of Hormuz. The restrictions were imposed after Gulf states raised concerns over Iranian attacks and questioned whether the US would adequately defend regional allies. The operation had been paused after 36 hours following discussions between President Donald Trump and Saudi Crown Prince Mohammed bin Salman. US officials said commercial vessels could again be escorted through mine-cleared corridors protected by American naval and air assets."
-    },
-    {
-      "id": "4866943",
-      "time": "2026-05-08 01:28:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "倍耐力首席財務官表示：我們預計今年布倫特原油全年平均價格約為每桶85美元。"
-    },
-    {
-      "id": "4866942",
-      "time": "2026-05-08 01:28:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國原油價格觸及日內高點，交易價格突破97美元/桶。"
     }
   ]
 }
