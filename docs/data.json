@@ -1,7 +1,62 @@
 {
-  "updated": "2026-05-15 00:35:18",
-  "count": 15407,
+  "updated": "2026-05-15 00:38:52",
+  "count": 15402,
   "items": [
+    {
+      "id": "4880409",
+      "time": "2026-05-15 00:38:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "尚比亞官員：尚比亞已批准莫帕尼礦山和錢比希銅冶煉廠恢復向剛果出口硫酸。"
+    },
+    {
+      "id": "te:markets:550821",
+      "time": "2026-05-15 00:38:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "S&P 500 Rises Past 7,500 — US equities rose further on Thursday as gains in artificial intelligence infrastructure companies continued to offset macroeconomic headwinds. The S&P 500 jumped 0.8% to cross 7,500 for the first time, while the Nasdaq advanced past 29,500 and the Dow crossed 50,000. The bullish guidances by AI companies supported the broader market through high energy prices from the blockade in the Persian Gulf and hawkish outlook for the Fed, lastly consolidated by the 0.5% increase in the control group of retail sales. Cisco jumped 15% after posting strong earnings and forecasts, while signaling 4,000 jobs to be cut on improved productivity. Meanwhile, Nvidia jumped 4.5% to extend its rally to 15% this month after the US cleared 10 cleared 10 Chinese firms for receiving H200 chips. The announcement took place amid President Trump's and tech CEO's visit to Beijing, so far maintaining the de-escalatory rhetoric since their trade war peaked last year."
+    },
+    {
+      "id": "4880408",
+      "time": "2026-05-15 00:37:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【扎波羅熱核電站遭烏軍襲擊 兩名工作人員受傷】當地時間5月14日，扎波羅熱核電站官方通報稱，烏克蘭武裝部隊的無人機對核電站周邊區域發動襲擊。在距離電站圍欄100米處，兩名正在駕車執行公務的工作人員被炸傷。通報稱，目前兩人已被送往醫療機構，正在接受必要的救助。通報稱，此類行徑對核基礎設施工作人員的生命健康構成直接威脅，核電站員工不應成為攻擊目標，員工安全和電站穩定執行必須是無條件的優先事項。此類襲擊是“恐怖主義”行徑。烏克蘭方面對此暫無回應。（央視新聞）"
+    },
+    {
+      "id": "4880407",
+      "time": "2026-05-15 00:37:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國曼徹斯特市長Andy Burnham宣佈競選議員。"
+    },
+    {
+      "id": "te:markets:550820",
+      "time": "2026-05-15 00:35:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Cocoa Futures Ease — Cocoa futures fell toward $4,220 per tonne, pulling away from a 3.5-month high of $4,709 per tonne hit on May 11, as the market reacted to forecasts of higher Ivory Coast cocoa deliveries. The top grower now projects cocoa output of 2.2 MMT for the 2025/26 season, up from a previous projection of 1.8-1.9 MMT, citing favorable weather. Still, the outlook remains clouded by concerns over fertilizer shortages and potential El Niño effects on West African crops. Irregular rainfall in the Ivory Coast has once again raised alarm bells in the global cocoa market. Farmers in the country's main producing regions reported growing concern about the possibility of a smaller, lower-quality mid-season crop, just as the harvest is entering its crucial phase. In the meantime, early surveys of the 2026/27 West African cocoa crop showed below-average cherelle formation on cocoa trees, signaling a weak outlook for the main cocoa harvest, which begins in October."
+    },
+    {
+      "id": "4880406",
+      "time": "2026-05-15 00:35:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士：黎巴嫩與以色列第三輪談判的氣氛“令人不樂觀”，黎巴嫩傳遞的資訊是，任何形式的緩和都可能為以色列加強國家和軍隊的作用開闢空間。"
+    },
     {
       "id": "4880405",
       "time": "2026-05-15 00:34:50",
@@ -139270,112 +139325,6 @@
         "國際"
       ],
       "text": "美聯儲戴利：生產商、銷售商仍不願轉嫁成本上調售價。若衝突結束，此前向好的經濟態勢有望迴歸。"
-    },
-    {
-      "id": "4866850",
-      "time": "2026-05-08 00:38:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "戴利：未見長期通脹預期上行的跡象。"
-    },
-    {
-      "id": "4866849",
-      "time": "2026-05-08 00:38:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "戴利：我們必須在不過度反應的前提下，著力維護物價穩定。"
-    },
-    {
-      "id": "mkt:019e034c-d047-7775-8cb5-af379b1252c4",
-      "time": "2026-05-08 00:37:03",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "FED'S DALY SAYS THAT IF THE CONFLICT IS RESOLVED, THE PREVIOUS POSITIVE TRENDS MIGHT COME BACK"
-    },
-    {
-      "id": "4866848",
-      "time": "2026-05-08 00:36:50",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【美國國債收益率從早盤低點回升】對美國國債的需求受挫，收益率目前高於昨日水平。美元指數也在上漲，但仍略低於其最新收盤位。此前資料顯示美國勞動力市場依然健康，這可能會抑制美聯儲降息。市場反映了長期內通脹將高於目標的預期，這是另一個偏緊縮的趨勢。10年期國債收益率從今日早些時候的4.316%升至4.372%。兩年期國債收益率從3.828%升至3.893%。"
-    },
-    {
-      "id": "mkt:019e034c-905f-7775-8cb5-a147b871f988",
-      "time": "2026-05-08 00:36:49",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "FED'S DALY SAYS FUTURE ECONOMIC CONDITIONS RELY ON DURATION OF IRAN CONFLICT"
-    },
-    {
-      "id": "mkt:019e034c-7b68-7775-8cb5-9a7f309dcac1",
-      "time": "2026-05-08 00:36:41",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY"
-      ],
-      "text": "FED'S DALY SAYS THE MAIN TAKEAWAY FROM THE FOMC IS THAT EVERYONE AGREED TO KEEP INTEREST RATES UNCHANGED. HOW THE STATEMENT IS WORDED MATTERS LESS THAN WHAT THE FOMC ACTUALLY DOES"
-    },
-    {
-      "id": "mkt:019e034b-dffc-7775-8cb5-97e3ff04f0a0",
-      "time": "2026-05-08 00:36:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UK SECURITY MINISTER: FOLLOWING CONVICTION OF TWO MEN UNDER THE NATIONAL SECURITY ACT, FOREIGN OFFICE WILL MAKE IT CLEAR ACTIVITY LIKE THIS UNACCEPTABLE ON UK SOIL"
-    },
-    {
-      "id": "mkt:019e034b-c435-7775-8cb5-89028b28e01e",
-      "time": "2026-05-08 00:35:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ZELENSKIY: UNITED STATES AND ITS PEOPLE CAN HELP UPHOLD PEACE IN EUROPE WITH A STRONG AND FAIR STANCE AGAINST THE AGGRESSOR"
-    },
-    {
-      "id": "mkt:019e034b-a732-7775-8cb5-87845a56c29c",
-      "time": "2026-05-08 00:35:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UK SECURITY MINISTER: THE FOREIGN OFFICE WILL SUMMON THE CHINESE AMBASSADOR"
-    },
-    {
-      "id": "mkt:019e034b-9762-7775-8cb5-798698f760d0",
-      "time": "2026-05-08 00:35:46",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Fars News Commentary Claims Western Media Reports Are Part of US-Israel Information Warfare】A commentary published by Fars News Agency accused Israeli journalist Barak Ravid and outlets including Axios of engaging in psychological and media warfare against Iran. The article claimed reports suggesting Iran and the US were nearing an agreement temporarily drove oil prices lower and alleged Ravid’s background in Israel’s Unit 8200 intelligence division gave him privileged access to US and Israeli political circles. The commentary also referenced journalists Ronen Bergman and Peter Bergen as examples of what it described as coordination between Western media and intelligence-linked narratives during regional conflicts."
-    },
-    {
-      "id": "4866847",
-      "time": "2026-05-08 00:35:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基：美國及美國人民可以採取堅定公正的立場，幫助維護歐洲和平。"
     }
   ]
 }
