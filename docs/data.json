@@ -1,7 +1,33 @@
 {
-  "updated": "2026-05-15 04:36:45",
+  "updated": "2026-05-15 04:40:11",
   "count": 15131,
   "items": [
+    {
+      "id": "4880602",
+      "time": "2026-05-15 04:39:29",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "芝加哥聯儲任命經濟學家加迪・巴萊維為研究部主任。"
+    },
+    {
+      "id": "4880601",
+      "time": "2026-05-15 04:38:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4650美元/盎司，日內跌1.22%。"
+    },
+    {
+      "id": "4880600",
+      "time": "2026-05-15 04:37:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "Gemini Space價因Winklevoss投資投資暴漲 30%。"
+    },
     {
       "id": "4880599",
       "time": "2026-05-15 04:36:24",
@@ -136575,38 +136601,6 @@
         "Breaking News 24h"
       ],
       "text": "US OFFICIAL SAYS THIS NOT A RESTARTING OF THE WAR: FOX"
-    },
-    {
-      "id": "4867145",
-      "time": "2026-05-08 04:37:57",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "據福克斯新聞：美軍剛剛對伊朗格什姆港及阿巴斯港實施了空襲。"
-    },
-    {
-      "id": "mkt:019e0429-3a3d-7775-8cba-fae9a31db461",
-      "time": "2026-05-08 04:37:51",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Policy",
-        "Breaking News 24h",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "US MILITARY JUST CARRIED OUT STRIKES ON IRAN’S QESHM PORT AND BANDAR ABBAS -FOX NEWS"
-    },
-    {
-      "id": "4867144",
-      "time": "2026-05-08 04:37:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "受英偉達投資影響，IREN股價飆升25%。"
     }
   ]
 }
