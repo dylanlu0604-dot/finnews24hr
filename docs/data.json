@@ -1,7 +1,170 @@
 {
-  "updated": "2026-05-14 22:13:50",
-  "count": 15490,
+  "updated": "2026-05-14 22:17:23",
+  "count": 15494,
   "items": [
+    {
+      "id": "te:markets:550779",
+      "time": "2026-05-14 22:17:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Costa Rica",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "Stocks in Costa Rica Hit 4-1/2-year High — BCT Corp increased to 11902.00 Index Points, the highest since September 2021. Over the past 4 weeks, BCT Corp Costa Rica Stock Market Index gained 0%, and in the last 12 months, it increased 0.07%."
+    },
+    {
+      "id": "4880268",
+      "time": "2026-05-14 22:17:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國國王查爾斯訪問倫敦遭反猶襲擊的猶太社群。"
+    },
+    {
+      "id": "4880267",
+      "time": "2026-05-14 22:16:15",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美國4月零售資料現分化：加油、買菜花銷上升 汽車家電賣不動了】北京時間週四晚間，美國商務部普查局公佈4月美國零售銷售資料。雖然資料本身大致符合市場預期，但加油站、雜貨店的零售額上升，體現出零售資料的提升更多反映出汽油、果蔬價格的上漲，而非美國消費者正在購買更多商品。"
+    },
+    {
+      "id": "mkt:019e26d8-9e83-7dde-99f5-5afa8ec5dee5",
+      "time": "2026-05-14 22:15:24",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "IRAN HAS ROUGHLY 10% OF DRONE, MISSILE CAPABILITY LEFT: COOPER"
+    },
+    {
+      "id": "4880266",
+      "time": "2026-05-14 22:15:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國高階海軍上將：伊朗海軍將在一代人時間內無法恢復到戰前水平。"
+    },
+    {
+      "id": "4880265",
+      "time": "2026-05-14 22:15:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【加拿大推出1萬億加元電網擴張計劃】加拿大週四公佈一項規模達1萬億加元的戰略，計劃到2050年將全國電網容量擴大一倍，理由是電力需求迅速增長以及能源安全需求上升。作為該戰略的一部分，加拿大政府計劃修改清潔電力相關法規，允許更多使用可信的碳抵消機制（offsets），並給予現有天然氣發電機組更大的運營靈活性，以維持電網穩定性和供電可靠性。"
+    },
+    {
+      "id": "4880264",
+      "time": "2026-05-14 22:14:48",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲施密德：美國經濟展現出顯著韌性，經濟基本面依然穩健。"
+    },
+    {
+      "id": "4880263",
+      "time": "2026-05-14 22:14:27",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲施密德：銀行業基本面良好。"
+    },
+    {
+      "id": "mkt:019e26d7-65ce-7dde-99f5-507efb042634",
+      "time": "2026-05-14 22:14:24",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "IRAN WILL NOT RETURN TO PRE-WAR NAVY FOR A GENERATION, SENIOR U.S. ADMIRAL SAYS"
+    },
+    {
+      "id": "4880262",
+      "time": "2026-05-14 22:14:14",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲施密德：美國經濟對全球石油干擾的脆弱性較過去降低，但高油價削弱家庭消費能力，增加企業成本。"
+    },
+    {
+      "id": "4880261",
+      "time": "2026-05-14 22:14:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺積電漲幅擴大至4%。"
+    },
+    {
+      "id": "mkt:019e26d6-7b46-7dde-99f5-4e57c34ce1bd",
+      "time": "2026-05-14 22:14:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SENIOR U.S. ADMIRAL: IRAN'S MISSILES, NAVY, DRONES INDUSTRIAL BASE DEGRADED BY 90 PERCENT"
+    },
+    {
+      "id": "mkt:019e26d6-6486-7dde-99f5-45da770ff6b1",
+      "time": "2026-05-14 22:14:05",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US Economy",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "KANSAS CITY FED'S SCHMID: CONTINUED INFLATION IS MOST PRESSING RISK TO ECONOMY, CLEAR THAT IT IS STILL TOO HIGH SCHMID: BUSINESS INVESTMENT REMAINS STRONG ESPECIALLY IN TECH AND AI BUILDOUT SCHMID: CONSUMER SPENDING REMAINS BIGGEST DRIVER OF ACTIVITY, WEALTH GAINS ARE LEADING MANY HOUSEHOLDS TO INCREASE SPENDING SCHMID: JOB MARKET IS 'FUNCTIONING EFFECTIVELY' SCHMID: US ECONOMY LESS VULNERABLE TO GLOBAL OIL DISRUPTIONS THAN IN PAST BUT HIGH OIL PRICES DRAIN HOUSEHOLD SPENDING POWER, RAISE BUSINESS COSTS SCHMID: US ECONOMY LESS VULNERABLE TO GLOBAL OIL DISRUPTIONS THAN IN PAST BUT HIGH OIL PRICES DRAIN HOUSEHOLD SPENDING POWER, RAISE BUSINESS COSTS SCHMID: US ECONOMY HAS SHOWN 'REMARKABLE RESILIENCE' AND ECONOMIC FUNDAMENTALS REMAIN SOUND"
+    },
+    {
+      "id": "4880260",
+      "time": "2026-05-14 22:14:01",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲施密德：就業市場“運作良好”。"
+    },
+    {
+      "id": "4880259",
+      "time": "2026-05-14 22:13:57",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲施密德：消費者支出仍是活動的最大驅動力，財富增長促使許多家庭增加支出。"
+    },
+    {
+      "id": "4880258",
+      "time": "2026-05-14 22:13:54",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲施密德：商業投資依然強勁，尤其是在科技和人工智慧建設方面。"
+    },
+    {
+      "id": "4880257",
+      "time": "2026-05-14 22:13:51",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "市場訊息：美國公眾公司會計監督委員會也正在就縮減其執法部門規模及其他重組方案進行審議。"
+    },
     {
       "id": "4880256",
       "time": "2026-05-14 22:13:37",
@@ -762,6 +925,15 @@
         "公司"
       ],
       "text": "據港交所檔案：成都國星宇航科技股份有限公司向港交所提交上市申請書。"
+    },
+    {
+      "id": "4880193",
+      "time": "2026-05-14 21:33:28",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【馬斯克說兒子在學普通話】5月14日，跟隨美國總統特朗普訪華的特斯拉CEO馬斯克在X平臺上用中文發帖稱：“我的兒子正在學習普通話。” 此次訪華，馬斯克帶上了6歲的兒子X。在影片裡，小X身穿中式馬甲戴虎頭帽，手上還提一個虎頭包，樣子萌呆。隨行的是負責特斯拉中國區的核心高管朱曉彤。（第一財經）"
     },
     {
       "id": "4880192",
@@ -139924,158 +140096,6 @@
         "Importance 0"
       ],
       "text": "Legrand earnings below expectations at 1.26 EUR — Legrand (LR) released earnings per share at 1.26 EUR, compared to market expectations of 1.38 EUR."
-    },
-    {
-      "id": "4866616",
-      "time": "2026-05-07 22:17:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "【上海成2028奧運會資格系列賽舉辦城市】國際奧委會5月7日宣佈，上海、東京等四座城市成為2028年洛杉磯奧運會資格系列賽舉辦城市。這是繼2024年巴黎奧運會資格賽後，該項賽事再次落戶上海。洛杉磯奧運會資格系列賽共分4站，將分別在日本東京、中國上海、加拿大蒙特利爾和美國奧蘭多舉行。每站賽事的具體專案設定還待確認，目前計劃設項包括三人籃球、沙灘排球、自由式小輪車、攀巖、腰旗橄欖球和滑板。其中，自由式小輪車、攀巖和滑板是2024年首屆奧運會資格系列賽專案，三人籃球、沙灘排球和腰旗橄欖球則是新加入的專案。為在奧運會舉辦的十幾天之外持續保持奧林匹克運動的熱度，並更多吸引青年人的關注，國際奧委會在巴黎奧運週期創辦了奧運會資格系列賽。創立這一賽事，也是奧林匹克運動改革路線圖《奧林匹克2020+5議程》中的一項重要舉措。（新華社）"
-    },
-    {
-      "id": "4866615",
-      "time": "2026-05-07 22:16:55",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【韓國宣佈延長囤積石油禁令至7月】韓國政府5月7日宣佈，將禁止囤積和壟斷石油產品的措施延長兩個月至7月底，以應對中東戰事導致的供應緊張以及穩定國內物價。韓國副總理兼企劃財政部長官具潤哲當天在主持部長級經濟政策會議時表示，為防止出現以油價為由拒絕銷售等行為，政府決定延長禁止囤積和壟斷石油產品措施的實施期限。韓國政府今年3月出臺禁止囤積和壟斷石油產品的臨時禁令，期限至5月12日。（新華社）"
-    },
-    {
-      "id": "4866614",
-      "time": "2026-05-07 22:16:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "真主黨稱在黎巴嫩南部擊中以色列裝甲車，戰鬥仍在繼續。"
-    },
-    {
-      "id": "mkt:019e02cb-e33d-766d-bbae-9b4d078217b5",
-      "time": "2026-05-07 22:16:16",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "US10Y"
-      ],
-      "text": "FED'S HAMMACK: LOWERING INTEREST RATES MORE THAN JUSTIFIED WILL DRIVE UP INFLATION"
-    },
-    {
-      "id": "4866613",
-      "time": "2026-05-07 22:16:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "殼牌執行長表示，我們的成本削減舉措抵消了通脹影響中的很大一部分。"
-    },
-    {
-      "id": "mkt:019e02cb-c11e-766d-bbae-926fdc3744f4",
-      "time": "2026-05-07 22:16:08",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "FED'S HAMMACK: HIGH INFLATION FORCING MORE PEOPLE TOWARD TRADE OFFS"
-    },
-    {
-      "id": "mkt:019e02cb-b02f-766d-bbae-8b34247da620",
-      "time": "2026-05-07 22:16:03",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "FED'S HAMMACK: WAR MEANS PRICE PRESSURES COULD BE MORE PERSISTENT"
-    },
-    {
-      "id": "mkt:019e02cb-a606-766d-bbae-86d59e771a6d",
-      "time": "2026-05-07 22:16:01",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "US10Y"
-      ],
-      "text": "FED'S HAMMACK: FED HAS BEEN MISSING INFLATION TARGET FOR YEARS"
-    },
-    {
-      "id": "mkt:019e02cb-9b90-766d-bbae-7e5a42fe77fa",
-      "time": "2026-05-07 22:15:58",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "FED'S HAMMACK: JOB MARKET REMAINS LOW HIRE, LOW FIRE ENVIRONMENT"
-    },
-    {
-      "id": "4866612",
-      "time": "2026-05-07 22:15:31",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲哈馬克：美聯儲關於下一步行動是降息的訊號具有誤導性。高通脹正迫使更多人做出取捨。"
-    },
-    {
-      "id": "4866611",
-      "time": "2026-05-07 22:15:05",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "殼牌執行長表示，供應鏈成本上漲約 5%，浮式生產儲卸油裝置（FPSO）領域漲幅尤為明顯。"
-    },
-    {
-      "id": "4866610",
-      "time": "2026-05-07 22:14:47",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲哈馬克：美聯儲多年來一直未達成通脹目標。戰爭意味著價格壓力可能會更具持續性。"
-    },
-    {
-      "id": "4866609",
-      "time": "2026-05-07 22:14:30",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲哈馬克：目前預計失業率低且穩定。就業市場仍然處於低招聘、低裁員環境。"
-    },
-    {
-      "id": "4866608",
-      "time": "2026-05-07 22:14:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "墨西哥總統辛鮑姆：儘管特朗普發表的評論，墨西哥仍在採取行動打擊犯罪。"
     }
   ]
 }
