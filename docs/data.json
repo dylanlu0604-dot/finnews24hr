@@ -1,7 +1,234 @@
 {
-  "updated": "2026-05-15 03:49:51",
-  "count": 15145,
+  "updated": "2026-05-15 04:05:36",
+  "count": 15139,
   "items": [
+    {
+      "id": "te:markets:550831",
+      "time": "2026-05-15 04:05:21",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Applied Materials earnings above expectations at 2.86 USD — Applied Materials (AMAT) released earnings per share at 2.86 USD, compared to market expectations of 2.66 USD."
+    },
+    {
+      "id": "mkt:019e2817-f581-7bb5-b4d2-892ee1bb7adc",
+      "time": "2026-05-15 04:05:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "NVDA.O",
+        "Impact bullish",
+        "Dow",
+        "S&P500"
+      ],
+      "text": "【US Stocks Rally as AI Trade Returns, Dow Reclaims 50,000 Level】US stocks advanced Thursday as renewed enthusiasm for AI shares and the Trump-Xi summit lifted markets. The Dow rose more than 450 points, or 0.9%, reclaiming 50,000 for the first time since February, while the S&P 500 gained 0.8% above 7,500 and the Nasdaq climbed 1%. Nvidia jumped more than 4% after reports the US approved H200 chip sales to Chinese firms. Cisco also gained following quarterly results and an AI restructuring plan."
+    },
+    {
+      "id": "4880569",
+      "time": "2026-05-15 04:05:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英國首相府任命新任衛生和社會福利大臣】當地時間14日，英國首相府發表宣告，宣佈任命議員詹姆斯·默裡為衛生和社會福利大臣，接替此前辭職的韋斯·斯特里廷。當天早些時候，斯特里廷宣佈辭職。他在社交媒體上釋出的辭職信中說，已完成斯塔默設定的目標，減少英國國民保健制度的就診等候名單。但他對斯塔默的領導“失去信心”，斯塔默將不會帶領工黨參加下一次英國大選，自己很遺憾以這種方式離開政府。斯塔默當天致信斯特里廷，對其辭職表示遺憾。(央視新聞）"
+    },
+    {
+      "id": "4880568",
+      "time": "2026-05-15 04:05:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4650美元/盎司，日內跌0.83%。"
+    },
+    {
+      "id": "4880567",
+      "time": "2026-05-15 04:04:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "應用材料公司：預計公司半導體裝置業務在2026自然年的增速將超過30%。"
+    },
+    {
+      "id": "mkt:019e2816-e0cb-7bb5-b4d2-8734e8a44d03",
+      "time": "2026-05-15 04:04:08",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OPENAI'S AI CODING AGENT CODEX IS COMING TO THE CHATGPT MOBILE APP ON THURSDAY - AXIOS"
+    },
+    {
+      "id": "mkt:019e2816-b44c-7bb5-b4d2-79d324e1d198",
+      "time": "2026-05-15 04:03:57",
+      "tags": [
+        "MKT News",
+        "AMAT.O",
+        "Impact bullish"
+      ],
+      "text": "APPLIED MATERIALS 2Q NET SALES $7.91B, EST. $7.67B APPLIED MATERIALS 2Q ADJ EPS $2.86, EST. $2.68 APPLIED MATERIALS 2Q ADJUSTED EPS BEATS ESTIMATES APPLIED MATERIALS 2Q SEMICONDUCTOR SYSTEMS NET SALES $5.97B, EST. $5.79B APPLIED MATERIALS SEES 3Q NET SALES $8.45B TO $9.45B, EST. $8.15B"
+    },
+    {
+      "id": "4880566",
+      "time": "2026-05-15 04:03:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：Codex模型現已面向所有定價套餐（包括免費套餐和ChatGO套餐），在所有支援地區的iOS與安卓版ChatGPT移動應用推出預覽版推送。"
+    },
+    {
+      "id": "4880565",
+      "time": "2026-05-15 04:03:02",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "APPLIED MATERIALS公司股價上漲4%，此前該公司第三季度銷售預期超預期。"
+    },
+    {
+      "id": "mkt:019e2815-9574-7bb5-b4d2-742fe684491f",
+      "time": "2026-05-15 04:02:30",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA SHARES CLOSE UP 4.4%, EXTENDING WIN STREAK TO 7 DAYS"
+    },
+    {
+      "id": "mkt:019e2815-4748-7bb5-b4d2-694385dd2562",
+      "time": "2026-05-15 04:02:23",
+      "tags": [
+        "MKT News",
+        "BA.O",
+        "Impact bearish"
+      ],
+      "text": "BOEING SHARES CLOSE DOWN 4.7%, BIGGEST DROP SINCE OCTOBER"
+    },
+    {
+      "id": "4880564",
+      "time": "2026-05-15 04:02:22",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "福特汽車股價兩日上漲21%，創2020年3月以來最大。"
+    },
+    {
+      "id": "4880563",
+      "time": "2026-05-15 04:01:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "英偉達股價收盤上漲 4.4%，連續收漲天數增至 7 日。"
+    },
+    {
+      "id": "4880562",
+      "time": "2026-05-15 04:01:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "波音股價收盤大跌4.7%，創去年 10 月以來最大單日跌幅。"
+    },
+    {
+      "id": "4880561",
+      "time": "2026-05-15 04:00:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體收漲】道指漲0.75%，標普500指數漲0.77%，納指漲0.89%。思科漲13.41%，JB Hunt運輸服務漲7.09%，APP AppLovin漲6.97%，Take-Two Interactive漲6.79%。“七姐妹”方面：英偉達漲4.39%，微軟漲1.04%，Meta Platforms漲0.29%，蘋果跌0.22%，特斯拉跌0.44%，谷歌跌0.47%，亞馬遜跌1.08%。"
+    },
+    {
+      "id": "mkt:019e2813-93a1-7bb5-b4d2-6175ff83ba53",
+      "time": "2026-05-15 04:00:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "NASDAQ CLOSED +0.88%, S&P 500 +0.77%, DOW +0.75%"
+    },
+    {
+      "id": "4880560",
+      "time": "2026-05-15 04:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收跌3.32%】阿特斯跌11.00%，嗶哩嗶哩跌9.04%，逸仙電商跌8.39%，汽車之家跌7.60%，世紀互聯跌7.36%。"
+    },
+    {
+      "id": "4880559",
+      "time": "2026-05-15 03:59:54",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【AI晶片製造商Cerebras上市首日飆升75% 此前完成年內最大IPO】Cerebras Systems Inc.上市首日股價大漲75%，此前該公司透過今年規模最大的首次公開募股(IPO)募資55.5億美元，顯示出投資者對人工智慧資料中心及其所用晶片興趣高漲。週四紐約時間下午2:49，該股漲幅收窄，報324美元，高於185美元的IPO價格，此前該股曾因波動而臨時停牌。總部位於加州森尼韋爾的Cerebras首次股票發行的募資額比啟動發行時的目標高出近60%，定價高於週一上調後的推介區間。根據申報檔案中列明的已發行股份計算，按上市首日交易價格計算，Cerebras市值697億美元。若計入限制性股票、期權和認股權證，按照完全攤薄後的股本計算，該公司市值約860億美元。頂級超大規模雲服務商承諾投入巨資建設人工智慧能力，投資者正湧向像Cerebras這樣的相關受益企業的股票。"
+    },
+    {
+      "id": "4880558",
+      "time": "2026-05-15 03:59:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【私募信貸風波衝擊BDC聲譽 貝萊德等巨頭紛紛展開自救】無論從哪個指標衡量，陷入困境的私募信貸基金在KKR、貝萊德、阿波羅全球管理這幾個投資巨頭的資產版圖中都只佔到一小部分。然而，隨著這一規模達1.8萬億美元的市場在2026年陷入動盪，這些基金作為相關公司最受外界關注的投資工具，在投資者開始審視整個行業問題之際，已對企業聲譽造成巨大沖擊。現在，每家資產管理公司都在採取措施應對這些問題，儘管它們使用的工具各不相同。據知情人士透露，在資產管理規模為7580億美元的KKR，規模123億美元的公開交易基金FS KKR Capital Corp.持續存在的問題已經引起最高層注意。高管們就如何創造價值進行了深入探討，並在評估認為市場需求充足後，與FS KKR董事會共同敲定了一項3億美元的股份回購計劃。投資者此前一直遊說該公司啟動回購。"
+    },
+    {
+      "id": "4880557",
+      "time": "2026-05-15 03:57:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "哥倫比亞廣播公司：長島鐵路週四暫停往返紐約賓州車站的所有列車服務。"
+    },
+    {
+      "id": "4880556",
+      "time": "2026-05-15 03:55:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "約書亞・庫什納旗下繁榮資本向Shopify投資 1 億美元。Shopify股價迅速攀升至歷史最高點，上漲 2.4%。"
+    },
+    {
+      "id": "4880555",
+      "time": "2026-05-15 03:53:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "惠譽確認馬來西亞金融管理局銀行的發行人違約評級為“BB”，展望穩定。"
+    },
+    {
+      "id": "4880554",
+      "time": "2026-05-15 03:52:12",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【英鎊跌超0.9%，歐元跌超0.3%】週四（5月14日）紐約尾盤，歐元兌美元跌0.34%，重新整理日低至1.1671，歐元兌日元跌0.04；英鎊兌美元跌0.93%，逼近北京時間02:16重新整理的日低1.3395——22:42以來加速下跌，歐元兌英鎊漲0.55%——00:00以來加速上漲；美元兌瑞郎漲0.25%，重新整理日高至0.7839。商品貨幣對中，澳元兌美元跌0.54%，紐元兌美元跌0.39%，美元兌加元漲0.16%。瑞典克朗兌美元跌0.33%，挪威克朗兌美元跌0.64%，丹麥克朗兌美元跌0.37%。波蘭茲羅提兌美元跌0.25%，美元兌匈牙利福林漲0.30%。印度盧比兌美元收跌0.06%，土耳其里拉兌美元跌0.03%，南非蘭特兌美元跌0.51%，墨西哥比索兌美元跌0.29%，巴西雷亞爾兌美元漲0.47%。羅馬尼亞列伊兌歐元跌0.14%。"
+    },
+    {
+      "id": "4880553",
+      "time": "2026-05-15 03:51:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：歐洲監管機構或將發起私募信貸行業調查。"
+    },
     {
       "id": "mkt:019e2809-503a-7bb5-b4d2-5e247df81880",
       "time": "2026-05-15 03:49:19",
@@ -136521,314 +136748,6 @@
         "Importance 0"
       ],
       "text": "Trade Desk earnings above expectations at 0.28 USD — Trade Desk (TTD) released earnings per share at 0.28 USD, compared to market expectations of 0.121 USD."
-    },
-    {
-      "id": "mkt:019e040a-c529-7775-8cba-80d317cf7bdf",
-      "time": "2026-05-08 04:04:35",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "AI Revolution",
-        "S&P500",
-        "Impact bearish",
-        "Dow",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "【Stocks Slip as Iran Tensions and AI Trade Cool Momentum】Stocks retreated from record highs, with the Dow down 0.6% and Nasdaq slipping 0.1% as investors awaited Iran’s response to a US peace proposal and oil prices rose on Strait of Hormuz concerns. The S&P 500 fell 0.4%. Sentiment in the AI-led tech trade cooled after mixed chip earnings, while labor data showed AI-linked layoffs in tech and cooler-than-expected jobless claims ahead of Friday’s jobs report."
-    },
-    {
-      "id": "4867123",
-      "time": "2026-05-08 04:04:25",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【伊軍方人士稱霍爾木茲海峽內敵方單位遭伊朗導彈打擊】一名伊朗軍方人士表示，在美軍對一艘伊朗油輪發動襲擊後，霍爾木茲海峽內的“敵方單位”遭到伊朗導彈打擊，並在受損後撤離相關區域。（央視）"
-    },
-    {
-      "id": "mkt:019e0409-af9e-7775-8cba-7b9143b49908",
-      "time": "2026-05-08 04:03:24",
-      "tags": [
-        "MKT News",
-        "ABNB.O",
-        "Impact bullish"
-      ],
-      "text": "AIRBNB SEES 2Q REV. $3.54B TO $3.60B, EST. $3.46B"
-    },
-    {
-      "id": "te:markets:548891",
-      "time": "2026-05-08 04:02:46",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "ENGIE earnings in line with market expectations at 0.71 EUR — ENGIE (ENGI) released earnings per share at 0.71 EUR."
-    },
-    {
-      "id": "4867122",
-      "time": "2026-05-08 04:02:06",
-      "tags": [
-        "市場"
-      ],
-      "text": "【IEA署長：美伊戰爭期間能源市場正步入“波動的深水區”】國際能源署（IEA）署長法提赫·比羅爾（Fatih Birol）在多倫多舉行的一場會議上表示，由於美伊戰爭導致每日數百萬桶原油供應中斷，全球能源市場正步入“波動的深水區”。比羅爾警告稱，這種波動可能會持續下去，且一旦戰爭結束，供應的迴歸也將是漸進的。他在“加拿大增長峰會”（Canada Growth Summit）上發言時指出：“在我看來，這場博弈的核心可能就是波動性，因此，石油安全仍將是一個關鍵問題”。 他敦促全球第四大石油生產國加拿大為其產量尋找新的目的地，並補充說，在美伊戰爭之後尋找新貿易伙伴的國家很可能會將加拿大視為“顯而易見”的選擇。他表示，如果戰爭導致的供應中斷持續，國際能源署已準備好從其戰略儲備中釋放更多原油。為了緩解物價上漲，該機構迄今已釋放了 20% 的可用石油儲備。"
-    },
-    {
-      "id": "mkt:019e0407-5387-7775-8cba-74e889ba7e82",
-      "time": "2026-05-08 04:00:49",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Policy",
-        "Breaking News 24h",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "IRAN'S MEHR SAYS AIR DEFENCES SHOT DOWN TWO 'HOSTILE' DRONES OVER BANDAR ABBAS AND QESHM"
-    },
-    {
-      "id": "4867121",
-      "time": "2026-05-08 04:00:45",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股收盤：三大股指集體收跌】道指跌0.63%，標普500指數跌0.38%，納指跌0.13%。Insmed跌23.41%，碩騰跌21.50%，Tapestry  Inc.跌12.30%，Arm Holdings跌10.12%，Coherent Corp跌7.85%，泰瑞達跌7.47%，邁威爾科技跌7.07%。“七姐妹”方面：特斯拉漲3.28%，英偉達漲1.72%，微軟漲1.65%，Meta Platforms漲0.61%，谷歌平，蘋果跌0.05%，亞馬遜跌1.35%。"
-    },
-    {
-      "id": "mkt:019e0407-30be-7775-8cba-6d5ecfb958a6",
-      "time": "2026-05-08 04:00:39",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "Nasdaq100",
-        "Impact bearish",
-        "S&P500",
-        "Dow"
-      ],
-      "text": "NASDAQ CLOSED -0.13%, S&P 500 -0.38%, DOW -0.63%"
-    },
-    {
-      "id": "4867120",
-      "time": "2026-05-08 04:00:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【納斯達克中國金龍指數收跌1.33%】老虎證券跌7.29%，新氧跌7.06%，再鼎醫藥跌5.66%，大全新能源跌5.37%，嘉楠科技跌5.92%。"
-    },
-    {
-      "id": "mkt:019e0406-4077-7775-8cba-65478a88a5ea",
-      "time": "2026-05-08 03:59:38",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Crypto Concepts",
-        "COIN.O",
-        "Impact bearish"
-      ],
-      "text": "COINBASE GLOBAL SHARES FALL IN VOLUME SPIKE, LAST DOWN 2.5% AT $192"
-    },
-    {
-      "id": "4867119",
-      "time": "2026-05-08 03:59:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗邁赫爾通訊社：伊朗防空部隊成功在阿巴斯港與格什姆島空域擊落兩架敵方飛行器。"
-    },
-    {
-      "id": "4867118",
-      "time": "2026-05-08 03:58:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴西總統盧拉：據翻譯人員透露，特朗普告知我，他並未考慮入侵古巴。"
-    },
-    {
-      "id": "4867117",
-      "time": "2026-05-08 03:58:13",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【美國財長貝森特與保險監管機構會談 討論私募信貸問題】美國財政部長斯科特·貝森特與保險監管機構會晤，討論其對私募信貸的敞口問題。隨著兩大領域聯絡日益複雜，監管審查也在不斷加強。美國財政部在宣告中表示，貝森特週四與全國保險專員協會（NAIC）舉行的會談還討論了透過再保險機構將人壽保險和年金準備金轉移至海外的問題。該協會由各州保險監管機構組成，負責制定標準。"
-    },
-    {
-      "id": "mkt:019e0404-d03c-7775-8cba-5e3eedcdb965",
-      "time": "2026-05-08 03:58:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "BRAZIL'S LULA: TRUMP TOLD ME HE IS NOT CONSIDERING INVADING CUBA, ACCORDING TO INTERPRETER"
-    },
-    {
-      "id": "4867116",
-      "time": "2026-05-08 03:57:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗官方廣播電視臺援引匿名軍方官員訊息：在美國軍方襲擊伊朗油輪後，霍爾木茲海峽內的 “敵方目標” 遭到伊朗導彈火力打擊。"
-    },
-    {
-      "id": "mkt:019e0404-a8d5-7775-8cba-5205a6176832",
-      "time": "2026-05-08 03:57:54",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "IRAN'S STATE BROADCASTER CITING UNNAMED MILITARY OFFICIAL: FOLLOWING ATTACK BY U.S. MILITARY ON IRANIAN TANKER, 'ENEMY UNITS' IN STRAIT OF HORMUZ CAME UNDER IRANIAN MISSILE FIRE"
-    },
-    {
-      "id": "mkt:019e0403-2f41-7775-8cba-489b35653db1",
-      "time": "2026-05-08 03:56:17",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "Nasdaq100",
-        "Dow"
-      ],
-      "text": "AUTO INDUSTRY URGES TRUMP ADMINISTRATION TO EXTEND USMCA WITH BOTH MEXICO, CANADA -- LETTER"
-    },
-    {
-      "id": "4867115",
-      "time": "2026-05-08 03:55:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗阿巴斯港附近發生爆炸】據伊朗法爾斯通訊社7日報道，伊朗阿巴斯港附近當天發生爆炸，在伊朗武裝力量與敵方交火過程中，附近碼頭地區的部分商業設施被擊中。報道說，一名以色列政府訊息人士在接受媒體採訪時稱，以色列與這一事件無關。（新華社）"
-    },
-    {
-      "id": "mkt:019e0402-c1e2-7775-8cba-45d48f28f198",
-      "time": "2026-05-08 03:55:49",
-      "tags": [
-        "MKT News",
-        "Policy",
-        "Breaking News 24h",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "SENIOR IRANIAN MILITARY OFFICIAL: IRANIAN MISSILES HIT US UNITS IN STRAIT OF HORMUZ. DAMAGED US UNITS FORCED TO FLEE - IRIB"
-    },
-    {
-      "id": "mkt:019e0401-5316-7775-8cba-39a5ee65e203",
-      "time": "2026-05-08 03:54:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "BRAZIL'S LULA: CUBA WANTS DIALOGUE, FIND A SOLUTION TO BRING U.S. EMBARGO TO AN END"
-    },
-    {
-      "id": "mkt:019e0400-83b6-7775-8cba-36270bcb3969",
-      "time": "2026-05-08 03:53:22",
-      "tags": [
-        "MKT News",
-        "Policy",
-        "Breaking News 24h",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "IRAN'S IRIB SAYS US MILITARY ATTACKED AN IRANIAN OIL TANKER"
-    },
-    {
-      "id": "4867114",
-      "time": "2026-05-08 03:53:15",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "【德國副總理：美對伊“不負責任的戰爭”危害德國經濟復甦】當地時間7日，德國副總理兼財政部長克林拜爾在柏林釋出德國稅收預測報告時稱，美國發動的針對伊朗的戰爭引發了全球能源價格上漲，危害了德國經濟復甦，這也將導致德國聯邦政府、各州和地方政府的稅收收入低於去年秋季的預期。克林拜爾表示，就在幾周前，德國政府還預期今年經濟將出現小幅回升：經過多年的低迷增長，預測今年德國經濟終於將重回增長軌道；然而，近兩個月來，由特朗普政府發起的針對伊朗的戰爭，以及由此引發的能源價格衝擊，正在減緩德國經濟復甦勢頭，這也是一場不負責任的戰爭。（央視新聞）"
-    },
-    {
-      "id": "4867113",
-      "time": "2026-05-08 03:52:54",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗IRIB：美軍襲擊了一艘伊朗油輪。"
-    },
-    {
-      "id": "mkt:019e0400-147b-7775-8cba-2b82830cf181",
-      "time": "2026-05-08 03:52:54",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Policy",
-        "Breaking News 24h",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "IRAN'S STATE-RUN MIZAN NEWS AGENCY CITING SOURCES: EXPLOSION SOUNDS HEARD IN QESHM CAUSED BY AIR DEFENCES CONFRONTING SEVERAL SMALL DRONES"
-    },
-    {
-      "id": "mkt:019e03ff-e1e3-7775-8cba-2608f7608551",
-      "time": "2026-05-08 03:52:41",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "TWO ENEMY DRONES DESTROYED IN BANDAR ABBAS - TASNIM"
-    },
-    {
-      "id": "4867112",
-      "time": "2026-05-08 03:52:38",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗官方媒體邁贊通訊社援引訊息人士：格什姆島傳出爆炸聲，系防空部隊應對多架小型無人機所致。"
-    },
-    {
-      "id": "4867111",
-      "time": "2026-05-08 03:52:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴西總統盧拉：我已告知特朗普，我願意為解決古巴問題提供協助。"
-    },
-    {
-      "id": "mkt:019e03ff-217d-7775-8cba-186c4b0fcf41",
-      "time": "2026-05-08 03:51:52",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "BRAZIL'S LULA: TOLD TRUMP I'M WILLING TO HELP WITH CUBA SITUATION"
-    },
-    {
-      "id": "4867110",
-      "time": "2026-05-08 03:51:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗IRIB：伊朗比德加內地區傳出聲響，與防空測試有關，暫無安全事件報告。"
-    },
-    {
-      "id": "4867109",
-      "time": "2026-05-08 03:50:19",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲威廉姆斯：當前利率並未處於歷史高位。"
     }
   ]
 }
