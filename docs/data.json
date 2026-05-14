@@ -1,7 +1,85 @@
 {
-  "updated": "2026-05-14 15:48:41",
-  "count": 15443,
+  "updated": "2026-05-14 15:52:10",
+  "count": 15439,
   "items": [
+    {
+      "id": "4879442",
+      "time": "2026-05-14 15:51:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "庫克：中美會談現場很棒。（央視新聞）"
+    },
+    {
+      "id": "mkt:019e2578-4d31-7aa5-b400-9c8551052cb5",
+      "time": "2026-05-14 15:51:41",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "HSBC: RAISES AVERAGE SILVER PRICE FORECASTS TO $75/OZ IN 2026 AND $68/OZ IN 2027"
+    },
+    {
+      "id": "4879441",
+      "time": "2026-05-14 15:51:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度外交部：（阿曼海域遭襲船隻）機上印度籍船員安全。"
+    },
+    {
+      "id": "4879440",
+      "time": "2026-05-14 15:51:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【正虹科技：劉浩辭任公司董事會秘書職務】正虹科技5月14日公告，公司董事會近日收到董事會秘書劉浩的書面辭職報告，劉浩因工作調整原因申請辭去董事會秘書職務，辭職後劉浩先生將繼續擔任其他職務，辭職報告自送達公司董事會之日起生效。公司董事會同意聘任劉光輝為董事會秘書，任期自董事會審議透過之日起至第十屆董事會屆滿之日止。"
+    },
+    {
+      "id": "4879439",
+      "time": "2026-05-14 15:50:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度外交部：阿曼附近海域懸掛印度國旗船隻遭襲事件不可接受。"
+    },
+    {
+      "id": "4879438",
+      "time": "2026-05-14 15:49:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國稀土：提示召開2025年年度股東會】中國稀土公告稱，公司將於2026年5月21日14:50召開2025年年度股東會，會議採用現場表決與網路投票相結合的方式。網路投票時間為當日9:15-9:25、9:30-11:30、13:00-15:00。股權登記日為5月14日。會議將審議2025年度董事會工作報告、利潤分配及資本公積金轉增股本預案等議案，還將聽取2026年度高階管理人員薪酬方案和2025年度獨立董事述職報告。登記時間為5月15日8:30-11:30、13:30-17:30。"
+    },
+    {
+      "id": "4879437",
+      "time": "2026-05-14 15:49:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【盛洋科技：2025年射頻電纜營收4.2億元 同比增長66%】盛洋科技公告稱，公司於2026年5月14日召開2025年年度業績說明會。2025年度射頻電纜類產品營收約4.2億元，同比增長66%。2026年一季度營收增長近30%，淨利潤同比下降2.43%，經營現金流從2347萬元驟降至 -1.95億元。公司預計全年扭虧為盈，一季度現金流下降主因是對上游墊資，二季度有望回正。CANAL+兩筆訂單收入和利潤分別在二、三季度確認。"
+    },
+    {
+      "id": "te:economy:550623",
+      "time": "2026-05-14 15:49:08",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Poland",
+        "GDP Annual Growth Rate",
+        "Importance 1"
+      ],
+      "text": "Poland GDP Growth Slows in Q1 — The Polish economy grew by 3.4% year-on-year in the first quarter of 2026, slowing from a revised 4.1% in the previous quarter. This marked the weakest expansion since the second quarter of 2025, as growth momentum has been gradually downgraded amid persistent inflationary pressures, elevated energy costs, and tighter fiscal conditions weighing on activity. On a seasonally adjusted quarterly basis, GDP edged down to 0.5% in Q1 2026 from a revised 1% in the previous quarter, the weakest expansion since Q3 2024."
+    },
+    {
+      "id": "4879436",
+      "time": "2026-05-14 15:48:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【利爾化學：董事長尹英遂增持股份至0.1141%】利爾化學公告，董事長尹英遂於2026年5月13日透過集中競價增持公司股份50000股，增持均價12.45元/股，增持前持股86.31萬股，佔0.1078%，增持後持股91.31萬股，佔0.1141%。"
+    },
     {
       "id": "4879435",
       "time": "2026-05-14 15:48:32",
@@ -45,6 +123,14 @@
         "其他"
       ],
       "text": "土耳其央行行長：地區局勢緊張的持續時間對通脹前景至關重要。"
+    },
+    {
+      "id": "4879430",
+      "time": "2026-05-14 15:47:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本版星鏈軍事偵察網啟用】日本防衛政務官若林洋平今天（5月14日）在日本國會參議院內閣委員會上稱，為確保作為“反擊能力”手段的遠端導彈具備實效性，由大量小型衛星組成的低軌軍事偵察網路“衛星星座”已於今年4月啟用。（CCTV國際時訊）"
     },
     {
       "id": "4879429",
@@ -139268,123 +139354,6 @@
         "公司"
       ],
       "text": "【盟固利：達州磷酸鐵鋰產線有望在2027年拿到客戶訂單】5月7日下午，盟固利(301487)在2025年度暨2026年第一季度業績說明會上表示，公司正積極建設達州磷酸鐵鋰產線，具體產線除錯及訂單需要根據磷酸鐵鋰產品研發及客戶認證進展情況確定，有望在2027年拿到客戶訂單，能否滿產存在不確定性。"
-    },
-    {
-      "id": "4865723",
-      "time": "2026-05-07 15:52:05",
-      "tags": [
-        "市場"
-      ],
-      "text": "歐元/挪威克朗逆轉漲幅，下跌0.3%至10.8950。"
-    },
-    {
-      "id": "4865722",
-      "time": "2026-05-07 15:52:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內漲3%，現報79.67美元/盎司。"
-    },
-    {
-      "id": "4865721",
-      "time": "2026-05-07 15:51:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "【無創神經調控技術為孤獨症治療帶來新進展】記者7日從上海交通大學醫學院附屬新華醫院獲悉，一項針對孤獨症治療的無創神經調控技術取得重要突破。臨床試驗結果顯示，200例4至10歲孤獨症患兒經這一技術治療結束後及1個月隨訪時，社交溝通障礙核心症狀明顯緩解，語言能力也呈現積極變化。（新華社）"
-    },
-    {
-      "id": "4865720",
-      "time": "2026-05-07 15:51:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "馬士基執行長：若霍爾木茲海峽局勢趨於緩和，我們將評估能否恢復紅海水域通航。"
-    },
-    {
-      "id": "4865719",
-      "time": "2026-05-07 15:51:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "【盟固利：預計公司NCA系列產品2026年銷量將進一步提高】5月7日下午，盟固利(301487)在2025年度暨2026年第一季度業績說明會上表示，公司NCA系列產品已實現批次生產，2025年出貨量同比增長435.5%，預計2026年銷量相比2025年度將進一步提高。"
-    },
-    {
-      "id": "4865718",
-      "time": "2026-05-07 15:51:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "【巨星農牧：2026年4月商品肥豬銷售量40.71萬頭，同比增長28.20%】巨星農牧公告，2026年4月商品肥豬銷售量為40.71萬頭，同比增長28.20%。當月商品肥豬銷售收入為5億元，累計商品肥豬銷售收入為21.95億元。"
-    },
-    {
-      "id": "4865717",
-      "time": "2026-05-07 15:50:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【信雅達子公司中標大型國有銀行信創三級金融資料密碼機專案】據信雅達訊息，近日，信雅達旗下全資子公司杭州信雅達科技有限公司成功中標某大型國有銀行信創三級金融資料密碼機專案。"
-    },
-    {
-      "id": "4865716",
-      "time": "2026-05-07 15:50:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "【合力科技：2025年營收7.54億元 擬10派1.5元】合力科技公告稱，2025年實現營業收入7.54億元，同比增長28.75%；歸屬於上市公司股東的淨利潤2872.01萬元。公司擬以總股本2.04億股為基數，向全體股東每10股派發現金紅利1.5元（含稅），合計擬派發現金紅利3057.6萬元。此外，公司擬續聘立信為2026年度審計機構，還擬向金融機構申請不超12億元綜合授信額度。"
-    },
-    {
-      "id": "4865715",
-      "time": "2026-05-07 15:50:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "亞馬遜：隨著國際推廣持續推進，Alexa+現已在德國推出。"
-    },
-    {
-      "id": "4865714",
-      "time": "2026-05-07 15:50:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴基斯坦外交部：至今尚未收到伊朗對美國意見的回應。"
-    },
-    {
-      "id": "4865712",
-      "time": "2026-05-07 15:50:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "【威龍股份：公司股票繼續停牌 不超過3個交易日】威龍股份公告，公司控股股東星河息壤正在籌劃公司股份協議轉讓事宜，該事項可能導致公司控制權發生變更。截至本公告披露日，相關各方正在積極推進本次交易的各項工作，公司預計無法在2026年5月8日開市起復牌。根據相關規定，經公司向上海證券交易所申請，公司股票將於2026年5月8日開市起繼續停牌，預計繼續停牌時間不超過3個交易日。"
-    },
-    {
-      "id": "4865711",
-      "time": "2026-05-07 15:50:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴基斯坦訊息人士透露，與伊朗方面的溝通仍在持續，雙方保持聯絡、接收相關答覆均不存在任何障礙。"
-    },
-    {
-      "id": "te:markets:548668",
-      "time": "2026-05-07 15:50:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "French Stocks Extend Gains to Over 2-Week High — The CAC 40 rose 0.7% to 8,354 on Thursday, extending gains for a third straight session and reaching its highest level in over two weeks, as market sentiment remained positive amid growing optimism over a diplomatic breakthrough between the US and Iran. Reports indicate the two sides are close to finalising a one-page memorandum aimed at de-escalating weeks of heightened tensions, which is expected to lay the groundwork for reopening the Strait of Hormuz, easing pressure on oil flows and improving the global growth outlook. Meanwhile, corporate earnings remained in focus. Legrand climbed 3.4% after reporting higher Q1 revenue and profit. Elsewhere, luxury heavyweights also performed well, particularly LVMH (1.8%), Hermès (2.2%) and Kering (1.3%). On the downside, Engie slipped 2.1% after reporting a decline in Q1 earnings, and Bouygues fell 2.2% even as it narrowed its net loss and posted higher operating profit."
-    },
-    {
-      "id": "4865710",
-      "time": "2026-05-07 15:49:14",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "馬士基執行長表示：我們因船用燃油價格上漲產生的額外成本，大部分將由客戶承擔。"
     }
   ]
 }
