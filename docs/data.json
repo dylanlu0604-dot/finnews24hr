@@ -1,7 +1,66 @@
 {
-  "updated": "2026-05-15 00:03:15",
-  "count": 15441,
+  "updated": "2026-05-15 00:06:53",
+  "count": 15439,
   "items": [
+    {
+      "id": "4880394",
+      "time": "2026-05-15 00:06:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "道指漲1.01%，現報50194.578點；納指漲1.08%，現報26687.226點；標普500指數漲0.95%，現報7514.910點。"
+    },
+    {
+      "id": "4880393",
+      "time": "2026-05-15 00:04:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "【英國中長期國債收益率至少跌超7個基點】週四（5月14日）歐市尾盤，英國10年期國債收益率跌7.1個基點，報4.994%，整體持續走低。兩年期英債收益率跌5.7個基點，報4.428%。30年期英債收益率跌8.5個基點，50年期英債收益率跌8.6個基點。2/10年期英債收益率利差跌1.490個基點，報+56.451個基點，北京時間22:55出現一波顯著的跳水行情。"
+    },
+    {
+      "id": "mkt:019e273b-8383-7bb5-b4d0-8275f2c52aea",
+      "time": "2026-05-15 00:04:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Hot",
+        "Market Regions",
+        "Greater China",
+        "Policy",
+        "Breaking News 24h",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Trump Says Xi Told Him China Would Not Share Military Equipment With Iran】US President Donald Trump said in a Fox News interview that Chinese leader Xi Jinping told him China would not provide military equipment to Iran and expressed support for a deal and willingness to help facilitate one. Trump said Xi emphasized continued oil trade with Iran. Trump also described “positive and productive” meetings in Beijing, with both leaders agreeing the Strait of Hormuz should remain a free waterway, according to a White House readout of the talks."
+    },
+    {
+      "id": "4880392",
+      "time": "2026-05-15 00:02:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國常駐聯合國大使表示，美國不久將向聯合國常規預算再繳納一大筆分期款項。"
+    },
+    {
+      "id": "mkt:019e2739-de30-7bb5-b4d0-7acdd334f37e",
+      "time": "2026-05-15 00:02:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. U.N. AMBASSADOR WALTZ SAYS THE UNITED STATES WILL HAVE ANOTHER SUBSTANTIAL TRANCHE GOING TO ITS REGULAR U.N. BUDGET SOON"
+    },
+    {
+      "id": "4880391",
+      "time": "2026-05-15 00:02:33",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "英國央行首席經濟學家Huw Pill：  若長期英國國債收益率因暫時性政治不確定性走高，政策層面或需對沖；但若由通脹因素推動，則無需干預。"
+    },
     {
       "id": "mkt:019e2739-adda-7bb5-b4d0-72f2cd855e51",
       "time": "2026-05-15 00:02:23",
@@ -139618,75 +139677,6 @@
         "Importance 1"
       ],
       "text": "The FTSE 100 Index Closes 1.44% Lower — The FTSE 100 Index decreased 150 points or 1.44 percent on Thursday to close at 10288 points. The decline was led by Relx (-6.27%), Admiral (-5.41%) and BAE Systems (-5.13%)."
-    },
-    {
-      "id": "4866807",
-      "time": "2026-05-08 00:06:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：目前尚不清楚哪些最高法院大法官將出庭參議院撥款委員會的聽證會。"
-    },
-    {
-      "id": "mkt:019e0330-83af-7775-8cb5-09a18bc7123a",
-      "time": "2026-05-08 00:06:11",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Crypto Concepts",
-        "Bitcoin",
-        "Impact bearish",
-        "Ethereum"
-      ],
-      "text": "TREASURY DEPARTMENT DEMANDS BINANCE COMPLIANCE AFTER IRAN CRYPTO REPORTS - THE INFORMATION"
-    },
-    {
-      "id": "mkt:019e0330-302d-7775-8cb5-011843f6fbc1",
-      "time": "2026-05-08 00:05:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iran Says No Decision Yet on U.S. Talks Amid Review of Mediated Messages】Iran is still reviewing communications conveyed via Pakistani mediation and has not yet reached a decision on whether to engage in negotiations with the United States, Foreign Ministry spokesman Esmail Baghaei said, according to state media. He added that Tehran has not provided any response to the U.S. side."
-    },
-    {
-      "id": "4866806",
-      "time": "2026-05-08 00:05:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "玻利維亞能源部長：玻利維亞將透過新能源法案終結國家電力壟斷。"
-    },
-    {
-      "id": "mkt:019e032f-66c2-7775-8cb4-f8ba3653df1a",
-      "time": "2026-05-08 00:04:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IRAN HASN'T YET REACHED A CONCLUSION ON U.S. TALKS, SPOKESMAN SAYS - WSJ"
-    },
-    {
-      "id": "4866805",
-      "time": "2026-05-08 00:04:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國參議院委員會計劃於5月20日與大法官們舉行聽證會。"
-    },
-    {
-      "id": "mkt:019e032e-24b7-7775-8cb4-f668efd516e5",
-      "time": "2026-05-08 00:03:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "EGYPTIAN NATIONAL ACCUSED OF LOBBING GASOLINE BOMBS AT PRO-ISRAEL RALLY IN COLORADO LAST YEAR PLEADS GUILTY TO ALL CHARGES HE FACED IN STATE COURT"
-    },
-    {
-      "id": "4866804",
-      "time": "2026-05-08 00:03:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "ARM日內跌幅擴大至10%。"
     }
   ]
 }
