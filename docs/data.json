@@ -1,7 +1,47 @@
 {
-  "updated": "2026-05-14 22:17:23",
-  "count": 15494,
+  "updated": "2026-05-14 22:20:55",
+  "count": 15489,
   "items": [
+    {
+      "id": "4880270",
+      "time": "2026-05-14 22:18:51",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "巴基斯坦財政部長顧問表示，巴基斯坦發行首支人民幣計價債券，以2.5%的票面利率籌得17.5億元人民幣。"
+    },
+    {
+      "id": "te:economy:550780",
+      "time": "2026-05-14 22:18:05",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Spain",
+        "Consumer Confidence",
+        "Importance 1"
+      ],
+      "text": "Spain’s Consumer Confidence Rebounds in April — Spain’s consumer confidence surged to 77.7 in April 2026, recovering from a near 3.5-year low of 66.9 in March, as economic uncertainty linked to the Middle East conflict and its potential impact began to ease. Household expectations jumped 15 points to 83.4, signaling reduced pessimism about the near-term economic outlook. The assessment of the current economic situation also improved, with the sub-index rising 6.5 points to 72.0."
+    },
+    {
+      "id": "4880269",
+      "time": "2026-05-14 22:17:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國海軍上將稱，伊朗的軍事實力已大幅下降，無法對鄰國發動大規模齊射攻擊。"
+    },
+    {
+      "id": "mkt:019e26d9-8c8b-7dde-99f5-63f203fd3403",
+      "time": "2026-05-14 22:17:14",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bearish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "U.S. ADMIRAL SAYS IRANIAN CAPABILITIES HAVE BEEN DRAMATICALLY DEGRADED, CANNOT CARRY OUT LARGE-SCALE VOLLEYS OF ATTACKS AGAINST NEIGHBORS"
+    },
     {
       "id": "te:markets:550779",
       "time": "2026-05-14 22:17:12",
@@ -140013,89 +140053,6 @@
         "公司"
       ],
       "text": "【週六福：第一季度實現營業收入約12.73億元】週六福(06168.HK)在港公告，本集團2026年第一季度實現營業收入約人民幣12.73億元，得益於“週六福”、“喵際”品牌線上渠道貢獻的毛利同比大增約50%等因素，集團合併報表的盈利能力指標進一步提升，同期歸屬於上市公司股東的淨利潤同比增長約29%。"
-    },
-    {
-      "id": "4866623",
-      "time": "2026-05-07 22:20:39",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "殼牌執行長表示，預計美國政府不會實施出口禁令。"
-    },
-    {
-      "id": "4866622",
-      "time": "2026-05-07 22:20:18",
-      "tags": [
-        "市場"
-      ],
-      "text": "英偉達股價上漲2.3%，報212.607美元/股，總市值報5.17萬億美元。"
-    },
-    {
-      "id": "4866621",
-      "time": "2026-05-07 22:19:33",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "殼牌執行長表示，目前多家美國煉油廠正在提高航空煤油與柴油產量，以滿足歐洲市場需求。"
-    },
-    {
-      "id": "4866620",
-      "time": "2026-05-07 22:18:32",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲哈馬克：對美聯儲主席提名人沃什到任感到'興奮'。"
-    },
-    {
-      "id": "4866619",
-      "time": "2026-05-07 22:18:08",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲哈馬克：鮑威爾在美聯儲任上表現出色。"
-    },
-    {
-      "id": "4866618",
-      "time": "2026-05-07 22:17:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國將因伊朗石油銷售制裁伊拉克官員。"
-    },
-    {
-      "id": "4866617",
-      "time": "2026-05-07 22:17:38",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲哈馬克：美聯儲竭力保持最大限度的政治中立。"
-    },
-    {
-      "id": "mkt:019e02cd-2559-766d-bbae-a06e3c93e3c0",
-      "time": "2026-05-07 22:17:37",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "FED'S HAMMACK: FED TRIES TO BE AS APOLITICAL AS POSSIBLE"
-    },
-    {
-      "id": "te:markets:548826",
-      "time": "2026-05-07 22:17:30",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Legrand earnings below expectations at 1.26 EUR — Legrand (LR) released earnings per share at 1.26 EUR, compared to market expectations of 1.38 EUR."
     }
   ]
 }
