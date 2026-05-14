@@ -1,7 +1,75 @@
 {
-  "updated": "2026-05-14 14:09:11",
-  "count": 15433,
+  "updated": "2026-05-14 14:12:34",
+  "count": 15436,
   "items": [
+    {
+      "id": "4879242",
+      "time": "2026-05-14 14:12:04",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度NIFTY指數上漲1%，至23,646.45。"
+    },
+    {
+      "id": "4879241",
+      "time": "2026-05-14 14:11:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "【英國財長大臣：英國政府擁有正確的經濟計劃】裡夫斯：今天強勁的增長資料表明，英國政府擁有正確的經濟計劃。我作為財政大臣所做出的選擇意味著，在我們應對伊朗戰爭成本時，我們的經濟處於更強的位置。現在不是將我們的經濟穩定置於風險之中的時候。"
+    },
+    {
+      "id": "te:economy:550545",
+      "time": "2026-05-14 14:11:31",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Construction Orders",
+        "Importance 1"
+      ],
+      "text": "UK Q4 Construction Orders Decline in Q1 — UK construction orders dropped by 11.9% year-on-year in the first quarter of 2026, reversing a downwardly revised 28.1% increase in the previous quarter. Orders for other work declined (-18.8% vs 33.9% in Q4), as commercial orders slumped (-23.0% vs 5.9%), while growth in industrial orders slowed sharply (4.0% vs 56.4%). Meanwhile, new housing orders picked up (15.9% vs 12.7%), driven mainly by a sharp increase in private housing orders (17.7% vs 2.9%), which offset a significant slowdown in public housing orders (3.9% vs 99.7%). On a quarterly basis, construction orders decreased by 10.5%, following an upwardly revised 4.4% fall in the prior period."
+    },
+    {
+      "id": "4879240",
+      "time": "2026-05-14 14:10:40",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PVC連續主力合約日內跌1%，現報5072.00元。"
+    },
+    {
+      "id": "4879239",
+      "time": "2026-05-14 14:10:14",
+      "tags": [
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【高盛：韓國加息定價過度 國債收益率或將回落】高盛表示，隨著地緣政治動盪緩和，韓國國債收益率存在企穩空間；目前市場計價未來 12 個月至少四次加息，定價明顯過度。儘管韓國國債本土需求低迷，但外資配置意願有望抵消這一利空。韓國納入全球政府債券指數，對本國國債構成長期結構性利好。截至 4 月，境外投資者年內增持韓國國債規模達21 萬億韓元（摺合 140 億美元）。這一規模遠超過去五年季度均值 5 萬億至 6 萬億韓元，也略高於高盛全年約 55 萬億韓元的淨買入預期。"
+    },
+    {
+      "id": "te:economy:550543",
+      "time": "2026-05-14 14:09:50",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Construction Output",
+        "Importance 1"
+      ],
+      "text": "UK Construction Output Shrinks Less than Expected — UK construction output fell 0.3% year-on-year in March 2026, easing from a 1.6% decline in the previous month and outperforming market estimates for a 2.5% drop. It was the fifth straight month of yearly contraction but the mildest in the sequence, with new work down the least in four months (-4.4% vs -6.1% in February) while repair and maintenance activity accelerated (5.7% vs 4.8%). On a monthly basis, construction output rose 1.05%, accelerating from 0.5% growth in February and marking the fastest growth since May 2024, amid increases in new work (2.0%) and repair and maintenance (0.8%). Over the three months to March, total construction output increased 0.4%, with repair and maintenance expanding by 3.4% while new work shrank 1.9%."
+    },
+    {
+      "id": "4879238",
+      "time": "2026-05-14 14:09:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭反腐敗法院逮捕澤連斯基前幕僚長葉爾馬克。"
+    },
     {
       "id": "mkt:019e251a-675c-799f-8003-8763d0e954f3",
       "time": "2026-05-14 14:09:07",
@@ -139165,39 +139233,6 @@
         "焦點"
       ],
       "text": "工業矽連續主力合約日內漲3%，現報9145.00元。"
-    },
-    {
-      "id": "4865494",
-      "time": "2026-05-07 14:11:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "【剛果（金）總統：若東部戰事持續，2028年選舉將無法舉行】剛果（金）總統齊塞克迪6日表示，若該國東部的戰事無法結束，原定於2028年舉行的總統選舉將無法舉行。齊塞克迪當天在首都金沙薩舉行的新聞釋出會上說，剛果（金）當前處於戰時狀態，如果戰事無法結束，北基伍省和南基伍省局勢不能恢復正常，剛果（金）將無法在2028年舉行選舉。(新華社)"
-    },
-    {
-      "id": "4865493",
-      "time": "2026-05-07 14:10:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "【招商證券國際：乳製品行業迎來關鍵拐點，上調蒙牛評級至“增持”】招商證券國際發表報告指，原奶價格觸底標誌著上游環節乃至整個乳製品行業迎來關鍵拐點，預計這將開啟一輪跨年的估值重估週期。該行認為，行業正在積極實現供需再平衡，為行業龍頭的盈利反轉奠定了堅實的宏觀基礎。立足於本輪上行週期的起點，該行將蒙牛評級升至“增持”並予目標價19.5港元，並認為優然牧業具備波段性交易機會，為首選上游標的。"
-    },
-    {
-      "id": "4865492",
-      "time": "2026-05-07 14:09:31",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【N振宏漲近185% 觸發臨停】北交所N振宏股份盤中漲近185%，較開盤價漲幅達30%，觸發臨停，日內成交額近11億元。"
-    },
-    {
-      "id": "4865491",
-      "time": "2026-05-07 14:09:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "【侯維棟被開除黨籍，交通銀行黨委：堅決擁護黨中央決定】5月7日，據交通銀行訊息，交通銀行黨委召開會議，第一時間通報中央紀委國家監委對侯維棟嚴重違紀違法案的處理決定。會議要求，要以更高標準、更實舉措推進全面從嚴治黨，持續涵養風清氣正的政治生態。切實把嚴的基調、嚴的措施、嚴的氛圍長期堅持下去，用改革精神和嚴的標準管黨治黨，確保責任層層壓實、一貫到底。深入推進政治監督具體化、精準化、常態化，全面加強“一把手”和關鍵崗位領導幹部權力執行監督，完善權力配置和執行制約機制，更加科學有效地把權力關進位制度的籠子。更加清醒堅定地推進反腐敗鬥爭，一體推進“三不腐”，持續健全不正之風和腐敗問題同查同治機制，有效剷除腐敗滋生的土壤和條件，以案為鑑、以案明紀、以案促改，持續開展紀律教育、警示教育，堅決打贏反腐敗鬥爭攻堅戰持久戰總體戰。深化拓展黨紀學習教育、深入貫徹中央八項規定精神學習教育成果，持續整治形式主義為基層減負，不斷推進作風建設常態化長效化，以全面從嚴治黨新成效為交行“十五五”高質量發展提供堅強保障。"
     }
   ]
 }
