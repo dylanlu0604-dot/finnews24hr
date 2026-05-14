@@ -1,7 +1,61 @@
 {
-  "updated": "2026-05-15 04:29:48",
-  "count": 15137,
+  "updated": "2026-05-15 04:33:16",
+  "count": 15136,
   "items": [
+    {
+      "id": "4880596",
+      "time": "2026-05-15 04:32:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議員伊麗莎白・沃倫：《加密貨幣明晰法案》將重創美國經濟。 這項法案會讓更多經濟活動湧入加密貨幣領域。"
+    },
+    {
+      "id": "mkt:019e2830-9676-7bb5-b4d2-b7e97869afde",
+      "time": "2026-05-15 04:32:13",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "S&P500",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【JPMorgan Warns AI Spending, Retail Pullback Could Threaten Credit Rally】JPMorgan Asset Management portfolio manager Stephanie Doyle said excessive AI-related capital spending and weaker retail demand could threaten the rally in high-grade corporate bonds. Doyle said tech firms have already raised more than $300 billion in debt for AI investments, though issuance has remained orderly. She said a similar acceleration in 2027 AI capex versus 2025-2026 “is probably a little bit of a red flag.” Doyle also warned rising Treasury yields could deter retail investors, a key source of demand supporting investment-grade credit spreads."
+    },
+    {
+      "id": "4880595",
+      "time": "2026-05-15 04:31:29",
+      "tags": [
+        "央行",
+        "市場",
+        "國際"
+      ],
+      "text": "美國至5月8日當週外國央行持有美國國債 -392.39億美元，前值-87.4億美元。"
+    },
+    {
+      "id": "mkt:019e282f-a514-7bb5-b4d2-affc8918e408",
+      "time": "2026-05-15 04:31:11",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | US Treasuries held by Foreign Central Banks (May.8) | actual -39239000000B | previous -8740000000B"
+    },
+    {
+      "id": "4880594",
+      "time": "2026-05-15 04:31:03",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲5月13日當週貼現窗貸款餘額60億美元，之前一週57.4億美元。"
+    },
     {
       "id": "4880592",
       "time": "2026-05-15 04:27:33",
@@ -136631,65 +136685,6 @@
         "國際"
       ],
       "text": "美國至5月1日當週外國央行持有美國國債 -87.4億美元，前值66.79億美元。"
-    },
-    {
-      "id": "mkt:019e0424-bb04-7775-8cba-cad3a2efaa1a",
-      "time": "2026-05-08 04:32:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IRAN'S MEHR: AIR DEFENSE ACTIVATED IN TEHRAN"
-    },
-    {
-      "id": "4867138",
-      "time": "2026-05-08 04:32:23",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "邁赫爾通訊社：德黑蘭西部啟動防空系統。"
-    },
-    {
-      "id": "4867137",
-      "time": "2026-05-08 04:32:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "【馬裡中部地區發生恐怖襲擊 至少35人死亡】當地時間5月6日，馬裡中部地區的兩個村莊遭到恐怖組織襲擊，造成至少35人死亡。"
-    },
-    {
-      "id": "mkt:019e0423-a37e-7775-8cba-c4160b690967",
-      "time": "2026-05-08 04:31:41",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | US Treasuries held by Foreign Central Banks (May.1) | actual -8740000000B | previous 6679000000.000001B"
-    },
-    {
-      "id": "mkt:019e0423-95f1-7775-8cba-b9355c0d8322",
-      "time": "2026-05-08 04:31:41",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "IRANIAN MEDIA: SOUNDS OF AIR DEFENSE ACTIVATION WEST OF TEHRAN"
-    },
-    {
-      "id": "te:markets:548909",
-      "time": "2026-05-08 04:31:30",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Motorola Solutions Msi earnings above expectations at 3.37 USD — Motorola Solutions Msi (MSI) released earnings per share at 3.37 USD, compared to market expectations of 3.24 USD."
     }
   ]
 }
