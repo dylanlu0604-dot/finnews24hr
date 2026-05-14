@@ -1,7 +1,105 @@
 {
-  "updated": "2026-05-14 22:06:42",
+  "updated": "2026-05-14 22:10:18",
   "count": 15499,
   "items": [
+    {
+      "id": "4880251",
+      "time": "2026-05-14 22:09:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國教育大臣菲利普森：首相獲得內閣大臣們的支援。"
+    },
+    {
+      "id": "mkt:019e26d1-c094-7dde-99f5-3ba3c4355582",
+      "time": "2026-05-14 22:09:00",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "CARNEY SAYS CANADA AND ALBERTA WILL ADVANCE A POTENTIAL PIPELINE TO TRANSPORT AT LEAST ONE MILLION BARRELS OF ALBERTA OIL A DAY TO NEW MARKETS"
+    },
+    {
+      "id": "4880250",
+      "time": "2026-05-14 22:08:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡尼表示，加拿大聯邦政府與阿爾伯塔省政府將推進一條潛在輸油管道的建設，該管道每日可向新市場運輸至少100萬桶阿爾伯塔原油。"
+    },
+    {
+      "id": "4880249",
+      "time": "2026-05-14 22:08:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國教育大臣菲利普森：我支援英國首相斯塔默。"
+    },
+    {
+      "id": "4880248",
+      "time": "2026-05-14 22:08:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大總理卡尼表示，他將於週五抵達卡爾加里，簽署一份包含強化工業碳定價機制的協議，以向市場傳遞明確的投資訊號，並對脫碳行動給予激勵。"
+    },
+    {
+      "id": "mkt:019e26d0-ea8f-7dde-99f5-37fdfe8e1e3e",
+      "time": "2026-05-14 22:08:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CANADA PM CARNEY SAYS HE WILL BE IN CALGARY ON FRIDAY TO SIGN DEAL WHICH INCLUDES STRENGTHENING INDUSTRIAL CARBON PRICING TO SEND CLEAR INVESTMENT SIGNALS AND TO REWARD DECARBONISATION"
+    },
+    {
+      "id": "4880247",
+      "time": "2026-05-14 22:07:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國教育大臣菲利普森：辭職是一個劃清界限的機會。"
+    },
+    {
+      "id": "te:economy:550775",
+      "time": "2026-05-14 22:07:40",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Business Inventories",
+        "Importance 1"
+      ],
+      "text": "US Business Inventories Rise More than Expected — US business inventories rose by 0.9% month-over-month in March 2026, following a 0.4% increase in February and slightly above market expectations of a 0.8% advance. This marked the strongest increase in stocks since June 2022, mainly on account of merchant wholesalers (1.3% vs 0.9% in February). Inventories also went up for manufacturers (0.6% vs 0.1%) and retailers (0.6 vs 0%). On a yearly basis, business inventories grew by 2% in March."
+    },
+    {
+      "id": "4880246",
+      "time": "2026-05-14 22:07:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大計劃修改清潔電力法規，以允許更大程度地使用可信的抵消措施，避免資產閒置。"
+    },
+    {
+      "id": "4880245",
+      "time": "2026-05-14 22:07:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "安哥拉中央銀行將基準貸款利率下調50個基點，至17.00%。"
+    },
+    {
+      "id": "4880244",
+      "time": "2026-05-14 22:06:50",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【5月14日增減持彙總】據統計，5月14日盤後，寧水集團、零點有數、眾源新材、理工導航4家A股上市公司披露擬減持情況。當日暫無A股公司披露增持情況。"
+    },
     {
       "id": "4880243",
       "time": "2026-05-14 22:05:39",
@@ -140085,117 +140183,6 @@
         "其他"
       ],
       "text": "傑富瑞（Jefferies）將ARM目標股價上調至290美元，此前為210美元。"
-    },
-    {
-      "id": "4866599",
-      "time": "2026-05-07 22:10:09",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲哈馬克：每個人都在感受到汽油價格上漲。"
-    },
-    {
-      "id": "4866598",
-      "time": "2026-05-07 22:09:51",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲哈馬克：對價格壓力前景感到擔憂。"
-    },
-    {
-      "id": "mkt:019e02c5-fe88-766d-bbae-4ef514631ba0",
-      "time": "2026-05-07 22:09:50",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "FED'S HAMMACK: IS WORRIED ABOUT OUTLOOK FOR PRICE PRESSURES"
-    },
-    {
-      "id": "mkt:019e02c5-f0b3-766d-bbae-46a0ddcc9f51",
-      "time": "2026-05-07 22:09:47",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "FED'S HAMMACK: EVERYONE IS FEELING INCREASE IN GASOLINE PRICES"
-    },
-    {
-      "id": "mkt:019e02c5-d9a7-766d-bbae-384bdb1acf09",
-      "time": "2026-05-07 22:09:41",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7",
-        "GOOGL.O"
-      ],
-      "text": "GOOGLE: MAKING GOOGLE HEALTH COACH PUBLICLY AVAILABLE AS PART OF GOOGLE HEALTH PREMIUM - WEBSITE GOOGLE: PREMIUM PLANS START AT $9.99 PER MONTH OR $99 PER YEAR, ARE AUTOMATICALLY BUNDLED AS PART OF GOOGLE AI PRO & ULTRA TIERS- WEBSITE"
-    },
-    {
-      "id": "4866597",
-      "time": "2026-05-07 22:09:39",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲哈馬克：鑑於不確定性，美聯儲應在政策前景方面保持中性立場。"
-    },
-    {
-      "id": "mkt:019e02c5-d3cb-766d-bbae-35ce51d71440",
-      "time": "2026-05-07 22:09:39",
-      "tags": [
-        "MKT News",
-        "GOOGL.O"
-      ],
-      "text": "GOOGLE: FITBIT AIR IS COMPATIBLE WITH ANDROID AND IOS AND AVAILABLE FOR PRE-ORDER, STARTING TODAY FOR $99.99 GOOGLE- GOOGLE FITBIT AIR SPECIAL EDITION WILL BE AVAILABLE FOR PRE-ORDER TODAY, AND ON-SHELF IN THE U.S. MAY 26 FOR $129.99"
-    },
-    {
-      "id": "4866596",
-      "time": "2026-05-07 22:09:11",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲官員哈馬克：經濟前景存在諸多不確定性。"
-    },
-    {
-      "id": "mkt:019e02c5-4614-766d-bbae-2feaaa807a20",
-      "time": "2026-05-07 22:09:03",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "FED'S HAMMACK SAYS FOMC STATEMENT SHOULD BE NEUTRAL ON RATES"
-    },
-    {
-      "id": "mkt:019e02c5-2cd5-766d-bbae-20d742a78cd9",
-      "time": "2026-05-07 22:08:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "FED'S HAMMACK: I SEE A LOT OF UNCERTAINTY IN ECONOMIC OUTLOOK - PUBLIC RADIO"
-    },
-    {
-      "id": "4866594",
-      "time": "2026-05-07 22:07:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家移民管理局：圍繞國家重大發展戰略、區域協調發展戰略，加大力度研究快捷通關、智慧通關等政策】5月7日，國家移民管理局黨組召開會議。會議強調，要緊緊圍繞黨中央關於經濟工作的決策部署，持續深化移民管理服務改革和政策制度創新。要精準有效加強政策制度供給。圍繞構建現代化產業體系、建設科技強國、推動產業鏈自主可控等重點任務，加強對已有政策落實效果的評估，更加註重宏觀政策取向一致性，最大限度推動各項政策發揮實效。要持續營造高效便捷通關環境。"
     }
   ]
 }
