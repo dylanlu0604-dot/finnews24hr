@@ -1,7 +1,69 @@
 {
-  "updated": "2026-05-14 13:35:02",
-  "count": 15405,
+  "updated": "2026-05-14 13:38:26",
+  "count": 15409,
   "items": [
+    {
+      "id": "mkt:019e24fd-9361-777f-be5c-667decdfb878",
+      "time": "2026-05-14 13:37:38",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "XI: CHINA AND US TO BUILD CONSTRUCTIVE STRATEGIC STABLE RELATIONS AS NEW POSITIONING OF BILATERAL TIES - CCTV"
+    },
+    {
+      "id": "4879201",
+      "time": "2026-05-14 13:37:04",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【中美建設性戰略穩定關係】5月14日上午，國家主席習近平在北京人民大會堂同來華進行國事訪問的美國總統特朗普舉行會談。習近平：我同特朗普總統贊同將構建“中美建設性戰略穩定關係”作為中美關係新定位。（央視新聞）"
+    },
+    {
+      "id": "4879200",
+      "time": "2026-05-14 13:36:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印度北方邦暴風雨已致90人死亡】當地時間13日，印度北方邦多地的強風暴及強降雨天氣已造成90人死亡。"
+    },
+    {
+      "id": "mkt:019e24fc-cf8a-777f-be5c-5d599901fd38",
+      "time": "2026-05-14 13:36:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TAIWAN'S WEIGHTED INDEX CLOSED UP 0.91%"
+    },
+    {
+      "id": "te:markets:550537",
+      "time": "2026-05-14 13:36:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Falls for 3rd Day, Down 0.3% at Close — The NZX 50 fell 38 points, or 0.3%, to close at 13,025 on Thursday, retreating for the third consecutive session and marking its lowest level since May 4, mainly driven by losses in the energy, consumer staples, and healthcare sectors. Wednesday's RBNZ quarterly survey, which highlighted expectations of higher inflation, interest rates, and unemployment, along with weaker growth for the coming year, continued to pressure sentiment. Investor sentiment was further subdued ahead of the release of New Zealand’s food inflation data and manufacturing PMI scheduled for Friday. Markets are also monitoring the summit between US President Trump and Chinese President Xi Jinping, which begins today, amid hopes of easing trade tensions. Air New Zealand slumped 5.8% after the firm warned of its biggest loss in four years due to higher fuel costs amid the Middle East crisis. Other major losers included A2 Milk (-3.7%), Mainfreight (-2.3%), and Turners Automotive Group (-2.3%)."
+    },
+    {
+      "id": "4879199",
+      "time": "2026-05-14 13:35:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "本田執行長：我們計劃將2030年混合動力汽車銷量目標從原先的220萬輛上調至250萬輛。"
+    },
+    {
+      "id": "4879198",
+      "time": "2026-05-14 13:35:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣證交所加權股價指數收高0.9%報41,751.75。"
+    },
     {
       "id": "4879197",
       "time": "2026-05-14 13:33:29",
@@ -138869,30 +138931,6 @@
         "公司"
       ],
       "text": "【京東正式拿下AMC牌照，已完成工商變更】中信青島資產管理有限公司日前工商登記變更。中信百年資產管理有限公司退出持股，網銀線上（北京）商務服務有限公司認繳出資20億元，持股66.67%，成中信青島第一大股東。網銀線上（北京）商務服務有限公司為京東科技控股股份有限公司全資子公司。"
-    },
-    {
-      "id": "4865448",
-      "time": "2026-05-07 13:36:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "【九州一軌等成立金剛石科技公司】企查查APP顯示，近日，北京通創九州金剛石科技有限公司成立，註冊資本2億元，經營範圍包含：積體電路設計；積體電路製造；積體電路銷售；金屬表面處理及熱處理加工；半導體器件專用裝置製造等。企查查股權穿透顯示，該公司由九州一軌、江蘇通用半導體有限公司共同持股。"
-    },
-    {
-      "id": "4865447",
-      "time": "2026-05-07 13:36:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "【油氣股午後繼續下挫，中國石油跌超5%】油氣股午後繼續下挫，中國石油、榮盛石化跌超5%，中國海油、中國石化、海油發展紛紛跟跌。"
-    },
-    {
-      "id": "4865446",
-      "time": "2026-05-07 13:35:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "臺灣證交所加權股價指數收高1.9%報41,933.78。"
     }
   ]
 }
