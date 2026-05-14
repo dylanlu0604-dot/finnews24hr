@@ -1,7 +1,79 @@
 {
-  "updated": "2026-05-14 16:09:35",
-  "count": 15445,
+  "updated": "2026-05-14 16:13:06",
+  "count": 15441,
   "items": [
+    {
+      "id": "mkt:019e258a-03d4-7aa5-b400-da5d6e4c9e31",
+      "time": "2026-05-14 16:11:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index"
+      ],
+      "text": "HANG SENG CLOSES FLAT, TECH INDEX FALLS 0.35%"
+    },
+    {
+      "id": "4879494",
+      "time": "2026-05-14 16:10:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【三年一週期 我國啟動全國生育友好城市、生育友好單位建立】國家衛生健康委今天釋出《全國生育友好城市、生育友好單位建立管理辦法》，啟動全國生育友好城市、生育友好單位建立工作，發揮典型示範作用，鼓勵引導各地對標先進，完善生育支援政策體系和激勵機制，加快建設生育友好型社會，不斷滿足人民群眾對美好生活的嚮往。（央視新聞）"
+    },
+    {
+      "id": "te:economy:550649",
+      "time": "2026-05-14 16:10:19",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Botswana",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Botswana Inflation Highest Since 2022 — The annual inflation rate in Botswana surged to 10.3% in April 2026 from 4.2% in the previous month. This marked the highest reading since December 2022, largely driven by a sharp rise in transport costs, which climbed 28.5% (6.4% in March), following significant increases in retail fuel prices and public transport fares. Inflation also accelerated for alcoholic beverages and tobacco (10.3% vs 9.9%) and miscellaneous goods and services (10.3% vs 9.4%). On the other hand, prices declined for housing and utilities (-1.7% vs -2.4%) and communication (-1.1% vs -1.2%). On a monthly basis, consumer prices went up by 6.7% in April, the sharpest rise on record and up from and 0.4% gain in the preceding period."
+    },
+    {
+      "id": "te:economy:550648",
+      "time": "2026-05-14 16:10:08",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Palestine",
+        "Inflation Rate",
+        "Importance 0"
+      ],
+      "text": "Palestine Consumer Prices Fall in April — Consumer prices in Palestine dropped by 21.78% year-on-year in April 2026, reversing a 3.02% increase in the previous month and marking the sharpest decline since late December. Across the territories, the Gaza Strip recorded a steep 42.84% drop, while prices rose by 3.64% in the West Bank and 3.45% in Jerusalem. On a monthly basis, the consumer price index declined by 0.75% in April, driven by a 4.41% fall in Gaza, partly offset by increases of 2.08% in the West Bank and 0.73% in Jerusalem. The decline was led by lower prices for dried vegetables (-20.69%), potatoes and other tubers (-20.60%), fresh vegetables (-16.47%), fresh chicken (-6.22%), gas (-4.35%), other sugar and sugar substitutes (-3.28%), fresh meat (-3.19%), and bread (-2.11%)."
+    },
+    {
+      "id": "4879493",
+      "time": "2026-05-14 16:10:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【英國國債投資者將關注英國政治動態】Tickmill Group的Patrick Munnelly在一份報告中表示，在尋找有關未來財政政策的線索之際，英國國債投資者可能會關注國內政治以及對首相基爾·斯塔默領導地位的任何潛在挑戰。“市場已經對領導層面的訊息很敏感，因為後斯塔默時代的競爭可能會帶來更具擴張性的財政立場。”Munnelly說，如果出現領導權之爭，“對英國國債而言，問題不在於工黨是否左傾，而在於左傾多少——以及這轉化為財政信譽風險的速度有多快。”Tradeweb資料顯示，10年期英國國債收益率下跌1.3個基點，最新報5.055%，本週曾觸及5.135%的18年高點。"
+    },
+    {
+      "id": "te:markets:550647",
+      "time": "2026-05-14 16:10:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Rubber Rises by 4.42% — Top commodity gainers are Rubber (4.42%), Rice (2.46%) and Wheat (0.55%). Biggest losers are Cotton (-1.67%), Palm Oil (-1.06%) and Soybeans (-0.64%)."
+    },
+    {
+      "id": "4879492",
+      "time": "2026-05-14 16:09:55",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破107美元/桶，日內漲1.33%。"
+    },
     {
       "id": "4879491",
       "time": "2026-05-14 16:09:15",
@@ -139323,113 +139395,6 @@
         "其他"
       ],
       "text": "越南最大煉油廠：原油儲備充足，可維持運營至6月。"
-    },
-    {
-      "id": "4865782",
-      "time": "2026-05-07 16:12:36",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "以色列證實，已在貝魯特擊斃黎巴嫩真主黨拉德萬部隊指揮官。"
-    },
-    {
-      "id": "4865781",
-      "time": "2026-05-07 16:11:53",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "由於中東衝突影響廣告收入，同時北美增長放緩，Snap盤前交易中下跌8.8%。"
-    },
-    {
-      "id": "4865780",
-      "time": "2026-05-07 16:11:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "【寧德時代與土耳其汽車品牌Togg正式達成磐石底盤量產合作】近日，寧德時代與土耳其汽車品牌Togg正式達成磐石底盤量產合作。Togg與寧德時代子公司時代智慧將聚焦Togg全新B級平臺下3款車型進行聯合開發，首款車型計劃於2027年實現量產。這是國內首個一體化智慧底盤面向海外乘用車市場實現供貨的合作專案，標誌著磐石底盤協同中國新能源產業鏈上下游共同拓展海外市場取得成功。（寧德時代）"
-    },
-    {
-      "id": "te:markets:548689",
-      "time": "2026-05-07 16:11:24",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "FTSE 100 Trails Europe on Weak Oil Stocks — The FTSE 100 fell more than 0.5% on Thursday, underperforming other European markets as investors monitored developments in US-Iran peace negotiations and weaker oil prices pressured energy shares. Brent crude slipped below $100 per barrel, dragging down oil majors Shell and BP by more than 2%. Utilities also came under pressure, with Centrica, Severn Trent, United Utilities and SSE falling between 2% and 5%. Shell reported quarterly profit above expectations with adjusted net income of $6.92 billion, though it reduced its share buyback program to $3 billion from $3.5 billion. Centrica warned retail profit would likely come in near the lower end of guidance due to warmer weather and ongoing bad debt challenges. BAE Systems dropped over 3% despite reaffirming its sales outlook on strong defence demand. In contrast, travel and leisure stocks, including InterContinental Hotels, Whitbread, easyJet, Ryanair and IAG outperformed as lower fuel prices supported sentiment."
-    },
-    {
-      "id": "4865779",
-      "time": "2026-05-07 16:10:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "【克明食品：控股子公司4月生豬銷售收入環比下降39.42%】克明食品(002661)5月7日公告，公司控股子公司興疆牧歌2026年4月份銷售生豬5.95萬頭，環比下降28.71%，同比下降6.82%；銷售收入4010.95萬元，比下降39.42%，同比下降43.43%。2026年1—4月，興疆牧歌累計銷售生豬26.49萬頭，同比增長39.31%；累計銷售收入2.22億元，同比增長1.59%。"
-    },
-    {
-      "id": "te:markets:548688",
-      "time": "2026-05-07 16:10:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "FTSE MIB Edges Lower — The FTSE MIB was slightly lower at 49,600 on Thursday, trimming gains after hitting a fresh record at the open, as investors digested mixed corporate updates and earnings reports. Davide Campari-Milano slumped over 11% as Middle East–driven inflation weighed on spirits demand, despite the company saying pricing should support its appeal. Tenaris also fell over 5% after maintaining Q1 profitability but warning that the same conflict could weigh on Q2 sales. FinecoBank eased 0.5% after reporting lower Q1 profits. On the upside, Poste Italiane rose over 2% after reporting higher Q1 profits, while Nexi gained 0.3% on earnings growth. Meanwhile, traders monitored developments in the US–Iran conflict and whether Tehran would accept Washington’s proposal. President Trump said no agreement had been finalized, calling it “perhaps a big assumption” that Iran would agree, while warning that military strikes could resume at higher intensity if Tehran failed to comply."
-    },
-    {
-      "id": "4865778",
-      "time": "2026-05-07 16:10:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【河南省駐馬店市人大常委會原黨組副書記賈迎戰被開除黨籍】中央紀委國家監委網站5月7日通報，據河南省紀委監委訊息：經中共河南省委批准，河南省紀委監委對駐馬店市人大常委會原黨組副書記、副主任賈迎戰嚴重違紀違法問題進行了立案審查調查。經查，賈迎戰喪失理想信念，背棄初心使命，對抗組織審查；無視中央八項規定精神，收受可能影響公正執行公務的禮品、禮金，接受可能影響公正執行公務的宴請；在組織函詢時不如實說明問題，利用職權為他人謀取人事利益並收受錢款；透過民間借貸獲取大額回報，將應由本人支付的費用由他人支付；追求低階趣味；利用職務上的便利和職權或地位形成的便利條件，為他人在企業經營、工作調整等方面謀取利益，非法收受鉅額財物。賈迎戰嚴重違反黨的政治紀律、組織紀律、廉潔紀律和生活紀律，構成嚴重職務違法並涉嫌受賄犯罪，且在黨的十八大後不收斂、不收手，性質嚴重，影響惡劣，應予嚴肅處理。依據《中國共產黨紀律處分條例》《中華人民共和國監察法》《中華人民共和國公職人員政務處分法》等有關規定，經河南省紀委常委會會議研究並報中共河南省委批准，決定給予賈迎戰開除黨籍處分；按規定取消其享受的待遇；收繳其違紀違法所得；將其涉嫌犯罪問題移送檢察機關依法審查起訴，所涉財物一併移送。"
-    },
-    {
-      "id": "te:economy:548686",
-      "time": "2026-05-07 16:10:08",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Norway",
-        "Interest Rate",
-        "Importance 2"
-      ],
-      "text": "Norges Bank Raises Key Rate to 4.25% — The Norges Bank unexpectedly raised its policy rate by 25 basis points to 4.25% at its May meeting, defying market expectations for no change. The central bank emphasized that inflation remains too high and is likely to stay elevated due to the ongoing Middle East war. Policymakers argued that a higher policy rate is necessary to bring inflation back to target within a reasonable timeframe, warning that prolonged high inflation could lead firms and households to expect persistently elevated prices, making it harder to tame later. Despite significant uncertainty about future economic developments, the bank noted that its monetary policy outlook has not materially changed since March, with projections still pointing to a policy rate between 4.25% and 4.5% by year-end."
-    },
-    {
-      "id": "te:markets:548685",
-      "time": "2026-05-07 16:10:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Oat Drops by 4.40% — Top commodity losers are Oat (-4.40%), Wheat (-1.28%) and Cotton (-0.96%). Gains are led by Rice (0.90%), Rubber (0.83%) and Palm Oil (0.77%)."
-    },
-    {
-      "id": "4865777",
-      "time": "2026-05-07 16:09:54",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "據中東媒體7日援引訊息人士的話報道，伊朗和美國已就緩解美國海上封鎖以換取霍爾木茲海峽逐步重新開放達成共識。不過該訊息尚未得到美伊證實。（新華社）"
-    },
-    {
-      "id": "4865776",
-      "time": "2026-05-07 16:09:49",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "惠而浦股價盤前下跌16.4%，此前該公司一季度銷售額不及預期，並宣佈暫停派發股息。"
     }
   ]
 }
