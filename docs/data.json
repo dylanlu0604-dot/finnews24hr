@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-15 05:49:55",
-  "count": 15149,
+  "updated": "2026-05-15 05:53:25",
+  "count": 15148,
   "items": [
     {
       "id": "te:economy:550846",
@@ -136706,18 +136706,6 @@
         "其他"
       ],
       "text": "OpenAI：藉助 GPT‑5.5 與 GPT‑5.5‑Cyber 拓展網路安全可信訪問能力。"
-    },
-    {
-      "id": "te:markets:548918",
-      "time": "2026-05-08 05:50:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "Ibovespa Slides as Petrobras Weighs — The Ibovespa fell more than 2.4% to close at 183,218 on Thursday, pressured by Petrobras and major banks. Petrobras dropped 2.2% as oil prices declined on expectations that a potential US–Iran agreement could lead to a gradual reopening of the Strait of Hormuz. Banks also traded lower despite strong earnings reports, with Itaú falling 2.4% despite a 10% annual increase in profit, as concerns over delinquency levels weighed on sentiment, while Bradesco lost 3.9% even after reporting a 16.1% rise in earnings. Elsewhere, Sabesp (-3.7%) and B3 (-3.2%) are set to release earnings later in the day."
     }
   ]
 }
