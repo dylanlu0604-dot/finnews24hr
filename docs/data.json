@@ -1,7 +1,105 @@
 {
-  "updated": "2026-05-14 14:12:34",
-  "count": 15436,
+  "updated": "2026-05-14 14:16:00",
+  "count": 15441,
   "items": [
+    {
+      "id": "4879251",
+      "time": "2026-05-14 14:15:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "鴻海第一季度營業利潤756.5億元臺幣，預估669.2億元臺幣。"
+    },
+    {
+      "id": "4879250",
+      "time": "2026-05-14 14:15:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長阿拉格齊：是時候將美國的霸權行為掃進歷史的垃圾堆了。"
+    },
+    {
+      "id": "4879249",
+      "time": "2026-05-14 14:15:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "鴻海：第一季度淨利潤499.2億元臺幣，預估484.3億元臺幣。"
+    },
+    {
+      "id": "4879248",
+      "time": "2026-05-14 14:15:00",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度SENSEX指數上漲1%，至75360.45點。"
+    },
+    {
+      "id": "4879247",
+      "time": "2026-05-14 14:14:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【豆包輸入法上新，可在電腦上語音打字】5月14日，豆包輸入法macOS版本正式上線，基於豆包App同款語音模型，使用者可以在電腦上實現語音輸入，不限制時長，支援多種方言和中英混說。"
+    },
+    {
+      "id": "4879246",
+      "time": "2026-05-14 14:14:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【秘魯總統選舉將舉行第二輪投票】秘魯13日釋出的總統選舉第一輪投票結果顯示，總統候選人羅伯託·桑切斯憑藉極微弱優勢晉級總統選舉第二輪，將在6月與秘魯前總統阿爾韋託·藤森的女兒藤森慶子一爭高下。（新華社）"
+    },
+    {
+      "id": "4879245",
+      "time": "2026-05-14 14:13:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【立陶宛稱美國暫停向歐洲輪換部署部隊】立陶宛國防部長羅伯塔斯·考納斯表示，由於五角大樓正在審查其在歐洲大陸的部署計劃，美國已暫停向歐洲輪換部隊。考納斯週四在接受LRT電臺採訪時表示：“我們得到的訊息是，輪換目前已經暫停，以便評估德國的變化。這是我們目前掌握的初步資訊”。Army Times網站週三報道稱，一位不願透露姓名的軍方官員表示，此次取消行動影響了原定在波蘭部署九個月的4,000多名士兵。"
+    },
+    {
+      "id": "4879244",
+      "time": "2026-05-14 14:13:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數收盤上漲0.1%，至8640.70點。"
+    },
+    {
+      "id": "4879243",
+      "time": "2026-05-14 14:13:11",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "5年期日本國債收益率上升1.5個基點，達到1.945%。"
+    },
+    {
+      "id": "te:economy:550548",
+      "time": "2026-05-14 14:13:04",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "GDP Growth Rate",
+        "Importance 3"
+      ],
+      "text": "UK Economy Grows 0.6% in Q1 2026 — The UK economy expanded by 0.6% in Q1 2026, matching market expectations and marking the strongest growth since Q1 2025. This follows an upwardly revised 0.2% increase in the previous quarter. Services output, the main growth driver, rose by 0.8%, up from 0.2% in the prior period. The wholesale and retail trade sector led the gains, growing by 2.0%, with wholesale trade up 3.1% and retail trade up 1.6%. Production output increased by 0.2%, supported by a 0.8% rise in manufacturing and a 0.6% increase in electricity, gas, steam, and air conditioning supply, offsetting declines in mining, quarrying, and water supply sectors. Construction grew by 0.4%, as repair and maintenance surged by 3.4%, while new work fell by 1.9%. On the expenditure side, growth was driven by higher gross capital formation, household consumption, and government spending. Annually, the economy expanded by 1.1% in Q1 2026, exceeding the 0.8% forecast."
+    },
+    {
+      "id": "te:economy:550547",
+      "time": "2026-05-14 14:12:35",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Saudi Arabia",
+        "Producer Prices Change",
+        "Importance 1"
+      ],
+      "text": "Saudi Arabia Wholesale Inflation Steady in April — Saudi Arabia’s annual wholesale price inflation rate stood at 3.3% in April 2026, unchanged from the previous month. Price growth was steady for other transportable goods, except for metal products, machinery, and equipment at 6.4%, which matched the previous month’s pace, while inflation rose to 0.8% in food products, beverages, tobacco, and textiles after remaining flat in March. Meanwhile, costs edged lower in agriculture and fishery products (1.7% vs 1.8%) and in metal products, machinery, and equipment (1.1% vs 1.2%). In contrast, deflation persisted in ores and minerals (-0.3% vs -0.2%). On a monthly basis, prices were also unchanged at 0.2% in April."
+    },
     {
       "id": "4879242",
       "time": "2026-05-14 14:12:04",
@@ -139178,61 +139276,6 @@
         "Importance 2"
       ],
       "text": "German Factory Orders Pick Up Strongly — Germany’s factory orders surged 5.0% mom in March 2026, sharply accelerating from an upwardly revised 1.4% growth in the prior month and easily topping market expectations of a 1% increase. The upturn was boosted by a positive trend in new orders across almost all economic sectors, including electrical equipment (21.5%), data processing equipment, electronic and optical products (14.4%), and mechanical engineering (6.9%). Order intake increased for all components, notably intermediate goods (9.2%), consumer goods (7.3%), and capital goods (2.1%). Foreign orders jumped 5.6%, boosted by demand from the euro area (10.1%) and non-euro area markets (2.7%). In addition, domestic orders grew 4.0%. Excluding large-scale contracts, total orders rose 5.1%, reaching their highest level since February 2023. On a less volatile basis, new orders in Q1 2026 fell 4.1% from the prior period, due to a very high volume of large orders at the end of 2025. Excluding large orders, they increased by 1.6%."
-    },
-    {
-      "id": "4865499",
-      "time": "2026-05-07 14:15:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "【122關稅生效首月美企納稅83億美元】記者從權威信源處獲悉，近日在世貿組織（WTO）的一場會議上，成員方討論了美國關於徵收進口附加費以解決國際收支逆差的議題。 美方表示，2026年2月20日，美國總統根據1974年《貿易法》第122條，對來自所有貿易伙伴的進口商品徵收10%的從價進口附加稅，理由是存在根本性的國際支付問題。 該附加費於2026年2月24日生效，將於2026年7月24日到期，除非美國國會立法延期。 6日，美國人口普查局釋出的資料顯示，在122關稅生效的第一個完整月（3月），美國企業支付了83億美元的關稅。同時，自2025年3月以來，美國企業支付的關稅總額已達2830億美元，其中包括因《國際緊急經濟權力法》（IEEPA）所產生的關稅。 美方表示，已準備好在WTO國際收支限制委員會（BOP委員會）內部進行磋商。美國還要求按照WTO規則，於下個月舉行磋商。 （第一財經）"
-    },
-    {
-      "id": "4865498",
-      "time": "2026-05-07 14:15:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "蘋果與CLEANMAX合作，助力印度可再生能源發展。"
-    },
-    {
-      "id": "4865497",
-      "time": "2026-05-07 14:14:53",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【美伊結束戰事傳言致國際油價波動】由於市場預期美國與伊朗“接近結束戰事”，當地時間5月6日，國際原油期貨價格一度下跌超過11%。但隨後又因美國總統特朗普表示現在談美伊達成協議“為時過早”，國際原油期貨價格出現明顯反彈。市場分析人士認為，目前全球每天大約1300萬桶的石油供應缺口現在很大程度上由庫存彌補，致使庫存快速下降，市場波動性加劇。即便霍爾木茲海峽恢復通航，航運公司也需要時間去調整運輸計劃，全球石油供應預計在6到8周之後才能恢復到正常水平。（CCTV國際時訊）"
-    },
-    {
-      "id": "te:markets:548599",
-      "time": "2026-05-07 14:13:29",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "European Stocks Poised for Higher Open — European equity markets were set to open higher on Thursday, marking a third consecutive session of gains as rising optimism over a potential US-Iran peace agreement pushed oil prices sharply lower and eased inflation concerns. Investors also focused on another wave of corporate earnings reports. UK energy major Shell exceeded quarterly profit expectations as the Middle East conflict contributed to higher energy prices during the period. Swiss Re also posted stronger-than-expected first-quarter net income, supported by lower natural catastrophe claims and improved investment returns. Meanwhile, Siemens Healthineers missed second-quarter revenue estimates, while Engie reported a decline in first-quarter earnings. In premarket trading, Euro Stoxx 50 futures rose 0.1%, while Stoxx 600 futures gained 0.2%."
-    },
-    {
-      "id": "4865496",
-      "time": "2026-05-07 14:13:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "澳大利亞S&P/ASX 200指數收盤上漲1%，至8,878.10點。"
-    },
-    {
-      "id": "4865495",
-      "time": "2026-05-07 14:12:49",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "工業矽連續主力合約日內漲3%，現報9145.00元。"
     }
   ]
 }
