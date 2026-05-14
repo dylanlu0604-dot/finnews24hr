@@ -1,7 +1,65 @@
 {
-  "updated": "2026-05-15 02:13:25",
-  "count": 15224,
+  "updated": "2026-05-15 02:16:55",
+  "count": 15225,
   "items": [
+    {
+      "id": "mkt:019e27b3-4be0-7bb5-b4d2-02204c424397",
+      "time": "2026-05-15 02:15:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRAQI: WE AFFIRM THE IMPORTANCE OF DIALOGUE AND COOPERATION BETWEEN THE COUNTRIES OF THE REGION, CONSIDERING THEM THE GUARANTEE FOR SUSTAINABLE SECURITY AND STABILITY IN THE GULF"
+    },
+    {
+      "id": "mkt:019e27b3-3207-7bb5-b4d1-fb40c4905d21",
+      "time": "2026-05-15 02:15:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRAQI: THE COUNTRIES OF THE REGION HAVE COME TO REALIZE TODAY, MORE THAN EVER BEFORE, THAT REGIONAL SECURITY IS INTERCONNECTED WITH ONE ANOTHER"
+    },
+    {
+      "id": "te:markets:550826",
+      "time": "2026-05-15 02:15:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural Gas EU Gains by 1.50% — Top commodity gainers are Natural Gas EU (1.50%), Natural Gas UK (1.25%), Coking Coal (1.13%), Brent Crude Oil (0.40%) and Crude Oil WTI (0.34%). Biggest loser is Heating Oil (-1.17%)."
+    },
+    {
+      "id": "mkt:019e27b2-db70-7bb5-b4d1-f544fe27827a",
+      "time": "2026-05-15 02:14:53",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "IRAQI: REGIONAL COUNTRIES REALIZE TODAY THAT IT IS NOT POSSIBLE TO RELY ON AMERICA AND THE ISRAELI ENTITY TO ENSURE SECURITY"
+    },
+    {
+      "id": "4880474",
+      "time": "2026-05-15 02:14:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國疾控中心（CDC）：美國目前還沒有漢坦病毒感染者。"
+    },
+    {
+      "id": "mkt:019e27b2-51b1-7bb5-b4d1-eb1de0639363",
+      "time": "2026-05-15 02:14:18",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "IRAN WAR SAPS MONEY FROM OTHER PENTAGON NEEDS, LEADERS WARN - WSJ"
+    },
     {
       "id": "mkt:019e27af-d83a-7bb5-b4d1-e4c37b382064",
       "time": "2026-05-15 02:11:36",
@@ -137589,49 +137647,6 @@
         "MKT News"
       ],
       "text": "TRUMP IS REPORTEDLY MORE THAN 2 HOURS LATE FOR HIS MEETING WITH BRAZILIAN PRESIDENT LULA, WITH NO EXPLANATION"
-    },
-    {
-      "id": "4867020",
-      "time": "2026-05-08 02:16:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國疾病控制與預防中心（CDC）：四州共五名兒童因同一株沙門氏菌感染患病，此次疫情已查明源頭為寵物高冠變色龍。"
-    },
-    {
-      "id": "4867019",
-      "time": "2026-05-08 02:15:58",
-      "tags": [
-        "市場"
-      ],
-      "text": "墨西哥比索回吐早盤漲幅，股市轉跌。"
-    },
-    {
-      "id": "te:markets:548886",
-      "time": "2026-05-08 02:15:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Methanol Plunges by 5.38% — Top commodity losers are Methanol (-5.38%) and Brent Crude Oil (-0.60%). Gains are led by Natural gas (1.52%), Coking Coal (1.48%) and Heating Oil (0.82%). Meanwhile Crude Oil WTI was little changed."
-    },
-    {
-      "id": "4867018",
-      "time": "2026-05-08 02:15:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普政府正尋求重啟“自由計劃” 最早可能在本週實施】當地時間5月7日，央視記者獲悉，美國官員稱，特朗普政府目前正尋求重啟利用海空力量支援護送商船穿越霍爾木茲海峽的“自由計劃”行動。目前尚不清楚重啟的具體時間，不過國防部官員給出的時間表顯示，最早可能就在本週。\n\n美國此次旨在強行打通海峽的軍事行動，依賴於龐大的機群來保護商船免受伊朗導彈和無人機的攻擊，因此沙特和科威特的軍事基地及領空對於該行動的順利實施至關重要。美國和沙特官員透露，沙烏地阿拉伯和科威特已解除此前對美軍使用其基地及領空施加的限制。此舉消除了曾阻礙特朗普政府護送船隻穿越霍爾木茲海峽努力的一大障礙。\n\n美方於中東當地時間4日上午在霍爾木茲海峽啟動所謂“自由計劃”行動，“引導”被困船隻駛離海峽，該行動從啟動到暫停僅持續不到48小時。據美國媒體6日報道，由於該行動未提前與海灣盟友協調，引發沙烏地阿拉伯方面不滿，美國總統特朗普不得不“突然180度大轉彎”，叫停“自由計劃”，以便美方在關鍵空域的軍事准入權能夠得以恢復。（央視新聞）"
-    },
-    {
-      "id": "4867017",
-      "time": "2026-05-08 02:14:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "【報道：OpenAI 與博通 AI 晶片合作陷入融資僵局】去年秋季，OpenAI 與晶片設計廠商博通官宣聯合研發定製人工智慧晶片時，雙方曾將這筆合作視作板上釘釘的既定交易。數月過後，據一份內部備忘錄及兩名參與談判的知情人士透露，雙方正協商由博通出資推進晶片生產第一階段建設。該階段需消耗 1.3 吉瓦的資料中心算力容量，造價約180 億美元。按此成本測算，代號為 “Nexus”、總規模 10 吉瓦的完整專案，僅晶片生產環節成本就高達1800 億美元，還未計入資料中心建設及其他配套開支。落實這筆融資對 OpenAI 至關重要。這家 ChatGPT 開發企業預計，到 2029 年其運營資金消耗將超2000 億美元。自研晶片是 OpenAI 降低伺服器成本、提升毛利率戰略的核心一環。但目前談判已陷入潛在僵局。一名 OpenAI 高管在上月的內部備忘錄中向同事透露，博通明確表示，只有微軟同意採購約 40% 的晶片產能，才會為專案首期提供融資。微軟將把這批晶片部署至自有資料中心，再向 OpenAI 租賃算力使用。參與談判的知情人士稱，微軟擁有數十年資料中心運營經驗、也是全球信用資質頂尖的企業，一旦作出採購承諾，將讓博通確信自身投資能夠回本。備忘錄同時指出，微軟也有可能拒絕採購這批定製晶片，這將直接改寫專案的融資條款。據備忘錄及兩名談判知情人士透露，擬定中的晶片合作協議已增設條款：若微軟實際採購量未達標，OpenAI 必須自行尋找其他接盤採購方。"
     }
   ]
 }
