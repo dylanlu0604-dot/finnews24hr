@@ -1,7 +1,41 @@
 {
-  "updated": "2026-05-15 04:15:58",
+  "updated": "2026-05-15 04:19:25",
   "count": 15138,
   "items": [
+    {
+      "id": "mkt:019e2824-0d7a-7bb5-b4d2-98d1e8ff70d1",
+      "time": "2026-05-15 04:18:31",
+      "tags": [
+        "MKT News",
+        "SHOP.O",
+        "Impact bullish"
+      ],
+      "text": "JOSHUA KUSHNER’S THRIVE CAPITAL HAS TAKEN A $100M STAKE IN SHOPIFY"
+    },
+    {
+      "id": "4880582",
+      "time": "2026-05-15 04:18:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "【標普 500 指數突破 7500 點，人工智慧助推行情創下歷史新高】人工智慧交易熱潮再度回暖，持續為股市注入上漲動能。儘管受戰事推動能源成本飆升，但零售銷售資料顯現消費韌性，市場同步走高。股市自年內低點持續反彈，標普 500 指數突破 7500 點大關。英偉達連續七日收漲，市值逼近 6 萬億美元。思科系統給出穩健業績展望，股價大漲 13%。人工智慧炒作熱潮繼續推高福特汽車股價，賽布拉斯系統上市首日暴漲 68%。蘋果股價走低，因訊息稱，OpenAI 未能從合作協議中獲得預期收益，並正考慮採取法律行動。"
+    },
+    {
+      "id": "4880581",
+      "time": "2026-05-15 04:16:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "法拉第未來公佈2026年第一季度財務業績。公司升級為一家“實體人工智慧公司”，其EAI機器人已實現生態系統收入及毛利轉正；公司將2026年機器人出貨目標上調至1500臺，並計劃於6月初推出新款機器人。"
+    },
+    {
+      "id": "4880580",
+      "time": "2026-05-15 04:16:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "NEWCORE GOLD 宣佈完成 1000 萬美元包銷配售融資。"
+    },
     {
       "id": "4880579",
       "time": "2026-05-15 04:15:19",
@@ -136675,53 +136709,6 @@
         "Impact mixed"
       ],
       "text": "FED'S WILLIAMS: THERE IS ENOURMOUS DEMAND FOR US GOVERNMENT DEBT"
-    },
-    {
-      "id": "te:markets:548902",
-      "time": "2026-05-08 04:19:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Republic Services earnings above expectations at 1.70 USD — Republic Services (RSG) released earnings per share at 1.70 USD, compared to market expectations of 1.67 USD."
-    },
-    {
-      "id": "mkt:019e0416-efaa-7775-8cba-9cf20f8575e7",
-      "time": "2026-05-08 04:17:52",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "EXCHANGE OF FIRE BETWEEN IRAN AND THE US IN THE STRAIT OF HORMUZ, ACCORDING TO AN ISRAELI SOURCE -ISRAEL HAYOM"
-    },
-    {
-      "id": "te:markets:548900",
-      "time": "2026-05-08 04:16:57",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Coinbase Global earnings below expectations at -1.49 USD — Coinbase Global (COIN) released earnings per share at -1.49 USD, compared to market expectations of 0.35 USD."
-    },
-    {
-      "id": "te:markets:548899",
-      "time": "2026-05-08 04:16:57",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "McKesson earnings above expectations at 11.69 USD — McKesson (MCK) released earnings per share at 11.69 USD, compared to market expectations of 11.57 USD."
     }
   ]
 }
