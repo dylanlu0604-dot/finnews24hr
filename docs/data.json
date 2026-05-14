@@ -1,7 +1,36 @@
 {
-  "updated": "2026-05-14 20:55:07",
-  "count": 15533,
+  "updated": "2026-05-14 20:58:29",
+  "count": 15530,
   "items": [
+    {
+      "id": "te:economy:550749",
+      "time": "2026-05-14 20:57:32",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Treasury Yields Ease on Thursday — The yield on the US 10-Year Treasury note edged lower to 4.45% on Thursday after reaching its highest level since July in the previous session, as investors continued to evaluate the political backdrop and its implications for the economy and monetary policy. Oil prices stabilised and investors also focused on the summit between US President Trump and Chinese President Xi. On the economic front, US retail sales slowed as expected but still indicated resilient consumer spending. Headline retail sales rose 0.5% in April, while the core retail sales measure, which feeds directly into GDP calculations, also increased by 0.5%. Earlier this week, both the CPI and PPI reports pointed to renewed inflationary pressures stemming from the energy shock triggered by the outbreak of war in Iran. Investors currently expect the Fed to keep the federal funds rate unchanged through the remainder of the year, although markets continue to price in around a 28% probability of a 25bps rate hike in December."
+    },
+    {
+      "id": "4880138",
+      "time": "2026-05-14 20:56:55",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【巴菲特慈善午餐進入最後競拍階段 報價已破900萬美元】重啟後的“巴菲特慈善午餐”競拍進入最後14小時，競拍價格已突破900萬美元（約合人民幣6100萬元），較本週一約7萬美元的起拍階段上漲超過120倍。此次拍賣最大的不同在於，巴菲特不僅重新迴歸這一經典慈善 IP，還首次與NBA明星庫裡夫婦聯手推出全新版本的慈善午餐。根據拍賣規則，巴菲特承諾將為兩家受益機構進行等額配捐。這意味著，如果最終成交價為900萬美元，巴菲特還將額外分別向 GLIDE Foundation 和 Eat. Learn. Play. Foundation 各捐贈900萬美元。根據官網資訊，該次午餐線上競拍於美國西岸時間5月7日晚7：30開啟，至5月14日晚7：30結束。中標者可攜至多7名嘉賓，於6月24日在巴菲特的家鄉美國內布拉斯加州奧馬哈市，與巴菲特及庫裡夫婦共進午餐。"
+    },
+    {
+      "id": "4880137",
+      "time": "2026-05-14 20:55:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "布魯克菲爾德同意收購環球貨運公司，交易條款未披露。"
+    },
     {
       "id": "4880136",
       "time": "2026-05-14 20:54:46",
@@ -9,6 +38,14 @@
         "國際"
       ],
       "text": "歐洲地中海地震中心：哥倫比亞地區發生5.5級地震。"
+    },
+    {
+      "id": "4880135",
+      "time": "2026-05-14 20:54:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【黃坤明孟凡利會見中國鐵路工程集團有限公司董事長陳文健】5月14日下午，廣東省委書記黃坤明，省委副書記、省長孟凡利在廣州會見中國鐵路工程集團有限公司黨委書記、董事長陳文健一行，雙方就“十五五”時期加強省企合作、更好服務國家戰略實施進行深入交流。（南方+）"
     },
     {
       "id": "mkt:019e268d-6ec7-7dde-99f4-652d426da31e",
@@ -141,6 +178,15 @@
         "國際"
       ],
       "text": "以色列國防部長卡茨：針對伊朗的行動尚未結束。"
+    },
+    {
+      "id": "4880121",
+      "time": "2026-05-14 20:45:51",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "古巴外長：美國政府首次透過國務院宣告，公開正式提出向古巴提供價值1億美元的援助提議。目前尚不清楚該援助是以現金還是物資形式提供，以及是否將用於滿足古巴人民當下最迫切的需求，如燃料、食品和藥品。"
     },
     {
       "id": "4880120",
@@ -140392,78 +140438,6 @@
         "國際"
       ],
       "text": "美聯儲資料顯示，5月6日美國有效聯邦基金利率為3.64%，當日成交規模為1180億美元；5月5日有效利率同樣為3.64%，當日成交規模為1130億美元。"
-    },
-    {
-      "id": "4866449",
-      "time": "2026-05-07 20:58:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【蔚來能源2026年“五一”假期完成超百萬次換電】蔚來能源2026年“五一”假期使用者加電報告發布，5月1日至5月5日，蔚來能源在高速公路累計提供超1543萬kWh充換電量，佔全國高速公路充換電總量16.3%。長假期間，蔚來全國3839座換電站累計提供103萬次換電服務，5月1日單日換電總量達170585次，平均0.51秒就有一輛車完成換電。"
-    },
-    {
-      "id": "4866448",
-      "time": "2026-05-07 20:58:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙烏地阿拉伯任命滙豐銀行擔任國際一級交易商。"
-    },
-    {
-      "id": "4866447",
-      "time": "2026-05-07 20:57:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "義大利電信首席財務官：能源成本仍完全可控。"
-    },
-    {
-      "id": "4866446",
-      "time": "2026-05-07 20:57:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "【“拉索”在銀河系捕捉到新的超級粒子加速器】記者5月7日從天府宇宙線研究中心獲悉，近期國家重大科技基礎設施高海拔宇宙線觀測站“拉索”（LHAASO）在探索極端宇宙方面取得突破。由中國科學院高能物理研究所牽頭，上海天文臺等單位共同參與的科研團隊首次探測到來自銀河系內伽馬射線雙星LS I +61° 303的超高能（>100 TeV，即100萬億電子伏特）伽馬射線訊號。相關成果於5月6日線上發表於《物理評論快報》上。（央視新聞）"
-    },
-    {
-      "id": "4866445",
-      "time": "2026-05-07 20:56:07",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【年內收益72% 華泰柏瑞中韓半導體ETF再停牌】華泰柏瑞基金最新公告稱，旗下華泰柏瑞中證韓交所中韓半導體ETF出現較大幅度溢價，為保護投資者權益，將於5月8日開市起至當日10:30停牌。截至今日收盤，華泰柏瑞中證韓交所中韓半導體ETF報5.057，收漲7.14%，溢價13.9%。因持續高溢價，華泰柏瑞基金年內已發出127份關於該基金的溢價風險提示。4月中旬以來，該基金年內淨值回報持續領漲境內ETF市場，目前已來到71.76%，單位淨值創新高至4.3599。此外，規模也已達到95.50億元，較去年底增加58.79億元，增幅160.15%。"
-    },
-    {
-      "id": "4866444",
-      "time": "2026-05-07 20:55:29",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "花旗集團執行長：我們正在全集團構建並拓展人工智慧代理的應用規模，這將使我們處於行業發展的前沿。"
-    },
-    {
-      "id": "mkt:019e0281-bfd1-766d-bbad-92628c19149d",
-      "time": "2026-05-07 20:55:18",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "BRENT AND WTI CRUDE FUTURES EXTEND FALL, DOWN AROUND $5"
-    },
-    {
-      "id": "4866443",
-      "time": "2026-05-07 20:55:08",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油期貨與西德克薩斯中質原油期貨延續跌勢，盤中跌幅約5美元。"
     }
   ]
 }
