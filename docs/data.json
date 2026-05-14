@@ -1,7 +1,51 @@
 {
-  "updated": "2026-05-15 00:06:53",
-  "count": 15439,
+  "updated": "2026-05-15 00:10:26",
+  "count": 15432,
   "items": [
+    {
+      "id": "te:markets:550810",
+      "time": "2026-05-15 00:10:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 0.83% Higher — The CAC 40 Index rose 66 points or 0.83 percent on Thursday to close at 8074 points. Leading the gains are STMicroelectronics (6.20%), Stellantis NV (3.47%) and Dassault Systemes (2.83%). Top losers were TP (-1.40%), Carrefour (-0.41%) and Airbus (-0.40%)."
+    },
+    {
+      "id": "4880395",
+      "time": "2026-05-15 00:07:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：我們針對伊朗的所有行動完全符合武裝衝突法。我們並未對伊朗採取敵對行動，我們正處於停火狀態。"
+    },
+    {
+      "id": "te:markets:550809",
+      "time": "2026-05-15 00:07:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 0.38% Higher — The FTSE 100 Index gained 39 points or 0.38 percent on Thursday to close at 10364 points. Gains were led by Legal & General (6.38%), Imperial Brands (4.14%) and Admiral (3.85%). Biggest losers were 3i (-14.00%), Burberry (-6.19%) and Babcock International (-3.90%)."
+    },
+    {
+      "id": "mkt:019e273d-be3e-7bb5-b4d0-8eb05f9e72d6",
+      "time": "2026-05-15 00:06:46",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bullish"
+      ],
+      "text": "U.S. STOCKS EXTEND GAINS, DOW JONES UP 1.01 PCT"
+    },
     {
       "id": "4880394",
       "time": "2026-05-15 00:06:28",
@@ -139571,112 +139615,6 @@
         "國際"
       ],
       "text": "【日本民眾持續抗議高市政權 】5月7日，日本民間團體和部分民眾再次在東京街頭舉行遊行集會，反對高市政權解禁殺傷性武器出口、推動擴軍修憲等一系列危險動向。有抗議者表示，日本應堅持和平憲法，而不是走向軍事擴張的道路，真心希望能夠儘快讓高市下臺。（CCTV國際時訊）"
-    },
-    {
-      "id": "te:markets:548873",
-      "time": "2026-05-08 00:10:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The CAC 40 Index Closes 1.15% Lower — The CAC 40 Index dropped 95 points or 1.15 percent on Thursday to close at 8204 points. Losses were led by Bouygues (-3.66%), Pernod Ricard (-3.03%) and Airbus (-2.68%)."
-    },
-    {
-      "id": "4866814",
-      "time": "2026-05-08 00:09:11",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國財政部已要求會見幣安核心高管並調取資料記錄。"
-    },
-    {
-      "id": "4866813",
-      "time": "2026-05-08 00:08:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "聯合國海事機構稱，約 1500 艘船舶、2 萬名船員滯留海灣地區。"
-    },
-    {
-      "id": "4866812",
-      "time": "2026-05-08 00:08:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國要求幣安遵守監管監控計劃。"
-    },
-    {
-      "id": "mkt:019e0332-44f8-7775-8cb5-15fcdbfdf163",
-      "time": "2026-05-08 00:08:06",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "IRAN CREATES NEW AGENCY TO CONTROL SHIPPING IN STRAIT OF HORMUZ WHILE REVIEWING PEACE DEAL WITH US – WAPO"
-    },
-    {
-      "id": "4866811",
-      "time": "2026-05-08 00:07:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基： 烏克蘭已向俄羅斯提出停火提議，這早已不是首次提出此類倡議。本次烏方提議自 5 月 6 日起停火。烏克蘭本已做好準備全面停火休戰，但我方的和平提議換來的，只有俄羅斯新一輪的襲擊與新的威脅。"
-    },
-    {
-      "id": "te:markets:548871",
-      "time": "2026-05-08 00:07:51",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "DAX Closes Lower — Frankfurt's DAX 40 reversed early gains to close about 1% lower at 24,672 on Thursday, halting gains from the previous two sessions, in line with other European peers. Traders grew nervous as they awaited Tehran’s response to the US proposal, due later today, which could potentially facilitate the reopening of the Strait of Hormuz. The US and Iran are reportedly close to a preliminary agreement to end their war, with a draft framework set to halt attacks permanently, though it would leave key issues, including Iran’s nuclear programme, unresolved. Among key movers, Rheinmetall was the top loser, slipping 6.2% after its full Q1 results, as weaker-than-expected sales overshadowed strong profitability growth. Siemens Healthineers slipped 4.7% as it trimmed its FY2026 profit guidance on the back of a weak Chinese diagnostics market that dragged Q2 profit below expectations. On the upside, Henkel climbed 4.2%, after reporting organic sales growth that beat market expectations."
-    },
-    {
-      "id": "4866810",
-      "time": "2026-05-08 00:07:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基：根據我方情報，烏軍在布良斯克方向、圖阿普謝以及俄羅斯多處重要石油設施開展的反擊行動，戰果達到我方預期。"
-    },
-    {
-      "id": "4866809",
-      "time": "2026-05-08 00:07:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：以色列確診首例漢坦病毒感染病例，一名近期曾前往東歐旅行的患者檢測結果呈陽性。"
-    },
-    {
-      "id": "4866808",
-      "time": "2026-05-08 00:07:14",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【美媒：以黎將於14日和15日在華盛頓舉行第三輪會談】據美國有線電視新聞網7日援引美國國務院官員和一名以色列訊息人士的話報道，以色列和黎巴嫩將於14日和15日在華盛頓舉行第三輪會談。（新華社）"
-    },
-    {
-      "id": "te:markets:548870",
-      "time": "2026-05-08 00:07:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE 100 Index Closes 1.44% Lower — The FTSE 100 Index decreased 150 points or 1.44 percent on Thursday to close at 10288 points. The decline was led by Relx (-6.27%), Admiral (-5.41%) and BAE Systems (-5.13%)."
     }
   ]
 }
