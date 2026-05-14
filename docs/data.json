@@ -1,7 +1,19 @@
 {
-  "updated": "2026-05-15 00:24:38",
-  "count": 15421,
+  "updated": "2026-05-15 00:28:16",
+  "count": 15417,
   "items": [
+    {
+      "id": "te:economy:550819",
+      "time": "2026-05-15 00:24:43",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "30 Year Mortgage Rate",
+        "Importance 1"
+      ],
+      "text": "US Mortgage Rates Hold Rebound: Freddie Mac — The average rate on a 30-year fixed-mortgage was at 6.36% as of May 14th, one basis point below the one-month high in the previous week to hold most of the rebound since the start of the year. Mortgage rates tracked the increase in long-dated Treasury yields during the period as a surge in energy prices placed inflationary risks on the upside, potentially warranting a hawkish Federal Reserve. “While purchase demand is softening, it remains above this time last year. Recent data also shows existing-home sales modestly edging up.” said Sam Khater, Freddie Mac’s Chief Economist."
+    },
     {
       "id": "4880402",
       "time": "2026-05-15 00:24:07",
@@ -139457,49 +139469,6 @@
         "MKT News"
       ],
       "text": "GERMAN FINANCE MINISTER KLINGBEIL: WANT TO EXPAND CLOSE PARTNERSHIP BETWEEN GERMANY AND CANADA"
-    },
-    {
-      "id": "4866834",
-      "time": "2026-05-08 00:27:30",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "倍耐力：近期“黃金權力”相關措施強化了公司獨立性，並確保符合美國監管規定。"
-    },
-    {
-      "id": "4866833",
-      "time": "2026-05-08 00:26:09",
-      "tags": [
-        "市場"
-      ],
-      "text": "納指轉漲。"
-    },
-    {
-      "id": "mkt:019e0342-78f3-7775-8cb5-5a0e3c44003b",
-      "time": "2026-05-08 00:25:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ZELENSKIY: RUSSIAN CEASEFIRE FOR VICTORY DAY COMMEMORATION SHOWS \"STRANGE AND INAPPROPRIATE\" LOGIC OF ITS LEADERS"
-    },
-    {
-      "id": "4866832",
-      "time": "2026-05-08 00:25:12",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【勝利日停火期間俄軍將在特別軍事行動區域完全停止作戰行動】俄國防部7日釋出公告稱，根據普京總統的決定，在慶祝蘇聯人民偉大衛國戰爭勝利81週年之際，俄方宣佈自5月8日零時起至5月10日實行停火。在此期間，俄羅斯武裝力量所有部隊在特別軍事行動區域完全停止作戰行動。同時，俄方將停止使用導彈部隊和炮兵、海空基遠端高精度武器以及攻擊型無人機，對烏克蘭武裝部隊的駐地以及烏克蘭縱深地區與軍工綜合體和武裝部隊相關的基礎設施目標進行打擊。俄方呼籲烏克蘭方面採取類似做法。俄國防部強調，如果烏克蘭武裝部隊在特別軍事行動區內違反停火，或試圖對俄羅斯地區境內的居民點和目標發動襲擊，俄羅斯聯邦武裝力量將予以對等回應。此外，如果烏方試圖破壞莫斯科慶祝偉大衛國戰爭勝利81週年的活動，俄羅斯聯邦武裝力量將對基輔市中心發動大規模導彈襲擊。俄國防部再次提醒基輔平民和外國外交機構工作人員需及時撤離基輔市。（央視新聞）"
-    },
-    {
-      "id": "4866831",
-      "time": "2026-05-08 00:24:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "英偉達漲幅擴大。"
     }
   ]
 }
