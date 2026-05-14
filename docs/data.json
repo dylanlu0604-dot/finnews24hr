@@ -1,7 +1,32 @@
 {
-  "updated": "2026-05-14 13:31:41",
+  "updated": "2026-05-14 13:35:02",
   "count": 15405,
   "items": [
+    {
+      "id": "4879197",
+      "time": "2026-05-14 13:33:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鼎龍股份成立新型材料公司】企查查APP顯示，近日，湖北省皓飛新型材料有限公司成立，法定代表人為杜樹廷，註冊資本為2000萬元，經營範圍包含：電子專用材料製造；電子專用材料銷售；電池製造；高效能纖維及複合材料製造等。企查查股權穿透顯示，該公司由鼎龍股份(300054)旗下深圳市皓飛新型材料有限公司全資持股。"
+    },
+    {
+      "id": "4879196",
+      "time": "2026-05-14 13:32:52",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "摩根大通將新加坡冬海集團目標價從168美元下調至163美元。"
+    },
+    {
+      "id": "4879195",
+      "time": "2026-05-14 13:31:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度汽車工業協會SIAM表示，儘管大宗商品價格高企以及西亞局勢動盪引發擔憂，但當前行業需求表現向好。"
+    },
     {
       "id": "4879194",
       "time": "2026-05-14 13:30:41",
@@ -138868,35 +138893,6 @@
         "其他"
       ],
       "text": "臺灣證交所加權股價指數收高1.9%報41,933.78。"
-    },
-    {
-      "id": "4865444",
-      "time": "2026-05-07 13:34:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "【巖山科技等成立新公司，含AI及機器人業務】企查查APP顯示，近日，巖途點點（上海）科技有限公司成立，註冊資本4500萬元，經營範圍包含：人工智慧應用軟體開發；人工智慧行業應用系統整合服務；智慧機器人的研發；智慧機器人銷售等。企查查股權穿透顯示，該公司由巖山科技等共同持股。"
-    },
-    {
-      "id": "4865443",
-      "time": "2026-05-07 13:34:34",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本10年期國債<JP10YTN=JBTC>收益率下跌3個基點，至2.470%。"
-    },
-    {
-      "id": "te:markets:548593",
-      "time": "2026-05-07 13:32:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Indonesia",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Rupiah Gets Boost From Central Bank Policy Measures — The Indonesian rupiah hovered around IDR 17,360 per dollar on Thursday after briefly touching 17,425 in the previous session. The local currency found some support as the U.S. dollar slipped further on reports that Washington and Tehran are drafting a new proposal to end the Middle East conflict, easing haven demand. Locally, President Prabowo approved seven new Bank Indonesia measures to bolster the currency, including halving the cap on undocumented dollar cash buying to USD 25,000 and requiring resource exporters to place 50% of forex earnings in domestic banks from June 1. However, the rupiah has fallen almost 4% this year, with skepticism over policy effectiveness persisting even as the central bank has held rates steady since October. On the trade front, March’s surplus was not supported by export growth, but driven by falling imports. Shrinking forex reserves also weighed on sentiment, despite Governor Perry Warjiyo saying they remain sufficient to support stabilisation efforts."
     }
   ]
 }
