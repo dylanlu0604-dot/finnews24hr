@@ -1,7 +1,33 @@
 {
-  "updated": "2026-05-15 02:06:24",
-  "count": 15240,
+  "updated": "2026-05-15 02:09:53",
+  "count": 15232,
   "items": [
+    {
+      "id": "4880471",
+      "time": "2026-05-15 02:09:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：自 2 月份以來，已有 50 餘名研究人員和工程師離職離開 SpaceX AI 部門。"
+    },
+    {
+      "id": "mkt:019e27ad-55d4-7bb5-b4d1-ddbff943e0e5",
+      "time": "2026-05-15 02:08:51",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "TRUMP: EXPECTED TO SIGN CLARITY ACT INTO LAW"
+    },
+    {
+      "id": "mkt:019e27ab-4092-7bb5-b4d1-d43db9def1f6",
+      "time": "2026-05-15 02:05:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CDC SAYS MOST PEOPLE UNDER MONITORING SHOULD STAY AT HOME, AVOID PEOPLE DURING 42 DAY MONITORING PEOPLE"
+    },
     {
       "id": "mkt:019e27aa-f237-7bb5-b4d1-cbdfa5238865",
       "time": "2026-05-15 02:05:36",
@@ -137691,107 +137717,6 @@
         "MKT News"
       ],
       "text": "U.S. AUDIT WATCHDOG SHOULD RESCIND ITS INDEPENDENCE RULES, SEC OFFICIAL SAYS - WSJ"
-    },
-    {
-      "id": "4867011",
-      "time": "2026-05-08 02:09:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "全美汽車工人聯合會地方分會取消斯特蘭蒂斯工廠罷工授權投票。"
-    },
-    {
-      "id": "4867010",
-      "time": "2026-05-08 02:09:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【“進步保加利亞”領導人拉德夫提出組閣方案】保加利亞新當選議會最大政治力量“進步保加利亞”領導人魯門·拉德夫7日獲總統授權組閣，他當天提出新政府的組織架構和組成方案。保加利亞總統約託娃在授權儀式上表示，她將把組閣方案提交給議會，預計議會8日對其進行討論和投票。如獲透過，拉德夫將成為保加利亞改行議會制以來，首位擔任過總統和總理的人物。（新華社）"
-    },
-    {
-      "id": "4867009",
-      "time": "2026-05-08 02:09:04",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "歐亞集團中東董事總經理菲拉斯・馬克薩德表示，黎以之間的停火只是名義上的停火。"
-    },
-    {
-      "id": "mkt:019e03a0-9a23-7775-8cb7-fbfb19c3a1c5",
-      "time": "2026-05-08 02:08:34",
-      "tags": [
-        "MKT News",
-        "TSLA.O",
-        "Impact bullish"
-      ],
-      "text": "NHTSA SAYS TESLA MODEL Y IS FIRST VEHICLE TO PASS AGENCY'S NEW ‘ADVANCED DRIVER ASSISTANCE SYSTEM’ TESTS"
-    },
-    {
-      "id": "4867008",
-      "time": "2026-05-08 02:08:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家公路交通安全管理局稱，特斯拉Model Y是首款透過該局全新“高階駕駛輔助系統”測試的車型。"
-    },
-    {
-      "id": "mkt:019e03a0-3f9f-7775-8cb7-f19e1b985846",
-      "time": "2026-05-08 02:08:14",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "EURUSD",
-        "Impact bearish",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "ECB'S SCHNABEL: KEY QUESTION IS WHETHER ENERGY PRICE SHOCK BROADENS TO OTHER PARTS OF ECONOMY"
-    },
-    {
-      "id": "4867007",
-      "time": "2026-05-08 02:07:50",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行（ECB）施納貝爾：關鍵問題在於能源價格衝擊是否會傳導至經濟其他領域。"
-    },
-    {
-      "id": "4867006",
-      "time": "2026-05-08 02:07:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際能源署署長比羅爾表示：該機構迄今僅釋放了總石油儲備的約20%，如有必要將“準備再次採取行動”。"
-    },
-    {
-      "id": "4867005",
-      "time": "2026-05-08 02:07:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國儲能產品出口火熱 淡季不淡】今年以來，中國儲能產品出口規模及增速亮眼，根據海關資料顯示，今年一季度，儲能裝置最核心、最關鍵的部件之一——鋰離子蓄電池出口金額較去年同期增長超過50%，目前，儲能企業生產和銷售情況如何？今年以來，海外儲能產品需求不斷增長，企業工作人員對此深有體會，前來考察的外國客商明顯增多。儲能產品出口海外前，需要先申請危險貨物包裝使用鑑定，向相關部門說明出口貨物符合要求。今年以來，這項業務的申請頻率也明顯增加了。（央視財經）"
-    },
-    {
-      "id": "mkt:019e039e-f955-7775-8cb7-eeeb2c948aa4",
-      "time": "2026-05-08 02:06:50",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "US ANNOUNCES SHIPMENT OF LOW-ENRICHED URANIUM FROM JAPAN"
-    },
-    {
-      "id": "4867004",
-      "time": "2026-05-08 02:06:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "【南非醫學專家：漢坦病毒不易在人際間傳播 無需過度恐慌】南非衛生部長莫措阿萊迪6日表示，在從“洪迪厄斯”號郵輪乘客身上檢測出漢坦病毒後，南非已對相關接觸者展開追蹤，目前部分接觸者已被找到並接受醫學觀察。南非家庭醫生聯合論壇副主席庫切在接受總檯記者採訪時表示，漢坦病毒不易在人際間傳播，無需過度恐慌。（央視新聞）"
     }
   ]
 }
