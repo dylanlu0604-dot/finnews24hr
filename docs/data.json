@@ -1,7 +1,79 @@
 {
-  "updated": "2026-05-15 00:10:26",
-  "count": 15432,
+  "updated": "2026-05-15 00:13:59",
+  "count": 15429,
   "items": [
+    {
+      "id": "4880399",
+      "time": "2026-05-15 00:12:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【伊拉克新任總理及其內閣成員宣誓就職】5月14日，伊拉克國民議會投票透過新任總理阿里·扎伊迪提交的內閣成員名單，隨後扎伊迪及其內閣成員宣誓就職。"
+    },
+    {
+      "id": "mkt:019e2742-f4cc-7bb5-b4d0-9e34cc0a5526",
+      "time": "2026-05-15 00:12:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SENATORS UNANIMOUSLY APPROVE RESOLUTION TO WITHHOLD THEIR OWN PAY DURING FUTURE GOVERNMENT SHUTDOWNS - REPORTS"
+    },
+    {
+      "id": "te:markets:550812",
+      "time": "2026-05-15 00:12:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 1.15% Higher — The FTSE MIB Index gained 570 points or 1.15 percent on Thursday to close at 50050 points. Gains were led by STMicroelectronics (6.00%), Stellantis N.V. (3.63%) and Banca Mediolanum (2.84%)."
+    },
+    {
+      "id": "4880398",
+      "time": "2026-05-15 00:11:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "美方宣告：美國已成功從委內瑞拉已停運的 RV-1 研究反應堆中移除多餘高濃鈾（HEU）。"
+    },
+    {
+      "id": "te:markets:550811",
+      "time": "2026-05-15 00:11:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 1.32% Higher — The DAX Index went up by 319 points or 1.32 percent on Thursday to close at 24456 points. The rise was led by Infineon (5.48%), SAP (3.46%) and Siemens (2.89%)."
+    },
+    {
+      "id": "4880397",
+      "time": "2026-05-15 00:10:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議員全票透過一項決議：未來若發生政府停擺，參議員將主動停發自身薪資。"
+    },
+    {
+      "id": "mkt:019e2741-0dba-7bb5-b4d0-931c9d450f3a",
+      "time": "2026-05-15 00:10:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. SUCCESSFULLY REMOVED EXCESS HIGHLY ENRICHED URANIUM (HEU) FROM VENEZUELA’S SHUTTERED RV-1 RESEARCH REACTOR -STATEMENT"
+    },
+    {
+      "id": "4880396",
+      "time": "2026-05-15 00:10:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "據報道，一隊黑海方向的無人機正朝敖德薩飛去。"
+    },
     {
       "id": "te:markets:550810",
       "time": "2026-05-15 00:10:08",
@@ -139509,112 +139581,6 @@
         "Macro & Rates"
       ],
       "text": "SAUDI ARABIA'S PIF SETS FINAL TERMS FOR $7 BLN THREE-PART BOND -IFR"
-    },
-    {
-      "id": "4866819",
-      "time": "2026-05-08 00:13:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網正式測定：05月08日00時05分在河北秦皇島市昌黎縣（北緯39.55度，東經119.00度）發生2.8級地震，震源深度18千米。"
-    },
-    {
-      "id": "4866818",
-      "time": "2026-05-08 00:12:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特斯拉宣佈大降價，加拿大網民：謝謝中國！】近日，美國電動車企業特斯拉宣佈下調在加拿大市場的售價，這件事在加拿大的輿論場上引起不小關注。因為根據外媒報道，這次特斯拉下調售價的幅度相當大，部分車型的價格堪稱“大跳水”，比之前幾乎便宜了一半。有趣的是，不少加拿大網民卻在紛紛感謝中國。 原來，根據Driving.ca和Electrek等多家加拿大和北美汽車行業媒體報道，特斯拉此次在加拿大宣佈的大幅降價，與中國有直接關係。 這些媒體指出，今年一月加拿大總理卡尼訪華期間，加方宣佈的中國新能源車低關稅進口配額制度，是令特斯拉此次實現大幅降價的主因。 （環球時報）"
-    },
-    {
-      "id": "te:markets:548878",
-      "time": "2026-05-08 00:12:41",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "FTSE 100 Falls on Thursday — The FTSE 100 fell more than 1% on Thursday, as investors monitored developments in US-Iran peace negotiations and weaker oil prices pressured energy shares. Brent crude slipped below $100 per barrel, dragging down oil majors Shell and BP by 3.1% and 2.6%, respectively. Utilities also came under pressure, with Centrica, Severn Trent, United Utilities and SSE falling between 2% and 5.5%. Shell reported quarterly profit above expectations with adjusted net income of $6.92 billion, though it reduced its share buyback program to $3 billion from $3.5 billion. Centrica warned retail profit would likely come in near the lower end of guidance due to warmer weather and ongoing bad debt challenges. BAE Systems dropped over 5% despite reaffirming its sales outlook on strong defence demand. In contrast, travel and leisure stocks, including InterContinental Hotels, EasyJet, and IAG outperformed as lower fuel prices supported sentiment."
-    },
-    {
-      "id": "mkt:019e0336-70b3-7775-8cb5-261b212f2aea",
-      "time": "2026-05-08 00:12:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ZELENSKIY: DON'T RECOMMEND LEADERS TO VISIT MOSCOW THESE DAYS"
-    },
-    {
-      "id": "4866817",
-      "time": "2026-05-08 00:12:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "納斯達克100指數轉跌，標普500指數下跌0.2%。"
-    },
-    {
-      "id": "te:markets:548877",
-      "time": "2026-05-08 00:12:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE MIB Index Closes 0.82% Lower — The FTSE MIB Index decreased 406 points or 0.82 percent on Thursday to close at 49291 points. The decline was led by Davide Campari-Milano (-14.45%), Tenaris (-6.76%) and Saipem (-6.01%). On the upside, the strongest performers were Telecom Italia (3.79%), Poste Italiane (3.06%) and Diasorin (2.20%)."
-    },
-    {
-      "id": "mkt:019e0335-6277-7775-8cb5-1a5788ad45a4",
-      "time": "2026-05-08 00:11:30",
-      "tags": [
-        "MKT News",
-        "CRM.O",
-        "ADSK.O"
-      ],
-      "text": "MICHAEL BURRY: SOLD SALESFORCE AND AUTODESK POSITIONS"
-    },
-    {
-      "id": "te:markets:548876",
-      "time": "2026-05-08 00:11:22",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "European Stocks Pull Back — European stocks closed firmly lower on Thursday, trimming gains from the previous session despite another session of decline in energy prices, as markets assessed a batch of corporate developments and awaited clarity on potential peace in the Middle East. The Eurozone's STOXX 50 fell 0.9% to 5,973 and the pan-European STOXX 600 fell 1% to 617. Iran had still not delivered an answer to the US's memorandum that would end the war and gradually restore trade through the Persian Gulf, extending the pullback in energy prices from yesterday. Still, a group of pessimistic earnings report prevented gains. Rheinmetall dropped 7% after profits for the first quarter were unable to meet analysts' ambitious expectations. Also, Enel fell 2% after posting its results. On the broader index, Shell tanked 3% after posting earnings, adding to the pressure from lower oil prices."
-    },
-    {
-      "id": "te:markets:548875",
-      "time": "2026-05-08 00:11:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The DAX Index Closes 1.02% Lower — The DAX Index fell 255 points or 1.02 percent on Thursday to close at 24664 points. Leading the losses are Rheinmetall (-7.17%), Daimler Truck Holding AG (-5.93%) and Hannover Rueck (-5.38%)."
-    },
-    {
-      "id": "4866816",
-      "time": "2026-05-08 00:11:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "城堡證券自行清算旗下股票期權業務，終止與美國銀行的相關合作。"
-    },
-    {
-      "id": "4866815",
-      "time": "2026-05-08 00:10:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本民眾持續抗議高市政權 】5月7日，日本民間團體和部分民眾再次在東京街頭舉行遊行集會，反對高市政權解禁殺傷性武器出口、推動擴軍修憲等一系列危險動向。有抗議者表示，日本應堅持和平憲法，而不是走向軍事擴張的道路，真心希望能夠儘快讓高市下臺。（CCTV國際時訊）"
     }
   ]
 }
