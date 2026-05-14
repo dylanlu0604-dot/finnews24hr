@@ -1,7 +1,63 @@
 {
-  "updated": "2026-05-15 02:59:50",
-  "count": 15176,
+  "updated": "2026-05-15 03:04:06",
+  "count": 15159,
   "items": [
+    {
+      "id": "4880513",
+      "time": "2026-05-15 03:02:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "內部備忘錄顯示，世界銀行首席經濟學家因德米特·吉爾將於8月底退休。"
+    },
+    {
+      "id": "4880512",
+      "time": "2026-05-15 03:01:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國衛生安全域性：兩名病例正在接受規範對症治療。"
+    },
+    {
+      "id": "4880511",
+      "time": "2026-05-15 03:01:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國衛生安全域性：一名腦膜炎確診患者已不治身亡。"
+    },
+    {
+      "id": "4880508",
+      "time": "2026-05-15 03:01:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國衛生安全域性：雷丁市出現三例腦膜炎病例。"
+    },
+    {
+      "id": "4880507",
+      "time": "2026-05-15 03:01:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "阿根廷4月消費者價格同比上漲32.4%；預計+32.25%。"
+    },
+    {
+      "id": "4880506",
+      "time": "2026-05-15 03:00:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "阿根廷4月消費者價格環比上漲2.6%；此前預期上漲2.50%。"
+    },
+    {
+      "id": "4880504",
+      "time": "2026-05-15 03:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收漲0.02%，報26240.79點，低水148.25點。"
+    },
     {
       "id": "4880503",
       "time": "2026-05-15 02:59:20",
@@ -136950,242 +137006,6 @@
         "國際"
       ],
       "text": "伊朗塔斯尼姆通訊社援引訊息人士報道爆炸聲相關情況，爆炸聲或與伊朗革命衛隊警告船隻行動有關，蓋什姆島附近也聽到爆炸聲。"
-    },
-    {
-      "id": "4867076",
-      "time": "2026-05-08 03:01:53",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "墨西哥央行預測，2026年第四季度核心通脹年平均水平為3.4%，與此前預測值持平。"
-    },
-    {
-      "id": "4867075",
-      "time": "2026-05-08 03:01:49",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "墨西哥央行預測，2027年第四季度年度平均整體通脹率為3.0%，與此前預測值持平。"
-    },
-    {
-      "id": "4867074",
-      "time": "2026-05-08 03:01:46",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "墨西哥央行預測，2026年第四季度年度整體通脹平均值為3.5%，與此前預測值持平。"
-    },
-    {
-      "id": "4867073",
-      "time": "2026-05-08 03:01:44",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "墨西哥央行預測，2027年第四季度核心通脹年均值為3.0%，與此前預測值一致。"
-    },
-    {
-      "id": "mkt:019e03d1-5b78-7775-8cb9-2cb5ad36dbfd",
-      "time": "2026-05-08 03:01:43",
-      "tags": [
-        "MKT News",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "INVESTMENT FUNDS IN LATEST BIWEEKLY REPORTING PERIOD BUY $51.175 BLN 5-YEAR NOTE DUE 04/30/2031 VS $48.188 BLN PRIOR MONTH - U.S. TREASURY"
-    },
-    {
-      "id": "mkt:019e03d1-3a21-7775-8cb9-24ae9fcb2731",
-      "time": "2026-05-08 03:01:40",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "INVESTMENT FUNDS IN LATEST BIWEEKLY REPORTING PERIOD BUY $50.309 BLN 2-YEAR NOTE DUE 04/30/2028 VS $44.320 BLN PRIOR MONTH - U.S. TREASURY"
-    },
-    {
-      "id": "mkt:019e03d1-324d-7775-8cb9-1bd9730c3d8f",
-      "time": "2026-05-08 03:01:36",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "EURUSD"
-      ],
-      "text": "FOREIGN INVESTORS IN LATEST BIWEEKLY REPORTING PERIOD BUY $8.417 BLN 5-YEAR NOTE DUE 04/30/2031 VS $9.167 BLN PRIOR MONTH - U.S. TREASURY"
-    },
-    {
-      "id": "4867072",
-      "time": "2026-05-08 03:01:34",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "墨西哥央行：董事會預計，下一步適宜將利率維持在當前水平。"
-    },
-    {
-      "id": "mkt:019e03d1-200b-7775-8cb9-12eeb55a6dc7",
-      "time": "2026-05-08 03:01:32",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "FOREIGN INVESTORS IN LATEST BIWEEKLY REPORTING PERIOD BUY $9.158 BLN 2-YEAR NOTE DUE 04/30/2028 VS $6.024 BLN PRIOR MONTH - U.S. TREASURY"
-    },
-    {
-      "id": "mkt:019e03d1-1e7b-7775-8cb9-0bda0f1a9b64",
-      "time": "2026-05-08 03:01:29",
-      "tags": [
-        "MKT News",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "INVESTMENT FUNDS IN LATEST BIWEEKLY REPORTING PERIOD BUY $32.049 BLN 7-YEAR NOTE DUE 04/30/2033 VS $30.360 BLN PRIOR MONTH - U.S. TREASURY"
-    },
-    {
-      "id": "mkt:019e03d0-fd8c-7775-8cb9-03d3d2477eb9",
-      "time": "2026-05-08 03:01:25",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "FOREIGN INVESTORS IN LATEST BIWEEKLY REPORTING PERIOD BUY $5.817 BLN 7-YEAR NOTE DUE 04/30/2033 VS $6.976 BLN PRIOR MONTH - U.S. TREASURY"
-    },
-    {
-      "id": "4867071",
-      "time": "2026-05-08 03:01:14",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "墨西哥央行：整體通脹預計將於2027年第二季度回落至目標水平。"
-    },
-    {
-      "id": "mkt:019e03d0-d4f8-7775-8cb8-f87801de5267",
-      "time": "2026-05-08 03:01:12",
-      "tags": [
-        "MKT News",
-        "LMT.O",
-        "Impact bullish",
-        "RTX.O"
-      ],
-      "text": "【Rubio Approves $25.8 Billion Mideast Air-Defense Weapons Sales】Secretary of State Marco Rubio approved emergency foreign military sales worth $25.8 billion to Bahrain, Israel, Kuwait, Qatar and the UAE, covering Patriot PAC-3 MSE and GEM-T interceptors. The emergency designation bypasses congressional review periods, and the higher total reflects adjustments to earlier approvals initially disclosed as $8.6 billion. Proposed quantities include up to 600 interceptors for the UAE, 500 for Kuwait, 300 for Qatar and 50 for Bahrain, amid already strained US inventories and production limits of roughly 650 PAC-3 MSEs annually at Lockheed Martin and 300 GEM-Ts at RTX. Elaine McCusker, former Pentagon official now at the American Enterprise Institute, said, “The only way that you really get any delivery timelines that are faster than two or three years — and that’s optimistic — is if we have it in stock,” adding, “You’re definitely not going to get something for the current conflict.” Stacie Pettyjohn, director of the defense program at the Center for a New American Security, said priority requests “are going to displace or delay delivery to someone else.”"
-    },
-    {
-      "id": "4867070",
-      "time": "2026-05-08 03:00:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "墨西哥政策制定者在利率決策上存在分歧。"
-    },
-    {
-      "id": "mkt:019e03d0-4cc9-7775-8cb8-f4a2d6f3812f",
-      "time": "2026-05-08 03:00:30",
-      "tags": [
-        "MKT News",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact mixed"
-      ],
-      "text": "U.S. MARCH CONSUMER CREDIT +24.86 BLN DLRS (CONSENSUS $12.25 BLN INCREASE)"
-    },
-    {
-      "id": "4867069",
-      "time": "2026-05-08 03:00:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿根廷3月份建築活動同比增長12.7%."
-    },
-    {
-      "id": "4867068",
-      "time": "2026-05-08 03:00:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國3月消費信貸 248.6億美元，預期122.5億美元，前值由94.84億美元修正為88.5億美元。"
-    },
-    {
-      "id": "4867067",
-      "time": "2026-05-08 03:00:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿根廷 3 月工業產值同比增長 5.0%。"
-    },
-    {
-      "id": "4867066",
-      "time": "2026-05-08 03:00:09",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "墨西哥央行將隔夜利率從6.75%下調至6.50%。"
-    },
-    {
-      "id": "mkt:019e03cf-cdbe-7775-8cb8-ee23a1403c13",
-      "time": "2026-05-08 03:00:09",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Consumer Credit (Mar) | actual 24860000000B | consensus 12250000000B | previous 9484000000B"
-    },
-    {
-      "id": "4867065",
-      "time": "2026-05-08 03:00:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "Meta 首席就穩定幣相關計劃遭沃倫議員質詢。"
-    },
-    {
-      "id": "mkt:019e03cf-b5bc-7775-8cb8-e15f40158462",
-      "time": "2026-05-08 03:00:04",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Mexico | Banxico Interest Rate Decision (May.7) | actual 6.5% | consensus 6.50% | previous 6.75%"
-    },
-    {
-      "id": "4867064",
-      "time": "2026-05-08 03:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒指期貨夜盤收跌1.09%，報26120.00點，低水506.28點。"
-    },
-    {
-      "id": "4867063",
-      "time": "2026-05-08 02:59:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗外交部發言人：最高領袖穆傑塔巴全面掌控局勢】當地時間7日，伊朗外交部發言人表示，伊朗最高領袖穆傑塔巴·哈梅內伊對當前各項事務和局勢發展進行全面掌控。發言人稱，伊朗最高領袖穆傑塔巴·哈梅內伊正以果斷、有力和審慎的方式管理相關事態，所有行動均在其授權下開展，國家各機構在其領導下保持協調一致。發言人還表示，敵對方正透過製造輿論空間、發動心理戰等方式，試圖在伊朗國內製造分裂與對立，各方應保持警惕，避免被相關行動所利用。（央視新聞）"
     }
   ]
 }
