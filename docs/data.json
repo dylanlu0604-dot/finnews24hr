@@ -1,7 +1,39 @@
 {
-  "updated": "2026-05-15 04:09:06",
-  "count": 15141,
+  "updated": "2026-05-15 04:12:32",
+  "count": 15138,
   "items": [
+    {
+      "id": "4880578",
+      "time": "2026-05-15 04:12:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價14日微漲】截至當天收盤，紐約商品交易所6月交貨的輕質原油期貨價格上漲15美分，收於每桶101.17美元，漲幅為0.15%；7月交貨的倫敦布倫特原油期貨價格上漲9美分，收於每桶105.72美元，漲幅為0.09%。（澎湃）"
+    },
+    {
+      "id": "4880577",
+      "time": "2026-05-15 04:11:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "RUMBLE股價在公佈業績後盤後下跌12%。"
+    },
+    {
+      "id": "4880576",
+      "time": "2026-05-15 04:11:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙烏地阿拉伯對今日在約旦首都安曼簽署的葉門在押人員交換協議表示歡迎。"
+    },
+    {
+      "id": "4880575",
+      "time": "2026-05-15 04:09:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中美國中央司令部：已在霍爾木茲海峽封鎖行動中對 72 艘商船實施航線改道。"
+    },
     {
       "id": "mkt:019e281a-baa0-7bb5-b4d2-945036b2d49d",
       "time": "2026-05-15 04:08:20",
@@ -136693,75 +136725,6 @@
         "Importance 2"
       ],
       "text": "US Stocks Finish in the Red — US stocks fell from records on Thursday, as investors watched for Iran's response to the US peace proposal that could pave the way for the Strait of Hormuz to reopen. The Dow lost 0.6%, pulling back from the 50,000 mark, while the S&P 500 and Nasdaq fell 0.4% and 0.1%, respectively, easing off record highs. Iran was still reviewing the memorandum sent by the US aimed at ending the conflict and restoring tanker traffic through the strait, while recent reports indicated that Washington was considering restarting an operation to help secure commercial shipping routes. Among equities, Amazon fell 1.3%, along with semiconductor stocks such as Micron (-3%) and Broadcom (-2.9%).In turn, McDonald's fell 0.1% despite beating earnings estimates."
-    },
-    {
-      "id": "4867128",
-      "time": "2026-05-08 04:11:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "愛彼迎預計第二季度收入為35.4億美元至36億美元，市場預計為34.6億美元。"
-    },
-    {
-      "id": "4867127",
-      "time": "2026-05-08 04:11:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "【轉運至荷蘭的兩名涉疫郵輪人員確診感染漢坦病毒】荷蘭醫療機構7日確認，轉運至荷蘭的兩名“洪迪厄斯”號郵輪上的人員確診感染漢坦病毒。荷蘭國家公共衛生與環境研究所說，奈梅亨大學醫學中心收治的一名轉運人員漢坦病毒檢測結果為陽性。為防止病毒傳播，患者所在病房已按照國際公認的防控方案採取了適當的隔離措施。稍後，另外一名轉運人員經萊頓大學醫學中心確認也感染了漢坦病毒。當日，荷外交部和衛生部致信議會說，經評估，該病毒在荷蘭傳播的風險極低。（新華社）"
-    },
-    {
-      "id": "4867126",
-      "time": "2026-05-08 04:11:03",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲威廉姆斯：美聯儲將確保通脹能朝著2%回落。"
-    },
-    {
-      "id": "4867125",
-      "time": "2026-05-08 04:10:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "CoreWeave重申目標，預計到2030年實現超過8吉瓦（GW）的活躍電力容量。"
-    },
-    {
-      "id": "te:markets:548895",
-      "time": "2026-05-08 04:09:40",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Airbnb earnings below expectations at 0.26 USD — Airbnb (ABNB) released earnings per share at 0.26 USD, compared to market expectations of 0.31 USD."
-    },
-    {
-      "id": "te:markets:548894",
-      "time": "2026-05-08 04:09:40",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Uruguay",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "MercadoLibre earnings below expectations at 8.23 USD — MercadoLibre (MELI) released earnings per share at 8.23 USD, compared to market expectations of 10.46 USD."
-    },
-    {
-      "id": "te:markets:548893",
-      "time": "2026-05-08 04:09:39",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Gilead Sciences earnings above expectations at 2.03 USD — Gilead Sciences (GILD) released earnings per share at 2.03 USD, compared to market expectations of 1.9 USD."
     }
   ]
 }
