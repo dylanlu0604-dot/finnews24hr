@@ -1,7 +1,39 @@
 {
-  "updated": "2026-05-15 02:02:51",
-  "count": 15250,
+  "updated": "2026-05-15 02:06:24",
+  "count": 15240,
   "items": [
+    {
+      "id": "mkt:019e27aa-f237-7bb5-b4d1-cbdfa5238865",
+      "time": "2026-05-15 02:05:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CDC SAYS THERE ARE 41 PEOPLE IN U.S. WHO ARE BEING MONITORED FOR HANTAVIRUS"
+    },
+    {
+      "id": "mkt:019e27aa-55ef-7bb5-b4d1-c4967540f7d7",
+      "time": "2026-05-15 02:05:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NY PLANS NEW TAX ON CITY HOMES OVER $1 MILLION BOUGHT WITH CASH"
+    },
+    {
+      "id": "mkt:019e27a9-fbfb-7bb5-b4d1-bacb9da44815",
+      "time": "2026-05-15 02:05:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "STARMER WON'T STOP BURNHAM FROM SEEKING PARLIAMENT SEAT: PERSON"
+    },
+    {
+      "id": "4880470",
+      "time": "2026-05-15 02:05:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐約擬對100 萬美元以上現金購置的市內住宅徵收新稅。"
+    },
     {
       "id": "4880469",
       "time": "2026-05-15 02:01:32",
@@ -137760,144 +137792,6 @@
         "其他"
       ],
       "text": "【南非醫學專家：漢坦病毒不易在人際間傳播 無需過度恐慌】南非衛生部長莫措阿萊迪6日表示，在從“洪迪厄斯”號郵輪乘客身上檢測出漢坦病毒後，南非已對相關接觸者展開追蹤，目前部分接觸者已被找到並接受醫學觀察。南非家庭醫生聯合論壇副主席庫切在接受總檯記者採訪時表示，漢坦病毒不易在人際間傳播，無需過度恐慌。（央視新聞）"
-    },
-    {
-      "id": "mkt:019e039e-2b6e-7775-8cb7-e30bdcf8dd48",
-      "time": "2026-05-08 02:05:55",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "ECB'S SCHNABEL: NEED GREATER TRANSPARENCY ON PRIVATE CREDIT SECTOR BEFORE IT REACHES SYSTEMIC SCALE"
-    },
-    {
-      "id": "4867003",
-      "time": "2026-05-08 02:05:52",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行（ECB）施納貝爾：私人信貸行業在達到系統性規模之前，需要提升透明度。"
-    },
-    {
-      "id": "4867002",
-      "time": "2026-05-08 02:05:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國宣佈從日本運出低濃縮鈾。"
-    },
-    {
-      "id": "4867001",
-      "time": "2026-05-08 02:04:56",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行施納貝爾：目前歐洲私人信貸板塊規模尚小，不會引發系統性風險。"
-    },
-    {
-      "id": "mkt:019e039d-0095-7775-8cb7-dfcf2924acf5",
-      "time": "2026-05-08 02:04:41",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "ECB'S SCHNABEL: EUROPEAN PRIVATE CREDIT SECTOR TOO SMALL FOR NOW TO BRING SYSTEMIC RISK"
-    },
-    {
-      "id": "mkt:019e039c-5f7e-7775-8cb7-d1b79a3faa9b",
-      "time": "2026-05-08 02:04:00",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "CANADA IS AN OBVIOUS CHOICE AS NEW COUNTRIES LOOK FOR NEW ENERGY TRADE PARTNERS FOLLOWING IRAN CRISIS - IEA'S BIROL SAYS CANADA MUST MAKE SURE IT HAS NEW EXPORT DESTINATIONS FOR ITS OIL PRODUCTION - IEA'S BIROL SAYS"
-    },
-    {
-      "id": "mkt:019e039c-48f4-7775-8cb7-cb62d4420a05",
-      "time": "2026-05-08 02:03:53",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "MARKETS ARE HEADED INTO 'TROUBLED WATERS' AS IRAN WAR CONTINUES - IEA'S BIROL SAYS"
-    },
-    {
-      "id": "mkt:019e039b-b911-7775-8cb7-c6d29f4b489c",
-      "time": "2026-05-08 02:03:17",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "THE RETURN OF SUPPLY WILL BE GRADUAL ONCE THE IRAN WAR ENDS, LEADING TO VOLATILITY IN THE MARKET - IEA'S BIROL SAYS"
-    },
-    {
-      "id": "4867000",
-      "time": "2026-05-08 02:03:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "國際能源署署長比羅爾：隨著伊朗戰事持續，市場將步入“險灘”。"
-    },
-    {
-      "id": "mkt:019e039b-a8d3-7775-8cb7-baad199d5852",
-      "time": "2026-05-08 02:03:09",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "IEA HAS ONLY RELEASED ABOUT 20% OF TOTAL OIL STOCKPILE SO FAR, \"READY TO ACT AGAIN\" IF NECESSARY - BIROL SAYS"
-    },
-    {
-      "id": "4866999",
-      "time": "2026-05-08 02:03:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際能源署署長比羅爾表示：加拿大必須為其石油產能確定新的出口目的地。"
-    },
-    {
-      "id": "4866998",
-      "time": "2026-05-08 02:03:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "國際能源署署長比羅爾表示，在伊朗危機後，多國都在尋找新的能源貿易伙伴，加拿大顯然是不二之選。"
-    },
-    {
-      "id": "4866997",
-      "time": "2026-05-08 02:02:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "國際能源署比羅爾稱：伊朗戰爭結束後，供應恢復將是漸進過程，這會引發市場波動。"
-    },
-    {
-      "id": "4866996",
-      "time": "2026-05-08 02:02:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌 Gemini 3.1 Flash-Lite 現已在 Gemini 企業版全面上市。"
     }
   ]
 }
