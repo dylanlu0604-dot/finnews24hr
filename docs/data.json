@@ -1,7 +1,26 @@
 {
-  "updated": "2026-05-14 21:12:38",
-  "count": 15522,
+  "updated": "2026-05-14 21:16:01",
+  "count": 15512,
   "items": [
+    {
+      "id": "4880161",
+      "time": "2026-05-14 21:14:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：以色列議會外交事務和國防委員會成員警告稱，以色列可能比以往任何時候都更接近與伊朗重新爆發衝突，建議重新考慮海外旅行。"
+    },
+    {
+      "id": "mkt:019e269e-5fa6-7dde-99f4-9d03b0b89d37",
+      "time": "2026-05-14 21:12:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Nasdaq100",
+        "Impact bearish"
+      ],
+      "text": "NASDAQ 100 FUTURES TURN NEGATIVE, LAST DOWN 0.06%"
+    },
     {
       "id": "4880160",
       "time": "2026-05-14 21:12:14",
@@ -140256,123 +140275,6 @@
         "其他"
       ],
       "text": "德國稅務委員會預計2026年至2030年聯邦稅收將比十月預測低523億歐元。"
-    },
-    {
-      "id": "mkt:019e0294-b05d-766d-bbad-c0102b6f6fc9",
-      "time": "2026-05-07 21:15:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "POLISH CENTRAL BANK GOVERNOR GLAPINSKI: SHOCK FROM HIGH FUEL PRICES IS LOWER THAN WE EXPERIENCED A FEW YEARS AGO"
-    },
-    {
-      "id": "4866488",
-      "time": "2026-05-07 21:15:58",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "波蘭央行行長：高油價帶來的衝擊力度低於我們幾年前經歷的水平。"
-    },
-    {
-      "id": "mkt:019e0294-750c-766d-bbad-bfb626a5f5e0",
-      "time": "2026-05-07 21:15:44",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bearish",
-        "DAX",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "GERMAN TAX PANEL PROJECTS FEDERAL TAX REVENUE 2026-2030 TO BE 52.3 BLN EUR BELOW OCTOBER FORECAST"
-    },
-    {
-      "id": "mkt:019e0294-5450-766d-bbad-b73a37d8f5fd",
-      "time": "2026-05-07 21:15:35",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "Brent",
-        "Impact bullish",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "GERMAN FINANCE MINISTER: TRUMP'S IRRESPONSIBLE WAR, AND RESULTING ENERGY PRICE SHOCK, IS PUTTING BRAKES ON ECONOMIC MOMENTUM"
-    },
-    {
-      "id": "4866487",
-      "time": "2026-05-07 21:15:32",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點"
-      ],
-      "text": "【周大福股價漲逾7%，預計年度淨利潤同比增45%–55%】5月7日，周大福（1929.HK）股價收漲7.29% 。訊息面上，周大福前一日釋出盈喜公告稱，截至2026年3月31日止年度淨溢利預計比去年增加約45%–55%，主要歸因一是金價上漲、零售業務及定價首飾的銷售結構更趨有利，從而帶動毛利率提升；二是嚴格的成本管理所帶來的營運槓桿效應。花旗、傑富瑞在周大福釋出盈喜公告後，給予周大福“買入”評級。4月22日，周大福公佈截至2026年3月31日止三個月（2026財年第四季度）未經稽核主要經營資料，該季度整體零售值同比下降1.5%。其中，中國內地零售值下降8.2%，佔集團零售值83.7%；中國香港、中國澳門及其他市場零售值增長58.5%，佔集團零售值16.3%。（澎湃）"
-    },
-    {
-      "id": "te:economy:548808",
-      "time": "2026-05-07 21:14:24",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Used Car Prices MoM",
-        "Importance 1"
-      ],
-      "text": "Used Car Prices in the US Fall in April — Wholesale used-vehicle prices in the US declined 1.6% month-over-month in April 2026, the first drop in six months, following a 1.4% rise in March and pushing the Manheim Used Vehicle Value Index to 211.9. “A strong tax refund season drove consumers toward used vehicles early this year, and that kept demand and values high at Manheim through the spring market. The conflict in the Middle East has now been ongoing for two months, and while energy prices backed off a bit in mid-April, they have reaccelerated to the upside: the price of gas just hit a high for the year and is up 47% since the end of February. Those higher prices are soaking up a lot of the extra money in consumers’ pockets, and currently there’s no end in sight\", according to Jeremy Robb, Chief Economist, Cox Automotive. Prices for non-EVs dropped 2.2% while prices for EVs rose 1.4%. Year-on-year, wholesale used-vehicle prices increased 1.8%, with the EV index up 7.2% while the non-EV rose at a much slower 1.1%."
-    },
-    {
-      "id": "4866486",
-      "time": "2026-05-07 21:13:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "【光明肉業：控股股東益民食品已減持1.99%】光明肉業公告，控股股東上海益民食品一廠（集團）有限公司已於2026年4月9日至2026年5月6日透過大宗交易減持公司股份1866.08萬股，減持價格5.3～5.3元/股，成交金額9890.23萬元，佔公司總股本1.99%。減持後其持股2.8億股，佔29.83%，減持計劃實施完畢。此前其持股2.98億股，佔31.82%。"
-    },
-    {
-      "id": "4866485",
-      "time": "2026-05-07 21:13:39",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "烏克蘭軍方稱，其擊中了達吉斯坦海岸附近一艘俄羅斯小型導彈運載艦。"
-    },
-    {
-      "id": "4866484",
-      "time": "2026-05-07 21:13:31",
-      "tags": [
-        "央行",
-        "其他",
-        "焦點"
-      ],
-      "text": "匈牙利央行：民眾普遍大力支援本國啟用歐元。"
-    },
-    {
-      "id": "4866483",
-      "time": "2026-05-07 21:13:12",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【Kalshi以220億美元估值完成10億美元F輪融資】預測平臺Kalshi宣佈以220億美元估值完成10億美元F輪融資，其中Coatue領投，紅杉、a16z、摩根士丹利等參投。"
-    },
-    {
-      "id": "4866482",
-      "time": "2026-05-07 21:12:50",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約商品交易所6月交貨的輕質原油期貨價格7日盤中一度跌破每桶90美元，跌幅超5.4%；7月交貨的倫敦布倫特原油期貨價格盤中一度跌至每桶96.06美元，跌幅超5.0%。（新華社）"
-    },
-    {
-      "id": "4866481",
-      "time": "2026-05-07 21:12:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗總統談與最高領袖會面感受#】據伊朗媒體7日報道，伊朗總統佩澤希齊揚與伊朗最高領袖穆傑塔巴日前舉行了會面。 佩澤希齊揚表示，會面氣氛友好，雙方交流了近兩個半小時。“這次會面最讓我印象深刻的，莫過於最高領袖的待人方式、看問題的視角以及謙遜而真誠的態度。這種態度將交流環境轉變為一種基於信任、平靜、共情和直接的氛圍。” 他還說，整個交流完全沒有隔閡，坦率直接，並充滿親近感與信任感。 據伊朗學生通訊社5日報道，伊朗總統辦公室一名官員否認有關佩澤希齊揚可能辭職的傳聞。 另據伊朗塔斯尼姆通訊社5日報道，伊朗總統辦公室主任哈吉·米爾薩伊就有關佩澤希齊揚與伊朗伊斯蘭革命衛隊指揮官存在分歧的傳聞作出回應，明確予以否認。 （新華社）"
     }
   ]
 }
