@@ -1,7 +1,91 @@
 {
-  "updated": "2026-05-14 08:48:21",
-  "count": 15364,
+  "updated": "2026-05-14 08:51:51",
+  "count": 15369,
   "items": [
+    {
+      "id": "4878821",
+      "time": "2026-05-14 08:50:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英國首相斯塔默宣佈改革議程，引反對黨質疑】英國首相斯塔默宣佈推進“激進改革議程”，以應對經濟、安全與公共服務壓力，但遭到其他黨派質疑。工黨在地方選舉中的慘敗導致斯塔默陷入執政危機。保守黨黨首凱米·巴德諾赫指責斯塔默失去權力，近百名工黨議員要求其辭職。斯塔默反駁稱，保守黨同樣遭遇慘敗，但工黨仍是執政黨。自由民主黨黨首埃德·戴維表示，首相可能很快不再掌權。蘇格蘭民族黨將推進不信任動議，要求斯塔默下臺。（央視新聞）"
+    },
+    {
+      "id": "4878820",
+      "time": "2026-05-14 08:50:26",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【澳大利亞敲定約9萬噸農業級尿素】澳大利亞政府釋出宣告稱，已與CSBP及英賽特樞軸公司（Incitec Pivot） 合作，支援採購首批三船增量化肥貨源。這是澳大利亞政府依據全新戰略儲備調配許可權敲定的首批化肥船運訂單。此舉為應對中東地緣衝突影響的配套舉措之一。未來數週，澳大利亞預計還將敲定更多化肥船運貨源。"
+    },
+    {
+      "id": "mkt:019e23f6-c231-777f-be59-08d9888796f5",
+      "time": "2026-05-14 08:49:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "005930.KS",
+        "Impact bearish"
+      ],
+      "text": "S.KOREA FINMIN: STRIKE AT SAMSUNG ELECTRONICS, IF HAPPENS, WILL HAVE SIGNIFICANT RISK TO GROWTH, EXPORTS, MARKETS"
+    },
+    {
+      "id": "4878819",
+      "time": "2026-05-14 08:49:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：澳大利亞將投資至多8.5億澳元在本地生產部分導彈。"
+    },
+    {
+      "id": "mkt:019e23f6-7412-777f-be59-07905df7cc1c",
+      "time": "2026-05-14 08:49:34",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "ENEOS-LINKED CRUDE TANKER HAS CROSSED STRAIT OF HORMUZ, JIJI REPORTS"
+    },
+    {
+      "id": "mkt:019e23f5-d797-777f-be58-fa55f21fbf91",
+      "time": "2026-05-14 08:49:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "SHANGHAI STOCK EXCHANGE FINANCING BALANCE UP 11.597 BLN YUAN TO 1452.354 BLN YUAN; SHENZHEN STOCK EXCHANGE FINANCING BALANCE UP 11.328 BLN YUAN TO 1391.532 BLN YUAN; TOTAL FINANCING BALANCE AT 2843.886 TRN YUAN, UP 22.925 BLN YUAN FROM PREVIOUS TRADING DAY"
+    },
+    {
+      "id": "4878818",
+      "time": "2026-05-14 08:48:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印度北方邦暴風雨造成33人死亡】當地時間13日，強風暴及強降雨襲擊印度北方邦多地，已造成至少33人死亡。當地官員表示，此次暴風雨對北方邦五個地區造成大範圍損毀。"
+    },
+    {
+      "id": "te:markets:550475",
+      "time": "2026-05-14 08:48:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Australia Shares Down Slightly — Australian equities slipped to 8,623 in early Thursday trade, marking a fifth straight decline and a five-week low. Risk appetite waned after Canberra’s 2026 budget warned of severe fallout from the fuel crisis, with measures unlikely to shield the economy fully. The deficit is expected to widen before a distant return to balance. Traders also cautiously awaited May inflation expectations after April’s reading surged to the highest since late 2022, underscoring renewed cost pressures that have persisted since the latter half of last year. Still, weakness was capped by hopes that the upcoming meeting between U.S. President Trump and China's leader Xi Jinping could help ease global trade tensions. Commercial services, consumer non-durables, and healthcare weighed on the ASX 200, though strength in consumer services helped limit the decline. The big four banks fell between 0.2% to 1.7%. Other notable laggards were Lynas Rare Earths Ltd. (-2.0%), Xero Ltd. (-1.3%), and PLS Group (-1.2%)."
+    },
     {
       "id": "4878817",
       "time": "2026-05-14 08:47:33",
@@ -138174,31 +138258,6 @@
         "其他"
       ],
       "text": "【吉利、比亞迪們抄底全球舊工廠】近日有訊息稱，吉利與福特達成協議，將收購福特西班牙巴倫西亞工廠的“Body 3”三號車身總裝產線。 這不是首箇中國車企首次收購外資企業海外工廠的案例。中國車企在海外市場產能擴張與外資車企在海外市場的收縮戰略形成對比。近年來，全球汽車產業正歷經產能重構：多家海外傳統車企持續收縮燃油車低效產能、剝離非核心製造資產；中國車企則依託成熟的新能源技術與產業鏈優勢，持續收購全球閒置優質產能，加速出海。 儘管中國汽車在海外發展迅猛，但挑戰與風險仍存。業內認為，本土化建設需要大量資金投入，回報週期較長，而海外工廠運營需考慮中外勞工制度、管理文化等差異，長期穩產、成本控制、盈利爬坡難度不低；同時，穩定的經銷商體系、維修網點、服務網路等，也成為考驗中國車企出海質量的關鍵因素。（一財）"
-    },
-    {
-      "id": "4864473",
-      "time": "2026-05-07 08:51:21",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "20年期日本國債收益率下跌1個基點，至3.360%。"
-    },
-    {
-      "id": "4864472",
-      "time": "2026-05-07 08:50:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "【購房新政疊加“五一”假期 多地樓市升溫】4月30日，湖北武漢市住房和城市更新局聯合多部門，釋出了“漢七條”樓市新政，推出放寬首套房認定、加大住房信貸支援力度、公積金最佳化、加大購買商辦類房屋支援力度等七條舉措。剛剛過去的這個“五一”假期，武漢樓市反響積極。自4月30日開始，廣東多地也正式推行新一輪房地產最佳化調整政策，疊加“五一”假期，廣州、深圳多個樓盤客戶到訪量增加。4月13日，江蘇無錫釋出《關於支援各類人才在錫發展給予購房補貼的通知》及其相關實施細則。新政實施以來，樓市熱度持續升溫。（央視）"
-    },
-    {
-      "id": "4864471",
-      "time": "2026-05-07 08:48:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國疾病控制與預防中心：美國政府正密切監控洪迪厄斯號郵輪上美國旅客的相關情況，該郵輪已通報漢坦病毒確診病例。"
     }
   ]
 }
