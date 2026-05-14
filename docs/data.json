@@ -1,7 +1,27 @@
 {
-  "updated": "2026-05-15 00:17:29",
-  "count": 15430,
+  "updated": "2026-05-15 00:21:04",
+  "count": 15423,
   "items": [
+    {
+      "id": "4880401",
+      "time": "2026-05-15 00:18:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "英鎊/美元日內跌幅達0.5%，報1.3454。"
+    },
+    {
+      "id": "te:markets:550815",
+      "time": "2026-05-15 00:17:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Royal Bank of Canada Stock Price Hits All-time High — Royal Bank of Canada shares increased to an all-time high of 250.86 CAD. Over the past 4 weeks, Royal Bank of Canada gained 3.74%, and in the last 12 months, it increased 43.97%."
+    },
     {
       "id": "mkt:019e2746-f7d8-7bb5-b4d0-ba24a228383e",
       "time": "2026-05-15 00:16:29",
@@ -139493,109 +139513,6 @@
         "國際"
       ],
       "text": "美國參議員懷登就關稅退稅權益問題向傑富瑞集團提出質詢。"
-    },
-    {
-      "id": "mkt:019e033d-b4f4-7775-8cb5-490f87d566d8",
-      "time": "2026-05-08 00:20:36",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "S&P500",
-        "Impact bearish",
-        "Nasdaq100",
-        "Dow"
-      ],
-      "text": "S&P 500 DOWN 0.3%, NASDAQ DOWN 0.16%, DOW DOWN 0.38%"
-    },
-    {
-      "id": "4866827",
-      "time": "2026-05-08 00:20:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "美股三大股指齊跌，標普500指數下跌0.3%，納斯達克指數下跌0.16%，道瓊斯指數下跌0.38%。"
-    },
-    {
-      "id": "mkt:019e033d-5a6e-7775-8cb5-46af9f835e4b",
-      "time": "2026-05-08 00:20:12",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "NVIDIA",
-        "Apple",
-        "Market Regions",
-        "Greater China",
-        "Market Themes",
-        "Magnificent 7",
-        "Policy",
-        "Breaking News 24h",
-        "Chinese Policy & Markets"
-      ],
-      "text": "【Trump to Bring Major US CEOs on China Trip as Diplomacy Takes Priority Over Deals】The Trump administration plans to invite CEOs from Nvidia, Apple, Exxon, Boeing, Qualcomm, Blackstone, Citigroup and Visa to accompany President Trump on a China trip next week, according to a person familiar. Treasury Secretary Scott Bessent, USTR Jamieson Greer and Ambassador David Perdue are helping suggest attendees. Officials expect limited commercial deals beyond soybeans and Boeing aircraft, focusing instead on Trump-Xi relations, with less fanfare than prior trips."
-    },
-    {
-      "id": "4866826",
-      "time": "2026-05-08 00:19:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防軍： 上週三，以色列國防軍發動打擊並擊斃哈馬斯恐怖分子易卜拉欣・阿布・扎卡爾。"
-    },
-    {
-      "id": "mkt:019e033c-000f-7775-8cb5-3aa2deba83f0",
-      "time": "2026-05-08 00:18:44",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "The Trump Trade",
-        "Magnificent 7",
-        "Star Stocks",
-        "NVIDIA",
-        "Apple",
-        "AAPL.O",
-        "NVDA.O",
-        "XOM.O"
-      ],
-      "text": "TRUMP ADMINISTRATION PLANS TO INVITE CEOS FROM NVIDIA, APPLE, EXXON ON CHINA TRIP- SEMAFOR"
-    },
-    {
-      "id": "4866825",
-      "time": "2026-05-08 00:18:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國代理司法部長表示，美國司法部已了結農業統計資料一案。"
-    },
-    {
-      "id": "mkt:019e033b-61a1-7775-8cb5-37f2a51acaa8",
-      "time": "2026-05-08 00:18:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ACTING U.S. ATTORNEY GENERAL SAYS DOJ SETTLES AGRI STATS CASE"
-    },
-    {
-      "id": "te:economy:548880",
-      "time": "2026-05-08 00:17:54",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "30 Year Mortgage Rate",
-        "Importance 1"
-      ],
-      "text": "US Mortgage Rates Extend Rebound — The average rate on a 30-year fixed mortgage rose by 7bps from the previous week to 6.37% as of May 7th, extending the rebound from the earlier period, according to data compiled by Freddie Mac. The increase tracked a rebound in long-dated Treasury yields during the period as a surge in energy prices placed inflationary risks on the upside, potentially warranting a hawkish Federal Reserve. “Recent data points to slightly better conditions for buyers with a boost in new-home sales, median new-home prices being down to their lowest level since July 2021, and higher inventory than in recent years. Together, these trends could modestly ease affordability pressures through the spring homebuying season.” said Sam Khater, Freddie Mac’s Chief Economist."
-    },
-    {
-      "id": "4866824",
-      "time": "2026-05-08 00:17:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特主權財富基金PIF為70億美元三部分債券的發行給出最終條款。"
     }
   ]
 }
