@@ -1,7 +1,17 @@
 {
-  "updated": "2026-05-15 01:20:54",
-  "count": 15327,
+  "updated": "2026-05-15 01:24:26",
+  "count": 15320,
   "items": [
+    {
+      "id": "mkt:019e2782-5542-7bb5-b4d1-5a2ed0a86001",
+      "time": "2026-05-15 01:21:53",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "NEW YORK FED ACCEPTS $2.034 BLN OF $2.034 BLN SUBMITTED TO REVERSE REPO FACILITY ON MAY 14"
+    },
     {
       "id": "4880437",
       "time": "2026-05-15 01:19:41",
@@ -138547,87 +138557,6 @@
         "國際"
       ],
       "text": "美聯儲戴利表示，目前尚無跡象表明能源價格飆升正在推高中期或更長期通脹預期。"
-    },
-    {
-      "id": "4866926",
-      "time": "2026-05-08 01:24:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯外交部告知亞美尼亞駐俄使節，為烏克蘭總統澤連斯基“提供平臺發表針對俄羅斯的恐怖主義威脅言論”是不可接受的。"
-    },
-    {
-      "id": "4866925",
-      "time": "2026-05-08 01:24:01",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲戴利表示，當前貨幣政策處於“輕度限制性”水平，若美國與伊朗的戰爭平息，通脹將面臨下行壓力。"
-    },
-    {
-      "id": "4866924",
-      "time": "2026-05-08 01:23:02",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲戴利：致力於將通脹回落至美聯儲2%的目標。"
-    },
-    {
-      "id": "4866923",
-      "time": "2026-05-08 01:22:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯外交部稱已召見亞美尼亞駐俄使節。"
-    },
-    {
-      "id": "mkt:019e0376-0eb4-7775-8cb6-d58f7536fee4",
-      "time": "2026-05-08 01:22:09",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "FED'S DALY SAID SHE WAS COMMITTED TO BRINGING INFLATION BACK TO THE FED’S 2% TARGET"
-    },
-    {
-      "id": "mkt:019e0375-aa1d-7775-8cb6-c890c53d4132",
-      "time": "2026-05-08 01:21:43",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "FED’S KASHKARI: INFLATION REMAINS TOO ELEVATED"
-    },
-    {
-      "id": "4866922",
-      "time": "2026-05-08 01:21:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI：GPT-Realtime-Whisper：音訊邊流式傳輸邊實時轉寫，即時生成字幕與會議筆記。"
-    },
-    {
-      "id": "4866921",
-      "time": "2026-05-08 01:20:57",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲卡什卡利：通脹水平依舊居高不下。"
     }
   ]
 }
