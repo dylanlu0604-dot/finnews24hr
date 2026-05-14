@@ -1,7 +1,42 @@
 {
-  "updated": "2026-05-15 04:40:11",
-  "count": 15131,
+  "updated": "2026-05-15 04:43:37",
+  "count": 15132,
   "items": [
+    {
+      "id": "4880605",
+      "time": "2026-05-15 04:42:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "【紐約股市三大股指14日上漲】紐約股市三大股指14日上漲。截至當天收盤，道瓊斯工業平均指數比前一交易日上漲370.26點，收於50063.46點，漲幅為0.75%；標準普爾500種股票指數上漲56.99點，收於7501.24點，漲幅為0.77%；納斯達克綜合指數上漲232.88點，收於26635.22點，漲幅為0.88%。板塊方面，標普500指數十一大板塊六漲五跌。科技板塊和能源板塊分別以1.85%和0.77%的漲幅領漲，材料板塊和房地產板塊分別以0.80%和0.59%的跌幅領跌。（新華社）"
+    },
+    {
+      "id": "mkt:019e283a-272a-7bb5-b4d2-cfd24d7a59cc",
+      "time": "2026-05-15 04:42:40",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【SpaceX IPO Prospectus Could Be Released Next Week Ahead of Record Listing】SpaceX plans to publicly release its IPO prospectus as soon as next week ahead of a targeted June 8 roadshow, according to people familiar with the matter. The offering could become the largest IPO on record after SpaceX merged with xAI in February at a combined $1.25 trillion valuation. Bloomberg previously reported the company was targeting a $70 billion to $75 billion listing size. Advisers are also seeking broader international retail participation as investor demand for AI-linked IPOs accelerates."
+    },
+    {
+      "id": "4880604",
+      "time": "2026-05-15 04:41:24",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【跳票近一年 特朗普“土豪金”T1手機開始發貨】特朗普移動（Trump Mobile）表示，在公司首次公佈裝置計劃近一年後，其“土豪金”T1智慧手機已開始發貨。該款手機原定於去年8月釋出。公司週三在社交媒體發文稱：“T1手機已經到貨！！此前預訂T1手機的使用者將收到更新郵件。本週開始發貨！！！”這款售價499美元的手機此前經歷了發貨延期，公司表示延誤原因是美國政府停擺。此外，特朗普移動於今年4月更新了預購條款，稱繳納100美元定金“不保證裝置將被生產或可供購買”，此舉引發了消費者質疑。特朗普移動執行長Pat O'Brien表示，手機將在未來幾周內陸續交付。他補充稱，首批T1手機在美國組裝，並將採用美國本土製造的零部件。"
+    },
+    {
+      "id": "4880603",
+      "time": "2026-05-15 04:40:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "法拉第：將2026年機器人出貨目標上調至1500臺。"
+    },
     {
       "id": "4880602",
       "time": "2026-05-15 04:39:29",
@@ -136568,39 +136603,6 @@
         "國際"
       ],
       "text": "伊朗外交部發言人：我們會重建，但絕不遺忘、絕不寬恕。伊朗工程師已著手重建 2026 年 4 月 2 日遭美軍入侵者襲擊的 B-1 大橋。"
-    },
-    {
-      "id": "mkt:019e042e-6612-7775-8cbb-0b19d908cc3d",
-      "time": "2026-05-08 04:43:30",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bearish",
-        "XAUUSD",
-        "Impact bullish",
-        "US10Y"
-      ],
-      "text": "GUNDLACH: EXPECT MORE NAV WRITEDOWNS AMONG PRIVATE CREDIT FUNDS"
-    },
-    {
-      "id": "4867146",
-      "time": "2026-05-08 04:41:06",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "據福克斯新聞：美國官員稱此舉並非重啟戰爭。"
-    },
-    {
-      "id": "mkt:019e042c-0f1e-7775-8cbb-0435dfb6d66e",
-      "time": "2026-05-08 04:40:56",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Policy",
-        "Breaking News 24h"
-      ],
-      "text": "US OFFICIAL SAYS THIS NOT A RESTARTING OF THE WAR: FOX"
     }
   ]
 }
