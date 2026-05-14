@@ -1,7 +1,44 @@
 {
-  "updated": "2026-05-15 04:57:24",
-  "count": 15132,
+  "updated": "2026-05-15 05:00:59",
+  "count": 15128,
   "items": [
+    {
+      "id": "4880623",
+      "time": "2026-05-15 05:00:43",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "黃金儲備公司宣佈與奧古斯塔資本簽訂權益購入協議，以推進委內瑞拉礦業專案，並安排了電話會議更新最新進展。"
+    },
+    {
+      "id": "mkt:019e284a-440a-7bb5-b4d2-f4565c9c889b",
+      "time": "2026-05-15 05:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "South Korea | Import Price Index (YoY) (Apr) | actual 20.2% | previous 18.40%"
+    },
+    {
+      "id": "mkt:019e284a-0610-7bb5-b4d2-e8af8d3cb006",
+      "time": "2026-05-15 05:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "South Korea | Export Price Index (YoY) (Apr) | actual 40.8% | previous 28.70%"
+    },
+    {
+      "id": "4880621",
+      "time": "2026-05-15 04:58:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中芯國際Q1營收25億美元 對客戶需求及訂單狀況樂觀 智慧手機收入佔比創下新低】中芯國際14日釋出2026年第一季度財報。按照國際財務報告準則，一季度，中芯國際實現銷售收入25.05億美元，同比增長11.5%，環比增長0.7%；本公司所有人應占利潤1.97億美元，同比增長5.0%，環比增長14.2%。"
+    },
     {
       "id": "4880620",
       "time": "2026-05-15 04:56:11",
@@ -136523,88 +136560,6 @@
         "US10Y"
       ],
       "text": "RAY DALIO SAYS US IS ENTERING PERIOD OF ‘GREAT TURBULENCE’"
-    },
-    {
-      "id": "mkt:019e043e-600d-7775-8cbb-5d9a7cac5b35",
-      "time": "2026-05-08 05:00:53",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "S. KOREAN SHIP DAMAGED BY FIRE IN STRAIT OF HORMUZ ARRIVES AT DUBAI PORT-YONHAP"
-    },
-    {
-      "id": "mkt:019e043e-2649-7775-8cbb-5255ed3b7931",
-      "time": "2026-05-08 05:00:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "REPORTS HEARING THE SOUND OF AN EXPLOSION IN ABU DHABI - FARS NEWS, CITING ARABIC SOURCES"
-    },
-    {
-      "id": "mkt:019e043d-eae6-7775-8cbb-4ddd9dcfcdf7",
-      "time": "2026-05-08 05:00:27",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "The Trump Trade",
-        "Policy",
-        "Breaking News 24h",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "US TRADE COURT RULES AGAINST TRUMP'S 10% GLOBAL TARIFF"
-    },
-    {
-      "id": "4867163",
-      "time": "2026-05-08 04:59:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網自動測定：05月08日04時57分在臺灣花蓮縣海域附近（北緯24.14度，東經121.95度）發生4.2級左右地震，最終結果以正式速報為準。"
-    },
-    {
-      "id": "4867162",
-      "time": "2026-05-08 04:59:30",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國貿易法庭裁定特朗普10%的全球關稅計劃無效。"
-    },
-    {
-      "id": "4867161",
-      "time": "2026-05-08 04:58:57",
-      "tags": [
-        "市場"
-      ],
-      "text": "【紐約期金漲超0.3%，收復4700美元關口，現貨白銀一度漲穿82美元】週四（5月7日）紐約尾盤，現貨黃金漲0.22%，報4701.61美元/盎司，亞太盤初以來呈現出衝高回落走勢，09:30左右重新整理日低至4685.63美元，23:00左右重新整理日高至4764.64美元。COMEX黃金期貨漲0.36%，報4711.40美元/盎司。現貨白銀漲2.35%，報79.17美元/盎司，亞太盤初重新整理日低至76.99美元，隨後回升，22:45重新整理日高至82.13美元。COMEX白銀期貨漲3.02%，報79.64美元/盎司。COMEX銅期貨跌0.96%，報6.127美元/磅。"
-    },
-    {
-      "id": "4867160",
-      "time": "2026-05-08 04:58:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "【5月8日美股成交額前20：OpenAI自研晶片遇阻，博通要求微軟採購四成產能】週四美股成交額第12名博通收跌3.03%，成交92.31億美元。據報道，OpenAI與晶片設計廠商博通去年官宣聯合研發定製人工智慧晶片時，雙方曾將這筆合作視作板上釘釘的既定交易。但目前談判已陷入潛在僵局。一名OpenAI高管在上月的內部備忘錄中向同事透露，博通明確表示，只有微軟同意採購約40%的晶片產能，才會為專案首期提供融資。知情人士稱，微軟一旦作出採購承諾，將讓博通確信自身投資能夠回本。"
-    },
-    {
-      "id": "mkt:019e043b-4bc8-7775-8cbb-416383838e75",
-      "time": "2026-05-08 04:57:35",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "THE ATTACK ON THE HOSTILE AMERICAN DESTROYERS WAS CARRIED OUT USING MISSILES AND SUICIDE DRONES - TASNIM"
     }
   ]
 }
