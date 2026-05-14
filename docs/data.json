@@ -1,7 +1,23 @@
 {
-  "updated": "2026-05-15 07:46:18",
-  "count": 15189,
+  "updated": "2026-05-15 07:49:48",
+  "count": 15184,
   "items": [
+    {
+      "id": "4880794",
+      "time": "2026-05-15 07:47:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國將於6月底釋出下半年經濟展望及戰略報告。"
+    },
+    {
+      "id": "4880793",
+      "time": "2026-05-15 07:47:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數期貨早盤上漲0.5%。"
+    },
     {
       "id": "4880792",
       "time": "2026-05-15 07:45:50",
@@ -137004,71 +137020,6 @@
         "其他"
       ],
       "text": "【新華社國家高階智庫釋出《文化賦能論——中國邁向高質量發展的文化自覺》智庫報告】中希全面戰略伙伴關係20週年暨文明交流互鑑論壇7日在希臘首都雅典舉行。論壇期間，新華社國家高階智庫釋出了《文化賦能論——中國邁向高質量發展的文化自覺》智庫報告。 報告系統闡釋以文化賦能經濟社會發展的生成邏輯、中國實踐、方法論與全球啟示，全面展現新時代中國以文化賦能高質量發展、推進中國式現代化的理論創新與生動實踐。 （新華社）"
-    },
-    {
-      "id": "te:markets:548944",
-      "time": "2026-05-08 07:49:45",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Gold Holds Steady as US-Iran Tensions Persist — Gold traded around $4,700 an ounce on Friday after experiencing sharp volatility in the previous session, as renewed clashes between the US and Iran weakened hopes for a near-term peace agreement and reignited inflation concerns. US Central Command said American forces intercepted Iranian attacks and launched defensive strikes while guided missile destroyers moved through the Strait of Hormuz, while stressing that the military does not seek further escalation. Meanwhile, the Trump administration is awaiting Iran’s response to a proposal aimed at reopening Hormuz and ending the nearly 10-week conflict, with reports indicating that Tehran is expected to respond through Pakistan within the next two days. Gold remains down more than 10% lower since the conflict began, as the effective closure of the Strait of Hormuz triggered a historic surge in energy prices, fueling inflation fears and strengthening expectations that central banks may need to raise interest rates."
-    },
-    {
-      "id": "4867277",
-      "time": "2026-05-08 07:47:57",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4710美元/盎司，日內跌0.02%。"
-    },
-    {
-      "id": "4867276",
-      "time": "2026-05-08 07:47:57",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中金：地產並非過時資產】中金研報稱，地產並非過時資產。隨著人口老齡化加深與城鎮化接近尾聲，我國地產週期進入“下半場”，流行觀點認為地產將成為低迴報資產，但跨國資料顯示在過去100年尺度上，地產在多數經濟體中顯著跑贏債券資產，在風險調整後回報接近股票資產。更重要的是，人口老齡化與城鎮化放緩，並不必然對應房地產回報持續下行。基於階段性表現或單一人口變數對地產前景進行線性外推，可能低估其長期配置價值。在更加多元與均衡的資產配置框架中，地產仍應被視為一類具有穩定回報與分散化價值的重要資產。"
-    },
-    {
-      "id": "4867275",
-      "time": "2026-05-08 07:47:36",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4700美元/盎司，日內漲0.28%。"
-    },
-    {
-      "id": "4867274",
-      "time": "2026-05-08 07:47:31",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "【中金：目前全球宏觀環境與貨幣秩序加速重構，存在非美股市在十年維度跑贏美股的機會】中金研報稱，美股並非永遠“例外”。基於美國在公司治理、市場制度、科技創新的優勢，市場長期流行“美股例外論”，認為美國股票明顯優於其他國家權益資產，具有持續且不可替代的超額表現能力。我們發現美股名義回報在發達市場中處於中游水平，但在調整風險與通脹之後，過去100年美股平均回報在樣本國家中處於第2位，僅次於澳大利亞。需要注意的是，美股高回報是跨週期長時間的平均結果，美股並非永遠“不可戰勝”，德國、日本及部分新興市場均曾在十年以上維度顯著跑贏美股，表明股票市場受宏觀環境、產業趨勢與估值週期共同影響，並非反映穩定的國家屬性。目前全球宏觀環境與貨幣秩序加速重構，存在非美股市在十年維度跑贏美股的機會。"
-    },
-    {
-      "id": "4867273",
-      "time": "2026-05-08 07:47:10",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "早盤交易中，基準10年期日本國債期貨下跌0.17點。"
-    },
-    {
-      "id": "4867272",
-      "time": "2026-05-08 07:46:58",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本日經平均指數期貨早盤下跌1.54%。"
     }
   ]
 }
