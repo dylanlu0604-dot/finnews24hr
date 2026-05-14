@@ -1,7 +1,24 @@
 {
-  "updated": "2026-05-14 10:19:01",
-  "count": 15331,
+  "updated": "2026-05-14 10:22:30",
+  "count": 15327,
   "items": [
+    {
+      "id": "4878953",
+      "time": "2026-05-14 10:20:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【Zenbot完成近億元天使輪融資】5月14日，具身智慧基礎設施供應商Zenbot（真保科技）宣佈完成近億元天使輪融資，由長盈精密、科達利、肇民科技等企業家族辦公室聯合領投，L2F光源創業者基金、天狼星資本共同投資，資金將主要用於通用具身智慧世界模型迭代研發、第三代半導體GaN驅動核心關節模組量產擴產，以及全棧系統設計能力強化與整機級產品規模化落地。"
+    },
+    {
+      "id": "4878952",
+      "time": "2026-05-14 10:20:00",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【中證500股指期貨(IC)主力合約日內跌超2%】中證500股指期貨(IC)主力合約日內跌超2%，現報8660.8點。"
+    },
     {
       "id": "mkt:019e2446-3b57-777f-be5a-442c3391b898",
       "time": "2026-05-14 10:17:22",
@@ -138030,56 +138047,6 @@
         "Importance 1"
       ],
       "text": "TTF Prices Steady, US-Iran Deal in Focus — European natural gas futures steadied near €44 per MWh on Thursday, following a 6.4% decline in the previous session, as markets weighed prospects of a US-Iran deal that could lead to the gradual reopening of the Strait of Hormuz. Washington and Tehran are reportedly moving closer to an agreement on a one page of memorandum to end their conflict, with Iran expected to respond in the coming days. The latest US proposal came after President Trump briefly suspended an initiative to provide safe passage for vessels through the strait. The effective closure of the vital waterway has choked off around one-fifth of global LNG supply, with the route currently facing a dual blockade from both sides. While most gas from the Persian Gulf are directed toward Asia, the disruption has tightened global supply, raising concerns in Europe as the region needs to replenish inventories before next winter."
-    },
-    {
-      "id": "4864814",
-      "time": "2026-05-07 10:21:20",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【化工板塊持續走弱，粵桂股份逼近跌停】化工板塊持續走弱，粵桂股份逼近跌停，魯西化工、華魯恆升、瀘天化、華昌化工跌幅居前。"
-    },
-    {
-      "id": "4864812",
-      "time": "2026-05-07 10:21:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "菲律賓經濟計劃部長：未發現滯脹風險。"
-    },
-    {
-      "id": "4864808",
-      "time": "2026-05-07 10:20:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "【濰坊市濰信資產運營公司成立，註冊資本60億元】企查查APP顯示，近日，濰坊市濰信資產運營有限公司成立，註冊資本60億元，經營範圍包含：以自有資金從事投資活動；自有資金投資的資產管理服務；企業管理諮詢；企業管理；財務諮詢；融資諮詢服務。企查查股權穿透顯示，該公司由濰坊市財金控股有限公司等共同持股。"
-    },
-    {
-      "id": "4864804",
-      "time": "2026-05-07 10:20:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "菲律賓經濟計劃部長：即便中東衝突今日結束，其後續影響仍將在未來數月持續存在。"
-    },
-    {
-      "id": "4864803",
-      "time": "2026-05-07 10:19:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "菲律賓經濟計劃部長：將於下週審議經濟資料，預計將對經濟資料作出若干調整。"
-    },
-    {
-      "id": "4864802",
-      "time": "2026-05-07 10:19:13",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "雅高集團中國執行長：中東衝突未影響業績。"
     }
   ]
 }
