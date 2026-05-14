@@ -1,7 +1,43 @@
 {
-  "updated": "2026-05-14 22:38:39",
-  "count": 15476,
+  "updated": "2026-05-14 22:42:13",
+  "count": 15474,
   "items": [
+    {
+      "id": "te:markets:550783",
+      "time": "2026-05-14 22:41:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "US Natgas Pares Losses After EIA Data — US natural gas futures trimmed earlier losses to trade around $2.83 per MMBtu on Thursday after the EIA reported a storage build broadly in line with expectations, while LNG feedgas flows continued to weaken during the spring maintenance period. Energy firms injected a near-normal 85 billion cubic feet of gas into storage last week, matching forecasts and close to the five-year average increase of 84 billion cubic feet. Total inventories rose to 2.290 trillion cubic feet, about 2.3% above year-ago levels and 6.5% above the seasonal average. LNG feedgas to major US export facilities has dropped from an April record of 18.8 billion cubic feet per day to around 17.0 bcfd in May, with further declines to a 15-week low near 15.9 bcfd due to maintenance at plants including Golden Pass and Freeport LNG. Domestic production has also eased slightly to 109.2 bcfd so far in May, while weather forecasts point to mostly normal conditions through late May."
+    },
+    {
+      "id": "4880294",
+      "time": "2026-05-14 22:40:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大總理卡尼：希望阿爾伯塔省逐步建成真正的碳信用市場。"
+    },
+    {
+      "id": "4880293",
+      "time": "2026-05-14 22:39:32",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美國進出口價格創逾四年最大漲幅 受油價飆升推動】美國進出口價格在4月大幅上漲，創逾四年來最大漲幅，受與伊朗衝突相關的油市壓力推動，進一步顯示全球最大經濟體的通脹抬頭。美國勞工統計局週四公佈的資料顯示，進口價格指數環比上漲1.9%，為2022年3月以來最大增幅，其中石油成本飆升19%。出口價格環比上漲3.3%，同樣為逾四年來最大漲幅。4月進出口價格飆升凸顯近幾個月來能源推動的通脹壓力加劇。本週早些時候公佈的美國消費者價格和生產者價格資料也顯示通脹壓力升溫。由於霍爾木茲海峽這一關鍵通道的運輸量大幅下降，原油價格飆升，而中東衝突尚無緩解跡象。剔除石油後，4月進口價格環比上漲0.7%，顯示能源之外的更廣泛價格壓力同樣存在。"
+    },
+    {
+      "id": "4880292",
+      "time": "2026-05-14 22:39:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "由於供應鏈攻擊暴露了蘋果安全系統用於驗證可信軟體的簽名證書，OpenAI 即將強制 Mac 使用者更新 ChatGPT 和其他桌面應用程式。"
+    },
     {
       "id": "4880291",
       "time": "2026-05-14 22:38:18",
@@ -139906,57 +139942,6 @@
         "國際"
       ],
       "text": "【中國海警局新聞發言人發表談話】中國海警局新聞發言人姜略表示，5月6日，中方向陽紅33號船位中國鱟藤礁附近海域開展正常生態環境調查。其間，菲海岸警衛隊1架島人型機蓄意抵近滋擾，中國海警依法依規跟蹤監視、管控處置，確保中方船隻作業安全，行動全程專業規範。菲方有關言論顛倒黑白、罔顧事實，企圖混淆視聽。我們正告菲方立即停止非法干擾和抹黑炒作。中國海警將依法在中國管轄海域持續開展維權執法活動，採取一切必要措施保障中方科考作業安全與南海地區和平穩定。（中國海警）"
-    },
-    {
-      "id": "4866668",
-      "time": "2026-05-07 22:41:53",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "英偉達漲幅擴大至3%。"
-    },
-    {
-      "id": "4866667",
-      "time": "2026-05-07 22:41:45",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【納斯達克指數升破26000點 重新整理記錄新高】納斯達克綜合指數向上觸及26000點，最新報26017點，日內上漲0.68%。英偉達股價上漲2.97%，蘋果股價上漲0.93%，微軟股價上漲2.37%，特斯拉股價上漲3.66%。"
-    },
-    {
-      "id": "4866666",
-      "time": "2026-05-07 22:41:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "【泰柬領導人在菲律賓討論泰柬邊境局勢】泰國總理府7日表示，泰國總理阿努廷當天在菲律賓宿務出席泰菲柬三方會談，討論泰柬邊境局勢。泰國總理府發言人拉差達表示，阿努廷與柬埔寨首相洪瑪奈及菲律賓方面共同討論了泰柬邊境局勢。據泰國媒體報道，在當天會談結束後舉行的新聞釋出會上，阿努廷說：“我剛剛與洪瑪奈首相進行了友好而坦誠的討論。我們雙方再次確認，將共同努力，透過對話邁向和平。”阿努廷還表示，泰柬將指派雙方外長密切合作，制定一系列建立互信的措施。（新華社）"
-    },
-    {
-      "id": "4866665",
-      "time": "2026-05-07 22:40:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭和美國談判代表將於週四在佛羅里達就結束戰爭進行會談。"
-    },
-    {
-      "id": "4866664",
-      "time": "2026-05-07 22:39:35",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲哈馬克：美元仍將保持主導貨幣地位。"
-    },
-    {
-      "id": "4866663",
-      "time": "2026-05-07 22:38:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "國際能源署分析師蓋爾蓋伊·莫爾納(Gergely Molnar)週四表示，伊朗戰爭已導致2026年至2030年期間全球液化天然氣供應損失約1200億立方米。"
     }
   ]
 }
