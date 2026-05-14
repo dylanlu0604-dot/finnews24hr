@@ -1,7 +1,105 @@
 {
-  "updated": "2026-05-14 11:07:48",
-  "count": 15330,
+  "updated": "2026-05-14 11:11:17",
+  "count": 15335,
   "items": [
+    {
+      "id": "4879014",
+      "time": "2026-05-14 11:11:09",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達2.03%，成分股中，海光資訊跌5.77%，三一重能跌5.47%，寒武紀跌5.38%，中科星圖跌4.97%。"
+    },
+    {
+      "id": "4879013",
+      "time": "2026-05-14 11:10:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【光啟技術成立新公司 含衛星行動通訊終端製造等業務】近日，深圳光啟商業航天技術有限公司成立，法定代表人為黃新政，註冊資本為2000.00萬元，經營範圍包括：衛星行動通訊終端製造等。透過快查APP股權穿透，該公司為光啟技術全資子公司。"
+    },
+    {
+      "id": "mkt:019e2477-3c07-777f-be5b-0350f109434f",
+      "time": "2026-05-14 11:10:47",
+      "tags": [
+        "MKT News",
+        "005930.KS"
+      ],
+      "text": "SOUTH KOREA LABOUR COMMISSION ASKS SAMSUNG ELEC AND UNION TO RESUME TALKS ON MAY 16 - YONHAP"
+    },
+    {
+      "id": "te:economy:550519",
+      "time": "2026-05-14 11:10:19",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Serbia",
+        "Current Account",
+        "Importance 1"
+      ],
+      "text": "Serbia Current Account Deficit Narrows in March — Serbia’s current account deficit narrowed to $411 million in March 2026 from a revised $548 million in the corresponding month a year earlier. The goods account gap shrank to $642 million from $753 million in March 2025, while the services account surplus widened to $240 million from $136 million. The secondary income surplus also increased to $707 million from $414 million. In contrast, the primary income deficit widened sharply to $715 million from $345 million. In the first three months of 2026, Serbia posted a current account deficit of $209 million, narrowing from $690 million in the corresponding period last year."
+    },
+    {
+      "id": "mkt:019e2476-5158-777f-be5a-ffe83da65e9e",
+      "time": "2026-05-14 11:09:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "005930.KS",
+        "Impact bearish"
+      ],
+      "text": "SAMSUNG ELEC PROPOSES UNION RESUME PAY TALKS - UNION"
+    },
+    {
+      "id": "4879012",
+      "time": "2026-05-14 11:09:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡樂比預計中東危機將對其2026財年運營利潤造成30億日元的負面影響。"
+    },
+    {
+      "id": "4879011",
+      "time": "2026-05-14 11:08:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星電子提議工會重啟薪酬談判。"
+    },
+    {
+      "id": "mkt:019e2475-0d8c-777f-be5a-f65cb9943db5",
+      "time": "2026-05-14 11:08:15",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "688256.SS",
+        "Impact bearish"
+      ],
+      "text": "A-SHARE CAMBRICON FALLS OVER 5%, TURNOVER EXCEEDING 13BN YUAN"
+    },
+    {
+      "id": "4879010",
+      "time": "2026-05-14 11:08:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【箭元科技：元行者一號首飛箭各關鍵分系統試驗正按計劃穩步推進，目標年底首飛】箭元科技宣佈，公司已於上月完成元行者一號液體運載火箭全箭管路力學環境試驗，試驗覆蓋一二級液氧、甲烷輸送管路，包含常溫靜力、低溫靜力、低溫振動、模態及極限載荷五項工況，模擬了發射及飛行過程中的複雜力學環境。近日，經過對試驗資料全面分析確認，全部管路效能滿足飛行任務要求。據箭元科技介紹，目前元行者一號首飛箭各關鍵分系統試驗正按計劃穩步推進，團隊將繼續瞄準年底首飛入軌及回收目標。"
+    },
+    {
+      "id": "mkt:019e2474-64a1-777f-be5a-efd5e5e11051",
+      "time": "2026-05-14 11:07:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish"
+      ],
+      "text": "SHANGHAI COMPOSITE INDEX DOWN OVER 1%"
+    },
     {
       "id": "mkt:019e2474-1677-777f-be5a-e0d7874763f3",
       "time": "2026-05-14 11:07:28",
@@ -138070,46 +138168,6 @@
         "其他"
       ],
       "text": "滙豐銀行全球外匯研究主管表示，未來幾個月美元很可能在相對狹窄區間波動。"
-    },
-    {
-      "id": "4865043",
-      "time": "2026-05-07 11:10:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中天科技在酒泉成立儲能科技公司】企查查APP顯示，近日，酒泉中蓄儲能科技有限公司成立，法定代表人為杜珩，註冊資本為2000萬元，經營範圍包含：電力設施器材製造；電力電子元器件製造；光伏裝置及元器件製造；儲能技術服務；人工智慧應用軟體開發等。企查查股權穿透顯示，該公司由中天科技間接全資持股。"
-    },
-    {
-      "id": "4865042",
-      "time": "2026-05-07 11:10:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "拉脫維亞軍方訊息稱，兩架外國無人機從俄羅斯進入拉脫維亞並墜毀。"
-    },
-    {
-      "id": "4865038",
-      "time": "2026-05-07 11:09:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度Paytm：目前尚無對人工智慧的重大資本投資計劃。"
-    },
-    {
-      "id": "4865037",
-      "time": "2026-05-07 11:09:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "佰維儲存成交額達100億元，現跌3.03%。"
-    },
-    {
-      "id": "4865031",
-      "time": "2026-05-07 11:08:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "【男子稱爺爺30年前捐贈名家書畫部分去向不明，天津美術學院：正處置，將釋出通報】近日，康先生反映1996年他爺爺曾捐贈四十件書畫到天津美術學院，如今部分書畫去向不明。5月7日，天津美術學院黨委宣傳部回應，目前學校正處置該事件，將釋出通報回應。（澎湃新聞）"
     }
   ]
 }
