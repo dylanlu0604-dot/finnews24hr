@@ -1,7 +1,75 @@
 {
-  "updated": "2026-05-14 10:43:22",
-  "count": 15332,
+  "updated": "2026-05-14 10:46:51",
+  "count": 15336,
   "items": [
+    {
+      "id": "4878989",
+      "time": "2026-05-14 10:45:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國高官：經確認襲擊Namu貨輪的實體後，我方將採取外交行動。"
+    },
+    {
+      "id": "4878988",
+      "time": "2026-05-14 10:45:30",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通將西門子目標股價從325歐元上調至335歐元。"
+    },
+    {
+      "id": "4878986",
+      "time": "2026-05-14 10:44:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國高階官員：除伊朗外，其他實體不太可能襲擊霍爾木茲海峽附近的Namu號貨輪。"
+    },
+    {
+      "id": "4878985",
+      "time": "2026-05-14 10:44:13",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨賣出額達40億港元。"
+    },
+    {
+      "id": "mkt:019e245e-87f9-777f-be5a-a54243da4f70",
+      "time": "2026-05-14 10:43:52",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "SOUTH KOREA SENIOR OFFICIAL: IT'S UNLIKELY AN ENTITY OTHER THAN IRAN ATTACKED CARGO SHIP NAMU NEAR STRAIT OF HORMUZ - YONHAP"
+    },
+    {
+      "id": "mkt:019e245e-39cc-777f-be5a-98b71a37083d",
+      "time": "2026-05-14 10:43:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bearish",
+        "CSI300",
+        "SSE Composite"
+      ],
+      "text": "CHINEXT INDEX DOWN OVER 2%"
+    },
+    {
+      "id": "4878984",
+      "time": "2026-05-14 10:43:20",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指跌2.01%，現報3957.360點；上證指數跌0.95%，現報4202.446點；深證成指跌1.57%，現報15836.711點。"
+    },
     {
       "id": "4878983",
       "time": "2026-05-14 10:42:17",
@@ -138074,36 +138142,6 @@
         "其他"
       ],
       "text": "軟銀股價一度漲16%。"
-    },
-    {
-      "id": "4864964",
-      "time": "2026-05-07 10:46:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "多晶矽連續主力合約日內漲6%，現報41440.00元。"
-    },
-    {
-      "id": "te:economy:548563",
-      "time": "2026-05-07 10:45:58",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "US 10-Year Yield Holds Decline — The yield on the 10-year US Treasury note held around 4.35% on Thursday after a sharp decline in the previous session, as signs that the US and Iran were closing in on an agreement to end the war sent oil prices plunging and eased inflation concerns. Reports indicated that both sides are nearing a one-page, 14-point memorandum of understanding aimed at formally ending the conflict, potentially reopening the Strait of Hormuz, and setting a framework for more detailed nuclear negotiations. However, President Trump cautioned that no deal has yet been finalized, while threatening to resume military strikes if Tehran fails to comply. Oil prices dropped sharply on easing geopolitical risks, helping to reduce inflation fears and lowering pressure on the Federal Reserve to maintain restrictive policy settings. Meanwhile, the Treasury indicated it will continue front-loading borrowing needs toward shorter-term securities over the coming quarters, signaling no major change in issuance strategy."
-    },
-    {
-      "id": "4864954",
-      "time": "2026-05-07 10:45:45",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "多晶矽連續主力合約日內漲5%，現報41025.00元。"
     }
   ]
 }
