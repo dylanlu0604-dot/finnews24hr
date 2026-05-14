@@ -1,7 +1,32 @@
 {
-  "updated": "2026-05-15 03:28:44",
-  "count": 15146,
+  "updated": "2026-05-15 03:32:15",
+  "count": 15143,
   "items": [
+    {
+      "id": "4880536",
+      "time": "2026-05-15 03:30:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：以色列正沿黎巴嫩邊境對真主黨據點實施打擊。"
+    },
+    {
+      "id": "4880535",
+      "time": "2026-05-15 03:29:57",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4670美元/盎司，日內跌0.78%。"
+    },
+    {
+      "id": "4880534",
+      "time": "2026-05-15 03:29:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：05月15日03時23分在新疆阿克蘇地區庫車市（北緯41.20度，東經83.96度）發生3.6級地震，震源深度16千米。"
+    },
     {
       "id": "4880533",
       "time": "2026-05-15 03:28:36",
@@ -136809,62 +136834,6 @@
         "國際"
       ],
       "text": "美聯社訊息：美國將開始吊銷拖欠 10 萬美元子女撫養費父母的護照，後續門檻很快將下調至 2500 美元。"
-    },
-    {
-      "id": "4867096",
-      "time": "2026-05-08 03:32:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴西總統盧拉：與特朗普的會談結束後我非常滿意，這場會晤對兩國而言都意義重大。"
-    },
-    {
-      "id": "4867095",
-      "time": "2026-05-08 03:31:23",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油期貨在收盤之後漲超2美元，布倫特原油期貨盤後也漲超1美元。"
-    },
-    {
-      "id": "mkt:019e03ec-5494-7775-8cb9-c30fae400d92",
-      "time": "2026-05-08 03:31:20",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Copper"
-      ],
-      "text": "BRAZIL'S LULA: TOLD TRUMP WE WANT TO SHARE BRAZIL'S CRITICAL MINERALS POTENTIAL WITH WHOEVER WANTS TO INVEST IN OUR COUNTRY"
-    },
-    {
-      "id": "mkt:019e03ec-4a6b-7775-8cb9-ba11017469ed",
-      "time": "2026-05-08 03:31:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US WILL START REVOKING PASSPORTS OF PARENTS OWING $100,000 IN UNPAID CHILD SUPPORT AND SOON EXPAND TO $2,500 - AP NEWS"
-    },
-    {
-      "id": "mkt:019e03ec-302c-7775-8cb9-b02a4441b5be",
-      "time": "2026-05-08 03:31:10",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "US CRUDE OIL FUTURES RISE MORE THAN $2 IN POST-SETTLEMENT TRADE, BRENT UP MORE THAN $1 POST-SETTLEMENT"
-    },
-    {
-      "id": "4867094",
-      "time": "2026-05-08 03:28:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴西總統盧拉：已告知特朗普，巴西願與拉美各國成立工作組，共同打擊有組織犯罪。"
     }
   ]
 }
