@@ -1,7 +1,25 @@
 {
-  "updated": "2026-05-14 11:26:18",
-  "count": 15345,
+  "updated": "2026-05-14 11:29:40",
+  "count": 15342,
   "items": [
+    {
+      "id": "4879032",
+      "time": "2026-05-14 11:29:05",
+      "tags": [
+        "宏觀",
+        "公司"
+      ],
+      "text": "【內蒙古出臺2026年金融支援實體經濟十條舉措】內蒙古自治區人民政府辦公廳近日印發《金融支援實體經濟十條舉措(2026年)》的通知。通知指出，制定自貿試驗區金融改革創新實施方案，推動自貿金融增長10%以上。加大重點產業支援力度。增加農牧業領域金融供給，全區農畜貸授信超百億元。推動金融機構年內新增科技貸款800億元，創新科技金融產品。支援企業發行科技創新債券，全年累計發行規模500億元。充分運用不動產投資信託基金（REITs）、資產支援證券（ABS）等工具。鼓勵上市公司開展併購重組。推動全區政府引導基金總規模達到50億元。設立科技創新投資子基金，總規模不低於10億元。"
+    },
+    {
+      "id": "4879031",
+      "time": "2026-05-14 11:27:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨連續主力合約日內跌4%，現報2440.00點。"
+    },
     {
       "id": "4879030",
       "time": "2026-05-14 11:22:44",
@@ -138249,51 +138267,6 @@
         "市場"
       ],
       "text": "【股指期貨早盤收盤】 中證1000指數期貨連續漲1.21%， 滬深300指數期貨連續漲0.18%， 中證500指數期貨連續漲0.78%， 上證50指數期貨連續跌0.05%。"
-    },
-    {
-      "id": "4865111",
-      "time": "2026-05-07 11:28:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "【長生人壽兩項償付能力充足率不達標】長生人壽近日釋出2026年第一季度償付能力報告顯示，該公司一季度淨虧損約3362萬元；核心償付能力充足率約45.4%、綜合償付能力充足率約55.5%，均低於監管部門要求的不低於50%及不低於100%的水平。根據監管要求，保險公司同時符合三項監管要求的，為償付能力達標公司：一是核心償付能力充足率不低於50%；二是綜合償付能力充足率不低於100%；三是風險綜合評級在B類及以上。不符合上述任意一項要求的，為償付能力不達標公司。報告顯示，截至2026年一季度末，長生人壽淨資產為負，約-4.13億元。"
-    },
-    {
-      "id": "4865110",
-      "time": "2026-05-07 11:27:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "惠譽評級：印度銀行已做好充分準備，應對2027年預期信用損失撥備要求。"
-    },
-    {
-      "id": "te:markets:548569",
-      "time": "2026-05-07 11:27:25",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Taiwan",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Taiwan Stocks Break 42,000 Level on AI Rally — The TAIEX, Taiwan’s benchmark stock index, surged 880 points, or 2.1%, to 42,019 in Thursday morning trade, gaining for a fourth straight session as optimism over AI infrastructure demand continued to lift sentiment. The broader index hit a record high for the fourth consecutive session and surpassed the 42,000 mark for the first time, after closing above the 41,000-point mark for the first time at 41,139 on Wednesday. The index tracked a rally on Wall Street overnight amid hopes of US-Iran peace talks, along with solid earnings in AI stocks. Electronic technology continued to be the main driver of the index, which rose 2.6%, with notable gains from Taiwan Semiconductor Manufacturing Company (TSMC), which accounts for more than 40% of total market value, and surged 3.1%. Other top movers included Delta Electronics (6.3%), Unimicron Technology Corp. (4.8%), and ASE Technology Holding (4.4%)."
-    },
-    {
-      "id": "4865109",
-      "time": "2026-05-07 11:26:56",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "恒生科技指數漲超3％，現報5118.8點；恒生指數現漲1.5％。"
-    },
-    {
-      "id": "4865108",
-      "time": "2026-05-07 11:26:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2026年“十大攻堅突破任務”釋出，上海營商環境再發力】今天（5月7日）上午，市政府新聞辦舉行市政府新聞釋出會，市政府副秘書長、市發展改革委主任劉健介紹上海市重點推進2026年最佳化營商環境“十大攻堅突破任務”有關情況。（上海釋出）"
     }
   ]
 }
