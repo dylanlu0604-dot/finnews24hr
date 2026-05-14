@@ -1,7 +1,108 @@
 {
-  "updated": "2026-05-14 14:50:21",
-  "count": 15454,
+  "updated": "2026-05-14 14:53:49",
+  "count": 15460,
   "items": [
+    {
+      "id": "4879323",
+      "time": "2026-05-14 14:53:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "騰訊控股： 今天中午，有自媒體謠傳“AI一位號即將離職”並影射騰訊，此謠言純屬子虛烏有。騰訊在此嚴正闢謠，並保留對相關惡意造謠者追究法律責任的權利。"
+    },
+    {
+      "id": "mkt:019e2542-9d55-799f-8004-09897358de7c",
+      "time": "2026-05-14 14:53:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Crypto Concepts",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Bitcoin",
+        "Impact mixed",
+        "Ethereum",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "【Top Crypto Stories of PAST 24 Hours - MKTNews】 Crypto / Bitcoin / Stablecoins - Charles Schwab launches spot BTC and ETH trading for select retail clients. - Japan’s enterprise-led blockchain to issue yen stablecoin for B2B settlements. - Korean won stablecoin KRWQ expands to Solana after EDX Markets listing. - Anchorage and Grupo Salinas sign cross-border payments partnership. - Bitwise CIO says GENIUS Act unlocked crypto fundraising momentum ahead of Clarity Act. Markets / Institutional - Senate confirms Kevin Warsh to succeed Jerome Powell as Fed Chair. - Fidelity International’s first tokenized fund receives AAA-mf rating from Moody’s. - Hyperliquid leads weekly blockchain fee revenue as vertical chains gain traction. - Ethereum closes gap with Solana as DEX volumes converge near $45B. - Bitcoin trades near critical support after hotter-than-expected PPI data raises rate hike fears. - Strategy’s STRC may be contributing to recurring mid-month bitcoin rallies, K33 says. Regulation / Policy - More than 100 amendments filed on stablecoins, ethics and DeFi ahead of Senate Banking Committee Clarity Act vote. - Anthropic and OpenAI tokenized PreStocks on Solana plunge after unauthorized equity transfer warnings. Industry / Corporate - BitGo doubles revenue to $3.8B while Q1 net loss widens. - Solana treasury firm DeFi Development Corp reports 108% yearly growth in SOL per share. - Solana treasury firm Upexi posts $109M quarterly net loss tied to crypto markdowns. - Metaplanet reports $725M Q1 net loss as bitcoin markdowns outweigh operating gains. - Jupiter taps Bitwise to build institutional-grade Solana-based USDe lending market. - Immunefi to absorb Code4rena customers after shutdown. - Stork launches 24/7 stock and gold price discovery model using perpetual futures markets."
+    },
+    {
+      "id": "mkt:019e2542-59f3-799f-8004-03964145fe73",
+      "time": "2026-05-14 14:52:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "TURNOVER ON SSE AND SZS EEXCEEDS 3.2TN YUAN, UP 97.7BN YUAN FROM THE SAME TIME YESTERDAY"
+    },
+    {
+      "id": "4879322",
+      "time": "2026-05-14 14:52:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【小米首款耳夾式耳機官宣：高亮鏡面機身、透明發聲球設計】小米官方剛剛公開了即將上市的小米耳機“驚喜新品”—— 小米首款耳夾式耳機，這款耳機將於本月釋出。 據小米官方介紹，這款耳夾式耳機採用高亮鏡面機身，一體流線造型；創新透明發聲球設計，搭配金屬唱片飾紋。 目前一張小米耳夾耳機的說明書已在各大網際網路社交平臺曝光。畫面顯示，小米耳夾式耳機艙整合了電源開關、指示燈、USB-C 充電介面、揚聲器（預計將用於支援查詢功能）等。耳機本體則支援觸控操作，觸控區域覆蓋 C 型橋和耳機兩頭區域。"
+    },
+    {
+      "id": "4879319",
+      "time": "2026-05-14 14:52:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【小米今年已申請註冊SU9商標】天眼查智慧財產權資訊顯示，小米科技有限責任公司今年已申請註冊多枚“XIAOMI SU9”“XIAOMI SU9 LUX”“XIAOMI SU8”“XIAOMI YU9”“XIAOMI YU8”商標，國際分類均為運輸工具，目前上述商標狀態均為等待實質審查。"
+    },
+    {
+      "id": "4879318",
+      "time": "2026-05-14 14:52:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中際旭創成交額達300億元】中際旭創成交額達300億元，現漲3.11%。"
+    },
+    {
+      "id": "4879317",
+      "time": "2026-05-14 14:50:59",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超3.2萬億元，較上日此時放量977億元。"
+    },
+    {
+      "id": "te:economy:550590",
+      "time": "2026-05-14 14:50:53",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Government Bond 10Y",
+        "Importance 2"
+      ],
+      "text": "UK Gilt Yield Nears 2008 High on Leadership Uncertainty — The UK 10-year gilt yield climbed toward 5.1%, nearing its highest level since 2008, as speculation intensifies over a potential leadership challenge to Prime Minister Keir Starmer. Reports suggest Health Secretary Wes Streeting, the most market-friendly candidate, may resign this week and launch a bid to replace Starmer as soon as today. Meanwhile, Angela Rayner, another potential contender, was cleared by HMRC in a tax probe this morning, potentially paving the way for her to join the race. While Streeting is seen as favorable for markets, Rayner’s left-leaning stance is viewed as less positive for gilts. Adding to the pressure, stalled US-Iran negotiations and the closure of the Strait of Hormuz have kept oil prices elevated, with markets now pricing in nearly three Bank of England rate hikes by year-end. Economically, the UK’s GDP grew by 0.6% in Q1 2026, with annual growth at 1.1%, exceeding expectations. March’s unexpected 0.3% expansion drove the upside."
+    },
+    {
+      "id": "4879316",
+      "time": "2026-05-14 14:50:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：日本首相高市早苗將於下週二起對韓國進行為期兩天的訪問，並將與韓國總統李在明會面。"
+    },
+    {
+      "id": "4879315",
+      "time": "2026-05-14 14:50:14",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "菲律賓股指上漲1.1%，至6015.03點。"
+    },
     {
       "id": "mkt:019e2540-036e-799f-8003-fee9fb13f62a",
       "time": "2026-05-14 14:50:12",
@@ -139424,40 +139525,6 @@
         "國際"
       ],
       "text": "【伊朗戰事推高紅海戰略地位 美國欲改善與厄利垂亞關係】伊朗戰事導致霍爾木茲海峽受阻，阿拉伯半島另一側紅海航道的戰略意義凸顯。近期曝光的一份美國政府檔案顯示，美國準備解除對紅海沿岸國家厄利垂亞的制裁。據路透社6日報道，美國國務院此前向多國傳送的檔案稱，美國政府“將在5月4日左右”撤銷前總統拜登簽署的對厄利垂亞的制裁令。分析人士認為，厄利垂亞地處紅海沿岸關鍵戰略位置，美國此舉意在改善與該國的關係，同時也被視為向衣索比亞發出訊號，不要與厄利垂亞發生直接衝突。（新華社）"
-    },
-    {
-      "id": "4865574",
-      "time": "2026-05-07 14:51:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "【天津美院通報捐贈書畫核查情況：40件作品均在庫保管】5月7日，天津美術學院針對近期網路出現關於康建章先生向天津美術學院捐贈書畫作品事宜的相關討論釋出情況通報，內容如下：\n\n針對近期網路出現關於康建章先生向天津美術學院捐贈書畫作品事宜的相關討論，學校高度重視捐贈者親屬和社會關切。\n\n經核查，康建章先生曾於1996年向學校捐贈書畫作品40件，助力學校教學與文脈傳承，其公益善舉學校始終銘記並深表敬意。目前，學校已對當年捐贈書畫作品完成全面核查，40件書畫作品均完整在庫保管，臺賬齊全，無遺失、調換及違規處置情況。學校充分尊重家屬合理知情訴求，可依規在校內指定場所，核實捐贈作品保管現狀。"
-    },
-    {
-      "id": "4865573",
-      "time": "2026-05-07 14:51:30",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "殼牌首席財務官表示，我們預計亞洲原油和成品油價格將上漲，從而吸引美國貨量從歐洲流向亞洲。"
-    },
-    {
-      "id": "4865572",
-      "time": "2026-05-07 14:51:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "【新研究發現狨猴大腦裡藏著人類語言神經起源線索】語言是人類獨有的高階認知功能，其神經機制的探索一直是神經科學領域的難題。中國科學院自動化研究所團隊近日在狨猴腦中發現與人類高度同源的神經纖維束——弓狀束，為追溯人類語言能力的神經起源提供重要依據。（新華社）"
-    },
-    {
-      "id": "4865571",
-      "time": "2026-05-07 14:50:35",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超3萬億元，較上日此時縮量997億元。"
     }
   ]
 }
