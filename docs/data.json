@@ -1,7 +1,24 @@
 {
-  "updated": "2026-05-15 07:21:50",
-  "count": 15186,
+  "updated": "2026-05-15 07:25:18",
+  "count": 15185,
   "items": [
+    {
+      "id": "4880767",
+      "time": "2026-05-15 07:24:18",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲巴爾：銀行有需要時應利用貼現視窗，這點十分重要。"
+    },
+    {
+      "id": "4880766",
+      "time": "2026-05-15 07:22:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "【全球最大的白銀ETF iShares Silver Trust持倉量較前日增加59.10噸】截至2026年05月14日，全球最大的白銀ETF iShares Silver Trust持倉量為15222.81噸，較前一個交易日增加59.10噸。"
+    },
     {
       "id": "4880765",
       "time": "2026-05-15 07:21:28",
@@ -137031,35 +137048,6 @@
         "Importance 2"
       ],
       "text": "Oil Rises on Renewed Middle East Tensions — WTI crude futures climbed above $97 per barrel on Friday, recouping some losses from earlier in the week as fresh clashes between the US and Iran threatened to derail diplomatic efforts to end the conflict. US Central Command said American forces intercepted Iranian attacks and carried out defensive strikes while guided missile destroyers passed through the Strait of Hormuz, emphasizing that the military does not intend to escalate tensions further. Meanwhile, the Trump administration is awaiting Iran’s response to a proposal aimed at reopening Hormuz and ending the nearly 10-week conflict, with tensions remaining elevated across both the Persian Gulf and Lebanon. According to reports, Tehran is expected to deliver its response through Pakistan within the next two days. Separately, the IEA warned that the war was disrupting roughly 14 million barrels per day of global oil supply and noted that any post-conflict production recovery would likely proceed gradually."
-    },
-    {
-      "id": "4867254",
-      "time": "2026-05-08 07:25:13",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "【華泰證券：煤炭板塊已進入底部修復通道】華泰證券指出，26Q1煤價已基本築底（秦皇島港5500動力煤716元/噸，環比4Q25-6.93%、同比-1.62%；山西柳林低硫主焦煤1538元/噸，環比4Q25-1.98%、同比+17.12%），其中3月受中東衝突影響動力煤均價同比+9.11%到746元/噸、主焦煤均價同比+18.15%到1484元/噸。26Q1煤炭板塊主流公司平均營業收入同比+1%，為24Q4以來首次同比增速轉正。26Q1煤炭板塊主流公司平均歸母淨利潤同比-2%，較2025年各季度同比降幅持續收窄；分板塊來看，動力煤同比-2%；煉焦煤板塊同比-1%。截至4月30日動力煤808元/噸（同比+22.98%）、主焦煤1552元/噸（同比+21.53%）。我們認為煤炭板塊已進入底部修復通道，後續隨著煤價中樞抬升與需求回暖，板塊盈利彈性有望持續釋放。"
-    },
-    {
-      "id": "4867253",
-      "time": "2026-05-08 07:24:39",
-      "tags": [
-        "觀點",
-        "國際"
-      ],
-      "text": "【華泰證券：3月出口強勁突顯中國化工供應優勢】華泰證券指出，3月我國化工品出口資料表現亮眼，主要因美以伊衝突致海外產能減產、以及部分產品出口退稅取消導致搶出口效應等因素。我們認為伴隨霍爾木茲海峽封鎖已逾兩月，化工下游產業鏈庫存逐步去化，終端對上游高成本主動/被動接受度或逐步增強，全球性補庫有望漸至，我國化工品出口有望保持強勁增長。同時，海峽封鎖導致日韓、東南亞及歐洲等能源和原料供給顯著承壓，我國部分化工供應鏈亦受擾動。供需側均有利好有望引領大宗化工品26H2步入新一輪景氣。國內化工行業依託煤化工供應穩定性、原油/天然氣進口來源較廣等綜合優勢，多數環節有望受益，且或將持續提升全球份額。建議關注具備全球競爭優勢且原料供應相對穩定的龍頭企業。"
-    },
-    {
-      "id": "4867252",
-      "time": "2026-05-08 07:23:40",
-      "tags": [
-        "宏觀",
-        "公司",
-        "國際"
-      ],
-      "text": "【白宮與更嚴格的 AI 監管措施保持距離】據報道，白宮高階官員正試圖安撫科技行業的擔憂 —— 政府可能會要求科技公司在向公眾釋出先進人工智慧模型前，先提交給聯邦政府審查。白宮一位頂級經濟顧問週三公開證實，政府正在討論此類審查，並將其比作美國食品藥品監督管理局（FDA）對處方藥長達數年的測試。而就在此言發表一天後，特朗普的助手們卻釋放出不同訊號：此事暫緩。一位白宮高階官員表示：“僅有少數一兩人極力主張由政府出臺監管規則，但這類人在整體中屬於少數派。”"
     }
   ]
 }
