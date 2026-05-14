@@ -1,7 +1,187 @@
 {
-  "updated": "2026-05-14 15:59:09",
-  "count": 15444,
+  "updated": "2026-05-14 16:02:38",
+  "count": 15443,
   "items": [
+    {
+      "id": "4879479",
+      "time": "2026-05-14 16:02:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "思科股價盤前大漲19.5%，此前其第三季度營收超預期，並宣佈裁員。"
+    },
+    {
+      "id": "4879478",
+      "time": "2026-05-14 16:01:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍（IDF）：以軍已開始打擊黎巴嫩南部多地的真主黨恐怖設施據點。"
+    },
+    {
+      "id": "mkt:019e2582-2673-7aa5-b400-b61c9f2b4ad2",
+      "time": "2026-05-14 16:01:40",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "U.S. S&P 500 E-MINI FUTURES UP 0.2%, NASDAQ 100 FUTURES UP 0.4%, DOW FUTURES UP 0.3%"
+    },
+    {
+      "id": "4879477",
+      "time": "2026-05-14 16:01:34",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國標普500迷你股指期貨上漲0.2%，納斯達克100股指期貨上漲0.4%，道瓊斯股指期貨上漲0.3%。"
+    },
+    {
+      "id": "4879476",
+      "time": "2026-05-14 16:01:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【達實智慧：目前公司AIoT平臺及AI應用業務整體規模仍相對較小】達實智慧5月14日在互動平臺表示，2025年，公司AIoT平臺及AI應用簽約金額達7847.14萬元，全年增長趨勢顯著。目前公司AIoT平臺及AI應用業務整體規模仍相對較小，在公司營業收入中的佔比較低，對公司整體經營業績尚未構成重大影響。"
+    },
+    {
+      "id": "4879475",
+      "time": "2026-05-14 16:01:20",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股大型科技股盤前漲跌互現，英偉達漲2%】美股大型科技股盤前漲跌互現，英偉達漲2%，特斯拉漲0.7%，谷歌A漲0.2%，亞馬遜持平，蘋果跌0.1%，Meta、微軟跌0.3%。"
+    },
+    {
+      "id": "4879474",
+      "time": "2026-05-14 16:01:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股中概股盤前普跌，百度跌4%】美股中概股盤前普跌，京東跌1%，攜程、網易、蔚來跌2%，嗶哩嗶哩、百濟神州、阿里巴巴跌3%，百度跌4%。"
+    },
+    {
+      "id": "4879473",
+      "time": "2026-05-14 16:01:06",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【英國海上貿易行動辦公室：一船隻在阿聯酋附近被控制】英國海上貿易行動辦公室14日通報說，一艘船隻當天在阿聯酋附近海域被控制，目前該船正駛向伊朗領海。 通報說，事件發生時該船正在阿聯酋富查伊拉東北約38海里（約70公里）處錨泊。(新華社)"
+    },
+    {
+      "id": "4879472",
+      "time": "2026-05-14 16:00:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "【邁威爾科技美股盤前漲超5%】邁威爾科技美股盤前漲超5%，現報187.3美元。"
+    },
+    {
+      "id": "4879471",
+      "time": "2026-05-14 16:00:51",
+      "tags": [
+        "宏觀",
+        "市場"
+      ],
+      "text": "【首創期貨：供應端約束，白銀走勢強於黃金】昨日金銀走勢分化，白銀因供給端因素走強，而黃金繼續震盪。此前，全球前三白銀生產國秘魯（佔全球產量10%+）因天然氣管道爆炸出臺能源緊急法令，限制礦山工業用電，礦山開工率下滑，白銀大漲，短期走勢偏強。短期金銀比走低，目前已經接近50，可逢低做多金銀比。（首創期貨）"
+    },
+    {
+      "id": "4879470",
+      "time": "2026-05-14 16:00:49",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "日本證券金融公司擬回購至多 34 億日元自家股份。"
+    },
+    {
+      "id": "4879469",
+      "time": "2026-05-14 16:00:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "【諾華美股盤前跌超5%】諾華美股盤前跌超5%，現報141.651美元。"
+    },
+    {
+      "id": "4879468",
+      "time": "2026-05-14 16:00:14",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "土耳其央行行長：符合中期目標的預期降通脹路徑要求維持緊縮政策。"
+    },
+    {
+      "id": "4879467",
+      "time": "2026-05-14 16:00:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金宏氣體：公司目前暫無電子級六氟化鎢產品】金宏氣體(688106)5月14日在互動平臺表示，公司目前暫無電子級六氟化鎢產品。"
+    },
+    {
+      "id": "te:markets:550634",
+      "time": "2026-05-14 16:00:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Heating Oil Gains by 0.98% — Top commodity gainers are Heating Oil (0.98%), Natural gas (0.95%), Brent Crude Oil (0.92%) and Crude Oil WTI (0.81%)."
+    },
+    {
+      "id": "te:markets:550633",
+      "time": "2026-05-14 15:59:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Siemens Stock Price Hits 13-week High — Siemens shares increased to 272.75 EUR, the highest since February 2026. Over the past 4 weeks, Siemens gained 14.29%, and in the last 12 months, it increased 21.02%."
+    },
+    {
+      "id": "4879466",
+      "time": "2026-05-14 15:59:50",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "土耳其央行行長：將維持緊縮政策，直至實現物價穩定。"
+    },
+    {
+      "id": "4879465",
+      "time": "2026-05-14 15:59:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲1%，現報102.03美元/桶。"
+    },
+    {
+      "id": "4879464",
+      "time": "2026-05-14 15:59:13",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "土耳其央行行長：供給側衝擊對定價行為與通脹粘性造成影響。"
+    },
+    {
+      "id": "4879463",
+      "time": "2026-05-14 15:59:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中歐能源技術創新合作平臺擬增設生物質能專項工作組】近日，中歐能源技術創新合作平臺釋出訊息，為進一步深化中歐能源技術創新務實合作，擬在現有工作機制下增設生物質能專項工作組，並計劃於6月25日至26日在成都舉辦的第四屆中歐能源技術創新合作論壇期間正式成立，作為本屆論壇的重要成果之一。中歐能源技術創新合作平臺是中歐雙方共同打造、聚焦能源技術創新的重要合作機制。自2021年成立以來，平臺在中歐雙方能源主管部門支援和能源企業積極參與下，圍繞氫能、智慧能源、儲能、風電等重點領域持續開展合作，已逐步成為“快速匹配需求、高效孵化專案”的重要合作載體。目前，平臺設有4個專項工作組，合作網路成員單位超過400家，覆蓋德國、英國、法國、芬蘭等多個歐洲國家能源電力企業，累計組織各類交流活動百餘次，推動一批聯合研發和創新孵化專案落地。（中國電力報）"
+    },
     {
       "id": "4879462",
       "time": "2026-05-14 15:58:33",
@@ -139222,192 +139402,6 @@
         "Importance 0"
       ],
       "text": "Swedish Central Bank Leaves Rates Steady — The Swedish Riksbank kept its key policy rate steady at 1.75% in its May 2026 meeting, in line with market expectations. Policymakers noted that he risk that the war in the Middle East will lead to higher inflation has increased somewhat. However, inflation is currently below the target and the recent outcomes have been clearly lower than the Riksbank's forecast in March. In addition, economic activity is weak. This means that there is scope to wait until there is a clearer picture of the effects of the war and the supply shocks it entails."
-    },
-    {
-      "id": "te:economy:548678",
-      "time": "2026-05-07 16:02:28",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Italy",
-        "Construction PMI",
-        "Importance 1"
-      ],
-      "text": "Italy Construction PMI Contracts Most Since 2022 — The S&P Global Italy Construction PMI fell to 44.8 in April 2028 from 46.8 in the previous month, marking the sharpest contraction since August 2022. The downturn was broad-based across all three sub-sectors, led by a steep decline in civil engineering activity, while housing and commercial construction also fell at similar rates. New orders recorded their strongest drop since August 2024, with uncertainty linked to the Middle East conflict prompting clients to delay projects amid concerns over elevated price pressures. Moreover, supply chain disruptions from the Middle East conflict led to a marked lengthening in lead times. Meanwhile, constructors continued to report job creation, although the pace of hiring was the weakest so far this year. On the price front, cost inflation rose to a four-year high, driven by higher energy, fuel, transport, and raw material costs. Looking ahead, expectations for the next twelve months remained muted, with sentiment slightly pessimistic overall."
-    },
-    {
-      "id": "4865761",
-      "time": "2026-05-07 16:02:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【迪阿股份：2026年4月新增兩家自營門店，投資約317萬元】迪阿股份公告稱，2026年4月新增兩家自營門店，分別為DR貴陽海豚廣場店和DR北京龍德廣場店，均為直營，主要銷售鑲嵌飾品。前者於4月30日開設，面積89.90平方米，投資168.04萬元；後者於4月19日開設，面積56平方米，投資149.43萬元。上述投資含門店裝修、首次鋪貨等費用，經營資料以定期報告為準。"
-    },
-    {
-      "id": "4865760",
-      "time": "2026-05-07 16:02:15",
-      "tags": [
-        "央行",
-        "市場"
-      ],
-      "text": "受挪威央行訊息影響，歐元/挪威克朗跌幅擴大，下跌0.6%至10.8634。"
-    },
-    {
-      "id": "4865759",
-      "time": "2026-05-07 16:02:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "黎巴嫩真主黨向黎巴嫩南部的以色列軍隊發射火箭彈，戰事仍在持續。"
-    },
-    {
-      "id": "4865758",
-      "time": "2026-05-07 16:01:51",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【傑我睿近一年被多次執行 傑我睿老闆名下多家企業已登出】天眼查App顯示，深圳市傑我睿珠寶有限公司成立於2014年6月，法定代表人為張志騰，註冊資本1100萬人民幣，經營範圍包括黃金製品、鑽石、珠寶、翡翠、白銀製品的銷售等，由張志騰、陳長林共同持股。被執行人資訊顯示，自去年7月以來，該公司已被多次執行。此外，張志騰名下關聯4家企業，目前僅深圳市傑我睿珠寶有限公司"
-    },
-    {
-      "id": "4865757",
-      "time": "2026-05-07 16:01:29",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【美股大型科技股盤前多數上漲，英偉達漲0.3%】美股大型科技股盤前多數上漲，英偉達、谷歌A漲0.3%，Meta、特斯拉漲0.2%，亞馬遜、微軟漲0.1%，蘋果持平。"
-    },
-    {
-      "id": "4865756",
-      "time": "2026-05-07 16:01:28",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4750美元/盎司，日內漲1.27%。"
-    },
-    {
-      "id": "4865755",
-      "time": "2026-05-07 16:01:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國4月末外匯儲備3.411萬億美元; 預估為3.366萬億美元。"
-    },
-    {
-      "id": "4865754",
-      "time": "2026-05-07 16:01:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "【SiTime美股盤前漲超24%】SiTime美股盤前漲超24%，現報773.0美元。"
-    },
-    {
-      "id": "4865753",
-      "time": "2026-05-07 16:01:18",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美股中概股盤前漲跌互現，阿里巴巴漲1%】美股中概股盤前漲跌互現，蔚來、阿里巴巴漲1%，網易漲0.4%，百濟神州持平，百度跌0.2%，拼多多跌0.6%，京東跌0.7%，攜程跌1%。"
-    },
-    {
-      "id": "4865752",
-      "time": "2026-05-07 16:01:16",
-      "tags": [
-        "央行",
-        "市場",
-        "焦點"
-      ],
-      "text": "【中國央行連續第18個月增持黃金】中國央行：中國4月末黃金儲備報7464萬盎司（約2321.56噸），環比增加26萬盎司（約8.09噸），3月末為7438萬盎司（約2313.48噸），為連續第18個月增持黃金。"
-    },
-    {
-      "id": "4865751",
-      "time": "2026-05-07 16:01:11",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "挪威央行：通脹水平過高，且已連續多年高於目標區間。"
-    },
-    {
-      "id": "4865750",
-      "time": "2026-05-07 16:00:55",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "挪威央行：近幾周我們獲取的通脹前景資訊，支撐了我們3月份釋出的分析結論。"
-    },
-    {
-      "id": "4865749",
-      "time": "2026-05-07 16:00:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "據半島電視臺：醫院訊息人士表示，哈馬斯領導人阿扎姆的兒子因昨日以色列空襲受傷不治身亡。"
-    },
-    {
-      "id": "4865748",
-      "time": "2026-05-07 16:00:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "醫院訊息人士表示，哈馬斯領導人阿扎姆的兒子因昨日以色列空襲受傷不治身亡。"
-    },
-    {
-      "id": "4865747",
-      "time": "2026-05-07 16:00:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴林眾議院已罷免三名議員資格，原因是該三名議員反對針對被認定親伊朗人士所採取的相關措施。"
-    },
-    {
-      "id": "4865746",
-      "time": "2026-05-07 16:00:37",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "挪威央行：自3月貨幣政策會議以來，貨幣政策前景並未出現實質性變化。"
-    },
-    {
-      "id": "4865745",
-      "time": "2026-05-07 16:00:22",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "挪威央行：在3月貨幣政策會議上，貨幣政策委員會評估認為，很可能適合在後續某次貨幣政策會議上上調政策利率。"
-    },
-    {
-      "id": "4865744",
-      "time": "2026-05-07 16:00:11",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "挪威央行將基準利率上調至4.25%；預期為4.00%。"
-    },
-    {
-      "id": "te:markets:548677",
-      "time": "2026-05-07 16:00:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Heating Oil Drops by 2.12% — Top commodity losers are Heating Oil (-2.12%), Crude Oil WTI (-1.80%) and Brent Crude Oil (-1.73%)."
-    },
-    {
-      "id": "4865743",
-      "time": "2026-05-07 15:59:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "【振東製藥：員工持股計劃買入4140.84萬股】振東製藥公告，截至本公告披露日，公司第四期員工持股計劃透過二級市場以集中競價交易方式累計買入公司股票4140.84萬股，佔公司總股本的4.1730%，成交總金額為2.43億元（不含交易費用），成交均價約為5.87元/股。"
     }
   ]
 }
