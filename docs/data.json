@@ -1,7 +1,51 @@
 {
-  "updated": "2026-05-15 01:55:51",
+  "updated": "2026-05-15 01:59:21",
   "count": 15261,
   "items": [
+    {
+      "id": "mkt:019e27a3-fa81-7bb5-b4d1-aa34e9ac8277",
+      "time": "2026-05-15 01:58:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EARTHQUAKE OF MAGNITUDE 6.37 STRIKES BANDA SEA - GFZ"
+    },
+    {
+      "id": "mkt:019e27a3-96a6-7bb5-b4d1-a639a3f0787f",
+      "time": "2026-05-15 01:58:12",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "NETANYAHU: HAD WE NOT LAUNCHED THE WAR ON IRAN TWICE, WE WOULD HAVE FACED AN ENTITY POSSESSING A NUCLEAR BOMB AND POSING AN EXISTENTIAL THREAT TO US"
+    },
+    {
+      "id": "mkt:019e27a3-5161-7bb5-b4d1-9bc1250f006e",
+      "time": "2026-05-15 01:57:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NETANYAHU: WE HAVE TURNED THE EQUATION UPSIDE DOWN, AND THE IRANIAN REGIME HAS BECOME WEAKER THAN EVER BEFORE, WHILE WE HAVE BECOME STRONGER THAN EVER BEFORE"
+    },
+    {
+      "id": "mkt:019e27a3-25c2-7bb5-b4d1-96623030b046",
+      "time": "2026-05-15 01:57:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NETANYAHU: WE TELL THE ENTIRE WORLD THAT JERUSALEM WILL REMAIN OUR ETERNAL AND HISTORICAL CAPITAL"
+    },
+    {
+      "id": "4880466",
+      "time": "2026-05-15 01:56:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "據BBC：英國首相斯塔默不會阻止伯納姆參加議會選舉。"
+    },
     {
       "id": "4880465",
       "time": "2026-05-15 01:52:51",
@@ -137959,47 +138003,6 @@
         "AI Revolution"
       ],
       "text": "OPENAI: STARTING TO ROLL OUT TRUSTED CONTACT - WEBSITE"
-    },
-    {
-      "id": "4866985",
-      "time": "2026-05-08 01:58:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI：已開始推出“可信聯絡人”功能。"
-    },
-    {
-      "id": "4866984",
-      "time": "2026-05-08 01:58:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "據以色列第 12 頻道援引美國一名高階官員報道，若美國總統特朗普下週末前，美伊雙方仍未達成協議，軍事選項將重新擺上檯面。 報道稱，白宮預計將於週五收到伊朗對美方最新提議的答覆。"
-    },
-    {
-      "id": "4866983",
-      "time": "2026-05-08 01:56:26",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國汽車協會資料顯示，全美普通汽油均價已連續15 天上漲，週四升至每加侖 4.56 美元；較中東局勢衝突爆發前的每加侖 2.98 美元大幅攀升。"
-    },
-    {
-      "id": "4866982",
-      "time": "2026-05-08 01:56:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "民調顯示，超八成美國人表示燃油價格給家庭預算帶來明顯影響：33% 的人稱壓力很大，48% 表示略有壓力。"
-    },
-    {
-      "id": "4866981",
-      "time": "2026-05-08 01:56:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "【英國海上貿易行動辦公室：霍爾木茲海峽過去 24 小時內未報告任何事故】英國海上貿易行動辦公室（UKMTO）週四通報稱，儘管該地區安全域性勢仍 “動盪”，且商業航運持續面臨威脅，但自昨日世界協調時 16 時以來，波斯灣與阿曼灣均未發生事故。"
     }
   ]
 }
