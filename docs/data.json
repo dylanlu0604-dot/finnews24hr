@@ -1,7 +1,43 @@
 {
-  "updated": "2026-05-15 01:59:21",
-  "count": 15261,
+  "updated": "2026-05-15 02:02:51",
+  "count": 15250,
   "items": [
+    {
+      "id": "4880469",
+      "time": "2026-05-15 02:01:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "中國地震臺網自動測定：05月15日01時53分在印尼班達海附近（南緯6.37度，東經130.54度）發生6.2級左右地震，最終結果以正式速報為準。"
+    },
+    {
+      "id": "4880468",
+      "time": "2026-05-15 02:00:50",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲理事米蘭遞交辭呈。"
+    },
+    {
+      "id": "4880467",
+      "time": "2026-05-15 02:00:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【斯塔默對英國衛生和社會福利大臣辭職表遺憾】英國首相斯塔默14日致信衛生和社會福利大臣韋斯·斯特里廷，對其辭職表示遺憾。在英國首相府當天公佈的信件中，斯塔默稱上週英國地方選舉結果非常嚴峻，競爭對手比以往任何時候都更具威脅，工黨需投身“關乎國家靈魂的鬥爭”，以兌現承諾。斯塔默還表示，很遺憾斯特里廷不能再出席內閣會議，相信未來他仍能在黨內發揮重要作用。（新華社）"
+    },
+    {
+      "id": "mkt:019e27a5-8010-7bb5-b4d1-b25466737e94",
+      "time": "2026-05-15 02:00:18",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "FED'S MIRAN SUBMITS RESIGNATION FROM FED BOARD EFFECTIVE ON OR SHORTLY BEFORE KEVIN WARSH'S SWEARING IN AS CHAIR"
+    },
     {
       "id": "mkt:019e27a3-fa81-7bb5-b4d1-aa34e9ac8277",
       "time": "2026-05-15 01:58:38",
@@ -137862,147 +137898,6 @@
         "公司"
       ],
       "text": "谷歌 Gemini 3.1 Flash-Lite 現已在 Gemini 企業版全面上市。"
-    },
-    {
-      "id": "mkt:019e039b-52df-7775-8cb7-b6d8d3da7b2c",
-      "time": "2026-05-08 02:02:50",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "GOOGL.O",
-        "Impact bullish"
-      ],
-      "text": "GOOGLE- GEMINI 3.1 FLASH-LITE IS NOW GENERALLY AVAILABLE ON GEMINI ENTERPRISE"
-    },
-    {
-      "id": "4866995",
-      "time": "2026-05-08 02:02:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI：可信聯絡人功能是ChatGPT中一款可選的安全功能。"
-    },
-    {
-      "id": "mkt:019e039a-7d62-7775-8cb7-afd3609da0a2",
-      "time": "2026-05-08 02:01:56",
-      "tags": [
-        "MKT News",
-        "MSFT.O",
-        "Impact bullish",
-        "NVDA.O"
-      ],
-      "text": "OPENAI: STARTING TO ROLL OUT TRUSTED CONTACT, AN OPTIONAL SAFETY FEATURE IN CHATGPT"
-    },
-    {
-      "id": "4866994",
-      "time": "2026-05-08 02:01:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "杜克能源公司：宣佈普通股季度現金股息為每股1.065美元。"
-    },
-    {
-      "id": "4866993",
-      "time": "2026-05-08 02:00:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西政府資料顯示，巴西4月大豆出口量為1675萬噸，去年同期為1527萬噸。"
-    },
-    {
-      "id": "4866992",
-      "time": "2026-05-08 02:00:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西政府資料顯示，巴西4月牛肉出口量為251,944噸，去年同期為241,485噸。"
-    },
-    {
-      "id": "4866991",
-      "time": "2026-05-08 02:00:42",
-      "tags": [
-        "市場"
-      ],
-      "text": "巴西政府公佈資料顯示，巴西4月鐵礦石出口量為3457萬噸，上年同期出口量為3007萬噸。"
-    },
-    {
-      "id": "4866990",
-      "time": "2026-05-08 02:00:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西政府資料顯示，4月巴西原油出口量為817萬噸，去年同期為914萬噸。"
-    },
-    {
-      "id": "4866989",
-      "time": "2026-05-08 02:00:29",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國官員：有關籌備重啟 “自由行動” 以打通霍爾木茲海峽的相關報道均不實。"
-    },
-    {
-      "id": "4866988",
-      "time": "2026-05-08 02:00:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西經濟部公佈，該國4月貿易順差為105.37億美元。"
-    },
-    {
-      "id": "4866987",
-      "time": "2026-05-08 02:00:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西4月份貿易順差擴大至105.37億美元；此前預期為108億美元。"
-    },
-    {
-      "id": "mkt:019e0398-b7f8-7775-8cb7-a28598b269c7",
-      "time": "2026-05-08 02:00:00",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Policy",
-        "Breaking News 24h",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "US OFFICIAL: REPORTS ABOUT PREPARATIONS TO RESUME THE FREEDOM PROJECT TO REOPEN THE STRAIT OF HORMUZ ARE INCORRECT - AL JAZEERA"
-    },
-    {
-      "id": "4866986",
-      "time": "2026-05-08 01:59:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI：擴充套件安全提醒選項，年滿18週歲的使用者均可新增一名自己信任的人士作為“信任聯絡人”。"
-    },
-    {
-      "id": "mkt:019e0398-8121-7775-8cb7-9e60a49cf9f1",
-      "time": "2026-05-08 01:59:46",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "OPENAI: EXTENDING OUR SAFETY ALERT OPTIONS SO ANYONE OVER 18 CAN CHOOSE TO ADD SOMEONE THEY TRUST AS THEIR TRUSTED CONTACT"
-    },
-    {
-      "id": "mkt:019e0398-50bf-7775-8cb7-95dc8772c74c",
-      "time": "2026-05-08 01:59:34",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "OPENAI: STARTING TO ROLL OUT TRUSTED CONTACT - WEBSITE"
     }
   ]
 }
