@@ -1,7 +1,63 @@
 {
-  "updated": "2026-05-14 21:52:34",
+  "updated": "2026-05-14 21:56:06",
   "count": 15496,
   "items": [
+    {
+      "id": "4880227",
+      "time": "2026-05-14 21:55:20",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度對外貿易總局：後續黃金進口許可需在完成50%出口量後方可獲批。"
+    },
+    {
+      "id": "mkt:019e26c4-9009-7dde-99f5-0edef3f5e226",
+      "time": "2026-05-14 21:54:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "DXY",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "SAUDI ARABIA FLOATS MIDDLE EASTERN NON-AGGRESSION PACT WITH IRAN - FT"
+    },
+    {
+      "id": "4880226",
+      "time": "2026-05-14 21:54:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：沙特已與盟友討論了在中東國家與伊朗之間達成一項互不侵犯條約的構想。"
+    },
+    {
+      "id": "4880225",
+      "time": "2026-05-14 21:54:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【水利部：加快推進蓄滯洪區建設管理三年行動和數字孿生蓄滯洪區建設三年行動】水利部黨組書記、部長李國英主持召開部務會議，研究進一步加強水庫、水閘、蓄滯洪區執行管理數字孿生建設，水庫大壩安全監測管理，蓄滯洪區內非防洪建設專案洪水影響評價管理等工作。"
+    },
+    {
+      "id": "4880224",
+      "time": "2026-05-14 21:53:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "福特漲幅擴大至5.1%，該公司昨日收漲13%。"
+    },
+    {
+      "id": "4880223",
+      "time": "2026-05-14 21:52:43",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度外貿總局（DGFT）：地方主管部門需按月提交黃金進口報告。"
+    },
     {
       "id": "4880222",
       "time": "2026-05-14 21:52:14",
@@ -140104,61 +140160,6 @@
         "國際"
       ],
       "text": "烏克蘭總統澤連斯基：烏克蘭和平談判代表與美國團隊進行了會談。"
-    },
-    {
-      "id": "4866578",
-      "time": "2026-05-07 21:56:02",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "【花旗：油價將持續劇烈波動 等待美伊協議明朗】花旗集團全球大宗商品研究主管Max Layton表示，在伊朗與特朗普是否能夠達成協議的問題明朗之前，油價將繼續劇烈波動。“很難預測伊朗是否會達成協議，在這種你根本不知道是否會達成協議的環境下，市場必然會受到新聞驅動，並出現劇烈波動。”週四原油連續第三個交易日下跌，Layton表示，本輪下跌部分源於“市場希望雙方能夠展開協議談判”。不過中東地區實物原油市場壓力依然存在。交易員稱，位於霍爾木茲海峽外、阿曼一處關鍵原油裝載終端4月出現裝船延誤，擾亂了運輸計劃，並可能推遲向買家交付貨物。Layton表示，過去12個月全球實物原油市場已累積約7億至8億桶“相當可觀的緩衝庫存”，“我們正在快速消耗這些庫存，”他說，但其影響將會“在更長時間內逐步體現”。他補充稱，在真正下調油價預測前，他需要看到伊朗是否已準備好認真與美國達成協議。上個月，在第二輪美伊和平談判未能舉行後，花旗將布倫特原油基準價格預測上調15美元至110美元/桶，並將霍爾木茲海峽恢復開放的基準預期時間從4月中下旬推遲至5月底。"
-    },
-    {
-      "id": "4866577",
-      "time": "2026-05-07 21:55:26",
-      "tags": [
-        "市場"
-      ],
-      "text": "ICE阿拉比卡咖啡期貨下跌近4%，至2.7280美元/磅。"
-    },
-    {
-      "id": "4866576",
-      "time": "2026-05-07 21:55:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國外交官被警告不得使用機密政府資訊在線上預測博彩中獲利，因為擔心與敏感事件相關的賭注，例如美伊會談。"
-    },
-    {
-      "id": "te:markets:548819",
-      "time": "2026-05-07 21:54:26",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Edges Higher as Oil Falls on US-Iran Peace Hopes — The S&P/TSX Composite edged higher to trade above 34,000 on Thursday, supported by growing expectations of a near-term peace deal between the US and Iran. Oil prices declined as a potential agreement could lead to a gradual reopening of the Strait of Hormuz, easing concerns over inflation. Royal Bank of Canada and Bank of Nova Scotia both inched higher. Gold prices rose as fears of persistent inflation and prolonged high interest rates eased, lifting miners, with Agnico Eagle and Barrick both gaining more than 3%. On the earnings front, Canadian Natural Resources beat expectations for first-quarter profit, supported by higher production, though shares fell more than 3.5% as oil prices plunged. Enerflex (+0.2%) reported a 6% increase in Q1 revenue on strength in engineered systems, while Cascades (-2.8%) posted quarterly sales slightly below forecasts. Wheaton Precious Metals (+3.3%) is set to release its Q1 2026 results later in the day."
-    },
-    {
-      "id": "4866575",
-      "time": "2026-05-07 21:54:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "紐約準備批准一攬子廣泛的移民保護措施，以反擊特朗普。"
-    },
-    {
-      "id": "4866574",
-      "time": "2026-05-07 21:52:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "默茨：國家既無法保護公民，也無法保護企業免受所有市場波動的影響。"
     }
   ]
 }
