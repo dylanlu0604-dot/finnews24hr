@@ -1,7 +1,86 @@
 {
-  "updated": "2026-05-14 19:19:44",
-  "count": 15520,
+  "updated": "2026-05-14 19:23:13",
+  "count": 15525,
   "items": [
+    {
+      "id": "mkt:019e2639-e0f0-7335-8cb0-ad43f9e7a162",
+      "time": "2026-05-14 19:23:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RUBIO TO NBC: HOPE TO GET A POSITIVE RESPONSE ON JIMMY LAI"
+    },
+    {
+      "id": "te:markets:550715",
+      "time": "2026-05-14 19:22:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Extend Records — US equity futures were slightly higher on Thursday, extending their record highs as the earnings-fueled tech rally supported broader equity movements. Contracts for the S&P 500 and the Nasdaq gained 0.3% to fresh records, while those for the Dow rose past 50,000 to approach its all-time high. The increasingly ambitious forecasts by AI companies continued to support equities despite high energy prices from the blockade in the Persian Gulf and hawkish outlook for the Fed, consolidated by strong retail sales in April. Cisco was 15% up premarket after posting strong earnings and forecasts, while signaling 4,000 jobs to be cut on improved productivity. Meanwhile, Nvidia added 2% to extend its rally to 15% this month after the US cleared 10 cleared 10 Chinese firms for receiving H200 chips. The announcement took place amid President Trump's and tech CEO's visit to Beijing, so far maintaining the de-escalatory rhetoric since their trade war peaked last year."
+    },
+    {
+      "id": "4879943",
+      "time": "2026-05-14 19:22:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗官員：霍爾木茲海峽開啟新時代 昨晚以來30多艘船隻透過】伊朗國家電視臺援引伊朗伊斯蘭革命衛隊一名海軍官員報道稱，有關船只是在伊朗當局和伊朗伊斯蘭革命衛隊海軍協調下獲准透過霍爾木茲海峽的。這名官員表示：“霍爾木茲海峽已開啟一個新時代，世界上許多國家和船隊已經接受，透過這一極其重要水道的最佳、最快且最簡便方式，只有與伊朗伊斯蘭革命衛隊海軍協調。”"
+    },
+    {
+      "id": "mkt:019e2638-de06-7335-8cb0-a494e89a2224",
+      "time": "2026-05-14 19:22:01",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "RUBIO TO NBC: ARMS SALES TO TAIWAN NOT PROMINENT IN CHINA TALKS"
+    },
+    {
+      "id": "4879942",
+      "time": "2026-05-14 19:21:29",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "泰國國家石油集團（PTT）一季度營收 718.73 億泰銖，市場預期 801.54 億泰銖。"
+    },
+    {
+      "id": "4879941",
+      "time": "2026-05-14 19:21:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST葫蘆娃：股東中嘉瑞質押61.76%所持股份】ST葫蘆娃公告，中嘉瑞持有公司2752.7萬股，佔6.88%，累計質押1700萬股，佔其持股61.76%、佔總股本4.25%。質押起止日為2026年5月13日至2027年11月28日，質權人為中信金融租賃有限公司，本次質押無新增融資，係為履行《執行和解協議》分期還款提供質押擔保。"
+    },
+    {
+      "id": "mkt:019e2638-05e8-7335-8cb0-986213160389",
+      "time": "2026-05-14 19:21:06",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "RUBIO TO NBC: POLICIES ON TAIWAN 'HAVE NOT CHANGED"
+    },
+    {
+      "id": "mkt:019e2637-3e10-7335-8cb0-97fca8acc45c",
+      "time": "2026-05-14 19:20:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RUBIO TO NBC: TRUMP AND XI FOUND COMMON GROUND ON IRAN"
+    },
+    {
+      "id": "4879940",
+      "time": "2026-05-14 19:19:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【世界最大級別甲醇雙燃料集裝箱船從江蘇出江試航】世界最大級別的甲醇雙燃料集裝箱船“中遠川崎456”輪14日從江蘇南通出江，駛往海域開展首次試航作業。 “中遠川崎456”輪由南通中遠海運川崎船舶工程有限公司建造，船總長399.99米，型寬61.30米，甲板面積相當於3.5個標準足球場，最大載箱量達24168標箱。全船搭載了全球最大的甲醇雙燃料動力系統，配備甲醇雙燃料主機、輔機，可靈活切換甲醇與傳統燃油模式，使用甲醇燃料續航里程達15000海里，是目前全球在建噸位最大、技術含量最高的甲醇雙燃料動力集裝箱船之一。該輪為同系列7艘船的首艘。（中新網）"
+    },
     {
       "id": "mkt:019e2636-93f5-7335-8cb0-8bbd4556929b",
       "time": "2026-05-14 19:19:31",
@@ -140294,38 +140373,6 @@
         "公司"
       ],
       "text": "【模塑科技：控股股東模塑集團已減持1%】模塑科技公告，控股股東江陰模塑集團有限公司原計劃在減持預披露後15個交易日起3個月內透過集中競價、大宗交易減持不超2754萬股（3.00%）。2026年5月7日其集中競價減持917.99萬股，佔1.00%，均價12.95元/股，區間12.26-13.52元/股；持股降至3.29億股，佔35.81%。觸及1%整數倍後，模塑集團決定提前終止減持計劃。"
-    },
-    {
-      "id": "4866235",
-      "time": "2026-05-07 19:23:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "【宏景科技：6434.68萬股限售股5月13日上市流通】宏景科技公告稱，本次解除限售的首次公開發行前已發行的部分股份數量為6434.68萬股，佔公司總股本的41.91%，上市流通日期為2026年5月13日。申請解除限售股東共2名，分別為歐陽華、廣州慧景投資管理有限合夥，在限售期內嚴格遵守承諾。歐陽華本次解除限售的股份中有3160.60萬股存在質押情況，解除質押後方可上市流通。"
-    },
-    {
-      "id": "4866234",
-      "time": "2026-05-07 19:21:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "馬士基股價跌幅達到7%，有望創下自2025年4月以來的最大單日跌幅。"
-    },
-    {
-      "id": "4866233",
-      "time": "2026-05-07 19:20:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【可孚醫療：與專業投資機構共同設立創業投資基金】可孚醫療公告，公司作為有限合夥人，與專業投資機構共同設立的杭州拱墅區丹麓人才智慧創業投資基金合夥企業（有限合夥）已完成私募投資基金備案登記手續。基金全體合夥人認繳出資8000萬元，公司以自有資金認繳出資2000萬元，認繳出資比例為25.00%。基金管理人為廣州丹麓股權投資管理有限公司，託管人為杭州銀行股份有限公司，備案編碼為SBTV68，備案日期為2026年4月30日。"
-    },
-    {
-      "id": "4866232",
-      "time": "2026-05-07 19:20:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "【可孚醫療：累計回購1.59%公司股份，成交總金額為1.81億元】可孚醫療公告，截至2026年4月30日，公司透過回購專用證券賬戶以集中競價交易方式回購公司股份331.71萬股，佔公司A股總股本的1.59%，最高成交價為58.94元/股，最低成交價為51.57元/股，成交總金額為1.81億元（不含交易費用）。"
     }
   ]
 }
