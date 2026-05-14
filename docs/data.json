@@ -1,7 +1,39 @@
 {
-  "updated": "2026-05-14 22:45:47",
+  "updated": "2026-05-14 22:49:18",
   "count": 15479,
   "items": [
+    {
+      "id": "4880304",
+      "time": "2026-05-14 22:48:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大總理卡尼：本田暫停電動車專案的決定令人失望。"
+    },
+    {
+      "id": "4880303",
+      "time": "2026-05-14 22:47:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國財長貝森特：伊朗石油儲存已耗盡，將被迫停產】美國財長貝森特表示，伊朗的石油儲存已滿，德黑蘭將需要停止石油生產。在美國對伊朗石油出口實施封鎖後，這場衝突的關鍵問題在於：伊朗無法出口的石油還能存放多久才會耗盡空間。部分分析師認為，伊朗仍有幾周的儲存能力，德黑蘭已開始緩慢減產以應對這一僵局。貝森特在接受CNBC節目《財經論壇》採訪時表示，過去三天，由於美國的封鎖阻止油輪進出波斯灣，伊朗一直無法在其主要石油出口終端哈爾克島裝載油輪。在美國實施封鎖的第一個月內，美軍已迫使70艘據稱正駛往或駛離伊朗港口的船隻改變航線。"
+    },
+    {
+      "id": "4880302",
+      "time": "2026-05-14 22:46:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗：伊朗稱美國的襲擊旨在破壞亞洲一體化】據伊朗半官方的伊朗學生通訊社報道，伊朗最高國家安全委員會外交政策副主管Ali Bagheri Kani在金磚國家外長會議上表示，美國對伊朗的攻擊旨在“破壞亞洲一體化”。Bagheri稱，這場戰爭標誌著“對全球南方攻擊的開始”，如果置之不理，攻擊將會蔓延。"
+    },
+    {
+      "id": "4880301",
+      "time": "2026-05-14 22:45:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "廣東合捷電器股份有限公司向港交所提交上市申請書。"
+    },
     {
       "id": "4880300",
       "time": "2026-05-14 22:45:14",
@@ -139951,42 +139983,6 @@
         "Importance 1"
       ],
       "text": "US Natgas Prices Rise after EIA Data — US natural gas futures climbed more than 2% to $2.79 per MMBtu after the Energy Information Administration reported a smaller than expected storage build. Utilities injected 63 billion cubic feet of gas into storage in the week ended May 1, below forecasts of 74 bcf and lower than both last year’s 104 bcf increase and the five year average of 77 bcf. Production in the Lower 48 states is also trending lower, with output expected to fall to a one week low as weak spot prices have prompted producers including EQT Corporation to scale back supply while waiting for stronger prices. Weather forecasts suggest mostly seasonal conditions through May 22, with cooling demand beginning to exceed heating demand. Meanwhile, gas flows to major US LNG export plants eased from April’s record levels due to routine spring maintenance."
-    },
-    {
-      "id": "te:markets:548836",
-      "time": "2026-05-07 22:48:19",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Mexico",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Mexican Peso Strengthens Ahead of Banxico Decision — The Mexican peso strengthened to 17.2 per USD in the first week of May, reaching its strongest level since late February, as softer oil prices and easing inflation expectations weighed on the US dollar and supported market sentiment. Investors also awaited the Bank of Mexico’s monetary policy decision, with markets widely expecting another interest rate cut. Mexico’s economy contracted by 0.8% in the first quarter of 2026, a sharper decline than forecasts for a 0.5% drop, signaling broad-based weakness across the economy. Manufacturing and services both posted steep contractions, while extractive industries also declined despite higher oil and silver prices. The weak economic data reinforced expectations that Banxico will continue its monetary easing cycle this year, after the central bank unexpectedly cut interest rates in March despite persistent inflationary pressures."
-    },
-    {
-      "id": "4866674",
-      "time": "2026-05-07 22:48:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀向上觸及82美元/盎司，為4月17日以來新高，日內漲6.03%。"
-    },
-    {
-      "id": "4866673",
-      "time": "2026-05-07 22:46:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中科電氣：硬碳負極已量產 矽碳負極已完成中試產線建設】5月7日，中科電氣(300035)在2025年度業績說明會上表示，公司硬碳負極材料已實現量產，並向行業頭部客戶供貨；矽碳負極已建設完成中試產線，且有產品在多家客戶測評透過，準備進入量產匯入階段。"
-    },
-    {
-      "id": "4866672",
-      "time": "2026-05-07 22:46:18",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內漲6%，現報81.96美元/盎司。"
     }
   ]
 }
