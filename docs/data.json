@@ -1,7 +1,59 @@
 {
-  "updated": "2026-05-15 04:05:36",
-  "count": 15139,
+  "updated": "2026-05-15 04:09:06",
+  "count": 15141,
   "items": [
+    {
+      "id": "mkt:019e281a-baa0-7bb5-b4d2-945036b2d49d",
+      "time": "2026-05-15 04:08:20",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "MICROSOFT ANNOUNCES APPOINTMENT OF CARMINE DI SIBIO TO BOARD OF DIRECTORS MICROSOFT - BOARD OF DIRECTORS EXPANDED TO 13 MEMBERS"
+    },
+    {
+      "id": "4880574",
+      "time": "2026-05-15 04:08:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟：董事會規模擴至13人。"
+    },
+    {
+      "id": "4880573",
+      "time": "2026-05-15 04:08:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "微軟宣佈任命卡明・迪・西比奧為公司董事。"
+    },
+    {
+      "id": "4880572",
+      "time": "2026-05-15 04:07:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：CODEX模型將接入ChatGPT移動應用程式。"
+    },
+    {
+      "id": "4880571",
+      "time": "2026-05-15 04:07:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【應用材料第二財季淨銷售79.1億美元，高於市場預期】應用材料第二財季淨銷售79.1億美元，分析師預期76.7億美元；第二財季半導體系統淨銷售59.7億美元，符合分析師預期；預計第三財季淨銷售84.5億-94.5億美元，分析師預期81.5億美元。"
+    },
+    {
+      "id": "4880570",
+      "time": "2026-05-15 04:05:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "AARDVARK股價在FDA暫停臨床試驗後下跌22%。"
+    },
     {
       "id": "te:markets:550831",
       "time": "2026-05-15 04:05:21",
@@ -136710,44 +136762,6 @@
         "Importance 0"
       ],
       "text": "Gilead Sciences earnings above expectations at 2.03 USD — Gilead Sciences (GILD) released earnings per share at 2.03 USD, compared to market expectations of 1.9 USD."
-    },
-    {
-      "id": "mkt:019e040e-05c0-7775-8cba-929acdafe9c5",
-      "time": "2026-05-08 04:08:08",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "COREWEAVE: STRONGEST BOOKINGS QUARTER IN COREWEAVE'S HISTORY"
-    },
-    {
-      "id": "mkt:019e040d-fe81-7775-8cba-8ea3a8d17fef",
-      "time": "2026-05-08 04:08:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "COREWEAVE 1Q ADJ. EBITDA $1.16B, EST. $1.14B COREWEAVE 1Q LOSS/SHR $1.40, EST. LOSS/SHR $1.20 COREWEAVE INC Q1 REVENUE USD 2,078 MILLION VS. IBES ESTIMATE USD 1,965 MILLION COREWEAVE 1Q REV. $2.08B, EST. $1.97B COREWEAVE 1Q NET LOSS $740M, EST. LOSS $628.2M"
-    },
-    {
-      "id": "4867124",
-      "time": "2026-05-08 04:07:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "CoreWeave一季度營收20.78億美元，IBES預期19.65億美元。"
-    },
-    {
-      "id": "te:markets:548892",
-      "time": "2026-05-08 04:07:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Trade Desk earnings above expectations at 0.28 USD — Trade Desk (TTD) released earnings per share at 0.28 USD, compared to market expectations of 0.121 USD."
     }
   ]
 }
