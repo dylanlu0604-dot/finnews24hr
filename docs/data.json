@@ -1,7 +1,37 @@
 {
-  "updated": "2026-05-15 00:42:26",
-  "count": 15394,
+  "updated": "2026-05-15 00:45:58",
+  "count": 15382,
   "items": [
+    {
+      "id": "4880411",
+      "time": "2026-05-15 00:45:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "英鎊跌至一個月低點。"
+    },
+    {
+      "id": "mkt:019e275e-ed71-7bb5-b4d0-e117b8d72143",
+      "time": "2026-05-15 00:43:05",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "MANCHESTER MAYOR BURNHAM DECLARES CANDIDACY FOR UK PARLIAMENT"
+    },
+    {
+      "id": "mkt:019e275e-9f48-7bb5-b4d0-dd49417a9d91",
+      "time": "2026-05-15 00:42:53",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "ISRAELI CHANNEL 12 CITING A SECURITY SOURCE: NAVY COMMANDOS WILL SEIZE THE FREEDOM FLOTILLA SHIPS BEFORE THEY REACH THEIR TARGET"
+    },
     {
       "id": "4880410",
       "time": "2026-05-15 00:38:49",
@@ -139097,144 +139127,6 @@
         "國際"
       ],
       "text": "歐洲半導體概念股漲跌各異，Suess MicroTec AG收漲8.66%，Soitec漲2.66%，阿斯麥控股則跌0.38%，ASM國際跌1.45%，德國愛思強跌1.94%。"
-    },
-    {
-      "id": "4866867",
-      "time": "2026-05-08 00:45:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴林常駐聯合國代表表示，美國與阿拉伯國家聯合提出的霍爾木茲海峽聯合國決議草案，體現了各方對和平解決爭端的承諾。"
-    },
-    {
-      "id": "4866866",
-      "time": "2026-05-08 00:45:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國得克薩斯州衛生部：這兩名人員未出現任何症狀，且在乘坐“亨德里厄斯”號探險郵輪期間未與任何患病人員接觸。"
-    },
-    {
-      "id": "mkt:019e0354-0a33-7775-8cb5-e1b8a8a7adc9",
-      "time": "2026-05-08 00:44:59",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "BP.N"
-      ],
-      "text": "BP CEO MEG O'NEILL SAYS IN COMPANY-WIDE CALL THAT UPSTREAM, DOWNSTREAM REORGANISATION TO BEGIN IN JUNE - SOURCES"
-    },
-    {
-      "id": "4866865",
-      "time": "2026-05-08 00:44:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "據訊息人士透露，英國石油執行長梅格·奧尼爾在全員電話會議上表示，上游與下游業務重組將於6月啟動。"
-    },
-    {
-      "id": "4866864",
-      "time": "2026-05-08 00:44:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "美油抹去跌幅，回升至每桶 95 美元上方。"
-    },
-    {
-      "id": "mkt:019e0353-969e-7775-8cb5-d9c20be34981",
-      "time": "2026-05-08 00:44:29",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "EUROPEAN COUNCIL PRESIDENT ANTONIO COSTA SAYS BLOC HAS KYIV’S SUPPORT FOR SEEKING TO NEGOTIATE WITH RUSSIAN PRESIDENT- FT"
-    },
-    {
-      "id": "4866863",
-      "time": "2026-05-08 00:44:25",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國財長貝森特會見了各州保險公司負責人，討論私人信貸問題。"
-    },
-    {
-      "id": "mkt:019e0353-705c-7775-8cb5-d5f6aa776f8e",
-      "time": "2026-05-08 00:44:20",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Europe & UK",
-        "Policy",
-        "Breaking News 24h"
-      ],
-      "text": "【EU Explores Potential Talks With Putin Amid Frustration Over Stalled Ukraine Negotiations】European Council President António Costa said EU leaders are preparing for possible negotiations with Vladimir Putin as frustration grows over stalled US-led efforts to end the war in Ukraine. Costa said Ukrainian President Volodymyr Zelenskyy supports EU readiness to contribute to negotiations, though there is no indication Moscow is prepared to engage with the bloc. The EU is seeking a coordinated approach while avoiding disruption to President Donald Trump’s diplomatic process. Zelenskyy also said Ukrainian officials are meeting US envoys to revive talks that have stalled since Trump launched military action against Iran."
-    },
-    {
-      "id": "4866862",
-      "time": "2026-05-08 00:44:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "【阿根廷首都及周邊地區遭遇極端天氣】阿根廷首都布宜諾斯艾利斯市及周邊地區7日迎來強風降雨天氣，致街道被淹，部分割槽域停電。"
-    },
-    {
-      "id": "4866861",
-      "time": "2026-05-08 00:44:02",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲戴利：政策制定者的講話有助於闡釋聯邦公開市場委員會可能做出的應對舉措。"
-    },
-    {
-      "id": "4866860",
-      "time": "2026-05-08 00:43:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐洲理事會主席安東尼奧·科斯塔稱，歐盟尋求與俄羅斯總統談判得到了烏克蘭的支援。"
-    },
-    {
-      "id": "4866859",
-      "time": "2026-05-08 00:43:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國得克薩斯州衛生部門：兩名曾乘坐“洪迪厄斯”號郵輪的得克薩斯州居民，在漢坦病毒疫情被發現前已返回美國。"
-    },
-    {
-      "id": "4866858",
-      "time": "2026-05-08 00:43:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "一名歐盟高階官員表示，歐洲各國首都立場逐漸出現鬆動，歐盟領導人正著手籌備與俄羅斯總統弗拉基米爾・普京開展潛在談判。"
-    },
-    {
-      "id": "mkt:019e0352-248e-7775-8cb5-cfe671244c25",
-      "time": "2026-05-08 00:42:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "EU PREPARES FOR ‘POTENTIAL’ TALKS WITH VLADIMIR PUTIN, SAYS OFFICIAL- FT"
-    },
-    {
-      "id": "4866857",
-      "time": "2026-05-08 00:42:34",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲戴利：預測情景模型有助於傳達利率前景。"
     }
   ]
 }
