@@ -1,7 +1,70 @@
 {
-  "updated": "2026-05-14 10:25:57",
-  "count": 15323,
+  "updated": "2026-05-14 10:29:26",
+  "count": 15324,
   "items": [
+    {
+      "id": "mkt:019e2451-303e-777f-be5a-62d84e24aa0e",
+      "time": "2026-05-14 10:29:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "XI, TO TRUMP: STABILITY OF SINO-US RELATIONS IS A GOOD THING FOR THE WORLD"
+    },
+    {
+      "id": "mkt:019e2451-26f2-777f-be5a-593cbdccb253",
+      "time": "2026-05-14 10:29:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "XI, TO TRUMP: SUCCESS OF CHINA AND THE UNITED STATES IS AN OPPORTUNITY FOR EACH OTHER"
+    },
+    {
+      "id": "mkt:019e2451-1560-777f-be5a-551e468d897e",
+      "time": "2026-05-14 10:29:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "XI, TO TRUMP: I HAVE ALWAYS BELIEVED THAT THE COMMON INTERESTS BETWEEN CHINA AND THE UNITED STATES OUTWEIGH THE DIFFERENCES"
+    },
+    {
+      "id": "mkt:019e2450-d762-777f-be5a-4f5de73a0626",
+      "time": "2026-05-14 10:28:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "CHINA'S XI, TO TRUMP: PLEASURE TO MEET YOU IN BEIJING. THIS IS YOUR FIRST VISIT TO CHINA IN NINE YEARS"
+    },
+    {
+      "id": "4878958",
+      "time": "2026-05-14 10:28:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：紐約和加州的養老金計劃要求馬斯克放棄SpaceX的“極端”治理結構。"
+    },
+    {
+      "id": "4878957",
+      "time": "2026-05-14 10:27:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "光迅科技成交額達100億元，現漲近6%。"
+    },
+    {
+      "id": "te:markets:550509",
+      "time": "2026-05-14 10:25:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "CNOOC Stock Price Hits 4-week Low — CNOOC shares decreased to 26.20 HKD, the lowest since April 2026. Over the past 4 weeks, CNOOC lost 1.43%, and in the last 12 months, it increased 48.64%."
+    },
     {
       "id": "4878956",
       "time": "2026-05-14 10:24:13",
@@ -137957,58 +138020,6 @@
         "Importance 1"
       ],
       "text": "Offshore Yuan Extends Rally to Over 3-Year High — The offshore yuan strengthened to around 6.80 per dollar on Thursday, extending its rally for a third straight session and reaching its strongest level since February 2023, as risk sentiment firmed amid growing optimism over a potential diplomatic breakthrough between Washington and Tehran. Reports indicated that the US and Iran are close to finalizing a one-page memorandum designed to halt weeks of hostilities, paving the way for the reopening of the Strait of Hormuz, easing disruptions to oil flows, and improving global growth prospects. Investors are also watching a highly anticipated summit next week between Trump and Chinese President Xi Jinping, previously postponed amid heightened geopolitical tensions tied to the Middle East war. Meanwhile, China’s financial regulator reportedly told major lenders to suspend new financing to five refineries sanctioned by the US over alleged Iranian oil ties, contrasting with earlier guidance from Beijing urging firms to ignore US sanctions."
-    },
-    {
-      "id": "4864862",
-      "time": "2026-05-07 10:29:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際錫業協會（ITA）：2026年全球錫消費量將同比下降0.7%。"
-    },
-    {
-      "id": "4864859",
-      "time": "2026-05-07 10:29:15",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根大通：建議投資者關注比亞迪、吉利和小鵬等海外營收高或增長迅速的新能源汽車企業。"
-    },
-    {
-      "id": "te:economy:548557",
-      "time": "2026-05-07 10:29:06",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Philippines",
-        "GDP Growth Rate",
-        "Importance 0"
-      ],
-      "text": "Philippine Economy Expands 0.9% QoQ — The Philippine economy expanded 0.9% quarter-on-quarter in Q1 2026, missing expectations of 1.5% growth but slightly accelerating from a 0.6% expansion in Q4. Growth in household consumption slowed (0.7% vs 1.0% in Q4), while net trade weighed heavily on the economy as imports surged 13.5% (vs -2.2%) and export growth eased to 1.2% (vs 5.4%). Meanwhile, government spending accelerated (6.0% vs 1.0%), while fixed investment rebounded (0.9% vs -2.3%). Among major sectors, services growth eased (0.9% vs 1.3%), while activity rebounded in agriculture, forestry, and fishing (0.6% vs -0.6%) and industry (1.2% vs -0.6%)."
-    },
-    {
-      "id": "4864854",
-      "time": "2026-05-07 10:28:13",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根大通：預計到2028年，中國汽車製造商在西歐的乘用車銷量可能達到約250萬輛，高於去年的約100萬輛。"
-    },
-    {
-      "id": "4864852",
-      "time": "2026-05-07 10:27:37",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根大通表示，預計到2028年，中國汽車製造商將佔據西歐市場20%的份額。"
-    },
-    {
-      "id": "4864847",
-      "time": "2026-05-07 10:26:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "菲律賓經濟計劃部長：我們將下調增長目標。"
     }
   ]
 }
