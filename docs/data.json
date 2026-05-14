@@ -1,7 +1,193 @@
 {
-  "updated": "2026-05-14 11:14:45",
-  "count": 15337,
+  "updated": "2026-05-14 11:22:54",
+  "count": 15345,
   "items": [
+    {
+      "id": "4879029",
+      "time": "2026-05-14 11:21:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普說訪問中國非常榮幸。（央視新聞）"
+    },
+    {
+      "id": "mkt:019e2480-d4c9-777f-be5b-3aa3c43f0ffe",
+      "time": "2026-05-14 11:20:55",
+      "tags": [
+        "MKT News",
+        "005930.KS"
+      ],
+      "text": "SAMSUNG UNION LEADER SAYS NO REASON TO HAVE PAY TALKS SHOULD COMPANY NOT MAKE BONUS SCHEME TRANSPARENT AND BINDING"
+    },
+    {
+      "id": "4879028",
+      "time": "2026-05-14 11:19:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【vivo Pocket 雲臺相機由立訊精密代工】從知情人士處獲悉，vivo手持雲臺相機由立訊精密代工。近日，市場訊息顯示，vivo Pocket手持雲臺相機或於今年第四季度釋出，上市視窗期預計落在11—12月，目前vivo對該產品的備貨預期約百萬臺。（藍鯨新聞）"
+    },
+    {
+      "id": "4879027",
+      "time": "2026-05-14 11:18:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普表示，中美兩國有著美好的未來。（央視新聞）"
+    },
+    {
+      "id": "mkt:019e247e-7a21-777f-be5b-360cd92e6b50",
+      "time": "2026-05-14 11:18:47",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "0522.HK",
+        "Impact bearish",
+        "1347.HK",
+        "Hang Seng Index"
+      ],
+      "text": "HONG KONG CHIP STOCKS FALL: ASMPT AND HUAHONG SEMICONDUCTOR DROP OVER 5%, HORIZON ROBOTICS, BIREN TECHNOLOGY FALL OVER 4%"
+    },
+    {
+      "id": "4879026",
+      "time": "2026-05-14 11:18:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "【習近平：中美經貿關係的本質是互利共贏】5月14日上午，國家主席習近平在北京人民大會堂同來華進行國事訪問的美國總統特朗普舉行會談。習近平指出，事實一再證明，貿易戰沒有贏家，中美經貿關係的本質是互利共贏，面對分歧和摩擦，平等協商是唯一正確選擇。昨天，雙方經貿團隊達成了總體平衡積極的成果，對兩國老百姓、對世界都是好訊息。雙方應一道維護好當前來之不易的良好勢頭。 (新華社)"
+    },
+    {
+      "id": "mkt:019e247e-0fde-777f-be5b-2e59d5b0799d",
+      "time": "2026-05-14 11:18:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "S&P500",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "CHINA'S XI: BOTH TRADE TEAMS HAVE REACHED 'GENERALLY BALANCED, POSITIVE RESULTS'"
+    },
+    {
+      "id": "te:markets:550521",
+      "time": "2026-05-14 11:18:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Palm Oil Remains Weak — Malaysian palm oil futures traded below MYR 4,450 per tonne, extending losses that began in early May and notching their lowest level in a month. A stronger ringgit weighed on sentiment, alongside weakness in rival edible oils traded on the Dalian and Chicago exchanges. So far this week, contracts have declined around 2.2%, dragged by softer demand in the key buyer India. According to the Mumbai-based Solvent Extractors’ Association of India, the country’s palm oil imports plunged 26% in April from the prior month to the lowest level in four months, as weak institutional demand and a recent price rally narrowed palm oil’s discount against competing oils, discouraging refiners from increasing purchases. Meanwhile, export signals for May were mixed: AmSpec Agri noted shipments down 10.8%, while Intertek reported an 8.5% rise. Traders now keep an eye on a Beijing summit between U.S. President Trump and China’s Xi Jinping, with agricultural trade expected to stay in focus."
+    },
+    {
+      "id": "4879025",
+      "time": "2026-05-14 11:17:53",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "特朗普：美國大公司的企業家都想來中國，但二三把手我都不讓他們來。（中國新聞網）"
+    },
+    {
+      "id": "mkt:019e247d-9c37-777f-be5b-27d4b04a0e06",
+      "time": "2026-05-14 11:17:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "CHINA'S XI: NO WINNER IN A TRADE WAR"
+    },
+    {
+      "id": "mkt:019e247c-cc02-777f-be5b-1ba477ae28e3",
+      "time": "2026-05-14 11:16:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "SOUTHBOUND NET SELLING VIA STOCK CONNECT REACHED HKD5 BLN"
+    },
+    {
+      "id": "mkt:019e247c-8f5e-777f-be5b-14ba7f23a932",
+      "time": "2026-05-14 11:16:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bearish"
+      ],
+      "text": "SHENZHEN COMPONENT INDEX DOWN OVER 2%"
+    },
+    {
+      "id": "4879024",
+      "time": "2026-05-14 11:16:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "【恒生科技指數轉跌，開盤漲超3%】港股持續回落，恒生科技指數轉跌，開盤漲超3%，恒生指數漲幅收窄至0.2%。"
+    },
+    {
+      "id": "4879023",
+      "time": "2026-05-14 11:16:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深證成指跌2.00%，現報15767.156點；上證指數跌1.34%，現報4185.776點；創業板指跌2.46%，現報3939.041點。"
+    },
+    {
+      "id": "4879022",
+      "time": "2026-05-14 11:15:51",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【習近平：中美經貿關係的本質是互利共贏】5月14日上午，國家主席習近平在北京人民大會堂同來華進行國事訪問的美國總統特朗普舉行會談。習近平：中美經貿關係的本質是互利共贏。（央視新聞）"
+    },
+    {
+      "id": "mkt:019e247b-8a1d-777f-be5b-0d8a3cdc2f50",
+      "time": "2026-05-14 11:15:36",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "Magnificent 7",
+        "Star Stocks",
+        "Tesla",
+        "Xiaomi",
+        "TSLA.O",
+        "Impact bullish",
+        "1211.HK",
+        "NIO.O"
+      ],
+      "text": "【Chinese EV makers lift prices across models amid broader industry repricing — Beijing Daily】A number of Chinese electric vehicle manufacturers have signalled price increases or reduced discounts, with more than 10 automakers adjusting pricing, cutting incentives or planning hikes in Q2, according to Beijing Daily. BYD raised prices of selected smart driving optional packages by over 2,000 yuan, while Changan Qiyuan increased prices of its intelligent laser edition by 3,000 yuan. Xiaomi raised prices of its new SU7 lineup by 4,000 yuan. Tesla increased prices of its Model Y Long Range and Performance variants by 18,000 yuan and 20,000 yuan respectively. NIO and Xpeng also indicated plans to raise prices in Q2. Tesla, Zeekr and Avatr have tightened zero-interest financing schemes, effectively increasing purchase costs. (Source: Beijing Daily)"
+    },
+    {
+      "id": "4879021",
+      "time": "2026-05-14 11:15:25",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨賣出額達50億港元。"
+    },
+    {
+      "id": "4879020",
+      "time": "2026-05-14 11:15:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【小米特斯拉比亞迪漲價】近期，繼比亞迪之後，多家新能源車企釋放調價訊號，或直接上調部分車型售價，或逐步縮減終端購車優惠，開啟低調的“漲價”試探。據不完全統計，近期已有10餘家新能源車企公告調整價格、縮減優惠或計劃二季度上調價格。比亞迪對旗下部分車型智慧駕駛選裝包價格上調2000餘元，長安啟源智慧鐳射版價格上調3000元，小米新一代SU7全系漲價4000元，特斯拉ModelY長續航版及高效能版分別上調1.8萬元和2萬元。另外，蔚來、小鵬透露計劃二季度上調車型價格。特斯拉、極氪、阿維塔等品牌已收緊金融免息購車政策，購車隱性成本上升。（北京日報）"
+    },
     {
       "id": "4879019",
       "time": "2026-05-14 11:13:43",
@@ -138106,86 +138292,6 @@
         "市場"
       ],
       "text": "【港股晶片股繼續拉昇，壁仞科技漲超10%】港股晶片股繼續拉昇，壁仞科技漲超10%，華虹半導體漲超6%，納芯微、天數智芯、愛芯元智跟漲。"
-    },
-    {
-      "id": "4865098",
-      "time": "2026-05-07 11:22:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "宏達電第一季度淨虧損2.417億臺幣，上年同期為淨利潤40.5億臺幣。"
-    },
-    {
-      "id": "4865096",
-      "time": "2026-05-07 11:22:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "【“中國天眼”關鍵部件實現“中國造”】近日，被譽為“中國天眼”的500米口徑球面射電望遠鏡啟動饋源驅動鋼絲繩更換工作。“中國天眼”的饋源艙重達30噸，6根鋼絲繩能以極高精度牽引這隻“眼球”，在140米高空、206米尺度範圍內實現實時定位，被稱為“中國天眼”的“眼部肌肉”。此前該部件依賴進口，2023年1月研究團隊啟動自主研發，經3輪迭代、6.2萬次滑輪執行及20萬次脈衝疲勞試驗，於2025年8月成功實現國產化。目前6根國產鋼絲繩已運抵現場，更換工作預計持續至6月下旬。此次國產化替代不僅解決了供應鏈安全問題，更建立了從材料、制繩、評價到檢測的完整技術體系，為其他重大科技基礎設施的國產化提供了可複製的經驗。"
-    },
-    {
-      "id": "4865094",
-      "time": "2026-05-07 11:21:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【東風公司申請註冊“奕境汽車”商標】天眼查智慧財產權資訊顯示，近日，東風汽車集團有限公司申請註冊多枚“奕境汽車”商標，國際分類包括運輸工具、建築修理、運輸貯藏等，當前商標狀態均為等待實質審查。 公開資料顯示，奕境是東風汽車集團與華為合作推出的中高階智慧化汽車品牌。"
-    },
-    {
-      "id": "4865093",
-      "time": "2026-05-07 11:21:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "遊戲驛站執行長稱其eBay賬戶已被暫停。"
-    },
-    {
-      "id": "4865082",
-      "time": "2026-05-07 11:20:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟輪值主席國塞普勒斯表示：歐盟各成員國與歐洲議會談判代表已達成共識，禁止使用人工智慧應用製作未經當事人同意的色情深度偽造影像。"
-    },
-    {
-      "id": "4865075",
-      "time": "2026-05-07 11:18:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【盈新發展等成立科技文化公司，含多項AI業務】企查查APP顯示，近日，盈新視藝科技文化（深圳）有限責任公司成立，法定代表人為葉鵬，經營範圍包含：人工智慧基礎軟體開發；人工智慧應用軟體開發；智慧機器人的研發；智慧機器人銷售；智慧無人飛行器銷售等。企查查股權穿透顯示，該公司由盈新發展全資子公司深圳盈新數科具身智慧有限公司、江西視藝科技有限責任公司共同持股。"
-    },
-    {
-      "id": "4865073",
-      "time": "2026-05-07 11:18:20",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【2026年清理整頓人力資源市場秩序專項行動部署開展】記者5月7日從人力資源社會保障部獲悉，國務院就業促進和勞動保護工作領導小組辦公室近日印發通知，自2026年4月至7月，在全國範圍部署開展2026年清理整頓人力資源市場秩序專項行動。 本次專項行動圍繞落實就業促進、勞動保障等領域相關法律法規，集中糾治侵害勞動者公平就業權益、擾亂就業市場秩序的各類突出違法行為，嚴格規範網路招聘秩序，強化網路招聘服務許可制度管理，規範網路招聘類資訊釋出；集中整治“招轉培（貸）”欺詐，重點打擊以招聘為名誘騙求職者參與付費培訓亂象；著力整治虛假招聘，清理“央國企內推”“保錄直籤”等虛假招聘資訊；規範勞務派遣用工，重點查處未經許可擅自經營勞務派遣、“假外包、真派遣”問題；依法糾治各類就業歧視行為。 各地區和相關部門將全面摸排本地區、本領域招聘市場風險，主動公開舉報投訴渠道，面向社會徵集問題線索，對查證屬實的違法違規行為，堅決從嚴從實處置，切實維護好勞動者公平就業權益。(新華社)"
-    },
-    {
-      "id": "4865070",
-      "time": "2026-05-07 11:17:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本敦促關鍵基礎設施供應商開展系統檢查，以應對利用人工智慧發起的潛在網路攻擊。"
-    },
-    {
-      "id": "4865058",
-      "time": "2026-05-07 11:15:17",
-      "tags": [
-        "市場"
-      ],
-      "text": "【臺灣四大主機板製造商大幅下調出貨目標】受英偉達GPU更新放緩，CPU、記憶體雙雙缺貨漲價影響，臺灣地區四大主機板製造商華碩、技嘉、微星、華擎近日將2025年底所設下的2026全年出貨目標全線大幅下調。其中，華碩將首度面臨主機板千萬片保衛戰，微星、技嘉確定跌破千萬片大關，減少約25%，華擎跌幅預計將超過3成。"
-    },
-    {
-      "id": "4865056",
-      "time": "2026-05-07 11:15:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗否認其武裝部隊曾在霍爾木茲海峽襲擊韓國船隻。"
     }
   ]
 }
