@@ -1,7 +1,43 @@
 {
-  "updated": "2026-05-14 09:09:49",
-  "count": 15365,
+  "updated": "2026-05-14 09:13:20",
+  "count": 15358,
   "items": [
+    {
+      "id": "mkt:019e240a-928e-777f-be59-302df4ca43b6",
+      "time": "2026-05-14 09:12:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "CHINESE PRESIDENT XI WILL HOLD A WELCOMING CEREMONY FOR US PRESIDENT TRUMP AT EAST PLAZA OF GREAT HALL OF THE PEOPLE IN BEIJING ON THE MORNING OF MAY 14 - CCTV"
+    },
+    {
+      "id": "4878846",
+      "time": "2026-05-14 09:10:30",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【習近平將舉行儀式歡迎美國總統特朗普訪華】今天上午，國家主席習近平將在北京人民大會堂東門外廣場舉行儀式，歡迎美國總統特朗普訪華。（央視）"
+    },
+    {
+      "id": "4878845",
+      "time": "2026-05-14 09:10:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：與韓國討論了關鍵礦產問題。"
+    },
+    {
+      "id": "4878844",
+      "time": "2026-05-14 09:09:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：注意到韓國強勁的經濟表現。"
+    },
     {
       "id": "mkt:019e2408-360d-777f-be59-2e42552f8e26",
       "time": "2026-05-14 09:09:38",
@@ -138141,106 +138177,6 @@
         "公司"
       ],
       "text": "【犀裡光電完成新一輪融資，聯想創投參與】5月7日，薄膜鈮酸鋰片上系統光子引擎提供商犀裡光電科技（杭州）有限責任公司宣佈完成新一輪融資，聯想創投入局，老股東元禾原點跟投。本輪融資將主要用於提升薄膜鈮酸鋰光子晶片平臺的整合度與工程化能力，推進核心工藝迭代、晶圓級製造及量產驗證，並進一步探索與光模組、AI資料中心、通訊裝置等下游產業夥伴的合作落地，推動光子整合晶片在AI算力互聯和下一代通訊網路中的實際應用。"
-    },
-    {
-      "id": "4864515",
-      "time": "2026-05-07 09:13:08",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4720美元/盎司，日內漲0.56%。"
-    },
-    {
-      "id": "4864514",
-      "time": "2026-05-07 09:13:08",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4720美元/盎司，日內漲0.56%。"
-    },
-    {
-      "id": "4864513",
-      "time": "2026-05-07 09:13:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4710美元/盎司，日內漲0.42%。"
-    },
-    {
-      "id": "te:economy:548515",
-      "time": "2026-05-07 09:12:47",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Interest Rate",
-        "Importance 1"
-      ],
-      "text": "BoJ Flags Energy-Driven Inflation Risk in March Minutes — Many Bank of Japan board members saw a need for further rate hikes should the Iran war-driven energy shock persist and fuel broader inflation pressures, minutes from the March meeting showed. While policymakers agreed temporary supply disruptions from Middle East tensions could be overlooked, they cautioned that a prolonged rise in energy costs risked second-round effects on expectations and underlying prices. One member urged raising rates “without long intervals,” while another pressed for tightening “without hesitation” if the economy avoided major damage. The BoJ left its short-term policy rate unchanged at 0.75% at the March 18–19 meeting, the first after U.S.–Israeli strikes on Iran. At its April gathering, the central bank again held steady, though a more hawkish divide underscored growing concern over mounting inflationary pressures from higher fuel costs and lingering price gains."
-    },
-    {
-      "id": "4864512",
-      "time": "2026-05-07 09:12:43",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "錫連續主力合約日內漲5%，現報425120.00元。"
-    },
-    {
-      "id": "4864511",
-      "time": "2026-05-07 09:12:06",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "甲醇連續主力合約日內跌3%，現報2943.00元。"
-    },
-    {
-      "id": "4864510",
-      "time": "2026-05-07 09:12:06",
-      "tags": [
-        "市場"
-      ],
-      "text": "臺幣兌美元上漲0.3%至31.392。"
-    },
-    {
-      "id": "4864509",
-      "time": "2026-05-07 09:11:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "執行長表示，新加坡大華銀行計劃到2030年將財富管理收入翻一番。"
-    },
-    {
-      "id": "4864508",
-      "time": "2026-05-07 09:11:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "【京東方A：受儲存漲價影響 終端廠商與面板廠商在部分產品類別將承受一定壓力】京東方A(000725)5月6日接受機構調研，就儲存漲價對顯示行業的影響，公司表示，受儲存漲價對消費電子衝擊的影響，預計終端廠商與面板廠商在部分產品類別將承受一定壓力。分產品類別來看，對膝上型電腦和智慧手機終端需求有可能產生一定程度的影響；綜合考慮TV面積需求增長等因素，對電視終端需求影響有限。"
-    },
-    {
-      "id": "4864507",
-      "time": "2026-05-07 09:10:56",
-      "tags": [
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "【中金財富期貨：特朗普稱美伊對話有成效，伊朗同意不擁核，黃金市場受影響】特朗普稱，美伊過去24小時進行了非常有成效的對話，伊朗已同意不擁有核武；可能下週他外訪前籤協議。受此影響，黃金一改近期疲弱態勢。考慮到之前美伊談判目標差異巨大，目前即使能達成協議，時間週期仍不容小覷，油價真正下行要等到霍爾木茲海峽徹底開放，目前位置的黃金參與難度較大，價值不大。"
-    },
-    {
-      "id": "4864506",
-      "time": "2026-05-07 09:10:55",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "上海原油連續主力合約日內跌5%，現報633.70元。"
     }
   ]
 }
