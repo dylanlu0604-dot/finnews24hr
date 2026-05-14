@@ -1,7 +1,27 @@
 {
-  "updated": "2026-05-15 00:21:04",
-  "count": 15423,
+  "updated": "2026-05-15 00:24:38",
+  "count": 15421,
   "items": [
+    {
+      "id": "4880402",
+      "time": "2026-05-15 00:24:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍：作為針對無人機威脅應對體系完善與擴容工作的一部分，以軍由陸軍技術部門牽頭，正向部署在黎巴嫩的部隊配發防禦爆炸無人機的防護網。"
+    },
+    {
+      "id": "te:markets:550817",
+      "time": "2026-05-15 00:22:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "currency",
+        "Importance 1"
+      ],
+      "text": "British Pound Hits 4-week Low — GBPUSD decreased to 1.34, the lowest since April 2026. Over the past 4 weeks, British Pound US Dollar lost 0.81%, and in the last 12 months, it increased 1.1%."
+    },
     {
       "id": "4880401",
       "time": "2026-05-15 00:18:17",
@@ -139480,39 +139500,6 @@
         "其他"
       ],
       "text": "英偉達漲幅擴大。"
-    },
-    {
-      "id": "4866830",
-      "time": "2026-05-08 00:24:22",
-      "tags": [
-        "市場"
-      ],
-      "text": "Hawkeye 360在紐交所上市首日開盤價為33.8美元，高於其每股26美元的首次公開發行定價。"
-    },
-    {
-      "id": "mkt:019e033f-b43f-7775-8cb5-51da43f79758",
-      "time": "2026-05-08 00:22:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. SUPREME COURT JUSTICES WILL APPEAR BEFORE SENATE APPROPRIATORS ON MAY 20 -PUNCHBOWL"
-    },
-    {
-      "id": "4866829",
-      "time": "2026-05-08 00:22:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國最高法院大法官將於5月20日出席參議院撥款委員會聽證會。"
-    },
-    {
-      "id": "4866828",
-      "time": "2026-05-08 00:21:47",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國參議員懷登就關稅退稅權益問題向傑富瑞集團提出質詢。"
     }
   ]
 }
