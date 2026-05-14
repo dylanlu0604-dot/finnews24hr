@@ -1,7 +1,37 @@
 {
-  "updated": "2026-05-15 03:32:15",
-  "count": 15143,
+  "updated": "2026-05-15 03:35:47",
+  "count": 15140,
   "items": [
+    {
+      "id": "4880537",
+      "time": "2026-05-15 03:33:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍：從黎巴嫩向以色列北部發射了六枚火箭彈，其中三枚被攔截，另有三枚落入空曠區域。"
+    },
+    {
+      "id": "mkt:019e27fa-37b8-7bb5-b4d2-3632e8080683",
+      "time": "2026-05-15 03:32:35",
+      "tags": [
+        "MKT News",
+        "CZR.O",
+        "Impact bullish"
+      ],
+      "text": "BANKS QUEUE UP TO SUPPORT HOSPITALITY BILLIONAIRE'S DEAL FOR CAESARS ENTERTAINMENT – FT"
+    },
+    {
+      "id": "mkt:019e27f9-e989-7bb5-b4d2-292f29b3369f",
+      "time": "2026-05-15 03:32:30",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "IBRAHIM AZIZI, HEAD OF THE PARLIAMENT'S NATIONAL SECURITY COMMISSION, SAID: \"WE WARN THE ENEMIES THAT IF THEY MAKE A MISCALCULATION AND UNDERMINE OUR SECURITY, WE WILL STRIP THEM OF THEIR SECURITY WHEREVER THEY MAY BE IN THE WORLD. WE ARE READY TO DEFEAT THE ENEMY ONCE AGAIN IN THE STRAIT OF HORMUZ AND OTHER ARENAS.\""
+    },
     {
       "id": "4880536",
       "time": "2026-05-15 03:30:50",
@@ -136781,59 +136811,6 @@
         "XAUUSD"
       ],
       "text": "MONEY-MARKET FUND ASSETS JUMP $122B, MOST SINCE APRIL 2020, PER ICI"
-    },
-    {
-      "id": "mkt:019e03f0-6290-7775-8cb9-db8ff4698709",
-      "time": "2026-05-08 03:35:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "SOME SOURCES SAY THAT THE SOUND OF SEVERAL EXPLOSIONS IN BANDAR ABBAS WAS RELATED TO AIR DEFENSE COUNTERING TWO SMALL DRONES - TASNIM"
-    },
-    {
-      "id": "4867099",
-      "time": "2026-05-08 03:33:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普：給予歐盟至7月4日履行貿易協議，否則將提高關稅】美國總統特朗普表示，他與歐盟委員會主席烏爾蘇拉·馮德萊恩進行了“愉快的通話”，並將給予歐盟至7月4日的時間來履行其在貿易協議中的義務，否則美國將把關稅提高到更高水平。 “我一直在耐心等待歐盟履行我們在蘇格蘭特恩貝里達成的歷史性貿易協議中他們那一方的義務，這是有史以來最大的貿易協議！”特朗普在“真實社交”（Truth Social）平臺上發帖稱。“他們曾承諾會履行協議中歐盟的義務，並根據協議將其關稅降至零！我同意給予她時間，直到我們國家的250週年國慶日，否則不幸的是，他們的關稅將立即躍升至更高水平。”特朗普上週五曾威脅，由於歐盟未履行去年7月在蘇格蘭達成的協議條款，本週將把歐盟汽車和卡車的關稅從目前的15%提高至25%。特朗普還表示，兩位領導人還討論了伊朗問題，並一致同意德黑蘭絕不能擁有核武器。"
-    },
-    {
-      "id": "4867098",
-      "time": "2026-05-08 03:33:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴西總統盧拉： 與特朗普會面結束後，我將滿意地歸國。 已告知特朗普，巴西願意向所有有意赴本國投資的國家開放本土關鍵礦產資源開發潛力。"
-    },
-    {
-      "id": "mkt:019e03ee-0b32-7775-8cb9-d4b9e4af8acc",
-      "time": "2026-05-08 03:33:12",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "MIDDLE EASTERN CHANNELS REPORT CLAIMS THAT UAE FIGHTER JETS BOMBED BAHMAN QESHM DOCK IN IRAN, WITH SOME SUGGESTING POSSIBLE US LOGISTICAL SUPPORT IN A JOINT OPERATION, THOUGH THE ALLEGATIONS REMAIN UNVERIFIED - FARS"
-    },
-    {
-      "id": "mkt:019e03ed-a8dd-7775-8cb9-c93bc7ff4a0b",
-      "time": "2026-05-08 03:32:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "BRAZIL'S LULA: LEFT MEETING WITH TRUMP VERY SATISFIED, IT WAS AN IMPORTANT MEETING FOR BOTH COUNTRIES"
-    },
-    {
-      "id": "4867097",
-      "time": "2026-05-08 03:32:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "美聯社訊息：美國將開始吊銷拖欠 10 萬美元子女撫養費父母的護照，後續門檻很快將下調至 2500 美元。"
     }
   ]
 }
