@@ -1,7 +1,47 @@
 {
-  "updated": "2026-05-15 05:00:59",
-  "count": 15128,
+  "updated": "2026-05-15 05:04:26",
+  "count": 15132,
   "items": [
+    {
+      "id": "4880628",
+      "time": "2026-05-15 05:03:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【COMEX黃金期貨跌1.07%，報4656.4美元/盎司】 COMEX黃金期貨跌1.07%，報4656.4美元/盎司；COMEX白銀期貨跌5.97%，報84.03美元/盎司。"
+    },
+    {
+      "id": "4880627",
+      "time": "2026-05-15 05:03:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "【滙豐：上調今明兩年銀價預測 但供應缺口收窄或限制漲勢】滙豐銀行在最新研報中上調了對白銀價格的預測，目前預計白銀在2026年和2027年的平均價格分別為每盎司75美元和68美元，高於此前預測的68.25美元和57美元。"
+    },
+    {
+      "id": "4880626",
+      "time": "2026-05-15 05:02:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "NowVertical：與拉美頭部金融科技企業達成合作協議。"
+    },
+    {
+      "id": "4880625",
+      "time": "2026-05-15 05:02:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "英鎊兌美元跌0.9%，創2月5日以來最大跌幅。"
+    },
+    {
+      "id": "4880624",
+      "time": "2026-05-15 05:02:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "Nowvertical簽署價值 400 萬美元、為期三年的人工智慧與谷歌雲合作協議。"
+    },
     {
       "id": "4880623",
       "time": "2026-05-15 05:00:43",
@@ -136546,20 +136586,6 @@
         "Importance 0"
       ],
       "text": "US Consumer Credit Growth Beats Forecasts — Total US consumer credit increased by $24.9 billion in March 2026, following a downwardly revised $8.85 billion rise in the previous month and well above forecasts of a $12.5 billion increase. Revolving credit, which includes credit card debt, rose to $1.34 trillion from $1.33 trillion in February. Meanwhile, nonrevolving credit, including auto and student loans, increased to $3.80 trillion from $3.79 trillion in the prior month."
-    },
-    {
-      "id": "mkt:019e043e-f262-7775-8cbb-679f80cea252",
-      "time": "2026-05-08 05:01:34",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "US10Y"
-      ],
-      "text": "RAY DALIO SAYS US IS ENTERING PERIOD OF ‘GREAT TURBULENCE’"
     }
   ]
 }
