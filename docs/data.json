@@ -1,7 +1,42 @@
 {
-  "updated": "2026-05-14 12:10:38",
-  "count": 15367,
+  "updated": "2026-05-14 12:13:59",
+  "count": 15368,
   "items": [
+    {
+      "id": "4879101",
+      "time": "2026-05-14 12:13:30",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行審議委員增一行：若通脹無法維持在合理水平，可能會形成惡性迴圈：企業為留住員工不得不進一步上調工資。"
+    },
+    {
+      "id": "4879100",
+      "time": "2026-05-14 12:13:11",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度盧比跌破1美元兌95.7950盧比關口，創歷史新低，日內跌幅為0.1%。"
+    },
+    {
+      "id": "4879099",
+      "time": "2026-05-14 12:12:23",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行審議委員增一行：從長期來看，整體食品價格是未來通脹的關鍵決定因素。鑑於日本已不再處於通縮週期，應儘快解決負實際利率問題。當前政策利率已接近預估中性利率水平，日本央行若考慮進一步加息，需更全面地審視物價、就業及金融狀況等各項因素。"
+    },
+    {
+      "id": "4879098",
+      "time": "2026-05-14 12:11:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中信銀行增資至556.5億 增幅約14%】天眼查App顯示，近日，中信銀行（601998）發生工商變更，註冊資本由約489.3億人民幣增至約556.5億人民幣，增幅約14%。"
+    },
     {
       "id": "4879097",
       "time": "2026-05-14 12:10:13",
@@ -138527,34 +138562,6 @@
         "國際"
       ],
       "text": "【訊息稱京東方今年將向蘋果供應3500萬塊OLED屏 用於iPhone 17 Pro等】從外媒此前的報道來看，在秋季推出的iPhone全面採用OLED顯示屏的那一年，也就是推出iPhone 12系列的2020年，國內廠商京東方就進入了蘋果的供應鏈，為標準款的iPhone 12供應OLED顯示屏，在隨後的iPhone 13上雖然出現了波折，但外媒稱他們在隨後的幾年仍在為蘋果供應iPhone所需的OLED顯示屏。而有外媒在最新的報道中表示，京東方在今年仍將為蘋果供應OLED顯示屏，用於iPhone，預計將供應約3500萬塊。對於京東方今年供應的3500萬塊OLED顯示屏，外媒稱1250萬塊用於iPhone 14、iPhone 16e和iPhone 17e，600萬塊用於iPhone 16，580萬塊用於iPhone 15，250萬塊用於iPhone 17，820萬塊用於iPhone 17 Pro。"
-    },
-    {
-      "id": "te:markets:548586",
-      "time": "2026-05-07 12:13:49",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "India",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Indian Rupee Rebounds from Record Lows — The Indian rupee traded around 94.7 per dollar, rebounding from record-low levels near 95.2, supported by plunging oil prices. The rupee posted its strongest one-day gain in a month as markets reacted to reports of progress in US–Iran negotiations aimed at easing geopolitical tensions and potentially establishing a framework for de-escalation. That development triggered a sharp 7% drop in Brent crude, briefly easing concerns over India’s import costs and external balance, while also driving gains across Asian currencies in a broader risk-on shift. Additional support came from a softer US dollar backdrop, as easing Treasury yields and improved risk sentiment encouraged modest selling across emerging markets. Meanwhile, oil volatility remained central as prices fell on renewed optimism before partially recovering on mixed political signals."
-    },
-    {
-      "id": "4865331",
-      "time": "2026-05-07 12:13:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：以色列炮兵、空中打擊猛攻黎巴嫩南部多個城鎮。"
-    },
-    {
-      "id": "4865311",
-      "time": "2026-05-07 12:10:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "【花樣年控股：擬延長境外債務重組最後截止日期至6月30日】花樣年控股在港交所公告境外債務重組最新進展：公司預期無法及時取得所有必要的監管批准，以令重組能於現行最後截止日期（2026年5月31日）或之前完成。因此，審慎起見，公司擬根據各計劃的條款，尋求計劃債權人的批准，將最後截止日期由2026年5月31日延長至2026年6月30日。"
     }
   ]
 }
