@@ -1,7 +1,37 @@
 {
-  "updated": "2026-05-15 01:17:24",
+  "updated": "2026-05-15 01:20:54",
   "count": 15327,
   "items": [
+    {
+      "id": "4880437",
+      "time": "2026-05-15 01:19:41",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國聯邦通訊委員會批准威瑞森以10 億美元收購美國蜂窩通訊公司的頻譜資產。"
+    },
+    {
+      "id": "mkt:019e277f-8684-7bb5-b4d1-5416c74da3cb",
+      "time": "2026-05-15 01:18:49",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "IRAN FOREIGN MINISTER ARAGHCHI: UAE INVOLVED IN AGGRESSION AGAINST IRAN - IRIB"
+    },
+    {
+      "id": "mkt:019e277e-e5bd-7bb5-b4d1-4931da7e78f1",
+      "time": "2026-05-15 01:18:08",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "CEREBRAS SHARES SOAR IN HOTLY ANTICIPATED YEAR FOR AI DEBUTS -- WSJ"
+    },
     {
       "id": "4880434",
       "time": "2026-05-15 01:16:04",
@@ -138598,30 +138628,6 @@
         "國際"
       ],
       "text": "美聯儲卡什卡利：通脹水平依舊居高不下。"
-    },
-    {
-      "id": "4866920",
-      "time": "2026-05-08 01:20:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "卡達大使表示，保障霍爾木茲海峽航行安全是國際共同責任。"
-    },
-    {
-      "id": "4866919",
-      "time": "2026-05-08 01:20:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI： GPT-Realtime-2可構建可直接投入商用的語音智慧體，具備更強推理能力、支援主動執行操作、可處理對話打斷，並保持對話流暢接續。 GPT-Realtime-Translate流式實時翻譯，支援70 餘種輸入語言、13 種輸出語言，打破語言壁壘，實現更自然的跨語言溝通。"
-    },
-    {
-      "id": "4866918",
-      "time": "2026-05-08 01:17:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列軍方週四表示，已於前一日在貝魯特南郊的一次空襲中擊斃一名真主黨高階指揮官，這也是自上月美國斡旋達成停火協議以來，黎巴嫩首都周邊遭遇的首次襲擊。"
     }
   ]
 }
