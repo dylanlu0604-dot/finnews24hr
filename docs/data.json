@@ -1,7 +1,15 @@
 {
-  "updated": "2026-05-15 02:09:53",
-  "count": 15232,
+  "updated": "2026-05-15 02:13:25",
+  "count": 15224,
   "items": [
+    {
+      "id": "mkt:019e27af-d83a-7bb5-b4d1-e4c37b382064",
+      "time": "2026-05-15 02:11:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CDC SAYS THERE ARE NO HANTAVIRUS CASES IN THE UNITED STATES CURRENTLY"
+    },
     {
       "id": "4880471",
       "time": "2026-05-15 02:09:23",
@@ -137624,99 +137632,6 @@
         "其他"
       ],
       "text": "【報道：OpenAI 與博通 AI 晶片合作陷入融資僵局】去年秋季，OpenAI 與晶片設計廠商博通官宣聯合研發定製人工智慧晶片時，雙方曾將這筆合作視作板上釘釘的既定交易。數月過後，據一份內部備忘錄及兩名參與談判的知情人士透露，雙方正協商由博通出資推進晶片生產第一階段建設。該階段需消耗 1.3 吉瓦的資料中心算力容量，造價約180 億美元。按此成本測算，代號為 “Nexus”、總規模 10 吉瓦的完整專案，僅晶片生產環節成本就高達1800 億美元，還未計入資料中心建設及其他配套開支。落實這筆融資對 OpenAI 至關重要。這家 ChatGPT 開發企業預計，到 2029 年其運營資金消耗將超2000 億美元。自研晶片是 OpenAI 降低伺服器成本、提升毛利率戰略的核心一環。但目前談判已陷入潛在僵局。一名 OpenAI 高管在上月的內部備忘錄中向同事透露，博通明確表示，只有微軟同意採購約 40% 的晶片產能，才會為專案首期提供融資。微軟將把這批晶片部署至自有資料中心，再向 OpenAI 租賃算力使用。參與談判的知情人士稱，微軟擁有數十年資料中心運營經驗、也是全球信用資質頂尖的企業，一旦作出採購承諾，將讓博通確信自身投資能夠回本。備忘錄同時指出，微軟也有可能拒絕採購這批定製晶片，這將直接改寫專案的融資條款。據備忘錄及兩名談判知情人士透露，擬定中的晶片合作協議已增設條款：若微軟實際採購量未達標，OpenAI 必須自行尋找其他接盤採購方。"
-    },
-    {
-      "id": "4867016",
-      "time": "2026-05-08 02:12:08",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行施納貝爾：如果我們坐等薪資上漲切實顯現，歐洲央行再行動就為時已晚了。"
-    },
-    {
-      "id": "4867015",
-      "time": "2026-05-08 02:12:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：OpenAI 遭遇 180 億美元融資受阻風險併發出警示。"
-    },
-    {
-      "id": "mkt:019e03a3-9a76-7775-8cb8-1f415981d453",
-      "time": "2026-05-08 02:11:53",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "DAX"
-      ],
-      "text": "ECB'S SCHNABEL: IF WE WE WAIT UNTIL WAGES RISES MATERIALISE, THAT WILL BE TOO LATE FOR ECB"
-    },
-    {
-      "id": "4867014",
-      "time": "2026-05-08 02:11:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息： OpenAI 與博通的 AI 晶片合作遭遇融資阻礙。"
-    },
-    {
-      "id": "4867013",
-      "time": "2026-05-08 02:11:26",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油5分鐘內下跌0.52美元/桶，報94.93美元/桶；布倫特原油5分鐘內下跌0.57美元/桶，報100.6美元/桶。"
-    },
-    {
-      "id": "mkt:019e03a2-8134-7775-8cb8-17acfd2ff996",
-      "time": "2026-05-08 02:10:38",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "ECB'S SCHNABEL: IF HIGHER ENERGY COSTS ARE PASSED ON TO PRICES OR WAGES INCREASE IN RESPONSE, THAT IS THE SIGN MONETARY POLICY HAS TO REACT"
-    },
-    {
-      "id": "4867012",
-      "time": "2026-05-08 02:10:35",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行施納貝爾：如果能源成本上漲傳導至物價，或是工資因此出現上漲，這就意味著貨幣政策必須作出應對。"
-    },
-    {
-      "id": "mkt:019e03a2-31ab-7775-8cb8-0d5ebf4acfa0",
-      "time": "2026-05-08 02:10:21",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "Policy",
-        "Breaking News 24h",
-        "AVGO.O",
-        "Impact bearish"
-      ],
-      "text": "OPENAI’S AI CHIP DEAL WITH BROADCOM HITS $18 BILLION FINANCING SNAG - THE INFORMATION"
-    },
-    {
-      "id": "mkt:019e03a1-c57a-7775-8cb8-06eeb0da92f2",
-      "time": "2026-05-08 02:09:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. AUDIT WATCHDOG SHOULD RESCIND ITS INDEPENDENCE RULES, SEC OFFICIAL SAYS - WSJ"
     }
   ]
 }
