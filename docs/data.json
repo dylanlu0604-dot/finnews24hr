@@ -1,7 +1,63 @@
 {
-  "updated": "2026-05-14 21:49:01",
-  "count": 15498,
+  "updated": "2026-05-14 21:52:34",
+  "count": 15496,
   "items": [
+    {
+      "id": "4880222",
+      "time": "2026-05-14 21:52:14",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【中國銀行董事長葛海蛟在京分別會見美國大豆出口協會主席麥克蘭尼、維薩公司全球執行長麥凱恩】中國銀行董事長葛海蛟在中國銀行總行大廈分別會見美國大豆出口協會（USSEC）主席邁克·麥克蘭尼（Mike McCranie）、執行長蘇健（Jim Sutter）一行，維薩公司（Visa）全球執行長麥凱恩（Ryan McInerney）、大中華區總裁張文翊（Elaine Chang）一行。"
+    },
+    {
+      "id": "4880221",
+      "time": "2026-05-14 21:51:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【挪威取消導彈出口許可 馬來西亞要索賠】馬來西亞國防部長哈立德14日說，由於挪威單方面撤銷了出口一款海軍導彈系統的許可，馬方將向挪威方面索賠，並考慮採取法律行動。（新華社）"
+    },
+    {
+      "id": "mkt:019e26c1-6c8c-7dde-99f5-05e636b84da3",
+      "time": "2026-05-14 21:50:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Nasdaq100",
+        "Impact bullish"
+      ],
+      "text": "NASDAQ 100 EXTENDS GAINS TO 0.5%"
+    },
+    {
+      "id": "4880220",
+      "time": "2026-05-14 21:50:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "納斯達克100指數漲幅擴大至0.5%。"
+    },
+    {
+      "id": "te:markets:550771",
+      "time": "2026-05-14 21:50:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The US 100 Tech Index Hit All-time High — US100 increased to an all-time high of 29512.00 Index Points. Over the past 4 weeks, US 100 Tech Index gained 12.6%, and in the last 12 months, it increased 38.3%."
+    },
+    {
+      "id": "4880219",
+      "time": "2026-05-14 21:49:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國衛生部長：法國26名被認定為與洪都厄斯號遊輪相關的漢坦病毒病例密切接觸的人，其檢測結果均為陰性。"
+    },
     {
       "id": "4880218",
       "time": "2026-05-14 21:48:42",
@@ -140103,74 +140159,6 @@
         "其他"
       ],
       "text": "默茨：國家既無法保護公民，也無法保護企業免受所有市場波動的影響。"
-    },
-    {
-      "id": "4866573",
-      "time": "2026-05-07 21:51:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟高階議員：歐盟與美國貿易協議的實施協議有望在本月晚些時候最終敲定。"
-    },
-    {
-      "id": "4866572",
-      "time": "2026-05-07 21:51:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "殼牌執行長：他們已造成近10億桶原油的嚴重短缺，且局勢正日益惡化。"
-    },
-    {
-      "id": "4866571",
-      "time": "2026-05-07 21:50:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "【世衛組織：涉疫郵輪病例數達8例 5例確診】世界衛生組織7日表示，已在涉漢坦病毒疫情的“洪迪厄斯”號郵輪上發現8例病例，其中5例確診。此次疫情暴發所引發的更廣泛公共衛生風險依然較低。(新華社)"
-    },
-    {
-      "id": "4866570",
-      "time": "2026-05-07 21:50:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "殼牌執行長表示，不計營運資金的化工業務現金流為正。"
-    },
-    {
-      "id": "4866569",
-      "time": "2026-05-07 21:49:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "殼牌執行長表示，煉油廠原油供應面臨困難。"
-    },
-    {
-      "id": "mkt:019e02b3-9507-766d-bbae-0e1bceadb171",
-      "time": "2026-05-07 21:49:43",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "NETANYAHU STATED THAT ISRAEL AND THE US SHARED ‘COMMON GOALS’ WHEN IT COMES TO IRANIAN NUCLEAR ENRICHMENT"
-    },
-    {
-      "id": "mkt:019e02b3-6b52-766d-bbae-012bf4be7be0",
-      "time": "2026-05-07 21:49:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ISRAELI PRIME MINISTER BENJAMIN NETANYAHU SAID HE WAS IN ‘ALMOST DAILY’ CONTACT WITH US PRESIDENT TRUMP AND THAT THERE WOULD BE ‘NO SURPRISES’ WHEN IT CAME TO US NEGOTIATIONS AROUND PEACE WITH IRAN"
-    },
-    {
-      "id": "4866568",
-      "time": "2026-05-07 21:49:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "殼牌執行長表示，當前原油價格高企，煉油業務難以創造價值。"
     }
   ]
 }
