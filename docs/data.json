@@ -1,7 +1,77 @@
 {
-  "updated": "2026-05-14 10:57:20",
-  "count": 15326,
+  "updated": "2026-05-14 11:00:50",
+  "count": 15329,
   "items": [
+    {
+      "id": "4879000",
+      "time": "2026-05-14 11:00:14",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "泰國SET指數開盤上漲0.5%，至1524.78點。"
+    },
+    {
+      "id": "4878999",
+      "time": "2026-05-14 11:00:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超2萬億元，較上日此時放量2778億元。"
+    },
+    {
+      "id": "mkt:019e246d-1931-777f-be5a-d764767b9433",
+      "time": "2026-05-14 10:59:49",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "TIM COOK GIVES A THUMBS UP WHEN ASKED HOW THE MEETINGS WENT"
+    },
+    {
+      "id": "mkt:019e246c-f362-777f-be5a-cce9c2268239",
+      "time": "2026-05-14 10:59:40",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA CEO: “THE MEETINGS WENT EXCELLENT\""
+    },
+    {
+      "id": "mkt:019e246c-efc3-777f-be5a-c20d9877a3b9",
+      "time": "2026-05-14 10:59:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "MUSK SAYS HE WANTS TO ACCOMPLISH “MANY GOOD THINGS” HERE"
+    },
+    {
+      "id": "mkt:019e246c-ed07-777f-be5a-bad5ef01bd4c",
+      "time": "2026-05-14 10:59:24",
+      "tags": [
+        "MKT News",
+        "005930.KS"
+      ],
+      "text": "SOUTH KOREA'S UMBRELLA LABOUR UNION WARNS GOVT AGAINST INVOKING EMERGENCY ARBITRATION RIGHTS ON SAMSUNG ELEC DISPUTE"
+    },
+    {
+      "id": "4878998",
+      "time": "2026-05-14 10:58:51",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "韓國全國總工會警告政府，不要對三星電子糾紛動用緊急仲裁權。"
+    },
     {
       "id": "4878997",
       "time": "2026-05-14 10:56:38",
@@ -138026,43 +138096,6 @@
         "其他"
       ],
       "text": "天孚通訊成交額達100億元，現漲2.34%。"
-    },
-    {
-      "id": "te:markets:548567",
-      "time": "2026-05-07 10:59:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Soybean Futures Fall to 2-Week Low — Soybean futures fell to $11.7 per bushel, reaching a two-week low as a sharp decline in global energy prices weighed on biofuel-driven demand. Reports that the US and Iran were closing in on an agreement to end the war sent oil prices plunging, which pressured the soy complex given soybeans’ role as a key biodiesel feedstock. Meanwhile, US planting has progressed well, with seeding at 33% complete, 10 points ahead of average as drier US weather forecasts helped ease concerns that recent Midwest storms could slow or delay seeding in some areas. Larger South American supply expectations also weighed, while export demand remained relatively steady, with USDA reporting net export sales of old-crop US soybeans at 258,100 metric tons for the week ended April 23, coming in toward the lower end of trade expectations of 200,000 to 600,000 tons. Traders now monitor US-China trade developments, with soybeans remaining a key focus in upcoming negotiations this month between Washington and Beijing."
-    },
-    {
-      "id": "4865004",
-      "time": "2026-05-07 10:59:09",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨賣出額達10億港元。"
-    },
-    {
-      "id": "4865003",
-      "time": "2026-05-07 10:58:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "【北京正負電子對撞機峰值亮度達到升級工程設計指標】從中國科學院高能物理研究所獲悉，近日國家重大科技基礎設施——北京正負電子對撞機（BEPCII）執行取得重要進展。透過近一年持續的束流引數最佳化與流強穩步提升，該大科學裝置在2.35 GeV束流能量下峰值對撞亮度達到其對撞能量和取數效率升級工程的設計指標，峰值亮度和積分亮度均較升級前提升3倍以上，成功完成核心效能跨越式升級。此次在高束流能區的效能突破，為北京譜儀Ⅲ（BESIII）開闢了全新實驗視窗，提供了更高精度的資料支撐。"
-    },
-    {
-      "id": "4865002",
-      "time": "2026-05-07 10:57:58",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【美航空運營商3月航油支出環比大漲】美國交通部下轄的運輸統計局6日釋出的資料顯示，美國航空運營商3月航空燃油總支出達50.6億美元，環比上漲56.4%，同比上漲30.4%。資料顯示，美國3月航油總支出相比今年2月的32.3億美元、去年3月的38.8億美元均有大幅增長。從航油價格來看，美國3月航油價格相比2月上漲30.9%，較去年同期上漲29.9%。"
     }
   ]
 }
