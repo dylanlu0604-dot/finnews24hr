@@ -1,7 +1,15 @@
 {
-  "updated": "2026-05-15 01:31:24",
-  "count": 15293,
+  "updated": "2026-05-15 01:34:53",
+  "count": 15289,
   "items": [
+    {
+      "id": "4880442",
+      "time": "2026-05-15 01:31:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國環境保護署擬將拜登時期一項機動車大幅減排空氣汙染的法規執法落地時間推遲兩年。"
+    },
     {
       "id": "mkt:019e2789-64e0-7bb5-b4d1-6a034e8edd97",
       "time": "2026-05-15 01:29:36",
@@ -138254,50 +138262,6 @@
         "市場"
       ],
       "text": "MarineMax據悉吸引更多收購意向，公司股價迅速上漲，漲幅高達5.7%。"
-    },
-    {
-      "id": "mkt:019e0380-c0b9-7775-8cb7-2b40dce9e182",
-      "time": "2026-05-08 01:33:50",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "C.N"
-      ],
-      "text": "CITIGROUP CEO JANE FRASER WAS INVITED TO JOIN TRUMP'S TRIP TO CHINA- PERSON FAMILIAR WITH THE MATTER"
-    },
-    {
-      "id": "4866951",
-      "time": "2026-05-08 01:33:14",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "隨著原油價格升至日內高點，美國國債價格延續日內跌勢。"
-    },
-    {
-      "id": "4866950",
-      "time": "2026-05-08 01:32:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "參議院民主黨人敦促聯邦通訊委員會停止對迪士尼的審查。"
-    },
-    {
-      "id": "4866949",
-      "time": "2026-05-08 01:32:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "彭博美元現貨指數與油價同步升至日內高點。"
-    },
-    {
-      "id": "mkt:019e037e-e59e-7775-8cb7-26202fb72385",
-      "time": "2026-05-08 01:31:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "WHITE HOUSE EXPECTS TO RECEIVE IRAN'S RESPONSE TO THE LATEST US PROPOSAL ON FRIDAY - CHANNEL 12"
     }
   ]
 }
