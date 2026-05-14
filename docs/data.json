@@ -1,7 +1,27 @@
 {
-  "updated": "2026-05-14 23:55:18",
-  "count": 15436,
+  "updated": "2026-05-14 23:59:04",
+  "count": 15425,
   "items": [
+    {
+      "id": "4880385",
+      "time": "2026-05-14 23:58:34",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行首席經濟學家Huw Pill： 資料顯示經濟活動展現出韌性。"
+    },
+    {
+      "id": "4880384",
+      "time": "2026-05-14 23:55:05",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "波音股價跌幅擴大至5%。"
+    },
     {
       "id": "te:markets:550805",
       "time": "2026-05-14 23:54:52",
@@ -139489,128 +139509,6 @@
         "XAUUSD"
       ],
       "text": "U.S. 30-YR FIXED RATE MORTGAGE AVERAGES 6.37 PCT IN MAY 7 WEEK VS 6.30 PCT PRIOR WEEK-FREDDIE MAC"
-    },
-    {
-      "id": "mkt:019e0329-56f0-7775-8cb4-d4e7fb10c4a9",
-      "time": "2026-05-07 23:58:21",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "SHELL CEO SAYS THERE IS REAL POSSIBILITY THAT WE SEE CONTINUED BULLISHNESS ON OVERALL ENERGY PRICES FOR NEXT 6-12 MONTHS"
-    },
-    {
-      "id": "4866798",
-      "time": "2026-05-07 23:58:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "殼牌執行長表示，未來6至12個月整體能源價格持續看漲的可能性確實存在。"
-    },
-    {
-      "id": "4866797",
-      "time": "2026-05-07 23:57:38",
-      "tags": [
-        "市場"
-      ],
-      "text": "【WTI原油期貨跌幅收窄至2% 此前一度跌超5%】國際油價跌幅收窄，截至目前，WTI原油期貨價格跌2.04%，報93.13美元/桶，此前一度跌超5%；布倫特原油期貨價格跌2.17%，報99.1美元/桶。"
-    },
-    {
-      "id": "mkt:019e0328-a0de-7775-8cb4-cb719ecbaa0c",
-      "time": "2026-05-07 23:57:34",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "FUNDAMENTALS POINT TO HIGHER LNG PRICES IN EUROPE, WITH PHYSICAL LOSS OF CARGOES ONLY STARTING TO BE FELT - CHIEF COMMERCIAL OFFICER ANATOL FEYGIN"
-    },
-    {
-      "id": "mkt:019e0328-8aa0-7775-8cb4-c5a2b7fce5b2",
-      "time": "2026-05-07 23:57:28",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "LNG.O",
-        "Impact bullish"
-      ],
-      "text": "CHENIERE EXPECTS HIGHER LNG PRICES IN THE THIRD AND FOURTH QUARTERS OF 2026, SAYS COMPANY'S CHIEF COMMERCIAL OFFICER ANATOL FEYGIN"
-    },
-    {
-      "id": "4866796",
-      "time": "2026-05-07 23:57:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "切尼爾能源首席商務官阿納托爾·費金表示，基本面因素支撐歐洲液化天然氣價格上行，而貨物實際供應短缺的影響才剛剛開始顯現。"
-    },
-    {
-      "id": "mkt:019e0328-6dd6-7775-8cb4-babcb2bc34b0",
-      "time": "2026-05-07 23:57:20",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "SHELL CEO SAYS IT WILL TAKE SEVERAL MONTHS FOR CRUDE OIL PAPER AND PHYSICAL PRICES TO CONVERGE"
-    },
-    {
-      "id": "4866795",
-      "time": "2026-05-07 23:57:07",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "切尼爾能源首席商務官阿納托爾·費金表示，該公司預計2026年第三和第四季度液化天然氣價格將上漲。"
-    },
-    {
-      "id": "4866794",
-      "time": "2026-05-07 23:56:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "殼牌執行長表示，原油紙面價格與實物價格需要數月時間才能趨同。"
-    },
-    {
-      "id": "4866793",
-      "time": "2026-05-07 23:56:27",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內跌2%，現報1520.61美元/盎司。"
-    },
-    {
-      "id": "4866792",
-      "time": "2026-05-07 23:56:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "【高市早苗在澳大利亞表演下跪】日本首相高市早苗4日在訪問澳大利亞期間，在位於堪培拉的戰爭紀念館，向無名戰士墓下跪獻花。這一幕也被很多媒體形容為荒誕的“歷史和解”表演——要知道，就在十幾天前，高市早苗剛剛向供奉著14名二戰甲級戰犯的靖國神社供奉了祭品，而轉頭卻向曾被日軍屠戮的澳軍亡靈“懺悔”。中國社科院日本研究所助理研究員孟明銘分析表示，高市的表演真實意圖正是要粉飾自己改變戰後國際秩序的野心，為日本恢復政治大國、軍事大國的地位減少阻力，國際社會必須警惕日本表面和解掩蓋下的擴張主義傾向。（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:019e0326-b312-7775-8cb4-b7b458919627",
-      "time": "2026-05-07 23:55:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IRAN PARLIAMENT NATIONAL SECURITY OFFICIAL CALLS TRUMP’S 400 KG URANIUM REMOVAL CLAIM POLITICAL BLUFF AND OUTRIGHT LIE - ISNA"
-    },
-    {
-      "id": "mkt:019e0326-8c31-7775-8cb4-afb1082b2b38",
-      "time": "2026-05-07 23:55:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IRAN'S PARLIAMENT NATIONAL SECURITY OFFICIAL: NO URANIUM HAS LEFT IRAN - ISNA"
     }
   ]
 }
