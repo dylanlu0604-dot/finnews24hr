@@ -1,7 +1,182 @@
 {
-  "updated": "2026-05-14 12:03:56",
-  "count": 15351,
+  "updated": "2026-05-14 12:07:18",
+  "count": 15364,
   "items": [
+    {
+      "id": "4879091",
+      "time": "2026-05-14 12:07:11",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行審議委員增一行：日本央行將把這一趨勢納入考量，確定資產負債表的適宜規模。"
+    },
+    {
+      "id": "4879090",
+      "time": "2026-05-14 12:07:01",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行審議委員增一行：2008年全球金融危機爆發後，全球金融機構的流動性監管收緊，對央行儲備的需求也已發生變化。"
+    },
+    {
+      "id": "4879089",
+      "time": "2026-05-14 12:06:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "美元兌日元回吐全部漲幅，最新報跌0.05%。"
+    },
+    {
+      "id": "4879088",
+      "time": "2026-05-14 12:06:39",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行審議委員增一行：這並不意味著資產負債表必須縮減至量化質化寬鬆（QQE）實施前的水平。"
+    },
+    {
+      "id": "4879087",
+      "time": "2026-05-14 12:06:23",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行審議委員增一行：日本央行需在監測市場狀況的同時，嚴格審視2027年3月之後日本國債購買的節奏。"
+    },
+    {
+      "id": "4879086",
+      "time": "2026-05-14 12:06:00",
+      "tags": [
+        "兩會"
+      ],
+      "text": "【全國人大環境與資源保護委員會在西安舉辦生態環境法典培訓班 】全國人大環境與資源保護委員會5月13日至14日在陝西西安舉辦生態環境法典培訓班，深入學習貫徹習近平法治思想和習近平生態文明思想，貫徹落實十四屆全國人大四次會議精神，推動生態環境法典全面有效貫徹實施。全國人大常委會副委員長王東明、丁仲禮出席並講話。 王東明指出，要深刻認識貫徹實施生態環境法典的重大意義，立足人大職責全面推動法典有效實施，紮實做好人大環境資源工作，將重大立法成果轉化為美麗中國建設的生動實踐和顯著成效。 丁仲禮強調，要堅持實事求是，把生態環境法典各項規定落到實處；堅持因地制宜，完善適應地方實際的生態環境保護治理體系；強化科技賦能，提升生態環境保護治理能力和水平。"
+    },
+    {
+      "id": "4879085",
+      "time": "2026-05-14 12:05:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股午評：恒生指數漲0.34%，恒生科技指數漲0.3%】港股午間收盤，恒生指數漲0.34%，恒生科技指數漲0.3%。恒指港股通ETF銀華（159318）漲0.44%，港股通科技ETF鵬華（159751）跌0.21%。板塊方面，林業與紙製品、個人護理用品板塊漲幅靠前；電氣裝置、金屬與採礦板塊跌幅靠前。個股方面，天嶽先進漲17.28%，劑泰科技-P漲13.61%，納芯微漲11.13%，國恩科技漲6.96%，經緯天地（舊）漲6.93%；招金礦業跌11.54%，大族數控跌11.3%，大唐發電跌11.11%，德適-B跌8.79%，凱樂士科技跌8.28%。"
+    },
+    {
+      "id": "te:markets:550528",
+      "time": "2026-05-14 12:05:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Copper Pulls Back as Investors Lock in Profits — Copper futures declined nearly 2% toward $6.5 per pound on Thursday, easing from record highs as traders took profits while reassessing underlying supply and demand conditions. The metal has posted a strong rally this month, supported by a bullish long-term outlook tied to artificial intelligence-driven infrastructure buildouts, grid modernization, and the broader global energy transition. Ongoing strength in AI-related equities has also reinforced expectations for sustained investment in data center expansion, further underpinning copper demand prospects. On the supply side, China’s export restrictions on sulfuric acid and disruptions to sulfur production in the Middle East could tighten global supply conditions and provide a structural tailwind for prices. Meanwhile, markets are closely watching the meeting between US President Donald Trump and Chinese President Xi Jinping, where discussions may include trade relations, rare earths, and artificial intelligence."
+    },
+    {
+      "id": "4879084",
+      "time": "2026-05-14 12:05:13",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行審議委員增一行：若資料未顯示經濟放緩的明確訊號，我認為最好儘早升息。"
+    },
+    {
+      "id": "mkt:019e24a9-2dad-777f-be5b-b6d7ac4ef34e",
+      "time": "2026-05-14 12:04:59",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "BOJ BOARD MEMBER MASU: ALTHOUGH IT REMAINS BELOW 2% JAPAN'S UNDERLYING INFLATION RATE IS DRAWING VERY CLOSE TO THE 2% TARGET"
+    },
+    {
+      "id": "mkt:019e24a9-2c50-777f-be5b-ae0bbc7d5d7d",
+      "time": "2026-05-14 12:04:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "Nikkei 225"
+      ],
+      "text": "BOJ BOARD MEMBER MASU: JAPAN HAS CLEARLY ENTERED INFLATIONARY PHASE"
+    },
+    {
+      "id": "4879083",
+      "time": "2026-05-14 12:04:47",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行審議委員增一行：燃料價格上漲或為暫時性衝擊，但令人擔憂的是，這可能會進一步推高日本本就不斷攀升的流通成本。"
+    },
+    {
+      "id": "mkt:019e24a9-2acf-777f-be5b-a56ed06f8e80",
+      "time": "2026-05-14 12:04:45",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "BOJ BOARD MEMBER MASU: WHAT IS VITAL FROM NOW ON IS TO ENSURE THAT, THROUGH TIMELY AND APPROPRIATE POLICY RATE HIKES, UNDERLYING INFLATION RATE DOES NOT EXCEED 2%"
+    },
+    {
+      "id": "mkt:019e24a9-267b-777f-be5b-9f9917129261",
+      "time": "2026-05-14 12:04:32",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "BOJ POLICY BOARD MEMBER MASU: WILL CONTINUE TO RAISE RATES BASED ON ECON, PRICE, FINANCIAL CONDITIONS"
+    },
+    {
+      "id": "mkt:019e24a9-233c-777f-be5b-92fc405c7292",
+      "time": "2026-05-14 12:04:21",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225"
+      ],
+      "text": "BOJ BOARD MEMBER MASU: FUEL PRICE RISES MAY TURN OUT TO BE TEMPORARY SHOCK BUT WHAT'S OF CONCERN IS THAT THEY COULD FURTHER ACCELERATE JAPAN'S ALREADY MOUNTING DISTRIBUTION COSTS"
+    },
+    {
+      "id": "4879082",
+      "time": "2026-05-14 12:04:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "菲律賓國家調查局局長：參議院事件是否為自導自演，已納入調查範圍。"
+    },
+    {
+      "id": "4879081",
+      "time": "2026-05-14 12:04:12",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行佈雷登：我們熱切希望建立一個允許穩定幣蓬勃發展、併為使用者帶來收益的制度。"
+    },
+    {
+      "id": "4879080",
+      "time": "2026-05-14 12:03:56",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行審議委員增一行：我本人在4月貨幣政策會議上判斷，當前局勢並不允許倉促加息。"
+    },
     {
       "id": "4879079",
       "time": "2026-05-14 12:03:40",
@@ -138351,47 +138526,6 @@
         "國際"
       ],
       "text": "【美航空運營商3月航油支出環比大漲】美國交通部下轄的運輸統計局6日釋出的資料顯示，美國航空運營商3月航空燃油總支出達50.6億美元，環比上漲56.4%，同比上漲30.4%。資料顯示，美國3月航油總支出相比今年2月的32.3億美元、去年3月的38.8億美元均有大幅增長。從航油價格來看，美國3月航油價格相比2月上漲30.9%，較去年同期上漲29.9%。有分析人士指出，中東戰事引發能源價格大漲給美國航空運營商帶來巨大壓力。各大航空公司紛紛下調甚至完全取消2026年的業績預期。一些航空公司還壓縮了擴張計劃，以降低成本。由於近期油價大幅上漲以及與聯邦政府的紓困談判失敗，近年來陷於破產困境的美國廉價航空斯皮裡特航空公司近日宣佈，立即開始有序停止業務運營。"
-    },
-    {
-      "id": "4865296",
-      "time": "2026-05-07 12:06:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【罰款近1200萬元，北京市稅務局曝光一起涉稅違法案件】近期，國家稅務總局北京市稅務局第二稽查局依法查處北京西博思控制技術有限公司涉稅違法案件。經查，該公司在檢查所屬期透過違規列支成本費用、隱匿收入的方式進行虛假納稅申報，少繳企業所得稅、增值稅等共計509.62萬元，同時還存在未按規定代扣代繳個人所得稅、丟失記賬憑證的違法行為。2026年1月，國家稅務總局北京市稅務局第二稽查局依據《中華人民共和國企業所得稅法》《中華人民共和國個人所得稅法》《中華人民共和國稅收徵收管理法》《中華人民共和國行政處罰法》等相關法律法規規定，依法作出追繳稅費款、加收滯納金並處罰款共計1196.93萬元的處理處罰決定。目前，涉案稅費款、滯納金及罰款均已追繳入庫。國家稅務總局北京市稅務局第二稽查局相關負責人表示，本案涉案企業違法行為複雜多樣，既涉及賬簿憑證管理，又涉及收入隱匿、成本違規列支，還涉及個稅代扣代繳義務缺失，是典型的多稅種、多環節涉稅違法案件。稅務部門將依託稅收大資料，持續強化涉稅風險排查，嚴厲打擊各類偷逃稅款行為，切實維護國家稅收安全和市場公平秩序。同時，提醒廣大納稅人要依法設定賬簿、妥善保管憑證、規範財務核算、及時足額納稅，共同營造良好稅收法治環境。"
-    },
-    {
-      "id": "4865295",
-      "time": "2026-05-07 12:06:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "【馬裡軍方披露針對政府高層襲擊細節】馬裡軍方6日表示，襲擊者上月使用自殺式汽車炸彈對馬裡過渡總統戈伊塔及已故防長的住所等目標發動襲擊。馬裡武裝部隊新聞與公共關係局官員吉布里拉·馬伊加當天在首都巴馬科舉行的新聞釋出會上說，襲擊者意在對馬裡高層發動襲擊，準備了多輛裝有炸彈的汽車，其中一輛針對戈伊塔的官邸，另一輛針對已故國防和退伍軍人事務部長薩迪奧·卡馬拉的住所。馬伊加說，軍方在事發當天迅速作出反應，控制現場局勢，拆除了針對戈伊塔官邸的汽車炸彈。"
-    },
-    {
-      "id": "4865294",
-      "time": "2026-05-07 12:05:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "【IDC：中國MaaS市場進入高速增長期 Token經濟從概念走向規模化實踐】國際資料公司(IDC)發文指出，2025年中國企業級MaaS市場經歷了從試點到規模化應用的關鍵轉折。無論是Token呼叫量還是實際營收，各個統計口徑都呈現出倍數級的增長，同時Token消耗的快速攀升正在重新定義企業使用人工智慧的方式。然而，在這一輪高速增長的背後，市場仍然面臨效能穩定性、安全合規、回答質量等多重實際約束。IDC認為，MaaS廠商的競爭焦點正在從過去單純的價格比拼，轉向“價格、效能與工具鏈支援”的綜合能力競爭。"
-    },
-    {
-      "id": "4865293",
-      "time": "2026-05-07 12:05:16",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【港股午評：科指大漲3%，權重科技股集體強勢，石油煤炭逆勢走低】美伊預期談判緩和，風險市場情緒大幅回升。港股三大指數今日跳漲，恒生科技指數大漲3.07%，恒生指數、國企指數分別上漲1.56%及1.55%。作為市場風向標的大型科技股集體強勢，其中快手漲超7%領先，百度漲超5%，阿里巴巴、騰訊、京東皆走強；光通訊概念股、蘋果概念股、光伏股、航空股普遍活躍。另外，美伊衝突出現緩和跡象，石油股、煤炭股大幅下跌，其中兗煤澳大利亞跌近8%，中國石油股份跌5%。"
-    },
-    {
-      "id": "4865288",
-      "time": "2026-05-07 12:04:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "【一季度智慧消費裝置製造增速亮眼 一季度我國智慧手機產量近3億臺】今年一季度，在消費品以舊換新政策加力擴圍、AI技術與消費產品深度融合的雙重拉動下，我國智慧消費裝置製造發展態勢向好，生產增速亮眼，成為工業經濟增長的重要支撐。資料顯示，一季度，我國智慧手機產量2.98億臺，同比增長6.9%，服務機器人產量超440萬套，同比增長2.6%。整機銷售也帶動了上游電子元器件產量增長。積體電路作為核心配套元器件，產量1272億塊，同比增長24.3%，為智慧消費產品生產提供堅實支撐。（央視財經）"
     }
   ]
 }
