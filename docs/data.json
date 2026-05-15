@@ -1,7 +1,42 @@
 {
-  "updated": "2026-05-16 06:12:07",
-  "count": 15484,
+  "updated": "2026-05-16 06:15:39",
+  "count": 15487,
   "items": [
+    {
+      "id": "te:markets:551309",
+      "time": "2026-05-16 06:15:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Brazilian Real Depreciates by 1.27% — Top currency losers are Brazilian Real (-1.27%), New Zealand Dollar (-1.19%), Australian Dollar (-1.13%), British Pound (-0.58%), Euro (-0.37%) and Japanese Yen (-0.29%). Gains are led by Dollar Index (0.46%)."
+    },
+    {
+      "id": "4882994",
+      "time": "2026-05-16 06:14:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：伊朗手裡沒牌可打。"
+    },
+    {
+      "id": "4882993",
+      "time": "2026-05-16 06:14:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國醫療保險和醫療補助服務中心（CMS）要求各州自 2028 年起，自行承擔其強制增設的、超出基本醫保福利範疇之外的各類福利專案開支。"
+    },
+    {
+      "id": "4882992",
+      "time": "2026-05-16 06:13:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：我們靠委內瑞拉石油賺得盆滿缽滿。"
+    },
     {
       "id": "4882991",
       "time": "2026-05-16 06:11:52",
@@ -139594,17 +139629,6 @@
         "國際"
       ],
       "text": "特朗普將於明日出席在弗吉尼亞州舉行的LIV高爾夫錦標賽。"
-    },
-    {
-      "id": "te:markets:549353",
-      "time": "2026-05-09 06:15:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: Norwegian Krone Appreciates by 1.06% — Top currency gainers are Norwegian Krone (1.06%), Brazilian Real (0.99%), Mexican Peso (0.75%), British Pound (0.60%), Euro (0.53%) and Japanese Yen (0.19%). Biggest losers are South Korean Won (-0.25%) and Dollar Index (-0.23%)."
     }
   ]
 }
