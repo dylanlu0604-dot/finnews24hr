@@ -1399,7 +1399,7 @@ async function loadAiSummaries() {
 function renderBulletSection(title, items) {
   const bullets = (items || []).filter(Boolean);
   const rows = bullets.length
-    ? bullets.map(text => `<li>${attrEscape(text)}</li>`).join('')
+    ? bullets.map(item => `<li>${formatCentralBankBullet(item)}</li>`).join('')
     : '<li>今日無明確資料。</li>';
   return `
     <div class="cb-section">
@@ -1407,6 +1407,15 @@ function renderBulletSection(title, items) {
       <ol class="cb-list">${rows}</ol>
     </div>
   `;
+}
+
+function formatCentralBankBullet(item) {
+  if (!item || typeof item !== 'object') return attrEscape(item || '');
+  const official = item.official ? `<strong>${attrEscape(item.official)}</strong>` : '';
+  const venue = item.venue ? `（${attrEscape(item.venue)}）` : '';
+  const analysis = attrEscape(item.analysis || item.summary || item.text || '');
+  if (official || venue) return `${official}${venue}：${analysis}`;
+  return analysis || attrEscape(JSON.stringify(item));
 }
 
 function stripMarkdownHeading(text) {
