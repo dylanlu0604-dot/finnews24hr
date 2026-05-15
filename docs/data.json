@@ -1,7 +1,39 @@
 {
-  "updated": "2026-05-16 04:33:22",
-  "count": 15521,
+  "updated": "2026-05-16 04:36:53",
+  "count": 15520,
   "items": [
+    {
+      "id": "te:markets:551306",
+      "time": "2026-05-16 04:36:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Falls as Inflation and Political Concerns Weigh — The Ibovespa lost 0.6% to close at 177,284 on Friday, pressured by a negative external backdrop amid fears of rising global inflation, while investors also monitored domestic political developments. Concerns linked to the Middle East conflict pushed global bond yields higher, while oil prices advanced amid the lack of progress toward ending ship attacks and seizures around the Strait of Hormuz, reinforcing stagflation fears. Brazil’s 10-year government bond yield climbed to its highest level in over a year. Locally, sentiment was also weighed by reports linking Senator Flávio Bolsonaro to former Banco Master owner Daniel Vorcaro, who was charged with fraud. Major banks posted losses, with Itaú down 1.7% and Bradesco shedding 1.2%. Eneva fell 3.4% despite strong first-quarter results, while Marfrig closed flat after releasing solid earnings. In contrast, Petrobras gained 1% as higher oil prices supported energy shares."
+    },
+    {
+      "id": "4882947",
+      "time": "2026-05-16 04:35:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【AI衝擊初現端倪，美國數類職業連續出現嚴重崗位流失】2025年美國多個被認為易受人工智慧(AI)影響的職業領域連續第二年出現嚴重的職位流失，其中以客戶服務代表以及特定型別的秘書和銷售人員受到衝擊最為嚴重。根據週五釋出的年度資料，在2024年5月至2025年5月期間，美國勞工統計局標記為暴露在AI風險之下的18個職業組別（涉及約1000萬個工作崗位）的就業人數下降了0.2%。相比之下，同期美國整體就業人數增長了0.8%。"
+    },
+    {
+      "id": "te:markets:551305",
+      "time": "2026-05-16 04:35:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 1.07% Lower — The Dow Jones Index fell 537 points or 1.07 percent on Friday to close at 49526 points. Leading the losses are Nvidia (-4.39%), Boeing (-3.74%) and Caterpillar (-3.42%)."
+    },
     {
       "id": "4882941",
       "time": "2026-05-16 04:32:07",
@@ -139864,50 +139896,6 @@
         "其他"
       ],
       "text": "大和資本將高通（Qualcomm）的目標股價從每股140.00美元上調至225.00美元。"
-    },
-    {
-      "id": "te:markets:549350",
-      "time": "2026-05-09 04:35:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Closes 0.02% Higher — The Dow Jones Index gained 12 points or 0.02 percent on Friday to close at 49609 points. Gains were led by Cisco Systems (4.77%), Boeing (2.97%) and UnitedHealth (2.67%). Biggest losers were Salesforce (-3.02%), McDonalds (-2.80%) and Home Depot (-1.51%)."
-    },
-    {
-      "id": "4869250",
-      "time": "2026-05-09 04:34:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "英偉達任命蘇珊娜・諾拉・約翰遜為公司董事。"
-    },
-    {
-      "id": "te:markets:549349",
-      "time": "2026-05-09 04:33:47",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Singapore",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Oversea-Chinese earnings above expectations at 0.44 SGD — Oversea-Chinese (O39) released earnings per share at 0.44 SGD, compared to market expectations of 0.41 SGD."
-    },
-    {
-      "id": "mkt:019e094b-c04d-7222-b4ab-0ef7ba2d2cea",
-      "time": "2026-05-09 04:33:39",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7"
-      ],
-      "text": "NVIDIA ADDS SUZANNE NORA JOHNSON TO BOARD OF DIRECTORS"
     }
   ]
 }
