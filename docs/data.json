@@ -1,7 +1,95 @@
 {
-  "updated": "2026-05-15 09:07:31",
-  "count": 15213,
+  "updated": "2026-05-15 09:10:00",
+  "count": 15218,
   "items": [
+    {
+      "id": "4880923",
+      "time": "2026-05-15 09:09:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【五礦證券與國創公司簽署戰略合作協議】近日，五礦證券與五礦集團國創中心科技（湖南）有限公司（簡稱“國創公司”）正式簽署戰略合作協議。雙方將聚焦產業研究、產業孵化、基金合作、資本運作等領域展開深度合作。"
+    },
+    {
+      "id": "4880922",
+      "time": "2026-05-15 09:09:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "榮耀官宣機器人手機Q3上市。"
+    },
+    {
+      "id": "4880921",
+      "time": "2026-05-15 09:09:27",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內跌7%，現報20121.00元。"
+    },
+    {
+      "id": "4880920",
+      "time": "2026-05-15 09:09:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌4%，現報81.88美元/盎司。"
+    },
+    {
+      "id": "4880919",
+      "time": "2026-05-15 09:09:22",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀失守82美元/盎司，日內跌3.91%。"
+    },
+    {
+      "id": "4880918",
+      "time": "2026-05-15 09:08:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌母公司Alphabet發行的日元計價債券總規模為5765億日元。"
+    },
+    {
+      "id": "mkt:019e292d-cfb4-7bb5-b4d3-bbc31ccfad35",
+      "time": "2026-05-15 09:08:48",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "ALPHABET YEN-DENOMINATED BOND ISSUANCE TOTALS 576.5 BLN YEN, TERM SHEET SHOWS"
+    },
+    {
+      "id": "mkt:019e292d-a231-7bb5-b4d3-b13c43420715",
+      "time": "2026-05-15 09:08:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "TAIWAN EQUITIES SCALE RECORD PEAK AS MARKET CLIMBS 1.5% EARLY ON"
+    },
+    {
+      "id": "mkt:019e292c-64cf-7bb5-b4d3-ab1bf0f33af2",
+      "time": "2026-05-15 09:07:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade",
+        "S&P500",
+        "Impact bullish",
+        "CNH",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "TRUMP: CHINA'S XI IS ALL BUSINESS, NO GAMES -FOX NEWS INTERVIEW"
+    },
     {
       "id": "4880917",
       "time": "2026-05-15 09:06:03",
@@ -137229,43 +137317,6 @@
         "其他"
       ],
       "text": "【解放軍報評論員：堅持有腐必反、有貪必肅】軍事審判機關對魏鳳和案件、李尚福案件進行了依法審理，作出一審判決，充分體現了黨中央全面從嚴治黨、全面從嚴治軍的堅定決心，表明了黨中央、中央軍委堅定不移懲治腐敗的決心意志，對於震懾腐敗分子、提振軍心士氣，對於捍衛人民軍隊政治本色、保持人民軍隊純潔光榮，具有重要意義。"
-    },
-    {
-      "id": "te:markets:548975",
-      "time": "2026-05-08 09:09:22",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Australia Stocks Under Strain, Weekly Gains Intact — Australian shares tumbled 106 points, or 1.2%, to 8,773 in early Friday trade, snapping a two-day rebound as Wall Street’s overnight slide and renewed doubts over a U.S.–Iran accord weighed on sentiment. Tehran signaled it would block the reopening of the Strait of Hormuz under “an unrealistic plan,” stoking energy concerns. Locally, inflation worries persisted after the Reserve Bank warned surging fuel costs from the conflict risked second-round price pressures despite three hikes this year. Trade data added to the gloom, showing the first deficit since December 2017 as imports hit records while exports fell. Losses were broad, led by financials, logistics, and retail. Among major laggards were Bluescope Steel (-2.4%), Reece (-1.7%), and Qantas Airways (-1.6%). Meanwhile, the big four banks slid between 1.2% and 3.8%. Still, bargain hunting has left the market up about 0.5% for the week, on track for its first weekly gain in a month."
-    },
-    {
-      "id": "4867375",
-      "time": "2026-05-08 09:09:21",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【規範涉企行政檢查 司法部印發通知全面推行“掃碼入企”】記者今天（8日）從司法部瞭解到，司法部日前印發《關於全面推行“掃碼入企”工作進一步規範涉企行政檢查的通知》，對“掃碼入企”基本環節、基本要素進行統一規範。“掃碼入企”是規範行政檢查的有效措施。《國務院辦公廳關於嚴格規範涉企行政檢查的意見》對加快推行“掃碼入企”提出明確要求。在規範涉企行政執法專項行動中，很多地方探索運用“掃碼入企”治理亂檢查，形成了不少有效經驗做法，為在全國全面推行奠定了良好基礎。《通知》在總結地方實踐經驗的基礎上，對“掃碼入企”作了進一步規範。嚴格統一賦碼，明確省級政府行政執法監督機構要加強統籌，會同有關執法部門加快整合賦碼渠道，形成統一的“執法碼”。強化各級各部門執法資料對接和資訊互認。明晰檢查內容，強調“執法碼”是關聯行政檢查行為、顯示檢查任務的唯一數字標識，全面涵蓋檢查主體、人員、數量、事項、時間地點、結果等內容，企業一掃碼，就可以清晰知道誰來查、查什麼。明確掃碼程式，嚴格掃碼流程，入企檢查前，執法人員要報批報備檢查任務，系統自動生成“執法碼”；聯合檢查的，一次只賦一個碼。未取得“執法碼”的，不得實施檢查；情況緊急、需當場實施的，事後要限時補辦。入企檢查時，執法人員主動出示“執法碼”，企業掃碼核驗相關資訊，有異議的可以一鍵反饋。入企檢查後，自動形成檢查記錄與執法文書，統一匯聚到政府行政執法監督資訊系統，實現對檢查的全過程監督。（央視新聞）"
-    },
-    {
-      "id": "4867374",
-      "time": "2026-05-08 09:08:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "【諾誠健華新型TYK2抑制劑ICP-488治療乾燥綜合徵II期臨床試驗獲CDE批准】5月8日，諾誠健華宣佈，公司自主研發的新型TYK2抑制劑（ICP-488）治療乾燥綜合徵獲國家藥品監督管理局（NMPA）藥品審評中心（CDE）批准開展II期臨床試驗。"
-    },
-    {
-      "id": "4867373",
-      "time": "2026-05-08 09:07:41",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【Anthropic旗下Mythos模型打亂白宮人工智慧戰略】美國副總統萬斯近日在與科技企業執行長的通話中，對Anthropic的Mythos等新型人工智慧模型表達了擔憂與警惕。萬斯表示，以Anthropic推出的Mythos為代表的新型AI模型，能夠自主挖掘軟體漏洞；這類模型可發起網路攻擊，衝擊鄉鎮銀行、醫院及供水設施，而地方政府並無能力應對此類風險。據知情人士透露，萬斯向一眾企業執行長表示：“我們各方必須就此展開協作。”參會高管包括：OpenAI的山姆・奧爾特曼、Anthropic的達里奧・阿莫代伊、太空探索技術公司（SpaceX）的埃隆・馬斯克、谷歌母公司Alphabet的桑達爾・皮查伊，以及微軟的薩提亞・納德拉。"
     }
   ]
 }
