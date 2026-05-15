@@ -1,7 +1,25 @@
 {
-  "updated": "2026-05-15 08:55:57",
-  "count": 15210,
+  "updated": "2026-05-15 08:59:21",
+  "count": 15207,
   "items": [
+    {
+      "id": "mkt:019e2922-efbd-7bb5-b4d3-846e97bcfa2f",
+      "time": "2026-05-15 08:56:55",
+      "tags": [
+        "MKT News",
+        "005930.KS",
+        "Impact bearish"
+      ],
+      "text": "SAMSUNG ELEC'S LABOUR UNION LEADER SAYS HE DOES NOT BELIEVE THAT GOVERMENT-MEDIATION WOULD BE POSSIBLE"
+    },
+    {
+      "id": "4880890",
+      "time": "2026-05-15 08:56:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星電子工會領導人表示，他認為政府調解不可行。"
+    },
     {
       "id": "mkt:019e2921-a2a3-7bb5-b4d3-7efe67dec9a6",
       "time": "2026-05-15 08:55:30",
@@ -137203,61 +137221,6 @@
         "國際"
       ],
       "text": "【特朗普：希望郵輪疫情已得到控制，明天可能公佈報告】據央視記者當地時間5月7日獲悉，美國總統特朗普表示，希望發生在郵輪上的漢坦病毒疫情“已經得到控制”。特朗普當天表示：“我們希望它已經基本處於控制之下。這是發生在那艘船上的事情，我認為我們明天會發布一份完整報告。”他還稱，目前已有大量人員正在研究相關情況，並表示“應該不會有問題”。（央視新聞）"
-    },
-    {
-      "id": "4867353",
-      "time": "2026-05-08 08:59:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "【瀏陽煙花廠爆炸事故救援進展：現場餘廢火藥轉移處置基本完成】湖南瀏陽市華盛煙花製造燃放有限公司車間5月4日發生爆炸，事故造成26人死亡、61人受傷。7日，最高人民檢察院決定對湖南瀏陽煙花爆炸重大責任事故一案掛牌督辦。連日來，爆炸現場餘廢生產藥物與煙花成品、半成品的轉移處置工作持續推進。截至7日晚，轉移處置工作已經基本完成。"
-    },
-    {
-      "id": "4867352",
-      "time": "2026-05-08 08:58:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "【外媒：白宮證實，烏談判代表團團長在邁阿密與美方官員會面】據法新社8日報道，白宮向該媒體證實，烏談判代表團團長、烏國家安全與國防委員會秘書烏梅羅夫7日在美國佛羅里達州邁阿密與美方官員進行會面。 報道稱，基輔方面早些時候宣佈，烏梅羅夫將與美國總統特使威特科夫等人會晤，這是雙方自3月底以來的首次會面。 與此同時，烏克蘭總統澤連斯基7日表示，烏梅羅夫當天將與美國方面圍繞烏克蘭危機，就人道主義和外交程序等議題舉行會談。澤連斯基在社交媒體發文說，人道主義是會談首項議題，烏方希望舉行新一輪烏俄換俘行動。此外，烏方希望推進外交程序以結束俄烏衝突，烏方致力於促成有尊嚴的和平並實現安全保障。 （環球網）"
-    },
-    {
-      "id": "mkt:019e0516-eedf-7775-8cbb-e05c4795c457",
-      "time": "2026-05-08 08:57:29",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "EURUSD",
-        "Impact bullish",
-        "S&P500",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【Trump Gives EU Until July 4 to Implement Trade Deal, Delays Higher Car Tariffs】US President Donald Trump has given the European Union until July 4 to implement its side of last year’s trade agreement or face “much higher” tariffs, the Financial Times reported, citing people familiar with the matter. Trump also offered a reprieve from threatened higher car tariffs after speaking with European Commission President Ursula von der Leyen. Under the deal struck in Turnberry, the US would reduce tariffs on most EU goods to 15%, while the EU agreed to cut tariffs on US industrial goods and some agricultural products to zero. Von der Leyen said both sides remain committed to implementing the agreement and making progress toward tariff reductions by early July."
-    },
-    {
-      "id": "4867351",
-      "time": "2026-05-08 08:57:08",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【特朗普或邀請多家公司CEO一同訪華，受邀名單競爭激烈】5月8日，據美國新聞網站Semafor報道，知情人士透露，特朗普政府計劃邀請英偉達、蘋果、埃克森美孚、波音等大型公司的CEO，隨同總統在下週訪問中國。（鳳凰網）"
-    },
-    {
-      "id": "mkt:019e0515-c141-7775-8cbb-de6fd4ddb6ed",
-      "time": "2026-05-08 08:56:12",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bullish",
-        "XAUUSD",
-        "Brent"
-      ],
-      "text": "【Key Points of the Past 24 Hours – MKTNews】 China / Policy & Diplomacy - Brazil announces visa-free entry for Chinese citizens - Premier Li Qiang meets with a delegation of US senators - Offshore yuan rises past 6.8 per dollar for the first time since February 2023 - China’s commerce ministry: firmly opposes and rejects EU ban on funding projects using Chinese inverters - China’s foreign ministry, on possible official US-China AI talks: no information available at present Global Markets & Central Banks - South Korea surpasses Canada to become the world’s seventh-largest stock market - Trump extends deadline for EU tariff deal approval to July 4 - US court rules Trump’s 10% tariffs invalid, though ruling does not have broad applicability - World Gold Council: global gold ETFs returned to net inflows in April; Asia logged an eighth straight month of inflows - Poland c.bank governor: Poland holds 595 tons of gold reserves and aims to raise holdings to 700 tons - Fed’s Hammack: base case is for rates to remain unchanged for an extended period Middle East & US–Iran - Iran: has not responded to the US proposal - Air defense systems activated in western Tehran; reports of explosions heard in Dubai - Iranian president says he recently met with the supreme leader - Middle East media say the US and Iran reached understandings on easing the US maritime blockade - US intelligence reportedly assesses Iran could withstand Trump’s blockade for at least three to four months - Saudi Arabia and Kuwait restore US access to military bases and airspace; Al Jazeera cites US officials denying reports about restarting “automatic action” measures - US State Department official: Lebanon and Israel to hold talks in Washington next Thursday and Friday"
     }
   ]
 }
