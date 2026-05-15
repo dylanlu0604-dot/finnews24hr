@@ -1,7 +1,57 @@
 {
-  "updated": "2026-05-15 11:31:51",
-  "count": 15255,
+  "updated": "2026-05-15 11:35:15",
+  "count": 15259,
   "items": [
+    {
+      "id": "4881142",
+      "time": "2026-05-15 11:34:37",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【新加坡航空稱將不顧中東衝突繼續擴張網路】新加坡航空(Singapore Airlines)執行長Goh Choon Phong週五表示，儘管中東局勢存在不確定性，但該公司將繼續擴張其航線網路。Goh Choon Phong在一次吹風會上說，衝突導致的燃料成本上升是該航空公司受到的最大影響之一，不過除了暫時減少飛往中東的航班外，該公司沒有削減運力。他補充說，這家城市國家的航空公司將繼續尋找機會以抓住航空客運量。Goh Choon Phong還表示，新加坡航空仍致力於對印度航空的投資，稱其對該航空公司的投資是一項“長期博弈“。他說，由於沒有國內航空市場，建立第二個海外樞紐對新加坡航空的長期增長至關重要。"
+    },
+    {
+      "id": "mkt:019e29b2-d4bd-7bb5-b4d5-f6663daae0fd",
+      "time": "2026-05-15 11:34:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "Industrial Metals",
+        "XAUUSD",
+        "Impact mixed"
+      ],
+      "text": "【China Futures Midday Mostly Lower; Silver Slumps Over 7%】China’s most active futures contracts are mostly lower at the midday break, with SC crude and styrene (EB) up over 2%, while the containerized freight index (Europe route), PX, LPG, eggs and PTA rise over 1%. On the downside, silver tumbles over 7%, platinum falls over 5%, palladium drops over 4%, while No.20 rubber, rubber, soybean No.2 and tin decline over 2%. Butadiene rubber, nickel, cotton and industrial silicon lose over 1%."
+    },
+    {
+      "id": "4881141",
+      "time": "2026-05-15 11:32:33",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "受燃油價格上漲影響，印度10年期國債收益率上漲3個基點至7.05%。"
+    },
+    {
+      "id": "4881140",
+      "time": "2026-05-15 11:32:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "南華期貨分析師在一份研究報告中表示，追逐鐵礦石上漲行情的下行風險有所上升。南華期貨補充說，與此同時，儘管航運成本居高不下，為鐵礦石價格提供了一定支撐，但港口庫存去化速度已經放緩，表明需求前景疲軟。"
+    },
+    {
+      "id": "4881139",
+      "time": "2026-05-15 11:31:03",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【A股午評：科創50指數探底回升半日漲1.12%，人形機器人、半導體裝置板塊爆發】A股三大指數早盤探底回升上漲，截至午盤，上證指數漲0.12%，深證成指漲0.24%，創業板指漲0.57%，科創50指數漲1.12%，北證50漲0.85%。全市場成交額21875億元，較上日縮量991億元，全市場超3000只個股上漲。板塊題材上，氟化工概念、人形機器人、半導體裝置、儲存晶片、短劇遊戲、足球概念股漲幅居前；有色金屬、光伏裝置、白酒、港口航運、豬肉、大豆板塊跌幅居前。盤面上，有報道稱韓國半導體級氫氟酸供應鏈預計6至7月大幅漲價，氟化工產業鏈大幅高開，中巨芯、濱化股份等股收穫漲停。機器人產業催化密集落地，人形機器人概念股盤中拉昇，三瑞智慧、紐威數控等10餘股漲停。半導體裝置板塊同樣表現活躍，中微公司、芯源微、拓荊科技、華海清科等股創出歷史新高。此外，短劇遊戲、足球、儲存晶片板塊均有表現。另一方面，貴金屬、光伏裝置板塊早盤走低，部分科技板塊下挫推動三大指數一度走弱，興業銀錫、奧特維分別領跌板塊。"
+    },
     {
       "id": "4881138",
       "time": "2026-05-15 11:30:28",
@@ -137741,16 +137791,6 @@
         "國際"
       ],
       "text": "截至4月底，印尼外匯儲備降至1462億美元。"
-    },
-    {
-      "id": "mkt:019e05a6-5b74-7775-8cbd-86533ae4f53e",
-      "time": "2026-05-08 11:34:00",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "【China Futures Midday Mostly Lower; Silver, Container Index Gain Over 2%】China’s most active futures contracts are mostly lower at the midday break, with silver and the containerized freight index (Europe route) up over 2%, while No.20 rubber, eggs and rubber gain over 1%. On the downside, benzene, ethylene glycol, PX and PTA fall over 3%, while styrene, palladium, PET, nickel, stainless steel, propylene, BR rubber, LPG, methanol, short fiber and low-sulfur fuel oil (LU) drop over 2%."
     }
   ]
 }
