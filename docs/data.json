@@ -1,7 +1,105 @@
 {
-  "updated": "2026-05-16 04:19:22",
-  "count": 15520,
+  "updated": "2026-05-16 04:22:52",
+  "count": 15527,
   "items": [
+    {
+      "id": "4882926",
+      "time": "2026-05-16 04:22:36",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "13F報告顯示，伯克希爾哈撒韋一季度建倉達美航空（DAL）和M，增持谷歌A、紐約時報（NYT）、LEN。 清倉Visa、MasterCard、聯合健康、DPZ、Aon，減持美國銀行、雪佛龍、STZ、NUE等。"
+    },
+    {
+      "id": "4882924",
+      "time": "2026-05-16 04:21:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【烏干達報告埃博拉疫情 一輸入性病例死亡】烏干達衛生部15日釋出宣告，報告該國出現本迪布焦型埃博拉病毒疫情，一名來自鄰國剛果（金）的男子在烏首都坎帕拉因病去世。"
+    },
+    {
+      "id": "mkt:019e2d4c-14ad-7663-82fc-9c1bbc9f2043",
+      "time": "2026-05-16 04:20:21",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AMD.O",
+        "Impact bullish"
+      ],
+      "text": "ADVANCED MICRO DEVICES ENTERS A $5B CREDIT PACT"
+    },
+    {
+      "id": "mkt:019e2d4b-d567-7663-82fc-92b9a0cc88b0",
+      "time": "2026-05-16 04:20:04",
+      "tags": [
+        "MKT News",
+        "BLK.O",
+        "Impact bearish"
+      ],
+      "text": "BLACKROCK PRIVATE CREDIT FUND'S VALUATIONS BEING PROBED BY DOJ"
+    },
+    {
+      "id": "4882923",
+      "time": "2026-05-16 04:19:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價15日顯著上漲】截至當天收盤，紐約商品交易所6月交貨的輕質原油期貨價格上漲4.25美元，收於每桶105.42美元，漲幅為4.20%；7月交貨的倫敦布倫特原油期貨價格上漲3.54美元，收於每桶109.26美元，漲幅為3.35%。"
+    },
+    {
+      "id": "mkt:019e2d4b-9f77-7663-82fc-8ab932587d05",
+      "time": "2026-05-16 04:19:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US BANK DEPOSITS ROSE TO $19.217 TLN FROM $19.106 TLN IN THE PRIOR WEEK"
+    },
+    {
+      "id": "mkt:019e2d4b-76aa-7663-82fc-836aa7ab1779",
+      "time": "2026-05-16 04:19:40",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA RAISES SHARE STAKE IN COREWEAVE BY 94.5% TO 47.2 MILLION CLASS A SHARES - SEC FILING"
+    },
+    {
+      "id": "te:markets:551304",
+      "time": "2026-05-16 04:19:27",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Falls as Bond Selloff Hits Mining Stocks — The S&P/TSX Composite Index fell 1.3% to close at 33,833 on Friday, pressured by losses in the mining sector and a global bond market selloff. Global bond yields surged as signs of economic strain from the Iran conflict and rising oil prices fueled concerns over faster interest rate hikes by major central banks and weaker economic growth. Canada’s 10-year government bond yield climbed to its highest level in about two years. Financial shares also traded lower, with Brookfield down 4%. Mining stocks led losses as higher Treasury yields and a stronger US dollar weighed on gold prices and reduced the appeal of precious metals producers. Agnico Eagle fell 6.2%, Barrick lost 5.8%, and Wheaton Precious Metals shed 6.1%. Meanwhile, energy shares advanced as oil prices rose after comments from Donald Trump and Iran’s foreign minister further weakened hopes for a deal to end attacks and ship seizures around the Strait of Hormuz. Canadian Natural gained 1.2% and Suncor added 2.5%."
+    },
+    {
+      "id": "4882922",
+      "time": "2026-05-16 04:19:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國司法部正對貝萊德私募信貸基金資產估值展開調查。"
+    },
+    {
+      "id": "4882921",
+      "time": "2026-05-16 04:19:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "13F報告顯示：Third Point建倉Meta、谷歌A等。清倉微軟等，減持英偉達等。"
+    },
     {
       "id": "4882919",
       "time": "2026-05-16 04:18:10",
@@ -139865,31 +139963,6 @@
         "Importance 0"
       ],
       "text": "Oil Edges Higher on Friday, Posts Weekly Loss — Brent crude oil rose 1.2% to settle near $101 per barrel on Friday as renewed clashes between the US and Iran raised doubts about the durability of a fragile ceasefire and tempered hopes for a quick peace agreement, though prices still posted a weekly loss of about 6%. Fighting in the Persian Gulf kept markets focused on the Strait of Hormuz, which has remained largely closed since late February, disrupting global crude flows and creating a major supply shock. Iran accused the US of violating the ceasefire, while Washington said American forces struck Iranian military targets after attacks on US warships and blocked tankers attempting to leave Iranian ports. President Donald Trump said the ceasefire remained in effect despite the exchanges. Traders continue balancing expectations for diplomacy against the risk of further escalation."
-    },
-    {
-      "id": "4869227",
-      "time": "2026-05-09 04:21:33",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國 SEC 備案檔案披露顯示，截至 3 月 31 日，優步科技公司持有 Weride Inc 1120 萬份贊助股份權益。"
-    },
-    {
-      "id": "4869226",
-      "time": "2026-05-09 04:21:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "週五（5月8日），半導體ETF收漲4.90%，全球科技股指數ETF、科技行業ETF至少漲3.44%，銀行業ETF、區域銀行ETF至多跌0.14%，能源業ETF跌0.45%，網路股指數ETF跌0.86%。"
-    },
-    {
-      "id": "4869225",
-      "time": "2026-05-09 04:20:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "百事公司：股東在年度股東大會上投票反對設立獨立董事會主席的提案。"
     }
   ]
 }
