@@ -1,7 +1,20 @@
 {
-  "updated": "2026-05-16 04:47:14",
-  "count": 15511,
+  "updated": "2026-05-16 04:50:42",
+  "count": 15512,
   "items": [
+    {
+      "id": "mkt:019e2d67-83f1-7663-82fc-b54175b7567b",
+      "time": "2026-05-16 04:50:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "UK'S STARMER IS EXPECTED TO APPROVE AN £18 BILLION INCREASE IN DEFENCE SPENDING AS HE FACES A BATTLE FOR POLITICAL SURVIVAL - THE TIMES"
+    },
     {
       "id": "4882954",
       "time": "2026-05-16 04:44:44",
