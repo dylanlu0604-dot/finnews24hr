@@ -1,7 +1,25 @@
 {
-  "updated": "2026-05-16 05:04:41",
-  "count": 15507,
+  "updated": "2026-05-16 05:08:10",
+  "count": 15501,
   "items": [
+    {
+      "id": "4882974",
+      "time": "2026-05-16 05:06:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽：確認德國AAA頂級信用評級。"
+    },
+    {
+      "id": "4882973",
+      "time": "2026-05-16 05:06:24",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "“新美聯儲通訊社”Nick Timiraos： 美聯儲理事鮑曼與米蘭二人支援任命鮑威爾出任臨時主席的決議，但就流程事宜投下反對票。二人主張該臨時任命應設定期限，若沃什就職最後環節因故再度推遲，需重新投票審議續任事宜。"
+    },
     {
       "id": "te:markets:551308",
       "time": "2026-05-16 05:03:31",
@@ -139728,75 +139746,6 @@
         "觀點"
       ],
       "text": "【股權變更掀熱潮 期貨行業新格局加速重構】近年來，國內期貨行業股權變更進入密集週期，華林證券擬收購海航期貨94%股份、中金財富期貨變更控股股東並吸收合併中金期貨、中衍期貨股權及實際控制人變更等案例完成，行業重組兼併熱潮持續升溫。 業內人士表示，這一系列股權變動並非短期市場波動所致，而是期貨行業應對自身結構性矛盾、推動轉型升級的必然舉措。隨著監管趨嚴、市場需求升級與資本佈局調整，期貨行業正逐步擺脫分散化格局，突破單一通道業務模式，向集中化、綜合服務化轉型。（中證報）"
-    },
-    {
-      "id": "4869281",
-      "time": "2026-05-09 05:08:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "SAFEPOINT HOLDINGS提交IPO申請。"
-    },
-    {
-      "id": "4869280",
-      "time": "2026-05-09 05:07:52",
-      "tags": [
-        "市場"
-      ],
-      "text": "週五（5月8日）紐約尾盤，標普500股指期貨最終漲0.81%，道指期貨漲0.10%，納斯達克100股指期貨漲2.32%。羅素2000股指期貨漲0.71%。"
-    },
-    {
-      "id": "te:markets:549352",
-      "time": "2026-05-09 05:06:53",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Ibovespa Rises as Investors Await US-Iran Deal — The Ibovespa gained 0.5% to close at 184,108 on Friday, as investors awaited Iran’s response to a US proposal aimed at ending the conflict in the Middle East. Banks led gains, with Itaú rising 1.1%, while other notable performers included Vale (+0.9%), WEG (+2.7%), and Azzas (+1.1%). Petrobras fell 1.2% as uncertainty over a potential peace deal persisted and clashes near the Strait of Hormuz continued. Elsewhere, Cemig (+0.9%), which is set to release Q1 2026 results later in the day, approved the election of Alexandre Ramos Peixoto as CEO. Banco do Brasil (+0.5%) said it renegotiated more than R$430 million in customer debt over two days. Embraer plunged 11.4% after reporting adjusted net income of R$145.4 million in Q1, down 51.5% from a year earlier. On the data front, revenue in Brazil’s manufacturing industry rose 3.8% in March from February, though growth remained weaker than a year earlier."
-    },
-    {
-      "id": "4869279",
-      "time": "2026-05-09 05:05:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "埃隆·馬斯克旗下人工智慧初創公司xAI上週裁員約10人。"
-    },
-    {
-      "id": "4869278",
-      "time": "2026-05-09 05:05:42",
-      "tags": [
-        "市場"
-      ],
-      "text": "週五（5月8日）紐約尾盤（週六北京時間04:59），離岸人民幣（CNH）兌美元報6.7971元，較週四紐約尾盤漲116點，日內整體交投於6.8099-6.7955元區間，逼近2023年2月9日尾盤報價6.7922元、當年1月16日頂部6.6975元。本週，離岸人民幣累計上漲大約340點，漲幅0.50%。"
-    },
-    {
-      "id": "4869277",
-      "time": "2026-05-09 05:05:38",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "土耳其任命YUSUF EMRE AKGUNDUZ為央行副行長。"
-    },
-    {
-      "id": "4869276",
-      "time": "2026-05-09 05:05:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "惠譽評級關於希臘的觀點：受中東衝突不利影響，預計2026年希臘經濟增速將有所放緩。"
-    },
-    {
-      "id": "4869275",
-      "time": "2026-05-09 05:04:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "加州總檢察長宣佈，通用汽車將支付1275萬美元和解加州消費者駕車隱私訴訟。"
     }
   ]
 }
