@@ -1,7 +1,100 @@
 {
-  "updated": "2026-05-15 20:27:53",
-  "count": 15611,
+  "updated": "2026-05-15 20:31:24",
+  "count": 15594,
   "items": [
+    {
+      "id": "4882292",
+      "time": "2026-05-15 20:30:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "LME倫銅日內跌超3.00%，現報13520.000美元/噸。"
+    },
+    {
+      "id": "4882291",
+      "time": "2026-05-15 20:30:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大3月投資者淨買入海外證券 39億加元，前值由253.6億加元修正為252.7億加元；加拿大3月海外投資者淨買入加拿大證券 46.2億加元，前值由61.7億加元修正為58.4億加元。"
+    },
+    {
+      "id": "4882290",
+      "time": "2026-05-15 20:30:35",
+      "tags": [
+        "資料"
+      ],
+      "text": "加拿大3月製造業裝船月率 3%，預期3.50%，前值3.60%。"
+    },
+    {
+      "id": "4882288",
+      "time": "2026-05-15 20:30:24",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美國5月紐約聯儲製造業指數 19.6，預期7.5，前值11；美國5月紐約聯儲製造業指數錄得19.6，為2022年4月以來新高。"
+    },
+    {
+      "id": "mkt:019e2b9e-56f5-7dd3-bfd7-ae4bf49ba07e",
+      "time": "2026-05-15 20:30:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Manufacturing Sales (MoM) (Mar) | actual 3% | consensus 3.50% | previous 3.60%"
+    },
+    {
+      "id": "mkt:019e2b9e-56f4-7dd3-bfd7-a0bcf4f1ea21",
+      "time": "2026-05-15 20:30:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Canadian Holdings Of Foreign Securities (Mar) | actual 3900000000B | previous 25360000000B"
+    },
+    {
+      "id": "mkt:019e2b9e-56f3-7dd3-bfd7-9c5ce489955e",
+      "time": "2026-05-15 20:30:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Foreign Holdings Of Canada Securities (Mar) | actual 4620000000B | previous 6170000000B"
+    },
+    {
+      "id": "mkt:019e2b9d-7853-7dd3-bfd7-975de3016356",
+      "time": "2026-05-15 20:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | New York Fed Manufacturing Index (May) | actual 19.6 | consensus 7.5 | previous 11"
+    },
+    {
+      "id": "te:economy:551194",
+      "time": "2026-05-15 20:29:53",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Housing Starts",
+        "Importance 1"
+      ],
+      "text": "Canada Housing Starts Hit Four-Month High — Housing starts in Canada jumped 17% to an annualized 279,300 units in April 2026 from the previous month, well above market forecasts of 240,000 units. The reading marked the highest level of housing starts in four months, pointing to renewed strength in residential construction activity. Rural starts were estimated at 13,694 units. Meanwhile, the six-month moving average of housing starts, which smooths monthly volatility, rose 3.2% to 256,777 units."
+    },
+    {
+      "id": "4882286",
+      "time": "2026-05-15 20:28:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【理想汽車首搭自研晶片，高管稱“供應商半價、三倍效能才值得買”】5月15日，理想汽車全新一代理想L9上市，共推出Ultra和Livis兩款車型，售價分別為45.98萬元和50.98萬元。新車首次搭載理想自研馬赫100晶片、800V全主動懸架和全線控底盤，CLTC綜合續航里程達到1650km。 值得注意的是，馬赫 M100 是理想汽車首款量產上車的自研智駕晶片，採用 5nm車規級工藝，單芯算力達1280TOPS。此次上市的理想L9 Livis版本搭載2顆馬赫M100晶片，總算力達2560TOPS。 理想汽車自研晶片相關計劃於2021年開啟，次年11月正式立項。除了理想汽車外，蔚來、小鵬等多家車企也推出自研晶片。理想汽車CTO謝炎對記者表示，2021年國內多家車企紛紛效仿特斯拉開啟晶片自研佈局，彼時行業普遍存在跟風佈局的現象，多數企業僅復刻表層動作，並未真正讀懂特斯拉放棄外部商用晶片、轉向自主研發的核心邏輯，自研佈局需要底層技術認知與長期戰略支撐。 “行業需要更大的算力，幾千、上萬TOPS，算力的成本很高。如果供應商的晶片有一半的價格、3倍的效能，我們也沒必要自己做。”謝炎對記者表示，從短期自研價值來看，一是壓縮成本，二是加快軟硬體適配迭代速度，與外部供應商合作適配週期漫長，自有團隊可實現技術快速更新。從長期來看，垂直整合能力構築企業競爭壁壘。（第一財經）"
+    },
     {
       "id": "4882285",
       "time": "2026-05-15 20:26:40",
@@ -140610,282 +140703,6 @@
         "國際"
       ],
       "text": "強勁的4月就業資料提振了美國國債價格，使其保持穩定。"
-    },
-    {
-      "id": "4868568",
-      "time": "2026-05-08 20:31:14",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國股指期貨在4月就業資料公佈後漲幅進一步擴大。"
-    },
-    {
-      "id": "4868567",
-      "time": "2026-05-08 20:31:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大4月就業人數 -1.77萬人，預期1.5萬人，前值1.41萬人。"
-    },
-    {
-      "id": "mkt:019e0792-63ed-7ff0-9ed4-e43bb8e4e641",
-      "time": "2026-05-08 20:30:59",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bearish",
-        "US10Y",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "US BLS: THE CHANGE IN TOTAL NONFARM PAYROLL EMPLOYMENT FOR FEBRUARY WAS REVISED DOWN BY 23,000, FROM -133,000 TO -156,000, AND THE CHANGE FOR MARCH WAS REVISED UP BY 7,000, FROM +178,000 TO +185,000"
-    },
-    {
-      "id": "mkt:019e0792-5f4e-7ff0-9ed4-d8c7830a785b",
-      "time": "2026-05-08 20:30:42",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "EURUSD",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "US LABOR APR NONFARM PAYROLLS +115K; CONSENSUS +55K"
-    },
-    {
-      "id": "mkt:019e0792-4129-7ff0-9ed4-d37fa497c62d",
-      "time": "2026-05-08 20:30:29",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500",
-        "Impact mixed"
-      ],
-      "text": "US BLS: JOB GAINS OCCURRED IN HEALTH CARE, TRANSPORTATION AND WAREHOUSING, AND RETAIL TRADE. FEDERAL GOVERNMENT EMPLOYMENT CONTINUED TO DECLINE"
-    },
-    {
-      "id": "4868566",
-      "time": "2026-05-08 20:30:26",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國4月季調後非農就業人口11.5萬人，預期6.2萬人，前值由17.8萬人修正為18.5萬人。"
-    },
-    {
-      "id": "4868565",
-      "time": "2026-05-08 20:30:18",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國4月失業率 4.3%，預期4.30%，前值4.30%。"
-    },
-    {
-      "id": "4868564",
-      "time": "2026-05-08 20:30:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "西班牙衛生部官員：我們已在阿利坎特檢測到1例疑似漢坦病毒病例。"
-    },
-    {
-      "id": "4868563",
-      "time": "2026-05-08 20:30:09",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "以太坊升破2300美元，日內漲0.39%。"
-    },
-    {
-      "id": "4868562",
-      "time": "2026-05-08 20:30:07",
-      "tags": [
-        "宏觀",
-        "焦點",
-        "國際"
-      ],
-      "text": "【5月8日《新聞聯播》主要內容】今天《新聞聯播》主要內容有：1.應習近平邀請 塔吉克總統將對華進行國事訪問； 2.【新思想引領新徵程】粵港澳大灣區加快打造高質量發展動力源； 3.李強簽署國務院令 公佈修訂後的《中華人民共和國行政複議法實施條例》； 4.丁薛祥在調研基礎研究時強調 深入貫徹落實加強基礎研究座談會精神 全面提升基礎研究水平和原始創新能力； 5.我國營商環境持續改善： （1）五項“一件事”政務服務改革全面完成； （2）涉企行政檢查“掃碼入企”全面推行； 6.培育消費新場景新業態 激發消費新動能； 7.天舟十號船箭組合體轉運至發射區 將於近日擇機發射； 8.【在希望的田野上】新技術新裝備助力農業生產； 9.國內聯播快訊： （1）中宣部等部門部署開展文化科技衛生“三下鄉”活動； （2）我國改革完善兒童用藥供應保障機制； （3）一季度末科技型中小企業貸款餘額同比增長20.9%； （4）《人工智慧終端智慧化分級》系列國家標準釋出； （5）《國內貿易交易指引（試行）》今天釋出實施； （6）一季度深圳對亞太經濟合作組織其他經濟體進出口近9000億元； （7）成達萬高鐵資陽沱江特大橋順利合龍； （8）平陸運河青年樞紐船閘開始密封檢查； （9）首屆央企面向退役軍人專場招聘活動在雄安啟動； （10）橫琴與拱北口岸同步開通車輛免刷證智慧通關； 10.日本民眾舉行集會抗議高市政權推動擴軍修憲等危險動向 俄羅斯外交部發言人強調銘記歷史 警惕日本“再軍事化”； 11.美國和伊朗在霍爾木茲海峽區域再度交火 伊媒稱目前局勢恢復正常； 12.國際聯播快訊： （1）俄國防部宣佈實施勝利日停火； （2）糧農組織警告中東緊張局勢衝擊糧食供應； （3）美法院裁定美政府10%全球關稅政策違法； （4）全球多家航司削減大量航班； （5）日本一核電機組因蒸汽洩漏暫停運轉。"
-    },
-    {
-      "id": "mkt:acb9fe8f-272f-42dd-9f6b-540811ea9fbd",
-      "time": "2026-05-08 20:30:03",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | Government Employment SA (Apr) | actual -8000K | previous -8000K"
-    },
-    {
-      "id": "mkt:ed2581e5-e5f3-4b3d-8257-85a9cf277493",
-      "time": "2026-05-08 20:30:03",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Manufacturing Employment SA (Apr) | actual -2000K | consensus 5000K | previous 15000K"
-    },
-    {
-      "id": "mkt:dce2d655-ef3a-48dc-8bc7-8737121abc31",
-      "time": "2026-05-08 20:30:03",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Average Hourly Earnings (YoY) (Apr) | actual 3.6% | consensus 3.80% | previous 3.50%"
-    },
-    {
-      "id": "mkt:9cc3d00c-a52f-4078-a531-268e858838e3",
-      "time": "2026-05-08 20:30:03",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Nonfarm Payroll Employment (Apr) | actual 115000K | consensus 62000K | previous 178000K"
-    },
-    {
-      "id": "mkt:019e0791-0cfb-7ff0-9ed4-ca3223ea1306",
-      "time": "2026-05-08 20:30:03",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Average Workweek (Apr) | actual 34.3 | consensus 34.2 | previous 34.2"
-    },
-    {
-      "id": "mkt:d6b5eaaa-4455-47b3-b1dd-5f8d7476a9c7",
-      "time": "2026-05-08 20:30:03",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Private Nonfarm Payroll Employment (Apr) | actual 123000K | consensus 75000K | previous 186000K"
-    },
-    {
-      "id": "mkt:019e0791-0cb1-7ff0-9ed4-c0619a3275a7",
-      "time": "2026-05-08 20:30:03",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Average Hourly Earnings (MoM) (Apr) | actual 0.2% | consensus 0.30% | previous 0.20%"
-    },
-    {
-      "id": "mkt:019e0791-0c34-7ff0-9ed4-ba7b7cfeb0f3",
-      "time": "2026-05-08 20:30:03",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Unemployment Rate (Apr) | actual 4.3% | consensus 4.30% | previous 4.30%"
-    },
-    {
-      "id": "mkt:019e0791-0c31-7ff0-9ed4-b28b7bdfced9",
-      "time": "2026-05-08 20:30:03",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | U6 Unemployment Rate (Apr) | actual 8.2% | previous 8.00%"
-    },
-    {
-      "id": "mkt:019e0791-0bdf-7ff0-9ed4-ad3c57bb8aba",
-      "time": "2026-05-08 20:30:03",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Labour Force Participation Rate (Apr) | actual 61.8% | consensus 62% | previous 61.90%"
-    },
-    {
-      "id": "mkt:019e0790-f752-7ff0-9ed4-8f6c93372af5",
-      "time": "2026-05-08 20:30:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Canada | Unemployment Rate (Apr) | actual 6.9% | consensus 6.7% | previous 6.70%"
-    },
-    {
-      "id": "mkt:019e0790-f84c-7ff0-9ed4-9d27de5eb2fc",
-      "time": "2026-05-08 20:30:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Canada | Employment Change Part Time (Apr) | actual 29000K | previous 15200K"
-    },
-    {
-      "id": "mkt:019e0790-f850-7ff0-9ed4-a664eacb41a0",
-      "time": "2026-05-08 20:30:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Canada | Employment Change Full Time (Apr) | actual -46700K | previous -1100K"
-    },
-    {
-      "id": "mkt:019e0790-f7d2-7ff0-9ed4-96a09c8ba440",
-      "time": "2026-05-08 20:30:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Canada | Labor Force Participation Rate (Apr) | actual 65% | consensus 64.9% | previous 64.90%"
-    },
-    {
-      "id": "mkt:019e0790-f721-7ff0-9ed4-805386b8b742",
-      "time": "2026-05-08 20:30:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Canada | Employment Change (Apr) | actual -17700K | consensus 15000K | previous 14100K"
-    },
-    {
-      "id": "4868561",
-      "time": "2026-05-08 20:29:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國五角大樓開始公佈一批不明飛行物相關新檔案，並表示公眾可自行對不明異常現象得出結論。"
-    },
-    {
-      "id": "4868560",
-      "time": "2026-05-08 20:28:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：“洪迪厄斯號”郵輪上的新加坡居民漢坦病毒檢測呈陰性。"
     }
   ]
 }
