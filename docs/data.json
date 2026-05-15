@@ -1,7 +1,57 @@
 {
-  "updated": "2026-05-15 09:45:11",
-  "count": 15250,
+  "updated": "2026-05-15 09:48:43",
+  "count": 15251,
   "items": [
+    {
+      "id": "mkt:019e2952-3a16-7bb5-b4d4-97eba683484e",
+      "time": "2026-05-15 09:48:34",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "HUAHONG SEMICONDUCTOR DOWN MORE THAN 7%"
+    },
+    {
+      "id": "4880998",
+      "time": "2026-05-15 09:47:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "【cro概念股震盪走高，昭衍新藥漲停】cro概念股震盪走高，昭衍新藥漲停，翰宇藥業、益諾思、美迪西、成都先導、昊帆生物跟漲。"
+    },
+    {
+      "id": "4880997",
+      "time": "2026-05-15 09:47:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "訊息稱 iPhone 18 系列將全面搭載蘋果自研 5G 基帶，同步支援 “限制精確位置” 隱私功能。該功能可降低運營商定位精度，且不影響緊急呼叫定位與網路訊號。"
+    },
+    {
+      "id": "4880996",
+      "time": "2026-05-15 09:46:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【港股華虹半導體短線跳水跌超5%】港股華虹半導體短線跳水跌超5%，此前漲超3%，現報119港元。"
+    },
+    {
+      "id": "4880995",
+      "time": "2026-05-15 09:46:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我與伊朗領導人打過一點交道。"
+    },
+    {
+      "id": "4880994",
+      "time": "2026-05-15 09:45:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達1.00%，成分股中，晶科能源跌6.38%，阿特斯跌5.22%，大全能源跌4.56%，海光資訊跌4.51%。"
+    },
     {
       "id": "4880993",
       "time": "2026-05-15 09:44:51",
@@ -137588,53 +137638,6 @@
         "觀點"
       ],
       "text": "高盛：維持對中國股票超配評級。離岸中資股的估值更具吸引力，但MSCI中國指數中約37%的成分股來自與軟體相關的股票。考慮到當前市場更偏好科技硬體，認為這些股票可能需要先實現較強的盈利表現才能重新獲得市場關注，意味著H股在短期內可能跑輸A股。"
-    },
-    {
-      "id": "4867438",
-      "time": "2026-05-08 09:48:05",
-      "tags": [
-        "觀點"
-      ],
-      "text": "高盛將滬深300指數12個月目標位設於5300點，並指出投資A股頗具吸引力。"
-    },
-    {
-      "id": "mkt:019e0545-1b9f-7775-8cbc-6fa19abbb901",
-      "time": "2026-05-08 09:47:55",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "【DoubleLine’s Gundlach Repositions Funds Against Risk of Forced US Treasury Coupon Cuts】DoubleLine Capital CEO Jeffrey Gundlach said he has shifted some portfolios, including the firm’s flagship fund, from higher-coupon US Treasuries into lower-coupon bonds of the same maturity to hedge against a possible future restructuring of US debt. In an interview, Gundlach said the US government could theoretically reduce coupon payments on outstanding debt during a future recession to lower interest costs, citing a hypothetical cut to 1% from 4% without changing maturities. He called the scenario a “longshot” but warned such a move would cause bond prices to collapse and severely damage US borrowing credibility. Gundlach linked the idea to Treasury Secretary Scott Bessent’s discussions about managing the yield curve to address the US debt burden."
-    },
-    {
-      "id": "4867437",
-      "time": "2026-05-08 09:46:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "【融捷健康新設子公司，含AI及機器人業務】企查查APP顯示，近日，蕪湖融捷健康科技有限公司成立，註冊資本3000萬元，經營範圍包含：可穿戴智慧裝置銷售；智慧機器人的研發；智慧機器人銷售；人工智慧硬體銷售等。企查查股權穿透顯示，該公司由融捷健康全資持股。"
-    },
-    {
-      "id": "4867436",
-      "time": "2026-05-08 09:45:24",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美國ITC釋出對半導體器件及其下游產品的337部分終裁】2026年5月7日，美國國際貿易委員會（ITC）釋出公告稱，對特定半導體器件及其下游產品（Certain Semiconductor Devices and Products Containing the Same，調查編碼：337-TA-1414）作出337部分終裁：經過部分複審，確認本案存在侵權美國註冊專利號9,899,481第4、17項權利要求的行為，對經由列名被告對美出口、在美進口和在美銷售的侵權產品釋出有限排除令，對列名被告發布禁止令，對總統審查期間進口的侵權產品徵收100%保證金，本案調查終止。(中國貿易救濟資訊網)"
-    },
-    {
-      "id": "4867435",
-      "time": "2026-05-08 09:45:12",
-      "tags": [
-        "公司",
-        "國際",
-        "原創"
-      ],
-      "text": "【獨家|小米汽車加碼出海】新浪科技獨家獲悉，小米汽車近日迎來人事調整，汽車部副總裁於立國兼任海外業務籌備組組長。 資料顯示，於立國曾擔任北汽極狐事業部總裁。加入小米汽車後，2022年1月，於立國先是擔任小米汽車副總裁兼小米汽車北京總部政委，負責統籌小米汽車綜合管理工作、專項業務推進以及小米汽車北京總部組織和人才建設；同年8月，於立國兼任小米汽車產品部總經理，負責小米汽車產品定義和產品線的管理工作；2025年，於立國分管智慧製造部、工廠、體系運營部。 此次，於立國兼任海外業務籌備組組長後，將向集團CEO、汽車部總裁雷軍和集團總裁盧偉冰雙線彙報。 目前，小米汽車正在加速出海佈局，根據小米集團合夥人兼總裁盧偉冰在小米投資者日上公佈的資訊，小米汽車預計將在2027年下半年正式開啟全球化程序，首站選定歐洲市場，隨後在2028年上半年進入右舵車市場。（新浪科技）"
     }
   ]
 }
