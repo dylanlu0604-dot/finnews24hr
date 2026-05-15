@@ -1,7 +1,591 @@
 {
-  "updated": "2026-05-15 22:16:32",
-  "count": 15493,
+  "updated": "2026-05-15 22:35:43",
+  "count": 15507,
   "items": [
+    {
+      "id": "mkt:019e2c02-884b-7663-82f9-4dd067812bf2",
+      "time": "2026-05-15 22:20:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "FIRE BREAKS OUT AT PDVSA-OPERATED GAS FACILITY IN VENEZUELA'S LAKE MARACAIBO, SOURCES SAY"
+    },
+    {
+      "id": "4882527",
+      "time": "2026-05-15 22:19:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "訊息人士與影片畫面顯示，工人正嘗試撲滅委內瑞拉國家石油公司（PDVSA）一處天然氣設施的火災。"
+    },
+    {
+      "id": "mkt:019e2c02-3a16-7663-82f9-40ba5f177033",
+      "time": "2026-05-15 22:19:45",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "CHINA COMMERCE MINISTER MET WITH CARGILL CEO - MINISTRY STATEMENT"
+    },
+    {
+      "id": "4882526",
+      "time": "2026-05-15 22:19:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "訊息人士稱，委內瑞拉馬拉開波湖一處由委內瑞拉國家石油公司運營的天然氣設施發生火災。"
+    },
+    {
+      "id": "4882525",
+      "time": "2026-05-15 22:19:31",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "波蘭財政部：截至4月末，波蘭外匯賬戶餘額規模摺合165.1億歐元。"
+    },
+    {
+      "id": "mkt:019e2c01-5bd9-7663-82f9-383198dc4068",
+      "time": "2026-05-15 22:19:06",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "TRUMP SAYS TO FOX DISCOURAGES TAIWAN GOING 'INDEPENDENT'"
+    },
+    {
+      "id": "4882524",
+      "time": "2026-05-15 22:19:02",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【商務部：王文濤部長會見美國嘉吉公司董事會主席兼執行長尚博遠】5月15日，王文濤部長在京會見美國嘉吉公司董事會主席兼執行長尚博遠。雙方就中美經貿關係、嘉吉公司在華髮展等進行交流。"
+    },
+    {
+      "id": "4882523",
+      "time": "2026-05-15 22:18:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所羅布斯塔咖啡期貨<LRCc2>跌幅超3%，報每噸3,376美元。"
+    },
+    {
+      "id": "4882522",
+      "time": "2026-05-15 22:17:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所阿拉比卡咖啡<KCCc2>下跌超3%，報每磅2.6620美元。"
+    },
+    {
+      "id": "4882521",
+      "time": "2026-05-15 22:17:02",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "傑富瑞將美國電力公司目標股價從152美元下調至147美元。"
+    },
+    {
+      "id": "4882520",
+      "time": "2026-05-15 22:16:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所（ICE）紐約可可期貨<CCC1>價格下跌近5%，至每噸3983美元。"
+    },
+    {
+      "id": "4882519",
+      "time": "2026-05-15 22:16:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：加密貨幣平臺Kraken的母公司Payward正裁員150人，作為其計劃IPO前最佳化舉措的一部分。"
+    },
+    {
+      "id": "4882518",
+      "time": "2026-05-15 22:15:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：Payward 正以200億美元估值進行新一輪融資。"
+    },
+    {
+      "id": "te:economy:551232",
+      "time": "2026-05-15 22:14:50",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brazil",
+        "Business Confidence",
+        "Importance 1"
+      ],
+      "text": "Brazil Industrial Confidence Rises in May — Brazil’s Industrial Business Confidence Index rose 2 points to 47.2 in May 2026, ending a three-month sequence of declines, though it remained below the 50-point threshold that separates optimism from pessimism. The Current Conditions Index increased 2.4 points to 42.9, reflecting improved assessments of both companies’ current conditions (+2.2 points to 46.3) and the broader Brazilian economy (+2.9 points to 36.1), although perceptions remained negative overall. Meanwhile, the Expectations Index rose 1.7 points to 49.3, moving closer to the neutral 50 mark and signaling less pessimistic views for the next six months. Expectations for the Brazilian economy increased 2.2 points to 40.9, while confidence regarding firms’ own outlook improved 1.5 points to 53.5."
+    },
+    {
+      "id": "te:economy:551231",
+      "time": "2026-05-15 22:14:18",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Nigeria",
+        "Inflation Rate",
+        "Importance 0"
+      ],
+      "text": "Nigeria Inflation Rate Quickens to 5-Month High in April — Nigeria’s annual inflation rate rose for a second straight month to 15.69% in April 2026 from 15.38% in March, reaching its highest level since last November. Food inflation, the largest component of the inflation basket, quickened for the third month to 16.06% from 14.31% in March. This partly reflected the continued pass-through from the March fuel price shock linked to the Middle East conflict. However, the core inflation rate, which strips out the volatile prices of agricultural produce and energy, eased to 15.86% in April from 16.21% in the month before. On a monthly basis, the CPI index advanced by 2.13%, slowing from a 4.18% jump recorded in the prior month."
+    },
+    {
+      "id": "mkt:019e2bfc-93aa-7663-82f9-309cadd874ba",
+      "time": "2026-05-15 22:13:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ADVISORY: 2ND DAY MEETINGS OF 3RD ROUND OF ISRAEL-LEBANON DIRECT TALKS BEGIN AT US STATE DEPARTMENT"
+    },
+    {
+      "id": "4882516",
+      "time": "2026-05-15 22:13:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：土耳其據稱擬籌集12億美元為東歐北約盟友建設燃料管道。"
+    },
+    {
+      "id": "mkt:019e2bfb-d479-7663-82f9-2fd063ac031c",
+      "time": "2026-05-15 22:12:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "CHINA: TAIWAN IS THE MOST IMPORTANT ISSUE IN SINO-US RELATIONS"
+    },
+    {
+      "id": "4882515",
+      "time": "2026-05-15 22:12:38",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "市場訊息：第三輪黎以談判的第二日會議在美國國務院開始。"
+    },
+    {
+      "id": "4882514",
+      "time": "2026-05-15 22:12:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【香港特區政府官員歡迎IMF再次肯定香港國際金融中心角色】國際貨幣基金組織(IMF)代表團完成就香港特區的2026年第四條磋商討論後，15日發表初步總結，再次肯定香港作為國際金融中心及“超級聯絡人”的角色。香港特區政府官員當日對此表示歡迎。 代表團指出，受惠於科技相關出口表現強勁、私人需求逐步改善，以及金融市場活動反彈等利好因素，香港經濟持續復甦。 代表團表示，香港金融策略施行有道，加上穩健的系統性監管，具備優越條件進一步推進數字金融和可持續金融發展。 香港特區政府財政司司長陳茂波表示，歡迎代表團就香港經濟持續復甦的評估，並支援特區政府推行有利經濟增長和實現經濟多元化發展的財政政策。（新華社）"
+    },
+    {
+      "id": "4882513",
+      "time": "2026-05-15 22:11:40",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【隨著市場對美聯儲前景重新定價，金銀擴大跌幅】隨著戰爭引發的油價飆升和美國通脹升溫推高了對加息的預期，貴金屬擴大跌幅。紐約黃金期貨下跌3.1%，至每盎司4,543.90美元，本週跌幅料將超過4%。與此同時，白銀大跌9.7%，至每盎司77.08美元。Forex.com的Fawad Razaqzada表示：“在本週又一輪偏緊縮的美國資料公佈後，交易員繼續上調對美聯儲利率的預期。”“因此，債券收益率繼續走高。“兩年期美債收益率攀升至數月高點，令無收益資產承壓，同時DXY美元指數上漲0.4%，至99.23，使得以美元計價的大宗商品對海外買家來說更加昂貴。"
+    },
+    {
+      "id": "te:markets:551230",
+      "time": "2026-05-15 22:10:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Walmart Stock Price Hits 12-week High — Walmart shares increased to 133.91 USD, the highest since February 2026. Over the past 4 weeks, Walmart gained 6.03%, and in the last 12 months, it increased 37.29%."
+    },
+    {
+      "id": "4882512",
+      "time": "2026-05-15 22:08:03",
+      "tags": [
+        "宏觀",
+        "焦點",
+        "國際"
+      ],
+      "text": "【王毅：習近平主席將於今秋對美國進行國事訪問】應國家主席習近平邀請，美國總統特朗普於5月13日至15日對中國進行國事訪問。中共中央政治局委員、外交部長王毅15日向媒體介紹中美元首會晤情況和共識。 王毅介紹：應特朗普總統邀請，習近平主席將於今年秋季對美國進行國事訪問。雙方應共同努力，為兩國元首互動交往作出周全準備，營造適宜氛圍，積累更多成果。(央視新聞）"
+    },
+    {
+      "id": "4882511",
+      "time": "2026-05-15 22:07:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "黎巴嫩衛生部訊息：以色列襲擊該國南部賽達地區多地，造成37人受傷。"
+    },
+    {
+      "id": "mkt:019e2bf6-addd-7663-82f9-264cb21ddff8",
+      "time": "2026-05-15 22:07:27",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "Copper"
+      ],
+      "text": "CHINA FOREIGN MINISTER WANG YI: AGREED TO PROMOTE THE EXPANSION OF TWO-WAY TRADE UNDER THE FRAMEWORK OF RECIPROCAL TARIFF REDUCTIONS CHINA FOREIGN MINISTER WANG YI: BOTH SIDES AGREED TO ADDRESS EACH OTHER'S CONCERNS REGARDING MARKET ACCESS FOR AGRICULTURAL PRODUCTS"
+    },
+    {
+      "id": "te:markets:551229",
+      "time": "2026-05-15 22:06:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Natural Gas EU traded above 50 EUR/MWh — Natural Gas EU rose above 50, according to trading on a contract for difference (CFD)."
+    },
+    {
+      "id": "mkt:019e2bf6-2faf-7663-82f9-193d723d0b08",
+      "time": "2026-05-15 22:06:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "CHINA FOREIGN MINISTER WANG YI: CHINA, U.S. AGREED TO SET UP BOARDS OF TRADE, INVESTMENT"
+    },
+    {
+      "id": "mkt:019e2bf6-0398-7663-82f9-154f9984a8ff",
+      "time": "2026-05-15 22:06:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "S&P500",
+        "Impact bullish",
+        "Copper",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "CHINA AND THE US PROMOTE THE EXPANSION OF TWO-WAY TRADE - XINHUA"
+    },
+    {
+      "id": "4882510",
+      "time": "2026-05-15 22:06:06",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【證監會將多措並舉支援投資者依法維權】中國證監會副主席陳華平5月15日表示，證監會將多措並舉支援投資者依法維權，協同推動投資者損害賠償落實落地。陳華平是在15日舉行的2026年“5·15全國投資者保護宣傳日”活動上作出上述表示的。他表示，將壓實上市公司、市場經營機構在處理與投資者民事糾紛中的主體責任，推動其更加積極主動化解糾紛。更好發揮先行賠付的制度作用，鼓勵發行人的控股股東、實際控制人以及中介機構等依法自願先行賠付適格投資者損失。同時，持續深化與最高人民法院“總對總”訴調對接機制，合力源頭化解矛盾糾紛。積極支援配合司法機關證券期貨民事損害賠償審判工作，發揮投資者保護機構專業優勢，開展更多支援訴訟、普通代表人訴訟、特別代表人訴訟等投資者維權工作。圍繞健全投資和融資相協調的市場功能，陳華平說，將抓好“兩創板”重點改革任務落地，深化新股發行定價機制改革，進一步壓實中介機構“看門人”責任，嚴把發行上市入口關。開展上市公司治理專項行動，全方位提升上市公司質量。（新華社）"
+    },
+    {
+      "id": "mkt:019e2bf5-1319-7663-82f9-0a61c056e0c8",
+      "time": "2026-05-15 22:05:39",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "CHINA FOREIGN MINISTER WANG YI: ON UKRAINE, SAYS CHINA, U.S. WILLING TO MAINTAIN COMMUNICATION"
+    },
+    {
+      "id": "mkt:019e2bf4-7468-7663-82f9-03fd7d6d39c7",
+      "time": "2026-05-15 22:05:00",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "CHINA FOREIGN MINISTER WANG YI: CALLS FOR REOPENING STRAIT OF HORMUZ AS SOON AS POSSIBLE"
+    },
+    {
+      "id": "4882509",
+      "time": "2026-05-15 22:04:59",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "七、兩國元首談到了哪些國際和地區熱點問題？\n\n王毅：習近平主席同特朗普總統始終就國際和地區熱點問題保持密切溝通。此次會晤期間，雙方再次就共同關心的問題深入交換意見。\n關於中東局勢，習近平主席闡述了中方一貫立場，強調武力解決不了問題，對話才是正道。談判不會一蹴而就，但對話的大門既然開啟了，就不應再關上。中方鼓勵美伊雙方繼續透過談判解決包括核問題在內的分歧矛盾，主張在維持停火的基礎上，儘快重開霍爾木茲海峽，同時認為解決海峽問題的根本之道在於實現永久、全面停火。中方一直在努力勸和促談，將繼續為推動戰火儘快平息、恢復中東地區和平發揮自己的作用。\n\n關於烏克蘭危機，中美都希望這場戰事早日結束，也都以各自的方式做了很多勸和促談工作。複雜問題沒有簡單解決辦法，和談難以一蹴而就。中美雙方願繼續保持溝通，為危機的政治解決發揮建設性作用。\n\n王毅最後強調，正如習近平主席指出，中美關係承載著兩國17億多人民的福祉，關乎世界80多億人民的利益。中方願同美方一道，共同落實好元首會晤達成的重要共識，朝著構建“中美建設性戰略穩定關係”的方向，以更寬廣視野、更長遠眼光看待和把握中美關係，共同走出一條新時代大國正確相處之道，為兩國人民帶來更多福祉，為世界和平發展作出更多貢獻。（新華社）"
+    },
+    {
+      "id": "te:markets:551228",
+      "time": "2026-05-15 22:04:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Dollar at Nearly 1-Month High — The dollar index rose to approach 99.3 on Friday, the strongest level in about a month, as concerns over war-driven inflation intensified. The situation in the Middle East remains fragile and far from resolved, with Trump describing the first sentence of Iran’s latest proposal as “unacceptable”. As a result, oil prices continued to climb, with the Strait of Hormuz still closed. Meanwhile, a summit between President Trump and Chinese President Xi ended without any major agreements, including any indication that Beijing would help resolve the conflict. Both the CPI and PPI reports released this week suggested that the energy shock is pushing US inflation higher. Traders are now fully pricing in one rate hike by the Fed in March next year, with more than a 50% chance that interest rates will rise before the end of 2026. The greenback strengthened across the board and the biggest gains were seen against the Aussie ad the pound.On the week, the dollar is up nearly 1%."
+    },
+    {
+      "id": "4882508",
+      "time": "2026-05-15 22:04:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "世界衛生組織官員表示，暫不計劃為本次漢坦病毒疫情召開緊急委員會會議。"
+    },
+    {
+      "id": "4882507",
+      "time": "2026-05-15 22:04:43",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "六、會晤期間，雙方在經貿領域達成什麼成果？\n\n王毅：兩國元首深入討論了中美經貿關係，為兩國經貿合作明確了方向，提供了保障。習近平主席強調，中美經貿關係的本質是互利共贏，面對分歧和摩擦，平等協商是唯一正確選擇。兩國經貿團隊達成了總體平衡積極的成果，包括繼續落實前期磋商達成的所有共識，同意成立貿易理事會和投資理事會，解決彼此農產品市場準入的關切，在對等降稅框架下推動擴大雙向貿易等。\n\n雙方工作團隊仍在就有關細節進行磋商，將盡快鎖定成果，共同抓好落實。（新華社）"
+    },
+    {
+      "id": "4882506",
+      "time": "2026-05-15 22:04:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "埃克森美孚上游業務負責人表示，Golden Pass液化天然氣專案全面投產後，將使美國液化天然氣出口量提升15%。"
+    },
+    {
+      "id": "4882503",
+      "time": "2026-05-15 22:04:30",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "五、兩國元首會晤期間提及臺灣問題，你能否介紹有關情況？\n\n王毅：這次會晤，臺灣問題是重點議題之一。中方的立場很明確：\n\n第一，臺灣問題是中國內政。實現國家完全統一是全體中華兒女共同願望，也是中國共產黨矢志不渝的歷史使命。大陸和臺灣同屬一箇中國是自古到今的事實，是臺海真正的現狀，也是二戰後國際秩序的重要組成部分。我們希望美方恪守一箇中國原則和中美三個聯合公報，履行應盡的國際義務。\n\n第二，臺灣問題是中美關係中最重要的問題，牽一髮而動全身。處理好了，兩國關係就能保持總體穩定，雙方就可以投入更多精力開展互利合作。處理不好，兩國就會碰撞甚至衝突，將整個中美關係推向十分危險的境地。中方希望美方以實際行動維護中美關係的穩定發展以及臺海和平穩定。\n\n第三，維護臺海和平穩定是雙方最大公約數。而做到這一點的前提就是絕不能支援和縱容“臺獨”，因為“臺獨”和臺海和平水火不容。我們在會晤中感受到，美方瞭解中方的立場，重視中方的關切，同國際社會一樣，不認同也不接受臺灣走向獨立。（新華社）"
+    },
+    {
+      "id": "te:markets:551227",
+      "time": "2026-05-15 22:04:27",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Falls as Political Concerns Weigh on Sentiment — The Ibovespa lost 1.5% to trade below 176,000 on Friday as investors monitored political fallout from reports linking Senator Flávio Bolsonaro to former Banco Master owner Daniel Vorcaro. Allies of the presidential hopeful sought to downplay the senator’s ties to Vorcaro, who is jailed on multiple criminal charges, after the revelations threatened Bolsonaro’s chances in October’s election. Abroad, uncertainty surrounding a Middle East peace deal and the reopening of the Strait of Hormuz remained in focus. Oil prices rose amid the lack of progress toward ending ship attacks and seizures in the region, reinforcing stagflation concerns. Major banks posted losses, with Itaú and Bradesco both down more than 1%, while utilities also traded lower, led by Sabesp (-2.5%) and Azzas (-2%). Eneva lost nearly 3% despite strong first-quarter results. Vale fell 2.6% and WEG dropped 1.6%, while Petrobras gained nearly 1% on higher oil prices."
+    },
+    {
+      "id": "4882502",
+      "time": "2026-05-15 22:04:16",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "四、如何透過會晤促進兩國人文交流？\n\n王毅：習近平主席曾指出，中美關係希望在人民，基礎在民間，未來在青年，活力在地方。此次會晤中，兩國元首均提及促進人文交流的重要性。習近平主席專門提到民間交往的故事，指出55年前，中美開展“乒乓外交”，推開了中美冰封20多年的大門，成為當代國際關係史上的重大事件。特朗普總統也回顧了兩國人民交往歷程，表示美國人民和中國人民相互欣賞、相互尊重，友誼源遠流長。\n中美關係進入新階段後，習近平主席提出“5年邀請5萬名美國青少年來華交流學習”重要倡議，受到兩國各界熱烈響應和積極參與。習近平主席歡迎更多美國青少年來華參訪、學習。特朗普總統也多次表示歡迎中國留學生到美國去。這種雙向交流將開闊年輕人的視野，更好塑造中美關係的未來。\n\n訪問期間，兩國元首共同參觀了天壇，領略中華文明和諧萬物、順天應時的理念。這一特殊安排說明中美兩個偉大的國家，理應深化相互理解，促進人民友好。\n\n過去一年多時間，中美立法機構、地方、企業團組往來明顯增多。此次不少美國企業家陪同特朗普總統訪華。特朗普總統專門邀請他們來到元首會晤現場，習近平主席逐一勉勵各位加強對華合作，強調中國開放的大門只會越開越大。李強總理集體會見了美國企業家，大家普遍表示高度重視中國市場，希望深耕中國業務，繼續加強對華合作，這再次證明，中國依然是美國企業的投資沃土。\n\n總之，中美人民之間多往來、多交流，是兩國元首的共識，也是兩國人民的願望。中方將一如既往予以鼓勵支援，夯實兩國關係的社會基礎，續寫更多中美民間友好故事。（新華社）"
+    },
+    {
+      "id": "mkt:019e2bf3-9a8c-7663-82f8-ff96689bbdbb",
+      "time": "2026-05-15 22:04:05",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "UK GOVERNMENT AND UK FINANCIAL AUTHORITIES WILL CONTINUE TO ACTIVELY MONITOR FRONTIER AI DEVELOPMENTS AND ENGAGE WITH INDUSTRY"
+    },
+    {
+      "id": "4882501",
+      "time": "2026-05-15 22:04:02",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "【習主席應邀今秋訪美】三、此次會晤就推進中美高層和各方面交往達成了哪些共識？\n\n王毅：中美關係是世界上最重要、最複雜的雙邊關係，元首外交是兩國關係的“定盤星”。特朗普總統就任以來，兩國元首2次會晤、5次通話、多次書信往來，為中美關係的改善發展提供了重要戰略保障，也使中美關係歷經跌宕起伏後呈現總體穩定。此次會晤中，兩國元首同意繼續透過會晤、通話或互致信函等方式保持密切聯絡。應特朗普總統邀請，習近平主席將於今年秋季對美國進行國事訪問。雙方應共同努力，為兩國元首互動交往作出周全準備，營造適宜氛圍，積累更多成果。\n\n在兩國元首授權下，政治外交渠道保持溝通，妥善管控分歧，解決實際問題，增進彼此瞭解，促進了雙邊關係發展。按照兩國元首的共識，中美經貿團隊舉行多輪磋商，穩定了兩國經貿關係，也穩住了市場預期。政治外交和經貿兩大機制將繼續發揮作用，不斷拉長合作清單，壓縮問題清單。\n\n把兩國元首共識落到實處，需要雙方各部門共同努力。此次會晤將有力推動兩國立法機構、地方、工商、學術、媒體等各界加強彼此往來。雙方還同意相互支援辦好2026年亞太經合組織領導人非正式會議和二十國集團領導人峰會。中美各層級都應行動起來，落實好兩國元首共識，取得更多視覺化成果。（新華社）"
+    },
+    {
+      "id": "mkt:019e2bf3-8c6c-7663-82f8-f375eb2a029a",
+      "time": "2026-05-15 22:03:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "CHINA FOREIGN MINISTER WANG YI, ON TIES WITH U.S.: TEAMS ON TWO SIDES ARE STILL WORKING ON DETAILS FOR OUTCOMES ON TRADE - XINHUA"
+    },
+    {
+      "id": "4882500",
+      "time": "2026-05-15 22:03:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "埃尼集團已認購了一筆7000萬美元的投資，該交易是私人投資者合計3.095億美元資本投資的一部分。"
+    },
+    {
+      "id": "4882499",
+      "time": "2026-05-15 22:03:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國政府與英國金融監管機構將繼續積極監測前沿人工智慧的發展動態，並與相關行業保持溝通協作。"
+    },
+    {
+      "id": "mkt:019e2bf3-549d-7663-82f8-eafa001067bf",
+      "time": "2026-05-15 22:03:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "CHINESE FOREIGN MINISTER WANG YI BRIEFS MEDIA ON CHINA–U.S. LEADERS’ MEETING AND CONSENSUS: PRESIDENT XI WILL VISIT US THIS AUTUMN"
+    },
+    {
+      "id": "4882498",
+      "time": "2026-05-15 22:03:46",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "二、如何理解“中美建設性戰略穩定關係”的新定位？\n\n王毅：會晤中，兩國元首同意將“中美建設性戰略穩定關係”作為兩國關係的新定位，為未來3年乃至更長時間的中美關係作出戰略指引，受到兩國人民和國際社會的歡迎。中方認為：\n\n這應該是合作為主的積極穩定，透過交流合作不斷增強中美關係的韌性。中美作為世界前兩大經濟體，你中有我、我中有你，誰也離不開誰，合則兩利、鬥則俱傷。對抗對兩國和世界註定是一場災難，合作則可以辦成許多有利於兩國和世界的大事。\n\n這應該是競爭有度的良性穩定，不搞你輸我贏的零和博弈。大國之間存在競爭不足為奇，但不能以競爭來定義全部中美關係。中美之間即便有競爭，也應是相互借鑑的良性競爭，你追我趕的積極競爭，遵守規則的公平競爭。競爭的目的是為了彼此做更好的自己。\n\n這應該是分歧可控的常態穩定，不能像過山車一樣起伏不定。雙方都應保持政策的連續性和穩定性，尤其要信守作出的承諾，始終相向而行，以中美合作的正面預期為各自發展和國際形勢提供更多的確定性。\n\n這應該是和平可期的持久穩定，不能發生衝突對抗甚至戰爭。和平共處是中美兩國的最大公約數，中美衝突對抗的後果是誰都不能承受的。關鍵在於遵守中美三個聯合公報，尊重彼此社會制度和發展道路，尊重對方核心利益和重大關切，尊重各自的發展權利。\n\n總之，“中美建設性戰略穩定關係”不是一句口號，而應是雙方堅守的目標，共同採取的行動。我們要沿著兩國元首明確的方向，不斷豐富這一新定位內涵，將其轉化為具體政策和實際舉措，共同開啟中美關係的新篇章。（新華社）"
+    },
+    {
+      "id": "4882497",
+      "time": "2026-05-15 22:03:30",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "一、中美兩國各界和國際社會高度關注美國總統特朗普此次訪華，對兩國元首會晤有何評價？\n\n王毅：此訪期間，習近平主席同特朗普總統就事關中美關係以及世界和平發展的重大問題持續進行坦誠、深入、建設性、戰略性溝通，積極探索兩個大國的正確相處之道，並就此達成一系列共識。正如很多媒體朋友指出，這是一次歷史性會晤。\n\n第一，這是兩國進入各自發展關鍵階段的一次重要會晤。今年是中國“十五五”開局之年，我們正在以高質量發展全面推進中國式現代化。今年也是美國獨立250週年。在此關鍵年份，兩國元首相聚北京，就治國理政、中美關係、國際和地區熱點深入交流，對外釋放了重要資訊，那就是實現中華民族偉大復興和讓美國再次偉大，可以並行不悖、相互成就、造福世界。\n\n第二，這是中美關係站在新的歷史起點上的一次重要會晤。這次會晤是繼去年10月釜山之後，兩國元首再次面對面會晤，也是美國總統時隔9年再次訪華，延續和鞏固了兩國元首之間的良好互動勢頭。當前，百年變局加速演進，世界走到新的十字路口。習近平主席強調，中美能不能跨越“修昔底德陷阱”，開創大國關係新正規化？能不能攜手應對全球性挑戰，為世界注入更多穩定性？能不能著眼兩國人民福祉和人類前途命運，共同開創兩國關係美好未來？面對這些歷史之問、世界之問、人民之問，我們要共同書寫時代答卷。兩國元首為中美關係這艘巨輪領好航、掌好舵，必將對國際局勢演變和人類社會發展產生重大和深遠影響。\n\n第三，這是兩國元首深入溝通、達成豐富成果的一次重要會晤。此次會晤既有正式會談和歡迎宴會，也安排了小範圍交流和參觀活動，兩國元首互動相處近9個小時。相互尊重、珍視和平、探討合作，始終是貫穿會晤的基調。兩國元首同意構建“中美建設性戰略穩定關係”是最重要政治共識。此外，雙方還願就外交、兩軍、經貿、衛生、農業、旅遊、人文、執法等各領域開展更多交流，為下階段兩國交往注入了新的動力。（新華社）"
+    },
+    {
+      "id": "4882496",
+      "time": "2026-05-15 22:03:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "芝加哥商品交易所：海灣合作委員會已知悉期貨期權客戶直通式交易流程出現延誤，技術支援部門正展開排查。"
+    },
+    {
+      "id": "mkt:019e2bf2-c3fb-7663-82f8-e03b4e3075bf",
+      "time": "2026-05-15 22:03:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CME: GCC IS AWARE OF DELAYS AFFECTING STRAIGHT-THROUGH PROCESSING (STP) FOR F&O CUSTOMERS, SUPPORT IS INVESTIGATING"
+    },
+    {
+      "id": "4882495",
+      "time": "2026-05-15 22:02:58",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "王毅向媒體介紹中美元首會晤情況和共識。（新華社）"
+    },
+    {
+      "id": "mkt:019e2bf2-8382-7663-82f8-de89805a8e6e",
+      "time": "2026-05-15 22:02:54",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "UK GOVERNMENT AND UK FINANCIAL AUTHORITIES JUDGE THAT FIRMS SHOULD BE TAKING ACTIVE STEPS ACROSS SEVERAL DOMAINS TO LIMIT AI/CYBER RISKS - JOINT STATEMENT"
+    },
+    {
+      "id": "4882494",
+      "time": "2026-05-15 22:02:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "中鼎智慧（無錫）科技股份有限公司再次向港交所提交上市申請書，獨家保薦人為國泰海通。"
+    },
+    {
+      "id": "4882493",
+      "time": "2026-05-15 22:02:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "福特股價在過去兩個交易日累漲約20%後，今日下跌8%。"
+    },
+    {
+      "id": "4882492",
+      "time": "2026-05-15 22:01:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【調查分析報告：中俄友好具有穩定、積極的青年民意基礎】由中俄友好、和平與發展委員會俄方教育理事會和中國人民大學全球民意調查中心合作推出的《中俄青年友好與文化交流調查分析報告》5月15日在京釋出。 2026年是中俄戰略協作夥伴關係建立30週年、《中俄睦鄰友好合作條約》簽署25週年，也是“中俄教育年”啟動之年。本次報告以資料呈現中俄青年友好交往的新趨勢，為深化兩國青年交流、推動中俄人文合作提供參考。 報告說，資料顯示，逾八成中俄青年認為中俄關系友好。中俄青年對兩國關係評價積極，對彼此國家形象總體正面，對未來合作普遍樂觀，友好合作是兩國青年對中俄關系的主流認知。（新華社）"
+    },
+    {
+      "id": "mkt:019e2bf1-bce3-7663-82f8-d4961ddd2a2b",
+      "time": "2026-05-15 22:01:44",
+      "tags": [
+        "MKT News",
+        "F.O"
+      ],
+      "text": "FORD SHARES DOWN 8% AFTER ABOUT 20% JUMP OVER PAST TWO SESSIONS"
+    },
+    {
+      "id": "4882491",
+      "time": "2026-05-15 22:01:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "英國航空航天系統公司（BAE Systems）：里程碑交付確保專案按計劃推進，有效載荷“飛行裝置1號”預計2028年發射，目前即將進入總裝階段。"
+    },
+    {
+      "id": "mkt:019e2bf1-a26e-7663-82f8-c93b5b746a4d",
+      "time": "2026-05-15 22:01:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "WHO OFFICIAL: THRESHOLD HAS NOT BEEN REACHED TO CALL EMERGENCY COMMITTEE ON HANTAVIRUS"
+    },
+    {
+      "id": "4882490",
+      "time": "2026-05-15 22:01:20",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲航空航天及國防類股指數下跌 3.1%。"
+    },
+    {
+      "id": "te:economy:551226",
+      "time": "2026-05-15 22:00:49",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 2"
+      ],
+      "text": "Treasury Yields March Higher on Inflation Concerns — The yield on the US 10-year Treasury note rose nearly 10bps to 4.58% on Friday, reaching a fresh one-year high as concerns over war-driven inflation intensified. The situation in the Middle East remains fragile and far from resolved, with US President Trump describing the first sentence of Iran’s latest proposal as “unacceptable”. As a result, oil prices continued to climb amid fears of disruptions to global supply, with the Strait of Hormuz still closed. Meanwhile, a summit between President Trump and Chinese President Xi ended without any major agreements, including any indication that Beijing would help resolve the conflict. Both the CPI and PPI reports released this week suggested that the energy shock is pushing US inflation higher. Traders are now fully pricing in one rate hike by the Fed in March next year, with more than a 50% chance that interest rates will rise before the end of 2026."
+    },
+    {
+      "id": "te:economy:551225",
+      "time": "2026-05-15 22:00:44",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Australia 10Y Bond Yield Hits 6-week High — Australia 10 Year Government Bond Yield increased to 5.10%, the highest since March 2026. Over the past 4 weeks, Australia 10Y Bond Yield gained 14.10 basis points, and in the last 12 months, it increased 64.10 basis points."
+    },
+    {
+      "id": "4882489",
+      "time": "2026-05-15 22:00:29",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲公用事業股指數下跌3%。"
+    },
     {
       "id": "4882487",
       "time": "2026-05-15 21:59:04",
@@ -139311,438 +139895,6 @@
         "Importance 1"
       ],
       "text": "Treasury Yields Edge Down, Iran Response Awaited — The yield on the US 10-year Treasury note fell to 4.35% on Friday, approaching the two-week lows touched earlier in the week, as developments in the Middle East continued to dominate investor sentiment. Uncertainty persists over how quickly the US and Iran can reach an agreement to end the conflict, with US Secretary of State Marco Rubio saying Washington expects a response from Tehran on Friday regarding a proposal to end the war. Although President Trump said the ceasefire remains in effect, both the US and Iran have reportedly exchanged fire in the Strait of Hormuz. Meanwhile, the latest jobs report showed the US economy added 115K jobs last month, nearly double market expectations of 62K. In addition, the Michigan Consumer Sentiment survey showed confidence fell to a record low. Markets continue to expect the Fed to keep interest rates largely unchanged through the rest of the year, while pricing in roughly a 40% chance of a rate hike by April 2027."
-    },
-    {
-      "id": "4868859",
-      "time": "2026-05-08 22:35:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "美軍中央司令部8日說，美軍當天對兩艘空載伊朗油輪開火，使其喪失航行能力。 美軍中央司令部在社交媒體上說，這兩艘油輪試圖進入位於阿曼灣的伊朗港口。從“布什”號航母上起飛的一架美軍戰機向兩艘油輪發射精確制導彈藥，致其喪失航行能力。（新華社）"
-    },
-    {
-      "id": "4868858",
-      "time": "2026-05-08 22:35:35",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【東方證券升級兩融風控 新增115%“即時平倉線”】東方證券升級兩融風控。公告顯示自2026年5月18日起，在兩融業務中新增“即時平倉線”監控指標，引數設定為115%。公告顯示，“即時平倉線”為特定維持擔保比例值。T日收盤後，若投資者信用賬戶維持擔保比例低於即時平倉線，需在T+1日上午收市前將比例提升至平倉線及以上，否則公司有權在T+1日上午收市後實行強制平倉。據瞭解，即時平倉線設定區別於常規平倉線（130%），由券商視自身業務風險情況設定，常見數值為110%和115%，也有券商未設定這一指標，各券商命名方式略有不同。"
-    },
-    {
-      "id": "4868857",
-      "time": "2026-05-08 22:35:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "塔斯尼姆通訊社報道，錫裡克附近聽到的爆炸聲是由於交火造成的。"
-    },
-    {
-      "id": "4868856",
-      "time": "2026-05-08 22:35:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "國務卿魯比奧向：特朗普政府預計伊朗政權將於週五作出回應，並稱在遭遇類似美軍在霍爾木茲海峽所受襲擊的情況下，只有愚蠢的國家才不會以牙還牙、予以反擊。"
-    },
-    {
-      "id": "te:markets:549301",
-      "time": "2026-05-08 22:34:58",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "JPMorgan Stock Price Hits 4-week Low — JPMorgan shares decreased to 304.25 USD, the lowest since April 2026. Over the past 4 weeks, J.P. Morgan Chase lost 1.88%, and in the last 12 months, it increased 20.31%."
-    },
-    {
-      "id": "4868855",
-      "time": "2026-05-08 22:33:11",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【俄國家原子能公司：伊朗布什爾核電站施工現場逐步恢復運轉】當地時間5月8日，俄羅斯國家原子能公司執行長利哈喬夫表示，伊朗布什爾核電站施工現場正逐步恢復運轉，已有約2200名員工返回工作崗位。他介紹稱，目前核電站周邊局勢總體平穩，伊朗工人的數量也在繼續增加。利哈喬夫補充說，俄國家原子能公司已做好準備，在確信衝突不會再次爆發後，可迅速動員並全面恢復在伊朗的員工配置。自美以對伊朗發動襲擊以來，布什爾核電站曾多次遭襲。利哈喬夫還透露，布什爾核電站二號機組反應堆的完工率已超過60%。（央視新聞）"
-    },
-    {
-      "id": "4868854",
-      "time": "2026-05-08 22:32:55",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【全球晶片LOF被上交所重點監控 年內已發超百份溢價風險提示公告】據上交所今日訊息，2026年4月27日至2026年5月8日，上交所對全球晶片LOF等溢價較高的基金進行重點監控。今年以來晶片投資火熱，景順長城基金旗下的全球晶片LOF已釋出超百份溢價風險提示公告。最新公告顯示，截至5月8日中午收盤，該基金的二級市場最新成交價為3.765元，而5月6日的基金份額淨值僅為2.9526元。對此，基金管理人提醒廣大投資者，應密切關注二級市場交易價格溢價風險，審慎做出投資決策，如盲目投資，後續可能遭受重大損失。"
-    },
-    {
-      "id": "te:markets:549300",
-      "time": "2026-05-08 22:32:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Baltic Dry Index Snaps 5-Day Rally — The Baltic Exchange's dry bulk freight index, which monitors rates for ships carrying dry bulk commodities, halted a five-day winning streak on Friday, falling about 1.9% to 2,978 points. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, declined by 3.6% to 4,955 points. Meanwhile, the panamax index, which usually carries 60,000 to 70,000 tons of coal or grain, rose by 1.7% to a more than two-year high of 2,233 points; and the supramax index edged up 0.1% to 1,522 points. The benchmark index advanced 9.1% for the week."
-    },
-    {
-      "id": "4868853",
-      "time": "2026-05-08 22:32:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "【一家精神病院竟現身A股公司前十大股東 負責人回應】有投資者發現，盛通股份前十大股東名單中，竟出現了一家精神病院的身影。這家精神病院全稱為“上饒市廣豐區十五嶺山精神病醫院有限公司”，今年一季度新進盛通股份第9大股東。這一訊息在股吧隨即引發了眾多投資者的圍觀和熱議。對此，記者聯絡並採訪了這家精神病院相關負責人。他表示，公司實控人早在10年前就開始投資A股，但資金不多，更多的是出於理財的需要。至於為何買入盛通股份，主要是“老闆兒子在這家公司旗下的樂博樂博學過程式設計，然後老闆對兒童素質教育比較感興趣，覺得這個行業有點投資價值。”對於公司是否有長期持有盛通股份股票的計劃，十五嶺山精神病醫院負責人說：“如果公司經營需要資金時，會考慮賣掉（股票）。”（中證報）"
-    },
-    {
-      "id": "4868852",
-      "time": "2026-05-08 22:31:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿根廷 YPF 出售 4 月燃油價格約 905 美元 / 立方米，進口平價價為 1070 美元 / 立方米。"
-    },
-    {
-      "id": "4868851",
-      "time": "2026-05-08 22:31:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度與加拿大完成經貿協定第二輪談判。"
-    },
-    {
-      "id": "4868850",
-      "time": "2026-05-08 22:31:15",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "土耳其財政部公佈，4月現金基礎基本平衡為逆差32.13億里拉。"
-    },
-    {
-      "id": "4868849",
-      "time": "2026-05-08 22:30:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "土耳其4月份現金預算赤字為2512.4億土耳其里拉。"
-    },
-    {
-      "id": "4868848",
-      "time": "2026-05-08 22:30:54",
-      "tags": [
-        "公司",
-        "資料",
-        "市場",
-        "觀點"
-      ],
-      "text": "特種化學品製造商Koppers Holdings宣佈，計劃在2026年底前關閉其位於伊利諾伊州富蘭克林公園的生產設施。公司預計，此舉將在關閉完成後每年帶來約2500萬美元的自由現金流增量。"
-    },
-    {
-      "id": "4868847",
-      "time": "2026-05-08 22:30:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "辛鮑姆：校歷調整事宜尚未敲定。"
-    },
-    {
-      "id": "4868846",
-      "time": "2026-05-08 22:30:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "【涉疫郵輪運營方：30名乘客曾在大西洋小島離船】發生漢坦病毒疫情的“洪迪厄斯”號郵輪運營方7日通報說，郵輪4月在大西洋中的聖赫勒拿島停留時，曾有30名乘客離開郵輪。目前已追蹤到所有離船人員。總部設於荷蘭的“泛海探險”公司在宣告中說，4月1日，共有114名乘客登上“洪迪厄斯”號，從阿根廷烏斯懷亞港口出發，計劃穿行大西洋，前往維德角。4月11日，一名荷蘭籍男子死亡。4月24日，29名乘客和這名荷蘭男子的遺體在聖赫勒拿島離船。（新華社）"
-    },
-    {
-      "id": "4868845",
-      "time": "2026-05-08 22:30:00",
-      "tags": [
-        "資料",
-        "市場",
-        "觀點"
-      ],
-      "text": "RBC Capital Markets將標普500指數2026年底目標價從7200點上調至7900點，較當前水平隱含約7%的上行空間，理由是盈利增長預期改善和地緣政治風險緩解。"
-    },
-    {
-      "id": "4868844",
-      "time": "2026-05-08 22:29:31",
-      "tags": [
-        "資料",
-        "市場",
-        "國際"
-      ],
-      "text": "【美國消費者信心指數跌至紀錄新低 因通脹引起財務擔憂】美國消費者信心在近期下滑至歷史新低，主要因通脹對個人財務狀況和購買景氣度的影響引發擔憂。密歇根大學資料顯示，5月初步消費者信心指數從4月的49.8降至48.2。此次調查涵蓋4月21日至5月4日的受訪情況。週五公佈的資料還顯示，消費者預計未來一年物價將以4.5%的年率上漲，較上月略有回落，對未來5至10年的年通脹預期為3.4%。隨著美國人對整體生活成本的焦慮加劇，加之汽油價格大幅上漲，消費者信心持續低迷。家庭預算承壓可能對作為經濟主要引擎的消費支出構成風險。美國汽車協會資料顯示，本週汽油平均價格自2022年7月以來首次突破每加侖4.50美元，自伊朗戰爭爆發以來已上漲逾50%。調查負責人Joanne Hsu在宣告中表示：“約三分之一的受訪者主動提到汽油價格，還有約三成人提到關稅。總體來看，消費者持續受到成本壓力衝擊，其中汽油價格飆升尤為突出。”衡量當前狀況的指標降至47.8，創歷史新低，而衡量展望的預期指標自1月以來首次上升。消費者對自身當前財務狀況的評價降至2009年以來最低水平，購買景氣度指標降至五個月低點。"
-    },
-    {
-      "id": "4868843",
-      "time": "2026-05-08 22:29:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗努爾新聞：零星衝突已持續一小時。"
-    },
-    {
-      "id": "mkt:019e07fd-9052-7aa7-bba5-c360c448544e",
-      "time": "2026-05-08 22:28:38",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "IRAN'S NOUR: SPORADIC CLASHES HAVE BEEN ONGOING FOR AN HOUR"
-    },
-    {
-      "id": "4868842",
-      "time": "2026-05-08 22:28:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "【波蘭與歐盟簽署“歐洲安全行動”協議】波蘭政府8日在華沙與歐盟委員會正式簽署“歐洲安全行動”協議。 據波通社報道，波蘭是19個“歐洲安全行動”參與國中首個簽署協議的國家。根據協議，波蘭將獲得最多437億歐元（約合515億美元）低息貸款，用於國防和安全領域投資。 波蘭總理圖斯克在協議簽署後發表講話稱，該協議是“波蘭和歐盟歷史上的一個分水嶺時刻”。他說：“波蘭將因這項協議而更加安全，並獲得1800億茲羅提（約合501億美元）的資金。” 歐盟理事會去年5月正式批准設立“歐洲安全行動”工具，為成員國採購安全與防務武器裝備提供總額達1500億歐元的金融支援。“歐洲安全行動”以利率優惠的長期貸款形式向有需求的歐盟成員國提供資金支援，35%的貸款可用於採購歐洲以外地區生產的武器零部件。(新華社)"
-    },
-    {
-      "id": "4868841",
-      "time": "2026-05-08 22:28:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗努爾通訊社：霍爾木茲海峽附近，伊朗與美國軍艦衝突仍在持續  。"
-    },
-    {
-      "id": "mkt:019e07fd-4927-7aa7-bba5-bd417051a64f",
-      "time": "2026-05-08 22:28:20",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "IRAN'S NOUR: CLASHES ONGOING BETWEEN IRAN, US SHIPS NEAR HORMUZ"
-    },
-    {
-      "id": "te:economy:549299",
-      "time": "2026-05-08 22:28:17",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Germany",
-        "Government Bond 10Y",
-        "Importance 0"
-      ],
-      "text": "Bund Yield Back Below 3% as US-Iran Ceasefire Hopes Ease Rate Fears — Germany’s 10-year Bund yield erased early gains to settle just below 3%, as optimism over a potential US-Iran peace deal reduced concerns that persistent inflation could prolong high interest rates. US President Donald Trump confirmed the ceasefire with Iran remains in effect, while Tehran said it is still reviewing a US proposal to end the conflict. Meanwhile, Trump warned the EU that the US would impose \"much higher\" tariffs on European goods unless the bloc eliminates its tariffs on US products by July 4. Money markets are pricing in at least two ECB rate hikes this year, with a more than 75% chance of a first increase in June. ECB President Christine Lagarde stated on Friday that the central bank is ready to act quickly if necessary and that the euro area’s economic position ahead of the energy shock is stronger than it was before Russia’s invasion of Ukraine."
-    },
-    {
-      "id": "4868840",
-      "time": "2026-05-08 22:27:50",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【波羅的海乾散貨運價指數從兩年高位回落】金十期貨5月8日訊，據外媒報道，波羅的海乾散貨運價指數週五下跌，從上一交易日觸及的兩年高位回落。波羅的海乾散貨運價指數下跌56點，或1.9%，至2978點，但本週累計上漲9.1%。海岬型船運價指數下跌184點，或3.6%，至4955點，脫離此前觸及的五個月高位；海岬型船日均獲利下跌1669美元，至41438美元。巴拿馬型船運價指數上漲38點，或1.7%，至2233點，創下兩年多來的最高水平；巴拿馬型船日均獲利上漲341美元，至20099美元。超靈便型散貨船運價指數微漲1點，或0.1%，報1522點。"
-    },
-    {
-      "id": "4868839",
-      "time": "2026-05-08 22:27:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國農業部長羅林斯談化肥：我們會看到價格下降."
-    },
-    {
-      "id": "te:markets:549298",
-      "time": "2026-05-08 22:27:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Comcast Stock Price Hits 14-year Low — Comcast shares decreased to 25.72 USD, the lowest since January 2012. Over the past 4 weeks, Comcast lost 8.94%, and in the last 12 months, it decreased 24.73%."
-    },
-    {
-      "id": "4868838",
-      "time": "2026-05-08 22:26:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "【紐西蘭考慮在海外建實體燃油儲備】紐西蘭資源部長沙恩·瓊斯日前告訴媒體，紐西蘭考慮打造位於海外的實體國家燃油儲備，目前正在比較選址馬來西亞、新加坡、韓國這幾個方案。法新社8日援引瓊斯的話報道，紐西蘭當下面臨“燃油困境”，政府官員正探討，如果在海外建立實體國有燃油儲備，究竟將選址何處。在彭博社先前報道中，瓊斯表示，紐西蘭本土儲油能力不足，“但我們有多個（海外儲油）選項”。（新華社）"
-    },
-    {
-      "id": "mkt:019e07fa-e229-7aa7-bba5-b6631a1fc6a5",
-      "time": "2026-05-08 22:25:42",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bearish"
-      ],
-      "text": "BARCLAYS: RECOMMEND GOING LONG THE DECEMBER 2026 ICE GASOIL MINUS BRENT CRACK SPREAD AT $33.4/BBL AT THE TIME OF WRITING"
-    },
-    {
-      "id": "mkt:019e07fa-d1af-7aa7-bba5-ad9c6628d8cf",
-      "time": "2026-05-08 22:25:38",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "BARCLAYS: EVEN IN MOST OPTIMISTIC SCENARIO, WE THINK OIL PRICES ARE PROBABLY TOO LOW AS DEMAND REMAINS LARGELY RESILIENT AND INVENTORIES CONTINUE TO DRAW FAST"
-    },
-    {
-      "id": "4868837",
-      "time": "2026-05-08 22:25:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴克萊銀行：建議在撰寫本報告時，以每桶33.4美元的價格做多2026年12月洲際交易所（ICE）柴油-布倫特原油裂解價差空頭頭寸。"
-    },
-    {
-      "id": "4868836",
-      "time": "2026-05-08 22:25:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴克萊銀行：即便在最樂觀的情景假設下，我們仍認為當前油價偏低，因為原油需求整體保持韌性，且庫存仍在快速下降。"
-    },
-    {
-      "id": "te:markets:549294",
-      "time": "2026-05-08 22:25:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Currency",
-        "Importance 0"
-      ],
-      "text": "Euro Rises on Iran Ceasefire Hopes — The euro extended gains above $1.175, reaching its strongest level since April 20, buoyed by optimism over a potential resolution to the Iran conflict. US President Donald Trump confirmed that the ceasefire with Iran remains in effect, while Tehran stated it is still reviewing a US proposal to end the conflict. US Secretary of State Marco Rubio added that Washington expects Iran’s response soon. Meanwhile, Trump warned the EU that the US would impose \"much higher\" tariffs on EU goods unless the bloc eliminates its tariffs on US products by July 4. Money markets are pricing in at least two rate hikes by the ECB this year, with a more than 75% probability of a first increase in June. ECB President Christine Lagarde noted on Friday that the central bank is prepared to act swiftly if needed and that the euro area’s economic starting position ahead of the energy shock is more favorable than it was before Russia’s invasion of Ukraine."
-    },
-    {
-      "id": "4868835",
-      "time": "2026-05-08 22:24:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國農業部長羅林斯：美國化肥供應充足，擔憂焦點在於價格。"
-    },
-    {
-      "id": "4868834",
-      "time": "2026-05-08 22:24:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "美軍中央司令部稱，美軍今天（5月8日）在阿曼灣對2艘“試圖駛入伊朗港口、違反當前美國封鎖措施”的伊朗空載油輪採取行動——美軍“布什”號航空母艦上的F/A-18“超級大黃蜂”戰機向2艘船隻“發射精確制導彈藥，使其失去航行能力，從而阻止其進入伊朗”。（CCTV國際時訊）"
-    },
-    {
-      "id": "4868833",
-      "time": "2026-05-08 22:22:49",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "巴克萊：維持2026年布倫特原油價格預測為每桶100美元，上行風險偏多。"
-    },
-    {
-      "id": "mkt:019e07f8-338e-7aa7-bba5-a38825cba875",
-      "time": "2026-05-08 22:22:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "BARCLAYS: MAINTAINS $100/BBL BRENT FORECAST FOR 2026 WITH RISKS SKEWED HIGHER"
-    },
-    {
-      "id": "4868832",
-      "time": "2026-05-08 22:22:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "【榮聯科技：控股股東擬8.00%協議受讓股份鞏固控制權】榮聯科技公告稱，2026年5月7日，控股股東山東經達擬以3.82億元現金協議受讓王東輝持有的52,926,425股股份，佔總股本8.00%。若交易完成，王東輝及配偶吳敏表決權委託終止，不再與山東經達構成一致行動關係。山東經達將直接持股16.10%，仍為控股股東。本次權益變動不影響控股權和經營，尚需深交所確認，存在不確定性。"
-    },
-    {
-      "id": "4868831",
-      "time": "2026-05-08 22:21:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美軍稱在阿曼灣再攔截兩艘伊朗油輪】當地時間5月8日，美國中央司令部表示，美軍當天在阿曼灣對兩艘試圖駛入伊朗港口、違反當前美國封鎖措施的伊朗籍油輪採取行動。美國中央司令部稱，兩艘油輪分別為“Sea Star III”號和“Sevda”號，均為空載油輪。美軍“喬治·H·W·布什”號航空母艦上的F/A-18“超級大黃蜂”戰機向兩艘船隻煙囪發射精確制導彈藥，使其失去航行能力，從而阻止其進入伊朗。宣告還稱，5月6日，美軍已對另一艘伊朗籍油輪“Hasna”號採取類似行動。當時，該船正試圖駛向阿曼灣一處伊朗港口。來自“亞伯拉罕·林肯”號航空母艦的F/A-18“超級大黃蜂”戰機使用20毫米機炮擊毀其方向舵，使其無法繼續航行。（央視新聞）"
-    },
-    {
-      "id": "4868830",
-      "time": "2026-05-08 22:21:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "【階躍星辰釋出實時語音大模型StepAudio 2.5 Realtime】5月8日，階躍星辰正式釋出新一代實時語音大模型StepAudio 2.5 Realtime，實現真人級深度感知，可自定義人設，並在情商與智商上雙重進階。目前，StepAudio 2.5 Realtime已全量上線。"
-    },
-    {
-      "id": "4868828",
-      "time": "2026-05-08 22:20:53",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【伊武裝部隊在霍爾木茲海峽水域與美軍艦發生“零星衝突”】當地時間8日下午，伊朗伊斯蘭革命衛隊釋出訊息稱，伊朗武裝部隊當天早些時候在霍爾木茲海峽水域與美國軍艦發生“零星衝突”。革命衛隊方面沒有透露衝突發生的具體地點。稍早前，有訊息稱，靠近霍爾木茲海峽的伊朗錫裡克地區8日發生爆炸，原因不明。（央視新聞）"
-    },
-    {
-      "id": "4868827",
-      "time": "2026-05-08 22:19:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【AI頭部企業密集啟動融資】今年以來，國內人工智慧產業進入了資本化加速期。最近，從大模型到AI晶片，從算力基礎設施到應用層，一批頭部企業密集完成大額融資，或正在啟動港股、A股IPO程序。 5月7日，證監會官網披露崑崙芯（北京）科技股份有限公司首次公開發行股票並在科創板上市輔導備案的資訊。崑崙芯控股股東為百度（中國）有限公司，佔公司57.67%的股份。公開資料顯示，崑崙芯是人工智慧晶片供應商，公司主要深耕於晶片架構、叢集系統、軟體生態領域。今年年初，崑崙芯已向香港交易所遞交上市申請。 除崑崙芯外，近期國內大模型及AI算力企業迎來融資和IPO的集中爆發期，包括階躍星辰、月之暗面等頭部大模型公司接連傳出融資訊息，投資方涵蓋國家級產業基金、網際網路巨頭及產業鏈資本。此外，AI算力基礎設施、AI行業應用類企業也獲得產業資本密集加註，單筆融資額持續走高。（央視財經）"
-    },
-    {
-      "id": "mkt:019e07f4-55bc-7aa7-bba5-99a2c9dda571",
-      "time": "2026-05-08 22:18:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "WANG YI: CHINA AND FRANCE SHOULD REMOVE DISRUPTIONS TO ENSURE HEALTHY AND STABLE DEVELOPMENT OF THEIR COMPREHENSIVE STRATEGIC PARTNERSHIP"
-    },
-    {
-      "id": "te:markets:549293",
-      "time": "2026-05-08 22:17:57",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Cocoa is down by 5% — Cocoa decreased 5% to 4205.78 USD/T"
-    },
-    {
-      "id": "4868826",
-      "time": "2026-05-08 22:17:50",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美軍說向兩艘伊朗油輪開火，使其喪失航行能力。（新華社）"
-    },
-    {
-      "id": "4868825",
-      "time": "2026-05-08 22:17:24",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【美國防部公開162份UFO新檔案】美國國防部開始公佈新的UFO檔案，並表示公眾可以自行判斷有關“不明異常現象”（UAP）的資訊。首批公開內容包括162份檔案，例如美國國務院舊電報、FBI檔案以及NASA載人航天任務記錄等。其中一份檔案詳細記錄了一場FBI訪談：一名被稱為無人機飛行員的人士表示，其於2023年9月曾目擊一個“線狀物體”，其發出的光亮到“甚至能看清光中的條紋”。訪談記錄稱：“該物體持續可見約5至10秒，隨後燈光熄滅，物體消失。”另一份檔案則是一張來自1972年阿波羅17號任務的NASA照片，圖中出現三個呈三角排列的光點。五角大樓在說明中表示：“目前對這一異常現象的性質尚無共識”，但新的初步分析顯示，它可能是一個“實體物體”。五角大樓多年來一直在推進UFO相關檔案解密工作，美國國會則於2022年設立專門辦公室負責相關材料公開。該辦公室於2024年釋出的首份報告披露了數百起新的UAP事件，但未發現任何證據表明美國政府曾確認發現外星科技。"
-    },
-    {
-      "id": "4868824",
-      "time": "2026-05-08 22:16:40",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美國代理勞工部長桑德林：美聯儲應該降息。"
     }
   ]
 }
