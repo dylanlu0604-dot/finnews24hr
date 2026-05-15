@@ -1,7 +1,70 @@
 {
-  "updated": "2026-05-15 13:17:46",
-  "count": 15277,
+  "updated": "2026-05-15 13:21:08",
+  "count": 15282,
   "items": [
+    {
+      "id": "4881267",
+      "time": "2026-05-15 13:20:44",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀失守80美元/盎司，日內跌4.20%。"
+    },
+    {
+      "id": "4881266",
+      "time": "2026-05-15 13:20:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【滬寧股份：光電子新業務尚處於早期研究驗證階段】滬寧股份(300669)今日在投資者互動平臺表示，目前光電子新業務尚處於早期研究、驗證階段，存在技術迭代、客戶認證及市場拓展等不確定性因素；公司未來將根據業務發展階段、市場拓展及產業化需求，統籌規劃最適配的組織模式。"
+    },
+    {
+      "id": "4881265",
+      "time": "2026-05-15 13:18:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀日內跌4%，現報80.15美元/盎司。"
+    },
+    {
+      "id": "4881264",
+      "time": "2026-05-15 13:18:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【阿里釋出Qoder 1.0】5月15日，阿里釋出Qoder 1.0，從AI IDE升級為智慧體自主開發工作臺，使用者只需專注需求定義，Agent團隊即可自主完成執行、驗證和交付全流程任務。目前，Windows、macOS和Linux系統使用者均可下載使用。"
+    },
+    {
+      "id": "4881263",
+      "time": "2026-05-15 13:18:46",
+      "tags": [
+        "宏觀",
+        "公司",
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【三星電子提議無條件重啟勞資談判 但工會仍堅持罷工計劃 機構預計罷工成本或高達200億美元】三星電子的韓國工會週五表示，即使在公司提議無條件重啟薪資談判後，該工會仍堅持原定於下週開始的罷工，受此影響，三星電子股價一度下跌6%。本週，工會與公司在政府調解下就薪資和獎金方案進行的談判破裂，加劇了市場對三星電子可能發生罷工的擔憂。工會週五表示，願意在6月7日後舉行新一輪談判，但仍堅持從5月21日開始為期18天的罷工，這可能擾亂公司的生產。工會對三星電子與競爭對手SK海力士之間的獎金差距巨大感到憤怒，並警告稱下週可能有超過5萬名工人罷工。包括總理和企劃財政部長官在內的韓國政府官員均表示，應不惜一切代價避免三星發生罷工，並警告稱這可能對經濟增長、出口和金融市場構成重大風險。韓國產業通商資源部長官金正官週四表示，罷工將對經濟造成無法彌補的損害，緊急仲裁可能不可避免。根據韓國法律，只有僱傭勞動部長官才能行使緊急仲裁權。僱傭勞動部長官金榮訓強調，三星電子與工會有必要進行對話。而韓國青瓦臺則表示，目前不是考慮就三星電子罷工啟動緊急仲裁的時機。摩根大通估計，此次罷工將使三星的營業利潤減少21萬億至31萬億韓元（140.8億美元至207.9億美元），而營收損失可能達到約4.5萬億韓元。"
+    },
+    {
+      "id": "4881262",
+      "time": "2026-05-15 13:18:41",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4590美元/盎司，日內跌2.04%。"
+    },
+    {
+      "id": "4881261",
+      "time": "2026-05-15 13:17:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期金日內跌2%，現報4591.30美元/盎司。"
+    },
     {
       "id": "4881260",
       "time": "2026-05-15 13:17:29",
@@ -137892,30 +137955,6 @@
         "MKT News"
       ],
       "text": "SAUDI SOURCE TO AL ARABIYA: THE KINGDOM HAS NOT PERMITTED THE USE OF ITS AIRSPACE TO SUPPORT OFFENSIVE MILITARY OPERATIONS"
-    },
-    {
-      "id": "te:economy:549046",
-      "time": "2026-05-08 13:21:07",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Finland",
-        "Industrial Production",
-        "Importance 1"
-      ],
-      "text": "Finnish Industrial Output Highest Since 2022 — Industrial production in Finland climbed 7.3% year-on-year in March 2026 from 5.3% in the previous month and marking the strongest growth since June 2022. Manufacturing output continued to accelerate, rising 5.9% after a 5.3% gain in February, driven by stronger increases in chemicals (20.9% vs 9.2%), fabricated metal products (5.9% vs 0.4%), and food products (4.7% vs 3.5%), alongside a rebound in paper and paper products (4.5% vs -8.8%). Additionally, electricity, gas, steam, and air conditioning supply growth quickened to 15.7% from 7.9%, while the mining and quarrying sector rebounded 12.8% after an 11.1% decline. On a seasonally adjusted monthly basis, industrial output eased to 2.8% in March from 3.2% in the previous period."
-    },
-    {
-      "id": "mkt:019e0607-27e3-7113-a190-192d266d4c55",
-      "time": "2026-05-08 13:19:52",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Flights to Dubai and Abu Dhabi Suspended After Air Defense Activation Reports 】Reports said flights to Dubai and Abu Dhabi were suspended following the activation of air defense systems in the United Arab Emirates, according to unnamed news sources cited in the update."
     }
   ]
 }
