@@ -1,7 +1,101 @@
 {
-  "updated": "2026-05-15 09:20:37",
-  "count": 15227,
+  "updated": "2026-05-15 09:24:08",
+  "count": 15230,
   "items": [
+    {
+      "id": "4880948",
+      "time": "2026-05-15 09:23:44",
+      "tags": [
+        "央行"
+      ],
+      "text": "中國央行公開市場本週淨回籠510億元。"
+    },
+    {
+      "id": "4880947",
+      "time": "2026-05-15 09:23:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "中芯國際港股早盤高開3.4%，晶圓交付“量價齊升”推動一季度淨利潤錄得增長。"
+    },
+    {
+      "id": "mkt:019e293b-50b9-7bb5-b4d3-fa976bdde1eb",
+      "time": "2026-05-15 09:22:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH"
+      ],
+      "text": "CHINA C.BANK INJECTS 500 MLN YUAN VIA 7-DAY REVERSE REPOS AT 1.40% VS PRIOR 1.40% - STATEMENT"
+    },
+    {
+      "id": "mkt:019e293b-02a4-7bb5-b4d3-f15a0639a513",
+      "time": "2026-05-15 09:22:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "HONG KONG STOCKS OPEN MIXED: HANG SENG +0.01%, TECH INDEX -0.13%"
+    },
+    {
+      "id": "mkt:019e293a-5a65-7bb5-b4d3-eab9e04fd293",
+      "time": "2026-05-15 09:22:30",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AI Revolution",
+        "SMIC.O",
+        "Impact bullish"
+      ],
+      "text": "SMIC SAID ITS OVERSEAS ORDERS INCREASED AS AI BOOM LED TO CAPACITY SHORTAGE IN OVERSEAS MARKETS"
+    },
+    {
+      "id": "te:markets:550897",
+      "time": "2026-05-15 09:21:37",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "New Zealand Dollar Set for Weekly Loss — The New Zealand dollar fell to around $0.588 on Friday, heading for a weekly decline, pressured by weak domestic manufacturing data. New Zealand’s manufacturing growth slowed to a seven-month low in April, with the index falling to 50.5 from 52.8 in March, as shipping disruptions, higher fuel costs, and delays in raw material deliveries stemming from the Middle East war weighed on activity. The crisis presents a dual challenge for the Reserve Bank of New Zealand's monetary policy outlook, with surging energy prices feeding inflationary pressures while also threatening to derail a fragile economic recovery. Markets are currently pricing in around a 40% chance of a rate hike later this month, while a move in July remains fully priced in amid mounting inflation concerns. The kiwi has fallen more than 1% so far this week, on track for its first weekly loss in three."
+    },
+    {
+      "id": "4880946",
+      "time": "2026-05-15 09:21:23",
+      "tags": [
+        "焦點"
+      ],
+      "text": "港股恒指高開漲0.01％，國企指數跌0.26％，科指開跌0.13%。科技股漲跌不一，中芯國際績後漲超3%。"
+    },
+    {
+      "id": "4880945",
+      "time": "2026-05-15 09:21:13",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行透過1.40%利率的7天期逆回購操作向市場注入5億元人民幣，中標利率與前期持平。"
+    },
+    {
+      "id": "te:markets:550896",
+      "time": "2026-05-15 09:20:37",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Australia Stocks Extend Strength, Weekly Drop Still Looms — Australian shares rose 32 points, or 0.4%, to 8,673 in Friday’s morning session, marking gains for a second day after Wall Street hit fresh records overnight. Optimism around the U.S.–China summit in Beijing helped ease lingering concerns over the Middle East conflict, while bargain hunters continued to step in following recent losses that dragged the ASX 200 to a five-week low. Broad-based strength was seen across sectors, led by electronic technology, industrial services, and logistics. The big four banks advanced between 0.5% and 3.2%, with notable moves from Computershare (2.8%), QBE Insurance (2.1%), and Woolworths (1.2%). However, the ASX 200 index remains on track to finish the week lower, down about 0.8% so far, as persistent domestic inflation worries weigh on sentiment. Analysts noted the 2026/27 federal budget offered little to alter the Reserve Bank’s near-term policy outlook, keeping investors cautious despite the rebound."
+    },
     {
       "id": "4880944",
       "time": "2026-05-15 09:20:23",
@@ -137350,61 +137444,6 @@
         "國際"
       ],
       "text": "【俄外交部：銘記歷史 警惕日本“再軍事化”威脅】當地時間7日，俄羅斯外交部發言人扎哈羅娃在記者會上表示，銘記歷史是維護國際法與國際秩序的重要基礎，忘記歷史無法捍衛和平。她同時指出，日本當前加速推進“再軍事化”，已對地區穩定和安全構成威脅。"
-    },
-    {
-      "id": "4867396",
-      "time": "2026-05-08 09:23:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "【港股AI次新股走低 瀾起科技跌超5%】截至發稿，瀾起科技(06809.HK)跌5.48%，劍橋科技(06166.HK)跌3.80%，兆易創新(03986.HK)跌3.28%。"
-    },
-    {
-      "id": "4867395",
-      "time": "2026-05-08 09:21:46",
-      "tags": [
-        "焦點"
-      ],
-      "text": "港股恒指低開跌1％，國企指數跌0.63％，恒生科技指數低開0.81%，軟體股多數高開。"
-    },
-    {
-      "id": "4867394",
-      "time": "2026-05-08 09:21:37",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "央行公開市場今日淨投放5.0億元人民幣。"
-    },
-    {
-      "id": "mkt:019e052c-fb6c-7775-8cbc-248a57df5a1f",
-      "time": "2026-05-08 09:21:34",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Hot",
-        "Policy",
-        "Chinese Policy & Markets",
-        "Hang Seng Index",
-        "Impact bearish"
-      ],
-      "text": "AT OPEN, HANG SENG INDEX DOWN 1%, HANG SENG TECH INDEX DOWN 0.8%"
-    },
-    {
-      "id": "4867393",
-      "time": "2026-05-08 09:21:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "新加坡在郵輪疫情暴發後對兩名曾搭乘該郵輪的居民進行漢坦病毒檢測。"
-    },
-    {
-      "id": "4867392",
-      "time": "2026-05-08 09:20:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【知情人士：崑崙芯港股上市程序正常推進】證監會官網顯示，崑崙芯（北京）科技股份有限公司於5月7日正式啟動科創板上市輔導，中國國際金融擔任輔導機構。記者從知情人士處獲悉，崑崙芯仍在正常推動港股上市程序。（第一財經）"
     }
   ]
 }
