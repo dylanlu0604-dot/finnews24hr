@@ -1,7 +1,83 @@
 {
-  "updated": "2026-05-15 14:41:13",
-  "count": 15326,
+  "updated": "2026-05-15 14:44:43",
+  "count": 15334,
   "items": [
+    {
+      "id": "4881433",
+      "time": "2026-05-15 14:44:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達130億港元。"
+    },
+    {
+      "id": "4881432",
+      "time": "2026-05-15 14:43:46",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【歐元區政府債券收益率跟隨全球同類債券走高】歐元區政府債券收益率在開盤交易中上漲，跟隨美國和日本債券收益率走高。通脹壓力、高企的油價、霍爾木茲海峽的持續關閉以及英國的政治動盪都是推動因素。能源供應的干擾對歐洲來說尤為嚴峻，因為歐洲是一個能源淨進口國。根據Tradeweb的資料，10年期德國國債收益率上升5.2個基點，至3.104%。德國商業銀行策略師Hauke Siemssen在一份報告中表示，該行預計10年期收益率不會“持久超過”3.1%，儘管油價是一個風險。"
+    },
+    {
+      "id": "4881431",
+      "time": "2026-05-15 14:43:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "波蘭政府發言人表示，美軍目前以輪換部署方式駐紮在波蘭，目前尚無跡象證實這一安排會發生改變。"
+    },
+    {
+      "id": "4881430",
+      "time": "2026-05-15 14:42:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【五洲新春等成立新公司，含新能源原動裝置製造業務】企查查APP顯示，近日，合肥迅龍銷售有限公司成立，法定代表人為蔣明夫，經營範圍包含：汽車零配件批發；汽車零部件及配件製造；軸承、齒輪和傳動部件製造；新能源原動裝置製造等。企查查股權穿透顯示，該公司由五洲新春全資子公司浙江新龍實業有限公司、湖北超和汽車零部件有限公司共同持股。"
+    },
+    {
+      "id": "4881429",
+      "time": "2026-05-15 14:42:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【餘承東：鴻蒙智行銷售門店數量達1951家，全國城市覆蓋率90%】在今日的鴻蒙智行智界V9釋出會上，華為常務董事、產品投資評審委員會主任、終端BG董事長餘承東表示，鴻蒙智行以使用者為中心，提供全生命週期、高品質服務體驗。目前，鴻蒙智行銷售門店數量1951，服務門店數量957，全國城市覆蓋率90%，充電網路充電槍數180萬+。另外，截至2026年5月15日，智界R7、智界S7累計交付量突破16萬輛。（新浪科技）"
+    },
+    {
+      "id": "4881428",
+      "time": "2026-05-15 14:42:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【烽火通訊成功研製13824芯超大芯數光纜並已量產】據烽火通訊訊息，烽火通訊近日成功研製13824芯超大芯數光纜，並已成功量產。該產品全面適配超大規模AIDC建設需求，可滿足10萬+卡算力叢集樓間互聯的場景，創下國內首款萬芯級、業界最大芯數光纜雙重紀錄，即將登陸武漢光博會首次公開亮相。"
+    },
+    {
+      "id": "4881427",
+      "time": "2026-05-15 14:42:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【非洲疾控中心：剛果（金）出現埃博拉疫情】當地時間5月15日，非洲疾控中心釋出報告稱，已確認剛果（金）出現埃博拉病毒病疫情，該機構正與剛果（金）國家主管部門與合作伙伴合作，迅速展開應對。報告稱，實驗室檢出資料顯示，20份送檢樣本中，有13份檢出埃博拉病毒，當前正在對具體毒株種類進行鑑定，預計在未來24小時內將確認最終結果。（央視新聞）"
+    },
+    {
+      "id": "mkt:019e2a5e-e13e-7bb5-b4d7-e4b05685913f",
+      "time": "2026-05-15 14:42:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "AIR FORCE ONE TAKES OFF FROM BEIJING"
+    },
+    {
+      "id": "4881426",
+      "time": "2026-05-15 14:41:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【一季度末深圳各項貸款餘額10.21萬億元 同比增長4.1%】從深圳人行獲悉，截至一季度末，深圳市各項存款餘額15.26萬億元，同比增長9.3%，增速較上年同期提升7.5個百分點，較年初增加6288.78億元。各項貸款餘額10.21萬億元，同比增長4.1%，增速較上年同期提升1.9個百分點，較年初增加2468.18億元。"
+    },
     {
       "id": "4881425",
       "time": "2026-05-15 14:40:07",
@@ -138336,24 +138412,6 @@
         "Impact mixed"
       ],
       "text": "【US Said to Suspect Nvidia Chips Smuggled to Alibaba Via Thailand】A Bangkok-based company involved in Thailand’s national AI initiatives is suspected of helping divert billions of dollars worth of Super Micro Computer Inc. servers containing advanced Nvidia Corp. chips to China in violation of U.S. export controls, according to people familiar with the matter. U.S. prosecutors alleged in a March indictment that Super Micro’s co-founder worked with a Southeast Asian company identified only as “Company-1” and various brokers to route restricted AI semiconductors into China. The unidentified company was said to be Bangkok-based OBON Corp., while some servers allegedly ended up with Alibaba Group. Alibaba denied any involvement in smuggling activities and said it has no business relationship with Super Micro, OBON or the brokers mentioned in the indictment."
-    },
-    {
-      "id": "mkt:019e0653-ca12-7113-a191-287625a9415f",
-      "time": "2026-05-08 14:43:34",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "NVIDIA",
-        "Alibaba",
-        "Market Themes",
-        "Chip Wars",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bearish",
-        "BABA.N"
-      ],
-      "text": "US SAID TO SUSPECT NVIDIA CHIPS SMUGGLED TO ALIBABA VIA THAILAND"
     }
   ]
 }
