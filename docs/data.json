@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-16 04:40:25",
-  "count": 15517,
+  "updated": "2026-05-16 04:43:49",
+  "count": 15515,
   "items": [
     {
       "id": "te:markets:551306",
@@ -139842,36 +139842,6 @@
         "國際"
       ],
       "text": "美國與韓國簽署諒解備忘錄，加強雙邊造船業合作伙伴關係。"
-    },
-    {
-      "id": "mkt:019e0953-aabb-7222-b4ab-1c8488cd67ed",
-      "time": "2026-05-09 04:42:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US AND SOUTH KOREA SIGN MOU TO ENHANCE BILATERAL SHIPBUILDING PARTNERSHIP - ITA"
-    },
-    {
-      "id": "mkt:019e0953-68f5-7222-b4ab-113d62643b48",
-      "time": "2026-05-09 04:42:01",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "Star Stocks",
-        "Alibaba",
-        "Tencent",
-        "JD.com",
-        "US10Y",
-        "Impact bearish",
-        "S&P500",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "【Global Week Ahead (May 11-15)】 United States - April CPI (Tue), PPI (Wed), Retail Sales (Thu) Impact: Strong inflation data could further delay Fed rate-cut expectations and pressure bond markets. - Senate vote on Kevin Warsh Fed Chair nomination; Powell term ends Friday Impact: Leadership transition uncertainty may increase market volatility and reshape Fed policy expectations. - Key earnings: Cisco, Applied Materials, Constellation Energy Impact: Results will offer signals on AI spending, semiconductor demand, and power consumption trends. China - Trump visits China for Xi summit (Thu-Fri) Impact: Markets will watch for progress on tariffs, trade, AI restrictions, and geopolitical tensions. Any progress on de-escalation could ease oil prices and reduce global inflation pressure. - April CPI/PPI data (Mon) - Key earnings: Alibaba, Tencent, JD, Hon Hai Other Countries - UK King’s Speech (Wed) and Q1 GDP (Thu) - Eurozone GDP and Germany ZEW sentiment - Bucharest Nine security meeting (Wed) Impact: NATO and regional leaders will discuss Russia-related security risks and defense coordination."
     }
   ]
 }
