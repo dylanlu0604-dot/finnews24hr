@@ -1,7 +1,130 @@
 {
-  "updated": "2026-05-15 08:35:40",
-  "count": 15192,
+  "updated": "2026-05-15 08:39:04",
+  "count": 15204,
   "items": [
+    {
+      "id": "4880862",
+      "time": "2026-05-15 08:38:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "片山：將在七國集團峰會上討論關鍵礦產和全球失衡問題。"
+    },
+    {
+      "id": "4880861",
+      "time": "2026-05-15 08:38:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "片山皋月：觀察能源成本對更廣泛價格的影響。"
+    },
+    {
+      "id": "te:markets:550884",
+      "time": "2026-05-15 08:38:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "currency",
+        "Importance 1"
+      ],
+      "text": "Euro Hits 5-week Low — EURUSD decreased to 1.17, the lowest since April 2026. Over the past 4 weeks, Euro US Dollar lost 1.04%, and in the last 12 months, it increased 4.4%."
+    },
+    {
+      "id": "4880860",
+      "time": "2026-05-15 08:37:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山表示：將採取靈活應對措施，保障民生。"
+    },
+    {
+      "id": "4880859",
+      "time": "2026-05-15 08:37:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼計劃將對澳大利亞尿素出口量增加一倍，達到50萬噸。"
+    },
+    {
+      "id": "4880858",
+      "time": "2026-05-15 08:36:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "片山皋月表示：2026財年預算中留有1萬億日元儲備資金，目前無需追加額外預算。"
+    },
+    {
+      "id": "4880857",
+      "time": "2026-05-15 08:36:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "片山皋月：我們目前不需要追加預算。"
+    },
+    {
+      "id": "4880856",
+      "time": "2026-05-15 08:36:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山在被問及是否會恢復補貼時表示：目前將密切關注能源進口成本對電力市場的影響。"
+    },
+    {
+      "id": "mkt:019e2910-69ee-7bb5-b4d3-5585d53ce1e3",
+      "time": "2026-05-15 08:35:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ANTHROPIC AGREED THE TERMS OF $30BN FUNDRAISING THAT WILL VALUE IT AT $900BN AND IS EXPECTED TO CLOSE AS SOON AS THIS MONTH - FT"
+    },
+    {
+      "id": "mkt:019e2910-6485-7bb5-b4d3-4a08a5665d86",
+      "time": "2026-05-15 08:35:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "JAPAN FINMIN KATAYAMA: PLAN TO VISIT FRANCE FROM MAY 17 TO ATTEND G7 FINANCE MINISTERS' MEETING"
+    },
+    {
+      "id": "mkt:019e2910-49ee-7bb5-b4d3-41d9106c6a44",
+      "time": "2026-05-15 08:35:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH",
+        "Impact bullish",
+        "S&P500",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "USTR GREER: WE EXPECT TO SEE AN AGREEMENT FOR DOUBLE DIGIT BILLIONS OF DOLLARS OF AGRICULTURE SALES TO CHINA COMING OUT OF THE SUMMIT"
+    },
+    {
+      "id": "mkt:019e290f-fbca-7bb5-b4d3-3eccb00f2625",
+      "time": "2026-05-15 08:34:52",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "USTR GREER: WE ARE TRYING TO MANAGE DIFFERENCES ON RARE EARTHS AS OPPOSED TO ESCALATING"
+    },
+    {
+      "id": "mkt:019e290f-ad96-7bb5-b4d3-30fa138410f8",
+      "time": "2026-05-15 08:34:45",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "CNH"
+      ],
+      "text": "USTR GREER: CHINA IS FULLING ITS PROMISES ON SOYBEAN PURCHASES"
+    },
     {
       "id": "mkt:019e290f-5f68-7bb5-b4d3-2e1aacad5b7c",
       "time": "2026-05-15 08:34:39",
@@ -137101,18 +137224,6 @@
         "其他"
       ],
       "text": "【OpenAI推出“可信聯絡人”安全功能】當地時間5月7日，OpenAI宣佈推出“可信聯絡人”功能。具體而言，如果OpenAI的自動化系統和經過培訓的稽核人員檢測到成年使用者可能曾討論過自殘行為，且這種行為可能構成嚴重的安全隱患，則該聯絡人將會收到通知。宣告稱，該功能不會取代專業護理或危機干預服務，而是為處於困境中的使用者提供多重保障措施。ChatGPT仍會鼓勵使用者在適當情況下聯絡危機熱線或緊急服務部門。"
-    },
-    {
-      "id": "te:economy:548958",
-      "time": "2026-05-08 08:35:44",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Services PMI",
-        "Importance 2"
-      ],
-      "text": "Japan Services Activity Expansion Revised Downward — Japan’s S&P Global Services PMI was revised slightly lower to 51.0 in April 2026 from 51.2 in the flash reading and down from March’s final 53.4, signalling a thirteenth successive month of expansion. However, the latest reading remained the lowest figure since May 2025, as new orders grew at the slowest pace since last October, while foreign sales declined for the first time in five months, albeit modestly."
     }
   ]
 }
