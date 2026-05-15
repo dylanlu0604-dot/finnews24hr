@@ -1,7 +1,195 @@
 {
-  "updated": "2026-05-15 13:31:17",
-  "count": 15288,
+  "updated": "2026-05-15 13:34:38",
+  "count": 15304,
   "items": [
+    {
+      "id": "mkt:019e2a21-2e32-7bb5-b4d6-ed8e2f15edf9",
+      "time": "2026-05-15 13:34:38",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "SPOT SILVER EXTENDS LOSSES, LAST DOWN OVER 5% AT $79.24/OZ"
+    },
+    {
+      "id": "mkt:019e2a21-13d5-7bb5-b4d6-e3a56d693a66",
+      "time": "2026-05-15 13:34:31",
+      "tags": [
+        "MKT News",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "JAPAN'S NIKKEI SHARE AVERAGE FALLS 2.1%"
+    },
+    {
+      "id": "4881295",
+      "time": "2026-05-15 13:34:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌7%，現報79.31美元/盎司。"
+    },
+    {
+      "id": "4881294",
+      "time": "2026-05-15 13:34:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "*ST東晶盤中跌停，上演“天地板”，成交額超1.6億元。"
+    },
+    {
+      "id": "mkt:019e2a20-dbee-7bb5-b4d6-d8707cbedc5b",
+      "time": "2026-05-15 13:34:16",
+      "tags": [
+        "MKT News",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "TURNOVER ON SSE AND SZSE EXCEEDED 2.5TN YUAN, DOWN 50BN YUAN FROM THE SAME TIME YESTERDAY"
+    },
+    {
+      "id": "4881293",
+      "time": "2026-05-15 13:33:52",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀失守79美元/盎司，日內跌5.49%。"
+    },
+    {
+      "id": "4881292",
+      "time": "2026-05-15 13:33:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數下跌2.1%。"
+    },
+    {
+      "id": "4881291",
+      "time": "2026-05-15 13:33:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國綜指跌幅擴大至6%，現報7501.77點。"
+    },
+    {
+      "id": "4881290",
+      "time": "2026-05-15 13:32:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓總統府：對中美關係發展表示歡迎】當地時間15日下午，韓國總統府公報溝通首席秘書李圭淵在總統府青瓦臺舉行記者會。在回答記者提問時，李圭淵表示，韓國對中美領導人會晤以及中美關係發展表示歡迎，稱期待透過此次中美領導人會晤，中韓關係以及美韓關係也能夠得到進一步深化和鞏固。（央視新聞）"
+    },
+    {
+      "id": "4881288",
+      "time": "2026-05-15 13:32:42",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "倫敦證券交易所集團IBES資料顯示，歐洲企業一季度營收預計將下滑0.4%，一週前市場預期為增長0.2%。"
+    },
+    {
+      "id": "te:markets:550985",
+      "time": "2026-05-15 13:32:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Rupiah Strengthens, Weekly Slide Persists — The Indonesian rupiah firmed to around IDR 17,450 per dollar in thin Friday trade, rebounding after two subdued sessions. Speculation that the central bank may raise its benchmark rate next week to 5% from 4.75%, held since October, buoyed sentiment as policymakers seek to stem outflows and steady the currency. Earlier this week, the government launched a bond stabilisation fund to shore up debt markets amid rising yields and persistent foreign selling pressure. However, the rupiah remained on track for a seventh straight weekly loss, down around 0.5% so far, pressured by falling reserves, fiscal strains, and inflation risks from the Iran war that threaten energy costs despite April’s mild domestic reading. Investors also stayed cautious ahead of Q1 current account data after the deficit widened in Q4 on a larger oil shortfall. Globally, the dollar held firm as U.S. cost pressures reinforced bets the Fed could keep rates higher for longer, with some still eyeing another hike this year."
+    },
+    {
+      "id": "te:economy:550984",
+      "time": "2026-05-15 13:32:21",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Estonia",
+        "Unemployment Rate",
+        "Importance 1"
+      ],
+      "text": "Estonian Jobless Rate Falls to 7.1% in Q1 — Estonia’s unemployment rate fell to 7.1% in Q1 2026 from an eleven-year high of 8.6% in the corresponding period last year. The number of unemployed decreased by 12.0 thousand to 52.2 thousand. Of this total, 25.6 thousand were men, compared with 33.7 thousand a year earlier, while 26.7 thousand were women, compared with 30.5 thousand previously. Across age groups, the youth unemployment rate (aged 15–24) rose by 4.0 percentage points to 22.8%, while the rate for those aged 25–49 fell to 6.2% from 8.2%, and for those aged 50–74 declined to 5.2% from 6.9%. Meanwhile, the number of employed rose by 4.7 thousand to 686.3 thousand. The labor force participation rate eased to 73.2% from 73.7% a year earlier, while the employment rate rose to 68.0% from 67.4%. In Q4 2025, the jobless rate stood at 6.4%."
+    },
+    {
+      "id": "4881287",
+      "time": "2026-05-15 13:32:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "MSCI亞太指數下跌2%至266.53點。"
+    },
+    {
+      "id": "4881286",
+      "time": "2026-05-15 13:32:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌5%，現報79.19美元/盎司。"
+    },
+    {
+      "id": "4881285",
+      "time": "2026-05-15 13:32:13",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "倫敦證券交易所集團IBES資料顯示，歐洲公司第一季度盈利預計將增長11.5%，高於一週前的10.2%。"
+    },
+    {
+      "id": "mkt:019e2a1e-f9f9-7bb5-b4d6-d66a66a553b0",
+      "time": "2026-05-15 13:32:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "U.S. 10-YEAR TREASURY YIELD RISES TO 4.530%, HIGHEST SINCE MAY 2025"
+    },
+    {
+      "id": "4881284",
+      "time": "2026-05-15 13:32:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4580美元/盎司，日內跌2.25%。"
+    },
+    {
+      "id": "4881283",
+      "time": "2026-05-15 13:31:55",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超2.5萬億元，較上日此時縮量536億元。"
+    },
+    {
+      "id": "4881282",
+      "time": "2026-05-15 13:31:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "*ST東晶盤中跌停，上演“天地板”，現報13.88元，成交額1.58億元。"
+    },
+    {
+      "id": "4881281",
+      "time": "2026-05-15 13:31:13",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4580美元/盎司，日內跌1.59%。"
+    },
     {
       "id": "4881280",
       "time": "2026-05-15 13:31:05",
@@ -137990,43 +138178,6 @@
         "其他"
       ],
       "text": "索尼表示，研發PlayStation下一代主機的成本將衝擊遊戲業務利潤。"
-    },
-    {
-      "id": "4867700",
-      "time": "2026-05-08 13:34:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "【友邦人壽、大家人壽等在天津成立股權投資基金，出資額61億元】企查查APP顯示，近日，天津家鼎股權投資基金合夥企業（有限合夥）成立，出資額61億元，經營範圍包含：以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該合夥企業由無錫城安鼎瑞股權投資合夥企業（有限合夥）、友邦人壽保險有限公司、大家人壽保險股份有限公司、中宏人壽保險有限公司、天津遠見創新投資管理有限公司、無錫啟城遠見企業管理有限公司共同出資。"
-    },
-    {
-      "id": "te:markets:549049",
-      "time": "2026-05-08 13:34:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Hong Kong",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "China Mobile Stock Price Hits 20-week High — China Mobile shares increased to 85.65 HKD, the highest since December 2025. Over the past 4 weeks, China Mobile gained 6.07%, and in the last 12 months, it increased 2.45%."
-    },
-    {
-      "id": "4867699",
-      "time": "2026-05-08 13:32:12",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【商業航天板塊午後繼續拉昇，航天動力漲停】商業航天板塊午後繼續拉昇，航天動力漲停，航天環宇、電科藍天漲超10%，廣聯航空、神劍股份跟漲。"
-    },
-    {
-      "id": "4867698",
-      "time": "2026-05-08 13:31:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "臺積電前4個月累計銷售額1.54萬億元臺幣，同比增長29.9％。"
     }
   ]
 }
