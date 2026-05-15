@@ -1322,24 +1322,55 @@ def call_openai_central_bank_summary(items: list[dict], start: datetime, end: da
 8. 巴西央行 BCB
 9. 瑞士央行 SNB
 
-每個央行都固定輸出以下三段，不得改成其他格式：
-1. officials：當天該央行官員發言整理。
-2. expectations：市場對央行政策預期，例如路透調查、利率期貨、OIS、掉期、債券市場定價、經濟學家預期。
-3. reports：當天央行重要報告、政策聲明、利率決議、會議紀要、研究、金融穩定或通膨相關發布。
+═══════════════════════════════
+判斷模式：每家央行先判斷當日是否有「貨幣政策發布」
+═══════════════════════════════
+「貨幣政策發布」的認定標準（任一項成立即視為有發布）：
+- 利率決議 / 利率決定 / 政策利率調整（含維持不變的官方公告）
+- FOMC 聲明、SEP 點陣圖、ECB Governing Council 決議、BoE MPC 決議、BoJ MPM 決議、RBA Cash Rate 決議等
+- 央行貨幣政策聲明（Monetary Policy Statement）
+- 央行行長 / 總裁 / 主席於決議後召開的記者會
+- 季度貨幣政策報告（如日銀展望報告、英銀 Monetary Policy Report、ECB 經濟公報主軸發布日）
 
-嚴格規則：
-- 每段最多 9 點；沒有資料就輸出空陣列，不要補背景、不准硬湊。
-- 只整理與該央行直接相關的內容。Fed 只能放 Fed / FOMC / 聯準會；ECB 只能放 ECB / 歐洲央行；依此類推。
-- 絕對禁止把澳幣、英鎊、股市、黃金、原油、加密、一般債券行情等市場新聞塞進官員發言或報告。
-- 只有新聞明確提到市場對該央行的政策定價、調查或預期，才可放入 expectations。
-- 只有新聞明確提到該央行發布決議、聲明、會議紀要、報告、展望，才可放入 reports。
-- 若只是市場行情文章引用央行作為背景，不要納入 reports；除非該文有明確的利率期貨、調查或政策機率，才可放入 expectations。
-- 不要寫「快訊顯示」「根據快訊」等元敘事；直接寫重點。
-- 中文用詞採台灣財經媒體慣例：聯準會、歐洲央行、英國央行、日本央行、澳洲聯儲、加拿大央行、印度央行、巴西央行、瑞士央行、升息、降息、利率期貨、殖利率。
+═══════════════════════════════
+模式 A：當日有貨幣政策發布 → 必填 policy_release，officials/expectations/reports 全部留空陣列
+═══════════════════════════════
+請對該央行做「深度政策分析」，不要套用平日的三段架構。policy_release 包含下列子欄位（皆為條列字串陣列，除 summary 外）：
 
-輸出要求：
-- headline：一句總結全球央行主線，25 字以內。
+- has_release：true
+- summary：2-4 句總結今日政策動向與市場含意（80-200 字），需明確點出利率水準、政策立場（鷹/鴿/中性）、與市場預期落差。
+- decision：利率決議結果與政策工具變動明細。涵蓋政策利率、存款利率、貸款利率、量化緊縮/寬鬆規模、資產負債表方向、準備金率、前次水準對比、決議票數分歧（若有）。每點 60-150 字。最少 3 點。
+- statement：政策聲明關鍵段落逐點拆解。涵蓋通膨敘事變化、就業/成長語氣、金融穩定段落、措辭新增或刪除（hawkish/dovish wording changes）。每點 80-180 字。最少 3 點。
+- economic_view：央行對經濟、通膨、就業、金融條件的最新評估，含 SEP / 員工預測 / 通膨路徑 / GDP 預測修訂。若有預測表格內容請逐項列出新舊值對比。每點 80-180 字。最少 2 點。
+- forward_guidance：前瞻指引、路徑訊號、官員對下一次會議的暗示、條件式承諾、QT 或 QE 路徑、終端利率（terminal rate）線索。每點 80-180 字。最少 2 點。
+- press_conference：記者會 / 行長談話重點。逐題或逐主題整理（通膨、勞動市場、財政、匯率、地緣、市場波動等），引用具體用語（如 "data-dependent"、"meeting by meeting"、"sufficiently restrictive"）。每點 80-200 字。最少 4 點。若當日確認有決議但記者會內容資料有限，至少根據可得資訊整理 2 點並註明「資料有限」。
+- market_reaction：市場對該決議與記者會的即時反應與後續定價變化。涵蓋短端利率期貨、OIS / 掉期定價、殖利率曲線變化、匯率、股市、信用利差。每點 60-150 字。最少 2 點。
+
+═══════════════════════════════
+模式 B：當日無貨幣政策發布 → 維持三段，has_release=false，policy_release 各子陣列輸出空陣列、summary 為空字串
+═══════════════════════════════
+- officials：當天該央行官員發言整理。逐位官員、逐個主題分點。每點 50-120 字，必須含官員姓名、發言場合（演講/受訪/國會作證/論壇）、具體論點（利率立場、通膨判斷、就業看法、政策時點）。最少 3 點（若有任何資料）。最多 15 點。
+- expectations：市場對央行政策預期。每點 50-120 字，需具體寫出 CME FedWatch / OIS / 路透調查 / 經濟學家中位數預測 / 利率期貨機率變化等可量化定價，並對比前一日或前一週基準。最少 2 點。最多 12 點。
+- reports：當天央行非決議類報告、研究、會議紀要、金融穩定、貼現窗、SOMA 操作、貨幣供給數據、外匯存底等。每點 50-120 字，需點出報告名稱、核心數字、政策意涵。最少 2 點（若有資料）。最多 12 點。
+- 沒有任何資料的段才允許空陣列。
+
+═══════════════════════════════
+全央行共用嚴格規則
+═══════════════════════════════
+- 只整理與該央行直接相關的內容。Fed 只能放 Fed / FOMC / 聯準會；ECB 只能放 ECB / 歐洲央行；依此類推。其他央行的訊息嚴禁混入。
+- 絕對禁止把澳幣、英鎊、股市、黃金、原油、加密、一般債券行情等市場新聞塞進官員發言、聲明或報告。
+- 若只是市場行情文章引用央行作為背景，不要納入 reports / policy_release；除非文章有明確的利率期貨、調查或政策機率，才可放入 expectations。
+- 不要寫「快訊顯示」「根據快訊」「資料指出」等元敘事；直接寫重點。
+- 數字、百分比、機率、票數請完整保留並標明單位（bps、%、人）。
+- 中文用詞採台灣財經媒體慣例：聯準會、歐洲央行、英國央行、日本央行、澳洲聯儲、加拿大央行、印度央行、巴西央行、瑞士央行、升息、降息、利率期貨、殖利率、量化緊縮、貼現窗、政策利率、存款便利、再融資。
+- status 欄位：模式 A 寫「政策決議日」「會議紀要日」「政策報告日」等具體事件；模式 B 寫「追蹤中」「官員密集發言」「無重大事件」等。
+
+═══════════════════════════════
+輸出要求
+═══════════════════════════════
+- headline：一句總結全球央行主線，25 字以內。若當日有任一主要央行決議，須在 headline 點名該央行與方向。
 - central_banks 陣列必須剛好 9 個，順序與上方清單一致。
+- 每家央行都必須提供完整的 policy_release 物件結構（即使是模式 B，也要回傳 has_release=false + 所有子欄位的空值）。
 
 資料庫快訊：
 {compact_news_input(items)}
@@ -1348,6 +1379,30 @@ def call_openai_central_bank_summary(items: list[dict], start: datetime, end: da
     bullet_array = {
         "type": "array",
         "items": {"type": "string"},
+    }
+    policy_release_schema = {
+        "type": "object",
+        "additionalProperties": False,
+        "properties": {
+            "has_release": {"type": "boolean"},
+            "summary": {"type": "string"},
+            "decision": bullet_array,
+            "statement": bullet_array,
+            "economic_view": bullet_array,
+            "forward_guidance": bullet_array,
+            "press_conference": bullet_array,
+            "market_reaction": bullet_array,
+        },
+        "required": [
+            "has_release",
+            "summary",
+            "decision",
+            "statement",
+            "economic_view",
+            "forward_guidance",
+            "press_conference",
+            "market_reaction",
+        ],
     }
     schema = {
         "type": "object",
@@ -1367,7 +1422,8 @@ def call_openai_central_bank_summary(items: list[dict], start: datetime, end: da
                         "status": {"type": "string"},
                         "officials": bullet_array,
                         "expectations": bullet_array,
-                        "reports": bullet_array
+                        "reports": bullet_array,
+                        "policy_release": policy_release_schema,
                     },
                     "required": [
                         "id",
@@ -1376,6 +1432,7 @@ def call_openai_central_bank_summary(items: list[dict], start: datetime, end: da
                         "officials",
                         "expectations",
                         "reports",
+                        "policy_release",
                     ],
                 },
             },
@@ -1399,7 +1456,7 @@ def call_openai_central_bank_summary(items: list[dict], start: datetime, end: da
                 "schema": schema,
             }
         },
-        "max_output_tokens": 6200,
+        "max_output_tokens": 14000,
     }
     r = requests.post(
         "https://api.openai.com/v1/responses",
@@ -1432,6 +1489,16 @@ def empty_central_bank_summary(summary_date: str, start: datetime, end: datetime
                 "officials": [],
                 "expectations": [],
                 "reports": [],
+                "policy_release": {
+                    "has_release": False,
+                    "summary": "",
+                    "decision": [],
+                    "statement": [],
+                    "economic_view": [],
+                    "forward_guidance": [],
+                    "press_conference": [],
+                    "market_reaction": [],
+                },
             }
             for bank in CENTRAL_BANKS
         ],
