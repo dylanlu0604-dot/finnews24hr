@@ -1412,6 +1412,7 @@ def central_bank_official_issues(
     required: dict[str, list[str]],
     min_chars: int = 300,
     min_detail_points: int = 4,
+    include_missing: bool = True,
 ) -> list[str]:
     issues = []
     for bank in result.get("central_banks", []):
@@ -1446,11 +1447,12 @@ def central_bank_official_issues(
             if compact and len(compact) < min_chars:
                 issues.append(f"{bank.get('name', bank.get('id', '央行'))} officials 第 {idx} 點只有 {len(compact)} 字")
 
-        rendered_officials = "\n".join(official_item_text(item) for item in bank.get("officials") or [])
-        for official in required.get(bank_id, []):
-            aliases = CENTRAL_BANK_OFFICIAL_ALIASES.get(bank_id, {}).get(official, (official,))
-            if not any(central_bank_alias_matches(alias, rendered_officials) for alias in aliases):
-                issues.append(f"{bank.get('name', bank.get('id', '央行'))} 缺少官員：{official}")
+        if include_missing:
+            rendered_officials = "\n".join(official_item_text(item) for item in bank.get("officials") or [])
+            for official in required.get(bank_id, []):
+                aliases = CENTRAL_BANK_OFFICIAL_ALIASES.get(bank_id, {}).get(official, (official,))
+                if not any(central_bank_alias_matches(alias, rendered_officials) for alias in aliases):
+                    issues.append(f"{bank.get('name', bank.get('id', '央行'))} 缺少官員：{official}")
     return issues
 
 
@@ -1676,8 +1678,12 @@ analysis 只做總覽，真正細節放在 details；analysis + details 合計�
 """.strip()
         result = request_summary(retry_prompt)
         official_issues = central_bank_official_issues(result, required_officials)
-    if official_issues:
-        raise ValueError("央行官員摘要不合格：" + "; ".join(official_issues[:30]))
+    hard_issues = central_bank_official_issues(result, required_officials, include_missing=False)
+    if hard_issues:
+        raise ValueError("央行官員摘要不合格：" + "; ".join(hard_issues[:30]))
+    missing_issues = [issue for issue in official_issues if "缺少官員" in issue]
+    if missing_issues:
+        print("[WARN] 央行官員名單疑似缺漏（已輸出詳細版，保留警告）：" + "; ".join(missing_issues[:20]))
     return result
 
 
