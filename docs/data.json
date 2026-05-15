@@ -1,7 +1,15 @@
 {
-  "updated": "2026-05-16 04:54:11",
-  "count": 15511,
+  "updated": "2026-05-16 04:57:42",
+  "count": 15510,
   "items": [
+    {
+      "id": "4882965",
+      "time": "2026-05-16 04:54:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "【紐約期金重挫3%，逼近4500美元】週五（5月15日）紐約尾盤，現貨黃金跌2.47%，報4537.20美元/盎司，本週累計下跌3.77%，5月11-14日大致持穩於4700美元——5月12日亞太盤初曾達到4773.53美元。COMEX黃金期貨跌3.01%，報4544.60美元/盎司，北京時間21:45跌至4513.80美元，逼近5月4日底部4510.10美元、3月26日底部4128.50美元，本週累跌3.96%。"
+    },
     {
       "id": "4882959",
       "time": "2026-05-16 04:50:28",
@@ -139798,22 +139806,6 @@
         "Importance 1"
       ],
       "text": "TSX Gains as Dovish BoC Bets Offset Middle East Risks — The S&P/TSX Composite gained 0.6% to close at 34,078 on Friday, as investors assessed the North American labor backdrop and the outlook for Middle East energy supply. Although clashes continued and attacks on the UAE renewed tensions near the Strait of Hormuz, the US is still awaiting Iran’s response to its proposal to end the conflict, keeping oil prices elevated. Meanwhile, the unexpected decline in Canadian employment reinforced expectations that the Bank of Canada will refrain from raising interest rates this year, supporting equities and bank stocks. BMO and Royal Bank of Canada both gained 0.5%. On the earnings front, Enbridge (-0.5%) and Wheaton Precious Metals (+5.7%) both reported results above expectations. Cardinal Energy (+1.4%) posted higher first-quarter revenue on record production, while Emera (+1.1%) reported adjusted EPS above forecasts. Rogers Sugar (+0.3%), however, posted weaker-than-expected second-quarter revenue."
-    },
-    {
-      "id": "mkt:019e095f-7575-7222-b4ab-20f4084d184a",
-      "time": "2026-05-09 04:55:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CEREBRAS PLANS TO GO PUBLIC THURSDAY - WSJ"
-    },
-    {
-      "id": "4869269",
-      "time": "2026-05-09 04:54:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "Cerebras計劃下週四申請美國IPO。"
     }
   ]
 }
