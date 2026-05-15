@@ -459,6 +459,12 @@ function initLanguageSelect() {
   }
   .cb-list { margin: 0; padding-left: 1.25rem; color: #aaa79f; font-size: .74rem; line-height: 1.78; }
   .cb-list li { margin: .16rem 0; padding-left: .15rem; }
+  .cb-official { margin: .28rem 0 .72rem; }
+  .cb-official-name { color: var(--text); font-size: .8rem; font-weight: 650; line-height: 1.55; }
+  .cb-official-overview { margin: .3rem 0 .38rem; color: #b9b5ad; line-height: 1.78; }
+  .cb-detail-list { margin: .2rem 0 0; padding-left: 1.05rem; list-style: disc; color: #aaa79f; }
+  .cb-detail-list li { margin: .34rem 0; padding-left: .08rem; }
+  .cb-detail-list strong { color: #d5c16c; font-weight: 650; }
 
   /* ── 即時快訊 ── */
   .filter-wrap { display: flex; flex-wrap: wrap; gap: .3rem; align-items: center; padding: .45rem .9rem; background: rgba(8,8,16,.95); border-bottom: 1px solid var(--border); flex-shrink: 0; }
@@ -1414,6 +1420,21 @@ function formatCentralBankBullet(item) {
   const official = item.official ? `<strong>${attrEscape(item.official)}</strong>` : '';
   const venue = item.venue ? `（${attrEscape(item.venue)}）` : '';
   const analysis = attrEscape(item.analysis || item.summary || item.text || '');
+  const details = Array.isArray(item.details) ? item.details.filter(Boolean) : [];
+  if (details.length) {
+    const detailRows = details.map(detail => {
+      const title = attrEscape(detail.title || '');
+      const text = attrEscape(detail.text || '');
+      return `<li>${title ? `<strong>${title}</strong>：` : ''}${text}</li>`;
+    }).join('');
+    return `
+      <div class="cb-official">
+        <div class="cb-official-name">${official}${venue}</div>
+        ${analysis ? `<div class="cb-official-overview">${analysis}</div>` : ''}
+        <ul class="cb-detail-list">${detailRows}</ul>
+      </div>
+    `;
+  }
   if (official || venue) return `${official}${venue}：${analysis}`;
   return analysis || attrEscape(JSON.stringify(item));
 }
