@@ -1362,6 +1362,15 @@ def central_bank_news_for_day(conn, start: datetime, end: datetime, limit: int =
     return [{"id": r[0], "time": r[1], "tags": json.loads(r[2]), "text": r[3]} for r in rows]
 
 
+def central_bank_alias_matches(alias: str, text: str) -> bool:
+    if not alias or not text:
+        return False
+    if re.fullmatch(r"[A-Za-z][A-Za-z .'-]*", alias):
+        pattern = rf"(?<![A-Za-z]){re.escape(alias)}(?![A-Za-z])"
+        return re.search(pattern, text, flags=re.IGNORECASE) is not None
+    return alias in text
+
+
 def central_bank_required_officials(items: list[dict]) -> dict[str, list[str]]:
     required: dict[str, list[str]] = {}
     for item in items:
@@ -1370,7 +1379,7 @@ def central_bank_required_officials(items: list[dict]) -> dict[str, list[str]]:
             continue
         for bank_id, aliases_by_name in CENTRAL_BANK_OFFICIAL_ALIASES.items():
             for official, aliases in aliases_by_name.items():
-                if any(alias and alias in text for alias in aliases):
+                if any(central_bank_alias_matches(alias, text) for alias in aliases):
                     required.setdefault(bank_id, [])
                     if official not in required[bank_id]:
                         required[bank_id].append(official)
@@ -1415,7 +1424,7 @@ def central_bank_official_issues(result: dict, required: dict[str, list[str]], m
         rendered_officials = "\n".join(official_item_text(item) for item in bank.get("officials") or [])
         for official in required.get(bank_id, []):
             aliases = CENTRAL_BANK_OFFICIAL_ALIASES.get(bank_id, {}).get(official, (official,))
-            if not any(alias and alias in rendered_officials for alias in aliases):
+            if not any(central_bank_alias_matches(alias, rendered_officials) for alias in aliases):
                 issues.append(f"{bank.get('name', bank.get('id', '央行'))} 缺少官員：{official}")
     return issues
 
