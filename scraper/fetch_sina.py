@@ -38,6 +38,7 @@ TW = timezone(timedelta(hours=8))
 ET = ZoneInfo("America/New_York")
 BASE_DIR = os.path.dirname(__file__)
 DB_PATH  = os.path.join(BASE_DIR, "news.db")
+NEW_DB_PATH = os.path.join(BASE_DIR, "new.db")
 DOCS_DIR = os.path.join(BASE_DIR, "..", "docs")
 EXPORT_DAYS = 7
 TE_STREAM_URL = "https://tradingeconomics.com/ws/stream.ashx"
@@ -46,8 +47,25 @@ MKTNEWS_FLASH_URL = "https://api.mktnews.net/api/flash"
 MKTNEWS_PAGE_LIMIT = 50
 MKTNEWS_DEFAULT_PAGES = 1
 AI_SUMMARY_PATH = os.path.join(DOCS_DIR, "ai_summaries.json")
+CENTRAL_BANK_SUMMARY_PATH = os.path.join(DOCS_DIR, "central_bank_summaries.json")
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "").strip()
 OPENAI_SUMMARY_MODEL = os.getenv("OPENAI_SUMMARY_MODEL", "gpt-5.4-nano").strip()
+try:
+    CENTRAL_BANK_SUMMARY_MIN_HOUR = int(os.getenv("CENTRAL_BANK_SUMMARY_MIN_HOUR", "18"))
+except ValueError:
+    CENTRAL_BANK_SUMMARY_MIN_HOUR = 18
+
+CENTRAL_BANKS = [
+    {"id": "fed", "name": "美國聯準會 Fed", "keywords": ("Fed", "Federal Reserve", "FOMC", "Powell", "Waller", "Bowman", "Jefferson", "Williams", "美聯儲", "聯準會", "鮑威爾")},
+    {"id": "ecb", "name": "歐洲央行 ECB", "keywords": ("ECB", "European Central Bank", "Lagarde", "Schnabel", "Villeroy", "歐洲央行", "拉加德")},
+    {"id": "boe", "name": "英國央行 BoE", "keywords": ("BoE", "BOE", "Bank of England", "Bailey", "Mann", "Pill", "英國央行", "英國銀行")},
+    {"id": "boj", "name": "日本央行 BoJ", "keywords": ("BoJ", "BOJ", "Bank of Japan", "Ueda", "Tamura", "日本央行", "植田")},
+    {"id": "rba", "name": "澳洲聯儲 RBA", "keywords": ("RBA", "Reserve Bank of Australia", "Bullock", "澳洲聯儲", "澳洲央行")},
+    {"id": "boc", "name": "加拿大央行 BoC", "keywords": ("BoC", "BOC", "Bank of Canada", "Macklem", "加拿大央行")},
+    {"id": "rbi", "name": "印度央行 RBI", "keywords": ("RBI", "Reserve Bank of India", "Das", "Malhotra", "印度央行")},
+    {"id": "bcb", "name": "巴西央行 BCB", "keywords": ("BCB", "Banco Central do Brasil", "Brazil central bank", "巴西央行")},
+    {"id": "snb", "name": "瑞士央行 SNB", "keywords": ("SNB", "Swiss National Bank", "Schlegel", "瑞士央行")},
+]
 
 AI_MARKET_CONTEXT_SYMBOLS = [
     {"symbol": "ES=F", "name": "S&P 500 期貨", "kind": "price"},
@@ -1229,6 +1247,212 @@ def update_ai_summaries(conn) -> None:
 
 
 # ════════════════════════════
+# 央行摘要
+# ════════════════════════════
+def load_central_bank_summaries() -> dict:
+    if not os.path.exists(CENTRAL_BANK_SUMMARY_PATH):
+        return {"updated": "", "items": []}
+    try:
+        with open(CENTRAL_BANK_SUMMARY_PATH, "r", encoding="utf-8") as f:
+            data = json.load(f)
+        if not isinstance(data.get("items"), list):
+            data["items"] = []
+        return data
+    except Exception as e:
+        print(f"[WARN] central_bank_summaries.json 讀取失敗：{e}")
+        return {"updated": "", "items": []}
+
+
+def save_central_bank_summaries(data: dict) -> None:
+    os.makedirs(DOCS_DIR, exist_ok=True)
+    data["items"] = sorted(data.get("items", []), key=lambda x: x.get("date", ""), reverse=True)[:21]
+    data["updated"] = datetime.now(TW).strftime("%Y-%m-%d %H:%M:%S")
+    with open(CENTRAL_BANK_SUMMARY_PATH, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+
+
+def central_bank_keywords() -> list[str]:
+    keywords = []
+    seen = set()
+    for bank in CENTRAL_BANKS:
+        for keyword in bank["keywords"]:
+            if keyword not in seen:
+                keywords.append(keyword)
+                seen.add(keyword)
+    return keywords
+
+
+def central_bank_news_for_day(conn, start: datetime, end: datetime, limit: int = 220) -> list[dict]:
+    start_text = start.strftime("%Y-%m-%d %H:%M:%S")
+    end_text = end.strftime("%Y-%m-%d %H:%M:%S")
+    keywords = central_bank_keywords()
+    clauses = " OR ".join(["text LIKE ?"] * len(keywords))
+    params = [start_text, end_text, *[f"%{keyword}%" for keyword in keywords], limit]
+    rows = conn.execute(
+        f"""
+        SELECT id, time, tags, text
+        FROM news
+        WHERE time >= ? AND time < ? AND ({clauses})
+        ORDER BY time DESC
+        LIMIT ?
+        """,
+        params,
+    ).fetchall()
+    return [{"id": r[0], "time": r[1], "tags": json.loads(r[2]), "text": r[3]} for r in rows]
+
+
+def call_openai_central_bank_summary(items: list[dict], start: datetime, end: datetime) -> dict:
+    prompt = f"""
+你是央行政策與利率市場分析師。請只根據下方資料庫快訊，整理繁體中文（台灣）「央行摘要」。
+日期：{start.strftime('%Y-%m-%d')}（台灣時間）
+資料範圍：{start.strftime('%Y-%m-%d %H:%M')} 至 {end.strftime('%Y-%m-%d %H:%M')}（台灣時間）
+
+必須覆蓋以下央行，順序不可改：
+1. 美國聯準會 Fed
+2. 歐洲央行 ECB
+3. 英國央行 BoE
+4. 日本央行 BoJ
+5. 澳洲聯儲 RBA
+6. 加拿大央行 BoC
+7. 印度央行 RBI
+8. 巴西央行 BCB
+9. 瑞士央行 SNB
+
+一般格式：
+- officials：當天該央行官員發言整理，列點。
+- expectations：市場對央行政策預期，列點。例如路透調查、利率期貨、OIS、掉期、債券市場定價、經濟學家預期。
+- reports：當天央行重要報告、會議紀要、研究、金融穩定或通膨相關發布，列點。
+
+特殊規則：
+- 若當天該央行有貨幣政策發布、利率決議、政策聲明、會後記者會、會議紀要或展望報告，該央行的 has_policy_decision 設為 true。
+- has_policy_decision 為 true 時，請捨棄 officials / expectations / reports 的三段格式，改用 policy_analysis：100% 分析央行貨幣政策內容與記者會/聲明/紀要，列點整理。
+- 沒有資料時不要編造，該段輸出空陣列；該央行完全沒有相關資料時 status 寫「今日資料不足」。
+- 不要把市場行情文中引用的舊政策背景誤寫成今天的新決議；只有快訊明確顯示今天發布/發言/調查/定價時才納入。
+- 不要寫「快訊顯示」「根據快訊」等元敘事；直接寫政策與市場內容。
+- 中文用語採台灣財經媒體慣例：聯準會、歐洲央行、英國央行、日本央行、澳洲聯儲、加拿大央行、印度央行、巴西央行、瑞士央行、升息、降息、利率期貨、殖利率。
+
+輸出要求：
+- headline：一句總結今天全球央行主線，25 字以內。
+- date、generated_at 由程式填，不要輸出。
+- central_banks 陣列必須剛好 9 個，順序與上方清單一致。
+
+資料庫快訊：
+{compact_news_input(items)}
+""".strip()
+
+    bullet_array = {
+        "type": "array",
+        "items": {"type": "string"},
+    }
+    schema = {
+        "type": "object",
+        "additionalProperties": False,
+        "properties": {
+            "headline": {"type": "string"},
+            "central_banks": {
+                "type": "array",
+                "minItems": 9,
+                "maxItems": 9,
+                "items": {
+                    "type": "object",
+                    "additionalProperties": False,
+                    "properties": {
+                        "id": {"type": "string"},
+                        "name": {"type": "string"},
+                        "status": {"type": "string"},
+                        "has_policy_decision": {"type": "boolean"},
+                        "officials": bullet_array,
+                        "expectations": bullet_array,
+                        "reports": bullet_array,
+                        "policy_analysis": bullet_array,
+                    },
+                    "required": [
+                        "id",
+                        "name",
+                        "status",
+                        "has_policy_decision",
+                        "officials",
+                        "expectations",
+                        "reports",
+                        "policy_analysis",
+                    ],
+                },
+            },
+        },
+        "required": ["headline", "central_banks"],
+    }
+    payload = {
+        "model": OPENAI_SUMMARY_MODEL,
+        "input": [
+            {
+                "role": "developer",
+                "content": [{"type": "input_text", "text": "你只輸出符合 JSON schema 的繁體中文央行政策摘要。"}],
+            },
+            {"role": "user", "content": [{"type": "input_text", "text": prompt}]},
+        ],
+        "text": {
+            "format": {
+                "type": "json_schema",
+                "name": "daily_central_bank_summary",
+                "strict": True,
+                "schema": schema,
+            }
+        },
+        "max_output_tokens": 6200,
+    }
+    r = requests.post(
+        "https://api.openai.com/v1/responses",
+        headers={
+            "Authorization": f"Bearer {OPENAI_API_KEY}",
+            "Content-Type": "application/json",
+        },
+        json=payload,
+        timeout=75,
+    )
+    r.raise_for_status()
+    text = extract_response_text(r.json())
+    return json.loads(text)
+
+
+def update_central_bank_summaries(conn) -> None:
+    now = datetime.now(TW)
+    if now.hour < CENTRAL_BANK_SUMMARY_MIN_HOUR and not os.getenv("CENTRAL_BANK_FORCE_UPDATE", "").strip():
+        print(f"[CB] 尚未到每日央行摘要更新時間（{CENTRAL_BANK_SUMMARY_MIN_HOUR}:00 後）")
+        return
+    data = load_central_bank_summaries()
+    summary_date = now.date().isoformat()
+    if any(item.get("date") == summary_date for item in data.get("items", [])) and not os.getenv("CENTRAL_BANK_FORCE_UPDATE", "").strip():
+        print(f"[CB] {summary_date} 已有央行摘要，略過")
+        return
+    if not OPENAI_API_KEY:
+        print(f"[SKIP] 央行摘要 {summary_date}：未設定 OPENAI_API_KEY")
+        return
+
+    day_start = datetime.combine(now.date(), datetime.min.time(), tzinfo=TW)
+    items = central_bank_news_for_day(conn, day_start, now)
+    if len(items) < 3:
+        print(f"[CB] {summary_date} 央行相關快訊不足 ({len(items)} 筆)，略過")
+        return
+
+    try:
+        result = call_openai_central_bank_summary(items, day_start, now)
+        summary_item = {
+            "id": summary_date.replace("-", ""),
+            "date": summary_date,
+            "range_start": day_start.strftime("%Y-%m-%d %H:%M:%S"),
+            "range_end": now.strftime("%Y-%m-%d %H:%M:%S"),
+            "generated_at": now.strftime("%Y-%m-%d %H:%M:%S"),
+            "count": len(items),
+            **result,
+        }
+        data.setdefault("items", []).insert(0, summary_item)
+        save_central_bank_summaries(data)
+        print(f"[OK] 央行摘要：新增 {summary_date} ({len(items)} 則快訊)")
+    except Exception as e:
+        print(f"[ERROR] 央行摘要 {summary_date} 失敗：{e}")
+
+
+# ════════════════════════════
 # 市場報價
 # ════════════════════════════
 def fetch_symbol(symbol: str) -> dict | None:
@@ -1304,7 +1528,8 @@ def main():
         mktnews_pages = MKTNEWS_DEFAULT_PAGES
 
     # 1. 快訊
-    conn = sqlite3.connect(DB_PATH)
+    db_path = NEW_DB_PATH if os.path.exists(NEW_DB_PATH) else DB_PATH
+    conn = sqlite3.connect(db_path)
     init_db(conn)
     raw_items = fetch_pages(pages=5, page_size=50)
     processed = [process_item(r) for r in raw_items]
@@ -1322,6 +1547,7 @@ def main():
 
     clear_recent_ai_summaries_if_requested()
     update_ai_summaries(conn)
+    update_central_bank_summaries(conn)
     updated, total = export_news_json(conn)
     conn.close()
     te_summary = "｜".join(f"TE {name} 新增 {count} 筆" for name, count in te_new_counts.items())

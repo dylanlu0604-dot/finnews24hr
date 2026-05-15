@@ -401,6 +401,41 @@ function initLanguageSelect() {
   }
   .ai-empty { padding: 1.2rem .85rem; font-family: 'DM Mono', monospace; font-size: .66rem; color: var(--muted); line-height: 1.8; }
 
+  /* ── 央行摘要 ── */
+  .cb-head {
+    display: flex; justify-content: space-between; gap: 1rem; align-items: flex-start;
+    padding: .95rem .9rem .85rem;
+    border-bottom: 1px solid var(--border);
+    background: linear-gradient(180deg, rgba(201,168,76,.08), rgba(8,8,16,.78));
+    flex-shrink: 0;
+  }
+  .cb-kicker {
+    font-family: 'DM Mono', monospace;
+    font-size: .58rem; letter-spacing: .16em; text-transform: uppercase;
+    color: var(--muted); margin-bottom: .28rem;
+  }
+  .cb-headline { color: var(--gold); font-size: 1rem; line-height: 1.45; font-weight: 600; }
+  .cb-updated {
+    font-family: 'DM Mono', monospace; font-size: .56rem; color: var(--muted);
+    white-space: nowrap; padding-top: .12rem;
+  }
+  .cb-scroll { flex: 1; min-height: 0; overflow-y: auto; padding: .45rem .9rem 1.2rem; }
+  .cb-scroll::-webkit-scrollbar { width: 3px; }
+  .cb-scroll::-webkit-scrollbar-track { background: #0b0b14; }
+  .cb-scroll::-webkit-scrollbar-thumb { background: var(--border-bright); }
+  .cb-card { padding: .95rem 0; border-bottom: 1px solid var(--border); }
+  .cb-card:last-child { border-bottom: none; }
+  .cb-card-head { display: flex; justify-content: space-between; gap: .75rem; align-items: baseline; margin-bottom: .65rem; }
+  .cb-name { color: var(--text); font-size: .88rem; font-weight: 600; line-height: 1.4; }
+  .cb-status { font-family: 'DM Mono', monospace; font-size: .54rem; color: var(--gold-dim); white-space: nowrap; }
+  .cb-section { margin-top: .58rem; }
+  .cb-section-title {
+    font-family: 'DM Mono', monospace; font-size: .58rem; letter-spacing: .12em;
+    color: var(--gold); text-transform: uppercase; margin-bottom: .34rem;
+  }
+  .cb-list { margin: 0; padding-left: 1rem; color: #aaa79f; font-size: .74rem; line-height: 1.78; }
+  .cb-list li { margin: .16rem 0; }
+
   /* ── 即時快訊 ── */
   .filter-wrap { display: flex; flex-wrap: wrap; gap: .3rem; align-items: center; padding: .45rem .9rem; background: rgba(8,8,16,.95); border-bottom: 1px solid var(--border); flex-shrink: 0; }
   .cat-btn { font-family: 'DM Mono', monospace; font-size: .6rem; letter-spacing: .04em; padding: .24rem .6rem; border: 1px solid var(--border-bright); border-radius: 2px; background: transparent; color: var(--muted); cursor: pointer; transition: all .12s; }
@@ -533,6 +568,7 @@ function initLanguageSelect() {
     <div class="center-tabs">
       <button class="c-tab active" data-view="ai">AI 摘要分析</button>
       <button class="c-tab" data-view="news">即時快訊</button>
+      <button class="c-tab" data-view="central-bank">央行摘要</button>
       <div class="center-tab-updated" id="aiUpdated">載入中</div>
     </div>
 
@@ -573,6 +609,20 @@ function initLanguageSelect() {
       <div class="feed-scroll">
         <div id="resultsCount" class="results-count"></div>
         <div id="digestList"><div class="empty">載入中…</div></div>
+      </div>
+    </div>
+
+    <!-- 央行摘要面板 -->
+    <div class="center-view" id="view-central-bank">
+      <div class="cb-head">
+        <div>
+          <div class="cb-kicker">Daily Central Banks</div>
+          <div id="cbHeadline" class="cb-headline">載入央行摘要中…</div>
+        </div>
+        <div id="cbUpdated" class="cb-updated">每日更新</div>
+      </div>
+      <div class="cb-scroll">
+        <div id="centralBankList"><div class="ai-empty">載入中…</div></div>
       </div>
     </div>
 
@@ -640,6 +690,7 @@ function initLanguageSelect() {
 const DATA_URL   = './data.json';
 const MARKET_URL = './market.json';
 const AI_SUMMARY_URL = './ai_summaries.json';
+const CENTRAL_BANK_SUMMARY_URL = './central_bank_summaries.json';
 const MAX_RENDER_ITEMS = 500;
 const TAG_ORDER = [
   '全部',
@@ -1315,6 +1366,61 @@ async function loadAiSummaries() {
   }
 }
 
+function renderBulletSection(title, items) {
+  const bullets = (items || []).filter(Boolean);
+  if (!bullets.length) return '';
+  return `
+    <div class="cb-section">
+      <div class="cb-section-title">${attrEscape(title)}</div>
+      <ul class="cb-list">${bullets.map(text => `<li>${attrEscape(text)}</li>`).join('')}</ul>
+    </div>
+  `;
+}
+
+function renderCentralBankSummary(item) {
+  const root = document.getElementById('centralBankList');
+  const headline = document.getElementById('cbHeadline');
+  const updated = document.getElementById('cbUpdated');
+  if (!root || !headline || !updated) return;
+  if (!item) {
+    headline.textContent = '尚無央行摘要';
+    updated.textContent = '每日更新';
+    root.innerHTML = '<div class="ai-empty">尚無可顯示的央行摘要。</div>';
+    return;
+  }
+  headline.textContent = item.headline || '央行摘要';
+  updated.textContent = `${item.date || '—'}｜${item.generated_at || '—'}`;
+  root.innerHTML = (item.central_banks || []).map(bank => {
+    const sections = bank.has_policy_decision
+      ? renderBulletSection('貨幣政策與記者會', bank.policy_analysis)
+      : [
+          renderBulletSection('官員發言', bank.officials),
+          renderBulletSection('政策預期', bank.expectations),
+          renderBulletSection('重要報告', bank.reports),
+        ].join('');
+    return `
+      <article class="cb-card">
+        <div class="cb-card-head">
+          <div class="cb-name">${attrEscape(bank.name || '')}</div>
+          <div class="cb-status">${attrEscape(bank.status || (bank.has_policy_decision ? '政策日' : '追蹤中'))}</div>
+        </div>
+        ${sections || '<div class="ai-empty" style="padding:0">今日資料不足。</div>'}
+      </article>
+    `;
+  }).join('');
+}
+
+async function loadCentralBankSummaries() {
+  try {
+    const data = await (await fetch(CENTRAL_BANK_SUMMARY_URL + '?t=' + Date.now())).json();
+    renderCentralBankSummary((data.items || [])[0]);
+  } catch (e) {
+    document.getElementById('cbHeadline').textContent = '載入失敗';
+    document.getElementById('centralBankList').innerHTML =
+      `<div class="ai-empty">無法載入央行摘要<br>${attrEscape(e.message)}</div>`;
+  }
+}
+
 document.getElementById('aiSummaryList').addEventListener('click', e => {
   const item = e.target.closest('.ai-pill');
   if (!item) return;
@@ -1339,6 +1445,8 @@ loadMarket();
 setInterval(loadMarket, 5 * 60 * 1000);
 loadAiSummaries();
 setInterval(loadAiSummaries, 5 * 60 * 1000);
+loadCentralBankSummaries();
+setInterval(loadCentralBankSummaries, 10 * 60 * 1000);
 </script>
 </body>
 </html>
