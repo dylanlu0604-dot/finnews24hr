@@ -1,7 +1,98 @@
 {
-  "updated": "2026-05-15 20:38:20",
-  "count": 15579,
+  "updated": "2026-05-15 20:41:41",
+  "count": 15578,
   "items": [
+    {
+      "id": "4882317",
+      "time": "2026-05-15 20:41:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特：中東地區或將建設更多輸油管道，霍爾木茲能源重要性將下降。"
+    },
+    {
+      "id": "4882316",
+      "time": "2026-05-15 20:40:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【恆逸石化：擬投資10億元建設年產30萬噸迴圈新材料工業示範專案】恆逸石化公告稱，公司子公司湖北恆逸綠色新材料有限公司擬投資建設年產30萬噸迴圈新材料工業示範專案，專案預計總投資10億元，建設週期18個月。"
+    },
+    {
+      "id": "4882315",
+      "time": "2026-05-15 20:40:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特談阿聯酋石油產能：我們將看到其他國家也有更多這樣的情況。"
+    },
+    {
+      "id": "mkt:019e2ba7-788c-7440-b03a-1c87a952c8b4",
+      "time": "2026-05-15 20:40:10",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. ENERGY SECRETARY WRIGHT: WILL LIKELY SEE MORE PIPELINES IN THE MIDDLE EAST"
+    },
+    {
+      "id": "4882314",
+      "time": "2026-05-15 20:39:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數期貨跌至盤中低點1.7%。"
+    },
+    {
+      "id": "4882313",
+      "time": "2026-05-15 20:39:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "倫鎳日內下跌2.00%，現報18535.20美元/噸。"
+    },
+    {
+      "id": "4882312",
+      "time": "2026-05-15 20:39:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍：空軍攔截了一枚朝以軍黎巴嫩南部作戰區域發射的火箭。"
+    },
+    {
+      "id": "4882311",
+      "time": "2026-05-15 20:39:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國地球科學研究中心（GFZ）：日本小笠原群島地區發生6.29級地震。"
+    },
+    {
+      "id": "te:economy:551200",
+      "time": "2026-05-15 20:38:37",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Manufacturing Sales",
+        "Importance 1"
+      ],
+      "text": "Canada Factory Sales Growth Revised Slightly Down — Canada’s manufacturing sales rose 3% to C$73.6 billion in March 2026, the highest since January 2025, after a downwardly revised 3.4% gain in February and below preliminary estimates of 3.5%. Sales increased in 9 of 21 subsectors, led by petroleum and coal products (+22.7%) and transportation equipment (+6.0%). Excluding petroleum and coal products, sales rose 0.7%. Manufacturing sales rose in eight provinces in March, with Ontario (2.2%) and Alberta (4.4%) posting the largest increases. On a quarterly basis, manufacturing sales edged up 0.1% to $214.1 billion in Q1 2026, the third consecutive quarterly increase."
+    },
+    {
+      "id": "te:economy:551199",
+      "time": "2026-05-15 20:38:22",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Canada 10Y Bond Yield Hits 22-month High — Canada 10 Year Government Bond Yield increased to 3.64%, the highest since July 2024. Over the past 4 weeks, Canada 10Y Bond Yield gained 13.80 basis points, and in the last 12 months, it increased 47.05 basis points."
+    },
     {
       "id": "4882310",
       "time": "2026-05-15 20:38:02",
@@ -140442,116 +140533,6 @@
         "國際"
       ],
       "text": "【油氣價格上漲加劇法國一季度貿易逆差】法國海關7日釋出的資料顯示，受中東局勢推高國際油氣價格影響，法國今年第一季度貿易逆差擴大至141億歐元，較上一季度增加28億歐元。資料顯示，今年第一季度法國進口額環比增長1.8%，主要受能源產品特別是天然碳氫化合物進口增加帶動。同時，藥品、汽車產品以及計算機、電子和光學產品進口也實現較快增長。同期，出口額環比增長0.1%，主要得益於軍事裝備出口額創歷史新高。法國自美國進口能源產品增加。資料顯示，美國在法國原油進口總額中的佔比，已由2025年的四分之一升至本季度的略高於三分之一。法國《回聲報》援引安聯貿易公司高階經濟學家馬克西姆·達爾梅的話警告稱，如果衝突持續，下半年法國外貿形勢可能進一步惡化。許多國家經濟活動放緩，或將削弱國際市場對法國商品和服務的需求。（新華社）"
-    },
-    {
-      "id": "te:markets:549263",
-      "time": "2026-05-08 20:41:36",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Currency",
-        "Importance 0"
-      ],
-      "text": "DXY Falls to 10-Week Low — The dollar index fell below 98 on Friday, reaching its lowest level in ten weeks, despite stronger-than-expected US labor data that reinforced views the economy remains resilient amid the energy shock caused by the Iran conflict. US nonfarm payrolls increased by 115,000 in April, well above expectations for a 62,000 rise, marking a second consecutive monthly gain for the first time in nearly a year. The unemployment rate held steady at 4.3%. Markets are now weighing solid economic data against expectations that the Federal Reserve will remain cautious as higher energy prices continue to fuel inflation risks. President Donald Trump said the month-long ceasefire with Iran was still holding despite renewed clashes involving US and Iranian forces. Investors remain focused on the Strait of Hormuz, which has been largely closed since the war began, while Tehran has yet to respond to Washington’s proposal to reopen the key trade route."
-    },
-    {
-      "id": "4868605",
-      "time": "2026-05-08 20:41:29",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "“美聯儲傳聲筒”Nick Timiraos：美國6個月平均招聘人數攀升至55,000個職位，創下自2025年5月以來的最高水平。"
-    },
-    {
-      "id": "4868604",
-      "time": "2026-05-08 20:41:25",
-      "tags": [
-        "市場",
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "【非農就業近一年來首次連續兩月錄得增長 支撐美聯儲按兵不動】美國僱主4月連續第二個月增加就業崗位，為近一年來首次實現連續兩個月增長，失業率則維持穩定。美國勞工統計局資料顯示，4月非農就業人數增加11.5萬人，高於市場預期，此前3月曾大幅增長。4月失業率維持在4.3%不變。資料公佈後，美國股指期貨維持漲勢，國債收益率繼續下行，美元走弱。報告顯示，美國勞動力市場在去年接近零增長之後正逐步趨於穩定。儘管企業用工需求仍然疲弱，但裁員活動保持低位，而減稅政策也正在支撐消費者支出與企業投資。這份資料給予美聯儲政策制定者更多空間，在可預見未來維持利率不變，因為他們正將注意力集中在伊朗戰爭帶來的新通脹風險上。美聯儲主席鮑威爾上週表示，就業市場已顯示出“越來越多的穩定跡象”。未來的一個關鍵問題是，伊朗戰爭是否會開始拖累招聘活動。就業增長主要來自醫療保健、運輸與倉儲以及零售貿易行業。製造業就業則小幅下降。"
-    },
-    {
-      "id": "mkt:019e079b-1ccf-7557-85c4-a501865deb00",
-      "time": "2026-05-08 20:41:03",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "【Chris Anstey on US Job Data 】The year-on-year gain in average hourly earnings shows that workers continue to make headway in terms of real wage increases. The 3.6% pace is above even the gasoline-inflated 3.3% headline CPI inflation rate (for March). S&P 500 futures hitting their high of the session now. The takeaway may be that the economy seems resilient to the Iran war"
-    },
-    {
-      "id": "4868603",
-      "time": "2026-05-08 20:40:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "能源服務公司威德福已獲得Ventura Offshore授予的一份控壓鑽井合同，將在巴西大陸架的SSV Victoria半潛式鑽井平臺上進行作業。"
-    },
-    {
-      "id": "4868602",
-      "time": "2026-05-08 20:40:30",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【市場監管總局抽檢食品超1.3萬批次 不合格率2.12%】記者今天瞭解到，“五一”期間，市場監管總局以“樂享五一 點檢同行”為主題，組織全國各地市場監管部門開展食品安全“你點我檢惠民生”活動，廣泛傾聽民意，開展靶向抽檢。活動期間，各地透過線上線下渠道廣泛徵集消費者訴求，吸引14.2萬人次參與點選，共收集食品抽檢相關民意資訊305.9萬條。經統計，消費者關注度排名前五的食品種類依次為蔬菜、水果、肉類、餐飲食品、飲料。圍繞群眾關心的食品種類，全國市場監管部門迅速開展抽檢工作，累計抽檢各類食品13659批次，檢出不合格樣品290批次，不合格率2.12%。針對抽檢發現的不合格食品，各地市場監管部門第一時間依法依規採取下架、召回、立案查處等處置措施，快速防範化解食品安全風險，築牢節日食品安全防線，切實守護廣大消費者“舌尖上的安全”。（央視新聞）"
-    },
-    {
-      "id": "mkt:019e079a-320a-7557-85c4-9900cbc40a7c",
-      "time": "2026-05-08 20:40:05",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "【US Jobs Up 115,000, First Back-to-Back Gain in Nearly a Year】U.S. payrolls rose 115,000 in April, exceeding expectations and marking a second straight month of job gains, while unemployment held at 4.3%, signaling a stabilizing labor market after weak hiring last year. The data support expectations that the Federal Reserve can keep interest rates unchanged as officials monitor inflation risks tied to the Iran war. Analysts are watching whether higher inflation, weaker consumer sentiment and rising business costs from the conflict will eventually weigh on hiring and consumer spending."
-    },
-    {
-      "id": "4868601",
-      "time": "2026-05-08 20:39:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "【2連板北投科技：主營業務收入構成不涉及人工智慧等相關熱門概念】北投科技(600936)釋出異動公告，公司未發現近期公共傳媒報道了可能或已經對公司股票交易價格產生較大影響的未公開重大資訊、市場傳聞，目前公司主營業務收入構成不涉及人工智慧等相關熱門概念。"
-    },
-    {
-      "id": "4868600",
-      "time": "2026-05-08 20:39:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "挪威海洋管理局已向挪威國家石油公司頒發鑽井許可，允許其在北海鑽探一口初探井，該井將由中海油服旗下的COSLInnovator半潛式鑽井平臺執行。"
-    },
-    {
-      "id": "4868599",
-      "time": "2026-05-08 20:38:48",
-      "tags": [
-        "市場"
-      ],
-      "text": "南非蘭特、巴西雷亞爾和墨西哥比索均觸及盤中高點。"
-    },
-    {
-      "id": "4868598",
-      "time": "2026-05-08 20:38:27",
-      "tags": [
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "【美國4月非農新增就業11.5萬人，連續第二個月超預期】美國勞工統計局週五公佈的資料顯示，4月美國經濟新增就業崗位11.5萬個，連續第二個月超出華爾街預期。這一數字低於3月份上修後的18.5萬個新增崗位，但高於機構調查中經濟學家預期的6.5萬個。近幾個月來，美國就業資料波動較大，在大幅增長與大幅下滑之間搖擺，令分析師難以評估整體經濟健康狀況。儘管失業率仍處於相對低位，但美聯儲內部在如何應對伊朗戰爭引發的能源衝擊方面分歧日益加劇，政策制定者們正在辯論其對經濟的潛在影響。部分官員擔憂，通脹上升可能與失業率攀升相伴而生，形成滯脹格局，因為消費者減少支出，導致僱主裁員。克利夫蘭聯儲主席哈馬克週四表示，如果企業看到其產品需求不再強勁，那可能意味著它們會減少招聘。目前看來，基本上每個想要工作的人都能找到工作。但如果需求側承受壓力，那麼美聯儲使命中關於就業的一側就可能面臨風險。因此，當前存在很大的不確定性。"
     }
   ]
 }
