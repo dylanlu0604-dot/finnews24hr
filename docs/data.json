@@ -1,7 +1,64 @@
 {
-  "updated": "2026-05-15 11:58:58",
-  "count": 15261,
+  "updated": "2026-05-15 12:02:57",
+  "count": 15264,
   "items": [
+    {
+      "id": "4881172",
+      "time": "2026-05-15 12:01:46",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "馬來西亞央行：預計2026年該國經濟將增長4.0%-5.0%。"
+    },
+    {
+      "id": "mkt:019e29cc-27be-7bb5-b4d6-252fa2fa55cb",
+      "time": "2026-05-15 12:01:40",
+      "tags": [
+        "MKT News",
+        "VOW3.DE",
+        "Impact bullish"
+      ],
+      "text": "TOP LABOUR REPRESENTATIVES SAY THEY WON'T ALLOW VOLKSWAGEN PLANT CLOSURES IN JOINT STATEMENT NEW OPPORTUNITIES WITHIN VOLKSWAGEN GROUP OR WITH EXTERNAL PARTNERS WILL BE ASSESSED BY LABOUR REPRESENTATIVES WITH OPEN MIND - STATEMENT WILL FIGHT WITH ALL OUR MIGHT AGAINST ANYTHING COUNTER TO PRINCIPLES OF WORKING CONDITIONS AND JOB SECURITY - STATEMENT"
+    },
+    {
+      "id": "mkt:019e29cb-5cca-7bb5-b4d6-1abffed3eb49",
+      "time": "2026-05-15 12:00:41",
+      "tags": [
+        "MKT News",
+        "VFS.O",
+        "Impact bullish"
+      ],
+      "text": "VINFAST ADVANCES GLOBAL AFTERSALES STRATEGY, EXPANDING ITS INTERNATIONAL SERVICE AND PARTNERSHIP NETWORK"
+    },
+    {
+      "id": "4881171",
+      "time": "2026-05-15 12:00:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬來西亞1季度GDP終值同比增長5.4%，預估為5.3%。"
+    },
+    {
+      "id": "mkt:019e29cb-0ec5-7bb5-b4d6-16b3189dcd48",
+      "time": "2026-05-15 11:59:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TRUMP, ON IRAN: WE’VE SETTLED A LOT OF DIFFERENT PROBLEMS THAT OTHER PEOPLE WOULDN’T HAVE BEEN ABLE TO SOLVE"
+    },
+    {
+      "id": "mkt:019e29c9-b2b8-7bb5-b4d6-0a5ca99043d1",
+      "time": "2026-05-15 11:58:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "TRUMP, ON IRAN: WE FEEL VERY SIMILAR ABOUT (HOW) WE WANT IT TO END, WE DON’T WANT THEM TO HAVE A NUCLEAR WEAPON, WE WANT THE STRAITS OPEN"
+    },
     {
       "id": "4881170",
       "time": "2026-05-15 11:57:31",
@@ -137770,31 +137827,6 @@
         "國際"
       ],
       "text": "市場訊息：特朗普之子支援十億美元投資工具，聚焦美國總統倡導的領域。"
-    },
-    {
-      "id": "4867611",
-      "time": "2026-05-08 12:02:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "【工信部批覆6G技術試驗頻率，專家：將加速6中國證券報·中證金牛座記者，此次6GHz頻段6G試驗頻率許可的落地，標誌著我國6G研發正式從實驗室測試階段步入外場試驗新階段，擺脫了純理論與室內測試帶來的侷限，可在實際組網環境中開展裝置適配、訊號覆蓋、干擾相容及業務承載全維度測試。同時面向國際電信聯盟（ITU）6G典型場景與關鍵效能指標開展技術攻關和測試驗證，牽引產業鏈晶片、基站、終端等環節協同研發迭代，加速完善關鍵技術與產業配套體系，為後續6G標準定型、規模組網奠定堅實基礎，加速6G產業化程序與商用落地節奏，助力我國在全球6G頻譜佈局、標準制定和產業生態競爭中獲得主導地位。（中證報）"
-    },
-    {
-      "id": "4867610",
-      "time": "2026-05-08 12:01:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "【港股午評：恒指跌1.09%，儲存半導體、光通訊概念股集體熄火，內房股活躍 】受外圍市場調整影響，港股上午盤三大指數集體走低，恒生指數跌1.09%，國企指數跌0.63%，恒生科技指數跌1.07%。昨日強勢的權重科技股多數下跌令大市承壓，阿里巴巴、騰訊跌1.5%，京東跌1.4%，百度逆勢上漲超3%；近期熱門的儲存半導體、光通訊概念股集體熄火，其中華虹半導體大跌近10%，豬肉概念股、生物醫藥股、中資券商股、鋰電池股齊跌。另外，深圳廣州等多地釋出樓市新政，五一假期多地樓市回暖，內房股持續活躍。"
-    },
-    {
-      "id": "4867609",
-      "time": "2026-05-08 11:59:26",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【索尼宣佈30億美元股票回購計劃】索尼集團週五公佈了基本符合市場預期的盈利展望，並宣佈將最高回購5000億日元（約合32億美元）公司股票。這家總部位於東京的企業預計，2027年3月財年營業利潤將達1.6萬億日元，同比增幅約11%。剛結束的上一財年，索尼盈利水平有所提升，音樂業務與智慧手機影象感測器業務成為業績增長的最大主力。訊息公佈後，索尼股價一度大漲7.3%，創下兩個多月來最大單日盤中漲幅。索尼表示，計劃於5月29日登出3%的流通股份。受元器件成本飆升拖累，索尼東京上市股票年內跌幅已超20%，此次回購有望緩解股價下行壓力。公司同時稱，本年度PS5遊戲機銷售目標，將取決於能否以合理價格為這款旗艦主機採購到充足的儲存晶片。"
     }
   ]
 }
