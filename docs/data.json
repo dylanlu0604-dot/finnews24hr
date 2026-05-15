@@ -1,7 +1,493 @@
 {
-  "updated": "2026-05-16 01:25:34",
-  "count": 15517,
+  "updated": "2026-05-16 01:59:10",
+  "count": 15554,
   "items": [
+    {
+      "id": "4882762",
+      "time": "2026-05-16 01:34:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "聯邦與省政府達成協議：加拿大將對阿爾伯塔省擬建西海岸輸油管道進行評估，目標於2027年9月前開工建設。"
+    },
+    {
+      "id": "4882761",
+      "time": "2026-05-16 01:31:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍對一名卡桑旅高階指揮官發動空襲打擊】總檯記者獲悉，當地時間5月15日傍晚，以色列空軍在對加沙城的一場空襲中，針對哈馬斯下屬武裝派別卡桑旅高階指揮官、哈馬斯在加沙地帶的重要領導人伊茲丁·哈達德進行了打擊。一名以色列高階安全官員表示，有“初步跡象”表明，伊茲丁·哈達德在此次空襲中喪生。（央視新聞）"
+    },
+    {
+      "id": "4882760",
+      "time": "2026-05-16 01:31:13",
+      "tags": [
+        "宏觀",
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【七國集團將討論債市拋售 收益率已升至數十年高點】七國集團(G-7)財長將討論政府債券遭拋售一事，這波拋售正推動部分基準債券收益率升至數十年高點；其中至少有一方認為這一走勢是暫時的。日本財務大臣片山皋月週五表示，預計G-7將在5月18日至19日於巴黎舉行的會議上討論債券市場動態。就在她發言的前一天，日本30年期國債收益率升至該期限品種1999年首發以來的最高水平，20年期和40年期國債收益率也觸及數十年高點。“全球債券收益率出現了一波上行，因為市場或許正在消化通脹 —— 短期的通脹波動 —— 我認為這是暫時性的，”美國財政部長斯科特·貝森特週二在東京與日本政策制定者會晤後表示。"
+    },
+    {
+      "id": "te:economy:551286",
+      "time": "2026-05-16 01:31:05",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brazil",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Brazil 10-Year Bond Yield Hits Over One-Year High — The yield on Brazil’s 10-year government bond rose to 14.5% in mid-May, reaching the highest level in over a year amid mounting political and inflation concerns. Markets reacted to reports alleging ties between Senator Flávio Bolsonaro, a contender in Brazil’s October presidential election, and Daniel Vorcaro, owner of failed lender Banco Master, who was charged with fraud. Investors assessed that the allegations could weaken Bolsonaro’s candidacy, currently viewed as President Luiz Inácio Lula da Silva’s main challenger. Vorcaro was jailed in March on accusations of bribing a former central bank director. Meanwhile, inflation risks continued to reinforce expectations of elevated interest rates. In the minutes of its latest meeting, the Central Bank of Brazil highlighted persistent inflationary pressures as the Middle East conflict lifted energy costs and threatened to spread price pressures across the broader economy."
+    },
+    {
+      "id": "4882759",
+      "time": "2026-05-16 01:30:15",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【貝克休斯：美國活躍石油鑽井平臺數量增加5座，至415座】油田服務公司貝克休斯報告稱，本週美國活躍石油鑽井平臺數量增加5座，至415座。這是自11月以來的最高石油鑽井平臺數量，且自美伊衝突爆發以來增加了8座；該衝突導致霍爾木茲海峽關閉，並將油價推高至三位數。儘管如此，生產商仍保持謹慎。Tradition Energy的Gary Cunningham表示，在原油價格達到每桶100美元的背景下，在任何地方鑽探都是有利可圖的，但生產商知道這種情況不會永遠持續下去。“人們知道，最終會與伊朗達成某種解決方案，海峽也會以某種方式重新開放。“本週天然氣鑽井平臺數量減少1座，至128座。"
+    },
+    {
+      "id": "te:markets:551285",
+      "time": "2026-05-16 01:29:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Brazilian Real Retreats from Two-Year High — The Brazilian real weakened to 5.07 per USD in mid-May, retreating sharply from the two-year high of 4.89 reached earlier in the month. The decline followed reports alleging ties between Senator Flávio Bolsonaro, a contender in Brazil’s October presidential election, and Daniel Vorcaro, owner of failed lender Banco Master, who was charged with fraud. Investors assessed that the allegations could weaken Bolsonaro’s candidacy, currently viewed as President Luiz Inácio Lula da Silva’s main challenger. Abroad, the US dollar strengthened alongside rising Treasury yields as markets increasingly priced in the possibility of additional Federal Reserve interest rate hikes later this year."
+    },
+    {
+      "id": "4882758",
+      "time": "2026-05-16 01:29:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "普華永道依託Claud AI 組建全新金融業務部。"
+    },
+    {
+      "id": "4882757",
+      "time": "2026-05-16 01:28:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍釋出緊急通告，向黎巴嫩民眾、尤其是提爾市居民發出警示，警告民眾即刻撤離。"
+    },
+    {
+      "id": "mkt:019e2cae-9cec-7663-82fb-1c3f5de7f342",
+      "time": "2026-05-16 01:28:21",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "AUTO LOAN DELINQUENCIES HIT 32-YEAR HIGH AS BORROWERS STRUGGLE WITH RECORD PAYMENTS"
+    },
+    {
+      "id": "4882756",
+      "time": "2026-05-16 01:27:36",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【歐洲債市：政府債券下跌 通脹擔憂升溫】隨著油價飆升加劇通脹擔憂，歐洲政府債券下跌。英債跑輸，英國國內的政治危機推動超長期債券收益率升至近三十年來的最高水平。德國10年期國債收益率一度飆升12個基點至3.16%，創2011年以來最高；德國、法國、英國和其他國家債市邁向自2月伊朗戰爭爆發以來最糟糕的一週。對政治風險最為敏感的30年期英國國債收益率飆升20個基點至5.86%，創1998年以來新高；其邁向7月以來最糟糕的單日表現。長期債券收益率升幅高於短債收益率，收益率曲線熊市趨陡與其他債券市場相比，英國國債受到的衝擊更大，投資者擔心首相基爾·斯塔默可能會被一位傾向於更寬鬆財政政策的繼任者取代。"
+    },
+    {
+      "id": "mkt:019e2cad-d68a-7663-82fb-17251a703861",
+      "time": "2026-05-16 01:27:30",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "NEW YORK FED ACCEPTS $0.647 BLN OF $0.647 BLN SUBMITTED TO REVERSE REPO FACILITY ON MAY 15"
+    },
+    {
+      "id": "4882755",
+      "time": "2026-05-16 01:27:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic：普華永道將上線克勞德程式碼助手及協同辦公工具。"
+    },
+    {
+      "id": "te:economy:551284",
+      "time": "2026-05-16 01:27:07",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Calendar",
+        "Importance 2"
+      ],
+      "text": "Week Ahead - May 18th — Exchanges of conciliatory and escalatory rhetoric between the US and Iran will continue to shape markets as their conflict still has no end in sight. Despite the macroeconomic headwinds, global equities were supported by strong guidances for AI infrastructure companies, facing their biggest test next week with Nvidia earnings. At the same time, the Fed will release minutes from its latest meeting, which saw three dissents. For economic data, the US spotlight will be in leading indicators with PMIs, regional Fed indices, and the UMich consumer sentiment survey, in addition to housing price data. Leading indicators are also the focus in Europe with GfK and Ifo surveys in Germany, while flash PMIs are featured in the Eurozone. In the UK, inflation, unemployment, and retail sales will be featured. China will join the UK in its data-dump week, including industrial output, retail sales, unemployment, housing prices, and fixed investment. In Japan, the first-quarter GDP is due."
+    },
+    {
+      "id": "4882754",
+      "time": "2026-05-16 01:26:25",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【銀價狂瀉破80美元 通脹訊號打壓避險盤】白銀經歷了極端波動的又一週，價格最終大幅跌破每盎司80美元，給這個年內交易最為動盪的市場之一帶來了又一輪劇烈波動。在截至週三的一週內，受投資者對人工智慧相關股票以及用於資料中心供電系統、佈線和冷卻的工業金屬的熱情推動，白銀價格一度飆升11.3%。週一，對於主要產礦國秘魯燃料供應的猜測也推高了價格。隨後，更多跡象表明伊朗戰爭正在加劇通脹，導致投資者要求從政府債券中獲得更高收益率，白銀價格隨之回落。更高的借貸成本對通常不支付利息的白銀構成利空。滙豐控股首席貴金屬分析師詹姆斯表示：“我們仍認為白銀從根本上被高估了，面對高價，珠寶和工業領域對白銀的需求將繼續減弱。”"
+    },
+    {
+      "id": "4882753",
+      "time": "2026-05-16 01:23:00",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "秘魯央行首席經濟學家 ：推高通脹的各類因素均為暫時性因素。"
+    },
+    {
+      "id": "4882752",
+      "time": "2026-05-16 01:21:52",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "秘魯央行首席經濟學家 ：秘魯央行將在選舉動盪局勢來襲時出手干預。"
+    },
+    {
+      "id": "4882751",
+      "time": "2026-05-16 01:21:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "萬事達卡與京東：著力拓展支付基礎設施建設，攜手合作佈局人工智慧及前沿技術應用。"
+    },
+    {
+      "id": "4882750",
+      "time": "2026-05-16 01:20:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "萬事達（MA）維持大約1.4%的漲幅，持穩於日低附近。"
+    },
+    {
+      "id": "4882749",
+      "time": "2026-05-16 01:20:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列官員：初步跡象表明哈馬斯軍事分支領導人阿茲·阿爾在不久前加沙市的空襲中被擊斃。"
+    },
+    {
+      "id": "4882748",
+      "time": "2026-05-16 01:19:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "京東ADR跌幅收窄至不足2.2%。"
+    },
+    {
+      "id": "4882747",
+      "time": "2026-05-16 01:16:00",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "五家交易對手在美聯儲逆回購操作中吸納 6470 億美元資金。"
+    },
+    {
+      "id": "te:economy:551280",
+      "time": "2026-05-16 01:15:44",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Sri Lanka",
+        "Services PMI",
+        "Importance 0"
+      ],
+      "text": "Sri Lanka Services PMI Falls to Near Three-Year Low — Sri Lanka’s Services PMI fell to 46.7 in April 2026 from 59.4 in the previous month, marking the lowest level since July 2022 and signaling a contraction in services activity. The decline was mainly linked to seasonal effects following the festive period and higher energy prices. New business fell for the first time since April 2023, dropping to 48.9 from 57.6, with weaker activity reported in transportation of goods, insurance, wholesale and retail trade, and accommodation and food services. Employment also contracted, falling to 44.4 from 54.2 due to contract expirations, retirements, and resignations. Meanwhile, backlogs of work continued to decline, though at a slower pace, with the index edging up to 48.8 from 48.1. Despite the weaker current conditions, expectations for business activity over the next quarter improved to 65.9, supported by anticipated stabilization following an end to the Middle East war."
+    },
+    {
+      "id": "4882746",
+      "time": "2026-05-16 01:15:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "西部製藥服務公司：網路攻擊後全球業務恢復工作持續取得重大進展。"
+    },
+    {
+      "id": "4882745",
+      "time": "2026-05-16 01:15:03",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【法國“戴高樂”號航母抵達阿拉伯海 為護航行動做準備】法國國防部部長級代表愛麗絲·呂福15日接受法國商業調頻電視臺採訪時說，法國海軍“戴高樂”號航空母艦已抵達並部署在阿拉伯海，為霍爾木茲海峽多國護航行動做準備。呂福稱，法方立場是為恢復霍爾木茲海峽通航“提供可能性”，其方式完全是“防禦性”且“符合國際法”。據法國媒體報道，“戴高樂”號航母本月6日穿過蘇伊士運河，隨後在吉布提的後勤支援點停留數日。法國總統馬克龍10日表示，透過部署軍事力量重開霍爾木茲海峽“從來不是法國的選項”。他表示，護航行動由法國和英國共同主導，旨在與伊朗展開協商，並與地區國家及美國進行溝通，防止衝突，確保在條件具備時恢復霍爾木茲海峽航運。4月17日，馬克龍和英國首相斯塔默在巴黎主持召開國際會議，重點討論透過外交途徑結束當前中東衝突、重新開放霍爾木茲海峽、局勢穩定後為海峽航運提供安全保障等議題。兩國領導人表示，兩國將在條件允許時牽頭一項防禦性多國行動，以保障霍爾木茲海峽航運安全。4月22日，英法兩國在倫敦主持召開為期兩天的多國軍事規劃會議，推進霍爾木茲海峽恢復通航相關方案制定工作。（新華社）"
+    },
+    {
+      "id": "4882744",
+      "time": "2026-05-16 01:13:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列宣告稱其已對哈馬斯武裝部隊實際領導人發動定點空襲。"
+    },
+    {
+      "id": "mkt:019e2ca1-3c7d-7663-82fb-0ae046ac80a6",
+      "time": "2026-05-16 01:13:44",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "ISRAEL: THE ISRAELI AIR FORCE JUST TARGETED HAMAS LEADER IN GAZA, IZZ AL-DIN HADDAD, IN AN AIRSTRIKE IN GAZA CITY A SHORT WHILE AGO."
+    },
+    {
+      "id": "4882743",
+      "time": "2026-05-16 01:12:50",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "印度政府：將航空渦輪燃料出口關稅上調至每升16盧比。"
+    },
+    {
+      "id": "4882742",
+      "time": "2026-05-16 01:12:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡：以色列國防軍目前正在阿茲·阿爾展開追殺，此人是哈馬斯軍事分支的領導人。"
+    },
+    {
+      "id": "4882741",
+      "time": "2026-05-16 01:12:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【第一輪投票無人勝出 秘魯總統選舉將舉行第二輪投票】秘魯全國選舉程式辦公室15日公佈的總統選舉計票結果顯示，沒有候選人在4月12日第一輪投票中得票過半，總統選舉將舉行第二輪投票。所有選票已經統計完畢，結果顯示，右翼政黨人民力量黨候選人藤森慶子以17.18%的得票率領先，左翼政黨“一起為了秘魯”候選人羅伯託·桑切斯以12.03%的得票率緊隨其後，極右翼政黨“人民復興黨”候選人拉斐爾·洛佩斯·阿利亞加排名第三，得票率為11.9%。按照秘魯選舉法，在第一輪投票中得票率過半的候選人將贏得總統選舉。如果沒有候選人在第一輪投票中獲得超過50%的選票，得票數居前的兩名候選人將進行第二輪角逐。第二輪投票定於6月7日舉行，得票多者當選。尚不清楚桑切斯能否同藤森慶子進入第二輪。秘魯檢察官日前指控桑切斯涉嫌在申報政黨競選資金和財務資訊時作虛假陳述，並據此請求判處其5年4個月監禁，取消總統候選人資格。法院定於5月27日審查檢方起訴請求。（新華社）"
+    },
+    {
+      "id": "4882740",
+      "time": "2026-05-16 01:11:47",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "印度政府：將柴油出口關稅上調至每升16.5盧比。"
+    },
+    {
+      "id": "4882739",
+      "time": "2026-05-16 01:11:36",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "印度政府：將汽油出口關稅上調至每升3盧比。"
+    },
+    {
+      "id": "te:economy:551279",
+      "time": "2026-05-16 01:08:12",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Sri Lanka",
+        "Manufacturing PMI",
+        "Importance 0"
+      ],
+      "text": "Sri Lanka Manufacturing PMI Falls to One-Year Low — Sri Lanka’s Manufacturing PMI dropped sharply to 42.6 in April 2026 from 66.7 in March, marking the lowest reading in one year and signaling a contraction in manufacturing activity. The decline was mainly driven by a sharp slowdown in new orders, which fell to 36.4 from 69.9, amid fading festive demand in the food, beverage, textile, and apparel sectors. Production also contracted significantly, dropping to 30.5 from 68.8, largely due to fewer working days during the Sinhala and Tamil New Year period, when many factories temporarily closed. Employment weakened to 47 from 55.9 as firms reduced temporary staff following seasonal demand. The stock of purchases index also declined to 44 from 59.9, in line with lower production and orders. Meanwhile, suppliers’ delivery times lengthened further, with the index at 68.7, reflecting festive disruptions and logistical challenges linked to the Middle East conflict."
+    },
+    {
+      "id": "4882738",
+      "time": "2026-05-16 01:06:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯人權專員：俄方已收到烏克蘭轉交的俄軍戰俘寄給親屬的信件。"
+    },
+    {
+      "id": "4882737",
+      "time": "2026-05-16 01:05:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "開普勒軟體公司完成 3620 萬美元融資，申報檔案顯示募資規模達 3620 萬美元。"
+    },
+    {
+      "id": "4882736",
+      "time": "2026-05-16 01:05:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：以色列方面表示，為可能與伊朗恢復戰鬥做好準備。恢復對伊朗的戰爭決定仍然取決於特朗普總統。"
+    },
+    {
+      "id": "4882735",
+      "time": "2026-05-16 01:04:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯人權專員：俄羅斯聯邦已將四名此前從交戰區撤離的蘇梅州居民移交至烏克蘭。"
+    },
+    {
+      "id": "4882734",
+      "time": "2026-05-16 01:04:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "FCC將諾基亞和ELEVON的部分天線產品列入清單。"
+    },
+    {
+      "id": "4882733",
+      "time": "2026-05-16 01:03:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國衛生與公眾服務部：物質濫用與精神健康服務局向活力情緒健康機構撥付 2.55 億美元，由其運營 988 自殺及危機求助熱線相關線上平臺。"
+    },
+    {
+      "id": "4882732",
+      "time": "2026-05-16 01:03:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國石油天然氣鑽井平臺數量連續第四周增加。"
+    },
+    {
+      "id": "4882731",
+      "time": "2026-05-16 01:02:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "烏干達衛生部證實出現埃博拉疫情。"
+    },
+    {
+      "id": "4882729",
+      "time": "2026-05-16 01:02:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "截至5月15日當週，美國水平鑽井鑽機數量增加3臺，總數達到484臺。"
+    },
+    {
+      "id": "4882728",
+      "time": "2026-05-16 01:02:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "截至5月15日當週，美國天然氣鑽井平臺數量減少1座，降至128座。"
+    },
+    {
+      "id": "4882727",
+      "time": "2026-05-16 01:01:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦通訊委員會宣佈有條件批准某些無人機系統和路由器。"
+    },
+    {
+      "id": "4882726",
+      "time": "2026-05-16 01:01:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "貝克休斯：截至5月15日當週，墨西哥灣鑽井平臺數量減少1座；北達科他州鑽井平臺數量維持不變；賓夕法尼亞州減少1座；得克薩斯州增加5座。"
+    },
+    {
+      "id": "4882725",
+      "time": "2026-05-16 01:01:13",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國至5月15日當週石油鑽井總數 415口，前值410口。"
+    },
+    {
+      "id": "mkt:019e2c95-c669-7663-82fb-054ffe4112cd",
+      "time": "2026-05-16 01:01:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Weekly Total Natural Gas Rig Count (May.15) | actual 128 | previous 129"
+    },
+    {
+      "id": "4882724",
+      "time": "2026-05-16 01:01:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "截至5月15日當週，美國各盆地油氣鑽井平臺每週變動資料：二疊紀盆地鑽井平臺數較上週增加4座；鷹灘盆地減少1座；威斯頓盆地無變動；奈厄布拉勒盆地減少1座；海恩斯維爾盆地減少2座；尤蒂卡盆地無變動。"
+    },
+    {
+      "id": "mkt:019e2c95-8349-7663-82fa-ffd63c1e3b21",
+      "time": "2026-05-16 01:00:56",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Weekly Total Oil Rig Count (May.15) | actual 415 | previous 410"
+    },
+    {
+      "id": "mkt:019e2c95-6e52-7663-82fa-f73fed5788ed",
+      "time": "2026-05-16 01:00:50",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Weekly Total Rig Count (May.15) | actual 551 | previous 548"
+    },
+    {
+      "id": "4882723",
+      "time": "2026-05-16 01:00:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國5月15日當週總鑽井數 551，前值 548。"
+    },
+    {
+      "id": "4882722",
+      "time": "2026-05-16 01:00:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】國際銅夜盤收跌1.38%，滬銅收跌1.29%，滬鋁收跌0.94%，滬鋅收跌0.44%，滬鉛收跌0.60%，滬鎳收跌1.30%，滬錫收跌2.84%。氧化鋁夜盤收跌1.19%，鋁合金收跌0.99%。不鏽鋼夜盤收跌0.87%。"
+    },
+    {
+      "id": "4882721",
+      "time": "2026-05-16 00:59:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "【數字貨幣市場週五走低，比特幣在美股開盤時加速下跌】最近24小時，MarketVectorTM數字資產100小盤指數跌5.57%，暫報2778.30點，上週五結束交易以來（7*24）累計下跌5.06%，5月9-13日持穩於3000點整數位心理關口附近——形成期內頂部。MarketVectorTM數字資產100中盤指數跌5.04%，報3033.04點，期內累跌5.58%。MarketVector數字資產100指數跌3.23%，報15612.86點，期內累跌0.76%。目前，Solana跌3.97%，最近七天迄今累跌2.94%；狗狗幣跌3.29%，最近七天迄今累漲3.59%；XRP跌5.06%，最近七天迄今累漲2.42%。比特幣跌2.70%，暫報79254.17美元，最近七天迄今累累跌1.09%；以太坊跌3.43%，暫報2221.82美元，最近七天迄今累累跌3.65%。"
+    },
+    {
+      "id": "4882720",
+      "time": "2026-05-16 00:58:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗司法部長： 如今新的考驗已然來臨，當下局勢中最迫切的要務便是調整消費模式。”"
+    },
+    {
+      "id": "te:economy:551278",
+      "time": "2026-05-16 00:58:48",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Canada 10-Year Bond Yield Rises to 2-Year high — Canada’s 10-year government bond yield rose to 3.70% in mid-May, the highest in two years, as rising oil prices renewed concerns over a potential inflation shock. Crude prices advanced amid the lack of progress toward a deal to end ship attacks and seizures around the Strait of Hormuz, reinforcing broader stagflation fears and lifting expectations for higher interest rates. March inflation data had already highlighted the impact of elevated energy prices on Canadian consumer prices, keeping markets alert to renewed upside inflation risks. Canada’s annual inflation rate rose to 2.4%, matching the highest level in one year. Still, the Bank of Canada signaled at its latest meeting that it does not see high risks of energy-driven inflation becoming entrenched and opted to leave interest rates unchanged."
+    },
     {
       "id": "4882719",
       "time": "2026-05-16 00:57:34",
@@ -139720,173 +140206,6 @@
         "國際"
       ],
       "text": "特朗普：俄羅斯與烏克蘭戰爭將停火三天（5月9日、10日及11日）。"
-    },
-    {
-      "id": "mkt:019e08bb-fc60-7222-b4a9-6b1ff3ba74c5",
-      "time": "2026-05-09 01:56:37",
-      "tags": [
-        "MKT News",
-        "AKAM.O",
-        "Impact bullish"
-      ],
-      "text": "ANTHROPIC SECURES $1.8 BILLION COMPUTING AGREEMENT WITH AKAMAI"
-    },
-    {
-      "id": "4869018",
-      "time": "2026-05-09 01:55:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic PBC與Akamai簽署18億美元計算協議。"
-    },
-    {
-      "id": "4869017",
-      "time": "2026-05-09 01:54:56",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "加拿大央行：我們在運輸和貨物運輸方面的投資不足，加拿大港口在全球航運網路中的角色已惡化，加拿大各港口面臨吞吐能力瓶頸。"
-    },
-    {
-      "id": "4869016",
-      "time": "2026-05-09 01:51:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "據稱特朗普已批准解僱FDA局長馬卡里。"
-    },
-    {
-      "id": "4869015",
-      "time": "2026-05-09 01:50:07",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國國務院：美方預計以黎會談將致力於實現黎巴嫩完整主權。"
-    },
-    {
-      "id": "mkt:019e08b3-e932-7222-b4a9-613118afd6b3",
-      "time": "2026-05-09 01:47:48",
-      "tags": [
-        "MKT News",
-        "AVGO.O",
-        "Impact bullish"
-      ],
-      "text": "BROADCOM SHARES PARE GAINS; REPORT SAYS APOLLO AND BLACKSTONE WEIGH $35 BILLION FINANCING FOR CO, LAST UP 3.9%"
-    },
-    {
-      "id": "mkt:019e08b3-cf7f-7222-b4a9-5c85b3aceafa",
-      "time": "2026-05-09 01:47:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. EXPECTS ISRAEL–LEBANON TALKS TO WORK TOWARD FULL LEBANESE SOVEREIGNTY, STATE DEPT SAYS"
-    },
-    {
-      "id": "mkt:019e08b1-bace-7222-b4a9-57bcea40236e",
-      "time": "2026-05-09 01:45:25",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "The Trump Trade",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "TRUMP APPEALS LATEST COURT LOSS ON TARIFFS, COURT FILING SHOWS"
-    },
-    {
-      "id": "4869014",
-      "time": "2026-05-09 01:45:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "法庭檔案顯示：特朗普就最新關稅訴訟敗訴結果提起上訴。"
-    },
-    {
-      "id": "4869013",
-      "time": "2026-05-09 01:39:40",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國國務院：美方預計以黎會談將朝著全面安全與和平框架方向推進。"
-    },
-    {
-      "id": "4869012",
-      "time": "2026-05-09 01:38:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "【遭美國扣押的伊朗貨船抵達巴基斯坦卡拉奇港】5月8日，據航運訊息人士透露，伊朗貨船“圖斯卡”號已抵達巴基斯坦卡拉奇港，之後將接受檢查，並被送往卡拉奇造船廠進行維修。維修完成後，將移交給伊朗。美國已將該船船員移交給巴基斯坦，船員已返回伊朗。（央視新聞）"
-    },
-    {
-      "id": "te:economy:549335",
-      "time": "2026-05-09 01:37:56",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Calendar",
-        "Importance 2"
-      ],
-      "text": "Week Ahead - May 11th — Geopolitical tension in the Middle East will remain the focus for global markets as the US-Iran ceasefire was repeatedly threatened last week. Among economic data releases, the spotlight will be on the US consumer and producer inflation rates amid a divided Fed, in addition to retail sales and industrial production. In Europe, the UK will post its GDP, trade balance, and join the Eurozone in publishing industrial production, while Germany will publish the ZEW sentiment report. China will release key monetary aggregates and join the US in posting its CPI and PPI. Elsewhere, the Bank of Japan will unveil details on policymakers' takes and leading indicators are should be the focus in Australia. Earnings will be important in Asia and Europe, featuring results from Tencent, Alibaba, Siemens, Allianz, Siemens Energy, Mitsubishi Financial, Mizuho, and the Commonwealth Bank."
-    },
-    {
-      "id": "mkt:019e08a7-2595-7222-b4a9-4f7fb8d6491d",
-      "time": "2026-05-09 01:33:52",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【U.S. Targets Empty Iranian Tankers to Tighten Oil Blockade】The U.S. is seeking to stop Iran from using empty tankers as floating oil storage while enforcing a blockade of Iranian ports, according to a U.S. official. U.S. Central Command said more than 70 tankers carrying capacity for over 166 million barrels of oil, valued at more than $13 billion, are being prevented from entering or leaving Iranian ports. Centcom said the U.S. this week struck and disabled three empty Iranian-flagged tankers attempting to load oil. TankerTrackers identified two vessels hit overnight as Sea Star III and Sevda, saying they had “infiltrated the blockade perimeter” in recent days."
-    },
-    {
-      "id": "mkt:019e08a6-56f8-7222-b4a9-43699c401158",
-      "time": "2026-05-09 01:32:59",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "U.S. TARGETING IRAN'S EMPTY TANKERS IT COULD USE TO STORE OIL - WSJ"
-    },
-    {
-      "id": "4869011",
-      "time": "2026-05-09 01:32:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "援引以色列方面訊息：針對社交媒體相關傳聞，以色列國防軍強調，伊朗並未實施任何發射行動，此事大機率為系統故障所致。"
-    },
-    {
-      "id": "mkt:019e08a4-b678-7222-b4a9-3b0aa8a472d1",
-      "time": "2026-05-09 01:31:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ISRAEL'S ARMY ANNOUNCED THAT ITS RADAR SYSTEMS MISTAKENLY DETECTED THE LAUNCH OF TWO MISSILES FROM IRAN - TASNIM"
-    },
-    {
-      "id": "mkt:019e08a4-84e4-7222-b4a9-3248a2a4eca9",
-      "time": "2026-05-09 01:31:00",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "US SEEKS $400 MILLION SETTLEMENT FROM TIKTOK TIKTOK BOARD MAY DECIDE ON SETTLEMENT AS SOON AS TODAY -ABC"
     }
   ]
 }
