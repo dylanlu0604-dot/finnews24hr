@@ -1,7 +1,89 @@
 {
-  "updated": "2026-05-16 04:00:06",
-  "count": 15559,
+  "updated": "2026-05-16 04:03:42",
+  "count": 15541,
   "items": [
+    {
+      "id": "4882895",
+      "time": "2026-05-16 04:02:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "【德國總理：不會建議自己孩子赴美工作，理由是當地“社會氛圍”】德國總理弗里德里希·默茨表示，他不會建議自己的孩子前往美國生活，理由是當地突然形成的某種“社會氛圍”。“我向來對美國推崇備至，但眼下，我的這種仰慕之情並未增加。”默茨在德國南部城市維爾茨堡對一群羅馬天主教徒表示，“如今，我不會建議我的孩子到美國接受教育或在那裡工作。”默茨對白宮日益公開的批評引發美國總統唐納德·特朗普的憤怒回應。特朗普已威脅要提高針對歐洲汽車製造商的關稅，並宣佈計劃削減駐紮在德國的美軍人數。"
+    },
+    {
+      "id": "mkt:019e2d3b-9ca2-7663-82fc-5560be7fd4b3",
+      "time": "2026-05-16 04:02:21",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "Impact bearish",
+        "Dow"
+      ],
+      "text": "UNOFFICIALLY, FOR THE WEEK, THE S&P 500 GAINED 0.13%, THE NASDAQ DECLINED 0.08%, AND THE DOW FELL 0.17%"
+    },
+    {
+      "id": "mkt:019e2d3b-8c7e-7663-82fc-495be7c522ee",
+      "time": "2026-05-16 04:02:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "S&P 500 RECORDS SEVENTH STRAIGHT WEEKLY GAIN, LONGEST SINCE 9-WEEK STREAK ENDED DECEMBER 2023"
+    },
+    {
+      "id": "mkt:019e2d3b-7a37-7663-82fc-451bfd0745e6",
+      "time": "2026-05-16 04:02:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Nasdaq100",
+        "Impact bearish"
+      ],
+      "text": "NASDAQ SNAPS 6-WEEK STREAK OF GAINS"
+    },
+    {
+      "id": "4882894",
+      "time": "2026-05-16 04:00:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體收跌】道指跌1.07%，標普500指數跌1.24%，納指跌1.55%。Arm Holdings跌8.48%，Coinbase Global跌7.85%，康寧跌7.71%，福特汽車跌7.35%，美光跌6.60%，Ciena科技跌6.26%。“七姐妹”方面：微軟漲3.04%，蘋果漲0.69%，Meta Platforms跌0.65%，谷歌跌0.99%，亞馬遜跌1.20%，英偉達跌4.40%，特斯拉跌4.76%。"
+    },
+    {
+      "id": "mkt:019e2d3a-0956-7663-82fc-39e4371d5e3a",
+      "time": "2026-05-16 04:00:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bearish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "DOW CLOSED -1.07%, S&P 500 -1.24%, NASDAQ -1.54%"
+    },
+    {
+      "id": "4882893",
+      "time": "2026-05-16 04:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收跌2.79%】海天網路跌23.84%，金山雲跌9.42%，寶尊電商跌8.89%，復朗集團跌7.69%，阿里巴巴跌6.05%。"
+    },
     {
       "id": "4882892",
       "time": "2026-05-16 03:58:13",
@@ -139961,297 +140043,6 @@
         "國際"
       ],
       "text": "美聯儲報告：人工智慧技術的廣泛應用可能推高失業率。人們越來越擔心人工智慧的擴張依賴於債務融資。2025年第四季度，銀行對其他金融機構的貸款顯著增長，達到2.5萬億美元。對沖基金槓桿率仍處於歷史高位附近，且主要集中在少數幾家大型基金中。"
-    },
-    {
-      "id": "mkt:019e092f-f36a-7222-b4aa-ec2ace661fe4",
-      "time": "2026-05-09 04:03:07",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Apple",
-        "Market Regions",
-        "Wall Street (US)",
-        "Market Themes",
-        "Magnificent 7",
-        "S&P500",
-        "Impact bullish",
-        "Nasdaq100",
-        "INTC.O"
-      ],
-      "text": "【S&P 500, Nasdaq Hit Record Highs as Intel-Apple Deal Lifts Chip Stocks】U.S. stocks closed higher on Friday, with the Nasdaq and S&P 500 reaching record highs and extending winning streaks to six weeks, supported by chip stocks and stronger-than-expected April jobs data. Intel surged 13% after reports it reached a deal to manufacture some chips for Apple devices, while Apple gained about 2%. The U.S. added 115,000 jobs in April, above Bloomberg estimates for 65,000, with unemployment steady at 4.3%. Oil prices also rose as tensions near the Strait of Hormuz increased concerns over Middle East supply disruptions."
-    },
-    {
-      "id": "4869171",
-      "time": "2026-05-09 04:02:47",
-      "tags": [
-        "市場"
-      ],
-      "text": "AKAMAI股價收盤上漲27%，創2004年以來最佳單日表現。"
-    },
-    {
-      "id": "4869170",
-      "time": "2026-05-09 04:02:41",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲：與私人信用贖回相關的風險“是可控的”】美聯儲調查受訪者在2026年春季調查中將地緣政治風險列為首位，較 2025 年秋季調查上升一位；人工智慧（AI）從第 5 位升至第 3 位；私人信用從第 9 位升至第 4 位；通脹/緊縮政策從第 3 位降至第 5 位。石油衝擊在春季調查中被列為第 2 大風險；而在秋季調查中並未進入主要關注名單。根據美聯儲半年一度的報告，地緣政治風險、石油衝擊、人工智慧、私人信用以及持續的通脹/貨幣緊縮是美國金融穩定面臨的五大最受關注風險。私人信用贖回請求對金融穩定構成的風險似乎有限且可控。政策不確定性在春季調查中降至第 8 位風險；其在秋季曾是首要關注點。"
-    },
-    {
-      "id": "4869169",
-      "time": "2026-05-09 04:02:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：英國首相斯塔默地方選舉失利後，內閣同僚力挺首相。"
-    },
-    {
-      "id": "4869168",
-      "time": "2026-05-09 04:02:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "ROCKET LAB股價收盤上漲34%，創2021年以來最大漲幅。"
-    },
-    {
-      "id": "4869167",
-      "time": "2026-05-09 04:02:00",
-      "tags": [
-        "市場"
-      ],
-      "text": "CLOUDFLARE股價收盤下跌24%，創歷史新低。"
-    },
-    {
-      "id": "4869166",
-      "time": "2026-05-09 04:01:52",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲稱與私人信貸贖回相關的風險可控】美聯儲表示，儘管近幾個月私募信貸市場多家頭部機構限制投資者贖回基金，但後續贖回潮引發的金融穩定風險目前有限、處於可控範圍。美聯儲週五在金融穩定報告中稱：“2026 年一季度，此類基金資金流出規模雖小幅超過資金流入，但整體贖回需求仍在可控區間。”美聯儲指出，若贖回壓力持續疊加市場情緒低迷，可能導致部分借款人信貸可得性下降，信用風險偏高的主體受衝擊尤為明顯。"
-    },
-    {
-      "id": "mkt:019e092e-99b2-7222-b4aa-e5302d01d805",
-      "time": "2026-05-09 04:01:48",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Wall Street (US)",
-        "S&P500",
-        "Impact bullish",
-        "Nasdaq100",
-        "Dow"
-      ],
-      "text": "UNOFFICIALLY, FOR THE WEEK, THE S&P 500 GAINED 2.33%, THE NASDAQ ROSE 4.51%, AND THE DOW CLIMBED 0.22%"
-    },
-    {
-      "id": "mkt:019e092e-868d-7222-b4aa-dcf4a4a0b2ba",
-      "time": "2026-05-09 04:01:42",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "S&P500",
-        "Impact bullish",
-        "Nasdaq100"
-      ],
-      "text": "S&P 500 AND NASDAQ RECORD SIXTH STRAIGHT WEEK OF GAINS, LONGEST SINCE OCTOBER 2024"
-    },
-    {
-      "id": "mkt:019e092e-5433-7222-b4aa-d0dc2bb134e8",
-      "time": "2026-05-09 04:01:31",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "FED SURVEY RESPONDENTS PUT GEOPOLITICAL RISKS IN TOP SPOT IN SPRING 2026 SURVEY, UP ONE NOTCH FROM FALL 2025 SURVEY; AI CLIMBS TO NO. 3 FROM NO. 5; PRIVATE CREDIT CLIMBS TO NO. 4 FROM NO. 9; INFLATION/TIGHTENING DROPS TO NO. 5 FROM NO. 3"
-    },
-    {
-      "id": "mkt:019e092e-3b43-7222-b4aa-c8ff10752412",
-      "time": "2026-05-09 04:01:25",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "S&P500",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "US10Y"
-      ],
-      "text": "FED REPORT: CONTINUED PRIVATE CREDIT REDEMPTIONS AND NEGATIVE SENTIMENT COULD REDUCE CREDIT AVAILABILITY FOR SOME BORROWERS"
-    },
-    {
-      "id": "mkt:019e092e-2b89-7222-b4aa-c522449b5206",
-      "time": "2026-05-09 04:01:21",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "FED REPORT: BANK LENDING TO OTHER FINANCIAL ENTITIES GREW APPRECIABLY IN FOURTH QUARTER OF 2025 TO $2.5 TRILLION"
-    },
-    {
-      "id": "mkt:019e092e-1ff6-7222-b4aa-bd05c7f854fe",
-      "time": "2026-05-09 04:01:17",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "S&P500",
-        "Impact mixed",
-        "Nasdaq100"
-      ],
-      "text": "FED REPORT: LEVERAGE AT HEDGE FUNDS REMAINS NEAR ALL-TIME HIGHS, CONCENTRATED IN SMALL NUMBER OF LARGE FUNDS"
-    },
-    {
-      "id": "mkt:019e092e-1ec1-7222-b4aa-b1bc6be491b8",
-      "time": "2026-05-09 04:01:14",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "WTI",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "GEOPOLITICAL RISKS, OIL SHOCK, ARTIFICIAL INTELLIGENCE, PRIVATE CREDIT AND PERSISTENT INFLATION/MONETARY TIGHTENING ARE TOP FIVE MOST CITED RISKS TO U.S. FINANCIAL STABILITY, ACCORDING TO SEMI-ANNUAL FEDERAL RESERVE REPORT"
-    },
-    {
-      "id": "4869165",
-      "time": "2026-05-09 04:01:13",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數與納斯達克指數錄得連續第六週上漲，創2024年10月以來最長連漲週期。"
-    },
-    {
-      "id": "mkt:019e092e-003c-7222-b4aa-aa77ad258db4",
-      "time": "2026-05-09 04:01:10",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "Market Themes",
-        "AI Revolution",
-        "US10Y",
-        "Impact bearish",
-        "S&P500",
-        "Impact mixed",
-        "Nasdaq100"
-      ],
-      "text": "FED REPORT: WORRIES ARE MOUNTING THAT AI EXPANSION IS FUNDED BY DEBT"
-    },
-    {
-      "id": "mkt:019e092d-f0f6-7222-b4aa-a163353786f9",
-      "time": "2026-05-09 04:01:06",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "US10Y"
-      ],
-      "text": "FED REPORT: RISKS TO FINANCIAL STABILITY FROM PRIVATE CREDIT REDEMPTION REQUESTS APPEAR LIMITED AND MANAGEABLE"
-    },
-    {
-      "id": "mkt:019e092d-e555-7222-b4aa-99321852b28c",
-      "time": "2026-05-09 04:01:03",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "S&P500",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "US10Y"
-      ],
-      "text": "FED REPORT: WIDESPREAD ADOPTION OF AI TECHNOLOGY COULD PUSH UP UNEMPLOYMENT"
-    },
-    {
-      "id": "4869164",
-      "time": "2026-05-09 04:00:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "RACKSPACE股價飆升56%，兩日累計漲幅達142%。"
-    },
-    {
-      "id": "4869163",
-      "time": "2026-05-09 04:00:45",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股收盤：三大股指集體收漲】道指漲0.02%，標普500指數漲0.84%，納指漲1.68%。阿克邁漲26.47%，閃迪漲16.60%，美光漲15.46%，英特爾漲13.86%，怪物飲料漲13.61%。“七姐妹”方面：特斯拉漲4.02%，蘋果漲1.99%，英偉達漲1.69%，亞馬遜漲0.51%，谷歌漲0.39%，Meta Platforms跌1.19%，微軟跌1.39%。"
-    },
-    {
-      "id": "mkt:019e092d-50d0-7222-b4aa-900405bb315d",
-      "time": "2026-05-09 04:00:25",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "SAUDI AND RUSSIAN FOREIGN MINISTERS HOLD PHONE CALL ON REGIONAL STABILITY EFFORTS"
-    },
-    {
-      "id": "4869162",
-      "time": "2026-05-09 04:00:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "本週，標普累漲2.2%，連漲六週；道指累漲0.1%，納指累漲0.1%，半導體指數累漲約11%。"
-    },
-    {
-      "id": "mkt:019e092d-2f34-7222-b4aa-8f31ff2c49a7",
-      "time": "2026-05-09 04:00:16",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Nasdaq100",
-        "Impact bullish",
-        "S&P500",
-        "Dow"
-      ],
-      "text": "NASDAQ CLOSED +1.71%, S&P 500 +0.84%, DOW +0.02%"
-    },
-    {
-      "id": "4869160",
-      "time": "2026-05-09 04:00:13",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲釋出金融穩定報告。"
-    },
-    {
-      "id": "4869159",
-      "time": "2026-05-09 04:00:07",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲稱與私人信貸贖回相關的風險“可控”。"
     }
   ]
 }
