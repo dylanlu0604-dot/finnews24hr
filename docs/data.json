@@ -1,7 +1,27 @@
 {
-  "updated": "2026-05-15 08:45:48",
-  "count": 15208,
+  "updated": "2026-05-15 08:49:13",
+  "count": 15202,
   "items": [
+    {
+      "id": "te:markets:550888",
+      "time": "2026-05-15 08:48:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Japanese Shares Follow Wall Street Higher — The Nikkei 225 Index climbed 0.3% to above 62,800, while the broader Topix Index advanced 1.1% to 3,920 on Friday, recovering from losses in the previous session as Japanese equities tracked an overnight technology-led rally on Wall Street. Investor sentiment was supported by strong corporate earnings and continued momentum in artificial intelligence-related stocks. Markets also found support from the Beijing summit between US President Donald Trump and Chinese President Xi Jinping, with Trump stating that ties between the world’s two largest economies remain strong and are improving despite ongoing disagreements over Iran, Taiwan, and other issues. Major gainers included Fujikura, which rose 2.3%, SoftBank Group up 3.1%, Mitsubishi UFJ advancing 2.4%, Fanuc surging 7.7%, and Toyota Motor gaining 2%. For the week, the Nikkei was headed for a largely flat finish, while the Topix remained up more than 2%."
+    },
+    {
+      "id": "4880876",
+      "time": "2026-05-15 08:47:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩市融資餘額較上日增加91.44億元】截至5月14日，上交所融資餘額報14562.19億元，較前一交易日增加38.65億元；深交所融資餘額報13968.11億元，較前一交易日增加52.79億元；兩市合計28530.30億元，較前一交易日增加91.44億元。"
+    },
     {
       "id": "4880875",
       "time": "2026-05-15 08:43:50",
@@ -137180,77 +137200,6 @@
         "Importance 1"
       ],
       "text": "Aussie Dollar Eyes Flat Weekly Outcome — The Australian dollar held its recent decline around the $0.72 level after pulling back from multi-year highs, leaving it on track for a broadly flat performance over the week. Attention remains on geopolitical developments, as renewed clashes between the US and Iran weakened hopes for a near-term peace agreement. The latest escalation heightens tensions as the US attempts to exit a conflict now in its third month, while awaiting Iran’s response to its proposal to reopen the Strait of Hormuz, a vital waterway for energy flows. The near-closure of the strait and the resulting energy price shock have fueled concerns about rising inflation, which could keep interest rates higher for longer. In Australia, markets are pricing around a 20% chance of another rate hike in June by the Reserve Bank, after 75 basis points of tightening to 4.35% over the past three meetings. The probability rises to about 68% for August, with a terminal rate near 4.60% almost fully priced in by September."
-    },
-    {
-      "id": "4867345",
-      "time": "2026-05-08 08:49:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "【騰訊、上汽集團等入股機器人靈巧手研發商臨界點】企查查APP顯示，近日，上海臨界點創新智慧科技有限公司（簡稱“臨界點”）發生工商變更，新增騰訊旗下上海啟善投資有限公司、上汽集團旗下上海上汽創遠創業投資合夥企業（有限合夥）等為股東，同時，註冊資本由約554萬元增至約597萬元。企查查資訊顯示，該公司成立於今年1月，法定代表人為王闖，經營範圍包括人工智慧硬體銷售、智慧機器人銷售、智慧機器人的研發等，由智元創新（上海）科技股份有限公司持股約67%。公開資訊顯示，該公司專注於機器人靈巧手研發與生產。"
-    },
-    {
-      "id": "4867344",
-      "time": "2026-05-08 08:48:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "【李殿勳主持召開省政府專題會議研究推進“科技金融+”專項行動】據湖北日報，5月7日下午，湖北省委副書記、省長李殿勳主持召開省政府專題會議，研究推進“科技金融+”專項行動有關工作。李殿勳強調，推進“科技金融+”專項行動，要著力解決好“誰來+、+什麼、怎麼+”三個關鍵問題：一要聚焦解決“誰來+”問題，著力重塑現代科技金融供給體系，以建設武漢科技金融中心為載體，立足地方政府“股權投資做引導、債權融資做增信、資本市場公開募資做培育”三大金融創新職能定位，堅持“政府引導、金融主體、市場運作、社會參與”四項原則，系統重構股權投資引導體系、債權融資增信體系和多層次資本市場募資培育體系，加快完善“投、貸、證、險、擔”全業態科技金融工具，持續提升科技金融供給的質量、效率和公信力。二要聚焦解決“+什麼”問題，著眼高效精準匹配金融資源、科技資源與產業資源，透過科技金融+科技研發、+成果轉化、+產業培育、+人才保障，更好地為科技創新和產業創新賦能，更加有力有效地促進科技創新與產業創新深度融合發展。三要聚焦解決“怎麼+”問題，著力構建科技創新、產業創新、金融創新深度融合發展的推進機制，著力重塑科技金融全週期、全業態、全鏈條服務科技創新與產業創新的供給產品，著力完善集“線上淘寶網、線下廣交會與科技創新Mall”多種功能於一體的人才、科技、產業、金融對接服務平臺，著力推進科技管理體制、新型分配製度、國有“三資”管理、資料資源共享、信用評價體系、激勵約束機制等配套改革，透過“四措並舉”，努力為實施好“科技金融+”專項行動創造優良生態。李殿勳要求，要在深入調查研究、廣泛徵求意見、加強專業論證的基礎上，抓緊完善實施方案，推動“科技金融+”專項行動早日落地、早見成效。"
-    },
-    {
-      "id": "4867343",
-      "time": "2026-05-08 08:48:37",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【中信證券：大眾品板塊基本面已經完成觸底】中信證券指出，2025年大眾品需求呈現前低後穩趨勢，2025H1終端需求持續走弱，臨近中秋節前後行業需求逐步改善，在2026Q1春節錯峰以及假期效應影響下，大眾品基本面環比進一步改善。其中調味、速凍板塊短期需求改善幅度最大，乳品需求底部企穩、飲料和零食延續成長性。2025年大眾品企業繼續縮減Capex、提升分紅率，板塊現金回報率進一步提升。我們認為大眾品板塊基本面已經完成觸底，同時考慮到板塊較高的現金回報率，我們看好大眾品2026年基本面溫和上行以及板塊底部配置的寶貴機會。重點推薦順週期屬性較強的餐供和乳品板塊；推薦獨立成長性強的販零食龍頭公司以及保健品龍頭公司；推薦部分估值便宜或者短期殺跌較多的飲料企業和零食企業。"
-    },
-    {
-      "id": "4867342",
-      "time": "2026-05-08 08:47:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【兩市融資餘額增加294.9億元】截至5月7日，上交所融資餘額報14091.9億元，較前一交易日增加156.62億元；深交所融資餘額報13485.33億元，較前一交易日增加138.28億元；兩市合計27577.23億元，較前一交易日增加294.9億元。"
-    },
-    {
-      "id": "4867341",
-      "time": "2026-05-08 08:47:05",
-      "tags": [
-        "市場"
-      ],
-      "text": "【酒價內參5月8日價格釋出：青花郎領漲 總價止跌回升】新浪財經“酒價內參”過去24小時收集的資料顯示，中國白酒市場主要大單品的終端零售均價在5月8日小幅回升。如果主要單品各取一瓶整體打包售賣，今日總售價為9944元，較昨日上漲5元，結束前一日的回撥。市場在短暫走弱後重回平穩，終端交投情緒保持穩定，核心單品漲跌分化依然顯著。今日白酒市場11大單品五漲四跌兩平，贏家略佔上風。上漲方面，青花郎漲幅居前，上漲7元/瓶，重返700元關口上方；洋河夢之藍M6+上漲4元/瓶，平近一月最高價格；五糧液1618上漲2元/瓶；古井貢古20與習酒君品均上漲1元/瓶。下跌方面，國窖1573跌幅居前，下跌5元/瓶，近期該酒品的價格波動較為劇烈，在900元大關附近反覆震盪；水晶劍南春下跌3元/瓶；飛天茅臺與精品茅臺均下跌1元/瓶。五糧液普五八代與青花汾20的價格環比保持不變。"
-    },
-    {
-      "id": "4867340",
-      "time": "2026-05-08 08:46:30",
-      "tags": [
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "【中金財富期貨：伊朗若妥協將緩解油價壓力，黃金反彈動力增強】雖然特朗普口頭上對伊朗依然實行威脅政策，但是威脅的效果卻近乎於零，資本市場已經逐漸脫敏，伊朗的反應反而更為重要。如果伊朗真的走向妥協，那麼油價上行的壓力將顯著緩解，黃金獲得反彈動力。考慮到金價整體位置較高，我們始終認為其參與價值較為雞肋，觀望為宜。"
-    },
-    {
-      "id": "mkt:019e050c-e1c8-7775-8cbb-c746aecdd82a",
-      "time": "2026-05-08 08:46:30",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "【Gold Gains as U.S.-Iran Clashes Boost Safe-Haven Demand】Gold rose in early Asian trading as renewed U.S.-Iran tensions increased demand for safe-haven assets. Iran launched missiles, drones and small-boat attacks against U.S. warships near the Strait of Hormuz, while the U.S. said it intercepted the threats and struck Iranian military sites linked to the attacks, according to the Wall Street Journal citing U.S. Central Command. Investors are also watching upcoming U.S. employment data for signals on economic conditions and the Federal Reserve’s policy outlook. Bas Kooijman, CEO and asset manager at DHF Capital, said the labor reports could provide further clues on the direction of monetary policy."
-    },
-    {
-      "id": "4867339",
-      "time": "2026-05-08 08:46:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "【劉小濤會見新加坡豐益國際集團董事長郭孔豐】據新華日報，5月7日，江蘇省省長劉小濤在南京會見新加坡豐益國際集團董事長兼總裁郭孔豐。劉小濤說，期待豐益國際集團發揮鏈主企業引領作用，進一步拓展全產業鏈投資佈局，加強油脂科技、食品深加工、大健康等高附加值板塊合作，促進更多上下游企業集聚。我們將持續最佳化營商環境，以更優服務、更實舉措支援企業增資擴產、創新發展。郭孔豐表示，企業將進一步對接江蘇發展需求、深化務實合作，落地更多大專案好專案，不斷提升產業鏈價值鏈能級，實現高水平互利共贏。"
     }
   ]
 }
