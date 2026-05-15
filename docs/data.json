@@ -1,7 +1,100 @@
 {
-  "updated": "2026-05-15 23:51:14",
-  "count": 15516,
+  "updated": "2026-05-15 23:54:40",
+  "count": 15523,
   "items": [
+    {
+      "id": "te:economy:551252",
+      "time": "2026-05-15 23:53:51",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Costa Rica",
+        "GDP Annual Growth Rate",
+        "Importance 1"
+      ],
+      "text": "Costa Rica Economy Growth Eases in Q1 2026 — Costa Rica’s economy expanded 4.55% year-on-year in the first quarter of 2026, slowing slightly from 4.72% growth in the previous quarter. The strongest performances were recorded in financial and insurance activities, which grew 7.56%, followed by construction (6.44%), publishing, content production, telecommunications and information services (6.08%), and professional, scientific, technical, administrative and support service activities (5.70%)."
+    },
+    {
+      "id": "mkt:019e2c58-03e8-7663-82fa-2e900b4aaed3",
+      "time": "2026-05-15 23:53:46",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "NVDA.O",
+        "MSFT.O",
+        "AMZN.O"
+      ],
+      "text": "【Trump Discloses $200M–$700M in First-Quarter Trades Across Big Tech and Industrials】US President Donald Trump disclosed first-quarter 2026 securities transactions totaling $211mn to $687mn, involving Nvidia, Apple, Microsoft, Amazon, Meta, Tesla, Boeing, Palantir, and others, according to filings from the US Office of Government Ethics. The filings show 2,346 purchases and 1,296 sales, including trades linked to ETFs and index products, with notable activity in Nvidia and Intel. Some transactions involved asset sales in Meta, Amazon, and Microsoft worth $5mn–$25mn each. The disclosures come amid scrutiny over potential conflicts tied to holdings in companies affected by administration policy, while the White House said investments are managed independently."
+    },
+    {
+      "id": "4882646",
+      "time": "2026-05-15 23:53:06",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【歐洲天然氣期貨本週漲超15%】本週，ICE英國天然氣期貨累計上漲15.23%，週五（5月15日）歐市尾盤報124.580便士/千卡，5月11日、15日顯著上漲，12-14日持穩於115便士附近。TTF基準荷蘭天然氣期貨累漲15.14%，報50.326歐元/兆瓦時。ICE歐盟碳排放交易許可（期貨價格）漲0.47%，報74.50歐元/噸。"
+    },
+    {
+      "id": "4882645",
+      "time": "2026-05-15 23:52:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所 6 月柴油期貨結算價為每噸 1204.25 美元。"
+    },
+    {
+      "id": "te:markets:551251",
+      "time": "2026-05-15 23:52:37",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Lumber Hits 5-week High — Lumber increased to 593.50 USD/1000 board feet, the highest since April 2026. Over the past 4 weeks, Lumber gained 1.38%, and in the last 12 months, it decreased 2%."
+    },
+    {
+      "id": "mkt:019e2c56-dcff-7663-82fa-21776944ce1a",
+      "time": "2026-05-15 23:52:30",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "ICE GASOIL JUNE FUTURES SETTLE AT $1,204.25 A TON"
+    },
+    {
+      "id": "4882644",
+      "time": "2026-05-15 23:52:27",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【翼菲科技：香港公開發售獲14855.4倍認購】5月15日晚間，翼菲科技在港交所公告分配結果，香港公開發售獲14855.40倍認購，國際發售獲9.77倍認購；發售價30.50港元，所得款項淨額6.729億港元，H股股份將於2026年5月18日開始在香港聯交所買賣。"
+    },
+    {
+      "id": "mkt:019e2c56-d034-7663-82fa-1ff0e88f2fd0",
+      "time": "2026-05-15 23:52:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "US OIL HITS INTRADAY HIGH, TRADES NEAR $105.50/BBL"
+    },
+    {
+      "id": "4882643",
+      "time": "2026-05-15 23:51:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國原油價格觸及日內高點，接近每桶105.50美元。"
+    },
     {
       "id": "4882642",
       "time": "2026-05-15 23:50:57",
@@ -139901,22 +139994,6 @@
         "AMZN.O"
       ],
       "text": "AMAZON - PRIME VIDEO LAUNCHES SHORT-FORM VIDEO FEED CLIPS"
-    },
-    {
-      "id": "mkt:019e084a-7156-7aa7-bba7-2208ad95be48",
-      "time": "2026-05-08 23:52:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "HEALTH OFFICIALS CLOSE TO US SECRETARY KENNEDY EXPLORED BAN OF SOME WIDELY USED ANTIDEPRESSANTS -SOURCES"
-    },
-    {
-      "id": "4868952",
-      "time": "2026-05-08 23:52:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "訊息人士透露，親近美國衛生部長肯尼迪的衛生官員已探討禁用部分常用抗抑鬱藥物的相關事宜。"
     }
   ]
 }
