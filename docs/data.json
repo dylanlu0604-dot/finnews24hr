@@ -1,7 +1,52 @@
 {
-  "updated": "2026-05-15 12:16:30",
-  "count": 15269,
+  "updated": "2026-05-15 12:19:53",
+  "count": 15271,
   "items": [
+    {
+      "id": "te:markets:550971",
+      "time": "2026-05-15 12:19:26",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Soybeans Pressured Despite US-China Optimism — Soybean futures held below $12 per bushel, after a nearly 3% drop in the prior session as traders remained cautious despite potential large-scale Chinese purchases of American agricultural goods. US Trade Representative Jamieson Greer said China is expected to make “double-digit billion” annual purchases of US farm products over the next three years, while President Donald Trump said Beijing would buy “a lot of soybeans” from US farmers. Greer also pointed to an existing agreement for China to purchase 25 million tons of US soybeans annually over the coming years. Still, sentiment remained restrained as markets awaited concrete details on the timing and scale of purchases, after the first day of talks between Trump and Chinese President Xi Jinping failed to produce confirmed trade commitments. Meanwhile, the USDA projected US soybean stocks to decline to 310 million bushels by the end of the 2026 to 2027 marketing year, down from 340 million expected at the end of the current season."
+    },
+    {
+      "id": "4881195",
+      "time": "2026-05-15 12:18:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中證協就兩項投資者保護類團體標準公開徵求意見】中國證券業協會發布關於就兩項投資者保護類團體標準公開徵求意見的公告，為推動提升證券公司投資者保護工作質效，提供可供行業借鑑的投資者適當性管理和糾紛調解工作標準，協會投資者服務與保護專業委員會成員單位華福證券、華安證券分別起草編寫了《證券公司投資者適當性管理規範》和《證券公司投資者糾紛調解規範》團體標準的徵求意見稿，現向社會公開徵求意見。"
+    },
+    {
+      "id": "mkt:019e29da-10c0-7bb5-b4d6-336437654ef5",
+      "time": "2026-05-15 12:16:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "BRITISH FOREIGN MINISTER COOPER EXPECTED TO VISIT CHINA IN EARLY JUNE, SOURCES SAY"
+    },
+    {
+      "id": "4881194",
+      "time": "2026-05-15 12:16:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【萬順新材：萬順轉2最後轉股日為2026年5月15日】萬順新材公告，萬順轉2最後轉股日為2026年5月15日，當日收市前持有萬順轉2的投資者仍可進行轉股，收市後未轉股的將按100.87元/張（含息稅）強制贖回。截至2026年5月15日上午收市後，距離停止轉股僅剩半個交易日。投資者需開通創業板交易許可權，不符合要求的不能轉股。贖回資金到賬日為2026年5月25日。"
+    },
+    {
+      "id": "4881193",
+      "time": "2026-05-15 12:16:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "斯巴魯：將回購至多1500億日元的股票，所有股份將被登出。"
+    },
     {
       "id": "4881192",
       "time": "2026-05-15 12:14:45",
@@ -137841,38 +137886,6 @@
         "國際"
       ],
       "text": "【英偉達CEO黃仁勳：若受邀，將隨特朗普一同訪問中國】據路透社7日報道，美國政府正邀請英偉達、蘋果、埃克森美孚、波音等大型企業執行長隨同特朗普訪問中國。英偉達公司執行長黃仁勳7日晚間接受採訪時表示：“如果受邀，那將是我的榮幸——能夠代表美國與特朗普總統一同訪問中國，將是莫大的榮耀。”當被問及具體安排時，他補充道：“我們應該讓總統宣佈他決定宣佈的任何訊息。”據報道，高通、黑石集團、花旗集團和Visa等高管也在受邀之列。一位知情人士證實，花旗執行長簡·弗雷澤（Jane Fraser）已受邀出席。如果行程按計劃進行，高通執行長克里斯蒂亞諾·阿蒙（Cristiano Amon）也將出席。一位訊息人士透露，多名企業執行長已在6日晚間接到邀請。彭博社稱，黃仁勳的發言表明“這位美國市值最高公司的領導人尚未收到訪華邀請”。波音執行長凱利·奧特伯格（Kelly Ortberg）今年4月受訪時表示，公司正寄望特朗普政府協助推動一筆期待已久的大額中國訂單落地。（澎湃）"
-    },
-    {
-      "id": "te:markets:549031",
-      "time": "2026-05-08 12:18:59",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Copper Set for Weekly Rise — Copper futures held above $6.1 per pound on Friday and were on track to post a weekly gain of more than 3%, supported by easing energy prices earlier in the week, which helped reduce pressure on global growth and industrial metals demand. However, sentiment remained fragile as the US and Iran exchanged fire in the Strait of Hormuz. The Trump administration is currently awaiting Iran’s response to a proposal aimed at reopening Hormuz and ending the nearly 10-week conflict, with reports suggesting Tehran is expected to reply via Pakistan within the next two days. The ongoing conflict has also disrupted shipments of sulphuric acid, a key input in copper refining, adding to supply-side risks. At the same time, continued large-scale agreements among major technology firms have accelerated data center construction, strengthening the longer-term demand outlook for copper given its critical role in electrification and power grid infrastructure."
-    },
-    {
-      "id": "te:economy:549029",
-      "time": "2026-05-08 12:18:22",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Malaysia",
-        "Industrial Production",
-        "Importance 1"
-      ],
-      "text": "Malaysia Industrial Output Growth Steady in March — Industrial production in Malaysia grew by 3.1% year-on-year in March 2026, matching market expectations and the pace seen in the previous month. Still, the latest figure remained the weakest growth in industrial activity since last June, driven mainly by a deeper contraction in mining output (-6.5% vs -2.0%), as crude oil and condensate production declined more sharply (-11.3% vs -4.3%) and natural gas output continued to fall (-3.4% vs -0.4%). On the other hand, activity in the manufacturing sector increased 5.5% from 4.2% in the previous month, mainly boosted by robust output of electrical and electronic products (12.5% vs 12.9%) and food, beverages, and tobacco (9.1% vs 5.7%). Additionally, the generation of electricity also went up (4.9% vs 4.6%). On a seasonally adjusted monthly basis, industrial activity fell by 1.8% in March, easing from a 2.9% drop in the preceding period."
-    },
-    {
-      "id": "4867627",
-      "time": "2026-05-08 12:17:54",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【特朗普：“特朗普的股市再創新高”】美國總統特朗普當地時間深夜釋出一張圖片，內容為：“特朗普的股市再創新高！標普500指數已突破7300點。”"
     }
   ]
 }
