@@ -1,7 +1,115 @@
 {
-  "updated": "2026-05-15 08:39:04",
-  "count": 15204,
+  "updated": "2026-05-15 08:42:26",
+  "count": 15213,
   "items": [
+    {
+      "id": "4880873",
+      "time": "2026-05-15 08:41:44",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4620美元/盎司，日內跌1.41%。"
+    },
+    {
+      "id": "4880872",
+      "time": "2026-05-15 08:41:43",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【韓國綜合股指KOSPI盤中突破8000點 創歷史紀錄】當地時間15日，韓國綜合股指KOSPI盤中突破8000點，再度創下該指數有史以來最高點紀錄。受韓國半導體行業近期持續爆發式增長等因素影響，韓國股市呈現飆升的趨勢。5月6日，韓國綜合股指KOSPI首次站上7000點，一週後即突破8000點，持續重新整理最高點紀錄。（央視新聞）"
+    },
+    {
+      "id": "4880871",
+      "time": "2026-05-15 08:41:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "片山皋月：看到收益率上升背後的全球協同效應。"
+    },
+    {
+      "id": "mkt:019e2914-a96c-7bb5-b4d3-5de9162e2147",
+      "time": "2026-05-15 08:40:48",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "JAPAN FINMIN KATAYAMA: BOND YIELDS ARE RISING GLOBALLY, INCLUDING UK, US, G7 MEETINGS ARE LIKELY TO DISCUSS THE MATTER"
+    },
+    {
+      "id": "4880870",
+      "time": "2026-05-15 08:40:45",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國3年期國債期貨跌至2023年底以來的最低水平。"
+    },
+    {
+      "id": "4880869",
+      "time": "2026-05-15 08:40:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數回吐早前漲幅，當前下跌0.1%，報62572.27點。"
+    },
+    {
+      "id": "4880868",
+      "time": "2026-05-15 08:40:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌3%，現報82.63美元/盎司。"
+    },
+    {
+      "id": "4880867",
+      "time": "2026-05-15 08:40:16",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "日本財務大臣片山說：包括英國、美國在內，全球債券收益率都在攀升，七國集團峰會預計將就該問題展開討論。"
+    },
+    {
+      "id": "4880866",
+      "time": "2026-05-15 08:40:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "片山皋月：英國、美國、日本的收益率一直在上升。"
+    },
+    {
+      "id": "4880865",
+      "time": "2026-05-15 08:39:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "美元指數DXY向上觸及99，日內漲0.13%。"
+    },
+    {
+      "id": "4880864",
+      "time": "2026-05-15 08:39:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4620美元/盎司，日內跌0.72%。"
+    },
+    {
+      "id": "4880863",
+      "time": "2026-05-15 08:39:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本經濟產業大臣赤澤亮正：日本每年多次派遣工作人員前往俄羅斯。"
+    },
     {
       "id": "4880862",
       "time": "2026-05-15 08:38:39",
@@ -137197,33 +137305,6 @@
         "MKT News"
       ],
       "text": "【Trump Says Hantavirus Cruise Ship Outbreak Appears ‘Under Control’】President Donald Trump said the administration believes a hantavirus outbreak linked to a cruise ship in the Atlantic Ocean is “very much, we hope, under control,” adding that a full report on the incident would be released Friday. The outbreak has killed three people and seriously sickened several others, prompting a World Health Organization alert as authorities investigate how the rare rodent-borne virus spread aboard the vessel carrying about 150 passengers, which is now heading to Spain’s Canary Islands. Trump said officials were “doing the best we can” and expressed hope the virus would not spread further."
-    },
-    {
-      "id": "mkt:019e0507-49bc-7775-8cbb-a6e8be261eef",
-      "time": "2026-05-08 08:40:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TRUMP: IRAN SHOULD ACT FAST TO CONCLUDE AN AGREEMENT"
-    },
-    {
-      "id": "te:markets:548960",
-      "time": "2026-05-08 08:39:52",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Gasoline Rises Back Toward 4-Year High — Gasoline futures for delivery at the New York Harbor rose above $3.50 per gallon, climbing back toward their four-year high, as fresh clashes in the Middle East heightened worries over prolonged energy supply disruptions. The US and Iran traded attacks in the Strait of Hormuz, with each side blaming the other for sparking the clash, raising doubts about the month-long ceasefire. Traffic through the Strait of Hormuz has remained suspended since early March, disrupting the flow of roughly 20 million barrels per day of oil and refined fuels to key importing nations. At the same time, shortages of diesel and jet fuel in Europe and Asia prompted major refiners to shift more capacity toward distillate production rather than gasoline, worsening supply concerns. As a result, US gasoline inventories fell for an 11th consecutive week, further tightening stockpiles ahead of the peak summer demand season."
-    },
-    {
-      "id": "4867334",
-      "time": "2026-05-08 08:39:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "【OpenAI推出“可信聯絡人”安全功能】當地時間5月7日，OpenAI宣佈推出“可信聯絡人”功能。具體而言，如果OpenAI的自動化系統和經過培訓的稽核人員檢測到成年使用者可能曾討論過自殘行為，且這種行為可能構成嚴重的安全隱患，則該聯絡人將會收到通知。宣告稱，該功能不會取代專業護理或危機干預服務，而是為處於困境中的使用者提供多重保障措施。ChatGPT仍會鼓勵使用者在適當情況下聯絡危機熱線或緊急服務部門。"
     }
   ]
 }
