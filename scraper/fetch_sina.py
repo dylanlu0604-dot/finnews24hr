@@ -58,6 +58,7 @@ try:
     CENTRAL_BANK_AUTO_BACKFILL_DAYS = max(1, int(os.getenv("CENTRAL_BANK_AUTO_BACKFILL_DAYS", "7")))
 except ValueError:
     CENTRAL_BANK_AUTO_BACKFILL_DAYS = 7
+CENTRAL_BANK_SUMMARY_SCHEMA_VERSION = 2
 
 CENTRAL_BANKS = [
     {"id": "fed", "name": "美國聯準會 Fed", "keywords": ("Fed", "Federal Reserve", "FOMC", "Powell", "Waller", "Bowman", "Jefferson", "Williams", "美聯儲", "聯準會", "鮑威爾")},
@@ -1481,6 +1482,7 @@ def empty_central_bank_summary(summary_date: str, start: datetime, end: datetime
         "range_start": start.strftime("%Y-%m-%d %H:%M:%S"),
         "range_end": end.strftime("%Y-%m-%d %H:%M:%S"),
         "generated_at": datetime.now(TW).strftime("%Y-%m-%d %H:%M:%S"),
+        "schema_version": CENTRAL_BANK_SUMMARY_SCHEMA_VERSION,
         "count": count,
         "headline": "今日央行資訊有限",
         "central_banks": [
@@ -1520,6 +1522,16 @@ def central_bank_window_for_date(day: datetime.date) -> tuple[datetime, datetime
     return start, end
 
 
+def central_bank_summary_needs_refresh(item: dict | None) -> bool:
+    if not item:
+        return True
+    try:
+        version = int(item.get("schema_version", 0) or 0)
+    except (TypeError, ValueError):
+        version = 0
+    return version < CENTRAL_BANK_SUMMARY_SCHEMA_VERSION
+
+
 def central_bank_target_days(now: datetime, data: dict) -> list[datetime.date]:
     latest_end = central_bank_window_end(now)
     raw_backfill = os.getenv("CENTRAL_BANK_BACKFILL_DAYS", "").strip()
@@ -1532,6 +1544,18 @@ def central_bank_target_days(now: datetime, data: dict) -> list[datetime.date]:
 
     if not data.get("items"):
         return [(latest_end - timedelta(days=i)).date() for i in range(CENTRAL_BANK_AUTO_BACKFILL_DAYS)]
+
+    stale_days = []
+    for item in data.get("items", []):
+        date_text = item.get("date", "")
+        if not date_text or not central_bank_summary_needs_refresh(item):
+            continue
+        try:
+            stale_days.append(datetime.fromisoformat(date_text).date())
+        except ValueError:
+            continue
+    if stale_days:
+        return sorted(set(stale_days), reverse=True)[:CENTRAL_BANK_AUTO_BACKFILL_DAYS]
 
     return [latest_end.date()]
 
@@ -1553,11 +1577,11 @@ def update_central_bank_summaries(conn) -> None:
         print("[SKIP] 央行摘要：未設定 OPENAI_API_KEY")
         return
 
-    existing_dates = {item.get("date") for item in data.get("items", [])}
+    existing_by_date = {item.get("date"): item for item in data.get("items", [])}
     changed = False
     for day in target_days:
         summary_date = day.isoformat()
-        if summary_date in existing_dates and not force_update:
+        if summary_date in existing_by_date and not force_update and not central_bank_summary_needs_refresh(existing_by_date.get(summary_date)):
             print(f"[CB] {summary_date} 已有央行摘要，略過")
             continue
 
@@ -1576,6 +1600,7 @@ def update_central_bank_summaries(conn) -> None:
                     "range_start": day_start.strftime("%Y-%m-%d %H:%M:%S"),
                     "range_end": day_end.strftime("%Y-%m-%d %H:%M:%S"),
                     "generated_at": datetime.now(TW).strftime("%Y-%m-%d %H:%M:%S"),
+                    "schema_version": CENTRAL_BANK_SUMMARY_SCHEMA_VERSION,
                     "count": len(items),
                     **result,
                 }
@@ -1583,7 +1608,7 @@ def update_central_bank_summaries(conn) -> None:
 
             data["items"] = [item for item in data.get("items", []) if item.get("date") != summary_date]
             data.setdefault("items", []).insert(0, summary_item)
-            existing_dates.add(summary_date)
+            existing_by_date[summary_date] = summary_item
             changed = True
         except Exception as e:
             print(f"[ERROR] 央行摘要 {summary_date} 失敗：{e}")
