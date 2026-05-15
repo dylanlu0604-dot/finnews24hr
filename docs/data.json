@@ -1,7 +1,117 @@
 {
-  "updated": "2026-05-16 03:27:59",
-  "count": 15579,
+  "updated": "2026-05-16 03:31:34",
+  "count": 15565,
   "items": [
+    {
+      "id": "4882864",
+      "time": "2026-05-16 03:30:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "委內瑞拉國家石油公司釋出宣告：將成立技術委員會徹查事故原因，此次事件不會影響委西部油氣業務正常開展。"
+    },
+    {
+      "id": "mkt:019e2d1e-4072-7663-82fc-2360d4c4dda4",
+      "time": "2026-05-16 03:30:16",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Crypto Concepts",
+        "Bitcoin"
+      ],
+      "text": "CFTC- BITCOIN NET LONG POSITION IS 1,259 CONTRACTS IN WEEK ENDED MAY 12 2026"
+    },
+    {
+      "id": "4882863",
+      "time": "2026-05-16 03:30:12",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）：截至5月12日當週，黃金投機者將淨多頭頭寸增加4,963手，至100,627手。白銀投機者將淨多頭頭寸增加5,254手，至16,195手。銅投機者將淨多頭頭寸增加10,380手，至73,523手。"
+    },
+    {
+      "id": "mkt:019e2d1e-1436-7663-82fc-1c1d99d47bf2",
+      "time": "2026-05-16 03:30:06",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "CFTC-SPECULATORS TRIM CBOT US 10-YEAR TREASURY FUTURES NET SHORT POSITION BY 34,102 CONTRACTS TO 781,167 IN WEEK ON MAY 12"
+    },
+    {
+      "id": "mkt:019e2d1e-0261-7663-82fc-15dcffc576c8",
+      "time": "2026-05-16 03:30:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "CFTC-JAPANESE YEN NET SHORT POSITION IS -75,102 CONTRACTS IN WEEK ENDED MAY 12 2026"
+    },
+    {
+      "id": "mkt:019e2d1d-ee8f-7663-82fc-0e1ef55816a0",
+      "time": "2026-05-16 03:29:56",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "CFTC-OIL SPECULATORS CUT WTI NET LONG POSITION BY 10,947 CONTRACTS TO 95,332 IN WEEK TO MAY 12"
+    },
+    {
+      "id": "4882862",
+      "time": "2026-05-16 03:29:54",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會：截至 5 月 12 日當週，四大紐約商業交易所、洲際交易所天然氣市場投機者淨空頭頭寸增加 13602 手，增至 22253 手。"
+    },
+    {
+      "id": "mkt:019e2d1d-ae76-7663-82fc-04bff0958f65",
+      "time": "2026-05-16 03:29:40",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "CFTC-COMEX COPPER SPECULATORS RAISE NET LONG POSITION BY 10,380 CONTRACTS TO 73,523 IN WEEK TO MAY 12"
+    },
+    {
+      "id": "mkt:019e2d1d-9dbd-7663-82fb-fe9a5901cc03",
+      "time": "2026-05-16 03:29:36",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "CFTC-COMEX SILVER SPECULATORS RAISE NET LONG POSITION BY 5,254 CONTRACTS TO 16,195 IN WEEK TO MAY 12"
+    },
+    {
+      "id": "mkt:019e2d1d-8f14-7663-82fb-f51ab13072d6",
+      "time": "2026-05-16 03:29:32",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "CFTC-COMEX GOLD SPECULATORS RAISE NET LONG POSITION BY 4,963 CONTRACTS TO 100,627 IN WEEK TO MAY 12"
+    },
     {
       "id": "mkt:019e2d1a-a360-7663-82fb-eda941d8da29",
       "time": "2026-05-16 03:26:20",
@@ -140201,234 +140311,6 @@
         "國際"
       ],
       "text": "美國商品期貨交易委員會（CFTC）資料顯示：截至2026年5月5日當週，英鎊淨空頭頭寸為-63,908張合約；歐元淨多頭頭寸為32202手合約；日元淨空頭持倉為61,738手合約；瑞郎淨空頭頭寸為-34521手合約。"
-    },
-    {
-      "id": "4869128",
-      "time": "2026-05-09 03:31:17",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會資料顯示，截至5月5日當週，洲際交易所原糖市場投機者將淨空頭頭寸削減39185手，至102448手。"
-    },
-    {
-      "id": "mkt:019e0912-989c-7222-b4aa-6b317f3af1cf",
-      "time": "2026-05-09 03:31:14",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "CFTC-SPECULATORS TRIM CBOT US 10-YEAR TREASURY FUTURES NET SHORT POSITION BY 23,868 CONTRACTS TO 815,269 IN WEEK ON MAY 05"
-    },
-    {
-      "id": "4869127",
-      "time": "2026-05-09 03:31:13",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會資料顯示，截至5月5日當週，洲際交易所（ICE）咖啡投機客將淨多頭頭寸增加1644手，至18271手。"
-    },
-    {
-      "id": "4869126",
-      "time": "2026-05-09 03:31:04",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會（CFTC）：截至5月5日當週，洲際交易所（ICE）棉花投機客將淨多頭頭寸增加12977手，至79676手；洲際交易所（ICE）可可市場投機客將淨空頭頭寸削減3685手，至32668手。"
-    },
-    {
-      "id": "4869125",
-      "time": "2026-05-09 03:30:53",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會（CFTC）資料顯示，截至5月5日當週，芝加哥期貨交易所（CBOT）玉米投機商將淨多頭頭寸增加77,572手，至206,559手；大豆投機客將淨多頭頭寸增加31638手，至143245手。"
-    },
-    {
-      "id": "mkt:019e0912-0b8a-7222-b4aa-67c4b34df83e",
-      "time": "2026-05-09 03:30:37",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Crypto Concepts",
-        "Bitcoin"
-      ],
-      "text": "CFTC- BITCOIN NET LONG POSITION IS 1,441 CONTRACTS IN WEEK ENDED MAY 05 2026"
-    },
-    {
-      "id": "mkt:019e0911-f60f-7222-b4aa-5d641aefc08f",
-      "time": "2026-05-09 03:30:32",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "CFTC- NATURAL GAS SPECULATORS IN FOUR MAJOR NYMEX, ICE MARKETS TRIM NET SHORT POSITION BY 2,466 CONTRACTS TO 8,652 IN WEEK TO MAY 5"
-    },
-    {
-      "id": "4869124",
-      "time": "2026-05-09 03:30:31",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會（CFTC）資料顯示，在截至2026年5月5日當週，比特幣淨多頭頭寸為1441張合約。"
-    },
-    {
-      "id": "mkt:019e0911-eabc-7222-b4aa-50b77c018392",
-      "time": "2026-05-09 03:30:29",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "CFTC-OIL SPECULATORS CUT WTI NET LONG POSITION BY 2,220 CONTRACTS TO 106,278 IN WEEK TO MAY 5"
-    },
-    {
-      "id": "mkt:019e0911-d86b-7222-b4aa-4dad2075bedb",
-      "time": "2026-05-09 03:30:24",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "CFTC-COMEX SILVER SPECULATORS RAISE NET LONG POSITION BY 196 CONTRACTS TO 10,941 IN WEEK TO MAY 5"
-    },
-    {
-      "id": "mkt:019e0911-cd74-7222-b4aa-414e7db4e940",
-      "time": "2026-05-09 03:30:22",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "CFTC-COMEX GOLD SPECULATORS RAISE NET LONG POSITION BY 4,090 CONTRACTS TO 95,664 IN WEEK TO MAY 5"
-    },
-    {
-      "id": "4869123",
-      "time": "2026-05-09 03:30:07",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會（CFTC）資料顯示，截至5月5日當週，股票基金投機客將芝加哥商品交易所（CME）標普500淨空頭頭寸削減6871手，至389571手。"
-    },
-    {
-      "id": "4869122",
-      "time": "2026-05-09 03:30:01",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會（CFTC）資料顯示，截至5月5日當週，天然氣投機者在紐約商品交易所（NYMEX）與洲際交易所（ICE）四大主要市場中，將淨空頭頭寸削減2466手，至8652手。"
-    },
-    {
-      "id": "4869121",
-      "time": "2026-05-09 03:29:56",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會（CFTC）：截至5月5日當週，原油投機者將西得克薩斯中質原油（WTI）的淨多頭頭寸削減2220手，至106278手。"
-    },
-    {
-      "id": "4869120",
-      "time": "2026-05-09 03:29:51",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會（CFTC）資料顯示，在截至5月5日的當周，紐約商品交易所（COMEX）黃金投機客將淨多頭頭寸增加4090手，至95664手。"
-    },
-    {
-      "id": "4869119",
-      "time": "2026-05-09 03:29:49",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會（CFTC）資料顯示，截至5月5日當週，紐約商品交易所（COMEX）白銀投機客將淨多頭頭寸增加196手，至10941手。"
-    },
-    {
-      "id": "4869118",
-      "time": "2026-05-09 03:29:46",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會（CFTC）資料顯示，在截至5月5日的當周，紐約商品交易所（COMEX）銅投機客將淨多頭頭寸增加2348手，至63144手。"
-    },
-    {
-      "id": "4869117",
-      "time": "2026-05-09 03:29:42",
-      "tags": [
-        "市場"
-      ],
-      "text": "週五（5月8日）紐約尾盤，美元兌日元跌0.13%，報156.72日元，本週累跌0.19%，交投區間為157.94-155.04日元，5月6日亞太午盤顯著跳水。歐元兌日元累漲0.28%，報184.64日元；英鎊兌日元累漲0.20%，報213.535日元。"
-    },
-    {
-      "id": "4869116",
-      "time": "2026-05-09 03:29:36",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會（CFTC）資料顯示，在截至5月5日當週，投機者將芝加哥期貨交易所（CBOT）美國5年期國債期貨的淨空頭頭寸削減了100106手，至1421299手。"
-    },
-    {
-      "id": "4869115",
-      "time": "2026-05-09 03:29:34",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會（CFTC）資料顯示，在截至5月5日當週，投機者將芝加哥期貨交易所（CBOT）美國10年期國債期貨的淨空頭頭寸削減23868手，至815269手。"
-    },
-    {
-      "id": "4869114",
-      "time": "2026-05-09 03:29:31",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會（CFTC）資料顯示，在截至5月5日的當周，投機者將芝加哥期貨交易所（CBOT）美國兩年期國債期貨的淨空頭頭寸削減35934手，至1673329手。"
-    },
-    {
-      "id": "4869113",
-      "time": "2026-05-09 03:29:27",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會（CFTC）資料顯示，投機客在截至5月5日當週，將芝加哥期貨交易所（CBOT）美國超長期國債期貨的淨空頭頭寸削減34,850手，至259,435手。"
-    },
-    {
-      "id": "4869112",
-      "time": "2026-05-09 03:29:25",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會（CFTC）資料顯示，截至5月5日當週，投機者將芝加哥期貨交易所（CBOT）美國國債期貨淨空頭頭寸增加59287手，至172942手。"
-    },
-    {
-      "id": "4869111",
-      "time": "2026-05-09 03:28:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中證金融研究院與華夏基金研究顯示 個人養老金基金助力投資者轉向長期投資】個人養老金制度啟動實施三年多來，投資情況如何？中證金融研究院與華夏基金開展的一項研究顯示：與普通基金產品相比，個人養老金基金的投資具有讓投資者“更易拿得住、交易行為更穩、投資體驗更好”等特點。 該研究基於2022年11月至2026年1月期間，超過157萬名投資者的交易資料，對個人養老金基金產品（Y份額）與普通賬戶基金產品（A/C份額）的投資行為進行比較。研究發現，養老金基金不僅是一種養老金產品，更有助於悄然改變個人投資者的行為方式。（證券時報）"
     }
   ]
 }
