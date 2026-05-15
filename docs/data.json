@@ -1,7 +1,95 @@
 {
-  "updated": "2026-05-16 00:09:01",
-  "count": 15546,
+  "updated": "2026-05-16 00:12:26",
+  "count": 15550,
   "items": [
+    {
+      "id": "te:markets:551258",
+      "time": "2026-05-16 00:12:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 1.87% Lower — The FTSE MIB Index fell 934 points or 1.87 percent on Friday to close at 49116 points. Leading the losses are STMicroelectronics (-4.37%), Buzzi Unicem (-4.25%) and Stellantis N.V. (-3.83%)."
+    },
+    {
+      "id": "4882680",
+      "time": "2026-05-16 00:11:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們對伊朗實施了力度極大的打擊，其程度超乎想象。"
+    },
+    {
+      "id": "4882679",
+      "time": "2026-05-16 00:11:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "殼牌巴西分公司發宣告稱，克里斯蒂亞諾·平託·達科斯塔已辭去執行長一職。"
+    },
+    {
+      "id": "te:markets:551257",
+      "time": "2026-05-16 00:11:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 2.07% Lower — The DAX Index dropped 506 points or 2.07 percent on Friday to close at 23951 points. Losses were led by HeidelbergCement (-7.16%), Siemens (-4.94%) and MTU Aero Engines AG (-4.87%)."
+    },
+    {
+      "id": "4882678",
+      "time": "2026-05-16 00:10:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍：梅圖拉地區附近響起敵方無人機來襲警報，相關詳情正在核查中。"
+    },
+    {
+      "id": "4882677",
+      "time": "2026-05-16 00:10:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：我並沒有低估伊朗的承受能力。"
+    },
+    {
+      "id": "4882676",
+      "time": "2026-05-16 00:10:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：英國石油公司計劃解散天然氣管道交易團隊，以擴張液化天然氣交易業務。"
+    },
+    {
+      "id": "mkt:019e2c67-250f-7663-82fa-6d72caab2c11",
+      "time": "2026-05-16 00:10:17",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "BP.L",
+        "Impact mixed"
+      ],
+      "text": "BP PLANS TO DISMANTLE PIPELINE GAS TRADING TEAM TO EXPAND LNG TRADING, SOURCES SAY"
+    },
+    {
+      "id": "te:markets:551256",
+      "time": "2026-05-16 00:10:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 1.67% Lower — The CAC 40 Index decreased 135 points or 1.67 percent on Friday to close at 7947 points. The decline was led by Unibail Rodamco (-6.40%), ArcelorMittal (-5.02%) and STMicroelectronics (-4.58%)."
+    },
     {
       "id": "4882675",
       "time": "2026-05-16 00:08:29",
@@ -140139,57 +140227,6 @@
         "其他"
       ],
       "text": "據知情人士透露，沙特配送APP Ninja為10億美元IPO遴選銀行。"
-    },
-    {
-      "id": "te:markets:549322",
-      "time": "2026-05-09 00:12:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE MIB Index Closes 0.00% Lower — The FTSE MIB Index dropped 1 points or 0.00 percent on Friday to close at 49290 points. Losses were led by Leonardo SpA (-4.08%), Fincantieri (-3.69%) and Intesa Sanpaolo (-2.43%). Offsetting the fall, top gainers were Prysmian (6.68%), Tenaris (2.53%) and Poste Italiane (2.25%)."
-    },
-    {
-      "id": "4868963",
-      "time": "2026-05-09 00:12:07",
-      "tags": [
-        "觀點",
-        "焦點",
-        "國際"
-      ],
-      "text": "高盛：我們預計今年夏季美國液化天然氣供應量或將較此前預期減少500萬噸/年。"
-    },
-    {
-      "id": "4868962",
-      "time": "2026-05-09 00:11:37",
-      "tags": [
-        "觀點",
-        "國際"
-      ],
-      "text": "高盛：美國液化天然氣供應增加會緩和霍爾木茲海峽局勢帶來的影響，但緩和力度不及我們此前預期。"
-    },
-    {
-      "id": "te:markets:549321",
-      "time": "2026-05-09 00:11:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The DAX Index Closes 1.32% Lower — The DAX Index decreased 325 points or 1.32 percent on Friday to close at 24339 points. The decline was led by Rheinmetall (-9.08%), Allianz (-5.04%) and MTU Aero Engines AG (-4.13%)."
-    },
-    {
-      "id": "4868961",
-      "time": "2026-05-09 00:10:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "【訊息人士稱目前霍爾木茲海峽周邊地區局勢平靜】當地時間8日，伊朗軍方訊息人士稱，目前霍爾木茲海峽周邊地區局勢平靜，但如果美國方面再次進入相關區域併為伊朗船隻“製造麻煩”，就可能發生衝突。8日下午，伊朗伊斯蘭革命衛隊釋出訊息稱，伊朗武裝部隊當天早些時候在霍爾木茲海峽水域與美國軍艦發生“零星衝突”。（央視新聞）"
     }
   ]
 }
