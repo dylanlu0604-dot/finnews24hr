@@ -1,7 +1,133 @@
 {
-  "updated": "2026-05-15 09:48:43",
-  "count": 15251,
+  "updated": "2026-05-15 09:52:13",
+  "count": 15248,
   "items": [
+    {
+      "id": "4881004",
+      "time": "2026-05-15 09:51:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數期貨下跌0.5%，抹去早盤漲幅。"
+    },
+    {
+      "id": "mkt:019e2954-3dfd-7bb5-b4d4-c5314c0fcb7e",
+      "time": "2026-05-15 09:50:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TRUMP: GETTING IRAN'S ENRICHED URANIUM IS MORE FOR PUBLIC RELATIONS THAN ANYTHING ELSE-FOX NEWS INTERVIEW"
+    },
+    {
+      "id": "4881003",
+      "time": "2026-05-15 09:50:17",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "三星電子股價下跌3%。"
+    },
+    {
+      "id": "mkt:019e2953-ca5b-7bb5-b4d4-bb71c5e4af45",
+      "time": "2026-05-15 09:50:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "TRUMP: IRAN'S ENRICHED URANIUM CAN BE ENTOMBED BUT I'D RATHER GET IT-FOX NEWS INTERVIEW"
+    },
+    {
+      "id": "mkt:019e2953-bb96-7bb5-b4d4-b74f7cf16dd8",
+      "time": "2026-05-15 09:50:10",
+      "tags": [
+        "MKT News",
+        "005930.KS",
+        "Impact bearish"
+      ],
+      "text": "SHARES OF SAMSUNG ELECTRONICS FALL 3%"
+    },
+    {
+      "id": "mkt:019e2953-a15a-7bb5-b4d4-aef74fe154f5",
+      "time": "2026-05-15 09:50:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bearish"
+      ],
+      "text": "SHENZHEN COMPONENT INDEX, CHINEXT DOWN OVER 1%"
+    },
+    {
+      "id": "4881002",
+      "time": "2026-05-15 09:49:38",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指跌1.02%，現報3910.885點；上證指數跌0.83%，現報4143.430點；深證成指跌1.03%，現報15583.169點。"
+    },
+    {
+      "id": "4881001",
+      "time": "2026-05-15 09:49:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗的濃縮鈾可封存掩埋，但我更傾向於取回。"
+    },
+    {
+      "id": "4881000",
+      "time": "2026-05-15 09:49:35",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深證成指跌1.01%，現報15587.215點；上證指數跌0.82%，現報4143.622點；創業板指跌0.98%，現報3912.269點。"
+    },
+    {
+      "id": "mkt:019e2953-2135-7bb5-b4d4-a41e109b9939",
+      "time": "2026-05-15 09:49:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite",
+        "Hang Seng Index"
+      ],
+      "text": "FTSE CHINA A50 INDEX FUTURES DOWN OVER 1%"
+    },
+    {
+      "id": "mkt:019e2952-883f-7bb5-b4d4-9dcade9d490b",
+      "time": "2026-05-15 09:48:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "CHINA'S STAR 50 INDEX DOWN OVER 1%"
+    },
+    {
+      "id": "4880999",
+      "time": "2026-05-15 09:48:35",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【先進封裝板塊短線走低，眾合科技跌停】先進封裝板塊短線走低，眾合科技、沃格光電跌停，共進股份、邁為股份、天通股份、方邦股份、聯泓新科等跟跌。"
+    },
     {
       "id": "mkt:019e2952-3a16-7bb5-b4d4-97eba683484e",
       "time": "2026-05-15 09:48:34",
@@ -137502,142 +137628,6 @@
         "市場"
       ],
       "text": "【CPO概念震盪回升 銘普光磁漲停】CPO概念震盪回升，銘普光磁漲停，聯特科技、劍橋科技、長光華芯、天孚通訊等紛紛拉昇。"
-    },
-    {
-      "id": "4867449",
-      "time": "2026-05-08 09:51:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "必和必拓集團：已與力拓合資成立尾礦管理聯盟（TMC）。"
-    },
-    {
-      "id": "4867448",
-      "time": "2026-05-08 09:50:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗陸軍總司令：“美方會後悔的”】據伊朗媒體8日報道，針對美方在波斯灣的冒險行徑，伊朗陸軍總司令哈塔米回應說，“他們會後悔的”。 (新華社)"
-    },
-    {
-      "id": "mkt:019e0547-6f66-7775-8cbc-88c6f2c166ab",
-      "time": "2026-05-08 09:50:28",
-      "tags": [
-        "MKT News",
-        "AMZN.O",
-        "Impact bearish"
-      ],
-      "text": "AMAZON: OTHER AWS SERVICES THAT DEPEND ON THE AFFECTED EC2 INSTANCES AND EBS VOLUMES IN THIS AVAILABILITY ZONE MAY ALSO EXPERIENCE IMPAIRMENTS"
-    },
-    {
-      "id": "4867447",
-      "time": "2026-05-08 09:50:13",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4720美元/盎司，日內漲0.72%。"
-    },
-    {
-      "id": "4867446",
-      "time": "2026-05-08 09:50:11",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4730美元/盎司，日內漲0.41%。"
-    },
-    {
-      "id": "4867445",
-      "time": "2026-05-08 09:50:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "【流感、疫苗板塊震盪走高，眾生藥業2連板】流感、疫苗板塊震盪走高，眾生藥業2連板，達安基因漲停，華蘭疫苗、東方生物、奧泰生物、聯環藥業、之江生物跟漲。"
-    },
-    {
-      "id": "mkt:019e0546-ee89-7775-8cbc-82a0f9e8f1f7",
-      "time": "2026-05-08 09:49:55",
-      "tags": [
-        "MKT News",
-        "Important",
-        "1347.HK",
-        "Impact bearish",
-        "981.HK",
-        "Hang Seng Index"
-      ],
-      "text": "HK SEMICONDUCTOR STOCKS FALL SHARPLY IN EARLY TRADE: ILUVATAR COREX DOWN OVER 7%, GIGADEVICE DOWN OVER 6%, HUA HONG SEMICONDUCTOR DOWN OVER 5%, SMIC DOWN OVER 4%"
-    },
-    {
-      "id": "4867444",
-      "time": "2026-05-08 09:49:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "亞馬遜：位於該可用區內、依賴受影響彈性雲端計算（EC2）例項及彈性塊儲存（EBS）卷的其他亞馬遜雲科技（AWS）服務也可能出現執行故障。"
-    },
-    {
-      "id": "mkt:019e0546-8da0-7775-8cbc-7ff350f66b57",
-      "time": "2026-05-08 09:49:30",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bullish",
-        "Copper"
-      ],
-      "text": "【Morgan Stanley Says Humanoid Robots Could Extend China’s Manufacturing Lead】Morgan Stanley analysts said China is positioned to extend its manufacturing dominance through humanoid robots and automation, drawing parallels with its earlier rise in electric vehicles. The report projected China’s global export share could rise from about 15% to 16.5% by 2030, supported by state-backed investment and rapid industrial scaling. It forecast annual humanoid robot sales could exceed 28,000 units this year, noting China already accounts for roughly 54% of global industrial robot installations in 2024, while also warning that intense domestic competition could weigh on pricing power."
-    },
-    {
-      "id": "4867443",
-      "time": "2026-05-08 09:49:25",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "亞馬遜雲科技（AWS）：正致力於將美國東部1區（US-EAST-1）受影響可用區的異常升溫緩解至正常水平。"
-    },
-    {
-      "id": "4867442",
-      "time": "2026-05-08 09:49:21",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨白銀突破80美元/盎司，日內漲2.08%。"
-    },
-    {
-      "id": "4867441",
-      "time": "2026-05-08 09:49:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內漲2%，現報80.13美元/盎司。"
-    },
-    {
-      "id": "4867440",
-      "time": "2026-05-08 09:49:07",
-      "tags": [],
-      "text": "【英偉達CEO黃仁勳：下一代AI基礎設施將需要大量的光學連線 銅線已無法滿足需求】美東時間週三，英偉達執行長黃仁勳在接受採訪時，大力讚揚其與康寧公司的新合作專案，稱其為美國重建技術供應鏈帶來重要機遇。黃仁勳表示，下一代人工智慧基礎設施將需要大量的光學連線，因為計算需求正在迅速增長，以至於銅線已經無法滿足需求。“我們將以一種前所未有的規模來擴大光學技術的應用，坦率地說，沒有哪家光學公司曾有過這樣的規模。”黃仁勳說道。 黃仁勳還表示，當前這波人工智慧投資所帶來的益處遠不止惠及科技公司。他指出，AI產業對電工、建築工人、晶片製造員工以及資料中心基礎設施專家的需求不斷上升，這就是該建設程序已經波及整個經濟領域的有力證明。"
-    },
-    {
-      "id": "mkt:019e0546-26f4-7775-8cbc-75c41deab293",
-      "time": "2026-05-08 09:49:03",
-      "tags": [
-        "MKT News",
-        "AMZN.O"
-      ],
-      "text": "AWS: WORKING TOWARDS MITIGATING INCREASED TEMPERATURES TO ITS NORMAL LEVELS IN AFFECTED AVAILABILITY ZONE IN US-EAST-1 REGION"
-    },
-    {
-      "id": "4867439",
-      "time": "2026-05-08 09:49:01",
-      "tags": [
-        "觀點"
-      ],
-      "text": "高盛：維持對中國股票超配評級。離岸中資股的估值更具吸引力，但MSCI中國指數中約37%的成分股來自與軟體相關的股票。考慮到當前市場更偏好科技硬體，認為這些股票可能需要先實現較強的盈利表現才能重新獲得市場關注，意味著H股在短期內可能跑輸A股。"
     }
   ]
 }
