@@ -1,7 +1,209 @@
 {
-  "updated": "2026-05-15 18:51:43",
-  "count": 15604,
+  "updated": "2026-05-15 18:55:19",
+  "count": 15612,
   "items": [
+    {
+      "id": "mkt:019e2b46-73ef-7bb5-b4dc-0d62e62835b9",
+      "time": "2026-05-15 18:54:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "BA.O",
+        "Impact bullish"
+      ],
+      "text": "BOEING SHARES ERASE EARLIER LOSSES TO RISE 1.2%"
+    },
+    {
+      "id": "mkt:019e2b46-73ee-7bb5-b4dc-014b18e7ee33",
+      "time": "2026-05-15 18:54:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "TRUMP: WILL MAKE A DECISION ON US SANCTIONS IN NEXT FEW DAYS"
+    },
+    {
+      "id": "mkt:019e2b46-73ed-7bb5-b4db-ff6249e0b0e0",
+      "time": "2026-05-15 18:54:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "DXY",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "IRAN'S FOREIGN MINISTER ARAQCHI SAYS WE HAVE RECEIVED MESSAGES FROM THE U.S. SAYING THEY ARE SEEKING CONTINUED TALKS"
+    },
+    {
+      "id": "mkt:019e2b46-73e1-7bb5-b4db-f3f318e42374",
+      "time": "2026-05-15 18:54:09",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "TRUMP: TALKED ABOUT US SANCTIONS ON CHINA OIL COMPANIES"
+    },
+    {
+      "id": "4882116",
+      "time": "2026-05-15 18:53:55",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "斯洛伐克總理：正考慮讓國有管道公司Transpetrol成為俄羅斯石油的直接採購方。"
+    },
+    {
+      "id": "mkt:019e2b46-61e8-7bb5-b4db-eb3f43a25108",
+      "time": "2026-05-15 18:53:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TRUMP: IRAN'S CAPACITY TO MAKE MISSILES ABOUT 80-85% GONE"
+    },
+    {
+      "id": "mkt:019e2b46-5f57-7bb5-b4db-e4eb3c4620fd",
+      "time": "2026-05-15 18:53:41",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "TRUMP: IRAN BRIDGES, ELECTRICAL CAPACITY SITES WE CAN HIT"
+    },
+    {
+      "id": "mkt:019e2b46-5dcc-7bb5-b4db-d906cb41f3cf",
+      "time": "2026-05-15 18:53:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TRUMP: DISCUSSED UKRAINE WITH XI"
+    },
+    {
+      "id": "4882115",
+      "time": "2026-05-15 18:53:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗的導彈發射裝置可能已經消失了80%。"
+    },
+    {
+      "id": "mkt:019e2b46-5aaa-7bb5-b4db-d763a4b3f67a",
+      "time": "2026-05-15 18:53:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade",
+        "S&P500",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "Copper"
+      ],
+      "text": "TRUMP: REDUCTION IN TARIFFS NOT DISCUSSED WITH CHINA"
+    },
+    {
+      "id": "mkt:019e2b46-0e83-7bb5-b4db-caa6c194677b",
+      "time": "2026-05-15 18:53:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade",
+        "Magnificent 7",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Regions",
+        "Greater China",
+        "NVDA.O"
+      ],
+      "text": "TRUMP: NVIDIA CHIP SALE DIDN'T COME UP WITH CHINA"
+    },
+    {
+      "id": "4882114",
+      "time": "2026-05-15 18:53:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談斯塔默能否留任：這“很難說”，斯塔默是個好人。"
+    },
+    {
+      "id": "mkt:019e2b45-be6a-7bb5-b4db-c4093aaad707",
+      "time": "2026-05-15 18:53:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "CNH"
+      ],
+      "text": "TRUMP: GOT A SOYBEAN DEAL WITH CHINA"
+    },
+    {
+      "id": "mkt:019e2b45-704d-7bb5-b4db-bffe0de0c500",
+      "time": "2026-05-15 18:53:12",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "TRUMP: CHINA WILL BUY BILLIONS OF DOLLARS IN US SOYBEANS"
+    },
+    {
+      "id": "mkt:019e2b45-35d1-7bb5-b4db-b2098ce367ca",
+      "time": "2026-05-15 18:53:00",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "TRUMP: STARMER IS A NICE MAN TRUMP ON STARMER'S PROSPECTS TO STAY ON: IT'S A 'TOUGH THING"
+    },
+    {
+      "id": "4882113",
+      "time": "2026-05-15 18:52:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【益諾思：張江生藥基地擬受讓352.81萬股 佔總股本2.50%】益諾思公告，股東上海張江生物醫藥基地開發有限公司擬轉讓352.81萬股，佔總股本2.50%。本次詢價轉讓不透過集中競價交易或大宗交易方式進行，受讓方受讓股份後6個月內不得轉讓。"
+    },
+    {
+      "id": "4882112",
+      "time": "2026-05-15 18:52:11",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "中國金融期貨交易所：中國金融期貨交易所批准中國郵政儲蓄銀行股份有限公司為指定存管銀行。至此，中國金融期貨交易所指定存管銀行增至16家。"
+    },
+    {
+      "id": "4882111",
+      "time": "2026-05-15 18:52:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【微芯生物：股東擬詢價轉讓5%公司股份】微芯生物公告，擬參與深圳微芯生物科技股份有限公司首發前股東詢價轉讓的股東為深圳市海粵門生物科技開發有限公司、深圳海德睿博投資有限公司、深圳市海德康成投資合夥企業和深圳市海德鑫成企業管理合夥企業；出讓方擬轉讓股份的總數為2214.04萬股，佔微芯生物總股本的比例為5%；微芯生物的實際控制人XIANPINGLU間接持有的公司股份不參與此次詢價轉讓；本次詢價轉讓不透過集中競價交易或大宗交易方式進行，不屬於透過二級市場減持。"
+    },
+    {
+      "id": "4882110",
+      "time": "2026-05-15 18:51:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部長阿拉格齊表示：我方已收到來自美國的訊息，美方稱其尋求繼續進行談判。"
+    },
     {
       "id": "4882109",
       "time": "2026-05-15 18:51:12",
@@ -140650,101 +140852,6 @@
         "其他"
       ],
       "text": "坦尚尼亞統計局資料顯示，4月通脹率同比為4.0%。"
-    },
-    {
-      "id": "4868379",
-      "time": "2026-05-08 18:55:01",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【晶科能源：擬出售晶科美國工廠75.1%股權，交易對價為1.92億美元】晶科能源公告，公司全資子公司晶科美國控股擬出售其全資子公司晶科美國工廠75.1%股權至FH，交易對價為1.92億美元。本次交易完成後，FH持有晶科美國工廠75.1%股權，晶科美國控股持有晶科美國工廠24.9%股權，晶科美國工廠將不再納入公司合併報表範圍內。"
-    },
-    {
-      "id": "4868378",
-      "time": "2026-05-08 18:54:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "丘鈦科技4月手機攝像頭模組銷售數量+31.8％。"
-    },
-    {
-      "id": "4868377",
-      "time": "2026-05-08 18:54:46",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【全球食品價格升至逾三年新高 伊朗戰爭傳導效應逐漸顯現】隨著伊朗戰爭擾亂供應鏈，全球食品價格升至三年多來的最高水平，消費者可能面臨更高的賬單。聯合國糧食及農業組織週五釋出報告稱，4月食品-大宗商品價格指數環比上漲1.6%，其中植物油、肉類和穀物漲幅居前。該指數同比上漲2.5%。已持續10周的伊朗戰爭實際上已導致關鍵航道霍爾木茲海峽關閉，擠壓柴油和化肥等重要農業投入品的流動，並推高其價格。這可能影響生產，並最終傳導至食品成本。"
-    },
-    {
-      "id": "4868376",
-      "time": "2026-05-08 18:54:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【大族數控：控股股東持股比例被動稀釋至73.43%】大族數控公告稱，因2023年限制性股票激勵計劃第二個歸屬期完成股份歸屬，公司總股本由483,528,652股增至489,007,741股。控股股東大族鐳射及大族控股在持股數量不變的情況下，合計持股比例由74.27%被動稀釋至73.43%，被動稀釋比例觸及1%整數倍。本次權益變動不涉及減持，不會導致控股股東、實際控制人變化，不影響公司治理結構和持續經營。"
-    },
-    {
-      "id": "4868375",
-      "time": "2026-05-08 18:53:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "【天康生物：2026年4月生豬銷售收入3.01億元 同比降20.79%】天康生物公告稱，2026年4月銷售生豬28.69萬頭，銷量環比下降11.78%，同比增長17.25%；銷售收入3.01億元，環比下降20.16%，同比下降20.79%。4月商品豬銷售均價8.92元/公斤，環比下降6.60%。1-4月，公司累計銷售生豬118.55萬頭，較去年同期增長12.33%；累計銷售收入13.79億元，較去年同期下降11.43%。"
-    },
-    {
-      "id": "4868374",
-      "time": "2026-05-08 18:53:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "【特寶生物：已完成1.99億元股份回購 佔總股本0.84%】特寶生物公告稱，公司於4月17日首次實施回購股份，截至5月8日，本次股份回購方案已實施完畢。公司透過集中競價交易方式累計回購343.96萬股，佔公司目前總股本的0.84%，回購均價58.14元/股，支付資金總額1.99億元。本次回購使用自有資金和股票回購專項貸款資金，不會對公司經營、財務和未來發展產生重大影響。回購股份將用於員工持股計劃或股權激勵、轉換可轉債，若三年內未實施，將依法減資並登出未轉讓股份。"
-    },
-    {
-      "id": "4868373",
-      "time": "2026-05-08 18:52:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "【天陽科技：35至40億元算力服務專案合作協議簽署】天陽科技公告，與北京啟明星漢科技有限公司及楊兵、趙凱於2026年5月6日簽署《專案合作協議》，共同落實《計算平臺服務協議》項下為期60個月的算力服務專案。公司負責提供本專案全部裝置採購資金，專案採購投資金額為35億元至40億元；丙方承諾將所持啟明星漢75%股權轉讓予公司，確保公司取得專案公司控制權，專案全部終端客戶收入進入共管賬戶並按協議分配。本協議雙方蓋章簽字、丙方簽字後生效。"
-    },
-    {
-      "id": "4868372",
-      "time": "2026-05-08 18:52:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "真主黨：為了保衛黎巴嫩及其人民，並針對以色列敵人違反停火協議以及襲擊黎巴嫩南部村莊的行動。"
-    },
-    {
-      "id": "4868371",
-      "time": "2026-05-08 18:52:03",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "【上交所：本週對*ST正平等異常波動退市風險警示股票、國晟科技等波動幅度較大的股票以及全球晶片LOF等溢價較高的基金進行重點監控】2026年4月27日至2026年5月8日，上交所對351起拉抬打壓、虛假申報等證券異常交易行為採取了自律監管措施，對*ST正平等異常波動退市風險警示股票、國晟科技等波動幅度較大的股票以及全球晶片LOF等溢價較高的基金進行重點監控，對29起上市公司重大事項等進行專項核查，向證監會上報涉嫌違法違規案件線索2起。"
-    },
-    {
-      "id": "te:markets:549224",
-      "time": "2026-05-08 18:51:59",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "India",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Sensex Finishes on Negative Note — India’s BSE Sensex closed about 0.7% down at 77,328 on Friday, marking the second day of losses, as investor caution rose amid renewed US–Iran hostilities that pushed oil prices higher and ongoing corporate earnings. The US and Iran reportedly exchanged fire in the Middle East, despite both sides downplaying the situation. President Donald Trump insisted the truce remained in effect as Washington awaited Tehran’s response to a new peace proposal. Banking and financial stocks remained under pressure, while gains in IT and consumer-focused stocks helped limit losses in the broader market. State Bank of India (SBI) dropped 6.6% after its fourth quarter earnings announcement failed to impress investors. Profits increased yoy in Q4FY26 but missed analysts estimates. Banking peers such as HDFC Bank (-1.8%), Axis Bank (-1.8%) and ICICI Bank (-1%), all declined. On the upside, Titan Company climbed 4.8% and led gains, after the company's consolidated net profit jumped over 35%."
-    },
-    {
-      "id": "4868370",
-      "time": "2026-05-08 18:51:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "【家聯科技：持股5%以上股東及其一致行動人持股比例降至5%以下】家聯科技公告稱，2021年12月9日至2026年5月7日，因公司資本公積金轉增股本、“家聯轉債”持有人轉股，公司總股本由1.2億股增至2.32億股，趙建光持股由675萬股增至1080萬股，其一致行動人增持76.4萬股。趙建光及其一致行動人持股比例由5.6250%降至4.9868%，不再為持股5%以上股東。本次變動不觸及要約收購，不影響控股股東、實際控制人及公司治理和經營。"
     }
   ]
 }
