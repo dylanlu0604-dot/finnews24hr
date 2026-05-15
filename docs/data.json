@@ -1,7 +1,26 @@
 {
-  "updated": "2026-05-16 06:29:42",
-  "count": 15488,
+  "updated": "2026-05-16 06:33:12",
+  "count": 15487,
   "items": [
+    {
+      "id": "4883003",
+      "time": "2026-05-16 06:31:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國最高法院作出裁決，駁回弗吉尼亞州民主黨在 11 月大選前重啟偏向民主黨眾議院選區劃分方案的訴求。"
+    },
+    {
+      "id": "te:markets:551310",
+      "time": "2026-05-16 06:30:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural Gas UK Soars by 6.84% — Top commodity gainers are Natural Gas UK (6.84%), Natural Gas EU (6.71%), Germany Natural Gas THE (5.10%), Crude Oil WTI (4.44%) and Brent Crude Oil (3.33%). Biggest losers are Methanol (-1.96%) and Ethanol (-1.41%)."
+    },
     {
       "id": "4883002",
       "time": "2026-05-16 06:28:03",
@@ -139610,33 +139629,6 @@
         "國際"
       ],
       "text": "美國：針對伊朗的制裁目標包括武器和無人機供應鏈。"
-    },
-    {
-      "id": "4869324",
-      "time": "2026-05-09 06:32:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊媒：哈爾克島附近油汙實為歐洲油輪排放物】據伊朗塔斯尼姆通訊社9日凌晨報道，伊朗伊斯蘭議會代表布什爾省的議員賈法爾·普爾卡巴尼說，有關“伊朗因儲油罐已滿而將石油排入海中”的媒體報道不實，是敵方發動心理戰的一部分。普爾卡巴尼表示，衛星影象顯示哈爾克島周邊發現油汙，實際是一艘歐洲油輪排放的油類殘留物和壓載水廢棄物所致，這一行為已對環境造成破壞。 (新華社)"
-    },
-    {
-      "id": "4869323",
-      "time": "2026-05-09 06:31:13",
-      "tags": [
-        "市場"
-      ],
-      "text": "週五（5月8日），美股儲存晶片與硬體供應鏈指數收漲8.05%，報188.37點，創收盤歷史新高，本週累計上漲18.60%。成分股悉數走高，Sandisk收漲16.60%，美光科技漲15.49%，應用材料、西部資料、拉姆研究、希捷科技、Rambus、泰瑞達TER漲6.04%-1.60%。"
-    },
-    {
-      "id": "te:markets:549354",
-      "time": "2026-05-09 06:30:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Gasoline Gains by 1.88% — Top commodity gainers are Gasoline (1.88%), Heating Oil (1.76%), Natural Gas UK (0.94%) and Brent Crude Oil (0.43%). Biggest losers are Methanol (-1.43%), Natural gas (-0.69%) and Crude Oil WTI (-0.14%)."
     }
   ]
 }
