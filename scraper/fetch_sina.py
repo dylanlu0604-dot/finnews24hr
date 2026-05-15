@@ -54,6 +54,10 @@ try:
     CENTRAL_BANK_SUMMARY_MIN_HOUR = int(os.getenv("CENTRAL_BANK_SUMMARY_MIN_HOUR", "18"))
 except ValueError:
     CENTRAL_BANK_SUMMARY_MIN_HOUR = 18
+try:
+    CENTRAL_BANK_AUTO_BACKFILL_DAYS = max(1, int(os.getenv("CENTRAL_BANK_AUTO_BACKFILL_DAYS", "7")))
+except ValueError:
+    CENTRAL_BANK_AUTO_BACKFILL_DAYS = 7
 
 CENTRAL_BANKS = [
     {"id": "fed", "name": "美國聯準會 Fed", "keywords": ("Fed", "Federal Reserve", "FOMC", "Powell", "Waller", "Bowman", "Jefferson", "Williams", "美聯儲", "聯準會", "鮑威爾")},
@@ -1414,42 +1418,98 @@ def call_openai_central_bank_summary(items: list[dict], start: datetime, end: da
     return json.loads(text)
 
 
+def empty_central_bank_summary(summary_date: str, start: datetime, end: datetime, count: int) -> dict:
+    return {
+        "id": summary_date.replace("-", ""),
+        "date": summary_date,
+        "range_start": start.strftime("%Y-%m-%d %H:%M:%S"),
+        "range_end": end.strftime("%Y-%m-%d %H:%M:%S"),
+        "generated_at": datetime.now(TW).strftime("%Y-%m-%d %H:%M:%S"),
+        "count": count,
+        "headline": "今日央行資訊有限",
+        "central_banks": [
+            {
+                "id": bank["id"],
+                "name": bank["name"],
+                "status": "今日資料不足",
+                "has_policy_decision": False,
+                "officials": [],
+                "expectations": [],
+                "reports": [],
+                "policy_analysis": [],
+            }
+            for bank in CENTRAL_BANKS
+        ],
+    }
+
+
+def central_bank_target_days(now: datetime, data: dict) -> list[datetime.date]:
+    raw_backfill = os.getenv("CENTRAL_BANK_BACKFILL_DAYS", "").strip()
+    if raw_backfill:
+        try:
+            days = max(1, int(float(raw_backfill)))
+            return [(now - timedelta(days=i)).date() for i in range(days)]
+        except ValueError:
+            print(f"[ERROR] CENTRAL_BANK_BACKFILL_DAYS 格式錯誤（需為數字）：{raw_backfill}，改用今日")
+
+    if not data.get("items"):
+        return [(now - timedelta(days=i)).date() for i in range(CENTRAL_BANK_AUTO_BACKFILL_DAYS)]
+
+    return [now.date()]
+
+
 def update_central_bank_summaries(conn) -> None:
     now = datetime.now(TW)
-    if now.hour < CENTRAL_BANK_SUMMARY_MIN_HOUR and not os.getenv("CENTRAL_BANK_FORCE_UPDATE", "").strip():
+    force_update = os.getenv("CENTRAL_BANK_FORCE_UPDATE", "").strip()
+    data = load_central_bank_summaries()
+    target_days = central_bank_target_days(now, data)
+
+    if target_days == [now.date()] and now.hour < CENTRAL_BANK_SUMMARY_MIN_HOUR and not force_update:
         print(f"[CB] 尚未到每日央行摘要更新時間（{CENTRAL_BANK_SUMMARY_MIN_HOUR}:00 後）")
         return
-    data = load_central_bank_summaries()
-    summary_date = now.date().isoformat()
-    if any(item.get("date") == summary_date for item in data.get("items", [])) and not os.getenv("CENTRAL_BANK_FORCE_UPDATE", "").strip():
-        print(f"[CB] {summary_date} 已有央行摘要，略過")
-        return
+
     if not OPENAI_API_KEY:
-        print(f"[SKIP] 央行摘要 {summary_date}：未設定 OPENAI_API_KEY")
+        print("[SKIP] 央行摘要：未設定 OPENAI_API_KEY")
         return
 
-    day_start = datetime.combine(now.date(), datetime.min.time(), tzinfo=TW)
-    items = central_bank_news_for_day(conn, day_start, now)
-    if len(items) < 3:
-        print(f"[CB] {summary_date} 央行相關快訊不足 ({len(items)} 筆)，略過")
-        return
+    existing_dates = {item.get("date") for item in data.get("items", [])}
+    changed = False
+    for day in target_days:
+        summary_date = day.isoformat()
+        if summary_date in existing_dates and not force_update:
+            print(f"[CB] {summary_date} 已有央行摘要，略過")
+            continue
 
-    try:
-        result = call_openai_central_bank_summary(items, day_start, now)
-        summary_item = {
-            "id": summary_date.replace("-", ""),
-            "date": summary_date,
-            "range_start": day_start.strftime("%Y-%m-%d %H:%M:%S"),
-            "range_end": now.strftime("%Y-%m-%d %H:%M:%S"),
-            "generated_at": now.strftime("%Y-%m-%d %H:%M:%S"),
-            "count": len(items),
-            **result,
-        }
-        data.setdefault("items", []).insert(0, summary_item)
+        day_start = datetime.combine(day, datetime.min.time(), tzinfo=TW)
+        day_end = now if day == now.date() else day_start + timedelta(days=1)
+        items = central_bank_news_for_day(conn, day_start, day_end)
+
+        try:
+            if len(items) < 3:
+                summary_item = empty_central_bank_summary(summary_date, day_start, day_end, len(items))
+                print(f"[CB] {summary_date} 央行相關快訊不足 ({len(items)} 筆)，寫入空摘要")
+            else:
+                result = call_openai_central_bank_summary(items, day_start, day_end)
+                summary_item = {
+                    "id": summary_date.replace("-", ""),
+                    "date": summary_date,
+                    "range_start": day_start.strftime("%Y-%m-%d %H:%M:%S"),
+                    "range_end": day_end.strftime("%Y-%m-%d %H:%M:%S"),
+                    "generated_at": datetime.now(TW).strftime("%Y-%m-%d %H:%M:%S"),
+                    "count": len(items),
+                    **result,
+                }
+                print(f"[OK] 央行摘要：新增 {summary_date} ({len(items)} 則快訊)")
+
+            data["items"] = [item for item in data.get("items", []) if item.get("date") != summary_date]
+            data.setdefault("items", []).insert(0, summary_item)
+            existing_dates.add(summary_date)
+            changed = True
+        except Exception as e:
+            print(f"[ERROR] 央行摘要 {summary_date} 失敗：{e}")
+
+    if changed:
         save_central_bank_summaries(data)
-        print(f"[OK] 央行摘要：新增 {summary_date} ({len(items)} 則快訊)")
-    except Exception as e:
-        print(f"[ERROR] 央行摘要 {summary_date} 失敗：{e}")
 
 
 # ════════════════════════════

@@ -13,6 +13,10 @@ on:
         description: "清除最近 N 天 AI 摘要，讓下次執行重新產生；排程執行請留空"
         required: false
         default: ""
+      central_bank_backfill_days:
+        description: "一次性回補央行摘要的天數；排程執行請留空"
+        required: false
+        default: ""
 
 concurrency:
   group: scraper
@@ -45,6 +49,7 @@ jobs:
           OPENAI_SUMMARY_MODEL: ${{ vars.OPENAI_SUMMARY_MODEL || 'gpt-4.1-mini' }}
           AI_SCORE_BACKFILL_DAYS: ${{ github.event.inputs.ai_score_backfill_days || '' }}
           CLEAR_RECENT_SUMMARY_DAYS: ${{ github.event.inputs.clear_recent_summary_days || '' }}
+          CENTRAL_BANK_BACKFILL_DAYS: ${{ github.event.inputs.central_bank_backfill_days || '' }}
           GH_PAT: ${{ secrets.GH_PAT }}
         run: |
           git config user.name  "github-actions[bot]"
@@ -55,13 +60,16 @@ jobs:
           git -C /tmp/page-repo config user.name  "github-actions[bot]"
           git -C /tmp/page-repo config user.email "github-actions[bot]@users.noreply.github.com"
 
-          if [ -n "$AI_SCORE_BACKFILL_DAYS" ] || [ -n "$CLEAR_RECENT_SUMMARY_DAYS" ]; then
+          if [ -n "$AI_SCORE_BACKFILL_DAYS" ] || [ -n "$CLEAR_RECENT_SUMMARY_DAYS" ] || [ -n "$CENTRAL_BANK_BACKFILL_DAYS" ]; then
             rounds=1
             if [ -n "$AI_SCORE_BACKFILL_DAYS" ]; then
               echo "[BACKFILL] one-shot AI summary + score backfill for ${AI_SCORE_BACKFILL_DAYS} days"
             fi
             if [ -n "$CLEAR_RECENT_SUMMARY_DAYS" ]; then
               echo "[CLEANUP] one-shot recent AI summary cleanup for ${CLEAR_RECENT_SUMMARY_DAYS} days"
+            fi
+            if [ -n "$CENTRAL_BANK_BACKFILL_DAYS" ]; then
+              echo "[BACKFILL] one-shot central bank summary backfill for ${CENTRAL_BANK_BACKFILL_DAYS} days"
             fi
           else
             rounds=20
