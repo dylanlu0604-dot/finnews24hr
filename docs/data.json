@@ -1,7 +1,78 @@
 {
-  "updated": "2026-05-15 08:28:55",
-  "count": 15192,
+  "updated": "2026-05-15 08:32:17",
+  "count": 15191,
   "items": [
+    {
+      "id": "4880851",
+      "time": "2026-05-15 08:31:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "惠好公司宣佈季度基本現金股息為每股0.21美元。"
+    },
+    {
+      "id": "4880850",
+      "time": "2026-05-15 08:31:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌1%，現報82.63美元/盎司。"
+    },
+    {
+      "id": "4880849",
+      "time": "2026-05-15 08:30:54",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4630美元/盎司，日內跌1.22%。"
+    },
+    {
+      "id": "4880848",
+      "time": "2026-05-15 08:30:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【宇環數控：適配藍寶石、碳化矽等材料加工的磨拋裝置已實現銷售】宇環數控(002903)5月13日在機構調研時表示，公司磨床產品在半導體領域的應用研發，涉及多道加工工序及多類基礎材料，包括碳化矽、藍寶石、銻化鎵、陶瓷基板等品類。在碳化矽加工裝置領域，公司產品可應用於晶錠端面磨削、外圓磨削、參考邊磨削等工序。目前，適配藍寶石、碳化矽等材料加工的磨拋裝置已實現銷售。公司產品應用於半導體領域的業務發展具有較大的不確定性，請投資者審慎決策，注意投資風險。"
+    },
+    {
+      "id": "4880847",
+      "time": "2026-05-15 08:30:16",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4630美元/盎司，日內跌0.49%。"
+    },
+    {
+      "id": "te:markets:550882",
+      "time": "2026-05-15 08:30:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Palladium Hits 5-week Low — Palladium decreased to 1444.00 USD/t.oz, the lowest since April 2026. Over the past 4 weeks, Palladium lost 8.54%, and in the last 12 months, it increased 50.36%."
+    },
+    {
+      "id": "4880846",
+      "time": "2026-05-15 08:29:31",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行官員：4月石腦油價格環比上漲83.2%，同比上漲79.4%。"
+    },
+    {
+      "id": "4880845",
+      "time": "2026-05-15 08:29:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本經濟產業大臣赤澤亮正：如果中東局勢的影響持續，可以動用2026財年的預算儲備。"
+    },
     {
       "id": "4880844",
       "time": "2026-05-15 08:27:23",
@@ -137027,100 +137098,6 @@
         "Importance 1"
       ],
       "text": "Heating Oil Futures Rebound — Heating oil futures for delivery at the New York Harbor climbed toward $4.0 per gallon, extending their rebound from a two-week low, as renewed attacks in the Middle East reinforced concerns over deeper energy disruptions in the region. The US and Iran exchanged fire in the Strait of Hormuz, with both sides accusing the other of initiating the confrontation, putting a month-long ceasefire in doubt. Oil and refined fuel shipments through the Strait have been severely disrupted since the war began in March, putting pressure on refineries and pushing heating oil futures to a record high of $4.6 in March. In response, refineries across Europe and Asia have adjusted operations to produce more diesel and jet fuel at the expense of gasoline output. Even so, fuel shortages forced major European airlines to cancel thousands of flights, while tightening supplies in Asia prompted China to resume diesel exports."
-    },
-    {
-      "id": "mkt:019e04ff-7ce0-7775-8cbb-9ec908568c53",
-      "time": "2026-05-08 08:31:52",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "CHINA FINANCE MINISTRY ISSUES 45.8 BILLION YUAN TO SUPPORT DEVELOPMENT OF PRESCHOOL EDUCATION - CCTV"
-    },
-    {
-      "id": "4867329",
-      "time": "2026-05-08 08:31:41",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本五年期國債收益率上升1個基點，至1.860%。"
-    },
-    {
-      "id": "te:markets:548953",
-      "time": "2026-05-08 08:30:58",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Silver Steadies as US-Iran Tensions Persist — Silver traded near $79 an ounce on Friday after experiencing sharp volatility in the previous session, as renewed clashes between the US and Iran weakened hopes for a near-term peace agreement and reignited inflation concerns. US Central Command said American forces intercepted Iranian attacks and launched defensive strikes while guided missile destroyers moved through the Strait of Hormuz, while stressing that the military does not seek further escalation. Meanwhile, the Trump administration is awaiting Iran’s response to a proposal aimed at reopening Hormuz and ending the nearly 10-week conflict, with reports indicating that Tehran is expected to respond through Pakistan within the next two days. Silver remains down over 15% since the conflict began, as the effective closure of the Strait of Hormuz triggered a historic surge in energy prices, fueling inflation fears and strengthening expectations that central banks may need to raise interest rates."
-    },
-    {
-      "id": "4867328",
-      "time": "2026-05-08 08:30:31",
-      "tags": [
-        "資料",
-        "國際"
-      ],
-      "text": "日本4月標普全球服務業採購經理人指數（PMI）為51.0，初值為51.2。日本4月份標普全球綜合PMI報52.2。"
-    },
-    {
-      "id": "mkt:019e04fd-c4c6-7775-8cbb-9166a01ce6e3",
-      "time": "2026-05-08 08:30:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Composite PMI (Apr) | actual 52.2 | previous 52.4"
-    },
-    {
-      "id": "mkt:019e04fd-c437-7775-8cbb-8e90e14acfa0",
-      "time": "2026-05-08 08:30:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Services PMI (Apr) | actual 51 | previous 51.2"
-    },
-    {
-      "id": "mkt:019e04fd-b8ce-7775-8cbb-866bf9703925",
-      "time": "2026-05-08 08:29:57",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Amazon",
-        "Market Themes",
-        "Magnificent 7",
-        "AMZN.O",
-        "Impact bearish"
-      ],
-      "text": "AWS: INVESTIGATING INSTANCE IMPAIRMENTS IN A SINGLE AVAILABILITY ZONE IN THE US-EAST-1 REGION"
-    },
-    {
-      "id": "te:markets:548952",
-      "time": "2026-05-08 08:29:55",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Wheaton Precious Metals earnings below expectations at 1.28 USD — Wheaton Precious Metals (WPM) released earnings per share at 1.28 USD, compared to market expectations of 1.44 USD."
-    },
-    {
-      "id": "4867327",
-      "time": "2026-05-08 08:29:08",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【財政部下達支援學前教育發展資金458億元 推進學前教育普及普惠安全優質發展】為貫徹落實黨中央、國務院決策部署，推進學前教育普及普惠安全優質發展，財政部近期下達2026年支援學前教育發展資金458億元，比上年增加125.6億元，增長38%，重點支援地方鞏固落實好學前教育免保育教育費政策；補足普惠性資源短板，提高保教質量，鞏固家庭經濟困難兒童等群體資助制度。“十四五”時期，中央財政累計安排支援學前教育發展資金1262億元。從2025年秋季學期起，免除公辦幼兒園學前一年在園兒童保育教育費,對民辦園適齡兒童給予相應減免，惠及超過1400萬在園兒童，減輕家庭教育支出超過200億元。下一步，財政部將會同教育部指導地方充分發揮省級統籌作用，合理安排中央補助資金和地方應承擔的免保育教育費補助資金，保障幼兒園正常運轉。同時，深入推進學前教育擴優提質工作，加快補齊短板弱項，穩步提升幼兒園辦園水平。"
     }
   ]
 }
