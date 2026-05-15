@@ -1,7 +1,31 @@
 {
-  "updated": "2026-05-15 14:34:19",
-  "count": 15324,
+  "updated": "2026-05-15 14:37:47",
+  "count": 15321,
   "items": [
+    {
+      "id": "4881421",
+      "time": "2026-05-15 14:37:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國住房大臣裡德：我預計不會有人針對斯塔默發起領袖挑戰。"
+    },
+    {
+      "id": "4881420",
+      "time": "2026-05-15 14:36:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "【傑富瑞：通脹和高赤字成為對長期債券保持謹慎的理由】Jefferies的Mohit Kumar在一份報告中表示，投資者不僅應關注通貨膨脹，還應關注更高的赤字，這是對長期債券保持謹慎的理由。霍爾木茲海峽依然關閉，這維持了對海灣地區能源輸送的干擾，並使油價保持在高位。“未來幾個月我們可能會看到宣佈多項燃料補貼支援措施，“這位全球經濟學家說。他說，更高的通脹和赤字支援了Jefferies的觀點，即投資者應遠離收益率曲線的較長端，並保持收益率曲線變陡的偏好。Jefferies擔憂的順序依然是英國、歐洲，然後是美國。"
+    },
+    {
+      "id": "4881419",
+      "time": "2026-05-15 14:35:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星工會表示，工會領導層與公司執行長及高管舉行會談。"
+    },
     {
       "id": "4881418",
       "time": "2026-05-15 14:33:47",
@@ -138283,61 +138307,6 @@
         "Crypto Concepts"
       ],
       "text": "KRAKEN: INVESTIGATING ISSUE WITH GENSYN (AI) FUNDING GATEWAY, DEPOSITS & WITHDRAWALS MAY BE DELAYED AT THIS TIME"
-    },
-    {
-      "id": "te:economy:549085",
-      "time": "2026-05-08 14:37:04",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Sweden",
-        "New Orders",
-        "Importance 1"
-      ],
-      "text": "Sweden Factory Orders Fall 7.3% in March — Total orders received by the Swedish industry fell by 7.3% year-on-year in March 2026, reversing from a downwardly revised 0.6% increase in the previous month. Orders from foreign customers dropped by 14.5%, worsening from a 1.3% decline in February, while domestic orders rose 6.5%, accelerating from a 4.9% increase. Among industrial groups, the intermediate goods industry recorded a sharper decline (-25.4% vs -5.6%), while the durable consumer goods industry also turned negative (-1.8% vs 11.2%). Meanwhile, growth accelerated in the energy-related sector (19.3% vs 6.0%) and the non-durable consumer goods industry (10.7% vs 5.1%). On a monthly basis, industrial orders fell 1.4% in March, unchanged from an upwardly revised 1.4% decline in the previous month. In the first quarter of the year, total orders were down 4.0%, with the domestic market growing 3.7% and the export market declining 8.2%."
-    },
-    {
-      "id": "mkt:019e064d-9bc8-7113-a191-1e7e44ed5395",
-      "time": "2026-05-08 14:36:49",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "KOREA’S KOSPI RISES 13.6% THIS WEEK, MARKING ITS BIGGEST WEEKLY GAIN SINCE OCTOBER 2008"
-    },
-    {
-      "id": "4867797",
-      "time": "2026-05-08 14:36:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄代表稱北京香山論壇先導會具有獨特性】2026年北京香山論壇先導會今天開幕，各國代表圍繞“國際秩序與國際法治”進行了第一場圓桌研討。俄羅斯參會代表安德烈·科爾圖諾夫會後在接受採訪時表示：這場討論是直言不諱的、開放的，討論的重點是尋求解決方案而非相互指責，這在某些方面具有獨特性。（央視軍事）"
-    },
-    {
-      "id": "4867796",
-      "time": "2026-05-08 14:35:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "【航行警告！渤海軍事演習】據中國海事局網站訊息，葫蘆島海事局釋出航行警告，5月8日19時至23時，渤海部分海域進行軍事演習，禁止駛入。"
-    },
-    {
-      "id": "mkt:019e064b-c9bf-7113-a191-1697d1948591",
-      "time": "2026-05-08 14:34:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "AIR INDIA DISCUSSED FURLOUGHING NONTECHNICAL EMPLOYEES; CUTTING FLIGHT CAPACITY BY OVER 20% FOR THE NEXT THREE MONTHS"
-    },
-    {
-      "id": "4867795",
-      "time": "2026-05-08 14:34:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度航空已討論安排非技術員工休假；未來三個月將削減逾20%的航班運力。"
     }
   ]
 }
