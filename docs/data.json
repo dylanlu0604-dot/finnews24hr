@@ -1,7 +1,59 @@
 {
-  "updated": "2026-05-15 23:34:07",
-  "count": 15518,
+  "updated": "2026-05-15 23:37:32",
+  "count": 15517,
   "items": [
+    {
+      "id": "mkt:019e2c49-0650-7663-82f9-d82a0544c652",
+      "time": "2026-05-15 23:37:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EUROPEAN INDEXES CLOSED LOWER: DAX -2.04%, FTSE 100 -1.79%, CAC 40 -1.60%, EURO STOXX 50 -1.65%, IBEX 35 -1.07%, FTSE MIB -1.82%"
+    },
+    {
+      "id": "mkt:019e2c48-69d7-7663-82f9-d1f94600d06c",
+      "time": "2026-05-15 23:36:43",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "US 10-YEAR TREASURY YIELDS RISE 10 BASIS POINTS TO 4.58% ON DAY"
+    },
+    {
+      "id": "4882627",
+      "time": "2026-05-15 23:36:29",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國10年期國債收益率上漲10個基點至4.58%。"
+    },
+    {
+      "id": "4882625",
+      "time": "2026-05-15 23:35:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我同意伊朗暫停核計劃二十年，但這必須是實打實的承諾。"
+    },
+    {
+      "id": "te:economy:551246",
+      "time": "2026-05-15 23:35:38",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Colombia",
+        "GDP Annual Growth Rate",
+        "Importance 1"
+      ],
+      "text": "Colombian Economy Grows 2.2% in Q1 2026 — Colombia’s economy expanded 2.2% year-on-year in the first quarter of 2026, matching market expectations but easing slightly from 2.3% growth in the previous quarter. The main contributors to annual GDP growth were public administration, defense, education, health and social services, which rose 5.7%, followed by wholesale and retail trade, transportation, accommodation and food services, up 2.9%, and manufacturing industries, which also increased 2.9%. On a quarterly basis, GDP grew 0.6% in Q1, accelerating from a 0.1% expansion in the fourth quarter of 2025."
+    },
     {
       "id": "4882624",
       "time": "2026-05-15 23:33:58",
@@ -41,6 +93,14 @@
         "市場"
       ],
       "text": "法國CAC 40指數下跌1.64%，西班牙IBEX指數下跌1.22%。"
+    },
+    {
+      "id": "4882619",
+      "time": "2026-05-15 23:32:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗戰爭衝擊供應 美國煉油廠加速滿負荷生產】由於伊朗戰爭切斷了波斯灣的能源供應，美國煉油商正在加緊生產燃料，以填補汽油、柴油和航空燃油的供應缺口。分析人士表示，預計這種快速增長的趨勢將使許多煉油廠在至少2026年剩餘時間內達到有效最大產能。歐洲和其他地區備用原油供應的減少，加上中東地區戰後基礎設施短期內難以恢復，正在推高原油加工利潤率。分析人士表示，預計這種快速增長的趨勢將使許多煉油廠在至少2026年剩餘時間內達到有效最大產能。美國能源資訊署的資料顯示，所謂“產能利用率”已連續三週攀升，目前已接近92%。近幾周來，汽油產量觸及九個月來的最高水平，而航空燃油產量則達到了自2024年夏季以來的最高水平。"
     },
     {
       "id": "4882618",
@@ -139879,71 +139939,6 @@
         "市場"
       ],
       "text": "明晟公司MSCI北歐國家指數跌1.0%，報380.04點，創4月29日以來收盤新低。在十個板塊中，北歐工業板塊跌幅最大。Genmab A/S跌6.7%，在一眾北歐個股裡表現最差。"
-    },
-    {
-      "id": "mkt:019e083c-6b7a-7aa7-bba6-d55eeffc795a",
-      "time": "2026-05-08 23:37:17",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "DAX",
-        "Impact bearish",
-        "FTSE100"
-      ],
-      "text": "EUROPEAN INDEXES CLOSED LOWER, DAX -1.3%, CAC 40 -1.1%, EURO STOXX 50 -1.0%, FTSE 100 -0.4%"
-    },
-    {
-      "id": "mkt:019e083c-3772-7aa7-bba6-c888a49c9bef",
-      "time": "2026-05-08 23:37:04",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "CITIGROUP CEO JANE FRASER SAYS PLANNING ON GOING NEXT WEEK TO CHINA WITH TRUMP - CNBC"
-    },
-    {
-      "id": "4868934",
-      "time": "2026-05-08 23:36:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "牙買加 4 月國際儲備 64.51 億美元。"
-    },
-    {
-      "id": "mkt:019e083b-d2e7-7aa7-bba6-c36779a9a5c5",
-      "time": "2026-05-08 23:36:38",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "ICE U.K. NAT GAS JUNE FUTURES SETTLE AT 108.11 PENCE/THERM"
-    },
-    {
-      "id": "4868933",
-      "time": "2026-05-08 23:36:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "據報道：美國聯邦陪審團裁定四名南佛羅里達男子涉嫌刺殺海地總統罪名成立。"
-    },
-    {
-      "id": "4868932",
-      "time": "2026-05-08 23:36:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄總統新聞秘書：俄羅斯不會主動與歐盟對話】俄羅斯總統新聞秘書佩斯科夫8日表示，俄方不會主動與歐盟對話。歐洲理事會主席安東尼奧·科斯塔日前表示，相信歐盟“有潛力”與俄羅斯總統普京談判。佩斯科夫在當天舉行的新聞釋出會上回答記者相關提問時表示，如果歐洲準備與俄羅斯對話，俄羅斯願以與之對等的力度來推動對話。但鑑於此前歐盟所持的立場，正如普京總統多次指出的那樣，俄方不會主動發起與歐盟的對話。佩斯科夫強調，導致雙方關係歸零的始作俑者並非俄羅斯，而是歐盟及個別歐洲國家。（新華社）"
-    },
-    {
-      "id": "4868931",
-      "time": "2026-05-08 23:35:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【勝宏科技：目前在手訂單飽滿 業務進展順利】勝宏科技釋出投資者關係活動記錄表公告，目前公司在手訂單飽滿，業務進展順利，訂單生產和交付均在正常履行中。公司在惠州配置了mSAP車間，該產能目前用於滿足1.6T光模組的生產需求，產能利用率處於良好水平。此外，公司正積極推進CoWop技術的研發及生產工作，該技術需同時具備高階HDI和mSAP工藝能力，預計相關PCB產品價值量將有較大幅度提升。公司始終與客戶保持密切溝通，根據客戶需求推進產能準備工作，全力配合新產品的研發及量產工作。"
     }
   ]
 }
