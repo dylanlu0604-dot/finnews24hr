@@ -689,12 +689,12 @@ def compact_te_market_text(text: str) -> str:
     return f"{title} — {first_sentence}"[:220]
 
 
-def compact_news_input(items: list[dict]) -> str:
+def compact_news_input(items: list[dict], max_chars: int = 260) -> str:
     lines = []
     for item in items:
         item_tags = item.get("tags", [])
         tags = ",".join(item_tags[:5])
-        text = clean_text(item.get("text", ""))[:260]
+        text = clean_text(item.get("text", ""))[:max_chars]
         if "Trading Economics" in item_tags and "Markets" in item_tags:
             text = compact_te_market_text(text)
             text = f"【TE市場行情，只保留本時段價格反應；已移除央行/數據/財報背景，禁止推回政策或數據新事件】{text}"
@@ -1286,7 +1286,7 @@ def central_bank_keywords() -> list[str]:
     return keywords
 
 
-def central_bank_news_for_day(conn, start: datetime, end: datetime, limit: int = 220) -> list[dict]:
+def central_bank_news_for_day(conn, start: datetime, end: datetime, limit: int = 320) -> list[dict]:
     start_text = start.strftime("%Y-%m-%d %H:%M:%S")
     end_text = end.strftime("%Y-%m-%d %H:%M:%S")
     keywords = central_bank_keywords()
@@ -1338,20 +1338,20 @@ def call_openai_central_bank_summary(items: list[dict], start: datetime, end: da
 請對該央行做「深度政策分析」，不要套用平日的三段架構。policy_release 包含下列子欄位（皆為條列字串陣列，除 summary 外）：
 
 - has_release：true
-- summary：2-4 句總結今日政策動向與市場含意（80-200 字），需明確點出利率水準、政策立場（鷹/鴿/中性）、與市場預期落差。
-- decision：利率決議結果與政策工具變動明細。涵蓋政策利率、存款利率、貸款利率、量化緊縮/寬鬆規模、資產負債表方向、準備金率、前次水準對比、決議票數分歧（若有）。每點 60-150 字。最少 3 點。
-- statement：政策聲明關鍵段落逐點拆解。涵蓋通膨敘事變化、就業/成長語氣、金融穩定段落、措辭新增或刪除（hawkish/dovish wording changes）。每點 80-180 字。最少 3 點。
-- economic_view：央行對經濟、通膨、就業、金融條件的最新評估，含 SEP / 員工預測 / 通膨路徑 / GDP 預測修訂。若有預測表格內容請逐項列出新舊值對比。每點 80-180 字。最少 2 點。
-- forward_guidance：前瞻指引、路徑訊號、官員對下一次會議的暗示、條件式承諾、QT 或 QE 路徑、終端利率（terminal rate）線索。每點 80-180 字。最少 2 點。
-- press_conference：記者會 / 行長談話重點。逐題或逐主題整理（通膨、勞動市場、財政、匯率、地緣、市場波動等），引用具體用語（如 "data-dependent"、"meeting by meeting"、"sufficiently restrictive"）。每點 80-200 字。最少 4 點。若當日確認有決議但記者會內容資料有限，至少根據可得資訊整理 2 點並註明「資料有限」。
-- market_reaction：市場對該決議與記者會的即時反應與後續定價變化。涵蓋短端利率期貨、OIS / 掉期定價、殖利率曲線變化、匯率、股市、信用利差。每點 60-150 字。最少 2 點。
+- summary：3-5 句總結今日政策動向與市場含意（120-260 字），需明確點出利率水準、政策立場（鷹/鴿/中性）、與市場預期落差。
+- decision：利率決議結果與政策工具變動明細。涵蓋政策利率、存款利率、貸款利率、量化緊縮/寬鬆規模、資產負債表方向、準備金率、前次水準對比、決議票數分歧（若有）。每點 100-220 字。最少 3 點。
+- statement：政策聲明關鍵段落逐點拆解。涵蓋通膨敘事變化、就業/成長語氣、金融穩定段落、措辭新增或刪除（hawkish/dovish wording changes）。每點 120-260 字。最少 3 點。
+- economic_view：央行對經濟、通膨、就業、金融條件的最新評估，含 SEP / 員工預測 / 通膨路徑 / GDP 預測修訂。若有預測表格內容請逐項列出新舊值對比。每點 120-260 字。最少 2 點。
+- forward_guidance：前瞻指引、路徑訊號、官員對下一次會議的暗示、條件式承諾、QT 或 QE 路徑、終端利率（terminal rate）線索。每點 120-260 字。最少 2 點。
+- press_conference：記者會 / 行長談話重點。逐題或逐主題整理（通膨、勞動市場、財政、匯率、地緣、市場波動等），引用具體用語（如 "data-dependent"、"meeting by meeting"、"sufficiently restrictive"）。每點 120-280 字。最少 4 點。若當日確認有決議但記者會內容資料有限，至少根據可得資訊整理 2 點並註明「資料有限」。
+- market_reaction：市場對該決議與記者會的即時反應與後續定價變化。涵蓋短端利率期貨、OIS / 掉期定價、殖利率曲線變化、匯率、股市、信用利差。每點 100-220 字。最少 2 點。
 
 ═══════════════════════════════
 模式 B：當日無貨幣政策發布 → 維持三段，has_release=false，policy_release 各子陣列輸出空陣列、summary 為空字串
 ═══════════════════════════════
-- officials：當天該央行官員發言整理。逐位官員、逐個主題分點。每點 50-120 字，必須含官員姓名、發言場合（演講/受訪/國會作證/論壇）、具體論點（利率立場、通膨判斷、就業看法、政策時點）。最少 3 點（若有任何資料）。最多 15 點。
-- expectations：市場對央行政策預期。每點 50-120 字，需具體寫出 CME FedWatch / OIS / 路透調查 / 經濟學家中位數預測 / 利率期貨機率變化等可量化定價，並對比前一日或前一週基準。最少 2 點。最多 12 點。
-- reports：當天央行非決議類報告、研究、會議紀要、金融穩定、貼現窗、SOMA 操作、貨幣供給數據、外匯存底等。每點 50-120 字，需點出報告名稱、核心數字、政策意涵。最少 2 點（若有資料）。最多 12 點。
+- officials：當天該央行官員發言整理。逐位官員、逐個主題分點；同一位官員若有多則快訊，需合併成完整段落，不可只列短標題。每點 120-260 字，必須含官員姓名、發言場合（演講/受訪/國會作證/論壇；若資料未提供場合則註明未明）、具體論點（利率立場、通膨判斷、就業看法、政策時點）、與政策含意。最少 3 點（若有任何資料）。最多 18 點。
+- expectations：市場對央行政策預期。每點 90-200 字，需具體寫出 CME FedWatch / OIS / 路透調查 / 經濟學家中位數預測 / 利率期貨機率變化等可量化定價，並對比前一日或前一週基準；若沒有對比基準，說明目前定價代表的政策含意。最少 2 點。最多 12 點。
+- reports：當天央行非決議類報告、研究、會議紀要、金融穩定、貼現窗、SOMA 操作、貨幣供給數據、外匯存底等。每點 90-200 字，需點出報告名稱、核心數字、政策意涵。最少 2 點（若有資料）。最多 12 點。
 - 沒有任何資料的段才允許空陣列。
 
 ═══════════════════════════════
@@ -1361,6 +1361,8 @@ def call_openai_central_bank_summary(items: list[dict], start: datetime, end: da
 - 絕對禁止把澳幣、英鎊、股市、黃金、原油、加密、一般債券行情等市場新聞塞進官員發言、聲明或報告。
 - 若只是市場行情文章引用央行作為背景，不要納入 reports / policy_release；除非文章有明確的利率期貨、調查或政策機率，才可放入 expectations。
 - 不要寫「快訊顯示」「根據快訊」「資料指出」等元敘事；直接寫重點。
+- 官員發言必須「完整整理」，不可輸出「某某強調央行獨立性重要性」這類短句；至少要交代他/她為何這樣說、與利率/通膨/就業/金融穩定的關聯，以及可能影響的政策路徑。
+- 若同一位官員在同一天有多個主題，優先合併成一點完整段落；只有在主題差異很大時才拆成多點。
 - 數字、百分比、機率、票數請完整保留並標明單位（bps、%、人）。
 - 中文用詞採台灣財經媒體慣例：聯準會、歐洲央行、英國央行、日本央行、澳洲聯儲、加拿大央行、印度央行、巴西央行、瑞士央行、升息、降息、利率期貨、殖利率、量化緊縮、貼現窗、政策利率、存款便利、再融資。
 - status 欄位：模式 A 寫「政策決議日」「會議紀要日」「政策報告日」等具體事件；模式 B 寫「追蹤中」「官員密集發言」「無重大事件」等。
@@ -1373,7 +1375,7 @@ def call_openai_central_bank_summary(items: list[dict], start: datetime, end: da
 - 每家央行都必須提供完整的 policy_release 物件結構（即使是模式 B，也要回傳 has_release=false + 所有子欄位的空值）。
 
 資料庫快訊：
-{compact_news_input(items)}
+{compact_news_input(items, max_chars=520)}
 """.strip()
 
     bullet_array = {
@@ -1456,7 +1458,7 @@ def call_openai_central_bank_summary(items: list[dict], start: datetime, end: da
                 "schema": schema,
             }
         },
-        "max_output_tokens": 14000,
+        "max_output_tokens": 20000,
     }
     r = requests.post(
         "https://api.openai.com/v1/responses",
@@ -1537,6 +1539,8 @@ def central_bank_target_days(now: datetime, data: dict) -> list[datetime.date]:
 def update_central_bank_summaries(conn) -> None:
     now = datetime.now(TW)
     force_update = os.getenv("CENTRAL_BANK_FORCE_UPDATE", "").strip()
+    backfill_days = os.getenv("CENTRAL_BANK_BACKFILL_DAYS", "").strip()
+    force_update = force_update or backfill_days
     data = load_central_bank_summaries()
     target_days = central_bank_target_days(now, data)
 

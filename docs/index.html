@@ -419,6 +419,28 @@ function initLanguageSelect() {
     font-family: 'DM Mono', monospace; font-size: .56rem; color: var(--muted);
     white-space: nowrap; padding-top: .12rem;
   }
+  .cb-controls {
+    display: flex; align-items: center; gap: .55rem; flex-wrap: wrap;
+    padding: .55rem .9rem;
+    background: rgba(8,8,16,.65);
+    border-bottom: 1px solid var(--border-bright);
+    flex-shrink: 0;
+  }
+  .cb-count {
+    margin-left: auto;
+    font-family: 'DM Mono', monospace;
+    font-size: .55rem;
+    color: var(--muted);
+    white-space: nowrap;
+  }
+  .cb-release-summary {
+    color: #c8c5bd;
+    font-size: .75rem;
+    line-height: 1.78;
+    padding: .65rem .75rem;
+    background: rgba(201,168,76,.045);
+    border-left: 2px solid var(--gold-dim);
+  }
   .cb-scroll { flex: 1; min-height: 0; overflow-y: auto; padding: .45rem .9rem 1.2rem; }
   .cb-scroll::-webkit-scrollbar { width: 3px; }
   .cb-scroll::-webkit-scrollbar-track { background: #0b0b14; }
@@ -622,6 +644,11 @@ function initLanguageSelect() {
           <div id="cbHeadline" class="cb-headline">載入央行摘要中…</div>
         </div>
         <div id="cbUpdated" class="cb-updated">每日更新</div>
+      </div>
+      <div class="cb-controls">
+        <span class="ai-pills-label">摘要日期</span>
+        <select id="cbDateSelect" class="ai-period-select" aria-label="選擇央行摘要日期"></select>
+        <span id="cbSummaryCount" class="cb-count"></span>
       </div>
       <div class="cb-scroll">
         <div id="centralBankList"><div class="ai-empty">載入中…</div></div>
@@ -1104,6 +1131,7 @@ document.querySelectorAll('.m-tab').forEach(tab => {
    AI 摘要
 ════════════════════════════════ */
 let aiSummaries = [], activeAiId = '', activeAiMonth = '', activeAiDate = '';
+let centralBankSummaries = [], activeCbDate = '';
 
 function aiDateKey(item) {
   return (item.slot_start || item.slot_end || '').slice(0, 10);
@@ -1375,17 +1403,51 @@ function renderBulletSection(title, items) {
     : '<li>今日無明確資料。</li>';
   return `
     <div class="cb-section">
-      <div class="cb-section-title">${attrEscape(title)}</div>
+      <div class="cb-section-title">${attrEscape(stripMarkdownHeading(title))}</div>
       <ol class="cb-list">${rows}</ol>
     </div>
   `;
+}
+
+function stripMarkdownHeading(text) {
+  return String(text || '').replace(/^#+\s*/, '');
+}
+
+function formatCbDateOption(dateKey) {
+  return dateKey ? dateKey.replaceAll('-', '.') : '—';
+}
+
+function renderPolicyRelease(release) {
+  if (!release || !release.has_release) return '';
+  const sections = [
+    release.summary ? `
+      <div class="cb-section">
+        <div class="cb-section-title">政策發布總結</div>
+        <div class="cb-release-summary">${attrEscape(release.summary)}</div>
+      </div>
+    ` : '',
+    renderBulletSection('決議與政策工具', release.decision),
+    renderBulletSection('政策聲明拆解', release.statement),
+    renderBulletSection('經濟與通膨評估', release.economic_view),
+    renderBulletSection('前瞻指引', release.forward_guidance),
+    renderBulletSection('記者會與官員說明', release.press_conference),
+    renderBulletSection('市場反應', release.market_reaction),
+  ];
+  return sections.join('');
 }
 
 function renderCentralBankSummary(item) {
   const root = document.getElementById('centralBankList');
   const headline = document.getElementById('cbHeadline');
   const updated = document.getElementById('cbUpdated');
-  if (!root || !headline || !updated) return;
+  const dateSelect = document.getElementById('cbDateSelect');
+  const count = document.getElementById('cbSummaryCount');
+  if (!root || !headline || !updated || !dateSelect || !count) return;
+  const dates = centralBankSummaries.map(summary => summary.date).filter(Boolean);
+  dateSelect.innerHTML = dates.map(date => `
+    <option value="${attrEscape(date)}" ${date === activeCbDate ? 'selected' : ''}>${attrEscape(formatCbDateOption(date))}</option>
+  `).join('');
+  count.textContent = dates.length ? `${dates.length} days` : '';
   if (!item) {
     headline.textContent = '尚無央行摘要';
     updated.textContent = '每日更新';
@@ -1395,10 +1457,11 @@ function renderCentralBankSummary(item) {
   headline.textContent = item.headline || '央行摘要';
   updated.textContent = `${item.date || '—'}｜${item.generated_at || '—'}`;
   root.innerHTML = (item.central_banks || []).map(bank => {
-    const sections = [
-      renderBulletSection('## 1. 當天該央行官員發言整理', bank.officials),
-      renderBulletSection('## 2. 市場對於央行的政策預期', bank.expectations),
-      renderBulletSection('## 3. 當天央行重要報告發布', bank.reports),
+    const release = renderPolicyRelease(bank.policy_release);
+    const sections = release || [
+      renderBulletSection('1. 當天該央行官員發言整理', bank.officials),
+      renderBulletSection('2. 市場對於央行的政策預期', bank.expectations),
+      renderBulletSection('3. 當天央行重要報告發布', bank.reports),
     ].join('');
     return `
       <article class="cb-card">
@@ -1415,7 +1478,12 @@ function renderCentralBankSummary(item) {
 async function loadCentralBankSummaries() {
   try {
     const data = await (await fetch(CENTRAL_BANK_SUMMARY_URL + '?t=' + Date.now())).json();
-    renderCentralBankSummary((data.items || [])[0]);
+    centralBankSummaries = data.items || [];
+    const dates = centralBankSummaries.map(item => item.date).filter(Boolean);
+    if (!activeCbDate || !dates.includes(activeCbDate)) {
+      activeCbDate = dates[0] || '';
+    }
+    renderCentralBankSummary(centralBankSummaries.find(item => item.date === activeCbDate) || centralBankSummaries[0]);
   } catch (e) {
     document.getElementById('cbHeadline').textContent = '載入失敗';
     document.getElementById('centralBankList').innerHTML =
@@ -1441,6 +1509,11 @@ document.getElementById('aiDateSelect').addEventListener('change', e => {
   activeAiDate = e.target.value;
   activeAiId = '';
   renderAiSummaries();
+});
+
+document.getElementById('cbDateSelect').addEventListener('change', e => {
+  activeCbDate = e.target.value;
+  renderCentralBankSummary(centralBankSummaries.find(item => item.date === activeCbDate));
 });
 
 loadMarket();
