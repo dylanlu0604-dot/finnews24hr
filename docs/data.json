@@ -1,7 +1,55 @@
 {
-  "updated": "2026-05-15 14:44:43",
-  "count": 15334,
+  "updated": "2026-05-15 14:48:10",
+  "count": 15336,
   "items": [
+    {
+      "id": "te:economy:551028",
+      "time": "2026-05-15 14:47:38",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Vietnam",
+        "News",
+        "Importance 1"
+      ],
+      "text": "World Bank Expects 2026 Vietnam GDP Growth to Ease to 6.8% — Vietnam's economic growth is expected to slow to 6.8% this year, down from an 8% expansion last year. Mariam J. Sherman, World Bank Director for Vietnam, said on Friday that the country's outlook remains solid but risks remain elevated in the near term. “Softer global conditions are making Vietnam’s external environment more challenging, with the oil shock adding to downside risks,” Sherman said. Vietnam’s banking sector has come under funding strain, with credit growth outpacing deposit mobilisation. Vietnam targets annual GDP growth of at least 10% for this year and the rest of the decade. However, the country is facing inflationary pressure due to the impact of the Middle East conflict, which has pushed up oil prices. The country’s annual inflation accelerated to 5.46% in April, marking the highest level since January 2020 and above the government’s target of 4.5%. Meanwhile, the World Bank forecasts Vietnam’s 2026 inflation at 4.2%."
+    },
+    {
+      "id": "4881436",
+      "time": "2026-05-15 14:46:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【報告：轉型礦產開發環境風險加劇，資訊披露缺失成核心癥結】公眾環境研究中心（IPE）在北京釋出《轉型礦產責任開發呼喚資訊公開》報告。報告指出，在全球可再生能源轉型背景下，銅、鈷、鋰、鎳等轉型礦產需求激增，但其開採和加工環節帶來的生態環境與社會風險正同步攀升。同時，全球主要礦企在礦區層級的關鍵環境績效資訊披露存在嚴重缺口，導致投資者、下游企業及社群公眾難以評估真實風險，成為制約可持續供應鏈建設的核心癥結。（澎湃）"
+    },
+    {
+      "id": "4881435",
+      "time": "2026-05-15 14:45:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "【燃料短缺，印度首都要求公務員每週兩天居家辦公】據法新社5月14日報道，在中東戰爭擾亂供應鏈之際，印度總理納倫德拉·莫迪呼籲減少燃料消耗。14日，印度首都新德里宣佈了節約燃料措施，其中一項措施是設立政府僱員居家辦公日。 印度是地區內少數幾個沒有提高國內消費者汽油和柴油價格或實行定量供應的國家之一。 然而，在美國和以色列對伊朗的襲擊導致伊朗幾乎完全封鎖了具有戰略意義的霍爾木茲海峽之後，印度提高了液化石油氣（LPG）的價格，液化石油氣在印度是主要的烹飪燃料。 （參考訊息）"
+    },
+    {
+      "id": "mkt:019e2a61-801d-7bb5-b4d7-ebe8d55c85bb",
+      "time": "2026-05-15 14:44:53",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "SHANGHAI'S MOST ACTIVE NICKEL CONTRACT FALLS MORE THAN 5%"
+    },
+    {
+      "id": "4881434",
+      "time": "2026-05-15 14:44:35",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【英國央行加息定價顯示：油價是今日市場主要推手】交易員今日早盤進一步押注英國央行加息，此番市場走勢與歐洲央行相關交易動向保持一致。這表明中東局勢變化以及油價波動，是主導本輪行情的核心因素。歐洲國債收益率同樣大幅飆升，義大利 10 年期國債收益率上行 8 個基點。這為英國國債開盤走勢提供了重要參照基準，也可用來衡量市場對英國政壇動盪的擔憂程度。"
+    },
     {
       "id": "4881433",
       "time": "2026-05-15 14:44:19",
@@ -138367,51 +138415,6 @@
         "MKT News"
       ],
       "text": "ISRAELI DRONE STRIKE TARGETS SOUTHERN LEBANON"
-    },
-    {
-      "id": "te:markets:549093",
-      "time": "2026-05-08 14:46:54",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "ASX 200 Sinks But Logs First Weekly Gain in Four — The S&P/ASX 200 tumbled 134 points, or 1.5%, to finish at 8,744 on Friday, ending two days of gains as profit-taking and broad sector weakness dragged the market lower. The sell-off followed Wall Street’s slump Thursday amid renewed Middle East tensions after U.S. and Iranian forces exchanged fire in the Strait of Hormuz, each blaming the other for the escalation. Sentiment was further pressured by the Reserve Bank’s third rate hike this year, earlier this week, lifting the cash rate to 4.35% amid persistent inflation risks and second-round price pressures from geopolitical uncertainty. Losses were broad-based, led by financials, retail trade, logistics, and energy minerals. The four major banks plunged between 1.5% and 4.8%. Other notable laggards included Wisetech Global (-4.6%), ASX Ltd. (-3.2%), Bluescope Steel Ltd. (-2.7%), and Lynas Rare Earths Ltd. (-2.5%). Still, markets edged up 0.2% for the week, up for the first time in four weeks, helped by bargain hunting."
-    },
-    {
-      "id": "te:markets:549092",
-      "time": "2026-05-08 14:46:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Iron Ore Extends Rally on Stronger Steel Prices — Iron ore futures rose above CNY 815 per ton, climbing toward their strongest levels since February last year and heading for a fourth consecutive weekly gain as firmer steel prices continued to support demand for the key steelmaking material. Analysts said stronger steel prices have improved profit margins for mills, encouraging greater iron ore purchasing activity. Prices were also supported by a continued decline in steel inventories, which have now fallen for seven straight weeks, signaling potential restocking demand for raw materials. On the supply side, Brazilian iron ore shipments increased to 34.57 million tons in April from 30.07 million tons a year earlier, highlighting ample global supply conditions. Meanwhile, mining operations resumed this week at two blocks of Guinea’s massive Simandou iron ore project, operated by a consortium led by Baowu Resources, after workers ended a strike."
-    },
-    {
-      "id": "mkt:019e0655-3583-7113-a191-34178d2701e4",
-      "time": "2026-05-08 14:45:07",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Hot",
-        "Star Stocks",
-        "NVIDIA",
-        "Alibaba",
-        "Market Themes",
-        "Magnificent 7",
-        "Policy",
-        "Breaking News 24h",
-        "Chinese Policy & Markets",
-        "NVDA.O",
-        "Impact bearish",
-        "BABA.N",
-        "Impact mixed"
-      ],
-      "text": "【US Said to Suspect Nvidia Chips Smuggled to Alibaba Via Thailand】A Bangkok-based company involved in Thailand’s national AI initiatives is suspected of helping divert billions of dollars worth of Super Micro Computer Inc. servers containing advanced Nvidia Corp. chips to China in violation of U.S. export controls, according to people familiar with the matter. U.S. prosecutors alleged in a March indictment that Super Micro’s co-founder worked with a Southeast Asian company identified only as “Company-1” and various brokers to route restricted AI semiconductors into China. The unidentified company was said to be Bangkok-based OBON Corp., while some servers allegedly ended up with Alibaba Group. Alibaba denied any involvement in smuggling activities and said it has no business relationship with Super Micro, OBON or the brokers mentioned in the indictment."
     }
   ]
 }
