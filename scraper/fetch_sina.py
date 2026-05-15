@@ -58,7 +58,7 @@ try:
     CENTRAL_BANK_AUTO_BACKFILL_DAYS = max(1, int(os.getenv("CENTRAL_BANK_AUTO_BACKFILL_DAYS", "7")))
 except ValueError:
     CENTRAL_BANK_AUTO_BACKFILL_DAYS = 7
-CENTRAL_BANK_SUMMARY_SCHEMA_VERSION = 4
+CENTRAL_BANK_SUMMARY_SCHEMA_VERSION = 5
 
 CENTRAL_BANKS = [
     {"id": "fed", "name": "美國聯準會 Fed", "keywords": ("Fed", "Federal Reserve", "FOMC", "Powell", "Waller", "Bowman", "Jefferson", "Williams", "美聯儲", "聯準會", "鮑威爾")},
@@ -71,6 +71,62 @@ CENTRAL_BANKS = [
     {"id": "bcb", "name": "巴西央行 BCB", "keywords": ("BCB", "Banco Central do Brasil", "Brazil central bank", "巴西央行")},
     {"id": "snb", "name": "瑞士央行 SNB", "keywords": ("SNB", "Swiss National Bank", "Schlegel", "瑞士央行")},
 ]
+
+CENTRAL_BANK_OFFICIAL_ALIASES = {
+    "fed": {
+        "巴爾": ("巴爾", "Barr"),
+        "威廉姆斯": ("威廉姆斯", "Williams"),
+        "施密德": ("施密德", "Schmid"),
+        "米蘭": ("米蘭", "Miran"),
+        "哈瑪克": ("哈瑪克", "Hammack"),
+        "鮑威爾": ("鮑威爾", "Powell"),
+        "沃勒": ("沃勒", "Waller"),
+        "鮑曼": ("鮑曼", "Bowman"),
+        "傑佛森": ("傑佛森", "Jefferson"),
+        "柯林斯": ("柯林斯", "Collins"),
+        "卡什卡里": ("卡什卡里", "Kashkari"),
+        "古爾斯比": ("古爾斯比", "Goolsbee"),
+        "戴利": ("戴利", "Daly"),
+        "博斯蒂克": ("博斯蒂克", "Bostic"),
+        "洛根": ("洛根", "Logan"),
+        "巴爾金": ("巴爾金", "Barkin"),
+    },
+    "ecb": {
+        "拉加德": ("拉加德", "Lagarde"),
+        "施納貝爾": ("施納貝爾", "Schnabel"),
+        "維勒魯瓦": ("維勒魯瓦", "Villeroy"),
+        "Stournaras": ("Stournaras", "斯圖納拉斯"),
+        "Kazaks": ("Kazaks", "卡扎克斯"),
+        "納格爾": ("納格爾", "Nagel"),
+        "雷恩": ("雷恩", "Rehn"),
+        "穆勒": ("穆勒", "Muller", "Müller"),
+        "埃爾登森": ("埃爾登森", "Elderson"),
+    },
+    "boe": {
+        "Huw Pill": ("Huw Pill", "Pill", "皮爾"),
+        "曼恩": ("曼恩", "Mann"),
+        "貝利": ("貝利", "Bailey"),
+    },
+    "boj": {
+        "植田": ("植田", "Ueda"),
+        "田村": ("田村", "Tamura"),
+        "增一行": ("增一行",),
+        "黑田": ("黑田", "Kuroda"),
+    },
+    "rba": {
+        "Bullock": ("Bullock", "布洛克"),
+    },
+    "boc": {
+        "Macklem": ("Macklem", "麥克勒姆"),
+    },
+    "rbi": {
+        "Das": ("Das", "達斯"),
+        "Malhotra": ("Malhotra", "馬爾霍特拉"),
+    },
+    "snb": {
+        "Schlegel": ("Schlegel", "施萊格爾"),
+    },
+}
 
 AI_MARKET_CONTEXT_SYMBOLS = [
     {"symbol": "ES=F", "name": "S&P 500 期貨", "kind": "price"},
@@ -1306,27 +1362,66 @@ def central_bank_news_for_day(conn, start: datetime, end: datetime, limit: int =
     return [{"id": r[0], "time": r[1], "tags": json.loads(r[2]), "text": r[3]} for r in rows]
 
 
-def central_bank_short_officials(result: dict, min_chars: int = 180) -> list[str]:
-    short_items = []
+def central_bank_required_officials(items: list[dict]) -> dict[str, list[str]]:
+    required: dict[str, list[str]] = {}
+    for item in items:
+        text = clean_text(item.get("text", ""))
+        if not text:
+            continue
+        for bank_id, aliases_by_name in CENTRAL_BANK_OFFICIAL_ALIASES.items():
+            for official, aliases in aliases_by_name.items():
+                if any(alias and alias in text for alias in aliases):
+                    required.setdefault(bank_id, [])
+                    if official not in required[bank_id]:
+                        required[bank_id].append(official)
+    return required
+
+
+def format_required_officials(required: dict[str, list[str]]) -> str:
+    if not required:
+        return "- 未辨識到明確官員名單；仍需依資料逐位整理。"
+    lines = []
+    bank_names = {bank["id"]: bank["name"] for bank in CENTRAL_BANKS}
+    for bank_id, officials in required.items():
+        lines.append(f"- {bank_names.get(bank_id, bank_id)}：{'、'.join(officials)}")
+    return "\n".join(lines)
+
+
+def official_item_text(item) -> str:
+    if isinstance(item, dict):
+        return " ".join(str(item.get(key, "")) for key in ("official", "venue", "analysis"))
+    return str(item or "")
+
+
+def central_bank_official_issues(result: dict, required: dict[str, list[str]], min_chars: int = 180) -> list[str]:
+    issues = []
     for bank in result.get("central_banks", []):
         release = bank.get("policy_release") or {}
         if release.get("has_release"):
             continue
+        bank_id = str(bank.get("id", "")).lower()
         for idx, item in enumerate(bank.get("officials") or [], start=1):
             if isinstance(item, dict):
                 official = str(item.get("official", "")).strip()
                 text = item.get("analysis", "")
                 if any(marker in official for marker in ("、", "/", "與", "和", ",")):
-                    short_items.append(f"{bank.get('name', bank.get('id', '央行'))} officials 第 {idx} 點混入多位官員：{official}")
+                    issues.append(f"{bank.get('name', bank.get('id', '央行'))} officials 第 {idx} 點混入多位官員：{official}")
             else:
                 text = item
             compact = re.sub(r"\s+", "", str(text or ""))
             if compact and len(compact) < min_chars:
-                short_items.append(f"{bank.get('name', bank.get('id', '央行'))} officials 第 {idx} 點只有 {len(compact)} 字")
-    return short_items
+                issues.append(f"{bank.get('name', bank.get('id', '央行'))} officials 第 {idx} 點只有 {len(compact)} 字")
+
+        rendered_officials = "\n".join(official_item_text(item) for item in bank.get("officials") or [])
+        for official in required.get(bank_id, []):
+            aliases = CENTRAL_BANK_OFFICIAL_ALIASES.get(bank_id, {}).get(official, (official,))
+            if not any(alias and alias in rendered_officials for alias in aliases):
+                issues.append(f"{bank.get('name', bank.get('id', '央行'))} 缺少官員：{official}")
+    return issues
 
 
 def call_openai_central_bank_summary(items: list[dict], start: datetime, end: datetime) -> dict:
+    required_officials = central_bank_required_officials(items)
     prompt = f"""
 你是央行政策與利率市場分析師。請只根據下方資料庫快訊，整理繁體中文（台灣）「央行摘要」。
 摘要時間：GMT+8 每日上午 07:00。
@@ -1342,6 +1437,11 @@ def call_openai_central_bank_summary(items: list[dict], start: datetime, end: da
 7. 印度央行 RBI
 8. 巴西央行 BCB
 9. 瑞士央行 SNB
+
+可辨識官員名單：
+{format_required_officials(required_officials)}
+
+上述名單中每一位官員若屬於當日發言、受訪、演講、作證、政策評論或人事交接，必須在該央行 officials 中各自成為獨立物件；不得省略，不得合併成同一點。
 
 ═══════════════════════════════
 判斷模式：每家央行先判斷當日是否有「貨幣政策發布」
@@ -1509,16 +1609,17 @@ def call_openai_central_bank_summary(items: list[dict], start: datetime, end: da
         return json.loads(extract_response_text(r.json()))
 
     result = request_summary(prompt)
-    short_officials = central_bank_short_officials(result)
-    if short_officials:
+    official_issues = central_bank_official_issues(result, required_officials)
+    if official_issues:
         retry_prompt = f"""
 {prompt}
 
 ═══════════════════════════════
-上一版輸出不合格，以下官員發言段落太短：
-{chr(10).join(f"- {item}" for item in short_officials[:20])}
+上一版輸出不合格，以下官員發言有漏人、混寫或段落太短：
+{chr(10).join(f"- {item}" for item in official_issues[:30])}
 
 請重新輸出完整 JSON。這次 officials 必須是一位官員一個物件，不可把多位官員合併成同一點。
+可辨識官員名單中的每位官員都要逐一覆蓋，不能漏人。
 每位官員的 analysis 必須至少 220 個中文字，目標 280-450 個中文字。
 analysis 要完整展開「發言內容、背景、利率/通膨/就業/金融穩定判斷、政策路徑含意、市場可能解讀」。
 絕對不要再輸出短句、新聞標題式摘要、或多位官員混寫在同一個 analysis。
