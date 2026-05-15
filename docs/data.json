@@ -1,7 +1,44 @@
 {
-  "updated": "2026-05-16 04:15:53",
-  "count": 15521,
+  "updated": "2026-05-16 04:19:22",
+  "count": 15520,
   "items": [
+    {
+      "id": "4882919",
+      "time": "2026-05-16 04:18:10",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國證監會檔案顯示：英偉達增持 Coreweave 公司股份 94.5%，持股增至 4720 萬股 A 類普通股。"
+    },
+    {
+      "id": "4882918",
+      "time": "2026-05-16 04:17:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數15日上漲】衡量美元對六種主要貨幣的美元指數當天上漲0.47%，在匯市尾市收於99.278。截至紐約匯市尾市，1歐元兌換1.1630美元，低於前一交易日的1.1677美元；1英鎊兌換1.3332美元，低於前一交易日的1.3405美元。1美元兌換158.68日元，高於前一交易日的158.19日元；1美元兌換0.7865瑞士法郎，高於前一交易日的0.7834瑞士法郎；1美元兌換1.3739加元，高於前一交易日的1.3724加元；1美元兌換9.4374瑞典克朗，高於前一交易日的9.3495瑞典克朗。"
+    },
+    {
+      "id": "4882917",
+      "time": "2026-05-16 04:17:23",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國證監會檔案披露：伯克希爾・哈撒韋持有達美航空 3980 萬股股份，持有谷歌母公司Alphabet 360 萬股 C 類普通股，增持A 類股份至 5420 萬股。"
+    },
+    {
+      "id": "4882914",
+      "time": "2026-05-16 04:16:10",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國證監會備案檔案顯示，伯克希爾・哈撒韋已清倉萬事達卡、  VISA全部持股。"
+    },
     {
       "id": "4882911",
       "time": "2026-05-16 04:14:52",
@@ -139853,51 +139890,6 @@
         "公司"
       ],
       "text": "百事公司：股東在年度股東大會上投票反對設立獨立董事會主席的提案。"
-    },
-    {
-      "id": "te:markets:549342",
-      "time": "2026-05-09 04:18:23",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "S&P 500, Nasdaq Rise to Record High — The S&P 500 rose 0.8% to close at 7,399 on Friday, while the Nasdaq Composite gained 1.7% to a record 26,247, with both indexes hitting fresh highs. The Dow Jones Industrial Average edged up 12 points to 49,609. Sentiment was supported by stronger than expected US labor data, as nonfarm payrolls increased by 115,000 in April, beating forecasts, while the unemployment rate held at 4.3%. Investors also monitored renewed clashes between the US and Iran in the Strait of Hormuz, though President Donald Trump said the ceasefire remained intact. Markets continued to await Tehran’s response to a US proposal aimed at ending the conflict. Meanwhile, optimism around AI spending boosted technology shares, with Micron Technology and Sandisk surging sharply. All three major indexes ended the week higher, supported by strong corporate earnings and continued strength in tech stocks."
-    },
-    {
-      "id": "4869224",
-      "time": "2026-05-09 04:17:36",
-      "tags": [
-        "觀點"
-      ],
-      "text": "高盛表示，其首席法務官凱瑟琳·魯姆勒於5月6日申報出售14,292股普通股，每股成交均價為937.12美元。"
-    },
-    {
-      "id": "4869223",
-      "time": "2026-05-09 04:16:17",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數的11個板塊漲跌各異，資訊科技/科技板塊收漲2.74%，重新整理收盤歷史高位至6573.22點；可選消費、原材料、房地產、日用消費品板塊至多漲0.5%，工業、能源、金融、保健、公用事業板塊至多跌0.91%。"
-    },
-    {
-      "id": "4869222",
-      "time": "2026-05-09 04:16:09",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "標普：伊朗戰事或透過能源價格上漲衝擊波蘭經濟，但我們預計影響將得到控制。"
-    },
-    {
-      "id": "4869221",
-      "time": "2026-05-09 04:16:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國銀行存款從前一週的19.08萬億美元增至19.113萬億美元。"
     }
   ]
 }
