@@ -1,7 +1,36 @@
 {
-  "updated": "2026-05-15 14:27:21",
-  "count": 15329,
+  "updated": "2026-05-15 14:30:48",
+  "count": 15316,
   "items": [
+    {
+      "id": "te:markets:551021",
+      "time": "2026-05-15 14:30:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Nikkei 225 Index Closes 2.67% Lower — The Nikkei 225 Index fell 1670 points or 2.67 percent on Friday to close at 60984 points. Leading the losses are Toppan (-17.05%), SMC (-13.33%) and Nexon Co (-12.07%)."
+    },
+    {
+      "id": "4881408",
+      "time": "2026-05-15 14:29:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超3萬億元，較上日此時放量336億元。"
+    },
+    {
+      "id": "4881407",
+      "time": "2026-05-15 14:28:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "比亞迪：比亞迪輔助駕駛車型保有量超299萬輛，天神之眼每天生成資料超1.9億公里。"
+    },
     {
       "id": "4881406",
       "time": "2026-05-15 14:27:03",
@@ -138227,156 +138256,6 @@
         "其他"
       ],
       "text": "【5月8日：“農產品批發價格200指數”比昨天上升0.08個點】據農業農村部監測，5月8日“農產品批發價格200指數”為116.04，比昨天上升0.08個點，“菜籃子”產品批發價格指數為116.61，比昨天上升0.08個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為15.24元/公斤，比昨天上升0.8%；牛肉66.54元/公斤，比昨天上升0.3%；羊肉64.38元/公斤，比昨天上升0.9%；雞蛋8.82元/公斤，比昨天上升0.5%；白條雞17.23元/公斤，比昨天上升2.9%。重點監測的28種蔬菜平均價格為4.24元/公斤，比昨天下降1.2%；重點監測的6種水果平均價格為7.66元/公斤，比昨天上升0.9%。鯽魚20.16元/公斤，比昨天下降0.1%；鯉魚15.00元/公斤，比昨天上升1.8%；白鰱魚10.65元/公斤，比昨天上升1.5%；大帶魚41.48元/公斤，比昨天上升2.4%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與昨天相比價格升幅前五名的是鴨梨、大黃花魚、白條雞、巨峰葡萄和大帶魚，幅度分別為3.7%、3.1%、2.9%、2.5%和2.4%；價格降幅前五名的是蔥頭、西瓜、芹菜、青椒和茄子，幅度分別為4.8%、2.3%、2.2%、2.1%和2.1%。"
-    },
-    {
-      "id": "4867790",
-      "time": "2026-05-08 14:30:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "任天堂預計全年經營利潤3,700.0億日元，預估4,802.9億日元。"
-    },
-    {
-      "id": "4867789",
-      "time": "2026-05-08 14:30:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "任天堂第四季度淨利潤651.9億日元，預估634.4億日元。"
-    },
-    {
-      "id": "4867788",
-      "time": "2026-05-08 14:30:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "聯電4月銷售額226.6億元臺幣。"
-    },
-    {
-      "id": "mkt:019e0647-7a5a-7113-a190-fb64de3cdb71",
-      "time": "2026-05-08 14:30:08",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "【Iran Praises South Korea for Avoiding Hormuz Military Operations】The head of Iran’s parliamentary National Security and Foreign Policy Commission praised South Korea for declining to participate in military operations in the Strait of Hormuz despite what he described as significant pressure, calling the decision “wise” and supportive of regional stability. In a phone call with the chair of South Korea’s National Assembly Foreign Affairs and Unification Committee, the Iranian official also welcomed the suspension of a proposed parliamentary resolution condemning Iran, saying it reflected political maturity and understanding of developments inside the country."
-    },
-    {
-      "id": "te:markets:549080",
-      "time": "2026-05-08 14:30:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Nikkei 225 Index Closes 0.29% Lower — The Nikkei 225 Index dropped 183 points or 0.29 percent on Friday to close at 62651 points. Losses were led by Yokogawa Electric (-9.24%), Softbank (-4.92%) and Daiwa Securities (-4.87%). Offsetting the fall, top gainers were Sumco (17.31%), Yaskawa Electric (6.85%) and Fanuc (5.71%)."
-    },
-    {
-      "id": "4867787",
-      "time": "2026-05-08 14:29:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗議會國家安全與外交政策委員會主席：韓國拒絕參與霍爾木茲海峽軍事行動是明智之舉。"
-    },
-    {
-      "id": "te:economy:549078",
-      "time": "2026-05-08 14:29:34",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Seychelles",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Seychelles Consumer Prices Fall in April — Consumer prices in Seychelles edged down by 0.01% in April 2026, reversing a 0.24% increase in the previous month. This marked the first decline since December 2025, largely driven by cost declines for fresh fish (-6.11% vs -0.56% in March) and other foods (-0.22% vs 0.61%), while prices continued to increase for non-food products (0.12% vs 0.20%). Among food items excluding fish, costs declined mainly for milk, cheese and eggs (-6.95% vs -5.47%), fruits (-2.04% vs 0.23%), and sugar, jam, honey and confectionery (-1.2% vs -1.75%). Among non-food products, prices particularly decreased for furniture and household equipment (-1.3% vs -0.48%), health (-1.6% vs -0.22%), and recreation and culture (-5.04% vs -4.38%). On a monthly basis, consumer prices fell by 0.09% in April, the third straight month of decline, following a 0.04% loss in the preceding period."
-    },
-    {
-      "id": "4867786",
-      "time": "2026-05-08 14:28:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "世界銀行：融資資金包含一筆來自英國的2億美元信貸擔保。"
-    },
-    {
-      "id": "4867785",
-      "time": "2026-05-08 14:28:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "豐田首席財務官宮崎：預計本財年純電汽車銷量增長將由中國、歐洲及北美地區支撐。"
-    },
-    {
-      "id": "mkt:019e0646-110f-7113-a190-f71d8e382073",
-      "time": "2026-05-08 14:28:35",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Europe & UK",
-        "Wall Street (US)",
-        "TM.N",
-        "Impact bullish"
-      ],
-      "text": "TOYOTA CFO MIYAZAKI: EXPECT CHINA, EUROPE AND NORTH AMERICA REGIONS TO ANCHOR BEV SALES GROWTH THIS FY"
-    },
-    {
-      "id": "mkt:019e0645-f084-7113-a190-ec397840ab15",
-      "time": "2026-05-08 14:28:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "WORLD BANK: FINANCING INCLUDES A US$200 MILLION CREDIT GUARANTEE FROM THE UNITED KINGDOM"
-    },
-    {
-      "id": "4867784",
-      "time": "2026-05-08 14:28:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "世界銀行已批准10億美元融資，用以支援埃及推動私營部門主導的就業創造、增強宏觀經濟與財政韌性的工作。"
-    },
-    {
-      "id": "4867783",
-      "time": "2026-05-08 14:28:09",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油失守100美元/桶，日內跌0.13%。"
-    },
-    {
-      "id": "mkt:019e0645-9ed8-7113-a190-e4883abaae21",
-      "time": "2026-05-08 14:28:06",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "WORLD BANK: APPROVED $1 BLN FINANCING TO SUPPORT EGYPT’S EFFORTS TO BOOST PRIVATE SECTOR–LED JOB CREATION, STRENGTHEN MACROECONOMIC AND FISCAL RESILIENCE"
-    },
-    {
-      "id": "4867782",
-      "time": "2026-05-08 14:27:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "據俄羅斯媒體8日援引俄國防部訊息報道，自當地時間8日零時起，俄軍各部隊在特別軍事行動區域全線停止戰鬥，並將固守戰線和陣地。（新華社）"
-    },
-    {
-      "id": "4867781",
-      "time": "2026-05-08 14:27:28",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "聚丙烯連續主力合約日內跌2%，現報8511.00元。"
     }
   ]
 }
