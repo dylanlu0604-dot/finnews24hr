@@ -1,7 +1,80 @@
 {
-  "updated": "2026-05-16 00:05:37",
-  "count": 15539,
+  "updated": "2026-05-16 00:09:01",
+  "count": 15546,
   "items": [
+    {
+      "id": "4882675",
+      "time": "2026-05-16 00:08:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：一艘希臘籍油輪已穿越霍爾木茲海峽，駛離波斯灣前往印度。"
+    },
+    {
+      "id": "4882674",
+      "time": "2026-05-16 00:07:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【OpenAI聯手Plaid，為大眾提供量身定製的財務諮詢】 OpenAI正與Plaid Inc.合作，允許ChatGPT使用者基於共享給科技公司的財務資料，獲得個性化的財務建議。Plaid擁有的消費者財務資料訪問許可權，將使ChatGPT能夠提供範圍廣泛的建議，例如“自動儲存”、“將外賣頻率減至每週一次”、應優先償還哪張信用卡、以及償還的具體金額。目前，ChatGPT對財務賬戶的訪問許可權僅為“只讀”，且在全面掌握消費者財務狀況（如住房權益）方面仍存在空白。"
+    },
+    {
+      "id": "4882673",
+      "time": "2026-05-16 00:07:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "黎巴嫩真主黨：我們使用一架俯衝無人機在黎巴嫩南部拉沙夫鎮瞄準了一輛以色列敵軍D9軍用推土機。"
+    },
+    {
+      "id": "te:markets:551255",
+      "time": "2026-05-16 00:07:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 2.00% Lower — The FTSE 100 Index fell 208 points or 2.00 percent on Friday to close at 10165 points. Leading the losses are Airtel Africa (-10.81%), Antofagasta (-10.71%) and Fresnillo (-10.09%)."
+    },
+    {
+      "id": "4882672",
+      "time": "2026-05-16 00:07:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國運通 4 月壞賬率為 2.1%。"
+    },
+    {
+      "id": "te:markets:551254",
+      "time": "2026-05-16 00:06:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "CAC 40 Falls as Oil Rise Revives Inflation Concerns — The CAC 40 fell 1.6% to close at 7,952 on Friday, reversing the previous session’s gains and posting a weekly decline as renewed inflation concerns weighed on sentiment amid stalled US-Iran peace negotiations. Oil prices rose due to the lack of progress toward ending ship attacks and seizures around the Strait of Hormuz, reinforcing stagflation fears. ECB Governing Council member Martins Kazaks warned that the ECB may need to tighten policy if higher oil prices lift inflation expectations, underscoring Europe’s sensitivity to energy shocks. Financial stocks traded lower, with BNP Paribas down 3%, while luxury shares also weakened amid higher risk aversion, led by Kering (-3.1%) and LVMH (-1.1%) after the group sold Marc Jacobs to a WHP Global-G-III Apparel joint venture. Industrials also posted losses, with Airbus down 2.9% and Safran shedding 4.2%, while STMicroelectronics fell 4.2% following a deal involving Chinese partner Dongfeng Motor."
+    },
+    {
+      "id": "4882671",
+      "time": "2026-05-16 00:06:10",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "北歐大西洋集團聘請摩根大通，為其價值 10 億歐元資產出售事宜擔任顧問。"
+    },
+    {
+      "id": "4882670",
+      "time": "2026-05-16 00:05:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "【加拿大帝國商業銀行：加拿大第一季度經濟反彈並非轉折點】加拿大經濟第一季度的增長是較前一個季度的反彈，暫時緩解了對經濟放緩的擔憂。加拿大帝國商業銀行首席經濟學家Avery Shenfeld表示，這種好轉是“從第四季度GDP下降中的反彈“，並且“並非真正預示著即將迎來轉折點“。他指出，零售商參與了這一反彈，但他警告稱，“我們在第二季度不太可能看到這種情況重演“，因為失業率上升和汽油價格上漲擠壓了家庭支出。他說，部分庫存重建是透過進口而非國內生產來滿足的，而且包括房屋銷售在內的一直疲軟的領域“依然低迷“。Shenfeld補充說，雖然復甦“令人欣慰“，但預計2026年1.2%的增長仍然“太弱，無法指望“在邁向充分就業方面“取得太大進展“。"
+    },
     {
       "id": "4882669",
       "time": "2026-05-16 00:05:04",
@@ -140117,18 +140190,6 @@
         "國際"
       ],
       "text": "【訊息人士稱目前霍爾木茲海峽周邊地區局勢平靜】當地時間8日，伊朗軍方訊息人士稱，目前霍爾木茲海峽周邊地區局勢平靜，但如果美國方面再次進入相關區域併為伊朗船隻“製造麻煩”，就可能發生衝突。8日下午，伊朗伊斯蘭革命衛隊釋出訊息稱，伊朗武裝部隊當天早些時候在霍爾木茲海峽水域與美國軍艦發生“零星衝突”。（央視新聞）"
-    },
-    {
-      "id": "te:markets:549320",
-      "time": "2026-05-09 00:07:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE 100 Index Closes 0.48% Lower — The FTSE 100 Index dropped 49 points or 0.48 percent on Friday to close at 10228 points. Losses were led by Babcock International (-4.32%), Rolls-Royce (-3.29%) and Easyjet Plc (-3.13%). Offsetting the fall, top gainers were BT (5.64%), JD Sports Fashion (4.36%) and Whitbread (2.80%)."
     }
   ]
 }
