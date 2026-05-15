@@ -1,7 +1,15 @@
 {
-  "updated": "2026-05-16 04:26:21",
-  "count": 15528,
+  "updated": "2026-05-16 04:29:52",
+  "count": 15526,
   "items": [
+    {
+      "id": "4882938",
+      "time": "2026-05-16 04:28:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "比爾·阿克曼旗下對沖基金潘興廣場對微軟持倉市值21億美元。"
+    },
     {
       "id": "4882933",
       "time": "2026-05-16 04:25:14",
@@ -139940,34 +139948,6 @@
         "國際"
       ],
       "text": "巴西獲准向韓國出口雞蛋。"
-    },
-    {
-      "id": "4869237",
-      "time": "2026-05-09 04:29:17",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【美股大類資產類ETF普遍收漲，納指ETF漲超2.3%，布油基金今年迄今漲超87%】週五（5月8日），納指100 ETF收漲2.34%，新興市場ETF漲2.03%，大豆基金漲1.21%，標普500 ETF、羅素2000指數ETF、農產品基金至少漲0.61%，美國國債20+年ETF、黃金ETF至少漲0.48%，歐元做多漲0.41%，美國房地產ETF漲0.24%，日元做多、道指ETF至多漲0.07%，做多美元指數跌0.26%，美國布倫特油價基金跌1.04%。2026年迄今，布油基金累漲87.54%，新興市場累漲24.18%，納指100 ETF、羅素2000指數ETF、大豆基金、房地產ETF累漲15.92%-10.35%，日元做多累跌0.12%。"
-    },
-    {
-      "id": "4869236",
-      "time": "2026-05-09 04:27:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "“大空頭”伯裡在股價大跌後買入美卡多，目標收益 15%。"
-    },
-    {
-      "id": "te:markets:549345",
-      "time": "2026-05-09 04:26:45",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "WTI Books Weekly Loss — WTI crude oil futures were little changed at $95 per barrel on Friday as renewed clashes between the US and Iran raised doubts about the durability of a fragile ceasefire and tempered hopes for a quick peace agreement, though prices still posted a weekly loss of about 7%. Fighting in the Persian Gulf kept markets focused on the Strait of Hormuz, which has remained largely closed since late February, disrupting global crude flows and creating a major supply shock. Iran accused the US of violating the ceasefire, while Washington said American forces struck Iranian military targets after attacks on US warships and blocked tankers attempting to leave Iranian ports. President Donald Trump said the ceasefire remained in effect despite the exchanges. Traders continue balancing expectations for diplomacy against the risk of further escalation."
     }
   ]
 }
