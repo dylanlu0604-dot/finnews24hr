@@ -58,7 +58,7 @@ try:
     CENTRAL_BANK_AUTO_BACKFILL_DAYS = max(1, int(os.getenv("CENTRAL_BANK_AUTO_BACKFILL_DAYS", "7")))
 except ValueError:
     CENTRAL_BANK_AUTO_BACKFILL_DAYS = 7
-CENTRAL_BANK_SUMMARY_SCHEMA_VERSION = 5
+CENTRAL_BANK_SUMMARY_SCHEMA_VERSION = 6
 
 CENTRAL_BANKS = [
     {"id": "fed", "name": "美國聯準會 Fed", "keywords": ("Fed", "Federal Reserve", "FOMC", "Powell", "Waller", "Bowman", "Jefferson", "Williams", "美聯儲", "聯準會", "鮑威爾")},
@@ -1393,7 +1393,7 @@ def official_item_text(item) -> str:
     return str(item or "")
 
 
-def central_bank_official_issues(result: dict, required: dict[str, list[str]], min_chars: int = 180) -> list[str]:
+def central_bank_official_issues(result: dict, required: dict[str, list[str]], min_chars: int = 280) -> list[str]:
     issues = []
     for bank in result.get("central_banks", []):
         release = bank.get("policy_release") or {}
@@ -1470,7 +1470,7 @@ def call_openai_central_bank_summary(items: list[dict], start: datetime, end: da
 ═══════════════════════════════
 模式 B：當日無貨幣政策發布 → 維持三段，has_release=false，policy_release 各子陣列輸出空陣列、summary 為空字串
 ═══════════════════════════════
-- officials：當天該央行官員發言整理。這不是字串陣列，而是「官員物件陣列」。每一個 officials 物件只能對應一位官員，欄位為 official、venue、analysis。嚴禁把威廉姆斯、巴爾、米蘭等多位官員合併在同一個 official 或 analysis。若同一位官員有多則快訊，才合併成同一個官員物件。analysis 最低 220 個中文字，目標 280-450 個中文字，必須完整交代原始發言重點、利率立場、通膨判斷、就業或成長看法、金融穩定/資產負債表觀點、政策時點與市場含意。最少 3 位官員（若有任何資料）。最多 18 位官員。
+- officials：當天該央行官員發言整理。這不是字串陣列，而是「官員物件陣列」。每一個 officials 物件只能對應一位官員，欄位為 official、venue、analysis。嚴禁把威廉姆斯、巴爾、米蘭等多位官員合併在同一個 official 或 analysis。若同一位官員有多則快訊，才合併成同一個官員物件。analysis 最低 300 個中文字，目標 320-520 個中文字，必須完整交代原始發言重點、利率立場、通膨判斷、就業或成長看法、金融穩定/資產負債表觀點、政策時點與市場含意。最少 3 位官員（若有任何資料）。最多 18 位官員。
 - expectations：市場對央行政策預期。每點 90-200 字，需具體寫出 CME FedWatch / OIS / 路透調查 / 經濟學家中位數預測 / 利率期貨機率變化等可量化定價，並對比前一日或前一週基準；若沒有對比基準，說明目前定價代表的政策含意。最少 2 點。最多 12 點。
 - reports：當天央行非決議類報告、研究、會議紀要、金融穩定、貼現窗、SOMA 操作、貨幣供給數據、外匯存底等。每點 90-200 字，需點出報告名稱、核心數字、政策意涵。最少 2 點（若有資料）。最多 12 點。
 - 沒有任何資料的段才允許空陣列。
@@ -1512,7 +1512,7 @@ def call_openai_central_bank_summary(items: list[dict], start: datetime, end: da
             "properties": {
                 "official": {"type": "string"},
                 "venue": {"type": "string"},
-                "analysis": {"type": "string", "minLength": 180},
+                "analysis": {"type": "string", "minLength": 280},
             },
             "required": ["official", "venue", "analysis"],
         },
@@ -1610,21 +1610,26 @@ def call_openai_central_bank_summary(items: list[dict], start: datetime, end: da
 
     result = request_summary(prompt)
     official_issues = central_bank_official_issues(result, required_officials)
-    if official_issues:
+    for attempt in range(2):
+        if not official_issues:
+            break
         retry_prompt = f"""
 {prompt}
 
 ═══════════════════════════════
-上一版輸出不合格，以下官員發言有漏人、混寫或段落太短：
+上一版輸出不合格（第 {attempt + 1} 次），以下官員發言有漏人、混寫或段落太短：
 {chr(10).join(f"- {item}" for item in official_issues[:30])}
 
 請重新輸出完整 JSON。這次 officials 必須是一位官員一個物件，不可把多位官員合併成同一點。
 可辨識官員名單中的每位官員都要逐一覆蓋，不能漏人。
-每位官員的 analysis 必須至少 220 個中文字，目標 280-450 個中文字。
+每位官員的 analysis 必須至少 300 個中文字，目標 320-520 個中文字。
 analysis 要完整展開「發言內容、背景、利率/通膨/就業/金融穩定判斷、政策路徑含意、市場可能解讀」。
 絕對不要再輸出短句、新聞標題式摘要、或多位官員混寫在同一個 analysis。
 """.strip()
         result = request_summary(retry_prompt)
+        official_issues = central_bank_official_issues(result, required_officials)
+    if official_issues:
+        raise ValueError("央行官員摘要不合格：" + "; ".join(official_issues[:30]))
     return result
 
 
