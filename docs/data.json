@@ -1,7 +1,105 @@
 {
-  "updated": "2026-05-15 14:13:27",
-  "count": 15331,
+  "updated": "2026-05-15 14:16:56",
+  "count": 15334,
   "items": [
+    {
+      "id": "4881392",
+      "time": "2026-05-15 14:16:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以色列極右翼舉行“耶路撒冷日”遊行】以色列極右翼人士14日在耶路撒冷老城舉行“耶路撒冷日”遊行，以色列國家安全部長、以極右翼政黨猶太力量黨領導人本-格維爾當天進入阿克薩清真寺區域。記者當天在耶路撒冷老城內看到，阿拉伯人聚居區內的店鋪幾乎全部歇業，老城內各路口均可見全副武裝的以色列警察。以極右翼遊行活動人士當天上午起陸續湧入耶路撒冷老城，遊行人群不斷高呼口號、揮舞旗幟，現場氣氛緊張、混亂。以色列媒體的畫面顯示，部分參加遊行的人與耶路撒冷老城居民爆發肢體衝突。（新華社）"
+    },
+    {
+      "id": "mkt:019e2a47-4486-7bb5-b4d7-8f8d41de5c0e",
+      "time": "2026-05-15 14:16:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "TAIWAN SEMICONDUCTOR MFG 1Q NET PROFIT NT$572.80B VS NT$572.80B"
+    },
+    {
+      "id": "4881391",
+      "time": "2026-05-15 14:15:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "德國經濟部：物價上漲、供應鏈問題以及不確定性正在拖累企業和私人家庭的信心。"
+    },
+    {
+      "id": "4881390",
+      "time": "2026-05-15 14:15:43",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "日本40年期國債收益率升至4.23%，創2007年以來新高。"
+    },
+    {
+      "id": "4881389",
+      "time": "2026-05-15 14:15:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國住房部長裡德：我們的確有一個運轉正常的政府。"
+    },
+    {
+      "id": "4881388",
+      "time": "2026-05-15 14:15:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國經濟部：當前指標顯示第二季度經濟增長將顯著放緩。"
+    },
+    {
+      "id": "te:economy:551007",
+      "time": "2026-05-15 14:14:09",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Machine Tool Orders",
+        "Importance 1"
+      ],
+      "text": "Japan Machine Tool Orders Rise Most Since 2022 — Japan’s machine tool orders surged by 45.1% year-on-year to JPY 188,971 million in April 2026, far exceeding market expectations and the previous month’s 28.1% rise. The latest reading marked the strongest growth since January 2022, supported by robust gains in both foreign and domestic demand. Foreign orders advanced 45.7%, following a 40.4% jump in March, while domestic orders climbed by 43.4% after a modest 2.5% increase previously. On a monthly basis, however, machine tool orders slipped by 2.3% in April, reversing from a sharp 31.9% rise in the preceding period. For the January–April period, total machine tool orders increased by 30.9% compared to the same period a year ago to JPY 674,764 million, driven by a 37.9% rise in overseas demand and a 13.5% increase in domestic orders."
+    },
+    {
+      "id": "4881387",
+      "time": "2026-05-15 14:13:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普說能待得慣可能都不想走了】今天（5月15日）上午，國家主席習近平在中南海同美國總統特朗普舉行小範圍會晤。園中蒼勁挺拔的古樹讓特朗普讚歎，他表示“能待得慣的話可能都不想走了”。（CCTV國際時訊）"
+    },
+    {
+      "id": "4881386",
+      "time": "2026-05-15 14:13:34",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【華升股份午後跳水上演“天地板”成交超16億】華升股份午後跳水觸及跌停，上演“天地板”，成交超16億。該股此前連續2日一字漲停，今早一度觸及漲停。"
+    },
+    {
+      "id": "4881385",
+      "time": "2026-05-15 14:13:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "匈牙利福林日內貶值0.7%，對歐元匯率跌至1歐元兌換360.20福林。"
+    },
+    {
+      "id": "4881384",
+      "time": "2026-05-15 14:13:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：俄羅斯對基輔一棟住宅樓發動襲擊的現場搜救行動已經完成。我們烏克蘭國家緊急事務服務局的首批救援人員連續工作了一天多。俄羅斯人用導彈幾乎摧毀了整棟建築的一個部分。這次襲擊造成24人死亡，其中包括3名兒童。"
+    },
     {
       "id": "4881383",
       "time": "2026-05-15 14:13:14",
@@ -138328,77 +138426,6 @@
         "Importance 1"
       ],
       "text": "South Africa Forex Reserves at 4-Month Low — Gross foreign exchange reserves fell to $77.09 billion in April 2026, from $77.76 billion in the previous month, marking the lowest level since December 2025. The changes in gross reserves and the international liquidity position were mainly due to a foreign exchange loan received from the French Development Agency (AFD) on behalf of the government, amounting to US$235.8 million, as well as an increase in the US dollar gold price and valuation adjustments due to foreign exchange and asset price movements. Foreign exchange reserves specifically declined to $51.7 billion from $52.7 billion in March. In contrast, gold reserves increased slightly to $18.7 billion from $18.5 billion, while Special Drawing Rights (SDR) holdings edged up to $6.7 billion from $6.6 billion. Meanwhile, the central bank’s forward position, reflecting unsettled or swap transactions, remained unchanged at $0.59 billion. In April 2025, the reserves stood at $67.59 billion."
-    },
-    {
-      "id": "4867763",
-      "time": "2026-05-08 14:16:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "薩博：新型導彈2027年開始交付，將成為RBS 70 NG防空系統的標準彈藥。"
-    },
-    {
-      "id": "4867762",
-      "time": "2026-05-08 14:16:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "薩博推出“火流星2”防空導彈，可相容RBS 70 NG及前代防空系統；試射已圓滿完成。"
-    },
-    {
-      "id": "te:economy:549067",
-      "time": "2026-05-08 14:15:01",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Finland",
-        "Balance of Trade",
-        "Importance 1"
-      ],
-      "text": "Finland Trade Balance Swings to Surplus — Finland posted a trade surplus of EUR 0.25 billion in March 2026, shifting from a deficit of EUR 0.16 billion in the corresponding month of the previous year, preliminary estimates showed. Exports climbed by 13.7% year-on-year to an eight-month high of EUR 7.36 billion, driven by sharp increases of shipments to both EU (+11.8%) and non-EU countries (+16.3%). Sales to Sweden (+15%), the US (+40.9%), Poland (+50.7%), and Estonia (+22.3%) saw the largest increases. Meanwhile, imports rose at a softer 7.2%, but to a six-year high of EUR 7.11 billion. It should be noted that imports from EU countries are now compiled using a new methodology starting January 2026, so only total values are comparable with those of 2025. Finnish Customs will not publish other annual change data for imports in 2026. Considering the first three months of 2026, the country’s trade deficit expanded to EUR 0.91 billion from EUR 0.67 billion in the same period last year."
-    },
-    {
-      "id": "4867761",
-      "time": "2026-05-08 14:14:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "寒武紀成交額超200億元，現跌5.44%。"
-    },
-    {
-      "id": "4867760",
-      "time": "2026-05-08 14:14:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【重慶一廠房發生火災，附近6名群眾因感覺身體不適送醫】重慶璧山區消防救援局5月8日通報，5月7日23時42分，璧山區璧泉街道鐵山路20號一廠房發生火災。接報後，該局第一時間調派力量趕赴現場處置。經處置，8日2時28分，現場明火已被撲滅，火場內無人員傷亡。在緊急疏散過程中，火場附近（非起火廠房內）有6名群眾因感覺身體不適送醫，其中1人輕微扭傷留院觀察，其餘5人經檢查無礙已自行出院，起火原因正在調查中。"
-    },
-    {
-      "id": "mkt:019e0638-e20d-7113-a190-c71a55726abc",
-      "time": "2026-05-08 14:14:11",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "RUSSIAN DEFENCE MINISTRY: RUSSIAN FORCES RESPONDED TO UKRAINIAN ATTACKS IN KIND - TASS"
-    },
-    {
-      "id": "4867759",
-      "time": "2026-05-08 14:13:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "【德國商業銀行將裁員3,000人 公司CEO努力應對裕信銀行的收購】德國商業銀行上調今年的盈利預期，並提出裁減更多人員的計劃，公司執行長Bettina Orlopp正加大力度應對義大利裕信銀行的敵意收購。這家德國的銀行週五表示，全年利潤將至少達到34億歐元（40億美元），高於此前預期的32億歐元以上。該行還公佈了新的中期目標，包括裁員3,000人，有望幫助其在2030年前實現利潤增長一倍，並達成約21%的有形股本淨回報率。“我們的增長速度超出預期，我們到2030年的新目標也反映了這一點。”Orlopp在宣告中說，“任何替代方案都必須以此為基準來衡量。”"
-    },
-    {
-      "id": "4867758",
-      "time": "2026-05-08 14:13:37",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【新加坡對部分房屋轉賣收緊政策規則 以減少短期投機行為】新加坡將出臺新的限制措施以抑制部分房屋轉賣，政府希望以此減少短期投機行為，提高住房的可負擔性。國家發展部長徐芳達週五在講話中表示，政府將針對執行共管公寓(EC)推出新措施，此類公寓的最低居住年限將延長一倍至10年，這是為進一步幫助首次購屋者買房的舉措之一。執行共管公寓早在三十年前在新加坡推出，是當地的一種準公共住房。多數本地居民居住在政府建造的有補貼的公寓。執行共管公寓由私人開發商建設，配備游泳池等設施，但新單位價格低於大多數私人公寓，而且購房者可申請政府補貼。新限制措施旨在為房價漲勢降溫，並減少執行共管公寓與私人公寓之間逐漸顯現的套利空間。一些房主在其執行共管公寓獲得轉售資格後不久，便在二級市場以可觀利潤出售。"
     }
   ]
 }
