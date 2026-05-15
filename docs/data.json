@@ -1,7 +1,75 @@
 {
-  "updated": "2026-05-15 13:14:23",
-  "count": 15276,
+  "updated": "2026-05-15 13:17:46",
+  "count": 15277,
   "items": [
+    {
+      "id": "4881260",
+      "time": "2026-05-15 13:17:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "【電池、儲能板塊午後有所拉昇，濱海能源漲停】電池、儲能板塊午後有所拉昇，濱海能源漲停，陽光電源漲超9%，帝爾鐳射、錦富技術、震裕科技跟漲。"
+    },
+    {
+      "id": "4881259",
+      "time": "2026-05-15 13:17:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【抖音電商開展化妝品資質合規專項治理】抖音電商表示，在平臺日常巡檢中發現，部分商家經營化妝品時，存在未按要求提交《化妝品備案/註冊批件》或《兒童化妝品標識》等商品資質的行為。目前平臺已展開專項治理，重點識別並處置未按要求提交資質、資質資訊不完整或不符合規範等違規行為，並對惡意違規行為依法依規加重處置。平臺也將進一步明確規則邊界，幫助商家和達人準確理解資質要求、有效規避違規風險，共同營造安全、規範、可信賴的化妝品消費環境。"
+    },
+    {
+      "id": "4881258",
+      "time": "2026-05-15 13:17:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【全市停課，珠海暴雨紅色預警生效】5月15日，據珠海釋出，受不斷東移的雷雨雲團影響，預計珠海市強降雨持續，5月15日13時00分，全市暴雨紅色預警訊號已生效，全市雷雨大風黃色預警訊號繼續生效中，請繼續做好各項防禦工作。"
+    },
+    {
+      "id": "4881257",
+      "time": "2026-05-15 13:16:52",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "貴金屬板塊震盪下探，興業銀錫跌超8%，山金國際、西部黃金、湖南白銀、中金黃金、招金黃金、赤峰黃金跌逾5%。"
+    },
+    {
+      "id": "4881256",
+      "time": "2026-05-15 13:15:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【支援綠色發展 國開行發行100億元3年期綠色金融債券】從國家開發銀行瞭解到，國開行14日在上海清算所成功發行100億元3年期綠色金融債券，發行利率為1.35%，認購倍數3.58倍，獲得各類投資者踴躍認購。截至目前，國開行已累計發行綠色金融債券2575億元。（央視新聞）"
+    },
+    {
+      "id": "te:markets:550980",
+      "time": "2026-05-15 13:15:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: New Zealand Dollar Drops by 1.09% — Top currency losers are New Zealand Dollar (-1.09%), Swedish Krona (-0.78%), Norwegian Krone (-0.77%), British Pound (-0.38%), Euro (-0.21%) and Japanese Yen (-0.12%). Gains are led by Brazilian Real (0.41%) and Dollar Index (0.23%)."
+    },
+    {
+      "id": "4881255",
+      "time": "2026-05-15 13:14:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "韓元兌美元匯率跌破1500。"
+    },
+    {
+      "id": "4881254",
+      "time": "2026-05-15 13:14:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【機構：預計Micro LED CPO光收發模組市場產值將於2030年達8.48億美元】根據TrendForce集邦諮詢最新Micro LED產業研究，生成式AI驅動高速光通訊需求急速攀升，由於Micro LED具備僅1-2 pJ/bit的能耗，以及具有低於百億分之一的誤位元速率(Bit Error Rate, BER)，有望在垂直擴充套件(Scale-Up)的資料中心網路中，與AEC（主動式電纜）及VCSEL NPO（垂直共振腔面射型雷射近封裝光學）並列為機櫃內(Intra-Rack)三大短距高速傳輸方案。因此，TrendForce集邦諮詢預估，Micro LED CPO光收發模組市場產值將於2030年達8.48億美元。"
+    },
     {
       "id": "4881253",
       "time": "2026-05-15 13:14:08",
@@ -137848,78 +137916,6 @@
         "XAUUSD"
       ],
       "text": "【Flights to Dubai and Abu Dhabi Suspended After Air Defense Activation Reports 】Reports said flights to Dubai and Abu Dhabi were suspended following the activation of air defense systems in the United Arab Emirates, according to unnamed news sources cited in the update."
-    },
-    {
-      "id": "mkt:019e0604-59f4-7113-a190-1128533941df",
-      "time": "2026-05-08 13:16:48",
-      "tags": [
-        "MKT News",
-        "Hot",
-        "Market Themes",
-        "AI Revolution",
-        "China Tech Giants",
-        "Chip Wars",
-        "Policy",
-        "Chinese Policy & Markets",
-        "Hang Seng Index",
-        "Impact bullish",
-        "CSI300"
-      ],
-      "text": "【Baidu Chip Unit Kunlunxin Targets Dual IPOs in Shanghai and Hong Kong Amid China AI Chip Boom】Baidu Inc.’s semiconductor unit Kunlunxin is planning an IPO on Shanghai’s STAR Board alongside a previously announced Hong Kong listing, according to a China International Capital Corp. filing with the China Securities Regulatory Commission. Baidu holds a 58% stake in Kunlunxin, which was valued at at least $3 billion in December. The STAR 50 Index has risen more than 20% this year to record highs. Analysts at Jefferies said a Shanghai listing would improve access to domestic investors, while the Hong Kong IPO is expected in the third quarter, as China accelerates efforts to build domestic AI chip capacity amid US export restrictions."
-    },
-    {
-      "id": "4867686",
-      "time": "2026-05-08 13:16:35",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "半導體材料板塊短線拉昇，立昂微漲停，西安奕材漲超10%，有研矽、上海合晶、凱德石英、創達新材、至正股份等跟漲。"
-    },
-    {
-      "id": "4867685",
-      "time": "2026-05-08 13:16:30",
-      "tags": [
-        "市場"
-      ],
-      "text": "截止13:16，兩市100只個股漲停。"
-    },
-    {
-      "id": "te:markets:549045",
-      "time": "2026-05-08 13:15:19",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: South Korean Won Drops by 0.59% — Top currency loser is South Korean Won (-0.59%). Gains are led by Euro (0.07%) and British Pound (0.07%). Meanwhile, Dollar Index and Japanese Yen were little changed."
-    },
-    {
-      "id": "4867684",
-      "time": "2026-05-08 13:15:13",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【西太平洋銀行目前預計澳大利亞央行將在8月和9月加息】西太平洋銀行表示，該行仍預計澳大利亞央行還會加息兩次，但目前認為該央行將希望在6月份按兵不動。西太平洋銀行首席經濟學家Luci Ellis表示，澳大利亞央行將今年迄今為止的三次加息描述為應對伊朗戰爭爆發前存在的通脹壓力，並且該央行目前有“空間“來考慮其下一步行動。她補充說，隨著澳大利亞央行意識到其在應對汽油價格上漲傳導以冷卻通脹方面做得還不夠，西太平洋銀行目前預計將在8月和9月加息。"
-    },
-    {
-      "id": "4867683",
-      "time": "2026-05-08 13:14:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "【南昌一宗宅地溢價12.5%成交】5月8日，南昌出讓一宗宅地，土地出讓面積12.1409畝，規劃建築面積9712.72㎡，容積率1.1，起拍地價為400萬元/畝，合起始價4856萬元，起始樓面價5000元/㎡。最終鷹潭萬景房地產開發有限公司以地價450萬元/畝競得該地塊，摺合總價為5463萬元，成交樓面價5625元/㎡，溢價率12.5%。"
-    },
-    {
-      "id": "4867682",
-      "time": "2026-05-08 13:14:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "亞馬遜雲科技：我們正觀察到復甦的初步跡象。"
     }
   ]
 }
