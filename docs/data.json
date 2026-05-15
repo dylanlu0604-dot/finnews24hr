@@ -1,7 +1,53 @@
 {
-  "updated": "2026-05-15 08:05:17",
-  "count": 15180,
+  "updated": "2026-05-15 08:08:40",
+  "count": 15181,
   "items": [
+    {
+      "id": "4880813",
+      "time": "2026-05-15 08:07:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "樂天股價上漲6.1%，第一季度營業利潤超出預期。"
+    },
+    {
+      "id": "4880812",
+      "time": "2026-05-15 08:07:08",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根士丹利將必和必拓目標股價上調17%，至每股67.50澳元。"
+    },
+    {
+      "id": "te:markets:550870",
+      "time": "2026-05-15 08:06:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Semiconductor Manufacturing International earnings below expectations at 0.02 USD — Semiconductor Manufacturing International (0981) released earnings per share at 0.02 USD, compared to market expectations of 0.03 USD."
+    },
+    {
+      "id": "4880811",
+      "time": "2026-05-15 08:05:53",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【中金公司：建議重視鈉電板塊投資機會】中金公司認為鈉電2026年正式邁入0—1規模化量產階段，中長期在能源安全疊加經濟性提升的驅動下產業化程序有望加速，建議重視鈉電板塊投資機會。"
+    },
+    {
+      "id": "4880810",
+      "time": "2026-05-15 08:05:34",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【印度採取更多措施限制黃金進口】印度進一步收緊黃金進口規定。政府通知稱，單筆不超過100公斤的黃金進口需要事先獲得政府許可，後續進口只有在完成50%出口後才會獲批。"
+    },
     {
       "id": "4880809",
       "time": "2026-05-15 08:04:46",
@@ -136967,42 +137013,6 @@
         "國際"
       ],
       "text": "首爾股市韓國綜合股價指數（KOSPI）下跌2%，報7337.74點。"
-    },
-    {
-      "id": "te:markets:548946",
-      "time": "2026-05-08 08:07:45",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Futures Edge Lower on Mideast Tensions — US stock futures edged lower on Friday after the major averages declined in the previous session, as renewed exchanges between the US and Iran in the Strait of Hormuz kept geopolitical tensions elevated. Three US Navy destroyers passing through the strategic waterway reportedly intercepted Iranian attacks and carried out retaliatory strikes, though President Trump stated that the ceasefire remains in place. Investors are also turning their attention to the April jobs report, which is expected to show the US economy added 62K jobs last month, sharply below the 178K increase recorded in March. On the corporate side, earnings results are due from companies including Ubiquiti Networks, Wendy’s, and Brookfield Asset Management. In regular trading on Thursday, the Dow fell 0.63%, while the S&P 500 and Nasdaq Composite declined 0.38% and 0.13%, respectively. Nine of the 11 S&P sectors closed in negative territory, with materials, energy, and industrials posting the steepest losses."
-    },
-    {
-      "id": "4867303",
-      "time": "2026-05-08 08:06:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "【銀河證券：Token消耗數量預計將呈現較大增長，四大方向加速受益】銀河證券研報認為，隨著推理需求的日益增高，Token消耗數量預計將呈現較大增長，帶動產業鏈再加速，主要體現在四大方向。AIDC方面：核心驅動力在於全球大模型技術的密集迭代與Token呼叫量的井噴式爆發。AIDC行業正圍繞高密度GPU算力叢集進行系統性重構。AIDC正透過高密、綠色的全新形態，成為支撐AI時代的核心物理底座。運營商方面：運營商憑藉其覆蓋全國的骨幹網路資源、豐富的算力節點佈局以及“雲網融合”能力，成為連線分散算力、打破地域壁壘的關鍵角色。光纖光纜行業方面，Token帶來的大規模AIDC建設將光纖從普通的連線耗材升級為算力網路的核心底座。受限於上游光棒擴產週期的剛性約束，光纖行業正迎來量價齊升的高景氣週期。光模組：在GPU算力呈指數級躍升的當下，資料傳輸速率已成為決定算力叢集效率的最大瓶頸。作為保障算力叢集線性加速比的核心器件，高速光模組正迎來技術代際切換與需求爆發共振的發展期。"
-    },
-    {
-      "id": "4867302",
-      "time": "2026-05-08 08:06:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "澳大利亞標普/澳證200指數早盤下跌0.9%，報8802.60點。"
-    },
-    {
-      "id": "4867301",
-      "time": "2026-05-08 08:05:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：將擴大與巴西的貿易。"
     }
   ]
 }
