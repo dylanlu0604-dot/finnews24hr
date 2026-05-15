@@ -1,7 +1,74 @@
 {
-  "updated": "2026-05-15 09:17:06",
-  "count": 15224,
+  "updated": "2026-05-15 09:20:37",
+  "count": 15227,
   "items": [
+    {
+      "id": "4880944",
+      "time": "2026-05-15 09:20:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "【華泰期貨：白銀整體波動較大且通貨屬性弱於黃金，更易出現獲利了結】目前市場風險偏好修復，限制金價的因素或略有減弱，因此預計近期黃金價格或以震盪偏強格局為主；當下白銀與黃金邏輯類似，但由於整體波動較大且通貨屬性弱於黃金，更易出現獲利了結。（華泰期貨）"
+    },
+    {
+      "id": "mkt:019e2938-6b9a-7bb5-b4d3-e28f84175db9",
+      "time": "2026-05-15 09:20:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "US10Y",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "U.S. 30-YEAR TREASURY YIELD RISES TO FRESH 10-MONTH HIGH AT 5.056%, 10-YR HITS 4.512%"
+    },
+    {
+      "id": "4880942",
+      "time": "2026-05-15 09:19:40",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國30年期國債收益率升至10個月新高，報5.056%，10年期國債收益率觸及4.512%。"
+    },
+    {
+      "id": "4880941",
+      "time": "2026-05-15 09:19:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海泰科：公司暫無液氫儲瓶產品】海泰科5月15日在互動平臺表示，公司可以為液氫儲罐內的相關塑膠部件提供注塑模具及塑膠製品，暫無液氫儲瓶產品。"
+    },
+    {
+      "id": "te:markets:550895",
+      "time": "2026-05-15 09:18:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Currency",
+        "Importance 2"
+      ],
+      "text": "Offshore Yuan Retreats, Still Eye Steady Week — The offshore yuan weakened to around 6.79 per dollar on Friday, retreating from an over-three-year high in the previous session, as sentiment turned cautious over Taiwan-related tensions during the Trump-Xi summit. President Xi warned that Taiwan could become a flashpoint for “clashes” between the world’s two largest economies, calling the situation “highly dangerous,” while reiterating Beijing’s opposition to US arms sales to Taiwan and Taiwanese independence. Still, the summit showed signs of easing tensions. The White House said both sides discussed expanding Chinese purchases of US agricultural products and oil, while agreeing that the Strait of Hormuz should remain open. US Trade Representative Jamieson Greer also said both sides appeared willing to extend the current trade truce if progress continues. The meeting entered its second day with cautious optimism, as traders positioned for a positive outcome. For the week, the offshore yuan remained on track for a steady week."
+    },
+    {
+      "id": "4880940",
+      "time": "2026-05-15 09:17:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "【上一交易日ETF兩市融資融券餘額1130.93億元】截至5月14日，ETF兩市融資融券餘額1130.93億元，分型別來看，股票型ETF兩融餘額624.99億元，債券型ETF兩融餘額83.33億元，商品型ETF兩融餘額138.21億元，QDII型ETF兩融餘額284.40億元。其中，兩融餘額最高的非貨幣型ETF分別是黃金ETF（518880）、證券ETF（512880）、黃金ETF（159934），兩融餘額分別為65.13億元、39.64億元、39.63億元。"
+    },
+    {
+      "id": "4880939",
+      "time": "2026-05-15 09:17:23",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【提升“浙江製造”競爭力  浙江出臺實施意見】近日，浙江省市場監管局印發《關於推進標準強縣品牌強縣質量強縣建設提升“浙江製造”競爭力的實施意見》。檔案提出，到2026年底，消費品質量合格率平均達到92.5%；“一縣一品牌”覆蓋率達到100%；工業強縣檢驗檢測服務業平均增長率達10%以上。到2030年底，製造業競爭力指數達到95以上；省域標準化創新發展水平達到83%以上；消費品質量合格率達到94%以上；檢驗檢測服務業規模達到700億元以上；國家級質量強縣、質量標杆型企業數量全國領先；“浙江製造”品牌影響力和競爭力進一步提升。"
+    },
     {
       "id": "4880938",
       "time": "2026-05-15 09:16:45",
@@ -137338,44 +137405,6 @@
         "公司"
       ],
       "text": "【知情人士：崑崙芯港股上市程序正常推進】證監會官網顯示，崑崙芯（北京）科技股份有限公司於5月7日正式啟動科創板上市輔導，中國國際金融擔任輔導機構。記者從知情人士處獲悉，崑崙芯仍在正常推動港股上市程序。（第一財經）"
-    },
-    {
-      "id": "4867391",
-      "time": "2026-05-08 09:20:29",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "央行今日開展5億元7天逆回購操作，投標量5億元，中標量5億元，操作利率為1.40%，與此前持平。"
-    },
-    {
-      "id": "mkt:019e052b-d852-7775-8cbc-1d5e2b31e54f",
-      "time": "2026-05-08 09:20:19",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bullish"
-      ],
-      "text": "PBOC INJECTED 0.5 BLN YUAN VIA 7-DAY REVERSE REPOS AT 1.40%"
-    },
-    {
-      "id": "4867390",
-      "time": "2026-05-08 09:18:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "【墨西哥塔巴斯科州首府一遊樂場所發生火災 至少5人死亡】墨西哥東南部塔巴斯科州首府比亞埃爾莫薩市一處遊樂場所發生火災，造成至少5人死亡。事故發生時，現場正在舉行一場有數千人參加的音樂會。當地民防部門表示，火災於當地時間7日凌晨發生，目前已得到控制，起火原因尚不清楚。"
-    },
-    {
-      "id": "4867389",
-      "time": "2026-05-08 09:17:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普：霍爾木茲海峽周邊再起衝突 但美伊停火協議仍有效】當地時間5月7日，美國總統特朗普表示，儘管霍爾木茲海峽周邊再次發生軍事衝突，但美伊停火協議仍然有效。特朗普當天在林肯紀念堂倒影池附近稱：“如果停火不存在了，你們根本不用問。你們只需要看到伊朗升起的一大片火光。”特朗普同時淡化當天局勢升級影響，並稱美軍已迅速回應伊朗方面行動。他表示：“他們今天挑釁了我們，我們把他們徹底打掉了。”特朗普還稱，與伊朗達成協議“可能不會發生，但也可能隨時發生”。（央視新聞）"
     }
   ]
 }
