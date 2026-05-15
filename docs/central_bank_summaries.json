@@ -1,4 +1,952 @@
 {
-  "updated": "",
-  "items": []
+  "updated": "2026-05-15 16:54:48",
+  "items": [
+    {
+      "id": "20260515",
+      "date": "2026-05-15",
+      "range_start": "2026-05-15 00:00:00",
+      "range_end": "2026-05-15 16:54:48",
+      "generated_at": "2026-05-15 16:54:48",
+      "count": 122,
+      "headline": "美國聯準會、歐洲央行、英國央行政策訊號受關注",
+      "central_banks": [
+        {
+          "id": "fed",
+          "name": "美國聯準會 Fed",
+          "status": "政策/紀要追蹤",
+          "has_policy_decision": true,
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_analysis": [
+            "Silver Plunges Amid Inflation Fears, Weaker Demand Outlook：Silver dropped 6% to $79 an ounce on Friday, extending losses for a second consecutive session, as concerns over rising US inflation and potential rate hikes weighed on the market.",
+            "India 10Y Yield Firms as Oil, US Yields Rise：The yield on India’s 10-year G-Sec hovered around 7.1%, rebounding from recent declines as elevated crude oil prices and rising US Treasury yields continued to pressure sentiment across debt markets.",
+            "US Futures Fall on Profit-Taking：US stock futures moved lower on Friday as investors took profits following a strong rally, while persistent Middle East tensions, rising inflation concerns, and growing expectations for a US interest rate hike",
+            "European Stocks Poised for Lower Open：European equity markets were set to open lower on Friday as mounting inflation concerns strengthened expectations that major central banks may need to raise interest rates.",
+            "Rupiah Strengthens, Weekly Slide Persists：The Indonesian rupiah firmed to around IDR 17,450 per dollar in thin Friday trade, rebounding after two subdued sessions."
+          ]
+        },
+        {
+          "id": "ecb",
+          "name": "歐洲央行 ECB",
+          "status": "政策/紀要追蹤",
+          "has_policy_decision": true,
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_analysis": [
+            "Bund Yields Rise as Iran Tensions, Inflation Fears Grow：Germany’s 10-year Bund yield climbed to 3.1%, nearing its highest level since May 2011, as mounting evidence of economic damage from the Iran war leads investors to expect faster interest rate hikes and weaker",
+            "Euro Falls to Over One-Month Low：The euro fell below $1.165, hitting its lowest level since early April and tracking toward a weekly loss of over 1% against the US dollar.",
+            "European Stocks Poised for Lower Open：European equity markets were set to open lower on Friday as mounting inflation concerns strengthened expectations that major central banks may need to raise interest rates.",
+            "Bund Yields Rise as Iran Tensions, Inflation Fears Grow：Germany’s 10-year Bund yield climbed to 3.1%, nearing its highest level since May 2011, as mounting evidence of economic damage from the Iran war leads investors to expect faster interest rate hikes and weaker",
+            "French Stocks Set for Weekly Loss：The CAC 40 fell 0.9% to 8,012 on Friday, reversing the previous session’s gains and heading for a weekly decline, as renewed inflation concerns weighed on sentiment amid stalled U.S.–Iran peace negotiations."
+          ]
+        },
+        {
+          "id": "boe",
+          "name": "英國央行 BoE",
+          "status": "政策/紀要追蹤",
+          "has_policy_decision": true,
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_analysis": [
+            "Sterling Slumps on Burnham’s Potential Challenge to Starmer：The British pound fell below $1.34, reaching its lowest level since early April and heading for a near 2% weekly loss against the US dollar.",
+            "UK Gilt Yields Set For Biggest Weekly Jump in Two Months：UK 10-year gilt yields climbed to 5.1%, their highest since July 2008, and are on track for a nearly 20-basis-point weekly rise, the largest since the second week after the Middle East conflict began.",
+            "Top Crypto Stories of PAST 24 Hours - MKTNews：Crypto / Regulation - Senate Banking Committee advances landmark crypto market structure bill with some Democratic support.",
+            "Sterling Slumps on Burnham’s Potential Challenge to Starmer：The British pound fell below $1.34, reaching its lowest level since early April and heading for a near 2% weekly loss against the US dollar.",
+            "UK Gilt Yields Set For Biggest Weekly Jump in Two Months：UK 10-year gilt yields climbed to 5.1%, their highest since July 2008, and are on track for a nearly 20-basis-point weekly rise, the largest since the second week after the Middle East conflict began."
+          ]
+        },
+        {
+          "id": "boj",
+          "name": "日本央行 BoJ",
+          "status": "政策/紀要追蹤",
+          "has_policy_decision": true,
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_analysis": [
+            "BOJ EXECUTIVE DIRECTOR KAMIYAMA: INVESTMENT FUNDS PLAY ROLE IN PROMOTING GROWTH BY SUPPLYING RISK CAPITAL, BUT CAN ALSO POSE POTENTIAL RISKS TO ENTIRE FINANCIAL SYSTEM",
+            "Japanese Shares Drop for Second Day：The Nikkei 225 Index fell 1.6% to below 61,700, while the broader Topix Index slipped 0.5% to 3,860 on Friday, extending declines from the previous session as investors monitored developments in the Middle East",
+            "調查：日本央行將在6月將關鍵利率上調至1%：路透調查顯示，近三分之二的經濟學家認為，日本央行將於6月將基準利率上調至1.0%。受伊朗局勢推升通脹擔憂影響，日本央行正持續推進貨幣政策正常化程序。日本央行上月將政策利率維持在0.75%不變，以評估地緣衝突帶來的後續影響。但央行9名政策委員會成員中有3人持異議，主張加息至1.0%，凸顯市場對地緣衝突引發能源衝擊、進而加劇通脹壓力的擔憂日漸升溫。在5月7日至14日開展的調查中，62名經濟學家裡有40人（佔比65%）預計",
+            "Japan 10Y Yield Extends Rally on Hot PPI：Japan’s 10-year government bond yield climbed to around 2.7% on Friday, reaching its highest level in nearly a decade as stronger-than-expected producer inflation reinforced expectations that the Bank of Japan",
+            "Yen Heads for Steep Weekly Decline：The Japanese yen weakened to around 158.5 per dollar on Friday and was set to post a weekly loss of more than 1%, pressured by broad dollar strength as accelerating US inflation linked to the Iran war reinforce"
+          ]
+        },
+        {
+          "id": "rba",
+          "name": "澳洲聯儲 RBA",
+          "status": "政策/紀要追蹤",
+          "has_policy_decision": true,
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_analysis": [
+            "ASX 200 Slips 1.3% This Week：The S&P/ASX 200 inched down 10 points, or 0.1%, to end at 8,631 on Friday, reversing early gains following a modest rise in the prior session.",
+            "Australian Dollar Set for Weekly Loss：The Australian dollar fell to around $0.72, easing from its recent four-year peak and heading for a roughly 0.6% weekly loss, pressured by broad US dollar strength.",
+            "Australian Dollar Set for Weekly Loss：The Australian dollar fell to around $0.72, easing from its recent four-year peak and heading for a roughly 0.6% weekly loss, pressured by broad US dollar strength.",
+            "ASX 200 Slips 1.3% This Week：The S&P/ASX 200 inched down 10 points, or 0.1%, to end at 8,631 on Friday, reversing early gains following a modest rise in the prior session.",
+            "Australian Dollar Set for Weekly Loss：The Australian dollar fell to around $0.72, easing from its recent four-year peak and heading for a roughly 0.6% weekly loss, pressured by broad US dollar strength."
+          ]
+        },
+        {
+          "id": "boc",
+          "name": "加拿大央行 BoC",
+          "status": "政策/紀要追蹤",
+          "has_policy_decision": true,
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_analysis": [
+            "NZX 50 Posts First Weekly Loss in Three Weeks：The NZX 50 fell 60 points, or 0.5%, to 12,965 on Friday, retreating for the fourth consecutive session and marking its lowest level since April 30, as traders remained cautious after fresh data showed New Zeala",
+            "China Credit Growth Signals Stable Policy: ANZ：China’s April credit data shows a mild slowdown, with new yuan loans easing from March while aggregate financing growth rose 7.8% year-on-year.",
+            "New Zealand Stocks Set to Close Week on Low Note：The NZX 50 fell 26 points, or 0.2%, to 13,999 in Thursday morning trade, declining for the fourth consecutive session and marking its lowest level since April 30, mainly driven by losses in the financials, comm",
+            "NZX 50 Posts First Weekly Loss in Three Weeks：The NZX 50 fell 60 points, or 0.5%, to 12,965 on Friday, retreating for the fourth consecutive session and marking its lowest level since April 30, as traders remained cautious after fresh data showed New Zeala",
+            "China Credit Growth Signals Stable Policy: ANZ：China’s April credit data shows a mild slowdown, with new yuan loans easing from March while aggregate financing growth rose 7.8% year-on-year."
+          ]
+        },
+        {
+          "id": "rbi",
+          "name": "印度央行 RBI",
+          "status": "政策/紀要追蹤",
+          "has_policy_decision": true,
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_analysis": [
+            "India 10Y Yield Firms as Oil, US Yields Rise：The yield on India’s 10-year G-Sec hovered around 7.1%, rebounding from recent declines as elevated crude oil prices and rising US Treasury yields continued to pressure sentiment across debt markets.",
+            "STATE-RUN PETROECUADOR SAYS IT HAS RESUMED OPERATIONS AT THE FCC UNIT OF THE ESMERALDAS REFINERY- STATEMENT",
+            "India 10Y Yield Firms as Oil, US Yields Rise：The yield on India’s 10-year G-Sec hovered around 7.1%, rebounding from recent declines as elevated crude oil prices and rising US Treasury yields continued to pressure sentiment across debt markets."
+          ]
+        },
+        {
+          "id": "bcb",
+          "name": "巴西央行 BCB",
+          "status": "今日資料不足",
+          "has_policy_decision": false,
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_analysis": []
+        },
+        {
+          "id": "snb",
+          "name": "瑞士央行 SNB",
+          "status": "今日資料不足",
+          "has_policy_decision": false,
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_analysis": []
+        }
+      ]
+    },
+    {
+      "id": "20260514",
+      "date": "2026-05-14",
+      "range_start": "2026-05-14 00:00:00",
+      "range_end": "2026-05-15 00:00:00",
+      "generated_at": "2026-05-15 16:54:48",
+      "count": 247,
+      "headline": "美國聯準會、歐洲央行、英國央行政策訊號受關注",
+      "central_banks": [
+        {
+          "id": "fed",
+          "name": "美國聯準會 Fed",
+          "status": "政策/紀要追蹤",
+          "has_policy_decision": true,
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_analysis": [
+            "Brazilian Real Rebounds Slightly：The Brazilian real appreciated sligthly to 4.98 per USD in mid-May, giving back part of its recent sharp losses after briefly weakning beyond the 5.00 level.",
+            "US Stocks Hold at Record Highs：US equity indices rose to fresh highs Thursday on support from the earnings-fueled tech rally.",
+            "DXY Rises to 2-Week High：The dollar index climbed to 98.6 on Thursday, reaching its highest level in two weeks as investors focused on a two day summit between US President Donald Trump and China’s Xi Jinping while also assessing fresh",
+            "MKTNews Morning Bid - US：The Senate confirmed Kevin Warsh as the next chair of the Federal Reserve yesterday in the closest vote in modern history.",
+            "Treasury Yields Ease on Thursday：The yield on the US 10-Year Treasury note edged lower to 4.45% on Thursday after reaching its highest level since July in the previous session, as investors continued to evaluate the political backdrop and its"
+          ]
+        },
+        {
+          "id": "ecb",
+          "name": "歐洲央行 ECB",
+          "status": "政策/紀要追蹤",
+          "has_policy_decision": true,
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_analysis": [
+            "Euro Flat Amid US-Iran Standoff and Trade Hopes：The euro held at $1.17, remaining below the three-week highs seen last week, as investors assessed the impact of stalled US-Iran negotiations on monetary policy alongside optimism from the US-China summit.",
+            "German Bund Yield Eases But Remains Near Multi-Year Highs：Germany’s 10-year Bund yield dipped slightly to 3.07% but stayed near recent multi-year highs, as elevated energy prices reinforced expectations of faster inflation and European Central Bank rate hikes.",
+            "歐洲央行管委Kocher：6月會議要麼加息要麼維持利率不變：歐洲央行管理委員會成員Martin Kocher對Econostream Media表示，歐洲央行必須在6月制定貨幣政策時決定是加息還是維持利率不變。",
+            "Euro Flat Amid US-Iran Standoff and Trade Hopes：The euro held at $1.17, remaining below the three-week highs seen last week, as investors assessed the impact of stalled US-Iran negotiations on monetary policy alongside optimism from the US-China summit.",
+            "German Bund Yield Eases But Remains Near Multi-Year Highs：Germany’s 10-year Bund yield dipped slightly to 3.07% but stayed near recent multi-year highs, as elevated energy prices reinforced expectations of faster inflation and European Central Bank rate hikes."
+          ]
+        },
+        {
+          "id": "boe",
+          "name": "英國央行 BoE",
+          "status": "政策/紀要追蹤",
+          "has_policy_decision": true,
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_analysis": [
+            "Pound Falls as Streeting Resignation Fuels Political Turmoil：The pound weakened to $1.35 on Thursday, heading for its longest losing streak since the end of March, as political uncertainty intensified following the resignation of Health Secretary Wes Streeting.",
+            "UK Gilt Yield Dips as Political Drama Unfolds and GDP Beats Forecasts：UK 10-year gilt yields edged down to 5.03% as investors overlooked political uncertainty, focusing instead on optimism surrounding the US-China summit and its potential to improve global trade relations, as wel",
+            "Xi Tells US CEOs Accompanying Trump That China Will Open Up More：Xi Jinping signaled greater openness to foreign business during a meeting with US executives accompanying Donald Trump in Beijing.",
+            "UK Gilt Yield Nears 2008 High on Leadership Uncertainty：The UK 10-year gilt yield climbed toward 5.1%, nearing its highest level since 2008, as speculation intensifies over a potential leadership challenge to Prime Minister Keir Starmer.",
+            "BANK OF ENGLAND'S MANN: ASKED ON RECENT GILT MOVES, SAYS FINANCIAL LANDSCAPE IS RELEVANT FOR RATE DECISIONS"
+          ]
+        },
+        {
+          "id": "boj",
+          "name": "日本央行 BoJ",
+          "status": "政策/紀要追蹤",
+          "has_policy_decision": true,
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_analysis": [
+            "日本央行審議委員增一行：從長期來看，整體食品價格是未來通脹的關鍵決定因素。鑑於日本已不再處於通縮週期，應儘快解決負實際利率問題。當前政策利率已接近預估中性利率水平，日本央行若考慮進一步加息，需更全面地審視物價、就業及金融狀況等各項因素。",
+            "日本央行審議委員增一行：若資料未顯示經濟放緩的明確訊號，我認為最好儘早升息。",
+            "BOJ BOARD MEMBER MASU: WHAT IS VITAL FROM NOW ON IS TO ENSURE THAT, THROUGH TIMELY AND APPROPRIATE POLICY RATE HIKES, UNDERLYING INFLATION RATE DOES NOT EXCEED 2%",
+            "日本央行審議委員增一行：我本人在4月貨幣政策會議上判斷，當前局勢並不允許倉促加息。",
+            "日本央行審議委員增一行： 在4月會議上，政策審議委員之間對是否立即上調政策利率存在意見分歧。"
+          ]
+        },
+        {
+          "id": "rba",
+          "name": "澳洲聯儲 RBA",
+          "status": "今日資料不足",
+          "has_policy_decision": false,
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_analysis": []
+        },
+        {
+          "id": "boc",
+          "name": "加拿大央行 BoC",
+          "status": "政策/紀要追蹤",
+          "has_policy_decision": true,
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_analysis": [
+            "加拿大央行對通脹動態的快速變化保持警惕：根據加拿大央行最新的會議紀要，該行官員們一致認為，需要根據中東局勢的發展以及與美國的貿易緊張關係，隨時準備迅速調整利率政策。央行決策者一致認為，儘管美伊衝突導致汽油價格受到初步衝擊，但他們目前可以保持耐心，將主要利率維持不變。會議紀要稱：“形勢可能瞬息萬變，貨幣政策或需作出應對，以防範通脹範圍擴大且更趨持久的風險。“該會議紀要涵蓋了由六名成員組成的管理委員會自4月21日開始的審議內容。八天後，該央行表示，將其隔夜利率",
+            "BOC MINUTES: SCOPE TO BE PATIENT 'FOR NOW,' BUT SITUATION COULD CHANGE QUICKLY",
+            "BOC MINUTES: CENTRAL BANK'S OIL-PRICE FORECAST SUBJECT TO 'CONSIDERABLE UNCERTAINTY'",
+            "BANK OF CANADA MINUTES: RATE INCREASES NEEDED SHOULD OIL PRICES STAY ELEVATED FOR LONGER",
+            "TSX Holds Steady as Markets Watch US-China Talks：The S&P/TSX Composite Index traded little changed near the 34,000 mark on Thursday as investors monitored developments surrounding the Middle East conflict and a high-stakes US-China summit."
+          ]
+        },
+        {
+          "id": "rbi",
+          "name": "印度央行 RBI",
+          "status": "追蹤中",
+          "has_policy_decision": false,
+          "officials": [
+            "知情人士：印度考慮下調外資債券投資相關稅負：據知情人士透露，印度正考慮下調外國投資者投資本國債券所需繳納的稅費，以接軌國際通行規則、吸引資金流入。印度央行已提出該項建議，目前印度財政部正予以考量，當局意在藉此遏制盧比貶值。外國投資者多次公開表示，相較於其他新興市場，印度相關稅負偏高；目前外資僅持有印度 1.3 萬億美元債券市場3%的份額。",
+            "交易員稱，印度央行很可能正在拋售美元以遏制盧比貶值。"
+          ],
+          "expectations": [],
+          "reports": [
+            "Zhuque-2E Improved Rocket Completes Successful Launch：Zhuque-2E rocket lifted off successfully at 11:00 a.m."
+          ],
+          "policy_analysis": []
+        },
+        {
+          "id": "bcb",
+          "name": "巴西央行 BCB",
+          "status": "今日資料不足",
+          "has_policy_decision": false,
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_analysis": []
+        },
+        {
+          "id": "snb",
+          "name": "瑞士央行 SNB",
+          "status": "今日資料不足",
+          "has_policy_decision": false,
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_analysis": []
+        }
+      ]
+    },
+    {
+      "id": "20260513",
+      "date": "2026-05-13",
+      "range_start": "2026-05-13 00:00:00",
+      "range_end": "2026-05-14 00:00:00",
+      "generated_at": "2026-05-15 16:54:48",
+      "count": 211,
+      "headline": "美國聯準會、歐洲央行、英國央行政策訊號受關注",
+      "central_banks": [
+        {
+          "id": "fed",
+          "name": "美國聯準會 Fed",
+          "status": "政策/紀要追蹤",
+          "has_policy_decision": true,
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_analysis": [
+            "“美聯儲傳聲筒”NickTimiraos：眾議院金融服務委員會正審議一項法案，擬修訂《聯邦儲備法》，取消美聯儲雙重使命，將政策目標僅聚焦於物價穩定。不妨試想，倘若當年已是這項法律，美聯儲去年是否會降息。",
+            "美聯儲柯林斯表示，她希望今年晚些時候經濟形勢能允許進一步降息。",
+            "“美聯儲傳聲筒”NickTimiraos：凱文・沃什即將獲批出任下一任美聯儲主席，而當日市場走勢強烈預示：2024—2025年的降息週期已經終結。兩年期美債收益率攀升至去年6月以來高位，彼時政策利率較當前高出75個基點。",
+            "Silver Hits Two-Month High：Silver climbed toward $88 an ounce on Wednesday, reaching its highest level in two months and outperforming other precious metals as industrial demand prospects improved.",
+            "Gold Drops as Inflation Fears Reduce Rate Cut Bets：Gold prices fell for a second straight session on Wednesday, slipping to $4,680 an ounce, as rising inflation dimmed expectations for interest rate cuts, while markets are also closely watching the upcoming Tru"
+          ]
+        },
+        {
+          "id": "ecb",
+          "name": "歐洲央行 ECB",
+          "status": "政策/紀要追蹤",
+          "has_policy_decision": true,
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_analysis": [
+            "ECB'S KOCHER: JUNE IS A DECISION BETWEEN A HIKE AND A HOLD ECB'S KOCHER: WE'RE STILL CLOSEST TO THE BASELINE SCENARIO",
+            "歐洲央行管委科赫爾：6月將在加息與維持利率不變之間做出抉擇。",
+            "Euro Remains Under Pressure as US-Iran Talks Stall：The euro fell to $1.17, pulling back from near three-week highs, as investors weighed the impact of stalled US-Iran negotiations and mounting expectations for further ECB rate hikes.",
+            "Bund Yield Holds Near 15-Year High on ECB Rate Hike Bets：Germany’s 10-year Bund yield held steady at 3.1%, close to its highest level since May 2011, as traders wagered on European Central Bank rate hikes.",
+            "Eurozone Growth Slows to 0.1% in Q1 2026：Eurozone economic growth was confirmed at 0.1% in the first quarter of 2026, marking the weakest expansion since Q2 2025, reflecting pressure from tight energy supplies after the Middle East conflict disrupted"
+          ]
+        },
+        {
+          "id": "boe",
+          "name": "英國央行 BoE",
+          "status": "政策/紀要追蹤",
+          "has_policy_decision": true,
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_analysis": [
+            "路透調查：56位經濟學家中有27位認為，英國央行今年將維持銀行利率在3.75%不變；7位經濟學家預計利率至少降息一次，22位經濟學家預計利率至少加息一次。",
+            "分析：英國央行目前或維持利率不變，從而推動短期英國國債收益率下降：Aberdeen Investments的Matthew Amis在一份報告中表示，英國央行未來幾個月可能將利率維持在3.75%不變，從而推動短期英國國債收益率下降。他說：“如果霍爾木茲海峽在未來幾周開放，那麼英國央行將不會加息，短期英國國債收益率將不得不剔除已反映的加息預期，因此[意味著]收益率會走低。“投資者希望中東衝突能在短期內得到解決。倫敦證券交易所集團資料顯示，市場已完全反映了英國央行將兩次加息25個基點的",
+            "Trump-Xi Summit Seen as Key Test for Record-High US Stocks：An upcoming summit between President Donald Trump and Chinese President Xi Jinping is emerging as a key test for US equities trading at record highs.",
+            "Pound Weakens on UK Leadership Uncertainty：The pound fell to $1.35, its lowest since late April, after The Times reported that Health Secretary Wes Streeting is preparing to launch a leadership challenge against Prime Minister Keir Starmer.",
+            "UK Gilt Yield Back to 18-Year High on Leadership Contest Fears：The UK 10-year gilt yield climbed back above 5.1%, nearing the 18-year high of 5.13% hit in the previous session, after The Times reported that Health Secretary Wes Streeting is preparing to trigger a leadershi"
+          ]
+        },
+        {
+          "id": "boj",
+          "name": "日本央行 BoJ",
+          "status": "政策/紀要追蹤",
+          "has_policy_decision": true,
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_analysis": [
+            "EX-BOJ GOVERNOR KURODA: BOJ NO DOUBT NEEDS TO GRADUALLY RAISE ITS POLICY RATE AS REAL BORROWING COSTS DEEPLY NEGATIVE, THOUGH MIDDLE EAST CONFLICT IS MAKING ITS DECISIONS DIFFICULT",
+            "EX-BOJ GOVERNOR KURODA: RISING OIL PRICES SINCE UKRAINE WAR, US-JAPAN INTEREST RATE DIVERGENCE LIKELY BEHIND YEN'S SLIDE, WHICH LED JAPAN TO INTERVENE IN FX MARKET TO KEEP YEN FROM FALLING BELOW 160 VS DOLLAR",
+            "日本銀行前行長黑田東彥：近期10年期日本國債收益率已升至約2.58%，考慮到日本通脹率維持在2%-3%區間，且日本央行上調了短期政策利率，這一走勢合乎情理。",
+            "EX-BOJ GOVERNOR KURODA: 10-YEAR JGB HAS RECENTLY RISEN TO AROUND 2.58%, WHICH IS NATURAL GIVEN JAPAN'S INFLATION MOVING AROUND 2-3% AND CENTRAL BANK RAISING SHORT-TERM POLICY RATE",
+            "日本央行：日本央行行長植田和男將於5月27日在日本央行主辦的貨幣政策會議上發表演講。"
+          ]
+        },
+        {
+          "id": "rba",
+          "name": "澳洲聯儲 RBA",
+          "status": "政策/紀要追蹤",
+          "has_policy_decision": true,
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_analysis": [
+            "Rice Futures Near 9-Month High：Rice futures rose more than 1% to $12 per hundredweight in mid-May, reaching its highest level since August 2025, as concerns over a tightening supply outlook supported prices.",
+            "Rice Futures Near 9-Month High：Rice futures rose more than 1% to $12 per hundredweight in mid-May, reaching its highest level since August 2025, as concerns over a tightening supply outlook supported prices.",
+            "WRD 3.0 BECOMES CHINA’S FIRST FOUR-TIME URBAN INTELLIGENT DRIVING CHAMPION, WERIDE REPORTS RECORD Q1 2026 REVENUE, UP 58% YEAR OVER YEAR",
+            "Rice Futures Near 9-Month High：Rice futures rose more than 1% to $12 per hundredweight in mid-May, reaching its highest level since August 2025, as concerns over a tightening supply outlook supported prices."
+          ]
+        },
+        {
+          "id": "boc",
+          "name": "加拿大央行 BoC",
+          "status": "政策/紀要追蹤",
+          "has_policy_decision": true,
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_analysis": [
+            "Morgan Stanley Lifts China Growth Forecast on Export Strength：Morgan Stanley raised its 2026 China GDP growth forecast to 4.8% from 4.7%, citing resilient exports driven by AI and green-investment demand.",
+            "週三重要財經資訊提醒（以下均為北京時間）：① 07:50 日本3月貿易帳； ② 11:00 紐西蘭二季度2年通脹預期，泰國央行召開政策研討會； ③ 14:35 歐洲央行管委Radev講話； ④ 15:30 歐洲央行管委Primoz Dolenc講話； ⑤ 16:00 國際能源署（IEA）公佈月度原油市場報告，歐洲央行管委Madis Muller講話； ⑥ 港股收盤之後 阿里巴巴、騰訊控股釋出業績報告； ⑦ 時間待定 OPEC+公佈月度原油市場報告； ⑧ 20",
+            "TSX Gains as Energy Stocks Rally on Supply Concerns：he S&P/TSX Composite Index rose 0.4% to close at 34,291 on Tuesday, supported by gains in energy and banking stocks.",
+            "BOC: SIGNS OF SMALL PRODUCTIVITY GAINS FROM AI ARE EMERGING BOC: AI MAY CHANGE HOW PEOPLE WORK BUT NOT LEAD TO FEWER JOBS BOC: ABOUT 12% OF CANADIAN FIRMS USE AI, UNEVEN ACROSS SECTORS BOC: AI HAS NOT LED TO LARGE-SCALE",
+            "加拿大央行視人工智慧為提振生產率的潛在良方：加拿大央行表示，人工智慧的大規模普及將提升本國生產率，且不會造成大規模失業。人工智慧有望透過提高每工時產出，提升企業競爭力、上調勞動者薪資，併為消費者節約開支。該行預計，部分崗位會被人工智慧替代，但同時也會催生新崗位，原有部分崗位也將迎來轉型。"
+          ]
+        },
+        {
+          "id": "rbi",
+          "name": "印度央行 RBI",
+          "status": "政策/紀要追蹤",
+          "has_policy_decision": true,
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_analysis": [
+            "Moody’s Cuts India’s 2026 GDP Growth Forecast to 6%：Moody’s Ratings on Tuesday lowered its 2026 economic growth forecast for India to 6.0% from 6.8%, citing subdued private consumption, capital formation, and industrial activity amid higher energy prices.",
+            "South Korean Shares Rebound：The benchmark KOSPI rose more than 1% to around 7,740 on Wednesday, rebounding after a sharp selloff in the previous session as investors selectively bought semiconductor and large-cap technology stocks.",
+            "經濟學家：印度外匯儲備緩衝仍充足 足以捍衛盧比：經濟學家表示，印度外匯儲備實力雄厚，足以抵禦伊朗局勢引發的油價衝擊、為本幣盧比提供支撐。測算顯示，在進口覆蓋率跌至 2013 年水平之前，印度央行可從總額近 6900 億美元的外儲中動用約 1500 億美元。自伊朗局勢衝突爆發以來，印度外匯儲備已縮減 380 億美元；同時，印度央行過往為支撐盧比開展操作，還面臨約 1030 億美元衍生品相關償付義務。",
+            "Moody’s Cuts India’s 2026 GDP Growth Forecast to 6%：Moody’s Ratings on Tuesday lowered its 2026 economic growth forecast for India to 6.0% from 6.8%, citing subdued private consumption, capital formation, and industrial activity amid higher energy prices.",
+            "Heating Oil Hovers Near 5-Week High：Heating oil futures for delivery at New York Harbor slipped to around $4.10 per gallon but held most of their recent gains near a five-week high, as the Middle East conflict continues without a clear resolution"
+          ]
+        },
+        {
+          "id": "bcb",
+          "name": "巴西央行 BCB",
+          "status": "今日資料不足",
+          "has_policy_decision": false,
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_analysis": []
+        },
+        {
+          "id": "snb",
+          "name": "瑞士央行 SNB",
+          "status": "今日資料不足",
+          "has_policy_decision": false,
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_analysis": []
+        }
+      ]
+    },
+    {
+      "id": "20260512",
+      "date": "2026-05-12",
+      "range_start": "2026-05-12 00:00:00",
+      "range_end": "2026-05-13 00:00:00",
+      "generated_at": "2026-05-15 16:54:48",
+      "count": 129,
+      "headline": "美國聯準會、歐洲央行、英國央行政策訊號受關注",
+      "central_banks": [
+        {
+          "id": "fed",
+          "name": "美國聯準會 Fed",
+          "status": "政策/紀要追蹤",
+          "has_policy_decision": true,
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_analysis": [
+            "美債收益率預測者未受伊朗戰爭通脹威脅動搖：受訪市場策略師們認為，美國國債收益率在未來幾個月將波動不大。這些專家似乎並未因美以對伊戰爭引發的能源價格衝擊而動搖，即便總統特朗普稱脆弱的停火協議正處於“維持生命（生命垂危）”的狀態。預測者們在解釋戰爭對經濟的影響時，表現出越來越多的矛盾心理。許多人警告稱，忽視因油價飆升近50%帶來的通脹推動力是危險的；但同時，他們仍堅持美聯儲將在今年降息（可能不止一次）的預期，儘管美聯儲政策制定者已發出訊號，對降息表現得愈發遲疑。",
+            "US Stocks Fall from Records：US equities fell from record highs on Tuesday after a hot April CPI report consolidated worries that higher energy prices may dent earnings prospectives.",
+            "報告：美國高通脹引發加息呼聲，儘管此舉不太可能：Regan Capital的Skyler Weinand寫道，CPI連續第二次高於3%，增強了美聯儲加息的理由。到4月底，較上年同期的消費者物價漲幅達到3.8%，高於3.7%的預期。與此同時，其他指標顯示經濟具有韌性。Weinand說：“近期的通脹和就業資料意味著，美聯儲的下一步行動應該是加息，而不是降息。“但這對美聯儲來說並非易事。他說，考慮到“即將上任的主席Warsh面臨的壓力，我們認為不太可能加息“。",
+            "MKTNews Morning Bid - US：President Donald Trump didn’t mince words about Iran’s counteroffer yesterday, telling reporters that Tehran’s proposal to end the war was “garbage” and that the ceasefire was “on life support.” Oil prices spik",
+            "Silver Slumps as Geopolitical and Inflation Risks Rise：Silver dropped over 1% to $84.5 an ounce on Tuesday, pressured by heightened Middle East uncertainty and the prolonged shutdown of the Strait of Hormuz, which pushed oil prices higher and kept inflation risks i"
+          ]
+        },
+        {
+          "id": "ecb",
+          "name": "歐洲央行 ECB",
+          "status": "政策/紀要追蹤",
+          "has_policy_decision": true,
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_analysis": [
+            "CAC 40 Extends Losses on US-Iran Tensions：The CAC 40 fell 0.9% to close at 7,980 on Tuesday, marking a fourth consecutive session of losses as fading hopes for a US-Iran peace agreement continued to weigh on sentiment.",
+            "Euro Slips Toward $1.17 on US-Iran Tensions：The euro weakened toward $1.17, retreating from near three-week highs, as investors assessed the impact of escalating US-Iran tensions and growing expectations of further ECB rate hikes.",
+            "Bund Yields Near 15-Year High on ECB Rate Hike Bets：Germany’s 10-year Bund yield climbed to 3.1%, approaching its highest level since May 2011, as traders increased bets on European Central Bank rate hikes amid concerns over the fragile US-Iran ceasefire and ris",
+            "ECB'S NAGEL: BASELINE INCLUDED TWO RATE HIKES",
+            "French Stocks Extend Losses to 4th Session：The CAC 40 fell 0.6% to 8,009 on Tuesday, marking its fourth consecutive session of losses as market sentiment remained subdued amid fading hopes for a diplomatic breakthrough in the US-Iran peace negotiations."
+          ]
+        },
+        {
+          "id": "boe",
+          "name": "英國央行 BoE",
+          "status": "政策/紀要追蹤",
+          "has_policy_decision": true,
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_analysis": [
+            "MKTNews Morning Bid - US：President Donald Trump didn’t mince words about Iran’s counteroffer yesterday, telling reporters that Tehran’s proposal to end the war was “garbage” and that the ceasefire was “on life support.” Oil prices spik",
+            "Pound Under Pressure on UK Political Turmoil：The pound trimmed some losses but remained lower at $1.354, retreating from near two-month highs, as political instability in the UK and stalled US-Iran negotiations weighed on sentiment.",
+            "UK Gilt Yields at 18-Year High on Political and Inflation Risks：UK 10-year gilt yields climbed above 5.1%, reaching their highest level since July 2008, while the 30-year gilt yield hit 5.8%, its highest since 1998, amid political instability and renewed inflation concerns.",
+            "TRADERS FULLY PRICE THREE QUARTER-POINT BOE RATE HIKES IN 2026",
+            "Sterling Slumps as Starmer Faces Growing Calls to Resign：The pound tumbled toward $1.35, down from near two-month highs touched last week, as political instability in the UK deepened."
+          ]
+        },
+        {
+          "id": "boj",
+          "name": "日本央行 BoJ",
+          "status": "政策/紀要追蹤",
+          "has_policy_decision": true,
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_analysis": [
+            "大和證券：日本央行決策者似乎更擔心價格上行風險：大和證券經濟學家Kento Minami表示，日本央行4月份會議紀要顯示，決策者似乎更擔心價格上行風險，而不是中東緊張局勢可能帶來的經濟下行風險。Minami表示，日本央行可能越來越關注風險平衡，而不是實現其基準經濟前景的可能性。“因此，即使在高度不確定的環境中，隨著該行優先應對通脹上行風險，加息步伐加快的可能性也在增加，”他表示。",
+            "機構：日本央行意見摘要發出強烈加息訊號：華僑銀行集團研究部的Frances Cheung在一份研究報告中表示，早些時候釋出的日本央行4月會議意見摘要發出了強烈的加息訊號。這位外匯和利率策略主管指出，該摘要稱，“即使中東局勢的未來走向仍不明朗，日本央行也很可能從下一次[貨幣政策會議]開始上調政策利率“。“我們預計下一次25個基點的加息將在6月到來，隨後在第四季度將再加息25個基點，”Cheung說。",
+            "Japan 10Y Yield Hits Fresh 29-Year High：Japan’s 10-year government bond yield rose to around 2.55% on Tuesday, hitting its highest level since 1997 as markets increasingly priced in an imminent interest rate hike from the Bank of Japan.",
+            "Yen Falls for Second Straight Session：The Japanese yen weakened to around 157.5 per dollar on Tuesday, extending losses for a second consecutive session as the dollar strengthened after President Donald Trump raised doubts over the durability of th",
+            "BoJ Signals Openness to Further Rate Hikes：Policymakers at the Bank of Japan stayed cautious about the uncertain Middle East situation at their April meeting, though several members still saw scope for near-term interest rate hikes."
+          ]
+        },
+        {
+          "id": "rba",
+          "name": "澳洲聯儲 RBA",
+          "status": "政策/紀要追蹤",
+          "has_policy_decision": true,
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_analysis": [
+            "MKTNews Morning Bid - US：President Donald Trump didn’t mince words about Iran’s counteroffer yesterday, telling reporters that Tehran’s proposal to end the war was “garbage” and that the ceasefire was “on life support.” Oil prices spik",
+            "Bund Yields Near 15-Year High on ECB Rate Hike Bets：Germany’s 10-year Bund yield climbed to 3.1%, approaching its highest level since May 2011, as traders increased bets on European Central Bank rate hikes amid concerns over the fragile US-Iran ceasefire and ris",
+            "Gilt Yields Surge Amid Starmer’s Leadership Crisis：UK 10-year gilt yields climbed above 5.1%, reaching their highest point since July 2008, as political instability in the UK deepens.",
+            "MKTNews Morning Bid - US：President Donald Trump didn’t mince words about Iran’s counteroffer yesterday, telling reporters that Tehran’s proposal to end the war was “garbage” and that the ceasefire was “on life support.” Oil prices spik",
+            "Bund Yields Near 15-Year High on ECB Rate Hike Bets：Germany’s 10-year Bund yield climbed to 3.1%, approaching its highest level since May 2011, as traders increased bets on European Central Bank rate hikes amid concerns over the fragile US-Iran ceasefire and ris"
+          ]
+        },
+        {
+          "id": "boc",
+          "name": "加拿大央行 BoC",
+          "status": "政策/紀要追蹤",
+          "has_policy_decision": true,
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_analysis": [
+            "Canada 10-Year Government Bond Yield Rises on Inflation Concerns：Canada’s 10-year government bond yield rose to 3.55% on May 11, rebounding from the two-week low of 3.48% on May 7th as higher oil prices renewed concerns over a potential inflation shock.",
+            "TSX Closes Higher as Mining Stocks Rally：The S&P/TSX Composite Index gained 0.2% to close at 34,139 on Monday, supported by strong gains in the mining sector.",
+            "Canada 10-Year Government Bond Yield Rises on Inflation Concerns：Canada’s 10-year government bond yield rose to 3.55% on May 11, rebounding from the two-week low of 3.48% on May 7th as higher oil prices renewed concerns over a potential inflation shock."
+          ]
+        },
+        {
+          "id": "rbi",
+          "name": "印度央行 RBI",
+          "status": "政策/紀要追蹤",
+          "has_policy_decision": true,
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_analysis": [
+            "Australia Business Mood Remains Deeply Negative：Australia’s NAB Business Confidence Index rose to -24 in April 2026 from -29 in the previous month, which had marked the second-largest monthly drop on record.",
+            "印度醞釀緊急舉措以守護外匯儲備：多位知情人士透露，印度正考慮出臺應急措施充實外匯儲備，包括限制黃金、電子產品等非必需品進口以及上調燃油價格，以此緩衝伊朗局勢衝突對本國經濟造成的衝擊。知情人士表示，印度總理辦公室與財政部官員已就多項應對舉措同印度儲備銀行展開磋商，旨在抑制油價飆升帶來的負面影響。因相關討論屬於內部未公開議程，知情人士要求匿名。訊息稱，目前商議的方案之一是上調燃油價格。這或將是伊朗戰事爆發以來印度首次上調油價，恰逢莫迪總理在近期地方選舉",
+            "Serbia Inflation Rate Hits 8-Month High：The annual inflation rate in Serbia rose by 3.3% in April 2026 from 2.8% in the previous month, surpassing market expectations of 3.1%.",
+            "Australia Business Mood Remains Deeply Negative：Australia’s NAB Business Confidence Index rose to -24 in April 2026 from -29 in the previous month, which had marked the second-largest monthly drop on record.",
+            "Australia Business Mood Remains Deeply Negative：Australia’s NAB Business Confidence Index rose to -24 in April 2026 from -29 in the previous month, which had marked the second-largest monthly drop on record."
+          ]
+        },
+        {
+          "id": "bcb",
+          "name": "巴西央行 BCB",
+          "status": "今日資料不足",
+          "has_policy_decision": false,
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_analysis": []
+        },
+        {
+          "id": "snb",
+          "name": "瑞士央行 SNB",
+          "status": "追蹤中",
+          "has_policy_decision": false,
+          "officials": [
+            "週二重要財經資訊提醒（以下均為北京時間）：① 時間待定 國務院副總理何立峰於5月12-13日率團赴韓國與美方舉行經貿磋商； ② 時間待定 首屆香港具身智慧產業峰會暨智元APC2026（香港）開幕； ③ 14:00 德國4月CPI終值； ④ 15:15 美國紐約聯儲主席（享有FOMC永久投票權、號稱美聯儲三把手）威廉姆斯在瑞士參加一個關於貨幣政策的小組會議，歐洲央行管委兼德國央行行長Nagel也在瑞士央行與國際貨幣基金組織（IMF）關於貨幣政策的小組會議上講話"
+          ],
+          "expectations": [],
+          "reports": [
+            "週二重要財經資訊提醒（以下均為北京時間）：① 時間待定 國務院副總理何立峰於5月12-13日率團赴韓國與美方舉行經貿磋商； ② 時間待定 首屆香港具身智慧產業峰會暨智元APC2026（香港）開幕； ③ 14:00 德國4月CPI終值； ④ 15:15 美國紐約聯儲主席（享有FOMC永久投票權、號稱美聯儲三把手）威廉姆斯在瑞士參加一個關於貨幣政策的小組會議，歐洲央行管委兼德國央行行長Nagel也在瑞士央行與國際貨幣基金組織（IMF）關於貨幣政策的小組會議上講話"
+          ],
+          "policy_analysis": []
+        }
+      ]
+    },
+    {
+      "id": "20260511",
+      "date": "2026-05-11",
+      "range_start": "2026-05-11 00:00:00",
+      "range_end": "2026-05-12 00:00:00",
+      "generated_at": "2026-05-15 16:54:48",
+      "count": 75,
+      "headline": "美國聯準會、歐洲央行、英國央行政策訊號受關注",
+      "central_banks": [
+        {
+          "id": "fed",
+          "name": "美國聯準會 Fed",
+          "status": "政策/紀要追蹤",
+          "has_policy_decision": true,
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_analysis": [
+            "Dollar Little Changed on Monday：The dollar index was little changed at 97.9 on Monday, as traders digested another setback in Middle East peace talks while awaiting further developments.",
+            "HASSETT: NOT GOING TO GIVE ADVICE ABOUT FED INTEREST RATES",
+            "高盛經濟學家目前預計美聯儲降息將被推遲：高盛的經濟學家下調了對美聯儲2026年寬鬆政策的預測。該行的經濟團隊目前預計美聯儲今年只會降息一次，即在12月，而不是高盛此前預測的在9月和12月降息兩次。高盛將其對第二次降息的預測推遲至2027年第一季度。高盛的David Mericle預計，在伊朗戰爭帶來的持續能源價格壓力下，今年個人消費支出價格指數(PCE)漲幅可能更接近3%，而不是2%。“我們確實認為有合理的可能性，如果該國經濟在目前的聯邦基金利率下全年保持",
+            "Gold Slides 1% as Oil Gains on U.S.-Iran Stalemate and Fed Rate Expectations Rise：Gold futures fall 1% as a lack of progress in U.S.-Iran peace talks pushes oil prices higher, fueling concerns over prolonged disruptions and higher inflation; “markets are increasingly expecting higher interes",
+            "世界黃金協會：在缺乏新催化劑的情況下，黃金可能處於疲軟期：世界黃金協會在市場評論中表示，黃金在技術面上似乎很脆弱，儘管其長期上升趨勢尚未被打破。世界黃金協會指出，受美元走弱和ETF資金流入的支撐，黃金在4月份收平。美聯儲的環境變得對黃金不太有利，政策利率期貨市場預期利率將在更長時間內保持高位。隨著對未來一年預期的強勁反彈，美國股市也有了更大的盈利緩衝。央行需求在結構上依然穩健，但“在霍爾木茲海峽干擾持續存在的情況下，對官方部門進一步出售或互換的擔憂可能仍是不利因素。“因此，"
+          ]
+        },
+        {
+          "id": "ecb",
+          "name": "歐洲央行 ECB",
+          "status": "政策/紀要追蹤",
+          "has_policy_decision": true,
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_analysis": [
+            "Euro Little-Changed on US-Iran Tensions, ECB Hike Bets：The euro remained above $1.175, close to its highest level in three weeks, as investors considered the impact of rising tensions between the US and Iran alongside growing expectations of additional ECB rate hik",
+            "Bund Yield Rises Amid Inflation Concerns：Germany’s 10-year Bund yield increased to 3.02% as oil prices climbed due to heightened tensions between the US and Iran, amplifying inflation concerns and strengthening expectations of further ECB rate hikes.",
+            "ECB'S KOCHER SAYS: THAT DOESN'T MEAN ONE SHOULD WAIT TOO LONG BEFORE RAISING INTEREST RATES IF THE SITUATION REGARDING ENERGY PRICES DOES NOT IMPROVE RAPIDLY AND SIGNIFICANTLY",
+            "ECB'S KOCHER SAYS: IN APRIL IT WAS A JUSTIFIABLE DECISION TO WAIT BEFORE RAISING INTEREST RATES",
+            "摩根士丹利：若風險偏好改善，美元或將下跌：摩根士丹利策略師在一份報告中表示，如果風險偏好改善，美元在未來幾個月可能會走弱。他們表示，在美國強勁的盈利提振股市的背景下，積極的風險偏好有空間推動美元走低。不過他們表示，這一觀點的前提是，即將公佈的美國資料不會太弱以至於導致盈利預期下調，也不會太強以至於引發對美聯儲加息的討論。他們表示，否則美元應會受益於美聯儲和歐洲央行之間息差的收窄。DXY美元指數平盤報97.903，摩根士丹利預計該指數將達到95.000。"
+          ]
+        },
+        {
+          "id": "boe",
+          "name": "英國央行 BoE",
+          "status": "政策/紀要追蹤",
+          "has_policy_decision": true,
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_analysis": [
+            "Musk, Cook Among Executives to Join Trump on China Trip for Xi Summit, White House Says：The White House is inviting senior executives including Elon Musk of Tesla, Tim Cook of Apple, and Boeing CEO Kelly Ortberg, along with leaders from Goldman Sachs, Blackstone, BlackRock, Citigroup, and Meta, to",
+            "摩根士丹利：英鎊面臨來自高收益貨幣的競爭：摩根士丹利策略師在一份報告中表示，隨著英鎊面臨來自高收益替代貨幣的競爭以及政治風險，英鎊的表現可能落後於非美貨幣。他們表示，全球宏觀經濟環境越來越有利於套息交易，即投資者借入低收益貨幣以投資於高收益貨幣。英國央行3.75%的政策利率仍然是英鎊的重要支撐。然而，投資者可能會尋求挪威克朗和澳元等收益率更高的G10替代貨幣，同時“高度關注與財政和政治前景相關的英鎊風險溢價和英國國債[英國政府債券]期限溢價的潛在上升“。",
+            "UK Gilt Yields Surge on Political Risks and US-Iran Standoff：UK 10-year gilt yields jumped to 5% as growing political uncertainty and the stalemate between the US and Iran over a peace deal drove oil prices higher, bringing inflation concerns to the forefront.",
+            "UK Gilt Yields Rise on Inflation Fears, Political Uncertainty：UK 10-year gilt yields climbed back above 4.95% as rising oil prices, driven by escalating tensions between the US and Iran, heightened inflation concerns and reinforced expectations of further Bank of England",
+            "Japan 10-Year Yield Rises as Oil Prices Surge：Japan’s 10-year government bond yield climbed to around 2.49% on Monday as oil prices spiked following President Donald Trump’s rejection of Iran’s response to his peace proposal, leaving the Strait of Hormuz e"
+          ]
+        },
+        {
+          "id": "boj",
+          "name": "日本央行 BoJ",
+          "status": "政策/紀要追蹤",
+          "has_policy_decision": true,
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_analysis": [
+            "日本政府顧問小組敦促日本央行謹慎推進加息：日本政府一個關鍵顧問小組敦促日本央行在制定貨幣政策時，考慮企業融資環境惡化的風險，這表明如果行長植田和男在下個月推動加息，可能會面臨一定阻力。該政府經濟與財政政策會議的民間成員在週一會議提交的材料中表示：“我們預計日本央行在制定適當貨幣政策時，將綜合考慮金融市場融資狀況，並持續關注物價走勢。”該小組還指出，商品短缺和價格上漲可能增加企業融資需求，因此央行應對此保持警惕。",
+            "Japan 10-Year Yield Rises as Oil Prices Surge：Japan’s 10-year government bond yield climbed to around 2.49% on Monday as oil prices spiked following President Donald Trump’s rejection of Iran’s response to his peace proposal, leaving the Strait of Hormuz e",
+            "日本政府顧問小組敦促日本央行謹慎推進加息：日本政府一個關鍵顧問小組敦促日本央行在制定貨幣政策時，考慮企業融資環境惡化的風險，這表明如果行長植田和男在下個月推動加息，可能會面臨一定阻力。該政府經濟與財政政策會議的民間成員在週一會議提交的材料中表示：“我們預計日本央行在制定適當貨幣政策時，將綜合考慮金融市場融資狀況，並持續關注物價走勢。”該小組還指出，商品短缺和價格上漲可能增加企業融資需求，因此央行應對此保持警惕。",
+            "MEMBERS OF KEY JAPAN ECONOMIC PANEL URGE BOJ TO BE CAUTIOUS ABOUT RISK OF FUNDING STRAINS ON FIRMS VULNERABLE TO MIDEAST SUPPLY SHOCKS",
+            "市場分析：日本央行或配合干預行動加息：大和證券的策略師在一份研報中指出，鑑於日本曾在2022年和2024年採取過外匯市場干預行動，日本央行此次也可能配合財務省的匯市干預措施同步上調利率。策略師們表示，值得關注的是，美國財長貝森特在本週訪問東京期間，是否會提及日本央行有必要收緊貨幣政策以協助穩定外匯市場。貝森特此前曾表示，他將於週二在東京分別會見日本首相高市早苗和財務大臣片山皋月。"
+          ]
+        },
+        {
+          "id": "rba",
+          "name": "澳洲聯儲 RBA",
+          "status": "追蹤中",
+          "has_policy_decision": false,
+          "officials": [
+            "TANKER WITH AZERBAIJANI CRUDE OIL FOR ENEOS TO ARRIVE IN JAPAN ON TUESDAY, JAPAN GOVT SAYS"
+          ],
+          "expectations": [],
+          "reports": [],
+          "policy_analysis": []
+        },
+        {
+          "id": "boc",
+          "name": "加拿大央行 BoC",
+          "status": "政策/紀要追蹤",
+          "has_policy_decision": true,
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_analysis": [
+            "經濟學家：在勞動力市場惡化的情況下，加拿大“絕無可能“加息：經濟學家兼Rosenberg Research負責人David Rosenberg表示，在勞動力市場疲軟的情況下，加拿大央行“絕無可能“上調政策利率。“要不是因為美伊戰爭相關的油價衝擊，該央行可能已經在討論恢復降息計劃了，”Rosenberg寫道。4月份的就業資料顯示，在2026年的前四個月裡，該國經濟淨減少了11.2萬個就業崗位。然而他指出，固定收益交易員已經反映了在2026年底前至少加息兩次的預期。“加拿大勞動力",
+            "TSX Gains as Mining Stocks Rally：The S&P/TSX Composite Index gained 0.5% on Monday, lifted by strong gains in the mining sector.",
+            "經濟學家：在勞動力市場惡化的情況下，加拿大“絕無可能“加息：經濟學家兼Rosenberg Research負責人David Rosenberg表示，在勞動力市場疲軟的情況下，加拿大央行“絕無可能“上調政策利率。“要不是因為美伊戰爭相關的油價衝擊，該央行可能已經在討論恢復降息計劃了，”Rosenberg寫道。4月份的就業資料顯示，在2026年的前四個月裡，該國經濟淨減少了11.2萬個就業崗位。然而他指出，固定收益交易員已經反映了在2026年底前至少加息兩次的預期。“加拿大勞動力",
+            "TSX Gains as Mining Stocks Rally：The S&P/TSX Composite Index gained 0.5% on Monday, lifted by strong gains in the mining sector.",
+            "經濟學家：在勞動力市場惡化的情況下，加拿大“絕無可能“加息：經濟學家兼Rosenberg Research負責人David Rosenberg表示，在勞動力市場疲軟的情況下，加拿大央行“絕無可能“上調政策利率。“要不是因為美伊戰爭相關的油價衝擊，該央行可能已經在討論恢復降息計劃了，”Rosenberg寫道。4月份的就業資料顯示，在2026年的前四個月裡，該國經濟淨減少了11.2萬個就業崗位。然而他指出，固定收益交易員已經反映了在2026年底前至少加息兩次的預期。“加拿大勞動力"
+          ]
+        },
+        {
+          "id": "rbi",
+          "name": "印度央行 RBI",
+          "status": "追蹤中",
+          "has_policy_decision": false,
+          "officials": [
+            "印度據悉考慮限制黃金進口、提高燃料價格等 以挽救外匯儲備：據外媒援引知情人士透露，印度正考慮採取緊急措施以支撐外匯儲備，包括限制黃金和消費電子產品等非必要進口，並上調燃料價格，以幫助經濟緩衝伊朗戰爭帶來的衝擊。知情人士稱，總理辦公室與財政部官員已同印度央行就多項可能採取的措施展開討論，以限制油價飆升對經濟造成的損害。知情人士表示，目前討論中的方案之一是提高燃料價格。這將是伊朗戰爭爆發以來印度首次上調燃料價格，也發生在印總理莫迪近期地方選舉大獲全勝之後。不過，相關緊急措施尚未",
+            "OFFICIALS IN PM’S OFFICE & FIN MIN HELD DISCUSSIONS WITH RESERVE BANK OF INDIA ON MEASURES TO LIMIT DAMAGE FROM SOARING OIL PRICES",
+            "Top Crypto Stories of PAST 48 Hours - MKTNews：Bitcoin / Institutional Flows - Michael Saylor says Strategy would buy “10 to 20” bitcoin for every one it sells: report - Bitcoin whale address moves $41 million in BTC after 12-year dormancy: onchain data - M"
+          ],
+          "expectations": [
+            "India 10Y Yield Climbs to 1-Month High：The yield on India’s 10-year G-Sec rose to around 7%, extending gains to reach a month high as government bonds tracked a sell-off in US Treasuries amid a broader risk-off tone in global markets.",
+            "Indian Rupee Extends Losses：The Indian rupee fell to around 94.9 per dollar, holding recent losses as investor sentiment weakened amid escalating geopolitical tensions in the Middle East and a sharp surge in global oil prices."
+          ],
+          "reports": [
+            "Top Crypto Stories of PAST 48 Hours - MKTNews：Bitcoin / Institutional Flows - Michael Saylor says Strategy would buy “10 to 20” bitcoin for every one it sells: report - Bitcoin whale address moves $41 million in BTC after 12-year dormancy: onchain data - M",
+            "Indian Rupee Extends Losses：The Indian rupee fell to around 94.9 per dollar, holding recent losses as investor sentiment weakened amid escalating geopolitical tensions in the Middle East and a sharp surge in global oil prices."
+          ],
+          "policy_analysis": []
+        },
+        {
+          "id": "bcb",
+          "name": "巴西央行 BCB",
+          "status": "今日資料不足",
+          "has_policy_decision": false,
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_analysis": []
+        },
+        {
+          "id": "snb",
+          "name": "瑞士央行 SNB",
+          "status": "今日資料不足",
+          "has_policy_decision": false,
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_analysis": []
+        }
+      ]
+    },
+    {
+      "id": "20260510",
+      "date": "2026-05-10",
+      "range_start": "2026-05-10 00:00:00",
+      "range_end": "2026-05-11 00:00:00",
+      "generated_at": "2026-05-15 16:54:48",
+      "count": 6,
+      "headline": "美國聯準會政策訊號受關注",
+      "central_banks": [
+        {
+          "id": "fed",
+          "name": "美國聯準會 Fed",
+          "status": "政策/紀要追蹤",
+          "has_policy_decision": true,
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_analysis": [
+            "品浩首席投資官丹・伊萬斯金表示，伊朗戰事可能致使美聯儲進一步推遲降息，甚至轉而加息。",
+            "Pimco首席投資官：受伊朗戰事影響，美聯儲存在加息風險：Pimco首席投資官丹・伊萬斯金表示，伊朗戰爭或導致美聯儲進一步推遲降息，甚至轉而加息。據採訪報道，這家債券巨頭的首席投資官稱，伊朗封鎖霍爾木茲海峽引發的能源價格飆升，為美國政策制定者帶來了新挑戰 —— 他們一直難以將通脹降至央行 2% 的目標水平。伊萬斯金表示：“美國距離（2% 通脹目標）更遠了，但如今歐洲、英國，甚至日本可能會出現更多緊縮政策，我也不排除美國採取此類措施的可能性。”他補充道，“考慮到通脹動態及其不",
+            "品浩首席投資官丹・伊萬斯金表示，伊朗戰事可能致使美聯儲進一步推遲降息，甚至轉而加息。",
+            "Pimco首席投資官：受伊朗戰事影響，美聯儲存在加息風險：Pimco首席投資官丹・伊萬斯金表示，伊朗戰爭或導致美聯儲進一步推遲降息，甚至轉而加息。據採訪報道，這家債券巨頭的首席投資官稱，伊朗封鎖霍爾木茲海峽引發的能源價格飆升，為美國政策制定者帶來了新挑戰 —— 他們一直難以將通脹降至央行 2% 的目標水平。伊萬斯金表示：“美國距離（2% 通脹目標）更遠了，但如今歐洲、英國，甚至日本可能會出現更多緊縮政策，我也不排除美國採取此類措施的可能性。”他補充道，“考慮到通脹動態及其不",
+            "美國白宮國家經濟委員會主任哈塞特：凱文・沃什入主美聯儲行事穩健、處事可靠。"
+          ]
+        },
+        {
+          "id": "ecb",
+          "name": "歐洲央行 ECB",
+          "status": "追蹤中",
+          "has_policy_decision": false,
+          "officials": [
+            "歐洲央行與印度儲備銀行同意定期資訊交流、開展政策對話。"
+          ],
+          "expectations": [],
+          "reports": [],
+          "policy_analysis": []
+        },
+        {
+          "id": "boe",
+          "name": "英國央行 BoE",
+          "status": "今日資料不足",
+          "has_policy_decision": false,
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_analysis": []
+        },
+        {
+          "id": "boj",
+          "name": "日本央行 BoJ",
+          "status": "今日資料不足",
+          "has_policy_decision": false,
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_analysis": []
+        },
+        {
+          "id": "rba",
+          "name": "澳洲聯儲 RBA",
+          "status": "今日資料不足",
+          "has_policy_decision": false,
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_analysis": []
+        },
+        {
+          "id": "boc",
+          "name": "加拿大央行 BoC",
+          "status": "今日資料不足",
+          "has_policy_decision": false,
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_analysis": []
+        },
+        {
+          "id": "rbi",
+          "name": "印度央行 RBI",
+          "status": "今日資料不足",
+          "has_policy_decision": false,
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_analysis": []
+        },
+        {
+          "id": "bcb",
+          "name": "巴西央行 BCB",
+          "status": "今日資料不足",
+          "has_policy_decision": false,
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_analysis": []
+        },
+        {
+          "id": "snb",
+          "name": "瑞士央行 SNB",
+          "status": "今日資料不足",
+          "has_policy_decision": false,
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_analysis": []
+        }
+      ]
+    },
+    {
+      "id": "20260509",
+      "date": "2026-05-09",
+      "range_start": "2026-05-09 00:00:00",
+      "range_end": "2026-05-10 00:00:00",
+      "generated_at": "2026-05-15 16:54:48",
+      "count": 58,
+      "headline": "美國聯準會、加拿大央行政策訊號受關注",
+      "central_banks": [
+        {
+          "id": "fed",
+          "name": "美國聯準會 Fed",
+          "status": "政策/紀要追蹤",
+          "has_policy_decision": true,
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_analysis": [
+            "“債王”最新警告：美聯儲年內降息的希望可能已完全熄滅：在全球股票市場火熱上漲之際，“債券之王”卻對那些投身風險資產交易的投資者發出警告。本週，“債券之王”、DoubleLine 資本首席投資官傑弗裡·岡拉克（Jeffrey Gundlach）在接受採訪時表示，他認為股票和其他風險資產上空籠罩著幾大風險（尤其是美聯儲可能加息而非降息的風險），因此他建議投資者今年在投資組合中增加現金、黃金和其他“實物資產”。他特別指出，年初時，市場曾預期美聯儲在2026年年底前可能會降息2",
+            "白銀一季度衝高回落，二季度或繼續溫和上漲：宏觀面來看，由於特朗普主要目的為獲取中東低價原油、遏制伊方核計劃以及擴大美元在原油結算的主導地位，而非持續製造能源價格危機。宏觀利多的可能性相對較大，但仍需要分情況進行討論。如美伊局勢升級導致原油價格繼續飆升且造成滯脹，市場雖然會定價黃金的抗通脹和避險價值，進而帶動白銀，但產業面的疲軟對白銀形成拖累，白銀上漲空間有限或一定程度回撤；而如果中東局勢未造成滯脹，美聯儲為規避通脹風險而進入加息程序，白銀將承壓為主；如果美伊",
+            "美銀大幅修正預期：美聯儲不太可能在2027年前降息：根據美國銀行的最新預測，美聯儲將推遲降息直至2027年下半年，主要原因是通脹水平較高以及就業增長態勢良好。美國銀行全球研究部門此前曾預計美聯儲今年會在9月和10月各降息一次，這一觀點部分是基於這樣的預期：特朗普提名凱文·沃什將接替傑羅姆·鮑威爾擔任美聯儲主席的，而沃什將會引導政策制定者採取放鬆貨幣政策的措施。但現在隨著經濟形勢的變化，這種觀點已經發生了改變。美銀經濟學家週五（5月8日）在給客戶的一份報告中表示，“我們",
+            "華泰證券：4月新增非農超預期抬高聯儲降息門檻，美聯儲6月降息難度較大：華泰證券指出，4月新增非農超預期抬高聯儲降息門檻，聯儲6月降息難度較大；此外密切關注AI應用加速對就業市場的影響。2026年以來，非農資料整體回升，1-4月均值為7.6萬/月，相對去年四季度的-5.0萬/月明顯改善，背後主要原因是企業僱傭意願持續回升。油價整體位於高位，非農就業偏強，失業率偏低意味著聯儲6月降息難度較大。但向前看，聯儲仍有一定降息空間：前瞻指標NFIB指示新增非農後續仍有回落，勞動參與率或回升以及季節",
+            "沃勒推動美聯儲支援性職能的集中化：美聯儲理事克里斯托弗·沃勒(Christopher Waller)正倡導對美聯儲系統的支援性職能處理方式採取一種新模式，他認為將人力資源、資訊科技(IT)和風險管理等職能集中化，將有助於提高效率和改善管理。沃勒週五下午在Stanford University的胡佛研究所(Hoover Institution)舉行的一場貨幣政策會議上表示，目前在許多情況下，這些運營職能由美聯儲的12家地區性儲備銀行各自獨立處理，這些銀"
+          ]
+        },
+        {
+          "id": "ecb",
+          "name": "歐洲央行 ECB",
+          "status": "追蹤中",
+          "has_policy_decision": false,
+          "officials": [
+            "歐洲央行管委、西班牙央行行長埃斯克裡瓦表示：“私人穩定幣本質上無法錨定貨幣體系：它們的穩定性依賴於對其支撐的信心，而這種信心可能在最需要的時候消失。央行提供的——也是任何私人工具都無法替代的——是金融體系賴以生存的最終信任錨。”",
+            "歐洲央行行長拉加德：正仔細權衡伊朗衝突對通脹的影響：歐洲央行行長拉加德週六表示，正在仔細權衡伊朗衝突對通脹的影響，以確保行動既不過早也不過晚。",
+            "ECB WILL TAKE NECESSARY ACTIONS TO CONTROL RISING ENERGY PRICES, SAYS NAGEL"
+          ],
+          "expectations": [
+            "歐洲央行行長拉加德：正仔細權衡伊朗衝突對通脹的影響：歐洲央行行長拉加德週六表示，正在仔細權衡伊朗衝突對通脹的影響，以確保行動既不過早也不過晚。"
+          ],
+          "reports": [],
+          "policy_analysis": []
+        },
+        {
+          "id": "boe",
+          "name": "英國央行 BoE",
+          "status": "追蹤中",
+          "has_policy_decision": false,
+          "officials": [
+            "The Dow Jones Index Closes 0.02% Higher：The Dow Jones Index gained 12 points or 0.02 percent on Friday to close at 49609 points."
+          ],
+          "expectations": [],
+          "reports": [],
+          "policy_analysis": []
+        },
+        {
+          "id": "boj",
+          "name": "日本央行 BoJ",
+          "status": "追蹤中",
+          "has_policy_decision": false,
+          "officials": [
+            "日本疑似入市干預後，日元空頭從兩年高位大幅回撤：美國監管機構週五公佈的周度資料顯示，受預估規模超600 億美元的日本疑似匯市干預行動衝擊，投機者減持了兩年來規模最大的日元空頭押注。美國商品期貨交易委員會資料顯示，截至 5 月 5 日當週，日元淨空頭持倉降至 61738 手合約，較前一週接近兩年高點的 102059 手合約明顯回落。知情人士週五透露，日本繼 4 月 30 日入市買入日元之後，又在 5 月初假期期間再度干預外匯市場。日本官方尚未對此予以證實，但數月來日"
+          ],
+          "expectations": [
+            "日本疑似入市干預後，日元空頭從兩年高位大幅回撤：美國監管機構週五公佈的周度資料顯示，受預估規模超600 億美元的日本疑似匯市干預行動衝擊，投機者減持了兩年來規模最大的日元空頭押注。美國商品期貨交易委員會資料顯示，截至 5 月 5 日當週，日元淨空頭持倉降至 61738 手合約，較前一週接近兩年高點的 102059 手合約明顯回落。知情人士週五透露，日本繼 4 月 30 日入市買入日元之後，又在 5 月初假期期間再度干預外匯市場。日本官方尚未對此予以證實，但數月來日"
+          ],
+          "reports": [
+            "Week Ahead - May 11th：Geopolitical tension in the Middle East will remain the focus for global markets as the US-Iran ceasefire was repeatedly threatened last week."
+          ],
+          "policy_analysis": []
+        },
+        {
+          "id": "rba",
+          "name": "澳洲聯儲 RBA",
+          "status": "今日資料不足",
+          "has_policy_decision": false,
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_analysis": []
+        },
+        {
+          "id": "boc",
+          "name": "加拿大央行 BoC",
+          "status": "政策/紀要追蹤",
+          "has_policy_decision": true,
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_analysis": [
+            "TSX Gains as Dovish BoC Bets Offset Middle East Risks：The S&P/TSX Composite gained 0.6% to close at 34,078 on Friday, as investors assessed the North American labor backdrop and the outlook for Middle East energy supply.",
+            "Canadian Dollar Weakens on Underwhelming Labor Data：The Canadian dollar weakened to 1.37 per USD, extending the pullback from the seven-week high of 1.358 on April 30th following weak domestic labor data.",
+            "TSX Gains as Dovish BoC Bets Offset Middle East Risks：The S&P/TSX Composite gained 0.6% to close at 34,078 on Friday, as investors assessed the North American labor backdrop and the outlook for Middle East energy supply.",
+            "Canadian Dollar Weakens on Underwhelming Labor Data：The Canadian dollar weakened to 1.37 per USD, extending the pullback from the seven-week high of 1.358 on April 30th following weak domestic labor data.",
+            "TSX Gains as Dovish BoC Bets Offset Middle East Risks：The S&P/TSX Composite gained 0.6% to close at 34,078 on Friday, as investors assessed the North American labor backdrop and the outlook for Middle East energy supply."
+          ]
+        },
+        {
+          "id": "rbi",
+          "name": "印度央行 RBI",
+          "status": "追蹤中",
+          "has_policy_decision": false,
+          "officials": [],
+          "expectations": [
+            "European Stocks Close Lower for 2nd Session：European stocks closed sharply lower for a second session on Friday as fresh strikes between Iran and the US added to risks of energy shortages for major European importers."
+          ],
+          "reports": [
+            "European Stocks Close Lower for 2nd Session：European stocks closed sharply lower for a second session on Friday as fresh strikes between Iran and the US added to risks of energy shortages for major European importers."
+          ],
+          "policy_analysis": []
+        },
+        {
+          "id": "bcb",
+          "name": "巴西央行 BCB",
+          "status": "今日資料不足",
+          "has_policy_decision": false,
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_analysis": []
+        },
+        {
+          "id": "snb",
+          "name": "瑞士央行 SNB",
+          "status": "今日資料不足",
+          "has_policy_decision": false,
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_analysis": []
+        }
+      ]
+    }
+  ]
 }
