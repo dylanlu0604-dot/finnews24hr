@@ -1,7 +1,56 @@
 {
-  "updated": "2026-05-15 23:37:32",
-  "count": 15517,
+  "updated": "2026-05-15 23:40:58",
+  "count": 15513,
   "items": [
+    {
+      "id": "te:markets:551248",
+      "time": "2026-05-15 23:40:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Falls 2% — The FTSE 100 plunged 2% on Friday as investors reacted to a mix of concerns over rising inflation, interest rate uncertainty and mounting political tensions in the UK. UK markets underperformed amid speculation that Greater Manchester Mayor Andy Burnham could launch a challenge for the top job in Westminster, adding to political uncertainty. Mining and banking stocks led the selloff, with Fresnillo and Antofagasta tumbling more than 10%, Anglo American falling 6.3% and Endeavour down 7.3%, while Glencore and Rio Tinto lost more than 3.5%. Banking shares were also under heavy pressure, with HSBC declining 2.5%, Lloyds and Barclays dropping more than 3%, and NatWest and Standard Chartered losing over 1.5%. Centrica slumped 7% after agreeing to pay £20 million to settle an Ofgem investigation into claims that British Gas forced struggling customers onto prepayment meters."
+    },
+    {
+      "id": "4882630",
+      "time": "2026-05-15 23:40:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國能源部長賴特：美國能“輕鬆”將天然氣出口量翻一番】美國能源部長賴特週五在得克薩斯州薩賓帕斯的一場活動中表示，特朗普政府將竭盡所能降低汽油價格。“我們理解，如今美國民眾支付的油價高於他們的預期，也高於我們希望看到的水平，但遏制伊朗獲得核武器的能力至關重要，”他說。“這確實造成了一些短期干擾。但這種情況會過去，汽油價格很快會回落，”他說。賴特表示，美國“輕鬆”就能將天然氣出口量翻一番，且不會推高國內價格。“天然氣資源極其豐富，數量之大令人驚歎，”他說道，並指出美國目前的天然氣出口約佔其產量的20%。"
+    },
+    {
+      "id": "4882629",
+      "time": "2026-05-15 23:40:04",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美銀策略師：6月初將是美股獲利了結的良機】美國銀行策略師表示，由於投資者湧入股市以及通脹風險抬頭，美股在6月初已具備獲利了結的條件。由Michael Hartnett領導的美銀團隊在報告中寫道，日益增長的價格壓力正對美國產生廣泛影響，涵蓋了從能源、交通成本到房租等各個領域。美股市場近期多次重新整理歷史高點。6月的一系列重要日子可能引發股市的謹慎情緒。策略師們提到了即將舉行的OPEC會議、世界盃開幕、G7峰會，以及凱文·沃什執掌美聯儲後的首次議息會議，這些都被視為潛在的催化劑。Hartnett表示：“向股票和科技股‘多頭投降’的過程會在未來幾周內徹底完成，6月初將是減倉套現的好時機。”"
+    },
+    {
+      "id": "4882628",
+      "time": "2026-05-15 23:39:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "【英國國債大跌 投資者為伯納姆挑戰斯塔默做準備】英國國債下跌，此前曼徹斯特市長安迪·伯納姆獲得了一條可能挑戰基爾·斯塔默英國首相職位的路徑，這引發了市場對英國可能再次出現政治不穩定的擔憂，而投資者擔心這會帶來更加寬鬆的財政政策。對政治風險最為敏感的30年期英國國債收益率飆升20個基點至5.86%，創1998年以來最高水平。與此同時，全球範圍內對高能源成本和通脹的擔憂也推動了這一走勢。伯納姆宣佈他打算競選議會議員 —— 這是挑戰斯塔默所必需的前提條件 —— 使英鎊兌美元勢將錄得自2024年以來最差的單週表現。儘管伯納姆最終成為首相仍面臨許多障礙，但英國債券交易員仍將這種可能性視為一種風險。他們擔心，伯納姆可能會增加公共支出，從而擴大英國國債的發行規模。雖然伯納姆表示，他去年關於英國“受制於債券市場”的言論被斷章取義，但這些言論仍然令投資者感到不安。此外，他還曾暗示，國防支出可能會被視為例外情況。"
+    },
+    {
+      "id": "te:economy:551247",
+      "time": "2026-05-15 23:38:41",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Colombia",
+        "Leading Economic Index",
+        "Importance 1"
+      ],
+      "text": "Colombia Economic Activity Accelerates in March — Colombia's leading economic index rose 3.98% year-on-year in March 2026, accelerating from a 1.65% gain in February. The tertiary sector rose 5.26%, while secondary and primary activities rose 3.17% and 1.94%, respectively. On a seasonally adjusted monthly basis, economic activity rose by 0.42%, following a 0.31% rise."
+    },
     {
       "id": "mkt:019e2c49-0650-7663-82f9-d82a0544c652",
       "time": "2026-05-15 23:37:12",
@@ -139851,94 +139900,6 @@
         "國際"
       ],
       "text": "據伊朗法爾斯通訊社： 伊朗議會議員表示，美國驅逐艦若擔心遭擊沉，就必須配備護航艦艇，以便及時營救己方人員。"
-    },
-    {
-      "id": "4868939",
-      "time": "2026-05-08 23:40:38",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【奈及利亞改革吸引投資者，資產價格反彈200%勢頭走強】隨著投資者對博拉·提努布總統經濟議程的信心增強，奈及利亞的股票、債券和貨幣資產正在全面反彈。在彭博社跟蹤的92個全球指數中，該國基準股指今年以美元計算已上漲66%——表現僅次於韓國綜合股價指數（Kospi）。這使得該指數過去12個月的漲幅接近200%。本幣政府債券的表現優於大多數新興市場同行，而奈拉是非洲表現第二好的貨幣，僅次於尚比亞克瓦查。投資者正重返奈及利亞資本市場，外資開始買入奈及利亞股票，且該國市場在被重新分類為前沿市場（frontier-market）地位後獲得了提振。"
-    },
-    {
-      "id": "4868938",
-      "time": "2026-05-08 23:40:28",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "花旗集團執行長：供應鏈短缺問題將持續存在，通脹挑戰也將更為持久。"
-    },
-    {
-      "id": "mkt:019e083f-4198-7aa7-bba6-e221cf89b9d4",
-      "time": "2026-05-08 23:40:23",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "CITIGROUP CEO FRASER SAYS WE WILL SEE SUPPLY CHAIN SHORTAGE AND MORE PROTRACTED INFLATION CHALLENGE - CNBC"
-    },
-    {
-      "id": "te:markets:549314",
-      "time": "2026-05-08 23:40:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Cocoa Futures Remain Near 3-Month Highs — Cocoa futures eased to below $4,200 per tonne but stayed close to recent 3-month highs, supported by receding short covering while fundamentals stayed broadly supportive. Traders continued to closely monitor reports of irregular rainfall in parts of Ivory Coast and Ghana, as well as growing concerns about the potential return of adverse weather patterns linked to El Niño in the coming months. At the same time, rising geopolitical tensions in the Middle East, including disruptions in the Strait of Hormuz, have pushed up energy and transportation costs, increasing fertilizer prices and tightening global agricultural supply chains. This is raising concerns over output in key West African producers, particularly the Ivory Coast. Meanwhile, Ghana plans to raise $1 billion via domestic bonds to finance cocoa purchases ahead of the 2026/27 crop season, as it moves to restructure cocoa financing amid ongoing debt strains."
-    },
-    {
-      "id": "4868937",
-      "time": "2026-05-08 23:39:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗方面：美國既無法認清當前局勢，也找不到脫身之策。"
-    },
-    {
-      "id": "te:economy:549313",
-      "time": "2026-05-08 23:38:58",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Canada",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Canada 10-Year Bond Yield Pulls Back — Canada’s 10-year government bond yield fell to 3.5% from the two-year high of 3.62% reached on May 4th, as pessimistic labor data consolidated bets of a dovish Bank of Canada. Net employment in Canada unexpectedly fell by 17.7 thousand jobs from the previous month in April, and the unemployment rate rose to a six-month high. The data aligned with the BoC's signal that it would prioritize growth this year as it does not see high risks of inflation becoming entrenched, so far. Still, elevated energy prices helped push Canada’s annual inflation rate to 2.4% in March. New tensions between Iran and the US drove markets to be cautious about the possibility of an agreement that restores oil supply from the region, halting the pullback in oil prices."
-    },
-    {
-      "id": "4868936",
-      "time": "2026-05-08 23:38:48",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗最高領袖顧問穆赫貝爾：阿聯酋已受到懲罰，並將遭受更嚴厲的懲罰。這些曾被視為投資避風港的國家，如今正面臨資本外逃。（伊朗媒體Fars News）"
-    },
-    {
-      "id": "mkt:019e083d-7785-7aa7-bba6-db7f1561b7be",
-      "time": "2026-05-08 23:38:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IRAN'S MOKHBER: EMIRATIS HAVE BEEN PUNISHED AND WILL BE PUNISHED MORE. THESE COUNTRIES ONCE SEEN AS INVESTMENT HAVENS NOW FACING CAPITAL FLIGHT - FARS"
-    },
-    {
-      "id": "4868935",
-      "time": "2026-05-08 23:37:39",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "明晟公司MSCI北歐國家指數跌1.0%，報380.04點，創4月29日以來收盤新低。在十個板塊中，北歐工業板塊跌幅最大。Genmab A/S跌6.7%，在一眾北歐個股裡表現最差。"
     }
   ]
 }
