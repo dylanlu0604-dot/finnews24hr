@@ -1,7 +1,27 @@
 {
-  "updated": "2026-05-16 00:22:47",
-  "count": 15551,
+  "updated": "2026-05-16 00:26:12",
+  "count": 15553,
   "items": [
+    {
+      "id": "te:markets:551272",
+      "time": "2026-05-16 00:25:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Parker-Hannifin Stock Price Hits 6-week Low — Parker-Hannifin shares decreased to 860.00 USD, the lowest since March 2026. Over the past 4 weeks, Parker -Hannifin lost 9.93%, and in the last 12 months, it increased 26.68%."
+    },
+    {
+      "id": "4882689",
+      "time": "2026-05-16 00:23:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們手下留情，沒有打擊伊朗的橋樑與發電站，我們只需兩天就能將其徹底摧毀。"
+    },
     {
       "id": "4882688",
       "time": "2026-05-16 00:22:07",
