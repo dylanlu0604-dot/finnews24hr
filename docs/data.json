@@ -1,7 +1,27 @@
 {
-  "updated": "2026-05-16 02:52:08",
-  "count": 15599,
+  "updated": "2026-05-16 02:55:27",
+  "count": 15601,
   "items": [
+    {
+      "id": "4882835",
+      "time": "2026-05-16 02:53:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油期貨收於每桶109.26美元，上漲3.54美元，漲幅為3.35%。"
+    },
+    {
+      "id": "mkt:019e2cfb-60ac-7663-82fb-c0279593939d",
+      "time": "2026-05-16 02:52:12",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "BRENT CRUDE FUTURES SETTLE AT $109.26/BBL, UP $3.54, 3.35 PCT"
+    },
     {
       "id": "4882834",
       "time": "2026-05-16 02:48:14",
