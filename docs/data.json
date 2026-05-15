@@ -1,7 +1,33 @@
 {
-  "updated": "2026-05-15 11:35:15",
-  "count": 15259,
+  "updated": "2026-05-15 11:38:39",
+  "count": 15255,
   "items": [
+    {
+      "id": "4881145",
+      "time": "2026-05-15 11:38:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "亞洲開發銀行：準備向菲律賓提供高達17.5億美元的融資。"
+    },
+    {
+      "id": "4881144",
+      "time": "2026-05-15 11:37:53",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本20年期國債收益率升至3.605%，創1996年以來新高。"
+    },
+    {
+      "id": "4881143",
+      "time": "2026-05-15 11:35:18",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達70億港元。"
+    },
     {
       "id": "4881142",
       "time": "2026-05-15 11:34:37",
@@ -137720,77 +137746,6 @@
         "市場"
       ],
       "text": "索尼集團股價扭轉跌勢，一度上漲7.3%。"
-    },
-    {
-      "id": "mkt:019e05a9-c08f-7775-8cbd-9b9eb57fe0b9",
-      "time": "2026-05-08 11:37:51",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "CHINA FINANCE MINISTRY AUCTIONS 2-YEAR BONDS AT 1.2295 PCT YIELD - TRADERS"
-    },
-    {
-      "id": "4867588",
-      "time": "2026-05-08 11:37:28",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【愛迪特：後續將持續調整價格策略 不排除進一步提價可能】愛迪特(301580)5月7日在業績說明會上表示，在價格調整策略方面，公司採取了產品分層、客戶分層、分步落地的精細化原則，後續將根據市場競爭情況、成本上漲幅度持續調整，不排除進一步提價可能，對於核心原材料市場供需導致成本結構、市場供需和客戶價值等大幅變化，公司可能考慮不設定固定的調價頻率，確保價格機制能夠有效反映市場變化。"
-    },
-    {
-      "id": "4867587",
-      "time": "2026-05-08 11:36:56",
-      "tags": [
-        "市場",
-        "觀點",
-        "國際",
-        "原創"
-      ],
-      "text": "【野村上調亞股年底目標位 看好AI相關公司盈利並預計中東風險降低】野村策略師上調MSCI除日本外亞洲指數的年底目標位，理由是對人工智慧推動的盈利增長更有信心，並且中東衝突相關的風險溢價回落。野村策略師在報告中指出，亞洲AI供應鏈的盈利動能強於預期，尤其是韓國和中國臺灣地區大型半導體及科技硬體企業，並且美伊衝突相關風險緩解。雖然更廣泛的區域基本面和上漲潛力仍然喜憂參半，但相對少數與AI相關的公司盈利表現強勁，仍可繼續在指數層面帶來顯著上行空間。野村將MSCI除日本外亞洲指數目標位從1,094點上調至1,316點，意味著較週四收盤水平仍有16%的上漲空間。野村建議繼續超配韓國和MSCI中國指數，對印度持中性看法。在東南亞市場中，野村更看好新加坡和馬來西亞。"
-    },
-    {
-      "id": "mkt:019e05a8-ad90-7775-8cbd-94eb4aad46a1",
-      "time": "2026-05-08 11:36:40",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "CNH",
-        "Hang Seng Index"
-      ],
-      "text": "CHINA FINANCE MINISTRY AUCTIONS 30-YEAR ULTRA-LONG SPECIAL TREASURY BONDS AT 2.2412 PCT YIELD - TRADERS"
-    },
-    {
-      "id": "mkt:019e05a7-ad54-7775-8cbd-8e4a93ccd47c",
-      "time": "2026-05-08 11:35:35",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Israeli Officials Say Any Deal With Iran Would Be Harmful to Israel - isna94】Israeli officials said that any agreement with Iran would be detrimental to Israel, even if it includes provisions to remove enriched uranium, according to a report cited by the Hebrew-language outlet Israel Hayom."
-    },
-    {
-      "id": "4867586",
-      "time": "2026-05-08 11:35:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "【森麒麟：已給相關飛機制造企業小批次供貨】森麒麟5月8日在互動平臺表示，公司已給相關飛機制造企業小批次供貨。同時公司正在積極進行航空輪胎客戶開發工作。"
-    },
-    {
-      "id": "4867585",
-      "time": "2026-05-08 11:35:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "截至4月底，印尼外匯儲備降至1462億美元。"
     }
   ]
 }
