@@ -1410,8 +1410,8 @@ def official_item_text(item) -> str:
 def central_bank_official_issues(
     result: dict,
     required: dict[str, list[str]],
-    min_chars: int = 380,
-    min_detail_points: int = 5,
+    min_chars: int = 300,
+    min_detail_points: int = 4,
 ) -> list[str]:
     issues = []
     for bank in result.get("central_banks", []):
@@ -1438,7 +1438,7 @@ def central_bank_official_issues(
                         issues.append(f"{bank.get('name', bank.get('id', '央行'))} officials 第 {idx} 點第 {detail_idx} 個細項格式錯誤")
                         continue
                     detail_compact = re.sub(r"\s+", "", f"{detail.get('title', '')}{detail.get('text', '')}")
-                    if len(detail_compact) < 35:
+                    if len(detail_compact) < 20:
                         issues.append(f"{bank.get('name', bank.get('id', '央行'))} officials 第 {idx} 點第 {detail_idx} 個細項太短")
             else:
                 text = item
@@ -1545,7 +1545,7 @@ def call_openai_central_bank_summary(items: list[dict], start: datetime, end: da
             "additionalProperties": False,
             "properties": {
                 "title": {"type": "string"},
-                "text": {"type": "string", "minLength": 35},
+                "text": {"type": "string", "minLength": 20},
             },
             "required": ["title", "text"],
         },
@@ -1669,9 +1669,9 @@ def call_openai_central_bank_summary(items: list[dict], start: datetime, end: da
 
 請重新輸出完整 JSON。這次 officials 必須是一位官員一個物件，不可把多位官員合併成同一點。
 可辨識官員名單中的每位官員都要逐一覆蓋，不能漏人。
-每位官員都必須有 7-12 個 details 細項，至少 5 個細項才合格；每個細項必須有可掃讀 title 與完整 text。
+每位官員都必須有 7-12 個 details 細項，至少 4 個細項才合格；每個細項必須有可掃讀 title 與完整 text。
 details 要像範例那樣拆成「發言時間與場合」「核心主張」「反對/支持的政策」「風險警告」「利率立場」「政策含義」等，而不是一整段短摘要。
-analysis 只做總覽，真正細節放在 details；analysis + details 合計至少 380 個中文字。
+analysis 只做總覽，真正細節放在 details；analysis + details 合計至少 300 個中文字。
 絕對不要再輸出短句、新聞標題式摘要、或多位官員混寫在同一個 analysis/details。
 """.strip()
         result = request_summary(retry_prompt)
