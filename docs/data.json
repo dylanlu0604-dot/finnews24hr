@@ -1,7 +1,67 @@
 {
-  "updated": "2026-05-15 10:09:48",
-  "count": 15260,
+  "updated": "2026-05-15 10:13:17",
+  "count": 15262,
   "items": [
+    {
+      "id": "mkt:019e2968-ad14-7bb5-b4d5-1ac63396c7ac",
+      "time": "2026-05-15 10:13:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "HONG KONG PROPERTY STOCKS UP: RADIANCE HOLDINGS JUMPS OVER 33%, RONSHINE CHINA RISES MORE THAN 11%"
+    },
+    {
+      "id": "4881048",
+      "time": "2026-05-15 10:12:42",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "ST中路盤中跌停，上演“天地板”，現報5.7元，成交額1.1億元。"
+    },
+    {
+      "id": "4881047",
+      "time": "2026-05-15 10:11:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鴻蒙6終端裝置數破6000萬 今年有望破億】華為終端BGCEO何剛表示，搭載HarmonyOS6的終端裝置數量已突破6000萬大關，今年有望突破1億目標。"
+    },
+    {
+      "id": "4881046",
+      "time": "2026-05-15 10:10:27",
+      "tags": [],
+      "text": "韓國KOSPI指數在創下盤中新高8046.78點後接連失守四道關口，下破7700點，日內跌幅3.53％。"
+    },
+    {
+      "id": "mkt:019e2966-1f9d-7bb5-b4d5-156fd060384b",
+      "time": "2026-05-15 10:10:19",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields"
+      ],
+      "text": "SOUTH KOREA 10-YR TREASURY BOND YIELD RISES 10 BPS TO 4.182%, HIGHEST SINCE NOV 2023"
+    },
+    {
+      "id": "4881045",
+      "time": "2026-05-15 10:09:58",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國10年期國債收益率上漲10個基點，至4.182%，創2023年11月以來新高。"
+    },
+    {
+      "id": "4881044",
+      "time": "2026-05-15 10:09:50",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【毛戈平一度下挫近17% 公司股東擬出售股份】毛戈平在香港下挫，最大跌幅近17%，為盤中紀錄最大下跌。根據媒體看到的條款，公司股東丁韜和徐科君擬透過摩根大通以每股63.30港元至65港元的價格出售987萬股股份，於15日開始交易。"
+    },
     {
       "id": "4881043",
       "time": "2026-05-15 10:09:30",
@@ -137718,52 +137778,6 @@
         "國際"
       ],
       "text": "菲律賓總統馬科斯：在中東危機中，我們的指導立場是立即停止敵對行動、和平解決爭端、保護平民以及霍爾木茲海峽安全通航，這是我們的集體立場。"
-    },
-    {
-      "id": "4867485",
-      "time": "2026-05-08 10:13:14",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達30億港元。"
-    },
-    {
-      "id": "4867484",
-      "time": "2026-05-08 10:13:06",
-      "tags": [
-        "市場"
-      ],
-      "text": "【商業航天概念震盪回升 電科藍天漲超15%創上市新高】商業航天概念盤中震盪回升，電科藍天漲超15%，創上市新高，此前魯信創投、航天長峰漲停，煉石航空、春暉智控、上海港灣等跟漲。"
-    },
-    {
-      "id": "4867483",
-      "time": "2026-05-08 10:12:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "【貴州省交通運輸廳原一級巡視員章徵宇接受審查調查】中央紀委國家監委網站通報，據貴州省紀委監委訊息：貴州省交通運輸廳原一級巡視員章徵宇涉嫌嚴重違紀違法，目前正接受貴州省紀委監委紀律審查和監察調查。"
-    },
-    {
-      "id": "4867482",
-      "time": "2026-05-08 10:11:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國移動董事長陳忠嶽：推進全國一體化算力網建設，開放萬億級詞元服務體驗包】5月8日，中國移動2026移動雲大會主論壇在蘇州召開。中國移動董事長陳忠嶽表示，中國移動將推進全國一體化算力網建設，提供即取即用、普惠易用的算力服務。打造領先的算力網路，加強樞紐節點、熱點區域間全光網高速直聯，促進多元算力的統一納管與智慧排程，實現算力互聯互通和供需匹配。加速AI資料中心建設，突出快速交付、高效運營、綠色低碳特色，佈局吉瓦級資料園區。升級AI雲算服務，牽引構建多元異構國產算力生態，更好支撐大模型訓推、智慧體發展。陳忠嶽提到，中國移動將持續強化通訊、算力、智慧全棧創新，賦能千行百業、服務千家萬戶，促進形成智慧經濟和智慧社會新形態。同時，強化移動雲大會平臺作用，共同構築技術共生、商業共融、價值共創的智慧生態。推進“算力新動能行動”，在資源建設、算力互聯、融合融通等方面深化合作，開放萬億級詞元（Token）服務體驗包。推進“智慧新空間計劃”，聚焦算力網、智慧體、工業網際網路等方向，深化智慧服務融合創新，服務億萬客戶和廣大開發者。"
-    },
-    {
-      "id": "mkt:019e055a-9c89-7775-8cbc-ca18b39f39d6",
-      "time": "2026-05-08 10:11:24",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "DXY",
-        "Impact mixed",
-        "USDJPY"
-      ],
-      "text": "【South Korea Posts Record $37.3 Billion Current-Account Surplus on Semiconductor Export Boom】South Korea’s current-account surplus surged to a record $37.3 billion in March, according to Bank of Korea data, marking the 35th consecutive monthly surplus. The goods balance recorded a $35.1 billion surplus as exports hit an all-time high of $94.3 billion, driven mainly by semiconductor and computer-related shipments, with chip exports rising nearly 150% on a customs-clearance basis. Petroleum and chemical exports also increased due to higher oil prices. Imports rose at the fastest pace in 15 years. The financial account showed a $37 billion net asset increase, while foreign investors cut holdings of Korean equities by a record $29.3 billion amid Middle East tensions and concerns over memory-chip demand."
     }
   ]
 }
