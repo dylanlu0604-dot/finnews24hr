@@ -1,7 +1,70 @@
 {
-  "updated": "2026-05-16 00:15:51",
-  "count": 15547,
+  "updated": "2026-05-16 00:19:18",
+  "count": 15546,
   "items": [
+    {
+      "id": "te:economy:551263",
+      "time": "2026-05-16 00:18:49",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Russia",
+        "GDP Annual Growth Rate",
+        "Importance 1"
+      ],
+      "text": "Russia GDP Contracts in Q1 — The Russian GDP contracted by 0.2% from the previous year in the first quarter of 2026, the first annual contraction in three years, swinging from the 1% increase in the earlier period. The data was released days after the Russian government cut its GDP forecast for this year to 0.4% growth from the earlier expectations of 1.3%. The contraction took place despite the surge in prices of commodities that are heavily produced in Russia, including oil, gas, coal, and multiple industrial metals and grains, following the halt in shipping from the Middle East amid the war. The contraction also prevailed in a period of soaring deficit spending by the Duma, attempting to stimulate the economy hampered by sanctions from the West that isolated goods producers and financial services providers from Western clients. Russia's energy revenues sank by 40% annually in the year to April, and rates by the Bank of Russia are expected to remain high."
+    },
+    {
+      "id": "4882682",
+      "time": "2026-05-16 00:18:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：法國戴高樂號航空母艦目前在中東附近海域部署，並未駛入霍爾木茲海峽，強調其行動屬防禦性質，旨在維護航行自由。"
+    },
+    {
+      "id": "te:markets:551261",
+      "time": "2026-05-16 00:17:25",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Copper is down by 5% — Copper decreased 5% to 6.2392 USD/Lbs"
+    },
+    {
+      "id": "te:markets:551260",
+      "time": "2026-05-16 00:16:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "DAX Closes Deeply in the Red — Frankfurt's DAX 40 fell further to close about 2.1% lower at 23,955 on Friday, halting a two-day rally, underperforming its European peers. Market sentiment was dented by stalled progress on the Iran conflict and inflation fears, alongside risks of renewed military escalation. US President Trump threatened Tehran again, saying he would not be patient much longer. Moreover, investors were disappointed by the lack of concrete results from the long-awaited Trump-Xi summit in China, particularly on trade and the Iran issue. Among the biggest losers were tech stocks, which had gained considerable ground in recent days due to the ongoing AI boom. Infineon shares fell by more than 4%. Energy-sensitive industrials also saw pressure."
+    },
+    {
+      "id": "mkt:019e2c6c-8586-7663-82fa-8cb01ef251da",
+      "time": "2026-05-16 00:16:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CHINA RENEWS MORE THAN 400 EXPORT LICENSES THAT EXPIRED FOR US BEEF PLANTS, CHINESE CUSTOMS WEBSITE SHOWS"
+    },
+    {
+      "id": "mkt:019e2c6c-3d1d-7663-82fa-84b15bb783c1",
+      "time": "2026-05-16 00:15:51",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "DXY",
+        "XAUUSD"
+      ],
+      "text": "TRUMP TO FOX NEWS: I DID NOT UNDERESTIMATE IRAN'S ABILITY TO ENDURE TRUMP: WE DELIVERED BLOWS TO IRAN SO HARSH THAT THEY'RE UTTERLY UNBELIEVABLE TRUMP: WE KEPT IRAN'S BRIDGES AND POWER PLANTS INTACT, AND WE CAN DESTROY ALL OF THAT COMPLETELY IN JUST TWO DAYS"
+    },
     {
       "id": "mkt:019e2c6a-8696-7663-82fa-7e04dd91cdc6",
       "time": "2026-05-16 00:13:55",
@@ -140126,80 +140189,6 @@
         "Impact bullish"
       ],
       "text": "MODERNA IS WORKING ON EARLY-STAGE HANTAVIRUS VACCINES"
-    },
-    {
-      "id": "mkt:019e0862-5236-7aa7-bba7-8c5bea91efeb",
-      "time": "2026-05-09 00:18:41",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "ECB WILL TAKE NECESSARY ACTIONS TO CONTROL RISING ENERGY PRICES, SAYS NAGEL"
-    },
-    {
-      "id": "mkt:019e0862-2f8a-7aa7-bba7-808bc21df49b",
-      "time": "2026-05-09 00:18:32",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "ECB IS VERY ALERT TO INFLATION THREATS, SAYS NAGEL"
-    },
-    {
-      "id": "4868970",
-      "time": "2026-05-09 00:18:14",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行管委納格爾：歐洲央行將採取必要行動以控制不斷上漲的能源價格。"
-    },
-    {
-      "id": "4868969",
-      "time": "2026-05-09 00:17:36",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納斯達克中國金龍指數跌超0.5%，再鼎醫藥跌6.05%，優品車跌5.13%，新東方跌3.64%，中進醫療跌3.64%，虎牙跌3.59%。"
-    },
-    {
-      "id": "te:markets:549324",
-      "time": "2026-05-09 00:17:27",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "DAX Closes on Negative Note — Frankfurt's DAX 40 closed about 1.3% lower at 24,339 on Friday, extending losses from the prior day, mirroring a broadly negative sentiment across Europe. Traders remained cautious amid reports of military clashes in the Strait of Hormuz, which raised doubts about the deal that could potentially restore energy flows from the Persian Gulf. At the same time, US President Trump on Thursday vowed to impose “much higher” tariffs on the EU by July 4 if the bloc fails to reduce its tariffs on US goods to zero. Rheinmetall plunged more than 15% to top losers after a profit miss on Thursday and JPMorgan’s downgrade to neutral from overweight, which also saw its price target slashed to €1,500 from €2,130. Daimler Truck followed closely, falling nearly 8%. Commerzbank dropped 4.2% as the bank upgraded its financial targets following solid results and set out its strategy for the coming years amid UniCredit’s takeover bid, including plans to cut 3,000 jobs. For the week, the index added 0.2%."
-    },
-    {
-      "id": "4868968",
-      "time": "2026-05-09 00:17:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "【Jane Street季度交易收入161億美元，創歷史新高】Jane Street Group在今年第一季度創下161億美元交易收入的紀錄，較2025年第一季度的收入增長了一倍多。淨利潤同樣較去年同期翻了一番，Jane Street 報告第一季度淨利潤為 103 億美元。Jane Street 的業績主要受中頻策略推動，並受益於對人工智慧和科技公司的私人投資。"
-    },
-    {
-      "id": "4868967",
-      "time": "2026-05-09 00:16:26",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行管委納格爾：歐洲央行對通脹風險抬頭保持高度警惕。"
     }
   ]
 }
