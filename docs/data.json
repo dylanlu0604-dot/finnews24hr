@@ -1,7 +1,157 @@
 {
-  "updated": "2026-05-15 20:34:54",
-  "count": 15580,
+  "updated": "2026-05-15 20:38:20",
+  "count": 15579,
   "items": [
+    {
+      "id": "4882310",
+      "time": "2026-05-15 20:38:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特：霍爾木茲海峽問題決定權在伊朗。"
+    },
+    {
+      "id": "mkt:019e2ba4-ac7a-7440-b03a-10ba3907a6c1",
+      "time": "2026-05-15 20:37:52",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. ENERGY SECRETARY WRIGHT: UP TO IRAN ON STRAIT OF HORMUZ -CNBC INTERVIEW"
+    },
+    {
+      "id": "te:economy:551198",
+      "time": "2026-05-15 20:37:51",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "NY Empire State Manufacturing Index",
+        "Importance 2"
+      ],
+      "text": "NY Manufacturing Activity Rises the Most in Over 4 Years — The NY Empire State Manufacturing Index in the US unexpectedly increased to 19.6 in May 2026 from 11 in April, above forecasts of 7.5. The reading showed that New York State manufacturing activity grew at its fastest pace in over four years. New orders (22.7 vs 19.3) and shipments (18.9 vs 20.2) increased considerably for the second consecutive month and unfilled orders rose (4.9 vs 9.1). Also, employment levels (8.3 vs 9.8) and the average workweek (11.5 vs 13.7) both continued to increase. Meanwhile, delivery times lengthened substantially (20.4 vs 12.1), and supply availability worsened somewhat (-10.7 vs -10.1). The pace of input price increases (62.6 vs 51) and selling price increases (31.8 vs 21.8) picked up sharply. Looking ahead, firms grew more optimistic about the outlook (33.5 vs 19.6)"
+    },
+    {
+      "id": "mkt:019e2ba4-9a7d-7440-b03a-08ce6b3e5b53",
+      "time": "2026-05-15 20:37:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "S&P 500 E-MINI FUTURES DOWN 1.2%, NASDAQ 100 FUTURES DOWN 1.8%, DOW FUTURES DOWN 0.9%"
+    },
+    {
+      "id": "4882309",
+      "time": "2026-05-15 20:37:45",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國股指期貨跌幅進一步擴大，標普500迷你股指期貨下跌1.2%，納斯達克100股指期貨下跌1.8%，道瓊斯股指期貨下跌0.9%。"
+    },
+    {
+      "id": "mkt:019e2ba4-83eb-7440-b03a-06c4d88323e8",
+      "time": "2026-05-15 20:37:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "U.S. STOCK INDEX FUTURES EXTEND LOSSES"
+    },
+    {
+      "id": "4882308",
+      "time": "2026-05-15 20:37:25",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【中巨芯：電子級氫氟酸業務銷售佔比有限 與三星電子就電子級氫氟酸產品不存在直接業務往來】中巨芯(688549)釋出股票交易異常波動的公告，經公司自查，公司注意到有媒體報道稱韓國多家無水氫氟酸廠商本月起從中國採購無水氫氟酸，採購價較年初上漲約40%，這些企業將為三星電子、SK海力士供應電子級氫氟酸，業內預計其價格將在6月和7月大幅上漲。截至目前，公司電子級氫氟酸業務銷售佔比有限，同時公司與三星電子就電子級氫氟酸產品不存在直接業務往來，且截至目前公司並未與相關客戶就上述產品簽訂實質性的漲價訂單協議。"
+    },
+    {
+      "id": "te:economy:551197",
+      "time": "2026-05-15 20:36:54",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Foreign Stock Investment",
+        "Importance 1"
+      ],
+      "text": "Foreign Investment in Canadian Securities Slows Sharply — Foreign investors bought C$4.6 billion of Canadian securities in March 2026, the weakest monthly inflow since the start of the year and well below forecasts of C$11.4 billion. Non-resident investors reduced their holdings of Canadian equities by C$3.8 billion, following a C$9.1 billion divestment in February. The March decline mainly reflected retirements of Canadian shares tied to cross-border merger and acquisition activity. By sector, the largest divestments came from banking shares (-C$7.5 billion) and energy and mining companies (-C$6.0 billion), partly offset by investment in manufacturing stocks. Meanwhile, foreign investors added C$8.5 billion in Canadian debt securities, largely provincial government bonds denominated in euros. Non-residents also reduced holdings of corporate bonds by C$1.7 billion and federal government bonds by C$1.2 billion."
+    },
+    {
+      "id": "mkt:019e2ba3-8529-7440-b039-fb4616139252",
+      "time": "2026-05-15 20:36:37",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Regions",
+        "Greater China",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. ENERGY SECRETARY WRIGHT: I THINK CHINA WILL BE A BIGGER BUYER OF U.S. CRUDE OIL -CNBC INTERVIEW"
+    },
+    {
+      "id": "4882307",
+      "time": "2026-05-15 20:36:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【安踏體育：授出合共約379萬股獎勵股份予357名集團獲選僱員】5月15日晚，安踏體育在港交所公告，於2026年5月15日，公司已根據《2018年股份獎勵計劃（2023年修訂版）》授出合共約379萬股獎勵股份，即公司於本公告日期已發行股份的約0.136%，予357名集團獲選僱員（各為及統稱為承授人），其中10萬股獎勵股份已授予給公司執行董事畢明偉。股份於授予日期的收市價為76.25港元。"
+    },
+    {
+      "id": "te:markets:551196",
+      "time": "2026-05-15 20:36:30",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Copper is down by 5% — Copper decreased 5% to 6.239 USD/Lbs"
+    },
+    {
+      "id": "4882306",
+      "time": "2026-05-15 20:36:15",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【中巨芯：公司股票連續3個交易日內收盤價格漲幅偏離值累計達到30%】中巨芯公告，公司股票連續3個交易日內（2026年5月13日、2026年5月14日、2026年5月15日）收盤價格漲幅偏離值累計達到30%，屬於股票交易異常波動情形。經公司自查，目前生產經營活動正常，未發現其他有可能對公司股價產生較大影響的重大事件。公司2025年度歸母淨利潤為-1659.62萬元、扣非歸母淨利潤為-3458.49萬元，2026年第一季度歸母淨利潤為637.67萬元（未經審計）、扣非歸母淨利潤243.69萬元（未經審計）。"
+    },
+    {
+      "id": "4882305",
+      "time": "2026-05-15 20:36:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中巨芯：擬定增募資不超過8億元】中巨芯公告，擬透過向特定物件發行A股股票募集資金不超過8億元，扣除發行費用後，募集資金將用於新增年產6萬噸電子級硫酸專案、積體電路關鍵電子材料華北生產基地建設專案及補充流動資金。本次發行股票數量不超過1.48億股，發行價格將根據競價結果確定，且不低於定價基準日前20個交易日公司A股股票交易均價的80%。本次發行尚需公司股東會審議透過、上海證券交易所稽核透過並經中國證監會同意註冊後方可實施。"
+    },
+    {
+      "id": "4882304",
+      "time": "2026-05-15 20:35:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【巨人網路：股東上海騰澎擬減持不超3%】巨人網路公告，第二大股東及控股股東一致行動人上海騰澎投資合夥企業(有限合夥)持股1.96億股，佔總股本10.29%，擬自披露之日起15個交易日後的3個月內透過大宗交易和集中競價減持不超5680.7萬股，佔總股本2.99%，佔剔除回購專用賬戶後總股本3%；其中任意連續九十日內集中競價減持不超1893.57萬股，大宗交易不超3787.13萬股，減持價格按屆時市場價確定。"
+    },
     {
       "id": "4882303",
       "time": "2026-05-15 20:34:31",
@@ -140402,155 +140552,6 @@
         "國際"
       ],
       "text": "【美國4月非農新增就業11.5萬人，連續第二個月超預期】美國勞工統計局週五公佈的資料顯示，4月美國經濟新增就業崗位11.5萬個，連續第二個月超出華爾街預期。這一數字低於3月份上修後的18.5萬個新增崗位，但高於機構調查中經濟學家預期的6.5萬個。近幾個月來，美國就業資料波動較大，在大幅增長與大幅下滑之間搖擺，令分析師難以評估整體經濟健康狀況。儘管失業率仍處於相對低位，但美聯儲內部在如何應對伊朗戰爭引發的能源衝擊方面分歧日益加劇，政策制定者們正在辯論其對經濟的潛在影響。部分官員擔憂，通脹上升可能與失業率攀升相伴而生，形成滯脹格局，因為消費者減少支出，導致僱主裁員。克利夫蘭聯儲主席哈馬克週四表示，如果企業看到其產品需求不再強勁，那可能意味著它們會減少招聘。目前看來，基本上每個想要工作的人都能找到工作。但如果需求側承受壓力，那麼美聯儲使命中關於就業的一側就可能面臨風險。因此，當前存在很大的不確定性。"
-    },
-    {
-      "id": "mkt:019e0798-8a9a-7557-85c4-960b3c01be7e",
-      "time": "2026-05-08 20:38:17",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "【Chris Anstey on US Job Data】And keep in mind, with a “breakeven” rate of around 50,000 according to Bloomberg Economics -- in other words, the payroll gain needed to absorb new entrants into the labor force -- this 115,000 increase is really quite strong. There’s no obvious threat here to the Fed’s maximum-employment mandate. Very hard to see Kevin Warsh next month getting a consensus behind interest-rate cuts..."
-    },
-    {
-      "id": "4868597",
-      "time": "2026-05-08 20:38:09",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "加拿大美元兌美元下跌0.1%，報1加元兌1.3679美元，此前美國國內資料顯示就業崗位減少。"
-    },
-    {
-      "id": "te:markets:549259",
-      "time": "2026-05-08 20:37:45",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Enel earnings in line with market expectations at 0.18 EUR — Enel (ENEL) released earnings per share at 0.18 EUR, in line with market expectations."
-    },
-    {
-      "id": "4868596",
-      "time": "2026-05-08 20:37:42",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "運輸、物流、供應鏈和倉儲行業的公司UTC Overseas與Transoceanic Development宣佈成立合資企業UTC Transoceanic，旨在支援美國墨西哥灣沿岸能源、電力和工業基礎設施專案日益增長的後勤需求。"
-    },
-    {
-      "id": "4868595",
-      "time": "2026-05-08 20:37:31",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "【英科醫療：擬使用不超180億元閒置資金進行委託理財】英科醫療5月8日公告，公司及子公司擬使用最高額度合計不超過（含）180億元人民幣（或等值其他幣種）的閒置自有資金進行委託理財。公司計劃主要投資於風險較低、收益較穩定的金 融產品。委託理財指公司委託包括但不限於銀行、證券、基金等專業 金融機構對資產進行投資和管理或者購買相關理財產品的行為，類別 包括但不限於保本票據、銀行理財產品、券商理財產品、固定收益類 產品等。"
-    },
-    {
-      "id": "4868594",
-      "time": "2026-05-08 20:37:11",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內漲2%，現報81.81美元/盎司。"
-    },
-    {
-      "id": "mkt:019e0797-714b-7557-85c4-8f89b23671c7",
-      "time": "2026-05-08 20:37:05",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "USDJPY"
-      ],
-      "text": "ANALYST CHRIS ANSTEY: WE’VE NOW SEEN BACK-TO-BACK MONTHLY JOBS INCREASES FOR THE FIRST TIME IN A YEAR"
-    },
-    {
-      "id": "4868593",
-      "time": "2026-05-08 20:37:00",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【溫州宏豐：股票交易異常波動 提示業績及投資風險】溫州宏豐公告稱，公司股票於2026年5月6日-5月8日連續三個交易日收盤價格漲幅偏離值累計超30%，屬異常波動。經核查，公司、控股股東和實控人不存在應披露未披露重大事項，異常波動期間實控人無買賣公司股票行為。2025年淨利潤2517.41萬元，2026年一季度淨利潤5629.53萬元，同比大幅增長。但白銀價格波動或影響業績，當前滾動市盈率87.45倍，遠高於行業，提醒投資者注意風險。"
-    },
-    {
-      "id": "4868592",
-      "time": "2026-05-08 20:36:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "彭博美元現貨指數跌至當日低點。"
-    },
-    {
-      "id": "4868591",
-      "time": "2026-05-08 20:36:45",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美股納斯達克100指數期貨漲超1%】美股納斯達克100指數期貨漲超1%，標普500指數期貨漲0.66%，道瓊斯指數期貨漲0.49%。"
-    },
-    {
-      "id": "te:economy:549258",
-      "time": "2026-05-08 20:36:41",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Canada",
-        "Unemployment Rate",
-        "Importance 2"
-      ],
-      "text": "Canada Unemployment Rate Rises to 6-Month High — The unemployment rate in Canada rose to 6.9% in April of 2026 from 6.7% in the previous month, overshooting expectations that it would remain unchanged at 6.7% to mark the highest jobless rate in six months. The number of unemployed people rose by 51.2 thousand from the previous month, or 3.4%, to 1.566 million. The increase was partially explained by a 33.5 thousand increase in the labor force as more Canadians entered the job market to look for employment, lifting the labor force participation rate by 0.1 percentage points to 65%. In turn, the proportion of the unemployed population that has been looking for work for six months or more was little changed at 22.5%, remaining above the long-term average of 17.1%. The monthly layoff rate was at 0.6%, in line with the pre-pandemic average. Meanwhile, net employment unexpectedly fell by 17.7 thousand, missing expectations of a 15 thousand gain."
-    },
-    {
-      "id": "4868590",
-      "time": "2026-05-08 20:36:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "【夢潔股份：5%以上股東減持至5%以下 減持計劃未實施完畢】夢潔股份公告稱，持股5%以上股東李建偉於2026年3月20日至5月7日，透過集中競價交易減持237.001萬股，佔總股本0.31694%。減持後，李建偉持股3738.8972萬股，佔總股本4.99999%，不再是5%以上股東。本次減持與此前披露計劃一致，且未實施完畢，不會導致公司控制權變化，也不影響公司治理結構及持續經營。"
-    },
-    {
-      "id": "4868589",
-      "time": "2026-05-08 20:35:54",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【美股盤前要聞速遞】\n①美股三大指數期貨齊漲，道指期貨漲0.46%，標普500指數期貨漲0.60%，納指期貨漲0.88%。\n②德國DAX指數跌0.97%，英國富時100指數跌0.12%，法國CAC40指數跌0.84%，歐洲斯托克50指數跌0.87%。\n③WTI原油漲0.11%，報94.92美元/桶。布倫特原油漲0.17%，報100.23美元/桶。\n④美國4月季調後非農就業人口11.5萬人，預期6.2萬人，前值由17.8萬人修正為18.5萬人。美國4月失業率 4.3%，預期4.30%，前值4.30%。\n⑤橋水創始人達利歐表示，美國正走向一段歷時多年的長期動盪，背後原因包括龐大的財政赤字、日益擴大的貧富差距，以及左右派之間日趨嚴重的政治分裂。投資人應該保持投資組合多元化，黃金的配置比例在5%到15%之間。\n⑥大型科技巨頭創紀錄的 7250 億美元人工智慧投資戰略，開始透支美國頭部企業的財務財力，致使其今年可結餘現金流跌至過去十年最低水平。\n⑦Cloudflare股價盤前下跌16.7%，此前該公司公佈第二季度營收預測略低於市場預期，並宣佈裁員。\n⑧CoreWeave股價盤前下跌9.5%，此前該公司上調了年度資本支出預期區間的下限。\n⑨微芯科技股價盤前上漲2.7%，此前該公司第四季度營收超出市場預期。"
-    },
-    {
-      "id": "4868588",
-      "time": "2026-05-08 20:35:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "由商船三井與臺灣大同海洋公司合資成立的Ta San Shang Marine已接收新造除錯服務作業船TSS Cruiser，該船現已準備就緒，將支援臺灣的海上風電場運營。"
-    },
-    {
-      "id": "4868587",
-      "time": "2026-05-08 20:35:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "【龔正會見2026年中韓工商領導人經濟會議嘉賓代表團】上海市市長龔正今天（5月8日）會見了韓國經營者總協會會長孫京植率領的2026年中韓工商領導人經濟會議嘉賓代表團。龔正說，中韓建交34年來，雙邊關係穩步發展，經貿合作的“壓艙石”和“推進器”作用不斷凸顯。上海與韓國經貿關係十分密切，是韓資企業在中國的主要集聚地。當前，上海正加快建成具有世界影響力的社會主義現代化國際大都市，深入實施擴大內需戰略，加快構建現代化產業體系，著力推動高質量發展。期待繼續與韓國知名企業深化合作、共贏未來。希望韓國企業繼續加大在滬投資佈局，把更多優質資源、重大專案和功能板塊放在上海。歡迎韓國企業繼續積極參加進博會，把更多新產品、新技術、新服務帶到上海、引入中國。上海正持續打造市場化、法治化、國際化的一流營商環境，希望韓國企業建言獻策，推動上海營商環境不斷最佳化，更好地服務韓國企業在滬發展。孫京植說，中韓兩國建交以來，雙邊貿易規模穩步攀升。上海是一座美麗的城市，經濟發展成果顯著，在金融、貿易、航運、科技創新等領域發展迅速，為外資企業提供了優質營商環境。上海與韓國地緣相鄰、交往密切，上海的發展對韓國企業在華投資興業意義重大，我們將持續擴大在滬投資，期待深化與上海企業在技術研發等領域的合作，實現互利共贏，增進兩國友誼。 (上海釋出)"
     }
   ]
 }
