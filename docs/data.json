@@ -1,7 +1,54 @@
 {
-  "updated": "2026-05-15 14:48:10",
-  "count": 15336,
+  "updated": "2026-05-15 14:51:50",
+  "count": 15340,
   "items": [
+    {
+      "id": "te:markets:551030",
+      "time": "2026-05-15 14:51:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "ASX 200 Slips 1.3% This Week — The S&P/ASX 200 inched down 10 points, or 0.1%, to end at 8,631 on Friday, reversing early gains following a modest rise in the prior session. Sentiment weakened as U.S. stock futures fell sharply, with traders closely watching the Trump–Xi summit’s second day. For the week, markets lost 1.3%, swinging from a prior gain, weighed by persistent inflation concerns and housing-tax proposals clouding mortgage demand. Australia’s budget has outlined curbs on negative gearing to spur new housing investment, raising fears of slower mortgage growth. Financials fell sharply, though Commonwealth Bank rose 1.9% after its steep weekly drop earlier. Miners also retreated on softer iron ore and copper prices, with BHP down 2.6% and Rio Tinto off 3.2%, easing from record highs hit earlier in the week. Other laggards were PLS Group (-5.8%), Evolution Mining (-5.5%), and South32 Ltd. (5.1%). Traders now brace for flash PMI readings for May, due next week, along with RBA minutes and April jobs data."
+    },
+    {
+      "id": "4881440",
+      "time": "2026-05-15 14:49:09",
+      "tags": [
+        "市場",
+        "焦點",
+        "A股"
+      ],
+      "text": "A股工業氣體概念再度拉昇，和遠氣體尾盤漲停，華特氣體漲超8%，廣鋼氣體、正帆科技、中船特氣漲幅居前。"
+    },
+    {
+      "id": "4881439",
+      "time": "2026-05-15 14:49:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭無人機部隊指揮官稱，烏克蘭無人機襲擊了俄羅斯梁贊州的一處煉油廠。"
+    },
+    {
+      "id": "4881438",
+      "time": "2026-05-15 14:48:37",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超3.2萬億元，較上日此時放量351億元。"
+    },
+    {
+      "id": "4881437",
+      "time": "2026-05-15 14:48:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中美可透過加強合作促進各自發展振興】今天（5月15日）上午，國家主席習近平在中南海同美國總統特朗普舉行小範圍會晤。習近平指出，特朗普總統此訪是一次歷史性、標誌性的訪問，我們共同確定了中美建設性戰略穩定關係的新定位，就保持經貿關係穩定、拓展各領域務實合作、妥善解決彼此關切達成重要共識，同意就國際和地區問題加強溝通和協調。訪問有利於促進相互理解、加深彼此信任，增進兩國人民福祉。這也再次表明，中美在相互尊重基礎上實現和平共處、合作共贏，走出一條正確相處之道，是兩國人民所願和世界各國人民所盼。特朗普總統希望讓美國再次偉大，我致力於帶領中國人民實現中華民族偉大復興。中美雙方可以透過加強合作，促進各自的發展振興。雙方要落實好我們達成的重要共識，珍惜當前來之不易的良好勢頭，把準方向、排除干擾，推動兩國關係穩定發展。\n\n特朗普表示，非常感謝習近平主席邀請我到中南海做客。此次訪華是一次非常成功的訪問，舉世矚目，令人難忘。雙方形成一系列重要共識，達成多項協議，解決了不少問題，對兩國和世界都十分有益。習近平主席是我的老朋友，我十分尊重習近平主席，我們建立了良好的關係。美中關係很重要，一定會越來越好。我願同習近平主席繼續保持誠懇深入溝通，熱情期待在華盛頓接待習近平主席。（CCTV國際時訊）"
+    },
     {
       "id": "te:economy:551028",
       "time": "2026-05-15 14:47:38",
@@ -138407,14 +138454,6 @@
         "Impact bullish"
       ],
       "text": "BAIDU UP OVER 6%"
-    },
-    {
-      "id": "mkt:019e0658-aaa7-7113-a191-39c858bb532e",
-      "time": "2026-05-08 14:48:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ISRAELI DRONE STRIKE TARGETS SOUTHERN LEBANON"
     }
   ]
 }
