@@ -1,7 +1,113 @@
 {
-  "updated": "2026-05-15 09:31:09",
-  "count": 15239,
+  "updated": "2026-05-15 09:34:39",
+  "count": 15244,
   "items": [
+    {
+      "id": "4880972",
+      "time": "2026-05-15 09:33:42",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "早盤碳化矽概念延續強勢，天富能源2連板，晶升股份漲超10%，立昂微、民德電子、斯達半導跟漲。"
+    },
+    {
+      "id": "4880971",
+      "time": "2026-05-15 09:33:30",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【CPO概念股盤初拉昇，光莆股份漲超10%】CPO概念股盤初拉昇，光莆股份漲超10%，銘普光磁觸及漲停，中富電路、天孚通訊、華盛昌漲幅居前。"
+    },
+    {
+      "id": "4880970",
+      "time": "2026-05-15 09:33:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國開展專項治理 嚴打中醫醫療違法違規行為】5月15日，國家中醫藥管理局等十部門聯合召開中醫醫療違法違規行為專項治理工作啟動會。據悉，本次專項治理工作為期1年，將嚴厲打擊打著中醫養生保健治病“幌子”從事非法行醫，借中醫藥名義虛假宣傳、直播帶貨，違法違規使用醫保基金等損害群眾健康權益的違法違規行為。同時，加強中醫醫療機構和中醫醫療服務質量監督管理，完善行風治理長效機制，著力營造風清氣正的行業環境。（新華社）"
+    },
+    {
+      "id": "mkt:019e2943-99ed-7bb5-b4d4-5bdc0a29fa5a",
+      "time": "2026-05-15 09:32:36",
+      "tags": [
+        "MKT News",
+        "981.HK",
+        "Impact bullish"
+      ],
+      "text": "HONG KONG SEMICONDUCTOR STOCKS RISE: SMIC GAINS OVER 5%, NSING TECH CLIMBS MORE THAN 3%"
+    },
+    {
+      "id": "4880969",
+      "time": "2026-05-15 09:32:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：05月15日09時23分在新疆阿克蘇地區庫車市（北緯41.34度，東經83.96度）發生3.4級地震，震源深度19千米。"
+    },
+    {
+      "id": "4880968",
+      "time": "2026-05-15 09:32:30",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克50指數期貨跌幅擴大至0.9%，德國DAX指數期貨下跌1.1%，富時指數期貨下跌0.4%。"
+    },
+    {
+      "id": "4880967",
+      "time": "2026-05-15 09:32:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達1.00%，成分股中，華海清科漲5.79%，滬矽產業漲5.25%，中芯國際漲4.23%，晶合整合漲3.48%。"
+    },
+    {
+      "id": "4880965",
+      "time": "2026-05-15 09:31:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴布亞紐幾內亞洛倫高東南偏南119公里處發生5.4級地震。"
+    },
+    {
+      "id": "mkt:019e2942-a22c-7bb5-b4d4-52def51c45bd",
+      "time": "2026-05-15 09:31:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "TRUMP: GOING TO START SENDING CHINESE SHIPS TO TEXAS, LOUISIANA, ALASKA-FOX NEWS INTERVIEW"
+    },
+    {
+      "id": "mkt:019e2942-5fa7-7bb5-b4d4-4e53dfe1698b",
+      "time": "2026-05-15 09:31:12",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "SPOT SILVER FALLS OVER 3% TO $80.94/OZ"
+    },
+    {
+      "id": "mkt:019e2942-448e-7bb5-b4d4-46e272a4f7b2",
+      "time": "2026-05-15 09:31:06",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "S&P 500 FUTURES SLIP 0.3%, NASDAQ FUTURES DOWN 0.3% AS BRENT RISES 1.3% TO $107.13"
+    },
     {
       "id": "mkt:019e2942-1850-7bb5-b4d4-3f2c89e16e04",
       "time": "2026-05-15 09:30:57",
@@ -137466,61 +137572,6 @@
         "焦點"
       ],
       "text": "恒生指數跌超1%，現報26355.520點；恒生科技指數現跌1.005%。"
-    },
-    {
-      "id": "4867414",
-      "time": "2026-05-08 09:34:26",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【光纖概念股區域性活躍，通鼎互聯漲停】光纖概念股區域性活躍，杭電股份盤中創新高，通鼎互聯漲停，新能泰山、雲南鍺業、大族鐳射、信德新材跟漲。"
-    },
-    {
-      "id": "4867413",
-      "time": "2026-05-08 09:33:33",
-      "tags": [
-        "市場"
-      ],
-      "text": "MSCI亞太指數下跌1%至270.61點。"
-    },
-    {
-      "id": "4867412",
-      "time": "2026-05-08 09:33:24",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀站上80美元/盎司。"
-    },
-    {
-      "id": "te:markets:548979",
-      "time": "2026-05-08 09:32:51",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "South Korea",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "South Korean Shares Pause Record Rally — The benchmark KOSPI fell 0.7% to around 7,440 on Friday, pausing after a record-setting run, as renewed US-Iran tensions triggered profit-taking. Investor sentiment weakened after the US and Iran exchanged fire in the Strait of Hormuz, raising concerns over potential disruptions to global oil supplies. The escalation pushed Brent crude prices back above $100 per barrel and fueled broader risk aversion across Asian markets. Technology shares led the decline, with heavyweight chipmakers Samsung Electronics (-2.0%) and SK Hynix (-0.3%) retreating, alongside LG Energy Solution (-2.2%), Doosan Enerbility (-4.7%), and HD Hyundai Heavy Industries (-5.1%). Still, losses were partly capped by continued optimism over Korea’s AI and semiconductor outlook, with the index up over 12% this week for its strongest weekly gain since 2008. Additional support came as South Korea posted a record current account surplus of $37.33 billion in March, driven by a sharp surge in semiconductor exports."
-    },
-    {
-      "id": "4867411",
-      "time": "2026-05-08 09:32:46",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【電力板塊盤初上攻，大唐發電漲停】電力板塊盤初上攻，大唐發電漲停，甘肅能源、華電遼能、粵電力A、贛能股份、深南電A等紛紛走高。"
-    },
-    {
-      "id": "4867410",
-      "time": "2026-05-08 09:32:02",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【日本一核電機組因蒸汽洩漏暫停運轉】據日本共同社報道，位於日本福井縣的關西電力公司美浜核電站3號機組8日凌晨因蒸汽洩漏而暫停運轉。報道援引關西電力公司提供的資訊說，當地時間8日凌晨4時許，美浜核電站3號機組的高壓蒸汽機周邊發現蒸汽洩漏，約15分鐘後被手動關停。關西電力公司說，蒸汽中未檢出放射性物質。美浜核電站3號機組1976年開始執行，2011年福島核事故後暫時關停，2021年重啟執行。(新華社)"
     }
   ]
 }
