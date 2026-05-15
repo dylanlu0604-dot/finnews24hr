@@ -1,7 +1,23 @@
 {
-  "updated": "2026-05-15 12:13:07",
-  "count": 15272,
+  "updated": "2026-05-15 12:16:30",
+  "count": 15269,
   "items": [
+    {
+      "id": "4881192",
+      "time": "2026-05-15 12:14:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華為哈勃等入股彌爾光半導體】天眼查App顯示，近日，彌爾光半導體（北京）有限公司發生工商變更，新增華為旗下深圳哈勃科技投資合夥企業（有限合夥）、蘇州未來科技企業服務合夥企業（有限合夥）等為股東，同時，註冊資本由約515.5萬人民幣增至約551.4萬人民幣。 該公司成立於2021年5月，法定代表人為楊展予，經營範圍包括半導體分立器件製造、半導體分立器件銷售、新材料技術研發等，現由楊展予、上海仙納多企業管理諮詢合夥企業（有限合夥）及上述股東等共同持股。"
+    },
+    {
+      "id": "4881191",
+      "time": "2026-05-15 12:14:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "Stellantis與東風集團的交易包括一項10億歐元的投資計劃； Stellantis將出資1.3億歐元。"
+    },
     {
       "id": "te:economy:550966",
       "time": "2026-05-15 12:11:07",
@@ -137857,50 +137873,6 @@
         "國際"
       ],
       "text": "【特朗普：“特朗普的股市再創新高”】美國總統特朗普當地時間深夜釋出一張圖片，內容為：“特朗普的股市再創新高！標普500指數已突破7300點。”"
-    },
-    {
-      "id": "mkt:019e05cc-a09b-7113-a18f-b4d039a53c6b",
-      "time": "2026-05-08 12:15:56",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "US BUSINESSES URGE TRUMP TO INTERVENE OVER NEW EU CONSUMER RULES – FT"
-    },
-    {
-      "id": "mkt:019e05cc-7736-7113-a18f-ae1a1bd098d0",
-      "time": "2026-05-08 12:15:46",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "【U.S. and South Africa Begin Talks on Mining and Energy Investment Deal】The United States and South Africa have begun early-stage discussions on potential bilateral investment deals spanning mining, energy and infrastructure, in a move that could ease strained relations between the two countries. Around 25 officials and industry representatives met in Johannesburg, marking the highest-level engagement this year focused on minerals cooperation. Talks centered on identifying priority projects, including rare earths assets such as the Phalaborwa mine, and building supply chains less reliant on China, while South Africa’s key mineral resources and processing capacity were highlighted as strategic areas of cooperation."
-    },
-    {
-      "id": "4867626",
-      "time": "2026-05-08 12:15:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "【商湯釋出日日新SenseNova 6.7 Flash-Lite】5月8日，商湯正式推出新一代輕量化多模態智慧體模型商湯日日新SenseNova 6.7 Flash-Lite，同時SenseNova Token Plan限時免費開放，辦公技能SenseNova-Skills同步在GitHub開源。"
-    },
-    {
-      "id": "4867625",
-      "time": "2026-05-08 12:15:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "【Anthropic正考慮進行融資 估值接近1萬億美元】據英國《金融時報》週五報道，Anthropic正考慮在今年夏天籌集數百億美元，用於大規模擴充計算能力。此舉可能使其估值升至近1萬億美元，從而超越競爭對手OpenAI。 Anthropic新一輪融資預計投前估值約為9000億美元，融資規模最高可達500億美元。Anthropic近期一直在處理來自Dragoneer投資集團、General Catalyst和光速創投（Lightspeed Venture Partners）等投資方的投資意向。"
-    },
-    {
-      "id": "4867624",
-      "time": "2026-05-08 12:13:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "媒體援引知情人士透露，萬科告訴2027年到期美元債券的部分持有人，已經開始匯款以支付這支債券利息的程式。萬科告知債券持有人資金已到位，但並未透露資金來源。"
     }
   ]
 }
