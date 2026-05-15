@@ -1603,7 +1603,7 @@ def call_openai_central_bank_summary(items: list[dict], start: datetime, end: da
                 "Content-Type": "application/json",
             },
             json=payload,
-            timeout=120,
+            timeout=300,
         )
         r.raise_for_status()
         return json.loads(extract_response_text(r.json()))
