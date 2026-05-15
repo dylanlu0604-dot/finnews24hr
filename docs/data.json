@@ -1,7 +1,48 @@
 {
-  "updated": "2026-05-15 08:49:13",
-  "count": 15202,
+  "updated": "2026-05-15 08:52:35",
+  "count": 15203,
   "items": [
+    {
+      "id": "4880881",
+      "time": "2026-05-15 08:52:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "中芯國際聯合執行長：已與客戶就緊缺產品談妥漲價。"
+    },
+    {
+      "id": "4880880",
+      "time": "2026-05-15 08:52:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "中芯國際聯合執行長：受綜合平均售價提升影響，預計第二季度毛利率將上升。"
+    },
+    {
+      "id": "4880879",
+      "time": "2026-05-15 08:51:46",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【摩根大通將臺股牛市情境目標位上調至50000點】摩根大通策略師上調對臺股加權指數的目標位，牛市情境下的目標位為50,000點，意味著較上一交易日收盤水平約有20%的上行空間，因該市場對人工智慧建設的敞口最純粹。"
+    },
+    {
+      "id": "4880878",
+      "time": "2026-05-15 08:51:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "墨西哥總統辛鮑姆：墨西哥國家石油公司（PEMEX）執行長維克托·羅德里格斯已辭職。"
+    },
+    {
+      "id": "4880877",
+      "time": "2026-05-15 08:50:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【訊息稱特朗普將撤銷對美國國稅局百億美元訴訟】據訊息人士透露，美國總統特朗普預計將撤銷其針對美國國稅局的100億美元訴訟，以換取設立一個17億美元的基金，用於補償那些聲稱自己被拜登政府錯誤針對的盟友。"
+    },
     {
       "id": "te:markets:550888",
       "time": "2026-05-15 08:48:17",
@@ -137156,50 +137197,6 @@
         "Impact bearish"
       ],
       "text": "POP MART TARGET PRICE CUT TO HK$140.00 FROM HK$157.00 BY DEUTSCHE BANK"
-    },
-    {
-      "id": "mkt:019e0512-3915-7775-8cbb-c80acefdc191",
-      "time": "2026-05-08 08:52:20",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "DXY",
-        "Impact bullish",
-        "EURUSD",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "TRUMP EXTENDS EU TRADE DEAL DEADLINE WHILE ISSUING FRESH THREAT-FT"
-    },
-    {
-      "id": "4867347",
-      "time": "2026-05-08 08:51:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "【OpenBind專案釋出首個公開可用的資料集和AI模型】據英國主導的OpenBind專案官網訊息，當地時間5日，OpenBind釋出首個公開可用的資料集和預測型人工智慧（AI）模型“OpenBind v1”，旨在利用高質量實驗資料推動AI輔助藥物研發。這是利用AI加速發現新藥的突破性一步，標誌著該專案已具備持續、大規模生成“AI就緒”藥物研發資料的能力，為開發新一代藥物發現AI工具奠定了基礎。"
-    },
-    {
-      "id": "4867346",
-      "time": "2026-05-08 08:50:50",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【中國駐巴布亞紐幾內亞大使館提醒：中國公民和機構切勿參與黃金走私違法活動】2026年4月27日，巴布亞紐幾內亞國家機場公司安保人員在莫爾斯比港國際機場查獲20根不同規格、價值數百萬基那的走私金條。日前，亦有涉嫌走私黃金人員被宣判。根據巴新有關部門和當地媒體公佈，2025年12月以來，巴新執法部門查獲6起以上透過機場走私黃金案件。黃金出口須事先申報並取得許可證。走私黃金將面臨法律的嚴厲制裁，包括高額罰款與長期監禁等。中國駐巴布亞紐幾內亞大使館鄭重提醒，在巴新的中國公民和機構務必遵守當地法律法規，切勿參與黃金走私違法活動，避免違法行為給自身帶來安全風險。如遇緊急情況第一時間報警並與中國駐巴新大使館聯絡尋求協助。（中國駐巴布亞紐幾內亞大使館）"
-    },
-    {
-      "id": "te:markets:548968",
-      "time": "2026-05-08 08:49:32",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Aussie Dollar Eyes Flat Weekly Outcome — The Australian dollar held its recent decline around the $0.72 level after pulling back from multi-year highs, leaving it on track for a broadly flat performance over the week. Attention remains on geopolitical developments, as renewed clashes between the US and Iran weakened hopes for a near-term peace agreement. The latest escalation heightens tensions as the US attempts to exit a conflict now in its third month, while awaiting Iran’s response to its proposal to reopen the Strait of Hormuz, a vital waterway for energy flows. The near-closure of the strait and the resulting energy price shock have fueled concerns about rising inflation, which could keep interest rates higher for longer. In Australia, markets are pricing around a 20% chance of another rate hike in June by the Reserve Bank, after 75 basis points of tightening to 4.35% over the past three meetings. The probability rises to about 68% for August, with a terminal rate near 4.60% almost fully priced in by September."
     }
   ]
 }
