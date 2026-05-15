@@ -1,7 +1,94 @@
 {
-  "updated": "2026-05-15 21:05:52",
-  "count": 15565,
+  "updated": "2026-05-15 21:18:03",
+  "count": 15529,
   "items": [
+    {
+      "id": "mkt:019e2bc4-0727-7440-b03a-81ebac34af5a",
+      "time": "2026-05-15 21:12:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "NEW YORK SILVER FUTURES PLUNGE 10% INTRADAY TO $76.70 PER OUNCE SPOT SILVER DROPS MORE THAN $7 INTRADAY TO $76.43 PER OUNCE, DOWN 8.43%"
+    },
+    {
+      "id": "mkt:019e2bc3-b767-7440-b03a-7b9046862a39",
+      "time": "2026-05-15 21:11:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Morgan Stanley Sees Fed Holding Rates Through 2026, Cuts Delayed to 2027】Morgan Stanley expects the Fed to hold interest rates unchanged through 2026, pushing its forecast for the next two rate cuts to March and June 2027. The bank cited easing inflation and moderating tariff pressures while maintaining a 2.3% US growth forecast for 2026 despite near-term consumer softness."
+    },
+    {
+      "id": "4882372",
+      "time": "2026-05-15 21:09:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀失守77美元/盎司，日內跌10.11%。"
+    },
+    {
+      "id": "4882371",
+      "time": "2026-05-15 21:09:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌10%，現報76.70美元/盎司。"
+    },
+    {
+      "id": "4882370",
+      "time": "2026-05-15 21:09:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內跌7%，現報18874.00元。"
+    },
+    {
+      "id": "4882369",
+      "time": "2026-05-15 21:08:34",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【中東局勢未見緩解跡象之際，美債收益率上升】隨著特朗普與習近平的會晤在伊朗戰爭問題上未取得明顯的突破，美債收益率走高。油價持續上漲，同時華爾街日報美元指數攀升0.7%，至95.84，創下自4月份以來的最高水平。5月份紐約州製造業指數從4月份的11躍升至19.6，而《華爾街日報》的平均預期為下降至7。預計4月份工業產值將反彈。10年期美債收益率報4.559%，自7月份以來首次在4.5%上方交易。兩年期美債收益率報4.073%，創下一年多來的盤中最高水平。"
+    },
+    {
+      "id": "4882368",
+      "time": "2026-05-15 21:08:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【面向全國徵集子基金管理機構 海南自貿港創新投資基金集中設立四隻未來產業基金】據海南日報，5月15日，海南省財金集團集中釋出海南自由貿易港創新投資基金四隻子基金公開徵集公告，擬分別設立未來能源基金、生物製造基金、商業航天創新基金和人工智慧基金，面向全國公開徵集意向合作基金管理機構。本次集中徵集的四隻子基金均採用有限合夥制，每個子基金規模原則上不低於1億元人民幣，存續期原則上不超過10年，重點支援種子期、初創期企業。未來能源基金，重點投向氫能、新型儲能、可控核聚變等未來能源專案，光伏、海上風電、電化學儲能等先進技術與裝備，以及全生物降解塑膠、碳捕集利用與封存（CCUS）、節能環保等綠色技術與材料。生物製造基金，聚焦生物食品、生物材料、生物能源、生物化工、生物農業、生物新增劑及生物製造底層技術與專用裝備，重點支援“海洋生物製造、生物育種”兩大特色創新。商業航天創新基金，聚焦商業航天產業，重點投向衛星與火箭製造及關鍵部件、衛星載荷、衛星運營、航天資料應用、航天發射服務、配套供應鏈等方向。人工智慧基金，主要投向人工智慧基礎技術和垂類應用、“人工智慧+”相關產業，包括人形機器人、工業機器人、具身智慧低空航空器及核心零部件等，重點覆蓋商業航天、深海科技、南繁種業、低空經濟等四大示範應用領域。"
+    },
+    {
+      "id": "4882364",
+      "time": "2026-05-15 21:07:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特：美國已是全球最大的天然氣生產國和出口國，而在特朗普總統的領導下，這一勢頭只會繼續增強。"
+    },
+    {
+      "id": "4882363",
+      "time": "2026-05-15 21:07:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【張雪機車位列超級杆位賽第三名】在剛剛結束的2026世界超級摩托車錦標賽（WSBK）捷克站WorldSSP組別比賽中，中國摩托車製造商“張雪機車”的法國車手瓦倫丁·德比斯位列超級杆位賽第三名。（新華社）"
+    },
     {
       "id": "4882362",
       "time": "2026-05-15 21:05:18",
@@ -139916,444 +140003,6 @@
         "其他"
       ],
       "text": "哈塞特：行政部門絕不會以任何方式進行債務違約。"
-    },
-    {
-      "id": "4868683",
-      "time": "2026-05-08 21:17:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "哈塞特：預計歐盟將在7月4日前達成貿易協議。"
-    },
-    {
-      "id": "4868682",
-      "time": "2026-05-08 21:17:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國白宮國家經濟委員會主任哈塞特：不同意法院關於IEEPA的裁決。"
-    },
-    {
-      "id": "mkt:019e07bc-7718-7557-85c5-a628cfa2719d",
-      "time": "2026-05-08 21:17:30",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish",
-        "DAX",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "HASSETT: EXPECT EU TRADE DEAL BY FOURTH OF JULY"
-    },
-    {
-      "id": "4868681",
-      "time": "2026-05-08 21:17:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國防部長赫格塞思：正與特朗普總統步調一致，致力於在政府對‘不明異常現象’的認知方面，實現前所未有的透明度。這些曾深藏於機密等級背後的檔案，長期以來引發了種種合情合理的猜測——如今，是時候讓美國人民親眼一睹其真容了。"
-    },
-    {
-      "id": "4868680",
-      "time": "2026-05-08 21:17:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "哈塞特：備用方案將確保特朗普的貿易政策得以落實。"
-    },
-    {
-      "id": "mkt:019e07bc-1751-7557-85c5-9e0af129974e",
-      "time": "2026-05-08 21:17:03",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "HASSETT: BACKUP PLAN WILL ENSURE TRUMP'S TRADE POLICY MADE REAL"
-    },
-    {
-      "id": "4868679",
-      "time": "2026-05-08 21:16:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美高階官員稱美軍空襲數艘試圖突破封鎖的油輪】一名美國高階官員透露，美軍當天實施了空襲，目標為數艘試圖突破封鎖的空油輪。該官員表示，被襲擊船隻為“超大型原油運輸船”（VLCC），屬於“體積巨大的空船”，當時正試圖返回伊朗，並嘗試突破當前封鎖。當地時間5月8日，美國中央司令部表示，目前有超過70艘油輪因美軍行動無法進入或離開伊朗港口。美國中央司令部同時表示，目前針對伊朗港口的封鎖行動“仍全面有效”。（央視新聞）"
-    },
-    {
-      "id": "mkt:019e07bb-d048-7557-85c5-963f4e3980e3",
-      "time": "2026-05-08 21:16:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "HASSETT: DISAGREE WITH COURT'S DECISION ON IEEPA"
-    },
-    {
-      "id": "mkt:019e07bb-9d9e-7557-85c5-8804db79afd9",
-      "time": "2026-05-08 21:16:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "HASSETT: GREER WILL HAVE MORE TODAY ON LATEST TRADE RULING"
-    },
-    {
-      "id": "4868678",
-      "time": "2026-05-08 21:16:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "哈塞特：正在針對最新關稅裁決研究各種選項。"
-    },
-    {
-      "id": "mkt:019e07bb-8a64-7557-85c5-836b1bf05d65",
-      "time": "2026-05-08 21:16:31",
-      "tags": [
-        "MKT News",
-        "Important",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "HASSETT: THINK WE'LL SEE RATE CUTS THIS YEAR BECAUSE OF WARSH"
-    },
-    {
-      "id": "4868677",
-      "time": "2026-05-08 21:16:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "哈塞特：格里爾今天將帶來更多關於最新貿易裁決的資訊。"
-    },
-    {
-      "id": "mkt:019e07bb-6f0a-7557-85c5-785a59c2bdef",
-      "time": "2026-05-08 21:16:24",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "HASSETT: NO SIGN OF RUNAWAY INFLATION FOR FED TO RAISE RATES"
-    },
-    {
-      "id": "mkt:019e07bb-652b-7557-85c5-724ac7d9ac7c",
-      "time": "2026-05-08 21:16:22",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "US10Y",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "HASSETT: CORE INFLATION HAS REMAINED STABLE DESPITE OIL, JOBS"
-    },
-    {
-      "id": "mkt:019e07bb-55af-7557-85c5-6b2d772b4402",
-      "time": "2026-05-08 21:16:18",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "HASSETT: ONE ROBOTS GET BETTER, WE'LL NEED MORE RE-SKILL POLICY"
-    },
-    {
-      "id": "4868676",
-      "time": "2026-05-08 21:16:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "哈塞特：因為沃什，我認為今年我們會看到降息。"
-    },
-    {
-      "id": "mkt:019e07bb-4ae3-7557-85c5-648a9fe6966a",
-      "time": "2026-05-08 21:16:15",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Nasdaq100",
-        "Impact bullish",
-        "S&P500",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "HASSETT: AI-ADJACENT JOBS ARE THE ONES GROWING THE FASTEST"
-    },
-    {
-      "id": "mkt:019e07bb-39cf-7557-85c5-5a01a51110d8",
-      "time": "2026-05-08 21:16:10",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "HASSETT: DATA SHOWING PEOPLE USING AI TOOLS FOR THEIR JOBS"
-    },
-    {
-      "id": "mkt:019e07bb-2df3-7557-85c5-539398930553",
-      "time": "2026-05-08 21:16:07",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "HASSETT: PEOPLE SHOULD USE AI TOOLS FOR CAREER PROTECTION"
-    },
-    {
-      "id": "mkt:019e07bb-2210-7557-85c5-49e52b7f2fa2",
-      "time": "2026-05-08 21:16:04",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "S&P500",
-        "Impact bullish",
-        "Nasdaq100",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "HASSETT ON AI JOB LOSS: NOW WE'RE SEEING AI JOB CREATION"
-    },
-    {
-      "id": "4868675",
-      "time": "2026-05-08 21:14:57",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "巴西航空工業公司ADR迅速下跌至5%。"
-    },
-    {
-      "id": "4868674",
-      "time": "2026-05-08 21:14:21",
-      "tags": [
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "哈塞特：美聯儲無需加息，因為沒有跡象表明通脹失控。"
-    },
-    {
-      "id": "4868673",
-      "time": "2026-05-08 21:14:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "哈塞特：隨著機器人效能提升，我們將需要更多的再技能培訓政策。"
-    },
-    {
-      "id": "4868672",
-      "time": "2026-05-08 21:14:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "哈塞特：儘管石油價格和就業形勢嚴峻，但核心通脹率依然保持穩定。"
-    },
-    {
-      "id": "4868671",
-      "time": "2026-05-08 21:13:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "哈塞特談人工智慧導致的失業：現在我們看到人工智慧正在創造就業。"
-    },
-    {
-      "id": "4868670",
-      "time": "2026-05-08 21:13:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "據美國媒體報道，美軍8日在霍爾木茲海峽對多艘試圖突破封鎖的空載伊朗油輪發動空襲。 （新華社）"
-    },
-    {
-      "id": "4868669",
-      "time": "2026-05-08 21:12:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "哈塞特：資料顯示人們在工作中使用人工智慧工具。"
-    },
-    {
-      "id": "4868668",
-      "time": "2026-05-08 21:12:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "哈塞特：過去兩個月就業資料十分亮眼。"
-    },
-    {
-      "id": "4868667",
-      "time": "2026-05-08 21:12:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "哈塞特：人們應該利用人工智慧工具來保護職業生涯。"
-    },
-    {
-      "id": "mkt:019e07b7-a452-7557-85c5-41bc7d1453a3",
-      "time": "2026-05-08 21:12:16",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "HASSETT: 'RIP-ROARING' JOBS MARKET"
-    },
-    {
-      "id": "4868666",
-      "time": "2026-05-08 21:12:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗南部霍爾木茲甘省一港口城市傳出爆炸聲】當地時間8日，總檯記者獲悉，伊朗南部霍爾木茲甘省港口城市西里克（Sirik）傳出爆炸聲。暫無具體爆炸原因。（央視新聞）"
-    },
-    {
-      "id": "mkt:019e07b7-8f23-7557-85c5-3e5ec5251e4b",
-      "time": "2026-05-08 21:12:10",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "NEC DIRECTOR KEVIN HASSETT: BLOCKBUSTER JOBS NUMBERS THE LAST TWO MONTHS"
-    },
-    {
-      "id": "4868665",
-      "time": "2026-05-08 21:11:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "哈塞特：就業市場“異常火爆”。"
-    },
-    {
-      "id": "4868664",
-      "time": "2026-05-08 21:11:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "哈塞特：過去兩個月非農就業資料大幅超預期。"
-    },
-    {
-      "id": "4868663",
-      "time": "2026-05-08 21:10:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯聯邦消費者權益保護和公益監督局表示：安第斯漢坦病毒對俄羅斯民眾不具備危險性。"
-    },
-    {
-      "id": "te:markets:549270",
-      "time": "2026-05-08 21:09:25",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Silver Prices Hit Mid-March Highs on US-Iran Ceasefire Hopes — Silver prices rose above $80 per ounce on Friday, marking their highest level since mid-March and setting course for a weekly gain of over 7%, as optimism over a potential US-Iran peace deal helped ease fears that stubborn inflation could prolong high interest rates. Even after a recent exchange of fire, the most serious test of their month-long ceasefire, Iran reported the situation had normalized, and US President Donald Trump affirmed the ceasefire was still \"in effect.\" Investors also reacted to the latest US jobs data, which showed the economy added 115,000 jobs last month, exceeding forecasts of 62,000 and signaling resilience in the labor market. Since the war began in late February, silver has fallen nearly 14%, weighed down by rising oil prices that amplified inflation concerns and complicated the interest rate outlook."
-    },
-    {
-      "id": "mkt:019e07b5-0a06-7557-85c5-30215badf228",
-      "time": "2026-05-08 21:09:25",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "IRAN'S SEMI-OFFICIAL MEHR REPORTS EXPLOSION IN AREA NEAR HORMUZ"
-    },
-    {
-      "id": "4868662",
-      "time": "2026-05-08 21:08:50",
-      "tags": [
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "【“美聯儲傳聲筒”：非農資料意味著美聯儲關注點將從就業轉向通脹】“美聯儲傳聲筒”Nick Timiraos表示，四個月前美聯儲面臨的一個重大問題是：是否需要繼續降息以支撐看起來搖搖欲墜的勞動力市場。如今這一問題已不復存在。勞動力市場已經企穩，而受關稅以及伊朗戰爭影響，通脹正從此前的回落轉向重新上升。4月非農報告凸顯了這一前景變化，並意味著在判斷目前已堅定按兵不動的美聯儲下一步政策方向時，市場焦點將明確轉向通脹資料。4月招聘活動保持穩健，失業率維持不變，收入增長也依然堅挺，這些都不足以構成降息理由。隨著勞動力市場為美聯儲提供了繼續等待的空間，政策討論的下一步將是何時以及如何轉向“中性”——即加息與降息的可能性變得大致相當，而答案可能幾乎完全取決於未來的通脹資料。"
-    },
-    {
-      "id": "4868661",
-      "time": "2026-05-08 21:07:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "法國CAC40指數日內跌幅達1.00%。"
-    },
-    {
-      "id": "4868660",
-      "time": "2026-05-08 21:07:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "【山東淄博一公司制氫裝置閃爆2死1傷，事故調查報告公佈】山東淄博市應急管理局5月6日公佈《淄博淄川淄博正拓氣體有限公司“2·26”一般氣體閃爆事故調查報告》。2025年2月26日19時8分，位於淄博市淄川區的淄博正拓氣體有限公司發生一起氣體閃爆事故，造成2人死亡、1人受傷，直接經濟損失380萬元。經調查認定，該事故是一起因壓力管道使用單位對壓力管道日常檢查、維護保養不到位，僱用無資質施工隊伍違規帶壓密封堵漏作業導致的一般生產安全責任事故。（澎湃）"
-    },
-    {
-      "id": "4868659",
-      "time": "2026-05-08 21:07:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "【商務部：一季度中俄雙邊貿易額達612億美元 同比增長14.7%】商務部歐亞司副司長馬馳8日在第十屆中國—俄羅斯博覽會新聞釋出會上介紹，2025年，中俄貿易額達2279億美元，連續三年突破2000億美元大關，中國連續16年保持俄第一大貿易伙伴國地位。今年一季度，雙邊貿易額達612億美元，同比增長14.7%，其中對俄出口同比增長22%，自俄進口同比增長9%，實現了良好開局。"
-    },
-    {
-      "id": "te:markets:549269",
-      "time": "2026-05-08 21:07:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Gold Prices Surge Amid US-Iran Ceasefire Optimism — Gold prices climbed above $4,720 per ounce on Friday, reaching their highest level since April 22 and heading for a weekly gain of over 2%, as optimism surrounding a potential US-Iran peace agreement eased concerns that persistent inflation could keep interest rates elevated for longer. Despite a recent exchange of fire between the US and Iran, the most significant test of their month-long ceasefire, Iran stated that the situation had stabilized, while US President Donald Trump confirmed the ceasefire remained \"in effect.\" Investors also processed the latest US jobs report, which revealed the economy added 115,000 jobs last month, surpassing expectations of 62,000 and indicating continued strength in the labor market. Since the war began in late February, gold has dropped more than 10%, pressured by rising oil prices that fueled inflation worries and clouded the outlook for interest rates."
-    },
-    {
-      "id": "4868658",
-      "time": "2026-05-08 21:06:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "義大利聯合聖保羅銀行執行長：淨利息收益或成2026年真正的意外驚喜。"
-    },
-    {
-      "id": "4868657",
-      "time": "2026-05-08 21:06:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "美元兌加元USD/CAD突破1.37，日內漲0.25%。"
-    },
-    {
-      "id": "4868656",
-      "time": "2026-05-08 21:06:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "聯合聖保羅銀行執行長：我們沒有在第一季度更改業績指引的慣例。"
     }
   ]
 }
