@@ -1,7 +1,79 @@
 {
-  "updated": "2026-05-15 13:04:14",
-  "count": 15271,
+  "updated": "2026-05-15 13:07:36",
+  "count": 15276,
   "items": [
+    {
+      "id": "4881246",
+      "time": "2026-05-15 13:07:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "【工程機械板塊短線走高，建設機械漲停】工程機械板塊短線走高，建設機械漲停，恆立液壓、萬達軸承、艾迪精密、浙江鼎力、海倫哲跟漲。"
+    },
+    {
+      "id": "4881245",
+      "time": "2026-05-15 13:06:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "中際旭創成交額達200億元，現跌1.49%。"
+    },
+    {
+      "id": "4881244",
+      "time": "2026-05-15 13:05:25",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達80億港元。"
+    },
+    {
+      "id": "4881243",
+      "time": "2026-05-15 13:05:16",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀失守81美元/盎司，日內跌5.12%。"
+    },
+    {
+      "id": "4881242",
+      "time": "2026-05-15 13:05:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "斯巴魯執行長：已推遲原計劃於2028年推出的自研電動汽車專案，將開發資源調配至燃油車業務。"
+    },
+    {
+      "id": "4881241",
+      "time": "2026-05-15 13:04:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部稱，一夜之間擊落了355架烏克蘭無人機。"
+    },
+    {
+      "id": "mkt:019e2a05-7b0d-7bb5-b4d6-8e9212e908fd",
+      "time": "2026-05-15 13:04:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "AI Revolution",
+        "BILI.O",
+        "Impact bearish"
+      ],
+      "text": "HONG KONG AI-RELATED STOCKS FALL: YOFC AND INNOSCIENCE DROP OVER 8%, BILIBILI FALLS MORE THAN 7%"
+    },
+    {
+      "id": "4881240",
+      "time": "2026-05-15 13:04:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳元<AUD=D3>跌幅擴大，下跌0.61%；紐西蘭元<NZD=D3>下跌0.7%。"
+    },
     {
       "id": "4881239",
       "time": "2026-05-15 13:04:04",
@@ -137852,33 +137924,6 @@
         "其他"
       ],
       "text": "【高瓴投資據悉接近收購Marsh旗下的金融風險管理及保險經紀業務】知情人士透露，高瓴投資接近達成交易，擬收購Marsh旗下為亞洲等市場高淨值客戶提供金融風險管理和人壽保險經紀服務的業務。各方正在商討協議，最早可能於週五宣佈。"
-    },
-    {
-      "id": "4867674",
-      "time": "2026-05-08 13:04:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本政府已徵詢三井物產和商船三井，邀請二者於5月26日至27日加入赴俄羅斯的經濟使節團。"
-    },
-    {
-      "id": "mkt:019e05f9-49de-7113-a190-053b0a477d22",
-      "time": "2026-05-08 13:04:43",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "TURNOVER ON SSE AND SZSE EXCEEDED 2TN YUAN, DOWN 37.1BN YUAN FROM THE SAME TIME PREVIOUS SESSION"
-    },
-    {
-      "id": "mkt:019e05f9-02fb-7113-a18f-faf1a2738752",
-      "time": "2026-05-08 13:04:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "JAPAN GOVT SOUNDED OUT MITSUI & CO, MOL TO JOIN ECONOMIC ENVOY TO RUSSIA ON MAY 26-27, KYODO SAYS"
     }
   ]
 }
