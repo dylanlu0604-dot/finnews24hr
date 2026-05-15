@@ -1,7 +1,48 @@
 {
-  "updated": "2026-05-16 02:59:08",
-  "count": 15605,
+  "updated": "2026-05-16 03:03:12",
+  "count": 15604,
   "items": [
+    {
+      "id": "mkt:019e2d03-56fe-7663-82fb-d5153ccd01fe",
+      "time": "2026-05-16 03:00:53",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "JD.com",
+        "JD.O",
+        "Impact bullish",
+        "MA.O"
+      ],
+      "text": "JD.COM AND MASTERCARD TO DEEPEN COLLABORATION TO EXPAND PAYMENT CHOICES FOR INT’L TRAVELERS IN CHINA"
+    },
+    {
+      "id": "te:economy:551294",
+      "time": "2026-05-16 03:00:06",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Colombia",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Colombia 10Y Bond Yield Hits 3-1/2-year High — Colombia 10 Year Government Bond Yield increased to 13.98%, the highest since November 2022. Over the past 4 weeks, Colombia 10Y Bond Yield gained 127.20 basis points, and in the last 12 months, it increased 171.30 basis points."
+    },
+    {
+      "id": "4882846",
+      "time": "2026-05-16 03:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收跌0.31%，報25622.52點，低水340.21點。"
+    },
+    {
+      "id": "4882845",
+      "time": "2026-05-16 02:59:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列駐美國大使：與黎巴嫩的談判成功機會很大。"
+    },
     {
       "id": "4882844",
       "time": "2026-05-16 02:58:34",
@@ -140611,48 +140652,6 @@
         "其他"
       ],
       "text": "洲際交易所（ICE）：截至5月5日當週，柴油投機者將淨多頭頭寸削減1621手至59651手。"
-    },
-    {
-      "id": "4869068",
-      "time": "2026-05-09 03:03:01",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【美國稱將為以黎會談提供便利】當地時間5月8日，美國國務院發表宣告稱，美國將於5月14日和15日為以色列和黎巴嫩政府之間舉行的為期兩天的密集會談提供便利。宣告稱，此輪會談是在4月23日談判基礎上展開。根據宣告，討論內容將包括建立長期和平與安全框架、恢復黎巴嫩對全境的主權、邊界劃定以及推動黎巴嫩人道主義救援與重建路徑。（央視新聞）"
-    },
-    {
-      "id": "4869066",
-      "time": "2026-05-09 03:02:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄方同意特朗普提出的停火和交換戰俘方案】俄羅斯總統助理烏沙科夫8日晚回應說，俄羅斯同意並支援美國總統特朗普提出的將俄烏停火延長到11日，以及與烏克蘭相互交換1000名戰俘的方案。 (新華社)"
-    },
-    {
-      "id": "4869064",
-      "time": "2026-05-09 03:01:04",
-      "tags": [
-        "公司",
-        "資料"
-      ],
-      "text": "【谷歌旗下Isomorphic Labs將籌集超20億美元新資金】據知情人士透露，從谷歌旗下DeepMind分拆出來的AI藥物發現公司Isomorphic Labs正進行深入討論，擬在新一輪融資中籌集超過20億美元。這知情人士表示，曾領投Isomorphic Labs去年首輪融資的風險投資公司Thrive Capital將主導新一輪融資。其中一位知情人士稱，Alphabet也參與其中，但該輪融資尚未結束。這筆額外融資將標誌著Alphabet將其未來主義押注轉變為獨立業務的長期計劃又邁出一步。Alphabet旗下的自動駕駛部門Waymo今年早些時候以1260億美元的估值籌集了160億美元。"
-    },
-    {
-      "id": "4869062",
-      "time": "2026-05-09 03:00:29",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根大通將碩騰（Zoetis）目標股價從每股190.00美元下調至130.00美元。"
-    },
-    {
-      "id": "4869061",
-      "time": "2026-05-09 03:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒指期貨夜盤收跌0.11%，報26126.95點，低水266.76點。"
     }
   ]
 }
