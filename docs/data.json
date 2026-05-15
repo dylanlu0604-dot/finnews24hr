@@ -1,7 +1,47 @@
 {
-  "updated": "2026-05-16 00:12:26",
-  "count": 15550,
+  "updated": "2026-05-16 00:15:51",
+  "count": 15547,
   "items": [
+    {
+      "id": "mkt:019e2c6a-8696-7663-82fa-7e04dd91cdc6",
+      "time": "2026-05-16 00:13:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US STATE DEPARTMENT OFFICIAL: THE ATMOSPHERE OF THE SECOND DAY OF LEBANON AND ISRAEL TALKS IS EXTREMELY POSITIVE AND EXCEEDED EXPECTATIONS - AL JAZEERA"
+    },
+    {
+      "id": "mkt:019e2c6a-386a-7663-82fa-71c0cc288332",
+      "time": "2026-05-16 00:13:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "THE LABOUR PARTY PANEL ALLOWS BURNHAM'S UK PARLIAMENT RUN - THE TIMES"
+    },
+    {
+      "id": "te:markets:551259",
+      "time": "2026-05-16 00:13:26",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Retreats as Inflation Concerns Pressure Markets — The FTSE MIB fell 1.9% to close at 49,116 on Friday, pulling back from a 26-year high reached in the previous session as investors reassessed inflation risks and the outlook for higher-for-longer interest rates. Middle East tensions remained elevated as peace talks stalled. Oil prices rose amid the lack of progress toward ending ship attacks and seizures around the Strait of Hormuz, reinforcing stagflation concerns. ECB Governing Council member Martins Kazaks warned that the ECB may need to tighten policy if higher oil prices lift inflation expectations, highlighting Europe’s vulnerability to energy shocks. Financial stocks led losses, with BPER Banca down 3.7% and Mediolanum falling 3.2%, while Unipol slipped 0.8% despite reporting higher first-quarter net profit. Utilities also traded lower, with Enel shedding 2.4%. Luxury stocks weakened amid higher risk aversion, with Ferrari down 2.6%, while STMicroelectronics lost 4.2% following a deal involving Chinese partner Dongfeng Motor."
+    },
+    {
+      "id": "4882681",
+      "time": "2026-05-16 00:12:14",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院官員：第二天的黎巴嫩與以色列談判氣氛非常積極，超出了預期。"
+    },
     {
       "id": "te:markets:551258",
       "time": "2026-05-16 00:12:13",
@@ -428,6 +468,16 @@
         "其他"
       ],
       "text": "【降水可達50毫米以上 江西釋出暴雨橙色預警】江西省氣象臺15日23時17分發布暴雨橙色預警訊號：預計未來3小時內，南康區、崇義縣、上猶縣、遂川縣的部分地區降水可達50毫米以上，並伴有短時強降水、雷電等強對流天氣，請注意防範強降雨可能引發的城鄉內澇、中小河流洪水、山洪和地質災害等次生災害。（央視新聞）"
+    },
+    {
+      "id": "4882647",
+      "time": "2026-05-15 23:56:10",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【市場開始預期美聯儲將於年末年初時段加息】本週通脹資料接連超出預期，投資者週五大幅押注：美聯儲可能在年底前轉向加息模式。這給即將上任的美聯儲主席凱文・沃什從一開始就帶來了政策兩難。據芝商所（CME）的美聯儲利率觀測器（FedWatch）顯示：到明年 1 月聯邦公開市場委員會（FOMC）會議時，基準利率上調 25 個基點的機率升至約60%；最早12 月加息的機率已接近五五開。在即將卸任的主席傑羅姆・鮑威爾任期內，美聯儲自去年 12 月起將政策利率維持在3.50%–3.75%區間。儘管通脹持續高於2% 目標，政策宣告仍暗示下一步大機率降息。然而，越來越多的政策制定者主張轉變立場；在 4 月政策宣告中，因保留寬鬆傾向，已有三位官員投下反對票。週三即將公佈的會議紀要，或能揭示有多少官員準備轉向中性甚至鷹派立場。本週資料進一步削弱短期降息理由：消費者、批發及進口商品價格通脹全線高於經濟學家已上調的預期；零售銷售報告顯示，面對物價上漲，消費者韌性仍存。更值得注意的是，本輪物價壓力為疫情後通脹高峰以來最高，且不再侷限於美以對伊朗戰爭推高的能源價格。美國銀行分析師寫道：“因通脹回升、消費強勁、企業盈利高企，市場敘事已從滯脹轉向再通脹。”資料與美聯儲預期的急劇反轉，將給沃什帶來棘手的溝通難題—— 他將於週五鮑威爾主席任期正式到期後接掌美聯儲。沃什由特朗普總統提名，特朗普一直強烈要求降息，並公開批評鮑威爾未能落實。沃什本週獲參議院確認，但宣誓就職日期尚未敲定。他主張，人工智慧普及將提振美國生產率、抑制通脹，理應支援降息中國網。不過，他上月在確認聽證會上向參議員表示，未向特朗普承諾任何利率政策，但承諾將推動重大變革，包括在非貨幣政策領域加強與政府合作。"
     },
     {
       "id": "te:economy:551252",
@@ -140150,83 +140200,6 @@
         "國際"
       ],
       "text": "歐洲央行管委納格爾：歐洲央行對通脹風險抬頭保持高度警惕。"
-    },
-    {
-      "id": "4868966",
-      "time": "2026-05-09 00:14:51",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "訊息人士稱，簡街資本  (Jane Street)  公佈第一季度淨營收161 億美元，淨利潤103 億美元。"
-    },
-    {
-      "id": "mkt:019e085e-8929-7aa7-bba7-7e9b0e7110ea",
-      "time": "2026-05-09 00:14:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "JANE STREET POSTS FIRST-QUARTER NET REVENUES OF $16.1 BILLION, WITH NET INCOME OF $10.3 BILLION, SOURCES SAY"
-    },
-    {
-      "id": "te:markets:549323",
-      "time": "2026-05-09 00:14:27",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "European Stocks Close Lower for 2nd Session — European stocks closed sharply lower for a second session on Friday as fresh strikes between Iran and the US added to risks of energy shortages for major European importers. The Eurozone's STOXX 50 fell 1.1% to 5,905 and the pan-European STOXX 600 dropped 0.8% to 612. Tankers and military vessels were reportedly hit during the day to dim expectations that the US and Iranian delegations were closer to agreeing on an end to the war, driving markets to reconsider the positions taken during Wednesday when the consensus saw more optimism in the conflict's end. Risk-sensitive consumer cyclical stocks closed lower, with Hermes, Adidas, and Inditex dropping more than 2.5%. Meanwhile, Safran fell 3% for another session of sharp selling, and Rheinmetall sank 10% as investors continued to assess the company's earnings report from yesterday. Meanwhile, Intesa Sanpaolo dropped 2% after posting its earnings report."
-    },
-    {
-      "id": "4868965",
-      "time": "2026-05-09 00:13:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "訊息人士：萬斯將與卡達首相舉行會晤，議題涵蓋美卡關係、伊朗局勢，重點聚焦液化天然氣市場與地區穩定。"
-    },
-    {
-      "id": "mkt:019e085d-155a-7aa7-bba7-75af2615e150",
-      "time": "2026-05-09 00:12:58",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact mixed",
-        "WTI"
-      ],
-      "text": "VANCE'S MEETING WITH QATARI PM WILL COVER U.S.-QATAR RELATIONS AND SITUATION IN IRAN, WITH A FOCUS ON LNG MARKETS AND REGIONAL STABILITY -SOURCE"
-    },
-    {
-      "id": "mkt:019e085c-f317-7aa7-bba7-6ffe5d6bd2cf",
-      "time": "2026-05-09 00:12:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "GOLDMAN SACHS: 3Q26/4Q26 TTF GAS PRICE FORECASTS UNCHANGED AT 44/40 EUR/MWH"
-    },
-    {
-      "id": "mkt:019e085c-e5ba-7aa7-bba7-6370ad1aa868",
-      "time": "2026-05-09 00:12:46",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "GOLDMAN SACHS: WE ESTIMATE THAT US LNG SUPPLY WILL LIKELY REALIZE 5 MTPA LOWER THAN WHAT WE PREVIOUSLY EXPECTED THIS SUMMER"
-    },
-    {
-      "id": "4868964",
-      "time": "2026-05-09 00:12:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "據知情人士透露，沙特配送APP Ninja為10億美元IPO遴選銀行。"
     }
   ]
 }
