@@ -1,7 +1,132 @@
 {
-  "updated": "2026-05-15 18:58:58",
-  "count": 15613,
+  "updated": "2026-05-15 19:02:38",
+  "count": 15618,
   "items": [
+    {
+      "id": "mkt:019e2b4d-6afe-7ff8-af3b-9e9dbc04d856",
+      "time": "2026-05-15 19:02:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TRUMP ON IRAN ENRICHED MATERIAL: MAY GET IT AT THE RIGHT TIME"
+    },
+    {
+      "id": "te:markets:551160",
+      "time": "2026-05-15 19:01:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Sensex Finishes on Negative Note — India’s BSE Sensex closed 0.2% down at 75,238 on Friday, halting a two-day advance as late selling in metals and oil, and gas stocks wiped out most of the day’s gains. Investors turned more cautious amid growing inflation concerns. Oil prices surged as Middle East tensions and Strait of Hormuz uncertainties persisted, with a nationwide fuel price hike adding further pressure. India raised petrol and diesel prices for the first time in four years by 3 rupees per litre, or more than 3%, to recoup some of the losses incurred due to higher global crude oil prices. At the same time, foreign outflows continued. Among individual stocks, Tata Steel (-2%) led the losses, followed by Eternal (-1.9%), Reliance Industries (-1.9%) and UltraTech Cement (-1.8%)."
+    },
+    {
+      "id": "mkt:019e2b4c-fc64-7bb5-b4dc-1455730713c9",
+      "time": "2026-05-15 19:01:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BLOOMBERG DOLLAR SPOT INDEX HALVES ADVANCE, NOW UP 0.2%"
+    },
+    {
+      "id": "4882131",
+      "time": "2026-05-15 19:01:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "彭博美元現貨指數上漲一半，目前上漲0.2%。"
+    },
+    {
+      "id": "mkt:019e2b4b-ee82-7225-bfea-99028d807de1",
+      "time": "2026-05-15 19:00:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TRUMP ON RUBIO: THINK HE'S OUTSTANDING"
+    },
+    {
+      "id": "4882129",
+      "time": "2026-05-15 19:00:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談英國：除非斯塔默解決移民與能源政策問題，否則其政治生存將面臨“嚴峻”考驗。"
+    },
+    {
+      "id": "4882128",
+      "time": "2026-05-15 18:59:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華林證券秦湘辭去執行長 原國盛副總裁董東代行職務】華林證券今日公告，秦湘因個人原因申請辭去公司執行長職務，辭職後，不再在公司及控股子公司擔任任何職務。公司同時審議同意由公司執委董東代為履行執行長職責，代行職務的時問自董事會審議透過之日起不超過六個月。履歷顯示，秦湘以IT背景出身，於2024年4月18日加入華林證券並擔任執委會委員，任職接近兩年，在公司歷任CEO中屬於任期相對偏長的一位。秦湘下一站或離開證券業。"
+    },
+    {
+      "id": "mkt:019e2b4b-0a31-7225-bfea-95b113e53ae6",
+      "time": "2026-05-15 18:59:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TRUMP: MAY MAKE DECISION ON TEXAS GOP PRIMARY SENATE RACE"
+    },
+    {
+      "id": "4882127",
+      "time": "2026-05-15 18:59:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【永新光學：股東電子資訊、電子工業擬分別減持0.9418%和0.0498%】永新光學公告，持股7.4441%的股東寧波電子資訊及一致行動人寧波市電子工業擬於2026年6月8日～2026年9月7日，透過集中競價、大宗交易方式減持公司股份合計不超過110萬股，佔公司總股本0.9916%。其中電子資訊擬減持不超104.48萬股，比例0.9418%；電子工業擬減持不超55200股，比例0.0498%。減持前兩者分別持股825.83萬股、10.11萬股。"
+    },
+    {
+      "id": "mkt:019e2b4b-08d9-7225-bfea-8b145c4ecaaf",
+      "time": "2026-05-15 18:59:25",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "TRUMP: LIKE CORNYN, PAXTON A LOT"
+    },
+    {
+      "id": "4882126",
+      "time": "2026-05-15 18:58:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：或許會就德克薩斯州參議員候選人提名做出決定。"
+    },
+    {
+      "id": "4882125",
+      "time": "2026-05-15 18:58:53",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【我駐菲律賓宿務總領事館釋出涉水安全提醒】中國駐菲律賓宿務總領事館15日釋出公告，提醒來菲中國遊客切實提高安全防範意識，謹慎參與各類涉水活動，確保生命安全。公告稱，遊客在境外參與浮潛、潛水、游泳等涉水活動發生意外情況時有發生，部分事故與未規範穿戴救生衣、對海況認識不足、缺乏相關經驗、擅自前往非開放海域以及身體狀況不適宜下水等原因有關。（新華社）"
+    },
+    {
+      "id": "mkt:019e2b4a-cde0-7225-bfea-806b5ca305cc",
+      "time": "2026-05-15 18:58:51",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "TRUMP: MAYBE MAKE A DECISION ON TEXAS SENATE ENDORSEMENT"
+    },
+    {
+      "id": "mkt:019e2b4a-7fb4-7225-bfea-78b7dce99d1b",
+      "time": "2026-05-15 18:58:47",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "TRUMP: WE DISCUSSED FENTANYL WITH CHINA"
+    },
     {
       "id": "mkt:019e2b49-f123-7225-bfea-7261fc61710d",
       "time": "2026-05-15 18:58:43",
@@ -140774,88 +140899,6 @@
         "EURUSD"
       ],
       "text": "FED'S MIRAN: I THINK IT'S APPROPRIATE TO CUT INTEREST RATES - FOX BUSINESS"
-    },
-    {
-      "id": "4868394",
-      "time": "2026-05-08 19:01:58",
-      "tags": [
-        "市場"
-      ],
-      "text": "Toast美股盤前跌超10%，現報26.39美元。"
-    },
-    {
-      "id": "4868393",
-      "time": "2026-05-08 19:01:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【巴基斯坦擬首次發行熊貓債 規模至多為17.5億元人民幣】巴基斯坦尋求在中國境內市場發行人民幣計價債券，將是其首次發行熊貓債，發行規模至多為17.5億元人民幣（2.57億美元）。債券期限三年，為可持續發展債券，最早可能下週定價；該債券將由亞投行和亞開行提供部分擔保，擔保本息覆蓋率為95%。相關細節尚在討論中，仍可能發生變化。"
-    },
-    {
-      "id": "mkt:019e073f-6ce2-7ff0-9ed3-ad93f8c721fb",
-      "time": "2026-05-08 19:00:57",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "IRAN'S FOREIGN MINISTRY CONDEMNS MOVES BY U.S. NAVY AGAINST TWO IRANIAN TANKERS AS AGGRESSIVE ACTS AND VIOLATIONS OF TRUCE- IRAN STATE MEDIA"
-    },
-    {
-      "id": "4868392",
-      "time": "2026-05-08 19:00:54",
-      "tags": [
-        "市場"
-      ],
-      "text": "【油價整體呈區間波動，焦點集中在和平努力上】在雙方交火引發對本已脆弱的停火協議的擔憂之後，交易員正等待美伊和平談判的最新進展，在此之際，油價整體呈區間波動。德國商業銀行分析師表示：“即使達成協議，油價可能也只會有限下跌，因為局勢從根本上來說依然不穩定，且該地區的生產和出口只會逐步恢復。”“無論如何，海峽在目前可能仍是一個關鍵的咽喉要道，這為風險溢價提供了理由。“布倫特原油在短暫跌破100美元后，上漲0.2%，至每桶100.24美元，而西得州中質油持平於每桶94.83美元。這些基準原油本週有可能下跌超過7%。"
-    },
-    {
-      "id": "4868391",
-      "time": "2026-05-08 19:00:00",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗外交部譴責美國海軍針對兩艘伊朗油輪的行動為侵略行徑，且違反停戰協定。"
-    },
-    {
-      "id": "4868390",
-      "time": "2026-05-08 18:59:54",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【凱投宏觀：英國政治不確定性被伊朗戰爭所掩蓋】凱投宏觀的Ruth Gregory和Joe Maher表示，對英國首相基爾·斯塔默領導地位的潛在挑戰可能會使該國經濟和市場動盪，但任何結果都將被中東事件所掩蓋。在地方選舉表現不佳之後，斯塔默可能面臨來自財政上不那麼保守的候選人的挑戰。這可能會推高利率和英國國債收益率，儘管更寬鬆的財政和移民政策可能會提振GDP。但他們表示，伊朗戰爭的結果將對市場和該國經濟產生大得多的影響。“如果伊朗和美國達成協議且能源價格下跌，我們預計投資者的利率預期以及英國國債收益率將隨之下降，而無論國內政治事態如何發展，“他們說。"
-    },
-    {
-      "id": "mkt:019e073e-1d85-7ff0-9ed3-a24bf78a0a7c",
-      "time": "2026-05-08 18:59:31",
-      "tags": [
-        "MKT News",
-        "AMZN.O",
-        "Impact bearish"
-      ],
-      "text": "AWS: BASED ON OUR CURRENT MITIGATION EFFORTS, WE EXPECT FULL RECOVERY TO TAKE SEVERAL HOURS IN US-EAST-1 REGION"
-    },
-    {
-      "id": "4868389",
-      "time": "2026-05-08 18:59:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "【香港特區政府發售機構綠色債券及基礎建設債券 約276億港元】香港特區政府今日公佈，在政府可持續債券計劃和基礎建設債券計劃下成功定價約276億港元等值的綠色債券（綠色債券）及基礎建設債券（基建債券），涵蓋港元、人民幣、美元及歐元。在2026年5月6日舉行網上路演後，這批綠色債券和基建債券在2026年5月7日定價。發行吸引了來自亞洲、歐洲、中東和美洲，超過30個市場的環球投資者廣泛參與，錄得總認購金額約2,390億港元等值，認購額為發行額的約8.6倍。其中，30年期港元債券的發行規模為去年首次發行的兩倍，2024年首次推出的20年期及30年期的長年期人民幣債券亦繼續廣受投資者歡迎。"
-    },
-    {
-      "id": "4868388",
-      "time": "2026-05-08 18:59:17",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "亞馬遜雲科技（AWS）：基於我們當前的故障緩解工作，我們預計美國東部1區將需要數小時才能實現全面恢復。"
     }
   ]
 }
