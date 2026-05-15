@@ -1,7 +1,85 @@
 {
-  "updated": "2026-05-15 14:55:20",
-  "count": 15348,
+  "updated": "2026-05-15 14:58:48",
+  "count": 15355,
   "items": [
+    {
+      "id": "4881459",
+      "time": "2026-05-15 14:58:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯與烏克蘭互換俘虜，各方均交換205名戰俘。"
+    },
+    {
+      "id": "4881458",
+      "time": "2026-05-15 14:57:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "臺積電：可預見未來暫無進一步出售先進國際半導體（VIS）股份的計劃。"
+    },
+    {
+      "id": "4881457",
+      "time": "2026-05-15 14:57:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "臺積電：擬出售先進國際半導體8.1% 股份。"
+    },
+    {
+      "id": "4881456",
+      "time": "2026-05-15 14:56:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "【鎧俠：NAND價格一季度上漲逾一倍 預計2027年供應仍將吃緊】鎧俠表示，以美元計價的NAND價格在一季度上漲逾一倍，並預計2027年度NAND儲存供應仍將維持緊張態勢。"
+    },
+    {
+      "id": "4881455",
+      "time": "2026-05-15 14:56:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "*ST中迪盤中跌停，上演“天地板”，現報14.35元，成交額4.32億元。"
+    },
+    {
+      "id": "4881454",
+      "time": "2026-05-15 14:56:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "*ST亞士盤中漲停，上演“地天板”，現報5.37元，成交額2.44億元。"
+    },
+    {
+      "id": "4881453",
+      "time": "2026-05-15 14:56:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超3.3萬億元，較上日此時縮量258億元。"
+    },
+    {
+      "id": "4881452",
+      "time": "2026-05-15 14:56:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【基輔遭襲搜救工作結束 24人死亡含3名兒童】烏克蘭國家緊急情況局當地時間14日在社交媒體釋出訊息稱，俄羅斯當天對烏克蘭首都基輔發動大規模空襲，已造成至少12人死亡，目前救援人員仍在建築廢墟中開展搜救。當地時間5月15日，烏克蘭總統澤連斯基透過社交平臺通報，基輔遭襲擊損毀的居民住宅樓搜救工作已全面結束。救援人員連續28小時不間斷作業，完成了全流程搜救排查工作。此次襲擊共造成24人死亡，其中包括3名兒童；48人受傷，其中包含2名兒童。受傷人員已被及時轉運至醫療機構接受救治，後續相關處置工作正有序推進。（央視新聞）"
+    },
+    {
+      "id": "4881451",
+      "time": "2026-05-15 14:56:07",
+      "tags": [
+        "市場",
+        "央行",
+        "國際",
+        "原創"
+      ],
+      "text": "【日本央行稱中東衝突或引發物價全面上漲，增加近期加息理由】日本央行週五表示，由於中東衝突導致能源成本飆升，從食品生產商到溫泉設施等各行各業的企業都在考慮將成本轉嫁給消費者，日本今年夏季前後可能面臨新一輪全面物價上漲。日本央行在一份基於1月至4月對地區企業進行的調查報告中指出，包括食品行業、餐飲業和溫泉設施在內的一些企業已經決定加快提價步伐，其他一些企業則表示，他們將盡快決定是否提價。報告強調，日本央行日益關注經濟中不斷積聚的通脹壓力，這可能會增加近期加息的理由。"
+    },
     {
       "id": "4881450",
       "time": "2026-05-15 14:54:43",
@@ -138496,30 +138574,6 @@
         "Important"
       ],
       "text": "Spain | Industrial Production SA (YoY) (Mar) | actual 1.8% | previous -1.10%"
-    },
-    {
-      "id": "mkt:019e0661-b00f-7113-a191-53664bbb5ab8",
-      "time": "2026-05-08 14:58:45",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【China to Raise Retail Fuel Prices From May 9】China will raise retail gasoline and diesel prices from 24:00 on May 8, with gasoline prices increasing by 320 yuan per ton and diesel by 310 yuan per ton, according to the National Development and Reform Commission. National average prices for 92-octane gasoline, 95-octane gasoline and zero-grade diesel will each rise by about 0.25 yuan-0.27 yuan per liter. Filling a 50-liter tank with 92-octane gasoline will cost about 12.5 yuan more, CCTV Finance reported."
-    },
-    {
-      "id": "mkt:019e0660-f635-7113-a191-4afabef2f523",
-      "time": "2026-05-08 14:57:55",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "SZSE Component"
-      ],
-      "text": "TURNOVER ON SSE AND SZSE EXCEEDED 3TN YUAN, DOWN 110BN YUAN FROM THE SAME TIME PREVIOUS SESSION"
     }
   ]
 }
