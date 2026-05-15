@@ -1,7 +1,85 @@
 {
-  "updated": "2026-05-15 10:06:19",
-  "count": 15256,
+  "updated": "2026-05-15 10:09:48",
+  "count": 15260,
   "items": [
+    {
+      "id": "4881043",
+      "time": "2026-05-15 10:09:30",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達20億港元。"
+    },
+    {
+      "id": "4881042",
+      "time": "2026-05-15 10:09:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣州港南沙港區五期工程正式開工 集裝箱吞吐能力未來將達3500萬標準箱】5月15日上午，國家重大工程廣州港南沙港區五期工程正式全面開工，專案設計年集裝箱透過能力670萬標準箱，建成後南沙港區集裝箱吞吐能力將達3500萬標準箱，位於世界單一港區前列，將進一步提升大灣區國際航運樞紐能級，助力大灣區世界級港口群的建設。（央視新聞）"
+    },
+    {
+      "id": "4881041",
+      "time": "2026-05-15 10:08:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華僑城集團有限公司督察審計部總經理彭華接受紀律審查和監察調查】5月15日，據“汕尾清風”微信公眾號訊息，華僑城集團有限公司督察審計部總經理彭華涉嫌嚴重違紀違法，目前正接受華僑城集團有限公司紀委紀律審查和汕尾市城區監委監察調查。"
+    },
+    {
+      "id": "4881040",
+      "time": "2026-05-15 10:08:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【炎和科技完成數億元A2輪融資】5月15日，據朝希資本訊息，近期，炎和科技完成數億元A2輪融資。本輪融資由老股東朝希資本領投，順為資本、蔚來資本聯合領投，藍思科技、毓恬冠佳、中科天算等機構跟投，老股東東方嘉富、財鑫資本持續加碼。資金重點用於核心技術迭代、產能規模擴張、太空光伏中試線建設及產業生態協同，全面加速技術成果商業化落地。"
+    },
+    {
+      "id": "4881039",
+      "time": "2026-05-15 10:08:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【百度成立模型委員會(BMC) 加強人工智慧技術優勢】百度設定百度模型委員會(Baidu Model Committee BMC)，成員由年輕的、對大模型具有深刻理解的研究員構成。基礎模型研發部(BMU)和應用模型研發部(AMU)向百度模型委員會(BMC)彙報。此舉有利於百度進一步集中優勢資源，持續建設及強化人工智慧方向的技術優勢。據知情人士向《科創板日報》透露，新成立的百度模型委員會將全面統籌百度的大模型從路徑探索、技術規劃，到模型訓練、業務落地的全部工作，實現模型從技術到應用一體化。關聯此前多位業內知名大模型研發人才加盟百度的訊息，預計新成立的BMC中會有很多新近加盟的年輕的業內頂級人才。"
+    },
+    {
+      "id": "te:markets:550920",
+      "time": "2026-05-15 10:07:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Zijin Mining Stock Price Hits 5-week Low — Zijin Mining shares decreased to 32.50 CNY, the lowest since April 2026. Over the past 4 weeks, Zijin Mining Group lost 7.9%, and in the last 12 months, it increased 86.62%."
+    },
+    {
+      "id": "4881038",
+      "time": "2026-05-15 10:07:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【貿易商維多據悉推銷可在霍爾木茲海峽外交付的伊拉克石油】據知情人士透露，維多集團正在向客戶兜售伊拉克巴士拉原油，這顯示部分原油可能已經成功運出波斯灣。知情人士說，維多過去幾天向煉油商推銷多批貨物，其中包括可在阿聯酋近海（包括富查伊拉港）以船對船過駁方式交付的巴士拉中質原油和巴士拉重質原油。如果成功，這將是自戰爭和霍爾木茲海峽封鎖開始以來，伊拉克原油罕見地出現在現貨市場並由貿易商出售。數月以來，波斯灣大部分原油產量被困，無法運出，阿布扎比國家石油公司(ADNOC)是最早一批透過海峽運出石油的公司之一。"
+    },
+    {
+      "id": "4881037",
+      "time": "2026-05-15 10:07:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "天然橡膠連續主力合約日內跌3%，現報17520.00元。"
+    },
+    {
+      "id": "4881036",
+      "time": "2026-05-15 10:07:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "滙豐繼續看好人民幣，預計年底美元兌人民幣將觸及6.65元。"
+    },
     {
       "id": "te:markets:550915",
       "time": "2026-05-15 10:05:18",
@@ -137686,56 +137764,6 @@
         "USDJPY"
       ],
       "text": "【South Korea Posts Record $37.3 Billion Current-Account Surplus on Semiconductor Export Boom】South Korea’s current-account surplus surged to a record $37.3 billion in March, according to Bank of Korea data, marking the 35th consecutive monthly surplus. The goods balance recorded a $35.1 billion surplus as exports hit an all-time high of $94.3 billion, driven mainly by semiconductor and computer-related shipments, with chip exports rising nearly 150% on a customs-clearance basis. Petroleum and chemical exports also increased due to higher oil prices. Imports rose at the fastest pace in 15 years. The financial account showed a $37 billion net asset increase, while foreign investors cut holdings of Korean equities by a record $29.3 billion amid Middle East tensions and concerns over memory-chip demand."
-    },
-    {
-      "id": "mkt:019e0558-61d6-7775-8cbc-c3329d4d972f",
-      "time": "2026-05-08 10:08:57",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite",
-        "Hang Seng Index"
-      ],
-      "text": "CHINA’S BEIJING STOCK EXCHANGE 50 INDEX RISES 1%"
-    },
-    {
-      "id": "4867481",
-      "time": "2026-05-08 10:07:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "Coinbase：我們知悉，受亞馬遜雲科技（AWS）服務中斷影響，目前使用者可能無法在網頁端及移動端進行交易。"
-    },
-    {
-      "id": "mkt:019e0557-0eff-7775-8cbc-be0a185497e1",
-      "time": "2026-05-08 10:07:31",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Crypto Concepts",
-        "COIN.O",
-        "Impact bearish"
-      ],
-      "text": "COINBASE: AWARE THAT CUSTOMERS MAY BE UNABLE TO TRANSACT ON WEB AND MOBILE AT THIS TIME DURING AWS OUTAGE"
-    },
-    {
-      "id": "4867480",
-      "time": "2026-05-08 10:07:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "Coinbase：目前已知因亞馬遜網路服務（AWS）發生故障，使用者可能正在遭遇平臺服務效能下降的問題。"
-    },
-    {
-      "id": "4867479",
-      "time": "2026-05-08 10:06:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "【錢江摩托：從未以任何形式針對張雪機車及行業友商實施供應鏈封鎖，經銷商圍剿等不正當競爭行為】5月8日，錢江摩托釋出宣告稱，錢江摩托深耕行業數十載，始終堅守合規經營，良性競爭發展原則，專注產品研發，技術創新與使用者服務，從未以任何形式針對張雪機車及行業友商實施供應鏈封鎖，經銷商圍剿等不正當競爭行為。"
     }
   ]
 }
