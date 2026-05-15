@@ -1,7 +1,129 @@
 {
-  "updated": "2026-05-15 20:58:13",
+  "updated": "2026-05-15 21:02:22",
   "count": 15558,
   "items": [
+    {
+      "id": "mkt:019e2bba-6ba9-7440-b03a-64919916bdaf",
+      "time": "2026-05-15 21:01:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CEOS OF META, ALPHABET, TIKTOK AND SNAP HAVE BEEN INVITED BACK TO CAPITOL HILL FOR A BROAD OVERSIGHT HEARING IN JUNE - AXIOS"
+    },
+    {
+      "id": "4882350",
+      "time": "2026-05-15 21:01:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌8%，現報76.79美元/盎司。"
+    },
+    {
+      "id": "4882349",
+      "time": "2026-05-15 21:00:16",
+      "tags": [
+        "央行",
+        "市場",
+        "國際"
+      ],
+      "text": "俄羅斯至5月8日當週央行黃金和外匯儲備 7710億美元，前值7575億美元。"
+    },
+    {
+      "id": "4882348",
+      "time": "2026-05-15 21:00:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【信達生物與天津醫科大學達成戰略合作】5月15日，信達生物與天津醫科大學在天津正式簽署戰略合作協議。雙方將聚焦腫瘤、自身免疫、代謝等重大疾病領域，在科研協同創新、產教融合育人、成果轉化落地三大維度建立全方位戰略合作關係。"
+    },
+    {
+      "id": "mkt:019e2bb9-597b-7440-b03a-5b5a1e697bdf",
+      "time": "2026-05-15 21:00:06",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "Russia | International Reserves (May.8) | actual 771000000000B | previous 757500000000B"
+    },
+    {
+      "id": "4882347",
+      "time": "2026-05-15 21:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "豆粕連續主力合約日內跌1%，現報2966.00元。"
+    },
+    {
+      "id": "4882346",
+      "time": "2026-05-15 21:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國內期貨夜盤開盤】白銀連續跌6.66%，鉑連續跌6.48%，鈀連續跌5.67%，低硫燃料油連續漲3.90%，碳酸鋰連續跌3.55%。"
+    },
+    {
+      "id": "4882345",
+      "time": "2026-05-15 21:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內跌6%，現報18945.00元。"
+    },
+    {
+      "id": "4882344",
+      "time": "2026-05-15 20:58:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【沙特阿美加速“變現”：擬出售350億美元基礎設施及地產股權】沙特阿美正在推進其九十三年歷史上規模最大的資產私有化計劃，擬透過出售基礎設施、地產等非核心資產套現最多350億美元，以充實資產負債表並吸引外資流入。據媒體援引知情人士透露，相關交易已在推進之中，涵蓋總部園區等地產資產的售後回租、石油出口及儲存碼頭股權出售，以及燃氣發電廠和水務基礎設施業務的相關交易。"
+    },
+    {
+      "id": "4882343",
+      "time": "2026-05-15 20:58:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長阿拉格齊： 伊朗是所有友好國家可信賴的合作伙伴，各國可安心與其開展商貿往來。"
+    },
+    {
+      "id": "4882342",
+      "time": "2026-05-15 20:58:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金祿電子：公司汽車AI-box用PCB已交付驗證 尚未進入大批次量產階段】金祿電子5月15日在互動平臺表示，汽車高階自動駕駛AI尚處於規模化驗證與迭代最佳化階段，公司汽車AI-box用PCB已交付驗證，尚未進入大批次量產階段；根據公司2026年度經營計劃，公司將重點關注AI驅動下高階智駕應用和推廣帶來的市場機會，努力提升智慧駕駛應用領域的銷售份額。（人民財訊）"
+    },
+    {
+      "id": "te:markets:551209",
+      "time": "2026-05-15 20:57:26",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Futures Fall as Bond Selloff Weighs on Sentiment — Futures tracking the S&P/TSX Composite Index fell on Friday as investors were rattled by a global bond market selloff after stalled US-Iran talks hurt risk sentiment. Oil prices rose amid the lack of progress toward a deal to end ship attacks and seizures around the Strait of Hormuz. Concerns over broader stagflation pressures and higher bond yields continued to weigh on banks and the broader market. Gold prices declined as inflation fears lifted expectations of higher interest rates and pushed US Treasury yields higher, pressuring mining stocks. On the earnings front, NXT Energy reported lower first-quarter revenue and profit due to a contract phase shift, while Questerre’s adjusted funds flow jumped on lower Brazil-related costs. Meanwhile, minutes from the Bank of Canada’s April meeting showed policymakers believed they could afford to remain patient on rates, while acknowledging conditions could change quickly."
+    },
+    {
+      "id": "4882341",
+      "time": "2026-05-15 20:57:03",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【證監會發布《證券期貨業研發運營一體化體系建設指南》等4項行業標準】證監會公告，金融行業推薦性標準《證券期貨業研發運營一體化體系建設指南》（JR/T0351—2026）、《證券期貨業業務域資料元規範第1部分：證券公司》（JR/T0331.1—2026）、《證券期貨業業務域資料元規範第6部分：公開募集不動產投資信託基金業務》（JR/T0331.6—2026）、《證券期貨業標準化工作導則第1部分：標準的名稱》（JR/T0352.1—2026），自公佈之日起施行。（中國證監會）"
+    },
+    {
+      "id": "4882340",
+      "time": "2026-05-15 20:55:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "據知情人士透露，歐洲武器製造商Destinus正與投資者洽談，計劃在計劃中的首次公開募股前籌集約2億歐元（2.34億美元）。"
+    },
     {
       "id": "4882339",
       "time": "2026-05-15 20:54:46",
@@ -140169,144 +140291,6 @@
         "國際"
       ],
       "text": "俄羅斯央行資料顯示，4月份黃金儲備環比增至3375.2億美元。"
-    },
-    {
-      "id": "4868648",
-      "time": "2026-05-08 21:01:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "梅賽德斯-賓士阿根廷客車卡車公司投建的全新卡車工廠正式投產，總投資額為1.1億美元。"
-    },
-    {
-      "id": "4868647",
-      "time": "2026-05-08 21:01:36",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "純鹼連續主力合約日內跌2%，現報1219.00元。"
-    },
-    {
-      "id": "mkt:019e07ad-7187-7557-85c5-2d9c41916418",
-      "time": "2026-05-08 21:01:07",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "US HIT SEVERAL TANKERS TRYING TO BREAK THE BLOCKADE: FOX"
-    },
-    {
-      "id": "4868646",
-      "time": "2026-05-08 21:00:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "美軍襲擊多艘試圖突破封鎖的油輪。"
-    },
-    {
-      "id": "mkt:019e07ad-26bc-7557-85c5-262ccff8fcda",
-      "time": "2026-05-08 21:00:48",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "Nasdaq100"
-      ],
-      "text": "【Florian Ielpo of Lombard Odier Investment Managers】It’s simple: this is the “perfect” job report. What is not to like?. It is better than expected without being too strong, and it does not look directly inflationary. Markets understood this well and reacted only modestly to the release. Over the medium term, the report looks rather positive for risk assets, especially in a context where investors remain alert to possible inflation risks."
-    },
-    {
-      "id": "4868645",
-      "time": "2026-05-08 21:00:26",
-      "tags": [
-        "央行",
-        "市場",
-        "國際"
-      ],
-      "text": "俄羅斯至5月1日當週央行黃金和外匯儲備 7575億美元，前值7717億美元。"
-    },
-    {
-      "id": "mkt:019e07ac-8232-7557-85c5-1d6be6fd969e",
-      "time": "2026-05-08 21:00:06",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "Russia | International Reserves (May.1) | actual 757500000000B | previous 771700000000B"
-    },
-    {
-      "id": "4868644",
-      "time": "2026-05-08 21:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國內期貨夜盤開盤】多晶矽連續跌4.89%，集運指數歐線期貨連續漲3.72%，尿素連續跌2.09%，鈀連續跌1.86%，生豬連續跌1.54%。"
-    },
-    {
-      "id": "4868643",
-      "time": "2026-05-08 20:59:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "美軍今日對空置油輪實施了更多空襲。"
-    },
-    {
-      "id": "4868642",
-      "time": "2026-05-08 20:59:48",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲資料顯示，5月7日美國有效聯邦基金利率為3.63%，當日成交規模為1190億美元；5月6日有效聯邦基金利率為3.64%，成交規模為1180億美元。"
-    },
-    {
-      "id": "4868641",
-      "time": "2026-05-08 20:59:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "【恆盛能源：實控人之一杜順仙擬減持公司不超3%股份】恆盛能源(605580)5月8日公告，公司實控人之一杜順仙擬透過集中競價和大宗交易方式，減持公司無限售條件流通股不超過840萬股，即不超過公司股份總數的3%。"
-    },
-    {
-      "id": "te:markets:549268",
-      "time": "2026-05-08 20:58:50",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Futures Edge Higher as Ceasefire Holds — Futures tracking the S&P/TSX Composite were higher on Friday as markets assessed the North American labor backdrop and the outlook of energy supply from the Middle East. Although clashes continued and attacks on the UAE renewed tensions near the Strait of Hormuz, the US is still awaiting Iran’s response to its proposal to end the conflict, underpinning oil prices at elevated levels. Still, the unexpected drop in Canadian employment consolidated bets that the BoC will refrain from hiking interest rates this year. On the earnings front, Enbridge and Wheaton Precious Metals both reported results above expectations. Cardinal Energy posted higher first-quarter revenue on record production. Emera’s adjusted EPS also topped forecasts. In contrast, Rogers Sugar reported weaker-than-expected second-quarter revenue."
-    },
-    {
-      "id": "mkt:019e07ab-4ad2-7557-85c5-16df4f61518d",
-      "time": "2026-05-08 20:58:46",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Wall Street (US)",
-        "Macro & Rates",
-        "US Economy",
-        "Nasdaq100",
-        "Impact bullish",
-        "S&P500",
-        "WTI"
-      ],
-      "text": "【MKTNews Morning Bid - US】- U.S. stock futures rose on Friday following a better-than-expected April’s jobs report and as traders eyed developments between the U.S. and Iran. - Bureau of Labor Statistics reported that nonfarm payrolls rose by 115,000 last month, more than the 55,000 that economists polled by Dow Jones were expecting. The U.S. jobless rate also held steady at 4.3%, in line with expectations. - U.S. Central Command said that military forces “intercepted unprovoked Iranian attacks and responded with self-defense strikes” as a trio of U.S. Navy destroyers transited the waterway. - Trump said there was “no damage done to the three Destroyers, but great damage done to the Iranian attackers.” He also reportedly said that the ceasefire is still in effect, saying the strikes against Iranian targets were “just a love tap.” - U.S. Secretary of State Marco Rubio told reporters Friday that the U.S. “should know something today” regarding a response from Iran on the peace proposal. - A senior Iranian official said that the country would not allow the U.S. to reopen the Strait of Hormuz passageway with an “unrealistic plan\" - Upbeat tech earnings have put the Nasdaq on pace to climb 2.8% on the week. The S&P 500 is on track for a rise of 1.5%, while the Dow Jones has lagged with a week-to-date gain of just 0.2% - Asia-Pacific markets mostly traded lower Friday, as concerns grew over renewed hostilities between Iran and the U.S. amid a fragile ceasefire."
-    },
-    {
-      "id": "4868640",
-      "time": "2026-05-08 20:58:31",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【海上絲路指數：本週整體運力供小於需 多數航線運價上漲】本週寧波航運交易所釋出的海上絲綢之路指數之寧波出口集裝箱運價指數(NCFI)報收於1462.6點，較上週上漲7.7%。21條航線中有20條航線運價指數上漲，1條航線運價指數基本持平。“海上絲綢之路”沿線地區主要港口中，13個港口運價指數上漲，1個港口運價指數下跌，2個港口運價指數基本持平。①歐洲航線運價指數為1131.9點，較上週上漲8.3%；地東航線運價指數為1377.4點，較上週上漲24.7%；地西航線運價指數為1817.0點，較上週上漲26.5%。②美東航線運價指數為1390.2點，較上週上漲7.4%；美西航線運價指數為1746.3點，較上週上漲7.8%。③中東航線運價指數為3884.7點，較上週基本持平。"
     }
   ]
 }
