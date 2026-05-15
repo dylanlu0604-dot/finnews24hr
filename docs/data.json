@@ -1,7 +1,175 @@
 {
-  "updated": "2026-05-15 08:59:21",
-  "count": 15207,
+  "updated": "2026-05-15 09:03:45",
+  "count": 15204,
   "items": [
+    {
+      "id": "4880908",
+      "time": "2026-05-15 09:02:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "新加坡航空股價上漲1.9%，報6.39新元。"
+    },
+    {
+      "id": "4880907",
+      "time": "2026-05-15 09:02:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "ALPHABET發行了有史以來規模最大的外國發行人日元債券。"
+    },
+    {
+      "id": "4880906",
+      "time": "2026-05-15 09:01:59",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "鉑連續主力合約日內跌5%，現報506.95元。"
+    },
+    {
+      "id": "4880905",
+      "time": "2026-05-15 09:01:49",
+      "tags": [],
+      "text": "國內期貨主力合約跌多漲少。鈀跌超7％，滬銀跌超5％，鉑跌超4％，碳酸鋰、20號膠、低硫燃料油（LU）跌近3％，滬錫、橡膠、豆二跌超2％，合成橡膠、豆粕、菜粕、棉花、聚氯乙烯（PVC）跌超1％；漲幅方面，對二甲苯（PX）、苯乙烯（EB）漲超1％。"
+    },
+    {
+      "id": "mkt:019e2927-50cb-7bb5-b4d3-95bae1ace7da",
+      "time": "2026-05-15 09:01:42",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "SMI.O",
+        "Impact bullish"
+      ],
+      "text": "SMIC CO-CEO: BOOMING AI DEMAND HAS LED TO SUPPLY SHORTAGE FOR SMIC'S POWER-MANAGEMENT CHIPS"
+    },
+    {
+      "id": "4880904",
+      "time": "2026-05-15 09:01:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "中芯國際聯合執行長趙海軍：由於機器人等人工智慧應用配套晶片需求強勁，中芯國際將持續擴大產能。"
+    },
+    {
+      "id": "mkt:019e2926-e84e-7bb5-b4d3-89bbeb5cb8ac",
+      "time": "2026-05-15 09:01:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TAIWAN'S WEIGHTED INDEX OPENED UP 1.48%"
+    },
+    {
+      "id": "4880903",
+      "time": "2026-05-15 09:00:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣加權股價指數上漲1.1%至42,226.87點。"
+    },
+    {
+      "id": "4880902",
+      "time": "2026-05-15 09:00:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內跌6%，現報20336.00元。"
+    },
+    {
+      "id": "4880901",
+      "time": "2026-05-15 09:00:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣加權股價指數開高0.2%報41,830.42。"
+    },
+    {
+      "id": "4880900",
+      "time": "2026-05-15 09:00:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "碳酸鋰連續主力合約日內跌3%，現報189840.00元。"
+    },
+    {
+      "id": "4880899",
+      "time": "2026-05-15 09:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內跌5%，現報20409.00元。"
+    },
+    {
+      "id": "4880898",
+      "time": "2026-05-15 09:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "鈀連續主力合約日內跌4%，現報350.00元。"
+    },
+    {
+      "id": "4880897",
+      "time": "2026-05-15 09:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "鉑連續主力合約日內跌4%，現報510.30元。"
+    },
+    {
+      "id": "4880896",
+      "time": "2026-05-15 09:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨開盤】白銀連續跌5.58%，鈀連續跌4.80%，鉑連續跌4.23%，20號膠連續跌3.11%，碳酸鋰連續跌2.50%。"
+    },
+    {
+      "id": "4880895",
+      "time": "2026-05-15 09:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨開盤上漲0.02%。"
+    },
+    {
+      "id": "4880894",
+      "time": "2026-05-15 09:00:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "中芯國際聯席CEO：人工智慧需求激增導致中芯國際電源管理晶片供應短缺。"
+    },
+    {
+      "id": "4880893",
+      "time": "2026-05-15 08:59:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "歐元/美元跌至一個月低點，最新報1.1655。"
+    },
+    {
+      "id": "4880892",
+      "time": "2026-05-15 08:59:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣東省人大常委會原委員何寧卡接受審查調查】中央紀委國家監委網站5月15日通報，據廣東省紀委監委訊息：廣東省人大常委會原委員、財經委原副主任委員何寧卡涉嫌嚴重違紀違法，目前正接受廣東省紀委監委紀律審查和監察調查。"
+    },
+    {
+      "id": "4880891",
+      "time": "2026-05-15 08:59:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "【酒價內參5月15日價格釋出：精品茅臺與君品領漲 總價再創半個月新高】新浪財經“酒價內參”過去24小時收集的資料顯示，中國白酒市場主要大單品的終端零售均價在5月15日整體繼續小幅回暖。如果主要單品各取一瓶整體打包售賣，今日總售價為9964元，較昨日上漲3元，連續第二天重新整理近半個月以來最高記錄。市場延續溫和上行態勢，終端交投情緒基本平穩，核心單品漲跌分化依然顯著。今日白酒市場11大單品六漲四跌一平，贏家佔據優勢。上漲方面，精品茅臺與習酒君品的漲幅居前，均上漲4元/瓶，前者創下近一個月最高價紀錄，後者小幅反彈，但仍處於月內次低位；青花郎上漲3元/瓶；國窖1573、洋河夢之藍M6+及五糧液1618均上漲1元/瓶，其中國窖1573收穫七連陽，價格續創一個月來最高紀錄；洋河夢之藍M6+收穫四連漲，平近一月最高價；五糧液1618近十日走勢一直穩定。下跌方面，古井貢古20的跌幅居前，下跌6元/瓶；飛天茅臺下跌3元/瓶；青花汾20與水晶劍南春均下跌1元/瓶，前者創月內低位後繼續下探。五糧液普五八代的價格環比保持不變。"
+    },
     {
       "id": "mkt:019e2922-efbd-7bb5-b4d3-846e97bcfa2f",
       "time": "2026-05-15 08:56:55",
@@ -137015,212 +137183,6 @@
         "MKT News"
       ],
       "text": "ASKED IF HE IS EXPECTED TO HAVE THE QATARI JET READY BY JULY 4TH, TRUMP SAYS: \"YEAH, BY JULY 4TH, YEAH\" - CNN"
-    },
-    {
-      "id": "4867371",
-      "time": "2026-05-08 09:03:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "【港股股票回購一覽：44只個股獲公司回購】Wind資料顯示，5月7日，共44只港股獲公司回購，5只個股回購金額超千萬港元。其中，時代電氣、中遠海控、友邦保險回購金額最大，分別獲公司回購4567.61萬港元、3458.77萬港元、2335.73萬港元。截至5月7日，今年已有190只港股獲公司回購，38只個股年內累計回購金額超億港元。其中，騰訊控股、小米集團-W、友邦保險年內累計回購金額最大，分別獲公司回購101.57億港元、78.12億港元、52.60億港元。"
-    },
-    {
-      "id": "mkt:019e051c-1249-7775-8cbc-06f20d6ea21c",
-      "time": "2026-05-08 09:03:06",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "【China Futures Open Mixed; Silver Up Over 2%】China’s most active futures contracts open mixed, with silver up over 2%, while pulp and No.20 rubber rise over 1%. On the downside, PTA and PX fall over 3%, while palladium, PET, methanol, short fiber, propylene and plastics drop over 2%. Ethylene glycol, polypropylene, platinum, benzene, low-sulfur fuel oil (LU) and cotton yarn decline nearly 2%."
-    },
-    {
-      "id": "4867370",
-      "time": "2026-05-08 09:03:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "芝商所集團：GCC 已知曉策略建立功能出現技術故障，同時存在間歇性延遲問題，影響平臺響應速度，公司正開展聯合排查。"
-    },
-    {
-      "id": "te:markets:548973",
-      "time": "2026-05-08 09:02:52",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Currency",
-        "Importance 2"
-      ],
-      "text": "Dollar Firms Up on Hormuz Clashes — The US dollar index climbed above 98 on Friday, maintaining gains from the previous session as renewed clashes between the US and Iran in the Strait of Hormuz kept geopolitical risk elevated. Three US Navy destroyers transiting the strategic waterway reportedly intercepted Iranian attacks and carried out retaliatory strikes, although President Donald Trump said the ceasefire remains in effect. The Trump administration is still awaiting Iran’s response to a proposal aimed at reopening Hormuz and bringing an end to the nearly 10-week conflict, with reports suggesting Tehran is expected to reply via Pakistan within the next two days. Investors are also focused on the upcoming April jobs report, which is expected to show the US economy added 62K jobs last month, down from 178K in March, while the unemployment rate is projected to remain steady at 4.3%. Despite Friday’s strength, the dollar is on track to end the week broadly unchanged against most major currencies."
-    },
-    {
-      "id": "mkt:019e051b-c8cf-7775-8cbb-f9f4c6ab8b45",
-      "time": "2026-05-08 09:02:47",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "TRUMP SAYS OF HIS TRIP TO CHINA: IT'S GOING TO BE, I THINK, QUITE AMAZING - CNN"
-    },
-    {
-      "id": "mkt:019e051a-d3a8-7775-8cbb-f2ff83f6d071",
-      "time": "2026-05-08 09:01:44",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish",
-        "SSE Composite",
-        "Hang Seng Index"
-      ],
-      "text": "FTSE CHINA A50 INDEX FUTURES DOWN 0.4% AT OPEN"
-    },
-    {
-      "id": "4867369",
-      "time": "2026-05-08 09:01:33",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "市場訊息：美國副總統萬斯警告科技公司執行長們，新型人工智慧模型存在風險。"
-    },
-    {
-      "id": "mkt:019e051a-a5cb-7775-8cbb-eb9a0f07ea99",
-      "time": "2026-05-08 09:01:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CME GROUP: GCC AWARE OF TECHNICAL ISSUES WITH STRATEGY CREATION, INTERMITTENT LATENCY ISSUES AFFECTING PLATFORM RESPONSIVENESS, CO INVESTIGATING"
-    },
-    {
-      "id": "4867368",
-      "time": "2026-05-08 09:01:17",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4710美元/盎司，日內漲0.55%。"
-    },
-    {
-      "id": "4867367",
-      "time": "2026-05-08 09:01:12",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期銀突破80美元/盎司，日內跌0.22%。"
-    },
-    {
-      "id": "4867366",
-      "time": "2026-05-08 09:01:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "【奇瑞控股等成立嘉途汽車公司，註冊資本19.2億元】企查查APP顯示，近日，安徽嘉途汽車有限公司成立，註冊資本19.2億元，經營範圍包含：充電樁銷售；電池製造；積體電路製造等。企查查股權穿透顯示，該公司由奇瑞控股集團有限公司旗下奇瑞商用車（安徽）有限公司等共同持股。"
-    },
-    {
-      "id": "4867365",
-      "time": "2026-05-08 09:01:09",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4720美元/盎司，日內漲0.20%。"
-    },
-    {
-      "id": "4867364",
-      "time": "2026-05-08 09:01:03",
-      "tags": [
-        "觀點",
-        "國際"
-      ],
-      "text": "【中信建投房地產2026年中期投資策略：柳暗花明，三面突圍】中信建投房地產和建築行業首席分析師竺勁研報表示，在中央政策持續支援房地產市場穩定發展，2025年年底以來京滬深廣相繼最佳化樓市調控的背景下，房地產市場正向止跌回穩的目標穩步邁進，2026年年初以來市場在量價兩端都出現了一些積極變化，尤其是以上海為代表的核心城市。參考美國、日本的房地產復甦路徑，分化是主旋律、核心城市是復甦的排頭兵，擁有現金流壓艙石業務是房企穿越週期的秘訣，看好地產板塊內三個細分方向：香港房地產市場的持續上升、商業地產的優質運營、聚焦內地核心城市房企和中介的率先復甦。"
-    },
-    {
-      "id": "4867363",
-      "time": "2026-05-08 09:00:36",
-      "tags": [],
-      "text": "國內期貨主力合約漲跌不一，滬銀漲超2％，紙漿、20號膠漲超1％。跌幅方面，PTA、對二甲苯跌超3％，鈀、瓶片、甲醇、短纖、丙烯、塑膠跌超2％，乙二醇、聚丙烯、鉑、純苯、低硫燃料油（LU）、棉紗跌近2％。"
-    },
-    {
-      "id": "4867362",
-      "time": "2026-05-08 09:00:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "臺灣證交所加權股價指數開低0.1%報41,886.03。"
-    },
-    {
-      "id": "4867361",
-      "time": "2026-05-08 09:00:29",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油失守101美元/桶，日內漲0.94%。"
-    },
-    {
-      "id": "4867360",
-      "time": "2026-05-08 09:00:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【A股輔導備案引關注 崑崙芯港股上市程序正常推進】近日，崑崙芯在北京證監局披露科創板上市輔導備案資訊的訊息引發市場關注。記者從知情人士處獲悉，崑崙芯仍在正常推動港股上市程序。（科創板日報）"
-    },
-    {
-      "id": "4867359",
-      "time": "2026-05-08 09:00:10",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油失守96美元/桶，日內漲1.05%。"
-    },
-    {
-      "id": "4867358",
-      "time": "2026-05-08 09:00:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "PTA連續主力合約日內跌2%，現報6432.00元。"
-    },
-    {
-      "id": "4867357",
-      "time": "2026-05-08 09:00:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時中國A50指數期貨開盤下跌0.44%。"
-    },
-    {
-      "id": "4867356",
-      "time": "2026-05-08 09:00:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "【商品期貨開盤】鈀連續跌2.62%，PTA連續跌2.37%，對二甲苯連續跌2.36%，菜籽連續跌2.16%，白銀連續漲1.96%。"
-    },
-    {
-      "id": "4867355",
-      "time": "2026-05-08 08:59:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【英矽智慧與Google Cloud合作】近日，由生成式人工智慧驅動的臨床階段生物醫藥科技公司英矽智慧（03696.HK）宣佈與Google Cloud合作，旨在加速其藥物發現程序。據英矽智慧介紹，透過此次合作，英矽智慧將結合自有Pharma.AI平臺，利用Google Cloud可擴充套件的計算基礎設施與先進AI能力，提升藥物發現流程的速度與效率。"
-    },
-    {
-      "id": "4867354",
-      "time": "2026-05-08 08:59:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普：希望郵輪疫情已得到控制，明天可能公佈報告】據央視記者當地時間5月7日獲悉，美國總統特朗普表示，希望發生在郵輪上的漢坦病毒疫情“已經得到控制”。特朗普當天表示：“我們希望它已經基本處於控制之下。這是發生在那艘船上的事情，我認為我們明天會發布一份完整報告。”他還稱，目前已有大量人員正在研究相關情況，並表示“應該不會有問題”。（央視新聞）"
     }
   ]
 }
