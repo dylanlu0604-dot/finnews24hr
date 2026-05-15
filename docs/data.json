@@ -1,7 +1,55 @@
 {
-  "updated": "2026-05-15 10:13:17",
-  "count": 15262,
+  "updated": "2026-05-15 10:16:49",
+  "count": 15260,
   "items": [
+    {
+      "id": "4881051",
+      "time": "2026-05-15 10:16:25",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "吉隆坡消防局：馬來西亞央行大樓小型火災已被撲滅。"
+    },
+    {
+      "id": "4881050",
+      "time": "2026-05-15 10:16:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中芯國際趙海軍：AI帶動電源管理等晶片需求 車規模擬BCD平臺需求旺盛】中芯國際聯合CEO趙海軍在業績會上表示，AI熱潮帶動電源管理、資料傳輸等晶片需求提升，同時擠壓NOR Flash等儲存器產能供應鏈，使得公司獨立式快閃記憶體工藝平臺及模擬工藝臺需求旺盛。公司車規工藝覆蓋邏輯、模擬BCD、嵌入式儲存、獨立式視訊記憶體、顯示驅動、影象感測器、功率器件等，經多年打磨逐步放量，尤其是車規模擬BCD平臺需求旺盛、訂單飽滿。(藍鯨新聞)"
+    },
+    {
+      "id": "te:markets:550926",
+      "time": "2026-05-15 10:15:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Asia FX Updates: New Zealand Dollar Depreciates by 0.81% — Top currency losers are New Zealand Dollar (-0.81%), Indonesian Rupiah (-0.55%), South Korean Won (-0.51%), Chinese Yuan (-0.19%) and Japanese Yen (-0.09%)."
+    },
+    {
+      "id": "te:markets:550924",
+      "time": "2026-05-15 10:14:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "China Stocks on Two-Day Slide — The Shanghai Composite fell 0.9% to 4,140 on Friday, while the Shenzhen Component dropped 1.1% to 15,565, extending losses from the previous session as market sentiment remained fragile amid the Trump–Xi meeting. President Xi Jinping warned that Taiwan could become a flashpoint for clashes between the US and China, calling the situation “highly dangerous.” He also reiterated strong opposition to US arms sales to Taiwan and Taiwanese independence. Despite the firm remarks, US Trade Representative Jamieson Greer said both sides appeared open to extending the current trade truce. Moreover, the White House said both sides discussed boosting Chinese imports of US farm products and oil, and indicated alignment on keeping the Strait of Hormuz open. Notable laggards included Zijin Mining Group (-1.6%), Cambricon Technologies (-2%), BYD (-0.7%), and Wuliangye Yibin (-1.1%). Over the week, the Shanghai Composite is on track for a weekly decline, while the Shenzhen Component is set to post gains."
+    },
+    {
+      "id": "4881049",
+      "time": "2026-05-15 10:14:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "亞洲早盤時段銅價下跌，倫敦金屬交易所三個月期銅合約下跌1.6%，報每噸13,721美元，結束了連續八天的漲勢。澳新銀行研究部分析師在一份報告中表示，此番下跌正值高企的價格抑制了購買，加工商發現本月銅杆訂單減弱。"
+    },
     {
       "id": "mkt:019e2968-ad14-7bb5-b4d5-1ac63396c7ac",
       "time": "2026-05-15 10:13:06",
@@ -137716,68 +137764,6 @@
         "市場"
       ],
       "text": "機器人概念股反覆活躍，五洲新春觸及漲停，巨輪智慧此前封板，喬鋒智慧漲超10%，祥鑫科技、綠的諧波、飛龍股份漲幅居前。"
-    },
-    {
-      "id": "4867490",
-      "time": "2026-05-08 10:16:45",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "富時中國A50指數期貨盤中跌超1%。"
-    },
-    {
-      "id": "4867489",
-      "time": "2026-05-08 10:16:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "菲律賓總統馬科斯：我們與會的核心議題是保障能源安全、穩固糧食安全，以及維護東盟成員國公民的安全。"
-    },
-    {
-      "id": "4867488",
-      "time": "2026-05-08 10:16:07",
-      "tags": [
-        "市場"
-      ],
-      "text": "臺灣加權股價指數下跌1.1%至41,487.99點。"
-    },
-    {
-      "id": "4867487",
-      "time": "2026-05-08 10:15:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【王鳳英入職小鵬3年獲股權】據鞭牛士訊息，王鳳英的名字出現在了小鵬汽車的股東名冊上。這位2023年加入小鵬的汽車行業老將，在任職三年後正式獲得公司股權。 據小鵬汽車今年3月披露的監管檔案，王鳳英直接持有105萬股A類普通股，外加120萬股尚未歸屬的限制性股票。若全部歸屬，其持股總數將達165萬股，約佔公司總股本的0.1%。據悉，該股權早在王鳳英入職僅兩個月時便已獲批，但直至三年後才完成歸屬。 與此形成對比的是，王鳳英在老東家長城汽車任職近31年，卻從未持有過公司股份。公開資料顯示，2021年，其年薪為551.41萬元，而個人持股一欄顯示為零。儘管2019年長城曾擬向近兩千名員工授予股權激勵，王鳳英亦在授出名單中，但該草案遭股東大會否決。直至2022年6月，距其離職不到一個月，她才自費增持247.5萬股長城股份。"
-    },
-    {
-      "id": "mkt:019e055e-206e-7775-8cbc-d145706bd423",
-      "time": "2026-05-08 10:15:15",
-      "tags": [
-        "MKT News",
-        "9992.HK",
-        "Impact bearish"
-      ],
-      "text": "【Pop Mart Faces Earnings Pressure as Demand Softens and Inventory Builds: Deutsche Bank】Pop Mart’s earnings may come under pressure in 2026 amid weakening demand for its collectible IPs in China and slowing overseas sales, Deutsche Bank’s Sammi Xu says. She points to softer secondary-market prices for recently launched The Monsters and Twinkle Twinkle toys. Rising inventory levels also suggest risks of overstocking and potential clearance pressure for the company behind the Labubu franchise, Xu notes. Deutsche Bank forecasts 2026 adjusted net profit at CNY11.5 billion, 24% below consensus, and maintains a sell rating while cutting its price target to HK$140 from HK$157."
-    },
-    {
-      "id": "te:markets:548990",
-      "time": "2026-05-08 10:15:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Asia FX Updates: South Korean Won Drops by 0.35% — Top currency loser is South Korean Won (-0.35%). Gains are led by Chinese Yuan (0.06%). Meanwhile Japanese Yen was little changed."
-    },
-    {
-      "id": "4867486",
-      "time": "2026-05-08 10:14:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "菲律賓總統馬科斯：在中東危機中，我們的指導立場是立即停止敵對行動、和平解決爭端、保護平民以及霍爾木茲海峽安全通航，這是我們的集體立場。"
     }
   ]
 }
