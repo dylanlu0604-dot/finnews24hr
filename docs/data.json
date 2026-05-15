@@ -1,7 +1,65 @@
 {
-  "updated": "2026-05-15 09:41:40",
+  "updated": "2026-05-15 09:45:11",
   "count": 15250,
   "items": [
+    {
+      "id": "4880993",
+      "time": "2026-05-15 09:44:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【華為Mate X7直降1000元】5月15日，據華為終端訊息，摺疊屏旗艦華為Mate X7開啟降價，全系直降1000元，優惠後11999元起，並推出至高12期分期免息。"
+    },
+    {
+      "id": "te:economy:550908",
+      "time": "2026-05-15 09:44:27",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "China 10Y Yield Falls to 2-Week Low — China’s 10-year government bond yield fell to 1.75% on Friday, reversing the previous session’s gains and hitting its lowest level in more than two weeks, supported by cautious optimism surrounding the high-stakes Trump–Xi meeting. President Xi warned that Taiwan could become a flashpoint for “clashes” between the world’s two largest countries, describing the situation as “highly dangerous,” while reiterating Beijing’s opposition to US arms sales to Taiwan and support for Taiwanese independence. Despite the firm tone, the White House said both sides discussed expanding Chinese purchases of US agricultural products and oil, and agreed that the Strait of Hormuz should remain open. Most importantly, US Trade Representative Jamieson Greer said that both countries appeared willing to extend the current trade truce if negotiations continue to make headway. As the meeting entered its second day, traders remained cautiously optimistic about the prospects for further progress."
+    },
+    {
+      "id": "4880992",
+      "time": "2026-05-15 09:43:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中芯國際趙海軍：公司高度重視市值管理工作】在今日的一季報業績說明會上，中芯國際聯合CEO趙海軍表示，當前全球宏觀環境仍面臨諸多不確定性，對供應鏈成本、穩定性、市場預期等帶來持續挑戰。延續這些年的經驗積累，公司會持續強化供應鏈韌性管理，多渠道採購，盡最大努力降低影響。公司將緊密跟蹤客戶需求，靈活調配資源，加快產品響應速度，確保在複雜環境中依然能保持高質量的交付。同時，公司高度重視市值管理工作，於2025年一季度制定了《市值管理制度》並相應執行。過去一年，公司持續聚焦主業，經營業績再上新臺階；持續推動技術攻關，協同產業鏈共同發展；持續建強人才隊伍，全面推動綠色可持續發展；深化投資者與公司的雙向溝通，透過線上線下多種方式積極向資本市場傳遞公司價值。"
+    },
+    {
+      "id": "4880991",
+      "time": "2026-05-15 09:43:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【陪審團裁定：埃克森美孚無需就加拿大油砂和天然氣資產向投資者承擔責任】得克薩斯州一個陪審團週三裁定，埃克森美孚公司無需就其透過與加拿大油砂及落基山脈天然氣業務相關的資訊披露欺詐投資者一事承擔責任。 這起2016年的訴訟指控埃克森美孚隱瞞了其加拿大瀝青業務正在虧損的事實，未將碳成本假設恰當地納入儲量估值，並延遲確認與落基山脈幹氣資產相關的減值準備。 根據達拉斯聯邦法院提交的陪審團裁決書，在2016年2月24日至2016年10月28日期間購入埃克森美孚普通股的投資者未能證明該公司曾誤導他們。投資者稱，由於該公司隱瞞了關於儲量估值和會計實務的重要資訊，導致他們以人為抬高的價格購入了埃克森美孚的股票。"
+    },
+    {
+      "id": "4880990",
+      "time": "2026-05-15 09:41:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【萬華化學等在煙臺成立新材料科技公司】企查查APP顯示，近日，萬迪新材料科技（煙臺）有限公司成立，經營範圍包含：新材料技術推廣服務；化工產品銷售（不含許可類化工產品）；技術服務、技術開發、技術諮詢、技術交流、技術轉讓、技術推廣。企查查股權穿透顯示，該公司由萬華化學等共同持股。"
+    },
+    {
+      "id": "mkt:019e294b-f775-7bb5-b4d4-881cff344145",
+      "time": "2026-05-15 09:41:44",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "OIL PRICES RISE MORE THAN $1/BBL AFTER TRUMP SAYS CHINA WANTS TO BUY US OIL"
+    },
     {
       "id": "4880989",
       "time": "2026-05-15 09:40:52",
@@ -137577,61 +137635,6 @@
         "原創"
       ],
       "text": "【獨家|小米汽車加碼出海】新浪科技獨家獲悉，小米汽車近日迎來人事調整，汽車部副總裁於立國兼任海外業務籌備組組長。 資料顯示，於立國曾擔任北汽極狐事業部總裁。加入小米汽車後，2022年1月，於立國先是擔任小米汽車副總裁兼小米汽車北京總部政委，負責統籌小米汽車綜合管理工作、專項業務推進以及小米汽車北京總部組織和人才建設；同年8月，於立國兼任小米汽車產品部總經理，負責小米汽車產品定義和產品線的管理工作；2025年，於立國分管智慧製造部、工廠、體系運營部。 此次，於立國兼任海外業務籌備組組長後，將向集團CEO、汽車部總裁雷軍和集團總裁盧偉冰雙線彙報。 目前，小米汽車正在加速出海佈局，根據小米集團合夥人兼總裁盧偉冰在小米投資者日上公佈的資訊，小米汽車預計將在2027年下半年正式開啟全球化程序，首站選定歐洲市場，隨後在2028年上半年進入右舵車市場。（新浪科技）"
-    },
-    {
-      "id": "4867434",
-      "time": "2026-05-08 09:44:44",
-      "tags": [
-        "市場"
-      ],
-      "text": "A股創業板指拉昇翻紅，開盤一度跌超1%。"
-    },
-    {
-      "id": "4867433",
-      "time": "2026-05-08 09:44:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "【港股半導體板塊盤初走低，天數智芯跌超7%】港股半導體板塊盤初走低，天數智芯跌超7%，兆易創新、ASMPT、瀾起科技跌超5%，華虹半導體、中芯國際跟跌。"
-    },
-    {
-      "id": "4867432",
-      "time": "2026-05-08 09:44:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "港股泡泡瑪特漲超7%，報174.2港元。"
-    },
-    {
-      "id": "4867431",
-      "time": "2026-05-08 09:43:55",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【房地產板塊表現活躍 三湘印象3天2板】房地產板塊表現活躍， 三湘印象3天2板，寧波富達、京投發展雙雙漲停，濱江集團、城投控股、光明地產、招商蛇口、我愛我家、世聯行跟漲。"
-    },
-    {
-      "id": "mkt:019e0540-4a99-7775-8cbc-61abe8173229",
-      "time": "2026-05-08 09:42:39",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "SZSE Component"
-      ],
-      "text": "TURNOVER ON SSE AND SZSE EXCEEDED 500 BILLION YUAN, DOWN 21 BILLION YUAN FROM SAME TIME PREVIOUS SESSION"
-    },
-    {
-      "id": "mkt:019e0540-09a8-7775-8cbc-580553b740e4",
-      "time": "2026-05-08 09:42:23",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【White House Weighs AI Oversight After Concerns Over Anthropic’s Mythos Model】Vice President JD Vance raised concerns in a call with major AI company leaders, including OpenAI’s Sam Altman, Anthropic’s Dario Amodei, Elon Musk, Sundar Pichai and Satya Nadella, that advanced AI models such as Anthropic’s Mythos could autonomously identify software vulnerabilities and potentially enable cyberattacks on critical infrastructure like banks, hospitals and water systems. According to people familiar with the discussion, Vance urged coordination among companies and the government, while the White House is considering an executive order to create formal oversight for frontier AI models and has asked Anthropic to delay broader deployment of Mythos. National Cyber Director Sean Cairncross is leading the response effort, though the approach has reportedly triggered internal debate over whether it represents an overreaction or a policy shift."
     }
   ]
 }
