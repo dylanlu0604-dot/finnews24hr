@@ -1,7 +1,24 @@
 {
-  "updated": "2026-05-15 08:42:26",
-  "count": 15213,
+  "updated": "2026-05-15 08:45:48",
+  "count": 15208,
   "items": [
+    {
+      "id": "4880875",
+      "time": "2026-05-15 08:43:50",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀失守82美元/盎司，日內跌1.80%。"
+    },
+    {
+      "id": "4880874",
+      "time": "2026-05-15 08:42:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "片山：不對具體的收益率水平置評。"
+    },
     {
       "id": "4880873",
       "time": "2026-05-15 08:41:44",
@@ -137234,77 +137251,6 @@
         "公司"
       ],
       "text": "【劉小濤會見新加坡豐益國際集團董事長郭孔豐】據新華日報，5月7日，江蘇省省長劉小濤在南京會見新加坡豐益國際集團董事長兼總裁郭孔豐。劉小濤說，期待豐益國際集團發揮鏈主企業引領作用，進一步拓展全產業鏈投資佈局，加強油脂科技、食品深加工、大健康等高附加值板塊合作，促進更多上下游企業集聚。我們將持續最佳化營商環境，以更優服務、更實舉措支援企業增資擴產、創新發展。郭孔豐表示，企業將進一步對接江蘇發展需求、深化務實合作，落地更多大專案好專案，不斷提升產業鏈價值鏈能級，實現高水平互利共贏。"
-    },
-    {
-      "id": "mkt:019e050b-ff07-7775-8cbb-bddb2bb3700b",
-      "time": "2026-05-08 08:45:32",
-      "tags": [
-        "MKT News",
-        "Hot",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "The Trump Trade",
-        "Magnificent 7",
-        "Policy",
-        "Chinese Policy & Markets"
-      ],
-      "text": "【Nvidia CEO Huang Says He Would Join Trump’s China Trip if Invited】Nvidia CEO Jensen Huang said he would “gladly” join President Donald Trump on an upcoming visit to China if invited, calling it “a great honor to represent the United States.” Huang’s comments came after reports that the White House was considering inviting him and other technology executives to accompany Trump for talks with Chinese President Xi Jinping. Blackstone CEO Steve Schwarzman and Citigroup CEO Jane Fraser are already expected to attend the summit. The meeting is set to proceed despite concerns among Chinese officials about holding high-level talks before the Iran conflict is resolved."
-    },
-    {
-      "id": "4867338",
-      "time": "2026-05-08 08:45:13",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【中信證券：預計二季度開始白酒公司業績表現有望出現改善】中信證券研報指出，2025年，受到相關政策收緊緻使商務需求銳減和消費內需疲軟的影響，白酒行業整體需求和動銷顯著承壓，頭部酒企從2025年二季度開始主動加大調整力度，加速出清。2026年以來，白酒行業整體動銷同比降幅已有一定程度收窄，若未來需求逐步企穩，考慮到2025年的基數效應，預計2026年二季度開始白酒公司業績表現有望出現一定程度改善。雖然內需復甦的時間和節奏難以預測，但長期向好趨勢明確，考慮到目前白酒行業底部已至，且頭部白酒公司透過提高分紅率、回購、增持等不斷提升股東回報，提供較好的投資安全邊際支撐，延續對頭部名酒企業的配置建議。"
-    },
-    {
-      "id": "4867337",
-      "time": "2026-05-08 08:45:06",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信證券：電子行業景氣持續向上，堅定看好四大方向】中信證券研報指出，覆盤26Q1，需求角度，AI資料中心相關需求保持高速增長，汽車存在補庫需求，消費電子需求受到一定影響，其他工業等toB下游持續復甦。26Q1業績表現強勢的板塊主要為：1）漲價邏輯持續蔓延，儲存、覆銅板等持續釋放業績彈性；2）AI算力相關板塊繼續保持強勢增長；3）國產替代角度，本土算力突圍趨勢明確、份額持續提升，設計、製造、裝置等環節業績加速釋放。綜合來看，表現相對亮眼的細分板塊有：算力相關PCB、國產算力晶片龍頭、存力/運力晶片龍頭、裝置龍頭等。"
-    },
-    {
-      "id": "mkt:019e050a-ab7f-7775-8cbb-b5ff0d887383",
-      "time": "2026-05-08 08:44:05",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "【Trump Says No Need to Restrict U.S. Energy Exports Despite Hormuz Disruptions】President Donald Trump said there is no need to impose restrictions on U.S. oil or jet fuel exports despite global supply shortages caused by disruptions in the Strait of Hormuz. Speaking in Washington, Trump said the U.S. has “tremendous amounts of oil” and praised the surge in exports that has made the country the world’s largest crude exporter ahead of Saudi Arabia. Analysts have warned that elevated export levels could strain domestic supply capacity, but Trump dismissed those concerns and said ships are increasingly loading crude from ports in Texas, Louisiana and Alaska as trade routes shift away from Hormuz."
-    },
-    {
-      "id": "4867336",
-      "time": "2026-05-08 08:43:44",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信證券：建議聚焦航空降碳、航海降碳、再生材料三大主線，佈局技術與產能領先的綠色產業龍頭企業】中信證券研報指出，中國雙碳政策加力驅動下，綠色燃料產業迎來戰略發展機遇期。綠色燃料錨定難電氣化領域降碳剛需，遠期有望佔據液體燃料半壁江山。多元減碳技術持續突破，為產業規模化與低成本化提供堅實支撐。可持續航空燃料（SAF）依託全球政策強制摻混，成為航空降碳最確定主線。航運減排需求爆發，綠色甲醇與生物船燃快速放量。再生材料迴圈利用高值化推進，三大細分賽道成長空間廣闊。建議聚焦航空降碳、航海降碳、再生材料三大主線，佈局技術與產能領先的綠色產業龍頭企業。"
-    },
-    {
-      "id": "4867335",
-      "time": "2026-05-08 08:42:54",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【中信證券：4月科技板塊強勢修復 堅守科技景氣四條主線】中信證券研報指出，4月科技板塊強勢修復，硬體端顯著跑贏軟體端，AI算力鏈景氣度領先。展望5—6月，模型進入周級迭代新階段，預計年中將迎各主要模型公司大版本更新，商業化加速進入正迴圈。景氣不止、行情不止，建議堅守科技景氣四條主線：1）即將進入版本迭代視窗、ARR仍在快速提升的國產大模型公司；2）受益於國產兩存與先進製程持續擴產、國產化率持續提升的半導體裝置公司；3）光通訊具備物料保供能力的業績高確定性龍頭，與上游供應緊張、具備漲價預期的光晶片公司；4）AI敞口逐步提升的算力鏈上游，如MLCC、模擬、電子布、CCL等環節。同時提示自動駕駛與人形機器人低位彈性方向，靜待更多催化。"
-    },
-    {
-      "id": "mkt:019e0509-3e79-7775-8cbb-aad4e6dca0e0",
-      "time": "2026-05-08 08:42:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Trump Says Hantavirus Cruise Ship Outbreak Appears ‘Under Control’】President Donald Trump said the administration believes a hantavirus outbreak linked to a cruise ship in the Atlantic Ocean is “very much, we hope, under control,” adding that a full report on the incident would be released Friday. The outbreak has killed three people and seriously sickened several others, prompting a World Health Organization alert as authorities investigate how the rare rodent-borne virus spread aboard the vessel carrying about 150 passengers, which is now heading to Spain’s Canary Islands. Trump said officials were “doing the best we can” and expressed hope the virus would not spread further."
     }
   ]
 }
