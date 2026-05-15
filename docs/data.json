@@ -1,7 +1,32 @@
 {
-  "updated": "2026-05-16 04:22:52",
-  "count": 15527,
+  "updated": "2026-05-16 04:26:21",
+  "count": 15528,
   "items": [
+    {
+      "id": "4882933",
+      "time": "2026-05-16 04:25:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "伯克希爾・哈撒韋：持倉變動資料截至 2026 年 3 月 31 日，對比基準為 2025 年 12 月 31 日結束的上一財季。"
+    },
+    {
+      "id": "4882930",
+      "time": "2026-05-16 04:24:24",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "達美航空美股盤後上漲3%，伯克希爾哈撒韋增持公司股票。"
+    },
+    {
+      "id": "4882927",
+      "time": "2026-05-16 04:23:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "貝萊德股價盤後下跌2.4%。"
+    },
     {
       "id": "4882926",
       "time": "2026-05-16 04:22:36",
@@ -139943,26 +139968,6 @@
         "Importance 2"
       ],
       "text": "WTI Books Weekly Loss — WTI crude oil futures were little changed at $95 per barrel on Friday as renewed clashes between the US and Iran raised doubts about the durability of a fragile ceasefire and tempered hopes for a quick peace agreement, though prices still posted a weekly loss of about 7%. Fighting in the Persian Gulf kept markets focused on the Strait of Hormuz, which has remained largely closed since late February, disrupting global crude flows and creating a major supply shock. Iran accused the US of violating the ceasefire, while Washington said American forces struck Iranian military targets after attacks on US warships and blocked tankers attempting to leave Iranian ports. President Donald Trump said the ceasefire remained in effect despite the exchanges. Traders continue balancing expectations for diplomacy against the risk of further escalation."
-    },
-    {
-      "id": "4869233",
-      "time": "2026-05-09 04:25:52",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "花旗集團將迪士尼的目標股價從每股135.00美元上調至每股145.00美元。"
-    },
-    {
-      "id": "te:markets:549344",
-      "time": "2026-05-09 04:24:29",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Oil Edges Higher on Friday, Posts Weekly Loss — Brent crude oil rose 1.2% to settle near $101 per barrel on Friday as renewed clashes between the US and Iran raised doubts about the durability of a fragile ceasefire and tempered hopes for a quick peace agreement, though prices still posted a weekly loss of about 6%. Fighting in the Persian Gulf kept markets focused on the Strait of Hormuz, which has remained largely closed since late February, disrupting global crude flows and creating a major supply shock. Iran accused the US of violating the ceasefire, while Washington said American forces struck Iranian military targets after attacks on US warships and blocked tankers attempting to leave Iranian ports. President Donald Trump said the ceasefire remained in effect despite the exchanges. Traders continue balancing expectations for diplomacy against the risk of further escalation."
     }
   ]
 }
