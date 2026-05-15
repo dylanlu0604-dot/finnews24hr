@@ -1,7 +1,700 @@
 {
-  "updated": "2026-05-15 22:48:53",
-  "count": 15509,
+  "updated": "2026-05-15 23:27:13",
+  "count": 15514,
   "items": [
+    {
+      "id": "te:economy:551244",
+      "time": "2026-05-15 23:25:33",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Colombia",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "Colombia Industrial Output Rises in March — Industrial production in Colombia rose 3.9% year-on-year in March 2026, up from 1.4% in February and well above market expectations of a 1.8% gain. Marking the highest level in 6 months, the expansion was driven by gains in beverage manufacturing (16.7%), pharmaceutical products, medicinal chemicals manufacturing (17.1%), petroleum refining, and fuel blending (6.9%), food processing (10.5%) and transport equipment (32.9%). In contrast, production declined for manufacture of paper, cardboard, and their products (-7.3%), manufacture of basic chemicals and their products (-9.1%) and spinning, weaving, and finishing of textiles (-15%). Meanwhile, retail sales increased 3.8% while industrial employment declined 0.6%."
+    },
+    {
+      "id": "4882609",
+      "time": "2026-05-15 23:25:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "阿聯酋嚴詞駁斥伊朗在金磚國家會議期間針對阿聯酋發起襲擊所提出的各項指責與辯解。"
+    },
+    {
+      "id": "4882608",
+      "time": "2026-05-15 23:24:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "受美伊衝突再度升級的擔憂情緒影響，油價每桶上漲超3美元。"
+    },
+    {
+      "id": "mkt:019e2c3c-7ee2-7663-82f9-b934065b70a0",
+      "time": "2026-05-15 23:23:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UAE CATEGORICALLY REJECTS IRAN'S ALLEGATIONS AND ATTEMPTS TO JUSTIFY IRANIAN ATTACKS THAT TARGETED UAE DURING BRICS MEETING -STATEMENT"
+    },
+    {
+      "id": "mkt:019e2c3c-7211-7663-82f9-b3cad149912d",
+      "time": "2026-05-15 23:23:39",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "UAE SAYS IT RESERVES FULL SOVEREIGN, LEGAL, DIPLOMATIC AND MILITARY RIGHTS TO RESPOND TO ANY IRANIAN THREAT OR HOSTILE ACT -STATEMENT"
+    },
+    {
+      "id": "mkt:019e2c3c-55e6-7663-82f9-a8b3df2d695c",
+      "time": "2026-05-15 23:23:32",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "OIL PRICES RISE MORE THAN $3/BBL ON FEARS OF RENEWED US-IRAN COMBAT"
+    },
+    {
+      "id": "mkt:019e2c3c-1e95-7663-82f9-a5609544a800",
+      "time": "2026-05-15 23:23:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "LEBANESE SOURCE TO SKY NEWS ARABIA: WE ARE NOT CONFIDENT THAT ISRAEL WILL ADHERE TO THE CEASEFIRE CLAUSE A LEBANESE SOURCE FOR SKY NEWS ARABIA: THERE ARE DRAFTS THAT ARE BEING PROPOSED, STUDIED, AND REQUIRE AMENDMENTS"
+    },
+    {
+      "id": "4882607",
+      "time": "2026-05-15 23:22:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【內江—河口—老街國際聯運班列實現常態化執行】5月15日，內江—河口—老街國際聯運班列接車儀式在雲南河口舉行。一輛滿載貨物的跨境聯運車輛從河口口岸出境，駛向越南老街，標誌著這條聯通川渝、雲南與越南的國際公鐵聯運新通道正式進入常態化執行。 5月9日，搭載500噸貨物的19個集裝箱從四川內江發出，經國際聯運班列運輸，於5月14日凌晨抵達河口。貨物在當地完成換裝後，透過公路“背箱”方式直達越南市場，全程實現一箱到底、全程聯運、高效通關。 中越邊境河口口岸是雲南面向南亞東南亞開放的重要門戶，具備公路、鐵路雙通口岸優勢，是連線中國西南與越南及東盟市場的關鍵物流樞紐。此次班列常態化執行，是河口依託區位優勢，推進中越跨境物流提質增效的務實舉措。 據瞭解，相較於傳統跨境運輸，“一箱到底”模式實現一次裝箱、原箱跨境，省去中途倒裝、換箱環節，有效壓縮中轉時間、提升通關運輸效率，同時降低貨損風險與企業綜合物流成本。 河口福聚盛商貿有限公司負責人表示，新模式省去多次倒裝流程，運輸時間大幅縮短、物流成本明顯下降，企業跨境出貨更便捷高效。（新華社）"
+    },
+    {
+      "id": "4882606",
+      "time": "2026-05-15 23:22:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "阿聯酋：阿聯酋保留透過主權、法律、外交及軍事層面的全部權利，對伊朗的任何威脅或敵對行為作出回應。"
+    },
+    {
+      "id": "4882605",
+      "time": "2026-05-15 23:21:49",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲委員會終止對瑞銀和瑞士信貸於2023年與Archegos交易相關的執法行動。"
+    },
+    {
+      "id": "4882604",
+      "time": "2026-05-15 23:21:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "阿聯酋宣告：阿聯酋斷然拒絕伊朗在金磚國家領導人會晤期間針對阿聯酋的指控，以及伊朗為其襲擊阿聯酋的行為所作的辯解。"
+    },
+    {
+      "id": "4882603",
+      "time": "2026-05-15 23:21:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍：此前以色列北部多地拉響敵方飛行器入侵警報後，以方已發射攔截彈，打擊多架從黎巴嫩境內飛向以領土的敵方飛行器。其中一架已被成功攔截，其餘數架依既定規制墜落於空曠地帶。"
+    },
+    {
+      "id": "4882602",
+      "time": "2026-05-15 23:19:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【《中國釩鈦產業發展報告（2026）》在蓉釋出】5月15日下午，《中國釩鈦產業發展報告（2026）》在成都發布。報告顯示，2025年中國釩製品產量佔全球72.39%，儲能領域釩消費佔比達20%。儘管市場規模將超預期增長，但業內提醒行業“春天”未至，產業面臨資源利用、供需失衡等挑戰，聯盟呼籲全行業“有序投資、理性發展”。（21財經）"
+    },
+    {
+      "id": "te:economy:551243",
+      "time": "2026-05-15 23:18:26",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Colombia",
+        "Retail Sales YoY",
+        "Importance 1"
+      ],
+      "text": "Colombia Retail Sales Growth Accelerates in March — Retail sales in Colombia rose 13.4% year-on-year in March 2026, beating forecasts of 10.1% and accelerating from a 10.9% increase in February. Growth was broad-based, with all 19 retail categories posting gains. The strongest contributions came from motor vehicles and motorcycles mainly for household use (35.8%), other motor vehicles and motorcycles (34.8%), and computer and telecommunications equipment for personal or household use (26.8%). Excluding fuel sales, real retail sales advanced 15.6%. Employment in the retail sector also increased 1.9% from a year earlier. In the first quarter of 2026, retail sales rose 10.8% compared with the same period in 2025."
+    },
+    {
+      "id": "mkt:019e2c37-d3a3-7663-82f9-9fdd53884ac3",
+      "time": "2026-05-15 23:18:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "BMY.N"
+      ],
+      "text": "BRISTOL MYERS SQUIBB PARTNERS WITH CHINA TO CREATE NEW MEDICINES IN LATEST INTERNATIONAL COOPERATION"
+    },
+    {
+      "id": "mkt:019e2c37-40b5-7663-82f9-9212c891d90e",
+      "time": "2026-05-15 23:17:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CHINA HOPES U.S. WILL TAKE CONCRETE ACTIONS TO SAFEGUARD PEACE, STABILITY ACROSS TAIWAN STRAIT, TOP DIPLOMAT SAYS - XINHUA"
+    },
+    {
+      "id": "4882601",
+      "time": "2026-05-15 23:17:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "【本輪以黎衝突已造成黎巴嫩2951人死亡】當地時間15日，黎巴嫩衛生部報告稱，以色列當天對黎巴嫩南部地區多個地點的襲擊造成37人受傷。報告稱，自3月2日以色列發動襲擊以來，造成的死亡人數已達2951人，另有8988人受傷。（央視新聞）"
+    },
+    {
+      "id": "4882600",
+      "time": "2026-05-15 23:16:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國共和黨議員Moore稱第三項鉅額法案或推遲至中期選舉後推進。"
+    },
+    {
+      "id": "mkt:019e2c35-d024-7663-82f9-8e0b605698af",
+      "time": "2026-05-15 23:16:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "GOP'S MOORE SAYS THIRD MEGABILL COULD SLIP PAST MIDTERMS: BGOV"
+    },
+    {
+      "id": "4882599",
+      "time": "2026-05-15 23:15:53",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國務院研究人口發展有關工作】5月15日召開的國務院常務會議研究人口發展有關工作。會議指出，要適應人口發展面臨的新形勢，著力提高人口整體素質，努力保持適度生育水平和人口規模，持續積累和釋放人力資源紅利，推動人口高質量發展。人口問題是“國之大者”。當前，我國人口發展呈現少子化、老齡化、區域人口增減分化的趨勢性特徵。專家認為，此次國務院常務會議圍繞人口發展作出系列部署，既立足當前解決群眾急難愁盼問題，又著眼長遠推動人口高質量發展，明確了下一階段人口發展有關工作的具體方向。會議指出，要加快建設生育友好型社會，加強生育服務保障，完善嬰幼兒照護服務，健全家庭綜合支援政策體系。中國人口與發展研究中心主任賀丹表示，生育友好型社會建設需要從經濟、時間、服務、文化等方面綜合發力。當前，全國31個省份和新疆生產建設兵團均已將符合條件的輔助生殖專案納入醫保，普惠托育服務覆蓋面持續擴大，育兒補貼制度有序實施，產假、育兒假等政策落地落實，各方面的政策還在持續加力，未來家庭生育、養育、教育負擔將會進一步減輕。2025年年底，我國60歲及以上人口已突破3.2億。業內人士認為，發展養老事業和養老產業是積極應對人口老齡化的關鍵舉措，更是“十五五”時期我國養老服務實現提質增效的必然要求。會議指出，要積極應對人口老齡化，加強老年人社會保障，推動養老服務提質增效，大力發展銀髮經濟。在中國人民大學人口與健康學院院長杜鵬看來，會議這一議題強調了深入實施積極應對人口老齡化國家戰略的具體落地措施，意味著我國將築牢養老保障底線，強化老年人社會保障體系建設，切實兜住老年群體基本生活與養老保障。杜鵬同時表示，“推動養老服務提質增效”有助於提升養老服務質量，實現養老服務“從有到優”的轉變，完善養老服務體系，提高養老服務可及性與滿意度；“大力發展銀髮經濟”旨在將老齡資源轉化為發展動能，實現養老事業與養老產業協同發展。（新華社）"
+    },
+    {
+      "id": "4882598",
+      "time": "2026-05-15 23:15:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特表示，美國目前每月從委內瑞拉石油出口中收取約20億至30億美元，正將這筆收入轉作委內瑞拉政府的支出款項。"
+    },
+    {
+      "id": "4882597",
+      "time": "2026-05-15 23:15:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "加拿大官方：該國將修訂與洛克希德·馬丁現有保養與升級合同，將向該公司追加支付11.4億美元。"
+    },
+    {
+      "id": "4882596",
+      "time": "2026-05-15 23:14:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "哥倫比亞政府：一季度經濟較 2025 年四季度環比增長 0.6%。"
+    },
+    {
+      "id": "4882595",
+      "time": "2026-05-15 23:11:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【世衛組織：已確認10例漢坦病毒感染病例】當地時間5月15日，世界衛生組織表示，截至目前，已確認10例漢坦病毒感染病例，其中3人死亡。世衛組織總幹事譚德塞表示，未來可能確認更多的病例，但這並不意味著疫情範圍擴大。他表示，目前工作尚未結束，要進一步研究起因和傳播過程。（央視新聞）"
+    },
+    {
+      "id": "4882594",
+      "time": "2026-05-15 23:10:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴拿馬運河管理局：由於運河完全依賴淡水執行，早在2025年就為下一次厄爾尼諾提前採取了節水措施。加通湖（Gatun）水庫的水位一直保持在歷史高位。自5月初雨季開始以來，他們一直在密切監測天氣預測，以幫助制定明年的應對計劃。"
+    },
+    {
+      "id": "4882593",
+      "time": "2026-05-15 23:10:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "蘋果股價上漲1.08%，報301.430美元/股，股價創歷史新高，總市值報4.43萬億美元。"
+    },
+    {
+      "id": "4882592",
+      "time": "2026-05-15 23:09:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "政府公佈資料顯示，哥倫比亞第四季度經濟同比增長2.2%，符合市場預期。"
+    },
+    {
+      "id": "4882591",
+      "time": "2026-05-15 23:09:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家氣象局表示，厄爾尼諾現象很可能在5-7月間出現，並將在2026年底至2027年初期間持續影響北半球。"
+    },
+    {
+      "id": "4882590",
+      "time": "2026-05-15 23:09:24",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國7年期國債收益率當日上漲10個基點至4.41%。"
+    },
+    {
+      "id": "4882589",
+      "time": "2026-05-15 23:09:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "秘魯總統大選官方計票結果：秘魯左翼人士Sanchez Secures位列第二，將在 6 月二輪大選對決Keiko Fujimori。"
+    },
+    {
+      "id": "te:economy:551242",
+      "time": "2026-05-15 23:07:54",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Dominican Republic",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Dominican Republic Inflation Hits Three-Year High — The annual inflation rate in the Dominican Republic accelerated to 5.11% in April 2026 from 4.63% in the previous month, marking the highest level in three years and moving above the central bank’s 4.0% ±1.0% target range. The strongest price increases were recorded in restaurants and hotels (7.7%), education (7.1%), food and non-alcoholic beverages (7.0%), miscellaneous goods and services (6.2%), alcoholic beverages and tobacco (5.3%), transport (5.3%), and healthcare (5.2%). In contrast, prices for clothing and footwear declined 1.4% from a year earlier. On a monthly basis, consumer prices rose 0.5% in April."
+    },
+    {
+      "id": "4882588",
+      "time": "2026-05-15 23:07:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "秘魯首輪總統大選選票已 100% 統計完畢。"
+    },
+    {
+      "id": "4882587",
+      "time": "2026-05-15 23:06:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【委內瑞拉推動油氣合作重啟 開始分發示範合同檔案】委內瑞拉國家石油公司已開始向有意在委開展業務的能源公司分發擬議合同，這是恢復該國原油生產的關鍵一步。業內人士表示，該示範合同可能代表了委內瑞拉國家石油公司（PDVSA）採取的極致開放姿態。隨著律師和顧問們仔細研讀這份長達 90 頁的檔案，業內人士的反應表明，將協議轉化為運營合同可能需要比預期更長的時間。"
+    },
+    {
+      "id": "4882586",
+      "time": "2026-05-15 23:06:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【河北省四地區市場化綠電首次進京】記者15日從首都電力交易中心獲悉，2026年1月至4月，北京市綠電市場化直接交易共達成188億千瓦時，同比增長82.54%，累計減少二氧化碳排放約1500萬噸。河北省四地區市場化綠電首次進京，累計供應電量1919萬千瓦時。 “今年3月，首次實現了河北省石家莊、保定、衡水、滄州四地共19家新能源企業的綠電首次供應北京。”首都電力交易中心副總經理王立介紹，此次跨區域綠電交易由北京電力交易中心聯合首都電力交易中心、河北電力交易中心共同完成。 王立介紹，北京共17家電力使用者參與此次綠電購入，電力使用者覆蓋城市公共交通、靜態交通、高階製造、醫藥製造等多個重點領域。該交易模式實現河北省南部區域優質新能源與北京綠色用能需求精準對接，為京津冀地區源網荷儲一體化發展，以及全國統一電力市場建設提供了實踐樣本。 擴大綠電消費是推動能源綠色低碳轉型、助力實現“雙碳”目標、賦能經濟綠色高質量發展的關鍵舉措。首都電力交易中心正依託全國統一電力市場建設，持續拓展綠電進京渠道，擴大綠電交易規模。京津冀三地深化電力市場協同合作，推動更多河北綠電進京，助力北京建設綠色低碳城市，為京津冀協同發展及全國新型電力系統建設貢獻力量。（新華社）"
+    },
+    {
+      "id": "mkt:019e2c2c-07df-7663-82f9-873e86621a8e",
+      "time": "2026-05-15 23:05:32",
+      "tags": [
+        "MKT News",
+        "APSEZ.NS",
+        "Impact bullish"
+      ],
+      "text": "ADANI PORTS ACQUISITION OF 51% STAKE OF MERIDIAN TRANSPORTES"
+    },
+    {
+      "id": "mkt:019e2c2b-b9b0-7663-82f9-7b50b496669a",
+      "time": "2026-05-15 23:05:23",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish",
+        "Nasdaq100",
+        "S&P500"
+      ],
+      "text": "APPLE EXTENDS GAINS TO 1%"
+    },
+    {
+      "id": "4882585",
+      "time": "2026-05-15 23:04:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "蘋果股價上漲至1%。"
+    },
+    {
+      "id": "4882584",
+      "time": "2026-05-15 23:04:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國能源部長：將以1.2桶對1桶回補戰略石油儲備】美國能源部長賴特週五在得克薩斯州薩賓帕斯的一場活動上表示，美國將補充從戰略石油儲備（SPR）中釋放的每一桶原油。他稱：“我們現在正在釋放石油，而對於每一桶釋放的石油，我們將至少回補1.2桶進入儲備。最終我們會讓儲備規模比開始時更充足。”"
+    },
+    {
+      "id": "mkt:019e2c2b-0e2a-7663-82f9-72eb9162def2",
+      "time": "2026-05-15 23:04:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "TEAM.O",
+        "Impact bullish",
+        "NOW.O",
+        "CRM.O"
+      ],
+      "text": "SHARES OF U.S. SOFTWARE COMPANIES ADVANCE INTUIT UP 3.6%, SERVICENOW UP 4.5%, DATADOG UP 1.8%, ATLASSIAN UP 5.8% ADOBE UP 3.2%, WORKDAY UP 3.9%, SALESFORCE UP 3.5%, ZSCALER UP 3%"
+    },
+    {
+      "id": "4882583",
+      "time": "2026-05-15 23:04:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "Adobe上漲3.2%，Workday上漲3.9%，Salesforce上漲3.5%，Zscaler上漲3%。"
+    },
+    {
+      "id": "4882582",
+      "time": "2026-05-15 23:03:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "財捷（Intuit）上漲3.6%，ServiceNow上漲4.5%，Datadog上漲1.8%，Atlassian上漲5.8%。"
+    },
+    {
+      "id": "4882581",
+      "time": "2026-05-15 23:03:25",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國軟體企業股價上漲。"
+    },
+    {
+      "id": "4882580",
+      "time": "2026-05-15 23:02:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍通報，因疑似無人機入侵事件，納哈里亞及加利利西部地區拉響防空警報。"
+    },
+    {
+      "id": "4882579",
+      "time": "2026-05-15 23:02:00",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "加拿大續簽洛克希德・馬丁公司戰機機隊維護合約， 加拿大續簽 CC-130J “大力神” 運輸機機隊維護合同。"
+    },
+    {
+      "id": "4882578",
+      "time": "2026-05-15 23:01:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "哥倫比亞 3 月製造業產量同比增長 3.9%；預計+1.6%。"
+    },
+    {
+      "id": "4882577",
+      "time": "2026-05-15 23:00:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "秘魯政府公佈：3月秘魯國內生產總值較去年同期增長3.21%。"
+    },
+    {
+      "id": "mkt:019e2c28-3521-7663-82f9-6edc35b9baaa",
+      "time": "2026-05-15 23:00:55",
+      "tags": [
+        "MKT News",
+        "LMT.O",
+        "Impact bullish"
+      ],
+      "text": "CANADA EXTENDS LOCKHEED MARTIN CONTRACT TO MAINTAIN FLEET"
+    },
+    {
+      "id": "mkt:019e2c27-8f5c-7663-82f9-60ad3637bb3c",
+      "time": "2026-05-15 23:00:49",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "FED ENDS 2023 ENFORCEMENT ACTIONS AGAINST UBS, CREDIT SUISSE"
+    },
+    {
+      "id": "te:markets:551240",
+      "time": "2026-05-15 23:00:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: New Zealand Dollar Drops by 1.42% — Top currency losers are New Zealand Dollar (-1.42%), Australian Dollar (-0.92%), Brazilian Real (-0.85%), British Pound (-0.45%), Euro (-0.34%) and Japanese Yen (-0.15%). Gains are led by Dollar Index (0.40%)."
+    },
+    {
+      "id": "4882576",
+      "time": "2026-05-15 23:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】低硫燃料油連續漲3.67%，焦炭連續跌1.32%，瀝青連續漲1.11%，豆二連續跌1.01%，棉花連續跌0.99%。"
+    },
+    {
+      "id": "4882575",
+      "time": "2026-05-15 23:00:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "委內瑞拉向石油鑽井企業丟擲石油合同，開啟新一輪談判。"
+    },
+    {
+      "id": "4882574",
+      "time": "2026-05-15 22:59:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【巴勒斯坦民眾舉行示威紀念“災難日”：我們有權重返故土】今年的5月15日是巴勒斯坦第78個“災難日”。1948年5月15日、也就是以色列宣佈建國的第二天，第一次中東戰爭爆發，以色列佔領了聯合國181號決議規定的大部分巴勒斯坦領土，大批巴勒斯坦人被迫逃離家園。連日來，大批巴勒斯坦人在加沙地帶和約旦河西岸舉行示威活動，紀念“災難日”，並抗議以色列佔領巴勒斯坦土地。（央視新聞）"
+    },
+    {
+      "id": "4882573",
+      "time": "2026-05-15 22:57:41",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通私募市場基金：擬向基金股東回購截至2026年3月31日該基金約最高5.00%的淨資產份額"
+    },
+    {
+      "id": "4882572",
+      "time": "2026-05-15 22:57:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國-剛果（金）投資合作論壇助力兩國加強經貿往來】中國-剛果（金）投資合作論壇15日在剛果（金）中孔果省首府馬塔迪舉行。雙方圍繞加強地方經貿往來、推進投資合作、促進互利共贏等議題進行交流。中孔果省省長比洛洛在致辭中表示，中孔果省區位優勢明顯，擁有港口、交通、農業、能源和工業等多方面發展潛力，歡迎更多中國企業赴當地投資興業，參與基礎設施建設和產業發展，助力該省經濟社會轉型。馬塔迪市市長姆貝特說，期待透過加強同中國企業合作，提升城市基礎設施水平，促進就業和民生改善。（新華社）"
+    },
+    {
+      "id": "4882571",
+      "time": "2026-05-15 22:56:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【河北省四地區市場化綠電首次進京】記者15日從首都電力交易中心獲悉，2026年1月至4月，北京市綠電市場化直接交易共達成188億千瓦時，同比增長82.54%，累計減少二氧化碳排放約1500萬噸。河北省四地區市場化綠電首次進京，累計供應電量1919萬千瓦時。“今年3月，首次實現了河北省石家莊、保定、衡水、滄州四地共19家新能源企業的綠電首次供應北京。”首都電力交易中心副總經理王立介紹，此次跨區域綠電交易由北京電力交易中心聯合首都電力交易中心、河北電力交易中心共同完成。王立介紹，北京共17家電力使用者參與此次綠電購入，電力使用者覆蓋城市公共交通、靜態交通、高階製造、醫藥製造等多個重點領域。該交易模式實現河北省南部區域優質新能源與北京綠色用能需求精準對接，為京津冀地區源網荷儲一體化發展，以及全國統一電力市場建設提供了實踐樣本。（新華社）"
+    },
+    {
+      "id": "4882570",
+      "time": "2026-05-15 22:56:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "【報告：若政治動盪持續，英國國債或面臨長期風險溢價】XTB的Kathleen Brooks在一份報告中表示，由於政治不穩定，投資者可能會對英國國債施加長期的風險溢價。隨著一些議員在首相所在的政黨於最近的地方選舉中遭遇慘敗後要求其辭職，英國政治氣候高度動盪。Tradeweb資料顯示，隨著投資者要求對這些資產提供更高的風險溢價，週五10年期英國國債收益率飆升至5.172%，為2008年以來的最高水平。"
+    },
+    {
+      "id": "4882569",
+      "time": "2026-05-15 22:54:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "斯泰蘭蒂斯米蘭上市股票在下跌4.36%後自動觸發交易停牌。"
+    },
+    {
+      "id": "4882568",
+      "time": "2026-05-15 22:53:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【民政部：兩部殯葬領域管理辦法公開徵求意見】為了強化殯葬行業的公益屬性，加強公墓和殯儀館管理，民政部今日公佈《公墓管理辦法（修訂徵求意見稿）》和《殯儀館管理辦法（徵求意見稿）》並公開徵求意見。（央視新聞）"
+    },
+    {
+      "id": "4882567",
+      "time": "2026-05-15 22:53:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "哥倫比亞3月工業生產同比增長2.4%；預計+0.7%。"
+    },
+    {
+      "id": "4882566",
+      "time": "2026-05-15 22:52:56",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國務院常務會議部署城市更新工作】5月15日召開的國務院常務會議，聽取貫徹落實中央城市工作會議部署和實施城市更新進展情況彙報，審議透過《城市更新“十五五”規劃》，並作出一系列重要部署。 城市更新是推動城市高質量發展、不斷滿足人民美好生活需要的重要舉措。“十四五”期間，我國加裝電梯12.9萬部，增設停車位340多萬個、養老托育等社群服務設施6.4萬個；更新改造供水、燃氣、供熱等地下管網84萬公里；打造“口袋公園”1.8萬多個、城市綠道2.5萬公里……我國城市人居環境質量進一步提升，人民群眾在城市生活得更方便、更舒心、更美好。 當前我國城市發展正從大規模增量擴張階段轉向存量提質增效為主的階段。會議提出，要把城市更新擺在突出位置，堅持遠近結合、突出重點，有力有序推進各項工作，建設創新、宜居、美麗、韌性、文明、智慧的現代化人民城市。（新華社）"
+    },
+    {
+      "id": "4882565",
+      "time": "2026-05-15 22:52:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "據港交所檔案：廣東華成電力能源股份有限公司向港交所提交上市申請書。"
+    },
+    {
+      "id": "4882564",
+      "time": "2026-05-15 22:52:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "【上海國際能源交易中心調整原油、低硫燃料油期貨品種相關合約交易手續費】上海國際能源交易中心釋出通知，經研究決定，自2026年5月19日交易（即5月18日晚夜盤）起：原油期貨sc2609、sc2610、sc2611、sc2612、sc2701、sc2702、sc2703、sc2706、sc2709、sc2712、sc2803、sc2806、sc2809、sc2812、sc2903合約交易手續費調整為20元/手，日內平今倉交易手續費調整為60元/手。低硫燃料油期貨lu2609、lu2610、lu2611、lu2612、lu2701、lu2702、lu2703合約交易手續費調整為成交金額的萬分之零點一，日內平今倉交易手續費調整為成交金額的萬分之零點三。"
+    },
+    {
+      "id": "4882563",
+      "time": "2026-05-15 22:51:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "【分析：美元或將走高，因其保持高收益地位】加皇資本市場外匯策略師Daria Parkhomenko在一份報告中表示，美元可能會走高，但將保持在今年的交易區間內。“如果美元在G10中收益率相對較高，資金持續流入美國資產，且美元是避險資產（即使基礎不穩），那麼未來幾個月就沒有明確的理由拋售美元。“鑑於美國是石油淨出口國，在應對能源價格衝擊方面，美元受到的影響也比歐洲和亞洲小。加拿大皇家銀行建議在短期內買入美元兌低收益貨幣，包括歐元和瑞士法郎。"
+    },
+    {
+      "id": "4882561",
+      "time": "2026-05-15 22:49:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍：初步通報，米斯加夫阿姆地區響起敵方飛行器入侵防空警報，相關詳情正在核查中。"
+    },
+    {
+      "id": "te:markets:551238",
+      "time": "2026-05-15 22:49:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Copper is down by 5% — Copper decreased 5% to 6.2392 USD/Lbs"
+    },
+    {
+      "id": "4882560",
+      "time": "2026-05-15 22:48:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【王傳福：現在是中國企業誕生世界品牌最好的時候】 026仰望商業研究院千人大會在深圳舉行。比亞迪集團董事長兼總裁、仰望商業研究院院長王傳福在會上表示，當前中國企業，尤其是在製造業領域，正處在誕生世界級品牌的最佳歷史時期。在談到企業競爭時，王傳福表示，競爭是企業發展的一把萬能鑰匙。“我們犯過很多錯誤，也失去過很多機會，但更多時候我們抓住了競爭。”無論是來自外部還是內部倒逼的競爭，透過優勝劣汰，企業才能真正存活下來。他還指出，打造高階品牌，安全是第一位的。“安全的升級永遠沒有終點。”（大河財立方）"
+    },
+    {
+      "id": "4882559",
+      "time": "2026-05-15 22:48:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息： 伊朗稱阿聯酋深度介入戰事，阿聯酋方面對此類相關指控予以否認。"
+    },
+    {
+      "id": "4882558",
+      "time": "2026-05-15 22:47:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "市場訊息：委內瑞拉推出石油合作合約，擬就此與鑽井企業展開洽談。"
+    },
+    {
+      "id": "4882557",
+      "time": "2026-05-15 22:46:04",
+      "tags": [
+        "央行",
+        "宏觀",
+        "公司"
+      ],
+      "text": "【英國政府：企業應採取措施限制前沿AI模型的風險】英國財政部、英國央行、以及金融行為監管局（FCA）釋出聯合宣告，稱英國公司應當採取措施，針對新型人工智慧（AI）模型帶來的風險制定規劃並進行緩解。“當前前沿AI模型的網路能力已經超過了資深從業者所能達到的水平，且速度顯著更快、規模更大、成本更低。”“這些能力一旦被惡意利用，將放大網路威脅，危及公司的安全與穩健、客戶利益、市場完整性以及金融體系的穩定。” 4月份，英國央行行長貝利認為Anthropic公司旗下的Mythos產品存在重大的網路安全風險。網路專家也對Mythos發出警告，稱其具有大幅增強複雜網路攻擊的能力，這可能對銀行業及其現有的技術體系構成嚴峻挑戰。"
+    },
+    {
+      "id": "4882556",
+      "time": "2026-05-15 22:45:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "【土耳其提議建設12億美元燃料管道 以滿足北約的東歐盟國能源需求】據知情人士透露，土耳其提議修建一條價值 12 億美元（10 億歐元）的軍用燃料管道，以幫助滿足北約東歐側翼盟國的能源需求。知情人士表示，從土耳其到羅馬尼亞的燃料管道造價可能只有目前已提出的其他方案的五分之一，其他方案包括途經希臘或羅馬尼亞西部鄰國的方案，但由於這些方案依賴海上運輸，因此更容易受到破壞。土耳其向北約提出這一提議之際，正值其準備主辦7月北約峰會之時。據知情人士透露，土耳其希望獲得盟友對該提議的支援，該提議可能會在安卡拉峰會之前或期間做出決定。"
+    },
+    {
+      "id": "te:markets:551237",
+      "time": "2026-05-15 22:44:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Exxon Mobil Stock Price Hits 5-week High — Exxon Mobil shares increased to 155.70 USD, the highest since April 2026. Over the past 4 weeks, Exxon Mobil gained 4.46%, and in the last 12 months, it increased 43.35%."
+    },
+    {
+      "id": "4882555",
+      "time": "2026-05-15 22:44:09",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "【紐約州製造業活動以2022年來最快速度擴張】5月紐約州製造業活動以四年來最快速度擴張，企業對前景也變得更加樂觀。紐約聯儲週五公佈的資料顯示，受新訂單增長提振，總體企業狀況指數上升近9點至19.6，超過機構調查的所有經濟學家的預期。該指數高於零意味著行業擴張。新訂單指標升至2021年以來最高水平，出貨表現依然穩健。報告稱，交貨時間“顯著延長”，相關指標升至四年來高點。原材料支付價格和產品銷售價格指標均在當月躍升至2022年以來最高水平。反映未來價格走勢的預期指標仍處於高位。總體企業狀況展望指標5月反彈，受未來新訂單和出貨預期改善推動。資本支出計劃指標小幅上升，但報告稱其“仍然溫和”。報告顯示，5月就業指標大於零，企業預計未來數月將繼續增加招聘。本次調查於5月4日至11日期間進行。"
+    },
+    {
+      "id": "4882554",
+      "time": "2026-05-15 22:43:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "微軟持續走強，現漲超3%。"
+    },
+    {
+      "id": "te:markets:551236",
+      "time": "2026-05-15 22:43:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Apple Stock Price Hits All-time High — Apple shares increased to an all-time high of 300.93 USD. Over the past 4 weeks, Apple gained 14.23%, and in the last 12 months, it increased 42.42%."
+    },
+    {
+      "id": "te:economy:551235",
+      "time": "2026-05-15 22:42:56",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Ecuador",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Ecuador's Annual Inflation Picks Up in April — Ecuador’s annual inflation rate accelerated to 2.6% in April 2026 from 2.3% in the previous month. The largest price increases were recorded in housing and utilities (17.3%), healthcare (4.5%), transport (3.2%), and miscellaneous goods and services (2.3%). More moderate inflation was observed in education (1.7%), alcoholic beverages and tobacco (1.6%), restaurants and hotels (1.4%), communications (0.7%), recreation and culture (0.4%), furniture and household articles (0.3%), and food and non-alcoholic beverages (0.3%). In contrast, prices for clothing and footwear fell 5.2% from a year earlier. On a monthly basis, consumer prices rose 0.5% after increasing 0.1% in March."
+    },
+    {
+      "id": "4882553",
+      "time": "2026-05-15 22:42:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【E7X讓利13萬元入場，奧迪與舊時代告別】用價格換空間，用智駕搏未來。電動化面前，奧迪不再矜持。繼E7X之後，上汽奧迪AUDI品牌電動化落子仍在繼續。從多方獨立信源處獲悉，明年，AUDI品牌將推出行政屬性C級轎車，後年將推出二代平臺首款產品，或為大六座SUV。“二代平臺首款車型曾考慮過MPV形態，之後轉向大六座SUV。”接近AUDI的知情人士透露，該車定位“旗艦SUV”，內飾設計融合“多功能起居室”理念，既滿足私人使用需求，也兼顧商務用途。（21世紀經濟報道）"
+    },
+    {
+      "id": "4882552",
+      "time": "2026-05-15 22:42:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特：新英格蘭地區的州長們對修建一條向本州輸送天然氣的管道感興趣。"
+    },
+    {
+      "id": "4882551",
+      "time": "2026-05-15 22:42:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【贛鋒鋰業：當前行業鋰礦石及鋰鹽庫存天數處於歷史低位】5月15日，贛鋒鋰業(002460)在2026年江西轄區上市公司投資者集體接待日活動上表示，目前沒有看到較為可靠的行業庫存調查情況釋出，公司認為當前行業的鋰礦石及鋰鹽庫存水平均不高，且由於鋰電行業需求在今年以來快速增長，當前行業的庫存天數處於歷史低位。"
+    },
     {
       "id": "4882550",
       "time": "2026-05-15 22:39:51",
@@ -139210,702 +139903,6 @@
         "其他"
       ],
       "text": "市場訊息：斯洛伐克總理抵達莫斯科。"
-    },
-    {
-      "id": "mkt:019e0832-5ea3-7aa7-bba6-90958ef4a5cb",
-      "time": "2026-05-08 23:26:19",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Crypto Concepts",
-        "Ethereum"
-      ],
-      "text": "COINBASE GLOBAL INC: SOME USERS MAY EXPERIENCE DELAYED SENDS AND RECEIVES ON ETHEREUM NETWORK - WEBSITE"
-    },
-    {
-      "id": "te:markets:549312",
-      "time": "2026-05-08 23:23:41",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Bank Of America Stock Price Hits 4-week Low — Bank Of America shares decreased to 51.82 USD, the lowest since April 2026. Over the past 4 weeks, Bank Of America lost 1.63%, and in the last 12 months, it increased 24.07%."
-    },
-    {
-      "id": "4868922",
-      "time": "2026-05-08 23:23:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "據伊朗法爾斯通訊社：伊朗議會國家安全委員會委員稱，伊朗與阿聯酋存在相關事務往來，且不會就此作罷。"
-    },
-    {
-      "id": "4868921",
-      "time": "2026-05-08 23:23:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "一位知情人士表示，掌控DeepSeek母公司對沖基金幻方資本的梁文鋒，計劃本輪個人最高出資200億元人民幣，佔到募資總額的40%。"
-    },
-    {
-      "id": "mkt:019e082a-ae7c-7aa7-bba6-88fb4444488d",
-      "time": "2026-05-08 23:17:55",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "STRAIT OF HORMUZ PLAN WILL BECOME PERMANENT LAW: TASNIM"
-    },
-    {
-      "id": "4868920",
-      "time": "2026-05-08 23:17:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "據伊朗塔斯尼姆通訊社：  伊朗議會國家安全委員會主席稱，霍爾木茲海峽法律機制方案正在擬定中。"
-    },
-    {
-      "id": "mkt:019e082a-1a2f-7aa7-bba6-81655b4d627a",
-      "time": "2026-05-08 23:17:17",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "IRAN SAYS PREPARING PLAN FOR 'LEGAL REGIME' OF STRAIT: TASNIM"
-    },
-    {
-      "id": "4868919",
-      "time": "2026-05-08 23:15:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "【霍爾木茲海峽附近區域2小時內接連傳出交火聲】當地時間5月8日，霍爾木茲海峽附近區域在2小時內接連傳出交火聲。（央視新聞）"
-    },
-    {
-      "id": "mkt:019e0828-07cf-7aa7-bba6-7bb85887d23a",
-      "time": "2026-05-08 23:15:00",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "S&P500",
-        "Impact mixed",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "FED'S GOOLSBEE: WORRIES ABOUT MARKETS TRYING TO PRICE IN AI PRODUCTIVITY GAINS BEFORE THEY ARRIVE"
-    },
-    {
-      "id": "4868918",
-      "time": "2026-05-08 23:14:40",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲古爾斯比：市場試圖在人工智慧生產率提升實現前就將其定價，對此我感到擔憂。"
-    },
-    {
-      "id": "4868917",
-      "time": "2026-05-08 23:14:15",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【伊朗哈爾克島附近疑似出現大規模原油洩漏 】近日拍攝的衛星影象顯示，伊朗關鍵石油出口樞紐哈爾克島附近海域疑似出現大規模原油洩漏，汙染範圍覆蓋數十平方公里海面。歐洲哥白尼計劃“哨兵”系列衛星5月6日至8日拍攝的影象顯示，一片灰白色油膜出現在哈爾克島以西海域。路透社援引分析人士的話報道，這片油膜“從視覺上看與原油特徵一致”，估計覆蓋面積約45平方公里。英國溫沃德海事分析公司8日在社交媒體上說，哈爾克島附近油汙正在持續擴散。此次洩漏最早於5月5日被發現。經過20小時內3次衛星過境觀測後，事件已得到確認。哈爾克島是伊朗重要的石油出口樞紐。美軍4月初曾表示對該島上的軍事目標進行了襲擊。（新華社）"
-    },
-    {
-      "id": "4868916",
-      "time": "2026-05-08 23:12:40",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲古爾斯比：最令人擔憂的部分是服務業通脹。"
-    },
-    {
-      "id": "4868915",
-      "time": "2026-05-08 23:12:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：美國國防部已公佈首批不明飛行物（UFO/UAP）檔案檔案。"
-    },
-    {
-      "id": "mkt:019e0825-9fd8-7aa7-bba6-747eb66d90a7",
-      "time": "2026-05-08 23:12:19",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "FED'S GOOLSBEE: NOT A BIG FAN OF USING WORDS TO JAWBONE POLICY DECISIONS"
-    },
-    {
-      "id": "mkt:019e0825-4d2c-7aa7-bba6-6bdbfb198a18",
-      "time": "2026-05-08 23:11:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TRUMP: PENTAGON RELEASED THE FIRST TRANCHE OF THE UFO/UAP FILES"
-    },
-    {
-      "id": "4868914",
-      "time": "2026-05-08 23:11:51",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲古爾斯比：並不認同透過口頭引導干預政策決策。"
-    },
-    {
-      "id": "4868913",
-      "time": "2026-05-08 23:11:22",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲古爾斯比：有觀點認為，此輪物價上漲應屬於一次性現象。"
-    },
-    {
-      "id": "mkt:019e0824-90c2-7aa7-bba6-65b4009a2673",
-      "time": "2026-05-08 23:11:12",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "US10Y"
-      ],
-      "text": "FED'S GOOLSBEE: THERE'S ARGUMENT PRICE INCREASES SHOULD BE ONE-TIME"
-    },
-    {
-      "id": "4868912",
-      "time": "2026-05-08 23:10:58",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲古爾斯比： 正研判此次能源衝擊是否具有持續性。 美聯儲應始終保留所有政策選項，不排除任何可能性。"
-    },
-    {
-      "id": "mkt:019e0824-2ca7-7aa7-bba6-5ca95cda0145",
-      "time": "2026-05-08 23:10:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "KALSHI & MADISON SQUARE GARDEN REPORT MULTI-YEAR PARTNERSHIP"
-    },
-    {
-      "id": "mkt:019e0824-1fbd-7aa7-bba6-517311b5a487",
-      "time": "2026-05-08 23:10:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "FED'S GOOLSBEE: TRYING TO FIGURE OUT IF ENERGY SHOCK WILL LAST"
-    },
-    {
-      "id": "4868911",
-      "time": "2026-05-08 23:10:04",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【王毅同法國總統外事顧問會談】5月8日，中共中央政治局委員、中央外辦主任王毅在北京同法國總統外事顧問博納舉行會談。王毅表示，當今世界亂象叢生，中法作為聯合國安理會常任理事國和獨立自主大國，雙方有必要加強戰略溝通，開展戰略協調，共同應對全球性挑戰，推動中法全面戰略伙伴關係排除各種干擾，實現健康、穩定發展。博納表示，法方期待同中方密切協作，共同尋找全球性危機的建設性解決方案。當前國際形勢下，歐中保持對話合作至關重要，歐盟需要中國，法方願為推動歐中對話合作發揮積極作用。（央視新聞）"
-    },
-    {
-      "id": "mkt:019e0823-7574-7aa7-bba6-4b3317d3b00f",
-      "time": "2026-05-08 23:10:00",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "FED'S GOOLSBEE: EVERYTHING SHOULD ALWAYS BE ON THE TABLE FOR FED"
-    },
-    {
-      "id": "mkt:019e0823-4f33-7aa7-bba6-45b5201b1c0d",
-      "time": "2026-05-08 23:09:49",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "FED'S GOOLSBEE: FED HAS TO KEEP AN EYE ON INFLATION SITUATION"
-    },
-    {
-      "id": "4868910",
-      "time": "2026-05-08 23:09:20",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲古爾斯比：美聯儲必須密切關注通脹形勢。"
-    },
-    {
-      "id": "4868909",
-      "time": "2026-05-08 23:09:16",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國國務院：正安排撤僑航班，協助受漢坦病毒疫情影響的荷蘭郵輪上的美國乘客安全返程。"
-    },
-    {
-      "id": "mkt:019e0822-8d89-7aa7-bba6-3bbd2f1a9f0d",
-      "time": "2026-05-08 23:08:58",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "FED'S GOOLSBEE: MOST CONCERNING PART IS SERVICES INFLATION"
-    },
-    {
-      "id": "mkt:019e0822-6aca-7aa7-bba6-3106414cdf36",
-      "time": "2026-05-08 23:08:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. DEPARTMENT OF STATE: ARRANGING REPATRIATION FLIGHT TO SUPPORT SAFE RETURN OF AMERICAN PASSENGERS ON DUTCH CRUISE SHIP IMPACTED BY HANTAVIRUS OUTBREAK"
-    },
-    {
-      "id": "mkt:019e0822-2645-7aa7-bba6-2c17168c8628",
-      "time": "2026-05-08 23:08:36",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "FED'S GOOLSBEE: DON'T THINK INFLATION PRESSURES ARE JUST FROM ENERGY"
-    },
-    {
-      "id": "4868908",
-      "time": "2026-05-08 23:08:32",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲古爾斯比：通脹上行並非僅由能源因素驅動，在本輪戰事爆發前通脹就已處於高位。"
-    },
-    {
-      "id": "4868907",
-      "time": "2026-05-08 23:08:12",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲古爾斯比：目前沒有太多證據表明就業市場正在惡化。"
-    },
-    {
-      "id": "mkt:019e0821-c7b7-7aa7-bba6-275b2cbc488d",
-      "time": "2026-05-08 23:08:11",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "STLA.N",
-        "Impact bullish"
-      ],
-      "text": "STELLANTIS READYING MORE DEALS FOR UNDERUSED EU PLANTS: UNION"
-    },
-    {
-      "id": "mkt:019e0821-984c-7aa7-bba6-1b4e6bef802f",
-      "time": "2026-05-08 23:07:59",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "FED'S GOOLSBEE: THERE IS NOT A LOT OF EVIDENCE OF JOB MARKET DETERIORATION"
-    },
-    {
-      "id": "4868906",
-      "time": "2026-05-08 23:07:48",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲古爾斯比：通脹形勢不容樂觀，且正朝著惡化方向發展。"
-    },
-    {
-      "id": "mkt:019e0821-56e4-7aa7-bba6-15e23d3a950b",
-      "time": "2026-05-08 23:07:43",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "FED'S GOOLSBEE: INFLATION HAS NOT BEEN GREAT AND IS GOING THE WRONG WAY"
-    },
-    {
-      "id": "mkt:019e0821-1add-7aa7-bba6-0ed5ab5724a4",
-      "time": "2026-05-08 23:07:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "S&P EMPLOYMENT FUND OUTLOOK TO NEG IN LINE WITH FINLAND"
-    },
-    {
-      "id": "mkt:019e0821-0803-7aa7-bba6-0229e1c50792",
-      "time": "2026-05-08 23:07:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "FED'S GOOLSBEE: THERE'S NOT A LOT OF EVIDENCE THE JOB MARKET IS FALLING APART"
-    },
-    {
-      "id": "mkt:019e0820-e553-7aa7-bba5-ffb9079d5270",
-      "time": "2026-05-08 23:07:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "VANCE, QATAR PM TO DISCUSS NEGOTIATIONS WITH IRAN: AXIOS"
-    },
-    {
-      "id": "4868905",
-      "time": "2026-05-08 23:07:14",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲古爾斯比：目前沒有太多證據表明就業市場正在崩潰。"
-    },
-    {
-      "id": "4868904",
-      "time": "2026-05-08 23:07:09",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲古爾斯比：就業市場基本穩定。"
-    },
-    {
-      "id": "mkt:019e0820-bf44-7aa7-bba5-f0062880db65",
-      "time": "2026-05-08 23:07:04",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "FED'S GOOLSBEE: JOBS REPORT LOOKS 'PRETTY MUCH STABLE"
-    },
-    {
-      "id": "mkt:019e0820-addc-7aa7-bba5-ede4f0c28f9f",
-      "time": "2026-05-08 23:06:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "VANCE IS MEETING NOW WITH THE PRIME MINISTER OF QATAR: AXIOS"
-    },
-    {
-      "id": "4868903",
-      "time": "2026-05-08 23:06:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國副總統萬斯目前正會見卡達首相，商討與伊朗的談判事宜。美方官員表示，在結束戰事協議的相關談判中，卡達是美國與伊朗之間關鍵的幕後溝通渠道。"
-    },
-    {
-      "id": "4868902",
-      "time": "2026-05-08 23:05:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "黎巴嫩總理：我們正在努力鞏固停火協議，以迎接與以色列的下一次談判會議。"
-    },
-    {
-      "id": "4868901",
-      "time": "2026-05-08 23:03:59",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【阿斯麥（ASML）股價創歷史新高 成為歐洲首家市值突破6000億美元的公司】荷蘭半導體裝置巨頭阿斯麥股價上漲2.82%，報1559.4美元/股，創歷史新高，總市值報6010億美元。阿斯麥成為歐洲首家市值突破6000億美元的公司。市場普遍認為，隨著AI算力需求持續擴張，高階GPU與先進邏輯晶片產能持續緊張，帶動對EUV光刻裝置的長期需求保持高景氣。"
-    },
-    {
-      "id": "te:markets:549309",
-      "time": "2026-05-08 23:00:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: Norwegian Krone Rises by 1.02% — Top currency gainers are Norwegian Krone (1.02%), Brazilian Real (0.97%), Swedish Krona (0.71%), British Pound (0.50%), Euro (0.41%) and Japanese Yen (0.19%). Biggest loser is Dollar Index (-0.15%)."
-    },
-    {
-      "id": "4868900",
-      "time": "2026-05-08 23:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【夜盤期貨收盤】純鹼連續跌2.49%，燃料油連續漲2.18%，低硫燃料油連續漲2.00%，瀝青連續漲1.29%，聚丙烯連續漲1.25%。"
-    },
-    {
-      "id": "te:economy:549308",
-      "time": "2026-05-08 23:00:01",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Brazil",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Brazil 10-Year Government Bond Yield Rebounds — The yield on Brazil’s 10-year government bond rebounded to 13.9% from the two-week low of 13.8% on May 6th as risks of higher inflation backed the outlook of elevated interest rates. The Central Bank of Brazil signaled that it sees pro-inflationary risks in its latest minutes, as the war in the Middle East lifted energy costs and threatened spreading to broader areas of the economy. Brazil’s annual inflation rate rose to 4.14% in March 2026 from 3.81% in February, slightly above market expectations of 4.0%, particularly due to the impact of energy inflation on transportation costs. The slower pace of rate cuts by the central bank had driven the Treasury to conduct a R$44 billion buyback earlier in the year to limit higher yields."
-    },
-    {
-      "id": "4868899",
-      "time": "2026-05-08 22:59:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "黎巴嫩真主黨宣稱擊中黎巴嫩南部的以色列指揮所。"
-    },
-    {
-      "id": "4868898",
-      "time": "2026-05-08 22:59:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "惠譽評級：將加州 M-S-R 能源管理局 2009A、B、C 專案收益相關評級展望上調至正面；維持A 級信用評級不變。"
-    },
-    {
-      "id": "4868897",
-      "time": "2026-05-08 22:59:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "【獅子山卡車與客車相撞致10人死亡】獅子山警方8日證實，一輛集裝箱卡車7日在獅子山首都弗里敦附近的一條高速公路上與兩輛客車相撞，造成至少10人死亡，多人受傷。初步調查顯示，涉事卡車在行駛中失控，與一輛客運車輛和一輛私家車相撞，造成人員傷亡。事故原因正在調查中。當地警方官員稱，傷者已被送往醫院接受治療，事故造成的死亡人數可能會增加。（央視新聞）"
-    },
-    {
-      "id": "4868896",
-      "time": "2026-05-08 22:59:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【上美股份：2026年6月23日將派發股息0.857006港元/股】上美股份（02145.HK）公告，公司2025年度末期股息已獲股東周年大會批准，每股派發人民幣0.75元；以港元派付的末期股息按匯率1.142674（1人民幣兌1.142674港元）折算，每股H股派發0.857006港元（含稅）。該末期股息將於2026年6月23日或之前派付予截至2026年5月18日營業時間結束時登記在冊的股東。"
-    },
-    {
-      "id": "4868895",
-      "time": "2026-05-08 22:58:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "【信長星在南京調研】5月8日，江蘇省委書記信長星在南京調研生產性服務業發展情況。他強調，要深入學習貫徹習近平總書記關於服務業發展的重要指示和對江蘇工作重要講話精神，落實全國服務業大會部署要求，突出需求牽引、改革攻堅、科技賦能、開放合作，深入實施服務業擴能提質行動，推進生產性服務業向專業化和價值鏈高階延伸，更好助力經濟轉型升級、建設現代化產業體系。（南京釋出）"
-    },
-    {
-      "id": "4868894",
-      "time": "2026-05-08 22:58:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "Moderna股價上漲16.4%。"
-    },
-    {
-      "id": "4868893",
-      "time": "2026-05-08 22:57:20",
-      "tags": [
-        "宏觀",
-        "市場"
-      ],
-      "text": "【報告：儘管英國國債反應積極，英國政治不確定性依然存在】英國國債收益率下降，顯示出對早期地方選舉結果的積極反應。然而，Peel Hunt的Kallum Pickering在一份報告中表示，對這種初步反應應持謹慎態度，因為英國的政治局勢仍然不穩定。Pickering說，英國國債收益率下降可能是由於基爾·斯塔默有意繼續擔任首相，以及目前沒有挑戰者。不過他表示：“現在得出任何確切結論還為時過早，局勢仍在不斷變化。”Tradeweb的資料顯示，10年期英國國債收益率下降3.5個基點，至4.885%，早些時候曾觸及4.864%的兩週低點。"
-    },
-    {
-      "id": "te:economy:549306",
-      "time": "2026-05-08 22:57:20",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "South Africa",
-        "Government Bond 10Y",
-        "Importance 0"
-      ],
-      "text": "South Africa 10-Year Bond Yield Edges Higher — South Africa’s 10-year bond yield rose to near 8.63%, as geopolitical uncertainty persisted and domestic political concerns resurfaced. Ongoing Middle East tensions continue to cloud the economic outlook, posing risks to inflation and growth. Higher energy prices and fertilizer shortages are expected to lift inflation in the coming months, while the central bank reaffirmed its strong commitment to the 3% target. On the political front, South Africa's Constitutional Court reopened the possibility of impeachment proceedings against President Cyril Ramaphosa, overturning the 2022 parliamentary vote that blocked such proceedings in the context of the \"Phala Phala\" scandal. Ramaphosa is accused of hiding from police and tax authorities a 2020 break-in and theft of large sums of foreign currency allegedly stashed in furniture at his luxury farmhouse."
-    },
-    {
-      "id": "4868892",
-      "time": "2026-05-08 22:56:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "【教育部黨組學習貫徹習近平總書記在加強基礎研究座談會上的重要講話精神】5月8日，教育部黨組書記、部長懷進鵬主持召開黨組會，傳達學習習近平總書記在加強基礎研究座談會上的重要講話精神，研究部署貫徹落實工作。部黨組成員出席會議。 會議指出，在“十五五”開局之年，習近平總書記出席加強基礎研究座談會並發表重要講話，充分體現了以習近平同志為核心的黨中央對基礎研究的高度重視，深刻彰顯了基礎研究作為整個科學體系的源頭、所有技術問題的總機關，對實現高水平科技自立自強的根本支撐作用。習近平總書記的重要講話，充分肯定我國基礎研究取得的成就，全面分析面臨的新形勢新挑戰，對加強基礎研究作出戰略部署、提出明確要求，具有很強的政治性、思想性、指導性，為加強基礎研究指明瞭前進方向、提供了根本遵循。（教育部）"
-    },
-    {
-      "id": "te:economy:549304",
-      "time": "2026-05-08 22:56:47",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Mexico",
-        "Consumer Confidence",
-        "Importance 1"
-      ],
-      "text": "Mexico Consumer Confidence Edges Up Slightly — Consumer sentiment in Mexico edged up to 44.4 in April 2026 from an upwardly revised 44.2 in March, pointing to a modest improvement, although consumers remained broadly pessimistic. Assessments of current economic conditions (29.6 vs. 29.2) and future household prospects (57.8 vs. 56.9) improved slightly, while inflation expectations eased (15.2 vs. 16.0). Meanwhile, expectations for the broader economy were little changed (45.3 vs. 45.4), and views on the labor market weakened somewhat (46.4 vs. 47.5)."
-    },
-    {
-      "id": "4868891",
-      "time": "2026-05-08 22:56:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【江蘇省增資擴產戰新產業基金揭牌】江蘇省增資擴產戰新產業基金揭牌儀式8日在蘇州舉行。該基金總規模100億元，由江蘇省戰略性新興產業母基金與13個設區市共同出資設立。"
-    },
-    {
-      "id": "4868890",
-      "time": "2026-05-08 22:56:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：共和黨以及全美在弗吉尼亞州取得重大勝利。弗吉尼亞州最高法院剛剛推翻了民主黨惡劣的選區不公正重劃方案。讓美國再次偉大！"
-    },
-    {
-      "id": "4868889",
-      "time": "2026-05-08 22:55:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "Mabwell一款炎症性腸病（IBD）藥物臨床試驗申請獲美國 FDA 批准。"
-    },
-    {
-      "id": "4868888",
-      "time": "2026-05-08 22:55:26",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "倫敦安全公共有限公司：中東衝突將推高通脹水平，或衝擊本市場的商業信心與經濟增長。"
-    },
-    {
-      "id": "4868887",
-      "time": "2026-05-08 22:54:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "在美國國防部公開的UFO檔案中，一段影片顯示，一個星形物體被拍到以“之”字形軌跡在空中快速不規則移動。相關檔案並未解釋該物體的來源。影片拍攝於2013年。"
-    },
-    {
-      "id": "mkt:019e0815-66f7-7aa7-bba5-e6f57c079482",
-      "time": "2026-05-08 22:54:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IRANIAN INTERIOR MINISTRY OFFICIAL: ENEMY SIEGE HAS NO EFFECT. FULL SECURITY ESTABLISHED, NO BORDER ISSUES - ISNA"
-    },
-    {
-      "id": "4868886",
-      "time": "2026-05-08 22:54:39",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "倫敦證券股份有限公司：中東衝突未對本集團造成直接影響。"
-    },
-    {
-      "id": "4868885",
-      "time": "2026-05-08 22:54:32",
-      "tags": [
-        "市場"
-      ],
-      "text": "【分析師：加拿大4月就業資料相當糟糕 不理解市場加息定價】蒙特利爾銀行資本市場首席經濟學家Doug Porter表示，加拿大4月就業資料“相當糟糕”。總就業人數下降，商品生產部門所有細分領域均出現就業流失，失業率也進一步上升。自年初以來，加拿大已減少11.1萬個全職崗位。Porter說：“在經濟艱難掙扎、甚至連邁出一步都異常困難的情況下，很難理解市場為何仍在定價今年晚些時候超過一次加息的可能性。”他還表示，加拿大勞動力市場閒置正在擴大。"
-    },
-    {
-      "id": "mkt:019e0814-c11c-7aa7-bba5-dc7648a953f2",
-      "time": "2026-05-08 22:53:58",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "TRUMP PRAISES VIRGINIA COURT RULING STRIKING DOWN DEMS' MAP TRUMP PRAISES VIRGINIA SUPREME COURT RULING"
-    },
-    {
-      "id": "4868884",
-      "time": "2026-05-08 22:53:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普稱讚弗吉尼亞州法院推翻民主黨地圖的裁決。"
-    },
-    {
-      "id": "4868883",
-      "time": "2026-05-08 22:52:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "【切爾諾貝利核禁區發生大火】烏克蘭國家緊急情況局8日說，切爾諾貝利核禁區發生大火，並受大風天氣影響迅速蔓延。截至當天上午，過火面積超過1100公頃。烏國家緊急情況局在社交媒體上發文稱，乾燥天氣、大風和特定區域的地雷隱患極大限制了火災撲救工作，尤其是在某些森林地帶，因存在爆炸物威脅，尚未展開撲救工作。烏內務部在社交媒體上發文稱，截至當地時間8日11時，烏全境尤其是靠近核禁區的基輔州北部輻射值處於正常水平。據烏媒報道，切爾諾貝利核禁區的大火系無人機墜毀後引起。目前烏官方和媒體未說明無人機來源。1986年4月26日，切爾諾貝利核電站4號機組反應堆發生爆炸，造成嚴重事故。隨後，蘇聯宣佈以核電站為中心，將方圓30公里的區域劃為核禁區。（新華社）"
-    },
-    {
-      "id": "4868882",
-      "time": "2026-05-08 22:51:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統助理烏沙科夫：哈薩克和烏茲別克總統將赴莫斯科出席勝利日慶祝活動。"
-    },
-    {
-      "id": "4868881",
-      "time": "2026-05-08 22:51:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列軍方表示，在遭到黎巴嫩方面炮擊後，以色列北部多座城市已拉響防空警報，目前以色列與黎巴嫩真主黨仍處於脆弱的停火狀態。"
-    },
-    {
-      "id": "4868880",
-      "time": "2026-05-08 22:51:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "黎巴嫩真主黨表示，儘管雙方仍處於停火狀態，其已向以色列北部一處軍事基地發射導彈，以報復以色列對黎巴嫩南部及貝魯特南郊的襲擊。"
-    },
-    {
-      "id": "4868879",
-      "time": "2026-05-08 22:48:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列赫爾佐格總統在哥斯大黎加會見智利總統時表示：我們探討了兩國關係恢復至歷史巔峰水平的重要契機。"
     }
   ]
 }
