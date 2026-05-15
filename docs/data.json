@@ -1,7 +1,121 @@
 {
-  "updated": "2026-05-15 23:44:23",
-  "count": 15512,
+  "updated": "2026-05-15 23:47:47",
+  "count": 15521,
   "items": [
+    {
+      "id": "4882638",
+      "time": "2026-05-15 23:46:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽確認法國航空評級機構評級為“A+”，展望穩定。"
+    },
+    {
+      "id": "te:markets:551250",
+      "time": "2026-05-15 23:46:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Deere & Company Stock Price Hits 6-week Low — Deere & Company shares decreased to 557.74 USD, the lowest since April 2026. Over the past 4 weeks, Deere & Company lost 4.44%, and in the last 12 months, it increased 5.04%."
+    },
+    {
+      "id": "mkt:019e2c51-9425-7663-82fa-0b019188d952",
+      "time": "2026-05-15 23:46:42",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "ICE U.K. NAT GAS JUNE FUTURES SETTLE AT 123.66 PENCE/THERM"
+    },
+    {
+      "id": "4882637",
+      "time": "2026-05-15 23:46:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所英國 6 月天然氣期貨結算價報 123.66 便士 / 熱量單位。"
+    },
+    {
+      "id": "4882636",
+      "time": "2026-05-15 23:46:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【樂道L80車型正式上市】5月15日晚，樂道L80正式上市，提供Pro、Max+和Ultra+三個版型，整車購買24.28萬元起，BaaS電池租用方式購買15.68萬元起。"
+    },
+    {
+      "id": "te:economy:551249",
+      "time": "2026-05-15 23:46:07",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Peru",
+        "Monthly GDP YoY",
+        "Importance 1"
+      ],
+      "text": "Peru's Economy Expands Beyond Forecasts in March — Peru’s economy grew 3.21% year-on-year in March 2026, beating forecasts of 2.2% but easing from 3.68% growth in February. The expansion was driven by strong performances in construction (15.65%), trade (4.13%), other services (3.98%), and manufacturing (3.60%). Additional support came from public administration and defense (4.40%), accommodation and restaurants (4.94%), business services (3.49%), transportation (1.77%), telecommunications (1.08%), and utilities (1.33%). In contrast, mining and hydrocarbons contracted 4.56%, while fishing (-12.51%), financial services (-0.79%), and agriculture (-0.48%) also posted declines. Peru’s economy expanded 3.53% in the January-March period and grew 3.40% over the twelve months through March 2026."
+    },
+    {
+      "id": "mkt:019e2c50-c36c-7663-82fa-025c570dc551",
+      "time": "2026-05-15 23:45:35",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "US 5-YEAR TREASURY YIELDS RISE 10 BASIS POINTS ON DAY TO 4.25%"
+    },
+    {
+      "id": "4882635",
+      "time": "2026-05-15 23:45:34",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國5年期國債收益率日內上漲10個基點至4.25%。"
+    },
+    {
+      "id": "4882634",
+      "time": "2026-05-15 23:44:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "【汽車與AI提振美國製造業產量，戰爭引發的供應短缺隱憂浮現】在汽車行業及人工智慧（AI）支出熱潮帶來的科技產品需求推動下，美國4月製造業產出增長0.6%，為2025年2月以來最大升幅；4月工廠產量同比增長1.3%。汽車及零部件產出飆升3.7%，高技術產業產出增長1.0%——其中計算機及外圍裝置連續第二個月增長1.5%、半導體及相關電子元件增長1.0%。然而，與伊朗戰爭導致的供應中斷為製造業前景蒙上了一層陰影。"
+    },
+    {
+      "id": "mkt:019e2c50-431d-7663-82f9-fd38a6612594",
+      "time": "2026-05-15 23:44:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "FDA DRUG CENTER HEAD TRACY BETH HOEG EXPECTED TO LEAVE AGENCY -SOURCES"
+    },
+    {
+      "id": "mkt:019e2c4f-def3-7663-82f9-f3299a0a0b89",
+      "time": "2026-05-15 23:44:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SAUDI CROWN PRINCE, QATAR EMIR DISCUSS REGION IN CALL: SPA"
+    },
+    {
+      "id": "mkt:019e2c4f-90c9-7663-82f9-eb6764f81c31",
+      "time": "2026-05-15 23:43:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ACCORDING TO TRUMP, THE TWO LEADERS COULD MEET THREE MORE TIMES THIS YEAR - SCMP"
+    },
     {
       "id": "4882633",
       "time": "2026-05-15 23:43:55",
@@ -139854,35 +139968,6 @@
         "國際"
       ],
       "text": "美國國務卿魯比奧：只有愚蠢的國家在遭受攻擊時不予以反擊，而我們並不是愚蠢的國家。 紅線已然明確：一旦伊朗船隻對美方人員構成威脅，就將遭到摧毀。"
-    },
-    {
-      "id": "mkt:019e0845-be66-7aa7-bba6-fb5e0551d047",
-      "time": "2026-05-08 23:47:28",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "PERSIAN GULF CLASHES HAVE CEASED, SITUATION CALM NOW: TASNIM"
-    },
-    {
-      "id": "4868945",
-      "time": "2026-05-08 23:46:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國官員：卡達是美伊之間就結束戰爭進行談判的“關鍵秘密渠道”】據美國媒體8日報道，美國副總統萬斯當天上午在白宮會見卡達首相兼外交大臣穆罕默德，討論與伊朗談判事宜。美國阿克西奧斯新聞網站報道稱，一名美國官員表示，卡達是美伊之間就結束戰爭進行談判的“關鍵秘密渠道”。（新華社）"
-    },
-    {
-      "id": "4868944",
-      "time": "2026-05-08 23:45:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美媒稱萬斯會見卡達首相 討論與伊朗談判事宜】美國副總統萬斯當天上午在白宮會見卡達首相兼外交大臣穆罕默德，討論與伊朗談判事宜。美國阿克西奧斯新聞網站報道稱，一名美國官員表示，卡達是美伊之間就結束戰爭進行談判的“關鍵秘密渠道”。（新華社）"
     }
   ]
 }
