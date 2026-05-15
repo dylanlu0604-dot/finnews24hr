@@ -1,7 +1,53 @@
 {
-  "updated": "2026-05-15 23:47:47",
-  "count": 15521,
+  "updated": "2026-05-15 23:51:14",
+  "count": 15516,
   "items": [
+    {
+      "id": "4882642",
+      "time": "2026-05-15 23:50:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "據港交所檔案：格林晟遞交香港上市申請。"
+    },
+    {
+      "id": "4882641",
+      "time": "2026-05-15 23:50:22",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國工商界代表：期待深化對華合作】5月13日至15日，美國總統特朗普訪華期間，作為美國工商界代表的高通公司、波音公司、嘉吉公司高管紛紛來到中國貿促會，就拓展科技、航空、農業等領域經貿合作進行交流。 高通公司總裁兼執行長克里斯蒂亞諾·安蒙表示，中國經濟活力充沛，高通在不斷拓展同中國合作的同時，也欣喜地看到中國人工智慧在工業生產、行動通訊、汽車駕駛等領域取得的發展成果，這些都蘊藏著巨大機遇和廣闊前景。 波音公司高階副總裁、波音全球集團總裁布蘭登·納爾遜表示，中國的發展以及美中之間的合作，有利於美國，也有利於世界。“波音公司樂見中國人民透過我們的飛機與朋友相聚、開展商務活動，推動中國文化走向世界，與世界文化相互交融。” 作為全球糧商巨頭，嘉吉已經進入中國市場50多年。嘉吉公司董事會主席兼執行長尚博遠表示，中國高水平對外開放正為世界帶來更多機遇，期待與中國在農業等多領域繼續同行，希望美中合作關係繼續保持。 這些美國工商界人士高度讚賞中國創新發展態勢和超大規模市場優勢，期待兩國加強對話溝通，拓展共同利益，實現共同繁榮。 中國貿促會會長任鴻斌表示，此次中美元首會晤為兩國工商界進一步深化經貿投資合作創造了良好環境，這不僅惠及中美長遠發展，更對全球經濟格局產生深遠影響。在兩國元首的戰略引領下，中國貿促會將繼續發揮職能優勢，推動中美工商界進一步深化交流合作。（新華社）"
+    },
+    {
+      "id": "4882640",
+      "time": "2026-05-15 23:49:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "明晟公司MSCI北歐國家指數跌0.3%，報380.19點。在十個板塊中，北歐工業板塊跌幅最大。Verisure Plc.跌8.3%，在一眾北歐個股裡表現最差。"
+    },
+    {
+      "id": "4882639",
+      "time": "2026-05-15 23:49:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍：在過去一週，以軍在黎巴嫩南部多個地區打擊了超過440個真主黨目標。"
+    },
+    {
+      "id": "mkt:019e2c52-b67b-7663-82fa-10625c2fe6d1",
+      "time": "2026-05-15 23:47:58",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "【 Xi to Make First US State Visit in Over a Decade as Leaders Plan Multiple Meetings in 2026】Chinese Foreign Minister Wang Yi confirmed Xi Jinping will visit the US this autumn, marking his first state visit in more than a decade, at the invitation of President Donald Trump. Trump said the two leaders could meet three more times this year and noted Xi invited him to APEC in Shenzhen in November and expressed interest in attending the G20 summit in Miami in December. Both sides agreed to maintain communication on arrangements for further interactions, while emphasizing continued head-of-state diplomacy amid unresolved strategic and trade tensions."
+    },
     {
       "id": "4882638",
       "time": "2026-05-15 23:46:57",
@@ -139871,103 +139917,6 @@
         "國際"
       ],
       "text": "訊息人士透露，親近美國衛生部長肯尼迪的衛生官員已探討禁用部分常用抗抑鬱藥物的相關事宜。"
-    },
-    {
-      "id": "mkt:019e0848-efa6-7aa7-bba7-1944f439480b",
-      "time": "2026-05-08 23:50:58",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "ICE GASOIL MAY FUTURES SETTLE AT $1,192.00 A TON"
-    },
-    {
-      "id": "mkt:019e0848-de97-7aa7-bba7-1555563aff18",
-      "time": "2026-05-08 23:50:53",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "IRAN'S TASNIM CITING IRANIAN MILITARY SOURCE: SITUATION CALM NOW IN THE GULF BUT IF AMERICANS TRY TO ENTER THE GULF AGAIN AND CAUSE TROUBLE FOR IRANIAN VESSELS, THERE IS CHANCE OF CLASHES"
-    },
-    {
-      "id": "4868951",
-      "time": "2026-05-08 23:50:14",
-      "tags": [
-        "市場"
-      ],
-      "text": "【義大利、希臘國債收益率本週至少跌超12個基點】週五（5月8日）歐市尾盤，法國10年期國債收益率跌0.5個基點，報3.622%，本週累計下跌7.0個基點，整體交投於3.767%-3.576%，週三歐市早盤顯著走低。兩年期法債收益率漲0.7個基點，報2.742%，本週累跌5.0個基點；30年期法債收益率跌0.2個基點，報4.492%，本週累跌2.7個基點。義大利10年期國債收益率跌1.1個基點，報3.729%，本週累跌13.1個基點。西班牙10年期國債收益率跌0.6個基點，報3.422%，本週累跌7.4個基點。希臘10年期國債收益率跌1.2個基點，報3.689%，本週累跌12.2個基點。"
-    },
-    {
-      "id": "mkt:019e0847-f5e2-7aa7-bba7-0d4fb34b4605",
-      "time": "2026-05-08 23:49:54",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "TASNIM CITES MILITARY SOURCE ON CURRENT PERSIAN GULF SITUATION"
-    },
-    {
-      "id": "4868950",
-      "time": "2026-05-08 23:49:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗塔斯尼姆通訊社： 若美國試圖攔截伊朗船隻，伊朗將作出回應。"
-    },
-    {
-      "id": "mkt:019e0847-b842-7aa7-bba7-040a044d11a2",
-      "time": "2026-05-08 23:49:38",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "IRAN TO RESPOND IF US TRIES TO INTERFERE WITH ITS SHIPS: TASNIM"
-    },
-    {
-      "id": "4868949",
-      "time": "2026-05-08 23:48:56",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "【聖陽股份：目前沒有介入光通訊業務及重組相關公司計劃】聖陽股份在互動平臺表示，截至目前，公司沒有介入光通訊/光晶片/CPO等業務的規劃，也無重組該型別公司的相關計劃。"
-    },
-    {
-      "id": "4868948",
-      "time": "2026-05-08 23:48:05",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗塔斯尼姆通訊社：波斯灣衝突已平息，局勢趨於平靜。"
-    },
-    {
-      "id": "4868947",
-      "time": "2026-05-08 23:48:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "【波札那前總統莫哈埃去世】波札那總統博科8日發表全國電視講話說，博前總統費斯圖斯·莫哈埃當天去世，享年86歲。博科稱讚莫哈埃是“一位傑出的政治家，光榮、正直、勤勉地為國家服務，推行紀律與良政”。他宣佈波札那將舉行為期3天的全國哀悼活動。莫哈埃1939年8月出生於波札那塞羅韋，1998年至2008年任波札那總統。（新華社）"
-    },
-    {
-      "id": "4868946",
-      "time": "2026-05-08 23:47:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：只有愚蠢的國家在遭受攻擊時不予以反擊，而我們並不是愚蠢的國家。 紅線已然明確：一旦伊朗船隻對美方人員構成威脅，就將遭到摧毀。"
     }
   ]
 }
