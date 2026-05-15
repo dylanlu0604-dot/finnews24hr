@@ -1,7 +1,36 @@
 {
-  "updated": "2026-05-15 15:10:01",
-  "count": 15393,
+  "updated": "2026-05-15 15:13:30",
+  "count": 15394,
   "items": [
+    {
+      "id": "4881504",
+      "time": "2026-05-15 15:13:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達170億港元。"
+    },
+    {
+      "id": "te:economy:551044",
+      "time": "2026-05-15 15:12:43",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Lithuania",
+        "Current Account",
+        "Importance 1"
+      ],
+      "text": "Lithuania Current Account Surplus at 18-Month High — Lithuania’s current account surplus widened sharply to EUR 497.20 million in March 2026, up from EUR 62.01 million in the same month of the previous year. This marked the largest surplus since September 2024, driven by an expansion in the services account surplus, which rose to EUR 967.42 million from EUR 916.29 million, and an increase in the secondary income surplus to EUR 169.96 million from EUR 40.11 million in March 2025. Additionally, the goods account deficit narrowed to EUR 562.20 million from EUR 755.88 million, while the primary income deficit also decreased significantly to EUR 77.98 million from EUR 138.51 million."
+    },
+    {
+      "id": "4881501",
+      "time": "2026-05-15 15:10:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【巴西取消50美元及以下進口商品聯邦稅，跨境電商迎來利好】最新訊息，巴西總統盧拉於5月12日簽署行政令，對價格50美元及以下進口商品取消徵收聯邦稅。業內認為，此舉將進一步降低跨境購物成本，釋放當地消費需求，也有望為Shopee等在巴西開展業務的跨境電商平臺帶來更多增長機會。作為拉美最大的電商市場之一，巴西擁有超過2億人口，成為近年來跨境佈局的熱門選擇。"
+    },
     {
       "id": "4881500",
       "time": "2026-05-15 15:09:38",
@@ -138868,29 +138897,6 @@
         "XAUUSD"
       ],
       "text": "CHINA FOREIGN MINISTRY, ON CHINESE TANKER ATTACKED: THERE ARE CHINESE ABOARD THE VESSEL BUT NO REPORTED CREW CASUALTIES SO FAR"
-    },
-    {
-      "id": "te:economy:549111",
-      "time": "2026-05-08 15:13:00",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Non Farm Payrolls",
-        "Importance 3"
-      ],
-      "text": "US Job Growth Seen Slowing in April — The US economy likely added 62K jobs in April 2026, following a 178K increase in March, which marked the strongest payroll gain since December 2024. While the figure would point to a moderation in hiring, it would also mark the first back-to-back monthly increase in employment in nearly a year, reinforcing signs that the US labor market is gradually cooling while remaining broadly resilient. Healthcare and social assistance likely continued to drive job creation, while manufacturing payrolls are expected to post another increase. Government employment, however, probably declined. The report is also expected to show the unemployment rate holding steady at 4.3%. Average hourly earnings likely rose 0.3% mom, slightly above March’s 0.2% increase. On an annual basis, wage growth is projected to accelerate to 3.8% from 3.5%. Analysts also note that it is still too early for any potential economic effects from the US-Israeli conflict with Iran to be reflected in the labor market data."
-    },
-    {
-      "id": "te:markets:549109",
-      "time": "2026-05-08 15:10:48",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "UK Natgas Prices Rebound from 2-Week Low — UK natural gas futures rose to 108.5 pence per therm, recovering from a two-week low as prospects for peace in the Middle East remained uncertain amid renewed tensions. The US military launched strikes on Iranian military targets on Thursday in response to attacks on its three destroyers in the Strait of Hormuz. Meanwhile, President Trump said the ceasefire remains in place despite the strikes, while Iranian TV reported that the situation is “back to normal,” providing some relief. These developments come as the US seeks to de-escalate tensions, while also awaiting Iran’s response to a proposal to reopen the strategic waterway. The near-closure of the strait has disrupted around one-fifth of global LNG supply, with the route facing restrictions from both sides. Although most gas from the Persian Gulf goes to Asia, the disruption has tightened global supply and intensified competition, fueling concerns in Europe as the region needs to replenish inventories before next winter."
     }
   ]
 }
