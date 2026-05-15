@@ -1,7 +1,165 @@
 {
-  "updated": "2026-05-15 15:03:05",
-  "count": 15369,
+  "updated": "2026-05-15 15:06:33",
+  "count": 15385,
   "items": [
+    {
+      "id": "4881489",
+      "time": "2026-05-15 15:06:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "意法半導體米蘭上市股價早盤下跌4.7%。"
+    },
+    {
+      "id": "4881488",
+      "time": "2026-05-15 15:06:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：俄羅斯外長拉夫羅夫在金磚國家會議後召開新聞釋出會。"
+    },
+    {
+      "id": "4881487",
+      "time": "2026-05-15 15:06:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天奧電子：公司原子鐘產品已與聯通等電信運營商合作】天奧電子5月15日在互動平臺表示，公司的原子鐘類產品已與聯通等電信運營商合作。"
+    },
+    {
+      "id": "mkt:019e2a75-14f8-7bb5-b4d8-17cada48326f",
+      "time": "2026-05-15 15:05:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Top Crypto Stories of PAST 24 Hours - MKTNews】 Crypto / Regulation - Senate Banking Committee advances landmark crypto market structure bill with some Democratic support. - Crypto industry cheers progress of the Clarity Act, though ethics concerns remain ahead of the next vote. - GSR legal chief says chances of Clarity Act passage remain below 50%. - Bank of England set to ease sterling stablecoin rules amid industry concerns. - CFTC issues blanket no-action letter on prediction markets, easing swap data reporting duties. Bitcoin / ETFs / Markets - Bitwise Hyperliquid ETF to begin trading on NYSE Friday. - Bitcoin ETFs record $630M in outflows as treasury demand weakens. - JPMorgan says ether and altcoins may continue underperforming bitcoin without stronger activity. - CME sets June 8 launch for Nasdaq-backed crypto index futures covering seven assets. - David Bailey’s Nakamoto reports $239M Q1 loss as bitcoin treasury value declines. Exchanges / Institutional - Hana Bank acquires $670M stake in Upbit parent Dunamu. - Trump disclosure shows Coinbase, Strategy and MARA purchases in Q1. - Gemini shares surge after reporting 42% revenue growth. - Bullish reports $604.9M Q1 net loss despite adjusted growth. - BitGo doubles revenue to $3.8B while net loss widens in Q1. - Coinbase becomes Hyperliquid’s official USDC treasury deployer as USDH sunsets. DeFi / Stablecoins / Infrastructure - Chainlink CCIP surpasses $2.5B TVL as protocols migrate from LayerZero. - Tether, TRON and TRM Labs-backed T3 unit freezes more than $450M in illicit crypto assets. - Upshift launches vault platform for instant RWA redemption liquidity. - CoinList expands into tokenized asset distribution with “Passage.” - Stablecoin backers increasingly view incentives as inevitable under the Clarity Act framework. Industry / AI / Security - CertiK CEO warns DeFi attackers are using AI to outspend defenders. - Crypto data platform Dune cuts 25% of staff citing AI efficiencies. - ZachXBT alleges 95% insider control of LAB token tied to AI terminal project. Corporate / Strategy - Strive shares jump after adopting “daily dividend company” strategy and eliminating debt. - Sharplink CEO says ETH treasury firms are diverging from Strategy’s bitcoin model as Ethereum tokenization expands."
+    },
+    {
+      "id": "te:markets:551041",
+      "time": "2026-05-15 15:04:25",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Brent Heads for Strong Weekly Gain — Brent crude futures climbed to around $107.5 per barrel on Friday and were on track for gains of more than 6% for the week, as risks in the Strait of Hormuz persisted amid stalled US-Iran peace talks. President Trump on Thursday warned Iran to make a deal or face “annihilation,” saying his patience with Tehran was running out. His remarks came even as Iran said that around 30 vessels had passed the Strait. The US and Iran failed to agree to a US-drafted peace proposal earlier this week, leaving the key waterway largely closed. Hopes for a durable ceasefire also faded. Meanwhile, the IEA reported that crude and fuel flows through the Strait dropped by around 4 million bpd in March and April, warning that the global oil market could stay materially undersupplied through October even if the conflict is resolved next month. Separately, Trump said China wants to buy oil from the US amid persistent challenges in reopening the strait, with ship attacks and seizures reported this week."
+    },
+    {
+      "id": "te:markets:551040",
+      "time": "2026-05-15 15:04:25",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Oil Heads for Strong Weekly Gain — WTI crude futures rose above $103 per barrel on Friday and were on track for a weekly gain of more than 6%, as risks in the Strait of Hormuz persisted amid stalled US-Iran peace talks. President Trump on Thursday warned Iran to make a deal or face “annihilation,” saying his patience with Tehran was running out. His remarks came even as Iran said that around 30 vessels had passed the Strait. The US and Iran failed to agree to a US-drafted peace proposal earlier this week, leaving the key waterway largely closed. Hopes for a durable ceasefire also faded. Meanwhile, the IEA reported that crude and fuel flows through the Strait dropped by around 4 million bpd in March and April, warning that the global oil market could stay materially undersupplied through October even if the conflict is resolved next month. Separately, Trump said China wants to buy oil from the US amid persistent challenges in reopening the strait, with ship attacks and seizures reported this week."
+    },
+    {
+      "id": "4881486",
+      "time": "2026-05-15 15:04:13",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【德銀：德國藍籌股創下兩年多來最佳盈利增長】德意志銀行的股票策略師在一份研究報告中表示，德國DAX指數藍籌股公司報告了兩年多來最高的盈利增長率，金融板塊的強勁增長抵消了汽車和工業板塊下滑的影響。德意志銀行表示，與上年同期相比，DAX指數成分股公司第一季度盈利增長了5%。這些策略師表示，金融板塊表現最好，盈利增長了三分之一，而工業和汽車板塊則分別下降了20%和15%。這些策略師補充說，儘管由於中東衝突，分析師正在下調對DAX指數成分股的盈利預期，但平均預期仍預計下半年將有所改善，這部分得益於德國的財政刺激措施。"
+    },
+    {
+      "id": "4881485",
+      "time": "2026-05-15 15:03:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國30年期金邊債券收益率升至5.786%。"
+    },
+    {
+      "id": "4881484",
+      "time": "2026-05-15 15:03:33",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【日元急升急跌走勢令人費解 市場猜測日本或在“鳴槍示警”】日元兌美元匯率每隔幾個交易日就會猛烈彈升，然後又突然下跌。日元最近幾周出現一種反覆上演的異常走勢，引發了投資者和策略師熱議，猜測日本當局是否試圖透過小規模操作來阻止日元進一步走弱。週四，日元兌美元匯率在紐約交易時段短短兩分鐘內一度上漲0.5%，隨後迅速回吐漲幅。週二也出現類似走勢，日元曾急升約0.5%。5月8日，日元也曾短暫上漲0.2%，之後回落。沒人能確切地說出背後的原因，但交易員們認為，這些波動可能表明東京方面對日元疲軟的高度警惕。即使只是市場認為當局可能進場干預，也足以提高做空日元的風險。"
+    },
+    {
+      "id": "4881483",
+      "time": "2026-05-15 15:03:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【《藥品試驗資料保護實施辦法》今日釋出 即日實施】今天（5月15日），新修訂的《藥品管理法實施條例》正式施行。這是條例實施二十多年來，首次全面修訂。國家藥監局表示，條例修訂後從以藥品生產經營企業的管理為中心轉變為以藥品上市許可持有人為中心，強化藥品全生命週期全過程嚴格監管。為了落實新修訂條例的具體要求，國家藥監局今天釋出《藥品試驗資料保護實施辦法》，即日起，創新藥的試驗資料在我國有了“護身符”。（央視新聞）"
+    },
+    {
+      "id": "4881482",
+      "time": "2026-05-15 15:03:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "知情人士稱，今年1月，SpaceX董事會批准方案：若公司估值達7.5萬億美元、並在火星建立100萬人殖民地，馬斯克可獲最高2億股B類股票。"
+    },
+    {
+      "id": "mkt:019e2a74-547a-7bb5-b4d8-0c734451447e",
+      "time": "2026-05-15 15:02:57",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Industrial Metals",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "【China Futures Midday Mostly Lower; Silver Slumps Over 7%】China’s most active futures contracts are mostly lower at the midday break, with SC crude and styrene (EB) up over 2%, while the containerized freight index (Europe route), PX, LPG, eggs and PTA rise over 1%. On the downside, silver tumbles over 7%, platinum falls over 5%, palladium drops over 4%, while No.20 rubber, rubber, soybean No.2 and tin decline over 2%. Butadiene rubber, nickel, cotton and industrial silicon lose over 1%."
+    },
+    {
+      "id": "mkt:019e2a74-1707-7bb5-b4d8-024f31b90d32",
+      "time": "2026-05-15 15:02:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component"
+      ],
+      "text": "A-SHARES CLOSE LOWER: SHANGHAI COMPOSITE INDEX -1.02%, SHENZHEN COMPONENT INDEX -1.17%, CHINEXT -0.56%"
+    },
+    {
+      "id": "4881481",
+      "time": "2026-05-15 15:02:38",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "法國微電子公司Soitec股價下跌6%，領跌法國SBF 120指數。"
+    },
+    {
+      "id": "4881480",
+      "time": "2026-05-15 15:02:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿布扎比媒體辦公室：該輸油管道旨在將阿布扎比國家石油公司（ADNOC）經富查伊拉的出口能力提升一倍，以滿足全球能源供應需求。"
+    },
+    {
+      "id": "4881479",
+      "time": "2026-05-15 15:02:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達150億港元。"
+    },
+    {
+      "id": "4881478",
+      "time": "2026-05-15 15:02:08",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【SpaceX擬史上最大IPO 馬斯克設規則確保不被罷免】SpaceX提出了美國企業史上最激進的公司治理架構之一，旨在確保埃隆・馬斯克無法被解僱，並推出與火星殖民計劃掛鉤、價值達萬億美元的薪酬方案。此前特斯拉薪酬風波、以及未能完全掌控其聯合創辦的OpenAI後，馬斯克正為SpaceX鎖定一套能保護其不受挑戰的治理架構。 紐約與加州公共養老基金負責人本週致信SpaceX，對其所謂“美國公開市場史上同等規模下最偏袒管理層的治理結構”表示“嚴重關切”。 據知情人士透露，在上月提交給美國證監會的保密S-1檔案中，馬斯克將控制B類股票的絕對多數，每股投票權為普通股的10倍。 知情人士稱，披露檔案顯示，這位全球首富已持有該2002年創辦公司至少40%股份、超過80%投票權。 馬斯克將同時擔任SpaceX執行長、九人董事會主席。被普遍視為其務實得力搭檔的格溫妮・肖特韋爾將繼續擔任總裁兼營運長。 招股書警示潛在投資者：馬斯克僅能由B類股東罷免；只要持股不變，他將“持續控制董事選舉與罷免”，這“將限制或排除你影響公司事務的能力”。"
+    },
     {
       "id": "4881477",
       "time": "2026-05-15 15:02:00",
@@ -17,6 +175,19 @@
         "國際"
       ],
       "text": "俄羅斯國防部報告稱，從俘虜中返回的俄羅斯軍人目前在白俄羅斯，他們正在接受援助。"
+    },
+    {
+      "id": "mkt:019e2a72-b8b0-7bb5-b4d7-ffa30f2e2b9d",
+      "time": "2026-05-15 15:01:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish"
+      ],
+      "text": "SHANGHAI COMPOSITE FALLS 1.1% THIS WEEK, ENDING A FIVE-WEEK WINNING STREAK"
     },
     {
       "id": "4881475",
@@ -138659,28 +138830,6 @@
         "Importance 1"
       ],
       "text": "Swiss Consumer Morale Better than Expected — Switzerland’s consumer sentiment index rose to -40 in April 2026, beating market expectations of -46 and improving slightly from -42 a year earlier. The increase was driven mainly by stronger views on the expected economic outlook, with that sub index improving to -58 from -67 in April 2025. Consumers also reported a slightly better assessment of their past financial situation compared with a year ago. Expectations for future personal finances were broadly unchanged, while the indicator measuring willingness to make major purchases remained weak despite a modest improvement from last year. Overall, sentiment stayed deeply negative, reflecting continued caution among Swiss households despite some improvement in economic expectations."
-    },
-    {
-      "id": "mkt:019e0667-f83f-7113-a191-86f40e3ed10c",
-      "time": "2026-05-08 15:05:37",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "CHINA FOREIGN MINISTRY: BRUNEI CROWN PRINCE WILL VISIT CHINA MAY 11-15"
-    },
-    {
-      "id": "te:markets:549105",
-      "time": "2026-05-08 15:04:39",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Japanese Post Strong Weekly Gains — The Nikkei 225 Index slipped 0.19% to close at 62,713, while the broader Topix Index fell 0.29% to 3,829 on Friday, paring gains from the previous session as renewed fighting between the US and Iran in the Strait of Hormuz weighed on sentiment and revived geopolitical concerns. Still, the Nikkei and Topix indexes advanced 5.38% and 2.7%, respectively, for the week, supported by an earlier rally in tech and AI-linked stocks. In corporate developments, Sony announced plans to repurchase up to ¥500 billion worth of its shares and projected an 11% increase in operating profit for the fiscal year ending March 2027, driven by solid growth in its music and smartphone image sensor businesses. Meanwhile, Nintendo said it will raise the retail price of the Switch 2 after forecasting weaker sales for its flagship console amid the ongoing memory chip shortage. Elsewhere, Toyota reported a 49% decline in fourth-quarter operating profit as US tariffs weighed on earnings."
     }
   ]
 }
