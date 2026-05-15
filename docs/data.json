@@ -1,7 +1,75 @@
 {
-  "updated": "2026-05-16 02:55:27",
-  "count": 15601,
+  "updated": "2026-05-16 02:59:08",
+  "count": 15605,
   "items": [
+    {
+      "id": "4882844",
+      "time": "2026-05-16 02:58:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "本週，韓元兌美元累計下跌2.47%，週五（5月15日）報1497.63韓元，整體持續走低。"
+    },
+    {
+      "id": "4882843",
+      "time": "2026-05-16 02:58:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列駐美國大使：與黎巴嫩的和平談判是坦誠和富有成效的。"
+    },
+    {
+      "id": "4882842",
+      "time": "2026-05-16 02:58:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "敘利亞任命薩瓦特·拉斯蘭出任中央銀行行長。"
+    },
+    {
+      "id": "mkt:019e2d00-e64f-7663-82fb-cdf625557a75",
+      "time": "2026-05-16 02:58:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SYRIA APPOINTS SAFWAT RASLAN AS CENTRAL BANK GOVERNOR -STATE NEWS AGENCY"
+    },
+    {
+      "id": "4882841",
+      "time": "2026-05-16 02:57:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "巴西石油公司執行長：企業在鹽下油田領域迎來全新發展機遇。"
+    },
+    {
+      "id": "4882840",
+      "time": "2026-05-16 02:57:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所 7 月布倫特原油期貨結算價報每桶 109.26 美元。"
+    },
+    {
+      "id": "4882839",
+      "time": "2026-05-16 02:56:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "AST 太空移動跌幅收窄至 0.2%，此前一度大跌 7.1%。"
+    },
+    {
+      "id": "te:economy:551293",
+      "time": "2026-05-16 02:56:20",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "US 10 Year Note Bond Yield traded above 4.6 percent — US 10 Year Note Bond Yield rose above 4.6, according to over-the-counter interbank yield quotes for this government bond maturity."
+    },
     {
       "id": "4882835",
       "time": "2026-05-16 02:53:24",
@@ -140585,40 +140653,6 @@
         "市場"
       ],
       "text": "恒指期貨夜盤收跌0.11%，報26126.95點，低水266.76點。"
-    },
-    {
-      "id": "mkt:019e08f5-104d-7222-b4aa-16467166613b",
-      "time": "2026-05-09 02:58:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "AI CHIPMAKER CEREBRAS SAID TO PLAN IPO PRICE INCREASE MONDAY CEREBRAS IS SAID TO EXPECT IPO PRICE RANGE OF $125-$135/SHARE"
-    },
-    {
-      "id": "4869059",
-      "time": "2026-05-09 02:58:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "AI 晶片廠商 Cerebras 據悉計劃於週一上調 IPO 發行價。"
-    },
-    {
-      "id": "mkt:019e08f2-d221-7222-b4aa-0bdbb163b0ce",
-      "time": "2026-05-09 02:56:31",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "WORLD HEALTH ORGANIZATION CHIEF TO TRAVEL TO CANARY ISLANDS FOR HANTAVIRUS RESPONSE EFFORTS"
-    },
-    {
-      "id": "4869053",
-      "time": "2026-05-09 02:56:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "世界衛生組織總幹事將前往加那利群島，推進漢坦病毒防疫應對工作。"
     }
   ]
 }
