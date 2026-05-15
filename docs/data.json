@@ -1,7 +1,126 @@
 {
-  "updated": "2026-05-15 10:02:49",
-  "count": 15260,
+  "updated": "2026-05-15 10:06:19",
+  "count": 15256,
   "items": [
+    {
+      "id": "te:markets:550915",
+      "time": "2026-05-15 10:05:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Palladium Hits 5-week Low — Palladium futures slipped below $1,450 per ounce, touching their lowest level in five weeks amid a broader selloff across precious metal markets. The decline came as rising US inflation, fueled by escalating geopolitical tensions and higher energy prices, strengthened expectations that the Fed will keep interest rates elevated for longer. Producer prices recorded their fastest annual increase since 2022 in April, while consumer inflation posted its strongest rise since 2023. The stronger inflation outlook lifted the dollar and drove 10-year Treasury yields higher, reducing the appeal of non-yielding assets. Despite the recent pullback, supply conditions remain relatively tight. Production disruptions in South Africa and continued uncertainty surrounding Russian exports, still affected by sanctions and shifting trade routes, have kept the market sensitive to supply-side risks. Palladium has declined 8.54% over the past four weeks, though prices remain up 50.36% compared with a year ago."
+    },
+    {
+      "id": "mkt:019e2961-1ca5-7bb5-b4d5-08b6f310398e",
+      "time": "2026-05-15 10:04:50",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "【Alphabet Sells Biggest Yen Bond on Record by Foreign Issuer】Alphabet Inc. sold ¥576.5 billion ($3.6 billion) of bonds in the largest-ever yen deal by a non-Japanese company, as competition to fund data centers and AI infrastructure intensifies. The offering included ¥200.5 billion of five-year bonds priced at 50 basis points over mid-swaps. The sale is part of nearly $60 billion in recent borrowing by Alphabet and reflects rising demand for yen bonds from global firms amid AI-driven capital spending, with non-Japanese yen issuance up more than 280% this year."
+    },
+    {
+      "id": "4881035",
+      "time": "2026-05-15 10:04:48",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本40年期國債收益率上升5個基點至4.2%。"
+    },
+    {
+      "id": "4881034",
+      "time": "2026-05-15 10:04:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【原貴州水城礦業（集團）有限責任公司副總經理張思明接受審查調查】中央紀委國家監委網站5月15日通報，據貴州省紀委監委訊息：原貴州水城礦業（集團）有限責任公司副總經理張思明涉嫌嚴重違紀違法，目前正接受貴州省紀委監委紀律審查和監察調查。"
+    },
+    {
+      "id": "mkt:019e2960-b402-7bb5-b4d5-03ca06add5ad",
+      "time": "2026-05-15 10:04:23",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "GOOGL.O",
+        "Impact bullish"
+      ],
+      "text": "MOODY'S RATINGS ASSIGNS AA2 RATING TO ALPHABET'S NEW SENIOR UNSECURED NOTES; OUTLOOK REMAINS STABLE"
+    },
+    {
+      "id": "te:markets:550914",
+      "time": "2026-05-15 10:04:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "US Natgas Prices Hit 7-Week High — US natural gas futures climbed to $2.93 per MMBtu, reaching a seven-week high, following an in-line storage injection and a continued decline in output. The EIA reported an injection of 85 bcf of gas into storage for the week ended May 8, matching forecasts, below the 109 bcf build a year earlier and close to the five-year average increase of 84 bcf. On the supply side, production continued to fall as some energy companies, such as EQT, scaled back activity in response to persistently weak spot prices, with daily production dropping to a 15-week low. Meanwhile, flows to major US export facilities eased from a monthly record of 18.8 bcfd in April to around 17.0 bcfd so far in May, with daily volumes slipping to a 15-week low amid seasonal maintenance at plants including Golden Pass and Freeport LNG. Weather forecasts point to mostly normal conditions through late May, limiting near-term upside demand from cooling needs."
+    },
+    {
+      "id": "4881033",
+      "time": "2026-05-15 10:03:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐西蘭元兌美元下跌0.5%，報0.58825美元。澳元下跌0.5%，報0.7186美元。"
+    },
+    {
+      "id": "mkt:019e2960-1e44-7bb5-b4d4-ffbfb07f5f7a",
+      "time": "2026-05-15 10:03:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "HSI",
+        "Impact bearish",
+        "N225",
+        "S&P500"
+      ],
+      "text": "SOUTH KOREA’S KOSPI INDEX EXTENDS LOSSES TO 3%, LAST AT 7,739.57"
+    },
+    {
+      "id": "4881032",
+      "time": "2026-05-15 10:03:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內跌幅達1.00%，成分股中，連城數控跌5.80%，天馬新材跌5.32%，國航遠洋跌5.07%，民士達跌2.88%。"
+    },
+    {
+      "id": "te:markets:550913",
+      "time": "2026-05-15 10:03:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Dollar Set for Strong Weekly Advance — The dollar index climbed to around 99 on Friday and was on track to post a weekly gain of more than 1%, supported by mounting inflationary pressures that strengthened expectations for a Federal Reserve rate hike later this year. Data released earlier in the week showed US wholesale inflation accelerated at its fastest pace since 2022 in April, while consumer prices recorded their biggest increase since 2023 amid renewed price pressures stemming from the energy shock linked to the Iran conflict. Retail sales growth slowed as anticipated but continued to point to resilient consumer demand. Markets have now fully ruled out the possibility of a Fed rate cut this year, with some traders increasingly pricing in a potential rate hike by December. Meanwhile, investors remained focused on the second day of high-level talks between President Donald Trump and Chinese President Xi Jinping, after Xi warned that Taiwan could become a source of “clashes” between the world’s two largest economies."
+    },
+    {
+      "id": "4881031",
+      "time": "2026-05-15 10:02:42",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "【美批准向10家中國企業出售H200晶片】據多家外媒報道，美國商務部已批准向阿里巴巴、騰訊、位元組跳動、京東等10家中國公司出口英偉達H200晶片。據知情人士透露，每個買家最多可購買75000顆晶片。不過，儘管出售計劃獲得批准，但至今雙方未達成任何交易。（科技日報）"
+    },
     {
       "id": "4881030",
       "time": "2026-05-15 10:02:34",
@@ -137617,148 +137736,6 @@
         "其他"
       ],
       "text": "【錢江摩托：從未以任何形式針對張雪機車及行業友商實施供應鏈封鎖，經銷商圍剿等不正當競爭行為】5月8日，錢江摩托釋出宣告稱，錢江摩托深耕行業數十載，始終堅守合規經營，良性競爭發展原則，專注產品研發，技術創新與使用者服務，從未以任何形式針對張雪機車及行業友商實施供應鏈封鎖，經銷商圍剿等不正當競爭行為。"
-    },
-    {
-      "id": "mkt:019e0555-ea30-7775-8cbc-b147615b50f8",
-      "time": "2026-05-08 10:06:16",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "SZSE Component"
-      ],
-      "text": "TURNOVER ON SSE AND SZSE EXCEEDED 1TN YUAN, DOWN 60BN YUAN FROM SAME TIME PREVIOUS SESSION"
-    },
-    {
-      "id": "4867478",
-      "time": "2026-05-08 10:06:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "【商業航天板塊震盪上揚，電科藍天漲超10%】商業航天板塊震盪上揚，電科藍天漲超10%，航天長峰漲超6%，烽火通訊、凌雲股份、春暉智控紛紛上揚。"
-    },
-    {
-      "id": "4867477",
-      "time": "2026-05-08 10:05:35",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "北證50日內漲幅達1.04%，成分股中，戈碧迦漲13.64%，國子軟體漲10.93%，艾融軟體漲3.88%，則成電子漲3.79%。"
-    },
-    {
-      "id": "te:markets:548986",
-      "time": "2026-05-08 10:05:33",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Hong Kong",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Hong Kong Stocks Slide as US-Iran Conflict Escalates — The Hang Seng Index fell by 280 points, or 1.1%, to around 26,340 on Friday, reversing gains from the previous sessions as renewed tensions in the Middle East dampened investor sentiment. The US and Iran exchanged fire in the Strait of Hormuz, with both sides accusing each other of initiating the attack, raising fears of further escalation in the region and potential disruption to global energy shipping routes. Locally, a risk-off tone was evident across sectors, as investors engaged in profit-taking and scaled back exposure to equities. However, Hong Kong Exchanges and Clearing proposed reviving gold futures as part of efforts to enhance risk-management tools amid geopolitical uncertainty and increased demand for hedging instruments. Notable laggards included Tencent Holdings (-1.3%), AIA Group (-1.5%), SMIC (-3.1%), Xiaomi (-0.3%), and Sun Hung Kai Properties (-2.0%)."
-    },
-    {
-      "id": "mkt:019e0555-3277-7775-8cbc-a94976a20a5c",
-      "time": "2026-05-08 10:05:29",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "SPOT GOLD RISES OVER 1% TO $4,732.59/OZ"
-    },
-    {
-      "id": "4867476",
-      "time": "2026-05-08 10:05:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨黃金漲幅超1%，報每盎司4732.59美元。"
-    },
-    {
-      "id": "mkt:019e0555-025b-7775-8cbc-a0ce202b1606",
-      "time": "2026-05-08 10:05:17",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "TRUMP TO DELIVER REMARKS AT ROSE GARDEN ON FRIDAY NOON - WHITE HOUSE"
-    },
-    {
-      "id": "te:markets:548985",
-      "time": "2026-05-08 10:05:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "South Korea",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "South Korean Won Weakens on Geopolitical Tensions — The South Korean won weakened to around 1,464 per dollar, pulling back after touching a more than two-month high, as renewed US-Iran tensions triggered risk-off sentiment across Asian markets. The confrontation saw both sides exchange fire in the Strait of Hormuz, raising concerns over potential disruptions to global oil supplies, while pushing Brent crude above $100 per barrel and strengthening the US dollar as investors sought safe-haven assets. The move prompted broad USD demand and profit-taking across regional currencies, with the won among the weaker performers. Meanwhile, downside pressure was partly cushioned by strong external fundamentals, after South Korea posted a record current account surplus in March driven by a surge in semiconductor exports. Expectations of sustained AI-led chip demand and a resilient trade balance continued to provide structural support, even as short-term flows remained dominated by geopolitical risk and dollar strength."
-    },
-    {
-      "id": "4867475",
-      "time": "2026-05-08 10:05:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "【全球首艘24000TEU甲醇集裝箱船今日命名 將於下月交付】從中遠海運集團獲悉，中遠海控旗下東方海外向南通中遠海運川崎訂造的24000TEU甲醇集裝箱船首制船今日命名為“OOCL WISDOM”，據公司方面介紹，該船型為全球首艘，後續將進入試航階段，預計於今年6月交付。此外，記者在南通中遠海運川崎生產現場瞭解到，其建造的該系列船3號船已進塢。該船訂單源自2022年10月28日，中遠海控當日公告，該系列船共12艘，南通中遠海運川崎建造其中7艘。（財聯社）"
-    },
-    {
-      "id": "4867474",
-      "time": "2026-05-08 10:04:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "白宮：特朗普將於當地時間週五中午在玫瑰園發表講話。"
-    },
-    {
-      "id": "4867473",
-      "time": "2026-05-08 10:04:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "【階躍星辰將完成近25億美元融資 加速衝刺港股IPO】據訊息人士透露，國產大模型公司階躍星辰將完成近25億美元融資，並已拆除紅籌架構。據悉，公司最新融資中，產業鏈資本集中入場，包括華勤、龍旗、豪威、中興等，覆蓋從整機制造到上游核心器件多個環節。產業資本的入局，背後是模型能力向終端遷移的確定性趨勢。工商資訊顯示，公司已於4月完成股改，由有限責任公司變更為股份有限公司。知情人士稱，其紅籌架構亦已拆除，這通常被視為赴港IPO的關鍵前置步驟。此外，“港版淡馬錫” 香港投資管理有限公司（HKIC）也出現在股東名單中，為其赴港上市提供了進一步背書。（科創板日報）"
-    },
-    {
-      "id": "4867472",
-      "time": "2026-05-08 10:03:59",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4730美元/盎司，日內漲0.94%。"
-    },
-    {
-      "id": "4867471",
-      "time": "2026-05-08 10:03:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4740美元/盎司，日內漲0.62%。"
-    },
-    {
-      "id": "4867470",
-      "time": "2026-05-08 10:03:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家稅務總局陝西省稅務局原一級巡視員郭章獻接受審查調查】據中央紀委國家監委駐國家稅務總局紀檢監察組、陝西省紀委監委訊息：國家稅務總局陝西省稅務局原一級巡視員郭章獻涉嫌嚴重違紀違法，目前正接受中央紀委國家監委駐國家稅務總局紀檢監察組紀律審查和陝西省監察委員會監察調查。"
-    },
-    {
-      "id": "4867469",
-      "time": "2026-05-08 10:03:16",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印尼盾兌美元早盤跌至1美元兌17350印尼盾。"
     }
   ]
 }
