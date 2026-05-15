@@ -1,7 +1,18 @@
 {
-  "updated": "2026-05-16 04:57:42",
-  "count": 15510,
+  "updated": "2026-05-16 05:01:11",
+  "count": 15508,
   "items": [
+    {
+      "id": "te:markets:551307",
+      "time": "2026-05-16 05:00:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Gold Hits 6-week Low — Gold decreased to 4483.00 USD/t.oz, the lowest since March 2026. Over the past 4 weeks, Gold lost 5.2%, and in the last 12 months, it increased 41.7%."
+    },
     {
       "id": "4882965",
       "time": "2026-05-16 04:54:09",
@@ -139774,38 +139785,6 @@
         "其他"
       ],
       "text": "惠譽維持斯洛伐克“A-”評級，展望穩定。"
-    },
-    {
-      "id": "mkt:019e0964-4334-7222-b4ab-2c5e3e142762",
-      "time": "2026-05-09 05:00:26",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bearish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "RUSSIAN FOREIGN MINISTER LAVROV TELLS UAE MINISTER THAT U.S.-IRAN TALKS NEED TO BE SUPPORTED TO PREVENT RESUMPTION OF HOSTILITIES"
-    },
-    {
-      "id": "4869270",
-      "time": "2026-05-09 05:00:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美韓簽署造船業合作備忘錄】美國商務部與韓國產業部（貿易、工業及能源部）今日簽署諒解備忘錄，正式設立韓美造船夥伴關係倡議（KUSPI），旨在加強雙方在商用船舶建造、人才隊伍建設、產業現代化以及海事製造業投資領域的雙邊合作。具體合作內容包括：促進外商對美國海事產業基地的直接投資、開展人才培養專案、推進造船廠產能提升計劃、進行技術交流，以及由美國商務部和韓國產業部商定的其他相關合作事項。"
-    },
-    {
-      "id": "te:markets:549351",
-      "time": "2026-05-09 04:59:32",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Gains as Dovish BoC Bets Offset Middle East Risks — The S&P/TSX Composite gained 0.6% to close at 34,078 on Friday, as investors assessed the North American labor backdrop and the outlook for Middle East energy supply. Although clashes continued and attacks on the UAE renewed tensions near the Strait of Hormuz, the US is still awaiting Iran’s response to its proposal to end the conflict, keeping oil prices elevated. Meanwhile, the unexpected decline in Canadian employment reinforced expectations that the Bank of Canada will refrain from raising interest rates this year, supporting equities and bank stocks. BMO and Royal Bank of Canada both gained 0.5%. On the earnings front, Enbridge (-0.5%) and Wheaton Precious Metals (+5.7%) both reported results above expectations. Cardinal Energy (+1.4%) posted higher first-quarter revenue on record production, while Emera (+1.1%) reported adjusted EPS above forecasts. Rogers Sugar (+0.3%), however, posted weaker-than-expected second-quarter revenue."
     }
   ]
 }
