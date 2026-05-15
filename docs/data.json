@@ -1,7 +1,34 @@
 {
-  "updated": "2026-05-15 13:07:36",
-  "count": 15276,
+  "updated": "2026-05-15 13:10:59",
+  "count": 15274,
   "items": [
+    {
+      "id": "4881248",
+      "time": "2026-05-15 13:09:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【長飛光纖光纜港股跌超10%】長飛光纖光纜港股跌10.88%，報226.40港元。"
+    },
+    {
+      "id": "4881247",
+      "time": "2026-05-15 13:08:09",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4600美元/盎司，日內跌1.85%。"
+    },
+    {
+      "id": "mkt:019e2a08-9487-7bb5-b4d6-935e256a2376",
+      "time": "2026-05-15 13:07:45",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "【Capital Economics Urges Skepticism Over Trump-Xi Deal Announcements】Any deals announced during the Trump-Xi summit may not ultimately materialize, Capital Economics says in a research note. The firm notes that a key outcome of Trump’s 2017 China visit was a package of trade and investment agreements that the White House valued at more than $250 billion, but “the bulk of these deals never materialised.” The experience suggests investors should view announcements from the current Trump-Xi summit with a “healthy degree of scepticism,” Capital Economics says."
+    },
     {
       "id": "4881246",
       "time": "2026-05-15 13:07:25",
@@ -137879,51 +137906,6 @@
         "公司"
       ],
       "text": "【成都1宗宅地8.73億元底價成交】5月8日，成都出讓1宗金牛區宅地，土地出讓面積為49519.58㎡（合74.2794畝），規劃建築面積123798.95㎡，容積率2.5，起拍樓面價7050元/㎡，摺合起始總價87278.26萬元。最終成都市金牛國投產業投資開發有限公司以樓面價7050元/㎡競得該地塊，成交總價8.73億元。"
-    },
-    {
-      "id": "4867678",
-      "time": "2026-05-08 13:10:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "【江蘇設立100億元增資擴產戰新產業基金】江蘇省增資擴產戰新產業基金在蘇州工業園區正式揭牌成立。該基金規模100億元，由省戰新母基金與13個設區市共同出資設立，江蘇高科技投資集團與蘇創投、元禾控股共同作為普通合夥人，高投管理擔任基金管理人及執行事務合夥人，重點圍繞戰略性新興產業、未來產業和重點產業鏈關鍵環節開展投資。（21世紀經濟報道）"
-    },
-    {
-      "id": "4867677",
-      "time": "2026-05-08 13:10:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "【湖南衛視芒果TV調整週末編排】5月8日，@湖南衛視發文表示，為悼念瀏陽煙花廠爆炸事故，5月8-10日湖南衛視、芒果TV的節目編排調整如下：1、原定5月8日播出的《親愛的·客棧2026》推遲播出；2、原定5月8-9日直播的《乘風2026》推遲播出；3、原定5月9日播出的《你好，星期六》推遲播出。"
-    },
-    {
-      "id": "te:markets:549043",
-      "time": "2026-05-08 13:10:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Toyota Motor Stock Price Hits 29-week Low — Toyota Motor shares decreased to 2963.00 JPY, the lowest since October 2025. Over the past 4 weeks, Toyota Motor lost 8.17%, and in the last 12 months, it increased 12.48%."
-    },
-    {
-      "id": "4867676",
-      "time": "2026-05-08 13:08:58",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【CPECC與沙特阿美簽署長期服務協議】據中國石油訊息，近日，CPECC（工程建設有限公司）與沙特阿美在沙烏地阿拉伯達曼市正式簽署長期服務協議（Long Term Agreement，簡稱LTA）。此次簽約標誌著CPECC成功躋身沙特阿美棕區（現有設施改造與升級）專案LTA承包商第一梯隊，成為沙特阿美棕區專案重要戰略合作伙伴，為深耕中東高階能源工程市場、加快拓展沙特市場奠定了良好基礎。"
-    },
-    {
-      "id": "4867675",
-      "time": "2026-05-08 13:08:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "【高瓴投資據悉接近收購Marsh旗下的金融風險管理及保險經紀業務】知情人士透露，高瓴投資接近達成交易，擬收購Marsh旗下為亞洲等市場高淨值客戶提供金融風險管理和人壽保險經紀服務的業務。各方正在商討協議，最早可能於週五宣佈。"
     }
   ]
 }
