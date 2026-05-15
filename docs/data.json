@@ -1,7 +1,78 @@
 {
-  "updated": "2026-05-15 08:32:17",
-  "count": 15191,
+  "updated": "2026-05-15 08:35:40",
+  "count": 15192,
   "items": [
+    {
+      "id": "mkt:019e290f-5f68-7bb5-b4d3-2e1aacad5b7c",
+      "time": "2026-05-15 08:34:39",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "USTR GREER, ON NVIDIA H200 CHIPS: PURCHASES OF NVIDIA H200 CHIPS WILL BE A SOVEREIGN DECISION BY CHINA USTR GREER, ON NVIDIA H200 CHIPS: WHETHER THE CHINESE ARE GOING TO BUY OR NOT AGAIN THEY'RE MAKING THEIR OWN DETERMINATIONS USTR GREER: WE DID NOT TALK ABOUT CHIP EXPORT CONTROLS AT THE MEETING"
+    },
+    {
+      "id": "mkt:019e290f-113d-7bb5-b4d3-24ba7f52214f",
+      "time": "2026-05-15 08:34:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "CNH",
+        "Impact bearish"
+      ],
+      "text": "USTR GREER: CHINA KNOWS THAT THERE IS GOING TO BE A CERTAIN LEVEL OF U.S. TARIFFS ON CHINESE GOODS USTR GREER: I CANNOT COMMIT TO A GIVEN RATE OF TARIFF ON CHINESE GOODS"
+    },
+    {
+      "id": "mkt:019e290d-d880-7bb5-b4d3-1f0f815a7c0c",
+      "time": "2026-05-15 08:33:53",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "USTR GREER: WITH RESPECT TO CHINESE INVOLVEMENT WITH IRAN, OUR VIEW IS THE CHINESE ARE BEING VERY PRAGMATIC USTR GREER: WE NEED TO MANAGE AND CONTROL OUR ECONOMIC RELATIONSHIP WITH CHINA TO MAKE SURE WE ACHIEVE U.S. DOMESTIC GOALS USTR GREER: CHINESE REGULATIONS ON SUPPLY CHAIN SHIFTS AWAY FROM CHINA IS A MAJOR CONCERN USTR GREER: CHINA MAY SEE THE U.S. ADVANTAGE O AI CHIPS A THREAT TO DOMESTIC PRODUCTION"
+    },
+    {
+      "id": "4880855",
+      "time": "2026-05-15 08:33:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【海南：加快培育火箭鏈、衛星鏈、資料鏈 打造風電裝備製造產業叢集】5月14日，海南省委常委會召開會議。會議指出，要以“五向圖強”特色產業鏈和“四新”未來產業為主戰場，立足“種源+種業+種市”推進種業振興，以應用帶動創新加快發展深海科技產業，加快培育火箭鏈、衛星鏈、資料鏈，打造風電裝備製造產業叢集，塑造數字經濟發展新動能；堅持科技自立自強，主動對接國家戰略科技力量，用好自由貿易港開放政策，深化國際科技合作、產業合作，推動科技創新和產業創新深度融合，因地制宜打造新質生產力重要實踐地。"
+    },
+    {
+      "id": "4880854",
+      "time": "2026-05-15 08:33:16",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "日本財務大臣片山皐月：計劃於5月17日起出訪法國，出席七國集團財長會議。"
+    },
+    {
+      "id": "4880853",
+      "time": "2026-05-15 08:32:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞液化天然氣工人計劃在KGP/PLUTO礦區採取工業行動。"
+    },
+    {
+      "id": "4880852",
+      "time": "2026-05-15 08:32:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士稱，美國司法部即將撤銷對印度高塔姆·阿達尼的指控。"
+    },
     {
       "id": "4880851",
       "time": "2026-05-15 08:31:12",
@@ -137042,62 +137113,6 @@
         "Importance 2"
       ],
       "text": "Japan Services Activity Expansion Revised Downward — Japan’s S&P Global Services PMI was revised slightly lower to 51.0 in April 2026 from 51.2 in the flash reading and down from March’s final 53.4, signalling a thirteenth successive month of expansion. However, the latest reading remained the lowest figure since May 2025, as new orders grew at the slowest pace since last October, while foreign sales declined for the first time in five months, albeit modestly."
-    },
-    {
-      "id": "4867333",
-      "time": "2026-05-08 08:34:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "【工業和資訊化部批覆第六代行動通訊系統技術試驗頻率】為進一步推動我國6G技術研發、標準研製與產業化程序，工業和資訊化部近日向 IMT-2030（6G）推進組批覆6GHz頻段6G試驗頻率使用許可，支援其在部分地區開展6G技術試驗，面向國際電信聯盟確定的6G典型場景與關鍵效能指標，開展技術研發攻關和測試驗證。 此次批覆6G技術試驗頻率，將有力推動我國6G高質量發展。（工信微報）"
-    },
-    {
-      "id": "4867332",
-      "time": "2026-05-08 08:34:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【五糧液：白酒行業加速出清 經歷調整期後將逐漸步入修復期】五糧液(000858)在業績說明會表示，當前，白酒行業正處於加速出清階段，呈現“總量承壓、結構最佳化”的發展態勢，持續向優勢品牌、優勢企業集中。伴隨宏觀經濟持續回升向好、政策環境趨於穩定、各類產業支援政策持續加碼、新興消費潛力持續釋放，行業在經歷調整期後，將逐漸步入修復期，終將在適配市場經濟發展規模情況下回歸良性發展軌道。"
-    },
-    {
-      "id": "te:economy:548957",
-      "time": "2026-05-08 08:34:01",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Composite PMI",
-        "Importance 1"
-      ],
-      "text": "Japan Composite PMI Revised Lower — Japan’s S&P Global Composite PMI was at 52.2 in April 2026, lower than flash data of 52.4 and 53.0 in the previous month. It was the 13th straight month of private-sector expansion despite marking the lowest reading since December."
-    },
-    {
-      "id": "4867331",
-      "time": "2026-05-08 08:33:32",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【阿聯酋絞盡腦汁賣原油  4月安排多艘油輪透過霍爾木茲海峽】據報道，根據業界訊息人士與航運資料顯示，為避免遭到伊朗襲擊，阿聯酋及買家近期關閉船舶定位追蹤系統，安排多艘裝載原油的油輪駛過霍爾木茲海峽，試圖運出因中東衝突而在海灣地區積壓的石油。儘管這些出貨量僅為美以對伊朗開戰前阿聯酋日常出口量的一小部分，但顯示出該產油國與買家為了釋放原油銷售而願意承擔的風險。據三名訊息人士、Kpler的船舶追蹤資料以及SynMax的衛星資料分析顯示，阿聯酋的阿布扎比國家石油公司(ADNOC)在4月成功利用四艘油輪，從海灣地區的終端出口了至少400萬桶的上扎庫姆原油和200萬桶達斯原油。這些原油貨物的去向包括：透過船對船（STS）轉卸至另一艘油輪，之後再運往東南亞一家煉油廠；卸入阿曼的儲油設施；直接航行前往韓國的煉油廠。上述三名訊息人士中，其中一人對事件有直接瞭解，另兩人熟悉ADNOC的運作。"
-    },
-    {
-      "id": "4867330",
-      "time": "2026-05-08 08:33:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "【墨西哥一購物廣場發生特大火災 造成多人死傷】記者當地時間5月7日獲悉，墨西哥洛斯莫奇斯一家購物廣場發生特大火災，已造成多人死傷。緊急救援人員正在現場，當局正在調查起火原因。"
-    },
-    {
-      "id": "te:markets:548956",
-      "time": "2026-05-08 08:32:22",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Heating Oil Futures Rebound — Heating oil futures for delivery at the New York Harbor climbed toward $4.0 per gallon, extending their rebound from a two-week low, as renewed attacks in the Middle East reinforced concerns over deeper energy disruptions in the region. The US and Iran exchanged fire in the Strait of Hormuz, with both sides accusing the other of initiating the confrontation, putting a month-long ceasefire in doubt. Oil and refined fuel shipments through the Strait have been severely disrupted since the war began in March, putting pressure on refineries and pushing heating oil futures to a record high of $4.6 in March. In response, refineries across Europe and Asia have adjusted operations to produce more diesel and jet fuel at the expense of gasoline output. Even so, fuel shortages forced major European airlines to cancel thousands of flights, while tightening supplies in Asia prompted China to resume diesel exports."
     }
   ]
 }
