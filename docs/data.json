@@ -1,7 +1,90 @@
 {
-  "updated": "2026-05-15 16:21:48",
-  "count": 15455,
+  "updated": "2026-05-15 16:25:19",
+  "count": 15454,
   "items": [
+    {
+      "id": "mkt:019e2abc-c63b-7bb5-b4d8-c61b7d323305",
+      "time": "2026-05-15 16:24:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "CHINA’S SECURITIES REGULATOR RELEASES MEASURES FOR THE SUPERVISION AND ADMINISTRATION OF DERIVATIVES TRADING (TRIAL)"
+    },
+    {
+      "id": "4881700",
+      "time": "2026-05-15 16:23:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣東：加強高階裝備製造、積體電路、工業軟體等新興產業人才培養】廣東省人民政府辦公廳印發《高等教育“衝一流、補短板、強特色”提升計劃實施方案（2026—2030年）》，實施方案提出，加快重點領域人才培養。實施基礎學科人才培養“長基計劃”，建強100個以上基礎學科本科專業，打造50個左右基礎學科拔尖人才培養創新實驗區。加強高階裝備製造、積體電路、工業軟體、人工智慧、低空經濟、新能源、新材料、生物製造、生物育種、智慧網聯汽車、智慧機器人、醫藥和醫療器械、航空航天等新興產業人才培養。前瞻佈局未來網路、未來空間、量子科技、6G、光晶片、具身智慧、細胞與基因治療、腦科學與腦機介面、氫能、先進核能、深海探測等未來產業人才培養。加快培養涉外法治、國際傳播、區域國別、出口管制、科技成果轉化等領域實戰型人才。"
+    },
+    {
+      "id": "4881699",
+      "time": "2026-05-15 16:23:39",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國務院國資委召開中央企業品牌引領行動總結暨品牌價值提升行動部署會】會議指出，中央企業品牌引領行動取得明顯成效，品牌價值引領意識、品牌建設水平、品業融合能力、品牌影響力得到顯著提升。中央企業要充分認識到品牌是企業高質量發展的重要標識，要將品牌作為企業重要戰略資產加以管理和維護，加快構建與企業規模實力相匹配的品牌軟實力。會議強調，下一階段，中央企業要深入實施品牌價值提升行動，從凝聚思想共識、加強品業融合、強化核心支撐、提升國內美譽度、擴大國際知名度、做優品牌資產等六個方面著重發力，堅持走好品牌競爭路線，有效促進品牌價值全面提升、世界一流企業加快建設。"
+    },
+    {
+      "id": "4881698",
+      "time": "2026-05-15 16:23:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國證監會發布《衍生品交易監督管理辦法（試行）》】中國證監會發布《衍生品交易監督管理辦法（試行）》。《辦法》規定的衍生品交易是指期貨交易以外的，互換合約、遠期合約和非標準化期權合約及其組合的交易。《辦法》對衍生品交易和結算、衍生品交易者、衍生品經營機構、衍生品市場基礎設施、監督管理和法律責任等進行了規定，主要包括以下內容：一是明確調整範圍。二是明確衍生品市場管理風險、配置資源、服務實體經濟的功能定位。三是明確參與衍生品交易及相關活動的各方應當遵守的基本原則，禁止透過衍生品交易實施違法違規行為。四是規範衍生品交易及其結算。五是加強交易者保護，明確交易者適當性標準，對衍生品交易提出賬戶實名制要求。六是加強衍生品經營機構監管，明確內部控制和風險管理要求，規定證券公司、期貨公司申請開展衍生品交易業務應當符合最近6個月淨資本持續不低於人民幣5億元等行政許可條件，同時規定中國證監會根據審慎監管原則，可以調整淨資本最低限額，為根據監管需要對相關機構提出更高要求預留空間。七是加強衍生品市場基礎設施監管。八是明確監督管理和法律責任。《辦法》將自2026年11月16日起施行。（證監會）"
+    },
+    {
+      "id": "mkt:019e2abb-575d-7bb5-b4d8-bb68adc72dcb",
+      "time": "2026-05-15 16:23:00",
+      "tags": [
+        "MKT News",
+        "UAL.O",
+        "Impact bearish",
+        "ALK.O"
+      ],
+      "text": "UNITED AIRLINES DOWN 1.1%, ALASKA AIR FALLS 1.6%"
+    },
+    {
+      "id": "4881697",
+      "time": "2026-05-15 16:22:33",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "美國航空公司股票盤前下跌。西南航空(LUV.N)跌1.1%，達美航空(DAL.N)跌1.5%。"
+    },
+    {
+      "id": "mkt:019e2aba-e086-7bb5-b4d8-b52e71146a1b",
+      "time": "2026-05-15 16:22:30",
+      "tags": [
+        "MKT News",
+        "LUV.O",
+        "Impact bearish",
+        "DAL.O"
+      ],
+      "text": "SOUTHWEST AIRLINES DOWN 1.1%, DELTA AIR LINES FALLS 1.5%"
+    },
+    {
+      "id": "4881696",
+      "time": "2026-05-15 16:22:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST東智：控股股東終止股份轉讓及控制權變更事項】*ST東智公告稱，2026年5月15日，公司收到控股股東科翔高新及實控人李斌告知函，鑑於交易相關條件變化且協商未達成一致，2025年12月19日簽署的《股份轉讓協議》及《表決權放棄承諾函》所涉控制權變更事項終止。原擬轉讓1.83億股，佔總股本14.33%，價款7.32億元。本次終止不會導致控股股東、實控人變更，對公司生產經營無重大不利影響。"
+    },
+    {
+      "id": "4881695",
+      "time": "2026-05-15 16:21:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【追覓造車主體公司股權被凍結】5月15日訊息，天眼查APP顯示，追覓科技創始人俞浩實控的星空計劃（上海）汽車科技有限責任公司（下稱“星空計劃汽車公司”）近日新增一則股權凍結資訊，股權數額約為232.25萬元，股權所在企業為上海星空計劃進出口貿易有限責任公司，執行法院為上海市浦東新區人民法院，凍結起止日期為2026年5月7日至2029年5月6日。"
+    },
     {
       "id": "mkt:019e2ab9-f04b-7bb5-b4d8-ad8ff0f93dab",
       "time": "2026-05-15 16:21:29",
@@ -139269,95 +139352,6 @@
         "Impact bullish"
       ],
       "text": "【Gold Holds Above $4,700 as Central Bank Demand and Middle East Tensions Support Prices】Gold prices traded above $4,700 per troy ounce, supported by central-bank buying and investor demand for safe-haven assets amid ongoing Middle East tensions. Analysts at Saxo Bank said gold’s resilience despite strong equity markets reflects sustained central-bank demand as well as concerns over inflation, slowing growth, and rising fiscal debt. New York futures rose 0.1% to $4,715.20 and were on track for a weekly gain of 1.5%. Markets also monitored the U.S.-Iran conflict, where both sides exchanged fire, though President Donald Trump said the cease-fire remains in place while mediation efforts continue toward a possible framework for renewed negotiations."
-    },
-    {
-      "id": "4868043",
-      "time": "2026-05-08 16:25:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：歐盟擬明確，霍爾木茲海峽航運受阻期間，允許使用 A 型航空燃油。"
-    },
-    {
-      "id": "4868042",
-      "time": "2026-05-08 16:25:07",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "市場訊息：歐盟將澄清航空公司不得追溯性地提高機票價格。"
-    },
-    {
-      "id": "4868041",
-      "time": "2026-05-08 16:24:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "【巍華新材：擬3000萬元參與設立3億元智舜創投基金】巍華新材公告稱，公司擬與智路資本、琰伯資本等共同投資設立規模3億元的智舜創投基金，專注新質生產力領域。公司作為有限合夥人，擬以自有資金認繳出資3000萬元。閏土股份為公司關聯方，本次交易構成關聯交易，但不構成重大資產重組。該事項已透過獨立董事專門會議和董事會審議，無需提交股東會。基金暫未完成工商註冊，實施有不確定性，投資或面臨收益不達預期風險。"
-    },
-    {
-      "id": "4868040",
-      "time": "2026-05-08 16:24:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "【金證股份：2025年營收24.19億元 淨虧損1.68億元】金證股份公告稱，2025年公司實現營業收入24.19億元，歸屬於上市公司股東的淨利潤為淨虧損1.68億元，扣除非經常性損益後淨虧損2.03億元，同比減虧。因2025年度虧損，未達公司章程實施現金分紅條件，本年度不派發現金股利、不送紅股、不以公積金轉增股本。此外，2026年公司將聚焦金融科技賽道，提升核心產品競爭力，嚴控技術產品進度，加大AI研發力度。"
-    },
-    {
-      "id": "te:economy:549177",
-      "time": "2026-05-08 16:22:53",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Taiwan",
-        "Exports YoY",
-        "Importance 1"
-      ],
-      "text": "Taiwan Export Growth Slows Sharply — Exports from Taiwan climbed by 39% year-on-year to USD 67.62 billion in April 2026, slowing sharply from a 61.8% surge and falling well below market expectations of a 55% increase. Still, export growth remained solid, supported by sustained global demand for semiconductors and electronics, which helped offset disruptions linked to the Middle East conflict. By sector, exports continued to be led by information, communication and audio-video products (62.3%), followed by electronic parts (38.9%) and machinery (12.9%). In contrast, shipments of base metals and articles of base metals (-0.4%) and chemicals (-4.3%) declined. All major trading partners saw increased exports, namely the US (63.8%), Mainland China and Hong Kong (15.8%), ASEAN (36.8%), Europe (64.2%), Japan (28.4%), and South Korea (39.3%). For the January–April period, total exports reached USD 263.35 billion, up 47.8% compared with the same period in the previous year."
-    },
-    {
-      "id": "4868039",
-      "time": "2026-05-08 16:22:46",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "JFrog股價盤前上漲16.5%，此前該公司上調財年業績展望，並推出3億美元股票回購計劃。"
-    },
-    {
-      "id": "4868038",
-      "time": "2026-05-08 16:22:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【正虹科技：4月生豬銷售收入1373.48萬元 同比增長40.20%】正虹科技公告稱，2026年4月銷售生豬1.51萬頭，銷量環比增長769.38%，同比增長34.79%；銷售收入1373.48萬元，環比增長606.03%，同比增長40.20%。1-4月累計銷售生豬3.41萬頭，累計銷售收入3499.97萬元，同比分別增長21.31%、11.79%。本月生豬銷售環比增長因出欄量增加。公司提示，生豬市場價格波動或影響經營業績，資料未經審計，僅供參考。"
-    },
-    {
-      "id": "4868037",
-      "time": "2026-05-08 16:22:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華資實業：2025年營收6.29億元 擬每股派現0.0225元】華資實業公告稱，2025年實現營業收入6.29億元，同比增長；淨利潤5902.02萬元，同比大幅增加。主要因黃原膠專案投產增收、投資收益增加等。此外，公司擬向全體股東每股派發現金紅利0.0225元（含稅），合計擬派發現金紅利1091.10萬元，佔2025年度歸屬於上市公司股東淨利潤的18.49%。同時，公司將審議增加經營範圍並修訂《公司章程》的議案。"
-    },
-    {
-      "id": "4868036",
-      "time": "2026-05-08 16:22:10",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "【若英國選舉引發拋售 摩根大通資管傾向於逢低買入英鎊】摩根大通資產管理公司表示，若英國地方選舉結果導致英鎊遭遇拋壓，該機構將準備趁機買入。初步計票結果顯示，首相基爾·斯塔默領導的工黨可能遭遇重挫。這家美國資產管理公司的外匯策略主管Nick Wall表示，英國的政治風險在很大程度上已經反映在英鎊及英國國債價格中；即便糟糕的選舉結果引發對斯塔默領導地位的挑戰，潛在競爭者也會謹慎維持財政紀律，這應有助於支撐英國金融市場。"
-    },
-    {
-      "id": "4868035",
-      "time": "2026-05-08 16:21:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "【世衛組織證實荷航空乘人員漢坦病毒檢測為陰性】世界衛生組織8日證實，一名荷蘭皇家航空乘務員因與感染漢坦病毒死亡的患者有過接觸，出現疑似漢坦病毒感染症狀，該空乘人員在隔離狀態下接受病毒檢測，結果顯示為陰性。 (央視新聞)"
     }
   ]
 }
