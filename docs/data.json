@@ -1,7 +1,26 @@
 {
-  "updated": "2026-05-16 06:33:12",
+  "updated": "2026-05-16 06:36:42",
   "count": 15487,
   "items": [
+    {
+      "id": "te:markets:551311",
+      "time": "2026-05-16 06:35:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Silver Tumbles by 8.95% — Top commodity losers are Silver (-8.95%), Copper (-5.12%), Platinum (-5.08%) and Gold (-2.22%)."
+    },
+    {
+      "id": "4883004",
+      "time": "2026-05-16 06:33:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗：我們會盡快採取行動，想要把事情做好。"
+    },
     {
       "id": "4883003",
       "time": "2026-05-16 06:31:38",
@@ -139610,25 +139629,6 @@
         "國際"
       ],
       "text": "特朗普：巴西想和我們做生意。"
-    },
-    {
-      "id": "te:markets:549355",
-      "time": "2026-05-09 06:35:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Silver Gains by 2.47% — Top commodity gainers are Silver (2.47%), Lithium Carbonate (1.84%), Copper (1.62%) and Gold (0.63%). Biggest loser is Silicon (-0.78%)."
-    },
-    {
-      "id": "4869325",
-      "time": "2026-05-09 06:34:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國：針對伊朗的制裁目標包括武器和無人機供應鏈。"
     }
   ]
 }
