@@ -1,7 +1,113 @@
 {
-  "updated": "2026-05-15 13:34:38",
-  "count": 15304,
+  "updated": "2026-05-15 13:38:00",
+  "count": 15314,
   "items": [
+    {
+      "id": "4881308",
+      "time": "2026-05-15 13:37:49",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀失守79美元/盎司，日內跌7.50%。"
+    },
+    {
+      "id": "4881307",
+      "time": "2026-05-15 13:37:49",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破103美元/桶，日內漲1.82%。"
+    },
+    {
+      "id": "4881306",
+      "time": "2026-05-15 13:37:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國石油在北京成立大運河能源公司】企查查APP顯示，近日，北京大運河能源有限公司成立，註冊資本4900萬元，經營範圍包含：鐵路運輸輔助活動；機動車修理和維護；工程技術服務（規劃管理、勘察、設計、監理除外）等。企查查股權穿透顯示，該公司由中國石油全資持股。"
+    },
+    {
+      "id": "4881305",
+      "time": "2026-05-15 13:37:28",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【韓國：目前未考慮對三星實施緊急命令】韓國總統府青瓦臺公報溝通首席秘書李圭淵5月15日表示，總統府目前既未考慮、也未就針對三星潛在勞工罷工行使緊急仲裁權一事做出決定。政府希望此次勞資糾紛不會升級為罷工，正密切關注事態發展。李圭淵指出，三星在韓國經濟中佔據著舉足輕重的地位，相當一部分公眾直接或間接持有三星的股份。"
+    },
+    {
+      "id": "4881304",
+      "time": "2026-05-15 13:37:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "LME倫銅日內跌超2.00%，現報13658.000美元/噸。"
+    },
+    {
+      "id": "4881303",
+      "time": "2026-05-15 13:36:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數期貨下跌1%，標普500指數期貨跌0.6%，道瓊斯指數期貨跌0.36%。"
+    },
+    {
+      "id": "4881302",
+      "time": "2026-05-15 13:35:50",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國30年期國債收益率升至5.071%，為2025年7月以來最高水平。"
+    },
+    {
+      "id": "4881301",
+      "time": "2026-05-15 13:35:50",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4570美元/盎司，日內跌2.47%。"
+    },
+    {
+      "id": "mkt:019e2a22-31cb-7bb5-b4d6-f50f096f0ebe",
+      "time": "2026-05-15 13:35:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "TAIWAN'S WEIGHTED INDEX CLOSED DOWN 1.39%"
+    },
+    {
+      "id": "4881300",
+      "time": "2026-05-15 13:35:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣證交所加權股價指數收低1.4%報41,172.36。"
+    },
+    {
+      "id": "4881299",
+      "time": "2026-05-15 13:34:58",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "鈀連續主力合約日內跌6%，現報343.80元。"
+    },
+    {
+      "id": "4881298",
+      "time": "2026-05-15 13:34:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內跌10%，現報19470.00元。"
+    },
     {
       "id": "mkt:019e2a21-2e32-7bb5-b4d6-ed8e2f15edf9",
       "time": "2026-05-15 13:34:38",
@@ -10,6 +116,23 @@
         "Important"
       ],
       "text": "SPOT SILVER EXTENDS LOSSES, LAST DOWN OVER 5% AT $79.24/OZ"
+    },
+    {
+      "id": "4881297",
+      "time": "2026-05-15 13:34:38",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4570美元/盎司，日內跌1.81%。"
+    },
+    {
+      "id": "4881296",
+      "time": "2026-05-15 13:34:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "匈牙利將從儲備中釋放5.75億升燃料。"
     },
     {
       "id": "mkt:019e2a21-13d5-7bb5-b4d6-e3a56d693a66",
@@ -138141,43 +138264,6 @@
         "其他"
       ],
       "text": "豐田表示，本財年混合動力汽車銷量預計將首次突破500萬輛，電氣化汽車總銷量將達到約600萬輛。"
-    },
-    {
-      "id": "te:markets:549050",
-      "time": "2026-05-08 13:37:35",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "NZX 50 Ends 0.7% Lower but Posts 2nd Weekly Gain — The NZX 50 fell 95 points, or 0.7%, to close at 13,175 on Friday, erasing gains from the previous two sessions as fighting between the US and Iran flared, dampening hopes for an end to the conflict. The broader index retreated from its highest level since April 9, reached a day earlier, tracking a downbeat session on Wall Street overnight, with most sectors trading in the red, led by consumer staples. Caution was also built as investors anticipated the release of US jobs data later today, trade data from China scheduled for this weekend, and Chinese inflation data due next week to guide the economic outlook for both countries. Domestically, traders also await New Zealand's food inflation and manufacturing PMI data due next week. Among the worst performers were Westpac Banking Corp. (-4.3%), Ventia Services Group (-2.5%), A2 Milk (-2.2%), Port of Tauranga (-1.8%), and ANZ Group (-1.5%). For the week, the index rose 1.7%, marking a second consecutive weekly gain."
-    },
-    {
-      "id": "4867703",
-      "time": "2026-05-08 13:37:05",
-      "tags": [
-        "觀點"
-      ],
-      "text": "高盛將英飛凌目標股價從53歐元上調至75歐元。"
-    },
-    {
-      "id": "4867702",
-      "time": "2026-05-08 13:36:55",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "豐田高管：中東業務影響預期的測算基礎是，截至3月已出現的供應鏈交付週期延長及原材料成本上漲問題將持續一整年。"
-    },
-    {
-      "id": "4867701",
-      "time": "2026-05-08 13:35:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "索尼表示，研發PlayStation下一代主機的成本將衝擊遊戲業務利潤。"
     }
   ]
 }
