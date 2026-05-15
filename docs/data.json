@@ -1,7 +1,102 @@
 {
-  "updated": "2026-05-15 09:38:10",
-  "count": 15252,
+  "updated": "2026-05-15 09:41:40",
+  "count": 15250,
   "items": [
+    {
+      "id": "4880989",
+      "time": "2026-05-15 09:40:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中芯國際趙海軍：對今年整體運營情況更加樂觀】在今日的一季報業績說明會上，中芯國際聯合CEO趙海軍表示，基於客戶需求和在手訂單情況，相較於上個季度，公司對於今年的整體運營情況更加樂觀。主要是因為：第一，人工智慧對配套晶片的強勁需求，直接推動公司電源管理晶片產能供不應求；第二，人工智慧海外“虹吸效應”使得消費、IoT等客戶在內地尋找產能、訂單迴流；第三，人工智慧亦帶動ToF、電動汽車、機器人等新應用需求，本土公司積極開拓市場；第四，產業鏈國產化訴求，推動國產邏輯、網通等晶片需求；第五，漲價效應以及之前提到的客戶因擔憂供應不足而提前備貨。在市場環境變化的情況下，公司的技術儲備、平臺多元和產能轉換靈活性的優勢，支撐了公司接收訂單的能力。公司把產能切換到邏輯、專用儲存、電源管理、AFE模擬平臺、高精度ADC轉換器、Micro OLED等持續迭代的產品上來。公司繼續推進產能建設，與客戶簽訂長期協議，鎖定未來需求，為公司帶來穩健的增長動能。"
+    },
+    {
+      "id": "4880988",
+      "time": "2026-05-15 09:40:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "中證白酒指數早盤一度挫2%，創逾六年新低。"
+    },
+    {
+      "id": "4880987",
+      "time": "2026-05-15 09:40:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "【短劇遊戲盤初拉昇，引力傳媒漲停】短劇遊戲盤初拉昇，線上線下盤中創新高，引力傳媒漲停，粵傳媒、華智數媒、浙文互聯、天地線上、易點天下跟漲。"
+    },
+    {
+      "id": "mkt:019e294a-c377-7bb5-b4d4-85aa0169d6ba",
+      "time": "2026-05-15 09:40:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "TURNOVER ON SSE AND SZSE EXCEEDED 500 BILLION YUAN"
+    },
+    {
+      "id": "4880986",
+      "time": "2026-05-15 09:40:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "體育概念震盪走強，粵傳媒衝擊漲停，金陵體育、共創草坪、舒華體育、中體產業跟漲。"
+    },
+    {
+      "id": "4880985",
+      "time": "2026-05-15 09:39:29",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超5000億元，較上日此時縮量1096億元。"
+    },
+    {
+      "id": "4880984",
+      "time": "2026-05-15 09:39:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "據印度《經濟時報》報道，預計將有四家投資者組成財團競購阿達尼機場專案。"
+    },
+    {
+      "id": "4880983",
+      "time": "2026-05-15 09:39:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度各邦零售商將汽油和柴油價格上調3盧比/升。"
+    },
+    {
+      "id": "te:economy:550903",
+      "time": "2026-05-15 09:38:42",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "China Calls for Strait of Hormuz to Remain Open — Beijing signaled during the U.S.-China summit that China wants the Strait of Hormuz to remain open without restrictions, tolls, or military control, U.S. Trade Representative Jamieson Greer said. Speaking to Bloomberg TV, Greer stated: “It’s really important for China to have the Strait of Hormuz open, no tolling, no military control.” He added that Washington views China as acting “very pragmatic” regarding Iran and believes Beijing does not want to be “on the wrong side of this.” Greer also said both China and the U.S. want peace in the region, expressing confidence that Beijing would help limit military support for Iran amid rising tensions in the Middle East."
+    },
+    {
+      "id": "mkt:019e2948-c49d-7bb5-b4d4-7cb7eb6147d0",
+      "time": "2026-05-15 09:38:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "BILI.O",
+        "Impact bearish",
+        "2418.HK"
+      ],
+      "text": "HANG SENG TECH INDEX DOWN OVER 1%; BILIBILI DOWN OVER 7%, ALI HEALTH DOWN OVER 5%"
+    },
     {
       "id": "4880982",
       "time": "2026-05-15 09:37:59",
@@ -137537,119 +137632,6 @@
         "AI Revolution"
       ],
       "text": "【White House Weighs AI Oversight After Concerns Over Anthropic’s Mythos Model】Vice President JD Vance raised concerns in a call with major AI company leaders, including OpenAI’s Sam Altman, Anthropic’s Dario Amodei, Elon Musk, Sundar Pichai and Satya Nadella, that advanced AI models such as Anthropic’s Mythos could autonomously identify software vulnerabilities and potentially enable cyberattacks on critical infrastructure like banks, hospitals and water systems. According to people familiar with the discussion, Vance urged coordination among companies and the government, while the White House is considering an executive order to create formal oversight for frontier AI models and has asked Anthropic to delay broader deployment of Mythos. National Cyber Director Sean Cairncross is leading the response effort, though the approach has reportedly triggered internal debate over whether it represents an overreaction or a policy shift."
-    },
-    {
-      "id": "4867430",
-      "time": "2026-05-08 09:41:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "【白宮記協晚宴槍擊事件後 特朗普再為白宮宴會廳專案辯護】當地時間5月7日，針對共和黨提出的白宮宴會廳相關10億美元預算，美國總統特朗普稱相關資金主要用於“安全專案”，而非宴會廳本身建設。特朗普當天表示：“那不是全部用於宴會廳的資金，那是用於白宮部分割槽域安全相關專案。”他還稱，其中部分資金涉及“軍事層面”的安全設施建設，以及總統安保需求，並強調：“我們會擁有一個安全的宴會廳。”"
-    },
-    {
-      "id": "4867429",
-      "time": "2026-05-08 09:40:57",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【燃油價格暴漲 全球多家航司削減逾7.5萬個夏季航班】一份最新航空資料分析報告顯示，由於航空燃油價格持續飆升，全球多家航空公司決定在今年夏季削減逾7.5萬個航班。削減航班數最多的4家航司均來自美國。美國商業內幕網站6日報道，英國睿思譽航空資料分析公司釋出的報告顯示，透過比對全球各航司的航班安排變動，發現這些航司將於今年6月1日至9月30日總計削減逾7.5萬個航班。按睿思譽航空資料分析公司的說法，這意味著超過930萬個航班座位將被取消。"
-    },
-    {
-      "id": "4867428",
-      "time": "2026-05-08 09:40:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "港股泡泡瑪特盤初漲超6%，報173.3港元。訊息面上，知名投資人段永平稱清倉中國神華買入泡泡瑪特。"
-    },
-    {
-      "id": "4867427",
-      "time": "2026-05-08 09:40:35",
-      "tags": [
-        "市場"
-      ],
-      "text": "大盤主力淨流出超100億。"
-    },
-    {
-      "id": "4867426",
-      "time": "2026-05-08 09:40:22",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達10億港元。"
-    },
-    {
-      "id": "4867425",
-      "time": "2026-05-08 09:40:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "【香奈兒美妝入駐京東】從香奈兒中國處獲悉，香奈兒美妝將於2026 年 5 月 11 日於京東開設美妝官方旗艦店。該電商旗艦店已於2026 年 4 月 27 日開啟預售服務。這是香奈兒美妝在中國的第四個官方電商渠道。在此之前，香奈兒美妝業務已有官方線上店、天貓旗艦店與微信精品店渠道。（介面新聞）"
-    },
-    {
-      "id": "4867424",
-      "time": "2026-05-08 09:39:37",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超5000億元，較上日此時縮量207億元。"
-    },
-    {
-      "id": "4867423",
-      "time": "2026-05-08 09:39:25",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【港口航運板塊盤初拉昇，北部灣港漲停】港口航運板塊盤初拉昇，海通發展盤中創新高，北部灣港漲停，唐山港、中谷物流、遼港股份、秦港股份、廈門港務跟漲。"
-    },
-    {
-      "id": "4867422",
-      "time": "2026-05-08 09:38:53",
-      "tags": [
-        "市場"
-      ],
-      "text": "泡泡瑪特港股上漲5.9%。"
-    },
-    {
-      "id": "4867421",
-      "time": "2026-05-08 09:38:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "【第48屆東盟峰會在菲律賓宿務開幕】5月8日，第48屆東盟峰會在菲律賓宿務開幕。本次峰會由東盟輪值主席國菲律賓主持，會議將聚焦能源安全、糧食安全及東盟公民安全這三大重要優先事項。同時，本次峰會還將推進一些議題的討論，包括籌備《東南亞友好合作條約》50週年紀念活動等。"
-    },
-    {
-      "id": "mkt:019e053c-81d2-7775-8cbc-559a0f4a9d2b",
-      "time": "2026-05-08 09:38:31",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Hot",
-        "Market Regions",
-        "Greater China",
-        "Policy",
-        "Chinese Policy & Markets",
-        "9992.HK",
-        "Impact bullish"
-      ],
-      "text": "POP MART INTERNATIONAL SHARES RISE 5.9% IN HONG KONG"
-    },
-    {
-      "id": "mkt:019e053c-4116-7775-8cbc-4d47e059752d",
-      "time": "2026-05-08 09:38:15",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bearish"
-      ],
-      "text": "HANG SENG TECH INDEX FALLS 1%"
     }
   ]
 }
