@@ -1,7 +1,115 @@
 {
-  "updated": "2026-05-15 19:02:38",
-  "count": 15618,
+  "updated": "2026-05-15 19:06:16",
+  "count": 15616,
   "items": [
+    {
+      "id": "4882138",
+      "time": "2026-05-15 19:05:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【永新光學：股東電子資訊、電子工業擬分別減持0.9418%和0.0498%】永新光學公告，持股7.4441%的股東寧波電子資訊及一致行動人寧波市電子工業擬於2026年6月8日～2026年9月7日，透過集中競價、大宗交易方式減持公司股份合計不超過110萬股，佔公司總股本0.9916%。其中電子資訊擬減持不超104.48萬股，比例0.9418%；電子工業擬減持不超55200股，比例0.0498%。減持前兩者分別持股825.83萬股、10.11萬股。"
+    },
+    {
+      "id": "4882137",
+      "time": "2026-05-15 19:05:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【精智達：擬參與投資設立總規模2億元的創投基金】精智達公告，公司或公司全資子公司擬與深圳清源時代投資管理控股有限公司的全資子公司常州清源時代投資管理有限公司及其他合夥人共同設立創業投資合夥企業（有限合夥）。創投基金擬定總規模為人民幣2億元，公司或公司全資子公司擬作為有限合夥人（LP）以自有資金出資人民幣5400萬元，佔認繳出資總額的27%。創投基金擬投資於精密製造、電子資訊、新材料、重型裝備等領域的初創期、中早期專案，聚焦於半導體及圍繞半導體產業鏈上下游的產業投資。"
+    },
+    {
+      "id": "4882136",
+      "time": "2026-05-15 19:05:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本首相高市早苗：重申與美國總統特朗普保持密切溝通。"
+    },
+    {
+      "id": "mkt:019e2b50-290c-7ff8-af3b-c1df4f8f0eea",
+      "time": "2026-05-15 19:04:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "JAPAN PM TAKAICHI: REAFFIRMED WITH TRUMP TO CONTINUE CLOSE COMMUNICATIONS ON INDO-PACIFIC ISSUES"
+    },
+    {
+      "id": "4882135",
+      "time": "2026-05-15 19:04:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "餘承東： 智界V9上市2小時，訂單突破7000臺。"
+    },
+    {
+      "id": "4882134",
+      "time": "2026-05-15 19:04:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "【泰國發現東南亞迄今最大恐龍】來自英國和泰國的研究人員近日在《科學報告》期刊上發表論文，宣佈在泰國發現新的恐龍物種——猜也蓬那伽巨龍（又稱那伽巨龍）。這是迄今為止在東南亞發現的體型最大的恐龍。 (環球網)"
+    },
+    {
+      "id": "4882133",
+      "time": "2026-05-15 19:04:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【江蘇雷利：靈巧手產品已實現小批次出貨 正在推進升級迭代】江蘇雷利(300660.SZ)釋出投資者關係活動記錄表公告，公司機器人核心零部件產品佈局全面，目前已進入多家國內外機器人本體、模組廠商和靈巧手企業的供應鏈。同時，公司已推出連桿式、繩驅式等多種技術路線的靈巧手產品，其中連桿式靈巧手整體精度較高，繩驅式靈巧手自由度高。公司同時佈局多種技術路線，以滿足客戶不同應用場景的需求。2025年公司靈巧手產品已實現小批次出貨，其中包括向多家工業領域客戶進行送樣測試。目前公司正在推進靈巧手產品的升級迭代，並開展力控臂和配套的大小腦控制系統的研發工作，正在多個工業場景進行試點應用，將重點推進靈巧手元件在工廠流水線的應用，目標2026年打造1-2個工業場景應用的標杆專案。"
+    },
+    {
+      "id": "mkt:019e2b4e-f291-7ff8-af3b-bc18166a98d0",
+      "time": "2026-05-15 19:04:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "TRUMP SAYS HE IS WEIGHING LIFTING SANCTIONS ON CHINESE COMPANIES THAT BUY IRANIAN OIL, WILL HAVE DECISION SOON"
+    },
+    {
+      "id": "mkt:019e2b4e-1ad5-7ff8-af3b-b57df4609956",
+      "time": "2026-05-15 19:03:19",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "TRUMP DOESN'T ELABORATE ON COMMUNICATIONS WITH NORTH KOREA"
+    },
+    {
+      "id": "mkt:019e2b4d-ad71-7ff8-af3b-af8797e2e923",
+      "time": "2026-05-15 19:02:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TRUMP: I'VE HAD COMMUNICATIONS WITH NORTH KOREAN LEADER"
+    },
+    {
+      "id": "4882132",
+      "time": "2026-05-15 19:02:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：如果拿不到伊朗的核塵埃 ，我們就會出兵。"
+    },
+    {
+      "id": "mkt:019e2b4d-8011-7ff8-af3b-a49540e72aea",
+      "time": "2026-05-15 19:02:39",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "TRUMP: DISCUSSED NORTH KOREA WITH XI"
+    },
     {
       "id": "mkt:019e2b4d-6afe-7ff8-af3b-9e9dbc04d856",
       "time": "2026-05-15 19:02:34",
@@ -140756,149 +140864,6 @@
         "MKT News"
       ],
       "text": "FED'S MIRAN: NEITHER JOBS MARKET NOR INFLATION EXPECTATIONS POINT TO HIGHER INFLATION"
-    },
-    {
-      "id": "4868403",
-      "time": "2026-05-08 19:05:35",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗外交部8日就美國違反停火協議發表宣告，強烈譴責美國軍隊對伊朗兩艘油輪及霍爾木茲海峽沿岸多個地點的襲擊，並強調伊朗武裝部隊決心捍衛伊朗領土完整、獨立和國家主權，反對任何侵略。（新華社）"
-    },
-    {
-      "id": "mkt:019e0743-a619-7ff0-9ed3-d7890b896739",
-      "time": "2026-05-08 19:05:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IRAN'S FOREIGN MINISTER ARAQCHI: OUR MISSILE INVENTORY AND LAUNCHER CAPACITY ARE NOT AT 75% COMPARED TO FEB 28, THE CORRECT FIGURE IS 120%"
-    },
-    {
-      "id": "4868402",
-      "time": "2026-05-08 19:05:15",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗外交部長表示：我國導彈庫存與發射器產能相較於2月28日的水平並未停留在75%，正確資料為120%。"
-    },
-    {
-      "id": "4868401",
-      "time": "2026-05-08 19:05:08",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲米蘭：美聯儲應不理會能源衝擊。"
-    },
-    {
-      "id": "mkt:019e0743-3acc-7ff0-9ed3-caac518a5d8d",
-      "time": "2026-05-08 19:05:06",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "Commodities",
-        "Energy",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "FED'S MIRAN: FED SHOULD LOOK THROUGH ENERGY SHOCKS"
-    },
-    {
-      "id": "4868400",
-      "time": "2026-05-08 19:05:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "亞洲開發銀行：亞洲開發銀行將動員300億美元支援東盟國家推進發展優先事項，應對外部衝擊。"
-    },
-    {
-      "id": "4868399",
-      "time": "2026-05-08 19:04:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "真主黨：“海法北部集體農莊已響起戰爭警報”。"
-    },
-    {
-      "id": "4868398",
-      "time": "2026-05-08 19:04:16",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲米蘭：減少前瞻指引將提升政策靈活性。"
-    },
-    {
-      "id": "4868397",
-      "time": "2026-05-08 19:03:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "【英國地方選舉初步統計對執政黨不利】5月7日，英國英格蘭、蘇格蘭、威爾士舉行地方選舉，大批地方議會議席進入改選階段。其中，英格蘭改選約5000名地方議會議員。據英國媒體今天（5月8日）公佈的初步統計資料顯示，在英格蘭已統計的三分之一改選議席中，“脫歐”倡導者法拉奇領導的極右翼政黨“英國改革黨”成最大贏家，已拿到了400多個地方議會議席；而執政黨工黨失去了200多個地方議會議席，最大反對黨保守黨也失去了100多席；工黨還失去了對牛津等多個地方議會的控制權。英國長期以來的兩黨政治格局遭遇重大沖擊。#英執政黨地方選舉不利首相稱不辭職# 目前，英格蘭地方議會選舉結果的統計還在陸續進行中，蘇格蘭和威爾士議會選舉尚未公佈相關統計。民調顯示，“英國改革黨”在蘇格蘭和威爾士議會也有可能成為主要反對黨。 對於這一不利選舉結果，工黨領導人、英國首相斯塔默今天（5月8日）表示，這一結果“令人沮喪”，但他“不會一走了之”。（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:019e0741-cf42-7ff0-9ed3-c779a280af0c",
-      "time": "2026-05-08 19:03:31",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "FED'S MIRAN: THINKS FED SHOULD PROVIDE LESS FORWARD GUIDANCE"
-    },
-    {
-      "id": "4868396",
-      "time": "2026-05-08 19:03:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "南非總統府：總統尊重憲法法院的判決，並重申他對憲法的承諾。"
-    },
-    {
-      "id": "mkt:019e0741-3899-7ff0-9ed3-ba3abcad9774",
-      "time": "2026-05-08 19:02:55",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "US10Y"
-      ],
-      "text": "FED'S MIRAN: FED POLICY IS HOLDING BACK JOB MARKET"
-    },
-    {
-      "id": "4868395",
-      "time": "2026-05-08 19:02:51",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲官員米蘭：我認為降息是適宜之舉。"
-    },
-    {
-      "id": "mkt:019e0741-2b4e-7ff0-9ed3-b57011128267",
-      "time": "2026-05-08 19:02:51",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "EURUSD"
-      ],
-      "text": "FED'S MIRAN: I THINK IT'S APPROPRIATE TO CUT INTEREST RATES - FOX BUSINESS"
     }
   ]
 }
