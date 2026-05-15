@@ -1407,6 +1407,32 @@ def official_item_text(item) -> str:
     return str(item or "")
 
 
+def central_bank_official_owner(official: str) -> str | None:
+    official = str(official or "").strip()
+    if not official:
+        return None
+    for bank_id, aliases_by_name in CENTRAL_BANK_OFFICIAL_ALIASES.items():
+        for canonical, aliases in aliases_by_name.items():
+            if official == canonical or any(central_bank_alias_matches(alias, official) for alias in aliases):
+                return bank_id
+    return None
+
+
+def sanitize_central_bank_officials(result: dict) -> dict:
+    for bank in result.get("central_banks", []):
+        bank_id = str(bank.get("id", "")).lower()
+        officials = []
+        for item in bank.get("officials") or []:
+            official = item.get("official", "") if isinstance(item, dict) else ""
+            owner = central_bank_official_owner(official)
+            if owner and owner != bank_id:
+                print(f"[WARN] 移除錯放央行官員：{bank.get('name', bank_id)} -> {official}")
+                continue
+            officials.append(item)
+        bank["officials"] = officials
+    return result
+
+
 def central_bank_official_issues(
     result: dict,
     required: dict[str, list[str]],
@@ -1659,7 +1685,7 @@ def call_openai_central_bank_summary(items: list[dict], start: datetime, end: da
         r.raise_for_status()
         return json.loads(extract_response_text(r.json()))
 
-    result = request_summary(prompt)
+    result = sanitize_central_bank_officials(request_summary(prompt))
     official_issues = central_bank_official_issues(result, required_officials)
     for attempt in range(2):
         if not official_issues:
@@ -1678,7 +1704,7 @@ details 要像範例那樣拆成「發言時間與場合」「核心主張」「
 analysis 只做總覽，真正細節放在 details；analysis + details 合計至少 300 個中文字。
 絕對不要再輸出短句、新聞標題式摘要、或多位官員混寫在同一個 analysis/details。
 """.strip()
-        result = request_summary(retry_prompt)
+        result = sanitize_central_bank_officials(request_summary(retry_prompt))
         official_issues = central_bank_official_issues(result, required_officials)
     hard_issues = central_bank_official_issues(result, required_officials, include_missing=False)
     if hard_issues:
