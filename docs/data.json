@@ -1,7 +1,96 @@
 {
-  "updated": "2026-05-15 14:20:23",
-  "count": 15334,
+  "updated": "2026-05-15 14:23:51",
+  "count": 15336,
   "items": [
+    {
+      "id": "mkt:019e2a4d-add6-7bb5-b4d7-a2f269047b7c",
+      "time": "2026-05-15 14:23:14",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "YIELD ON 40-YEAR JGB RISES 8.5 BASIS POINTS TO 4.235%, RECORD HIGH"
+    },
+    {
+      "id": "mkt:019e2a4d-6bf9-7bb5-b4d7-9bb3710d1bff",
+      "time": "2026-05-15 14:22:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "TRUMP BOARDS AIR FORCE ONE TO LEAVE BEIJING"
+    },
+    {
+      "id": "mkt:019e2a4d-5399-7bb5-b4d7-962e47940c30",
+      "time": "2026-05-15 14:22:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "TRUMP SEEN TALKING TO CHINESE FOREIGN MINISTER BEFORE BOARDING AIR FORCE ONE IN BEIJING"
+    },
+    {
+      "id": "4881404",
+      "time": "2026-05-15 14:22:46",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【美國總統特朗普結束訪華】5月15日下午，美國總統特朗普結束對中國的國事訪問，乘專機離開北京。（央視新聞）"
+    },
+    {
+      "id": "4881403",
+      "time": "2026-05-15 14:22:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "AmSpec：馬來西亞5月1日至15日棕櫚油出口量為502,228噸，下滑16.49%。"
+    },
+    {
+      "id": "4881402",
+      "time": "2026-05-15 14:22:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【靳磊會見義大利駐華大使安博思】5月14日，深圳市委書記靳磊會見義大利駐華大使安博思一行。靳磊對安博思一行的到訪表示熱烈歡迎，並介紹了深圳經濟社會發展情況。他表示，深圳是一座改革開放創新之城，是粵港澳大灣區的中心城市和核心引擎之一，經濟社會發展態勢良好，正在奮力建設好中國特色社會主義先行示範區，建立社會主義現代化強國的城市範例。深圳與義大利地方合作基礎良好，前景廣闊。我們將認真落實兩國領導人重要共識，深化拓展經貿投資、創意設計、產業創新、文化旅遊等領域合作，努力取得更多豐碩成果，為兩國關係發展發揮地方積極作用。（深圳釋出）"
+    },
+    {
+      "id": "te:markets:551020",
+      "time": "2026-05-15 14:20:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "European Gas Prices Climb Further — European natural gas futures rose further to around €48.2 per MWh and were on track for strong weekly gains, amid heightened fears of more prolonged supply disruptions. President Donald Trump warned Iran to agree to a deal or face “annihilation,” saying his patience with Tehran was wearing thin. Meanwhile, Iran said that around 30 vessels had managed to pass through the Strait of Hormuz. These developments came after the US and Iran failed to reach an agreement on a US-drafted peace proposal, keeping tensions around the key waterway. Roughly one-fifth of the world’s LNG supply has been disrupted since the conflict began in late February. While most gas exports from the Persian Gulf typically head to Asia, the disruption has tightened global supply and intensified competition for cargoes. This has raised serious concerns for Europe, particularly as the region needs to rebuild gas stocks ahead of winter. European gas prices have surged more than 9% so far this week."
+    },
+    {
+      "id": "4881401",
+      "time": "2026-05-15 14:20:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【杭州首宗組合宅地成功出讓 由綠城濱江聯合體38.9億元競得】杭州今日迎來首次組合宅地出讓，餘杭未來科技城兩宗地塊以“組合打包”形式統一報名、統一報價，總建築面積約12.3萬平方米，起始總價28.9億元。經過86輪競價，最終由綠城、濱江聯合體以38.9億元的總價競得，平均溢價率34.7%，綜合樓面價31644元/平方米。其中，北側地塊成交總價21.3億，溢價率30.8%，成交樓面價26153元/平方米；南側地塊成交總價17.6億，溢價率39.7%，成交樓面價42387元/平方米。中指院分析師表示，本次杭州首宗組合宅地的成功出讓，標誌著土地出讓模式從單一地塊管理向片區整體統籌的轉變。"
+    },
+    {
+      "id": "4881400",
+      "time": "2026-05-15 14:20:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：沃爾瑪要求 Flipkart暫時推遲 IPO 計劃，要求 Flipkart 在27 財年前實現 EBITDA 盈虧平衡。"
+    },
     {
       "id": "4881399",
       "time": "2026-05-15 14:19:20",
@@ -138354,66 +138443,6 @@
         "其他"
       ],
       "text": "法國交通部長：預計今年夏季不會出現大規模航班取消。"
-    },
-    {
-      "id": "mkt:019e0641-b054-7113-a190-de10118e44d1",
-      "time": "2026-05-08 14:23:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "FRENCH TRANSPORT MINISTER: NO MASSIVE FLIGHT CANCELLATIONS EXPECTED THIS SUMMER"
-    },
-    {
-      "id": "4867773",
-      "time": "2026-05-08 14:23:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄烏均稱停火但戰火未熄】烏克蘭宣佈自當地時間5月6日零點起停火，俄羅斯宣佈自當地時間今天（5月8日）零點起停火——但據俄羅斯莫斯科市長索比亞寧通報稱，自今天零點起，已有26架烏克蘭無人機在接近莫斯科時被擊落。俄羅斯交通部稱，俄羅斯南部13家機場因遭無人機襲擊停止運營。烏克蘭總統澤連斯基今天還在社交媒體上稱，烏軍對俄羅斯雅羅斯拉夫爾州一處石油設施實施打擊。澤連斯基稱，這處石油設施距離邊境約700公里遠，這次襲擊對“切斷俄羅斯戰爭資金來源、遏制其戰爭能力意義重大”。（CCTV國際時訊）"
-    },
-    {
-      "id": "te:economy:549069",
-      "time": "2026-05-08 14:23:04",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Sweden",
-        "Industrial Production",
-        "Importance 1"
-      ],
-      "text": "Sweden Industrial Output Growth Slows in March — Industrial production in Sweden rose 3% year-on-year in March 2026, easing from a downwardly revised 6.2% in the previous month. Manufacturing output slowed to 3.5% from 6.4% in the prior month, weighed down by weaker gains in textiles, clothing and leather industries (3% vs 6.3% in February), and transport equipment (0.1% vs 19.5%), as well as declines in electrical equipment (-5.3% vs 0.6%), machinery and equipment (-1.4% vs 5.2%), and motor vehicles, trailers and semi-trailers (-1.9% vs 18.9%). Meanwhile, mining and quarrying output fell 6.8%, reversing a 6.1% rise in the previous month. On a seasonally adjusted monthly basis, industrial production dropped 2%, down from a downwardly revised 3.8% growth in the prior period."
-    },
-    {
-      "id": "4867772",
-      "time": "2026-05-08 14:21:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "【澤連斯基稱烏方打擊俄羅斯雅羅斯拉夫爾州一處石油設施】當地時間8日，烏克蘭總統澤連斯基在社交媒體上表示，烏方已對距離烏邊境超700公里的俄羅斯雅羅斯拉夫爾州一處石油設施實施打擊，此舉對切斷俄羅斯戰爭資金來源、遏制其戰爭能力意義重大。澤連斯基稱此次打擊是對俄軍襲擊烏城鄉的回應，烏遠端打擊行動正持續生效。（央視新聞）"
-    },
-    {
-      "id": "4867771",
-      "time": "2026-05-08 14:21:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "【臺積電銷售額增長17.5% 得益於AI建設熱潮持續】臺積電公佈銷售額增長17.5%，凸顯為人工智慧(AI)熱潮提供資金支援的超大規模雲服務商持續進行投入。4月銷售額增至4107億元臺幣（131億美元）。分析師平均預期該公司6月所在季度的營收將增長35%。臺積電透過為英偉達和AMD等企業生產尖端半導體，已成為全球AI產業的重要參與者。與此同時，Alphabet Inc.、亞馬遜、Meta Platforms Inc.和微軟表示，今年將撥出7250億美元用於AI領域，遠超此前預期。"
-    },
-    {
-      "id": "4867770",
-      "time": "2026-05-08 14:21:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯媒體8日援引俄交通部訊息說，由於無人機撞上一棟空中導航管理大樓，俄羅斯南部13個機場暫停運營。目前暫無人員傷亡報告。（新華社）"
-    },
-    {
-      "id": "4867769",
-      "time": "2026-05-08 14:21:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列軍隊對黎巴嫩多個城鎮釋出強制撤離令。"
     }
   ]
 }
