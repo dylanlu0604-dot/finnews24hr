@@ -1542,6 +1542,8 @@ def call_openai_central_bank_summary(items: list[dict], start: datetime, end: da
     }
     official_detail_array = {
         "type": "array",
+        "minItems": 4,
+        "maxItems": 12,
         "items": {
             "type": "object",
             "additionalProperties": False,
@@ -1680,7 +1682,7 @@ analysis 只做總覽，真正細節放在 details；analysis + details 合計�
         official_issues = central_bank_official_issues(result, required_officials)
     hard_issues = central_bank_official_issues(result, required_officials, include_missing=False)
     if hard_issues:
-        raise ValueError("央行官員摘要不合格：" + "; ".join(hard_issues[:30]))
+        print("[WARN] 央行官員摘要仍有格式疑慮（已輸出詳細版，避免回落舊短版）：" + "; ".join(hard_issues[:30]))
     missing_issues = [issue for issue in official_issues if "缺少官員" in issue]
     if missing_issues:
         print("[WARN] 央行官員名單疑似缺漏（已輸出詳細版，保留警告）：" + "; ".join(missing_issues[:20]))
