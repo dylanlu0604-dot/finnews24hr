@@ -1,7 +1,283 @@
 {
-  "updated": "2026-05-15 20:41:41",
-  "count": 15578,
+  "updated": "2026-05-15 20:58:13",
+  "count": 15558,
   "items": [
+    {
+      "id": "4882339",
+      "time": "2026-05-15 20:54:46",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【富達投資經理在伊朗戰爭爆發前押注通脹上升獲利】早在伊朗戰爭爆發之前，富達國際投資組合經理邁克·裡德爾就對全球物價壓力正在緩解的觀點持懷疑態度。他當時逆勢而為的押注——通脹即將上升，如今已獲得豐厚回報。幾個月前，他買入了美國和英國的通脹互換合約，本質上是為了防範通脹高於預期的風險。這是因為他認為，在伊朗戰爭導致油價飆升至每桶 100 美元以上之前，債券市場（以及他的大多數同行）對通脹的定價就嚴重低估了通脹風險。裡德爾在接受採訪時表示：“考慮到全球投資者預期的多次降息，中東衝突的風險絕對沒有反映在利率中。”儘管略微減持了倉位，他仍然持有通脹互換合約。"
+    },
+    {
+      "id": "mkt:019e2bb4-79f6-7440-b03a-547a9b3c72e5",
+      "time": "2026-05-15 20:54:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "US INTEREST RATE FUTURES NOW REFLECT MORE THAN 50% PROBABILITY OF A FED RATE HIKE BY JANUARY"
+    },
+    {
+      "id": "te:markets:551208",
+      "time": "2026-05-15 20:54:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Crude Up 7% This Week — Brent crude oil futures rose past $108 per barrel on Friday and were on track for a weekly gain of around 7% as the Strait of Hormuz remained effectively closed, keeping global supply concerns elevated. Efforts to end the conflict remain stalled, with disruptions continuing to impact energy markets and fuel inflation fears. President Donald Trump delivered mixed messages on the situation, first saying the US did not need the Strait open before later stating alongside Chinese President Xi Jinping that “we want the straits open.” The International Energy Agency warned this week that the oil market could remain severely undersupplied until October even if fighting ends next month. Oil inventories continue to tighten, while tanker traffic through Hormuz remains extremely limited, with only a small number of vessels managing to leave the Persian Gulf since the conflict began."
+    },
+    {
+      "id": "4882338",
+      "time": "2026-05-15 20:54:09",
+      "tags": [
+        "市場",
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國利率期貨目前顯示，美聯儲在1月前加息的機率已超過50%。"
+    },
+    {
+      "id": "mkt:019e2bb3-3f9e-7440-b03a-4be3a8efbee4",
+      "time": "2026-05-15 20:53:47",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bearish"
+      ],
+      "text": "LME THREE MONTH COPPER FALLS 3.2% TO $13,489/T"
+    },
+    {
+      "id": "4882337",
+      "time": "2026-05-15 20:53:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "倫敦金屬交易所三個月期銅下跌3.2%，至每噸13489美元。"
+    },
+    {
+      "id": "te:markets:551207",
+      "time": "2026-05-15 20:53:30",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Heads for Strong Weekly Gain — WTI crude oil futures climbed more than 3% to above $104 per barrel on Friday and were on track for a weekly gain of over 9% as the Strait of Hormuz remained effectively closed, keeping global supply concerns elevated. Efforts to end the conflict remain stalled, with disruptions continuing to impact energy markets and fuel inflation fears. President Donald Trump delivered mixed messages on the situation, first saying the US did not need the Strait open before later stating alongside Chinese President Xi Jinping that “we want the straits open.” The International Energy Agency warned this week that the oil market could remain severely undersupplied until October even if fighting ends next month. Oil inventories continue to tighten, while tanker traffic through Hormuz remains extremely limited, with only a small number of vessels managing to leave the Persian Gulf since the conflict began."
+    },
+    {
+      "id": "4882336",
+      "time": "2026-05-15 20:52:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "倫錫日內走低4.00%，現報52310.00美元/噸。"
+    },
+    {
+      "id": "4882335",
+      "time": "2026-05-15 20:52:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國司法部：經國土安全特別工作組調查，阿拉瓜列車團伙頭目因涉嫌恐怖主義及跨國販毒罪名被引渡。"
+    },
+    {
+      "id": "4882332",
+      "time": "2026-05-15 20:50:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "截至 5 月 13 日，巴西 2026/27 產季咖啡預售進度達 16%。"
+    },
+    {
+      "id": "4882331",
+      "time": "2026-05-15 20:49:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國能建與中核集團簽署戰略合作協議】據中國能建訊息，5月15日，中國能建黨委書記、董事長倪真在京與中核集團黨組書記、董事長申彥鋒會談。雙方就深化核電建設、技術研發、產業鏈生態、國際業務等領域合作進行交流，並見證簽署戰略合作協議。"
+    },
+    {
+      "id": "4882330",
+      "time": "2026-05-15 20:49:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【越南用電激增 政府呼籲節電】受高溫天氣影響，越南近日用電量激增，13日創下今年新高。越南政府釋出行動計劃，呼籲企業和家庭加大節電力度。據越南電力集團統計，13日越南用電量達到11億千瓦時，創下今年以來最高紀錄。當天16時10分，電力系統峰值負荷超過5.2萬兆瓦，相當於2025年峰值水平的約95%。越南政府說，預計5月最後一週該國將有新一輪熱浪來襲，給電網帶來更大壓力。越南媒體15日報道，越南工貿部發布一份行動計劃，呼籲企業和家庭節電，目標是2026年全年用電量節約至少3%，其中4月至7月最熱月份用電量節約至少10%。（新華社）"
+    },
+    {
+      "id": "4882329",
+      "time": "2026-05-15 20:48:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗歡迎中國的外交努力】伊朗外長阿拉格齊今天（5月15日）在金磚國家外長會閉幕後的記者會上表示，中國與伊朗的關係非常好，中國還曾在伊朗與沙特復交方面提供了幫助。伊朗知道中國始終懷有善意，伊朗歡迎中國為外交解決當前局勢所做出的任何努力。中國外交部發言人今天再次強調，中方在伊朗局勢上的立場十分明確。自戰事爆發以來，中方一直為止戰奔走，為和平盡力。中方始終認為，對話談判才是正道，武力解決沒有出路。（CCTV國際時訊）"
+    },
+    {
+      "id": "4882328",
+      "time": "2026-05-15 20:47:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【海關總署署長孫梅君到甘肅調研】近日，海關總署署長孫梅君到蘭州海關調研。在蘭州新區綜保區、金城海關、保健中心和有關企業，孫梅君詳細瞭解綜保區建設發展、特色農產品出口、口岸疫情疫病防控以及出口管制措施落實等情況，要求加強監管標準化、規範化、專業化建設，壓實各方責任，加強管制物項、危化品等進出境管理，引導企業合規貿易，從源頭上防範化解風險。要學習運用“義烏髮展經驗”，結合關區產業發展和企業需求，因地制宜創新監管制度，一企一策最佳化監管服務，支援特色優勢產業做大做強，助力甘品出海。"
+    },
+    {
+      "id": "4882327",
+      "time": "2026-05-15 20:47:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雪峰科技：控股股東廣東宏大擬1.5億元-3億元增持公司股份】雪峰科技5月15日公告，公司控股股東廣東宏大控股集團股份有限公司計劃自2026年5月15日起12個月內，透過上海證券交易所繫統允許的方式（包括但不限於集中競價、大宗交易、協議轉讓等）增持公司股份，累計增持金額不低於1.5億元，不超過3億元。本次增持價格不超過9.6元/股。增持資金來源為自有資金及股票增持專項貸款。廣東宏大承諾在增持實施期間及法定期限內不減持所持有的公司股份。"
+    },
+    {
+      "id": "mkt:019e2bac-e695-7440-b03a-41e7406aef40",
+      "time": "2026-05-15 20:46:51",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "WRIGHT: DOING EVERYTHING WE CAN TO MAKE ENERGY AFFORDABLE"
+    },
+    {
+      "id": "mkt:019e2bac-c718-7440-b03a-3ec05b787be7",
+      "time": "2026-05-15 20:46:43",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "IRAN'S ARAQCHI: CLARIFIED TO INDIA'S JAISHANKAR THAT IRAN WILL ALWAYS CARRY OUT HISTORICAL DUTY AS PROTECTOR OF SECURITY IN HORMUZ"
+    },
+    {
+      "id": "4882326",
+      "time": "2026-05-15 20:46:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特：我們正在盡一切努力降低能源價格。"
+    },
+    {
+      "id": "4882324",
+      "time": "2026-05-15 20:44:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特：美國停止出口柴油“毫無道理”。"
+    },
+    {
+      "id": "te:economy:551204",
+      "time": "2026-05-15 20:44:56",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Belgium",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Belgium 10Y Bond Yield Hits 14-year High — Belgium 10 Year Government Bond Yield increased to 3.72%, the highest since March 2012. Over the past 4 weeks, Belgium 10Y Bond Yield gained 22.86 basis points, and in the last 12 months, it increased 59.05 basis points."
+    },
+    {
+      "id": "4882323",
+      "time": "2026-05-15 20:44:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦航空管理局宣告稱，將投資超7.5億美元，新建八座空中交通管制塔臺及終端雷達進近管制（TRACON）設施，以替換現有老舊設施。"
+    },
+    {
+      "id": "mkt:019e2baa-d4ae-7440-b03a-362ed99dbe08",
+      "time": "2026-05-15 20:44:36",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "U.S. ENERGY SECRETARY WRIGHT: GOING TO KEEP U.S. DIESEL EXPORTS FLOWING -CNBC INTERVIEW"
+    },
+    {
+      "id": "4882322",
+      "time": "2026-05-15 20:44:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特：將保持柴油出口暢通，石油行業不應該花費大量資金來掩埋二氧化碳。"
+    },
+    {
+      "id": "4882321",
+      "time": "2026-05-15 20:43:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【禾豐股份：股東王仲濤擬減持不超870萬股公司股份】禾豐股份5月15日公告，公司持股5%以下股東王仲濤計劃自2026年6月6日至2026年9月5日期間，透過大宗交易、集中競價交易方式減持公司股份不超過870萬股，即不超過公司總股本的0.9578%。減持股份來源為公司首次公開發行前取得的股份，減持原因為自身資金需求。本次減持不設價格區間。"
+    },
+    {
+      "id": "mkt:019e2ba9-c4d9-7440-b03a-2d681f9b74b6",
+      "time": "2026-05-15 20:43:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. FAA SAYS OVER $750 MILLION INVESTMENT WILL REPLACE EIGHT AIR TRAFFIC CONTROL TOWERS AND TERMINAL RADAR APPROACH CONTROLS (TRACONS) WITH NEW FACILITIES -STATEMENT"
+    },
+    {
+      "id": "4882320",
+      "time": "2026-05-15 20:42:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【報告：手持智慧相機爆發增長 雲臺相機三年出貨量激增16倍】群智諮詢《全球運動相機市場深度調研報告》預測顯示，雲臺相機三年出貨量激增16倍，成為手持智慧影像裝置市場的核心增長極。從市場資料來看，2023年全球雲臺相機出貨量僅為120萬臺，而到2026年這一數字預計將達到1480萬臺，三年間增長超過16倍。這種爆發式增長背後，是消費者對高質量移動影像需求的快速提升。"
+    },
+    {
+      "id": "mkt:019e2ba9-2117-7440-b03a-246377e76b66",
+      "time": "2026-05-15 20:42:25",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "US ENERGY SECRETARY WRIGHT: HORMUZ'S ENERGY IMPORTANCE TO DECREASE - CNBC"
+    },
+    {
+      "id": "4882319",
+      "time": "2026-05-15 20:42:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國弗吉尼亞州因新武器禁令遭起訴。"
+    },
+    {
+      "id": "4882318",
+      "time": "2026-05-15 20:41:51",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "【道富：股市仍受到支撐，但利率動向或成回撥因素】道富董事總經理兼EMEA宏觀策略主管蒂姆·格拉夫表示：“過去幾天，全球股市一直處於持續上漲的狀態。因此，我認為我們正處於這波漲勢略顯疲態的階段。”但他補充稱，股市仍受到支撐。“我認為，如果有什麼因素足以引發回撥，那就是利率市場的動向，以及通脹可能長期高於許多央行目標水平、迫使它們可能不得不收緊政策的預期，”他說。"
+    },
     {
       "id": "4882317",
       "time": "2026-05-15 20:41:26",
@@ -140031,508 +140307,6 @@
         "國際"
       ],
       "text": "【海上絲路指數：本週整體運力供小於需 多數航線運價上漲】本週寧波航運交易所釋出的海上絲綢之路指數之寧波出口集裝箱運價指數(NCFI)報收於1462.6點，較上週上漲7.7%。21條航線中有20條航線運價指數上漲，1條航線運價指數基本持平。“海上絲綢之路”沿線地區主要港口中，13個港口運價指數上漲，1個港口運價指數下跌，2個港口運價指數基本持平。①歐洲航線運價指數為1131.9點，較上週上漲8.3%；地東航線運價指數為1377.4點，較上週上漲24.7%；地西航線運價指數為1817.0點，較上週上漲26.5%。②美東航線運價指數為1390.2點，較上週上漲7.4%；美西航線運價指數為1746.3點，較上週上漲7.8%。③中東航線運價指數為3884.7點，較上週基本持平。"
-    },
-    {
-      "id": "4868639",
-      "time": "2026-05-08 20:57:42",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "AI雲端計算基礎設施公司CoreWeave週五盤前交易中股價下跌約6.5%，此前該公司釋出的第二季度營收指引讓華爾街失望，同時一季度淨虧損進一步擴大。"
-    },
-    {
-      "id": "4868638",
-      "time": "2026-05-08 20:57:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "美光科技美股盤前漲超4%，現報672.5美元。"
-    },
-    {
-      "id": "4868637",
-      "time": "2026-05-08 20:57:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國對得克薩斯州採用初創企業Avride自動駕駛技術的自動駕駛汽車撞車事故展開調查。"
-    },
-    {
-      "id": "4868636",
-      "time": "2026-05-08 20:57:15",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【非農公佈後，美聯儲近期利率決議預期變化不大】據CME“美聯儲觀察”：美聯儲到6月維持利率不變的機率為94.9%（公佈前為96.9%），累計降息25個基點的機率為5.1%（公佈前為3.1%）。美聯儲到7月維持利率不變的機率為88.8%（公佈前為90.7%），累計降息25個基點的機率為10.8%（公佈前為9.1%），累計降息50個基點的機率為0.4%（公佈前為0.2%）。"
-    },
-    {
-      "id": "4868635",
-      "time": "2026-05-08 20:56:17",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "網路安全與雲端計算服務商Akamai Technologies股價週五盤前飆升27%，此前該公司宣佈與一家美國領先的前沿AI模型提供商簽署了一份為期七年、價值18億美元的雲基礎設施服務合同。"
-    },
-    {
-      "id": "4868634",
-      "time": "2026-05-08 20:55:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【博尼國際：出售附屬公司義烏博尼】博尼國際公告，公司與金國軍先生及金博先生全資擁有的Newpoly Holding Corporation訂立股份收購協議，出售香港博尼的全部已發行股份，即10000股普通股。同時，浙江博尼的全部資產及負債將轉讓至義烏博尼，完成後，義烏博尼將成為公司間接全資附屬公司。此外，公司與買方訂立租賃協議，繼續租賃物業的1棟7樓、3棟1-5樓、4棟2-4樓及宿舍樓。股東特別大會將於2026年5月26日舉行，以批准相關交易。"
-    },
-    {
-      "id": "mkt:019e07a8-647c-7557-85c5-0c8b91cb596a",
-      "time": "2026-05-08 20:55:35",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "DXY",
-        "Impact bearish",
-        "US10Y",
-        "Impact bullish",
-        "EURUSD"
-      ],
-      "text": "【RSM Chief Economist Joseph Brusuelas 】Conditions in the American labor market remain remarkably stable. Labor market demand, albeit soft by recent standards, is more than sufficient to keep the unemployment rate from rising as the economy adjusts to a historic supply shock that will soon erase nominal wage gains that is causing household consumption to slow. Thus, an uneasy status quo best described as a low hire, low fire labor market remains intact."
-    },
-    {
-      "id": "mkt:019e07a7-0d7c-7557-85c5-01abc27576e1",
-      "time": "2026-05-08 20:54:08",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "PGIM’S ON BTV SAYS THE REPORT “LOCKS IN THE STALEMATE AT THE FED. IT SOLIDIFIES THAT THEY ARE ON HOLD HERE INDEFINITELY.”"
-    },
-    {
-      "id": "4868633",
-      "time": "2026-05-08 20:53:52",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點"
-      ],
-      "text": "投行Stifel認為，在財報引發的拋售之後，Shake Shack目前的估值已處於投資者不容忽視的折價水平，因此將這家快餐休閒連鎖店的評級從持有上調至買入，但將目標價從105美元下調至85美元"
-    },
-    {
-      "id": "te:economy:549267",
-      "time": "2026-05-08 20:53:50",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Canada",
-        "Employment Change",
-        "Importance 1"
-      ],
-      "text": "Canada Employment Unexpectedly Falls in April — Employment in Canada edged down by 18,000 in April 2026, following a gain of 14,000 in the prior month and missing forecasts for a 15,000 increase. The result marked a second straight month of limited movement after February’s sharp decline of 84,000 jobs. Full-time employment fell by 47,000, while part-time positions increased by 29,000. Employment levels were broadly unchanged across the private and public sectors, as well as among self-employed workers. The unemployment rate rose among youth aged 15 to 24 to 14.3% and among core-aged men to 6.1%. Regionally, employment declined in Quebec, Newfoundland and Labrador, Saskatchewan, and New Brunswick, while Ontario added 42,000 jobs. Meanwhile, the employment rate slipped 0.1 percentage points to 60.5%."
-    },
-    {
-      "id": "mkt:019e07a6-69c5-7557-85c4-f979dc1f2d82",
-      "time": "2026-05-08 20:53:26",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "S&P500",
-        "Impact bearish",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "【Senior Editor Chris Anstey on US Job Data】Another negative proviso: total employment in the household survey was the lowest since December 2024, at 162.6 million. In other words, there’s been no employment expansion at all in the Trump administration. You can bet there will be some Democrats who will make hay from that."
-    },
-    {
-      "id": "4868632",
-      "time": "2026-05-08 20:53:05",
-      "tags": [
-        "觀點",
-        "國際"
-      ],
-      "text": "【高盛：美國資料中心用電需求或在兩年內翻倍】高盛預計，美國資料中心電力需求將從2025年的31GW增長至2026年的41GW，並在2027年進一步升至66GW。高盛認為，本輪AI資料中心擴張正在重塑美國地理格局。得州和佐治亞州正成為AI資料中心的重要聚集地，因為這些地區電力供應擴張更快，接入能力更強。"
-    },
-    {
-      "id": "4868631",
-      "time": "2026-05-08 20:52:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "【亞馬遜北弗吉尼亞資料中心雲服務中斷問題已基本解決】5月8日，據報道，亞馬遜的雲服務已基本恢復正常。此前，亞馬遜旗下的雲端計算部門於7日報告稱，其位於弗吉尼亞州北部的一個資料中心因過熱引發服務中斷。其導致包括加密貨幣交易所Coinbase在內的多家企業受到影響。"
-    },
-    {
-      "id": "mkt:019e07a5-7671-7557-85c4-f10f8c5f50cf",
-      "time": "2026-05-08 20:52:24",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "【Seth Sternberg, CEO and co-founder at Honor Technology】Continued growth in healthcare jobs, with job gains occurring in nursing and residential care facilities and home health care services, and social services -- all employment categories that are related to home healthcare. But those numbers mask a much bigger problem. Demand for in-home care is growing far faster than our workforce can keep up with."
-    },
-    {
-      "id": "4868630",
-      "time": "2026-05-08 20:52:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "【 美國務卿稱希望美伊進入嚴肅談判程序】 魯比奧表示，希望伊朗提出的是“認真嚴肅的提議”，並稱美方希望當前局勢能夠“推動雙方進入嚴肅談判程序”。魯比奧稱，如果有導彈射向美國，美方將作出回應。魯比奧說，7日發生的襲擊行動與美國針對伊朗的“史詩怒火行動”是“分開的”。在涉黎巴嫩相關議題上，魯比奧強調，美國不會與真主黨進行談判，當前重點是與黎巴嫩政府合作。在談及北約與駐軍問題時，魯比奧表示，美國一直有計劃在北約框架內進行軍事部署調整，但關於北約及美軍部署的具體細節，最終仍將由美國總統特朗普決定。他同時稱，近期在義大利舉行的相關會談中，並未討論北約及美軍部署的具體安排。（央視）"
-    },
-    {
-      "id": "te:markets:549265",
-      "time": "2026-05-08 20:52:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Futures Rebound to Record Highs — US equity futures extended their rebound to record highs on Friday as the strong earnings prospectives and robust labor market signals offset risks from the war in Iran. Contracts for the S&P 500 and Nasdaq were 0.6% higher at new records, while those for the Dow added 150 points. Companies in the AI infrastructure and software space continued to rise after leading the rally this week. Their recent earnings cited stronger productivity and growing demand that is due to be undeterred by macroeconomic headwinds in the US economy. Strikes between Iran and US pushed back any hopes of a deal that restores energy supply from the Persian Gulf. Also, the jobs report pointed to back-to-back months of higher employment gains than expected, strengthening the rhetoric from hawkish FOMC members as higher core inflation and surging energy prices backed bets of a Fed hike this year. Tesla and Nvidia were 1% higher premarket, while AMD gained 2% to be on track for a 15% surge this week."
-    },
-    {
-      "id": "mkt:019e07a4-99ae-7557-85c4-eb4c07eb82a3",
-      "time": "2026-05-08 20:51:28",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "【Goldman Sachs Asset Management Multi Sector Fixed Income Investing Head Lindsay Rosner】 The job print that makes cutting more likely. The Fed will shift its focus to containing upside inflation risks now that the labor market appears back on track. The FOMC could well feel compelled to remove the easing bias from its next post-meeting statement in June, which would suggest the hawks are gaining the upper hand on the committee for the time being. Strong data and inflation have likely put paid to any easing in the foreseeable future, though this could change depending on how energy prices and the situation in the Middle East develop."
-    },
-    {
-      "id": "4868628",
-      "time": "2026-05-08 20:50:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美公佈首批UFO相關政府檔案】據美國媒體報道，美國國防部今天（5月8日）開始公佈首批“與外星人、地外生命、不明空中現象（UAP）以及不明飛行物（UFO）相關”的政府檔案，並表示公眾可以自行判斷相關內容。 報道稱，此次檔案公開工作除國防部外，還涉及白宮、美國國家情報總監辦公室、能源部、美國國家航空航天局以及聯邦調查局。美國國防部表示，未來還將持續分批公佈更多相關檔案。 美國總統特朗普今年2月以“美國公眾非常感興趣”為由，要求政府機構著手公開關聯不明飛行物、不明航空現象以及外星人可能存在的政府檔案。特朗普4月17日又公開稱，政府工作人員梳理有關UFO的材料時發現了不少“有趣的檔案”，首批檔案將很快公開。（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:019e07a3-1344-7557-85c4-e6c4d480f893",
-      "time": "2026-05-08 20:49:48",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "US Economy",
-        "WTI",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "【Capital.com Senior Market Analyst Daniela Hathorn on US Job Data】The latest US jobs report adds an interesting layer to that backdrop. On the surface, payrolls came in stronger than expected, but the details were more mixed. From a market perspective, that mix supports the current positioning. It reduces the urgency for the Fed to tighten further, while not being weak enough to trigger recession fears. In the context of elevated oil prices and geopolitical risk, this is a relatively ‘goldilocks’ outcome. However, it also reinforces the idea that markets are pricing a best-case balance of resilient growth, contained inflation and manageable geopolitical fallout."
-    },
-    {
-      "id": "4868627",
-      "time": "2026-05-08 20:49:21",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【美國國債在非農就業報告後維持早盤漲幅】美國國債基本維持了早盤漲幅。4月非農就業報告顯示，失業率維持在4.3%不變，非農就業人數增加11.5萬人，高於預期的6.5萬人。平均時薪增幅低於預期。收益率曲線中段債券領漲，收益率下降多達1.5個基點，5年/30年收益率差擴大1.2個基點。美聯儲會期對應的OIS合約隱含加息2個基點左右，資料公佈前為4個基點。"
-    },
-    {
-      "id": "4868626",
-      "time": "2026-05-08 20:48:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【泰恩康：擬發行不超8.7億元可轉換公司債券】泰恩康公告，公司擬向不特定物件發行可轉換公司債券募集資金不超過8.7億元，扣除發行費用後的募集資金淨額擬投資於創新藥研發專案、創新藥及高階外用製劑產業化建設專案、華鉑凱盛製劑生產基地專案及亳州泰恩康現代中藥製劑產線建設專案（一期）。"
-    },
-    {
-      "id": "4868625",
-      "time": "2026-05-08 20:48:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國務卿稱希望美伊進入嚴肅談判程序】魯比奧表示，希望伊朗提出的是“認真嚴肅的提議”，並稱美方希望當前局勢能夠“推動雙方進入嚴肅談判程序”。魯比奧稱，如果有導彈射向美國，美方將作出回應。魯比奧說，7日發生的襲擊行動與美國針對伊朗的“史詩怒火行動”是“分開的”。在涉黎巴嫩相關議題上，魯比奧強調，美國不會與真主黨進行談判，當前重點是與黎巴嫩政府合作。在談及北約與駐軍問題時，魯比奧表示，美國一直有計劃在北約框架內進行軍事部署調整，但關於北約及美軍部署的具體細節，最終仍將由美國總統特朗普決定。他同時稱，近期在義大利舉行的相關會談中，並未討論北約及美軍部署的具體安排。（央視）"
-    },
-    {
-      "id": "4868624",
-      "time": "2026-05-08 20:48:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "【億田智慧：股東傳定恆遠已減持1%】億田智慧公告，公司持股5%以上股東杭州傳定私募基金管理有限公司－傳定恆遠中性1號私募證券投資基金於2026年3月5日至2026年5月8日透過集中競價合計減持181.57萬股，佔總股本0.99%，佔剔除回購專用賬戶後總股本1.00%；減持前持股1064.03萬股，佔總股本5.80%；減持後持股882.45萬股，佔總股本4.81%。本次減持計劃已實施完畢。"
-    },
-    {
-      "id": "4868623",
-      "time": "2026-05-08 20:47:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "【加拿大失業率意外攀升】加拿大勞動力市場在上個月再次走弱，失業率意外升至6.9%的六個月高點。經濟學家此前預計失業率將連續第三個月保持在6.7%。該國經濟小幅減少了17,700個就業崗位，回吐了前一個月14,100個就業崗位的增幅，使得2026年前四個月的就業崗位降幅超過112,000個。這一降幅集中在全職工作上，4月份全職就業崗位減少了46,700個。這種疲軟源於求職者人數的增加，勞動參與率微升0.1個百分點，勞動力增加了33,500人。"
-    },
-    {
-      "id": "4868622",
-      "time": "2026-05-08 20:47:31",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "瑞銀集團執行長警告稱，全領域過度監管將導致歐洲走向衰落。"
-    },
-    {
-      "id": "te:economy:549264",
-      "time": "2026-05-08 20:46:51",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Treasury Yields Little Changed After Payrolls — The yield on the US 10-year Treasury note was little changed around 4.38% on Friday, as traders continued to monitor developments in the Middle East while the latest jobs report had limited impact on markets. Uncertainty remains over how quickly the US and Iran can reach an agreement to end the conflict, after US forces struck missile and drone launch sites, along with other military assets in Iran, which Washington said were linked to attacks on three US warships transiting the Strait of Hormuz. Still, President Trump said the ceasefire remains in effect. Meanwhile, the jobs report showed the US economy added 115K jobs last month, nearly double market expectations of 62K. The unemployment rate held steady at 4.3% while wage growth remained at 0.2% month-over-month, below expectations of a 0.3% increase. Markets expect the Fed to keep interest rates largely unchanged through the rest of the year, while pricing in roughly a 40% chance of a rate hike by April 2027."
-    },
-    {
-      "id": "4868621",
-      "time": "2026-05-08 20:46:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "【雪祺電氣：股東志道投資完成減持2.9886%】雪祺電氣公告，持股5%以上股東安徽志道投資有限公司減持計劃實施完畢，2026/3/3-2026/5/7透過集中競價減持182萬股，平均價13.96元/股，佔總股本0.9944%；透過大宗交易減持365萬股，價格12.99元/股，佔1.9942%；合計減持547萬股，佔2.9886%。減持後持股2314.99萬股，佔12.6481%，權益變動觸及1%整數倍。"
-    },
-    {
-      "id": "4868620",
-      "time": "2026-05-08 20:46:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "挪威能源部已批准大埃科菲斯克區域先前生產油田專案的開發和運營計劃，為重新開發三個此前已投產的海上油田鋪平了道路。"
-    },
-    {
-      "id": "4868619",
-      "time": "2026-05-08 20:46:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "據烏茲別克方面訊息，該國總統已啟程前往莫斯科進行工作訪問。"
-    },
-    {
-      "id": "mkt:019e079f-5cb5-7557-85c4-da53c37752a0",
-      "time": "2026-05-08 20:45:44",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Nasdaq100",
-        "Impact bullish"
-      ],
-      "text": "NASDAQ 100 FUTURES EXTEND GAIN TO 1%"
-    },
-    {
-      "id": "mkt:019e079f-3d70-7557-85c4-d01618e0a4bb",
-      "time": "2026-05-08 20:45:36",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "SPOT GOLD RISES 1% TO $4,729.59/OZ"
-    },
-    {
-      "id": "mkt:019e079f-2625-7557-85c4-c85ebdc6467b",
-      "time": "2026-05-08 20:45:30",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "S&P500",
-        "Impact bearish",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "【Chris Anstey on US Job Data】Remember there are two surveys, one of employers and one of households. The household survey shows that the labor force shrank last month. And indeed the employment rolls dropped in that survey. So the unemployment rate held steady only because people exited the labor market, which is not what you want to see from an economic-growth perspective."
-    },
-    {
-      "id": "4868618",
-      "time": "2026-05-08 20:45:25",
-      "tags": [
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "“美聯儲傳聲筒”Nick Timiraos：根據住戶調查，就業人數減少了22.6萬人。勞動力規模縮減了9.2萬人。勞動參與率微幅下滑0.1個百分點，降至61.8%。（換言之，失業率之所以未見上升，是因為人們退出了勞動力市場，而非因為他們找到了工作。）"
-    },
-    {
-      "id": "4868617",
-      "time": "2026-05-08 20:45:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "土耳其能源部長巴伊拉克塔爾在土耳其與阿爾及利亞領導人於安卡拉會晤後對記者表示：“我們希望在今年內敲定新協議。現有協議將於2027年9月到期，我們的目標是續簽。”"
-    },
-    {
-      "id": "4868616",
-      "time": "2026-05-08 20:45:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大掉期市場預計到12月將出現35個基點的加息，低於就業資料公佈前的44個基點。"
-    },
-    {
-      "id": "4868615",
-      "time": "2026-05-08 20:44:52",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【豐田新財年淨利潤預計下降22%】日本豐田汽車公司8日預計，受中東局勢持續緊張及原材料價格上漲影響，公司新財年（2026年4月至2027年3月）淨利潤將較上財年下降22%。 豐田當天釋出財報說，按照美元對日元匯率為1比150計算，中東相關因素將合計拖累營業利潤減少6700億日元。受此影響，公司新財年淨利潤預計將降至3萬億日元。 財報顯示，美國關稅政策給豐田帶來重大負擔。雖然公司採取多項措施，仍難抵消美國關稅政策帶來的負面影響。上財年，關稅等因素導致豐田營業利潤下降21.5%。 豐田副社長兼首席財務官宮崎洋一表示，新財年將是公司連續第3個財年出現利潤下滑。在經營環境劇烈變化背景下，公司此前仍以短期應對措施為主，中長期業務結構改革推進不足。"
-    },
-    {
-      "id": "mkt:019e079e-49e6-7557-85c4-c7fda405956a",
-      "time": "2026-05-08 20:44:34",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "【Jordan Rochester, head of FICC strategy for EMEA at Mizuho Bank on US Job Data】Better number on the headline growth, but weaker wage growth and the same story of a slowing in jobs growth over the past three months. Unemployment rate unchanged again makes it hard to suggest a material slowdown in labor markets validates the idea of cuts this year. Not a big reason for markets to move too much either side apart from ruling out the more dovish scenarios some analysts were highlighting."
-    },
-    {
-      "id": "4868614",
-      "time": "2026-05-08 20:44:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "土耳其能源部長阿爾帕斯蘭·巴伊拉克塔爾表示，土耳其希望在2027年9月現有協議到期前，延長與阿爾及利亞的液化天然氣供應協議，並透露部分天然氣可能轉運至東南歐。"
-    },
-    {
-      "id": "4868613",
-      "time": "2026-05-08 20:44:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期銀突破82美元/盎司，日內漲2.27%。"
-    },
-    {
-      "id": "4868612",
-      "time": "2026-05-08 20:43:40",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【溫州宏豐：公司股價短期漲幅較大，可能存在非理性炒作風險】溫州宏豐公告，股票於2026年5月6日、2026年5月7日、2026年5月8日連續三個交易日收盤價格漲幅偏離值累計超過30%，根據《深圳證券交易所交易規則》等的相關規定，屬於股票交易異常波動情形。截至本公告日，公司當前滾動市盈率87.45倍，遠高於電器機械和器材製造業行業滾動市盈率27.69倍（資料來源：中證指數有限公司）。公司股價短期漲幅較大，可能存在非理性炒作風險，敬請廣大投資者注意投資風險。"
-    },
-    {
-      "id": "mkt:019e079d-4de3-7557-85c4-bb7ee19dfee1",
-      "time": "2026-05-08 20:43:29",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact mixed"
-      ],
-      "text": "【Editor Cecile Daurat on US Job Data】Some more details from the report: US April Private Payrolls Rise 123k M/M; Est. +75k US April Manufacturing Payrolls Fall 2k M/M; Est. +3k US April Participation Rate 61.8%; Est. 61.9% US April Government Payrolls Fall 8,000 M/M"
-    },
-    {
-      "id": "4868611",
-      "time": "2026-05-08 20:43:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯國防部長表示：莫斯科時間7時至14時，俄軍值班防空系統攔截並摧毀了145架烏克蘭固定翼型無人機。"
-    },
-    {
-      "id": "4868610",
-      "time": "2026-05-08 20:43:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "挪威浮式油氣生產解決方案提供商BW Offshore已與Catcher油田合作伙伴達成協議，修訂其BW Catcher浮式生產儲卸裝置的合同，將協議延長至2030年12月31日，並設有正負六個月的浮動視窗。"
-    },
-    {
-      "id": "4868609",
-      "time": "2026-05-08 20:42:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【浪潮資訊：董事彭震和高管劉軍已分別減持0.0005%和0.0010%】浪潮資訊公告，董事彭震2026年5月7日、5月8日以76.87元、72.75元/股各減持8000股、7000股，分別佔總股本0.0005%、0.0005%；高管劉軍5月7日以72.3元/股減持15000股，佔0.0010%。減持後，兩人各持41.71萬股，佔0.0284%，其中無限售條件股份各93020股，有限售條件股份各32.41萬股。減持股份來源為股權激勵計劃行權所得。"
-    },
-    {
-      "id": "mkt:019e079c-7a0b-7557-85c4-b543761d84b9",
-      "time": "2026-05-08 20:42:33",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "【Nick Timiraos on US Job Data】The 6-month hiring average climbed to 55,000 jobs, the most since May 2025. The U.S. economy added 115,000 jobs in April, and the unemployment rate was 4.3%. March hiring was revised up by 7,000 and February was revised down by 23,000."
-    },
-    {
-      "id": "4868608",
-      "time": "2026-05-08 20:42:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "元道通訊：公司股票將於2026年5月11日停牌一天，5月12日復牌並實施退市風險警示，股票簡稱變更為“*ST元道”，日漲跌幅限制仍為20%。"
-    },
-    {
-      "id": "4868607",
-      "time": "2026-05-08 20:42:06",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "英國自行式和自升式支撐船（SESV）運營商Gulf Marine Services週五報告稱，受伊朗戰爭影響，該公司3月接到指令從某個海灣合作委員會國家撤離四艘船舶作為預防措施，導致一季度利潤下降24%。"
-    },
-    {
-      "id": "mkt:019e079b-f7b3-7557-85c4-a996f6ca1ec5",
-      "time": "2026-05-08 20:42:02",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD",
-        "Impact bullish",
-        "US10Y"
-      ],
-      "text": "【Nick Timiraos on US Job Data】Employment in the household survey fell by 226,000. The labor force shrank by 92,000. Participation ticked down by one tenth to 61.8%. (I.E., the unemployment rate didn't rise because people left the labor force, not because they found jobs.)"
-    },
-    {
-      "id": "4868606",
-      "time": "2026-05-08 20:41:47",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【油氣價格上漲加劇法國一季度貿易逆差】法國海關7日釋出的資料顯示，受中東局勢推高國際油氣價格影響，法國今年第一季度貿易逆差擴大至141億歐元，較上一季度增加28億歐元。資料顯示，今年第一季度法國進口額環比增長1.8%，主要受能源產品特別是天然碳氫化合物進口增加帶動。同時，藥品、汽車產品以及計算機、電子和光學產品進口也實現較快增長。同期，出口額環比增長0.1%，主要得益於軍事裝備出口額創歷史新高。法國自美國進口能源產品增加。資料顯示，美國在法國原油進口總額中的佔比，已由2025年的四分之一升至本季度的略高於三分之一。法國《回聲報》援引安聯貿易公司高階經濟學家馬克西姆·達爾梅的話警告稱，如果衝突持續，下半年法國外貿形勢可能進一步惡化。許多國家經濟活動放緩，或將削弱國際市場對法國商品和服務的需求。（新華社）"
     }
   ]
 }

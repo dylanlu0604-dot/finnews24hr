@@ -1,123 +1,196 @@
 {
-  "updated": "2026-05-15 17:19:15",
+  "updated": "2026-05-15 20:58:13",
   "items": [
     {
       "id": "20260515",
       "date": "2026-05-15",
       "range_start": "2026-05-14 07:00:00",
       "range_end": "2026-05-15 07:00:00",
-      "generated_at": "2026-05-15 17:17:17",
+      "generated_at": "2026-05-15 20:56:20",
+      "schema_version": 2,
       "count": 218,
-      "headline": "全球央行關注通膨與貨幣政策調整風險持續存在",
+      "headline": "新任美聯儲主席沃什上任前瞻，日銀6月預計加息",
       "central_banks": [
         {
           "id": "Fed",
           "name": "美國聯準會 Fed",
-          "status": "正常運作",
+          "status": "官員密集發言",
           "officials": [
-            "巴爾強調利率管控為貨幣政策核心、反對降低流動性規則並看重資產負債表調整",
-            "威廉姆斯表示經濟具韌性、就業市場穩定且無加息需求、尚未見通膨預期失控",
-            "施密德指出美國經濟與銀行業基本面良好，強調通膨仍是最大風險",
-            "米蘭辭職並認為鮑威爾可協助新主席沃什過渡",
-            "哈瑪克強調央行獨立性重要性"
+            "美聯儲巴爾公開質疑下調流動性覆蓋比率能否有效調控準備金需求，認為降低流動性規則會加劇金融穩定風險，強調貨幣政策核心在於利率管控且創造儲備無成本，主張流動性要求應該上調。",
+            "美聯儲威廉姆斯指出美國經濟展現明顯韌性，生產率強勁增長趨勢持續，且就業市場企穩但未過熱，目前貨幣政策維持輕度限制性，尚無加息降息理由。",
+            "美聯儲施密德稱美國銀行業基本面良好，消費者支出和商業投資持續穩健，通膨仍高於目標，有能源價格不確定風險。",
+            "美聯儲理事米蘭已遞交辭呈，鮑威爾接任前的重要過渡階段。"
           ],
           "expectations": [
-            "CME數據顯示6月維持利率不變機率逾96%，7月不變機率逾93%",
-            "12月加息機率約39%，按兵不動約60%"
+            "CME FedWatch顯示Fed於6月會議維持利率不變機率達96.8%，7月維持不變機率93.8%，加息25bps與降息25bps的機率極低，市場普遍預期短期內政策穩定。",
+            "根據貼現窗數據，5月13日當周貸款餘額約60億美元，略較前一周增加，反映金融體系流動性需求穩定。"
           ],
-          "reports": [
-            "美聯儲公布5月13日當周貼現窗貸款餘額約60億美元",
-            "公開市場操作將在6月11日前購買約100億美元國庫券，且已停止資產負債表量化緊縮"
-          ]
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
         },
         {
           "id": "ECB",
           "name": "歐洲央行 ECB",
-          "status": "正常運作",
-          "officials": [
-            "管委Stournaras警告若油價持續高企恐被迫加息",
-            "管委Kazaks稱若油價推升通膨預期，ECB將被迫提高借貸成本",
-            "ECB指出西班牙主要銀行中東風險有限但可能波及亞洲交易對手方"
-          ],
-          "expectations": [
-            "市場及經濟學家普遍預期ECB將於6月會議加息25個基點"
-          ],
-          "reports": [
-            "ECB關注中東緊張局勢對物價及金融穩定的影響"
-          ]
+          "status": "追蹤中",
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
         },
         {
           "id": "BoE",
           "name": "英國央行 BoE",
-          "status": "正常運作",
+          "status": "官員密集發言",
           "officials": [
-            "首席經濟學家Huw Pill指經濟活動展現韌性，通膨存在第二輪效應風險",
-            "強調利率需保持高位以防通膨失控，及時小幅加息有利於降低未來挑戰",
-            "堅持通膨風險不能被忽視，不確定性不是不作為藉口",
-            "水準短期國債收益率反映通膨憂慮需政策對沖"
+            "英國央行首席經濟學家Huw Pill強調目前政策必須保持高利率，不容許通膨失控。其指出金融環境收緊應促使央行採取主動加息措施，不應被暫時不確定情況阻礙，強調及時小幅加息較被動等待更有利。",
+            "Huw Pill認為當前經濟活動展現韌性，勞動力市場走弱意味通膨二次效應可能弱於2022年，並表示家庭與企業對物價高度敏感，需警惕通膨二次效應加劇。",
+            "他指出長端公債收益率反映通膨憂慮，不應因此迴避調升基準利率，且財政與全球局勢影響長期利率與通膨前景。",
+            "Huw Pill稱目前尚無證據判斷此次加息是暫時性舉措抑或利率平台期，認為不作為將產生更大風險。"
           ],
           "expectations": [],
-          "reports": [
-            "放寬穩定幣監管計劃，尋求建立友善穩定幣監管體系"
-          ]
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
         },
         {
           "id": "BoJ",
           "name": "日本央行 BoJ",
-          "status": "運作穩定",
+          "status": "官員密集發言",
           "officials": [
-            "政策委員增一行發表偏緊縮言論，支持6月可能加息25個基點",
-            "稱日本已進入通膨階段，需透過適當貨幣政策維持實質工資增長",
-            "燃料價格等成本上升影響基礎通膨，關注伊朗戰爭能源衝擊風險",
-            "認為即使核心通膨率尚低於2%，已非常接近目標，將密切監控政策利率調整",
-            "增一行表示需嚴格審視2027年3月後國債購買節奏"
+            "日本央行審議委員增一行指出通縮時代已結束，正邁入通膨階段，強調適當貨幣政策需維持實質薪資成長。",
+            "他警告若通膨無法維持在合理區間，可能引發工資上升惡性循環，指燃料及配銷成本上升及日元貶值為日本通膨根基。",
+            "增一行提及伊朗戰爭造成的能源衝擊或較1973年油價危機更嚴重，須關注日元貶值是否提高民眾通膨預期。",
+            "他說明4月會議上政策委員對何時升息意見分歧，但若無經濟放緩明顯訊號，傾向盡早加息，且強調政策將依據經濟、物價與金融狀況調整。",
+            "市場報告日本長期國債收益率攀升至數十年高位，央行需嚴格審視2027年3月後國債購買節奏。"
           ],
-          "expectations": [
-            "市場對6月日本央行加息預期上升"
-          ],
-          "reports": []
+          "expectations": [],
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
         },
         {
           "id": "RBA",
           "name": "澳洲聯儲 RBA",
-          "status": "正常運作",
+          "status": "無重大事件",
           "officials": [],
           "expectations": [],
-          "reports": []
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
         },
         {
           "id": "BoC",
           "name": "加拿大央行 BoC",
-          "status": "正常運作",
+          "status": "無重大事件",
           "officials": [],
           "expectations": [],
-          "reports": []
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
         },
         {
           "id": "RBI",
           "name": "印度央行 RBI",
-          "status": "正常運作",
+          "status": "追蹤中",
           "officials": [],
-          "expectations": [
-            "市場消息指出印度考慮降低外資債券投資稅負，吸引資金流入以支撐盧比匯率"
-          ],
-          "reports": []
+          "expectations": [],
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
         },
         {
           "id": "BCB",
           "name": "巴西央行 BCB",
-          "status": "正常運作",
+          "status": "無重大事件",
           "officials": [],
           "expectations": [],
-          "reports": []
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
         },
         {
           "id": "SNB",
           "name": "瑞士央行 SNB",
-          "status": "正常運作",
+          "status": "無重大事件",
           "officials": [],
           "expectations": [],
-          "reports": []
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
         }
       ]
     },
@@ -126,145 +199,200 @@
       "date": "2026-05-14",
       "range_start": "2026-05-13 07:00:00",
       "range_end": "2026-05-14 07:00:00",
-      "generated_at": "2026-05-15 17:17:36",
-      "count": 220,
-      "headline": "全球央行關注通脹與中東風險，美聯儲主席易人引市場密切期待",
+      "generated_at": "2026-05-15 20:56:45",
+      "schema_version": 2,
+      "count": 260,
+      "headline": "美聯儲主席易帥，全球央行暫無重大政策調整",
       "central_banks": [
         {
           "id": "Fed",
           "name": "美國聯準會 Fed",
-          "status": "active",
+          "status": "官員密集發言",
           "officials": [
-            "柯林斯：未來可能需加息以應對通脹壓力",
-            "柯林斯：持續關注關稅對價格鏈條影響",
-            "柯林斯：通脹衝擊不減，維持通脹目標重要",
-            "柯林斯：期待與新任主席沃什共事",
-            "卡什卡里：主席須爭取政策制定委員會一致支持",
-            "卡什卡里：勞動力市場支撐穩定，通脹水平偏高",
-            "卡什卡里：霍爾木茲海峽封閉時間為重要變數",
-            "卡什卡里：須嚴格控制通脹率回落至2%目標",
-            "沃什獲參議院批准出任新主席"
+            "波士頓聯邦儲備銀行行長蘇珊·柯林斯在演講中表示，儘管目前利率將較長時間保持穩定，但未來仍可能需要進一步加息以抑制通脹，尤其是若地緣衝突使物價持續上升。她指出，近期通脹風險偏向上行，能源衝擊對經濟活動造成下行風險與通脹上行風險並存。柯林斯也強調，通脹預期維持錨定至關重要，目前通脹水平過高，而且霍爾木茲海峽封閉時間成為關鍵未知數，將顯著影響物價走勢。她對未來生產率持樂觀態度，認為其有助於緩解部分通脹壓力，且失業率依然處於較低水平，但勞動力市場表現趨於橫盤。柯林斯亦提及市場多樣觀點的重要性，期待與即將上任的美聯儲主席凱文·沃什合作。",
+            "美國參議院以54票對45票批准凱文·沃什擔任美聯儲主席，為歷來黨派分歧最嚴重的一次確認投票。沃什於完成白宮程序後正式接替鮑威爾擔任主席，鮑威爾將繼續擔任理事。沃什在政治壓力與通脹挑戰中承諾維持聯準會政策獨立性。",
+            "有調查顯示，多數美國民眾對2025年高通脹感到擔憂，且就業市場焦慮增加；另有報告指示未來可能加息機會增加，市場已基本排除6月和7月降息可能。"
           ],
-          "expectations": [
-            "CME FedWatch顯示6月及7月維持利率不變機率均高達99%",
-            "Kalshi預測2027年前加息機率升至35%",
-            "市場調整加息預期，年底前降息預期降低"
-          ],
-          "reports": [
-            "公布5-6月短期國債購買計劃，規模100億美元",
-            "調查顯示2025年大多數美國人仍高度擔憂物價與就業市場",
-            "眾議院金融服務委員會審議修訂《聯邦儲備法》法案，擬取消雙重使命聚焦物價穩定"
-          ]
+          "expectations": [],
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
         },
         {
           "id": "ECB",
           "name": "歐洲央行 ECB",
-          "status": "active",
+          "status": "官員密集發言",
           "officials": [
-            "管委科赫爾：6月會議將決定加息或維持利率",
-            "管委科赫爾：通脹預期對決策影響重大",
-            "管委雷恩：通脹能源衝擊不及2022年嚴重",
-            "管委雷恩：將以穩健姿態執行貨幣政策",
-            "管委雷恩：6月將釋出全面預測更新",
-            "管委穆勒：歐元區未陷入滯脹且無衰退跡象",
-            "管委埃爾登森：銀行需更新風險韌性預案應對AI帶來的系統性風險"
+            "歐洲央行管理委員會成員Martin Kocher在採訪中表示，將在6月會議中決定加息或維持利率不變，強調通脹預期扮演重要角色，並密切關注中期通脹的變化。",
+            "管委Emerging Olli Rehn警告，伊朗戰爭和能源價格上漲已初步顯示滯脹跡象，歐元區第一季經濟增速僅0.1%，通脹率升至3%，偏離央行基線預期且朝較不樂觀方向發展，但能源衝擊小於2022年。",
+            "另一管委多倫克表示能源價格目前影響有限，但預期消費者物價預期將上升；此外埃爾登森強調需提升銀行風險韌性以應對更頻繁的系統性風險。"
           ],
-          "expectations": [
-            "路透調查：多數經濟學家預計今年至少兩次升息",
-            "路透調查：6月升息至2.25%為主流看法"
-          ],
-          "reports": [
-            "管委科赫爾稱6月加息不是基準，視數據決定",
-            "管委雷恩警告能源衝擊帶來不利經濟放緩風險"
-          ]
+          "expectations": [],
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
         },
         {
           "id": "BoE",
           "name": "英國央行 BoE",
-          "status": "active",
+          "status": "官員密集發言",
           "officials": [
-            "貨幣政策委員曼恩：利率決策受金融環境影響",
-            "曼恩：緊縮政策可能引發國債收益率波動",
-            "曼恩：貨幣政策無法抵消能源價格推升成本",
-            "官員：市場波動及平倉行為可能使金融狀況更緊縮"
+            "英國央行貨幣政策委員曼恩在公開場合指出，近期金邊債券收益率波動反映出持續的風險溢價，認為金融環境變化對利率決策有顯著影響。",
+            "曼恩表示緊縮的貨幣政策立場可能引發市場波動，因新市場參與者平倉行為，可能導致國內金融條件比預期更加緊縮。",
+            "官員也提到，貨幣政策無法抵消能源價格推升的成本壓力，這增加政策制定的難度。"
           ],
           "expectations": [
-            "路透調查：多數經濟學家預計今年利率將維持不變或至少一次升息"
+            "路透調查顯示，56位經濟學家中多數預計英國央行今年將維持利率3.75%不變，但亦有部分預測會有加息或降息。"
           ],
-          "reports": [
-            "市場觀察英國國債收益率維持高位，政治不確定性為主因"
-          ]
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
         },
         {
           "id": "BoJ",
           "name": "日本央行 BoJ",
-          "status": "active",
+          "status": "官員密集發言",
           "officials": [
-            "前行長黑田東彥：近期干預有效阻止日元跌破160關口",
-            "黑田：干預效果不會持久，央行須維護獨立性",
-            "黑田：日元合理匯價或在120-130區間",
-            "黑田：需協調財政政策應對滯脹",
-            "黑田：日本需提升國內投資收益吸引力"
+            "前日本央行行長黑田東彥表示，近期日本以約650億美元規模的市場干預有效阻止日元跌破1美元兌160日元關口，但認為干預效果不可能長期維持。",
+            "黑田指出日本國內投資回報率偏低，促使企業和投資者增加在美國的再投資，導致美元資金不易回流日本，對日元構成持續貶值壓力。",
+            "他還分析日本經濟基本面穩健，認為合理的日元匯率區間約在120至130，並強調央行獨立性及貨幣政策與財政政策協調的重要性，尤其面對通脹和地緣政治不確定性。",
+            "日本央行官員表示將持續密切觀察中東局勢對經濟和物價的影響，並且預計政策正常化進展可能加速。"
           ],
-          "expectations": [
-            "市場下調對日本央行近期加息的預期"
-          ],
-          "reports": [
-            "日本10年期國債收益率升至2.58%，符合通脹及政策調整"
-          ]
+          "expectations": [],
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
         },
         {
           "id": "RBA",
           "name": "澳洲聯儲 RBA",
-          "status": "active",
+          "status": "無重大事件",
           "officials": [],
           "expectations": [],
-          "reports": []
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
         },
         {
           "id": "BoC",
           "name": "加拿大央行 BoC",
-          "status": "active",
+          "status": "會議紀要日",
           "officials": [
-            "會議紀要顯示隨時準備根據中東局勢和美貿易緊張快速調整政策",
-            "央行官員一致認為現階段能耐心維持利率不變",
-            "BoC強調石油價格預測存在高度不確定性",
-            "BoC認為人工智慧將帶來生產率提升，不致大規模裁員"
+            "加拿大央行會議紀要顯示，管理委員會六名成員自4月21日起討論中東局勢與美國貿易緊張對通脹的影響，認為需隨時準備快速調整利率政策以應對風險擴大與持久性增加。",
+            "紀要指出儘管汽油價格受衝擊初期上揚，央行現階段判斷利率可維持不變。",
+            "央行還討論了人工智慧對生產率的積極影響，強調AI推動生產率增長將提升企業競爭力與薪資水準，不過未造成大規模失業。"
           ],
           "expectations": [],
           "reports": [
-            "公布4月會議紀要，強調貨幣政策彈性與警覺性"
-          ]
+            "加拿大央行會議紀要強調形勢瞬息萬變，貨幣政策靈活調整必要。紀要提及通脹預計2026年4月見峰，且油價預計2027年中回落至每桶75美元水平。"
+          ],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
         },
         {
           "id": "RBI",
           "name": "印度央行 RBI",
-          "status": "active",
-          "officials": [],
+          "status": "無重大事件",
+          "officials": [
+            "經濟學家及市場觀察人士認為印度外匯儲備充足，約6900億美元水準，能有效抵禦中東局勢引發油價上漲，穩定盧比匯率。",
+            "自伊朗衝突爆發以來，印度外匯儲備雖縮水380億美元，但仍維持國際儲備優勢，央行具備充足彈性從儲備中動用資金支持市場。"
+          ],
           "expectations": [],
-          "reports": [
-            "印度91天期國債收益率5.3398%，略高於上次拍賣"
-          ]
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
         },
         {
           "id": "BCB",
           "name": "巴西央行 BCB",
-          "status": "active",
+          "status": "無重大事件",
           "officials": [],
           "expectations": [],
-          "reports": [
-            "政府宣布汽油價格補貼措施，補貼不得超過聯邦燃料稅上限"
-          ]
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
         },
         {
           "id": "SNB",
           "name": "瑞士央行 SNB",
-          "status": "active",
+          "status": "無重大事件",
           "officials": [],
           "expectations": [],
-          "reports": [
-            "瑞銀預計美聯儲將於2026年底及2027年初各降息25個基點"
-          ]
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
         }
       ]
     },
@@ -273,124 +401,194 @@
       "date": "2026-05-13",
       "range_start": "2026-05-12 07:00:00",
       "range_end": "2026-05-13 07:00:00",
-      "generated_at": "2026-05-15 17:17:50",
+      "generated_at": "2026-05-15 20:57:08",
+      "schema_version": 2,
       "count": 152,
-      "headline": "全球央行聚焦通膨與地緣風險，加息預期升溫",
+      "headline": "全球央行維持政策觀望，歐洲央行加息預期升溫",
       "central_banks": [
         {
-          "id": "Fed",
+          "id": "fed",
           "name": "美國聯準會 Fed",
-          "status": "active",
+          "status": "追蹤中",
           "officials": [
-            "古爾斯比：通膨走勢朝錯誤方向，服務類通膨上升令人擔憂",
-            "古爾斯比：目前不需艱難平衡調控，通膨挑戰暫時性",
-            "古爾斯比：私人信貸與傳統金融機構關聯度低於2007-09年危機",
-            "古爾斯比：CPI資料利好有限，加息需通膨實質進展",
-            "古爾斯比：央行獨立性關鍵，失去將再次推高通膨",
-            "沃什：提名獲參議院程式性投票通過，主席確認待議會投票"
+            "美聯儲官員古爾斯比近期多次表態，指出服務業通脹持續上揚成為主要挑戰，暗示通脹走勢已偏離預期，且薪資及就業增長穩定但不足以迅速降溫；他認為美聯儲目前不需進行複雜的平衡操作，並看好未來利率有大幅下調的可能，前提是通脹確實回落。此外，他強調美聯儲獨立性對於抑制通脹的重要性，不預計會喪失獨立性。"
           ],
           "expectations": [
-            "12月底前加息機率約四分之一，較此前下降",
-            "市場押注今年美聯儲可能按兵不動，但仍有加息可能",
-            "市場利率期貨反映減少降息預期，鷹派立場增強"
+            "交易員調整對美聯儲加息預期，維持年底前加息機率約25%，較通脹數據公布前的約33%下降，顯示市場預期近期升息機率減弱，短期利率期貨反映明年中前仍可能有一次加息。"
           ],
-          "reports": [
-            "參議院確認凱文·沃什為聯準會理事，主席任命尚待投票",
-            "隔夜逆回購協議使用規模約12億美元"
-          ]
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
         },
         {
-          "id": "ECB",
+          "id": "ecb",
           "name": "歐洲央行 ECB",
-          "status": "active",
+          "status": "追蹤中",
           "officials": [
-            "德國央行行長Nagel表示，ECB加息可能性升高，通膨壓力仍在，已轉向不利情境",
-            "歐洲央行管委Nagel強調6月可能加息，將觀察未來數據",
-            "管委帕察利季斯稱存在ECB不加息的可能情形"
+            "歐洲央行管委內格爾連續表態，認為由於中東局勢帶來的能源價格壓力，歐洲央行未來加息可能性大幅上升，並指出已脫離先前的經濟基準情景，轉入更不利的通脹預期情境。他多次強調若通脹預期脫錨，央行必須強力行動；同時重申六月理事會將根據最新數據檢討貨幣政策。管委帕察利季斯則提及存在歐洲央行不加息的情形，表示仍有部分審慎態度。"
           ],
           "expectations": [
-            "市場完全定價今年將加息三次",
-            "經濟學家預期6月及9月各加息一次，年底前可能加第三次"
+            "市場全面反映歐洲央行今年內將加息三次，且最近公債收益率持續攀升，10年期德債收益率逼近15年高點，反映市場對進一步緊縮的高度定價。"
           ],
-          "reports": [
-            "歐洲央行公告外匯儲備維持3407億歐元不變"
-          ]
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
         },
         {
-          "id": "BoE",
+          "id": "boe",
           "name": "英國央行 BoE",
-          "status": "active",
+          "status": "追蹤中",
           "officials": [],
           "expectations": [
-            "市場押注2026年共加息三次，6月加息25個基點機率升至53%",
-            "利率期貨定價反映年底政策利率較目前基準提高約68個基點"
+            "市場完全消化英國央行今年預計三次加息的預期；6月加息25個基點機率由31%升至53%。市場關注油價飆升及政治不穩帶來的通脹壓力，可能推動央行收緊政策。"
           ],
-          "reports": []
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
         },
         {
-          "id": "BoJ",
+          "id": "boj",
           "name": "日本央行 BoJ",
-          "status": "active",
+          "status": "追蹤中",
           "officials": [
-            "會議紀要顯示多數委員支持根據經濟通膨情況加快加息步伐",
-            "部分委員認為即使中東局勢不明朗，也可能於下次會議起加息",
-            "日本財務大臣片山皋月表示與美方密切協調外匯政策，不置評具體貨幣工具"
+            "根據4月份會議意見摘要，多位日本央行委員表達增加政策利率的意願，部分委員指出若中東局勢緊張延續，需提前將利率上調至中性水平，且當前政策利率與中性利率仍有差距，主張每隔幾個月持續加息。日本財務大臣片山皋月表示與美國財政部長密切協調外匯政策，暗示可能支持BoJ寬鬆結束。美國財政部長貝森特對BoJ行長植田和男的貨幣政策展現高度信心。"
           ],
           "expectations": [
-            "市場普遍預計6月將首次加息25個基點，第四季再加25個基點"
+            "市場預期日本央行將於6月啟動25個基點加息，第四季再加25個基點，10年公債收益率創近29年新高至約2.55%。"
           ],
-          "reports": [
-            "4月政策會議意見摘要顯示加息強烈訊號",
-            "日本內閣辦公室代表期望央行與政府保持密切合作"
-          ]
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
         },
         {
-          "id": "RBA",
+          "id": "rba",
           "name": "澳洲聯儲 RBA",
-          "status": "active",
+          "status": "追蹤中",
+          "officials": [],
+          "expectations": [
+            "澳洲聯邦銀行策略師警告，能源價格持續推升美國核心通脹，可能高於市場共識，進而帶動美國收益率與美元走強，反映RBA須密切關注全球通膨壓力的外溢風險。"
+          ],
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
+        },
+        {
+          "id": "boc",
+          "name": "加拿大央行 BoC",
+          "status": "官員密集發言",
           "officials": [
-            "澳洲聯邦銀行策略師預期美國核心通膨可能高於市場共識，將帶動收益率及美元上揚"
+            "加拿大央行於兩週前管委會會議上討論了未來貨幣政策路徑，似乎維持審慎收緊立場，具體細節待釋出。"
           ],
           "expectations": [],
-          "reports": [
-            "亞洲諮詢委員會主席由澳洲聯儲行長布洛克出任"
-          ]
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
         },
         {
-          "id": "BoC",
-          "name": "加拿大央行 BoC",
-          "status": "active",
-          "officials": [],
-          "expectations": [],
-          "reports": []
-        },
-        {
-          "id": "RBI",
+          "id": "rbi",
           "name": "印度央行 RBI",
-          "status": "active",
-          "officials": [],
+          "status": "追蹤中",
+          "officials": [
+            "多位印度政府部門與中央銀行官員秘密磋商提高外匯儲備措施，包括限制黃金及非必需電子產品進口、提高燃油價格等，以抑制持續擴大的經常帳赤字。印度總理府、財政部與印度儲備銀行密切合作制定內部應對策略。"
+          ],
           "expectations": [],
-          "reports": [
-            "印度正研擬緊急措施提升外匯儲備，包括限制非必需品進口及上調燃油價格"
-          ]
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
         },
         {
-          "id": "BCB",
+          "id": "bcb",
           "name": "巴西央行 BCB",
-          "status": "active",
+          "status": "無重大事件",
           "officials": [],
           "expectations": [],
-          "reports": []
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
         },
         {
-          "id": "SNB",
+          "id": "snb",
           "name": "瑞士央行 SNB",
-          "status": "active",
+          "status": "無重大事件",
           "officials": [],
           "expectations": [],
           "reports": [
-            "瑞銀預計年底金價將達5600美元/盎司，銀價達100美元"
-          ]
+            "瑞銀持續看多金銀價格，預測年底黃金將達每盎司5600美元，白銀達100美元，認為通膨及央行購金需求為主要支撐因素。全球央行買入黃金趨勢將持續。"
+          ],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
         }
       ]
     },
@@ -399,120 +597,180 @@
       "date": "2026-05-12",
       "range_start": "2026-05-11 07:00:00",
       "range_end": "2026-05-12 07:00:00",
-      "generated_at": "2026-05-15 17:18:04",
+      "generated_at": "2026-05-15 20:57:19",
+      "schema_version": 2,
       "count": 93,
-      "headline": "多數央行維持警戒態度，市場預期美聯儲暫不降息",
+      "headline": "美聯儲觀望立場明確，歐洲央行審慎看待加息時機",
       "central_banks": [
         {
           "id": "Fed",
           "name": "美國聯準會 Fed",
-          "status": "active",
-          "officials": [
-            "白宮經濟委員會主任哈塞特指鮑威爾可能於監察長報告出爐後卸任",
-            "哈塞特不提供利率建議，強調維持政策定力看透供給衝擊"
-          ],
-          "expectations": [
-            "CME數據顯示6月維持利率不變機率97.7%，降息機率低於3%",
-            "美銀及高盛將美聯儲降息預期推遲至2027年，年底前降息機率下降",
-            "利率互換市場預計2027年4月後加息機率約三分之一"
-          ],
-          "reports": [
-            "美聯儲隔夜逆回購操作規模提升至11.33億美元"
-          ]
+          "status": "追蹤中",
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
         },
         {
           "id": "ECB",
           "name": "歐洲央行 ECB",
-          "status": "active",
-          "officials": [
-            "歐洲央行管委科赫爾強調將保持警惕，必要時迅速果斷行動加息",
-            "德金多斯呼籲對利率調整保持謹慎，指戰爭影響將於未來幾週更明顯"
-          ],
-          "expectations": [
-            "彭博調查顯示2026年歐洲央行將兩次加息，各25基點",
-            "市場預期6月加息25基點可能性大"
-          ],
-          "reports": [
-            "無"
-          ]
+          "status": "追蹤中",
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
         },
         {
           "id": "BoE",
           "name": "英國央行 BoE",
-          "status": "active",
+          "status": "追蹤中",
           "officials": [
-            "英國央行貨幣政策委員格林建議短期內觀察伊朗戰爭形勢，不急於調整政策"
+            "英國央行貨幣政策委員格林於近日發言表示，面對中東伊朗戰爭局勢的不確定性，建議值得稍作等待，觀察事態發展再決定貨幣政策調整。格林的態度反映英國央行對地緣政治風險所帶來的通膨及經濟成長挑戰保持謹慎，並可能推遲進一步升息的步伐。"
           ],
-          "expectations": [
-            "英國10年公債殖利率因政治與通膨風險升至5%"
-          ],
-          "reports": [
-            "無"
-          ]
+          "expectations": [],
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
         },
         {
           "id": "BoJ",
           "name": "日本央行 BoJ",
-          "status": "active",
-          "officials": [
-            "日本政府顧問小組及經濟委員呼籲央行加息時須謹慎，關注企業融資壓力"
-          ],
-          "expectations": [
-            "市場關注日本央行是否配合外匯干預同期加息"
-          ],
-          "reports": [
-            "宣佈任命正木一博為執行理事，主管國際事務"
-          ]
+          "status": "追蹤中",
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
         },
         {
           "id": "RBA",
           "name": "澳洲聯儲 RBA",
-          "status": "active",
+          "status": "追蹤中",
           "officials": [],
           "expectations": [],
-          "reports": []
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
         },
         {
           "id": "BoC",
           "name": "加拿大央行 BoC",
-          "status": "active",
+          "status": "追蹤中",
           "officials": [
-            "Rosenberg指出勞動市場疲軟令加拿大央行加息可能性低"
+            "經濟學家David Rosenberg指出加拿大勞動力市場疲軟，2026年前四個月淨減少11.2萬就業崗位，加拿大央行在現階段「絕無可能」加息，反映出該行面臨的經濟復甦挑戰與通膨壓力緩和。",
+            "同時，強勁的就業數據不支持近期市場預期2026年底前至少加息兩次的定價，暗示央行可能採取更為審慎的態度以支持經濟。"
           ],
-          "expectations": [
-            "加拿大10年期公債殖利率因通膨憂慮回升至3.55%"
-          ],
-          "reports": []
+          "expectations": [],
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
         },
         {
           "id": "RBI",
           "name": "印度央行 RBI",
-          "status": "active",
+          "status": "追蹤中",
           "officials": [
-            "印度央行可能出手出售美元以遏制盧比貶值"
+            "據報導，印度央行正與政府官員討論多項緊急措施，包括限制黃金和電子產品等非必要進口及提高燃料價格，目的是支撐外匯儲備並緩解伊朗戰爭造成的經濟衝擊。",
+            "這些措施表明印度央行正積極介入以維護貨幣穩定與經濟抗壓能力，反映出對國際能源價格波動及外匯市場動盪的關注。"
           ],
           "expectations": [],
-          "reports": [
-            "據報印度正考慮限制非必要黃金進口與調高燃料價格以支持外匯儲備"
-          ]
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
         },
         {
           "id": "BCB",
           "name": "巴西央行 BCB",
-          "status": "active",
+          "status": "追蹤中",
           "officials": [],
           "expectations": [],
-          "reports": []
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
         },
         {
           "id": "SNB",
           "name": "瑞士央行 SNB",
-          "status": "active",
-          "officials": [
-            "瑞士央行與IMF舉行貨幣政策小組會議，歐洲央行管委兼德國央行行長Nagel參與發言"
-          ],
+          "status": "追蹤中",
+          "officials": [],
           "expectations": [],
-          "reports": []
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
         }
       ]
     },
@@ -521,92 +779,179 @@
       "date": "2026-05-11",
       "range_start": "2026-05-10 07:00:00",
       "range_end": "2026-05-11 07:00:00",
-      "generated_at": "2026-05-15 17:18:22",
+      "generated_at": "2026-05-15 20:57:36",
+      "schema_version": 2,
       "count": 8,
-      "headline": "多國央行重申謹慎，地緣政局增添政策不確定性",
+      "headline": "主要央行維持利率，美聯儲降息機率低",
       "central_banks": [
         {
-          "id": "fed",
-          "name": "美國聯準會 Fed",
-          "status": "",
-          "officials": [
-            "白宮國家經濟委員會主任哈塞特讚揚凱文・沃什行事穩健可靠。",
-            "哈塞特認為市場樂見美聯儲結束不確定狀況。",
-            "Pimco首席投資官丹・伊萬斯金警示伊朗戰事可能推遲降息，甚至導致加息。"
-          ],
+          "id": "Fed",
+          "name": "美國聯準會",
+          "status": "追蹤中",
+          "officials": [],
           "expectations": [
-            "CME‘美聯儲觀察’顯示6月維持利率不變機率達93.8%，降息25個基點機率6.2%。",
-            "7月維持利率不變機率88.8%，降息25基點機率10.8%，降息50基點機率0.3%。"
+            "CME FedWatch數據顯示，美聯儲6月會議維持利率不變機率高達93.8%，降息25個基點機率僅6.2%。",
+            "7月維持利率不變機率為88.8%，降息25個基點機率為10.8%，降息50個基點機率極低，僅0.3%。"
           ],
-          "reports": []
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
         },
         {
-          "id": "ecb",
-          "name": "歐洲央行 ECB",
-          "status": "",
+          "id": "ECB",
+          "name": "歐洲央行",
+          "status": "追蹤中",
           "officials": [],
           "expectations": [],
           "reports": [
-            "歐洲央行與印度儲備銀行簽署合作諒解備忘錄，並同意定期資訊交流及政策對話。"
-          ]
+            "歐洲央行與印度儲備銀行簽署合作諒解備忘錄，開啟定期資訊交流與政策對話，顯示雙方加強協調立場。"
+          ],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
         },
         {
-          "id": "boe",
-          "name": "英國央行 BoE",
-          "status": "",
+          "id": "BoE",
+          "name": "英國央行",
+          "status": "追蹤中",
           "officials": [],
           "expectations": [],
-          "reports": []
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
         },
         {
-          "id": "boj",
-          "name": "日本央行 BoJ",
-          "status": "",
+          "id": "BoJ",
+          "name": "日本央行",
+          "status": "追蹤中",
           "officials": [],
           "expectations": [],
-          "reports": []
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
         },
         {
-          "id": "rba",
-          "name": "澳洲聯儲 RBA",
-          "status": "",
+          "id": "RBA",
+          "name": "澳洲聯儲",
+          "status": "追蹤中",
           "officials": [],
           "expectations": [],
-          "reports": []
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
         },
         {
-          "id": "boc",
-          "name": "加拿大央行 BoC",
-          "status": "",
+          "id": "BoC",
+          "name": "加拿大央行",
+          "status": "追蹤中",
           "officials": [],
           "expectations": [],
-          "reports": []
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
         },
         {
-          "id": "rbi",
-          "name": "印度央行 RBI",
-          "status": "",
+          "id": "RBI",
+          "name": "印度央行",
+          "status": "追蹤中",
           "officials": [],
           "expectations": [],
           "reports": [
-            "印度儲備銀行與歐洲央行達成合作備忘錄，展開政策對話及定期資訊交流。"
-          ]
+            "印度儲備銀行與歐洲央行簽署合作諒解備忘錄，強化定期政策交流與資訊共享。"
+          ],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
         },
         {
-          "id": "bcb",
-          "name": "巴西央行 BCB",
-          "status": "",
+          "id": "BCB",
+          "name": "巴西央行",
+          "status": "追蹤中",
           "officials": [],
           "expectations": [],
-          "reports": []
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
         },
         {
-          "id": "snb",
-          "name": "瑞士央行 SNB",
-          "status": "",
+          "id": "SNB",
+          "name": "瑞士央行",
+          "status": "追蹤中",
           "officials": [],
           "expectations": [],
-          "reports": []
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
         }
       ]
     },
@@ -615,94 +960,184 @@
       "date": "2026-05-10",
       "range_start": "2026-05-09 07:00:00",
       "range_end": "2026-05-10 07:00:00",
-      "generated_at": "2026-05-15 17:18:35",
+      "generated_at": "2026-05-15 20:57:53",
+      "schema_version": 2,
       "count": 13,
-      "headline": "全球央行關注通膨不確定與技術變革挑戰",
+      "headline": "歐洲央行觀望衝突影響，美聯儲降息預期明顯降低",
       "central_banks": [
         {
-          "id": "Fed",
+          "id": "fed",
           "name": "美國聯準會 Fed",
-          "status": "",
+          "status": "官員密集發言",
           "officials": [
-            "理事克里斯托弗·沃勒倡導將支援性職能如人力資源、資訊科技及風險管理集中化，以提升效率和管理。",
-            "沃勒強調聯邦儲備委員會主要監督職能，非決策機關。"
+            "美聯儲理事克里斯托弗·沃勒於2026年5月9日在Stanford University的胡佛研究所會議上表示，推動系統支援性職能（如人力資源、資訊科技和風險管理）集中化，期望透過由一家儲備銀行承擔該項職能，提升整體效率並降低運營成本，改善風險管理。沃勒指出，新方案細節仍待敲定，該改革將改變目前12家地區性儲備銀行獨立運作的現狀。此舉可能強化美聯儲運作一致性，間接影響政策執行效能。",
+            "沃勒強調聯邦儲備委員會主要負責監督職能，而非直接決策，凸顯決策權與監督職責的區分，有助理解美聯儲內部運作架構與權責分配，對貨幣政策執行有間接影響。"
           ],
           "expectations": [
-            "美國銀行最新預測美聯儲將推遲降息至2027年下半年。",
-            "4月非農就業超預期，增加聯準會6月降息難度。",
-            "市場原先預期2026年底前可能降息2至3次，但降息希望已減弱。",
-            "部分經濟學家認為人工智慧和技術進步可能帶來中期通縮壓力。"
+            "根據近期市場定價及機構調查，美聯儲在2026年內降息的機率大幅降低，尤其是BofA下調了年內降息預期，指出降息時點可能推遲至2027年下半年，反映通膨仍處高位且就業市場依然強勁。CME FedWatch工具顯示，6月降息的機率明顯下降，市場更趨向於維持利率或微幅升息的狀態，反映市場對Fed的鷹派立場態度轉為更長期緊縮預期。",
+            "市場分析師認為即便有部分技術性因素（如人工智慧加速生產率提升）帶來潛在通縮壓力，但短期內美聯儲仍重視持續抑制通膨的政策需要，降息時點被普遍看延後，投資人大幅提高現金與實物資產比重，表明市場信心對降息預期減弱。"
           ],
-          "reports": []
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
         },
         {
-          "id": "ECB",
+          "id": "ecb",
           "name": "歐洲央行 ECB",
-          "status": "",
+          "status": "追蹤中",
           "officials": [
-            "管委兼西班牙央行行長埃斯克裡瓦指出私人穩定幣無法替代央行提供的金融信任錨。",
-            "埃斯克裡瓦談及人工智慧發展迫使重評金融基礎設施及網路安全風險。",
-            "行長拉加德表示正仔細評估伊朗衝突對通膨的影響，需更多資料決定行動時機。",
-            "拉加德提及歐洲央行面臨巨大不確定性，須平衡行動速度。"
+            "歐洲央行行長克里斯汀·拉加德多次公開表示，ECB正在密切關注中東地區伊朗衝突對歐元區通膨的影響，目前處於信息收集階段，決策將基於衝突的深度、持續時間及對經濟的實際影響。她強調ECB面臨巨大不確定性，決策必須避免過早或過慢，以確保達成2%的中期通脹目標。拉加德並重申市場和ECB對價格走向及間接成本的擔憂不盡相同，ECB更為審慎且以數據為導向。",
+            "歐洲央行管委、西班牙央行行長埃斯克裡瓦指出，私人穩定幣本質依賴市場信心，無法成為金融體系的最終信任錨，央行提供的信任不可替代。此外他強調金融基礎設施與網路安全在人工智慧快速發展下必須重新評估，以因應新興風險並增強金融體系韌性。"
           ],
-          "expectations": [],
-          "reports": []
+          "expectations": [
+            "市場普遍預期歐洲央行將師法去年緩步升息節奏，並密切關注地緣政治風險對通膨的衝擊，預計未來一季內仍會保持中性立場，靜觀數據發展決定政策方向。",
+            "調查顯示市場對ECB下月加息態度謹慎，機率不確定，因衝突帶來的不確定性使得預期反覆，投資者情緒偏向觀望。"
+          ],
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
         },
         {
-          "id": "BoE",
+          "id": "boe",
           "name": "英國央行 BoE",
-          "status": "",
+          "status": "無重大事件",
           "officials": [],
           "expectations": [],
-          "reports": []
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
         },
         {
-          "id": "BoJ",
+          "id": "boj",
           "name": "日本央行 BoJ",
-          "status": "",
+          "status": "無重大事件",
           "officials": [],
           "expectations": [],
-          "reports": []
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
         },
         {
-          "id": "RBA",
+          "id": "rba",
           "name": "澳洲聯儲 RBA",
-          "status": "",
+          "status": "無重大事件",
           "officials": [],
           "expectations": [],
-          "reports": []
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
         },
         {
-          "id": "BoC",
+          "id": "boc",
           "name": "加拿大央行 BoC",
-          "status": "",
+          "status": "無重大事件",
           "officials": [],
           "expectations": [],
-          "reports": []
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
         },
         {
-          "id": "RBI",
+          "id": "rbi",
           "name": "印度央行 RBI",
-          "status": "",
+          "status": "無重大事件",
           "officials": [],
           "expectations": [],
-          "reports": []
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
         },
         {
-          "id": "BCB",
+          "id": "bcb",
           "name": "巴西央行 BCB",
-          "status": "",
+          "status": "無重大事件",
           "officials": [],
           "expectations": [],
-          "reports": []
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
         },
         {
-          "id": "SNB",
+          "id": "snb",
           "name": "瑞士央行 SNB",
-          "status": "",
+          "status": "無重大事件",
           "officials": [],
           "expectations": [],
-          "reports": []
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
         }
       ]
     },
@@ -711,124 +1146,199 @@
       "date": "2026-05-09",
       "range_start": "2026-05-08 07:00:00",
       "range_end": "2026-05-09 07:00:00",
-      "generated_at": "2026-05-15 17:19:15",
+      "generated_at": "2026-05-15 20:58:13",
+      "schema_version": 2,
       "count": 160,
-      "headline": "多數央行維持政策觀望，地緣政治與能源價格成關注重點",
+      "headline": "美聯儲維持利率不變，歐洲央行準備六月加息應對能源風險",
       "central_banks": [
         {
           "id": "Fed",
           "name": "美國聯準會 Fed",
-          "status": "",
+          "status": "追蹤中",
           "officials": [
-            "古爾斯比表示所有利率選項均在考慮中，不應只認為降息是唯一選項",
-            "古爾斯比稱目前通脹形勢不容樂觀，尤其是服務業通脹最令人擔憂",
-            "古爾斯比指出就業市場穩定，無明顯惡化跡象",
-            "米蘭理事認為減少前瞻指引有助提升政策彈性，且支持提前集中降息",
-            "米蘭理事建議忽略能源衝擊，通脹與就業市場並無指向更高通膨",
-            "哈塞特表示未見通脹失控跡象，美聯儲無需加息",
-            "“美聯儲傳聲筒”尼克·蒂米拉奧斯指出非農資料顯示焦點將由就業轉向通脹",
-            "古爾斯比擔憂市場過早定價人工智慧產能提升",
-            "古爾斯比表示會密切關注通脹情勢及能源衝擊持續性"
+            "芝加哥聯儲行長奧斯坦·古爾斯比指出，目前美聯儲考慮所有利率選項，既包括加息也包括降息，強調通膨壓力仍在上升，尤其是服務業通脹，不僅能源驅動。古爾斯比反對透過口頭引導政策決策，認為目前沒有明顯就業市場惡化跡象，強調通膨仍是美聯儲關注焦點。",
+            "理事米蘭發言認為應淡化能源衝擊對通膨的影響，支持盡快削減資產負債表，並傾向於提前啟動降息步伐，強調不應出現政策立場分裂。",
+            "眾多經濟學家及市場觀察人士認為美聯儲在2026年大概率維持政策利率不變，短期內加息可能性低，但未來將逐步偏向降息，因通膨料於2027年顯著回落。"
           ],
           "expectations": [
-            "CME美聯儲觀察顯示6月維持利率不變概率約95%，降息概率低於10%",
-            "非農就業數據強勁使市場降息預期陣營縮小，約半數分析師預計今年按兵不動",
-            "利率期貨微幅下調2026年加息機率",
-            "國債收益率及美元指數反應中性偏弱"
+            "CME FedWatch工具顯示，2026年6月維持聯邦基金利率於3.50%-3.75%區間的機率約為94.9%，降息25個基點機率5.1%。2026年7月維持利率不變機率約88.8%，降息25個基點機率10.8%。",
+            "市場利率期貨對美聯儲年底前降息幅度仍保持有限定價，顯示投資者預期短期內政策將保持穩定甚至鷹派。"
           ],
           "reports": [
-            "美聯儲發布金融穩定報告，指出地緣政治、AI、私人信貸及通脹為主要風險",
-            "報告稱私人信貸贖回風險有限且可控",
-            "銀行對其他金融機構貸款在2025年第四季顯著增長至2.5兆美元",
-            "對沖基金槓桿率仍接近歷史高位",
-            "美聯儲金融穩定報告提到AI廣泛應用可能推高失業率"
-          ]
+            "5月8日美聯儲發布半年一次的金融穩定報告，指出地緣政治風險、石油價格沖擊、人工智慧發展與私人信貸贖回是主要金融穩定風險，認為私人信貸市場贖回壓力目前可控。",
+            "4月非農新增就業11.5萬人，連續第二個月超出預期，失業率維持4.3%，顯示勞動力市場逐漸穩定，為美聯儲按兵不動提供動力。"
+          ],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
         },
         {
           "id": "ECB",
           "name": "歐洲央行 ECB",
-          "status": "",
+          "status": "追蹤中",
           "officials": [
-            "行長拉加德表示歐洲央行對通脹風險高度警惕",
-            "拉加德指出歐元區經濟在能源衝擊前處於較好初始狀況",
-            "副行長金多斯稱霍爾木茲海峽局勢將是6月政策會議的關鍵",
-            "拉加德強調歐洲央行已做好應對能源價格上漲的準備",
-            "拉加德表示數字歐元立法應於2026年底前完成"
+            "行長拉加德表示，歐洲央行已做好充分準備，若有需要將迅速對上漲的能源價格做出回應，強調中東局勢將影響6月利率決議。",
+            "副行長金多斯認為霍爾木茲海峽局勢將成為6月政策會議的關鍵，當前市場不確定性極高，預期歐洲央行將加息以遏制持續的通脹風險。",
+            "拉加德提及歐盟作為能源淨進口區，在能源價格飆升時承受貿易條件稅衝擊，強調數字歐元的立法進程應於今年年底完成。"
           ],
           "expectations": [
-            "市場普遍預期ECB將於6月把存款利率由2%上調至2.25%",
-            "德國10年期公債殖利率微升反映ECB政策鷹派預期增加"
+            "市場普遍預期歐洲央行於6月將把存款利率從2.0%提高至2.25%，以應對能源價格推動的通脹壓力。",
+            "歐元匯率接近三週高點，部分反映市場對歐洲央行未來加息的強烈預期。"
           ],
-          "reports": []
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
         },
         {
           "id": "BoE",
           "name": "英國央行 BoE",
-          "status": "",
+          "status": "追蹤中",
           "officials": [],
           "expectations": [],
-          "reports": []
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
         },
         {
           "id": "BoJ",
           "name": "日本央行 BoJ",
-          "status": "",
+          "status": "追蹤中",
           "officials": [
-            "行長植田和男將於5月9日至13日赴瑞士參加國際清算銀行會議"
+            "日本政府公布3月實際工資同比上升1.0%，連續第三個月增長，薪資增長的穩定性為日銀可能於6月會議加息提供支撐。",
+            "消息指出日本政府於黃金週假期期間多次干預外匯市場買入日元，協助阻止日元大幅貶值，整體干預金額估計達約5萬億日元。",
+            "行長植田和男將於5月9日至13日赴瑞士參加國際清算銀行會議，象徵日銀積極參與全球貨幣政策協調。"
           ],
-          "expectations": [
-            "近三分之二經濟學家預期日本央行將於6月底加息至1%基準利率"
-          ],
-          "reports": [
-            "日本政府公布3月經通脹調整後實際工資年增1.0%，連續第三個月上升，支撐央行加息理由",
-            "3月現金收入同比增長2.7%"
-          ]
+          "expectations": [],
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
         },
         {
           "id": "RBA",
           "name": "澳洲聯儲 RBA",
-          "status": "",
+          "status": "追蹤中",
           "officials": [],
           "expectations": [],
-          "reports": []
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
         },
         {
           "id": "BoC",
           "name": "加拿大央行 BoC",
-          "status": "",
+          "status": "追蹤中",
           "officials": [
-            "加拿大帝國商業銀行經濟學家指出勞動力市場鬆弛加劇，限制油價衝擊擴散"
+            "加拿大經濟學家指出4月就業數據疲弱，就業人數減少1.77萬人，失業率升至6.9%，表明勞動市場鬆動，有助於加拿大央行保持觀望立場。",
+            "加拿大帝國商業銀行分析師強調港口吞吐瓶頸及運輸投資不足，影響經濟整體活力。",
+            "市場反映加拿大央行可能將在2026年持續按兵不動，關注成長與通膨風險的平衡。"
           ],
-          "expectations": [
-            "加拿大4月就業減少加強市場對央行觀望立場的預期"
-          ],
-          "reports": []
+          "expectations": [],
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
         },
         {
           "id": "RBI",
           "name": "印度央行 RBI",
-          "status": "",
+          "status": "追蹤中",
           "officials": [],
           "expectations": [],
-          "reports": []
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
         },
         {
           "id": "BCB",
           "name": "巴西央行 BCB",
-          "status": "",
+          "status": "追蹤中",
           "officials": [],
           "expectations": [],
-          "reports": []
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
         },
         {
           "id": "SNB",
           "name": "瑞士央行 SNB",
-          "status": "",
+          "status": "追蹤中",
           "officials": [
-            "日本央行行長植田和男將出席國際清算銀行會議（於瑞士）"
+            "日本央行行長植田和男將於5月9日至13日訪問瑞士，參加國際清算銀行會議，顯示瑞士在國際貨幣政策協調中持續扮演重要角色。"
           ],
           "expectations": [],
-          "reports": []
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
         }
       ]
     }
