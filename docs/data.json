@@ -1,7 +1,288 @@
 {
-  "updated": "2026-05-16 00:33:04",
-  "count": 15560,
+  "updated": "2026-05-16 01:25:34",
+  "count": 15517,
   "items": [
+    {
+      "id": "4882719",
+      "time": "2026-05-16 00:57:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國衛生安全域性：已向英國海外領地聖赫勒拿島部署應急機動實驗室。"
+    },
+    {
+      "id": "4882718",
+      "time": "2026-05-16 00:55:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：巴西經濟保護行政委員會將調查 iFood 獨家合作協議。"
+    },
+    {
+      "id": "4882717",
+      "time": "2026-05-16 00:51:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "LME期銅收跌384美元，報13555美元/噸。LME期鋁收跌94美元，報3563美元/噸。LME期鋅收跌50美元，報3534美元/噸。"
+    },
+    {
+      "id": "mkt:019e2c8c-631d-7663-82fa-ee2ae9962b3c",
+      "time": "2026-05-16 00:50:58",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O",
+        "Impact bullish"
+      ],
+      "text": "MICROSOFT STOCK MOVES HIGHER AFTER ACKMAN ANNOUNCES NEW STAKE - WSJ"
+    },
+    {
+      "id": "4882716",
+      "time": "2026-05-16 00:50:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "【英國政府融資成本飆漲約18個基點，創2008年以來新高】週五（5月15日）歐市尾盤，英國10年期國債收益率漲17.8個基點，報5.172%，逼近2008年7月2日頂部5.198%、2007年8月8日頂部5.309%、2007年7月9日頂部5.564%，本週累計上漲26個基點，5月11-12日顯著上漲，13-14日有所回撤。兩年期英債收益率漲12.5個基點，報4.551%，本週累漲16.8個基點。30年期英債收益率累漲26.9個基點，報5.849%；50年期英債收益率累漲21.1個基點，報5.360%。2/10年期英債收益率利差累漲9.199個基點，報+61.929個基點。"
+    },
+    {
+      "id": "4882715",
+      "time": "2026-05-16 00:49:22",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國天然氣期貨日內漲幅擴大至3.00%，現報2.981美元/百萬英熱。"
+    },
+    {
+      "id": "mkt:019e2c8a-e59a-7663-82fa-e15872a89737",
+      "time": "2026-05-16 00:49:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EUROCLEAR: WILL APPEAL THE COURT'S DECISION"
+    },
+    {
+      "id": "mkt:019e2c8a-dc38-7663-82fa-dc29f13d6c94",
+      "time": "2026-05-16 00:49:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EUROCLEAR- CO'S OPERATIONS AND FINANCIAL POSITION ARE UNAFFECTED BY THE COURT’S DECISION"
+    },
+    {
+      "id": "mkt:019e2c8a-c678-7663-82fa-d0d41f9715ce",
+      "time": "2026-05-16 00:49:12",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Brent"
+      ],
+      "text": "EUROCLEAR: CENTRAL BANK OF RUSSIA’S ASSETS HELD AT EUROCLEAR BANK REMAIN IMMOBILISED, IN LINE WITH THE INTERNATIONAL SANCTIONS"
+    },
+    {
+      "id": "4882714",
+      "time": "2026-05-16 00:49:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐洲清算中心：將對法院的裁決提起上訴。"
+    },
+    {
+      "id": "mkt:019e2c8a-b464-7663-82fa-cdf3e90fedc7",
+      "time": "2026-05-16 00:49:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EUROCLEAR: STRONGLY CONTESTS THIS CLAIM, WHICH IS WITHOUT MERIT."
+    },
+    {
+      "id": "mkt:019e2c8a-a2fb-7663-82fa-c5d10543304e",
+      "time": "2026-05-16 00:49:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EUROCLEAR: AWARE THAT MOSCOW COURT OF ARBITRATION HAS HANDED DOWN JUDGMENT FAVOURING CENTRAL BANK OF RUSSIA IN ITS CLAIM AGAINST EUROCLEAR BANK"
+    },
+    {
+      "id": "mkt:019e2c8a-63e5-7663-82fa-bf12b2e77adc",
+      "time": "2026-05-16 00:48:47",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "US NY FED GDP NOWCAST Q2: 2.61% (PREV 2.59%)"
+    },
+    {
+      "id": "4882713",
+      "time": "2026-05-16 00:48:24",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "歐洲清算中心：公司運營與財務狀況未受到該法院裁決的影響。"
+    },
+    {
+      "id": "4882712",
+      "time": "2026-05-16 00:48:10",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲清算中心：存放在歐洲清算銀行的俄羅斯央行資產仍依據國際制裁規定處於凍結狀態。"
+    },
+    {
+      "id": "4882711",
+      "time": "2026-05-16 00:47:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐洲清算中心：強烈對該主張提出抗辯，該主張毫無法律依據。"
+    },
+    {
+      "id": "4882710",
+      "time": "2026-05-16 00:47:35",
+      "tags": [
+        "央行",
+        "公司",
+        "國際"
+      ],
+      "text": "歐清結算集團：我方已獲知莫斯科仲裁法院就俄羅斯中央銀行針對歐清銀行的索賠作出了有利於俄央行的判決。"
+    },
+    {
+      "id": "mkt:019e2c88-17ed-7663-82fa-b0f734f07a0c",
+      "time": "2026-05-16 00:46:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "JAPAN AUTOMAKERS' PROFITS TO STALL AT HALF OF PEAK LEVEL ON IRAN WAR - NIKKEI"
+    },
+    {
+      "id": "4882709",
+      "time": "2026-05-16 00:44:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "【德國10年期國債收益率漲超12個基點】週五（5月15日）歐市尾盤，德國10年期國債收益率漲12.4個基點，報3.167%，逼近2011年5月6日頂部3.228%、當年4月月11日頂部3.505%，本週累計上漲16.2個基點，整體交投於3.011%-3.172%區間，5月11-13日持續走高，14日回撤，15日再度走高。兩年期德債收益率漲8.6個基點，報2.738%，本週累漲13.8個基點，整體交投於2.609%-2.749%區間；30年期德債收益率累漲13.4個基點，報3.676%。2/10年期德債收益率利差累漲2.428個基點，報+42.720個基點。"
+    },
+    {
+      "id": "4882708",
+      "time": "2026-05-16 00:43:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "謝里特礦業擬出讓其在古巴合資企業所持權益。"
+    },
+    {
+      "id": "4882707",
+      "time": "2026-05-16 00:42:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：巴西大選右翼陣營爆冷勝出機率攀升。"
+    },
+    {
+      "id": "4882706",
+      "time": "2026-05-16 00:42:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "訊息人士：以黎談判正在商討的“停火”落實問題與撤軍或全面協議無關。"
+    },
+    {
+      "id": "4882705",
+      "time": "2026-05-16 00:42:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：馬斯克證實，太空探索技術公司計劃做到無法將他罷免。"
+    },
+    {
+      "id": "4882704",
+      "time": "2026-05-16 00:41:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大公訴署：已下達命令，要求加拿大安賽樂米塔爾礦業普通合夥企業提交環境管理計劃。"
+    },
+    {
+      "id": "4882703",
+      "time": "2026-05-16 00:39:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "訊息人士：以黎談判正在商討長期安全安排。"
+    },
+    {
+      "id": "4882702",
+      "time": "2026-05-16 00:38:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "雅詩蘭黛旗下品牌已收到最終收購報價，Smashbox、Too Faced、蒂佳婷均已收到最終收購報價。"
+    },
+    {
+      "id": "4882701",
+      "time": "2026-05-16 00:37:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "訊息人士：以黎談判所取得的進展仍處於‘漸進式諒解’的框架內。"
+    },
+    {
+      "id": "4882700",
+      "time": "2026-05-16 00:37:14",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【歐洲股市創3月下旬以來最大跌幅 油價上漲與債市拋售拖累】歐洲股市錄得3月下旬以來最大跌幅，最新一輪油價上漲加劇通脹擔憂，並導致全球債券拋售潮惡化。斯托克歐洲600指數週五下跌1.5%，在債券收益率上升後風險情緒明顯降溫。銀行、公用事業和房地產等利率敏感板塊普遍走弱，黃金和銅等金屬價格回撥則拖累礦業股下跌。能源股成為少數亮點，而醫療保健和必需消費品板塊跑贏大盤，得益於投資者轉向防禦性資產。在美國總統唐納德·特朗普對福克斯新聞表示，美國不需要霍爾木茲海峽保持開放後，布倫特原油升破每桶109美元。Wellington Management投資總監Paul Skinner視表示：“在債券市場持續動盪、通脹問題仍存、以及峰會未能為霍爾木茲海峽問題帶來解決方案的背景下，我認為未來市場肯定會迎來一些波動。”"
+    },
+    {
+      "id": "te:economy:551275",
+      "time": "2026-05-16 00:37:12",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Russia",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Russia Inflation Rate Lower than Anticipated — Russia's headline annual inflation rate eased to a four-month low of 5.6% in April 2026 from 5.9% previously and below the expected 5.8%. Still, inflation remains well above the CBR’s target of 4%. Price growth moderated for food products (4% vs 5% in March), helped by a steeper decline in the prices of fruits and vegetables (-6.6% vs -2.3%). Meanwhile, services inflation remained elevated (9.9% vs 10%) and prices for non-food products picked up (3.9% vs 3.5%), mainly on account of automobile gasoline (12.3%); medicines (9.1%) and tobacco (7.5%). On a monthly basis, the CPI edged up by 0.1% in April, following a 0.6% rise in March, slightly below market forecasts of a 0.3% increase."
+    },
+    {
+      "id": "4882699",
+      "time": "2026-05-16 00:35:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士：以色列與黎巴嫩的談判至今未達成任何最終協議。"
+    },
+    {
+      "id": "4882698",
+      "time": "2026-05-16 00:33:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【5月16日零時起 部分貴州茅臺酒產品自營體系零售價格調整】i茅臺5月16日釋出公告，自當天零時起，貴州茅臺對部分貴州茅臺酒產品自營體系零售價格進行調整。公告顯示，調整的產品包括：53%vol 500ml 陳年貴州茅臺酒（15）由4199元/瓶調整為4279元/瓶；53%vol 500ml 貴州茅臺酒（精品）由2299元/瓶調整為2359元/瓶；53%vol 500ml 貴州茅臺酒（丙午馬年）珍享版由2499元/瓶調整為2699元/瓶；飛天53%vol 1L貴州茅臺酒由2989元/瓶調整為3119元/瓶。公告顯示，此次調整是按照茅臺隨行就市、供需適配、量價平衡、相對平穩的原則。"
+    },
     {
       "id": "4882697",
       "time": "2026-05-16 00:32:11",
@@ -174,6 +455,14 @@
         "Importance 1"
       ],
       "text": "Russia GDP Contracts in Q1 — The Russian GDP contracted by 0.2% from the previous year in the first quarter of 2026, the first annual contraction in three years, swinging from the 1% increase in the earlier period. The data was released days after the Russian government cut its GDP forecast for this year to 0.4% growth from the earlier expectations of 1.3%. The contraction took place despite the surge in prices of commodities that are heavily produced in Russia, including oil, gas, coal, and multiple industrial metals and grains, following the halt in shipping from the Middle East amid the war. The contraction also prevailed in a period of soaring deficit spending by the Duma, attempting to stimulate the economy hampered by sanctions from the West that isolated goods producers and financial services providers from Western clients. Russia's energy revenues sank by 40% annually in the year to April, and rates by the Bank of Russia are expected to remain high."
+    },
+    {
+      "id": "4882683",
+      "time": "2026-05-16 00:18:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國武裝事務國務部長：戴高樂號航母已駛過蘇伊士運河與紅海並完成進駐部署，令法國得以實時掌握地區局勢動態，同時保留外交斡旋籌碼。"
     },
     {
       "id": "4882682",
@@ -139598,712 +139887,6 @@
         "Greater China"
       ],
       "text": "US SEEKS $400 MILLION SETTLEMENT FROM TIKTOK TIKTOK BOARD MAY DECIDE ON SETTLEMENT AS SOON AS TODAY -ABC"
-    },
-    {
-      "id": "4869010",
-      "time": "2026-05-09 01:24:06",
-      "tags": [
-        "宏觀",
-        "焦點",
-        "國際"
-      ],
-      "text": "美國國務院：美國將於 5 月 14 日至 15 日促成以色列與黎巴嫩兩國政府舉行為期兩天的密集會談。"
-    },
-    {
-      "id": "mkt:019e089e-0b8d-7222-b4a9-2ce014905634",
-      "time": "2026-05-09 01:23:55",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "U.S. STATE DEPT: UNITED STATES WILL FACILITATE TWO DAYS OF INTENSIVE TALKS BETWEEN GOVERNMENTS OF ISRAEL AND LEBANON ON MAY 14 AND 15"
-    },
-    {
-      "id": "mkt:019e089d-3113-7222-b4a9-2536bb24c4ab",
-      "time": "2026-05-09 01:22:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IRAN'S FOREIGN MINISTRY SPOKESPERSON: WE DO OUR WORK AND DO NOT CARE ABOUT DEADLINES OR ULTIMATUMS - ISNA"
-    },
-    {
-      "id": "mkt:019e089d-0b36-7222-b4a9-1e44f5c0d04a",
-      "time": "2026-05-09 01:22:50",
-      "tags": [
-        "MKT News",
-        "AVGO.O"
-      ],
-      "text": "APOLLO, BLACKSTONE WEIGH $35 BILLION FINANCING FOR BROADCOM"
-    },
-    {
-      "id": "mkt:019e089c-b80e-7222-b4a9-137e382d05cd",
-      "time": "2026-05-09 01:22:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CRUISE SHIP HANTAVIRUS PATIENTS COULD NOT HAVE BEEN INFECTED IN TIERRA DEL FUEGO - PROVINCIAL HEALTH AUTHORITY"
-    },
-    {
-      "id": "4869009",
-      "time": "2026-05-09 01:22:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "阿波羅與黑石集團考慮圍繞博通融資350億美元。"
-    },
-    {
-      "id": "4869008",
-      "time": "2026-05-09 01:21:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國中央司令部：三艘驅逐艦目前正在阿拉伯海航行，為對伊朗的封鎖行動提供支援。截至今日，美軍中央司令部部隊已攔截改道 57 艘商船，並癱瘓 4 艘，阻止這些船舶進出伊朗港口。"
-    },
-    {
-      "id": "4869007",
-      "time": "2026-05-09 01:20:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗駐德國大使：如果歐洲擔心霍爾木茲海峽，它應該約束美國。"
-    },
-    {
-      "id": "4869006",
-      "time": "2026-05-09 01:20:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "【西班牙發現一例涉疫郵輪相關疑似病例】西班牙衛生部8日表示，一名曾與“洪迪厄斯”號郵輪後續病亡乘客搭乘同一航班的人員，因出現與感染漢坦病毒相符症狀，在該國東南部阿利坎特市送醫治療。"
-    },
-    {
-      "id": "mkt:019e089a-603c-7222-b4a9-0e8b4cddbec5",
-      "time": "2026-05-09 01:19:55",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "IRAN'S AMBASSADOR TO GERMANY: IF EUROPE IS WORRIED ABOUT HORMUZ, IT SHOULD RESTRAIN THE US - IRNA"
-    },
-    {
-      "id": "mkt:019e0898-b7e0-7222-b4a9-056a0bdd7df7",
-      "time": "2026-05-09 01:18:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IRAN'S AMBASSADOR TO CHINA: RELATIONS BETWEEN CHINA AND IRAN WILL EXPAND AND DEEPEN AFTER THE WAR - ISNA"
-    },
-    {
-      "id": "4869005",
-      "time": "2026-05-09 01:16:15",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "週五（5月8日），美聯儲隔夜逆回購協議（RRP）使用規模為7.87億美元，上個交易日報7.73億美元。"
-    },
-    {
-      "id": "mkt:019e0896-af75-7222-b4a8-fa3aa76db654",
-      "time": "2026-05-09 01:15:53",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "NEW YORK FED ACCEPTS $0.787 BLN OF $0.787 BLN SUBMITTED TO REVERSE REPO FACILITY ON MAY 08"
-    },
-    {
-      "id": "mkt:019e0896-90b0-7222-b4a8-f2128a7b13fb",
-      "time": "2026-05-09 01:15:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IRAN'S AMBASSADOR TO CHINA: CHINA CAN ACT AS GUARANTOR OF ANY AGREEMENT IN PERSIAN GULF REGION - ISNA"
-    },
-    {
-      "id": "mkt:019e0895-1e29-7222-b4a8-e9a6a1ed4865",
-      "time": "2026-05-09 01:14:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IRAN DENIES ASSAULT ON CHINESE OIL TANKER - ISNA"
-    },
-    {
-      "id": "4869004",
-      "time": "2026-05-09 01:13:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度政府釋出新版勞工法典下的工資相關實施細則。"
-    },
-    {
-      "id": "mkt:019e0892-8d4c-7222-b4a8-e117c7745c1d",
-      "time": "2026-05-09 01:11:22",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【No Commercial Ship Crossings Reported in Strait of Hormuz as Tensions Escalate】No commercial vessels operated by registered shipping companies have crossed the Strait of Hormuz since Tuesday amid rising hostilities between Iran and the U.S., according to S&P Global Intelligence data. In the past seven days, 1,018 ships were tracked within 200 miles of the strait, though activity was largely limited to shadow fleet vessels, Iran-owned ships engaged in local trade, and some smaller crossings. Jeremy Domballe, maritime director at S&P Global Intelligence, said: “Absent a clear resolution, any increase in transits is more likely to begin as a slow trickle rather than a mass exodus, as key operational and security questions would still need to be addressed before confidence returns at scale.”"
-    },
-    {
-      "id": "mkt:019e0891-e691-7aa7-bba8-511bd4fc425a",
-      "time": "2026-05-09 01:10:39",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "NO COMMERCIAL SHIPS CROSS STRAIT OF HORMUZ IN THREE DAYS - WSJ"
-    },
-    {
-      "id": "4869003",
-      "time": "2026-05-09 01:10:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "據華爾街日報：特朗普計劃解僱美國食品藥品監督管理局（FDA）局長馬蒂・馬卡里。"
-    },
-    {
-      "id": "mkt:019e0891-af66-7222-b4a8-d8225a784791",
-      "time": "2026-05-09 01:10:25",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "TRUMP PLANNING TO FIRE FDA COMMISSIONER MARTY MAKARY - WSJ"
-    },
-    {
-      "id": "4869002",
-      "time": "2026-05-09 01:09:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "納斯達克100指數漲幅擴大至2.1%。"
-    },
-    {
-      "id": "4869001",
-      "time": "2026-05-09 01:05:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "【英國威爾士首席大臣宣佈辭任威爾士工黨領袖】英國威爾士地方政府首席大臣埃盧妮德·摩根8日說，她將辭去威爾士工黨領袖職務。當天公佈的威爾士議會選舉結果顯示，摩根失去議席。英國地方選舉初步結果8日揭曉，首相斯塔默領導的工黨遭遇失利。（新華社）"
-    },
-    {
-      "id": "mkt:019e088c-b353-7aa7-bba8-4e17db9003e8",
-      "time": "2026-05-09 01:04:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "PUTIN: FORTUNATELY, NO TRAGIC INCIDENTS OCCURRED AS A RESULT"
-    },
-    {
-      "id": "4869000",
-      "time": "2026-05-09 01:04:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京：此事可能會危及民用航空器的飛行安全。"
-    },
-    {
-      "id": "mkt:019e088b-c67d-7aa7-bba8-40a15f6b8f21",
-      "time": "2026-05-09 01:03:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "PUTIN: THIS COULD HAVE AN IMPACT ON THE SAFETY OF CIVIL AIRCRAFT"
-    },
-    {
-      "id": "4868999",
-      "time": "2026-05-09 01:03:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京： 烏克蘭襲擊了頓河畔羅斯托夫地區空中交通管制中心。"
-    },
-    {
-      "id": "mkt:019e088b-941d-7aa7-bba8-3bae1876efb3",
-      "time": "2026-05-09 01:03:37",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "PUTIN: UKRAINE ATTACKED ROSTOV-ON-DON REGIONAL AIR TRAFFIC CONTROL CENTER"
-    },
-    {
-      "id": "mkt:019e088b-75fd-7aa7-bba8-301967769fb0",
-      "time": "2026-05-09 01:03:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "FITCH: OPEC LIKELY TO PRODUCE UP TO MAXIMUM CAPACITY TO OFFSET VOLUMES LOST DUE TO HORMUZ CLOSURE"
-    },
-    {
-      "id": "4868998",
-      "time": "2026-05-09 01:02:40",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國至5月8日當週石油鑽井總數 410口，前值408口。"
-    },
-    {
-      "id": "mkt:019e088a-3572-7aa7-bba8-2e64145b5a27",
-      "time": "2026-05-09 01:02:10",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Weekly Total Natural Gas Rig Count (May.8) | actual 129 | previous 130"
-    },
-    {
-      "id": "4868997",
-      "time": "2026-05-09 01:02:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "惠譽：歐佩克或將開足最大產能進行生產，以彌補霍爾木茲海峽停運造成的原油供應缺口。"
-    },
-    {
-      "id": "mkt:019e088a-17b2-7aa7-bba8-220bbf9462fb",
-      "time": "2026-05-09 01:02:05",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Weekly Total Rig Count (May.8) | actual 548 | previous 547"
-    },
-    {
-      "id": "mkt:019e0889-9b9e-7aa7-bba8-1fd0fcafdfaa",
-      "time": "2026-05-09 01:01:35",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Weekly Total Oil Rig Count (May.8) | actual 410 | previous 408"
-    },
-    {
-      "id": "te:markets:549334",
-      "time": "2026-05-09 01:00:55",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Intesa Sanpaolo earnings above expectations at 0.159 EUR — Intesa Sanpaolo (ISP) released earnings per share at 0.159 EUR, compared to market expectations of 0.15 EUR."
-    },
-    {
-      "id": "4868996",
-      "time": "2026-05-09 01:00:44",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國5月8日當週總鑽井數 548，前值 547。"
-    },
-    {
-      "id": "4868995",
-      "time": "2026-05-09 01:00:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "訊息人士稱，弗裡波特液化天然氣（Freeport LNG）檢修工作或將持續至整個 5 月。"
-    },
-    {
-      "id": "mkt:019e0888-7445-7aa7-bba8-1282c64ff74e",
-      "time": "2026-05-09 01:00:20",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "FREEPORT LNG CANCELS THREE SCHEDULED CARGOES AMID MAINTENANCE, SOURCES SAY"
-    },
-    {
-      "id": "mkt:019e0888-6aba-7aa7-bba8-0a340c422d09",
-      "time": "2026-05-09 01:00:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "FREEPORT LNG MAINTENANCE COULD LAST THROUGH MAY, SOURCES SAY"
-    },
-    {
-      "id": "mkt:019e0888-5cd2-7aa7-bba8-02b592023265",
-      "time": "2026-05-09 01:00:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "FREEPORT LNG TO CURB OUTPUT ON UNPLANNED MAINTENANCE, SOURCES SAY"
-    },
-    {
-      "id": "4868994",
-      "time": "2026-05-09 01:00:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "惠譽關於原油及歐洲天然氣價格預期：預計非歐佩克原油供應量將每日增加約 300 萬桶。"
-    },
-    {
-      "id": "4868993",
-      "time": "2026-05-09 01:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【夜盤期貨收盤】國際銅夜盤收漲0.48%，滬銅收漲0.53%，滬鋁收跌0.16%，滬鋅收跌1.19%，滬鉛收跌0.15%，滬鎳收跌0.67%，滬錫收跌1.13%。氧化鋁夜盤收跌1.37%，鋁合金收跌0.24%。不鏽鋼夜盤收跌1.05%。"
-    },
-    {
-      "id": "mkt:019e0888-004a-7aa7-bba7-fad7dd9160ea",
-      "time": "2026-05-09 00:59:51",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "FITCH ON OIL AND EUROPEAN GAS PRICE ASSUMPTIONS: EXPECT NON-OPEC SUPPLY GROWTH OF ABOUT 3 MMBPD"
-    },
-    {
-      "id": "mkt:019e0887-3154-7aa7-bba7-f0bbfc660236",
-      "time": "2026-05-09 00:58:58",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "FITCH ON OIL AND EUROPEAN GAS PRICE ASSUMPTIONS: EXPECT MARKET OVERSUPPLY WILL REDUCE PRICES"
-    },
-    {
-      "id": "4868992",
-      "time": "2026-05-09 00:58:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "惠譽關於原油及歐洲天然氣價格預期：預計市場供應過剩將壓低價格。"
-    },
-    {
-      "id": "4868991",
-      "time": "2026-05-09 00:58:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗官員稱美軍襲擊伊民用船隻 已致1死10傷】當地時間8日，伊朗霍爾木茲甘省官員宣佈，7日晚美軍襲擊了該省米納卜市的一艘民用船隻，造成該船起火。事件已造成1人死亡、10人受傷，另有4人失蹤。（央視新聞）"
-    },
-    {
-      "id": "mkt:019e0886-6bd1-7aa7-bba7-ecff01773c9a",
-      "time": "2026-05-09 00:58:07",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "FITCH: AVERAGE ANNUAL OIL PRICES LIKELY TO BE LOWER IF STRAIT OF HORMUZ CLOSURE LASTS FOR LESS THAN FIVE MONTHS"
-    },
-    {
-      "id": "4868990",
-      "time": "2026-05-09 00:58:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "惠譽：若霍爾木茲海峽關閉持續時間不足五個月，全年原油均價或將走低。"
-    },
-    {
-      "id": "te:markets:549330",
-      "time": "2026-05-09 00:57:43",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Canadian Dollar Weakens on Underwhelming Labor Data — The Canadian dollar weakened to 1.37 per USD, extending the pullback from the seven-week high of 1.358 on April 30th following weak domestic labor data. Net employment in Canada unexpectedly fell by 17K jobs in April and the unemployment rate rose to a six-month high of 6.9%, strengthening bets that the BoC will prioritize economic growth and refrain from tightening policy further this year. At the same time, stronger-than-expected US labor data boosted expectations that the Federal Reserve could keep interest rates elevated for longer, backing the preference for the greenback instead of the loonie for North American investors. Meanwhile, investors continued to monitor developments in the Middle East after renewed US-Iran hostilities raised uncertainty over prospects for a deal that could restore oil supply from the region and ease energy inflation."
-    },
-    {
-      "id": "4868989",
-      "time": "2026-05-09 00:57:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "惠譽：預計若霍爾木茲海峽關閉，5-7 月布倫特原油將維持每桶 100-110 美元，到 9 月回落至每桶 70 美元。"
-    },
-    {
-      "id": "mkt:019e0885-94ff-7aa7-bba7-e60b197b64b4",
-      "time": "2026-05-09 00:57:12",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish"
-      ],
-      "text": "FITCH: EXPECT BRENT TO STAY AT USD100-110/BARREL IN MAY-JULY DURING HORMUZ CLOSURE, BEFORE FALLING TO USD70/BARREL BY SEPTEMBER"
-    },
-    {
-      "id": "4868988",
-      "time": "2026-05-09 00:57:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "惠譽評級上調其近期油價與歐洲天然氣價格假設。"
-    },
-    {
-      "id": "mkt:019e0884-d7dc-7aa7-bba7-d96255f3eec0",
-      "time": "2026-05-09 00:56:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "FITCH RATINGS RAISES ITS NEAR-TERM OIL AND EUROPEAN GAS PRICE ASSUMPTIONS"
-    },
-    {
-      "id": "4868987",
-      "time": "2026-05-09 00:55:43",
-      "tags": [
-        "市場"
-      ],
-      "text": "戴爾股價上漲9.1%。"
-    },
-    {
-      "id": "mkt:019e0883-a750-7aa7-bba7-d28bbb8ceff4",
-      "time": "2026-05-09 00:55:06",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "INTC.O",
-        "Impact bullish"
-      ],
-      "text": "INTEL SHARES EXTEND CLIMB TO AS MUCH AS 12%"
-    },
-    {
-      "id": "4868986",
-      "time": "2026-05-09 00:54:25",
-      "tags": [
-        "公司",
-        "焦點",
-        "國際"
-      ],
-      "text": "英特爾股價漲幅擴大至14%。"
-    },
-    {
-      "id": "mkt:019e0882-efec-7aa7-bba7-c94db939704e",
-      "time": "2026-05-09 00:54:19",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "TRUMP: GO BUY A DELL"
-    },
-    {
-      "id": "4868985",
-      "time": "2026-05-09 00:53:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：去買臺戴爾電腦吧。"
-    },
-    {
-      "id": "mkt:019e0880-3538-7aa7-bba7-c49a577646de",
-      "time": "2026-05-09 00:51:20",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Apple",
-        "NVIDIA",
-        "Market Themes",
-        "Chip Wars",
-        "Magnificent 7",
-        "INTC.O",
-        "Impact bullish",
-        "AAPL.O"
-      ],
-      "text": "【Apple, Intel Reach Preliminary Deal on Chip Manufacturing for Apple Devices】Apple and Intel have reached a preliminary agreement for Intel to manufacture some chips for Apple devices, following more than a year of talks, according to people familiar with the matter. The Trump administration helped facilitate the deal after converting nearly $9 billion in federal grants into a 10% stake in Intel. Commerce Secretary Howard Lutnick reportedly met with Apple CEO Tim Cook, Elon Musk and Nvidia CEO Jensen Huang to encourage partnerships with Intel. Apple currently relies on TSMC for chip production and has cited advanced chip shortages as a constraint on supply."
-    },
-    {
-      "id": "4868984",
-      "time": "2026-05-09 00:51:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "英特爾股價短線直線拉昇，盤中大漲10%，市值突破6000億美元。"
-    },
-    {
-      "id": "mkt:019e087e-eedf-7aa7-bba7-b8cd65b82edd",
-      "time": "2026-05-09 00:49:56",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Chip Wars",
-        "Magnificent 7",
-        "INTC.O",
-        "Impact bullish",
-        "AAPL.O",
-        "Impact mixed"
-      ],
-      "text": "APPLE, INTEL HAVE REACHED AGREEMENT FOR INTEL TO MAKE CHIPS IN APPLE DEVICES, SOURCES SAY -- WSJ"
-    },
-    {
-      "id": "4868983",
-      "time": "2026-05-09 00:49:26",
-      "tags": [
-        "公司",
-        "其他",
-        "焦點",
-        "國際"
-      ],
-      "text": "市場訊息：蘋果與英特爾達成初步晶片製造協議。"
-    },
-    {
-      "id": "4868982",
-      "time": "2026-05-09 00:47:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：從海上流入美國的毒品數量已下降 97%。"
-    },
-    {
-      "id": "4868981",
-      "time": "2026-05-09 00:47:27",
-      "tags": [
-        "市場"
-      ],
-      "text": "LME期銅漲1.3%，報13571美元/噸，一度漲至13619美元，逼近1月29日所創盤中歷史最高位14527.50美元，本週累計上漲4.4%，有望創2025年10月3日以來最大單週漲幅。\nLME期鋁漲0.4%，報3507.50美元。LME期鎳跌1.2%，報18905美元。\nLME期鉛跌0.3%，報1975美元。\nLME期鋅跌0.7%，報3433美元。\nLME期錫跌1.6%，報53755美元。"
-    },
-    {
-      "id": "4868980",
-      "time": "2026-05-09 00:46:58",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "特朗普：我們面臨一個難題，因為販毒集團掌控著墨西哥。"
-    },
-    {
-      "id": "4868979",
-      "time": "2026-05-09 00:45:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我們已將移民入境人數降至零。"
-    },
-    {
-      "id": "4868978",
-      "time": "2026-05-09 00:45:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美副總統會見卡達首相 討論與伊朗談判事宜】當地時間5月8日，美國官員稱，美國副總統萬斯當日與卡達首相兼外交大臣穆罕默德舉行會談，討論與伊朗談判事宜。據悉，卡達目前是美國與伊朗就結束戰事協議進行談判的重要幕後溝通渠道。訊息人士透露，會談涵蓋美卡關係及伊朗局勢，重點討論液化天然氣市場與地區穩定問題。霍爾木茲海峽局勢持續緊張背景下，全球能源供應安全成為雙方關注重點。（央視新聞）"
-    },
-    {
-      "id": "4868977",
-      "time": "2026-05-09 00:43:38",
-      "tags": [
-        "市場"
-      ],
-      "text": "【德國兩年期國債收益率本週跌約5個基點】週五（5月8日）歐市尾盤，德國10年期國債收益率漲0.2個基點，報3.005%，本週累計下跌3.1個基點，5月4-5日高位震盪——最高達到3.094%，5月6日顯著走低，隨後持續低位震盪，5月7日跌至2.957%。兩年期德債收益率漲1.5個基點，報2.600%，本週累跌4.8個基點，整體交投於2.736%-2.507%區間；30年期德債收益率漲0.3個基點，報3.542%，本週累跌0.3個基點。2/10年期德債收益率利差跌1.175個基點，報+40.291個基點，本週累漲1.405個基點。"
-    },
-    {
-      "id": "4868976",
-      "time": "2026-05-09 00:42:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗媒體：美伊波斯灣交火目前已停 地區類似衝突可能重燃】伊朗塔斯尼姆通訊社8日援引軍方訊息人士的話報道，在美國針對伊朗油輪採取武力行動後，伊朗武裝力量已火力回擊美方違反停火協議的“恐怖主義行為”。該訊息人士稱，經過一段時間交火，目前衝突已經停止，局勢恢復平靜。他同時警告，若美方再次試圖進入波斯灣或對伊朗船隻進行騷擾，將再度遭到堅決回應，該地區類似衝突重新爆發的可能性依然存在。 (新華社)"
-    },
-    {
-      "id": "te:markets:549329",
-      "time": "2026-05-09 00:40:55",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "CAC 40 Falls as US-Iran Tensions Weigh — The CAC 40 fell 1.1% to close at 8,113 on Friday, extending the previous session’s losses as renewed tensions between the US and Iran rattled investor sentiment. Three US Navy destroyers reportedly intercepted Iranian attacks in the Strait of Hormuz and carried out retaliatory strikes, raising fears of a broader regional conflict and pushing oil prices higher. European markets remained vulnerable to developments in the Middle East due to the region’s reliance on imported energy and concerns that higher oil prices could fuel inflation and weigh on economic growth. US President Trump warned that the EU could face significantly higher tariffs if trade agreements are not reached. Most sectors traded lower, with financial stocks BNP Paribas (-1.8%) and AXA (-1.3%) among the main decliners. Luxury names LVMH (-1.2%) and Hermès (-2.4%) also fell amid weaker risk appetite, while industrials Airbus (-1.9%) and Safran (-2.9%) declined. In contrast, TotalEnergies gained 0.7%."
-    },
-    {
-      "id": "mkt:019e0874-aadb-7aa7-bba7-b610703c55ae",
-      "time": "2026-05-09 00:38:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "AWS: ISSUE AFFECTING REDSHIFT HAS BEEN RESOLVED AND SERVICE IS OPERATING NORMALLY"
-    },
-    {
-      "id": "mkt:019e0874-7568-7aa7-bba7-ac6e87655e02",
-      "time": "2026-05-09 00:38:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "*TRUMP BEGINS ANNOUNCEMENT AT ROSE GARDEN"
-    },
-    {
-      "id": "4868975",
-      "time": "2026-05-09 00:35:25",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【哈塞特回應“新債王”岡拉克債務重組提議：百萬年內都不可能發生】白宮國家經濟委員會主任哈塞特暗示，投資者岡拉克設想的某種形式的美國國債重組將等同於違約，並拒絕了任何此類舉動。“即使過上一百萬年，本屆政府也絕不可能做出任何看起來像是債務違約的事情，”哈塞特針對岡拉克的言論回應道。雙線資本（DoubleLine Capital）的岡拉克週四表示，雖然可能性較低，但美國可能會在未來的某個時間點選擇置換債權人的高息國債，並將其替換為整個收益率曲線中利息支出較低的債券。他還表示，為了防範此類舉動，他已經調整了自己的投資組合。"
-    },
-    {
-      "id": "4868974",
-      "time": "2026-05-09 00:34:25",
-      "tags": [
-        "央行",
-        "市場"
-      ],
-      "text": "冰島央行：已決定恢復在銀行間市場開展常規外匯購入操作。"
-    },
-    {
-      "id": "4868973",
-      "time": "2026-05-09 00:34:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "阿根廷安全部長：在美國緝毒局協助下，阿根廷截獲一架載有400公斤可卡因的飛機。"
-    },
-    {
-      "id": "mkt:019e0870-0f65-7aa7-bba7-a54634f66ae6",
-      "time": "2026-05-09 00:33:42",
-      "tags": [
-        "MKT News",
-        "AMZN.O",
-        "Impact bullish"
-      ],
-      "text": "AWS: WE HAVE OBSERVED COMPLETE RECOVERY OF INCREASED ERROR RATES AND QUERY FAILURES FOR REDSHIFT CLUSTERS IN US-EAST-1 REGION"
     }
   ]
 }
