@@ -1,7 +1,35 @@
 {
-  "updated": "2026-05-15 12:23:15",
-  "count": 15269,
+  "updated": "2026-05-15 12:26:36",
+  "count": 15270,
   "items": [
+    {
+      "id": "4881199",
+      "time": "2026-05-15 12:26:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【酉術量子推出UnitaryLab 2.0量子科學計算平臺】5月15日，上海酉術量子科技有限公司推出全球首個Agent驅動的全鏈路量子科學計算平臺UnitaryLab2.0。使用者無需編寫程式碼、配置環境或理解底層量子線路，僅透過自然語言即可完成需求理解、演算法呼叫、資源排程、計算執行與結果視覺化等全流程任務，從而大幅降低量子算力使用門檻。"
+    },
+    {
+      "id": "4881198",
+      "time": "2026-05-15 12:25:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【麥肯錫薪酬架構改革，削減合夥人現金薪酬比例】據英國《金融時報》援引知情人士訊息報道，麥肯錫計劃下調合夥人利潤分紅的現金佔比，並告知合夥人，薪酬中將有更大比例以股權形式發放。此次薪酬改革代號為橡果計劃（Project Acorn），或將把合夥人額外獎金轉入股權的比例上調 3 至 5 個百分點。本次架構調整還將提升公司薪酬調節靈活性，便於未來投入資金佈局科技領域。麥肯錫回應稱：“作為私營企業，我們不對外披露合夥人薪酬細節，但我們會持續最佳化機制，吸引、培養、激勵並留住全球頂尖人才。”"
+    },
+    {
+      "id": "te:economy:550974",
+      "time": "2026-05-15 12:23:14",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Malaysia",
+        "GDP Annual Growth Rate",
+        "Importance 1"
+      ],
+      "text": "Malaysia Q1 GDP Growth Revised Slightly Higher — Malaysia’s economy expanded 5.4% year-on-year in Q1 2026, slightly above preliminary estimates of 5.3%, but easing from 6.2% in the previous quarter. The slowdown was driven by weaker performance in mining and quarrying (-2.1% vs 1.4%), alongside softer growth in agriculture (2.6% vs 5.7%), manufacturing (5.9% vs 6.0%), and construction (7.7% vs 10.9%). Services growth also moderated to 5.6% from 6.2%, though it remained the main driver of overall expansion. On the expenditure side, growth slowed across key components, with private consumption rising 4.7% (vs 5.6%), government spending 4.1% (vs 6.6%), and fixed investment 7.3% (vs 9.3%). Net trade contributed positively to GDP, as exports grew 5.2% while imports rose at a softer pace of 4.6%. On a quarterly basis, the economy was broadly flat, marking the weakest performance since Q4 2022, following an upwardly revised 1.4% expansion in Q4."
+    },
     {
       "id": "4881197",
       "time": "2026-05-15 12:22:19",
@@ -137853,22 +137881,6 @@
         "其他"
       ],
       "text": "【大華繼顯：AI雲業務為中國網際網路首要細分市場 首選阿里巴巴-W】大華繼顯釋出研報稱，在中國大型語言模型(LLM)競爭加劇、代理型AI與AI超級應用崛起的背景下，“詞符”(Token)使用需求持續強勁增長，企業AI採用推動雲端定價能力提升，AI代理使用增加，以及消費者AI助手的擴充套件，該行依然將AI雲端視為中國網際網路板塊的首選細分市場，並將阿里巴巴-W(09988)作為核心推薦。"
-    },
-    {
-      "id": "4867633",
-      "time": "2026-05-08 12:26:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本參議院全體會議審議設立“國家情報局”相關法案】5月8日，日本高市早苗內閣推動的設立“國家情報局”的相關法案在日本參議院全體會議進入審議階段。日本首相高市早苗出席會議。此前，4月23日，相關法案在日本眾議院全體會議上經表決透過。根據該法案，日本擬構建以“國家情報會議”為核心、“國家情報局”為執行機構的情報體系，負責統籌安全保障、反恐等領域的情報活動以及涉外國間諜的“對外情報活動”。“國家情報局”還被賦予要求政府各省廳向其提供情報的綜合協調權。"
-    },
-    {
-      "id": "4867632",
-      "time": "2026-05-08 12:23:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗公佈向美驅逐艦發射導彈影片】伊朗伊斯蘭革命衛隊今天（5月8日）釋出影片，據稱為伊朗向試圖透過霍爾木茲海峽的美軍驅逐艦發射導彈。當地時間5月7日晚至今天凌晨，伊朗南部波斯灣沿岸多地傳出爆炸聲。伊朗武裝部隊哈塔姆·安比亞中央司令部發言人表示，由於美國違反停火協議，襲擊伊朗油輪和另一艘進入霍爾木茲海峽的船隻，伊朗武裝力量打擊了霍爾木茲海峽以東的美國軍艦。美軍中央司令部證實美驅逐艦遭襲，並稱進行了回擊，但美方無意尋求局勢升級。 （CCTV國際時訊）"
     }
   ]
 }
