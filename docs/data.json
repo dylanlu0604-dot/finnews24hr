@@ -1,7 +1,49 @@
 {
-  "updated": "2026-05-15 12:09:44",
-  "count": 15275,
+  "updated": "2026-05-15 12:13:07",
+  "count": 15272,
   "items": [
+    {
+      "id": "te:economy:550966",
+      "time": "2026-05-15 12:11:07",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Malaysia",
+        "Foreign Direct Investment",
+        "Importance 1"
+      ],
+      "text": "Malaysia Q1 FDI Retreats from Recod High — Malaysia’s foreign direct investment (FDI) inflows eased to MYR 22.81 billion in Q1 2026 from a record MYR 26.64 billion in Q4, though inflows remained relatively solid amid ongoing external uncertainty. The decline mainly reflected softer capital inflows through debt instruments, particularly loans received from abroad, although this component continued to account for the largest share of total FDI. Equity and investment fund shares also contributed to inflows. By sector, the services industry attracted the bulk of foreign investments, led by the information and communication subsector, as demand for digital infrastructure and technology-related activities stayed firm. Mining and quarrying, alongside construction, were the next largest recipients of foreign capital. In terms of source economies, Singapore remained the leading investor, followed by China and Hong Kong, highlighting continued regional interest in Malaysia’s growth prospects and strategic position in Southeast Asia."
+    },
+    {
+      "id": "4881190",
+      "time": "2026-05-15 12:10:43",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【大和證券：日本補充預算規模或在4萬億日元左右】大和證券經濟學家Koji Hamada表示，日本政府可能會推出約4萬億日元的補充預算，類似於過去在油價升至每桶100美元上方時實施的支出計劃。“如果有關補充預算的討論變得更加具體，政府債券市場對財政惡化的擔憂極有可能會過度升溫，“他說。他說，整個預算極有可能由赤字國債來提供資金。不過他補充說，政府應設法限制任何負面的市場影響——例如利用短期國債，而不是增加較長期日本國債的供應。"
+    },
+    {
+      "id": "te:markets:550964",
+      "time": "2026-05-15 12:10:30",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "stocks",
+        "Importance 0"
+      ],
+      "text": "Bharti Airtel Stock Price Hits 10-week High — Bharti Airtel shares increased to 1907.00 INR, the highest since March 2026. Over the past 4 weeks, Bharti Airtel gained 3.38%, and in the last 12 months, it increased 4.9%."
+    },
+    {
+      "id": "4881189",
+      "time": "2026-05-15 12:09:36",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【調查：日本央行將在6月將關鍵利率上調至1%】路透調查顯示，近三分之二的經濟學家認為，日本央行將於6月將基準利率上調至1.0%。受伊朗局勢推升通脹擔憂影響，日本央行正持續推進貨幣政策正常化程序。日本央行上月將政策利率維持在0.75%不變，以評估地緣衝突帶來的後續影響。但央行9名政策委員會成員中有3人持異議，主張加息至1.0%，凸顯市場對地緣衝突引發能源衝擊、進而加劇通脹壓力的擔憂日漸升溫。在5月7日至14日開展的調查中，62名經濟學家裡有40人（佔比65%）預計政策利率將於6月底前升至1.0%，與4月調查結果基本一致。62位受訪者中除一人外，均預計9月底前會迎來加息。調查預期中值顯示，日本央行將於今年第四季度加息至1.25%，明年第三季度進一步升至1.50%，與上月調查預估持平。"
+    },
     {
       "id": "4881188",
       "time": "2026-05-15 12:08:08",
@@ -137859,70 +137901,6 @@
         "其他"
       ],
       "text": "媒體援引知情人士透露，萬科告訴2027年到期美元債券的部分持有人，已經開始匯款以支付這支債券利息的程式。萬科告知債券持有人資金已到位，但並未透露資金來源。"
-    },
-    {
-      "id": "4867623",
-      "time": "2026-05-08 12:12:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【百聯股份成立奧特萊斯商業管理公司】企查查APP顯示，近日，上海百聯奧特萊斯商業管理有限公司成立，法定代表人為曹海倫，註冊資本為2000萬元，經營範圍包含：商業綜合體管理服務；工程管理服務；停車場服務；諮詢策劃服務；企業管理諮詢；市場營銷策劃等。企查查股權穿透顯示，該公司由百聯股份全資持股。"
-    },
-    {
-      "id": "4867622",
-      "time": "2026-05-08 12:12:21",
-      "tags": [
-        "宏觀",
-        "公司",
-        "國際"
-      ],
-      "text": "【古巴政府：美國新一輪制裁措施是“經濟侵略”】古巴外交部7日釋出公告說，美國對古巴新一輪制裁措施是“經濟侵略”行為，企圖製造所謂“人道主義危機”，以此為藉口採取更危險的行動，包括對古巴發動軍事侵略。 公告表示，美方7日公佈的新一輪制裁措施旨在進一步擴大美國封鎖政策的域外效力，並可能對外國企業、銀行及其他實體實施“次級制裁”，進一步阻礙古巴經濟執行。 公告說，美國一向以“世界憲兵”自居，公然違反國際法和自由貿易原則，企圖透過脅迫和恐嚇迫使國際社會服從並執行對古封鎖。美國正試圖將古巴進一步孤立於國際經濟和金融體系之外。古巴將繼續在所有國際場合譴責美國封鎖政策，呼籲國際社會共同抵制這一打壓行動。 美國財政部和國務院7日在官網上公佈針對古巴的新一輪制裁措施。美國財政部外國資產控制辦公室釋出公告，把來自古巴的多名個人和實體列入“特別指定國民清單”。美國務院也釋出公告，將古巴企業管理集團公司、莫阿鎳廠以及相關企業高管列入制裁名單。(新華社)"
-    },
-    {
-      "id": "mkt:019e05c9-4d66-7113-a18f-a49a6573c097",
-      "time": "2026-05-08 12:12:19",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact mixed",
-        "Copper"
-      ],
-      "text": "US AND SOUTH AFRICA HOLD TALKS ON MINING DEALS AFTER YEAR OF TENSIONS - FT"
-    },
-    {
-      "id": "4867621",
-      "time": "2026-05-08 12:11:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：緊張局勢持續一年後，美國與南非就礦業交易展開會談。"
-    },
-    {
-      "id": "4867620",
-      "time": "2026-05-08 12:11:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "【香港傳染病學專家曾祈殷：香港漢坦病毒風險不是特別高，但不能掉以輕心】據香港電臺網站5月8日訊息，世界衛生組織表示，荷蘭郵輪洪迪厄斯號至今報告8宗涉及漢坦病毒的個案，當中3人死亡，涉及的是漢坦病毒家族成員、可以人傳人的安第斯病毒。香港衛生防護中心表示，郵輪上沒有香港居民。感染及傳染病科專科醫生曾祈殷表示，漢坦病毒的天然宿主包括老鼠或田鼠等囓齒動物。涉事郵輪途經的地方，包括南美的島嶼，都是鼠患較嚴重的地方，估計染病人士可能在上船前已經受感染。而安第斯病毒暫時所知屬於有限度人傳人，要透過密切接觸，例如夫婦或者密閉空間等。他認為香港現在的風險不是特別高，但不能掉以輕心，最重要是加緊做好滅鼠及防鼠工作。"
-    },
-    {
-      "id": "te:markets:549027",
-      "time": "2026-05-08 12:11:33",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Palm Oil Set for Back-to-Back Weekly Losses — Malaysian palm oil futures traded below MYR 4,550 per tonne, extending recent losses as weakness in Dalian edible oils weighed on sentiment. The market is heading for a second straight weekly decline, down about 0.8% so far, reflecting demand concerns. April imports by top consumer India plunged 27% month-over-month to a one-year low, adding to bearish sentiment. Meanwhile, cargo surveyors estimated Malaysia’s exports during April 1–25 fell 15.7%–16.8% from March, linked to softer post-festive buying. Still, losses were partly cushioned by a weaker ringgit and firmer Chicago soyoil. Crude oil prices also climbed on renewed U.S.–Iran tensions, boosting expectations for stronger biofuel demand. Domestically, Malaysia will implement its B15 biodiesel mandate from June 1, raising the blend from the current B10 to curb fuel imports and support palm oil consumption. Market participants now await monthly data from the Malaysian Palm Oil Board due Monday for clearer supply-demand signals."
-    },
-    {
-      "id": "4867619",
-      "time": "2026-05-08 12:11:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【湖南瀏陽煙花廠爆炸事故已致37人死亡】5月4日下午，瀏陽市華盛煙花製造燃放有限公司發生爆炸。截至5月8日，事故已致37人死亡。"
     }
   ]
 }
