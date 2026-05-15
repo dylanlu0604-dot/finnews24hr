@@ -1,7 +1,56 @@
 {
-  "updated": "2026-05-15 14:10:00",
-  "count": 15340,
+  "updated": "2026-05-15 14:13:27",
+  "count": 15331,
   "items": [
+    {
+      "id": "4881383",
+      "time": "2026-05-15 14:13:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數收盤下跌0.1%，報8630.80點。"
+    },
+    {
+      "id": "4881382",
+      "time": "2026-05-15 14:12:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "德國10年期國債收益率<DE10YT=RR>上漲近6個基點，至3.104%。"
+    },
+    {
+      "id": "4881381",
+      "time": "2026-05-15 14:11:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國內高校團隊攻克火箭垂直起降關鍵技術 實現低空飛行】由中山大學航空航天學院吳志剛教授團隊研製的“逸仙-3號”面對稱可重複使用火箭，5月14日在廣東省陽江市成功完成了低空飛行試驗。火箭在發射至預定高度後，完成懸停、機動調整，平穩垂直降落至目標區域，試驗取得成功。這是國內首枚高校主導研製的面對稱可回收液體火箭。“逸仙-3號”火箭起飛質量約1噸，高度4.5米，直徑0.6米。火箭外形呈面對稱，相比傳統的軸對稱火箭，這種設計能在大氣層內提供更好的升力和姿態穩定性，尤其適合垂直起降回收。 (央視新聞)"
+    },
+    {
+      "id": "4881380",
+      "time": "2026-05-15 14:10:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌7%，現報77.64美元/盎司。"
+    },
+    {
+      "id": "4881379",
+      "time": "2026-05-15 14:10:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀失守78美元/盎司，日內跌8.60%。"
+    },
+    {
+      "id": "4881378",
+      "time": "2026-05-15 14:10:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "法國 2 年期國債收益率上行 7.1 個基點，報 2.909%。"
+    },
     {
       "id": "4881377",
       "time": "2026-05-15 14:09:40",
@@ -138350,153 +138399,6 @@
         "宏觀"
       ],
       "text": "【新加坡對部分房屋轉賣收緊政策規則 以減少短期投機行為】新加坡將出臺新的限制措施以抑制部分房屋轉賣，政府希望以此減少短期投機行為，提高住房的可負擔性。國家發展部長徐芳達週五在講話中表示，政府將針對執行共管公寓(EC)推出新措施，此類公寓的最低居住年限將延長一倍至10年，這是為進一步幫助首次購屋者買房的舉措之一。執行共管公寓早在三十年前在新加坡推出，是當地的一種準公共住房。多數本地居民居住在政府建造的有補貼的公寓。執行共管公寓由私人開發商建設，配備游泳池等設施，但新單位價格低於大多數私人公寓，而且購房者可申請政府補貼。新限制措施旨在為房價漲勢降溫，並減少執行共管公寓與私人公寓之間逐漸顯現的套利空間。一些房主在其執行共管公寓獲得轉售資格後不久，便在二級市場以可觀利潤出售。"
-    },
-    {
-      "id": "4867757",
-      "time": "2026-05-08 14:13:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯國防部：俄羅斯部隊對等回應了烏克蘭的襲擊。"
-    },
-    {
-      "id": "4867756",
-      "time": "2026-05-08 14:13:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普見盧拉時說不考慮入侵古巴】當地時間5月7日，巴西總統盧拉在白宮與美國總統特朗普會晤後對媒體表示，特朗普告訴他“不考慮入侵古巴”，他認為這是“一個很好的訊號”。盧拉指出，自1959年革命勝利以來，古巴因美國的封鎖“從未成為一個完全自由的國家”，而古巴願意對話，希望找到結束封鎖的辦法。（CCTV國際時訊）"
-    },
-    {
-      "id": "te:markets:549066",
-      "time": "2026-05-08 14:12:35",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Sony earnings below expectations at 14.24 JPY — Sony (6758) released earnings per share at 14.24 JPY, compared to market expectations of 34.44 JPY."
-    },
-    {
-      "id": "te:economy:549065",
-      "time": "2026-05-08 14:12:33",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Germany",
-        "Imports",
-        "Importance 1"
-      ],
-      "text": "German Imports Jump 5.1% MoM — Germany’s imports surged 5.1% month-on-month to €121.5 billion in March 2026, the highest amount since November 2022, accelerating from an upwardly revised 4.9% increase in the prior month and far exceeding market expectations of a 0.8% gain. Purchases from EU partners grew 3.0%, supported by stronger purchases from both euro area countries (1.7%) and non-euro-area members (5.7%). Meanwhile, imports from non-EU countries jumped 7.4%, driven by higher shipments from China (4.9%) and the United Kingdom (11.7%). In contrast, imports from the United States declined 3.7%. For the first quarter, Germany’s imports increased 1.9% year-on-year to €347.3 billion. Compared with March last year, total imports surged 11.1%, picking up from a 0.7% rise in February."
-    },
-    {
-      "id": "4867755",
-      "time": "2026-05-08 14:12:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯國防部：烏克蘭持續發動攻擊。"
-    },
-    {
-      "id": "4867754",
-      "time": "2026-05-08 14:12:21",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "棉花連續主力合約日內跌2%，現報16410.00元。"
-    },
-    {
-      "id": "mkt:019e0637-0e69-7113-a190-be3dfff1ac43",
-      "time": "2026-05-08 14:12:11",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "RUSSIAN DEFENCE MINISTRY: UKRAINE VIOLATES CEASEFIRE - IFX"
-    },
-    {
-      "id": "mkt:019e0636-fe81-7113-a190-b51e78b1d673",
-      "time": "2026-05-08 14:12:07",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "XAUUSD",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "RUSSIAN DEFENCE MINISTRY: FROM MIDNIGHT RUSSIAN TROOPS STOPPED FIGHTING - RIA"
-    },
-    {
-      "id": "4867753",
-      "time": "2026-05-08 14:12:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯國防部：俄軍自午夜起停火。"
-    },
-    {
-      "id": "4867752",
-      "time": "2026-05-08 14:11:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯國防部：烏克蘭違反停火協議。"
-    },
-    {
-      "id": "4867751",
-      "time": "2026-05-08 14:11:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "海灣海洋服務公司：海灣戰爭導致專案開發停滯，該國業務暫停，一季度平均利用率降至74%。"
-    },
-    {
-      "id": "4867750",
-      "time": "2026-05-08 14:11:30",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根士丹利將馬士基目標股價從8700丹麥克朗上調至8900丹麥克朗。"
-    },
-    {
-      "id": "4867749",
-      "time": "2026-05-08 14:11:22",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "萊茵金屬法蘭克福早盤交易中股價下跌2.7%，此前摩根大通將其評級從增持下調至中性。"
-    },
-    {
-      "id": "te:markets:549062",
-      "time": "2026-05-08 14:11:22",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "European Stocks Poised for Lower Open — European equity markets were set for a weaker open on Friday, extending the previous session’s losses as renewed clashes between the US and Iran in the Strait of Hormuz reignited geopolitical concerns. Three US Navy destroyers transiting the strategic waterway reportedly intercepted Iranian attacks and carried out retaliatory strikes, although President Donald Trump said the ceasefire remains in effect. In Europe, investors will monitor German trade data and UK house price figures for further economic signals. On the corporate front, earnings reports are due from Intesa Sanpaolo, Enel, and International Airlines Group, among others. In premarket trading, futures tied to the Euro Stoxx 50 and Stoxx 600 were both down around 0.6%."
-    },
-    {
-      "id": "te:economy:549060",
-      "time": "2026-05-08 14:10:28",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Germany",
-        "Exports",
-        "Importance 2"
-      ],
-      "text": "German Exports Unexpectedly Rise in March — Germany’s exports unexpectedly increased by 0.5% month-on-month to a near 3½-year high of €135.8 billion in March 2026, slowing sharply from a 3.6% rise in February and beating market expectations of a 1.7% decline. Shipments to EU member states grew 3.4%, with exports to the Eurozone rising 4.1% and those to non-Eurozone countries climbing 1.7%. By contrast, exports to third countries fell 3.3%, weighed down by a 7.9% drop in shipments to the US, Germany’s largest export market, and a 1.8% decline in exports to China. Meanwhile, exports to the UK rose 3.2%. For the first quarter of 2026, outbound shipments rose 1.7% year-on-year to €401.4 billion."
     }
   ]
 }
