@@ -1,7 +1,144 @@
 {
-  "updated": "2026-05-16 00:02:12",
-  "count": 15532,
+  "updated": "2026-05-16 00:05:37",
+  "count": 15539,
   "items": [
+    {
+      "id": "4882669",
+      "time": "2026-05-16 00:05:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "MAXLINEAR股價迅速飆升7%。"
+    },
+    {
+      "id": "4882668",
+      "time": "2026-05-16 00:04:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國運通：美國小型商務卡會員貸款淨核銷率，僅統計本金部分，截至4月底為2.4%。"
+    },
+    {
+      "id": "4882667",
+      "time": "2026-05-16 00:03:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：英國全國工會官員投票准許伯納姆參選。"
+    },
+    {
+      "id": "4882666",
+      "time": "2026-05-16 00:03:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：法院裁定歐洲清算銀行向俄羅斯銀行賠付 2000 億歐元。"
+    },
+    {
+      "id": "te:markets:551253",
+      "time": "2026-05-16 00:03:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "European Stocks Close Week Lower — European stocks closed sharply lower on Friday as elevated energy prices and risks of rate hikes by major central banks returned to the market's forefront. The Eurozone's STOXX 50 dropped 1.8% to 5,825, a 1.5% decline on the week, and the pan-European STOXX 600 dropped 1.6% to 606, a 1% drop since last Friday. Sovereign yields in the Eurozone surged as the summit between US and Chinese officials ended without concrete steps on resolving the US conflict with Iran, lifting oil prices and gas and consolidating pro-inflationary risks. Power-intensive industrial companies led the losses, with Siemens, Safran, Airbus, and Schneider dropping between 5.5% and 2.6%. Meanwhile, ASML and Infineon tanked 4.5% as AI stocks across the globe trimmed their rallies this week."
+    },
+    {
+      "id": "4882665",
+      "time": "2026-05-16 00:03:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國運通：截至4月末，其美國小企業卡會員貸款中逾期30天貸款佔貸款總額的比例為1.5%。"
+    },
+    {
+      "id": "4882664",
+      "time": "2026-05-16 00:02:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列軍隊：我們在過去幾小時內對南部地區的真主黨目標進行了打擊。"
+    },
+    {
+      "id": "mkt:019e2c60-770a-7663-82fa-66e5569e1726",
+      "time": "2026-05-16 00:02:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "RUSSIA'S ECONOMY CONTRACTED FOR FIRST TIME IN THREE YEARS IN 1Q"
+    },
+    {
+      "id": "4882663",
+      "time": "2026-05-16 00:02:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國運通：截至四月末，美國運通卡會員貸款中逾期30天貸款佔貸款總額的比例為1.2%。"
+    },
+    {
+      "id": "4882662",
+      "time": "2026-05-16 00:02:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國家統計局：俄羅斯第一季度國內生產總值同比下降0.2%，前一季度為同比增長1%。"
+    },
+    {
+      "id": "4882661",
+      "time": "2026-05-16 00:01:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度調整棕櫚油及豆油關稅稅率。"
+    },
+    {
+      "id": "mkt:019e2c5f-757b-7663-82fa-5e5428638570",
+      "time": "2026-05-16 00:01:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "INDIA AMENDS TARIFFS VALUES ON PALM OIL AND SOYBEAN OIL"
+    },
+    {
+      "id": "4882660",
+      "time": "2026-05-16 00:01:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯一季度經濟三年來首次出現萎縮。"
+    },
+    {
+      "id": "4882659",
+      "time": "2026-05-16 00:01:36",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "俄羅斯4月消費者價格同比上漲5.58%；預計上漲5.70%。"
+    },
+    {
+      "id": "mkt:019e2c5f-1ef6-7663-82fa-5283eb1dd4de",
+      "time": "2026-05-16 00:01:30",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "RUSSIAN COURT ORDERS EUROCLEAR TO PAY EUR2O0B: IFX"
+    },
     {
       "id": "4882658",
       "time": "2026-05-16 00:00:35",
@@ -139992,80 +140129,6 @@
         "Importance 1"
       ],
       "text": "The FTSE 100 Index Closes 0.48% Lower — The FTSE 100 Index dropped 49 points or 0.48 percent on Friday to close at 10228 points. Losses were led by Babcock International (-4.32%), Rolls-Royce (-3.29%) and Easyjet Plc (-3.13%). Offsetting the fall, top gainers were BT (5.64%), JD Sports Fashion (4.36%) and Whitbread (2.80%)."
-    },
-    {
-      "id": "mkt:019e0855-c994-7aa7-bba7-5e05f688dacb",
-      "time": "2026-05-09 00:05:00",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "【Qatari PM Says Chances of US-Iran Deal Are ‘High’ Ahead of Vance Meeting】Qatari Prime Minister Sheikh Mohammed bin Abdulrahman bin Jassim Al-Thani arrived in Washington for talks with Vice President JD Vance as diplomacy over the Iran war intensified. Al-Thani told al-Araby al-Jadeed there is a “high probability” the US and Iran will reach a deal. Secretary of State Marco Rubio said the US expected Iran’s response to a draft agreement “today at some point.” Iran’s Foreign Minister Abbas Aragchi said “every time a diplomatic solution is on the table, the U.S. opts for a reckless military adventure.”"
-    },
-    {
-      "id": "mkt:019e0855-6337-7aa7-bba7-52091af1238c",
-      "time": "2026-05-09 00:04:34",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "BEFORE MEETING WITH VANCE, QATARI PRIME MINISTER SAYS THERE'S A \"HIGH PROBABILITY\" U.S., IRAN WILL REACH DEAL – CBS"
-    },
-    {
-      "id": "4868960",
-      "time": "2026-05-09 00:04:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "【長江防總：要堅持旱澇同防同治】當前長江流域已全面進入汛期。記者8日從長江防汛抗旱總指揮部瞭解到，今年汛期長江流域部分時段流域內可能旱澇並存。 據長江流域氣象中心最新預測，2026年長江流域汛期旱澇並存，長江中游旱重於澇，強對流天氣將多發。預計主汛期降水總體偏少。在空間上，金沙江、岷江、嘉陵江、長江下游等流域偏多一至二成，長江中游幹流區偏少二至四成。時間演變上，6月下旬至7月上旬長江中下游地區有雨水集中期，7月中旬後隨著副熱帶高壓北抬，岷江、嘉陵江流域降雨將增多，四川盆地東部至長江中游將出現階段性高溫天氣，盛夏期颱風影響將增多。長江防總要求，流域各地相關部門和單位要堅定踐行“生命至上、安全第一”理念，注重以大機率思維應對小機率事件，注重長短結合、標本兼治，注重專群結合、社會共治，切實提高水旱災害防禦的科學性、預見性、針對性和實效性。同時，要深刻把握水旱災害防禦工作的重要性、複雜性和艱鉅性，壓緊壓實防汛抗旱責任，深入排查整治風險隱患，堅持旱澇同防同治，堅決打好今年長江流域防汛抗旱工作主動仗。（新華社）"
-    },
-    {
-      "id": "mkt:019e0854-dc04-7aa7-bba7-4a1abc18fdb4",
-      "time": "2026-05-09 00:03:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IRAN PARLIAMENT NATIONAL SECURITY COMMISSION CHAIRMAN: BILL TO BE APPROVED IN PARLIAMENT PUBLIC SESSION IRAN PARLIAMENT NATIONAL SECURITY COMMISSION CHAIRMAN: BILL TO BECOME DETERRENT LAW AFTER GUARDIAN COUNCIL APPROVAL"
-    },
-    {
-      "id": "4868959",
-      "time": "2026-05-09 00:03:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "ABC在提交的法律檔案中表示：特朗普政府針對《觀點》欄目下達的同等播出時長指令違反了美國聯邦通訊委員會（FCC）相關規定，且對言論自由權利構成威脅。"
-    },
-    {
-      "id": "mkt:019e0854-640a-7aa7-bba7-40bc46a6d4b3",
-      "time": "2026-05-09 00:03:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "EURONEXT APRIL TOTAL CASH MARKET TRANSACTION VALUE M/M -20%"
-    },
-    {
-      "id": "mkt:019e0854-4300-7aa7-bba7-3ed4621e9717",
-      "time": "2026-05-09 00:03:20",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "DIS.O"
-      ],
-      "text": "ABC SAYS TRUMP ADMINISTRATION EQUAL TIME ORDER ON \"THE VIEW\" VIOLATED FCC RULES, THREATENS FREE SPEECH RIGHTS -- FILING"
-    },
-    {
-      "id": "4868958",
-      "time": "2026-05-09 00:02:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗議員稱美對伊海上封鎖行動將遭軍事回應】伊朗議會國家安全委員會成員哈茲裡安當地時間8日在接受當地媒體採訪時表示，“從現在起，美國對伊朗海上封鎖的行動將遭到伊朗的軍事回應。美國應該為其驅逐艦提供多艘護航艦艇，以便在驅逐艦沉沒時能夠營救其艦員”。公開資料顯示，該議員並不在伊朗政府中擔任職務，無法確定其表態是否代表伊朗官方立場。 (央視新聞)"
     }
   ]
 }
