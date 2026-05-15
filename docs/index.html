@@ -430,11 +430,13 @@ function initLanguageSelect() {
   .cb-status { font-family: 'DM Mono', monospace; font-size: .54rem; color: var(--gold-dim); white-space: nowrap; }
   .cb-section { margin-top: .58rem; }
   .cb-section-title {
-    font-family: 'DM Mono', monospace; font-size: .58rem; letter-spacing: .12em;
-    color: var(--gold); text-transform: uppercase; margin-bottom: .34rem;
+    font-size: .78rem;
+    color: var(--gold);
+    margin-bottom: .34rem;
+    font-weight: 600;
   }
-  .cb-list { margin: 0; padding-left: 1rem; color: #aaa79f; font-size: .74rem; line-height: 1.78; }
-  .cb-list li { margin: .16rem 0; }
+  .cb-list { margin: 0; padding-left: 1.25rem; color: #aaa79f; font-size: .74rem; line-height: 1.78; }
+  .cb-list li { margin: .16rem 0; padding-left: .15rem; }
 
   /* ── 即時快訊 ── */
   .filter-wrap { display: flex; flex-wrap: wrap; gap: .3rem; align-items: center; padding: .45rem .9rem; background: rgba(8,8,16,.95); border-bottom: 1px solid var(--border); flex-shrink: 0; }
@@ -1368,11 +1370,13 @@ async function loadAiSummaries() {
 
 function renderBulletSection(title, items) {
   const bullets = (items || []).filter(Boolean);
-  if (!bullets.length) return '';
+  const rows = bullets.length
+    ? bullets.map(text => `<li>${attrEscape(text)}</li>`).join('')
+    : '<li>今日無明確資料。</li>';
   return `
     <div class="cb-section">
       <div class="cb-section-title">${attrEscape(title)}</div>
-      <ul class="cb-list">${bullets.map(text => `<li>${attrEscape(text)}</li>`).join('')}</ul>
+      <ol class="cb-list">${rows}</ol>
     </div>
   `;
 }
@@ -1391,20 +1395,18 @@ function renderCentralBankSummary(item) {
   headline.textContent = item.headline || '央行摘要';
   updated.textContent = `${item.date || '—'}｜${item.generated_at || '—'}`;
   root.innerHTML = (item.central_banks || []).map(bank => {
-    const sections = bank.has_policy_decision
-      ? renderBulletSection('貨幣政策與記者會', bank.policy_analysis)
-      : [
-          renderBulletSection('官員發言', bank.officials),
-          renderBulletSection('政策預期', bank.expectations),
-          renderBulletSection('重要報告', bank.reports),
-        ].join('');
+    const sections = [
+      renderBulletSection('## 1. 當天該央行官員發言整理', bank.officials),
+      renderBulletSection('## 2. 市場對於央行的政策預期', bank.expectations),
+      renderBulletSection('## 3. 當天央行重要報告發布', bank.reports),
+    ].join('');
     return `
       <article class="cb-card">
         <div class="cb-card-head">
           <div class="cb-name">${attrEscape(bank.name || '')}</div>
-          <div class="cb-status">${attrEscape(bank.status || (bank.has_policy_decision ? '政策日' : '追蹤中'))}</div>
+          <div class="cb-status">${attrEscape(bank.status || '追蹤中')}</div>
         </div>
-        ${sections || '<div class="ai-empty" style="padding:0">今日資料不足。</div>'}
+        ${sections}
       </article>
     `;
   }).join('');

@@ -51,9 +51,9 @@ CENTRAL_BANK_SUMMARY_PATH = os.path.join(DOCS_DIR, "central_bank_summaries.json"
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "").strip()
 OPENAI_SUMMARY_MODEL = os.getenv("OPENAI_SUMMARY_MODEL", "gpt-5.4-nano").strip()
 try:
-    CENTRAL_BANK_SUMMARY_MIN_HOUR = int(os.getenv("CENTRAL_BANK_SUMMARY_MIN_HOUR", "18"))
+    CENTRAL_BANK_SUMMARY_HOUR = int(os.getenv("CENTRAL_BANK_SUMMARY_HOUR", "7"))
 except ValueError:
-    CENTRAL_BANK_SUMMARY_MIN_HOUR = 18
+    CENTRAL_BANK_SUMMARY_HOUR = 7
 try:
     CENTRAL_BANK_AUTO_BACKFILL_DAYS = max(1, int(os.getenv("CENTRAL_BANK_AUTO_BACKFILL_DAYS", "7")))
 except ValueError:
@@ -1308,8 +1308,8 @@ def central_bank_news_for_day(conn, start: datetime, end: datetime, limit: int =
 def call_openai_central_bank_summary(items: list[dict], start: datetime, end: datetime) -> dict:
     prompt = f"""
 你是央行政策與利率市場分析師。請只根據下方資料庫快訊，整理繁體中文（台灣）「央行摘要」。
-日期：{start.strftime('%Y-%m-%d')}（台灣時間）
-資料範圍：{start.strftime('%Y-%m-%d %H:%M')} 至 {end.strftime('%Y-%m-%d %H:%M')}（台灣時間）
+摘要時間：GMT+8 每日上午 07:00。
+資料範圍：{start.strftime('%Y-%m-%d %H:%M')} 至 {end.strftime('%Y-%m-%d %H:%M')}（台灣時間，24 小時窗口）
 
 必須覆蓋以下央行，順序不可改：
 1. 美國聯準會 Fed
@@ -1322,22 +1322,23 @@ def call_openai_central_bank_summary(items: list[dict], start: datetime, end: da
 8. 巴西央行 BCB
 9. 瑞士央行 SNB
 
-一般格式：
-- officials：當天該央行官員發言整理，列點。
-- expectations：市場對央行政策預期，列點。例如路透調查、利率期貨、OIS、掉期、債券市場定價、經濟學家預期。
-- reports：當天央行重要報告、會議紀要、研究、金融穩定或通膨相關發布，列點。
+每個央行都固定輸出以下三段，不得改成其他格式：
+1. officials：當天該央行官員發言整理。
+2. expectations：市場對央行政策預期，例如路透調查、利率期貨、OIS、掉期、債券市場定價、經濟學家預期。
+3. reports：當天央行重要報告、政策聲明、利率決議、會議紀要、研究、金融穩定或通膨相關發布。
 
-特殊規則：
-- 若當天該央行有貨幣政策發布、利率決議、政策聲明、會後記者會、會議紀要或展望報告，該央行的 has_policy_decision 設為 true。
-- has_policy_decision 為 true 時，請捨棄 officials / expectations / reports 的三段格式，改用 policy_analysis：100% 分析央行貨幣政策內容與記者會/聲明/紀要，列點整理。
-- 沒有資料時不要編造，該段輸出空陣列；該央行完全沒有相關資料時 status 寫「今日資料不足」。
-- 不要把市場行情文中引用的舊政策背景誤寫成今天的新決議；只有快訊明確顯示今天發布/發言/調查/定價時才納入。
-- 不要寫「快訊顯示」「根據快訊」等元敘事；直接寫政策與市場內容。
-- 中文用語採台灣財經媒體慣例：聯準會、歐洲央行、英國央行、日本央行、澳洲聯儲、加拿大央行、印度央行、巴西央行、瑞士央行、升息、降息、利率期貨、殖利率。
+嚴格規則：
+- 每段最多 9 點；沒有資料就輸出空陣列，不要補背景、不准硬湊。
+- 只整理與該央行直接相關的內容。Fed 只能放 Fed / FOMC / 聯準會；ECB 只能放 ECB / 歐洲央行；依此類推。
+- 絕對禁止把澳幣、英鎊、股市、黃金、原油、加密、一般債券行情等市場新聞塞進官員發言或報告。
+- 只有新聞明確提到市場對該央行的政策定價、調查或預期，才可放入 expectations。
+- 只有新聞明確提到該央行發布決議、聲明、會議紀要、報告、展望，才可放入 reports。
+- 若只是市場行情文章引用央行作為背景，不要納入 reports；除非該文有明確的利率期貨、調查或政策機率，才可放入 expectations。
+- 不要寫「快訊顯示」「根據快訊」等元敘事；直接寫重點。
+- 中文用詞採台灣財經媒體慣例：聯準會、歐洲央行、英國央行、日本央行、澳洲聯儲、加拿大央行、印度央行、巴西央行、瑞士央行、升息、降息、利率期貨、殖利率。
 
 輸出要求：
-- headline：一句總結今天全球央行主線，25 字以內。
-- date、generated_at 由程式填，不要輸出。
+- headline：一句總結全球央行主線，25 字以內。
 - central_banks 陣列必須剛好 9 個，順序與上方清單一致。
 
 資料庫快訊：
@@ -1364,21 +1365,17 @@ def call_openai_central_bank_summary(items: list[dict], start: datetime, end: da
                         "id": {"type": "string"},
                         "name": {"type": "string"},
                         "status": {"type": "string"},
-                        "has_policy_decision": {"type": "boolean"},
                         "officials": bullet_array,
                         "expectations": bullet_array,
-                        "reports": bullet_array,
-                        "policy_analysis": bullet_array,
+                        "reports": bullet_array
                     },
                     "required": [
                         "id",
                         "name",
                         "status",
-                        "has_policy_decision",
                         "officials",
                         "expectations",
                         "reports",
-                        "policy_analysis",
                     ],
                 },
             },
@@ -1432,30 +1429,42 @@ def empty_central_bank_summary(summary_date: str, start: datetime, end: datetime
                 "id": bank["id"],
                 "name": bank["name"],
                 "status": "今日資料不足",
-                "has_policy_decision": False,
                 "officials": [],
                 "expectations": [],
                 "reports": [],
-                "policy_analysis": [],
             }
             for bank in CENTRAL_BANKS
         ],
     }
 
 
+def central_bank_window_end(now: datetime) -> datetime:
+    end = now.replace(hour=CENTRAL_BANK_SUMMARY_HOUR, minute=0, second=0, microsecond=0)
+    if now < end:
+        end -= timedelta(days=1)
+    return end
+
+
+def central_bank_window_for_date(day: datetime.date) -> tuple[datetime, datetime]:
+    end = datetime.combine(day, datetime.min.time(), tzinfo=TW).replace(hour=CENTRAL_BANK_SUMMARY_HOUR)
+    start = end - timedelta(days=1)
+    return start, end
+
+
 def central_bank_target_days(now: datetime, data: dict) -> list[datetime.date]:
+    latest_end = central_bank_window_end(now)
     raw_backfill = os.getenv("CENTRAL_BANK_BACKFILL_DAYS", "").strip()
     if raw_backfill:
         try:
             days = max(1, int(float(raw_backfill)))
-            return [(now - timedelta(days=i)).date() for i in range(days)]
+            return [(latest_end - timedelta(days=i)).date() for i in range(days)]
         except ValueError:
             print(f"[ERROR] CENTRAL_BANK_BACKFILL_DAYS 格式錯誤（需為數字）：{raw_backfill}，改用今日")
 
     if not data.get("items"):
-        return [(now - timedelta(days=i)).date() for i in range(CENTRAL_BANK_AUTO_BACKFILL_DAYS)]
+        return [(latest_end - timedelta(days=i)).date() for i in range(CENTRAL_BANK_AUTO_BACKFILL_DAYS)]
 
-    return [now.date()]
+    return [latest_end.date()]
 
 
 def update_central_bank_summaries(conn) -> None:
@@ -1464,8 +1473,9 @@ def update_central_bank_summaries(conn) -> None:
     data = load_central_bank_summaries()
     target_days = central_bank_target_days(now, data)
 
-    if target_days == [now.date()] and now.hour < CENTRAL_BANK_SUMMARY_MIN_HOUR and not force_update:
-        print(f"[CB] 尚未到每日央行摘要更新時間（{CENTRAL_BANK_SUMMARY_MIN_HOUR}:00 後）")
+    latest_end = central_bank_window_end(now)
+    if target_days == [latest_end.date()] and now < latest_end and not force_update:
+        print(f"[CB] 尚未到每日央行摘要更新時間（GMT+8 {CENTRAL_BANK_SUMMARY_HOUR:02d}:00）")
         return
 
     if not OPENAI_API_KEY:
@@ -1480,8 +1490,7 @@ def update_central_bank_summaries(conn) -> None:
             print(f"[CB] {summary_date} 已有央行摘要，略過")
             continue
 
-        day_start = datetime.combine(day, datetime.min.time(), tzinfo=TW)
-        day_end = now if day == now.date() else day_start + timedelta(days=1)
+        day_start, day_end = central_bank_window_for_date(day)
         items = central_bank_news_for_day(conn, day_start, day_end)
 
         try:
