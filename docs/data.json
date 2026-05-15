@@ -1,7 +1,106 @@
 {
-  "updated": "2026-05-15 09:03:45",
-  "count": 15204,
+  "updated": "2026-05-15 09:07:31",
+  "count": 15213,
   "items": [
+    {
+      "id": "4880917",
+      "time": "2026-05-15 09:06:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【中信期貨：白銀一度小幅回落，投機驅動特徵明顯，短期或轉入整固】白銀近期漲勢遠超黃金，但隔夜一度小幅回撥。此輪強勢多由投機資金在低流動性環境下驅動，銅價上漲及供應擔憂亦起到助推，但投機屬性主導下情緒一旦降溫回撤幅度或同樣顯著，短期或轉入階段性整固，彈性預計仍大於黃金。"
+    },
+    {
+      "id": "4880916",
+      "time": "2026-05-15 09:05:41",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（Kospi）在短暫突破8000點關口後，目前下跌0.2%，報7964.52點。"
+    },
+    {
+      "id": "4880915",
+      "time": "2026-05-15 09:05:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【弘景光電：2026年持續加碼機器視覺賽道 推進新產品量產落地】弘景光電(301479)5月14日在機構調研時表示，2025年，公司積極拓展新業務領域，體感遊戲攝像模組持續放量，割草機器人攝像模組進入頭部客戶供應鏈，具身機器人攝像模組已完成專案定點並進入試產階段。2026年，公司持續加碼機器視覺賽道，加快RGB-D相機模組等重點產品領域的技術攻關，持續推進新產品量產落地，不斷拓寬產品應用場景。"
+    },
+    {
+      "id": "mkt:019e292a-90f6-7bb5-b4d3-a1c2556b6b16",
+      "time": "2026-05-15 09:05:15",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "【China futures mostly lower at open as precious metals slump】Most China commodity futures contracts opened lower, led by palladium futures falling more than 7%, while Shanghai silver dropped over 5% and platinum declined more than 4%. Lithium carbonate, No.20 rubber and low-sulfur fuel oil futures fell nearly 3%, while tin, rubber and soybean No.2 futures lost more than 2%. Synthetic rubber, soybean meal, rapeseed meal, cotton and PVC futures fell over 1%. On the upside, PX and styrene futures gained more than 1%."
+    },
+    {
+      "id": "4880914",
+      "time": "2026-05-15 09:04:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣加權股價指數漲1.5%，創歷史新高。"
+    },
+    {
+      "id": "4880913",
+      "time": "2026-05-15 09:04:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "鈀連續主力合約日內跌5%，現報347.45元。"
+    },
+    {
+      "id": "mkt:019e2929-8d73-7bb5-b4d3-9e3b92240036",
+      "time": "2026-05-15 09:04:09",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "ALPHABET SELLS BIGGEST YEN BOND ON RECORD BY FOREIGN ISSUER"
+    },
+    {
+      "id": "4880912",
+      "time": "2026-05-15 09:03:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "雷軍：小米YU7 GT，5月底正式釋出。"
+    },
+    {
+      "id": "4880911",
+      "time": "2026-05-15 09:03:41",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "碳酸鋰連續主力合約日內跌4%，現報187880.00元。"
+    },
+    {
+      "id": "4880910",
+      "time": "2026-05-15 09:03:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【奔圖科技等成立新公司，含AI及機器人業務】企查查APP顯示，近日，珠海清逸智慧科技有限公司成立，經營範圍包含：智慧機器人銷售；工業機器人銷售；服務消費機器人銷售；人工智慧應用軟體開發；人工智慧理論與演算法軟體開發等。企查查股權穿透顯示，該公司由奔圖科技(002180)等共同持股。"
+    },
+    {
+      "id": "4880909",
+      "time": "2026-05-15 09:02:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "豐田申請在得克薩斯州建設耗資20億美元的汽車裝配廠。"
+    },
     {
       "id": "4880908",
       "time": "2026-05-15 09:02:26",
@@ -137167,22 +137266,6 @@
         "國際"
       ],
       "text": "【Anthropic旗下Mythos模型打亂白宮人工智慧戰略】美國副總統萬斯近日在與科技企業執行長的通話中，對Anthropic的Mythos等新型人工智慧模型表達了擔憂與警惕。萬斯表示，以Anthropic推出的Mythos為代表的新型AI模型，能夠自主挖掘軟體漏洞；這類模型可發起網路攻擊，衝擊鄉鎮銀行、醫院及供水設施，而地方政府並無能力應對此類風險。據知情人士透露，萬斯向一眾企業執行長表示：“我們各方必須就此展開協作。”參會高管包括：OpenAI的山姆・奧爾特曼、Anthropic的達里奧・阿莫代伊、太空探索技術公司（SpaceX）的埃隆・馬斯克、谷歌母公司Alphabet的桑達爾・皮查伊，以及微軟的薩提亞・納德拉。"
-    },
-    {
-      "id": "4867372",
-      "time": "2026-05-08 09:04:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "【上海釋出2026版城鄉建設用地基準地價 產業用地地價系統性下調】近日，上海市規劃和自然資源局正式釋出《上海市城鄉建設用地基準地價（2026年）》，基準日更新為2026年1月1日。這是上海時隔6年再度更新城鄉建設用地基準地價，也是當地首次實現城鄉一體化定級定價的制度性突破。作為全國經濟中心城市、長三角一體化發展龍頭，上海此次以產業用地基準地價全面系統性下調為特點的地價政策調整，是經濟大省勇挑大樑、穩增長穩預期、築牢實體經濟根基的關鍵舉措，為全國超大城市土地資源高質量利用探索了可複製的實踐路徑。中國自然資源報 （中國自然資源報 ）"
-    },
-    {
-      "id": "mkt:019e051d-1272-7775-8cbc-0ec17e88566b",
-      "time": "2026-05-08 09:04:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ASKED IF HE IS EXPECTED TO HAVE THE QATARI JET READY BY JULY 4TH, TRUMP SAYS: \"YEAH, BY JULY 4TH, YEAH\" - CNN"
     }
   ]
 }
