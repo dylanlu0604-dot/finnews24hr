@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-16 10:39:07",
-  "count": 15420,
+  "updated": "2026-05-16 10:42:38",
+  "count": 15414,
   "items": [
     {
       "id": "4883090",
@@ -139015,62 +139015,6 @@
       "time": "2026-05-09 10:42:44",
       "tags": [],
       "text": "中國4月出口（以美元計價）同比增14.1％，前值增2.5％；進口增25.3％，前值增27.8％；貿易順差848.2億美元，前值順差511.3億美元。"
-    },
-    {
-      "id": "mkt:019e0a9d-643d-7222-b4ab-4f17ddc95974",
-      "time": "2026-05-09 10:42:25",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "China | Trade Balance in USD (Apr) | actual 84820000000B | consensus 83300000000B | previous 51130000000B"
-    },
-    {
-      "id": "mkt:019e0a9d-02dc-7222-b4ab-433cbc5c7fbc",
-      "time": "2026-05-09 10:42:02",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "China | Imports in CNY (YoY) (Apr) | actual 20.6% | previous 23.80%"
-    },
-    {
-      "id": "mkt:019e0a9c-dd6f-7222-b4ab-3ddd43e1c95b",
-      "time": "2026-05-09 10:41:52",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "China | Exports in CNY (YoY) (Apr) | actual 9.8% | previous -0.70%"
-    },
-    {
-      "id": "4869478",
-      "time": "2026-05-09 10:41:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國4月貿易順差848.2億美元。"
-    },
-    {
-      "id": "mkt:019e0a9c-3660-7222-b4ab-34573caa3fe5",
-      "time": "2026-05-09 10:41:10",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "China | Trade Balance in CNY (Apr) | actual 585690000000B | previous 354750000000B"
-    },
-    {
-      "id": "4869477",
-      "time": "2026-05-09 10:40:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國4月以美元計價出口同比增長14.1%，預估為增長8.4%。"
     }
   ]
 }
