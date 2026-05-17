@@ -1,7 +1,43 @@
 {
-  "updated": "2026-05-18 06:40:40",
-  "count": 15336,
+  "updated": "2026-05-18 06:44:37",
+  "count": 15339,
   "items": [
+    {
+      "id": "4884326",
+      "time": "2026-05-18 06:43:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "【霍爾木茲海峽局勢陷入僵局推高通脹擔憂，金價延續跌勢】由於霍爾木茲海峽通航恢復毫無進展，通脹憂慮持續升溫，債券市場大幅下挫，金價承壓維持下跌態勢。自戰事初期大幅回落以來，黃金價格整體窄幅震盪，投資者持續權衡通脹風險與經濟增長隱憂。 現貨黃金微漲0.2%，報每盎司4547.65美元。"
+    },
+    {
+      "id": "4884325",
+      "time": "2026-05-18 06:43:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本廣島縣山火持續 至少15公頃山林被燒燬】17日發生在日本廣島縣福山市的山林火災，截至18日早晨火勢仍在蔓延。目前尚無人員受傷的訊息。據悉，17日下午2時30分許，消防部門接到報警稱，福山市赤坂町有枯草起火，隨後確認火勢已蔓延至山林。據福山市政府介紹，消防部門出動了46輛消防車、2架直升機，並以約350人的規模展開滅火行動，但至少已有15公頃山林被燒燬，目前火勢仍未得到控制，何時能撲滅尚無預期。（央視新聞）"
+    },
+    {
+      "id": "te:economy:551324",
+      "time": "2026-05-18 06:41:30",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "Services PMI",
+        "Importance 1"
+      ],
+      "text": "New Zealand Services Sector Contracts for 3rd Month — New Zealand’s BusinessNZ Performance of Services Index increased to 48.9 in April 2026 from an upwardly revised 46.2 in the previous month, which was the lowest reading in 10 months, marking the third straight month of contraction in the services sector due to the impact of the Iran war"
+    },
+    {
+      "id": "4884324",
+      "time": "2026-05-18 06:40:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "當地州長表示，敖德薩的多棟居民樓遭無人機襲擊。"
+    },
     {
       "id": "te:economy:551322",
       "time": "2026-05-18 06:38:28",
@@ -138419,14 +138455,6 @@
         "Importance 1"
       ],
       "text": "Crypto Updates: XRP Appreciates by 3.49% — Top crypto gainers are XRP (3.49%), Binance (2.25%), Ether (1.76%) and Bitcoin (1.48%)."
-    },
-    {
-      "id": "4871004",
-      "time": "2026-05-11 06:43:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普社交媒體發文痛批自己任命的兩位最高法院共和黨大法官，不滿他們在關稅案中反對自己的政策，指責他們為表現 “獨立” 而傷害國家，並擔憂他們接下來會在出生地公民權問題上做出不利裁決，呼籲他們忠於國家而非刻意反對自己。"
     }
   ]
 }
