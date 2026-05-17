@@ -1,7 +1,19 @@
 {
-  "updated": "2026-05-18 06:52:28",
-  "count": 15339,
+  "updated": "2026-05-18 06:56:22",
+  "count": 15336,
   "items": [
+    {
+      "id": "te:markets:551325",
+      "time": "2026-05-18 06:54:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Falls to Near 3-Week Low — The NZX 50 dropped 75 points, or 0.6%, to 12,890 in Monday morning trading, retreating for the fifth consecutive session and marking its lowest level since April 29, tracking declines in U.S. futures amid renewed escalation in US-Iran tensions. Fresh data also pressured sentiment after the private sector continued to contract, with the services sector shrinking for the third straight month, though at a softer pace, while factory activity expanded at its slowest pace in seven months. Investor sentiment was further subdued ahead of the release of a slew of Chinese economic data and the PBOC interest rate decision later this week. Healthcare, financials, industrials, and utilities weighed on the index, with notable losses from Ryman Healthcare (-2.4%), Freightways Group (-1.6%), Fisher & Paykel Healthcare (-1.4%), Summerset Group (-1.0%), Infratil (-0.9%), and Auckland International Airport (-0.6%)."
+    },
     {
       "id": "4884329",
       "time": "2026-05-18 06:50:21",
@@ -138417,42 +138429,6 @@
         "市場"
       ],
       "text": "【經濟日報金觀平：增強貨幣政策前瞻性靈活性針對性】中央政治局近期召開會議提出，精準有效實施更加積極的財政政策和適度寬鬆的貨幣政策，增強貨幣政策前瞻性靈活性針對性，保持流動性充裕。這一部署對貨幣政策實施提出了更高要求。今年是“十五五”開局之年，實現國民經濟良好開局，對於順利完成全年與未來五年經濟社會發展目標和主要任務具有重要意義。一批支援實體經濟的貨幣金融政策開年即迅速落地。中國人民銀行運用公開市場操作、買賣國債、中期借貸便利等多種工具，保持市場流動性充裕，社會融資條件繼續處於寬鬆狀態，充分體現適度寬鬆貨幣政策取向，有力支撐了經濟實現良好開局。也要看到，當前我國經濟發展仍面臨一些困難和挑戰。從外部看，全球經濟增長動能偏弱，地緣政治事件和國際經貿摩擦頻發，主要經濟體貨幣政策路徑存在不確定性。從內部看，我國經濟起步有力的同時，穩中向好基礎仍需鞏固。這要求我們集中精力辦好自己的事，用好用足宏觀政策，以高質量發展的確定性應對各種不確定性。"
-    },
-    {
-      "id": "4871009",
-      "time": "2026-05-11 06:55:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "【人民時評：“中國式安全感”為何圈粉世界】“快遞放門口不會丟”“凌晨3點敢獨自在街頭擼串”“膝上型電腦放咖啡館桌子上也沒人碰”……這些中國人習以為常的生活細節，近來被外國博主總結為“中國式安全感”，正在海外掀起一場“羨慕旋風”，也讓我們再次審視這份安穩背後的深層邏輯。這種安全感，照見平安中國建設的成就，彰顯以人民為中心的價值取向。在中國，公共安全不是少數人的福利，而是以國家制度為依託、以全體人民為物件的普惠性安全。遇到麻煩，碰到險情，“打了求助號碼就會有人來”；鄰里間的口角糾紛、走失老人兒童的緊急尋回，“有事找警察”給人以踏實的心理支撐……不論身在繁華城市還是偏遠鄉村，都能得到充分安全保障。無差別的安全供給，背後是鮮明的價值底色：人民至上。"
-    },
-    {
-      "id": "4871008",
-      "time": "2026-05-11 06:53:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊方暗示相關國家應從歷史中汲取教訓】伊朗外交部發言人巴加埃10日在社交媒體發文表示，伊朗在歷史上無論是對抗零星入侵者還是強大軍團都取得了勝利，暗示當前與伊朗發生衝突的相關國家應從歷史中汲取經驗教訓。 (新華社)"
-    },
-    {
-      "id": "4871007",
-      "time": "2026-05-11 06:53:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【蘋果A20Pro將迎來兩大升級】據行業爆料，蘋果A20 Pro將迎來兩大核心升級。首先在製程工藝上，這款晶片將採用臺積電最新的2nm工藝。從現有3nm製程升級至2nm，意味著在晶片尺寸基本不變的前提下，A20 Pro能夠實現更強效能輸出，同時執行能效大幅提升。 其次，A20 Pro還將首次引入WMCM先進封裝工藝。這也是蘋果首度在iPhone處理器上落地該項技術，其核心邏輯是在晶圓切割之前，就完成SoC、記憶體等多晶片的垂直堆疊與電路互聯，整體整合完畢後再切割為獨立晶片，具備無中介層、互聯距離短、整合度拉滿的特點。"
-    },
-    {
-      "id": "te:markets:549418",
-      "time": "2026-05-11 06:53:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "New Zealand Stocks Extend Losses — The NZX 50 dropped 42 points, or 0.3%, to 13,133 in Monday morning trading, down for the second straight session, tracking a fall in US futures amid escalating US-Iran tensions. Traders were also cautious as they awaited consumer and producer price data from China, New Zealand's top trading partner, later today amid continued weak demand in the mainland. Caution also grew as traders anticipated US inflation data on Tuesday amid rising fuel prices, which could help guide the Fed's monetary policy decision at its upcoming meeting. Domestically, traders are also anticipating New Zealand's food inflation data and manufacturing PMI, both due this week. The broader index declined after posting a second weekly gain in the prior week, mainly weighed down by energy, communication services, and industrials. Among the biggest laggards were Hallenstein Glasson Holdings (-1.3%), Colonial Motor Company (-0.7%), Briscoe Group (-0.6%), ANZ Group (-0.5%), and Australian Foundation Investment (-0.5%)."
     }
   ]
 }
