@@ -1,7 +1,37 @@
 {
-  "updated": "2026-05-18 06:36:44",
-  "count": 15334,
+  "updated": "2026-05-18 06:40:40",
+  "count": 15336,
   "items": [
+    {
+      "id": "te:economy:551322",
+      "time": "2026-05-18 06:38:28",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "Composite PMI",
+        "Importance 1"
+      ],
+      "text": "New Zealand Private Sector Shrinks for 2nd Month — The BusinessNZ Performance of Composite Index rose to 49.4 in April 2026 from a downwardly revised 48.7 in the previous month, which was the lowest reading since last August. It marked the second straight contraction, though at a softer pace, as the services sector contracted for the third consecutive month, while manufacturing recorded the softest expansion in seven months."
+    },
+    {
+      "id": "4884323",
+      "time": "2026-05-18 06:38:15",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "日本住友金屬與雙日集團擬赴東南亞佈局稀土資源。"
+    },
+    {
+      "id": "4884322",
+      "time": "2026-05-18 06:36:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "當地州長稱，烏克蘭南部敖德薩地區正遭受無人機襲擊。"
+    },
     {
       "id": "4884321",
       "time": "2026-05-18 06:35:46",
@@ -138397,14 +138427,6 @@
         "國際"
       ],
       "text": "特朗普社交媒體發文痛批自己任命的兩位最高法院共和黨大法官，不滿他們在關稅案中反對自己的政策，指責他們為表現 “獨立” 而傷害國家，並擔憂他們接下來會在出生地公民權問題上做出不利裁決，呼籲他們忠於國家而非刻意反對自己。"
-    },
-    {
-      "id": "4871003",
-      "time": "2026-05-11 06:36:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本民調顯示：民眾對高市政治議程態度冷淡】據《朝日新聞》5月10日報道，朝日新聞社與東京大學谷口將紀研究室聯合實施的選民調查顯示，日本民眾對首相高市早苗及其聯合執政夥伴維新會極力推動的主要政治議題關注度較低，其中，只有1%的人認為修憲是當務之急。（環球網）"
     }
   ]
 }
