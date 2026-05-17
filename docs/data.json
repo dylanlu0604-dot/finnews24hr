@@ -1,7 +1,82 @@
 {
-  "updated": "2026-05-18 07:39:04",
-  "count": 15350,
+  "updated": "2026-05-18 07:42:43",
+  "count": 15356,
   "items": [
+    {
+      "id": "4884385",
+      "time": "2026-05-18 07:42:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "比特幣跌破77000美元，日內跌1.81%。"
+    },
+    {
+      "id": "te:markets:551336",
+      "time": "2026-05-18 07:41:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Gold Holds Losses on Inflation Concerns — Gold traded below $4,550 an ounce on Monday after tumbling nearly 4% last week, as mounting evidence that the Middle East-driven energy price shock is feeding into broader inflation pressures strengthened expectations for central bank policy tightening. The precious metal was also weighed down by strong gains in the US dollar and Treasury yields after hotter-than-expected US inflation data led investors to rule out any Federal Reserve rate cuts this year, while increasing speculation that policymakers could still raise rates before year-end. Meanwhile, President Donald Trump warned that Tehran is running out of time to secure an agreement with Washington, while Iranian media reports indicated negotiations remain deadlocked, with the US offering “no tangible concessions.” Over the weekend, energy infrastructure in the Persian Gulf was also targeted, including a nuclear facility in the United Arab Emirates, adding to geopolitical tensions in the region."
+    },
+    {
+      "id": "te:economy:551335",
+      "time": "2026-05-18 07:41:36",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Israel",
+        "GDP Growth Annualized",
+        "Importance 1"
+      ],
+      "text": "Israel Economy Shrinks 3.3% in Q1 — Israel's economy contracted at an annualized rate of 3.3% in the first quarter of 2026, reversing a downwardly revised 2.9% growth in the fourth quarter of 2025, due to the impact of the war with Iran. Consumer spending dropped 4.7%, government spending fell 4.8%, and exports declined 3.7%. By contrast, fixed investment grew 12.6%."
+    },
+    {
+      "id": "4884384",
+      "time": "2026-05-18 07:40:36",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【A股限售股解禁一覽：252.79億元市值限售股今日解禁】Wind資料顯示，週一（5月18日），共有26家公司限售股解禁，合計解禁量為6.9億股，按最新收盤價計算，合計解禁市值為252.79億元。從解禁量來看，9家公司解禁股數超千萬股。航天南湖、華緯科技、蜂助手解禁量居前，解禁股數分別為2.5億股、1.83億股、5980.02萬股。從解禁市值來看，9家公司解禁市值超億元。航天南湖、華緯科技、蜂助手解禁市值居前，解禁市值分別為93.03億元、35.67億元、29.32億元。從解禁股數佔總股本比例來看，7家公司解禁比例超10%。航天南湖、華緯科技、漢邦科技解禁比例居前，解禁比例分別為74.25%、67.5%、49.81%。"
+    },
+    {
+      "id": "4884383",
+      "time": "2026-05-18 07:40:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【A股分紅派息轉增一覽：44股今日股權登記】Wind資料顯示，根據上市公司權益分配方案梳理統計，44只A股今日股權登記。其中，36股擬派息，1股擬轉增，7股派息、轉增或送股同時實施。分紅派息方面，36只個股分紅派息的股權登記日為5月18日。力聚熱能、巴比食品、極米科技分紅力度最大，每10股分別派息15.00元、12.00元、11.84元。轉增股本方面，1只個股轉增股本的股權登記日為5月18日。飛沃科技轉增股數最多，每10股分別轉增4股。7股派息、轉增或送股同時實施，股權登記日為5月18日。強瑞技術、國能日新、中潤光學分紅力度最大，每10股分別派息8.00元、4.50元、4.00元。"
+    },
+    {
+      "id": "4884382",
+      "time": "2026-05-18 07:40:21",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【英國保誠集團將斥資3.89億美元收購一家印度人壽保險公司的控股權】英國保誠集團(Prudential PLC)已同意以3.89億美元收購一家印度人壽保險公司的控股權，這家英國公司正尋求在全球增長最快的保險市場之一擴張其業務。英國保誠集團週日表示，該公司將收購Bharti Life Insurance 75%的股份，這是其重新定位印度業務的更廣泛努力的一部分。該公司表示，印度是一個有吸引力的市場，因為該國壽險滲透率低，且市場對儲蓄和保障型產品的需求強勁。"
+    },
+    {
+      "id": "4884381",
+      "time": "2026-05-18 07:40:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【陽獅集團宣佈以22億美元全現金收購LiveRamp】當地時間5月17日，廣告與傳播巨頭陽獅集團（Publicis Groupe）宣佈，已簽署最終協議將收購全球資料協作平臺LiveRamp。根據協議條款，該筆交易將採用全現金方式進行，每股收購價格為38.50美元，對應企業總價值約為21.67億美元。"
+    },
+    {
+      "id": "4884380",
+      "time": "2026-05-18 07:38:32",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【在霍爾木茲海峽或長期關閉之際 油價上漲】在霍爾木茲海峽可能長期關閉之際，油價上漲，全球五分之一的石油通常透過該水道運輸。美國總統特朗普週日在社交媒體上發帖稱：“對伊朗來說，時間已經不多了，他們最好快點行動，否則他們將一無所有。“美國和伊朗在伊朗核計劃等問題上仍存在巨大分歧。Tradu.com高階市場分析師Nikos Tzabouras在一封電子郵件中表示，這種僵局“引發了人們對脆弱停火協議可行性的擔憂，並使和平協議的前景受到質疑“。近月西得州中質油期貨上漲1.75%，報每桶107.26美元；近月布倫特原油期貨上漲1.3%，報每桶110.72美元。"
+    },
     {
       "id": "4884379",
       "time": "2026-05-18 07:37:38",
@@ -138525,24 +138600,6 @@
         "國際"
       ],
       "text": "【內塔尼亞胡不排除動用武力手段移除伊朗濃縮鈾】以色列總理本雅明.內塔尼亞胡在定於週日晚間播出的哥倫比亞廣播公司《60分鐘》節目專訪中表示，對伊朗的戰爭尚未結束，他不排除透過武力手段轉移伊朗核材料的可能性。他說：“我認為這場戰爭取得了巨大成果。但還沒有結束，因為還有核材料，也就是濃縮鈾，必須從伊朗移出。”當被問及是否會透過武力手段轉移這些材料時，內塔尼亞胡說：“你肯定會問我這些問題。但我會避而不談，因為我不會談論我們的軍事可能性、計劃或任何類似的事情。”伊朗的高濃縮鈾需要從遭到美國和以色列打擊的核設施中轉移出來，如果要這樣做，官員們必須決定將這些材料運往何處。內塔尼亞胡說：“如果達成協議，就可以進去把材料運出來。我不會給出一個時間表，但我要說，這是一項極其重要的任務。”"
-    },
-    {
-      "id": "4871049",
-      "time": "2026-05-11 07:41:09",
-      "tags": [
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "【亞市早盤 在中東緊張局勢持續的跡象下油價上漲】在亞洲早盤交易中，在有跡象表明中東緊張局勢持續、可能使供應中斷延續的情況下，油價上漲。美國總統特朗普週日在社交媒體上發文稱：“我剛剛閱讀了伊朗所謂‘代表’的回覆。我不喜歡它——完全不可接受。“伊朗正式向調停國巴基斯坦遞交了對美國最新提議的回覆，其中未包含有關德黑蘭核計劃的承諾。花旗投資研究能源戰略主管Anthony Yuen在一份研究報告中表示：“油價一直波動較大，如果美伊談判仍然棘手，油價可能會進一步上漲。“近月西得州中質油期貨上漲3.1%，報每桶98.37美元；近月布倫特原油期貨上漲3.2%，報每桶104.50美元。"
-    },
-    {
-      "id": "4871048",
-      "time": "2026-05-11 07:39:18",
-      "tags": [
-        "市場"
-      ],
-      "text": "【中指研究院：2026年1-4月全國法拍房源掛拍27.2萬套 同比微增0.8%】據中指研究院訊息，2026年1-4月全國法拍房源掛拍27.2萬套，同比微增0.8%；成交5.6萬套，同比增8.5%，清倉率20.7%，總成交額784.6億元，同比降6.0%，成交均價4775元/㎡，折價率72.7%。住宅為成交主力，佔總成交額52.5%，清倉率33.0%，同比提升5.9個百分點。浙江省表現顯著，1-4月新上拍品12904套，成交8322套，清倉率45.7%，成交額124億元。住宅清倉率61.9%，遠高於全國水平。"
     }
   ]
 }
