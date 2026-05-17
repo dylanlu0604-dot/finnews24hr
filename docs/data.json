@@ -1,7 +1,15 @@
 {
-  "updated": "2026-05-17 14:26:06",
+  "updated": "2026-05-17 14:29:32",
   "count": 15365,
   "items": [
+    {
+      "id": "4883713",
+      "time": "2026-05-17 14:28:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中國半導體之父談國產裝置發展之路】從美國回國創業的張汝京，當年創立了中芯國際，被稱為中國的“半導體之父”。他在《對話》中表示：“試新的裝置一定會有風險，但是我們試的時候不會貿然試很多，就是小批次的，先試5片、25片，再就是50片、100片，而且時間蠻長的，雙方都要負責。比如我們用中微的裝置，裝置給我們的時候，我們並沒有付錢，這是中微投資者的，但是後面測試時，晶片就是我們自己負責，時間成本是我們負責，大家配合很好以後成功了，這個投資絕對划得來。如果沒有人使用國貨，怎麼會進步呢？不使用就不知道毛病在哪裡，不知道毛病怎麼改，也不要覺得我一試不好，不用了。”（央視財經）"
+    },
     {
       "id": "4883712",
       "time": "2026-05-17 14:24:53",
@@ -138599,18 +138607,6 @@
         "國際"
       ],
       "text": "【報道：韓國已完成對霍爾木茲海峽受損船隻的現場勘查】媒體援引韓國總統府一位匿名人士訊息稱，韓國已完成對霍爾木茲海峽一艘受損船隻的現場調查。一支調查團隊過去三日對韓國運營的船隻開展勘查，試圖查明船隻起火受損的原因。韓國相關部門正稽核研判初步調查結果，稽核完畢後將對外公佈起火原因。"
-    },
-    {
-      "id": "te:economy:549402",
-      "time": "2026-05-10 14:28:57",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Saudi Arabia",
-        "Industrial Production",
-        "Importance 1"
-      ],
-      "text": "Saudi Arabia Industrial Output Plunges 14.1% in March — Industrial production in Saudi Arabia slumped 14.1% year-on-year in March 2026, reversing an upwardly revised 15.0% surge in the previous month. Oil activities contracted (-20.0% vs 11.5% in February), weighed down by lower output in coke and refined petroleum products (-11.6% vs 5.2%) and crude petroleum and natural gas extraction (-22.2% vs 13.0%). Non-oil sectors stalled after rising 2.4%, as increases in water supply, sewerage, waste management, and remediation services (1.1% vs 8.1%), along with electricity, gas, steam, and air-conditioning supply (10.1% vs -3.7%), were offset by declines in manufacturing (-0.9% vs 2.8%). On a monthly basis, industrial activity plunged 22.3%, reversing an upwardly revised 3.7% rise in the previous month"
     }
   ]
 }
