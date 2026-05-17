@@ -1,7 +1,15 @@
 {
-  "updated": "2026-05-17 14:22:47",
+  "updated": "2026-05-17 14:26:06",
   "count": 15365,
   "items": [
+    {
+      "id": "4883712",
+      "time": "2026-05-17 14:24:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【傳三星Exynos 2700晶片正考慮放棄FOWLP先進封裝工藝】據報道，三星計劃停止在 Exynos 2700 上使用FOWLP技術，該封裝技術自 Exynos 2400 以來一直沿用至今。據悉，Exynos 2700晶片目前正在為明年的旗艦手機進行開發。雖然FOWLP的技術應用改善了散熱效能，但由於製造成本的增加，三星已開始重新評估其盈利能力。"
+    },
     {
       "id": "4883711",
       "time": "2026-05-17 14:18:41",
@@ -138603,14 +138611,6 @@
         "Importance 1"
       ],
       "text": "Saudi Arabia Industrial Output Plunges 14.1% in March — Industrial production in Saudi Arabia slumped 14.1% year-on-year in March 2026, reversing an upwardly revised 15.0% surge in the previous month. Oil activities contracted (-20.0% vs 11.5% in February), weighed down by lower output in coke and refined petroleum products (-11.6% vs 5.2%) and crude petroleum and natural gas extraction (-22.2% vs 13.0%). Non-oil sectors stalled after rising 2.4%, as increases in water supply, sewerage, waste management, and remediation services (1.1% vs 8.1%), along with electricity, gas, steam, and air-conditioning supply (10.1% vs -3.7%), were offset by declines in manufacturing (-0.9% vs 2.8%). On a monthly basis, industrial activity plunged 22.3%, reversing an upwardly revised 3.7% rise in the previous month"
-    },
-    {
-      "id": "4870222",
-      "time": "2026-05-10 14:25:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國新增高階聚苯乙烯規模化產能 為光學材料供應鏈提供新選擇】5月10日，中國石油天然氣股份有限公司廣西石化分公司完全自主研發的光學級聚苯乙烯產品GPPS-550N實現量產。此舉意味著全球光學材料供應鏈上，新增一個具備穩定量產能力、自主工藝和柔性生產特點的中國供應來源。高品質聚苯乙烯GPPS-550N產品具有高透光率、高熱穩定性等突出效能，主要面向LED顯示器、導光板、高階包裝及家電等領域，技術指標達到國際同類產品先進水平。（中國新聞網）"
     }
   ]
 }
