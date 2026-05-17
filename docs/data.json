@@ -1,7 +1,52 @@
 {
-  "updated": "2026-05-18 07:46:20",
+  "updated": "2026-05-18 07:49:58",
   "count": 15355,
   "items": [
+    {
+      "id": "4884393",
+      "time": "2026-05-18 07:47:45",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本10年期國債收益率上漲10個基點，至2.8%。"
+    },
+    {
+      "id": "em:qqyh_mlc:202605183739808464",
+      "time": "2026-05-18 07:46:43",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【鮑威爾謝幕後美聯儲將面臨什麼】鮑威爾正式卸任美聯儲主席之後，美聯儲將進入“沃什時代”。從外界觀察來看，沃什領導下的美聯儲，其政策核心是弱化非貨幣職能、加速縮表、重構通脹指標等。而美聯儲獨立性、通脹反覆、內部分歧、金融脆弱性等問題將持續掣肘美聯儲的決策過程。"
+    },
+    {
+      "id": "4884392",
+      "time": "2026-05-18 07:46:11",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "基準10年期日本國債期貨早盤下跌0.78點。"
+    },
+    {
+      "id": "4884391",
+      "time": "2026-05-18 07:46:07",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經平均股指期貨早盤下跌0.7%。"
+    },
+    {
+      "id": "4884390",
+      "time": "2026-05-18 07:45:57",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "本週央行公開市場逆回購到期規模縮量至30億元的歷史低位附近。"
+    },
     {
       "id": "4884389",
       "time": "2026-05-18 07:44:49",
@@ -138544,51 +138589,6 @@
         "國際"
       ],
       "text": "卡達天然氣運輸船在巴基斯坦和伊朗會談後透過霍爾木茲海峽。（英國金融時報）"
-    },
-    {
-      "id": "4871058",
-      "time": "2026-05-11 07:49:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "【本週中國公開市場逆回購到期535億元】其中，週一、週二無逆回購到期，週三到週五分別有260億、270億和5億元逆回購到期。"
-    },
-    {
-      "id": "4871057",
-      "time": "2026-05-11 07:48:02",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "【光大保德信基金姚石：北證50指數正處於政策支援與基本面修復的共振點】2026年4月，北證50指數基金迎來集體擴容，單隻產品的規模上限由原先的5億元提升至15億元，為北交所市場帶來了顯著的增量資金流入。近日，在北證50指數基金集體擴容、吸引多家機構佈局之際，光大保德信北證50指數基金擬任基金經理姚石對記者表示，北交所正迎來從“提質增效”到“規模擴容”的關鍵躍遷，代表北交所核心競爭力的北證50指數在經歷了充分的估值回落後，正處於政策支援與基本面修復的共振點。（ 證券時報  ）"
-    },
-    {
-      "id": "4871056",
-      "time": "2026-05-11 07:46:59",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【日經指數或將上漲 受美國經濟走強跡象提振】得益於美國勞動力市場走強的跡象以及週五美國晶片股的持續上漲，日本股市可能上漲。在新加坡交易所，日經指數期貨上漲1.5%，報63770點。投資者正關注中東局勢的發展以及日本企業的業績。日經指數週五下跌0.2%，至62713.65點。"
-    },
-    {
-      "id": "te:markets:549423",
-      "time": "2026-05-11 07:46:38",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Gold Slips as Trump Rejects Iran Response — Gold prices fell below $4,700 an ounce on Monday, giving back part of last week’s gains after President Donald Trump rejected Iran’s response to his peace proposal as “TOTALLY UNACCEPTABLE,” sustaining concerns over inflationary pressures. Reports indicated that Tehran had offered to move part of its highly enriched uranium stockpile to a third country, while refusing to dismantle its nuclear facilities. Meanwhile, renewed attacks across the Middle East over the weekend threatened to undermine a fragile ceasefire that took effect in early April. The Strait of Hormuz also remains effectively closed as Washington and Tehran continue to struggle toward a diplomatic resolution to the conflict, keeping energy prices elevated and intensifying inflation concerns. That strengthened expectations that central banks may raise interest rates further to contain price pressures, a development that tends to weigh on precious metals."
-    },
-    {
-      "id": "4871055",
-      "time": "2026-05-11 07:46:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "【河南首個虛擬電廠AI核心平臺上線】近日，河南首個虛擬電廠AI核心平臺——“大鯊魚2.0”上線。這是河南首個實現“可監測、可排程、可交易、可結算”全鏈條貫通的虛擬電廠智慧運營系統，標誌著河南在推動能源數字化轉型、培育能源領域新質生產力方面取得關鍵性突破。"
     }
   ]
 }
