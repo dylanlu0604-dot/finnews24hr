@@ -11,6 +11,8 @@ import json
 import os
 import re
 import sqlite3
+import time
+import uuid
 from html import unescape
 from datetime import datetime, timezone, timedelta
 from zoneinfo import ZoneInfo
@@ -46,6 +48,29 @@ TE_STREAM_TYPES = ("markets", "economy")
 MKTNEWS_FLASH_URL = "https://api.mktnews.net/api/flash"
 MKTNEWS_PAGE_LIMIT = 50
 MKTNEWS_DEFAULT_PAGES = 1
+EASTMONEY_API = "https://np-weblist.eastmoney.com/comm/web/getFastNewsList"
+EASTMONEY_PAGE_SIZE = 50
+try:
+    EASTMONEY_TARGET = max(0, int(os.getenv("EM_TARGET", "50")))
+except ValueError:
+    EASTMONEY_TARGET = 50
+# (slug, fastColumn id, 類別 tag, 子標籤)
+EASTMONEY_SOURCES = [
+    ("qqyh_zgyh",  "118", "央行",     "中國央行"),
+    ("qqyh_mlc",   "119", "央行",     "美聯儲"),
+    ("qqyh_ozyh",  "120", "央行",     "歐洲央行"),
+    ("qqyh_ygyh",  "121", "央行",     "英國央行"),
+    ("qqyh_rbyh",  "122", "央行",     "日本央行"),
+    ("qqyh_jndyh", "123", "央行",     "加拿大央行"),
+    ("qqyh_ozlc",  "124", "央行",     "澳洲聯儲"),
+    ("jjsj_zgsj",  "125", "經濟數據", "中國"),
+    ("jjsj_mgsj",  "126", "經濟數據", "美國"),
+    ("jjsj_oyqsj", "127", "經濟數據", "歐元區"),
+    ("jjsj_ygsj",  "128", "經濟數據", "英國"),
+    ("jjsj_rbsj",  "129", "經濟數據", "日本"),
+    ("jjsj_jndsj", "130", "經濟數據", "加拿大"),
+    ("jjsj_ozsj",  "131", "經濟數據", "澳洲"),
+]
 AI_SUMMARY_PATH = os.path.join(DOCS_DIR, "ai_summaries.json")
 CENTRAL_BANK_SUMMARY_PATH = os.path.join(DOCS_DIR, "central_bank_summaries.json")
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "").strip()
@@ -310,6 +335,83 @@ def fetch_mktnews_flash(pages: int = MKTNEWS_DEFAULT_PAGES, page_size: int = MKT
             print(f"[ERROR] MKT News 第 {page} 頁：{e}")
             break
     return results
+
+
+def fetch_eastmoney_fastnews(slug: str, column_id: str, target: int) -> list[dict]:
+    """東方財富快訊：分頁抓取直到累積 `target` 筆或 API 無更多資料。"""
+    if target <= 0:
+        return []
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+                      "AppleWebKit/537.36 (KHTML, like Gecko) "
+                      "Chrome/123.0.0.0 Safari/537.36",
+        "Accept": "application/json, text/plain, */*",
+        "Referer": f"https://kuaixun.eastmoney.com/{slug}.html",
+    }
+    collected: list[dict] = []
+    seen: set[str] = set()
+    sort_end = ""
+    while len(collected) < target:
+        params = {
+            "client": "web",
+            "biz": "web_724",
+            "fastColumn": column_id,
+            "sortEnd": sort_end,
+            "pageSize": str(EASTMONEY_PAGE_SIZE),
+            "req_trace": uuid.uuid4().hex,
+        }
+        payload = None
+        for attempt in range(4):
+            try:
+                r = requests.get(EASTMONEY_API, params=params, headers=headers,
+                                 timeout=(10, 45))
+                r.raise_for_status()
+                payload = r.json()
+                break
+            except (requests.Timeout, requests.ConnectionError, ValueError) as e:
+                print(f"[WARN] 東方財富 {slug} 第 {len(collected)//EASTMONEY_PAGE_SIZE+1} 頁第 {attempt+1} 次失敗：{e}")
+                time.sleep(1.5 * (attempt + 1))
+        if payload is None:
+            print(f"[ERROR] 東方財富 {slug}：多次重試失敗，提前結束")
+            break
+        if payload.get("code") != "1":
+            print(f"[ERROR] 東方財富 {slug}：{payload.get('message')}")
+            break
+        data = payload.get("data") or {}
+        items = data.get("fastNewsList") or []
+        if not items:
+            break
+        for it in items:
+            code = it.get("code")
+            if not code or code in seen:
+                continue
+            seen.add(code)
+            collected.append(it)
+            if len(collected) >= target:
+                break
+        sort_end = data.get("sortEnd") or ""
+        if not sort_end or len(collected) >= target:
+            break
+        time.sleep(0.4)
+    return collected
+
+
+def process_eastmoney_item(raw: dict, slug: str, category: str, sublabel: str) -> dict | None:
+    code = raw.get("code")
+    show_time = raw.get("showTime")
+    if not code or not show_time:
+        return None
+    summary = clean_text(raw.get("summary") or "")
+    title = clean_text(raw.get("title") or "")
+    body = summary or title
+    if not body:
+        return None
+    return {
+        "id": f"em:{slug}:{code}",
+        "time": show_time,
+        "tags": [to_tw(category), to_tw(sublabel)],
+        "text": to_tw(body),
+    }
 
 
 def process_item(raw: dict) -> dict:
@@ -1950,13 +2052,28 @@ def main():
     mktnews_processed = [item for item in (process_mktnews_flash_item(r) for r in mktnews_raw_items) if item]
     mktnews_new_count = upsert_items(conn, mktnews_processed)
 
+    em_new_counts: dict[str, int] = {}
+    if EASTMONEY_TARGET > 0:
+        for slug, column_id, category, sublabel in EASTMONEY_SOURCES:
+            em_raw_items = fetch_eastmoney_fastnews(slug, column_id, EASTMONEY_TARGET)
+            em_processed = [
+                item for item in (
+                    process_eastmoney_item(r, slug, category, sublabel)
+                    for r in em_raw_items
+                ) if item
+            ]
+            em_new_counts[slug] = upsert_items(conn, em_processed)
+            time.sleep(0.5)
+
     clear_recent_ai_summaries_if_requested()
     update_ai_summaries(conn)
     update_central_bank_summaries(conn)
     updated, total = export_news_json(conn)
     conn.close()
     te_summary = "｜".join(f"TE {name} 新增 {count} 筆" for name, count in te_new_counts.items())
-    print(f"[OK] 快訊：新浪新增 {sina_new_count} 筆｜{te_summary}｜MKT News {mktnews_pages} 頁新增 {mktnews_new_count} 筆｜累計 {total} 筆")
+    em_total = sum(em_new_counts.values())
+    em_summary = f"東方財富 {len(em_new_counts)} 欄目新增 {em_total} 筆 (target={EASTMONEY_TARGET})"
+    print(f"[OK] 快訊：新浪新增 {sina_new_count} 筆｜{te_summary}｜MKT News {mktnews_pages} 頁新增 {mktnews_new_count} 筆｜{em_summary}｜累計 {total} 筆")
 
     # 2. 市場報價
     if HAS_YF:
