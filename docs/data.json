@@ -1,7 +1,15 @@
 {
-  "updated": "2026-05-17 14:36:19",
-  "count": 15364,
+  "updated": "2026-05-17 14:39:43",
+  "count": 15362,
   "items": [
+    {
+      "id": "4883718",
+      "time": "2026-05-17 14:36:41",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信證券：AI+能化可能是今年更合適的槓鈴結構】中信證券釋出研報稱，AI+能化可能是今年更合適的槓鈴結構。今年的AI+能化，或與2023-2024年的AI+紅利、2025年的AI+資源類似，有望在全年維度上，成為主要的供需缺口和超額收益來源。配置上，底層邏輯依然是中國優勢製造業定價權的重估，最具代表性的行業是新能源、化工、有色、電力裝置；繼續密切關注國產AI的進展，硬體側“量”的邏輯爆發仍然是目前AI鏈條上預期差較大的方向，而國產模型的進步有望推動雲服務量價齊升，看好國產算力、雲平臺。此外，建議繼續增配一些低估值品種，重點關注券商、保險。對於週期漲價品種，AIDC鏈、鋰電鏈這類週期成長品景氣度仍然持續，但目前預期差已經非常有限。建議關注供需最緊俏的環節，這體現在近期的漲價頻率上，主要有覆銅板、玻纖、高速矽、電子特氣、光纖、MLCC、鉻、碳酸鋰、稀土、碳纖維。對於傳統週期品，建議聚焦在真實發生系統性產能出清或者供給有絕對約束的品種上，比如磷化工、MDI、氨綸、染料、草甘膦、尿素、橡膠、製冷劑等。"
+    },
     {
       "id": "4883717",
       "time": "2026-05-17 14:34:45",
@@ -138570,35 +138578,6 @@
         "公司"
       ],
       "text": "挪威天然氣輸送公司GASSCO： 哈默菲斯特液化天然氣裝置突發非計劃停工，5月8日至5月13日期間，梅爾科亞氣田日均供氣減少1840萬立方米。"
-    },
-    {
-      "id": "4870229",
-      "time": "2026-05-10 14:39:26",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗軍方發言人表示：若敵人再次襲擊伊朗，將會被新式武器、全新作戰方式以及新的作戰戰場打得措手不及。"
-    },
-    {
-      "id": "4870228",
-      "time": "2026-05-10 14:39:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國疾病預防控制中心釋出健康防護提示】中國疾病預防控制中心溫馨提示：5月份需關注手足口病、登革熱、基孔肯雅熱、寨卡病毒病、人感染禽流感、猴痘、發熱伴血小板減少綜合徵、流行性腦脊髓膜炎。"
-    },
-    {
-      "id": "te:economy:549405",
-      "time": "2026-05-10 14:37:45",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Indonesia",
-        "Car Registrations",
-        "Importance 1"
-      ],
-      "text": "Indonesia Car Sales Jump 55% in April — New car sales in Indonesia surged 55.0% year-on-year to 80,776 units in April 2026, recovering from a 13.8% plunge in the previous month. The rebound came as activity returned to normal after the long Eid al-Fitr holiday in March. For the first four months of the year, car sales grew 12.5% compared to the same period in 2025, reaching 289,787 units. The Association of Indonesian Automotive Industries (Gaikindo) previously targeted domestic new car sales to reach 850,000 units in 2026. That figure represents a 5.8% increase from the 2025 total of 803,687 units. On a monthly basis, car sales also rose, jumping 31.8% from March, when sales totaled 61,271 units. Meanwhile, retail new car sales increased 13.7% month-on-month to 75,730 units."
     }
   ]
 }
