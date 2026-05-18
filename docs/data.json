@@ -1,7 +1,32 @@
 {
-  "updated": "2026-05-19 00:41:53",
-  "count": 15467,
+  "updated": "2026-05-19 00:45:51",
+  "count": 15461,
   "items": [
+    {
+      "id": "mkt:019e3bf7-74f5-7dd6-889c-bfd2c6ed81e0",
+      "time": "2026-05-19 00:42:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "A WHITE HOUSE OFFICIAL TELLS ME KEVIN WARSH WILL BE SWORN IN AS THE NEXT FED CHAIRMAN ON FRIDAY. THE CEREMONY WILL BE HOSTED BY PRESIDENT TRUMP AT THE WHITE HOUSE - FOX BIZ REPORTER"
+    },
+    {
+      "id": "4886386",
+      "time": "2026-05-19 00:41:50",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "據《華爾街日報》報道，特朗普將於週五主持沃什的美聯儲主席就職宣誓儀式。"
+    },
     {
       "id": "mkt:019e3bf4-668e-7dd6-889c-b5842a8c2589",
       "time": "2026-05-19 00:38:45",
@@ -139660,86 +139685,6 @@
         "WTI"
       ],
       "text": "BRENT, WTI CRUDE FUTURES RISE MORE THAN $4 A BARREL ON US, IRAN CEASEFIRE STALEMATE"
-    },
-    {
-      "id": "4872966",
-      "time": "2026-05-12 00:45:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國特使威特科夫、副總統萬斯、國務卿魯比奧與特朗普一同出席會議。"
-    },
-    {
-      "id": "mkt:019e17ed-859e-7dd9-b924-e4528ad194ca",
-      "time": "2026-05-12 00:45:02",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Hot",
-        "Policy",
-        "Breaking News 24h",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Trump Weighs Renewed Military Action Against Iran After Talks Stall】President Donald Trump met with his national security team Monday to discuss next steps in the Iran conflict, including possible renewed military action, after Tehran rejected a US proposal to end the war. Trump said Iran’s response was “inappropriate” and described the ceasefire as being “on massive life support.” US officials said Trump still wants a deal but is considering military options to pressure Iran over its nuclear program. Possible measures include restarting maritime operations in the Strait of Hormuz or resuming strikes on remaining Iranian targets. Officials said Trump is unlikely to order action before returning from his China trip later this week."
-    },
-    {
-      "id": "mkt:019e17ec-4d80-7dd9-b924-dcd2dfb2fed6",
-      "time": "2026-05-12 00:43:42",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "TRUMP WEIGHS MILITARY ACTION AGAINST IRAN: AXIOS TRUMP MEETING WITH NATIONAL SECURITY TEAM ON IRAN MONDAY: AXIOS"
-    },
-    {
-      "id": "4872965",
-      "time": "2026-05-12 00:43:34",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "標普500指數和納斯達克100指數迅速回吐漲幅。"
-    },
-    {
-      "id": "4872964",
-      "time": "2026-05-12 00:43:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普將與團隊討論伊朗戰爭的未來走向。"
-    },
-    {
-      "id": "4872963",
-      "time": "2026-05-12 00:43:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普週一與國家安全團隊就伊朗問題舉行會議。"
-    },
-    {
-      "id": "4872962",
-      "time": "2026-05-12 00:42:17",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普考慮對伊朗採取軍事行動。"
-    },
-    {
-      "id": "4872961",
-      "time": "2026-05-12 00:42:00",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國量化交易巨頭哈德遜河交易公司（HRT）斬獲64 億美元創紀錄市場交易收益。"
     }
   ]
 }
