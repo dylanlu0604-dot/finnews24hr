@@ -1,7 +1,237 @@
 {
-  "updated": "2026-05-18 17:00:09",
-  "count": 15661,
+  "updated": "2026-05-18 17:04:13",
+  "count": 15676,
   "items": [
+    {
+      "id": "te:economy:551563",
+      "time": "2026-05-18 17:03:37",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Bulgaria",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Bulgaria Inflation Rate Rises Near 3-Year High — The annual inflation rate in Bulgaria climbed to 6.8% in April 2026 from 4.1% in the previous month, revising lower from the preliminary estimate of 7.1%. It marked the highest reading since August 2023, as prices accelerated for food and non-alcoholic beverages (5.3% vs 3.7% in March), alcoholic beverages, tobacco, and narcotics (7.4% vs 6.7%), housing and utilities (4.7% vs 4.1%), furnishings, household equipment and routine household maintenance (1.2% vs 0.1%), transport (18.5% vs 5.8%), recreation, sport, and culture (17.0% vs 16.8%), education (9.1% vs 8.5%), restaurants and accommodation services (9.3% vs 9.0%), insurance and financial services (2.7% vs 0.7%), and miscellaneous goods and services (6.7% vs 5.7%). Additionally, costs rebounded for health (4.3% vs -4.6%) and information and communication (0.3% vs -2.7%), while clothing and footwear prices remained flat. On a monthly basis, consumer prices rose 1.8%, the fastest increase in over a year, after a 0.9% gain in March."
+    },
+    {
+      "id": "mkt:019e3a53-7427-7dd6-8897-0832c70e6d3d",
+      "time": "2026-05-18 17:03:25",
+      "tags": [
+        "MKT News",
+        "MSFT.O"
+      ],
+      "text": "DUBAI HOLDINGS ANNOUNCES COLLABORATION WITH MICROSOFT TO EMBED AI AT CORE OF ITS OPERATIONS- DUBAI MEDIA OFFICE"
+    },
+    {
+      "id": "4885534",
+      "time": "2026-05-18 17:03:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "深交所：2026年5月18日，天海電子（證券程式碼：001365）在深交所舉行上市儀式。"
+    },
+    {
+      "id": "4885533",
+      "time": "2026-05-18 17:03:17",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【納指科技ETF景順：溢價交易提示風險並將於19日臨時停牌】納指科技ETF景順公告稱，近期基金二級市場交易價格明顯高於參考淨值，2026年5月18日收盤價為2.482元，參考淨值為2.1988元。為保護投資者，基金將於5月19日開市起停牌，10:30起復牌，停牌期間贖回業務照常。若溢價未有效回落，基金有權採取進一步停牌措施。目前基金運作正常，無應披露未披露重大資訊。"
+    },
+    {
+      "id": "4885532",
+      "time": "2026-05-18 17:03:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "百度2026年Q1人工智慧雲基礎設施收入為88億元人民幣。"
+    },
+    {
+      "id": "mkt:019e3a53-13bb-7dd6-8897-024180dbdb50",
+      "time": "2026-05-18 17:03:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "DXY",
+        "Impact bullish",
+        "CNH",
+        "Impact bearish",
+        "Hang Seng Index"
+      ],
+      "text": "FITCH: DOWNGRADE FOLLOWS CHINA VANKE'S RECENT COMPLETION OF ONSHORE BOND RESTRUCTURING, WHICH FITCH VIEWS AS DISTRESSED DEBT EXCHANGE"
+    },
+    {
+      "id": "4885531",
+      "time": "2026-05-18 17:02:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "瑞安航空首席執行：歐洲航空煤油供應仍十分充足。"
+    },
+    {
+      "id": "4885530",
+      "time": "2026-05-18 17:02:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "渣打集團於5月15日在其他交易所合計回購773,158股股份，回購總金額為1460萬英鎊。"
+    },
+    {
+      "id": "mkt:019e3a52-d2f4-7dd6-8896-fdf36f6575b9",
+      "time": "2026-05-18 17:02:41",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China Tech Giants",
+        "IQ.O",
+        "Impact bearish"
+      ],
+      "text": "IQIYI Q1 REVENUE FALLS 13% Y/Y"
+    },
+    {
+      "id": "4885529",
+      "time": "2026-05-18 17:02:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "百度集團第一季度調整後營業利潤38.1億元人民幣。"
+    },
+    {
+      "id": "mkt:019e3a52-9f3b-7dd6-8896-f68a72d5cf12",
+      "time": "2026-05-18 17:02:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "000002.SZ",
+        "Impact bearish",
+        "CSI300"
+      ],
+      "text": "FITCH DOWNGRADES CHINA VANKE TO 'RD'"
+    },
+    {
+      "id": "4885528",
+      "time": "2026-05-18 17:02:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "百度集團第一季度核心AI新業務收入為136億元人民幣。"
+    },
+    {
+      "id": "mkt:019e3a52-304b-7dd6-8896-e82db166137e",
+      "time": "2026-05-18 17:02:05",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "Market Regions",
+        "Greater China",
+        "XPEV.O",
+        "Impact bullish"
+      ],
+      "text": "CHINA'S XPENG: THE ROBOTAXI BUILT ON XPENG GX PLATFORM, IS CHINA'S FIRST PRODUCTION-READY, PRE-ASSEMBLED MODEL DEVELOPED ENTIRELY WITH IN-HOUSE TECHNOLOGIES - STATEMENT CHINA'S XPENG: AIMS TO ACHIEVE FULLY AUTONOMOUS OPERATIONS WITHOUT ON-SITE SAFETY OFFICER BY EARLY 2027 - STATEMENT CHINA'S XPENG: PLANS TO INITIATE PILOT ROBOTAXI OPERATIONS IN H2 TO VALIDATE TECHNICAL VIABILITY- STATEMENT CHINA'S XPENG: FIRST MASS-PRODUCED ROBOTAXI OFFICIALLY ROLLS OFF PRODUCTION LINE IN GUANGZHOU - STATEMENT CHINA'S XPENG: THE ROBOTAXI ADOPTS PURE VISION SOLUTION - STATEMENT"
+    },
+    {
+      "id": "4885527",
+      "time": "2026-05-18 17:01:45",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "花旗集團將萊茵金屬評級從中性上調至買入；目標股價從1480歐元下調至1408歐元。"
+    },
+    {
+      "id": "mkt:019e3a51-aa19-7dd6-8896-e683b5af66e7",
+      "time": "2026-05-18 17:01:30",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China Tech Giants",
+        "BIDU.O"
+      ],
+      "text": "BAIDU Q1 EARNINGS PER ADS RMB 8.76 BAIDU Q1 ADJUSTED EARNINGS PER ADS RMB 12.06"
+    },
+    {
+      "id": "mkt:019e3a51-7476-7dd6-8896-dc5545188207",
+      "time": "2026-05-18 17:01:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "China Tech Giants",
+        "BIDU.O"
+      ],
+      "text": "BAIDU Q1 ADJUSTED EBITDA MARGIN 19%"
+    },
+    {
+      "id": "4885525",
+      "time": "2026-05-18 17:01:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【阿里QoderWork上線AI Native設計工作臺】據阿里雲訊息，5月18日，QoderWork正式上線設計工作臺（Design Desk），支援語音輸入，使用者可直接透過語音描述需求、下達指令，即可在無限畫布上獲得可執行、可編輯、可交付的設計產物，普通人也能產出專業設計。據介紹，設計工作臺是QoderWork自定義工作臺的首個細分領域模式，內建一百多種風格參考與數十個設計技能，實現了設計即程式碼。設計師與研發從第一步起操作同一份可執行檔案，設計產物可一鍵交付至Qoder IDE等開發工具，設計產物直接進入研發環節。"
+    },
+    {
+      "id": "mkt:019e3a51-4282-7dd6-8896-d1001be22fcf",
+      "time": "2026-05-18 17:01:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution",
+        "Market Regions",
+        "Greater China",
+        "BIDU.O"
+      ],
+      "text": "BAIDU INC - REVENUE FROM AI CLOUD INFRA WAS RMB 8.8 BILLION IN THE FIRST QUARTER OF 2026"
+    },
+    {
+      "id": "4885524",
+      "time": "2026-05-18 17:01:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "小鵬汽車：基於小鵬GX平臺打造的機器人計程車，是中國首款完全採用內部技術開發的量產預裝車型。計劃在2027年初實現無需現場安全員的完全自主運營。"
+    },
+    {
+      "id": "4885523",
+      "time": "2026-05-18 17:00:46",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【百度集團第一季度營收320.8億元人民幣，預估314.9億元人民幣】百度集團第一季度調整後營業利潤38.1億元人民幣，第一季度經調整每ADS利潤 12.06元人民幣。"
+    },
+    {
+      "id": "te:markets:551559",
+      "time": "2026-05-18 17:00:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: New Zealand Dollar Rises by 0.38% — Top currency gainers are New Zealand Dollar (0.38%), British Pound (0.38%), Swedish Krona (0.32%) and Euro (0.14%). Biggest losers are Dollar Index (-0.17%) and Japanese Yen (-0.07%)."
+    },
+    {
+      "id": "4885522",
+      "time": "2026-05-18 16:59:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國邦醫藥：全資子公司參設基金合夥人變更 持股比例降至14.2857%】國邦醫藥公告稱，公司全資子公司國邦投資此前參與設立杭州啟真開物股權投資基金合夥企業，認繳1000萬元，佔比20%。近日，海南芯動聯科投資有限公司、北京富饒國際文化藝術發展有限公司認購新增出資1000萬元加入，有限合夥人廣東越科能源發展有限公司將1000萬元合夥份額轉讓給楊琪。因認繳規模增加，國邦投資持股比例降至14.2857%。此次變更對公司無重大影響。"
+    },
+    {
+      "id": "4885521",
+      "time": "2026-05-18 16:59:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【星環科技：持股5%以上股東減持股份比例觸及1%】星環科技公告稱，持股5%以上股東林芝利創資訊科技有限公司於2026年4月9日至5月18日，透過集中競價方式減持公司股份34.6661萬股，持股比例由6.29%降至6.00%，權益變動比例觸及1%。本次減持系履行此前披露的減持計劃，不觸及要約收購，不會導致控股股東、實際控制人變化，也不會對公司治理結構及持續經營產生重大影響。"
+    },
     {
       "id": "mkt:019e3a4f-9257-7dd6-8896-c9a9d89b57e3",
       "time": "2026-05-18 16:59:13",
@@ -141449,80 +141679,6 @@
         "國際"
       ],
       "text": "【韓國Hyundai Motor證券：年底韓國KOSPI指數的樂觀預測為1.2萬點】韓國Hyundai Motor證券預計到今年年底韓國KOSPI指數將升至9750點，樂觀預測為12000點，悲觀預測為6000點。該公司的研究員Kim Jae-seung表示：“從積極方面來看，基於對MoneyMove的信心以及半導體行業的長期盈利情況，我們預計短期內指數將飆升至12000點。”他還補充道：“從消極方面來看，假設一些公司會在AI競賽中落後，則預測指數會跌至6000點。”"
-    },
-    {
-      "id": "mkt:019e1647-0dcf-7dd9-b91d-109771f4a157",
-      "time": "2026-05-11 17:03:35",
-      "tags": [
-        "MKT News",
-        "INTC.O",
-        "Impact bullish"
-      ],
-      "text": "INTEL SHARES RISE 3.8% PREMARKET FOLLOWING FRIDAY'S 14% RALLY"
-    },
-    {
-      "id": "4871987",
-      "time": "2026-05-11 17:03:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【友訊達：公司中標國家電網中標金額約為人民幣1.69億元】友訊達公告，近日，公司收到了招標代理機構國網物資有限公司發來的《中標通知書》。公司中標國家電網有限公司2026年營銷專案第一次計量裝置公開招標採購，中標金額約為人民幣1.69億元，佔公司2025年經審計營業收入的21.16%。"
-    },
-    {
-      "id": "4871986",
-      "time": "2026-05-11 17:03:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "菲律賓眾議院11日透過對副總統莎拉·杜特爾特的彈劾案，該案後續將遞交參議院審理。（新華社）"
-    },
-    {
-      "id": "4871984",
-      "time": "2026-05-11 17:02:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家衛生健康委：截至2025年底 全國註冊護士總量超606萬】5月12日是國際護士節，2026年我國護士節的主題是“發展壯大護士隊伍，用心守護人民健康”。記者今天從國家衛生健康委瞭解到，全國護理工作發展取得積極成效。護士隊伍不斷發展壯大，截至2025年底，全國註冊護士總量達到606.2萬，較2020年增加約135萬，增幅約29%，每千人口註冊護士數從2020年的3.34人提升至2025年的4.32人。護士隊伍專業素質能力不斷提升，具有大專以上學歷護士佔比超過80%，康復、老年、兒科、重症監護、傳染病等緊缺薄弱護理專業護士參加培訓比例超過90%。護理服務持續最佳化，實施改善護理服務行動計劃，全國二級及以上公立醫院中，約94%開展優質護理服務，二級及以上醫院提供延續性護理服務的病區佔比超85%，解決患者出院後的常規護理、專病護理問題。一些醫療機構積極探索開展免陪照護服務試點，解決“一人住院、全家受累”的難題。護理內涵領域豐富拓展，加快落實老年護理發展舉措，實施老年護理提升行動，擴大“網際網路+護理服務”覆蓋面、推動發展老年居家護理服務。目前全國共計近6000家醫療機構為群眾提供7類60餘項上門護理服務專案，覆蓋母嬰護理、老年護理、慢病管理、康復指導、安寧療護等，護理工作逐漸從院內延伸至院外，覆蓋全人群全生命週期。（央視新聞）"
-    },
-    {
-      "id": "4871981",
-      "time": "2026-05-11 17:01:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "菲律賓眾議院投票透過彈劾副總統。"
-    },
-    {
-      "id": "mkt:019e1644-b2fe-7dd9-b91d-0e7af28c41e0",
-      "time": "2026-05-11 17:01:01",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Wall Street (US)",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "HSBC RAISES ITS S&P 500 YEAR-END 2026 TARGET FROM 7,500 TO 7,650 POINTS"
-    },
-    {
-      "id": "4871980",
-      "time": "2026-05-11 17:00:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "寶成國際集團：2026年四月合併營運淨收入為13.8億元人民幣。"
-    },
-    {
-      "id": "te:markets:549623",
-      "time": "2026-05-11 17:00:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: Indian Rupee Drops by 0.66% — Top currency losers are Indian Rupee (-0.66%), South Korean Won (-0.64%), New Zealand Dollar (-0.28%), Japanese Yen (-0.25%), British Pound (-0.15%) and Euro (-0.12%). Gains are led by Dollar Index (0.09%)."
     }
   ]
 }
