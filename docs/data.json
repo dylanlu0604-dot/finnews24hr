@@ -1,7 +1,15 @@
 {
-  "updated": "2026-05-19 00:21:39",
-  "count": 15479,
+  "updated": "2026-05-19 00:25:45",
+  "count": 15472,
   "items": [
+    {
+      "id": "4886375",
+      "time": "2026-05-19 00:22:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐洲藥品管理局：依據歐洲疾控中心釋出的評估報告，目前歐盟及歐洲經濟區居民面臨的風險處於極低水平。"
+    },
     {
       "id": "te:markets:551676",
       "time": "2026-05-19 00:20:31",
@@ -139748,83 +139756,6 @@
         "其他"
       ],
       "text": "奈飛現跌超1%。"
-    },
-    {
-      "id": "4872942",
-      "time": "2026-05-12 00:25:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普尋求暫停徵收聯邦汽油稅 “直到合適的時候為止”】美國總統特朗普在白宮對記者表示，他將尋求暫停徵收聯邦汽油稅，“直到合適的時候為止”。特朗普還表示，“它佔比很小，但畢竟也是錢”。"
-    },
-    {
-      "id": "4872941",
-      "time": "2026-05-12 00:24:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國德克薩斯州起訴奈飛，指控其暗中監視消費者，未經同意收集消費者資料。"
-    },
-    {
-      "id": "mkt:019e17da-380a-7dd9-b924-b039cce82f55",
-      "time": "2026-05-12 00:23:53",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Crypto Concepts",
-        "Bitcoin",
-        "Impact bullish",
-        "Ethereum"
-      ],
-      "text": "UAE OFFICIALLY ALLOWS RESIDENTS TO PAY GOVERNMENT FEES WITH CRYPTO"
-    },
-    {
-      "id": "mkt:019e17d9-ce9d-7dd9-b924-ad31f4de06ec",
-      "time": "2026-05-12 00:23:30",
-      "tags": [
-        "MKT News",
-        "NFLX.O",
-        "Impact bearish"
-      ],
-      "text": "NETFLIX SUED BY TEXAS FOR ALLEGEDLY SPYING ON CONSUMERS, COLLECTING THEIR DATA WITHOUT CONSENT"
-    },
-    {
-      "id": "mkt:019e17d9-a2de-7dd9-b924-a42478ecf5e3",
-      "time": "2026-05-12 00:23:19",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Tesla",
-        "Market Themes",
-        "Magnificent 7"
-      ],
-      "text": "FORMER TESLA CFO DEEPAK AHUJA JOINS EV BATTERY RECYCLER REDWOOD MATERIALS - CNBC"
-    },
-    {
-      "id": "mkt:019e17d9-0812-7dd9-b924-981e3f9f470c",
-      "time": "2026-05-12 00:22:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TRUMP SAYS US SERIOUSLY CONSIDERING MAKING VENEZUELA THE 51ST STATE"
-    },
-    {
-      "id": "4872940",
-      "time": "2026-05-12 00:22:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "奈及利亞：武裝分子在北部地區殺害約40人。"
-    },
-    {
-      "id": "4872939",
-      "time": "2026-05-12 00:21:39",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "阿聯酋正式允許居民使用加密貨幣繳納政府相關費用。"
     }
   ]
 }
