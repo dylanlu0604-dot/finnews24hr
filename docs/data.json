@@ -1,7 +1,49 @@
 {
-  "updated": "2026-05-19 06:52:07",
-  "count": 15587,
+  "updated": "2026-05-19 06:56:00",
+  "count": 15590,
   "items": [
+    {
+      "id": "te:economy:551706",
+      "time": "2026-05-19 06:55:08",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "PPI Input",
+        "Importance 1"
+      ],
+      "text": "New Zealand PPI Input Rises the Most in 1 Year — Producer input prices in New Zealand increased by 1.4% quarter-on-quarter in the three months to March 2026, recovering from a 0.5% drop in the previous quarter and surpassing market expectations of a 0.8% rise. It was the fastest increase since Q1 of 2025."
+    },
+    {
+      "id": "4886680",
+      "time": "2026-05-19 06:54:52",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【中國駐俄大使人民日報撰文：元首外交掌舵領航，中俄關系乘風破浪】應國家主席習近平邀請，俄羅斯總統普京將於5月19日至20日對中國進行國事訪問。習近平主席同普京總統將舉行重要會晤，為新時代中俄關系發展把舵定向、擘畫藍圖。長期以來，中俄元首保持密切溝通，續寫友誼佳話，以高瞻遠矚的政治引領和親力親為的戰略謀劃，推動中俄關系取得了一系列歷史性、標誌性成果，為兩國關係行穩致遠提供最根本、最可靠保障。當前，世界進入新的動盪變革期，國際局勢複雜演變，全球性挑戰日益突出。成熟穩健、高水平發展的中俄關系不僅是兩國各自發展振興的堅實保障，更為完善全球治理與世界持久繁榮注入寶貴的穩定性與正能量。在兩國元首的親自掌舵領航下，中俄關系的時代巨輪必將乘風破浪、揚帆向前，駛向更加繁榮美好的未來，續寫新時代中俄友好合作的壯麗篇章。"
+    },
+    {
+      "id": "te:economy:551705",
+      "time": "2026-05-19 06:52:26",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "Credit Card Spending",
+        "Importance 1"
+      ],
+      "text": "New Zealand Credit Card Spending Falls 1.3% — Seasonally adjusted electronic card transactions in New Zealand fell 1.3% month-over-month in April 2026, reversing a 0.7% rise in the previous month. It marked the first decline in three months, as spending in all categories dropped, including consumables (-2.1% vs. 1.1% in March), hospitality (-1.3%), durables (-1.1% vs. 1.2%), fuel (-2.0%), motor vehicles (-4.1%), and apparel (-1.3%)."
+    },
+    {
+      "id": "4886679",
+      "time": "2026-05-19 06:52:16",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【美國證監會擬定股票通證化代幣交易相關方案】訊息人士稱，特朗普政府計劃出臺相關監管框架，允許開展證券通證化數字代幣交易。美國證券交易委員會最快將於本週針對股票通證代幣推出一項創新豁免條例。此舉凸顯特朗普政府有意推動股票交易入駐加密貨幣交易平臺，有望為傳統交易所之外的股票交易開闢全新監管路徑。"
+    },
     {
       "id": "4886678",
       "time": "2026-05-19 06:50:59",
@@ -140859,15 +140901,6 @@
         "國際"
       ],
       "text": "【人民日報鐘聲：以大歷史觀把握中美關係發展方向】人民日報鐘聲文章指出，越是動盪時刻，世界越期待穩定的力量。中美兩國各展所長、攜手共進，多辦有利於兩國和世界的大事、實事、好事，將為破解全球性難題、推動人類共同發展，提供更多“1+1＞2”的解決方案。期待以中美元首會晤為契機，中美兩國共同走出一條正確相處之道，相互成就，共同繁榮，惠及世界。"
-    },
-    {
-      "id": "4873253",
-      "time": "2026-05-12 06:52:50",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【期價突破20萬元/噸，碳酸鋰“高漲”勢頭持續】碳酸鋰期貨價格5月11日繼續保持上漲勢頭，主力合約2609上漲3.51%，報收205020元/噸，創下兩年來新高。自年初12萬元/噸起步，碳酸鋰期貨價格5個月內漲幅超過40%。碳酸鋰現貨與期貨價格保持聯動，我的鋼鐵網資料顯示，5月11日，電池級碳酸鋰（晚盤）均價報195400元/噸，噸價較8日上漲2150元。“此番鋰價強勢反彈，核心來自供給收縮預期與需求端爆發增長的共振。”有熟悉鋰礦產業人士分析認為，隨著鋰價走強，產業端也是動作頻頻。目前來看，下游對鋰價上漲還是具備一定“容忍度”的，短期內仍具備一定上漲空間。（上證報）"
     }
   ]
 }
