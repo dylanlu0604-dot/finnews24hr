@@ -1,7 +1,131 @@
 {
-  "updated": "2026-05-19 01:13:37",
-  "count": 15468,
+  "updated": "2026-05-19 01:17:40",
+  "count": 15472,
   "items": [
+    {
+      "id": "4886415",
+      "time": "2026-05-19 01:16:36",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "週一（5月18日），美聯儲隔夜逆回購協議（RRP）使用規模為71.93億美元，上個交易日報6.47億美元。"
+    },
+    {
+      "id": "4886414",
+      "time": "2026-05-19 01:16:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：戴爾與 OpenAI 還將探索 Codex 模型與戴爾人工智慧算力工廠的聯動融合方式。"
+    },
+    {
+      "id": "4886413",
+      "time": "2026-05-19 01:16:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI 與戴爾達成合作，將 Codex 模型部署至企業混合雲及本地部署環境。"
+    },
+    {
+      "id": "mkt:019e3c16-8bd9-7dd6-889d-4f157c474f53",
+      "time": "2026-05-19 01:15:41",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "DELL.N",
+        "Impact bullish"
+      ],
+      "text": "OPENAI AND DELL PARTNER TO BRING CODEX TO HYBRID AND ON-PREMISE ENTERPRISE ENVIRONMENTS"
+    },
+    {
+      "id": "mkt:019e3c15-ef7e-7dd6-889d-436829945493",
+      "time": "2026-05-19 01:15:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "KATAYAMA: WE NEED TO ADDRESS RISKS REGARDING MYTHOS"
+    },
+    {
+      "id": "4886412",
+      "time": "2026-05-19 01:15:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美媒：白宮認為伊朗最新提案無實質性改進 考慮重啟軍事行動】據美國阿克西奧斯新聞網站18日援引美方高階官員的話報道，白宮認為伊朗最新提案沒有實質性改進，不足以作為達成協議的基礎，美總統特朗普正考慮重啟軍事行動。報道說，伊朗透過巴基斯坦於17日晚向美方提交一份旨在結束戰事的最新協議草案，但相較於上一版本僅作了一些“象徵性微調”，且未就其核計劃作出實質性讓步。一名美方高階官員稱，目前談判正處在“非常嚴峻”的境地，若伊朗拒不改變立場，美方將不得不“透過炸彈”來繼續這場談判。(新華社)"
+    },
+    {
+      "id": "4886411",
+      "time": "2026-05-19 01:15:10",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "日本財務大臣片山皋月：油價波動正在影響外匯市場。 已向七國集團提出，各方需採取行動修正全球經濟失衡問題。"
+    },
+    {
+      "id": "te:markets:551683",
+      "time": "2026-05-19 01:15:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Tech Pressured US Stock Indices — Tech stocks slipped and pressured US equity indices on Monday, extending their pullback from record highs, while high energy prices maintained risks of higher inflation. The S&P 500 and the Nasdaq dropped 0.3% and 1%, respectively, but the Dow was flat on strength for traditional sectors of the economy. AI infrastructure companies were sharply lower as lower risk sentiment and lingering skepticism on the magnitude of AI spending growth trimmed the sector's rally from this year. Micron, Applied Materials, and Sandisk dropped between 5% and 7%. Additionally, Seagate plunged 8% after its rhetoric from its management cast doubt on the sustainability of memory chip demand. Consistently, AI hyperscalers were lower with Tesla and Oracle dropping 3%. Also, Nvidia shares retreated 2% ahead of its earnings this week, seen as a bellwether for AI demand globally. Chevron, 3M, and Honeywell were sharply higher to support the Dow."
+    },
+    {
+      "id": "mkt:019e3c15-5611-7dd6-889d-3f2e5730cdc1",
+      "time": "2026-05-19 01:14:35",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact mixed",
+        "EURUSD",
+        "WTI"
+      ],
+      "text": "KATAYAMA: VOLATILITY IN OIL PRICES IS AFFECTING FOREX MARKET KATAYAMA: TOLD G7 WE NEED TO TAKE ACTION TO CORRECT GLOBAL IMBALANCE"
+    },
+    {
+      "id": "4886410",
+      "time": "2026-05-19 01:14:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山皋月：看到金融市場出現投機性動向。"
+    },
+    {
+      "id": "mkt:019e3c14-1b40-7dd6-889d-33e99b73b9e3",
+      "time": "2026-05-19 01:13:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "JAPANESE FINANCE MINISTER KATAYAMA: SEEING SPECULATIVE MOVES IN THE FINANCIAL MARKET"
+    },
+    {
+      "id": "mkt:019e3c13-f9c2-7dd6-889d-2ccf5f4ec512",
+      "time": "2026-05-19 01:13:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "APPLE KICKS OFF WORLDWIDE DEVELOPERS CONFERENCE ON JUNE 8"
+    },
+    {
+      "id": "4886409",
+      "time": "2026-05-19 01:13:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果：6 月 8 日於蘋果園區舉辦專屬特別釋出會。"
+    },
     {
       "id": "4886408",
       "time": "2026-05-19 01:12:45",
@@ -139690,93 +139814,6 @@
         "美聯儲"
       ],
       "text": "週一（5月11日），美聯儲隔夜逆回購協議（RRP）使用規模為11.33億美元。"
-    },
-    {
-      "id": "mkt:019e180a-c809-7dd9-b925-3a387730e1bb",
-      "time": "2026-05-12 01:17:00",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "UKRAINE'S ZELENSKIY: RUSSIA HAS NO INTENTION OF ENDING THIS WAR AND WE ARE PREPARING FOR NEW ATTACKS"
-    },
-    {
-      "id": "mkt:019e180a-8e48-7dd9-b925-3740890af209",
-      "time": "2026-05-12 01:16:45",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7",
-        "AAPL.O"
-      ],
-      "text": "APPLE LAUNCHES FULLY ENCRYPTED RCS MESSAGING IN BETA"
-    },
-    {
-      "id": "4872992",
-      "time": "2026-05-12 01:16:29",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "週一（5月11日），美聯儲隔夜逆回購協議（RRP）使用規模為11.33億美元，上個交易日報7.87億美元。"
-    },
-    {
-      "id": "4872991",
-      "time": "2026-05-12 01:16:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "法國總統埃馬克龍在內羅畢出席青年論壇時，因現場私下交談聲蓋過發言人講話，中途叫停會議。他斥責這種擾亂秩序的行為極度缺乏尊重，並敦促與會者到場外進行私下交談，保障論壇議程正常進行。"
-    },
-    {
-      "id": "te:economy:549721",
-      "time": "2026-05-12 01:16:21",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Canada",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Canada 10-Year Government Bond Yield Rises on Inflation Concerns — Canada’s 10-year government bond yield rose to 3.55% on May 11, rebounding from the two-week low of 3.48% on May 7th as higher oil prices renewed concerns over a potential inflation shock. Crude prices advanced after US President Donald Trump rejected Iran’s response to a proposed peace agreement, reviving fears of prolonged supply disruptions in the Middle East. The developments came after March inflation data had already highlighted the impact of elevated energy prices on Canada’s consumer prices, keeping markets alert to renewed upside inflation risks. The annual inflation rate rose to 2.4%, tying the highest level in one year. Still, the Bank of Canada signaled that it did not see elevated risks of energy inflation becoming entrenched in its last decision. The central bank left interest rates unchanged at its latest meeting."
-    },
-    {
-      "id": "4872990",
-      "time": "2026-05-12 01:14:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "蘋果向iOS 26.5使用者開放加密RCS聊天功能。"
-    },
-    {
-      "id": "4872989",
-      "time": "2026-05-12 01:14:44",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "蘋果公司：端到端加密富媒體通訊服務今日起開始向測試版推送。"
-    },
-    {
-      "id": "4872988",
-      "time": "2026-05-12 01:14:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "蘋果推出端到端加密RCS messaging測試版。"
-    },
-    {
-      "id": "4872987",
-      "time": "2026-05-12 01:13:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "伊拉克國家安全顧問：我們反對利用伊拉克領土作為任何敵對行動的跳板。"
     }
   ]
 }
