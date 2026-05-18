@@ -1,7 +1,414 @@
 {
-  "updated": "2026-05-19 01:21:36",
-  "count": 15466,
+  "updated": "2026-05-19 01:56:46",
+  "count": 15465,
   "items": [
+    {
+      "id": "mkt:019e3c3a-acc2-7dd6-889e-0d6eb02c41ac",
+      "time": "2026-05-19 01:55:38",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O",
+        "Impact bullish"
+      ],
+      "text": "AMAZON - CELONIS ANNOUNCES EXPANDED COLLABORATION WITH AWS"
+    },
+    {
+      "id": "mkt:019e3c3a-9e30-7dd6-889e-047746a92aa5",
+      "time": "2026-05-19 01:55:34",
+      "tags": [
+        "MKT News",
+        "NOW.O",
+        "Impact bullish"
+      ],
+      "text": "SERVICENOW SHARES EXTEND GAINS, LAST UP 9.5%"
+    },
+    {
+      "id": "4886436",
+      "time": "2026-05-19 01:54:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西經濟政策秘書處：扣除各州及地方政府分成後，聯邦政府因石油行情衝擊每月新增財政收入約 60 億雷亞爾。"
+    },
+    {
+      "id": "4886435",
+      "time": "2026-05-19 01:54:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：韓國將加入日本聯合石油儲備計劃。"
+    },
+    {
+      "id": "4886434",
+      "time": "2026-05-19 01:49:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美官員否認美國同意談判期間暫時豁免對伊朗石油制裁】當地時間18日獲悉，一名美國官員表示，伊朗方面關於“美國已同意在談判進行期間解除對伊朗石油制裁”的訊息是“虛假的”。當天早些時候，伊朗方面援引談判團隊相關訊息人士的話稱，美國在最新談判文字中，已同意在談判期間對伊朗石油制裁實施臨時豁免。（央視新聞）"
+    },
+    {
+      "id": "mkt:019e3c34-d8f2-7dd6-889d-fb220fc8948c",
+      "time": "2026-05-19 01:49:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "AN AMERICAN MISSIONARY HAS TESTED POSITIVE FOR EBOLA -FOX NEWS"
+    },
+    {
+      "id": "4886433",
+      "time": "2026-05-19 01:48:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國一地發現漢坦病毒死亡病例 無關郵輪疫情】據美國媒體18日報道，科羅拉多州日前發現的一例本地感染漢坦病毒死亡病例與“洪迪厄斯”號郵輪疫情無關。科羅拉多州公共衛生與環境部此前發表宣告稱，該死亡病例為道格拉斯縣一名成年居民。初步調查顯示，感染可能與接觸當地齧齒動物有關。目前公眾感染風險仍然較低，相關調查仍在進行中。"
+    },
+    {
+      "id": "4886432",
+      "time": "2026-05-19 01:46:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西經濟政策秘書處：我們預估受石油市場衝擊影響，每月可新增約 85 億雷亞爾財政收入。"
+    },
+    {
+      "id": "mkt:019e3c31-6413-7dd6-889d-f559bc763640",
+      "time": "2026-05-19 01:45:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "EU LINKS PORTION OF UKRAINE EUR 90 BLN AID TO UNPOPULAR TAX MEASURE"
+    },
+    {
+      "id": "4886431",
+      "time": "2026-05-19 01:44:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：歐盟將烏克蘭 900 億歐元援助部分款項，與一項不受民眾歡迎的稅收措施掛鉤。"
+    },
+    {
+      "id": "te:markets:551685",
+      "time": "2026-05-19 01:44:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Orange Juice Hits 8-week Low — Orange Juice decreased to 160.15 USd/Lbs, the lowest since March 2026. Over the past 4 weeks, Orange Juice lost 8.98%, and in the last 12 months, it decreased 35.91%."
+    },
+    {
+      "id": "mkt:019e3c2c-a485-7dd6-889d-ed42354c32fb",
+      "time": "2026-05-19 01:40:19",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Crypto Concepts",
+        "Bitcoin",
+        "Impact bullish",
+        "Ethereum"
+      ],
+      "text": "REVOLUT UNVEILS FIRST PHYSICAL CRYPTO CARD AS INDUSTRY-WIDE CARD USAGE GROWS"
+    },
+    {
+      "id": "mkt:019e3c29-7f1c-7dd6-889d-e7f784aa828e",
+      "time": "2026-05-19 01:36:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Hot",
+        "Policy",
+        "Breaking News 24h"
+      ],
+      "text": "【Jury Rejects Elon Musk’s Lawsuit Against OpenAI and Sam Altman】A jury sided with Sam Altman and OpenAI in a lawsuit brought by Elon Musk alleging the company improperly shifted from a nonprofit mission to a for-profit structure. The verdict followed a three-week trial in federal court in Oakland, California, and removes a major legal overhang for OpenAI’s planned IPO efforts. Musk had sought damages exceeding $180 billion, removal of Altman and President Greg Brockman, and reversal of OpenAI’s governance changes. OpenAI argued Musk supported the for-profit structure before leaving to launch a rival AI venture."
+    },
+    {
+      "id": "mkt:019e3c28-8e19-7dd6-889d-d81438de3f04",
+      "time": "2026-05-19 01:35:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ISRAELI CHANNEL 12: WASHINGTON INFORMED ISRAEL THAT ITS REFUELING AIRCRAFT WILL REMAIN AT BEN GURION UNTIL THE END OF THE YEAR"
+    },
+    {
+      "id": "4886429",
+      "time": "2026-05-19 01:35:42",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "日本財務大臣片山皋月： 七國集團將在下月峰會前夕，商討應對Mythos相關風險的具體舉措。"
+    },
+    {
+      "id": "mkt:019e3c28-1ba7-7dd6-889d-d36ba325c8ae",
+      "time": "2026-05-19 01:35:21",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "【Apple Prepares AI Writing Tools, Smart Shortcuts and Wallpaper Generation for iOS 27】Apple is preparing new AI features for iOS 27 and iPadOS 27, including grammar checking, natural-language shortcut creation and AI-generated wallpapers, according to people familiar with the plans. The updates are expected to be unveiled at WWDC in June before a public release in September. Apple is also developing deeper AI integrations for Siri, including visual analysis through the camera app and expanded app controls. The company’s upgraded Shortcuts app will allow users to create automations by describing tasks in plain language, while new writing tools will offer Grammarly-like editing suggestions across the system."
+    },
+    {
+      "id": "mkt:019e3c27-e2f0-7dd6-889d-cb92b5aa638a",
+      "time": "2026-05-19 01:34:57",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "KATAYAMA: WILL ADDRESS APPROPRIATELY ON FX AS NEEDED"
+    },
+    {
+      "id": "mkt:019e3c27-9496-7dd6-889d-c73752039754",
+      "time": "2026-05-19 01:34:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "KATAYAMA: G7 WILL DISCUSS SPECIFIC STEPS OVER RISKS RELATED TO MYTHOS IN THE RUNUP TO SUMMIT NEXT MONTH"
+    },
+    {
+      "id": "4886428",
+      "time": "2026-05-19 01:33:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "【惠譽：4月美國私募信貸違約率】根據惠譽評級週一釋出的一份報告，截至4月30日的12個月內，美國私募信貸貸款違約率達到創紀錄的6%。在此期間發生的99起違約事件中，有81名借款方是首次違約。這是自惠譽2024年8月開始追蹤以來的最高數字。"
+    },
+    {
+      "id": "4886427",
+      "time": "2026-05-19 01:32:28",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "日本財務大臣片山皋月：將根據需要對匯率進行適當應對。"
+    },
+    {
+      "id": "mkt:019e3c25-5a12-7dd6-889d-bb1cd0b611bd",
+      "time": "2026-05-19 01:32:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "JUDGE CONFIRMS VERDICT, AND THAT MUSK'S LAWSUIT IS DISMISSED"
+    },
+    {
+      "id": "4886426",
+      "time": "2026-05-19 01:31:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "法官確認裁決結果，駁回馬斯克對 OpenAI 的訴訟。"
+    },
+    {
+      "id": "mkt:019e3c24-6c39-7dd6-889d-b70dd6c45469",
+      "time": "2026-05-19 01:31:20",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "VERDICT MEANS MUSK HAS LOST HIS LAWSUIT AGAINST OPENAI"
+    },
+    {
+      "id": "mkt:019e3c23-f5e5-7dd6-889d-ab800551dc2a",
+      "time": "2026-05-19 01:30:50",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "APPLE PLANS AI WRITING AID, SHORTCUTS AND WALLPAPERS FOR IOS 27"
+    },
+    {
+      "id": "mkt:019e3c23-d70f-7dd6-889d-a7f014aa0222",
+      "time": "2026-05-19 01:30:42",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "APPLE POISED TO UNVEIL IOS 27 AT DEVELOPERS CONFERENCE IN JUNE"
+    },
+    {
+      "id": "mkt:019e3c23-b953-7dd6-889d-9a0ec3b5bfb3",
+      "time": "2026-05-19 01:30:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "KATAYAMA: NO COMMENT ON WHETHER JAPAN INTERVENED IN FX MARKET"
+    },
+    {
+      "id": "4886425",
+      "time": "2026-05-19 01:30:21",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "【馬斯克敗訴】美國陪審團裁定：OpenAI 及其執行長山姆・奧爾特曼無需因偏離公益初心向埃隆・馬斯克承擔相關責任，理由是馬斯克提起訴訟已遠超時效。"
+    },
+    {
+      "id": "mkt:019e3c23-8552-7dd6-889d-9009b4ff45df",
+      "time": "2026-05-19 01:30:20",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper"
+      ],
+      "text": "KATAYAMA: G7 FINANCE CHIEFS' COMMUNIQUE LIKELY TO INCLUDE STATEMENT ON PRICING OVER CRITICAL MINERALS"
+    },
+    {
+      "id": "mkt:019e3c23-25f8-7dd6-889d-8fa3be916374",
+      "time": "2026-05-19 01:29:56",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "U.S. JURY FINDS OPENAI, CEO SAM ALTMAN NOT LIABLE TO ELON MUSK FOR STRAYING FROM CHARITABLE MISSION, BECAUSE MUSK WAITED TOO LONG TO SUE"
+    },
+    {
+      "id": "4886424",
+      "time": "2026-05-19 01:29:55",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "蘋果擬於 6 月開發者大會正式釋出 iOS 27 系統，蘋果計劃為 iOS 27 推出 AI 寫作助手、快捷指令新功能及自定義桌布功能。"
+    },
+    {
+      "id": "4886423",
+      "time": "2026-05-19 01:29:33",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "日本財務大臣片山皋月：  七國集團財長公報或將納入關鍵礦產定價相關表態。"
+    },
+    {
+      "id": "4886422",
+      "time": "2026-05-19 01:28:08",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "日本財務大臣片山皋月： 七國集團暫不考慮就債券拋售採取協同行動，各國自行負責本國市場局勢。"
+    },
+    {
+      "id": "mkt:019e3c21-92f5-7dd6-889d-816f3f9f6446",
+      "time": "2026-05-19 01:27:59",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "KATAYAMA: G7 NOT CONSIDERING COORDINATED ACTION ON BOND SELLOFFS, EVERY COUNTRY IS RESPONSIBLE FOR ITS OWN MARKET SITUATION"
+    },
+    {
+      "id": "mkt:019e3c20-ee58-7dd6-889d-78100d9d8ee7",
+      "time": "2026-05-19 01:27:31",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "【Trump to Swear In Kevin Warsh as Fed Chair on Friday】President Donald Trump will swear in Kevin Warsh as Federal Reserve chair during a White House ceremony on Friday, according to a White House official. Warsh will become the Fed’s 17th chair, succeeding Jerome Powell, who has remained in a temporary capacity after his leadership term expired last week. The Senate confirmed Warsh earlier this month in a 54-45 vote, the narrowest margin for a Fed chair confirmation. Warsh takes office as the Iran war adds inflation pressures and amid scrutiny over whether he will remain independent from the White House after Trump publicly called for lower interest rates."
+    },
+    {
+      "id": "mkt:019e3c20-9af8-7dd6-889d-77eb729b7130",
+      "time": "2026-05-19 01:27:10",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "JURY REACHES VERDICT IN ELON MUSK LAWSUIT AGAINST OPENAI, JUDGE SAYS"
+    },
+    {
+      "id": "4886421",
+      "time": "2026-05-19 01:26:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "法官通報：埃隆・馬斯克起訴 OpenAI 一案陪審團已作出裁決。"
+    },
+    {
+      "id": "4886420",
+      "time": "2026-05-19 01:26:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣西柳州市啟動洪水防禦四級應急響應】5月17日以來，廣西柳州市柳南區已發生多次地震。據柳州市氣象部門預報，5月14日以來，柳州市部分地區出現中到大雨、局地暴雨或大暴雨。預計17日到20日，柳州市仍多降雨，局地有暴雨或大暴雨，強降雨雨區與前期部分重疊，致災風險增高。根據《柳州市水利局洪水防禦工作預案》規定，經會商，決定於2026年5月19日0時啟動柳州市水利局洪水防禦四級應急響應。（央視新聞）"
+    },
+    {
+      "id": "4886419",
+      "time": "2026-05-19 01:25:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗方面稱有權對霍爾木茲海峽海底光纜收“管理費”】伊朗伊斯蘭革命衛隊18日在社交媒體釋出訊息稱，在伊方對霍爾木茲海峽“實施管理”後，“可宣佈所有經過該水道的光纖電纜必須接受許可、監管並繳納主權性費用”。（新華社）"
+    },
+    {
+      "id": "4886418",
+      "time": "2026-05-19 01:24:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山皋月：首相指示我研究如何為追加預算籌措資金，同時做好風險防控。"
+    },
+    {
+      "id": "mkt:019e3c1d-a1f1-7dd6-889d-684b123b42ff",
+      "time": "2026-05-19 01:23:55",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "DXY",
+        "Nikkei 225"
+      ],
+      "text": "KATAYAMA: PM TAKAICHI TOLD ME TO CONSIDER HOW TO FINANCE PLANNED EXTRA BUDGET WHILE MITIGATING RISKS"
+    },
+    {
+      "id": "te:economy:551684",
+      "time": "2026-05-19 01:23:03",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Poland",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Poland 10Y Bond Yield Hits 16-month High — Poland 10 Year Government Bond Yield increased to 6.04%, the highest since January 2025. Over the past 4 weeks, Poland 10Y Bond Yield gained 55.90 basis points, and in the last 12 months, it increased 45.70 basis points."
+    },
     {
       "id": "mkt:019e3c18-a93e-7dd6-889d-60f5c4970dc7",
       "time": "2026-05-19 01:18:29",
@@ -139379,385 +139786,6 @@
         "國際"
       ],
       "text": "美國衛生部長肯尼迪推動調查疫苗是否引發慢性病。"
-    },
-    {
-      "id": "4873026",
-      "time": "2026-05-12 01:55:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "法國里昂附近發生火災，造成三人遇難，目前已展開刑事涉案線索調查。"
-    },
-    {
-      "id": "mkt:019e182c-a34a-7dd9-b925-ad76a22455a1",
-      "time": "2026-05-12 01:53:58",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "DELL.O"
-      ],
-      "text": "NVIDIA'S HUANG & DELL CEO TO DELIVER KEYNOTE MONDAY MAY 18 AT DELL EVENT"
-    },
-    {
-      "id": "4873025",
-      "time": "2026-05-12 01:53:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗知情人士：伊朗相關文字中，沒有任何內容表示同意將濃縮核材料運出本國。"
-    },
-    {
-      "id": "4873024",
-      "time": "2026-05-12 01:52:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "穆迪表示：預計2026年至2028年期間，經調整後的義大利電信集團自由現金流年均約為6億。"
-    },
-    {
-      "id": "4873023",
-      "time": "2026-05-12 01:51:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "【海地總理：8月無法如期大選 希望年底舉行】海地總理阿利克斯·迪迪埃·菲斯-艾梅11日表示，由於當前安全域性勢惡化，海地無法於8月按期舉行總統選舉，政府希望年底前舉行第一輪投票，並於2027年2月7日前完成權力交接。菲斯-艾梅接受當地媒體採訪時說，希望選舉“年底前開始，明年初結束”，從而在明年2月7日前產生新一任總統。（新華社）"
-    },
-    {
-      "id": "4873022",
-      "time": "2026-05-12 01:51:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "穆迪：此次評級上調反映出義大利電信執行能力強勁，這為盈利持續復甦及信貸指標改善提供支撐。"
-    },
-    {
-      "id": "4873021",
-      "time": "2026-05-12 01:50:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "穆迪針對義大利電信發表觀點：預計2026至2027年期間，其每年息稅折舊攤銷前利潤將實現中個位數百分比的額外增長。"
-    },
-    {
-      "id": "4873020",
-      "time": "2026-05-12 01:50:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "穆迪評級將義大利電信的評級上調至BA1，展望穩定。"
-    },
-    {
-      "id": "4873019",
-      "time": "2026-05-12 01:50:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "巴西航空工業公司執行長表示，該公司正就可能出售C-390軍用運輸機一事，與智利和哥倫比亞進行談判。"
-    },
-    {
-      "id": "4873018",
-      "time": "2026-05-12 01:50:18",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國聯邦貿易委員會：已向亞馬遜、谷歌、蘋果等多家企業傳送有關《移除法案》的信函。"
-    },
-    {
-      "id": "mkt:019e1829-1a5b-7dd9-b925-a7548dad7297",
-      "time": "2026-05-12 01:50:07",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Amazon",
-        "Alphabet",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7",
-        "AAPL.O",
-        "Impact bearish",
-        "AMZN.O",
-        "GOOGL.O"
-      ],
-      "text": "U.S. FTC: LETTER ON TAKE IT DOWN ACT WAS SENT TO COMPANIES INCLUDING AMAZON, ALPHABET, APPLE"
-    },
-    {
-      "id": "4873017",
-      "time": "2026-05-12 01:48:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國環保署推動加快電廠與工業的清潔空氣許可審批流程。"
-    },
-    {
-      "id": "mkt:019e1827-ec22-7dd9-b925-990259eb7047",
-      "time": "2026-05-12 01:48:49",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact bearish",
-        "FTSE100"
-      ],
-      "text": "LEAKED WHATSAPP MESSAGES REVEAL DIVISIONS AMONG UK’S LABOUR PARTY; LABOUR MPS CLASH OVER BID TO OUST UK PM STARMER - THE TIMES"
-    },
-    {
-      "id": "4873016",
-      "time": "2026-05-12 01:48:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國聯邦貿易委員會（FTC）：今日已向十餘家知名科技企業發函，要求其遵守《移除法案》（Take It Down Act）。"
-    },
-    {
-      "id": "4873015",
-      "time": "2026-05-12 01:48:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場資訊：洩露的WhatsApp聊天記錄曝光英國工黨內部裂痕，工黨議員就是否罷免英國首相斯塔默產生激烈分歧。"
-    },
-    {
-      "id": "4873014",
-      "time": "2026-05-12 01:47:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "【德國一男子涉嫌策劃恐襲被捕】據德國媒體11日報道，一名來自敘利亞的17歲男子因涉嫌在德國北部城市漢堡策劃恐怖襲擊，被警方逮捕。德新社援引漢堡檢察院訊息報道，這名嫌疑人於7日被警方特種部隊抓獲。他曾計劃在購物中心、警察局或酒吧實施襲擊，並已為此購置蒙面頭套、刀具以及可能用於製作爆炸物的材料。漢堡檢方發言人表示，嫌疑人對極端組織“伊斯蘭國”意識形態抱有同情。報道說，他計劃殺害數量不詳的“異教徒”。（新華社）"
-    },
-    {
-      "id": "4873013",
-      "time": "2026-05-12 01:47:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基表示，儘管經美國斡旋達成了停火協議，但烏克蘭前線從未陷入平靜。"
-    },
-    {
-      "id": "4873012",
-      "time": "2026-05-12 01:45:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "奈及利亞西：軍方空襲造成數十名平民身亡。"
-    },
-    {
-      "id": "4873011",
-      "time": "2026-05-12 01:43:31",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國國務院表示，不會支援國際移民審議論壇的成果進展宣言，並稱美方反對聯合國試圖在美國及整個西方世界鼓吹、推進替代式移民的相關舉措。"
-    },
-    {
-      "id": "4873010",
-      "time": "2026-05-12 01:43:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以色列對黎南部多個村莊實施空襲】據黎巴嫩方面訊息，以軍11日對黎巴嫩南部多個村莊實施空襲，造成大規模破壞。此前以軍向黎南部多個村莊的居民釋出撤離警告。"
-    },
-    {
-      "id": "4873009",
-      "time": "2026-05-12 01:41:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國敦促各銀行標記疑似伊朗洗錢活動。"
-    },
-    {
-      "id": "mkt:019e1820-8131-7dd9-b925-9344f7817c26",
-      "time": "2026-05-12 01:40:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "THE US URGES BANKS TO FLAG SUSPECTED IRANIAN MONEY-LAUNDERING - AP"
-    },
-    {
-      "id": "4873008",
-      "time": "2026-05-12 01:39:18",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國戰略石油儲備上週日均投放超 120 萬桶，整週投放量約 860 萬桶。此次為史上單週最大投放規模，超越 2022 年俄烏衝突爆發後拜登政府動用戰略石油儲備時的峰值投放水平。"
-    },
-    {
-      "id": "4873007",
-      "time": "2026-05-12 01:38:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普最快今日或將簽署人工智慧安全相關行政令】據兩位知情人士透露，特朗普政府內部就是否賦予美國情報機構在人工智慧模型評估中更大許可權的方案產生嚴重分歧。多位訊息人士表示，特朗普最早或於週一簽署一份針對人工智慧安全的行政令。但本屆政府對新型先進人工智慧模型的應對方案仍懸而未定，且各方對此爭議激烈。"
-    },
-    {
-      "id": "mkt:019e181d-6e58-7dd9-b925-8a6791003241",
-      "time": "2026-05-12 01:37:22",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "TRUMP COULD SIGN AN ORDER ON AI SECURITY AS SOON AS TODAY - WAPO"
-    },
-    {
-      "id": "mkt:019e181d-32d7-7dd9-b925-803c989ce718",
-      "time": "2026-05-12 01:37:07",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "IRANIAN SOURCE TO AL JAZEERA: WASHINGTON DEMANDED IN ITS PROPOSAL TO OBTAIN URANIUM ENRICHED TO 60%"
-    },
-    {
-      "id": "mkt:019e181c-efaa-7dd9-b925-792ee874ea61",
-      "time": "2026-05-12 01:36:49",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "IRANIAN SOURCE TO AL JAZEERA: IRAN IS PREPARED TO DOWNBLEND HIGHLY ENRICHED URANIUM TO 3.7% AND 20% LEVELS"
-    },
-    {
-      "id": "mkt:019e181c-87dc-7dd9-b925-70d16a9a2d4c",
-      "time": "2026-05-12 01:36:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IRANIAN SOURCE TO AL JAZEERA: IRAN REFUSED TO TRANSFER URANIUM OUTSIDE ITS TERRITORY AND IS PREPARED TO ENRICH IT UNDER THE SUPERVISION OF THE INTERNATIONAL ATOMIC ENERGY AGENCY"
-    },
-    {
-      "id": "4873006",
-      "time": "2026-05-12 01:36:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普政府對人工智慧模型的監管態度仍懸而未決、尚未定型。"
-    },
-    {
-      "id": "4873005",
-      "time": "2026-05-12 01:35:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普最早可能在週一簽署人工智慧安全行政命令。"
-    },
-    {
-      "id": "4873004",
-      "time": "2026-05-12 01:35:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗訊息人士：伊朗準備將高濃縮鈾稀釋至3.7%和20%的濃度。"
-    },
-    {
-      "id": "4873003",
-      "time": "2026-05-12 01:34:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗訊息人士：伊朗拒絕將鈾轉移到境外，並準備在國際原子能機構的監督下進行鈾濃縮。"
-    },
-    {
-      "id": "4873002",
-      "time": "2026-05-12 01:33:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗訊息人士：美方在提案中要求獲取丰度60%的濃縮鈾。"
-    },
-    {
-      "id": "mkt:019e1816-6cfa-7dd9-b925-6d0d23ede335",
-      "time": "2026-05-12 01:29:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "DISEMBARKATION RESUMES FROM HANTAVIRUS-HIT SHIP IN SPAIN'S TENERIFE, WITNESS SAYS"
-    },
-    {
-      "id": "4873001",
-      "time": "2026-05-12 01:28:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "《大空頭》原型邁克爾・伯裡並不看好當前行情：但凡出現拋物線式暴漲的個股，應幾乎全部清倉減持。"
-    },
-    {
-      "id": "mkt:019e1815-a719-7dd9-b925-633495665dcc",
-      "time": "2026-05-12 01:28:52",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "【Yardeni Raises S&P 500 Target Above 8,000 on Earnings Strength】Ed Yardeni raised his year-end 2026 target for the S&P 500 to 8,250 from 7,700, implying nearly 12% upside from Friday’s close. The Yardeni Research chief investment strategist cited stronger-than-expected first-quarter earnings and increased his earnings-per-share estimates to $330 for 2026 and $375 for 2027. Yardeni said consensus earnings forecasts have “rocketed above our targets,” driving an “earnings-led meltup” in equities. HSBC and CFRA Research also lifted their S&P 500 targets, though analysts warned elevated valuations and Middle East tensions remain risks to the rally."
-    },
-    {
-      "id": "te:markets:549726",
-      "time": "2026-05-12 01:23:51",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Crude Extends Increase — Brent crude oil futures extended their rise to $105 per barrel on Monday after US President Trump stated that the current ceasefire between the US and Iran is in a fragile state, risking an escalation to the war that prevents oil from the region from being exported. The US had already rejected Iran's peace counteroffer to consolidate the disagreement between both sides, dimming the likelihood that the conflict could end soon. The near shutdown of traffic through Hormuz has severely disrupted global shipments of crude oil, LNG and fuels, driving energy prices higher and increasing inflation concerns. Saudi Aramco CEO Amin Nasser warned the market is losing around 100 million barrels of supply each week and said prolonged disruptions could delay normalization until next year. Fresh drone attacks near Qatar and interceptions in the UAE and Kuwait underscored ongoing security risks, while Israeli Prime Minister Benjamin Netanyahu said the conflict with Iran is “not over.”"
-    },
-    {
-      "id": "4873000",
-      "time": "2026-05-12 01:23:02",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國國務院：美國不會支援國際移民論壇5月8日釋出的“進展”宣言。"
-    },
-    {
-      "id": "te:markets:549725",
-      "time": "2026-05-12 01:22:59",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 3"
-      ],
-      "text": "WTI Crude Rises Toward $100 — WTI crude oil futures extended their rise to $99 per barrel on Monday after US President Trump stated that the current ceasefire between the US and Iran is in a fragile state, risking an escalation to the war that prevents oil from the region from being exported. The US had already rejected Iran's peace counteroffer to consolidate the disagreement between both sides, dimming the likelihood that the conflict could end soon. The near shutdown of traffic through Hormuz has severely disrupted global shipments of crude oil, LNG and fuels, driving energy prices higher and increasing inflation concerns. Saudi Aramco CEO Amin Nasser warned the market is losing around 100 million barrels of supply each week and said prolonged disruptions could delay normalization until next year. Fresh drone attacks near Qatar and interceptions in the UAE and Kuwait underscored ongoing security risks, while Israeli Prime Minister Benjamin Netanyahu said the conflict with Iran is “not over.”"
-    },
-    {
-      "id": "mkt:019e180f-d11f-7dd9-b925-588e158312c4",
-      "time": "2026-05-12 01:22:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. STATE DEPT: U.S. WILL NOT SUPPORT INTERNATIONAL MIGRATION REVIEW FORUM'S MAY 8 'PROGRESS' DECLARATION"
-    },
-    {
-      "id": "4872999",
-      "time": "2026-05-12 01:22:10",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【微軟CEO在“馬斯克訴奧特曼”案中出庭作證】當地時間5月11日，微軟執行長薩提亞·納德拉在美國加利福尼亞州奧克蘭的聯邦法院出庭，為“馬斯克訴OpenAI”一案作證。納德拉身穿深藍色西裝，繫著藍色領帶。他首先回答了關於他在微軟的職責，以及公司與OpenAI建立戰略合作伙伴關係初期的相關問題。"
-    },
-    {
-      "id": "4872998",
-      "time": "2026-05-12 01:21:41",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國國務院：美國退出國際移民審議論壇。"
     }
   ]
 }
