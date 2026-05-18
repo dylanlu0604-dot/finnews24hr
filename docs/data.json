@@ -1,7 +1,79 @@
 {
-  "updated": "2026-05-19 06:59:52",
+  "updated": "2026-05-19 07:06:29",
   "count": 15591,
   "items": [
+    {
+      "id": "te:markets:551708",
+      "time": "2026-05-19 07:03:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "New Zealand Stocks Snap 5-Session Losing Streak — The NZX 50 climbed 85 points, or 0.7%, to 12,849 in Tuesday morning trading, snapping a five-session losing streak, as traders took profits after the index hit its lowest level since March 30 a day earlier. The broader index rose, mainly boosted by gains in healthcare, energy, real estate, and utilities. Fresh data also lifted sentiment, with New Zealand’s input and output prices rising by 1.4% and 0.8%, respectively, in Q1, both surpassing market expectations. However, traders remained cautious ahead of the PBOC’s interest rate decision due Wednesday, following disappointing Chinese economic data released on Monday. In the US, Wall Street closed mixed as traders monitored developments in the US-Iran talks. Among the top performers were South Port New Zealand (4.0%), Mainfreight (3.4%), Contact Energy (2.2%), Fisher & Paykel Healthcare (1.8%), Channel Infrastructure (1.3%), ANZ Group (0.6%), Freightways (0.6%), and Ebos Group (0.5%)."
+    },
+    {
+      "id": "4886689",
+      "time": "2026-05-19 07:02:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲1%，現報78.51美元/盎司。"
+    },
+    {
+      "id": "4886688",
+      "time": "2026-05-19 07:02:16",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【電源管理晶片迎漲價潮 二季度以來多隻概念股獲融資資金青睞】近期，半導體漲價潮正逐步蔓延至電源管理IC領域。據報道，德州儀器、恩智浦、MPS（Monolithic Power Systems）以及聯發科旗下立錡等大廠，計劃於6月至7月上調產品報價；茂達、矽力等廠商也陸續啟動調價協商，行業下半年盈利有望改善。此輪漲價並非由終端需求旺盛推動，而是主要由晶圓代工、封測環節成本上漲倒逼所致。此前MCU、驅動IC已率先漲價，如今，電源管理IC正式跟進。2026年一季度，A股上市公司必易微、美芯晟等電源管理晶片廠商就已宣佈，為消化市場壓力，將在一季度或二季度開始漲價，其漲價的主要原因也是晶圓代工和原材料等上游成本的上升。截至5月15日，二季度以來多隻電源管理晶片股獲融資資金青睞。據證券時報·資料寶統計，9只電源管理晶片股獲融資淨買入均超1億元，傑華特獲融資淨買入8.3億元，居首；納芯微獲融資淨買入6.61億元，居次席。業績方面，2026年第一季度，15家電源管理晶片上市公司實現盈利，豪威集團、士蘭微等4家公司淨利潤均超1億元；從業績變動來看，思瑞浦、英集芯和聖邦股份淨利潤同比均實現翻倍增長，增速分別為577.25%、129.8%、106.96%。"
+    },
+    {
+      "id": "4886687",
+      "time": "2026-05-19 07:02:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲2%，現報79.08美元/盎司。"
+    },
+    {
+      "id": "4886686",
+      "time": "2026-05-19 07:02:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀突破79美元/盎司，日內漲2.11%。"
+    },
+    {
+      "id": "4886685",
+      "time": "2026-05-19 07:02:04",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【沃什將於22日宣誓就任美聯儲主席】多家美國媒體18日報道，凱文·沃什將於5月22日宣誓就任美國聯邦儲備委員會主席一職。 一名白宮官員表示，美國總統特朗普屆時將在白宮為沃什舉行就職儀式。 美國國會參議院13日以54票贊成、45票反對的投票結果正式確認，沃什將接替傑羅姆·鮑威爾出任美聯儲下一任主席，任期4年。鮑威爾的美聯儲主席任期已於15日結束，並已開始擔任美聯儲臨時主席。 特朗普1月30日透過社交媒體宣佈，提名沃什為新一任美聯儲主席。白宮3月初向參議院提交關於沃什擔任美聯儲理事和美聯儲下一任主席的提名。 經特朗普提名，鮑威爾在2018年2月接替珍妮特·耶倫擔任美聯儲主席。經時任美國總統拜登提名，他於2022年5月開啟第二個美聯儲主席任期。"
+    },
+    {
+      "id": "4886684",
+      "time": "2026-05-19 06:59:41",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：\n1、4月主要經濟指標穩中向好，保持向新向優發展態勢 “中國經濟‘穩’的主基調沒有變”（權威釋出）\n2、上海奮力為全國發展挑大樑作貢獻（開局起步“十五五”·專題新聞釋出）\n3、離境退稅措施加力最佳化 提升辦理數字化水平，推動“即買即退”異地互認\n4、何立峰會見美國超威半導體公司董事會主席兼執行長蘇姿豐\n5、做優“在場感” 做強新經濟（微觀）\n6、國家外匯管理局——4月我國外匯市場執行總體穩健\n7、更好促進民營經濟發展壯大（專題深思）\n8、空間太陽能電站“逐日工程”研究取得突破\n9、長沙推動外來品牌本地化、本地品牌首發化——首店引得進 品牌創得出（中國消費向新而行·首發經濟新變化）\n10、首發經濟如何行穩致遠（編輯手記）\n11、以科技創新塑造鋼鐵新動能\n12、安徽加快建設製造業中試平臺\n13、最大就業“蓄水池”裡機會多 服務業開啟就業廣闊空間\n14、2026清華五道口全球金融論壇舉行\n15、海南出臺“十五五”人才發展規劃 預計到二〇三〇年人才引進七十萬人以上\n16、內蒙古出臺規定 全流程管控煤礦重大危險作業\n17、涉串換藥品等違規使用醫保基金問題 4家連鎖藥房公司被約談\n18、北京綠電市場化交易規模首次超過火電\n19、青島—南京天然氣管道與江蘇沿海管道互聯互通專案投產 長三角地區新增30億立方米供氣通道。"
+    },
+    {
+      "id": "4886683",
+      "time": "2026-05-19 06:59:30",
+      "tags": [
+        "宏觀",
+        "焦點"
+      ],
+      "text": "今天《人民日報》頭版的主要內容有：\n1、中辦印發《中國共產黨發展黨員工作細則》\n2、更好地提高新發展黨員質量\n3、為中國式現代化建設貢獻更多智慧和力量——習近平總書記就推動哲學社會科學高質量發展作出的重要指示引領方向、催人奮進\n4、李強在北京調研時強調 推動人工智慧與先進製造業深度融合 加快培育塑造經濟發展新動能新優勢\n5、趙樂際同喬治亞議長帕普阿什維利會談\n6、王滬寧會見喬治亞議長帕普阿什維利\n7、丁薛祥在調研算力網建設時強調 加快構建全國一體化算力網 賦能經濟社會高質量發展\n8、韓正出席2026年全球貿易投資促進峰會開幕式並致辭。"
+    },
     {
       "id": "4886682",
       "time": "2026-05-19 06:59:04",
@@ -140842,78 +140914,6 @@
         "國際"
       ],
       "text": "【路特斯縮減純電動計劃，定於 2028 年推出新款超跑】路特斯於週二表示，計劃在 2028 年推出品牌首款全新超跑，並將收縮純電動發展佈局。這家英國跑車製造商受電動汽車需求放緩、政府補貼退坡影響，正轉向以混動為主的發展戰略。這家隸屬吉利集團的車企，此前原定 2028 年實現全系車型純電動化；如今在名為“2030 聚焦戰略”的長期規劃下，將車型結構比例調整為混動車型佔 60%、純電動車型佔 40%。此次戰略調整，折射出整個汽車行業的普遍轉向：各大車企正直面電動汽車市場滲透率不及預期、各國政策補貼逐步退出的行業現狀。路特斯透露，旗下首款全新超跑Type 135將在歐洲投產，更多詳細資訊將於今年晚些時候公佈。該公司同時表示，其面向全球最大電動車市場中國推出的插混車型Eletre X，訂單量已突破 1000 臺，該車也計劃於年底前開啟歐洲市場交付。"
-    },
-    {
-      "id": "4873260",
-      "time": "2026-05-12 07:03:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "路特斯：釋出2030 年核心商業戰略，Type 135 確認為全新 V8 混動超級跑車，將於 2028 年正式上市。 穩步爬坡，目標年銷量達 3 萬輛。"
-    },
-    {
-      "id": "te:economy:549752",
-      "time": "2026-05-12 07:03:06",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Russia",
-        "News",
-        "Importance 1"
-      ],
-      "text": "Russia Cuts 2026 GDP Growth Forecast to 0.4% — Russia cut its economic growth forecast for 2026 to 0.4% from 1.3% previously, and lowered its 2027 forecast to 1.4% from 2.8%, while growth is expected to reach 2.4% in 2029, Deputy Prime Minister Alexander Novak told the Vedomosti daily in an interview on Tuesday, as reported by Reuters. He argued that a slowdown was expected after a period of robust growth in 2023–24, which many analysts say was fuelled by military spending to support the war in Ukraine. “Economic dynamics are cyclical. After a period of high growth, there is always a correction, often accompanied by structural transformation. This is a normal stage for the economy,” Novak said, stressing that the economy is developing in an environment of “unprecedented pressure from sanctions.” In a surprise move, Novak said the ministry projected that the oil price used to calculate budget revenue would remain at $59 per barrel in 2026."
-    },
-    {
-      "id": "mkt:019e1947-2196-7dd9-b926-ff90a6b34b3b",
-      "time": "2026-05-12 07:02:32",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United Kingdom | BRC Like-for-like Retail Sales (YoY) (Apr) | actual -3.4% | consensus 0.8% | previous 3.10%"
-    },
-    {
-      "id": "mkt:019e1947-0c22-7dd9-b926-f2b18dfbad0c",
-      "time": "2026-05-12 07:02:26",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United Kingdom | BRC Total Retail Sales (YoY) (Apr) | actual -3% | previous 3.6%"
-    },
-    {
-      "id": "4873259",
-      "time": "2026-05-12 07:02:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "路特斯：Emira 車型生產存續計劃已確認，將於未來數週釋出新款改款版本。  短期內電氣化車型銷量結構為插混佔 60%、純電佔 40%，將以使用者需求為導向逐步向全面純電動化轉型。"
-    },
-    {
-      "id": "4873258",
-      "time": "2026-05-12 07:02:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "路特斯：英國路特斯與路特斯科技的整合工作預計於今年年內完成。"
-    },
-    {
-      "id": "4873257",
-      "time": "2026-05-12 07:01:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴克萊（BRC）報告顯示，大額消費及旅遊相關支出出現下滑。"
-    },
-    {
-      "id": "4873256",
-      "time": "2026-05-12 07:01:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國4月BRC同店銷售同比 -3.4%，預期 0.8%，前值 3.1%。"
     }
   ]
 }
