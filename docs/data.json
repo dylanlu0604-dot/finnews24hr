@@ -1,7 +1,61 @@
 {
-  "updated": "2026-05-19 02:50:04",
+  "updated": "2026-05-19 02:53:52",
   "count": 15441,
   "items": [
+    {
+      "id": "mkt:019e3c6e-d31e-7dd6-889e-df2c4be3f165",
+      "time": "2026-05-19 02:52:21",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "S&P 500 INDEX EXTENDS DROP TO SESSION LOW; DOWN 0.8%"
+    },
+    {
+      "id": "mkt:019e3c6e-84f1-7dd6-889e-d597372da690",
+      "time": "2026-05-19 02:52:05",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA PARES GAINS IN VOLUME SPIKE, STOCK LAST UP 2.9%"
+    },
+    {
+      "id": "4886463",
+      "time": "2026-05-19 02:51:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數跌至盤中低點，下跌0.8%。"
+    },
+    {
+      "id": "mkt:019e3c6e-3746-7dd6-889e-cf2417078a1e",
+      "time": "2026-05-19 02:51:56",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "IRANIAN LAWMAKER ALI KHEZRIAN: IF THE STRAIT OF HORMUZ IS OPENED, THE NEXT WAR WILL BEGIN WITH GREATER INTENSITY; IF ENRICHED URANIUM IS REMOVED FROM THE COUNTRY, THERE IS A POSSIBILITY OF A NUCLEAR ATTACK BY THE ENEMY"
+    },
+    {
+      "id": "4886462",
+      "time": "2026-05-19 02:51:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達日內跌幅擴大至3%。"
+    },
     {
       "id": "mkt:019e3c6b-1dd8-7dd6-889e-c4ebb2a03a72",
       "time": "2026-05-19 02:48:33",
@@ -139532,52 +139586,6 @@
         "國際"
       ],
       "text": "【美銀將美聯儲降息預期推遲至2027年】美國銀行目前預計，美聯儲將把降息時間推遲至2027年年中，較此前預測的2026年末再度延後。該行指出，美聯儲政策立場更趨鷹派、通脹持續高於目標水平，疊加油價帶來的物價壓力居高不下。同時，私營部門就業崗位增長強勁、失業率保持穩定，也意味著美聯儲降息的迫切性有所下降。美銀表示，近期經濟資料並未顯現出提早寬鬆政策所需的勞動力市場走弱跡象。"
-    },
-    {
-      "id": "4873081",
-      "time": "2026-05-12 02:53:36",
-      "tags": [
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "高盛和美國銀行推遲美聯儲年底前降息的預期。"
-    },
-    {
-      "id": "4873080",
-      "time": "2026-05-12 02:53:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國俄克拉荷馬州塔爾薩消防部門表示，其隊員於上午11點左右出警處置HF辛克萊塔爾薩煉油廠發生的火災。"
-    },
-    {
-      "id": "4873079",
-      "time": "2026-05-12 02:52:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "前OpenAI首席科學家伊利亞·蘇茨克維爾在庭審中證實，他持有的OpenAI所有權股份估值約為70億美元。"
-    },
-    {
-      "id": "4873078",
-      "time": "2026-05-12 02:52:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【分析師預計埃森哲將與OpenAI共同成長】瑞銀分析師在一份報告中表示，隨著OpenAI等公司將目光投向更宏大的目標，埃森哲料將繼續受益於對其系統整合能力不斷增長的需求。這些分析師表示，OpenAI的部署雄心正在擴大其AI服務的總可用市場，其速度超過了該公司提升內部交付能力的速度，這為埃森哲利用其規模優勢（包括超過8.5萬名AI和資料專業人員合作伙伴）幫助其填補缺口留下了空間。這些分析師補充說，埃森哲擁有一系列系統整合能力，並且有望使其與新興AI和資料合作伙伴Anthropic、Databricks、Mistral AI、英偉達、OpenAI和Palantir的簽約合同金額增長逾一倍。"
-    },
-    {
-      "id": "mkt:019e1861-0980-7dd9-b926-44901f5b7f09",
-      "time": "2026-05-12 02:51:12",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish"
-      ],
-      "text": "BRENT CRUDE FUTURES SETTLE AT $104.21/BBL, UP $2.92, 2.88 PCT"
     }
   ]
 }
