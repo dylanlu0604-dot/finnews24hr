@@ -1,7 +1,51 @@
 {
-  "updated": "2026-05-19 00:29:41",
-  "count": 15476,
+  "updated": "2026-05-19 00:33:51",
+  "count": 15477,
   "items": [
+    {
+      "id": "mkt:019e3bed-faaf-7dd6-889c-a706b5bef727",
+      "time": "2026-05-19 00:31:52",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "BESSENT: U.S. ISSUING A TEMPORARY 30-DAY GENERAL LICENSE TO PROVIDE TEMPORARY ACCESS RUSSIAN OIL"
+    },
+    {
+      "id": "mkt:019e3bed-d4c7-7dd6-889c-98c92d235a1b",
+      "time": "2026-05-19 00:31:42",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "SAUDI SOURCES SAID THAT IRAN OFFERED TO CONDITIONALLY TRANSFER ENRICHED URANIUM TO RUSSIA – CCTV"
+    },
+    {
+      "id": "4886382",
+      "time": "2026-05-19 00:31:30",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財長貝森特：美國將發放為期 30 天的通用臨時許可，臨時放行俄羅斯石油。"
+    },
+    {
+      "id": "4886381",
+      "time": "2026-05-19 00:31:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥墨西哥航空釋出宣告，宣佈計劃恢復飛往委內瑞拉加拉加斯的航班。"
+    },
     {
       "id": "4886380",
       "time": "2026-05-19 00:28:08",
@@ -139778,30 +139822,6 @@
         "國際"
       ],
       "text": "接近伊朗核談判團隊的訊息人士稱，一些西方媒體關於伊朗提出暫停核計劃15年的說法完全是錯誤的。"
-    },
-    {
-      "id": "4872948",
-      "time": "2026-05-12 00:33:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "星巴克：6月將在西雅圖裁員61人。"
-    },
-    {
-      "id": "4872947",
-      "time": "2026-05-12 00:32:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "訊息人士稱，巴西支付企業埃洛聘請美國銀行、布拉德斯科銀行以及瑞銀巴西合資投行負責美國首次公開募股相關事宜。"
-    },
-    {
-      "id": "4872946",
-      "time": "2026-05-12 00:30:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗最高領袖顧問：特朗普似乎聽信了五角大樓的謊言，刻意掩蓋美軍大量人員傷亡的真實人數。"
     }
   ]
 }
