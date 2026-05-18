@@ -1,7 +1,90 @@
 {
-  "updated": "2026-05-19 04:42:11",
-  "count": 15527,
+  "updated": "2026-05-19 04:46:12",
+  "count": 15534,
   "items": [
+    {
+      "id": "mkt:019e3cd6-6f67-7dd6-88a0-235545fa3f0e",
+      "time": "2026-05-19 04:45:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "JAPAN OFFICIAL: HIGHER US YIELDS COULD LEAD TO A FALLING YEN"
+    },
+    {
+      "id": "4886572",
+      "time": "2026-05-19 04:45:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【馬斯克：將就OpenAI案向美國第九巡迴法院提起上訴】馬斯克在社交媒體發文稱，關於OpenAI一案，法官和陪審團實則並未就案件實質是非作出判決，僅依據審理流程上的程式性細節下定論。所有深入跟進此案的人都心知肚明，奧特曼與布羅克曼確實透過侵佔公益機構資產中飽私囊，唯一尚存的疑問只是他們開始這麼做的具體時間。我將向美國第九巡迴上訴法院提起上訴，因為此番判決若形成可肆意侵吞公益機構資產的判例，會對美國的公益捐贈事業造成極大破壞。創立OpenAI的初衷，本是為全人類謀求福祉。"
+    },
+    {
+      "id": "te:markets:551698",
+      "time": "2026-05-19 04:43:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Ends Lower as Inflation and Political Risks Weigh — The Ibovespa slipped 0.2% to close at 176,976 on Monday as investors assessed weaker economic data, rising inflation concerns, political developments, and stalled US-Iran peace talks. Brazil’s IBC-Br economic activity index contracted more than expected in March, while the Finance Ministry sharply raised its inflation forecasts and now expects consumer prices to remain above target through at least 2027 due to the Middle East conflict. Meanwhile, Brazil’s Federal Police are investigating payments made by Daniel Vorcaro to Flávio Bolsonaro and a possible transfer involving Eduardo Bolsonaro. Banks traded lower, with Itaú down 0.2% and Banco do Brasil losing 1.3%. Vale fell 2% on weaker iron ore prices, while CSN Mineração plunged 9.3% after reporting lower first-quarter revenue. In contrast, Petrobras gained 2.1% as oil prices advanced."
+    },
+    {
+      "id": "4886571",
+      "time": "2026-05-19 04:43:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：創立OpenAI初衷是造福全人類。"
+    },
+    {
+      "id": "mkt:019e3cd4-3317-7dd6-88a0-1fd41a01628d",
+      "time": "2026-05-19 04:43:20",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "MUSK: \"REGARDING THE OPENAI CASE, THE JUDGE & JURY NEVER ACTUALLY RULED ON THE MERITS OF THE CASE, JUST ON A CALENDAR TECHNICALITY\""
+    },
+    {
+      "id": "4886570",
+      "time": "2026-05-19 04:42:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：關於OpenAI一案，法官與陪審團從未就案件實質作出裁決，僅就程式期限問題作出了判定。"
+    },
+    {
+      "id": "4886569",
+      "time": "2026-05-19 04:42:49",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【張國清出席第十三屆世界城市論壇領導人峰會並致辭】當地時間5月18日，習近平主席特別代表、中共中央政治局委員、國務院副總理張國清在亞塞拜然首都巴庫出席第十三屆世界城市論壇領導人峰會並致辭。 張國清表示，在習近平主席提出的“人民城市人民建、人民城市為人民”理念引領下，中國深入推進以人為核心的新型城鎮化，大力推動城市結構最佳化、動能轉換、品質提升、綠色轉型、文脈賡續、治理增效，努力走出一條中國特色城市現代化新路子。中國願攜手各方，共同落實四大全球倡議，更加註重城市的宜居安居、安全韌性，提升城市治理智慧化精細化水平，加強城市間對話交流、專案合作和人文往來，共同建設更美好的城市家園。（新華社）"
+    },
+    {
+      "id": "4886568",
+      "time": "2026-05-19 04:42:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬斯克：將向美國第九巡迴上訴法院提起上訴。"
+    },
+    {
+      "id": "mkt:019e3cd2-d1a4-7dd6-88a0-17e606b61bb9",
+      "time": "2026-05-19 04:41:49",
+      "tags": [
+        "MKT News",
+        "Hot",
+        "Market Themes",
+        "AI Revolution",
+        "Policy",
+        "Breaking News 24h"
+      ],
+      "text": "MUSK ON OPENAI VERDICT: I WILL BE FILING AN APPEAL WITH THE NINTH CIRCUIT"
+    },
     {
       "id": "4886567",
       "time": "2026-05-19 04:41:32",
@@ -140351,24 +140434,6 @@
         "Europe & UK"
       ],
       "text": "UK DEPUTY PM LAMMY URGING STARMER TO SET OUT A TIMETABLE TO QUIT, ITV REPORTS"
-    },
-    {
-      "id": "4873173",
-      "time": "2026-05-12 04:46:03",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【5月12日美股成交額前20：特斯拉Model S和Model X正式停產】週一美股成交額第3名特斯拉收高3.91%，成交338.27億美元。特斯拉透過社交媒體宣佈，最後一輛Model S和Model X已在美國弗裡蒙特工廠下線。至此，Model S和Model X正式停產。這兩款車的停產並不突然，早在2026年1月29日，馬斯克就在2025年第四季度財報電話會議上首次宣佈，Model S與Model X將於2026年第二季度結束前正式停產。"
-    },
-    {
-      "id": "4873171",
-      "time": "2026-05-12 04:44:48",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "Hims & Hers Health首席財務官：公司對複方 GLP-1 相關原料及庫存計提資產減值，併產生一次性併購相關費用。轉向美國食品藥品監督管理局獲批的 GLP-1 類藥物後，平臺流量與應用下載量均創下歷史新高。"
     }
   ]
 }
