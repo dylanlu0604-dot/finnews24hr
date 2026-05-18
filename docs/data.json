@@ -1,7 +1,110 @@
 {
-  "updated": "2026-05-19 00:04:44",
-  "count": 15497,
+  "updated": "2026-05-19 00:09:36",
+  "count": 15493,
   "items": [
+    {
+      "id": "4886366",
+      "time": "2026-05-19 00:08:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "【兩年期德債收益率跌約3個基點】週一（5月18日）歐市尾盤，德國10年期國債收益率跌1.9個基點，報3.148%，日內交投於3.195%-3.125%區間。兩年期德債收益率跌2.8個基點，報2.710%，日內交投於2.759%-2.681%區間；30年期德債收益率跌0.5個基點，報3.671%。2/10年期德債收益率利差漲0.892個基點，報+43.612個基點。"
+    },
+    {
+      "id": "mkt:019e3bd7-c83c-7dd6-889c-7b8c277896c4",
+      "time": "2026-05-19 00:07:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. JUSTICE DEPARTMENT SAYS IT IS MOVING TO DROP CRIMINAL FRAUD CHARGES AGAINST INDIAN BILLIONAIRE GAUTAM ADANI: COURT RECORDS"
+    },
+    {
+      "id": "4886365",
+      "time": "2026-05-19 00:07:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "法庭檔案顯示，美國司法部擬撤銷對印度富豪阿達尼的刑事欺詐指控。"
+    },
+    {
+      "id": "te:markets:551668",
+      "time": "2026-05-19 00:07:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 1.02% Higher — The FTSE 100 Index rose 104 points or 1.02 percent on Monday to close at 10299 points. Leading the gains are WPP (5.38%), Pearson (3.50%) and Centrica (3.45%)."
+    },
+    {
+      "id": "mkt:019e3bd6-799e-7dd6-889c-771fbe417ea1",
+      "time": "2026-05-19 00:06:12",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Amazon"
+      ],
+      "text": "AMAZON WEB SERVICES CEO PUSHES BACK ON AI JOB APOCALYPSE WARNINGS - WSJ"
+    },
+    {
+      "id": "4886364",
+      "time": "2026-05-19 00:05:17",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【沙特媒體：伊朗提出有條件地將濃縮鈾轉到俄羅斯】據沙烏地阿拉伯阿拉比亞電視臺18日報道，伊朗旨在結束中東衝突的最新修訂方案包括有條件地將濃縮鈾轉移到俄羅斯，而不是美國。報道稱，該電視臺獲得的方案顯示，伊朗已同意長期凍結其核計劃，但不是徹底拆除核設施。（新華社）"
+    },
+    {
+      "id": "mkt:019e3bd5-a5e0-7dd6-889c-6bee120e2d6d",
+      "time": "2026-05-19 00:05:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Andy Burnham Rules Out Changing UK Fiscal Rules or Exempting Defence Spending】Labour leadership frontrunner Andy Burnham has ruled out altering Chancellor Rachel Reeves’ fiscal rules or exempting defence spending if he becomes UK Prime Minister, a spokesperson said. The clarification follows market concerns over his potential premiership, with traders fearing higher public spending and gilt issuance. Burnham had previously floated exempting defence spending but later reaffirmed support for existing rules. Analysts note the decision may reassure markets but limit fiscal flexibility."
+    },
+    {
+      "id": "4886363",
+      "time": "2026-05-19 00:04:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【給阿嬤的情書進入年度票房榜前五】據貓眼專業版資料，電影《給阿嬤的情書》票房（含預售）超5.75億，進入2026年度票房榜前五。"
+    },
+    {
+      "id": "te:markets:551667",
+      "time": "2026-05-19 00:04:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Extends Losses as Middle East Tensions Weigh — The FTSE MIB fell 0.9% to close at 48,669 on Monday, extending losses from the previous session amid broader risk-off sentiment across global markets. Investors remained focused on escalating Middle East tensions, with no clear signs of de-escalation as US President Donald Trump maintained a hardline stance toward Iran. The developments fueled inflation concerns and pushed bond yields higher. Heavyweight financial stocks led losses, including Intesa Sanpaolo (-2.5%), Generali (-2.8%), BPER Banca (-5.4%), and MPS (-7.9%). Deutsche Bank downgraded BPER Banca to “hold” from “buy,” while raising its target price for MPS and maintaining a “buy” rating. Luxury stocks also weakened amid higher risk aversion, with Ferrari and Moncler both down 0.9%. In contrast, Eni gained 2% on higher oil prices and Leonardo rose 1.9% as geopolitical tensions boosted defense-related shares."
+    },
+    {
+      "id": "4886362",
+      "time": "2026-05-19 00:04:06",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "據英國《金融時報》訊息，花旗集團與貝萊德達成150 億歐元歐洲私募借貸合作協議。"
+    },
     {
       "id": "te:markets:551666",
       "time": "2026-05-19 00:02:27",
@@ -139858,147 +139961,6 @@
         "XAUUSD"
       ],
       "text": "TRUMP: CHINA'S XI IS MORE LIKELY TO BRING UP TAIWAN"
-    },
-    {
-      "id": "4872924",
-      "time": "2026-05-12 00:09:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及伊朗：伊朗領導層這群人毫無信譽可言。"
-    },
-    {
-      "id": "te:markets:549713",
-      "time": "2026-05-12 00:09:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "European Stocks Edge Lower — European stocks closed lower for a third session on Monday amid continued pressure from the war in the Middle East and its impact on lower energy supply. The Eurozone's STOXX 50 fell 0.3% to 5,895 and the pan-European STOXX 600 was flat at 612. US President Trump stated that the US rejected Iran's counteroffer of concessions to end their war over the weekend, escalating the hawkish rhetoric and prolonging the suspension of energy exports from the key region. Risk-sensitive companies within the consumer discretionary sector led the losses, dragging luxury brands traded in Paris. LVMH fell over 4%, while Hermes and L'Oreal dropped around 3%. In turn, Schneider Electric added 2.3% after its recent pressure this month, and Siemens gained 1.4% ahead of its earnings result this week."
-    },
-    {
-      "id": "mkt:019e17cb-15cf-7dd9-b924-4f8407e9b2cf",
-      "time": "2026-05-12 00:07:25",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "TRUMP: WILL BRING UP PRISONERS IN MEETING WITH CHINA'S XI"
-    },
-    {
-      "id": "4872923",
-      "time": "2026-05-12 00:07:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "【白宮記協晚宴槍擊案嫌疑人不認罪】美國白宮記者協會晚宴槍擊案嫌疑人科爾·艾倫11日在哥倫比亞特區聯邦地區法院出庭，對試圖刺殺美國總統特朗普等所有指控均不認罪。艾倫在短暫的庭審過程中沒有發言，其律師代替其進行答辯。艾倫被指控的罪名包括企圖刺殺總統、襲擊聯邦官員和非法持有槍支等。艾倫的律師還要求取消代理司法部長託德·布蘭奇和哥倫比亞特區聯邦檢察官珍妮娜·皮羅等直接參與起訴艾倫的資格，因為他們出席了記協晚宴，可能是該案的受害者或證人，從而造成潛在的“利益衝突”。律師表示，辯方可能會尋求取消皮羅辦公室參與此案的資格。法官特雷弗·麥克法登沒有就此要求作出裁決。（新華社）"
-    },
-    {
-      "id": "te:markets:549712",
-      "time": "2026-05-12 00:07:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE 100 Index Closes 0.33% Higher — The FTSE 100 Index gained 34 points or 0.33 percent on Monday to close at 10267 points. Gains were led by Airtel Africa (14.50%), International Airlines Group (5.82%) and Anglo American (3.92%). Biggest losers were JD Sports Fashion (-5.31%), Entain (-4.74%) and Burberry (-3.43%)."
-    },
-    {
-      "id": "mkt:019e17ca-9ce2-7dd9-b924-44c1964b5a9d",
-      "time": "2026-05-12 00:06:54",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "WTI",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "TRUMP: DIPLOMATIC SOLUTION WITH IRAN STILL POSSIBLE"
-    },
-    {
-      "id": "4872922",
-      "time": "2026-05-12 00:06:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：仍有可能透過外交手段解決伊朗問題。"
-    },
-    {
-      "id": "4872921",
-      "time": "2026-05-12 00:06:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我們等了伊朗4天，就為了那份準備起來不到10分鐘的檔案。"
-    },
-    {
-      "id": "4872920",
-      "time": "2026-05-12 00:06:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：暫停徵收聯邦汽油稅，直至另行通知。"
-    },
-    {
-      "id": "mkt:019e17c9-36f9-7dd9-b924-3b1a947e842a",
-      "time": "2026-05-12 00:05:23",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "TRUMP: AS SOON AS THIS IS OVER WITH IRAN, GASOLINE AND OIL WILL DROP LIKE A ROCK"
-    },
-    {
-      "id": "mkt:019e17c9-19db-7dd9-b924-3728880aa6e7",
-      "time": "2026-05-12 00:05:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TRUMP: SOME WILL KEEP BUYING US OIL, EVEN AFTER HORMUZ OPENS"
-    },
-    {
-      "id": "4872919",
-      "time": "2026-05-12 00:05:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：將降低汽油稅，直到達到合適的水平。"
-    },
-    {
-      "id": "mkt:019e17c8-c7a9-7dd9-b924-2b71ad63c151",
-      "time": "2026-05-12 00:04:54",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "TRUMP: WILL REDUCE FEDERAL GAS TAX"
-    },
-    {
-      "id": "mkt:019e17c8-b8c6-7dd9-b924-2189a6dff5d1",
-      "time": "2026-05-12 00:04:50",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "SPOT SILVER RISES 7% TO $85.94/OZ"
     }
   ]
 }
