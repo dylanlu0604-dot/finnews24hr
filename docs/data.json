@@ -1,7 +1,122 @@
 {
-  "updated": "2026-05-19 02:27:19",
-  "count": 15447,
+  "updated": "2026-05-19 02:31:09",
+  "count": 15451,
   "items": [
+    {
+      "id": "mkt:019e3c5a-6ffb-7dd6-889e-732d2059afc0",
+      "time": "2026-05-19 02:30:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRAN'S PRESIDENT SAYS UNDER NO CIRCUMSTANCES WILL IRAN RETREAT FROM THE LEGITIMATE RIGHTS OF THE IRANIAN PEOPLE AND THE COUNTRY"
+    },
+    {
+      "id": "te:markets:551689",
+      "time": "2026-05-19 02:30:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: XRP Drops by 2.36% — Top crypto losers are XRP (-2.36%), Ether (-1.92%), Binance (-1.69%) and Bitcoin (-1.52%)."
+    },
+    {
+      "id": "4886457",
+      "time": "2026-05-19 02:30:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收漲2.17%，報686.90元人民幣/桶。滬金夜盤收漲0.10%，滬銀收漲1.02%。"
+    },
+    {
+      "id": "4886456",
+      "time": "2026-05-19 02:29:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【阿聯酋巴拉卡核電站場外電力已恢復】當地時間5月18日，阿聯酋方面告知國際原子能機構，此前巴拉卡核電站3號機組附近一臺發電機遭無人機襲擊起火，該機組的場外電力現已恢復。當地時間17日，阿聯酋阿布扎比媒體辦公室表示，宰夫拉地區的巴拉卡核電站外圍區域一臺電力發電機發生火災事故。該事故由無人機襲擊引發，未造成人員傷亡，也未對輻射安全水平產生任何影響。（央視新聞）"
+    },
+    {
+      "id": "4886455",
+      "time": "2026-05-19 02:28:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "戴爾：儲存廠商正加大產能投資，戴爾正平穩應對行業現狀。"
+    },
+    {
+      "id": "mkt:019e3c58-e5d8-7dd6-889e-6e2109a8acce",
+      "time": "2026-05-19 02:28:39",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA'S CEO HUANG SEES DEMAND FOR MEMORY OUTPACING CAPACITY"
+    },
+    {
+      "id": "4886454",
+      "time": "2026-05-19 02:28:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達CEO黃仁勳預計記憶體需求超過產能。"
+    },
+    {
+      "id": "mkt:019e3c58-58bb-7dd6-889e-679ad5ed6662",
+      "time": "2026-05-19 02:28:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "WHITE HOUSE REVIEWS BAN ON TRADING THROUGH BEST PRICE ON STOCKS"
+    },
+    {
+      "id": "4886453",
+      "time": "2026-05-19 02:27:33",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美陪審團駁回馬斯克對OpenAI的訴訟】當地時間18日，美國陪審團裁定，美國開放人工智慧研究中心（OpenAI）及其執行長薩姆·奧爾特曼無需就“偏離慈善使命”一事對埃隆·馬斯克承擔責任，原因是馬斯克提起訴訟時間過晚。此前，馬斯克對OpenAI及其執行長奧爾特曼提起訴訟，指控OpenAI最初邀請馬斯克資助一個致力於造福人類的非營利AI研究機構，但如今卻專注於盈利。（央視新聞）"
+    },
+    {
+      "id": "4886452",
+      "time": "2026-05-19 02:27:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統：對話絕不等於妥協投降。伊朗始終秉持尊嚴與底氣開展對話，堅決捍衛國家正當權益，絕不會在本國人民與國家合法權利面前做出任何退讓。我們將秉持理性立場、傾盡全力為民服務，誓死守護伊朗的國家利益與民族尊嚴。"
+    },
+    {
+      "id": "mkt:019e3c57-925c-7dd6-889e-5a5450b5d67f",
+      "time": "2026-05-19 02:27:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRAN’S PRESIDENT PEZESHKIAN: DIALOGUE DOES NOT MEAN SURRENDER"
+    },
+    {
+      "id": "4886451",
+      "time": "2026-05-19 02:26:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲4%，現報105.06美元/桶。"
+    },
+    {
+      "id": "4886450",
+      "time": "2026-05-19 02:26:47",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破105美元/桶，日內漲3.98%。"
+    },
     {
       "id": "4886449",
       "time": "2026-05-19 02:26:43",
@@ -139552,92 +139667,6 @@
         "國際"
       ],
       "text": "美國原油期貨結算價報每桶98.07美元，上漲2.65美元，漲幅2.78%。"
-    },
-    {
-      "id": "mkt:019e184e-7392-7dd9-b926-128ef9e72b5f",
-      "time": "2026-05-12 02:30:51",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "U.S. CRUDE OIL FUTURES SETTLE AT $98.07/BBL, UP $2.65, 2.78 PCT"
-    },
-    {
-      "id": "4873061",
-      "time": "2026-05-12 02:30:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "已有60名英國工黨議員呼籲首相斯塔默辭職。"
-    },
-    {
-      "id": "te:markets:549730",
-      "time": "2026-05-12 02:30:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: Ether Drops by 1.17% — Today's cryptos market is characterized by modest daily movements, with Ether standing out as the frontrunner with a -1.17% decrease."
-    },
-    {
-      "id": "4873060",
-      "time": "2026-05-12 02:30:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "上期所原油期貨夜盤收漲0.11%，報633.30元人民幣/桶。滬金夜盤收漲0.45%，滬銀收漲6.41%。"
-    },
-    {
-      "id": "4873059",
-      "time": "2026-05-12 02:29:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "福特：福特能源設定年度裝機部署目標為20吉瓦時，首批客戶交付計劃於2027年末進行。"
-    },
-    {
-      "id": "mkt:019e184c-ac9c-7dd9-b926-0c3bfdb2fb69",
-      "time": "2026-05-12 02:28:58",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "SOUTH AFRICA'S PRESIDENT RAMAPHOSA SAYS FULLY INTEND TO CONTINUE SERVING THE PEOPLE OF SOUTH AFRICA"
-    },
-    {
-      "id": "mkt:019e184c-780c-7dd9-b926-00267cd86670",
-      "time": "2026-05-12 02:28:44",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Crypto Concepts",
-        "Bitcoin",
-        "Impact bullish",
-        "Ethereum"
-      ],
-      "text": "PAYWARD, THE PARENT COMPANY OF KRAKEN, IS RAISING FRESH FUNDING AT A $20 BILLION VALUATION - COINDESK"
-    },
-    {
-      "id": "4873058",
-      "time": "2026-05-12 02:28:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "加密貨幣交易所Kraken的母公司Payward正以200億美元估值進行新一輪融資。"
-    },
-    {
-      "id": "4873057",
-      "time": "2026-05-12 02:27:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "南非總統拉馬福薩：我決心履行並完成賦予我的使命。"
     }
   ]
 }
