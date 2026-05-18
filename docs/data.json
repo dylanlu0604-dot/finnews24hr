@@ -1,7 +1,64 @@
 {
-  "updated": "2026-05-18 22:28:10",
-  "count": 15557,
+  "updated": "2026-05-18 22:32:17",
+  "count": 15554,
   "items": [
+    {
+      "id": "4886248",
+      "time": "2026-05-18 22:30:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【立昂微：VCSEL晶片已實現規模出貨 預計今年出貨量會有進一步快速增長】立昂微近日接受機構調研時表示，立昂東芯VCSEL晶片技術居全球第一梯隊，二維可定址大功率VCSEL工藝技術已深度賦能車載鐳射雷達、智慧視覺感測領域，已實現規模出貨，預計2026年出貨量會有進一步的快速增長。"
+    },
+    {
+      "id": "4886247",
+      "time": "2026-05-18 22:30:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部：執勤防空系統攔截並摧毀了91架烏克蘭飛機型無人機。"
+    },
+    {
+      "id": "4886244",
+      "time": "2026-05-18 22:30:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣西啟動洪水防禦四級應急響應】5月18日至21日，廣西強降雨天氣過程仍將持續，部分降雨落區重疊，山洪致災風險較高。鑑於本輪降雨過程局地雨強雨量大、突發性強，落區難以預測，部分河流可能出現超警戒水位洪水，根據自治區水利廳洪水防禦工作預案，自治區水利廳決定自5月18日18時啟動洪水防禦四級應急響應。（新華社）"
+    },
+    {
+      "id": "mkt:019e3b7e-2413-7dd6-889a-d903f79ef7fa",
+      "time": "2026-05-18 22:29:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "REPORTS FROM ISRAEL: THE PRIME MINISTER WILL HOLD A SERIES OF SECURITY DISCUSSIONS TONIGHT"
+    },
+    {
+      "id": "4886243",
+      "time": "2026-05-18 22:29:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：以色列總理內塔尼亞胡今晚將舉行一系列安全討論。"
+    },
+    {
+      "id": "4886242",
+      "time": "2026-05-18 22:28:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "埃拉克托爾集團稱其持有的摩多石油股份佔比從 22.4% 降至 10.4%。"
+    },
+    {
+      "id": "4886241",
+      "time": "2026-05-18 22:27:50",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "T1能源股價上漲17.8%，報每股6.68美元；態勢感知公司披露在該股中新建持倉。"
+    },
     {
       "id": "4886240",
       "time": "2026-05-18 22:27:20",
@@ -78,6 +135,14 @@
         "Impact bullish"
       ],
       "text": "U.S.-LISTED SHARES OF HIVE DIGITAL TECHNOLOGIES RISE 29.9% TO $3.49; SITUATIONAL AWARENESS DISCLOSES NEW STAKE IN CO"
+    },
+    {
+      "id": "4886235",
+      "time": "2026-05-18 22:25:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗新近成立的波斯灣海峽管理局釋出警告，未經伊朗官方許可，任何船隻通行霍爾木茲海峽均屬非法行為。 該機構週一在社交平臺發文稱：霍爾木茲海峽既定通行範圍由伊朗軍方及相關部門劃定，船隻通行必須提前與其全面協調，未經許可擅自通行一律視作違規行徑。"
     },
     {
       "id": "mkt:019e3b7a-349e-7dd6-889a-c5792253c25c",
@@ -140459,104 +140524,6 @@
         "市場"
       ],
       "text": "納斯達克100指數跌至盤中低點0.3%。"
-    },
-    {
-      "id": "te:markets:549697",
-      "time": "2026-05-11 22:32:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Copper Rises to Record High — Copper futures in the US surged to $6.4 per pound on Monday, the highest on record, as concerns about supply and the speculative longer-term demand outlook drove bidding volumes to surge. The ongoing conflict between the US and Iran in the Middle East has all but suspended exports of sulphur and sulphuric acid from the key region since March. The tight supply for the commodity, which is used by refiners through heap leaching and purifying copper to produce anodes, drove China to suspend exports. Consequently, the shortage in top copper producer Chile forced major refiners to cut capacity and lower supply. Meanwhile, major tech companies continued to sign agreements that exponentially increase datacenter construction, supporting the outlook for copper due to its utility in electrification and grid technology. Broader manufacturing demand was also underpinned by robust manufacturing activity in China, with the broader manufacturing PMI rising to an over five-year high."
-    },
-    {
-      "id": "te:markets:549696",
-      "time": "2026-05-11 22:32:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Rises as Trump Rejects Iran Peace Offer — Brent crude futures climbed to above $103 per barrel on Monday after President Donald Trump rejected Iran’s latest response to a US peace proposal, prolonging disruptions in the Strait of Hormuz. Trump called Tehran’s reply “totally unacceptable,” highlighting the fragility of the ceasefire after ten weeks of conflict. The near shutdown of traffic through Hormuz has severely disrupted global shipments of crude oil, LNG and fuels, driving energy prices higher and increasing inflation concerns. Saudi Aramco CEO Amin Nasser warned the market is losing around 100 million barrels of supply each week and said prolonged disruptions could delay normalization until next year. While some tankers from the UAE, Saudi Arabia and Qatar have resumed limited transit, flows remain far below pre-war levels. Fresh drone attacks near Qatar and interceptions in the UAE and Kuwait underscored ongoing security risks, while Israeli Prime Minister Benjamin Netanyahu said the conflict with Iran is “not over.”"
-    },
-    {
-      "id": "4872776",
-      "time": "2026-05-11 22:31:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【泰勝風能：火箭燃料貯箱生產基地尚處於建設階段 預計6月份有部分試製件生產】泰勝風能5月11日在業績說明會上表示，公司高度重視在商業航天領域的業務佈局，公司位於東臺的火箭燃料貯箱生產基地尚處於建設階段，預計6月份有部分試製件生產。目前該業務尚未正式投產，也暫未形成批次供貨訂單。在客戶拓展方面，公司正與多家潛在客戶進行積極接洽與商務洽談，全力推進進入核心客戶供應鏈。"
-    },
-    {
-      "id": "4872775",
-      "time": "2026-05-11 22:31:48",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普示：正在考慮重啟“自由計劃”。"
-    },
-    {
-      "id": "4872774",
-      "time": "2026-05-11 22:31:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "杜克能源：相關貸款可為使用者節省數十億美元開支。"
-    },
-    {
-      "id": "4872773",
-      "time": "2026-05-11 22:31:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "杜克能源向美國能源部申請貸款，用於專案投資。"
-    },
-    {
-      "id": "te:markets:549695",
-      "time": "2026-05-11 22:31:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Oil Climbs as Trump Rejects Iran Peace Offer — WTI crude oil futures climbed to around $97 per barrel on Monday after President Donald Trump rejected Iran’s latest response to a US peace proposal, prolonging disruptions in the Strait of Hormuz. Trump called Tehran’s reply “totally unacceptable,” highlighting the fragility of the ceasefire after ten weeks of conflict. The near shutdown of traffic through Hormuz has severely disrupted global shipments of crude oil, LNG and fuels, driving energy prices higher and increasing inflation concerns. Saudi Aramco CEO Amin Nasser warned the market is losing around 100 million barrels of supply each week and said prolonged disruptions could delay normalization until next year. While some tankers from the UAE, Saudi Arabia and Qatar have resumed limited transit, flows remain far below pre-war levels. Fresh drone attacks near Qatar and interceptions in the UAE and Kuwait underscored ongoing security risks, while Israeli Prime Minister Benjamin Netanyahu said the conflict with Iran is “not over.”"
-    },
-    {
-      "id": "mkt:019e1772-198b-7dd9-b922-3d0b95b02427",
-      "time": "2026-05-11 22:30:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TANKER DEPARTED FROM SHARJAH, CARRIES PANAMANIAN FLAG: TASNIM"
-    },
-    {
-      "id": "4872772",
-      "time": "2026-05-11 22:30:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：油輪從沙迦啟航，懸掛巴拿馬國旗。"
-    },
-    {
-      "id": "4872771",
-      "time": "2026-05-11 22:29:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "訊息人士：儘管中東局勢緊張導致供應短缺，印度仍拒絕了俄羅斯出售受美國製裁液化天然氣的提議，各方正就獲准運輸的貨品繼續進行磋商。"
-    },
-    {
-      "id": "4872770",
-      "time": "2026-05-11 22:28:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "Tapestry旗下 MIRA 人工智慧平臺獲得美國專利。"
     }
   ]
 }
