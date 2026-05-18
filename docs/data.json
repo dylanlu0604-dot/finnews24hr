@@ -1,7 +1,56 @@
 {
-  "updated": "2026-05-18 07:57:13",
-  "count": 15354,
+  "updated": "2026-05-18 08:00:50",
+  "count": 15356,
   "items": [
+    {
+      "id": "4884405",
+      "time": "2026-05-18 08:00:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數上午開盤報61299.87點，跌幅0.18%。"
+    },
+    {
+      "id": "te:markets:551343",
+      "time": "2026-05-18 08:00:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "currency",
+        "Importance 1"
+      ],
+      "text": "Dollar Index Hits 5-week High — DXY increased to 99.35, the highest since April 2026. Over the past 4 weeks, Dollar Index gained 1.24%, and in the last 12 months, it decreased 1.49%."
+    },
+    {
+      "id": "4884404",
+      "time": "2026-05-18 07:59:01",
+      "tags": [
+        "央行"
+      ],
+      "text": "【中國央行公開市場本週逆回購到期規模縮量至30億元】其中，週一有10億元逆回購到期，週二到週五各有5億元逆回購到期。週一將開展300億元21天期和700億元1個月期中央國庫現金定存招標。週一還有8000億元6個月期買斷式逆回購到期，此前中國央行已提前縮量續作3000億元。"
+    },
+    {
+      "id": "4884403",
+      "time": "2026-05-18 07:57:50",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【隨著全球債券拋售潮持續蔓延 日本國債收益率飆升】週一開盤，10年期日本國債收益率上漲10個基點，表明上週加速的全球債券拋售潮並未緩解。布倫特原油價格突破110美元，且霍爾木茲海峽重開仍無進展跡象，通脹和利率的上行壓力持續加劇。隨著美國股指期貨走軟，收益率上升拖累股市的趨勢預計將持續。"
+    },
+    {
+      "id": "te:markets:551341",
+      "time": "2026-05-18 07:56:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Edge Lower Ahead of Major Earnings — US stock futures edged lower on Monday as investors awaited Nvidia’s closely watched earnings report later this week for fresh signals on the durability of the artificial intelligence-driven market rally. Earnings from major retailers including Walmart and Target are also expected to offer insight into how the Middle East-driven energy price shock is affecting US consumer spending. Meanwhile, oil prices continued to rise after President Donald Trump warned that Tehran is running out of time to reach a deal with Washington, while Iranian media reports indicated negotiations remain far apart. Last week, the S&P 500 and Nasdaq Composite climbed to new record highs as gains in technology and AI-related shares extended further, though both indexes pulled back on Friday as Treasury yields jumped amid growing inflation concerns. Recent economic data also pointed to accelerating US inflation, leading traders to fully rule out any Federal Reserve rate cuts this year."
+    },
     {
       "id": "4884400",
       "time": "2026-05-18 07:55:52",
@@ -138553,32 +138602,6 @@
         "國際"
       ],
       "text": "日本日經平均股價創下歷史新高。"
-    },
-    {
-      "id": "4871068",
-      "time": "2026-05-11 08:00:40",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數（KOSPI）開盤上漲3.7%，至7775.31點。"
-    },
-    {
-      "id": "4871067",
-      "time": "2026-05-11 08:00:18",
-      "tags": [
-        "市場"
-      ],
-      "text": "【日韓股市開盤】日經225指數上午開盤報63203.44點，漲幅0.78％。韓國綜合股價指數（KOSPI）開盤上漲3.7％，至7775.31點。"
-    },
-    {
-      "id": "4871066",
-      "time": "2026-05-11 07:57:24",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【A股分紅派息轉增一覽：22股今日股權登記】Wind資料顯示，根據上市公司權益分配方案梳理統計，22只A股今日股權登記。其中，22股擬派息。分紅派息方面，22只個股分紅派息的股權登記日為5月11日。卓創資訊、陽光電源、四川黃金分紅力度最大，每10股分別派息8.00元、6.90元、5.00元。此外，還有1股丟擲分紅派息預案，拓荊科技擬分紅力度最大，每10股擬派息3.3元。"
     }
   ]
 }
