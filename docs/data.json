@@ -1,7 +1,200 @@
 {
-  "updated": "2026-05-18 09:31:42",
-  "count": 15402,
+  "updated": "2026-05-18 09:35:43",
+  "count": 15404,
   "items": [
+    {
+      "id": "4884596",
+      "time": "2026-05-18 09:34:51",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲3%，現報2991.00元。"
+    },
+    {
+      "id": "mkt:019e38b8-87a4-7663-82fd-d0375429913d",
+      "time": "2026-05-18 09:34:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "EUROSTOXX 50 FUTURES EXTEND FALL TO 1.1%, DAX FUTURES DOWN 1.0%, FTSE FUTURES DIP 0.1%"
+    },
+    {
+      "id": "4884595",
+      "time": "2026-05-18 09:34:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐元斯托克50股指期貨跌幅擴大至1.1%，德國DAX股指期貨下跌1.0%，富時股指期貨下跌0.1%。"
+    },
+    {
+      "id": "4884594",
+      "time": "2026-05-18 09:34:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "億萬富豪萊因哈特斥資 1 億美元押注美國國防類股票。"
+    },
+    {
+      "id": "4884593",
+      "time": "2026-05-18 09:33:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "今日翼菲科技（HK:06871）正式登陸港交所，首日高開逾79%，市值133.8億港元，成為“港股輕工業全品類機器人第一股”。"
+    },
+    {
+      "id": "4884592",
+      "time": "2026-05-18 09:33:46",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【光纖概念表現活躍 長盈通漲超13%】光纖概念表現活躍，長盈通漲超13%，中天科技、通鼎互聯、長飛光纖、杭電股份跟漲。訊息面上，今年一季度，光纖光纜和光模組幾款產品出口量同比增長都在兩位數以上，多家企業出口訂單排到2028年。其中，特種光纖產品出貨價格1年內上漲10倍，仍供不應求。"
+    },
+    {
+      "id": "4884591",
+      "time": "2026-05-18 09:33:32",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【長鑫儲存概念盤初活躍 合肥城建等多股一字漲停】早盤長鑫儲存概念活躍，合肥城建、合百集團、上峰水泥一字漲停；兆易創新漲超8%，續創歷史新高。柏誠股份、精智達、中山公用等跟漲。訊息面上，長鑫科技科創板IPO招股說明書（申報稿）顯示，一季度營收同比增長719.13%，淨利潤330億元。預計上半年營收1100-1200億元，扣非歸母淨利潤520-580億元。"
+    },
+    {
+      "id": "mkt:019e38b7-6e19-7663-82fd-ceb0a80db7d9",
+      "time": "2026-05-18 09:33:25",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "YIELD ON 30-YEAR JGB RISES 20 BASIS POINTS TO 4.2%"
+    },
+    {
+      "id": "4884590",
+      "time": "2026-05-18 09:33:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【103號汽油到底有多猛】5月16日，我國自主研發生產的103號賽級汽油在2026環塔克拉瑪干汽車摩托車越野拉力賽中正式投入使用。這是國內首批實現工業化生產的103號高標號賽級汽油，填補了國內高效能賽車燃油的空白，結束了我國頂級賽事用油長期依賴進口的局面。92、95、98、103這些數字主要對應汽油的研究法辛烷值，反映的是汽油抗爆能力。數字越高，說明汽油在發動機高溫、高壓環境下越不容易提前自燃。103號汽油是給賽車使用的高階燃油，我們普通家用汽車用不到，繼續按照汽車說明書進行加油就可以了。雖然普通家用車用不到，但我們實現103號汽油的工業化生產仍然具有重要意義。從92號到103號，從國一排放標準到國六，中國僅用二十多年時間，就走完了歐美發達國家半個多世紀的油品升級歷程。（央視財經）"
+    },
+    {
+      "id": "4884589",
+      "time": "2026-05-18 09:33:13",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "市場訊息：丹麥基金與泰國全球電力公司擬出售臺灣海上風電場資產。"
+    },
+    {
+      "id": "4884588",
+      "time": "2026-05-18 09:32:47",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "A股儲存晶片板塊盤初走強，商絡電子漲超10%，百傲化學、柏誠股份漲停，三孚股份、深科技等跟漲。"
+    },
+    {
+      "id": "mkt:019e38b7-3ba9-7663-82fd-c1685fb13608",
+      "time": "2026-05-18 09:32:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "CNH",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "CHINA APRIL GUANGZHOU NEW HOME PRICES +0.1% M/M (MARCH +0.3%) – STATS BUREAU CHINA APRIL SHANGHAI NEW HOME PRICES +0.4% M/M (MARCH +0.3%) – STATS BUREAU CHINA APRIL SHENZHEN NEW HOME PRICES +0.1% M/M (MARCH +0.2%) – STATS BUREAU"
+    },
+    {
+      "id": "mkt:019e38b6-e9ef-7663-82fd-bcb9c1b3116d",
+      "time": "2026-05-18 09:32:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bearish",
+        "CSI300"
+      ],
+      "text": "CHINA APRIL BEIJING NEW HOME PRICES -2.3% Y/Y (MARCH -2.1%) – STATS BUREAU"
+    },
+    {
+      "id": "4884587",
+      "time": "2026-05-18 09:32:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內跌幅達1.11%，成分股中，戈碧迦跌4.91%，連城數控跌4.60%，華密新材跌3.85%，基康技術跌3.37%。"
+    },
+    {
+      "id": "4884586",
+      "time": "2026-05-18 09:31:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生指數跌超1%，現報25702.420點；恒生科技指數現跌1.403%。"
+    },
+    {
+      "id": "4884585",
+      "time": "2026-05-18 09:31:36",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "港股汽車股盤初快速下挫，理想汽車(02015.HK)、零跑汽車(09863.HK)跌超8%，蔚來-SW(09866.HK)跌超3%，比亞迪股份(01211.HK)、長城汽車(02333.HK)等跟跌。"
+    },
+    {
+      "id": "mkt:019e38b6-e6da-7663-82fd-b5cadf40bc96",
+      "time": "2026-05-18 09:31:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "CHINA APRIL BEIJING NEW HOME PRICES -0.2% M/M (MARCH 0%) – STATS BUREAU"
+    },
+    {
+      "id": "4884584",
+      "time": "2026-05-18 09:31:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國家統計局：一二三線城市商品住宅銷售價格同比下降 】4月份，一線城市新建商品住宅銷售價格同比下降2.1%，降幅比上月收窄0.1個百分點。其中，上海上漲3.7%，北京、廣州和深圳分別下降2.3%、4.4%和5.3%。二線城市新建商品住宅銷售價格同比下降3.3%，降幅與上月相同。三線城市新建商品住宅銷售價格同比下降4.1%，降幅擴大0.1個百分點。 4月份，一線城市二手住宅銷售價格同比下降6.8%，降幅比上月收窄0.6個百分點。其中，北京、上海、廣州和深圳分別下降7.4%、5.6%、7.9%和6.5%。二、三線城市二手住宅銷售價格同比分別下降5.9%和6.3%，降幅分別收窄0.3個和0.1個百分點。"
+    },
+    {
+      "id": "mkt:019e38b6-e4f9-7663-82fd-a80be97b9168",
+      "time": "2026-05-18 09:31:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bearish",
+        "CSI300",
+        "Hang Seng Index"
+      ],
+      "text": "ALL CHINA APRIL NEW HOME PRICES -0.1% M/M (MARCH -0.2%) CHINA APRIL SHANGHAI NEW HOME PRICES +3.7% Y/Y (MARCH +3.7%) – STATS BUREAU CHINA APRIL GUANGZHOU NEW HOME PRICES -4.4% Y/Y (MARCH -4.7%) – STATS BUREAU CHINA APRIL SHENZHEN NEW HOME PRICES -5.3% Y/Y (MARCH -5.5%) – STATS BUREAU"
+    },
     {
       "id": "4884583",
       "time": "2026-05-18 09:30:46",
@@ -17,6 +210,15 @@
         "國際"
       ],
       "text": "日本今日將發行2.5 萬億日元票面利率 2.000% 的五年期債券。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202605183739863979",
+      "time": "2026-05-18 09:30:13",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【統計局：4月份一線城市商品住宅銷售價格環比上漲 二三線城市環比降幅收窄或與上月相同】2026年4月份，70個大中城市中，一線城市商品住宅銷售價格環比上漲，二三線城市環比降幅收窄或與上月相同。新建商品住宅銷售價格環比上漲或持平城市個數比上月增加。4月份，一線城市新建商品住宅銷售價格環比上漲0.1%，漲幅比上月回落0.1個百分點。其中，上海、廣州和深圳分別上漲0.4%、0.1%和0.1%，北京下降0.2%。二線城市新建商品住宅銷售價格環比下降0.1%，降幅比上月收窄0.1個百分點。三線城市新建商品住宅銷售價格環比下降0.3%，降幅與上月相同。70個大中城市中，新建商品住宅銷售價格環比上漲或持平城市共有21個，比上月增加5個。"
     },
     {
       "id": "4884581",
@@ -138818,194 +139020,6 @@
         "Importance 1"
       ],
       "text": "South Korean Shares Hit Record High on Chip Rally — The benchmark KOSPI surged more than 4% to around 7,850 on Monday, hitting a fresh record high, driven by continued strength in semiconductor and AI-related shares after another rally on Wall Street. Samsung Electronics jumped over 7% while SK hynix soared nearly 12%, tracking strong gains in major US chipmakers. Investor sentiment was further supported by data showing South Korea’s exports rose 43.7% year-on-year in the first 10 days of May, with semiconductor shipments surging almost 150% to a record high amid booming AI server demand. Other notable gainers included SK Square (5.1%), HD Hyundai Heavy Industries (3.0%), Hanwha Aerospace (2.7%), and Kia Corporation (5.8%). Meanwhile, markets also monitored escalating geopolitical tensions in the Middle East after Seoul confirmed that unidentified airborne objects struck a South Korean-operated vessel in the Strait of Hormuz, contributing to a sharp rise in global oil prices and renewed concerns over energy supply disruptions."
-    },
-    {
-      "id": "mkt:019e14ac-e655-7dd9-b91a-0199bc87e8c2",
-      "time": "2026-05-11 09:35:35",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "SZSE Component",
-        "Impact bullish"
-      ],
-      "text": "SHENZHEN COMPONENT INDEX UP OVER 1%"
-    },
-    {
-      "id": "4871201",
-      "time": "2026-05-11 09:35:17",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "深證成指漲1.01%，現報15721.687點；上證指數漲0.42%，現報4197.510點；創業板指漲1.11%，現報3838.092點。"
-    },
-    {
-      "id": "mkt:019e14ac-9766-7dd9-b919-feecadd40b2b",
-      "time": "2026-05-11 09:35:15",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "SZSE Component",
-        "Impact bullish"
-      ],
-      "text": "CHINEXT INDEX UP OVER 1%"
-    },
-    {
-      "id": "4871200",
-      "time": "2026-05-11 09:34:59",
-      "tags": [
-        "行業"
-      ],
-      "text": "【創業板指漲1%】創業板指漲幅擴大至1%，上證指數漲0.41%，深證成指漲0.96%。"
-    },
-    {
-      "id": "te:economy:549442",
-      "time": "2026-05-11 09:34:57",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "China",
-        "Inflation Rate",
-        "Importance 3"
-      ],
-      "text": "China April Inflation Rate Beats Forecasts — China’s annual inflation accelerated to 1.2% in April 2026 from 1.0% in March, surpassing market expectations of 0.8%. On a monthly basis, the CPI unexpectedly rose 0.3%, rebounding from a 0.7% decline in March, which was the first drop since November, and contrasting with forecasts for a 0.1% decrease."
-    },
-    {
-      "id": "mkt:019e14ac-0216-7dd9-b919-f51e29e4c716",
-      "time": "2026-05-11 09:34:37",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite",
-        "CNH"
-      ],
-      "text": "CHINA'S STAR 50 INDEX UP OVER 3%"
-    },
-    {
-      "id": "4871199",
-      "time": "2026-05-11 09:34:32",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "創業板指漲1.00%，現報3834.142點；上證指數漲0.40%，現報4196.616點；深證成指漲0.96%，現報15713.176點。"
-    },
-    {
-      "id": "4871198",
-      "time": "2026-05-11 09:34:21",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【磷化工板塊盤初上揚，金正大觸及漲停】磷化工板塊盤初上揚，金正大觸及漲停，澄星股份、興發集團、川金諾、粵桂股份跟漲。"
-    },
-    {
-      "id": "4871197",
-      "time": "2026-05-11 09:34:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【綠電概念反覆活躍 大唐發電4連板】綠電概念反覆活躍，大唐發電4連板，華電遼能、金開新能、華電能源、豫能控股、華銀電力跟漲。訊息面上，國家能源局會同國家發展改革委、工業和資訊化部、國家資料局印發了《關於促進人工智慧與能源雙向賦能的行動方案》。《行動方案》聚焦保障算力設施安全可靠的能源供給、推動算力設施綠色低碳轉型、促進算力電力高效經濟協同。"
-    },
-    {
-      "id": "4871196",
-      "time": "2026-05-11 09:33:58",
-      "tags": [
-        "市場"
-      ],
-      "text": "【玻纖概念反覆走強 山東玻纖8天5板】玻纖概念反覆走強，山東玻纖8天5板，卓郎智慧9天4板，平安電工、宏和科技、國際復材等跟漲。訊息面上，年初至今，電子布進入月度調價模式，今年已經連續4次提價。多家電子布廠商庫存緊張，行業整體處於滿負荷生產狀態。"
-    },
-    {
-      "id": "mkt:019e14ab-4eeb-7dd9-b919-e8422996b2fe",
-      "time": "2026-05-11 09:33:51",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "CHINA A-SHARE MEMORY CHIP SECTOR UP; SINOPHORUS ELECTRONIC MATERIAL HITS LIMIT UP"
-    },
-    {
-      "id": "te:economy:549441",
-      "time": "2026-05-11 09:32:56",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "China",
-        "Producer Prices Change",
-        "Importance 2"
-      ],
-      "text": "China Producer Prices Rise the Most in Near 4 Years — China’s producer prices rose 2.8% yoy in April 2026, picking up from a 0.5% growth in the prior month and exceeding market estimates of 1.5%. It was the second straight month of increase and the steepest pace since July 2022, amid higher global commodity and energy prices following the war in Iran and supply disruptions in the Strait of Hormuz. Government efforts to reduce excess industrial capacity and curb price competition also supported factory-gate prices."
-    },
-    {
-      "id": "4871194",
-      "time": "2026-05-11 09:32:40",
-      "tags": [],
-      "text": "【國家統計局：4月份工業生產者出廠價格同比上漲2.8％ 環比上漲1.7％】國家統計局資料顯示，2026年4月份，全國工業生產者出廠價格同比上漲2.8％，環比上漲1.7％。工業生產者購進價格同比上漲3.5％，環比上漲2.1％。1—4月平均，工業生產者出廠價格比上年同期上漲0.2％，工業生產者購進價格上漲0.5％。"
-    },
-    {
-      "id": "4871193",
-      "time": "2026-05-11 09:32:38",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【光纖概念股反覆活躍，通鼎互聯漲停】光纖概念股反覆活躍，通鼎互聯漲停，三旺通訊、吳通控股、光電股份、石英股份、中航光電跟漲。"
-    },
-    {
-      "id": "4871192",
-      "time": "2026-05-11 09:32:29",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "阿里巴巴港交所股份下跌超2%。"
-    },
-    {
-      "id": "mkt:019e14aa-2f58-7dd9-b919-e53e12eb5f85",
-      "time": "2026-05-11 09:32:28",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alibaba",
-        "Market Regions",
-        "Greater China",
-        "9988.HK",
-        "Impact bearish"
-      ],
-      "text": "HONG KONG SHARES OF ALIBABA DOWN MORE THAN 2%"
-    },
-    {
-      "id": "4871191",
-      "time": "2026-05-11 09:32:19",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "A股儲存晶片板塊盤初活躍，興福電子20CM漲停，同有科技漲超15%，普冉股份、瀾起科技漲超11%，飛凱材料漲超9%。"
-    },
-    {
-      "id": "mkt:019e14a9-9c48-7dd9-b919-db295befa9af",
-      "time": "2026-05-11 09:31:53",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bullish",
-        "Copper",
-        "Impact mixed"
-      ],
-      "text": "CHINA APR PPI +2.8% ON YEAR; MARKET EXPECTED +1.7%"
     }
   ]
 }
