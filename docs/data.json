@@ -1,7 +1,163 @@
 {
-  "updated": "2026-05-18 09:23:45",
-  "count": 15405,
+  "updated": "2026-05-18 09:27:45",
+  "count": 15412,
   "items": [
+    {
+      "id": "4884570",
+      "time": "2026-05-18 09:26:27",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本30年期國債收益率飆升至1999年以來最高水平。"
+    },
+    {
+      "id": "4884569",
+      "time": "2026-05-18 09:26:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三一集團與中國電建簽訂戰略合作協議】據三一集團訊息，三一集團黨委書記、董事長向文波一行於5月14日到訪中國電建集團，與中國電建集團黨委副書記、總經理王小軍舉行會談，並共同見證戰略合作協議再次簽署。按照協議，雙方將建立高層常態化溝通與業務對接機制，聚焦新能源全鏈條合作、工程裝備配套服務、“一帶一路”海外協同、數智建造技術聯合研發等重點方向深度協作。"
+    },
+    {
+      "id": "te:economy:551365",
+      "time": "2026-05-18 09:26:17",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Japan 10Y Bond Yield traded above 2.8 percent — Japan 10Y Bond Yield rose above 2.8, according to over-the-counter interbank yield quotes for this government bond maturity."
+    },
+    {
+      "id": "te:markets:551364",
+      "time": "2026-05-18 09:26:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Heating Oil Extends Gains — Heating oil futures in the US rose above $4.1 per gallon, moving closer to an almost six-week high, amid heightened concerns over prolonged supply disruptions in the Middle East. President Donald Trump continued to adopt a tougher stance toward Tehran as talks between Washington and Iran remained stalled, keeping the Strait of Hormuz largely shut. Concerns deepened further after reports emerged that energy facilities in the Persian Gulf were struck over the weekend. Shipments of refined fuel products from the region have been severely disrupted since the conflict began in March, tightening refinery supplies and driving heating oil futures to a record high of $4.6 per gallon. Meanwhile, recent EIA data showed US distillate fuel inventories unexpectedly rose in early May while gasoline stockpiles declined, suggesting refineries prioritized diesel and jet fuel output amid tight global transportation fuel supplies."
+    },
+    {
+      "id": "4884568",
+      "time": "2026-05-18 09:26:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華羽先翔完成超億元Pre-A+輪融資，螞蟻集團領投】近日，華羽先翔完成超億元Pre-A+輪融資，本輪融資由螞蟻集團領投、彼岸時代及復星創富跟投。融資資金將重點用於加速鴻鵠系列eVTOL的適航取證，以及低空出行及商業場景的落地與創新。"
+    },
+    {
+      "id": "te:markets:551363",
+      "time": "2026-05-18 09:25:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Australian Dollar Hits Near 3-Week Low — The Australian dollar depreciated to around $0.71 on Monday, marking its third consecutive session of losses and hitting its lowest level in nearly three weeks, as investors continued to favor the safe-haven US dollar amid uncertainty over US–Iran peace negotiations. President Trump warned that “the clock is ticking” for Tehran to reach a deal, while Iran’s Mehr News Agency said Washington had offered “no tangible concessions” and continued to demand unacceptable terms. Domestically, attention is now turning to the RBA’s meeting minutes later this week for further clues on the policy outlook, after the central bank raised its cash rate by 25 bps to 4.35% in May. Investors are also watching remarks from Sarah Hunter, who is expected to remain cautiously hawkish and keep rate-hike options open if inflation stays high. Meanwhile, the April labour market report will be closely monitored for signs that higher rates and fuel costs are weighing on demand and economic activity."
+    },
+    {
+      "id": "4884567",
+      "time": "2026-05-18 09:25:53",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【巨力索具競價跌停】巨力索具競價跌停，訊息面上，5月15日晚間，由知名演員楊子家族實際掌控的A股上市公司巨力索具，正式釋出公告對外確認，公司已於當日收到中國證監會下發的立案調查告知書。"
+    },
+    {
+      "id": "mkt:019e38b0-7cca-7663-82fd-9a72071c8f3f",
+      "time": "2026-05-18 09:25:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component"
+      ],
+      "text": "CHINA A-SHARES OPEN LOWER: SHANGHAI COMPOSITE DOWN 0.37%, SHENZHEN COMPONENT DOWN 0.62%, CHINEXT DOWN 0.87%"
+    },
+    {
+      "id": "mkt:019e38b0-440d-7663-82fd-942edca399ec",
+      "time": "2026-05-18 09:25:36",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "0981.HK",
+        "Impact bearish"
+      ],
+      "text": "HK SEMICONDUCTOR STOCKS OPEN LOWER: INNOSCIENCE DOWN 4.88% AT OPEN, SMIC OPENS MARGINALLY LOWER"
+    },
+    {
+      "id": "4884566",
+      "time": "2026-05-18 09:25:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【六大方向推進全球合作 獨家探訪世界資料組織北京總部】記者今天從世界資料組織瞭解到，作為全球首個以推動資料發展與治理實踐為宗旨的專業性國際組織，世界資料組織自3月30日成立後，現已進入常態化執行階段。世界資料組織副理事長兼秘書長楊傑表示：在過去1個多月時間裡，我們已經收到了來自全球多個國家和地區的上百份會員申請。按照章程規定，所有申請都需要經過規範的稽核流程，才能最終確定會員資格。目前，世界資料組織的會員總數已經達到了235個，覆蓋了42個國家和地區，其中，企業會員佔比超過76%，已經初步形成了兼具國際性、專業性和代表性的會員體系。（央視新聞）"
+    },
+    {
+      "id": "4884565",
+      "time": "2026-05-18 09:25:18",
+      "tags": [],
+      "text": "三大股指低開，滬指跌0.37％，深成指跌0.62％，創業板跌0.87％。"
+    },
+    {
+      "id": "4884564",
+      "time": "2026-05-18 09:24:09",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "玻璃連續主力合約日內跌2%，現報1025.00元。"
+    },
+    {
+      "id": "4884563",
+      "time": "2026-05-18 09:24:06",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本30年期國債收益率大漲20個基點至4.2%。"
+    },
+    {
+      "id": "mkt:019e38ae-940e-7663-82fd-8f7446da1dd0",
+      "time": "2026-05-18 09:23:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Star Stocks",
+        "Xiaomi",
+        "JD.com",
+        "LI.O",
+        "Impact bearish",
+        "1810.HK",
+        "Impact bullish",
+        "JD.O"
+      ],
+      "text": "HONG KONG’S HANG SENG INDEX OPENS DOWN 0.48%, HANG SENG TECH INDEX DOWN 0.88%; LENS TECHNOLOGY UP OVER 2%, XIAOMI UP NEARLY 1%, LI AUTO DOWN OVER 4%, JD.COM, KUAISHOU DOWN OVER 2%"
+    },
+    {
+      "id": "4884562",
+      "time": "2026-05-18 09:23:36",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【花旗上調中芯國際評級至買入 因產能利用率改善與定價提升等】花旗上調中芯國際評級至買入，稱其一季度業績好於該行預期。由於國內替代、消費電子需求復甦以及更強勁的工業和汽車需求支援了增長，該公司的表現優於常規季節性表現；對華虹半導體維持買入評級。"
+    },
     {
       "id": "4884561",
       "time": "2026-05-18 09:22:45",
@@ -22,6 +178,14 @@
       "text": "【全球晶片LOF和中韓半導體ETF再停牌】2只備受關注的高溢價基金再宣佈今天開盤至10點半期間停牌。其中，景順長城全球晶片LOF上週五收盤時的升貼水率為27.07%，較此前的峰值稍有回落，當天收跌8.18%。中韓半導體ETF華泰柏瑞上週五的溢折率則達到35.94%，創該ETF上市以來的新高，若該ETF今天午間收盤二級市場交易價格溢價幅度仍處於較高水平，有權申請今天下午盤中臨時停牌至收盤的措施以向市場警示風險，具體以屆時公告為準。2家基金管理人均鄭重提醒廣大投資者，應密切關注二級市場交易價格溢價風險。"
     },
     {
+      "id": "4884559",
+      "time": "2026-05-18 09:22:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【利歐股份戰略投資眸深智慧】近日，利歐股份參與眸深智慧（MoShen Intelligence）3億元人民幣Pre-A輪融資。本輪融資獲5倍超額認購，綠技行資本、閩招基金等國有資本平臺，華福資本、英掘榮耀、庚辛資本等財務投資機構，以及產業投資方共同參與。此次戰略投資是利歐持續探索AI物理世界前沿、關注科技創新與產業協同機會的重要實踐。在泵與系統板塊，公司正將AI融入研發、製造、運維及新應用拓展等環節，推動傳統制造向智慧製造升級，並積極佈局面向AI資料中心液冷需求的新賽道。"
+    },
+    {
       "id": "mkt:019e38ad-63ff-7663-82fd-875cdba9d4eb",
       "time": "2026-05-18 09:22:27",
       "tags": [
@@ -33,6 +197,15 @@
         "DXY"
       ],
       "text": "YIELD ON 5-YEAR JGB UP 5 BASIS POINTS TO 2.035%"
+    },
+    {
+      "id": "em:qqyh_zgyh:202605183739852050",
+      "time": "2026-05-18 09:22:24",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【央行公開市場開展10億元7天期逆回購操作】央行公開市場開展10億元7天期逆回購操作，操作利率1.40%。Wind資料顯示，今日10億元逆回購到期。"
     },
     {
       "id": "4884558",
@@ -87,6 +260,14 @@
         "國際"
       ],
       "text": "日本考慮發債籌措追加預算資金。"
+    },
+    {
+      "id": "4884553",
+      "time": "2026-05-18 09:21:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026世界電信和資訊社會日大會在武漢召開】5月17日，2026世界電信和資訊社會日大會在湖北省武漢市召開。工業和資訊化部總工程師鍾志紅，湖北省副省長黎東輝，中國通訊學會名譽理事長、原國際電信聯盟秘書長趙厚麟出席大會並致辭。鍾志紅表示，資訊通訊是互聯世界中的數字生命線。近年來，中國資訊通訊業現代化發展邁出堅實步伐，建成全球規模最大、覆蓋廣泛、技術先進、效能優良的資訊通訊網路，5G、千兆光網、工業網際網路等助力企業降本、提質、增效、節能作用顯著，一系列解民憂、暖民心的務實舉措落地落細，為加快發展新質生產力、推進新型工業化提供了有力支撐。當前，“十五五”已全面開局，資訊通訊業要堅持高質量發展主線，堅持賦能實體經濟數字化轉型，持續夯實網路基礎，提升產業科技創新能力，不斷激發市場活力，切實增進民生福祉，築牢網路安全和資料安全防線，為建設製造強國和網路強國作出新的更大貢獻。大會發布2026資訊通訊暖心服務十件實事、國家應急通訊融合接入平臺全國應用等重要成果，來自政產學研用等領域的專家學者開展了廣泛深入的交流研討。工業和資訊化部有關司局、部屬單位負責同志，湖北省工業和資訊化廳、通訊管理局負責同志參加大會。"
     },
     {
       "id": "4884552",
@@ -138935,102 +139116,6 @@
         "國際"
       ],
       "text": "【光大期貨：強就業與高油價夾擊，黃金等待政策與地緣雙重訊號】市場的核心矛盾仍圍繞美聯儲政策與地緣衝突展開。首先，鮑威爾主席任期將在15日到期，新任主席沃什的貨幣政策立場將成為市場關注的焦點。若沃什首次官方發言偏向鷹派的漸進式降息模式，可能對金價走勢不利。其次，美伊談判視窗期正在關閉，美方雖然表示“預計很快收到伊朗回應”，但伊朗革命衛隊則宣稱導彈已鎖定美方目標並等待開火命令，局勢是否迎來逆轉仍未可知。（光大期貨）"
-    },
-    {
-      "id": "4871180",
-      "time": "2026-05-11 09:27:44",
-      "tags": [],
-      "text": "【滬指突破4200點】滬指近期持續走強，盤中突破4200點，再創2015年7月2日以來新高。"
-    },
-    {
-      "id": "4871179",
-      "time": "2026-05-11 09:27:31",
-      "tags": [
-        "市場"
-      ],
-      "text": "【ETF開盤：中證2000ETF領漲9.99%，中概網際網路ETF領跌1.31%】ETF開盤漲跌不一，中證2000ETF（561370）領漲9.99%，湖北ETF（159743）漲9.48%，A500增強ETF（159240）漲9.03%，中概網際網路ETF（159607）領跌1.31%，中概網際網路ETF（513050）跌1.29%，黃金股ETF（517520）跌1.29%。"
-    },
-    {
-      "id": "4871178",
-      "time": "2026-05-11 09:27:10",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【儲存晶片板塊高開，紅板科技漲停】儲存晶片板塊高開，紅板科技漲停，江波龍、同有科技、興福電子漲超10%，瀾起科技、普冉股份、佰維儲存、朗科科技、恆爍股份跟漲。相關ETF方面，晶片ETF廣發（159801）漲3.06%，成交額397.34萬元，晶片ETF易方達（516350）漲2.93%，成交額174.64萬元。訊息面上，近期，儲存晶片產業鏈全線爆發，海內外相關個股持續大漲。美股方面，週五晚，儲存晶片股領漲，閃迪漲超16%，美光科技漲超15%，英特爾漲近14%，希捷科技漲超2%，股價均創下歷史新高。"
-    },
-    {
-      "id": "4871177",
-      "time": "2026-05-11 09:26:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【Faraday Future宣佈人事調整：賈躍亭出任FF全球CEO】5月11日，Faraday Future宣佈一系列人事調整：公司董事會任命賈躍亭為FF全球CEO，Jerry Wang為FF全球執行董事長；同意Matthias Aydt辭去全球Co-CEO職務，並任命獨立董事Chad Chen為首席獨立董事。以上任命及調整已於2026年5月5日起生效。"
-    },
-    {
-      "id": "mkt:019e14a4-518e-7dd9-b919-9ff00eb6e910",
-      "time": "2026-05-11 09:26:13",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bullish",
-        "SZSE Component"
-      ],
-      "text": "CHINA A-SHARES OPEN HIGHER: SHANGHAI COMPOSITE INDEX +0.51%, SHENZHEN COMPONENT INDEX +0.86%, CHINEXT +0.88%"
-    },
-    {
-      "id": "4871176",
-      "time": "2026-05-11 09:26:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "【寧德時代成立兩家新公司，含AI軟體開發業務】企查查APP顯示，近日，銀川時代電服科技有限公司、蘭州時代電服科技有限公司成立，註冊資本均為1000萬元，經營範圍均包含：機械裝置研發；人工智慧應用軟體開發；軟體開發等。企查查股權穿透顯示，二者皆由寧德時代間接全資持股。"
-    },
-    {
-      "id": "mkt:019e14a4-1889-7dd9-b919-9194e4ccacdd",
-      "time": "2026-05-11 09:25:58",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars"
-      ],
-      "text": "HONG KONG CHIP STOCKS RALLY: MONTAGE TECH +14%+, GIGADEVICE +9%+, BIREN TECH NEARLY +6%"
-    },
-    {
-      "id": "4871175",
-      "time": "2026-05-11 09:25:51",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "【中金財富期貨：短期內鋅價大機率延續高位震盪格局】中金財富期貨稱，中國擬自5月起暫停硫酸出口，若政策落地，冶煉廠面臨脹庫風險，可能倒逼開工率下滑，屆時鋅錠的供應將實質性收緊。下游消費缺乏亮點，鍍鋅消費雖有一定韌性，但壓鑄訂單增量有限，導致整體需求端承壓。短期內鋅價大機率延續高位震盪格局，受國內高庫存和下游畏高情緒壓制，突破區間上限的動能不足。"
-    },
-    {
-      "id": "4871174",
-      "time": "2026-05-11 09:25:28",
-      "tags": [],
-      "text": "三大股指高開，滬指漲0.51％，深成指漲0.86％，創業板漲0.88％。"
-    },
-    {
-      "id": "4871173",
-      "time": "2026-05-11 09:24:55",
-      "tags": [
-        "市場"
-      ],
-      "text": "韓元下跌0.7%，表現弱於亞洲新興市場其他貨幣。"
-    },
-    {
-      "id": "4871172",
-      "time": "2026-05-11 09:23:53",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "港股晶片股集體走強，瀾起科技漲超14％，兆易創新漲超9％，壁仞科技漲近6％，天數智芯、華虹半導體漲超5％。"
     }
   ]
 }
