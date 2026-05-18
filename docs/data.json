@@ -1,7 +1,46 @@
 {
-  "updated": "2026-05-19 02:34:58",
+  "updated": "2026-05-19 02:38:45",
   "count": 15453,
   "items": [
+    {
+      "id": "mkt:019e3c60-20ad-7dd6-889e-b1bac6788bdc",
+      "time": "2026-05-19 02:36:33",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AI Revolution",
+        "LRCX.O",
+        "Impact bullish",
+        "AMAT.O",
+        "ASML.AS"
+      ],
+      "text": "HUANG: AI BOOM DRIVING EXPANSION OF CHIP MAKING BEYOND TAIWAN"
+    },
+    {
+      "id": "4886460",
+      "time": "2026-05-19 02:35:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達CEO黃仁勳：人工智慧熱潮正推動晶片產能佈局向外擴張。"
+    },
+    {
+      "id": "mkt:019e3c5f-3fef-7dd6-889e-a8aa4d49e4f3",
+      "time": "2026-05-19 02:35:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "HUANG: WE NEED TO MAKE SURE THE SUPPLY CHAIN IS PREPARED"
+    },
+    {
+      "id": "mkt:019e3c5e-f1a5-7dd6-889e-a1138a74a500",
+      "time": "2026-05-19 02:35:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "HUANG: IT WILL BE HARD TO KEEP UP WITH BUILDOUT FOR A DECADE"
+    },
     {
       "id": "mkt:019e3c5c-e1d7-7dd6-889e-9a04c2f7d3d7",
       "time": "2026-05-19 02:32:57",
@@ -139658,46 +139697,6 @@
         "國際"
       ],
       "text": "【委內瑞拉代總統否認該國將成為美國“第51州”】委內瑞拉代總統德爾西·羅德里格斯11日接受媒體採訪時否認這一南美國家將成為美國“第51個州”。"
-    },
-    {
-      "id": "te:markets:549731",
-      "time": "2026-05-12 02:38:28",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "S&P and Nasdaq Hit New Records — US stocks rose on Monday, rebounding from a subdued start to the session, as the S&P 500 and the Nasdaq both gained 0.3% to reach fresh record highs, supported by a strong rally in chipmakers amid continued optimism over AI-driven demand. The Dow Jones also advanced by around 100 points. Among the standout performers, Nvidia climbed 2.9%, Tesla surged more than 4%, Qualcomm jumped nearly 9%, and AMD added 2.6%. Micron Technology soared almost 9%, as labour unrest at Samsung Electronics and ongoing supply constraints fuelled expectations of tighter memory-chip markets. Energy and industrial stocks also posted solid gains. The market’s advance came despite another increase in oil prices after US President Donald Trump rejected Iran’s response to his proposal, warning that the ceasefire was on “life support”. Investors were also turning their attention to an expected summit later this week between President Trump and Chinese President Xi Jinping."
-    },
-    {
-      "id": "4873069",
-      "time": "2026-05-12 02:38:27",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國國務院：美國不會承認和認可那些縱容大規模移民湧入美國及西方國家的全球契約。在特朗普政府執政下，美國國務院將推動回遷移民，而非替代性移民。"
-    },
-    {
-      "id": "4873068",
-      "time": "2026-05-12 02:38:19",
-      "tags": [
-        "宏觀",
-        "焦點",
-        "國際"
-      ],
-      "text": "美國國務院：《移民問題全球契約》聲稱倡導 “安全” 移民。但對西方國家民眾而言，大規模移民從來都不安全。它帶來了新的安全威脅，加重財政負擔，並破壞社會凝聚力。"
-    },
-    {
-      "id": "4873067",
-      "time": "2026-05-12 02:38:07",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國國務院：上週，美國拒絕參與聯合國《移民問題全球契約》的審議程序。美國反對《移民問題全球契約》，也反對聯合國推動向美國及西方盟友開展替代性移民的相關舉措。"
     }
   ]
 }
