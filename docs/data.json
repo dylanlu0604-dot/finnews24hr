@@ -1,7 +1,191 @@
 {
-  "updated": "2026-05-18 09:03:55",
-  "count": 15381,
+  "updated": "2026-05-18 09:07:57",
+  "count": 15395,
   "items": [
+    {
+      "id": "4884529",
+      "time": "2026-05-18 09:06:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣股市跌逾2%。"
+    },
+    {
+      "id": "4884528",
+      "time": "2026-05-18 09:06:06",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經指數下跌1%，至60783.67點。"
+    },
+    {
+      "id": "mkt:019e389f-9b91-7663-82fd-2fc663c757da",
+      "time": "2026-05-18 09:05:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "005930.KS",
+        "Impact bullish"
+      ],
+      "text": "SHARES OF SAMSUNG ELECTRONICS RISE MORE THAN 3%"
+    },
+    {
+      "id": "mkt:019e389e-f858-7663-82fd-2246b27f4b2b",
+      "time": "2026-05-18 09:05:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "CHINA’S COMMERCE MINISTRY: FROM JULY 1, CUSTOMS WILL CONDUCT RANDOM PHYSICAL INSPECTIONS ON A CERTAIN PROPORTION OF TAX REFUND CLAIMS FOR PURCHASES BELOW 10,000 YUAN"
+    },
+    {
+      "id": "4884527",
+      "time": "2026-05-18 09:05:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "小米雷軍：小米YU7 GT，將於5月21日晚19:00釋出。同場釋出的還有眾多“人車家全生態”新品：小米17 Max，小米首款耳夾式耳機，小米手環10Pro，多款小米科技家電等。"
+    },
+    {
+      "id": "mkt:019e389e-a997-7663-82fd-1b02c0d0f995",
+      "time": "2026-05-18 09:05:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "CSI300",
+        "Hang Seng Index"
+      ],
+      "text": "CHINA’S COMMERCE MINISTRY: WILL FURTHER OPTIMIZE “BUY NOW, REFUND NOW” SERVICES AND PROMOTE CROSS-REGION MUTUAL RECOGNITION OF INSTANT TAX REFUNDS"
+    },
+    {
+      "id": "4884526",
+      "time": "2026-05-18 09:05:09",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內漲4%，現報4237.00元。"
+    },
+    {
+      "id": "4884525",
+      "time": "2026-05-18 09:05:00",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "三星電子股價逆轉3.1%的跌幅，上漲超過2%。"
+    },
+    {
+      "id": "mkt:019e389d-af25-7663-82fd-17c00518c016",
+      "time": "2026-05-18 09:04:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "CNH",
+        "Hang Seng Index"
+      ],
+      "text": "CHINA’S COMMERCE MINISTRY: WILL EXPAND DUTY-FREE TAX REFUND STORE COVERAGE AND ENCOURAGE MORE ELIGIBLE RETAILERS TO REGISTER AS TAX REFUND STORES"
+    },
+    {
+      "id": "4884524",
+      "time": "2026-05-18 09:04:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "小米YU7 GT，將於5月21日晚19:00釋出。"
+    },
+    {
+      "id": "mkt:019e389c-b8e3-7663-82fd-084cd2a53072",
+      "time": "2026-05-18 09:04:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "SSE Composite",
+        "Hang Seng Index"
+      ],
+      "text": "CHINA’S COMMERCE MINISTRY AND OTHER DEPARTMENTS ISSUED A NOTICE ON STEPPED-UP MEASURES TO OPTIMIZE DEPARTURE TAX REFUNDS AND BOOST INBOUND CONSUMPTION"
+    },
+    {
+      "id": "te:markets:551357",
+      "time": "2026-05-18 09:04:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gasoline Prices Approach 4-Year High — Gasoline futures in the US extended gains above $3.70 per gallon, approaching the four-year high reached in early May, driven by fears of a prolonged energy supply crunch in the Middle East. US President Donald Trump maintained an increasingly hardline stance toward Tehran as negotiations between the US and Iran remained deadlocked, leaving the Strait of Hormuz largely closed. Concerns also intensified after reports that energy facilities in the Persian Gulf were targeted over the weekend. Energy exports from the key region have remained heavily disrupted since early March, causing global oil inventories to decline at a record pace, according to the IEA. Meanwhile, US gasoline stockpiles fell for a 13th consecutive week in early May despite a slight increase in production, as refineries continued operating near full capacity using feedstock supplied from the SPR."
+    },
+    {
+      "id": "mkt:019e389c-3e49-7663-82fd-00217017bcb9",
+      "time": "2026-05-18 09:03:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "Nikkei 225"
+      ],
+      "text": "JAPAN GOVT LIKELY TO ISSUE FRESH DEBT AS PART OF FUNDING FOR EXTRA BUDGET, SOURCE SAYS"
+    },
+    {
+      "id": "4884523",
+      "time": "2026-05-18 09:03:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "蔚來：截至今日，蔚來全國建成8,872座充換電站，其中換電站3,850座，充電站5,022座、充電樁28,859根，累計提供超1億次換電。"
+    },
+    {
+      "id": "4884522",
+      "time": "2026-05-18 09:03:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內跌10%，現報18266.00元。"
+    },
+    {
+      "id": "4884521",
+      "time": "2026-05-18 09:03:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內漲6%，現報679.90元。"
+    },
+    {
+      "id": "4884520",
+      "time": "2026-05-18 09:03:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【酒價內參5月18日價格釋出：精品茅臺再度領漲 總價首次站上萬元關口】新浪財經“酒價內參”過去24小時收集的資料顯示，中國白酒市場主要大單品的終端零售均價在5月18日整體大幅上行。如果主要單品各取一瓶整體打包售賣，今日總售價為10030元，較昨日強勁上漲47元，創下“酒價內參”3月21日升級為當前11款酒品以來的最高紀錄，同時總價首次站上萬元整數關口。市場延續強勢上攻，終端交投情緒升溫，茅臺系及其他醬香品種的表現尤為突出。\n\n今日白酒市場11大單品九漲兩跌，贏家佔據絕對優勢。上漲方面，精品茅臺的漲幅居前，大幅上漲21元/瓶至2425元，創下近一月最大增幅，價格再創近一個月新高，i茅臺16日提價效應持續向終端傳導；國窖1573與古井貢古20均上漲6元/瓶，前者創近一月最高價格紀錄；習酒君品、青花郎及青花汾20均上漲5元/瓶，其中青花郎亦創下近一月最高價紀錄；飛天茅臺上漲3元/瓶，固守在1740元上方；五糧液普五八代與五糧液1618均小幅上漲1元/瓶。下跌方面，洋河夢之藍M6+與水晶劍南春均下跌3元/瓶，前者終結此前的六連陽，連續上漲累積了一定賣盤壓力，但今日價格仍處於月內次高位。"
+    },
+    {
+      "id": "4884519",
+      "time": "2026-05-18 09:02:47",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "低硫燃料油連續主力合約日內漲6%，現報5224.00元。"
+    },
     {
       "id": "4884518",
       "time": "2026-05-18 09:02:13",
@@ -138740,38 +138924,6 @@
         "市場"
       ],
       "text": "【酒價內參5月11日價格釋出：青花郎古20領漲 總價創12天以來新高】新浪財經“酒價內參”過去24小時收集的資料顯示，中國白酒市場主要大單品的終端零售均價在5月11日整體繼續回暖。如果主要單品各取一瓶整體打包售賣，今日總售價為9955元，較昨日上漲11元，創下近12天以來最高。市場連續兩日走強，終端交投情緒保持活躍，核心單品漲跌分化依然顯著。今日白酒市場11大單品五漲五跌一平，漲跌結構均衡。上漲方面，古井貢古20與青花郎漲幅居前，均上漲5元/瓶，雙雙收穫二連陽。前者價格連續兩日快速回彈，重回月內高位550元關口，後者創下近一月最高價格，近期該酒品在700元關口附近波動較為劇烈；習酒君品上漲4元/瓶；國窖1573上漲3元/瓶；五糧液1618上漲1元/瓶。下跌方面，茅臺系飛天茅臺與精品茅臺均下跌2元/瓶；青花汾20、洋河夢之藍M6+及水晶劍南春均下跌1元/瓶。五糧液普五八代的價格環比保持不變。"
-    },
-    {
-      "id": "4871148",
-      "time": "2026-05-11 09:06:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "【西安經開區經發融資擔保有限公司原總經理葛濤接受審查調查】據西安紀委監委訊息，西安經開區經發融資擔保有限公司原總經理葛濤涉嫌嚴重違紀違法，經西安市紀委監委指定管轄，目前正接受西安市雁塔區紀委監委紀律審查和監察調查。"
-    },
-    {
-      "id": "4871147",
-      "time": "2026-05-11 09:06:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "【OpenAI允許員工出售價值至多3000萬美元的股票】據報道，在近期一輪融資中，OpenAI允許每名員工出售價值最高3000萬美元的公司股份，讓他們成為人工智慧浪潮裡最早一批財富受益者。據知情人士透露，去年10月，逾600名在職及離職員工一次性出售所持股份，合計套現66億美元。其中約75人，人均足額拿到了3000萬美元。部分員工選擇捐出剩餘持股，將餘下股份放入捐贈建議基金中。這類慈善投資賬戶既可以將資金用於公益事業，同時捐贈者還能在當年獲得稅收減免。"
-    },
-    {
-      "id": "4871146",
-      "time": "2026-05-11 09:04:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "去年10月，超過600名OPENAI員工出售了股票。"
-    },
-    {
-      "id": "4871145",
-      "time": "2026-05-11 09:04:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：OPENAI允許員工出售價值至多3000萬美元的股票。"
     }
   ]
 }
