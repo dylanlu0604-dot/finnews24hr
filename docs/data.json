@@ -1,7 +1,57 @@
 {
-  "updated": "2026-05-19 05:21:39",
-  "count": 15545,
+  "updated": "2026-05-19 05:25:34",
+  "count": 15550,
   "items": [
+    {
+      "id": "4886605",
+      "time": "2026-05-19 05:24:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普向愛彼迎聯合創始人喬・格比亞致謝。"
+    },
+    {
+      "id": "4886604",
+      "time": "2026-05-19 05:24:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國證券交易委員會正籌備股票通證化交易相關方案。"
+    },
+    {
+      "id": "4886603",
+      "time": "2026-05-19 05:23:54",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國證券交易委員會預計最快於本週出臺針對通證化股票的創新豁免政策。"
+    },
+    {
+      "id": "4886602",
+      "time": "2026-05-19 05:22:53",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "特朗普在醫藥平臺活動上致謝亞馬遜藥房與古德低價藥平臺。"
+    },
+    {
+      "id": "4886601",
+      "time": "2026-05-19 05:22:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普在特朗普醫藥平臺活動上致謝億萬富翁馬克·庫班。"
+    },
+    {
+      "id": "4886600",
+      "time": "2026-05-19 05:21:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：平臺將新增600餘種仿製藥。"
+    },
     {
       "id": "4886599",
       "time": "2026-05-19 05:20:43",
@@ -140514,18 +140564,6 @@
         "觀點"
       ],
       "text": "摩根大通：預計2026年原油均價為96美元/桶，其中二季度、三季度、四季度（均價）料將先後處於103、104、以及98美元。"
-    },
-    {
-      "id": "te:economy:549743",
-      "time": "2026-05-12 05:22:10",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Costa Rica",
-        "Unemployment Rate",
-        "Importance 0"
-      ],
-      "text": "Costa Rica Unemployment Rate Rises in Q1 2026 — Costa Rica’s unemployment rate rose to 7.1% in the first quarter of 2026, up from 6.3% in the previous quarter and little changed compared to the same period a year earlier. The unemployment rate stood at 6.4% for men and 8.1% for women. Nationwide, the number of unemployed people was estimated at 164,000, including 92,000 men and 72,000 women. Meanwhile, the share of employed people classified as underemployed was estimated at 3.3%. The number of workers employed in informal jobs reached 824,000."
     }
   ]
 }
