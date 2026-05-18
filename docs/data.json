@@ -1,7 +1,24 @@
 {
-  "updated": "2026-05-19 05:05:58",
-  "count": 15542,
+  "updated": "2026-05-19 05:09:54",
+  "count": 15543,
   "items": [
+    {
+      "id": "4886591",
+      "time": "2026-05-19 05:09:05",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【日本官員：關注美國國債拋售可能對日元造成的衝擊】日本財務省一名高階官員表示，財務省關注美國國債拋售可能對日元造成的影響。拋售美債推動收益率走高，可能導致日元貶值，這與日本干預匯市的目標相悖。該官員說，日本擁有充足的現金和存款，可用於干預匯市。"
+    },
+    {
+      "id": "4886590",
+      "time": "2026-05-19 05:08:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聖地亞哥官方通報：兩名嫌疑人疑似系開槍自盡身亡，警方人員未開槍射擊。"
+    },
     {
       "id": "4886589",
       "time": "2026-05-19 05:03:03",
@@ -140493,18 +140510,6 @@
         "其他"
       ],
       "text": "英國外交大臣Copper告訴首相斯塔默，他應該要看到一個有序的權力交接。（英國衛報）"
-    },
-    {
-      "id": "te:markets:549741",
-      "time": "2026-05-12 05:07:41",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "Ibovespa Falls as Stagflation Concerns Weigh — The Ibovespa dropped 1.2% to close at 181,909 on Monday, as rising oil prices and persistent uncertainty surrounding US-Iran negotiations weighed on investor sentiment. Washington rejected Tehran’s latest peace proposal. Markets remained pressured by fears that higher energy costs could intensify global stagflation risks. Financial stocks led the decline, with Bradesco down 2.7% and Itaú falling 2.2%. Utilities also underperformed, with Azzas losing 2.8%. Telefônica Brasil plunged 6.1% after posting net income below market expectations. Other notable laggards included WEG (-2.9%) and Rede D’Or (-6.1%). In contrast, Petrobras gained 1.7%, supported by firmer crude prices ahead of its earnings release later in the day. Vale also advanced 2.4% amid higher iron ore prices."
     }
   ]
 }
