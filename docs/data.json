@@ -1,7 +1,138 @@
 {
-  "updated": "2026-05-18 22:24:01",
-  "count": 15549,
+  "updated": "2026-05-18 22:28:10",
+  "count": 15557,
   "items": [
+    {
+      "id": "4886240",
+      "time": "2026-05-18 22:27:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "墨西哥總統辛鮑姆：美國緝毒局局長將於 5 月 25 日到訪墨西哥。"
+    },
+    {
+      "id": "4886239",
+      "time": "2026-05-18 22:27:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "伯克希爾哈撒韋將Alphabet持倉增至三倍以上後，Alphabet股價大漲2.7%，創下歷史新高。"
+    },
+    {
+      "id": "mkt:019e3b7b-98c3-7dd6-889a-d7a63f395a9c",
+      "time": "2026-05-18 22:26:56",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "GOOGL.O",
+        "Impact bullish",
+        "KO.O"
+      ],
+      "text": "ALPHABET SHARES JUMP 2.7% TO RECORD HIGH AFTER BERKSHIRE HATHAWAY MORE THAN TRIPLES ITS STAKE IN CO"
+    },
+    {
+      "id": "4886238",
+      "time": "2026-05-18 22:26:29",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "美股上市的蜂巢數字科技股價大漲 29.9%，報 3.49 美元；態勢洞察公司披露增持該公司股份。"
+    },
+    {
+      "id": "4886237",
+      "time": "2026-05-18 22:26:09",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "印度市場監管機構：擬就放寬機構客戶通話記錄留存要求釋出諮詢檔案。"
+    },
+    {
+      "id": "te:markets:551642",
+      "time": "2026-05-18 22:26:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "European Stocks Rebound — Both the STOXX 50 and STOXX 600 rose 0.8% on Monday, reversing earlier losses amid an improvement in risk sentiment and a decline in oil prices on tentative signs that US-Iran negotiations could resume. Iranian media reported that Washington had proposed a temporary waiver of oil sanctions, while separate reports suggested Tehran may be willing to accept a long-term freeze on its nuclear program. Traders also focused on a steady stream of corporate updates, with most sectors trading in positive territory. HSBC Holdings (+1.4%), Shell (+1.4%), Siemens (+0.9%), TotalEnergies (+1.1%) and SAP (+2.8%) booked strong gains. In contrast, ASML Holding fell 2.7% despite announcing a partnership with Tata Electronics aimed at supporting domestic semiconductor manufacturing in India. Novo Nordisk dropped almost 4%, while Ryanair rebounded to gain nearly 6% following its warning over weaker-than-expected summer pricing trends."
+    },
+    {
+      "id": "4886236",
+      "time": "2026-05-18 22:26:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士：美方在核領域提出的要求純屬政治藉口，且侵犯伊朗民眾權益。此外，美方仍試圖將停戰談判與核問題捆綁，此舉毫無道理，伊朗絕不會應允。美方須清楚，伊朗無論如何都絕不接受以作出核相關承諾作為停戰交換條件。"
+    },
+    {
+      "id": "mkt:019e3b7a-8e9f-7dd6-889a-cb06b11f70a1",
+      "time": "2026-05-18 22:25:47",
+      "tags": [
+        "MKT News",
+        "HIVE.O",
+        "Impact bullish"
+      ],
+      "text": "U.S.-LISTED SHARES OF HIVE DIGITAL TECHNOLOGIES RISE 29.9% TO $3.49; SITUATIONAL AWARENESS DISCLOSES NEW STAKE IN CO"
+    },
+    {
+      "id": "mkt:019e3b7a-349e-7dd6-889a-c5792253c25c",
+      "time": "2026-05-18 22:24:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "HEAD OF U.S. DEPARTMENT OF HOMELAND SECURITY TO VISIT MEXICO ON THURSDAY, SAYS PRESIDENT SHEINBAUM"
+    },
+    {
+      "id": "4886234",
+      "time": "2026-05-18 22:24:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗塔斯尼姆通訊社：接近談判團隊的訊息人士稱，伊朗表示，儘管美方在新檔案中有了一些變化，但由於美國的貪婪和缺乏現實主義，實質性分歧依然存在。伊朗堅決要求美國支付因戰爭造成的賠償。伊朗被凍結的資產必須以明確且確鑿的方式歸還給伊朗人民。"
+    },
+    {
+      "id": "mkt:019e3b79-9c84-7dd6-889a-b87e29b05a58",
+      "time": "2026-05-18 22:24:33",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "TASNIM CITING SOURCE CLOSE TO IRAN NEGOTIATING TEAM: IRAN IS FIRMLY INSISTING U.S. MUST PAY COMPENSATION OVER WAR DAMAGES"
+    },
+    {
+      "id": "4886233",
+      "time": "2026-05-18 22:24:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "墨西哥總統辛鮑姆表示，美國國土安全部部長將於週四訪問墨西哥。"
+    },
+    {
+      "id": "mkt:019e3b78-fbfd-7dd6-889a-b79a3a6a36fb",
+      "time": "2026-05-18 22:24:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SOURCE CLOSE TO THE NEGOTIATION TEAM TOLD THE IRANIAN NEWS AGENCY TASNIM: DESPITE SOME CHANGES IN THE NEW DOCUMENT FROM THE AMERICANS, THE SUBSTANTIVE DIFFERENCES STEMMING FROM THE AMERICANS' GREED AND LACK OF REALISM REMAIN"
+    },
+    {
+      "id": "4886232",
+      "time": "2026-05-18 22:23:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：土耳其航空將於 6 月 8 日恢復飛往迪拜的航班。"
+    },
     {
       "id": "mkt:019e3b78-6dea-7dd6-889a-aaabe160d0f0",
       "time": "2026-05-18 22:23:28",
@@ -19,6 +150,14 @@
         "國際"
       ],
       "text": "伊朗總統佩澤希揚：受戰事影響，伊朗勢必出現通脹加劇、物價上漲的情況。"
+    },
+    {
+      "id": "4886230",
+      "time": "2026-05-18 22:22:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026年全球貿易投資促進峰會在京舉行】5月18日，由中國貿促會主辦的2026年全球貿易投資促進峰會在北京釣魚臺國賓館舉行。峰會主題為“向新而行連結未來”。國家副主席韓正出席開幕式並致辭。中國貿促會會長任鴻斌主持開幕式，代表與會工商界釋出《2026年全球貿易投資促進峰會北京倡議》。《倡議》經與會各國工商界充分溝通協商，達成廣泛共識，主要包括五點倡議：一是培育新質生產力，拓展全球經濟增長新空間；二是推動產業鏈供應鏈開放合作，構建安全穩定高效暢通的全球產業生態；三是以人工智慧賦能經貿合作，共築數智化發展新生態；四是促進服務業與製造業深度融合，引領全球產業提質升級；五是深化全球工商界合作，促進全球可持續發展。（中國貿促）"
     },
     {
       "id": "mkt:019e3b76-b34d-7dd6-889a-a260f0dd939c",
@@ -140418,69 +140557,6 @@
         "國際"
       ],
       "text": "Tapestry旗下 MIRA 人工智慧平臺獲得美國專利。"
-    },
-    {
-      "id": "4872769",
-      "time": "2026-05-11 22:28:00",
-      "tags": [
-        "宏觀",
-        "公司",
-        "國際"
-      ],
-      "text": "【白宮國家經濟委員會主任稱不會為監管AI產品而設立新的官僚機構】白宮國家經濟委員會主任凱文·哈塞特表示，特朗普政府仍在制定前沿AI模型的監管計劃，但並不打算為此設立一個龐大的新機構。哈塞特週一在接受CNBC採訪時稱：“白宮方面沒有人認為我們應該建立一個龐大的新官僚機構來審批AI。”哈塞特表示，美國財政部長斯科特·貝森特、國家網路安全主任Sean Cairncross以及白宮幕僚長蘇西·威爾斯正在協調政府的相關策略。官員們正與私營部門合作，“以確保這些模型在向公眾釋出之前，不會造成極大的危害”。上週報道稱，唐納德·特朗普的一份行政命令草案或改革現有的網路安全資訊共享計劃，將AI公司納入其中，並應對新興技術帶來的威脅。"
-    },
-    {
-      "id": "4872768",
-      "time": "2026-05-11 22:26:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：伊朗仍未允許載有阿聯酋液化天然氣的油輪通行霍爾木茲海峽。"
-    },
-    {
-      "id": "mkt:019e176e-b52a-7dd9-b922-3556ea217a0b",
-      "time": "2026-05-11 22:26:31",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "IRAN YET TO ALLOW TANKER WITH UAE LPG TO PASS HORMUZ: TASNIM"
-    },
-    {
-      "id": "4872767",
-      "time": "2026-05-11 22:25:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "【法國尼斯發生槍擊事件 造成至少1死5傷】當地時間5月11日，法國尼斯市穆蘭街區發生槍擊事件，造成至少1人死亡，5人受傷。據警方訊息，一輛載有兩人的車輛在尼斯穆蘭街區行駛過程中，其中一名乘車人員多次開槍射擊。目前案件仍在調查中。（央視新聞）"
-    },
-    {
-      "id": "4872766",
-      "time": "2026-05-11 22:24:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "據港交所檔案：國聯綠色科技(無錫)股份有限公司向港交所提交上市申請書。"
-    },
-    {
-      "id": "4872765",
-      "time": "2026-05-11 22:24:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "【招商策略：近期海外算力、國產算力、鋰電三個主題的產業景氣度較高】招商策略指出，本週產業集中在海外算力、國產算力和鋰電。近期海外算力、國產算力、鋰電三個主題的產業景氣度較高。海外算力方面，大模型廠商正在投資大規模資料中心和電力資源，算力資產化趨勢更加明確。國產算力方面，DeepSeek V4帶動推理算力需求預期，疊加AI算力鏈一季報業績兌現，市場開始從國產替代預期轉向產業驗證。鋰電方面，5月排產繼續上修，儲能電芯佔比提升，行業走向持續供需緊平衡。投資上，短期彈性最強的是國產算力，該方向同時受益於大模型迭代，國產替代，業績兌現和資金風險偏好修復。中期確定性較強的是海外算力基礎設施，海外AI資本開支仍將拉動伺服器，光模組，液冷和電力裝置。鋰電處於景氣修復階段，儲能排產是現實支撐，鈉電，快充和凝聚態電池是中長期催化。"
-    },
-    {
-      "id": "4872764",
-      "time": "2026-05-11 22:24:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：伊朗方面表示，其提出的緩和美伊緊張局勢的方案公平合理，且立足於合法權益，要求美方解除海上航行限制、解凍凍結資產並放寬制裁。美方已拒絕該方案，雙方緊張局勢仍居高不下。"
     }
   ]
 }
