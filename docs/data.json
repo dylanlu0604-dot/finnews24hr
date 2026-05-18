@@ -1,7 +1,48 @@
 {
-  "updated": "2026-05-18 14:10:32",
-  "count": 15574,
+  "updated": "2026-05-18 14:14:30",
+  "count": 15569,
   "items": [
+    {
+      "id": "4885081",
+      "time": "2026-05-18 14:13:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數收盤下跌1.5%，報8505.30點。"
+    },
+    {
+      "id": "4885080",
+      "time": "2026-05-18 14:12:57",
+      "tags": [
+        "市場",
+        "其他",
+        "A股"
+      ],
+      "text": "【銀行板塊震盪下行，齊魯銀行、廈門銀行跌超3%】銀行板塊震盪下行，齊魯銀行、廈門銀行跌超3%，長沙銀行、寧波銀行、上海銀行紛紛下挫。"
+    },
+    {
+      "id": "te:economy:551462",
+      "time": "2026-05-18 14:12:30",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Italy",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Italy 10Y Bond Yield Hits 5-week High — Italy 10 Year Government Bond Yield increased to 3.99%, the highest since April 2026. Over the past 4 weeks, Italy 10Y Bond Yield gained 25.89 basis points, and in the last 12 months, it increased 38.80 basis points."
+    },
+    {
+      "id": "4885079",
+      "time": "2026-05-18 14:10:57",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點",
+        "A股"
+      ],
+      "text": "【稀土概念股午後下挫 中國稀土跌超5%】稀土概念股午後持續下挫，中國稀土跌超5%，華宏科技、包鋼股份、北方稀土等股跟跌。"
+    },
     {
       "id": "te:economy:551460",
       "time": "2026-05-18 14:09:24",
@@ -140503,87 +140544,6 @@
         "其他"
       ],
       "text": "匈牙利經濟與能源事務部長提名人選卡皮塔尼：我們需要可預期性、公平競爭以及對腐敗零容忍。"
-    },
-    {
-      "id": "te:economy:549538",
-      "time": "2026-05-11 14:14:17",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Norway",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Norway Inflation Rate Slows to 3.4% — Norway’s annual inflation rate eased to 3.4% in April 2026 from 3.6% in March. Price growth mainly slowed for housing, water, electricity, gas and other fuels (3.6% vs 4.9% in March) and transport (2.4% vs 4.2%). Inflation also moderated for furnishings and household equipment (0.3% vs 2.4%) and restaurants and accommodation services (5.8% vs 6.3%). Meanwhile, price growth accelerated sharply for food and non-alcoholic beverages (6.6% vs 1.6%), alongside alcoholic beverages and tobacco (3.5% vs 3.2%), clothing and footwear (1.5% vs 1.4%), and recreation and culture (4.0% vs 3.9%). Inflation was unchanged for education services at 2.4%, while prices for personal care and miscellaneous goods remained in deflation (-1.3% vs -1.2%). On a monthly basis, the CPI rose 0.4%, accelerating from a 0.2% gain in the previous period. Meanwhile, the CPI-ATE, which excludes energy and tax effects, grew 3.2% year-on-year, the highest in three months, picking up from 3.0% in March."
-    },
-    {
-      "id": "4871596",
-      "time": "2026-05-11 14:13:08",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【沙特國家石油公司：全球原油市場或到2027年才能恢復正常】當前中東局勢前景不明，據美國方面10日訊息，沙烏地阿拉伯國家石油公司總裁兼執行長阿明·納賽爾當天表示，即使霍爾木茲海峽的航運立即恢復，原油市場仍需要幾個月的時間來恢復供需平衡。但如果霍爾木茲海峽的航運受限再持續數週，全球原油市場或將到2027年才會恢復正常。納賽爾還表示，過去兩個月，全球石油供應減少約10億桶。即便能源流動恢復正常，整個系統也需要一段時間才能迴歸常態。（央視新聞）"
-    },
-    {
-      "id": "4871595",
-      "time": "2026-05-11 14:12:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "住友金屬礦山高管：儘管中東局勢危機，但菲律賓鎳工廠的生產受到的影響將微乎其微，因為該廠所需的大部分硫酸都由我們位於日本的東陽工廠供應。"
-    },
-    {
-      "id": "mkt:019e15aa-2958-7dd9-b91b-a9de41d3cd0b",
-      "time": "2026-05-11 14:12:11",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "S.KOREA MARKET WATCHDOG: CLOSELY MONITORING RETAIL INVESTORS' LEVERAGED STOCK INVESTMENTS S.KOREA MARKET WATCHDOG: TO TAKE PRE-EMPTIVE MEASURES IF NEEDED FOR MARKET STABILITY"
-    },
-    {
-      "id": "4871594",
-      "time": "2026-05-11 14:12:08",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "韓國市場監管機構：必要時將採取先發制人措施維護市場穩定。"
-    },
-    {
-      "id": "4871593",
-      "time": "2026-05-11 14:12:05",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "韓國市場監管機構：正密切監控散戶投資者的股票槓桿投資活動。"
-    },
-    {
-      "id": "4871592",
-      "time": "2026-05-11 14:11:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "【機構：預估2030年Micro LED CPO光收發模組產值將達8.48億美元】根據TrendForce集邦諮詢最新Micro LED產業研究，生成式AI驅動高速光通訊需求急速攀升，由於Micro LED具備僅1-2 pJ/bit的能耗，以及具有低於百億分之一的誤位元速率(Bit Error Rate, BER)，有望在垂直擴充套件(Scale-Up)的資料中心網路中，與AEC（主動式電纜）及VCSEL NPO（垂直共振腔面射型雷射近封裝光學）並列為機櫃內(Intra-Rack)三大短距高速傳輸方案。因此，TrendForce集邦諮詢預估，Micro LED CPO光收發模組市場產值將於2030年達8.48億美元"
-    },
-    {
-      "id": "4871591",
-      "time": "2026-05-11 14:11:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗塔斯尼姆通訊社：伊朗處決被判為以色列和美國從事間諜活動的男子。"
-    },
-    {
-      "id": "4871590",
-      "time": "2026-05-11 14:10:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "【福耀科技大學新增5個專業】近日，教育部公佈了2026年度普通高等學校本科專業備案和審批結果，福耀科技大學獲批未來機器人、人工智慧、智慧車輛工程、生物科學、數字經濟五個本科專業。其中，未來機器人專業是2026年首批被列入本科專業目錄\"交叉學科\"門類的專業之一。 2025年，福耀科技大學已獲批智慧製造工程、電腦科學與技術、材料科學與工程、車輛工程四個本科專業。目前，福耀科技大學本科專業總數增至9個。"
     }
   ]
 }
