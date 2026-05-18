@@ -1,7 +1,32 @@
 {
-  "updated": "2026-05-19 00:37:54",
-  "count": 15475,
+  "updated": "2026-05-19 00:41:53",
+  "count": 15467,
   "items": [
+    {
+      "id": "mkt:019e3bf4-668e-7dd6-889c-b5842a8c2589",
+      "time": "2026-05-19 00:38:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "BA.L",
+        "Impact bullish"
+      ],
+      "text": "UK PREPARES MULTIBILLION-POUND BOOST FOR JOINT STEALTH JET PROJECT – FT"
+    },
+    {
+      "id": "mkt:019e3bf4-185f-7dd6-889c-ac3a92838902",
+      "time": "2026-05-19 00:38:33",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【US Plans New Russian Oil Waiver as Iran War Tightens Global Supply】The US is preparing a new waiver allowing sales of Russian crude oil and petroleum products already loaded on tankers, according to people familiar with the matter. The Treasury Department’s OFAC is expected to issue the license days after the previous waiver expired on May 16. The move highlights pressure on the Trump administration to contain fuel costs and ease supply strains linked to the Iran war. The waiver could extend beyond 30 days or allow renewals. European allies may oppose the decision, while Asian importers have pushed for continued sanctions relief."
+    },
     {
       "id": "4886385",
       "time": "2026-05-19 00:34:56",
@@ -139715,90 +139740,6 @@
         "國際"
       ],
       "text": "美國量化交易巨頭哈德遜河交易公司（HRT）斬獲64 億美元創紀錄市場交易收益。"
-    },
-    {
-      "id": "4872960",
-      "time": "2026-05-12 00:41:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "法國總統馬克龍：法國與歐洲同非洲開展合作共建的能力，對我們的未來至關重要。"
-    },
-    {
-      "id": "4872959",
-      "time": "2026-05-12 00:39:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊拉克訊息人士：伊朗革命衛隊聖城旅指揮官伊斯梅爾・卡阿尼已前往伊拉克，要求當地部分武裝團體不得與美國建立關係。他還就伊拉克政府向武裝組織輸送武器一事，向伊政府劃出了紅線。"
-    },
-    {
-      "id": "mkt:019e17e8-a49c-7dd9-b924-d6509ca3ac7b",
-      "time": "2026-05-12 00:39:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "THE CLAIM BY SOME WESTERN MEDIA ABOUT IRAN'S PROPOSAL FOR A 15-YEAR NUCLEAR SUSPENSION IS COMPLETELY FALSE, SAYS SOURCE CLOSE TO THE NUCLEAR NEGOTIATION TEAM"
-    },
-    {
-      "id": "4872958",
-      "time": "2026-05-12 00:39:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟外交與安全政策高階代表卡拉斯表示，已準備好提前推進安全與防務領域合作。"
-    },
-    {
-      "id": "4872957",
-      "time": "2026-05-12 00:39:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟外交與安全政策高階代表卡拉斯表示，伊朗戰事過後，歐盟各國外長已同意加強與波斯灣沿岸國家的合作，並加快推進與海灣合作委員會全部六個成員國的戰略伙伴關係協定談判。"
-    },
-    {
-      "id": "4872956",
-      "time": "2026-05-12 00:38:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟外交與安全政策高階代表卡拉斯表示，在霍爾木茲海峽，受伊朗近期在該地區發動襲擊影響，停火局勢承壓嚴重。"
-    },
-    {
-      "id": "4872955",
-      "time": "2026-05-12 00:38:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟外交與安全政策高階代表卡拉斯表示，歐盟將擴大對伊朗制裁範圍，把阻礙航行自由的相關責任人納入制裁名單。"
-    },
-    {
-      "id": "4872954",
-      "time": "2026-05-12 00:38:22",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美股加密貨幣概念股走強】美股加密貨幣概念股走強，Circle漲幅擴大至15%，Coinbase漲超5%，Strategy、Robinhood漲超3%，IREN跌幅收窄至3%，此前一度跌超13%。"
-    },
-    {
-      "id": "mkt:019e17e7-32a6-7dd9-b924-ce9d1062fa54",
-      "time": "2026-05-12 00:38:08",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "IRAN ADVISER: PENTAGON HIDING U.S. CASUALTIES. TRUMP BELIEVED OFFICIAL TOLL"
-    },
-    {
-      "id": "4872953",
-      "time": "2026-05-12 00:37:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基：烏克蘭正在為新的襲擊做準備，俄羅斯不想結束戰爭。"
     }
   ]
 }
