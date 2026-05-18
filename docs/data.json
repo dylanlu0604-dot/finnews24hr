@@ -1,7 +1,37 @@
 {
-  "updated": "2026-05-19 04:11:45",
-  "count": 15511,
+  "updated": "2026-05-19 04:15:28",
+  "count": 15510,
   "items": [
+    {
+      "id": "4886548",
+      "time": "2026-05-19 04:13:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "xAI：Grok模型將具備跨對話長期記憶能力並整合實用功能。"
+    },
+    {
+      "id": "te:economy:551693",
+      "time": "2026-05-19 04:12:44",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Capital Flows",
+        "Importance 1"
+      ],
+      "text": "US Records Strong Net TIC Inflows in March — Net foreign acquisitions of long-term securities, short-term US securities, and banking flows resulted in a net TIC inflow of $150.7 billion in March 2026. Of the total, net private foreign inflows reached $162.1 billion, while foreign official institutions recorded net outflows of $11.4 billion. Foreign investors increased their holdings of long-term US securities, with net purchases totaling $96.5 billion. Private foreign investors bought a net $111.4 billion in long-term US securities, while foreign official institutions sold a net $14.9 billion. Meanwhile, US residents increased their holdings of long-term foreign securities through net purchases of $15.2 billion. After including adjustments such as estimated foreign acquisitions of US equities through stock swaps, net foreign purchases of long-term securities were estimated at $81.3 billion in March."
+    },
+    {
+      "id": "4886547",
+      "time": "2026-05-19 04:12:12",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "【英國在3月增持美債 中國和日本減持】美國財政部資料顯示，中國3月持有美債規模為6523億美元，2月為6933億美元。日本3月持有美債規模為1.1916萬億美元，2月為1.2393萬億美元。英國3月持有美債規模為9269億美元，2月為8973億美元。"
+    },
     {
       "id": "4886546",
       "time": "2026-05-19 04:08:36",
@@ -140193,53 +140223,6 @@
         "國際"
       ],
       "text": "美國國會山成員Hawley提出立法建議，要求暫停執行汽油、柴油稅90天。"
-    },
-    {
-      "id": "mkt:019e18ad-3cc1-7dd9-b926-c428a309802c",
-      "time": "2026-05-12 04:14:26",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Hot",
-        "Policy",
-        "Breaking News 24h",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【UAE Secretly Conducted Strikes on Iran During War, WSJ Reports】The United Arab Emirates carried out covert military strikes on Iran during the recent conflict, including an early April attack on an oil refinery on Iran’s Lavan Island that caused a major fire and disrupted production for months, according to people familiar with the matter. Iran later launched missile and drone attacks on the UAE and Kuwait in response. The UAE declined to comment directly on the strikes but cited its right to respond militarily to hostile acts. The report said the UAE deepened military cooperation with the U.S. as Iran targeted Gulf infrastructure and population centers during the war. Analysts cited in the report said the conflict marked a major shift in the UAE’s strategic posture toward Iran."
-    },
-    {
-      "id": "4873147",
-      "time": "2026-05-12 04:12:53",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "據華爾街日報：訊息人士稱，阿聯酋此前已對伊朗實施軍事打擊。阿聯酋的襲擊包括對伊朗拉萬島上一座煉油廠的攻擊。阿聯酋一直在秘密對伊朗進行攻擊。阿聯酋尚未公開承認對伊朗的襲擊。"
-    },
-    {
-      "id": "mkt:019e18ab-9c41-7dd9-b926-bb6cd7bbb1b7",
-      "time": "2026-05-12 04:12:40",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "U.A.E. HASN'T PUBLICLY ACKNOWLEDGED STRIKES ON IRAN - WSJ"
-    },
-    {
-      "id": "mkt:019e18ab-52af-7dd9-b926-b7130895ab91",
-      "time": "2026-05-12 04:12:21",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "THE U.A.E. HAS BEEN SECRETLY CARRYING OUT ATTACKS ON IRAN - WSJ U.A.E. MILITARY CONDUCTED DIRECT STRIKES ON IRAN, TARGETING A REFINERY ON LAVAN ISLAND IRAN RETALIATED WITH OVER 2,800 MISSILE AND DRONE STRIKES AGAINST U.A.E. ENERGY INFRASTRUCTURE"
     }
   ]
 }
