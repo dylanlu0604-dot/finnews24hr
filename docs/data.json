@@ -1,7 +1,34 @@
 {
-  "updated": "2026-05-19 06:28:53",
-  "count": 15591,
+  "updated": "2026-05-19 06:32:45",
+  "count": 15592,
   "items": [
+    {
+      "id": "te:markets:551702",
+      "time": "2026-05-19 06:30:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Liquefied Natural Gas Japan Korea Surges by 10.84% — Top commodity gainers are Liquefied Natural Gas Japan Korea (10.84%), Ethanol (3.77%), Naphtha (2.19%) and Crude Oil WTI (1.70%). Biggest losers are Methanol (-8.43%), Natural Gas EU (-1.68%), Uranium (-0.81%) and Brent Crude Oil (-0.24%)."
+    },
+    {
+      "id": "4886666",
+      "time": "2026-05-19 06:29:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "英特爾執行長：個人電腦業務對我們仍然很重要。"
+    },
+    {
+      "id": "4886665",
+      "time": "2026-05-19 06:28:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【智慧隱形眼鏡有望用於治療抑鬱症】近日，韓國延世大學研究團隊研發出一款可能用於治療抑鬱症的智慧隱形眼鏡，該隱形眼鏡能夠在小鼠實驗中產生類似抗抑鬱藥物的療效。這項研究成果已發表在美國期刊《細胞通訊·物理科學》上。該研究團隊由延世大學材料科學與工程系教授樸章雄（音）擔任負責人，他們研發出的這款智慧隱形眼鏡既柔軟又透明，鏡片上安裝的超薄電極能夠對小鼠視網膜內的神經迴路進行靶向刺激，從而改善小鼠的情緒，產生類似於抗抑鬱藥物“百憂解”的效果。 (環球時報)"
+    },
     {
       "id": "4886664",
       "time": "2026-05-19 06:26:57",
@@ -140887,28 +140914,6 @@
         "國際"
       ],
       "text": "【週二重要財經資訊提醒（以下均為北京時間）】\n① 時間待定 國務院副總理何立峰於5月12-13日率團赴韓國與美方舉行經貿磋商；\n② 時間待定 首屆香港具身智慧產業峰會暨智元APC2026（香港）開幕；\n③ 14:00 德國4月CPI終值；\n④ 15:15 美國紐約聯儲主席（享有FOMC永久投票權、號稱美聯儲三把手）威廉姆斯在瑞士參加一個關於貨幣政策的小組會議，歐洲央行管委兼德國央行行長Nagel也在瑞士央行與國際貨幣基金組織（IMF）關於貨幣政策的小組會議上講話；\n⑤ 港股收盤之後 京東釋出業績報告；\n⑥ 17:00 歐元區5月ZEW經濟景氣指數，德國5月ZEW經濟景氣指數；\n⑦ 18:00 歐洲央行管委Primoz Dolenc在斯洛維尼亞一個金融會議上講話；\n⑧ 20:30 美國4月CPI；\n⑨ 21:10 美國芝加哥聯儲主席Goolsbee（2027年FOMC票委）參加NPR一個廣播節目；\n⑩ 次日00:00 美國能源資訊署（EIA）釋出短期能源展望報告（STEO）；\n⑪ 次日01:00 美國芝加哥聯儲主席Goolsbee（2027年FOMC票委）講話；\n⑫ 次日01:30 英國央行副行長Woods講話；\n⑬ 次日02:00 美國4月政府預算；\n⑭ 美股盤後 核電股Oklo釋出業績報告。"
-    },
-    {
-      "id": "te:markets:549747",
-      "time": "2026-05-12 06:32:26",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Platinum Hits 8-week High — Platinum increased to 2163.00 USD/t.oz, the highest since March 2026. Over the past 4 weeks, Platinum gained 3.82%, and in the last 12 months, it increased 121.4%."
-    },
-    {
-      "id": "te:markets:549746",
-      "time": "2026-05-12 06:30:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Natural gas Rallies by 6.04% — Top commodity gainers are Natural gas (6.04%), Natural Gas EU (5.82%), Natural Gas UK (5.15%), Brent Crude Oil (2.95%) and Crude Oil WTI (2.83%)."
     }
   ]
 }
