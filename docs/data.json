@@ -1,7 +1,85 @@
 {
-  "updated": "2026-05-19 00:25:45",
-  "count": 15472,
+  "updated": "2026-05-19 00:29:41",
+  "count": 15476,
   "items": [
+    {
+      "id": "4886380",
+      "time": "2026-05-19 00:28:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納指跌1.00%，現報25962.439點；道指漲0.04%，現報49545.879點；標普500指數跌0.43%，現報7376.380點。"
+    },
+    {
+      "id": "4886379",
+      "time": "2026-05-19 00:27:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "納斯達克100指數跌幅擴大至1%。"
+    },
+    {
+      "id": "mkt:019e3be9-c900-7dd6-889c-9349baa8e885",
+      "time": "2026-05-19 00:27:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Nasdaq100",
+        "Impact bearish",
+        "S&P500",
+        "Dow"
+      ],
+      "text": "U.S. STOCKS EXTEND FALL, NASDAQ DOWN 1.00 PCT"
+    },
+    {
+      "id": "4886378",
+      "time": "2026-05-19 00:27:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【湖北宣恩強降雨致3人死亡、4人失聯】記者從湖北省恩施州宣恩縣防汛抗旱指揮部瞭解到，5月17日至18日，湖北省恩施州宣恩縣沙道溝鎮白水河村上游普降大到暴雨，最大降雨量達292.6毫米，導致河水暴漲，白水河村沿河區域多處房屋被淹、部分房屋倒塌、道路通訊中斷。汛情發生後，恩施州和宣恩縣兩級防汛抗旱指揮部迅速啟動應急響應，第一時間組織武警、公安、應急、消防、交通、電力、通訊等部門趕赴現場，緊急轉移群眾287人，全力開展人員搜救、醫療救治、道路疏通、通訊搶修等應急救援工作。截至5月18日20時，災情已造成3人死亡、4人失聯。應急救援工作還在全力開展中。（央視新聞）"
+    },
+    {
+      "id": "te:markets:551680",
+      "time": "2026-05-19 00:26:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Gasoline Hits Near 4-year High — Gasoline increased to 3.76 USD/Gal, the highest since June 2022. Over the past 4 weeks, Gasoline gained 20.64%, and in the last 12 months, it increased 75.58%."
+    },
+    {
+      "id": "4886377",
+      "time": "2026-05-19 00:26:54",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "據CNBC記者：一名美國官員透露，伊朗官方媒體所稱美方已同意在談判期間解除石油制裁的訊息不實。"
+    },
+    {
+      "id": "4886376",
+      "time": "2026-05-19 00:26:13",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "市場訊息：伊朗局勢衝擊原油供應，美國擬出臺新一輪俄羅斯石油豁免政策。"
+    },
+    {
+      "id": "mkt:019e3be8-92a8-7dd6-889c-8f2c23b3f5b2",
+      "time": "2026-05-19 00:25:58",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "A US OFFICIAL TELLS ME THE IRANIAN STATE MEDIA REPORT THAT THE US HAS AGREED TO LIFT OIL SANCTIONS WHILE TALKS ARE ONGOING IS FALSE - CNBC REPORTER"
+    },
     {
       "id": "4886375",
       "time": "2026-05-19 00:22:41",
@@ -139724,38 +139802,6 @@
         "國際"
       ],
       "text": "伊朗最高領袖顧問：特朗普似乎聽信了五角大樓的謊言，刻意掩蓋美軍大量人員傷亡的真實人數。"
-    },
-    {
-      "id": "mkt:019e17df-5917-7dd9-b924-b85765857b55",
-      "time": "2026-05-12 00:29:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A SOURCE CLOSE TO THE NEGOTIATION TEAM: IRAN HAS SET A SPECIFIC PERIOD IN ITS PROPOSED PLAN TO RECEIVE ITS BLOCKED FUNDS"
-    },
-    {
-      "id": "4872945",
-      "time": "2026-05-12 00:28:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗：被凍結資金應在規定期限內予以解凍撥付。"
-    },
-    {
-      "id": "4872944",
-      "time": "2026-05-12 00:27:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場資訊：伊朗設定了接收被凍結資金的時間期限。"
-    },
-    {
-      "id": "4872943",
-      "time": "2026-05-12 00:25:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "奈飛現跌超1%。"
     }
   ]
 }
