@@ -1,7 +1,59 @@
 {
-  "updated": "2026-05-18 17:32:59",
-  "count": 15704,
+  "updated": "2026-05-18 17:36:51",
+  "count": 15698,
   "items": [
+    {
+      "id": "4885621",
+      "time": "2026-05-18 17:35:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "瑞安航空執行長表示：我們在未來兩個季度啟動新的股票回購計劃的可能性極低。"
+    },
+    {
+      "id": "te:markets:551571",
+      "time": "2026-05-18 17:35:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Baidu earnings above expectations at 12.06 CNY — Baidu (BIDU) released earnings per share at 12.06 CNY, compared to market expectations of 11.63 CNY."
+    },
+    {
+      "id": "4885620",
+      "time": "2026-05-18 17:35:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【醋化股份：獨立董事王寶榮任期屆滿辭職】醋化股份公告稱，2026年5月18日，公司董事會收到獨立董事王寶榮書面辭職申請，因任期屆滿，其請求辭去獨立董事及董事會相應專門委員會職務，辭職後不再擔任公司任何職務。王寶榮辭職將致獨立董事成員不足董事會成員三分之一，在股東會選出新任獨立董事前，其仍將履職。公司董事會將盡快完成補選。"
+    },
+    {
+      "id": "4885619",
+      "time": "2026-05-18 17:33:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩部門：碳排放權交易手續費上限收費標準按照補償成本的原則】國家發展改革委、生態環境部發布碳排放權交易收費有關問題的通知。全國碳排放權交易市場碳排放權交易手續費實行政府指導價管理，由全國碳排放權交易機構所在地省級發展改革部門商全國碳排放權註冊登記機構所在地省級發展改革部門制定上限收費標準；交易機構在不高於上限收費標準的範圍內，確定具體收費標準。碳排放權交易手續費上限收費標準按照補償成本的原則，綜合考慮機構運營成本、經營主體承受能力等因素合理核定，其中，運營成本主要包括註冊登記機構組織開展碳排放權交易產品登記、提供交易結算服務等工作，以及交易機構組織開展碳排放權集中統一交易等工作過程中發生的，扣除政府補助後的合理費用支出，具體由交易機構所在地省級發展改革部門商註冊登記機構所在地省級發展改革部門開展成本調查確定。"
+    },
+    {
+      "id": "4885618",
+      "time": "2026-05-18 17:32:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【百度一季度AI業務收入佔比過半，崑崙芯全國產叢集已完成對文心大模型5.1重要版本的訓練】5月18日，百度釋出2026年第一季度財報。財報顯示，季度內，百度AI雲收入88億元，同比高速增長79%；GPU雲收入同比增長184%。百度智慧雲全面升級為面向大規模智慧體應用的新全棧AI雲，AgentInfra與AIInfra能力全面進化，進一步加強從底層算力到智慧體應用的全鏈路協同能力，為智慧體開發提供堅實底座。在算力硬體方面，崑崙芯P800完成規模化驗證，交付多個萬卡叢集，滿足前沿大模型大規模訓練對計算精度、運算元穩定性、框架適配和長週期執行的要求。目前，崑崙芯全國產叢集已完成對文心大模型5.1重要版本的訓練。"
+    },
+    {
+      "id": "4885617",
+      "time": "2026-05-18 17:32:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【泰瑞機器：2025年營收12.06億元 2026年Q1歸母淨利潤同比降69.44%】泰瑞機器公告稱，2025年公司營收12.06億元，同比增加5.05%；2026年第一季度營收2.74億元，同比增加4.73%，主要因海外業務收入增長。2026年第一季度歸母淨利潤同比降69.44%，主因財務費用端階段性波動。若剔除匯兌損益等財務費用影響，營收較上年同期有所提升。公司擬以總股本為基數，每10股派發現金紅利1.50元（含稅）。公司將採取多種舉措提升全年經營質量，力爭穩健經營。"
+    },
     {
       "id": "4885616",
       "time": "2026-05-18 17:32:15",
@@ -141832,109 +141884,6 @@
         "Impact bullish"
       ],
       "text": "MORGAN STANLEY'S LONG POSITION IN H-SHARES OF MIDEA GROUP INCREASES TO 5.92% ON MAY 6 FROM 0.70% - HKEX"
-    },
-    {
-      "id": "4872061",
-      "time": "2026-05-11 17:36:36",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【上期所：對部分客戶採取限制開倉監管措施】上海期貨交易所5月11日釋出關於對部分客戶採取限制開倉監管措施的公告。公告指出，2026年5月11日，1組實際控制關係賬戶在相關合約上賬戶組日內開倉交易量超限達到交易所處理標準。上述客戶交易行為違反《上海期貨交易所異常交易行為管理辦法》第16條之規定，交易所決定對相關客戶在相應品種上採取限制開倉的監管措施。"
-    },
-    {
-      "id": "4872060",
-      "time": "2026-05-11 17:36:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度政府官員：化肥庫存充足。"
-    },
-    {
-      "id": "mkt:019e1664-8350-7dd9-b91d-6c62e563e0cc",
-      "time": "2026-05-11 17:35:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "INDIA GOVT OFFICIAL: FERTILIZER STOCK COMFORTABLE"
-    },
-    {
-      "id": "4872059",
-      "time": "2026-05-11 17:35:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國首相斯塔默談及安迪・伯納姆：後續任何相關決定均交由相關機構決定。"
-    },
-    {
-      "id": "4872058",
-      "time": "2026-05-11 17:34:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "【深交所釋出對四川合縱藥易購醫藥股份有限公司的監管函】據深交所公告，四川合縱藥易購醫藥股份有限公司《2025年度業績預告》披露的淨利潤和扣非淨利潤與《2025年年度報告》披露的實際業績資料差異較大，業績預告披露資訊不準確。你公司的上述行為違反了本所《創業板股票上市規則（2026年修訂）》第1.4條、第5.1.1、第6.2.1條的規定。請你公司董事會充分重視上述問題，吸取教訓，及時整改，杜絕上述問題的再次發生。"
-    },
-    {
-      "id": "mkt:019e1663-5b8d-7dd9-b91d-6682b624b9cd",
-      "time": "2026-05-11 17:34:30",
-      "tags": [
-        "MKT News",
-        "1171.HK",
-        "Impact bearish"
-      ],
-      "text": "JPMORGAN CHASE & CO'S SHORT POSITION IN H-SHARES OF TIANQI LITHIUM CORP INCREASES TO 11.08% ON MAY 5 FROM 10.14% - HKEX"
-    },
-    {
-      "id": "4872057",
-      "time": "2026-05-11 17:34:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟理事會： 該決定發出了明確的政治訊號，表明歐盟致力於與敘利亞恢復接觸並支援其經濟復甦。"
-    },
-    {
-      "id": "4872056",
-      "time": "2026-05-11 17:34:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "斯塔默：保守黨頻繁更換領導人給英國造成了巨大損失。"
-    },
-    {
-      "id": "mkt:019e1662-ecd3-7dd9-b91d-5f670328d745",
-      "time": "2026-05-11 17:34:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "EU COUNCIL LIFTS PARTIAL SUSPENSION OF SYRIA COOPERATION PACT"
-    },
-    {
-      "id": "te:economy:549626",
-      "time": "2026-05-11 17:33:53",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Greece",
-        "Industrial Production",
-        "Importance 1"
-      ],
-      "text": "Greece Industrial Output Rises to 20 Month-High — Industrial output in Greece climbed 8.3% year-on-year in March 2026 from a revised 2.3% rise in the previous month, marking the strongest growth since July 2024. Manufacturing output picked up (5.5% vs 3.6% in February), supported by gains in computers, electronic and optical products (37%), and basic pharmaceutical products and preparations (30.6%). Production also rebounded strongly in electricity supply (24.6% vs -1.5%). In contrast, water supply output declined further (-1.5% vs 1%), while mining and quarrying contracted at a softer pace (-5.4% vs -7.6%). By industrial grouping, output recovered in energy (12.1% vs -6.4%) and consumer durables (19.5% vs -8.7%), while growth continued for non-durable goods (12% vs 7.1%). Meanwhile, production growth eased for intermediate goods (0.7% vs 3.9%) and capital goods (4.4% vs 12.5%). On a seasonally adjusted monthly basis, industrial activity rose 1.1% in March, recovering from a revised 0.5% decline in the prior month."
-    },
-    {
-      "id": "4872055",
-      "time": "2026-05-11 17:33:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【深交所釋出對太極計算機股份有限公司的監管函】據深交所公告，太極計算機股份有限公司司業績預告披露的淨利潤和年報存在較大差異且未及時修正，違反了深交所《股票上市規則（2026年修訂）》第1.4條、第2.1.1條第一款、第5.1.3條第一款和第5.1.9條第二款的規定。本所希望你公司及全體董事、高階管理人員認真吸取教訓，並提醒你公司及全體董事、高階管理人員嚴格遵守《證券法》《公司法》等法律法規，以及本所《股票上市規則》及相關規定，真實、準確、完整、及時、公平地履行資訊披露義務，杜絕此類事件發生。"
-    },
-    {
-      "id": "4872054",
-      "time": "2026-05-11 17:33:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟理事會：透過決議終止對《歐洲經濟共同體與阿拉伯敘利亞共和國合作協議》的部分暫停，全面恢復該協議效力。  。"
     }
   ]
 }
