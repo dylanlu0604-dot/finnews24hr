@@ -1,7 +1,135 @@
 {
-  "updated": "2026-05-18 15:12:25",
-  "count": 15577,
+  "updated": "2026-05-18 15:16:22",
+  "count": 15583,
   "items": [
+    {
+      "id": "4885208",
+      "time": "2026-05-18 15:15:43",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "匈牙利央行行長瓦爾加：央行仍將是政府滿足《馬斯特裡赫特條約》標準程序中具有建設性的合作伙伴。"
+    },
+    {
+      "id": "4885207",
+      "time": "2026-05-18 15:15:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本內閣官房長官木原稔：就外匯干預不予置評。"
+    },
+    {
+      "id": "4885206",
+      "time": "2026-05-18 15:15:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本內閣官房長官木原稔：帶著強烈緊迫感密切關注市場動態，包括長期收益率等。"
+    },
+    {
+      "id": "4885205",
+      "time": "2026-05-18 15:15:15",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "匈牙利央行行長瓦爾加：引入歐元本身不應成為最終目標。"
+    },
+    {
+      "id": "4885204",
+      "time": "2026-05-18 15:15:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨收盤】 30年期主力合約漲0.08%， 10年期主力合約漲0.09%， 5年期主力合約漲0.07%， 2年期主力合約漲0.03%。"
+    },
+    {
+      "id": "mkt:019e39f0-3d75-7dd6-8895-5bf275497211",
+      "time": "2026-05-18 15:15:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY"
+      ],
+      "text": "JAPAN CHIEF CABINET SECRETARY KIHARA: NO COMMENT ON FX INTERVENTION"
+    },
+    {
+      "id": "4885203",
+      "time": "2026-05-18 15:14:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：年內計劃完成首例針對失明病症的腦機介面植入手術。"
+    },
+    {
+      "id": "mkt:019e39f0-0cdd-7dd6-8895-556f1c0aad8b",
+      "time": "2026-05-18 15:14:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US AFRICOM: ON MAY 17, U.S. AFRICA COMMAND, WITH THE GOVERNMENT OF NIGERIA, CONDUCTED ADDITIONAL KINETIC STRIKES AGAINST ISIS IN NORTHEASTERN NIGERIA US AFRICOM: NO U.S. OR NIGERIAN FORCES WERE HARMED US AFRICOM: INTELLIGENCE CONFIRMED THE TARGETS WERE ISIS MILITANTS, COMPLETE ASSESSMENTS ARE ONGOING"
+    },
+    {
+      "id": "4885202",
+      "time": "2026-05-18 15:14:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國非洲司令部：5月17日，美國非洲司令部與奈及利亞政府合作，針對奈及利亞東北部的“伊斯蘭國”組織發動了更多動能打擊；美軍與奈及利亞軍隊均無人員傷亡。"
+    },
+    {
+      "id": "4885201",
+      "time": "2026-05-18 15:14:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克認為腦機介面技術可助力半失明人群恢復視力。"
+    },
+    {
+      "id": "4885199",
+      "time": "2026-05-18 15:13:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "港股創新藥板塊持續走低，再鼎醫藥(09688.HK)跌超6%，恆瑞醫藥(01276.HK)跌超4%，石藥集團(01093.HK)、藥明康德(02359.HK)等跟跌。"
+    },
+    {
+      "id": "te:economy:551497",
+      "time": "2026-05-18 15:13:04",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "UK 10Y Bond Yield Hits Near 18-year High — UK 10 Year Government Bond Yield increased to 5.19%, the highest since July 2008. Over the past 4 weeks, United Kingdom 10Y Bond Yield gained 35.60 basis points, and in the last 12 months, it increased 52.06 basis points."
+    },
+    {
+      "id": "mkt:019e39ee-68fa-7dd6-8895-4de004957665",
+      "time": "2026-05-18 15:13:04",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bullish"
+      ],
+      "text": "ELON MUSK SAYS HE AIMS FOR AUTONOMOUS VEHICLES TO BE WIDELY DEPLOYED IN THE US BY YEAR-END"
+    },
+    {
+      "id": "mkt:019e39ee-2350-7dd6-8895-47c983e56779",
+      "time": "2026-05-18 15:12:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ELON MUSK SAYS HE HOPES TO ADVANCE SPACEX’S FIRST INITIAL PUBLIC OFFERING “SOON.”"
+    },
     {
       "id": "4885197",
       "time": "2026-05-18 15:11:21",
@@ -140637,77 +140765,6 @@
         "Important"
       ],
       "text": "CHINA'S FOREIGN MINISTRY, ON US SANCTIONS: WE HAVE ALWAYS DEMANDED CHINESE FIRMS TO CONDUCT BUSINESS IN ACCORDANCE WITH LAW"
-    },
-    {
-      "id": "te:markets:549574",
-      "time": "2026-05-11 15:16:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Shangai Composite Index Closes 1.08% Higher — The Shangai Composite Index rose 45 points or 1.08 percent on Monday to close at 4225 points. Leading the gains are Datang Intl (9.93%), Shanghai Electric (9.47%) and Sany Heavy Industry (6.38%)."
-    },
-    {
-      "id": "4871728",
-      "time": "2026-05-11 15:15:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【沐曦股份與深度原理推進戰略合作】近日，沐曦股份與AI for Materials（AI+材料）科技創新公司深度原理推進戰略合作，圍繞化工行業的工業冷卻液研發場景，聯合打造“AI建模+高效能運算+實驗驗證”閉環體系。"
-    },
-    {
-      "id": "4871727",
-      "time": "2026-05-11 15:15:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗處決一名與美以情報機構合作的間諜】據伊朗學生通訊社11日報道，伊朗司法機構表示，一名科研機構專業技術人員因與美國和以色列情報機構合作而被執行死刑。 報道說，該技術人員在伊朗一家衛星領域科研機構工作，其間與伊朗的敵對情報機構建立聯絡，包括美國中央情報局和以色列情報和特勤局（摩薩德）。(新華社)"
-    },
-    {
-      "id": "4871726",
-      "time": "2026-05-11 15:15:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國債期貨收盤】 30年期主力合約漲0.32%， 10年期主力合約漲0.07%， 5年期主力合約漲0.02%， 2年期主力合約漲0.01%。"
-    },
-    {
-      "id": "4871725",
-      "time": "2026-05-11 15:14:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國佛州東南部發生山火】據美國媒體報道，當地時間5月10日，美國佛羅里達州東南部的邁阿密-戴德縣和布勞沃德縣交界處發生山火，過火面積已達4800英畝（約19.42平方公里）。當地消防和救援部門正在進行滅火作業，目前尚未收到人員傷亡報告。 （CCTV國際時訊）"
-    },
-    {
-      "id": "4871724",
-      "time": "2026-05-11 15:13:57",
-      "tags": [
-        "央行",
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "【貝森特據悉曾當面對日本財相說了重話 此次訪日或考驗高市和央行】斯科特·貝森特今年1月高調出席達沃斯世界經濟論壇時，日本國債重挫並波及美國國債，他據悉對日本同行說了一些重話。據知情人士透露，這位美國財政部長在上述論壇間隙會晤了日本財務大臣片山皋月，在日本官員眼中，兩人與其說是例行性的會談，更像是訓斥式的批評。這些知情人士要求匿名，因為這場交流未公開。其中一位知情人士稱，貝森特語速極快，片山身旁負責記錄的隨員幾乎跟不上。知情人士並未透露貝森特的具體要求。貝森特也告訴福克斯商業頻道，他已與日本對口官員溝通，“確信”對方會採取行動穩定市場。不久之後，片山喊話市場冷靜，強調日本正在推行“負責任且可持續的”財政政策，這項訊息似乎緩解了投資者對日本支出計劃的一些擔憂。這一事件凸顯貝森特採取一種異常強勢的手段來塑造日本的經濟走向；他早年作為對沖基金經理，在日本的投資取得了巨大成功。隨著美國持續擴大舉債規模，特朗普政府對任何可能推高美債收益率的外部因素高度敏感，肯定不樂見日本市場的波動。"
-    },
-    {
-      "id": "4871722",
-      "time": "2026-05-11 15:12:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "【米哈遊法務部：編造“皮套論”謠言構成商業詆譭，2人被判賠償43萬元】5月11日，米哈遊法務部發文：米哈遊訴網路博主許某鵬（網名“自由人米八”）、羅某傑（網名“Joker”“內幕哥”“不鏽鋼臉盆愛好者”）商業詆譭案迎來終審判決。此前，兩人在直播中使用侮辱性、煽動性語言，惡意炮製、大肆傳播“皮套論”，杜撰米哈遊旗下多個遊戲角色為公司員工“皮套”的謠言。針對上述侵權行為，米哈遊依法提起訴訟。法院最終認定許某鵬與羅某傑構成商業詆譭，判決兩人賠償共計43萬元並公開發布宣告消除其造成的不良影響。"
-    },
-    {
-      "id": "4871721",
-      "time": "2026-05-11 15:12:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "【寶寶巴士旗下一公司減資90% 寶寶巴士一子公司減資900萬】天眼查App顯示，近日，學海拾貝（福建）科技有限公司發生工商變更，企業名稱變更為學海拾貝（福州）科技有限公司，註冊資本由1000萬人民幣減至100萬人民幣，同時，部分高管發生變更。該公司成立於2019年6月，法定代表人為唐光宇，經營範圍含網路與資訊保安軟體開發、數字文化創意軟體開發、資訊科技諮詢服務、資訊系統執行維護服務、資訊系統整合服務、數字內容製作服務、網際網路銷售等。股東資訊顯示，該公司由寶寶巴士股份有限公司全資持股。"
     }
   ]
 }
