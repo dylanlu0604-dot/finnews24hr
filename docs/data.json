@@ -1,7 +1,39 @@
 {
-  "updated": "2026-05-19 01:56:46",
+  "updated": "2026-05-19 02:00:38",
   "count": 15465,
   "items": [
+    {
+      "id": "mkt:019e3c3d-26ba-7dd6-889e-27d6dbe44555",
+      "time": "2026-05-19 01:58:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ONE WORD STATEMENT FROM ELON MUSK’S LAWYER MARC TOBEROFF TO REPORTERS WALKING OUT OF THE COURTROOM: “APPEAL.” - WIRED REPORTER ON X"
+    },
+    {
+      "id": "mkt:019e3c3c-31d8-7dd6-889e-198662ef56df",
+      "time": "2026-05-19 01:57:18",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "JAPANESE PRIME MINISTER SANAE TAKAICHI AND SOUTH KOREAN PRESIDENT LEE JAE MYUNG ARE SET TO AGREE AT THEIR SUMMIT TUESDAY TO ESTABLISH A FRAMEWORK FOR COOPERATING ON THE PROCUREMENT OF CRUDE OIL, INCLUDING A JOINT RESERVE"
+    },
+    {
+      "id": "mkt:019e3c3b-ee1f-7dd6-889e-1004231b6037",
+      "time": "2026-05-19 01:57:00",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI"
+      ],
+      "text": "SOUTH KOREA TO PARTICIPATE IN JAPAN'S SHARED PETROLEUM STOCKPILE INITIATIVE - NIKKEI"
+    },
     {
       "id": "mkt:019e3c3a-acc2-7dd6-889e-0d6eb02c41ac",
       "time": "2026-05-19 01:55:38",
@@ -139760,32 +139792,6 @@
         "市場"
       ],
       "text": "舊金山灣區豪宅均價目前約700萬美元，較2020年的500萬美元有所上漲。"
-    },
-    {
-      "id": "mkt:019e1832-91d0-7dd9-b925-b4828a060b3b",
-      "time": "2026-05-12 02:00:27",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China EV Leaders"
-      ],
-      "text": "U.S. HOUSE LAWMAKERS INTRODUCING BILL TO BAN CHINESE VEHICLES IN UNITED STATES"
-    },
-    {
-      "id": "4873028",
-      "time": "2026-05-12 02:00:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "西班牙衛生大臣：目前漢坦病毒疫情郵輪上的人員撤離工作仍在持續進行。"
-    },
-    {
-      "id": "4873027",
-      "time": "2026-05-12 01:58:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國衛生部長肯尼迪推動調查疫苗是否引發慢性病。"
     }
   ]
 }
