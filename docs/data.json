@@ -1,7 +1,18 @@
 {
-  "updated": "2026-05-19 06:40:28",
-  "count": 15585,
+  "updated": "2026-05-19 06:44:21",
+  "count": 15583,
   "items": [
+    {
+      "id": "te:markets:551704",
+      "time": "2026-05-19 06:40:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Cocoa Slumps by 5.84% — Top commodity losers are Cocoa (-5.84%) and Orange Juice (-5.07%). Gains are led by Corn (4.66%), Wheat (4.52%) and Cotton (4.20%)."
+    },
     {
       "id": "4886668",
       "time": "2026-05-19 06:37:20",
@@ -140827,31 +140838,6 @@
         "Importance 1"
       ],
       "text": "Crypto Updates: Ether Depreciates by 1.21% — Today's cryptos market is characterized by modest daily movements, with Ether standing out as the frontrunner with a -1.21% decrease."
-    },
-    {
-      "id": "4873245",
-      "time": "2026-05-12 06:43:09",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【美國總統特朗普：非常期待中國之行】當地時間5月11日，美國總統特朗普在其社交媒體“真實社交”發文表示，非常期待即將開啟的中國之行，並稱中國是“一個令人驚歎的國家”。（央視新聞）"
-    },
-    {
-      "id": "4873244",
-      "time": "2026-05-12 06:43:07",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內漲1%，現報1535.00美元/盎司。"
-    },
-    {
-      "id": "4873243",
-      "time": "2026-05-12 06:41:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "【世衛組織：涉疫郵輪病例增至9例 隔離檢疫措施旨在降低傳播風險 】世界衛生組織11日表示，當前共接到9例與“洪迪厄斯”號郵輪相關的病例報告，其中7例已確診感染漢坦病毒家族中的安第斯病毒，且有3例死亡。最新確診病例為法國報告、前一日下船返法的一名女性乘客。（新華社）"
     }
   ]
 }
