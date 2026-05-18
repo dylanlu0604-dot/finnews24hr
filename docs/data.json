@@ -1,7 +1,80 @@
 {
-  "updated": "2026-05-19 02:31:09",
-  "count": 15451,
+  "updated": "2026-05-19 02:34:58",
+  "count": 15453,
   "items": [
+    {
+      "id": "mkt:019e3c5c-e1d7-7dd6-889e-9a04c2f7d3d7",
+      "time": "2026-05-19 02:32:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Market Themes"
+      ],
+      "text": "HUANG SAYS HE WAS IN CHINA TO SUPPORT TRUMP DURING SUMMIT"
+    },
+    {
+      "id": "mkt:019e3c5c-7eec-7dd6-889e-918c9760fe82",
+      "time": "2026-05-19 02:32:35",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "HUANG SAYS HE DIDN'T DISCUSS H200 CHIPS WITH CHINESE OFFICIALS"
+    },
+    {
+      "id": "mkt:019e3c5b-e9b4-7dd6-889e-8907ebfab0f8",
+      "time": "2026-05-19 02:31:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "HUANG SAYS HE LOOKS FORWARD TO CHINA BEING A MORE OPEN MARKET HUANG: MY SENSE IS CHINA WILL BE MORE OPEN OVER TIME HUANG: CHINA GOV'T HAS TO DECIDE HOW MUCH TO PROTECT MARKET"
+    },
+    {
+      "id": "4886459",
+      "time": "2026-05-19 02:31:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI 6月原油期貨收報108.66美元/桶。NYMEX 6月天然氣期貨收報3.0240美元/百萬英熱單位。NYMEX 6月汽油期貨收報3.7607美元/加侖，NYMEX 6月取暖油期貨收報4.1145美元/加侖。"
+    },
+    {
+      "id": "mkt:019e3c5b-3d76-7dd6-889e-85fed518a8d8",
+      "time": "2026-05-19 02:31:12",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact mixed"
+      ],
+      "text": "NVIDIA'S HUANG SAYS IT'S UP TO CHINA TO DECIDE ON AI CHIPS"
+    },
+    {
+      "id": "mkt:019e3c5b-0337-7dd6-889e-7c7b14d100eb",
+      "time": "2026-05-19 02:30:57",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "U.S. CRUDE OIL FUTURES SETTLE AT $108.66/BBL, UP $3.24, 3.07 PCT"
+    },
+    {
+      "id": "4886458",
+      "time": "2026-05-19 02:30:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達CEO黃仁勳： 未來十年，基建擴建的跟進難度將持續加大。"
+    },
     {
       "id": "mkt:019e3c5a-6ffb-7dd6-889e-732d2059afc0",
       "time": "2026-05-19 02:30:17",
@@ -139625,48 +139698,6 @@
         "國際"
       ],
       "text": "美國國務院：上週，美國拒絕參與聯合國《移民問題全球契約》的審議程序。美國反對《移民問題全球契約》，也反對聯合國推動向美國及西方盟友開展替代性移民的相關舉措。"
-    },
-    {
-      "id": "4873066",
-      "time": "2026-05-12 02:34:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "訊息人士稱，伊朗外交部長阿拉格齊本週將前往新德里，出席5 月 14 日至 15 日舉行的金磚國家外長會議。"
-    },
-    {
-      "id": "4873065",
-      "time": "2026-05-12 02:33:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "無國界醫生組織暫停在海地太陽城的活動，武裝團體暴力衝突迫使醫院疏散患者。"
-    },
-    {
-      "id": "4873064",
-      "time": "2026-05-12 02:32:54",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【美國民眾對伊朗戰爭支援率下滑，油價陣痛加劇，特朗普支援率微升】路透社與益普索聯合民調顯示：66%的美國人表示，特朗普未清晰說明美國對伊朗的戰爭目標；63%表示油價上漲正損害家庭財務，較3月的55%明顯上升；特朗普支援率從34%微升至36%，此前曾跌至本屆任期最低水平。"
-    },
-    {
-      "id": "4873063",
-      "time": "2026-05-12 02:31:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "福特：正式推出福特能源業務。"
-    },
-    {
-      "id": "4873062",
-      "time": "2026-05-12 02:31:17",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國原油期貨結算價報每桶98.07美元，上漲2.65美元，漲幅2.78%。"
     }
   ]
 }
