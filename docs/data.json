@@ -1,7 +1,71 @@
 {
-  "updated": "2026-05-18 09:47:32",
-  "count": 15420,
+  "updated": "2026-05-18 09:51:29",
+  "count": 15417,
   "items": [
+    {
+      "id": "4884642",
+      "time": "2026-05-18 09:50:42",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "兩年期日本國債收益率上漲3個基點，至1.435%。"
+    },
+    {
+      "id": "4884641",
+      "time": "2026-05-18 09:50:29",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "A股三大指數盤初震盪回升翻紅。"
+    },
+    {
+      "id": "4884640",
+      "time": "2026-05-18 09:50:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "【共封裝光學(CPO)板塊短線拉昇，華工科技漲停】共封裝光學(CPO)板塊短線拉昇，華工科技漲停，平治資訊、長盈通漲超10%，華盛昌、中瓷電子、泰晶科技、光力科技、可川科技等跟漲。相關ETF方面，科創創業人工智慧ETF景順（159142）漲1.38%，成交額2419.85萬元。"
+    },
+    {
+      "id": "4884639",
+      "time": "2026-05-18 09:49:03",
+      "tags": [
+        "公司",
+        "資料"
+      ],
+      "text": "【前微軟高管痛批公司 AI 戰略失誤：重蹈網際網路、移動裝置時代覆轍】據科技媒體 Windows Latest 昨日報道，微軟激進且耗資數十億美元的 AI 戰略，原本被外界認為註定成功。但在光鮮亮麗的釋出會和龐大的基礎設施投入背後，卻呈現出截然不同的光景。前微軟高管 Mat Velloso 曾在公司履職 12 年，擔任 Windows AI 創新合夥人總監，並連續四年出任 CEO 納德拉的技術顧問。目前他在 Meta 超級智慧實驗室工作，此前曾領導谷歌 DeepMind AI 開發者產品和業務，開發 Gemini API 和 Google AI Studio 等。最近幾個月，微軟的舉動可以說是令人震驚。Windows 和 Xbox 部門在長期無視使用者反饋後，突然開始認真聽取意見，並迅速實現使用者呼聲最高的那些功能。談及微軟為何突然“傾聽使用者”時，Velloso 表示：“儘管微軟將必應作為 AI 戰略的王牌，但這款產品仍然沒能從谷歌那裡拿下一個百分點的市場份額”。"
+    },
+    {
+      "id": "te:markets:551374",
+      "time": "2026-05-18 09:48:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 2"
+      ],
+      "text": "Dollar Strengthens on Fed Rate Hike Bets — The dollar index climbed above 99.3 on Monday, reaching its strongest level in six weeks as rising inflationary pressures linked to the Middle East conflict reinforced expectations that the Federal Reserve could raise interest rates later this year. In the latest developments, President Donald Trump warned Iran to “get moving” or face consequences after departing China without securing major trade breakthroughs or meaningful progress toward ending the conflict and reopening the Strait of Hormuz. The latest US CPI and PPI data released last week indicated that the energy price shock is feeding into broader US inflation, leading traders to fully rule out any Federal Reserve rate cuts this year while increasing bets on a possible rate hike before year-end. Investors are now awaiting the latest FOMC meeting minutes and flash US PMI data for additional clues on the outlook for monetary policy and economic activity."
+    },
+    {
+      "id": "4884638",
+      "time": "2026-05-18 09:48:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達2.09%，成分股中，思特威漲10.94%，佰維儲存漲9.20%，柏楚電子漲5.58%，中控技術漲4.68%。"
+    },
+    {
+      "id": "4884637",
+      "time": "2026-05-18 09:48:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "6G概念股短線走強，華工科技漲超9%，海格通訊、通宇通訊漲超7%。"
+    },
     {
       "id": "4884636",
       "time": "2026-05-18 09:46:54",
@@ -139085,94 +139149,6 @@
         "國際"
       ],
       "text": "美東時間上午10:30，特朗普將出席母嬰健康相關活動。"
-    },
-    {
-      "id": "mkt:019e14ba-e15f-7dd9-b91a-2a4ed7f75834",
-      "time": "2026-05-11 09:50:52",
-      "tags": [
-        "MKT News",
-        "Important",
-        "000660.KS",
-        "Impact bullish"
-      ],
-      "text": "SK HYNIX SHARES EXTEND GAINS; LAST 12% HIGHER AT KRW1,893,000"
-    },
-    {
-      "id": "4871231",
-      "time": "2026-05-11 09:50:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗官員：伊朗的回應既現實又積極】一位伊朗匿名官員表示，德黑蘭方面作出的回應既現實又積極。據該官員稱，伊朗的回應聚焦於結束整個地區（尤其是黎巴嫩）的戰爭，並解決與美國的爭端。內容包括就霍爾木茲海峽、核計劃以及全面解除制裁進行談判。回應強調必須建立一個明確且有保障的機制來解除一切形式的制裁，並強調必須為可能與美國達成的任何協議提供明確的國際保障。該回應基於伊朗的最高利益以及與該地區國家磋商的結果。"
-    },
-    {
-      "id": "4871230",
-      "time": "2026-05-11 09:50:27",
-      "tags": [
-        "市場"
-      ],
-      "text": "【房地產板塊再度拉昇，上實發展2連板】房地產板塊再度拉昇，上實發展2連板，京能置業、合肥城建、萬通發展、招商蛇口、張江高科跟漲。相關ETF方面，房地產ETF華夏（515060）漲1.4%，成交額1013.21萬元。"
-    },
-    {
-      "id": "4871229",
-      "time": "2026-05-11 09:50:23",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美國得克薩斯州一貨運列車車廂內發現6具遺體】當地時間5月10日，據美國官員透露，當日在美國得克薩斯州拉雷多附近一個鐵路場站的一節貨運列車車廂內發現了6具遺體。警方表示，當地時間15時左右，一名聯合太平洋鐵路公司的員工緻電報警，稱在一節“拖車式車廂內發現了多名死傷者”，警方隨後趕赴現場處置。遇難者的年齡及該列車的始發地資訊尚未公佈。（央視新聞）"
-    },
-    {
-      "id": "4871228",
-      "time": "2026-05-11 09:50:07",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超1萬億元，較上日此時放量2051億元。"
-    },
-    {
-      "id": "4871227",
-      "time": "2026-05-11 09:49:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "【在摩洛哥失蹤的一美軍士兵遺體已找到】美軍非洲司令部10日發表宣告說，兩名美軍士兵本月初在摩洛哥進行訓練時失蹤，其中一名士兵的遺體已被摩洛哥軍方找到。 宣告說，被找到計程車兵歿年27歲，摩洛哥軍方搜救隊當地時間9日上午在摩洛哥德拉角訓練區水域發現其遺體。目前，對另一名失蹤士兵的搜尋工作仍在進行。（新華社）"
-    },
-    {
-      "id": "mkt:019e14b8-feae-7dd9-b91a-213ca0b9a370",
-      "time": "2026-05-11 09:48:44",
-      "tags": [
-        "MKT News",
-        "LDROBOT.HK",
-        "Impact bullish"
-      ],
-      "text": "SHARES OF SHENZHEN LDROBOT RISE TO MORE THAN HK$60 EACH IN HONG KONG DEBUT VS OFFER PRICE OF HK$26.36 APIECE"
-    },
-    {
-      "id": "4871226",
-      "time": "2026-05-11 09:48:30",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【豬肉板塊短線拉昇，天邦食品漲停】豬肉板塊短線拉昇，天邦食品漲停，金新農、神農集團、天康生物、唐人神、華統股份等紛紛走高。相關ETF方面，養殖ETF匯添富（159172）漲0.76%，成交額296.45萬元，農業ETF富國（159825）成交額2174.67萬元。"
-    },
-    {
-      "id": "4871225",
-      "time": "2026-05-11 09:47:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "美東時間週一下午 3 點，特朗普將簽署行政令。"
-    },
-    {
-      "id": "4871224",
-      "time": "2026-05-11 09:47:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "【SK海力士股價漲幅擴大至12% 總市值達9000億美元】SK海力士股價漲幅擴大至12%，報188.8萬韓元，總市值達9000億美元。"
     }
   ]
 }
