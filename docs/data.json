@@ -1,7 +1,34 @@
 {
-  "updated": "2026-05-19 02:23:29",
-  "count": 15451,
+  "updated": "2026-05-19 02:27:19",
+  "count": 15447,
   "items": [
+    {
+      "id": "4886449",
+      "time": "2026-05-19 02:26:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲3%，現報112.57美元/桶。"
+    },
+    {
+      "id": "4886448",
+      "time": "2026-05-19 02:25:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國白宮正審議禁止股票最優價交易相關禁令。"
+    },
+    {
+      "id": "te:markets:551688",
+      "time": "2026-05-19 02:25:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Cocoa Plunges by 5.85% — Top commodity losers are Cocoa (-5.85%) and Orange Juice (-5.05%). Gains are led by Corn (4.70%), Wheat (4.54%) and Cotton (3.93%)."
+    },
     {
       "id": "4886447",
       "time": "2026-05-19 02:22:34",
@@ -139611,70 +139638,6 @@
         "其他"
       ],
       "text": "南非總統拉馬福薩：我決心履行並完成賦予我的使命。"
-    },
-    {
-      "id": "mkt:019e1849-ad3f-7dd9-b925-fbb9e7235736",
-      "time": "2026-05-12 02:25:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "SOUTH AFRICA'S PRESIDENT RAMAPHOSA SAYS HE IS NOT STEPPING DOWN"
-    },
-    {
-      "id": "4873056",
-      "time": "2026-05-12 02:25:33",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "南非總統拉馬福薩：將繼續為南非民眾服務。"
-    },
-    {
-      "id": "te:markets:549729",
-      "time": "2026-05-12 02:25:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Cocoa Soars by 12.34% — Top commodity gainers are Cocoa (12.34%), Cotton (3.54%) and Wheat (2.63%). Biggest losers are Oat (-2.19%) and Canola (-1.37%)."
-    },
-    {
-      "id": "mkt:019e1849-507a-7dd9-b925-f25fac5fac27",
-      "time": "2026-05-12 02:25:18",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "IRANIAN PARLIAMENT SPEAKER GHALIBAF: OUR ARMED FORCES ARE READY TO DELIVER A WELL-DESERVED RESPONSE TO ANY AGGRESSION; MISTAKEN STRATEGY AND MISTAKEN DECISIONS WILL ALWAYS LEAD TO MISTAKEN RESULTS— THE WHOLE WORLD HAS ALREADY FIGURED THIS OUT"
-    },
-    {
-      "id": "mkt:019e1848-fea5-7dd9-b925-ecca78c242d1",
-      "time": "2026-05-12 02:24:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IRANIAN PARLIAMENT SPEAKER GHALIBAF: WE ARE PREPARED FOR ALL OPTIONS; THEY WILL BE SURPRISED"
-    },
-    {
-      "id": "4873055",
-      "time": "2026-05-12 02:24:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "法國：2025年，因自殺未遂、自殘行為入院就診的未成年少女及青年女性人數持續攀升。"
-    },
-    {
-      "id": "4873054",
-      "time": "2026-05-12 02:23:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "南非總統拉馬福薩：沒有任何理由迫使我辭職。"
     }
   ]
 }
