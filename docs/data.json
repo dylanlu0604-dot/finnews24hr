@@ -1,7 +1,126 @@
 {
-  "updated": "2026-05-18 14:58:14",
-  "count": 15575,
+  "updated": "2026-05-18 15:03:22",
+  "count": 15572,
   "items": [
+    {
+      "id": "4885171",
+      "time": "2026-05-18 15:01:16",
+      "tags": [
+        "央行",
+        "公司",
+        "國際"
+      ],
+      "text": "【中國人民銀行行長潘功勝會見維薩公司執行長瑞安·麥金納尼】2026年5月15日，中國人民銀行行長潘功勝會見維薩公司執行長瑞安·麥金納尼。雙方就中美經貿關係、維薩在華髮展等議題進行了交流。(央行)"
+    },
+    {
+      "id": "te:markets:551485",
+      "time": "2026-05-18 15:01:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Stocks in United Kingdom Hit 6-week Low — GB100 decreased to 10149.00 Index Points, the lowest since March 2026. Over the past 4 weeks, United Kingdom Stock Market Index (GB100) lost 4.11%, and in the last 12 months, it increased 16.93%."
+    },
+    {
+      "id": "4885170",
+      "time": "2026-05-18 15:01:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭海軍稱俄方於週一早間襲擊了運輸船KSL DEYANG 。"
+    },
+    {
+      "id": "4885169",
+      "time": "2026-05-18 15:01:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "A股收盤，上證指數跌0.09%，深證成指跌0.20%，創業板指跌0.36%。"
+    },
+    {
+      "id": "4885168",
+      "time": "2026-05-18 15:00:43",
+      "tags": [
+        "資料"
+      ],
+      "text": "土耳其國家統計局：5月消費者信心指數為85.8點，4月為85.5點。"
+    },
+    {
+      "id": "4885167",
+      "time": "2026-05-18 15:00:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【巴黎調查兒童受侵害案 涉上百所小學、幼兒園】法國巴黎檢察機關17日說，正在調查上百所小學、幼兒園和日託中心的工作人員涉嫌侵害兒童案。巴黎檢察官洛爾·貝屈奧告訴法國RTL電臺，調查涉及84所幼兒園、約20所小學和10家日託中心，已有5人被法庭傳喚。（新華社）"
+    },
+    {
+      "id": "4885165",
+      "time": "2026-05-18 15:00:08",
+      "tags": [
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【摩根大通對10年期德債和英債採取戰術多頭策略】摩根大通策略師在5月16日的一份報告中寫道，債券市場重新定價所觸及的水平已經與摩根大通假設的能源價格飆升衝擊情境相符。Francis Diamond等策略師表示，鑑於中東地區“沒有出現任何重大新進展”，目前的定價似乎過度。“因此，我們對10年期德國國債和英國國債採取戰術性多頭策略，但我們仍然警惕地緣政治不確定性加劇，風險傾向於進一步升級，同時英國的政治紛爭也日益加深，我們認為這些因素目前已經反映在價格中”。"
+    },
+    {
+      "id": "4885164",
+      "time": "2026-05-18 15:00:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨收盤】白銀連續跌8.32%，低硫燃料油連續漲6.82%，上海原油連續漲6.08%，燃料油連續漲4.52%，丁二烯橡膠連續漲4.26%，集運指數歐線期貨連續漲4.17%，純苯連續漲2.96%。"
+    },
+    {
+      "id": "4885163",
+      "time": "2026-05-18 15:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐股開盤普跌，德國DAX指數跌2.07%，英國富時100指數跌1.71%，法國CAC40指數跌1.6%，歐洲斯托克50指數跌1.81%，義大利富時MIB指數跌1.87%。"
+    },
+    {
+      "id": "4885162",
+      "time": "2026-05-18 15:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨午盤收盤】 中證1000指數期貨連續漲0.81%， 滬深300指數期貨連續跌0.22%， 中證500指數期貨連續漲0.59%， 上證50指數期貨連續跌0.53%。"
+    },
+    {
+      "id": "te:markets:551484",
+      "time": "2026-05-18 15:00:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Stocks in Germany Hit 5-week Low — DE40 decreased to 23699.00 Index Points, the lowest since April 2026. Over the past 4 weeks, Germany Stock Market Index (DE40) lost 3.07%, and in the last 12 months, it decreased 1.11%."
+    },
+    {
+      "id": "4885161",
+      "time": "2026-05-18 14:58:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀突破76美元/盎司，日內漲0.21%。"
+    },
+    {
+      "id": "4885160",
+      "time": "2026-05-18 14:58:06",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "倫敦證券交易所集團資料顯示：德國10年期國債收益率跳升至3.187%，創2011年以來新高。"
+    },
     {
       "id": "4885159",
       "time": "2026-05-18 14:57:02",
@@ -140504,153 +140623,6 @@
         "市場"
       ],
       "text": "DELIVERY HERO股價上漲4.6%，此前PROSUS向ASPEX出售了5%的股份。"
-    },
-    {
-      "id": "mkt:019e15d8-76e7-7dd9-b91c-082adb004d3b",
-      "time": "2026-05-11 15:02:48",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bullish",
-        "SZSE Component"
-      ],
-      "text": "CHINA A-SHARES CLOSE HIGHER: SHANGHAI COMPOSITE INDEX +1.08%, SHENZHEN COMPONENT INDEX +2.16%, CHINEXT +3.50%"
-    },
-    {
-      "id": "te:markets:549567",
-      "time": "2026-05-11 15:02:37",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Steel Climbs to Over 9-Month High — Steel rebar futures climbed above CNY 3,250 per ton, reaching their highest level since July last year as expectations for stronger demand supported the market. Steel production in China remained stable, while improved profit margins at mills encouraged firmer output and boosted sentiment across the sector. Stronger-than-expected economic data from China also underpinned prices, with exports surging to a record high in April as companies accelerated stockpiling of components from the manufacturing hub amid concerns that the Iran conflict could drive input costs even higher. In addition, China’s consumer inflation exceeded forecasts, while producer prices recorded their strongest increase in nearly four years, pointing to a continued recovery from the deflationary pressures that weighed on the economy in recent months. Still, analysts warned that the approaching seasonal slowdown in steel demand and softer downstream consumption could cap further upside in steel prices."
-    },
-    {
-      "id": "4871687",
-      "time": "2026-05-11 15:02:08",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【ETF兩市成交額6142.31億元】截至收盤，ETF兩市成交額報6142.31億元，分型別來看，股票型ETF成交額1996.33億元，債券型ETF成交額2965.78億元，貨幣型ETF成交額320.75億元，商品型ETF成交額110.12億元，QDII型ETF成交額458.19億元。其中，成交額最高的非貨幣型ETF分別是滬深300ETF（510300）、香港證券ETF（513090）、中韓半導體ETF（513310）成交額分別為：104.57億元、87.98億元、70.57億元"
-    },
-    {
-      "id": "4871686",
-      "time": "2026-05-11 15:02:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "【青海省海北州委副書記、政法委書記張愛紅接受審查調查】據青海省紀委監委訊息：青海省海北州委副書記、政法委書記張愛紅涉嫌嚴重違紀違法，目前正接受青海省紀委監委紀律審查和監察調查。"
-    },
-    {
-      "id": "4871685",
-      "time": "2026-05-11 15:02:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "【吉林省農業農村廳原一級巡視員夏季接受審查調查】據吉林省紀委監委訊息：吉林省農業農村廳原一級巡視員夏季涉嫌嚴重違紀違法，主動向組織交代問題，目前正接受吉林省紀委監委紀律審查和監察調查。"
-    },
-    {
-      "id": "4871684",
-      "time": "2026-05-11 15:01:56",
-      "tags": [
-        "市場"
-      ],
-      "text": "意法半導體股價上漲2.8%，位居CAC40指數與SBF120指數漲幅榜首。"
-    },
-    {
-      "id": "4871683",
-      "time": "2026-05-11 15:01:46",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "Compass集團上調利潤增長預期後，股價上漲 4.5%。"
-    },
-    {
-      "id": "4871682",
-      "time": "2026-05-11 15:01:06",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【ETF收評：中韓半導體ETF領漲10.00%，黃金股ETF領跌2.63%】ETF收盤漲跌不一，中韓半導體ETF（513310）領漲10.00%，半導體裝置ETF（159327）漲7.20%，科創晶片設計ETF（589260）漲7.06%，黃金股ETF（517400）領跌2.63%，黃金股ETF（517520）跌2.59%，黃金股ETF（159321）跌2.48%。"
-    },
-    {
-      "id": "4871681",
-      "time": "2026-05-11 15:01:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "A股收盤，上證指數漲1.08%，深證成指漲2.16%，創業板指漲3.50%。"
-    },
-    {
-      "id": "4871680",
-      "time": "2026-05-11 15:01:01",
-      "tags": [
-        "市場",
-        "觀點",
-        "焦點",
-        "A股"
-      ],
-      "text": "【收評：滬指漲1%站上4200點，科創50指數盤中創歷史新高，AI產業鏈漲勢如虹】A股三大指數今日集體上漲，截至收盤，上證指數漲1.08%，深證成指漲2.16%，創業板指漲3.5%，科創50指數漲4.65%，北證50跌0.7%。全市場成交額35640億元，較上日成交額放量4895億元，全市場超3100只個股上漲。板塊題材上，儲存晶片、半導體、CPO、稀土永磁、生物疫苗、房地產、光伏裝置、醫療器械板塊漲幅居前；貴金屬、港口航運、機場航運、遊戲、造紙、旅遊及酒店、農產品加工板塊跌幅居前。盤面上，受海外AI巨頭接連大漲影響，儲存晶片、半導體、CPO等算力硬體股繼續爆發，中際旭創、江波龍、北方華創、華海誠科多股盤中創出歷史新高，科創50指數早盤一度創歷史新高，創業板指強勢突破3900點續創近11年新高。生物疫苗、抗病毒方向午後拉昇，沃森生物20cm漲停，華蘭疫苗、萬泰生物跟漲，此前17名美國人接受了漢坦病毒檢測，其中一人結果呈陽性。此外，房地產、光伏裝置、商業航天等板塊均有表現。另一方面，霍爾木茲海峽情況反覆變化，航運板塊多數下挫，北部灣港、國航遠洋領跌板塊。黃金股同樣表現欠佳，赤峰黃金、中金黃金、山金國際等股下挫。"
-    },
-    {
-      "id": "te:markets:549566",
-      "time": "2026-05-11 15:00:53",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "UK Natgas Prices Rise Further — UK natural gas futures rose to 109.3 pence per therm, extending their rebound from a two-week low, amid concerns of prolonged supply disruption due to persistent tensions between the US and Iran. The two sides failed to finalize a US-backed peace proposal, with President Donald Trump calling Iran’s response “totally unacceptable” and accusing Tehran of playing games. This was after reports that Iran had offered to transfer part of its stockpile of highly enriched uranium to a third country while refusing to dismantle its nuclear facilities. The Strait of Hormuz remained largely closed, with the route currently facing restrictions from both sides, choking off around one-fifth of global LNG supply. Although most Persian Gulf gas exports are directed toward Asia, the disruption has tightened global supply and increased competition, fueling concerns in Europe as the region needs to replenish inventories before next winter."
-    },
-    {
-      "id": "4871679",
-      "time": "2026-05-11 15:00:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中美聯合偵破跨國走私販毒案 抓獲5名嫌疑人】4月初，中國公安部禁毒局和美國司法部緝毒署成功聯合偵破郭某等人走私販毒案，同步在中國遼寧、廣東，美國佛羅里達州、內華達州等地開展收網行動，共抓獲涉案犯罪嫌疑人5名（中國籍2名、美國籍3名），繳獲丙託尼秦、波瑪唑侖等一批毒品，成功切斷一條跨中美兩國的走私販毒通道。該案的成功偵破，是中美禁毒執法部門深化務實合作的又一重大戰果，彰顯了兩國共同嚴厲打擊毒品違法犯罪活動的決心。（央視新聞）"
-    },
-    {
-      "id": "4871678",
-      "time": "2026-05-11 15:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "歐股開盤漲跌不一，德國DAX指數跌1.32%，英國富時100指數跌0.43%，法國CAC40指數跌1.09%，歐洲斯托克50指數跌1.02%，義大利富時MIB指數持平。"
-    },
-    {
-      "id": "4871677",
-      "time": "2026-05-11 15:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【股指期貨午盤收盤】 中證1000指數期貨連續漲0.90%， 滬深300指數期貨連續漲1.65%， 中證500指數期貨連續漲1.39%， 上證50指數期貨連續漲1.39%。"
-    },
-    {
-      "id": "4871676",
-      "time": "2026-05-11 15:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【商品期貨收盤】多晶矽連續跌4.63%，燃料油連續漲4.00%，低硫燃料油連續漲3.97%，碳酸鋰連續漲3.51%，苯乙烯連續漲3.15%，集運指數歐線期貨連續漲2.95%。"
-    },
-    {
-      "id": "4871675",
-      "time": "2026-05-11 14:59:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "據伊朗媒體Press TV：在24小時內，第二架美國空軍F-35A“閃電II”戰鬥機在阿曼灣上空飛行時發出7700緊急程式碼，並轉向阿聯酋的扎夫拉空軍基地進行緊急降落。"
     }
   ]
 }
