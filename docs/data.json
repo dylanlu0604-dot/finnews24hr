@@ -1,7 +1,36 @@
 {
-  "updated": "2026-05-19 04:04:15",
-  "count": 15511,
+  "updated": "2026-05-19 04:08:01",
+  "count": 15513,
   "items": [
+    {
+      "id": "mkt:019e3cb2-76b7-7ddc-912a-c7519a9d0b5a",
+      "time": "2026-05-19 04:05:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "【S&P 500, Nasdaq Slip as Treasury Yields and Inflation Fears Weigh on Markets】US stocks were mixed Monday after President Donald Trump said he would delay planned military action against Iran. The S&P 500 edged lower, the Nasdaq fell 0.5%, while the Dow rose 0.3%. Treasury yields climbed, with the 10-year yield topping 4.6%, as investors weighed persistent inflation risks linked to higher oil prices. Brent crude briefly rose above $110 before easing after Trump said “serious negotiations are now taking place” with Iran. Markets also turned focus to upcoming earnings from retailers including Target and Walmart, alongside closely watched results from Nvidia on Wednesday."
+    },
+    {
+      "id": "te:markets:551691",
+      "time": "2026-05-19 04:04:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Prices Ease — US crude futures pared early gains to trade little changed at around $106 a barrel during a volatile session on Monday, as traders weighed fresh developments in the Middle East and growing signs that the US and Iran could be nearing a deal. President Trump said he was calling off a planned attack on Iran scheduled for Tuesday after leaders from Saudi Arabia, Qatar, and the UAE urged him to “hold off,” adding that serious negotiations were now underway. Earlier in the session, oil prices fell after Iranian media reported that the US had proposed a temporary waiver of oil sanctions pending a final agreement. Prices later reversed course and moved higher again after Axios reported that Iran had submitted an updated peace proposal aimed at ending the conflict, though the White House reportedly viewed the offer as insufficient. Markets remain highly volatile, with oil prices elevated as the Strait of Hormuz stays largely shut and attacks on key infrastructure disrupt production."
+    },
     {
       "id": "4886545",
       "time": "2026-05-19 04:03:34",
