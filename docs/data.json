@@ -1,7 +1,46 @@
 {
-  "updated": "2026-05-18 12:29:09",
-  "count": 15530,
+  "updated": "2026-05-18 12:33:06",
+  "count": 15529,
   "items": [
+    {
+      "id": "te:markets:551439",
+      "time": "2026-05-18 12:32:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "South Korean Won Extends Losses to Over One-Month Low — The South Korean won weakened toward 1,504 per dollar, extending losses to a more than one-month low, as a stronger dollar and persistent global yield pressures weighed on sentiment. The greenback gained support from rising US Treasury yields, with markets reassessing expectations that the Federal Reserve will keep policy restrictive for longer amid still-elevated inflation pressures. Geopolitical tensions in the Middle East also added to dollar demand, with higher oil prices reinforcing inflation concerns and supporting safe-haven flows into USD assets. This kept pressure on regional currencies, including the won, which remains sensitive to global liquidity conditions and external risk sentiment. Domestically, expectations of sustained high Korean interest rates, continued foreign portfolio outflows, and recent financial market volatility have also weighed on the currency, reinforcing cautious positioning toward the won."
+    },
+    {
+      "id": "4884931",
+      "time": "2026-05-18 12:31:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【胡塞據報又擊落美軍MQ9無人機】據伊朗等國媒體今天（5月18日）報道，葉門胡塞武裝當地時間5月17日晚在葉門西部馬裡卜省擊落一架美軍MQ-9“死神”無人機。相關報道還附有被擊落無人機殘骸的圖片以及無人機墜毀燃燒的影片。有訊息稱，這架“死神”無人機被擊落時，還攜帶有AGM-114R9X“地獄火”導彈。美方目前尚未證實有無人機在葉門被擊落。(CCTV國際時訊)"
+    },
+    {
+      "id": "4884930",
+      "time": "2026-05-18 12:30:17",
+      "tags": [
+        "觀點"
+      ],
+      "text": "花旗銀行將英飛凌股票目標價從52歐元上調至80歐元。"
+    },
+    {
+      "id": "4884929",
+      "time": "2026-05-18 12:29:47",
+      "tags": [
+        "央行",
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【高盛稱各國央行料將加大力度購買黃金 預估金價年底可達5400美元】據高盛集團稱，各國央行料將加大黃金的購買力度，幫助金價在今年底前回升。分析師Lina Thomas和Daan Struyven在落款日為5月15日的報告中指出，2026年黃金購買量預計將回升至每月平均60噸。根據修正後的官方購金估算模型，截至今年3月的12個月移動平均購買量為50噸，高於先前的29噸。分析師們援引一項內部調查稱，對各國央行而言，對黃金有著“強勁的根本性需求”，近期地緣政治發展 可能進一步強化各國推動儲備多元化的趨勢。高盛仍維持看多立場，預估金價今年底有望升至每盎司5,400美元；瑞銀集團和澳新銀行先前也釋出類似樂觀看法。"
+    },
     {
       "id": "4884928",
       "time": "2026-05-18 12:27:23",
@@ -140190,51 +140229,6 @@
         "其他"
       ],
       "text": "【騰訊雲：QClaw正式上線“檔案空間”功能】騰訊雲訊息，今天，QClaw正式上線“檔案空間”功能。只需一次授權，QClaw就能將本地檔案、騰訊文件、ima知識庫一站式全面打通。從找資料、AI加工，到最終產出和協作，全部在一個工作臺裡閉環。"
-    },
-    {
-      "id": "4871473",
-      "time": "2026-05-11 12:33:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "【張文宏再發聲】國家傳染病醫學中心，復旦大學附屬華山醫院感染科主任張文宏團隊5月10日晚在“華山感染”微信公眾號刊發文章，揭秘安第斯病毒。文章指出，安第斯病毒並不意味著它像流感或新冠病毒一樣容易傳播。安第斯病毒的人際傳播通常需要密切、長時間接觸，多見於家庭成員、親密伴侶、照護者或醫療照護人員之間。WHO目前評估，本次事件對船上人員風險為中等，對全球普通人群風險為低。從流行病學調查角度看，這起事件的重點不只是“郵輪上發生了感染”，而是：一名可能在南美自然疫源地暴露後感染的旅行者，進入了遠洋探險郵輪這一相對封閉、人員長期共同生活且跨國流動複雜的場景，隨後形成了有限繼發傳播和多國接觸者追蹤。文章指出，從目前資訊看，本次事件導致我國發生直接輸入病例或本土傳播的風險很低。原因主要有三點：第一，本次事件已納入WHO和多國公共衛生協作框架，涉事人員正在接受分層追蹤和管理；第二，安第斯病毒主要與南美相關齧齒動物宿主有關，我國本土並無安第斯病毒自然疫源地基礎；第三，安第斯病毒雖可人際傳播，但傳播通常需要密切、長時間接觸，並不具備高效社群傳播能力。（新京報）"
-    },
-    {
-      "id": "4871472",
-      "time": "2026-05-11 12:32:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "臺灣證交所加權股價指數上漲1%至42,020.59點。"
-    },
-    {
-      "id": "4871471",
-      "time": "2026-05-11 12:30:52",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4670美元/盎司，日內跌0.97%。"
-    },
-    {
-      "id": "4871470",
-      "time": "2026-05-11 12:30:03",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【斯里蘭卡財政部：2026年1-2月預算實現盈餘】斯里蘭卡財政部發布報告稱，受增值稅及車輛進口稅費收入增加提振，該國2026年前兩個月預算盈餘達1700億斯里蘭卡盧比，摺合5.29億美元。而去年同期，斯里蘭卡預算為赤字870億盧比。期間財政總收入增長35.5%，至1.03萬億盧比；利息支出下降9.5%，降至3757億盧比。作為斯里蘭卡國際貨幣基金組織紓困計劃重點監測指標，本期預算基本財政收支盈餘達5450億盧比，高於上年同期的3280億盧比。"
-    },
-    {
-      "id": "te:markets:549518",
-      "time": "2026-05-11 12:29:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "India",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "Stocks in India Hit 4-week Low — SENSEX decreased to 76258.00 Index Points, the lowest since April 2026. Over the past 4 weeks, SENSEX lost 0.69%, and in the last 12 months, it decreased 7.41%."
     }
   ]
 }
