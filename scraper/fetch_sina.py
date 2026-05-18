@@ -406,10 +406,12 @@ def process_eastmoney_item(raw: dict, slug: str, category: str, sublabel: str) -
     body = summary or title
     if not body:
         return None
+    # 分類/子標籤已經是繁體標準形式，不再經 to_tw()，
+    # 避免 opencc s2twp 把「經濟數據」本地化成「經濟資料」造成前端 chip 對不上。
     return {
         "id": f"em:{slug}:{code}",
         "time": show_time,
-        "tags": [to_tw(category), to_tw(sublabel)],
+        "tags": [category, sublabel],
         "text": to_tw(body),
     }
 
