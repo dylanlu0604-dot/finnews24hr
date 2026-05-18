@@ -1,7 +1,35 @@
 {
-  "updated": "2026-05-19 00:17:35",
-  "count": 15486,
+  "updated": "2026-05-19 00:21:39",
+  "count": 15479,
   "items": [
+    {
+      "id": "te:markets:551676",
+      "time": "2026-05-19 00:20:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "European Stocks Inch Higher — European stocks closed mostly higher on Monday, trimming recent losses as markets further assessed the impact of ongoing macroeconomic headwinds on European earnings projections. The Eurozone's STOXX 50 inched higher to 5,832 and the STOXX 600 rose 0.3% to 609. The stalemate between the US and Iran was extended through the weekend and no side expressed urgency in pressing for opening the Strait of Hormuz for oil and goods exports. Consequently, energy prices held higher and European sovereign yields maintained their elevated levels. Financial services providers were steadily higher, trimming losses from last session with Allianz, Nordea, AXA, and Munich Re jumping over 1%. Also, Deutsche Boerse jumped 5% on reports that TCI increased its position on the exchange operator. On the other hand, ASML fell 3.2%, in line with a plunge in global AI infrastructure stocks."
+    },
+    {
+      "id": "4886374",
+      "time": "2026-05-19 00:17:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英國首相大熱門伯納姆：若能入主唐寧街 不會對財政規則進行修改】被認為最有可能接替基爾·斯塔默出任英國首相的安迪·伯納姆表示，如果其上臺執政，不會改變政府自行設定的借貸限制。這位大曼徹斯特市長的一名發言人週一表示，如果伯納姆在今年晚些時候可能舉行的領導權選舉後入主唐寧街10號，他不會對現任財政大臣裡夫斯的財政規則作出任何調整。該發言人排除了將國防支出豁免於這些限制之外的可能性。"
+    },
+    {
+      "id": "4886373",
+      "time": "2026-05-19 00:17:15",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "財政部檔案獲悉，德國聯邦國防軍將向萊茵金屬採購 2030 輛軍用卡車，訂單總額超 10 億歐元。"
+    },
     {
       "id": "mkt:019e3bde-fe93-7dd6-889c-8463067150ea",
       "time": "2026-05-19 00:15:30",
@@ -139797,104 +139825,6 @@
         "焦點"
       ],
       "text": "阿聯酋正式允許居民使用加密貨幣繳納政府相關費用。"
-    },
-    {
-      "id": "4872938",
-      "time": "2026-05-12 00:20:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列襲擊黎巴嫩南部一家醫療中心，造成至少一人死亡，四人受傷。"
-    },
-    {
-      "id": "4872937",
-      "time": "2026-05-12 00:20:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場資訊：美國在其談判方案中表示將解凍伊朗被凍結的資金，但伊朗堅持要求這些資金必須在一定期限內解凍。"
-    },
-    {
-      "id": "4872936",
-      "time": "2026-05-12 00:20:05",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "特斯拉前首席財務官迪帕克・阿胡賈加盟美國電池回收獨角獸公司Redwood Materials。"
-    },
-    {
-      "id": "mkt:019e17d6-7a6e-7dd9-b924-94c952aa014d",
-      "time": "2026-05-12 00:19:52",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Crypto Concepts",
-        "COIN.O"
-      ],
-      "text": "COINBASE GLOBAL INC: SOME USERS MAY EXPERIENCE DELAYED SENDS AND RECEIVES OF MONAD (MON) & MONUSDC"
-    },
-    {
-      "id": "te:markets:549718",
-      "time": "2026-05-12 00:19:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "DAX Posts Marginal Gain — Frankfurt’s DAX 40 reversed early losses to close marginally up at 24,350 on Monday, as investors tracked further Middle East developments, while AI optimism remained in play. The US-Iran negotiations suffered another setback, after President Trump dismissed Iran’s latest proposal as “totally unacceptable,” accusing Tehran of “playing games.” Among key movers, BASF rose 4.7% to lead gains after Goldman Sachs reaffirmed its “buy” rating and raised its target price to €65 from €63. Infineon Technologies followed closely, rising 3.8%. On the flip side, defence stocks including Rheinmetall (-11.5%), Renk (-6%) and Hensoldt (-4.9%) fell sharply, also weighed by Russian President Vladimir Putin’s more conciliatory tone on the Ukraine war. Gea Group dropped 5% despite beating first-quarter 2026 order intake and operating profit estimates. Hannover Re shed 3.5% despite a 48% yearly rise in net profit to €710.6 million, which missed analyst expectations of €721 million."
-    },
-    {
-      "id": "mkt:019e17d5-30fa-7dd9-b924-8e0076260b87",
-      "time": "2026-05-12 00:18:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IRAN SOURCE: NO DEAL TO SHIP ENRICHED NUCLEAR MATERIAL OUT – TASNIM"
-    },
-    {
-      "id": "4872935",
-      "time": "2026-05-12 00:18:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普稱，他正認真考慮將委內瑞拉設為美國第 51 個州。"
-    },
-    {
-      "id": "mkt:019e17d5-0223-7dd9-b924-84e405ee008c",
-      "time": "2026-05-12 00:18:16",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "NVIDIA SETS FRESH INTRADAY RECORD HIGH DESPITE ABSENCE FROM BEIJING MEET"
-    },
-    {
-      "id": "te:markets:549717",
-      "time": "2026-05-12 00:18:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "P&G Stock Price Hits 4-week Low — P&G shares decreased to 142.17 USD, the lowest since April 2026. Over the past 4 weeks, Procter & Gamble lost 0.93%, and in the last 12 months, it decreased 11.59%."
-    },
-    {
-      "id": "4872934",
-      "time": "2026-05-12 00:18:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "一位接近伊朗談判團隊的訊息人士稱：與一些西方媒體的說法相反，伊朗方面提供的文字中沒有任何關於接受從該國移除濃縮核材料的內容。"
     }
   ]
 }
