@@ -1,7 +1,82 @@
 {
-  "updated": "2026-05-18 09:51:29",
-  "count": 15417,
+  "updated": "2026-05-18 09:55:23",
+  "count": 15418,
   "items": [
+    {
+      "id": "te:markets:551376",
+      "time": "2026-05-18 09:54:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Soybeans Climb on US–China Farm Deal — Soybean futures climbed more than 1% to near $12 per bushel in mid-May, rebounding from losses seen on May 15 after new details emerged from President Donald Trump’s two-day summit in China regarding agricultural trade commitments. The White House said that China agreed to purchase at least $17 billion worth of US agricultural products annually through 2028, intended to supplement earlier soybean purchase agreements. After Trump’s meeting with President Xi last year, China had initially committed to buying 12 million metric tons of soybeans, alongside a broader pledge to purchase 25 million tons annually for three years. While the announcement was largely welcomed by US farmers seeking clearer demand signals following the summit, they still face persistent pressure from relatively low crop prices and elevated production costs in recent years. These challenges have been further intensified by Trump’s tariffs and rising fertilizer costs linked to the broader conflict in the Middle East."
+    },
+    {
+      "id": "4884649",
+      "time": "2026-05-18 09:54:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "【兆易創新觸及漲停】兆易創新觸及漲停，成交額124.44億元。"
+    },
+    {
+      "id": "4884648",
+      "time": "2026-05-18 09:53:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股智譜直線拉昇 漲超10%】港股智譜直線拉昇，截至發稿，漲超10%。"
+    },
+    {
+      "id": "mkt:019e38c9-355a-7663-82fe-2693ed98e00d",
+      "time": "2026-05-18 09:52:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "CHINA’S THREE MAJOR A-SHARE INDICES TURN POSITIVE; CHINEXT UP 0.31% AFTER EARLIER FALLING OVER 0.8%"
+    },
+    {
+      "id": "4884646",
+      "time": "2026-05-18 09:52:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【柳州民兵參與抗震救災工作】廣西柳州5.2級地震武警緊急出動，柳州柳南區民兵應急分隊也聞令而動，第一時間奔赴受災現場。截至5月18日8時，柳南區人武部組織民兵40人協助轉移受災群眾7000餘人，搭建救災帳篷70頂，為受災群眾發放飲用水、生活物資，指導群眾熟悉安置點生活設施，持續開展廢墟清障、隱患排查、秩序維護等任務。（央視軍事）"
+    },
+    {
+      "id": "4884645",
+      "time": "2026-05-18 09:51:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本自民黨18日開會討論修訂“安保三檔案”草案】據日本方面訊息，日本自民黨定於18日召開會議，就修訂《國家安全保障戰略》在內的“安保三檔案”建議草案進行討論。草案計劃於今年6月初最終定稿。 (央視新聞)"
+    },
+    {
+      "id": "4884644",
+      "time": "2026-05-18 09:51:04",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國連鎖快餐品牌Wendy's將進入中國市場】5月18日，在美國連鎖快餐品牌Wendy's官網上看到，該品牌國際特許經營重點市場亞太區域中出現了中國市場。早前，Wendy's在2026年第一季度的財報中稱，公司已經簽署一項特許經營協議，計劃未來10年在中國建設最多1000家餐廳。Wendy's稱合作方是“一家在中國擁有數十年經驗的大型餐飲運營商，以強待客能力聞名、深刻理解中國消費者。”但沒有公佈這家運營商的名稱。此外，財報顯示，Wendy's2026年一季度全球銷售額同比下降5.5%，美國同店銷售下降7.8%，國際市場銷售額增長6.0%。（介面）"
+    },
+    {
+      "id": "4884643",
+      "time": "2026-05-18 09:50:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國瑞林簽約雲南紅河砷業公司20000噸/年含砷物料資源化利用專案】據中國瑞林訊息，近日，中國瑞林成功簽約雲南紅河砷業有限責任公司20000噸/年含砷物料資源化利用專案，正式承接該專案初步設計和施工圖設計工作。"
+    },
     {
       "id": "4884642",
       "time": "2026-05-18 09:50:42",
@@ -139084,71 +139159,6 @@
         "Greater China"
       ],
       "text": "HONG KONG TO ISSUE US$500M OF INFRASTRUCTURE NOTES WITH 5-YEAR TENOR HONG KONG INFRASTRUCTURE NOTES CARRY 4% COUPON, MATURE MAY 2031 HONG KONG BOND ISSUANCE PROCEEDS TO BE USED TO FINANCE INFRA PROJECTS, TERM SHEET SHOWS"
-    },
-    {
-      "id": "4871237",
-      "time": "2026-05-11 09:54:54",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【亞洲貨幣多數走弱，受特朗普拒絕伊朗結束戰爭提議影響】早盤交易中，亞洲貨幣兌美元多數走弱。三菱日聯銀行的Lloyd Chan在一份研究報告中表示，美國總統特朗普拒絕伊朗最新的結束戰爭提議，表明美伊衝突存在長期不確定性的風險。“隨著與能源相關的干擾持續存在，燃料短缺風險上升可能會對地區外匯構成更具差異化的挑戰，特別是對於原油庫存緩衝相對較低的經濟體，“該高階外匯分析師表示。該分析師補充說，這些國家包括印度以及菲律賓、越南和印尼等幾個東盟國家。倫敦證券交易所集團資料顯示，美元上漲0.4%，至60.747比索；上漲0.7%，至32.38泰銖；攀升0.8%，至1,473.45韓元。"
-    },
-    {
-      "id": "mkt:019e14be-7f68-7dd9-b91a-367587bf0b52",
-      "time": "2026-05-11 09:54:49",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "SZSE Component"
-      ],
-      "text": "TURNOVER ON SSE AND SZSE EXCEEDS 1TN YUAN, UP 205.1BN YUAN FROM THE SAME TIME LAST SESSION"
-    },
-    {
-      "id": "4871236",
-      "time": "2026-05-11 09:54:06",
-      "tags": [
-        "公司",
-        "央行",
-        "國際"
-      ],
-      "text": "【日本央行任命貨幣政策專家正木一博負責國際事務】日本央行週一宣佈，已任命資深職業央行家、貨幣政策專家正木一博（Kazuhiro Masaki）為執行理事，負責該行的國際事務。正木在制定貨幣政策方面擁有豐富的經驗，他已於週六正式履新。他將牽頭日本央行對全球經濟的研究工作，並負責與包括七國集團和二十國集團會議在內的各國央行同行進行聯絡。他接替了清水誠一（Seiichi Shimizu）的職務；清水誠一將留任該行特別顧問一職，直至5月21日。"
-    },
-    {
-      "id": "4871235",
-      "time": "2026-05-11 09:53:23",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【鋁價上漲；高價料將持續】鋁價上漲，倫敦金屬交易所三個月期鋁合約上漲0.5%，報每噸3,521.50美元。澳新銀行研究部策略師在一份報告中表示，由於中東衝突持續，鋁價將保持高位，該地區產量佔全球供應的9%。對航運和生產的干擾規模取決於衝突持續的時間。澳新銀行表示：“雖然更高的價格和地區溢價一直在抑制需求，但價格的任何進一步上漲都可能加速需求配給。”"
-    },
-    {
-      "id": "4871234",
-      "time": "2026-05-11 09:52:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "國家醫療保障局辦公室關於印發《醫保醫用裝置（成像類）編碼規則和方法》的通知。"
-    },
-    {
-      "id": "4871233",
-      "time": "2026-05-11 09:51:57",
-      "tags": [
-        "市場"
-      ],
-      "text": "【電力板塊短線拉昇，甘肅能源直線漲停】電力板塊短線拉昇，甘肅能源直線漲停，大唐發電此前封板，華電遼能、豫能控股、粵電力A漲幅居前。"
-    },
-    {
-      "id": "4871232",
-      "time": "2026-05-11 09:51:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "美東時間上午10:30，特朗普將出席母嬰健康相關活動。"
     }
   ]
 }
