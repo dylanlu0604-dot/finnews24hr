@@ -1,7 +1,78 @@
 {
-  "updated": "2026-05-19 00:09:36",
-  "count": 15493,
+  "updated": "2026-05-19 00:13:35",
+  "count": 15489,
   "items": [
+    {
+      "id": "4886369",
+      "time": "2026-05-19 00:12:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "沃爾沃：2026 年第二季度經營現金流將受 8900 萬美元負面影響。"
+    },
+    {
+      "id": "4886368",
+      "time": "2026-05-19 00:12:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "沃爾沃集團北美公司與加州空氣資源委員會達成和解，沃爾沃集團將支付 1250 萬美元罰金、向加州空氣資源委員會專項基金繳納 7100 萬美元，並投入 1.08 億美元用於排放治理相關專案。"
+    },
+    {
+      "id": "te:markets:551674",
+      "time": "2026-05-19 00:12:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 0.91% Lower — The FTSE MIB Index fell 447 points or 0.91 percent on Monday to close at 48669 points. Leading the losses are Banca Monte dei Paschi di Siena (-7.89%), Infrastrutture Wire (-6.05%) and Nexi (-5.49%). Top gainers were Eni (2.04%), Telecom Italia (1.75%) and Mediobanca (1.61%)."
+    },
+    {
+      "id": "4886367",
+      "time": "2026-05-19 00:11:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡達與巴基斯坦總理通電話，商討調停相關事宜。"
+    },
+    {
+      "id": "te:markets:551672",
+      "time": "2026-05-19 00:11:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 1.49% Higher — The DAX Index gained 357 points or 1.49 percent on Monday to close at 24308 points. Gains were led by Deutsche Boerse (4.66%), Rheinmetall (4.16%) and Deutsche Telekom (4.01%)."
+    },
+    {
+      "id": "te:markets:551671",
+      "time": "2026-05-19 00:10:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 0.26% Higher — The CAC 40 Index went up by 21 points or 0.26 percent on Monday to close at 7973 points. The rise was led by TP (6.26%), Publicis (5.24%) and Edenred (2.64%). On the downside, the weakerst performers were Legrand (-2.40%), Stellantis NV (-1.49%) and Schneider Electric (-1.42%)."
+    },
+    {
+      "id": "te:markets:551669",
+      "time": "2026-05-19 00:08:37",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Cotton Futures Move Higher — Cotton futures rose above 82 cents per pound, up from two-week lows of 80.6 cents per pound hit on May 15, supported by a weaker US dollar and elevated oil prices. At the same time, the White House said that China has committed to purchasing at least $17 billion worth of US agricultural products annually between 2026 and 2028, which boosted hopes for stronger export demand. The latest USDA's weekly export sales report signaled weakening demand. with sales falling 27.5% year-on-year to 47,699 bales and shipments dropping to an eight-week low of 290,293 bales. On the supply side, the market is closely watching US planting progress amid prolonged dry conditions in key producing states like Texas. US cotton production for 2026/27 is projected at 13.3 million bales, down 600,000 bales from 2025/26, according to the USDA’s May WASDE report. The same report also points to lower global production and ending stocks for 2026/27, alongside higher consumption, signaling tighter global supplies."
+    },
     {
       "id": "4886366",
       "time": "2026-05-19 00:08:09",
@@ -139852,115 +139923,6 @@
         "國際"
       ],
       "text": "委內瑞拉代總統羅德里格斯：委內瑞拉沒有成為美國第51個州的計劃。"
-    },
-    {
-      "id": "4872929",
-      "time": "2026-05-12 00:12:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普批准解僱FDA局長馬卡里。"
-    },
-    {
-      "id": "te:markets:549716",
-      "time": "2026-05-12 00:12:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE MIB Index Closes 0.76% Higher — The FTSE MIB Index gained 375 points or 0.76 percent on Monday to close at 49665 points. Gains were led by Diasorin (5.54%), Prysmian (3.29%) and Saipem (3.23%). Biggest losers were Avio (-5.69%), Moncler (-4.62%) and Brunello Cucinelli (-3.62%)."
-    },
-    {
-      "id": "mkt:019e17cf-268a-7dd9-b924-66cb821c906e",
-      "time": "2026-05-12 00:11:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TRUMP SAYS XI PREFERS THAT THE U.S. DOES NOT SUPPLY WEAPONS TO TAIWAN"
-    },
-    {
-      "id": "4872928",
-      "time": "2026-05-12 00:11:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "【本輪巴以衝突已造成加沙地帶72740人死亡】當地時間5月11日，加沙地帶衛生部門公佈最新統計報告稱，自本輪停火以來，加沙地帶因以軍襲擊而死亡的人數升至854人，另有2453人受傷。自2023年10月7日新一輪巴以大規模衝突爆發以來，以色列對加沙地帶的襲擊已累計造成72740人死亡、172555人受傷。（央視新聞）"
-    },
-    {
-      "id": "mkt:019e17ce-d9ab-7dd9-b924-5f892ddf2507",
-      "time": "2026-05-12 00:11:32",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "TRUMP APPROVES PLAN TO FIRE FDA COMMISSIONER MAKARY -CBS"
-    },
-    {
-      "id": "te:markets:549715",
-      "time": "2026-05-12 00:11:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The DAX Index Closes 0.05% Higher — The DAX Index went up by 12 points or 0.05 percent on Monday to close at 24350 points. The rise was led by BASF (3.50%), Brenntag (3.22%) and Zalando (2.27%). On the downside, the weakerst performers were Gea Group (-5.44%), Adidas (-3.51%) and MTU Aero Engines AG (-3.18%)."
-    },
-    {
-      "id": "4872927",
-      "time": "2026-05-12 00:10:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊朗是個美麗的國家，只是掌權的人或許不該在那裡。"
-    },
-    {
-      "id": "4872926",
-      "time": "2026-05-12 00:10:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：過去數月，烏克蘭已損失2.5萬名士兵。"
-    },
-    {
-      "id": "te:markets:549714",
-      "time": "2026-05-12 00:10:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The CAC 40 Index Closes 0.74% Lower — The CAC 40 Index fell 60 points or 0.74 percent on Monday to close at 8053 points. Leading the losses are LVMH (-4.32%), AXA (-3.59%) and Veolia (-3.43%). Top gainers were TP (7.40%), STMicroelectronics (3.13%) and Orange (1.93%)."
-    },
-    {
-      "id": "4872925",
-      "time": "2026-05-12 00:09:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我願意——這話聽著很沉重——以身赴難、為國擋子彈。這種說法本身就讓人心情沉重，尤其從我口中說出更是如此，但我確實願意為國家挺身而出、甘願付出一切。"
-    },
-    {
-      "id": "mkt:019e17cd-5b18-7dd9-b924-57c3b6dba0b0",
-      "time": "2026-05-12 00:09:54",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "S&P500",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "TRUMP: CHINA'S XI IS MORE LIKELY TO BRING UP TAIWAN"
     }
   ]
 }
