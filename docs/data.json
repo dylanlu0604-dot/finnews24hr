@@ -1,7 +1,61 @@
 {
-  "updated": "2026-05-18 08:00:50",
-  "count": 15356,
+  "updated": "2026-05-18 08:04:29",
+  "count": 15354,
   "items": [
+    {
+      "id": "4884411",
+      "time": "2026-05-18 08:03:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "【全球最大的白銀ETF iShares Silver Trust持倉量較前日持平】截至2026年05月15日，全球最大的白銀ETF iShares Silver Trust持倉量為15222.81噸，較前一個交易日持平。"
+    },
+    {
+      "id": "te:markets:551344",
+      "time": "2026-05-18 08:03:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Silver Holds Decline on Inflation Worries — Silver traded below $77 an ounce on Monday after plunging more than 13% over the previous two sessions, as growing signs that the Middle East-driven energy price shock is spilling over into broader inflation trends reinforced expectations for tighter central bank policy. The metal also faced pressure from a stronger US dollar and rising Treasury yields after hotter-than-expected US inflation data prompted investors to rule out any Federal Reserve rate cuts this year, while also increasing bets that policymakers could still deliver a rate hike before year-end. Further weighing on sentiment, UBS strategists sharply lowered their full-year silver investment demand forecast to 300 million ounces from more than 400 million ounces, citing softer industrial demand and rising mine supply. The bank also projected the global silver market deficit to narrow significantly to around 60–70 million ounces, compared with an earlier estimate of roughly 300 million ounces."
+    },
+    {
+      "id": "4884410",
+      "time": "2026-05-18 08:02:58",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）下跌2%，至7342.22。"
+    },
+    {
+      "id": "4884408",
+      "time": "2026-05-18 08:01:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【公安部公佈10起非法破解無人機飛行控制系統違法犯罪典型案例】近年來，一些人員非法破解無人機飛行控制系統，解除無人機禁飛區、限飛區、飛行高度等安全限制，實施“黑飛”行為時有發生，嚴重擾亂空中秩序，給公共安全和國家安全帶來潛在風險隱患。公安機關網安部門圍繞無人機“黑飛”行為，特別是對非法破解無人機飛行控制系統的駭客行為，始終保持嚴打高壓態勢，全面遏制非法活動蔓延。今日，公安部公佈10起非法破解無人機飛行控制系統違法犯罪典型案例。私自為無人機所有者提供解除禁飛區域、限高等限制服務，逃避安全監管，屬違法犯罪行為。解除限高的無人機侵入民航航線航路，易發生碰撞造成嚴重後果；解除飛行區域限制的無人機飛入軍事管理區等禁飛區域，可能洩露國家秘密；改變載重等出廠效能引數的無人機在飛行過程中極易發生失控墜落，將直接侵害人民群眾生命財產安全。空域不是法外之地，飛行不能隨心所欲！公安機關將持續依法嚴厲打擊非法破解無人機飛行控制系統和實施“黑飛”等違規違法行為。"
+    },
+    {
+      "id": "4884407",
+      "time": "2026-05-18 08:01:34",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "鎧俠控股股票暫未交易，預計將上漲；公司第一季度營業利潤預測超出市場預期。"
+    },
+    {
+      "id": "4884406",
+      "time": "2026-05-18 08:00:39",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）開盤下跌0.7%，至7443.29點。"
+    },
     {
       "id": "4884405",
       "time": "2026-05-18 08:00:21",
@@ -138531,77 +138585,6 @@
         "其他"
       ],
       "text": "【香港政府擬提議首階段發放至少1萬個網約車牌照】信報援引知情人士報道稱，香港政府最快週一向立法會提交檔案，提議發放至少1萬個網約車牌照作為起步規模。報道稱，政府計劃在今年內將網約車服務合法化，目標是在第四季度啟動合法運營。香港政府認為，無論是Uber提議的3萬個牌照，還是計程車行業提議的3600個牌照，都不是可行的方案。"
-    },
-    {
-      "id": "4871075",
-      "time": "2026-05-11 08:04:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "中國奇瑞汽車與日本AUTOBACS SEVEN成立合資企業，計劃從2027年開始在日本銷售電動汽車。（日經新聞）"
-    },
-    {
-      "id": "4871074",
-      "time": "2026-05-11 08:03:41",
-      "tags": [
-        "市場"
-      ],
-      "text": "SK海力士股價上漲9.3%，報184.3萬韓元。"
-    },
-    {
-      "id": "4871073",
-      "time": "2026-05-11 08:02:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國5月1日至10日進口同比增長14.9%，出口同比增長43.7%。"
-    },
-    {
-      "id": "4871072",
-      "time": "2026-05-11 08:02:31",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數（KOSPI）上漲4.1%，至7802.82。"
-    },
-    {
-      "id": "4871071",
-      "time": "2026-05-11 08:01:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "奇瑞與Autobacs（澳德巴克斯）的合資企業計劃到2029年在日本推出四款中國製造電動汽車車型，並在2030年之後在日本本土生產。（日經新聞）"
-    },
-    {
-      "id": "4871070",
-      "time": "2026-05-11 08:00:56",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "三星電子股價上漲超5%，創下歷史新高。"
-    },
-    {
-      "id": "te:markets:549424",
-      "time": "2026-05-11 08:00:53",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Futures Ease on Middle East Uncertainty — US stock futures edged lower on Monday as uncertainty surrounding the Middle East conflict intensified after President Donald Trump described Iran’s response to his peace proposal as “TOTALLY UNACCEPTABLE.” The Strait of Hormuz remains effectively closed as Washington and Tehran continue to struggle toward a diplomatic resolution, keeping energy prices elevated and fueling concerns about inflation. Investors are also awaiting April US inflation data for further signs of how rising oil prices are feeding into broader price pressures across the economy. On the corporate side, earnings reports due this week include results from Constellation Energy, Fox Corporation, Barrick Mining, Applied Materials, and Ross Stores, among others. Last week, the S&P 500 and Nasdaq Composite advanced 2.33% and 4.51%, respectively, with both indexes reaching fresh record highs, supported by solid corporate earnings and continued momentum in technology shares."
-    },
-    {
-      "id": "4871069",
-      "time": "2026-05-11 08:00:50",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "日本日經平均股價創下歷史新高。"
     }
   ]
 }
