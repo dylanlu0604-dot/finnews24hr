@@ -1,7 +1,15 @@
 {
-  "updated": "2026-05-19 01:09:41",
+  "updated": "2026-05-19 01:13:37",
   "count": 15468,
   "items": [
+    {
+      "id": "4886408",
+      "time": "2026-05-19 01:12:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果於 6 月 8 日正式開啟全球開發者大會。"
+    },
     {
       "id": "4886407",
       "time": "2026-05-19 01:09:02",
@@ -139769,14 +139777,6 @@
         "其他"
       ],
       "text": "伊拉克國家安全顧問：我們反對利用伊拉克領土作為任何敵對行動的跳板。"
-    },
-    {
-      "id": "mkt:019e1804-7e1a-7dd9-b925-2e1e95606016",
-      "time": "2026-05-12 01:10:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "REDISTRICTING WAR ISN’T OVER, DEMOCRATS SAY. PLANNING HUDDLE THIS WEEK IN WASHINGTON - CNBC"
     }
   ]
 }
