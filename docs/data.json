@@ -1,7 +1,45 @@
 {
-  "updated": "2026-05-19 01:17:40",
-  "count": 15472,
+  "updated": "2026-05-19 01:21:36",
+  "count": 15466,
   "items": [
+    {
+      "id": "mkt:019e3c18-a93e-7dd6-889d-60f5c4970dc7",
+      "time": "2026-05-19 01:18:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "KATAYAMA: WE NEED TO CLOSELY MONITOR FINANCIAL MARKETS"
+    },
+    {
+      "id": "mkt:019e3c18-9de7-7dd6-889d-5d788ba50bfc",
+      "time": "2026-05-19 01:18:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Copper",
+        "Impact bearish"
+      ],
+      "text": "KATAYAMA: TOLD G7 THAT WE SHOULD BE UNITED AGAINST CHINA'S EXPORT CONTROL OF CRITICAL MINERALS"
+    },
+    {
+      "id": "mkt:019e3c18-89b4-7dd6-889d-574b13f7cdb6",
+      "time": "2026-05-19 01:18:21",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "NEW YORK FED ACCEPTS $7.193 BLN OF $7.193 BLN SUBMITTED TO REVERSE REPO FACILITY ON MAY 18"
+    },
+    {
+      "id": "4886416",
+      "time": "2026-05-19 01:18:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山皋月： 我們需密切監控金融市場動態。"
+    },
     {
       "id": "4886415",
       "time": "2026-05-19 01:16:36",
@@ -139720,100 +139758,6 @@
         "國際"
       ],
       "text": "美國國務院：美國退出國際移民審議論壇。"
-    },
-    {
-      "id": "4872997",
-      "time": "2026-05-12 01:21:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌和蘋果正為RCS 簡訊推出端到端加密功能，預設保護安卓與iPhone使用者之間的聊天通訊安全。"
-    },
-    {
-      "id": "mkt:019e180e-b319-7dd9-b925-56abfb6e4e7a",
-      "time": "2026-05-12 01:21:16",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "7 COUNTERPARTIES TAKE USD1.133 BLN AT FED REVERSE REPO OP. (PREV USD787 MLN, 5 BIDS)"
-    },
-    {
-      "id": "mkt:019e180e-8673-7dd9-b925-4e9f3ec02650",
-      "time": "2026-05-12 01:21:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. STATE DEPT: UNITED STATES REJECTS INTERNATIONAL MIGRATION REVIEW FORUM"
-    },
-    {
-      "id": "4872996",
-      "time": "2026-05-12 01:21:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以軍稱摧毀黎真主黨火箭彈發射裝置 並打死多名武裝人員】當地時間5月11日晚，以色列國防軍宣佈，當天稍早前，以軍在黎巴嫩南部摧毀一個黎巴嫩真主黨火箭彈發射裝置，並打死多名黎真主黨武裝人員。以軍表示，這些黎真主黨武裝人員此前曾利用該火箭彈發射裝置向駐紮在黎南部的以軍部隊發射火箭彈。"
-    },
-    {
-      "id": "4872995",
-      "time": "2026-05-12 01:20:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國眾議院少數黨領袖傑弗里斯：民主黨將在2026年贏下眾議院多數席位，並在2028年選區重劃中“徹底壓垮”共和黨。"
-    },
-    {
-      "id": "mkt:019e180d-6b79-7dd9-b925-41eb60e83b8f",
-      "time": "2026-05-12 01:19:53",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Apple",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7",
-        "AAPL.O",
-        "GOOGL.O"
-      ],
-      "text": "GOOGLE: CO, APPLE ROLLING OUT END-TO-END ENCRYPTION FOR RCS, SECURING CHATS BETWEEN ANDROID AND IPHONE USERS BY DEFAULT - WEBSITE"
-    },
-    {
-      "id": "4872994",
-      "time": "2026-05-12 01:19:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "德國商業銀行：德國商業銀行已釋出一份簡報，重點介紹了其針對裕信銀行2026年4月20日釋出的收購要約及簡報得出的部分初步結論。"
-    },
-    {
-      "id": "4872993",
-      "time": "2026-05-12 01:19:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "貝恩公司對OpenAI部署公司進行投資，這是一家旨在為企業規模部署人工智慧的新創企業。"
-    },
-    {
-      "id": "te:markets:549722",
-      "time": "2026-05-12 01:18:19",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Brazilian Real Strengthens Further — The Brazilian real appreciated to 4.89 per USD in May, marking its strongest level in more than two years, as elevated interest rates and sustained foreign inflows continued to support demand for Brazilian assets. The central bank reinforced a cautious stance following recent monetary easing, indicating that ongoing global uncertainty and tighter external financial conditions may restrain the pace of additional rate cuts. The currency was further supported by stronger prices for major Brazilian exports such as oil and soybeans, which boosted dollar inflows. Oil prices climbed after US President Donald Trump rejected Iran’s response to a proposed peace proposal, fueling concerns over extended supply disruptions in the Middle East. Soybean prices also moved higher amid stronger biofuel-related demand linked to rising global energy costs."
-    },
-    {
-      "id": "em:qqyh_mlc:202605123733496297",
-      "time": "2026-05-12 01:17:56",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "週一（5月11日），美聯儲隔夜逆回購協議（RRP）使用規模為11.33億美元。"
     }
   ]
 }
