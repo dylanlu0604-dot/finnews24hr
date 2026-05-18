@@ -1,7 +1,169 @@
 {
-  "updated": "2026-05-19 04:00:31",
-  "count": 15500,
+  "updated": "2026-05-19 04:04:15",
+  "count": 15511,
   "items": [
+    {
+      "id": "4886545",
+      "time": "2026-05-19 04:03:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【多家信託公司股權變動 西藏信託新增一位國有股東】近日，西藏信託披露了2025年度報告。 根據年度報告資訊，西藏信託的股東結構出現了新變化。 2025年，西藏國有資本投資運營有限公司成為公司新增股東，持股比例為6.43%；西藏自治區財政廳持股比例則降至60.64%，仍為公司實控人。至此，西藏信託的股東也由3位變成了4位，不過新增股東尚未完成市場主體變更登記。 知情人士表示，此次股權變動主要是落實國有股權劃轉充實社保基金的部署。（證券時報）"
+    },
+    {
+      "id": "4886544",
+      "time": "2026-05-19 04:03:00",
+      "tags": [
+        "央行",
+        "公司"
+      ],
+      "text": "【信用卡業務持續“瘦身強筋” 期待擁抱新一輪復甦週期】信用卡行業迎來久違的政策紅利。 近日，某頭部股份行信用卡中心的一位人士表示，定於今年9月底施行的《金融產品網路營銷管理辦法》將對信用卡行業構成利好，有望將高頻支付場景迴流信用卡。 此前，銀行信用卡業務的“瘦身”浪潮已席捲了整個行業。根據央行公佈的最新資料，截至2026年3月末，全國信用卡和借貸合一卡數量為6.87億張，較年初減少0.09億張，較2022年高點累計減少1.2億張，創近7年新低。（證券時報）"
+    },
+    {
+      "id": "mkt:019e3cae-e560-7dd6-889f-d7c33fef6824",
+      "time": "2026-05-19 04:02:28",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "US10Y",
+        "Impact mixed"
+      ],
+      "text": "U.S. MARCH NET OVERALL CAPITAL FLOW +150.7 BLN DLRS VS +182.7 BLN IN FEB (PREV +184.5 BLN)"
+    },
+    {
+      "id": "4886543",
+      "time": "2026-05-19 04:02:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【一季度險資逢低買入 股票持倉繼續小幅提升】今年一季度，市場波動較大，保險資金是否減倉了股票？答案是“否”。 金融監管總局近日公佈的資料顯示，一季度末，人身險公司和財險公司合計持有股票市值為3.84萬億元，較年初增加1024億元，股票在險資投資餘額中的佔比也繼續小幅提升。此前業內判斷會實行逢低買入的操作，至此也得到了印證。 隨著4月以來市場有所回暖，險資機構的投資收益也有了明顯回升。權益資產屬於險資配置的“關鍵少數”，保險機構對權益投資的策略是積極配置並動態調整。（證券時報）"
+    },
+    {
+      "id": "mkt:019e3cae-de0f-7dd6-889f-cb22769e199a",
+      "time": "2026-05-19 04:02:11",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "U.S. MARCH NET OFFICIAL CAPITAL FLOW -11.4 BLN DLRS VS +13.1 BLN IN FEB (PREV +18.0 BLN)"
+    },
+    {
+      "id": "4886542",
+      "time": "2026-05-19 04:02:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國3月份跨境投資總額增加1507億美元。"
+    },
+    {
+      "id": "mkt:019e3cae-6ba5-7dd6-889f-c73686ec6751",
+      "time": "2026-05-19 04:01:58",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "USDJPY"
+      ],
+      "text": "U.S. MARCH NET PRIVATE CAPITAL FLOW +162.1 BLN DLRS VS +169.6 BLN IN FEB (PREV +166.5 BLN)"
+    },
+    {
+      "id": "4886541",
+      "time": "2026-05-19 04:01:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國3月份長期投資組合證券淨流入813億美元。"
+    },
+    {
+      "id": "4886540",
+      "time": "2026-05-19 04:01:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【多重動因致城投公司頻繁終止評級合作】近日，武漢高科官宣終止與中誠信國際、中證鵬元、大公國際三家機構的評級合作，這一舉措並非個例。證券時報記者根據Wind資料梳理，截至5月11日，2026年以來已有182家公司終止評級機構的評級服務。其中，多數系因債券到期，評級隨之終止；但亦有不少公司在債務承壓、經營承壓等因素影響下，主動選擇終止評級。在主動終止評級的公司中，城投公司的身影頻頻出現。（證券時報）"
+    },
+    {
+      "id": "mkt:019e3cad-865c-7dd6-889f-bf04680fdc46",
+      "time": "2026-05-19 04:01:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "CHINA'S U.S. TREASURY SECURITIES HOLDINGS 652 BLN DLRS IN MARCH VS 693 BLN IN FEB"
+    },
+    {
+      "id": "mkt:019e3cad-8604-7dd6-889f-b4a9252b8310",
+      "time": "2026-05-19 04:01:00",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US10Y",
+        "Impact bearish",
+        "USDJPY",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "JAPAN'S U.S. TREASURY HOLDINGS 1.192 TRLN DLRS IN MARCH VS 1.239 TRLN IN FEB"
+    },
+    {
+      "id": "mkt:019e3cad-8161-7dd6-889f-ab208c68c88c",
+      "time": "2026-05-19 04:00:47",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "UNITED KINGDOM'S U.S. TREASURY HOLDINGS 927 BLN DLRS IN MARCH VS 897 BLN IN FEB"
+    },
+    {
+      "id": "4886539",
+      "time": "2026-05-19 04:00:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體漲跌不一】道指漲0.32%，標普500指數跌0.07%，納指跌0.53%。再生元製藥跌9.87%，Lumentum Holdings Inc. Common Stock When Issued跌8.83%，VRT跌8.41%，高知特漲9.93%，道明尼資源漲9.43%。“七姐妹”方面：微軟漲0.39%，亞馬遜漲0.25%，谷歌跌0.06%，Meta Platforms跌0.48%，蘋果跌0.81%，英偉達跌1.35%，特斯拉跌2.90%。"
+    },
+    {
+      "id": "mkt:019e3cad-3e63-7dd6-889f-a22bf710955d",
+      "time": "2026-05-19 04:00:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100"
+      ],
+      "text": "DOW CLOSED +0.32%, S&P500 -0.07%, NASDAQ -0.51%"
+    },
+    {
+      "id": "4886538",
+      "time": "2026-05-19 04:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收跌0.75%】小牛電動跌15.14%，搜狐跌10.23%，理想汽車跌9.83%，再鼎醫藥跌8.33%，中比能源跌6.14%。"
+    },
     {
       "id": "mkt:019e3cac-9809-7dd6-889f-9bf4a1ab0843",
       "time": "2026-05-19 04:00:00",
@@ -140075,46 +140237,6 @@
         "Importance 0"
       ],
       "text": "Simon Property earnings above expectations at 1.48 USD — Simon Property (SPG) released earnings per share at 1.48 USD, compared to market expectations of 1.43 USD."
-    },
-    {
-      "id": "mkt:019e18a3-612d-7dd9-b926-98298453c54b",
-      "time": "2026-05-12 04:03:40",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "S&P500",
-        "Impact bullish",
-        "Nasdaq100",
-        "WTI"
-      ],
-      "text": "【S&P 500, Nasdaq Close at Records as Chip Stocks Extend Rally】US stocks edged higher Monday, with the S&P 500 and Nasdaq Composite closing at fresh record highs as semiconductor shares continued to rally. The S&P 500 rose 0.19%, the Nasdaq gained 0.1%, and the Dow Jones Industrial Average added 0.19%. Micron climbed to a record high, helping lift chip stocks. Oil prices also advanced as geopolitical tensions remained in focus after President Donald Trump rejected Iran’s revised proposal aimed at ending the conflict and lifting sanctions. Investors are now watching upcoming US inflation data for signs of higher energy prices feeding into broader inflation pressures."
-    },
-    {
-      "id": "4873143",
-      "time": "2026-05-12 04:03:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "【烏克蘭總統辦公室前主任被控涉嫌腐敗】當地時間11日，烏克蘭國家反腐敗局和特別反腐敗檢察院表示，破獲一個涉嫌透過基輔近郊高階房地產開發專案洗白4.6億格里夫納資金的有組織犯罪團伙。該團伙的成員之一為烏克蘭總統辦公室前主任葉爾馬克，相關部門已提出指控。烏克蘭總統顧問利特溫對此發表評論稱，相關訴訟程式目前仍在繼續，現在就做出結論還為時過早。（央視新聞）"
-    },
-    {
-      "id": "4873142",
-      "time": "2026-05-12 04:01:35",
-      "tags": [
-        "市場"
-      ],
-      "text": "ALPHABET股價收盤下跌3%，創3月以來最大跌幅。"
-    },
-    {
-      "id": "4873141",
-      "time": "2026-05-12 04:00:45",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股收盤：三大股指集體收漲】道指漲0.19%，標普500指數漲0.19%，納指漲0.10%。Lumentum Holdings Inc. Common Stock When Issued漲16.53%，Coherent Corp漲13.25%，康寧漲11.01%，高通漲8.42%，VRT漲8.23%，CF實業漲8.19%。“七姐妹”方面：特斯拉漲3.89%，英偉達漲1.95%，蘋果跌0.14%，微軟跌0.62%，亞馬遜跌1.35%，Meta Platforms跌1.79%，谷歌跌2.60%。"
     }
   ]
 }
