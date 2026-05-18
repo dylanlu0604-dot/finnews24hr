@@ -1,7 +1,58 @@
 {
-  "updated": "2026-05-18 11:45:10",
-  "count": 15534,
+  "updated": "2026-05-18 11:49:05",
+  "count": 15536,
   "items": [
+    {
+      "id": "te:markets:551427",
+      "time": "2026-05-18 11:47:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Corn Jumps on US-China Trade Boost — Corn futures jumped over 2% to around $4.60 per bushel, recovering from a one-week low on May 15, as expectations for crop demand strengthened after much-awaited details emerged on China’s commitment to purchase American agricultural goods. China pledged to buy at least $17 billion annually in US agricultural goods through 2028 after high-level talks in Beijing between President Donald Trump and President Xi Jinping aimed at easing trade tensions. The announcement is seen as supportive for corn futures, as the purchases would add to an existing soybean agreement and could potentially extend into other agricultural commodities. According to US Department of Agriculture data, a return of Chinese corn imports would represent a shift from roughly two years of subdued buying activity. However, farmers remain sensitive to recent spikes in fuel and fertilizer prices linked to ongoing geopolitical tensions in the Middle East, which continue to influence crop production and pricing dynamics."
+    },
+    {
+      "id": "4884882",
+      "time": "2026-05-18 11:47:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【萊茵生物：甜菊糖苷RM2國內食品新增劑新品種認證申報目前處於審評中】萊茵生物(002166)5月18日在互動平臺表示，公司甜菊糖苷RM2國內食品新增劑新品種認證申報目前處於審評中，最終能否獲批以及拿證週期尚存在不確定性。目前，公司甜菊糖苷RM2已取得FDAGRAS認證，具備海外合規銷售資質，相關產能設施也已佈局完備，後續公司將穩步推進海外市場拓展，逐步釋放合成生物車間產能，推動業務穩健發展。"
+    },
+    {
+      "id": "4884881",
+      "time": "2026-05-18 11:47:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "William O'Neil恢復跟蹤恆立液壓；評級買進。"
+    },
+    {
+      "id": "4884880",
+      "time": "2026-05-18 11:46:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "記者18日獲悉，閒魚依託國家文物局“中國被盜（丟失）文物資訊釋出平臺”，實現820條國家級被盜文物資料實時智慧比對。自今年3月底啟動文物保護專項以來，閒魚累計刪除違規文物商品超6萬件，處罰違規賬號超5萬個。（新華財經）"
+    },
+    {
+      "id": "4884879",
+      "time": "2026-05-18 11:46:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度國家證券交易所Nifty 50指數跌幅擴大，最新跌1%。印度sensex指數下跌1%至74,484.20點。"
+    },
+    {
+      "id": "4884878",
+      "time": "2026-05-18 11:45:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【野村：AI驅動記憶體需求指數級增長 大幅上調三星、SK海力士目標價】野村發表報告指出，人工智慧驅動的需求呈指數級增長，記憶體供應有限，料記憶體股迎來估值重評。該行大幅上調三星電子及SK海力士目標價，三星目標價由原先34萬韓元大升至59萬韓元，SK海力士目標價由原先234萬韓元大升至400萬韓元，評級均為“買入”。野村表示，隨著AI半導體需求從訓練轉向推論工作負載，記憶體需求正進入指數級擴張時期。相比之下，該行相信同期行業供應增長可能仍受限於約5至6倍(年複合增長率約30%)，這引發了結構性供不應求能否真正解決的嚴峻問題。"
+    },
     {
       "id": "4884877",
       "time": "2026-05-18 11:44:25",
@@ -17,6 +68,14 @@
         "國際"
       ],
       "text": "日本維新會共同代表：嚴守財政紀律至關重要。"
+    },
+    {
+      "id": "4884875",
+      "time": "2026-05-18 11:43:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗媒體稱一架美軍無人機在葉門被擊落】伊朗媒體18日報道，葉門胡塞武裝17日在馬裡卜省擊落一架美軍MQ-9“死神”無人機。報道還附有被擊落無人機殘骸的相關圖片以及無人機墜毀燃燒的影片。 美方尚未證實有無人機在葉門被擊落。 據美國媒體此前報道，每架MQ-9“死神”無人機造價約3000萬美元。(新華社)"
     },
     {
       "id": "4884874",
@@ -140238,50 +140297,6 @@
         "國際"
       ],
       "text": "印度10年期國債收益率上漲5個基點至7.03%。"
-    },
-    {
-      "id": "4871416",
-      "time": "2026-05-11 11:48:57",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【前城堡證券量化研究主管創立的中國對沖基金資產半年增加逾兩倍】一位曾在城堡證券擔任亞洲量化研究主管自立門戶後，他創立的一隻中國對沖基金近幾個月來資產規模增加了兩倍多，該公司在取得良好的業績後加大了募資力度。根據媒體看到的路演檔案顯示，截至4月份，知行通達的資產已從去年11月的約40億元人民幣(20億美元)躍升至140億元人民幣。這家總部位於深圳、由韓嘉睿領導的公司正在為其產品籌集資金，其中包括追蹤中證A500指數的指數增強策略；資料顯示，自2025年1月至2月，該策略每個月都跑贏了基準指數。韓嘉睿於2020年離開城堡證券，2021年與一位聯合創始人創立知行通達後，該公司經歷了幾年相對穩健的增長。根據檔案顯示，知行通達去年10月與龍頭券商中信證券達成分銷協議，光是第一季就註冊了22檔新產品，超過了去年全年的18檔。"
-    },
-    {
-      "id": "4871415",
-      "time": "2026-05-11 11:47:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普：美方一直監控伊朗濃縮鈾 誰靠近就“炸飛”】美國總統特朗普表示，美國一直在對伊朗掩埋在廢墟下的濃縮鈾進行監控，美國太空軍在負責此事。特朗普在採訪中被問及伊朗掩埋在廢墟深處的濃縮鈾時說：“我們遲早會拿到它，我們一直在監視它。我搞了個叫‘太空軍’的東西，他們正在盯著。如果有人靠近那個地方，我們會知道，並且會把他們炸飛。”（新華社）"
-    },
-    {
-      "id": "4871414",
-      "time": "2026-05-11 11:47:23",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "現代汽車印度有限公司股價上漲3.4%，因季度利潤超預期。"
-    },
-    {
-      "id": "4871413",
-      "time": "2026-05-11 11:46:15",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【鹿明機器人完成A1及A2輪融資，三菱電機領投】5月11日，鹿明機器人連續完成A1及A2兩輪融資，公司累計融資近10億元。A1輪由三菱電機智慧製造科技（中國）集團有限公司領投，老股東普華資本、吳中金控等機構超額跟投；A2輪仍由三菱電機持續領投，恒生電子、海高集團、昆石投資等機構跟投。資金將用於公司具身大模型研發和場景拓展的持續投入。"
-    },
-    {
-      "id": "4871412",
-      "time": "2026-05-11 11:46:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "一架土耳其航空從伊斯坦布林飛來的航班在尼泊爾加德滿都降落後起火，尼泊爾民航局表示，所有乘客已安全疏散。"
     }
   ]
 }
