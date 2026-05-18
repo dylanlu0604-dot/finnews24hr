@@ -1,7 +1,51 @@
 {
-  "updated": "2026-05-18 11:56:56",
-  "count": 15534,
+  "updated": "2026-05-18 12:01:32",
+  "count": 15528,
   "items": [
+    {
+      "id": "4884899",
+      "time": "2026-05-18 11:59:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天融信：暫無面向全球企業開發者的通用大模型服務】天融信5月18日在互動平臺表示，公司暫無面向全球企業開發者的通用大模型服務。"
+    },
+    {
+      "id": "4884898",
+      "time": "2026-05-18 11:59:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "傑富瑞將西門子能源目標股價從164歐元上調至215歐元。"
+    },
+    {
+      "id": "4884897",
+      "time": "2026-05-18 11:58:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【拓普集團投資成立汽車零部件公司】企查查APP顯示，近日，廣州拓普汽車零部件有限公司成立，法定代表人為鄔好年，註冊資本為2000萬元，經營範圍包含汽車零部件及配件製造；汽車零部件再製造；汽車零部件研發；汽車零配件零售；汽車零配件批發。企查查股權穿透顯示，該公司由拓普集團全資持股。"
+    },
+    {
+      "id": "te:markets:551431",
+      "time": "2026-05-18 11:57:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "other",
+        "currency",
+        "Importance 1"
+      ],
+      "text": "Bitcoin Falls to Two-Week Low — Bitcoin fell to around $76,000 in mid-May, hitting its lowest level in more than two weeks as uncertainty surrounding the US-Iran war weighed on risk appetite. President Donald Trump continued to adopt a tougher stance toward Tehran as talks between Washington and Iran remained stalled, while reports emerged that energy facilities in the Persian Gulf were struck over the weekend. The developments fueled fears of stronger inflation and triggered broad risk aversion across financial markets. Consequently, more than $1 billion flowed out of US-listed spot Bitcoin ETFs last week, marking the first weekly outflow above that level since late January. Limiting further losses, a Senate panel recently approved the Clarity Act, the first broad piece of legislation aimed at regulating the crypto industry in the US. The move was seen as a positive step toward clearer regulatory frameworks for digital assets, potentially supporting institutional participation and long-term adoption."
+    },
+    {
+      "id": "4884896",
+      "time": "2026-05-18 11:57:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "日元兌美元下跌0.2%至159。"
+    },
     {
       "id": "4884895",
       "time": "2026-05-18 11:56:17",
@@ -140170,107 +140214,6 @@
         "市場"
       ],
       "text": "【港股午評：恒生指數跌0.29%，恒生科技指數漲0.04%】港股午間收盤，恒生指數跌0.29%，恒生科技指數漲0.04%。恒指港股通ETF銀華（159318）跌0.51%，港股通科技ETF鵬華（159751）漲0.21%。板塊方面，半導體產品與裝置、電氣裝置板塊漲幅靠前；客運航空公司、金屬與採礦板塊跌幅靠前。個股方面，樂動機器人漲128.0%，瀾起科技漲20.61%，天嶽先進漲18.3%，納芯微漲16.47%，飛速創新漲14.16%；德適-B跌10.73%，靈寶黃金跌10.22%，潼關黃金跌8.71%，新秀麗跌8.03%，赤峰黃金跌7.92%。"
-    },
-    {
-      "id": "4871439",
-      "time": "2026-05-11 12:00:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "【越南海關資料顯示：4月份越南對美出口額同比增長25.6%，達到150.8億美元】根據媒體基於越南海關部門公佈的資料計算得出，4月份越南對美國的出口額同比增長25.6%，達到150.8億美元。從美國的進口額同比增長20.2%，達到18.9億美元。對美貿易順差從上月的134.2億美元收窄至131.9億美元。1-4月對美出口同比增長24.5%，達到540.4億美元。1-4月從美國進口額同比增長24%，達到70.3億美元。"
-    },
-    {
-      "id": "te:markets:549510",
-      "time": "2026-05-11 11:59:51",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "South Korea",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "South Korean Won Slips on Geopolitical Risks — The South Korean won weakened to around 1,473 per dollar, pulling back after recently touching a more than two-month high near 1,445, amid escalating Middle East tensions and surging oil prices. Negotiations between the US and Iran remained stalled after both sides rejected key elements of each other’s proposals. Iran vowed to “never bow,” while both sides continued exchanging strikes and threats, prolonging instability around the Strait of Hormuz. Brent crude remained elevated above $100 per barrel, reinforcing concerns over higher energy import costs for Korea and supporting broader dollar strength. Safe-haven demand for the US dollar increased as investors reacted to rising geopolitical uncertainty, further pressuring Asian currencies. Meanwhile, markets also noted that Korea’s reduced dependence on Middle Eastern energy has helped partially cushion longer-term vulnerability to oil shocks, though near-term price spikes continue to weigh on sentiment."
-    },
-    {
-      "id": "te:markets:549509",
-      "time": "2026-05-11 11:59:49",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "US Natgas Prices Advance — US natural gas futures rose to $2.81 per MMBtu amid a continued drop in output. Production in the Lower 48 states has been trending lower, as major producers such as EQT Corporation have reduced drilling activity in response to weak spot prices. In addition, the EIA reported a 63 bcf injection for the week ended May 1, below forecasts of 74 bcf and also lower than both last year’s 104 bcf increase and the five-year average of 77 bcf. While earlier mild spring weather supported stronger-than-usual storage injections, the recent decline in production, combined with near-normal weather and firming demand, has likely narrowed the inventory surplus to around 6% above seasonal norms for the week ended May 7, down from 7% the previous week. Forecasts point to mostly near-normal temperatures through May 23, with cooling demand gradually overtaking the late-season heating demand. Meanwhile, flows to major gas export terminals have eased from April’s record highs due to seasonal maintenance."
-    },
-    {
-      "id": "4871438",
-      "time": "2026-05-11 11:59:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【一土耳其客機在加德滿都機場降落時起火 】一架土耳其航空公司客機11日在尼泊爾首都加德滿都的特里布萬國際機場降落時起火，乘客從緊急出口疏散。 初步資訊顯示，這架客機在著陸過程中發生爆胎，造成輪胎起火，隨後引燃起落架。現場目擊者稱，輪胎爆裂後，起落架周圍靠近發動機的位置出現煙霧和火焰。 事故發生後，機組人員和機場方面透過滑梯疏散乘客。機場安全辦公室發言人西爾瓦爾告訴新華社記者，所有276名乘客和11名機組人員均安全撤離。 目前火勢已得到控制，事故具體原因正在進一步調查中。（新華社）"
-    },
-    {
-      "id": "4871437",
-      "time": "2026-05-11 11:58:57",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "摩根大通將惠而浦公司目標股價從59美元下調至52美元。"
-    },
-    {
-      "id": "4871436",
-      "time": "2026-05-11 11:58:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "華潤置地港股早盤漲2%，股價創歷史新高。"
-    },
-    {
-      "id": "4871435",
-      "time": "2026-05-11 11:57:54",
-      "tags": [
-        "市場"
-      ],
-      "text": "【5月11日午間漲停分析】滬指漲0.94%站上4200點、創業板指半日漲超3%，儲存晶片、半導體板塊全線飆漲。福達合金5連板，一圖看懂>>"
-    },
-    {
-      "id": "4871434",
-      "time": "2026-05-11 11:57:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "據美國媒體10日報道，得克薩斯州南部邊境城市的一列貨運列車內發現6人死亡。當地官員尚未公佈死因，不清楚高溫是否為死亡原因。"
-    },
-    {
-      "id": "te:markets:549507",
-      "time": "2026-05-11 11:57:52",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "Japanese Shares Slip on Middle East Concerns — The Nikkei 225 fell 0.2% to around 62,600 on Monday, pulling back from recent record highs as oil prices surged after President Donald Trump rejected Iran’s response to his peace proposal, leaving the Strait of Hormuz effectively shut. Higher energy prices have added to inflation concerns and weighed on sentiment across oil-importing economies such as Japan. Notable declines were seen in SoftBank Group (-6.3%), Advantest (-2%), and Furukawa Electric (-1.6%). Nintendo also dropped 8.3% after warning that hardware and software sales are expected to decline and that rising memory chip costs are squeezing margins. In contrast, Sony Group rose 8.5% after announcing plans to repurchase up to ¥500 billion of its shares and forecasting an 11% increase in operating profit for the fiscal year ending March 2027, supported by growth in its music and image sensor businesses."
-    },
-    {
-      "id": "4871433",
-      "time": "2026-05-11 11:57:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美衛生官員：涉疫郵輪17名美國人中一人病毒檢測呈陽性】當地時間10日，美國衛生官員稱，涉疫郵輪“洪迪厄斯”號上17名美國人接受了漢坦病毒檢測，其中一人結果呈陽性，目前沒有出現任何症狀。"
-    },
-    {
-      "id": "4871432",
-      "time": "2026-05-11 11:57:10",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【業績前瞻：騰訊第一季度淨利潤料將增長18%】騰訊控股定於週三公佈第一季度業績。FactSet對9位分析師的調查得出的平均預期顯示，這家中國遊戲和社交媒體公司第一季度淨利潤料將增長18%，至人民幣565.6億元，相當於83.2億美元。得益於春節假期強勁的遊戲收入以及王牌遊戲的穩定表現，第一季度收入料將增長11%，至人民幣1,990.3億元。騰訊控股的股價在第一季度下跌了19%，使其年初至今的跌幅達到22%。該公司迄今為止一直專注於利用AI提高各業務的生產力和降低成本，並計劃今年將AI投資增加一倍以上，以在AI競賽中保持領先。在收入和利潤連續五個季度實現兩位數增長後，騰訊激進的資本支出計劃引發了市場對其利潤增長放緩的擔憂。"
     }
   ]
 }
