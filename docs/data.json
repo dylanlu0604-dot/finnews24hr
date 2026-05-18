@@ -1,7 +1,146 @@
 {
-  "updated": "2026-05-18 09:19:45",
-  "count": 15400,
+  "updated": "2026-05-18 09:23:45",
+  "count": 15405,
   "items": [
+    {
+      "id": "4884561",
+      "time": "2026-05-18 09:22:45",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "30年期美國國債收益率升至2023年以來最高水平。"
+    },
+    {
+      "id": "4884560",
+      "time": "2026-05-18 09:22:32",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【全球晶片LOF和中韓半導體ETF再停牌】2只備受關注的高溢價基金再宣佈今天開盤至10點半期間停牌。其中，景順長城全球晶片LOF上週五收盤時的升貼水率為27.07%，較此前的峰值稍有回落，當天收跌8.18%。中韓半導體ETF華泰柏瑞上週五的溢折率則達到35.94%，創該ETF上市以來的新高，若該ETF今天午間收盤二級市場交易價格溢價幅度仍處於較高水平，有權申請今天下午盤中臨時停牌至收盤的措施以向市場警示風險，具體以屆時公告為準。2家基金管理人均鄭重提醒廣大投資者，應密切關注二級市場交易價格溢價風險。"
+    },
+    {
+      "id": "mkt:019e38ad-63ff-7663-82fd-875cdba9d4eb",
+      "time": "2026-05-18 09:22:27",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "YIELD ON 5-YEAR JGB UP 5 BASIS POINTS TO 2.035%"
+    },
+    {
+      "id": "4884558",
+      "time": "2026-05-18 09:22:21",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "五年期日本政府國債（JGB）收益率上行5個基點，報2.035%。"
+    },
+    {
+      "id": "mkt:019e38ad-466d-7663-82fd-78e846ec5f9f",
+      "time": "2026-05-18 09:22:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "Treasury Yields",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "Nikkei 225"
+      ],
+      "text": "YIELD ON 30-YEAR JGB RISES 17 BASIS POINTS TO 4.170%, HIGHEST ON RECORD"
+    },
+    {
+      "id": "4884557",
+      "time": "2026-05-18 09:21:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "【上一交易日ETF兩市融資融券餘額1129.96億元】截至5月15日，ETF兩市融資融券餘額1129.96億元，分型別來看，股票型ETF兩融餘額617.27億元，債券型ETF兩融餘額87.72億元，商品型ETF兩融餘額137.68億元，QDII型ETF兩融餘額287.29億元。其中，兩融餘額最高的非貨幣型ETF分別是黃金ETF（518880）、黃金ETF（159934）、證券ETF（512880），兩融餘額分別為64.69億元、39.91億元、39.66億元。"
+    },
+    {
+      "id": "4884556",
+      "time": "2026-05-18 09:21:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "德國國債期貨與法國國債期貨在早盤交易中下跌0.4%。"
+    },
+    {
+      "id": "4884555",
+      "time": "2026-05-18 09:21:32",
+      "tags": [],
+      "text": "港股恒指低開跌0.48％，國企指數跌0.5％，科指開跌0.88%。"
+    },
+    {
+      "id": "4884554",
+      "time": "2026-05-18 09:21:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本考慮發債籌措追加預算資金。"
+    },
+    {
+      "id": "4884552",
+      "time": "2026-05-18 09:20:36",
+      "tags": [
+        "央行"
+      ],
+      "text": "中國央行：今日開展10億元7天逆回購操作，投標量10億元，中標量10億元，操作利率為1.40%，與此前持平。"
+    },
+    {
+      "id": "4884551",
+      "time": "2026-05-18 09:20:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲3%，現報104.05美元/桶。"
+    },
+    {
+      "id": "4884550",
+      "time": "2026-05-18 09:20:25",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破104美元/桶，日內漲2.95%。"
+    },
+    {
+      "id": "4884549",
+      "time": "2026-05-18 09:20:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【宇樹科技在杭州成立星盟科技公司】企查查APP顯示，近日，杭州宇樹星盟科技有限公司成立，經營範圍包含智慧機器人的研發；智慧機器人銷售；軟體銷售；工業機器人制造等。企查查股權穿透顯示，該公司由宇樹科技股份有限公司全資持股。"
+    },
+    {
+      "id": "4884548",
+      "time": "2026-05-18 09:19:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星重工獲得一份價值1.124萬億韓元的合同。"
+    },
+    {
+      "id": "mkt:019e38aa-b250-7663-82fd-710c30e59aaa",
+      "time": "2026-05-18 09:19:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bearish"
+      ],
+      "text": "CHINA'S YUAN MID-POINT FALLS 20 PIPS TO 6.8435 PER DOLLAR, WEAKENS TO LEVEL NOT SEEN SINCE MAY 11"
+    },
     {
       "id": "4884547",
       "time": "2026-05-18 09:19:07",
@@ -138892,109 +139031,6 @@
         "焦點"
       ],
       "text": "港股晶片股集體走強，瀾起科技漲超14％，兆易創新漲超9％，壁仞科技漲近6％，天數智芯、華虹半導體漲超5％。"
-    },
-    {
-      "id": "4871171",
-      "time": "2026-05-11 09:23:04",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【港股新股樂動機器人上市首日高開102%】港股新股樂動機器人上市首日高開102%，報53.5港元。公司香港IPO散戶認購超6707倍，籌資總額8.787億港元。"
-    },
-    {
-      "id": "4871170",
-      "time": "2026-05-11 09:22:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【敏實集團拓展第二曲線：攜手盟立進軍智慧機器人與機器狗領域】5月11日，敏實集團（00425）釋出公告，宣佈其附屬公司精確實業於2026年4月15日與盟立簽訂框架協議，旨在建立智慧機器人與機器狗的戰略合作關係。該框架協議涉及提議成立一間或多間合資公司，雙方將共同進行智慧機器人與機器狗的研發、製造及銷售。"
-    },
-    {
-      "id": "mkt:019e14a0-e9e1-7dd9-b919-8e6ae59b2231",
-      "time": "2026-05-11 09:22:28",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "CHINA C.BANK INJECTS 500 MLN YUAN VIA 7-DAY REVERSE REPOS AT 1.40% VS PRIOR 1.40% - STATEMENT"
-    },
-    {
-      "id": "mkt:019e14a0-d4a0-7dd9-b919-8410ea6adebc",
-      "time": "2026-05-11 09:22:24",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alibaba",
-        "9988.HK",
-        "Impact bearish"
-      ],
-      "text": "HONG KONG SHARES OF ALIBABA SET TO OPEN DOWN 1.6%"
-    },
-    {
-      "id": "mkt:019e14a0-b3ef-7dd9-b919-7a92a2600e62",
-      "time": "2026-05-11 09:22:16",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bullish"
-      ],
-      "text": "CHINA'S PBOC SETS YUAN MID-POINT AT STRONGEST LEVEL SINCE MARCH 24, 2023"
-    },
-    {
-      "id": "em:qqyh_zgyh:202605113732546514",
-      "time": "2026-05-11 09:22:15",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "央行今日開展5億元7天逆回購操作，操作利率為1.40%，與此前持平。"
-    },
-    {
-      "id": "mkt:019e14a0-7d9b-7dd9-b919-74a5146c6fee",
-      "time": "2026-05-11 09:22:02",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "【China Confirms Xi-Trump Summit That Was Delayed by Iran War】Beijing officially confirmed Donald Trump’s May 13-15 state visit to China, marking the first US presidential trip there in nearly a decade despite tensions over the Iran war. Trump, who last visited in 2017, will meet Xi Jinping after the summit was previously delayed by the conflict. China had hesitated to proceed as the war entered its third month. The visit comes amid a fragile Iran ceasefire and rising US-China tensions, as Washington struggles to end a conflict that has triggered a global energy crisis."
-    },
-    {
-      "id": "4871169",
-      "time": "2026-05-11 09:21:38",
-      "tags": [
-        "央行"
-      ],
-      "text": "中國央行：今日開展5億元7天逆回購操作，投標量5億元，中標量5億元，操作利率為1.40%，與此前持平。"
-    },
-    {
-      "id": "mkt:019e149f-ccc5-7dd9-b919-6fd7c7519cbf",
-      "time": "2026-05-11 09:21:17",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bearish"
-      ],
-      "text": "HONG KONG STOCKS OPEN LOWER: HANG SENG -0.31%, TECH INDEX -0.48%"
-    },
-    {
-      "id": "4871168",
-      "time": "2026-05-11 09:21:04",
-      "tags": [],
-      "text": "港股恒指低開跌0.31％，國企指數跌0.41％，科指開跌0.48%。科技股漲跌不一。"
     }
   ]
 }
