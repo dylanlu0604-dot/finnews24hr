@@ -1,7 +1,86 @@
 {
-  "updated": "2026-05-18 14:37:58",
-  "count": 15554,
+  "updated": "2026-05-18 14:42:03",
+  "count": 15555,
   "items": [
+    {
+      "id": "4885124",
+      "time": "2026-05-18 14:40:42",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "【知情人士：日本追加預算將新增發債籌措資金】一位熟知相關政策研討內情的日本政府訊息人士週一透露，日本政府計劃出臺追加預算以緩解中東戰事對經濟造成的衝擊，而該預算的部分資金或將透過新發國債籌集。增發新債會進一步加劇本就持續惡化的日本財政狀況，還可能推動長期利率加速上行。受上述擔憂影響，日本 10 年期基準國債收益率週一升至 2.8%，創下 1996 年 10 月以來新高，30 年期國債收益率也觸及歷史峰值。"
+    },
+    {
+      "id": "4885123",
+      "time": "2026-05-18 14:40:35",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【今日特朗普要聞】\n1、特朗普喊話伊朗時間緊迫催促其拿出優質談判方案，揚言不達預期便實施更強力度打擊，同時仍盼雙方達成協議並召集團隊商議伊方局勢。\n2、特朗普受訪表示依舊相信伊朗有意達成相關協議，預判伊朗近日將遞交新提議，同時放話若伊朗不滿足美方核計劃訴求便會採取更強硬軍事行動。\n3、特朗普發文配軍艦圖稱風暴來臨前的平靜釋放強硬訊號，美以正加緊籌備或最快下週對伊朗發起軍事打擊。\n4、特朗普已與以色列總理內塔尼亞胡通電話，雙方就伊朗問題進行了討論。\n5、特朗普結束訪華返程途中與高市早苗通電話，二人交流伊朗局勢、重申日美同盟，並約定借 G7 峰會持續深化雙邊合作。\n6、特朗普與韓國總統李在明討論了韓美聯合情況說明書。\n7、據新財務披露檔案，特朗普及其幕僚今年一季度完成超三千七百筆大額交易，涉足眾多知名企業且未隔離個人資產，此舉引發外界對其存在利益衝突的普遍擔憂。\n8、特朗普政府計劃取消美國多家衛生機構數百名工作人員的就業保障。\n9、特朗普公開發文痛批眾議員湯姆・馬西處處作對行事糟糕，直言其是最差共和黨議員，並呼籲選民投票將其罷免。\n10、特朗普發文批評民主黨人。"
+    },
+    {
+      "id": "te:markets:551472",
+      "time": "2026-05-18 14:40:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "ASX 200 Closes at 6-Week Low — The S&P/ASX 200 plunged 126 points, or 1.45%, to end at 8,505 on Monday, marking its lowest level since April 1 and extending losses from the prior session. A tumble in U.S. stock futures pressured sentiment, after President Trump warned Iran to get moving on a peace agreement, heightening geopolitical risks in the Middle East. Weak economic data from China, Australia’s top trading partner, added to pressure, as April industrial output and retail sales growth slowed to multi-year lows, possibly due to softer fiscal support. Most sectors ended lower, led by transport, non-energy minerals, consumers, and process industries. Brambles Ltd. slipped around 19% after the logistics firm cut its annual profit growth outlook, citing repair-capacity constraints among U.S. subcontractors. Other major decliners included BHP Group, Macquarie Group, and Evolution Mining. Investors now await Australia’s flash May PMI data, the RBA meeting minutes, and April labor market figures later this week."
+    },
+    {
+      "id": "4885122",
+      "time": "2026-05-18 14:39:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士稱日本補充預算將新增債務融資。"
+    },
+    {
+      "id": "4885121",
+      "time": "2026-05-18 14:38:22",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨賣出額達10億港元。"
+    },
+    {
+      "id": "mkt:019e39ce-86f2-7dd6-8894-8aa8089bdeb8",
+      "time": "2026-05-18 14:38:16",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "EU'S DOMBROVSKIS: WILL UPDATE G7 ON THE RECENT 90 BILLION EURO LOAN PACKAGE FOR UKRAINE, OF WHICH THE FIRST DISBURSEMENT MAY TAKE PLACE IN JUNE"
+    },
+    {
+      "id": "4885120",
+      "time": "2026-05-18 14:38:15",
+      "tags": [
+        "公司",
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委內格爾：我對七國集團會談寄予厚望。"
+    },
+    {
+      "id": "4885119",
+      "time": "2026-05-18 14:38:05",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "歐盟委員東布羅夫斯基斯：將向七國集團通報針對烏克蘭的最新900億歐元貸款計劃，該計劃的首批放款或於6月落地。"
+    },
     {
       "id": "te:markets:551470",
       "time": "2026-05-18 14:36:59",
@@ -140346,68 +140425,6 @@
         "焦點"
       ],
       "text": "滬深兩市成交額超3.3萬億元，較上日此時放量4770億元。"
-    },
-    {
-      "id": "4871650",
-      "time": "2026-05-11 14:41:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "【交通運輸部：上週監測港口貨物吞吐量環比下降7.14%】5月4日—5月10日，全國物流保通保暢執行資料：國家鐵路運輸貨物8258萬噸，環比增長2.2%；全國高速公路貨車通行5165.8萬輛，環比增長7.48%；監測港口完成貨物吞吐量25835.7萬噸，環比下降7.14%，完成集裝箱吞吐量664.8萬標箱，環比下降4.3%；民航保障航班11.7萬班（其中貨運航班4297班，包括國際貨運航班2873班，國內貨運航班1424班），環比下降5.17%；郵政快遞攬收量約39.8億件，環比增長9.43%；投遞量約38.34億件，環比增長2.43%。（交通運輸部）"
-    },
-    {
-      "id": "mkt:019e15c3-b253-7dd9-b91b-f3014533bb0d",
-      "time": "2026-05-11 14:40:07",
-      "tags": [
-        "MKT News",
-        "9984.T",
-        "Impact bullish"
-      ],
-      "text": "SOFTBANK REPORTS FY2026 Q4 OPERATING INCOME OF 158.43BN YEN; FULL-YEAR NET PROFIT CAME IN AT 550.76BN YEN VERSUS 526.13BN YEN A YEAR EARLIER"
-    },
-    {
-      "id": "te:markets:549556",
-      "time": "2026-05-11 14:39:22",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "ASX 200 Pares Losses at Finish — The S&P/ASX 200 dropped 45 points, or 0.5%, to close at 8,699 on Monday, extending losses from the prior session as weaker U.S. futures and surging oil prices rattled sentiment amid escalating U.S.–Iran tensions. Traders also turned cautious ahead of Australia’s 2026 federal budget due Tuesday, as Treasurer Jim Chalmers warned that global conflicts and persistent inflation were keeping the economy “hostage.” In China, Australia’s main trading partner, April consumer inflation accelerated, driven partly by higher transport costs linked to supply disruptions. However, losses on the ASX were capped as Beijing reported record high exports and imports in April, pushing the trade surplus above forecasts. Healthcare, financials, and consumer stocks led the decline. Among notable movers, Greatland Resources fell 2.4%, followed by JB Hi-Fi (-2.2%), and Qantas (-2.0%). CSL Ltd. plunged 15.5% after warning of an additional impairment charge for FY2026–27 and cutting its earnings outlook for 2026."
-    },
-    {
-      "id": "4871649",
-      "time": "2026-05-11 14:39:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "軟銀2026財年第四季度營業收入1584.3億日元。財年淨利潤5507.6億日元，上年同期5261.3億日元。"
-    },
-    {
-      "id": "4871648",
-      "time": "2026-05-11 14:38:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "【微信4月更新9項功能，新版企微上線“記錄面聊”等功能】5月11日，據微信公開課訊息，微信4月更新9項功能：微信支付升級AI原生接入能力；微信AI小程式成長計劃再升級；新版企微上線“記錄面聊”等功能；“微信表情助手”小程式上線；小遊戲再次升級IAP激勵計劃；微信小店新商家六大權益；影片號小助手升級上線；影片號上線“個人主頁推廣”；微信貼圖支援釋出原圖。"
-    },
-    {
-      "id": "4871647",
-      "time": "2026-05-11 14:38:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "【韓總統府強烈譴責攻擊民用船隻行為】總檯記者當地時間5月11日獲悉，韓總統府釋出宣告稱，強烈譴責攻擊民用船隻行為，稱將採取措施應對。（央視新聞）"
-    },
-    {
-      "id": "4871646",
-      "time": "2026-05-11 14:38:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "【玉淵譚天：回顧中美元首的七次互動】美利堅合眾國總統唐納德·特朗普將於5月13日至15日應邀對中國進行國事訪問。 上一次美國總統訪華，是2017年。時任美國總統特朗普於2017年11月8日至10日，對中國進行國事訪問。 元首外交對中美關係發揮著不可替代的戰略引領作用。 在特朗普再次當選美國總統以來的一年多時間裡，中美元首之間累計已有七次重要互動。 在最近一次與美國總統特朗普的通話中，中方提到： 雙方要按照我們達成的共識，加強對話溝通，妥善管控分歧，拓展務實合作，不以善小而不為，不以惡小而為之，一件事一件事去做，不斷積累互信，走出一條正確相處之道，讓2026年成為中美兩個大國邁向相互尊重、和平共處、合作共贏的一年。"
     }
   ]
 }
