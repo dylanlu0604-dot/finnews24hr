@@ -1,7 +1,35 @@
 {
-  "updated": "2026-05-19 05:13:50",
+  "updated": "2026-05-19 05:17:44",
   "count": 15543,
   "items": [
+    {
+      "id": "4886595",
+      "time": "2026-05-19 05:16:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【達爾薩納資本所管理的資金中近六成倉位投向SpaceX】若馬斯克旗下SpaceX按市場普遍預期估值完成首次公開募股，達爾薩納資本合夥公司或將斬獲超 100億美元賬面浮盈。SpaceX籌備上市一事，預計將為一眾前瞻投資者與風投機構帶來鉅額收益。知情人士透露，達爾薩納資本合夥公司早在2019年便首次投資SpaceX，彼時這家火箭企業估值約3000億美元，此後又多次追加投資。若該公司下月如期上市，且估值達到市場預期的1.5萬億美元及以上，達爾薩納這筆投資的賬面浮盈或將突破100億美元。"
+    },
+    {
+      "id": "4886594",
+      "time": "2026-05-19 05:15:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時A50期指連續夜盤收跌0.05%，報15526點。"
+    },
+    {
+      "id": "te:markets:551699",
+      "time": "2026-05-19 05:15:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Israel",
+        "currency",
+        "Importance 0"
+      ],
+      "text": "Israeli New Sheqel Hits 32-1/2-year High — The Israeli New Sheqel touched 2.88 against the USD, the highest since October 1993. Over the past 4 weeks, US Dollar Israeli New Sheqel lost 3.02%, and in the last 12 months, it decreased 17.76%."
+    },
     {
       "id": "4886593",
       "time": "2026-05-19 05:11:49",
@@ -140482,34 +140510,6 @@
         "其他"
       ],
       "text": "標普道瓊斯指數：Alignment Healthcare 將於 5 月 14 日正式納入標普小盤 600 指數。"
-    },
-    {
-      "id": "4873212",
-      "time": "2026-05-12 05:15:33",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時A50期指連續夜盤收漲0.40%，報15943點。"
-    },
-    {
-      "id": "te:markets:549742",
-      "time": "2026-05-12 05:14:26",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "TSX Closes Higher as Mining Stocks Rally — The S&P/TSX Composite Index gained 0.2% to close at 34,139 on Monday, supported by strong gains in the mining sector. Barrick Mining surged 9.1% after beating estimates for first-quarter profit, as higher gold prices helped offset lower production. Other miners also advanced, with Agnico Eagle up 1.9% and Wheaton Precious Metals gaining 3.6%. Meanwhile, oil prices rose on renewed supply concerns after US President Donald Trump rejected Iran’s response to a proposed peace agreement. Energy producers tracked crude prices higher, with Canadian Natural rising 1.4% and Suncor Energy adding 1.7%. Still, elevated energy costs kept stagflation concerns in focus, weighing on financial stocks. Royal Bank of Canada fell 0.6%, while Brookfield lost 1.7%. Elsewhere, Shopify dropped 6.9%."
-    },
-    {
-      "id": "4873211",
-      "time": "2026-05-12 05:14:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "週一（5月11日）紐約尾盤（週二北京時間04:59），離岸人民幣（CNH）兌美元報6.7919元，較上週五紐約尾盤漲52點，日內整體交投於6.8009-6.7899元區間。"
     }
   ]
 }
