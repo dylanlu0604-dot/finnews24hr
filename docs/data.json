@@ -1,7 +1,62 @@
 {
-  "updated": "2026-05-19 02:57:46",
-  "count": 15439,
+  "updated": "2026-05-19 03:02:23",
+  "count": 15442,
   "items": [
+    {
+      "id": "mkt:019e3c75-ff67-7dd6-889e-f707b738e8b6",
+      "time": "2026-05-19 03:00:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. STATE DEPARTMENT APPROVES POSSIBLE SALE TO INDIA FOR ITS PURCHASE OF M777A2 ULTRA-LIGHT HOWITZERS FOR AN ESTIMATED TOTAL COST OF $230 MILLION"
+    },
+    {
+      "id": "4886468",
+      "time": "2026-05-19 03:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收跌0.22%，報25446.40點，低水228.78點。"
+    },
+    {
+      "id": "4886467",
+      "time": "2026-05-19 02:59:55",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院批准擬向印度出售 M777A2 超輕型榴彈炮，交易預估總額 2.3 億美元。"
+    },
+    {
+      "id": "mkt:019e3c74-e0c6-7dd6-889e-e84480c4402e",
+      "time": "2026-05-19 02:59:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "AIR DEFENCES ACTIVATED ON QESHM ISLAND NEAR STRAIT OF HORMUZ - IRAN'S MEHR NEWS AGENCY REPORTS, REASON UNKNOWN"
+    },
+    {
+      "id": "4886466",
+      "time": "2026-05-19 02:58:47",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗邁赫爾通訊社訊息：霍爾木茲海峽附近的格什姆島已啟動防空防禦系統，事發原因暫未明確。"
+    },
+    {
+      "id": "4886465",
+      "time": "2026-05-19 02:57:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "內部檔案透露， Meta告知員工，諸多管理層將在此次裁員同步宣佈組織架構調整。 Meta 北美區員工被通知週三居家辦公。 Meta將抽調 7000 名員工投身人工智慧工作流程相關新業務，並裁撤部分管理崗位。"
+    },
     {
       "id": "mkt:019e3c73-2f90-7dd6-889e-e2696f2d16f4",
       "time": "2026-05-19 02:57:22",
@@ -139540,35 +139595,6 @@
         "國際"
       ],
       "text": "美國財政部官網：美國出臺新的伊朗相關制裁措施。"
-    },
-    {
-      "id": "mkt:019e186b-0623-7dd9-b926-48b05eeffe2a",
-      "time": "2026-05-12 03:02:07",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "U.S. ISSUES NEW IRAN-RELATED SANCTIONS -U.S. TREASURY WEBSITE"
-    },
-    {
-      "id": "4873090",
-      "time": "2026-05-12 03:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒指期貨夜盤收漲0.43%，報26325.67點，低水81.17點。"
-    },
-    {
-      "id": "4873089",
-      "time": "2026-05-12 02:58:49",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【美國天然氣期貨結算價走高】在天氣前景喜憂參半以及美伊緊張局勢升溫推動歐洲基準價格和油價上漲的背景下，美國天然氣期貨創下兩個月來最大漲幅。隨著美國北部供暖需求緩解，南部不斷上升的高溫預計將提高電力行業的用氣量。Price Futures Group的Phil Flynn在一份報告中表示：“儘管平季基本面依然沉重，供應充足且儲備遠高於平均水平，但在任何需求揮之不去和產量紀律的跡象下，市場正在尋找底部。“他還表示：“液化天然氣出口繼續提供穩固的底部支撐，即使一些終端正在進行季節性維護。“紐約商交所天然氣期貨結算價上漲5.5%，報每百萬英熱單位2.91美元。"
     }
   ]
 }
