@@ -1,7 +1,18 @@
 {
-  "updated": "2026-05-19 02:12:05",
-  "count": 15462,
+  "updated": "2026-05-19 02:15:53",
+  "count": 15459,
   "items": [
+    {
+      "id": "te:markets:551686",
+      "time": "2026-05-19 02:15:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Crude Oil WTI Gains by 2.34% — Top commodity gainers are Crude Oil WTI (2.34%), Natural gas (2.32%) and Brent Crude Oil (2.01%). Biggest loser is Coking Coal (-0.63%)."
+    },
     {
       "id": "4886441",
       "time": "2026-05-19 02:11:10",
@@ -139722,48 +139733,6 @@
         "其他"
       ],
       "text": "漢坦病毒涉事郵輪最後六名乘客撤離下船，船長對眾人的耐心表示致意。"
-    },
-    {
-      "id": "4873039",
-      "time": "2026-05-12 02:15:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國郵政建議於2026年7月實施競爭性調價。"
-    },
-    {
-      "id": "te:markets:549727",
-      "time": "2026-05-12 02:15:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Natural Gas EU Spikes by 5.88% — Top commodity gainers are Natural Gas EU (5.88%), Natural gas (5.57%), Natural Gas UK (5.15%), Brent Crude Oil (3.33%) and Crude Oil WTI (3.24%)."
-    },
-    {
-      "id": "mkt:019e183e-bc69-7dd9-b925-d148d0c83d4a",
-      "time": "2026-05-12 02:13:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "WHITE HOUSE DEPUTY PRESS SEC. KELLY: TRUMP NOT RUSHING ON IRAN & HAS ALL OPTIONS ON THE TABLE"
-    },
-    {
-      "id": "mkt:019e183e-a057-7dd9-b925-cfa39250397a",
-      "time": "2026-05-12 02:13:37",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "WHITE HOUSE DEP. PRESS SEC. KELLY ON TRUMP-XI TALKS: WE CAN EXPECT MORE GOOD DEALS FOR THE US"
     }
   ]
 }
