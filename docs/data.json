@@ -1,7 +1,25 @@
 {
-  "updated": "2026-05-19 02:38:45",
-  "count": 15453,
+  "updated": "2026-05-19 02:42:34",
+  "count": 15450,
   "items": [
+    {
+      "id": "mkt:019e3c62-9929-7dd6-889e-bc4aeea44dd6",
+      "time": "2026-05-19 02:39:15",
+      "tags": [
+        "MKT News",
+        "BA.O"
+      ],
+      "text": "U.S. STATE DEPARTMENT APPROVES POSSIBLE SALE TO INDIA FOR ITS PURCHASE OF APACHE HELICOPTERS, FOLLOW-ON SUPPORT SERVICES AND RELATED EQUIPMENT FOR AN ESTIMATED COST OF $198.2 MILLION"
+    },
+    {
+      "id": "4886461",
+      "time": "2026-05-19 02:39:07",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院批准擬向印度出售阿帕奇直升機、後續配套維護服務及相關裝置，預估交易額達 1.982 億美元。"
+    },
     {
       "id": "mkt:019e3c60-20ad-7dd6-889e-b1bac6788bdc",
       "time": "2026-05-19 02:36:33",
@@ -139655,48 +139673,6 @@
         "公司"
       ],
       "text": "Coinbase執行長布萊恩・阿姆斯特朗定於週三出席參議院共和黨核心小組午餐會並發表講話，為週四《加密法案》審議修訂議程造勢。"
-    },
-    {
-      "id": "4873073",
-      "time": "2026-05-12 02:41:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "【剛果（金）東部遭多起武裝襲擊 至少50名平民死亡】剛果（金）地方媒體11日報道，烏干達反政府武裝“民主同盟軍”近日襲擊剛果（金）東部多地，造成至少50名平民死亡。（新華社）"
-    },
-    {
-      "id": "mkt:019e1857-87f0-7dd9-b926-1e0edbe2ee57",
-      "time": "2026-05-12 02:40:50",
-      "tags": [
-        "MKT News",
-        "DINO.O",
-        "Impact bearish"
-      ],
-      "text": "MASSIVE FIRE AND HEAVY SMOKE REPORTED AT HF SINCLAIR REFINERY IN OKLAHOMA- LOCAL MEDIA"
-    },
-    {
-      "id": "4873072",
-      "time": "2026-05-12 02:40:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "據當地媒體報道，俄克拉荷馬州HF辛克萊煉油廠發生大規模火災，現場濃煙滾滾。"
-    },
-    {
-      "id": "4873071",
-      "time": "2026-05-12 02:40:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟針對約旦河西岸定居者暴力事件，批准對以色列定居者實施新一輪制裁。"
-    },
-    {
-      "id": "4873070",
-      "time": "2026-05-12 02:39:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "【委內瑞拉代總統否認該國將成為美國“第51州”】委內瑞拉代總統德爾西·羅德里格斯11日接受媒體採訪時否認這一南美國家將成為美國“第51個州”。"
     }
   ]
 }
