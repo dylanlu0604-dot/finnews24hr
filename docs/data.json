@@ -1,7 +1,108 @@
 {
-  "updated": "2026-05-18 09:07:57",
-  "count": 15395,
+  "updated": "2026-05-18 09:11:54",
+  "count": 15402,
   "items": [
+    {
+      "id": "4884533",
+      "time": "2026-05-18 09:10:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新加坡監管機構暫停對11億美元M1-Tuas交易的審查】新加坡電信監管機構已暫停對Tuas收購M1 Ltd.計劃的審查，該交易對這家新加坡電信運營商的估值超過11億美元。Tuas週一表示，新加坡資訊通訊媒體發展局(Infocomm Media Development Authority)是在獲悉其旗下澳大利亞公司Simba Telecom可能使用了未經授權的無線電頻段後，採取了上述舉措。此舉可能導致Simba Telecom違反新加坡的《電信法》(Telecommunications Act)及其運營牌照的條款。該公司表示：“Simba正與IMDA全面合作。Tuas董事會也將審查有關涉嫌未經授權使用頻譜的情況。”Tuas股價在前市交易中重挫65%，是澳大利亞S&P/ASX 200指數中表現最差的成份股。"
+    },
+    {
+      "id": "4884532",
+      "time": "2026-05-18 09:09:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華羽先翔完成超億元Pre-A+輪融資 螞蟻集團領投】近日，華羽先翔完成超億元Pre-A+輪融資，本輪融資由螞蟻集團領投、彼岸時代及復星創富跟投。融資資金將重點用於加速鴻鵠系列eVTOL的適航取證，以及低空出行及商業場景的落地與創新。議會降息。"
+    },
+    {
+      "id": "4884531",
+      "time": "2026-05-18 09:09:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "低硫燃料油連續主力合約日內漲7%，現報5276.00元。"
+    },
+    {
+      "id": "4884530",
+      "time": "2026-05-18 09:08:42",
+      "tags": [
+        "公司",
+        "資料",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【DoubleLine岡拉克稱當前情況下美聯儲“根本不可能”降息】DoubleLine Capital LP執行長傑弗裡·岡拉克表示，投資者並不認為美聯儲下次政策會議會降息。“人們原本期待今年降息兩次，但通脹市場根本不配合。”岡拉克在一檔節目中說道，“在我看來，當2年期國債收益率比聯邦基金利率高出近50個基點時，降息根本不可能。”岡拉克表示，最近獲確認出任美聯儲主席的凱文·沃什一上臺就面臨著“艱難時期”。由於伊朗戰爭導致油價飆升，進而影響到美國的通脹報告，他預測通脹上行趨勢將繼續。美國4月消費者價格指數大漲3.8%，創自2023年5月以來最快增速。岡拉克說，DoubleLine的模型預測下一次CPI指數漲幅將以4開頭。"
+    },
+    {
+      "id": "te:markets:551361",
+      "time": "2026-05-18 09:08:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Australian Equities Extend Slide as Week Opens — Australian stocks dipped 84 points or 1.0% to 8,547 in early deals on Monday, marking the second session of losses and notching their lowest level since early April. A slump on Wall Street Friday weighed on sentiment amid rising fears of further escalation in the Middle East following President Trump's warning on Iran. Caution also grew as top trading partner China will release April activity data later today, including industrial output and retail sales. Locally, Australia's flash PMI readings for May will be due later this week, along with the RBA minutes and April labor market data. Transport, communications, process industries, and consumers drove the decline, while healthcare, consumer services, and energy minerals helped limit losses. Among major decliners were BHP Group (-2.6%), Goodman Group (-2.7%), and Northern Star Resources (-4.1%). Brambles Ltd. tumbled 14.9% after cutting its underlying profit growth target due to earnings impact from repair capacity constraints."
+    },
+    {
+      "id": "mkt:019e38a0-a4dc-7663-82fd-54b264d539ce",
+      "time": "2026-05-18 09:08:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "JAPAN’S NIKKEI 225 FALLS 1% INTRADAY"
+    },
+    {
+      "id": "mkt:019e38a0-a34d-7663-82fd-49a98cf8411c",
+      "time": "2026-05-18 09:08:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish",
+        "Nikkei 225",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "TAIWAN STOCKS FALL MORE THAN 2%"
+    },
+    {
+      "id": "mkt:019e38a0-a1cc-7663-82fd-426e7e59ec73",
+      "time": "2026-05-18 09:07:24",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "SHANGHAI'S MOST ACTIVE TIN CONTRACT FALLS MORE THAN 4%"
+    },
+    {
+      "id": "mkt:019e38a0-9e66-7663-82fd-3ef270b59cce",
+      "time": "2026-05-18 09:07:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "CHINA'S MOST ACTIVE SC CRUDE OIL FUTURES CONTRACT OPENED UP 6% INTRADAY TO 679.9 YUAN/BARREL; LOW-SULFUR FUEL OIL FUTURES JUMPED 6% TO 5,224 YUAN/TON, WHILE FUEL OIL FUTURES ROSE 4% TO 4,237 YUAN/TON"
+    },
     {
       "id": "4884529",
       "time": "2026-05-18 09:06:17",
@@ -18,6 +119,20 @@
         "國際"
       ],
       "text": "日本日經指數下跌1%，至60783.67點。"
+    },
+    {
+      "id": "mkt:019e389f-f58b-7663-82fd-36ac5f4c6fc8",
+      "time": "2026-05-18 09:05:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "Treasury Yields",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "YIELD ON 5-YEAR JGB RISES 4.0 BASIS POINTS TO 2.025%"
     },
     {
       "id": "mkt:019e389f-9b91-7663-82fd-2fc663c757da",
@@ -138896,34 +139011,6 @@
         "其他"
       ],
       "text": "【SAP宣佈完成對主資料管理軟體提供商Reltio的收購】5月11日訊息，SAP宣佈已完成對領先的主資料管理軟體提供商Reltio的收購。此次收購旨在幫助客戶將分散在SAP與非SAP系統裡的資料都轉化為AI就緒（AI-ready）的資料（即 AI 能真正理解、信任和使用的資料）。雙方未披露具體交易條款。"
-    },
-    {
-      "id": "te:markets:549434",
-      "time": "2026-05-11 09:11:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Australian Equities Extend Slide Ahead of Federal Budget — Australian stocks slipped 78 points or 0.9% to 8,666 on Monday morning deals, marking losses for the second straight session amid a sharp drop in U.S. equity futures as tensions between the U.S. and Iran escalated after President Trump rejected Tehran’s latest peace proposal. Traders stayed cautious ahead of inflation data in top trading partner China later today. In March, annual inflation in the country remained near a three-year high, partly reflecting a rebound in transport costs. Locally, the 2026/27 federal budget will be released on Tuesday, against a backdrop of global energy shocks, surging cost of living, and a national debt edging toward AUD 1 trillion. Healthcare, consumer durables, financials, and transport led the losses, though gains in process industries and energy minerals helped limit the decline. Among major decliners were CSL Ltd. (-17.9%), Pro Medicus (-3.2%), and Sigma Healthcare (1.2%). Meanwhile, the big four banks slipped between 1.8% to 3.3%."
-    },
-    {
-      "id": "4871150",
-      "time": "2026-05-11 09:10:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【Jefferies：中國AI、蘋果及特斯拉供應鏈二季度有望獲正貝塔收益】投行Jefferies稱，儘管存在不利因素，但在系列新產品的推動下，中國AI、蘋果以及特斯拉人形機器人供應鏈中部分硬體廠商具有短期催化劑，這可能在二季度帶來正向的市場貝塔收益。分析師Jacky He等人在報告中表示，展望未來6個月，更青睞那些2026年盈利兌現良好、下行風險有限且估值合理的標的。首選標的包括生益科技、滬電股份、廣合科技、立訊精密、高偉電子和水晶光電。在光通訊方面，由於對800G/1.6T光模組的需求激增以及對CPO（共封裝光學）/OCS（光路交換）解決方案的早期準備，看到許多上游光學元件出現嚴重的產能短缺，許多供應商被客戶要求增加資本支出並儘快提升新產能。非AI領域的光學廠商有機會隨著業務的推進而享受估值重塑。在印製電路板與覆銅板方面，儘管M9級別材料的商業化時間仍不確定，但新的應用場景（如中板）、更高的PCB層數以及M8/8.5級別材料的廣泛採用，仍可能在今年為供應鏈帶來顯著的銷售增長。由於材料（尤其是玻璃纖維布/銅箔）出現產能短缺，預計上游的漲價幅度可能超過下游。投資者對2027年新款iPhone設計的潛在變化越來越感興趣，投資者或率先炒作3D列印/玻璃加工裝置相關標的。6月份召開的WWDC（蘋果全球開發者大會）以及潛在的AI Siri/端側大語言模型，也可能成為供應鏈的關鍵催化劑。"
-    },
-    {
-      "id": "4871149",
-      "time": "2026-05-11 09:09:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "【酒價內參5月11日價格釋出：青花郎古20領漲 總價創12天以來新高】新浪財經“酒價內參”過去24小時收集的資料顯示，中國白酒市場主要大單品的終端零售均價在5月11日整體繼續回暖。如果主要單品各取一瓶整體打包售賣，今日總售價為9955元，較昨日上漲11元，創下近12天以來最高。市場連續兩日走強，終端交投情緒保持活躍，核心單品漲跌分化依然顯著。今日白酒市場11大單品五漲五跌一平，漲跌結構均衡。上漲方面，古井貢古20與青花郎漲幅居前，均上漲5元/瓶，雙雙收穫二連陽。前者價格連續兩日快速回彈，重回月內高位550元關口，後者創下近一月最高價格，近期該酒品在700元關口附近波動較為劇烈；習酒君品上漲4元/瓶；國窖1573上漲3元/瓶；五糧液1618上漲1元/瓶。下跌方面，茅臺系飛天茅臺與精品茅臺均下跌2元/瓶；青花汾20、洋河夢之藍M6+及水晶劍南春均下跌1元/瓶。五糧液普五八代的價格環比保持不變。"
     }
   ]
 }
