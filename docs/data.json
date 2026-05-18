@@ -1,7 +1,27 @@
 {
-  "updated": "2026-05-19 04:22:57",
+  "updated": "2026-05-19 04:26:42",
   "count": 15511,
   "items": [
+    {
+      "id": "4886554",
+      "time": "2026-05-19 04:22:55",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗最高領袖重申將考慮開闢新戰線】伊朗最高領袖穆傑塔巴·哈梅內伊的社交媒體賬號18日再次摘發其上任後首份宣告，重申將考慮在敵人不擅長的領域開闢新戰線。宣告說，關於開闢其他戰線的問題，相關研究已經完成，“敵人在這些領域經驗極少且極度脆弱”。宣告表示，如果“戰爭狀態”持續，伊朗將開闢這些新戰線。（新華社）"
+    },
+    {
+      "id": "te:markets:551696",
+      "time": "2026-05-19 04:22:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Crude Retreats to $108 — Brent crude futures pared early gains to trade around $108 a barrel during a volatile session on Monday, as traders weighed fresh developments in the Middle East and mixed signs that the US and Iran could be nearing a deal. President Trump said he was calling off a planned attack on Iran scheduled for Tuesday after leaders from Saudi Arabia, Qatar, and the UAE urged him to “hold off,” adding that serious negotiations were now underway. Earlier in the session, oil prices fell after Iranian media reported that the US had proposed a temporary waiver of oil sanctions pending a final agreement. Prices later reversed course and moved higher again after Axios reported that Iran had submitted an updated peace proposal aimed at ending the conflict, though the White House reportedly viewed the offer as insufficient. Markets remain highly volatile, with oil prices elevated as the Strait of Hormuz stays largely shut and attacks on key infrastructure disrupt production."
+    },
     {
       "id": "4886553",
       "time": "2026-05-19 04:21:46",
@@ -140209,22 +140229,6 @@
         "Importance 1"
       ],
       "text": "The Dow Jones Index Closes 0.19% Higher — The Dow Jones Index gained 95 points or 0.19 percent on Monday to close at 49704 points. Gains were led by Caterpillar (3.11%), Honeywell International (2.81%) and Cisco Systems (2.30%). Biggest losers were Nike (-3.96%), Walt Disney (-3.28%) and Salesforce (-2.99%)."
-    },
-    {
-      "id": "4873158",
-      "time": "2026-05-12 04:25:22",
-      "tags": [
-        "市場"
-      ],
-      "text": "Hims & Hers Health美股盤後跌9.7%。"
-    },
-    {
-      "id": "4873155",
-      "time": "2026-05-12 04:23:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：埃隆・馬斯克旗下SpaceX上市後，估值預計將突破 2 萬億美元。"
     }
   ]
 }
