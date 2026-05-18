@@ -1,7 +1,89 @@
 {
-  "updated": "2026-05-19 00:57:46",
-  "count": 15457,
+  "updated": "2026-05-19 01:01:44",
+  "count": 15460,
   "items": [
+    {
+      "id": "mkt:019e3c08-d30a-7dd6-889c-f7e3057ef4ee",
+      "time": "2026-05-19 01:01:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "DELL: GOOGLE & DELL COLLABORATING TO BRING GEMINI 3 FLASH MODELS ON GOOGLE DISTRIBUTED CLOUD ON DELL POWEREDGE XE9780 SERVERS"
+    },
+    {
+      "id": "mkt:019e3c08-be4a-7dd6-889c-ea35e5cad28e",
+      "time": "2026-05-19 01:01:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "DELL: PALANTIR'S FOUNDRY AND AIP PLATFORM IS COMING ON-PREMISES TO DELL AI FACTORY"
+    },
+    {
+      "id": "mkt:019e3c08-acf1-7dd6-889c-e446610f9d6b",
+      "time": "2026-05-19 01:01:01",
+      "tags": [
+        "MKT News",
+        "DELL.O",
+        "Impact bullish"
+      ],
+      "text": "DELL: SPACEXAI & DELL DELIVER GROK'S ADVANCED REASONING & MULTIMODAL CAPABILITIES AS MORE SECURE, ENTERPRISE-GRADE AI ASSISTANTS"
+    },
+    {
+      "id": "4886395",
+      "time": "2026-05-19 01:00:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "戴爾：已有超 5000 家客戶部署戴爾人工智慧算力工廠。"
+    },
+    {
+      "id": "mkt:019e3c08-9599-7dd6-889c-dae16cb41240",
+      "time": "2026-05-19 01:00:55",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "DELL.O",
+        "Impact bullish",
+        "NVDA.O"
+      ],
+      "text": "DELL: ANNOUNCES BROAD SET OF ADVANCEMENTS TO DELL AI FACTORY WITH NVIDIA"
+    },
+    {
+      "id": "4886394",
+      "time": "2026-05-19 01:00:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：伊朗知道“很快會發生什麼”。（紐約郵報）"
+    },
+    {
+      "id": "4886393",
+      "time": "2026-05-19 01:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】國際銅夜盤收漲0.50%，滬銅收漲0.51%，滬鋁收漲0.48%，滬鋅收漲0.10%，滬鉛收漲0.18%，滬鎳收漲0.42%，滬錫收漲0.98%。氧化鋁夜盤收跌1.02%，鋁合金收漲0.59%。不鏽鋼夜盤收跌0.61%。"
+    },
+    {
+      "id": "4886392",
+      "time": "2026-05-19 00:58:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "Datashapes AI與L3Harris達成合作， 聯合推出搭載人工智慧技術、可偵測並應對無人機的智慧無線電裝置。"
+    },
+    {
+      "id": "4886391",
+      "time": "2026-05-19 00:58:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "【土耳其外長：美伊應透過談判化解分歧】當地時間18日，正在德國訪問的土耳其外長費丹就當前伊朗局勢及美伊關係發表講話。費丹強調，當前各方的首要任務是全力維護來之不易的停火狀態，避免爆發直接軍事衝突。費丹警告稱，一旦中東戰火重燃，將給該地區乃至全球帶來極其嚴重的經濟和政治後果。土方傾向於相信，美國和伊朗雙方都已充分意識到這一風險，並具備達成持久協議的政治意願。在談到備受關注的伊核協議談判時，費丹表示，從技術和原則層面上看，伊朗方面同意履行核談判中必要條件的意願沒有原則性障礙。目前各方的主要分歧並不在“要不要談”，而是在於“作為回報能得到什麼”和“以何種方式和順序兌現承諾”，以及“談判是否會捆綁其他附加條件”。費丹透露，當前除了土耳其在積極奔走外，卡達、沙烏地阿拉伯和埃及等地區重要國家也在為徹底結束衝突而共同努力。土耳其目前正與有關各方及斡旋方保持密切的外交接觸，全力阻止局勢進一步惡化。（央視新聞）"
+    },
     {
       "id": "mkt:019e3c02-014c-7dd6-889c-d2a32ab0747d",
       "time": "2026-05-19 00:53:24",
@@ -139596,63 +139678,6 @@
         "Economic Calendar"
       ],
       "text": "United States | 3-Year Note Auction High Yield Rate (May.11) | actual 3.965% | previous 3.90%"
-    },
-    {
-      "id": "mkt:019e17fc-ca2d-7dd9-b925-08d3e82b1803",
-      "time": "2026-05-12 01:01:43",
-      "tags": [
-        "MKT News",
-        "LHA.DE",
-        "Impact bullish",
-        "BA",
-        "AIR.PA"
-      ],
-      "text": "DEUTSCHE LUFTHANSA AG: ORDER FOR 10 AIRBUS A350-900S & 10 BOEING 787-9S AT A LIST PRICE OF 7.7 BLN U.S. DOLLARS"
-    },
-    {
-      "id": "4872978",
-      "time": "2026-05-12 01:01:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "漢莎集團訂購十架空客長途客機與十架波音長途客機。"
-    },
-    {
-      "id": "mkt:019e17fc-9817-7dd9-b925-066f763bfb58",
-      "time": "2026-05-12 01:01:30",
-      "tags": [
-        "MKT News",
-        "AIR.PA",
-        "Impact bullish",
-        "BA.N"
-      ],
-      "text": "LUFTHANSA GROUP ORDERS TEN AIRBUS AND TEN BOEING LONG-HAUL AIRCRAFT"
-    },
-    {
-      "id": "4872977",
-      "time": "2026-05-12 01:00:46",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國國債3年期收益率為3.959%。"
-    },
-    {
-      "id": "4872976",
-      "time": "2026-05-12 01:00:17",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【亞馬遜準備首次發行瑞郎債券 期限從3年到25年不等】隨著超大規模雲服務商轉向發行新債來為人工智慧支出融資，亞馬遜正準備首次發行瑞士法郎債券。知情人士透露，亞馬遜已委託法國巴黎銀行、德意志銀行和摩根大通，安排六部分瑞士法郎債券發行，期限從3年到25年不等。亞馬遜一位代表表示，募集資金將用於一般企業用途，包括支援投資和資本支出，以及償還即將到期的債務。"
-    },
-    {
-      "id": "4872975",
-      "time": "2026-05-12 01:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【夜盤期貨收盤】國際銅夜盤收漲2.28%，滬銅收漲2.35%，滬鋁收漲0.57%，滬鋅收漲1.33%，滬鉛收跌0.24%，滬鎳收漲0.83%，滬錫收漲1.80%。氧化鋁夜盤收漲0.53%，鋁合金收漲0.82%。不鏽鋼夜盤收跌0.07%。"
     }
   ]
 }
