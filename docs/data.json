@@ -1,7 +1,16 @@
 {
-  "updated": "2026-05-19 04:08:01",
-  "count": 15513,
+  "updated": "2026-05-19 04:11:45",
+  "count": 15511,
   "items": [
+    {
+      "id": "4886546",
+      "time": "2026-05-19 04:08:36",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國鋼鐵協會（AISI）：美國鋼鐵公司截至5月16日當週產能利用率為82.2%。"
+    },
     {
       "id": "mkt:019e3cb2-76b7-7ddc-912a-c7519a9d0b5a",
       "time": "2026-05-19 04:05:34",
@@ -140231,41 +140240,6 @@
         "XAUUSD"
       ],
       "text": "THE U.A.E. HAS BEEN SECRETLY CARRYING OUT ATTACKS ON IRAN - WSJ U.A.E. MILITARY CONDUCTED DIRECT STRIKES ON IRAN, TARGETING A REFINERY ON LAVAN ISLAND IRAN RETALIATED WITH OVER 2,800 MISSILE AND DRONE STRIKES AGAINST U.A.E. ENERGY INFRASTRUCTURE"
-    },
-    {
-      "id": "mkt:019e18a9-936b-7dd9-b926-aa38834efd59",
-      "time": "2026-05-12 04:10:26",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "XOM.O",
-        "MPC.O"
-      ],
-      "text": "U.S. ENERGY DEPT: NINE COMPANIES TAKING U.S. SPR OIL LOANS INCLUDING EXXONMOBIL, MARATHON AND PHILLIPS 66"
-    },
-    {
-      "id": "mkt:019e18a9-777a-7dd9-b926-a36253c89e62",
-      "time": "2026-05-12 04:10:19",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "US ENERGY DEPARTMENT: COMPANIES BORROW 53.33 MLN BARRELS OF CRUDE OIL FROM THE SPR, OUT OF 92.5 MLN BARRELS OFFERED"
-    },
-    {
-      "id": "te:markets:549736",
-      "time": "2026-05-12 04:09:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Simon Property earnings above expectations at 1.48 USD — Simon Property (SPG) released earnings per share at 1.48 USD, compared to market expectations of 1.43 USD."
     }
   ]
 }
