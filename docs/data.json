@@ -1,7 +1,106 @@
 {
-  "updated": "2026-05-19 03:49:09",
-  "count": 15485,
+  "updated": "2026-05-19 03:52:58",
+  "count": 15494,
   "items": [
+    {
+      "id": "4886530",
+      "time": "2026-05-19 03:52:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達譴責以色列襲擊駛向加沙地帶的援助船隊。"
+    },
+    {
+      "id": "mkt:019e3ca5-51dc-7dd6-889f-7dbe9fa78c2b",
+      "time": "2026-05-19 03:52:07",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "WHITE HOUSE: TRUMP HAS ALL OPTIONS AT HIS DISPOSAL AT ALL TIMES"
+    },
+    {
+      "id": "4886529",
+      "time": "2026-05-19 03:50:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮發言人安娜·凱利：特朗普始終掌握著（對伊）所有選項。"
+    },
+    {
+      "id": "4886528",
+      "time": "2026-05-19 03:50:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮發言人安娜·凱利：美軍兵力部署保持不變。"
+    },
+    {
+      "id": "mkt:019e3ca3-5989-7dd6-889f-75b8a3c235bb",
+      "time": "2026-05-19 03:49:55",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "FED'S GOOLSBEE: EXCITED ABOUT WARSH BECOMING FED CHAIR"
+    },
+    {
+      "id": "4886527",
+      "time": "2026-05-19 03:49:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【黎巴嫩總統：將“竭盡所能”制止以色列對黎戰爭】黎巴嫩總統約瑟夫·奧恩18日表示，他將“竭盡所能”採取“一切代價較小的方式”制止以色列針對黎巴嫩及其人民的戰爭，避免國家陷入更大的衝突。（新華社）"
+    },
+    {
+      "id": "mkt:019e3ca3-05a0-7dd6-889f-6d2892b50878",
+      "time": "2026-05-19 03:49:37",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "FED'S GOOLSBEE: INFLATION HAS GOT TO BE FRONT OF MIND WHEN WARSH STARTS AS CHAIR"
+    },
+    {
+      "id": "mkt:019e3ca2-bbb4-7dd6-889f-627f26604a08",
+      "time": "2026-05-19 03:49:18",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US Economy"
+      ],
+      "text": "FED'S GOOLSBEE: THE JOB MARKET IS STABLE"
+    },
+    {
+      "id": "4886526",
+      "time": "2026-05-19 03:49:00",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：如果過度降息，會進一步推高通脹。"
+    },
+    {
+      "id": "4886525",
+      "time": "2026-05-19 03:48:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮發言人安娜·凱利：伊朗無法儲存濃縮鈾。"
+    },
     {
       "id": "mkt:019e3ca2-3b9d-7dd6-889f-5e6bf5ec3a73",
       "time": "2026-05-19 03:48:45",
@@ -139970,14 +140069,6 @@
         "FTSE100"
       ],
       "text": "UK PM STARMER TOLD BY HOME MINISTER MAHMOOD AND OTHER SENIOR CABINET MINISTERS TO CONSIDER SETTING OUT A TIMELINE FOR HIS DEPARTURE - TIMES REPORT"
-    },
-    {
-      "id": "mkt:019e1896-30e3-7dd9-b926-837d14128e3c",
-      "time": "2026-05-12 03:49:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "VIRGINIA DEMOCRATS ASK U.S. SUPREME COURT TO INTERVENE AFTER STATE SUPREME COURT INVALIDATED PRO-DEMOCRATIC U.S. HOUSE MAP AHEAD OF NOVEMBER ELECTIONS"
     }
   ]
 }
