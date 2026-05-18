@@ -1,7 +1,178 @@
 {
-  "updated": "2026-05-18 09:39:41",
-  "count": 15411,
+  "updated": "2026-05-18 09:43:38",
+  "count": 15417,
   "items": [
+    {
+      "id": "4884626",
+      "time": "2026-05-18 09:42:46",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【半導體板塊震盪拉昇 優迅股份20%漲停】半導體板塊盤中震盪拉昇，優迅股份20%漲停，晶豐明源漲超11%，德邦科技漲超10%，雅克科技等股跟漲。"
+    },
+    {
+      "id": "4884625",
+      "time": "2026-05-18 09:42:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【證監會副主席李超：截至4月底，“併購六條”釋出以來上市公司披露資產重組3422單】中國證監會副主席李超5月18日在2026北京上市公司高質量發展大會暨投融資併購對接會上介紹，截至今年4月底，“併購六條”釋出以來，上市公司披露資產重組3422單，重大資產重組336單，112家上市公司透過併購重組籌劃產業鏈上下游整合。（新華財經）"
+    },
+    {
+      "id": "4884624",
+      "time": "2026-05-18 09:41:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "【粵傳媒上演“天地板”】粵傳媒盤中跌停，上演“天地板”，成交額17.66億元。"
+    },
+    {
+      "id": "4884623",
+      "time": "2026-05-18 09:41:48",
+      "tags": [
+        "公司",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【債券交易員認為市場轉向收益率攀升的新時代】隨著美國債券市場對戰爭引發的通脹擔憂加劇，借貸成本高企的新時代可能已經來臨。美國30年期國債收益率升破5%，創下近二十年來的新高。在原油價格再度上漲、上月通脹加速令市場擔憂加劇的背景下，美國國債週一在亞洲時段延續跌勢，此前其剛經歷了近一年來最糟糕的一週。對物價壓力捲土重來的擔憂攪動了全球固定收益市場，從而引發了包括英國和日本等市場的暴跌。七國集團財長勢將於本週會晤時討論本輪的債券拋售潮。國債市場的暴跌令股市承壓，而市場對美聯儲的預期也發生了轉變。交易員現在認為3月前加息已成定局，凸顯出自2月底以來伊朗局勢如何徹底顛覆了債券市場的預期 —— 當時市場預計2026年將降息兩次，每次25個基點。市場目前預計12月前加息的機率約為四分之三。"
+    },
+    {
+      "id": "4884622",
+      "time": "2026-05-18 09:41:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【湖北釋出暴雨橙色預警】湖北省氣象臺2026年05月18日07時18分繼續釋出暴雨橙色省級預警：16日下午以來，鄂西和江漢平原出現大到暴雨、局地大暴雨，截至18日7時，累計雨量襄陽、荊門、宜昌、恩施、荊州、天門、潛江44個縣市區298個鄉鎮超過100毫米，鶴峰、五峰、枝江、當陽、沙洋、公安、荊州區、松滋25個鄉鎮超過300毫米，最大鶴峰五里鄉481毫米。"
+    },
+    {
+      "id": "4884621",
+      "time": "2026-05-18 09:41:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "粵 傳 媒盤中跌停，上演“天地板”，現報17.72元，成交額17.81億元。"
+    },
+    {
+      "id": "4884620",
+      "time": "2026-05-18 09:40:51",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【PingPong與開泰銀行集團達成戰略合作】日前，支付平臺PingPong與泰國四大商業銀行之一開泰銀行集團（KASIKORNBANK，簡稱 KBank） 正式簽署戰略合作協議。據瞭解，雙方將透過API直連實現深度嵌入與雙向賦能，整合PingPong覆蓋全球200多個國家和地區的支付服務網路，以及KBank在東南亞深耕80餘年的本土銀行基礎設施。"
+    },
+    {
+      "id": "mkt:019e38be-249e-7663-82fe-0fdd331c456d",
+      "time": "2026-05-18 09:40:37",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Macro & Rates",
+        "Treasury Yields"
+      ],
+      "text": "S.KOREA C.BANK SAYS SELLS 91-DAY MONETARY STABILISATION BONDS AT YIELD OF 2.565%"
+    },
+    {
+      "id": "mkt:019e38bd-d676-7663-82fe-01799b8ecbe6",
+      "time": "2026-05-18 09:40:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bearish",
+        "CSI300",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "CHINA JAN-APR HOME PRICES FELL 3.5% ON YEAR"
+    },
+    {
+      "id": "te:economy:551369",
+      "time": "2026-05-18 09:40:17",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Housing Index",
+        "Importance 2"
+      ],
+      "text": "China New Home Prices Fall the Most in 11 Months — China’s new home prices across 70 cities shrank 3.5% yoy in April 2026, following a 3.4% decline in the previous month. It marked the 34th consecutive month of contraction and the sharpest pace since May 2025, underscoring persistent weakness in the property sector. The data suggested that existing stimulus efforts have yet to generate a sustained recovery in housing demand and market confidence."
+    },
+    {
+      "id": "mkt:019e38bd-a6c9-7663-82fd-fd4cd25a86c6",
+      "time": "2026-05-18 09:40:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bearish",
+        "Copper",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "CHINA APR HOME PRICES FELL ON YEAR IN 65 OF 70 CITIES VS. 65 IN MAR"
+    },
+    {
+      "id": "4884619",
+      "time": "2026-05-18 09:39:59",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【儲存晶片板塊盤初衝高，深科技等股創新高】儲存晶片板塊盤初衝高，華海誠科、商絡電子、兆易創新、大普微、同有科技、深科技、聯訊儀器盤中創新高，三孚股份漲停。訊息面上，國產儲存晶片龍頭長鑫科技業績大增，預計上半年營收超千億元。"
+    },
+    {
+      "id": "4884618",
+      "time": "2026-05-18 09:39:56",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【證券板塊震盪拉昇 華安證券漲停】證券板塊震盪拉昇，華安證券漲停，招商證券、國元證券、長江證券、第一創業跟漲。"
+    },
+    {
+      "id": "4884617",
+      "time": "2026-05-18 09:39:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "A股銅纜高速連線板塊走強，華工科技漲超8%，匯綠生態漲超7%，中天科技、鼎通科技等跟漲。"
+    },
+    {
+      "id": "4884616",
+      "time": "2026-05-18 09:39:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達1.02%，成分股中，佰維儲存漲9.23%，思特威漲8.94%，柏楚電子漲4.79%，晶合整合漲4.59%。"
+    },
+    {
+      "id": "4884615",
+      "time": "2026-05-18 09:39:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "【金飾價格跌到1383元】18日早間，現貨黃金衝高回落，盤中跌破4500美元關口，跌超0.8%。查詢國內金飾價格，老鳳祥足金飾品報1383元/克，相較於昨天1398元/克跌15元。"
+    },
+    {
+      "id": "te:markets:551368",
+      "time": "2026-05-18 09:39:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "South Korean Shares Extend Decline — The benchmark KOSPI fell more than 1% to around 7,400 on Monday, extending losses from the previous session, as rising global bond yields and inflation concerns triggered risk-off sentiment. Investor sentiment weakened after a sharp jump in US Treasury yields reinforced expectations that the Federal Reserve could keep interest rates higher for longer, while escalating Middle East tensions pushed oil prices higher and added to inflation worries. Declines were seen in Hyundai Motor (-6.3%), SK Square (-3.3%), LG Energy Solution (-4.8%), HD Hyundai Heavy Industries (-5.5%), Doosan Enerbility (-3.9%), and SK Hynix (-0.3%). At the same time, uncertainty over a planned strike at Samsung Electronics weighed on sentiment, raising concerns over disruptions to semiconductor production and exports. The government warned the strike could hurt the broader economy and said it may consider emergency arbitration measures if labor-management talks fail ahead of the planned walkout later this week."
+    },
     {
       "id": "4884614",
       "time": "2026-05-18 09:39:05",
@@ -10,6 +181,14 @@
         "焦點"
       ],
       "text": "滬深兩市成交額超5000億元，較上日此時縮量169億元。"
+    },
+    {
+      "id": "4884613",
+      "time": "2026-05-18 09:38:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【五糧液：穩定商家經營預期 “五一”期間多款產品動銷增長近60%】5月18日，五糧液(000858)召開2026年第一次臨時股東會，五糧液副董事長、總經理華濤表示，紮實做好經營保障，積極拓展外部市場，持續深化渠道溝通，穩定商家經營預期。目前，五糧液有序落地世界盃、520超級粉絲節等品牌營銷活動，助力終端動銷。“五一”期間，1618、39度五糧液等宴席場次增長超70%、動銷增長近60%；同時，持續做好內部運營，生產經營平穩有序，原糧採購、包材供應、釀酒生產、商品發運等工作正常運轉；景區運營平穩有序，“五一”期間累計接待遊客16.84萬人次、同比增長32.6%，創歷史新高。"
     },
     {
       "id": "4884612",
@@ -138967,116 +139146,6 @@
         "國際"
       ],
       "text": "泰國石油：對於26財年第二季度展望，公司評估認為市場環境仍將不明朗，或導致波動持續。"
-    },
-    {
-      "id": "em:jjsj_zgsj:202605113732634472",
-      "time": "2026-05-11 09:43:31",
-      "tags": [
-        "經濟數據",
-        "中國"
-      ],
-      "text": "【國家統計局：4月份CPI環比上漲主要受能源和出行服務價格上漲影響】國家統計局城市司首席統計師董莉娟解讀2026年4月份CPI資料，從環比看，全國CPI環比由上月下降0.7%轉為上漲0.3%，高於季節性水平0.4個百分點，主要受能源和出行服務價格上漲影響。從同比看，全國CPI同比上漲1.2%，漲幅比上月擴大0.2個百分點。扣除食品和能源價格的核心CPI同比上漲1.2%，保持溫和回升。"
-    },
-    {
-      "id": "4871216",
-      "time": "2026-05-11 09:43:23",
-      "tags": [
-        "資料",
-        "市場"
-      ],
-      "text": "【國家統計局：4月石油和天然氣開採業價格環比上漲18.5%】國家統計局城市司首席統計師董莉娟解讀2026年4月份PPI資料，從環比看，全國PPI環比上漲1.7%，漲幅比上月擴大0.7個百分點。本月PPI環比執行的主要特點：一是國際輸入性因素影響國內石油相關行業價格上漲。國際原油價格上行帶動國內石油相關行業價格上漲。其中，石油和天然氣開採業價格環比上漲18.5%，石油煤炭及其他燃料加工業價格上漲16.4%，化學原料和化學制品製造業價格上漲8.3%，化學纖維製造業價格上漲5.6%，橡膠和塑膠製品業價格上漲1.7%。二是國內部分行業需求增加帶動價格上行。算力需求快速增長，電氣化程序加快，光纖製造價格環比上漲22.5%，外儲存裝置及部件價格上漲3.2%，有色金屬冶煉和壓延加工業價格上漲0.2%；電煤補庫存需求有所釋放，疊加化工、冶金等非電用煤需求增加，煤炭開採和洗選業價格上漲1.9%；製造業裝置更新持續推進帶動用鋼需求增加，黑色金屬冶煉和壓延加工業價格上漲0.6%。三是國內市場競爭秩序不斷最佳化，相關行業價格上漲或降幅收窄。深入整治“內卷式”競爭成效繼續顯現，鋰離子電池製造價格環比上漲1.6%，新能源車整車製造價格下降0.1%，降幅比上月收窄0.7個百分點。"
-    },
-    {
-      "id": "4871215",
-      "time": "2026-05-11 09:43:06",
-      "tags": [
-        "市場"
-      ],
-      "text": "大盤主力淨流出超100億。"
-    },
-    {
-      "id": "te:economy:549453",
-      "time": "2026-05-11 09:42:35",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "China",
-        "Food Inflation",
-        "Importance 0"
-      ],
-      "text": "China Food Prices Drop for 1st Time in 3 Months — China’s food prices fell 1.6% year-on-year in April 2026, reversing a 0.3% increase in the previous month as supply conditions improved. It marked the first decline in food prices since January, with prices falling for fresh vegetables (-0.5% vs 4.9% in March) and fresh fruit (-1.0% vs 4.0%)."
-    },
-    {
-      "id": "mkt:019e14b3-1971-7dd9-b91a-1b15633de13f",
-      "time": "2026-05-11 09:42:22",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Alibaba",
-        "9988.HK",
-        "Impact bearish"
-      ],
-      "text": "HONG KONG SHARES OF ALIBABA DOWN MORE THAN 3%"
-    },
-    {
-      "id": "4871214",
-      "time": "2026-05-11 09:42:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "【新型柔性單晶矽電池將助力商業航天與太空光伏發展】本次天舟十號飛船還將搭載柔性封裝單晶矽太陽電池樣品進入太空，開展在軌空間環境實驗，該實驗專案將為我國商業航天網際網路組網、太空算力及未來太空光伏產業發展提供技術支撐。此次隨天舟十號上行的柔性單晶矽太陽電池，由我國科研團隊歷時三年自主研發。電池原型樣品由科研人員封裝後，放入專用實驗單元送上太空，將安置於中國空間站材料艙外暴露實驗平臺，開展空間粒子輻照、紫外輻照、原子氧侵蝕等空間綜合極端環境下的暴露實驗。科研人員將對照地面模擬實驗與在軌前後效能資料，校驗地面實驗模型與太空真實環境的匹配度，摸清電池效能的衰減規律。據瞭解，相較於當前航天主流的砷化鎵電池，這款柔性單晶矽電池輕薄可捲曲、重量可控，每平方米不足一公斤，運載成本更低，造價僅為砷化鎵電池的十分之一。 (央視新聞)"
-    },
-    {
-      "id": "em:jjsj_zgsj:202605113732637846",
-      "time": "2026-05-11 09:41:33",
-      "tags": [
-        "經濟數據",
-        "中國"
-      ],
-      "text": "【國家統計局：4月份豬肉價格同比下降15.2% 影響CPI下降約0.29個百分點】國家統計局資料顯示，4月份，食品菸酒及在外餐飲類價格同比下降0.8%，影響CPI（居民消費價格指數）下降約0.24個百分點。食品中，畜肉類價格下降6.7%，影響CPI下降約0.28個百分點，其中豬肉價格下降15.2%，影響CPI下降約0.29個百分點；鮮果價格下降1.0%，影響CPI下降約0.02個百分點；鮮菜價格下降0.5%，影響CPI下降約0.01個百分點；水產品價格上漲1.3%，影響CPI上漲約0.02個百分點。"
-    },
-    {
-      "id": "4871213",
-      "time": "2026-05-11 09:41:32",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【伊朗副外長警告法英兩國勿加劇危機】針對法國和英國牽頭的霍爾木茲海峽多國護航行動，伊朗副外長加里布阿巴迪5月10日警告法國和英國不要向霍爾木茲海峽部署軍艦，伊朗方面不會允許任何地區外的勢力干涉霍爾木茲海峽的安全。法國國防部6日釋出新聞公告稱，法國海軍“戴高樂”號航母正穿越蘇伊士運河駛向紅海南部，為霍爾木茲海峽多國護航行動做準備。英國媒體9日報道稱，英國“龍”號驅逐艦將被部署至中東，以備參加霍爾木茲海峽護航行動。（CCTV國際時訊）"
-    },
-    {
-      "id": "4871212",
-      "time": "2026-05-11 09:41:14",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "菲律賓股指上漲1%，至6022.05點。"
-    },
-    {
-      "id": "4871211",
-      "time": "2026-05-11 09:41:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "【港口航運板塊盤初震盪下挫，國航遠洋跌超7%】港口航運板塊盤初震盪下挫，國航遠洋跌超7%，招商輪船、招商南油跌超6%，中遠海能、北部灣港、南京港跟跌。"
-    },
-    {
-      "id": "4871210",
-      "time": "2026-05-11 09:40:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "港股光通訊概念股持續走高，劍橋科技、長飛光纖光纜漲超7%，FIT HON TENG漲超5%，匯聚科技漲近4%。"
-    },
-    {
-      "id": "4871209",
-      "time": "2026-05-11 09:40:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "S-OIL：受韓國燃料價格上限政策影響，面臨鉅額虧損。"
     }
   ]
 }
