@@ -1,7 +1,118 @@
 {
-  "updated": "2026-05-18 19:42:59",
-  "count": 15650,
+  "updated": "2026-05-18 19:46:56",
+  "count": 15653,
   "items": [
+    {
+      "id": "4885895",
+      "time": "2026-05-18 19:44:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數期貨迅速收窄早前跌幅。"
+    },
+    {
+      "id": "4885894",
+      "time": "2026-05-18 19:44:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "波蘭國防部長科西亞克-卡米什：歐洲美軍重組不能以犧牲美國最大盟友波蘭的利益為代價。"
+    },
+    {
+      "id": "4885893",
+      "time": "2026-05-18 19:44:16",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "捷克央行行長阿萊什·米赫爾表示，如果全球和國內風險威脅到潛在的通脹壓力，決策者準備提高利率，捷克國家銀行將採取一切必要措施來維持較低的消費價格增長，即使長期保持高利率會對經濟增長造成壓力。"
+    },
+    {
+      "id": "mkt:019e3ae6-4a7f-7dd6-8898-b0d61cb587bc",
+      "time": "2026-05-18 19:43:51",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "BRENT OIL ERASES GAIN AFTER TASNIM REPORT ON IRAN SANCTIONS"
+    },
+    {
+      "id": "mkt:019e3ae6-4259-7dd6-8898-ae79ee871d91",
+      "time": "2026-05-18 19:43:49",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "EMFX GAUGE ERASES LOSSES AS OIL FALLS; ZAR, MXN AT DAILY HIGHS"
+    },
+    {
+      "id": "mkt:019e3ae6-2e10-7dd6-8898-a23224faef4a",
+      "time": "2026-05-18 19:43:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "Nasdaq100",
+        "Impact bullish"
+      ],
+      "text": "NASDAQ 100 FUTURES QUICKLY PARE LOSSES TO TURN POSITIVE"
+    },
+    {
+      "id": "4885892",
+      "time": "2026-05-18 19:43:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上汽奧迪不再銷售四環燃油車？知情人士稱，仍在談判中】近日有訊息稱，奧迪將公佈相關戰略規劃。其中，一汽奧迪將銷售四環品牌的燃油車和新能源車，上汽奧迪將不再銷售四環品牌燃油車，專注AUDI品牌的發展。一名知情人士今日對記者表示，南北奧迪戰略規劃調整目前仍在談判中，尚未形成定論。（第一財經）"
+    },
+    {
+      "id": "4885891",
+      "time": "2026-05-18 19:43:40",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀突破77美元/盎司，日內漲1.49%。"
+    },
+    {
+      "id": "4885890",
+      "time": "2026-05-18 19:43:37",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克600指數觸及日內高點，上漲0.2%。"
+    },
+    {
+      "id": "4885889",
+      "time": "2026-05-18 19:43:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "WTI原油延續跌勢，一度回落至104美元/桶下方，日內跌超1%。"
+    },
+    {
+      "id": "4885888",
+      "time": "2026-05-18 19:43:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數期貨迅速收窄跌幅，轉為上漲。"
+    },
+    {
+      "id": "4885887",
+      "time": "2026-05-18 19:42:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "美元指數DXY短線下挫近20點，報99.06。"
+    },
     {
       "id": "4885886",
       "time": "2026-05-18 19:41:57",
@@ -141367,84 +141478,6 @@
         "公司"
       ],
       "text": "西部證券股份有限公司恢復跟蹤寶豐能源；評級增持。"
-    },
-    {
-      "id": "4872367",
-      "time": "2026-05-11 19:46:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：快手計劃分拆旗下可靈 AI 影片業務，估值200 億美元。"
-    },
-    {
-      "id": "mkt:019e16dc-3b60-7dd9-b91f-28a713d3326e",
-      "time": "2026-05-11 19:46:32",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "KUAISHOU PLANS TO SPIN OFF UNIT AT $20B VALUATION: INFORMATION"
-    },
-    {
-      "id": "4872366",
-      "time": "2026-05-11 19:46:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華大基因與稻田集團達成病理深度合作】據華大基因訊息，近日，華大基因與稻田集團在西安正式簽署病理深度合作協議，稻田光合・華大時空病理中心同步揭牌成立。雙方將圍繞分子病理診斷、時空組學臨床轉化、智慧化病理診斷等前沿方向深度協同，推動自主基因技術與臨床應用網路高效融合，助力我國精準醫學與基層病理能力全面升級。"
-    },
-    {
-      "id": "mkt:019e16db-cf0b-7dd9-b91f-219cd2ab49d6",
-      "time": "2026-05-11 19:46:04",
-      "tags": [
-        "MKT News",
-        "Important",
-        "1024.HK"
-      ],
-      "text": "KUAISHOU PLANS TO SPIN OFF KLING AI VIDEO UNIT: INFORMATION"
-    },
-    {
-      "id": "4872364",
-      "time": "2026-05-11 19:45:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "【斯塔默強調不會辭職】英國執政黨工黨在上週的地方選舉中遭受重挫。英國議會下院目前已有30多名工黨籍議員公開呼籲工黨黨首、首相斯塔默辭職。對此，斯塔默今天（5月11日）發表演講，誓言要證明那些質疑者是錯的，並表示自己不會辭職，以免將英國推向新的政治危機。斯塔默說，“我不會一走了之。”他警告工黨正在面對“非常危險”的極右翼政黨“英國改革黨”，黨內不能內訌。（CCTV國際時訊）"
-    },
-    {
-      "id": "4872363",
-      "time": "2026-05-11 19:44:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "【比利時將向烏克蘭提供全部F-16戰機】據德國新聞電影片道網站5月11日報道，比利時計劃將其整個F-16戰機編隊提供給烏克蘭。 比利時當地媒體報道稱，到2029年，53架F-16戰機的大部分將轉交給烏克蘭。此舉的前提是，比利時正逐步引入更加先進的F-35戰機以取代F-16。 在此之前，比利時就承諾向烏克蘭提供F-16戰機，且數量超過所有國家。（參考訊息）"
-    },
-    {
-      "id": "te:markets:549648",
-      "time": "2026-05-11 19:44:40",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Cotton Futures Hover Around 2-Year High — Cotton futures traded around 84.7 cents per pound, holding close to the highest since April 2024, mainly supported by elevated oil prices amid ongoing geopolitical tensions. Rising crude oil prices push up polyester production costs, making cotton a more attractive substitute and thereby supporting cotton demand. Meanwhile, attention remains on weather conditions in key US growing regions. Conditions remain dry in the main growing regions of Texas, although isolated rain showers are still expected for much of the Delta and Southeast cotton-producing areas. In the meantime, the latest USDA's weekly crop progress report showed that 21% of the US cotton crop was planted in the week ended May 3, up from 16% a week earlier and above the five-year average of 19%."
-    },
-    {
-      "id": "4872360",
-      "time": "2026-05-11 19:43:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "【多氟多：大圓柱電池產能急需擴大 預計到年底廣西、焦作電池基地合計產能目標超50Gwh】多氟多董事長、總經理李雲峰在今天下午舉行的業績說明會上表示，目前公司大圓柱電池產品訂單飽滿，產能急需擴大，預計廣西、焦作電池基地今年底合計產能目標超50Gwh；2026年公司六氟磷酸鋰計劃出貨6萬噸左右，現階段該產品產銷穩定。另外，公司已建成100噸/年硼穩定同位素系列新材料產線。"
-    },
-    {
-      "id": "mkt:019e16d9-21c9-7dd9-b91f-1b6b07d2cadd",
-      "time": "2026-05-11 19:43:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "WAGE TAX RATES ACROSS OECD COUNTRIES HAVE REACHED THEIR HIGHEST LEVEL IN A DECADE -FT"
     }
   ]
 }
