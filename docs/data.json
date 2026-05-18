@@ -1,7 +1,119 @@
 {
-  "updated": "2026-05-19 03:02:23",
-  "count": 15442,
+  "updated": "2026-05-19 03:06:15",
+  "count": 15447,
   "items": [
+    {
+      "id": "4886476",
+      "time": "2026-05-19 03:04:01",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：我已指示軍方做好準備，一旦無法達成可接受的協議，將隨時待命對伊朗發動全面大規模打擊。"
+    },
+    {
+      "id": "4886475",
+      "time": "2026-05-19 03:03:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們不會按計劃於明天對伊朗發動襲擊。"
+    },
+    {
+      "id": "4886474",
+      "time": "2026-05-19 03:03:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：協議將包括伊朗不能擁有核武器。"
+    },
+    {
+      "id": "4886473",
+      "time": "2026-05-19 03:03:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：如果未能達成可接受的協議，準備對伊朗發動攻擊。"
+    },
+    {
+      "id": "4886472",
+      "time": "2026-05-19 03:03:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：目前正在就伊朗問題進行嚴肅談判。"
+    },
+    {
+      "id": "mkt:019e3c78-8bff-7dd6-889f-0c62f80882a1",
+      "time": "2026-05-19 03:03:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Hot",
+        "Market Themes",
+        "The Trump Trade",
+        "Policy",
+        "Breaking News 24h",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "【Trump Says US Delays Planned Iran Strike Amid New Negotiations】President Donald Trump said the US has postponed a planned military strike on Iran that had been scheduled for Tuesday after requests from Qatar’s Emir Sheikh Tamim bin Hamad Al Thani, Saudi Crown Prince Mohammed bin Salman, and UAE President Mohamed bin Zayed Al Nahyan. Trump said negotiations are underway on a potential deal that would ensure Iran does not obtain nuclear weapons. He added he instructed Defense Secretary Pete Hegseth, Joint Chiefs Chairman General Daniel Caine and the US military to remain prepared for a “full, large scale assault” if an acceptable agreement is not reached."
+    },
+    {
+      "id": "4886471",
+      "time": "2026-05-19 03:03:02",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：此次襲擊原定於明日發起。"
+    },
+    {
+      "id": "4886470",
+      "time": "2026-05-19 03:02:30",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：卡達、沙烏地阿拉伯和阿拉伯聯合大公國要求我推遲原定對伊朗發動的軍事打擊計劃。"
+    },
+    {
+      "id": "mkt:019e3c77-4860-7dd6-889f-03dfdaa5bf76",
+      "time": "2026-05-19 03:01:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "TRUMP: POSTPONING PLANNED MILITARY ATTACK ON IRAN SCHEDULED FOR TOMORROW"
+    },
+    {
+      "id": "4886469",
+      "time": "2026-05-19 03:01:40",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院宣告：批准擬向韓國出售總價 12 億美元的 AH-64E 阿帕奇直升機升級專案。"
+    },
+    {
+      "id": "mkt:019e3c77-097b-7dd6-889e-fcf3b86cb3a7",
+      "time": "2026-05-19 03:01:34",
+      "tags": [
+        "MKT News",
+        "BA.O",
+        "Impact bullish"
+      ],
+      "text": "STATE DEPARTMENT APPROVES POSSIBLE SALE OF AH-64E APACHE UPGRADE PROGRAM TO SOUTH KOREA FOR $1.2 BLN - STATEMENT"
+    },
     {
       "id": "mkt:019e3c75-ff67-7dd6-889e-f707b738e8b6",
       "time": "2026-05-19 03:00:25",
@@ -139536,65 +139648,6 @@
         "其他"
       ],
       "text": "委內瑞拉臨時總統呼籲就委圭領土爭端展開談判。"
-    },
-    {
-      "id": "4873097",
-      "time": "2026-05-12 03:05:32",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "福克斯公司股價創下盤中新高，達到7%，並宣佈將於2026年新增兩場NFL比賽的轉播權。"
-    },
-    {
-      "id": "te:markets:549735",
-      "time": "2026-05-12 03:05:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Ireland",
-        "stocks",
-        "Importance 0"
-      ],
-      "text": "Accenture Stock Price Hits 6-year Low — Accenture shares decreased to 172.46 USD, the lowest since April 2020. Over the past 4 weeks, Accenture lost 10.06%, and in the last 12 months, it decreased 46.44%."
-    },
-    {
-      "id": "4873095",
-      "time": "2026-05-12 03:04:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗議長：伊武裝部隊已做好準備應對任何侵略行為】當地時間11日，伊朗議會議長卡利巴夫在社交平臺上釋出訊息稱，伊朗武裝部隊已做好準備應對任何侵略行為。他指出，全世界都已明白，“錯誤的戰略和錯誤的決策必然導致錯誤的結果”。（央視新聞）"
-    },
-    {
-      "id": "mkt:019e186c-abfe-7dd9-b926-5261e440f0f4",
-      "time": "2026-05-12 03:03:55",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "DXY",
-        "Hang Seng Index",
-        "Impact bearish"
-      ],
-      "text": "NEW IRAN-RELATED SANCTION TARGETS INCLUDE SOME ENTITIES IN HONG KONG -U.S. TREASURY WEBSITE"
-    },
-    {
-      "id": "4873094",
-      "time": "2026-05-12 03:02:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗官員：伊美就濃縮鈾處置方式存在嚴重分歧】當地時間11日，一名伊朗官員稱，伊朗與美國之間的談判在濃縮鈾的處置、暫停鈾濃縮活動期限以及戰爭賠償等問題上存在嚴重分歧。這名伊朗官員表示，美方在其提議中要求獲取伊朗丰度為60%的濃縮鈾，並反對將濃縮鈾轉移至俄羅斯，而是提議轉移到第三國。該官員還表示，伊朗反對將濃縮鈾運至境外，但準備在國際原子能機構的監督下對其進行稀釋處理。（央視新聞）"
-    },
-    {
-      "id": "4873092",
-      "time": "2026-05-12 03:02:24",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國財政部官網：美國出臺新的伊朗相關制裁措施。"
     }
   ]
 }
