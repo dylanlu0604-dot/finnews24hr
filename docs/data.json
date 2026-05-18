@@ -1,7 +1,191 @@
 {
-  "updated": "2026-05-18 08:40:19",
-  "count": 15362,
+  "updated": "2026-05-18 08:43:09",
+  "count": 15379,
   "items": [
+    {
+      "id": "4884476",
+      "time": "2026-05-18 08:41:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：日本村田製作所將在日本滋賀縣興建一座價值169億日元的工廠。"
+    },
+    {
+      "id": "4884475",
+      "time": "2026-05-18 08:40:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌2%，現報74.32美元/盎司。"
+    },
+    {
+      "id": "4884474",
+      "time": "2026-05-18 08:40:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯經濟部長表示，通脹放緩為進一步降息留出空間。"
+    },
+    {
+      "id": "4884473",
+      "time": "2026-05-18 08:40:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4490美元/盎司，日內跌1.58%。"
+    },
+    {
+      "id": "4884472",
+      "time": "2026-05-18 08:40:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【香港銀行上日向金管局貼現窗借取1.5億港元隔夜流動性，為本月首次】據金管局資料和LSEG報價頁面顯示：香港銀行於上週五（15日）向金管局貼現窗借取1.5億港元隔夜流動性；對上一次操作是4月28日。有關資金週一（18日）回籠，香港銀行體系總結餘回落至539.75億港元。"
+    },
+    {
+      "id": "4884471",
+      "time": "2026-05-18 08:39:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4490美元/盎司，日內跌1.07%。"
+    },
+    {
+      "id": "4884470",
+      "time": "2026-05-18 08:39:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【深圳華強：公司透過投資泰科天潤等方式參與碳化矽產業鏈佈局】深圳華強(000062)5月18日在互動平臺表示，公司是國內最早開展第三代半導體技術應用與市場推廣的企業之一，是Wolfspeed的主要代理商，向資料中心電源、光伏儲能、新能源汽車、工業控制等領域眾多頭部客戶提供元器件和軟硬體整體解決方案的一體化服務。公司也透過投資泰科天潤等方式參與碳化矽產業鏈佈局。關於泰科天潤上市進展，建議以其自身及相關監管機構公開披露資訊為準。"
+    },
+    {
+      "id": "4884469",
+      "time": "2026-05-18 08:38:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【美年健康在上海成立新公司 含多項AI業務】企查查APP顯示，近日，美年數科（上海）技術有限公司成立，註冊資本1000萬元，經營範圍包含人工智慧行業應用系統整合服務；人工智慧通用應用系統；人工智慧雙創服務平臺；人工智慧公共資料平臺等。企查查股權穿透顯示，該公司由美年健康間接全資持股。"
+    },
+    {
+      "id": "4884468",
+      "time": "2026-05-18 08:37:55",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【英偉達正洽談領投印度AI初創公司Simplismart總額2000萬美元的融資】英偉達正深入洽談，擬領投總部位於班加羅爾的生成式 AI 與機器學習運維初創企業 Simplismart，本輪融資規模達 2000 萬美元。這筆交易完成後，這家企業級 AI 協同平臺估值預計約 1 億美元。（印度經濟時報）"
+    },
+    {
+      "id": "te:economy:551347",
+      "time": "2026-05-18 08:37:39",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Singapore",
+        "Domestic Exports of Non Oil (nodx) (%yoy)",
+        "Importance 1"
+      ],
+      "text": "Singapore NODX Rises the Most Since 2012 — Singapore’s non-oil domestic exports (NODX) jumped 24.5% yoy in April 2026, accelerating sharply from a 15.3% rise in March. This marked the eighth consecutive month of expansion and the fastest growth since February 2012, with electronics continuing to grow strongly (66.7% vs 73.9% in March), supported by robust AI-related demand. Meanwhile, non-electronics grew 10.9%, rebounding sharply from a 0.6% fall in March,"
+    },
+    {
+      "id": "mkt:019e3884-5c4d-7663-82fc-e46ce16fb7e2",
+      "time": "2026-05-18 08:37:38",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "SPOT GOLD FALLS NEARLY 1% TO $4,485.89/OZ"
+    },
+    {
+      "id": "4884467",
+      "time": "2026-05-18 08:35:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數下跌1%，至8543.80。"
+    },
+    {
+      "id": "4884466",
+      "time": "2026-05-18 08:34:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金日內跌1%，現報4490.62美元/盎司。"
+    },
+    {
+      "id": "4884465",
+      "time": "2026-05-18 08:34:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國總統李在明：企業管理權必須與勞工權利一樣受到尊重。"
+    },
+    {
+      "id": "4884464",
+      "time": "2026-05-18 08:34:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀失守75美元/盎司，日內跌3.52%。"
+    },
+    {
+      "id": "4884463",
+      "time": "2026-05-18 08:34:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4500美元/盎司，日內跌1.44%。"
+    },
+    {
+      "id": "4884462",
+      "time": "2026-05-18 08:34:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4500美元/盎司，日內跌0.88%。"
+    },
+    {
+      "id": "4884461",
+      "time": "2026-05-18 08:34:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌3%，現報75.20美元/盎司。"
+    },
+    {
+      "id": "4884460",
+      "time": "2026-05-18 08:33:57",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4510美元/盎司，日內跌1.19%。"
+    },
+    {
+      "id": "4884459",
+      "time": "2026-05-18 08:33:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4510美元/盎司，日內跌0.65%。"
+    },
+    {
+      "id": "4884458",
+      "time": "2026-05-18 08:33:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期金日內跌1%，現報4515.70美元/盎司。"
+    },
     {
       "id": "4884457",
       "time": "2026-05-18 08:33:07",
@@ -138600,42 +138784,6 @@
         "公司"
       ],
       "text": "【阿波羅洽談出售 30 億美元私人信貸基金】據知情人士透露，阿波羅全球管理正洽談出售中型企業金融投資公司（MidCap Financial Investment Corp.）。該公司是其旗下上市商業發展公司，屬於私人信貸基金範疇。  知情人士提醒稱，相關談判仍在進行中，無法保證最終能就這家代號 MFIC 的基金及其資產投資達成交易；阿波羅對其整體估值約30 億美元。"
-    },
-    {
-      "id": "4871113",
-      "time": "2026-05-11 08:42:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "MSCI亞太指數上漲1%至273.72點。"
-    },
-    {
-      "id": "4871112",
-      "time": "2026-05-11 08:41:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "【美團在青海成立科技新公司】企查查APP顯示，近日，青海三快科技有限公司成立，經營範圍包含：資訊系統整合服務；軟體開發；技術服務、技術開發、技術諮詢、技術交流、技術轉讓、技術推廣；軟體銷售。企查查股權穿透顯示，該公司由美團科技有限公司全資持股。"
-    },
-    {
-      "id": "4871111",
-      "time": "2026-05-11 08:41:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "【泰國前總理他信假釋出獄】當地時間5月11日上午，泰國前總理他信假釋出獄。"
-    },
-    {
-      "id": "te:markets:549428",
-      "time": "2026-05-11 08:41:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "Japan’s Nikkei Hits New Record on Tech Rally — The Nikkei 225 climbed 0.8% to above 63,200 on Monday, reaching a new all-time high as technology shares powered higher on the back of strong corporate earnings and continued optimism surrounding the artificial intelligence sector. Investors also looked past rising oil prices after President Donald Trump rejected Iran’s response to his peace proposal as “TOTALLY UNACCEPTABLE,” leaving the Strait of Hormuz effectively closed. Leading gains among technology stocks came from Kioxia Holdings (9.8%), SoftBank Group (2.1%), Lasertec (4.2%), Fujikura (4.8%), and Tokyo Electron (2.1%). In corporate developments, Sony Group surged 10.5% after unveiling plans to buy back up to ¥500 billion of its shares and forecasting an 11% rise in operating profit for the fiscal year ending March 2027, supported by steady expansion in its music and smartphone image sensor businesses."
     }
   ]
 }
