@@ -1,7 +1,23 @@
 {
-  "updated": "2026-05-19 05:02:01",
-  "count": 15546,
+  "updated": "2026-05-19 05:05:58",
+  "count": 15542,
   "items": [
+    {
+      "id": "4886589",
+      "time": "2026-05-19 05:03:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦調查局探員通報：（聖地亞哥槍擊案）兩名嫌疑人均為青少年，現已雙雙身亡；三名遇難者均為成年男性。"
+    },
+    {
+      "id": "4886588",
+      "time": "2026-05-19 05:01:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聖地亞哥警方局長稱，警方正將此次聖地亞哥伊斯蘭社群中心槍擊事件定性為仇恨犯罪展開調查。"
+    },
     {
       "id": "mkt:019e3ce3-c251-7dd6-88a0-65d92579ad91",
       "time": "2026-05-19 05:00:08",
@@ -140489,55 +140505,6 @@
         "Importance 0"
       ],
       "text": "Ibovespa Falls as Stagflation Concerns Weigh — The Ibovespa dropped 1.2% to close at 181,909 on Monday, as rising oil prices and persistent uncertainty surrounding US-Iran negotiations weighed on investor sentiment. Washington rejected Tehran’s latest peace proposal. Markets remained pressured by fears that higher energy costs could intensify global stagflation risks. Financial stocks led the decline, with Bradesco down 2.7% and Itaú falling 2.2%. Utilities also underperformed, with Azzas losing 2.8%. Telefônica Brasil plunged 6.1% after posting net income below market expectations. Other notable laggards included WEG (-2.9%) and Rede D’Or (-6.1%). In contrast, Petrobras gained 1.7%, supported by firmer crude prices ahead of its earnings release later in the day. Vale also advanced 2.4% amid higher iron ore prices."
-    },
-    {
-      "id": "4873205",
-      "time": "2026-05-12 05:05:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯媒體報道：勝利日停戰期限已正式屆滿。"
-    },
-    {
-      "id": "4873203",
-      "time": "2026-05-12 05:05:20",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "俄羅斯副總理諾瓦克： 俄羅斯預計 2026 年通脹率為 5.2%，2027 年通脹率將回落至央行 4% 的目標水平。"
-    },
-    {
-      "id": "4873202",
-      "time": "2026-05-12 05:04:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯副總理諾瓦克：  俄羅斯維持 2026 年財政預算核算油價預期為每桶 59 美元，將 2027 至 2029 年油價預期下調至每桶 50 美元。"
-    },
-    {
-      "id": "4873201",
-      "time": "2026-05-12 05:04:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "【芬蘭總統：歐洲應考慮直接同俄羅斯對話】芬蘭總統斯圖布在義大利《晚郵報》11日刊登的採訪中表示，如果美國在處理烏克蘭問題上的政策不符合歐洲利益，歐洲應直接與俄羅斯接觸。芬蘭媒體援引採訪內容報道，斯圖布表示，歐洲現在是時候開始同俄羅斯對話了。歐洲領導人已討論過由誰同俄羅斯建立聯絡，但尚不清楚相關對話將於何時開始、由誰出面。斯圖布說，相關接觸可能由一名特使進行，也可能由數國領導人組團進行，“讓我們拭目以待”。（新華社）"
-    },
-    {
-      "id": "4873198",
-      "time": "2026-05-12 05:03:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯副總理諾瓦克： 俄羅斯將 2027 年 GDP 增長預期從 2.8% 下調至 1.4%，預計 2029 年經濟增速將達到 2.4%。"
-    },
-    {
-      "id": "4873196",
-      "time": "2026-05-12 05:02:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯副總理諾瓦克：俄羅斯將2026年經濟增長預測從1.3%下調至0.4%。"
     }
   ]
 }
