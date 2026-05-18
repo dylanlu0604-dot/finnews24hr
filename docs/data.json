@@ -1,7 +1,45 @@
 {
-  "updated": "2026-05-19 02:19:41",
-  "count": 15453,
+  "updated": "2026-05-19 02:23:29",
+  "count": 15451,
   "items": [
+    {
+      "id": "4886447",
+      "time": "2026-05-19 02:22:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破112美元/桶，日內漲2.52%。"
+    },
+    {
+      "id": "te:markets:551687",
+      "time": "2026-05-19 02:20:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Silver Gains by 1.33% — Top commodity gainer is Silver (1.33%). Biggest losers are Platinum (-0.83%), Iron Ore CNY (-0.80%), Steel Rebar (-0.65%) and Gold (-0.12%)."
+    },
+    {
+      "id": "4886446",
+      "time": "2026-05-19 02:19:39",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部發布與俄羅斯相關的通用許可。"
+    },
+    {
+      "id": "4886445",
+      "time": "2026-05-19 02:19:27",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【美國宣佈對古巴實施新一輪制裁】當地時間18日，美國財政部宣佈對古巴實施新一輪制裁。（央視新聞）"
+    },
     {
       "id": "4886444",
       "time": "2026-05-19 02:18:20",
@@ -139637,57 +139675,6 @@
         "其他"
       ],
       "text": "南非總統拉馬福薩：沒有任何理由迫使我辭職。"
-    },
-    {
-      "id": "4873053",
-      "time": "2026-05-12 02:22:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "南非總統拉馬福薩將就“農場門”醜聞專家組調查報告提起法律訴訟，該報告認定拉馬福薩存在不當行為。"
-    },
-    {
-      "id": "4873052",
-      "time": "2026-05-12 02:21:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭反腐敗機構：澤連斯基前辦公廳主任已收到正式涉嫌違法告知書。"
-    },
-    {
-      "id": "mkt:019e1845-9c3c-7dd9-b925-e28bb739ba1c",
-      "time": "2026-05-12 02:21:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ZELENSKIY'S FORMER CHIEF OF STAFF SERVED WITH OFFICIAL NOTICE OF SUSPICION: ANTI-CORRUPTION AGENCY"
-    },
-    {
-      "id": "4873051",
-      "time": "2026-05-12 02:21:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗議會議長卡利巴夫：我們的武裝部隊已準備好對任何侵略作出應有的教訓性回應；錯誤的戰略和錯誤的決定，總是會帶來錯誤的結果，全世界早已明白這一點。我們已為所有選項做好準備；他們將會感到震驚。"
-    },
-    {
-      "id": "te:markets:549728",
-      "time": "2026-05-12 02:20:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Silver Rallies by 6.78% — Top commodity gainers are Silver (6.78%), Platinum (3.93%), Copper (2.73%) and Gold (0.13%)."
-    },
-    {
-      "id": "mkt:019e1844-49af-7dd9-b925-da056d3b2307",
-      "time": "2026-05-12 02:19:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "63% OF AMERICANS SAY RISING GAS PRICES HAVE HURT THEIR HOUSEHOLD FINANCES, UP FROM 55% IN MARCH, REUTERS/IPSOS POLL FINDS 66% OF AMERICANS SAY TRUMP HAS NOT CLEARLY EXPLAINED GOALS OF U.S. WAR IN IRAN, REUTERS/IPSOS POLL FINDS TRUMP APPROVAL RISES TO 36% FROM 34% AFTER HITTING LOWEST LEVEL OF TERM, REUTERS/IPSOS POLL FINDS"
     }
   ]
 }
