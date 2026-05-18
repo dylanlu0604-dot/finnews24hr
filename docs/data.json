@@ -1,7 +1,174 @@
 {
-  "updated": "2026-05-19 01:01:44",
-  "count": 15460,
+  "updated": "2026-05-19 01:05:46",
+  "count": 15467,
   "items": [
+    {
+      "id": "4886404",
+      "time": "2026-05-19 01:04:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：（談及鈾相關議題時）我目前對此事持堅決拒絕態度，暫無任何商談餘地。"
+    },
+    {
+      "id": "4886403",
+      "time": "2026-05-19 01:04:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "Anthropic 宣佈將收購 Stainless 公司。"
+    },
+    {
+      "id": "4886402",
+      "time": "2026-05-19 01:03:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "美軍中央司令部：持續嚴格執行針對伊朗港口的封鎖措施，美軍目前已攔截調轉 85 艘商船，確保相關禁令全面落實。"
+    },
+    {
+      "id": "mkt:019e3c0b-1a36-7dd6-889d-23c17a78aa8c",
+      "time": "2026-05-19 01:03:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Hot",
+        "Market Themes",
+        "The Trump Trade",
+        "Policy",
+        "Breaking News 24h",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Trump Signals Tougher Stance After Iran’s Latest Proposal】President Donald Trump said he is “not open” to concessions for Iran after receiving Tehran’s latest response in diplomatic talks, according to an interview with the New York Post. Trump said Iran knows “what’s going to be happening soon” but declined to provide details. He spoke after meeting with his national security team over the weekend as discussions on Iran continued. Trump also said Iran wants a deal “more than ever” and declined to comment on reports Tehran may be attempting to delay negotiations over the nuclear issue and the Strait of Hormuz."
+    },
+    {
+      "id": "4886401",
+      "time": "2026-05-19 01:03:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "戴爾：谷歌與戴爾達成合作，在戴爾 PowerEdge XE9780 伺服器上，部署谷歌分散式雲端的 Gemini 3 Flash 系列模型。"
+    },
+    {
+      "id": "4886400",
+      "time": "2026-05-19 01:02:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "戴爾： SpaceX旗下AI部門攜手戴爾，將 Grok 高階推理與多模態能力落地，打造安全性更強的企業級智慧助手。"
+    },
+    {
+      "id": "te:markets:551681",
+      "time": "2026-05-19 01:02:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Gold Pares Rebound — Gold prices fell to the $4,550 per ounce mark on Monday, testing their lowest since late March as pro-inflationary forces backed the likelihood of a hawkish response by the Federal Reserve. The US and Iran maintained their stalemate over the weekend, prolonging the blockade of commercial vessels crossing the Strait of Hormuz to extend the global shortage of oil and refined fuel. Energy prices rose further to test their post-war peaks, adding to pre-inflationary risks and strengthening the argument for hawkish members in the Fed and other major central banks. Higher energy prices had already triggered a surge in producer prices in April, while consumer inflation rose to a three-year high. Restrictive interest rates lift bond yields and drive investors to favor fixed-income assets instead of coupon-less precious metals, pressuring bullion prices."
+    },
+    {
+      "id": "4886399",
+      "time": "2026-05-19 01:02:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "戴爾：英偉達面向戴爾人工智慧算力工廠推出OpenShell與NVIDIA AI-Q 2.0，同步上線英偉達及戴爾聯合打造的 AI-Q 2.0 參考架構，現已正式推出。"
+    },
+    {
+      "id": "mkt:019e3c09-d95c-7dd6-889d-1ad5c4cb1150",
+      "time": "2026-05-19 01:02:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "TRUMP: IRAN KNOWS WHAT’S GOING TO BE HAPPENING SOON - NYP TRUMP: I AM NOT OPEN TO CONCESSIONS FOR IRAN - NYP"
+    },
+    {
+      "id": "4886398",
+      "time": "2026-05-19 01:01:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "戴爾：拓展與Mistral AI的合作，將其語言與推理模型及編排工具引入戴爾AI工廠。Mistral AI採用戴爾人工智慧基礎設施，支援大語言模型的規模化訓練與部署。"
+    },
+    {
+      "id": "mkt:019e3c09-26e8-7dd6-889d-134341323697",
+      "time": "2026-05-19 01:01:31",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "DELL.O",
+        "Impact bullish"
+      ],
+      "text": "DELL: AI SOLUTIONS WILL BE AVAILABLE THROUGH 2026"
+    },
+    {
+      "id": "mkt:019e3c09-0d82-7dd6-889d-0bd37644323a",
+      "time": "2026-05-19 01:01:26",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "DELL.O",
+        "Impact bullish"
+      ],
+      "text": "DELL: REFLECTION’S OPEN-SOURCE FRONTIER AI MODELS COMING ON-PREMISES ON DELL AI FACTORY"
+    },
+    {
+      "id": "mkt:019e3c09-005c-7dd6-889d-03cca47765d9",
+      "time": "2026-05-19 01:01:23",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "DELL.O",
+        "Impact bullish"
+      ],
+      "text": "DELL: SERVICENOW CUSTOMERS WILL BE ABLE TO LEVERAGE DELL AI FACTORY"
+    },
+    {
+      "id": "4886397",
+      "time": "2026-05-19 01:01:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "戴爾：禮來製藥藉助戴爾方案規模化推進人工智慧賦能的藥物研發與生產。"
+    },
+    {
+      "id": "mkt:019e3c08-f048-7dd6-889c-fffd9421f9ac",
+      "time": "2026-05-19 01:01:19",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "DELL.O",
+        "Impact bullish",
+        "NVDA"
+      ],
+      "text": "DELL: DELL AI FACTORY WITH NVIDIA ADVANCEMENTS SPAN AGENTIC AI, DATA ORCHESTRATION, NEXT-GEN INFRASTRUCTURE & EXPANDING OPEN ECOSYSTEM"
+    },
+    {
+      "id": "4886396",
+      "time": "2026-05-19 01:01:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "戴爾正攜手三星電子，共建人工智慧驅動型半導體制造基礎設施。"
+    },
     {
       "id": "mkt:019e3c08-d30a-7dd6-889c-f7e3057ef4ee",
       "time": "2026-05-19 01:01:11",
@@ -139601,83 +139768,6 @@
         "國際"
       ],
       "text": "【特朗普稱美伊停火協議命懸一線 華府考慮恢復軍事行動可能性】美伊停火週一陷入尤為脆弱的階段，特朗普拒絕德黑蘭最新和平提議，並稱該協議“處於嚴重依賴生命維持裝置的狀態”。特朗普週一在白宮橢圓形辦公室對記者表示，伊朗的最新回應是“一堆垃圾”，他“甚至沒有看完”。一名知情人士稱，伊朗要求華盛頓解除海上封鎖並放鬆制裁，同時堅持對霍爾木茲海峽航運保留一定控制權。特朗普未說明美國是否會恢復對伊朗的軍事打擊，但他此前曾威脅稱，如果伊朗領導層不接受其條件，將採取行動。他週一早些時候表示，正在考慮恢復護航計劃以協助船隻透過霍爾木茲海峽。三名美國官員透露，在週日與伊朗的談判陷入僵局後，特朗普將於週一與國家安全團隊會面，討論伊朗戰爭下一步行動，包括可能恢復軍事行動。"
-    },
-    {
-      "id": "4872984",
-      "time": "2026-05-12 01:05:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【受天氣影響 涉疫郵輪將在西班牙特內里費島靠岸】西班牙衛生部11日表示，受天氣影響，離岸數百米下錨的涉疫郵輪“洪迪厄斯”號將在西班牙特內里費島靠岸，以保障船上人員安全。"
-    },
-    {
-      "id": "4872983",
-      "time": "2026-05-12 01:03:06",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "美國財政部拍賣580億美元五年期國債，得標利率3.965%（4月27日為3.955%），投標倍數2.54（前次為2.33）。"
-    },
-    {
-      "id": "4872982",
-      "time": "2026-05-12 01:02:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "英國政府：外交大臣宣佈對支援伊朗敵對活動的組織和個人實施制裁。"
-    },
-    {
-      "id": "4872981",
-      "time": "2026-05-12 01:02:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國防部長赫格塞思今天在五角大樓會見了韓國國防部長。"
-    },
-    {
-      "id": "4872980",
-      "time": "2026-05-12 01:02:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "德國漢莎航空公司：雙發遠端客機預計將於2032年至2034年間交付。"
-    },
-    {
-      "id": "4872979",
-      "time": "2026-05-12 01:02:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "德意志漢莎航空公司：按目錄價格訂購10架空客A350-900及10架波音787-9，訂單總目錄價為77億美元。"
-    },
-    {
-      "id": "mkt:019e17fd-265d-7dd9-b925-27ee29f7fda7",
-      "time": "2026-05-12 01:02:06",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 3-Year Note Auction Bid/Cover Ratio (May.11) | actual 2.54 | previous 2.68"
-    },
-    {
-      "id": "mkt:019e17fd-2659-7dd9-b925-1efa0c3f2ca2",
-      "time": "2026-05-12 01:02:06",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 3-Year Note Auction Accepted at High (May.11) | actual 37.53% | previous 64.47%"
-    },
-    {
-      "id": "mkt:019e17fd-2645-7dd9-b925-15948793071d",
-      "time": "2026-05-12 01:02:06",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 3-Year Note Auction High Yield Rate (May.11) | actual 3.965% | previous 3.90%"
     }
   ]
 }
