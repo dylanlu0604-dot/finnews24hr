@@ -1,7 +1,70 @@
 {
-  "updated": "2026-05-18 08:11:47",
+  "updated": "2026-05-18 08:15:27",
   "count": 15361,
   "items": [
+    {
+      "id": "4884429",
+      "time": "2026-05-18 08:14:47",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）下跌4%，至7190.48點。"
+    },
+    {
+      "id": "te:economy:551345",
+      "time": "2026-05-18 08:14:23",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Japan 10Y Bond Yield Hits Near 29-year High — Japan 10 Year Government Bond Yield increased to 2.78%, the highest since May 1997. Over the past 4 weeks, Japan 10Y Bond Yield gained 30.62 basis points, and in the last 12 months, it increased 121.71 basis points."
+    },
+    {
+      "id": "4884428",
+      "time": "2026-05-18 08:14:22",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "【中信證券：AI+能化預計是今年更合適的結構】中信證券研報稱，此輪結構性行情的資金驅動力主要來源於存量調倉和融資盤流入，TMT成交佔比階段性見頂後，我們估計全A換手率會逐步回落至1.8%以下。特朗普訪華確立了中美關係回到“競爭但不衝突”的框架，不過市場情緒可能是階段性高位，一旦情緒回落，全球流動性收緊預期在投資者決策中的影響權重會開始上升。降溫後，市場結構的多元化特徵料將會有所迴歸，重返槓鈴結構的必要性在增加，預計AI+能化是今年更合適的結構。"
+    },
+    {
+      "id": "4884427",
+      "time": "2026-05-18 08:12:56",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "三星電子股價下跌3%。"
+    },
+    {
+      "id": "4884426",
+      "time": "2026-05-18 08:12:35",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【國金證券：AI應用加速落地，PCB與光纖產業鏈迎結構性高增長】國金證券研報表示，AI應用加速落地，PCB與光纖產業鏈迎結構性高增長。AI伺服器推動PCB向高多層、HDI方向演進，光纖行業受益於資料中心架構升級，超低損耗及特種光纖需求提升。光纖擴產帶動上游四氯化矽需求，當前價格處於歷史低位，有望底部回暖。建議關注具備規模技術優勢的PCB化學品企業及高純四氯化矽產能企業。"
+    },
+    {
+      "id": "4884425",
+      "time": "2026-05-18 08:12:23",
+      "tags": [
+        "資料"
+      ],
+      "text": "【中國銀河證券：中期上行趨勢不變，繼續強調聚焦主線機會】據中國銀河證券研報稱，在A股市場震盪上行、創業板指重新整理歷史新高後，不排除部分資金獲利了結、投資者分歧加大的可能，短期大機率會切換為“震盪消化、慢牛走高、結構牛市”的全新節奏。中期來看，上行趨勢並未改變。這一輪創業板創新高，核心是產業週期與業績兌現雙驅動。這一輪行情最大的特點是高景氣兌現，基本面支撐強。當前A股資金持續從金融、地產、傳統週期等存量低增長行業集中流向高研發、高壁壘、高增量的硬科技成長賽道。隨著盈利持續釋放、估值穩步抬升、增量資金持續入場，中期上行趨勢不變，繼續強調聚焦主線機會。配置機會：關注一：堅守科技景氣核心主線，TMT與中游製造是修復的主攻方向，半導體、其他電子、通訊裝置、航海裝備、電池等板塊表現較優，但需要注意的是，隨著部分熱點高位分化，內部輪動特徵或將顯現，商業航天、人形機器人等相對滯漲板塊獲得資金關注。關注二：修復動能向資源品和部分消費服務擴散，包括受益於PPI回升與漲價邏輯的基礎化工、有色金屬、建築材料、鋼鐵等板塊，同時消費細分領域受益於景氣修復與政策支援。同時，重視防禦性底倉的配置價值，關注煤炭、金融、公用事業等。"
+    },
+    {
+      "id": "4884424",
+      "time": "2026-05-18 08:11:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞標普/澳證200指數早盤下跌0.7%，報8571.20點。"
+    },
     {
       "id": "4884423",
       "time": "2026-05-18 08:11:10",
@@ -138578,69 +138641,6 @@
         "觀點"
       ],
       "text": "【中信證券：增配商品、黃金和權益資產，看好成長風格和小市值風格】中信證券研報稱，展望2026年5月，大類資產配置層面，建議增配黃金、商品和權益資產；股票風格配置層面，看好小市值風格和成長風格；股票行業配置層面，鋰電池和半導體等行業具有較好的配置價值。截至2026年4月末，今年以來高頻宏觀因子配置組合、成長/價值風格配置組合、大盤/小盤風格配置組合、股票行業配置組合實現絕對收益分別為7.0%、13.9%、10.7%和9.5%。"
-    },
-    {
-      "id": "4871086",
-      "time": "2026-05-11 08:14:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "【天舟十號貨運飛船點火發射】今天上午， 搭載天舟十號貨運飛船的長征七號遙十一運載火箭，在中國文昌航天發射場點火發射。（央視）"
-    },
-    {
-      "id": "4871085",
-      "time": "2026-05-11 08:14:41",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【以色列總理稱與伊朗戰事未結束】在美國哥倫比亞廣播公司（CBS）電視節目《60分鐘》當地時間5月10日播出的一段採訪中，以色列總理內塔尼亞胡稱“與伊朗的戰事還沒有結束”，強調“必須將伊朗的高濃縮鈾運出並拆除其相關核設施”。 內塔尼亞胡談及可能的移除計劃時稱，“派人進去，把它取出來”。但他拒絕回答節目主持人“是派以色列特種部隊還是派美國特種部隊”的問題。他稱，實現這一計劃的“最佳途徑”是透過達成協議，“這是一項極其重要的任務”，但不會為它設定時間表。 （CCTV國際時訊）"
-    },
-    {
-      "id": "4871084",
-      "time": "2026-05-11 08:14:11",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "索尼股價大漲8.5%，索尼與臺積電將在日本熊本成立晶片合資公司。"
-    },
-    {
-      "id": "4871083",
-      "time": "2026-05-11 08:13:13",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "任天堂股價在財報和預期不及預期後下跌9%。"
-    },
-    {
-      "id": "4871082",
-      "time": "2026-05-11 08:13:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣州海珠上線AI場景交易平臺：首批49個訂單 超1300萬元】5月9日，廣州市海珠區人工智慧場景交易平臺正式上線。平臺設定場景機會訂單（全國）、場景能力庫（全國）、投資機會、超級場景等功能板塊，首批發布49個場景訂單（超1300萬元）。預計到年底，平臺累計上架訂單超400個，入駐AI能力企業超1500家。"
-    },
-    {
-      "id": "4871081",
-      "time": "2026-05-11 08:12:38",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信證券：預計垃圾焚燒發電行業未來仍能保持高景氣度與業績穩健增長】中信證券研報稱，2025年垃圾焚燒發電行業收入降幅縮窄，業績走出週期底部，運營端&非運營端均呈現持續改善趨勢。我們測算行業自由現金流同比增長186%，絕對金額增長142億元。行業分紅訊號轉向積極，DPS與派息率均實現增長。隨著行業持續加碼併購&出海，預計未來仍能保持高景氣度與業績穩健增長。"
-    },
-    {
-      "id": "te:markets:549425",
-      "time": "2026-05-11 08:11:49",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Silver Slips as Trump Rejects Iran Response — Silver prices fell below $80 an ounce on Monday, giving back part of last week’s gains after President Donald Trump rejected Iran’s response to his peace proposal as “TOTALLY UNACCEPTABLE,” sustaining concerns over inflationary pressures. Reports indicated that Tehran had offered to move part of its highly enriched uranium stockpile to a third country, while refusing to dismantle its nuclear facilities. Meanwhile, renewed attacks across the Middle East over the weekend threatened to undermine a fragile ceasefire that took effect in early April. The Strait of Hormuz also remains effectively closed as Washington and Tehran continue to struggle toward a diplomatic resolution to the conflict, keeping energy prices elevated and intensifying inflation concerns. That strengthened expectations that central banks may raise interest rates further to contain price pressures, a development that tends to weigh on precious metals."
     }
   ]
 }
