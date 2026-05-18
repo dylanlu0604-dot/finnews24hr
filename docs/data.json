@@ -1,7 +1,50 @@
 {
-  "updated": "2026-05-19 04:46:12",
-  "count": 15534,
+  "updated": "2026-05-19 04:50:08",
+  "count": 15536,
   "items": [
+    {
+      "id": "mkt:019e3cd7-6847-7dd6-88a0-3060abbb8f6f",
+      "time": "2026-05-19 04:46:50",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "JAPAN OFFICIAL: JAPAN HAS INTERVENTION CAPACITY IN DEPOSITS AND CASH"
+    },
+    {
+      "id": "4886575",
+      "time": "2026-05-19 04:46:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務省官員：日本具備動用存款及現金開展匯市干預的能力。"
+    },
+    {
+      "id": "mkt:019e3cd6-fecf-7dd6-88a0-2ca92c164d32",
+      "time": "2026-05-19 04:46:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US TO HOST G20 FOREIGN MINISTERS' MEETING IN ATLANTA OCT 30-31 - STATE DEPT"
+    },
+    {
+      "id": "4886574",
+      "time": "2026-05-19 04:46:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務省官員：美債收益率走高或致日元走低。"
+    },
+    {
+      "id": "4886573",
+      "time": "2026-05-19 04:46:07",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本財務省官員：密切留意美國拋售國債行為給日元帶來的波動風險。"
+    },
     {
       "id": "mkt:019e3cd6-6f67-7dd6-88a0-235545fa3f0e",
       "time": "2026-05-19 04:45:46",
@@ -140406,34 +140449,6 @@
         "公司"
       ],
       "text": "墨西哥在新萊昂州查獲20.5 萬升被盜燃油，發現一處連線墨西哥國家石油公司（PEMEX）輸油管道的盜油隧道。"
-    },
-    {
-      "id": "4873177",
-      "time": "2026-05-12 04:49:02",
-      "tags": [
-        "公司",
-        "央行",
-        "國際"
-      ],
-      "text": "【英國金融科技公司 Wise 在美雙重上市，完成交易首秀】Wise Group Plc.已經在納斯達克掛牌交易（程式碼為WSE），5月11日收跌3.5%，報15.40美元，旨在利用美國更龐大的股票市場及其龐大的投資者群體。Wise執行長Kristo Kaarmann表示，雙重上市旨在增加流動性並延長交易時間。Wise正尋求透過其Wise Platform業務在美國擴張，並已申請組建美國國家信託銀行，以連線美聯儲的支付系統。"
-    },
-    {
-      "id": "4873176",
-      "time": "2026-05-12 04:48:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "ITV報道稱，英國副首相拉米敦促斯塔默給出辭職時間表。"
-    },
-    {
-      "id": "mkt:019e18cc-899d-7dd9-b926-e09620a14540",
-      "time": "2026-05-12 04:48:38",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "UK DEPUTY PM LAMMY URGING STARMER TO SET OUT A TIMETABLE TO QUIT, ITV REPORTS"
     }
   ]
 }
