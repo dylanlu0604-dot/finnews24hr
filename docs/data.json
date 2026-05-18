@@ -1,7 +1,73 @@
 {
-  "updated": "2026-05-18 14:06:35",
-  "count": 15570,
+  "updated": "2026-05-18 14:10:32",
+  "count": 15574,
   "items": [
+    {
+      "id": "te:economy:551460",
+      "time": "2026-05-18 14:09:24",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Norway",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Norway 10Y Bond Yield Hits 17-1/2-year High — Norway 10 Year Government Bond Yield increased to 4.60%, the highest since October 2008. Over the past 4 weeks, Norway 10Y Bond Yield gained 18.50 basis points, and in the last 12 months, it increased 49.85 basis points."
+    },
+    {
+      "id": "te:markets:551459",
+      "time": "2026-05-18 14:09:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Head for Lower Open — European equity markets were poised for a lower open on Monday, extending losses from the previous session as renewed US-Iran tensions drove oil prices higher, fueling inflation concerns and strengthening expectations for interest rate hikes. In the latest developments, President Donald Trump warned that Tehran is running out of time to secure an agreement with Washington, while Iranian media reports suggested negotiations remain deadlocked. A nuclear facility in the United Arab Emirates also came under attack, raising fresh doubts over the durability of the fragile US-Iran ceasefire. Meanwhile, investors are awaiting Italian trade balance data and Turkish consumer confidence figures for additional economic signals. In corporate news, Ryanair CFO Neil Soarahan said the airline has prepared for an “armageddon situation” amid the worsening jet fuel crisis. In premarket trading, Euro Stoxx 50 futures fell 1%, while Stoxx 600 futures declined 0.6%."
+    },
+    {
+      "id": "4885078",
+      "time": "2026-05-18 14:09:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【智元遠征A3正式上線擎天租】5月18日，智元遠征A3正式上線擎天租平臺，遠征A3的輕量化部署、長續航、強表現力與高定製能力，補齊了高階人形機器人在RaaS（Robot as a Service，機器人即服務）模式下規模化交付的關鍵拼圖。"
+    },
+    {
+      "id": "4885077",
+      "time": "2026-05-18 14:06:52",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本40年期國債收益率上升13個基點至4.345%。"
+    },
+    {
+      "id": "4885076",
+      "time": "2026-05-18 14:06:43",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "阿布扎比股指<.FTFADGI>早盤下跌1%。"
+    },
+    {
+      "id": "4885075",
+      "time": "2026-05-18 14:06:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外交部阿富汗事務特使嶽曉勇訪問阿富汗和卡達】2026年5月10日至16日，外交部阿富汗事務特使嶽曉勇訪問阿富汗和卡達。在阿富汗期間，分別會見外長穆塔基、內政部長高階顧問阿納斯·哈卡尼等，就中阿關係和有關國際地區問題交換意見。在卡達期間，會見外交部國務大臣胡萊菲，就共同關心的問題交換意見。"
+    },
+    {
+      "id": "4885074",
+      "time": "2026-05-18 14:06:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【西藏玉龍銅礦深部取得重大找礦突破】近日，自然資源部發布西藏自治區江達縣玉龍銅礦資源儲量核實勘查專案成果：礦區新增銅資源量131.42萬噸、鉬資源量10.77萬噸、銀資源量793噸。至此，玉龍礦區累計查明銅資源量已達753.4萬噸、鉬資源量45.9萬噸、銀資源量3048噸，標誌著青藏高原大型銅多金屬資源基地建設邁上了新臺階。"
+    },
     {
       "id": "4885073",
       "time": "2026-05-18 14:05:52",
@@ -9,6 +75,14 @@
         "國際"
       ],
       "text": "日本財務大臣片山皋月：現階段不討論追加預算的具體內容。"
+    },
+    {
+      "id": "4885072",
+      "time": "2026-05-18 14:05:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【機構：MLCC價格迴圈已來到反轉向上的關鍵點】根據TrendForce集邦諮詢最新調查，旺盛的AI晶片需求導致高階MLCC供需偏緊，並壓縮消費類MLCC供貨，促使部分代理商展開預防性囤購，供應商則以調價回應。近期ODM與供應商議價結果也顯示，整體MLCC價格平均降幅創下近三年新低，顯示MLCC價格迴圈已來到反轉向上的關鍵點。"
     },
     {
       "id": "4885071",
@@ -140510,48 +140584,6 @@
         "其他"
       ],
       "text": "【福耀科技大學新增5個專業】近日，教育部公佈了2026年度普通高等學校本科專業備案和審批結果，福耀科技大學獲批未來機器人、人工智慧、智慧車輛工程、生物科學、數字經濟五個本科專業。其中，未來機器人專業是2026年首批被列入本科專業目錄\"交叉學科\"門類的專業之一。 2025年，福耀科技大學已獲批智慧製造工程、電腦科學與技術、材料科學與工程、車輛工程四個本科專業。目前，福耀科技大學本科專業總數增至9個。"
-    },
-    {
-      "id": "4871589",
-      "time": "2026-05-11 14:10:13",
-      "tags": [
-        "其他",
-        "焦點",
-        "A股"
-      ],
-      "text": "滬深兩市成交額連續第4個交易日突破3萬億，較上一日此時放量超4500億，預計全天成交金額近3.6萬億。"
-    },
-    {
-      "id": "mkt:019e15a6-fe3d-7dd9-b91b-a24352075e75",
-      "time": "2026-05-11 14:08:46",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bearish"
-      ],
-      "text": "CHINA JAN-APRIL VEHICLE SALES -4.8 % Y/Y VS +10.8% A YEAR AGO - INDUSTRY ASSOCIATION CHINA APRIL VEHICLE SALES -2.5 % Y/Y VS -0.6% IN MARCH - INDUSTRY ASSOCIATION"
-    },
-    {
-      "id": "4871588",
-      "time": "2026-05-11 14:07:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "【法拉第未來中國公司近一年多次增資 法拉第未來中國公司今年被限消】天眼查App顯示，法拉第未來中國關聯公司法法汽車（中國）有限公司成立於2017年3月，法定代表人為王志剛，註冊資本4.81億人民幣，經營範圍包括新能源汽車整車銷售、汽車零部件及配件製造、汽車零配件批發等，由樂視汽車科技（北京）有限公司、FF Hong Kong Holding Limited共同持股。變更記錄顯示，自去年1月以來，該公司曾多次增資。法律訴訟資訊顯示，今年2月，該公司及其法定代表人被限制高消費。"
-    },
-    {
-      "id": "4871587",
-      "time": "2026-05-11 14:07:17",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點",
-        "焦點"
-      ],
-      "text": "【證券板塊短線拉昇，錦龍股份漲停】證券板塊短線拉昇，錦龍股份漲停，長江證券、華安證券、光大證券、中原證券、東方財富等紛紛走高。相關ETF方面，證券ETF易方達（512570）漲1.29%，成交額1.24億元，證券ETF天弘（159841）漲1.22%，成交額2.75億元。"
     }
   ]
 }
