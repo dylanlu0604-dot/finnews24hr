@@ -1,7 +1,76 @@
 {
-  "updated": "2026-05-18 14:02:45",
-  "count": 15565,
+  "updated": "2026-05-18 14:06:35",
+  "count": 15570,
   "items": [
+    {
+      "id": "4885073",
+      "time": "2026-05-18 14:05:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山皋月：現階段不討論追加預算的具體內容。"
+    },
+    {
+      "id": "4885071",
+      "time": "2026-05-18 14:04:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "迪拜股票指數早盤下跌1%。"
+    },
+    {
+      "id": "mkt:019e39af-31d1-7dd6-8894-4377af88d119",
+      "time": "2026-05-18 14:04:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "DUBAI'S SHARE INDEX DOWN 1% IN EARLY TRADE - LSEG"
+    },
+    {
+      "id": "4885070",
+      "time": "2026-05-18 14:03:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "傑富瑞將聯合利華目標價從4300便士下調至3700便士。"
+    },
+    {
+      "id": "te:economy:551457",
+      "time": "2026-05-18 14:03:46",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Indonesia",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Indonesia 10-Year Yield Rises to Near 3-Week High — Indonesia’s 10-year bond yield increased to 6.85%, hovering near a three-week high after U.S. Treasury yields hit a 16-month peak. Inflationary pressures linked to the Middle East conflict reinforced views that the Fed could raise interest rates later this year, prompting investors to reduce exposure to emerging-market assets. Locally, pressure on local bonds mounted as the rupiah repeatedly slid to fresh record lows against the U.S. dollar since April, fuelling concerns over capital outflows and imported inflation. Investors also stayed cautious ahead of Bank Indonesia’s policy meeting this week, after President Prabowo dismissed concerns that the rupiah’s weakness reflected a deteriorating economy. Softer domestic fundamentals added to the strain, as retail sales rose the least in nine months during March, and the April consumer mood was near a five-month low. Still, losses were capped by recent government measures to roll out a bond stabilisation fund aimed at stabilising markets."
+    },
+    {
+      "id": "4885069",
+      "time": "2026-05-18 14:02:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "瑞安航空：儘管目前中東衝突不斷，需求依然堅挺，只是預訂週期較去年更短。"
+    },
+    {
+      "id": "4885068",
+      "time": "2026-05-18 14:02:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "瑞安航空：歐洲目前航空燃油供應仍相對充足。"
+    },
+    {
+      "id": "4885067",
+      "time": "2026-05-18 14:02:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指跌1.01%，現報3889.314點；上證指數跌0.54%，現報4113.018點；深證成指跌0.77%，現報15441.486點。"
+    },
     {
       "id": "mkt:019e39ad-8a38-7dd6-8894-3800d1fac7a8",
       "time": "2026-05-18 14:02:14",
@@ -12,12 +81,29 @@
       "text": "HK SEMICONDUCTOR STOCKS WEAKEN IN AFTERNOON TRADE: SMIC DOWN OVER 4%, INNOSCIENCE DOWN OVER 8%, GIGADEVICE TRIMS GAINS TO UNDER 6%"
     },
     {
+      "id": "4885066",
+      "time": "2026-05-18 14:02:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣西環江車輛墜河事件已致4死】今天（5月18日）上午12時左右，記者在環江過橋車輛墜河事發地漫水橋下游河段看到，救援隊伍新搜尋到兩名失聯人員，三艘救援橡皮艇正在河面穿梭行進。經環江縣有關部門確認，截至18日下午2時，已有4人死亡，仍有6人失聯。（央廣網）"
+    },
+    {
       "id": "4885065",
       "time": "2026-05-18 14:02:04",
       "tags": [
         "國際"
       ],
       "text": "烏克蘭與匈牙利將於本週舉行專家級會談。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202605183740281332",
+      "time": "2026-05-18 14:01:46",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【中國PPI累計漲幅2023年以來首轉正 官方稱多種因素所致】今年1至4月中國工業生產者出廠價格指數(PPI)同比由一季度下降0.6%轉為上漲0.2%，這是2023年以來該指數累計漲幅首次轉正。國家統計局新聞發言人王冠華18日在北京表示，當前工業品價格回升是多種因素共同作用的結果。"
     },
     {
       "id": "4885064",
@@ -140466,53 +140552,6 @@
         "焦點"
       ],
       "text": "【證券板塊短線拉昇，錦龍股份漲停】證券板塊短線拉昇，錦龍股份漲停，長江證券、華安證券、光大證券、中原證券、東方財富等紛紛走高。相關ETF方面，證券ETF易方達（512570）漲1.29%，成交額1.24億元，證券ETF天弘（159841）漲1.22%，成交額2.75億元。"
-    },
-    {
-      "id": "mkt:019e15a4-641c-7dd9-b91b-9ae1033e9383",
-      "time": "2026-05-11 14:05:55",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bullish"
-      ],
-      "text": "SHANGHAI COMPOSITE INDEX UP OVER 1%"
-    },
-    {
-      "id": "4871586",
-      "time": "2026-05-11 14:05:45",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒生指數、恒生科技指數午後翻紅。"
-    },
-    {
-      "id": "4871585",
-      "time": "2026-05-11 14:05:43",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本40年期國債收益率上升6.5個基點，至4.04%。"
-    },
-    {
-      "id": "4871584",
-      "time": "2026-05-11 14:05:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "【神舟二十三號載人飛行任務標識釋出】中國載人航天工程辦公室正式釋出神舟二十三號載人飛行任務標識。標識採用圓形設計，展現了神舟二十三號載人飛船即將與中國空間站對接的場景，彰顯了中國載人航天的硬核科技實力。標識中三顆五角星對應執行任務的三位航天員；左側以長征二號F運載火箭發射為視覺主體，搭配金色祥雲、如意紋樣，將傳統吉祥元素與現代航天科技相融，寄託任務圓滿成功的美好祝願，彰顯傳統文化與航天事業的深度融合；右側融合“飛天”形象與靈動飄帶，線條昂揚向上，與圓形輪廓相得益彰，以經典文化符號承載中華民族千年飛天夢想與探索蒼穹的堅定信念。標識色彩以科技藍為主色調，象徵著太空探索與科技突破；以中國紅點綴，既傳承神舟系列標識視覺基因，也寓意著任務順利、一往無前。（央視新聞）"
-    },
-    {
-      "id": "4871583",
-      "time": "2026-05-11 14:03:22",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "上證指數漲1.01%，現報4222.044點；深證成指漲2.04%，現報15881.950點；創業板指漲3.43%，現報3926.304點。"
     }
   ]
 }
