@@ -1,7 +1,36 @@
 {
-  "updated": "2026-05-19 06:56:00",
-  "count": 15590,
+  "updated": "2026-05-19 06:59:52",
+  "count": 15591,
   "items": [
+    {
+      "id": "4886682",
+      "time": "2026-05-19 06:59:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國首個二氧化碳地熱能專案投產】記者今天（19日）從中國華能獲悉，我國首個地熱能超臨界二氧化碳取熱專案在河南鄭州正式投產，標誌著我國地熱能高效開發利用領域實現新突破。（央視新聞）"
+    },
+    {
+      "id": "4886681",
+      "time": "2026-05-19 06:57:58",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【沃什將於22日宣誓就任美聯儲主席】多家美國媒體18日報道，凱文·沃什將於5月22日宣誓就任美國聯邦儲備委員會主席一職。 一名白宮官員表示，美國總統特朗普屆時將在白宮為沃什舉行就職儀式。（新華社）"
+    },
+    {
+      "id": "te:economy:551707",
+      "time": "2026-05-19 06:57:17",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "Producer Price Inflation MoM",
+        "Importance 1"
+      ],
+      "text": "New Zealand PPI Output Rises More than Expected — Producer output prices in New Zealand climbed 0.8% quarter-on-quarter in the March quarter of 2026, accelerating from a 0.1% increase in the previous quarter and exceeding expectations of a 0.5% rise. It marked the fastest pace since the first quarter of 2025."
+    },
     {
       "id": "te:economy:551706",
       "time": "2026-05-19 06:55:08",
@@ -140885,22 +140914,6 @@
         "其他"
       ],
       "text": "英國4月BRC同店銷售同比 -3.4%，預期 0.8%，前值 3.1%。"
-    },
-    {
-      "id": "4873255",
-      "time": "2026-05-12 06:59:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：OpenAI 聯合創始人、前首席科學家伊利亞・蘇茨克韋爾表示，其持有這家 ChatGPT 開發企業的股份價值約70 億美元，使其躋身這家人工智慧初創公司最大個人股東之列。"
-    },
-    {
-      "id": "4873254",
-      "time": "2026-05-12 06:58:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "【人民日報鐘聲：以大歷史觀把握中美關係發展方向】人民日報鐘聲文章指出，越是動盪時刻，世界越期待穩定的力量。中美兩國各展所長、攜手共進，多辦有利於兩國和世界的大事、實事、好事，將為破解全球性難題、推動人類共同發展，提供更多“1+1＞2”的解決方案。期待以中美元首會晤為契機，中美兩國共同走出一條正確相處之道，相互成就，共同繁榮，惠及世界。"
     }
   ]
 }
