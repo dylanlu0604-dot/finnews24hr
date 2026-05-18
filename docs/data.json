@@ -1,7 +1,43 @@
 {
-  "updated": "2026-05-18 12:09:20",
+  "updated": "2026-05-18 12:13:15",
   "count": 15533,
   "items": [
+    {
+      "id": "4884913",
+      "time": "2026-05-18 12:11:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【信達證券：環保行業板塊業績穩步提升 “雙碳”背景下行業有望迎來新發展】信達證券釋出研報稱，十五五期間，我國或將加快經濟社會發展全面綠色轉型，深入實施節能降碳增效行動、迴圈經濟助力降碳行動、碳匯能力鞏固提升行動。該行認為環保板塊中有三條主線具備投資潛力，一是迴圈經濟，尤其是細分領域中的再生塑膠、金屬資源化、鋰電池回收；二是低碳能源，垃圾焚燒、生物航煤、氫能等領域在甲烷減排背景下，有望迎來新的投資機會；三是國產替代，細分賽道科學儀器及環衛裝備具備長坡厚雪偏成長的投資價值。"
+    },
+    {
+      "id": "4884912",
+      "time": "2026-05-18 12:10:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【東北證券：鋰電銅箔週期拐點確立 PCB銅箔供需緊張】東北證券釋出研報稱，銅箔是電子資訊與新能源產業的核心基礎材料，下游分為鋰電銅箔(產能佔比59%)與PCB銅箔(佔比41%)。當前行業雙重景氣共振——鋰電銅箔週期觸底回升，盈利拐點確立;PCB銅箔受AI浪潮驅動，高階HVLP供需持續緊張，銅箔行業迎來量價齊升的戰略性機遇。"
+    },
+    {
+      "id": "te:economy:551438",
+      "time": "2026-05-18 12:10:04",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Vietnam",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Vietnam 10Y Bond Yield Hits 3-year High — Vietnam 10 Year Government Bond Yield increased to 4.38%, the highest since March 2023. Over the past 4 weeks, Vietnam 10Y Bond Yield gained 1.90 basis points, and in the last 12 months, it increased 120.20 basis points."
+    },
+    {
+      "id": "4884911",
+      "time": "2026-05-18 12:09:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【茅臺起訴茅淵酒廠商標侵權索賠300萬】企查查APP顯示，近日，法院就侵害商標權糾紛一案，向貴州省仁懷市茅臺鎮茅淵酒廠有限公司、吳某公告送達應訴通知書、開庭傳票、起訴狀等材料，原告為貴州茅臺（600519.SH）。詳情顯示，貴州茅臺要求被告停止在全國地域範圍內生產、銷售案涉“原茅臺特製酒廠”酒；停止在產品包裝等方面及銷售話術中使用“原茅臺特製酒廠”“茅臺集團原總工程師”“年份茅臺口感”等假宣傳行為，並要求被告賠償經濟損失共計300萬元。資訊顯示，該案將於6月29日上午9時30分開庭審理。據企查查資訊顯示，被告貴州省仁懷市茅臺鎮茅淵酒廠有限公司多個商標被駁回或無效，其中“茅淵”、“酒都茅淵 MAO YUAN 1985”圖形商標均在初審時被駁回。"
+    },
     {
       "id": "4884910",
       "time": "2026-05-18 12:08:30",
@@ -9,6 +45,14 @@
         "其他"
       ],
       "text": "【張雪機車第五冠車手感謝中國車迷】5月17日，在2026世界超級摩托車錦標賽捷克站WorldSSP組別第二回合正賽中，中國摩托車製造商“張雪機車”旗下的法國車手瓦倫丁·德比斯繼前一日首回合取勝後再度奪冠。在包攬本站兩回合冠軍的同時，德比斯也為自己和車隊拿下賽季第五冠。賽後，德比斯再次感謝了中國車迷的支援，他希望能有更多的人關注、參與並享受這項運動。（CCTV國際時訊）"
+    },
+    {
+      "id": "4884909",
+      "time": "2026-05-18 12:07:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【科學家破譯40萬年前直立人“分子密碼”】5月13日，中國科學院古脊椎動物與古人類研究所研究員付巧妹團隊在《自然》發表研究成果，用一套近乎“無損”的評估和取樣方案，首次從40萬年前直立人牙齒中獲得具有譜系特異性的分子資訊，發現中國境內以周口店、和縣、孫家洞為代表的直立人屬於同一演化人群，其基因可能透過已知的丹尼索瓦人間接流入現代人群。（澎湃）"
     },
     {
       "id": "te:markets:551435",
@@ -140216,51 +140260,6 @@
         "其他"
       ],
       "text": "【紐西蘭乘客涉漢坦病毒疫情，當局開展協查監測】針對“洪迪厄斯”號郵輪出現漢坦病毒疫情，紐西蘭外交貿易部已確認，至少有一名紐西蘭乘客此前已於聖赫勒拿島離開郵輪，另有一名紐西蘭公民當時仍留在船上。據報道，目前紐西蘭相關衛生部門已進入協查與監測狀態，但官方尚未公佈該返新乘客具體所在地區及健康狀況。（中新網）"
-    },
-    {
-      "id": "4871451",
-      "time": "2026-05-11 12:13:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國生物製藥：附屬公司正大天晴藥業集團股份有限公司與葛蘭素史克達成一項獨家戰略合作，加速bepirovirsen在中國內地的上市程序】中國生物製藥公告，附屬公司正大天晴藥業集團股份有限公司與葛蘭素史克達成一項獨家戰略合作，加速bepirovirsen在中國內地的上市程序。根據協議條款，正大天晴將負責bepirovirsen在中國內地的進口、分銷、醫院准入以及推廣和非推廣活動，該產品產生的全部銷售收入將確認為正大天晴的營業收入。GSK將繼續作為藥品上市許可持有人(MAH)，負責監管註冊事務、質量控制、藥物警戒及全球醫學策略等工作。根據協議條款，正大天晴將在初始5.5年合作期內，按照約定的供應條款向GSK採購bepirovirsen。此後雙方可在協商一致的基礎上延長合作期限。根據協議，雙方還將有機會就本集團部分正在中國以外市場尋求合作機會的研發管線資產，展開進一步的合作探討。本次合作將支援雙方建立長期合作伙伴關係，併為未來進一步拓展創新資產合作提供良好基礎。"
-    },
-    {
-      "id": "4871450",
-      "time": "2026-05-11 12:12:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【港股建滔集團再漲超5%創新高】5月11日，建滔集團(00148.HK)再漲超5%，高見55.2港元創新高。截至午盤，漲5.69%，報54.8港元，成交額8.26億港元。"
-    },
-    {
-      "id": "4871449",
-      "time": "2026-05-11 12:10:19",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "馬來西亞央行與印尼央行：雙方達成的協定為貨幣政策、支付體系與數字化、金融業發展以及資訊共享領域合作提供指導框架。"
-    },
-    {
-      "id": "4871448",
-      "time": "2026-05-11 12:10:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【每8個新生兒有1個來自廣東】2025年，我國有7個省份實現了人口正增長，廣東和浙江成為全國人口增量的第一、第二名，分別增長79萬人、31萬人，隨後是新疆、海南、上海、西藏、寧夏，分別增長16.2萬人、7萬人、5.15萬人、4萬人、3萬人。人口版圖上，廣東最引人注目。去年全國共出生792萬新生兒，其中廣東一省就貢獻了100.3萬人。這意味著，全國大約每8個新生兒中，就有1個在廣東出生，廣東連續多年穩坐“第一生育大省”的寶座。（21財經）"
-    },
-    {
-      "id": "te:markets:549513",
-      "time": "2026-05-11 12:09:44",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Indonesia",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Rupiah Stays Under Pressure Despite Stabilisation Efforts — The rupiah slipped toward IDR 17,400 per dollar on Monday, extending losses for a third straight session and hovering near record lows as the U.S. dollar index firmed on concerns that U.S.-Iran peace talks could falter. Skepticism also lingered over Bank Indonesia’s ability to safeguard the currency despite measures to tighten forex rules, bolster liquidity, and enhance macroprudential coordination. Meantime, forex reserves fell for a fourth month in April to their lowest in nearly two years, underscoring fragile external buffers. Domestic sentiment added strain, with consumer sentiment stuck near a five-month low amid worries over jobs and incomes. Risks tied to Middle East tensions clouded the outlook through higher energy costs and supply chain disruptions, though April inflation stayed manageable. Pressure had already been mounting before the Gulf conflict escalated in late February, driven by fiscal vulnerabilities and persistent capital outflows from bonds and broader markets."
     }
   ]
 }
