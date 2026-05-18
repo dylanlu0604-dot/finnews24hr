@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-19 02:42:34",
-  "count": 15450,
+  "updated": "2026-05-19 02:46:21",
+  "count": 15445,
   "items": [
     {
       "id": "mkt:019e3c62-9929-7dd6-889e-bc4aeea44dd6",
@@ -139614,65 +139614,6 @@
         "Impact bullish"
       ],
       "text": "AWS: ANNOUNCES GENERAL AVAILABILITY OF CLAUDE PLATFORM ON AWS - BLOG"
-    },
-    {
-      "id": "te:markets:549734",
-      "time": "2026-05-12 02:45:23",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Abbott Stock Price Hits 6-year Low — Abbott shares decreased to 82.25 USD, the lowest since April 2020. Over the past 4 weeks, Abbott lost 18.29%, and in the last 12 months, it decreased 37.67%."
-    },
-    {
-      "id": "mkt:019e185b-8888-7dd9-b926-2f6e0af9f504",
-      "time": "2026-05-12 02:45:12",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "DXY",
-        "Impact bullish",
-        "CNH",
-        "Impact bearish"
-      ],
-      "text": "CHINESE WIRELESS CHIPS MAKER QUECTEL WIRELESS SUES US GOVERNMENT OVER INCLUSION ON LIST OF COMPANIES ALLEGEDLY AIDING BEIJING'S MILITARY"
-    },
-    {
-      "id": "te:economy:549733",
-      "time": "2026-05-12 02:44:14",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "US Treasury Yields Advance Amid US-Iran Setback — The yield on the US 10-year Treasury note climbed around 5bps to 4.4% on Monday, as renewed tensions in US-Iran negotiations pushed oil prices higher and reignited inflation concerns. Sentiment deteriorated after President Trump rejected Iran’s response to his proposal, warning that the ceasefire was on “life support,” further fuelling fears of prolonged geopolitical instability in the Middle East. Meanwhile, US inflation data due tomorrow will be closely watched for further clues on the Fed’s next policy steps. The Fed is widely expected to keep the federal funds rate unchanged this year, while investors currently see a 31% chance of a rate hike in March. Investors were also looking ahead to a summit between US President Trump and Chinese President Xi Jinping expected later this week. According to US officials, the two leaders are set to discuss Iran, Taiwan, artificial intelligence, nuclear weapons, and critical minerals."
-    },
-    {
-      "id": "mkt:019e1859-e56d-7dd9-b926-244a3ab1c8fb",
-      "time": "2026-05-12 02:43:25",
-      "tags": [
-        "MKT News",
-        "COIN.O",
-        "Impact bullish",
-        "Bitcoin",
-        "Impact mixed",
-        "Ethereum"
-      ],
-      "text": "COINBASE CEO BRIAN ARMSTRONG IS SCHEDULED TO SPEAK AT THE SENATE GOP STEERING LUNCH ON WEDNESDAY AHEAD OF CLARITY ACT MARK-UP THURSDAY"
-    },
-    {
-      "id": "4873074",
-      "time": "2026-05-12 02:42:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "Coinbase執行長布萊恩・阿姆斯特朗定於週三出席參議院共和黨核心小組午餐會並發表講話，為週四《加密法案》審議修訂議程造勢。"
     }
   ]
 }
