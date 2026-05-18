@@ -1,7 +1,61 @@
 {
-  "updated": "2026-05-19 03:56:43",
-  "count": 15499,
+  "updated": "2026-05-19 04:00:31",
+  "count": 15500,
   "items": [
+    {
+      "id": "mkt:019e3cac-9809-7dd6-889f-9bf4a1ab0843",
+      "time": "2026-05-19 04:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Net Foreign Purchases of Treasury Securities (Mar) | actual 13500000000B | previous 2000000000B"
+    },
+    {
+      "id": "mkt:019e3cac-9800-7dd6-889f-973c8001ba76",
+      "time": "2026-05-19 04:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Net LongTerm TIC Flows (Mar) | actual 81300000000B | previous 58600000000B"
+    },
+    {
+      "id": "mkt:019e3cac-889a-7dd6-889f-8f8e3ba878d2",
+      "time": "2026-05-19 04:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Net LongTerm International Capital Flows (Mar) | actual 150700000000B | previous 184500000000B"
+    },
+    {
+      "id": "4886537",
+      "time": "2026-05-19 03:59:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "貝克休斯股價隨成交量放量上漲，最新上漲3.2%。"
+    },
+    {
+      "id": "4886536",
+      "time": "2026-05-19 03:58:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國證券交易委員會表示，其已撤銷一項關於執法行動中拒絕和解的政策。"
+    },
+    {
+      "id": "4886535",
+      "time": "2026-05-19 03:57:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Meta在內部檔案中公佈重組計劃 裁員10%】Meta週一在發給員工的一份備忘錄中詳細說明了本週的裁員計劃，稱全球裁員10%的同時，還將進行新一輪組織架構調整，旨在最佳化公司的AI工作流程。該公司計劃於週三裁員10%，通知將按當地時間凌晨4點分三批在全球範圍內發出。在備忘錄中，Meta人力資源主管珍妮爾·蓋爾告知員工，許多高管將配合此次裁員“宣佈組織架構調整”。她表示，作為重組的一部分，公司計劃將7000名員工調至與AI工作流程相關的新專案，並裁撤部分管理崗位。"
+    },
     {
       "id": "4886534",
       "time": "2026-05-19 03:55:54",
@@ -140061,54 +140115,6 @@
         "焦點"
       ],
       "text": "【美股收盤：三大股指集體收漲】道指漲0.19%，標普500指數漲0.19%，納指漲0.10%。Lumentum Holdings Inc. Common Stock When Issued漲16.53%，Coherent Corp漲13.25%，康寧漲11.01%，高通漲8.42%，VRT漲8.23%，CF實業漲8.19%。“七姐妹”方面：特斯拉漲3.89%，英偉達漲1.95%，蘋果跌0.14%，微軟跌0.62%，亞馬遜跌1.35%，Meta Platforms跌1.79%，谷歌跌2.60%。"
-    },
-    {
-      "id": "4873140",
-      "time": "2026-05-12 04:00:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國加州一海上石油平臺起火 2人受傷 】美國海岸警衛隊11日證實，位於加利福尼亞州聖巴巴拉縣附近海域的一座石油平臺當日發生大火，26名工作人員被緊急撤離。據當地媒體報道，兩人在火災中受傷。"
-    },
-    {
-      "id": "mkt:019e18a0-5d3e-7dd9-b926-9532553282b0",
-      "time": "2026-05-12 04:00:23",
-      "tags": [
-        "MKT News",
-        "Dow",
-        "Impact bullish",
-        "S&P500",
-        "Nasdaq100"
-      ],
-      "text": "DOW CLOSED +0.19%, S&P500 +0.19%, NASDAQ +0.10%"
-    },
-    {
-      "id": "4873139",
-      "time": "2026-05-12 04:00:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【納斯達克中國金龍指數收漲0.97%】中進醫療漲6.57%，Tims中國漲6.28%，虎牙漲5.65%，再鼎醫藥漲5.16%，中汽系統漲5.22%。"
-    },
-    {
-      "id": "4873138",
-      "time": "2026-05-12 03:59:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "據《泰晤士報》報道：英國內政大臣馬哈茂德及多名內閣高階大臣已敦促首相斯塔默，考慮明確下臺離任時間表。"
-    },
-    {
-      "id": "mkt:019e189e-d6b7-7dd9-b926-8ea84e7007bc",
-      "time": "2026-05-12 03:58:43",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact bearish",
-        "FTSE100"
-      ],
-      "text": "UK PM STARMER TOLD BY HOME MINISTER MAHMOOD AND OTHER SENIOR CABINET MINISTERS TO CONSIDER SETTING OUT A TIMELINE FOR HIS DEPARTURE - TIMES REPORT"
     }
   ]
 }
