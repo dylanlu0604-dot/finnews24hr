@@ -1,7 +1,177 @@
 {
-  "updated": "2026-05-19 04:30:26",
-  "count": 15512,
+  "updated": "2026-05-19 04:42:11",
+  "count": 15527,
   "items": [
+    {
+      "id": "4886567",
+      "time": "2026-05-19 04:41:32",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲古爾斯比稱需要沃什提供通脹方面的指引】美國芝加哥聯儲總裁古爾斯比周一表示，在勞動力市場保持穩定的情況下，通脹過高以及應對之策，已成為沃什準備於本週五接掌美聯儲帥印時的首要關注點。古爾斯比表示：“服務業通脹居高不下且持續攀升，這很可能並非源於油價，也並非源於關稅。”他補充道，“未來將有許多問題需要關注，我們很需要主席在這方面提供一些指引。”"
+    },
+    {
+      "id": "4886566",
+      "time": "2026-05-19 04:41:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：法官與陪審團從未就案件實質案情作出裁決。"
+    },
+    {
+      "id": "4886565",
+      "time": "2026-05-19 04:40:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：法官從未就案件實質是非作出裁決。"
+    },
+    {
+      "id": "4886564",
+      "time": "2026-05-19 04:40:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗最高領袖軍事顧問穆赫辛・禮薩伊：美方先是定下軍事打擊期限，隨後又自行取消，妄圖逼迫伊朗民眾與官員妥協。伊朗強大武裝力量的鐵拳與全體伊朗民眾，終將迫使對方敗退投降。"
+    },
+    {
+      "id": "4886563",
+      "time": "2026-05-19 04:38:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國：領導人峰會定於特朗普多拉國家度假村舉辦。"
+    },
+    {
+      "id": "mkt:019e3cd0-33fd-7dd6-88a0-0df2cf30cb02",
+      "time": "2026-05-19 04:38:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TRUMP TO HOST CULMINATING LEADERS SUMMIT DECEMBER 14TH-15TH IN MIAMI"
+    },
+    {
+      "id": "4886562",
+      "time": "2026-05-19 04:38:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普將於12月14日至15日在邁阿密主持領導人峰會。"
+    },
+    {
+      "id": "4886561",
+      "time": "2026-05-19 04:37:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克就OpenAI案判決發聲：奧克蘭法官的裁決創下“惡劣先例”。"
+    },
+    {
+      "id": "4886560",
+      "time": "2026-05-19 04:37:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "惠譽：伊朗衝突仍給違約預期帶來上行風險。"
+    },
+    {
+      "id": "mkt:019e3cce-a806-7dd6-88a0-05ea2a70cc27",
+      "time": "2026-05-19 04:37:16",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "FITCH: U.S. LEVERAGED FINANCE MARKETS REMAINED BROADLY RESILIENT IN APRIL 2026 DESPITE CONTINUED UNCERTAINTY FROM IRAN CONFLICT"
+    },
+    {
+      "id": "mkt:019e3cce-9a8b-7dd6-889f-fa089b6ef2e0",
+      "time": "2026-05-19 04:37:13",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "FITCH: IRAN CONFLICT STILL POSES UPSIDE RISK TO DEFAULT EXPECTATIONS"
+    },
+    {
+      "id": "mkt:019e3ccd-cbfc-7dd6-889f-f66b294f00bb",
+      "time": "2026-05-19 04:36:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ELON MUSK ON OPENAI RULING: “TERRIBLE PRECEDENT” THAT GIVES A “FREE LICENSE TO LOOT CHARITIES.”"
+    },
+    {
+      "id": "4886559",
+      "time": "2026-05-19 04:35:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽評級：4月違約走勢分化，伊方相關衝突持續推高市場風險。"
+    },
+    {
+      "id": "te:markets:551697",
+      "time": "2026-05-19 04:35:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.32% Higher — The Dow Jones Index rose 160 points or 0.32 percent on Monday to close at 49686 points. Leading the gains are 3M (4.32%), Salesforce (3.38%) and Chevron (2.57%). Top losers were Caterpillar (-2.90%), Nvidia (-1.39%) and UnitedHealth (-0.85%)."
+    },
+    {
+      "id": "4886558",
+      "time": "2026-05-19 04:35:10",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國將於10月30日至31日在亞特蘭大主辦二十國集團外長會議。"
+    },
+    {
+      "id": "4886557",
+      "time": "2026-05-19 04:34:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【柳州地震造成一人受傷 一間無人居住房屋倒塌】記者從柳州市抗震救災指揮部獲悉，5月18日21時44分，在廣西柳州市柳南區（北緯24.37度，東經109.26度）發生5.2級地震，震源深度8公里；22時18分在柳北區石碑坪鎮（北緯24.56度，東經109.32度）發生2.4級地震，震源深度10公里；22時27分在柳城縣社衝鄉（北緯24.44度，東經109.26度）發生2.1級地震，震源深度10公里。據初步排查統計，從5月18日21時44分至5月19日3時，地震共造成1人受輕微傷，1間無人居住泥房倒塌。目前，消防、應急、公安、住建、民政、衛健等部門和柳南區正全力開展應急救援、災情排查、群眾轉移安置等工作。震區通訊、供電、供水、供氣、交通道路等處於基本正常執行狀態。（央視新聞）"
+    },
+    {
+      "id": "4886556",
+      "time": "2026-05-19 04:32:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊斯法罕防空系統已啟動，原因不明。"
+    },
+    {
+      "id": "mkt:019e3cc9-cce6-7dd6-889f-e9313677fd84",
+      "time": "2026-05-19 04:31:58",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "AIR DEFENCES ACTIVATED IN ISFAHAN, REASON UNKNOWN - IRAN'S MEHR NEWS AGENCY"
+    },
+    {
+      "id": "4886555",
+      "time": "2026-05-19 04:30:36",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【日本財務大臣暗示政府編制補充預算時會考慮債市因素】日本財務大臣片山皋月表示，政府在考慮如何為應對中東衝突對經濟的不利影響而增加支出時，會將債券市場納入考量。“鑑於中東局勢，我們必須從最大限度降低風險的角度做好充分準備，”片山皋月週一在巴黎出席七國集團財長會議後對記者表示，“從最大限度降低風險也涉及到市場。整個金融市場本身就是風險之一。”"
+    },
     {
       "id": "mkt:019e3cc6-78ea-7dd6-889f-e2b6b6f020ad",
       "time": "2026-05-19 04:28:20",
@@ -140199,44 +140369,6 @@
         "國際"
       ],
       "text": "Hims & Hers Health首席財務官：公司對複方 GLP-1 相關原料及庫存計提資產減值，併產生一次性併購相關費用。轉向美國食品藥品監督管理局獲批的 GLP-1 類藥物後，平臺流量與應用下載量均創下歷史新高。"
-    },
-    {
-      "id": "mkt:019e18c3-b7da-7dd9-b926-dd5f4c841926",
-      "time": "2026-05-12 04:39:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IRAN'S PARLIAMENT SPEAKER: THERE IS NO ALTERNATIVE BUT TO ACCEPT THE RIGHTS OF THE IRANIAN PEOPLE AS LAID OUT IN THE 14-POINT PROPOSAL"
-    },
-    {
-      "id": "4873164",
-      "time": "2026-05-12 04:38:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗伊斯蘭議會議長卡利巴夫：（美國）除了接受14點方案中所列明的伊朗人民權利之外，沒有其他選擇。任何其他方式都將徹底無果而終，只會是一場接一場的失敗。他們拖延得越久，美國納稅人為此付出的代價就會越高。"
-    },
-    {
-      "id": "mkt:019e18c1-618c-7dd9-b926-d3a257757c19",
-      "time": "2026-05-12 04:36:27",
-      "tags": [
-        "MKT News",
-        "HIMS.O",
-        "Impact bearish"
-      ],
-      "text": "HIMS & HERS HEALTH SHARES REVERSE COURSE IN EXTENDED TRADE FOLLOWING RESULTS, LAST DOWN 11% AT $25.90"
-    },
-    {
-      "id": "te:markets:549740",
-      "time": "2026-05-12 04:35:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Closes 0.19% Higher — The Dow Jones Index gained 95 points or 0.19 percent on Monday to close at 49704 points. Gains were led by Caterpillar (3.11%), Honeywell International (2.81%) and Cisco Systems (2.30%). Biggest losers were Nike (-3.96%), Walt Disney (-3.28%) and Salesforce (-2.99%)."
     }
   ]
 }
