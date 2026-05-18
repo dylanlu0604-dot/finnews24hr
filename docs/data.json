@@ -1,7 +1,31 @@
 {
-  "updated": "2026-05-19 07:22:00",
-  "count": 15598,
+  "updated": "2026-05-19 07:25:52",
+  "count": 15594,
   "items": [
+    {
+      "id": "4886715",
+      "time": "2026-05-19 07:24:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【AI晶片初創公司Tenstorrent傳出被收購意向，估值或超50億美元】5月19日訊息，據報道，人工智慧晶片初創公司Tenstorrent目前正吸引潛在買家的早期收購興趣。Tenstorrent已經與包括英特爾和高通在內的多家公司進行了接觸。在潛在的交易中，該公司的估值可能超過50億美元。"
+    },
+    {
+      "id": "4886714",
+      "time": "2026-05-19 07:22:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【小鵬集團Robotaxi首臺量產車在廣州下線】5月18日，小鵬集團Robotaxi首臺量產車在廣州正式下線。小鵬Robotaxi業務部負責人透露，預計今年下半年就會開啟示範運營。"
+    },
+    {
+      "id": "4886713",
+      "time": "2026-05-19 07:21:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【剛果（金）埃博拉疫情擴散 116例疑似病例死亡】剛果（金）政府18日說，該國東部伊圖裡省暴發的新一輪埃博拉疫情仍在擴散，目前已報告116例疑似病例死亡，另有435例疑似病例正接受觀察和治療，相關實驗室檢測和流行病學調查仍在進行。 剛果（金）新聞和媒體部長兼政府發言人穆亞亞在釋出會上說，伊圖裡省及鄰近的北基伍省多地已報告病例。剛衛生部門表示，相關檢測和分析仍在進行，以確認報告的死亡疑似病例是否均與埃博拉病毒有關。 此前，剛衛生部15日說，截至當天，全國共有80例死亡病例，其中4例死亡病例經檢測確認感染埃博拉病毒。世界衛生組織17日宣佈，剛果（金）和烏干達出現的埃博拉疫情已構成“國際關注的突發公共衛生事件”。盧安達、尚比亞、坦尚尼亞等周邊國家已相繼宣佈加強邊境衛生監測、入境篩查和疫情防控準備。"
+    },
     {
       "id": "4886712",
       "time": "2026-05-19 07:19:57",
@@ -140909,70 +140933,6 @@
         "國際"
       ],
       "text": "【期價突破20萬元/噸 碳酸鋰“高漲”勢頭持續】在供給收緊、下游需求強勁等因素帶動下，碳酸鋰價格“高漲”的勢頭仍在持續。碳酸鋰期貨價格5月11日繼續保持上漲勢頭，主力合約2609上漲3.51%，報收205020元/噸，創下兩年來新高。記者注意到，自年初12萬元/噸起步，碳酸鋰期貨價格5個月內漲幅超過40%。碳酸鋰現貨與期貨價格保持聯動，我的鋼鐵網資料顯示，5月11日，電池級碳酸鋰（晚盤）均價報195400元/噸，噸價較8日上漲2150元。“此番鋰價強勢反彈，核心來自供給收縮預期與需求端爆發增長的共振。”有熟悉鋰礦產業人士分析認為，隨著鋰價走強，產業端也是動作頻頻。目前來看，下游對鋰價上漲還是具備一定“容忍度”的，短期內仍具備一定上漲空間。（上海證券報）"
-    },
-    {
-      "id": "4873280",
-      "time": "2026-05-12 07:25:39",
-      "tags": [
-        "宏觀",
-        "公司",
-        "國際"
-      ],
-      "text": "【美國懸賞1500萬美元 打擊伊朗革命衛隊資金網路】當地時間5月11日，據美國方面訊息，特朗普政府宣佈懸賞最高1500萬美元，以獲取有關伊朗伊斯蘭革命衛隊資金運作機制的資訊。該懸賞由美國國務院釋出，旨在獲取有關伊朗革命衛隊及其聖城旅收入來源、資金渠道及關鍵金融支援網路的資訊。美國國務院表示，懸賞目標包括協助革命衛隊規避制裁的空殼公司、個人及與其存在業務往來的金融機構，同時也尋求有關伊朗如何向其“恐怖組織及民兵代理人”轉移資金與物資的資訊。此外，美方還重點關注協助革命衛隊交易的金融機構、兌換機構以及由革命衛隊控制的企業。"
-    },
-    {
-      "id": "te:markets:549759",
-      "time": "2026-05-12 07:24:28",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Holds Gains Amid Ceasefire Doubts — Brent crude futures remained above $94 per barrel on Tuesday after gaining nearly 3% in the previous session, as President Donald Trump said the US-Iran ceasefire was on “massive life support” after dismissing Tehran’s latest peace proposal, fueling concerns that the Strait of Hormuz may stay effectively closed for an extended period. Iran reportedly called for the US to end its naval blockade and ease sanctions while seeking to retain some authority over traffic through the key shipping route. Meanwhile, reports suggested President Trump is set to meet with his national security team to weigh a potential return to military operations, alongside renewed discussions about escorting commercial vessels through Hormuz. Saudi Aramco CEO Amin Nasser warned that the market is losing roughly 100 million barrels of supply each week, adding that prolonged disruptions could push any market normalization into next year."
-    },
-    {
-      "id": "4873279",
-      "time": "2026-05-12 07:23:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "【一線城市二手房成交連創新高 居民中長期貸款增長有待修復】最近，一線城市二手房市場又火了。記者近期調研發現，北上廣深等一線城市的二手房交易接連創下新高。與此同時，銀行房貸投放節奏也在加快。公開資料顯示，3月住戶中長期貸款增加2953億元，環比已有明顯改善。不過，在二手房帶看量和網籤量顯著回升的同時，一季度個人住房貸款整體餘額仍在下降，提前還貸、加槓桿愈發謹慎成為這一輪樓市“小陽春”向信貸端傳導的多重堵點。（上海證券報）"
-    },
-    {
-      "id": "te:markets:549758",
-      "time": "2026-05-12 07:23:50",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Oil Holds Gains Amid Ceasefire Doubts — WTI crude futures remained above $98 per barrel on Tuesday after gaining nearly 3% in the previous session, as President Donald Trump said the US-Iran ceasefire was on “massive life support” after dismissing Tehran’s latest peace proposal, fueling concerns that the Strait of Hormuz may stay effectively closed for an extended period. Iran reportedly called for the US to end its naval blockade and ease sanctions while seeking to retain some authority over traffic through the key shipping route. Meanwhile, reports suggested President Trump is set to meet with his national security team to weigh a potential return to military operations, alongside renewed discussions about escorting commercial vessels through Hormuz. Saudi Aramco CEO Amin Nasser warned that the market is losing roughly 100 million barrels of supply each week, adding that prolonged disruptions could push any market normalization into next year."
-    },
-    {
-      "id": "4873278",
-      "time": "2026-05-12 07:23:41",
-      "tags": [
-        "市場"
-      ],
-      "text": "【A股資產備受基金青睞 “專業買手”連續加倉6個月】去年以來，A股市場震盪走高，基金市場“專業買手”對權益資產的配置偏好也持續走高。有券商統計顯示，截至2026年4月末，基金投顧組合的A股倉位已連續6個月提升，4月A股在11類大類資產中，獲加倉力度居首，且科技成長賽道成為投顧佈局的核心方向。（上海證券報）"
-    },
-    {
-      "id": "4873277",
-      "time": "2026-05-12 07:23:21",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信建投：2026醫保目錄調整引入預申報機制 進一步加快創新藥准入】中信建投研報稱，2026年醫保目錄調整工作方案在延續常態化調整機制的基礎上，主要在以下幾方面實現突破：一是首次引入\"預申報\"機制，二是目錄外藥品申報條件新增3條，將商保創新藥目錄內藥品、附條件批准轉常規批准的藥品、以及此前因未能成功續約被調出目錄品種的同通用名藥品納入申報範圍，三是明確附條件批准上市的藥品最多可享受\"5年+3年\"的申報視窗期，四是續約規則進一步完善，五是競價藥品醫保支付標準與掛網價協同機制建立。在保持基本醫保\"保基本\"定位的同時，充分體現了\"真支援創新、支援真創新、支援差異化創新\"的政策導向，看好相關創新藥及製藥企業。"
-    },
-    {
-      "id": "4873276",
-      "time": "2026-05-12 07:22:36",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信建投：預計2026至2028年，全球燃氣輪機供需缺口分別為16、16和19GW】中信建投研報稱，北美AI算力需求激增正驅動資料中心開啟“自備電廠”時代，上調了北美AI電力需求預測，2026-2028年較前一版本上調幅度分別為4%、35%、42%，三年AI電力需求複合增長率高達73%，電網併網緩慢迫使資料中心自建電源，其中燃氣輪機因成本最低、效率最高成為首選基荷電源，但其交付週期長達1-3年，已排至2028年後，形成核心供給瓶頸，其餘選擇方式包括內燃機、SOFC、航改機、船改機。預計2026至2028年，全球燃氣輪機供需缺口分別為16、16和19GW。若考慮其他發電方式需求，則全球發電總需求同期將達30、42和59GW。這一巨大且持續的缺口，推動燃氣輪機、內燃機、固體氧化物燃料電池及航改機等產業鏈帶來了高景氣週期。"
     }
   ]
 }
