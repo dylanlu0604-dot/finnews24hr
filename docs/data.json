@@ -1,7 +1,17 @@
 {
-  "updated": "2026-05-19 00:53:47",
-  "count": 15458,
+  "updated": "2026-05-19 00:57:46",
+  "count": 15457,
   "items": [
+    {
+      "id": "mkt:019e3c02-014c-7dd6-889c-d2a32ab0747d",
+      "time": "2026-05-19 00:53:24",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "WHITE HOUSE OFFICIAL: TRUMP TO HOLD SWEARING-IN CEREMONY FOR FED'S WARSH ON FRIDAY"
+    },
     {
       "id": "4886390",
       "time": "2026-05-19 00:52:05",
@@ -139643,22 +139653,6 @@
         "市場"
       ],
       "text": "【夜盤期貨收盤】國際銅夜盤收漲2.28%，滬銅收漲2.35%，滬鋁收漲0.57%，滬鋅收漲1.33%，滬鉛收跌0.24%，滬鎳收漲0.83%，滬錫收漲1.80%。氧化鋁夜盤收漲0.53%，鋁合金收漲0.82%。不鏽鋼夜盤收跌0.07%。"
-    },
-    {
-      "id": "mkt:019e17f8-f918-7dd9-b924-fcef3411203b",
-      "time": "2026-05-12 00:57:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "LABOUR AFFILIATED UNION BOSS: ‘VERY DIFFICULT’ TO SEE HOW STARMER CAN CONTINUE - TELEGRAPH"
-    },
-    {
-      "id": "4872974",
-      "time": "2026-05-12 00:57:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴勒斯坦：以色列佔領軍推土機已開始在被佔領耶路撒冷東南部阿勒埃伊扎裡耶鎮東部的阿爾馬沙特勒地區，拆除巴勒斯坦人的建築設施與商鋪。"
     }
   ]
 }
