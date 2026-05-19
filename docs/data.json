@@ -1,7 +1,64 @@
 {
-  "updated": "2026-05-20 02:10:38",
-  "count": 15608,
+  "updated": "2026-05-20 02:14:37",
+  "count": 15609,
   "items": [
+    {
+      "id": "4888776",
+      "time": "2026-05-20 02:13:02",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【秘魯發生6.1級地震 首都震感明顯】據秘魯地球物理研究所公佈的資料，當地時間5月19日12時57分，秘魯伊卡以南41公里處發生6.1級地震，震源深度81公里。在首都利馬震感明顯，震動持續20多秒。"
+    },
+    {
+      "id": "4888775",
+      "time": "2026-05-20 02:12:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯：特朗普在伊朗談判中關注國家安全問題。"
+    },
+    {
+      "id": "4888774",
+      "time": "2026-05-20 02:12:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "路透社與益普索聯合民調：47% 共和黨人認可特朗普應對生活成本問題的舉措，46% 表示不認同。"
+    },
+    {
+      "id": "4888773",
+      "time": "2026-05-20 02:12:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "路透社與益普索民調顯示：特朗普在共和黨陣營內支援率跌至 79%。"
+    },
+    {
+      "id": "mkt:019e4170-bfc4-7228-9aff-11d17933fdd4",
+      "time": "2026-05-20 02:12:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TRUMP APPROVAL AMONG REPUBLICANS FALLS TO 79%, REUTERS/IPSOS POLL FINDS TRUMP APPROVAL FALLS TO 35%, NEAR LOWEST LEVEL OF HIS TERM, ACCORDING TO REUTERS/IPSOS POLL 47% OF REPUBLICANS APPROVE OF TRUMP’S HANDLING OF COST OF LIVING WHILE 46% DISAPPROVE, REUTERS/IPSOS POLL FINDS"
+    },
+    {
+      "id": "4888772",
+      "time": "2026-05-20 02:12:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "路透社與益普索民調：特朗普整體支援率降至 35%，逼近其任期內最低水平。"
+    },
+    {
+      "id": "4888771",
+      "time": "2026-05-20 02:10:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：透過技術授權協議從AI初創公司Contextual招聘核心團隊。"
+    },
     {
       "id": "4888770",
       "time": "2026-05-20 02:09:45",
@@ -140908,62 +140965,6 @@
         "國際"
       ],
       "text": "特朗普：北約令我失望，我們不需要它的幫助。美國人民明白為什麼現在的成本如此高，戰爭結束後這些成本會迅速下降。（談及伊朗）我可以現在退出，但我不想這樣，我想徹底完成這件事。我們對伊朗的控制非常到位。我們要麼達成協議，要麼他們將被徹底摧毀。無論如何，我們都贏了。每個美國人都明白，伊朗不能擁有核武器。如果股市稍微出現波動，美國人民也能理解。"
-    },
-    {
-      "id": "mkt:019e1d64-6bbc-7772-877c-ced471972721",
-      "time": "2026-05-13 02:12:52",
-      "tags": [
-        "MKT News",
-        "MSFT.O",
-        "Impact bullish"
-      ],
-      "text": "MICROSOFT HAS RECOUPED MORE THAN DOUBLE ITS $13 BILLION OPENAI INVESTMENT IN REVENU- THE INFORMATION"
-    },
-    {
-      "id": "4875754",
-      "time": "2026-05-13 02:12:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：微軟在 OpenAI 上130 億美元的投資，已收回超過兩倍的營收回報。"
-    },
-    {
-      "id": "mkt:019e1d63-ac1d-7772-877c-c7d0a9a7ba45",
-      "time": "2026-05-13 02:12:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "OPENAI IS MAKING BILLIONS JUST BY PROMISING TO BUY FROM SUPPLIERS- THE INFORMATION"
-    },
-    {
-      "id": "mkt:019e1d63-5b83-7772-877c-be3edf6f112f",
-      "time": "2026-05-13 02:11:51",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "OPENAI CEO SAM ALTMAN DEFENDS FOR-PROFIT CONVERSION IN TRIAL TESTIMONY: WSJ"
-    },
-    {
-      "id": "4875753",
-      "time": "2026-05-13 02:11:12",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗對美國提出的五項談判先決條件包括戰爭損害賠償。"
-    },
-    {
-      "id": "mkt:019e1d62-6ab5-7772-877c-b1d57ea0d016",
-      "time": "2026-05-13 02:10:49",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "IRAN WON’T JOIN THE NEXT US TALKS WITHOUT 5 CONDITIONS MET - FARS IRAN'S 5 PRECONDITIONS FOR TALKS INCLUDE WAR DAMAGES COMPENSATION"
     }
   ]
 }
