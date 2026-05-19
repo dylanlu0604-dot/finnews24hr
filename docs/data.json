@@ -1,7 +1,61 @@
 {
-  "updated": "2026-05-20 02:22:32",
-  "count": 15607,
+  "updated": "2026-05-20 02:26:31",
+  "count": 15609,
   "items": [
+    {
+      "id": "mkt:019e417c-db06-7228-9aff-268caa81397f",
+      "time": "2026-05-20 02:26:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【U.S. Seizes Iran-Linked Oil Tanker in Indian Ocean Amid Pressure on Tehran】The U.S. seized the sanctioned oil tanker Skywave in the Indian Ocean, according to three U.S. officials, as the Trump administration maintains pressure on Iran over its nuclear program. The vessel, sanctioned in March for transporting Iranian oil, was likely carrying more than 1 million barrels of crude loaded at Iran’s Kharg Island in February, according to brokers and Lloyds List Intelligence data. The seizure marks at least the third U.S. action against Iran-linked shadow-fleet tankers, following the April seizures of the Majestic X and Tifani. President Donald Trump said he had been “an hour away” from ordering new strikes on Iran before delaying action at the request of Gulf allies."
+    },
+    {
+      "id": "te:markets:552027",
+      "time": "2026-05-20 02:25:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Cocoa Gains by 3.11% — Top commodity gainers are Cocoa (3.11%), Canola (2.61%) and Coffee (2.12%). Biggest losers are Cotton (-1.75%) and Orange Juice (-1.75%)."
+    },
+    {
+      "id": "4888786",
+      "time": "2026-05-20 02:24:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "【英國部分放開“第三國加工俄原油”成品油進口】英國政府19日釋出一項通用貿易許可證，正式允許進口由第三國使用俄羅斯原油加工製成的柴油和航空燃油。這項許可由英國商業貿易部頒發，適用物件為俄羅斯境外以俄原油為原料煉製的特定柴油、航空燃油產品，同時許可與這類油品進口相關的配套服務及相關業務操作。（新華社）"
+    },
+    {
+      "id": "mkt:019e417b-59b2-7228-9aff-1ac6ed9e48ff",
+      "time": "2026-05-20 02:24:23",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. SEIZES IRAN-LINKED SHIP AS PRESIDENT TRUMP THREATENS TO RESUME STRIKES -- WSJ IRAN-LINKED OIL TANKER SKYWAVE WAS CARRYING OVER 1M BARRELS OF CRUDE"
+    },
+    {
+      "id": "4888785",
+      "time": "2026-05-20 02:23:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯：我們要麼和伊朗達成協議，要麼談不成。"
+    },
+    {
+      "id": "4888784",
+      "time": "2026-05-20 02:23:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國在印度洋扣押了一艘與伊朗有關的油輪。"
+    },
     {
       "id": "4888783",
       "time": "2026-05-20 02:21:18",
@@ -140905,45 +140959,6 @@
         "Importance 1"
       ],
       "text": "Crypto Updates: XRP Drops by 2.96% — Top crypto losers are XRP (-2.96%), Ether (-2.67%), Binance (-1.59%) and Bitcoin (-1.55%)."
-    },
-    {
-      "id": "4875762",
-      "time": "2026-05-13 02:25:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗：與美談判先決條件是結束戰事和解除封鎖霍爾木茲海峽】當地時間5月12日，伊朗外交部發言人巴加埃表示，結束戰事和解除對霍爾木茲海峽的封鎖是同美國進行任何談判的先決條件。巴加埃還表示，美國要求的是伊朗“徹底投降”，而不是真正的對話。他還指出，封鎖霍爾木茲海峽的責任在於美國，根據國際法，海上封鎖構成戰爭行為。（央視新聞）"
-    },
-    {
-      "id": "4875761",
-      "time": "2026-05-13 02:25:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿聯酋通訊社：阿聯酋將與真主黨有關聯的個人及實體列入恐怖分子名單。"
-    },
-    {
-      "id": "te:markets:550074",
-      "time": "2026-05-13 02:24:58",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Wheat Rallies by 7.13% — Top commodity gainers are Wheat (7.13%), Orange Juice (4.19%) and Barley (2%). Biggest losers are Cocoa (-2.36%), Cotton (-1.83%) and Oat (-1.47%)."
-    },
-    {
-      "id": "mkt:019e1d6e-90a0-7772-877c-ed63e4c71b92",
-      "time": "2026-05-13 02:24:05",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "S&P 500 INDEX TRIMS LOSS TO 0.5%, HAD EARLIER FALLEN AS MUCH AS 1%"
     }
   ]
 }
