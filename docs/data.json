@@ -1,7 +1,71 @@
 {
-  "updated": "2026-05-19 08:36:11",
-  "count": 15585,
+  "updated": "2026-05-19 08:39:58",
+  "count": 15587,
   "items": [
+    {
+      "id": "4886799",
+      "time": "2026-05-19 08:39:06",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【兩部門：聚焦重點違規行為 加強定點零售藥店職工醫保個人賬戶使用監管】國家醫保局辦公室、財政部辦公廳釋出關於進一步加強定點零售藥店職工基本醫療保險個人賬戶使用監督管理的通知，其中提出，加強醫保基金監管。綜合運用飛行檢查、專項檢查、日常檢查等方式，結合影片監控、醫保大資料等技術手段篩查分析，聚焦重點違規行為，加強定點零售藥店職工醫保個人賬戶使用監管。重點查處個人賬戶支付生活用品等白名單之外的產品，以及空刷套刷、倒賣串換、偽造處方，或透過虛假宣傳、誘導消費、衝頂消費等方式違規使用醫保基金的行為。要暢通舉報投訴渠道，落實舉報獎勵機制，充分發揮社會監督作用。對監管中發現的涉及其他部門職責的問題，要及時移送相關主管部門。要結合深化醫保基金管理突出問題整治工作部署，指導定點零售藥店開展自查自糾，對發現問題舉一反三，深入整改，確保職工醫保個人賬戶安全高效、合理使用。"
+    },
+    {
+      "id": "4886798",
+      "time": "2026-05-19 08:39:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【江南華南今明天仍多強降雨 華北黃淮本週持續涼爽】今明兩天（5月19日至20日），強降雨將繼續南壓，江南、華南等地仍多大到暴雨；後天起，新一輪大範圍降雨來襲，南北多地將迎小到中雨。此外，本週華北、黃淮等地氣溫會持續偏低，南方大部氣溫以小幅偏高為主，體感會較為悶熱。"
+    },
+    {
+      "id": "4886797",
+      "time": "2026-05-19 08:38:43",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克50指數期貨上漲0.6%；富時指數期貨上漲0.43%；德國DAX指數期貨上漲0.53%。"
+    },
+    {
+      "id": "mkt:019e3dab-d120-7dd6-88a0-c345c05276f4",
+      "time": "2026-05-19 08:38:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "JAPAN PM TAKAICHI: WILL DISCUSS CONCRETE ENERGY COOPERATION MEASURES WITH SOUTH KOREA PRESIDENT LEE AT TODAY'S SUMMIT"
+    },
+    {
+      "id": "mkt:019e3daa-e3b5-7dd6-88a0-b82d3d98f740",
+      "time": "2026-05-19 08:37:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "JAPAN'S NIKKEI SHARE AVERAGE UP 1%"
+    },
+    {
+      "id": "4886796",
+      "time": "2026-05-19 08:37:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數上漲1%，至61434.03。"
+    },
+    {
+      "id": "te:markets:551728",
+      "time": "2026-05-19 08:36:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Rises for Second Straight Session — Silver climbed above $78 an ounce on Tuesday, building on the previous session’s advance as optimism grew that the US and Iran could return to negotiations, helping ease some inflation worries. President Trump said he called off a planned strike on Iran scheduled for Tuesday after appeals from Saudi Arabia, Qatar, and the UAE, adding that the Gulf nations believed a deal with Tehran acceptable to Washington was still within reach. Precious metals have been under pressure since the start of the Middle East conflict, as soaring oil prices fueled inflation concerns and reinforced expectations for further central bank rate hikes. Stronger US inflation has also led traders to further reduce expectations for Federal Reserve rate cuts this year, while boosting speculation that the Fed could still deliver a rate hike before year-end. Investors are now focused on the latest FOMC minutes and flash US PMI data for additional clues on the outlook for monetary policy and economic activity."
+    },
     {
       "id": "mkt:019e3da7-74b8-7dd6-88a0-b35a5afd6001",
       "time": "2026-05-19 08:32:53",
@@ -140787,54 +140851,6 @@
         "公司"
       ],
       "text": "【谷歌母公司Alphabet有意發行日元債券】媒體週二獲得的一份條款清單顯示，谷歌母公司Alphabet Inc正計劃發行三年期和15年期日元債券。此前有媒體報道稱，谷歌母公司Alphabet計劃首次發行日元債券，或為人工智慧相關投資進一步提供資金支援。"
-    },
-    {
-      "id": "4873477",
-      "time": "2026-05-12 08:39:00",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點"
-      ],
-      "text": "【摩根士丹利：快手據報道稱擬分拆可靈獨立上市 交易有利釋放價值】媒體報道快手計劃分拆可靈獨立上市。摩根士丹利稱若最終實現，這筆交易將為快手釋放顯著價值，因市場通常給純AI公司更高的估值倍數。分析師Yang Liu等在報告中指出，報道稱可靈目標估值為200億美元，明顯高於該行此前對快手分部估值下，可靈60億美元的估值。考慮該交易計算，快手的股價應在68港元，其最新收盤價為51.6港元。快手對該報道沒有置評。"
-    },
-    {
-      "id": "4873474",
-      "time": "2026-05-12 08:38:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【馬士基宣告：從未開展任何與人工智慧、科技培訓等相關的業務活動】5月12日，馬士基中國發布關於不法分子冒用馬士基名義實施涉嫌違法犯罪行為的第三次宣告。近期，公司再次發現有不法分子冒用公司名義，在抖音等平臺以所謂“AI課程”、“AI學習”、“AI直播培訓”等形式實施涉嫌違法犯罪的活動。在此，公司再次鄭重宣告：公司從未開展、授權或釋出任何與人工智慧、科技培訓、課程學習相關的業務活動，亦未在抖音等任何短影片或直播平臺設立、運營或參與上述相關活動。公司將持續配合警方、相關政府部門及有關平臺開展調查和處置工作，並再次提醒公眾在網路交易時謹慎核實對方資質，避免財產損失。"
-    },
-    {
-      "id": "4873471",
-      "time": "2026-05-12 08:37:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "【伊萊克斯計劃在義大利裁員1,700人並關閉一工廠】義大利工會週一表示，瑞典家電製造商伊萊克斯計劃在義大利裁員1,700人，約佔其在該國員工總數的40%，並關閉當地的一家工廠。消費者需求疲弱和來自低價競爭對手的競爭令伊萊克斯處境艱困，其股價已較2021年高點重摔75%。因此伊萊克斯已暗示將進行更多裁員，並一直在進行重組、削減成本，同時更專注於高階產品線，以期提高盈利能力。義大利金屬工人工會UILM、FIM和FIOM稍早與公司高管會晤後發表聯合宣告稱，伊萊克斯計劃關閉位於義大利中部安科納附近切雷託德埃西（Cerreto d'Esi）的抽油煙機生產廠，並縮減所有工廠的員工規模。伊萊克斯暫未對此置評，該公司在義大利設有五家工廠，共有4,500名員工。"
-    },
-    {
-      "id": "mkt:019e199e-1130-7dd9-b927-19494fe46f56",
-      "time": "2026-05-12 08:37:29",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "ALPHABET EYES 3 AND 15 YEAR JAPANESE YEN BOND - TERM SHEET"
-    },
-    {
-      "id": "4873465",
-      "time": "2026-05-12 08:36:43",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經225指數上漲超過1%，至63056.2點。"
     }
   ]
 }
