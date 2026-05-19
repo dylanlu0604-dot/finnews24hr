@@ -1,7 +1,116 @@
 {
-  "updated": "2026-05-19 23:27:06",
-  "count": 15618,
+  "updated": "2026-05-19 23:31:13",
+  "count": 15619,
   "items": [
+    {
+      "id": "mkt:019e40dc-547c-7228-9afc-56298772fd04",
+      "time": "2026-05-19 23:30:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BAHRAIN BANS ARRIVALS FROM SOUTH SUDAN, DRC, UGANDA: BNA DECISION MADE IN LIGHT OF EBOLA OUTBREAK, EFFECTIVE MAY 19: BNA"
+    },
+    {
+      "id": "4888600",
+      "time": "2026-05-19 23:30:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【阿聯酋稱過去48小時內攔截6架無人機】阿聯酋國防部19日發表宣告說，阿聯酋防空系統在過去48小時內攔截了6架來襲的敵方無人機，阿方人員和關鍵設施未受影響。"
+    },
+    {
+      "id": "te:markets:552004",
+      "time": "2026-05-19 23:30:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 0"
+      ],
+      "text": "DXY Rises to 6-Week High — The dollar index climbed to 99.4 on Tuesday, its highest level in six weeks, amid growing concerns over accelerating inflation. War-driven energy price pressures have added to inflation risks, with earlier spikes in oil seen as reinforcing expectations that the Federal Reserve may need to maintain higher interest rates for longer or even tighten policy further. Although oil prices eased after reports that NATO is considering measures to help secure shipping through the Strait of Hormuz if it remains closed into July, energy costs remain elevated enough to keep inflation worries in focus. Market pricing has shifted sharply, with traders now expecting the Fed’s next move could be a rate hike potentially by the end of this year, compared with earlier expectations for multiple rate cuts in 2026 prior to the war. Investors are now looking ahead to the latest FOMC minutes and flash US PMI data for further insight into the outlook for monetary policy and economic activity."
+    },
+    {
+      "id": "mkt:019e40db-cfb2-7228-9afc-4bbe783c16f8",
+      "time": "2026-05-19 23:29:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "GOLDMAN SACHS HAS LAUNCHED SALE OF THE BELFRY: SKY NEWS"
+    },
+    {
+      "id": "mkt:019e40db-8126-7228-9afc-4477180d02ea",
+      "time": "2026-05-19 23:29:47",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact mixed",
+        "FTSE100"
+      ],
+      "text": "UK COULD LIFT SOME REGULATIONS IN SWAP FOR GROCERY PRICE CAP:FT"
+    },
+    {
+      "id": "4888599",
+      "time": "2026-05-19 23:29:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國或放寬部分監管規定，以此換取商超實施食品限價。"
+    },
+    {
+      "id": "4888598",
+      "time": "2026-05-19 23:28:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "一架烏克蘭無人機在愛沙尼亞上空被北約軍機擊落。"
+    },
+    {
+      "id": "4888597",
+      "time": "2026-05-19 23:28:20",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "OpenAI聯合創始人安德烈·卡帕西正式加入Anthropic。"
+    },
+    {
+      "id": "mkt:019e40d9-026c-7228-9afc-3c0b7766778b",
+      "time": "2026-05-19 23:27:04",
+      "tags": [
+        "MKT News",
+        "005930.KS"
+      ],
+      "text": "SAMSUNG LAUNCHES NEXT-GEN ODYSSEY GAMING & VIEWFINITY MONITORS"
+    },
+    {
+      "id": "4888596",
+      "time": "2026-05-19 23:26:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星推出新一代Odyssey顯示器與ViewFinity顯示器。"
+    },
+    {
+      "id": "mkt:019e40d8-a258-7228-9afc-322759400192",
+      "time": "2026-05-19 23:26:39",
+      "tags": [
+        "MKT News",
+        "FTSE100",
+        "Impact bearish",
+        "GBPUSD",
+        "Impact mixed"
+      ],
+      "text": "UK TREASURY PUSHES SUPERMARKETS TO CAP FOOD PRICES: FT"
+    },
+    {
+      "id": "4888595",
+      "time": "2026-05-19 23:26:30",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "英國財政部施壓商超管控食品價格。"
+    },
     {
       "id": "4888594",
       "time": "2026-05-19 23:26:13",
@@ -141177,110 +141286,6 @@
         "Economic Calendar"
       ],
       "text": "United States | 12-Month Bill Auction High Yield Rate (May.12) | actual 3.65% | previous 3.56%"
-    },
-    {
-      "id": "mkt:019e1ccf-fc8e-7dd3-a757-5e8dbaca2470",
-      "time": "2026-05-12 23:30:47",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "IDF: ALERTS HAVE BEEN ACTIVATED REGARDING THE PENETRATION OF A HOSTILE AIRCRAFT IN SEVERAL AREAS WITHIN THE COUNTRY'S TERRITORY; THE DETAILS ARE UNDER INVESTIGATION"
-    },
-    {
-      "id": "4875626",
-      "time": "2026-05-12 23:30:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐洲STOXX 600指數初步收跌1.03%，報606.46點。歐元區STOXX 50指數初步收跌1.40%，報5813.15點。富時泛歐績優300指數初步收跌0.99%，報2418.43點。"
-    },
-    {
-      "id": "4875625",
-      "time": "2026-05-12 23:30:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "德國DAX 30指數初步收跌1.55%，報23972.35點。法國股指初步收跌1.04%，義大利股指初步收跌1.24%、銀行指數跌0.76%，英國股指初步收跌0.24%。"
-    },
-    {
-      "id": "4875624",
-      "time": "2026-05-12 23:30:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "特拉維夫證券交易所第一季度營收1.833 億以色列謝克爾， 第一季度淨利潤 7740 萬以色列謝克爾，第一季度調整後息稅折舊攤銷前利潤1.156 億以色列謝克爾。"
-    },
-    {
-      "id": "mkt:019e1ccf-af91-7dd3-a757-5343b77caf32",
-      "time": "2026-05-12 23:30:17",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "U.S. CLEVELAND FED CPI FOR APRIL IS 0.4%, UP FROM 0.2% LAST MONTH"
-    },
-    {
-      "id": "4875623",
-      "time": "2026-05-12 23:30:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "特拉維夫證券交易所公佈 2026 年第一季度財報業績：2026 年一季度財報表現強勁，交易所所有核心業務線及運營板塊均創下歷史佳績。"
-    },
-    {
-      "id": "4875622",
-      "time": "2026-05-12 23:29:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防軍：初步通報以色列北部多個區域拉響敵方飛行器入侵防空警報，目前相關詳情正在核查中。"
-    },
-    {
-      "id": "mkt:019e1ccf-03a6-7dd3-a757-4fe0ff46fdce",
-      "time": "2026-05-12 23:29:12",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "SFC ENERGY GETS LARGEST ORDER IN CO. HISTORY FOR SUPPLY OF FUEL CELL SYSTEMS"
-    },
-    {
-      "id": "4875621",
-      "time": "2026-05-12 23:28:46",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "【戴蒙警告美歐之間存在“愚蠢”的貿易問題】摩根大通執行長戴蒙表示，解決美歐之間“愚蠢”的貿易問題將為更好的經濟增長鋪平道路。戴蒙警告稱，投資者目前表現得過於樂觀，考慮到近幾個月出現的各種風險，這種過度興奮可能並不合理。戴蒙稱，中東衝突是一個“大麻煩”，並警告局勢每天都在惡化，他希望問題能得到解決。“如果你問我，我們與歐洲經濟關係的目標應該是什麼，那應該是擁有一個更強大的歐洲，”戴蒙週二在巴黎舉行的摩根大通年度全球市場會議期間說，“這樣雙方的經濟都會增長得更好。”"
-    },
-    {
-      "id": "mkt:019e1cce-0aff-7dd3-a757-43e1f97d520f",
-      "time": "2026-05-12 23:28:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "PETROBRAS CEO SAYS THERE WILL BE AN INCREASE IN GASOLINE PRICE"
-    },
-    {
-      "id": "4875620",
-      "time": "2026-05-12 23:28:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基：我與西班牙眾議院議長Francina Armengol舉行了會談。 雙方首先商討了防務合作事宜，涉及防空體系以及 PURL 與 SAFE 兩項計劃的推進。我們一致認為，歐洲必須實現防空自主，具備抵禦彈道導彈、無人機及其他各類空中威脅的能力。"
     }
   ]
 }
