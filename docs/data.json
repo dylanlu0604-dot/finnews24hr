@@ -1,7 +1,90 @@
 {
-  "updated": "2026-05-19 23:47:51",
+  "updated": "2026-05-19 23:52:01",
   "count": 15627,
   "items": [
+    {
+      "id": "4888617",
+      "time": "2026-05-19 23:50:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗最高領袖穆傑塔巴：對美以戰事取得的重大成果之一，便是伊朗崛起成為具備影響力的大國。"
+    },
+    {
+      "id": "mkt:019e40ee-187b-7228-9afc-e16aef382975",
+      "time": "2026-05-19 23:50:05",
+      "tags": [
+        "MKT News",
+        "005930.KS",
+        "Impact mixed"
+      ],
+      "text": "SAMSUNG, SOUTH KOREAN UNION TO RESUME TALKS AT 10 AM KST (0100GMT) WEDNESDAY - LABOUR COMMISSION"
+    },
+    {
+      "id": "te:economy:552009",
+      "time": "2026-05-19 23:49:57",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Canada 10-Year Yield Rises on US Bond Selloff — Canada’s 10-year government bond yield rose to 3.74% in May, the highest level in over two years amid the surge in US long-term yields, even as soft domestic inflation data reinforced expectations that the BoC will not hike rates. High energy prices and robust economic data in the US drove the yield on their 30-year bond to an 18-year high, spreading into North American bond markets. Meanwhile, domestic headline inflation rose to 2.8% in April due to rising gasoline costs linked to the Middle East conflict. Still, the Bank of Canada’s preferred core inflation gauges slowed more than expected to their lowest levels in five years, suggesting underlying price pressures outside energy have eased. The data aligned with recent signals from the central bank that energy-driven inflation may prove temporary and reduced concerns over additional rate hikes. Still, Governor Tiff Macklem has also warned that geopolitical tensions and trade uncertainty could still alter the policy outlook."
+    },
+    {
+      "id": "4888616",
+      "time": "2026-05-19 23:49:20",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "科技記者馬克·古爾曼：蘋果調整了研發無創血糖感測器秘密部門的負責人，該感測器將應用於未來健康穿戴裝置；相關業務由晶片高管蒂姆·米利特轉交陳宗健（Zongjian Chen音譯），以及負責調變解調器、影像、螢幕與電池業務的高階技術部門接管。"
+    },
+    {
+      "id": "mkt:019e40ec-d8ea-7228-9afc-de9d71e1f921",
+      "time": "2026-05-19 23:48:44",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "SPOT PALLADIUM EXTENDS LOSSES, LAST DOWN OVER 5% AT $1,345/OZ"
+    },
+    {
+      "id": "te:markets:552008",
+      "time": "2026-05-19 23:47:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Merck Stock Price Hits 4-week High — Merck shares increased to 115.02 USD, the highest since April 2026. Over the past 4 weeks, Merck & Co lost 1.82%, and in the last 12 months, it increased 47.45%."
+    },
+    {
+      "id": "mkt:019e40eb-9c2f-7228-9afc-d2aae81405f0",
+      "time": "2026-05-19 23:47:23",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "ICE U.K. NAT GAS JUNE FUTURES SETTLE AT 126.65 PENCE/THERM"
+    },
+    {
+      "id": "te:markets:552007",
+      "time": "2026-05-19 23:47:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "CAC 40 Inches Up as Investors Track US-Iran Talks — The CAC 40 edged up 0.1% to close at 7,994 on Tuesday as investors monitored developments surrounding US-Iran negotiations and ongoing G7 meetings in Paris. US President Donald Trump said he had canceled a planned strike on Iran following appeals from Gulf allies, adding there was a “very good chance” of reaching an agreement to curb Tehran’s nuclear program. Meanwhile, finance ministers and central bank governors from the G7 warned of rising fiscal pressures and heightened volatility across global bond markets. Luxury stocks advanced, with LVMH gaining 1% and Hermès rising 2.1%. Industrials traded mixed, with Safran up 0.4% while Airbus slipped 0.4%. Financial shares were also mixed, as AXA added 0.7% while BNP Paribas lost 0.5%. Schneider Electric dropped 2.1%."
+    },
     {
       "id": "4888615",
       "time": "2026-05-19 23:46:19",
@@ -141277,84 +141360,6 @@
         "公司"
       ],
       "text": "巴西石油公司執行長：公司或將提前推進既定投資計劃。"
-    },
-    {
-      "id": "4875642",
-      "time": "2026-05-12 23:51:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "世界衛生組織：截至中歐夏令時 5 月 12 日 12 時，已報告漢坦病毒相關病例共計 11 例，含 3 例死亡病例。"
-    },
-    {
-      "id": "mkt:019e1ce2-9b0a-7cc6-9ab9-d24a0182c27a",
-      "time": "2026-05-12 23:51:13",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "PAKISTAN FOREIGN MINISTRY: BOTH SIDES UNDERSCORED IMPORTANCE OF CONTINUING A CEASEFIRE & ENSURING NORMAL PASSAGE THROUGH THE STRAIT OF HORMUZ"
-    },
-    {
-      "id": "mkt:019e1ce2-1a89-7cc6-9ab9-c9d791eb7e0c",
-      "time": "2026-05-12 23:50:40",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "PARA.O"
-      ],
-      "text": "LAWMAKERS WRITE TO PARAMOUNT CEO ON DEALINGS WITH TRUMP ADMIN"
-    },
-    {
-      "id": "mkt:019e1ce1-dfcb-7cc6-9ab9-c6b4974ca136",
-      "time": "2026-05-12 23:50:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "PAKISTAN FOREIGN MINISTRY: BOTH LEADERS EXCHANGED VIEWS ON RECENT REGIONAL DEVELOPMENTS & PAKISTAN’S EFFORTS TO FACILITATE ENGAGEMENT BETWEEN IRAN & THE US"
-    },
-    {
-      "id": "4875641",
-      "time": "2026-05-12 23:49:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "巴西石油公司執行長： 公司一組煉油領域專家已抵達墨西哥，另有一支勘探開採專家團隊也將很快啟程赴墨。"
-    },
-    {
-      "id": "mkt:019e1ce0-e4a5-7cc6-9ab9-b815259a478c",
-      "time": "2026-05-12 23:49:21",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "PAKISTAN FOREIGN MINISTRY: FOREIGN MINISTER ISHAQ DAR SPOKE TODAY WITH FOREIGN MINISTER OF THE PEOPLE’S REPUBLIC OF CHINA, WANG YI"
-    },
-    {
-      "id": "te:markets:550054",
-      "time": "2026-05-12 23:48:46",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "DAX 40 Falls to 2-Week Low — The DAX 40 dropped 1.5% to 23,975 on Tuesday, hitting a two-week low as rising geopolitical tensions in the Middle East and higher oil prices weighed on market sentiment. Although the Iran ceasefire has held for nearly five weeks, US President Donald Trump warned it is now “hanging by a thread,” increasing concerns over renewed conflict and its potential impact on global growth. Investors remain cautious about prolonged disruption, while some hope China could play a mediating role between the parties. On the corporate front, Munich Re fell 6% despite reporting strong profits, after accepting price reductions in contract renewals. Siemens Energy declined 5.6% even after posting a solid second quarter and signalling further shareholder returns ahead. In contrast, Bayer rose 4% after a strong start to the year, supported by robust demand for soybean and corn seeds and continued cost-cutting efforts."
-    },
-    {
-      "id": "4875640",
-      "time": "2026-05-12 23:48:37",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "據Semafor白宮經濟記者：美國特拉華州民主黨參議員克里斯·庫恩斯透露，他剛剛投票反對批准沃什出任美聯儲理事；並且在沃什競選美聯儲主席的提名錶決中，他也會投出反對票。而就在昨晚， 庫恩斯還是助力推進沃什提名程式的兩名民主黨議員之一。他表示，昨晚的程式性投票 “只是為了進入正式表決環節而已”。"
     }
   ]
 }
