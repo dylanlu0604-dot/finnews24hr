@@ -1,7 +1,94 @@
 {
-  "updated": "2026-05-19 20:31:18",
-  "count": 15561,
+  "updated": "2026-05-19 20:35:30",
+  "count": 15581,
   "items": [
+    {
+      "id": "mkt:019e403b-29ea-7aa9-b728-bca821e1c4f2",
+      "time": "2026-05-19 20:34:22",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "ANTHROPIC, KPMG WILL BUILD NEW CLAUDE-POWERED PRODUCTS TOGETHER"
+    },
+    {
+      "id": "4888212",
+      "time": "2026-05-19 20:34:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic：正式委任畢馬威為其私募領域優先合作伙伴， 畢馬威將把 Claude 模型嵌入數字閘道器係統。"
+    },
+    {
+      "id": "4888211",
+      "time": "2026-05-19 20:33:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息： Anthropic 宣佈達成全球戰略合作聯盟。"
+    },
+    {
+      "id": "mkt:019e403a-6905-7aa9-b728-b7e614b5661b",
+      "time": "2026-05-19 20:33:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ANTHROPIC HAS ANNOUNCED A GLOBAL ALLIANCE WITH ANTHROPIC"
+    },
+    {
+      "id": "4888210",
+      "time": "2026-05-19 20:32:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "深交所釋出關於對廣東省普路通供應鏈管理股份有限公司的監管函。"
+    },
+    {
+      "id": "4888209",
+      "time": "2026-05-19 20:32:18",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【中控技術決定上調部分自有產品價格】中控技術釋出產品價格調整通知公告稱，近期，受全球宏觀經濟環境、大宗商品市場波動及供應鏈持續緊張等多重因素影響，各類原材料、核心元器件、外配部件採購成本大幅上漲，致使公司多類產品成本大幅攀升。公司已積極透過多種方式最大限度自行承擔成本壓力，然而，成本漲幅仍超出公司可承受範圍。經公司管理層審慎研究，決定對部分自有產品價格進行調整。本次價格調整自2026年5月27日零時起正式生效。（人民財訊）"
+    },
+    {
+      "id": "mkt:019e4038-c18f-7aa9-b728-aeba4b0c6a94",
+      "time": "2026-05-19 20:31:47",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Crypto Concepts"
+      ],
+      "text": "【BOE Weighs Alternative to Stablecoin Holding Limits After Industry Pushback】The Bank of England is considering temporary caps on total stablecoin issuance as an alternative to proposed limits on individual and corporate holdings after industry criticism. Deputy Governor Sarah Breeden said the approach could achieve the same financial stability goals at lower cost while allowing broader payment use cases. The BOE plans to publish draft stablecoin rules next month and finalize them before year-end."
+    },
+    {
+      "id": "4888207",
+      "time": "2026-05-19 20:31:26",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【電科數字：股票交易異常波動 不存在應披露未披露重大資訊】電科數字公告稱，公司股票於2026年5月18日、5月19日連續2個交易日內日收盤價格漲幅偏離值累計超20%，屬異常波動。經自查及向控股股東、實控人核實，公司目前生產經營正常，主營業務未變，不存在應披露而未披露的重大資訊，未發現對股價有影響的媒體報道或市場傳聞，未涉及熱點概念。此外，2026年5月公司及相關人員收到上海證監局擬處罰告知書。提醒投資者注意交易風險。"
+    },
+    {
+      "id": "4888206",
+      "time": "2026-05-19 20:30:55",
+      "tags": [
+        "資料"
+      ],
+      "text": "加拿大4月核心CPI年率 2.1%，前值2.5%。\n加拿大4月核心CPI月率 0.2%，前值0.2%。\n加拿大4月CPI年率 2.8%，預期3.1%，前值2.40%。\n加拿大4月CPI月率 0.4%，預期0.7%，前值0.90%。"
+    },
+    {
+      "id": "em:jjsj_jndsj:202605193742226757",
+      "time": "2026-05-19 20:30:30",
+      "tags": [
+        "經濟數據",
+        "加拿大"
+      ],
+      "text": "【加拿大4月CPI同比增長2.8% 預期3.1%】加拿大4月CPI同比增長2.8%，預期3.1%，前值2.4%。"
+    },
     {
       "id": "4888205",
       "time": "2026-05-19 20:30:19",
@@ -9,6 +96,66 @@
         "國際"
       ],
       "text": "【印尼計劃收緊對大宗商品出口的管控】據報道，印尼計劃加強對煤炭、棕櫚油等大宗商品出口的管控。印尼政府尋求打擊逃稅行為，並支撐持續走弱的印尼盾匯率。據悉，印尼政府計劃成立一家新的官方實體，統一管理大宗商品出口，以打擊低報出口發票金額的行為。該機構將由主權財富基金Danantara監管。"
+    },
+    {
+      "id": "mkt:019e4037-a2c7-7aa9-b728-a3aaab539ed6",
+      "time": "2026-05-19 20:30:08",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | New Housing Price Index (MoM) (Apr) | actual -0.4% | previous -0.2%"
+    },
+    {
+      "id": "mkt:019e4037-3b07-7aa9-b728-9fb319db2e6b",
+      "time": "2026-05-19 20:30:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | CPI (MoM) (Apr) | actual 0.4% | consensus 0.7% | previous 0.90%"
+    },
+    {
+      "id": "mkt:019e4037-39c4-7aa9-b728-8078046e960d",
+      "time": "2026-05-19 20:30:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | CPI (YoY) (Apr) | actual 2.8% | consensus 3.1% | previous 2.40%"
+    },
+    {
+      "id": "mkt:019e4037-2a61-7aa9-b728-7cf6579ff793",
+      "time": "2026-05-19 20:30:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Core CPI (MoM) (Apr) | actual 0.2% | previous 0.2%"
+    },
+    {
+      "id": "mkt:019e4037-2a60-7aa9-b728-72b2c77aeb2c",
+      "time": "2026-05-19 20:30:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Core CPI (YoY) (Apr) | actual 2.1% | previous 2.5%"
+    },
+    {
+      "id": "mkt:019e4036-fce5-7aa9-b728-6f82f77000b4",
+      "time": "2026-05-19 20:30:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Building Permits (MoM) (Mar) | actual 10.3% | consensus 3% | previous -8.40%"
     },
     {
       "id": "te:economy:551938",
@@ -118,6 +265,17 @@
       "text": "巴西央行：我們將維持緊縮性貨幣政策，直至我們確信通脹正朝著目標回落。"
     },
     {
+      "id": "mkt:019e402f-bc0e-7aa9-b728-62aefd95714f",
+      "time": "2026-05-19 20:22:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "TRUMP TRADE ADVISER NAVARRO: CHINA WILL BUY OFFAL, NOT STEAK AND BURGERS"
+    },
+    {
       "id": "4888193",
       "time": "2026-05-19 20:22:03",
       "tags": [
@@ -142,6 +300,14 @@
         "其他"
       ],
       "text": "巴西央行：貨幣政策正在發揮作用，我們不再像以前那樣實現高於潛在水平的增長。"
+    },
+    {
+      "id": "mkt:019e402d-73ea-7aa9-b728-599d1beec935",
+      "time": "2026-05-19 20:19:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SEVERE EARTHQUAKE IN LORESTAN PROVINCE, NORTHERN IRAN: M4.6 MAGNITUDE: MEHR NEWS"
     },
     {
       "id": "4888190",
@@ -220,6 +386,19 @@
       "text": "七國集團財政部長宣告：我們承諾加大並協同努力，防止包括透過虛擬資產在內的金融創新被濫用於恐怖融資。"
     },
     {
+      "id": "mkt:019e402a-7c9a-7aa9-b728-5016b3e7266c",
+      "time": "2026-05-19 20:15:59",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Crypto Concepts",
+        "Bitcoin",
+        "Impact bearish",
+        "Ethereum"
+      ],
+      "text": "G7 FINANCE MINISTERS' STATEMENT: WE COMMIT TO INCREASING AND COMBINING EFFORTS FOR PREVENTING MISUSE OF FINANCIAL INNOVATIONS FOR TERRORIST FINANCING, INCLUDING THROUGH VIRTUAL ASSETS"
+    },
+    {
       "id": "em:jjsj_mgsj:202605193742212617",
       "time": "2026-05-19 20:15:55",
       "tags": [
@@ -236,6 +415,22 @@
         "市場"
       ],
       "text": "【偉時電子：股票交易異常波動 提示生產及交易風險】偉時電子公告稱，公司股票於2026年5月15日、18日、19日連續三個交易日內日收盤價格漲幅偏離值累計超20%，屬異常波動情形。經自查，公司生產經營正常，無應披露而未披露的重大資訊。2025年度公司淨利潤2219.75萬元，同比降60.35%；2026年1 - 3月淨虧損2560.46萬元，同比降287.30%。公司提醒投資者注意經營和二級市場交易風險。"
+    },
+    {
+      "id": "mkt:019e402a-2e70-7aa9-b728-4b9c83a2ab8a",
+      "time": "2026-05-19 20:15:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "AVERAGE WEEKLY U.S. PRIVATE EMPLOYMENT CHANGE FOR 4 WEEKS ENDED MAY 2: 42,250 - ADP"
     },
     {
       "id": "4888180",
@@ -271,6 +466,18 @@
       "text": "【美銀調查顯示多數投資者預計霍爾木茲海峽將在5月或6月重新開放】美國銀行5月份的全球基金經理調查顯示，44%的投資者預計霍爾木茲海峽將在6月份重新開放。另有22%的投資者預計該海峽將在2026年第三季度重新開放，而10%的基金經理預計其將在5月份重新開放。此外，5%的投資者預計這條航道將在2027年或更晚重新開放。"
     },
     {
+      "id": "mkt:019e4027-bfae-7aa9-b728-4613ade6a415",
+      "time": "2026-05-19 20:13:24",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DAX",
+        "Impact bullish"
+      ],
+      "text": "ECB'S VILLEROY: ECB WILL BE READY TO ACT AS NEEDED"
+    },
+    {
       "id": "4888175",
       "time": "2026-05-19 20:12:55",
       "tags": [
@@ -296,12 +503,44 @@
       "text": "【“長三角之星”舒適型旅遊列車從上海首發】“長三角之星”舒適型旅遊列車從上海首發，該旅遊列車全列按照星級酒店標準改造升級，採用獨立包房設計，分兩人間、三人間、四人間三種房型，每間均配備獨立衛浴，並配備智慧燈光控制系統、專屬儲物空間與全景觀景窗等，滿足旅客的需求。該列車還配備了醫務室，內設存放常用藥品的醫用冰箱、AED除顫儀、鋪位等，為遊客健康保駕護航。值得一提的是，列車還在車廂內重點強化適老化與安全智慧細節。車廂走道設定無障礙扶手及防滑地毯；包廂衛生間採用防滑地材，並設有助力扶手、淋浴椅及緊急呼叫按鈕；空調採用下出風設計避免直吹。（新華社）"
     },
     {
+      "id": "mkt:019e4024-f695-7aa9-b728-3f309f0ef0cc",
+      "time": "2026-05-19 20:10:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "EVERGRANDE PROPERTY SERVICES - EXCLUSIVITY PERIOD FOR POTENTIAL DEAL EXPIRED ON 15 MAY 2026 WITHOUT EXTENSION EVERGRANDE PROPERTY SERVICES - DISCUSSIONS ON POTENTIAL DEAL REMAIN ONGOING DESPITE EXPIRY OF EXCLUSIVITY PERIOD EVERGRANDE PROPERTY SERVICES - NO FORMAL OR LEGALLY BINDING AGREEMENT ENTERED FOR POTENTIAL DEAL"
+    },
+    {
       "id": "4888172",
       "time": "2026-05-19 20:10:13",
       "tags": [
         "公司"
       ],
       "text": "【湖北保險行業加快保險理賠應對暴雨災害】連日來，湖北出現大範圍強降雨過程，部分地區出現房屋倒塌、車輛受淹、設施損毀等情況。湖北保險行業啟動應急機制，迅速開展現場救援和查勘定損理賠工作，全力保障受災群眾利益。 連日來，湖北省自西向東迎來一次較強降雨過程。其中，5月16日，鄂西及江漢平原西部33個縣（市、區）161個鄉鎮出現暴雨。5月17日，鄂西和江漢平原出現大到暴雨，26個縣（市、區）184個鄉鎮雨量超過100毫米。5月18日，武漢、黃岡、咸寧、鄂州等地23個縣（市、區）107個鄉鎮出現大暴雨。 受較強降雨過程影響，湖北省部分地區出現城鄉漬水、設施損毀等災情，農作物受災嚴重。最新資料顯示，截至5月18日，全省財險業已接到報案8200餘筆，初步估損金額1.5億元。其中，車險報案佔比52%，估損金額4000萬元。農險和農房保險報案佔比45%，估損金額7200餘萬元。 災情發生後，國家金融監督管理總局湖北監管局督促各保險公司暢通報案渠道，最佳化理賠流程，並建立日報機制，做到應賠盡賠、能賠快賠、合理預賠。 國家金融監督管理總局湖北監管局相關負責人說，監管部門將進一步加強對全省保險行業應對暴雨災害等相關工作的指導，督促各保險公司加快查勘定損、理賠公示等流程，及時將賠付款撥付到受災人員賬戶，為保障人民群眾生命財產安全和生產經營穩定作出應有貢獻。(新華社)"
+    },
+    {
+      "id": "mkt:019e4024-968b-7aa9-b728-3241e510e4af",
+      "time": "2026-05-19 20:09:42",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "G7 FINANCE MINISTERS STATEMENT: WE REAFFIRM OUR INTENTION TO DEEPEN AND EXPAND OUR COOPERATION ON CRITICAL MINERALS SUPPLY CHAINS"
+    },
+    {
+      "id": "mkt:019e4023-c344-7aa9-b728-2f3e8a7fd4f5",
+      "time": "2026-05-19 20:09:02",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "SPOT PALLADIUM FALLS 3% TO $1,375.50/OZ"
     },
     {
       "id": "4888171",
@@ -346,6 +585,14 @@
       "text": "【受大霧影響 大連機場出現大面積航班延誤】受大霧影響，大連周水子國際機場部分進出港航班延誤。19日15時20分，機場啟動大面積航班延誤黃色預警。截至目前，大霧天氣仍在持續，機場已取消航班140班。大連機場方面正根據航空公司需求對相關旅客安排住宿及餐食保障，並積極協助旅客進行機票退改簽工作。19日，遼寧大連出現大霧天氣，當地氣象部門釋出大霧橙色預警。根據民航空管氣象部門預測，明日9時後天氣將逐漸好轉，符合落地標準，屆時航班將陸續恢復。（央視新聞）"
     },
     {
+      "id": "mkt:019e4020-c332-7aa9-b728-2756f77aab2c",
+      "time": "2026-05-19 20:05:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US STATE DEPT: STRONGLY URGES AMERICANS NOT TO TRAVEL TO THE DEMOCRATIC REPUBLIC OF THE CONGO, SOUTH SUDAN, OR UGANDA FOR ANY REASON AND TO RECONSIDER TRAVEL TO RWANDA DUE TO THE EBOLA OUTBREAK"
+    },
+    {
       "id": "4888165",
       "time": "2026-05-19 20:05:34",
       "tags": [
@@ -362,12 +609,37 @@
       "text": "法國財長：目前仍在開展工作，以明確具體工具來解決關鍵原材料市場的效率低下問題。"
     },
     {
+      "id": "mkt:019e4020-926a-7aa9-b728-1d30696d736e",
+      "time": "2026-05-19 20:05:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "U.S. OFFICIAL TO AL JAZEERA: WHITE HOUSE NATIONAL SECURITY COUNCIL MEETING POSTPONED AFTER TRUMP DELAYED ATTACK ON IRAN"
+    },
+    {
       "id": "4888163",
       "time": "2026-05-19 20:05:06",
       "tags": [
         "公司"
       ],
       "text": "德意志銀行執行長：預計年內撥備將持續迴歸正常水平。"
+    },
+    {
+      "id": "mkt:019e4020-9194-7aa9-b728-10c274553cb8",
+      "time": "2026-05-19 20:04:58",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "DXY",
+        "XAUUSD"
+      ],
+      "text": "G7 FINANCE MINISTERS' STATEMENT: PLEDGE TO CONSIDER FURTHER SANCTIONS ON KEY SECTORS OF RUSSIA’S ECONOMY"
     },
     {
       "id": "4888162",
@@ -403,6 +675,19 @@
       "text": "法國財長：我們希望能夠對關鍵材料市場進行監控，並明確哪些品類有庫存、哪些品類無庫存。"
     },
     {
+      "id": "mkt:019e401f-cd6b-7aa9-b728-0f61b0c75c6c",
+      "time": "2026-05-19 20:03:29",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7"
+      ],
+      "text": "APPLE UNVEILS NEW ACCESSIBILITY FEATURES, AND UPDATES POWERED BY APPLE INTELLIGENCE"
+    },
+    {
       "id": "4888156",
       "time": "2026-05-19 20:03:18",
       "tags": [
@@ -419,12 +704,33 @@
       "text": "七國集團財長宣告：應對全球經常賬戶失衡問題值得采取協同行動。"
     },
     {
+      "id": "mkt:019e401f-7f4b-7aa9-b728-05be7da8ac5b",
+      "time": "2026-05-19 20:03:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BALTIC DRY INDEX FALLS 1.23% TO 3,054"
+    },
+    {
       "id": "4888154",
       "time": "2026-05-19 20:02:58",
       "tags": [
         "公司"
       ],
       "text": "蘋果公司：釋出由蘋果智慧驅動的新輔助功能及更新，宣佈將於今年晚些時候推出輪椅控制和生成式字幕功能。將為Apple Vision Pro使用者推出眼控輪椅功能。"
+    },
+    {
+      "id": "mkt:019e401f-2556-7aa9-b727-fd6ab3e88044",
+      "time": "2026-05-19 20:02:10",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "APPLE INC - TO INTRODUCE EYE-CONTROLLED WHEELCHAIR FEATURE FOR APPLE VISION PRO USERS"
     },
     {
       "id": "4888153",
@@ -451,6 +757,20 @@
       "text": "美國聯合航空預計5月21日至27日期間客流量將達到390萬人次，每日執飛5000架次航班。"
     },
     {
+      "id": "mkt:019e401c-c5cc-7aa9-b727-f691a1725c8b",
+      "time": "2026-05-19 20:01:12",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "SNE.N",
+        "Impact bullish"
+      ],
+      "text": "APPLE INC - SONY ACCESS CONTROLLER NOW COMPATIBLE WITH IOS, IPADOS, AND MACOS"
+    },
+    {
       "id": "te:markets:551937",
       "time": "2026-05-19 20:01:03",
       "tags": [
@@ -471,12 +791,55 @@
       "text": "加拿大至5月15日全國經濟信心指數 51.9，前值51。"
     },
     {
+      "id": "mkt:019e401b-f3aa-7aa9-b727-ed637581cb31",
+      "time": "2026-05-19 20:00:34",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "APPLE INC - ANNOUNCES WHEELCHAIR CONTROL AND GENERATED SUBTITLES FEATURES COMING LATER THIS YEAR"
+    },
+    {
+      "id": "mkt:019e401b-d130-7aa9-b727-e57f25876bfd",
+      "time": "2026-05-19 20:00:21",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "APPLE UNVEILS NEW ACCESSIBILITY FEATURES, AND UPDATES POWERED BY APPLE INTELLIGENCE"
+    },
+    {
       "id": "4888149",
       "time": "2026-05-19 20:00:12",
       "tags": [
         "宏觀"
       ],
       "text": "法國財長萊斯庫爾：越早開放霍爾木茲海峽，對所有人越有利。"
+    },
+    {
+      "id": "mkt:019e401b-ab77-7aa9-b727-dfc4831df404",
+      "time": "2026-05-19 20:00:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "KRAKEN: AWARE OF ONGOING SCHEME-WIDE INCIDENT IMPACTING PROCESSING OF SEPA INSTANT PAYMENTS KRAKEN: OUTGOING EUR SEPA PAYMENTS MAY BE AFFECTED AND REMAIN IN A PENDING PROCESSING STATUS UNTIL THE INCIDENT IS RESOLVED"
+    },
+    {
+      "id": "mkt:019e401b-9b10-7aa9-b727-d547cca8eb06",
+      "time": "2026-05-19 20:00:11",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | National Economic Confidence Index (May.15) | actual 51.9 | previous 51"
     },
     {
       "id": "4888148",
@@ -538,6 +901,21 @@
       "text": "路透調查：美國個人消費支出通脹率第二季度平均為3.9%，第三季度為3.7%，第四季度為3.4%，4月調查得出的預測分別為3.7%、3.4%和3.2%。"
     },
     {
+      "id": "mkt:019e401a-2435-7aa9-b727-cccd0f7de9fd",
+      "time": "2026-05-19 19:58:35",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "POLL-U.S. FEDERAL RESERVE TO CUT FED FUNDS RATE AT LEAST ONCE THIS YEAR, SAID 48 OF 101 ECONOMISTS (71 OF 103 IN APRIL POLL) POLL-U.S. PERSONAL CONSUMPTION EXPENDITURES INFLATION TO AVERAGE 3.9% IN Q2, 3.7% IN Q3 AND 3.4% IN Q4 (3.7%, 3.4% AND 3.2% IN APRIL POLL) POLL-U.S. FEDERAL RESERVE TO HOLD FED FUNDS RATE AT 3.50%-3.75% RANGE THROUGH THIS YEAR, SAID 49 OF 101 ECONOMISTS (30 OF 103 IN APRIL POLL)"
+    },
+    {
       "id": "4888141",
       "time": "2026-05-19 19:58:30",
       "tags": [
@@ -553,6 +931,18 @@
         "公司"
       ],
       "text": "七國集團財長宣告：霍爾木茲海峽必須重新開放。"
+    },
+    {
+      "id": "mkt:019e4019-efa3-7aa9-b727-c3ce9fce1885",
+      "time": "2026-05-19 19:58:02",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "BANK OF FRANCE'S VILLEROY: WE ARE READY TO ACT AS MUCH AS NECESSARY, IT'S UP TO EACH CENTRAL BANK TO GIVE ITS PRECISE ANSWER"
     },
     {
       "id": "4888139",
@@ -587,6 +977,34 @@
         "國際"
       ],
       "text": "七國集團財長宣告：確認中東衝突持續之下，全球經濟不確定性加劇了增長與通脹面臨的風險。"
+    },
+    {
+      "id": "mkt:019e4018-dd5a-7aa9-b727-bf07a669f7b3",
+      "time": "2026-05-19 19:56:52",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "G7 FINANCE MINISTERS' STATEMENT: ACKNOWLEDGE THAT GLOBAL ECONOMIC UNCERTAINTY HAS HEIGHTENED RISKS TO GROWTH AND TO INFLATION AMID THE ONGOING CONFLICT IN THE MIDDLE EAST"
+    },
+    {
+      "id": "mkt:019e4018-40fa-7aa9-b727-b73c7ce827f3",
+      "time": "2026-05-19 19:56:31",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Themes",
+        "AI Revolution",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "VILLEROY: TWO SUPPLY SHOCKS HAPPENING AT GLOBAL LEVEL VILLEROY: ENERGY SUPPLY SHOCK AND POSITIVE SUPPLY SHOCK ON AI VILLEROY: IRAN CONFLICT CREATES RISK TO GROWTH AND INFLATION"
     },
     {
       "id": "4888135",
@@ -653,6 +1071,19 @@
         "公司"
       ],
       "text": "殼牌執行長表示，收購ARC並不取決於加拿大液化天然氣專案第二階段的推進。"
+    },
+    {
+      "id": "mkt:019e4012-f883-7aa9-b727-af70ee4daceb",
+      "time": "2026-05-19 19:50:29",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Nasdaq100",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "【JPMorgan’s Brunner Says AI Shifted From Hype to Execution】Kevin Brunner, global chair of investment banking and M&A at JPMorgan Chase & Co., said artificial intelligence is moving beyond hype into real-world execution and scaling. Speaking at the bank’s technology conference in Boston, Brunner said companies are increasingly focused on their long-term AI strategies and that the technology’s growing impact will play a major role in shaping mergers and acquisitions."
     },
     {
       "id": "4888126",
@@ -780,12 +1211,28 @@
       "text": "訊息人士：敘利亞大馬士革一處武器管理中心遭汽車爆炸裝置襲擊。"
     },
     {
+      "id": "mkt:019e400c-5a8d-7aa9-b727-a295b5e296e8",
+      "time": "2026-05-19 19:43:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EXPLOSIVE DEVICE PLANTED INSIDE A CAR TARGETS ARMAMENT MANAGEMENT CENTER IN SYRIA'S DAMASCUS - MILITARY SOURCE TO REUTERS"
+    },
+    {
       "id": "4888112",
       "time": "2026-05-19 19:43:26",
       "tags": [
         "公司"
       ],
       "text": "【星湖科技：董事長、法定代表人劉立斌離任】星湖科技公告，公司董事會於近日收到公司董事長劉立斌先生的辭職報告，劉立斌先生因工作調動辭去公司董事長、董事以及專門委員會委員等職務。離任後，劉立斌先生將不在公司及公司控股子公司擔任任何職務。劉立斌先生的辭職不會導致公司董事會成員低於法定人數，辭職報告自送達公司董事會之日起生效。劉立斌先生不存在未履行完畢的公開承諾，已按照公司相關規定做好了離任交接工作。劉立斌先生的辭職不會影響公司董事會的正常執行，亦不會對公司的日常運營產生不利影響。"
+    },
+    {
+      "id": "mkt:019e400c-279d-7aa9-b727-9a4a22e259e8",
+      "time": "2026-05-19 19:43:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BESSENT: HAD CONSTRUCTIVE DISCUSSIONS ON THE GLOBAL ECONOMY, GLOBAL IMBALANCES, CYBERSECURITY, THE TERRORIST THREAT POSED BY IRAN, AND CRITICAL MINERALS AT G7 FINANCE MINISTERS MEETING"
     },
     {
       "id": "4888111",
@@ -831,12 +1278,30 @@
       "text": "鈀金期貨日內跌2%，現報1392.00美元/盎司。"
     },
     {
+      "id": "mkt:019e400a-4678-7aa9-b727-9628543b8215",
+      "time": "2026-05-19 19:40:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BESSENT:DISCUSSED GLOBAL ECONOMY, IMBALANCES, CRITICAL MINERALS"
+    },
+    {
       "id": "4888106",
       "time": "2026-05-19 19:40:28",
       "tags": [
         "公司"
       ],
       "text": "【漢商集團：擬將回購股份602.41萬股登出並減少公司註冊資本】漢商集團公告，公司擬將回購專用證券賬戶中已回購且尚未用於員工持股計劃或股權激勵的602.41萬股公司股份的用途由“用於員工持股計劃或股權激勵”變更為“登出並減少公司註冊資本”。本次擬登出股份共計602.41萬股，佔公司總股本的2.04%。登出完成後，公司總股本將由2.95億股減少為2.89億股，註冊資本將由2.95億元減少為2.89億元。"
+    },
+    {
+      "id": "mkt:019e400a-439e-7aa9-b727-89a8539956d9",
+      "time": "2026-05-19 19:40:23",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Cavendish’s Roger Lee Says AI Monetization Doubts Re-Emerging】“Maybe there is an element of the returning doubts over the monetization of AI,” said Roger Lee, head of equity strategy at Cavendish."
     },
     {
       "id": "4888105",
@@ -846,6 +1311,27 @@
         "國際"
       ],
       "text": "印尼財政部長：全球債券發售所得將增加國內美元供應。"
+    },
+    {
+      "id": "mkt:019e400a-4227-7aa9-b727-838e1abedaa1",
+      "time": "2026-05-19 19:40:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "GCC SEC GEN: FTA TALKS WITH UK TO CONCLUDE MAY 20"
+    },
+    {
+      "id": "mkt:019e400a-40cd-7aa9-b727-7e85c8255c13",
+      "time": "2026-05-19 19:40:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BESSENT: HAD CONSTRUCTIVE DISCUSSIONS WITH COUNTERPARTS AT G-7"
     },
     {
       "id": "4888104",
@@ -881,6 +1367,18 @@
         "其他"
       ],
       "text": "安聯：今年企業首要政治風險關切中，戰爭已取代內亂居首。"
+    },
+    {
+      "id": "mkt:019e4008-7f5c-7aa9-b727-771a1ceb205d",
+      "time": "2026-05-19 19:39:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "IAG.L",
+        "Impact bearish"
+      ],
+      "text": "BRITISH AIRWAYS SUSPENDS FLIGHTS TO ISRAEL UNTIL AUGUST 1 - REPORTS"
     },
     {
       "id": "4888100",
@@ -971,6 +1469,14 @@
         "國際"
       ],
       "text": "伊朗總統佩澤希齊揚：談判並不意味著投降，德黑蘭是在維護伊朗民族權利的前提下，帶著尊嚴參與談判。"
+    },
+    {
+      "id": "mkt:019e4004-5603-7aa9-b727-6b2db2c4e4c3",
+      "time": "2026-05-19 19:34:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RUSSIA'S ROSATOM SAYS ITS CONFIDENT THAT IT WILL BE ABLE TO RESTORE STAFFING AT IRAN'S BUSHEHR NUCLEAR PLANT IN NEAREST WEEKS - RIA"
     },
     {
       "id": "4888089",
@@ -140305,293 +140811,6 @@
         "市場"
       ],
       "text": "【*ST準油：股價異常波動 提示多項投資風險】*ST準油公告稱，公司股票2026年5月8日、5月11日、5月12日連續三個交易日收盤價格漲幅偏離值累計達12%，屬異常波動。公司2025年度淨虧損4029.87萬元，同比降156.10%；2026年一季度淨虧損1570.73萬元，同比降1.01%，基本面未明顯改善，股價漲幅偏離基本面。此外，公司股票存在終止上市風險，還面臨國際油價波動、產業單一等風險，提醒投資者理性投資。"
-    },
-    {
-      "id": "4875231",
-      "time": "2026-05-12 20:35:24",
-      "tags": [
-        "資料",
-        "市場",
-        "國際"
-      ],
-      "text": "美國10年期國債收益率在CPI資料公佈後維持早前的上漲，現漲3.5個基點，報4.447%。兩年期美債收益率現漲4.4個基點，報3.991%。"
-    },
-    {
-      "id": "te:economy:550006",
-      "time": "2026-05-12 20:34:52",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Inflation Rate MoM",
-        "Importance 1"
-      ],
-      "text": "US Consumer Prices Rise 0.6% in April — US consumer prices increased by 0.6% month-over-month in April 2026, matching market expectations and following a 0.9% surge in March, the largest since 2022. Energy prices jumped 3.8% in April, after a 10.9% spike the previous month, driven by the Iran war and the closure of the Strait of Hormuz. Shelter costs also rose by 0.6%, up from a 0.3% increase in March, while food prices climbed 0.5%, with food at home rising 0.7% and food away from home up 0.2%. Other indexes that increased in April included household furnishings and operations, airline fares, personal care, apparel, and education. Meanwhile, the indexes for new vehicles, communication, and medical care declined. The core rate, which excludes food and energy, rose 0.4%, the most since January 2025 and higher than the expected 0.3%."
-    },
-    {
-      "id": "4875230",
-      "time": "2026-05-12 20:34:43",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【美國4月能源通脹同比增速仍處於高位】美國勞工統計局資料顯示，美國4月季調後能源通脹環比增長3.8%，3月為增長10.9%；其中，能源大宗商品通脹環比增長5.6%，此前為21.3%，汽油通脹環比增長5.4%，此前為21.2%，燃料油通脹環比增長5.8%，此前為30.7%。4月未季調能源通脹同比增長17.9%，3月為增長12.5%；其中，能源大宗商品通脹同比增長29.2%，汽油通脹同比增長28.4%，燃料油通脹同比增長54.3%。"
-    },
-    {
-      "id": "mkt:019e1c2f-6283-7dd9-b92f-564371d3ad66",
-      "time": "2026-05-12 20:34:06",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "VANKE: BOARD APPROVED PROPOSALS ON A FRAMEWORK AGREEMENT FOR SHENZHEN METRO GROUP TO PROVIDE A 2.5BN YUAN SHAREHOLDER LOAN FACILITY WITH GUARANTEES FROM THE COMPANY, AND A SUPPLEMENTAL AGREEMENT RELATED TO A 22BN YUAN SHAREHOLDER LOAN ARRANGEMENT"
-    },
-    {
-      "id": "4875229",
-      "time": "2026-05-12 20:34:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "【天海電子：首次公開發行股票7900萬股 發行費用1.42億元】天海電子公告稱，公司首次公開發行股票7900萬股，發行價27.19元/股，發行後總股本為52500萬股。戰略配售1580萬股，佔比20%；網上發行4424萬股，佔比70%；網下發行1896萬股，佔比30%。網上投資者放棄認購149465股，網下投資者放棄認購2365股，均由保薦人包銷，包銷股份151830股，金額412.83萬元。本次發行費用1.42億元，保薦承銷費1.11億元。"
-    },
-    {
-      "id": "4875228",
-      "time": "2026-05-12 20:33:58",
-      "tags": [
-        "資料",
-        "國際"
-      ],
-      "text": "【美國4月核心CPI月率超預期反彈】美國4月季調後核心CPI月率錄得0.4%，為2025年1月以來新高，高於市場預期的0.3%。"
-    },
-    {
-      "id": "mkt:019e1c2e-eb8e-7dd9-b92f-4dfaea10beeb",
-      "time": "2026-05-12 20:33:38",
-      "tags": [
-        "MKT News",
-        "Important",
-        "000002.SZ",
-        "Impact bullish"
-      ],
-      "text": "VANKE SIGNS SUPPLEMENTARY AGREEMENT WITH SHENZHEN METRO"
-    },
-    {
-      "id": "te:economy:550005",
-      "time": "2026-05-12 20:33:36",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Core Inflation Rate",
-        "Importance 2"
-      ],
-      "text": "US Core Inflation Rises to 7-Month High — The annual core inflation rate in the United States, which excludes food and energy, rose to 2.8% in April of 2026 from 2.6% in the previous month, slightly above market expectations of 2.7%. It was the sharpest core inflation rate since September of last year. Prices rose sharply for services less energy services (3.3%) amid higher costs for shelter (3.3%) and transportation services (4.3%). IN turn, prices rose sharply for apparel (4.2%), while they fell rose less for new vehicles (0.2%) and tumbled for used cars and trucks (-2.7%). From the previous month, core consumer prices rose by 0.4%, the sharpest increase since January 2025."
-    },
-    {
-      "id": "4875227",
-      "time": "2026-05-12 20:33:31",
-      "tags": [
-        "資料",
-        "市場",
-        "國際"
-      ],
-      "text": "美國股指期貨在4月CPI資料公佈後跌幅小幅擴大。"
-    },
-    {
-      "id": "4875226",
-      "time": "2026-05-12 20:33:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "【世衛組織：應對漢坦病毒疫情工作“還未結束”】世界衛生組織總幹事譚德塞12日表示，涉漢坦病毒疫情郵輪“洪迪厄斯”號人員撤離行動完成後，目前尚未出現更大規模疫情暴發的跡象，但相關應對工作還未結束，預計未來數週仍有可能出現新增病例。 譚德塞與西班牙首相桑切斯當天在西班牙首相府蒙克洛亞宮共同召開新聞釋出會。譚德塞感謝西班牙政府同意接收涉疫郵輪並組織人員撤離行動，同時強調目前“工作還未結束”，世衛組織將繼續與相關國家緊密合作，追蹤撤離人員的健康狀況。（新華社）"
-    },
-    {
-      "id": "4875225",
-      "time": "2026-05-12 20:33:01",
-      "tags": [
-        "資料",
-        "市場",
-        "國際"
-      ],
-      "text": "現貨黃金在美國CPI資料公佈後維持跌勢，最新下跌0.9%，報每盎司4692.58美元。"
-    },
-    {
-      "id": "mkt:019e1c2d-6fa2-7dd9-b92f-4048cbf0f9d9",
-      "time": "2026-05-12 20:32:56",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bearish",
-        "Nasdaq100",
-        "Dow"
-      ],
-      "text": "U.S. STOCK INDEX FUTURES EXTEND LOSSES SLIGHTLY AFTER APRIL CPI DATA"
-    },
-    {
-      "id": "mkt:019e1c2d-6b62-7dd9-b92f-3c00842b5d13",
-      "time": "2026-05-12 20:32:52",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "SPOT GOLD HOLDS LOSSES AFTER US CPI DATA, LAST DOWN 0.9% AT $4,692.58/OZ"
-    },
-    {
-      "id": "4875224",
-      "time": "2026-05-12 20:32:41",
-      "tags": [
-        "資料",
-        "市場",
-        "國際"
-      ],
-      "text": "核心CPI漲幅超出預期，美國國債企穩。"
-    },
-    {
-      "id": "mkt:019e1c2c-f216-7dd9-b92f-352cbab481a4",
-      "time": "2026-05-12 20:32:26",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "US SHORT-TERM INTEREST-RATE FUTURES SLIGHTLY PARE EARLIER LOSSES AFTER INFLATION DATA"
-    },
-    {
-      "id": "4875223",
-      "time": "2026-05-12 20:32:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【三峽水庫為長江中下游補水超100億立方米】 記者從中國三峽集團獲悉，自2025年11月21日啟動枯水期補水排程以來，截至5月12日，三峽水庫已累計為長江中下游補水超100億立方米，為長江中下游沿線民生供水、農業生產、航運暢通及生態保護提供了堅實保障。每年冬季至來年春季是長江流域少雨時期，為有效應對枯水期挑戰，三峽集團依據水利部長江水利委員會排程要求科學制定補水方案，持續加大三峽水庫下洩流量，日均出庫流量超7000立方米每秒，平均出庫流量超自然平均流量近六成。目前，長江流域正式進入汛期。據長江流域氣象中心最新預測，2026年長江流域汛期旱澇並存，長江中游旱重於澇，主汛期降水總體偏少。（新華社）"
-    },
-    {
-      "id": "mkt:019e1c2c-e36c-7dd9-b92f-2c37b4a4dfe7",
-      "time": "2026-05-12 20:32:21",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Wall Street (US)",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "S&P 500 FUTURES EXTEND DECLINE TO 0.5%"
-    },
-    {
-      "id": "4875222",
-      "time": "2026-05-12 20:32:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數期貨跌幅擴大至0.5%。"
-    },
-    {
-      "id": "4875221",
-      "time": "2026-05-12 20:32:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "OKLO公司與愛達荷國家實驗室將在先進核能系統中採用人工智慧驅動的反應堆設計。"
-    },
-    {
-      "id": "mkt:019e1c2c-c6ea-7dd9-b92f-24cdf34087f7",
-      "time": "2026-05-12 20:32:09",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "YIELD CURVE BETWEEN TWO- AND 10-YEAR TREASURY NOTES LAST AT A POSITIVE 45.2 BASIS POINTS YIELD ON 10-YR U.S. TREASURY NOTES HOLDS EARLIER INCREASE AFTER CPI DATA, LAST UP 3.5 BASIS POINTS AT 4.447% TWO-YR U.S. TREASURY YIELD LAST UP 4.4 BASIS POINTS AT 3.991%"
-    },
-    {
-      "id": "4875220",
-      "time": "2026-05-12 20:31:53",
-      "tags": [
-        "市場"
-      ],
-      "text": "英鎊<GBP=D3>下跌0.67%，報1.3520美元。"
-    },
-    {
-      "id": "mkt:019e1c2c-64db-7dd9-b92f-1f178f116c0f",
-      "time": "2026-05-12 20:31:53",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "US APRIL CORE CPI ROSE 2.8% YOY, THE HIGHEST SINCE SEPTEMBER 2025 AND ABOVE MARKET EXPECTATIONS OF 2.7%"
-    },
-    {
-      "id": "4875219",
-      "time": "2026-05-12 20:31:47",
-      "tags": [
-        "市場"
-      ],
-      "text": "歐元<EUR=EBS>下跌0.4%，報1.1736美元。"
-    },
-    {
-      "id": "4875218",
-      "time": "2026-05-12 20:31:42",
-      "tags": [
-        "資料",
-        "市場"
-      ],
-      "text": "美元指數在CPI資料公佈後漲幅擴大，最新上漲0.37%，報98.32點。"
-    },
-    {
-      "id": "4875217",
-      "time": "2026-05-12 20:31:35",
-      "tags": [
-        "市場"
-      ],
-      "text": "美元/日元<JPY=>上漲0.29%，報157.61。"
-    },
-    {
-      "id": "4875216",
-      "time": "2026-05-12 20:31:30",
-      "tags": [
-        "資料"
-      ],
-      "text": "彭博美元現貨指數在4月CPI報告發布後維持漲勢。"
-    },
-    {
-      "id": "mkt:019e1c2c-0994-7dd9-b92f-114e3039ed9e",
-      "time": "2026-05-12 20:31:27",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "Impact bearish",
-        "USDJPY"
-      ],
-      "text": "U.S. DOLLAR INDEX ADDS TO GAINS AFTER CPI DATA, LAST UP 0.37% AT 98.32"
-    },
-    {
-      "id": "4875215",
-      "time": "2026-05-12 20:31:19",
-      "tags": [
-        "資料",
-        "焦點",
-        "國際"
-      ],
-      "text": "【美國4月核心CPI年率超預期反彈】美國4月未季調核心CPI年率錄得2.8%，為2025年9月以來新高，高於市場預期的2.7%。"
     }
   ]
 }
