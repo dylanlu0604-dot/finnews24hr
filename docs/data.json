@@ -1,7 +1,95 @@
 {
-  "updated": "2026-05-19 15:14:03",
-  "count": 15623,
+  "updated": "2026-05-19 15:18:05",
+  "count": 15616,
   "items": [
+    {
+      "id": "4887424",
+      "time": "2026-05-19 15:17:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【一品紅：AR882正在進行關鍵性Ⅲ期臨床試驗，尚處於臨床研究階段】一品紅5月19日在互動平臺表示，目前，AR882正在進行關鍵性Ⅲ期臨床試驗，尚處於臨床研究階段。"
+    },
+    {
+      "id": "4887423",
+      "time": "2026-05-19 15:16:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【菜鳥上線美國、德國\"晚必賠\"】5月19日，菜鳥宣佈在美國和德國同步上線\"晚必賠\"服務，承諾跨境包裹分別在10個和8個自然日內送達，超時主動賠付。據介紹，這是繼英國5日達\"晚必賠\"後，菜鳥首次將該產品拓展至美國和歐洲大陸市場。"
+    },
+    {
+      "id": "4887422",
+      "time": "2026-05-19 15:16:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【山東鹽鹼地等耕地後備資源綜合利用試點任務圓滿完成，年增糧食產能約7300萬斤】今天下午，山東省人民政府新聞辦公室舉行“幹事創業 擔當盡責”主題系列新聞釋出活動，邀請山東省發展和改革委員會負責同志等介紹山東鹽鹼地等耕地後備資源綜合利用試點經驗成效。經核算，試點新增耕地約3.48萬畝，改造提升鹽鹼耕地11.59萬畝，超額完成計劃目標，年增糧食產能約7300萬斤。新增耕地土壤含鹽量顯著下降、80%的專案片區下降至3‰以下，耕地質量等級均不低於周邊耕地等級；鹽鹼耕地改造提升後，土壤鹽鹼程度下降明顯、2個專案含鹽量下降至1‰以下，氮磷鉀、有機質等養分含量顯著上升，農田水利設施更加完善。同時，探索總結出適合不同土壤型別的鹽鹼地治理模式和技術路徑，為全國耕地後備資源綜合利用探索出可複製、可推廣的經驗。（山東釋出）"
+    },
+    {
+      "id": "te:markets:551856",
+      "time": "2026-05-19 15:16:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Shangai Composite Index Closes 0.94% Higher — The Shangai Composite Index gained 39 points or 0.94 percent on Tuesday to close at 4170 points. Gains were led by Zhejiang Zheneng (8.62%), Datang Intl (7.44%) and China Fortune (4.72%). Biggest losers were Hengli Petrochemical (-2.29%), BAIC BluePark (-2.08%) and Jiangsu Hengrui (-1.83%)."
+    },
+    {
+      "id": "te:economy:551855",
+      "time": "2026-05-19 15:15:23",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Moldova",
+        "Producer Prices Change",
+        "Importance 1"
+      ],
+      "text": "Moldova Producer Inflation Eases in April — Producer prices in Moldova rose by 1.1% year-on-year in April 2026, easing slightly from 1.2% in the previous month. Costs declined further for electricity, gas, steam, and air-conditioning (-12.8% vs -9.2% in March), weighed down by decreases in electrical power generation, transmission, and distribution (-14% vs -8.3%) and production of electricity (-21.4% vs -21.7%). In contrast, price growth edged up in manufacturing (2.4% vs 2.3%), driven largely by a recovery in costs of wearing apparel (0.7% vs -0.1%), fabricated metal products (1.3% vs -0.1%), and pasta and noodle products (1.1% vs -1.6%). Costs also increased in mining and quarrying (5.5% vs 4.2%). On a monthly basis, producer prices grew by 0.4% in April, rebounding from a 0.4% drop in the preceding period."
+    },
+    {
+      "id": "mkt:019e3f16-a46c-7aa9-b724-6818c603426f",
+      "time": "2026-05-19 15:15:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CHINA FOREIGN MINISTRY: CONFIRMED NO CASUALTIES"
+    },
+    {
+      "id": "4887421",
+      "time": "2026-05-19 15:15:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨收盤】 30年期主力合約漲0.56%， 10年期主力合約漲0.15%， 5年期主力合約漲0.06%， 2年期主力合約漲0.02%。"
+    },
+    {
+      "id": "4887420",
+      "time": "2026-05-19 15:14:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞典國防大臣：最終價格將取決於所選武器裝備，該交易將加強與法國的關係。"
+    },
+    {
+      "id": "4887419",
+      "time": "2026-05-19 15:14:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞典政府：首艘護衛艦預計將於2030年交付。"
+    },
+    {
+      "id": "4887418",
+      "time": "2026-05-19 15:13:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【Seedance 2.1近期將釋出，效果預計提升20%】據悉，位元組跳動影片生成模型Seedance 2.1將於近期釋出，預計生成效果較2.0版本提升20%。此外，位元組跳動還將推出Seedance2.0低配版，比目前的fast版效果更好，但價格更低，預計是5毛一秒，可能要對市場上其他廠商的影片模型造成巨大沖擊。（AI普瑞斯）"
+    },
     {
       "id": "4887417",
       "time": "2026-05-19 15:13:10",
@@ -141132,164 +141220,6 @@
         "國際"
       ],
       "text": "【外交部：亞太各國應擦亮眼睛，共同抵制日本“新型軍國主義”的妄動】5月12日，外交部發言人郭嘉昆主持例行記者會。會上有記者提問稱，日本首相高市早苗去年11月發表涉臺言論至今，始終拒絕撤回。我們注意到，中方持續加大對日本“新型軍國主義”的批評。與此同時，高市早苗和日本各層級官員一方面密集訪問多個國家，解釋日方“和平”立場。另一方面放寬出口殺傷性武器，放風推進修改“和平憲法”，修訂“安保三檔案”。而第三方國家似乎並不願在中日之間選邊站隊，傾向於置身事外。請問中方如何看待相關國家的這種中立態度?郭嘉昆表示，日本軍國主義曾給亞太人民帶來深重災難，亞太各國當前的繁榮發展得益於二戰後國際秩序奠定的和平基礎。不容忽視的現實是日本右翼勢力正在以實際的路線和行動加速破壞這一秩序，瓦解這一基礎。日本“再軍事化”這頭“灰犀牛”正奔襲而來。很多國際專家學者和媒體都指出，日本已經拋棄和平主義，正在經歷戰後最危險的軍事安全政策轉向，威脅地區和世界和平穩定。歷史不能忘記，現實更不能無視。亞太各國應擦亮眼睛，共同抵制日本“新型軍國主義”的妄動，共同維護賴以生存與發展的和平秩序。（環球網）"
-    },
-    {
-      "id": "4874465",
-      "time": "2026-05-12 15:17:58",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【特朗普訪華期間是否會討論臺灣和香港有關問題？外交部回應】5月12日，外交部發言人郭嘉昆主持例行記者會。有記者就特朗普訪華期間是否會討論臺灣問題和香港有關問題提問。郭嘉昆表示，特朗普總統訪華期間，兩國元首將就事關中美關係以及世界和平與發展的重大問題深入交換意見。中方反對美國向中國臺灣地區出售武器的立場是一貫的明確的。關於黎智英案，中方此前已經多次闡明立場。（澎湃）"
-    },
-    {
-      "id": "4874464",
-      "time": "2026-05-12 15:17:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "【巴拉圭總統竄訪臺灣地區，外交部：堅決反對、強烈譴責】5月12日，外交部發言人郭嘉昆主持例行記者會。 有記者提問，據報道，巴拉圭總統培尼亞5月7日至10日竄臺，8日在臺北與賴清德舉行會晤並簽署多份“合作協議”。培妄稱支援臺“參與國際多邊體系”“國際社會應承認臺灣”“臺方不需要擔心‘邦誼’生變”“臺巴友誼體現在為巴拉圭人民帶來的具體專案、投資和機遇中”。中方對此有何評論？ “中方堅決反對、強烈譴責巴方有關行徑。”郭嘉昆表示。 郭嘉昆指出，世界上只有一箇中國，臺灣是中國領土不可分割的一部分，一箇中國原則是國際關係的基本準則和國際社會的普遍共識。長期以來，巴拉圭各界朋友不斷髮出發展對華關係的強烈呼聲。根據巴拉圭國內民調顯示，近9成巴拉圭民眾支援中巴建交，這充分說明，同中國建交符合巴拉圭人民根本和長遠利益，與臺灣當局沆瀣一氣不得人心。巴方有關政治人物不僅對此充耳不聞，還冒天下之大不韙公然竄臺，為賴清德之流站臺，甘當“臺獨”分裂勢力的棋子，其究竟是為了巴拉圭人民的利益還是另有所圖，相信明眼人都能看清。 “我們敦促巴拉圭政府早日改弦更張，認清大勢，順應民意，作出承認一箇中國原則的正確政治決斷。歷史的車輪不會等待任何國家。背離一箇中國原則，只會自絕於國際社會。”郭嘉昆說。（北京日報）"
-    },
-    {
-      "id": "4874463",
-      "time": "2026-05-12 15:17:41",
-      "tags": [
-        "宏觀",
-        "焦點",
-        "國際"
-      ],
-      "text": "【中方回應美財政部制裁香港實體】5月12日，外交部發言人郭嘉昆主持例行記者會。 法新社記者提問，美國財政部週一制裁了12個實體，包括在香港地區的實體，指控其運輸伊朗石油到中國，中方對此有何回應？ 郭嘉昆表示，中方堅決反對沒有國際法依據、未經聯合國安理會授權的非法單邊制裁，將堅定維護本國企業的正當合法權益。（北京日報）"
-    },
-    {
-      "id": "4874462",
-      "time": "2026-05-12 15:17:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國財政大臣裡夫斯的盟友認為，如果首相斯塔默被罷免，她應繼續留任財政大臣一職。"
-    },
-    {
-      "id": "te:economy:549912",
-      "time": "2026-05-12 15:17:22",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United Kingdom",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Gilt Yields Surge Amid Starmer’s Leadership Crisis — UK 10-year gilt yields climbed above 5.1%, reaching their highest point since July 2008, as political instability in the UK deepens. Over 70 Labour MPs have urged Prime Minister Keir Starmer to resign following the party’s poor performance in last week’s local elections, with investors worrying that a leadership change could lead to higher fiscal spending in an effort to regain voter support. Meanwhile, concerns persist over the fragile US-Iran ceasefire, with Brent crude oil prices rising above $105 a barrel after US President Trump dismissed Iran’s latest response to peace proposals as unacceptable. Trump, addressing reporters, labeled Iran’s reply a “piece of garbage” and admitted he “didn’t even finish reading it.” The uncertainty has prompted investors to increase bets on further interest rate hikes by the Bank of England, with markets now pricing in nearly three additional increases before year-end."
-    },
-    {
-      "id": "4874461",
-      "time": "2026-05-12 15:16:35",
-      "tags": [
-        "市場"
-      ],
-      "text": "【5月12日滬深兩市漲停分析】滬指縮量調整跌0.25%，電力、電網股逆勢活躍，全市成交額連續五日突破3萬億。大唐發電5連板，通鼎互聯、寶鼎科技4連板，一圖看懂>>"
-    },
-    {
-      "id": "4874460",
-      "time": "2026-05-12 15:16:35",
-      "tags": [
-        "市場"
-      ],
-      "text": "英國30年期金邊債券收益率在開盤交易中上漲9個基點，至5.761%。"
-    },
-    {
-      "id": "4874459",
-      "time": "2026-05-12 15:16:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "【停火協議過期後俄羅斯與烏克蘭恢復無人機襲擊】烏克蘭報告稱，在俄羅斯夜間發射的216架無人機中攔截了192架。俄羅斯國防部報告稱，在莫斯科時間午夜至上午9時期間攔截了31架無人機。此前，由美國斡旋、烏克蘭和俄羅斯達成的停火協議已經到期。防空部隊和地方當局表示，烏克蘭首都基輔以及至少其他六個地區昨晚遭到無人機襲擊。"
-    },
-    {
-      "id": "te:markets:549911",
-      "time": "2026-05-12 15:16:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Shangai Composite Index Closes 0.22% Lower — The Shangai Composite Index decreased 9 points or 0.22 percent on Tuesday to close at 4216 points. The decline was led by Shanghai Electric (-4.61%), Inner Mongolia BaoTou Steel (-3.82%) and Yonyou Soft (-3.80%). On the upside, the strongest performers were Datang Intl (10.02%), Jiangsu Hengrui (4.30%) and Sanan Optoelectron (3.62%)."
-    },
-    {
-      "id": "4874458",
-      "time": "2026-05-12 15:15:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【上海電氣在河北成立輸配電裝備公司】企查查APP顯示，近日，上海電氣集團輸配電裝備（河北）有限公司成立，法定代表人為司斌，註冊資本為1000萬元，經營範圍包含：電氣安裝服務；供應鏈管理服務；電氣裝置修理；電力設施器材銷售；機械電氣裝置銷售等。企查查股權穿透顯示，該公司由上海電氣間接全資持股。"
-    },
-    {
-      "id": "4874457",
-      "time": "2026-05-12 15:15:06",
-      "tags": [
-        "觀點",
-        "國際"
-      ],
-      "text": "以色列：摩根士丹利將加入政府債券一級做市商行列。"
-    },
-    {
-      "id": "4874456",
-      "time": "2026-05-12 15:15:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國債期貨收盤】 30年期主力合約漲0.25%， 10年期主力合約漲0.07%， 5年期主力合約漲0.03%， 2年期主力合約漲0.01%。"
-    },
-    {
-      "id": "4874455",
-      "time": "2026-05-12 15:14:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "【工業和資訊化部：APEC框架下 開創汽車產業發展新局面】今天（12日），APEC第43次汽車對話會議在上海召開。工業和資訊化部相關負責人表示，中國將與各經濟體一道，在APEC框架下共建一個可持續、公平的汽車產業生態，攜手開創汽車產業發展新局面。\n\n工業和資訊化部裝備工業一司負責人表示，中國正在積極為全球汽車產業轉型貢獻中國力量。\n\n在關鍵技術上不斷突破，半固態電池實現裝車應用、15分鐘充電80%的快充技術量產應用。截至目前，累計開放智慧網聯汽車測試道路5.7萬多公里，自動駕駛、電動化等領域的示範應用深入開展。\n在政策體系上，釋出智慧網聯新能源汽車國家和行業標準237項、立項103項，牽頭制定電動汽車安全、自動駕駛系統等國際標準法規60餘項。\n負責人表示，當前，新一輪科技革命和產業變革深入發展，特別是人工智慧等前沿技術加速突破，為全球汽車產業轉型升級開闢了新空間。下一步，中國將持續深化國際合作，堅持開放發展，持續打造市場化、法治化、國際化一流營商環境。\n\n工業和資訊化部裝備工業一司司長王衛明表示，支援中外企業在技術、標準、投資、貿易等領域深化務實合作。同時，加強與各經濟體在標準法規領域的協調互認，依託APEC等平臺，推動技術交流、人才合作與創新成果的全球共享。（央視新聞）"
-    },
-    {
-      "id": "4874454",
-      "time": "2026-05-12 15:14:36",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【有AI中轉站靠倒賣使用者資料牟利】2026年5月，曾被業內視作“草根生意”的AI API中轉站（以下簡稱AI中轉站）突然成為熱門賽道：孫宇晨、特朗普家族關聯加密專案WLFI以及獵豹移動CEO傅盛入局，各推平臺、砸錢補貼、繫結代幣。 市面上也出現號稱“1元可兌換285萬Token”的超低價AI中轉站，看似讓利使用者，實則暗藏巨大風險。 封號跑路、模型降智、隨意漲價已成行業常態，甚至有AI中轉站靠倒賣使用者資料牟利。有業內人士實測發現，諸多AI中轉站存在惡意程式碼注入、竊取雲憑證、盜取加密資產等問題。（每經網）"
-    },
-    {
-      "id": "4874453",
-      "time": "2026-05-12 15:14:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "【工大科雅等成立節能新材料公司】企查查APP顯示，近日，寧夏德雅節能新材料有限公司成立，法定代表人為齊成勇，註冊資本為1000萬元，經營範圍包含：保溫材料銷售；防腐材料銷售；塑膠製品銷售；塑膠製品製造；特種裝置銷售等。企查查股權穿透顯示，該公司由工大科雅旗下寧夏科雅能源科技有限公司、平羅縣德淵專案管理有限公司共同持股。"
-    },
-    {
-      "id": "te:economy:549909",
-      "time": "2026-05-12 15:14:14",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United Kingdom",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "UK 10Y Bond Yield Hits Near 18-year High — UK 10 Year Government Bond Yield increased to 5.11%, the highest since July 2008. Over the past 4 weeks, United Kingdom 10Y Bond Yield gained 27.85 basis points, and in the last 12 months, it increased 41.95 basis points."
-    },
-    {
-      "id": "mkt:019e1b09-233b-7dd9-b929-ecf2b0a7324f",
-      "time": "2026-05-12 15:14:04",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "CORRECTED-CHINA FOREIGN MINISTRY, ON TAKAICHI'S REMARKS: ASIA PACIFIC COUNTRIES SHOULD OPPOSE MOVES OF JAPAN'S NEO-MILITARISM (NOT: SOME THIRD COUNTRIES SEEMINGLY NOT WILLING TO CHOOSE EITHER JAPAN OR CHINA)"
     }
   ]
 }
