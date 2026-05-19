@@ -1,7 +1,19 @@
 {
-  "updated": "2026-05-20 06:51:56",
-  "count": 15536,
+  "updated": "2026-05-20 06:55:55",
+  "count": 15535,
   "items": [
+    {
+      "id": "te:markets:552042",
+      "time": "2026-05-20 06:55:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Tracks Wall Street Lower, Hits 3-Week Low — The NZX 50 fell 82 points, or 0.6%, to 12,892 in Wednesday morning trade, erasing gains from the previous session and marking its lowest level since April 29, tracking declines on Wall Street overnight due to rising US Treasury yields amid escalating US-Iran tensions. Traders also remained cautious ahead of the PBOC’s interest rate decision later today, following disappointing Chinese economic data released on Monday. Caution was also built as traders anticipated the release of New Zealand's retail sales data on Friday, with the market expecting quarterly retail sales growth to ease in Q1. Energy stocks led the decline, followed by utilities, financials, and industrials. Among the early losers were Henderson Far East Income (-3.2%), Channel Infrastructure NZ (-2.4%), Hallenstein Glasson (-1.7%), Mainfreight (-1.5%), Freightways Group (-1.1%), and Fisher & Paykel (-0.5%). Infratil fell 1.8% after announcing it would sell 53.5 million ordinary shares in Contact Energy."
+    },
     {
       "id": "4888920",
       "time": "2026-05-20 06:51:16",
@@ -140287,23 +140299,6 @@
         "其他"
       ],
       "text": "【App精準推送藏隱患 國安機關提示：注意守護個人隱私安全】國家安全部今天釋出安全提示文章。手機裡各種各樣的應用程式（App）五花八門，在方便我們生活和工作的同時，似乎也越來越能精準地“捕捉”到我們的想法，相信不少人都有過“你在想什麼，手機就給你推送什麼”的經歷。App的這種“正合我意”是怎麼實現？個人資訊保安又是否存在風險呢？近年來，資訊洩露事件屢屢發生，App過度索取授權是個人資訊洩露的重要原因之一。國家有關部門調查發現，多款App存在“未經使用者同意，收集、使用使用者個人資訊”“未提供應用賬號登出服務”“未公示使用者個人資訊收集、使用規則”“強行捆綁推廣其他應用軟體”“強制索取位置資訊”等情況，侵害了個人資訊保安。特別是境外間諜情報機關與不法分子對此虎視眈眈，企圖利用非法獲取的個人資訊，超權開啟的語音、位置服務等實施違法犯罪活動，對個人隱私乃至國家安全構成威脅。（央視新聞）"
-    },
-    {
-      "id": "4875956",
-      "time": "2026-05-13 06:54:06",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4730美元/盎司，日內漲0.92%。"
-    },
-    {
-      "id": "4875955",
-      "time": "2026-05-13 06:53:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "法國總統馬克龍：法國將在聯合國發起一項倡議，旨在搭建框架，組建一支中立護航任務部隊，負責保障霍爾木茲海峽的航行安全。"
     }
   ]
 }
