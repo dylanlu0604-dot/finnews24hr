@@ -1,7 +1,97 @@
 {
-  "updated": "2026-05-19 09:25:39",
-  "count": 15574,
+  "updated": "2026-05-19 09:29:34",
+  "count": 15578,
   "items": [
+    {
+      "id": "mkt:019e3dd9-53bf-7aa9-b721-4fb0a362a4cf",
+      "time": "2026-05-19 09:28:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "JAPAN ECONOMY MINISTER: EFFECT OF GOVT STEPS LIKELY TO UNDERPIN MODERATE ECONOMIC RECOVERY"
+    },
+    {
+      "id": "mkt:019e3dd9-41d8-7aa9-b721-47aabb9fa092",
+      "time": "2026-05-19 09:28:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "JAPAN ECONOMY MINISTER: GOVT WILL ACT NIMBLY WHILE KEEPING CLOSE EYE OUT ON ECONOMIC FALLOUT FROM MIDDLE EAST CONFLICT, EFFECT OF PRICE RISES ON HOUSEHOLDS AND BUSINESS ACTIVITY"
+    },
+    {
+      "id": "4886871",
+      "time": "2026-05-19 09:27:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本經濟財政大臣城內實：政府政策措施的效應有望為溫和經濟復甦提供支撐。"
+    },
+    {
+      "id": "4886870",
+      "time": "2026-05-19 09:27:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本經濟財政大臣城內實：今年薪資談判勢頭強勁，就業形勢已出現改善。"
+    },
+    {
+      "id": "4886869",
+      "time": "2026-05-19 09:27:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣西2條河流3個站出現超警洪水】5月18日8時至19日8時，據水文部門監測，廣西防城港、欽州、南寧、柳州和百色等市降中到大雨，局地大暴雨到特大暴雨，日雨量最大為防城港市防城區那良鎮269.5毫米。受降雨影響，北侖河、茅嶺江、紅水河和防城河等江河出現1～5米的漲水過程，北侖河、鬱江支流石梯江等2條河流3個站出現超警0.82～1.05米的洪水。19日8時，廣西各江河水位均在警戒以下；西江梧州水文站水位8.06米（警戒水位18.5米），流量8480立方米每秒。廣西水文中心預測，未來4—8小時，北侖河東興城區河段將出現超警0.5米左右的洪水，茅嶺江支流大直河大直鎮河段將出現超警1.0米左右的洪水。"
+    },
+    {
+      "id": "4886868",
+      "time": "2026-05-19 09:27:07",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【足球概念股延續下挫，舒華體育觸及跌停】足球概念股延續下挫，舒華體育觸及跌停，中體產業、粵傳媒、雙象股份、金陵體育、共創草坪跟跌。"
+    },
+    {
+      "id": "4886867",
+      "time": "2026-05-19 09:25:59",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【中國衛星低開6.46%】中國衛星低開6.46%，第一大股東空間院擬減持不超3%股份。"
+    },
+    {
+      "id": "mkt:019e3dd6-f467-7aa9-b721-3d0f8ef945ca",
+      "time": "2026-05-19 09:25:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component"
+      ],
+      "text": "A-SHARE OPEN LOWER, SHANGHAI COMPOSITE -0.21%, SHENZHEN COMPONENT -0.39%, CHINEXT -0.53%"
+    },
+    {
+      "id": "4886866",
+      "time": "2026-05-19 09:25:19",
+      "tags": [
+        "焦點",
+        "A股"
+      ],
+      "text": "三大股指低開，滬指跌0.21％，深成指跌0.39％，創業板跌0.53％。"
+    },
     {
       "id": "4886865",
       "time": "2026-05-19 09:24:50",
@@ -140691,48 +140781,6 @@
         "Important"
       ],
       "text": "Australia | NAB Business conditions Index (Apr) | actual 3 | previous 6"
-    },
-    {
-      "id": "4873675",
-      "time": "2026-05-12 09:29:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "中證轉債指數開盤上漲0.15%。金誠轉債、聲迅轉債、蒙娜轉債、華懋轉債、金田轉債漲幅居前，分別漲5.18%、3.93%、3.34%、2.78%、2.62%。山玻轉債、三房轉債、立昂轉債、歐通轉債、起帆轉債跌幅居前，分別跌1.86%、1.17%、1.14%、0.60%、0.55%。"
-    },
-    {
-      "id": "4873674",
-      "time": "2026-05-12 09:29:12",
-      "tags": [
-        "市場"
-      ],
-      "text": "【貴金屬板塊大幅高開】貴金屬板塊大幅高開，興業銀錫高開超5%，湖南白銀、曉程科技、招金黃金、山金國際均高開超2%。"
-    },
-    {
-      "id": "mkt:019e19cc-3008-7dd9-b927-da270c9cbb4f",
-      "time": "2026-05-12 09:27:52",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "CHINA A-SHARES OPEN HIGHER: SHANGHAI COMPOSITE INDEX +0.1%, SHENZHEN COMPONENT INDEX +0.34%, CHINEXT +0.46%"
-    },
-    {
-      "id": "4873673",
-      "time": "2026-05-12 09:27:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "布倫特原油站上105美元/桶，日內漲0.83%。"
-    },
-    {
-      "id": "4873672",
-      "time": "2026-05-12 09:26:08",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "液化石油氣連續主力合約日內漲4%，現報5960.00元。"
     }
   ]
 }
