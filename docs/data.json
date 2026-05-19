@@ -1,7 +1,63 @@
 {
-  "updated": "2026-05-20 02:57:58",
+  "updated": "2026-05-20 03:02:45",
   "count": 15608,
   "items": [
+    {
+      "id": "4888808",
+      "time": "2026-05-20 03:00:08",
+      "tags": [
+        "觀點"
+      ],
+      "text": "花旗銀行仍認為，石油市場低估了行情持續週期與尾部風險。"
+    },
+    {
+      "id": "4888807",
+      "time": "2026-05-20 03:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收跌0.22%，報25537.94點，低水259.91點。"
+    },
+    {
+      "id": "4888806",
+      "time": "2026-05-20 02:59:28",
+      "tags": [
+        "觀點"
+      ],
+      "text": "市場資訊：花旗預計布倫特原油價格近期將交投於120美元附近。"
+    },
+    {
+      "id": "mkt:019e419b-27d9-7228-9aff-7ba4788cd6da",
+      "time": "2026-05-20 02:59:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "CITI EXPECTS BRENT TO TRADE UP TO $120/BBL IN NEAR TERM"
+    },
+    {
+      "id": "mkt:019e419b-0e86-7228-9aff-77966c3f01fb",
+      "time": "2026-05-20 02:59:01",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "CITI CONTINUES TO BELIEVE THAT OIL MARKETS ARE UNDER-PRICING DURATION AND TAIL RISKS"
+    },
+    {
+      "id": "4888805",
+      "time": "2026-05-20 02:58:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以色列高層評估認為美方仍傾向對伊重啟軍事行動】當地時間5月19日晚，據以色列方面訊息，儘管美國總統特朗普於前一日宣佈取消對伊朗的襲擊行動，但以色列高層當晚評估認為，特朗普仍傾向於對伊朗重啟軍事行動。此外，還有以方訊息稱，以色列和美國對伊朗重啟軍事行動的聯合準備工作已完成，目前正在等待特朗普的決定。（央視新聞）"
+    },
     {
       "id": "4888804",
       "time": "2026-05-20 02:55:43",
@@ -140862,66 +140918,6 @@
         "國際"
       ],
       "text": "【美國上訴法院下令暫緩執行判定特朗普10%關稅違法的裁決】美國一家聯邦上訴法院暫時叫停一項判定特朗普全球關稅違法的裁決。特朗普政府要求允許相關部門在法律爭議期間繼續徵收關稅，法官正在權衡該訴求。聯邦巡迴上訴法院週二釋出一項簡短命令，即所謂“行政性暫緩執行令”(administrative stay)，法院還設定快速時間表，要求雙方就政府在上訴期間維持關稅的請求提交書面意見。提起訴訟的小企業及民主黨州官員需在一週內作出回應。“行政性暫緩執行令”意味著，進口商仍需按照特朗普依據《1974年貿易法》第122條實施的10%關稅繳納稅款。"
-    },
-    {
-      "id": "4875778",
-      "time": "2026-05-13 03:02:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "訊息人士：象牙海岸將派遣代表平息可可種植戶的抗議活動。"
-    },
-    {
-      "id": "4875777",
-      "time": "2026-05-13 03:01:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴西政府宣告：對歐盟自9月3日起將其從動物產品出口國名單中移除的訊息感到意外，目前巴西動物產品出口正常進行。"
-    },
-    {
-      "id": "mkt:019e1d8f-f196-7772-877d-7105d778d4cc",
-      "time": "2026-05-13 03:00:33",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Hot",
-        "Policy",
-        "Breaking News 24h",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【Pentagon Weighs “Operation Sledgehammer” if Iran Ceasefire Fails】The U.S. military is considering renaming the Iran conflict “Operation Sledgehammer” if the current ceasefire collapses and President Trump orders major combat operations, according to U.S. officials. The move could allow the administration to argue it restarts the 60-day War Powers clock requiring congressional authorization. Trump described the ceasefire as “on massive life support” and is meeting with generals, including Defense Secretary Pete Hegseth and Chairman of the Joint Chiefs Dan Caine, to review options, while prioritizing his upcoming China trip."
-    },
-    {
-      "id": "4875776",
-      "time": "2026-05-13 03:00:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西4月份生咖啡出口量同比下降1.3%。"
-    },
-    {
-      "id": "4875775",
-      "time": "2026-05-13 03:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒指期貨夜盤收漲0.06%，報26159.57點，低水188.34點。"
-    },
-    {
-      "id": "mkt:019e1d8e-d481-7772-877d-6eae0dcf4e4a",
-      "time": "2026-05-13 02:59:20",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "PENTAGON CONSIDERING RE-NAMING IRAN WAR 'SLEDGEHAMMER' IF CEASEFIRE COLLAPSES - NBC U.S. MILITARY MAY LAUNCH \"OPERATION SLEDGEHAMMER\" AGAINST IRAN, BYPASSING CONGRESSIONAL 60-DAY WAR POWER LIMITS"
     }
   ]
 }
