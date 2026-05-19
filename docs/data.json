@@ -1,7 +1,227 @@
 {
-  "updated": "2026-05-20 02:26:31",
-  "count": 15609,
+  "updated": "2026-05-20 02:50:10",
+  "count": 15610,
   "items": [
+    {
+      "id": "mkt:019e4191-9c9a-7228-9aff-610469791cca",
+      "time": "2026-05-20 02:48:42",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "GOOGL.O"
+      ],
+      "text": "GOOGLE AI CHIEF ANNOUNCES RESEARCH-ORIENTED GEMINI FOR SCIENCE - CONFERENCE"
+    },
+    {
+      "id": "4888799",
+      "time": "2026-05-20 02:47:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本擬鼓勵初創企業尋求併購退出，而非上市融資。"
+    },
+    {
+      "id": "mkt:019e4190-65b3-7228-9aff-58cadd532cb3",
+      "time": "2026-05-20 02:47:22",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "GOOGLE'S FIRST AUDIO GLASSES WILL ARRIVE IN FALL - CONFERENCE"
+    },
+    {
+      "id": "4888798",
+      "time": "2026-05-20 02:46:45",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "谷歌首款音訊眼鏡將於秋季釋出。"
+    },
+    {
+      "id": "4888797",
+      "time": "2026-05-20 02:41:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "調停方表示，美伊談判幾乎未取得實質性突破。伊朗依舊要求美方終止敵對行動、解除金融制裁、支付戰爭賠款，並謀求參與霍爾木茲海峽監管事務；雙方在伊朗核問題相關訴求上仍存在嚴重分歧。"
+    },
+    {
+      "id": "4888796",
+      "time": "2026-05-20 02:38:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國推出貨執行業全新反欺詐備案系統。"
+    },
+    {
+      "id": "4888795",
+      "time": "2026-05-20 02:36:13",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【萬斯稱特朗普本人並未親自進行股票交易】針對有關特朗普股票交易的相關提問，美國副總統萬斯回應表示，特朗普本人並未親自操作這些股票交易。萬斯在白宮向媒體記者作出上述表態。他表示：“特朗普擁有獨立的財富顧問團隊代為打理個人資產。”萬斯還指出：“任何人都不應利用公職身份獲取內幕資訊，藉此進行股票買賣交易。”"
+    },
+    {
+      "id": "4888794",
+      "time": "2026-05-20 02:33:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "美伊問題調解方：伊朗堅持核心訴求不變，美伊談判幾乎進展甚微。"
+    },
+    {
+      "id": "mkt:019e4182-7cd8-7228-9aff-5299618ef758",
+      "time": "2026-05-20 02:32:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Hot",
+        "Policy",
+        "Breaking News 24h",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran-U.S. Talks Show Little Progress as Trump Revives Strike Threat】Regional mediators and U.S. officials said Iran and the U.S. remain far apart in negotiations to end the conflict, despite President Donald Trump pausing planned strikes on Iran. Mediators said Tehran continues to demand an end to hostilities, financial relief, war reparations and a role overseeing the Strait of Hormuz, while rejecting U.S. demands to close or suspend its nuclear program long term. Trump later warned the U.S. “may have to give them another big hit.” Vice President JD Vance said Iran appears willing to negotiate but cautioned no deal is certain until signed. Officials said the U.S. and Israel had prepared additional strikes that could still occur within days. Iran has continued attacks across the Gulf region, while the UAE said drones launched from Iraq struck near the Barakah Nuclear Energy Plant without causing radiation leaks."
+    },
+    {
+      "id": "mkt:019e4181-5cd4-7228-9aff-4b05e6d74c34",
+      "time": "2026-05-20 02:30:57",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "U.S. CRUDE OIL FUTURES SETTLE AT $107.77/BBL, DOWN 89 CENTS, 0.82 PCT"
+    },
+    {
+      "id": "4888793",
+      "time": "2026-05-20 02:30:52",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國原油期貨結算價報每桶107.77美元，下跌89美分，跌幅0.82%。"
+    },
+    {
+      "id": "te:markets:552029",
+      "time": "2026-05-20 02:30:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Heating Oil Hits 6-week High — Heating Oil increased to 4.18 USD/Gal, the highest since April 2026. Over the past 4 weeks, Heating Oil gained 17.58%, and in the last 12 months, it increased 93.24%."
+    },
+    {
+      "id": "mkt:019e4180-a9df-7228-9aff-40c7ce190d40",
+      "time": "2026-05-20 02:30:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "MEDIATORS SEE LITTLE PROGRESS IN IRAN-U.S. TALKS: WSJ"
+    },
+    {
+      "id": "te:markets:552028",
+      "time": "2026-05-20 02:30:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: XRP Depreciates by 1.98% — Today's cryptos market is characterized by modest daily movements, with XRP standing out as the frontrunner with a -1.98% decrease."
+    },
+    {
+      "id": "4888792",
+      "time": "2026-05-20 02:30:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收漲2.40%，報690.00元人民幣/桶。滬金夜盤收跌1.09%，滬銀收跌3.44%。"
+    },
+    {
+      "id": "mkt:019e4180-5c23-7228-9aff-3d7b8d03d2e8",
+      "time": "2026-05-20 02:29:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "DEMOCRATIC SENATOR WARNER SAYS TRUMP MOBILE PHONE MAKING MISLEADING CLAIMS, QUESTIONS BUSINESS PRACTICES -- LETTER"
+    },
+    {
+      "id": "4888791",
+      "time": "2026-05-20 02:29:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國民主黨參議員沃納稱特朗普手機品牌釋出誤導性宣告，並就其商業行為提出質疑。"
+    },
+    {
+      "id": "4888790",
+      "time": "2026-05-20 02:29:23",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "特朗普下令鼓勵美聯儲擴大金融科技准入。"
+    },
+    {
+      "id": "mkt:019e417f-af41-7228-9aff-36da4a4a7327",
+      "time": "2026-05-20 02:29:07",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "VANCE: TRUMP IS NOT MAKING STOCK TRADES HIMSELF"
+    },
+    {
+      "id": "4888789",
+      "time": "2026-05-20 02:29:01",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普將簽署行政令，要求銀行收集客戶公民身份資訊。"
+    },
+    {
+      "id": "4888788",
+      "time": "2026-05-20 02:28:44",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國副總統萬斯：我與特朗普支援禁止國會議員進行股票交易。"
+    },
+    {
+      "id": "4888787",
+      "time": "2026-05-20 02:28:15",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國副總統萬斯：特朗普本人並未進行股票交易。"
+    },
+    {
+      "id": "mkt:019e417d-0f15-7228-9aff-2aaeb59cc445",
+      "time": "2026-05-20 02:26:11",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "VANCE: REGARDLESS OF WHAT TRUMP DECIDES ON IRAN, IT WILL NOT LAST FOREVER"
+    },
     {
       "id": "mkt:019e417c-db06-7228-9aff-268caa81397f",
       "time": "2026-05-20 02:26:00",
@@ -140728,237 +140948,6 @@
         "Chinese Policy & Markets"
       ],
       "text": "【Trump Says Trade Will Be Focus of Xi Summit, Not Iran】President Donald Trump said trade will be the main focus of his summit with Chinese President Xi Jinping, downplaying discussions on the Iran war. “We’re going to be talking to President Xi about a lot of things. I would say, more than anything, trade,” Trump told reporters Tuesday at the White House. He added, “I wouldn’t say Iran is one of them… we have Iran very much under control.” Trump emphasized his strong relationship with Xi and said the two sides will discuss extending last fall’s trade truce."
-    },
-    {
-      "id": "mkt:019e1d82-efe3-7772-877d-3c9b0403928d",
-      "time": "2026-05-13 02:46:20",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish"
-      ],
-      "text": "BRENT CRUDE FUTURES SETTLE AT $107.77/BBL, UP $3.56, 3.42 PCT"
-    },
-    {
-      "id": "mkt:019e1d82-d70e-7772-877d-37a383b8a509",
-      "time": "2026-05-13 02:46:14",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "ALI SAFRI, ADVISOR TO THE IRANIAN FOREIGN MINISTRY SPOKESPERSON, TO AL JAZEERA MUBASHER: WE ARE FOCUSING IN THE CURRENT PHASE ON ENDING THE WAR"
-    },
-    {
-      "id": "mkt:019e1d82-4af8-7772-877d-2ae34e4d6a28",
-      "time": "2026-05-13 02:45:38",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "Nasdaq100",
-        "Impact bearish"
-      ],
-      "text": "NASDAQ 100 INDEX PARES DROP TO ABOUT 1.5%; HAD BEEN DOWN 2.4%"
-    },
-    {
-      "id": "4875771",
-      "time": "2026-05-13 02:42:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "【法國衛生部：涉疫郵輪一死亡病例的22名密接者均需住院15天 】法國衛生部長斯特凡妮·里斯特在12日舉行的一場新聞釋出會上說，法方目前已識別“洪迪厄斯”號郵輪一例荷蘭籍死亡病例的22名密切接觸者，他們都將接受檢測並需住院15天。"
-    },
-    {
-      "id": "4875770",
-      "time": "2026-05-13 02:39:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "《泰晤士報》訊息：英國能源大臣米利班德告知內閣大臣，若衛生大臣斯特里廷很快發起黨魁競選，他已準備好參選工黨領袖。"
-    },
-    {
-      "id": "mkt:019e1d7c-8f6c-7772-877d-210039e140da",
-      "time": "2026-05-13 02:39:22",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact bearish",
-        "FTSE100"
-      ],
-      "text": "UK ENERGY MINISTER MILIBAND TOLD CABINET MINISTERS HE IS PREPARED TO RUN FOR LABOUR LEADERSHIP IF HEALTH MINISTER STREETING TRIGGERS IMMINENT CONTEST - THE TIMES"
-    },
-    {
-      "id": "mkt:019e1d7c-6a29-7772-877d-1ea1276af2bc",
-      "time": "2026-05-13 02:39:13",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact bullish",
-        "FTSE100"
-      ],
-      "text": "KEIR STARMER APPEARS TO HAVE FENDED OFF AN IMMEDIATE LEADERSHIP THREAT, WITH WES STREETING ALLIES LEAVING THE GOVERNMENT AND NO CHALLENGE FROM THE HEALTH SECRETARY, PER GUARDIAN REPORTER"
-    },
-    {
-      "id": "mkt:019e1d7b-2f29-7772-877d-1372fcdf72c5",
-      "time": "2026-05-13 02:37:34",
-      "tags": [
-        "MKT News",
-        "005930.KS",
-        "Impact bearish"
-      ],
-      "text": "SOUTH KOREA'S LABOUR COMMISSION: THERE IS \"WIDE GAP\" IN POSITIONS OF SAMSUNG, UNION"
-    },
-    {
-      "id": "4875769",
-      "time": "2026-05-13 02:37:32",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "韓國勞動委員會：三星工會與三星管理層之間存在“巨大分歧”。"
-    },
-    {
-      "id": "4875768",
-      "time": "2026-05-13 02:35:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟表示，Meta 的這一決定為各方探討相關整改承諾、回應歐盟關切創造了充分條件。"
-    },
-    {
-      "id": "4875767",
-      "time": "2026-05-13 02:35:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "Meta：將為競爭對手的人工智慧聊天機器人提供一個月的WhatsApp免費訪問許可權。此舉旨在解決歐盟相關調查，快速達成公正結果。"
-    },
-    {
-      "id": "mkt:019e1d78-d353-7772-877d-0bd5d16a3894",
-      "time": "2026-05-13 02:35:18",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7",
-        "META.O",
-        "Impact bullish"
-      ],
-      "text": "META'S DECISION IS STEP IN RIGHT DIRECTION, EU ANTITRUST REGULATORS SAY META'S DECISION CREATES ADEQUATE CONDITIONS TO DISCUSS COMMITMENTS TO ADDRESS EU CONCERNS, EU SAYS DISCUSSIONS MAY LEAD TO EU DECISION WITHOUT FINDING OF INFRINGEMENT BY META"
-    },
-    {
-      "id": "mkt:019e1d78-7558-7772-877d-06199b9de1c6",
-      "time": "2026-05-13 02:34:54",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7",
-        "META.O",
-        "Impact bullish"
-      ],
-      "text": "MOVE AIMS TO RESOLVE EU INVESTIGATION WITH QUICK AND FAIR OUTCOME, META SAYS"
-    },
-    {
-      "id": "mkt:019e1d78-5452-7772-877c-f9dae3852961",
-      "time": "2026-05-13 02:34:45",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "META.O",
-        "Impact mixed"
-      ],
-      "text": "META PLATFORMS TO GIVE RIVAL AI CHATBOTS FREE ACCESS TO WHATSAPP FOR A MONTH, META SAYS"
-    },
-    {
-      "id": "4875766",
-      "time": "2026-05-13 02:34:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "【“全球南方”媒體智庫高階論壇中阿夥伴大會在開羅阿盟總部開幕】以“聚媒智 啟新程——攜手構建中阿命運共同體”為主題的“全球南方”媒體智庫高階論壇中阿夥伴大會12日在位於埃及首都開羅的阿拉伯國家聯盟（阿盟）總部開幕，來自中國和阿拉伯國家約110家媒體、智庫、政府機構、企業及國際和地區組織的約250名代表出席。（新華社）"
-    },
-    {
-      "id": "te:markets:550077",
-      "time": "2026-05-13 02:33:31",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Copper Hits All-time High — Copper increased to an all-time high of 6.58 USD/Lbs. Over the past 4 weeks, Copper gained 10.09%, and in the last 12 months, it increased 40.86%."
-    },
-    {
-      "id": "4875765",
-      "time": "2026-05-13 02:32:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國總統特朗普啟程。"
-    },
-    {
-      "id": "4875764",
-      "time": "2026-05-13 02:31:06",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI 6月原油期貨收漲4.11美元，漲幅4.19%，報102.18美元/桶。NYMEX 6月天然氣期貨收報2.8430美元/百萬英熱單位。NYMEX 6月汽油期貨收報3.6977美元/加侖，NYMEX 6月取暖油期貨收報4.1588美元/加侖。"
-    },
-    {
-      "id": "mkt:019e1d75-3606-7772-877c-f0e43d99abb3",
-      "time": "2026-05-13 02:30:57",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "U.S. CRUDE OIL FUTURES SETTLE AT $102.18/BBL, UP $4.11, 4.19 PCT"
-    },
-    {
-      "id": "te:economy:550076",
-      "time": "2026-05-13 02:30:16",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Government Budget Value",
-        "Importance 1"
-      ],
-      "text": "US Government Budget Surplus Misses Expetations — The US government recorded a $215 billion budget surplus in April 2026, down from $258.4 billion in the same month a year earlier and below forecasts of a $220 billion surplus. Government outlays rose to $622.3 billion from $591.8 billion in April 2025. The largest spending categories were Social Security ($139 billion), net interest payments ($97 billion), Medicare ($88 billion), and national defense ($77 billion). Meanwhile, receipts declined to $837.3 billion from $850.2 billion a year earlier. Most revenue came from individual income taxes ($515 billion), social insurance and retirement contributions ($196 billion), and corporate income taxes ($83 billion). So far in fiscal year 2026, the US government has accumulated a budget deficit of $954 billion."
-    },
-    {
-      "id": "4875763",
-      "time": "2026-05-13 02:30:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "上期所原油期貨夜盤收漲2.66%，報652.00元人民幣/桶。滬金夜盤收跌0.86%，滬銀收跌0.24%。"
-    },
-    {
-      "id": "te:markets:550075",
-      "time": "2026-05-13 02:29:59",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: XRP Drops by 2.96% — Top crypto losers are XRP (-2.96%), Ether (-2.67%), Binance (-1.59%) and Bitcoin (-1.55%)."
     }
   ]
 }
