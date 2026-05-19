@@ -1,7 +1,71 @@
 {
-  "updated": "2026-05-19 20:39:36",
-  "count": 15573,
+  "updated": "2026-05-19 20:44:58",
+  "count": 15565,
   "items": [
+    {
+      "id": "mkt:019e4042-54f0-7003-b2ba-5803a0715550",
+      "time": "2026-05-19 20:42:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "BESSENT: SPOKE WITH BANK OF JAPAN GOVERNOR AT G7 FINANCE MINISTERS MEETING"
+    },
+    {
+      "id": "4888224",
+      "time": "2026-05-19 20:41:25",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委內格爾：能源供應衝擊更加持久。歐洲央行正逐步遠離基準情景。將展現與過去相同的承諾。"
+    },
+    {
+      "id": "4888223",
+      "time": "2026-05-19 20:40:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特：必須加強協同協作，應對本地區當前面臨的挑戰。"
+    },
+    {
+      "id": "mkt:019e4040-94ed-7aa9-b728-e5d70cc8b384",
+      "time": "2026-05-19 20:40:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "WARNER BROS. DISCOVERY KICKS OFF LOAN SALE TIED TO PARAMOUNT"
+    },
+    {
+      "id": "4888222",
+      "time": "2026-05-19 20:40:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【敘利亞首都一武器管理中心遭襲 已致一人死亡】總檯記者當地時間5月19日獲悉，據敘利亞過渡政府軍訊息，位於首都大馬士革的一處武器管理中心當天遭到汽車炸彈襲擊，目前已經造成了一人死亡。（央視新聞）"
+    },
+    {
+      "id": "4888221",
+      "time": "2026-05-19 20:39:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【卡達外交部說美伊談判程序需更多時間】卡達外交部發言人安薩里19日說，由巴基斯坦斡旋的美國和伊朗談判程序需要更多時間。 安薩里當天在記者會上說，卡達支援巴基斯坦所作的外交努力。巴基斯坦在促成各方接觸、尋求解決方案方面展現出認真態度。卡達方面認為，這一程序還需要更多時間。 安薩里還說，卡達與美國和伊朗方面保持著接觸。他同時說，此前“伊朗選擇攻擊卡達，對兩國關係構成了威脅”。 美國總統特朗普18日在社交媒體發文稱，應卡達、沙烏地阿拉伯、阿聯酋領導人請求，他已下令推遲“原定於明天（19日）”對伊朗發動的軍事攻擊。(新華社)"
+    },
+    {
+      "id": "mkt:019e403f-5311-7aa9-b728-df91e4eb9d4b",
+      "time": "2026-05-19 20:38:27",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "DOMBROVSKIS ON MYTHOS: US PROVIDED REASSURANCE ON HOW IT WILL GIVE GRADUAL ACCESS TO THE EU"
+    },
     {
       "id": "4888220",
       "time": "2026-05-19 20:38:03",
@@ -98,6 +162,15 @@
         "Importance 3"
       ],
       "text": "Canada Inflation Rate Undershoots Expectatoins — The headline inflation rate in Canada rose to 2.8% in April of 2026 from 2.4% in the previous month, the highest in two years, albeit firmly under the market consensus of 3.1%. The increase extended the jump from the previous month as the disruption of energy supply from the Middle East, due to the war in the region, raised prices of fuel and power. In turn, prices for core sectors of the economy grew at a more moderate pace, aligned with the Bank of Canada's note that it did not see higher energy prices spread into inflation expectations so far. The trimmed-mean and median core inflation rates followed by the BoC fell to 2% and 2.1%, respectively, below market expectations to their lowest in five years."
+    },
+    {
+      "id": "em:qqyh_ozyh:202605193742248769",
+      "time": "2026-05-19 20:35:02",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "【歐洲央行行長：決心將通脹率降至目標水平】歐洲央行行長維勒魯瓦表示，決心將通脹率降至目標水平。"
     },
     {
       "id": "4888213",
@@ -140596,156 +140669,6 @@
         "Importance 2"
       ],
       "text": "US Futures Hold Pullback — US equity futures maintained their pullback after a hot CPI report for April consolidated increasing concerns that higher energy prices may directly and indirectly dent earnings prospectives. Contracts for the S&P 500 and the Nasdaq 100 pulled back up to 1%, while those for the Dow were close to the flatline. Headline inflation in the US rose to a three-year high of 3.8%, above expectations, to underscore the impact of higher fuel inflation in general price growth. The Federal Reserve is not expected to deliver another rate cut this year amid the risk of an inflationary shock, especially with the combination of robust labor data that has recently been published. AI hyperscalers and major chip producers were both lower pre-market to halt their surge this month, with Tesla, Nvidia, Amazon, and Alphabet down more than 1% premarket. Meanwhile, telehealth company Hims & Hers plunged 15% after its first-quarter earnings report missed their expectations."
-    },
-    {
-      "id": "4875255",
-      "time": "2026-05-12 20:44:51",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國國防部長赫格塞思：如果有必要，我們已有對伊朗升級局勢的計劃。"
-    },
-    {
-      "id": "4875254",
-      "time": "2026-05-12 20:44:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "【阿聯酋遭襲天然氣設施明年才能恢復全部產能】阿聯酋方面12日證實，在伊朗戰事中多次遇襲而停產的哈卜善天然氣設施目前已恢復六成產能，到明年才能恢復全部產能。哈卜善設施位於阿聯酋首都阿布扎比，是全球規模最大的天然氣處理綜合體之一，承擔該國約60%的天然氣供應。這一能源樞紐同時是“阿布扎比原油管道”的起點。該管道通往富查伊拉港，可繞開霍爾木茲海峽。因此哈卜善不僅關係該國國內供氣，還影響到能源出口。（新華社）"
-    },
-    {
-      "id": "mkt:019e1c36-eee0-7338-be24-f39d19383c3f",
-      "time": "2026-05-12 20:43:42",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "HEGSETH: 'WE HAVE A PLAN TO ESCALATE' IN IRAN, IF NECESSARY"
-    },
-    {
-      "id": "4875253",
-      "time": "2026-05-12 20:43:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "雙槍科技：公司“金鋼瓷”材料僅用於生產餐具產品，目前尚在客戶拓展階段，訂單不足1000萬元，佔公司營業收入的比重極小；“竹基禾塑”材料基於當下研發規劃，僅用於工業托盤的研發與試產，目前在中試階段，尚未有客戶訂單及批次生產，且未應用於汽車、建材、光模組、光通訊工程、AI硬體和機器人等多個領域；未來“金鋼瓷”及竹塑托盤的訂單獲取和業務發展存在較大不確定性。"
-    },
-    {
-      "id": "4875252",
-      "time": "2026-05-12 20:43:03",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【李強會見塔吉克總統拉赫蒙】5月12日上午，國務院總理李強在北京人民大會堂會見來華進行國事訪問的塔吉克總統拉赫蒙。李強表示，中方願同塔方進一步築牢政治互信，加大在涉及彼此核心利益問題上的相互支援，堅決反對任何外部勢力干涉，推動中塔新時代全面戰略合作伙伴關係不斷走深走實，為兩國發展振興增添更多動力。（新華社）"
-    },
-    {
-      "id": "mkt:019e1c36-0407-7dd3-a754-7930a2a6220b",
-      "time": "2026-05-12 20:42:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UK MINISTER ALEX DAVIES-JONES RESIGNS - REPORTS"
-    },
-    {
-      "id": "4875251",
-      "time": "2026-05-12 20:42:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度政府：2026財年年度GDP及季度GDP初步估算資料將於6月5日釋出。"
-    },
-    {
-      "id": "4875250",
-      "time": "2026-05-12 20:42:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "【歐盟擬邀請阿富汗塔利班官員訪問】歐盟計劃邀請阿富汗塔利班政府官員前往歐盟總部所在地布魯塞爾，商討遣返阿富汗移民相關事宜。據路透社12日報道，這將是阿富汗塔利班官員首次公開訪問歐盟。歐盟一名發言人向媒體記者證實了這一計劃，強調訪問日期暫未確定，也不意味著歐盟承認塔利班政權。“關於在布魯塞爾舉行可能的技術層面跟進會議，（歐盟委員會）官員正與阿富汗當局協調。”（新華社）"
-    },
-    {
-      "id": "te:economy:550016",
-      "time": "2026-05-12 20:41:53",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Energy Inflation",
-        "Importance 0"
-      ],
-      "text": "US Energy Inflation Highest Since 2022 — US energy inflation soared to 17.9% year-over-year in April 2026, up from 12.5% in March and marking the steepest annual increase since September 2022. The surge was driven by the Iran war and the closure of the Strait of Hormuz. Energy commodities spiked 29.2%, with gasoline prices up 28.4% and fuel oil rising 54.3%. Energy services also climbed 5.4%, led by a 6.1% increase in electricity costs and a 3.0% rise in piped gas service. On a monthly basis, energy prices jumped 3.8% in April, following a 10.9% surge in March."
-    },
-    {
-      "id": "4875249",
-      "time": "2026-05-12 20:41:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "【正元智慧：募集資金專戶511.02萬元被凍結】正元智慧公告稱，公司近日收到法院出具的民事裁定書等材料，公司一募集資金專項賬戶中511.02萬元被凍結，系山東貓之源商業管理有限公司因合同糾紛申請訴前財產保全所致。該金額佔2023年可轉債募集資金淨額的1.49%、最近一期經審計淨資產的0.47%，佔比較小，不會對公司生產經營、募集資金使用及募投專案投入造成重大不利影響。公司將積極溝通協商，妥善解決此事。"
-    },
-    {
-      "id": "te:markets:550015",
-      "time": "2026-05-12 20:41:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Currency",
-        "Importance 0"
-      ],
-      "text": "DXY Climbs after Hot Inflation Data — The dollar index climbed above 98 after a key US inflation report highlighted the economic impact of higher energy costs and supply disruptions linked to the war in Iran. Consumer prices rose 3.8% year-on-year in April, the fastest pace since 2023, while monthly inflation accelerated to 0.6%. Core CPI, which excludes food and energy, increased 0.4% from March and 2.8% annually, exceeding forecasts. Part of the rise was linked to distortions in rent calculations following the 2025 government shutdown. Investors also monitored growing tensions in the Middle East, with President Donald Trump reportedly frustrated by the lack of progress in negotiations with Iran. The Strait of Hormuz remains largely closed, severely disrupting global energy shipments and pushing oil prices higher. The supply shock has begun feeding into broader measures of supply-chain stress, reviving concerns about persistent inflationary pressures and keeping central banks cautious on interest-rate policy."
-    },
-    {
-      "id": "4875248",
-      "time": "2026-05-12 20:41:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度政府：已將年度GDP及季度GDP初步預估資料的釋出日期修訂為每年6月7日。"
-    },
-    {
-      "id": "4875247",
-      "time": "2026-05-12 20:40:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "【凱普生物：持股5%以上股東減持致持股比例降至5.67%】凱普生物公告稱，持股5%以上股東眾合之原持有公司股份40,147,564股，佔總股本6.21%。此前眾合之計劃2026年3月6日至6月5日減持不超19,395,000股（佔總股本3%）。近日，因公司資本公積金轉增股本、回購股份登出及眾合之減持，其持股比例自前次公告的6.26%降至5.67%，觸及1%整數倍。眾合之本次減持與此前計劃一致，無違規情形。"
-    },
-    {
-      "id": "mkt:019e1c34-2cc1-7dd3-a754-77c865cd0fa1",
-      "time": "2026-05-12 20:40:20",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "USDJPY",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "【US Inflation Outpaces Wage Growth Again】US consumer prices rose 3.8% over the past year, exceeding the 3.6% increase in wages, marking the first time in about three years that inflation has outpaced paycheck growth. The gap suggests many Americans are seeing declines in real purchasing power as living costs rise faster than earnings."
-    },
-    {
-      "id": "4875246",
-      "time": "2026-05-12 20:40:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "羅氏執行長在電話會議中確認，診斷業務部門的長期展望為營收增長中個位數至高個位數區間。"
-    },
-    {
-      "id": "4875245",
-      "time": "2026-05-12 20:40:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "【滙豐上調布倫特原油預測，假設霍爾木茲海峽在第三季度末恢復正常】滙豐上調了其布倫特原油價格預測，假設透過霍爾木茲海峽的交通和海灣地區的石油產量將從6月中旬開始逐步恢復。“我們現在的基準情境假設……到2026年第三季度末，系統級產量和供應將恢復到接近正常的水平，“該行高階油氣分析師Kim Fustier表示。“更長時間的干擾意味著更大的庫存消耗、更具挑戰性的戰後庫存補充，以及更高的剩餘風險溢價，從而支撐更高的長期價格錨點。“滙豐現在預計，今年布倫特原油均價將達到每桶95美元，高於此前預期的每桶80美元。從2027年起，這一國際原油基準價格預計為每桶75美元，而此前的預估為70美元。"
     }
   ]
 }
