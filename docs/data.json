@@ -1,7 +1,191 @@
 {
-  "updated": "2026-05-19 23:18:40",
-  "count": 15618,
+  "updated": "2026-05-19 23:22:54",
+  "count": 15628,
   "items": [
+    {
+      "id": "mkt:019e40d3-d6f5-7228-9afc-1ca996baf8aa",
+      "time": "2026-05-19 23:21:25",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "LATVIAN ARMED FORCES SAY POSSIBLE THREAT TO LATVIAN AIR SPACE IN 2 COUNTIES BORDERING RUSSIA, NATO FIGHTER JETS HAVE BEEN DEPLOYED"
+    },
+    {
+      "id": "4888592",
+      "time": "2026-05-19 23:21:24",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "紐約聯儲官員珀利：利率調控工具組合能夠應對準備金需求下降的局面。"
+    },
+    {
+      "id": "4888591",
+      "time": "2026-05-19 23:21:18",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "紐約聯儲官員珀利：美聯儲利率調控工具箱成效顯著。"
+    },
+    {
+      "id": "mkt:019e40d3-9937-7228-9afc-1168607f051d",
+      "time": "2026-05-19 23:21:09",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bullish",
+        "S&P500",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "NY FED’S PERLI: FUTURE FED RESERVE MANAGEMENT BILL BUYING DRIVEN BY MARKET CONDITIONS"
+    },
+    {
+      "id": "4888590",
+      "time": "2026-05-19 23:21:08",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "紐約聯儲官員珀利：美聯儲流動性管理一直行之有效。"
+    },
+    {
+      "id": "mkt:019e40d3-8cad-7228-9afc-0b5e203f50ee",
+      "time": "2026-05-19 23:21:06",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "NY FED’S PERLI: FED’S RATE CONTROL TOOLKIT HAS WORKED VERY WELL"
+    },
+    {
+      "id": "mkt:019e40d3-7f6b-7228-9afc-0642e3f7660a",
+      "time": "2026-05-19 23:21:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NEW YORK FED'S PERLI: FED TOOLKIT CAN DEAL WITH CHANGING BANK RESERVE REGULATIONS"
+    },
+    {
+      "id": "4888589",
+      "time": "2026-05-19 23:20:59",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "紐約聯儲官員珀利：美聯儲政策工具可應對銀行準備金監管規則變動。"
+    },
+    {
+      "id": "mkt:019e40d3-6e45-7228-9afb-f89159483f04",
+      "time": "2026-05-19 23:20:58",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "NY FED’S PERLI: SHIFTING TO SCARCE RESERVE SYSTEM WOULD BE CHALLENGING"
+    },
+    {
+      "id": "mkt:019e40d3-608d-7228-9afb-f6ef114a6160",
+      "time": "2026-05-19 23:20:55",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "NY FED’S PERLI: ‘PLAUSIBLE’ PATH TO LOWER RESERVE LEVELS IS REGULATORY CHANGE"
+    },
+    {
+      "id": "4888588",
+      "time": "2026-05-19 23:20:48",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "紐約聯儲官員珀利：轉向稀缺準備金體系將面臨諸多挑戰。"
+    },
+    {
+      "id": "mkt:019e40d3-422a-7228-9afb-e9563d01d881",
+      "time": "2026-05-19 23:20:47",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "NY FED’S PERLI: FED LIQUIDITY MANAGEMENT HAS BEEN EFFECTIVE"
+    },
+    {
+      "id": "4888587",
+      "time": "2026-05-19 23:20:16",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "【美國製裁伊朗影子銀行系統的機構以及19艘船隻】據美國財政部公告，財政部海外資產控制辦公室(OFAC)將一家伊朗外匯兌換機構及其關聯空殼公司列入制裁名單，這些實體被指代表受制裁的伊朗銀行進行交易。OFAC還制裁了19艘參與伊朗石油和石化產品運輸的船隻。"
+    },
+    {
+      "id": "4888586",
+      "time": "2026-05-19 23:19:36",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【特朗普：可能考慮更多措施來降低汽油價格】美國總統特朗普表示，除了暫停徵收聯邦汽油稅之外，他可能還會採取其他措施來應對汽油價格上漲問題。“只要能控制住，什麼措施都行，”他說。"
+    },
+    {
+      "id": "4888585",
+      "time": "2026-05-19 23:19:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "【物資短缺加沙工廠廢料變原料】自新一輪巴以衝突爆發以來，加沙地帶生活物資短缺，垃圾廢棄物遍地堆積。面對困境，加沙當地民眾不得不就地取材，回收填埋場裡的塑膠垃圾和房屋建築廢料，用它們充當原料生產製造生活用品。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:019e40d1-d6d1-7228-9afb-e6cb278d4499",
+      "time": "2026-05-19 23:19:06",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Alphabet",
+        "GOOGL.O",
+        "Impact bullish",
+        "BX.O"
+      ],
+      "text": "COREWEAVE DOWN 7.6%, NEBIUS GROUP DOWN 5.3%; GOOGLE AND BLACKSTONE AGREE TO LAUNCH AI CLOUD VENTURE"
+    },
+    {
+      "id": "4888584",
+      "time": "2026-05-19 23:18:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "世界衛生組織警示剛果（金）埃博拉疫情規模嚴峻，或長期持續蔓延。"
+    },
     {
       "id": "4888583",
       "time": "2026-05-19 23:17:19",
@@ -141190,72 +141374,6 @@
         "焦點"
       ],
       "text": "現貨黃金失守4650美元/盎司，日內跌1.83%。"
-    },
-    {
-      "id": "4875611",
-      "time": "2026-05-12 23:22:45",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4660美元/盎司，日內跌1.47%。"
-    },
-    {
-      "id": "mkt:019e1cc7-faf5-7dd3-a757-1d3113c29455",
-      "time": "2026-05-12 23:22:08",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "PETR4.SA",
-        "Impact bullish"
-      ],
-      "text": "PETROBRAS WORKING TO SURPASS OIL PRODUCTION TARGET, CFO SAYS"
-    },
-    {
-      "id": "4875610",
-      "time": "2026-05-12 23:20:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "科威特已召見伊朗大使，此前科威特指控伊朗伊斯蘭革命衛隊人員滲透布比延島，並與科威特安全部隊發生衝突。"
-    },
-    {
-      "id": "4875609",
-      "time": "2026-05-12 23:19:53",
-      "tags": [
-        "觀點"
-      ],
-      "text": "高盛總裁John Waldron： 政府應在開支方面保持更大剋制。"
-    },
-    {
-      "id": "mkt:019e1cc5-7870-7dd3-a757-17bbe347437e",
-      "time": "2026-05-12 23:19:23",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "KUWAIT HAS SUMMONED IRAN’S AMBASSADOR AFTER ALLEGING THAT IRGC PERSONNEL INFILTRATED BUBIYAN ISLAND & CLASHED WITH KUWAITI SECURITY FORCES"
-    },
-    {
-      "id": "4875608",
-      "time": "2026-05-12 23:19:10",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4660美元/盎司，日內跌1.58%。"
-    },
-    {
-      "id": "4875607",
-      "time": "2026-05-12 23:18:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "據美國核能研究所負責人透露，美國能源部或撥款數十億美元，用於長期核反應堆零部件專案。"
     }
   ]
 }
