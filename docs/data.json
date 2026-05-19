@@ -1,7 +1,102 @@
 {
-  "updated": "2026-05-19 14:28:25",
-  "count": 15680,
+  "updated": "2026-05-19 14:32:23",
+  "count": 15672,
   "items": [
+    {
+      "id": "mkt:019e3eef-0390-7aa9-b723-d3ed32351c92",
+      "time": "2026-05-19 14:31:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NIKKEI 225 CLOSED DOWN 0.44%"
+    },
+    {
+      "id": "4887321",
+      "time": "2026-05-19 14:31:26",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日經指數收盤下跌 0.4%，報 60550.59 點； 日本東證指數收盤上漲 0.6%，報 3850.67 點。"
+    },
+    {
+      "id": "4887320",
+      "time": "2026-05-19 14:31:06",
+      "tags": [
+        "觀點",
+        "其他"
+      ],
+      "text": "巴克萊分析師在一份研究報告中表示，人形機器人的價格可能將繼續下降。"
+    },
+    {
+      "id": "4887319",
+      "time": "2026-05-19 14:30:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "【報道：特朗普暫緩打擊部分原因是伊朗已逐漸適應美方空中打擊】據報道，特朗普暫緩發動新一輪打擊，部分原因是美國國防部官員警告稱，伊朗已逐漸適應美方空中打擊行動。伊朗軍方將領研判美軍戰機與轟炸機的飛行作戰規律，使得美軍行動愈發容易預判，也大幅提升了伊朗防空體系的作戰效能。相關官員表示，F-15E戰機遭擊落、F-35戰機受損，均印證美軍戰機面臨的作戰風險正持續攀升。"
+    },
+    {
+      "id": "te:markets:551833",
+      "time": "2026-05-19 14:30:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Nikkei 225 Index Closes 0.65% Lower — The Nikkei 225 Index decreased 394 points or 0.65 percent on Tuesday to close at 60422 points. The decline was led by Fujikura (-16.43%), Furukawa Electric (-8.84%) and Dowa (-6.88%). On the upside, the strongest performers were Konami (8.57%), Recruit Holdings (8.23%) and Bandai Namco Holdings (8.17%)."
+    },
+    {
+      "id": "te:economy:551832",
+      "time": "2026-05-19 14:30:05",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Employment Change",
+        "Importance 0"
+      ],
+      "text": "UK Employment Rises Most in 8 Months — The number of employed people in the United Kingdom rose by 148 thousand to 34.392 million in the three months to March 2026, following a downwardly revised 24 thousand increase in the previous period. The reading also topped expectations of a 107 thousand gain and marked the largest job increase since July last year, driven by growth in both full-time and part-time work among employees and the self-employed, with full-time roles contributing most to the overall rise. Compared with a year earlier, employment increased by 416 thousand. Despite this, the employment rate for those aged 16 to 64 edged up by just 0.1 percentage points to 75.0%, remaining broadly stable over the year. Meanwhile, the number of people holding second jobs declined to 1.273 million, accounting for 3.7% of those in employment."
+    },
+    {
+      "id": "4887318",
+      "time": "2026-05-19 14:29:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【格羅方德推出矽光子共封裝先進光引擎方案】5月19日，據格羅方德訊息，該公司日前推出其用於共封裝光學（Co-Packaged Optics，CPO）的SCALE™光學模組解決方案。格羅方德的SCALE解決方案，即矽光子共封裝先進光引擎方案，是其首個支援光學計算互連多源協議（OCI MSA）的平臺。"
+    },
+    {
+      "id": "4887317",
+      "time": "2026-05-19 14:29:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【英特爾：PC正在進化為智慧體驗入口】AI時代，使用者對PC智慧化產生迫切需求。5月18日，英特爾在第三代英特爾酷睿處理器新品會上表示，PC（個人計算機）正從工具進化為智慧體驗的入口。英特爾副總裁、中國區軟體工程和客戶端產品事業部總經理高嵩表示，主流PC總給人以廉價但厚重的印象，效能與續航能力也有限，首款支援端雲混合AI的第三代英特爾酷睿處理器將以往侷限於高階產品的能力擴充套件到主流PC平臺上。據悉，端雲混合AI的“本地輔腦+雲端主腦”混合架構能夠高效分配任務，實現效能、隱私保護、成本與響應速度的平衡。“輔腦”能力由PC端的本地AI和中小模型構成，“主腦”則協作遠端AI和大模型。（澎湃）"
+    },
+    {
+      "id": "mkt:019e3eec-caf5-7aa9-b723-cb8b7190902d",
+      "time": "2026-05-19 14:29:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "000001.SS",
+        "399001.SZ"
+      ],
+      "text": "TURNOVER ON SSE AND SZSE EXCEEDS RMB 2.5 TRLN, DOWN RMB 82 BLN FROM SAME TIME PREVIOUS SESSION"
+    },
+    {
+      "id": "4887316",
+      "time": "2026-05-19 14:28:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華光環能成立科技公司，含AI相關業務】企查查APP顯示，近日，無錫華煦科技有限公司成立，法定代表人為譚東林，經營範圍包含：環保諮詢服務；人工智慧行業應用系統整合服務；人工智慧應用軟體開發；智慧水務系統開發等。企查查股權穿透顯示，該公司由華光環能旗下華昕設計集團有限公司全資持股。"
+    },
     {
       "id": "te:markets:551828",
       "time": "2026-05-19 14:27:05",
@@ -141587,167 +141682,6 @@
         "國際"
       ],
       "text": "【特朗普訪華在即，隨行商界大咖名單公佈：馬斯克、庫克在列，包括Meta、波音等企業高管，黃仁勳未獲邀請】當地時間5月11日，美國白宮公佈了隨同特朗普訪華的商界領袖名單。馬斯克出現在代表團名單中，成為這位世界首富與特朗普恢復關係的最新跡象。馬斯克此前曾擔任特朗普的高階顧問，負責領導政府精簡聯邦機構的工作，儘管他於去年5月因與特朗普產生隔閡而離職，但兩人的關係在近幾個月已得到修復。除馬斯克外，陪同特朗普前往北京進行正式訪問的企業高層還包括：蘋果公司的庫克、貝萊德集團的芬克，以及來自Meta、Visa、摩根大通、波音、嘉吉等公司的高管。與此同時，部分科技巨頭的缺席也引發了外界關注。據知情人士透露，全球市值最高的公司英偉達，其執行長黃仁勳未獲邀請。（紅星新聞）"
-    },
-    {
-      "id": "4874308",
-      "time": "2026-05-12 14:32:13",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【韓國KOSPI指數高開低走 收跌2.28%】韓國股市高開低走，KOSPI指數週二收跌2.28%，報7644.03點。KOSPI指數盤中一度逼近8000點，隨後大幅回落。權重股SK海力士收跌2.4%，三星電子收跌2.3%。訊息面上，韓國金融監督院近日對股市過熱跡象以及融資融券餘額擴大表達擔憂，並強調有必要警惕過度槓桿投資。此外，韓國總統府政策室長提出，政府應考慮利用AI產生的超額利潤徵稅所得向全體公民支付“分紅”。"
-    },
-    {
-      "id": "4874307",
-      "time": "2026-05-12 14:32:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "凱捷諮詢投資OpenAI部署服務企業。"
-    },
-    {
-      "id": "4874306",
-      "time": "2026-05-12 14:31:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "夏普：2025/26財年集團營業利潤為485.7億日元，同比增長77.6%；預計2026/27財年營業利潤為490.0億日元，同比增長0.9%。"
-    },
-    {
-      "id": "mkt:019e1ae2-6a9b-7dd9-b929-59e99122a8aa",
-      "time": "2026-05-12 14:31:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "KOSPI INDEX CLOSED DOWN 2.28%"
-    },
-    {
-      "id": "4874305",
-      "time": "2026-05-12 14:31:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "【玉淵譚天：獨家披露中美禁毒合作細節】玉淵譚天發文稱，5月11日，公安部發布訊息表示，中美聯手辦了個跨國販毒案。次日凌晨，美國佛羅里達州南區檢察官辦公室也釋出了宣告，披露了案件進展。譚主瞭解到，這是近年來中美第一次做此類聯合釋出。同時，這次聯合偵破，是美方提供了部分關鍵線索，中方完成了抓捕。"
-    },
-    {
-      "id": "4874304",
-      "time": "2026-05-12 14:31:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "斯塔默的一位重要助手錶示，首相將就未來做出決定。"
-    },
-    {
-      "id": "4874303",
-      "time": "2026-05-12 14:31:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中核集團中核國電漳州能源有限公司原黨委書記、董事長何輝接受紀律審查和監察調查】據中央紀委國家監委駐中核集團紀檢監察組、福建省紀委監委訊息：中核集團中核國電漳州能源有限公司原黨委書記、董事長何輝涉嫌嚴重違紀違法，目前正接受中央紀委國家監委駐中核集團紀檢監察組紀律審查和福建省監委監察調查。"
-    },
-    {
-      "id": "mkt:019e1ae2-1a81-7dd9-b929-542dbacb5359",
-      "time": "2026-05-12 14:31:25",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "MONEY MARKETS NOW PRICING IN THREE RATE HIKES FROM THE ECB THIS YEAR"
-    },
-    {
-      "id": "4874302",
-      "time": "2026-05-12 14:31:18",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "焦煤連續主力合約日內跌4%，現報1248.00元。"
-    },
-    {
-      "id": "mkt:019e1ae1-f3a5-7dd9-b929-4d66d5053d8f",
-      "time": "2026-05-12 14:31:16",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "NIKKEI 225 CLOSED UP 0.52%"
-    },
-    {
-      "id": "4874301",
-      "time": "2026-05-12 14:31:10",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本東證股價指數收盤上漲 0.8%，報 3872.90 點。"
-    },
-    {
-      "id": "4874300",
-      "time": "2026-05-12 14:31:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "資生堂一季度核心營業利潤 130.3 億日元，市場預期 103.8 億日元。"
-    },
-    {
-      "id": "4874299",
-      "time": "2026-05-12 14:30:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "夏普第四季度經營利潤75.7億日元，預估85.1億日元。"
-    },
-    {
-      "id": "4874298",
-      "time": "2026-05-12 14:30:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "夏普預計全年經營利潤490.0億日元，預估493.1億日元。"
-    },
-    {
-      "id": "te:markets:549890",
-      "time": "2026-05-12 14:30:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Nikkei 225 Index Closes 0.47% Higher — The Nikkei 225 Index rose 291 points or 0.47 percent on Tuesday to close at 62709 points. Leading the gains are Furukawa Electric (15.84%), Fujikura (12.37%) and Shimizu Corporation (9.84%). Top losers were Pacific Metals (-15.69%), Yamaha (-8.32%) and Z Holdings (-7.87%)."
-    },
-    {
-      "id": "4874297",
-      "time": "2026-05-12 14:29:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "【湖北長江量子科技投資基金登記成立 出資額1億】天眼查App顯示，近日，湖北長江量子科技投資基金合夥企業（有限合夥）成立，執行事務合夥人為長江創業投資基金管理有限公司，出資額1億人民幣，經營範圍為私募股權投資基金管理、創業投資基金管理服務，創業投資。合夥人資訊顯示，該基金由長江創業投資基金有限公司、國科科技成果轉化創業投資基金（武漢）合夥企業（有限合夥）、湖北省投資引導基金有限公司、武漢光谷高科創業投資基金合夥企業（有限合夥）等共同出資。"
-    },
-    {
-      "id": "4874296",
-      "time": "2026-05-12 14:28:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國高階大臣瓊斯：國王演講將於明日如期舉行。"
-    },
-    {
-      "id": "4874295",
-      "time": "2026-05-12 14:28:46",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "Tastylive全球宏觀研究主管Ilya Spivak：我們已經看到許多央行政策預期轉向了更為鷹派的立場，對於美聯儲而言，這意味著今年所有降息的可能性都已消失。"
     }
   ]
 }
