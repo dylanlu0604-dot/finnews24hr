@@ -1,7 +1,68 @@
 {
-  "updated": "2026-05-19 13:18:38",
-  "count": 15659,
+  "updated": "2026-05-19 13:22:42",
+  "count": 15664,
   "items": [
+    {
+      "id": "4887207",
+      "time": "2026-05-19 13:21:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "中微公司成交額超100億元，現漲近8%。"
+    },
+    {
+      "id": "4887206",
+      "time": "2026-05-19 13:20:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "泰國生活成本救濟措施將於6月至9月實施。"
+    },
+    {
+      "id": "4887205",
+      "time": "2026-05-19 13:20:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超2萬億元，較上日此時縮量1194億元。"
+    },
+    {
+      "id": "4887204",
+      "time": "2026-05-19 13:20:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【水利部針對贛鄂湘粵桂黔瓊七省區啟動洪水防禦Ⅳ級應急響應】據預報，5月19日至21日，江西北部、湖南、貴州東部、廣西北部及沿海、廣東北部及沿海、海南南部等地將有持續強降雨，受其影響，珠江流域西江中下游幹流及支流柳江、桂江，北江干流，長江流域洞庭湖水系沅江上游、鄱陽湖水系饒河及贛江將出現漲水過程，廣西防城河、湖南沅江上游支流沱江、湖北內荊河長湖等暴雨區內中小河流可能發生超警以上洪水。5月19日上午，水利部滾動會商研判全國雨水情形勢，安排部署暴雨洪水防禦工作。根據《水利部水旱災害防禦應急響應工作規程》，水利部於5月19日12時針對江西、湖北、湖南、廣東、廣西、貴州、海南等七省區啟動洪水防禦Ⅳ級應急響應。"
+    },
+    {
+      "id": "4887203",
+      "time": "2026-05-19 13:19:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "泰國內閣批准1750億泰銖生活成本救濟計劃。"
+    },
+    {
+      "id": "te:markets:551808",
+      "time": "2026-05-19 13:19:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Rupiah Falls to New Low Despite Expectations of BI Rate Hike — The Indonesian rupiah weakened to a fresh low near IDR 17,730 per U.S. dollar on Tuesday, extending losses for a fourth straight session amid persistent pressure, as Bank Indonesia kicked off its two-day policy meeting. While the central bank is expected to raise interest rates by 25bp to 5% after holding steady since October, worries mounted over the broader fallout from the currency’s slide. Debate sharpened after President Prabowo Subianto drew fire for remarks suggesting villagers are insulated from depreciation as they do not use dollars. Caution also grew before Q1 current account data later this week, after the balance swung into deficit in Q4 due to a wider oil trade gap. Traders largely shrugged off Governor Perry Warjiyo’s assurance to parliament that policymakers had “increased the dosage” of intervention and stood ready with further steps, stressing conditions were “not business as usual.” Globally, the dollar index held firm ahead of FOMC minutes and flash U.S. PMI data."
+    },
+    {
+      "id": "4887202",
+      "time": "2026-05-19 13:18:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【最高人民檢察院公佈最新侵犯公民人身自由的賠償金標準】最高人民檢察院日前下發通知，要求各級檢察院辦理自身作為賠償義務機關的侵犯人身自由國家賠償案件時，執行新的日賠償標準495.94元。"
+    },
     {
       "id": "mkt:019e3eab-3b1d-7aa9-b723-079d86f1a136",
       "time": "2026-05-19 13:17:49",
@@ -141516,22 +141577,6 @@
         "公司"
       ],
       "text": "墨西哥國家石油公司：薩利納克魯斯煉油廠Hydros 2裝置冷卻塔火災已得到控制。事故已造成6人受傷，傷者已被送往當地醫院救治。事故已得到控制，不會對附近居民構成風險。"
-    },
-    {
-      "id": "4874193",
-      "time": "2026-05-12 13:21:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "寒武紀成交額達200億元，現漲4.51%。"
-    },
-    {
-      "id": "4874192",
-      "time": "2026-05-12 13:21:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗處決一名與俾路支激進組織有關聯的男子。"
     }
   ]
 }
