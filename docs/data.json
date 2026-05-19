@@ -1,7 +1,128 @@
 {
-  "updated": "2026-05-20 01:50:49",
-  "count": 15624,
+  "updated": "2026-05-20 01:54:49",
+  "count": 15627,
   "items": [
+    {
+      "id": "4888746",
+      "time": "2026-05-20 01:53:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：Gemini 3.5 Flash現已成為Gemini應用預設模型。"
+    },
+    {
+      "id": "4888745",
+      "time": "2026-05-20 01:53:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：搜尋AI模式預設採用Gemini 3.5 Flash模型。"
+    },
+    {
+      "id": "4888744",
+      "time": "2026-05-20 01:52:34",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "沃比·帕克股價上漲2.7%，此前該公司與谷歌及三星達成合作，聯手開發智慧眼鏡。"
+    },
+    {
+      "id": "4888743",
+      "time": "2026-05-20 01:52:19",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "耐克：美國消費者將可直接透過谷歌搜尋的Gemini應用及人工智慧模式購買耐克產品。"
+    },
+    {
+      "id": "mkt:019e415d-f21f-7228-9afe-bd7bb079bfcf",
+      "time": "2026-05-20 01:52:10",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "VANCE: WON'T SAY WITH CONFIDENCE THAT WE'LL GET A DEAL WITH IRAN"
+    },
+    {
+      "id": "mkt:019e415d-9fb7-7228-9afe-b45043290c0b",
+      "time": "2026-05-20 01:51:50",
+      "tags": [
+        "MKT News",
+        "NKE.O",
+        "Impact bullish"
+      ],
+      "text": "NIKE INC - CONSUMERS IN U.S. WILL BE ABLE TO DISCOVER & PURCHASE NIKE PRODUCTS DIRECTLY FROM NIKE IN GEMINI APP & AI MODE IN GOOGLE SEARCH"
+    },
+    {
+      "id": "4888742",
+      "time": "2026-05-20 01:51:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯：17億美元司法訴訟專項基金旨在糾正不公正的起訴。"
+    },
+    {
+      "id": "mkt:019e415d-81b9-7228-9afe-a97c38463abf",
+      "time": "2026-05-20 01:51:47",
+      "tags": [
+        "MKT News",
+        "WRBY.O",
+        "Impact bullish"
+      ],
+      "text": "WARBY PARKER SHARES RISE 2.7% AFTER CO PARTNERS WITH GOOGLE AND SAMSUNG ON INTELLIGENT EYEWEAR"
+    },
+    {
+      "id": "mkt:019e415d-6b8e-7228-9afe-a5a5fe02f522",
+      "time": "2026-05-20 01:51:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CANVA: GEMINI USERS CAN NOW GENERATE & EDIT CANVA DESIGNS, TURN NANO BANANA IMAGES INTO LAYERED, EDITABLE DESIGNS TO REFINE & PUBLISH IN CANVA"
+    },
+    {
+      "id": "mkt:019e415d-5a86-7228-9afe-9d08b40f272d",
+      "time": "2026-05-20 01:51:37",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OPENAI: TAKING MULTI-LAYERED APPROACH AND INCORPORATING WATERMARKING THROUGH GOOGLE DEEPMIND’S SYNTHID FOR IMAGES"
+    },
+    {
+      "id": "mkt:019e415d-2981-7228-9afe-9209e85bb9b0",
+      "time": "2026-05-20 01:51:24",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "NKE.O",
+        "Impact bullish"
+      ],
+      "text": "NIKE INC - EXPANDING VISION TO ELEVATE AND INTEGRATE THE MARKETPLACE WITH A NEW AI-POWERED SHOPPING EXPERIENCE - WEBSITE"
+    },
+    {
+      "id": "4888741",
+      "time": "2026-05-20 01:51:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "耐克：拓展發展佈局，依託全新人工智慧購物體驗，升級並整合消費市場生態。"
+    },
+    {
+      "id": "4888740",
+      "time": "2026-05-20 01:50:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "OpenAI：採取多層防護策略，引入谷歌深度思維的SynthID技術為影象新增水印標識。"
+    },
     {
       "id": "4888739",
       "time": "2026-05-20 01:49:18",
@@ -141085,102 +141206,6 @@
         "XAUUSD"
       ],
       "text": "TRUMP ON IRAN: BLOCKADE HAS BEEN EFFECTIVE"
-    },
-    {
-      "id": "4875727",
-      "time": "2026-05-13 01:54:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：石油產量將會迎來井噴式暴漲。"
-    },
-    {
-      "id": "4875726",
-      "time": "2026-05-13 01:54:30",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "韓國工會訊息：三星電子與韓國工會未能達成薪資協議。"
-    },
-    {
-      "id": "mkt:019e1d53-f9a8-7772-877b-cad23432e24b",
-      "time": "2026-05-13 01:54:30",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "TRUMP SAYS THEY'LL BE \"THINKING ABOUT\" A RED LINE FOR THE CEASEFIRE WITH IRAN ON THE FLIGHT TO CHINA"
-    },
-    {
-      "id": "4875725",
-      "time": "2026-05-13 01:54:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談伊朗：封鎖已取得成效。"
-    },
-    {
-      "id": "mkt:019e1d53-5203-7772-877b-c0933378c80b",
-      "time": "2026-05-13 01:54:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TRUMP: WE'LL WIN IT ONE WAY OR THE OTHER. WE'LL WIN IT PEACEFULLY"
-    },
-    {
-      "id": "mkt:019e1d52-a948-7772-877b-bb7ca16ebab0",
-      "time": "2026-05-13 01:53:28",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "TRUMP: I DON'T THINK I NEED CHINA’S PRESIDENT XI'S HELP ON IRAN"
-    },
-    {
-      "id": "mkt:019e1d52-4e23-7772-877b-b6383d9def64",
-      "time": "2026-05-13 01:53:13",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "TRUMP ON IRAN: ONLY GOING TO MAKE A GOOD DEAL"
-    },
-    {
-      "id": "mkt:019e1d52-08dd-7772-877b-aa7e9c887a81",
-      "time": "2026-05-13 01:52:55",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "TRUMP: I WILL HAVE A LONG TALK WITH CHINA’S PRESIDENT XI ABOUT THE IRAN WAR"
-    },
-    {
-      "id": "4875724",
-      "time": "2026-05-13 01:52:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談伊朗：只會達成一項好的協議。"
-    },
-    {
-      "id": "mkt:019e1d51-9ae6-7772-877b-a6b7e6e09fc7",
-      "time": "2026-05-13 01:52:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TRUMP: “I THINK THE PAKISTANIS HAVE BEEN GREAT,” AHEAD OF CHINA TRI"
     }
   ]
 }
