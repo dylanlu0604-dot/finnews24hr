@@ -1,7 +1,23 @@
 {
-  "updated": "2026-05-20 06:47:58",
-  "count": 15540,
+  "updated": "2026-05-20 06:51:56",
+  "count": 15536,
   "items": [
+    {
+      "id": "4888920",
+      "time": "2026-05-20 06:51:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "【多隻證券ETF迎來資金增配】近期，多隻證券ETF迎來資金增配，連續多個交易日獲得資金淨流入。Wind資料顯示，證券ETF易方達從4月13日到5月18日連續23個交易日保持資金淨流入；證券ETF國泰連續10個交易日（4月29日到5月15日）保持資金淨流入，合計達36.88億元；此外，券商ETF華寶也表現亮眼，本月以來（截至5月18日收盤）淨流入額達21.21億元。從基金規模變化來看，證券ETF易方達規模達29.73億元，環比增長17.17%；證券ETF富國、證券ETF華夏規模分別環比增長7.79%、6.69%。（證券日報）"
+    },
+    {
+      "id": "4888919",
+      "time": "2026-05-20 06:49:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【今年以來港股IPO募資額超1500億港元】今年以來，港股市場IPO募資總額超1500億港元，位居全球各交易所前列。大族數控、瀾起科技、勝宏科技等一批A股市值超過千億元的龍頭企業相繼登陸港交所。打新熱情高漲，翼菲科技香港發售申購倍數超1.4萬倍，創歷史新高。截至5月19日，今年以來共有19家A股上市公司成功登陸港股市場，130家A股上市公司已在港交所排隊。從市值構成上看，在已排隊港交所的A股上市公司中，不乏立訊精密、東山精密、陽光電源、天孚通訊、匯川技術等千億市值龍頭公司。（中證報）"
+    },
     {
       "id": "te:markets:552041",
       "time": "2026-05-20 06:45:13",
@@ -140288,60 +140304,6 @@
         "國際"
       ],
       "text": "法國總統馬克龍：法國將在聯合國發起一項倡議，旨在搭建框架，組建一支中立護航任務部隊，負責保障霍爾木茲海峽的航行安全。"
-    },
-    {
-      "id": "4875954",
-      "time": "2026-05-13 06:51:46",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：\n1、24項改革措施，推動綜合保稅區擴能提質（政策解讀）\n2、世界最大規模海上換流站裝船完畢整裝待發\n3、我國牽頭制定的首個產品碳足跡數字化國際標準成功立項\n4、我國成功發射千帆極軌09組衛星\n5、甘肅出臺意見促進養老服務業高質量發展\n6、中央網信辦 規範短影片內容標註\n7、前4月全國食品貿易進出口同比增長6.5%\n8、西十高鐵全線拉通試驗啟動\n9、前4月京津冀進出口值同比增長12%\n10、新政策實施半年 海南離島免稅購物金額達222.2億元\n11、百餘家單位將共建“太空雲”生態\n12、我國第四代自主超導量子計算機上線\n13、一季度全國消協組織受理投訴超47萬件\n14、第二屆阿布扎比基礎設施峰會開幕——中國與阿聯酋攜手推動城市可持續發展（國際視點）\n15、塔吉克促進經濟多元化發展 數字經濟和電動汽車成為增長亮點\n16、設立專項基金 最佳化採購政策 南非多舉措激發青年創業就業潛能\n17、莫讓智慧助手製造“消費陷阱”（商海觀潮）。"
-    },
-    {
-      "id": "4875953",
-      "time": "2026-05-13 06:51:38",
-      "tags": [
-        "宏觀",
-        "焦點"
-      ],
-      "text": "今天《人民日報》頭版的主要內容有：\n1、習近平同塔吉克總統拉赫蒙會談\n2、習近平會見汶萊王儲比拉\n3、習近平會見聯合國教科文組織總幹事阿納尼\n4、李強趙樂際分別會見塔吉克總統拉赫蒙\n5、李強致電祝賀毛焦爾就任匈牙利總理\n6、韓正同汶萊王儲比拉舉行會談。"
-    },
-    {
-      "id": "4875952",
-      "time": "2026-05-13 06:50:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國：我方將派遣颱風戰鬥機及鑽石號護衛艦，為霍爾木茲海峽護航行動提供支援。"
-    },
-    {
-      "id": "te:markets:550091",
-      "time": "2026-05-13 06:49:56",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "NZX 50 Edges Down in Morning Session — The NZX 50 dropped 8 points, or 0.1%, to 13,072 in Wednesday morning trade, falling for the second straight session and tracking declines on Wall Street overnight, as a hot inflation reading amid higher oil prices fueled concerns that the Fed will not cut rates this year. Traders also remained cautious ahead of business inflation expectations data for Q2 later today, as well as New Zealand's food inflation data and manufacturing PMI, both due later this week. Markets will also monitor developments surrounding a potential meeting between US President Trump and Chinese President Xi Jinping later this week. Financials, consumer staples, communication services, and industrials mainly dragged the index lower, with the biggest laggards including AFC Pharmaceuticals (-1.6%), Henderson Far East Income (-1.3%), Infratil (-1.0%), A2 Milk (-0.9%), ANZ Group (-0.8%), Freightways (-0.8%), and Chorus (-0.7%)."
-    },
-    {
-      "id": "4875951",
-      "time": "2026-05-13 06:49:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本卡車行業協會會長呼籲徵收燃油附加費。"
-    },
-    {
-      "id": "4875950",
-      "time": "2026-05-13 06:48:19",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "華盛頓方面：我方預計霍爾木茲海峽將一直關閉至五月底。"
     }
   ]
 }
