@@ -1,7 +1,55 @@
 {
-  "updated": "2026-05-20 01:58:48",
-  "count": 15629,
+  "updated": "2026-05-20 02:02:45",
+  "count": 15619,
   "items": [
+    {
+      "id": "4888760",
+      "time": "2026-05-20 02:01:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：上線Google Pics影象創作與編輯應用。"
+    },
+    {
+      "id": "4888759",
+      "time": "2026-05-20 02:01:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：在搜尋、Gemini、Chrome、Pixel及雲服務中擴充內容透明度與資訊核驗工具。"
+    },
+    {
+      "id": "4888758",
+      "time": "2026-05-20 01:59:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：在辦公套件中推出含Gemini Spark在內的全新AI功能。"
+    },
+    {
+      "id": "mkt:019e4164-8fa2-7228-9afe-dede47ff8e23",
+      "time": "2026-05-20 01:59:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "T-MOBILE: FOUNDED NON-PROFIT C2 ISAC TO BOOST CYBERSECURITY PARTNERSHIP WITH 7 OTHER FIRMS INCLUDING AT&T, CHARTER, VERIZON, COMCAST"
+    },
+    {
+      "id": "4888757",
+      "time": "2026-05-20 01:59:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌搜尋將根據使用者檢索需求，匹配推送定製化專屬應用。"
+    },
+    {
+      "id": "4888756",
+      "time": "2026-05-20 01:58:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌推出科研專用Gemini模型，上線各類科學領域智慧功能。"
+    },
     {
       "id": "4888755",
       "time": "2026-05-20 01:57:48",
@@ -141048,165 +141096,6 @@
         "國際"
       ],
       "text": "特朗普： 伊朗要麼做出正確選擇，否則我們就將徹底了結此事。"
-    },
-    {
-      "id": "mkt:019e1d5a-afce-7772-877c-380b327ec5fd",
-      "time": "2026-05-13 02:02:17",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "WTI",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "TRUMP: RUSSIA-UKRAINE WAR IS GOING TO END VERY SOON"
-    },
-    {
-      "id": "mkt:019e1d5a-8762-7772-877c-34e08b74d264",
-      "time": "2026-05-13 02:02:12",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "CNH",
-        "Impact bullish",
-        "Copper",
-        "S&P500"
-      ],
-      "text": "TRUMP: WILL DO A LOT OF BUSINESS WITH CHINA"
-    },
-    {
-      "id": "4875739",
-      "time": "2026-05-13 02:02:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：歐佩克正面臨困境。"
-    },
-    {
-      "id": "4875738",
-      "time": "2026-05-13 02:01:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：俄烏衝突很快就會結束。"
-    },
-    {
-      "id": "4875737",
-      "time": "2026-05-13 02:01:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國4月政府預算 2150億美元，預期2200億美元，前值-1640億美元。\n美國2026財年迄今赤字為9540億美元，而2025財年同期赤字為1.049萬億美元。\n美國4月預算支出6220億美元，2025年4月為5920億美元；4月收入8370億美元，2025年4月為8500億美元。\n美國四月海關淨收入為221.2億美元。"
-    },
-    {
-      "id": "mkt:019e1d59-2f47-7772-877c-2ef91f625768",
-      "time": "2026-05-13 02:00:31",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "US10Y",
-        "Impact mixed",
-        "DXY"
-      ],
-      "text": "U.S. APRIL BUDGET SURPLUS $215 BLN (CONSENSUS $220 BLN SURPLUS) VS APRIL 2025 SURPLUS $258 BLN - TREASURY U.S. FISCAL 2026 YEAR-TO-DATE DEFICIT $954 BLN VS COMPARABLE FISCAL 2025 DEFICIT $1.049 TRLN U.S. APRIL BUDGET OUTLAYS $622 BLN VS $592 BLN IN APRIL 2025; RECEIPTS $837 BLN VS $850 BLN IN APRIL 2025 U.S. APRIL NET CUSTOMS RECEIPTS $22.12 BLN - TREASURY"
-    },
-    {
-      "id": "4875736",
-      "time": "2026-05-13 02:00:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及美國食藥監局馬卡里相關人事：其助理將臨時接任履職。"
-    },
-    {
-      "id": "mkt:019e1d58-a61c-7772-877c-25996f870497",
-      "time": "2026-05-13 02:00:04",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "TRUMP ON FDA'S MAKARY: HIS ASSISTANT IS TAKING OVER TEMPORARILY"
-    },
-    {
-      "id": "mkt:019e1d58-898c-7772-877c-1c6d4d7f89b8",
-      "time": "2026-05-13 02:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Government Budget (Apr) | actual 215000000000B | consensus 220000000000B | previous -164000000000B"
-    },
-    {
-      "id": "mkt:019e1d58-85e8-7772-877c-17e774ec0496",
-      "time": "2026-05-13 01:59:58",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "FED'S GOOLSBEE: THE JOB MARKET IS BASICLALY STABLE, INFLATION IS GOING UP GOOLSBEE: NOT AT THIS MOMENT IN A DIFFICULT BALANCING ACT AT THE FED"
-    },
-    {
-      "id": "mkt:019e1d58-3531-7772-877c-0cf56303aa72",
-      "time": "2026-05-13 01:59:40",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "TRUMP ON FDA'S MAKARY: HE IS GOING TO BE OFF"
-    },
-    {
-      "id": "mkt:019e1d58-1281-7772-877c-01063ab1d8ab",
-      "time": "2026-05-13 01:59:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TRUMP: GOING TO GET ALL POLITICAL PRISONERS OUT OF VENEZUELA"
-    },
-    {
-      "id": "4875735",
-      "time": "2026-05-13 01:59:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：將釋放委內瑞拉所有政治犯。"
-    },
-    {
-      "id": "4875734",
-      "time": "2026-05-13 01:59:13",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲古爾斯比：我仍對利率將大幅下調持樂觀態度，但前提是通脹方面要取得進展。"
-    },
-    {
-      "id": "4875733",
-      "time": "2026-05-13 01:59:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：會在合適的時機談論古巴問題。"
-    },
-    {
-      "id": "4875732",
-      "time": "2026-05-13 01:58:55",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲古爾斯比：目前美聯儲不需要進行艱難的平衡調控。"
     }
   ]
 }
