@@ -1,7 +1,352 @@
 {
-  "updated": "2026-05-19 14:07:51",
-  "count": 15672,
+  "updated": "2026-05-19 14:20:15",
+  "count": 15681,
   "items": [
+    {
+      "id": "mkt:019e3ee3-8d44-7aa9-b723-aa84cb0bc4d3",
+      "time": "2026-05-19 14:19:20",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "CHINA AGRICULTURE MINISTRY REVIEWS REVISED HOG CAPACITY CONTROL PLAN, PUSHES SHIFT FROM OUTPUT EXPANSION TO HIGH-QUALITY DEVELOPMENT"
+    },
+    {
+      "id": "4887294",
+      "time": "2026-05-19 14:18:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【勝藍股份股價創歷史新高】5月19日午後，勝藍股份(300843)股價一度漲超6%，最高價達到104.18元/股，創下歷史新高，年內累計漲幅翻倍。"
+    },
+    {
+      "id": "4887293",
+      "time": "2026-05-19 14:18:19",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【小摩：維持對三大中資電訊股正面看法，首選中國移動】摩根大通發表報告指，三大中資電訊股因推出針對中小企及零售使用者的AI Token套餐，H股股價昨日上揚，反映投資者看好電訊商成為AI變現的實體經濟受惠者。該行維持對中國移動、中國電信及中國聯通的正面看法，均予“增持”評級。該行認為，AI變現及電訊服務“內卷”情況改善，有望帶動ARPU從2026年起重拾增長，並使盈利從2027年恢復增長，而2026年則受增值稅調整影響。三大電訊股中，摩通在H股首選仍為中國移動，其後為中國電信及中國聯通。"
+    },
+    {
+      "id": "te:economy:551821",
+      "time": "2026-05-19 14:16:59",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Wage Growth",
+        "Importance 1"
+      ],
+      "text": "UK Total Pay Growth Above Expectations — Total average weekly earnings in the UK, including bonuses, increased 4.1% year-on-year to GBP 749 in the three months to March 2026, exceeding market estimates of 3.8% and accelerating from a 3.9% increase in the prior period, which had marked the slowest pace since the three months to November 2020. Private sector wage growth quickened to 3.9% from 3.6%, the fastest since late 2025, while public sector pay gains slowed to 4.9%, the lowest since late 2024, after a 5.2% rise previously. Adjusted for inflation, total earnings increased 0.8% over the period, faster than 0.6% gain in the three months to February and marking the strongest growth since late 2025."
+    },
+    {
+      "id": "mkt:019e3ee1-1037-7aa9-b723-a3a599ec348d",
+      "time": "2026-05-19 14:16:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "YIELD ON 20-YEAR JGB RISES 6.5 BPS TO 3.78%, HIGHEST SINCE AUGUST 1996"
+    },
+    {
+      "id": "4887292",
+      "time": "2026-05-19 14:16:22",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本20年期國債收益率上升6.5個基點，至3.78%，創1996年8月以來新高。"
+    },
+    {
+      "id": "4887291",
+      "time": "2026-05-19 14:16:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "韓元下跌1%，表現遜於所有亞幣。"
+    },
+    {
+      "id": "4887290",
+      "time": "2026-05-19 14:16:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "【海南：將推動瓊州海峽滾裝第二通道建設、儘快啟動湛海高鐵建設】記者從《海南省“十五五”綜合交通運輸（公路水路）發展規劃（徵求意見稿）》獲悉，海南將推動瓊州海峽滾裝第二通道建設。“十五五”時期海南將拓寬出島大通道，除儘快啟動湛海高鐵建設外，省交通運輸廳正在謀劃瓊州海峽滾裝第二通道。上述《規劃》將全面提升瓊州海峽“黃金水道”運輸能力列為“十五五”重點任務，明確提出加強研究論證，適時推動瓊州海峽滾裝第二通道建設。目前，海南已成立由分管省領導擔任組長的瓊州海峽第二通道工作組，其辦公室設在省交通運輸廳。據悉，《規劃》突出制度整合創新，持續深化航運制度改革創新，穩步推進政策紅利加力擴圍增效。海南將進一步最佳化航運政策，提升國際船舶登記服務質量和效率，吸引船舶落戶“中國洋浦港”船籍港，吸引國際航運資源集聚。"
+    },
+    {
+      "id": "4887289",
+      "time": "2026-05-19 14:16:11",
+      "tags": [
+        "行業",
+        "焦點"
+      ],
+      "text": "【農業農村部召開生豬產能綜合調控部署影片會】5月18日，農業農村部召開影片會，部署落實新修訂的生豬產能綜合調控實施方案，分析當前生豬生產形勢，進一步壓實各方責任，推動生豬產業從數量擴張轉向高質量發展。農業農村部黨組成員、副部長張治禮出席會議並講話。 會議認為，強化生豬產能綜合調控關乎生豬穩定供給、農民增收和防範行業金融風險。各地必須提高政治站位，嚴格落實產能去化措施，推動生豬價格合理回升，促進生豬產業穩定健康發展。\n\n會議要求，要準確把握現階段生豬產業發展形勢，抓好生豬產能常態化精準化調控，把去產能、促轉型各項工作落到實處。要鞏固生豬價格回升勢頭，促進豬肉消費，引導養殖場戶理性看待後市行情，防止盲目壓欄和擴產賭行情。要多措並舉壓減產能，抓緊修訂省級實施方案，強化大型豬企視窗指導和經營風險預警，嚴控新增產能，引導中小養殖場戶差異化發展。要強化監測預警引導，督促生產經營主體履行資料包送義務，健全權威資訊釋出機制，多渠道、多頻次釋出權威預警資訊。要抓好生豬疫病防控，進一步築牢免疫保護屏障，強化監測流調和應急處置。要規範種豬生產經營秩序，持續做好養殖業節糧降耗，引導屠宰企業開展精細分割、精深加工，推動全產業鏈轉型升級。\n\n農業農村部國家首席獸醫師（官）陶懷穎主持會議並通報實施方案修訂內容。河北、山西、山東、河南、湖南等5個省份作交流發言，3家企業代表作表態發言。31個省（區、市）和新疆生產建設兵團農業農村部門負責同志以及部分大型生豬養殖企業和國家級生豬產能調控場負責人在分會場參加會議。會後，農業農村部將派出7個工作組赴生豬主產省份，推動各項工作落地見效。（農業農村部）"
+    },
+    {
+      "id": "4887288",
+      "time": "2026-05-19 14:15:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【光大同創股價首次突破百元】5月19日午後，光大同創(301387)股價一度漲超10%，最高價達到102元/股，創下歷史新高，這也是其股價首次突破百元，公司最新A股市值突破100億元。"
+    },
+    {
+      "id": "4887287",
+      "time": "2026-05-19 14:15:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "條款清單顯示，滙豐控股透過三段式袋鼠債券交易籌集了14億澳元。"
+    },
+    {
+      "id": "mkt:019e3ee0-3193-7aa9-b723-9daef947f8be",
+      "time": "2026-05-19 14:15:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "CSI300",
+        "CNH"
+      ],
+      "text": "CHINA'S STAR 50 INDEX UP OVER 2%"
+    },
+    {
+      "id": "4887285",
+      "time": "2026-05-19 14:14:37",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【日本公債價格下跌，市場焦點轉向日本補充預算案和日本央行】日本公債價格週二下跌，回吐先前漲幅，因投資者正等待政府計劃中的補充預算案細節以及日本央行即將公佈的政策決定。指標10年期日債收益率從盤中低點2.710%升至2.785%，上漲4.5個基點。五年期收益率從盤中低點1.985%升至2.010%，上漲2.5個基點。大和證券高階策略師Masahito Sugawara表示：“上一交易日五年期公債標售結果強勁，提振了投資者回購債券的意願，因此週一收益率升幅有所收窄，這一趨勢一直持續到今天早間。”他補充道：“收益率的下跌只是曇花一現，因為投資者買入債券只是為了平倉空頭頭寸。”"
+    },
+    {
+      "id": "te:economy:551818",
+      "time": "2026-05-19 14:13:19",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Non Farm Payrolls",
+        "Importance 1"
+      ],
+      "text": "UK Payroll Employment Falls to Near 6-Year Low — The number of payrolled employees in the UK declined by 100 thousand, or 0.3% to 30.2 million in April 2026, following a revised 28 thousand fall in March. This was the third consecutive monthly decline and the sharpest since May 2020, as the war in the Middle East continued to weigh on the job market. On an annual basis, employment decreased by 0.7%, or 210 thousand. The biggest drop was recorded in the wholesale and retail sector (-76 thousand), while the largest increase was in the health and social work sector (+24 thousand). Across NUTS3 regions, Brent registered a 2.6% drop in payrolled employees, while Mid Ulster experienced an increase of 1.7%. Meanwhile, the median monthly pay increased by 4.9% from a year earlier to £2,627. Growth in median pay was highest in the health and social work sector (+6.8%) and lowest in the finance and insurance sector (+3.1%)."
+    },
+    {
+      "id": "4887284",
+      "time": "2026-05-19 14:13:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞標普澳交所 200 指數收盤上漲 1.2%，報 8604.70 點。"
+    },
+    {
+      "id": "4887283",
+      "time": "2026-05-19 14:13:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達2.02%，成分股中，滬矽產業漲13.25%，芯原股份漲13.10%，晶晨股份漲11.89%，中科飛測漲8.60%。"
+    },
+    {
+      "id": "4887282",
+      "time": "2026-05-19 14:12:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【依法嚴懲侵犯企業合法權益犯罪 最高檢釋出典型案例】記者5月19日從最高人民檢察院獲悉，最高檢近日印發了一批“充分發揮檢察職能 依法平等保護企業合法權益典型案例”。這批典型案例共6件，涉及民營企業內部腐敗、“一貨多賣”類合同詐騙、職務侵佔、串通投標等企業生產經營活動中的常見法律問題，充分體現了檢察機關服務保障經濟社會高質量發展的堅定立場和工作成效。依法懲治侵害企業合法權益犯罪，是檢察機關依法平等保護企業合法權益的主要方式。在“劉某某、鄒某某非國家工作人員受賄案”中，上海檢察機關準確認定犯罪事實、及時補充起訴遺漏罪行，同步推進查處關聯行賄、受賄犯罪；同時堅持標本兼治，助力企業完善內部治理，築牢企業內部腐敗“防火牆”。（新華社）"
+    },
+    {
+      "id": "4887281",
+      "time": "2026-05-19 14:12:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【亞太經合組織第二次高官會在上海舉行】2026年5月18日至19日，2026年亞太經合組織（APEC）第二次高官會在上海舉行。外交部副部長馬朝旭出席開幕式並致辭。馬朝旭表示，習近平主席指出，中方將順應時代發展大勢，傾聽各成員呼聲，同各方攜手構建亞太共同體，為亞太乃至世界和平與發展注入新動力，為APEC“中國年”合作指明瞭方向。中方將圍繞今年APEC會議主題“建設亞太共同體，促進共同繁榮”，以《APEC領導人深圳宣言》為平臺，展望實現亞太共同體目標的路線圖，突出貿易、聯通、創新、發展四大支柱，籌備領導人會議成果。與會各方高度評價今年以來APEC各領域合作進展，讚賞中方主辦APEC會議，願共同推動APEC“中國年”取得豐碩成果。高官會前，APEC各委員會、工作組於5月11日至17日舉行近40場會議，涉及貿易投資、經濟技術合作、婦女、電信、食品安全等領域。來自各成員經濟體、秘書處、觀察員等1000餘位代表出席。"
+    },
+    {
+      "id": "mkt:019e3edd-39e4-7aa9-b723-926b00d335bd",
+      "time": "2026-05-19 14:12:03",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "IRAN'S DEPUTY FOREIGN MINISTER SAYS LIFTING SANCTIONS, RELEASING FROZEN FUNDS, ENDING BLOCKADE INCLUDED IN IRAN'S RECENT PROPOSAL TO U.S -IRNA IRAN'S DEPUTY FOREIGN MINISTER SAYS ENDING WAR ON ALL FRONTS INCLUDING LEBANON, U.S FORCES EXITING AREAS CLOSE TO IRAN ARE ALSOP INCLUDED IN THE PROPOSAL"
+    },
+    {
+      "id": "4887280",
+      "time": "2026-05-19 14:11:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【英國4月就業人數大幅下降 伊朗戰爭令經濟前景黯淡】英國僱主在4月大幅削減崗位，這顯示隨著伊朗戰爭的持續，對勞動力的需求正在減弱。英國國家統計局週二公佈的稅務資料顯示，繼3月減少2.8萬人之後，4月份就業人數又減少了10萬人。這一降幅遠超經濟學家預期的1萬人，其中零售業的下滑尤為嚴重。截至3月的三個月失業率，從截至2月的4.9%上升至5%，而職位空缺數為2021年以來的最低水平。由於中東衝突引發另一場能源衝擊，經濟學家下調了2026年的經濟增長預期。儘管第一季度經濟增長了不錯的0.6%，但預測人士預計，今年剩餘時間經濟增長將回落至較為平緩的水平。"
+    },
+    {
+      "id": "mkt:019e3edc-ebb7-7aa9-b723-8c68a89bb9d9",
+      "time": "2026-05-19 14:11:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "CNH"
+      ],
+      "text": "【China Draws Foreign Inflows After Brief Iran War-Led Outflow】China’s cross-border inflows rebounded in April after a brief March outflow, supporting confidence in the economy and a stronger yuan. Official data showed onshore banks received a net $61.9 billion from overseas, marking the sixth inflow month in seven. Goods-trade inflows rose 47% month-on-month to $74.4 billion, while securities investment recorded a $13.6 billion inflow after March’s $53.2 billion outflow, signaling renewed interest in Chinese assets. The yuan has gained 2.8% against the dollar this year, while China’s CSI 300 rose 8% in April, helped by a rebound in tech shares."
+    },
+    {
+      "id": "4887279",
+      "time": "2026-05-19 14:11:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【西班牙南部槍擊事件已致2人死亡】據西班牙當地媒體19日報道，西班牙南部發生槍擊事件，已造成2人死亡、4人受傷。"
+    },
+    {
+      "id": "te:economy:551817",
+      "time": "2026-05-19 14:11:22",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Unemployment Rate",
+        "Importance 1"
+      ],
+      "text": "UK Jobless Rate Rises to 5% — The UK unemployment rate rose to 5.0% in the three months to March 2026, above market expectations and February’s 4.9%. Despite the higher rate, the number of unemployed people fell by 77,000 to 1.806 million, mainly driven by declines among those unemployed for up to six months and those out of work for between six and 12 months. Compared to the same period last year, however, unemployment increased by 192,000, with all unemployment durations rising. Meanwhile, total employment increased by 148,000 to 34.392 million and was up 416,000 on the year, supported by gains in both full-time and part-time work among employees and the self-employed. The number of people holding second jobs declined in the latest quarter to 1.275 million, accounting for 3.7% of all employed individuals."
+    },
+    {
+      "id": "4887278",
+      "time": "2026-05-19 14:11:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "【本週47只新基密集啟募 權益產品佔比超七成】公募排排網資料顯示，本週共計有47只新基開啟募集，創下近18周新高。權益基金依舊是發行主力，本週新基中權益基金達34只，佔比超七成。分主題來看，科技主題基金數量最多，共有10只產品於本週開啟募集。值得注意的是，本週新基募集節奏顯著加快，47只新基平均認購天數為12天，較上週進一步縮短。"
+    },
+    {
+      "id": "4887277",
+      "time": "2026-05-19 14:10:54",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗副外長表示，在包括黎巴嫩在內的各戰線結束戰爭，以及美軍撤出伊朗周邊區域，也均被納入該提議中。"
+    },
+    {
+      "id": "4887276",
+      "time": "2026-05-19 14:10:04",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【IMF警告中東衝突削弱英國經濟增長前景】國際貨幣基金組織（IMF）5月18日釋出報告顯示，中東局勢正在削弱英國經濟短期增長前景，預計今年英國經濟增長率將降至1.0%。此外，能源價格上漲將暫時推高通脹率。（新華社）"
+    },
+    {
+      "id": "te:economy:551816",
+      "time": "2026-05-19 14:10:04",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Average Earnings Excluding Bonus",
+        "Importance 2"
+      ],
+      "text": "UK Wage Growth Slows to Over 5-Year Low — Regular pay in the UK, excluding bonuses, rose 3.4% year-on-year to GBP 693 per week in the three months to March 2026, easing from a 3.6% growth in the previous period and matching market expectations. It was the weakest increase since the three months to October 2020, with private sector wages slowing to 3.0% from 3.2%, the lowest since the three months to October 2020. Also, public sector pay moderated to 4.8% from the prior 5.2%, the softest since late 2024. By industry, annual gains were seen in wholesale, retail, hotels, and restaurants (3.6%), manufacturing (3.2%), services (3.6%), and finance and business services (2.4%), but declined for construction (-0.6%). Adjusted for inflation, real wages edged up 0.1% in the three months to March, after a 0.2% gain in the previous period, the lowest since mid-2023."
+    },
+    {
+      "id": "4887275",
+      "time": "2026-05-19 14:09:43",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗副外長表示，解除制裁、解凍凍結資金、結束封鎖均被納入伊朗近期向美方提交的提案。"
+    },
+    {
+      "id": "4887274",
+      "time": "2026-05-19 14:08:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【Situational Awareness披露一季度持倉：市值升至137億美元，重倉半導體看跌期權】當地時間5月18日，華爾街新秀利奧波德·阿申布倫納（Leopold Aschenbrenner）所管理的投資機構“態勢感知（Situational Awareness）”披露2026年一季度美股持倉資料。13F報告顯示，該機構一季度美股持倉總市值達到137億美元，較上一季度的55.2億美元大幅增長。從持倉明細來看，態勢感知在一季度密集配置了半導體及科技巨頭的看跌期權。其中，前五大持倉全部為看跌期權，分別為：VanEck半導體ETF看跌期權、英偉達看跌期權、甲骨文看跌期權、博通看跌期權以及超威半導體看跌期權。"
+    },
+    {
+      "id": "4887273",
+      "time": "2026-05-19 14:08:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "美銀調查顯示，40%的受訪者認為第二輪通脹是最大的尾部風險。"
+    },
+    {
+      "id": "4887272",
+      "time": "2026-05-19 14:08:32",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美銀調查顯示，62%受訪者預期30年期美國國債收益率將達到6%，20%受訪者預期目標水平為4%。"
+    },
+    {
+      "id": "4887271",
+      "time": "2026-05-19 14:08:29",
+      "tags": [
+        "市場",
+        "其他",
+        "焦點"
+      ],
+      "text": "美銀調查顯示，5月全球基金經理股票配置比例創紀錄漲幅。"
+    },
+    {
+      "id": "4887270",
+      "time": "2026-05-19 14:08:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "美銀調查顯示，僅4%的基金經理預計經濟將“硬著陸”。"
+    },
+    {
+      "id": "4887269",
+      "time": "2026-05-19 14:08:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國銀行調查顯示，66%的受訪者預計供應鏈瓶頸將在未來幾個月內消除。"
+    },
+    {
+      "id": "4887268",
+      "time": "2026-05-19 14:08:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "美銀調查顯示：現金持倉比例從4.3%降至3.9%，為2024年2月以來最大單月降幅。"
+    },
+    {
+      "id": "4887267",
+      "time": "2026-05-19 14:07:49",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【日本國債收益率再度上漲 反映債券市場進一步走弱】10年期和30年期日本國債收益率延續升勢，反映在全球債市大跌導致一些收益率升至歷史高位後，債券市場進一步走弱。10年期收益率和30年期收益率分別上漲5.5個基點，至2.795%和4.155%。"
+    },
+    {
+      "id": "4887266",
+      "time": "2026-05-19 14:07:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【德商銀行：特朗普推遲對伊朗打擊之際，債券市場目前看似穩定】德國商業銀行的Christoph Rieger在一份報告中表示，來自中東的充滿希望的訊息已經阻止了債券的拋售，在收益率創下歷史新高後，市場正在企穩。美國總統特朗普表示，應海灣阿拉伯國家的要求，他推遲了原定於今天對伊朗進行的打擊。這位利率和信用研究主管表示，至於歐元區政府債券收益率，德國商業銀行認為它們“在目前的環境下具有投資價值”，但需要監測溢位風險，並且在大多數情況下收益率曲線可能會再次變陡。"
+    },
     {
       "id": "4887265",
       "time": "2026-05-19 14:06:58",
@@ -83,6 +428,15 @@
         "市場"
       ],
       "text": "英鎊在英國就業資料公佈後小幅走低，最新下跌0.19%，報1.3407美元。"
+    },
+    {
+      "id": "4887257",
+      "time": "2026-05-19 14:03:50",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【波蘭前司法部長赴美“避難” 美國務院“二把手”被曝“開綠燈”】多名知情人士向媒體披露，美國國務院常務副國務卿克里斯托弗·蘭多下令給波蘭前司法部長茲比格涅夫·焦布羅發放簽證，從而使後者得以進入美國“避難”。焦布羅現年55歲，目前在波蘭面臨26項指控，波蘭檢方正尋求起訴他。其中一項指控為挪用幫助犯罪受害者的基金謀取政治利益，包括採購“飛馬”間諜軟體。該軟體據稱曾被用於監控國內政敵。焦布羅否認全部指控，稱遭到現任親歐盟執政聯盟的政治打壓。（新華社）"
     },
     {
       "id": "4887256",
@@ -141400,272 +141754,6 @@
         "其他"
       ],
       "text": "日立考慮作價 6.4 億美元出售一家機械企業的部分股權。"
-    },
-    {
-      "id": "4874269",
-      "time": "2026-05-12 14:20:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓國汽車出口五十載 總出口量達7655萬輛】韓國汽車移動產業協會12日釋出的資料顯示，韓國自1976年出口第一輛汽車以來，截至今年4月累計出口量達7654.8569萬輛。"
-    },
-    {
-      "id": "4874268",
-      "time": "2026-05-12 14:19:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【培育鑽石概念午後活躍 黃河旋風2連板】培育鑽石概念午後活躍，黃河旋風2連板，惠豐鑽石、沃爾德、力量鑽石跟漲。訊息面上，據報道，從許昌市工業和資訊化局獲悉，河南黃河旋風股份有限公司自主研發的“金剛石—碳化矽複合材料”專案取得重大階段性成果，核心效能指標達到國際先進水平。"
-    },
-    {
-      "id": "4874267",
-      "time": "2026-05-12 14:19:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗：將適時就濃縮鈾等問題做出決定】 據伊朗媒體11日報道，伊朗外交部發言人巴加埃在新聞釋出會上表示，就核問題、相關材料以及與濃縮鈾有關的問題，伊朗將在適當時候做出決定並考慮各種方案。“現階段，我們的重點是結束戰爭。”(新華社)"
-    },
-    {
-      "id": "4874266",
-      "time": "2026-05-12 14:18:18",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "工業矽連續主力合約日內跌4%，現報8780.00元。"
-    },
-    {
-      "id": "4874265",
-      "time": "2026-05-12 14:17:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "【以法治保障促進消費和民間投資 浙江推出12條舉措】為加快打造引領消費轉型升級高地，充分激發民間投資活力，突出“兩個更加註重”，全面推動法治助力擴大消費、促進民間投資，最佳化實化法治服務供給和保障支撐，省司法廳近日印發《關於以法治保障促進消費和民間投資的若干舉措》。\n其中提到，推動帶薪休假（含年休假、婚育假、獨生子女陪護父母假等）、銀髮旅遊、博物館夜間開放、公共體育設施免費開放等法規政策落實。2026年建成全省統一的行政規範性檔案資料庫，推動行政規範性檔案“應入盡入”。\n加快推進消費和民間投資領域制度建設，開展單用途預付消費卡管理等領域立法工作，調研論證資料智慧財產權保護和運用、網約房管理、消費品召回管理等領域立法專案。拓展深化“一起來立法”改革實踐，充分發揮立法工作民營企業聯絡點作用。（浙江釋出）"
-    },
-    {
-      "id": "te:markets:549881",
-      "time": "2026-05-12 14:17:21",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "European Stocks Head for Lower Open — European equity markets were headed for a lower open on Tuesday as President Donald Trump warned about the sustainability of the US-Iran ceasefire after rejecting Tehran’s latest peace proposal. Oil prices extended gains for a third consecutive session, heightening inflation concerns and reinforcing expectations that interest rates could remain elevated for longer. Political uncertainty in the UK also pressured sentiment after more than 70 lawmakers from the ruling Labour Party reportedly urged Prime Minister Keir Starmer to step down following the party’s poor showing in last week’s local council elections. Meanwhile, investors were preparing to assess German inflation figures and broader EU economic sentiment data. On the corporate side, earnings reports are due from Siemens Energy, Munich RE, Bayer, Vodafone, and Uniper, among others. In premarket trading, Euro Stoxx 50 and Stoxx 600 futures were both down around 0.6%."
-    },
-    {
-      "id": "te:markets:549880",
-      "time": "2026-05-12 14:17:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Mitsubishi Heavy Industries earnings above expectations at 36.05 JPY — Mitsubishi Heavy Industries (7011) released earnings per share at 36.05 JPY, compared to market expectations of 25.96 JPY."
-    },
-    {
-      "id": "4874264",
-      "time": "2026-05-12 14:16:20",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4710美元/盎司，日內跌0.40%。"
-    },
-    {
-      "id": "4874263",
-      "time": "2026-05-12 14:15:40",
-      "tags": [
-        "宏觀",
-        "公司",
-        "國際"
-      ],
-      "text": "【財政部：廖岷與英國財政部國際金融事務總司長懷特舉行視訊通話】2026年5月11日，廖岷副部長在北京應約與英國財政部國際金融事務總司長林賽·懷特舉行視訊通話，就中英經濟財金對話，中英在二十國集團財金渠道合作等深入交換意見。 廖岷表示，中方願與英方一道，按照兩國領導人達成的重要共識，加強在中英經濟財金對話方塊架下交流合作，深化在二十國集團等多邊機制的溝通協調，為雙邊關係發展注入新內涵。 懷特表示，英方願同中方落實好斯塔默首相訪華成果，加強溝通合作，辦好第十二次中英經濟財會對話，英方願與中方加強多邊溝通協調，攜手應對全球性挑戰。"
-    },
-    {
-      "id": "te:economy:549879",
-      "time": "2026-05-12 14:15:10",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Lithuania",
-        "Producer Prices Change",
-        "Importance 1"
-      ],
-      "text": "Lithuania Producer Prices Rise Most Since 2023 — Producer prices in Lithuania climbed 13.6% year-on-year in April 2026, following an upwardly revised 8% jump in the previous month. This marked the strongest growth in producer prices since February 2023, lifted by higher costs in the manufacturing sector (14.3% vs 8.2% in March), particularly in the manufacture of coke and refined petroleum products (80.4% vs 49.2%). At the same time, prices increased in mining and quarrying (0.9% vs 0.5%) and water supply, sewerage, waste management, and remediation activities (5.1% vs 2.3%). In contrast, producer inflation slowed in electricity, gas, steam, and air-conditioning supply (4.1% vs 7.8%). On a monthly basis, producer prices rose by 3% in April, easing from an upwardly revised 9.6% growth in the preceding period."
-    },
-    {
-      "id": "4874262",
-      "time": "2026-05-12 14:13:46",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【中東戰火引爆硫磺 硫磺價格狂飆】受中東局勢影響，今年以來我國硫磺價格一路上漲，5月6日，基準價創下每噸7300元的歷史新高。11日，國內硫磺基準價報每噸7250元，維持高位震盪，年初至今漲幅約80%。與此同時，硫磺的到港量和庫存在持續下降。記者瞭解到，國內硫磺超過一半是來自進口，中東是全球硫磺生產的重要地區，佔全球產量約四分之一。業內人士指出，南京港、防城港、鎮江港等國內主要硫磺港口庫存均處低位。本輪漲價除受中東局勢影響外，國內供需結構性缺口也是原因之一，供應端，隨著能源結構轉型，作為煉化副產品的硫磺產量將隨油氣消費達峰而下降；需求端，新能源汽車擴張帶動磷酸鐵鋰電池需求增長，進一步加大了供需缺口。 (央視財經)"
-    },
-    {
-      "id": "4874261",
-      "time": "2026-05-12 14:13:17",
-      "tags": [
-        "市場"
-      ],
-      "text": "澳大利亞 S&P/ASX 200 指數收盤下跌 0.4%，報 8670.70 點。"
-    },
-    {
-      "id": "4874260",
-      "time": "2026-05-12 14:12:57",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "挪威央行表示，償付能力壓力測試顯示各銀行具備韌性。"
-    },
-    {
-      "id": "4874259",
-      "time": "2026-05-12 14:12:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "【擬折價配股 匯聚科技跌逾10%】5月12日午後，匯聚科技延續跌勢。截至13時40分，匯聚科技報21.66港元/股，跌10.86%。匯聚科技當日公告，5月11日，公司與配售代理訂立協議。公司擬向不少於六名承配人配售1.38億股新股份，配售價定為21.00港元/股，較該股5月11日收市價24.30港元/股折讓約13.58%。"
-    },
-    {
-      "id": "te:economy:549876",
-      "time": "2026-05-12 14:11:55",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Germany",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Germany April Inflation Confirmed at 2.9% — Germany’s annual inflation rate accelerated to 2.9% in April 2026, confirming preliminary estimates and rising from 2.7% in March, marking the highest reading since January 2024. The increase was largely driven by another sharp rise in energy prices, which surged 10.1% amid higher crude oil prices linked to the ongoing Iran war. Motor fuel costs jumped 26.2%, while heating oil prices soared 55.1%. Food inflation also picked up to 1.2% from 0.9%, while goods inflation accelerated to 2.9% from 2.3%. In contrast, services inflation eased to 2.8% from 3.2%. Core inflation, which excludes food and energy, held steady at 2.3%. On a monthly basis, consumer prices rose 0.6% in April, matching preliminary estimates, as energy prices increased 2.1%. Meanwhile, the annual HICP inflation rate edged up to 2.9% from 2.8% in March, also reaching its highest level since January 2024, and well above the European Central Bank’s 2% target."
-    },
-    {
-      "id": "4874258",
-      "time": "2026-05-12 14:11:53",
-      "tags": [
-        "市場"
-      ],
-      "text": "【滴普科技衝高回落 早盤一度漲逾20%】5月12日，滴普科技股價衝高回落，早盤一度漲逾20%，午後漲幅收窄。截至13時51分，滴普科技報67.5港元/股，漲7.83%。"
-    },
-    {
-      "id": "4874257",
-      "time": "2026-05-12 14:11:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "美元兌日元在數分鐘內從157.72大幅下挫至156.74，最新持平於157.28。"
-    },
-    {
-      "id": "mkt:019e1acf-ed97-7dd9-b929-399c9b879555",
-      "time": "2026-05-12 14:11:30",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "DOLLAR/YEN DROPS SHARPLY FROM 157.72 TO 156.74 IN MINUTES, LAST FLAT AT 157.28"
-    },
-    {
-      "id": "4874256",
-      "time": "2026-05-12 14:11:26",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【東吳證券：首予湯臣倍健“買入”評級，認為當下估值仍具價效比】東吳證券研報指出，保健品行業老牌勁旅，湯臣倍健二次創業再出發。展望未來三年，公司的創新或聚焦兩個重點方向：優勢品類的微創新（同健力多、蛋白粉的升級創新）；可大體量變現、重功能及新功能的創新，即廣賽道，大單品。基於保健品行業電商銷售中跨境渠道的佔比由2022年的約43%增至2024年的約50%，三年間增長近7pct，湯臣亦積極入局，可重點關注跨境品牌Life-space的“超益計劃（後續在穩固益生菌品類優勢的基礎上，拓展全品類產品線，同時更為重視抗衰產品的佈局，人群定位更高階）”及以PCC1為代表的新成分。考慮到公司C端基礎佳，新渠道、新市場探索積極，認為當下估值仍具價效比，首次覆蓋，給予“買入”評級。"
-    },
-    {
-      "id": "4874255",
-      "time": "2026-05-12 14:11:20",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【樹脂原料成本高企 CCL價格或進一步上漲】日經新聞援引某晶片基板供應商高管表示，因甲醇、二甲苯及相關溶劑（生產各類樹脂的必需原料）價格上漲，日本CCL供應商三菱瓦斯化學已將部分產品的價格在今年第一季度提高了20%。其補充道，鑑於整體材料成本正在上漲，預計CCL的價格還會進一步上漲。三菱瓦斯化學證實，該公司曾兩次發出CCL和預浸料的價格上漲通知，並且每次通知都涉及不同的產品。"
-    },
-    {
-      "id": "4874254",
-      "time": "2026-05-12 14:10:32",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "北證50日內跌幅達1.03%，成分股中，納科諾爾跌4.59%，戈碧迦跌4.02%，天力複合跌3.80%，國航遠洋跌3.53%。"
-    },
-    {
-      "id": "4874253",
-      "time": "2026-05-12 14:10:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "沃達豐財年末淨債務為負254.11億歐元。"
-    },
-    {
-      "id": "4874252",
-      "time": "2026-05-12 14:10:15",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "多晶矽連續主力合約日內跌5%，現報36750.00元。"
-    },
-    {
-      "id": "4874251",
-      "time": "2026-05-12 14:10:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中際旭創成交額達300億元】中際旭創成交額達300億元，現漲8.07%。"
-    },
-    {
-      "id": "4874250",
-      "time": "2026-05-12 14:09:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "美元兌日元在過去數分鐘內從157.71跌至157.04。"
-    },
-    {
-      "id": "4874249",
-      "time": "2026-05-12 14:09:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "蒂森克虜伯公佈業績後，股價在法蘭克福早盤交易中下跌2.4%。"
-    },
-    {
-      "id": "4874248",
-      "time": "2026-05-12 14:09:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美媒稱美或考慮恢復對伊朗軍事行動】伊朗方面5月10日已向調解方巴基斯坦正式提交了對美國提出的最新方案的回應，而美國方面稱伊朗的回應內容“完全不可接受”。在拒絕了伊朗回覆的提議後，美國總統特朗普5月11日再次表示，伊朗在關鍵的核問題上沒有達到美國的要求。他同時稱，美伊停火協議依然有效，但極其脆弱。當天，多家美國媒體援引美政府內部人士的話報道說，由於美伊談判遲遲沒有進展，美方如今比過去幾周“更認真地考慮”恢復對伊朗的軍事行動。（CCTV國際時訊）"
-    },
-    {
-      "id": "te:markets:549875",
-      "time": "2026-05-12 14:08:45",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Tencent Holdings Stock Price Hits 12-month Low — Tencent Holdings shares decreased to 460.20 HKD, the lowest since April 2025. Over the past 4 weeks, Tencent Holdings lost 6.04%, and in the last 12 months, it decreased 9.01%."
-    },
-    {
-      "id": "4874247",
-      "time": "2026-05-12 14:08:35",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "蒂森克虜伯海洋系統股份兩合公司股價在法蘭克福早盤交易中上漲3%。"
     }
   ]
 }
