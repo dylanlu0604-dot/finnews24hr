@@ -1,7 +1,55 @@
 {
-  "updated": "2026-05-20 01:22:49",
-  "count": 15594,
+  "updated": "2026-05-20 01:26:50",
+  "count": 15596,
   "items": [
+    {
+      "id": "4888708",
+      "time": "2026-05-20 01:25:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌正式推出Gemini 3.5系列模型，首發版本為Gemini 3.5 Flash。"
+    },
+    {
+      "id": "4888707",
+      "time": "2026-05-20 01:24:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【谷歌I/O大會直擊：Gemini月活逼近9億，AI搜尋橫掃25億使用者】在剛開幕的谷歌I/O大會上，谷歌CEO皮查伊向全球開發者展示了谷歌在AI時代交出的一份極其亮眼的成績單。 皮查伊在演講中宣佈，作為谷歌核心的AI產品，GeminiApp的月活躍使用者數在過去一年內迎來了爆發式增長，從2025年5月的4億一路飆升，截至2026年4月已突破9億大關。同時，AI技術與谷歌核心搜尋業務的融合也取得了史無前例的成功：搜尋中的“AI模式”（AIMode）月活躍使用者已突破10億，而廣受歡迎的“AI概述”（AIOverviews）月活躍使用者更是席捲了全球超過25億人。（新浪科技）"
+    },
+    {
+      "id": "mkt:019e4144-5245-7228-9afe-1c846fdb8b2e",
+      "time": "2026-05-20 01:24:16",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Alphabet",
+        "GOOGL.O",
+        "Impact bullish"
+      ],
+      "text": "GOOGLE DEBUTS GEMINI 3.5 MODEL FAMILY, STARTING WITH GEMINI 3.5 FLASH - CONFERENCE"
+    },
+    {
+      "id": "4888706",
+      "time": "2026-05-20 01:23:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國共和黨參議員科寧：特朗普兩屆任期期間，我一直與他密切共事。我99%以上的投票都和特朗普的立場一致。"
+    },
+    {
+      "id": "4888705",
+      "time": "2026-05-20 01:22:42",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美國天然氣期貨漲超3.00%，現報3.115美元/百萬英熱。"
+    },
     {
       "id": "4888704",
       "time": "2026-05-20 01:21:58",
@@ -140912,36 +140960,6 @@
         "Magnificent 7"
       ],
       "text": "GOOGLE SAYS IT HAS BEEN IN DISCUSSIONS WITH SPACEX AND OTHERS REGARDING FUTURE SUNCATCHER LAUNCHES"
-    },
-    {
-      "id": "mkt:019e1d39-f89b-7772-877b-43f8373ad7c8",
-      "time": "2026-05-13 01:26:38",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bearish",
-        "EURUSD",
-        "Impact bullish"
-      ],
-      "text": "FED'S GOOLSBEE: LABOR MARKET STABLE, BUT NOT GOOD"
-    },
-    {
-      "id": "4875715",
-      "time": "2026-05-13 01:24:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗最高領袖穆傑塔巴·哈梅內伊：波斯灣與霍爾木茲海峽正翻開新篇章。 如今，在該地區遭遇大規模軍事行動、外部霸權勢力侵略，以及美國相關圖謀遭遇慘敗並蒙羞兩個月之後，波斯灣與霍爾木茲海峽的局勢正開啟全新篇章。"
-    },
-    {
-      "id": "mkt:019e1d36-af9c-7772-877b-3b71a5e7583d",
-      "time": "2026-05-13 01:23:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "OPENAI ACCUSED OF CAUSING OVERDOSE WITH CHATGPT ADVICE: BLAW"
     }
   ]
 }
