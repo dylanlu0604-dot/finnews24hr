@@ -1,7 +1,44 @@
 {
-  "updated": "2026-05-19 13:26:43",
-  "count": 15666,
+  "updated": "2026-05-19 13:30:42",
+  "count": 15661,
   "items": [
+    {
+      "id": "4887213",
+      "time": "2026-05-19 13:28:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "ISS建議Alphabet股東在諮詢性投票中投票反對管理層提出的批准指定高管薪酬的提案。"
+    },
+    {
+      "id": "mkt:019e3eb3-f914-7aa9-b723-188b71701f75",
+      "time": "2026-05-19 13:27:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Nasdaq100",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "NASDAQ FUTURES EXTEND LOSSES, DOWN 0.63%; S&P 500 FUTURES DOWN 0.4%"
+    },
+    {
+      "id": "4887212",
+      "time": "2026-05-19 13:26:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克期貨跌幅擴大，下跌0.63%；標普500指數期貨下跌0.4%。"
+    },
+    {
+      "id": "4887211",
+      "time": "2026-05-19 13:26:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【武漢通報一村被曝62人患癌】湖北武漢市聯合調查組5月19日釋出情況通報： 針對媒體反映新洲區李集街張信村黃土坡灣昌盛泡花鹼廠相關環境問題，武漢市委、市政府高度重視，第一時間成立聯合調查組，圍繞村民健康、環境生態、生產關停等問題開展全面深入調查，調查情況將及時向社會公佈。感謝媒體和社會的監督。 據報道，湖北省武漢市新洲區李集街道張信村黃土坡自然村——這個戶籍人口僅585人的村莊，先後有62人罹患癌症和白血病，絕大多數為50歲以下青壯年，僅2015年以來就有34人確診，其中19人已去世，15人仍在治療。村民們懷疑，這一切與村頭一家泡花鹼廠有關。"
+    },
     {
       "id": "4887210",
       "time": "2026-05-19 13:24:19",
@@ -141528,82 +141565,6 @@
         "焦點"
       ],
       "text": "滬深兩市成交額超2.5萬億元，較上日此時縮量1933億元。"
-    },
-    {
-      "id": "4874203",
-      "time": "2026-05-12 13:30:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "【先導智慧：公司相關裝置有望受益於鈉離子電池行業擴產機遇】先導智慧(300450)5月12日在互動平臺表示，公司具備鈉離子電池智造整線全流程交付能力，擁有完全自主智慧財產權，在鈉電裝置領域份額領先、產品覆蓋全形態、技術適配性強，已批次服務國內外頭部企業。伴隨鈉離子電池行業規模化量產提速，公司相關裝置後續有望充分受益於行業擴產機遇。"
-    },
-    {
-      "id": "te:markets:549865",
-      "time": "2026-05-12 13:30:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: Ether Depreciates by 1.16% — Today's cryptos market is characterized by modest daily movements, with Ether standing out as the frontrunner with a -1.16% decrease."
-    },
-    {
-      "id": "4874202",
-      "time": "2026-05-12 13:30:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "拜耳第一季度經調整EBITDA利潤率 33.2％，預估28.9％。"
-    },
-    {
-      "id": "4874201",
-      "time": "2026-05-12 13:29:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "拜耳第一季度銷售額134.1億歐元，預估134.9億歐元。"
-    },
-    {
-      "id": "4874200",
-      "time": "2026-05-12 13:28:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "拜耳第一季度調整後EBITDA 45億歐元，預估39.4億歐元。"
-    },
-    {
-      "id": "mkt:019e1aa8-2ce2-7dd9-b928-f49ada9aa3d7",
-      "time": "2026-05-12 13:28:07",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【Unitree Unveils: GD01, A Manned Transformable Mecha, from $650,000 】Unitree: The world's first production-ready manned mecha. It can transform. It's a civilian vehicle. It weighs ~500kg with you inside. Please everyone be sure to use the robot in a Friendly and Safe manner"
-    },
-    {
-      "id": "4874199",
-      "time": "2026-05-12 13:27:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "滙豐將MONCLER目標股價從70歐元下調至68歐元。"
-    },
-    {
-      "id": "4874198",
-      "time": "2026-05-12 13:27:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "滙豐將路威酩軒目標股價從650歐元下調至600歐元。"
-    },
-    {
-      "id": "4874197",
-      "time": "2026-05-12 13:27:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "滙豐將愛馬仕目標股價從2300歐元下調至2100歐元。"
     }
   ]
 }
