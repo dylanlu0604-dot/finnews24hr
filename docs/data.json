@@ -1,7 +1,19 @@
 {
-  "updated": "2026-05-20 04:52:04",
-  "count": 15585,
+  "updated": "2026-05-20 04:55:58",
+  "count": 15582,
   "items": [
+    {
+      "id": "te:markets:552035",
+      "time": "2026-05-20 04:55:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Falls as Mining Losses Weigh — The TSX fell 0.3% to close at 33,741 on Tuesday, pressured by losses in heavyweight mining stocks as gold prices declined. Agnico Eagle dropped 3.8%, Barrick lost 2.8%, and Wheaton Precious Metals shed 4.8%. Gold prices weakened as uncertainty surrounding the Middle East conflict and persistent inflation concerns continued to weigh on sentiment. Meanwhile, Canada’s annual inflation rate accelerated to 2.8% in April from 2.4% in March, largely driven by higher gasoline prices, though the reading came in below forecasts of 3.1%. Core inflation measures slowed more than expected to their lowest levels in five years, supporting the Bank of Canada’s view that energy-driven inflation pressures may eventually fade and easing concerns over further rate hikes. Most major banks traded higher, with BMO gaining 0.9%. Energy producers also advanced as oil prices remained elevated, with Canadian Natural up 2.8% and Suncor adding 1.9%."
+    },
     {
       "id": "4888873",
       "time": "2026-05-20 04:51:10",
@@ -140677,39 +140689,6 @@
         "國際"
       ],
       "text": "【現貨黃金跌超0.4%，美國CPI通脹資料給美聯儲寬鬆前景蒙上陰影】週二（5月12日）紐約尾盤，現貨黃金跌0.45%，報4714.95美元/盎司，亞太盤初微幅上漲，隨後持續走低，美股盤初重新整理日低，整體交投於4773.53-4638.61美元。COMEX黃金期貨跌0.15%，報4721.00美元/盎司，整體交投於4783.40-4645.20美元。"
-    },
-    {
-      "id": "mkt:019e1df9-783c-7772-877e-959080e558eb",
-      "time": "2026-05-13 04:55:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "SPACEX: STARSHIP’S TWELFTH FLIGHT TEST WILL DEBUT NEXT GENERATION STARSHIP, SUPER HEAVY VEHICLES; LAUNCH IS TARGETED AS EARLY AS MAY 19"
-    },
-    {
-      "id": "4875861",
-      "time": "2026-05-13 04:55:06",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "英偉達將於6月24日舉行線上年度股東大會。"
-    },
-    {
-      "id": "4875860",
-      "time": "2026-05-13 04:53:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "【埃及總理：期待進一步加強埃中全面戰略伙伴關係】埃及總理馬德布利12日表示，埃中兩國關係保持蓬勃發展勢頭，埃方希望進一步加強兩國全面戰略伙伴關係，願與新華社進一步開展新聞合作與文化交流活動。馬德布利當天在開羅會見出席“全球南方”媒體智庫高階論壇中阿夥伴大會的新華社社長傅華時說，今年是埃中建交70週年，兩國友好關係源遠流長。在塞西總統和習近平主席領導下，兩國於2014年建立全面戰略伙伴關係，雙邊合作取得長足發展。兩國應乘勢而上，繼續推進各領域合作，包括加強媒體的經驗交流與培訓合作、舉辦聯合文化活動等。（新華社）"
-    },
-    {
-      "id": "4875859",
-      "time": "2026-05-13 04:53:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "洛克希德·馬丁公司：宣佈2026年第二季度每股派息3.45美元。"
     }
   ]
 }
