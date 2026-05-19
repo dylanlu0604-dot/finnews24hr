@@ -1,7 +1,85 @@
 {
-  "updated": "2026-05-19 23:14:23",
-  "count": 15621,
+  "updated": "2026-05-19 23:18:40",
+  "count": 15618,
   "items": [
+    {
+      "id": "4888583",
+      "time": "2026-05-19 23:17:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列軍方重申將強制驅逐黎巴嫩南部民眾。"
+    },
+    {
+      "id": "mkt:019e40cf-6976-7228-9afb-d94518e073fc",
+      "time": "2026-05-19 23:16:35",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "BESSENT SAYS EUROPE MUST BETTER POLICE IRAN SHADOW FLEET"
+    },
+    {
+      "id": "4888582",
+      "time": "2026-05-19 23:16:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：歐洲必須加強對伊朗影子艦隊的監管。"
+    },
+    {
+      "id": "4888581",
+      "time": "2026-05-19 23:16:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "波蘭國防部長：美國在歐洲調整軍力與軍事資產部署的程序正在推進，但目前尚未決定削減駐波美軍戰力。"
+    },
+    {
+      "id": "mkt:019e40ce-6742-7228-9afb-d38d2c86b6e4",
+      "time": "2026-05-19 23:15:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "POLISH DEFENCE MINISTER KOSINIAK-KAMYSZ: US SECRETARY OF WAR CONFIRMED THAT THE UNITED STATES' COMMITMENT TO POLAND'S DEFENSE AND SECURITY REMAINS UNCHANGED"
+    },
+    {
+      "id": "mkt:019e40cd-fd5f-7228-9afb-cd50353baa63",
+      "time": "2026-05-19 23:15:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "POLAND SAYS NO US DECISION ON TROOP REDUCTION IN POLAND"
+    },
+    {
+      "id": "4888580",
+      "time": "2026-05-19 23:13:57",
+      "tags": [
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "【俄羅斯總統普京抵達北京】5月19日晚，俄羅斯總統普京乘專機抵達北京。（央視新聞）"
+    },
+    {
+      "id": "4888579",
+      "time": "2026-05-19 23:13:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "波蘭國防部長稱已與美國防長赫格塞思通電話。"
+    },
     {
       "id": "mkt:019e40cc-7d81-7aa9-b72c-15d33e238143",
       "time": "2026-05-19 23:13:16",
@@ -50,6 +128,15 @@
         "國際"
       ],
       "text": "【特朗普：或給伊朗時間至下週初來達成協議】美國總統特朗普表示，伊朗表現得“合理”，他“或許”會給他們時間到下週初來達成協議。特朗普稍早還表示，“我們可能不得不給”伊朗“又一次重擊”。他補充稱：“你們很快就會知道”。"
+    },
+    {
+      "id": "em:qqyh_mlc:202605193742376251",
+      "time": "2026-05-19 23:11:00",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "特朗普表示，將允許沃什做他想做的任何事。"
     },
     {
       "id": "mkt:019e40ca-393a-7aa9-b72c-03dfe0bf95ec",
@@ -141169,111 +141256,6 @@
         "國際"
       ],
       "text": "據美國核能研究所負責人透露，美國能源部或撥款數十億美元，用於長期核反應堆零部件專案。"
-    },
-    {
-      "id": "4875606",
-      "time": "2026-05-12 23:18:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【亞馬遜首次發行瑞士法郎債券 募資28億瑞士法郎】亞馬遜首次發行瑞士法郎債券，分成創紀錄的六個期限檔，顯示大型科技公司正將融資渠道拓展至其慣常依賴的債券市場之外。知情人士透露，該公司透過發行3年、6年、9年、12年、18年和25年期債券，募資28.2億瑞士法郎（約36億美元）。發行規模在簿記建檔過程中多次上調，各期限債券的利差定價均在初步價格指引區間的中點附近。"
-    },
-    {
-      "id": "mkt:019e1cc4-6035-7dd3-a757-0a241f4d5d2a",
-      "time": "2026-05-12 23:18:12",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "PETR4.SA",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "PETROBRAS TO SEE BENEFITS OF HIGHER OIL PRICES IN 2Q, CFO SAYS"
-    },
-    {
-      "id": "4875605",
-      "time": "2026-05-12 23:17:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "美股費城半導體指數跌幅擴大至5%，英特爾、高通跌10%"
-    },
-    {
-      "id": "4875604",
-      "time": "2026-05-12 23:17:29",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4670美元/盎司，日內跌1.27%。"
-    },
-    {
-      "id": "mkt:019e1cc3-f218-7dd3-a757-037de405248f",
-      "time": "2026-05-12 23:17:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "WALDRON SAYS M&A MARKET HAS GOTTEN BETTER SINCE IRAN WAR BEGAN"
-    },
-    {
-      "id": "4875603",
-      "time": "2026-05-12 23:17:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國議員就伊朗戰爭成本拷問赫格塞思 對透明度不足和目標模糊不滿】負責監督五角大樓開支的美國議員週二就伊朗戰爭不斷上升的成本向國防部長赫格塞思施壓。此前，美國總統唐納德·特朗普暗示，與德黑蘭之間脆弱的停火可能破裂。五角大樓代理主計長Jules Hurst週二向議員表示，伊朗戰爭迄今的估算成本目前已接近290億美元。他在4月29日的一場聽證會上給出的數字為250億美元。考慮到彈藥、軍事行動和中東地區部署的巨大成本，這一數字當時就遭到議員和外部專家批評，認為明顯偏低。美國眾議院撥款委員會資深民主黨議員、來自康涅狄格州的Rosa DeLauro週二表示：“自這場戰爭開始以來，始終缺乏透明度。”她表示，成本每天都在上升，而政府在這場衝突中的戰略並不明確，即便似乎可能再度爆發激烈戰事。她還說：“最終目標含糊其辭，甚至根本完全沒有明確的定義。”海格塞斯此次出席眾議院撥款委員會國防小組委員會聽證會，再次就特朗普政府提出的2027財年1.5萬億美元國防開支請求作證。這一規模前所未有。"
-    },
-    {
-      "id": "mkt:019e1cc3-a3bb-7dd3-a756-fbc3f24a152d",
-      "time": "2026-05-12 23:17:00",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "US ENERGY DEPARTMENT MIGHT FUND BILLIONS FOR LONG-TERM NUCLEAR REACTOR COMPONENTS, ACCORDING TO NEI LEADER"
-    },
-    {
-      "id": "mkt:019e1cc3-5590-7dd3-a756-f35d9a3e1a19",
-      "time": "2026-05-12 23:16:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "PJM MAY HAVE GROWN TOO BIG TO FUNCTION, FERC'S SWETT SAYS"
-    },
-    {
-      "id": "mkt:019e1cc3-075f-7dd3-a756-e95c0c0d76f2",
-      "time": "2026-05-12 23:16:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "KYIV & WASHINGTON ARE PREPARING TO SIGN A FIRST-OF-ITS-KIND DEAL TO ALLOW UKRAINIAN DRONES TO BE EXPORTED TO THE US FOR MILITARY TESTING, ACCORDING TO A DRAFT DOCUMENT SEEN BY FT"
-    },
-    {
-      "id": "4875602",
-      "time": "2026-05-12 23:16:33",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內跌3%，現報1472.55美元/盎司。"
-    },
-    {
-      "id": "4875601",
-      "time": "2026-05-12 23:16:16",
-      "tags": [
-        "觀點",
-        "國際"
-      ],
-      "text": "高盛總裁John Waldron： 自伊朗戰事爆發以來，併購市場行情已出現回暖。"
-    },
-    {
-      "id": "4875600",
-      "time": "2026-05-12 23:14:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "根據特拉維夫大學開展的一項研究，75% 的以色列阿拉伯公民支援參與非國防性質的民事義務服務。半數受訪者（53.3%）表示，目前自身對該國擁有強烈的歸屬感。"
     }
   ]
 }
