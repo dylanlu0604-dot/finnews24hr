@@ -1,7 +1,17 @@
 {
-  "updated": "2026-05-20 03:37:50",
-  "count": 15610,
+  "updated": "2026-05-20 03:41:39",
+  "count": 15602,
   "items": [
+    {
+      "id": "mkt:019e41bf-12e3-7228-9aff-d3399a8bf94a",
+      "time": "2026-05-20 03:38:21",
+      "tags": [
+        "MKT News",
+        "QCOM.O",
+        "Impact bearish"
+      ],
+      "text": "QUALCOMM DROPS IN VOLUME SPIKE, LAST DOWN 3.0%"
+    },
     {
       "id": "4888835",
       "time": "2026-05-20 03:32:14",
@@ -140850,101 +140860,6 @@
         "公司"
       ],
       "text": "傑克丹尼威士忌生產商布朗-福曼拒斥了薩澤拉克集團150億美元的收購要約。"
-    },
-    {
-      "id": "4875807",
-      "time": "2026-05-13 03:41:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場資訊：印度總理莫迪所屬的人民黨在邦級選舉中取得勝利。"
-    },
-    {
-      "id": "mkt:019e1db5-1153-7772-877d-b39d48b7cc08",
-      "time": "2026-05-13 03:41:06",
-      "tags": [
-        "MKT News",
-        "BF.A.N",
-        "Impact bullish"
-      ],
-      "text": "JACK DANIEL’S MAKER BROWN-FORMAN REJECTS $15 BILLION TAKEOVER OFFER FROM SAZERAC - WSJ"
-    },
-    {
-      "id": "4875806",
-      "time": "2026-05-13 03:39:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "META美國員工組織抗議滑鼠追蹤技術。"
-    },
-    {
-      "id": "te:economy:550079",
-      "time": "2026-05-13 03:39:51",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Uruguay",
-        "Industrial Production",
-        "Importance 0"
-      ],
-      "text": "Uruguay Manufacturing Output Jumps in March — Uruguay's industrial production jumped 9.4% year-over-year in March 2026 following a 3.3% rise in February. Food manufacturing led gains with a 13.2% increase, followed by chemicals and chemical products manufacturing at 28.0% and motor vehicles, trailers and semi-trailers manufacturing at 31.0%. In contrast, beverage manufacturing posted the largest decline at 10.5%, followed by paper and paper products manufacturing (-2.3%) and computer, electronic and optical products manufacturing (-17.1%). The Index of Hours Worked rose 2.1% year-over-year, while the Index of Employed Personnel fell 1.6%."
-    },
-    {
-      "id": "mkt:019e1db3-e3ad-7772-877d-af901632c0d5",
-      "time": "2026-05-13 03:39:48",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7",
-        "META.O"
-      ],
-      "text": "META US EMPLOYEES ORGANIZE PROTEST AGAINST MOUSE TRACKING TECH, ACCORDING TO PETITION"
-    },
-    {
-      "id": "mkt:019e1db3-a9ab-7772-877d-a634b6620b2a",
-      "time": "2026-05-13 03:39:34",
-      "tags": [
-        "MKT News",
-        "Copper",
-        "Impact bullish",
-        "S&P500",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "US TRANSPORTATION SECRETARY DUFFY SAYS FEDERAL GOVERNMENT PLANS $22 BILLION REBUILDING OF WASHINGTON DULLES AIRPORT"
-    },
-    {
-      "id": "4875805",
-      "time": "2026-05-13 03:39:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國交通部長達菲表示，聯邦政府計劃斥資220億美元重建華盛頓杜勒斯機場。"
-    },
-    {
-      "id": "mkt:019e1db3-8e0b-7772-877d-9ccd1ef5fc8c",
-      "time": "2026-05-13 03:39:26",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "INDIA RAISES IMPORT TARIFFS ON GOLD, SILVER - GOVERNMENT ORDER"
-    },
-    {
-      "id": "4875804",
-      "time": "2026-05-13 03:38:12",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "印度政府令：上調黃金、白銀進口關稅。"
     }
   ]
 }
