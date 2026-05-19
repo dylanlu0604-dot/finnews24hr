@@ -1,7 +1,144 @@
 {
-  "updated": "2026-05-19 09:53:18",
-  "count": 15589,
+  "updated": "2026-05-19 09:57:12",
+  "count": 15594,
   "items": [
+    {
+      "id": "mkt:019e3df2-6155-7aa9-b721-c576803b2919",
+      "time": "2026-05-19 09:55:41",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "CNH",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "FTSE CHINA A50 INDEX FUTURES DOWN OVER 1%"
+    },
+    {
+      "id": "4886939",
+      "time": "2026-05-19 09:55:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨盤中跌逾1%。"
+    },
+    {
+      "id": "4886938",
+      "time": "2026-05-19 09:55:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達20億港元。"
+    },
+    {
+      "id": "4886937",
+      "time": "2026-05-19 09:54:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "【雲端計算板塊持續拉昇，吉視傳媒等股漲停】雲端計算板塊持續拉昇，同有科技盤中創新高，嘉環科技2連板，思特奇、南威軟體、電科數字、吉視傳媒漲停。"
+    },
+    {
+      "id": "mkt:019e3df0-e11b-7aa9-b721-bdbfe0fc0ed7",
+      "time": "2026-05-19 09:54:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bearish"
+      ],
+      "text": "SHENZHEN COMPONENT INDEX DOWN OVER 1%"
+    },
+    {
+      "id": "4886936",
+      "time": "2026-05-19 09:54:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深證成指跌1.00%，現報15374.751點；上證指數跌%，現報4131.522點；創業板指跌1.64%，現報3850.854點。"
+    },
+    {
+      "id": "4886935",
+      "time": "2026-05-19 09:53:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "【稀土概念股震盪走低 中稀有色等多股跌超3%】稀土概念股盤中震盪走低，中稀有色、盛和資源、北方稀土跌超3%，廈門鎢業、中國稀土、華宏科技等股跟跌。"
+    },
+    {
+      "id": "4886934",
+      "time": "2026-05-19 09:53:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本經濟財政大臣：首相下令追加預算，符合政府政策。"
+    },
+    {
+      "id": "te:markets:551754",
+      "time": "2026-05-19 09:53:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Yen Extends Losses Despite Strong GDP Figures — The Japanese yen weakened toward 159 per dollar on Tuesday, marking its seventh straight session of declines despite stronger-than-expected economic growth data. Japan’s economy expanded 0.5% quarter-on-quarter in the first quarter, accelerating from 0.2% in Q4, beating market forecasts of 0.4%, and recording its fastest pace of growth since Q3 2024. The data reinforced expectations that the Bank of Japan could continue raising interest rates, although the outlook remains uncertain as the broader economic impact of the Middle East conflict has yet to be fully reflected in the figures. Meanwhile, the yen is moving closer to the key 160-per-dollar level that previously prompted intervention by Japanese authorities in late April to stabilize the currency. Investors remain watchful for another possible intervention after several Japanese officials indicated there may be no limit to how often authorities can step into the foreign exchange market."
+    },
+    {
+      "id": "mkt:019e3def-e7dd-7aa9-b721-b09b6bd46fe6",
+      "time": "2026-05-19 09:53:13",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tencent",
+        "Market Themes",
+        "China Tech Giants",
+        "0700.HK",
+        "Impact mixed"
+      ],
+      "text": "TENCENT CLOUD: HY3 PREVIEW AND DEEPSEEK-V4-PRO MODELS ON AGENT DEVELOPMENT PLATFORM TO END FREE BETA ON MAY 27 AT 10:00 BEIJING TIME, SHIFT TO PAID COMMERCIAL SERVICE WITH USAGE-BASED PRICING"
+    },
+    {
+      "id": "mkt:019e3def-c443-7aa9-b721-a97744a4e558",
+      "time": "2026-05-19 09:53:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Emerging Markets",
+        "S&P500",
+        "Impact bearish",
+        "Nikkei 225",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "SOUTH KOREA’S KOSPI FALLS 4.00%"
+    },
+    {
+      "id": "4886933",
+      "time": "2026-05-19 09:52:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【南山智尚成立新材料公司 註冊資本2億元】企查查APP顯示，近日，煙臺南山智尚新材料有限公司成立，註冊資本2億元，經營範圍包含高效能纖維及複合材料製造；高效能纖維及複合材料銷售；合成纖維製造；合成纖維銷售；新材料技術研發。企查查股權穿透顯示，該公司由南山智尚全資持股。"
+    },
+    {
+      "id": "4886932",
+      "time": "2026-05-19 09:52:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本厚生勞動省投放5000萬隻國家儲備醫用手套】日本厚生勞動省18日啟動國家儲備醫用手套發放程式，向市場投放5000萬隻醫用手套，以應對因中東局勢持續緊張、石腦油供應受阻引發的醫療物資短缺。（新華社）"
+    },
     {
       "id": "4886931",
       "time": "2026-05-19 09:52:08",
@@ -140811,84 +140948,6 @@
         "Important"
       ],
       "text": "【Trump’s schedule in China, according to the White House】Wednesday Trump arrives in Beijing Thursday at 10:00am local time Trump participates in a greeting with Xi Jinping 10:15am Trump has a bilateral meeting with Xi 6:00pm Trump attends State Banquet Friday 11:30am Trump-Xi “Friendship Photo” 11:40am Trump- Xi “Bilateral Tea” 12:15pm Bilateral Lunch"
-    },
-    {
-      "id": "4873819",
-      "time": "2026-05-12 09:56:54",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【港股人工智慧概念股走強 諾比侃漲近20%】截至發稿，諾比侃(02635.HK)漲19.72%，海致科技集團(02706.HK)漲8.72%，快手-W(01024.HK)漲6.01%。"
-    },
-    {
-      "id": "te:markets:549803",
-      "time": "2026-05-12 09:56:53",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Currency",
-        "Importance 2"
-      ],
-      "text": "Dollar Rises on Ceasefire Uncertainty — The dollar index moved back above 98 on Tuesday as President Trump cast doubt on the sustainability of US-Iran ceasefire after he rejected Tehran’s latest peace offer, boosting safe-haven demand for the greenback. Reports also suggested that Trump is expected to meet with his national security team to consider a potential resumption of military operations, while revisiting plans to escort commercial vessels through the Strait of Hormuz. The ongoing conflict has kept oil prices elevated, reinforcing inflation risks and strengthening expectations that interest rates may need to remain higher for longer to contain price pressures. Meanwhile, investors were awaiting April’s consumer inflation report for clearer signals on how the Iran war is affecting the economy and shaping the Federal Reserve’s policy outlook. Trump is also set to meet with Chinese President Xi Jinping later this week, with trade relations and artificial intelligence expected to dominate the agenda."
-    },
-    {
-      "id": "4873814",
-      "time": "2026-05-12 09:55:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "【“運河+自貿港”！平陸運河力爭東博會期間通航 構建“洋浦港—北部灣港—平陸運河”通道】平陸運河是西部陸海新通道的骨幹工程，是新中國成立以來建設的第一條通江達海的運河工程。記者獲悉，廣西將高標準高質量高效率建設平陸運河，全力確保在今年中國—東盟博覽會期間實現運河通航試執行目標，力爭運河首航開通“南寧港—洋浦港”江海直達航線，織密北部灣港至海南港口的集裝箱航線，並於年內開通北海—三亞郵輪航線，持續對接國投交通控股有限公司等有意願的單位參與構建“洋浦港—北部灣港—平陸運河”物流通道，謀劃推進一批桂瓊合作專案前期工作。其中，著力構建 “洋浦港—北部灣港—平陸運河”通道，“運河+自貿港”雙重賦能將為區域經貿合作開闢全新空間，通道的暢通疊加海南自貿港政策紅利，帶動廣西、海南兩地產業合作全面深化。國家通道戰略框架內，北部灣港定位為西部陸海新通道的國際門戶海港和國際樞紐海港，與洋浦港的區域國際集裝箱樞紐港和國際樞紐海港形成“定位互補、合作深化、良性互動”格局。平陸運河建成後，北部灣港、洋浦港透過短途海運串聯，實現“內陸集疏—北部灣集散—洋浦中轉”的高效分工。北部灣港背靠大西南、面向東南亞，是我國對東盟進出口最便捷的出海港口，西南產品依託該通道實現國際運輸，共同構築面向東盟開放合作的陸海聯動前沿陣地。（證券時報）"
-    },
-    {
-      "id": "4873810",
-      "time": "2026-05-12 09:55:11",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超1萬億元，較上日此時縮量1557億元。"
-    },
-    {
-      "id": "4873809",
-      "time": "2026-05-12 09:55:07",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "中際旭創持續拉昇漲超6%，股價突破1000元，總市值達到1.11萬億元。"
-    },
-    {
-      "id": "4873807",
-      "time": "2026-05-12 09:55:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "液化石油氣連續主力合約日內漲5%，現報6017.00元。"
-    },
-    {
-      "id": "4873806",
-      "time": "2026-05-12 09:54:43",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【半導體裝置板塊短線拉昇】半導體裝置板塊短線拉昇，芯源微漲超10%，晶升股份、矽電股份、京儀裝備、恆運昌、中科飛測等跟漲。"
-    },
-    {
-      "id": "mkt:019e19e3-b9e2-7dd9-b928-23de6ab32730",
-      "time": "2026-05-12 09:53:34",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China EV Leaders",
-        "175.HK",
-        "Impact bullish",
-        "9866.HK"
-      ],
-      "text": "HONG KONG AUTO STOCKS UP: GEELY AUTO +4%+, NIO +3%+"
     }
   ]
 }
