@@ -1,7 +1,51 @@
 {
-  "updated": "2026-05-19 23:56:14",
-  "count": 15623,
+  "updated": "2026-05-20 00:01:00",
+  "count": 15612,
   "items": [
+    {
+      "id": "4888625",
+      "time": "2026-05-19 23:58:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普2026年一季度完成94筆美股七巨頭股票交易。此次交易包含64筆買入、30筆賣出，交易總額介於5000萬至7000萬美元之間。"
+    },
+    {
+      "id": "4888624",
+      "time": "2026-05-19 23:58:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國東部一棟建築坍塌，三人失蹤。"
+    },
+    {
+      "id": "te:markets:552011",
+      "time": "2026-05-19 23:58:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "DAX Advances for 2nd Day — Frankfurt's DAX 40 closed about 0.4% up at 24,428 on Tuesday, extending modest gains from the previous day. A more conciliatory tone from US President Donald Trump toward Tehran eased geopolitical tensions, although doubts over a potential deal and concerns over long-term supply risks persisted. President Trump said on Monday he had postponed a planned strike on Iran to allow more time for talks toward a potential deal, after appeals from Qatar, Saudi Arabia and the UAE, but warned of a major offensive if no agreement is reached. Defense stocks saw strong demand, with Hensoldt (+6.9%), Renk (+4.8%) and Rheinmetall (+3%) all advancing firmly. SAP climbed 6%, tracking a broader rally in European software stocks, while semiconductor group Infineon Technologies fell 2.6% on profit-booking. Other top laggards included Continental (-3.5%), Daimler Truck (-2.1%) and Brenntag (-1.9%)."
+    },
+    {
+      "id": "4888623",
+      "time": "2026-05-19 23:56:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "基輔響起防空警報。"
+    },
+    {
+      "id": "4888622",
+      "time": "2026-05-19 23:55:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "Meta執行長馬克·扎克伯格計劃在路易斯安那州鄉村地區興建全球規模最大的人工智慧基地。"
+    },
     {
       "id": "mkt:019e40f2-9639-7228-9afc-f061f2240dd1",
       "time": "2026-05-19 23:55:00",
@@ -141176,148 +141220,6 @@
         "國際"
       ],
       "text": "美國能源資訊署（EIA）短期能源展望報告（STEO）：預計2026年布倫特原油價格95美元/桶（此前預計96美元/桶），預計2027年79美元/桶（此前預計76美元/桶）。\n預計2026年美國石油產量1360萬桶/日（此前預計1350萬桶/日），預計2027年1410萬桶/日（此前預計1390萬桶/日）。\n預計2026年美國液化天然氣（LNG）出口170億立方英尺/日（此前預計170億立方英尺/日），預計2027年182億立方英尺/日（此前預計186億立方英尺/日）。"
-    },
-    {
-      "id": "4875654",
-      "time": "2026-05-13 00:00:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國農業部（USDA）：預計美國期末棉花庫存390萬捆，分析師預期420萬捆，USDA之前預計440萬捆。"
-    },
-    {
-      "id": "4875653",
-      "time": "2026-05-13 00:00:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國農業部（USDA）：預計美國期末小麥總庫存7.62億蒲式耳，分析師預期8.4472億蒲式耳，USDA之前預計9.38億蒲式耳。"
-    },
-    {
-      "id": "mkt:019e1ceb-394f-7cc6-9aba-1ac941a9ec21",
-      "time": "2026-05-13 00:00:31",
-      "tags": [
-        "MKT News",
-        "DEQ.DE",
-        "Impact bullish"
-      ],
-      "text": "EQS-NEWS: DEUTSCHE EUROSHOP REPORTS A GOOD START TO YEAR, CONFIRMS FORECAST"
-    },
-    {
-      "id": "4875652",
-      "time": "2026-05-13 00:00:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國農業部（USDA）：預計美國期末玉米庫存19.57億蒲式耳，分析師預期19.4250億蒲式耳，USDA之前預計21.27億蒲式耳。"
-    },
-    {
-      "id": "te:markets:550059",
-      "time": "2026-05-13 00:00:30",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Shopify Stock Price Hits 12-month Low — Shopify shares decreased to 138.61 CAD, the lowest since May 2025. Over the past 4 weeks, Shopify Inc lost 12.47%, and in the last 12 months, it decreased 7.5%."
-    },
-    {
-      "id": "mkt:019e1cea-eb21-7cc6-9aba-1131a9c0aadc",
-      "time": "2026-05-13 00:00:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "WASDE: US SOYBEAN ENDING STOCKS 310M BU"
-    },
-    {
-      "id": "4875651",
-      "time": "2026-05-13 00:00:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國農業部（USDA）：預計美國期末大豆庫存3.10億蒲式耳，分析師預期3.6605億蒲式耳，USDA之前預計3.50億蒲式耳。"
-    },
-    {
-      "id": "te:markets:550058",
-      "time": "2026-05-13 00:00:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Soybeans Hits 8-week High — Soybeans increased to 1211.00 USd/Bu, the highest since March 2026. Over the past 4 weeks, Soybeans gained 3.79%, and in the last 12 months, it increased 12.48%."
-    },
-    {
-      "id": "4875650",
-      "time": "2026-05-12 23:59:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "【芬蘭Arctial鋁廠計劃2029年下半年產出首批金屬】由力拓（Rio Tinto）支援的芬蘭 Arctial 鋁冶煉廠首席商務官Maxime Vandersmissen表示，該廠目標是在2029年下半年產出首批鋁水。該專案的落成將有助於提升歐洲的鋁產能。該高管在英國倫敦舉行的CRU世界鋁業大會上發言稱，該專案的目標年產量為61萬公噸，“這將使歐洲的產量水平提升 20%。”"
-    },
-    {
-      "id": "4875649",
-      "time": "2026-05-12 23:58:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：奧地利軍方在兩天內兩次緊急出動颱風戰鬥機，原因是美軍軍機未經許可擅自闖入奧地利領空。 涉事機型確認為美國空軍 PC-12/U-28A 偵察機，遭攔截後隨即返航。"
-    },
-    {
-      "id": "mkt:019e1ce7-f2b5-7cc6-9aba-0de57a3aa98f",
-      "time": "2026-05-12 23:57:03",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "ICE GASOIL MAY FUTURES SETTLE AT $1,178.50 A TON"
-    },
-    {
-      "id": "mkt:019e1ce7-d460-7cc6-9aba-005e5cc70189",
-      "time": "2026-05-12 23:56:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "5.6 MAG. EARTHQUAKE 96 KM W OF LATA SOLOMON ISLANDS :USGS"
-    },
-    {
-      "id": "mkt:019e1ce7-ba49-7cc6-9ab9-fc2b340cb8c1",
-      "time": "2026-05-12 23:56:48",
-      "tags": [
-        "MKT News",
-        "PBR.N",
-        "Impact bearish"
-      ],
-      "text": "PETROBRAS UNLIKELY TO PAY EXTRA ORDINARY DIVIDEND THIS YEAR"
-    },
-    {
-      "id": "4875648",
-      "time": "2026-05-12 23:56:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "巴西石油公司執行長：公司正開拓墨西哥、非洲新市場，且極有可能也會進軍委內瑞拉市場。"
-    },
-    {
-      "id": "mkt:019e1ce7-a1a3-7cc6-9ab9-f051001b8741",
-      "time": "2026-05-12 23:56:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "PETROBRAS CEO SAYS FIRM IS LOOKING FOR NEW MARKETS IN MEXICO, AFRICA AND 'VERY LIKELY' WILL ALSO DO SO IN VENEZUELA"
-    },
-    {
-      "id": "4875647",
-      "time": "2026-05-12 23:56:27",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "美國天然氣期貨跌超3.00%，現報3.034美元/百萬英熱。"
     }
   ]
 }
