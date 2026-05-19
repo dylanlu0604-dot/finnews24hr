@@ -1,7 +1,117 @@
 {
-  "updated": "2026-05-20 03:02:45",
-  "count": 15608,
+  "updated": "2026-05-20 03:06:37",
+  "count": 15615,
   "items": [
+    {
+      "id": "4888817",
+      "time": "2026-05-20 03:05:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國疾控中心官員：基因檢測證實，現有診斷試劑可有效檢出此次埃博拉毒株。"
+    },
+    {
+      "id": "4888816",
+      "time": "2026-05-20 03:04:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國疾控中心官員：六名高風險人員正敲定前往歐洲的出行轉運方案。"
+    },
+    {
+      "id": "4888815",
+      "time": "2026-05-20 03:04:28",
+      "tags": [
+        "觀點"
+      ],
+      "text": "花旗銀行：預測 2026 年原油需求日均增量為負 60 萬桶，二、三、四季度同比降幅分別為 24 萬桶 / 日、8 萬桶 / 日、3 萬桶 / 日。"
+    },
+    {
+      "id": "mkt:019e419f-fcf9-7228-9aff-9c8e3afc02f0",
+      "time": "2026-05-20 03:04:24",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "CITI SAYS ITS FORECAST FOR DEMAND GROWTH IN 2026 IS -0.6MB/D, WITH Y/Y DECLINES OF -2.4, -0.8, -0.3, IN 2Q, 3Q, 4Q"
+    },
+    {
+      "id": "4888814",
+      "time": "2026-05-20 03:04:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國疾控中心官員：一名美國人在前往德國就醫途中，埃博拉病毒檢測結果呈陽性。"
+    },
+    {
+      "id": "4888813",
+      "time": "2026-05-20 03:03:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "受 Mythos 事件衝擊，華爾街監管機構暫停部分網路安全審查工作。"
+    },
+    {
+      "id": "mkt:019e419f-0d5e-7228-9aff-9739e3a4c135",
+      "time": "2026-05-20 03:03:23",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "CITI'S BULL CASE SCENARIO (MULTIPLE PATHS TO GET THERE) IS FOR BRENT PRICES TO REACH $150/BBL"
+    },
+    {
+      "id": "mkt:019e419e-eca2-7228-9aff-8bf0f24d85e0",
+      "time": "2026-05-20 03:03:14",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "CITI SAYS 2027 OUTLOOK FOR OIL IS EXTREMELY DIFFICULT TO PREDICT, BUT HAVING SAID THIS THEIR CENTRAL CASE IS FOR $80-90/BBL OIL"
+    },
+    {
+      "id": "mkt:019e419e-c314-7228-9aff-81f1a64011aa",
+      "time": "2026-05-20 03:03:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "CITI SAYS THAT FOR A RERUN OF 1970S OIL SHOCK STRAIT OF HORMUZ MAY NEED TO REMAIN CLOSED EARLY 2027"
+    },
+    {
+      "id": "4888811",
+      "time": "2026-05-20 03:02:40",
+      "tags": [
+        "觀點"
+      ],
+      "text": "花旗銀行稱，若要重現上世紀 70 年代石油危機行情，2027 年初霍爾木茲海峽或需長期斷航停運。"
+    },
+    {
+      "id": "4888810",
+      "time": "2026-05-20 03:02:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "通用汽車將在墨西哥Toluca工廠投資10億美元。（Expansion）"
+    },
+    {
+      "id": "4888809",
+      "time": "2026-05-20 03:01:35",
+      "tags": [
+        "觀點"
+      ],
+      "text": "花旗銀行：2027 年原油市場前景極難預判，但其基準預判油價區間為每桶 80 至 90 美元。"
+    },
     {
       "id": "4888808",
       "time": "2026-05-20 03:00:08",
@@ -140878,46 +140988,6 @@
         "國際"
       ],
       "text": "【前聯大主席埃斯皮諾薩角逐下一任聯合國秘書長】聯合國大會主席發言人柯林斯12日宣佈，安地卡及巴布達已提名厄瓜多前外交部長、前聯大主席瑪麗亞·費爾南達·埃斯皮諾薩角逐下一任聯合國秘書長。 埃斯皮諾薩2018年至2019年擔任第73屆聯大主席。此前，她曾擔任厄瓜多常駐聯合國代表、厄瓜多常駐聯合國日內瓦辦事處代表。埃斯皮諾薩曾兩次出任厄瓜多外長，還曾擔任國防部長。（新華社）"
-    },
-    {
-      "id": "4875781",
-      "time": "2026-05-13 03:05:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊拉克和巴基斯坦分別與伊朗達成協議，透過霍爾木茲海峽運輸石油和液化天然氣】知情人士稱，伊拉克和巴基斯坦分別與伊朗達成協議，透過霍爾木茲海峽運輸石油和液化天然氣。伊拉克確保了兩艘超大型原油運輸船（每艘載有約200萬桶原油）於週日安全透過霍爾木茲海峽。一位伊拉克石油部官員稱，伊拉克正在尋求伊朗批准更多過境運輸，以保護佔其預算95%的石油收入。業內人士稱，根據伊斯蘭堡和德黑蘭之間達成的另一項雙邊協議，兩艘裝載卡達液化天然氣的油輪也正駛往巴基斯坦。伊拉克和巴基斯坦均未就過境運輸向伊朗或伊朗革命衛隊支付任何費用，卡達也未直接參與這些雙邊協議。"
-    },
-    {
-      "id": "mkt:014e7262-677d-45ee-9a0c-dd717d21e742",
-      "time": "2026-05-13 03:04:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "BRAZIL GOVERNMENT: AT THE MOMENT BRAZILIAN EXPORTS OF ANIMAL PRODUCTS ARE PROCEEDING NORMALLY BRAZIL GOVERNMENT WILL PROMPTLY TAKE ALL NECESSARY MEASURES TO REVERSE THIS DECISION BRAZIL HAS SCHEDULED A MEETING WITH EU AUTHORITIES ON WEDNESDAY TO SEEK EXPLANATIONS ABOUT THE DECISION"
-    },
-    {
-      "id": "mkt:ba8c0ea4-4320-44c5-9ed5-2b4927a2d0d0",
-      "time": "2026-05-13 03:03:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "BRAZIL RECEIVED WITH SURPRISE THE NEWS OF ITS REMOVAL FROM THE LIST OF COUNTRIES AUTHORIZED TO EXPORT ANIMAL PRODUCTS TO THE EU, STARTING SEPTEMBER 3 - STATEMENT"
-    },
-    {
-      "id": "4875780",
-      "time": "2026-05-13 03:03:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴西政府：將立即採取一切必要措施撤銷此項決定。已安排於週三與歐盟當局舉行會議，要求其就該決定作出解釋。"
-    },
-    {
-      "id": "4875779",
-      "time": "2026-05-13 03:02:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國上訴法院下令暫緩執行判定特朗普10%關稅違法的裁決】美國一家聯邦上訴法院暫時叫停一項判定特朗普全球關稅違法的裁決。特朗普政府要求允許相關部門在法律爭議期間繼續徵收關稅，法官正在權衡該訴求。聯邦巡迴上訴法院週二釋出一項簡短命令，即所謂“行政性暫緩執行令”(administrative stay)，法院還設定快速時間表，要求雙方就政府在上訴期間維持關稅的請求提交書面意見。提起訴訟的小企業及民主黨州官員需在一週內作出回應。“行政性暫緩執行令”意味著，進口商仍需按照特朗普依據《1974年貿易法》第122條實施的10%關稅繳納稅款。"
     }
   ]
 }
