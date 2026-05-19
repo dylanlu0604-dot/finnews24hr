@@ -1,7 +1,106 @@
 {
-  "updated": "2026-05-20 04:00:58",
-  "count": 15601,
+  "updated": "2026-05-20 04:04:51",
+  "count": 15604,
   "items": [
+    {
+      "id": "mkt:019e41d6-6aad-7228-9b00-1a5f4cfc0d9a",
+      "time": "2026-05-20 04:03:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Macro & Rates",
+        "Treasury Yields",
+        "Market Themes",
+        "Magnificent 7",
+        "S&P500",
+        "Impact bearish",
+        "US10Y",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "【US Stocks Fall as Treasury Yields Rise Ahead of Nvidia Earnings】U.S. stocks fell Tuesday as Treasury yields climbed and investors awaited earnings from Nvidia. The Nasdaq Composite dropped 0.8%, while the S&P 500 and Dow Jones Industrial Average each fell about 0.6%. The 10-year Treasury yield rose above 4.6% and the 30-year yield briefly touched 5.2% as oil prices advanced amid blockades in the Strait of Hormuz. Markets also weighed President Donald Trump’s comments that “serious negotiations” are underway on Iran’s nuclear program and that there is a “very good chance” of a deal."
+    },
+    {
+      "id": "4888854",
+      "time": "2026-05-20 04:03:15",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【歐盟擬撥款扶持農民應對化肥價格上漲】歐盟委員會19日宣佈，擬透過農業扶持計劃撥付應急資金，以幫助農民應對因霍爾木茲海峽持續封鎖引發的化肥價格飆升。歐盟委員會負責農業和食品事務的委員克里斯托夫·漢森當天在法國斯特拉斯堡歐洲議會表示，歐盟將向受影響最嚴重的農民提供有針對性的特別支援，幫助他們購買下一季作物所需化肥。根據計劃，歐盟委員會擬動用歐盟農業危機儲備基金中的剩餘款項作為首項措施，規模約2億歐元。歐盟還計劃在夏季之前提出方案，擴大相關儲備基金規模。（新華社）"
+    },
+    {
+      "id": "4888853",
+      "time": "2026-05-20 04:02:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國監管機構公佈重塑銀行評級流程的計劃】美國監管機構公佈了一項提案，擬改革檢查人員非公開地對銀行進行評級的方式，此舉可能受到貸款機構歡迎，它們長期以來一直抱怨這一流程。這項週二釋出的計劃將重塑被稱為CAMELS的框架。檢查人員使用該框架，在資本充足程度、資產質量、管理水平、盈利能力、流動性和市場風險敏感性方面對銀行進行評級。這些評級會形成一項總體評級，決定一家金融機構面臨的審查程度、可以從事的業務活動，以及必須持有多少資本。美國聯邦金融機構檢查委員會(FFIEC)在宣告中表示，該提案將“加強CAMELS評級與金融機構安全穩健性之間的聯絡”。該計劃的公眾意見徵詢期為90天。根據該計劃，檢查人員將重點關注貸款機構的財務狀況以及與之相關的任何重大風險，而不是一些人認為較為主觀的問題。"
+    },
+    {
+      "id": "4888852",
+      "time": "2026-05-20 04:02:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "Truth Social Bitcoin ETF B.T.申請撤銷登記。"
+    },
+    {
+      "id": "4888851",
+      "time": "2026-05-20 04:01:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美媒：美軍在印度洋扣押一艘伊朗相關油輪】據美國《華爾街日報》19日以三名美國官員為訊息源報道，美軍18日晚在印度洋扣押一艘與伊朗有關聯的油輪。報道說，這艘油輪名為“天波”號，因參與運輸伊朗石油，已於今年3月遭到美國製裁。船舶追蹤資料顯示，它在穿越馬六甲海峽後，19日航行至馬來西亞以西海域。報道說，這艘油輪很可能2月在伊朗石油出口樞紐哈爾克島裝載了超過100萬桶原油，被扣押時可能正在返回中東地區途中。五角大樓尚未就上述報道回覆《華爾街日報》記者。（新華社）"
+    },
+    {
+      "id": "mkt:019e41d4-645d-7228-9b00-14bb6e103bd5",
+      "time": "2026-05-20 04:01:35",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "US ENERGY SECRETARY WRIGHT: HORMUZ WILL BE FLOWING AGAIN IN THE NEAR FUTURE — THE US WILL PROCEED TO EXPAND ITS OIL SUPPLY FROM VENEZUELA, AND ELEVATED GAS PRICES ARE A COST WE ALL MUST BEAR RATHER THAN RUN OUT OF GAS"
+    },
+    {
+      "id": "4888850",
+      "time": "2026-05-20 04:01:11",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "OpenAI執行長薩姆·奧爾特曼：客戶愈發要求我們提供穩定算力保障。隨著模型效能持續升級，全球算力緊缺局面預計還將持續一段時間。 我們針對一至三年長期合約推出代幣折扣優惠。 此舉也便於我方統籌規劃，有望實現雙方共贏。"
+    },
+    {
+      "id": "mkt:019e41d3-a682-7228-9b00-095f90faec0f",
+      "time": "2026-05-20 04:00:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bearish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "DOW CLOSED -0.65%, S&P 500 -0.67%, NASDAQ -0.84%"
+    },
+    {
+      "id": "4888849",
+      "time": "2026-05-20 04:00:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體收跌】道指跌0.65%，標普500指數跌0.67%，納指跌0.83%。阿克邁跌6.28%，Builders FirstSource跌5.43%，第一太陽能跌5.11%，VRT跌5.07%，The Trade Desk跌5.03%，斑馬技術跌4.98%，Moderna跌4.97%。“七姐妹”方面：蘋果漲0.44%，英偉達跌0.72%，Meta Platforms跌1.36%，微軟跌1.41%，特斯拉跌1.43%，谷歌跌2.07%，亞馬遜跌2.08%。"
+    },
     {
       "id": "4888848",
       "time": "2026-05-20 04:00:03",
@@ -140776,68 +140875,6 @@
         "Important"
       ],
       "text": "【Dow Inches Up as Tech Retreats on Hot CPI, Oil Surges】US stocks were mixed Tuesday as tech gains stalled and investors digested April’s inflation data. The Nasdaq fell 0.7%, S&P 500 dropped 0.16%, while the Dow rose 0.1%. Core CPI exceeded expectations at 3.8% annually, driven by higher energy costs amid the Strait of Hormuz blockade. Oil prices climbed, with WTI above $102/bbl and Brent above $107/bbl. President Trump heads to China to meet Xi, with trade and AI as the focus, while US-Iran tensions remain elevated."
-    },
-    {
-      "id": "4875825",
-      "time": "2026-05-13 04:03:43",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "高通股價收盤下跌11%，創下自2020年3月以來最大單日跌幅。"
-    },
-    {
-      "id": "4875824",
-      "time": "2026-05-13 04:03:13",
-      "tags": [
-        "市場"
-      ],
-      "text": "美股晶片指數收跌3%，盤中一度下跌6.8%。"
-    },
-    {
-      "id": "mkt:019e1dc9-9757-7772-877d-e8e3e7c78875",
-      "time": "2026-05-13 04:03:11",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "WTI"
-      ],
-      "text": "US HOMELAND SECURITY SECRETARY MULLIN: HOPEFULLY WE CAN STOP CHINA FROM MOVING INTO TAIWAN"
-    },
-    {
-      "id": "mkt:019e1dc9-491e-7772-877d-e5de1ed06fdf",
-      "time": "2026-05-13 04:02:58",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "QCOM.O",
-        "Impact bearish",
-        "Nasdaq100"
-      ],
-      "text": "QUALCOMM SHARES CLOSE 11% LOWER IN WORST DAY SINCE MARCH 2020"
-    },
-    {
-      "id": "4875823",
-      "time": "2026-05-13 04:01:05",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "Workday、Anthropic與美國地方倡議支援公司（LISC）聯合推出聚焦人工智慧的個體創業者加速培育計劃。"
-    },
-    {
-      "id": "mkt:019e1dc7-5bf0-7772-877d-dae656e6bbd1",
-      "time": "2026-05-13 04:01:04",
-      "tags": [
-        "MKT News",
-        "XOM.O"
-      ],
-      "text": "EXXONMOBIL: NO LINK BETWEEN PROPOSAL TO RELOCATE TO TEXAS AND VOLUNTARY RETAIL VOTING PROGRAM – SEC FILING"
     }
   ]
 }
