@@ -1,7 +1,148 @@
 {
-  "updated": "2026-05-19 23:01:26",
-  "count": 15596,
+  "updated": "2026-05-19 23:05:41",
+  "count": 15601,
   "items": [
+    {
+      "id": "mkt:019e40c4-cfe4-7aa9-b72b-bab82a5c99ac",
+      "time": "2026-05-19 23:04:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TRUMP: THOUGHT THIS WAS A GOOD TIME FOR TEXAS ENDORSEMENT"
+    },
+    {
+      "id": "4888559",
+      "time": "2026-05-19 23:04:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "Spotify為播客節目推出認證徽章。"
+    },
+    {
+      "id": "4888558",
+      "time": "2026-05-19 23:04:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "智利國家銅公司（Cochilco）在一份宣告中將今年銅價預期上調至每磅5.55美元。"
+    },
+    {
+      "id": "mkt:019e40c4-9b61-7aa9-b72b-b26bf4fc6516",
+      "time": "2026-05-19 23:04:29",
+      "tags": [
+        "MKT News",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "CHILE'S COCHILCO RAISES COPPER PRICE ESTIMATE FOR THIS YEAR TO $5.55/LB - STATEMENT"
+    },
+    {
+      "id": "4888557",
+      "time": "2026-05-19 23:04:18",
+      "tags": [
+        "其他",
+        "國際"
+      ],
+      "text": "【特朗普稱或不得不再襲伊朗】美國總統特朗普今天（5月19日）在白宮對媒體表示，美國“可能不得不再次打擊伊朗”。他還透露，他在推遲原定於今天的攻擊伊朗行動前，“距離做出打擊決定僅差一小時”。特朗普還稱，伊朗領導人“正在懇求達成協議”。他警告稱，如果無法達成協議，美國將在未來幾天內發動新的襲擊。特朗普說：“也就是兩三天內，也許是本週五、週六、週日這幾天，或者下週初，就是這有限的一段時間，因為我們不能讓他們（伊朗）擁有核武器。”（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:019e40c4-524b-7aa9-b72b-aa5610d63d88",
+      "time": "2026-05-19 23:04:17",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "IRAN DELIBERATELY TARGETED CIVILIANS IN THE MIDDLE EAST THOUSANDS OF TIMES, U.S. ADMIRAL SAYS"
+    },
+    {
+      "id": "4888556",
+      "time": "2026-05-19 23:03:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國海軍上將聲稱，伊朗在中東蓄意以平民為目標多達數千次。"
+    },
+    {
+      "id": "mkt:019e40c3-0e4e-7aa9-b72b-a09c89145e0e",
+      "time": "2026-05-19 23:02:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TRUMP: IRAN HAS A LITTLE CAPACITY, NOT MUCH"
+    },
+    {
+      "id": "4888555",
+      "time": "2026-05-19 23:02:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及伊朗局勢與油價：事態很快將迎來結果。"
+    },
+    {
+      "id": "mkt:019e40c2-8723-7aa9-b72b-98d581723dbb",
+      "time": "2026-05-19 23:02:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "TRUMP, ON IRAN, OIL PRICES: WON'T BE MUCH LONGER"
+    },
+    {
+      "id": "4888554",
+      "time": "2026-05-19 23:02:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：可能還有其他措施來控制汽油價格。"
+    },
+    {
+      "id": "mkt:019e40c1-efcd-7aa9-b72b-96d1ad2b2281",
+      "time": "2026-05-19 23:01:47",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "TRUMP: THERE MAY BE OTHER INITIATIVES TO KEEP GASOLINE DOWN"
+    },
+    {
+      "id": "4888553",
+      "time": "2026-05-19 23:01:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們還沒打算離開伊朗，我們會妥善處理這件事。"
+    },
+    {
+      "id": "mkt:019e40c1-6ab1-7aa9-b72b-8f3c7070fb8c",
+      "time": "2026-05-19 23:01:11",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "TRUMP: WE'RE NOT LEAVING IRAN YET, GOING TO DO IT RIGHT"
+    },
+    {
+      "id": "mkt:019e40c1-098b-7aa9-b72b-86495647bcf5",
+      "time": "2026-05-19 23:00:49",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "RUSSIAN PRESIDENT VLADIMIR PUTIN ARRIVES IN BEIJING: CGTN"
+    },
     {
       "id": "mkt:019e40c0-fb37-7aa9-b72b-78967323e30e",
       "time": "2026-05-19 23:00:44",
@@ -140973,98 +141114,6 @@
         "UNH.O"
       ],
       "text": "UNITEDHEALTH AIMS TO RETURN UHC TO TARGET MARGINS BY 2028 UNITEDHEALTHCARE CEO TIM NOEL COMMENTS AT BANK OF AMERICA CONF"
-    },
-    {
-      "id": "4875590",
-      "time": "2026-05-12 23:05:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭經濟部副部長：2026 年小麥產量預計達2240 萬噸。"
-    },
-    {
-      "id": "mkt:019e1cb8-adb2-7dd3-a756-b6a5f59054c7",
-      "time": "2026-05-12 23:04:50",
-      "tags": [
-        "MKT News",
-        "PETR4.SA",
-        "Impact bullish"
-      ],
-      "text": "PETROBRAS WORKING ON SELF SUFFICIENCY IN DIESEL"
-    },
-    {
-      "id": "4875589",
-      "time": "2026-05-12 23:04:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭經濟部副部長：該國 2026 年糧食產量預計達6040 萬噸。"
-    },
-    {
-      "id": "mkt:019e1cb7-74f0-7dd3-a756-ab9c7ede4cd0",
-      "time": "2026-05-12 23:03:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "EU'S KALLAS: LOOKING INTO EU MISSION TO STRENGTHEN LEBANON"
-    },
-    {
-      "id": "mkt:019e1cb7-26c5-7dd3-a756-a5da09990ab1",
-      "time": "2026-05-12 23:03:30",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "PETR4.SA",
-        "Impact bullish"
-      ],
-      "text": "PETROBRAS CEO SAYS`GOOD NEWS' COMING ON GASOLINE"
-    },
-    {
-      "id": "mkt:019e1cb6-d8aa-7dd3-a756-9b30ec130f19",
-      "time": "2026-05-12 23:03:25",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Nasdaq100",
-        "Impact bearish"
-      ],
-      "text": "NASDAQ 100 EXTENDS DROP TO 1.5%"
-    },
-    {
-      "id": "4875588",
-      "time": "2026-05-12 23:03:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "納斯達克100指數跌幅擴大至1.5%。"
-    },
-    {
-      "id": "4875587",
-      "time": "2026-05-12 23:02:10",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4670美元/盎司，日內跌1.41%。"
-    },
-    {
-      "id": "mkt:019e1cb5-a72b-7dd3-a756-91dba1679662",
-      "time": "2026-05-12 23:02:07",
-      "tags": [
-        "MKT News",
-        "BA.O",
-        "Impact bullish"
-      ],
-      "text": "BOEING SECURED ORDERS FOR 284 AIRCRAFT IN 2026 BOEING HAS SHIPPED 190 AIRPLANES TO CLIENTS THIS YEAR BOEING DELIVERED 34 UNITS OF 737 MAX AND 6 UNITS OF 787 WIDEBODY AIRPLANES BOEING DELIVERED 47 PLANES IN APRIL AS PRODUCTION INCREASED"
-    },
-    {
-      "id": "4875586",
-      "time": "2026-05-12 23:01:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "思卡軒尼詩釋出全新戰略規劃，並重申維持私有化的承諾。"
     }
   ]
 }
