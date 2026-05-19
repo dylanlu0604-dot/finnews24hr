@@ -1,7 +1,47 @@
 {
-  "updated": "2026-05-20 02:02:45",
-  "count": 15619,
+  "updated": "2026-05-20 02:06:42",
+  "count": 15605,
   "items": [
+    {
+      "id": "mkt:019e416a-833b-7228-9afe-f3b5da90d415",
+      "time": "2026-05-20 02:05:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "VALOR EQUITY PARTNERS OWNS ABOUT 4% OF SPACEX: INFORMATION"
+    },
+    {
+      "id": "mkt:019e4169-e6fb-7228-9afe-eb87e0fd7bb0",
+      "time": "2026-05-20 02:05:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EARTHQUAKE OF MAGNITUDE 5.93 STRIKES NEAR COAST OF PERU - GFZ"
+    },
+    {
+      "id": "mkt:019e4168-08ce-7228-9afe-e4a86192edb3",
+      "time": "2026-05-20 02:03:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SEQUOIA, A LATER INVESTOR, STANDS TO NET ABOUT $2 BILLION FROM SPACEX IPO - THE INFORMATION"
+    },
+    {
+      "id": "4888762",
+      "time": "2026-05-20 02:02:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【聯合國：中東衝突拖累全球經濟 發展中國家承受最沉重衝擊】當地時間5月19日，聯合國釋出《2026年中世界經濟形勢與展望》報告指出，中東危機再次衝擊全球經濟，導致經濟增長放緩、通脹壓力重新升溫，並加劇全球不確定性。目前，2026年全球經濟增長預計為2.5%，較今年1月的預測下調0.2個百分點，也明顯低於疫情前水平。預計2027年全球經濟將溫和回升至2.8%。穩健的勞動力市場、具有韌性的消費需求，以及部分經濟體由人工智慧驅動的貿易與投資，將提供一定支撐，但此次下調也反映出全球經濟原本已疲弱的前景進一步惡化。聯合國主管經濟和社會事務副秘書長李軍華表示：“中東危機正在加劇發展中經濟體的壓力。借貸成本上升以及資本外流壓力捲土重來，可能進一步加深債務脆弱性，並在這一關鍵時刻限制可持續發展所需資源。”（央視新聞）"
+    },
+    {
+      "id": "4888761",
+      "time": "2026-05-20 02:02:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：在郵箱、文件、備忘錄上線對話式語音功能。"
+    },
     {
       "id": "4888760",
       "time": "2026-05-20 02:01:58",
@@ -140912,190 +140952,6 @@
         "Impact mixed"
       ],
       "text": "CBO ESTIMATES TRUMP'S \"GOLDEN DOME\" IDEA WOULD COST A COOL $1.2 TRILLION"
-    },
-    {
-      "id": "4875747",
-      "time": "2026-05-13 02:06:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟委員會發言人表示：自 9 月 3 日起，巴西部分產品將被禁止出口至歐盟，涵蓋牛類肉製品、家禽及蛋類產品。"
-    },
-    {
-      "id": "mkt:019e1d5e-fa5a-7772-877c-97a2cc2b53b2",
-      "time": "2026-05-13 02:06:25",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "EUROPEAN COMMISSION SAYS BRAZIL CAN NO LONGER EXPORT SOME PRODUCTS TO EU INCLUDING BOVINE, POULTRY, EGGS EFFECTIVE SEP 3 - SPOKESPERSON"
-    },
-    {
-      "id": "mkt:019e1d5e-b82a-7772-877c-8c9311a5254b",
-      "time": "2026-05-13 02:06:11",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "TRUMP: LOTS TO DISCUSS WITH XI BUT WOULDN'T SAY IRAN IS ONE OF THEM"
-    },
-    {
-      "id": "4875746",
-      "time": "2026-05-13 02:06:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "據伊朗法爾斯通訊社：若五大條件得不到滿足，伊朗不會參與下一輪美方談判。"
-    },
-    {
-      "id": "mkt:019e1d5e-63b0-7772-877c-80b4dcd20c1d",
-      "time": "2026-05-13 02:06:04",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "TRUMP: UP TO STARMER IF HE SHOULD STAY OR GO"
-    },
-    {
-      "id": "mkt:019e1d5e-1135-7772-877c-78d036d8c242",
-      "time": "2026-05-13 02:05:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TRUMP: WILL END UP GETTING SETTLEMENT BETWEEN UKRAINE, RUSSIA"
-    },
-    {
-      "id": "4875745",
-      "time": "2026-05-13 02:05:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：最終會促成烏克蘭與俄羅斯達成和解協議。"
-    },
-    {
-      "id": "mkt:019e1d5d-c8fc-7772-877c-761f5c3ce617",
-      "time": "2026-05-13 02:05:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TRUMP: NO UNDERSTANDING WITH PUTIN THAT RUSSIA SHOULD GET DONBAS"
-    },
-    {
-      "id": "mkt:019e1d5d-7466-7772-877c-6adeaa809944",
-      "time": "2026-05-13 02:05:24",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "TRUMP: WILL HAVE GREAT RELATIONSHIP WITH CHINA FOR DECADES"
-    },
-    {
-      "id": "4875744",
-      "time": "2026-05-13 02:04:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "【英國將向霍爾木茲海峽多國護航行動派遣戰機及軍艦】據英國國防部訊息，英國將向在霍爾木茲海峽執行任務的多國護航行動提供無人機、戰機及軍艦支援，進一步強化海灣地區安全部署。英國國防部宣告稱，英方此次投入將包括“颱風”戰鬥機以及英國“龍”號驅逐艦等。（央視新聞）"
-    },
-    {
-      "id": "4875743",
-      "time": "2026-05-13 02:04:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：斯塔默是否留任取決於他自己。"
-    },
-    {
-      "id": "4875742",
-      "time": "2026-05-13 02:04:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普對斯塔默表態：放開北海石油開採。"
-    },
-    {
-      "id": "mkt:019e1d5b-f810-7772-877c-640d709baf30",
-      "time": "2026-05-13 02:03:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TRUMP: OPEC IS FACING CHALLENGES"
-    },
-    {
-      "id": "mkt:019e1d5b-cfb0-7772-877c-5f411fa8e0eb",
-      "time": "2026-05-13 02:03:36",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "CNH"
-      ],
-      "text": "TRUMP: XI WILL BE IN U.S. BEFORE THE END OF THE YEAR"
-    },
-    {
-      "id": "mkt:019e1d5b-bd5c-7772-877c-51d06cc6f3c9",
-      "time": "2026-05-13 02:03:31",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "SAUDI ARABIA CARRIED OUT UNPUBLICIZED RETALIATORY STRIKES ON IRAN DURING WAR, FOUR PEOPLE FAMILIAR WITH THE MATTER SAY"
-    },
-    {
-      "id": "mkt:019e1d5b-8bb9-7772-877c-4b48446cfdaa",
-      "time": "2026-05-13 02:03:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "MAMDANI ABANDONS PLAN FOR RAISING NEW YORK CITY PROPERTY TAXES - WSJ"
-    },
-    {
-      "id": "mkt:019e1d5b-827d-7772-877c-4310c6216d2a",
-      "time": "2026-05-13 02:03:13",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "TRUMP: IRAN WILL EITHER DO THE RIGHT THING OR WE WILL FINISH THE JOB"
-    },
-    {
-      "id": "4875741",
-      "time": "2026-05-13 02:03:04",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "四名知情人士透露，沙烏地阿拉伯在戰事期間對伊朗實施了未公開的報復性打擊。"
-    },
-    {
-      "id": "4875740",
-      "time": "2026-05-13 02:02:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普： 伊朗要麼做出正確選擇，否則我們就將徹底了結此事。"
     }
   ]
 }
