@@ -1,7 +1,199 @@
 {
-  "updated": "2026-05-19 21:27:51",
-  "count": 15559,
+  "updated": "2026-05-19 21:31:57",
+  "count": 15562,
   "items": [
+    {
+      "id": "mkt:019e406f-0aae-7aa9-b729-a3a7372921c8",
+      "time": "2026-05-19 21:31:19",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "U.S. STOCKS OPEN LOWER, DOW -0.37%, S&P 500 -0.43%, NASDAQ -0.65%. TECH SHARES BROADLY WEAKER, MICRON -2.7%, INTEL -1.7%, QUALCOMM -2.3%, BILIBILI -4.8%, LI AUTO -3.7%"
+    },
+    {
+      "id": "te:markets:551957",
+      "time": "2026-05-19 21:31:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "HCA Stock Price Hits 31-week Low — HCA shares decreased to 411.20 USD, the lowest since October 2025. Over the past 4 weeks, HCA lost 13.55%, and in the last 12 months, it increased 6.84%."
+    },
+    {
+      "id": "mkt:019e406e-e558-7aa9-b729-98a6d421f2b0",
+      "time": "2026-05-19 21:31:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "SPOT SILVER EXTENDS DECLINE, DOWN OVER 5% TO $73.57/OZ"
+    },
+    {
+      "id": "te:markets:551956",
+      "time": "2026-05-19 21:30:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Home Depot Stock Price Hits 30-month Low — Home Depot shares decreased to 290.99 USD, the lowest since November 2023. Over the past 4 weeks, Home Depot lost 17.09%, and in the last 12 months, it decreased 23.29%."
+    },
+    {
+      "id": "4888329",
+      "time": "2026-05-19 21:30:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股開盤：三大股指齊跌】道指跌0.43%，標普500指數跌0.47%，納指跌0.53%。阿克邁跌4.50%，昆泰醫藥跌4.05%，Comfort Systems USA跌3.85%，泰科電子跌3.37%，ON SEMICONDUCTOR跌3.31%，Monolithic Power Systems跌2.94%。“七姐妹”方面：微軟漲1.98%，蘋果漲0.01%，Meta Platforms跌0.41%，谷歌跌0.46%，英偉達跌0.89%，亞馬遜跌1.08%，特斯拉跌1.45%。"
+    },
+    {
+      "id": "4888328",
+      "time": "2026-05-19 21:30:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟農業事務專員：委員會透過了化肥行動計劃。"
+    },
+    {
+      "id": "4888327",
+      "time": "2026-05-19 21:30:27",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4490美元/盎司，日內跌1.50%。"
+    },
+    {
+      "id": "4888326",
+      "time": "2026-05-19 21:30:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4490美元/盎司，日內跌1.67%。"
+    },
+    {
+      "id": "4888325",
+      "time": "2026-05-19 21:30:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息： 以色列海軍現已控制土耳其牽頭駛往加沙船隊中的41艘船隻，僅剩不足10艘船隻待攔截。"
+    },
+    {
+      "id": "4888324",
+      "time": "2026-05-19 21:29:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【工商銀行全力做好柳州抗震救災金融保障工作】5月18日，廣西柳州市柳南區發生5.2級地震。震情發生後，工行廣西柳州分行第一時間啟動抗震救災金融服務應急預案，統籌抓好安全排查、服務保障、應急支援等工作，保障金融服務連續穩定。工行廣西柳州分行迅速召開地震災害應急處置工作部署會，成立應急工作小組，對全轄營業場所、辦公場所、員工宿舍、檔案庫房、機房等重點區域，全面開展安全隱患排查。重點檢查房屋結構、水電安全、自助裝置、消防系統等情況，及時消除安全隱患，確保運營安全、人員安全。（中國工商銀行）"
+    },
+    {
+      "id": "4888323",
+      "time": "2026-05-19 21:29:18",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內跌4%，現報18086.00元。"
+    },
+    {
+      "id": "4888322",
+      "time": "2026-05-19 21:29:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌5%，現報73.63美元/盎司。"
+    },
+    {
+      "id": "4888321",
+      "time": "2026-05-19 21:29:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京：人工智慧產業發展等25項立法專案納入年度立法】19日，北京市人民政府新聞辦公室舉行“北京市人民政府2026年立法工作計劃新聞釋出會”。北京市司法局副局長王愛聲介紹，包括《北京市人工智慧產業發展條例》《北京市民營經濟促進條例》《北京市博物館條例》等25項立法專案被納入2026年年度立法工作計劃。 王愛聲表示，北京市政府2026年立法工作計劃共安排立法專案25項。其中，審議專案13項，預備專案12項。主要涵蓋：持續最佳化提升首都功能；推動高質量發展、增強創新動能；統籌發展和安全、加強超大城市治理；增進民生福祉、提升群眾生活品質；堅持依法行政、加強政府自身建設等幾個方面。（新華社）"
+    },
+    {
+      "id": "4888320",
+      "time": "2026-05-19 21:29:09",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀失守74美元/盎司，日內跌4.50%。"
+    },
+    {
+      "id": "4888319",
+      "time": "2026-05-19 21:29:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4500美元/盎司，日內跌1.28%。"
+    },
+    {
+      "id": "mkt:019e406c-cc54-7aa9-b729-9794642a5554",
+      "time": "2026-05-19 21:28:52",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "MOST ACTIVE US OIL CONTRACT REVERSES LOSSES, HITS SESSION HIGH"
+    },
+    {
+      "id": "4888318",
+      "time": "2026-05-19 21:28:47",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國成交最活躍原油合約扭轉跌勢，觸及日內高點。"
+    },
+    {
+      "id": "4888317",
+      "time": "2026-05-19 21:27:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所（ICE）紐約可可期貨上漲超3%，報每噸3932美元。"
+    },
+    {
+      "id": "mkt:019e406b-fb98-7aa9-b729-8ec5b372e911",
+      "time": "2026-05-19 21:27:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "SPOT GOLD EXTENDS LOSSES, FALLS BELOW $4,500/OZ, DOWN 1.45% INTRADAY. SPOT SILVER DROPS BELOW $74/OZ, DOWN 4.74%"
+    },
+    {
+      "id": "te:markets:551955",
+      "time": "2026-05-19 21:27:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Siemens Energy Stock Price Hits 4-week Low — Siemens Energy shares decreased to 166.02 EUR, the lowest since April 2026. Over the past 4 weeks, Siemens Energy AG lost 1.48%, and in the last 12 months, it increased 111.25%."
+    },
     {
       "id": "4888316",
       "time": "2026-05-19 21:26:56",
@@ -140459,169 +140651,6 @@
         "市場"
       ],
       "text": "紐蒙特股價下跌2%，西巴尼Stillwater股價下跌4%，和諧黃金股價下跌2.8%。"
-    },
-    {
-      "id": "4875364",
-      "time": "2026-05-12 21:31:56",
-      "tags": [
-        "市場"
-      ],
-      "text": "金羅斯黃金股價下跌2.5%，盎格魯黃金阿山蒂股價下跌5.3%。"
-    },
-    {
-      "id": "mkt:019e1c63-0acf-7dd3-a755-5ac4fa2bdf63",
-      "time": "2026-05-12 21:31:53",
-      "tags": [
-        "MKT News",
-        "Important",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "RUSSIA HAS SUCCESFULLY TESTED SARMAT MISSILE: IFX"
-    },
-    {
-      "id": "4875363",
-      "time": "2026-05-12 21:31:45",
-      "tags": [
-        "市場"
-      ],
-      "text": "UNDER ARMOUR股價下跌幅度高達17%，創下8月8日以來最大盤中跌幅。"
-    },
-    {
-      "id": "mkt:019e1c62-eedb-7dd3-a755-55f3f24e33ba",
-      "time": "2026-05-12 21:31:45",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bearish",
-        "NEM.O",
-        "AU.O"
-      ],
-      "text": "US-LISTED SHARES OF GOLD MINERS FALL AS GOLD PRICES SLIP NEWMONT DOWN 2%, SIBANYE STILLWATER FALLS 4%, HARMONY GOLD DOWN 2.8% KINROSS GOLD DOWN 2.5%, ANGLOGOLD ASHANTI FALLS 5.3%"
-    },
-    {
-      "id": "4875362",
-      "time": "2026-05-12 21:31:38",
-      "tags": [
-        "市場"
-      ],
-      "text": "黃金礦業企業的美股上市股價隨金價下跌走低。"
-    },
-    {
-      "id": "4875361",
-      "time": "2026-05-12 21:31:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "ZoomInfo 股價大跌 34%，創歷史新低。"
-    },
-    {
-      "id": "mkt:019e1c62-4189-7dd3-a755-4fec4dbc753a",
-      "time": "2026-05-12 21:31:01",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Wall Street (US)",
-        "S&P500",
-        "Impact bearish",
-        "Nasdaq100",
-        "Dow"
-      ],
-      "text": "US STOCKS OPEN LOWER: DOW -0.03%, S&P 500 -0.32%, NASDAQ -0.71%"
-    },
-    {
-      "id": "4875360",
-      "time": "2026-05-12 21:31:00",
-      "tags": [
-        "市場"
-      ],
-      "text": "HIMS股票開盤暴跌14%，創下2月9日以來最大單日跌幅。"
-    },
-    {
-      "id": "4875359",
-      "time": "2026-05-12 21:30:47",
-      "tags": [
-        "市場"
-      ],
-      "text": "WENDY'S股價上漲15%，創下2月26日以來盤中最高水平。"
-    },
-    {
-      "id": "4875358",
-      "time": "2026-05-12 21:30:45",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股開盤：三大股指齊跌】道指跌0.05%，標普500指數跌0.34%，納指跌0.75%。閃迪跌4.77%，英特爾跌4.74%，高通跌4.24%，泰瑞達跌4.24%，林氏研究跌4.14%。“七姐妹”方面：蘋果漲0.20%，微軟漲0.17%，谷歌跌0.46%，特斯拉跌0.73%，Meta Platforms跌0.76%，亞馬遜跌0.88%，英偉達跌0.91%。"
-    },
-    {
-      "id": "mkt:019e1c61-a486-7dd3-a755-4028fd68790b",
-      "time": "2026-05-12 21:30:10",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "TRUMP: CHINA'S STRONG, BUT WE'RE STRONGER THAN CHINA MILITARILY"
-    },
-    {
-      "id": "4875357",
-      "time": "2026-05-12 21:29:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "【第十二屆亞太經合組織食品安全合作論壇會議在上海舉行】據海關釋出，5月12日，第十二屆亞太經合組織（APEC）食品安全合作論壇（FSCF）會議在中國上海舉行。海關總署副署長王軍、APEC中國高官程烈出席會議並致開幕辭。會議回顧總結了亞太區域食品安全合作成果，交流了各經濟體監管工作成效，共同探討以企業資源計劃（ERP）智慧化聯網監管、雲端二維碼追蹤等為代表的科技賦能區域食品安全治理的新路徑。會議期間舉辦“智慧食安”主題展陳，透過圖文實物相結合的方式，綜合展示了中國海關在食品安全智慧監管領域的最新成果，與會代表透過AI智慧眼鏡、VR裝置等，體驗了智慧裝備在進境糧食檢查、進口食品標籤驗核等場景中的應用。"
-    },
-    {
-      "id": "4875356",
-      "time": "2026-05-12 21:29:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：確信伊朗百分之百會停止鈾濃縮活動。"
-    },
-    {
-      "id": "mkt:019e1c60-b9d4-7dd3-a755-3ac79986eac8",
-      "time": "2026-05-12 21:28:45",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "TRUMP: 100% WE GET IRAN'S NUCLEAR DUST"
-    },
-    {
-      "id": "4875355",
-      "time": "2026-05-12 21:28:33",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：我們百分之百能得到伊朗的核塵埃。"
-    },
-    {
-      "id": "4875354",
-      "time": "2026-05-12 21:28:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國防部長赫格塞思：我們正在贏得伊朗戰爭。"
-    },
-    {
-      "id": "4875353",
-      "time": "2026-05-12 21:28:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：美國正與伊朗官員進行直接溝通，我們並不急於達成協議。"
     }
   ]
 }
