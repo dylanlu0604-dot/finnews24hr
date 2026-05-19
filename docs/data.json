@@ -1,7 +1,92 @@
 {
-  "updated": "2026-05-19 10:01:05",
-  "count": 15596,
+  "updated": "2026-05-19 10:05:06",
+  "count": 15600,
   "items": [
+    {
+      "id": "4886953",
+      "time": "2026-05-19 10:04:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【機構：Q1全球大尺寸互動平板顯示面板出貨量增長5.0%】根據洛圖科技（RUNTO）資料顯示，2026年第一季度，全球大尺寸互動平板顯示面板出貨量為76.2萬片，同比增長5.0%；出貨面積為125.9萬平方米，同比增長7.4%。"
+    },
+    {
+      "id": "4886952",
+      "time": "2026-05-19 10:03:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：日產計劃將中國製造的電動汽車出口至加拿大。"
+    },
+    {
+      "id": "4886951",
+      "time": "2026-05-19 10:02:55",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "三星電子股價下跌4.3%。"
+    },
+    {
+      "id": "4886950",
+      "time": "2026-05-19 10:02:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣加權股價指數下跌1%至40,480.24點。"
+    },
+    {
+      "id": "4886949",
+      "time": "2026-05-19 10:02:28",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "三井住友、富士通、軟銀集團達成聯盟協議，共同打造日本自主研發的可持續醫療保健平臺。"
+    },
+    {
+      "id": "4886948",
+      "time": "2026-05-19 10:02:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PVC連續主力合約日內跌1%，現報5020.00元。"
+    },
+    {
+      "id": "4886947",
+      "time": "2026-05-19 10:01:51",
+      "tags": [],
+      "text": "創業板指盤中跌幅擴大至2％，深證成指現跌1.5％，滬指現跌0.3％。CPO、儲存晶片等板塊跌幅居前。"
+    },
+    {
+      "id": "te:economy:551757",
+      "time": "2026-05-19 10:01:01",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Consumer Confidence MoM",
+        "Importance 2"
+      ],
+      "text": "Australia Consumer Mood Recovers from 2-1/2-Year Low — Australia’s Westpac–Melbourne Institute Consumer Sentiment Index rose 3.5% in May to 83.0, rebounding from April’s 2-1/2-year low of 80.1. The rebound was supported by the government’s temporary halving of the fuel excise tax, cushioning households from the central bank’s third 25bp hike this year in early May. Household finances showed improvement, with assessments versus a year earlier up 9.0% to 72.8 and 12-month expectations climbing 10.7% to 93.0. The “time to buy a major item” measure gained 2.8% to 85.6, while job-loss fears eased 5.2% to 140.0. Sentiment toward the broader economy weakened, however, with the one-year outlook down 1.5% to 74.2 and the five-year view slipping 2.2% to 89.3, the weakest combined reading since November 2022. Westpac economist Matthew Hassan said the budget’s impact was mixed, warning that inflation risks, particularly from rising energy costs feeding into other prices, could keep pressure on the Reserve Bank to tighten further."
+    },
+    {
+      "id": "4886946",
+      "time": "2026-05-19 10:00:54",
+      "tags": [
+        "兩會"
+      ],
+      "text": "【山東省臨沂市政協原副主席張豔麗被開除公職】中央紀委國家監委網站5月19日通報，據山東省紀委監委訊息：經山東省委批准，山東省監委對臨沂市政協原副主席張豔麗嚴重職務違法問題進行了立案調查。經查，張豔麗無視中央八項規定精神，違規收受禮品、禮金、消費卡，接受可能影響公正行使公權力的宴請；違反組織要求，隱瞞不報個人有關事項，在幹部人事工作中違規為他人謀取利益；違反廉潔要求，利用職權為親屬經營活動謀取利益；違反工作要求，違規干預和插手市場經濟活動；違反公職人員道德要求，不重視家風建設；利用職務便利為他人在藥品銷售、專案承攬等方面謀利，並非法收受鉅額財物。張豔麗行為已構成嚴重職務違法並涉嫌受賄犯罪，且在黨的十八大後不收斂、不收手，性質嚴重，影響惡劣，應予嚴肅處理。依據《中華人民共和國監察法》《中華人民共和國公職人員政務處分法》等有關規定，由山東省監委給予其開除公職處分；按規定撤銷其榮譽稱號；沒收其違法所得；將其涉嫌犯罪問題移送檢察機關依法審查起訴，所涉財物一併移送。"
+    },
+    {
+      "id": "4886945",
+      "time": "2026-05-19 10:00:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "【三大運營商再度走強 中國電信漲超8%】三大運營商盤中再度走強，中國電信漲超8%，中國聯通、中國移動均漲超2%。"
+    },
     {
       "id": "mkt:019e3df6-9062-7aa9-b721-caf6fda45c0a",
       "time": "2026-05-19 10:00:29",
@@ -140908,63 +140993,6 @@
         "其他"
       ],
       "text": "【我國農村供水保障程度顯著提升】從水利部瞭解到，“十四五”以來，我國農村供水保障程度顯著提升，提前兩年實現“十四五”規劃目標。截至2025年底，全國農村自來水普及率達到96%，規模化供水工程覆蓋農村人口比例達到71%，縣域統管比例達到72%。截至2025年底，全國現有381.6萬處農村供水工程，形成覆蓋8.5億農村人口的供水保障網路，邊遠山區和用水困難地區逐步用上自來水。"
-    },
-    {
-      "id": "4873847",
-      "time": "2026-05-12 10:02:42",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【房地產板塊反覆活躍 深振業A觸及漲停】房地產板塊反覆活躍，深振業A觸及漲停，深深房A漲超8%，濱江集團、深物業A、招商蛇口、特發服務跟漲。"
-    },
-    {
-      "id": "4873846",
-      "time": "2026-05-12 10:02:32",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印尼盾<IDR=>在早盤交易中跌至1美元兌17480印尼盾的歷史低點。"
-    },
-    {
-      "id": "4873845",
-      "time": "2026-05-12 10:02:10",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【半導體裝置股延續強勢 芯源微逼近20cm漲停創歷史新高】半導體裝置概念延續昨日強勢，芯源微一度逼近20cm漲停，創歷史新高，晶升股份、矽電股份漲超10%，華海清科、中科飛測、金海通、華峰測控跟漲。"
-    },
-    {
-      "id": "4873844",
-      "time": "2026-05-12 10:01:24",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印尼股市基準指數上漲1%至6977.08點。"
-    },
-    {
-      "id": "te:markets:549805",
-      "time": "2026-05-12 10:01:24",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Hong Kong",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Hong Kong Shares Edge Higher Despite Geopolitical Jitters — The Hang Seng Index rose 155 points, or 0.6%, to 26,560 on Tuesday, extending gains from the previous session as optimism surrounding artificial intelligence-related shares helped support regional sentiment despite lingering geopolitical concerns. The advance came after reports indicated investors remained bullish on the AI trade even as the US and Iran failed to reach a peace agreement, while oil prices climbed amid the ongoing stalemate. In Hong Kong, financial and technology shares led gains, with continued buying interest in AI-related and growth stocks helping to offset broader caution. Notable movers included Kuaishou Technology (10.1%), Tencent Holdings (0.1%), Semiconductor Manufacturing International Corporation (1.4%), AIA Group (0.4%), and Techtronic Industries Co. (0.7%). Despite the advance, trading remained cautious as investors monitored Middle East tensions and positioned ahead of upcoming economic data from Hong Kong for clearer growth signals."
-    },
-    {
-      "id": "4873838",
-      "time": "2026-05-12 10:01:12",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印尼股市基準指數開盤上漲0.6%，至6946.85點。"
     }
   ]
 }
