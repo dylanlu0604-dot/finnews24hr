@@ -1,7 +1,175 @@
 {
-  "updated": "2026-05-19 09:33:32",
-  "count": 15583,
+  "updated": "2026-05-19 09:37:31",
+  "count": 15586,
   "items": [
+    {
+      "id": "mkt:019e3de0-ce46-7aa9-b721-61a15f022fe7",
+      "time": "2026-05-19 09:36:43",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "JAPAN ALUMINIUM STOCKS AT KEY PORTS 249,500 MT AT END-APRIL VS 279,800 MT AT END-MARCH-MARUBENI"
+    },
+    {
+      "id": "mkt:019e3de0-998c-7aa9-b721-5a035d3aee42",
+      "time": "2026-05-19 09:36:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact mixed",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "JAPAN ECONOMY MINISTER: ADMINISTRATION'S STANCE IS TO APPROPRIATE IN ANNUAL BUDGET ANY PERMANENT SPENDING MEASURES, WON'T RULE OUT EXTRA BUDGET TO FUND EMERGENCY, NECESSARY MEASURES"
+    },
+    {
+      "id": "te:markets:551747",
+      "time": "2026-05-19 09:36:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "South Korean Shares Drop Sharply — The benchmark KOSPI fell more than 3% to around 7,270 on Tuesday, reversing gains the previous session, pressured by persistent geopolitical and inflation concerns. Investors remained cautious amid elevated crude oil prices and rising global bond yields even after US President Donald Trump delayed a planned attack on Iran. Technology and semiconductor stocks led the decline following overnight weakness in US tech shares, with Samsung Electronics (-2.9%) falling sharply amid lingering labor dispute concerns. SK hynix (-2.6%) and SK Square (-5.2%) also posted steep losses, along with Hyundai Motor (-7.8%), LG Energy Solution (-2.2), Doosan Enerbility (-4.4%), and Kia Corporation (-4.4%). In contrast, defense-related stocks outperformed, with Hanwha Aerospace surging more than 6% as escalating Middle East tensions boosted optimism over Korean military exports and air defense demand."
+    },
+    {
+      "id": "te:markets:551746",
+      "time": "2026-05-19 09:36:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "US Natgas Prices Hover Near 7-Week High — US natural gas futures edged up to $3.02 per MMBtu, hovering near a seven-week high, amid hotter weather forecasts and falling output. High temperatures are expected across much of the southern and eastern US through midweek that could reach record highs, potentially boosting gas demand from electricity providers to meet increased cooling needs. On the supply side, production continued to decline, as some energy companies, such as EQT, curtailed output in response to persistently weak spot prices. Meanwhile, flows to major US export facilities eased from a monthly record of 18.8 bcfd in April to around 17.0 bcfd so far in May, amid seasonal maintenance at plants including Golden Pass and Freeport LNG. In other developments, reports suggested that three US LNG vessels are anticipated to arrive in China in June, the first such shipments since February 2025."
+    },
+    {
+      "id": "te:markets:551745",
+      "time": "2026-05-19 09:36:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Heating Oil Futures Slip — Heating oil futures in the US slipped to around $4.0 per gallon, giving back gains from the previous session, after the US called off a planned strike on Iran, easing concerns over an imminent escalation that could further disrupt global energy exports. However, uncertainty remains elevated as earlier talks have failed to yield meaningful progress, while the Strait of Hormuz remains effectively disrupted. Regional shipping flows have been halted since the conflict began in March, tightening global refinery supply conditions and helping propel heating oil futures to a recent peak of $4.6 per gallon. Meanwhile, the International Energy Agency has recently warned that refinery throughput is expected to decline in Q2, while distillate markets remain extremely tight, with diesel and heating oil refining margins staying historically elevated, supported in part by strong transportation fuel demand."
+    },
+    {
+      "id": "4886899",
+      "time": "2026-05-19 09:36:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【半導體板塊盤初走弱 晶升股份跌超8%】半導體板塊盤初走弱，晶升股份跌超8%，興福電子、晶合整合、天嶽先進等股跟跌。"
+    },
+    {
+      "id": "4886898",
+      "time": "2026-05-19 09:35:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【港股百度集團-SW盤初漲超2%，最高報137.6港元】港股百度集團-SW盤初漲超2%，最高報137.6港元。訊息面上，百度AI（人工智慧）業務一季度收入達136億元，佔一般性業務收入的52%，首次突破半數大關。"
+    },
+    {
+      "id": "4886897",
+      "time": "2026-05-19 09:35:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐約州州長：長島鐵路分階段服務將於明日中午開始恢復。"
+    },
+    {
+      "id": "4886896",
+      "time": "2026-05-19 09:35:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "大盤主力淨流出超100億。"
+    },
+    {
+      "id": "4886895",
+      "time": "2026-05-19 09:35:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本經濟財政大臣：政府的立場是在年度預算中撥出任何永久性支出措施，不排除追加預算以資助緊急必要措施。"
+    },
+    {
+      "id": "4886894",
+      "time": "2026-05-19 09:35:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "丸紅商事資料顯示：截至4月末，日本主要港口鋁庫存為24.95萬噸，3月末庫存為27.98萬噸。"
+    },
+    {
+      "id": "4886893",
+      "time": "2026-05-19 09:34:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐約州州長：大都會運輸署已與長島鐵路的五個工會達成公平協議，該協議既為工人漲薪，同時也保障了乘客和納稅人的利益。"
+    },
+    {
+      "id": "4886892",
+      "time": "2026-05-19 09:34:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普將於週二下午4:30（美國東部時間）簽署行政命令。"
+    },
+    {
+      "id": "4886891",
+      "time": "2026-05-19 09:33:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【騰訊音樂港股一度漲超5%】騰訊音樂-SW港股一度漲超5%，現報35.78港元。訊息面上，騰訊音樂完成收購喜馬拉雅。"
+    },
+    {
+      "id": "4886890",
+      "time": "2026-05-19 09:33:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本經濟財政大臣：必須確保市場對日本財政狀況保持信心，將密切關注每日市場走勢。"
+    },
+    {
+      "id": "mkt:019e3ddf-5bc2-7aa9-b721-5738250e0e3d",
+      "time": "2026-05-19 09:33:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bearish"
+      ],
+      "text": "CHINEXT INDEX DOWN OVER 1%"
+    },
+    {
+      "id": "4886889",
+      "time": "2026-05-19 09:33:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指跌1.01%，現報3875.467點；上證指數跌0.36%，現報4116.496點；深證成指跌0.74%，現報15415.838點。"
+    },
+    {
+      "id": "4886888",
+      "time": "2026-05-19 09:33:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【諾誠健華：新型TYK2抑制劑ICP-488治療CLE II期臨床試驗完成首例患者入組】5月19日，諾誠健華宣佈，公司自主研發的新型TYK2抑制劑ICP-488治療皮膚型紅斑狼瘡（CLE）II期臨床試驗在中國完成首例患者入組。"
+    },
     {
       "id": "4886887",
       "time": "2026-05-19 09:32:52",
@@ -140690,135 +140858,6 @@
         "其他"
       ],
       "text": "【哥倫比亞考卡省一村莊發生爆炸 致1死6傷】據哥倫比亞考卡省政府訊息，當地時間11日，哥倫比亞考卡省阿爾赫利亞市埃爾普拉泰阿多村發生爆炸，造成1人死亡、6人受傷。據悉，爆炸發生在反對派武裝“中央參謀部”弗蘭克·戈麥斯派系的一個爆炸物倉庫。當地正在調查此次爆炸是否屬於蓄意襲擊。"
-    },
-    {
-      "id": "4873716",
-      "time": "2026-05-12 09:37:15",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨黃金失守4730美元/盎司，日內跌0.13%。"
-    },
-    {
-      "id": "4873712",
-      "time": "2026-05-12 09:37:00",
-      "tags": [
-        "市場"
-      ],
-      "text": "三大指數集體翻綠，滬指下跌0.19%，深證成指下跌0.3%，創業板指下跌0.04%。滬深京三市下跌個股超3800只。"
-    },
-    {
-      "id": "4873711",
-      "time": "2026-05-12 09:36:39",
-      "tags": [
-        "市場"
-      ],
-      "text": "【部分港股光通訊股走強 長飛光纖光纜漲超6%】截至發稿，長飛光纖光纜(06869.HK)漲6.25%，劍橋科技(06166.HK)漲5.49%，曦智科技-P(01879.HK)漲1.54%。"
-    },
-    {
-      "id": "te:economy:549794",
-      "time": "2026-05-12 09:36:25",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Fiji",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Fiji Consumer Prices Rise for 1st Time in 15 Months — Consumer prices in Fiji increased 1.8% year-on-year in April 2026, rebounding from a 0.8% fall in March. It was the first inflation reading since January 2025, after three consecutive months of deflation and stagnation in December. The inflation was mainly driven by a rebound in transport prices (1.1% vs -8.8%), while food inflation stabilised after declining 1.9% in March. Upward price pressures were also seen in alcoholic beverages and tobacco (12.9% vs 12.2% in March), education (0.4% vs 0.4%), and miscellaneous goods and services (3.2% vs 3.7%). Downward pressures came from housing (-0.8% vs -3.0%), clothing and footwear (-1.2% vs -1.9%), recreation and culture (-3.2% vs -3.1%), and furnishings, household equipment, and routine household maintenance (-1.0% vs -0.8%). On a monthly basis, consumer prices rose 2.1% in April after edging up 0.1% in March, marking the fastest increase since August 2023."
-    },
-    {
-      "id": "4873707",
-      "time": "2026-05-12 09:36:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "大盤主力淨流出超100億。"
-    },
-    {
-      "id": "4873706",
-      "time": "2026-05-12 09:35:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "據天壇官微訊息，天壇公園5月13日至14日暫停開放。"
-    },
-    {
-      "id": "4873705",
-      "time": "2026-05-12 09:35:38",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "火電板塊短線拉昇，大唐發電漲停，甘肅能源、華電遼能、贛能股份、晉控電力、深南電A等紛紛走高。"
-    },
-    {
-      "id": "4873704",
-      "time": "2026-05-12 09:35:33",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內跌幅達1.01%，成分股中，瀾起科技跌4.32%，中科星圖跌3.15%，華大智造跌2.77%，龍芯中科跌2.53%。"
-    },
-    {
-      "id": "4873703",
-      "time": "2026-05-12 09:35:10",
-      "tags": [
-        "市場"
-      ],
-      "text": "滬指、深成指翻綠，創業板指漲幅縮窄至0.37%。"
-    },
-    {
-      "id": "mkt:019e19d2-cb21-7dd9-b927-fafe3a524f6c",
-      "time": "2026-05-12 09:35:05",
-      "tags": [
-        "MKT News",
-        "005930.KS",
-        "Impact bearish"
-      ],
-      "text": "SHARES OF SAMSUNG ELECTRONICS FALL 3%"
-    },
-    {
-      "id": "4873702",
-      "time": "2026-05-12 09:35:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓股跳水，韓國綜合指數跌幅擴大至3%，三星電子跌近5%。"
-    },
-    {
-      "id": "mkt:019e19d1-d5c5-7dd9-b927-f45398e1ba9c",
-      "time": "2026-05-12 09:34:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "SEOUL STOCK MARKET'S KOSPI FALLS 2%"
-    },
-    {
-      "id": "4873701",
-      "time": "2026-05-12 09:33:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本零食生產商卡樂比表示，受中東局勢緊張影響，原材料供應不穩定，因此將臨時為部分產品改用黑白包裝。"
-    },
-    {
-      "id": "4873700",
-      "time": "2026-05-12 09:33:48",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "三星電子股價下跌3%。"
-    },
-    {
-      "id": "4873699",
-      "time": "2026-05-12 09:33:40",
-      "tags": [
-        "市場"
-      ],
-      "text": "CPO板塊走強，德科立漲超10%，紅版科技4連板，可川科技漲停，方正科技、源傑科技、中富電路跟漲。"
     }
   ]
 }
