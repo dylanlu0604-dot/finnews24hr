@@ -1,7 +1,34 @@
 {
-  "updated": "2026-05-20 02:18:33",
-  "count": 15610,
+  "updated": "2026-05-20 02:22:32",
+  "count": 15607,
   "items": [
+    {
+      "id": "4888783",
+      "time": "2026-05-20 02:21:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯：我們理順中東事務後，物價將會回落。"
+    },
+    {
+      "id": "4888782",
+      "time": "2026-05-20 02:20:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯：無論特朗普對伊朗做出何種決定，都不會永遠持續下去。"
+    },
+    {
+      "id": "te:markets:552026",
+      "time": "2026-05-20 02:20:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Silver Falls by 4.23% — Top commodity losers are Silver (-4.23%), Lithium Carbonate (-2.61%), Platinum (-1.90%) and Gold (-1.46%)."
+    },
     {
       "id": "4888781",
       "time": "2026-05-20 02:16:44",
@@ -140917,58 +140944,6 @@
         "Impact bearish"
       ],
       "text": "S&P 500 INDEX TRIMS LOSS TO 0.5%, HAD EARLIER FALLEN AS MUCH AS 1%"
-    },
-    {
-      "id": "4875760",
-      "time": "2026-05-13 02:21:50",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【俄經濟發展部部長：過去三年俄經濟增長10%】當地時間5月12日，俄羅斯總統普京會見俄經濟發展部部長列舍特尼科夫。列舍特尼科夫向普京彙報了俄羅斯經濟發展情況。列舍特尼科夫表示，過去三年俄羅斯經濟增長了10%。列舍特尼科夫指出，當前經濟形勢為央行放鬆貨幣政策提供了條件，並強調，俄羅斯經濟形勢正在趨於穩定。（央視）"
-    },
-    {
-      "id": "4875759",
-      "time": "2026-05-13 02:20:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊媒披露伊美新一輪談判先決條件】當地時間5月12日，據伊朗法爾斯通訊社援引知情人士訊息報道，伊朗對與美國新一輪談判提出的5個先決條件包括：結束所有戰線的戰爭，尤其是在黎巴嫩；解除對伊朗的制裁；解凍伊朗資金；賠償戰爭造成的損失；承認伊朗對霍爾木茲海峽的主權。該知情人士表示，如果這些條件未能實現，伊美將無法進入新的談判階段。（ CCTV國際時訊 ）"
-    },
-    {
-      "id": "te:markets:550073",
-      "time": "2026-05-13 02:20:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Silicon Falls by 3.79% — Top commodity losers are Silicon (-3.79%), Iron Ore CNY (-1.22%) and Gold (-1.12%). Gains are led by Lithium Carbonate (2.43%) and Copper (2.12%)."
-    },
-    {
-      "id": "mkt:019e1d6a-c9e5-7772-877c-e578256d41f5",
-      "time": "2026-05-13 02:19:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "GOOGLE TO HIRE HUNDREDS OF ENGINEERS TO HELP CUSTOMERS ADOPT ITS AI- THE INFORMATION"
-    },
-    {
-      "id": "4875758",
-      "time": "2026-05-13 02:19:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：谷歌將招聘數百名工程師，助力客戶落地採用其人工智慧技術。"
-    },
-    {
-      "id": "4875757",
-      "time": "2026-05-13 02:19:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "【匈牙利新政府宣誓就職】匈牙利總理毛焦爾·彼得領導的新一屆政府12日在國會宣誓就職。毛焦爾在國會發言說，新政府的目標是建設一個運轉良好、富有人文關懷的匈牙利，並“重建近年來流失的政府公信力”。（新華社）"
     }
   ]
 }
