@@ -1,7 +1,603 @@
 {
-  "updated": "2026-05-19 10:32:35",
-  "count": 15625,
+  "updated": "2026-05-19 11:24:24",
+  "count": 15628,
   "items": [
+    {
+      "id": "te:economy:551787",
+      "time": "2026-05-19 11:23:16",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Australia 10Y Yield Extends Fall — Australia’s 10-year government bond yield fell to around 5% on Tuesday, extending losses from the previous session and moving further away from a recent fifteen-year high, as investors moved to safe-haven assets amid RBA warnings that the Middle East conflict could exacerbate inflationary pressures and weaken economic growth. RBA Assistant Governor Sarah Hunter warned that persistently elevated inflation expectations remain a key risk to the economy. She noted that if these expectations become entrenched, the central bank may need to keep monetary policy tighter for longer and a sharper economic slowdown. Meanwhile, Australia’s Westpac–Melbourne Institute Consumer Sentiment Index rose 3.5% mom to 83 in May 2026, rebounding from April’s 2½-year low of 80.1. The improvement was partly supported by temporary government relief from the halving of the fuel excise tax, which helped ease cost-of-living pressures on households already affected by earlier interest rate increases."
+    },
+    {
+      "id": "4887055",
+      "time": "2026-05-19 11:22:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國海岸警衛隊：海岸警衛隊及協作方正在應對夏威夷檀香山阿拉威港的漏油事件。"
+    },
+    {
+      "id": "4887054",
+      "time": "2026-05-19 11:22:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：英特爾敦促PC製造商在晶片短缺期間採用尖端CPU。"
+    },
+    {
+      "id": "4887053",
+      "time": "2026-05-19 11:21:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家醫保局：創新藥獲批“闖關”醫保目錄的最後時限較往年的6月30日大幅提前】國家醫保局近日透露，2026年國家基本醫保目錄、商業健康保險創新藥品目錄調整將於本月底啟動。今年目錄調整方案在申報時間、申報條件、參照藥預溝通及商保創新藥目錄銜接等方面出現了多處重要變化。國家醫保局醫藥服務管理司司長黃心宇表示，預申報的制度設計主要是為了給創新藥進入目錄提供更具彈性的時間視窗。今年新增部分目錄外藥品申報條件，去年納入首版商業健康保險創新藥品目錄的藥品可以進入基本醫保目錄談判。同時，今年新增部分目錄外藥品申報條件，去年納入首版商業健康保險創新藥品目錄的藥品可以進入基本醫保目錄談判。（央視新聞）"
+    },
+    {
+      "id": "te:markets:551785",
+      "time": "2026-05-19 11:21:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Australian Dollar Weakens After RBA Minutes — The Australian dollar slipped to around $0.71 on Tuesday, reversing gains from the previous session after the Reserve Bank of Australia warned that the Middle East conflict could exacerbates inflationary pressures and weakens the economic growth. RBA Assistant Governor Sarah Hunter warned that persistently higher inflation expectations pose a significant risk to the economy, especially if energy price shocks from the conflict continue to feed through. She said policymakers are focused on preventing inflation expectations from becoming entrenched above target, noting this could eventually require tighter policy and a sharper slowdown in activity. On the economic front, Australia’s Westpac–Melbourne Institute Consumer Sentiment Index rose 3.5% mom in May to 83, rebounding from April’s 2½-year low of 80.1. The improvement was partly supported by the government’s temporary halving of the fuel excise tax, which helped cushion households from the impact of earlier interest rate hikes."
+    },
+    {
+      "id": "4887052",
+      "time": "2026-05-19 11:20:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【軟通計算機中標中國移動PC伺服器集採專案，中標金額超17.53億元】5月19日，軟通動力宣佈，軟通計算機中標中國移動2026年至2027年PC伺服器產品集中採購專案，中標金額超17.53億元。"
+    },
+    {
+      "id": "4887051",
+      "time": "2026-05-19 11:19:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【剛果（金）埃博拉疫情擴散 116例疑似病例死亡】剛果（金）政府18日說，該國東部伊圖裡省暴發的新一輪埃博拉疫情仍在擴散，目前已報告116例疑似病例死亡，另有435例疑似病例正接受觀察和治療，相關實驗室檢測和流行病學調查仍在進行。（新華社）"
+    },
+    {
+      "id": "mkt:019e3e3f-22e5-7aa9-b722-4f6c65c7d720",
+      "time": "2026-05-19 11:19:42",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bearish"
+      ],
+      "text": "【Metals Slide as US-Iran Situation Makes Outlook ‘Very Binary’】Copper fell as investors remained concerned about the global economy despite Donald Trump signaling progress in Iran talks by pausing planned strikes. After briefly rising, prices retreated amid uncertainty over the Strait of Hormuz and inflation risks. Copper, which hit a record close last week on AI and clean-energy optimism, fell as much as 0.6% to $13,507 a ton. Aluminum, zinc and nickel also declined."
+    },
+    {
+      "id": "4887050",
+      "time": "2026-05-19 11:18:29",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【AI將繼續“發力”？知名投行：標普500年內有望漲至9000點】美國知名投行Evercore ISI首席股票與量化策略師Julian Emanuel最新表示，其基本預期是標普500指數到年底將漲至7,750點，並認為在人工智慧（AI）驅動的科技、通訊服務和非必需消費品股票上漲的推動下，牛市情景下該指數有30%的機率漲至9,000點。"
+    },
+    {
+      "id": "4887049",
+      "time": "2026-05-19 11:16:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華友鈷業增資至約19億 增幅約12%】天眼查App顯示，近日，浙江華友鈷業股份有限公司發生工商變更，註冊資本由約17億人民幣增至約19億人民幣，增幅約12%。 該公司成立於2002年5月，法定代表人為陳雪華，經營範圍包括研發、生產、銷售鈷、鎳、銅氧化物，鈷、鎳、銅鹽類，鈷、鎳、銅金屬及製品，鈷粉，鎳粉，銅粉，氫氧化鈷，鈷酸鋰，氯化銨等，由華友控股集團有限公司、香港中央結算有限公司、陳雪華等共同持股。"
+    },
+    {
+      "id": "4887047",
+      "time": "2026-05-19 11:14:02",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【鋰礦概念股持續下跌 金圓股份跌超6%】鋰礦概念股盤中持續下跌，金圓股份跌超6%，國城礦業、盛新鋰能、永杉鋰業等股跟跌。"
+    },
+    {
+      "id": "4887046",
+      "time": "2026-05-19 11:13:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【我國商業航天首款低軌衛星傘天線下線】5月19日，銀河航天（北京）科技集團股份有限公司釋出訊息稱，其自主研製的大口徑可展開的傘天線下線。銀河航天介紹，這是國內首款由商業航天公司研製完成的高效能星載“傘天線”，通訊能力可以比公司此前研製的傳統機械可動QV天線通訊能力提升十倍。"
+    },
+    {
+      "id": "4887045",
+      "time": "2026-05-19 11:12:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【阿爾特拉半導體公司發生高管變更】天眼查App顯示，近日，阿爾特拉半導體技術（上海）有限公司發生工商變更，CATIA COLETTE HAGOPIAN卸任法定代表人、董事長，由Garth Ernest Bossow接任。該公司成立於2010年12月，註冊資本200萬美元，經營範圍包括軟體開發、電子專用材料研發、工程和技術研究和試驗發展等，由ALTERA HOLDINGS CORP.全資持股。"
+    },
+    {
+      "id": "te:markets:551779",
+      "time": "2026-05-19 11:11:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Taiwan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Taiwan Equities Hit Near 3-Week Lows — The TAIEX, Taiwan’s benchmark stock index, fell 522 points, or 1.3%, to 40,369 in morning trade on Tuesday, falling for the third straight session and tracking declines in U.S. futures amid a tech selloff. The broader index touched its lowest level since April 30, mainly weighed down by losses in electronic technology and technology services. The electronic technology sector dropped 1.8%, with Taiwan Semiconductor Manufacturing Company (TSMC), which accounts for more than 40% of the market’s total value, down 1.6%. On the other hand, Delta Electronics slumped 4.7% after rising 4.3% a day earlier, while MediaTek continued to decline, plunging 4.4% after shrinking 2.7% on Monday. However, markets anticipated the PBOC’s interest rate decision on Wednesday after disappointing economic data on Monday, while also monitoring developments in the Middle East conflict. Other major losers included ASE Technology Holding (6.2%), Accton Technology Corp (-4.0%), and Wiwynn Corporation (-1.2%)."
+    },
+    {
+      "id": "4887044",
+      "time": "2026-05-19 11:10:18",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部總法律顧問布萊恩·莫里西辭職。"
+    },
+    {
+      "id": "4887043",
+      "time": "2026-05-19 11:08:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【工信部印發鋼鐵行業產能置換實施辦法】《置換辦法》進一步加嚴了產能置換要求，更加突出差異化政策引導，強化了監督管理要求，從七個方面進行了修訂：一是提高置換比例；二是逐步取消不同企業間產能置換；三是設定有效期，明確方案有效期為24個月；四是規範不鏽鋼企業裝置建設；五是支援高階化、綠色化發展；六是增加產能置換方案閉環管理；七是強化政策聯動。"
+    },
+    {
+      "id": "em:qqyh_zgyh:202605193741580393",
+      "time": "2026-05-19 11:08:14",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【中國能不能做“最後貸款人”？中國人民銀行原副行長朱民：做強人民幣是全球金融體系的需要】朱民指出，金融業本身建立在資料和數字化的基礎之上，天然適配智慧體的發展。人工智慧將在金融領域快速落地，其演進速度和規模將遠超現有監管體系的承載能力，亟須前瞻性地監管佈局。同時他表示，世界已進入主要貨幣競爭的新階段。推動人民幣走強，既回應全球南方的現實需求，也契合國際貨幣體系多元化的演進方向，更是中國經濟邁向更高水平、更強競爭力的必然選擇。"
+    },
+    {
+      "id": "4887042",
+      "time": "2026-05-19 11:08:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【固德威、申港證券等成立新能源公司】企查查APP顯示，近日，廣州新聯壹號新能源有限公司成立，法定代表人為李金榮，註冊資本為5433.33萬元，經營範圍包含技術服務、技術開發、技術諮詢、技術交流、技術轉讓、技術推廣；以自有資金從事投資活動。企查查股權穿透顯示，該公司由申港證券股份有限公司、固德威等共同持股。"
+    },
+    {
+      "id": "4887041",
+      "time": "2026-05-19 11:06:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海浦東新區進口化妝品電子標籤試點啟動】據浦東釋出，5月18日下午，一“碼”煥“妝”，向“新”提“質”——浦東新區進口化妝品電子標籤試點工作在外高橋保稅區正式首發啟動。消費者掃碼即可一鍵查閱化妝品全量標籤資訊，既方便市民選購核驗，又能大幅降低企業標籤製作運營成本，同時推動監管模式向數字化、智慧化高效升級。"
+    },
+    {
+      "id": "4887040",
+      "time": "2026-05-19 11:05:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【華東地區首列中越“鐵路快通”啟運】今天，載有38個集裝箱電子料件、汽車配件、顯示器件等貨物的75128/7次列車，從蘇州西站貨場鳴笛啟程，一路向南經廣西憑祥口岸出境，駛向越南河內，為長三角區域企業成功打通直達越南、連結東盟的南向跨境物流精品通道。這是華東地區首列採用“鐵路快通”模式直達越南的班列，採用全程不換裝、不開箱的“一箱直達”運輸模式，貨物始發後無需中轉拆箱、無需在口岸海關重複申報，依託鐵路全天候執行優勢，不受惡劣天氣、道路交通影響，疊加鐵路快速通關模式，有效壓縮在途及中轉時間，同時憑藉鐵路規模化運輸優勢，切實為外貿企業實現高效通行、降本增效。"
+    },
+    {
+      "id": "mkt:019e3e31-6521-7aa9-b722-405541df22f9",
+      "time": "2026-05-19 11:04:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "JAPAN PM TAKAICHI ARRIVES AT DAEGU AIRPORT IN S. KOREA AHEAD OF SUMMIT WITH LEE IN ANDONG-YONHAP"
+    },
+    {
+      "id": "4887039",
+      "time": "2026-05-19 11:04:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股智譜跌超13%】港股智譜盤中持續下跌，現跌超13%。"
+    },
+    {
+      "id": "4887038",
+      "time": "2026-05-19 11:04:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中鎢線上：後市關注供需邊際實質性調整及大型鎢企下半月報價】中鎢線上釋出2026年5月19日鎢市場行情。鎢價持續承壓偏弱執行，壓力主要來自供應端拋售、需求端收縮以及資金面制約三個方面。在當前市場環境下，鎢的戰略資源屬性溢價有所收窄，市場定價更多由現實供需基本面和參與者情緒共同主導。供給方面，部分持貨商因資金週轉壓力及獲利了結意願，主動釋放庫存，導致市場流通貨源增加；需求方面，下游終端使用者普遍持看跌預期及避險情緒，採購訂單有所延遲或減量，進一步壓制消費支撐。當前，鎢市場貿易氛圍整體清淡，買賣價差仍舊明顯，成交活躍度較低，後市關注供需邊際實質性調整及大型鎢企下半月報價。截至發稿，65%黑鎢精礦價格報44萬元/標噸，自高位回落58.1%，較年初跌4.4%。65%白鎢精礦價格報43.9萬元/標噸，自高位回落58.2%，較年初跌4.4%。鎢粉價格報1450元/公斤，自高位回落39.6%，較年初漲34.3%。"
+    },
+    {
+      "id": "4887037",
+      "time": "2026-05-19 11:04:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄州長稱：烏克蘭襲擊了俄羅斯羅斯托夫州。"
+    },
+    {
+      "id": "4887036",
+      "time": "2026-05-19 11:03:31",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【電網裝置板塊異動拉昇 可立克5天3板】電網裝置板塊盤中異動拉昇，可立克反包漲停，走出5天3板，此前尚緯股份漲停，澤宇智慧漲超10%，泰永長征、新特電氣、北京科銳、明陽電氣跟漲。"
+    },
+    {
+      "id": "4887035",
+      "time": "2026-05-19 11:02:52",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【碳酸鋰期貨主力合約跌近4%】截至發稿，碳酸鋰期貨主力合約跌近4%。"
+    },
+    {
+      "id": "4887034",
+      "time": "2026-05-19 11:01:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "兆易創新成交額超100億元，截至發稿跌超3%。"
+    },
+    {
+      "id": "4887033",
+      "time": "2026-05-19 11:00:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國第一季度家庭信貸增至1993.1萬億韓元。"
+    },
+    {
+      "id": "mkt:019e3e2c-54e8-7aa9-b722-3f4df6a1ebe1",
+      "time": "2026-05-19 10:59:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "【China’s Aluminum Output Surge Tests Capacity and Demand Limits】China’s aluminum smelters are nearing capacity limits as producers maximize output to capitalize on strong margins and a global supply shortage linked to the Iran war. Output hit a record 129,000 tons last month, while Citigroup Inc. said aluminum has its most bullish setup in 50 years. However, weak domestic demand and rising inventories are raising overproduction concerns. Stocks have more than doubled this year to 1.37 million tons, a six-year high. China’s annual 45 million-ton capacity cap, introduced in 2017 to curb oversupply and emissions, is also being tested, with smelters using upgrades to run about 3% above nameplate capacity."
+    },
+    {
+      "id": "4887032",
+      "time": "2026-05-19 10:59:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【閃送獲杭州國資千萬元投資，切入低空配送賽道】即時配送企業閃送正加快在低空經濟領域的佈局。記者獲悉，杭州國資擬向閃送旗下全資子公司——杭州同城必應科技有限公司投資數千萬元，用以佈局低空物流配送領域，推動其從地面即時配送向“地面+低空”立體化配送體系升級。工商資料顯示，此次國資投資主體為杭州低空產業發展有限公司，該企業系杭州市實業投資集團有限公司全資子公司，是杭州首家躋身世界500強的市屬國有企業，此次投資是其低空經濟產業生態建設的重要一步。（財聞）"
+    },
+    {
+      "id": "4887031",
+      "time": "2026-05-19 10:58:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華統股份成立農牧公司 註冊資本10億元】企查查APP顯示，近日，浙江華牛農牧有限公司成立，法定代表人為盧沖沖，註冊資本為10億元，經營範圍包含畜禽收購；牲畜銷售；食用農產品初加工；飼料原料銷售；飼料新增劑銷售等。企查查股權穿透顯示，該公司由華統股份全資持股。"
+    },
+    {
+      "id": "4887030",
+      "time": "2026-05-19 10:58:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4550美元/盎司，日內跌0.18%。"
+    },
+    {
+      "id": "4887029",
+      "time": "2026-05-19 10:55:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【PCB概念震盪回升 逸豪新材20cm漲停】PCB概念日內震盪回升，逸豪新材20cm漲停，此前寶鼎科技9天6板，天山電子漲超10%，宏昌電子、廣信材料、德福科技、溫州宏豐跟漲。"
+    },
+    {
+      "id": "4887028",
+      "time": "2026-05-19 10:54:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【貴州防汛應急響應提升至三級 多地將出現大暴雨】從貴州省應急廳瞭解到，5月14日以來，貴州省出現大範圍強降雨天氣過程，多條中小河流出現超警、超保水位洪水。據氣象預報，未來12小時，黔東南州、黔西南州東部、黔南州中南部、銅仁市南部、安順市南部、貴陽市南部將出現暴雨，其中黔東南州中東部、黔西南州東南部、黔南州南部、安順市南部、銅仁市南部等地將出現大暴雨。根據《貴州省防汛抗旱應急預案》有關規定，經會商研判，省防汛抗旱指揮部決定於5月19日5時將省級防汛四級應急響應提升至三級。"
+    },
+    {
+      "id": "4887027",
+      "time": "2026-05-19 10:54:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯雅羅斯拉夫爾州州長警告民眾不要駕車前往莫斯科方向。"
+    },
+    {
+      "id": "4887026",
+      "time": "2026-05-19 10:52:57",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4550美元/盎司，日內跌0.36%。"
+    },
+    {
+      "id": "4887025",
+      "time": "2026-05-19 10:52:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯雅羅斯拉夫爾州州長稱，該州正遭受無人機襲擊。"
+    },
+    {
+      "id": "4887024",
+      "time": "2026-05-19 10:52:41",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【預告：國新辦5月22日舉行新聞釋出會 介紹第四屆中國國際供應鏈促進博覽會籌備情況】國務院新聞辦公室將於2026年5月22日（星期五）上午10時舉行新聞釋出會，請中國貿促會副會長李興乾、劉健男介紹第四屆中國國際供應鏈促進博覽會籌備情況，並答記者問。"
+    },
+    {
+      "id": "4887023",
+      "time": "2026-05-19 10:52:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【宗申機車：網傳涉及公司賽科龍AQS250低價銷售相關資訊均為不實、偽造、虛假內容，非公司釋出】5月19日，重慶宗申機車工業製造有限公司釋出宣告稱，經公司全面核查確認：網傳涉及公司的賽科龍AQS250低價銷售相關資訊均為不實、偽造、虛假內容，並非公司釋出，公司從未授權任何個人、第三方機構開展相關活動，也從未推出、承諾網傳相關政策與服務。“針對本次網路造謠、傳謠及涉嫌詐騙的違法行為，公司已第一時間固定全部證據，並同步開展全方位維權工作。”"
+    },
+    {
+      "id": "4887020",
+      "time": "2026-05-19 10:50:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【創維旗下酷開發布AI原生企業作業系統，開啟矽基管理新時代】創維集團全資子公司酷開網路於5月16日重磅釋出企業級AI作業系統Happy Work AIOS Lite MVP，以底層技術革新企業執行模式。酷開延續AI原生戰略，依託創維生態優勢，打造全鏈路AI架構，用四大智慧體打通戰略到執行的閉環，消解組織內耗與戰略失真。CEO王志國提出，企業管理將從碳基人治轉向矽基AI驅動，本次釋出兼具理論創新與落地能力，配套書籍、諮詢服務與產品試用同步上線，為企業提供一站式AI轉型方案，重塑企業服務賽道格局。"
+    },
+    {
+      "id": "4887019",
+      "time": "2026-05-19 10:50:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【智元孵化的靈巧手獨角獸融資數億】機器人靈巧手研發商臨界點近期已完成數億元人民幣融資，估值突破10億美元，正式躋身獨角獸行列。本輪融資由多家頂級投資機構聯合參與，老股東持續超額加註。融資資金將重點投入靈巧手大模型研發、開源資料集建設以及靈巧手硬體產品的持續迭代升級，加速靈巧手在工業自動化、服務機器人及特種作業等場景的規模化部署。"
+    },
+    {
+      "id": "4887018",
+      "time": "2026-05-19 10:49:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌1%，現報76.66美元/盎司。"
+    },
+    {
+      "id": "mkt:019e3e22-c555-7aa9-b722-36e4faaba7f7",
+      "time": "2026-05-19 10:48:46",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "9899.HK",
+        "Impact bullish",
+        "BILI.O"
+      ],
+      "text": "HONG KONG AI APPLICATION SHARES RISE, MEITU +6%, BILIBILI +3%"
+    },
+    {
+      "id": "4887017",
+      "time": "2026-05-19 10:48:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "滬深兩市成交額突破1.5萬億元。"
+    },
+    {
+      "id": "4887016",
+      "time": "2026-05-19 10:47:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國石油集團：因地制宜發展新質生產力 打造“熱電氫”“生精材”兩大新興支柱產業】5月18日，中國石油集團黨組召開會議，黨組書記、董事長戴厚良主持。戴厚良強調，要推動傳統產業轉型升級，因地制宜發展新質生產力，打造“熱電氫”“生精材”兩大新興支柱產業，實施好生物製造專項行動，打造發展新增長曲線。要著力高水平科技自立自強，強化原始創新和關鍵核心技術攻關，加快推進應用基礎研究，重視科研投入產出效能，推動科技創新和產業創新深度融合。將人工智慧作為重構生產要素、重塑科研方式、重組價值鏈條的核心引擎，抓好“人工智慧+”專項行動實施方案落實。要堅持產業金融定位，完善金融產品和服務體系，防範化解金融風險，推進公司資本和金融業務高質量發展，提升服務主責主業能力和服務實體經濟質效。"
+    },
+    {
+      "id": "4887015",
+      "time": "2026-05-19 10:47:21",
+      "tags": [
+        "公司",
+        "國際",
+        "原創"
+      ],
+      "text": "【蘇姿豐稱未來將有50億人每日用AI，AI已經無處不在】今日舉辦的AMD AI開發者日活動上，AMD董事長兼執行長蘇姿豐分享指出：“未來五年，將有50億人每日使用AI”。 蘇姿豐現場直言，AI已經無處不在，執行在每一臺裝置之上，它成為每一企業、每一個人的日常夥伴。（新浪科技）"
+    },
+    {
+      "id": "mkt:019e3e20-8a51-7aa9-b722-2934becba0d1",
+      "time": "2026-05-19 10:46:18",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "SOUTH KOREA'S WON WEAKENS AS MUCH AS 0.71% TO 1,503.5 PER DOLLAR"
+    },
+    {
+      "id": "4887014",
+      "time": "2026-05-19 10:46:09",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【半導體裝置板塊震盪拉昇，北方華創、中微公司盤中創新高】半導體裝置板塊震盪拉昇，北方華創、中微公司盤中創新高，拓荊科技、京儀裝備、中科飛測、微導奈米跟漲。"
+    },
+    {
+      "id": "mkt:019e3e20-3c26-7aa9-b722-2678a3c63a7c",
+      "time": "2026-05-19 10:46:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "TURNOVER ON SSE AND SZSE EXCEEDS RMB 1.5TRLN, DOWN RMB 91BLN FROM SAME TIME PREVIOUS SESSION"
+    },
+    {
+      "id": "4887013",
+      "time": "2026-05-19 10:44:57",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【美政府批准對韓國逾40億美元軍售】美國國務院18日說，批准向韓國出售軍用直升機和武裝直升機升級兩個專案，總金額超過40億美元。韓國方面尋求購買24架MH-60R海軍用直升機，以及配套的24套聲吶和8挺機槍等，合同金額30億美元。MH-60R直升機可執行多種任務，包括反潛、監視、作戰和搜救。美國國務院稱，這筆軍售將加強韓方應對“現階段和未來威脅”的能力。另外，美方批准為韓現役AH-64“阿帕奇”式武裝直升機進行升級，包括提供8套火控雷達等，專案金額為12億美元。這兩個專案仍需美國國會審批。"
+    },
+    {
+      "id": "4887012",
+      "time": "2026-05-19 10:44:52",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超1.5萬億元，較上日此時縮量912億元。"
+    },
+    {
+      "id": "4887011",
+      "time": "2026-05-19 10:43:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "韓元兌美元匯率下跌0.71%，至1503.5韓元。"
+    },
+    {
+      "id": "4887010",
+      "time": "2026-05-19 10:43:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華東醫藥新設電商子公司】企查查APP顯示，近日，華東醫藥電商（浙江）有限公司成立，法定代表人為朱勵，註冊資本為2000萬元，經營範圍包含網際網路銷售（除銷售需要許可的商品）；貨物進出口；食品進出口；寵物食品及用品批發等。企查查股權穿透顯示，該公司由華東醫藥全資持股。"
+    },
+    {
+      "id": "4887009",
+      "time": "2026-05-19 10:43:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【美式時尚品牌GUESS更換中國運營商】Authentic Brands Group與Guess?, LLC與杭州銳思海尚公司達成合作。銳思海尚將作為GUESS在中國大陸地區的核心被授權商，負責GUESS在中國市場的本地運營與發展。這是Authentic 2026年早些時候收購GUESS智慧財產權多數權益後，在中國市場落地的首個動作。杭州銳思海尚於2026年3月成立，由杭州全尚科技與逸年華盛合資創辦。全尚科技旗下擁有自主品牌對白、One Moment等，同時引入並代理Mmlg、Vera Wang等國際品牌；逸年華盛則是MLB、Hunter、Salomon、Mammut等潮流及戶外品牌的零售商。（介面新聞）"
+    },
+    {
+      "id": "4887008",
+      "time": "2026-05-19 10:42:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國發現一漢坦病毒死亡病例 無關郵輪疫情】據美國方面18日訊息，科羅拉多州日前發現的一例本地感染漢坦病毒死亡病例與“洪迪厄斯”號郵輪疫情無關。科羅拉多州公共衛生與環境部此前發表宣告稱，該死亡病例為道格拉斯縣一名成年居民。初步調查顯示，感染可能與接觸當地齧齒動物有關。目前公眾感染風險仍然較低，相關調查仍在進行中。宣告釋出於15日，未提及病例的死亡或確診日期。（央視新聞）"
+    },
+    {
+      "id": "4887007",
+      "time": "2026-05-19 10:42:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【菲律賓總統稱正採取措施防範滯脹】菲律賓總統小費迪南德·馬科斯表示，他對經濟停滯和高物價感到擔憂，但他的政府正努力抑制通脹並”維持經濟機器運轉”。他表示，政府正在採取措施控制食品通脹，包括對進口大米設定價格上限。已指示政府機構削減運營開支，以便加快對易受油價衝擊影響的行業提供紓困。他說，公共支出“是推動經濟持續運轉的關鍵，也將繼續支撐”經濟增長。馬科斯預計下半年菲律賓GDP增速將改善。"
+    },
+    {
+      "id": "4887006",
+      "time": "2026-05-19 10:40:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿聯酋航空在迪拜啟動價值51億美元航空工程設施的開工建設，新工程由中國鐵建承建，建設工程預計將於2030年代中期竣工。"
+    },
+    {
+      "id": "4887005",
+      "time": "2026-05-19 10:39:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "據船運調查機構SGS公佈資料顯示，預計馬來西亞5月1-15日棕櫚油出口量為430474噸，較上月同期出口的453941噸減少5.17%。"
+    },
+    {
+      "id": "4887004",
+      "time": "2026-05-19 10:39:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京市通州區委原書記王雲峰受賄案一審宣判】5月19日，北京市第三中級人民法院依法公開宣判北京市通州區委原書記王雲峰受賄一案，對被告人王雲峰以受賄罪判處有期徒刑十二年，並處罰金人民幣二百萬元。對被告人受賄犯罪所得及孳息予以沒收，上繳國庫。"
+    },
+    {
+      "id": "4887003",
+      "time": "2026-05-19 10:37:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【網傳“蒜薹滯銷、農戶棄收”？官方核實：誇大失真】“買五斤發十斤”“免費抽蒜薹，抽多少拿多少”。近期，網上曝出河南省開封市杞縣“蒜薹滯銷、農戶棄收”的傳言。經當地官方實地核查，“蒜薹滯銷”傳聞存在誇大與失真。據瞭解，杞縣大蒜主要分為蒜薹、蒜頭兩類種植品種，其中以蒜頭為主要收益的地塊，蒜薹價值偏低，屬於附屬農產品。疊加今年全國大蒜整體豐產，部分品相較差的蒜薹售價低，少數農戶自願放棄採收，並非“全域滯銷”。（央視）"
+    },
+    {
+      "id": "te:markets:551774",
+      "time": "2026-05-19 10:37:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Indonesia Equities Fall for 6th Session — Indonesia’s benchmark index slipped 31 points, or 0.5%, to 6,570 in Tuesday morning trade, extending losses for a sixth straight session and hovering near its weakest level since mid-2025. Sentiment was pressured by a retreat in U.S. equity futures, even as reports suggested President Trump postponed a planned strike on Iran. Locally, caution mounted as Bank Indonesia kicked off a two-day policy meeting, with expectations the board will lift rates to 5% after holding steady at 4.75% since last October. Political debate also flared after President Prabowo remarked that villagers are unaffected by rupiah weakness because they do not use U.S. dollars, drawing criticism over the government’s economic sensitivity. Sectoral losses were led by energy, non-cyclicals, and property, though gains in healthcare and cyclicals helped cap declines. Major laggards included Chandra Asri Pacific (-11.2%), Sumber Global Energy (-5.4%), Hartadinata Abadi (-4.2%), and Raharja Energi Cepu (-3.4%)."
+    },
+    {
+      "id": "4887002",
+      "time": "2026-05-19 10:35:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國地球科學研究中心（GFZ）：萬那杜群島發生6.01級地震。"
+    },
+    {
+      "id": "mkt:019e3e15-e6ed-7aa9-b722-19b29a73acd7",
+      "time": "2026-05-19 10:34:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "NIKKEI 225 CLOSES MORNING SESSION DOWN 0.6% AT 60,429.76; TOPIX CLOSES MORNING SESSION UP 0.4% AT 3,840.70"
+    },
+    {
+      "id": "te:economy:551772",
+      "time": "2026-05-19 10:34:32",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Japan 10-Year Yield Climbs After Strong GDP Growth — Japan’s 10-year government bond yield rose to around 2.75% on Tuesday, remaining close to 29-year highs after stronger-than-expected economic growth data reinforced expectations for further policy tightening. Japan’s economy expanded 0.5% quarter-on-quarter in the first quarter, accelerating from 0.2% in Q4, exceeding market forecasts of 0.4%, and marking the fastest pace of growth since Q3 2024. The data strengthened the case for additional Bank of Japan interest rate hikes, although the outlook remains uncertain as the broader economic impact of the Middle East conflict has yet to be fully reflected in the figures. Adding to hawkish sentiment, BOJ board member Kazuyuki Masu last week urged policymakers to raise rates as soon as possible, citing increasingly persistent inflation risks linked to the conflict. Investors are now focused on upcoming trade and inflation reports later this week for further insight into the strength of the Japanese economy."
+    },
+    {
+      "id": "4887001",
+      "time": "2026-05-19 10:33:09",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【機構：受儲存成本上漲影響，一季度東南亞智慧手機平均售價創歷史新高】5月19日，Omdia最新研究顯示，2026年第一季度東南亞智慧手機市場出貨量同比下降9%，總量為2160萬部。然而，市場最值得關注的並非出貨量下滑，而是平均售價（ASP）的變化：受儲存成本上漲影響，2026年第一季度，東南亞智慧手機平均售價達349美元，創歷史新高，同比上漲19%。其中，三星以460萬部出貨量和21%市場份額位居東南亞市場第一，同比增長4%；OPPO以420萬部排名第二，出貨量同比下降17%；小米位列第三，出貨370萬部，同比下滑12%。"
+    },
+    {
+      "id": "4887000",
+      "time": "2026-05-19 10:32:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數早盤收盤下跌0.6%，至60429.76點。東證指數早盤收盤上漲0.4%，至3840.70點。"
+    },
+    {
+      "id": "4886999",
+      "time": "2026-05-19 10:32:05",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "【美國再次延長對俄石油制裁豁免期限】美國財政部長貝森特18日透過社交媒體宣佈，美國財政部已決定將對俄羅斯海運石油制裁豁免期限再延長30天。 貝森特說，美國財政部正在釋出一份為期30天的臨時一般許可。 根據美國財政部外國資產控制辦公室隨後釋出的公告，美國對俄羅斯海運石油制裁豁免將被延長至美東時間6月17日。 中東戰事爆發和霍爾木茲海峽航運中斷後，外國資產控制辦公室授權允許從美東時間3月12日至4月11日對已經裝船的俄羅斯原油或石油產品進行銷售、交付和卸貨等交易，並在4月17日至5月16日延續這一豁免措施。美國此前依據國內相關法規或行政令禁止此類交易活動。(新華社)"
+    },
     {
       "id": "4886998",
       "time": "2026-05-19 10:31:39",
@@ -9,6 +605,14 @@
         "其他"
       ],
       "text": "【國家稅務總局發票資料顯示今年前四個月全國企業銷售收入保持穩步增長】國家稅務總局最新發票資料顯示，今年1—4月份，全國企業銷售收入實現穩步增長，呈現多方面亮點。——工業保持較快增長。1—4月份，工業銷售收入同比增長6.6%，其中製造業、採礦業銷售收入同比分別增長6.9%、6.4%，均保持較快增長態勢。裝備製造業持續發揮“壓艙石”作用，銷售收入同比增長7.6%，特別是計算機通訊裝置製造、電氣機械器材製造、儀器儀表製造業銷售收入同比分別增長14.7%、10.3%和9.1%。——新動能行業發展壯大。1—4月份，高技術產業銷售收入同比增長15.3%，其中高技術製造業銷售收入同比增長14.9%，佔全部製造業銷售收入的比重為18.1%，佔比較去年同期提高1.3個百分點。數字產業化活力持續釋放。1—4月份，數字經濟核心產業銷售收入同比增長9.4%，其中，數字產品製造業、數字技術應用業銷售收入同比分別增長12.9%和12.3%。——人工智慧帶動作用顯現。1—4月份，與人工智慧生產和應用直接相關的電子專用材料製造、積體電路製造銷售收入同比分別增長70%、54.4%；與人工智慧終端應用相關的智慧車載裝置、機器人銷售收入同比分別增長50.7%、27.5%。——消費潛力持續釋放。1—4月份，在“消費品以舊換新”、有獎發票等政策帶動下，通訊裝置零售銷售收入同比增長17.4%。同時，服務消費市場熱度不減，休閒觀光活動、旅行社及相關服務業、文體娛樂業銷售收入同比分別增長32%、14.6%和14%；餐飲配送服務、民宿服務銷售收入同比分別增長7.7%和14.1%。"
+    },
+    {
+      "id": "4886997",
+      "time": "2026-05-19 10:30:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廈門象嶼太平灣植物蛋白加工專案主體綜合樓封頂 預計年底試生產】據廈門象嶼訊息，近日，廈門象嶼太平灣植物蛋白加工專案（簡稱“太平灣專案”）主體綜合樓順利封頂，並正加速從土建施工向裝置安裝階段過渡。該專案位於太平灣合作創新區糧油供應鏈產業園，總投資約10億元，佔地面積130.31畝。太平灣專案集植物蛋白加工、倉儲、貿易、物流於一體，全面建成投產後，預計年營業收入超60億元，年大豆加工能力達180萬噸，將顯著提升東北地區蛋白飼料及食用油脂的保供能力。按計劃，專案將於12月底正式進入試生產階段。"
     },
     {
       "id": "4886996",
@@ -140676,569 +141280,6 @@
         "公司"
       ],
       "text": "【遠景能源、包頭國資等成立碳足跡科技公司】企查查APP顯示，近日，包頭正信瑞騏遠景碳足跡科技有限公司成立，法定代表人為崔江峰，註冊資本為1000萬元，經營範圍包含：資訊科技諮詢服務；環保諮詢服務；節能管理服務；軟體開發；認證服務；電子認證服務等。企查查股權穿透顯示，該公司由包頭正信投資集團有限公司、遠景能源有限公司全資子公司內蒙古新遠景集團有限公司等共同持股。"
-    },
-    {
-      "id": "mkt:019e1a36-c2c0-7dd9-b928-6b479b1be814",
-      "time": "2026-05-12 11:24:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "REPUBLICAN ATTORNEYS GENERAL ASK SEC TO SCRUTINIZE SAM ALTMAN'S INVESTMENTS BEFORE OPENAI GOES PUBLIC -- WSJ"
-    },
-    {
-      "id": "4874072",
-      "time": "2026-05-12 11:22:49",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【電力板塊持續走強 華電遼能股價創歷史新高】電力板塊持續走強，華電遼能漲逾7%，股價創歷史新高；大唐發電五連板，韶能股份、太陽能、晉控電力等漲停。"
-    },
-    {
-      "id": "4874071",
-      "time": "2026-05-12 11:21:28",
-      "tags": [
-        "觀點",
-        "國際"
-      ],
-      "text": "【花旗：維持快手“買入”評級，分拆能釋放可靈的價值】花旗發表研報指，有媒體報道快手計劃分拆其人工智慧(AI)影片生成單元可靈(Kling)，並計劃於明年進行IPO。根據報道，快手已就可靈的上市前融資與潛在投資者進行洽談，並基於2027年第一季預計約13億美元的年度經常性收入(ARR)目標，尋求200億美元的估值。該行對此未經證實報道不感驚訝，認為快手作為行業領導者，以及市場對AI股的強烈情緒，分拆能釋放可靈的價值，並解釋了上週股價急升。根據SensorTower資料，可靈的手機應用收入動能近期已回升，主要由美國市場帶動，該行相信下一個重大更新可能會在6月6日或之前釋出，即可靈一週年。花旗給予快手目標價72港元，維持“買入”評級。"
-    },
-    {
-      "id": "4874070",
-      "time": "2026-05-12 11:20:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "【抖音集團：2026年真人短劇的保底扶持預算超15億元】5月11日至5月13日，首屆短劇產業大會在長沙舉行。抖音集團短劇版權中心在大會上公佈的資料顯示：真人短劇日均消費時長一年內增長近三倍，全網播放量突破10億的真人短劇超過1100部，內容品類從去年的44個拓展至65個，系列劇消費時長佔比從6%攀升至15%。抖音集團短劇版權中心內容合作負責人華越昇表示，平臺將圍繞四大方向提供精準扶持：一是針對真人劇核心品類，全面調高內容分成比例；二是設立單部最高150萬元的頭部劇激勵政策；三是推出最高20%的續作激勵；四是設立2億元專項資金，扶持現實主義、懸疑、都市群像等創新與差異化內容。“2026年真人短劇的保底扶持預算超15億元，部均保底金額較去年提升約60%。”"
-    },
-    {
-      "id": "4874069",
-      "time": "2026-05-12 11:19:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【工業氣體概念持續走弱 華特氣體跌近10%】工業氣體概念持續走弱，華特氣體跌近10%，金宏氣體跌逾7%，僑源股份、蜀道裝備、昊華科技、九豐能源等跟跌。"
-    },
-    {
-      "id": "te:economy:549834",
-      "time": "2026-05-12 11:18:54",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "AUS 10Y Yield Rises Above 5% Ahead of Budget — Australia’s 10-year government bond yield rose above 5%, moving toward multi-decade highs as persistent uncertainty over the Middle East conflict kept inflation concerns elevated, while investors await the federal budget for guidance on future issuance. Australia’s government is set to unveil its annual budget later today, with expectations of a narrower-than-forecasted deficit of around A$25 billion, or 0.8% of GDP. The budget is expected to emphasize spending restraint and signal a potential pullback in bond issuance. Commonwealth Bank of Australia estimates issuance could fall to about A$115 billion in fiscal 2027, down from roughly A$125 billion this year. Some analysts also note that a lower government cash balance would make Australian debt more attractive, supporting demand if supply pressures ease. Meanwhile, ongoing difficulties in US–Iran diplomacy and a potential resumption of military operations in the conflict, kept energy prices and inflation risks elevated."
-    },
-    {
-      "id": "4874068",
-      "time": "2026-05-12 11:18:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "【《智慧體賦能汽車研發設計白皮書——從工具輔助到智慧原生（2026）》預釋出：推動整車研發週期從36—48個月向18—24個月邁進】2026年5月11日，《智慧體賦能汽車研發設計白皮書——從工具輔助到智慧原生（2026）》在中國汽車工業協會5月資訊釋出會上預釋出。由中國汽車工業協會和阿爾特汽車聯合主編，一汽、長安、北汽、奇瑞、長城、理想、蔚來等車企共同參與編制的《智慧體賦能汽車研發設計白皮書——從工具輔助到智慧原生（2026）》，正式版將於2026年7月中國汽車論壇亮相。白皮書核心成果集中在四個方面：一是明確價值定位。智慧體可實現研發全鏈路提效、知識資產化、研發正規化重構、軟體自主可控四大核心價值，推動整車研發週期從36—48個月向18—24個月邁進，把工程師從重複勞動中解放出來，聚焦創新設計與效能突破。二是構建技術底座。提出“大模型+工業軟體+雲原生+智慧體”四維一體底座與“基礎設施—演算法模型—智慧體工具—平臺生態”四層架構，透過通專融合解決通用AI在汽車工業的可靠性、可解釋性、工程約束等難題。三是落地六大場景。圍繞知識工程、多模態生成、科學計算模擬、三維幾何、研發協同、工程技能自動化，形成覆蓋造型、設計、模擬、驗證、工藝全流程的智慧體應用矩陣，可直接賦能企業提質降本增效。四是規劃實施路徑。按“能力建設期—場景規模化—平臺生態期”三階段推進，明確2025年—2029年里程碑與產品優先順序，提出組織、人才、資金、資料、安全等全維度保障方案。同時，白皮書倡議全行業：堅守工程可信與安全可控底線，推進資料治理與知識沉澱，倡導開放協同與生態共建，加快自主工具鏈與標準體系建設，以技術創新驅動汽車產業向高階化、智慧化、自主化轉型。（中國汽車工業協會）"
-    },
-    {
-      "id": "4874067",
-      "time": "2026-05-12 11:18:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中保投資深圳公司增資至2億】天眼查App顯示，近日，中保投資（深圳）有限責任公司發生工商變更，註冊資本由1億人民幣增至2億人民幣。該公司成立於2016年12月，法定代表人為姜偉，經營範圍包括受託資產管理、投資管理，受託管理股權投資基金，股權投資等，由中保投資有限責任公司全資持股。"
-    },
-    {
-      "id": "4874066",
-      "time": "2026-05-12 11:18:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "【駱駝中國戶外用品公司增資至2億】天眼查App顯示，近日，駱駝（中國）戶外用品有限公司發生工商變更，註冊資本由1億人民幣增至2億人民幣。該公司成立於2014年8月，法定代表人為萬金剛，經營範圍含服飾製造、針織或鉤針編織服裝製造、採用計算機整合製造系統的服裝生產、體育用品及器材批發、體育用品及器材零售、網際網路商品銷售等。股東資訊顯示，該公司由廣州融科銀投資有限公司、廣州中達商務諮詢合夥企業（有限合夥）共同持股。"
-    },
-    {
-      "id": "4874065",
-      "time": "2026-05-12 11:18:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "【興業銀錫在西藏成立礦業公司】企查查APP顯示，近日，西藏鑫達礦業有限公司成立，法定代表人為張國新，註冊資本為2000萬元，經營範圍包含：金屬礦石銷售；選礦；礦山機械銷售；新型催化材料及助劑銷售；非金屬礦及製品銷售等。企查查股權穿透顯示，該公司由興業銀錫間接全資持股。"
-    },
-    {
-      "id": "4874064",
-      "time": "2026-05-12 11:17:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【新疆眾和成立電子材料科技公司】企查查APP顯示，近日，鎮遠宏順電子材料科技有限公司成立，法定代表人為何永虎，註冊資本為5000萬元，經營範圍包含：電子專用材料製造；電子專用材料銷售；電子元器件製造；金屬材料製造；有色金屬合金製造等。企查查股權穿透顯示，該公司由新疆眾和旗下鎮遠宏泰新材料有限公司全資持股。"
-    },
-    {
-      "id": "4874063",
-      "time": "2026-05-12 11:17:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "【全國春灌已全面鋪開 累計灌溉面積3.6億畝】從水利部瞭解到，當前，全國湖庫蓄水較常年同期偏多，灌溉水源相對充足，大部分地區耕地土壤墒情適宜，春季農業生產用水有保障。截至目前，全國春灌已全面鋪開，累計灌溉面積3.6億畝。其中，5000餘處大中型灌區開灌，累計灌溉面積2.6億畝。"
-    },
-    {
-      "id": "4874062",
-      "time": "2026-05-12 11:17:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【懷進鵬在2026世界數字教育大會作主旨演講】5月11日，2026世界數字教育大會全體會議在杭州舉行。教育部部長懷進鵬在會上作題為《智慧時代的教育變革與發展》的主旨演講。 懷進鵬指出，中國高度重視教育及科技發展，高度重視人工智慧與教育的相互影響。習近平主席指出，教育決定著人類的今天、也決定著人類的未來，強調要積極推動人工智慧與教育深度融合，促進教育變革創新，為中國教育發展提供了根本遵循和行動指南。近年來，中國著眼全域性、前瞻佈局，深入實施國家教育數字化戰略行動，釋出《中國智慧教育白皮書》，啟動“人工智慧+教育”行動，持續探索、不斷迭代，始終堅守教育價值、挖掘科技賦能潛力，堅持以人為本、效果導向、優質公平、開放安全。聚焦教育優質公平，推動有組織、大規模開發精品資源；聚焦人人皆可成才，構建支援自主化、個性化學習環境；聚焦科研創新效能，深化跨學科交叉、跨領域融合；聚焦教育生態構建，推進教育治理、公共服務創新，推動教育向全要素智慧生態轉型，邁出堅實步伐。"
-    },
-    {
-      "id": "4874061",
-      "time": "2026-05-12 11:16:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "【湖北率先給人形機器人辦理“數字身份證”】5月12日，據湖北人形機器人創新中心官方微信公眾號訊息，近日，湖北人形機器人創新中心在全國率先啟動人形機器人“數字身份證”登記，實現一機一碼、全程可溯、權責可究。"
-    },
-    {
-      "id": "mkt:019e1a2e-d978-7dd9-b928-62c5b0afe0c0",
-      "time": "2026-05-12 11:15:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TURNOVER ON SSE AND SZSE EXCEEDED 2TN YUAN, DOWN 169.9BN YUAN FROM THE SAME TIME YESTERDAY"
-    },
-    {
-      "id": "4874060",
-      "time": "2026-05-12 11:15:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "【商湯善惠機器人小店落地上海，計劃於2026年底完成百家門店佈局】據商湯科技訊息，近日，商湯科技旗下商湯善惠正式推出SenseMartGo燒賣購機器人小店，並率先落地上海新洲大廈、寶山新業坊、寶山濱江景區，計劃於2026年底完成百家門店佈局。"
-    },
-    {
-      "id": "4874059",
-      "time": "2026-05-12 11:13:45",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超2萬億元，較上日此時縮量1699億元。"
-    },
-    {
-      "id": "4874058",
-      "time": "2026-05-12 11:13:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "【前4個月雲南磨憨口岸進口鮮榴蓮超12萬噸】隨著榴蓮進入集中上市期，位於中老邊境的雲南磨憨口岸迎來進口高峰期，一箱箱產自寮國、泰國等東盟國家的新鮮榴蓮經此快速通關，奔赴國內千家萬戶。據昆明海關統計，今年前4個月，磨憨公路口岸、鐵路口岸累計進口鮮榴蓮12.1萬噸，同比增長1.7倍，進口量佔全國鮮榴蓮進口總量的三分之一，其中僅4月進口榴蓮達8.2萬噸。（新華社）"
-    },
-    {
-      "id": "4874057",
-      "time": "2026-05-12 11:12:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "【姚來英已任中國菸草總公司總經理】國家菸草專賣局網站領導資訊一欄顯示，姚來英已任中國菸草總公司總經理。姚來英，男，漢族，1966年12月生，大學學歷，經濟學碩士，中共黨員。現任工業和資訊化部黨組成員，國家菸草專賣局黨組書記、局長，中國菸草總公司總經理。"
-    },
-    {
-      "id": "4874056",
-      "time": "2026-05-12 11:11:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國財長和日本經濟產業大臣重申美日關稅協議】據日本經濟產業省的宣告，美國財政部長斯科特·貝森特和日本經濟產業大臣赤澤亮正確認，雙方將繼續執行去年7月達成的雙邊關稅協議。貝森特和赤澤亮正週二上午在東京進行了約30分鐘的會談。雙方均歡迎作為關稅協議一部分而宣佈的戰略投資計劃取得的進展，並同意加強在能源和關鍵礦產領域的合作。"
-    },
-    {
-      "id": "mkt:019e1a2b-16b2-7dd9-b928-5ed75b28e880",
-      "time": "2026-05-12 11:11:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Trump Delays Move to Lower Tariffs on Beef Imports, WSJ Says】The Trump administration delayed plans to suspend tariffs on imported beef, after backlash from cattle ranchers and some congressional Republicans, the Wall Street Journal reported. Trump had been expected to sign executive orders aimed at lowering beef prices by expanding imports and supporting a rebuilding of the US cattle herd. The measures would suspend tariff-rate quotas on beef imports, allowing more low-tariff imports as the US cattle herd hits a 75-year low and beef prices remain at record highs."
-    },
-    {
-      "id": "4874055",
-      "time": "2026-05-12 11:10:36",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【證券板塊異動拉昇 長城證券漲停】證券板塊異動拉昇，長城證券漲停，錦龍股份、長江證券、東方證券、財通證券、財達證券跟漲。"
-    },
-    {
-      "id": "4874054",
-      "time": "2026-05-12 11:10:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "【柬埔寨國會透過《兵役法》草案】當地時間5月12日，柬埔寨國會透過《兵役法》草案，隨後將提交柬埔寨參議院進行審議。草案規定，凡年齡介於18歲至25歲之間的柬埔寨男性公民，均須依法履行兵役義務，服役期為24個月，特殊情況下可延長6個月，逃避兵役者將面臨罰款及監禁處罰。"
-    },
-    {
-      "id": "4874053",
-      "time": "2026-05-12 11:10:17",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達10億港元。"
-    },
-    {
-      "id": "4874052",
-      "time": "2026-05-12 11:09:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "【瑞銀：長和的風險回報仍具吸引力，目標價上調至84.6港元】瑞銀髮表報告指，長和的風險回報仍具吸引力，目標價由67港元上調至84.6港元，資產淨值(NAV)折讓45%的假設維持不變，維持“買入”評級。該行認為，市場可能低估了長和因油價高企而來自Cenovus Energy的盈利上升空間，以及近期資產出售所帶來收益。瑞銀指出，Cenovus首季盈利按年增83%，而4月份油價仍處高位，加上英國電網(UKPN)及VodafoneThree交易預計將分別為長和帶來145億港元及47億港元的出售收益，預期將於2026年下半年入賬。該行分別上調長和2026至28年各年基本盈利預測95%、7%及2%，並將2026及2027年每股派息預測上調32%及6%。"
-    },
-    {
-      "id": "4874051",
-      "time": "2026-05-12 11:06:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "諾比侃(02635.HK)日內漲超25%，公司稱對恆信東方有關事件並不知情。"
-    },
-    {
-      "id": "mkt:019e1a24-c817-7dd9-b928-53f8e933a1c5",
-      "time": "2026-05-12 11:04:38",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "INDONESIA'S BENCHMARK STOCK INDEX FALLS AS MUCH AS 1.3% TO 6,815.61 POINTS, LOWEST SINCE LATE JUNE 2025"
-    },
-    {
-      "id": "4874050",
-      "time": "2026-05-12 11:03:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "【王劍任北京市首都公路發展集團有限公司黨委書記、董事長】5月9日上午，首發集團召開幹部大會，宣佈北京市委、市政府關於首發集團主要領導任職的決定：王劍同志任北京市首都公路發展集團有限公司黨委書記、董事長，不再擔任北京市首都公路發展集團有限公司總經理職務。有關市領導，市委組織部、市國資委相關領導及處室負責人，首發集團領導班子成員、總部各部室正副職和所屬二級企業主要負責人參加會議。"
-    },
-    {
-      "id": "4874049",
-      "time": "2026-05-12 11:01:48",
-      "tags": [
-        "市場"
-      ],
-      "text": "隔夜SHIBOR報1.2550%，上漲3.40個基點。7天SHIBOR報1.3080%，下降3.20個基點。3個月SHIBOR報1.4120%，下降0.20個基點。"
-    },
-    {
-      "id": "4874048",
-      "time": "2026-05-12 11:01:19",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【我國國產高階數控機床智慧組線可靠性與質量一體化技術取得突破】記者今天瞭解到，“十四五”期間，針對我國汽車動力總成大批次製造質量不穩定、智慧組線設計及製造標準依賴進口等瓶頸問題，市場監管總局組織國內優勢科技力量，開展了國產高階數控機床智慧組線可靠性與質量一體化技術攻關。 研究團隊突破了複雜工況下機床精度與質量引數的自適應動態對映、多工序製造誤差流建模等關鍵技術，揭示了組線可靠性退化與產品精度保持性的耦合機理。建立了“端—邊—雲”協同的裝備故障診斷技術與虛實融合的數字孿生系統，研製出支援質量控制、可靠性評估與智慧維護的動態生產運作協同最佳化平臺，實現了智慧組線實時檢測與維護決策的自主可控。 目前，研究成果已在相關企業的新能源車動力總成和燃油汽車動力總成的生產線規模化應用，實測平均無故障工作時間（MTBF）超過2500小時，裝置綜合效率（OEE）超過85%，有效支撐了國產高階數控機床及智慧組線的技術迭代與質量提升。 （央視新聞）"
-    },
-    {
-      "id": "4874047",
-      "time": "2026-05-12 11:00:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "【龍芯中科：龍芯3A6000主流行業出貨量突破100萬片】據龍芯中科訊息，近日，龍芯3A6000桌面處理器主流行業出貨量正式突破100萬片，在效能和生態上實現了全面突破。公司表示，龍芯3A6000是國產自主桌面CPU領域的里程碑產品，採用完全自主的龍架構、自研IP核、國內成熟製程工藝，SPEC CPU 2006 base單執行緒定點分值達到51分，效能達到國產CPU的領先水平。"
-    },
-    {
-      "id": "4874046",
-      "time": "2026-05-12 11:00:13",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "泰國SET指數開盤上漲0.3%，至1494.43點。"
-    },
-    {
-      "id": "4874045",
-      "time": "2026-05-12 11:00:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "工業矽連續主力合約日內跌3%，現報8875.00元。"
-    },
-    {
-      "id": "4874044",
-      "time": "2026-05-12 10:58:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "【紅果短劇樂力：抖音集團會持續加大對真人短劇投入】5月12日，抖音集團短劇版權中心舉辦首屆短劇產業大會。紅果短劇總編輯樂力表示，抖音集團會持續投入支援真人短劇的發展。短劇版權中心近期已推出多項真人短劇扶持計劃，包括針對真人劇核心品類調高內容分成比例；設立單部最高150萬元頭部劇激勵政策；推出最高20%的續作激勵；設立2億元專項資金，扶持現實主義、懸疑、都市群像等內容。相關負責人表示，2026年真人短劇保底扶持預算超15億元，部均保底金額較去年提升約60%。"
-    },
-    {
-      "id": "4874043",
-      "time": "2026-05-12 10:57:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【普利特：四川內江鈉電生產基地一期2GWh預計下半年投產】普利特(002324)在業績說明會上表示，公司很早就開始佈局鈉電的技術開發和客戶驗證與市場應用，目前公司核心技術聚焦聚陰離子體系，公司多款鈉電產品已實現批次化出貨，全面落地儲能、備電、汽車啟停、特種車等核心場景。公司在四川內江鈉電生產基地正在建設中，其中第一期2GWh預計在今年下半年投產，將助力公司鈉電訂單增長的需求。但目前該業務整體銷售額佔公司營業收入比例較小，請注意投資風險。"
-    },
-    {
-      "id": "te:markets:549829",
-      "time": "2026-05-12 10:56:54",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Indonesia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Indonesia Shares Slide to 10-Month Low — Indonesia’s benchmark index dropped 70 points, or 1%, to 6,837 in early Tuesday trade, its third straight loss and weakest level since mid-2025. Risk appetite soured as weaker U.S. equity futures deepened global jitters after President Trump warned the Iran ceasefire was “on life support,” rejecting Tehran’s counterproposal and stoking fears of prolonged conflict. At home, rupiah worries added pressure, with local media saying President Prabowo had reprimanded Bank Indonesia Governor Perry Warjiyo as the currency hovered near a record low around IDR 17,400 per dollar. Sentiment was also hit by Indonesia’s manufacturing drop in April, the first in nine months, due to softer post-festive demand and rising production strains from geopolitical and supply shocks. Nearly all sectors fell, led by industrials, infrastructure, and healthcare. Major decliners included Impack Pratama Industri (-8.0%), Sumber Alfaria Trijaya (-6.1%), Raharja Energi Cepu (-4.3%), and Sumber Global Energy (-3.4%)."
-    },
-    {
-      "id": "4874042",
-      "time": "2026-05-12 10:55:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本經濟產業大臣赤澤亮正週二和貝森特討論了能源和關鍵礦產問題。"
-    },
-    {
-      "id": "4874041",
-      "time": "2026-05-12 10:55:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "新易盛成交額達200億元，現漲5.49%。"
-    },
-    {
-      "id": "4874040",
-      "time": "2026-05-12 10:55:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "赤澤亮正與貝森特確認日美關稅協議。"
-    },
-    {
-      "id": "4874039",
-      "time": "2026-05-12 10:54:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【恒大人壽因合同糾紛起訴中國恒大】天眼查App顯示，近日，成渝金融法院向咸寧恆辰置業有限公司、恆鵬健康產業有限公司、深圳市盈貿投資有限公司、恒大健康產業集團有限公司公告送達原告恒大人壽保險有限公司與被告郴州金碧置業有限公司、中國恒大集團、中國恒大新能源汽車集團有限公司及上述企業合同糾紛一案開庭傳票、訴訟權利義務告知書等材料，自公告之日起經過30日即視為送達，並定於7月9日開庭審理。"
-    },
-    {
-      "id": "4874038",
-      "time": "2026-05-12 10:54:27",
-      "tags": [
-        "市場",
-        "觀點",
-        "國際",
-        "原創"
-      ],
-      "text": "【花旗：日本或將動用高達30萬億日元進行外匯干預】花旗集團策略師認為，日本當局最終可能花費總計30萬億日元用於貨幣干預，而此前他們可能已經為此花費了 10 萬億日元。日本的外匯儲備超過1.3萬億美元。花旗策略師表示，如果日本財務省“接受此次外匯儲備下降幅度與2022年至2024年期間大致相同的事實”，那麼它可能需要花費約30萬億日元用於干預。 不過，考慮到與美國的關係，日本財務省“將盡一切努力避免對美國債券市場造成直接影響”。如果幹預措施迫使美元兌日元匯率跌破155，則可能會“扼殺日本進口商（包括中小企業）購買美元的潛在需求”。鑑於供需動態改善以及當前的干預措施，美元兌日元上漲勢頭減弱，難以突破158-160區間。"
-    },
-    {
-      "id": "4874037",
-      "time": "2026-05-12 10:53:18",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美國ITC釋出對墨盒及其元件II的337部分終裁】5月8日，美國國際貿易委員會（ITC）釋出公告稱，對特定墨盒及其元件II作出337部分終裁：對本案行政法官於2026年3月24日作出的初裁（No.16）進行部分複審，即申請方是否滿足美國國內產業地位的經濟要素的要求，對其他部分不復審，請利益相關方、政府機構和個人就複審、建議救濟措施、公眾利益、保證金等提交意見，書面材料不晚於2026年5月22日提交，不超過50頁。"
-    },
-    {
-      "id": "mkt:019e1a1a-5786-7dd9-b928-4d72f1542c78",
-      "time": "2026-05-12 10:53:14",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Hong Kong's John Lee Says Hong Kong to Promote Embodied AI and Strategic Future Industries】Hong Kong Chief Executive John Lee said the city is advancing embodied AI and other strategic future industries in alignment with China’s “15th Five-Year Plan” and “AI+” initiative. Speaking at the inaugural Hong Kong Embodied AI Industry Summit, Lee said the government-owned Hong Kong AI R&D Institute will begin operations in the second half of the year to support AI research, commercialization and industry applications, including embodied intelligence solutions."
-    },
-    {
-      "id": "4874036",
-      "time": "2026-05-12 10:53:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "【英國首相斯塔默被多名內閣成員要求設定辭職時間表】據英國多家媒體11日報道，多名英國內閣成員要求首相斯塔默設定辭職時間表，其中包括外交大臣庫珀、內政大臣馬哈茂德。 據英國獨立電視臺報道，庫珀、馬哈茂德等4名內閣大臣共同前往倫敦唐寧街10號首相府，要求斯塔默考慮為辭職設定時間表。英國《衛報》報道稱，副首相兼司法大臣戴維·拉米和國防大臣約翰·希利據信與首相討論瞭如何“負責任、有尊嚴、有序地”對未來作出安排。 報道同時說，此前已有4名政府助理宣佈辭職，他們與超70位工黨下院議員一道呼籲斯塔默辭職或設定辭職時間表。 據報道，斯塔默將於當地時間12日早間舉行內閣會議，目前正在“權衡他的選擇”。 今年以來，因任命與已故美國富商愛潑斯坦交往密切的曼德爾森為駐美大使，斯塔默已兩度面臨辭職壓力。在日前舉行的英國地方選舉中，斯塔默領導的執政黨工黨遭遇重挫，在英格蘭地區僅獲本次選舉約5000個席位中的1000餘個，此次選舉慘敗令要求斯塔默下臺的呼聲再度高漲。 斯塔默11日發表講話說，地方選舉結果“嚴峻”、令人痛心，他願承擔責任，但不會“一走了之，讓國家陷入混亂”。(新華社)"
-    },
-    {
-      "id": "4874035",
-      "time": "2026-05-12 10:52:58",
-      "tags": [
-        "市場"
-      ],
-      "text": "【半導體矽片概念震盪回升 滬矽產業漲超10%】半導體矽片概念震盪回升，滬矽產業漲超10%，TCL中環觸及漲停，中晶科技、西安奕材、晶盛機電跟漲。"
-    },
-    {
-      "id": "4874034",
-      "time": "2026-05-12 10:51:53",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【襲擊韓貨船飛行器殘骸將運抵韓國】5月4日，一艘停靠在霍爾木茲海峽、由韓國船運公司運營的船隻遭襲，發生爆炸並起火。韓國外交部長官趙顯今天（5月12日）表示，襲擊這艘貨船的飛行器殘骸即將運抵國內，韓國國防部及具備相關專業性的研究機構將共同對飛行器殘骸進行勘驗。 #韓將參加英法主導涉霍爾木茲海峽會議#此外，韓國防部今天確認，將參加由英國和法國主導的多國國防部長視訊會議，就推動霍爾木茲海峽恢復通航的方案進行討論。（CCTV國際時訊）"
-    },
-    {
-      "id": "4874033",
-      "time": "2026-05-12 10:48:50",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【算力晶片概念再度走強 中國長城6天4板】算力晶片概念再度走強，中國長城走出6天4板，天普股份、寒武紀、芯原股份、翱捷科技、龍芯中科、海光資訊跟漲。"
-    },
-    {
-      "id": "4874032",
-      "time": "2026-05-12 10:48:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "【駱駝中國戶外用品公司增資至2億 增幅100%】天眼查App顯示，近日，駱駝（中國）戶外用品有限公司發生工商變更，註冊資本由1億人民幣增至2億人民幣，增幅100%。該公司成立於2014年8月，法定代表人為萬金剛，經營範圍含服飾製造、針織或鉤針編織服裝製造、採用計算機整合製造系統的服裝生產、體育用品及器材批發、體育用品及器材零售、網際網路商品銷售等。股東資訊顯示，該公司由廣州融科銀投資有限公司、廣州中達商務諮詢合夥企業（有限合夥）共同持股。"
-    },
-    {
-      "id": "4874031",
-      "time": "2026-05-12 10:47:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【半導體板塊持續拉昇】半導體板塊持續拉昇，芯源微、滬矽產業、華海清科漲超10%，中晶科技、龍芯中科、東微半導、海光資訊、甬矽電子等跟漲。"
-    },
-    {
-      "id": "4874030",
-      "time": "2026-05-12 10:46:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "【宏工科技：與頭部客戶溝通相關裝置在幹法、固態電池領域應用 形成了部分訂單】宏工科技(301662)5月11日在業績說明會上表示，公司與頭部客戶積極溝通相關裝置在幹法、固態電池領域的應用，目前形成了部分訂單。針對鈉電池，公司持續圍繞核心的混合、研磨、包覆和包裝等粉體處理核心工序做相應解決方案和產品，已形成部分訂單。"
-    },
-    {
-      "id": "4874029",
-      "time": "2026-05-12 10:44:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【OpenAI推出網路安全模型Daybreak】OpenAI正式推出網路安全模型Daybreak，其整合了GPT-5.5模型、Codex程式碼執行能力及26家頭部安全廠商生態，旨在將AI防禦能力嵌入軟體開發全流程。奧爾特曼表示，Daybreak的推出是加速網路防禦並持續保障軟體安全的努力。AI在網路安全方面已經很出色，並且即將變得更加強大。"
-    },
-    {
-      "id": "4874028",
-      "time": "2026-05-12 10:43:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國非法關稅首批退款將於5月12日發放】美國海關與邊境保護局表示，非法關稅首批退款將於5月12日開始發放，部分美國企業將收到退稅資金。美國政府於上月推出線上申請平臺，允許企業申請退還此前繳納、後被美國最高法院裁定違法的關稅。美國海關資料顯示，共有超過33萬家進口商繳納了總額約1660億美元的相關關稅。截至4月26日，已有至少7.5萬家企業提交退款申請。美政府2025年年初以來援引《國際緊急經濟權力法》推出大規模關稅。今年2月20日，美最高法院公佈裁決，認定美國《國際緊急經濟權力法》沒有授權總統徵收大規模關稅，裁定美政府援引此法實施的大規模關稅政策違法。"
-    },
-    {
-      "id": "4874026",
-      "time": "2026-05-12 10:43:06",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內漲幅達1.11%，成分股中，華海清科漲10.14%，滬矽產業漲8.31%，思特威漲6.77%，寒武紀漲6.16%。"
-    },
-    {
-      "id": "4874025",
-      "time": "2026-05-12 10:41:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "【榮耀申請註冊“養蝦本”商標，可應用於平板電腦等】企查查APP顯示，近日，榮耀終端股份有限公司申請註冊一枚“養蝦本”商標，國際分類為9類 科學儀器，商標狀態為註冊申請中，已申請商品/服務包括：平板電腦；顯示器；膝上型電腦；計算機；電視電腦一體機等。"
-    },
-    {
-      "id": "4874024",
-      "time": "2026-05-12 10:41:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "【上海微系統所：新型柔性單晶矽電池隨天舟十號開展太空實驗 為太空光伏奠定基礎】中國科學院上海微系統所今日官微訊息，5月11日，天舟十號貨運飛船在文昌成功發射，搭載41項在軌科學實驗載荷奔赴中國空間站。其中，由上海微系統所科研團隊自主研發的柔性封裝單晶矽太陽電池，將開展空間環境在軌實驗，為我國商業航天、太空算力及太空光伏產業奠定基礎。後續，該太陽電池將安置於空間站材料實驗平臺，開展粒子輻照、紫外輻照、原子氧等空間環境實驗。試驗樣品返回後，科研團隊將深度解析電池樣品的效能和結構變化，對比地面與在軌資料，驗證環境匹配度，研究效能衰減機理，攻克空間轉換效率低、輻照衰減大等難題，研發高效可靠的低成本太陽翼能源技術。"
-    },
-    {
-      "id": "te:markets:549825",
-      "time": "2026-05-12 10:41:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Silver Pulls Back After Sharp Rally — Silver eased toward $85 an ounce on Tuesday, reversing gains from earlier in the session as elevated geopolitical uncertainty in the Middle East and the prolonged disruption of the Strait of Hormuz kept oil prices higher and sustained inflation concerns. President Donald Trump said the US-Iran ceasefire was on “massive life support” after rejecting Tehran’s latest peace proposal, deepening fears that the strategically vital shipping corridor could remain effectively constrained for an extended period. At the same time, investors looked ahead to the latest US consumer inflation data for signals on how the Iran conflict is feeding through into broader price pressures. Meanwhile, silver surged more than 7% to a two-month high on Monday, outperforming other precious metals due to its significant industrial usage, which improved expectations for physical demand alongside its traditional safe-haven appeal."
-    },
-    {
-      "id": "4874023",
-      "time": "2026-05-12 10:40:47",
-      "tags": [
-        "焦點"
-      ],
-      "text": "【李家超：香港著力推動具身智慧等策略性未來產業發展】香港特區行政長官李家超今日（12日）出席首屆香港具身智慧產業峰會暨2026智元合作伙伴大會（香港）。他在致辭時表示，國家“十五五”規劃前瞻佈局未來產業，支援具身智慧成為新的經濟增長點。香港特區積極對接國家戰略和“人工智慧+”行動，著力推動具身智慧等策略性未來產業發展。 李家超介紹，由特區政府設立的InnoHK創新香港研發平臺已資助16家聚焦AI與機器人的實驗室，重點包括AI驅動的機器人技術，廣泛應用於醫療、物流、智慧製造、建造等行業。而數碼港也在支援約120家涉及人形機器人、無人駕駛、無人機、智慧可穿戴裝置等的企業。 李家超指出，香港有高度國際化、文化多元而空間緊湊的城市環境，為具身智慧提供了理想的試驗與應用場景。無論是服務機器人、醫療護理應用，還是智慧製造，都具備豐富而具挑戰性的應用空間，有助相關技術對接國際市場。 為進一步推動AI賦能產業，特區政府會成立“AI+與產業發展策略委員會”，邀請專家、學者、企業及創科園區公司參與，初期聚焦生命健康及具身智慧，為AI帶動產業轉型制定策略。 李家超表示，特區政府全資擁有的香港人工智慧研發院將於下半年投入運作，以促進AI上游研發、中下游成果轉化及開拓應用場景為目標，搭建AI技術方案配對平臺，推動包括具身智慧在內的解決方案對接業界需求，加速商品化和產業賦能。（大灣區之聲）"
-    },
-    {
-      "id": "4874022",
-      "time": "2026-05-12 10:40:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中電聯牽頭編制的四項國家職業標準正式頒佈】近日，人力資源社會保障部辦公廳、國家能源局綜合司聯合釋出了《光伏發電執行值班員L》《供熱管網系統執行工》《送配電線路工》《發電裝置安裝工》《電機檢修工（風力發電機檢修工）》等五項國家職業標準，其中前四項標準均由中國電力企業聯合會牽頭組織編制。下一步，中電聯將緊跟技術進步和產業發展需求，持續加大國家職業標準開發力度，全力推動各項國家職業標準宣貫和落地實施，加快配套國家職業技能等級認定培訓教程開發，更好促進電力技能人才培養，為推動新型電力系統建設、加快實現“雙碳”目標提供堅實的人才支撐，助力電力行業高質量發展。（中國電力報）"
-    },
-    {
-      "id": "mkt:019e1a0e-d413-7dd9-b928-45b28c76cf6a",
-      "time": "2026-05-12 10:40:39",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "XAUUSD"
-      ],
-      "text": "TRUMP SAYS HE WILL DISCUSS U.S. ARMS SALES TO TAIWAN WITH CHINA'S XI - KYODO"
-    },
-    {
-      "id": "4874011",
-      "time": "2026-05-12 10:39:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "馬來西亞農業部表示，在出口磋商後，馬來西亞目前沒有從印度尼西亞採購大米的計劃。"
-    },
-    {
-      "id": "4874001",
-      "time": "2026-05-12 10:37:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：日本擬於5月向俄羅斯派遣官員，就企業資產保護事宜進行磋商。"
-    },
-    {
-      "id": "4873999",
-      "time": "2026-05-12 10:36:53",
-      "tags": [
-        "宏觀",
-        "國際",
-        "原創"
-      ],
-      "text": "【日本財相稱在外匯政策上與貝森特密切協調 或代表美方默許干預】日本財務大臣片山皋月週二證實，她的團隊正與美國財政部長斯科特·貝森特在外匯政策方面密切協調，暗示美國或默許了日本近期可能的市場干預行為。“關於最近的匯率走勢，我們確認日本和美國一直協調良好，並保持著密切的溝通，”片山週二在東京與貝森特會談後告訴記者。她表示：“我們也重申，我們將繼續根據去年9月發表的聯合宣告，在外匯問題上密切合作。”她還補充說，該宣告明確指出，干預是解決外匯市場過度波動的一種選擇。“我相信我們在這一點上獲得了充分理解，”片山說道。片山的記者會後日元走弱，表明交易員可能對會議結果抱有更高的預期。"
-    },
-    {
-      "id": "te:economy:549823",
-      "time": "2026-05-12 10:35:48",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Government Bond 10Y",
-        "Importance 2"
-      ],
-      "text": "Japan 10Y Yield Hits Fresh 29-Year High — Japan’s 10-year government bond yield rose to around 2.55% on Tuesday, hitting its highest level since 1997 as markets increasingly priced in an imminent interest rate hike from the Bank of Japan. The central bank’s Summary of Opinions from its April meeting showed policymakers signaling that rate increases could come as early as the next meeting, as surging oil prices intensified inflation risks. Members noted that Japan’s economy is recovering at a moderate pace but faces headwinds from higher energy costs, while underlying CPI inflation was seen moving closer to the 2% target. Several policymakers indicated that a rate hike could be warranted soon, with one stating that the BOJ should tighten policy unless clear signs of economic weakness emerge. Oil prices remained elevated after President Donald Trump questioned the durability of the US-Iran ceasefire following his rejection of Tehran’s latest peace proposal, adding to broader inflation concerns in global markets."
-    },
-    {
-      "id": "4873987",
-      "time": "2026-05-12 10:34:35",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "中韓半導體ETF(513310)開盤漲超5%，成交額超15億元。"
-    },
-    {
-      "id": "4873985",
-      "time": "2026-05-12 10:33:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "【涉疫郵輪撤離工作收尾 世衛組織：全球風險目前為“低”】當地時間11日，隨著最後一批澳大利亞乘客從西班牙加那利群島撤離，持續多日的“洪迪厄斯”號郵輪漢坦病毒疫情國際轉運和人員撤離接近尾聲。這艘郵輪載有來自23個國家的140餘名乘客和船員，過去數週內漢坦病毒疫情造成多人死亡，引發國際關注。多國開展撤離行動。當地時間10日凌晨，“洪迪厄斯”號郵輪駛入加那利群島特內里費島格拉納迪利亞港附近海域。這艘備受關注的郵輪沒有直接靠泊碼頭，而是在離岸數百米的水域下錨，隨後開始跨國醫療轉運和人員撤離行動。（新華社）"
     }
   ]
 }
