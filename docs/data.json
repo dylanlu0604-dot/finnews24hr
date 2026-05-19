@@ -1,7 +1,39 @@
 {
-  "updated": "2026-05-20 03:26:06",
-  "count": 15609,
+  "updated": "2026-05-20 03:29:59",
+  "count": 15607,
   "items": [
+    {
+      "id": "4888831",
+      "time": "2026-05-20 03:27:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "據《華爾街日報》：儘管特朗普取消了原定的打擊行動，美伊談判進展有限。"
+    },
+    {
+      "id": "4888830",
+      "time": "2026-05-20 03:26:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部： 美軍中央司令部部隊持續全面執行美國對伊朗封鎖措施，阻斷伊朗港口進出口商貿往來，已勒令 89 艘商船改道以確保禁令落實。"
+    },
+    {
+      "id": "mkt:019e41b3-9b1c-7228-9aff-bb699637dc10",
+      "time": "2026-05-20 03:25:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. STATE DEPARTMENT'S LANDAU SAYS HE JUST SPOKE WITH BOLIVIA'S PRESIDENT PAZ AND IS VERY CONCERNED ABOUT SITUATION THERE"
+    },
+    {
+      "id": "4888828",
+      "time": "2026-05-20 03:25:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數19日上漲】衡量美元對六種主要貨幣的美元指數當天上漲0.14%，在匯市尾市收於99.326。截至紐約匯市尾市，1歐元兌換1.1604美元，低於前一交易日的1.1637美元；1英鎊兌換1.3397美元，低於前一交易日的1.3411美元。1美元兌換159.06日元，高於前一交易日的159.01日元；1美元兌換0.7892瑞士法郎，高於前一交易日的0.7856瑞士法郎；1美元兌換1.3750加元，高於前一交易日的1.3749加元；1美元兌換9.4055瑞典克朗，低於前一交易日的9.4093瑞典克朗。"
+    },
     {
       "id": "4888827",
       "time": "2026-05-20 03:25:25",
@@ -140892,58 +140924,6 @@
         "Importance 1"
       ],
       "text": "Paraguay Trade Balance Returns to Surplus — Paraguay’s trade balance swung to a $2.68 billion surplus in April 2026 from a $76.6 million deficit in the same month a year earlier. Exports rose 14.6% year-over-year to $1.59 billion, driven mainly by a 35.8% increase in primary goods shipments. Exports of manufactured agricultural goods grew 2.7%, while industrial manufactures advanced 18.7%. In contrast, electricity exports declined 39.7%. Meanwhile, imports increased 12.2% to $1.60 billion. Purchases of consumer goods rose 3.8%, while imports of capital goods and intermediate goods fell 12.0% and 4.1%, respectively."
-    },
-    {
-      "id": "mkt:019e1daa-4909-7772-877d-97d3ed30808e",
-      "time": "2026-05-13 03:29:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TRUMP: KYLE DIAMANTAS WILL REPLACE MAKARY AS US FDA CHIEF IN ACTING POSITION"
-    },
-    {
-      "id": "4875801",
-      "time": "2026-05-13 03:28:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：馬卡里將繼續深耕醫學界職業生涯。"
-    },
-    {
-      "id": "4875800",
-      "time": "2026-05-13 03:28:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：凱爾・迪亞曼塔斯將出任美國食品藥品監督管理局（FDA）代理局長。"
-    },
-    {
-      "id": "4875799",
-      "time": "2026-05-13 03:28:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普釋出一張疑似顯示FDA局長馬卡里辭職的圖片。"
-    },
-    {
-      "id": "4875798",
-      "time": "2026-05-13 03:27:28",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印度修訂黃金、白銀進口關稅。"
-    },
-    {
-      "id": "mkt:019e1da8-94b0-7772-877d-8a9aa5db2f77",
-      "time": "2026-05-13 03:27:27",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "INDIA REVISES GOLD, SILVER IMPORT TARIFFS - GOVERNMENT ORDER"
     }
   ]
 }
