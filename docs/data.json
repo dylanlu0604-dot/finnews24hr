@@ -1,7 +1,35 @@
 {
-  "updated": "2026-05-19 16:46:20",
-  "count": 15601,
+  "updated": "2026-05-19 16:50:20",
+  "count": 15593,
   "items": [
+    {
+      "id": "te:economy:551899",
+      "time": "2026-05-19 16:47:20",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Hong Kong",
+        "Unemployment Rate",
+        "Importance 1"
+      ],
+      "text": "Hong Kong Unemployment Rate Steady at 3.7% — Hong Kong’s seasonally adjusted unemployment rate stood at 3.7% in the three months ending in April 2026, unchanged from the seven-month low recorded in the previous period. The number of unemployed persons increased by 2,600 to 139,200, while total employment fell by 7,700 to 3.65 million. Meanwhile, the youth unemployment rate for those aged 20 to 29 edged down to 6.8% from 6.9% in March, while the underemployment rate eased to 1.5% from 1.6%, and the labour force participation rate slipped slightly to 56.3% from 56.4%. Looking ahead, authorities said the solid growth momentum of Hong Kong’s economy should continue to support the labour market, although the government will remain vigilant over the potential impact of elevated geopolitical risks and continue to closely monitor developments."
+    },
+    {
+      "id": "4887647",
+      "time": "2026-05-19 16:46:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總理表示，烏克蘭4月GDP增長0.9%，1-4月GDP下降0.2%。"
+    },
+    {
+      "id": "4887646",
+      "time": "2026-05-19 16:46:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【香港聯交所：對啟明醫療前公司秘書採取紀律行動】香港聯交所發文，譴責：杭州啟明醫療(02500.HK)前公司秘書黃偉超；及進一步指令黃偉超須完成培訓。黃偉超並未按公司秘書應有的角色與職責行事，因此，根據《上市規則》第2A.10B(3)條，他被裁定須就該公司因向兩名董事提供未經授權的財務資助而違反《上市規則》一事承擔責任。（財聯社）"
+    },
     {
       "id": "4887645",
       "time": "2026-05-19 16:45:41",
@@ -141017,101 +141045,6 @@
         "其他"
       ],
       "text": "【理想L9 Livis首發馬赫M100晶片】據理想汽車訊息，全新理想L9 Livis首發搭載理想自研馬赫M100晶片。"
-    },
-    {
-      "id": "4874711",
-      "time": "2026-05-12 16:50:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【美銀：上調敏實集團目標價至57港元，看好新業務前景】美銀證券發表研報指，敏實集團2026年將實現可持續盈利增長，其新業務包括機器人、固體氧化物燃料電池(SOFC)及液冷系統進展良好。該行將敏實目標價由52港元上調至57港元，重申“買入”評級。管理層表示，機器人業務預計在2026年為公司貢獻5億元銷售額，包括零部件銷售及機器人組裝。此外，公司已開始SOFC解決方案的零部件業務，並已向潛在客戶傳送互連件、支撐結構及雙極板的樣品，同時已從中國SOFC客戶獲得支撐結構、雙極板及框架的新訂單。液冷業務方面，分流管及液冷箱已於2025年底開始付運，液冷板及冷卻液分配裝置(CDU)等更多新產品將於2026年下半年開始付運。"
-    },
-    {
-      "id": "4874710",
-      "time": "2026-05-12 16:49:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "【馮德萊恩：歐盟應探討限制兒童使用社交媒體】歐盟委員會主席馮德萊恩說，歐盟應探討限制兒童使用社交媒體，有關新規最早可能於今年夏天提出。據報道，馮德萊恩已委託一個專家小組在7月前提交報告，說明歐盟應採取哪些措施來保護未成年人免受網路傷害，其中包括可能實施的社媒禁令。馮德萊恩星期二（5月12日）在哥本哈根舉行的關於人工智慧與兒童的峰會上說：“在不預設專家小組結論的前提下，我認為我們必須考慮推遲兒童使用社媒。根據結果，我們可能在今年夏天提出一項法律提案。”她指出，兒童和青少年因接觸社媒而遭受的諸多傷害並非偶然，“而是將我們孩子的注意力視為商品的商業模式所導致的後果”。"
-    },
-    {
-      "id": "4874709",
-      "time": "2026-05-12 16:49:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "法國預測今年玉米種植面積將下降11%。"
-    },
-    {
-      "id": "4874708",
-      "time": "2026-05-12 16:48:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特將會見日本大型銀行和商社高管。"
-    },
-    {
-      "id": "mkt:019e1b5f-7d70-7dd9-b92a-bf154071aba3",
-      "time": "2026-05-12 16:47:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UK PM STARMER: THE LABOUR PARTY HAS A PROCESS FOR CHALLENGING A LEADER AND THAT HAS NOT BEEN TRIGGERED"
-    },
-    {
-      "id": "mkt:019e1b5e-d554-7dd9-b92a-b6af80831d68",
-      "time": "2026-05-12 16:47:40",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bullish"
-      ],
-      "text": "UK PM STARMER TELLS HIS CABINET THAT HE IS STAYING PUT, GUARDIAN REPORTER"
-    },
-    {
-      "id": "4874707",
-      "time": "2026-05-12 16:47:17",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "英國首相斯塔默：工黨設有領導人挑戰程式，目前該程式尚未啟動。"
-    },
-    {
-      "id": "4874706",
-      "time": "2026-05-12 16:47:13",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "英國首相斯塔默告知內閣：全國民眾期待我們著手履行治理職責。這是我目前正在推進的工作，也是我們整個內閣必須共同完成的任務。"
-    },
-    {
-      "id": "4874705",
-      "time": "2026-05-12 16:46:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國際學生人數減兩成 高校財政壓力加劇】研究顯示，今年春季美國高校的新入學外國本科生人數，較去年同期平均下降了20%。這凸顯了特朗普政府與高等教育界的對峙，正衝擊美國大學重要的人才與資金來源。這項針對149所美國高校的調查發現，同2025年春季比較，約62%學校的本科和研究生專案的國際學生入學人數都有所下降。國際學生通常支付全額學費，是美國大學重要收入來源。特朗普政府則把限制國際學生招生視為重塑高等教育體系和收緊移民政策的一部分。報告稱，如果今年秋季國際學生人數的跌幅也接近20%，一些高校可能面臨嚴重財政壓力。"
-    },
-    {
-      "id": "4874704",
-      "time": "2026-05-12 16:46:43",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "英國首相斯塔默告知其內閣，他不會卸任。"
-    },
-    {
-      "id": "4874703",
-      "time": "2026-05-12 16:46:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "【全球野火今年已燒燬逾一億公頃土地 厄爾尼諾或加劇災情】科學家警告，氣候變化已導致亞洲和非洲等地今年出現創紀錄的野火。隨著北半球夏季臨近以及厄爾尼諾現象開始顯現，預計情況將進一步惡化。世界氣候歸因組織（World Weather Attribution）的資料顯示，今年1月至4月的野火已造成前所未有的破壞，燒燬土地超過1億5000萬公頃，比此前紀錄高出20%。"
     }
   ]
 }
