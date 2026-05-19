@@ -1,7 +1,45 @@
 {
-  "updated": "2026-05-19 08:02:36",
+  "updated": "2026-05-19 08:06:20",
   "count": 15589,
   "items": [
+    {
+      "id": "4886763",
+      "time": "2026-05-19 08:05:04",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "【中信證券：印尼是亞太核心新興市場，具備長線佈局價值】中信證券研報表示，經濟保持穩健增長、資本市場加速擴容、經營模式分化升級構築印尼證券行業核心發展基調。宏觀看，印尼GDP增速保持5%，以高於全球平均水平的穩健增速構築堅實產業基礎；中觀看，股債市場持續擴容，投資者數量快速增長，展現卓越資本市場發展潛力；微觀看，零售客群實現低滲透率下持續高增，機構及境外投資者具備重要影響力，為中資機構佈局開啟空間。整體而言，印尼市場是中資機構全球佈局歷程中的必爭之地，機構經紀、投資銀行、客需交易領域潛力突出。"
+    },
+    {
+      "id": "4886762",
+      "time": "2026-05-19 08:04:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌將為與黑石的合資企業提供硬體、軟體以及服務。"
+    },
+    {
+      "id": "te:economy:551717",
+      "time": "2026-05-19 08:03:50",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "GDP Growth Annualized",
+        "Importance 1"
+      ],
+      "text": "Japan Economy Expands at Annualized 2.1% in Q1 — Japan’s economy expanded at an annualized rate of 2.1% in Q1 2026, accelerating from a downwardly revised 0.8% growth in Q4 and surpassing market expectations of 1.7%, preliminary data showed. It marked the fastest pace of expansion in six quarters, driven by stronger private consumption and a solid contribution from net exports."
+    },
+    {
+      "id": "4886761",
+      "time": "2026-05-19 08:03:39",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【谷歌聯合黑石組建全新AI雲企業 黑石將出資50 億美元】據知情人士透露，谷歌母公司字母集團與黑石集團計劃聯手成立一家人工智慧雲端計算公司，依託谷歌自研專用晶片，對標科威維夫等同業企業。知情人士稱，雙方擬在美國成立這家暫未命名的新公司，由黑石出資50 億美元作為股本並掌握多數股權，該合作協議定於週一晚些時候正式官宣。此次合作是谷歌迄今為止，對外出售自研晶片並實現商業化變現規模最大的一次佈局，也將進一步激化其與 A算力領域龍頭企業英偉達之間的行業競爭。知情人士表示，這家新企業計劃在 2027 年建成投產500 兆瓦算力產能，該電力規模基本可滿足一座中型城市用電需求，後續還將持續大幅擴充算力體量。"
+    },
     {
       "id": "4886760",
       "time": "2026-05-19 08:01:13",
@@ -140843,47 +140881,6 @@
         "國際"
       ],
       "text": "日本東證指數上漲1%，至3879.55。"
-    },
-    {
-      "id": "te:economy:549767",
-      "time": "2026-05-12 08:05:56",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Foreign Exchange Reserves",
-        "Importance 0"
-      ],
-      "text": "Japan Forex Reserves Rise in April — Japan’s foreign reserves rose by USD 8.25 billion to USD 1.38 trillion in April 2026, from a three-month low of USD 1.37 trillion in the previous month. The reserves consisted of USD 1.17 trillion in foreign currency assets, USD 11.27 billion in the IMF reserve position, USD 61.05 billion in SDRs, USD 125.43 billion in gold, and 15.82 billion in other reserve assets."
-    },
-    {
-      "id": "4873339",
-      "time": "2026-05-12 08:04:26",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "軟銀集團股價上漲3.3%。"
-    },
-    {
-      "id": "4873338",
-      "time": "2026-05-12 08:04:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普在白宮玫瑰園俱樂部晚宴上發表講話：如有需要，將幫助紐約和洛杉磯。"
-    },
-    {
-      "id": "te:economy:549766",
-      "time": "2026-05-12 08:03:27",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Senegal",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Senegal Inflation Holds at 3-Month High — The annual inflation rate in Senegal stood at 1.4% in April 2026, unchanged from March’s three-month high. The main upward pressure came from food and non-alcoholic beverages inflation, which remained elevated at 1.7%, unchanged from March. On a monthly basis, the CPI fell 0.5%, reversing a 0.2% rise in March."
     }
   ]
 }
