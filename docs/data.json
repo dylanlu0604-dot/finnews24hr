@@ -1,7 +1,29 @@
 {
-  "updated": "2026-05-19 08:21:16",
-  "count": 15591,
+  "updated": "2026-05-19 08:24:59",
+  "count": 15590,
   "items": [
+    {
+      "id": "4886790",
+      "time": "2026-05-19 08:23:15",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "【阿達尼企業與美國財政部達成2.75億美元和解協議】美國財政部當地時間5月18日宣佈，阿達尼企業有限公司同意就美國外國資產控制辦公室的一項調查支付2.75億美元，這一和解協議涉及該公司從一家迪拜交易商購買液化石油氣。"
+    },
+    {
+      "id": "te:markets:551720",
+      "time": "2026-05-19 08:21:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Flat After Two-Day Slide — US stock futures were little changed on Tuesday after the major indexes posted a second consecutive session of losses, pressured mainly by weakness in technology shares. During Monday’s regular session, the S&P 500 and Nasdaq Composite slipped 0.07% and 0.51%, respectively, as a selloff in memory chip makers dragged both benchmarks lower for a second straight day. The decline followed a nearly 7% drop in Seagate shares after CEO Dave Mosley said at a JPMorgan conference that building new factories would “take too long,” fueling concerns the company could struggle to keep up with rapidly rising AI-related demand. Peer Micron Technology also fell around 6%. Investors are now turning their attention to a fresh batch of corporate earnings due Tuesday, including results from Home Depot, Keysight Technologies, and Toll Brothers, while also monitoring April pending home sales data for further insight into the US economy."
+    },
     {
       "id": "4886789",
       "time": "2026-05-19 08:20:17",
@@ -140853,32 +140875,6 @@
         "國際"
       ],
       "text": "美國財政部長貝森特抵達日本財務省，與日本財務大臣片山皋月會晤。"
-    },
-    {
-      "id": "4873401",
-      "time": "2026-05-12 08:24:16",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【日本央行一名審議委員：可能在下次政策會議上加息】根據週二釋出的4月27日至28日政策會議意見摘要，日本央行一名審議委員表示，央行完全有可能在下次會議或之後的會議上加息。一名委員表示，如果通脹上行風險加大，當局需要以更快速度加息；一名委員表示，如果伊朗衝突持續，需要將政策利率提高至中性水平；一名委員表示，除非經濟出現明確放緩跡象，否則央行應儘快加息；一名委員指出，日本實際利率處於全球最低水平之列；一名委員表示，根據經濟和通脹形勢發展來上調利率是合適的；一名委員表示，經濟面臨的主要下行風險來自通脹；另一名委員表示，鑑於中東衝突，央行需要觀望。"
-    },
-    {
-      "id": "4873395",
-      "time": "2026-05-12 08:23:10",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國財政部長貝森特：在中東當前局勢下，日本經濟仍展現出韌性，對此表示祝賀。"
-    },
-    {
-      "id": "4873394",
-      "time": "2026-05-12 08:22:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【傳媒大亨拜倫.艾倫將以1.2億美元收購BuzzFeed多數股權】BuzzFeed表示，媒體大亨拜倫.艾倫(Byron Allen)已同意以1.2億美元收購這家數字媒體公司的多數股權。BuzzFeed週一表示，艾倫計劃以每股3美元的價格收購4,000萬股股票。艾倫旗下的Allen Media Group擁有《氣象頻道》(Weather Channel)和30多個電視網附屬廣播頻道。交易完成後，艾倫旗下關聯公司Allen Family Digital將擁有BuzzFeed 52%的發行在外股票。該交易將以2,000萬美元現金和一張1億美元本票的方式支付，該本票將在交易完成五年後到期，按5%的年利率計息。BuzzFeed表示，該交易料將於5月底完成。艾倫還將接任執行長兼董事長，而BuzzFeed創始人喬納.佩雷蒂(Jonah Peretti)將轉任新設立的BuzzFeed AI總裁一職。"
     }
   ]
 }
