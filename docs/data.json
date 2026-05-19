@@ -1,7 +1,65 @@
 {
-  "updated": "2026-05-19 13:10:33",
-  "count": 15653,
+  "updated": "2026-05-19 13:14:31",
+  "count": 15655,
   "items": [
+    {
+      "id": "mkt:019e3ea6-da56-7aa9-b722-f32a706156c4",
+      "time": "2026-05-19 13:13:02",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Chip Wars",
+        "The Trump Trade",
+        "Magnificent 7",
+        "CSI300",
+        "Impact bullish",
+        "NVDA.O",
+        "Impact bearish",
+        "CNH"
+      ],
+      "text": "【Trump–Xi Summit Seen Easing Investor Concerns Despite Limited Breakthroughs: Julius Baer】The Trump–Xi summit last week is expected to help ease investor concerns over U.S.–China relations, even without major positive surprises, Julius Baer says. Analyst Richard Tang says the meeting effectively extended the trade truce by establishing a negotiation framework with shared objectives, though progress in other areas remains limited. China’s decision not to approve purchases of Nvidia H200 chips has also reassured investors favoring domestic tech, with Chinese semiconductor stocks supported by Beijing’s push for self-reliance. In the near term, Julius Baer expects continued gains in AI infrastructure equities and sees humanoid robotics stocks rebounding on improving shipment expectations."
+    },
+    {
+      "id": "4887195",
+      "time": "2026-05-19 13:11:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "電力板塊午後持續拉昇，豫能控股、浙能電力雙雙漲停，上海電力、涪陵電力、京能熱力、京能電力此前封板。"
+    },
+    {
+      "id": "4887194",
+      "time": "2026-05-19 13:11:31",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "據韓媒引述勞工官員訊息，三星韓國工會已做出一定讓步，雙方存在達成協議的可能性。"
+    },
+    {
+      "id": "4887193",
+      "time": "2026-05-19 13:10:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新易盛：預計2026年矽光產品的佔比將進一步提升】新易盛5月19日在互動平臺表示，公司目前已推出400G和800G ZR/ZR+相干光模組產品；矽光產品已有批次出貨，預計2026年矽光產品的佔比將進一步提升，具體的放量進度取決於市場及客戶的需求情況。"
+    },
+    {
+      "id": "mkt:019e3ea4-d043-7aa9-b722-eecf4232738b",
+      "time": "2026-05-19 13:10:09",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "Hang Seng Index",
+        "Impact bearish",
+        "NIO.O",
+        "XPEV.O"
+      ],
+      "text": "HK AUTO STOCKS WEAKEN: NIO-SW DOWN OVER 5%, LI AUTO DOWN OVER 4%, XPENG, LEAPMOTOR ALSO DECLINE"
+    },
     {
       "id": "4887192",
       "time": "2026-05-19 13:09:34",
@@ -141436,30 +141494,6 @@
         "Importance 1"
       ],
       "text": "FX Updates: South Korean Won Depreciates by 0.63% — Top currency losers are South Korean Won (-0.63%), Swedish Krona (-0.32%), Australian Dollar (-0.30%), Japanese Yen (-0.29%), British Pound (-0.27%) and Euro (-0.26%). Gains are led by Dollar Index (0.24%)."
-    },
-    {
-      "id": "4874187",
-      "time": "2026-05-12 13:14:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "【英矽智慧與瑞博生物簽署戰略合作協議】5月12日，英矽智慧宣佈，公司與瑞博生物（06938.HK）簽署戰略合作協議。雙方將在已經達成的基於英矽智慧LifeStar 2實驗室自動化、智慧化和規模化能力的實驗服務合作基礎上，進一步結合英矽智慧自有Pharma.AI平臺端到端研發能力，與瑞博生物深厚的小核酸藥物研發積澱，全面提升小核酸藥物研發效率。"
-    },
-    {
-      "id": "4874186",
-      "time": "2026-05-12 13:12:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "滙豐環球研究將SK海力士目標價從180萬韓元上調至290萬韓元。"
-    },
-    {
-      "id": "4874185",
-      "time": "2026-05-12 13:12:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家藥監局局長黃果會見新加坡衛生科學局局長蔡瑞文並簽署合作備忘錄】5月11日，國家藥監局局長黃果在京會見了來訪的新加坡衛生科學局局長蔡瑞文一行，並簽署《中華人民共和國國家藥品監督管理局與新加坡共和國衛生科學局監管合作諒解備忘錄》。雙方就細胞和基因治療、創新醫療器械及人工智慧產品監管等議題深入交換意見。雙方同意，以本次簽署合作諒解備忘錄為里程碑，強化合作機制，細化時間表、路線圖，深化資訊共享、審評協同、技術交流，推進監管互信和提質增效，共同推動兩國及地區監管發展，守護公眾健康。"
     }
   ]
 }
