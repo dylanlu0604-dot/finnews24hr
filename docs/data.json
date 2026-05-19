@@ -1,7 +1,49 @@
 {
-  "updated": "2026-05-20 04:36:19",
-  "count": 15592,
+  "updated": "2026-05-20 04:40:16",
+  "count": 15593,
   "items": [
+    {
+      "id": "4888867",
+      "time": "2026-05-20 04:37:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國電網運營商PJM Interconnection LLC.釋出最大化發電應急/負荷管理警告。"
+    },
+    {
+      "id": "mkt:019e41f4-bf12-7228-9b00-89678d917792",
+      "time": "2026-05-20 04:36:57",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Alphabet",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "GOOGL.O"
+      ],
+      "text": "NVIDIA CORP - NVIDIA AND GOOGLE CLOUD EMPOWER NEXT WAVE OF AI BUILDERS"
+    },
+    {
+      "id": "4888866",
+      "time": "2026-05-20 04:36:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達：英偉達攜手谷歌雲，賦能新一代人工智慧開發者。"
+    },
+    {
+      "id": "mkt:019e41f3-c650-7228-9b00-87d613e22966",
+      "time": "2026-05-20 04:35:52",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | API Weekly Crude Oil Runs (May.15) | actual -78000M | previous 188000M"
+    },
     {
       "id": "mkt:019e41f3-a651-7228-9b00-7895ebb641f8",
       "time": "2026-05-20 04:35:44",
@@ -140744,34 +140786,6 @@
         "其他"
       ],
       "text": "澳大利亞稱將支援由英國、法國在霍爾木茲海峽主導的防禦性行動。"
-    },
-    {
-      "id": "4875847",
-      "time": "2026-05-13 04:39:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "奧地利譴責美國間諜飛機未經許可闖入該國領空。"
-    },
-    {
-      "id": "4875846",
-      "time": "2026-05-13 04:38:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "油輪追蹤機構TankerTrackers：據估算，二戰期間沉沒的船隻中，約有1.13 億桶原油封存於海底。"
-    },
-    {
-      "id": "te:markets:550083",
-      "time": "2026-05-13 04:36:46",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Gains as Energy Stocks Rally on Supply Concerns — he S&P/TSX Composite Index rose 0.4% to close at 34,291 on Tuesday, supported by gains in energy and banking stocks. Oil prices advanced after renewed disagreements between Iran and the US over a proposed peace framework revived supply concerns. Canadian Natural climbed 4.1%, while Imperial Oil gained 2.6% and Cenovus Energy added 3.2%. Banks also traded higher, with Royal Bank of Canada up 1.0% and TD Bank gaining 0.8%, offsetting declines in BMO (-0.2%) and Brookfield (-0.5%). BMO also agreed to sell its transportation and vendor finance businesses to Stonepeak. Meanwhile, gold prices weakened as a stronger US dollar clouded the outlook for US interest rates. Barrick fell 2.4%, while Wheaton Precious Metals lost 0.5%. Elsewhere, Chemtrade Logistics dropped 9.8% after weak quarterly results, while Organigram plunged 14.4% on weaker net revenue. Constellation Software (0.4%) and Franco-Nevada (-0.2%) are set to release Q1 2026 earnings after the close."
     }
   ]
 }
