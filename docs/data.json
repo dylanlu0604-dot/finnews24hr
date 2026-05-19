@@ -1,7 +1,44 @@
 {
-  "updated": "2026-05-20 02:50:10",
-  "count": 15610,
+  "updated": "2026-05-20 02:54:06",
+  "count": 15608,
   "items": [
+    {
+      "id": "4888802",
+      "time": "2026-05-20 02:53:27",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【滙豐：10年期美債收益率在危險區，但尚未發出買入訊號】滙豐的多資產策略師在一份報告中表示，儘管美國10年期國債收益率處於“往往會對幾乎所有資產類別構成壓力”的“危險區”，但尚未達到代表買入機會的水平。Harriet Smith牽頭的滙豐策略師團隊在5月18日的一份報告中表示：“儘管全球債券市場遭遇拋售，但我們的指標尚未發出強烈買入訊號”；美國10年期國債收益率週二升破4.68%，本月初時還在4.4%。"
+    },
+    {
+      "id": "4888801",
+      "time": "2026-05-20 02:53:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "萬事達卡放棄投資計劃後，零雜湊集團尋求新一輪融資，估值超15億美元。"
+    },
+    {
+      "id": "4888800",
+      "time": "2026-05-20 02:51:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油期貨結算價報每桶111.28美元，下跌82美分，跌幅0.73%。"
+    },
+    {
+      "id": "mkt:019e4193-9c5e-7228-9aff-6bdfb66db73e",
+      "time": "2026-05-20 02:50:53",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "BRENT CRUDE FUTURES SETTLE AT $111.28/BBL, DOWN 82 CENTS, 0.73 PCT"
+    },
     {
       "id": "mkt:019e4191-9c9a-7228-9aff-610469791cca",
       "time": "2026-05-20 02:48:42",
@@ -140885,69 +140922,6 @@
         "其他"
       ],
       "text": "【烏干達當選總統穆塞韋尼宣誓就職 】烏干達當選總統約韋裡·穆塞韋尼12日在首都坎帕拉宣誓就職，正式開啟第七個總統任期。（新華社）"
-    },
-    {
-      "id": "mkt:019e1d88-35dc-7772-877d-61742feb2799",
-      "time": "2026-05-13 02:52:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "JD VANCE TAPPING CLIFF SIMS AS ANOTHER NATIONAL SECURITY ADVISER- POLITICO"
-    },
-    {
-      "id": "mkt:019e1d88-1105-7772-877d-5c0c67e990df",
-      "time": "2026-05-13 02:51:54",
-      "tags": [
-        "MKT News",
-        "XHB.O",
-        "Impact bullish",
-        "ITB.O"
-      ],
-      "text": "HOUSE REPUBLICANS MOVE FORWARD ON REVISING SENATE HOUSING BILL – POLITICO"
-    },
-    {
-      "id": "4875772",
-      "time": "2026-05-13 02:51:26",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國聯邦通訊委員會（FCC）無線通訊局與太空局釋出宣告，已批准EchoStar向SpaceX出售約 65 兆赫茲頻譜資源。  還批准額外 50 兆赫茲頻譜出售給美國電話電報公司（AT&T）。"
-    },
-    {
-      "id": "mkt:019e1d87-53d2-7772-877d-56b0e577d35e",
-      "time": "2026-05-13 02:51:08",
-      "tags": [
-        "MKT News",
-        "T",
-        "Impact bullish"
-      ],
-      "text": "FCC ALSO APPROVED SALE OF AN ADDITIONAL 50 MEGAHERTZ TO AT&T"
-    },
-    {
-      "id": "mkt:019e1d87-1089-7772-877d-49c53723164f",
-      "time": "2026-05-13 02:50:45",
-      "tags": [
-        "MKT News",
-        "SATS",
-        "Impact mixed"
-      ],
-      "text": "U.S. FCC’S WIRELESS TELECOMMUNICATIONS BUREAU AND SPACE BUREAU APPROVED ECHOSTAR’S SALE OF APPROXIMATELY 65 MEGAHERTZ OF SPECTRUM TO SPACEX -STATEMENT"
-    },
-    {
-      "id": "mkt:019e1d86-c644-7772-877d-431f5ea069c6",
-      "time": "2026-05-13 02:50:32",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Hot",
-        "Market Themes",
-        "The Trump Trade",
-        "Policy",
-        "Breaking News 24h",
-        "Chinese Policy & Markets"
-      ],
-      "text": "【Trump Says Trade Will Be Focus of Xi Summit, Not Iran】President Donald Trump said trade will be the main focus of his summit with Chinese President Xi Jinping, downplaying discussions on the Iran war. “We’re going to be talking to President Xi about a lot of things. I would say, more than anything, trade,” Trump told reporters Tuesday at the White House. He added, “I wouldn’t say Iran is one of them… we have Iran very much under control.” Trump emphasized his strong relationship with Xi and said the two sides will discuss extending last fall’s trade truce."
     }
   ]
 }
