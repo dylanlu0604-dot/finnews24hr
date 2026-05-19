@@ -1,7 +1,48 @@
 {
-  "updated": "2026-05-19 23:22:54",
-  "count": 15628,
+  "updated": "2026-05-19 23:27:06",
+  "count": 15618,
   "items": [
+    {
+      "id": "4888594",
+      "time": "2026-05-19 23:26:13",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【貝森特稱相信日本央行行長會做“他需要做的事”】美國財長貝森特稱，對日本央行行長植田和男有信心，相信如果日本政府給予其足夠獨立性，植田會做“他需要做的事”。“我認為他是一位出色的央行行長，如果他們能給他空間去做他會做、需要做的事，我相信他們會有出色的貨幣政策，”貝森特表示。"
+    },
+    {
+      "id": "mkt:019e40d6-dccf-7228-9afc-2fbfd20714b5",
+      "time": "2026-05-19 23:24:43",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "ANDREJ KARPATHY, CO-FOUNDER OF OPENAI, HAS JOINED ANTHROPIC"
+    },
+    {
+      "id": "mkt:019e40d6-1c56-7228-9afc-2574f5c82556",
+      "time": "2026-05-19 23:23:51",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bullish"
+      ],
+      "text": "TESLA IS BUILDING ITS GIANT SOLAR PANEL FACTORY IN HOUSTON - ELECTREK"
+    },
+    {
+      "id": "4888593",
+      "time": "2026-05-19 23:23:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "特斯拉將在休斯頓建造其大型太陽能電池板工廠。"
+    },
     {
       "id": "mkt:019e40d3-d6f5-7228-9afc-1ca996baf8aa",
       "time": "2026-05-19 23:21:25",
@@ -141240,140 +141281,6 @@
         "國際"
       ],
       "text": "烏克蘭總統澤連斯基：我與西班牙眾議院議長Francina Armengol舉行了會談。 雙方首先商討了防務合作事宜，涉及防空體系以及 PURL 與 SAFE 兩項計劃的推進。我們一致認為，歐洲必須實現防空自主，具備抵禦彈道導彈、無人機及其他各類空中威脅的能力。"
-    },
-    {
-      "id": "mkt:019e1ccc-7b10-7dd3-a757-3ea2a1bec213",
-      "time": "2026-05-12 23:27:03",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Wall Street (US)",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "S&P 500 INDEX EXTENDS DROP TO 1%"
-    },
-    {
-      "id": "mkt:019e1ccc-617a-7dd3-a757-36a9df75cc5a",
-      "time": "2026-05-12 23:26:56",
-      "tags": [
-        "MKT News",
-        "VOW3.DE"
-      ],
-      "text": "VW IS SAID TO SEEK BINDING BIDS FOR EVERLLENCE IN EARLY JUNE"
-    },
-    {
-      "id": "4875619",
-      "time": "2026-05-12 23:26:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數跌幅擴大至1%。"
-    },
-    {
-      "id": "4875618",
-      "time": "2026-05-12 23:25:34",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【Waymo召回無人駕駛計程車，因自動駕駛車輛駛入淹水路段】根據美國國家公路交通安全管理局（NHTSA）網站上釋出的文件，谷歌母公司Alphabet旗下無人駕駛部門Waymo正在召回數千輛無人駕駛計程車（robotaxis），以修復一項可能導致自動駕駛車輛駛入淹水路段的軟體問題。此次召回涉及配備該公司第五代和第六代自動駕駛系統的車輛。 Waymo正在制定最終補救方案以解決該問題。這一決定源於聖安東尼奧發生的一起事件：一輛空載的Waymo無人車在遇到淹水路段後，仍以較低速度繼續駛入積水中。"
-    },
-    {
-      "id": "mkt:019e1cca-c66e-7dd3-a757-2b3233b65940",
-      "time": "2026-05-12 23:25:11",
-      "tags": [
-        "MKT News",
-        "UNH.O",
-        "Impact bearish"
-      ],
-      "text": "MEDICAL TRENDS FROM FIRST QUARTER CONTINUED IN APRIL: UNH CFO"
-    },
-    {
-      "id": "4875617",
-      "time": "2026-05-12 23:24:54",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內漲4%，現報108.38美元/桶。"
-    },
-    {
-      "id": "te:markets:550051",
-      "time": "2026-05-12 23:24:48",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "South Korea",
-        "currency",
-        "Importance 1"
-      ],
-      "text": "South Korean Won Hits 4-week Low — The South Korean Won touched 1493.00 against the USD, the lowest since April 2026. Over the past 4 weeks, US Dollar South Korean Won gained 0.9%, and in the last 12 months, it increased 5.33%."
-    },
-    {
-      "id": "4875616",
-      "time": "2026-05-12 23:24:17",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨黃金日內跌2%，現報4639.71美元/盎司。"
-    },
-    {
-      "id": "4875615",
-      "time": "2026-05-12 23:23:50",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4640美元/盎司，日內跌2.00%。"
-    },
-    {
-      "id": "4875614",
-      "time": "2026-05-12 23:23:36",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "玩具卡車品牌 Tonka 生產商 Basic Fun 執行長表示，公司已收到美國最高法院裁定無效關稅的部分退款。"
-    },
-    {
-      "id": "mkt:019e1cc8-f696-7dd3-a757-252efc34f7af",
-      "time": "2026-05-12 23:23:10",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "JUNIOR UK MINISTER ZUBIR AHMED RESIGNS - GUARDIAN"
-    },
-    {
-      "id": "te:markets:550050",
-      "time": "2026-05-12 23:23:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Gold is down by 2% — Gold decreased 2% to 4640.97 USD/t.oz"
-    },
-    {
-      "id": "4875613",
-      "time": "2026-05-12 23:23:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4650美元/盎司，日內跌1.67%。"
-    },
-    {
-      "id": "4875612",
-      "time": "2026-05-12 23:22:55",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4650美元/盎司，日內跌1.83%。"
     }
   ]
 }
