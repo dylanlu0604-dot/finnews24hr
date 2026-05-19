@@ -1,7 +1,117 @@
 {
-  "updated": "2026-05-19 12:32:46",
-  "count": 15650,
+  "updated": "2026-05-19 12:36:33",
+  "count": 15657,
   "items": [
+    {
+      "id": "4887154",
+      "time": "2026-05-19 12:35:43",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲期指轉跌；歐元斯托克50指數期貨持平；富時指數期貨小幅下跌；德國DAX指數期貨下跌0.15%。"
+    },
+    {
+      "id": "mkt:019e3e84-52ff-7aa9-b722-c1fcfed106b6",
+      "time": "2026-05-19 12:35:15",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Operating Ratio Index (Mar) | actual 103.7 | previous 105"
+    },
+    {
+      "id": "4887153",
+      "time": "2026-05-19 12:35:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "【普京說期待在北京相見】應國家主席習近平邀請，俄羅斯總統普京於5月19日至20日對中國進行國事訪問。訪華前，普京發表影片講話。這是普京首次在出訪前發表影片講話。他表示，很高興再次訪華，定期互訪和舉行元首會晤，是俄中全方位發展兩國關係、挖掘其真正無限潛力的重要且不可或缺的一部分。普京表示，俄中之間緊密的戰略協作在國際舞臺上發揮著重要的穩定作用。同時，俄中友誼不針對第三方，而是追求和平與共同繁榮。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:019e3e83-ac38-7aa9-b722-bd6adb1f0277",
+      "time": "2026-05-19 12:34:24",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Inventories Final (MoM) (Mar) | actual -1.8% | previous -1.5%"
+    },
+    {
+      "id": "4887152",
+      "time": "2026-05-19 12:34:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美媒稱美對古巴“動武”可能性在增加】美國《政治報》網站18日刊文稱，由於美國對古巴採取的施壓手段並未奏效，美國正比以往更認真地考慮軍事選項。報道援引美方官員及相關知情人士的話稱，美國總統特朗普正對美方向古巴的施壓行動感到“沮喪”。“美方最初認為在委內瑞拉的行動以及對古巴的一系列制裁會嚇住古巴，迫使他們達成協議。但現在伊朗局勢已失控，古巴人比一開始想象的要強硬得多，軍事行動選項因此被放上桌面。”（新華社）"
+    },
+    {
+      "id": "4887151",
+      "time": "2026-05-19 12:33:58",
+      "tags": [
+        "宏觀",
+        "公司"
+      ],
+      "text": "德國能源公司Uniper執行長：歡迎德國財政部宣佈正式啟動重新私有化流程。"
+    },
+    {
+      "id": "mkt:019e3e82-eda1-7aa9-b722-b361ffc903af",
+      "time": "2026-05-19 12:33:39",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Industrial Production Final (MoM) (Mar) | actual -0.4% | previous -0.50%"
+    },
+    {
+      "id": "4887150",
+      "time": "2026-05-19 12:33:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴基斯坦KSE-100指數開盤上漲1.2%，至163,780.70點。"
+    },
+    {
+      "id": "mkt:019e3e82-045a-7aa9-b722-aad4c0abb21e",
+      "time": "2026-05-19 12:32:41",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Industrial Production Final (YoY) (Mar) | actual 2.4% | previous 2.30%"
+    },
+    {
+      "id": "mkt:019e3e81-c564-7aa9-b722-a60443bb198f",
+      "time": "2026-05-19 12:32:31",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Operating Ratio Index (MoM) (Mar) | actual -1.2% | previous -0.10%"
+    },
+    {
+      "id": "mkt:019e3e81-9e93-7aa9-b722-9fbe5c87012b",
+      "time": "2026-05-19 12:32:22",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Tertiary Sector Activity Index (MoM) (Mar) | actual -0.2% | consensus -0.50% | previous -0.40%"
+    },
+    {
+      "id": "4887149",
+      "time": "2026-05-19 12:32:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "滙豐將美光科技公司目標股價從750美元上調至1100美元。"
+    },
     {
       "id": "4887148",
       "time": "2026-05-19 12:31:25",
@@ -141409,53 +141519,6 @@
         "其他"
       ],
       "text": "貝倫貝格將殼牌目標股價從4100便士下調至4000便士。"
-    },
-    {
-      "id": "4874151",
-      "time": "2026-05-12 12:35:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "【一季度江蘇中歐（亞）班列開行數量同比增長29.3%】一季度，江蘇省累計開行中歐（亞）班列599列，同比增長29.3%。"
-    },
-    {
-      "id": "4874150",
-      "time": "2026-05-12 12:34:27",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "馬自達股價在財報釋出後上漲高達15%。"
-    },
-    {
-      "id": "te:markets:549855",
-      "time": "2026-05-12 12:33:49",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Wheat Futures Climb Over 1% — Wheat futures climbed more than 1% to near $6.30 per bushel, extending gains for a third consecutive session as persistent dryness across parts of the US Great Plains continues to threaten yields in a breadbasket region. According to the United States Department of Agriculture, winter wheat conditions deteriorated further, with 28% of the crop now rated good to excellent, down from 31% the previous week and significantly below 54% a year earlier. Market attention is also focused on the upcoming USDA World Agricultural Supply and Demand Estimates report due Tuesday, which is expected to update projections for wheat production and global supply balances amid persistent drought conditions. Additional support for wheat prices has come from broader geopolitical uncertainty affecting global trade flows. Recent developments in US–Iran negotiations have further unsettled markets, as talks failed to produce an agreement and the Strait of Hormuz remains effectively closed."
-    },
-    {
-      "id": "te:markets:549854",
-      "time": "2026-05-12 12:33:39",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Palm Oil Slips Below MYR 4,500 Amid Inventory Build — Malaysian palm oil futures fell over 1% to trade below MYR 4,500 per tonne, pressured by weaker palm olein prices on the Dalian exchange. Sentiment was also weighed by monthly data from the industry regulator, which showed inventories rose in April for the first time in four months as production grew while exports fell. Demand concerns also lingered after India, the world’s largest palm oil buyer, reported a 27% mom drop in April imports to a one-year low. Still, losses were limited by a softer ringgit and firmer crude oil prices, as negotiations to end the conflict between the U.S. and Iran appeared increasingly fragile. On the policy front, Malaysia will raise its biodiesel mandate to B15 from B10 starting June 1, a move aimed at reducing fuel imports. Meanwhile, export data for early May was mixed. Cargo surveyor Intertek Testing Services estimated exports of Malaysian palm oil products during May 1–10 rose 8.5%, while AmSpec Agri Malaysia noted that shipments declined 10.8%."
-    },
-    {
-      "id": "4874149",
-      "time": "2026-05-12 12:33:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "【非貨ETF5月以來已淨流出1335億元 行業ETF吸金】隨著大盤持續走高，非貨ETF維持淨流出的態勢，Wind資料顯示，非貨ETF昨日淨流出503.38億元。其中，昨日創下新高的科創50指數，跟蹤的ETF合計淨流出29.19億元；滬深300指數是昨日全市場淨流出最多的ETF掛鉤指數，相關跟蹤ETF合計流出161.03億元；中證500、中證1000、上證50指數的跟蹤ETF淨流出較多。5月以來非貨ETF已經累計淨流出1334.66億元，華泰柏瑞滬深300ETF淨流出209.03億元；南方中證500ETF、華夏上證50ETF、易方達滬深300ETF等3只產品也淨流出超百億元；行業ETF依舊吸金，國泰中證全指證券公司ETF、華泰柏瑞上證紅利ETF均淨流入超十億。"
     }
   ]
 }
