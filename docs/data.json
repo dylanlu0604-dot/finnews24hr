@@ -1,7 +1,112 @@
 {
-  "updated": "2026-05-19 20:35:30",
-  "count": 15581,
+  "updated": "2026-05-19 20:39:36",
+  "count": 15573,
   "items": [
+    {
+      "id": "4888220",
+      "time": "2026-05-19 20:38:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國總理默茨：我們必須警惕債務過度增長，德國對歐元區穩定發揮著重要作用。"
+    },
+    {
+      "id": "mkt:019e403e-68aa-7aa9-b728-d60eeb60900a",
+      "time": "2026-05-19 20:37:58",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB'S NAGEL: “MAYBE WE HAVE TO DO SOMETHING’ IN JUNE"
+    },
+    {
+      "id": "mkt:019e403e-1a55-7003-b2ba-40a130680872",
+      "time": "2026-05-19 20:37:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENTCOM: A U.S. SAILOR STANDS WATCH ABOARD USS ABRAHAM LINCOLN (CVN 72) AS THE AIRCRAFT CARRIER TRANSITS THE ARABIAN SEA, MAY 18. CENTCOM FORCES HAVE REDIRECTED 88"
+    },
+    {
+      "id": "mkt:019e403d-cc2c-7aa9-b728-c2a8dfa88519",
+      "time": "2026-05-19 20:37:32",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "U.S. AND ISRAELI MILITARIES REMAIN ON ALERT ACROSS THE REGION IN THE EVENT THAT DIPLOMATIC EFFORTS FAIL AND STRIKES ARE ORDERED"
+    },
+    {
+      "id": "4888219",
+      "time": "2026-05-19 20:37:11",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委內格爾：歐央行將於 6 月依據資料作出政策決議。"
+    },
+    {
+      "id": "4888218",
+      "time": "2026-05-19 20:36:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬斯克：將就美國陪審團對其起訴OpenAI一案的敗訴裁決提出上訴。"
+    },
+    {
+      "id": "4888217",
+      "time": "2026-05-19 20:36:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【隆揚電子：控股股東及其一致行動人擬減持不超2%公司股份】隆揚電子(301389)5月19日公告，公司控股股東隆揚國際計劃透過大宗交易的方式減持本公司股份不超過53萬股（即不超過公司總股本的0.19%）；控股股東的一致行動人群展諮詢計劃透過集中競價或/和大宗交易的方式減持本公司股份不超過512.45萬股(即不超過公司總股本的1.81%)。"
+    },
+    {
+      "id": "4888216",
+      "time": "2026-05-19 20:35:59",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "印尼財政部長：印尼已開始干預債券市場。印尼每日計劃回購約2萬億印尼盾的債券。"
+    },
+    {
+      "id": "4888215",
+      "time": "2026-05-19 20:35:49",
+      "tags": [
+        "央行",
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "【七國集團財長會聚焦中東戰事經濟衝擊】七國集團財長會議18日至19日在法國巴黎舉行。法國經濟與財政部長羅蘭·萊斯屈爾19日表示，與會方一致認為，國際貨幣基金組織和世界銀行應採取更多行動，幫助那些因中東戰事而經濟受困的國家。據悉，七國集團財長和央行行長就中東戰事所致經濟影響和全球債市波動等進行了磋商，卡達、阿聯酋、巴西和肯亞等國代表也參與討論。萊斯屈爾說，與會方呼籲世界銀行和國際貨幣基金組織採取更多行動，確保因中東戰事面臨嚴重衝擊的國家得到幫助。中東戰事導致全球能源、糧食和化肥等供應緊張。萊斯屈爾特別提及，化肥短缺可能產生嚴重影響。（央視新聞）"
+    },
+    {
+      "id": "te:economy:551939",
+      "time": "2026-05-19 20:35:10",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Inflation Rate",
+        "Importance 3"
+      ],
+      "text": "Canada Inflation Rate Undershoots Expectatoins — The headline inflation rate in Canada rose to 2.8% in April of 2026 from 2.4% in the previous month, the highest in two years, albeit firmly under the market consensus of 3.1%. The increase extended the jump from the previous month as the disruption of energy supply from the Middle East, due to the war in the region, raised prices of fuel and power. In turn, prices for core sectors of the economy grew at a more moderate pace, aligned with the Bank of Canada's note that it did not see higher energy prices spread into inflation expectations so far. The trimmed-mean and median core inflation rates followed by the BoC fell to 2% and 2.1%, respectively, below market expectations to their lowest in five years."
+    },
+    {
+      "id": "4888213",
+      "time": "2026-05-19 20:35:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "通脹資料公佈後，加元<CAD=>走軟，兌美元觸及1.3772，逼近五週低點，日內跌幅為0.2%。"
+    },
     {
       "id": "mkt:019e403b-29ea-7aa9-b728-bca821e1c4f2",
       "time": "2026-05-19 20:34:22",
@@ -140641,176 +140746,6 @@
         "其他"
       ],
       "text": "【滙豐上調布倫特原油預測，假設霍爾木茲海峽在第三季度末恢復正常】滙豐上調了其布倫特原油價格預測，假設透過霍爾木茲海峽的交通和海灣地區的石油產量將從6月中旬開始逐步恢復。“我們現在的基準情境假設……到2026年第三季度末，系統級產量和供應將恢復到接近正常的水平，“該行高階油氣分析師Kim Fustier表示。“更長時間的干擾意味著更大的庫存消耗、更具挑戰性的戰後庫存補充，以及更高的剩餘風險溢價，從而支撐更高的長期價格錨點。“滙豐現在預計，今年布倫特原油均價將達到每桶95美元，高於此前預期的每桶80美元。從2027年起，這一國際原油基準價格預計為每桶75美元，而此前的預估為70美元。"
-    },
-    {
-      "id": "4875244",
-      "time": "2026-05-12 20:39:18",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "烏干達財政部表示，發行首支主權伊斯蘭 Sukuk 債券的工作已進入後期階段。"
-    },
-    {
-      "id": "4875243",
-      "time": "2026-05-12 20:39:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "石油世界機構預計，2026年全球生物柴油產量將達6710萬噸，高於2025年的6130萬噸。"
-    },
-    {
-      "id": "mkt:019e1c32-9d1d-7dd3-a754-6bc7aa01bf64",
-      "time": "2026-05-12 20:38:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "NORWAY’S DEPUTY FOREIGN MINISTER MEETS WITH IRAN’S ARAGHCHI, PER THE IRANIAN FOREIGN MINISTRY"
-    },
-    {
-      "id": "4875242",
-      "time": "2026-05-12 20:38:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "【萬科A：深鐵集團向公司提供25億元股東借款額度並由公司提供擔保】5月12日，萬科A公告，公司於2026年5月12日與第一大股東深圳市地鐵集團有限公司（下稱“深鐵集團”或“出借人”）簽署《關於股東借款及資產擔保的框架協議》。根據《框架協議》，深鐵集團在2026年1月1日至2026年12月31日期間向公司提供不超過25億元借款額度，借款額度包括《框架協議》生效之前已實際發生但公司未提供抵/質押擔保措施的信用借款及已提供擔保但後續確認無法實施或部分無法實施的借款，及《框架協議》生效之後發生的借款，公司將對《框架協議》下實際發生的借款提供抵押擔保、質押擔保、保證擔保等擔保方式。"
-    },
-    {
-      "id": "4875241",
-      "time": "2026-05-12 20:38:50",
-      "tags": [
-        "央行",
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "【韓國股指逼近8000點大幅震盪 機構熱議衝擊萬點】韓國綜合股價指數（KOSPI）原本即將衝擊8000點關口，受短期大幅衝高後的獲利了結拋壓影響，開始進入休整階段。元大證券12日釋出資料顯示：納入MSCI全球指數的成分企業中，韓國近12個月淨利潤達3300億美元，僅次於美國的2.95萬億美元，位居全球第二。其後依次為：日本3000億美元、英國2500億美元。 分析指出，相較於盈利體量，韓國在MSCI全球指數中的市值佔比明顯偏低，這也是韓股整體被低估的核心原因。在半導體盈利高增的背景下，市場開始熱議KOSPI衝擊10000點。 目前KOSPI近12個月市盈率（PER）僅8.5倍，低於歷次全球金融危機時期水平。 分析師認為，在半導體帶動業績走強、價值重估邏輯支撐下，只要估值迴歸合理，股指完全具備站穩並突破萬點的基礎。 但也有觀點指出，年內漲幅已達81%的韓股，短期存在調整壓力。 IBK投資證券研究員Byun Joon-ho表示：“與KOSPI高度相關的領先經濟指標，大機率在8—9月見頂；半導體出口增速也可能從9月開始放緩。疊加傑克遜霍爾央行年會、美國中期選舉等不確定性，預計夏季行情過後，市場波動將明顯加大。”"
-    },
-    {
-      "id": "mkt:019e1c32-24bc-7dd3-a754-644b8d68a1a1",
-      "time": "2026-05-12 20:38:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "INDIA TO RELEASE PROVISIONAL ESTIMATE OF 4Q, ANNUAL GDP JUNE 7"
-    },
-    {
-      "id": "4875240",
-      "time": "2026-05-12 20:38:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "DBGI透過海灣阿拉伯國家合作委員會（GCC）達成服裝授權合作協議，為現有美國專案供貨，總價值最高達1.25億美元。"
-    },
-    {
-      "id": "4875239",
-      "time": "2026-05-12 20:38:06",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國短期利率期貨在通脹資料公佈後略微收窄早前的跌幅。"
-    },
-    {
-      "id": "em:jjsj_mgsj:202605123734746765",
-      "time": "2026-05-12 20:37:47",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "【美國4月實際平均週薪同比下降0.2%】根據美國勞工統計局的資料，美國4月實際平均週薪同比下降0.2%，4月實際平均周收入環比下降0.2%，4月實際平均時薪同比下降0.3%，4月實際平均時薪環比下降0.5%。"
-    },
-    {
-      "id": "te:economy:550012",
-      "time": "2026-05-12 20:36:56",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Mexico",
-        "Industrial Production",
-        "Importance 1"
-      ],
-      "text": "Mexico Industrial Output Falls in March — Mexico’s industrial production declined 1.3% year-over-year in March 2026, matching the drop recorded in February and coming in slightly better than forecasts of a 1.5% contraction. The construction sector remained the main drag, shrinking 6.2% amid declines in building construction (-8.1%) and specialized construction activities (-2.4%). Manufacturing output also fell 1.0%, weighed down by a 10.4% drop in the production of electrical accessories, appliances, and power generation equipment. In contrast, mining output expanded 6.0%, supported by a 45.7% surge in mining-related services. The utilities sector also posted modest growth of 0.2%. On a seasonally adjusted monthly basis, industrial production fell 0.6% in March, reversing a 0.4% increase in February."
-    },
-    {
-      "id": "4875237",
-      "time": "2026-05-12 20:36:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "京東高管：短期內，電子產品漲價在一定程度上抑制了消費者需求。"
-    },
-    {
-      "id": "mkt:019e1c30-a38e-7dd3-a754-5c6f5ce46b16",
-      "time": "2026-05-12 20:36:50",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "JD.com",
-        "JD.O",
-        "Impact bearish"
-      ],
-      "text": "JD.COM EXEC - IN THE SHORT TERM, ELECTRONICS PRICE HIKES DAMPEN CONSUMER DEMAND TO SOME EXTENT"
-    },
-    {
-      "id": "te:economy:550010",
-      "time": "2026-05-12 20:36:30",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Core Inflation Rate MoM",
-        "Importance 1"
-      ],
-      "text": "US Core CPI Rises More Than Expected — Core consumer prices in the United States, which exclude food and energy, rose by 0.4% from the previous month in April of 2026, the most in over one year, overshooting market expectations of a 0.3% increase. The jump reflected the spread of higher energy prices from the war in the Middle East to core areas of the consumer basket. Prices rose sharply for shelter (0.6% vs 0.3% in March), transportation services (0.3% vs 0.6%), and apparel (0.6% vs 1%)."
-    },
-    {
-      "id": "4875236",
-      "time": "2026-05-12 20:36:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "京東高管：本輪電子產品漲價幅度大且涉及範圍廣。"
-    },
-    {
-      "id": "4875235",
-      "time": "2026-05-12 20:36:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "石油行業機構Oil World預測，2026年歐盟生物柴油產量將從2025年的1490萬噸升至1530萬噸。"
-    },
-    {
-      "id": "4875234",
-      "time": "2026-05-12 20:35:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "【鉑力特：已減持0.02%，擬再減持0.84%】鉑力特公告，公司回購專用證券賬戶持有已回購股份229.19萬股，佔總股本0.84%，擬自2026年4月11日披露起15個交易日後的6個月內透過集中競價減持不超229.19萬股。截至2026年5月12日首次減持57707股，佔總股本0.02%，成交均價96.19元/股，價格區間96.01～96.49元/股，成交金額555.07萬元；減持後持股223.42萬股，佔總股本0.81%。"
-    },
-    {
-      "id": "4875233",
-      "time": "2026-05-12 20:35:47",
-      "tags": [
-        "市場"
-      ],
-      "text": "京東高管：受記憶體成本上漲影響，自3月以來，智慧手機與個人電腦行業普遍出現漲價。"
-    },
-    {
-      "id": "mkt:a30320f6-3f06-4715-96e5-cecf342c6a39",
-      "time": "2026-05-12 20:35:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "JD.COM EXEC - DUE TO RISING MEMORY COSTS, WE HAVE SEEN INDUSTRYWIDE PRICE HIKES FOR SMARTPHONES AND PCS SINCE MARCH"
-    },
-    {
-      "id": "4875232",
-      "time": "2026-05-12 20:35:40",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【*ST準油：股價異常波動 提示多項投資風險】*ST準油公告稱，公司股票2026年5月8日、5月11日、5月12日連續三個交易日收盤價格漲幅偏離值累計達12%，屬異常波動。公司2025年度淨虧損4029.87萬元，同比降156.10%；2026年一季度淨虧損1570.73萬元，同比降1.01%，基本面未明顯改善，股價漲幅偏離基本面。此外，公司股票存在終止上市風險，還面臨國際油價波動、產業單一等風險，提醒投資者理性投資。"
     }
   ]
 }
