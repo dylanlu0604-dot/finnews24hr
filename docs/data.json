@@ -1,7 +1,111 @@
 {
-  "updated": "2026-05-20 01:54:49",
-  "count": 15627,
+  "updated": "2026-05-20 01:58:48",
+  "count": 15629,
   "items": [
+    {
+      "id": "4888755",
+      "time": "2026-05-20 01:57:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯：特朗普希望美國支援創新，並在人工智慧競賽中獲勝。"
+    },
+    {
+      "id": "4888754",
+      "time": "2026-05-20 01:57:34",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "T-Mobile攜手包括美國電話電報公司（AT&T）、查特通訊（Charter）、威瑞森（Verizon）、康卡斯特（Comcast）在內的其他7家企業，成立非營利性質的通訊行業網路安全資訊共享分析中心（C2 ISAC），旨在強化網路安全領域協作。"
+    },
+    {
+      "id": "mkt:019e4162-6848-7228-9afe-d0d351ef9e44",
+      "time": "2026-05-20 01:57:07",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "GOOGL.O",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "GOOGLE: AI MODE QUERIES HAVE MORE THAN DOUBLED EVERY QUARTER SINCE LAUNCH"
+    },
+    {
+      "id": "4888753",
+      "time": "2026-05-20 01:56:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯：（被問及芬太尼相關問題）目前已取得諸多進展。"
+    },
+    {
+      "id": "4888752",
+      "time": "2026-05-20 01:55:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "約旦因埃博拉疫情暫停允許來自剛果（金）和烏干達的旅客入境。"
+    },
+    {
+      "id": "4888751",
+      "time": "2026-05-20 01:55:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "奈飛：公司正向親子家庭等全新領域拓展業務，同時佈局玩具與糖果賽道，實現產品品類多元化發展。"
+    },
+    {
+      "id": "mkt:019e4161-0e7f-7228-9afe-c9390f213b92",
+      "time": "2026-05-20 01:55:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "VANCE: NO PLAN FOR RUSSIA TO TAKE ENRICHED URANIUM"
+    },
+    {
+      "id": "mkt:019e4160-c02e-7228-9afe-c1528429187e",
+      "time": "2026-05-20 01:55:20",
+      "tags": [
+        "MKT News",
+        "NFLX.O",
+        "Impact bullish"
+      ],
+      "text": "NETFLIX: EXPANDING INTO NEW SEGMENTS LIKE KIDS & FAMILY AND DIVERSIFYING PRODUCT CATEGORIES WITH MAJOR MOVES INTO TOYS AND CONFECTIONS - WEBSITE"
+    },
+    {
+      "id": "4888750",
+      "time": "2026-05-20 01:55:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：Gemini Spark個性化智慧代理搭載3.5 Flash模型。"
+    },
+    {
+      "id": "4888749",
+      "time": "2026-05-20 01:54:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：搜尋AI模式全球月活使用者突破10億。"
+    },
+    {
+      "id": "4888748",
+      "time": "2026-05-20 01:54:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：搜尋AI模式上線以來，季度使用者查詢量實現翻倍增長。"
+    },
+    {
+      "id": "4888747",
+      "time": "2026-05-20 01:54:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯：暫無讓俄羅斯獲取（伊朗）濃縮鈾的相關計劃。"
+    },
     {
       "id": "4888746",
       "time": "2026-05-20 01:53:45",
@@ -141103,109 +141207,6 @@
         "國際"
       ],
       "text": "美聯儲古爾斯比：目前美聯儲不需要進行艱難的平衡調控。"
-    },
-    {
-      "id": "mkt:019e1d57-1b15-7772-877b-fa11bd576641",
-      "time": "2026-05-13 01:58:28",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Market Themes",
-        "The Trump Trade",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "TRUMP ON RUSSIAN OIL WAIVER: WILL DO WHATEVER IS REQUIRED"
-    },
-    {
-      "id": "4875731",
-      "time": "2026-05-13 01:58:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：古巴是一個失敗的國家。"
-    },
-    {
-      "id": "mkt:019e1d56-7a3e-7772-877b-f3584ccb4147",
-      "time": "2026-05-13 01:57:44",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "TRUMP: OUR INFLATION IS SHORT-TERM"
-    },
-    {
-      "id": "mkt:019e1d56-0ec7-7772-877b-ec19a3e5397e",
-      "time": "2026-05-13 01:57:18",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "TRUMP: YOU'RE GONNA HAVE A GUSHER OF OIL LIKE YOU'VE NEVER HAD BEFORE. WE ASSUMED OIL WOULD GO MUCH HIGHER"
-    },
-    {
-      "id": "4875730",
-      "time": "2026-05-13 01:56:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我們的通貨膨脹是短期的。"
-    },
-    {
-      "id": "4875729",
-      "time": "2026-05-13 01:56:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及俄羅斯石油豁免政策：將採取一切必要舉措。"
-    },
-    {
-      "id": "4875728",
-      "time": "2026-05-13 01:56:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：將拭目以待與伊朗停火的事態發展。對伊朗的制裁非常有效，之前德黑蘭透過霍爾木茲海峽獲得了大量資金。我們已經消滅了伊朗軍隊。（關於通貨膨脹）我的政策正在發揮作用。"
-    },
-    {
-      "id": "mkt:019e1d56-0880-7772-877b-e0c45a901859",
-      "time": "2026-05-13 01:56:15",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "TRUMP TOUTS LAST THREE MONTHS INFLATION LEVEL"
-    },
-    {
-      "id": "mkt:019e1d55-75b2-7772-877b-deb458d78b56",
-      "time": "2026-05-13 01:55:23",
-      "tags": [
-        "MKT News",
-        "005930.KS"
-      ],
-      "text": "SAMSUNG ELEC, SOUTH KOREAN LABOUR UNION FAIL TO REACH PAY DEAL -UNION"
-    },
-    {
-      "id": "mkt:019e1d54-e16a-7772-877b-d40f9ce154d9",
-      "time": "2026-05-13 01:54:50",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "TRUMP ON IRAN: BLOCKADE HAS BEEN EFFECTIVE"
     }
   ]
 }
