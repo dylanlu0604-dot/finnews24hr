@@ -1,7 +1,69 @@
 {
-  "updated": "2026-05-19 12:25:10",
-  "count": 15641,
+  "updated": "2026-05-19 12:28:56",
+  "count": 15647,
   "items": [
+    {
+      "id": "4887140",
+      "time": "2026-05-19 12:27:54",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【歐盟稱中東局勢或使歐洲經濟面臨滯脹衝擊】歐盟委員會負責經濟事務的委員瓦爾季斯·東布羅夫斯基斯18日在巴黎表示，中東局勢持續緊張正使歐洲經濟面臨滯脹衝擊。歐盟將在本週公佈的春季經濟預測中下調經濟增長預期，同時上調通脹預期。東布羅夫斯基斯當天在巴黎出席七國集團財長會議期間接受採訪時說，由於霍爾木茲海峽持續封鎖，國際油價仍維持在每桶100美元以上，外界對滯脹的擔憂不斷升溫。他表示，政策制定者當前可動用的政策空間“更為有限”。"
+    },
+    {
+      "id": "4887139",
+      "time": "2026-05-19 12:27:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳元兌美元下跌0.5%，報0.7133美元。"
+    },
+    {
+      "id": "mkt:019e3e7b-c64b-7aa9-b722-96cab5796ef2",
+      "time": "2026-05-19 12:25:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "THAI 2026 EXPORTS SEEN DOWN 0.5% TO 1.5% - BUSINESS GROUP"
+    },
+    {
+      "id": "te:economy:551800",
+      "time": "2026-05-19 12:25:41",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Malaysia",
+        "Food Inflation",
+        "Importance 1"
+      ],
+      "text": "Malaysia Food Inflation Edges Higher — Food prices in Malaysia rose 1.2% year-on-year in April 2026, following a 1.1% increase in the previous month, which had marked the softest rise in six years. Prices continued to climb for meat (0.6% vs 0.9% in March), fish and other seafood (1.2% vs 1.5%), sugar, confectionery and desserts (0.4% vs 0.5%), fruits and nuts (1.8% vs 0.5%), and food away from home (2.6% vs 2.3%). Simultaneously, prices rebounded for oils and fats (0.1% vs -0.2%) and cereals and cereal products (0.2% vs -0.1%). Meantime, inflation for food at home was unchanged from a year earlier after a 0.1% increase in March, while prices remained weak for milk, other dairy products and eggs (-0.9% vs flat reading) and vegetables (-4.7% vs -4.9%)."
+    },
+    {
+      "id": "4887138",
+      "time": "2026-05-19 12:25:17",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【招金黃金：瓦圖科拉金礦技改整體進展符合預期 計劃2026年底完成升級改造】招金黃金(000506)5月19日在互動平臺表示，目前，瓦圖科拉金礦技改整體進展符合預期，計劃2026年底完成升級改造。技改完成後，礦山處理能力、選礦回收率將得到提升，從而推動黃金產量的增長。"
+    },
+    {
+      "id": "4887137",
+      "time": "2026-05-19 12:25:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【世界氣象組織：拉美與加勒比地區極端天氣影響愈發顯著】世界氣象組織5月18日在巴西首都巴西利亞釋出《2025年拉丁美洲和加勒比地區氣候狀況》報告。報告指出，破紀錄高溫、持續乾旱、極端降雨和熱帶氣旋正持續衝擊拉美和加勒比地區，對民眾生活、經濟發展和生態系統造成嚴重影響。（央視新聞）"
+    },
+    {
+      "id": "4887136",
+      "time": "2026-05-19 12:24:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【洪秀柱痛批賴清德最新臺獨論調】近日，賴清德在社交媒體發文，妄稱“臺灣是臺海及區域和平穩定現狀的‘維護者’”“沒有‘臺獨’問題”等。中國國民黨前主席洪秀柱19日在社交媒體發文稱，此番言論意在重新包裝“臺獨”，是赤裸裸的“新兩國論”。她指出，賴清德當局反一切主張兩岸同屬一中的人，誰反“臺獨”，就被打成敵人。洪秀柱直言，今天真正把臺灣推向危險邊緣的，不是主張和平交流的人，而是這些口口聲聲說“愛臺灣”，卻不斷拿2300萬人民安全當政治賭注的人。“臺灣人民，不是民進黨‘抗中’騙選票的消耗品。”（中新網）"
+    },
     {
       "id": "4887135",
       "time": "2026-05-19 12:23:31",
@@ -141381,15 +141443,6 @@
         "Importance 0"
       ],
       "text": "Petrobras earnings above expectations at 2.75 BRL — Petrobras (PETR3) released earnings per share at 2.75 BRL, compared to market expectations of 1.68 BRL."
-    },
-    {
-      "id": "4874145",
-      "time": "2026-05-12 12:27:49",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "阿布扎比航空集團持續擴大其在石油天然氣、緊急醫療服務、搜尋救援以及公務航空領域的業務佈局。阿布扎比航空旗下埃及空中計程車公司本季度持續擴張航線網路。"
     }
   ]
 }
