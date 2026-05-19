@@ -1,7 +1,26 @@
 {
-  "updated": "2026-05-20 07:41:00",
-  "count": 15556,
+  "updated": "2026-05-20 07:44:56",
+  "count": 15551,
   "items": [
+    {
+      "id": "te:markets:552047",
+      "time": "2026-05-20 07:44:21",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Gold Holds Decline on US-Iran Tensions — Gold traded below $4,500 an ounce on Wednesday after tumbling nearly 2% in the previous session, as escalating tensions between the US and Iran kept investors focused on inflation risks and the prospect of higher interest rates. President Donald Trump warned that the US could resume strikes on Iran within “two or three days” if Tehran failed to agree to Washington’s peace terms. The remarks came shortly after Trump said he had called off a planned attack following appeals from Gulf allies, with Tehran’s nuclear program being a major sticking point in negotiations. The prolonged conflict has effectively kept the crucial Strait of Hormuz closed to shipping, driving oil prices higher and intensifying inflationary pressures. Accelerating US inflation has also prompted traders to further reduce expectations for Federal Reserve rate cuts this year, while reinforcing speculation that the central bank could still raise rates before the end of the year."
+    },
+    {
+      "id": "4888982",
+      "time": "2026-05-20 07:41:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：在人工智慧驅動下，META公司開始裁員數千人，以提高效率。裁員預計將涉及產品和工程團隊。"
+    },
     {
       "id": "4888981",
       "time": "2026-05-20 07:39:34",
@@ -140414,64 +140433,6 @@
         "國際"
       ],
       "text": "日本日經平均指數期貨早盤下跌0.4%。"
-    },
-    {
-      "id": "4876002",
-      "time": "2026-05-13 07:44:49",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "【國金證券：煤炭二季度業績有望超預期，底部配置機會顯現】國金證券研報稱，四部委聯合印發AI與能源雙向賦能方案，提出2027年清潔能源與算力設施互動能力顯著提升，2030年算力清潔能源供給達世界領先。政策聚焦算電協同、低碳管控及AI能源場景應用，強化算電融合產業趨勢。三維框架持續演繹：煤價電價上漲、火電業績韌性兌現、板塊低配低估。火電Q1業績好於預期，自由現金流2025年首次轉正至775億元，公用事業屬性凸顯。算電協同主題下，電力企業正從能源底座轉向算力底座。關注火電公用事業化及能源安全投資機會，煤炭二季度業績有望超預期，底部配置機會顯現。"
-    },
-    {
-      "id": "4876001",
-      "time": "2026-05-13 07:44:26",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨白銀突破87美元/盎司，日內漲0.60%。"
-    },
-    {
-      "id": "4876000",
-      "time": "2026-05-13 07:42:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國際資本持續加倉 多隻海外中國科技ETF規模增長】二季度以來，多隻在美上市的中國科技ETF持續獲得資金淨流入，結束了二三月份的淨流出態勢。與此同時，外資機構密集調研A股科技賽道，聚焦半導體、高階元器件、品牌出海等細分賽道。業內人士認為，當前全球資本正加速進行地域多元化配置，中國科技股的結構性機會因此越發受到關注。外資機構更傾向於精選那些壁壘明確、具備全球對標價值的細分領域龍頭公司。隨著國產AI領域投入加碼、終端智慧化程序提速，中國科技行業對全球投資者的吸引力正在穩步提升。（上海證券報）"
-    },
-    {
-      "id": "4875999",
-      "time": "2026-05-13 07:42:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "【Fervo Energy在美國首次公開募股中籌集18.9億美元】地熱能源開發商Fervo Energy表示，其在規模已擴大的美國首次公開募股（IPO）中，共籌集了18.9億美元。"
-    },
-    {
-      "id": "4875998",
-      "time": "2026-05-13 07:41:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "香港國泰航空：賀以禮因退休離開太古集團，將根據公司章程第93條退任 公司常務董事及董事局主席，並將不會參與重選。"
-    },
-    {
-      "id": "4875997",
-      "time": "2026-05-13 07:41:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "香港國泰航空：現任公司非常務董事白德利已調任公司常務董事，並獲選為董事局主席。"
-    },
-    {
-      "id": "4875996",
-      "time": "2026-05-13 07:41:12",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信建投：遊輪爆發漢坦病毒疫情 關注疫苗研發相關機會】中信建投研報稱，2026年4月，荷蘭籍極地探險郵輪“洪迪厄斯號”暴發漢坦病毒感染疫情，截至目前已報告8例病例（6例確診、2例疑似），3例死亡。漢坦病毒根據地理分佈和所致疾病的不同，可分為舊大陸型（包括漢灘型、漢城型等）和新大陸型（以安第斯型為代表），其中引起本次疫情的為安第斯型。我國已有針對漢灘型和漢城型的雙價腎綜合徵出血熱疫苗，而全球針對安第斯型尚無疫苗上市。建議關注具備擁有腎綜合徵出血熱疫苗佈局的企業，以及佈局重組蛋白、mRNA、腺病毒等新型技術平臺的企業。"
     }
   ]
 }
