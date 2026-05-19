@@ -1,7 +1,56 @@
 {
-  "updated": "2026-05-19 10:20:52",
-  "count": 15615,
+  "updated": "2026-05-19 10:24:47",
+  "count": 15616,
   "items": [
+    {
+      "id": "4886984",
+      "time": "2026-05-19 10:24:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【銅價小幅走高 企業仍持謹慎態度】亞洲早盤交易中銅價小幅走高，價格繼續波動。南華期貨在一份報告中表示，由於價格高企，中國企業對採購仍持謹慎態度。該機構補充稱，進口銅持續抵達上海市場，推高了整體庫存水平。三個月期 LME 銅合約上漲 0.2%，至每噸 13,613.50 美元。"
+    },
+    {
+      "id": "4886983",
+      "time": "2026-05-19 10:23:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "日經225指數跌幅擴大，最新報跌0.6%。"
+    },
+    {
+      "id": "4886982",
+      "time": "2026-05-19 10:22:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "大金重工啟動7億美元香港上市預路演。"
+    },
+    {
+      "id": "4886981",
+      "time": "2026-05-19 10:21:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【數字產品影響孩子視力、注意力等 教育部緊急叫停“電子帶娃”】今天（19日），教育部啟動2026年全國學前教育宣傳月，主題是“共同守護數字時代的童年”，呼籲各地幼兒園“以遊戲為基本活動”，不能以伴讀、聊天、互動遊戲等兒童數字產品替代圖畫書、玩具，不能用數字產品直接生成兒童觀察記錄、評價幼兒等。引導廣大家長樹立“多陪伴、多遊戲、多運動、多親近自然”的育兒理念，自覺識別並抵制早教類App等商業宣傳誤導，防範“電子帶娃”。"
+    },
+    {
+      "id": "4886980",
+      "time": "2026-05-19 10:21:06",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【商業航天板塊震盪下探，中國衛星觸及跌停】商業航天板塊震盪下探，中國衛星觸及跌停，巨力索具此前跌停，理工導航、上海港灣、神劍股份跟跌。"
+    },
+    {
+      "id": "4886979",
+      "time": "2026-05-19 10:21:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【比亞迪高管回應閃充傷電池】比亞迪電池事業群 CTO 孫華軍在接受採訪時，談到了“閃充傷電池”擔憂。 孫華軍坦言，大電流充電必然產生更高溫度，一般的熱管理技術已經無法匹配閃充的產熱速率，這是物理現實。但他同時指出，“不能簡單說閃充傷電池”—— 從 1C 到 2C 再到 4C、5C，每一代充電速度提升時都曾被質疑“傷電池”，而技術每一次都在進步。 談到電池工作溫度上限，孫華軍說，70℃ 只是過去的認知邊界，正如幾年前行業還認為磷酸鐵鋰電池高溫上限是 60℃ 一樣，“不能簡單地用自己過往經驗習慣，用慣性思維來看待新的技術”，而是透過各種創新，不停地去突破物理極限。 針對同行高管“25 萬元以上車型用鐵鋰電池是變相減配”的言論，孫華軍回應稱：電池廠沒有定義高階的權利。 “到底誰來定義高階？是電池供應商畫一條能量密度的線，還是消費者透過底盤操控、駕駛舒適性、補能速度、長期使用安全性來定義？”他認為，如果由一家電池供應商來定義什麼叫高階，“那既不尊重主機廠的工程能力，也不尊重使用者的真實判斷。” 孫華軍承認磷酸鐵鋰的技術邊界，但認為，仍有提升空間。他表示，比亞迪有信心在數年內，將鐵鋰體系的系統能量密度進一步提升。"
+    },
     {
       "id": "te:markets:551766",
       "time": "2026-05-19 10:20:13",
@@ -141102,51 +141151,6 @@
         "SZSE Component"
       ],
       "text": "TURNOVER ON SSE AND SZSE EXCEEDS 1.5TN YUAN, DOWN 154.9BN YUAN FROM THE SAME TIME YESTERDAY"
-    },
-    {
-      "id": "te:economy:549815",
-      "time": "2026-05-12 10:24:02",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "US 10-Year Yield Hits 1-Week High — The yield on the US 10-year Treasury note rose to around 4.42% on Tuesday, reaching a one-week high as President Donald Trump cast doubt on the durability of the US-Iran ceasefire after rejecting Tehran’s latest peace proposal, keeping inflation risks elevated. Reports also suggested that President Trump is set to meet with his national security team to evaluate a potential resumption of military operations, alongside renewed consideration of plans to escort commercial vessels through the Strait of Hormuz. The ongoing conflict has kept oil prices elevated, reinforcing inflationary pressures and supporting expectations that interest rates may need to remain higher for longer to contain price growth. Meanwhile, investors were awaiting April’s consumer inflation report for further insight into how the Iran conflict is impacting the economy and shaping the Federal Reserve’s policy path. The Fed is widely expected to keep the federal funds rate unchanged through the remainder of the year."
-    },
-    {
-      "id": "4873940",
-      "time": "2026-05-12 10:23:59",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超1.5萬億元，較上日此時縮量1549億元。"
-    },
-    {
-      "id": "4873934",
-      "time": "2026-05-12 10:22:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "【微信員工稱並不提供訪客記錄，已停止狀態瀏覽人數展示測試】5月12日，@客村小蔣發文回應：熱搜上的話題#微信狀態 訪客記錄#，其實有很大的誤導性，微信狀態並不提供檢視訪客記錄的功能。這個熱搜是因為微信狀態最近在很小範圍測試兩個功能：一個是狀態瀏覽人數展示的功能，釋出狀態後，在該狀態有效期內，可以在右下角看到這條狀態的瀏覽人數，對，只是展示人數。現在已停止狀態瀏覽人數展示的測試。另外小範圍測試還有一個特性，是在你的狀態頁面，會隨機從路過的朋友中漂幾個發了狀態的朋友的頭像氣泡，點選就能回看他的狀態，目前這個能力也已經停止測試。"
-    },
-    {
-      "id": "4873933",
-      "time": "2026-05-12 10:22:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "菲律賓新任參議長卡耶塔諾於5月11日宣誓就職。（央視新聞）"
-    },
-    {
-      "id": "4873926",
-      "time": "2026-05-12 10:20:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "【委代總統否認將成為美第51州】針對美國總統特朗普對媒體稱“正在認真考慮將委內瑞拉設為美國第51個州”，委內瑞拉代總統羅德里格斯5月11日表示，“這根本不在考慮之中，也永遠不會成為現實，因為委內瑞拉人民始終珍視國家獨立”。她強調，委內瑞拉將繼續捍衛國家完整、主權和獨立，並指出“推進外交合作，才是正確道路”。（CCTV國際時訊）"
     }
   ]
 }
