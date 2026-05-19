@@ -1,7 +1,166 @@
 {
-  "updated": "2026-05-19 14:40:25",
-  "count": 15662,
+  "updated": "2026-05-19 14:44:28",
+  "count": 15660,
   "items": [
+    {
+      "id": "4887353",
+      "time": "2026-05-19 14:43:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬來西亞經濟部長：政府將繼續實施針對性干預以保護消費者。"
+    },
+    {
+      "id": "4887351",
+      "time": "2026-05-19 14:43:27",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【德意志銀行：美元下跌，受美伊和平協議前景改善影響】在美國總統特朗普表示應海灣國家領導人的要求，他將推遲對伊朗的計劃襲擊後，隨著市場企穩，美元下跌。在潛在和平協議前景改善之際，這導致油價下跌。德意志銀行分析師在一份報告中表示：“這一訊息有助於消除昨天積累的部分風險溢價。“然而，由於中東局勢依然存在不確定性，市場波動有限。特朗普還警告稱，他已指示軍方官員做好準備，如果未能達成可接受的協議，將“隨時對伊朗發動全面、大規模的襲擊”。DXY美元指數下跌0.1%，至99.098。"
+    },
+    {
+      "id": "mkt:019e3ef9-7dcd-7aa9-b724-15036ef00876",
+      "time": "2026-05-19 14:43:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "8053.T",
+        "Impact bullish"
+      ],
+      "text": "BERKSHIRE HATHAWAY RAISES STAKE IN SUMITOMO CORP TO 10.30% FROM 9.29% - REGULATORY FILING"
+    },
+    {
+      "id": "4887350",
+      "time": "2026-05-19 14:42:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "據監管檔案顯示，伯克希爾哈撒韋將其在住友商事的持股比例從9.29%提升至10.30%。"
+    },
+    {
+      "id": "4887349",
+      "time": "2026-05-19 14:42:48",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【小摩：長期供貨協議佔比攀升推動重估，上調三星電子、SK海力士及鎧俠目標價】摩根大通發表報告指，長期供貨協議(LTA)為儲存晶片廠商鋪平了通向新估值框架的道路。其邏輯是，買方不只是怕漲價，更怕買不到；賣方也不只是想漲價，更想在投入鉅額資本開支前拿到訂單可見度。測算顯示，即便在激進的擴產假設下，2026到2030年間AI儲存的供給依然無法填滿雲廠商的需求，缺口大約相當於每月45萬片晶圓的產能。隨著LTA在儲存廠商出貨結構中的比重攀升，P/B(市賬率)這套用了幾十年的估值工具已經過時，必須切換到P/E(市盈率)框架。該行將三星電子目標價上調至48萬韓元(按2026至2027年預期EPS給予8倍市盈率)，SK海力士目標價從180萬韓元大幅跳升至300萬韓元，日本鎧俠目標價則從3.8萬日元直接翻倍至8萬日元，為全市場最高。"
+    },
+    {
+      "id": "4887348",
+      "time": "2026-05-19 14:42:39",
+      "tags": [
+        "宏觀",
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【印度各大航空公司請求油企暫緩上調國內航班航空燃油價格】據知情人士透露，印度各大航空公司已請求國有煉油企業，在中東衝突結束前暫緩上調國內航班航空燃油價格，以此緩解持續走高的成本壓力與不斷擴大的虧損。知情人士稱，印度航空、靛藍航空、香料航空等航司提出的這一訴求，目前正被煉油企業商議考量。相關磋商尚處於非公開階段，因此訊息人士不願具名。印度石油天然氣部也已介入此事，或將再度出手干預，該部門曾在四五月份出臺過相關調控舉措。相關決議預計將於 6 月 1 日前敲定。印度航空煤油價格由國內石油銷售企業制定，慣例於每月首日完成調價。該品類油價早已放開市場化定價，不過受伊朗局勢影響國際油價大漲後，印度政府在 4 月出臺管控政策，將航空燃油漲幅上限劃定為 25%，並要求各大石油企業在 5 月維持油價穩定不變。"
+    },
+    {
+      "id": "mkt:019e3ef8-fbc2-7aa9-b724-08f9b587d39c",
+      "time": "2026-05-19 14:42:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact mixed"
+      ],
+      "text": "EU'S DOMBROVSKIS: US TREASURY’S BESSENT REASSURES G7 MEETING THAT SANCTIONS WAIVER ON RUSSIA OIL WILL BE TEMPORARY"
+    },
+    {
+      "id": "mkt:019e3ef8-ad97-7aa9-b724-02d73598403d",
+      "time": "2026-05-19 14:42:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DXY",
+        "Impact bullish",
+        "WTI",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "EU'S DOMBROVSKIS: THE EU DOES NOT THINK THAT NOW IS THE TIME TO EASE PRESSURE ON RUSSIA"
+    },
+    {
+      "id": "4887347",
+      "time": "2026-05-19 14:42:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【企查查：近6成雪糕相關企業成立超5年】企查查資料顯示，截至5月18日，國內現存雪糕相關企業3.6萬家，主要分佈在華東地區、華南地區，分別佔比18.66%、16.22%。註冊資本分佈上，逾九成相關企業註冊資本在100萬元以內。註冊量方面，近十年雪糕相關企業註冊量整體呈波動下降趨勢，2024年-2025年每年註冊量在3900家-4100家之間，截至目前，今年已註冊1955家相關企業。"
+    },
+    {
+      "id": "4887346",
+      "time": "2026-05-19 14:41:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員東布羅夫斯基斯：美國財長貝森特在G7會議上保證，俄羅斯石油制裁豁免將是暫時性安排。"
+    },
+    {
+      "id": "4887345",
+      "time": "2026-05-19 14:41:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "【寒武紀漲超8% 成交額超200億元】寒武紀午後持續走強，成交額超200億元，現漲超8%。"
+    },
+    {
+      "id": "4887344",
+      "time": "2026-05-19 14:41:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兆易創新成交額達200億元】5月19日下午，兆易創新成交額達200億元，現漲0.91%。"
+    },
+    {
+      "id": "4887343",
+      "time": "2026-05-19 14:40:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟官員東布羅夫斯基斯稱，目前並非放鬆對俄施壓的時機。"
+    },
+    {
+      "id": "4887342",
+      "time": "2026-05-19 14:40:41",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "上交所公告稱，中金唯品會封閉式商業不動產證券投資基金週二發售。"
+    },
+    {
+      "id": "mkt:019e3ef6-c5ea-7aa9-b723-fbac8fd84f9c",
+      "time": "2026-05-19 14:40:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EU'S DOMBROVSKIS: G7 NEEDS TO FIND MEANINGFUL WAYS TO ENGAGE WITH CHINA ON MACROECONOMIC IMBALANCES"
+    },
+    {
+      "id": "4887341",
+      "time": "2026-05-19 14:40:10",
+      "tags": [
+        "央行",
+        "宏觀"
+      ],
+      "text": "經合組織科爾曼：即便經濟增長走弱，各國央行或仍需出臺政策舉措。"
+    },
+    {
+      "id": "4887340",
+      "time": "2026-05-19 14:39:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬來西亞經濟部長：中東衝突的影響預計將在第三季度更為顯著。"
+    },
     {
       "id": "4887339",
       "time": "2026-05-19 14:38:52",
@@ -141432,171 +141591,6 @@
         "焦點"
       ],
       "text": "亞馬遜啟動首筆六期瑞士法郎債券發行。"
-    },
-    {
-      "id": "4874349",
-      "time": "2026-05-12 14:44:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度石油部長：燃油銷售虧損或達 1 萬億盧比。"
-    },
-    {
-      "id": "4874348",
-      "time": "2026-05-12 14:44:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "西門子能源執行長：我們已啟動關稅追償程式，但預計不會對財務造成重大影響。"
-    },
-    {
-      "id": "4874347",
-      "time": "2026-05-12 14:44:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度部長：印度暫無封鎖計劃。"
-    },
-    {
-      "id": "4874346",
-      "time": "2026-05-12 14:43:41",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "西門子能源執行長：美國加徵的多數關稅都由我們的客戶承擔。"
-    },
-    {
-      "id": "te:markets:549894",
-      "time": "2026-05-12 14:43:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "ASX 200 Ends 0.4% Lower — Australia’s S&P/ASX 200 slipped 31 points, or 0.4%, to close at 8,671 on Tuesday, extending losses for a third session as fading hopes for a U.S.–Iran peace deal and weaker U.S. futures weighed on sentiment. President Donald Trump warned the ceasefire was “on life support” after rejecting Tehran’s counterproposal, stoking fears of prolonged Middle East tensions. Locally, investor confidence was dampened by the April business confidence report, which remained deeply negative despite a slight rise from March’s historic drop. Still, losses were partly cushioned by anticipation of the 2026/27 Federal Budget, expected to outline reforms, cost-of-living relief, and tax changes such as potential adjustments to negative gearing, alongside narrower deficit projections. Most sectors finished lower, led by commercial services, consumer stocks, financials, and healthcare. The big four banks fell 1.4%–2.4%, while Xero (-3.5%), REA Group (-2.7%), and Coles (-2.6%) were among notable laggards."
-    },
-    {
-      "id": "4874345",
-      "time": "2026-05-12 14:43:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度石油部長：我國現有儲量可滿足60天的原油、液化天然氣（LNG）需求，以及45天的液化石油氣（LPG）需求，供應端不存在問題。"
-    },
-    {
-      "id": "4874344",
-      "time": "2026-05-12 14:43:04",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【大和證券：日本央行決策者似乎更擔心價格上行風險】大和證券經濟學家Kento Minami表示，日本央行4月份會議紀要顯示，決策者似乎更擔心價格上行風險，而不是中東緊張局勢可能帶來的經濟下行風險。Minami表示，日本央行可能越來越關注風險平衡，而不是實現其基準經濟前景的可能性。“因此，即使在高度不確定的環境中，隨著該行優先應對通脹上行風險，加息步伐加快的可能性也在增加，”他表示。"
-    },
-    {
-      "id": "te:economy:549893",
-      "time": "2026-05-12 14:42:56",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Switzerland",
-        "Producer Prices Change",
-        "Importance 1"
-      ],
-      "text": "Swiss Producer and Import Prices Fall 2.0% — Switzerland’s producer and import prices fell by 2.0% year-on-year in April 2026, following a 2.7% decline in the previous month, extending the country’s nearly three-year deflationary streak. The drop was driven by continued decline in producer prices, which remained unchanged at -2.4%, reflecting lower costs for manufactured goods (-2.1%), particularly computer, electronic and optical products, as well as watches (-2.4%). Import prices also continued to drop, though at a slower pace (-1.0% vs -3.2% in March), as a sharp increase in mining and quarrying products (+37.9%) partly offset lower prices for agricultural products (-2.2%) and manufactured goods (-1.4%). On a monthly basis, producer and import prices rose 0.8%, accelerating from a 0.2% gain in March, mainly driven by higher petroleum product prices, while petroleum and natural gas also became more expensive. Basic metals and semi-finished metal products likewise recorded price increases."
-    },
-    {
-      "id": "4874343",
-      "time": "2026-05-12 14:42:30",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內跌1%，現報85.08美元/盎司。"
-    },
-    {
-      "id": "4874342",
-      "time": "2026-05-12 14:41:56",
-      "tags": [],
-      "text": "滬深兩市成交額連續第5個交易日突破3萬億元，較上日此時縮量2776億元。"
-    },
-    {
-      "id": "4874341",
-      "time": "2026-05-12 14:41:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度石油部長：我們已提高液化石油氣（LPG）產量。"
-    },
-    {
-      "id": "mkt:019e1aeb-7bfe-7dd9-b929-8dcee5377007",
-      "time": "2026-05-12 14:41:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "INDIA OIL MINISTER: WE HAVE RAMPED UP LPG PRODUCTION"
-    },
-    {
-      "id": "mkt:019e1aeb-645c-7dd9-b929-816932bd6a53",
-      "time": "2026-05-12 14:41:34",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "TURNOVER ON SSE AND SZSE EXCEEDED 3TN YUAN FOR A FIFTH STRAIGHT SESSION, DOWN 277.6BN YUAN FROM THE SAME TIME YESTERDAY"
-    },
-    {
-      "id": "4874340",
-      "time": "2026-05-12 14:41:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度石油部長：液化石油氣供應充足有餘。"
-    },
-    {
-      "id": "4874339",
-      "time": "2026-05-12 14:41:14",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "西門子能源執行長：受此次危機影響，我們觀察到電力基礎設施需求出現部分上漲。"
-    },
-    {
-      "id": "4874338",
-      "time": "2026-05-12 14:41:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "【報告：衝突暴力首超災害成全球流離失所主因】一份12日釋出的報告顯示，截至去年底，全球有8220萬境內流離失所者。衝突和暴力在去年首次超過自然和人為災害，成為導致流離失所的主要因素。根據總部設在瑞士日內瓦的境內流離失所情況監測中心年度報告，去年全年，全球新增境內流離失所6580萬人次，其中3230萬人次流離失所由衝突和暴力造成，較前年增加60%，而且超過由風暴、洪水等災害造成的2990萬人次流離失所。（新華社）"
-    },
-    {
-      "id": "4874337",
-      "time": "2026-05-12 14:40:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以軍稱打死多名黎巴嫩真主黨成員】當地時間12日，以色列國防軍發表宣告稱，過去數週，以軍在黎巴嫩南部開展行動，行動期間打死超過350名“對以色列平民和以軍部隊構成威脅”的黎巴嫩真主黨成員。宣告稱，以軍還打擊了超過1100個黎巴嫩真主黨目標，包括供武裝人員活動的軍事設施、武器儲存設施、已裝載並準備發射的發射器以及其他基礎設施。宣告表示，以軍將繼續根據以黎之間的相關共識以及以色列政府指示開展行動。（央視新聞）"
-    },
-    {
-      "id": "4874336",
-      "time": "2026-05-12 14:40:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中證協“把脈”券商合規評估實效，探索AI賦能等破局新路徑】記者5月12日從業內獨家獲悉，為系統性瞭解行業合規實踐的真實狀況，為後續最佳化自律監管規則、提升全行業合規管理有效性奠定堅實基礎，中國證券業協會近期在行業內開展了2026年度證券公司合規管理有效性評估及合規類自律規則“立改廢釋”專項調研。據悉，調研直指當前合規評估工作中的共性挑戰，如管理層重視不足、評估工作流於形式、與其他檢查重複加重負擔等，並引導行業思考破局之道，其中“探索AI、智慧體等新興技術在合規評估領域的應用”成為重要前瞻方向。（中證金牛座）"
-    },
-    {
-      "id": "4874335",
-      "time": "2026-05-12 14:40:27",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超3萬億元，較上日此時縮量2823億元。"
     }
   ]
 }
