@@ -1,7 +1,63 @@
 {
-  "updated": "2026-05-20 01:10:40",
-  "count": 15596,
+  "updated": "2026-05-20 01:14:47",
+  "count": 15598,
   "items": [
+    {
+      "id": "te:markets:552022",
+      "time": "2026-05-20 01:12:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Rice Hits 40-week High — Rice increased to 12.95 USD/cwt, the highest since August 2025. Over the past 4 weeks, Rice gained 16.69%, and in the last 12 months, it increased 1.4%."
+    },
+    {
+      "id": "4888697",
+      "time": "2026-05-20 01:12:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國各大銀行已籌備就緒，為派拉蒙收購華納兄弟安排490億美元債務融資發行事宜。"
+    },
+    {
+      "id": "mkt:019e4139-68d3-7228-9afd-e0d987445316",
+      "time": "2026-05-20 01:12:21",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "U.S. STATE DEPT: RUBIO AND UN'S GUTERRES SPOKE TUESDAY ABOUT U.S. EFFORTS TO STOP IRAN'S MINING AND TOLLING OF STRAIT OF HORMUZ"
+    },
+    {
+      "id": "4888696",
+      "time": "2026-05-20 01:11:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧今天與聯合國秘書長古特雷斯進行了通話。"
+    },
+    {
+      "id": "4888695",
+      "time": "2026-05-20 01:10:36",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "谷歌執行長：今夏將在美國上線YouTube智慧問答搜尋功能。"
+    },
+    {
+      "id": "4888694",
+      "time": "2026-05-20 01:09:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國行業組織：美國天然氣出口商呼籲將歐盟甲烷進口相關新規延後至2028年正式實施。"
+    },
     {
       "id": "mkt:019e4136-d705-7228-9afd-dbdd9129746e",
       "time": "2026-05-20 01:09:33",
@@ -140944,60 +141000,6 @@
         "國際"
       ],
       "text": "美國上訴法院暫時暫停貿易法院依據第 122 條針對特朗普 10% 關稅作出的裁決。"
-    },
-    {
-      "id": "mkt:019e1d2e-ff93-7772-877a-fe21e659786e",
-      "time": "2026-05-13 01:14:39",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Hot",
-        "Market Themes",
-        "The Trump Trade",
-        "Policy",
-        "Breaking News 24h",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "Copper"
-      ],
-      "text": "U.S. APPEALS COURT TEMPORARILY PAUSES TRADE COURT RULING AGAINST TRUMP'S 10% TARIFFS UNDER SECTION 122"
-    },
-    {
-      "id": "mkt:019e1d2d-8101-7772-877a-f2f6ef67d22d",
-      "time": "2026-05-13 01:13:01",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Nasdaq100",
-        "Impact bearish"
-      ],
-      "text": "NASDAQ 100 EXTENDS LOSSES, LAST DOWN 2.1%"
-    },
-    {
-      "id": "mkt:019e1d2c-87b6-7772-877a-ef704acec278",
-      "time": "2026-05-13 01:11:58",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact mixed",
-        "US10Y",
-        "S&P500"
-      ],
-      "text": "U.S. SENATE VOTES TO START COUNTDOWN CLOCK TOWARD CONFIRMING WARSH AS FED CHAIR AS SOON AS WEDNESDAY"
-    },
-    {
-      "id": "4875703",
-      "time": "2026-05-13 01:11:56",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【交易員預計美聯儲今年將按兵不動，但仍有一定加息的可能性】週二，交易員們縮減了對美聯儲將在今年年底前加息的押注，轉而預期美聯儲將維持利率不變，此前政府資料顯示，上月消費者價格同比上漲3.8%。短期利率期貨價格目前顯示，12月前加息的機率約為四分之一，而通脹資料公佈前這一機率接近三分之一。"
     }
   ]
 }
