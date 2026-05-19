@@ -1,7 +1,59 @@
 {
-  "updated": "2026-05-19 13:43:02",
-  "count": 15660,
+  "updated": "2026-05-19 13:47:08",
+  "count": 15664,
   "items": [
+    {
+      "id": "4887229",
+      "time": "2026-05-19 13:46:17",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【CPO概念震盪回升 光迅科技逼近漲停續創歷史新高】午後CPO概念震盪回升，光迅科技漲停，續創歷史新高，光莆股份漲超15%，華工科技、東山精密、安孚科技、九聯科技、中瓷電子跟漲。"
+    },
+    {
+      "id": "4887228",
+      "time": "2026-05-19 13:45:27",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【MicroLED概念股震盪上揚，英諾鐳射觸及20cm漲停創新高】MicroLED概念股震盪上揚，英諾鐳射觸及20cm漲停創新高，福光股份、精智達、三安光電、同興達跟漲。"
+    },
+    {
+      "id": "4887227",
+      "time": "2026-05-19 13:44:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【容知日新、北緯科技等新設高階智造創投基金】企查查APP顯示，近日，安徽十月高階智造創業投資基金合夥企業（有限合夥）成立，出資額5億元，經營範圍包含：創業投資（限投資未上市企業）；以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該企業由北緯科技、容知日新、安徽海螺海通工業網際網路母基金合夥企業（有限合夥）等共同出資。"
+    },
+    {
+      "id": "4887226",
+      "time": "2026-05-19 13:44:26",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本10年期國債收益率上升5個基點至2.79%。"
+    },
+    {
+      "id": "4887225",
+      "time": "2026-05-19 13:44:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "中際旭創成交額超200億元，現跌超3%。天孚通訊成交額超150億元，現跌超6%。新易盛成交額超140億元，現跌超4%。"
+    },
+    {
+      "id": "4887224",
+      "time": "2026-05-19 13:43:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "截止13:43，兩市100只個股漲停。"
+    },
     {
       "id": "4887223",
       "time": "2026-05-19 13:41:52",
@@ -141537,26 +141589,6 @@
         "公司"
       ],
       "text": "瀾起科技A股成交額達200億元，現跌3.7%。"
-    },
-    {
-      "id": "4874215",
-      "time": "2026-05-12 13:45:55",
-      "tags": [
-        "市場"
-      ],
-      "text": "樂天化學股價下跌17%。"
-    },
-    {
-      "id": "te:markets:549866",
-      "time": "2026-05-12 13:43:53",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "New Zealand Equities Close 1% Lower — The NZX 50 fell 130 points, or 1.0%, to close at 13,080 on Tuesday, halting gains from the previous session and tracking a decline in US futures amid uncertainty surrounding conditions in the Middle East after US President Trump rejected Tehran’s latest peace proposal. Traders remained cautious ahead of New Zealand's food inflation data and manufacturing PMI, both due later this week. Investors were also awaiting US inflation data on Tuesday amid rising fuel prices, which could help guide the Fed's monetary policy decision at its upcoming meeting. Markets will also monitor plans involving US President Trump and Chinese President Xi Jinping later this week. Consumer staples, healthcare, financial, and communication services stocks mainly dragged the index, with the biggest laggards including A2 Milk (-4.4%), Fisher & Paykel (-2.9%), Ebos Group (-1.9%), ANZ Group (-1.8%), Contact Energy (-1.7%), Chorus (-1.7%), and Mainfreight (-0.7%)."
     }
   ]
 }
