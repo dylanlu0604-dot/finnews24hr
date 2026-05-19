@@ -1,7 +1,48 @@
 {
-  "updated": "2026-05-19 12:06:01",
-  "count": 15634,
+  "updated": "2026-05-19 12:09:46",
+  "count": 15633,
   "items": [
+    {
+      "id": "4887115",
+      "time": "2026-05-19 12:09:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐洲專注於國防人工智慧的無人機初創企業Helsing將與衛星製造商OHB聯合競標軍用衛星專案。"
+    },
+    {
+      "id": "4887114",
+      "time": "2026-05-19 12:07:57",
+      "tags": [
+        "公司",
+        "資料"
+      ],
+      "text": "谷歌DeepMind的德米斯·哈薩比斯成為Anthropic的早期投資者。"
+    },
+    {
+      "id": "mkt:019e3e6a-6a9f-7aa9-b722-8785f3aa000e",
+      "time": "2026-05-19 12:07:01",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "STAN.L",
+        "Impact mixed"
+      ],
+      "text": "【StanChart CEO Says AI to Replace ‘Lower-Value Human Capital’】Standard Chartered Plc CEO Bill Winters said the bank’s AI push will eliminate thousands of roles by 2030 as it replaces “lower-value human capital” with technology. The lender plans to cut over 15% of its support staff, or more than 7,500 roles, from about 52,000 positions across Asia and other regions. Winters said this is “job role reduction” rather than cost cutting, with affected staff given advance notice. The comments align with broader banking-sector views, including from JPMorgan Chase & Co. CEO Jamie Dimon and Goldman Sachs Group Inc. President John Waldron, who both highlighted AI-driven automation."
+    },
+    {
+      "id": "te:economy:551791",
+      "time": "2026-05-19 12:06:37",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Malaysia",
+        "Inflation Rate",
+        "Importance 2"
+      ],
+      "text": "Malaysia Inflation Rate Highest in 18 Months — The annual inflation rate in Malaysia accelerated to 1.9% in April 2026 from 1.7% in the prior month, marking the highest reading since October 2024 and aligning with market forecasts. Core inflation, which excludes volatile fresh food and administered prices, edged down to 2.0% from 2.1% in March. Monthly, consumer prices rose 0.4%, following a 0.3% gain in March and pointing to the steepest pace since February 2025."
+    },
     {
       "id": "4887113",
       "time": "2026-05-19 12:05:16",
@@ -141296,51 +141337,6 @@
         "其他"
       ],
       "text": "快手科技：董事會正評估可靈AI資產的重組事宜，可能涉及外部融資。相關提案仍處於初步階段，尚未訂立任何最終協議。"
-    },
-    {
-      "id": "4874131",
-      "time": "2026-05-12 12:09:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "【Omdia：噴墨列印技術有望推動OLED IT顯示製造成本下降30%】Omdia最新研究顯示，噴墨列印（Inkjet Printing，IJP）技術可將OLED筆記本面板製造成本較傳統精細金屬掩膜（FMM）OLED工藝降低約30%至35%。作為一種製造工藝，IJP相比傳統技術具備多項優勢。對於OLED顯示而言，IJP的紅、綠、藍（RGB）子畫素圖案化方式，在材料利用率、靈活性、面板切割效率（panelization）以及畫素開口率等方面具有優勢。與此同時，其裝置與維護成本也低於傳統FMM工藝所需水平。"
-    },
-    {
-      "id": "4874130",
-      "time": "2026-05-12 12:09:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "【愷英網路設立AI內容公司時光川行】5月12日，據愷英網路訊息，愷英網路於近日設立AI內容公司時光川行（Moment Stream），專注於AI微短劇與AI漫劇的一體化製作。公司以自研垂類影片生成模型為核心技術底座，構建從IP、劇本到多鏡頭影片內容的工業化生產體系，為AI內容產業的規範化、規模化發展提供完整解決方案。"
-    },
-    {
-      "id": "te:economy:549843",
-      "time": "2026-05-12 12:08:45",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Indonesia",
-        "Retail Sales YoY",
-        "Importance 1"
-      ],
-      "text": "Indonesia Retail Sales Growth at 9-Month Low — Indonesia’s retail sales increased 3.4% yoy in March 2026, easing from a 6.5% rise in the prior month and marking the weakest growth since June 2025, as post-festive normalization and persistent cost pressures weighed on consumer spending. Sales growth slowed notably for food, beverages, and tobacco (4.7% vs 8.8% in February). Meanwhile, sales dropped for clothing (-2.4% vs 4.9%), other household appliances (-3.5% vs 0.5%), and information & communication equipment (-26.4% vs -28.3%). In contrast, spending strengthened for automotive parts and accessories (15.5% vs 13.1%) and cultural and recreational goods (14.8% vs 10.1%). Sales of automotive fuel rebounded, rising 2.1% after a 9.3% drop in February. On a monthly basis, retail sales surged 10.3%, accelerating sharply from a 4.1% rise in February and posting the strongest gain in a year. Looking ahead, retail activity is expected to soften amid higher non-subsidized fuel prices that pressure household purchasing power."
-    },
-    {
-      "id": "4874128",
-      "time": "2026-05-12 12:06:32",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【業績前瞻：軟銀集團第四財季淨利潤料將下滑】軟銀集團定於週三公佈第四財季業績。據Visible Alpha對分析師的調查顯示，軟銀集團截至3月份的三個月（即第四財季）的淨利潤預計將下降64%，至1,878億日元（合11.9億美元）。相比之下，上年同期的淨利潤為5,172億日元。在人工智慧相關需求不斷增長的預期推動下，截至週一，該公司股價今年以來已累計上漲31%。在此之前，該股2025年上漲了92%。"
-    },
-    {
-      "id": "4874127",
-      "time": "2026-05-12 12:06:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【瑞聲科技高功率液冷CDU規模化量產】 近日，瑞聲科技旗下遠地科技ATAHORAN系列2.2MW/2.6MW集中式液冷CDU實現規模化量產，並同步開啟全球批次交付。月交付產能達400臺。"
     }
   ]
 }
