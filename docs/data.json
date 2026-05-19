@@ -1,7 +1,96 @@
 {
-  "updated": "2026-05-20 00:01:00",
-  "count": 15612,
+  "updated": "2026-05-20 00:05:10",
+  "count": 15606,
   "items": [
+    {
+      "id": "4888630",
+      "time": "2026-05-20 00:03:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果體育業務剛剛拓展至超90個全新國家及地區。"
+    },
+    {
+      "id": "mkt:019e40fa-5613-7228-9afd-134f8585fb3c",
+      "time": "2026-05-20 00:03:28",
+      "tags": [
+        "MKT News",
+        "AAPL.O",
+        "Impact bullish",
+        "Nasdaq100",
+        "S&P500"
+      ],
+      "text": "APPLE SPORTS EXPANDS TO MORE THAN 90 NEW COUNTRIES AND REGIONS"
+    },
+    {
+      "id": "mkt:019e40f9-f662-7228-9afd-088d1391e5d3",
+      "time": "2026-05-20 00:03:03",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "DXY",
+        "Impact bullish",
+        "CNH",
+        "Impact bearish",
+        "Hang Seng Index"
+      ],
+      "text": "JAPANESE FINANCE MINISTER KATAYAMA: TOLD G7 COUNTERPARTS G7 SHOULD BE UNITED TO CALL CHINA TO REFRAIN FROM DISTORTED INDUSTRIAL POLICY"
+    },
+    {
+      "id": "4888629",
+      "time": "2026-05-20 00:03:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：俄羅斯梁贊煉油廠遇襲後已停工。"
+    },
+    {
+      "id": "4888628",
+      "time": "2026-05-20 00:02:51",
+      "tags": [
+        "央行",
+        "宏觀"
+      ],
+      "text": "紐約聯儲官員珀利：財政部將以何種方式管理國庫一般賬戶資金仍有待觀察。"
+    },
+    {
+      "id": "4888627",
+      "time": "2026-05-20 00:02:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【奧美森：公司目前產能較為緊張】奧美森釋出投資者關係活動記錄表，公司一直在主動開發更多優質客戶，謀求進一步最佳化客戶結構。2025年公司前五大客戶寧波德業科技股份有限公司、武漢宏海科技股份有限公司均為新增前五大客戶。2026年公司除已簽約空調行業的新客戶海爾集團，還有汽車行業客戶以及資料機房行業客戶等。公司產能的主要決定因素為場地面積以及設計、組裝和除錯人員的數量，公司目前產能較為緊張，現有的交付能力已無法充分滿足來自市場的訂單需求。公司正在透過實施募投專案來擴大公司產能，公司募投專案“金屬管材數字化成型裝備及其他訂製類智慧裝置生產基地建設專案”已於2026年1月3日正式動工，專案竣工達產後將釋放新增產能，為公司長期發展提供支撐。"
+    },
+    {
+      "id": "mkt:019e40f9-5ccb-7228-9afd-0207cde11515",
+      "time": "2026-05-20 00:02:24",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "NY FED FED'S PERLI: IT REMANS TO BE SEEN HOW TREASURY WANTS TO MANAGE TGA"
+    },
+    {
+      "id": "4888626",
+      "time": "2026-05-20 00:02:09",
+      "tags": [
+        "宏觀",
+        "央行",
+        "國際"
+      ],
+      "text": "紐約聯儲官員珀利：美聯儲將預設財政部對國庫一般賬戶資金的管理方式。"
+    },
+    {
+      "id": "mkt:019e40f8-f541-7228-9afc-f9aa3d95924e",
+      "time": "2026-05-20 00:01:57",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "NY FED FED'S PERLI: FED WILL TAKE AS GIVEN HOW TREASURY MANAGES TGA FUNDS"
+    },
     {
       "id": "4888625",
       "time": "2026-05-19 23:58:39",
@@ -141062,164 +141151,6 @@
         "Energy"
       ],
       "text": "EIA SEES 2026 U.S. NATGAS OUTPUT OF 110.6 BCF/DAY, VS PRIOR FORECAST 109.6 BCF/D; SEES 2027 DEMAND OF 115 BCF/D (PVS 112.6 BCF/D) EIA SEES 2026 U.S. NATGAS DEMAND OF 91.2 BCF/DAY, VS PRIOR FORECAST 90.6 BCF/D; SEES 2027 DEMAND OF 94.4 BCF/D (PVS 92.7 BCF/D) U.S. NATURAL GAS PRODUCTION TO AVERAGE 121.3 BCF/DAY IN MAY VS 121.1 BCF/DAY IN APRIL; TO AVERAGE 121.7 BCF/DAY IN JUNE – EIA"
-    },
-    {
-      "id": "mkt:019e1cf1-70a3-7cc6-9aba-7b67d6453b2e",
-      "time": "2026-05-13 00:04:42",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | EIA US Natural Gas Production Estimate (Next Year) (May) | actual 115000000000B | previous 112600000000B"
-    },
-    {
-      "id": "mkt:019e1cf0-f85f-7cc6-9aba-75ebe080bcd5",
-      "time": "2026-05-13 00:04:34",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | EIA US Natural Gas Production Estimate (Current Year) (May) | actual 110600000000B | previous 109600000000B"
-    },
-    {
-      "id": "4875657",
-      "time": "2026-05-13 00:04:30",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【日本尼得科公司被曝存在質量違規問題 】據日媒12日報道，日本大型電機制造企業尼得科公司存在質量違規問題，涉及電機零部件設計變更、檢測資料篡改等，相關問題或超過1000項。日本共同社等媒體報道說，涉事產品包括家電用電機和車載零部件等。公司內部調查顯示，約97%的問題涉及未經客戶同意擅自更新模具，或變更製造工序、產品設計等，其餘約3%涉及試驗和檢測資料篡改、產地標識不當等。預計13日將成立由外部律師組成的調查委員會，計劃在8月底前查明情況。（新華社）"
-    },
-    {
-      "id": "mkt:019e1cf0-9719-7cc6-9aba-6ffeabbcc8e9",
-      "time": "2026-05-13 00:04:30",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "EIA ASSUMES STRAIT OF HORMUZ WILL BE CLOSED THROUGH LATE MAY, GRADUAL RESUMPTION OF TRAFFIC IN JUNE, AND REACH PRE-CONFLICT LEVEL LATER IN 2026"
-    },
-    {
-      "id": "mkt:019e1cf0-3429-7cc6-9aba-62878fc71392",
-      "time": "2026-05-13 00:04:24",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | EIA US Crude Oil Production Estimate (Next Year) (May) | actual 14100000M | previous 13950000M"
-    },
-    {
-      "id": "mkt:019e1cef-94ce-7cc6-9aba-59d0996b96cc",
-      "time": "2026-05-13 00:04:20",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "U.S. EIA ESTIMATES 10.5 MLN BPD OF CRUDE OIL OUTPUT WAS SHUT IN DURING APRIL FROM IRAQ, SAUDI ARABIA, KUWAIT, UAE, QATAR AND BAHRAIN"
-    },
-    {
-      "id": "mkt:019e1cef-94ce-7cc6-9aba-541fb1a9a270",
-      "time": "2026-05-13 00:04:20",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | EIA US Crude Oil Production Estimate (Current Year) (May) | actual 13650000M | previous 13510000M"
-    },
-    {
-      "id": "mkt:019e1cef-1332-7cc6-9aba-4e65289de42f",
-      "time": "2026-05-13 00:04:09",
-      "tags": [
-        "MKT News",
-        "WTI"
-      ],
-      "text": "U.S. OIL PRODUCTION TO AVERAGE 13.73 MLN BPD IN MAY VS 13.75 MLN BPD IN APRIL; TO AVERAGE 13.75 MLN BPD IN JUNE – EIA"
-    },
-    {
-      "id": "mkt:019e1cee-3159-7cc6-9aba-42228bbab916",
-      "time": "2026-05-13 00:03:52",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "EIA SEES 2026 WORLD OIL OUTPUT OF 101.6 MLN BPD, VS PRIOR FORECAST 104.3 MLN BPD; SEES 2027 OUTPUT OF 109.5 MLN BPD (PVS 109.5 MLN BPD) EIA SEES 2026 U.S. OIL OUTPUT OF 13.65 MLN BPD, VS PRIOR FORECAST 13.51 MLN BPD; SEES 2027 OUTPUT OF 14.1 MLN BPD (PVS 13.95 MLN BPD)"
-    },
-    {
-      "id": "mkt:019e1ced-fe8b-7cc6-9aba-3a721acf084a",
-      "time": "2026-05-13 00:03:39",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "EIA SEES 2026 WORLD OIL DEMAND OF 104.2 MLN BPD, VS PRIOR FORECAST 104.6 MLN BPD; SEES 2027 DEMAND OF 105.6 MLN BPD (PVS 106.2 MLN BPD) EIA SEES 2026 U.S. OIL DEMAND OF 20.7 MLN BPD, VS PRIOR FORECAST 20.6 MLN BPD; SEES 2027 DEMAND OF 20.7 MLN BPD (PVS 20.7 MLN BPD)"
-    },
-    {
-      "id": "4875656",
-      "time": "2026-05-13 00:03:35",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "據華爾街日報：SpaceX與谷歌正洽談在軌建設軌道資料中心相關合作，谷歌同時也在與其他火箭發射企業展開磋商。"
-    },
-    {
-      "id": "mkt:019e1ced-b25f-7cc6-9aba-37f6f79156ce",
-      "time": "2026-05-13 00:03:18",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact mixed"
-      ],
-      "text": "EIA SEES 2026 WTI PRICE AVERAGE OF 85.68/BBL, VS PRIOR FORECAST 87.41/BBL; 2027 FORECAST OF 74.39/BBL (PVS 72.43/BBL)"
-    },
-    {
-      "id": "mkt:019e1ced-7fcd-7cc6-9aba-2c91ec393970",
-      "time": "2026-05-13 00:03:07",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact mixed"
-      ],
-      "text": "EIA SEES 2026 BRENT PRICE AVERAGE OF 94.85/BBL, VS PRIOR FORECAST 96/BBL; 2027 FORECAST OF 79.39/BBL (PVS 76.09/BBL)"
-    },
-    {
-      "id": "mkt:019e1ced-0b45-7cc6-9aba-2315f8fddea7",
-      "time": "2026-05-13 00:02:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "SPACEX, GOOGLE IN TALKS TO EXPLORE DATA CENTERS IN ORBIT: WSJ HITACHI, X LABS TO COLLABORATE ON ENERGY PARKS"
-    },
-    {
-      "id": "4875655",
-      "time": "2026-05-13 00:01:13",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國能源資訊署（EIA）短期能源展望報告（STEO）：預計2026年布倫特原油價格95美元/桶（此前預計96美元/桶），預計2027年79美元/桶（此前預計76美元/桶）。\n預計2026年美國石油產量1360萬桶/日（此前預計1350萬桶/日），預計2027年1410萬桶/日（此前預計1390萬桶/日）。\n預計2026年美國液化天然氣（LNG）出口170億立方英尺/日（此前預計170億立方英尺/日），預計2027年182億立方英尺/日（此前預計186億立方英尺/日）。"
     }
   ]
 }
