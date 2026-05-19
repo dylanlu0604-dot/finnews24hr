@@ -1,7 +1,63 @@
 {
-  "updated": "2026-05-19 10:16:54",
+  "updated": "2026-05-19 10:20:52",
   "count": 15615,
   "items": [
+    {
+      "id": "te:markets:551766",
+      "time": "2026-05-19 10:20:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Hong Kong Stocks Climbs on Tech Rally — The Hang Seng Index edged higher 84 points, or 0.3%, to 25,760 on Tuesday, rebounding from the previous session as lower oil prices and easing fears of supply disruptions in the Middle East supported risk appetite. Sentiment improved after President Donald Trump said he had called off a planned strike on Iran, although he warned that military forces remain on standby if no agreement is reached. In Hong Kong, tech stocks advanced broadly, with the technology services sector leading gains, rising 10.5%, while financial shares also advanced. Among notable gainers were Tencent Holdings (2.1%), Meituan Class (0.7%), AIA Group (0.8%), Xiaomi Corporation (0.7%), and PICC Property and Casualty Corporation (0.5%). In contrast, Semiconductor Manufacturing International Corporation and Li Auto declined 2.8% and 3.5%, respectively."
+    },
+    {
+      "id": "4886978",
+      "time": "2026-05-19 10:18:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【港股科網股逆勢上揚，騰訊控股漲幅擴大至3%】港股科網股逆勢上揚，騰訊控股漲幅擴大至3%，報463港元。阿里巴巴-W漲超1.5%，網易-S、百度集團-SW漲超2%。"
+    },
+    {
+      "id": "4886977",
+      "time": "2026-05-19 10:18:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "【阿根廷與美國啟動全球公共資源保護計劃】美國駐阿根廷大使館18日確認兩國正式啟動全球公共資源保護計劃，以加強南大西洋海域安全。美國駐阿根廷大使館當天透過社交媒體表示，該計劃為期5年。美國海軍將首先向阿根廷海軍的一架巡邏機交付一套專用攝像系統，隨後雙方將在裝備更新、人員培訓和攔截與應對海上威脅等方面進一步展開合作。（新華社）"
+    },
+    {
+      "id": "4886976",
+      "time": "2026-05-19 10:18:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "【CPO概念持續下挫 天孚通訊等多股跌超9%】CPO概念盤中持續下挫，天孚通訊、聯特科技、聯訊儀器、炬光科技、德科立跌超9%，騰景科技、長芯博創、東山精密、中際旭創跌幅靠前。"
+    },
+    {
+      "id": "te:economy:551762",
+      "time": "2026-05-19 10:17:39",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Interest Rate",
+        "Importance 1"
+      ],
+      "text": "RBA Sees Inflation Above Target Until 2027: May Minutes — Policymakers in Australia remained concerned about persistently high inflation, which had already been running well above target before the Middle East conflict began, minutes from the Reserve Bank's May meeting showed. The war’s impact on fuel costs further clouded the outlook, lifting headline inflation in March and likely again in the June quarter. Staff projected underlying inflation above 3% until late 2027, returning to the midpoint only by mid-2028. Board members weighed a 25bp hike against holding steady. Arguments for tightening stressed strong capacity pressures, and that financial conditions were “not sufficiently restrictive”. Concerns also centered on inflation expectations becoming “de-anchored” if elevated prices persisted. The case for pausing pointed to risks that conditions were already tight and that prolonged conflict could sap growth and labor demand. Most members judged inflation risks had risen, concluding the 4.1% cash rate might not be enough to contain them."
+    },
+    {
+      "id": "4886975",
+      "time": "2026-05-19 10:17:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【小米YU7 GT重新整理紐北SUV圈速紀錄】5月19日，小米汽車宣佈，小米YU7 GT以7分34秒931的圈速，重新整理紐北SUV圈速紀錄。"
+    },
     {
       "id": "4886974",
       "time": "2026-05-19 10:15:36",
@@ -141091,56 +141147,6 @@
         "國際"
       ],
       "text": "【委代總統否認將成為美第51州】針對美國總統特朗普對媒體稱“正在認真考慮將委內瑞拉設為美國第51個州”，委內瑞拉代總統羅德里格斯5月11日表示，“這根本不在考慮之中，也永遠不會成為現實，因為委內瑞拉人民始終珍視國家獨立”。她強調，委內瑞拉將繼續捍衛國家完整、主權和獨立，並指出“推進外交合作，才是正確道路”。（CCTV國際時訊）"
-    },
-    {
-      "id": "4873923",
-      "time": "2026-05-12 10:20:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "【上海AI實驗室聯合團隊攻克晶片核心材料光刻膠穩定製備難題】上海人工智慧實驗室官微訊息，光刻膠作為晶片製造的核心材料之一，其質量直接影響晶片的效能和成品率。近日，依託2030新一代人工智慧國家科技重大專項總體部署，上海人工智慧實驗室（上海AI實驗室）聯合廈門大學、蘇州國家實驗室等合作單位基於“書生”科學大模型與“書生”科學發現平臺，構建了“AI決策+自動化合成”的閉環研發體系，實現了高純度、高一致性、高效率的KrF光刻膠樹脂創制。這一突破使高階光刻膠樹脂的穩定製備不再依賴於極少數國外供應商的“黑箱能力”，為全球晶片材料領域探索出一條可標準化、快速迭代的新路徑。目前，上述平臺已支撐多批次自動化合成與效能驗證，批次間一致性得到顯著提升。其中，廈門恆坤新材料科技股份有限公司基於光刻膠配方開發經驗，完成了樹脂適配，產業關鍵指標均達預期後續將進入客戶端驗證階段。"
-    },
-    {
-      "id": "4873922",
-      "time": "2026-05-12 10:19:38",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【日本測試100%可再生能源供電海上資料中心】日本橫濱港日前啟動一項實證試驗，在海上設定資料中心以應對生成式人工智慧與雲服務普及帶來的需求上升，測試能否靠太陽能提供全部電力。參與試驗的日本郵船介紹，這是全球首個100%靠可再生能源執行的海上浮體式資料中心。NTT Facilities公司、橫濱市政府等也參與，計劃用一年時間檢驗其對海浪搖晃及海水鹽分的耐受性。"
-    },
-    {
-      "id": "4873919",
-      "time": "2026-05-12 10:19:22",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "電網裝置板塊持續走高，大連電瓷、漢纜股份雙雙漲停，通光線纜、通達股份、太陽電纜、遠東股份等多股封板，溫州宏豐漲近15%。"
-    },
-    {
-      "id": "4873916",
-      "time": "2026-05-12 10:18:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【智元釋出香港具身智慧產業共創計劃，宣佈未來5年實現“個十百千萬”目標】5月12日訊息，在首屆香港具身智慧產業峰會上，智元創始人、董事長兼CEO鄧泰華髮布香港具身智慧產業共創計劃，宣佈未來5年實現“個十百千萬”目標。具體而言，將成立智元香港國際研發總部、成立數個產研聯合實驗室，培育數十家創新創業企業，發展數百家產業夥伴，創造數千億營收產值，形成港交所具身智慧數萬億總市值。"
-    },
-    {
-      "id": "4873912",
-      "time": "2026-05-12 10:18:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國民技術N32H系列MCU匯入多家機器人企業供應鏈】5月12日，國民技術在其公眾號披露，公司N32H系列MCU已應用於工業機器人伺服驅動系統與關節模組，並已與榮耀、越疆機器人等企業開展合作。目前，該系列產品還在多家人形機器人、工業機器人企業供應鏈中匯入驗證。"
-    },
-    {
-      "id": "4873911",
-      "time": "2026-05-12 10:17:40",
-      "tags": [
-        "市場"
-      ],
-      "text": "麥格理資本對老鋪黃金首次給予目標價453.00港元。"
     }
   ]
 }
