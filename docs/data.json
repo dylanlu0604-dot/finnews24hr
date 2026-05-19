@@ -1,7 +1,56 @@
 {
-  "updated": "2026-05-20 03:29:59",
-  "count": 15607,
+  "updated": "2026-05-20 03:33:53",
+  "count": 15612,
   "items": [
+    {
+      "id": "4888835",
+      "time": "2026-05-20 03:32:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "牙買加3月份旅遊入境人數同比下降20.8%."
+    },
+    {
+      "id": "4888834",
+      "time": "2026-05-20 03:30:43",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國監管機構公佈重塑銀行評級流程的計劃。"
+    },
+    {
+      "id": "mkt:019e41b8-25d0-7228-9aff-c8295e4af9eb",
+      "time": "2026-05-20 03:30:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "PROPOSAL TO CHANGE SO-CALLED 'CAMELS' RATINGS WOULD PLACE INCREASED FOCUS ON MATERIAL FINANCIAL RISKS: STATEMENT"
+    },
+    {
+      "id": "mkt:019e41b7-d764-7228-9aff-c1ae350f1405",
+      "time": "2026-05-20 03:30:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US BANKING REGULATORS PROPOSE CHANGES TO BANK RATING SYSTEM: STATEMENT"
+    },
+    {
+      "id": "4888833",
+      "time": "2026-05-20 03:30:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價19日下跌】截至當天收盤，紐約商品交易所6月交貨的輕質原油期貨價格下跌89美分，收於每桶107.77美元，跌幅為0.82%；7月交貨的倫敦布倫特原油期貨價格下跌82美分，收於每桶111.28美元，跌幅為0.73%。"
+    },
+    {
+      "id": "4888832",
+      "time": "2026-05-20 03:29:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國常務副國務卿蘭道：剛與玻利維亞總統通完話，對該國當前局勢深表擔憂。"
+    },
     {
       "id": "4888831",
       "time": "2026-05-20 03:27:34",
@@ -140912,18 +140961,6 @@
         "公司"
       ],
       "text": "【Anthropic進一步拓展法律行業 新工具可協助準備司法考試】Anthropic PBC正採取措施幫助法律專業人士透過Claude聊天機器人完成更多工。該公司週二宣佈推出十多款面向律師、法學院學生及其他法律從業者的新工具（或外掛）。其中一項名為“商業法律顧問”(commercial counsel)的功能可幫助使用者審閱供應商協議，另一項工具則用於幫助備考律師資格考試。該公司還宣佈，將其Claude聊天機器人與法律行業常用的其他軟體打通，包括DocuSign、湯森路透以及Harvey。相關法律功能將透過Claude Cowork提供給付費使用者，同時也可透過基於Claude構建的第三方服務使用。"
-    },
-    {
-      "id": "te:economy:550078",
-      "time": "2026-05-13 03:32:32",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Paraguay",
-        "Balance of Trade",
-        "Importance 1"
-      ],
-      "text": "Paraguay Trade Balance Returns to Surplus — Paraguay’s trade balance swung to a $2.68 billion surplus in April 2026 from a $76.6 million deficit in the same month a year earlier. Exports rose 14.6% year-over-year to $1.59 billion, driven mainly by a 35.8% increase in primary goods shipments. Exports of manufactured agricultural goods grew 2.7%, while industrial manufactures advanced 18.7%. In contrast, electricity exports declined 39.7%. Meanwhile, imports increased 12.2% to $1.60 billion. Purchases of consumer goods rose 3.8%, while imports of capital goods and intermediate goods fell 12.0% and 4.1%, respectively."
     }
   ]
 }
