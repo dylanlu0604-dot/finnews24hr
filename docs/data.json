@@ -1,7 +1,82 @@
 {
-  "updated": "2026-05-19 23:39:21",
-  "count": 15627,
+  "updated": "2026-05-19 23:43:37",
+  "count": 15629,
   "items": [
+    {
+      "id": "mkt:019e40e7-1383-7228-9afc-c42e6af0b63d",
+      "time": "2026-05-19 23:42:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US AMBASSADOR TO UN, SPEAKING AFTER RUSSIAN ENVOY'S REMARKS TO SECURITY COUNCIL, SAYS 'THERE IS NO PLACE FOR THREATS AGAINST A COUNCIL MEMBER'; U.S. KEEPS ALL ITS NATO COMMITMENTS"
+    },
+    {
+      "id": "mkt:019e40e6-c562-7228-9afc-bdce56edcf13",
+      "time": "2026-05-19 23:42:06",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "APPLE'S NEW HARDWARE BOSS SHAKES UP OVERSIGHT OF PRODUCT DESIGN APPLE'S SROUJI SHUFFLES MANAGEMENT TO SPEED DEVICE DEVELOPMENT APPLE'S BERGERON TO RUN PRODUCT RELIABILITY AS PART OF CHANGES APPLE'S SHELLY GOLDBERG, DAVE PAKULA TO OVERSEE PRODUCT DESIGN"
+    },
+    {
+      "id": "4888612",
+      "time": "2026-05-19 23:41:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果新任硬體主管調整產品設計監管架構。"
+    },
+    {
+      "id": "te:markets:552006",
+      "time": "2026-05-19 23:41:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "CAD Weakens as Inflation Supports Dovish BoC Outlook — The Canadian dollar weakened to 1.38 per USD in May as softer core inflation data reinforced expectations that the Bank of Canada may continue looking through the impact of higher energy prices. While headline inflation accelerated to 2.8% in April due to rising gasoline costs linked to the Middle East conflict, the Bank of Canada’s preferred core inflation gauges slowed more than expected to their lowest levels in five years, signaling easing underlying price pressures outside the energy sector. The data aligned with recent central bank guidance that energy-driven inflation may prove temporary and reduced expectations of rate hikes. Conversely, robust labor data and higher core inflation in the US raised expectations of a rate hike by the Federal Reserve this year, supporting the US dollar."
+    },
+    {
+      "id": "4888611",
+      "time": "2026-05-19 23:41:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【南非譴責以色列非法扣押“全球堅韌船隊”】南非國際關係與合作部19日發表宣告，對以色列在國際水域非法扣押駛往加沙的“全球堅韌船隊”並“綁架”船上南非公民的報道表示嚴重關切。 宣告表示，相關事態引發嚴重的人道主義、法律和外交關切。宣告呼籲保持克制，尊重國際法，並保護所有人員的權利、尊嚴和安全。 宣告說，“全球堅韌船隊”由平民主導，執行和平與人道主義任務。（新華社）"
+    },
+    {
+      "id": "mkt:019e40e5-bf11-7228-9afc-b20e8be069bf",
+      "time": "2026-05-19 23:40:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "LATVIAN AMBASSADOR TO UN SAYS RUSSIAN CLAIMS ON UKRAINIAN DRONES ARE 'PURE FICTION'"
+    },
+    {
+      "id": "mkt:019e40e4-c6e5-7228-9afc-a8b03829dafd",
+      "time": "2026-05-19 23:39:54",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "KARPATHY SAYS HE WILL BE WORKING ON R&D AT ANTHROPIC"
+    },
+    {
+      "id": "mkt:019e40e4-2f77-7228-9afc-a69141221e20",
+      "time": "2026-05-19 23:39:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "DOJ EXPECTED TO UNSEAL INDICTMENT FROM CHINA PROBE TUES: CBS"
+    },
     {
       "id": "4888610",
       "time": "2026-05-19 23:38:40",
@@ -141306,61 +141381,6 @@
         "公司"
       ],
       "text": "巴西石油公司執行長：巴西石油認為墨西哥灣墨西哥所屬海域勘探開發程度偏低，與墨西哥國家石油公司（PEMEX）合作或將帶來新的勘探機遇。"
-    },
-    {
-      "id": "4875636",
-      "time": "2026-05-12 23:43:21",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "俄羅斯央行：4 月俄羅斯出口商外匯銷售額達 73 億美元。"
-    },
-    {
-      "id": "mkt:019e1cdb-38d1-7cc6-9ab9-a5773138fdd5",
-      "time": "2026-05-12 23:43:09",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "ISRAELI ARMY: WE INTERCEPTED A DRONE LAUNCHED BY HEZBOLLAH TOWARDS OUR FORCES, AND ANOTHER FELL NEAR THE BORDER"
-    },
-    {
-      "id": "4875635",
-      "time": "2026-05-12 23:42:52",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "俄羅斯央行表示，受全球油價走高影響，4 月俄羅斯市場外匯銷售額環比翻倍，規模達298 億美元。"
-    },
-    {
-      "id": "4875634",
-      "time": "2026-05-12 23:42:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "格陵蘭島領導人表示，美國駐軍問題是其與特朗普政府外交官談判的議題之一。"
-    },
-    {
-      "id": "4875633",
-      "time": "2026-05-12 23:40:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "訊息人士透露：德國向坦克製造商 KNDS 的創始家族提出收購要約，計劃收購該公司30% 至 40%的股份。"
-    },
-    {
-      "id": "4875632",
-      "time": "2026-05-12 23:39:36",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【資料顯示歐洲石油巨頭從市場動盪中獲利高達47.5億美元】近期，全球能源市場因地緣政治緊張局勢而劇烈震盪。英國方面11日綜合多位市場分析師的訊息顯示，歐洲三大能源公司殼牌、英國石油公司和道達爾能源在美以對伊朗發動的戰爭而引發的能源市場動盪中，獲得了鉅額的額外收益，大約在33億美元至47.5億美元之間。分析師將各公司今年第一季度的交易收益與去年第四季度的收益進行比較得出結論：英國石油公司獲利最多，額外獲利約17.5億美元、殼牌額外獲利約16億美元，道達爾能源的收入增加了約8億美元。（央視新聞）"
     }
   ]
 }
