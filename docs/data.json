@@ -1,7 +1,109 @@
 {
-  "updated": "2026-05-20 06:59:52",
-  "count": 15534,
+  "updated": "2026-05-20 07:08:31",
+  "count": 15538,
   "items": [
+    {
+      "id": "4888930",
+      "time": "2026-05-20 07:03:10",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲Paulson：當前政策合適，但考慮長期維持利率或加息是“健康”的】美國費城聯儲主席Anna Paulson表示，在價格壓力依然高企的背景下，當前的利率水平在目前是合適的，正對通脹施加下行壓力。不過，投資者開始考慮可能需要加息的情景是“健康”的。“貨幣政策具有溫和的限制性，這種限制性有助於遏制關稅以及中東衝突引發的價格上漲所帶來的影響。綜合考慮這些……因素，我認為當前的貨幣政策立場是合適的，”Paulson在為亞特蘭大聯儲會議準備的演講稿中表示。"
+    },
+    {
+      "id": "4888929",
+      "time": "2026-05-20 07:02:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本5月路透短觀製造業景氣判斷指數 8，前值7。\n日本5月路透短觀非製造業景氣判斷指數 29，前值31。"
+    },
+    {
+      "id": "4888928",
+      "time": "2026-05-20 07:02:01",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲保爾森：美聯儲需要先在通脹問題上取得進展，才能考慮降息。"
+    },
+    {
+      "id": "4888927",
+      "time": "2026-05-20 07:01:43",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲保爾森： 維持利率不變，有助於研判經濟走勢。"
+    },
+    {
+      "id": "4888926",
+      "time": "2026-05-20 07:01:30",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲保爾森：市場開始考量利率維持不變甚至上調的情形，這一態勢實屬良性。"
+    },
+    {
+      "id": "4888925",
+      "time": "2026-05-20 07:01:10",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲保爾森：通脹水平仍處於過高區間。"
+    },
+    {
+      "id": "4888924",
+      "time": "2026-05-20 07:00:58",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "保美聯儲保爾森：部分家庭正因物價上漲陷入困境，但整體而言經濟仍呈現韌性。"
+    },
+    {
+      "id": "4888923",
+      "time": "2026-05-20 07:00:34",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲保爾森：交易員定價反映美聯儲將長期暫停加息、不排除後續可能加息，這種狀況是“良性的”。"
+    },
+    {
+      "id": "4888922",
+      "time": "2026-05-20 07:00:18",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲保爾森： 若就業市場維持平穩態勢，唯有通脹回落再度取得進展，降息舉措才具備合理性。"
+    },
+    {
+      "id": "mkt:019e4277-afbe-7228-9b00-afd70321e522",
+      "time": "2026-05-20 07:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Reuters-Tankan Non-manufacturing Index (May) | actual 29 | previous 31"
+    },
+    {
+      "id": "mkt:019e4277-afae-7228-9b00-a53b0ad784bb",
+      "time": "2026-05-20 07:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Reuters-Tankan Manufacturing Index (May) | actual 8 | previous 7"
+    },
     {
       "id": "4888921",
       "time": "2026-05-20 06:55:25",
@@ -140227,72 +140329,6 @@
         "Importance 1"
       ],
       "text": "US Crude Stockpiles Decline for 4th Week — US crude oil inventories fell by 2.19 million barrels in the week ended May 8, 2026, marking the fourth consecutive weekly decline and exceeding expectations of a 1.65 million barrel decrease, according to the American Petroleum Institute. Gasoline inventories saw a surprise build of 0.50 million barrels, marking the first increase in four weeks, following a 6.1 million-barrel draw in the previous week. As of last week, gasoline inventories were already 4% below the five-year average for this time of year, according to the latest EIA data. Distillate stockpiles, including diesel and heating oil, fell by a modest 0.32 million barrels, extending their run of declines to six weeks. Distillate inventories were already 11% below the five-year average as of the last week. Meanwhile, Cushing inventory, the inventory kept at the delivery hub for the WTI Crude futures contract, was not yet available."
-    },
-    {
-      "id": "4875963",
-      "time": "2026-05-13 07:06:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【谷歌據悉正與SpaceX就在軌資料中心發射計劃進行談判】當地時間5月12日，據報道，一位知情人士透露，谷歌正與SpaceX就在軌資料中心發射計劃進行談判。知情人士指出，谷歌目前除了與SpaceX接觸外，也同步與其他火箭發射公司討論合作可能性，這表明谷歌正在積極推進其軌道資料中心計劃。"
-    },
-    {
-      "id": "4875962",
-      "time": "2026-05-13 07:06:26",
-      "tags": [
-        "市場"
-      ],
-      "text": "【全球最大的白銀ETF iShares Silver Trust持倉量較前日增加33.78噸】截至2026年05月12日，全球最大的白銀ETF iShares Silver Trust持倉量為15118.67噸，較前一個交易日增加33.78噸。"
-    },
-    {
-      "id": "4875961",
-      "time": "2026-05-13 07:06:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【機構：澳大利亞預算似乎對消費不利】Jefferies表示，澳大利亞聯邦預算似乎對消費不利。一個積極因素是適度的稅收減免。然而，分析師Michael Simotas表示，對負扣稅和資本利得稅的調整可能會拖累房屋價值帶來的財富效應。他指出，通常表現出強勁需求的嬰兒潮一代受影響尤為嚴重。Jefferies表示：“由於對現有房屋的投資減少導致房屋週轉可能放緩，這也將對包括JB Hi-Fi、Harvey Norman、Nick Scali、Metcash和Wesfarmers在內的房地產敞口股票產生負面影響。“儘管如此，這可能會鼓勵新房或完工專案的建設，這些專案的建設落後於審批已有一段時間。Jefferies表示，這一趨勢可能成為Wesfarmers和Metcash抵消負面影響的有利因素。"
-    },
-    {
-      "id": "te:economy:550094",
-      "time": "2026-05-13 07:04:39",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "South Korea",
-        "Unemployment Rate",
-        "Importance 2"
-      ],
-      "text": "South Korea Jobless Rate Edges Up to 2.8% in April — South Korea’s seasonally adjusted unemployment rate inched up to 2.8% in April 2026 from March’s five-month low of 2.7%. The economy added 74,000 jobs during the month, marking the smallest increase in 16 months after job gains had exceeded 200,000 for two consecutive months, bringing total employment to 28.961 million. Meanwhile, the number of unemployed fell to 853,000 in April, down 2,000 or 3.8% year-on-year. The labor force participation rate declined to 62.7%, from 63% in March."
-    },
-    {
-      "id": "4875959",
-      "time": "2026-05-13 07:00:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國4月經調整失業率為2.8%，此前預期為2.7%。"
-    },
-    {
-      "id": "te:economy:550092",
-      "time": "2026-05-13 07:00:14",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Mexico",
-        "Credit Rating",
-        "Importance 1"
-      ],
-      "text": "S&P Revises Mexico's Outlook to Negative — S&P Global Ratings on Tuesday revised Mexico's outlook to \"negative\" from \"stable\" while affirming its \"BBB\" long-term foreign currency and \"BBB+\" long-term local currency sovereign credit ratings. The agency said the revised outlook reflects the risk of very slow fiscal consolidation, largely due to weak economic growth, which could lead to a faster-than-expected buildup in government debt and a higher interest burden. Meanwhile, Mexico's low per capita growth remains a key ratings constraint, while soft economic activity, rigid spending, and the weak financial position of the country's largest public-sector companies are eroding fiscal flexibility and pushing up debt levels. Moody's credit rating for Mexico was last set at Baa2 with a negative outlook, while DBRS Morningstar's rating was last reported at BBB with a stable outlook."
-    },
-    {
-      "id": "mkt:019e1e6b-2b9f-7772-877e-994f6c04fa4c",
-      "time": "2026-05-13 07:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "South Korea | Unemployment Rate (Apr) | actual 2.8% | consensus 2.7% | previous 2.70%"
     }
   ]
 }
