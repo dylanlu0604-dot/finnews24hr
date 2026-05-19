@@ -1,7 +1,78 @@
 {
-  "updated": "2026-05-19 10:08:59",
-  "count": 15604,
+  "updated": "2026-05-19 10:12:57",
+  "count": 15607,
   "items": [
+    {
+      "id": "4886964",
+      "time": "2026-05-19 10:11:49",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼盾<IDR=>進一步下挫，兌美元跌至1美元兌換17700印尼盾的歷史低點"
+    },
+    {
+      "id": "4886963",
+      "time": "2026-05-19 10:11:39",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【日產考慮將在中國合資製造的電動汽車出口至加拿大】日產汽車公司正考慮將其與中國合作伙伴合資生產的汽車出口至加拿大。日產美洲區負責人Christian Meunier在接受採訪時表示，公司希望以其與東風汽車集團合作生產的低成本電力驅動車型，開拓包括巴西、墨西哥在內的多個市場，加拿大也可能成為目標市場。"
+    },
+    {
+      "id": "te:markets:551760",
+      "time": "2026-05-19 10:11:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "European Gas Prices Retreat — European natural gas futures fell to €59.4 per MWh, retreating from a near six-week high amid renewed hopes for a US–Iran agreement that could reopen the Strait of Hormuz. President Trump has held off on immediate military action against Iran after three Gulf allies requested additional time to pursue negotiations over a nuclear deal. Separately, reports suggested that Iran had agreed to a long-term freeze of its nuclear program rather than a full dismantlement of its facilities. Roughly one-fifth of global LNG supply has been disrupted since the conflict began in late February, with hostilities extending to key production assets in Qatar. The situation raised serious concerns for Europe, particularly as the region prepares to refill storage ahead of the next winter."
+    },
+    {
+      "id": "mkt:019e3e00-169e-7aa9-b721-e72773832a7a",
+      "time": "2026-05-19 10:10:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact mixed",
+        "SZSE Component"
+      ],
+      "text": "TURNOVER ON SSE AND SZSE EXCEEDS RMB 1 TRLN, DOWN RMB 108.5 BLN FROM SAME TIME PREVIOUS SESSION"
+    },
+    {
+      "id": "4886962",
+      "time": "2026-05-19 10:09:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "港股儲存概念集體回落，南方兩倍做多海力士跌超12%，南方兩倍做多三星電子跌超11%，瀾起科技跌超7%，兆易創新跌超5%。"
+    },
+    {
+      "id": "te:markets:551759",
+      "time": "2026-05-19 10:09:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gasoline Futures Ease — Gasoline futures in the US slipped to around $3.70 per gallon after the US scrapped a planned strike on Iran, easing immediate concerns over an escalation that could have further disrupted global energy flows. Still, prices remained near a more than four-year high as uncertainty persisted, with earlier negotiations showing little progress and the Strait of Hormuz still effectively disrupted. The chokepoint, which handles roughly 20% of global oil flows, continues to restrict key crude and refined product shipments. Seasonal demand expectations are also providing support as the approach of the US summer driving season typically lifts near-term fuel consumption. Meanwhile, US gasoline stockpiles fell for a 13th consecutive week in early May despite a slight increase in production, as refineries continued operating near full capacity and drew on crude feedstock from the SPR to sustain output."
+    },
+    {
+      "id": "mkt:019e3dfe-5f08-7aa9-b721-d89191051c32",
+      "time": "2026-05-19 10:08:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "TURNOVER ON SSE AND SZSE EXCEEDED 1TN YUAN, DOWN 110BN YUAN VS SAME TIME PREVIOUS SESSION"
+    },
     {
       "id": "4886961",
       "time": "2026-05-19 10:08:16",
@@ -140994,42 +141065,6 @@
         "Importance 1"
       ],
       "text": "China Stocks Retreat from Multi-Year Highs — The Shanghai Composite slipped 0.2% to 4,218 on Tuesday, while the Shenzhen Component Index fell 0.3% to 15,854, with both benchmarks retreating from multi-year highs as fading hopes for US-Iran peace negotiations dampened market sentiment. President Trump recently said the US-Iran ceasefire was on “massive life support” and rejected Tehran’s latest peace proposal, raising concerns that disruptions in the Strait of Hormuz could persist. Markets were also focused on the upcoming Trump-Xi meeting, with investors hoping the talks will at least preserve the fragile US-China trade truce. Beyond trade, the two leaders are also expected to discuss the Middle East conflict and Taiwan. Trump is set to arrive in Beijing on Wednesday evening, while the US plans to host Xi Jinping during a reciprocal visit later this year. Notable decliners included Foxconn Industrial Internet (-2.3%), Hygon Information Technology (-2.5%), Contemporary Amperex Technology (-0.9%), and Sungrow Power Supply (-1.7%)."
-    },
-    {
-      "id": "4873896",
-      "time": "2026-05-12 10:12:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "【航天裝備板塊持續走低】航天裝備板塊持續走低，理工導航跌超8%，中天火箭、中國衛星、航天電子、電科藍天等跟跌。"
-    },
-    {
-      "id": "te:markets:549808",
-      "time": "2026-05-12 10:12:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Yen Falls for Second Straight Session — The Japanese yen weakened to around 157.5 per dollar on Tuesday, extending losses for a second consecutive session as the dollar strengthened after President Donald Trump raised doubts over the durability of the US-Iran ceasefire following his rejection of Tehran’s latest peace proposal, keeping inflation risks in focus. Meanwhile, Japan and the US reiterated close coordination on currency policy after Japanese Finance Minister Satsuki Katayama met with US Treasury Secretary Scott Bessent. Tokyo is suspected to have spent more than $63 billion intervening in foreign exchange markets to support the yen, although authorities have not confirmed the operations. Elsewhere, the Summary of Opinions from the Bank of Japan’s April meeting indicated that policymakers are considering potential interest rate increases as early as the next meeting, as surging oil prices continue to heighten inflationary pressures."
-    },
-    {
-      "id": "4873890",
-      "time": "2026-05-12 10:11:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【珠海冠宇成立新公司 含合同能源管理等業務】近日，珠海冠宇數字能源技術有限公司成立，法定代表人為劉宗坤，註冊資本為2000.00萬元，經營範圍包括：合同能源管理等。透過快查APP股權穿透，該公司為珠海冠宇全資子公司。"
-    },
-    {
-      "id": "4873889",
-      "time": "2026-05-12 10:11:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓國高層澄清：人工智慧公民紅利將取自超額稅收 而非企業利潤】韓國總統府政策室長金容範表示，來自人工智慧(AI)產業的“公民紅利”將來源於超額稅收，而非直接取自人工智慧企業的利潤。金容範是在回應彭博新聞社詢問時作出上述表態，以澄清他此前在社交媒體上的相關發文。"
     }
   ]
 }
