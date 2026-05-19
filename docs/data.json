@@ -1,7 +1,80 @@
 {
-  "updated": "2026-05-20 01:42:51",
-  "count": 15612,
+  "updated": "2026-05-20 01:46:51",
+  "count": 15618,
   "items": [
+    {
+      "id": "4888732",
+      "time": "2026-05-20 01:45:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯：伊朗不能擁有核武器。"
+    },
+    {
+      "id": "4888731",
+      "time": "2026-05-20 01:45:07",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國副總統萬斯：伊朗想要達成什麼目標，目前還不完全清楚。"
+    },
+    {
+      "id": "4888730",
+      "time": "2026-05-20 01:44:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯：伊朗是一個非常複雜的國家。"
+    },
+    {
+      "id": "4888729",
+      "time": "2026-05-20 01:42:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯：帕克斯頓在得克薩斯州參議院選舉中贏得了特朗普的支援。"
+    },
+    {
+      "id": "4888728",
+      "time": "2026-05-20 01:42:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯：帕克斯頓將成為德克薩斯州一位優秀的參議員。"
+    },
+    {
+      "id": "mkt:019e4155-4df0-7228-9afe-72e55d2be866",
+      "time": "2026-05-20 01:42:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. VICE PRESIDENT VANCE: PAXTON EARNED TRUMP'S ENDORSEMENT IN TEXAS SENATE ELECTION"
+    },
+    {
+      "id": "4888727",
+      "time": "2026-05-20 01:42:27",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "谷歌在開發者大會宣佈將每月250美元的AI超級套餐下調至200美元，並新增100美元檔位。"
+    },
+    {
+      "id": "mkt:019e4154-ffa2-7228-9afe-6bcd1791fbe1",
+      "time": "2026-05-20 01:42:08",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "GOOGL.O",
+        "Impact mixed"
+      ],
+      "text": "GOOGLE ANNOUNCES LOWERS $250/MONTH AI ULTRA PLAN TO $200, ADDS $100 TIER - CONFERENCE"
+    },
     {
       "id": "4888726",
       "time": "2026-05-20 01:41:51",
@@ -141075,31 +141148,6 @@
         "Impact mixed"
       ],
       "text": "COURT HALTS ORDER DECLARING NEW TRUMP TARIFFS UNLAWFUL FOR NOW APPEALS COURT WEIGHING US BID FOR LONGER PAUSE ON TARIFF RULING"
-    },
-    {
-      "id": "mkt:019e1d4c-6d7d-7772-877b-86333809afe2",
-      "time": "2026-05-13 01:46:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US FIRST LADY NOT TRAVELLING TO CHINA WITH TRUMP - SCMP"
-    },
-    {
-      "id": "mkt:019e1d4c-54c9-7772-877b-7fbcfce69b0a",
-      "time": "2026-05-13 01:46:42",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Hot",
-        "Market Themes",
-        "The Trump Trade",
-        "Market Regions",
-        "Greater China",
-        "Policy",
-        "Breaking News 24h",
-        "Chinese Policy & Markets"
-      ],
-      "text": "【Air Force One Passenger List for Trump’s China Trip Released】Traveling with President Trump aboard AF1 today to China, per White House, include: Eric Trump Lara Trump Secretary Marco Rubio Secretary Pete Hegseth Ambassador Jamieson Greer James Blair Beau Harrison Stephen Miller Steven Cheung Robert Gabriel Michael Kratsios Ross Worthington Walt Nauta Ambassador Monica Crowley"
     }
   ]
 }
