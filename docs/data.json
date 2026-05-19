@@ -1,7 +1,66 @@
 {
-  "updated": "2026-05-19 23:52:01",
-  "count": 15627,
+  "updated": "2026-05-19 23:56:14",
+  "count": 15623,
   "items": [
+    {
+      "id": "mkt:019e40f2-9639-7228-9afc-f061f2240dd1",
+      "time": "2026-05-19 23:55:00",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "IBM.O",
+        "Impact bullish"
+      ],
+      "text": "IBM ANNOUNCES EXPANSION OF ITS ENTERPRISE SECURITY PROGRAM FOR AI AND PARTNERS WITH ANTHROPIC IN PROJECT GLASSWING"
+    },
+    {
+      "id": "4888621",
+      "time": "2026-05-19 23:54:17",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【廣西緊急排程2000萬元資金支援柳州抗震救災】記者5月19日從廣西壯族自治區財政廳獲悉，自治區財政廳會同自治區應急管理廳開通綠色通道，緊急排程應急救災資金2000萬元支援柳州市開展抗震救災工作。（廣西日報）"
+    },
+    {
+      "id": "4888620",
+      "time": "2026-05-19 23:53:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【蘇丹一市場遭無人機襲擊致28人死亡 】蘇丹西部西科爾多凡州基拜什市一個市場19日遭無人機襲擊，造成28人死亡、約25人受傷。"
+    },
+    {
+      "id": "mkt:019e40f1-a3cc-7228-9afc-e9b1baa139b7",
+      "time": "2026-05-19 23:53:45",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "RUSSIA'S RYAZAN OIL REFINERY HALTED OPERATIONS AFTER UKRAINIAN DRONE ATTACK ON MAY 15, SOURCES SAY"
+    },
+    {
+      "id": "4888619",
+      "time": "2026-05-19 23:53:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "IBM宣佈擴容面向人工智慧時代的企業安全專案，並攜手Anthropic加入玻璃之翼計劃。"
+    },
+    {
+      "id": "4888618",
+      "time": "2026-05-19 23:51:46",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "韓國勞動委員會：三星與韓國工會將於週三韓國時間上午10點恢復談判。"
+    },
     {
       "id": "4888617",
       "time": "2026-05-19 23:50:18",
@@ -141259,107 +141318,6 @@
         "焦點"
       ],
       "text": "美國天然氣期貨跌超3.00%，現報3.034美元/百萬英熱。"
-    },
-    {
-      "id": "mkt:019e1ce6-fd55-7cc6-9ab9-ed1b38bc4797",
-      "time": "2026-05-12 23:56:00",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "OPENAI CEO SAM ALTMAN IS CALLED TO THE WITNESS STAND AT TRIAL IN ELON MUSK'S LAWSUIT"
-    },
-    {
-      "id": "4875646",
-      "time": "2026-05-12 23:55:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "OpenAI執行長奧爾特曼在埃隆・馬斯克的訴訟案庭審中被傳喚出庭作證。"
-    },
-    {
-      "id": "te:markets:550057",
-      "time": "2026-05-12 23:54:56",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "FTSE 100 Edges Down Slightly — The FTSE 100 slipped 0.2% on Tuesday, with banks weighing on the index, though it still outperformed broader European markets. Sentiment was hit by growing doubts over the stability of the US-Iran ceasefire and rising political uncertainty in the UK. Prime Minister Keir Starmer has stated he will remain in office despite calls from over 70 Labour MPs for his resignation following the party’s poor local election results. Banking stocks led declines, with HSBC, Lloyds, Barclays, NatWest and Standard Chartered all falling between 1% and 4%. Vodafone dropped more than 7% despite beating earnings expectations and returning to growth in Germany. Limiting losses, oil majors Shell and BP rose as crude prices remained elevated amid ongoing Middle East tensions."
-    },
-    {
-      "id": "mkt:019e1ce5-fee4-7cc6-9ab9-e1044a93066d",
-      "time": "2026-05-12 23:54:55",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "ZELENSKIY SAYS UKRAINE STRUCK GAS FACILITIES IN RUSSIA'S ORENBURG REGION, MORE THAN 1,500 KM FROM UKRAINE"
-    },
-    {
-      "id": "te:markets:550056",
-      "time": "2026-05-12 23:54:53",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Lead Hits 12-week High — Lead increased to 1999.00 USD/T, the highest since February 2026. Over the past 4 weeks, Lead gained 3.71%, and in the last 12 months, it increased 0.39%."
-    },
-    {
-      "id": "4875645",
-      "time": "2026-05-12 23:54:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基：烏克蘭襲擊了俄羅斯奧倫堡州的天然氣設施，該地距離烏克蘭逾 1500 公里。"
-    },
-    {
-      "id": "4875644",
-      "time": "2026-05-12 23:53:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "據巴西環球新聞網（G1）：歐盟禁止從巴西進口動物及肉類產品。"
-    },
-    {
-      "id": "mkt:019e1ce4-a07c-7cc6-9ab9-dec9732be178",
-      "time": "2026-05-12 23:53:25",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "EU BANS IMPORTS OF ANIMAL, MEAT FROM BRAZIL: G1"
-    },
-    {
-      "id": "te:markets:550055",
-      "time": "2026-05-12 23:53:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "CAC 40 Extends Losses on US-Iran Tensions — The CAC 40 fell 0.9% to close at 7,980 on Tuesday, marking a fourth consecutive session of losses as fading hopes for a US-Iran peace agreement continued to weigh on sentiment. US President Donald Trump said a potential ceasefire with Iran was “on life support” after Tehran rejected a US-backed proposal aimed at ending the conflict. The renewed geopolitical uncertainty pushed oil prices higher, reviving concerns over inflation and slowing economic growth. Investors also reassessed the outlook for monetary policy in Europe, with markets now pricing in two additional 25 basis-point rate hikes from the ECB by September. Financial stocks led the losses, with BNP Paribas down 2.7% and Société Générale falling 3.8%. Industrials also traded lower, with Airbus down 1.7% and Safran losing 1.3%. On the upside, TotalEnergies gained 1.8% as higher crude prices supported energy stocks, while most luxury shares advanced, including L’Oréal (+1.5%)."
-    },
-    {
-      "id": "4875643",
-      "time": "2026-05-12 23:52:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "巴西石油公司執行長：公司或將提前推進既定投資計劃。"
     }
   ]
 }
