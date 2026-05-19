@@ -1,7 +1,112 @@
 {
-  "updated": "2026-05-19 10:24:47",
-  "count": 15616,
+  "updated": "2026-05-19 10:28:41",
+  "count": 15626,
   "items": [
+    {
+      "id": "mkt:019e3e0f-fcfa-7aa9-b722-13eaac89734f",
+      "time": "2026-05-19 10:28:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TRUMP POSTS WHITE HOUSE NOTICE SAYING EPA TERMINATED ITS ENVIRONMENTAL JUSTICE DEPT"
+    },
+    {
+      "id": "4886992",
+      "time": "2026-05-19 10:27:33",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "特朗普釋出白宮公告稱，美國環境保護署已撤銷其環境正義部門。"
+    },
+    {
+      "id": "4886991",
+      "time": "2026-05-19 10:27:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀失守77美元/盎司，日內跌0.58%。"
+    },
+    {
+      "id": "4886990",
+      "time": "2026-05-19 10:26:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度4月份液化天然氣進口量同比下降29.7%，產量下降4.2%。"
+    },
+    {
+      "id": "mkt:019e3e0e-929c-7aa9-b722-0f593af2e40c",
+      "time": "2026-05-19 10:26:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "CHINA'S CSI RARE EARTH INDEX DOWN 3%"
+    },
+    {
+      "id": "4886989",
+      "time": "2026-05-19 10:25:51",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【產能將激增 前三星晶片負責人預測明年下半年記憶體將顯著降價】週二，韓國國家工程院第285屆NAEK論壇上，三星電子裝置解決方案部門常任顧問、三星半導體（DS）部門前總裁慶桂顯（Kye-hyun Kyung）表示，中國企業正在積極擴大產能，隨著儲存晶片供應量的激增，市場格局可能會在明年下半年或2028年上半年發生轉變。他補充稱，如果大型科技公司的資本支出回報率下降，就有可能削減投資。這樣，不僅價格會下降，記憶體需求本身在2028年後也可能萎縮。"
+    },
+    {
+      "id": "4886988",
+      "time": "2026-05-19 10:25:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【擎朗智慧劉斐：2030年服務機器人將在萬億機器人市場中佔據過半的份額】5月19日，在2026(第三屆)高工人形機器人技術應用峰會上，擎朗智慧戰略技術官劉斐表示，2030年全球機器人將以20%的複合增長率達到1.12萬億人民幣的規模，其中專業服務機器人將以最高24.6%的增速達到6300億的規模，屆時將成為機器人市場最大的細分賽道。"
+    },
+    {
+      "id": "4886987",
+      "time": "2026-05-19 10:25:16",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【晶片公司Analog Devices據悉接近達成交易以15億美元收購Empower】5月19日訊息，據報道，晶片公司Analog Devices就以15億美元現金收購非上市公司Empower Semiconductor進行深入談判，最終協議尚未達成，細節可能會發生變化，談判也可能最終無果而終。Analog Devices設計、製造和銷售用於工業和通訊裝置、消費電子產品和汽車等領域的晶片，股價今年已上漲54%，市值達到2040億美元。"
+    },
+    {
+      "id": "te:markets:551768",
+      "time": "2026-05-19 10:25:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "China Stocks on 4-Session Decline — The Shanghai Composite fell 0.4% to 4,115 on Monday, while the Shenzhen Component dropped 0.8% to 15,402, with both benchmarks marking their fourth consecutive session of decline, dragged down by significant losses in tech shares. Hygon Information Technology (-2.9%), Zhongji Innolight (-2.1%), Eoptolink Technology (-1.9%), and Victory Giant Technology (-1.8%) were notable laggards as investors locked in profits from the recent surge in tech shares and gearing up for Nvidia's quarterly reports this week. In a similar vein, Nvidia CEO Jensen Huang stated that China will eventually permit the import of AI processors from the US. The recent remarks were made following the high-stakes conference between Presidents Donald Trump and Xi Jinping, during which Xi met Huang and other US corporate executives. On the monetary policy front, investors will be anticipating Wednesday's decision on the one-year and five-year loan prime rates, which are expected to remain at 3% and 3.5%, respectively."
+    },
+    {
+      "id": "mkt:019e3e0c-bd8d-7aa9-b722-0270ac7b5fe0",
+      "time": "2026-05-19 10:24:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "JAPAN'S NIKKEI SHARE AVERAGE EXTENDS LOSS, LAST DOWN 0.6%"
+    },
+    {
+      "id": "4886986",
+      "time": "2026-05-19 10:24:34",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國家金融與發展實驗室理事長李揚：抓好“六張網”投資建設】中國社會科學院學部委員、國家金融與發展實驗室理事長李揚5月19日在金融街·金城坊論壇會上表示，當前，擴張性宏觀調控政策仍須加力。具體看，要大力發展資本市場，尤其要完善股票市場的各種制度，注重併購重組。在繼續促進消費的同時，要重視投資的重要性，尤其抓好水網、新型電網等“六張網”投資建設。此外，要加強貨幣政策和財政政策協調配合。 (新華財經)"
+    },
     {
       "id": "4886984",
       "time": "2026-05-19 10:24:04",
@@ -141139,18 +141244,6 @@
         "國際"
       ],
       "text": "【一偷渡船在馬來西亞海域沉沒 14人失蹤】當地時間5月11日，一艘載有印尼籍非法移民的木船在馬來西亞霹靂州邦咯島海域沉沒。截至12日上午，已有23人被當地漁民救起，仍有14人失蹤。馬來西亞海事執法機構已聯合水警及海軍展開搜救。初步調查顯示，該船於5月9日離開印尼，獲救者已移交警方接受進一步調查。"
-    },
-    {
-      "id": "mkt:019e1a01-a1c1-7dd9-b928-3d39447a513c",
-      "time": "2026-05-12 10:26:14",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "SZSE Component"
-      ],
-      "text": "TURNOVER ON SSE AND SZSE EXCEEDS 1.5TN YUAN, DOWN 154.9BN YUAN FROM THE SAME TIME YESTERDAY"
     }
   ]
 }
