@@ -1,7 +1,47 @@
 {
-  "updated": "2026-05-20 03:57:06",
-  "count": 15603,
+  "updated": "2026-05-20 04:00:58",
+  "count": 15601,
   "items": [
+    {
+      "id": "4888848",
+      "time": "2026-05-20 04:00:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "高通CFO：公司將先佈局簡易機器人解決方案，預計未來三至五年該業務將形成可觀規模。"
+    },
+    {
+      "id": "4888847",
+      "time": "2026-05-20 04:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收漲0.04%】萬物新生漲11.11%，能鏈智電漲8.86%，復朗集團漲7.78%，貝殼漲5.03%，鬥魚漲3.64%。"
+    },
+    {
+      "id": "mkt:019e41d0-6a24-7228-9b00-04a74e2466e6",
+      "time": "2026-05-20 03:56:00",
+      "tags": [
+        "MKT News",
+        "QCOM.O",
+        "Impact bullish"
+      ],
+      "text": "QUALCOMM CFO ON SUPPLY CONSTRAINTS: GIVEN OUR SCALE, WE HAVE SOME FLEXIBILITY ACROSS PRODUCT CATEGORIES & ARE ABLE TO LEVERAGE THAT INTO HAVING SUPPLIER ASSURANCE - JPMORGAN TMT CONFERENCE"
+    },
+    {
+      "id": "mkt:019e41d0-1c2f-7228-9aff-f89d399b4f15",
+      "time": "2026-05-20 03:55:49",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "US ENERGY SECRETARY WRIGHT: HORMUZ WILL BE FLOWING AGAIN IN THE NOT-TOO-DISTANT FUTURE"
+    },
     {
       "id": "mkt:019e41cf-cdce-7228-9aff-f475b1778307",
       "time": "2026-05-20 03:55:41",
@@ -140798,68 +140838,6 @@
         "XOM.O"
       ],
       "text": "EXXONMOBIL: NO LINK BETWEEN PROPOSAL TO RELOCATE TO TEXAS AND VOLUNTARY RETAIL VOTING PROGRAM – SEC FILING"
-    },
-    {
-      "id": "mkt:019e1dc7-23de-7772-877d-d785dfd8d435",
-      "time": "2026-05-13 04:00:50",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "Dow",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "Nasdaq100"
-      ],
-      "text": "DOW CLOSED +0.11%, S&P 500 -0.16%, NASDAQ -0.71%"
-    },
-    {
-      "id": "4875822",
-      "time": "2026-05-13 04:00:45",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股收盤：三大股指集體漲跌不一】道指漲0.11%，標普500指數跌0.16%，納指跌0.70%。高通跌11.46%，英特爾跌6.86%，Insmed漲11.66%，斑馬技術漲11.53%，昆泰醫藥漲9.84%。“七姐妹”方面：蘋果漲0.72%，Meta Platforms漲0.70%，英偉達漲0.64%，谷歌跌0.73%，亞馬遜跌1.15%，微軟跌1.22%，特斯拉跌2.60%。"
-    },
-    {
-      "id": "4875821",
-      "time": "2026-05-13 04:00:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【納斯達克中國金龍指數收跌0.74%】迅雷跌8.32%，金山雲跌6.30%，聲網跌5.84%，優品車跌5.52%，虎牙跌5.18%。"
-    },
-    {
-      "id": "4875820",
-      "time": "2026-05-13 03:58:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "埃克森美孚：公司遷冊至得克薩斯州的提議與散戶自願投票計劃之間無任何關聯。"
-    },
-    {
-      "id": "mkt:019e1dc4-4c46-7772-877d-cb5c703aa1c0",
-      "time": "2026-05-13 03:57:44",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "S&P 500 HIT SESSION HIGHS, DOWN 0.12% AFTER DECLINING AS MUCH AS 1%"
-    },
-    {
-      "id": "4875819",
-      "time": "2026-05-13 03:57:40",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印度政府政令：黃金、白銀新進口關稅自 5 月 13 日起正式生效。"
     }
   ]
 }
