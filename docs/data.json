@@ -1,7 +1,72 @@
 {
-  "updated": "2026-05-19 09:17:48",
-  "count": 15571,
+  "updated": "2026-05-19 09:21:44",
+  "count": 15568,
   "items": [
+    {
+      "id": "4886856",
+      "time": "2026-05-19 09:21:12",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行公開市場今日資金投放量持平到期量。"
+    },
+    {
+      "id": "mkt:019e3dd2-7513-7aa9-b721-224b2db75cdf",
+      "time": "2026-05-19 09:20:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CHINA C.BANK INJECTS 500 MLN YUAN VIA 7-DAY REVERSE REPOS AT 1.40% VS PRIOR 1.40% - STATEMENT"
+    },
+    {
+      "id": "4886855",
+      "time": "2026-05-19 09:20:32",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行進行 5 億元 7 天期逆回購操作 操作利率 1.4%。"
+    },
+    {
+      "id": "mkt:019e3dd0-875a-7aa9-b721-18125b93f372",
+      "time": "2026-05-19 09:18:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "PBOC SETS YUAN MID-POINT AT STRONGEST LEVEL SINCE MARCH 24, 2023"
+    },
+    {
+      "id": "mkt:019e3dce-76c3-7aa9-b721-11b49526ff58",
+      "time": "2026-05-19 09:16:41",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "PBOC SETS MIDPOINT FOR USD/CNY AT 6.8375, DOWN 60 PIPS"
+    },
+    {
+      "id": "4886854",
+      "time": "2026-05-19 09:16:23",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【媒體：三星工會與管理層在談判中縮小了部分分歧 以避免罷工】韓聯社Infomax週二援引韓國國家勞動關係委員會主席的話報道稱，三星電子與其韓國工會正在縮小部分分歧。工會與管理層正在進行談判，以避免這家科技巨頭歷史上規模最大的罷工發生。"
+    },
     {
       "id": "4886853",
       "time": "2026-05-19 09:15:33",
@@ -140613,91 +140678,6 @@
         "其他"
       ],
       "text": "央行公開市場今日淨投放5.0億元人民幣。"
-    },
-    {
-      "id": "4873666",
-      "time": "2026-05-12 09:21:33",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "央行今日開展5億元7天逆回購操作，投標量5億元，中標量5億元，操作利率為1.40%，與此前持平。"
-    },
-    {
-      "id": "em:qqyh_zgyh:202605123733963056",
-      "time": "2026-05-12 09:21:22",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "央行今日開展5億元7天逆回購操作，操作利率為1.40%，與此前持平。"
-    },
-    {
-      "id": "mkt:019e19c6-2dc0-7dd9-b927-ca3a61d4968f",
-      "time": "2026-05-12 09:21:18",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Hang Seng Index",
-        "Impact bullish"
-      ],
-      "text": "HONG KONG STOCKS OPEN HIGHER: HANG SENG +0.34%, TECH INDEX +0.45%"
-    },
-    {
-      "id": "4873665",
-      "time": "2026-05-12 09:21:16",
-      "tags": [
-        "焦點"
-      ],
-      "text": "港股恒指高開漲0.34％，國企指數漲0.2％，科指開漲0.45%。快手漲約10%。"
-    },
-    {
-      "id": "mkt:019e19c6-160d-7dd9-b927-c574b3803b4f",
-      "time": "2026-05-12 09:21:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CHINA C.BANK INJECTS 500 MLN YUAN VIA 7-DAY REVERSE REPOS AT 1.40% VS PRIOR 1.40% - STATEMENT"
-    },
-    {
-      "id": "4873664",
-      "time": "2026-05-12 09:20:18",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "菲律賓比索兌美元下跌 0.5%。"
-    },
-    {
-      "id": "4873663",
-      "time": "2026-05-12 09:19:57",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數抹去2.3%的漲幅，三星股價下跌超過1%。"
-    },
-    {
-      "id": "te:markets:549788",
-      "time": "2026-05-12 09:19:57",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Australia Stocks Fall for 3rd Session Ahead of Federal Budget — Australian shares lost 28 points or 0.3% to 8,674 in early trade on Tuesday, retreating for the third straight session amid weaker U.S. stock futures after President Donald Trump said that the ceasefire with Iran was on life support after rejecting Tehran’s counterproposal to end the war, signaling the conflict in the Middle East could drag on. Traders continued to adopt a cautious stance ahead of the release of Australia’s 2026 federal budget later today, as Treasurer Jim Chalmers warned global conflicts and persistent inflation were keeping the economy “hostage.” They also braced for May consumer confidence data and April business sentiment. Most sectors moved lower, with major laggards including commercial services, financials, logistics, and consumers. The big four banks slid between 1.6% to 2.5%. Other notable decliners were CSL Ltd. (-3.4%), Brambles Ltd. (-2.5%), and Woolworths Group (-2.2%)."
-    },
-    {
-      "id": "4873662",
-      "time": "2026-05-12 09:19:07",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "白銀連續主力合約日內漲8%，現報21460.00元。"
     }
   ]
 }
