@@ -1,7 +1,33 @@
 {
-  "updated": "2026-05-20 04:24:35",
-  "count": 15598,
+  "updated": "2026-05-20 04:28:24",
+  "count": 15595,
   "items": [
+    {
+      "id": "mkt:019e41ec-47d0-7228-9b00-44c947999c77",
+      "time": "2026-05-20 04:27:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【US to Reduce NATO Crisis-Response Force Commitments】The Trump administration plans to tell NATO allies this week that the US will reduce the military capabilities it makes available under the NATO Force Model during major crises or war, according to sources familiar with the matter. The move is expected to be communicated at a Friday meeting in Brussels. The Pentagon is expected to maintain the US nuclear umbrella for NATO members while shifting greater responsibility for conventional defense to Europe. The alliance faces rising strain amid concerns in Europe about a broader US pullback, following plans to cut about 5,000 US troops from Europe and cancel an Army brigade deployment to Poland."
+    },
+    {
+      "id": "4888862",
+      "time": "2026-05-20 04:26:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿森納自 2004 年以來再度奪得英格蘭英超聯賽冠軍。"
+    },
+    {
+      "id": "mkt:019e41ea-16f3-7228-9b00-3d53c8f4f13e",
+      "time": "2026-05-20 04:25:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US PLANS TO SHRINK FORCES AVAILABLE TO NATO DURING CRISES, SOURCES SAY"
+    },
     {
       "id": "4888861",
       "time": "2026-05-20 04:19:57",
@@ -140774,57 +140800,6 @@
         "MKT News"
       ],
       "text": "MUSK: SPACEX IS CONSIDERING SEVERAL LOCATIONS DOMESTICALLY AND INTERNATIONALLY TO BUILD THE WORLD’S MOST ADVANCED SPACEPORTS"
-    },
-    {
-      "id": "mkt:019e1ddf-bdd5-7772-877e-244ed73524b6",
-      "time": "2026-05-13 04:27:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TRUMP: FAKE NEWS MEDIA SAYING IRANIAN ENEMY IS DOING WELL IS TANTAMOUNT TO TREASON"
-    },
-    {
-      "id": "mkt:019e1ddf-6ff7-7772-877e-1eb775f3367a",
-      "time": "2026-05-13 04:27:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "WH SR. ADVISER HASSETT ON GASOLINE TAX: TRUMP'S VIEW IS WE SHOULD MODERNIZE"
-    },
-    {
-      "id": "mkt:019e1ddf-2182-7772-877e-102e117cd1f7",
-      "time": "2026-05-13 04:26:59",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "WH SR. ADVISER HASSETT ON SPR: WE'RE RELEASING AS FAST AS POSSIBLE"
-    },
-    {
-      "id": "4875841",
-      "time": "2026-05-13 04:25:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普批評媒體有關伊朗 “局勢向好” 的報道。"
-    },
-    {
-      "id": "4875840",
-      "time": "2026-05-13 04:25:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普經濟顧問哈塞特談汽油稅：特朗普的觀點是我們應當進行稅制現代化改革。"
-    },
-    {
-      "id": "4875839",
-      "time": "2026-05-13 04:24:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌正將 NotebookLM 整合至谷歌工作區工作室（Google Workspace Studio）。"
     }
   ]
 }
