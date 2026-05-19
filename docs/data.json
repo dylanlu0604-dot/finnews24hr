@@ -1,7 +1,26 @@
 {
-  "updated": "2026-05-20 06:40:06",
-  "count": 15540,
+  "updated": "2026-05-20 06:44:07",
+  "count": 15541,
   "items": [
+    {
+      "id": "4888917",
+      "time": "2026-05-20 06:41:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞10年期國債收益率漲3.07個基點，在悉尼盤初報5.0905%。30年期澳債收益率漲2.49個基點，報5.5146%。三年期澳債稅率漲超2.60個基點，報4.7014%。"
+    },
+    {
+      "id": "te:markets:552040",
+      "time": "2026-05-20 06:40:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Cocoa Rises by 3.12% — Top commodity gainers are Cocoa (3.12%), Canola (2.61%) and Coffee (2.10%). Biggest losers are Orange Juice (-2.96%) and Cotton (-1.75%)."
+    },
     {
       "id": "4888916",
       "time": "2026-05-20 06:39:24",
@@ -140329,17 +140348,6 @@
         "Importance 1"
       ],
       "text": "Crypto Updates: XRP Depreciates by 2.39% — Top crypto losers are XRP (-2.39%), Ether (-2.38%) and Bitcoin (-1.34%)."
-    },
-    {
-      "id": "te:markets:550089",
-      "time": "2026-05-13 06:40:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Wheat Spikes by 6.87% — Top commodity gainers are Wheat (6.87%), Orange Juice (4.31%) and Oat (2.30%). Biggest losers are Cocoa (-2.42%), Cotton (-1.80%) and Palm Oil (-0.78%)."
     }
   ]
 }
