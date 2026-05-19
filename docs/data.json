@@ -1,7 +1,64 @@
 {
-  "updated": "2026-05-19 11:43:01",
-  "count": 15630,
+  "updated": "2026-05-19 11:46:45",
+  "count": 15632,
   "items": [
+    {
+      "id": "4887084",
+      "time": "2026-05-19 11:45:20",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼股市基準指數下跌1%至6532.55點。"
+    },
+    {
+      "id": "mkt:019e3e55-7b0f-7aa9-b722-660b6423cd76",
+      "time": "2026-05-19 11:44:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TAIWAN'S BENCHMARK STOCK INDEX FALLS AS MUCH AS 1.5% TO 40,300.51 POINTS"
+    },
+    {
+      "id": "4887083",
+      "time": "2026-05-19 11:44:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣基準股票指數跌幅達1.5%，至40300.51點。"
+    },
+    {
+      "id": "mkt:019e3e55-5e2e-7aa9-b722-5de9accb6dee",
+      "time": "2026-05-19 11:44:02",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "CSI300",
+        "Impact bearish",
+        "Hang Seng Index",
+        "Copper"
+      ],
+      "text": "【Iron Ore Falls to Two-Week Low on China Steel Demand Concerns】Iron ore fell for a fourth straight session in Singapore, the longest losing streak in nearly three months, amid concerns over weakening Chinese demand. Prices slipped near $107 a ton after data showed China’s economy slowed broadly in April, with investment resuming declines as the global energy crisis weighed on factories and consumers. GF Futures Co. said recent steel price gains had outpaced demand, while high prices were also hurting Chinese steel exports and overseas consumption."
+    },
+    {
+      "id": "4887082",
+      "time": "2026-05-19 11:43:52",
+      "tags": [
+        "公司",
+        "市場",
+        "原創"
+      ],
+      "text": "【5月19日午間漲停分析】創業板指半日跌超1%，電力股逆勢走強。利仁科技7連板，威龍股份、京能電力均5連板，一圖看懂>>"
+    },
+    {
+      "id": "4887081",
+      "time": "2026-05-19 11:43:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東山精密：已與外部矽光企業開展合作並佈局自研矽光模組產品】東山精密(002384)5月19日在互動平臺表示，公司200G EML已實現量產，1.6T產品客戶端相關工作正按計劃有序推進，3.2T產品將依託索爾思自有光晶片優勢優先以400G EML為核心開展布局。公司具備矽光CW鐳射晶片研發能力，目前已與外部矽光企業開展合作並佈局自研矽光模組產品，後續技術方案堅持EML與矽光並行，多元佈局應對光互聯技術迭代，持續夯實技術競爭力。"
+    },
     {
       "id": "4887079",
       "time": "2026-05-19 11:41:41",
@@ -141256,39 +141313,6 @@
         "焦點"
       ],
       "text": "現貨黃金失守4720美元/盎司，日內跌0.33%。"
-    },
-    {
-      "id": "4874096",
-      "time": "2026-05-12 11:46:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "阿布扎比國家石油公司天然氣股份有限公司（ADNOC GAS PLC）：2026年第一季度資本支出總計為10.25億美元。"
-    },
-    {
-      "id": "4874095",
-      "time": "2026-05-12 11:44:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "【興業銀行等成立興盛興質併購股權投資基金 出資額3.33億】天眼查App顯示，近日，福建省興盛興質併購股權投資基金合夥企業（有限合夥）成立，執行事務合夥人為興盛天成投資管理（南平）有限公司，出資額3.33億人民幣，經營範圍為以私募基金從事股權投資、投資管理、資產管理等活動。合夥人資訊顯示，該基金由興業銀行旗下興銀理財有限責任公司、福建省省級政府投資基金有限公司、福州市金投產業投資有限公司、福州市鼓樓區城建投資發展集團有限公司、興盛天成投資管理（南平）有限公司共同出資。"
-    },
-    {
-      "id": "4874094",
-      "time": "2026-05-12 11:44:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "阿布扎比國家石油公司天然氣部門：霍爾木茲海峽海運交通中斷持續影響該公司天然氣產品裝船出貨。"
-    },
-    {
-      "id": "4874093",
-      "time": "2026-05-12 11:43:36",
-      "tags": [
-        "市場",
-        "原創"
-      ],
-      "text": "【5月12日午間漲停分析】創業板指半日跌0.37%，電網裝置、電力股逆勢走強。大唐發電5連板，通鼎互聯4連板，一圖看懂>>"
     }
   ]
 }
