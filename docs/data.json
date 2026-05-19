@@ -1,7 +1,67 @@
 {
-  "updated": "2026-05-20 01:14:47",
-  "count": 15598,
+  "updated": "2026-05-20 01:18:49",
+  "count": 15595,
   "items": [
+    {
+      "id": "mkt:019e413e-b15c-7228-9afd-fabf4f597e48",
+      "time": "2026-05-20 01:18:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "GOOGLE ANNOUNCES GEMINI OMNI MODEL FOR VIDEO GENERATION AND EDITING - CONFERENCE"
+    },
+    {
+      "id": "4888701",
+      "time": "2026-05-20 01:18:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌在釋出會上推出可用於影片生成與編輯的Gemini Omni模型。"
+    },
+    {
+      "id": "4888700",
+      "time": "2026-05-20 01:17:50",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "週二（5月19日），美聯儲隔夜逆回購協議（RRP）使用規模為129.11億美元（交易對手22家），上個交易日報71.93億美元。"
+    },
+    {
+      "id": "mkt:019e413e-463e-7228-9afd-f3830cc3c1cf",
+      "time": "2026-05-20 01:17:40",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "NEW YORK FED ACCEPTS $12.911 BLN OF $12.911 BLN SUBMITTED TO REVERSE REPO FACILITY ON MAY 19"
+    },
+    {
+      "id": "4888699",
+      "time": "2026-05-20 01:16:50",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院：魯比奧與聯合國秘書長週二商討了美方為阻止伊朗管控霍爾木茲海峽航運、收取通行費所採取的相關舉措。"
+    },
+    {
+      "id": "mkt:019e413c-5361-7228-9afd-ed26e96510bb",
+      "time": "2026-05-20 01:15:32",
+      "tags": [
+        "MKT News",
+        "PARA.O"
+      ],
+      "text": "BANKS READY PARAMOUNT’S $49 BILLION DEBT SALE FOR WARNER BROS"
+    },
+    {
+      "id": "4888698",
+      "time": "2026-05-20 01:14:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列媒體：以方官員研判，打擊伊朗並非是否可行的問題，只是時機早晚問題。"
+    },
     {
       "id": "te:markets:552022",
       "time": "2026-05-20 01:12:45",
@@ -140906,100 +140966,6 @@
         "國際"
       ],
       "text": "【俄莫斯科州一庫房發生火災 過火面積已達2550平方米】當地時間5月12日，俄羅斯緊急情況部新聞處表示，莫斯科州多爾戈普魯德內市一庫房發生火災，過火面積已達2550平方米。據悉，庫房內積聚了大量易燃物導致火勢迅速蔓延，並已波及相鄰建築物。目前，消防人員正在現場進行滅火作業。事故傷亡人數還在統計中。"
-    },
-    {
-      "id": "mkt:019e1d32-a596-7772-877b-1d32b9abb09c",
-      "time": "2026-05-13 01:18:38",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "DXY",
-        "Impact bullish",
-        "EURUSD",
-        "Impact bearish",
-        "USDJPY"
-      ],
-      "text": "FED'S GOOLSBEE: WITHOUT CENTRAL BANK INDEPENDENCE, INFLATION WILL COME ROARING BACK"
-    },
-    {
-      "id": "4875709",
-      "time": "2026-05-13 01:18:37",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲古爾斯比：若失去央行獨立性，通脹將再度急劇回升。 不認為美聯儲獨立性會消失。"
-    },
-    {
-      "id": "4875708",
-      "time": "2026-05-13 01:17:56",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "週二（5月12日），美聯儲隔夜逆回購協議（RRP）使用規模為11.99億美元（交易對手7家），上個交易日報11.33億美元。"
-    },
-    {
-      "id": "4875707",
-      "time": "2026-05-13 01:16:57",
-      "tags": [
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "沃什出任美聯儲主席的提名已透過參議院程式性投票，參議院仍需投票確認沃什擔任美聯儲主席。"
-    },
-    {
-      "id": "mkt:019e1d31-1794-7772-877b-112afba540c0",
-      "time": "2026-05-13 01:16:56",
-      "tags": [
-        "MKT News",
-        "Macro & Rates"
-      ],
-      "text": "FED'S GOOLSBEE: DON'T THINK FED INDEPENDENCE IS GOING AWAY"
-    },
-    {
-      "id": "4875706",
-      "time": "2026-05-13 01:16:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "據《泰晤士報》訊息：英國衛生大臣斯特里廷將於週三上午與首相斯塔默舉行會談。"
-    },
-    {
-      "id": "mkt:019e1d30-30dc-7772-877b-0c493ec90a1a",
-      "time": "2026-05-13 01:15:57",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "NEW YORK FED ACCEPTS $1.199 BLN OF $1.199 BLN SUBMITTED TO REVERSE REPO FACILITY ON MAY 12"
-    },
-    {
-      "id": "4875705",
-      "time": "2026-05-13 01:15:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部副部長：美國拒絕我方答覆，僅僅因為它不是一份投降檔案，這表明美方的目的不是和平，而是強加意志。我們強調了永久停戰、避免戰爭重演、賠償、解除封鎖和制裁，以及尊重我們的權利。我們提出的原則是最低要求，是為了結束這場始於非法訴諸武力的危機。"
-    },
-    {
-      "id": "mkt:019e1d2f-dfb1-7772-877b-007d86750546",
-      "time": "2026-05-13 01:15:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UK HEALTH MINISTER STREETING WILL HOLD TALKS WITH PM STARMER ON WEDNESDAY MORNING - THE TIMES SAYS"
-    },
-    {
-      "id": "4875704",
-      "time": "2026-05-13 01:15:21",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國上訴法院暫時暫停貿易法院依據第 122 條針對特朗普 10% 關稅作出的裁決。"
     }
   ]
 }
