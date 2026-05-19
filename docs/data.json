@@ -1,7 +1,29 @@
 {
-  "updated": "2026-05-20 03:10:30",
-  "count": 15615,
+  "updated": "2026-05-20 03:14:26",
+  "count": 15614,
   "items": [
+    {
+      "id": "mkt:019e41a8-0dfb-7228-9aff-aca9b756d0c3",
+      "time": "2026-05-20 03:13:13",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact bullish"
+      ],
+      "text": "META PLATFORMS OFFERS TO GIVE RIVAL AI CHATBOTS LIMITED FREE WHATSAPP ACCESS, SOURCES SAY INTERACTION COMPANY OF CALIFORNIA, AGENTIK SAY META'S OFFER DOES NOT ADDRESS COMPETITION CONCERNS RIVALS WILL BE CHARGED A FEE WHEN THEY HIT A LIMIT ON MESSAGES SENT TO USERS, SOURCES SAY"
+    },
+    {
+      "id": "4888821",
+      "time": "2026-05-20 03:13:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "訊息人士：Meta擬向競品人工智慧聊天機器人開放限時免費的 WhatsApp 有限訪問許可權。"
+    },
     {
       "id": "4888820",
       "time": "2026-05-20 03:09:42",
@@ -140965,31 +140987,6 @@
         "國際"
       ],
       "text": "伊朗官員表示，海灣原油洩漏很可能是油輪非法排汙所致。"
-    },
-    {
-      "id": "4875788",
-      "time": "2026-05-13 03:14:25",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【德國央行行長Nagel稱歐洲央行加息的可能性越來越高】德國央行行長Joachim Nagel表示，受伊朗戰爭影響，歐洲央行不得不提高借貸成本的可能性上升。“我仍然對中東緊張局勢大幅緩和抱有一定希望——但我們不能忽視高企的能源價格，”這位德國央行行長在接受採訪時表示，“加息的可能性越來越大，除非通脹形勢發生根本性變化。”經濟學家押注歐洲央行今年將加息兩次，分別在6月和9月，市場預期到年底前還會進行第三次。“我們不再處於歐元體系預測的基準情境中，而是正朝著不利情境發展，”Nagel說。他指的是歐洲央行在3月列出的不同增長和通脹路徑。他還警告說，“我們未來可能還會面臨相當的通脹。”"
-    },
-    {
-      "id": "4875787",
-      "time": "2026-05-13 03:14:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "兩名美國官員稱，美軍正考慮正式將此次對伊朗的戰爭更名為“重錘行動”。"
-    },
-    {
-      "id": "4875786",
-      "time": "2026-05-13 03:11:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國海軍年度造船計劃顯示，特朗普級戰列艦將採用核動力。"
     }
   ]
 }
