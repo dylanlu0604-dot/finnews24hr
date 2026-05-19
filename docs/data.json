@@ -1,7 +1,27 @@
 {
-  "updated": "2026-05-20 05:07:42",
-  "count": 15573,
+  "updated": "2026-05-20 05:11:38",
+  "count": 15571,
   "items": [
+    {
+      "id": "4888878",
+      "time": "2026-05-20 05:10:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗稱美方所謂遭襲伊朗學校位於巡航導彈基地內的說法毫無依據。"
+    },
+    {
+      "id": "te:markets:552036",
+      "time": "2026-05-20 05:07:21",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Falls on Rising Yields and Political Tension — The Ibovespa fell 1.5% to close at 174,279 on Tuesday as investors reacted to a new election poll and persistent inflation concerns. An Atlas survey for Bloomberg showed Senator Flávio Bolsonaro losing support for October’s presidential election following reports linking him to former banker Daniel Vorcaro, who was charged with fraud. Meanwhile, oil prices remained elevated as markets looked past President Donald Trump’s decision to postpone attacks on Iran, keeping stagflation fears in focus. Brazil’s 10-year bond yield also moved higher, pressuring financial stocks. Banco do Brasil fell 0.93%, Bradesco lost 1.53%, Itaú Unibanco dropped 2.12%, and Santander Brasil slipped 0.37%. B3 plunged 4.96% after appointing Christian Egan as its new CEO, replacing Gilson Finkelsztain. Vale declined 1% on weaker iron ore prices in China, while Petrobras lost 0.75% as oil prices edged lower, though still above $100 per barrel."
+    },
     {
       "id": "4888877",
       "time": "2026-05-20 05:05:57",
@@ -140578,41 +140598,6 @@
         "國際"
       ],
       "text": "美國佛羅里達州計劃關閉鱷魚惡魔島拘留中心，這座備受關注的移民拘留所是該州去年夏天在大沼澤地國家公園開設的。"
-    },
-    {
-      "id": "4875878",
-      "time": "2026-05-13 05:10:07",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "明晟公司（MSCI）2026年5月MSCI股票指數審議結果公告：所有調整將於2026年5月29日收盤後正式生效。"
-    },
-    {
-      "id": "4875877",
-      "time": "2026-05-13 05:09:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "明晟：作為明晟孟加拉國指數季度指數稽核的一部分，將繼續對歸入孟加拉國的證券不作調整。"
-    },
-    {
-      "id": "4875876",
-      "time": "2026-05-13 05:09:32",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "【Anthropic洽談融資300億美元，估值達9000億美元】Anthropic公司正與投資者進行初步洽談，擬新一輪融資至少300億美元，公司估值超9000億美元。 本輪融資預計最快於本月底完成，但交易尚未敲定，也未簽署投資條款清單。旗下AI軟體大獲成功後，市場對其產品需求激增，Anthropic需透過融資佈局充足算力基礎設施，以匹配業務增長。"
-    },
-    {
-      "id": "4875875",
-      "time": "2026-05-13 05:08:00",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "Anthropic 正洽談融資 300 億美元，投後估值達 9000 億美元。"
     }
   ]
 }
