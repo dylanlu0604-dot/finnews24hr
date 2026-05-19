@@ -1,7 +1,31 @@
 {
-  "updated": "2026-05-20 03:18:22",
-  "count": 15611,
+  "updated": "2026-05-20 03:22:14",
+  "count": 15609,
   "items": [
+    {
+      "id": "4888825",
+      "time": "2026-05-20 03:21:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "據Axios： 美國總統特朗普當地時間週一晚間召集核心國家安全團隊召開伊朗局勢會議，會議通報了各類軍事應對方案。此次會議召開於其宣佈暫緩對伊朗採取軍事打擊行動四小時後。"
+    },
+    {
+      "id": "mkt:019e41af-1969-7228-9aff-b1643c688de2",
+      "time": "2026-05-20 03:20:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. JUSTICE DEPARTMENT SAYS FOUR OF THE WORLD’S LARGEST CONTAINER MANUFACTURING COMPANIES AND SEVEN OF THEIR EXECUTIVES INDICTED FOR A GLOBAL CONSPIRACY AFFECTING BILLIONS OF DOLLARS OF COMMERCE"
+    },
+    {
+      "id": "4888824",
+      "time": "2026-05-20 03:18:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "【彭博美元指數漲超0.3%】週二（5月19日）紐約尾盤，ICE美元指數漲0.12%，報99.312點，日內交投區間為98.966-99.434點，整體持續走高，北京時間22:28重新整理日高，隨後回吐漲幅。彭博美元指數漲0.36%，報1203.84點，日內交投區間為1199.01-1205.18點。美元兌日元漲0.14%，報159.04日元，日內交投區間為158.67-159.25日元，北京時間20:41顯著跳水——從159.10日元上方走低並迅速重新整理日低，隨後反彈、22:28重新整理日高。歐元兌日元跌0.29%，英鎊兌日元跌0.11%。"
+    },
     {
       "id": "4888823",
       "time": "2026-05-20 03:16:57",
@@ -140920,49 +140944,6 @@
         "國際"
       ],
       "text": "【通用汽車俄亥俄州電池工廠的復工日期尚不確定】通用汽車的一家合資電池公司本月將讓少量員工重返俄亥俄州一家停產的電動汽車電池工廠，但關於召回該廠數百名被裁員工的計劃仍不確定。鑑於電動汽車需求疲軟，通用汽車及其工廠合作伙伴韓國LG能源解決方案於今年1月將該工廠停產六個月。這意味著約850名員工預計將於6月某時重返崗位。"
-    },
-    {
-      "id": "mkt:019e1da2-f88b-7772-877d-84c45296a578",
-      "time": "2026-05-13 03:21:20",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Iran Fails to Export Crude by Sea for Nearly a Month】According to TankerTrackers.com, Iran has not successfully exported crude oil by sea over the past 28 days. Some refined products were shipped as they were not sanctioned by the U.S. OFAC. Kharg Island has not loaded any tankers since May 6 due to an oil leak Tehran denies. Many empty and cargo-laden tankers remain near the blockade perimeter and off Pakistan’s coast. TankerTrackers defines a successful export as a tanker crossing the U.S. Navy blockade without returning."
-    },
-    {
-      "id": "mkt:019e1da1-c2f6-7772-877d-79f25bf51b61",
-      "time": "2026-05-13 03:20:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IRAN'S FOREIGN MINISTRY SAYS ITS EMBASSY IN KUWAIT NEEDS TO BE GRANTED ACCESS TO THE DETAINED IRANIAN NATIONALS IRAN'S FOREIGN MINISTRY SAYS THE FOUR IRANIANS, ARRESTED BY KUWAIT, WERE ENGAGED IN A ROUTINE NAVAL PATROL MISSION AND ENTERED KUWAIT'S TERRITORIAL WATERS DUE TO 'DISRUPTION IN THEIR NAVIGATION'"
-    },
-    {
-      "id": "4875795",
-      "time": "2026-05-13 03:19:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國阿拉巴馬州州長定於8月11日舉行眾議院特別選舉。"
-    },
-    {
-      "id": "4875794",
-      "time": "2026-05-13 03:19:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部表示，需要允許伊朗駐科威特大使館探視被扣押的伊朗公民。"
-    },
-    {
-      "id": "4875793",
-      "time": "2026-05-13 03:19:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊拉克和巴基斯坦據稱已分別同伊朗簽訂協議以運輸能源】伊拉克和巴基斯坦已分別同伊朗簽訂協議，以從海灣地區運輸石油和液化天然氣。根據協議，伊拉克確保了兩艘超大型原油運輸船的安全通行，這兩艘船於5月10日透過了霍爾木茲海峽，每艘船載有約200萬桶原油。而根據巴基斯坦和伊朗之間達成的另一項雙邊協議，兩艘裝載卡達液化天然氣的油輪正駛往巴基斯坦。訊息人士稱，伊拉克和巴基斯坦均未就過境事宜直接向伊朗或其伊朗伊斯蘭革命衛隊支付任何款項。（央視新聞）"
     }
   ]
 }
