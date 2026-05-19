@@ -1,7 +1,78 @@
 {
-  "updated": "2026-05-20 04:04:51",
-  "count": 15604,
+  "updated": "2026-05-20 04:12:44",
+  "count": 15607,
   "items": [
+    {
+      "id": "mkt:019e41de-0c1b-7228-9b00-2cde06ca14fe",
+      "time": "2026-05-20 04:12:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB'S KOCHER SEES JUNE RATE HIKE IF NO IMPROVEMENT IN IRAN WAR"
+    },
+    {
+      "id": "4888858",
+      "time": "2026-05-20 04:11:44",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "歐洲央行官員KOCHER：若伊朗戰爭局勢沒有改善，6月可能加息。"
+    },
+    {
+      "id": "4888857",
+      "time": "2026-05-20 04:11:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "據Semafor：特朗普放棄要求銀行收集公民身份資訊的相關舉措。"
+    },
+    {
+      "id": "te:markets:552030",
+      "time": "2026-05-20 04:10:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Keysight Technologies earnings above expectations at 2.87 USD — Keysight Technologies (KEYS) released earnings per share at 2.87 USD, compared to market expectations of 2.31 USD."
+    },
+    {
+      "id": "4888856",
+      "time": "2026-05-20 04:10:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "【科學家棄用最糟氣候情景預測，引發特朗普發文嘲諷】美國總統特朗普在社交媒體上聲稱，聯合國已承認其名為RCP8.5的氣候預測模型是錯誤的。然而科學家對此反駁稱，棄用該情景是因為近期關於碳排放路徑的最新研究表明其已不再切合實際。 氣候模擬專家Detlef van Vuuren指出，RCP8.5的退役實際上是全球各國推行氣候政策以及清潔能源產業蓬勃發展的結果，這使得舊有的“最壞情況”失去了發生的可能性。科學家們強調，此次修正並不會否定過去使用RCP8.5進行的科學研究；同時，地球目前的實際碳排放軌跡依然明顯高於中等排放路徑，未來的氣候形勢仍然相當嚴峻。"
+    },
+    {
+      "id": "4888855",
+      "time": "2026-05-20 04:08:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "高通CFO：公司將於九月季度至十二月季度期間推出多款新品，此舉亦將助力營收增長。"
+    },
+    {
+      "id": "mkt:019e41d8-823d-7228-9b00-23e382bbebe9",
+      "time": "2026-05-20 04:06:08",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Crypto Concepts",
+        "Bitcoin",
+        "Ethereum"
+      ],
+      "text": "TRUTH SOCIAL BITCOIN & ETHEREUM ETF WITHDRAWS ITS FILING FOR PUBLIC OFFERING"
+    },
     {
       "id": "mkt:019e41d6-6aad-7228-9b00-1a5f4cfc0d9a",
       "time": "2026-05-20 04:03:51",
@@ -140841,40 +140912,6 @@
         "Importance 2"
       ],
       "text": "S&P 500 and Nasdaq End the Session Lower — US stocks cut losses in the last three hours of trading, with the S&P 500 closing 0.2% lower, the Dow remaining near the flat line, and the Nasdaq falling 0.7%. Hot April CPI report consolidated worries that higher energy prices may dent earnings prospectives backing bets that the Fed will not cut rates this year against recent evidence of a robust labor market. Alphabet, Amazon, Microsoft, Tesla were down more than 1% while Nvidia and Apple turn positive. Chip and memory producers also decline as South Korea mulled establishing a universal dividend for the recent surges in AI infrastructure stocks, pressuring Broadcom and AMD to fall 2%. Meanwhile, telehealth company Hims & Hers plunged 15% after its first-quarter earnings report missed expectations."
-    },
-    {
-      "id": "4875828",
-      "time": "2026-05-13 04:11:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "黎巴嫩真主黨稱，在黎巴嫩南部的亞爾夫哈爾法鎮，使用無人機襲擊並命中一輛以色列工程車輛。"
-    },
-    {
-      "id": "4875827",
-      "time": "2026-05-13 04:09:22",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根大通將在以太坊區塊鏈上推出代幣化貨幣市場基金。"
-    },
-    {
-      "id": "4875826",
-      "time": "2026-05-13 04:08:30",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "法國總統馬克龍：體育產業佔全球國內生產總值的2%。而在非洲，體育產業僅佔其國內生產總值的0.5%。這一現狀並不合理，究其根源，存在運動員人才被變相掠奪、大量流失至其他國家的現象。"
-    },
-    {
-      "id": "mkt:019e1dca-defa-7772-877d-f35478902f60",
-      "time": "2026-05-13 04:04:55",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【Dow Inches Up as Tech Retreats on Hot CPI, Oil Surges】US stocks were mixed Tuesday as tech gains stalled and investors digested April’s inflation data. The Nasdaq fell 0.7%, S&P 500 dropped 0.16%, while the Dow rose 0.1%. Core CPI exceeded expectations at 3.8% annually, driven by higher energy costs amid the Strait of Hormuz blockade. Oil prices climbed, with WTI above $102/bbl and Brent above $107/bbl. President Trump heads to China to meet Xi, with trade and AI as the focus, while US-Iran tensions remain elevated."
     }
   ]
 }
