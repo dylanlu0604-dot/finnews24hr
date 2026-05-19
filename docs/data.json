@@ -1,7 +1,103 @@
 {
-  "updated": "2026-05-20 04:32:18",
-  "count": 15593,
+  "updated": "2026-05-20 04:36:19",
+  "count": 15592,
   "items": [
+    {
+      "id": "mkt:019e41f3-a651-7228-9b00-7895ebb641f8",
+      "time": "2026-05-20 04:35:44",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | API Weekly Petroleum Products Imports Change (May.15) | actual 282000M | previous -317000M"
+    },
+    {
+      "id": "mkt:019e41f3-9632-7228-9b00-759df346880b",
+      "time": "2026-05-20 04:35:35",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | API Weekly Crude Oil Imports Change (May.15) | actual -88000M | previous 337000M"
+    },
+    {
+      "id": "mkt:019e41f3-5ed7-7228-9b00-6aab996c72d6",
+      "time": "2026-05-20 04:35:26",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | API Weekly Heating Oil Stocks Change (May.15) | actual 180000M | previous -116000M"
+    },
+    {
+      "id": "4888865",
+      "time": "2026-05-20 04:35:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "【奈及利亞軍方：尼美聯手打死175名“伊斯蘭國”武裝人員】奈及利亞軍方19日釋出宣告說，奈及利亞與美國兩國部隊近日在尼東北部開展聯合反恐行動，共打死175名極端組織“伊斯蘭國”武裝人員，包括數名高階指揮官。（新華社）"
+    },
+    {
+      "id": "mkt:019e41f3-30aa-7228-9b00-66e396b166da",
+      "time": "2026-05-20 04:35:16",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | API Weekly Cushing Crude Oil Stocks Change (May.15) | actual -1428000M | previous -1755000M"
+    },
+    {
+      "id": "te:markets:552032",
+      "time": "2026-05-20 04:35:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.63% Lower — The Dow Jones Index dropped 315 points or 0.63 percent on Tuesday to close at 49372 points. Losses were led by Cisco Systems (-3.04%), Boeing (-2.62%) and 3M (-2.08%). Offsetting the fall, top gainers were Verizon (2.18%), Amgen (1.97%) and Merck (1.52%)."
+    },
+    {
+      "id": "mkt:019e41f2-f49d-7228-9b00-5a2fbc5da2fc",
+      "time": "2026-05-20 04:35:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | API Weekly Distillate Stocks Change (May.15) | actual -1047000M | consensus -1252000M | previous -319000M"
+    },
+    {
+      "id": "mkt:019e41f2-9aa4-7228-9b00-5300e26842f7",
+      "time": "2026-05-20 04:34:37",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | API Weekly Gasoline Stocks Change (May.15) | actual -5795000M | consensus -2110000M | previous 502000M"
+    },
+    {
+      "id": "4888864",
+      "time": "2026-05-20 04:34:29",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國至5月15日當週API原油庫存 -911萬桶，預期-336.1萬桶，前值-218.8萬桶。"
+    },
+    {
+      "id": "mkt:019e41f2-5553-7228-9b00-496ff43d652c",
+      "time": "2026-05-20 04:34:21",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | API Weekly Crude Oil Stocks Change (May.15) | actual -9110000M | consensus -3361000M | previous -2188000M"
+    },
     {
       "id": "4888863",
       "time": "2026-05-20 04:29:43",
@@ -140676,113 +140772,6 @@
         "Importance 1"
       ],
       "text": "TSX Gains as Energy Stocks Rally on Supply Concerns — he S&P/TSX Composite Index rose 0.4% to close at 34,291 on Tuesday, supported by gains in energy and banking stocks. Oil prices advanced after renewed disagreements between Iran and the US over a proposed peace framework revived supply concerns. Canadian Natural climbed 4.1%, while Imperial Oil gained 2.6% and Cenovus Energy added 3.2%. Banks also traded higher, with Royal Bank of Canada up 1.0% and TD Bank gaining 0.8%, offsetting declines in BMO (-0.2%) and Brookfield (-0.5%). BMO also agreed to sell its transportation and vendor finance businesses to Stonepeak. Meanwhile, gold prices weakened as a stronger US dollar clouded the outlook for US interest rates. Barrick fell 2.4%, while Wheaton Precious Metals lost 0.5%. Elsewhere, Chemtrade Logistics dropped 9.8% after weak quarterly results, while Organigram plunged 14.4% on weaker net revenue. Constellation Software (0.4%) and Franco-Nevada (-0.2%) are set to release Q1 2026 earnings after the close."
-    },
-    {
-      "id": "te:markets:550082",
-      "time": "2026-05-13 04:35:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Closes 0.11% Higher — The Dow Jones Index rose 57 points or 0.11 percent on Tuesday to close at 49761 points. Leading the gains are UnitedHealth (3.17%), Walmart (2.24%) and Coca-Cola (1.83%). Top losers were Salesforce (-3.42%), IBM (-1.66%) and Caterpillar (-1.63%)."
-    },
-    {
-      "id": "mkt:019e1de6-5d52-7772-877e-6c43111de5c1",
-      "time": "2026-05-13 04:34:14",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | API Weekly Crude Oil Runs (May.8) | actual 188000M | previous 41000M"
-    },
-    {
-      "id": "mkt:019e1de6-5d4b-7772-877e-615d22daeeac",
-      "time": "2026-05-13 04:34:09",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | API Weekly Petroleum Products Imports Change (May.8) | actual -317000M | previous 265000M"
-    },
-    {
-      "id": "mkt:019e1de6-5d4a-7772-877e-58d5eaeb7a11",
-      "time": "2026-05-13 04:34:02",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | API Weekly Crude Oil Imports Change (May.8) | actual 337000M | previous -144000M"
-    },
-    {
-      "id": "mkt:019e1de6-196e-7772-877e-557254a97a26",
-      "time": "2026-05-13 04:33:56",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | API Weekly Heating Oil Stocks Change (May.8) | actual -116000M | previous -473000M"
-    },
-    {
-      "id": "4875845",
-      "time": "2026-05-13 04:33:53",
-      "tags": [
-        "宏觀",
-        "公司",
-        "焦點",
-        "國際"
-      ],
-      "text": "美國十個州的檢察官於週二要求市場監管機構，強制OpenAI 執行長山姆・奧特曼，在公司潛在上市之前，就其可能存在的利益衝突作出全面說明、予以公開澄清。"
-    },
-    {
-      "id": "mkt:019e1de5-c82d-7772-877e-4c0ea7acb762",
-      "time": "2026-05-13 04:33:47",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | API Weekly Cushing Crude Oil Stocks Change (May.8) | actual -1755000M | previous -1045000M"
-    },
-    {
-      "id": "mkt:019e1de5-7c49-7772-877e-47ab224ea3c1",
-      "time": "2026-05-13 04:33:36",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | API Weekly Distillate Stocks Change (May.8) | actual -319000M | consensus -2995000M | previous -4642000M"
-    },
-    {
-      "id": "mkt:019e1de5-322a-7772-877e-3fff77635fec",
-      "time": "2026-05-13 04:33:23",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | API Weekly Gasoline Stocks Change (May.8) | actual 502000M | consensus -2549000M | previous -6107000M"
-    },
-    {
-      "id": "mkt:019e1de4-cdc9-7772-877e-35f967ff52c8",
-      "time": "2026-05-13 04:33:14",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | API Weekly Crude Oil Stocks Change (May.8) | actual -2188000M | consensus -1654000M | previous -8141000M"
-    },
-    {
-      "id": "4875844",
-      "time": "2026-05-13 04:32:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "厄瓜多司法委員會通報：一名厄瓜多女法官在厄瓜多與秘魯邊境附近遭槍擊遇害。事發當下，諾沃亞政府正為打擊有組織犯罪而全國實施緊急狀態。"
     }
   ]
 }
