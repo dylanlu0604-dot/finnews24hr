@@ -1,7 +1,131 @@
 {
-  "updated": "2026-05-19 23:10:01",
-  "count": 15614,
+  "updated": "2026-05-19 23:14:23",
+  "count": 15621,
   "items": [
+    {
+      "id": "mkt:019e40cc-7d81-7aa9-b72c-15d33e238143",
+      "time": "2026-05-19 23:13:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "POLISH DEFENSE MINISTER SAYS HAD CALL WITH PETE HEGSETH"
+    },
+    {
+      "id": "mkt:019e40cc-79f6-7aa9-b72c-0ddc67a3acb7",
+      "time": "2026-05-19 23:13:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "PUTIN ARRIVES IN BEIJING FOR SUMMIT WITH XI - CHINESE STATE MEDIA"
+    },
+    {
+      "id": "4888578",
+      "time": "2026-05-19 23:13:09",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度的塔塔鋼鐵英國公司已獲得美國關稅豁免，即便原料產自海外，其在英國加工製成的鋼材出口美國時，仍可適用英國貨品的較低關稅稅率。"
+    },
+    {
+      "id": "4888577",
+      "time": "2026-05-19 23:12:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐洲議會達成統一共識，全力扶持鋼鐵產業。"
+    },
+    {
+      "id": "4888576",
+      "time": "2026-05-19 23:12:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "匈牙利總理毛焦爾到訪波蘭，紀念匈牙利重回歐盟陣營。"
+    },
+    {
+      "id": "4888575",
+      "time": "2026-05-19 23:11:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普：或給伊朗時間至下週初來達成協議】美國總統特朗普表示，伊朗表現得“合理”，他“或許”會給他們時間到下週初來達成協議。特朗普稍早還表示，“我們可能不得不給”伊朗“又一次重擊”。他補充稱：“你們很快就會知道”。"
+    },
+    {
+      "id": "mkt:019e40ca-393a-7aa9-b72c-03dfe0bf95ec",
+      "time": "2026-05-19 23:10:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BESSENT TO RTRS: G7 AIMS TO CONFRONT CHINA WITH IMBALANCES DATA"
+    },
+    {
+      "id": "mkt:019e40ca-003e-7aa9-b72b-fb900072219f",
+      "time": "2026-05-19 23:10:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "POLYMARKET PRIVATE CO. PREDICTION MARKETS TO USE NASDAQ DATA"
+    },
+    {
+      "id": "4888574",
+      "time": "2026-05-19 23:10:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "PolyMarket私人預測市場將採用納斯達克資料。"
+    },
+    {
+      "id": "4888573",
+      "time": "2026-05-19 23:10:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟：此次訴訟直指Fox Tempest相關基礎設施，並將Vanilla Tempest列為同謀方。"
+    },
+    {
+      "id": "mkt:019e40c9-7b69-7008-a28b-832f69d3998c",
+      "time": "2026-05-19 23:10:04",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O"
+      ],
+      "text": "MICROSOFT: LAWSUIT TARGETS FOX TEMPEST’S INFRASTRUCTURE & ALSO NAMES VANILLA TEMPEST AS CO-CONSPIRATOR"
+    },
+    {
+      "id": "4888572",
+      "time": "2026-05-19 23:10:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟：已查封Fox Tempest運營網站signspace.cloud，關停多臺虛擬機器，並封禁其底層程式碼託管站點訪問許可權。"
+    },
+    {
+      "id": "mkt:019e40c9-6137-7aa9-b72b-f1c2fc30426d",
+      "time": "2026-05-19 23:09:57",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O",
+        "Impact bullish"
+      ],
+      "text": "MICROSOFT: SEIZED FOX TEMPEST’S WEBSITE SIGNSPACE.CLOUD, TOOK OFFLINE SEVERAL VIRTUAL MACHINES, BLOCKED ACCESS TO SITE HOSTING UNDERLYING CODE"
+    },
+    {
+      "id": "4888571",
+      "time": "2026-05-19 23:09:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "由於埃博拉病毒疫情爆發，巴林宣佈暫停來自南蘇丹、剛果民主共和國和烏干達的非巴林籍旅客入境。"
+    },
     {
       "id": "mkt:019e40c8-bf35-7aa9-b72b-e8fae98dd0a2",
       "time": "2026-05-19 23:09:17",
@@ -9,6 +133,14 @@
         "MKT News"
       ],
       "text": "POLYMARKET LAUNCHES PREDICTION MARKETS ON PRIVATE COMPANIES"
+    },
+    {
+      "id": "4888570",
+      "time": "2026-05-19 23:09:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：沃什會做得很好。"
     },
     {
       "id": "mkt:019e40c8-acbc-7008-a28b-7568ca47322c",
@@ -141142,76 +141274,6 @@
         "國際"
       ],
       "text": "根據特拉維夫大學開展的一項研究，75% 的以色列阿拉伯公民支援參與非國防性質的民事義務服務。半數受訪者（53.3%）表示，目前自身對該國擁有強烈的歸屬感。"
-    },
-    {
-      "id": "4875599",
-      "time": "2026-05-12 23:13:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "【柬埔寨表示不與泰國就海洋問題進行雙邊談判】柬埔寨代理國家元首、參議院主席洪森12日在社交媒體上發文表示，柬方不會與泰國就海洋問題進行任何雙邊談判。洪森說，他提醒政府不要與泰國就海洋問題進行任何雙邊談判，而應直接訴諸1982年《聯合國海洋法公約》規定的機制，無需等待泰方的任何協議。他表示，柬方對泰方廢除2001年簽署的諒解備忘錄感到遺憾，但也感謝泰方幫助柬方轉向使用國際機制。泰國單方面廢除諒解備忘錄，瓦解了就重疊海洋權益進行雙邊談判的框架。柬埔寨副首相兼外交大臣布拉索昆5日說，柬方將啟動《聯合國海洋法公約》強制調解程式。（央視新聞）"
-    },
-    {
-      "id": "mkt:019e1cbf-259e-7dd3-a756-e01fca689ef4",
-      "time": "2026-05-12 23:12:29",
-      "tags": [
-        "MKT News",
-        "Market Themes"
-      ],
-      "text": "GOLDMAN SACHS PRESIDENT JOHN WALDRON: AI SUPPLY CHAIN SPENDING IS GROWING GLOBALLY"
-    },
-    {
-      "id": "4875598",
-      "time": "2026-05-12 23:12:25",
-      "tags": [
-        "觀點"
-      ],
-      "text": "高盛總裁John Waldron：全球人工智慧供應鏈支出正持續增長。"
-    },
-    {
-      "id": "mkt:019e1cbe-b322-7dd3-a756-dfca9f63f382",
-      "time": "2026-05-12 23:11:54",
-      "tags": [
-        "MKT News",
-        "PARA.O",
-        "Impact mixed",
-        "WBD.N"
-      ],
-      "text": "HOUSE LAWMAKERS PRESS PARAMOUNT CEO DAVID ELLISON TO ANSWER QUESTIONS ON PROPOSED ACQUISITION OF WARNER BROTHERS -- LETTER"
-    },
-    {
-      "id": "4875597",
-      "time": "2026-05-12 23:11:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟外交與安全政策高階代表卡拉斯：需要看到俄羅斯的讓步。"
-    },
-    {
-      "id": "4875596",
-      "time": "2026-05-12 23:10:57",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "摩根大通CEO戴蒙：公司將因為上調銀行稅而放棄新英國總部計劃。"
-    },
-    {
-      "id": "mkt:019e1cbd-95a4-7dd3-a756-d5d086e2c0ea",
-      "time": "2026-05-12 23:10:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "PETROBRAS CONTINUES TO LOOK FOR OIL PROJECTS ABROAD: CEO"
-    },
-    {
-      "id": "4875595",
-      "time": "2026-05-12 23:10:42",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國眾議院議員致函派拉蒙執行長David Ellison，要求其就擬收購華納兄弟一事作出相關答覆。"
     }
   ]
 }
