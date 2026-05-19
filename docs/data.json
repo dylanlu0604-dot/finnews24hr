@@ -1,7 +1,267 @@
 {
-  "updated": "2026-05-20 07:20:18",
-  "count": 15547,
+  "updated": "2026-05-20 07:37:01",
+  "count": 15558,
   "items": [
+    {
+      "id": "4888975",
+      "time": "2026-05-20 07:36:16",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【A股限售股解禁一覽：15.65億元市值限售股今日解禁】Wind資料顯示，週三（5月20日），共有7家公司限售股解禁，合計解禁量為1159.77萬股，按最新收盤價計算，合計解禁市值為15.65億元。從解禁量來看，易點天下、智洋創新、中微公司解禁量居前，解禁股數分別為528.99萬股、263.73萬股、192.31萬股。從解禁市值來看，0家公司解禁市值超億元。中微公司、易點天下、申菱環境解禁市值居前，解禁市值分別為9.22億元、2.45億元、1.86億元。從解禁股數佔總股本比例來看，智洋創新、易點天下、申菱環境解禁比例居前，解禁比例分別為1.13%、0.86%、0.48%。"
+    },
+    {
+      "id": "4888974",
+      "time": "2026-05-20 07:36:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣西緊急排程2000萬元資金支援柳州抗震救災】據“廣西日報”官方公眾號，5月19日，廣西壯族自治區財政廳會同自治區應急管理廳開通綠色通道，緊急排程應急救災資金2000萬元支援柳州市開展抗震救災工作。5月17日至18日，柳州市柳南區連續多次發生地震，其中5月18日凌晨與晚間兩次地震震級均達到5.2級，造成人員傷亡和財產損失。此次排程資金將重點用於開展應急搶險救援、次生災害隱患排查、倒損民房修復和受災群眾救助等工作，保障人民群眾生命財產安全。"
+    },
+    {
+      "id": "4888973",
+      "time": "2026-05-20 07:35:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及伊朗：伊朗絕不可能擁有核武器。"
+    },
+    {
+      "id": "4888972",
+      "time": "2026-05-20 07:35:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【福特汽車：全球首席營銷官Lisa Materazzo將離職】福特汽車公司當地時間5月19日宣佈，其全球首席營銷官Lisa Materazzo已決定離開公司，該決定將於6月1日起生效。同時，福特宣佈任命全球產品營銷執行總監Dean Stoneley擔任臨時首席營銷官。"
+    },
+    {
+      "id": "4888971",
+      "time": "2026-05-20 07:34:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗非常想達成協議。"
+    },
+    {
+      "id": "4888970",
+      "time": "2026-05-20 07:34:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗：我們將非常迅速地結束這場戰爭。"
+    },
+    {
+      "id": "4888969",
+      "time": "2026-05-20 07:33:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內漲1%，現報1376.95美元/盎司。"
+    },
+    {
+      "id": "4888968",
+      "time": "2026-05-20 07:33:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4490美元/盎司，日內漲0.19%。"
+    },
+    {
+      "id": "4888967",
+      "time": "2026-05-20 07:32:46",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【特朗普將出席在法國舉行的G7峰會 儘管與盟友存在摩擦】白宮一名官員透露，特朗普總統將於6月赴法國出席七國集團領導人峰會，就人工智慧、貿易及打擊犯罪等議題展開磋商。美國總統出席這場年度峰會已成慣例，但此前特朗普對英、法、德、意等七國集團成員國頗為不滿，因其並未配合美方在伊朗問題上的行動，此番他能否參會一度懸而未決。白宮官員表示，本次七國集團峰會不會達成正式簽署協議，核心目標是凝聚共識，為後續各類合作協定奠定基礎。6月14日恰逢峰會舉辦期間，也是特朗普的生日，屆時他將年滿80歲。本屆峰會定於6月15日至17日在法國東南部的埃維昂萊班舉行。儘管伊朗局勢大機率列入議事日程，但特朗普更傾向於聚焦經貿相關議題。"
+    },
+    {
+      "id": "te:markets:552046",
+      "time": "2026-05-20 07:32:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Holds Firm on Fresh Trump Threats — Brent crude held firm around $111 per barrel on Wednesday after coming under pressure in the previous session, as investors assessed President Donald Trump’s renewed threat to resume military strikes on Iran if it failed to accept US peace terms. The comments came less than a day after Trump said he had called off a planned attack following appeals from Gulf allies, while warning that Washington could act within “two or three days.” The developments added to persistent uncertainty surrounding the Middle East conflict, with Iran’s nuclear program remaining a key obstacle in negotiations. The war has now entered its 12th week and has effectively kept the strategic Strait of Hormuz closed to shipping traffic, supporting oil prices and fueling inflation concerns. Meanwhile, reports indicated that NATO is weighing plans to escort commercial vessels through the waterway if the route remains blocked beyond early July, adding another layer of uncertainty to the market."
+    },
+    {
+      "id": "te:markets:552045",
+      "time": "2026-05-20 07:32:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Holds Firm on Fresh Trump Threats — WTI crude held firm above $104 per barrel on Wednesday after coming under pressure in the previous session, as investors assessed President Donald Trump’s renewed threat to resume military strikes on Iran if it failed to accept US peace terms. The comments came less than a day after Trump said he had called off a planned attack following appeals from Gulf allies, while warning that Washington could act within “two or three days.” The developments added to persistent uncertainty surrounding the Middle East conflict, with Iran’s nuclear program remaining a key obstacle in negotiations. The war has now entered its 12th week and has effectively kept the strategic Strait of Hormuz closed to shipping traffic, supporting oil prices and fueling inflation concerns. Meanwhile, reports indicated that NATO is weighing plans to escort commercial vessels through the waterway if the route remains blocked beyond early July, adding another layer of uncertainty to the market."
+    },
+    {
+      "id": "4888966",
+      "time": "2026-05-20 07:31:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【麥當勞：部分氣候目標無法按期實現，將投資10億美元用於供應鏈韌性專案】麥當勞當地時間5月19日釋出宣告表示，目前預計無法在原定時間表內實現2030年部分氣候目標，但仍維持2050年實現淨零排放的長期願景。為此，麥當勞計劃在未來十年內投入至少10億美元，用於支援再生農業等供應鏈韌性專案。"
+    },
+    {
+      "id": "4888965",
+      "time": "2026-05-20 07:31:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國外交、聯邦及發展事務部：英國駐華盛頓大使館副館長大衛·詹姆斯·羅斯科已離任。"
+    },
+    {
+      "id": "4888964",
+      "time": "2026-05-20 07:30:30",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "保爾森：美聯儲採取多種不同溝通形式至關重要，季度經濟預測概要（SEP）就是其中一環。"
+    },
+    {
+      "id": "4888963",
+      "time": "2026-05-20 07:29:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：儘管與盟友存在分歧，特朗普仍將出席在法國舉辦的G7峰會。"
+    },
+    {
+      "id": "4888962",
+      "time": "2026-05-20 07:28:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "保爾森：當前就業市場的穩定態勢“不同尋常”。"
+    },
+    {
+      "id": "4888961",
+      "time": "2026-05-20 07:28:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "保爾森：若伊朗衝突持續，將進一步加劇通脹與失業率上行風險。"
+    },
+    {
+      "id": "4888960",
+      "time": "2026-05-20 07:27:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【錨定高階賽道 頭部PCB廠商吹響擴產號角】今年以來，印製電路板（PCB）行業進入漲價週期，呈現出量價齊升、訂單飽滿、交期拉長的高景氣格局。5月份以來，行業迎來新一輪集中提價，上游覆銅板、高階銅箔、電子布及特種樹脂等原材料價格繼續上行，帶動PCB成品價格同步走高。其中，面向AI算力的高速高頻產品漲幅領先，交期普遍拉長至數月。5月19日，有PCB行業上市公司的相關負責人在接受記者採訪時表示：“目前公司所有的PCB產品價格都漲了，具體漲幅是依據上游原材料漲幅定的。”另有上市公司負責人表示：“公司PCB產品近期有漲價，不過幅度比原材料慢些。”面對高階PCB供不應求的市場格局，國內頭部PCB廠商率先吹響擴產號角，2026年已公佈的新增產能投資總額持續增加，擴產方向高度聚焦AI伺服器、高頻高速、封裝基板等高階領域。其中，僅勝宏科技（惠州）股份有限公司、滬士電子股份有限公司、鵬鼎控股（深圳）股份有限公司等3家頭部企業公佈的投資計劃總額就已超過400億元。（證券日報）"
+    },
+    {
+      "id": "4888959",
+      "time": "2026-05-20 07:27:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【深圳市分割槽暴雨黃色預警訊號】預計南山區、福田區、寶安區、光明區、龍華區、珠江口、深圳灣和龍崗區（坂田街道）將出現30-50毫米的降水，深圳市氣象臺2026年05月20日07時25分在上述區域釋出暴雨黃色預警訊號，全市進入暴雨戒備狀態。"
+    },
+    {
+      "id": "em:qqyh_mlc:202605203742472213",
+      "time": "2026-05-20 07:27:13",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美聯儲保爾森稱，當前的勞動力市場感覺像是處於充分就業狀態。"
+    },
+    {
+      "id": "4888958",
+      "time": "2026-05-20 07:26:37",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "美聯儲保爾森：當前勞動力市場已接近充分就業。"
+    },
+    {
+      "id": "4888957",
+      "time": "2026-05-20 07:26:12",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【中信建投：儲存產業鏈投資機遇】中信建投研報稱，英偉達Rubin進入量產，下一代Feynman進一步推升算力硬體需求，伺服器架構從訓練主導轉向訓推兼顧，從GPU主導轉向GPU+LPU架構，並推出儲存機櫃、CPU機櫃、LPX機櫃等，實現系統方案的進一步最佳化。谷歌/AWS/Meta等廠商的ASIC亦在加速迭代。算力晶片需求持續強勁增長，先進製程、先進儲存、先進封裝、PCB、光通訊等仍是硬體需求增量、技術創新最顯著的環節，臺積電、三星、英特爾等開發並擴產2nm先進製程，HBM演進到HBM4並衍生出定製晶片，CoPoS、CoWoP等先進封裝形式湧現，CPU、傳統儲存的供需也逐步緊俏。"
+    },
+    {
+      "id": "4888956",
+      "time": "2026-05-20 07:26:01",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲保爾森：評估人工智慧對生產率和通脹的影響尚處於早期階段。目前通脹與經濟前景的風險都“極高”。"
+    },
+    {
+      "id": "4888955",
+      "time": "2026-05-20 07:24:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中通快遞-W(02057)：許迪辭任非執行董事】中通快遞-W(02057)釋出公告，鑑於本公司、本公司創始人及阿里巴巴集團控股有限公司若干子公司於2018年6月訂立的投資者權利協議已於近日終止，許迪女士已辭任本公司非執行董事，自2026年5月20日起生效。"
+    },
+    {
+      "id": "4888954",
+      "time": "2026-05-20 07:21:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "保爾森：我沒看出聯邦公開市場委員會宣告中存在溝通問題。"
+    },
+    {
+      "id": "4888953",
+      "time": "2026-05-20 07:21:24",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲保爾森表示，收益率波動是由實際利率驅動的，而非通脹。"
+    },
+    {
+      "id": "4888952",
+      "time": "2026-05-20 07:20:48",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲保爾森：若經濟增速升至潛在水平上方，或出現其他通脹風險，或將考慮適當加息。"
+    },
+    {
+      "id": "te:economy:552043",
+      "time": "2026-05-20 07:20:40",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "News",
+        "Importance 1"
+      ],
+      "text": "UN Cuts Global Growth Forecast for 2026 to 2.5% — The United Nations (UN) on Tuesday cut its forecast for global economic growth to 2.5% in 2026, compared with an estimated 3.0% in 2025, marking a downgrade of 0.2 percentage points from its January projection and remaining well below pre-pandemic growth rates due to inflationary pressures amid the Middle East conflict. In a U.N. press release summarizing the mid-year update to the global body's World Economic Situation and Prospects, the agency said solid labor markets, resilient consumer demand, and AI-driven trade and investment are expected to provide support, though the downgrade underscores further weakness in the already subdued global outlook. The surge in energy prices has delivered windfall gains for energy companies but intensified cost pressures for households and businesses. The US economy is expected to remain comparatively resilient, with growth projected at 2.0% in 2026, supported by strong household demand and continued investment in technology."
+    },
+    {
+      "id": "4888951",
+      "time": "2026-05-20 07:20:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【主動權益基金髮行市場持續回暖】今年以來，主動權益基金髮行市場持續回暖，多隻新發產品募集規模超50億元，引發市場廣泛關注。Wind資料顯示，截至5月19日，以基金發行日期統計，今年以來已有155只權益類基金髮行，發行總規模達1346.65億元。對比2024年同期的337.99億元、2025年同期的246.28億元，今年權益類基金髮行規模實現明顯增長。（證券日報）"
+    },
+    {
+      "id": "4888950",
+      "time": "2026-05-20 07:19:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【正規化智慧：與歡喜傳媒訂立戰略合作框架協議，擬利用AI技術完成影視內容聯合制作】根據公告，歡喜傳媒將提供用於影視領域AI解決方案及模型訓練的相關資料，雙方將推進影視領域大模型和代理的研發，在新文娛領域探索AI解決方案落地，利用AI技術完成影視內容的聯合制作，以及相關智慧財產權的衍生開發，開展數位人演員開發及演員經紀、AI模擬人劇集、互動影遊等。歡喜傳媒意向使用公司平臺上大模型API的許可權，並根據Token消耗量向公司支付費用，自框架協議生效後三年內，按Token消耗量向公司支付費用的總目標服務金額預計不低於2億美元。"
+    },
     {
       "id": "4888949",
       "time": "2026-05-20 07:19:13",
@@ -140232,171 +140492,6 @@
         "Importance 2"
       ],
       "text": "Oil Holds Firm as Iran War Drags On — WTI crude futures held around $102 per barrel on Wednesday after rising for three straight sessions, as the prolonged conflict in the Middle East and the continued near-closure of the crucial Strait of Hormuz tightened global energy supplies. Efforts to broker an end to the US-Iran war have yet to produce meaningful progress, while the fragile ceasefire remained at risk after Washington dismissed Tehran’s latest response to a proposed peace framework. Hormuz continues to face restrictions from both US and Iranian forces, remaining a major obstacle in negotiations and disrupting substantial flows of crude, natural gas, and fuels. Meanwhile, President Donald Trump is expected to meet Chinese President Xi Jinping this week, though Trump indicated that trade negotiations would take precedence over developments surrounding the Iran conflict. Separately, US inflation accelerated more than anticipated in April as surging energy prices linked to the Middle East crisis added to price pressures."
-    },
-    {
-      "id": "4875989",
-      "time": "2026-05-13 07:35:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【規模逾270億美元對沖基金公司CFM在上海設辦公室 跟隨多家同行腳步】據報道，法國量化對沖基金Capital Fund Management已在上海開設辦公室，跟隨多家同行的腳步，在全球第二大經濟體擴充套件版圖。總裁Philippe Jordan受訪時表示，CFM本月早些時候已在Citigroup Tower啟用新辦公室。目前該據點僅有兩名員工，主要作為資料與工程基地，旨在提升CFM在中國市場的交易能力。未來CFM也考慮在中國設立在岸基金，服務本地投資者，同時推出“聯接基金”(feeder fund)，讓中國投資人能投資於公司離岸產品。"
-    },
-    {
-      "id": "4875988",
-      "time": "2026-05-13 07:35:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "香港擬於6月初就首份五年規劃展開公眾諮詢。"
-    },
-    {
-      "id": "te:economy:550102",
-      "time": "2026-05-13 07:34:21",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Kosovo",
-        "Inflation Rate",
-        "Importance 0"
-      ],
-      "text": "Kosovo Inflation Highest in Over 3 Years — The annual inflation rate in Kosovo rose to 7.5% in April 2026 from 6.7% in the previous month. This marked the sharpest increase since February 2023, driven largely by significantly higher costs for housing and utilities (at 15.2%) and transportation (16.1% vs 10.5% in March). Prices also continued to rise for food and non-alcoholic beverages (5.6% vs 6.5%), alcoholic beverages and tobacco (5.1% vs 4%), health (4.7% vs 4.6%), and restaurant and hotels (5.8% vs 6.7%). On the other hand, costs declined for communication (-0.2% vs -0.5%) and education (-0.6% vs -0.3%). On a monthly basis, consumer prices rose by 1.1% in April, following a 1.5% gain in the preceding period."
-    },
-    {
-      "id": "4875987",
-      "time": "2026-05-13 07:34:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "【朋友圈猛推“先息後本”背後：銀行消費貸“趕搭末班車”】“限時降息，銀行放款活動來了！”近日，微信朋友圈成為銀行搶佔零售信貸市場的競技場，記者在這裡頻繁刷到寧波銀行、杭州銀行、中信百信銀行等銀行的貸款營銷廣告，“先息後本”“年化利率3.0%起”“純線上申請”等是常見宣傳語。多款消費貸產品頻頻亮相朋友圈，競逐流量入口。一時間，似乎所有使用者都能在指尖觸達低息貸款。值得注意的是，這波營銷熱潮恰逢一個微妙的時間視窗：今年9月30日起，《金融產品網路營銷管理辦法》將正式實施，金融機構將不能使用“低門檻”“秒到賬”“低利率”等誘導性營銷話術作為網路營銷內容。微信公眾號、直播、短影片等渠道的金融產品營銷也將全面納入合規監管。業內人士表示，銀行這一輪營銷熱潮背後，既有政策壓力下的“加速跑”心態，也折射出銀行在LPR連續多月“按兵不動”的利率空窗期，主動調整策略、爭奪零售信貸增量的深層邏輯。（中國證券報）"
-    },
-    {
-      "id": "4875986",
-      "time": "2026-05-13 07:33:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【三星電子與其最大工會談判已破裂】當地時間5月12日，據媒體援引三星工會負責人的訊息報道，三星電子與其最大工會之間的談判已經破裂。報道稱，在爭議後的調解過程中，雙方未能就獎金髮放問題縮小分歧。"
-    },
-    {
-      "id": "4875985",
-      "time": "2026-05-13 07:33:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "滙豐控股：發行22.5億美元、2030年到期、票息4.711%的固定利率/浮動利率優先無抵押票據。發行22.5億美元、票面利率5.208%、2034年到期的固定利率/浮動利率優先無擔保票據。"
-    },
-    {
-      "id": "4875984",
-      "time": "2026-05-13 07:32:14",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【供減需增託舉蛋價 業內人士提醒短期需求回落風險】4月9日以來，持續調整的雞蛋市場迎來顯著改善，期貨與現貨價格同步反彈。截至5月12日，雞蛋期貨主力合約、全國現貨均價區間累計最大漲幅均超15%。業內人士表示，此次雞蛋市場行情反彈是需求增加、供應收緊及低庫存等多重因素共振的結果。短期來看，雖然雞蛋供應將延續下降趨勢，但是隨著氣溫升高，雞蛋儲存難度加大，市場需求可能會逐步回落，蛋價或呈先漲後降走勢。中期來看，受養殖成本及低庫存的雙重約束，蛋價或以震盪築底為主，下跌空間有限。（中國證券報）"
-    },
-    {
-      "id": "4875983",
-      "time": "2026-05-13 07:32:09",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "日本電產株式會社：目前尚未發現任何會立即影響產品功能或安全性的問題。將於今日就疑似不當行為釋出回應公告。"
-    },
-    {
-      "id": "4875982",
-      "time": "2026-05-13 07:31:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "滙豐控股：2026年5月12日，滙豐控股有限公司發行了12.5億歐元、票息4.086%的2036年到期定轉浮動利率票據。"
-    },
-    {
-      "id": "4875981",
-      "time": "2026-05-13 07:31:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本電產株式會社：查實部分產品存在疑似不當行為。"
-    },
-    {
-      "id": "em:qqyh_zgyh:202605133734919728",
-      "time": "2026-05-13 07:31:00",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "【業界預計短期降準降息可能性下降】國盛證券研報認為，將“靈活高效運用降準降息等多種政策工具”調整為“靈活運用多種貨幣政策工具”，刪除了“降準降息”，在一定程度上預示著短期降準降息的可能性下降。客觀來看，當前銀行間市場流動性寬鬆，降準必要性不大；降息方面，出口保持較強韌性、財政發力等支撐經濟，降息的必要性同樣不大，結構性貨幣政策工具將成為當前階段的政策重心。"
-    },
-    {
-      "id": "4875980",
-      "time": "2026-05-13 07:29:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "【英國四名政府官員辭職並要求首相下臺】在英國議會執政黨工黨近期地方選舉遭遇重挫後，工黨內部出現嚴重分裂。超過80名工黨下院議員和多名內閣成員要求該黨領導人、首相斯塔默辭職或提出辭職時間表，截至12日，已有4名政府官員辭職並要求斯塔默下臺。另一方面，已有超過100名工黨下院議員簽署宣告支援斯塔默留任。"
-    },
-    {
-      "id": "4875979",
-      "time": "2026-05-13 07:29:37",
-      "tags": [
-        "資料",
-        "市場"
-      ],
-      "text": "【4月北京CPI環比由降轉漲】昨天，國家統計局北京調查總隊釋出4月居民消費價格指數（CPI）資料。4月，受國際原油價格變動和假期出行需求增加影響，北京市CPI環比由降轉漲，漲幅為0.4%。 從環比看，4月CPI由上月下降1.1%轉為上漲0.4%。其中，食品價格下降3.0%。食品中，隨著天氣轉暖，鮮菜和鮮果大量上市，價格分別下降17.0%和3.3%，豬肉和水產品供應充足，價格分別下降5.5%和2.2%，雞蛋價格上漲2.7%。"
-    },
-    {
-      "id": "4875978",
-      "time": "2026-05-13 07:29:08",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "【高盛預計美元或進一步走強 能源衝擊料將收益率維持在高位】高盛表示，美元短期內料將進一步走強，能源價格衝擊料將收益率維持在高位，而經濟增長仍相對具備韌性。“通脹上行疊加增長相對具有有韌性，意味著收益率將在更長時間內維持高位，如果能源衝擊持續時間引發的擔憂進一步加劇，將繼續透過貿易條件的變化推動相對回報，”高盛策略師Karen Reichgott Fishman在報告中寫道，並補充道“這一情景也料將推動美元兌G10貨幣普遍走強。”Fishman表示，最偏好的對沖策略“包括做多美元、做空瑞典克朗、歐元和英鎊。"
-    },
-    {
-      "id": "4875977",
-      "time": "2026-05-13 07:28:28",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【中信建投：持續看好人工智慧產業鏈 持續推薦大模型公司及算力產業鏈核心環節】中信建投研報稱，隨著全球大模型產業邁入“效率優先、商業落地、生態重構”的高質量發展新階段，全球算力基礎設施的投資依然強勁。北美四大CSP廠商2026年一季度資本開支同比增長70.25%，全年預計高達7100億美元（按中值測算），谷歌等指引2028年投資還會大幅增長。算力產業鏈多個核心環節有望持續受益。我們認為，人工智慧產業欣欣向榮，大模型在程式設計等應用的推動下正在實現商業閉環，ARR正在爆發式增長，我們很可能在2026年看到ARR達到2000億美元左右的大模型公司。我們持續看好人工智慧產業鏈。我們持續推薦大模型公司及算力產業鏈核心環節，包括GPU、光模組、光晶片、光通訊配套儀器及裝置、光纖光纜、液冷、電源等，也建議關注MicroLED作為光互連方案的可能性。"
-    },
-    {
-      "id": "4875976",
-      "time": "2026-05-13 07:25:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "【臺積電董事會決議派發每股7元臺幣現金股利】根據公司宣告，臺積電董事會週二召開會議，決議派發2026年第一季每股7.0元臺幣的現金股利。董事會核准增資子公司TSMC Arizona不超過200億美元。核准資本預算約312億美元。內容主要包括建置先進製程產能；廠房 興建及廠務設施工程。"
-    },
-    {
-      "id": "4875975",
-      "time": "2026-05-13 07:24:52",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【北京將打造全域場景開放格局 政府機構每年至少開放5個新場景】為了幫新技術、新產品找場景，北京市發改委等部門對外發布《北京市加快推動場景培育和開放應用工作方案》。方案提出，北京將打造全域場景開放格局。政府機構要率先開放場景，每年開放場景空間資源和場景技術需求不少於5項。這份方案細化明確了場景重點領域：圍繞建設首都特色現代化產業體系、擴大內需、城市治理、公共服務、首都安全等提出5方面18個場景建設領域。記者瞭解到，為了促進新場景大規模應用，本市將加強技術、資料、人才、資本、土地等要素供給，以場景為載體探索多要素市場化配置新模式；鼓勵金融機構開發“場景貸”“應用貸”“流動貸”等貸款產品，引導保險機構開發面向新技術、新產品全生命週期的保險產品；支援建設一批新技術、新產品功能和質量相關檢驗檢測中心；支援製造業企業利用現有產線產能匯入生產新產品，支援面向高精尖產業領域建設柔性共享工廠；加強與國際組織、商會協會、產業聯盟等對接，支援新技術、新產品和場景解決方案“走出去”國際化推廣。（北京日報）"
-    },
-    {
-      "id": "4875974",
-      "time": "2026-05-13 07:22:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【銀行理財超季節性規模回升 含權產品穩增】進入二季度後，銀行理財市場走出“寒流”，迎來超季節性的規模回升。5月12日，證券時報記者從業內可信渠道彙總的獨家資料顯示，4月末，規模超1萬億元的14家理財公司（含6家國有行理財公司、8家股份行理財公司）合計存續規模單月環比增長2.33萬億元，較上年同期多增約4000億元，大幅超出歷年同期增幅。由於債市企穩疊加股票市場表現較好，4月固收及含權理財產品的年化收益率明顯回升。有銀行零售端人員對證券時報記者表示，近期“固收+”等含權理財產品頗受歡迎，但固收純債類產品收益率下滑，銷售不及以往。當前，銀行理財公司正加速拓展權益投資邊界，“固收+打新”已成為穩健增厚產品收益的重要策略之一。"
-    },
-    {
-      "id": "4875973",
-      "time": "2026-05-13 07:22:44",
-      "tags": [
-        "資料",
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "【華泰證券：美國下半年核心通脹整體仍然較為溫和 美聯儲近期降息難度較大】華泰證券研報稱，美國4月CPI環比增速符合預期，油價仍是主要貢獻，由於此前政府關門導致住房分項“補漲”，核心通脹明顯加速，略高於預期。油價和通脹維持高位導致聯儲近期降息門檻較高，但4月核心CPI超預期主要來自住房分項擾動，往前看，預計下半年核心通脹整體仍然較為溫和。目前中東局勢仍有待緩解，油價仍然維持相對高位。疊加1-4月美國就業市場表現偏強，這意味著聯儲近期降息難度較大。但我們認為，4月核心CPI超預期主要是來自住房分項的擾動，後續將逐步回落。考慮到工資壓力較小、住房領先指標回落，預計下半年核心通脹仍較為溫和。如果就業市場在二季度和三季度也出現溫和降溫，聯儲將有降息空間。"
     }
   ]
 }
