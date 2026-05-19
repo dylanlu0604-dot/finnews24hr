@@ -1,7 +1,45 @@
 {
-  "updated": "2026-05-19 13:34:46",
-  "count": 15662,
+  "updated": "2026-05-19 13:38:52",
+  "count": 15661,
   "items": [
+    {
+      "id": "4887220",
+      "time": "2026-05-19 13:37:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【呂天貴擬迴歸中信銀行出任行長】記者從多名業內人士處獲悉，中信信託董事長呂天貴迴歸中信銀行。經過必要程式後，他將補位中信銀行行長一職，目前該職位已空缺近五個月。(21世紀經濟報道)"
+    },
+    {
+      "id": "mkt:019e3ebb-4287-7aa9-b723-2ce73467162b",
+      "time": "2026-05-19 13:35:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "TAIWAN'S WEIGHTED INDEX CLOSED DOWN 1.75%"
+    },
+    {
+      "id": "4887219",
+      "time": "2026-05-19 13:35:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣證交所加權股價指數收低1.8%報40,175.56。"
+    },
+    {
+      "id": "mkt:019e3eba-f48b-7aa9-b723-2382936dfcbf",
+      "time": "2026-05-19 13:35:00",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "688521.SS",
+        "Impact bullish"
+      ],
+      "text": "A-SHARE SEMICONDUCTOR SHARES STRENGTHEN, VERISILICON UP OVER 10%"
+    },
     {
       "id": "4887218",
       "time": "2026-05-19 13:34:00",
@@ -141528,50 +141566,6 @@
         "市場"
       ],
       "text": "【銅纜高速連線概念探底回升，意華股份午後漲停】銅纜高速連線概念探底回升，意華股份午後漲停，瑞可達漲超10%，金田股份、鼎通科技、寶勝股份、金信諾漲幅居前。"
-    },
-    {
-      "id": "4874209",
-      "time": "2026-05-12 13:37:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "拜耳首席財務官表示：我們仍預計今年剩餘時間匯率走勢將持續波動。"
-    },
-    {
-      "id": "4874208",
-      "time": "2026-05-12 13:37:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "德國能源巨頭Uniper：儘管中東衝突導致價格高企波動，業務仍保持穩定。"
-    },
-    {
-      "id": "mkt:019e1aaf-486a-7dd9-b929-0b1831c86f6f",
-      "time": "2026-05-12 13:35:55",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "SHANGHAI'S MOST ACTIVE COPPER CONTRACT RISES MORE THAN 3%"
-    },
-    {
-      "id": "mkt:019e1aae-ce53-7dd9-b929-06a424284369",
-      "time": "2026-05-12 13:35:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TAIWAN'S WEIGHTED INDEX CLOSED UP 0.26%"
-    },
-    {
-      "id": "4874207",
-      "time": "2026-05-12 13:35:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "臺灣證交所加權股價指數收高0.3%報41,898.32。"
     }
   ]
 }
