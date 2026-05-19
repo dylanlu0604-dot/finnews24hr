@@ -1,7 +1,89 @@
 {
-  "updated": "2026-05-19 14:03:43",
-  "count": 15657,
+  "updated": "2026-05-19 14:07:51",
+  "count": 15672,
   "items": [
+    {
+      "id": "4887265",
+      "time": "2026-05-19 14:06:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒生科技指數午後再度轉漲，恒指現漲0.38%。"
+    },
+    {
+      "id": "4887264",
+      "time": "2026-05-19 14:06:57",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本 20 年期國債收益率上行 6.5 個基點，報 3.78%。"
+    },
+    {
+      "id": "4887263",
+      "time": "2026-05-19 14:06:44",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【大和證券：日本出口面臨霍爾木茲海峽關閉和旅遊業放緩的阻力】大和證券經濟學家Kento Minami表示，儘管週二公佈的日本增長資料顯示，1-3月期間出口穩步增長，但預計該出口未來將面臨下行壓力。他說：“由於霍爾木茲海峽關閉，對中東出口的直接下行壓力將持續存在，而源於國內供應限制的減產預計將拖累整體商品出口。”他補充說，入境旅遊（GDP資料中出口的組成部分）已經出現放緩，並且可能會進一步走弱，這反映了燃油附加費的上漲。"
+    },
+    {
+      "id": "4887262",
+      "time": "2026-05-19 14:06:20",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【半導體裝置板塊持續走強 耐科裝備20cm漲停創歷史新高】午後半導體裝置板塊持續走強，耐科裝備20cm漲停，中科飛測、中微公司漲超7%，均創歷史新高，此前聖暉整合漲停，長川科技、拓荊科技、盛美上海等跟漲。"
+    },
+    {
+      "id": "4887261",
+      "time": "2026-05-19 14:05:27",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【中韓半導體ETF再提示溢價風險 年內已提示140次】今天下午，中韓半導體ETF華泰柏瑞再發公告提示溢價風險。 截至5月18日，該ETF年內累計釋出溢價風險提示公告140次，實施停牌64次，其中包含3次盤中臨時停牌，這也意味著。從5月13日到5月19日，再增加5次風險提示。截至發稿前，該ETF今天盤中跌3.36%；溢價23.7%，較前一日的25.73%有所回落。"
+    },
+    {
+      "id": "4887260",
+      "time": "2026-05-19 14:05:03",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印尼國會副議長將在印尼證交所相關事宜後到訪央行。"
+    },
+    {
+      "id": "te:markets:551814",
+      "time": "2026-05-19 14:04:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Snaps 5-Day Losing Streak, Ends 1.7% Higher — The NZX 50 increased 211 points, or 1.7%, to 12,974 on Tuesday, snapping a five-session losing streak, as traders took profits after the index hit its lowest level since March 30 a day earlier. The broader index rose, with almost all sectors trading in the green, led by energy stocks amid easing US-Iran tensions after President Trump postponed a planned strike on Iran. Fresh data also lifted sentiment, with New Zealand’s input and output prices rising by 1.4% and 0.8%, respectively, in Q1, both surpassing market expectations. However, traders remained cautious ahead of the PBOC’s interest rate decision due Wednesday, following disappointing Chinese economic data released on Monday. Fisher & Paykel Healthcare jumped 4.0%, Mainfreight soared 3.4%, Contact Energy and Freightways surged 2.7% each, Summerset Group Holdings soared 4.2%, South Port New Zealand increased 3.4%, while Westpac Banking Corporation and ANZ Group rose 1.7% and 1.6%, respectively."
+    },
+    {
+      "id": "4887259",
+      "time": "2026-05-19 14:04:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "貴州發行7年期一般債地方債，規模249.8287億元，發行利率1.6700%，邊際倍數2.04倍，倍數預期1.67。"
+    },
+    {
+      "id": "4887258",
+      "time": "2026-05-19 14:04:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "英鎊在英國就業資料公佈後小幅走低，最新下跌0.19%，報1.3407美元。"
+    },
     {
       "id": "4887256",
       "time": "2026-05-19 14:02:29",
@@ -53,12 +135,42 @@
       "text": "英國資料公佈後，英鎊兌美元匯率維持跌勢，下跌0.2%至1.3413。"
     },
     {
+      "id": "mkt:019e3ed3-c622-7aa9-b723-87577545c1ec",
+      "time": "2026-05-19 14:01:28",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "RUSSIAN DEFENCE MINISTRY: FROM 19 TO 21 MAY, THE RUSSIAN ARMED FORCES ARE CONDUCTING AN EXERCISE TO PREPARE FOR AND DEPLOY NUCLEAR FORCES - RIA"
+    },
+    {
+      "id": "em:jjsj_ygsj:202605193741818532",
+      "time": "2026-05-19 14:01:27",
+      "tags": [
+        "經濟數據",
+        "英國"
+      ],
+      "text": "英國4月失業金申請人數2.65萬人，前值由2.68萬人修正為0.49萬人。"
+    },
+    {
       "id": "4887250",
       "time": "2026-05-19 14:00:49",
       "tags": [
         "其他"
       ],
       "text": "中國機器人初創企業靈心巧手（Linkerbot）據悉考慮香港上市。"
+    },
+    {
+      "id": "mkt:019e3ed3-c566-7aa9-b723-7f98721c9a1e",
+      "time": "2026-05-19 14:00:34",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Unemployment Rate (Apr) | actual 4.42% | previous 4.40%"
     },
     {
       "id": "4887249",
@@ -75,6 +187,56 @@
         "其他"
       ],
       "text": "英國4月失業金申請人數 2.65萬人，前值由2.68萬人修正為0.49萬人。"
+    },
+    {
+      "id": "mkt:019e3ed2-d4a8-7aa9-b723-75b5abefc5da",
+      "time": "2026-05-19 14:00:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Average Earnings Excluding Bonus in 3 Months (YoY) (Mar) | actual 3.4% | consensus 3.4% | previous 3.60%"
+    },
+    {
+      "id": "mkt:019e3ed2-78d1-7aa9-b723-6bbd65ee01e8",
+      "time": "2026-05-19 14:00:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | ILO Unemployment Rate 3M (Mar) | actual 148000K | consensus 104000K | previous 24000K"
+    },
+    {
+      "id": "mkt:019e3ed2-78cf-7aa9-b723-6134ec4817ec",
+      "time": "2026-05-19 14:00:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Average Earnings Including Bonus in 3 Months (YoY) (Mar) | actual 4.1% | consensus 3.8% | previous 3.80%"
+    },
+    {
+      "id": "mkt:019e3ed1-f652-7aa9-b723-5374fc848371",
+      "time": "2026-05-19 14:00:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | ILO Unemployment Rate 3M/3M (Mar) | actual 5% | consensus 4.9% | previous 4.90%"
+    },
+    {
+      "id": "mkt:019e3ed1-e1da-7aa9-b723-4830cb11bf42",
+      "time": "2026-05-19 14:00:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Jobless Claims Count (Apr) | actual 26500K | previous 26800K"
     },
     {
       "id": "4887247",
@@ -141504,23 +141666,6 @@
         "市場"
       ],
       "text": "蒂森克虜伯海洋系統股份兩合公司股價在法蘭克福早盤交易中上漲3%。"
-    },
-    {
-      "id": "4874246",
-      "time": "2026-05-12 14:06:17",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本30年期國債收益率上升5個基點至3.81%。"
-    },
-    {
-      "id": "4874245",
-      "time": "2026-05-12 14:05:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "【碧桂園：眼下是市場預期修復的關鍵視窗，上行週期的齒輪正緩緩轉動】碧桂園召開月度管理會議。會議透露，為恢復經營，公司董事會主席楊惠妍在一線高頻“踩盤”調研，其還親自主導組建產品研發及設計專項小組（PMO）。PMO專項小組作為集團戰略性專案管理機構，其核心職責是推動產品創新與設計質量的系統性提升。碧桂園聯席主席莫斌表示，“沒有永遠上行的市場，也沒有永遠下行的市場”，眼下是市場預期修復的關鍵視窗，在政策底持續夯實下，上行週期的齒輪正緩緩轉動。房地產市場存在傳導鏈條，是一環扣一環的，具有明顯的節奏化、結構化特徵。（澎湃）"
     }
   ]
 }
