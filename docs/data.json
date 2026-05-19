@@ -1,7 +1,39 @@
 {
-  "updated": "2026-05-20 04:44:11",
-  "count": 15590,
+  "updated": "2026-05-20 04:48:07",
+  "count": 15583,
   "items": [
+    {
+      "id": "4888871",
+      "time": "2026-05-20 04:46:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "敘利亞過渡政府總統艾哈邁德·沙拉曬出特朗普贈予其的香水照片。"
+    },
+    {
+      "id": "mkt:019e41fb-7730-7228-9b00-913b13cad4ed",
+      "time": "2026-05-20 04:44:19",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Treasury Yields",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "【Treasury Selloff Deepens as Block Trades Push Yields to 2007 Highs】Large block sales in US Treasury futures intensified a sharp bond selloff Tuesday, sending long-end yields to their highest levels since 2007 as investors priced in rising inflation and higher interest rates. Roughly $15 billion equivalent of 10-year note futures changed hands during a volatile hour of trading. Archr LLP Founding Partner Alan Taylor described it as a “capitulation-type day in Treasuries,” driven by “multiple block sellers.” Markets now imply an 85% chance of a Fed rate hike by year-end, versus no hike expectations on May 1, while traders continued building large short positions in Treasury futures."
+    },
+    {
+      "id": "4888870",
+      "time": "2026-05-20 04:43:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【5月20日美股成交額前20：SpaceX上市或令特斯拉承壓】第3名特斯拉收跌1.43%，成交181.63億美元。策略師表示，隨著SpaceX計劃上市，這一“馬斯克交易”新標的可能促使投資者從特斯拉撤資轉向SpaceX，從而分散對特斯拉的關注和資金。SpaceX的IPO可能成為史上規模最大的上市之一，目標估值高達1.75萬億至2萬億美元。馬斯克承諾在IPO中“一股都不賣”，並計劃發行10倍投票權的B類股。對於特斯拉而言，資金和注意力的分流可能在股價本已承壓的背景下構成額外挑戰。"
+    },
     {
       "id": "4888869",
       "time": "2026-05-20 04:43:27",
@@ -140662,102 +140694,6 @@
         "國際"
       ],
       "text": "美國國家航空航天局（NASA）與太空探索技術公司（SpaceX）定於 5 月 13 日執行補給任務發射。"
-    },
-    {
-      "id": "4875857",
-      "time": "2026-05-13 04:47:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "【行業週報：美國上週API原油庫存減少約220萬桶】美國石油協會（API）資料顯示，上週，美國API原油庫存 -218.8萬桶，之前一週 -814.1萬桶。上週API庫欣原油庫存 -175.5萬桶，前值 -104.5萬桶。上週API成品油汽油庫存 +50.2萬桶（前值 -610.7萬桶）、餾分油庫存 -31.9萬桶（前值 -464.2萬桶）。"
-    },
-    {
-      "id": "4875856",
-      "time": "2026-05-13 04:46:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外長阿拉格齊在德黑蘭會見挪威副外長時表示：美方缺乏誠意與誠信，仍是徹底結束這場戰爭的主要障礙。"
-    },
-    {
-      "id": "mkt:019e1df0-c7d3-7772-877e-8ab5829c5c44",
-      "time": "2026-05-13 04:46:09",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O"
-      ],
-      "text": "NVIDIA CORP SAYS PRESIDENT AND CEO JEN-HSUN HUANG'S FISCAL YEAR 2026 TOTAL COMPENSATION WAS $36.3 MLN - SEC FILING"
-    },
-    {
-      "id": "4875855",
-      "time": "2026-05-13 04:46:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "英偉達CEO黃仁勳2026財年總薪酬3630萬美元，同比上4990萬美元有所下降。"
-    },
-    {
-      "id": "mkt:019e1df0-70b1-7772-877e-84aa89184ff4",
-      "time": "2026-05-13 04:45:57",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "AVGO.O",
-        "Impact bearish",
-        "INTC.O",
-        "MU.O"
-      ],
-      "text": "【Chip Stocks Pull Back After Historic Run, Raising Momentum Concerns】Chip stocks fell sharply Tuesday, with Broadcom, Intel, and Micron among the biggest decliners, while the Philadelphia Semiconductor Index dropped 3% after intraday losses of 6.8%. The selloff followed extraordinary gains in 2026, driven by AI infrastructure demand. Barry Knapp of Ironsides Macroeconomics said trimming exposure “after a climb like this is prudent risk management.” Chris Murphy of Susquehanna called the pullback “way overdue” but expected short-lived pain. Jonathan Krinsky of BTIG warned the index could fall roughly 20%, while Rhys Williams of Wayve Capital said “the bulls are in charge until proven otherwise.”"
-    },
-    {
-      "id": "4875854",
-      "time": "2026-05-13 04:45:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國參議院少數黨領袖查克・舒默表示，民主黨希望透過一項完善的加密貨幣法案。"
-    },
-    {
-      "id": "4875853",
-      "time": "2026-05-13 04:45:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "阿聯酋總統與特朗普通電話，雙方商討了戰略合作事宜，並梳理了中東地區局勢最新進展。"
-    },
-    {
-      "id": "mkt:019e1def-6b46-7772-877e-7bbec6acae35",
-      "time": "2026-05-13 04:44:50",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "【Traders Ramp Up Fed Rate Hike Bets Amid Rising Inflation】Traders increased bearish bets on US Treasuries as April inflation surged due to higher gasoline and grocery prices, lifting expectations for Federal Reserve rate hikes. Short-term swaps now price a quarter-point hike by mid-2027, while long-dated Treasuries face pressure above 5% yields. SOFR options show demand for puts hedging multiple hikes. JPMorgan’s Kelsey Berro said the market is repricing “higher inflation for longer as a function of the increase in energy prices.” Citigroup’s David Bieber noted, “Bearish sentiment is rebuilding into the rise in yields with short risk being added to the front end in SOFR and in the belly of the curves.”"
-    },
-    {
-      "id": "4875852",
-      "time": "2026-05-13 04:44:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "黎巴嫩衛生部稱，以色列空襲該國南部，造成13人死亡。"
-    },
-    {
-      "id": "mkt:019e1dee-dff4-7772-877e-70d92572bd8a",
-      "time": "2026-05-13 04:44:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UAE PRESIDENT, TRUMP DISCUSSED IN PHONE CALL STRATEGIC COOPERATION AND REVIEWED DEVELOPMENTS IN THE MIDDLE EAST - EMIRATI NEWS AGENCY"
     }
   ]
 }
