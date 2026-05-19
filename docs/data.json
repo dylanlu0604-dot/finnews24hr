@@ -1,7 +1,88 @@
 {
-  "updated": "2026-05-20 01:46:51",
-  "count": 15618,
+  "updated": "2026-05-20 01:50:49",
+  "count": 15624,
   "items": [
+    {
+      "id": "4888739",
+      "time": "2026-05-20 01:49:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯：（談及特朗普設立的17億美元司法訴訟專項基金）倘若亨特·拜登（前總統拜登之子）有意申請這筆資金，完全可以自行申請，所有申請都將走常規稽核流程，接受全面資質審查。"
+    },
+    {
+      "id": "4888738",
+      "time": "2026-05-20 01:48:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國抵押貸款利率升至6.75%，創七月以來新高】美國30年期房貸利率漲至6.75%，創下七月以來最高水平，單日上行7個基點，十日累計走高33個基點。此前受局勢動盪影響，利率在三月一度逼近6.6%，如今已從低位反彈，較四月低點高出46個基點。該媒體撰稿人馬修·格雷厄姆表示，債券市場走勢釋放訊號，政策制定者亟需平息衝突，否則經濟壓力將進一步加劇。利率上行使得中端價位住宅的月供增加約167美元，住房購房壓力再度加大。"
+    },
+    {
+      "id": "4888737",
+      "time": "2026-05-20 01:47:28",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "谷歌：藉助Gemini 3.5模型升級搜尋引擎。"
+    },
+    {
+      "id": "mkt:019e4159-21a9-7228-9afe-8a20694347d8",
+      "time": "2026-05-20 01:47:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "VANCE ASKED ABOUT IRAN: IT'S A VERY COMPLICATED COUNTRY"
+    },
+    {
+      "id": "mkt:019e4159-042e-7228-9afe-830a85a8f2ab",
+      "time": "2026-05-20 01:46:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "VANCE: IT'S NOT TOTALLY CLEAR WHAT IRAN WANTS TO ACCOMPLISH"
+    },
+    {
+      "id": "4888736",
+      "time": "2026-05-20 01:46:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯：我不能自信地說我們能與伊朗達成協議。"
+    },
+    {
+      "id": "4888735",
+      "time": "2026-05-20 01:46:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯：伊朗必須接受相關方案，承諾不再重啟核武器研發工作。"
+    },
+    {
+      "id": "mkt:019e4158-d015-7228-9afe-7e476667b872",
+      "time": "2026-05-20 01:46:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "VANCE: I THINK IRAN WANTS TO MAKE A DEAL BUT WE WON'T KNOW UNTIL WE SIGN DEAL"
+    },
+    {
+      "id": "4888734",
+      "time": "2026-05-20 01:46:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯：我認為伊朗有意達成協議，但在協議簽署之前我們無法確認。"
+    },
+    {
+      "id": "4888733",
+      "time": "2026-05-20 01:46:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "沃比帕克公司（Warby Parker Inc）與谷歌和三星合作開發智慧眼鏡。"
+    },
     {
       "id": "4888732",
       "time": "2026-05-20 01:45:19",
@@ -141100,54 +141181,6 @@
         "MKT News"
       ],
       "text": "TRUMP: “I THINK THE PAKISTANIS HAVE BEEN GREAT,” AHEAD OF CHINA TRI"
-    },
-    {
-      "id": "mkt:019e1d4f-994a-7772-877b-9e53d0862771",
-      "time": "2026-05-13 01:50:15",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "TRUMP IS SET TO LEAVE THE WHITE HOUSE SOON FOR JOINT BASE ANDREWS FOR HIS TRIP TO MEET WITH CHINESE PRESIDENT XI JINPING IN BEIJING, CHINA"
-    },
-    {
-      "id": "mkt:019e1d4e-70dc-7772-877b-96e3553bb47a",
-      "time": "2026-05-13 01:49:00",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "Nasdaq100",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "FED'S GOOLSBEE: INTERCONNECTION OF PRIVATE CREDIT WITH CONVENTIONAL INSTITUTIONS ARE NOT AS BIG AS CONNECTIONS IN 2007-2009 FINANCIAL CRISIS"
-    },
-    {
-      "id": "4875723",
-      "time": "2026-05-13 01:47:38",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲古爾斯比：私人信貸與傳統金融機構的關聯度，遠不及 2007 至 2009 年金融危機時期。"
-    },
-    {
-      "id": "mkt:019e1d4c-b572-7772-877b-8bf203d6ae44",
-      "time": "2026-05-13 01:47:04",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "The Trump Trade",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "S&P500",
-        "Impact mixed"
-      ],
-      "text": "COURT HALTS ORDER DECLARING NEW TRUMP TARIFFS UNLAWFUL FOR NOW APPEALS COURT WEIGHING US BID FOR LONGER PAUSE ON TARIFF RULING"
     }
   ]
 }
