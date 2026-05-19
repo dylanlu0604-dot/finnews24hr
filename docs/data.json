@@ -1,7 +1,169 @@
 {
-  "updated": "2026-05-19 18:29:17",
-  "count": 15648,
+  "updated": "2026-05-19 18:33:26",
+  "count": 15660,
   "items": [
+    {
+      "id": "4887955",
+      "time": "2026-05-19 18:32:40",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "花旗集團將美光科技其目標價從425美元上調至840美元。"
+    },
+    {
+      "id": "4887954",
+      "time": "2026-05-19 18:32:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【DeepSeek：輸入部分字元觸發返回異常內容屬於特殊字元引發的模型幻覺，不涉及安全問題或隱私洩露】5月19日，DeepSeek釋出關於字元觸發模型異常回復的說明。近期，DeepSeek關注到有使用者反饋，在與DeepSeek模型的對話中輸入部分特殊字元後，模型偶發返回不可預期的內容，使部分使用者產生了“對話洩露”的疑慮。針對這一問題，技術團隊經全面排查後發現：輸入部分字元觸發返回異常內容，屬於特殊字元引發的模型幻覺，不涉及安全問題或隱私洩露。後續將透過針對性訓練增強模型對特殊字元的識別與處理能力，修複相關的已知問題，最佳化模型在此類場景中的表現。"
+    },
+    {
+      "id": "mkt:019e3fcb-5c2e-7aa9-b726-f5ced47b52e4",
+      "time": "2026-05-19 18:32:15",
+      "tags": [
+        "MKT News",
+        "MU.O",
+        "Impact bullish"
+      ],
+      "text": "MICRON TECHNOLOGY: CITIGROUP RAISES TARGET PRICE TO $840 FROM $425"
+    },
+    {
+      "id": "4887953",
+      "time": "2026-05-19 18:32:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭外交部發言人表示，烏方駁斥了莫斯科方面所稱烏克蘭將從拉脫維亞境內對俄羅斯發起襲擊的說法。"
+    },
+    {
+      "id": "4887952",
+      "time": "2026-05-19 18:32:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "ACT：將擴大美國製造產能，規模化生產用於人工智慧資料中心製冷的冷板。"
+    },
+    {
+      "id": "4887951",
+      "time": "2026-05-19 18:31:35",
+      "tags": [
+        "觀點"
+      ],
+      "text": "花旗：將閃迪目標價從1300美元上調至2025美元。"
+    },
+    {
+      "id": "4887950",
+      "time": "2026-05-19 18:30:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "海頤威軟體（AVEVA）與亞馬遜雲科技宣佈達成多年期戰略合作，加速雲領域工業智慧發展。"
+    },
+    {
+      "id": "mkt:019e3fc9-ddf0-7aa9-b726-ebdfcaaabc13",
+      "time": "2026-05-19 18:30:54",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "AVV.L",
+        "Impact bullish",
+        "AMZN.O"
+      ],
+      "text": "AVEVA AND AMAZON WEB SERVICES ANNOUNCE MULTI-YEAR STRATEGIC COLLABORATION TO ACCELERATE INDUSTRIAL INTELLIGENCE IN THE CLOUD"
+    },
+    {
+      "id": "4887949",
+      "time": "2026-05-19 18:30:45",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【丁薛祥會見俄羅斯第一副總理曼圖羅夫】中共中央政治局常委、國務院副總理丁薛祥19日在北京會見俄羅斯第一副總理曼圖羅夫。 丁薛祥表示，在習近平主席和普京總統戰略引領下，中俄有關方面共同努力，推動兩國投資合作保持良好發展態勢。今年是中俄戰略協作夥伴關係建立30週年和《中俄睦鄰友好合作條約》簽署25週年，雙方要以此為契機，進一步落實好兩國元首重要共識，發揮中俄投資合作委員會統籌協調作用，穩步推進重點專案，拓展合作領域，取得更多務實成果，持續為兩國關係發展注入強勁動力。 曼圖羅夫表示，俄方願同中方加強戰略對接，豐富合作內容，積極解決雙方關心的問題，不斷提升兩國投資合作水平。(新華社)"
+    },
+    {
+      "id": "4887948",
+      "time": "2026-05-19 18:30:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "殼牌執行長表示，過去數月的事件表明，未來數十年滿足石油需求仍將至關重要。"
+    },
+    {
+      "id": "te:economy:551926",
+      "time": "2026-05-19 18:30:13",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Portugal",
+        "Producer Prices Change",
+        "Importance 1"
+      ],
+      "text": "Portugal Producer Inflation Highest Since 2023 — Industrial producer prices in Portugal jumped 3.8% year-on-year in April 2026, the biggest rise since March 2023, following a flat reading in the previous month. The largest upward contribution came from a 17.2% jump in energy costs, mostly petroleum products due to the impact of the war with Iran. Excluding energy, producer prices were up 1.4%. Other increases were also seen in prices for intermediate (2.3% vs 0.3%) and investment (2.1% vs 1.4%) goods while consumptions goods rose 0.1% only (vs -0.7%). Compared to the previous month, the PPI jumped 1.4%, also led by energy costs which soared 10.2%."
+    },
+    {
+      "id": "te:markets:551925",
+      "time": "2026-05-19 18:30:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The SENSEX Index Closes 0.15% Lower — The SENSEX Index fell 114 points or 0.15 percent on Tuesday to close at 75201 points. Leading the losses are Kotak Mahindra Bank (-2.39%), UltraTech Cement (-1.78%) and Titan Company (-1.76%). Top gainers were Infosys (4.43%), HCL Tech (2.91%) and Eternal Limited (2.82%)."
+    },
+    {
+      "id": "4887947",
+      "time": "2026-05-19 18:29:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞士國際航空：開通班加羅爾至蘇黎世直飛新航線。"
+    },
+    {
+      "id": "mkt:019e3fc8-bae8-7aa9-b726-e2456ae09642",
+      "time": "2026-05-19 18:29:40",
+      "tags": [
+        "MKT News",
+        "005930.KS"
+      ],
+      "text": "SOUTH KOREA'S GOVT PROPOSED MEDIATION PROPOSALS TO SAMSUNG, SAMSUNG REVIEWING GOVT PROPOSAL -GOVT MEDIATOR CHIEF"
+    },
+    {
+      "id": "mkt:019e3fc8-ae12-7aa9-b726-db1411e597b7",
+      "time": "2026-05-19 18:29:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "QATAR'S FOREIGN MINISTRY SPOKESPERSON: RIGHT NOW, THERE ARE SPECIAL ARRANGEMENTS FOR THE EXPORT OF ENERGY PRODUCTS"
+    },
+    {
+      "id": "4887945",
+      "time": "2026-05-19 18:29:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【武漢控股：終止購買武漢市政工程設計研究院有限責任公司100%股權事項】武漢控股公告，公司擬透過發行股份及支付現金方式購買武漢市城市建設投資開發集團有限公司持有的武漢市政工程設計研究院有限責任公司100%股權，並募集配套資金。自本次交易啟動以來，公司及相關各方積極推進各項工作，並嚴格按照相關規定履行資訊披露義務。由於外部環境及有關情況發生變化，為切實維護公司和廣大投資者的利益，經公司與相關各方審慎研究、統籌考慮，擬對本次交易方案進行最佳化，經與交易各方友好協商，決定終止本次交易事項並撤回已向上海證券交易所提交的申請檔案。"
+    },
+    {
+      "id": "4887944",
+      "time": "2026-05-19 18:29:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達外交部發言人：目前能源產品出口已實行專項安排。"
+    },
+    {
+      "id": "4887943",
+      "time": "2026-05-19 18:29:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：斯洛維尼亞議員提名揚沙出任總理一職。"
+    },
     {
       "id": "4887941",
       "time": "2026-05-19 18:28:13",
@@ -141377,68 +141539,6 @@
         "國際"
       ],
       "text": "印度4月份CPI食品和飲料價格同比上漲4.01%。"
-    },
-    {
-      "id": "4874932",
-      "time": "2026-05-12 18:33:04",
-      "tags": [
-        "資料",
-        "國際"
-      ],
-      "text": "印度4月份CPI同比增長3.48% 預估為3.78%。"
-    },
-    {
-      "id": "mkt:019e1bbd-db32-7dd9-b92c-c69e02ef8900",
-      "time": "2026-05-12 18:31:27",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "EUROPEAN ALUMINIUM DIRECTOR GENERAL VOSS: EXPECTS EU MEASURES TO HELP RETAIN MORE ALUMINIUM SCRAP IN EUROPE IN COMING WEEKS"
-    },
-    {
-      "id": "4874931",
-      "time": "2026-05-12 18:31:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐洲鋁業協會總幹事：預計未來數週歐盟相關措施將有助於歐洲留存更多鋁廢碎料。"
-    },
-    {
-      "id": "mkt:019e1bbc-c112-7dd9-b92c-bbaa87df5494",
-      "time": "2026-05-12 18:30:15",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "OUST.N",
-        "Impact bullish",
-        "NVDA.O"
-      ],
-      "text": "OUSTER BRINGS REV8 NATIVE COLOR LIDAR TO THE NVIDIA DRIVE HYPERION PLATFORM FOR AUTONOMOUS VEHICLE DEVELOPMENT"
-    },
-    {
-      "id": "te:markets:549989",
-      "time": "2026-05-12 18:30:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "India",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The SENSEX Index Closes 1.69% Lower — The SENSEX Index dropped 1283 points or 1.69 percent on Tuesday to close at 74732 points. Losses were led by Tech Mahindra (-4.21%), Adani Ports (-4.10%) and HCL Tech (-4.01%)."
-    },
-    {
-      "id": "4874930",
-      "time": "2026-05-12 18:29:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "【鋒尚文化：開展2026年股東回饋活動 免費觀演《湘湖·雅韻》】鋒尚文化(300860.SZ)公告稱，公司開展2026年股東回饋活動，活動時間為2026年5月15日至9月30日。期間，在中國證券登記結算公司深圳分公司登記在冊的全體股東可免費觀演杭州《湘湖·雅韻》大型水上實景演藝秀，個人股東可攜不超過3名家屬，法人股東限指定不超過5名代表。該活動不屬於利潤分配，股東自願參加。"
     }
   ]
 }
