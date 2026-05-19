@@ -1,7 +1,76 @@
 {
-  "updated": "2026-05-20 01:18:49",
-  "count": 15595,
+  "updated": "2026-05-20 01:22:49",
+  "count": 15594,
   "items": [
+    {
+      "id": "4888704",
+      "time": "2026-05-20 01:21:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際原子能機構：機構國際專家小組確認，薩爾瓦多在搭建相關配套體系方面取得顯著進展，足以支撐該國就引入核電專案作出理性決策。"
+    },
+    {
+      "id": "te:markets:552024",
+      "time": "2026-05-20 01:21:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Bank Of Montreal Stock Price Hits All-time High — Bank Of Montreal shares increased to an all-time high of 212.74 CAD. Over the past 4 weeks, Bank Of Montreal gained 1.48%, and in the last 12 months, it increased 47.6%."
+    },
+    {
+      "id": "mkt:019e4142-072d-7228-9afe-114c261858c0",
+      "time": "2026-05-20 01:21:46",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Pentagon Official Declines to Rule Out Iran Operations Without Congressional Approval】A senior Pentagon official declined to say whether the Trump administration would seek congressional authorization before restarting military operations against Iran or whether deploying US ground forces remains under consideration. Daniel Zimmerman, assistant secretary of defense for international security affairs, told lawmakers President Donald Trump “retains the options at his disposal” and said decisions on offensive combat operations are “the president’s to make.” Zimmerman added that negotiations are underway “to try to achieve a long-term solution.” Trump said earlier that renewed military operations against Iran were “an hour away” before he halted them after talks with Gulf leaders."
+    },
+    {
+      "id": "4888703",
+      "time": "2026-05-20 01:21:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗官員：特朗普只聽得懂強權話語。"
+    },
+    {
+      "id": "mkt:019e4140-d99f-7228-9afe-0d2bfa83956e",
+      "time": "2026-05-20 01:20:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "PENTAGON OFFICIAL DOESN'T SAY IF ADMIN WILL SEEK CONGRESSIONAL APPROVAL TO RESTART STRIKES - CNN"
+    },
+    {
+      "id": "4888702",
+      "time": "2026-05-20 01:18:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士稱，5月17日遭烏克蘭無人機襲擊後，莫斯科一座煉油廠已停止運營。"
+    },
+    {
+      "id": "mkt:019e413e-ff82-7228-9afe-02397387c094",
+      "time": "2026-05-20 01:18:17",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "MOSCOW OIL REFINERY HALTED OPERATIONS AFTER UKRAINIAN DRONE ATTACK ON MAY 17, SOURCES SAY"
+    },
     {
       "id": "mkt:019e413e-b15c-7228-9afd-fabf4f597e48",
       "time": "2026-05-20 01:18:08",
@@ -140873,99 +140942,6 @@
         "MKT News"
       ],
       "text": "OPENAI ACCUSED OF CAUSING OVERDOSE WITH CHATGPT ADVICE: BLAW"
-    },
-    {
-      "id": "te:markets:550071",
-      "time": "2026-05-13 01:22:20",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Tin Surges to Approach Record High — Tin futures in the UK surged to $55,700 per tonne, the highest since the record high of $58,900 touched February on persistent risks to supply and speculative bets on demand. Major producer Indonesia doubled down on threats against the illegal mining of tin and seixed 500 tonnes of metal connected to sources without licences. The move consolidated the pledge from Jakarta that it would crack down on mining activity that lack licensing after President Subianto ordered the closure of 1,000 illegal mines in Sumatra, tightening the outlook on supply from the key exporter. Elsewhere, operations in Myanmar's Man Maw mine remained slow since being closed for a resource audit in 2023. Meanwhile, tin's utility in datacenters drove Asian traders to pile on futures contracts for speculative positions on AI technology following the crowded developments in silver, although trading halts by the SHFE limited the rally."
-    },
-    {
-      "id": "4875714",
-      "time": "2026-05-13 01:21:58",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲古爾斯比： 通脹走勢正朝著錯誤方向發展，且這不僅僅侷限於與石油及關稅相關的領域。  服務類通脹持續上行令人擔憂。今日資料意外不及預期，服務通脹再度走高令人失望。"
-    },
-    {
-      "id": "mkt:019e1d35-6540-7772-877b-35d9c0ff9c1e",
-      "time": "2026-05-13 01:21:39",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "US10Y"
-      ],
-      "text": "FED'S GOOLSBEE: TODAY'S UNEXPECTED DISAPPOINTMENT WAS SEEING SERVICES INFLATION GOING UP"
-    },
-    {
-      "id": "mkt:019e1d35-154e-7772-877b-2c90e4a90d85",
-      "time": "2026-05-13 01:21:18",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "FED'S GOOLSBEE: DRIFT UPWARD IN SERVICES INFLATION IS A WORRY"
-    },
-    {
-      "id": "4875712",
-      "time": "2026-05-13 01:21:06",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【21世紀“新石油”需求旺盛 美國芝商所擬打造人工智慧算力期貨市場】美國芝加哥商業交易所與指數提供商Silicon Data正聯手打造一個面向算力的期貨市場。眼下算力是促成人工智慧熱潮的關鍵驅動力。根據週二的宣告，算力期貨將幫助交易員、金融機構、AI開發商及雲服務提供商管理波動和價格起伏。由市場情報公司Silicon Data提供的指數將為相關產品提供基礎。目前該專案仍待監管審批。隨著人工智慧公司依賴算力驅動其系統，科技企業對算力的需求持續旺盛。貝萊德執行長拉里·芬克上週表示，在供應緊張、需求旺盛的背景下，算力可能成為一種新的資產類別，並將出現對算力期貨的需求。"
-    },
-    {
-      "id": "mkt:019e1d34-23bb-7772-877b-267936e666da",
-      "time": "2026-05-13 01:20:06",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "US10Y"
-      ],
-      "text": "FED'S GOOLSBEE: CPI REPORT TELLS US 'NOT MUCH THAT'S GOOD'"
-    },
-    {
-      "id": "4875711",
-      "time": "2026-05-13 01:19:56",
-      "tags": [
-        "資料",
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲古爾斯比：CPI 資料包告透露的利好資訊寥寥無幾。"
-    },
-    {
-      "id": "4875710",
-      "time": "2026-05-13 01:19:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄莫斯科州一庫房發生火災 過火面積已達2550平方米】當地時間5月12日，俄羅斯緊急情況部新聞處表示，莫斯科州多爾戈普魯德內市一庫房發生火災，過火面積已達2550平方米。據悉，庫房內積聚了大量易燃物導致火勢迅速蔓延，並已波及相鄰建築物。目前，消防人員正在現場進行滅火作業。事故傷亡人數還在統計中。"
     }
   ]
 }
