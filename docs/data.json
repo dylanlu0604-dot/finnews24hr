@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-20 04:20:40",
-  "count": 15604,
+  "updated": "2026-05-20 04:24:35",
+  "count": 15598,
   "items": [
     {
       "id": "4888861",
@@ -140825,66 +140825,6 @@
         "公司"
       ],
       "text": "谷歌正將 NotebookLM 整合至谷歌工作區工作室（Google Workspace Studio）。"
-    },
-    {
-      "id": "4875838",
-      "time": "2026-05-13 04:24:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "馬斯克：太空探索技術公司（SpaceX）正考量多地選址，籌建太空港。"
-    },
-    {
-      "id": "4875837",
-      "time": "2026-05-13 04:23:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普經濟顧問哈塞特談及戰略石油儲備（SPR）：我們正以最快速度投放儲備原油。"
-    },
-    {
-      "id": "mkt:019e1ddb-10b2-7772-877e-0ec2c8e4117e",
-      "time": "2026-05-13 04:22:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "EARTHQUAKE REPORTED IN TEHRAN - IRANIAN MEDIA"
-    },
-    {
-      "id": "mkt:019e1dda-c284-7772-877e-03e48064bcf6",
-      "time": "2026-05-13 04:21:58",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "WH SR. ADVISER HASSETT: TRUMP IS CONFIDENT THE HORMUZ STRAIT WILL BE OPEN SOON"
-    },
-    {
-      "id": "mkt:019e1dda-7468-7772-877d-fc25fe952eef",
-      "time": "2026-05-13 04:21:55",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "WH SR. ADVISER HASSETT: THIS IS A TEMPORARY ENERGY SHOCK - FOX BUSINESS"
-    },
-    {
-      "id": "4875835",
-      "time": "2026-05-13 04:20:49",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會主席：體育博彩平臺與預測市場實行分類監管。"
     }
   ]
 }
