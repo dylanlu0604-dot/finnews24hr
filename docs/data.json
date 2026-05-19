@@ -1,7 +1,44 @@
 {
-  "updated": "2026-05-20 03:53:14",
+  "updated": "2026-05-20 03:57:06",
   "count": 15603,
   "items": [
+    {
+      "id": "mkt:019e41cf-cdce-7228-9aff-f475b1778307",
+      "time": "2026-05-20 03:55:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US ENERGY SECRETARY WRIGHT: US WILL CONTINUE TO GROW ITS OIL SUPPLY FROM VENEZUELA"
+    },
+    {
+      "id": "mkt:019e41cf-316f-7228-9aff-e82245a76971",
+      "time": "2026-05-20 03:55:34",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "US ENERGY SECRETARY WRIGHT: HIGH GAS PRICES ARE A PRICE WE ALL HAVE TO PAY. WE ARE NOT GOING TO RUN OUT OF GAS"
+    },
+    {
+      "id": "4888846",
+      "time": "2026-05-20 03:53:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特：霍爾木茲海峽將在不久的將來恢復通行。"
+    },
+    {
+      "id": "4888845",
+      "time": "2026-05-20 03:53:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "xAI：SuperGrok 或 X 高階訂閱（X Premium）均可在 OpenClaw 中使用。"
+    },
     {
       "id": "mkt:019e41cc-3318-7228-9aff-e34c66795e97",
       "time": "2026-05-20 03:52:41",
@@ -140823,43 +140860,6 @@
         "國際"
       ],
       "text": "印度政府政令：黃金、白銀新進口關稅自 5 月 13 日起正式生效。"
-    },
-    {
-      "id": "4875818",
-      "time": "2026-05-13 03:56:40",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數觸及盤中高點，日內最大跌幅曾達1%，目前跌幅收窄至0.12%。"
-    },
-    {
-      "id": "mkt:019e1dc2-5055-7772-877d-c6fd4f7ce15b",
-      "time": "2026-05-13 03:55:34",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "INDIA RAISES AGRICULTURE INFRASTRUCTURE AND DEVELOPMENT CESS ON GOLD, SILVER IMPORTS TO 5% FROM 1% - GOVERNMENT ORDER"
-    },
-    {
-      "id": "4875817",
-      "time": "2026-05-13 03:55:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "據油輪追蹤機構TankerTrackers的資料顯示，受美國4月實施的海上封鎖影響，伊朗已有28天沒有透過海運出口任何原油；與此同時，伊朗石油樞紐哈爾克島疑似發生原油洩漏事故後，港口裝油作業仍處於中斷狀態。"
-    },
-    {
-      "id": "4875816",
-      "time": "2026-05-13 03:54:31",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印度政府命令將黃金、白銀進口的農業基礎設施和發展稅從1%提高到5%。"
     }
   ]
 }
