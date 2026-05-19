@@ -1,7 +1,47 @@
 {
-  "updated": "2026-05-19 08:32:25",
+  "updated": "2026-05-19 08:36:11",
   "count": 15585,
   "items": [
+    {
+      "id": "mkt:019e3da7-74b8-7dd6-88a0-b35a5afd6001",
+      "time": "2026-05-19 08:32:53",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | Westpac/Melbourne Institute Consumer Sentiment Index (MoM) (May) | actual 3.5% | previous -12.50%"
+    },
+    {
+      "id": "mkt:019e3da7-3269-7dd6-88a0-af31934635db",
+      "time": "2026-05-19 08:32:48",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | Westpac/Melbourne Institute Consumer Sentiment Index (May) | actual 83 | previous 80.1"
+    },
+    {
+      "id": "4886795",
+      "time": "2026-05-19 08:32:04",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【我國建立白名單制度規範醫保個人賬戶使用】國家醫保局辦公室、財政部辦公廳5月19日釋出《關於進一步加強定點零售藥店職工基本醫療保險個人賬戶使用監督管理的通知》，明確建立定點零售藥店職工醫保個人賬戶支付白名單制度，白名單內的，個人賬戶在定點零售藥店可以支付；白名單外的，不予支付。通知明確，列入白名單的，應是經藥監部門正式批准註冊或備案，可以在零售藥店銷售，並且與治療密切相關、醫療屬性強、價格適宜的藥品、醫療器械和醫用耗材。對於保健品、日常生活用品等非醫療用品，牙膏牙刷牙線、面膜化妝品、隱形眼鏡以及生活功能為主、醫療附加值較低的器械耗材，不得納入白名單。 此次檔案還明確，允許使用職工醫保個人賬戶支付在定點醫療機構發生的流感疫苗費用。（央視）"
+    },
+    {
+      "id": "te:markets:551725",
+      "time": "2026-05-19 08:31:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Japanese Shares Climb After Robust GDP Growth — The Nikkei 225 Index advanced 0.6% to above 61,000, while the broader Topix Index gained 1% to 3,864 on Tuesday, as both benchmarks rebounded from a three-day losing streak following stronger-than-expected economic growth data that improved the corporate outlook. Japan’s economy expanded 0.5% quarter-on-quarter in the first quarter, accelerating from 0.2% in Q4 and exceeding market expectations of 0.4%. Still, the outlook remains uncertain amid ongoing Middle East tensions, with the broader economic effects of the conflict yet to be fully reflected in the data. Investor sentiment also improved on hopes that the US and Iran may return to negotiations after President Donald Trump said he halted a planned strike on Iran for Tuesday following appeals from Gulf allies. Financial stocks led the rally, with Mitsubishi UFJ rising 2.8%, Sumitomo Mitsui jumping 3.9%, and Mizuho Financial climbing 4.5%."
+    },
     {
       "id": "4886794",
       "time": "2026-05-19 08:31:04",
@@ -140795,38 +140835,6 @@
         "市場"
       ],
       "text": "日經225指數上漲超過1%，至63056.2點。"
-    },
-    {
-      "id": "4873459",
-      "time": "2026-05-12 08:36:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓國政策高層提議以AI產業的超額利潤向全體國民發放“公民紅利”】韓國總統府政策室長金容範提出，考慮設立所謂“公民紅利”，資金來源為人工智慧(AI)產業產生的超額利潤。“人工智慧基礎設施時代的收益，並非僅由個別企業創造，而是源於整個國家在過去半個多世紀中所構建的產業基礎。因此，這些收益中的一部分應透過制度安排回饋給全體國民，”金容範在社交媒體上發文表示。他指出，隨著人工智慧基礎設施持續發展，韓國有望突破以往週期性出口主導的增長模式，邁向一種以技術主導、可持續產生超額收益的新型經濟結構。不過，他同時強調，人工智慧時代的超額利潤具有明顯的集中性特徵：儲存晶片企業的股東、核心工程師以及各類資產持有者，極有可能獲得豐厚回報，而廣大中產階層則可能僅能感受到間接效應。"
-    },
-    {
-      "id": "4873443",
-      "time": "2026-05-12 08:34:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "條款說明書：谷歌母公司Alphabet擬發行3年期和15年期日元債券。"
-    },
-    {
-      "id": "4873438",
-      "time": "2026-05-12 08:33:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普暗示萬斯、魯比奧將成總統+副總統搭檔迎戰2028】美國總統特朗普在白宮玫瑰園舉辦晚宴時，向與會者打探2028年共和黨總統候選人會是誰。“會是JD（副總統萬斯）嗎？還是別人？我也不知道。”隨後他詢問大家誰支援萬斯，誰支援魯比奧，“聽起來是個不錯的搭檔組合。”"
-    },
-    {
-      "id": "4873434",
-      "time": "2026-05-12 08:32:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "【任鴻斌出席塔吉克共和國總統與中國企業負責人座談會】5月11日，塔吉克共和國總統與中國企業負責人座談會在北京舉辦，塔吉克總統拉赫蒙出席並講話，中國貿促會會長任鴻斌出席並致辭。任鴻斌表示，中國貿促會願與塔方認真落實兩國元首達成的重要共識，依託鏈博會等平臺，發揮商事調解、經貿仲裁等商事法律服務專業優勢，更大力度支援兩國企業提升貿易投資合作質量和規模，為在更高層面構建中塔命運共同體注入新動力。中國貿促會作為中方牽頭單位，協助塔方舉辦此次活動，來自礦產能源、交通運輸、金融保險、酒店文旅等領域80多家企業參會交流。"
     }
   ]
 }
