@@ -1,7 +1,48 @@
 {
-  "updated": "2026-05-20 13:46:23",
-  "count": 15635,
+  "updated": "2026-05-20 13:50:32",
+  "count": 15630,
   "items": [
+    {
+      "id": "4889524",
+      "time": "2026-05-20 13:49:43",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【液冷伺服器概念持續活躍 同飛股份、申菱環境漲超12%】液冷伺服器概念持續活躍，同飛股份、申菱環境漲超12%，此前川潤股份、宏盛股份、銀輪股份漲停，英維克、大元泵業、飛龍股份、依米康跟漲。"
+    },
+    {
+      "id": "4889523",
+      "time": "2026-05-20 13:49:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海昌海洋公園午後急升 一度漲超40%】海昌海洋公園(02255.HK)午後急升，截至發稿漲39%，成交超9億港元。公司此前公告稱，2025年收入降至15.492億元，降幅約14.8%，虧損約9.836億元。"
+    },
+    {
+      "id": "4889522",
+      "time": "2026-05-20 13:48:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼盧比<IDR=>縮減跌幅，目前持平交投，最新報1美元兌17695盧比。"
+    },
+    {
+      "id": "4889521",
+      "time": "2026-05-20 13:48:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國總統李在明：以色列在違反國際法的不公正情況下綁架了一名韓國公民。"
+    },
+    {
+      "id": "4889520",
+      "time": "2026-05-20 13:46:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯下諾夫哥羅德州州長稱，該州兩處工業場地遭無人機襲擊後起火。"
+    },
     {
       "id": "mkt:019e43ea-82f7-7cc9-b8d6-4ce5d64ec284",
       "time": "2026-05-20 13:45:02",
@@ -141029,103 +141070,6 @@
         "其他"
       ],
       "text": "梅賽德斯賓士將把柏林的七家經銷商出售給加拿大買家。"
-    },
-    {
-      "id": "4876982",
-      "time": "2026-05-13 13:50:19",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "韓國政府將支援並鼓勵三星電子與工會透過對話解決問題。"
-    },
-    {
-      "id": "mkt:019e1fe2-b011-7553-b25f-bcbb0c1d8db8",
-      "time": "2026-05-13 13:50:10",
-      "tags": [
-        "MKT News",
-        "005930.KS",
-        "Impact bullish"
-      ],
-      "text": "SOUTH KOREA GOVERNMENT WILL SUPPORT AND ENCOURAGE SAMSUNG ELEC AND UNION TO RESOLVE ISSUES THROUGH DIALOGUE -BLUE HOUSE"
-    },
-    {
-      "id": "mkt:019e1fe2-6ce2-7553-b25f-b62dae970369",
-      "time": "2026-05-13 13:49:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "SOUTH KOREA PRESIDENT LEE DID NOT DISCUSS NORTH KOREA WITH U.S. OR CHINA ENVOYS -BLUE HOUSE"
-    },
-    {
-      "id": "4876981",
-      "time": "2026-05-13 13:48:30",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【儲存晶片午後持續走強】儲存晶片午後持續走強，大族鐳射、德明利、博敏電子、雅克科技、聖泉集團、萬潤科技、三孚股份漲停，晶盛機電漲超10%，晶升股份、勝科奈米、永安行、恆坤新材、壹石通跟漲。"
-    },
-    {
-      "id": "4876980",
-      "time": "2026-05-13 13:48:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國總統李在明表示，他的顧問昨日釋出的關於重新分配人工智慧熱潮帶來的利潤的帖子旨在引發更廣泛的公眾討論，探討如何利用這筆潛在的稅收收益。"
-    },
-    {
-      "id": "mkt:019e1fe0-752a-7553-b25f-ad3739dda6ed",
-      "time": "2026-05-13 13:47:44",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "TURNOVER ON SSE AND SZSE EXCEEDED 2.5TN YUAN, DOWN 119BN YUAN FROM THE SAME TIME YESTERDAY"
-    },
-    {
-      "id": "te:economy:550223",
-      "time": "2026-05-13 13:47:02",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "France",
-        "Unemployment Rate",
-        "Importance 1"
-      ],
-      "text": "France Jobless Rate Hits 5-Year High — The unemployment rate in France rose to 8.1% in the first quarter of 2026, above market forecasts of 7.8%, from 7.9% in the previous quarter. This marked the highest level since the first quarter of 2021, as the number of unemployed people increased by 68,000 to 2.6 million. The jobless rate was also 0.7 percentage points higher than in the same period last year. By age group, unemployment among those aged 25–49 rose to 7.3% from 6.9%, while the rate for those aged 50 and over edged up to 5.2% from 5.1%. Meanwhile, unemployment among those aged 15–24 fell to 21.1% from 21.5%. By gender, male unemployment increased to 8.5% from 8.2%, while female unemployment ticked up to 7.7% from 7.6%."
-    },
-    {
-      "id": "4876979",
-      "time": "2026-05-13 13:46:44",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "法國央行行長維勒魯瓦：歐洲央行必須準備好干預第二輪的影響。我們目前還沒有足夠的關於核心通脹的資訊。"
-    },
-    {
-      "id": "mkt:019e1fdf-78c8-7553-b25f-a151d411585c",
-      "time": "2026-05-13 13:46:39",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SZSE Component"
-      ],
-      "text": "CHINEXT INDEX UP OVER 2%"
-    },
-    {
-      "id": "4876978",
-      "time": "2026-05-13 13:46:31",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超2.5萬億元，較上日此時縮量1190億元。"
     }
   ]
 }
