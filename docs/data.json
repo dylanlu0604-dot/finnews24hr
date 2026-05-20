@@ -1,7 +1,41 @@
 {
-  "updated": "2026-05-21 07:48:14",
-  "count": 15837,
+  "updated": "2026-05-21 07:52:13",
+  "count": 15829,
   "items": [
+    {
+      "id": "4891421",
+      "time": "2026-05-21 07:51:16",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本至5月15日當週買進外國債券 7587億日元，前值由16407億日元修正為16443億日元。日本至5月15日當週外資買進日股 9496億日元，前值由14375億日元修正為13935億日元。日本至5月15日當週買進外國股票 414億日元，前值-5936億日元。日本至5月15日當週外資買進日債 -10334億日元，前值1062億日元。"
+    },
+    {
+      "id": "4891420",
+      "time": "2026-05-21 07:51:02",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【華泰證券：矽光技術有望成為全新增長極 關注半導體代工企業發展機會】華泰證券研報透過對16家全球主要半導體代工及封測企業2026年一季度業績的分析，注意到為了滿足快速增長的AI晶片需求，臺積電、三星、海力士、美光等頭部半導體制造企業一方面加大自身的裝置投資，另一方面積極調整供應鏈戰略，加大與產業鏈企業在成熟工藝代工和先進封裝上的合作力度，“矽光”有望成為代工企業的新增長點。光互連是解決AI叢集內部高速資料傳輸瓶頸的關鍵，正推動矽光從匯入期邁向規模量產。華泰證券預計2026年全球半導體企業資本開支同比或增長32%到2272億美元，WFE（晶圓製造裝置）收入同比或增長27%到1650億美元。"
+    },
+    {
+      "id": "4891419",
+      "time": "2026-05-21 07:50:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本3月核心機械訂單較上年同期增加5.9%(調查預估為增加4.5%)；日本3月核心機械訂單較前月減少9.4%(調查預估為減少8.1%)。"
+    },
+    {
+      "id": "4891418",
+      "time": "2026-05-21 07:50:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本4月份進口同比增長9.7%，預估為8.5%。日本4月份出口同比增長14.8%，預估為9.2%。"
+    },
     {
       "id": "4891417",
       "time": "2026-05-21 07:47:43",
@@ -142444,119 +142478,6 @@
         "Importance 2"
       ],
       "text": "Gold Weighed Down by Fed Rate Hike Fears — Gold traded below $4,700 an ounce on Thursday after sliding for two straight sessions, as rising US inflation reinforced expectations that the Federal Reserve could keep interest rates higher for longer or even hike them. Data released Thursday showed US wholesale inflation accelerated in April to its fastest pace since 2022, fueled by higher trade and energy costs linked to the Iran war. The report followed Tuesday’s data showing consumer inflation climbed to 3.8% last month, the highest reading since May 2023. Investors have now fully ruled out a Fed rate cut this year, while increasingly expect a greater likelihood of another rate hike before year-end. Although gold is traditionally viewed as a hedge against inflation, higher interest rates tend to pressure the non-yielding asset. Meanwhile, markets are also closely watching President Trump’s visit to China for signs of progress on the fragile trade truce and developments surrounding the Iran conflict."
-    },
-    {
-      "id": "4878753",
-      "time": "2026-05-14 07:51:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "【南太平洋島國紐埃總理贏得連任】當地時間13日，南太平洋島國紐埃議會舉行總理選舉，現任總理多爾頓·塔格拉吉成功連任新一屆紐埃總理。紐埃位於南太平洋中部，面積為260平方公里，全國常住人口1564人（2022年），是世界上人口最少的國家之一。紐埃於1974年實行內部自治，同紐西蘭保持自由聯絡。"
-    },
-    {
-      "id": "em:jjsj_rbsj:202605143736580773",
-      "time": "2026-05-14 07:51:23",
-      "tags": [
-        "經濟數據",
-        "日本"
-      ],
-      "text": "日本4月貨幣供應M3年率為1.6%，前值1.40%。"
-    },
-    {
-      "id": "4878752",
-      "time": "2026-05-14 07:51:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本5月8日當週外資淨買進日本股票 14375億日元，前值 8079億日元。日本5月8日當週外資淨買進日本債券 1062億日元，前值 -7869億日元。日本5月8日當週淨買進國外股票 -5936億日元，前值 412億日元。日本5月8日當週淨買進國外債券 16407億日元，前值 -8877億日元。"
-    },
-    {
-      "id": "mkt:019e23c0-954a-7dd0-a6ab-5f11752fee23",
-      "time": "2026-05-14 07:51:06",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Weekly Foreign Stocks Buying (May.8) | actual -593600000000B | previous 41200000000B"
-    },
-    {
-      "id": "mkt:019e23c0-9548-7dd0-a6ab-502df5f7acdb",
-      "time": "2026-05-14 07:51:06",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Weekly Foreign investment in Japanese Bonds (May.8) | actual 106200000000B | previous -786900000000B"
-    },
-    {
-      "id": "mkt:019e23c0-42cb-7dd0-a6ab-467e3537f6ab",
-      "time": "2026-05-14 07:50:39",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | M3 Money Supply (YoY) (Apr) | actual 1.6% | previous 1.40%"
-    },
-    {
-      "id": "mkt:019e23c0-42c8-7dd0-a6ab-3ab59c8f1454",
-      "time": "2026-05-14 07:50:34",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | M2 Money Supply (YoY) (Apr) | actual 2.3% | previous 2.00%"
-    },
-    {
-      "id": "4878751",
-      "time": "2026-05-14 07:50:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本4月貨幣存量M3同比 1.6%，前值 1.4%。"
-    },
-    {
-      "id": "mkt:019e23c0-42c6-7dd0-a6ab-30d8a8808841",
-      "time": "2026-05-14 07:50:18",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Broadest Liquidity (YoY) (Apr) | actual 2.8% | previous 2.8%"
-    },
-    {
-      "id": "4878750",
-      "time": "2026-05-14 07:50:12",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【日本央行前行長黑田東彥：干預行動不大可能對日元產生持久影響】日本央行前行長黑田東彥週三表示，日本近期的干預匯市行動或許阻止了日元兌美元跌破160關口，但這不太可能對支撐日元產生持久影響。黑田東彥在一場研討會上表示，只有當外匯干預對投機者造成巨大打擊，或是其力度足以扭轉市場情緒時，才會產生長期影響。“日本當局此次針對日元過度貶值採取了果斷行動。但很難指望這一舉措對日元產生持久影響，”黑田東彥表示。他在擔任日本央行行長之前，曾擔任主管日本匯率政策的財務省官員。“最近這輪干預確實起到了一定作用，阻止日元兌美元跌破160關口，否則日元將進一步下跌，”他說。“但干預的影響通常不會持續太久。”黑田東彥在研討會上表示：“我認為，基於日本的經濟基本面，日元/美元匯率在120-130左右被視為均衡水位。”美元兌日元週三在157.80左右 。"
-    },
-    {
-      "id": "mkt:019e23bf-a2bd-7dd0-a6ab-26dc63967be8",
-      "time": "2026-05-14 07:50:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Weekly Foreign investment in Japanese Stocks (May.8) | actual 1437500000000B | previous 807900000000B"
-    },
-    {
-      "id": "mkt:019e23bf-a2be-7dd0-a6ab-293c05e6bf89",
-      "time": "2026-05-14 07:50:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Weekly Foreign Bonds Buying (May.8) | actual 1640700000000B | previous -887700000000B"
     }
   ]
 }
