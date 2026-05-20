@@ -1,7 +1,118 @@
 {
-  "updated": "2026-05-21 04:40:15",
-  "count": 15731,
+  "updated": "2026-05-21 04:44:13",
+  "count": 15741,
   "items": [
+    {
+      "id": "mkt:019e4721-4f12-7bb5-8189-1d73cbbec4d9",
+      "time": "2026-05-21 04:43:45",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "SPACEX FILES S-1 REGISTRATION STATEMENT WITH U.S. SEC"
+    },
+    {
+      "id": "mkt:019e4720-7136-7bb5-8189-11b2975316bd",
+      "time": "2026-05-21 04:42:48",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Anthropic Projects First Operating Profit as Revenue More Than Doubles】Anthropic expects second-quarter revenue to surge 130% to $10.9 billion and projects its first operating profit, according to figures shared with investors during an ongoing funding round. The company generated $4.8 billion in first-quarter sales and forecasts June-quarter operating profit of $559 million. The projections could push Anthropic’s valuation above OpenAI. The Dario Amodei-led startup said profitability may not last through the full year as spending rises to support computing demands. The operating-profit measure includes model-training costs but excludes stock-based compensation."
+    },
+    {
+      "id": "mkt:019e4720-54e9-7bb5-8189-086e7412eae9",
+      "time": "2026-05-21 04:42:40",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "ANTHROPIC'S SALES SET TO REACH $10.9 BILLION IN JUNE QUARTER, A 130% SURGE OVER FIRST QUARTER -- WSJ"
+    },
+    {
+      "id": "4891229",
+      "time": "2026-05-21 04:42:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普稱願意多花幾天等待伊方訊息】美國總統特朗普20日表示，如果美國和伊朗能達成協議，他願意多花幾天等待伊方訊息。特朗普當天從康涅狄格州返回首都華盛頓後在機場對媒體說，事情可能會進展得非常迅速，也可能需要幾天時間，希望伊方領導人能促成一份對各方都有利的協議。他稱，“如果僅僅透過多等待幾天就能避免一場戰爭……那麼我認為這是一件極其有意義的事情”。（新華社）"
+    },
+    {
+      "id": "4891228",
+      "time": "2026-05-21 04:42:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "人工智慧公司Anthropic第二季度營收預計將翻倍有餘，達到109億美元。"
+    },
+    {
+      "id": "4891227",
+      "time": "2026-05-21 04:41:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列空襲和炮火襲擊了黎巴嫩南部至少八個城鎮。"
+    },
+    {
+      "id": "mkt:019e471e-c1e7-7bb5-8189-07c04d71aad3",
+      "time": "2026-05-21 04:40:58",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bearish"
+      ],
+      "text": "NVIDIA: IF MIDDLE EAST CONFLICT ESCALATES OR EXTENDS, IT COULD AFFECT FUTURE PRODUCT DEVELOPMENT, SUPPLY CHAIN, REVENUE & CREATE BUSINESS UNCERTAINTY"
+    },
+    {
+      "id": "mkt:019e471e-aa17-7bb5-8188-ff59a5e1bb30",
+      "time": "2026-05-21 04:40:52",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O"
+      ],
+      "text": "NVIDIA CORP: GLOBAL SUPPLY CHAIN FOR OUR NETWORKING PRODUCTS HAS NOT BEEN SIGNIFICANTLY IMPACTED BY THE CONFLICT IN THE MIDDLE EAST"
+    },
+    {
+      "id": "4891226",
+      "time": "2026-05-21 04:40:46",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "英偉達：若中東衝突升級或持續，可能會影響公司未來產品開發、供應鏈與營收，並給業務帶來不確定性。"
+    },
+    {
+      "id": "4891225",
+      "time": "2026-05-21 04:40:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "英偉達：網路產品全球供應鏈未受到中東衝突的顯著影響。"
+    },
+    {
+      "id": "mkt:019e471e-4658-7bb5-8188-f56eed06027f",
+      "time": "2026-05-21 04:40:26",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O"
+      ],
+      "text": "NVIDIA CORP: TRANSITIONING TO A NEW REPORTING FRAMEWORK THAT BETTER REFLECTS ITS CURRENT AND FUTURE GROWTH DRIVERS"
+    },
     {
       "id": "mkt:019e471d-7f9b-7bb5-8188-ebb33f32336b",
       "time": "2026-05-21 04:39:35",
@@ -141637,18 +141748,6 @@
         "其他"
       ],
       "text": "【5月14日美股成交額前20：美光市值突破9000億美元】週三美股成交額第1名美光收高4.83%，股價首次收在800美元之上，創歷史新高，成交430.45億美元，市值突破9000億美元。美銀將美光股價目標從500美元上調至950美元，同時維持對該股的“買入”評級。該行認為，未來幾年，與人工智慧伺服器和資料中心相關的記憶體晶片需求增速將繼續超過供應增速。在這一趨勢中，美光已成為最大的贏家之一，尤其是在先進人工智慧晶片中使用的高頻寬記憶體領域。"
-    },
-    {
-      "id": "te:markets:550428",
-      "time": "2026-05-14 04:43:24",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Closes Lower on Hawkish Fed Outlook — The S&P/TSX Composite Index fell 0.7% to close at 34,041 on Wednesday as investors assessed the outlook for restrictive monetary policy and elevated energy prices. The stalling of US-Iran peace talks this week reduced expectations for a reopening of the Strait of Hormuz, while concerns over stagflation pressures and rising bond yields continued to weigh on banks and the broader market. BMO fell 1.4% and Royal Bank of Canada lost 1.2%. Meanwhile, gold prices extended declines after stronger-than-expected US producer prices reinforced expectations of tighter Federal Reserve policy, pressuring mining stocks. Agnico Eagle slipped 0.6% and Barrick dropped 2.1%. Elsewhere, Equinox Gold fell 2.1% after announcing plans to acquire Orla Mining (+0.8%) in a deal that would create a North America-focused gold producer valued at roughly $18.5 billion. Boyd Group slumped 12% after first-quarter sales missed forecasts."
     }
   ]
 }
