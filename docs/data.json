@@ -1,7 +1,112 @@
 {
-  "updated": "2026-05-20 16:57:06",
-  "count": 15669,
+  "updated": "2026-05-20 17:01:05",
+  "count": 15662,
   "items": [
+    {
+      "id": "te:economy:552266",
+      "time": "2026-05-20 17:00:15",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Iceland",
+        "Interest Rate",
+        "Importance 1"
+      ],
+      "text": "Central Bank of Iceland Raises Key Rate to 7.75% — The Central Bank of Iceland raised its key policy rate by 25 basis points to 7.75% at its May meeting, with all committee members voting in favor and in line with market expectations of another rate hike. The decision comes amid persistent inflationary pressures and weakening economic activity. Headline inflation eased slightly to 5.2% in April 2026 after reaching over an year high rate of 5.4%, although inflation expectations continued to rise. In response to higher commodity prices and inflationary pressures following the war in Iran, the government reduced the petrol tax to 11% from 24% to ease inflation. Meanwhile, economic activity contracted by 0.6% in the fourth quarter of 2025, with the outlook expected to deteriorate further if supply disruptions persist. Despite concerns over slowing growth, the Committee signaled that it remains prepared to tighten monetary policy further while closely monitoring developments in economic activity as well as current and expected inflation."
+    },
+    {
+      "id": "4889928",
+      "time": "2026-05-20 17:00:14",
+      "tags": [
+        "資料"
+      ],
+      "text": "歐元區4月調和CPI同比終值 3%，預期 3%，初值 3%。\n歐元區4月調和CPI環比終值 1%，預期 1%，初值 1%。\n歐元區4月核心調和CPI同比終值 2.2%，預期 2.2%，初值 2.2%。"
+    },
+    {
+      "id": "te:markets:552265",
+      "time": "2026-05-20 17:00:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Indian Rupee Appreciates by 0.44% — Top currency gainers are Indian Rupee (0.44%) and Dollar Index (0.09%). Biggest losers are Euro (-0.13%) and British Pound (-0.09%). Meanwhile Japanese Yen was little changed."
+    },
+    {
+      "id": "mkt:019e449d-05eb-7cc9-95dc-f17ec9782feb",
+      "time": "2026-05-20 17:00:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Eurozone | CPI Final (YoY) (Apr) | actual 3% | consensus 3% | previous 3.00%"
+    },
+    {
+      "id": "mkt:019e449d-0566-7cc9-95dc-ef4c1cf28709",
+      "time": "2026-05-20 17:00:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Eurozone | Core CPI Final (MoM) (Apr) | actual 0.8% | previous 0.8%"
+    },
+    {
+      "id": "mkt:019e449d-0534-7cc9-95dc-e1797e03f395",
+      "time": "2026-05-20 17:00:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Eurozone | Core CPI Final (YoY) (Apr) | actual 2.1% | consensus 2.1% | previous 2.1%"
+    },
+    {
+      "id": "4889926",
+      "time": "2026-05-20 16:59:34",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【瑞銀：瑞安航空不太可能提高票價以抵消燃料成本上升的影響】瑞銀分析師Jarrod Castle表示，隨著持平的票價無法覆蓋不斷上升的燃料和運營成本，瑞安航空在2027財年開局艱難。他說，預計票價漲幅將不到1%，隨著燃料成本上升將在到年底前對票價構成上行壓力。瑞銀將2027財年和2028財年的每股收益預期分別下調了15%和29%。Castle說，不過，這家經濟型航空公司在抵禦財務風險方面比同行受到更好的保護，擁有行業領先的資產負債表，並保持著競爭對手無法企及的強大成本優勢。瑞銀表示：“我們認為，圍繞每位乘客盈利能力的中期前景——在預測期內從約11歐元增至約14歐元——使其成為一項有吸引力的投資。“該股上漲0.3%，報22.42歐元。"
+    },
+    {
+      "id": "4889925",
+      "time": "2026-05-20 16:58:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：以色列對黎巴嫩南部的雅赫默爾·沙基夫地區進行了炮擊。"
+    },
+    {
+      "id": "4889924",
+      "time": "2026-05-20 16:57:38",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【*ST海華：股價異常波動 申請撤銷退市風險警示存不確定性】*ST海華公告稱，公司股票於2026年5月18日至20日連續3個交易日內收盤價格跌幅偏離值累計超12%，屬異常波動。目前公司生產經營正常，2025年度營收3.23億元，淨虧損8168.29萬元；2026年Q1營收8606.72萬元，淨虧損724.52萬元。公司於5月18日收到上交所年報問詢函，尚未回覆，申請撤銷退市風險警示正處補充材料階段，能否獲批尚不確定。控股股東及實控人無應披露未披露重大資訊，未在異常波動期間買賣公司股票。"
+    },
+    {
+      "id": "4889923",
+      "time": "2026-05-20 16:57:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以色列空襲黎巴嫩南部造成至少19人死亡】黎巴嫩公共衛生部20日發表宣告說，以色列國防軍19日對黎巴嫩南部多地發動多輪空襲，造成包括3名兒童在內的至少19人死亡，另有32人受傷。 宣告說，以色列發動的空襲主要集中在黎巴嫩南部提爾地區的城鎮、奈拜提耶市及其周邊地區。 據黎巴嫩公共衛生部19日公佈的統計資料，自3月2日黎以戰火重燃以來，以色列對黎巴嫩發動的襲擊已造成3042人死亡、9301人受傷。(新華社)"
+    },
+    {
+      "id": "mkt:019e449a-56d0-7cc9-95dc-de8532013778",
+      "time": "2026-05-20 16:57:05",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "MAGNITUDE 5.9 EARTHQUAKE HITS OFF COAST OF JAPAN’S AMAMI ISLANDS"
+    },
     {
       "id": "te:markets:552261",
       "time": "2026-05-20 16:55:54",
@@ -141264,171 +141369,6 @@
         "歐元區"
       ],
       "text": "【歐元區第一季度GDP年率修正值0.80% 預期0.80%】歐元區第一季度GDP年率修正值0.80%，預期0.80%，前值由0.80%修正為1.30%。"
-    },
-    {
-      "id": "4877393",
-      "time": "2026-05-13 17:01:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "【泰格醫藥：擬使用不超過人民幣10億元回購公司股份】泰格醫藥公告，擬使用自有資金或自籌資金以集中競價交易或其他法律法規允許的方式回購部分公司A股股份，用於後期實施A股股權激勵計劃或A股員工持股計劃，以及減少公司註冊資本。回購資金總額不低於人民幣5億元且不超過人民幣10億元；回購價格不超過人民幣60元/股（含60.00元/股）；預計回購數量為833.33萬股至1666.67萬股，佔公司當前總股本的0.97%至1.94%。"
-    },
-    {
-      "id": "4877392",
-      "time": "2026-05-13 17:00:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "歐元區一季度GDP季環比修正值 0.1%，預期 0.1%，初值 0.1%。\n歐元區3月工業產出同比 -2.1%，預期 -1.6%，前值 -0.6%。\n歐元區一季度GDP同比修正值 0.8%，預期 0.8%，初值 0.8%。"
-    },
-    {
-      "id": "mkt:019e2090-fcfa-7770-bf41-4f546bc1b5b2",
-      "time": "2026-05-13 17:00:20",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "ECB'S ELDERSON: BANKS NEED TO UPDATE RESILIENCE PLANS TO CATER FOR THE HIGHER PROBABILITY OF SEVERE DISRUPTIONS BECAUSE OF ANTHROPIC’S MYTHOS AI TOOL"
-    },
-    {
-      "id": "te:markets:550306",
-      "time": "2026-05-13 17:00:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: New Zealand Dollar Depreciates by 0.38% — Top currency losers are New Zealand Dollar (-0.38%), Euro (-0.30%), Polish Zloty (-0.29%), Japanese Yen (-0.12%) and British Pound (-0.11%). Gains are led by Brazilian Real (0.34%) and Dollar Index (0.22%)."
-    },
-    {
-      "id": "4877391",
-      "time": "2026-05-13 17:00:14",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【教育部召開鄉村振興工作領導小組會暨鄉村振興工作推進會】5月13日，教育部召開鄉村振興工作領導小組會暨鄉村振興工作推進會，深入學習貫徹習近平總書記關於教育、“三農”工作的重要論述，貫徹落實黨中央、國務院關於統籌建立常態化防止返貧致貧機制促進鄉村全面振興的部署要求，安排部署教育常態化幫扶工作。教育部黨組成員、副部長、部鄉村振興工作領導小組副組長杜江峰出席會議並講話。 會議指出，以習近平同志為核心的黨中央高度重視推進常態化幫扶、持續鞏固拓展脫貧攻堅成果工作，習近平總書記多次發表重要講話、作出重要指示批示，為我們做好工作提供了科學指南。教育系統要以高度的政治自覺深入學習領會、認真貫徹落實，切實把思想和行動統一到黨中央決策部署上來。（教育部）"
-    },
-    {
-      "id": "mkt:019e2090-c25a-7770-bf41-42e4442f0547",
-      "time": "2026-05-13 17:00:12",
-      "tags": [
-        "MKT News",
-        "DAX",
-        "Impact bearish"
-      ],
-      "text": "ECB'S ELDERSON: BANKS WILL NEED TO DEAL WITH EVER MORE CAPABLE FUTURE AI MODELS THAT COULD BE RELEASED IN QUICK SUCCESSION"
-    },
-    {
-      "id": "4877390",
-      "time": "2026-05-13 17:00:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國消費者協會、中國市場監督管理學會發布消費提示：警惕網路理財課程陷阱】近期，中國消費者協會依託全國消協智慧315平臺對消費投訴資料進行分析發現，涉及網路理財課程的消費投訴呈現明顯上升趨勢。2020年至2025年間，相關爭議數量持續增長，2025年10月以來投訴工單進一步增多。投訴集中反映部分培訓機構以低價體驗為名誘導付費、宣傳內容與實際服務嚴重不符、退款渠道不暢等問題，且老年消費者受此困擾尤為突出。\n\n涉訴機構往往透過短影片平臺、社交軟體、直播渠道等釋出廣告，以“免費學習”“一元體驗”“限時特惠”等為誘餌吸引消費者關注。在獲取消費者聯絡方式後，銷售人員透過拉群聽課、傳送所謂“理財案例”等方式逐步建立信任，繼而宣稱“銀行存款貶值”“理財改變命運”“穩賺不賠”“名師一對一指導”“學不會免費重學”“打卡全額退費”等，誘導消費者支付數千元乃至上萬元課程費用。\n\n消費者在購買網路課程服務過程中，應注意儲存廣告宣傳頁面截圖、聊天記錄、付款憑證、課程回放連結等證據材料。若發現課程內容與宣傳承諾嚴重不符、機構失聯或拒絕履行退費義務，或者要求籤署限制消費者權利、免除經營者責任、內容與事實不符的協議。消費者可依據《中華人民共和國消費者權益保護法》及相關規定，首先與經營者協商解決，協商不成的，可透過全國消協智慧315投訴平臺、各地消協組織或向有關行政主管部門投訴舉報，也可依法向人民法院提起訴訟。"
-    },
-    {
-      "id": "mkt:019e2090-8143-7770-bf41-38a0bd1d5d82",
-      "time": "2026-05-13 17:00:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Eurozone | Industrial Production (YoY) (Mar) | actual -2.1% | consensus -1.7% | previous -0.60%"
-    },
-    {
-      "id": "mkt:019e2090-812d-7770-bf41-353b030736d6",
-      "time": "2026-05-13 17:00:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Eurozone | Industrial Production (MoM) (Mar) | actual 0.2% | consensus 0.3% | previous 0.40%"
-    },
-    {
-      "id": "mkt:019e2090-8049-7770-bf41-2bd48d8b281a",
-      "time": "2026-05-13 17:00:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Eurozone | GDP Revised (YoY) (Q1) | actual 0.8% | consensus 0.80% | previous 0.80%"
-    },
-    {
-      "id": "mkt:019e2090-8028-7770-bf41-23dccbea6d78",
-      "time": "2026-05-13 17:00:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Eurozone | GDP Revised (QoQ) (Q1) | actual 0.1% | consensus 0.10% | previous 0.10%"
-    },
-    {
-      "id": "4877389",
-      "time": "2026-05-13 16:59:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國眾議院將就一項法案展開辯論，允許E15 乙醇汽油全年銷售。"
-    },
-    {
-      "id": "4877388",
-      "time": "2026-05-13 16:58:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國能源部長克里斯・賴特出席參議院軍事委員會聽證會，就國家核安保相關議題作證陳述。"
-    },
-    {
-      "id": "mkt:019e208f-3b51-7770-bf41-1f9feccc2c99",
-      "time": "2026-05-13 16:58:35",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "ITALY IS SENDING MINE-CLEARING SHIPS TO THE GULF TO HELP ACHIEVE A PERMANENT TRUCE"
-    },
-    {
-      "id": "4877387",
-      "time": "2026-05-13 16:58:27",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【祥龍電業：股票交易異常波動 不存在應披露未披露重大事項】祥龍電業公告稱，公司股票於2026年5月11日-5月13日連續三個交易日日收盤價格漲幅偏離值累計達20%，屬異常波動。經自查及向實控人和控股股東核實，截至公告披露日，不存在應披露而未披露的重大資訊，目前生產經營正常，未發現對股價有重大影響的媒體報道或市場傳聞。提醒投資者注意交易、經營等風險。"
-    },
-    {
-      "id": "4877386",
-      "time": "2026-05-13 16:57:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：義大利正在向海灣地區派遣掃雷艦，以幫助實現永久停火。"
-    },
-    {
-      "id": "4877384",
-      "time": "2026-05-13 16:57:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2026年一季度海南省數字經濟產業貸款同比增長49.9%】5月13日，中國人民銀行海南省分行召開新聞釋出會，介紹2026年一季度海南省金融執行情況。截至3月末，全省本外幣各項存款餘額16094億元，同比增長6.6%；全省本外幣各項貸款餘額14880億元，同比增長14.3%，增速高於全國平均水平8.7個百分點。其中信貸方面，3月末，全省科技型企業貸款同比增長10.1%；數字經濟產業貸款同比增長49.9%。其中，海南省信貸結構持續最佳化。3月末，普惠小微貸款餘額1340億元，同比增長7.9%；個人消費貸款(不含住房貸款)同比增長11.3%，增速較去年同期提高3.7個百分點；個人住房貸款餘額同比增長8.8%，增速較上年同期提高3.9個百分點。企業融資成本保持低位執行，新發放企業貸款加權平均利率為2.85%。（中國新聞網）"
-    },
-    {
-      "id": "4877383",
-      "time": "2026-05-13 16:57:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "黑石集團因控制權分歧，放棄作價40 億美元的新世界集團收購交易。"
     }
   ]
 }
