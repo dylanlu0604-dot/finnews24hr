@@ -1,7 +1,37 @@
 {
-  "updated": "2026-05-20 08:44:10",
-  "count": 15540,
+  "updated": "2026-05-20 08:48:09",
+  "count": 15539,
   "items": [
+    {
+      "id": "4889060",
+      "time": "2026-05-20 08:47:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩市融資餘額增加52.18億元】截至5月19日，上交所融資餘額報14652.79億元，較前一交易日增加30.02億元；深交所融資餘額報14027.77億元，較前一交易日增加22.16億元；兩市合計28680.56億元，較前一交易日增加52.18億元。"
+    },
+    {
+      "id": "4889059",
+      "time": "2026-05-20 08:45:27",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【韓國綜合股價指數連續第二天下跌 外資拋售股票】由於外國投資者持續拋售，且債券收益率上升打擊了市場情緒，韓國股市基準指數KOSPI下跌幅度高達3%。週三早盤，外國投資者減持韓國綜合股價指數（KOSPI）股票，而散戶投資者和本地基金則逆勢買入。SK海力士和現代汽車是該指標的最大拖累因素之一。僅三個行業板塊上漲，其餘全線下跌，電力、燃氣細分指數領跌。韓國小型股Kosdaq指數暴跌4.3%。MSCI亞太指數下跌0.8%。三星股價走勢震盪，市場密切關注企業管理層與工會新一輪薪資談判進展。韓國10年期國債收益率上漲超過5個基點，至4.26%。"
+    },
+    {
+      "id": "te:markets:552054",
+      "time": "2026-05-20 08:43:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Japanese Shares Sink as Bond Yields Surge — Japan’s Nikkei 225 fell 1.6% to around 59,600 on Wednesday, while the broader TOPIX declined 1.3% to 3,800, with both benchmarks hitting multi-week lows as they tracked overnight losses on Wall Street. The selloff came as global bond yields climbed sharply amid mounting inflation concerns tied to the Iran war. Japan’s benchmark 10-year government bond yield also surged to 2.8%, its highest level since September 1996, after stronger-than-expected economic growth data reinforced expectations for further monetary tightening. Markets are increasingly pricing in a potential interest rate hike from the Bank of Japan as early as next month following hawkish remarks from policymakers. Investors are also awaiting Japan’s latest trade and inflation data for additional clues on the economy’s strength. Technology and AI-related shares led the decline, with steep losses from Kioxia, SoftBank Group, Fujikura, Tokyo Electron, and Lasertec."
+    },
     {
       "id": "4889058",
       "time": "2026-05-20 08:43:29",
@@ -140250,56 +140280,6 @@
         "國際"
       ],
       "text": "【特朗普集團放棄在澳大利亞建造首座摩天大樓的計劃 並將責任歸咎於合作伙伴】特朗普集團週三表示，在簽署協議不到三個月後，該公司已放棄在澳大利亞建造其首座摩天大樓的計劃，理由是澳大利亞合作伙伴未能履行某些財務義務。該集團於今年2月與Altus Property Group簽署了協議，計劃在澳大利亞昆士蘭州熱門的海濱旅遊勝地黃金海岸開發一棟91層的摩天大樓，該專案價值15億澳元 (10.9億美元 )。該公司表示，該專案取決於特許經營合作伙伴Altus能否履行其尚未完成的某些義務，並補充稱將盡快探索其他潛在專案，以在澳大利亞建造特朗普地產。"
-    },
-    {
-      "id": "4876187",
-      "time": "2026-05-13 08:47:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "【兩市融資餘額較上日增加168.80億元】截至5月12日，上交所融資餘額報14407.57億元，較前一交易日增加82.06億元；深交所融資餘額報13802.04億元，較前一交易日增加86.74億元；兩市合計28209.61億元，較前一交易日增加168.80億元。"
-    },
-    {
-      "id": "te:markets:550123",
-      "time": "2026-05-13 08:46:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "Japan’s Nikkei Declines as Tech Shares Drag — The Nikkei 225 Index slipped 0.3% to below 62,600 on Wednesday, giving back gains from the previous session as technology stocks tracked overnight weakness on Wall Street. Market sentiment was pressured after oil prices climbed amid growing doubts over the durability of the US-Iran ceasefire, while fresh data showed US consumer inflation rose more than expected in April, reducing expectations for Federal Reserve interest rate cuts. In Japan, the Summary of Opinions from the Bank of Japan’s April meeting indicated that policymakers discussed the potential for additional rate hikes as soon as the next meeting, with higher oil prices adding to inflation concerns. Major decliners included Fujikura (-1.1%), Lasertec (-3.8%), Advantest (-2.9%), Tokyo Electron (-1.2%), and Disco Corp (-2.6%)."
-    },
-    {
-      "id": "4876182",
-      "time": "2026-05-13 08:45:54",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "【曝出質量違規隱患 日本尼得科股價暴跌18%】週三，尼得科（Nidec Corp.，日本電產）東京盤中股價最大跌幅達18%，此前公司披露發現疑似產品質量違規行為。這家全球最大精密電機製造商表示，將開展全面質量核查，並於今日公佈相關處置方案。花旗集團分析師TakayukiNaito在研報中指出：“若質量造假指控屬實，尼得科或將面臨成本進一步攀升、營收下滑，對公司基本面構成利空。”他補充稱：“眼下6月年度股東大會及證券報告提交臨近，若後續排查再曝出更多問題，大機率會持續壓制股價表現。”尼得科已被剔除日經225指數與東證股價指數（TOPIX）；東京證券交易所表態，若公司內部治理無法整改達標，或將對其啟動退市程式。"
-    },
-    {
-      "id": "mkt:019e1ecb-508d-7553-b25c-75d6e265f439",
-      "time": "2026-05-13 08:45:01",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "The Trump Trade",
-        "Magnificent 7",
-        "Star Stocks",
-        "Microsoft",
-        "Tencent",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Key Points of the Past 24 Hours – MKTNews】 US / Trump & China - Trump to meet Xi Jinping Thursday in Beijing at 10:15 AM local time (10:15 PM ET) - Trump says he will discuss U.S. arms sales to Taiwan with Xi - Kyodo - Trump: “China’s strong, but we’re stronger than China militarily”; expects meeting with Xi to be “good” - Chinese officials in talks with U.S. counterparts to purchase American agricultural products including corn, sorghum, distillers dried grains, and soybeans China / Economy & Corporate - OpenAI to save $97B through 2030 under latest Microsoft deal - The Information - China domestic flight fuel surcharge to rise again starting May 16 - Yicai - China’s market regulator conditionally approves Tencent’s acquisition of shares in Ximalaya - Vanke board approves framework for Shenzhen Metro Group to provide 2.5B yuan shareholder loan, plus supplemental agreement for 22B yuan loan Geopolitics / Iran - Iranian parliamentary commission: Tehran could enrich uranium up to 90% if U.S. attacks; parliament will discuss - X post - Pentagon considering re-naming Iran war plan “Sledgehammer” if ceasefire collapses - NBC - U.S. military may launch “Operation Sledgehammer” against Iran, bypassing congressional 60-day war power limits Other US Developments - Kevin Warsh confirmed to Fed Board; chair vote pending - U.S. appeals court temporarily pauses trade court ruling against Trump’s 10% tariffs under Section 122 Tech / Innovation - Unitree unveils GD01, a manned transformable mecha starting at $650,000"
     }
   ]
 }
