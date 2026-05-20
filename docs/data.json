@@ -1,7 +1,75 @@
 {
-  "updated": "2026-05-20 22:45:05",
-  "count": 15781,
+  "updated": "2026-05-20 22:49:49",
+  "count": 15778,
   "items": [
+    {
+      "id": "4890909",
+      "time": "2026-05-20 22:48:19",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "特朗普：正展望古巴的“新黃金時代”。"
+    },
+    {
+      "id": "4890908",
+      "time": "2026-05-20 22:47:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普就古巴問題發表講話：美國不會罷休，直到古巴重獲自由。"
+    },
+    {
+      "id": "4890907",
+      "time": "2026-05-20 22:46:32",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "訊息人士稱，由於通脹前景正轉向不利情景，歐洲央行極有可能在6月加息。"
+    },
+    {
+      "id": "4890906",
+      "time": "2026-05-20 22:46:25",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "知情訊息人士稱，歐洲央行大機率不會對7月的政策作出明確承諾。"
+    },
+    {
+      "id": "4890905",
+      "time": "2026-05-20 22:46:19",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "訊息人士稱，多數歐洲央行政策制定者更傾向於等到9月經濟預測出爐後，再決定是否需要採取下一步行動。"
+    },
+    {
+      "id": "4890904",
+      "time": "2026-05-20 22:46:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中俄發表聯合宣告：呼籲國際社會秉持平等、互利、安全、民主等原則】中俄發表聯合宣告，呼籲國際社會秉持平等、互利、安全、民主等原則，倡導世界多極化和新型國際關係。宣告指出，國際格局和力量對比加速演變，單邊脅迫、霸權主義、陣營對抗及新殖民主義逆流湧動，國際法和國際關係基本準則不斷遭到踐踏。中俄呼籲國際社會構建更加公正合理的全球治理體系，堅持開放包容、互利合作，堅持安全平等且不可分割，堅持促進國際關係民主化、完善全球治理體系，堅持世界文明和價值多樣性。雙方將繼續就構建多極世界和更加公正的新型國際關係形成共同願景。（央視新聞）"
+    },
+    {
+      "id": "4890903",
+      "time": "2026-05-20 22:45:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源資訊署（EIA）資料顯示，上週美國自委內瑞拉的原油進口量升至2024年9月該機構恢復資料統計以來的最高水平。"
+    },
+    {
+      "id": "4890902",
+      "time": "2026-05-20 22:44:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【最高檢掛牌督辦4起涉長江流域水環境治理重點案件】在5月20日召開的2026年檢察機關服務保障長江經濟帶高質量發展研討會上，最高人民檢察院通報了長江經濟帶水環境治理公益訴訟專項工作情況。一年多來，長江經濟帶檢察機關聚焦流域水環境治理面臨的突出問題，共立案辦理相關公益訴訟4715件，制發檢察建議3783件，起訴297件，助推長江干支流系統保護和修復。其中，最高檢加強統籌協調和跟進指導，掛牌督辦4起涉長江流域水環境治理重點案件，推動解決水環境治理老大難問題。（最高檢）"
+    },
     {
       "id": "4890900",
       "time": "2026-05-20 22:43:25",
@@ -142030,103 +142098,6 @@
         "其他"
       ],
       "text": "微軟：我們正在調查影響南美洲地區Outlook及其他微軟365服務的故障。"
-    },
-    {
-      "id": "4878219",
-      "time": "2026-05-13 22:49:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "【Meta將在WhatsApp上推出“隱身聊天”功能】Meta Platforms週三表示，該公司正在其WhatsApp即時通訊服務的人工智慧助手中推出一項新的“隱身聊天”功能，旨在解決使用者對資料隱私的擔憂。Meta表示，隱身聊天將依託私有處理技術，確保對話對任何人（包括公司自身）都不可見。Meta在一篇部落格文章中表示“您的對話不會被儲存，預設情況下訊息會自動消失——這為您提供了一個不受任何人監視的思考和探索想法的空間。”"
-    },
-    {
-      "id": "4878218",
-      "time": "2026-05-13 22:49:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國人形機器人全球爆單 全球每10臺人形機器人8臺來自中國】在新一輪中國品牌出海浪潮中，機器人、人工智慧站上舞臺C位。告別以往靠規模、拼價格的傳統模式，來自中國的科技產品正以一種更新潮、更有科技感的全新姿態，融入全球市場。從春晚舞臺到馬拉松賽場，機器人的自信亮相，讓全世界看到了中國機器人產業的“進化速度”。全球每10臺人形機器人就有8臺來自中國。今年一季度，我國工業機器人出口達31.6億元，同比增長42%。中國人工智慧產業正加速實現從單一產品輸出向“技術+方案+服務”的綜合輸出轉型，成為中國品牌出海的一張“新名片”。2025年中國智慧眼鏡出貨量246萬臺，同比增長87.1%，海外出貨量增長64.9%，覆蓋32個國家和地區。如今中國人工智慧產業的出海，輸出的不僅僅是終端產品，還有支撐智慧世界的“基礎設施”。2026年第一季度，我國與伺服器緊密相關的儲存部件、中央處理部件等出口合計增長39.1%。光伏、風電逆變器等核心電力裝備，正與人工智慧產業深度聯動，掀起AI基建出海新風尚。我國輸出的早已不止單一硬體，而是“硬體獲客、軟體留客、服務增值”的可持續商業閉環，在全球人工智慧賽道擦亮又一個“中國品牌”。中國品牌從“做大”邁向“做強”，正在實現從“主動融入”到“積極塑造”的關鍵跨越。（央視財經）"
-    },
-    {
-      "id": "te:markets:550392",
-      "time": "2026-05-13 22:49:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Silver Hits Two-Month High — Silver climbed toward $88 an ounce on Wednesday, reaching its highest level in two months and outperforming other precious metals as industrial demand prospects improved. The metal, widely used in electronics, solar panels, and other industrial applications due to its high electrical conductivity, also serves as a traditional investment asset alongside gold. The gains came despite India raising import tariffs on gold and silver to 15% from 6%. However, reduced expectations for Federal Reserve rate cuts limited further upside. Hotter-than-expected US inflation data, with producer prices surging the most since early 2022 and consumer inflation hitting the highest since May 2023, led investors to price out a US rate cut this year, according to CME Group’s FedWatch. Elsewhere, US President Donald Trump’s visit to China will be monitored for any progress on the fragile trade truce and the Iran conflict."
-    },
-    {
-      "id": "4878217",
-      "time": "2026-05-13 22:49:05",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "羅博特科智慧科技股份有限公司向港交所提交上市申請書，聯席保薦人為華泰國際、花旗、東方證券國際。"
-    },
-    {
-      "id": "4878216",
-      "time": "2026-05-13 22:48:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基稱，俄羅斯已經發射了超過800架無人機襲擊烏克蘭全國多地，造成六人死亡。"
-    },
-    {
-      "id": "4878215",
-      "time": "2026-05-13 22:48:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "白銀連續主力合約日內漲3%，現報21724.00元。"
-    },
-    {
-      "id": "4878214",
-      "time": "2026-05-13 22:47:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "墨西哥總統否認墨西哥總統辛鮑姆否認美國中央情報局（CIA）特工在墨西哥活動。"
-    },
-    {
-      "id": "4878213",
-      "time": "2026-05-13 22:47:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "萊多斯將根據美國國防部框架協議首批生產3000枚低成本集裝箱式彈藥。"
-    },
-    {
-      "id": "4878212",
-      "time": "2026-05-13 22:46:51",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根大通表示，投資者恐慌情緒正迅速升溫，許多客戶已對股市轉為全面看空。儘管市場情緒悲觀，摩根大通的交易員仍建議客戶在市場波動中保持冷靜，不要恐慌。"
-    },
-    {
-      "id": "4878211",
-      "time": "2026-05-13 22:46:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：法國正調查以色列企業黑核（BlackCore）是否干預了法國地方選舉。"
-    },
-    {
-      "id": "te:markets:550391",
-      "time": "2026-05-13 22:45:35",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Baltic Dry Index Rises Further on Wednesday — The Baltic Exchange dry index rose 4.1% to 3,189 on Wednesday, the highest since November 2023. The capesize index, which typically transport 150,000-ton cargoes, including iron ore and coal, jumped 5.1% to 5,340. The panamax index, which usually carry 60,000 to 70,000 tons of coal or grain, increased 4% to 2,454. Also, the supramax index gained 1.2% to 1,553."
     }
   ]
 }
