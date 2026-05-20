@@ -1,7 +1,67 @@
 {
-  "updated": "2026-05-21 02:37:35",
-  "count": 15679,
+  "updated": "2026-05-21 02:41:39",
+  "count": 15682,
   "items": [
+    {
+      "id": "mkt:019e46b1-02ac-7bb5-8187-7896fc119e4e",
+      "time": "2026-05-21 02:41:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TRUMP: CUBA IS A FAILING NATION, CAN'T SAY WHAT'S NEXT FOR THEM"
+    },
+    {
+      "id": "mkt:019e46b0-a59f-7bb5-8187-72a54fb4a466",
+      "time": "2026-05-21 02:40:42",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "TRUMP: FORMER CUBAN PRESIDENT CASTRO INDICTMENT VERY BIG MOMENT"
+    },
+    {
+      "id": "mkt:019e46b0-9731-7bb5-8187-6bf032f6140c",
+      "time": "2026-05-21 02:40:38",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "TRUMP: WE HAVE CUBA ON OUR MINDS"
+    },
+    {
+      "id": "4891122",
+      "time": "2026-05-21 02:40:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普提及針對卡斯特羅的起訴指控：古巴方面迎來重大訊息， 我們正重點關注古巴局勢。"
+    },
+    {
+      "id": "mkt:019e46af-5ee2-7bb5-8187-6031188cd50a",
+      "time": "2026-05-21 02:39:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "HOUSE REPUBLICAN LEADERS ARE DELAYING A VOTE ON AN IRAN WAR POWERS RESOLUTION THAT THEY HAD PREVIOUSLY SET FOR WEDNESDAY - POLITICO"
+    },
+    {
+      "id": "4891120",
+      "time": "2026-05-21 02:39:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普政府將再撥款 2 億美元，助力明年啟動翻新後的紐約賓夕法尼亞車站新建動工工作。"
+    },
+    {
+      "id": "mkt:019e46ae-fb10-7bb5-8187-5cae0110f38f",
+      "time": "2026-05-21 02:38:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TRUMP ADMINISTRATION TO PROVIDE ANOTHER $200 MILLION TO HELP BREAK GROUND ON REVAMPED NEW YORK PENN STATION NEXT YEAR"
+    },
     {
       "id": "4891119",
       "time": "2026-05-21 02:36:22",
@@ -141140,39 +141200,6 @@
         "國際"
       ],
       "text": "美國銀行醫療保健會議：艾伯維高管稱對合並肥胖症相關資產持開放態度。"
-    },
-    {
-      "id": "mkt:019e22a3-d654-7dd0-a6a9-9774b507a445",
-      "time": "2026-05-14 02:40:11",
-      "tags": [
-        "MKT News",
-        "TWTR.O"
-      ],
-      "text": "US FEDERAL JUDGE IN ELON MUSK-SEC TWITTER SETTLEMENT CASE SAYS APPARENT BACK CHANNEL COMMUNICATIONS IN THE MATTER ARE A 'RED FLAG'"
-    },
-    {
-      "id": "4878559",
-      "time": "2026-05-14 02:39:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國食品藥品監督管理局批准地西他濱與西達尿苷複方口服片劑聯合維奈克拉用於治療初診急性髓系白血病。"
-    },
-    {
-      "id": "4878557",
-      "time": "2026-05-14 02:39:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "負責馬斯克與美國證券交易委員會推特和解案的美國聯邦法官表示，本案中明視訊記憶體在的私下溝通是一個“危險訊號”。"
-    },
-    {
-      "id": "4878551",
-      "time": "2026-05-14 02:37:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "【萬斯抨擊拜登政府未能防範醫療身份盜用問題】美國加州一名心理治療師的醫保福利遭停發後，副總統萬斯抨擊拜登政府未能防範醫療身份盜用問題。萬斯重點援引了這位醫師的遭遇：從業行醫長達四十年，只因不法分子鑽制度漏洞，其聯邦醫療保險待遇竟被無故停用。萬斯表示：“有詐騙分子盜用了她的身份資訊，冒用她的名義申領根本不需要的醫療服務，結果反倒導致她本人真正需要的醫療保障被關停。這類事件在美國太過頻發。究其根源，就是直到近期為止，歷屆政府和本屆政府始終沒有真正重視醫保專案治理與反欺詐防範工作。”"
     }
   ]
 }
