@@ -1,7 +1,15 @@
 {
-  "updated": "2026-05-21 01:38:28",
-  "count": 15702,
+  "updated": "2026-05-21 01:42:18",
+  "count": 15695,
   "items": [
+    {
+      "id": "4891071",
+      "time": "2026-05-21 01:39:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "據以色列第 12 頻道：美國總統特朗普與以色列總理內塔尼亞胡就伊朗政策進行了一次氣氛緊張的通話。特朗普宣佈將簽署一份意向書，旨在停止戰爭並與伊朗展開談判；而內塔尼亞胡對此表示質疑，主張繼續對伊朗領導層施加軍事壓力。卡達及多個阿拉伯國家正力推一份協議草案，旨在避免戰事再起。美方訊息人士稱，內塔尼亞胡在與特朗普通話後情緒極為不滿。"
+    },
     {
       "id": "mkt:019e4676-bddf-7bb5-8186-970342d0b939",
       "time": "2026-05-21 01:37:27",
@@ -141267,83 +141275,6 @@
         "XAUUSD"
       ],
       "text": "KASHKARI: NOT SURPRISED BY HEADLINE INFLATION RISE, WHAT MATTERS IS HOW PERSISENT STRAIT CLOSURE IS"
-    },
-    {
-      "id": "4878469",
-      "time": "2026-05-14 01:42:01",
-      "tags": [
-        "公司",
-        "焦點",
-        "國際"
-      ],
-      "text": "谷歌、微軟、X平臺遭美國議員就大語言模型事宜問詢，Anthropic、Perplexity也因相關問題遭問詢。"
-    },
-    {
-      "id": "4878468",
-      "time": "2026-05-14 01:41:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "【霍爾木茲海峽航運受阻致氦氣供應短缺 可能危及半導體行業】中東戰事不僅推高了石油、天然氣的價格，還加劇了全球工業氦氣的供應短缺。由於氦氣是半導體制造不可或缺的原料，霍爾木茲海峽運輸長期受阻可能危及全球半導體行業的發展。卡達是全球第二大氦氣生產國，其氦氣產量約佔全球產量的三分之一。霍爾木茲海峽航運受阻，導致卡達生產的氦氣無法運出。（央視新聞）"
-    },
-    {
-      "id": "mkt:019e226e-2493-7dd0-a6a8-7b10d9132a29",
-      "time": "2026-05-14 01:41:11",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "KASHKARI: NOT SURPRISED BY HEADLINE INFLATION RISE, WHAT MATTERS IS HOW PERSISENT STRAIT CLOSURE IS"
-    },
-    {
-      "id": "mkt:019e226d-c472-7dd0-a6a8-7533db39f864",
-      "time": "2026-05-14 01:41:06",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "KASHKARI: EVEN IF HORMUZ STRAIT REOPENS, IT WILL BE MONTHS BEFORE SUPPLY CHAINS RETURN TO NORMAL"
-    },
-    {
-      "id": "mkt:019e226d-7668-7dd0-a6a8-6e8c43055210",
-      "time": "2026-05-14 01:40:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "KASHKARI: NOT SURE FED'S POLCIY RATE DECISIONS WILL HAVE MUCH EFFECT ON MORTGAGE RATES"
-    },
-    {
-      "id": "4878464",
-      "time": "2026-05-14 01:40:13",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲卡什卡里：整體通脹上行並不意外，關鍵在於霍爾木茲海峽關閉會持續多久。"
-    },
-    {
-      "id": "4878463",
-      "time": "2026-05-14 01:39:41",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲卡什卡里：即使霍爾木茲海峽重新開放，供應鏈也需要數月時間才能恢復正常。"
-    },
-    {
-      "id": "4878462",
-      "time": "2026-05-14 01:39:06",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲卡什卡里：移民及海關執法局突擊行動對地區經濟造成深遠影響。"
     }
   ]
 }
