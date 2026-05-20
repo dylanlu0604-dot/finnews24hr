@@ -1,7 +1,118 @@
 {
-  "updated": "2026-05-20 09:47:07",
-  "count": 15546,
+  "updated": "2026-05-20 09:51:05",
+  "count": 15547,
   "items": [
+    {
+      "id": "4889163",
+      "time": "2026-05-20 09:50:08",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【光纖概念反覆活躍 杭電股份觸及漲停續創歷史新高】光纖概念反覆活躍，杭電股份觸及漲停，長盈通漲超5%，均續創歷史新高，中天科技、特發資訊、通光線纜跟漲。"
+    },
+    {
+      "id": "4889162",
+      "time": "2026-05-20 09:49:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【航天科工火箭公司擬招聘財務副總監 將牽頭上市輔導財務專項工作】航天科工火箭技術有限公司微信公眾號於5月19日釋出的招聘啟事顯示，公司擬招聘財務副總監1人，主要崗位職責包括：負責建立符合上市規範的財務制度和治理架構，牽頭上市輔導財務專項工作，配合中介機構完成IPO財務核查與輔導驗收，參與投資等專案財務盡調與風險把控，負責內外部審計相關工作等。"
+    },
+    {
+      "id": "mkt:019e4313-50dc-7228-9b01-dff8a3e0cec3",
+      "time": "2026-05-20 09:49:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "3986.HK",
+        "Impact bullish",
+        "981.HK",
+        "1347.HK"
+      ],
+      "text": "HONG KONG-LISTED SEMICONDUCTOR STOCKS EXTEND GAINS; GIGADEVICE (3986.HK) UP OVER 9%, SMIC (981.HK) UP OVER 5%, HUA HONG SEMICONDUCTOR (1347.HK) AND INNOSCIENCE (2577.HK) ALSO RISE"
+    },
+    {
+      "id": "4889161",
+      "time": "2026-05-20 09:49:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數下跌1%，至8518.50點。"
+    },
+    {
+      "id": "4889160",
+      "time": "2026-05-20 09:49:22",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達20億港元。"
+    },
+    {
+      "id": "mkt:019e4312-81d6-7228-9b01-d1c2424b1c35",
+      "time": "2026-05-20 09:49:05",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "SZSE Component",
+        "Impact bullish"
+      ],
+      "text": "CHINEXT INDEX TURNS POSITIVE AFTER FALLING AS MUCH AS 0.5% EARLIER; MEMORY CHIP AND F5G-RELATED SECTORS LEAD GAINS"
+    },
+    {
+      "id": "4889159",
+      "time": "2026-05-20 09:48:29",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指轉漲，此前一度跌超0.5%，儲存晶片、F5G概念等板塊漲幅居前。"
+    },
+    {
+      "id": "te:markets:552073",
+      "time": "2026-05-20 09:48:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "European Gas Prices at 6-Week High — European natural gas futures rose toward €52 per megawatt hour, climbing back to a six-week high as investors contended with persistent supply disruptions in the Middle East, with the Strait of Hormuz remaining largely closed. President Donald Trump has again warned that the US could launch new attacks on Iran if no agreement is reached, just after he said he had postponed a planned strike. The conflict, now in its 12th week, has severely disrupted shipping flows through the Strait, cutting roughly one-fifth of global LNG supply, with hostilities extending to key production assets in Qatar. Investors are now watching Europe’s LNG imports, as the region needs to secure fuel this summer to refill storage ahead of next winter."
+    },
+    {
+      "id": "4889158",
+      "time": "2026-05-20 09:48:07",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【調查：逾七成韓國人憂心中東戰事並縮減開支】韓國言論振興財團媒體研究中心19日釋出的一份調查報告顯示，逾77%的韓國人因中東戰事延宕而在經濟方面感到不安，約72%的受訪者為此縮減開支，改變消費行為。據韓聯社報道，該媒體研究中心4月對年齡在20歲至70歲之間的1000多人進行調查。結果顯示，77.8%的受訪者在接觸中東衝突相關資訊後感到不安，主要原因是擔心“油價及物價上漲”和“經濟更低迷”。"
+    },
+    {
+      "id": "mkt:019e4311-3e1d-7228-9b01-ce8897d0df99",
+      "time": "2026-05-20 09:47:43",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "3986.HK",
+        "Impact bullish",
+        "6890.HK"
+      ],
+      "text": "HONG KONG-LISTED MEMORY CHIP STOCKS RISE; GIGADEVICE (3986.HK) UP 5.9%, MONTAGE TECHNOLOGY (6890.HK) UP 1.6%"
+    },
+    {
+      "id": "mkt:019e4310-4c84-7228-9b01-c3a7ae8ceaf8",
+      "time": "2026-05-20 09:46:42",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bearish"
+      ],
+      "text": "【Chinese Rural Banks Cut Deposit Rates Across Regions】Multiple Chinese rural commercial banks have launched a new round of deposit rate cuts since May, with lenders in Shanxi, Guangdong and Inner Mongolia lowering rates by as much as 35 bps. Following the cuts, 1Y-3Y deposit rates at many banks have largely fallen into the 1% range. (Economic Daily)"
+    },
     {
       "id": "4889157",
       "time": "2026-05-20 09:46:29",
@@ -140256,104 +140367,6 @@
         "2208.HK"
       ],
       "text": "HK WIND POWER STOCKS GAIN: DONGFANG ELECTRIC UP NEARLY 6%, GOLDWIND UP 4.24%"
-    },
-    {
-      "id": "4876464",
-      "time": "2026-05-13 09:51:03",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點"
-      ],
-      "text": "【金屬鋅板塊短線拉昇】金屬鋅板塊短線拉昇，羅平鋅電漲停，盛屯礦業、恆邦股份、馳宏鋅鍺、中金嶺南、鋅業股份等紛紛走高。"
-    },
-    {
-      "id": "4876463",
-      "time": "2026-05-13 09:50:38",
-      "tags": [
-        "市場"
-      ],
-      "text": "【港股風電股走強 東方電氣漲近6%】截至發稿，東方電氣(01072.HK)漲5.97%，金風科技(02208.HK)漲4.24%，龍源電力(00916.HK)漲2.84%。"
-    },
-    {
-      "id": "mkt:019e1f06-d2fc-7553-b25d-84d1e5444aa6",
-      "time": "2026-05-13 09:49:50",
-      "tags": [
-        "MKT News",
-        "005930.KS",
-        "Impact bullish"
-      ],
-      "text": "SAMSUNG ELECTRONICS ERASES LOSSES OF AS MUCH AS 6.1%, TURNS UP 0.9%"
-    },
-    {
-      "id": "mkt:019e1f06-948c-7553-b25d-7f2728d024cd",
-      "time": "2026-05-13 09:49:33",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "NVIDIA U.S. OVERNIGHT SHARES JUMP OVER 1%"
-    },
-    {
-      "id": "4876462",
-      "time": "2026-05-13 09:49:23",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點"
-      ],
-      "text": "【泡泡瑪特高開低走 花旗稱一季度收入超預期但增長擔憂恐未消】泡泡瑪特盤初一度上漲近5%，但隨後轉跌。公司昨日釋出資料顯示一季度整體營收增長75%至80%。花旗稱，該資料好於市場此前偏悲觀的預期，但可能仍不足以緩解對其增長可持續性的擔憂，因海外市場的環比下滑。據花旗的報告估算，泡泡瑪特一季度集團收入環比下降約16%–19%，其中中國市場增長約6%–9%，海外市場環比降40%。花旗稱，自今年第二季度起，在較高的基數之下，海外市場收入壓力恐進一步加大。"
-    },
-    {
-      "id": "4876461",
-      "time": "2026-05-13 09:49:15",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "有色板塊震盪走強，華達新材、羅平鋅電雙雙漲停，北方銅業漲超6%，翔鷺鎢業、盛屯礦業、金鉬股份跟漲。"
-    },
-    {
-      "id": "4876460",
-      "time": "2026-05-13 09:49:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "日經225指數站上63000點，日內漲0.48%。"
-    },
-    {
-      "id": "4876459",
-      "time": "2026-05-13 09:49:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【前4個月粵港澳大灣區內地9市外貿連續保持兩位數增長】據海關統計，今年前4個月，粵港澳大灣區內地9市進出口3.37萬億元，同比增長18.4%，佔全國進出口總值的比重較去年同期提升0.6個百分點至20.7%，對全國增長的貢獻度達24.9%。其中，出口2萬億元，增長11.4%；進口1.37億元，增長30.4%。"
-    },
-    {
-      "id": "te:economy:550140",
-      "time": "2026-05-13 09:47:59",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Home Loans",
-        "Importance 1"
-      ],
-      "text": "Australia Q1 Home Loans Fall — The value of new owner-occupier loan commitments for dwellings in Australia declined by 4.3% quarter-on-quarter to AUD 61.4 billion in Q1 2026, reversing a downwardly revised 9.4% growth in the previous quarter. First-home buyer demand slipped 6.7%, after surging 15.2% in Q4, which had marked the sharpest rise in two years. Demand from non–first-home buyers also dipped 5.0%, following a 6.5% increase previously. On an annual basis, owner-occupier lending jumped 14.3%. Meanwhile, investment lending for housing fell 3.0% to AUD 41.5 billion, swinging from a 8.2% decrease in Q4. Year-on-year, investment loan values jumped 25.3%."
-    },
-    {
-      "id": "4876452",
-      "time": "2026-05-13 09:47:31",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【液冷概念表現活躍 華升股份漲停】液冷概念表現活躍，華升股份漲停，歐陸通、長纜科技、日科化學、工業富聯、金田股份等大漲。"
     }
   ]
 }
