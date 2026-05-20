@@ -1,7 +1,85 @@
 {
-  "updated": "2026-05-20 21:18:53",
-  "count": 15689,
+  "updated": "2026-05-20 21:22:57",
+  "count": 15694,
   "items": [
+    {
+      "id": "4890675",
+      "time": "2026-05-20 21:22:11",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "資料顯示：俄羅斯4月黃金持有量降至7390萬盎司。"
+    },
+    {
+      "id": "4890674",
+      "time": "2026-05-20 21:22:03",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "伊朗議會議長卡利巴夫：美國底層弱勢群體與被遺忘群體，終將為財閥巨頭、嗜血大佬戴蒙以及華府軍工利益集團買單。"
+    },
+    {
+      "id": "4890673",
+      "time": "2026-05-20 21:21:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "穆迪：未來12至18個月，銀行業將得益於盈利能力逐步改善，資產負債表實現溫和增長。"
+    },
+    {
+      "id": "te:economy:552328",
+      "time": "2026-05-20 21:20:43",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Nigeria",
+        "Interest Rate",
+        "Importance 1"
+      ],
+      "text": "Nigeria Holds Key Policy Rate at 26.5% — Nigeria's central bank left its key interest rate unchanged at 26.50% on May 20, 2026, following a 50 bps rate hike in February. The meeting marked policymakers’ first gathering since the Iran conflict erupted. Governor Olayemi Cardoso said a cautious and vigilant stance was needed to anchor inflation expectations and safeguard macroeconomic stability. Nigeria’s headline inflation rate climbed to a five-month high of 15.7% in April, up from 15.4% in March, with prices rising 2.1% on the month."
+    },
+    {
+      "id": "4890672",
+      "time": "2026-05-20 21:20:41",
+      "tags": [
+        "資料"
+      ],
+      "text": "BIGBEAR.AI與International Shipping Compliance宣佈，人工智慧驅動的供應鏈安全平臺首次落地巴拿馬乾運河專案。"
+    },
+    {
+      "id": "4890669",
+      "time": "2026-05-20 21:20:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "奈及利亞貨幣政策委員會堅信，經濟合作組織相關舉措可助力通脹回落態勢迴歸。"
+    },
+    {
+      "id": "4890667",
+      "time": "2026-05-20 21:19:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "檔案顯示：遊戲驛站(GME.N)已將其在eBay的持股比例從約5%增至6.55%。"
+    },
+    {
+      "id": "4890666",
+      "time": "2026-05-20 21:19:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長阿拉格齊：正如武裝力量在防禦戰場上展現力量一樣，外交機構也將在對話與談判的戰場上，以同樣的力量為捍衛國家利益而行動。"
+    },
+    {
+      "id": "4890665",
+      "time": "2026-05-20 21:18:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國前軍事外交官：伊朗當局意在拖延時間，美方採取更強硬的軍事行動或能迫使伊朗方面作出讓步。"
+    },
     {
       "id": "4890664",
       "time": "2026-05-20 21:18:01",
@@ -141325,41 +141403,6 @@
         "國際"
       ],
       "text": "以色列國防軍稱襲擊了黎巴嫩南部地區的真主黨基礎設施。"
-    },
-    {
-      "id": "mkt:019e2180-9e62-7eee-bb63-f166170e4ff6",
-      "time": "2026-05-13 21:22:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US SEC ENFORCEMENT CHIEF SAYS AGENCY 'ATTUNED TO POTENTIAL RISK' IN PRIVATE FUNDS' LIQUIDITY, FEES, VALUATION AND CONFLICTS OF INTEREST"
-    },
-    {
-      "id": "4878062",
-      "time": "2026-05-13 21:21:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "菲律賓參議院議長：德拉·羅薩參議員目前安全，一切安好。"
-    },
-    {
-      "id": "4878061",
-      "time": "2026-05-13 21:21:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國證券交易委員會執法部門主管表示，對私募基金在流動性、費率、估值以及利益衝突方面的潛在風險保持警覺。"
-    },
-    {
-      "id": "te:markets:550376",
-      "time": "2026-05-13 21:19:29",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Corn Hits 4-week Low — Corn decreased to 442.00 USd/BU, the lowest since April 2026. Over the past 4 weeks, Corn gained 4.93%, and in the last 12 months, it increased 4.34%."
     }
   ]
 }
