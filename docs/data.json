@@ -1,7 +1,71 @@
 {
-  "updated": "2026-05-20 22:41:15",
-  "count": 15784,
+  "updated": "2026-05-20 22:45:05",
+  "count": 15781,
   "items": [
+    {
+      "id": "4890900",
+      "time": "2026-05-20 22:43:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "南非計劃提高鋼鐵關稅以遏制行業危機。"
+    },
+    {
+      "id": "4890899",
+      "time": "2026-05-20 22:43:13",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "俄羅斯總統普京5月20日晚結束對中國的國事訪問，乘專機離開北京。（新華社）"
+    },
+    {
+      "id": "4890898",
+      "time": "2026-05-20 22:42:57",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【歐洲議會和歐盟理事會就落實歐美貿易協議達成一致】歐洲議會和歐盟理事會代表20日在法國斯特拉斯堡就歐盟-美國貿易協議相關立法提案達成一致，同意對美國輸歐產品實施關稅優惠措施，同時強化相關保障機制以維護歐盟及其成員國利益。歐洲議會當天在一份新聞稿中說，歐洲議會與歐盟理事會就歐盟-美國貿易協議的立法文字達成臨時協議，在歐盟委員會原提案基礎上強化多項條款，以應對歐美貿易關係中的不確定性，並加強對歐盟產業、農業及中小企業的保護。（新華社）"
+    },
+    {
+      "id": "te:economy:552356",
+      "time": "2026-05-20 22:42:21",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Crude Oil Stocks Change",
+        "Importance 1"
+      ],
+      "text": "US Oil Stocks Fall More than Expected — Crude oil inventory in the United States sank by 7.9 million barrels in the week ending May 15th to 445 million barrels, well above expectations of a 2.9 million draw, according to data from the Energy Information Administration. The reduction was combined with a 9.9 million barrel draw of the governments Strategic Petroleum Reserve, which are now 6.6% below comparable levels from the previous year as the Department of Energy mitigates the slump in global energy supply since the start of the war in Iran in March. In the meantime, gasoline stocks fell by 1.5 million barrels, and stocks of diesel inched marginally higher."
+    },
+    {
+      "id": "4890897",
+      "time": "2026-05-20 22:41:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源資訊署：美國原油庫存（包括戰略石油儲備）創歷史最大降幅。"
+    },
+    {
+      "id": "4890896",
+      "time": "2026-05-20 22:41:16",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "中華人民共和國和俄羅斯聯邦關於進一步加強全面戰略協作、深化睦鄰友好合作的聯合宣告。（新華社）"
+    },
+    {
+      "id": "4890895",
+      "time": "2026-05-20 22:40:52",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【詹姆斯·默多克將收購Vox Media旗下三大業務部門】數字媒體平臺Vox Media週三表示，詹姆斯·默多克正在收購該公司旗下三個主要業務部門，其中包括《紐約雜誌》和播客網路，這些業務合計覆蓋 數千萬受眾。 該交易由默多克旗下的投資公司Lupa Systems負責執行，這使他在 數字出版商紛紛尋求新增長途徑之際，掌握了這一最具知名度的雜誌品牌之一以及規模可觀的播客業務。 交易還包括Vox新聞平臺，該平臺製作多種格式的內容，包括影片、文字以及《今日解析》（Today， Explained）和《真實的美國》（America， Actually）等播客節目。 “此次收購既體現了我們對文化前沿的關注，也彰顯了我們對有抱負的新聞事業的堅定承諾，”媒體大亨魯珀特·默多克的次子詹姆斯·默多克表示。"
+    },
     {
       "id": "4890894",
       "time": "2026-05-20 22:39:29",
@@ -142063,96 +142127,6 @@
         "Importance 0"
       ],
       "text": "Baltic Dry Index Rises Further on Wednesday — The Baltic Exchange dry index rose 4.1% to 3,189 on Wednesday, the highest since November 2023. The capesize index, which typically transport 150,000-ton cargoes, including iron ore and coal, jumped 5.1% to 5,340. The panamax index, which usually carry 60,000 to 70,000 tons of coal or grain, increased 4% to 2,454. Also, the supramax index gained 1.2% to 1,553."
-    },
-    {
-      "id": "te:markets:550390",
-      "time": "2026-05-13 22:44:55",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Gold Drops as Inflation Fears Reduce Rate Cut Bets — Gold prices fell for a second straight session on Wednesday, slipping to $4,680 an ounce, as rising inflation dimmed expectations for interest rate cuts, while markets are also closely watching the upcoming Trump-Xi meeting. US producer prices surged more than expected in April, marking their biggest gain since early 2022, driven by higher trade and energy costs amid the Iran war. This followed Tuesday’s report showing consumer inflation accelerated to 3.8% last month, the highest since May 2023, leading investors to price out a US rate cut this year, according to CME Group’s FedWatch. While gold is often seen as an inflation hedge, higher interest rates typically weigh on the non-yielding metal. Additionally, India raised import tariffs on gold and silver to 15% from 6%, further dampening demand. Meanwhile, US President Donald Trump’s visit to China will be monitored for any progress on the fragile trade truce and the Iran conflict."
-    },
-    {
-      "id": "4878210",
-      "time": "2026-05-13 22:44:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "北約秘書長呂特：美國在歐洲的軍事存在規模龐大，並將繼續保持。"
-    },
-    {
-      "id": "4878209",
-      "time": "2026-05-13 22:44:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "【劉海星會見亞塞拜然新亞塞拜然黨代表團】5月13日，中共中央對外聯絡部部長劉海星在北京會見由亞塞拜然新亞塞拜然黨副主席兼中央辦公廳主任布達戈夫率領的新阿黨代表團，就共同落實好兩國領導人共識，密切黨際交流對話、推動中阿全面戰略伙伴關係發展等交換意見。（新華社）"
-    },
-    {
-      "id": "te:markets:550389",
-      "time": "2026-05-13 22:43:19",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Gasoline Holds Near 4-Week High — Gasoline futures in the US were above $3.65 per gallon, near the four-year high of $3.75 touched May 4th as the continued tanker blockade in the Persian Gulf prolonged the suspension of oil and fuel supply from the region. The US and Iran remained in an impasse that extended their respective threats on commercial vessels flowing through the Strait of Hormuz. On top of that, US President Trump stated the current ceasefire has grown fragile, dimming the likelihood of an agreement. Energy exports from the key region have been at a standstill since the first week of March, driving global oil inventories to drop at a record pace, per the IEA. Likewise, gasoline stocks in the US sank for the 13th consecutive week in early May even though production inched higher, as refineries have been operating at full capacity with feedstock from the SPR."
-    },
-    {
-      "id": "4878208",
-      "time": "2026-05-13 22:43:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "【千里科技與北汽已簽署框架備忘錄】近日，千里科技籌劃與北汽成立合資公司的訊息引發市場高度關注。據記者瞭解到的最新訊息，雙方已就合作簽署了框架備忘錄，但具體細則尚未落地。（國際金融報）"
-    },
-    {
-      "id": "4878207",
-      "time": "2026-05-13 22:42:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源資訊署（EIA）：最新一週美國從委內瑞拉的進口量升至至少自2024年9月以來的最高水平。"
-    },
-    {
-      "id": "4878206",
-      "time": "2026-05-13 22:42:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "加沙和平委員會高階代表姆拉德諾夫：各方發起的軍事打擊均違反加沙停火協議。"
-    },
-    {
-      "id": "te:economy:550388",
-      "time": "2026-05-13 22:41:48",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Crude Oil Stocks Change",
-        "Importance 2"
-      ],
-      "text": "US Crude Oil Inventories Fall More than Expected — US crude inventories fell by 4.306 million barrels to 452.9 million barrels in the week ended May 8, compared with expectations for a 2.1 million barrel draw. Stocks at the Cushing, Oklahoma hub decreased by 1.702 million barrels. Refinery activity increased, with crude runs rising by 370,000 barrels per day and utilisation rates up 0.5 percentage points. Gasoline inventories dropped by 4.084 million barrels to 215.7 million, exceeding forecasts for a 2.85 million barrel decline. Distillate stocks, including diesel and heating oil, rose by 0.190 million barrels to 102.5 million, versus expectations for a 2.83 million barrel draw. Net US crude imports fell by 318 thousand barrels per day over the week."
-    },
-    {
-      "id": "4878205",
-      "time": "2026-05-13 22:41:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "【影石創新中國區零售創新發展中心落地南京市棲霞區】據南京日報，5月13日，南京市棲霞區人民政府與影石創新簽訂中國區零售創新發展中心合作協議，市有關部門、棲霞區與影石創新簽訂智慧影像應用場景創新合作協議。此次合作，影石創新將繼續擴大在南京的產業佈局，透過中國區零售創新發展中心統籌影石系列產品的零售業務管理、渠道升級，並與南京相關單位聯合打造無人機等標杆應用場景，推動前沿技術成果落地轉化、示範推廣。"
-    },
-    {
-      "id": "4878204",
-      "time": "2026-05-13 22:41:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "據菲律賓媒體報道，菲總統馬科斯13日稱未下達逮捕參議員德拉羅薩的指令，並表示政府並未策劃此事。“我們不清楚何人試圖闖入參議院，將會調查真相。”（新華國際）"
     }
   ]
 }
