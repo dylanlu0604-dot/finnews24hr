@@ -1,7 +1,74 @@
 {
-  "updated": "2026-05-20 13:22:11",
-  "count": 15634,
+  "updated": "2026-05-20 13:26:14",
+  "count": 15638,
   "items": [
+    {
+      "id": "4889501",
+      "time": "2026-05-20 13:23:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼經濟部長：出口收入新規將於6月1日生效。"
+    },
+    {
+      "id": "4889500",
+      "time": "2026-05-20 13:23:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【習近平將同俄羅斯總統普京共同會見記者】據央視新聞，5月20日，國家主席習近平將在北京人民大會堂同俄羅斯總統普京會談後共同會見記者。"
+    },
+    {
+      "id": "mkt:019e43d6-9232-7cc9-b8d6-20a4ca63c546",
+      "time": "2026-05-20 13:23:16",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "PAJ PRESIDENT: MUST CONSIDER MEASURES TO REDUCE OUR DEPENDENCE ON MIDDLE EASTERN CRUDE IN MEDIUM TO LONG TERM"
+    },
+    {
+      "id": "4889499",
+      "time": "2026-05-20 13:22:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本石油協會會長：必須考慮採取措施，在中長期內減少我們對中東原油的依賴。"
+    },
+    {
+      "id": "4889498",
+      "time": "2026-05-20 13:22:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼經濟部長：自然資源出口商必須將收益留在國有銀行。"
+    },
+    {
+      "id": "4889497",
+      "time": "2026-05-20 13:22:08",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國副財長：將減少6月發行的國債數量。"
+    },
+    {
+      "id": "4889496",
+      "time": "2026-05-20 13:21:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度尼西亞經濟部長：自然資源出口收入必須100%存入印尼銀行體系。"
+    },
+    {
+      "id": "4889495",
+      "time": "2026-05-20 13:21:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：俄羅斯將增加鈾礦勘探支出至21億盧布。"
+    },
     {
       "id": "4889494",
       "time": "2026-05-20 13:21:14",
@@ -141086,47 +141153,6 @@
         "市場"
       ],
       "text": "新加坡海峽時報指數上漲1%至4,995.52點。"
-    },
-    {
-      "id": "te:economy:550220",
-      "time": "2026-05-13 13:25:55",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Finland",
-        "Current Account",
-        "Importance 1"
-      ],
-      "text": "Finland Current Account Surplus Widens in March — Finland’s current account surplus widened to EUR 250 million in March 2026, reversing a deficit of EUR 2,451 million a year earlier. The goods account surplus rose to EUR 964 million from EUR 747 million in March 2025, while the primary income balance improved to a surplus of EUR 180 million from a deficit of EUR 2,435 million. The services deficit widened to EUR 681 million from EUR 569 million, while the secondary income deficit widened slightly to EUR 213 million from EUR 205 million a year ago."
-    },
-    {
-      "id": "4876958",
-      "time": "2026-05-13 13:25:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以稱黎南部以軍遭真主黨火箭彈襲擊】今天（5月13日），以色列國防軍稱，黎巴嫩真主黨當天早上向駐紮在黎巴嫩南部的以色列部隊發射了多枚火箭彈。此外，一架疑似真主黨的無人機被攔截。襲擊未造成人員傷亡。目前，黎巴嫩方面尚未對此進行回應。"
-    },
-    {
-      "id": "te:economy:550219",
-      "time": "2026-05-13 13:25:04",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Finland",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Finnish Inflation Rises Near 2-Year High — The annual inflation rate in Finland rose to 1.5% in April 2026 from 1.3% in the previous month. This marked the sharpest increase since May 2024, largely driven by higher transport costs (5.3% vs 3.1% in March), particularly for diesel (35.9% vs 18.3%) and gasoline (16.1% vs 9.2%). Inflation also accelerated for health (3.6% vs 1.9%), information and communication (5.2% vs 4.8%), and education services (11.5% vs 11.1%), while alcoholic beverages and tobacco remained steady at 3.6%. Meanwhile, costs for insurance and financial services (-3.1% vs -3.4%) and housing and utilities (-0.3% vs 1.2%) declined, although heating oil costs surged further (72% vs 41.7%). On a monthly basis, consumer prices rose 0.1%, slowing from a 0.7% increase in March. Harmonized consumer prices, the ECB’s preferred measure, increased 2.4% year-on-year, slightly easing from 2.5% in the previous month."
-    },
-    {
-      "id": "4876957",
-      "time": "2026-05-13 13:23:25",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【國債期貨拉昇 30年期主力合約漲超0.2%】國債期貨拉昇，30年期主力合約盤中漲0.20%，現報113.180元。10年期漲0.08%，現報108.825元。5年期漲0.08%，現報106.34元。2年期漲0.03%，現報102.586元。"
     }
   ]
 }
