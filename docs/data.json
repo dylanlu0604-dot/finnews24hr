@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-21 03:41:22",
-  "count": 15698,
+  "updated": "2026-05-21 03:45:19",
+  "count": 15692,
   "items": [
     {
       "id": "4891175",
@@ -141252,62 +141252,6 @@
         "國際"
       ],
       "text": "市場訊息：美國五角大樓再度加緊推進計劃，擬三年內快速採購1 萬枚低成本巡航導彈。"
-    },
-    {
-      "id": "mkt:019e22df-46d0-7dd0-a6aa-8f982218acef",
-      "time": "2026-05-14 03:45:18",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "APOLLO GLOBAL MANAGEMENT INC. AND MORGAN STANLEY HAVE BEGUN USING GROK INTERNALLY ALONGSIDE SOFTWARE FROM OTHER AI MODEL MAKERS"
-    },
-    {
-      "id": "4878611",
-      "time": "2026-05-14 03:45:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "在美國發生加拿大快運航空致命碰撞事故後，美國聯邦航空管理局（FAA） 將投入 1650 萬美元，為旗下所有機場車輛全部加裝應答機。"
-    },
-    {
-      "id": "mkt:019e22de-f4a7-7dd0-a6aa-869ab90335f0",
-      "time": "2026-05-14 03:44:57",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "DRONE STRIKE HITS IRANIAN OPPOSITION CAMP NORTH OF IRAQ’S ERBIL - SECURITY SOURCES"
-    },
-    {
-      "id": "mkt:019e22de-c933-7dd0-a6aa-7c941f662154",
-      "time": "2026-05-14 03:44:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "PENTAGON SEEKS CHEAPER CRUISE MISSILES AFTER WAR DRAIN - WSJ"
-    },
-    {
-      "id": "mkt:019e22de-9597-7dd0-a6aa-70ceda3f644a",
-      "time": "2026-05-14 03:44:33",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "MUSK’S XAI RACES TO GET WALL STREET FIRMS TO USE GROK CHATBOT"
-    },
-    {
-      "id": "4878610",
-      "time": "2026-05-14 03:43:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：馬斯克旗下 xAI 正全力爭取華爾街金融機構採用 Grok 聊天機器人。"
     }
   ]
 }
