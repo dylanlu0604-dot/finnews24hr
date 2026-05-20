@@ -1,7 +1,71 @@
 {
-  "updated": "2026-05-20 15:06:31",
-  "count": 15668,
+  "updated": "2026-05-20 15:10:24",
+  "count": 15669,
   "items": [
+    {
+      "id": "4889658",
+      "time": "2026-05-20 15:09:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "美方希望烏克蘭協助放寬對白俄羅斯鉀肥的相關限制。"
+    },
+    {
+      "id": "4889657",
+      "time": "2026-05-20 15:09:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【軟銀創始人孫正義對OpenAI的集中押注日益引發擔憂】軟銀集團去年開始向OpenAI投入鉅額資金時，一些高管曾詢問孫正義，如果這家ChatGPT開發商失敗——即便機率極低——會發生什麼。據知情人士稱，曾表示相信薩姆·奧特曼正在引領本世紀最重要的技術變革的孫正義，多次以相當生硬的態度駁回此類問題，以至於他的副手們後來不再提出類似擔憂。然而，競爭對手Anthropic近期取得突破性進展，引發金融市場對這家由奧特曼聯合創立的公司的質疑，而該公司正準備最早於今年上市。一些軟銀高管對公司不斷擴大對OpenAI的投入—目前已超過600億美元—感到焦慮，同時也擔心領導層對奧特曼近乎“追星式”的信任。"
+    },
+    {
+      "id": "4889655",
+      "time": "2026-05-20 15:07:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【階躍星辰與金蝶達成戰略合作】5月20日，階躍星辰與金蝶正式達成戰略合作。雙方將圍繞模型平臺、產品研發、生態共建等方向展開深度合作，共同探索下一代 Agent 企業產品形態。"
+    },
+    {
+      "id": "te:markets:552171",
+      "time": "2026-05-20 15:07:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "UK Natural Gas Prices Remain Near 6-Week High — UK natural gas futures fell toward 126 pence per therm but remained close to a six-week high, amid persistent uncertainty over the duration of supply disruptions in the Middle East. Diplomatic efforts for a peace deal between the US and Iran remained stalled, keeping tensions elevated around the Strait of Hormuz. Investors are closely monitoring shifting signals from President Donald Trump regarding potential military action against Tehran, which raised concerns about a potential return to active hostilities. Roughly one-fifth of global LNG supply has been disrupted since the conflict began in late February, with the escalation also affecting key LNG production assets in Qatar. This has heightened concerns in Europe, as the region works to replenish gas storage ahead of next winter."
+    },
+    {
+      "id": "4889654",
+      "time": "2026-05-20 15:07:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "埃利奧特向日本通運提出的改革方案包含資產出售舉措。"
+    },
+    {
+      "id": "4889653",
+      "time": "2026-05-20 15:06:42",
+      "tags": [
+        "行業",
+        "公司"
+      ],
+      "text": "【中汽協： 2026年1-4月，銷量排名前十位的SUV生產企業共銷售313.7萬輛，佔SUV銷售總量的65.1%】據中國汽車工業協會統計分析，2026年1-4月，銷量排名前十位的SUV生產企業共銷售313.7萬輛，佔SUV銷售總量的65.1%。在上述十家企業中，與去年同期相比，比亞迪股份和長安汽車銷量呈不同程度下降，其他企業銷量呈不同程度增長。"
+    },
+    {
+      "id": "te:economy:552170",
+      "time": "2026-05-20 15:06:36",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Hungary",
+        "Wage Growth",
+        "Importance 1"
+      ],
+      "text": "Hungary Gross Wage Growth at 3-Month Low — Hungary’s gross average wages rose 9.2% year-on-year to HUF 779,800 in March 2026, marking the slowest pace of growth since December 2025 and easing slightly from a 9.7% increase in the previous month. Wage growth in the public sector slowed to 11.8% from 13.4% in February, while earnings growth also moderated in the non-profit (10.1% vs 10.3%) and private sectors (8.4% vs 8.6%). Excluding one-off payments and bonuses, gross wages increased 9% from a year earlier to HUF 706,900 in March. In the first three months of 2026, average gross wages rose 14.9% year-on-year to HUF 781,900 compared to the same period of the previous year."
+    },
     {
       "id": "4889652",
       "time": "2026-05-20 15:05:05",
@@ -141344,67 +141408,6 @@
         "Important"
       ],
       "text": "ZHIPU JUMPS 30%, WITH TURNOVER NEARING HK$2.5BN"
-    },
-    {
-      "id": "4877111",
-      "time": "2026-05-13 15:09:15",
-      "tags": [
-        "公司",
-        "其他",
-        "焦點"
-      ],
-      "text": "【港股智譜漲幅擴大至30%】港股智譜漲幅擴大至30%，最高報1095港元。"
-    },
-    {
-      "id": "mkt:019e202b-0ade-755a-b974-24a75e652967",
-      "time": "2026-05-13 15:09:12",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Crypto Concepts",
-        "Bitcoin",
-        "Impact bullish",
-        "Ethereum"
-      ],
-      "text": "【Top Crypto Stories of PAST 24 Hours - MKTNews】 Crypto / Bitcoin / Stablecoins - Charles Schwab launches spot BTC and ETH trading for select retail clients. - JPMorgan launching second tokenized money market fund on Ethereum. - Coinbase adds Solana-backed loans through Morpho, allowing borrowing up to $100,000. - Spot XRP ETFs record largest single-day inflow since January at $26 million. - Bitcoin dominance rebounds above 58%, signaling crypto market consolidation. - Starknet launches strkBTC to bring ZK-powered shielded bitcoin to its Layer 2 network. - Bhutan’s Gelephu Mindfulness City launches fast-track licensing for regulated crypto firms. Markets / ETFs / Institutional - First-ever Hyperliquid ETF launches with a “very solid” first trading day, analyst says. - Franklin Templeton and Kraken parent company exploring new onchain investments. - Blockchain analytics firm Elliptic closes $120M Series D with Deutsche Bank and Nasdaq backing. - TD Cowen sees 106% upside in Sharplink tied to Ethereum demand shift. - Bernstein reiterates bullish targets on Figure and Circle amid tokenization growth. Regulation / Legal - CFTC backs Kalshi in Ohio prediction markets jurisdiction fight. - Labor unions oppose Senate crypto bill ahead of committee markup. - Poland lawmakers debate crypto bills as PiS submits separate ban proposal. - Bitcoin Fog appeal tests DOJ argument that global crypto services fall under U.S. law. Industry / Corporate - Kelp DAO and Aave to resume rsETH operations as recovery from $292M exploit advances. - Ethereum Foundation launches support for Clear Signing crypto security solution. - eToro Q1 crypto revenue falls to $2.15B from $3.5B a year earlier. - Exodus posts wider Q1 loss as revenue drops 37%. - Former bitcoin miner Bitfarms reports $145M Q1 net loss amid AI transition."
-    },
-    {
-      "id": "4877110",
-      "time": "2026-05-13 15:09:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "香港金管局：銀行與保險的跨行業背景查核安排首階段將於今年7月實施；首階段涵蓋所有銀行和保險機構的壽險保險從業員。"
-    },
-    {
-      "id": "4877109",
-      "time": "2026-05-13 15:08:25",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【經濟學家：印度外匯儲備緩衝仍充足 足以捍衛盧比】經濟學家表示，印度外匯儲備實力雄厚，足以抵禦伊朗局勢引發的油價衝擊、為本幣盧比提供支撐。測算顯示，在進口覆蓋率跌至 2013 年水平之前，印度央行可從總額近 6900 億美元的外儲中動用約 1500 億美元。自伊朗局勢衝突爆發以來，印度外匯儲備已縮減 380 億美元；同時，印度央行過往為支撐盧比開展操作，還面臨約 1030 億美元衍生品相關償付義務。"
-    },
-    {
-      "id": "4877108",
-      "time": "2026-05-13 15:07:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "上海寶龍實業發展(集團)有限公司公告稱，“H21寶龍3”、“H21寶龍1”和“H21寶龍2”公佈購回實施結果，合計使用購回資金金額約6710萬元。"
-    },
-    {
-      "id": "te:markets:550258",
-      "time": "2026-05-13 15:06:43",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "ASX 200 Slips for Fourth Session, Down 0.5% at Close — The S&P/ASX 200 lost 40 points or 0.5% to finish at 8,631 on Wednesday, pulling back for the fourth straight session amid broad losses on Wall Street Tuesday following hotter-than-expected inflation readings for April due to higher oil prices from the Middle East conflict. On the fiscal front, the 2026/27 federal budget offers modest cost-of-living relief and sweeping tax reforms, but expect Australia's economic growth to ease to 1.75% and inflation to hit 5% by mid-2026. Meantime, the deficit is projected to widen slightly before returning to a balanced budget in 2034/35. Still, losses were capped by hopes that the upcoming meeting between U.S. President Trump and China's leader Xi Jinping could help ease global tensions. Financials dropped sharply while healthcare and consumer durables fell modestly. The big four banks plunged between 1.5% to 10.4% amid notable losses from Paladin Energy (-12.0%), Eagers Automotive (-2.2%), and Codan Ltd.(-1.0%)."
     }
   ]
 }
