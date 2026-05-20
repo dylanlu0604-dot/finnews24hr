@@ -1,7 +1,70 @@
 {
-  "updated": "2026-05-21 01:11:38",
-  "count": 15733,
+  "updated": "2026-05-21 01:15:30",
+  "count": 15734,
   "items": [
+    {
+      "id": "4891063",
+      "time": "2026-05-21 01:14:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人：伊朗願與其他沿岸國家協作，制定海上安全航運通行相關規程。"
+    },
+    {
+      "id": "mkt:019e4661-48ce-7bb5-8186-77654ba074b0",
+      "time": "2026-05-21 01:14:01",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "IRAN'S FOREIGN MINISTRY SPOKESPERSON SAYS IRAN READY TO DEVELOP PROTOCOLS FOR SAFE SHIPPING TRAFFIC IN COOPERATION WITH OTHER COASTAL STATES"
+    },
+    {
+      "id": "4891062",
+      "time": "2026-05-21 01:12:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人：伊朗擬聯合阿曼，並協同各專業國際機構，建立保障霍爾木茲海峽持久安全的相關機制。"
+    },
+    {
+      "id": "mkt:019e4660-0c61-7bb5-8186-6eadc01e6cb8",
+      "time": "2026-05-21 01:12:40",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "IRAN'S FOREIGN MINISTRY SPOKESPERSON SAYS SEEKING TO ESTABLISH WITH OMAN, AND IN COORDINATION WITH 'SPECIALIZED INTERNATIONAL BODIES', A MECHANISM TO ENSURE SUSTAINABLE SECURITY IN STRAIT OF HORMUZ"
+    },
+    {
+      "id": "mkt:019e465f-d1f4-7bb9-852e-064f8ce73b71",
+      "time": "2026-05-21 01:12:25",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "ISRAELI BROADCASTING AUTHORITY: NETANYAHU IS TRYING TO CONVINCE TRUMP TO GIVE THE GREEN LIGHT TO RESUME THE WAR ON IRAN"
+    },
+    {
+      "id": "te:markets:552398",
+      "time": "2026-05-21 01:12:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Extend Gains — US stocks rose further on Thursday with support from lower energy prices ahead of Nvidia's earnings results, due to update the state of the AI economy that has supported the stock market this year. The S&P 500, Dow, and Nasdaq 100 were around 1% higher. Satellite data showed three supertankers leaving the Strait of Hormuz with full cargoes as President Trump stated a deal with Iran could come soon, taming concerns of energy inflation. Nvidia gained 2% as it is likely to confirm sharp growth in earnings and orders, but the tone of its guidance is due to impact the whole tech sector in a period where AI spending has carried the US investment last quarter and underpin productivity growth and infrastructure expenditure in coming years. The AI sector was also supported by reports that OpenAI is preparing to file for an IPO as soon as September, paving the way for more AI spending. Meanwhile, TJX and Target were both higher following their results."
+    },
     {
       "id": "4891061",
       "time": "2026-05-21 01:09:39",
@@ -141617,57 +141680,6 @@
         "Importance 0"
       ],
       "text": "Apple traded above 300 USD — Apple increased 1.77 to 300.01"
-    },
-    {
-      "id": "mkt:019e2256-0efb-7dd0-a6a7-eedff2498f38",
-      "time": "2026-05-14 01:15:25",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "USDJPY",
-        "Impact bullish",
-        "DXY",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "YEN FACES NEW PRESSURE AS MARKETS SEE CHANCES FOR US RATE HIKE -NIKKEI"
-    },
-    {
-      "id": "4878422",
-      "time": "2026-05-14 01:15:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場資訊：市場預判美國存在加息可能，日元再度承壓。"
-    },
-    {
-      "id": "4878420",
-      "time": "2026-05-14 01:13:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "瑞士因預定導彈交付將延遲5至7年，考慮放棄美國供應商，另尋其他防空裝備供貨方。"
-    },
-    {
-      "id": "mkt:019e2253-6b9a-7dd0-a6a7-e791ad047b99",
-      "time": "2026-05-14 01:12:32",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "IRAN'S PARLIAMENT NATIONAL SECURITY COMMISSION SPOKESPERSON: WE ARE PREPARED FOR ALL SCENARIOS, AND WE HAVE NO NUCLEAR NEGOTIATIONS WITH AMERICA"
-    },
-    {
-      "id": "4878418",
-      "time": "2026-05-14 01:12:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "黎巴嫩稱，自停火協議生效以來，已有超10000棟房屋被毀或受損。"
     }
   ]
 }
