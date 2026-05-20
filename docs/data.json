@@ -1,7 +1,141 @@
 {
-  "updated": "2026-05-20 14:57:16",
-  "count": 15659,
+  "updated": "2026-05-20 15:02:11",
+  "count": 15655,
   "items": [
+    {
+      "id": "te:markets:552167",
+      "time": "2026-05-20 15:00:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Unilever Stock Price Hits 10-week High — Unilever shares increased to 4936.00 GBp, the highest since March 2026. Over the past 4 weeks, Unilever gained 0.54%, and in the last 12 months, it decreased 9.01%."
+    },
+    {
+      "id": "4889637",
+      "time": "2026-05-20 15:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨午盤收盤】 中證1000指數期貨連續漲0.14%， 滬深300指數期貨連續漲0.11%， 中證500指數期貨連續漲0.64%， 上證50指數期貨連續漲0.32%。"
+    },
+    {
+      "id": "4889636",
+      "time": "2026-05-20 15:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐股開盤漲跌不一，德國DAX指數漲0.38%，英國富時100指數漲0.07%，法國CAC40指數跌0.07%，歐洲斯托克50指數漲0.04%，義大利富時MIB指數跌0.65%。"
+    },
+    {
+      "id": "4889635",
+      "time": "2026-05-20 15:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨收盤】集運指數歐線期貨連續漲8.19%，菜油連續漲2.30%，鉑連續跌2.07%，鈀連續跌2.06%，錫連續漲2.05%。"
+    },
+    {
+      "id": "4889634",
+      "time": "2026-05-20 14:59:56",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨連續主力合約日內漲8%，現報2829.00點。"
+    },
+    {
+      "id": "4889633",
+      "time": "2026-05-20 14:59:49",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "倫敦證券交易所集團資料：阿曼股指（.MSX30）下跌 4.2%。"
+    },
+    {
+      "id": "4889632",
+      "time": "2026-05-20 14:59:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【唐人影視嚴正宣告：從未以任何方式參與《監獄來的媽媽》投資】唐人影視釋出嚴正宣告：近期，部分網路資訊將電影《監獄來的媽媽》（以下簡稱“該專案”）與天津唐人影視股份有限公司（以下簡稱“我司”）錯誤關聯，導致眾多業內同仁及公眾詢問。為澄清事實，我司現鄭重宣告： 一、我司與該專案備案資訊中出現的北京盛世唐人影視傳媒有限公司不存在任何形式的關聯。二者是相互獨立的法律主體，絕無任何股權、隸屬或合作關係。 二、我司亦從未以任何方式參與該專案的投資、製作、宣發等事務。 請各方切勿混淆！"
+    },
+    {
+      "id": "mkt:019e442d-c1eb-7cc9-95db-92c2e9a75390",
+      "time": "2026-05-20 14:58:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "XI, PUTIN DID NOT TAKE MEDIA QUESTIONS"
+    },
+    {
+      "id": "4889631",
+      "time": "2026-05-20 14:58:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "德國商業銀行執行長：我們一貫表示，我們對與裕信銀行展開談判持開放態度；這些條款包含給予股東的溢價，也是對我們商業模式優勢的認可；我們的訴求必須得到重視。"
+    },
+    {
+      "id": "mkt:019e442d-2496-7cc9-95db-8f18dd526d0d",
+      "time": "2026-05-20 14:57:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UN GUTERRES: I WILL INSIST THAT THE US PAY ITS DEBTS TO THE UN"
+    },
+    {
+      "id": "mkt:019e442d-233f-7cc9-95db-82479ae49e95",
+      "time": "2026-05-20 14:57:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "PUTIN: RUSSIA AND CHINA PLAY STABILISING ROLE ON INTERNATIONAL STAGE"
+    },
+    {
+      "id": "mkt:019e442d-21e5-7cc9-95db-7d32d45693e3",
+      "time": "2026-05-20 14:57:22",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "CHINA'S XI: CHINA, RUSSIA TO LEVERAGE THE ROLE OF ENERGY AND RESOURCE CONNECTIVITY FOR COOPERATION"
+    },
+    {
+      "id": "mkt:019e442d-208f-7cc9-95db-7283460da4c8",
+      "time": "2026-05-20 14:57:17",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "KREMLIN DOES NOT EXCLUDE PUTIN-TRUMP MEETING AT APEC SUMMIT IN CHINA - IFX"
+    },
+    {
+      "id": "mkt:019e442d-1f36-7cc9-95db-6d76108bd248",
+      "time": "2026-05-20 14:57:09",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "UN GUTERRES PRESIDENT: TRUMP'S VISIT TO CHINA ACHIEVED NO MAJOR BREAKTHROUGHS"
+    },
+    {
+      "id": "mkt:019e442c-68db-7cc9-95db-676f69d30474",
+      "time": "2026-05-20 14:56:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "PUTIN: RUSSIA AND CHINA ARE COMMITTED TO INDEPENDENT FOREIGN POLICY"
+    },
     {
       "id": "mkt:019e442c-1ab1-7cc9-95db-5feaba7436e2",
       "time": "2026-05-20 14:56:41",
@@ -141155,190 +141289,6 @@
         "A股"
       ],
       "text": "【收評：創業板指漲2.63%創下歷史新高 全市場超3200家個股上漲】截至收盤，上證指數漲0.67%報4242.57點，深證成指漲1.67%報16089.75點，創業板指漲2.63%報4038.33點，北證50漲1.34%報1438.46點。三市成交量32642億元，較昨日縮量55億元。板塊題材上，電源裝置、電力、儲存晶片板塊漲幅居前；保險、能源金屬板塊跌幅居前。盤面上，電源裝置持續走高，優優綠能、歐陸通、盛弘股份漲超10%，科士達、中國動力、麥格米特漲停。電力板塊持續走強，京能電力、寧波能源、華電遼能等數只個股漲停。儲存晶片板塊午後持續走高，大普微逼近20CM漲停，聯瑞新材、盛和晶微、鼎龍股份漲超10%，大族鐳射、雅克科技、德明利、三孚股份等數十隻個股漲停。保險板塊持續走弱，中國太保跌超3%。能源金屬板塊走低，*ST威領跌停，永興材料、博遷新材跌超3%。"
-    },
-    {
-      "id": "mkt:019e2024-8e9e-755a-b974-1b7233c415f7",
-      "time": "2026-05-13 15:02:07",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bullish",
-        "SZSE Component"
-      ],
-      "text": "A-SHARES CLOSE HIGHER: SHANGHAI COMPOSITE INDEX +0.67%, SHENZHEN COMPONENT INDEX +1.67%, CHINEXT +2.63%"
-    },
-    {
-      "id": "4877101",
-      "time": "2026-05-13 15:01:59",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【ETF兩市成交額5088.76億元】截至收盤，ETF兩市成交額報5088.76億元，分型別來看，股票型ETF成交額1694億元，債券型ETF成交額2320.21億元，貨幣型ETF成交額235.55億元，商品型ETF成交額77.10億元，QDII型ETF成交額521.80億元。其中，成交額最高的非貨幣型ETF分別是中韓半導體ETF（513310）、滬深300ETF（510300）、科創50ETF（588000），成交額分別為：196.23億元、63.29億元、62.08億元。"
-    },
-    {
-      "id": "4877100",
-      "time": "2026-05-13 15:01:54",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "美國能源部官員上調汽油價格預期，並警告未來數週原油期貨價格大機率維持在每桶 100 美元上方。美國能源資訊署（EIA）最新預測顯示，今年全美零售汽油均價預計達每加侖 3.88 美元，明年均價為每加侖 3.62 美元。"
-    },
-    {
-      "id": "4877099",
-      "time": "2026-05-13 15:01:49",
-      "tags": [
-        "市場"
-      ],
-      "text": "英國國債全線高開；10年期國債收益率下跌4個基點至5.06%。"
-    },
-    {
-      "id": "mkt:019e2024-2f7e-755a-b974-16d485560398",
-      "time": "2026-05-13 15:01:42",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "【China Futures Close Mostly Higher; Container Index Up Over 4%】China’s most active futures contracts close mostly higher, with the containerized freight index (Europe route) up over 4%, while No.20 rubber rises over 3%. Rubber, butadiene rubber and PVC gain over 2%, and international copper climbs nearly 2%. On the downside, coking coal and industrial silicon fall over 2%, while lithium carbonate, live hogs, PX, coke and PTA decline over 1%."
-    },
-    {
-      "id": "4877098",
-      "time": "2026-05-13 15:01:08",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【ETF收評：中韓半導體ETF領漲9.57%，恒生創新藥ETF領跌2.5%】ETF收盤漲跌不一，中韓半導體ETF（513310）領漲9.57%，雲端計算50ETF（560660）漲5.10%，船舶ETF（560710）漲5.05%，恒生創新藥ETF（520500）領跌2.5%，港股通創新藥ETF（520880）跌2.24%，港股通創新藥ETF（159297）跌2.05%。"
-    },
-    {
-      "id": "4877097",
-      "time": "2026-05-13 15:01:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "A股收盤，上證指數漲0.67%，深證成指漲1.67%，創業板指漲2.63%。"
-    },
-    {
-      "id": "4877096",
-      "time": "2026-05-13 15:00:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "土耳其3月份經常賬戶赤字為96.72億美元；預計為-97億美元。"
-    },
-    {
-      "id": "4877095",
-      "time": "2026-05-13 15:00:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "【商品期貨收盤】集運指數歐線期貨連續漲4.25%，20號膠連續漲3.63%，天然橡膠連續漲2.78%，纖維板連續跌2.37%，焦煤連續跌2.35%。"
-    },
-    {
-      "id": "4877094",
-      "time": "2026-05-13 15:00:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "歐股開盤普跌，德國DAX指數跌1.62%，英國富時100指數跌0.04%，法國CAC40指數跌0.95%，歐洲斯托克50指數跌1.48%，義大利富時MIB指數跌1.36%。"
-    },
-    {
-      "id": "4877093",
-      "time": "2026-05-13 15:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【股指期貨午盤收盤】 中證1000指數期貨連續漲1.92%， 滬深300指數期貨連續漲1.20%， 中證500指數期貨連續漲1.72%， 上證50指數期貨連續漲0.21%。"
-    },
-    {
-      "id": "mkt:019e2022-9f6d-755a-b974-0d20f82f5556",
-      "time": "2026-05-13 15:00:00",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "CORRECTED-KUWAIT LOWERS (NOT RAISES) JUNE CRUDE PRICES FOR ASIA – PRICING DOCUMENT"
-    },
-    {
-      "id": "mkt:019e2022-4d78-755a-b974-037f599dc310",
-      "time": "2026-05-13 14:59:39",
-      "tags": [
-        "MKT News",
-        "688256.SS",
-        "Impact bullish"
-      ],
-      "text": "A-SHARE CAMBRICON TURNOVER REACH 20BN YUAN, UP 2.92%"
-    },
-    {
-      "id": "4877092",
-      "time": "2026-05-13 14:59:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【畢馬威中國蔡偉：四大動能支撐二季度中國經濟延續穩健復甦】一季度中國經濟起步有力，GDP(國內生產總值)同比增長5.0%，站穩全年增長目標上沿。儘管面臨地緣衝突延宕升級、國內供強需弱矛盾等的擾動，畢馬威中國經濟研究院院長蔡偉近日在接受記者專訪時指出，但在外需韌性、服務消費拉動、新動能加速成長、政策靠前發力等多重因素支撐下，二季度中國經濟有望延續穩健復甦態勢。日前，畢馬威釋出的二季度《中國經濟觀察》報告認為，二季度外需韌性仍存。中國一季度出口同比增長11.9%；4月出口同比增速加快至14.1%，較3月顯著提升，增幅超市場預期。蔡偉表示，全球人工智慧產業鏈的高景氣，持續拉動中國積體電路等產品出口。(中新網)"
-    },
-    {
-      "id": "te:economy:550254",
-      "time": "2026-05-13 14:59:05",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "France",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "France April Inflation Confirmed at 2.2% — France’s annual inflation rose to 2.2% in April 2026 from 1.7% in March, confirming preliminary estimates and marking its highest level since July 2024. The pickup was mainly driven by energy prices, which surged 14.3% (vs 7.4% in March), reflecting a sharp rise in petroleum products (31.4% vs 18.1%) linked to the Middle East conflict. Services inflation also edged up to 1.8% from 1.7%. In contrast, food inflation slowed to 1.2% from 1.8%, while prices of manufactured goods continued to decline (-0.6% vs -0.5%). On a monthly basis, CPI rose 1.0%, unchanged from March, driven by increases in seasonal services (1.2%) and higher energy prices (4.7%), especially petroleum products (8.2%), while food rose slightly and manufactured goods were stable. Core inflation increased to 1.2% from 1.1%. Meanwhile, EU-harmonized inflation rose to 2.5%, marking the first time since August 2024 that France has exceeded the ECB’s 2% target."
-    },
-    {
-      "id": "4877091",
-      "time": "2026-05-13 14:58:47",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "【莫迪的緊縮政策加劇了市場對印度股市的悲觀情緒】印度總理莫迪推動限制燃油和黃金消費的舉措，加劇了印度本已疲軟的股市的不確定性，並引發了人們的擔憂，即旨在保護經濟的措施最終可能會抑制整體消費支出。週三，印度政府將黃金和白銀的進口稅提高了一倍以上。此前，莫迪呼籲削減非必需品進口，以保護外匯儲備。受中東衝突的影響，投資者對進一步的措施（例如燃油價格上漲）日益擔憂，印度NIFTY指數本週下跌了約3%。Pace 360首席全球策略師戈埃爾表示：“第一輪攻勢已經打響，即對黃金進口徵稅——而且可能還會有更多舉措出臺。”他預計，如果伊朗戰爭持續下去，汽油零售價格將會上漲。“市場對這些宣告反應強烈。地緣政治方面的悲觀情緒再次達到極高水平。”"
-    },
-    {
-      "id": "4877090",
-      "time": "2026-05-13 14:58:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息： 哈薩克 1-4 月原油減產約 500 萬噸。"
-    },
-    {
-      "id": "4877089",
-      "time": "2026-05-13 14:57:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【寒武紀成交額達200億元】寒武紀成交額達200億元，現漲2.92%。"
-    },
-    {
-      "id": "te:economy:550253",
-      "time": "2026-05-13 14:57:21",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Hungary",
-        "Industrial Production",
-        "Importance 1"
-      ],
-      "text": "Hungary Industrial Output Growth Confirmed at 6.7% — Industrial production in Hungary rose 6.7% year-on-year in March 2026, matching preliminary estimates and rebounding sharply from a downwardly revised 0.9% decline in the previous month. It marked the strongest annual growth since September 2022, driven by broad-based gains across most manufacturing industries (7% vs -0.3% in February), which account for roughly 95% of total industrial output. Production mainly increased for computer, electronic and optical products (21.9% vs 24.6%) and machinery and equipment (20.3% vs 0.8%). In addition, output in mining and quarrying as well as electricity, gas, steam, and air conditioning supply rebounded by 7.5% and 2.3%, respectively, following four consecutive months of decline. On a seasonally and working-day-adjusted basis, industrial output increased by 3.1%, after a 1.8% drop in February. Over the first three months of the year, industrial activity was 1% higher than in the same period last year."
     }
   ]
 }
