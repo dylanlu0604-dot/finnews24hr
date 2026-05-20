@@ -1,7 +1,83 @@
 {
-  "updated": "2026-05-21 04:36:15",
-  "count": 15724,
+  "updated": "2026-05-21 04:40:15",
+  "count": 15731,
   "items": [
+    {
+      "id": "mkt:019e471d-7f9b-7bb5-8188-ebb33f32336b",
+      "time": "2026-05-21 04:39:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "NVDA.O",
+        "Impact bearish"
+      ],
+      "text": "NVIDIA CORP: TO DATE, HAVE NOT GENERATED ANY REVENUE UNDER H200 LICENSING PROGRAM & DO NOT YET KNOW WHETHER ANY IMPORTS WILL BE ALLOWED INTO CHINA"
+    },
+    {
+      "id": "4891224",
+      "time": "2026-05-21 04:39:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達公司：迄今為止，H200晶片授權專案尚未產生任何收入。"
+    },
+    {
+      "id": "mkt:019e471c-c7b9-7bb5-8188-e21048009b59",
+      "time": "2026-05-21 04:38:48",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O"
+      ],
+      "text": "NVIDIA CORP: VERA RUBIN ON TRACK FOR SECOND HALF OF THIS YEAR, STARTING IN Q3 - PRESENTATION"
+    },
+    {
+      "id": "mkt:019e471c-7e93-7bb5-8188-de3ae2c02ceb",
+      "time": "2026-05-21 04:38:30",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "NVIDIA CORP: EXPECT OUR RUBIN PLATFORM TO START SHIPPING IN THE SECOND HALF OF FISCAL YEAR 2027 - FILING"
+    },
+    {
+      "id": "4891223",
+      "time": "2026-05-21 04:38:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達：預計魯賓（Rubin）平臺將於2027財年下半年開始出貨。"
+    },
+    {
+      "id": "4891222",
+      "time": "2026-05-21 04:37:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "穆迪：財政錨不斷弱化與政策目標衝突損害墨西哥政策可信度。"
+    },
+    {
+      "id": "4891221",
+      "time": "2026-05-21 04:37:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "穆迪：財政整合步伐放緩與對墨西哥國家石油公司的持續支援將推遲墨西哥債務企穩程序。"
+    },
+    {
+      "id": "4891220",
+      "time": "2026-05-21 04:36:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "穆迪點評墨西哥評級下調：本次下調反映出財政實力持續走弱，這一態勢在2024年加速，我們預計其還將持續。"
+    },
     {
       "id": "4891219",
       "time": "2026-05-21 04:35:21",
@@ -141573,14 +141649,6 @@
         "Importance 1"
       ],
       "text": "TSX Closes Lower on Hawkish Fed Outlook — The S&P/TSX Composite Index fell 0.7% to close at 34,041 on Wednesday as investors assessed the outlook for restrictive monetary policy and elevated energy prices. The stalling of US-Iran peace talks this week reduced expectations for a reopening of the Strait of Hormuz, while concerns over stagflation pressures and rising bond yields continued to weigh on banks and the broader market. BMO fell 1.4% and Royal Bank of Canada lost 1.2%. Meanwhile, gold prices extended declines after stronger-than-expected US producer prices reinforced expectations of tighter Federal Reserve policy, pressuring mining stocks. Agnico Eagle slipped 0.6% and Barrick dropped 2.1%. Elsewhere, Equinox Gold fell 2.1% after announcing plans to acquire Orla Mining (+0.8%) in a deal that would create a North America-focused gold producer valued at roughly $18.5 billion. Boyd Group slumped 12% after first-quarter sales missed forecasts."
-    },
-    {
-      "id": "4878629",
-      "time": "2026-05-14 04:36:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "受業績預期超預期及裁員訊息提振，思科股價漲幅擴大至 15%。"
     }
   ]
 }
