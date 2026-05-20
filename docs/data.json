@@ -1,7 +1,168 @@
 {
-  "updated": "2026-05-21 02:41:39",
-  "count": 15682,
+  "updated": "2026-05-21 02:45:34",
+  "count": 15697,
   "items": [
+    {
+      "id": "4891131",
+      "time": "2026-05-21 02:44:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：要求伊朗給出百分百圓滿的答覆。"
+    },
+    {
+      "id": "mkt:019e46b4-530f-7bb5-8187-b8c066e8b975",
+      "time": "2026-05-21 02:44:42",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "TRUMP: WILL WAIT FOR IRAN RESPONSE FOR A FEW DAYS"
+    },
+    {
+      "id": "4891130",
+      "time": "2026-05-21 02:44:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：美伊局勢已然瀕臨臨界點，若伊朗問題無法達成滿意結果，局勢將迅速升級。"
+    },
+    {
+      "id": "mkt:019e46b3-ee3f-7bb5-8187-b1ab229425f9",
+      "time": "2026-05-21 02:44:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TRUMP ON IRAN: WE ARE DEALING WITH REASONABLE PEOPLE"
+    },
+    {
+      "id": "te:markets:552409",
+      "time": "2026-05-21 02:44:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Hold Rebound — US stocks rose further on Thursday with support from lower energy prices ahead of Nvidia's earnings results, due to update the state of the AI economy that has supported the stock market this year. The S&P 500, Dow, and Nasdaq 100 were over 1% higher. Three supertankers left the Strait of Hormuz with full cargoes as President Trump stated a deal with Iran could come soon, taming concerns of energy inflation. Nvidia gained 1.5% as it is likely to confirm sharp growth in earnings and orders, but the tone of its guidance is due to impact the whole tech sector as AI spending has carried the US investment last quarter and underpin productivity growth and infrastructure expenditure in coming years. The AI sector was also supported by reports that OpenAI is preparing to file for an IPO as soon as Friday, paving the way for more AI spending. Meanwhile, TJX and Target were both higher following their results. Broader sectors were also higher as yields retreated, despite hawkish Fed minutes."
+    },
+    {
+      "id": "mkt:019e46b3-d16b-7bb5-8187-a8d580640273",
+      "time": "2026-05-21 02:44:05",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "TRUMP: WILL ANNOUNCE SOON ON CUBA OIL EMBARGO"
+    },
+    {
+      "id": "4891129",
+      "time": "2026-05-21 02:43:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及伊朗問題：我們必須達成合意的結果。"
+    },
+    {
+      "id": "mkt:019e46b3-7fdb-7bb5-8187-a119d0755b75",
+      "time": "2026-05-21 02:43:46",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "TRUMP ON IRAN: WE HAVE TO GET THE RIGHT ANSWER"
+    },
+    {
+      "id": "4891128",
+      "time": "2026-05-21 02:42:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：認為在古巴問題上不會升級。"
+    },
+    {
+      "id": "mkt:019e46b2-835e-7bb5-8187-99c75cd432e9",
+      "time": "2026-05-21 02:42:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TRUMP: THERE WON'T BE ESCALATION IN CUBA"
+    },
+    {
+      "id": "4891127",
+      "time": "2026-05-21 02:42:22",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：即將宣佈針對古巴的石油禁運相關舉措。"
+    },
+    {
+      "id": "mkt:019e46b1-edb6-7bb5-8187-92e8b0dbdc18",
+      "time": "2026-05-21 02:42:06",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "TRUMP: WE ARE FREEING UP CUBA"
+    },
+    {
+      "id": "4891126",
+      "time": "2026-05-21 02:42:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：古巴事務並不會成為我們有史以來規模最大的舉措。"
+    },
+    {
+      "id": "mkt:019e46b1-ddc7-7bb5-8187-8b8b76f98b14",
+      "time": "2026-05-21 02:41:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TRUMP: WE HAVE TO HELP CUBAN PEOPLE"
+    },
+    {
+      "id": "mkt:019e46b1-cc14-7bb5-8187-857c2b226201",
+      "time": "2026-05-21 02:41:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【House Republicans Delay Vote on Iran War Powers Resolution】House Republican leaders canceled a planned Wednesday vote on an Iran war powers resolution after concerns the measure could pass because of GOP absences and defections, according to people familiar with the matter. Republicans are now expected to hold the vote Thursday. The delay follows a Senate procedural vote advancing a separate war powers resolution in a setback for Donald Trump’s position on Iran."
+    },
+    {
+      "id": "4891125",
+      "time": "2026-05-21 02:41:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們必須幫助古巴人民。"
+    },
+    {
+      "id": "4891124",
+      "time": "2026-05-21 02:41:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "香港天文臺釋出紅色暴雨警告。"
+    },
+    {
+      "id": "4891123",
+      "time": "2026-05-21 02:41:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們拭目以待古巴後續局勢，該國正日漸走向衰敗。 我們此行旨在援助古巴，幫扶當地民眾與普通家庭。"
+    },
     {
       "id": "mkt:019e46b1-02ac-7bb5-8187-7896fc119e4e",
       "time": "2026-05-21 02:41:05",
@@ -141176,30 +141337,6 @@
         "國際"
       ],
       "text": "美國副總統萬斯：也就是說，我們把800家涉嫌欺詐的醫療機構從聯邦醫保系統中清退，結果居然沒有一家主動聯絡政府說一句“你們搞錯了”？\n美國醫療保險和醫療補助服務中心主任奧茲：我們接到了少量申訴電話。目前還無法確認這些申訴是否屬實，800家裡申訴的還不到20家，而且我們正在對這些申訴逐一核查。\n美國副總統萬斯：簡直難以置信。至少還有780 家機構，連辯解自己沒有欺詐都懶得做？這些機構原本每年能拿到數億美元、甚至數十億美元的聯邦撥款，卻不提供正規醫療服務，只是靠著欺詐中飽私囊。這簡直荒唐至極。"
-    },
-    {
-      "id": "4878564",
-      "time": "2026-05-14 02:44:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯：我認同總統的觀點，伊朗絕不應該擁有核武器。"
-    },
-    {
-      "id": "4878563",
-      "time": "2026-05-14 02:42:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯：我敢肯定，會有一些政客聲稱我們此舉正在損害醫療補助計劃。但我們真正的初衷，是拯救這項計劃，避免其被各州失職官僚拖垮。如果任由數十億美元資金持續外流，沒有用於低收入家庭的醫療服務，反而落入詐騙分子囊中，最終只會徹底毀掉醫療補助計劃。"
-    },
-    {
-      "id": "4878560",
-      "time": "2026-05-14 02:41:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國銀行醫療保健會議：艾伯維高管稱對合並肥胖症相關資產持開放態度。"
     }
   ]
 }
