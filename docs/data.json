@@ -1,7 +1,18 @@
 {
-  "updated": "2026-05-21 06:29:01",
-  "count": 15832,
+  "updated": "2026-05-21 06:32:53",
+  "count": 15831,
   "items": [
+    {
+      "id": "te:markets:552430",
+      "time": "2026-05-21 06:30:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Methanol Spikes by 7.33% — Top commodity gainer is Methanol (7.33%). Biggest losers are Naphtha (-7.08%), Gasoline (-5.39%), Natural Gas EU (-5.37%), Brent Crude Oil (-5.16%) and Crude Oil WTI (-4.77%)."
+    },
     {
       "id": "4891346",
       "time": "2026-05-21 06:27:43",
@@ -142479,25 +142490,6 @@
         "公司"
       ],
       "text": "GameStop 執行長談及 eBay：我很看好這項資產，但運營它的就是一群庸碌無能之輩。"
-    },
-    {
-      "id": "4878675",
-      "time": "2026-05-14 06:32:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "【今年累計備案私募證券產品同比增逾50%，私募非傳統策略悄然升溫】第三方機構私募排排網提供的最新資料顯示，截至4月30日，今年以來累計備案私募證券產品5429只，較去年同期的3506只，同比增幅超過50%。這輪備案熱潮中，指數增強產品同比大增81.52%，多資產策略產品同比增幅66.35%，均為近年之最。然而，這輪備案熱潮並非雨露均霑——百億級私募貢獻了超三成的備案量。資金正在向頭部集中，部分創新策略也在悄然吞噬傳統陣地的份額。（中證報）"
-    },
-    {
-      "id": "te:markets:550431",
-      "time": "2026-05-14 06:30:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Heating Oil Plunges by 5.22% — Top commodity losers are Heating Oil (-5.22%), Propane (-3.29%), Gasoline (-2.58%), Brent Crude Oil (-2.17%) and Crude Oil WTI (-1.27%). Gains are led by Ethanol (1.02%), Natural gas (0.79%) and Germany Natural Gas THE (0.60%)."
     }
   ]
 }
