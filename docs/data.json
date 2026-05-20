@@ -1,7 +1,97 @@
 {
-  "updated": "2026-05-20 11:52:46",
-  "count": 15577,
+  "updated": "2026-05-20 11:56:44",
+  "count": 15580,
   "items": [
+    {
+      "id": "mkt:019e4386-baf6-7cc9-b8d5-11981d6bb7e2",
+      "time": "2026-05-20 11:56:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "AUSTRALIA'S S&P/ASX 200 INDEX DOWN AS MUCH AS 1.3% AT 8,497.30 POINTS, LOWEST LEVEL SINCE APRIL 1"
+    },
+    {
+      "id": "4889364",
+      "time": "2026-05-20 11:55:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【哥倫比亞總統披露：一名參議員的車隊遭武裝販毒分子襲擊】據法新社報道，哥倫比亞總統佩特羅透露，該國一名參議員的車隊19日在哥倫比亞西部考卡省的泛美公路上遭到武裝販毒分子襲擊。佩特羅在社交媒體X上發文稱，出於安全考慮，參議員亞歷山大·洛佩斯在行程伊始便更換了車輛，該車行駛在其常用車輛前方。法新社進一步披露，洛佩斯以往乘坐的這輛車遭槍擊。此外，當地一名市長的車輛也遭到襲擊。二人都是從同一地點出發的。佩特羅補充稱，泛美公路必須被監控，並應具備應對無人機的反制能力。"
+    },
+    {
+      "id": "mkt:019e4386-51ff-7cc9-b8d5-0de79b4ebe8c",
+      "time": "2026-05-20 11:55:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "INDONESIA PRESIDENT: OUR GROWTH IN THE PAST SEVEN YEARS WAS GOOD ENOUGH, BUT POVERTY IS STILL RISING"
+    },
+    {
+      "id": "mkt:019e4386-03d1-7cc9-b8d5-07ccc430073f",
+      "time": "2026-05-20 11:55:16",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Microsoft",
+        "NVIDIA"
+      ],
+      "text": "【OpenAI Commits $234 Million for New AI Lab in Singapore】OpenAI will invest more than S$300 million ($234 million) to establish an applied AI lab in Singapore under a multiyear partnership with the government, marking its first such lab outside the US. The initiative will expand OpenAI’s Singapore-based technical team to over 200 roles over the next few years. The company, backed by Microsoft and Nvidia, said the lab will support AI deployment in public services, finance, healthcare and digital infrastructure, while also working with local startups."
+    },
+    {
+      "id": "4889362",
+      "time": "2026-05-20 11:55:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼總統：過去七年我國經濟增速表現尚可，但貧困率仍在持續上升。"
+    },
+    {
+      "id": "mkt:019e4385-6abf-7cc9-b8d4-ff96a6bfcf6b",
+      "time": "2026-05-20 11:54:37",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "U.S. COMMITTED TO LIFTING AUTOMATIC DETENTION MEASURES IMPOSED ON CHINESE DAIRY PRODUCTS SINCE 2008, CHINA COMMERCE MINISTRY SAYS"
+    },
+    {
+      "id": "mkt:019e4385-03a0-7cc9-b8d4-f6271ffbf9a3",
+      "time": "2026-05-20 11:54:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "【Hong Kong Targets July Launch for New Gold-Clearing System】Hong Kong is planning to launch a new government-backed gold-clearing system by July, according to people familiar with the matter, as part of its push to become a global bullion trading hub. The system will mirror London’s clearing infrastructure and support unallocated gold accounts, allowing faster and more scalable settlement without requiring ownership of specific bars. The initiative is designed to strengthen Hong Kong’s role in gold trading, financing and storage, with invitations extended to China-friendly central banks and participation from major banks including ICBC, Bank of China, HSBC, JPMorgan and UBS. Hong Kong has also signed a cooperation agreement with the Shanghai Gold Exchange and plans to expand gold storage capacity to 2,000 tons within three years. The Financial Services and the Treasury Bureau said preparations are in the final stage, with trial operations expected within the year."
+    },
+    {
+      "id": "4889360",
+      "time": "2026-05-20 11:53:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼總統：我國雖是大宗商品出口大國，但相關收入佔國內生產總值比重偏低。"
+    },
+    {
+      "id": "mkt:019e4383-d434-7cc9-b8d4-ea68fff7fec1",
+      "time": "2026-05-20 11:52:53",
+      "tags": [
+        "MKT News",
+        "Commodities"
+      ],
+      "text": "INDONESIA PRESIDENT: WE ARE A BIG COMMODITY EXPORTERS, BUT OUR INCOME TO GDP RATIO IS LOW"
+    },
     {
       "id": "4889359",
       "time": "2026-05-20 11:52:08",
@@ -140585,57 +140675,6 @@
         "其他"
       ],
       "text": "嵐圖汽車：嵐圖泰山X8 5月22日震撼上市。"
-    },
-    {
-      "id": "4876868",
-      "time": "2026-05-13 11:56:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【上海研發首艘氫內燃機內河船舶 預計今年下水】從上海市科委獲悉，日前華燦科船舶技術（上海）有限公司自主研發的全球首套內河航運船舶氫內燃機+液態氫油動力系統聯調聯試取得成功。華燦科 800 噸級採用“氫內燃機+有機液態儲氫 ”動力系統的內河航運船舶已計劃開工建造 ，預計將於今年年內完成下水。（一財）"
-    },
-    {
-      "id": "4876867",
-      "time": "2026-05-13 11:55:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【張雪峰公司申請註冊張雪峰團隊商標】天眼查智慧財產權資訊顯示，近日，蘇州研途教育科技有限公司申請註冊多枚“張雪峰團隊”商標，國際分類涉及廣告銷售、網站服務、教育娛樂等，當前商標狀態均為等待實質審查。 該公司成立於2016年1月，法定代表人為康立，註冊資本約921萬人民幣，經營範圍含軟體開發、教育諮詢服務、招生輔助服務、網際網路銷售等，由康立、蘇州研途伍企業管理合夥企業（有限合夥）、張子彪（張雪峰）等共同持股。"
-    },
-    {
-      "id": "4876866",
-      "time": "2026-05-13 11:54:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【野村：泰格醫藥董事及控股股東被立案調查，料股價短期受壓】野村發表報告指，昨日晚，泰格醫藥公告董事兼控股股東葉小平及曹曉春因涉嫌在公司股權變動相關的資訊披露中違反法律法規，已收到中國證監會的立案通知書。該行指，具體立案細節尚待跟進，認為此調查應與兩人過去的股份配售行為及其是否合規有關。值得注意的是，公司中文公告強調兩位控股股東每次配售股份時均已按規定進行公開公告及披露，而英文公告則未提及此點。該行目前尚未能量化兩位控股股東可能面對的法律後果，預計可能為罰款。不論最終結果如何，股價短期內均會受到下行壓力。野村維持泰格醫藥“中性”評級，目標價為28.56港元。"
-    },
-    {
-      "id": "4876865",
-      "time": "2026-05-13 11:53:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【特發資訊：公司有光隔離器相關自研產品，尚未量產和對外銷售】特發資訊5月13日在互動平臺回應投資者提問時表示，公司有光隔離器相關自研產品，尚未量產和對外銷售；“寬溫區MEMS光纖多物理量敏感元件及感測器”專案已完成船舶、地鐵、核電三家應用驗證，透過科技部中期驗收，尚未進入量產階段；公司“基於CPO技術的高密度超薄多芯MPO插芯關鍵技術研究”專案屬於CPO配套技術，目前已經實現量產出貨。"
-    },
-    {
-      "id": "4876864",
-      "time": "2026-05-13 11:53:28",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "印度卡利安珠寶公司股價下跌4.6%。"
-    },
-    {
-      "id": "4876863",
-      "time": "2026-05-13 11:52:52",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【摩根大通將在更廣泛的重組中調整投資銀行高管層】據英國《金融時報》週二援引知情人士的話報道，摩根大通將對其投資銀行的高管職位進行調整，這是該公司更廣泛重組計劃的一部分。此次調整中，客戶覆蓋主管布萊辛（Dorothee Blessing）、全球資本市場主管福萊（Kevin Foley）以及金融機構業務全球聯席主管凱（Jared Kaye）將共同出任全球投資銀行聯席主管。"
     }
   ]
 }
