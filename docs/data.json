@@ -1,7 +1,114 @@
 {
-  "updated": "2026-05-20 14:49:42",
-  "count": 15659,
+  "updated": "2026-05-20 14:53:32",
+  "count": 15665,
   "items": [
+    {
+      "id": "mkt:019e4428-734d-7cc9-95db-50705f3f228e",
+      "time": "2026-05-20 14:52:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SPOT SILVER RISES 2% INTRADAY"
+    },
+    {
+      "id": "mkt:019e4428-466c-7cc9-95db-4ed88faea2c5",
+      "time": "2026-05-20 14:52:11",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "PUTIN: WE HAVE BIG POTENTIAL IN JOINT RENEWABLE ENERGY PROJECTS"
+    },
+    {
+      "id": "mkt:019e4427-9b5f-7cc9-95db-42295021499a",
+      "time": "2026-05-20 14:51:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "PUTIN: WE ARE READY TO CONTINUE SUPPLYING CHINA WITH ENERGY"
+    },
+    {
+      "id": "mkt:019e4427-40e6-7cc9-95db-3d4c193b2252",
+      "time": "2026-05-20 14:51:21",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "PUTIN: ALMOST ALL RUSSIA-CHINA TRADE SETTLEMETS ARE IN ROUBLE-YUAN"
+    },
+    {
+      "id": "4889626",
+      "time": "2026-05-20 14:50:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英國格倫費爾大樓火災近十年後 預計數十人將受刑事指控】英國警方19日說，將提請檢方就2017年格倫費爾大樓火災對57人和20家機構提起刑事指控。這場英國自二戰以來最嚴重的火災造成72人遇難，相關調查歷時近十年仍在繼續，堪稱倫敦警方史上規模最大、最複雜的調查。倫敦警察局表示，警方將在9月底前向檢方移交全部證據卷宗，預計檢方會在明年6月14日火災十週年之前作出指控決定。（央視新聞）"
+    },
+    {
+      "id": "4889625",
+      "time": "2026-05-20 14:50:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲2%，現報75.17美元/盎司。"
+    },
+    {
+      "id": "4889624",
+      "time": "2026-05-20 14:50:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "挪威 4 月石油產量較挪威石油理事會預期高出 7.5%。"
+    },
+    {
+      "id": "mkt:019e4426-1457-7cc9-95db-30b4a592fc2d",
+      "time": "2026-05-20 14:50:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "PUTIN: SIGNED DOCUMENTS AIM FOR CONTINUATION OF ECONOMIC COOPERATION"
+    },
+    {
+      "id": "mkt:019e4425-c610-7cc9-95db-28941f1bb007",
+      "time": "2026-05-20 14:49:46",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "PUTIN: TODAY'S TALKS WERE FRIENDLY, WARM AND CONSTRCUTIVE"
+    },
+    {
+      "id": "4889623",
+      "time": "2026-05-20 14:49:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀突破75美元/盎司，日內漲1.81%。"
+    },
+    {
+      "id": "4889622",
+      "time": "2026-05-20 14:49:44",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美伊衝突美國人多掏3064億油費 美國工資增幅3年首次跑輸通脹】美伊談判陷入僵局，全球油價持續飆升。最新資料顯示，戰爭期間美國人在汽油上的累計開銷同比激增約450億美元（約合3064億元人民幣），吞噬了中低收入家庭的大量薪水。《華爾街日報》指出，汽油價格高企，也導致美國人的薪資增幅在三年來首次跑輸通脹。“美國人的加薪幅度已跟不上日益上漲的生活成本。”加油站也感受到了這種影響。紐約聯邦儲備銀行研究顯示，隨著3月份以來油價飆升，年收入低於12.5萬美元（約合人民幣85萬元）的家庭減少了總體的加油量。"
+    },
     {
       "id": "4889621",
       "time": "2026-05-20 14:49:01",
@@ -141292,57 +141399,6 @@
         "Important"
       ],
       "text": "BESSENT, CHINESE VICE PREMIER HE CONCLUDE TALKS - SOURCE"
-    },
-    {
-      "id": "mkt:019e201c-687a-755a-b973-f41aa55fa69a",
-      "time": "2026-05-13 14:53:08",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "BESSENT, CHINESE VICE PREMIER HE CONCLUDE TALKS - SOURCE"
-    },
-    {
-      "id": "mkt:019e201a-e867-7553-b260-62e0fdbaa29a",
-      "time": "2026-05-13 14:51:34",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "9984.T",
-        "Impact bullish",
-        "ARM.L",
-        "9434.T"
-      ],
-      "text": "【SoftBank Logs Surprise Profit Jump in Boon for Son’s AI Bets】SoftBank Group posted a surprise Q4 profit of ¥1.83 trillion ($11.6 billion), far above the ¥295.2 billion estimate, boosted by valuation gains on its OpenAI stake. Despite losses in holdings like Coupang and Grab amid Middle East turmoil, founder Masayoshi Son is expanding AI bets and plans to raise OpenAI investment to $64.6 billion. SoftBank also benefits from Arm Holdings and its telecom unit, offsetting reliance on OpenAI amid rising competition and missed targets."
-    },
-    {
-      "id": "4877080",
-      "time": "2026-05-13 14:50:51",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超3.1萬億元，較上日此時縮量159億元。"
-    },
-    {
-      "id": "4877079",
-      "time": "2026-05-13 14:50:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "【先導智慧與北京人形機器人創新中心簽署戰略合作協議】據先導智慧訊息，5月13日，先導智慧與國家級具身智慧平臺北京人形機器人創新中心正式簽署戰略合作協議。雙方將攜手推動人形機器人從實驗室走向工業產線規模化落地。"
-    },
-    {
-      "id": "4877078",
-      "time": "2026-05-13 14:49:58",
-      "tags": [
-        "行業",
-        "公司"
-      ],
-      "text": "據中國充電聯盟資料，截至2026年3月31日，滴滴充電額定功率超60kW的直連快充槍佔比達92%。滴滴充電累計服務次數已超19億次。"
     }
   ]
 }
