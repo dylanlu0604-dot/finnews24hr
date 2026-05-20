@@ -1,7 +1,103 @@
 {
-  "updated": "2026-05-20 15:22:00",
-  "count": 15665,
+  "updated": "2026-05-20 15:25:54",
+  "count": 15667,
   "items": [
+    {
+      "id": "4889688",
+      "time": "2026-05-20 15:25:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【佳能印表機全面接入米家APP】5月20日，佳能（中國）有限公司與小米米家聯合宣佈：佳能印表機已正式與小米旗下智慧家居平臺米家達成合作，作為首家與小米展開合作的印表機廠商，佳能旗下多達61款噴墨印表機全面接入米家平臺。"
+    },
+    {
+      "id": "4889686",
+      "time": "2026-05-20 15:24:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏沙科夫稱，威特科夫與庫什納將於未來數週內到訪俄羅斯。"
+    },
+    {
+      "id": "4889685",
+      "time": "2026-05-20 15:23:53",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "【英國國債收益率下跌，受弱於預期的英國通脹資料影響】英國國債收益率下跌，此前4月份低於預期的通脹資料緩解了人們對英國央行未來幾個月可能大幅加息的擔憂。英國4月份同比整體通脹率從3月份的3.3%回落至2.8%。“雖然整體通脹率短期內可能走低，但如果能源成本繼續上升，或者第二輪效應開始顯現，這種回落可能只是曇花一現，這就是風險所在，”Moneyfarm的Richard Flax在一份報告中表示。Tradeweb的資料顯示，10年期英國國債收益率下跌4.6個基點，最新報5.075%。"
+    },
+    {
+      "id": "4889684",
+      "time": "2026-05-20 15:23:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼將基準利率上調50個基點至5.25%；預期為5.00%。"
+    },
+    {
+      "id": "4889683",
+      "time": "2026-05-20 15:23:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "愛爾蘭銀行加入歐洲穩定幣聯盟 Qivalis。"
+    },
+    {
+      "id": "mkt:019e4444-b3e0-7cc9-95db-d235f3bc8bd3",
+      "time": "2026-05-20 15:23:33",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Indonesia | 7-day Reverse Repo Rate (May.20) | actual 5.25% | consensus 5% | previous 4.75%"
+    },
+    {
+      "id": "4889682",
+      "time": "2026-05-20 15:23:22",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "法國央行候任行長穆蘭：我有能力獨立執掌法國央行。"
+    },
+    {
+      "id": "4889681",
+      "time": "2026-05-20 15:22:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "南非主要股指上漲 1%，報 114827.70 點。"
+    },
+    {
+      "id": "4889680",
+      "time": "2026-05-20 15:22:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【南非政府呼籲非洲加強水資源監管】南非水利和公共衛生部副部長戴維·馬洛博19日呼籲非洲國家建立更強有力、更具響應能力的水資源監管體系，以應對氣候變化、快速城市化和基礎設施老化給非洲水資源系統帶來的壓力。（新華社）"
+    },
+    {
+      "id": "mkt:019e4443-538d-7cc9-95db-c8169d0af379",
+      "time": "2026-05-20 15:22:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RUSSIAN MILITARY IS CLOSELY MONITORING SITUATION REGARDING DRONES FLYING THROUGH AIRSPACE OF THE BALTIC STATES AND IS FORMULATING AN APPROPRIATE RESPONSE - TASS CITES KREMLIN SPOKESMAN"
+    },
+    {
+      "id": "te:markets:552177",
+      "time": "2026-05-20 15:21:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Sterling Dips as UK Inflation Cools — The pound traded just under $1.34 as investors assessed the impact of softer-than-expected UK inflation and its implications for the Bank of England’s policy path. Headline inflation fell to 2.8% in April, below the 3.0% forecast and the lowest since March 2025, after the UK energy regulator introduced a price cap on April 1. Both services and core inflation also undershot expectations, though fuel inflation surged to a 2022 high amid the conflict in Iran. This follows Tuesday’s jobs report, which signaled a labor market slowdown: the unemployment rate rose unexpectedly to 5% in Q1 2026, regular wage growth hit its weakest level since late 2020, and job vacancies dropped to their lowest since 2021. The cooler inflation data has led investors to further scale back their bets on BOE rate hikes, with markets now pricing in just two increases by December."
+    },
     {
       "id": "4889679",
       "time": "2026-05-20 15:21:02",
@@ -141283,87 +141379,6 @@
         "國際"
       ],
       "text": "【“硫磺荒”疊加“AI熱”？倫銅衝破14000美元大關】行情資料顯示，LME期銅價格週二上漲約1%，至每噸14100美元附近，逐漸逼近1月份創下的每噸14500美元以上的歷史高點。分析人士指出，作為工業金屬風向標的銅價在最近幾個交易日強勁上漲，這得益於多個因素，包括中國需求的復甦以及中東硫磺供應的緊張——硫酸是某些銅生產工藝中不可或缺的原料。此外，由於銅被廣泛應用於資料中心及其支援的電力基礎設施，隨著AI股票的飆升，銅價與美國股市的關聯度也顯著提高。"
-    },
-    {
-      "id": "4877140",
-      "time": "2026-05-13 15:25:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【東方電氣等成立電力科技公司】企查查APP顯示，近日，東方電氣（正定）電力科技有限公司成立，法定代表人為楊嘉偉，註冊資本為3096.86萬元，經營範圍包含：機械電氣裝置製造；機械電氣裝置銷售；輸配電及控制裝置製造；智慧輸配電及控制裝置銷售等。企查查股權穿透顯示，該公司由河北智峰谷電力科技有限公司、東方電氣旗下東方電氣集團科學技術研究院有限公司等共同持股。"
-    },
-    {
-      "id": "4877139",
-      "time": "2026-05-13 15:24:30",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【經合組織呼籲日本提高生產率和勞動力供應】經合組織表示，在應對人口老齡化和人口減少的長期挑戰之際，日本經濟增長的關鍵在於提高生產率和增加勞動力供應。經合組織秘書長Mathias Cormann表示：“為了應對不斷上升的償債成本和人口老齡化帶來的壓力，日本應保持改革勢頭，以減少公共債務並建立財政緩衝。”Cormann補充道：“減少行政負擔將提高公司生產率，而加強對老年工人和女性的工作激勵將增加勞動力供應。“提高生產率一直是日本首相高市早苗提出的主要增長戰略之一。"
-    },
-    {
-      "id": "4877138",
-      "time": "2026-05-13 15:23:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【俞浩兌現承諾！追覓將邀上萬員工赴上海迪士尼，或花費千萬元】追覓科技將於5月22日 15:30～23:00於上海迪士尼舉辦“追覓日”企業活動，邀請公司員工及相關合作伙伴親赴上海迪士尼。“全員都會去，創始人俞浩也會去。”有追覓內部員工對新浪科技表示。此前，追覓科技創始人俞浩曾在公司群中問道：“可否包場玩迪斯尼，公司全員？”隨後有補充道“感受到大家熱情了，正在聯絡”。（新浪科技）"
-    },
-    {
-      "id": "te:markets:550270",
-      "time": "2026-05-13 15:23:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Steel Retreats as Seasonal Slowdown Looms — Steel rebar futures fell toward CNY 3,200 per ton, pulling back from nine-month highs as expectations of a seasonal slowdown in demand and softer downstream consumption weighed on the market. Mysteel’s latest monthly industry report indicated that construction steel prices in China are likely to face pressure this month due to weakening supply-demand fundamentals. The report also noted that long steel output is expected to increase as improving profit margins encourage domestic steelmakers to raise production, potentially adding downward pressure later in the month as end-user demand weakens, particularly in southern China during the wet season. Still, stronger-than-expected economic data from China provided some support to sentiment, with exports surging to a record high in April as companies accelerated stockpiling of components amid concerns that the Iran conflict could further raise input costs."
-    },
-    {
-      "id": "4877137",
-      "time": "2026-05-13 15:23:10",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "匈牙利央行表示：外匯互換工具的利率將從5.75%下調至5.25%，其餘所有引數保持不變。"
-    },
-    {
-      "id": "4877136",
-      "time": "2026-05-13 15:23:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "SK Innovation：近期油價上漲或可提振電動汽車需求，但長期電動汽車需求將更多取決於地區政策與車企的銷售策略。"
-    },
-    {
-      "id": "4877135",
-      "time": "2026-05-13 15:22:56",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【日媒：日本零食廠商因石腦油匱乏部分停產，業內人士質疑日本政府說法與實際有差距】據日本共同社5月13日報道，日本食品生產公司“野村煎豆加工店”當天接受採訪時表示，由於包裝材料供應短缺，該公司旗下部分商品停產。據報道，該公司主力產品為餅乾，其旗下“超大號包裝餅乾”已於4月23日停產，另一種4袋一組包裝的餅乾也將於6月1日停產。（環球網）"
-    },
-    {
-      "id": "em:qqyh_mlc:202605133735852246",
-      "time": "2026-05-13 15:22:49",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【瑞銀預計美聯儲將分別於2026年12月和2027年3月各降息25個基點】瑞銀預計美聯儲將分別於2026年12月和2027年3月各降息25個基點，此前預期為今年9月和12月降息。"
-    },
-    {
-      "id": "4877134",
-      "time": "2026-05-13 15:22:25",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "匈牙利央行表示：自即日起，其常規外匯互換工具的定價將重新設定為比現行基準利率低100個基點。"
     }
   ]
 }
