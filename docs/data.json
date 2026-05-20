@@ -1,7 +1,121 @@
 {
-  "updated": "2026-05-20 14:06:59",
-  "count": 15641,
+  "updated": "2026-05-20 14:11:06",
+  "count": 15646,
   "items": [
+    {
+      "id": "te:economy:552141",
+      "time": "2026-05-20 14:10:10",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Core Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "UK Core Inflation Lowest in Near 5 Years — The UK’s annual core inflation rate eased to 2.5% in April 2026 from 3.1% in the prior month, slightly below market expectations of 2.6%. It marked the lowest reading since July 2021, largely due to a sharp slowdown in core services inflation, which cooled to 3.2% from 4.5% in the previous month. Meanwhile, goods inflation accelerated to 2.4% from 2.1%, indicating persistent price pressures in consumer goods. On a monthly basis, core consumer prices rose 0.7%, easing short of forecasts for a 0.8% increase but picking up from March’s 0.6% gain. The latest figure marked the third straight monthly rise and the fastest monthly pace in a year."
+    },
+    {
+      "id": "4889554",
+      "time": "2026-05-20 14:10:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "據INTERTEK統計，馬來西亞5月1日至20日棕櫚油出口量為761,517噸。"
+    },
+    {
+      "id": "te:economy:552140",
+      "time": "2026-05-20 14:10:04",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Germany",
+        "Producer Prices Change",
+        "Importance 1"
+      ],
+      "text": "German Producer Inflation Hits Nearly 3-Year High — Producer prices in Germany rose 1.7% year-on-year in April 2026, recovering from a 0.2% decline in March and marking the first increase since February last year. The reading came in above market forecasts of 1.5% and represented the highest producer inflation since May 2023, mainly driven by higher intermediate goods prices (2.6%) and energy (2.0%). On a monthly basis, producer prices climbed 1.2%, easing from a 2.5% rise in March, which was the largest increase since August 2022 and above the expected 1.0% gain, marking the second straight month of increase."
+    },
+    {
+      "id": "4889553",
+      "time": "2026-05-20 14:09:46",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度巴拉特石油公司高管表示，該公司現有原油庫存可滿足約27天的需求。"
+    },
+    {
+      "id": "te:economy:552139",
+      "time": "2026-05-20 14:09:14",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Inflation Rate",
+        "Importance 2"
+      ],
+      "text": "UK Inflation Rate Hits 13-Month Low — The annual inflation rate in the UK fell to 2.8% in April 2026, more than the expected easing to 3.0% and down from 3.3% in March. This marked the lowest reading since March last year, mainly driven by slower inflation for housing and household services (1.4% vs 5.3% in March), following the introduction of an energy price cap by the UK’s energy regulator on April 1. Transport costs also increased at a softer pace (4.5% vs 4.7%)."
+    },
+    {
+      "id": "4889552",
+      "time": "2026-05-20 14:08:56",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【中東戰火致日本納豆漲價停售】中東緊張局勢導致霍爾木茲海峽航運受阻，高度依賴進口能源的日本因石腦油這一石油衍生品供應短缺而頭疼不已。日本建築、食品加工、日用品生產等行業都已感受到石腦油短缺帶來的衝擊，石腦油短缺問題正以多種形式在日本呈現。石腦油的短缺已經導致日本新建住房面臨延遲交付的窘境。三菱地所的子公司等開發商開始就有關情況向簽約客戶等方面發出通知。在日本福岡，一座房子建造的進度已經落後於計劃，原因是石腦油供應短缺，導致建築材料漲價，甚至無法按時供貨。日本多家食品企業近日宣佈，將更改包裝，減少彩色印刷。同時，因包裝材料和大豆的價格上漲，日本味滋康公司19種納豆產品將自6月起提價6%至20%，另有4種納豆產品本月早些時候已停售。日本大王制紙公司也計劃8月起漲價至少15%，所涉產品包括面巾紙、手紙、廚房用紙、尿布和清潔用品。（央視財經）"
+    },
+    {
+      "id": "4889551",
+      "time": "2026-05-20 14:08:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本首相高市早苗：可能的額外預算主要旨在應對中東局勢。"
+    },
+    {
+      "id": "4889550",
+      "time": "2026-05-20 14:07:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "萊昂納多公司與Edge集團旗下子公司簽訂科威特海軍“多拉”專案海軍系統合同。該交易預估價值約為3.2億歐元。"
+    },
+    {
+      "id": "4889549",
+      "time": "2026-05-20 14:07:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【峰飛航空獲哈薩克AAAG訂單，簽署協議深度合作】5月19日，峰飛航空科技自主研發的2噸級eVTOL（電動垂直起降航空器）在哈薩克阿拉木圖完成演示飛行，在中亞地區首次實現大型eVTOL先進空中交通飛行，標誌著中國高階eVTOL技術與中亞地區低空產業的首次深度對接。本次飛行由峰飛航空與阿拉套先鋒航空集團（Alatau Advance Air Group Ltd.簡稱AAAG）合作推進。此前AAAG已向峰飛航空採購大型eVTOL航空器並支付貨款。飛行儀式現場，雙方簽署合作備忘錄（MOU），AAAG將再向峰飛航空採購50架V2000/V5000系列大型eVTOL機型，用於哈薩克及中亞其他地區的低空交通網路建設；峰飛航空則為AAAG提供涵蓋eVTOL交付、執行培訓、售後維護及市場營銷在內支援。"
+    },
+    {
+      "id": "4889548",
+      "time": "2026-05-20 14:06:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "高市早苗：目前還不方便評論額外預算的規模。"
+    },
+    {
+      "id": "mkt:019e43fe-3f26-7cc9-95da-3a3e765b5e26",
+      "time": "2026-05-20 14:06:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "JAPAN PM TAKAICHI: POSSIBLE EXTRA BUDGET AIMED MAINLY AT RESPONDING TO MIDDLE EAST SITUATION"
+    },
+    {
+      "id": "em:jjsj_ygsj:202605203743334712",
+      "time": "2026-05-20 14:06:27",
+      "tags": [
+        "經濟數據",
+        "英國"
+      ],
+      "text": "【英國4月CPI同比上漲2.8%】英國國家統計局5月20日釋出資料顯示，英國4月CPI同比上漲2.8%，環比上漲0.7%。"
+    },
     {
       "id": "4889547",
       "time": "2026-05-20 14:05:55",
@@ -141103,66 +141217,6 @@
         "公司"
       ],
       "text": "【宇通集團與寧德時代簽署全面戰略合作備忘錄】據寧德時代訊息，5月12日，宇通集團與寧德時代在福建寧德簽署全面戰略合作備忘錄。此次合作將聚焦聯合出海、商用車全場景電動化、重卡換電業務、品牌共建四大核心方向。"
-    },
-    {
-      "id": "4877012",
-      "time": "2026-05-13 14:10:45",
-      "tags": [
-        "市場"
-      ],
-      "text": "【港股AI應用股走強 智譜漲超15%】截至發稿，智譜(02513.HK)漲15%，MINIMAX-W(00100.HK)漲11%，迅策(03317.HK)漲8%。"
-    },
-    {
-      "id": "te:economy:550228",
-      "time": "2026-05-13 14:10:09",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Germany",
-        "Wholesale Prices YoY",
-        "Importance 2"
-      ],
-      "text": "Germany Wholesale Prices Rise the Most in Over 3 Years — Germany’s wholesale prices surged 6.3% year-on-year in April 2026, accelerating from a 4.1% growth in the prior month and marking the 17th consecutive increase. It was also the fastest rise since February 2023, driven by a 37.3 jump in prices of petroleum products and a 40.2% climb in the cost of non-ferrous ores, non-ferrous metals, and related semi-finished products. Prices were also higher for flowers and plants (9.3%) and chemical products (7.3%). In contrast, prices declined for milk, dairy products, eggs, edible oils and edible fats (-7.8%), and coffee, tea, cocoa, and spices (-7.5%). On a monthly basis, wholesale prices increased 2.0%, slowing from March's 2.7% despite exceeding market forecasts of 1%."
-    },
-    {
-      "id": "4877011",
-      "time": "2026-05-13 14:09:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "土耳其表示，土耳其與亞美尼亞之間直接貿易的官方籌備工作已於5月11日完成。"
-    },
-    {
-      "id": "4877010",
-      "time": "2026-05-13 14:09:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "【潤六尺科技：赴華為進行業務交流 探索算力服務國產化現實路徑】潤六尺科技今日官微訊息，5月12日，潤六尺團隊一行應邀赴華為深圳坂田基地進行參觀學習與業務交流。雙方圍繞基於昇騰處理器的國產智算叢集建設、算力運營服務標準化、模型遷移適配及生態協同等核心議題展開了深入探討，為後續推進全面合作奠定了堅實基礎。雙方一致認為，在大模型規模化推理、行業AI Agent落地、區域智算中心建設等多個維度，存在廣闊的合作想象空間。後續雙方將就技術適配、商務模式及合作節奏等具體事項展開進一步溝通。"
-    },
-    {
-      "id": "4877009",
-      "time": "2026-05-13 14:09:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯外長拉夫羅夫：無法想象俄羅斯與印度之間存在分歧。"
-    },
-    {
-      "id": "4877008",
-      "time": "2026-05-13 14:08:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "科威特將6月份對亞洲的原油出口價格定為每桶溢價12.75美元。"
-    },
-    {
-      "id": "4877007",
-      "time": "2026-05-13 14:08:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "【英諾賽科一度漲超20%】英諾賽科(02577.HK)午後繼續衝高，截至發稿漲18%。訊息面上，功率半導體密集漲價。AI資料中心成最大推手，業內預計供需緊張短期難解。此前，英偉達將800V高壓直流架構確立為下一代AI工廠的核心供電方案。這套架構已獲得廣泛支援，包括英諾賽科在內的主流半導體廠商均已宣佈支援800V供電方案。"
     }
   ]
 }
