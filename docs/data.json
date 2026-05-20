@@ -1,7 +1,82 @@
 {
-  "updated": "2026-05-20 08:16:37",
-  "count": 15538,
+  "updated": "2026-05-20 08:20:32",
+  "count": 15540,
   "items": [
+    {
+      "id": "te:economy:552051",
+      "time": "2026-05-20 08:19:37",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "API Crude Oil Stock Change",
+        "Importance 0"
+      ],
+      "text": "US Crude Stockpiles Fall More Than Expected: API — US crude oil inventories fell by 9.10 million barrels in the week ended May 15, 2026, according to the American Petroleum Institute, sharply exceeding expectations for a 3.4 million-barrel draw and following a 2.19 million-barrel decline in the previous week. Despite the weekly draw, total crude stocks are still up 26 million barrels year-to-date. Gasoline inventories dropped by 5.80 million barrels after a 0.50 million-barrel build in the prior week, while distillate inventories fell by 1.00 million barrels, extending recent declines amid already tight seasonal levels. Cushing inventories, the WTI delivery hub, decreased by 1.40 million barrels over the reporting period. The US Strategic Petroleum Reserve recorded a record weekly drawdown of 9.90 million barrels, bringing total SPR stocks to 374.2 million barrels, the lowest since July 2024."
+    },
+    {
+      "id": "te:markets:552050",
+      "time": "2026-05-20 08:19:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Steady Ahead of Nvidia Earnings — US stock futures were little changed on Wednesday as investors awaited Nvidia’s latest earnings results for fresh clues on the strength of artificial intelligence-driven demand. Several other major companies are also scheduled to report quarterly earnings, including The TJX Companies, Analog Devices, Lowe’s, Target and Intuit. In regular trading on Tuesday, the S&P 500 and the Nasdaq Composite fell 0.67% and 0.84%, respectively, extending losses for a third consecutive session. The Dow Jones Industrial Average also declined 0.65% to finish at a two-week low. Six of the 11 major S&P sectors closed lower, with materials, communication services, and consumer discretionary stocks leading the declines. The weakness came as Treasury yields climbed amid mounting inflation concerns, with the US 30-year Treasury yield briefly rising above 5.19%, its highest level in nearly 19 years."
+    },
+    {
+      "id": "4889026",
+      "time": "2026-05-20 08:18:44",
+      "tags": [
+        "資料",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【中信證券：預計美國今年通脹中樞將被明顯推升】中信證券研報稱，美國CPI與PPI資料過熱，通脹壓力超出市場預期，疊加近期美聯儲官員講話強調通脹風險並且暗示未來加息的可能性，推動市場開始price  in 2027年加息的風險，進而導致美債利率在2026年5月11日-15日大幅上升。考慮到美伊衝突長期化的風險在不斷提升，預計美國今年通脹中樞將被明顯推升，需警惕油價上行風險以及通脹壓力將構成美債利率的上行風險。"
+    },
+    {
+      "id": "4889025",
+      "time": "2026-05-20 08:18:29",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信證券：建議把握量化股票、中性、CTA策略的結構性配置機遇】中信證券研報稱，截至2026Q1，量化基金行業實現公私募雙線擴容，公募量化規模4694.5億元、私募量化2.8萬億元，結構與格局呈現鮮明分化。公募集中度下行、中小機構突圍，私募集中度提升、強者恆強凸顯，資金端私募吸金能力顯著優於公募，持倉與交易行為差異源於策略定位不同。業績上，私募量化超額優勢明顯，受市場環境影響，超額短期回升、長期趨於收斂。行業正從規模擴張向質量競爭轉型，策略加速進化，但面臨同質化、對沖成本、監管等多重挑戰。未來需關注頭部機構迭代能力，建議把握量化股票、中性、CTA策略的結構性配置機遇，兼顧收益與風險。"
+    },
+    {
+      "id": "4889024",
+      "time": "2026-05-20 08:17:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數期貨下跌0.4%。"
+    },
+    {
+      "id": "4889023",
+      "time": "2026-05-20 08:17:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣東中山啟動防汛Ⅲ級應急響應 珠海斗門區停課】從廣東省中山市三防指揮部獲悉，目前，中山市三角鎮3小時雨量已達100毫米，預計強降雨仍將持續，中山市氣象臺5月20日6時29分將三角鎮暴雨預警訊號升級為紅色，目前小欖鎮、黃圃鎮、南頭鎮、東鳳鎮、阜沙鎮、板芙鎮、大涌鎮、三角鎮暴雨紅色預警，其餘鎮街暴雨橙色預警繼續生效。根據《中山市防汛防旱防風防凍應急預案》規定，中山市三防指揮部於5月20日5時16分啟動防汛（防暴雨）Ⅲ級應急響應。珠海市氣象臺5月20日7時15分發布訊息，珠海全市雷雨大風黃色預警訊號和全市（除斗門區）暴雨黃色預警訊號已生效，斗門區暴雨紅色預警訊號繼續生效。根據《珠海市斗門區颱風暴雨期間停課聯動工作機制》相關要求，斗門區中、小學校，幼兒園停課（含寄宿制高中、職業學校）。"
+    },
+    {
+      "id": "4889022",
+      "time": "2026-05-20 08:16:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "軟銀集團跌超8%，創4月28日來最大單日跌幅。"
+    },
+    {
+      "id": "4889021",
+      "time": "2026-05-20 08:16:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網自動測定：05月20日08時13分在廣西柳州市柳南區附近（北緯24.37度，東經109.25度）發生3.8級左右地震，最終結果以正式速報為準。"
+    },
     {
       "id": "4889020",
       "time": "2026-05-20 08:15:40",
@@ -140249,61 +140324,6 @@
         "國際"
       ],
       "text": "【穆迪：澳大利亞財政前景料將受到增長放緩風險的影響】穆迪評級的Anushka Shah表示，由於中東衝突導致的供應鏈受阻以及生產率下降，澳大利亞的財政前景預計將受到增長放緩風險的影響。這位高階信用官員在一封電子郵件中表示，國防、醫療健康和氣候變化方面的結構性成本將使這些挑戰進一步複雜化。她說，雖然週二提交的聯邦預算旨在透過節省成本來改善財政和債務前景，但執行將是關鍵，特別是在當前通脹加劇和增長疲軟的環境下。"
-    },
-    {
-      "id": "4876063",
-      "time": "2026-05-13 08:20:09",
-      "tags": [
-        "市場"
-      ],
-      "text": "松下股價下跌8.3%，全年營業收入預期不及預期。"
-    },
-    {
-      "id": "4876062",
-      "time": "2026-05-13 08:19:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "奧林巴斯股價飆升 15%，此前該公司公佈的全年營業利潤預期超出市場預期。"
-    },
-    {
-      "id": "4876060",
-      "time": "2026-05-13 08:19:24",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【經濟日報金觀平：千方百計穩住就業基本盤】就業是最基本的民生，更是經濟社會平穩執行的壓艙石。中央政治局近期召開會議強調“要強化就業優先政策導向”，立足“十五五”開局關鍵節點，為當前和今後一個時期的就業工作劃定重點、指明方向，彰顯了以人民為中心的發展思想和穩增長、保民生的堅定決心。 強化就業優先政策導向，要兼顧產業轉型規律與企業經營實際，推動產業升級與就業擴容同頻共振。  強化就業優先政策導向，要緊跟新質生產力發展腳步，持續開拓就業新領域、新空間。  強化就業優先政策導向，要直面勞動者職場發展的現實痛點，切實解決成長受阻、權益受損等實際難題。  強化就業優先政策導向，必須遵循客觀規律，不能急於求成，更不能弄虛作假。"
-    },
-    {
-      "id": "4876058",
-      "time": "2026-05-13 08:18:21",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "歐洲斯托克50指數期貨上漲0.4%，德國DAX指數期貨上漲0.2%，富時指數期貨上漲0.3%。"
-    },
-    {
-      "id": "te:markets:550114",
-      "time": "2026-05-13 08:18:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Hitachi Stock Price Hits 4-week Low — Hitachi shares decreased to 4773.00 JPY, the lowest since April 2026. Over the past 4 weeks, Hitachi lost 1.55%, and in the last 12 months, it increased 23.46%."
-    },
-    {
-      "id": "4876054",
-      "time": "2026-05-13 08:17:48",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【受美國晶片股下跌和三星談判失敗影響 韓國綜合股價指數跌逾3%】韓國綜合股價指數（Kospi）跌幅一度達 3.1%，連續第二個交易日走低；此前美國晶片股下挫，且三星電子與工會薪資談判宣告破裂。韓聯社報道工會談判破裂後，市場擔憂可能爆發罷工，三星電子股價一度大跌 6.1%。受隔夜美國晶片及人工智慧板塊同行普跌拖累，SK 海力士股價一度下挫 2.9%。韓國創業板科斯達克指數（Kosdaq）小盤股板塊最大跌幅達 2%。"
     }
   ]
 }
