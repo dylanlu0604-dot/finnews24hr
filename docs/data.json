@@ -1,7 +1,132 @@
 {
-  "updated": "2026-05-20 15:56:29",
-  "count": 15675,
+  "updated": "2026-05-20 16:00:35",
+  "count": 15669,
   "items": [
+    {
+      "id": "mkt:019e4466-1603-7cc9-95dc-1f32d41bbc31",
+      "time": "2026-05-20 16:00:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Taiwan | Annual Export Orders (Apr) | actual 48.1% | consensus 45% | previous 65.90%"
+    },
+    {
+      "id": "4889780",
+      "time": "2026-05-20 15:59:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【漢得資訊：不存在直接或間接持有宇樹科技股權的情況】漢得資訊5月20日在互動平臺表示，經公司內部核查並根據公開的官方工商資訊，公司不存在直接或間接持有宇樹科技股權的情況。"
+    },
+    {
+      "id": "4889779",
+      "time": "2026-05-20 15:58:29",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度尼西亞央行行長：若（銀行的）這一比率超出該區間，我們將提供額外流動性激勵。"
+    },
+    {
+      "id": "te:markets:552203",
+      "time": "2026-05-20 15:58:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Rupiah Strengthens After Bank Indonesia Tightens Policy Aggressively — The Indonesian rupiah firmed to around IDR 17,600 per U.S. dollar on Wednesday afternoon after the central bank delivered a larger-than-expected interest-rate hike to reinforce its defense of the currency, which had recently fallen to successive record lows. Bank Indonesia raised borrowing costs by 50bps to 5.25%, marking its first rate increase since 2022. The benchmark rate had been kept at 4.75% since October. The move came as authorities sought to curb mounting pressure on the rupiah amid persistent capital outflows, widening fiscal concerns, dividend repatriation, and rising inflation risks linked to escalating tensions in the Middle East. The central bank had already intensified interventions in both spot and non-deliverable forward (NDF) markets while introducing measures to restore market confidence and limit further currency volatility. Governor Perry Warjiyo signaled policymakers would prioritize stability while also aiming to keep inflation within its target range."
+    },
+    {
+      "id": "4889778",
+      "time": "2026-05-20 15:58:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "瑪莎百貨執行長：英國政府可採取措施緩解零售商成本壓力。"
+    },
+    {
+      "id": "mkt:019e4464-8326-7cc9-95dc-1299784917c8",
+      "time": "2026-05-20 15:58:06",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "PUTIN: WE ARE READY FOR COOPERATION WITH OUR PARTNERS, INCLUDING UNITED STATES, THAT'S WHAT WE DICUSSED WITH CHINA'S XI TODAY"
+    },
+    {
+      "id": "4889777",
+      "time": "2026-05-20 15:58:01",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印尼央行行長：銀行將獲准將其發行的票據計入銀行中介比率中的存款範疇，該比率目標區間仍維持在84%至94%之間。"
+    },
+    {
+      "id": "te:economy:552201",
+      "time": "2026-05-20 15:57:47",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Georgia",
+        "Producer Prices Change",
+        "Importance 1"
+      ],
+      "text": "Georgia Producer Inflation Accelerates — Producer prices in Georgia increased 6.7% year-on-year in April 2026, the most since January 2025, following a 6.5% rise in March. Prices increased faster for manufacturing (5.3% vs 5%), with food products (6.3%) and beverages (5.6%) making the largest contribution. Increases were also seen for electricity, gas, steam and air conditioning (3.7% vs 2%) and water supply, sewerage, waste management and remediation services (6.8% vs 5.5%). On the other hand, a slowdown continued in mining and quarrying (27.6% vs 33%), with metal ores accounting for the biggest gains. Compared to the previous month, the PPI went up 0.5%."
+    },
+    {
+      "id": "4889776",
+      "time": "2026-05-20 15:57:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外交部：中西高層交往進一步深化兩國多領域交往合作】5月20日，外交部發言人郭嘉昆主持例行記者會。有記者就西班牙第二副首相兼勞動與社會經濟大臣迪亞斯訪華提問。郭嘉昆表示，5月17日至20日，西班牙第二副首相兼勞動與社會經濟大臣迪亞斯訪華，在京出席2026年全球貿易投資促進峰會，並赴上海參訪。迪亞斯副首相此訪是繼桑切斯首相4月訪華以來，中西又一重要高層交往，進一步深化了兩國在貿易投資、勞動社會保障等領域交往合作。（央視新聞）"
+    },
+    {
+      "id": "4889775",
+      "time": "2026-05-20 15:57:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度尼西亞貿易部：4月精煉錫出口量為2254.83噸。"
+    },
+    {
+      "id": "4889774",
+      "time": "2026-05-20 15:57:11",
+      "tags": [
+        "宏觀",
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【花旗：印度擬收緊外匯管控 遏制盧比貶值】花旗集團表示，印度或將出臺舉措增持外匯儲備、穩定盧比匯率，其中或包括限制企業資金外流。花旗經濟學家稱，印度有關部門或將出臺政策吸引外資流入，並收緊企業對外投資相關規定。花旗認為印度極有可能落地的舉措包括：收緊印度企業海外直接投資限制、出臺更嚴苛規定要求出口商加快外匯收入匯回國內。"
+    },
+    {
+      "id": "te:markets:552200",
+      "time": "2026-05-20 15:56:27",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "DAX on Cautious Note — Frankfurt's DAX 40 traded near the flatline around 24,400 on Wednesday, amid continued uncertainties around the Middle East conflict and caution ahead of Nvidia's earnings release. Meanwhile, the EU has reached a preliminary agreement on legislation to eliminate import tariffs on US goods as part of last July’s trade deal aimed at avoiding higher US tariffs on EU exports. The spotlight for companies falls on Commerzbank’s annual general meeting, where the proposed takeover by UniCredit is expected to face strong opposition. Siemens Energy, Siemens and Infineon Technologies were among the top performers, rising 2.3%, 1.7% and 1.1%, repsectively."
+    },
+    {
+      "id": "4889773",
+      "time": "2026-05-20 15:56:19",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "市場訊息：日本尼康公司正在考慮利用美國資金進行私有化競標。"
+    },
     {
       "id": "4889772",
       "time": "2026-05-20 15:55:34",
@@ -141272,183 +141397,6 @@
         "Brent"
       ],
       "text": "IEA FORECASTS OPEC+ PRODUCTION TO DECLINE BY 4.7 MLN B/D IN 2026"
-    },
-    {
-      "id": "4877239",
-      "time": "2026-05-13 16:00:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "國際能源署（IEA）稱，4月俄羅斯石油產量同比下降46萬桶/日。"
-    },
-    {
-      "id": "4877238",
-      "time": "2026-05-13 16:00:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "國際能源署（IEA）：受烏克蘭無人機襲擊影響，俄羅斯4月原油產量環比下降14萬桶/日，同比下降46萬桶/日，至880萬桶/日。"
-    },
-    {
-      "id": "mkt:019e2059-fd96-755a-b974-7173f1b18590",
-      "time": "2026-05-13 16:00:28",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "IEA: FORECAST BASED ON ASSUMPTION THAT FLOWS THROUGH HORMUZ GRADUALLY RESUME FROM JUNE"
-    },
-    {
-      "id": "4877237",
-      "time": "2026-05-13 16:00:26",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "國際能源署稱，受伊朗戰爭衝擊，石油庫存以創紀錄的速度下降。"
-    },
-    {
-      "id": "4877236",
-      "time": "2026-05-13 16:00:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "比亞迪表示，義大利已列入海外建廠候選國家短名單。"
-    },
-    {
-      "id": "te:markets:550289",
-      "time": "2026-05-13 16:00:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Crude Oil WTI Drops by 0.95% — Top commodity losers are Crude Oil WTI (-0.95%), Natural Gas UK (-0.88%), Heating Oil (-0.85%) and Brent Crude Oil (-0.82%)."
-    },
-    {
-      "id": "4877235",
-      "time": "2026-05-13 16:00:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：比亞迪正與斯特蘭蒂斯及其他車企洽談，擬接手歐盟汽車工廠。"
-    },
-    {
-      "id": "mkt:019e2059-9877-755a-b974-6b46a39ad53b",
-      "time": "2026-05-13 16:00:02",
-      "tags": [
-        "MKT News",
-        "Important",
-        "S&P500",
-        "Impact bullish",
-        "Hang Seng Index",
-        "CSI300"
-      ],
-      "text": "CHINA, U.S. HAD CANDID, IN-DEPTH, CONSTRUCTIVE EXCHANGES - CHINA STATE MEDIA"
-    },
-    {
-      "id": "mkt:019e2059-88c1-755a-b974-60d9719a043a",
-      "time": "2026-05-13 15:59:59",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "【China AI Stocks Surge as Huang’s Visit Boosts H200 Supply Bets】Shares of Chinese AI developers surged as Nvidia CEO Jensen Huang joined President Trump’s Beijing trip, raising hopes for H200 chip access. MiniMax Group and Zhipu climbed 18% and 38% respectively, driven by expectations that onshore LLMs could benefit from better Nvidia chips. Investors are increasingly focused on AI developments, with Huang’s last-minute addition spotlighting technology ahead of the high-stakes summit."
-    },
-    {
-      "id": "4877234",
-      "time": "2026-05-13 15:59:33",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【中美在韓國舉行經貿磋商】當地時間5月13日，中美經貿中方牽頭人、國務院副總理何立峰與美方牽頭人、美國財政部長貝森特在韓國舉行經貿磋商。雙方以兩國元首重要共識為指引，秉持相互尊重、和平共處、合作共贏的原則，就解決彼此關注的經貿問題和進一步拓展務實合作進行了坦誠、深入、建設性的交流。(新華社)"
-    },
-    {
-      "id": "4877233",
-      "time": "2026-05-13 15:58:37",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【歐洲央行管委Rehn警告 滯脹衝擊已在資料中初見端倪】歐洲央行管委Olli Rehn警告，受伊朗戰爭和能源價格上漲影響，相關資料開始顯示出滯脹跡象。“相關跡象在統計資料中已初見端倪，歐元區第一季度經濟增速僅略高於零，通脹率則加速至3%，”這位芬蘭央行行長週三在一次演講中稱。他強調當前衝擊沒有2022年上一輪價格飆升時那麼嚴重，但表示事態發展已偏離歐洲央行的基線預期，且正朝著”不太樂觀的情景靠攏，至少在油價方面是如此”。"
-    },
-    {
-      "id": "4877232",
-      "time": "2026-05-13 15:58:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "【贛粵高速：4月份車輛通行服務收入約2.81億元】贛粵高速(600269)5月13日公告，公司2026年4月份車輛通行服務收入約2.81億元。"
-    },
-    {
-      "id": "4877231",
-      "time": "2026-05-13 15:57:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "【ST人福：控股子公司鹽酸R - 氯胺酮注射液獲藥物臨床試驗批准】ST人福公告稱，公司控股子公司宜昌人福（公司持股80%）近日收到國家藥監局核准簽發的鹽酸R - 氯胺酮注射液《藥物臨床試驗批准通知書》，同意開展用於具有急性自殺意念或行為的抑鬱症的臨床試驗。國內暫無以R - 氯胺酮為活性成分的相關產品獲批上市。截至目前，宜昌人福在該專案累計研發投入約700萬元。後續需啟動臨床研究，完成後申報生產上市。醫藥產品研發週期長、環節多，有不確定性，公司將及時披露進展。"
-    },
-    {
-      "id": "4877230",
-      "time": "2026-05-13 15:57:45",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "瑞典財政部長透露，瑞典政府將推出規模175億瑞典克朗的能源危機援助方案。"
-    },
-    {
-      "id": "4877229",
-      "time": "2026-05-13 15:57:38",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【花王股份：股價異常波動 一季度淨虧損609萬元】花王股份公告稱，公司股票於2026年5月8日、11日、12日連續3個交易日內日收盤價格漲幅偏離值累計超20%，5月13日再次漲停。2026年第一季度，公司營收1.48億元，淨利潤虧損608.53萬元，扣非淨利潤虧損1208.31萬元。此外，公司證券簡稱將自5月15日起變更為“順景科技”，程式碼保持不變。提醒投資者注意股價波動和經營業績風險。"
-    },
-    {
-      "id": "4877228",
-      "time": "2026-05-13 15:57:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【南方衛材：2025年營收6.01億元 淨虧損1.02億元】南方衛材公告稱，2025年度實現營業收入60051.16萬元，同比減少210.37萬元；淨虧損10171.06萬元，同比增加8895.84萬元；歸屬母公司股東的淨資產為17719.04萬元，基本每股收益-0.35元。公司2025年度擬不進行利潤分配，也不進行資本公積轉增股本。此外，2025年度計提各項資產減值準備2019.77萬元，將減少當年合併報表利潤總額。截至2025年末，公司未彌補虧損超實收股本總額三分之一。"
-    },
-    {
-      "id": "4877227",
-      "time": "2026-05-13 15:57:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普第二任期已發帖超8800次 44次深夜密集發文】自第二任期開始以來，特朗普的Truth Social賬戶粉絲數已從約860萬增長至1260萬。據分析，特朗普——在工作人員協助下——至少已經發帖8800次。去年12月1日，從晚上8點17分直到接近午夜，總統賬戶釋出了近160條內容——這是他第二任期內單日發帖最多的一天。特朗普的行政助理Natalie Harp在特朗普Truth Social活動中扮演著關鍵角色。知情人士稱，她會把列印好的社交媒體帖子草稿成堆地送到總統面前供其批准。 這些擬釋出內容通常會重複利用其他賬戶的素材，這些內容是Harp或顧問認為特朗普會喜歡的。 知情人士表示，隨後Harp會登入總統賬戶——有時甚至在正常工作時間之外——批次釋出這些經特朗普批准的資訊。特朗普本人會親自稽核其賬戶釋出的所有內容。白宮官員表示，雖然Harp經常代表特朗普發帖，但總統本人也會親自發布部分訊息。"
-    },
-    {
-      "id": "4877226",
-      "time": "2026-05-13 15:56:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【成都華微：公司128GSPS超高速ADC晶片及其他高速ADC產品可應用於OCS光學通訊系統】成都華微(688709)5月13日在互動平臺表示，公司近期釋出的128GSPS超高速ADC晶片（CSD10B128GA1）可支援Ka波段射頻直採，輸入頻寬達37GHz，其核心特性與光通訊系統（OCS）需求高度契合。從技術角度上看，該晶片及公司其他高速ADC產品（如HWD08B64GA1系列）可應用於OCS光學通訊系統，可滿足800G/1.6T等高速光模組的超寬頻訊號採集需求，透過簡化混頻鏈路提升系統效能。該事項對公司生產經營不具有重大影響。"
-    },
-    {
-      "id": "4877225",
-      "time": "2026-05-13 15:56:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "日產汽車預計全年經營利潤2,000.0億日元，市場預估1,187.3億日元。"
     }
   ]
 }
