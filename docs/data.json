@@ -1,7 +1,23 @@
 {
-  "updated": "2026-05-21 01:30:54",
-  "count": 15721,
+  "updated": "2026-05-21 01:34:39",
+  "count": 15704,
   "items": [
+    {
+      "id": "4891070",
+      "time": "2026-05-21 01:31:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伍德麥肯茲：若伊朗衝突持續 油價恐將升至200美元】伍德麥肯茲(Wood Mackenzie)表示，在霍爾木茲海峽長期停擺的最壞情景下，布倫特原油麵臨飆升至每桶200美元的風險。該機構指出，目前波斯灣地區已有超過1100萬桶/日的原油和凝析油供應處於中斷狀態。"
+    },
+    {
+      "id": "4891069",
+      "time": "2026-05-21 01:30:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "電視報道：阿拉格齊赴美參加聯合國會議的準備工作正在進行中。"
+    },
     {
       "id": "4891068",
       "time": "2026-05-21 01:24:02",
@@ -141336,201 +141352,6 @@
         "國際"
       ],
       "text": "【普京簽署命令更換俄烏邊境兩州州長】俄羅斯總統普京5月13日簽署命令，任命亞歷山大·舒瓦耶夫為別爾哥羅德州代理州長，任命伊戈爾·科瓦利丘克為布良斯克州代理州長。這兩個州都是俄烏邊境州。據報道，普京已接受別爾哥羅德州州長格拉德科夫與布良斯克州州長博戈馬茲的辭呈，兩人均系自願離任。（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:019e2267-6729-7dd0-a6a8-66ebc69c3ffd",
-      "time": "2026-05-14 01:34:19",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "BRAZIL GOVERNMENT TO ANNOUNCE MEASURE TO SUBSIDIZE GASOLINE, SAY SOURCES"
-    },
-    {
-      "id": "4878452",
-      "time": "2026-05-14 01:33:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "哈馬斯：我們呼籲立即成立加沙管理國家委員會，並允許其進入加沙地帶，全面承擔其職責，併為其運作提供必要的資源。"
-    },
-    {
-      "id": "mkt:019e2266-a728-7dd0-a6a8-5d5e1c8b1f1e",
-      "time": "2026-05-14 01:33:29",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "【US 30-Year Treasury Auction Clears Above 5% for First Time Since 2007】Investors secured 5% yields on 30-year US Treasuries for the first time since 2007 after a $25 billion bond auction cleared at 5.046%, reflecting rising inflation concerns and higher energy prices. Demand at the auction was moderate, with yields slightly above pre-sale trading levels. The sale followed weaker-than-expected demand for recent three- and 10-year Treasury auctions. The last 30-year Treasury carrying a 5% coupon was issued before the global financial crisis, while long-dated Treasury yields have periodically traded above 5% since 2023 amid aggressive Federal Reserve tightening and increased government borrowing."
-    },
-    {
-      "id": "4878451",
-      "time": "2026-05-14 01:33:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "計票結果顯示：桑切斯將與藤森進入秘魯總統大選第二輪對決。"
-    },
-    {
-      "id": "em:qqyh_mlc:202605143736366254",
-      "time": "2026-05-14 01:32:57",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【美聯儲Collins：可能需要加息以遏制通脹】美國波士頓聯儲主席SusanCollins表示，如果通脹壓力不減退，美聯儲可能需要提高利率。“雖然這並非我預測中最可能出現的情況，但我可以預見一種情景，即需要進行某些政策收緊，以確保通脹能及時、持久地回到2%的水平。”FOMC貨幣政策前景在很大程度上取決於中東戰爭持續的時間，並指出衝突持續越久，風險就越大，尤其是在通脹方面。"
-    },
-    {
-      "id": "4878450",
-      "time": "2026-05-14 01:32:55",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "據訊息人士透露，巴西政府將出臺汽油補貼措施。"
-    },
-    {
-      "id": "4878449",
-      "time": "2026-05-14 01:32:44",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲卡什卡里：勞動力市場橫盤停滯，表現“不溫不火”。"
-    },
-    {
-      "id": "4878448",
-      "time": "2026-05-14 01:32:33",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲卡什卡里：勞動力市場看起來仍在支撐。"
-    },
-    {
-      "id": "4878447",
-      "time": "2026-05-14 01:32:22",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【加拿大央行對通脹動態的快速變化保持警惕】根據加拿大央行最新的會議紀要，該行官員們一致認為，需要根據中東局勢的發展以及與美國的貿易緊張關係，隨時準備迅速調整利率政策。央行決策者一致認為，儘管美伊衝突導致汽油價格受到初步衝擊，但他們目前可以保持耐心，將主要利率維持不變。會議紀要稱：“形勢可能瞬息萬變，貨幣政策或需作出應對，以防範通脹範圍擴大且更趨持久的風險。“該會議紀要涵蓋了由六名成員組成的管理委員會自4月21日開始的審議內容。八天後，該央行表示，將其隔夜利率目標維持在2.25%不變，並補充說，只要經濟發展符合預期，預計利率水平不會有太大變化。該預測的前提是，特朗普政府對加拿大商品徵收的關稅水平和幅度不會發生變化。此外，加拿大央行假設，通脹率將在4月份達到約3%的峰值，並且到2027年中期，原油價格將回落至每桶75美元的水平。"
-    },
-    {
-      "id": "4878446",
-      "time": "2026-05-14 01:32:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "墨西哥石油公司在宣告中證實，薩利納克魯斯煉油廠事故造成一名工人死亡。"
-    },
-    {
-      "id": "mkt:019e2264-ff9c-7dd0-a6a8-512fc982da24",
-      "time": "2026-05-14 01:31:43",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "KASHKARI: LABOR MARKET LOOKS LIKE IT'S HANGING IN THERE"
-    },
-    {
-      "id": "mkt:019e2264-e93a-7dd0-a6a8-4eb38164b122",
-      "time": "2026-05-14 01:31:39",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "KASHKARI: IRAN SHOCK HAS UPENDED INFLATION ENVIRONMENT"
-    },
-    {
-      "id": "mkt:019e2264-d8e1-7dd0-a6a8-42cec552b200",
-      "time": "2026-05-14 01:31:31",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "KASHKARI: LABOR MARKET MOVING SIDEWAYS, 'LUKEWARM'"
-    },
-    {
-      "id": "mkt:019e2264-c0fc-7dd0-a6a8-39a30752d14e",
-      "time": "2026-05-14 01:31:26",
-      "tags": [
-        "MKT News",
-        "US10Y",
-        "Impact bullish",
-        "S&P500",
-        "Impact mixed",
-        "WTI"
-      ],
-      "text": "KASHKARI: BEFORE IRAN CONFLICT HAD SOME CONFIDENCE INFLATION WAS HEADING BACK DOWN TO 2%"
-    },
-    {
-      "id": "4878445",
-      "time": "2026-05-14 01:31:21",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲卡什卡里：伊朗危機顛覆了通脹環境。"
-    },
-    {
-      "id": "mkt:019e2264-7c9d-7dd0-a6a8-341d91b52e41",
-      "time": "2026-05-14 01:31:11",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "BOC MINUTES: SCOPE TO BE PATIENT 'FOR NOW,' BUT SITUATION COULD CHANGE QUICKLY"
-    },
-    {
-      "id": "mkt:019e2264-5d60-7dd0-a6a8-2a919e7349a5",
-      "time": "2026-05-14 01:31:03",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Brent"
-      ],
-      "text": "BOC MINUTES: CENTRAL BANK'S OIL-PRICE FORECAST SUBJECT TO 'CONSIDERABLE UNCERTAINTY'"
-    },
-    {
-      "id": "4878443",
-      "time": "2026-05-14 01:30:58",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲卡什卡里：在伊朗衝突爆發前，我曾一度有信心通脹會回落至2%。"
-    },
-    {
-      "id": "em:qqyh_jndyh:202605143736365468",
-      "time": "2026-05-14 01:30:54",
-      "tags": [
-        "央行",
-        "加拿大央行"
-      ],
-      "text": "【加拿大央行會議紀要：新關稅可能會刺激降息】加拿大央行會議紀要顯示，新關稅可能會刺激降息。"
     }
   ]
 }
