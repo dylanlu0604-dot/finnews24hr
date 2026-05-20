@@ -1,7 +1,39 @@
 {
-  "updated": "2026-05-20 08:32:22",
-  "count": 15546,
+  "updated": "2026-05-20 08:36:19",
+  "count": 15544,
   "items": [
+    {
+      "id": "4889050",
+      "time": "2026-05-20 08:35:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【超訊通訊等成立科技新公司 含多項AI業務】企查查APP顯示，近日，超訊數智（廣西）科技有限公司成立，註冊資本1000萬元，經營範圍包含人工智慧公共服務平臺技術諮詢服務；網路技術服務；人工智慧理論與演算法軟體開發；人工智慧公共資料平臺等。企查查股權穿透顯示，該公司由超訊通訊等共同持股。"
+    },
+    {
+      "id": "4889049",
+      "time": "2026-05-20 08:33:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【新加坡超越印尼 登頂東南亞第一大股市】印尼資本市場接連迎來不利局面，最新一項便是被新加坡反超，丟掉東南亞股市規模榜首的地位。彙總資料顯示，印尼上市企業總市值從1月峰值跌至6180億美元，而新加坡股市總市值已攀升至6450億美元。近幾個月來，印尼市場投資情緒持續低迷。一方面市場擔憂其股指可能被下調至前沿市場行列，另一方面惠譽、穆迪兩大評級機構均將印尼信用評級展望下調至負面。目前印尼股指表現位居全球主要市場末位，印尼盾匯率更是接連創下歷史新低。獅城環球投資基金經理Soh Chih Kai表示，當前印尼市場暫處不利態勢，但未來仍存在回暖復甦的可能。他稱：“在全球政策充滿不確定性的大環境下，資金持續青睞具備穩定確定性的市場，這進一步鞏固了新加坡股市的相對優勢地位。”"
+    },
+    {
+      "id": "mkt:019e42cc-97e1-7228-9b00-b7859b1d3311",
+      "time": "2026-05-20 08:32:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "EU REACHES PROVISIONAL AGREEMENT ON LEGISATION RELATED TO EU-US TRADE DEAL- CYPRUS PRESIDENCY OF THE COUNCIL OF THE EU 2026"
+    },
     {
       "id": "4889048",
       "time": "2026-05-20 08:31:44",
@@ -140302,54 +140334,6 @@
         "國際"
       ],
       "text": "日本財務大臣片山皋月：這是雙方近年來在外匯和金融市場領域前所未有的密切合作的明確體現。"
-    },
-    {
-      "id": "te:economy:550121",
-      "time": "2026-05-13 08:35:59",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "El Salvador",
-        "Producer Prices Change",
-        "Importance 0"
-      ],
-      "text": "El Salvador Producer Inflation Hits 1-Year High — Producer prices in El Salvador rose by 1.59% year-on-year in April 2026, accelerating from a slightly upwardly revised 1.36% increase in the previous month. This marked the fastest growth since April last year, largely driven by higher costs for electricity, gas, steam and air conditioning (1.7% vs 0.29% in March), transport and storage (3.26% vs 2.97%), activities of administrative and support services (4.62% vs 5.39%), and human health care and social assistance (4.44% vs 4.47%). On the other hand, producer prices continued to decline for information and telecommunications (-0.07% vs -0.16%). On a monthly basis, producer prices went up by 0.31% in April, following a 0.48% gain in the preceding period."
-    },
-    {
-      "id": "4876142",
-      "time": "2026-05-13 08:35:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本財務大臣片山皋月：美國財長貝森特沒有提出任何具體要求，包括財務方面的要求。"
-    },
-    {
-      "id": "4876134",
-      "time": "2026-05-13 08:34:51",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【美國能源資訊署：美國2026年和2027年用電量將連創新高】美國能源資訊署(EIA)週二在《短期能源展望》報告中表示，美國用電量在2025年連續第二年創下年度新高後，將在2026年和2027年進一步上升。EIA預計，2026年電力需求將從2025年的創紀錄水平41,950億千瓦時（kWh）升至42,480億千瓦時，2027年進一步升至43,790億千瓦時。電力需求激增的主要原因在於專注於人工智慧和加密貨幣的資料中心，以及家庭和企業在供暖和交通領域更多使用電力、減少化石燃料消耗。該機構表示，電力需求增長主要由商業部門帶動，預計2027年商業用電將首次超過居民用電。EIA預測，2026年電力銷售中，居民用電將為15,240億千瓦時，商業用電達到15,270億千瓦時，工業用電為10,530億千瓦時。EIA預計2026年居民用電價格將上漲5%，並在2027年繼續上漲，不過漲幅會有所放緩。全美各地電價都在上漲，但漲幅最大的可能出現在東海岸地區。"
-    },
-    {
-      "id": "4876128",
-      "time": "2026-05-13 08:33:22",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【亞市早盤油價下跌 或因技術性回撥】亞洲早盤油價下跌，這可能是在週二結算價走高後的技術性回撥。Kudotrade的Konstantinos Chrysikos在一份報告中表示，如果伊朗衝突惡化，油價仍有上漲空間。Chrysikos補充說，霍爾木茲海峽的長期關閉繼續擾亂全球原油供應。近月西得州中質油期貨下跌0.6%，報每桶101.56美元；近月布倫特原油期貨下跌0.6%，報每桶107.12美元。"
-    },
-    {
-      "id": "4876123",
-      "time": "2026-05-13 08:32:24",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【美國4月份通脹飆升後 金價小幅走高】美國4月份消費者物價上升後，金價在早盤交易中小幅走高。鑑於黃金作為對沖通脹工具的典型地位，這可能會刺激該貴金屬的價格。 現貨黃金上漲0.2%，報每盎司4,724.45美元。澳洲聯邦銀行的Vivek Dhar在一份報告中表示，結構性走強的避險需求，特別是對美聯儲獨立性擔憂和美國激進關稅政策的反應，可能有助於金價在年底前在每盎司6,000美元附近找到支撐。"
     }
   ]
 }
