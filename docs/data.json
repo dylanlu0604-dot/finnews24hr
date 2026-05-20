@@ -1,7 +1,29 @@
 {
-  "updated": "2026-05-21 07:55:57",
-  "count": 15841,
+  "updated": "2026-05-21 07:59:41",
+  "count": 15840,
   "items": [
+    {
+      "id": "4891426",
+      "time": "2026-05-21 07:57:26",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【受對AI的持續熱情提振，日經指數或將上漲】隨著對不斷增長的AI相關需求的熱情持續，日本股市或將上漲。新加坡交易所日經指數期貨上漲2.1%，報61170點。晶片公司英偉達週三公佈了創紀錄的銷售額和利潤。對美伊潛在和平協議的希望也可能支撐市場。投資者仍關注中東局勢的發展。日經指數週三下跌1.2%，至59804.41點。"
+    },
+    {
+      "id": "te:economy:552453",
+      "time": "2026-05-21 07:57:18",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Machinery Orders",
+        "Importance 2"
+      ],
+      "text": "Japan Machinery Orders Fall the Most in 4 Months — Japan’s core machinery orders, which exclude volatile sectors such as ships and electric power, dropped 9.4% month-over-month in March 2026, reversing sharply from a 13.6% rise in the prior month and worse than market expectations for an 8.1% decline. It was the steepest decline in machinery orders since last November. On an annual basis, core machinery orders rose 5.9%, easing sharply from a 24.7% surge previously, marking the softest growth since last November, when machinery orders fell by 6.4%, though the reading beat forecasts of 4.5%."
+    },
     {
       "id": "4891425",
       "time": "2026-05-21 07:54:38",
@@ -18,6 +40,15 @@
         "國際"
       ],
       "text": "【軟銀旗下SB Energy將提交IPO註冊申請】軟銀集團(SoftBank Group)旗下公司SB Energy計劃向美國證券交易委員會(SEC)秘密提交首次公開募股(IPO)註冊宣告草案。這家數字基礎設施兼能源公司週三表示，此次發行及其時間安排將視市場狀況及其他因素而定，並需等待SEC完成審查程式。今年1月，軟銀集團與OpenAI宣佈將各自向SB Energy投資5億美元。此舉是“星際之門”(Stargate)專案的一環，該計劃旨在由多家美國公司共同打造一個覆蓋全面的AI基礎設施平臺。此外，OpenAI還選定SB Energy，負責在得克薩斯州米拉姆縣建設並運營其早先宣佈的資料中心。"
+    },
+    {
+      "id": "em:jjsj_rbsj:202605213744151567",
+      "time": "2026-05-21 07:53:30",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本3月份核心機械訂單環比下降9.4%，預估為下降8.4%。"
     },
     {
       "id": "4891423",
@@ -142564,39 +142595,6 @@
         "市場"
       ],
       "text": "日經225指數上午開盤報63263.46點，跌幅0.01%。"
-    },
-    {
-      "id": "4878759",
-      "time": "2026-05-14 07:59:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "【英科醫療：6月接單已至尾聲 價格與5月基本持平】英科醫療(300677)5月13日在電話會議上表示，目前，6月接單已至尾聲，價格與5月基本持平。因觀望原材料價格波動和供給變化，目前7月尚未定價和接單。"
-    },
-    {
-      "id": "4878758",
-      "time": "2026-05-14 07:58:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【英偉達CEO基金會1.08億美元購AI算力捐贈研究機構】據一份檔案顯示，英偉達執行長黃仁勳及其妻子洛裡（Lori）創立的基金會，正從CoreWeave 購入計算資源，並將其捐贈給大學及其他非營利機構。該檔案顯示，截至目前，這筆捐贈的價值已達1.083億美元。根據週二提交的檔案，這些計算資源將用於科學和人工智慧研究。英偉達在檔案中表示，計劃向部分受贈機構提供免費的工程服務。此次捐贈不僅彰顯了黃仁勳的慷慨，也體現了英偉達對CoreWeave的又一支援舉措——CoreWeave是一家專注於人工智慧應用的雲端計算公司。英偉達設計了CoreWeave向客戶提供的圖形處理單元（GPU）。今年1月，英偉達向CoreWeave投資20億美元 ，成為該公司當時第二大股東。"
-    },
-    {
-      "id": "4878757",
-      "time": "2026-05-14 07:57:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國生物製藥：減重藥TQF6422臨床前研究展現更優減脂效果，支援更長給藥間隔。"
-    },
-    {
-      "id": "4878756",
-      "time": "2026-05-14 07:56:44",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【人工智慧晶片製造商Cerebras Systems的IPO定價為每股185美元 募資55.5億美元 IPO規模為今年迄今最大】人工智慧晶片製造商Cerebras Systems完成美國首次公開發行，募資55.5億美元，順勢把握住全球半導體需求暴漲的風口。公司發行價定為每股185美元，高於此前推介定價區間。Cerebras週一已上調發行區間與發行股份數量，本次IPO原計劃發行3000萬股，定價區間為每股150至160美元。依據申報檔案中的發行股份及流通股本計算，此次定價使Cerebras市值約400億美元。據測算，計入受限股票單位、員工期權及認股權證後，公司完全稀釋估值約達490億美元。資料顯示，本次IPO為今年迄今規模最大。若埃隆・馬斯克旗下太空探索公司SpaceX按目標募資750億美元並於今夏上市，有望創下史上最大IPO紀錄，而Cerebras此次新股發行已先行落地。"
     }
   ]
 }
