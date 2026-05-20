@@ -1,7 +1,68 @@
 {
-  "updated": "2026-05-21 05:20:00",
-  "count": 15809,
+  "updated": "2026-05-21 05:23:57",
+  "count": 15815,
   "items": [
+    {
+      "id": "4891303",
+      "time": "2026-05-21 05:23:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【玻利維亞總統宣佈將重組內閣】玻利維亞總統帕斯20日宣佈將重組內閣，併成立經濟社會委員會，以應對當前政治危機和社會緊張局勢。帕斯在一場新聞釋出會上說，玻利維亞正處在一個“轉折點”，他決定重組內閣，使其更加靈活、更貼近民眾。（新華社）"
+    },
+    {
+      "id": "4891302",
+      "time": "2026-05-21 05:21:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達首席財務官：萬億級營收目標落實週期為2025年至2027全年。"
+    },
+    {
+      "id": "4891301",
+      "time": "2026-05-21 05:21:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "英偉達首席財務官：受記憶體價格上漲影響，邊緣計算需求小幅下滑。"
+    },
+    {
+      "id": "4891300",
+      "time": "2026-05-21 05:20:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達執行長：對達成一萬億美元營收目標充滿十足信心。"
+    },
+    {
+      "id": "4891299",
+      "time": "2026-05-21 05:20:22",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "英偉達目前獲批股票回購額度超千億美元。"
+    },
+    {
+      "id": "te:economy:552425",
+      "time": "2026-05-21 05:19:33",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Korea",
+        "Producer Prices Change",
+        "Importance 1"
+      ],
+      "text": "South Korea Producer Inflation Hits Highest Since 2022 — South Korea’s producer prices rose 6.9% year-on-year in April 2026, accelerating from a 4.1% increase in the previous month and marking the strongest rise since October 2022. Manufacturing producer prices climbed 11.3%, led by a 73.9% surge in coal and petroleum products. Prices for computers, electronic and optical equipment increased 17.4%, while chemical products rose 15.6% and basic metal products advanced 11.8%. Service prices also increased 3.8%, driven by a 26.2% jump in financial and insurance activities. Meanwhile, prices for agricultural, forestry, and marine products rose 1%, supported by a 10.4% increase in livestock prices. In contrast, utility prices declined 1.2%. On a monthly basis, producer prices rose 2.5%, accelerating from a 1.7% increase in March."
+    },
+    {
+      "id": "4891298",
+      "time": "2026-05-21 05:19:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達首席財務官：公司計劃於今年下半年正式投產並出貨Vera Rubin晶片。"
+    },
     {
       "id": "4891297",
       "time": "2026-05-21 05:18:35",
@@ -142297,14 +142358,6 @@
         "國際"
       ],
       "text": "【阿聯酋外交部否認以總理訪阿相關訊息】當地時間5月14日凌晨，阿聯酋外交部在一份宣告中表示，阿聯酋否認有關以色列總理內塔尼亞胡訪問阿聯酋或阿聯酋接待以色列軍事代表團的報道。宣告表示，阿聯酋重申，其與以色列的關係公開透明，並在眾所周知的、已正式宣佈的《亞伯拉罕協議》框架內進行，並非基於任何不透明或非官方的安排。因此，除非阿聯酋相關部門正式宣佈，否則任何關於未公開訪問或未披露安排的說法均毫無根據。（央視新聞）"
-    },
-    {
-      "id": "4878649",
-      "time": "2026-05-14 05:20:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "思科首席財務官：有理由預計 2027 財年來自超大規模 AI 客戶業務的營收至少達 60 億美元。"
     }
   ]
 }
