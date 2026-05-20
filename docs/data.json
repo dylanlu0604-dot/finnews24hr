@@ -1,7 +1,131 @@
 {
-  "updated": "2026-05-21 04:52:13",
-  "count": 15762,
+  "updated": "2026-05-21 04:56:09",
+  "count": 15774,
   "items": [
+    {
+      "id": "4891259",
+      "time": "2026-05-21 04:55:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "SpaceX：人工智慧公司Anthropic將在2029年5月前每月向我方支付12.5億美元，2026年5月至6月的容量爬坡階段將按優惠費率計費。"
+    },
+    {
+      "id": "4891258",
+      "time": "2026-05-21 04:55:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX：預計最早將於2028年開始部署我們的軌道人工智慧計算衛星。"
+    },
+    {
+      "id": "4891257",
+      "time": "2026-05-21 04:54:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "SpaceX：截至3月31日，公司已在近地軌道部署約9600顆星鏈（Starlink）寬頻及移動衛星。"
+    },
+    {
+      "id": "4891256",
+      "time": "2026-05-21 04:54:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX：預計太空開發活動將“促成突破性變革，重塑地球產業，並在月球、火星及更遠區域催生規模達數萬億美元的新市場”。"
+    },
+    {
+      "id": "4891255",
+      "time": "2026-05-21 04:54:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX：第一季度資本支出101.1億美元。"
+    },
+    {
+      "id": "4891254",
+      "time": "2026-05-21 04:54:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX：計劃在月球與火星建造製造基礎設施。"
+    },
+    {
+      "id": "4891253",
+      "time": "2026-05-21 04:53:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "SpaceX：5月已與Anthropic公司簽署雲服務協議。"
+    },
+    {
+      "id": "4891252",
+      "time": "2026-05-21 04:53:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX：Cursor有權根據期權協議獲得15億美元終止費，以及根據計算協議獲得85億美元延期服務費。"
+    },
+    {
+      "id": "4891251",
+      "time": "2026-05-21 04:53:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX：計劃開展小行星採礦作業，從近地小行星及主帶小行星中開採金屬及其他關鍵資源。"
+    },
+    {
+      "id": "te:markets:552422",
+      "time": "2026-05-21 04:53:20",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Posts Biggest Gain in Nearly Three Weeks — The S&P/TSX Composite Index gained 1.2% to close at 34,162 on Wednesday, posting its biggest advance in nearly three weeks as mining, banking, and technology shares led gains. A pullback in oil prices eased pressure on long-term borrowing costs, supporting heavyweight financial stocks. Royal Bank of Canada rose 1.9%, while TD Bank gained 1.4%, and both BMO and Brookfield advanced 2.3%. Mining stocks also moved higher, with Agnico Eagle adding 2.7% and Barrick rising 3.6% as gold prices increased alongside a decline in Treasury yields. The move followed signs of incoming energy supply from the Middle East, which helped temper expectations of further inflation pressure. In the technology sector, Shopify climbed 3.8% ahead of Nvidia’s earnings release, which investors viewed as a key test of the strength of the AI-driven market rally. Nvidia is expected to report its fastest sales growth in more than a year."
+    },
+    {
+      "id": "4891250",
+      "time": "2026-05-21 04:53:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX：計劃透過Terafab專案深化與特斯拉及英特爾的戰略協作。"
+    },
+    {
+      "id": "4891249",
+      "time": "2026-05-21 04:52:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "SpaceX：截至5月1日，特斯拉持有該公司18,990,195股A類普通股。"
+    },
+    {
+      "id": "4891248",
+      "time": "2026-05-21 04:52:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX：計劃公開推出一款金融產品，該產品將提供支付、銀行服務及其他金融服務功能。"
+    },
+    {
+      "id": "4891247",
+      "time": "2026-05-21 04:52:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX：截至3月31日的過去十二個月，整合了Grok與X的人工智慧平臺，共有超過13億個活躍支援賬戶。"
+    },
+    {
+      "id": "4891246",
+      "time": "2026-05-21 04:51:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX：馬斯克可對B類董事進行選舉、罷免，或填補該類別董事的空缺職位。"
+    },
     {
       "id": "4891245",
       "time": "2026-05-21 04:51:12",
@@ -141882,36 +142006,6 @@
         "其他"
       ],
       "text": "惠譽：預計英國石油（BP）到 2026 年底，將實現140 億至 180 億美元淨債務目標區間的下限水平。"
-    },
-    {
-      "id": "4878642",
-      "time": "2026-05-14 04:55:17",
-      "tags": [
-        "資料",
-        "市場",
-        "國際"
-      ],
-      "text": "週三（5月13日）紐約尾盤，現貨黃金跌0.55%，報4689.05美元/盎司，日內整體持續走低，交投於4726.92-4669.68美元，美國PPI批發通脹資料釋出後、在美股盤初重新整理日低。COMEX黃金期貨漲0.26%，報4698.20美元/盎司。"
-    },
-    {
-      "id": "te:markets:550429",
-      "time": "2026-05-14 04:54:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Ibovespa Drops on Geopolitical Tensions — The Ibovespa fell 1.8% to close at 177,098 on Wednesday as fading expectations for a US-Iran peace agreement weighed on investor sentiment. The stalling of negotiations this week reduced prospects for a reopening of the Strait of Hormuz, while concerns over stagflation pressures and higher bond yields continued to pressure banks and the broader market. Most stocks traded lower. In the financial sector, Bradesco fell 1.7% and Itaúsa lost 1.4%, while utilities also weakened, with Sabesp down 1.5% and Azzas shedding 4.2%. Petrobras dropped 2.4%, while Ambev (-1.4%) and Rede D’Or (-3.3%) also posted losses. On the upside, Vale gained 1.3% amid higher iron ore prices. After the close, Banco do Brasil (-2.6%), CSN (-3%), and Eneva (-2.1%) are set to report earnings results."
-    },
-    {
-      "id": "4878641",
-      "time": "2026-05-14 04:53:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "思科：光學業務方面，Acacia第三季度訂單規模超 10 億美元，同比實現三位數增幅。"
     }
   ]
 }
