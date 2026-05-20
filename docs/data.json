@@ -1,7 +1,15 @@
 {
-  "updated": "2026-05-21 01:50:01",
-  "count": 15696,
+  "updated": "2026-05-21 01:53:51",
+  "count": 15687,
   "items": [
+    {
+      "id": "4891075",
+      "time": "2026-05-21 01:50:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【受累於成本及作品陣容縮水，育碧預測新財年淨預訂額將出現下滑】鑑於新財年遊戲發行陣容縮水以及持續存在的重組成本壓力，法國遊戲巨頭育碧娛樂公司（Ubisoft Entertainment SA）預測其新財年的銷售額將出現下滑。育碧預計全年的淨預訂額將出現“高個位數百分比”的同比下滑，但其同時期望在下一個財年迎來更強勁的產品線。育碧目前正處於對其遊戲製作管線進行全面顛覆性轉型的陣痛期。公司正將其產品組合重組為五個核心業務單元或稱“創意工作室（Creative houses）”，以期從長遠來看讓公司立於更穩固的根基之上。"
+    },
     {
       "id": "4891074",
       "time": "2026-05-21 01:48:29",
@@ -141186,98 +141194,6 @@
         "Impact bearish"
       ],
       "text": "KASHKARI: FED CHAIR WILL HAVE TO PERSUADE OTHER POLICYMAKERS"
-    },
-    {
-      "id": "4878483",
-      "time": "2026-05-14 01:53:45",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲卡什卡里：美聯儲主席必須說服其他政策制定者。"
-    },
-    {
-      "id": "4878482",
-      "time": "2026-05-14 01:53:29",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲卡什卡里：美聯儲主席是美聯儲政策的12名投票成員之一。"
-    },
-    {
-      "id": "4878481",
-      "time": "2026-05-14 01:53:16",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲卡什卡里：美聯儲主席擁有很大的影響力。"
-    },
-    {
-      "id": "mkt:019e2279-3be4-7dd0-a6a8-a5bce8e66af4",
-      "time": "2026-05-14 01:53:16",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "KASHKARI: FED CHAIR IS ONE OF 12 VOTERS ON FED POLICY"
-    },
-    {
-      "id": "mkt:019e2278-9f85-7dd0-a6a8-9dd1ebb223d0",
-      "time": "2026-05-14 01:53:10",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "KASHKARI: FED CHAIR HAS A LOT OF INFLUENCE"
-    },
-    {
-      "id": "4878480",
-      "time": "2026-05-14 01:53:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國總統特朗普的加沙和平委員會正在制定一項15點計劃，旨在解除哈馬斯的武裝。"
-    },
-    {
-      "id": "4878479",
-      "time": "2026-05-14 01:52:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "黎巴嫩外交部長：目前的首要任務是與以色列實現永久停火。"
-    },
-    {
-      "id": "4878478",
-      "time": "2026-05-14 01:51:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列在黎巴嫩南部提爾地區發動襲擊，造成兩人死亡。"
-    },
-    {
-      "id": "mkt:019e2276-ce98-7dd0-a6a8-95cd8a887f5b",
-      "time": "2026-05-14 01:51:11",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "【Hormuz Oil Flows Slumped Nearly 30% in 1Q, EIA Says】Flows of crude oil and fuels through the Strait of Hormuz fell to 14.6 million barrels per day in the first quarter of 2026, down nearly 30% from 20.4 million a year earlier, according to the US Energy Information Administration. The decline followed the effective closure of the strait amid the Iran conflict, disrupting a route that normally handles about a quarter of global seaborne oil trade. Brent crude has surged more than 45% since the war began, while higher energy costs have contributed to rising inflation pressures."
-    },
-    {
-      "id": "4878477",
-      "time": "2026-05-14 01:51:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗副總統阿雷夫：霍爾木茲海峽的主權權利已確立，此事就此定論。伊朗的各項規劃應以本國及地區的安全與福祉為核心。"
     }
   ]
 }
