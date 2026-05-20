@@ -1,7 +1,23 @@
 {
-  "updated": "2026-05-21 03:29:34",
-  "count": 15690,
+  "updated": "2026-05-21 03:33:30",
+  "count": 15691,
   "items": [
+    {
+      "id": "4891170",
+      "time": "2026-05-21 03:32:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：將在密蘇里州投資150億美元新建基建，其中包括在蒙哥馬利縣新佛羅倫薩新建一座資料中心。"
+    },
+    {
+      "id": "4891169",
+      "time": "2026-05-21 03:31:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "預計本財年美國聯邦財政赤字將達2萬億美元。"
+    },
     {
       "id": "4891168",
       "time": "2026-05-21 03:28:46",
@@ -141229,14 +141245,6 @@
         "其他"
       ],
       "text": "英國衛生大臣韋斯·斯特里廷準備對首相斯塔默發起挑戰，將爭奪工黨的領導權。（英國衛報）"
-    },
-    {
-      "id": "mkt:019e22d2-25cd-7dd0-a6aa-6a1927b2a90f",
-      "time": "2026-05-14 03:30:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "BP ON WHITING REFINERY TALKS: \"WE'RE PREPARED TO REVIEW THE UNION'S COUNTEROFFER SO WE CAN START WORKING TOWARD A NEW AGREEMENT\"; AFTER REPEATED REQUESTS, THE UNITED STEELWORKERS HAVE CONSENTED TO RETURN TO THE BARGAINING TABLE ON MONDAY, MAY 18TH"
     }
   ]
 }
