@@ -1,7 +1,83 @@
 {
-  "updated": "2026-05-20 22:57:47",
-  "count": 15786,
+  "updated": "2026-05-20 23:01:47",
+  "count": 15781,
   "items": [
+    {
+      "id": "mkt:019e45e7-a7ae-7bb5-8183-ec59a96cf297",
+      "time": "2026-05-20 23:01:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CHINA, RUSSIA SUPPORT TALKS FOR SOLUTIONS ON WAR IN UKRAINE"
+    },
+    {
+      "id": "te:markets:552365",
+      "time": "2026-05-20 23:00:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Brazilian Real Appreciates by 1.00% — Top currency gainers are Brazilian Real (1%), Indian Rupee (0.80%), Swedish Krona (0.69%), British Pound (0.28%), Japanese Yen (0.12%) and Euro (0.11%). Biggest loser is Dollar Index (-0.18%)."
+    },
+    {
+      "id": "4890933",
+      "time": "2026-05-20 23:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】低硫燃料油連續跌3.87%，燃料油連續跌3.07%，液化石油氣連續跌2.46%，PVC連續跌1.28%，豆一連續跌1.15%。"
+    },
+    {
+      "id": "4890932",
+      "time": "2026-05-20 22:59:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列駐美國大使：任何與伊朗達成的潛在協議都必須基於不信任原則，並接受全面核查。"
+    },
+    {
+      "id": "4890931",
+      "time": "2026-05-20 22:59:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Freeport Indonesia：溼礦石減緩格拉斯伯格礦區復產進度，預計2027年接近滿負荷運轉】Freeport Indonesia執行長表示，該公司旗下格拉斯伯格（Grasberg）金銅礦的恢復工作所需時間長於預期，但運營應在2027年底前接近滿負荷。格拉斯伯格金銅礦是全球第二大銅礦和最大金礦，去年事故致7人死亡並導致採礦暫停後，銅價飆升。目前運營產能為50%，今年將提升至65%。"
+    },
+    {
+      "id": "4890930",
+      "time": "2026-05-20 22:59:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "彭博美元指數持續走弱，下跌 0.3% 觸及日內低點。"
+    },
+    {
+      "id": "4890929",
+      "time": "2026-05-20 22:58:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗塔斯尼姆通訊社： 伊朗外交部發言人稱暫無理由轉移濃縮鈾。"
+    },
+    {
+      "id": "4890928",
+      "time": "2026-05-20 22:57:51",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國國債價格延續漲勢，收益率跌至當日低點。"
+    },
+    {
+      "id": "4890927",
+      "time": "2026-05-20 22:57:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人：我們正與許多國家保持密切溝通，以確保其船隻安全透過霍爾木茲海峽，不受損害。談判正透過巴基斯坦中間人繼續進行。從根本上說，我們想要的不是要求，而是我們的權利。美國提出了很多要求，但問題是，伊朗為什麼要將其材料轉移到另一個國家？可以回想一下，過去完全沒人擔心我們的核計劃，現在大家仍然知道，我們的核計劃是100%和平的。"
+    },
     {
       "id": "4890926",
       "time": "2026-05-20 22:56:33",
@@ -142038,132 +142114,6 @@
         "MKT News"
       ],
       "text": "MIND ROBOTICS, FOUNDED BY RIVIAN CEO RJ SCARINGE, RAISED AN ADDITIONAL $400 MILLION, BRINGING ITS TOTAL FUNDING TO MORE THAN $1 BILLION - WSJ"
-    },
-    {
-      "id": "4878237",
-      "time": "2026-05-13 23:01:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "【我國科學家提出人工細胞不對稱分裂新思路】記者從中國科學院化學研究所獲悉，近期該所喬燕、王樹研究團隊聯合國內外科學家，首次實現人工細胞形態、功能不對稱分裂，填補了化學、材料、合成生物學交叉領域長期技術空白。相關成果5月13日在國際學術期刊《自然》發表。（央視新聞）"
-    },
-    {
-      "id": "4878236",
-      "time": "2026-05-13 23:01:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "【我國科研團隊成功研製出可程式設計量子計算原型機“九章四號”】記者從中國科學技術大學獲悉，由該校潘建偉院士領銜的科研團隊聯合國內多家科研機構、大學，近期成功研製出可程式設計量子計算原型機“九章四號”，其針對特定問題的算力遠超當前全球最快超級計算機El Capitan，成功建立了國際上最強的“量子計算優越性”。相關成果5月13日在國際學術期刊《自然》發表。（央視新聞）"
-    },
-    {
-      "id": "4878235",
-      "time": "2026-05-13 23:00:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "【我國科學家首次獲取直立人譜系遺傳資訊 破解人類演化重大謎題】記者從中國科學院古脊椎動物與古人類研究所獲悉，該所付巧妹研究團隊與國內多家研究機構合作，近期在古人類研究領域取得重要突破，首次從40萬年前直立人牙齒中獲得分子資訊，揭示了中國境內以周口店（北京人）、安徽和縣及河南孫家洞為代表的直立人屬於同一演化人群，並發現其基因可能透過已知的丹尼索瓦人間接流入現代人群的關鍵證據，破解了“直立人與現代人是否具有關聯性”這一人類演化領域長期懸而未決的重大謎題。該研究成果5月13日在國際學術期刊《自然》發表。（央視新聞）"
-    },
-    {
-      "id": "4878234",
-      "time": "2026-05-13 23:00:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "【我國科研團隊成功研發氣固電池 破解儲氫難題】記者從中國科學院大連化學物理研究所獲悉，該所陳萍研究員團隊，近期成功研發了以氫氣和金屬為電極的氣-固氫負離子原型電池（簡稱“氣固電池”），透過“氫電共儲”模式，為常溫常壓高效儲氫提供了原型驗證。相關成果5月13日在國際學術期刊《焦耳》發表。（央視新聞）"
-    },
-    {
-      "id": "te:markets:550396",
-      "time": "2026-05-13 23:00:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: New Zealand Dollar Depreciates by 0.39% — Top currency losers are New Zealand Dollar (-0.39%), Swedish Krona (-0.35%), Euro (-0.26%), British Pound (-0.20%) and Japanese Yen (-0.15%). Gains are led by Dollar Index (0.23%)."
-    },
-    {
-      "id": "4878233",
-      "time": "2026-05-13 23:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【夜盤期貨收盤】液化石油氣連續跌2.51%，20號膠連續漲1.73%，天然橡膠連續漲1.64%，乙二醇連續跌1.16%，玻璃連續跌1.03%。"
-    },
-    {
-      "id": "mkt:019e21d9-77c4-7772-bc7e-cef5646c506b",
-      "time": "2026-05-13 22:59:20",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "SENIOR WHITE HOUSE OFFICIAL: CHINA HAS ALREADY PRESSURED IRAN TO REACH AN AGREEMENT - POLITICO"
-    },
-    {
-      "id": "te:economy:550395",
-      "time": "2026-05-13 22:59:16",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "US 10Y Bond Yield Hits 42-week High — US 10 Year Government Bond Yield increased to 4.49%, the highest since July 2025. Over the past 4 weeks, US 10 Year Note Bond Yield gained 23.90 basis points, and in the last 12 months, it decreased 4.50 basis points."
-    },
-    {
-      "id": "4878232",
-      "time": "2026-05-13 22:59:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "波蘭軍方：與俄羅斯打擊烏克蘭相關的軍事航空行動已經結束。"
-    },
-    {
-      "id": "mkt:019e21d9-336f-7772-bc7e-c6df12199e89",
-      "time": "2026-05-13 22:59:01",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "SAUDI FOREIGN MINISTER: SAUDI ARABIA CONTINUES TO SUPPORT REGIONAL DE-ESCALATION; STRESSES IMPORTANCE OF NORMALIZING HORMUZ SHIPPING"
-    },
-    {
-      "id": "4878231",
-      "time": "2026-05-13 22:58:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "【聯合國就副秘書長被以方短暫扣留作出回應】聯合國秘書長副發言人哈克13日就聯合國負責安全和安保事務的副秘書長吉勒·米肖此前在以色列機場被短暫扣留一事表示，米肖已收到以色列外交部發來的致歉，以色列外交部將此事歸因於人為失誤。哈克在郵件中告訴新華社記者，米肖此行前往耶路撒冷，目的是商討在確保聯合國人員在加沙地帶、約旦河西岸及更廣泛地區的安全方面，以色列應承擔的義務。聯合國工作人員及人道主義工作者的安全是聯合國開展工作的必要先決條件。（新華社）"
-    },
-    {
-      "id": "mkt:019e21d8-d82d-7772-bc7e-bd2b263bd784",
-      "time": "2026-05-13 22:58:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IRANIAN PRESIDENT: THE ENEMIES' DREAMS OF OUR PEOPLE'S SURRENDER AND SUBMISSION WILL NEVER COME TRUE"
-    },
-    {
-      "id": "4878230",
-      "time": "2026-05-13 22:58:17",
-      "tags": [
-        "市場"
-      ],
-      "text": "阿里巴巴美股逆勢反轉，上漲 6.5%。"
-    },
-    {
-      "id": "mkt:019e21d8-7f7e-7772-bc7e-b116bec7762f",
-      "time": "2026-05-13 22:58:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "POLISH ARMY SAYS OPERATIONS OF MILITARY AVIATION RELATED TO RUSSIAN STRIKES ON UKRAINE HAVE ENDED"
     }
   ]
 }
