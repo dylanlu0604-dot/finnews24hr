@@ -1,7 +1,226 @@
 {
-  "updated": "2026-05-20 14:11:06",
-  "count": 15646,
+  "updated": "2026-05-20 14:23:07",
+  "count": 15656,
   "items": [
+    {
+      "id": "4889577",
+      "time": "2026-05-20 14:22:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌1%，現報103.06美元/桶。"
+    },
+    {
+      "id": "4889576",
+      "time": "2026-05-20 14:22:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【武漢天源中標雲南省師宗縣竹基風電場專案】據武漢天源訊息，5月19日，雲南省公共資源交易資訊平臺釋出中標公告，確認武漢天源旗下武漢天源能源有限公司成功中標雲南省師宗縣竹基風電場專案。該專案總裝機容量48MW，總投資約2.1億元，是當地最佳化能源結構、助推綠色低碳轉型的重點新能源專案。"
+    },
+    {
+      "id": "4889575",
+      "time": "2026-05-20 14:22:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部：演習期間，核部隊確保了核彈藥運送至導彈旅野戰儲存設施。"
+    },
+    {
+      "id": "4889574",
+      "time": "2026-05-20 14:21:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部：核力量演習期間演練了提升部隊編隊至最高戰備等級的流程。"
+    },
+    {
+      "id": "mkt:019e440b-f1df-7cc9-95da-55409e98b0e6",
+      "time": "2026-05-20 14:21:33",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "RUSSIAN DEFENCE MINISTRY: DURING NUCLEAR FORCES EXERCISES, PROCEDURES WERE PRACTISED TO RAISE UNITS AND FORMATIONS TO THE HIGHEST LEVELS OF COMBAT READINESS - IFX"
+    },
+    {
+      "id": "4889573",
+      "time": "2026-05-20 14:21:27",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "倫克集團股價在法蘭克福早盤交易中下跌2%，此前進行了二次增發。"
+    },
+    {
+      "id": "mkt:019e440b-c8a1-7cc9-95da-4e8c9552bdcf",
+      "time": "2026-05-20 14:21:23",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "【South Africa Plans Steel-Duty Hikes to Stem Industry ‘Emergency’】South Africa’s trade authorities proposed broad tariff increases on steel imports to protect the domestic industry from what they called an “unprecedented emergency.” The measures target low-priced imports from countries including China and India, as well as customs fraud and duty circumvention. Proposals include 10% tariffs on nearly 20 steel products, raising duties on pipes and related goods to 15%, and imposing 20% tariffs on certain tools and knives. Authorities also plan tighter import controls and a surveillance system to combat fraud and under-invoicing."
+    },
+    {
+      "id": "4889572",
+      "time": "2026-05-20 14:19:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "信實工業<RELI.NS>股價漲幅擴大，最新上漲2%。"
+    },
+    {
+      "id": "4889571",
+      "time": "2026-05-20 14:19:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "菲律賓法院駁回德拉羅薩參議員阻止被捕的申請。"
+    },
+    {
+      "id": "4889570",
+      "time": "2026-05-20 14:19:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：05月20日14時00分在土耳其（北緯38.25度，東經38.60度）發生5.5級地震，震源深度10千米。"
+    },
+    {
+      "id": "4889569",
+      "time": "2026-05-20 14:18:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "卡達能源公司：根據協議，卡達能源公司已收購OFF-4區塊18%的權益，運營商APA集團保留剩餘50%的權益。"
+    },
+    {
+      "id": "4889568",
+      "time": "2026-05-20 14:18:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【第十二屆中國國際養老服務業博覽會在北京舉行】第十二屆中國國際養老服務業博覽會正在北京舉行。記者在博覽會上看到，從日常生活、健康管理到旅居康養，智慧科技產品已經進入養老服務的方方面面。在養老機器人展區，多款陪伴型機器人亮相，吸引了不少老人前來互動體驗。不只是在情感陪伴方面越來越貼心，人工智慧技術在老年人健康監測等領域的應用也越來越廣泛。智慧床墊、智慧馬桶、智慧手環等多種產品可以實現對老年人各項指標的實時監測。（央視新聞）"
+    },
+    {
+      "id": "4889567",
+      "time": "2026-05-20 14:18:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中國政府中東問題特使翟雋出席以色列國慶招待會】2026年5月19日，中國政府中東問題特使翟雋應邀出席以色列駐華使館舉辦的建國78週年國慶招待會，並同以色列駐華大使貝以理就中以關係和共同關心的問題交換意見。（外交部）"
+    },
+    {
+      "id": "4889566",
+      "time": "2026-05-20 14:18:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "卡達能源公司：卡達能源公司收購烏拉圭近海多個新勘探區塊的權益。"
+    },
+    {
+      "id": "4889565",
+      "time": "2026-05-20 14:18:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "AmSpec： 馬來西亞 5 月 1 日至 20 日棕櫚油出口量預估為 690220 噸，4 月同期（1 日至 20 日）出口量為 868281 噸。"
+    },
+    {
+      "id": "4889564",
+      "time": "2026-05-20 14:15:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新交所與中國銀行簽署新版戰略合作備忘錄】5月19日，新加坡交易所集團（簡稱“新交所”）與中國銀行股份有限公司（簡稱“中國銀行”）簽署戰略合作備忘錄，進一步深化雙方長期合作關係。此次深化合作將支援有國際化發展需求的中國企業在新交所首次上市或二次上市，包括來自上海證券交易所和深圳證券交易所的中國企業。透過新加坡資本市場，中國企業將能夠連線國際資本，拓展更多融資渠道，併為其進一步進入東盟市場提供支援。與此同時，雙方將進一步深化中國投資者參與新加坡上市股票的渠道。"
+    },
+    {
+      "id": "4889563",
+      "time": "2026-05-20 14:13:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：俄羅斯向印度供應S-400防空系統的計劃按進度推進。"
+    },
+    {
+      "id": "4889562",
+      "time": "2026-05-20 14:13:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數收盤下跌1.3%，報8496.60點。"
+    },
+    {
+      "id": "4889561",
+      "time": "2026-05-20 14:13:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印度北方部分地區氣溫達48攝氏度】根據氣象部門公佈的資料，當地時間5月19日，印度北方邦班達地區的氣溫高達48.2攝氏度，再次重新整理了該地區自1951年以來的最高氣溫紀錄。（央視新聞）"
+    },
+    {
+      "id": "4889560",
+      "time": "2026-05-20 14:12:50",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度石油公司（BPCL）高管表示，公司目前僅從非受制裁實體採購俄羅斯石油。"
+    },
+    {
+      "id": "4889559",
+      "time": "2026-05-20 14:12:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【4月份上海市外貿再創新高 AI算力產品進出口激增85.7%】據上海海關統計，今年4月，上海市實現進出口4559億元，同比增長14%。進出口規模繼2月、3月後再創單月歷史新高，且已連續15個月保持增長態勢。其中，出口1961.7億元，增長17.5%；進口2597.3億元，增長11.5%。三大指標均實現兩位數增長，為全市穩外貿提供了堅實支撐。前4個月累計來看，上海進出口達1.68萬億元，同比增長19.7%，外貿執行穩中向好。人工智慧產業的爆發式增長，讓AI算力相關產品進出兩旺。4月，上海市積體電路、儲存部件、電腦零附件等AI相關產品進出口合計735.8億元，同比猛增85.7%，拉動全市外貿增長8.5個百分點。其中保稅物流佔比超過六成，表明上海已深度嵌入全球AI產業鏈供應鏈，全球樞紐功能進一步凸顯。 (上觀)"
+    },
+    {
+      "id": "4889558",
+      "time": "2026-05-20 14:12:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【袁春出任安科生物聯席CEO兼首席商務官】5月20日，安科生物正式宣佈，前復星全球合夥人、復星醫藥國內營銷平臺副董事長、復星醫藥國內營銷平臺CEO袁春加盟公司，出任聯席CEO兼首席商務官，全面負責安科生物銷售管理、營銷體系運營及產品品牌價值建設。"
+    },
+    {
+      "id": "4889557",
+      "time": "2026-05-20 14:11:46",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超2.5萬億元，較上日此時放量1223億元。"
+    },
+    {
+      "id": "mkt:019e4402-da51-7cc9-95da-40ba70c97d00",
+      "time": "2026-05-20 14:11:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RUSSIAN SUPPLIES OF S-400 AIR DEFENCE SYSTEMS TO INDIA ARE ON SCHEDULE - IFX"
+    },
+    {
+      "id": "4889555",
+      "time": "2026-05-20 14:11:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "【習近平同俄羅斯總統普京大範圍會談結束】5月20日，國家主席習近平在北京人民大會堂同來華進行國事訪問的俄羅斯總統普京大範圍會談結束。（央視新聞）"
+    },
+    {
+      "id": "te:economy:552142",
+      "time": "2026-05-20 14:10:35",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Producer Prices Change",
+        "Importance 1"
+      ],
+      "text": "UK Producer Inflation Beats Forecasts — Factory gate prices for UK-manufactured goods increased 4.0% year-on-year in April 2026, more than market expectations of a 2.8% rise and accelerating from an upwardly revised 3.0% growth in March. This marked the highest reading since May 2023, driven by price increases across all 10 product groups, led by a surge in prices of coke and refined petroleum products (52.6% vs 23.7% in March) amid higher energy costs. Inflation also picked up for other manufacturing outputs (2.7% vs 2.6%) while remained steady for basic metals, fabricated metal products, and machinery (at 3.7%). Meanwhile, price growth slowed mainly for food products (0.5% vs 1.7%) and motor vehicles and other transport equipment (2.1% vs 2.4%). On a monthly basis, factory gate prices rose 1.4%, matching the pace recorded in March and topping market forecasts of a 1.0% increase."
+    },
     {
       "id": "te:economy:552141",
       "time": "2026-05-20 14:10:10",
@@ -141074,149 +141293,6 @@
         "宏觀"
       ],
       "text": "【國臺辦：將按一中原則和APEC有關規定及慣例處理臺灣地區參會事宜】國務院臺灣事務辦公室今天（5月13日）上午舉行例行新聞釋出會，國臺辦發言人張晗主持本次新聞釋出會。臺灣TVBS電視臺記者：2026年APEC由大陸主辦，臺灣“行政院政務委員”楊珍妮稱將赴蘇州參加貿易部長會議。請問大陸方面會否確保臺灣代表團依照APEC慣例，享有平等參與權利？會否提供必要入境、維安與會務協助？張晗：有關部門近日已就即將在蘇州舉辦的APEC貿易部長會發布了相關資訊。作為今年亞太經合組織（APEC）活動的東道主，我們將按照一箇中國原則和APEC有關諒解備忘錄的規定及慣例處理臺灣地區參會事宜。(介面)"
-    },
-    {
-      "id": "4877021",
-      "time": "2026-05-13 14:21:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "華僑銀行：各方簽署為期五年的戰略框架，以推動東南亞與澳大利亞之間的貿易及投資流動增長。"
-    },
-    {
-      "id": "4877020",
-      "time": "2026-05-13 14:21:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "華僑銀行（OCBC）預計，到2030年澳大利亞與東南亞之間的貿易和投資流動規模將增長一倍以上。"
-    },
-    {
-      "id": "4877019",
-      "time": "2026-05-13 14:21:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【我國人形機器人相關專利申請增長102%】企查查資料顯示，截至5月13日，我國現存1025家人形機器人相關企業。區域分佈上，我國現存的人形機器人相關企業集中華東地區，佔比47.8%，其次是華南地區，佔比22.9%。專利申請方面，我國現有2661項人形機器人相關專利。2025年全年，我國新增1255項人形機器人相關專利，同比增加102.4%，創近五年申請量新高。"
-    },
-    {
-      "id": "em:qqyh_rbyh:202605133735806929",
-      "time": "2026-05-13 14:20:29",
-      "tags": [
-        "央行",
-        "日本央行"
-      ],
-      "text": "日本央行表示，行長植田未能與美財長貝森特在日本會面。"
-    },
-    {
-      "id": "mkt:019e1ffe-4d24-7553-b25f-fc15fb79cde0",
-      "time": "2026-05-13 14:20:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ASX200 INDEX CLOSED DOWN 0.46%"
-    },
-    {
-      "id": "4877018",
-      "time": "2026-05-13 14:19:44",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【外媒關注中美元首會晤中可能會討論臺灣問題及軍售問題，國臺辦回應】國務院臺灣事務辦公室今天（5月13日）上午舉行例行新聞釋出會，國臺辦發言人張晗主持本次新聞釋出會。英國獨立電視新聞記者：在即將到來的中美元首會晤中，可能會討論臺灣問題及軍售問題。請問大陸方面認為美國對臺灣軍售應該被禁止或被限制嗎？張晗：臺灣問題是中國內政。我們堅決反對建交國向中國臺灣地區出售武器，這一立場是一貫的、明確的。"
-    },
-    {
-      "id": "4877017",
-      "time": "2026-05-13 14:19:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "【追覓手機Q4釋出，高奢版或超十萬元】記者從知情人士處獲悉，追覓AURORA手機將於2026年第四季度正式釋出，產品線分為旗艦版、模組化攝影旗艦版與高奢定製版三條，售價覆蓋萬元至十萬元區間。其中，高奢定製版已確定上市，旗艦版與模組化攝影旗艦版仍在最終確認中。銷售方面，追覓將採取全球同步上市策略，主打海外市場，國內市場同步跟進，首銷目標定為10萬臺以上。高定版主要承擔拉昇品牌形象的作用，實際銷量佔比較小，走量任務仍落在旗艦版和模組化攝影旗艦版上。（藍鯨新聞）供應鏈方面，上述知情人士透露，追覓AURORA手機將搭載高通驍龍系列晶片。在稍早的2026年AWE展會上，該機型資訊已提前曝光：產品由中興通訊旗下努比亞代工生產，搭載努比亞MyOS系統，型號為NX741J，介面顯示“追覓×努比亞聯名”字樣。"
-    },
-    {
-      "id": "te:economy:550236",
-      "time": "2026-05-13 14:18:33",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Romania",
-        "GDP Annual Growth Rate",
-        "Importance 1"
-      ],
-      "text": "Romania GDP Shrinks for 1st Time Since 2020 — Romania’s economy contracted by 1.7% year-on-year in the first quarter of 2026, reversing a modest 0.2% expansion in the previous three-month period, according to preliminary estimates. The latest figure marked the country’s first annual economic contraction since the fourth quarter of 2020, highlighting a significant loss of momentum at the start of the year. On a seasonally adjusted quarterly basis, the country’s GDP fell by 0.2%, following an upwardly revised 2% decline in the previous quarter."
-    },
-    {
-      "id": "te:economy:550234",
-      "time": "2026-05-13 14:18:20",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Sweden",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Sweden Consumer Prices Edge Down in April — Consumer prices in Sweden edged down by 0.1% year-on-year in April 2026, confirming preliminary estimates, following a 0.5% rise in March. This was the first decline in consumer prices since April 2020, mainly due to a sharp drop in prices for food and non-alcoholic beverages (-5.7% vs 0% in March). Prices also fell faster for information and communication (-2.1% vs -1.8%), recreation, sport and culture (-2.4% vs -0.6%), and health (-5.3% vs -4.6%), while prices for housing and utilities (-0.1% vs -0.4%) and furnishing, household equipment, and routine household maintenance (-2.0% vs -3.6%) declined at softer rates. On the other hand, transport costs increased at a faster pace (5.2% vs 3.3%), amid rising energy prices due to the Middle East conflict. On a monthly basis, the CPI fell 0.6%, matching the pace recorded in March."
-    },
-    {
-      "id": "4877016",
-      "time": "2026-05-13 14:16:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "英國石油公司：英國石油進入烏茲別克北烏斯秋爾特產品分成協議專案。已購得該產品分成協議項下總計40%參與權益，其中20%來自現有合夥人亞塞拜然國家石油公司（SOCAR），另外20%來自烏茲別克國家石油天然氣公司（Uzbekneftegaz）。"
-    },
-    {
-      "id": "te:economy:550232",
-      "time": "2026-05-13 14:15:57",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Romania",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Romania Inflation Rate Rise the Most Since 2023 — The inflation rate in Romania rose by 10.7% year-on-year in April 2026 from 9.9% in the previous month, matching market expectations. This marked the highest level since April 2023, driven mainly by higher costs in non-food goods (12.02% vs 10.89% in March), particularly in clothing, hosiery, trimmings, and haberdashery (7.10% vs 7.05%), cultural and sporting products (8.13% vs 7.81%), and fuels (15.65% vs 12.93%). At the same time, prices increased in services (13.04% vs 11.05%). In contrast, price growth moderated for food products (7.39% vs 7.67%), weighed down by lower costs in milling and bakery products (7.82% vs 8.60%), fruit and tinned fruit (9.61% vs 11.79%), and meat and meat products (5.98% vs 6.46%). On a monthly basis, consumer prices grew by 0.84% in April, following a 0.78% rise in the preceding period. Meanwhile, the HICP-based annual inflation rate rose to 9.5% from 9% in the previous month."
-    },
-    {
-      "id": "4877015",
-      "time": "2026-05-13 14:15:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "【Figure創始人：F.04機器人已鎖定設計 正啟動零部件交付流程】Figure創始人佈雷特·阿德科克(Brett Adcock)在社交平臺X發文稱，F.04機器人已完全鎖定設計，並啟動零部件交付流程。他表示：“F.04是我們迄今為止在機器人世代更迭之間取得的最大飛躍，該系統的工程技術已進步至全新的高度。我們打造出了真正令人驚歎的產品，我迫不及待地想向世界展示我們團隊的實力。”"
-    },
-    {
-      "id": "4877014",
-      "time": "2026-05-13 14:14:54",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行：日本央行行長植田和男將於5月27日在日本央行主辦的貨幣政策會議上發表演講。"
-    },
-    {
-      "id": "mkt:019e1ff9-25eb-7553-b25f-f32748f07263",
-      "time": "2026-05-13 14:14:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "BOJ: BOJ GOVERNOR UEDA TO DELIVER SPEECH ON MAY 27 AT BOJ-HOSTED CONFERENCE ON MONETARY POLICY"
-    },
-    {
-      "id": "mkt:019e1ff6-e371-7553-b25f-eef3cd4ab020",
-      "time": "2026-05-13 14:12:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "HONG KONG AI APPLICATION STOCKS RISE: ZHIPU +15%, MINIMAX-W +11%"
-    },
-    {
-      "id": "4877013",
-      "time": "2026-05-13 14:11:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【宇通集團與寧德時代簽署全面戰略合作備忘錄】據寧德時代訊息，5月12日，宇通集團與寧德時代在福建寧德簽署全面戰略合作備忘錄。此次合作將聚焦聯合出海、商用車全場景電動化、重卡換電業務、品牌共建四大核心方向。"
     }
   ]
 }
