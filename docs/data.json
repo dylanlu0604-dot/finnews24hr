@@ -1,7 +1,49 @@
 {
-  "updated": "2026-05-20 12:05:12",
+  "updated": "2026-05-20 12:09:09",
   "count": 15586,
   "items": [
+    {
+      "id": "4889382",
+      "time": "2026-05-20 12:07:51",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【受暴雨洪澇影響，黃果樹、雲臺山等多個景區釋出臨時閉園公告】受持續強降雨及洪澇災害的影響，多個景區因水位上漲、山體落石風險加大等原因，釋出了臨時閉園公告。5月19日晚間，湖南省懷化市鶴城區文化旅遊廣電體育局釋出《懷化大峽谷、白馬景區汛期臨時閉園公告》公告稱，受當前強降雨影響，通往景區的楊黃公路山體落石、塌方風險加大，通行安全存在隱患。為確保遊客安全與遊覽品質，懷化大峽谷景區和白馬景區於5月19 日至5月21日臨時閉園，預計5月22日恢復正常開園。貴州多個景區在5月19日也採取了管控措施。5月19日，黃果樹景區釋出公告稱，受強降雨影響，安順旅遊集團旗下部分景區水位上漲，為保障遊客遊覽安全，19日，黃果樹景區的大瀑布水簾洞、下層觀景臺及陡坡塘護欄橋景點即日起實施臨時管控，暫停對外開放，其他景點正常遊覽；龍宮景區的一進龍宮、二進龍宮及通漩河乘船點實施封閉管理，乘船服務暫停，景區當日暫停售票，並實行全園閉園管理。"
+    },
+    {
+      "id": "te:economy:552105",
+      "time": "2026-05-20 12:07:41",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Malaysia",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Malaysia Trade Surplus Largest in Near 3 Years — Malaysia’s trade surplus surged to MYR 28.8 billion in April 2026 from MYR 5.1 billion in the same month last year, surpassing market expectations of MYR 16.6 billion. It was the largest trade surplus since June 2023, as exports grew faster than imports. Exports jumped 36.9% year-on-year to a three-month high of MYR 182.7 billion, while imports rose at a slower pace of 20% to MYR 154.0 billion."
+    },
+    {
+      "id": "te:economy:552104",
+      "time": "2026-05-20 12:05:25",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Malaysia",
+        "Imports YoY",
+        "Importance 1"
+      ],
+      "text": "Malaysia Import Growth at Near 2-Year High — Imports to Malaysia surged 20% yoy in April 2026, accelerating from a 10.4% increase in the previous month and marking the fastest growth since August 2024. The latest result was way above market forecasts of a 2.5% growth, reflecting robust domestic demand despite ongoing disruptions from the Iran conflict."
+    },
+    {
+      "id": "4889381",
+      "time": "2026-05-20 12:05:14",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度尼西亞總統：我已要求內閣確保我國鎳、黃金等大宗商品的定價權掌握在我們自己手中。"
+    },
     {
       "id": "4889380",
       "time": "2026-05-20 12:04:27",
@@ -140692,41 +140734,6 @@
         "其他"
       ],
       "text": "名創優品第一季度營收初步資料56.8億元人民幣至57.3億元人民幣。"
-    },
-    {
-      "id": "4876881",
-      "time": "2026-05-13 12:08:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：歐洲清算銀行將與內地和中國香港合作參與債券通計劃。"
-    },
-    {
-      "id": "4876880",
-      "time": "2026-05-13 12:07:27",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【韓國股市反彈漲超2% 散戶買入抵消了外資拋售影響】週三，韓國股市快速收復跌幅並向新高攀升，當地散戶投資者趁著外國基金拋售潮的機會買入股票，基準股指 Kospi 在早盤下跌 3.2% 後，一度上漲 逾2%。儲存晶片巨頭三星電子股價同步止跌回升，交易投資者暫時淡化其與最大工會薪資談判破裂帶來的擔憂情緒。此番快速反轉，已是全球最熱股市波動劇烈的又一縮影。受人工智慧行情帶動，Kospi 指數年內漲幅已超 80%；即便進入熊市區間，其年內表現仍穩居全球前列。"
-    },
-    {
-      "id": "mkt:019e1f84-9b5e-7553-b25e-ebcb864e5550",
-      "time": "2026-05-13 12:07:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "SOUTH KOREA’S KOSPI TOUCHES 7,800 LEVEL, UP 2.11%"
-    },
-    {
-      "id": "4876879",
-      "time": "2026-05-13 12:05:14",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "巴基斯坦央行：已在國際貨幣基金組織的擴充套件基金安排、韌性與可持續性安排框架下獲得約13億美元資金。"
     }
   ]
 }
