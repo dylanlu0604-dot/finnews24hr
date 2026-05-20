@@ -1,7 +1,19 @@
 {
-  "updated": "2026-05-21 06:56:46",
-  "count": 15837,
+  "updated": "2026-05-21 07:04:37",
+  "count": 15833,
   "items": [
+    {
+      "id": "te:economy:552435",
+      "time": "2026-05-21 06:56:54",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "Exports",
+        "Importance 1"
+      ],
+      "text": "New Zealand Exports Hit Record Peak — New Zealand’s exports grew 12% year-on-year to a record high of NZD 8.6 billion in April 2026. Export growth was driven by higher sales of precious metals, jewellery, and coins (149%); meat and edible offal (26%); milk powder, butter, and cheese (7.0%); and crude oil (388%)."
+    },
     {
       "id": "4891363",
       "time": "2026-05-21 06:55:41",
@@ -142500,53 +142512,6 @@
         "國際"
       ],
       "text": "【即使沒有超大規模雲服務提供商，思科產品需求依然攀升】思科正尋求其產品訂單的激增，這遠超其超大規模雲服務提供商客戶的範圍。該公司表示，第三財季總產品訂單較上年同期增長35%。不包括超大規模雲服務提供商，訂單仍增長19%。企業產品訂單增長18%，來自服務提供商和雲客戶的產品訂單增長逾一倍。首席財務官Mark Patterson在與分析師的電話會議上表示，所有地區部門的訂單均實現了兩位數百分比的增長，且這些增長率正在加速。美洲地區訂單增長35%，歐洲、中東和非洲地區增長39%，亞太、日本和大中華區增長25%。"
-    },
-    {
-      "id": "4878693",
-      "time": "2026-05-14 07:03:22",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【一項英國房價指標跌至 2023 年以來最低水平】一項備受關注的調查顯示，受伊朗局勢衝突及借貸成本高企打擊買家信心影響，4 月份有更多英國房產中介反饋房價出現下跌。英國皇家特許測量師學會（RICS）房價景氣指標下滑 9 個百分點至 - 34，創下 2023 年 11 月以來新低。該資料意味著，看跌房價的中介數量遠超看漲者。在全球整體環境承壓的背景下，短期內房價預計仍將走低。學會市場研究與分析主管塔蘭特・帕森斯表示，房地產市場 “仍深陷中東地緣衝突帶來的宏觀逆風拖累之中”。"
-    },
-    {
-      "id": "4878692",
-      "time": "2026-05-14 07:02:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "據韓媒報道，韓國總統李在明向美國財長貝森特提議，兩國有必要達成貨幣互換協議。"
-    },
-    {
-      "id": "te:economy:550436",
-      "time": "2026-05-14 07:01:42",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "New Zealand",
-        "Tourist Arrivals",
-        "Importance 1"
-      ],
-      "text": "New Zealand Tourist Arrivals Rise 15.1% in March — Visitor arrivals to New Zealand increased 15.1% year-on-year to 358,900 in March 2026, easing slightly from a 15.2% rise in February. Arrivals from Australia jumped by 24,100, followed by China (2,400), the US (4,100), the UK (3,500), Hong Kong (1,600), Canada (1,600), and India (1,500)."
-    },
-    {
-      "id": "mkt:019e2392-712b-7dd0-a6ab-1ad746ea03ec",
-      "time": "2026-05-14 07:01:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United Kingdom | RICS House Price Balance (Apr) | actual -34 | consensus -25 | previous -23.00"
-    },
-    {
-      "id": "4878691",
-      "time": "2026-05-14 06:57:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【首季實質違約主體“零”新增背後：城投債和地產債券風險緩釋持續推進】信用債市場正處於一個流動性寬鬆與信用狀態極佳的階段。中誠信研究院院長袁海霞表示：“今年信用風險處於極低狀態，甚至一季度並未有新增實質違約主體。”據悉，這是自2016年以來，第一季度信用債市場首次出現此種情形。市場人士認為：一方面，這與適度寬鬆的貨幣政策及低利率環境密不可分；另一方面，在信用債發行主體中，大型房企債務重組有了極大進展，城投企業加速進行債務置換，均有利於信用風險的化解。展望未來，信用債市場仍需關注房地產企業債務重組進展、各行業中弱資質企業及其相關可轉債的市場風險。（上證報）"
     }
   ]
 }
