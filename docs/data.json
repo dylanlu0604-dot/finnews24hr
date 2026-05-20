@@ -1,7 +1,199 @@
 {
-  "updated": "2026-05-20 23:18:00",
-  "count": 15799,
+  "updated": "2026-05-20 23:22:14",
+  "count": 15806,
   "items": [
+    {
+      "id": "4890969",
+      "time": "2026-05-20 23:20:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "空客表示，A350 貨機首飛及首批交付計劃維持不變。"
+    },
+    {
+      "id": "mkt:019e45f9-4b38-7bb5-8184-a18d8d826db3",
+      "time": "2026-05-20 23:20:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish",
+        "FTSE100",
+        "Impact bullish"
+      ],
+      "text": "GILTS EXTEND GAINS; UK 10-YEAR YIELD FALLS 17BPS TO 4.96%"
+    },
+    {
+      "id": "4890968",
+      "time": "2026-05-20 23:19:50",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國10年期國債收益率日內下跌10個基點至4.56%。"
+    },
+    {
+      "id": "mkt:019e45f8-4437-7bb5-8184-9b4a0a9c6558",
+      "time": "2026-05-20 23:19:08",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "US 10-YEAR YIELD FALLS 10 BASIS POINTS ON DAY TO 4.56%"
+    },
+    {
+      "id": "4890967",
+      "time": "2026-05-20 23:18:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士稱，全新空客 A350 機型交付延誤，主要源於美國原思捷工廠機身零部件出貨持續受阻。"
+    },
+    {
+      "id": "mkt:019e45f7-9054-7bb5-8184-975161f2355f",
+      "time": "2026-05-20 23:18:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "OIL FALLS TO INTRADAY LOWS, WTI TRADES NEAR $97/BBL"
+    },
+    {
+      "id": "te:markets:552373",
+      "time": "2026-05-20 23:18:20",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "UniCredit Stock Price Hits 11-week High — UniCredit shares increased to 72.76 EUR, the highest since February 2026. Over the past 4 weeks, UniCredit gained 8%, and in the last 12 months, it increased 25.1%."
+    },
+    {
+      "id": "mkt:019e45f7-4192-7bb5-8184-8e12c60e190e",
+      "time": "2026-05-20 23:18:10",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "EURUSD"
+      ],
+      "text": "DOLLAR FALLS TO DAILY LOW ON REPORT TRUMP CONFIRMING IRAN TALKS"
+    },
+    {
+      "id": "te:markets:552372",
+      "time": "2026-05-20 23:18:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "HSBC Holdings Stock Price Hits 11-week High — HSBC Holdings shares increased to 1369.00 GBp, the highest since February 2026. Over the past 4 weeks, HSBC Holdings gained 0.92%, and in the last 12 months, it increased 54.53%."
+    },
+    {
+      "id": "4890966",
+      "time": "2026-05-20 23:17:54",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國總統特朗普：（談及伊朗）我們拭目以待。"
+    },
+    {
+      "id": "mkt:019e45f6-dc53-7bb5-8184-86c43a8c4ac2",
+      "time": "2026-05-20 23:17:46",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "STOXX EUROPE 600 INDEX EXTENDS GAIN TO 1.9%, SESSION HIGH"
+    },
+    {
+      "id": "mkt:019e45f6-b83c-7bb5-8184-7d60fb09d450",
+      "time": "2026-05-20 23:17:36",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "S&P500",
+        "XAUUSD"
+      ],
+      "text": "US 2- TO 10-YEAR YIELDS FALL AT LEAST 10 BASIS POINTS ON DAY"
+    },
+    {
+      "id": "te:markets:552371",
+      "time": "2026-05-20 23:17:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Netherlands",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "Stocks in Netherlands Hit All-time High — NL25 increased to an all-time high of 1039.00 Index Points. Over the past 4 weeks, Netherlands Stock Market Index (NL25) gained 1.71%, and in the last 12 months, it increased 11.05%."
+    },
+    {
+      "id": "mkt:019e45f6-9cf3-7bb5-8184-77975a1e7096",
+      "time": "2026-05-20 23:17:29",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "GERMAN BONDS EXTEND ADVANCE; 10-YEAR YIELD FALLS 12BPS TO 3.07%"
+    },
+    {
+      "id": "4890965",
+      "time": "2026-05-20 23:17:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期金日內漲1%，現報4556.98美元/盎司。"
+    },
+    {
+      "id": "4890964",
+      "time": "2026-05-20 23:17:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌7%，現報103.30美元/桶。"
+    },
+    {
+      "id": "4890963",
+      "time": "2026-05-20 23:17:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內漲2%，現報1390.50美元/盎司。"
+    },
     {
       "id": "mkt:019e45f6-8659-7bb5-8184-6c881063a2dd",
       "time": "2026-05-20 23:17:24",
@@ -142205,96 +142397,6 @@
         "國際"
       ],
       "text": "美國中央司令部：四周前，中央司令部開始對進出伊朗港口的船隻實施封鎖。截至目前，美軍已攔截改道67 艘商船、放行 15 艘運送人道主義援助物資的船隻，並癱瘓4 艘船隻以強制其遵守封鎖規定。"
-    },
-    {
-      "id": "4878265",
-      "time": "2026-05-13 23:21:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "納斯達克100指數漲幅擴大至0.5%。"
-    },
-    {
-      "id": "mkt:019e21ee-19a1-7772-bc7f-25b3d505dc1a",
-      "time": "2026-05-13 23:21:24",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "Nasdaq100",
-        "Impact bullish"
-      ],
-      "text": "NASDAQ 100 EXTENDS GAINS TO 0.5%"
-    },
-    {
-      "id": "4878264",
-      "time": "2026-05-13 23:21:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國中央司令部：美軍擊傷4艘艦艇。"
-    },
-    {
-      "id": "mkt:019e21ee-0a2d-7772-bc7f-1c6d062adcb1",
-      "time": "2026-05-13 23:20:59",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "US FORCES DISABLED 4 VESSELS: CENTCOM"
-    },
-    {
-      "id": "mkt:019e21ed-53df-7772-bc7f-160bf369f5fb",
-      "time": "2026-05-13 23:20:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US FORCES ALLOWED 15 HUMANITARIAN AID TO PASS HORMUZ: CENTCOM"
-    },
-    {
-      "id": "mkt:019e21ed-05a1-7772-bc7f-0c93b9771e4d",
-      "time": "2026-05-13 23:20:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US FORCES REDIRECTED 67 COMMERCIAL VESSELS: CENTCOM"
-    },
-    {
-      "id": "4878263",
-      "time": "2026-05-13 23:20:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國中央司令部：美軍改變了67艘商船的航線。"
-    },
-    {
-      "id": "mkt:019e21eb-b4e3-7772-bc7f-01a6e9bb1100",
-      "time": "2026-05-13 23:19:15",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "MOSCOW IMPOSES RESTRICTIONS ON PUBLICATION OF PHOTOS AND VIDEOS SHOWING AFTERMATH OF \"TERRORIST ATTACKS\", INCLUDING DRONE STRIKES - IFX"
-    },
-    {
-      "id": "4878262",
-      "time": "2026-05-13 23:18:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基：與波蘭總統納夫羅茨基就烏克蘭和波蘭的雙邊關係進行了富有成效的討論。"
-    },
-    {
-      "id": "4878261",
-      "time": "2026-05-13 23:18:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗總統一名高階助手錶示，倘若舉行全民公投，民眾會優先選擇安全保障，而非無限制的網際網路自由接入。在戰時狀態下，完全開放國際網際網路從根本上來說是難以想象的。"
     }
   ]
 }
