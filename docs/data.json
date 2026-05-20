@@ -1,7 +1,101 @@
 {
-  "updated": "2026-05-20 09:23:09",
-  "count": 15552,
+  "updated": "2026-05-20 09:27:11",
+  "count": 15557,
   "items": [
+    {
+      "id": "4889116",
+      "time": "2026-05-20 09:26:23",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本40年期國債收益率下跌5個基點至4.345%。"
+    },
+    {
+      "id": "4889115",
+      "time": "2026-05-20 09:25:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "巨力索具連續第三日跌停，當前封單額為20.62億元。"
+    },
+    {
+      "id": "mkt:019e42fc-ff28-7228-9b01-6cadb0fd809e",
+      "time": "2026-05-20 09:25:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component"
+      ],
+      "text": "A-SHARE OPEN LOWER, SHANGHAI COMPOSITE -0.40%, SHENZHEN COMPONENT -0.53%, CHINEXT -0.48%"
+    },
+    {
+      "id": "4889114",
+      "time": "2026-05-20 09:25:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【馬來西亞譴責以色列非法扣押“全球堅韌船隊”】馬來西亞外交部19日晚發表宣告，強烈譴責以色列在國際水域非法攔截並扣押駛往加沙地帶的“全球堅韌船隊”成員及船隻。 宣告表示，該船隊當時正執行前往加沙地帶的和平人道主義任務。以方行為公然違反國際法，包括國際海洋法、國際人道主義法以及國際人權法。 宣告指出，馬方要求立即、無條件釋放所有被扣押的船隊成員和船員，包括25名馬來西亞公民及其船隻，並確保船隊其餘成員和船員的人身安全。 宣告還呼籲聯合國安理會及國際社會追究以色列持續違反國際法以及破壞人道主義任務的責任。 宣告表示，馬方將繼續堅定聲援巴勒斯坦人民，並支援一切致力於實現公正、全面和持久和平的努力。"
+    },
+    {
+      "id": "4889113",
+      "time": "2026-05-20 09:25:21",
+      "tags": [
+        "焦點"
+      ],
+      "text": "三大股指低開，滬指跌0.4％，深成指跌0.53％，創業板跌0.48％。"
+    },
+    {
+      "id": "4889112",
+      "time": "2026-05-20 09:24:24",
+      "tags": [
+        "央行",
+        "公司"
+      ],
+      "text": "【太陽能：將加強對長時儲能等新型儲能技術的跟蹤與研究 適時開展試點應用】太陽能(000591)近日接受機構調研時表示，公司將繼續聚焦內蒙古、河北、甘肅、山西等資源優越、政策支援力度大的重點區域，堅持市場化導向，集中精力在AI算力儲能、綠電直聯儲能、零碳園區儲能、虛擬電廠儲能、電網側獨立儲能等細分領域，穩步推進優質儲能專案開發建設，加強對長時儲能、構網型儲能等新型儲能技術的跟蹤與研究，適時開展試點應用。"
+    },
+    {
+      "id": "em:qqyh_zgyh:202605203742883883",
+      "time": "2026-05-20 09:22:44",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "央行今日開展500億元7天逆回購操作，操作利率為1.40%，與此前持平。"
+    },
+    {
+      "id": "4889111",
+      "time": "2026-05-20 09:22:38",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "五年期日本國債<JP5YTN=JBTC>收益率升至2.040%，創歷史新高。"
+    },
+    {
+      "id": "4889110",
+      "time": "2026-05-20 09:22:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【段永平1380億元持倉曝光 一季度新進特斯拉】根據美股機構投資者13F持倉披露情況，截至2026年一季度末，段永平管理的H&H International Investment持倉總市值約200.04億美元，摺合人民幣約1380億元。今年一季度，段永平加倉英偉達、拼多多、伯克希爾·哈撒韋等，新進特斯拉等。與此同時，段永平減持了蘋果、西方石油等，清倉了阿里巴巴等標的。（上海證券報）"
+    },
+    {
+      "id": "mkt:019e42fb-3376-7228-9b01-607258596000",
+      "time": "2026-05-20 09:22:16",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "YIELD ON 5-YEAR JGB RISES TO 2.040%, HIGHEST ON RECORD"
+    },
     {
       "id": "4889109",
       "time": "2026-05-20 09:22:13",
@@ -10,6 +104,27 @@
         "其他"
       ],
       "text": "央行公開市場今日淨投放495.0億元人民幣。"
+    },
+    {
+      "id": "mkt:019e42fa-e54d-7228-9b01-59d99daa80e4",
+      "time": "2026-05-20 09:21:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CHINA C.BANK INJECTS 50 BLN YUAN VIA 7-DAY REVERSE REPOS AT 1.40% VS PRIOR 1.40% - STATEMENT"
+    },
+    {
+      "id": "mkt:019e42fa-9723-7228-9b01-56b21284c820",
+      "time": "2026-05-20 09:21:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "HONG KONG STOCKS OPEN LOWER, HANG SENG -0.34%, TECH INDEX -0.35%"
     },
     {
       "id": "4889108",
@@ -140359,78 +140474,6 @@
         "CNH"
       ],
       "text": "CHINA'S SSE STAR CHIP INDEX SET TO OPEN DOWN 3%"
-    },
-    {
-      "id": "mkt:019e1ef1-b380-7553-b25c-f74f747b041b",
-      "time": "2026-05-13 09:26:57",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "CHINA'S CSI CEMENT INDEX SET TO OPEN UP 2.5%"
-    },
-    {
-      "id": "mkt:019e1ef0-f0fd-7553-b25c-eb0303fe76cd",
-      "time": "2026-05-13 09:26:07",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bearish",
-        "SZSE Component",
-        "CSI300"
-      ],
-      "text": "A-SHARES OPEN LOWER: SHANGHAI -0.53%, SHENZHEN -0.7%, CHINEXT -0.87%"
-    },
-    {
-      "id": "4876359",
-      "time": "2026-05-13 09:26:00",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "10年期日本國債收益率上漲5.0個基點至2.590%。"
-    },
-    {
-      "id": "mkt:019e1ef0-a689-7553-b25c-e2704396fab5",
-      "time": "2026-05-13 09:25:40",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "WHITE HOUSE CORRESPONDENT KELLIE MEYER: PRESIDENT TRUMP HAS LANDED AT TED STEVENS ANCHORAGE INTERNATIONAL AIRPORT AT 5:15 P.M. LOCAL TIME/ 9:15 PM ET FOR A SCHEDULED STOP BEFORE CONTINUING ON TO BEIJING. POOL REPORTS."
-    },
-    {
-      "id": "4876358",
-      "time": "2026-05-13 09:25:30",
-      "tags": [
-        "焦點"
-      ],
-      "text": "三大股指低開，滬指跌0.53％，深成指跌0.7％，創業板跌0.87％。"
-    },
-    {
-      "id": "te:markets:550131",
-      "time": "2026-05-13 09:24:57",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Soybeans Hold Near 2-Year High — Soybean futures held above $12 per bushel, moving close to a two-year high reached on March 12, after the USDA projected tighter-than-expected US supplies for the 2026/27 marketing year, reinforcing expectations of strong biofuel-driven demand. The agency forecast soybean ending stocks at 310 million bushels, down from 340 million in 2025/26 and below expectations for an increase, while also trimming old-crop inventories. USDA also projected average soybean prices at $11.40 per bushel next season, nearly 10% above this year’s level, offering relief to US farmers hit by years of weak crop prices, excess grain supplies, trade disruptions, and elevated input costs. Soybean futures have already rallied 17% so far this year, raising hopes that farm-level cash prices could move closer to break-even levels. Additional support came from strong domestic crushing demand tied to expanding biofuel blending mandates and concerns over global oil supply disruptions linked to the Iran conflict."
-    },
-    {
-      "id": "4876357",
-      "time": "2026-05-13 09:24:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "劑泰科技（METIS TECHBIO）香港上市首日飆漲173%，此前透過IPO籌資2.7億美元。"
     }
   ]
 }
