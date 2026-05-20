@@ -1,7 +1,30 @@
 {
-  "updated": "2026-05-20 08:48:09",
-  "count": 15539,
+  "updated": "2026-05-20 08:52:11",
+  "count": 15537,
   "items": [
+    {
+      "id": "te:markets:552057",
+      "time": "2026-05-20 08:49:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Australia Shares Trade Lower — Australian equities slid 43 points or 0.5% to 8,563 in early deals on Wednesday, reversing strength in the prior session as U.S. stock futures fell amid elevated bond yields and renewed geopolitical tensions in the Middle East. Caution also reemerged after the Reserve Bank's May minutes indicated underlying inflation in Australia will stay above 3% until late 2027, highlighting that persistent cost pressures had already been running before the Middle East conflict started. Still, losses were capped by an improvement in consumer sentiment during May, with the reading recovering from April 2-1/2-year low. Non-energy minerals, process industries, and electronic tech drove losses, though gains in retail trade and energy minerals helped limit weakness. The four big banks fell between 0.4% to 1.1%. Other major decliners were heavyweight BHP Group (-2.2%), Evolution Mining (-3.6%), Northern Star Resources (-2.4%), and South32 Ltd. (-2.0%)."
+    },
+    {
+      "id": "te:markets:552056",
+      "time": "2026-05-20 08:48:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Silver Pressured by Middle East Tensions — Silver traded below $75 an ounce on Wednesday after plunging more than 5% in the previous session, as escalating tensions between the US and Iran kept markets focused on inflation risks and the likelihood of higher interest rates. President Donald Trump warned that the US could resume strikes on Iran within “two or three days” if Tehran failed to accept Washington’s peace terms. The comments came shortly after Trump said he had canceled a planned attack following appeals from Gulf allies, while Iran’s nuclear program continued to be a key obstacle in negotiations. The prolonged conflict has effectively kept the vital Strait of Hormuz closed to shipping traffic, pushing oil prices higher and adding to inflationary pressures. Silver has also surrendered gains recorded earlier this month that were fueled by optimism surrounding AI-related stocks and stronger demand for metals used in data-center infrastructure."
+    },
     {
       "id": "4889060",
       "time": "2026-05-20 08:47:04",
@@ -140240,46 +140263,6 @@
         "觀點"
       ],
       "text": "【中金財富期貨研究所：預計短期內白銀走勢將明顯強於黃金】據中金財富期貨研究所觀點，秘魯的能源法令使得白銀持續強勢，反過來對黃金走勢形成明顯提振。按照歷史經驗，考慮到白銀短期內在供給端的約束容易受到炒作，預計短期內白銀走勢將明顯強於黃金。"
-    },
-    {
-      "id": "te:markets:550124",
-      "time": "2026-05-13 08:51:42",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Cotton Futures Ease — Cotton futures eased to around 86 cents per pound in mid-May, slightly retreating from an over two-year high, as a firmer US dollar offset support from a WASDE report pointing to a tighter supply outlook. The USDA left 2025/26 cotton yield unchanged at 852 lbs per acre and projected production at 13.9 million bales, while old crop ending stocks were steady at 4.4 million bales. Looking ahead, 2026/27 production was estimated lower at 13.3 million bales, with ending stocks projected to fall to 3.9 million bales, signaling a tighter balance sheet. Meanwhile, US planting progress stood at 29% as of May 10, slightly ahead of the five-year average of 28%, suggesting broadly normal field conditions and limiting additional upside momentum in the near term. Elsewhere, markets are watching US weather conditions, with Texas, the main cotton belt, remaining mostly dry, which could reduce yield potential and reinforce expectations of tighter supply."
-    },
-    {
-      "id": "mkt:019e1ed0-165d-7553-b25c-7d6be2b0f912",
-      "time": "2026-05-13 08:50:14",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "SHANGHAI STOCK EXCHANGE FINANCING BALANCE UP 8.206 BLN YUAN TO 1440.7057 BLN YUAN; SHENZHEN STOCK EXCHANGE FINANCING BALANCE UP 8.675 BLN YUAN TO 1380.204 BLN YUAN; TOTAL FINANCING BALANCE AT 2820.961 TRN YUAN, UP 16.881 BLN YUAN FROM PREVIOUS TRADING DAY"
-    },
-    {
-      "id": "4876189",
-      "time": "2026-05-13 08:49:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【黃河旋風在新疆成立科技新公司】企查查APP顯示，近日，新疆黃河旋風科技有限責任公司成立，註冊資本5000萬元，經營範圍包含：石墨及碳素製品製造；金屬材料製造；高效能纖維及複合材料製造等。企查查股權穿透顯示，該公司由黃河旋風全資持股。"
-    },
-    {
-      "id": "4876188",
-      "time": "2026-05-13 08:48:56",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【特朗普集團放棄在澳大利亞建造首座摩天大樓的計劃 並將責任歸咎於合作伙伴】特朗普集團週三表示，在簽署協議不到三個月後，該公司已放棄在澳大利亞建造其首座摩天大樓的計劃，理由是澳大利亞合作伙伴未能履行某些財務義務。該集團於今年2月與Altus Property Group簽署了協議，計劃在澳大利亞昆士蘭州熱門的海濱旅遊勝地黃金海岸開發一棟91層的摩天大樓，該專案價值15億澳元 (10.9億美元 )。該公司表示，該專案取決於特許經營合作伙伴Altus能否履行其尚未完成的某些義務，並補充稱將盡快探索其他潛在專案，以在澳大利亞建造特朗普地產。"
     }
   ]
 }
