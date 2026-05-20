@@ -1,7 +1,26 @@
 {
-  "updated": "2026-05-21 06:32:53",
-  "count": 15831,
+  "updated": "2026-05-21 06:36:51",
+  "count": 15830,
   "items": [
+    {
+      "id": "te:markets:552431",
+      "time": "2026-05-21 06:35:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Lithium Carbonate Falls by 4.02% — Top commodity loser is Lithium Carbonate (-4.02%). Gains are led by Silver (2.96%), Copper (1.87%) and Gold (1.16%)."
+    },
+    {
+      "id": "4891347",
+      "time": "2026-05-21 06:33:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家航空航天局將於5月26日舉行線上新聞釋出會，公佈月球基地相關訊息及月球探測規劃。"
+    },
     {
       "id": "te:markets:552430",
       "time": "2026-05-21 06:30:18",
@@ -142463,33 +142482,6 @@
         "Importance 1"
       ],
       "text": "Agricultural Commodities Updates: Cocoa Falls by 3.70% — Top commodity losers are Cocoa (-3.70%), Orange Juice (-2.05%) and Palm Oil (-0.96%). Gains are led by Rice (2.57%), Sugar (2.47%) and Barley (2.01%)."
-    },
-    {
-      "id": "te:markets:550432",
-      "time": "2026-05-14 06:35:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Platinum Gains by 2.22% — Top commodity gainers are Platinum (2.22%), Copper (1.40%) and Silver (1.04%). Biggest losers are Silicon (-0.58%) and Gold (-0.39%)."
-    },
-    {
-      "id": "4878677",
-      "time": "2026-05-14 06:34:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【機械裝置和醫藥板塊關注度升溫，機構5月調研挖掘結構性機遇】5月以來已有超過1700家上市公司接待機構調研，環比大幅增長。從行業板塊看，機械裝置超越電子成為機構調研最關注的行業，醫藥生物、電力裝置等行業標的同樣受到機構重視。就投資機遇而言，人形機器人、中藥、電網、儲能等方向投資價值值得關注。從機構5月以來對上市公司的調研路徑看，百濟神州累計獲得146家機構關注，超越一眾電子行業熱門個股成為機構最為青睞的標的。（中證報）"
-    },
-    {
-      "id": "4878676",
-      "time": "2026-05-14 06:34:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "GameStop 執行長談及 eBay：我很看好這項資產，但運營它的就是一群庸碌無能之輩。"
     }
   ]
 }
