@@ -1,7 +1,54 @@
 {
-  "updated": "2026-05-21 07:52:13",
-  "count": 15829,
+  "updated": "2026-05-21 07:55:57",
+  "count": 15841,
   "items": [
+    {
+      "id": "4891425",
+      "time": "2026-05-21 07:54:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【佔比超六成！北京綠色電力市場化交易規模首次超過火電】從首都電力交易中心獲悉，今年1至4月，北京綠色電力市場化交易規模首次超過火電，綠電交易佔電力市場化交易總量的比重超過60%。最新資料顯示，1—4月，北京綠色電力市場化交易達到188億千瓦時，同比增長82.54%，交易規模首次超過火電。其中99.97%的綠電來自新疆、西藏、山西等14個省區。前4個月，北京綠電交易佔電力市場化交易總量的比重達到63.63%。"
+    },
+    {
+      "id": "4891424",
+      "time": "2026-05-21 07:53:56",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【軟銀旗下SB Energy將提交IPO註冊申請】軟銀集團(SoftBank Group)旗下公司SB Energy計劃向美國證券交易委員會(SEC)秘密提交首次公開募股(IPO)註冊宣告草案。這家數字基礎設施兼能源公司週三表示，此次發行及其時間安排將視市場狀況及其他因素而定，並需等待SEC完成審查程式。今年1月，軟銀集團與OpenAI宣佈將各自向SB Energy投資5億美元。此舉是“星際之門”(Stargate)專案的一環，該計劃旨在由多家美國公司共同打造一個覆蓋全面的AI基礎設施平臺。此外，OpenAI還選定SB Energy，負責在得克薩斯州米拉姆縣建設並運營其早先宣佈的資料中心。"
+    },
+    {
+      "id": "4891423",
+      "time": "2026-05-21 07:52:56",
+      "tags": [
+        "央行",
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "【美國財長貝森特稱高債券收益率與高能源價格屬暫時性因素，伊朗戰事結束後將回落】伊朗局勢引發的能源衝擊、通脹擔憂加劇以及降息預期降溫，令債券投資者與各國央行官員倍感緊張。但美國財政部長斯科特・貝森特表示，他認為當前偏高的債券收益率與整體通脹均為暫時性現象，待相關衝突平息後便會逐步回落。貝森特本週接受媒體採訪時稱，在巴黎舉行的七國集團財長會議上，與會各國央行官員對通脹問題及債券市場拋售潮的擔憂情緒，遠比他更為強烈。“身為央行官員，表態表達擔憂本就是分內之事，” 貝森特說道，“措辭表態越是強硬，實際採取調控舉措的必要性反而越低。”他提及，加拿大央行行長蒂夫・麥克勒姆坦言當前局勢嚴峻，央行或被迫加息，若後續市場需求走弱，又可迅速轉向降息。“而我無需刻意放出強硬言論，眼下這些波動都只是暫時的，” 貝森特表示，“衝突終有落幕之日，航運航道恢復暢通後，能源價格也將回歸常態。”"
+    },
+    {
+      "id": "mkt:019e47cd-bfe7-777e-a127-1f898aa9e96a",
+      "time": "2026-05-21 07:51:41",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Adjusted Merchandise Trade Balance (Apr) | actual 236400000000B | consensus -200200000000B | previous 90700000000B"
+    },
+    {
+      "id": "4891422",
+      "time": "2026-05-21 07:51:39",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【SpaceX招股書披露：“星艦”研發已投入超150億美元】當地時間5月20日，SpaceX向美國證券交易委員會（SEC）提交的上市申請檔案披露，公司在研發巨型“星艦”（Starship）火箭專案上已累計投入超過150億美元。這一數字超出了執行長埃隆·馬斯克在2018年做出的20億至100億美元的研發成本預測。檔案顯示，SpaceX對“星艦”的研發投入正呈加速趨勢：2025年該專案的研發支出約為30億美元，而2024年的支出則為18.4億美元。目前，“星艦”的製造和發射均在得克薩斯州南部的星際基地進行。"
+    },
     {
       "id": "4891421",
       "time": "2026-05-21 07:51:16",
@@ -10,6 +57,15 @@
         "國際"
       ],
       "text": "日本至5月15日當週買進外國債券 7587億日元，前值由16407億日元修正為16443億日元。日本至5月15日當週外資買進日股 9496億日元，前值由14375億日元修正為13935億日元。日本至5月15日當週買進外國股票 414億日元，前值-5936億日元。日本至5月15日當週外資買進日債 -10334億日元，前值1062億日元。"
+    },
+    {
+      "id": "em:jjsj_rbsj:202605213744133671",
+      "time": "2026-05-21 07:51:14",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本4月份出口同比增長14.8%，預估為9.2%。日本4月份進口同比增長9.7%，預估為8.5%。"
     },
     {
       "id": "4891420",
@@ -29,12 +85,102 @@
       "text": "日本3月核心機械訂單較上年同期增加5.9%(調查預估為增加4.5%)；日本3月核心機械訂單較前月減少9.4%(調查預估為減少8.1%)。"
     },
     {
+      "id": "mkt:019e47cc-d757-777e-a127-1223f967dd2b",
+      "time": "2026-05-21 07:50:33",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Weekly Foreign investment in Japanese Bonds (May.15) | actual -1033400000000B | previous 106200000000B"
+    },
+    {
+      "id": "mkt:019e47cc-4a1f-777e-a127-09c894b56b70",
+      "time": "2026-05-21 07:50:25",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Weekly Foreign Stocks Buying (May.15) | actual 41400000000B | previous -593600000000B"
+    },
+    {
       "id": "4891418",
       "time": "2026-05-21 07:50:17",
       "tags": [
         "國際"
       ],
       "text": "日本4月份進口同比增長9.7%，預估為8.5%。日本4月份出口同比增長14.8%，預估為9.2%。"
+    },
+    {
+      "id": "mkt:019e47cc-0d8d-777e-a127-0460ceb50fb6",
+      "time": "2026-05-21 07:50:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Weekly Foreign investment in Japanese Stocks (May.15) | actual 949600000000B | previous 1437500000000B"
+    },
+    {
+      "id": "mkt:019e47cb-d476-777e-a126-f8556c3620f2",
+      "time": "2026-05-21 07:50:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Weekly Foreign Bonds Buying (May.15) | actual 758700000000B | previous 1640700000000B"
+    },
+    {
+      "id": "mkt:019e47cb-d3a9-777e-a126-f0cddfdde9bd",
+      "time": "2026-05-21 07:50:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Core Machinery Orders (YoY) (Mar) | actual 5.9% | consensus 4.5% | previous 24.70%"
+    },
+    {
+      "id": "mkt:019e47cb-d3a8-777e-a126-ec121e95807e",
+      "time": "2026-05-21 07:50:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Core Machinery Orders (MoM) (Mar) | actual -9.4% | consensus -8.10% | previous 13.60%"
+    },
+    {
+      "id": "mkt:019e47cb-d2d2-777e-a126-e6ec4b1cca84",
+      "time": "2026-05-21 07:50:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Unadjusted Merchandise Trade Balance (Apr) | actual 301900000000B | consensus -44500000000B | previous 667000000000B"
+    },
+    {
+      "id": "mkt:019e47cb-d1e8-777e-a126-d9d048441a4a",
+      "time": "2026-05-21 07:50:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Annualized Adjusted Merchandise Trade Imports (Apr) | actual 9.7% | consensus 8.3% | previous 10.90%"
+    },
+    {
+      "id": "mkt:019e47cb-d1d9-777e-a126-d6e12d0194cd",
+      "time": "2026-05-21 07:50:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Annualized Adjusted Merchandise Trade Exports (Apr) | actual 14.8% | consensus 9.3% | previous 11.70%"
     },
     {
       "id": "4891417",
@@ -142451,33 +142597,6 @@
         "國際"
       ],
       "text": "【人工智慧晶片製造商Cerebras Systems的IPO定價為每股185美元 募資55.5億美元 IPO規模為今年迄今最大】人工智慧晶片製造商Cerebras Systems完成美國首次公開發行，募資55.5億美元，順勢把握住全球半導體需求暴漲的風口。公司發行價定為每股185美元，高於此前推介定價區間。Cerebras週一已上調發行區間與發行股份數量，本次IPO原計劃發行3000萬股，定價區間為每股150至160美元。依據申報檔案中的發行股份及流通股本計算，此次定價使Cerebras市值約400億美元。據測算，計入受限股票單位、員工期權及認股權證後，公司完全稀釋估值約達490億美元。資料顯示，本次IPO為今年迄今規模最大。若埃隆・馬斯克旗下太空探索公司SpaceX按目標募資750億美元並於今夏上市，有望創下史上最大IPO紀錄，而Cerebras此次新股發行已先行落地。"
-    },
-    {
-      "id": "4878755",
-      "time": "2026-05-14 07:55:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國際復材：低介電石英產品已納入公司研產體系 正處於研發階段】國際復材(301526)5月13日在業績說明會表示，公司自主研發、擁有獨立智慧財產權的5G用低介電玻璃纖維已實現批次生產，並在高階手機、5G高頻通訊用關鍵透波製品等產品上得到應用，低介電石英產品已納入公司研產體系，目前正處於研發階段。"
-    },
-    {
-      "id": "4878754",
-      "time": "2026-05-14 07:54:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "【聯黎部隊稱多起無人機爆炸危及維和人員安全】聯合國駐黎巴嫩臨時部隊（聯黎部隊）13日發表宣告說，近期黎南部聯黎部隊駐地及附近發生多起無人機爆炸事件，危及維和人員安全並造成設施受損。宣告說，疑似由黎巴嫩真主黨發射的多架無人機於11日和12日在聯黎部隊位於黎南部納古拉鎮的總部附近發生爆炸，當時以色列部隊可能在該區域活動。"
-    },
-    {
-      "id": "te:markets:550458",
-      "time": "2026-05-14 07:53:20",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Gold Weighed Down by Fed Rate Hike Fears — Gold traded below $4,700 an ounce on Thursday after sliding for two straight sessions, as rising US inflation reinforced expectations that the Federal Reserve could keep interest rates higher for longer or even hike them. Data released Thursday showed US wholesale inflation accelerated in April to its fastest pace since 2022, fueled by higher trade and energy costs linked to the Iran war. The report followed Tuesday’s data showing consumer inflation climbed to 3.8% last month, the highest reading since May 2023. Investors have now fully ruled out a Fed rate cut this year, while increasingly expect a greater likelihood of another rate hike before year-end. Although gold is traditionally viewed as a hedge against inflation, higher interest rates tend to pressure the non-yielding asset. Meanwhile, markets are also closely watching President Trump’s visit to China for signs of progress on the fragile trade truce and developments surrounding the Iran conflict."
     }
   ]
 }
