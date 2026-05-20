@@ -1,7 +1,101 @@
 {
-  "updated": "2026-05-20 11:32:48",
-  "count": 15554,
+  "updated": "2026-05-20 11:36:47",
+  "count": 15556,
   "items": [
+    {
+      "id": "4889334",
+      "time": "2026-05-20 11:36:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【曉程科技：暫無引進央企及外部實力資本的相關規劃】曉程科技5月20日在互動平臺表示，公司目前暫無引進央企及外部實力資本的相關規劃。"
+    },
+    {
+      "id": "4889333",
+      "time": "2026-05-20 11:35:52",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本20年期國債拍賣投標倍數為4.01，高於12個月平均值3.43。"
+    },
+    {
+      "id": "mkt:019e4374-6d3d-7cc9-b8d4-52923183980c",
+      "time": "2026-05-20 11:35:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RUSSIA'S PUTIN SAYS OUR ECONOMIC RELATIONS SHOW GOOD DYNAMICS"
+    },
+    {
+      "id": "4889332",
+      "time": "2026-05-20 11:35:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "【習近平：以更高質量的中俄全面戰略協作助力各自國家發展振興】5月20日上午，國家主席習近平在北京人民大會堂同來華進行國事訪問的俄羅斯總統普京舉行會談。習近平指出，今年是中俄戰略協作夥伴關係建立30週年和《中俄睦鄰友好合作條約》簽署25週年。中俄關系之所以一步一個腳印走到今天這個高度，就是因為我們能夠以“千磨萬擊還堅勁”的毅力不斷深化政治互信和戰略協作，能夠以“更上一層樓”的精神拓展各領域合作，能夠以“亂雲飛渡仍從容”的勇氣捍衛國際公道正義、推動構建人類命運共同體。當前，國際形勢變亂交織，單邊霸權逆流橫行，但求和平、謀發展、促合作仍是民心所向、大勢所趨。作為聯合國安理會常任理事國和世界重要大國，中俄兩國要著眼戰略長遠，以更高質量的全面戰略協作助力各自國家發展振興，推動構建更加公正合理的全球治理體系。(新華社)"
+    },
+    {
+      "id": "mkt:019e4374-0782-7cc9-b8d4-4cdb91c16c27",
+      "time": "2026-05-20 11:35:05",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【OpenAI Commits $234 Million for New AI Lab in Singapore】OpenAI Inc. is establishing an AI lab in Singapore through a multiyear partnership with the government to advance the city-state’s AI ambitions. The ChatGPT maker will invest over S$300 million ($234 million) to launch its first applied AI lab outside the US and expand its Singapore team to more than 200 roles in the coming years. The lab will support AI adoption in public services, finance, healthcare, and digital infrastructure, while collaborating with local startups. The move aligns with Singapore’s national strategy to prioritize AI development and workforce adaptation."
+    },
+    {
+      "id": "mkt:019e4372-f9b8-7cc9-b8d4-45b0a7602cf2",
+      "time": "2026-05-20 11:34:28",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "RUSSIA'S PUTIN SAYS RUSSIA-CHINA RELATIONS AT UNPRECEDENTED LEVEL"
+    },
+    {
+      "id": "4889331",
+      "time": "2026-05-20 11:34:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓聯社：韓國政府稱現在評估緊急仲裁還為時過早。"
+    },
+    {
+      "id": "mkt:019e4372-00c1-7cc9-b8d4-3d1904e5d402",
+      "time": "2026-05-20 11:33:25",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "CHINA'S XI: HIGHER-QUALITY CHINA–RUSSIA STRATEGIC COORDINATION TO SUPPORT RESPECTIVE NATIONAL DEVELOPMENT AND REJUVENATION - XINHUA"
+    },
+    {
+      "id": "4889330",
+      "time": "2026-05-20 11:32:51",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【習近平：以更高質量的中俄全面戰略協作助力各自國家發展振興】20日上午，國家主席習近平在北京人民大會堂同來華進行國事訪問的俄羅斯總統普京舉行會談。習近平：以更高質量的中俄全面戰略協作助力各自國家發展振興。（央視新聞）"
+    },
+    {
+      "id": "4889329",
+      "time": "2026-05-20 11:32:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度尼西亞總統：2027年國內生產總值增長目標設定在5.8%至6.5%區間。"
+    },
+    {
+      "id": "4889328",
+      "time": "2026-05-20 11:32:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國臺辦：解放軍有關軍事行動是嚴正警告，是必要、正義之舉】5月20日上午，國臺辦在新聞釋出廳舉行例行新聞釋出會，發言人朱鳳蓮就近期兩岸熱點問題回答記者提問。會上有記者提問：卓榮泰19日稱，解放軍的軍演是“整個地區不安、破壞穩定的最大的根源”，希望兩岸之間可以進行“健康有序的交流、平等尊嚴的對話”。請問對此有何評論？國臺辦發言人朱鳳蓮表示，民進黨當局頑固堅持“臺獨”分裂立場，大肆勾連外部勢力謀“獨”挑釁，是破壞臺海和平穩定的禍根亂源。我們對一切“臺獨”分裂行徑決不容忍、決不姑息。解放軍有關軍事行動是對“臺獨”分裂勢力和外部干涉勢力的嚴正警告，是捍衛國家主權和領土完整的必要、正義之舉。在堅持“九二共識”、反對“臺獨”的共同政治基礎上，我們願意同臺灣各政黨、團體和社會各界人士加強交流對話，推動兩岸關係和平發展，為臺海謀和平，為同胞謀福祉，為民族謀復興。"
+    },
     {
       "id": "4889327",
       "time": "2026-05-20 11:31:54",
@@ -140327,93 +140421,6 @@
         "Brent"
       ],
       "text": "CHINA-FLAGGED CRUDE SUPERTANKER MAKES HORMUZ EXIT ATTEMPT: DATA"
-    },
-    {
-      "id": "4876845",
-      "time": "2026-05-13 11:36:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度尼西亞金融監管機構官員：股價短期波動承壓符合預期。"
-    },
-    {
-      "id": "mkt:019e1f68-4dda-7553-b25e-b419406f11a7",
-      "time": "2026-05-13 11:36:29",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bullish"
-      ],
-      "text": "HANG SENG TECH INDEX , HANG SENG INDEX BOTH TURNED POSITIVE"
-    },
-    {
-      "id": "4876844",
-      "time": "2026-05-13 11:35:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【陽光電源成立新科技公司 註冊資本1億】天眼查App顯示，近日，合肥宸智科技有限公司成立，法定代表人為李偉洋，註冊資本1億人民幣，經營範圍含機械裝置研發、機械電氣裝置製造、機械電氣裝置銷售、通用零部件製造、汽車零部件研發、汽車零部件及配件製造、光伏裝置及元器件製造等。股東資訊顯示，該公司由陽光電源（300274）全資持股。"
-    },
-    {
-      "id": "4876843",
-      "time": "2026-05-13 11:35:17",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "泰國SET指數上漲2%至1513.35點。"
-    },
-    {
-      "id": "mkt:019e1f67-0232-7553-b25e-a8644bc82eff",
-      "time": "2026-05-13 11:35:04",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "【China Futures Midday Mixed; Container Index Up Over 3%】China’s most active futures contracts are mixed at the midday break, with the containerized freight index (Europe route) up over 3%, while No.20 rubber rises over 2%. LPG, international copper, rubber, Shanghai copper and butadiene rubber gain over 1%. On the downside, lithium carbonate falls over 3%, while industrial silicon and coking coal drop over 2%. Live hogs, PX and PTA decline over 1%."
-    },
-    {
-      "id": "4876842",
-      "time": "2026-05-13 11:34:50",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "恒生科技指數轉漲，此前一度跌超1%。京東集團漲超6%，美團漲4%。"
-    },
-    {
-      "id": "4876841",
-      "time": "2026-05-13 11:33:27",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【國臺辦：在大陸合法經營的臺企受《關於產業鏈供應鏈安全的規定》保護】國務院臺灣事務辦公室今天（5月13日）上午舉行例行新聞釋出會，國臺辦發言人張晗主持本次新聞釋出會。深圳衛視《直新聞》記者：近日，國務院公佈《關於產業鏈供應鏈安全的規定》。臺陸委會稱，首當其衝的是對在陸外資與臺商造成遵法壓力，陷入“遵守美國相關禁令即違反中國大陸法律，無視禁令則受美國製裁”的兩難挑戰；而且新規增加在陸臺商人身安全風險。請問對此有何評論？張晗：《關於產業鏈供應鏈安全的規定》著力推進高水平對外開放，促進全球產業鏈供應鏈穩定暢通，填補了大陸在相關領域的立法空白，在大陸合法合規經營的臺資企業受其保護。其中涉及的制裁措施針對的是實施或協助實施危害大陸產業鏈安全的行為，並不針對合法合規運營的企業。至於所謂“增加在陸臺商人身安全風險”，純屬無稽之談，是民進黨當局抹黑大陸的慣用伎倆。"
-    },
-    {
-      "id": "4876840",
-      "time": "2026-05-13 11:33:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度尼西亞金融監管機構官員：MSCI指數調整是我國改革的短期影響。"
-    },
-    {
-      "id": "mkt:019e1f65-0385-7553-b25e-a7c015e24abb",
-      "time": "2026-05-13 11:32:54",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "INDIA SILVER FUTURES JUMP 6% TO 295,805 RUPEES PER KG AFTER GOVT RAISES IMPORT TARIFF"
     }
   ]
 }
