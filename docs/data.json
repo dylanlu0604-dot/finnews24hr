@@ -1,7 +1,65 @@
 {
-  "updated": "2026-05-21 05:00:06",
-  "count": 15777,
+  "updated": "2026-05-21 05:04:10",
+  "count": 15783,
   "items": [
+    {
+      "id": "4891267",
+      "time": "2026-05-21 05:03:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "SpaceX：瓦洛爾資本創始人安東尼奧·J·格拉西亞斯持有7.3%股份。"
+    },
+    {
+      "id": "4891266",
+      "time": "2026-05-21 05:02:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "麥當勞：宣佈2026年第二季度現金股息為每股1.86美元，將於2026年6月16日派發。"
+    },
+    {
+      "id": "4891265",
+      "time": "2026-05-21 05:01:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "SpaceX：因被指其人工智慧被用於生成非自願露骨影象，以及將兒童刻畫成性化場景的相關內容，目前正受到美國及其他國家的調查。"
+    },
+    {
+      "id": "mkt:019e4731-0dcc-7ff0-9b6b-bd0278ae4b8d",
+      "time": "2026-05-21 05:00:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Hot",
+        "Policy",
+        "Breaking News 24h",
+        "SPCX.O",
+        "Impact mixed"
+      ],
+      "text": "【SpaceX Files Publicly for Nasdaq IPO Under Ticker SPCX】SpaceX filed publicly for an initial public offering on Nasdaq under the ticker SPCX, advancing what could become the world’s largest-ever IPO. The company is targeting as much as $75 billion in the offering at a valuation above $2 trillion, according to people familiar with the matter, surpassing Saudi Aramco’s record $29.4 billion IPO in 2019. Led by Elon Musk, SpaceX generates revenue from rocket launches and its Starlink satellite business. Goldman Sachs and Morgan Stanley are leading the offering, with marketing expected to begin in June."
+    },
+    {
+      "id": "mkt:019e4730-9870-7ff0-9b6b-b164d65c8b16",
+      "time": "2026-05-21 05:00:27",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "South Korea | PPI (YoY) (Apr) | actual 6.9% | previous 4.10%"
+    },
+    {
+      "id": "mkt:019e4730-2eb0-7ff0-9b6b-ac01c9d78e19",
+      "time": "2026-05-21 05:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "South Korea | PPI (MoM) (Apr) | actual 2.5% | previous 1.6%"
+    },
     {
       "id": "4891264",
       "time": "2026-05-21 04:59:09",
