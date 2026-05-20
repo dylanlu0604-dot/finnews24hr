@@ -1,7 +1,40 @@
 {
-  "updated": "2026-05-21 01:03:56",
-  "count": 15737,
+  "updated": "2026-05-21 01:07:48",
+  "count": 15733,
   "items": [
+    {
+      "id": "mkt:019e465a-a144-7bb5-8186-564eb97e3e79",
+      "time": "2026-05-21 01:06:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OPENAI AIMING FOR AN IPO AS EARLY AS SEPTEMBER - SOURCE"
+    },
+    {
+      "id": "mkt:019e4659-64a3-7bb5-8186-49e3454203a0",
+      "time": "2026-05-21 01:05:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OPENAI PLANS TO FILE CONFIDENTIALLY FOR US IPO IN COMING WEEKS, SOURCE SAYS"
+    },
+    {
+      "id": "mkt:019e4657-ccaa-7bb5-8186-40696ed8c07f",
+      "time": "2026-05-21 01:03:30",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y"
+      ],
+      "text": "20-YR U.S. TREASURY BOND YIELD FLAT AFTER AUCTION, LAST AT 5.126%"
+    },
     {
       "id": "4891059",
       "time": "2026-05-21 01:03:03",
@@ -141632,77 +141665,6 @@
         "國際"
       ],
       "text": "以色列官方訊息稱，以色列已同意向阿聯酋轉讓鐵穹導彈防禦系統，同時派遣操作人員赴阿聯酋本土負責系統運維。"
-    },
-    {
-      "id": "4878413",
-      "time": "2026-05-14 01:06:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗議會國家安全委員會發言人：已為所有可能的情況做好準備，我們與美國沒有進行任何核談判。"
-    },
-    {
-      "id": "mkt:019e224e-1957-7dd0-a6a7-d46deda10a3b",
-      "time": "2026-05-14 01:06:44",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Market Regions",
-        "Europe & UK",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "HUNGARY PM MAGYAR SAYS HUNGARY TO RELEASE MORE FUEL FROM STRATEGIC RESERVES"
-    },
-    {
-      "id": "4878411",
-      "time": "2026-05-14 01:05:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【馬斯克：只有我和黃仁勳坐上了空軍一號】有人發帖稱在空軍一號上的CEO們身價超20萬億美元，馬斯克則回帖稱“只有我和老黃（黃仁勳）在空軍一號上”。（第一財經）"
-    },
-    {
-      "id": "mkt:019e224d-29f3-7dd0-a6a7-cdec5b259f5b",
-      "time": "2026-05-14 01:05:24",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish",
-        "S&P500",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "YIELD ON 30-YR U.S. TREASURY BOND CLIMBS SLIGHTLY AFTER $25 BLN AUCTION, UP 1.7 BASIS POINTS AT 5.046%"
-    },
-    {
-      "id": "mkt:019e224c-d0fc-7dd0-a6a7-c5ff38861a8c",
-      "time": "2026-05-14 01:05:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "NETANYAHU'S VISIT RESULTED IN 'HISTORIC BREAKTHROUGH' IN RELATIONS BETWEEN ISRAEL AND UAE -STATEMENT"
-    },
-    {
-      "id": "4878410",
-      "time": "2026-05-14 01:04:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "匈牙利總理毛焦爾：匈牙利將釋放更多燃油儲備。"
-    },
-    {
-      "id": "4878409",
-      "time": "2026-05-14 01:04:19",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "納斯達克100指數漲幅擴大至1%。"
     }
   ]
 }
