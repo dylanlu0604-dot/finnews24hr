@@ -1,7 +1,101 @@
 {
-  "updated": "2026-05-21 05:08:06",
-  "count": 15788,
+  "updated": "2026-05-21 05:12:06",
+  "count": 15798,
   "items": [
+    {
+      "id": "4891284",
+      "time": "2026-05-21 05:11:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX：短期內暫無派息計劃。"
+    },
+    {
+      "id": "4891283",
+      "time": "2026-05-21 05:11:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達：全球年度人工智慧支出規模將達3至4萬億美元。"
+    },
+    {
+      "id": "4891282",
+      "time": "2026-05-21 05:10:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX營運長格溫妮·肖特韋爾2025年總薪酬達8580萬美元。"
+    },
+    {
+      "id": "4891280",
+      "time": "2026-05-21 05:10:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達首席財務官：市場需求正持續攀升。"
+    },
+    {
+      "id": "4891279",
+      "time": "2026-05-21 05:09:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "SpaceX：2025年約五分之一營收來自美國政府業務。"
+    },
+    {
+      "id": "4891278",
+      "time": "2026-05-21 05:09:38",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "英偉達股價在財報電話會議期間下跌，跌幅達1.8%。"
+    },
+    {
+      "id": "4891277",
+      "time": "2026-05-21 05:09:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX在全球擁有超過2.2萬全職員工。"
+    },
+    {
+      "id": "te:markets:552424",
+      "time": "2026-05-21 05:09:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Posts Biggest Daily Gain Since April — The Ibovespa jumped 1.8% to close at 177,356 on Wednesday, marking the benchmark’s biggest daily gain since early April, as easing oil prices and lower bond yields boosted risk appetite. Oil prices retreated after some ships managed to cross the Strait of Hormuz following 80 days of disruption, raising hopes that global supply conditions could gradually normalize. The pullback in crude prices helped ease inflation concerns and pushed bond yields lower, supporting financial stocks and the broader index. Itaú rose 2.3%, Bradesco gained 2.4%, and Itaúsa advanced 2.7%. Utilities also posted strong gains, with Auren Energia up 2.2%, Sabesp adding 2.1%, and Eneva climbing 4.1%. Other notable performers included Ambev (+2.6%) and Rede D'Or (+2.6%). In contrast, Petrobras fell 3.2% as oil prices declined."
+    },
+    {
+      "id": "4891276",
+      "time": "2026-05-21 05:08:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX：星艦預計將於下半年開始執行入軌載荷運送任務。"
+    },
+    {
+      "id": "4891275",
+      "time": "2026-05-21 05:08:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "SpaceX：5月份公司的信貸安排已作出修訂，將借款額度提升至最高50億美元。"
+    },
+    {
+      "id": "4891274",
+      "time": "2026-05-21 05:07:46",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【5月21日美股成交額前20：英偉達營收和業績指引均超預期】週三美股成交額第1名英偉達收高1.30%，成交350.79億美元。英偉達週三盤後公佈了2027財年第一季度財報，營收和利潤均超出分析師預期。第二季度業績展望方面，英偉達預計營收將在891億至928億美元之間，而華爾街此前預期為873億美元。第一季度，英偉達實現每股收益（EPS）1.87美元，營收816.2億美元，高於分析師預期的每股1.77美元和營收791.8億美元。公司還將季度股息提高至每股0.25美元。英偉達資料中心業務貢獻了大部分營收，達到752億美元，高於華爾街分析師預期的734.7億美元，也遠超去年同期的391.1億美元。"
+    },
     {
       "id": "4891273",
       "time": "2026-05-21 05:06:41",
@@ -142121,16 +142215,6 @@
         "市場"
       ],
       "text": "富時A50期指連續夜盤收漲0.35%，報16122點。"
-    },
-    {
-      "id": "4878646",
-      "time": "2026-05-14 05:11:17",
-      "tags": [
-        "資料",
-        "市場",
-        "國際"
-      ],
-      "text": "週三（5月13日）紐約尾盤，美國10年期基準國債收益率漲0.58個基點，報4.4688%，北京時間20:30釋出美國批發通脹資料PPI之前持穩於4.46%附近，資料釋出後出現一波跳空上揚行情——隨後出現V形反轉、23:30重新整理日高至4.5003%。兩年期美債收益率跌1.23個基點，報3.9791%，PPI資料釋出前下挫至3.9791%，隨後出現一波M形衝高回落行情——21:46回落至3.9791%、23:30重新整理日高至4.0127%，03:27重新整理日低至3.9750%。"
     }
   ]
 }
