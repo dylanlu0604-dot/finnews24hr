@@ -1,7 +1,28 @@
 {
-  "updated": "2026-05-21 01:07:48",
+  "updated": "2026-05-21 01:11:38",
   "count": 15733,
   "items": [
+    {
+      "id": "4891061",
+      "time": "2026-05-21 01:09:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "據以色列廣播管理局：內塔尼亞胡正試圖說服特朗普批准重啟對伊朗戰事。"
+    },
+    {
+      "id": "mkt:019e465c-2467-7bb5-8186-5f74e87e9fd0",
+      "time": "2026-05-21 01:08:24",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Crypto Concepts",
+        "Bitcoin",
+        "Impact bullish",
+        "Ethereum"
+      ],
+      "text": "VARIATIONAL: FUNDING LED BY DRAGONFLY WITH SUPPORT FROM BAIN CAPITAL CRYPTO, COINBASE VENTURES, AND OTHER STRATEGIC INVESTORS"
+    },
     {
       "id": "mkt:019e465a-a144-7bb5-8186-564eb97e3e79",
       "time": "2026-05-21 01:06:45",
@@ -141647,24 +141668,6 @@
         "其他"
       ],
       "text": "黎巴嫩稱，自停火協議生效以來，已有超10000棟房屋被毀或受損。"
-    },
-    {
-      "id": "mkt:019e2251-8f74-7dd0-a6a7-d8e2b1e77114",
-      "time": "2026-05-14 01:10:30",
-      "tags": [
-        "MKT News",
-        "GOOGL.O",
-        "Impact bullish"
-      ],
-      "text": "YOUTUBE PROMISES ALL THINGS TO ALL ADVERTISERS, WITH SOME HELP FROM AI - WSJ"
-    },
-    {
-      "id": "4878415",
-      "time": "2026-05-14 01:09:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列官方訊息稱，以色列已同意向阿聯酋轉讓鐵穹導彈防禦系統，同時派遣操作人員赴阿聯酋本土負責系統運維。"
     }
   ]
 }
