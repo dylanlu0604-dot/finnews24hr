@@ -1,7 +1,55 @@
 {
-  "updated": "2026-05-21 02:49:31",
-  "count": 15702,
+  "updated": "2026-05-21 02:53:28",
+  "count": 15700,
   "items": [
+    {
+      "id": "mkt:019e46ba-c509-7bb5-8188-01e094827bcb",
+      "time": "2026-05-21 02:51:45",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Brent"
+      ],
+      "text": "U.S. DEPARTMENT OF THE INTERIOR SAYS IT GENERATED OVER $4 BILLION IN TOTAL RECEIPTS FROM A BUREAU OF LAND MANAGEMENT OIL AND GAS LEASE SALE IN NEW MEXICO AND TEXAS"
+    },
+    {
+      "id": "4891142",
+      "time": "2026-05-21 02:51:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國內政部表示，其下屬土地管理局在新墨西哥州與得克薩斯州舉辦的油氣租賃權拍賣會，總營收超 40 億美元。"
+    },
+    {
+      "id": "mkt:019e46ba-4fcf-7bb5-8187-fbcf723cdbc5",
+      "time": "2026-05-21 02:51:15",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "FEDERAL BUDGET DEFICIT PROJECTED TO HIT USD2 TLN THIS FISCAL YEAR, RANKING AMONG LARGEST IN US HISTORY - FOX BUSINESS"
+    },
+    {
+      "id": "mkt:019e46ba-0135-7bb5-8187-f334b196ab4f",
+      "time": "2026-05-21 02:50:55",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "BRENT CRUDE FUTURES SETTLE AT $105.02/BBL, DOWN $6.26, 5.63 PCT"
+    },
     {
       "id": "mkt:019e46b7-ac6a-7bb5-8187-e8cbfc70076c",
       "time": "2026-05-21 02:48:22",
@@ -141315,71 +141363,6 @@
         "Impact bullish"
       ],
       "text": "NETFLIX SECURES THREE MORE FOOTBALL GAMES IN NEW NFL DEAL - WSJ"
-    },
-    {
-      "id": "mkt:019e22ae-6cc4-7dd0-a6a9-e7e7f1d2b1a9",
-      "time": "2026-05-14 02:51:51",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Hot",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "Policy",
-        "Breaking News 24h",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "【Senate Confirms Kevin Warsh as Fed Chair in Closest Vote on Record】The Senate confirmed Kevin Warsh as Federal Reserve chair in a 54-45 vote, the narrowest confirmation margin for a Fed leader on record. The vote came amid concerns over persistent inflation and political pressure from President Donald Trump for lower interest rates. Warsh, who will succeed Jerome Powell on Friday, pledged to preserve the Fed’s monetary policy independence during his confirmation hearing. The confirmation followed stronger-than-expected April producer inflation data and growing debate inside the Fed over whether future rate moves could include hikes as well as cuts."
-    },
-    {
-      "id": "4878579",
-      "time": "2026-05-14 02:50:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "奈飛廣告訂閱套餐覆蓋哥倫比亞、瑞典、紐西蘭及其他多個國家。"
-    },
-    {
-      "id": "mkt:019e22ad-821a-7dd0-a6a9-de7506b0225a",
-      "time": "2026-05-14 02:50:50",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact mixed",
-        "US10Y",
-        "S&P500"
-      ],
-      "text": "WARSH TO BEGIN 4-YEAR FED CHAIR TERM AFTER POWELL DEPARTS FRIDAY"
-    },
-    {
-      "id": "mkt:019e22ad-344a-7dd0-a6a9-d66893952bce",
-      "time": "2026-05-14 02:50:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. STATE DEPT: UNITED STATES IS READY TO PROVIDE $100 MLN IN DIRECT ASSISTANCE TO CUBAN PEOPLE, IF CUBAN GOVERNMENT WILL PERMIT IT"
-    },
-    {
-      "id": "mkt:019e22ac-7c45-7dd0-a6a9-cb09b2b6201a",
-      "time": "2026-05-14 02:49:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "JUDGE SAYS BOTH SIDES MUST FILE LEGAL BRIEFS EXPLAINING THE SETTLEMENT BY JUNE 1"
-    },
-    {
-      "id": "4878578",
-      "time": "2026-05-14 02:49:48",
-      "tags": [
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "美國參議院就確認沃什擔任美聯儲主席的投票是歷來美聯儲主席提名中黨派立場分化最嚴重的一次，僅有一名民主黨議員——賓夕法尼亞州的約翰·費特曼——倒向共和黨多數陣營投了贊成票。"
     }
   ]
 }
