@@ -1,7 +1,44 @@
 {
-  "updated": "2026-05-21 05:31:50",
-  "count": 15819,
+  "updated": "2026-05-21 05:35:47",
+  "count": 15821,
   "items": [
+    {
+      "id": "te:economy:552426",
+      "time": "2026-05-21 05:35:06",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Jamaica",
+        "Interest Rate",
+        "Importance 1"
+      ],
+      "text": "Bank of Jamaica Holds Base Interest Rate in May — The Bank of Jamaica maintained its policy rate at 5.50% during its May meeting as the inflation outlook remained highly uncertain amid escalating tensions in the Middle East and rising international commodity prices, particularly crude oil. The central bank noted that higher fuel and transport costs are expected to push headline inflation above the 4–6% target range during the June and September 2026 quarters from 4.3% in April. While inflation is expected to gradually moderate as geopolitical tensions ease and global oil supplies normalize, risks remain tilted to the upside due to the possibility of a prolonged conflict, adverse weather conditions, stronger inflation expectations, and higher domestic spending linked to Hurricane Melissa recovery efforts. Meanwhile, economic growth for fiscal year 2026/27 is projected within a 1.0% to 3.0% range, although risks remain skewed to the downside due to the potential impact of the conflict on tourism and domestic activity."
+    },
+    {
+      "id": "4891312",
+      "time": "2026-05-21 05:33:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "SpaceX：2026年1月13日，董事會批准向馬斯克授予10億股業績掛鉤的B類普通股限制性股份。"
+    },
+    {
+      "id": "4891311",
+      "time": "2026-05-21 05:32:27",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "牙買加央行維持貸款利率在5.5%不變。"
+    },
+    {
+      "id": "4891310",
+      "time": "2026-05-21 05:31:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達CEO黃仁勳：我們的增長速度應當超過超大規模企業資本支出的增速。"
+    },
     {
       "id": "4891309",
       "time": "2026-05-21 05:27:48",
@@ -142373,22 +142410,6 @@
         "國際"
       ],
       "text": "【參議員Warren就私人信用問題質詢美國財長與證監會主席】根據一份新聞稿，美國參議院民主黨成員伊麗莎白·沃倫（Elizabeth Warren）向美國財政部長斯科特·貝森特（Scott Bessent）和美國證券交易委員會（SEC）主席保羅·阿特金斯（Paul Atkins）致函，“對特朗普政府的去監管行動如何加劇了私人信用（Private Credit）所帶來的風險表示擔憂”。沃倫表示，她擔心“金融系統的脆弱性以及美國人的退休計劃正受到威脅”。沃倫要求在5月26日前對相關問題作出答覆。"
-    },
-    {
-      "id": "4878652",
-      "time": "2026-05-14 05:34:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國眾議院委員會公佈盧特尼克在愛潑斯坦案調查中的聽證會證詞。"
-    },
-    {
-      "id": "4878651",
-      "time": "2026-05-14 05:32:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本巖手縣發生5.0級地震】日本巖手縣當地時間5月14日5時01分左右發生5.0級地震，最大震感為震度4，震源深度10公里。本次地震沒有引發海嘯的危險。"
     }
   ]
 }
