@@ -1,7 +1,47 @@
 {
-  "updated": "2026-05-21 02:57:25",
-  "count": 15692,
+  "updated": "2026-05-21 03:01:56",
+  "count": 15684,
   "items": [
+    {
+      "id": "4891147",
+      "time": "2026-05-21 03:00:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "剛果表示，已出售票面利率為9.5%、將於2036年到期、規模為8.5億美元的票據。"
+    },
+    {
+      "id": "4891146",
+      "time": "2026-05-21 03:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收漲0.68%，報25637.28點，低水13.84點。"
+    },
+    {
+      "id": "mkt:019e46c2-1685-7bb5-8188-18a74cb10932",
+      "time": "2026-05-21 02:59:45",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "XAUUSD",
+        "Impact bullish",
+        "S&P500",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "YIELD ON 10-YR U.S. TREASURY DECLINES TO 4.565%, NEAR SESSION LOW"
+    },
+    {
+      "id": "4891145",
+      "time": "2026-05-21 02:59:33",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國 10 年期國債收益率跌至 4.565%，逼近日內低點。"
+    },
     {
       "id": "4891144",
       "time": "2026-05-21 02:54:12",
@@ -141151,145 +141191,6 @@
         "國際"
       ],
       "text": "歐洲央行首席經濟學家連恩：對於外生供應中斷，最佳反應可能小於對需求衝擊的反應。銷售價格預期的上升表明，未來幾個月的生產成本壓力將轉化為更高的輸出價格。伊朗衝擊的傳播可能比2022年更為有限，但強度和速度將超過歷史平均水平。企業和新聞指標顯示，目前的能源衝擊在一個需求支援較弱的環境中展開。需求破壞渠道限制了貨幣政策所需的調整，財政擴張則相反。工資談判尚未對能源價格的上漲作出反應。"
-    },
-    {
-      "id": "mkt:019e22b6-fd8d-7dd0-a6aa-4edf2ffbf60c",
-      "time": "2026-05-14 03:01:18",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact mixed",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "ECB'S LANE: DEMAND DESTRUCTION CHANNELS LIMIT THE REQUIRED ADJUSTMENT IN THE MONETARY STANCE, FISCAL EXPANSION DOES OPPOSITE"
-    },
-    {
-      "id": "mkt:019e22b6-ec43-7dd0-a6aa-4265eeea0ca7",
-      "time": "2026-05-14 03:01:13",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact mixed",
-        "EURUSD",
-        "DXY"
-      ],
-      "text": "ECB'S LANE: FIRM-SIDE AND NEWS-BASED INDICATORS SUGGEST CURRENT ENERGY SHOCK IS UNFOLDING IN A LESS DEMAND-SUPPORTIVE ENVIRONMENT"
-    },
-    {
-      "id": "mkt:019e22b6-e90e-7dd0-a6aa-3b1dd79de7ed",
-      "time": "2026-05-14 03:01:09",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "DXY",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "ECB'S LANE: PROPAGATION OF IRAN SHOCK MAY BE MORE CONTAINED THAN IN 2022, BUT STRONGER AND FASTER THAN HISTORICAL AVERAGES"
-    },
-    {
-      "id": "mkt:019e22b6-ce1f-7dd0-a6aa-33237bc7fece",
-      "time": "2026-05-14 03:01:05",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "ECB'S LANE: A MID-SIZE BUT NOT-TOO-PERSISTENT OVERSHOOT COULD WARRANT SOME MEASURED ADJUSTMENT"
-    },
-    {
-      "id": "mkt:019e22b6-c036-7dd0-a6aa-2ad258b9d3a0",
-      "time": "2026-05-14 03:01:01",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "US10Y"
-      ],
-      "text": "ECB'S LANE: INCREASE IN SELLING PRICE EXPECTATIONS SUGGESTS INPUT COST PRESSURES WILL MAP INTO HIGHER OUTPUT PRICES IN COMING MONTHS"
-    },
-    {
-      "id": "mkt:019e22b6-adc4-7dd0-a6aa-21fec1ad2122",
-      "time": "2026-05-14 03:00:57",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "ECB'S LANE: IN FACE OF LARGER AND MORE PERSISTENT OVERSHOOT, RESPONSE MUST BE APPROPRIATELY FORCEFUL OR PERSISTENT"
-    },
-    {
-      "id": "mkt:019e22b6-a46e-7dd0-a6aa-187a9d75a819",
-      "time": "2026-05-14 03:00:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ECB'S LANE: OPTIMAL RESPONSE MIGHT BE SMALLER FOR EXOGENOUS SUPPLY DISRUPTION THAN FOR DEMAND SHOCK"
-    },
-    {
-      "id": "4878594",
-      "time": "2026-05-14 03:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒指期貨夜盤收漲1.93%，報26693.41點，高水304.97點。"
-    },
-    {
-      "id": "4878593",
-      "time": "2026-05-14 02:59:29",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油期貨結算價報每桶105.63美元，下跌2.14美元，跌幅1.99%。"
-    },
-    {
-      "id": "mkt:019e22b5-7392-7dd0-a6aa-1494701cc29e",
-      "time": "2026-05-14 02:59:25",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "VANCE: THE INFLATION NUMBER LAST MONTH WAS NOT GREAT"
-    },
-    {
-      "id": "mkt:019e22b5-23a0-7dd0-a6aa-08b16bc6f3ce",
-      "time": "2026-05-14 02:59:16",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bearish"
-      ],
-      "text": "BRENT CRUDE FUTURES SETTLE AT $105.63/BBL, DOWN $2.14, 1.99 PCT"
-    },
-    {
-      "id": "4878592",
-      "time": "2026-05-14 02:57:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "萬斯就白宮宴會廳翻新成本飆升一事表示：造價高昂的原因不在於宴會廳本身，而是出於安保防護措施——這些都是必要開支，和宴會廳並無關聯，只關乎白宮整體的安保基礎設施建設。"
     }
   ]
 }
