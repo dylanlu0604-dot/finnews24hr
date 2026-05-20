@@ -1,7 +1,78 @@
 {
-  "updated": "2026-05-20 09:43:09",
-  "count": 15547,
+  "updated": "2026-05-20 09:47:07",
+  "count": 15546,
   "items": [
+    {
+      "id": "4889157",
+      "time": "2026-05-20 09:46:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股儲存概念股走強 兆易創新漲近6%】截至發稿，兆易創新(03986.HK)漲5.90%，瀾起科技(06890.HK)漲1.56%。"
+    },
+    {
+      "id": "4889156",
+      "time": "2026-05-20 09:46:25",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【機器人概念震盪下挫 大業股份觸及跌停】早盤機器人概念震盪下挫，大業股份觸及跌停，巨輪智慧、三協電機、北自科技、五洲新春、天奇股份等跌幅靠前。"
+    },
+    {
+      "id": "4889155",
+      "time": "2026-05-20 09:45:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "【軍購被“砍單” 馬來西亞向挪威索賠逾2.5億美元】馬來西亞國防部長哈立德19日說，馬方已向挪威正式提出索賠，要求後者為單方面取消一項導彈系統軍購合同的行為賠償馬方逾2.5億美元損失。哈立德說，這筆賠償包括馬方承受的直接損失和間接損失，前者包含馬方已經支付的近95%的合同款，大約1.47億美元。哈立德說，馬方還將向挪威索要涉及訓練人員和拆除導彈配套裝備的額外損失。"
+    },
+    {
+      "id": "mkt:019e430e-1a50-7228-9b01-bb99a9f40b04",
+      "time": "2026-05-20 09:44:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "Hang Seng Index",
+        "CNH"
+      ],
+      "text": "BEIJING STOCK EXCHANGE 50 INDEX FALLS 1.05% INTRADAY"
+    },
+    {
+      "id": "4889153",
+      "time": "2026-05-20 09:43:51",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期日本國債收益率下降1個基點至2.790%。"
+    },
+    {
+      "id": "mkt:019e430d-a61e-7228-9b01-b478cd3a45b6",
+      "time": "2026-05-20 09:43:48",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Hang Seng Index",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "HONG KONG-LISTED GOLD STOCKS FALL; EVEREST GOLD DOWN OVER 6%"
+    },
+    {
+      "id": "mkt:019e430d-5645-7228-9b01-aa886e311bac",
+      "time": "2026-05-20 09:43:27",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "A-SHARE SEMICONDUCTOR SHARES RISE, SKYVERSE TECHNOLOGY UP OVER 15%"
+    },
     {
       "id": "4889151",
       "time": "2026-05-20 09:42:03",
@@ -140283,80 +140354,6 @@
         "市場"
       ],
       "text": "【液冷概念表現活躍 華升股份漲停】液冷概念表現活躍，華升股份漲停，歐陸通、長纜科技、日科化學、工業富聯、金田股份等大漲。"
-    },
-    {
-      "id": "4876445",
-      "time": "2026-05-13 09:46:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "創新藥概念震盪走低，泰格醫藥跌超10%，雙鷺藥業、南新制藥、前沿生物、三生國健、悅康藥業跌幅居前。"
-    },
-    {
-      "id": "4876444",
-      "time": "2026-05-13 09:46:22",
-      "tags": [
-        "市場"
-      ],
-      "text": "英偉達美股夜盤直線拉昇漲0.7%。"
-    },
-    {
-      "id": "te:markets:550139",
-      "time": "2026-05-13 09:46:20",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "South Korea",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "South Korean Shares Rebound — The benchmark KOSPI rose more than 1% to around 7,740 on Wednesday, rebounding after a sharp selloff in the previous session as investors selectively bought semiconductor and large-cap technology stocks. Optimism over AI demand and strength in chip exports continued to support sentiment. Gains were led by SK Hynix (2.9%), SK Square (1.9%), Hyundai Motor (5.3%), HD Hyundai Heavy Industries (2.6%), and Kia Corporation (1.9%), while losses were seen in Samsung Electronics (-2.2%), LG Energy Solution (-3.2%), and Doosan Enerbility (-4.9%). Meanwhile, hotter-than-expected US inflation strengthened expectations that the Federal Reserve could keep interest rates elevated for longer, while lingering uncertainty over US-Iran peace talks and elevated oil prices continued to weigh on sentiment. Investors also remained cautious amid policy uncertainty over proposals to redistribute AI-driven excess tax revenues and fears of a major Samsung Electronics strike after wage talks collapsed."
-    },
-    {
-      "id": "4876437",
-      "time": "2026-05-13 09:46:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美透露以色列在阿聯酋部署鐵穹】美國駐以色列大使邁克·赫卡比5月12日在特拉維夫大學舉行的一場會議上確認，以色列已在阿聯酋部署“鐵穹”防空系統及相關操作人員。 美國常駐聯合國代表華爾茲當天也證實，以色列已在阿聯酋部署“鐵穹”防空系統，並在近期衝突中幫助阿聯酋攔截導彈。這是“鐵穹”首次被部署到以色列和美國以外的國家。 以色列與阿聯酋2020年簽署關係正常化協議，此後經濟和軍事聯絡不斷加強。（CCTV國際時訊）"
-    },
-    {
-      "id": "4876430",
-      "time": "2026-05-13 09:44:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "【安克創新：未來18個月計劃繼續減少50%至70%充電產品型號數量】5月12日，安克創新召開2025年年度股東大會。現場參會股東向介面新聞記者透露，安克創新方面在會上回應充電產品品控問題時表示，充電品類過去確實存在產品型號過多的問題。2024年，公司僅充電寶產品就有100款。公司方面稱，“無論如何也不應該有100款，或者說，怎麼樣的公司也不可能做好100款充電寶的品質”。過去18個月，安克創新已減少約70%的充電產品型號數量，未來18個月還計劃繼續減少50%至70%。（介面新聞記者 梁寶欣）"
-    },
-    {
-      "id": "4876429",
-      "time": "2026-05-13 09:43:59",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "三星股價抹去此前高達6.1%的跌幅，上漲0.9%。"
-    },
-    {
-      "id": "mkt:019e1f00-f272-7553-b25d-7049a20566fe",
-      "time": "2026-05-13 09:43:36",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "YIELD ON 5-YEAR JGB RISES 3.0 BASIS POINTS TO RECORD HIGH OF 1.945% YIELD ON 20-YEAR JGB RISES 5 BASIS POINTS TO 3.495%, RECORD HIGH"
-    },
-    {
-      "id": "4876428",
-      "time": "2026-05-13 09:43:34",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【玻璃基板概念異動拉昇 彩虹股份漲停】早盤玻璃基板概念異動拉昇，彩虹股份漲停，新益昌漲超10%，沃格光電、壹石通、凱盛科技、安彩高科、五方光電跟漲。"
     }
   ]
 }
