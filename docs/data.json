@@ -1,7 +1,96 @@
 {
-  "updated": "2026-05-20 13:18:11",
-  "count": 15627,
+  "updated": "2026-05-20 13:22:11",
+  "count": 15634,
   "items": [
+    {
+      "id": "4889494",
+      "time": "2026-05-20 13:21:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國副財長表示，將監控本土債券市場出現的羊群行為。"
+    },
+    {
+      "id": "4889493",
+      "time": "2026-05-20 13:20:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼經濟部長：總統已簽署新的出口收入條例。"
+    },
+    {
+      "id": "4889492",
+      "time": "2026-05-20 13:20:25",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "韓國副財政部長表示，如有必要，將採取措施穩定金融市場。"
+    },
+    {
+      "id": "4889491",
+      "time": "2026-05-20 13:20:14",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "日本石油協會會長：一些日本公司正在從拉丁美洲（例如墨西哥和厄瓜多）以及阿拉斯加採購原油。"
+    },
+    {
+      "id": "4889490",
+      "time": "2026-05-20 13:19:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【海關總署署長孫梅君會見巴西農業和畜牧業部部長迪保拉】5月19日下午，海關總署署長孫梅君在署會見巴西農業和畜牧業部部長迪保拉。雙方就落實兩國領導人共識、深化海關檢驗檢疫事務和食品安全合作、擴大農食產品雙向准入、深入推進智慧海關合作伙伴計劃等議題交換意見。巴西駐華大使高望、巴西農業和畜牧業部副部長魯阿參加會見。"
+    },
+    {
+      "id": "4889489",
+      "time": "2026-05-20 13:19:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "【半導體裝置板塊午後進一步走強，中科飛測20cm漲停】半導體裝置板塊午後進一步走強，中科飛測20cm漲停，拓荊科技、長川科技漲超10%，北方華創、華海清科、微導奈米漲幅居前。"
+    },
+    {
+      "id": "4889488",
+      "time": "2026-05-20 13:19:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【機器人概念午後異動 上緯新材漲超10%創歷史新高】午後機器人概念區域性異動，上緯新材漲超10%，創歷史新高，總市值超700億元，浙江榮泰、偉創電氣、奧比中光、智微智慧、勝藍股份跟漲。"
+    },
+    {
+      "id": "4889487",
+      "time": "2026-05-20 13:18:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "ST海龍盤中漲停，上演“地天板”，現報2.4元，成交額3.37億元。"
+    },
+    {
+      "id": "mkt:019e43d1-9d8f-7cc9-b8d6-1cb4f373b287",
+      "time": "2026-05-20 13:17:49",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "JAPAN PETROLEUM ASSOCIATION PRESIDENT: US CRUDE EXPECTED TO BECOME MAIN SUBSTITUTE FOR MIDDLE EASTERN OIL"
+    },
+    {
+      "id": "4889486",
+      "time": "2026-05-20 13:17:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "中芯國際成交額達200億元，現漲10.25%。"
+    },
     {
       "id": "4889485",
       "time": "2026-05-20 13:15:49",
@@ -141038,35 +141127,6 @@
         "國際"
       ],
       "text": "【國債期貨拉昇 30年期主力合約漲超0.2%】國債期貨拉昇，30年期主力合約盤中漲0.20%，現報113.180元。10年期漲0.08%，現報108.825元。5年期漲0.08%，現報106.34元。2年期漲0.03%，現報102.586元。"
-    },
-    {
-      "id": "te:economy:550216",
-      "time": "2026-05-13 13:20:06",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Economy Watchers Survey",
-        "Importance 1"
-      ],
-      "text": "Japan Services Sentiment Drops to Over 4-Year Low — Japan’s services sector sentiment index fell to 40.8 in April 2026 from 42.2 in the prior month, missing market expectations of 41.6 and marking the lowest reading since February 2022. The decline also extended losses for a second straight month, highlighting a sluggish domestic recovery amid rising uncertainty linked to tensions in the Middle East. Household-related indicators weakened notably, suggesting softer spending conditions as consumers turned more cautious amid higher living costs and external risks. The corporate activity index also declined, pressured mainly by weakness in the non-manufacturing sector, while employment conditions deteriorated further, signaling slower hiring momentum among service-sector firms. Meanwhile, the economic outlook index, which measures sentiment for the months ahead, edged up to 39.4 from March’s more than five-month low of 38.7, indicating some expectations that conditions could stabilize despite persistent uncertainty."
-    },
-    {
-      "id": "4876956",
-      "time": "2026-05-13 13:19:31",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【算力租賃概念午後持續拉昇 資料港漲停】算力租賃概念午後持續拉昇，資料港漲停，此前潤建股份、城地香江、奧瑞德、中嘉博創漲停，宏景科技、潤澤科技、平治資訊、網宿科技、協創資料均漲超10%，東陽光、大位科技、美利雲跟漲。"
-    },
-    {
-      "id": "4876955",
-      "time": "2026-05-13 13:18:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗處決一名被控為以色列摩薩德從事間諜活動的男子。"
     }
   ]
 }
