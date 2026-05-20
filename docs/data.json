@@ -1,7 +1,103 @@
 {
-  "updated": "2026-05-20 23:30:29",
-  "count": 15801,
+  "updated": "2026-05-20 23:34:21",
+  "count": 15769,
   "items": [
+    {
+      "id": "4890981",
+      "time": "2026-05-20 23:33:29",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣四個月期國債，得標利率3.590%，投標倍數3.34。"
+    },
+    {
+      "id": "4890980",
+      "time": "2026-05-20 23:33:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "高通：高通正式推出高通龍翼移動寬頻多媒體系列全新寬頻平臺產品陣容。"
+    },
+    {
+      "id": "mkt:019e4604-a66e-7bb5-8184-cf28f2a13e0c",
+      "time": "2026-05-20 23:32:49",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Month Bill Auction Bid/Cover Ratio (May.20) | actual 3.34 | previous 3.2"
+    },
+    {
+      "id": "mkt:019e4604-862a-7bb5-8184-c3f5f89f4e64",
+      "time": "2026-05-20 23:32:42",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Month Bill Auction High Yield Rate (May.20) | actual 3.59% | previous 3.62%"
+    },
+    {
+      "id": "4890979",
+      "time": "2026-05-20 23:31:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國DAX 30指數初步收漲1.46%，報24757.63點。法國股指初步收漲1.67%，義大利股指初步收漲1.80%，英國股指初步收漲1.06%。"
+    },
+    {
+      "id": "4890978",
+      "time": "2026-05-20 23:31:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐洲STOXX 600指數初步收漲1.35%，報619.60點。歐元區STOXX 50指數初步收漲2.67%，報6007.29點。"
+    },
+    {
+      "id": "mkt:019e4603-912c-7bb5-8184-bbdff21b89f8",
+      "time": "2026-05-20 23:31:39",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Regions",
+        "Wall Street (US)",
+        "WTI",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "【Oil Slides, Stocks Rise After Trump Says US in Final-Stage Iran Talks】Crude oil fell as low as $97 a barrel before rebounding toward $98.60 after President Donald Trump said the US is in the “final stages” of talks with Iran, easing supply concerns. US equities advanced, with the S&P 500 rising 0.94% and the Nasdaq gaining 1.31%. The dollar weakened, pushing USD/JPY below its 100-hour moving average near 158.78 and toward recent lows around 158.60."
+    },
+    {
+      "id": "4890977",
+      "time": "2026-05-20 23:31:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "路透社20日援引美國政府高階官員的話說，古巴革命領袖勞爾·卡斯特羅在美國被起訴。（新華社）"
+    },
+    {
+      "id": "te:economy:552376",
+      "time": "2026-05-20 23:30:19",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Bonds",
+        "Importance 1"
+      ],
+      "text": "Bonds Update: United Kingdom 10Y Bond Yield Falls by 14 bps — Government bonds yields are lower on Wednesday. Top losers are United Kingdom 10Y (-14.10bps), Italy 10Y (-13.41bps) and France 10Y (-11.53bps)."
+    },
+    {
+      "id": "mkt:019e4602-3047-7bb5-8184-b75a9e625d0d",
+      "time": "2026-05-20 23:30:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RUSSIA RECEIVED RIGHT TO EXPORT BEEF TO INDONESIA: IFX"
+    },
     {
       "id": "4890976",
       "time": "2026-05-20 23:27:50",
@@ -141909,446 +142005,6 @@
         "國際"
       ],
       "text": "【烏稱俄軍對烏多地發動無人機襲擊 俄方暫無回應】當地時間5月13日，烏克蘭總統澤連斯基在社交媒體上表示，俄方對烏克蘭發動了大規模攻擊。俄軍持續發射“見證者”無人機襲擊烏克蘭，重點針對靠近北約國家邊境的地區，外喀爾巴阡州、利沃夫州、沃倫州、伊萬諾-弗蘭科夫斯克市、羅夫諾州等多地均遭到打擊。截至目前，襲擊已造成6人死亡、數十人受傷（其中含兒童），俄方已發射至少800架無人機，攻擊仍在持續。烏克蘭外喀爾巴阡州軍事行政長官當天在社交媒體上發表宣告稱，該地區遭到俄烏衝突爆發以來最大規模攻擊，州內多個社群發生爆炸。此外，伊萬諾-弗蘭科夫斯克市市長表示，該市遭到俄方襲擊，市區內傳出清晰爆炸聲，防空警報持續作響。對於上述表態，俄羅斯方面暫無回應。（央視新聞）"
-    },
-    {
-      "id": "mkt:019e21f9-9f9a-7772-bc7f-e2740804aa38",
-      "time": "2026-05-13 23:34:15",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "S&P500",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "US10Y"
-      ],
-      "text": "FED SURVEY: CERTAIN DEMOGRAPHIC GROUPS, INCLUDING LOW-INCOME, YOUNG, AND BLACK ADULTS, SAW MEANINGFUL DECLINES IN ASSESSMENTS OF FINANCIAL WELLBEING"
-    },
-    {
-      "id": "4878297",
-      "time": "2026-05-13 23:34:12",
-      "tags": [
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "美聯儲柯林斯：我能夠預見有加息的必要性。"
-    },
-    {
-      "id": "mkt:019e21f9-9bcd-7772-bc7f-db1e9338ef50",
-      "time": "2026-05-13 23:34:12",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "FED SURVEY: IN 2025 73% OF AMERICANS SAID DOING OK OR COMFORTABLE FINANCIALLY, UNCHANGED FROM 2024"
-    },
-    {
-      "id": "mkt:019e21f9-8d06-7772-bc7f-d1aff9844c12",
-      "time": "2026-05-13 23:34:09",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "FED SURVEY: CONCERNS ABOUT PRICE INCREASES EASED SLIGHTLY YET REMAINED MOST COMMON FINANCIAL CONCERN AMONG US ADULTS"
-    },
-    {
-      "id": "4878296",
-      "time": "2026-05-13 23:34:03",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲柯林斯：美國央行可能需要加息以緩解通脹壓力。"
-    },
-    {
-      "id": "mkt:019e21f9-55e7-7772-bc7f-ce2af92b54de",
-      "time": "2026-05-13 23:34:00",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "FED SURVEY: IN 2025 63% SAID COULD COVER $400 EMERGENCY WITH CASH OR EQUIVALENT, UNCHANGED FROM 2024"
-    },
-    {
-      "id": "4878295",
-      "time": "2026-05-13 23:33:59",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲柯林斯：今年通脹不會回落，或在2027年降溫。"
-    },
-    {
-      "id": "mkt:019e21f9-2dcf-7772-bc7f-c18b72b5c535",
-      "time": "2026-05-13 23:33:54",
-      "tags": [
-        "MKT News",
-        "Nasdaq100",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "FED SURVEY: ONE-IN-FOUR WORKERS SAID THEY USED GENERATIVE AI AT WORK IN THE PRIOR MONTH"
-    },
-    {
-      "id": "mkt:019e21f9-2d07-7772-bc7f-bb1aa4448378",
-      "time": "2026-05-13 23:33:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "FED SURVEY: AI USERS MORE LIKELY TO EXPECT IT TO IMPROVE THEIR CAREER THAN TO EXPECT IT TO REPLACE THEIR JOBS"
-    },
-    {
-      "id": "mkt:019e21f9-2d05-7772-bc7f-b6f3e150f0b1",
-      "time": "2026-05-13 23:33:48",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 4-Month Bill Auction High Yield Rate (May.13) | actual 3.615% | previous 3.61%"
-    },
-    {
-      "id": "mkt:019e21f9-2cbf-7772-bc7f-aa15cbb6a57c",
-      "time": "2026-05-13 23:33:46",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "FED SURVEY: IN 2025 77% OF ADULTS CHANGED BEHAVIOR IN RESPONSE TO HIGHER PRICES VS 79% IN 2024 FED SURVEY: IN 2025 42% OF ADULTS SAID \"FINDING OR KEEPING A JOB\" WAS EITHER A \"MINOR\" OR \"MAJOR CONCERN\" VS 37% IN 2024"
-    },
-    {
-      "id": "mkt:019e21f9-1cc9-7772-bc7f-a4c3dcbf94e5",
-      "time": "2026-05-13 23:33:44",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 4-Month Bill Auction Bid/Cover Ratio (May.13) | actual 3.2 | previous 3.13"
-    },
-    {
-      "id": "mkt:019e21f9-0eb5-7772-bc7f-9f25189da7f8",
-      "time": "2026-05-13 23:32:44",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "US10Y"
-      ],
-      "text": "COLLINS SAYS SHE HOPES ECONOMY WILL ALLOW FOR MORE RATE CUTS LATER THIS YEAR"
-    },
-    {
-      "id": "mkt:019e21f9-0e04-7772-bc7f-91b216d8df70",
-      "time": "2026-05-13 23:32:34",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "COLLINS: ENERGY SHOCK CREATES DOWNSIDE GROWTH RISKS, UPSIDE INFLATION RISK"
-    },
-    {
-      "id": "4878294",
-      "time": "2026-05-13 23:32:31",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "美國財政部拍賣四個月期國債，得標利率3.615%，投標倍數3.20。"
-    },
-    {
-      "id": "4878293",
-      "time": "2026-05-13 23:32:28",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "【歐洲主要股指收盤普漲】歐洲斯托克600指數上漲0.66%，歐元斯托克指數上漲0.76%，歐元區藍籌股指數上漲0.7%。英國富時100指數上漲0.35%，德國DAX指數上漲0.61%，法國CAC 40指數上漲0.23%，西班牙IBEX指數上漲0.25%。"
-    },
-    {
-      "id": "mkt:019e21f8-8c64-7772-bc7f-8961f284006b",
-      "time": "2026-05-13 23:32:26",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "COLLINS SAYS SHE IS MOST WORRIED ABOUT INFLATION OUTLOOK RIGHT NOW"
-    },
-    {
-      "id": "mkt:019e21f8-4d00-7772-bc7f-85595026d475",
-      "time": "2026-05-13 23:32:12",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "WTI",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "COLLINS: QUICK END TO WAR WOULD MEAN RESILIENT DEMAND, SOME RISE IN UNEMPLOYMENT"
-    },
-    {
-      "id": "mkt:019e21f7-e742-7772-bc7f-7cd896173020",
-      "time": "2026-05-13 23:32:02",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "COLLINS: INFLATION WILL NOT ABATE THIS YEAR, COULD COOL IN 2027"
-    },
-    {
-      "id": "mkt:019e21f7-5770-7772-bc7f-71ded8aa0134",
-      "time": "2026-05-13 23:31:54",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "COLLINS: PROLONGED MIDDLE EAST WAR CREATES CHALLENGING POLICY CHOICES"
-    },
-    {
-      "id": "te:markets:550400",
-      "time": "2026-05-13 23:31:49",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Starbucks Stock Price Hits 14-month High — Starbucks shares increased to 108.05 USD, the highest since March 2025. Over the past 4 weeks, Starbucks gained 10.73%, and in the last 12 months, it increased 24.24%."
-    },
-    {
-      "id": "mkt:019e21f7-27b5-7772-bc7f-6b67a5c447d8",
-      "time": "2026-05-13 23:31:38",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "COLLINS: RIGHT NOW FED POLICY 'WELL POSITIONED' TO DEAL WITH RISKS"
-    },
-    {
-      "id": "4878292",
-      "time": "2026-05-13 23:31:29",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲調查：2025年，63%的受訪者表示可透過現金或現金等價物支付400美元的緊急支出，該比例與2024年持平。"
-    },
-    {
-      "id": "4878291",
-      "time": "2026-05-13 23:31:25",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲調查：低收入群體、年輕群體以及黑人成年群體等特定人口群體對自身財務健康狀況的評價出現了顯著下降。"
-    },
-    {
-      "id": "4878290",
-      "time": "2026-05-13 23:31:21",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲調查：2025年，42%的成年人稱“找到或保住工作”是“輕微擔憂”或“重大擔憂”，2024年該比例為37%。"
-    },
-    {
-      "id": "4878289",
-      "time": "2026-05-13 23:31:18",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲調查：2025年，有26%的成年人認為美國國民經濟“良好”或“極佳”，2024年這一比例為29%，疫情前的2019年為50%。"
-    },
-    {
-      "id": "mkt:019e21f6-c0e1-7772-bc7f-627a12f5ef21",
-      "time": "2026-05-13 23:31:16",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "COLLINS: IT’S POSSIBLE U.S. CENTRAL BANK WILL NEED TO HIKE INTEREST RATES TO COOL INFLATION PRESSURES"
-    },
-    {
-      "id": "4878288",
-      "time": "2026-05-13 23:31:14",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲調查：2025年，有77%的成年人因物價上漲調整了消費行為，2024年這一比例為79%。"
-    },
-    {
-      "id": "4878287",
-      "time": "2026-05-13 23:31:11",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲調查：四分之一的勞動者稱上月在工作中使用過生成式人工智慧。"
-    },
-    {
-      "id": "4878286",
-      "time": "2026-05-13 23:31:06",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲調查：使用人工智慧的從業者更傾向於認為人工智慧會助力自身職業發展，而非替代自身崗位。"
-    },
-    {
-      "id": "4878285",
-      "time": "2026-05-13 23:31:02",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲調查：美國成年人對物價上漲的擔憂略有緩和，但仍是最普遍的財務擔憂。"
-    },
-    {
-      "id": "mkt:019e21f6-808c-7772-bc7f-5c2e52b3aade",
-      "time": "2026-05-13 23:31:01",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "COLLINS: EXPECTS FED WILL NEED TO KEEP RESTRICTIVE POLICY 'FOR SOME TIME'"
-    },
-    {
-      "id": "4878284",
-      "time": "2026-05-13 23:30:57",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲柯林斯稱，或許需要進一步加息來抑制通脹。"
-    },
-    {
-      "id": "4878283",
-      "time": "2026-05-13 23:30:53",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲柯林斯稱，通脹預期保持錨定至關重要。"
-    },
-    {
-      "id": "4878282",
-      "time": "2026-05-13 23:30:50",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲柯林斯表示，她當前最擔憂的是通脹前景。"
-    },
-    {
-      "id": "4878281",
-      "time": "2026-05-13 23:30:45",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲柯林斯：戰事持續越久，通脹受到的影響就越大。"
-    },
-    {
-      "id": "4878280",
-      "time": "2026-05-13 23:30:42",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲柯林斯：美國當前受能源衝擊的影響比過去更小。"
-    },
-    {
-      "id": "mkt:019e21f6-259e-7772-bc7f-5244514f7f86",
-      "time": "2026-05-13 23:30:40",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "COLLINS: MUST RETURN TO 2% INFLATION TARGET IN REASONABLE TIME"
-    },
-    {
-      "id": "4878279",
-      "time": "2026-05-13 23:30:36",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲柯林斯表示，她希望今年晚些時候經濟形勢能允許進一步降息。"
-    },
-    {
-      "id": "mkt:019e21f6-153a-7772-bc7f-486de285a0fa",
-      "time": "2026-05-13 23:30:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "COLLINS: LONG-TERM INFL. EXPECTATIONS CONSISTENT WITH 2% TARGET"
-    },
-    {
-      "id": "4878278",
-      "time": "2026-05-13 23:30:32",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲柯林斯：中東戰事曠日持久將帶來棘手的政策抉擇。"
-    },
-    {
-      "id": "4878277",
-      "time": "2026-05-13 23:30:29",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲柯林斯：戰爭若迅速結束，需求將保持韌性，失業率會有所上升。"
     }
   ]
 }
