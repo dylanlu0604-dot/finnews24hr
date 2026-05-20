@@ -1,7 +1,78 @@
 {
-  "updated": "2026-05-20 14:38:19",
+  "updated": "2026-05-20 14:42:08",
   "count": 15666,
   "items": [
+    {
+      "id": "te:economy:552163",
+      "time": "2026-05-20 14:41:17",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Denmark",
+        "GDP Growth Rate",
+        "Importance 1"
+      ],
+      "text": "Danish GDP Growth Accelerates in Q1 — Denmark’s economy expanded 1.9% quarter-on-quarter in the first quarter of 2026 from a revised 0.5% in the previous period, according to preliminary estimates. The growth was driven by a strong improvement in the manufacturing sector, particularly supported by the pharmaceutical industry. Net external demand contributed positively as both exports (3.8% vs -0.3% in Q4) and imports (0.3% vs -0.7%) recovered. Private consumption also strengthened, with household spending rising (1.2% vs 0.7%) and total private consumption increasing (1.1% vs 0.7%). In contrast, government spending declined (-3.8% vs 5.1%), as well as for fixed investment (-3.5% vs 1.2%), weighed down by other building and construction (-6.4% vs 0.2%), and machinery (-3.6% vs 6.3%). On a yearly basis, GDP grew 5.9% in Q1 from 3.1% in the preceding period, marking the highest level since Q4 2021."
+    },
+    {
+      "id": "4889615",
+      "time": "2026-05-20 14:39:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【華工科技成交額達200億元】5月20日下午，華工科技成交額達200億元，現漲3.28%。"
+    },
+    {
+      "id": "4889614",
+      "time": "2026-05-20 14:39:37",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【英國通脹資料公佈後英鎊波動不大】英鎊波動不大，儘管資料顯示英國4月份通脹放緩幅度超出預期。4月份同比通脹率較3月份的3.3%降至2.8%，反映了政府為降低家庭能源賬單而採取的措施。接受調查的經濟學家此前預計通脹率將降至3.0%。Aberdeen經濟學家Luke Bartholomew在一份報告中表示，這將進一步減輕英國央行在短期內加息的壓力。“但就伊朗衝突對通脹的影響而言，我們肯定還沒有走出困境，“他說。英鎊平盤報1.3390美元。歐元平盤報0.8661英鎊。"
+    },
+    {
+      "id": "4889613",
+      "time": "2026-05-20 14:39:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "5月20日下午，國家主席習近平和俄羅斯總統普京將在北京人民大會堂共同出席“中俄教育年”開幕式並致辭。（新華社）"
+    },
+    {
+      "id": "mkt:019e441c-1c13-7cc9-95da-cba4ce518919",
+      "time": "2026-05-20 14:38:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "CHINA'S XI, PUTIN MEET PRESS"
+    },
+    {
+      "id": "4889612",
+      "time": "2026-05-20 14:38:21",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【三星勞資談判破裂 威剛董事長稱DRAM、NAND恐再掀漲價潮】三星電子的勞資談判再度宣告破裂，明天起將舉行大罷工。威剛董事長陳立白表示，倘若罷工時長拉長，或將進一步衝擊全球DRAM與NAND Flash供貨，推動行業價格上行。陳立白稱，當前三大儲存原廠2026年絕大部分產能早已提前訂滿售出，不少客戶已經開始洽談2027年及更長期的供貨合約。 (臺灣工商時報)"
+    },
+    {
+      "id": "mkt:019e441b-25c7-7cc9-95da-c2af4c1e477f",
+      "time": "2026-05-20 14:37:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "CHINA, RUSSIA COOPERATION DOCUMENTS INCLUDE ENERGY DEAL"
+    },
     {
       "id": "mkt:019e441a-d79f-7cc9-95da-b99ab13b0115",
       "time": "2026-05-20 14:37:50",
@@ -9,6 +80,14 @@
         "MKT News"
       ],
       "text": "CHINA, RUSSIA JOINTLY ANNOUNCE INITIATIVE TO PROMOTE MULTI-POLAR WORLD"
+    },
+    {
+      "id": "4889611",
+      "time": "2026-05-20 14:37:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "【習近平同俄羅斯總統普京共同會見記者】5月20日，國家主席習近平同俄羅斯總統普京在北京人民大會堂共同會見記者。（新華社）"
     },
     {
       "id": "te:markets:552162",
@@ -141332,72 +141411,6 @@
         "國際"
       ],
       "text": "據伊朗媒體，任命Aref為國家網路空間統籌領導特別總部負責人。"
-    },
-    {
-      "id": "4877059",
-      "time": "2026-05-13 14:41:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "SK Innovation集團第一季度銷售額為24.21萬億韓元，高於預期的21.29萬億韓元；淨利潤9643.9億韓元，預期6227.5億韓元。"
-    },
-    {
-      "id": "4877058",
-      "time": "2026-05-13 14:40:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "【邯鄲市共享智造股權投資基金成立，出資額10億元】企查查APP顯示，近日，邯鄲市共享智造股權投資基金（有限合夥）成立，出資額10億元，經營範圍包含：私募股權投資基金管理、創業投資基金管理服務等。企查查股權穿透顯示，該企業由邯鄲市產業投資集團有限公司等共同出資。"
-    },
-    {
-      "id": "4877057",
-      "time": "2026-05-13 14:40:06",
-      "tags": [
-        "市場",
-        "其他",
-        "焦點"
-      ],
-      "text": "【港股大模型“雙雄”持續飆升】港股大模型“雙雄”持續飆升，智譜漲幅擴大至20%，MINIMAX漲近12%。"
-    },
-    {
-      "id": "4877056",
-      "time": "2026-05-13 14:39:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "【京東聯合主流學習機品牌發起“淨音計劃”】近日，京東聯合科大訊飛、學而思、作業幫、小猿、希沃、步步高、京東方小課屏、狀元郎、九方智投、讀書郎、小霸王、掌記星等主流學習機品牌，正式發起“淨音計劃”暨行業綠色直播倡議，直指當前學習機市場直播亂象頻發的行業痛點。倡議明確提出“拒絕虛假測評、拒絕惡意拉踩、拒絕資料造假、拒絕販賣焦慮”，旨在整頓學習機行業直播測評中的亂象，推動學習機營銷和直播迴歸真實、客觀、公正，讓家長群體能夠安心選購學習機產品，讓行業競爭迴歸產品力本身。"
-    },
-    {
-      "id": "4877055",
-      "time": "2026-05-13 14:39:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "據傳沙特阿美還有意佈局天然氣工廠、水利基礎設施相關交易專案。"
-    },
-    {
-      "id": "4877054",
-      "time": "2026-05-13 14:39:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "軟銀：300 億美元過渡性貸款額度將用於投資 OpenAI。"
-    },
-    {
-      "id": "4877053",
-      "time": "2026-05-13 14:39:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "【沙利文報告：百度一鏡摘得數字人雙料第一】近日，沙利文釋出《中國AI數字人產業發展報告》，基於2025年全年資料，百度一鏡以8.1%的市場份額位列第一，且產品綜合實力第一。這是繼IDC之後，百度一鏡再次獲得國際權威機構背書。"
-    },
-    {
-      "id": "4877052",
-      "time": "2026-05-13 14:38:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特阿美擬從地產資產組合中募資超 100 億美元。"
     }
   ]
 }
