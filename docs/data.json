@@ -1,7 +1,506 @@
 {
-  "updated": "2026-05-21 03:53:06",
-  "count": 15693,
+  "updated": "2026-05-21 04:28:15",
+  "count": 15722,
   "items": [
+    {
+      "id": "4891214",
+      "time": "2026-05-21 04:27:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達：將推出資料中心與邊緣計算市場平臺。"
+    },
+    {
+      "id": "4891213",
+      "time": "2026-05-21 04:27:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達：第一財季超大規模雲服務商客戶收入環比增長。"
+    },
+    {
+      "id": "4891212",
+      "time": "2026-05-21 04:26:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達：一季度超大規模業務營收環比增長。"
+    },
+    {
+      "id": "4891211",
+      "time": "2026-05-21 04:25:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "英偉達股價在下跌3.2%後轉漲。"
+    },
+    {
+      "id": "te:markets:552419",
+      "time": "2026-05-21 04:25:27",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Nvidia earnings above expectations at 1.87 USD — Nvidia (NVDA) released earnings per share at 1.87 USD, compared to market expectations of 1.77 USD."
+    },
+    {
+      "id": "4891210",
+      "time": "2026-05-21 04:24:57",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "英偉達財報釋出後，美股半導體ETF下跌1.2%。"
+    },
+    {
+      "id": "4891209",
+      "time": "2026-05-21 04:24:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達第一財季調整後每股收益1.87美元，市場預估為1.77美元。"
+    },
+    {
+      "id": "4891208",
+      "time": "2026-05-21 04:23:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達預計第二財季營收891.8億至928.2億美元。"
+    },
+    {
+      "id": "4891207",
+      "time": "2026-05-21 04:23:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "英偉達美股盤後跌超3%。"
+    },
+    {
+      "id": "4891206",
+      "time": "2026-05-21 04:22:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達第一季度資料中心業務營收為752億美元。"
+    },
+    {
+      "id": "4891205",
+      "time": "2026-05-21 04:22:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達第一季度淨利潤為583億美元。"
+    },
+    {
+      "id": "4891204",
+      "time": "2026-05-21 04:21:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達第一季度營業利潤為535億美元。"
+    },
+    {
+      "id": "mkt:019e470d-3b0b-7bb5-8188-b2e1236e109d",
+      "time": "2026-05-21 04:21:49",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bearish"
+      ],
+      "text": "NVIDIA SHARES EDGE LOWER IN EXTENDED TRADE FOLLOWING RESULTS, LAST DOWN 0.6% AT $222.18"
+    },
+    {
+      "id": "mkt:019e470d-1cc7-7bb5-8188-ae27a808e88b",
+      "time": "2026-05-21 04:21:42",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA 1Q ADJ GROSS MARGIN 75% NVIDIA REPORTS $80.0B ADDED SHARE BUYBACK AUTHORIZATION NVIDIA MOVING TO A NEW REPORTING FRAMEWORK WITH TWO PLATFORMS"
+    },
+    {
+      "id": "4891203",
+      "time": "2026-05-21 04:21:32",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "英偉達宣佈新增800億美元股票回購授權，並將季度股息上調至每股0.25美元。"
+    },
+    {
+      "id": "mkt:019e470c-b1a6-7bb5-8188-a77421cde5d1",
+      "time": "2026-05-21 04:21:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bearish"
+      ],
+      "text": "NVIDIA SEES 2Q ADJ. OPERATING EXPENSES ABOUT $8.3B, EST. $7.93B"
+    },
+    {
+      "id": "4891202",
+      "time": "2026-05-21 04:21:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達：預計第二季度GAAP（公認會計准則）毛利率和非GAAP毛利率將分別為74.9%和75.0%，上下浮動幅度為50個基點。"
+    },
+    {
+      "id": "4891201",
+      "time": "2026-05-21 04:21:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達：將過渡至一套能更好反映公司當前及未來增長動力的全新報告框架。"
+    },
+    {
+      "id": "mkt:019e470c-67fa-7bb5-8188-9c581debc959",
+      "time": "2026-05-21 04:20:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA 1Q ADJ EPS $1.87 NVIDIA SEES 2Q REV. $89.18B TO $92.82B, EST. $87.36B"
+    },
+    {
+      "id": "4891200",
+      "time": "2026-05-21 04:20:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達將整合為兩大市場平臺：資料中心與邊緣計算。"
+    },
+    {
+      "id": "4891199",
+      "time": "2026-05-21 04:20:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達：將季度現金股息上調至每股0.25美元，將於2026年6月26日派息。"
+    },
+    {
+      "id": "4891198",
+      "time": "2026-05-21 04:20:34",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "英偉達：2027財年Q1營收816億美元，市場預期為786.72億美元，上年同期為440.62億美元。"
+    },
+    {
+      "id": "mkt:019e470b-f23f-7bb5-8188-916ac45f5d82",
+      "time": "2026-05-21 04:20:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVDA.O",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "NVIDIA 1Q DATA CENTER REVENUE $75.2B, EST. $73.48B NVIDIA 1Q REV. $81.62B, EST. $79.19B"
+    },
+    {
+      "id": "4891197",
+      "time": "2026-05-21 04:20:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達：預計第二季度營收為910億美元，上下浮動2%。"
+    },
+    {
+      "id": "4891196",
+      "time": "2026-05-21 04:15:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟外交與安全政策高階代表卡拉斯：以色列部長本・格維爾的所作所為，完全不符合民主國家公職人員應有的行事風範。全球蘇穆德援助船隊活動人士（其中包含歐盟公民）所遭受的對待有辱人格且實屬不當。"
+    },
+    {
+      "id": "4891195",
+      "time": "2026-05-21 04:11:01",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "摩根士丹利比特幣信託：羅希特·戈恩卡於2026年5月11日辭去摩根士丹利投資管理公司首席財務官一職，2026年5月14日任命薩莉·迪夫利出任首席財務官。"
+    },
+    {
+      "id": "te:economy:552416",
+      "time": "2026-05-21 04:10:55",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Argentina",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Argentina Trade Surplus Hits Record High in April — Argentina’s trade surplus widened to $2.71 billion in April 2026, increasing 15.1% year-on-year to a record high, well above forecasts of $1.76 billion. Exports surged 33.6% to a record $8.91 billion, with all major categories posting annual gains. Fuels and energy exports jumped 85.9%, mainly driven by higher crude oil and fuel shipments. Industrial manufactured goods rose 43.3%, supported by stronger exports of precious stones and metals, transport equipment, and chemical products. Primary product exports increased 25%, with cereals contributing the most to the rise. Meanwhile, imports fell 4% to $6.20 billion, led by a 45.4% decline in fuels and lubricants. Imports of parts and accessories for capital goods also dropped 17.4%."
+    },
+    {
+      "id": "4891194",
+      "time": "2026-05-21 04:08:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【全球船東訂單湧來 我國拿下90%超大型油輪新訂單】今年以來，我國造船業新接訂單不斷，拿下全球超九成的超大型油輪新船訂單，在全球市場佔據主導地位。"
+    },
+    {
+      "id": "4891193",
+      "time": "2026-05-21 04:06:30",
+      "tags": [
+        "公司",
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲推出新型清算結算支付賬戶方案】美國聯邦儲備委員會公佈一項提案，擬設立一類全新支付賬戶，可供部分金融機構用於資金清算與結算業務。美聯儲於週三釋出宣告稱，該新設賬戶方案目前面向公眾徵求意見，既適配行業創新發展需求，同時也能有效降低聯邦儲備銀行及支付體系面臨的重大風險。此前，隨著加密貨幣企業與金融科技公司紛紛謀求直接接入美聯儲支付系統，美聯儲便已醞釀推出這類新型賬戶。此後堪薩斯城聯邦儲備銀行向加密交易平臺克拉肯發放專用受限賬戶資質，使其成為首家直接接入美國主流支付基礎設施的數字資產機構。美聯儲明確，此類賬戶使用者無法獲得日間信貸及貼現視窗融資許可權，存放於儲備銀行的賬戶餘額不計付利息，且僅可使用配備自動防透支管控機制的支付服務。"
+    },
+    {
+      "id": "te:markets:552412",
+      "time": "2026-05-21 04:05:25",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Intuit earnings above expectations at 12.80 USD — Intuit (INTU) released earnings per share at 12.80 USD, compared to market expectations of 12.57 USD."
+    },
+    {
+      "id": "mkt:019e46fc-d9c8-7bb5-8188-898120fde396",
+      "time": "2026-05-21 04:03:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Regions",
+        "Wall Street (US)",
+        "Market Themes",
+        "Magnificent 7",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "NVDA.O",
+        "Impact mixed"
+      ],
+      "text": "【US Stocks Rally as Oil Falls Ahead of Nvidia Earnings】U.S. stocks rose sharply Wednesday as oil prices declined and Treasury yields retreated ahead of earnings from Nvidia. The S&P 500 gained more than 1%, the Nasdaq climbed 1.5%, and the Dow added about 600 points. Markets rebounded after a recent bond selloff driven by concerns persistent inflation could push the Federal Reserve toward rate hikes. Oil posted its biggest one-day drop in a month after Donald Trump said the U.S. was nearing an agreement with Iran. Investors are expecting a roughly 5.5% post-earnings move in Nvidia shares, according to Bloomberg."
+    },
+    {
+      "id": "4891192",
+      "time": "2026-05-21 04:03:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國首相府：斯塔默和澤連斯基重申需要繼續對俄羅斯施壓，並對英烏關係的牢固表示歡迎。"
+    },
+    {
+      "id": "4891191",
+      "time": "2026-05-21 04:02:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國首相府：首相重申英國對烏克蘭的堅定支援。"
+    },
+    {
+      "id": "mkt:019e46fb-ecf9-7bb5-8188-825d9d0e6524",
+      "time": "2026-05-21 04:02:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "UK DOWNING STREET: PRIME MINISTER REAFFIRMED UK'S STEADFAST SUPPORT FOR UKRAINE"
+    },
+    {
+      "id": "mkt:019e46fb-c8d3-7bb5-8188-7eb8860f90b9",
+      "time": "2026-05-21 04:02:46",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "UK PM OFFICE: STARMER AND ZELENSKIY REITERATED NEED TO KEEP UP THIS PRESSURE ON RUSSIA AND WELCOMED STRENGTH OF UK-UKRAINE RELATIONSHIP"
+    },
+    {
+      "id": "4891190",
+      "time": "2026-05-21 04:02:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國首相府：首相今晚與烏克蘭總統澤連斯基通電話。"
+    },
+    {
+      "id": "mkt:019e46fa-ff2d-7bb5-8188-739384120249",
+      "time": "2026-05-21 04:01:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "UK PM OFFICE: PRIME MINISTER SPOKE WITH PRESIDENT VOLODYMYR ZELENSKYY OF UKRAINE THIS EVENING"
+    },
+    {
+      "id": "4891189",
+      "time": "2026-05-21 04:01:48",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "高盛股價上漲5.8%，創歷史新高，為2025年4月以來最大漲幅。"
+    },
+    {
+      "id": "mkt:019e46fa-e1f4-7bb5-8188-6d61c482a4df",
+      "time": "2026-05-21 04:01:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "Nasdaq100",
+        "Impact bullish",
+        "Dow",
+        "S&P500"
+      ],
+      "text": "NASDAQ CLOSED +1.54%, DOW +1.31%, S&P 500 +1.08%"
+    },
+    {
+      "id": "mkt:019e46fa-58c5-7bb5-8188-6181110d0d15",
+      "time": "2026-05-21 04:01:12",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "US FEDERAL RESERVE PROPOSES TO ESTABLISH LIMITED 'PAYMENT ACCOUNT' FOR SOME INSTITUTIONS PROPOSAL WOULD NOT EXPAND OR CHANGE LEGAL ELIGIBILITY FOR FED ACCOUNT ACCESS NEW PAYMENT ACCOUNT HOLDERS WOULD NOT HAVE ACCESS TO INTRADAY CREDIT OR FED'S DISCOUNT WINDOW, WOULD NOT EARN INTEREST ON FED RESERVES"
+    },
+    {
+      "id": "mkt:019e46fa-1e18-7bb5-8188-5f648ce8b611",
+      "time": "2026-05-21 04:00:57",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "FED SAYS IT IS ALSO ENCOURAGING FED RESERVE BANKS TO PAUSE DECISIONS ON GRANTING NONTRADITIONAL ACCOUNTS UNTIL IT HAS COMPLETED WORK ON NEW POLICY"
+    },
+    {
+      "id": "4891188",
+      "time": "2026-05-21 04:00:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體收漲】道指漲1.31%，標普500指數漲1.08%，納指漲1.53%。Arm Holdings漲14.99%，聯合大陸航空漲9.99%，超微電腦漲9.55%，達美航空漲9.39%，嘉年華漲8.98%，挪威郵輪漲8.42%，NRG能源漲8.31%。“七姐妹”方面：特斯拉漲3.25%，亞馬遜漲2.20%，英偉達漲1.32%，蘋果漲1.07%，微軟漲0.87%，Meta Platforms漲0.39%，谷歌跌0.02%。"
+    },
+    {
+      "id": "4891187",
+      "time": "2026-05-21 04:00:11",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗“波斯灣海峽管理局”：伊朗已就霍爾木茲海峽的監管管轄範圍作出如下界定，管控海域東界線為海峽東入口處，連線伊朗庫赫 - 穆巴拉克與阿聯酋富查伊拉南部的連線；管控海域西界線為海峽西入口處，連線伊朗格什姆島頂端與阿聯酋烏姆蓋萬的連線。任何以穿越霍爾木茲海峽為目的、途經該管控海域的船舶，均需與波斯灣海峽管理局協調並獲得其授權。"
+    },
+    {
+      "id": "4891186",
+      "time": "2026-05-21 04:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收跌0.47%】萬國資料跌9.21%，嗶哩嗶哩跌8.60%，逸仙電商跌6.01%，新氧跌5.36%，金山雲跌4.28%。"
+    },
+    {
+      "id": "mkt:019e46f9-1b32-7bb5-8188-56d5338d0789",
+      "time": "2026-05-21 03:59:50",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "THE AUTHORITY SETS THE ZONE AS LINE CONNECTING KUH-E MUBARAK IN IRAN TO SOUTH OF UAE'S FUJAIRAH AT EASTERN ENTRANCE OF STRAIT TO THE LINE CONNECTING TIP OF QESHM ISLAND TO UMM AL-QUWAIN AT THE WESTERN ENTRANCE TRANSIT THROUGH THIS AREA FOR PURPOSE OF PASSING THROUGH HORMUZ STRAIT REQUIRES COORDINATION WITH AND AUTHORIZATION FROM THE AUTHORITY -POST ON X"
+    },
+    {
+      "id": "4891185",
+      "time": "2026-05-21 03:57:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗“波斯灣海峽管理局”公佈霍爾木茲海峽管控海區。"
+    },
+    {
+      "id": "4891184",
+      "time": "2026-05-21 03:56:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談土耳其總統埃爾多安：我和埃爾多安總統進行了一次十分愉快的通話，我們之間關係融洽。我能和一眾強硬派人物交好，這難道不是一件好事嗎？他作風強硬，但我和他有著旁人無法企及的深厚交情。事實上他執政表現出色，在我看來更是十足的盟友。有些人對此心存質疑，但我堅信他是可靠的盟友，也深受本國民眾的擁戴。"
+    },
+    {
+      "id": "mkt:019e46f6-534b-7bb5-8188-4c358538d9b1",
+      "time": "2026-05-21 03:56:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "IRAN'S 'PERSIAN GULF STRAIT AUTHORITY' REVEALS CONTROLLED MARITIME ZONE IN THE STRAIT OF HORMUZ - POST ON X"
+    },
+    {
+      "id": "4891183",
+      "time": "2026-05-21 03:55:51",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【國際油價20日大幅下跌】國際油價20日大幅下跌。截至當天收盤，紐約商品交易所7月交貨的輕質原油期貨價格下跌5.89美元，收於每桶98.26美元，跌幅為5.66%；7月交貨的倫敦布倫特原油期貨價格下跌6.26美元，收於每桶105.02美元，跌幅為5.63%。"
+    },
+    {
+      "id": "4891182",
+      "time": "2026-05-21 03:54:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國特使：美方認為如今是重新確立美國在格陵蘭影響力的時機。"
+    },
+    {
+      "id": "4891181",
+      "time": "2026-05-21 03:52:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "【繼續施壓古巴 美國起訴古革命領袖勞爾·卡斯特羅】美國佛羅里達州南區聯邦地區法院20日公佈的法庭檔案顯示，該法院一個大陪審團同意起訴古巴革命領袖勞爾·卡斯特羅及其他5人。這一訴訟被認為是美國對古巴施壓措施的一部分。美國聯邦檢方指控勞爾·卡斯特羅等人在1996年古巴流亡分子飛機被擊落事件中，涉嫌謀殺4人和破壞飛機等罪行。勞爾·卡斯特羅在上述事件發生時擔任古巴革命武裝力量部部長。古巴國家主席迪亞斯-卡內爾20日在社交媒體表示，美國政府針對勞爾·卡斯特羅提出所謂“指控”完全出於政治動機。（新華社）"
+    },
     {
       "id": "4891180",
       "time": "2026-05-21 03:50:13",
@@ -141039,226 +141538,6 @@
         "國際"
       ],
       "text": "阿聯酋外交部：阿聯酋與以色列的關係公開透明，雙方建交是在眾所周知且已公開簽署的《亞伯拉罕協議》 框架下達成的。"
-    },
-    {
-      "id": "4878625",
-      "time": "2026-05-14 04:28:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "秘魯投資機構負責人：歐美多家投行意向強烈，擬為秘魯國家石油公司（PETROPERU）提供 20 億美元貸款。秘魯國家石油公司預計將於6 月中旬收到此次融資款項中的首筆 5 億美元資金劃轉。"
-    },
-    {
-      "id": "4878624",
-      "time": "2026-05-14 04:27:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "阿聯酋外交部否認有關內塔尼亞胡訪問阿聯酋的報道。"
-    },
-    {
-      "id": "4878623",
-      "time": "2026-05-14 04:21:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外長：內塔尼亞胡如今公開道出了伊朗安全部門早已向我方領導層通報的實情。勾結以色列做出此種行徑，實屬不可饒恕。 凡是勾結以色列、蓄意製造分裂者，必將被追究責任。"
-    },
-    {
-      "id": "4878622",
-      "time": "2026-05-14 04:16:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "思科將裁員不到4000人，不到員工總數的5%。"
-    },
-    {
-      "id": "4878621",
-      "time": "2026-05-14 04:14:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "思科：預計 2026 財年來自超大規模雲服務商的訂單規模達90 億美元，高於此前的 50 億美元。"
-    },
-    {
-      "id": "4878620",
-      "time": "2026-05-14 04:13:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "訊息人士：微軟正洽談收購多家 AI 初創企業，為後 OpenAI 時代佈局做準備。微軟已與人工智慧初創公司 Inception 洽談相關合作交易。微軟曾考慮收購 Cursor 公司，後因反壟斷監管顧慮最終放棄該收購計劃。"
-    },
-    {
-      "id": "mkt:019e22f9-5074-7dd0-a6aa-dbba61c87187",
-      "time": "2026-05-14 04:13:44",
-      "tags": [
-        "MKT News",
-        "UPS.O"
-      ],
-      "text": "UPS - KEVIN M. WARSH RESIGNS FROM BOARD EFFECTIVE MAY 13, 2026 - SEC FILING"
-    },
-    {
-      "id": "mkt:019e22f9-2927-7dd0-a6aa-d2b431fea051",
-      "time": "2026-05-14 04:13:34",
-      "tags": [
-        "MKT News",
-        "MSFT.O",
-        "Impact bullish"
-      ],
-      "text": "MICROSOFT EXPLORING AI STARTUP DEALS TO PREPARE FOR LIFE AFTER OPENAI: SOURCES MICROSOFT WEIGHED ACQUISITION OF CURSOR, BACKED AWAY OVER ANTITRUST CONCERNS: SOURCES MICROSOFT HAS DISCUSSED DEAL WITH AI STARTUP INCEPTION: SOURCES INCEPTION HAS HIRED BANK TO NEGOTIATE A DEAL OF AT LEAST $1 BILLION: SOURCE"
-    },
-    {
-      "id": "mkt:019e22f7-c1df-7dd0-a6aa-ce4d431e2be2",
-      "time": "2026-05-14 04:12:02",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "AI CHIPMAKER CEREBRAS SAID POISED TO PRICE IPO AT $185/SHARE"
-    },
-    {
-      "id": "te:markets:550426",
-      "time": "2026-05-14 04:10:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Cisco Systems earnings above expectations at 1.06 USD — Cisco Systems (CSCO) released earnings per share at 1.06 USD, compared to market expectations of 1.03 USD."
-    },
-    {
-      "id": "4878619",
-      "time": "2026-05-14 04:09:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "人工智慧晶片廠商 Cerebras 擬以每股 185 美元定價進行首次公開發行（IPO）。"
-    },
-    {
-      "id": "4878618",
-      "time": "2026-05-14 04:05:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "思科第三財季營收158億美元，分析師預期155.7億美元。\n預計第四財季營收167億-169億美元，分析師預期158.2億美元。"
-    },
-    {
-      "id": "mkt:019e22ef-ac94-7dd0-a6aa-c5ef1e459a27",
-      "time": "2026-05-14 04:03:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "FORD SHARES END 13% HIGHER, MARKING THEIR LARGEST RALLY SINCE 2020"
-    },
-    {
-      "id": "mkt:019e22ef-6871-7dd0-a6aa-bf028e0b5b68",
-      "time": "2026-05-14 04:02:55",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Wall Street (US)",
-        "Market Themes",
-        "AI Revolution",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "S&P500",
-        "Impact bullish",
-        "Nasdaq100",
-        "Dow",
-        "Impact bearish"
-      ],
-      "text": "【S&P 500, Nasdaq Hit Records as Tech Rally Offsets Hot Inflation Data】US stocks climbed to record highs on Wednesday despite stronger-than-expected producer inflation data, with the S&P 500 rising 0.6% and the Nasdaq gaining 1.2% as semiconductor and megacap tech shares advanced. The Dow Jones Industrial Average edged lower. The Senate also confirmed Kevin Warsh as the next Federal Reserve chair in a 54-45 vote. Markets continued to monitor inflation pressures, Fed policy expectations, and President Donald Trump’s summit with Xi Jinping in Beijing focused on trade and AI discussions."
-    },
-    {
-      "id": "4878617",
-      "time": "2026-05-14 04:02:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "英偉達收漲2.3%，連續第六個交易日走高。"
-    },
-    {
-      "id": "mkt:019e22ee-dce2-7dd0-a6aa-b53e598f8a5c",
-      "time": "2026-05-14 04:02:19",
-      "tags": [
-        "MKT News",
-        "NVDA.O",
-        "Impact bullish",
-        "Nasdaq100"
-      ],
-      "text": "NVIDIA SHARES CLOSE UP 2.3%, EXTENDING WIN STREAK TO SIXTH DAY"
-    },
-    {
-      "id": "mkt:019e22ee-902c-7dd0-a6aa-adfd1c9eed58",
-      "time": "2026-05-14 04:02:00",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7",
-        "GOOGL.O",
-        "Impact bullish",
-        "Nasdaq100"
-      ],
-      "text": "ALPHABET SHARES CLOSE UP 3.9% TO HIT A FRESH RECORD"
-    },
-    {
-      "id": "4878616",
-      "time": "2026-05-14 04:01:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "福特股價收盤大漲 13%，創 2020 年以來最大單日漲幅。"
-    },
-    {
-      "id": "4878615",
-      "time": "2026-05-14 04:00:45",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股收盤：三大股指集體漲跌不一】道指跌0.13%，標普500指數漲0.59%，納指漲1.22%。福特汽車漲13.30%，ON SEMICONDUCTOR漲11.23%，邁威爾科技漲8.20%，Coherent Corp漲7.91%，APP AppLovin跌7.58%，輝盛研究系統跌6.56%。“七姐妹”方面：谷歌漲4.00%，特斯拉漲2.71%，英偉達漲2.32%，Meta Platforms漲2.31%，亞馬遜漲1.65%，蘋果漲1.46%，微軟跌0.65%。"
-    },
-    {
-      "id": "mkt:019e22ed-23f9-7dd0-a6aa-a7dd8825b1bf",
-      "time": "2026-05-14 04:00:23",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "SECOND DRONE STRIKE HITS THE IRANIAN OPPOSITION CAMP NORTH OF ERBIL - SECURITY SOURCES"
-    },
-    {
-      "id": "mkt:019e22ec-f77e-7dd0-a6aa-9c1627187afd",
-      "time": "2026-05-14 04:00:15",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "Nasdaq100",
-        "Impact bullish",
-        "S&P500",
-        "Dow",
-        "Impact bearish"
-      ],
-      "text": "NASDAQ CLOSED +1.20%, S&P 500 +0.59%, DOW -0.13%"
-    },
-    {
-      "id": "4878614",
-      "time": "2026-05-14 04:00:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【納斯達克中國金龍指數收漲3.87%】世紀互聯漲25.00%，金山雲漲16.88%，能鏈智電漲15.48%，禾賽科技漲12.34%，阿里巴巴漲8.06%。"
     }
   ]
 }
