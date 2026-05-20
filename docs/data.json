@@ -1,7 +1,39 @@
 {
-  "updated": "2026-05-21 04:32:16",
-  "count": 15723,
+  "updated": "2026-05-21 04:36:15",
+  "count": 15724,
   "items": [
+    {
+      "id": "4891219",
+      "time": "2026-05-21 04:35:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "穆迪將墨西哥的主權信用評級從BAA2下調至BAA3，評級展望調整為穩定。"
+    },
+    {
+      "id": "te:markets:552421",
+      "time": "2026-05-21 04:35:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 1.26% Higher — The Dow Jones Index rose 621 points or 1.26 percent on Wednesday to close at 49985 points. Leading the gains are Goldman Sachs (5.74%), Nike (4.17%) and Boeing (3.34%)."
+    },
+    {
+      "id": "te:markets:552420",
+      "time": "2026-05-21 04:34:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 3"
+      ],
+      "text": "Nvidia Whipsaws After Earnings Beat — US stocks remained higher in after-hour trading on Wednesday after Nvidia posted results that topped estimates. Nvidia shares pared immediate losses after the release of results to trade over 0.5% higher, following a near 2% gain in the regular Wednesday session. Revenues for the April quarter topped $81 billion, as expected, but the forecast of $91 billion in revenues for the July quarter fell short of expectations by select analysts, contrasting slightly with the usual comfortable beats in outlooks. The company also refrained from forecasting any sales to China, despite CEO Jensen Huang's visit to Beijing earlier this month. The S&P 500 added 1% on the Wednesday session while the Dow and Nasdaq 100 gained 1.2%. Three supertankers left the Strait of Hormuz with full cargoes as President Trump stated a deal with Iran could come soon, taming concerns of energy inflation. Meanwhile, TJX and Target gained sharply after posting their results."
+    },
     {
       "id": "mkt:019e4716-3c49-7bb5-8188-d0bd0e64c815",
       "time": "2026-05-21 04:31:37",
@@ -141549,26 +141581,6 @@
         "其他"
       ],
       "text": "受業績預期超預期及裁員訊息提振，思科股價漲幅擴大至 15%。"
-    },
-    {
-      "id": "4878628",
-      "time": "2026-05-14 04:35:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國際油價13日下跌】截至當天收盤，紐約商品交易所6月交貨的輕質原油期貨價格下跌1.16美元，收於每桶101.02美元，跌幅為1.14%；7月交貨的倫敦布倫特原油期貨價格下跌2.14美元，收於每桶105.63美元，跌幅為1.99%。"
-    },
-    {
-      "id": "te:markets:550427",
-      "time": "2026-05-14 04:35:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Closes 0.16% Lower — The Dow Jones Index decreased 80 points or 0.16 percent on Wednesday to close at 49681 points. The decline was led by Salesforce (-3.13%), Home Depot (-2.49%) and IBM (-1.89%). On the upside, the strongest performers were J&J (2.76%), 3M (2.72%) and Cisco Systems (2.42%)."
     }
   ]
 }
