@@ -1,7 +1,54 @@
 {
-  "updated": "2026-05-20 23:22:14",
+  "updated": "2026-05-20 23:26:16",
   "count": 15806,
   "items": [
+    {
+      "id": "mkt:019e45fd-51e0-7bb5-8184-ad88456326f8",
+      "time": "2026-05-20 23:24:49",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "EUROPEAN GAS FALLS AS MUCH AS 7.7% ON REPORT OF IRAN TALKS"
+    },
+    {
+      "id": "4890972",
+      "time": "2026-05-20 23:23:47",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "育碧預計公司全年非國際財務報告準則營業利潤率將出現個位數的負增長。育碧股價在巴黎下跌7.7%。"
+    },
+    {
+      "id": "4890971",
+      "time": "2026-05-20 23:23:30",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【報道：特朗普稱美國與伊朗談判已進入最後階段 】據白宮隨行記者報道，特朗普總統表示，美國與伊朗的談判正處於最後階段。 該報道援引特朗普此前在安德魯斯聯合基地對記者的表態。 特朗普談及伊美局勢稱 “後續走勢有待觀察”，並表示雙方要麼達成協議，要麼美方將採取一些強硬舉措，不過他希望事態不會走到這一步。"
+    },
+    {
+      "id": "te:markets:552374",
+      "time": "2026-05-20 23:23:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Cotton Futures Edge Lower — Cotton futures eased toward 81 cents per pound, pressured by the US dollar's strength and falling oil prices. Lower crude oil prices make cotton-substitute polyester more attractive for buyers, reducing demand for cotton. At the same time, forecasts of rain in the US cotton-growing belt also weighed on the natural fiber market. Vaisala Weather analysis showed favourable soil moisture across the Delta and Southeast cotton belt, supporting crop emergence, although parts of West Texas and the Southwest remain dry despite rainfall forecasts. Meanwhile, the latest US weekly crop progress report showed US cotton reached 41% as of May 17, up from 29% a week earlier and slightly above the five-year average of 40%."
+    },
+    {
+      "id": "4890970",
+      "time": "2026-05-20 23:21:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍總參謀長稱軍隊處於“最高階別戒備狀態” 】以色列國防軍總參謀長扎米爾20日表示，以軍目前處於“最高階別戒備狀態”，已為任何事態發展做好準備，並將繼續開展行動。以軍當天發表宣告說，扎米爾與所有師級指揮官舉行會議，就部隊戰備狀態及多線戰事進展等事項進行評估。扎米爾在會上稱，近年來以軍對伊朗及其盟友實施了“系統性、強力和有步驟的打擊”，當前以軍正在邊境各作戰區加強前沿防禦部署，未來將繼續在多個戰場展開行動。扎米爾還說，為完成各項任務並減輕預備役人員壓力，以軍需擴大服役人員規模，這是關乎以軍運轉能力的“關鍵問題”。（新華社）"
+    },
     {
       "id": "4890969",
       "time": "2026-05-20 23:20:19",
@@ -142354,49 +142401,6 @@
         "國際"
       ],
       "text": "【北約擬邀海灣國家參加峰會，伊朗戰爭將成議題】知情人士稱，北大西洋公約組織（NATO）計劃邀請四個海灣國家的代表出席在安卡拉舉行的峰會，伊朗戰爭和跨大西洋關係裂痕可能將成為此次會談的焦點。這些國家（巴林、科威特、卡達和阿聯酋）均為“伊斯坦布林合作倡議”（Istanbul Cooperation Initiative）成員，該倡議為北約與更廣泛中東地區非成員國之間的合作機制。這些國家的外交部長預計將受邀出席7月7日至8日在土耳其首都舉行的會議。"
-    },
-    {
-      "id": "mkt:019e21f0-b4b2-7772-bc7f-2b20ef900c14",
-      "time": "2026-05-13 23:24:43",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars"
-      ],
-      "text": "ARM, SOFTBANK SAID TO HAVE TRIED TO BUY CEREBRAS, WERE REBUFFED"
-    },
-    {
-      "id": "4878269",
-      "time": "2026-05-13 23:24:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場資訊：ARM和軟銀曾試圖收購Cerebras，但遭到拒絕。"
-    },
-    {
-      "id": "4878268",
-      "time": "2026-05-13 23:23:10",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【沃爾夫研究機構：美股科技股反彈行情或將短期見頂】美股半導體板塊繼前一日下跌後於週三反彈，但沃爾夫研究機構表示，整體科技股上漲行情或已動能衰減。首席策略師克里斯・森耶克警示，市場短期已顯現高位見頂態勢，科技股在近期大漲後，即將迎來整理回撥。他指出，後續行情能否繼續上行，大機率取決於油價大幅回落，或是英偉達在 5 月 20 日交出超預期財報。森耶克還提到，市場對通脹資料的敏感度持續攀升，偏高的批發物價資料已開始打壓市場情緒。"
-    },
-    {
-      "id": "4878267",
-      "time": "2026-05-13 23:22:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國中央司令部：本週早些時候，美軍中央司令部部隊透過無線電溝通並使用輕武器鳴槍示警後，迫使兩艘商船掉頭返航、遵守封鎖管控。此舉明確表明，美方相關執法管控仍全面生效。"
-    },
-    {
-      "id": "4878266",
-      "time": "2026-05-13 23:22:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國中央司令部：四周前，中央司令部開始對進出伊朗港口的船隻實施封鎖。截至目前，美軍已攔截改道67 艘商船、放行 15 艘運送人道主義援助物資的船隻，並癱瘓4 艘船隻以強制其遵守封鎖規定。"
     }
   ]
 }
