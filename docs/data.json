@@ -1,7 +1,128 @@
 {
-  "updated": "2026-05-20 23:01:47",
-  "count": 15781,
+  "updated": "2026-05-20 23:06:14",
+  "count": 15786,
   "items": [
+    {
+      "id": "4890936",
+      "time": "2026-05-20 23:04:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國 10 年期國債收益率自 5 月 14 日以來首次跌破 5%，日內下跌約 13 個基點。"
+    },
+    {
+      "id": "mkt:019e45ea-7882-7bb5-8184-21edbbe695d4",
+      "time": "2026-05-20 23:04:14",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "IRAN FOREIGN MINISTRY SPOX: NO REASON TO TRANSFER ENRICHED URANIUM IRAN FOREIGN MINISTRY SPOX: TALKS ONGOING WITH US VIA PAKISTANI INTERMEDIARIES"
+    },
+    {
+      "id": "4890935",
+      "time": "2026-05-20 23:03:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國國防部：阿聯酋是英國在海灣地區至關重要的防務合作伙伴。英國國防大臣今日於倫敦會見阿聯酋國防部長，旨在深化雙邊友好關係，推進未來軍工產業合作與國防實力建設。"
+    },
+    {
+      "id": "mkt:019e45ea-126d-7bb5-8184-1e3bae23cde3",
+      "time": "2026-05-20 23:03:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "FRENCH PARLIAMENT APPROVES MACRON’S PICK TO RUN CENTRAL BANK"
+    },
+    {
+      "id": "te:markets:552367",
+      "time": "2026-05-20 23:03:25",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gold Slightly Up as US-Iran Truce Hopes Ease Inflation Fears — Gold inched up to $4,530 an ounce on Wednesday, recovering from its lowest level since March 30, as hopes of a potential US-Iran conflict resolution eased some inflation concerns. President Donald Trump stated the war with Iran would end \"very quickly,\" while Vice President JD Vance highlighted progress in talks with Tehran to cease hostilities. However, the prolonged conflict has kept the Strait of Hormuz effectively closed, maintaining oil prices above $100 a barrel and sustaining inflationary pressures. Accelerating US inflation has led traders to further scale back expectations for Federal Reserve rate cuts this year, while reinforcing bets that the central bank could still hike rates before year-end. Markets now price in a 40% chance of a December rate hike, with rate cut expectations pushed into 2027 on hopes the current inflation surge is temporary. Investors will also parse the minutes from the Fed’s April policy meeting for further clues."
+    },
+    {
+      "id": "4890934",
+      "time": "2026-05-20 23:03:21",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【瑞銀將阿斯麥列為首選股 看好該股未來一年上漲近50%】瑞銀分析師最新預測顯示，阿斯麥股價將在未來12個月內上漲近50%。分析師認為，該公司將受益於記憶體需求增加和技術投資增長。他們將這家為晶片製造生產最先進光刻機的荷蘭公司列為首選股之一。分析師將目標股價從之前的1600歐元上調至1900歐元，創市場最高水平。鑑於該股今年迄今已飆升40%，這一預測頗為大膽。“這反映出對行業環境趨緊的信心增強，從而推動投資週期延長至2028年，”Francois-Xavier Bouvignies牽頭的分析師團隊在給客戶的報告中表示。他們補充道，阿斯麥是“歐洲半導體行業中仍能提供有吸引力的風險/回報比的公司之一”。"
+    },
+    {
+      "id": "mkt:019e45e8-ad85-7bb5-8184-121a1d148120",
+      "time": "2026-05-20 23:02:14",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "RUSSIA WELCOMES CHINA'S ROLE IN RESOLVING WAR IN UKRAINE"
+    },
+    {
+      "id": "mkt:019e45e8-816c-7bb5-8184-0ff1ff531cb6",
+      "time": "2026-05-20 23:02:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CHINA, RUSSIA TO PROMOTE COOPERATION IN BANKS, CAPITAL MARKETS"
+    },
+    {
+      "id": "mkt:019e45e8-4770-7bb5-8184-0175e7fc8f9d",
+      "time": "2026-05-20 23:01:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CHINA, RUSSIA TO EXPAND RAIL FREIGHT VOLUMES FOR TRADE"
+    },
+    {
+      "id": "mkt:019e45e8-2b44-7bb5-8183-f92846f09e9c",
+      "time": "2026-05-20 23:01:43",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "TREASURIES EXTEND ADVANCE, SENDING YIELDS TO SESSION LOWS"
+    },
+    {
+      "id": "mkt:019e45e7-fc55-7bb5-8183-f702396aa941",
+      "time": "2026-05-20 23:01:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH"
+      ],
+      "text": "RUSSIA TO EXPAND MEAT EXPORTS TO CHINA"
+    },
+    {
+      "id": "te:markets:552366",
+      "time": "2026-05-20 23:01:27",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Heating Oil Eases to $4 — Heating oil futures for delivery at the New York Harbor eased to $4.0 per gallon from the seven-week high of $4.16 touched May 19th, as markets assessed the outlook on domestic refining activity and Middle Eastern petrol supply. Data from the EIA showed that stocks of distillate fuel in the US inched higher by 372 thousand barrels in the first week of May, contrasting with bets of a 1.1 million draw. The data also contrasted with a 1.5 million barrel draw for gasoline, indicating that refineries opted to concentrate capacity in diesel and jet fuel due to the shortages in global transportation hubs. The overall supply backdrop remained tight as the standstill between the US and Iran prolonged expectations of the suspension in energy exports from the Middle East. The export of distilled products from the region has been all but halted since the start of the war in March, stressing refineries and driving the price of heating oil futures to a record high of $4.6 in March."
+    },
     {
       "id": "mkt:019e45e7-a7ae-7bb5-8183-ec59a96cf297",
       "time": "2026-05-20 23:01:10",
@@ -142050,70 +142171,6 @@
         "其他"
       ],
       "text": "【加拿大央行視人工智慧為提振生產率的潛在良方】加拿大央行表示，人工智慧的大規模普及將提升本國生產率，且不會造成大規模失業。人工智慧有望透過提高每工時產出，提升企業競爭力、上調勞動者薪資，併為消費者節約開支。該行預計，部分崗位會被人工智慧替代，但同時也會催生新崗位，原有部分崗位也將迎來轉型。"
-    },
-    {
-      "id": "4878242",
-      "time": "2026-05-13 23:05:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "【烏稱俄襲擊外喀爾巴阡地區 俄方暫無回應】當地時間5月13日，烏克蘭外喀爾巴阡州軍事行政長官在社交媒體上發表宣告稱，這是俄烏衝突爆發以來該地區遭受的最大規模攻擊，州內多個社群發生爆炸。與此同時，伊萬諾-弗蘭科夫斯克市市長表示，該市遭到俄方襲擊，市區內傳出清晰爆炸聲，防空警報持續作響。對於上述訊息，俄方暫無回應。（央視新聞）"
-    },
-    {
-      "id": "4878241",
-      "time": "2026-05-13 23:04:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "【阿里巴巴CEO吳泳銘：阿里伺服器幾乎沒有一張卡是空的】5月13日，阿里巴巴CEO吳泳銘在財報電話會上表示，目前AI發展的趨勢更像製造業，要獲得更多收入必須去建兩個核心工廠：AI的訓練工廠和AI的推理工廠，背後都是AI資料中心的建設。 他表示，AI資料中心的建設一定會消耗比較大的集團現金流，但在回報的路徑上是清晰的。他透露，現在阿里的伺服器內幾乎沒有一張卡是空的，考慮未來3-5年的需求情況，他認為阿里大量投入AI資料中心的投資回報非常確定。"
-    },
-    {
-      "id": "4878240",
-      "time": "2026-05-13 23:03:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基稱，烏克蘭與立陶宛簽署無人機協議。"
-    },
-    {
-      "id": "4878239",
-      "time": "2026-05-13 23:03:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基稱，俄羅斯動用數百架無人機轟炸烏克蘭，已造成6人死亡。"
-    },
-    {
-      "id": "mkt:019e21dd-c71d-7772-bc7e-de0f7e794d89",
-      "time": "2026-05-13 23:03:34",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "UKRAINE, LITHUANIA SIGN DRONE DEAL, ZELENSKIY SAYS"
-    },
-    {
-      "id": "4878238",
-      "time": "2026-05-13 23:02:30",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【聯合國就副秘書長被以方短暫扣留作出回應】聯合國秘書長副發言人哈克13日就聯合國負責安全和安保事務的副秘書長吉勒·米肖此前在以色列機場被短暫扣留一事表示，米肖已收到以色列外交部發來的致歉，以色列外交部將此事歸因於人為失誤。 哈克在郵件中告訴新華社記者，米肖此行前往耶路撒冷，目的是商討在確保聯合國人員在加沙地帶、約旦河西岸及更廣泛地區的安全方面，以色列應承擔的義務。聯合國工作人員及人道主義工作者的安全是聯合國開展工作的必要先決條件。（新華社）"
-    },
-    {
-      "id": "mkt:019e21dc-3a99-7772-bc7e-d2c3c7e3427a",
-      "time": "2026-05-13 23:02:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "MIND ROBOTICS, FOUNDED BY RIVIAN CEO RJ SCARINGE, RAISED AN ADDITIONAL $400 MILLION, BRINGING ITS TOTAL FUNDING TO MORE THAN $1 BILLION - WSJ"
     }
   ]
 }
