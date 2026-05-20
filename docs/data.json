@@ -1,7 +1,50 @@
 {
-  "updated": "2026-05-21 06:36:51",
-  "count": 15830,
+  "updated": "2026-05-21 06:40:45",
+  "count": 15834,
   "items": [
+    {
+      "id": "te:markets:552432",
+      "time": "2026-05-21 06:39:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Oat Drops by 4.73% — Top commodity losers are Oat (-4.73%), Corn (-2%) and Sugar (-1.73%). Gains are led by Orange Juice (3.67%), Barley (0.83%) and Sunflower Oil (0.57%)."
+    },
+    {
+      "id": "4891351",
+      "time": "2026-05-21 06:38:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "馬斯克：我們正與其他公司洽談，擬推出人工智慧算力即服務業務."
+    },
+    {
+      "id": "4891350",
+      "time": "2026-05-21 06:37:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【希臘譴責以色列對“全球堅韌船隊”活動人士的處置方式】當地時間5月20日，希臘外交部譴責以色列國家安全部長本-格維爾在攔截“全球堅韌船隊”事件中對被拘留希臘公民的處置方式，稱其“令人無法接受，絕對應受譴責”。希臘外交部表示，外交部長喬治·耶拉彼得裡蒂斯已指示有關官員向以色列提出正式外交抗議，要求以色列充分尊重國際人道主義法和人權，呼籲以色列當局加快所有程式，立即釋放被拘留的希臘公民。（央視新聞）"
+    },
+    {
+      "id": "4891349",
+      "time": "2026-05-21 06:37:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "馬斯克：我們正與其他公司就開展同樣合作進行磋商。"
+    },
+    {
+      "id": "4891348",
+      "time": "2026-05-21 06:36:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "馬斯克：正如近期與Anthropic人工智慧公司深化合作所印證的那樣，SpaceX正大規模提供人工智慧算力服務。"
+    },
     {
       "id": "te:markets:552431",
       "time": "2026-05-21 06:35:18",
@@ -142471,17 +142514,6 @@
         "公司"
       ],
       "text": "GameStop 執行長：eBay 董事會不應在未就提案實質內容展開磋商的情況下直接否決其提議。"
-    },
-    {
-      "id": "te:markets:550433",
-      "time": "2026-05-14 06:40:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Cocoa Falls by 3.70% — Top commodity losers are Cocoa (-3.70%), Orange Juice (-2.05%) and Palm Oil (-0.96%). Gains are led by Rice (2.57%), Sugar (2.47%) and Barley (2.01%)."
     }
   ]
 }
