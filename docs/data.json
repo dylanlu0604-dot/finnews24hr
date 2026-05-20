@@ -1,7 +1,162 @@
 {
-  "updated": "2026-05-21 00:59:58",
-  "count": 15732,
+  "updated": "2026-05-21 01:03:56",
+  "count": 15737,
   "items": [
+    {
+      "id": "4891059",
+      "time": "2026-05-21 01:03:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗國家電視臺：伊朗稱美國的威脅不會影響德黑蘭的決定。"
+    },
+    {
+      "id": "4891058",
+      "time": "2026-05-21 01:02:29",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣160億美元20年期國債，得標利率5.122%（4月22日為4.883%），投標倍數2.55（前次為2.68）。"
+    },
+    {
+      "id": "4891057",
+      "time": "2026-05-21 01:02:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "美軍：美軍部隊完成搜查後已放行該船隻，並勒令船員調整航行路線。"
+    },
+    {
+      "id": "mkt:019e4656-5c53-7bb5-8186-3dcc0c2dafc2",
+      "time": "2026-05-21 01:02:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. MILITARY: AMERICAN FORCES RELEASED THE VESSEL AFTER SEARCHING AND DIRECTING THE SHIP’S CREW TO ALTER COURSE"
+    },
+    {
+      "id": "mkt:019e4656-5991-7bb5-8186-32fbdc9bc945",
+      "time": "2026-05-21 01:02:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 20-Year Bond Auction Bid/Cover Ratio (May.20) | actual 2.55 | previous 2.68"
+    },
+    {
+      "id": "mkt:019e4656-5951-7bb5-8186-2a0aa43fa4a4",
+      "time": "2026-05-21 01:02:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 20-Year Bond Auction Accepted at High (May.20) | actual 1.67% | previous 56.28%"
+    },
+    {
+      "id": "mkt:019e4656-5949-7bb5-8186-23b7f797dbda",
+      "time": "2026-05-21 01:02:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 20-Year Bond Auction High Yield Rate (May.20) | actual 5.122% | previous 4.88%"
+    },
+    {
+      "id": "4891056",
+      "time": "2026-05-21 01:01:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "美軍：這艘懸掛伊朗國旗的商用油輪涉嫌企圖違反美國封鎖禁令。"
+    },
+    {
+      "id": "te:markets:552396",
+      "time": "2026-05-21 01:01:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "US 10-Year Yield Pulls Back — The yield on the 10-year US Treasury note fell to 4.60% on Wednesday from the 16-month high of 4.7% in the previous session as Washington signaled it is close to signing an agreement with Iran to end their conflict, taming pro-inflationary risks. President Trump stated the US was on the final stages of talks with Tehran, driving oil and fuel prices to retreat. The surge in energy inflation this year had already shown signs of spreading to core areas of the economy, resulting in hawkish dissents in the last Fed rate decision. Minutes from said decision are due shortly, set to unveil insights on how other FOMC members see risks of inflation rising further and whether the Fed has room for a lower balance sheet. The Fed is still expected to keep the federal funds rate unchanged for the remainder of the year, although market-implied odds of a rate hike in December currently stand at around 50%."
+    },
+    {
+      "id": "mkt:019e4655-be1d-7bb5-8186-1cf2b25afbe9",
+      "time": "2026-05-21 01:01:24",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. MILITARY: IRANIAN-FLAGGED COMMERCIAL OIL TANKER SUSPECTED OF ATTEMPTING TO VIOLATE THE U.S. BLOCKADE"
+    },
+    {
+      "id": "4891055",
+      "time": "2026-05-21 01:01:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美軍方面訊息：美國海軍陸戰隊於週三登上一艘懸掛伊朗國旗的商用油輪。"
+    },
+    {
+      "id": "mkt:019e4655-96a3-7bb5-8186-12347e8bf210",
+      "time": "2026-05-21 01:01:12",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. MILITARY: U.S. MARINES BOARDED AN IRANIAN-FLAGGED COMMERCIAL OIL TANKER ON WEDNESDAY"
+    },
+    {
+      "id": "4891054",
+      "time": "2026-05-21 01:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】國際銅夜盤收漲1.45%，滬銅收漲1.49%，滬鋁收漲0.37%，滬鋅收漲1.38%，滬鉛收漲1.06%，滬鎳收漲0.27%，滬錫收漲3.93%。氧化鋁夜盤收漲0.07%，鋁合金收漲0.24%。不鏽鋼夜盤收漲0.51%。"
+    },
+    {
+      "id": "4891053",
+      "time": "2026-05-21 01:00:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表辦公室：歐盟還須解決聯合宣告中列明的非關稅壁壘及監管相關問題。"
+    },
+    {
+      "id": "mkt:019e4654-4c80-7bb5-8186-0c53952d56b3",
+      "time": "2026-05-21 00:59:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "USTR: THE EU MUST ALSO ADDRESS NON-TARIFF BARRIERS AND REGULATORY MATTERS IDENTIFIED IN THE JOINT STATEMENT"
+    },
+    {
+      "id": "mkt:019e4654-183a-7bb5-8186-03572c100211",
+      "time": "2026-05-21 00:59:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "USTR: U.S. WILL CONTINUE TO REVIEW CERTAIN LIMITING AMENDMENTS INCLUDED IN EU’S CURRENT LEGISLATION"
+    },
+    {
+      "id": "4891052",
+      "time": "2026-05-21 00:59:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表辦公室：美方將持續審議歐盟現行法案中部分限制性修訂條款。"
+    },
     {
       "id": "4891051",
       "time": "2026-05-21 00:59:07",
@@ -141548,109 +141703,6 @@
         "焦點"
       ],
       "text": "納斯達克100指數漲幅擴大至1%。"
-    },
-    {
-      "id": "mkt:019e224b-a112-7dd0-a6a7-b95067193174",
-      "time": "2026-05-14 01:03:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "NETANYAHU SAYS HE MET WITH EMIRATI PRESIDENT DURING IRAN WAR -STATEMENT"
-    },
-    {
-      "id": "em:qqyh_mlc:202605143736359716",
-      "time": "2026-05-14 01:03:47",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "美國財政部拍賣250億美元30年期國債，得標利率5.046%。"
-    },
-    {
-      "id": "4878408",
-      "time": "2026-05-14 01:03:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡在一份宣告中稱，伊朗戰爭期間他曾與阿聯酋總統會面。"
-    },
-    {
-      "id": "4878407",
-      "time": "2026-05-14 01:02:46",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國30年期國債收益率下降5.046%，高於預售時的5.041%。"
-    },
-    {
-      "id": "mkt:019e224b-52e2-7dd0-a6a7-b472f1847e48",
-      "time": "2026-05-14 01:02:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ISRAEL'S NETANYAHU VISITED THE UAE DURING THE WAR, PM’S OFFICE SAYS"
-    },
-    {
-      "id": "4878406",
-      "time": "2026-05-14 01:02:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理辦公室稱，以色列總理內塔尼亞胡在戰爭期間訪問了阿聯酋。"
-    },
-    {
-      "id": "4878405",
-      "time": "2026-05-14 01:02:24",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國30年期國債投標倍數為2.30，非競爭性投標金額為6232萬美元。一級交易商認購了本次30年期美債發售總額的11.66%，直接認購者認購佔比為21.74%，間接認購者佔比為66.6%。"
-    },
-    {
-      "id": "mkt:019e224a-25af-7dd0-a6a7-aba73a3013e9",
-      "time": "2026-05-14 01:02:03",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 30-Year Bid/Cover Ratio (May.13) | actual 2.3 | previous 2.39"
-    },
-    {
-      "id": "mkt:019e224a-25ae-7dd0-a6a7-a1ef76ae3a2d",
-      "time": "2026-05-14 01:02:03",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 30-Year Bond Auction High Yield Rate (May.13) | actual 5.046% | previous 4.876%"
-    },
-    {
-      "id": "mkt:019e224a-25ab-7dd0-a6a7-9f8ddb8fcad5",
-      "time": "2026-05-14 01:02:03",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 30-Year Bond Auction Accepted at High (May.13) | actual 72.06% | previous 15.44%"
-    },
-    {
-      "id": "4878401",
-      "time": "2026-05-14 01:00:14",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國國債30年期收益率在250億美元拍賣前為5.041%。"
-    },
-    {
-      "id": "4878400",
-      "time": "2026-05-14 01:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【夜盤期貨收盤】國際銅夜盤收漲0.44%，滬銅收漲0.38%，滬鋁收漲1.25%，滬鋅收漲0.71%，滬鉛收漲0.42%，滬鎳收漲0.88%，滬錫收漲2.12%。氧化鋁夜盤收漲0.43%，鋁合金收漲1.01%。不鏽鋼夜盤收漲0.30%。"
     }
   ]
 }
