@@ -1,7 +1,67 @@
 {
-  "updated": "2026-05-21 00:48:00",
-  "count": 15713,
+  "updated": "2026-05-21 00:52:12",
+  "count": 15718,
   "items": [
+    {
+      "id": "mkt:019e464c-8a3f-7bb5-8185-c05c8accf4bc",
+      "time": "2026-05-21 00:51:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CME GROUP : CME DIRECT DISCONNECT ISSUE IS RESOLVED- WEBSITE"
+    },
+    {
+      "id": "4891037",
+      "time": "2026-05-21 00:50:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "據半島電視臺：伊朗外交部表示，我方正秉持誠意開展談判，美方需拿出實際行動證明其談判誠意。"
+    },
+    {
+      "id": "4891036",
+      "time": "2026-05-21 00:49:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人：巴基斯坦內政部長已抵達伊朗，助力雙方傳遞往來訊息。"
+    },
+    {
+      "id": "mkt:019e464b-2eee-7bb5-8185-b9b1a510effb",
+      "time": "2026-05-21 00:49:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRAN'S FOREIGN MINISTRY SPOKESPERSON SAYS PAKISTAN'S INTERIOR MINISTER IS IN IRAN TO FACILITATE THE EXCHANGE OF MESSAGES - IRANIAN MEDIA"
+    },
+    {
+      "id": "mkt:019e4649-e880-7bb5-8185-b3ec6162e565",
+      "time": "2026-05-21 00:48:29",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bearish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "IRANIAN FOREIGN MINISTRY: WE ARE CURRENTLY FOCUSING ON ENDING THE WAR ON ALL FRONTS, ESPECIALLY LEBANON"
+    },
+    {
+      "id": "4891035",
+      "time": "2026-05-21 00:48:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部：我方目前致力於全面結束各戰線戰事，尤其重點推動黎巴嫩地區停戰。"
+    },
+    {
+      "id": "4891034",
+      "time": "2026-05-21 00:48:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗法爾斯通訊社： 伊朗外交部發言人稱，伊美雙方依據十四點方案持續開展訊息溝通。"
+    },
     {
       "id": "mkt:019e4648-e7ef-7bb5-8185-a91761d52f57",
       "time": "2026-05-21 00:47:23",
@@ -141476,23 +141536,6 @@
         "Nasdaq100"
       ],
       "text": "MICROSOFT HAS INVESTED $100 BILLION IN ITS PARTNERSHIP WITH OPENAI OVER THE YEARS MICROSOFT ANNOUNCED A $100 BILLION INVESTMENT IN INFRASTRUCTURE AND HOSTING SERVICES"
-    },
-    {
-      "id": "4878391",
-      "time": "2026-05-14 00:51:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗軍方表示，該國絕不允許美國軍火經由霍爾木茲海峽運往駐中東地區的美軍基地。"
-    },
-    {
-      "id": "4878390",
-      "time": "2026-05-14 00:48:09",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "微軟高管在OpenAI相關訴訟案中出庭作證：微軟多年來為與OpenAI合作投入1000億美元，微軟這1000億美元涵蓋投資、基建及託管服務。"
     }
   ]
 }
