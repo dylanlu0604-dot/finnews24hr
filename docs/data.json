@@ -1,7 +1,134 @@
 {
-  "updated": "2026-05-21 04:48:12",
-  "count": 15754,
+  "updated": "2026-05-21 04:52:13",
+  "count": 15762,
   "items": [
+    {
+      "id": "4891245",
+      "time": "2026-05-21 04:51:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX：2025年營業利潤為44.2億美元。"
+    },
+    {
+      "id": "4891244",
+      "time": "2026-05-21 04:50:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX：2025年收入為113.9億美元。"
+    },
+    {
+      "id": "4891243",
+      "time": "2026-05-21 04:50:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "特斯拉股價盤後下跌0.3%。"
+    },
+    {
+      "id": "4891242",
+      "time": "2026-05-21 04:49:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "SpaceX：首次公開募股（IPO）後將擁有“受控公司”地位，無需要求董事會多數席位由獨立董事構成。\n注：此處“受控公司”為美股證券監管術語，指某一主體持股多數表決權股份的公司，可豁免董事會多數成員為獨立人士的監管要求。"
+    },
+    {
+      "id": "4891241",
+      "time": "2026-05-21 04:49:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX：計劃在本世紀20年代末部署首批模組化軌道人工智慧計算艙，並開始透過出售人工智慧軟體與人工智慧算力實現產能變現。"
+    },
+    {
+      "id": "4891240",
+      "time": "2026-05-21 04:49:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "SpaceX：完成首次公開募股後，埃隆·馬斯克將同時擔任執行長、技術長以及董事長三項職務。"
+    },
+    {
+      "id": "mkt:019e4726-61d2-7bb5-8189-ab241585b4e7",
+      "time": "2026-05-21 04:49:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SPACEX: WITH RESPECT TO LAUNCH FREQUENCY, EXPECT TO BE ABLE TO SCALE TO THOUSANDS OF LAUNCHES PER YEAR"
+    },
+    {
+      "id": "mkt:019e4726-60fb-7bb5-8189-a6ade51f6526",
+      "time": "2026-05-21 04:49:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SPACEX Q1 SPACEX Q1 NET LOSS $4,276 MLN"
+    },
+    {
+      "id": "mkt:019e4725-dd8b-7bb5-8189-997fd6e3adf5",
+      "time": "2026-05-21 04:48:37",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "SPACEX: INTEGRATED AI PLATFORMS ACROSS GROK AND X HAVE OVER 1.3B SUPPORTED ACCOUNTS ACTIVE IN LAST TWELVE MONTHS ENDED MARCH 31"
+    },
+    {
+      "id": "4891239",
+      "time": "2026-05-21 04:48:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "SpaceX：埃隆·馬斯克持有該公司12.3%的A類股份，以及93.6%的B類股份。"
+    },
+    {
+      "id": "4891238",
+      "time": "2026-05-21 04:48:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX：持股5%及以上股東為埃隆·馬斯克。"
+    },
+    {
+      "id": "mkt:019e4725-9091-7bb5-8189-9117ba08c914",
+      "time": "2026-05-21 04:48:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SPACEX: MUSK CAN ELECT, REMOVE, OR FILL VACANCY AMONG CLASS B DIRECTORS"
+    },
+    {
+      "id": "mkt:019e4725-67f3-7bb5-8189-8f38c6669854",
+      "time": "2026-05-21 04:48:12",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "SPACEX: BY END OF DECADE, INTEND TO DEPLOY FIRST MODULAR ORBITAL AI COMPUTE SHELLS & BEGIN MONETIZING CAPACITY THROUGH SALE OF AI SOFTWARE & AI COMPUTE"
+    },
+    {
+      "id": "mkt:019e4725-638b-7bb5-8189-87c038f25f6e",
+      "time": "2026-05-21 04:48:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SPACEX: AFTER IPO, MUSK WILL BE CEO, CTO AND CHAIRMAN OF BOARD"
+    },
+    {
+      "id": "mkt:019e4725-250e-7bb5-8189-79c1d11a4b9a",
+      "time": "2026-05-21 04:47:50",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Crypto Concepts",
+        "Bitcoin"
+      ],
+      "text": "SPACEX FILES FOR IPO, DISCLOSES 18,712 BTC HOLDING AT COST BASIS OF $35K: FILING"
+    },
     {
       "id": "mkt:019e4724-bdcd-7bb5-8189-73fb0acfbc36",
       "time": "2026-05-21 04:47:30",
@@ -141785,72 +141912,6 @@
         "其他"
       ],
       "text": "思科：光學業務方面，Acacia第三季度訂單規模超 10 億美元，同比實現三位數增幅。"
-    },
-    {
-      "id": "4878640",
-      "time": "2026-05-14 04:51:57",
-      "tags": [
-        "市場"
-      ],
-      "text": "思科：第三季度網路產品訂單增速加快，同比大漲超 50%。"
-    },
-    {
-      "id": "4878639",
-      "time": "2026-05-14 04:51:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "思科：第三季度產品訂單同比增長 35%，所有地區及客戶市場均實現增長；剔除超大規模雲服務商訂單後，同比增幅為19%。"
-    },
-    {
-      "id": "4878638",
-      "time": "2026-05-14 04:51:13",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲柯林斯：若未來數月通脹壓力全面擴散，美聯儲或需加息。"
-    },
-    {
-      "id": "4878637",
-      "time": "2026-05-14 04:50:26",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【美國航空煤油出口量創歷史新高，以填補海外供應缺口】由於全球各地的航空公司都在艱難應對霍爾木茲海峽關閉帶來的影響，美國煉油商向海外輸送的航空煤油數量達到了歷史最高水平。美國能源資訊署（EIA）最新報告稱，上週美國航空煤油出口量飆升至每日45.5萬桶的歷史最高紀錄，打破了4月初創下的前高點。 在歐洲和亞洲，航空煤油價格正在瘋漲，這些地區的航空公司和煉油商嚴重依賴來自波斯灣的石油及其他能源物資的穩定運輸。根據彭博社彙編的資料，自衝突開始以來，新加坡和歐盟的航油價格已分別上漲了61%和59%。"
-    },
-    {
-      "id": "mkt:019e231a-bd00-7dd0-a6ab-176f8a652c86",
-      "time": "2026-05-14 04:50:15",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Amazon",
-        "Market Themes",
-        "Magnificent 7",
-        "AMZN.O",
-        "Impact bearish"
-      ],
-      "text": "AMAZON CUT MORE JOBS THIS WEEK, WITH REDUCTIONS HITTING ITS SELLING PARTNER SERVICES ORGANIZATION THIS TIME- BUSINESS INSIDER"
-    },
-    {
-      "id": "4878636",
-      "time": "2026-05-14 04:49:30",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲柯林斯：正密切關注關稅對整條價格鏈條的傳導程度，同時監測物價壓力是否從能源領域蔓延至其他商品與服務領域。"
-    },
-    {
-      "id": "4878635",
-      "time": "2026-05-14 04:49:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：亞馬遜本週再度裁員，此次裁員波及賣家合作伙伴服務部門。"
     }
   ]
 }
