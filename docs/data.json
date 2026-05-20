@@ -1,7 +1,59 @@
 {
-  "updated": "2026-05-20 13:42:21",
-  "count": 15637,
+  "updated": "2026-05-20 13:46:23",
+  "count": 15635,
   "items": [
+    {
+      "id": "mkt:019e43ea-82f7-7cc9-b8d6-4ce5d64ec284",
+      "time": "2026-05-20 13:45:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "Market Regions",
+        "Greater China",
+        "0981.HK",
+        "Impact bullish"
+      ],
+      "text": "SMIC SHARES EXTEND GAINS, UP 13% IN HONG KONG"
+    },
+    {
+      "id": "4889519",
+      "time": "2026-05-20 13:44:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄羅斯擬將今年鈾礦勘探支出增加近一倍】俄羅斯聯邦礦產資源局負責人Oleg Kazanov表示，俄羅斯今年將在國家地質勘探方面投入104億盧布（1.46億美元），高於2025年的71億；其中鈾礦勘探資金將幾乎增長一倍，從11億增至21億盧布（2,950萬美元）。"
+    },
+    {
+      "id": "4889518",
+      "time": "2026-05-20 13:43:33",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度巴拉特石油公司高管表示，莫三比克液化天然氣專案首批貨物預計將於2028年中期交付。"
+    },
+    {
+      "id": "4889517",
+      "time": "2026-05-20 13:42:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【智象未來超兩千億引數影象大模型HiDream-O1-Image-Pro釋出】5月19日，智象未來舉辦首屆開放日，並正式釋出基於新一代原生全模態模型架構Unified Transformer（UiT）打造的影象大模型HiDream-O1-Image-Pro。這一超兩千億引數的原生全模態影象大模型，標誌著智象未來正向影象、影片、文字、音訊等多模態統一建模的“原生全模態”階段邁進。同時，智象未來宣佈完成新一輪億級融資，深創投、金浦投資、財鑫資本、復聚資本等多家機構參與。這是智象未來半個月內再次完成融資。"
+    },
+    {
+      "id": "te:markets:552135",
+      "time": "2026-05-20 13:42:21",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Closes at More Than 7-Week Low — The NZX 50 dropped 213 points, or 1.6%, to close at 12,761 on Wednesday, halting gains from the previous session and marking its lowest level since March 30, as it tracked declines on Wall Street overnight due to rising US Treasury yields amid escalating US-Iran tensions. Traders assessed the PBOC’s decision to hold interest rates steady following disappointing Chinese economic data released on Monday, as they looked for guidance on China’s economic outlook, given that the country is New Zealand’s top trading partner. Caution was also built ahead of the release of New Zealand's retail sales data on Friday, with the market expecting quarterly retail sales growth to ease in Q1. Almost all sectors traded in the red, with the biggest losses coming from consumer staples, communication services, industrials, and materials. Summerset Group plunged 5.5%, A2 Milk slumped 4.5%, Auckland International Airport fell 3.4%, Mainfreight dropped 3.1%, and ANZ Group declined 2.6%."
+    },
     {
       "id": "4889516",
       "time": "2026-05-20 13:39:32",
@@ -141074,70 +141126,6 @@
         "焦點"
       ],
       "text": "滬深兩市成交額超2.5萬億元，較上日此時縮量1190億元。"
-    },
-    {
-      "id": "4876977",
-      "time": "2026-05-13 13:46:00",
-      "tags": [
-        "市場"
-      ],
-      "text": "創業板指漲幅擴大至2%，深證成指漲1.28%，滬指漲0.42%，全市場超3200只個股上漲。"
-    },
-    {
-      "id": "mkt:019e1fde-4d2c-7553-b25f-9f378cc39361",
-      "time": "2026-05-13 13:45:22",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "SOUTH KOREA PRESIDENT LEE TOLD CHINA VICE PREMIER HE LIFENG SOUTH KOREA WOULD SUPPORT U.S.-CHINA DISCUSSIONS -BLUE HOUSE"
-    },
-    {
-      "id": "4876976",
-      "time": "2026-05-13 13:45:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "西門子執行長稱，通脹上升可能會抑制投資。"
-    },
-    {
-      "id": "4876975",
-      "time": "2026-05-13 13:44:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "李在明會見貝森特時呼籲加強韓美經濟合作。"
-    },
-    {
-      "id": "4876974",
-      "time": "2026-05-13 13:43:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "【多點數智釋出公告與容聯雲擬議私有化交易】多點數智攜手Trustbridge Partners及容聯雲創始人兼CEO孫昌勳先生附條件參與 Cloopen Group Holding Limited（OTC：RAASY，“容聯雲”）擬議私有化交易，以股權投資者身份佈局雲通訊與AI智慧體領域，增強AI零售戰略佈局。本次交易中，多點數智透過其全資子公司承諾投資3600萬美元以間接取得容聯雲約34.22%的有效經濟權益，投資金額可按協議調整，最高不超過4050萬美元。"
-    },
-    {
-      "id": "mkt:019e1fdc-1120-7553-b25f-974ea8ecdd4e",
-      "time": "2026-05-13 13:42:56",
-      "tags": [
-        "MKT News",
-        "Copper"
-      ],
-      "text": "SOUTH KOREA PRESIDENT LEE DISCUSSED SUPPLY CHAINS, RARE MINERALS WITH U.S. TREASURY SECRETARY BESSENT -BLUE HOUSE"
-    },
-    {
-      "id": "4876973",
-      "time": "2026-05-13 13:42:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國總統與美國財長貝森特討論了供應鏈與稀有礦產議題。"
     }
   ]
 }
