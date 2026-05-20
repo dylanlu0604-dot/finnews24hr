@@ -1,7 +1,106 @@
 {
-  "updated": "2026-05-20 14:34:31",
-  "count": 15662,
+  "updated": "2026-05-20 14:38:19",
+  "count": 15666,
   "items": [
+    {
+      "id": "mkt:019e441a-d79f-7cc9-95da-b99ab13b0115",
+      "time": "2026-05-20 14:37:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CHINA, RUSSIA JOINTLY ANNOUNCE INITIATIVE TO PROMOTE MULTI-POLAR WORLD"
+    },
+    {
+      "id": "te:markets:552162",
+      "time": "2026-05-20 14:37:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "ASX 200 Slips 1.3% at Close — The S&P/ASX 200 dipped 108 points, or 1.3%, to finish at 8,497 on Wednesday, erasing prior gains as U.S. equity futures retreated amid renewed Middle East tensions and inflation worries. Local caution deepened after the central bank projected underlying inflation above 3% until late 2027, easing to the midpoint only by mid-2028. Still, losses were tempered by China's decision to hold key lending rates at record lows for a 12th straight month, with policymakers pledging “supportive” and “moderately loose” settings after Q1 GDP grew 5%, hitting the top of the government’s 4.5–5% target. Sector weakness was broad, led by non-energy minerals, transport, financials, and process industries. Among notable laggards were Evolution Mining (-5.2%), Brambles Ltd. (-4.8%), REA Group (-2.2%), and Origin Energy (-2.0%). The four big banks dropped between 0.7% to 2.5%. Traders now brace for Australia's PMI readings for May and April job data, set to be released on Thursday."
+    },
+    {
+      "id": "4889610",
+      "time": "2026-05-20 14:37:02",
+      "tags": [
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "中俄將共同發表關於倡導世界多極化和新型國際關係的聯合宣告。(新華社)"
+    },
+    {
+      "id": "4889609",
+      "time": "2026-05-20 14:36:24",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【美債持續攀升 亞洲股市承壓 市場關注盤後英偉達財報】全球債券市場拋售潮持續，投資者押注美聯儲今年或需加息。 基準10年期美債收益率隔夜升至4.687%，創16個月新高；30年期收益率攀升至5.198%，為2007年以來未見的水平。摩根士丹利資本國際（MSCI）除日本外亞太股指週三下跌0.7%，連續第四個交易日收低；日本日經指數跌1.5%，為連續第五日下行。 韓國綜合股價指數下跌1.7%。三星電子股價回落1.4%，此前其工會宣佈將於週四起舉行為期18天的罷工，威脅全球半導體供應鏈穩定。 IG集團分析師Tony Sycamore表示：“目前來看，在經歷一輪異常強勁的反彈後，市場出現回撥仍屬我的基本判斷。美債收益率飆升顯然在市場引發波動，如今已成為市場焦點。 “英偉達財報或許會大幅超出預期……但我對此存疑。我認為英偉達已難以像過往那樣驚豔市場、震撼全場，這類高光表現恐難再現。” 晶片巨頭英偉達將於週三美股收盤後公佈一季度財報，市場預期一如既往地極高。倫敦證券交易所集團（LSEG）分析師調查的中位預測顯示，其營收預計增長近80%，接近790億美元。"
+    },
+    {
+      "id": "mkt:019e4419-702a-7cc9-95da-b184d9313007",
+      "time": "2026-05-20 14:36:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "CHINA’S TAIWAN AFFAIRS OFFICE: LAI'S SPEECH TODAY IS FILLED WITH LIES AND DECEPTION, HOSTILITY AND CONFRONTATION"
+    },
+    {
+      "id": "4889608",
+      "time": "2026-05-20 14:34:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：三星與工會將於下午四點（北京時間三點）恢復談判。"
+    },
+    {
+      "id": "mkt:019e4417-dcbf-7cc9-95da-a9e281ad914a",
+      "time": "2026-05-20 14:34:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "005930.KS"
+      ],
+      "text": "SAMSUNG, UNION TALKS TO BE RESUMED AT 4 PM - MEDIA"
+    },
+    {
+      "id": "mkt:019e4417-c9a4-7cc9-95da-a61126018776",
+      "time": "2026-05-20 14:34:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "005930.KS",
+        "Impact bullish"
+      ],
+      "text": "SOUTH KOREA LABOUR MINISTRY TO MEDIATE SAMSUNG ELEC AND UNION - MEDIA"
+    },
+    {
+      "id": "4889607",
+      "time": "2026-05-20 14:34:24",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "市場訊息： 韓國勞動部長將牽頭主持三星集團與工會的談判。"
+    },
+    {
+      "id": "em:qqyh_ygyh:202605203743362056",
+      "time": "2026-05-20 14:34:06",
+      "tags": [
+        "央行",
+        "英國央行"
+      ],
+      "text": "交易員減少對英國央行加息的押注，預計2026年之前加息幅度將達到54個基點。"
+    },
     {
       "id": "4889606",
       "time": "2026-05-20 14:33:44",
@@ -141299,56 +141398,6 @@
         "其他"
       ],
       "text": "沙特阿美擬從地產資產組合中募資超 100 億美元。"
-    },
-    {
-      "id": "4877051",
-      "time": "2026-05-13 14:38:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2025年江蘇人買房提取公積金2476.22億，商貸1429.15億，首套房佔9成】江蘇省住建廳日前公佈了《江蘇省住房公積金2025年年度報告》。報告顯示，2025年，全省住房公積金實繳單位60.44萬家，繳存額3391.52億元，分別同比增長3.02%、4.63%。住房公積金繳存新開戶單位10.26萬家，淨增單位1.77萬家。（微訊江蘇）"
-    },
-    {
-      "id": "4877050",
-      "time": "2026-05-13 14:38:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "軟銀：3 月已與瑞穗銀行等機構達成 400 億美元過渡性信貸安排。"
-    },
-    {
-      "id": "mkt:019e200d-ad42-7553-b260-2fdcd3688096",
-      "time": "2026-05-13 14:37:07",
-      "tags": [
-        "MKT News",
-        "9984.T"
-      ],
-      "text": "SOFTBANK: CUMULATIVE INVESTMENT IN OPENAI HAS REACHED $34.6 BILLION SOFTBANK: CUMULATIVE INVESTMENT GAINS FROM OPENAI HAVE REACHED $45 BILLION"
-    },
-    {
-      "id": "4877049",
-      "time": "2026-05-13 14:35:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "軟銀集團第四季度願景基金投資收益3.08萬億日元。"
-    },
-    {
-      "id": "4877048",
-      "time": "2026-05-13 14:35:45",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【中證1000股指期貨(IM)主力合約日內漲超2%】中證1000股指期貨(IM)主力合約日內漲超2%，現報8875.8點。"
-    },
-    {
-      "id": "4877047",
-      "time": "2026-05-13 14:35:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "軟銀集團：2026年4月，軟銀總計提款200億美元借款，所得資金主要用於對OpenAI的投資，其中25億美元已於當月償還。"
     }
   ]
 }
