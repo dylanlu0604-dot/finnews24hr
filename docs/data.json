@@ -1,7 +1,102 @@
 {
-  "updated": "2026-05-20 20:56:35",
-  "count": 15664,
+  "updated": "2026-05-20 21:01:42",
+  "count": 15661,
   "items": [
+    {
+      "id": "4890614",
+      "time": "2026-05-20 20:59:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "貝索斯：認為太空開發全是科幻的人應當謹慎對待。"
+    },
+    {
+      "id": "te:markets:552326",
+      "time": "2026-05-20 20:58:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Baltic Dry Index Falls for 4th Day — The Baltic Exchange's dry bulk freight index, which monitors rates for ships carrying dry bulk commodities, declined for the fourth session on Wednesday, down 1.6% to its lowest since May 11 at 3,005 points. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, decreased by 1.4% to 4,880 points; and the panamax index, which usually carries 60,000 to 70,000 tons of coal or grain, dropped by 3.5% to 2,374 points. Among smaller vessels, the supramax index edged down by 0.1% to 1,566 points."
+    },
+    {
+      "id": "4890612",
+      "time": "2026-05-20 20:58:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【能源機構警告：霍爾木茲的關閉將引發數十年來最嚴重的能源供應危機】伍德麥肯茲在其新的報告中指出，霍爾木茲海峽長時間的關閉將對全球能源市場構成數十年來最大的威脅。目前，海灣地區的原油和凝析油日產量已減少逾1100萬桶。與此同時，每年超過8000萬噸的液化天然氣供應（約佔全球供應量的20%）仍無法進入全球市場。在其最新報告中，該機構提出了三種不同的情景：快速和平、夏季和解以及長期中斷。每種情景都給出了結束衝突並重新開放海峽的不同時間表，並評估了對石油和天然氣供應、價格、能源需求以及更廣泛的全球經濟可能產生的影響。公司的經濟主管Peter Martin表示：“霍爾木茲海峽是全球能源市場中最為關鍵的咽喉要道，若該海峽長時間關閉，其影響將遠不止是一場能源危機。持續時間越長，對能源價格、工業活動、貿易流量以及全球經濟增長的影響就越大。”"
+    },
+    {
+      "id": "4890611",
+      "time": "2026-05-20 20:58:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "貝索斯稱藍色起源將打造專注於國家安全的衛星星座。"
+    },
+    {
+      "id": "4890610",
+      "time": "2026-05-20 20:57:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜創始人貝索斯：我們可以在月球上建造“很多東西”。"
+    },
+    {
+      "id": "4890609",
+      "time": "2026-05-20 20:57:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "巴克萊執行長： 確實認為英國需要更多企業上市，但這尚需時日。"
+    },
+    {
+      "id": "4890608",
+      "time": "2026-05-20 20:56:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜創始人貝索斯：我們可以在月球上建造“一大批專案”。"
+    },
+    {
+      "id": "4890607",
+      "time": "2026-05-20 20:56:43",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "亞馬遜創始人貝索斯：我們正與美國國家航空航天局合作開展月球開發專案。"
+    },
+    {
+      "id": "4890606",
+      "time": "2026-05-20 20:56:27",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "巴克萊執行長：潛在衝擊或源自人工智慧、中東局勢及信貸領域。"
+    },
+    {
+      "id": "4890605",
+      "time": "2026-05-20 20:55:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蔡崇信吳泳銘致股東信：努力將AI+雲打造成阿里巴巴又一個增長動力】2026年5月20日，阿里巴巴集團主席蔡崇信和執行長吳泳銘聯合釋出致股東信。信中稱，阿里AI業務已跨越初期投入階段，正式邁入商業化回報週期。“依託人才、技術和資源積累，我們對把握時代機遇充滿信心，努力將AI+雲打造成阿里巴巴的又一個增長動力。為了實現這一願景，我們正在加大對全棧AI能力的投資力度：我們將持續加大AI基礎設施建設和自研晶片的投入；在模型和應用層面，我們將投資打造更強大的基礎模型能力，吸引更多應用接入，同時打造更強大的MaaS產品，來更高效地實現模型與應用的連線。”"
+    },
+    {
+      "id": "mkt:019e4575-23d5-7cc9-95df-db4b63fc0627",
+      "time": "2026-05-20 20:55:28",
+      "tags": [
+        "MKT News",
+        "000725.SZ",
+        "GLW.O"
+      ],
+      "text": "BOE TECHNOLOGY SAYS IT SIGNED MOU WITH CORNING INC"
+    },
     {
       "id": "4890603",
       "time": "2026-05-20 20:55:21",
@@ -141024,139 +141119,6 @@
         "其他"
       ],
       "text": "Workday：整合於微軟 365 Copilot 的 SANA 自助智慧助手。"
-    },
-    {
-      "id": "mkt:019e216f-2c12-7eee-bb63-d1f34f54582d",
-      "time": "2026-05-13 21:01:38",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "AI Revolution",
-        "Chip Wars",
-        "The Trump Trade",
-        "China Tech Giants",
-        "Magnificent 7",
-        "Star Stocks",
-        "NVIDIA",
-        "Alibaba",
-        "DXY",
-        "Impact bullish",
-        "BABA.N",
-        "Impact bearish",
-        "NVDA.O"
-      ],
-      "text": "【MKTNews Morning Bid - US】- The consumer price index rose at its fastest clip in nearly three years last month, according to federal data released yesterday. The headline annual inflation reading came in at 3.8%, its highest level since 2023, moving further from the Federal Reserve’s target of 2%. - Alibaba Group ADRs (BABA) slip 3% after the company posted its first operating loss since the depths of the Covid pandemic, underscoring the extent to which China’s e-commerce leader is spending on the AI initiatives it hopes will power its next phase of growth. - Nvidia last night confirmed that CEO Jensen Huang is among the slew of executives traveling to China for Trump’s visit. Huang’s name wasn’t on a list of CEOs joining the U.S. delegation provided by a White House official earlier this week, causing uncertainty over whether he would join. - Chipmakers, opticals and storage firms gain as supply for global memory chips, key to AI infrastructure build-outs, tightens further. The sector is also getting a boost from Huang’s trip to China. - Trump said yesterday that Dr. Marty Makary resigned as commissioner of the Food and Drug Administration. Kyle Diamantas, a former top food official at the agency, will become acting commissioner."
-    },
-    {
-      "id": "4878039",
-      "time": "2026-05-13 21:00:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "亞馬遜：購物版Alexa將於未來一週內向全美所有使用者逐步推出。"
-    },
-    {
-      "id": "4878038",
-      "time": "2026-05-13 21:00:17",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "焦煤連續主力合約日內漲1%，現報1248.00元。"
-    },
-    {
-      "id": "4878037",
-      "time": "2026-05-13 21:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國內期貨夜盤開盤】集運指數歐線期貨連續漲4.25%，工業矽連續跌2.41%，纖維板連續跌2.37%，PVC連續漲1.99%，天然橡膠連續漲1.89%。"
-    },
-    {
-      "id": "4878036",
-      "time": "2026-05-13 20:59:40",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲資料顯示，5月12日美國實際聯邦基金利率為3.63%，當日成交規模為1180億美元；5月11日實際聯邦基金利率為3.63%，成交規模為1140億美元。"
-    },
-    {
-      "id": "4878035",
-      "time": "2026-05-13 20:59:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "【樂通股份：947.25萬股限售股5月19日上市流通】樂通股份公告稱，本次解除限售股份股東為深圳市優悅美晟企業管理有限公司，數量為947.25萬股，佔公司總股本的4.52%，將於2026年5月19日上市流通。該股東嚴格履行了相關承諾，不存在非經營性佔用公司資金等損害上市公司利益的行為。本次解除限售股份存在質押情況，質押股數為947萬股。"
-    },
-    {
-      "id": "4878034",
-      "time": "2026-05-13 20:58:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：土耳其經濟部表示，土耳其與亞美尼亞已啟動直接貿易往來。"
-    },
-    {
-      "id": "4878033",
-      "time": "2026-05-13 20:58:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "亞馬遜推出Alexa購物助手服務。"
-    },
-    {
-      "id": "mkt:019e216a-7f34-7eee-bb63-c908860c07f6",
-      "time": "2026-05-13 20:58:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "DIRECT TRADE BETWEEN TURKEY AND ARMENIA HAS BEEN LAUNCHED, ACCORDING TO THE TURKISH MINISTRY OF ECONOMY - REPORTS"
-    },
-    {
-      "id": "te:markets:550369",
-      "time": "2026-05-13 20:57:52",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Currency",
-        "Importance 0"
-      ],
-      "text": "DXY Extends Gains After Hot PPI Report — The dollar index strengthened above 98.5 on Wednesday, marking a third consecutive session of gains as investors increased bets that the Federal Reserve will keep interest rates higher for longer amid rising inflation pressures linked to the war in Iran. Market sentiment turned more hawkish after data showed US wholesale inflation accelerated in April to its fastest pace since 2022, driven in part by higher freight and transportation costs stemming from Middle East disruptions. The producer price index climbed 6% year on year, exceeding all forecasts, while the monthly increase was also the strongest since 2022. Core producer prices, which exclude food and energy, rose 5.2% from a year earlier, the largest increase in more than three years. Even if the current ceasefire holds and the Strait of Hormuz reopens soon, economists expect elevated energy and shipping costs to continue weighing on inflation as supply chains and oil production gradually normalize."
-    },
-    {
-      "id": "4878032",
-      "time": "2026-05-13 20:57:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中鎢高新：目前金洲公司PCB鑽針訂單飽滿 市場需求旺盛】中鎢高新(000657.SZ)釋出投資者關係活動記錄表公告，目前金洲公司PCB鑽針訂單飽滿，市場需求旺盛，隨著高階產品佔比持續提升，產品附加值不斷最佳化。產能方面，隨著1.4億支微鑽擴產專案已於2026年3月達產，1.3億支微鑽和0.63億支超長徑精密微型刀具擴產專案正在推進，公司產能持續增長，能夠較好地滿足當前市場需求。同時，公司將根據下游訂單動態調節產能安排，確保供給與需求匹配。"
-    },
-    {
-      "id": "4878031",
-      "time": "2026-05-13 20:57:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "【長盈精密：今年以來持續配合北美頭部機器人客戶研發、生產並交付產品】長盈精密5月13日在互動平臺表示，公司今年以來持續配合北美頭部機器人客戶研發、生產並交付產品。2026年1月—4月公司機器人零元件總出貨量已超過38萬件，覆蓋靈巧手傳動件、旋轉執行器核心傳動件、絲槓核心傳動件、軀幹大尺寸傳動件、骨骼結構件等核心高精度部件。"
-    },
-    {
-      "id": "4878030",
-      "time": "2026-05-13 20:57:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "【vivo手持雲臺預計四季度釋出，供應鏈備貨百萬】據知情人士透露，vivo Pocket手持雲臺或將於今年第四季度釋出，同時有供應鏈訊息稱，該產品將於10月份開始量產，鏡頭感測器尺寸為1/1.1 英寸，上市時間預計11月-12月，目前vivo給出的備貨預期在百萬臺左右。值得一提的是，OPPO此前內部也已啟動雲臺相機專案，代號“扶搖”，其相關產品同樣也將在四季度上市。有知情人士透露：“vivo Pocket原本計劃三季度釋出，但在各家都入局後，vivo延後到第四季度釋出，準備先看友商產品上市情況後再發布產品。”（雷峰網）"
-    },
-    {
-      "id": "4878029",
-      "time": "2026-05-13 20:57:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國醫療保險和醫療補助服務中心（CMS）宣佈在全國範圍內嚴厲打擊欺詐行為，對臨終安養院和家庭健康機構實施為期六個月的註冊暫停令。"
     }
   ]
 }
