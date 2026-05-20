@@ -1,7 +1,40 @@
 {
-  "updated": "2026-05-20 14:53:32",
-  "count": 15665,
+  "updated": "2026-05-20 14:57:16",
+  "count": 15659,
   "items": [
+    {
+      "id": "mkt:019e442c-1ab1-7cc9-95db-5feaba7436e2",
+      "time": "2026-05-20 14:56:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CHINA'S XI: KEY ENERGY CHINA-RUSSIA RELATIONS HAVE REACHED A NEW STARTING POINT"
+    },
+    {
+      "id": "4889630",
+      "time": "2026-05-20 14:55:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【南方電網“算電協同服務專區”正式上線】據中國電力報，5月18日，南方電網使用者生態運營公司在“南網線上”平臺推出“算電協同服務專區”，為智算中心、超算中心、資料中心等算力供給側主體，以及廣大算力需求方提供“一站式”服務。這標誌著南方電網在落實國家“算電協同”戰略上邁出里程碑式一步。"
+    },
+    {
+      "id": "4889629",
+      "time": "2026-05-20 14:54:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國國防部長：無法確定霍爾木茲海峽已佈設水雷。"
+    },
+    {
+      "id": "4889628",
+      "time": "2026-05-20 14:53:42",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【特朗普政府計劃上調難民接納上限 為這一群體新增1萬名額】在本週遞交給美國國會的“緊急申請提案”中，特朗普政府提議在未來數月內，將獲准進入美國的所謂南非白人“難民”人數增加1萬人。在這份提案報告中，美國國務院提議將7500人的難民接納上限上調至17500人；其中新增的1萬個名額將專門留給所謂南非白人“難民”。報告估算，為接納這新增的1萬名難民，聯邦政府將耗資約1億美元。（第一財經）"
+    },
     {
       "id": "mkt:019e4428-734d-7cc9-95db-50705f3f228e",
       "time": "2026-05-20 14:52:17",
@@ -141306,99 +141339,6 @@
         "Importance 1"
       ],
       "text": "Hungary Industrial Output Growth Confirmed at 6.7% — Industrial production in Hungary rose 6.7% year-on-year in March 2026, matching preliminary estimates and rebounding sharply from a downwardly revised 0.9% decline in the previous month. It marked the strongest annual growth since September 2022, driven by broad-based gains across most manufacturing industries (7% vs -0.3% in February), which account for roughly 95% of total industrial output. Production mainly increased for computer, electronic and optical products (21.9% vs 24.6%) and machinery and equipment (20.3% vs 0.8%). In addition, output in mining and quarrying as well as electricity, gas, steam, and air conditioning supply rebounded by 7.5% and 2.3%, respectively, following four consecutive months of decline. On a seasonally and working-day-adjusted basis, industrial output increased by 3.1%, after a 1.8% drop in February. Over the first three months of the year, industrial activity was 1% higher than in the same period last year."
-    },
-    {
-      "id": "4877088",
-      "time": "2026-05-13 14:57:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "【機構：本週多晶矽市場成交回暖 累庫壓力放緩】據安泰科統計，n型復投料（棒狀矽）成交價格區間為3.5-3.6萬元/噸，成交均價為3.53萬元/噸，環比持平；n型顆粒矽成交價格區間為3.4-3.6萬元/噸，成交均價為3.43萬元/噸，環比持平。本週市場呈現積極變化，新簽訂單企業數量增至4-5家，整體簽單量同步增加。市場活躍度提升的主要原因在於：一方面，下游矽片環節因終端部分訂單增加以及對原材料多晶矽價格已處於底部的判斷，小幅提升開工率，從而帶動了對矽料的採購需求；另一方面，矽料價格連續數週企穩，強化了市場“價格見底”的共識，促使部分此前觀望的下游企業開始執行階段性補庫計劃。（矽業分會）"
-    },
-    {
-      "id": "4877087",
-      "time": "2026-05-13 14:56:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯巴什科爾託斯坦一工業設施因“工藝流程違規”發生火災。"
-    },
-    {
-      "id": "4877086",
-      "time": "2026-05-13 14:56:46",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "PVC連續主力合約日內漲2%，現報5220.00元。"
-    },
-    {
-      "id": "4877085",
-      "time": "2026-05-13 14:56:45",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "瀾起科技A股成交額達200億元，現漲7.26%。"
-    },
-    {
-      "id": "4877084",
-      "time": "2026-05-13 14:56:41",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超3.2萬億元，較上日此時縮量114億元。"
-    },
-    {
-      "id": "4877083",
-      "time": "2026-05-13 14:55:48",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【日本兩大軸承製造商NSK與NTN計劃2027年前整合】5月12日，日本精工（NSK）與NTN簽署基本協議，計劃在2027年10月前完成管理整合。NSK與NTN分別是全球第三和第四大軸承製造商，此次合併將打造一家全球領先的軸承企業。根據計劃，將成立一家控股公司，總裁由NSK任命，董事長由NTN任命。兩家公司面臨汽車和工業機械市場增長放緩以及電動汽車加速轉型的挑戰，旨在透過生產整合和更高效的研發投入來降低成本、提升競爭力。"
-    },
-    {
-      "id": "4877082",
-      "time": "2026-05-13 14:55:31",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "光大證券最新研報表示，創業板指主要指標仍在各指數中名列前茅，具有高增長、高盈利、低估值的特點。不過，交易層面，當前指數估值偏高，但基本面支撐同樣較強，不易發生趨勢性行情，預計偏強震盪為主。（21財經）"
-    },
-    {
-      "id": "te:economy:550252",
-      "time": "2026-05-13 14:55:26",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Hungary",
-        "Construction Output",
-        "Importance 1"
-      ],
-      "text": "Hungary Construction Output Recovers in March — Hungary’s construction output rose by 3.9% year-on-year in March 2026, rebounding from a downwardly revised 1.1% decline in the previous month. Output in civil engineering works climbed by 3.0%, recovering from a 7.7% drop in February, mainly driven by a 7.3% increase in specialised construction activities. Meanwhile, building constructions also rose by 4.4% from 1.7%. On a seasonally adjusted monthly basis, construction output grew by 0.5% in March. For the first quarter of 2026, the total volume of construction output declined by 4.2% compared to the same period a year earlier, as construction of buildings and civil engineering output fell by 1.6% and 9.4%, respectively."
-    },
-    {
-      "id": "4877081",
-      "time": "2026-05-13 14:54:51",
-      "tags": [
-        "資料",
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "【華爾街通脹焦慮加劇 機構關注美聯儲下一步如何抉擇】週二出爐火爆超預期的消費者物價資料，進一步加劇了華爾街對通脹的焦慮情緒。即便在最新消費者物價指數（CPI）公佈之前，通脹預期就已持續攀升。當前美股市場在很大程度上對美伊衝突及其引發的能源衝擊選擇淡然無視，而通脹預期抬頭正成為一大潛在風險點。近幾年，即便通脹整體居高不下，股票及其他風險資產依舊錶現不俗。 背後關鍵在於市場遠期通脹預期一直保持溫和，給美聯儲留出了降息空間。分析師表示，一旦通脹預期再度抬頭，或將倒逼美聯儲轉向加息，市場環境也將隨之承壓。 研究機構惠譽博華投資級及宏觀策略主管Zach Griffiths表示：“若股市最終開始正視通脹盈虧平衡利率的異動，我一點也不意外。此前美聯儲官員尚可因市場通脹預期平穩而稍感安心，但眼下這一局面顯然正在發生轉變。”"
-    },
-    {
-      "id": "mkt:019e201d-0c2a-755a-b973-fcd53e9d9bfa",
-      "time": "2026-05-13 14:53:54",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "BESSENT, CHINESE VICE PREMIER HE CONCLUDE TALKS - SOURCE"
     }
   ]
 }
