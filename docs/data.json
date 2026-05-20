@@ -1,7 +1,19 @@
 {
-  "updated": "2026-05-21 00:40:12",
-  "count": 15713,
+  "updated": "2026-05-21 00:44:07",
+  "count": 15711,
   "items": [
+    {
+      "id": "te:economy:552393",
+      "time": "2026-05-21 00:42:57",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Ghana",
+        "Interest Rate",
+        "Importance 0"
+      ],
+      "text": "Ghana Pauses Easing Cycle — The Bank of Ghana left its benchmark interest unchanged at 14% in its May 2026 meeting, pausing after five consecutive rate cuts. Policymakers said the decision reflected a cautious but supportive stance designed to anchor inflation expectations while also supporting economic activity. Ghana’s annual inflation rate inched up to a three-month high of 3.4% in April, from 3.2% in March, but remained subdued overall."
+    },
     {
       "id": "4891030",
       "time": "2026-05-21 00:38:44",
@@ -141466,30 +141478,6 @@
         "國際"
       ],
       "text": "美國30年期國債接受非競爭性投標，金額為6230萬美元。"
-    },
-    {
-      "id": "4878385",
-      "time": "2026-05-14 00:43:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國參議院第七次否決了民主黨提出的、旨在限制特朗普對伊朗戰爭權力的決議。共和黨議員莉薩・穆爾科夫斯基與蘭德・保羅、蘇珊・柯林斯一同支援這項決議。"
-    },
-    {
-      "id": "4878384",
-      "time": "2026-05-14 00:42:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "哈馬斯表示，必須向以色列施壓，以確保執行特朗普的加沙計劃。"
-    },
-    {
-      "id": "4878383",
-      "time": "2026-05-14 00:42:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "匈牙利總理毛焦爾：匈牙利將臨時凍結非必要財政支出。"
     }
   ]
 }
