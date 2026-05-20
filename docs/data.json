@@ -1,7 +1,817 @@
 {
-  "updated": "2026-05-20 23:34:21",
-  "count": 15769,
+  "updated": "2026-05-21 00:40:12",
+  "count": 15713,
   "items": [
+    {
+      "id": "4891030",
+      "time": "2026-05-21 00:38:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理辦公室：內塔尼亞胡聯合以色列國防部長卡茨視察了駐守東部邊境的以色列國防軍第 96 師。"
+    },
+    {
+      "id": "4891029",
+      "time": "2026-05-21 00:38:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美參議員格雷厄姆：希望伊朗衝突以外交方式解決】美國共和黨參議員、特朗普盟友格雷厄姆在社交媒體上表示：“我認為，特朗普總統在削弱伊朗恐怖主義政權方面做得非常出色，已經將其削弱至1979年以來的最低水平。”格雷厄姆稱，他希望伊朗衝突能夠透過外交方式解決，但這一方案必須是全面的，以確保伊朗不再是“全球最大的國家級恐怖主義支持者”，同時這一方案也必須是真實可信的，談判過程必須具有可靠性。"
+    },
+    {
+      "id": "4891028",
+      "time": "2026-05-21 00:35:11",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "週三（5月20日）歐市尾盤，ICE英國天然氣期貨跌5.25%，報120.000便士/千卡，北京時間22:14開啟加速下跌行情。TTF基準荷蘭天然氣期貨跌5.63%，報49.065歐元/兆瓦時。ICE歐盟碳排放交易許可（期貨價格）漲1.10%，報74.76歐元/噸。"
+    },
+    {
+      "id": "te:markets:552390",
+      "time": "2026-05-21 00:31:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "DAX Closes at 2-Week High — Frankfurt's DAX 40 gained ground to close about 1.4% firmer at 24,737 on Wednesday, the highest since May 6, in line with other European peers. Renewed optimism over a possible agreement to end the war in Iran boosted market sentiment. US President Trump said that talks with Iran were close to a conclusion, which could restore energy flows through the Straight of Hormuz. In equities, Infineon Technologies was the top performer, rising 5%, on AI enthusiasm ahead of Nvidia's earnings release. Other notable gainers included Deutsche Bank (4.3%), MTU Aero Engines (4.1%) and Siemens Energy (3.9%)."
+    },
+    {
+      "id": "4891027",
+      "time": "2026-05-21 00:30:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐洲三國批評以色列部長嘲諷“全球堅韌船隊”被扣人員 】義大利總理梅洛尼和外交部長塔亞尼20日發表聯合宣告，譴責以色列國家安全部長本-格維爾針對“全球堅韌船隊”被扣押人員的言行，稱其“令人無法接受”。對本-格維爾相關行為，法國外長巴羅當日表示“不可接受”，愛爾蘭外交貿易部長海倫·麥肯蒂表示“震驚”。據《以色列時報》20日報道，本-格維爾在社交媒體釋出的一段影片顯示，他在現場嘲諷被扣押的“全球堅韌船隊”活動人士。（新華社）"
+    },
+    {
+      "id": "4891026",
+      "time": "2026-05-21 00:29:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普稱海岸警衛隊共扣押了3艘伊朗船隻。"
+    },
+    {
+      "id": "4891025",
+      "time": "2026-05-21 00:29:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "迦納維持基準利率維持在 14% 不變。"
+    },
+    {
+      "id": "mkt:019e4638-38cc-7bb5-8185-964e53ee39fe",
+      "time": "2026-05-21 00:29:05",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "TRUMP: THE COAST GUARD HAS CAPTURED 3 IRANIAN VESSELS TOTAL"
+    },
+    {
+      "id": "mkt:019e4637-c58c-7bb5-8185-8e9c2aab86f1",
+      "time": "2026-05-21 00:28:38",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "TRUMP: THERE'S MORE FIGHTING TO COME UNLESS IRAN GETS SMART"
+    },
+    {
+      "id": "te:markets:552389",
+      "time": "2026-05-21 00:28:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Crude Extends Retreat — Brent crude oil futures fell more than 5% to the $105 per barrel mark on Wednesday on fresh hope that supply from the Middle East could be gradually restored. US President Trump stated the US was on the final stages of talks with Iran over their conflict, backing early statements that Tehran could end the war quickly. An agreement would likely end each country's naval blockade of commercial vessels crossing the Strait of Hormuz, which has suspended tanker flows through the chokepoint since March. Optimism on supply was magnified by satellite data showing three supertankers crossing the Strait, potentially reflecting a looser grip on traffic. The Persian Gulf would typically supply economies with around 20 million barrels of oil per day, and the war triggered a surge in prices that topped at $116 per barrel in March. Consistently, crude oil inventories fell for the fourth straight week, and the US SPR was depleted by 10 million barrels, standing a 6.6% annual decline."
+    },
+    {
+      "id": "4891024",
+      "time": "2026-05-21 00:28:14",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：除非伊朗採取更明智的行動，否則衝突還會繼續。"
+    },
+    {
+      "id": "4891023",
+      "time": "2026-05-21 00:28:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：委內瑞拉原油將運往得克薩斯州、路易斯安那州及阿拉斯加州。"
+    },
+    {
+      "id": "mkt:019e4637-0096-7bb5-8185-822b729e54ab",
+      "time": "2026-05-21 00:27:50",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "TRUMP: VENEZUELAN OIL COMING TO TEXAS, LOUISIANA AND ALASKA"
+    },
+    {
+      "id": "4891022",
+      "time": "2026-05-21 00:27:41",
+      "tags": [
+        "公司",
+        "觀點",
+        "焦點",
+        "國際"
+      ],
+      "text": "【報道：OpenAI 即將籌備遞交 IPO 上市申請】據華爾街日報報道，據知情人士透露，OpenAI 正籌備儘快提交首次公開募股申請，最早或於本週五啟動流程。 據悉，這家 ChatGPT 研發企業已聯合投行團隊，籌備在未來數日至數週內遞交上市申請。高盛、摩根士丹利等機構的投行人員正協助這家 AI 巨頭草擬 IPO 招股說明書，計劃很快向監管機構秘密提交相關檔案，最早或定於本週五完成遞交。 知情人士表示，由山姆・奧爾特曼執掌的 OpenAI，目標力爭最早在今年 9 月完成上市；同時相關人士提醒，目前上市規劃仍存在變動空間，後續計劃或有所調整。"
+    },
+    {
+      "id": "mkt:019e4636-d4d3-7bb5-8185-79216268979f",
+      "time": "2026-05-21 00:27:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TRUMP COMMENDS 'EXCELLENT PARTNERSHIP' WITH VENEZUELA"
+    },
+    {
+      "id": "mkt:019e4636-c01b-7bb5-8185-75e396bcafbf",
+      "time": "2026-05-21 00:27:33",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "S&P500",
+        "Impact bullish",
+        "CNH",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "TRUMP SAYS MEETING WITH XI WAS VERY SUCCESSFUL AND GREAT"
+    },
+    {
+      "id": "te:markets:552388",
+      "time": "2026-05-21 00:27:27",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 3"
+      ],
+      "text": "WTI Crude Falls Below $100 — WTI crude oil futures fell more than 5% to below the $100 per barrel mark on Wednesday on fresh hope that supply from the Middle East could be gradually restored. US President Trump stated the US was on the final stages of talks with Iran over their conflict, backing early statements that Tehran could end the war quickly. An agreement would likely end each country's naval blockade of commercial vessels crossing the Strait of Hormuz, which has suspended tanker flows through the chokepoint since March. Optimism on supply was magnified by satellite data showing three supertankers crossing the Strait, potentially reflecting a looser grip on traffic. The Persian Gulf would typically supply economies with around 20 million barrels of oil per day, and the war triggered a surge in prices that topped at $120 per barrel in March. Consistently, crude oil inventories fell for the fourth straight week, and the US SPR was depleted by 10 million barrels, standing a 6.6% annual decline."
+    },
+    {
+      "id": "mkt:019e4636-a190-7bb5-8185-6ef15a6f20c5",
+      "time": "2026-05-21 00:27:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TRUMP STATED THAT XI JINPING SAID THE US MILITARY IS EXCEPTIONAL"
+    },
+    {
+      "id": "4891021",
+      "time": "2026-05-21 00:26:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普稱讚與委內瑞拉達成的 “優質合資合作專案”。"
+    },
+    {
+      "id": "4891020",
+      "time": "2026-05-21 00:25:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "路透社調查顯示，美國能源資訊署週四釋出報告預計，上週美國天然氣庫存增加 950 億立方英尺。"
+    },
+    {
+      "id": "mkt:019e4634-e07e-7bb5-8185-666eb0975882",
+      "time": "2026-05-21 00:25:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Hot",
+        "Policy",
+        "Breaking News 24h",
+        "Nasdaq100",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "【OpenAI Plans Confidential IPO Filing With Major Banks】OpenAI is preparing to file confidential IPO paperwork in the coming days or weeks, working with Goldman Sachs and Morgan Stanley, according to people familiar with the matter. The filing could come as early as Friday, with a potential listing targeted for September, though timing may change. The company recently won a legal dispute with co-founder Elon Musk. It still faces concerns over revenue generation, heavy infrastructure spending, and competition from Anthropic."
+    },
+    {
+      "id": "mkt:019e4634-6b54-7bb5-8185-5c59ad436b93",
+      "time": "2026-05-21 00:25:00",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "TRUMP: CHINA'S XI RESPECTS U.S. MILITARY"
+    },
+    {
+      "id": "4891019",
+      "time": "2026-05-21 00:23:41",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "報道：OpenAI準備未來數日、或數週遞交IPO申請。"
+    },
+    {
+      "id": "4891018",
+      "time": "2026-05-21 00:22:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普宣揚美國實施的封鎖舉措。"
+    },
+    {
+      "id": "mkt:019e4631-fa58-7bb5-8185-5198cd88e454",
+      "time": "2026-05-21 00:22:20",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OPENAI PREPARING TO FILE FOR IPO VERY SOON, SOURCES SAY -- WSJ BANKERS AT GOLDMAN SACHS, MORGAN STANLEY WORKING ON OPENAI'S IPO PAPERWORK, SOURCES SAY -- WSJ"
+    },
+    {
+      "id": "4891017",
+      "time": "2026-05-21 00:21:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普重申將阻止毒品陸路入境。"
+    },
+    {
+      "id": "4891016",
+      "time": "2026-05-21 00:20:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：絕不會任由伊朗攻打以色列、擾亂中東局勢。"
+    },
+    {
+      "id": "4891015",
+      "time": "2026-05-21 00:20:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：或許需要對伊朗採取更強硬打擊，也或許不必如此。"
+    },
+    {
+      "id": "4891014",
+      "time": "2026-05-21 00:20:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗迫切希望達成協議。"
+    },
+    {
+      "id": "mkt:019e4630-08a4-7bb5-8185-4d5adee69de2",
+      "time": "2026-05-21 00:20:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "TRUMP: WE MAY HAVE TO HIT IRAN EVEN HARDER, BUT MAYBE NOT"
+    },
+    {
+      "id": "4891013",
+      "time": "2026-05-21 00:20:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及伊朗局勢：我們獲得廣泛支援。"
+    },
+    {
+      "id": "mkt:019e462f-89d7-7bb5-8185-42cecc2e7d96",
+      "time": "2026-05-21 00:19:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "UK'S CHANCELLOR REEVES DROPS THE PUSH FOR A FOOD PRICE CAP - FT"
+    },
+    {
+      "id": "4891012",
+      "time": "2026-05-21 00:19:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：不會讓伊朗擁有核武器。"
+    },
+    {
+      "id": "mkt:019e462d-ac75-7bb5-8185-3c8201bbb6c1",
+      "time": "2026-05-21 00:17:38",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "TRUMP ANNOUNCED A PLAN FOR A FLEET OF 55 ICEBREAKERS SOON"
+    },
+    {
+      "id": "mkt:019e462d-5c55-7bb5-8185-33cfac4773af",
+      "time": "2026-05-21 00:17:18",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "TRUMP EXPRESSES GRATITUDE TO FINLAND FOR PROVIDING ICEBREAKER SHIPS"
+    },
+    {
+      "id": "4891011",
+      "time": "2026-05-21 00:16:16",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "埃克森美孚：公司已與埃及簽署諒解備忘錄。"
+    },
+    {
+      "id": "mkt:019e462c-3e4e-7bb5-8185-2bf2af8f40e0",
+      "time": "2026-05-21 00:16:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EXXON MOBIL SPOKESPERSON SAYS COMPANY HAS SIGNED MEMORANDUM OF UNDERSTANDING WITH EGYPT"
+    },
+    {
+      "id": "4891010",
+      "time": "2026-05-21 00:15:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：短期內將擁有55艘破冰船。"
+    },
+    {
+      "id": "4891009",
+      "time": "2026-05-21 00:13:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普感謝芬蘭提供破冰船。"
+    },
+    {
+      "id": "4891008",
+      "time": "2026-05-21 00:13:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【英國國債收益率跌超12個基點】週三（5月20日）歐市尾盤，英國10年期國債收益率跌14.1個基點，報4.988%，全天持續下跌，北京時間23:17重新整理日低至4.963%。兩年期英債收益率跌14.3個基點，報4.366%。30年期英債收益率跌12.9個基點，50年期英債收益率跌12.3個基點。2/10年期英債收益率利差漲0.299個基點，報+62.120個基點。"
+    },
+    {
+      "id": "te:markets:552386",
+      "time": "2026-05-21 00:12:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 1.71% Higher — The FTSE MIB Index rose 827 points or 1.71 percent on Wednesday to close at 49182 points. Leading the gains are STMicroelectronics (6.08%), Avio (4.16%) and Intesa Sanpaolo (2.64%)."
+    },
+    {
+      "id": "4891007",
+      "time": "2026-05-21 00:11:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國財政大臣Reeves放棄推動食品價格上限的方案。她不會在週四講話中提及志願（實施）上限構想。（英國金融時報）"
+    },
+    {
+      "id": "te:markets:552385",
+      "time": "2026-05-21 00:11:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "UK Stocks Finish Higher — The FTSE 100 clawed back early losses to close about 1% up at 10,432 on Wednesday, as investors mulled better-than-expected UK inflation data and weighed a potential resolution to the Middle East conflict. Headline inflation fell to 2.8% in April, below the 3% forecast and the lowest since March 2025, which reduced bets on BoE rate hikes. Regarding geopolitics, President Trump said the conflict would end “very quickly,” with Vice President JD Vance reporting progress in talks with Tehran. Attention turns to first-quarter results from US chip giant Nvidia and the FOMC minutes. Retailer Marks & Spencer was the standout performer, surging 6.6%, on higher annual sales and profit growth forecasts. Babcock (5.3%) was boosted by an upgrade to ‘buy’ from ‘add’ at Peel Hunt. Heavyweight miners rallied as copper prices advanced, with Anglo American, Antofagasta and Glencore all up. Experian dropped 3%, leading losses, as FY2027 revenue guidance disappointed even with a $1 billion share buyback."
+    },
+    {
+      "id": "te:markets:552384",
+      "time": "2026-05-21 00:11:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 1.38% Higher — The DAX Index gained 337 points or 1.38 percent on Wednesday to close at 24737 points. Gains were led by MTU Aero Engines AG (5.16%), Infineon (5.11%) and Deutsche Bank (4.29%)."
+    },
+    {
+      "id": "te:markets:552383",
+      "time": "2026-05-21 00:10:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 2.09% Higher — The CAC 40 Index went up by 167 points or 2.09 percent on Wednesday to close at 8149 points. The rise was led by STMicroelectronics (6.69%), ArcelorMittal (4.96%) and Societe Generale (4.56%)."
+    },
+    {
+      "id": "4891006",
+      "time": "2026-05-21 00:07:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "【義大利、希臘國債收益率重挫約14個基點】週三（5月20日）歐市尾盤，法國10年期國債收益率跌11.3個基點，報3.718%，全天處於下跌狀態，北京時間22:14開始加速下跌（短線跳水）之前，主要持穩於3.780%附近。\n兩年期法債收益率跌10.4個基點，報2.788%；30年期法債收益率跌8.9個基點，報4.572%。\n義大利10年期國債收益率跌13.8個基點，報3.827%。\n西班牙10年期國債收益率跌10.6個基點，報3.520%。\n希臘10年期國債收益率跌14.0個基點，報3.771%。"
+    },
+    {
+      "id": "te:markets:552382",
+      "time": "2026-05-21 00:07:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 0.96% Higher — The FTSE 100 Index rose 99 points or 0.96 percent on Wednesday to close at 10429 points. Leading the gains are Marks & Spencer (7.37%), Rolls-Royce (5.15%) and Antofagasta (4.74%). Top losers were Experian (-3.17%), Auto Trader (-2.50%) and The Sage Group (-2.07%)."
+    },
+    {
+      "id": "4891005",
+      "time": "2026-05-21 00:06:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：依託通用商業協議（UCP）打造的結賬功能，將於未來數月內在加拿大、澳大利亞上線，後續還將推廣至英國。"
+    },
+    {
+      "id": "4891003",
+      "time": "2026-05-21 00:04:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：面向零售商推出通用商務協議功能和人工智慧工具。"
+    },
+    {
+      "id": "te:markets:552381",
+      "time": "2026-05-21 00:03:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "European Stocks Rebound to 2-Week High — European stocks closed sharply higher on Wednesday, the highest in two weeks, amid fresh optimism over a possible agreement to end the war in Iran. The STOXX 50 closed 2.1% higher at 5,975 and the STOXX 600 gained 1.6% to 621. Energy prices pulled back after US President Trump stated Washington was in the \"final stages\" of talks with Iran, potentially restoring energy exports through the Straight of Hormuz. Consequently, sovereign yields retreated and improved the credit outlook for Eurozone banks, adding some respite to the sector. Santander, BBVA, and Deutsche Bank added close to 4%. Meanwhile, companies in the AI infrastructure sector were surged as the improvement in sentiment joined the tailwinds from Nvidia earnings overnight. ASML soared 6.7% and Infineon jumped 5.1%."
+    },
+    {
+      "id": "4891002",
+      "time": "2026-05-21 00:03:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌在AI模型推出更有用的廣告。"
+    },
+    {
+      "id": "4891001",
+      "time": "2026-05-21 00:02:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌雲：基於Google Kubernetes引擎（GKE）的Agent沙箱現已全面開放使用。"
+    },
+    {
+      "id": "mkt:019e461f-026e-7bb5-8185-22fbd97296a5",
+      "time": "2026-05-21 00:01:37",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Alphabet",
+        "GOOGL.O",
+        "Impact bullish"
+      ],
+      "text": "GOOGLE INTRODUCING MORE HELPFUL ADS IN AI MODE"
+    },
+    {
+      "id": "4890999",
+      "time": "2026-05-21 00:00:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國宣告：與海灣合作委員會達成貿易協議。"
+    },
+    {
+      "id": "mkt:019e461d-f744-7bb5-8185-18c5c375f371",
+      "time": "2026-05-21 00:00:29",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "UK FOREIGN OFFICE SUMMONED RUSSIAN EMBASSY THIS WEEK: GOVT"
+    },
+    {
+      "id": "mkt:019e461d-e7f6-7bb5-8185-17d8babd55e8",
+      "time": "2026-05-21 00:00:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "UK RAF JET INTERCEPTED UNARMED OVER BLACK SEA LAST MONTH: GOVT"
+    },
+    {
+      "id": "mkt:019e461d-aed7-7bb5-8185-0bb778b9f3d9",
+      "time": "2026-05-21 00:00:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "BRITAIN AGREES TRADE DEAL WITH GULF COOPERATION COUNCIL - UK STATEMENT"
+    },
+    {
+      "id": "4890998",
+      "time": "2026-05-20 23:59:00",
+      "tags": [
+        "公司",
+        "資料"
+      ],
+      "text": "CWU：谷歌DeepMind將與管理層展開討論，以尋求正式的工會認可。"
+    },
+    {
+      "id": "te:markets:552380",
+      "time": "2026-05-20 23:54:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Rises on Easing Oil Prices — he FTSE MIB gained 1.7% to close at 49,182 on Wednesday as progress in US-Iran negotiations helped ease lingering inflation concerns and improved broader risk appetite. In the latest diplomatic effort, Pakistan’s interior minister arrived in Tehran, with Pakistan acting as a mediator after hosting peace talks last month. Oil prices retreated, although they remained above $100 per barrel. The decline in crude prices supported financial stocks, with UniCredit rising 2.6% and Intesa Sanpaolo gaining 2.8%. STMicroelectronics climbed 6% ahead of Nvidia’s earnings release later in the day, as investors awaited fresh signals on AI demand and the semiconductor outlook. Leonardo added 2.4% after announcing a contract with Abu Dhabi Ship Building to supply naval combat systems to the Kuwaiti navy. In contrast, Eni fell 1.3% as oil prices moved lower."
+    },
+    {
+      "id": "4890997",
+      "time": "2026-05-20 23:53:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗東南部薩拉萬市發生槍擊事件】當地時間20日，伊朗東南部錫斯坦-俾路支斯坦省薩拉萬市一處交通路線附近發生槍擊事件。有訊息稱，該起事件已造成人員死亡。（央視新聞）"
+    },
+    {
+      "id": "4890996",
+      "time": "2026-05-20 23:53:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普在美國海岸警衛隊學院發表講話。"
+    },
+    {
+      "id": "mkt:019e4616-8eb6-7bb5-8185-0327fff87d98",
+      "time": "2026-05-20 23:52:23",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "TRUMP: ONLY QUESTION ON IRAN IS DO WE FINISH IT UP OR DO THEY SIGN DOCUMENT"
+    },
+    {
+      "id": "4890995",
+      "time": "2026-05-20 23:52:17",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：伊朗問題只有兩種選擇——要麼我們徹底解決它，要麼對方簽署檔案。"
+    },
+    {
+      "id": "4890994",
+      "time": "2026-05-20 23:52:02",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【亞馬遜創始人Jeff Bezos：美國稅法是裙帶資本主義 需要修正】Jeff Bezos在接受採訪時表示，他認為美國現行稅法是裙帶資本主義，需要修正。談及美國經濟，Bezos表示，美國的問題不在於收入，而在於支出，企業福利和補貼過多，企業對政治的影響力也過大，預計某些核心商品會出現通縮。在人工智慧方面，Bezos警告稱，這項技術將導致勞動力短缺，生產率提升可能使一些人完全退出勞動力市場。"
+    },
+    {
+      "id": "mkt:019e4616-2b7e-7bb5-8184-ff072df6f33c",
+      "time": "2026-05-20 23:51:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TRUMP: SEEING IN IRAN THAT US IS RESPECTED"
+    },
+    {
+      "id": "4890993",
+      "time": "2026-05-20 23:49:57",
+      "tags": [
+        "央行",
+        "宏觀",
+        "國際"
+      ],
+      "text": "【英國央行行長：食品價格管制“不可持續”】英國央行行長貝利表示，政府對食品價格實施控制從長遠來看是不可持續的。貝利與外部利率決策委員會（MPC）成員Swati Dhingra均對試圖控制價格所帶來的扭曲效應發出了警告。“你是在違背成本規律去人為地調整價格，這在長遠來看是無法持續的，但對於極短期的干預，或許能找到一些理由，”貝利在議會財政委員會的聽證會上表示。“從這個意義上說，它確實需要經過深思熟慮。” 丁格拉則結合其在印度的經驗指出，價格控制在“消除饑荒和貧困方面曾非常成功”，但“其最終導致的後果是讓農業部門陷入了高度扭曲”。此前有報道稱財政部提出了這一設想，但財政部官員隨後“闢謠”，稱不會強迫食品零售商對價格設定上限，但政府正與行業展開對話，探討能夠緩解民眾生活成本壓力的可行舉措。"
+    },
+    {
+      "id": "4890992",
+      "time": "2026-05-20 23:48:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國總統馬克龍：電競世界盃將在巴黎舉辦！ 這一首次殊榮令我們倍感榮幸。感謝沙烏地阿拉伯給予的信任。我們已籌備就緒，承辦 2026 年電競世界盃，十分自豪再度迎接全球賓客齊聚此地。"
+    },
+    {
+      "id": "te:markets:552377",
+      "time": "2026-05-20 23:45:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "CAC 40 Rises on Easing Oil Prices — The CAC 40 rose 1.8% to close at 8,125 on Wednesday as progress in US-Iran negotiations helped ease lingering inflation concerns and supported broader risk appetite. In the latest diplomatic effort, Pakistan’s interior minister arrived in Tehran, with Pakistan acting as a mediator after hosting peace talks last month. Oil prices retreated, although they remained close to $100 per barrel. The pullback in crude prices lifted financial stocks, with BNP Paribas gaining 2.1% and Société Générale surging 4.5%. Luxury shares also advanced as risk aversion eased, with LVMH rising 2.5% and Kering adding 3.1%. STMicroelectronics jumped 6.2% ahead of Nvidia’s earnings release later in the day, as investors looked for fresh signals on AI-driven demand and the outlook for the semiconductor sector. In industrials, Airbus gained 2.6% and Safran climbed 3.9%, while TotalEnergies slipped 0.2% on lower oil prices."
+    },
+    {
+      "id": "mkt:019e460f-797a-7bb5-8184-f292126e5404",
+      "time": "2026-05-20 23:44:39",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "CME GROUP: GCC AWARE SOME CUSTOMERS ARE REPORTING CME DIRECT DISCONNECTS"
+    },
+    {
+      "id": "4890991",
+      "time": "2026-05-20 23:44:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "【聯合國機構：地緣政治緊張局勢考驗全球經濟韌性 】聯合國貿易和發展會議（貿發會議）19日釋出報告指出，在貿易、發展中經濟體工業生產以及人工智慧相關投資的支撐下，今年以來全球經濟展現出一定韌性，但不斷升級的地緣政治緊張局勢正在考驗這一勢頭。報告預測，受能源價格上漲、運輸中斷、市場波動以及對金融避險資產需求增加等因素影響，2026年全球經濟增長將從2025年的2.9%放緩至2.6%。發展中經濟體面臨的風險尤為突出，許多國家不僅需要應對燃料、食品和化肥成本上漲，還面臨匯率波動、融資條件收緊以及投資者信心疲軟等挑戰。（新華社）"
+    },
+    {
+      "id": "4890990",
+      "time": "2026-05-20 23:43:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "芝商所：芝商所全球指揮中心（GCC）注意到部分客戶報告稱與CME的直接連線出現中斷。"
+    },
+    {
+      "id": "mkt:019e460e-583b-7bb5-8184-ea92117e4ae3",
+      "time": "2026-05-20 23:43:25",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "30-YEAR TREASURY YIELDS CONTINUE DECLINE, LAST AT 5.1085%"
+    },
+    {
+      "id": "4890989",
+      "time": "2026-05-20 23:43:01",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國30年期國債收益率跌至5.1085%。"
+    },
+    {
+      "id": "4890988",
+      "time": "2026-05-20 23:41:14",
+      "tags": [
+        "央行",
+        "宏觀"
+      ],
+      "text": "【英國央行行長：食品價格管制“不可持續”】英國央行Andrew Bailey與外部利率政策委員Swati Dhingra共同警告稱，試圖控制價格會帶來扭曲效應。英國財政部大臣表示，不會強制超市限價，但政府正與業界討論採取措施支援民眾應對生活成本。"
+    },
+    {
+      "id": "4890987",
+      "time": "2026-05-20 23:41:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "育碧本財年調整後營業利潤為-10.447 億歐元，市場預期為-7.147 億歐元。"
+    },
+    {
+      "id": "4890986",
+      "time": "2026-05-20 23:40:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "【獅子山接收首批被美國驅逐的第三國公民 】獅子山政府20日表示，該國接收的遭美國驅逐第三國公民首批25人已抵達首都弗里敦。獅子山資訊與公民教育部長切爾諾·巴赫接受新華社記者電話採訪時證實，這批被驅逐的第三國公民於當日上午抵達弗里敦隆吉國際機場。（新華社）"
+    },
+    {
+      "id": "4890985",
+      "time": "2026-05-20 23:37:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "內部備忘錄顯示，Meta執行長告知員工，預計今年不會再進行全員大規模裁員。"
+    },
+    {
+      "id": "mkt:019e4609-157b-7bb5-8184-e6f9ad3d83ec",
+      "time": "2026-05-20 23:37:40",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O"
+      ],
+      "text": "META CEO TELLS EMPLOYEES HE DOES NOT EXPECT MORE COMPANY-WIDE LAYOFFS THIS YEAR -INTERNAL MEMO"
+    },
+    {
+      "id": "4890984",
+      "time": "2026-05-20 23:37:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "荷蘭外交大臣：荷蘭已召見以色列大使，抗議以方粗暴對待被扣救援船隊活動人士，稱相關行徑令人無法接受。"
+    },
+    {
+      "id": "mkt:019e4608-7eb6-7bb5-8184-d9c5fec4d2a4",
+      "time": "2026-05-20 23:37:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "EUROPEAN INDEXES CLOSED HIGHER, STOXX 50 +2.07%, IBEX 35 +2.17%, CAC 40 +1.70%, FTSE MIB +1.71%, DAX +1.28%, FTSE 100 +1.00%"
+    },
+    {
+      "id": "mkt:019e4608-0f2a-7bb5-8184-d1b3f8338437",
+      "time": "2026-05-20 23:36:33",
+      "tags": [
+        "MKT News",
+        "QCOM.O"
+      ],
+      "text": "QUALCOMM INTRODUCES QUALCOMM DRAGONWING MBM FAMILY"
+    },
+    {
+      "id": "4890983",
+      "time": "2026-05-20 23:35:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【古巴國家主席：反帝陣營力量遠比帝國強大 】古巴國家主席迪亞斯－卡內爾20日在社交媒體發文說，反帝陣營力量遠比帝國自身強大，反帝主義情緒在古巴一代代人心中越發強烈。迪亞斯－卡內爾說，5月20日在古巴歷史上意味著“干預、干涉、掠奪與挫折”。在那一天，唯一值得慶幸的是，讓當時的古巴人萌生了反帝國主義的情緒。隨著“祖國獨立與主權不斷遭受新的、持續的威脅”，這種情緒在後續每一代人心中都愈發強烈。“我們永遠不要忘記，正是由於帝國自身的存在，讓我們反帝國主義者的人數遠遠超過他們。”（新華社）"
+    },
+    {
+      "id": "4890982",
+      "time": "2026-05-20 23:34:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "高通：高通正式推出高通躍龍移動寬頻多媒體系列全新寬頻平臺產品陣容。"
+    },
     {
       "id": "4890981",
       "time": "2026-05-20 23:33:29",
@@ -140680,1331 +141490,6 @@
         "其他"
       ],
       "text": "匈牙利總理毛焦爾：匈牙利將臨時凍結非必要財政支出。"
-    },
-    {
-      "id": "4878382",
-      "time": "2026-05-14 00:39:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "信諾高管在美國銀行醫療健康會議上表示，目前未觀察到會導致藥房福利管理領域整體利潤率出現大規模壓縮的定價動態。"
-    },
-    {
-      "id": "4878381",
-      "time": "2026-05-14 00:38:34",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【瞄準未獲Mythos使用許可權的銀行 法國AI公司Mistral研發對標產品】法國AI初創公司Mistral AI正與歐洲多家銀行洽談，計劃部署其對標Anthropic PBC旗下Mythos的產品。Mythos這款訪問受限的AI模型能夠以前所未有的速度和規模發現網路安全漏洞。據知情人士透露，Mistral正在開發一款專注於網路安全的AI模型。目前尚不清楚該模型何時釋出，但公司已就此與歐洲銀行業展開討論。由於資訊未公開，知情人士要求匿名。歐洲銀行業無法使用Mythos，在識別並修復可能被AI工具利用的漏洞方面承受著壓力。"
-    },
-    {
-      "id": "4878380",
-      "time": "2026-05-14 00:38:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "訊息人士稱，沙特戰機曾在戰爭期間空襲了伊拉克境內伊朗支援的民兵組織據點。"
-    },
-    {
-      "id": "mkt:019e2233-6e09-7dd0-a6a7-89b752928e2b",
-      "time": "2026-05-14 00:37:35",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "SAUDI WARPLANES STRUCK IRAN-BACKED MILITIA SITES IN IRAQ DURING WAR, SOURCES SAY"
-    },
-    {
-      "id": "4878379",
-      "time": "2026-05-14 00:37:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗總統府：不會永久限制網際網路訪問】當地時間13日，伊朗總統府負責新聞與通訊事務的副主任塔巴塔巴伊表示，出於戰爭時期的安全考量，當前的網際網路限制是臨時性的。塔巴塔巴伊否認網際網路限制會永久化，並指出在戰爭條件下，民眾會將安全置於便捷訪問網際網路之上。（央視新聞）"
-    },
-    {
-      "id": "4878378",
-      "time": "2026-05-14 00:35:59",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "埃及與國際貿易金融公司簽署15億美元貸款協議，以支援糧食和能源安全。"
-    },
-    {
-      "id": "4878377",
-      "time": "2026-05-14 00:35:32",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "花旗集團併購業務主管：傳媒行業將持續迎來格局變革。"
-    },
-    {
-      "id": "mkt:019e2230-9750-7dd0-a6a7-81263cf56ea7",
-      "time": "2026-05-14 00:34:30",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "IRAN’S FOREIGN MINISTER ARAGHCHI: KUWAIT HAS UNLAWFULLY ATTACKED AN IRANIAN BOAT AND DETAINED 4 OF OUR CITIZENS IN THE PERSIAN GULF. WE DEMAND THE IMMEDIATE RELEASE OF OUR NATIONALS AND RESERVE THE RIGHT TO RESPOND"
-    },
-    {
-      "id": "4878376",
-      "time": "2026-05-14 00:34:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "白宮考慮赦免250人以紀念美國建國250週年。"
-    },
-    {
-      "id": "mkt:019e2230-0640-7dd0-a6a7-7a0c087ba59f",
-      "time": "2026-05-14 00:33:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "WHITE HOUSE EXPLORES 250 PARDONS TO MARK AMERICA'S 250TH - WSJ WHITE HOUSE IS WEIGHING 250 PRESIDENTIAL PARDONS FOR ANNOUNCEMENT BY SUMMER 2026"
-    },
-    {
-      "id": "4878375",
-      "time": "2026-05-14 00:33:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外長阿拉格齊：科威特蓄意製造矛盾事端，在波斯灣非法襲擊一艘伊朗船隻，並扣押我方4名公民。這一行徑發生在美國用以襲擊伊朗的島嶼附近。我方要求立即釋放本國公民，並保留採取回應措施的權利。"
-    },
-    {
-      "id": "4878374",
-      "time": "2026-05-14 00:32:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯外交部：總統普京與土庫曼民族領袖、人民委員會主席別爾德穆哈梅多夫通電話。雙方討論了進一步加強俄土戰略伙伴關係以及在經貿、文化人文等領域合作的熱點問題。"
-    },
-    {
-      "id": "4878373",
-      "time": "2026-05-14 00:31:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "法國總統馬克龍宣佈將召開非洲聯盟和平程序籌資會議。"
-    },
-    {
-      "id": "4878372",
-      "time": "2026-05-14 00:30:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "匈牙利總理毛焦爾：匈牙利將維持燃油價格上限機制。"
-    },
-    {
-      "id": "4878371",
-      "time": "2026-05-14 00:30:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西玉米產業協會（Abramilho）主席表示，巴西玉米產量很快將超過大豆產量。"
-    },
-    {
-      "id": "4878370",
-      "time": "2026-05-14 00:29:09",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲柯林斯：目前諸多關鍵經濟指標波動性極強。"
-    },
-    {
-      "id": "mkt:019e222b-a0c1-7dd0-a6a7-73ae76860b02",
-      "time": "2026-05-14 00:29:04",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "FED'S COLLINS: MANY KEY ECONOMIC INDICATORS ARE VERY VOLATILE RIGHT NOW"
-    },
-    {
-      "id": "4878369",
-      "time": "2026-05-14 00:28:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國證券交易委員會前主席傑伊·克萊頓表示，私人信貸領域“並未出現過度槓桿”。"
-    },
-    {
-      "id": "4878368",
-      "time": "2026-05-14 00:28:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國首相斯塔默已向盟友明確表態：如果韋斯·斯特里廷成功發起領袖選舉挑戰，他將留任並迎戰。"
-    },
-    {
-      "id": "4878367",
-      "time": "2026-05-14 00:27:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "【菲律賓議員逮捕令引發參議院騷亂】5月13日晚，菲律賓執法人員和軍方人員進入參議院大樓。大樓內記者拍攝的影片顯示，現場連續傳出槍聲，人群驚慌失措。參議院大樓進入封鎖狀態。有訊息稱菲律賓國家調查局人員試圖入內逮捕參議員、菲律賓前國家警察總監羅納德·德拉羅薩，並在撤退時開火。菲律賓參議長卡耶塔諾稱，參議院“正遭受疑似襲擊”。菲律賓內政部長雷穆利亞隨即抵達參議院，但表示他“不是為了逮捕德拉羅薩”，而是要“確保參議員們的安全”。菲律賓國家調查局局長馬蒂瓦格則稱，執法人員已被要求暫緩行動、原地待命，並沒有執行逮捕。 據菲律賓媒體報道，菲律賓總統馬科斯稱“未下達逮捕德拉羅薩的指令”，“不清楚何人試圖闖入參議院，將會調查真相。” 現年64歲的德拉羅薩是菲律賓前總統杜特爾特執政時期打擊毒品犯罪行動的主要執行者，被認為是杜特爾特的主要政治盟友。國際刑事法院5月11日發表宣告，公開了去年11月秘密簽發的針對德拉羅薩的逮捕令，其罪名為“反人類罪”。（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:019e222a-9d5f-7dd0-a6a7-6fd3d8428ffd",
-      "time": "2026-05-14 00:27:50",
-      "tags": [
-        "MKT News",
-        "Important",
-        "GBPUSD",
-        "Impact mixed"
-      ],
-      "text": "UK PM STARMER HAS MADE CLEAR TO ALLIES THAT HE WILL STAND AND FIGHT IF WES STREETING SUCCEEDS IN TRIGGERING A LEADERSHIP CONTEST - TIMES"
-    },
-    {
-      "id": "4878366",
-      "time": "2026-05-14 00:27:21",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲柯林斯：首要關注點是釐清私募信貸的當前態勢。"
-    },
-    {
-      "id": "mkt:019e222a-0100-7dd0-a6a7-6536c5b7155c",
-      "time": "2026-05-14 00:27:18",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "FED'S COLLINS: TOP OF MIND TO UNDERSTAND WHAT'S HAPPENING WITH PRIVATE CREDIT"
-    },
-    {
-      "id": "4878365",
-      "time": "2026-05-14 00:27:13",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數漲幅擴大至0.5%。"
-    },
-    {
-      "id": "4878364",
-      "time": "2026-05-14 00:26:46",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲柯林斯：市場中任何快速擴張的事物都會引起美聯儲的關注。"
-    },
-    {
-      "id": "mkt:019e2229-5105-7dd0-a6a7-5a32a811a56f",
-      "time": "2026-05-14 00:26:32",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "FED'S COLLINS: IN MARKETS, ANYTHING THAT EXPANDS RAPIDLY GETS FED ATTENTION"
-    },
-    {
-      "id": "4878363",
-      "time": "2026-05-14 00:25:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "克里姆林宮：俄別爾哥羅德州州長卸任。"
-    },
-    {
-      "id": "4878362",
-      "time": "2026-05-14 00:25:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "克里姆林宮：俄羅斯布良斯克州州長卸任。"
-    },
-    {
-      "id": "mkt:019e2228-9346-7dd0-a6a7-535911cb0a41",
-      "time": "2026-05-14 00:25:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "RUSSIA'S BRYANSK REGION GOVERNOR LEAVES HIS POST- KREMLIN"
-    },
-    {
-      "id": "mkt:019e2227-89a3-7dd0-a6a7-4fac21856c7d",
-      "time": "2026-05-14 00:24:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "RUSSIA'S BELGOROD GOVERNOR LEAVES HIS POST- KREMLIN"
-    },
-    {
-      "id": "mkt:019e2227-6aa0-7dd0-a6a7-45130dca765d",
-      "time": "2026-05-14 00:24:28",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "Nasdaq100",
-        "Impact bullish",
-        "S&P500",
-        "Dow"
-      ],
-      "text": "U.S. STOCKS EXTEND GAINS, NASDAQ UP 1.02%"
-    },
-    {
-      "id": "4878361",
-      "time": "2026-05-14 00:24:15",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油失守106美元/桶，日內跌1.80%。"
-    },
-    {
-      "id": "4878360",
-      "time": "2026-05-14 00:24:11",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納指漲1.02%，現報26353.356點；道指跌0.31%，現報49605.281點；標普500指數漲0.42%，現報7432.300點。"
-    },
-    {
-      "id": "4878359",
-      "time": "2026-05-14 00:23:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "匈牙利總理毛焦爾：匈牙利正遭遇嚴重的長期乾旱。"
-    },
-    {
-      "id": "4878358",
-      "time": "2026-05-14 00:22:30",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲柯林斯：美聯儲內部存在不同觀點是非常寶貴的。"
-    },
-    {
-      "id": "4878357",
-      "time": "2026-05-14 00:22:25",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲柯林斯：期待與沃什共事。"
-    },
-    {
-      "id": "mkt:019e2225-6caf-7dd0-a6a7-3eb972d015d1",
-      "time": "2026-05-14 00:22:18",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "FED'S COLLINS: LOOKS FORWARD TO WORKING WITH WARSH AS FED CHAIR"
-    },
-    {
-      "id": "4878356",
-      "time": "2026-05-14 00:22:14",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【霍尼韋爾CEO：伊朗局勢衝突與人工智慧熱潮，拉動自動化裝置需求】霍尼韋爾CEO卡普爾表示，正值本月晚些時候公司業務分拆前夕，伊朗局勢衝突、人工智慧興起等重大變局事件，正推高市場對霍尼韋爾產品的需求。卡普爾稱，公司2025年將自動化業務與航空航天業務分拆的規劃，並非受外部因素推動；但目前預計，未來兩大業務板塊的市場需求均將迎來增長。自動化業務將繼續物色企業估值在20億至30億美元區間的併購標的，此類交易既能提升公司盈利，又不會讓股東資金承擔過高風險。"
-    },
-    {
-      "id": "mkt:019e2225-62eb-7dd0-a6a7-3643fa7b8c16",
-      "time": "2026-05-14 00:22:12",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "FED'S COLLINS: VERY VALUABLE TO HAVE DIFFERENT PERSPECTIVES ON THE FED"
-    },
-    {
-      "id": "mkt:019e2225-49b7-7dd0-a6a7-2d840b449690",
-      "time": "2026-05-14 00:22:09",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "FED'S COLLINS: EACH FED CHAIR BRINGS THEIR OWN APPROACH AND PERSPECTIVE AND THAT'S HEALTHY"
-    },
-    {
-      "id": "4878355",
-      "time": "2026-05-14 00:20:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "霍尼韋爾執行長：受通脹擔憂影響，市場需求前景趨於走弱。"
-    },
-    {
-      "id": "4878354",
-      "time": "2026-05-14 00:20:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "霍尼韋爾執行長：收購目標鎖定高增長、配套補強型併購交易。"
-    },
-    {
-      "id": "te:markets:550417",
-      "time": "2026-05-14 00:19:49",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Adobe Systems Stock Price Hits 4-week Low — Adobe Systems shares decreased to 233.24 USD, the lowest since April 2026. Over the past 4 weeks, Adobe Systems lost 1.01%, and in the last 12 months, it decreased 41.59%."
-    },
-    {
-      "id": "te:markets:550416",
-      "time": "2026-05-14 00:19:32",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Intuit Stock Price Hits 4-week Low — Intuit shares decreased to 373.95 USD, the lowest since April 2026. Over the past 4 weeks, Intuit gained 1.96%, and in the last 12 months, it decreased 42.71%."
-    },
-    {
-      "id": "4878353",
-      "time": "2026-05-14 00:19:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "匈牙利總理毛焦爾：將於下週前往波蘭、奧地利舉行會談。"
-    },
-    {
-      "id": "4878352",
-      "time": "2026-05-14 00:18:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "德國檢方通報：德國一名兒科醫生被控涉嫌130起兒童性虐待案件。"
-    },
-    {
-      "id": "4878351",
-      "time": "2026-05-14 00:17:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西將釋出汽油補貼臨時措施。"
-    },
-    {
-      "id": "4878350",
-      "time": "2026-05-14 00:17:27",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【歐洲央行管委Kocher：6月會議要麼加息要麼維持利率不變】歐洲央行管理委員會成員Martin Kocher對Econostream Media表示，歐洲央行必須在6月制定貨幣政策時決定是加息還是維持利率不變。 他在週三釋出的一次採訪中稱：“我們將討論是需要按兵不動還是上調利率。”他表示：“如果通脹上升，通脹預期將會非常重要。我們將在6月獲得新的資料，這將有助於我們瞭解這對中期通脹預期意味著什麼。”"
-    },
-    {
-      "id": "4878349",
-      "time": "2026-05-14 00:16:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "匈牙利總理毛焦爾表示，因烏克蘭西部遭無人機襲擊一事，匈牙利將召見俄羅斯駐布達佩斯大使。"
-    },
-    {
-      "id": "te:markets:550415",
-      "time": "2026-05-14 00:16:41",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "DAX 40 Rebounds on Wednesday — The DAX 40 index rose 0.6% to around 24,102 points on Wednesday, rebounding from a 1.6% decline in the previous session as strong corporate earnings and optimism ahead of US President Donald Trump’s state visit to China helped offset concerns over the Iran conflict. Siemens edged higher on solid demand for AI data centres and resilient software sales in its fiscal second quarter. Merck jumped 7% after reporting stronger than expected operating profit and raising its full year guidance. Allianz gained 1.1% after a better-than-expected start to the year and reaffirmed its outlook. Deutsche Telekom added more than 1% following a strong quarterly update and a modest upgrade to its profit forecast. E.ON rose 3.5%, while RWE slipped 2.2% despite both confirming their annual targets after quarterly results. On the downside, SAP fell nearly 5%, and Rheinmetall declined more than 3.5%."
-    },
-    {
-      "id": "4878347",
-      "time": "2026-05-14 00:15:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外長阿拉格齊已離開德黑蘭，前往印度首都新德里，出席金磚國家外長會議。"
-    },
-    {
-      "id": "4878346",
-      "time": "2026-05-14 00:15:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌漲超3%。"
-    },
-    {
-      "id": "te:markets:550414",
-      "time": "2026-05-14 00:15:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "E.ON earnings in line with market expectations at 0.51 EUR — E.ON (EOAN) released earnings per share at 0.51 EUR."
-    },
-    {
-      "id": "4878345",
-      "time": "2026-05-14 00:15:14",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期銀突破90美元/盎司，日內漲5.15%。"
-    },
-    {
-      "id": "4878344",
-      "time": "2026-05-14 00:14:34",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "霍尼韋爾CEO：航空航天業務將於45天內完成分拆。"
-    },
-    {
-      "id": "te:markets:550413",
-      "time": "2026-05-14 00:13:55",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "CAC 40 Rises as Tech Stocks Offset Middle East Concerns — The CAC 40 gained 0.3% to close at 8,008 on Wednesday, supported by gains in the industrial and technology sectors. STMicroelectronics surged 9.8%, tracking advances across the broader European semiconductor industry. Industrials also traded higher, with Airbus up 0.5% and Legrand gaining 1.4%. In the financial sector, BNP Paribas rose 1.1% and Crédit Agricole added 0.6%. Meanwhile, luxury stocks remained under pressure amid persistent risk aversion linked to heightened tensions in the Middle East. LVMH slipped 0.2%, while L’Oréal lost 0.9%. On the data front, final estimates confirmed France’s annual inflation rate accelerated to 2.2% in April from 1.7% in March, the highest level since July 2024, driven by surging energy prices. The unemployment rate also climbed to a five-year high of 8.1% in Q1 2026, above expectations of 7.8%."
-    },
-    {
-      "id": "4878343",
-      "time": "2026-05-14 00:13:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "斯洛伐克當局以安全為由臨時關閉與烏克蘭的邊境。"
-    },
-    {
-      "id": "4878342",
-      "time": "2026-05-14 00:13:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國司法部正在調查石油市場交易。"
-    },
-    {
-      "id": "mkt:019e221c-ed37-7dd0-a6a7-20586860437a",
-      "time": "2026-05-14 00:12:57",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "JUSTICE DEPARTMENT INVESTIGATING OIL MARKET TRADING, SOURCES SAY - CBS"
-    },
-    {
-      "id": "4878341",
-      "time": "2026-05-14 00:12:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "南非非洲人國民大會（非國大）秘書長：執委會將全面研究法院判決，以便為議員及其他黨員提供指導。"
-    },
-    {
-      "id": "mkt:019e221c-377c-7dd0-a6a7-1a05d5aae4a8",
-      "time": "2026-05-14 00:12:14",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Crypto Concepts",
-        "Bitcoin",
-        "Impact bullish",
-        "Ethereum"
-      ],
-      "text": "KEY REPUBLICAN SENATOR REMOVES ROADBLOCK TO CRYPTO BILL - SEMAFOR"
-    },
-    {
-      "id": "te:markets:550412",
-      "time": "2026-05-14 00:12:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE MIB Index Closes 1.00% Higher — The FTSE MIB Index went up by 490 points or 1.00 percent on Wednesday to close at 49481 points. The rise was led by STMicroelectronics (9.65%), Recordati (3.77%) and Stellantis N.V. (3.71%). On the downside, the weakerst performers were Nexi (-3.12%), Avio (-1.79%) and Snam (-1.36%)."
-    },
-    {
-      "id": "4878340",
-      "time": "2026-05-14 00:11:45",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲科林斯：生產率的強勁提升應有助於緩解通脹壓力。"
-    },
-    {
-      "id": "mkt:019e221b-aeb7-7dd0-a6a7-13c04d1f0578",
-      "time": "2026-05-14 00:11:39",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bearish",
-        "US10Y",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "FED'S COLLINS: STRONG PRODUCTIVITY GAINS SHOULD HELP LESSEN INFLATIONARY PRESSURES"
-    },
-    {
-      "id": "te:markets:550410",
-      "time": "2026-05-14 00:11:24",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "Banks and Miners Lift FTSE 100 — The FTSE 100 climbed 0.6% on Wednesday, led by banks and mining stocks. Financial shares rebounded after recent pressure linked to speculation over possible tax changes under a potential left-leaning political shift in the UK. HSBC rose more than 1%, while Lloyds, Barclays, NatWest and Standard Chartered gained between 0.8% and 2.3%. Miners also posted strong gains as copper extended its rally to an eighth straight session, with aluminium, nickel and iron ore prices also moving higher. Rio Tinto advanced 4.2%, Anglo American gained 4.6%, Glencore rose 3.3% and Antofagasta surged more than 8%. Babcock International added over 0.5% after announcing a £200 million share buyback alongside stronger annual revenue driven by its nuclear and aviation divisions. On the downside, Vistry Group fell around 9% after warning that profits would be significantly lower due to increased housing discounts and weaker activity in its partnerships business."
-    },
-    {
-      "id": "4878338",
-      "time": "2026-05-14 00:11:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨鉑金上漲3%，報每盎司2189.58美元。"
-    },
-    {
-      "id": "te:markets:550409",
-      "time": "2026-05-14 00:11:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The DAX Index Closes 0.76% Higher — The DAX Index rose 182 points or 0.76 percent on Wednesday to close at 24137 points. Leading the gains are Infineon (10.43%), Scout24 (7.13%) and Merck (7.10%). Top losers were SAP (-4.69%), Rheinmetall (-3.75%) and Fresenius (-3.01%)."
-    },
-    {
-      "id": "mkt:019e221a-f58f-7dd0-a6a7-0f614360ee50",
-      "time": "2026-05-14 00:10:52",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "SPOT PLATINUM RISES 3% TO $2,189.58/OZ"
-    },
-    {
-      "id": "4878337",
-      "time": "2026-05-14 00:10:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "南非非洲人國民大會秘書長：憲法法院的判決中沒有任何內容要求拉馬福薩總統辭職。"
-    },
-    {
-      "id": "mkt:019e221a-aac3-7dd0-a6a7-00a731442cac",
-      "time": "2026-05-14 00:10:33",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "FED'S COLLINS: FED INFLATION TARGET COUNTS ALL FACTORS DRIVING PRICES"
-    },
-    {
-      "id": "4878336",
-      "time": "2026-05-14 00:10:31",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲柯林斯：美聯儲通脹目標涵蓋所有推動物價的因素。"
-    },
-    {
-      "id": "mkt:019e221a-959c-7dd0-a6a6-fd13cf30d5bd",
-      "time": "2026-05-14 00:10:27",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "NEXA.O"
-      ],
-      "text": "FIRE AT NEXA RESOURCES' CAJAMARQUILLA ZINC REFINERY IN PERU UNDER CONTROL, SEVERAL WORKERS INJURED - LOCAL MEDIA"
-    },
-    {
-      "id": "4878335",
-      "time": "2026-05-14 00:10:22",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內漲3%，現報89.11美元/盎司。"
-    },
-    {
-      "id": "mkt:019e221a-5402-7dd0-a6a6-f1e6bc8272f0",
-      "time": "2026-05-14 00:10:09",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "SPOT SILVER RISES 3% TO $89.11/OZ"
-    },
-    {
-      "id": "te:markets:550408",
-      "time": "2026-05-14 00:10:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The CAC 40 Index Closes 0.21% Higher — The CAC 40 Index gained 17 points or 0.21 percent on Wednesday to close at 7997 points. Gains were led by STMicroelectronics (8.34%), ArcelorMittal (7.10%) and Stellantis NV (3.89%). Biggest losers were Capgemini (-2.48%), Danone (-2.13%) and Publicis (-1.73%)."
-    },
-    {
-      "id": "4878334",
-      "time": "2026-05-14 00:10:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀上漲3%，報每盎司89.11美元。"
-    },
-    {
-      "id": "4878333",
-      "time": "2026-05-14 00:08:16",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內漲5%，現報89.88美元/盎司。"
-    },
-    {
-      "id": "te:markets:550407",
-      "time": "2026-05-14 00:07:42",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Little Changed on Wednesday — Brent crude oil futures were little changed at around $106 per barrel on Wednesday, after a 7.5% rally over the previous three sessions as Middle East tensions and shrinking global inventories continued to support prices. The IEA said observed oil stockpiles fell by around 4 million barrels per day in March and April, while Saudi Arabia told OPEC its production dropped to the lowest level since 1990. The IEA warned that with inventories already falling at a record pace, further volatility is likely ahead of peak summer demand and that the market could remain severely undersupplied until October even if the conflict ends next month. Meanwhile, US government data showed distillate inventories rose by 190,000 barrels last week, the first increase since March, easing some supply concerns. However, crude inventories fell by 4.3 million barrels, nearly double market expectations."
-    },
-    {
-      "id": "te:markets:550406",
-      "time": "2026-05-14 00:07:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE 100 Index Closes 0.31% Higher — The FTSE 100 Index went up by 32 points or 0.31 percent on Wednesday to close at 10297 points. The rise was led by Antofagasta (8.73%), Intertek (6.23%) and Anglo American (4.54%). On the downside, the weakerst performers were Airtel Africa (-13.10%), Vistry Group (-8.96%) and Experian (-5.32%)."
-    },
-    {
-      "id": "mkt:019e2217-29f3-7dd0-a6a6-ee3e9a27b7a5",
-      "time": "2026-05-14 00:06:43",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "FED'S COLLINS: THERE'S BEEN A LONG LIST OF RECENT SUPPLY SHOCKS, IS VERY FOCUSED ON SUPPLY SIDE ISSUES"
-    },
-    {
-      "id": "te:markets:550405",
-      "time": "2026-05-14 00:06:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Oil Firms as Supply Tightness Persists — WTI crude oil futures steadied around $102 per barrel on Wednesday, trimming earlier losses after rallying 7.6% over the previous three sessions as Middle East tensions and shrinking global inventories continued to support prices. The IEA said observed oil stockpiles fell by around 4 million barrels per day in March and April, while Saudi Arabia told OPEC its production dropped to the lowest level since 1990. The IEA warned that with inventories already falling at a record pace, further volatility is likely ahead of peak summer demand and that the market could remain severely undersupplied until October even if the conflict ends next month. Meanwhile, US government data showed distillate inventories rose by 190,000 barrels last week, the first increase since March, easing some supply concerns. However, crude inventories fell by 4.3 million barrels, nearly double market expectations."
-    },
-    {
-      "id": "4878332",
-      "time": "2026-05-14 00:05:49",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲柯林斯：預計生產率將持續增長，但這並非完全歸功於人工智慧。"
-    },
-    {
-      "id": "mkt:019e2215-9eb3-7dd0-a6a6-e7f241e2edab",
-      "time": "2026-05-14 00:05:00",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "ANTHROPIC IYNTRODUCES CLAUDE FOR SMALL BUSINESS"
-    },
-    {
-      "id": "mkt:019e2215-9d63-7dd0-a6a6-d8e484873bdd",
-      "time": "2026-05-14 00:04:56",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "FED'S COLLINS: UNEMPLOYMENT RATE REMAINS RELATIVELY LOW"
-    },
-    {
-      "id": "mkt:019e2215-9c0a-7dd0-a6a6-d323580bad8a",
-      "time": "2026-05-14 00:04:51",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "FED'S COLLINS: HAS BEEN EXPECTING TO SEE CONTINUED PRODUCTIVITY GAINS, IT'S NOT JUST A.I. DRIVEN"
-    },
-    {
-      "id": "4878331",
-      "time": "2026-05-14 00:04:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨白銀突破89美元/盎司，日內漲2.88%。"
-    },
-    {
-      "id": "mkt:019e2215-527e-7dd0-a6a6-cfd2099dc7fc",
-      "time": "2026-05-14 00:04:43",
-      "tags": [
-        "MKT News",
-        "META.O",
-        "Impact bullish"
-      ],
-      "text": "META: INSTANTS IS AVAILABLE GLOBALLY STARTING TODAY AS FEATURE ON INSTAGRAM AND AS APP IN SELECT COUNTRIES"
-    },
-    {
-      "id": "4878330",
-      "time": "2026-05-14 00:04:25",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲柯林斯：失業率仍處於相對較低水平。"
-    },
-    {
-      "id": "4878329",
-      "time": "2026-05-14 00:04:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "據貓眼專業版資料，電影《給阿嬤的情書》上映第15天，總票房破2億。"
-    },
-    {
-      "id": "4878328",
-      "time": "2026-05-14 00:03:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基稱，俄羅斯向烏克蘭發射了至少800架無人機，造成6人死亡。"
-    },
-    {
-      "id": "4878327",
-      "time": "2026-05-14 00:02:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "Meta：Instagram Threads的“實時帖（Instants）”功能今日起在全球上線，相關獨立應用將在部分國家推出。"
-    },
-    {
-      "id": "4878326",
-      "time": "2026-05-14 00:02:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic：面向小型企業推出Claude大模型。"
-    },
-    {
-      "id": "4878325",
-      "time": "2026-05-14 00:01:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "META：推出Instagram“即時快拍（Instants）”功能，這是一種可隨時與密友或互關粉絲分享照片的全新方式。"
-    },
-    {
-      "id": "mkt:019e2212-98d3-7dd0-a6a6-c6cebd0bb38d",
-      "time": "2026-05-14 00:01:44",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7",
-        "META.O"
-      ],
-      "text": "META: LAUNCHING INSTANTS ON INSTAGRAM ,NEW WAY TO SHARE PHOTOS IN MOMENT WITH YOUR CLOSE FRIENDS OR MUTUAL FOLLOWERS"
-    },
-    {
-      "id": "4878324",
-      "time": "2026-05-14 00:01:08",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "俄羅斯魯薩格羅集團：董事會建議不派發股息。"
-    },
-    {
-      "id": "4878323",
-      "time": "2026-05-14 00:00:43",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "烏克蘭石油天然氣公司稱，俄羅斯襲擊了該公司的設施。"
-    },
-    {
-      "id": "4878322",
-      "time": "2026-05-13 23:59:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "惠譽確認法航荷航集團評級為“BBB-”，展望穩定。"
-    },
-    {
-      "id": "mkt:019e2210-efef-7dd0-a6a6-b913a98baebb",
-      "time": "2026-05-13 23:59:55",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "NAFTOGAZ: RUSSIA HIT FACILITIES IN KHARKIV, ZHYTOMYR REGIONS"
-    },
-    {
-      "id": "4878321",
-      "time": "2026-05-13 23:59:22",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "白銀連續主力合約日內漲4%，現報21936.00元。"
-    },
-    {
-      "id": "mkt:019e220f-2227-7dd0-a6a6-b115482652d9",
-      "time": "2026-05-13 23:57:57",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "DAX",
-        "Impact bearish",
-        "EURUSD"
-      ],
-      "text": "GERMANY WEIGHS E3 BILLION IN SUBSIDY CUTS TO EASE BUDGET STRAIN"
-    },
-    {
-      "id": "4878320",
-      "time": "2026-05-13 23:57:17",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "比特幣跌破79000美元，日內跌1.88%。"
-    },
-    {
-      "id": "4878319",
-      "time": "2026-05-13 23:57:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "德國考慮削減30億歐元補貼，以緩解預算壓力。"
-    },
-    {
-      "id": "te:markets:550404",
-      "time": "2026-05-13 23:56:58",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "FTSE MIB Rises on Tech and Industry Gains — The FTSE MIB rose 0.9% to close at 49,420 on Wednesday as investors focused on corporate earnings while continuing to monitor developments in the Middle East. Recordati gained 4% after reporting a 22.4% year-over-year increase in first-quarter net income and reaffirming its full-year 2026 guidance. STMicroelectronics surged 9.9%, tracking gains across the broader European semiconductor sector. Other notable performers included Prysmian (+4%), Stellantis (+3.4%), and Tenaris (+2.6%). Meanwhile, Snam fell 1% despite posting strong first-quarter results, while Infrastrutture Wireless lost 1.1% ahead of its earnings release."
-    },
-    {
-      "id": "4878318",
-      "time": "2026-05-13 23:55:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場資訊：黎巴嫩已在聯合國向伊朗正式提出控訴，指控伊朗違反外交準則、干涉黎巴嫩內政，並蓄意將黎巴嫩拖入戰火。"
-    },
-    {
-      "id": "mkt:019e220c-ac5a-7dd0-a6a6-aac1aa8a15e9",
-      "time": "2026-05-13 23:55:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "GERMANY WEIGHS E3 BILLION IN SUBSIDY CUTS TO EASE BUDGET STRAIN"
-    },
-    {
-      "id": "mkt:019e220c-9b9a-7dd0-a6a6-a400feb02605",
-      "time": "2026-05-13 23:55:12",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "ICE GASOIL JUNE FUTURES SETTLE AT $1,191.50 A TON"
-    },
-    {
-      "id": "4878317",
-      "time": "2026-05-13 23:54:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "【Rivian執行長旗下的機器人初創公司融資4億美元】由Rivian執行長RJ.斯卡林格(RJ Scaringe)創立的初創公司Mind Robotics週三再獲投資者4億美元融資，這是對AI驅動的製造業機器人革命的最新押注。這家初創公司目前已累計融資超過10億美元，以推進其為汽車製造及其他領域開發工業機器人的計劃，最新一輪融資對該公司的估值為34億美元。Mind Robotics成立於去年年底，目前正與Rivian合作，在這家汽車製造商位於伊利諾伊州諾默爾的工廠內訓練並部署數百個智慧機器人，其目標是最終成為更廣泛製造業的供應商。"
-    },
-    {
-      "id": "4878316",
-      "time": "2026-05-13 23:53:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "LME三個月期鋁觸及3690美元/噸，創下自2022年3月以來的最高水平，目前漲幅3.1%。"
-    },
-    {
-      "id": "em:qqyh_rbyh:202605133736346639",
-      "time": "2026-05-13 23:51:32",
-      "tags": [
-        "央行",
-        "日本央行"
-      ],
-      "text": "【渣打：日本或需更多幹預以抑制日元空頭情緒】渣打策略師SteveEnglander和NicholasChia週三在客戶報告中寫道，美元兌日元重返接近158水平，表明如果日本方面希望遏制市場對日元的做空情緒，可能需要進一步進行干預。策略師表示，日本當局可能已在150區間高位至160之間為日元重新劃定了一道防線。渣打認為，日本潛在的加息對日元的支撐有限；利率市場目前預計日本央行到年底還將進一步加息約45個基點，這一水平處於其2026年預測區間的低端。策略師指出，日本央行是少數自2月以來被市場下調2026年加息預期的央行之一。"
-    },
-    {
-      "id": "4878315",
-      "time": "2026-05-13 23:51:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "【渣打：日本或需更多幹預以抑制日元空頭情緒】渣打策略師Steve Englander和Nicholas Chia週三在客戶報告中寫道，美元兌日元重返接近158水平，表明如果東京方面希望遏制市場對日元的做空情緒，可能需要進一步進行干預。策略師表示，日本當局可能已在150區間高位至160之間為日元重新劃定了一道防線。"
-    },
-    {
-      "id": "mkt:019e2208-e0c1-7dd0-a6a6-9c95dbcd3b19",
-      "time": "2026-05-13 23:50:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "REP. MALLIOTAKIS PLANS TO UNVEIL GAS TAX HOLIDAY BILL: POLITICO"
-    },
-    {
-      "id": "te:markets:550403",
-      "time": "2026-05-13 23:50:41",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "European Stocks Rebound — European stocks closed firmly higher on Wednesday, halting four consecutive sessions of losses amid a rebound in the tech sector and stability for banks. The Eurozone's STOXX 50 added 1% to 5,870 and the STOXX 600 gained 0.7% to 611. A sharp rebound in European AI stocks matched the momentum for their US counterparts in the last session as US chip producer CEOs were due to meet with Chinese officials for potential trade agreements. Infineon surged over 10% after receiving broker upgrades, ASML jumped 5%, and Prosus added 4%. Meanwhile, a busy session for German earnings included results by Siemens, which missed revenue estimates but closed slightly higher after launching a share buyback program. Also, Allianz climbed 1.3% after reporting record first-quarter earnings and profit. Merck surged 7.3% after posting a smaller-than-expected decline in earnings and raising its 2026 guidance outlook."
-    },
-    {
-      "id": "mkt:019e2208-90b8-7dd0-a6a6-902ff154411b",
-      "time": "2026-05-13 23:50:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "NASA, SPACEX TARGET MAY 13 FOR RESUPPLY MISSION LAUNCH"
-    },
-    {
-      "id": "te:economy:550402",
-      "time": "2026-05-13 23:50:29",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "France",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "France 10Y Bond Yield Hits 6-week High — France 10 Year Government Bond Yield increased to 3.88%, the highest since March 2026. Over the past 4 weeks, France 10Y Bond Yield gained 7.30 basis points, and in the last 12 months, it increased 35.05 basis points."
-    },
-    {
-      "id": "mkt:019e2208-4298-7dd0-a6a6-8c3c79e28543",
-      "time": "2026-05-13 23:50:27",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "LME THREE MONTH ALUMINIUM HITS $3,690/T, HIGHEST SINCE MARCH 2022, LAST UP 3.1%"
-    },
-    {
-      "id": "4878314",
-      "time": "2026-05-13 23:48:57",
-      "tags": [
-        "市場"
-      ],
-      "text": "家得寶股價跌幅擴大至盤中低點3.6%；勞氏股價下跌2.7%。"
-    },
-    {
-      "id": "4878313",
-      "time": "2026-05-13 23:47:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭軍方：摧毀710架敵方無人機。"
-    },
-    {
-      "id": "te:markets:550401",
-      "time": "2026-05-13 23:47:42",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Aluminum Hits 4-year High — Aluminum increased to 3676.00 USD/T, the highest since March 2022. Over the past 4 weeks, Aluminum gained 2.2%, and in the last 12 months, it increased 45.16%."
-    },
-    {
-      "id": "4878312",
-      "time": "2026-05-13 23:47:16",
-      "tags": [
-        "市場"
-      ],
-      "text": "LME倫鋁日內漲超3.00%，現報3669.040美元/噸。"
-    },
-    {
-      "id": "mkt:019e2205-143d-7dd0-a6a6-812eaac6382a",
-      "time": "2026-05-13 23:46:58",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "RUSSIA'S ESPO BLEND CRUDE OIL EXPORTS FROM FAR EAST KOZMINO PORT SET TO RISE TO 4.3 MLN TONS IN MAY FROM 4.1 MLN TONS IN APRIL, TRADERS SAY"
-    },
-    {
-      "id": "4878311",
-      "time": "2026-05-13 23:46:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "交易商稱，5月份俄羅斯從遠東 Kozmino 港出口的東西伯利亞-太平洋（ESPO）混合原油預計將從4月份的410萬噸增至430萬噸。"
-    },
-    {
-      "id": "4878310",
-      "time": "2026-05-13 23:46:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "國際能源署：歐洲在替代中東航空燃油進口方面做得不夠。"
-    },
-    {
-      "id": "4878309",
-      "time": "2026-05-13 23:46:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "Principal首席全球策略師Seema Shah：對於在伊朗戰爭造成的“脆弱”市場中尋求避風港的股票投資者來說，大型科技股經證明是一個安全的選擇。"
-    },
-    {
-      "id": "4878308",
-      "time": "2026-05-13 23:45:09",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "俄羅斯央行：俄羅斯央行預計，截至2026年底，俄銀行業結構性流動性缺口將達2.4萬億至3.6萬億盧布。"
-    },
-    {
-      "id": "mkt:019e2202-803b-7dd0-a6a6-7a10dd6663ed",
-      "time": "2026-05-13 23:44:09",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "WSJ'S TIMIRAOS: THE HOUSE FINANCIAL SERVICES COMMITTEE IS TAKING UP A BILL THAT WOULD AMEND THE FEDERAL RESERVE ACT TO ELIMINATE THE DUAL MANDATE AND FOCUS ONLY ON PRICE STABILITY"
-    },
-    {
-      "id": "4878307",
-      "time": "2026-05-13 23:43:29",
-      "tags": [
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "“美聯儲傳聲筒”NickTimiraos：眾議院金融服務委員會正審議一項法案，擬修訂的是《聯邦儲備法》第 2A 條（《美國法典》第 12 編第 225a 節），刪除原文中 “最大限度就業、物價穩定” 表述，替換為 “物價穩定”。"
-    },
-    {
-      "id": "4878306",
-      "time": "2026-05-13 23:42:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "突尼西亞：受中東危機影響，傑爾巴島的旅遊旺季開始時間有所推遲。"
-    },
-    {
-      "id": "4878305",
-      "time": "2026-05-13 23:41:53",
-      "tags": [
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "“美聯儲傳聲筒”NickTimiraos：眾議院金融服務委員會正審議一項法案，擬修訂《聯邦儲備法》，取消美聯儲雙重使命，將政策目標僅聚焦於物價穩定。不妨試想，倘若當年已是這項法律，美聯儲去年是否會降息。"
-    },
-    {
-      "id": "4878304",
-      "time": "2026-05-13 23:40:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "【霍爾木茲航運受阻影響半導體業】中東戰事不僅推高了石油、天然氣的價格，還加劇了全球工業氦氣的供應短缺。由於氦氣是半導體制造不可或缺的原料，霍爾木茲海峽運輸長期受阻可能危及全球半導體行業的發展。（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:019e21fe-ff70-7dd0-a6a6-77439b9ef2bd",
-      "time": "2026-05-13 23:40:02",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "MISTRAL DEVELOPING NEW AI MODEL FOR BANKS LACKING MYTHOS ACCESS"
-    },
-    {
-      "id": "mkt:019e21fe-73e9-7772-bc7f-fb93aebf9a36",
-      "time": "2026-05-13 23:39:40",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "ICE U.K. NAT GAS JUNE FUTURES SETTLE AT 115.03 PENCE/THERM"
-    },
-    {
-      "id": "4878303",
-      "time": "2026-05-13 23:38:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "利比亞國家石油公司（NOC）董事長表示，預計拉斯盧夫煉油廠將在6個月至1年內重啟。"
-    },
-    {
-      "id": "mkt:019e21fd-d24c-7772-bc7f-f0f44f5cda87",
-      "time": "2026-05-13 23:38:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "EUROPEAN INDEXES CLOSED HIGHER, EURO STOXX 50 +0.92%, ITALY FTSE MIB +0.99%, DAX +0.72%, FTSE 100 +0.55%, CAC 40 +0.35%"
-    },
-    {
-      "id": "mkt:019e21fd-33a0-7772-bc7f-ebc6ed4aaaa0",
-      "time": "2026-05-13 23:38:11",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "【Fed Survey Finds Rising Job Anxiety and Persistent Inflation Concerns】A Federal Reserve survey found Americans remained broadly concerned about inflation in 2025, while anxiety over the job market increased amid near-zero job growth. About 42% of adults said finding or keeping a job was a concern, up from 37% in 2024, while roughly 90% worried about rising prices. The survey also showed financial stress was more pronounced among lower-income households, younger adults and Black Americans. Nearly a quarter of renters fell behind on rent, and about half of adults under 30 lived with their parents. Separately, one in four workers reported using generative AI on the job."
-    },
-    {
-      "id": "4878302",
-      "time": "2026-05-13 23:37:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "人工智慧公司Mistral正為無法使用Mythos模型的銀行開發全新AI模型。"
-    },
-    {
-      "id": "4878301",
-      "time": "2026-05-13 23:36:13",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲調查：美國民眾財務狀況整體平穩，但就業擔憂升溫】美聯儲調查顯示，2025年有73%的美國人財務狀況尚可或生活寬裕，與2024年持平。63%的成年人有能力用現金或等價資金應對400美元的突發緊急開支，同比持平。僅26%的成年人認為美國整體經濟狀況良好或極佳，低於2024年的29%、2019年的50%。受物價上漲影響調整消費生活行為的成年人佔比達77%，低於2024年的79%。民眾對物價上漲的擔憂略有緩和，但仍是最普遍的財務顧慮。有42%的成年人對求職或保住現有工作存在一定程度乃至嚴重擔憂，高於2024年的37%。四分之一的職場人士在過去一個月工作中使用過生成式人工智慧。使用AI的職場人群，更傾向於認為人工智慧會助力自身職業發展，而非取代自身工作崗位。"
-    },
-    {
-      "id": "4878300",
-      "time": "2026-05-13 23:36:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內漲3%，現報1538.11美元/盎司。"
-    },
-    {
-      "id": "4878299",
-      "time": "2026-05-13 23:35:04",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲官員柯林斯稱可能需要加息】美國波士頓聯邦儲備銀行行長蘇珊·柯林斯週三表示，她設想利率將在較長時期內保持穩定，但也可能出現需要進行一定程度政策緊縮的情景，以確保通脹率迴歸央行2%的目標。教科書式的貨幣政策主張對油價上漲等突發性供應衝擊不予理會。柯林斯在波士頓發表講話時說，五年多高於目標的通脹已經削弱了她在壓低價格漲幅方面的耐心。她說，可能需要在“一段時間內“維持現有的限制性貨幣政策。根據其已公佈的講稿，柯林斯說：“此次衝擊已使實體經濟活動面臨的風險略微進一步偏向下行，而通脹風險則進一步偏向上行。”柯林斯說，她希望通脹能夠回落，這可能讓美聯儲得以在今年晚些時候繼續降低利率。但她表示，如果衝突持續，物價繼續攀升，“我能設想到這樣一種情景，即需要進行一些政策緊縮，以確保通脹及時、持久地迴歸2%“。"
-    },
-    {
-      "id": "4878298",
-      "time": "2026-05-13 23:34:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "【烏稱俄軍對烏多地發動無人機襲擊 俄方暫無回應】當地時間5月13日，烏克蘭總統澤連斯基在社交媒體上表示，俄方對烏克蘭發動了大規模攻擊。俄軍持續發射“見證者”無人機襲擊烏克蘭，重點針對靠近北約國家邊境的地區，外喀爾巴阡州、利沃夫州、沃倫州、伊萬諾-弗蘭科夫斯克市、羅夫諾州等多地均遭到打擊。截至目前，襲擊已造成6人死亡、數十人受傷（其中含兒童），俄方已發射至少800架無人機，攻擊仍在持續。烏克蘭外喀爾巴阡州軍事行政長官當天在社交媒體上發表宣告稱，該地區遭到俄烏衝突爆發以來最大規模攻擊，州內多個社群發生爆炸。此外，伊萬諾-弗蘭科夫斯克市市長表示，該市遭到俄方襲擊，市區內傳出清晰爆炸聲，防空警報持續作響。對於上述表態，俄羅斯方面暫無回應。（央視新聞）"
     }
   ]
 }
