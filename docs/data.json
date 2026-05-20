@@ -1,7 +1,68 @@
 {
-  "updated": "2026-05-20 12:13:14",
-  "count": 15589,
+  "updated": "2026-05-20 12:17:17",
+  "count": 15591,
   "items": [
+    {
+      "id": "4889394",
+      "time": "2026-05-20 12:16:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中俄職業教育合作新標杆：全球首家引入5G技術的魯班工坊】今年是中俄戰略協作夥伴關係建立30週年、《中俄睦鄰友好合作條約》簽署25週年，也是“中俄教育年”啟動之年。職業教育合作是中俄教育領域合作的重點方向之一。2025年，中俄高校共建的魯班工坊在莫斯科揭牌執行，這是全球首家在專業建設中引入5G技術的魯班工坊，也標誌著中俄職業教育合作邁入數字賦能、標準互通的新階段。"
+    },
+    {
+      "id": "4889393",
+      "time": "2026-05-20 12:16:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "【北約盟友敦促美方明確歐洲撤軍事宜】外交官透露，自週四起，北約將在赫爾辛堡召開外長會議，歐洲各國擬於會上向美國務卿魯比奧施壓，要求美方就撤軍計劃作出明確表態。（英國金融時報）"
+    },
+    {
+      "id": "4889392",
+      "time": "2026-05-20 12:14:57",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "據媒體報道，韓國青瓦臺表示，三星薪資談判破裂一事令人遺憾。"
+    },
+    {
+      "id": "4889391",
+      "time": "2026-05-20 12:14:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "受出口管理規則影響，印尼股市跌幅擴大至2%。"
+    },
+    {
+      "id": "4889390",
+      "time": "2026-05-20 12:14:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度尼西亞總統：我們必須堅信，我國所有自然資源都歸人民所有。"
+    },
+    {
+      "id": "te:economy:552107",
+      "time": "2026-05-20 12:14:19",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Malaysia",
+        "Exports YoY",
+        "Importance 1"
+      ],
+      "text": "Malaysia Exports Hit Record High — Malaysia’s exports surged 36.9% year-on-year to a record high of MYR 182.7 billion in April 2026, accelerating sharply from March’s upwardly revised 8.4% increase and far exceeding forecasts of 9.0%. Growth was driven by the manufacturing sector, which soared 40.1%, particularly in electrical and electronic products (46.4%) and petroleum products (70.2%)."
+    },
+    {
+      "id": "4889389",
+      "time": "2026-05-20 12:13:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼總統：棕櫚油、煤炭、鐵合金品類出口交易，須經由國營企業統一經手，此為統一經銷統籌機制。該政策將最佳化政府財政收入。"
+    },
     {
       "id": "4889388",
       "time": "2026-05-20 12:11:48",
@@ -140719,52 +140780,6 @@
         "國際"
       ],
       "text": "【全球供應趨緊推動銅價站上14,000美元 逼近紀錄高位】隨著全球銅礦供應面風險加劇，銅價延續漲勢並突破每噸14,000美元，距離今年早些時候創下的歷史高位僅咫尺之遙。倫敦金屬交易所(LME)銅價連續第八個交易日上漲，一度觸及每噸14,196.5美元，接近1月份創下的14,527.5美元歷史最高水平。中東地區硫磺供應趨緊，已對非洲部分礦山的生產前景構成威脅，原先全球其他主要礦區已出現供應擾動。不過，銅需求依然表現出較強韌性。"
-    },
-    {
-      "id": "4876888",
-      "time": "2026-05-13 12:15:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "【德國官員：期待中國車企來德合作生產汽車】德國薩克森州經濟部長迪爾克·潘特日前表示，在德國汽車產業面臨轉型壓力之際，應以更務實態度看待與中國汽車製造商的合作，可透過合資等形式引入中國合作伙伴參與該州汽車工廠生產。位於德國東部的薩克森州是該國重要汽車產業基地，大眾汽車、寶馬、保時捷等車企均在當地設有生產設施。潘特在薩克森州經濟部11日發表的宣告中提到，大眾汽車與中國製造商建立合資企業是一種可行方案，期待中方企業在薩克森州生產汽車。(新華社)"
-    },
-    {
-      "id": "te:markets:550204",
-      "time": "2026-05-13 12:15:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Japanese Shares Reverse Early Losses — The Nikkei 225 Index rose 0.6% to above 63,000 on Wednesday, reversing earlier declines as strong corporate earnings and sustained demand for artificial intelligence-linked stocks lifted sentiment. Local firms continued to report better-than-expected outlooks despite geopolitical headwinds from the Middle East conflict. Japanese equities also diverged from a tech-led selloff on Wall Street overnight, where hotter-than-expected US inflation data reduced expectations for Federal Reserve interest rate cuts. Among top gainers, Kioxia Holdings (5.9%), Furukawa Electric (15.5%), Fujikura (2.4%), Sony Group (5.6%), and Mitsubishi Heavy Industries (3.3%) advanced. Olympus surged nearly 20% after issuing a stronger-than-expected profit forecast and announcing a share buyback program. In contrast, Nidec fell 15% after reporting suspected improper conduct related to product quality."
-    },
-    {
-      "id": "4876887",
-      "time": "2026-05-13 12:15:06",
-      "tags": [
-        "宏觀",
-        "公司",
-        "國際"
-      ],
-      "text": "【日本大型銀行最快將於本月開始使用Anthropic公司的Mythos系統】日本經濟新聞週三報道稱，日本三大銀行最快將於5月底獲得Anthropic公司開發的人工智慧模型Mythos的使用權。報道稱，三菱UFJ金融集團、三井住友金融集團 以及瑞穗金融集團的銀行部門，很可能已在週二於日本舉行的會議上，從美國財政部長斯科特·貝森特處獲悉了這一訊息。這將是日本企業首次獲准使用Mythos。Mythos雖專為防禦性網路安全任務設計，但其功能卻引發了對傳統軟體安全威脅的擔憂。Anthropic公司表示，在預覽測試中發現該系統存在諸多重大漏洞，這些漏洞影響著所有主流作業系統和網路瀏覽器。週二，日本財務大臣片山皋月會見了貝森特，隨後表示日本將於本週成立一個公私合作工作組，以應對Mythos給日本金融體系帶來的網路安全風險。該工作組的首場會議預計將於週四舉行。"
-    },
-    {
-      "id": "4876886",
-      "time": "2026-05-13 12:13:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中聯重科新設農業機械公司，註冊資本5億元】企查查APP顯示，近日，湖南中聯重科農業機械有限公司成立，法定代表人為劉宇新，註冊資本為5億元，經營範圍包含：農業機械製造；農業機械銷售；農業機械租賃；農業機械服務；智慧農機裝備銷售等。企查查股權穿透顯示，該公司由中聯重科旗下中聯農業機械股份有限公司全資持股。"
-    },
-    {
-      "id": "4876885",
-      "time": "2026-05-13 12:13:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "【南非總統呼籲非洲國家攜手壯大旅遊經濟】2026非洲旅遊大會12日在南非海濱城市德班開幕。南非總統拉馬福薩在開幕式上呼籲非洲各國推動非洲大陸內部旅行便利化，積極拓展中國等多元客源市場，更好發揮旅遊業對非洲經濟發展的促進作用。（新華社）"
     }
   ]
 }
