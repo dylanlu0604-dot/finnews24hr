@@ -1,7 +1,63 @@
 {
-  "updated": "2026-05-20 13:54:32",
-  "count": 15633,
+  "updated": "2026-05-20 13:58:31",
+  "count": 15636,
   "items": [
+    {
+      "id": "4889533",
+      "time": "2026-05-20 13:57:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "科倫坡全股指數下跌2%至21,848.21點。"
+    },
+    {
+      "id": "4889532",
+      "time": "2026-05-20 13:56:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "【禾賽科技：獲歐洲頂級主機廠定點，訂單規模超100萬臺】5月20日，禾賽科技宣佈，繼近期與賓士達成L3合作之後，又斬獲一家新的歐洲頂級主機廠定點，訂單規模超100萬臺，覆蓋旗下中國合資品牌十餘款車型。"
+    },
+    {
+      "id": "mkt:019e43f3-9748-7cc9-b8d6-6355c518b661",
+      "time": "2026-05-20 13:54:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SOUTH KOREA FOREIGN MINISTER SAYS KOREAN VESSEL PASSING THROUGH STRAIT OF HORMUZ - YONHAP"
+    },
+    {
+      "id": "mkt:019e43f3-759d-7cc9-b8d6-5f63070b4d70",
+      "time": "2026-05-20 13:54:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SOUTH KOREA'S LEE: ISRAEL WAS 'WAY OUT OF LINE'"
+    },
+    {
+      "id": "mkt:019e43f3-4f9b-7cc9-b8d6-5631bfff79c9",
+      "time": "2026-05-20 13:54:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SOUTH KOREA PRESIDENT LEE: MOST EUROPEAN COUNTRIES SAY THEY WOULD ARREST ISRAEL PM NETANYAHU, WE TOO MUST MAKE OUR OWN JUDGEMENT"
+    },
+    {
+      "id": "4889531",
+      "time": "2026-05-20 13:54:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國際能源署：2026年全球近三成新車將為電動車】國際能源署5月20日釋出的《2026全球電動車展望》報告稱，在能源危機背景下，各國政府與消費者正加速轉向電動車，預計2026年全球電動車銷量將達到2300萬輛，佔全球新車銷量近30%。報告顯示，2025年全球電動車銷量同比增長20%，首次突破2000萬輛，佔全球新車銷量的四分之一。（央視新聞）"
+    },
+    {
+      "id": "4889530",
+      "time": "2026-05-20 13:53:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "【機構：北美CSP大舉購置NVIDIA GB/Rubin整櫃式方案，2026年AI推理算力將躍升1.2倍】根據TrendForce集邦諮詢最新AI產業研究，預估2026年AI訓練機種將佔AI Server出貨比例約55%，中長期則將由AI推理機種轉成市場主力；以北美五大CSP建置的GB/VR整櫃式方案估算，2026年五大廠商的總AI訓練算力將年增56%以上、總AI推理算力年增約122%；2026年，NVIDIA（英偉達）、AMD（超威）以及CSP自研ASIC平臺同步放量，將推升五大CSP Server功耗年增116%。"
+    },
     {
       "id": "4889529",
       "time": "2026-05-20 13:53:14",
@@ -141057,42 +141113,6 @@
         "其他"
       ],
       "text": "塞普勒斯總統表示，聯合國或於今年推出塞普勒斯和平計劃。"
-    },
-    {
-      "id": "mkt:019e1fe9-a10e-7553-b25f-c76e5a8366c6",
-      "time": "2026-05-13 13:57:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "RUSSIA'S LAVROV: MANY GOOD WORDS ARE SAID ABOUT THE ENORMOUS POTENTIAL OF U.S.-RUSSIAN RELATIONS BUT IN REALITY 'NOTHING IS HAPPENING'"
-    },
-    {
-      "id": "4876986",
-      "time": "2026-05-13 13:56:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "【穎通控股9750萬元投資香氛品牌馥郁滿鋪，取得15%股權】穎通控股有限公司釋出公告稱，公司全資附屬公司穎通（中國）國際貿易有限責任公司已於2026年4月13日簽署增資認購協議及股東協議，以總價人民幣9750萬元認購杭州白晝與夢生物科技有限公司新增註冊資本，取得後者增資完成後15%的股權。白晝與夢旗下運營芳療功效護膚、個人護理及香氛品牌“馥郁滿鋪”。該品牌主打改善肌膚狀態及情緒療愈。馥郁滿鋪此前曾獲凱輝基金、內向基金、挑戰者創投在內的三輪融資。（介面新聞 周芳穎）"
-    },
-    {
-      "id": "4876985",
-      "time": "2026-05-13 13:55:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "新易盛成交額達200億元，現漲5.07%。"
-    },
-    {
-      "id": "te:markets:550225",
-      "time": "2026-05-13 13:54:40",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "NZX 50 Extends Losses, Closes Down 0.1% — The NZX 50 fell 17 points, or 0.1%, to close at 13,063 on Wednesday, retreating for the second straight session and tracking declines on Wall Street overnight, as a faster-than-expected inflation reading amid higher oil prices raised concerns that the Fed will not cut rates this year. Fresh data also pressured sentiment, with business inflation expectations accelerating to 2.53% in Q2, marking the fastest increase since Q4 2023. Traders also remained cautious ahead of the release of New Zealand's food inflation data and manufacturing PMI, both due later this week. Markets will also monitor developments surrounding a potential meeting between US President Trump and Chinese President Xi Jinping later this week. Technology stocks, communication services, and financials mainly dragged the index lower, with notable losses from AFC Pharmaceuticals (-6.7%), Westpac Banking Corp. (-4.5%), ANZ Group (-2.6%), Infratil (-1.5%), and Auckland International Airport (-1.3%)."
     }
   ]
 }
