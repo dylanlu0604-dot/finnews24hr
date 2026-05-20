@@ -1,7 +1,98 @@
 {
-  "updated": "2026-05-21 06:44:58",
-  "count": 15831,
+  "updated": "2026-05-21 06:48:56",
+  "count": 15835,
   "items": [
+    {
+      "id": "mkt:019e4793-569d-7ff0-9b6b-da603d6e5bff",
+      "time": "2026-05-21 06:48:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Trade Balance (Apr) | actual 1920000000B | previous 698000000B"
+    },
+    {
+      "id": "mkt:019e4793-0a08-7ff0-9b6b-d0af45cbe85c",
+      "time": "2026-05-21 06:47:58",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Imports (Apr) | actual 6700000000B | previous 7250000000B"
+    },
+    {
+      "id": "mkt:019e4793-08de-7ff0-9b6b-c96ac9235cbc",
+      "time": "2026-05-21 06:47:54",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | 12-Month Trade Balance (Apr) | actual -2764000000B | previous -3191000000B"
+    },
+    {
+      "id": "mkt:019e4792-dacf-7ff0-9b6b-c56379813284",
+      "time": "2026-05-21 06:47:47",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Exports (Apr) | actual 8620000000B | previous 7940000000.000001B"
+    },
+    {
+      "id": "4891357",
+      "time": "2026-05-21 06:47:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國解除對聯合國專家弗朗西斯卡·阿爾巴內塞的制裁。"
+    },
+    {
+      "id": "4891356",
+      "time": "2026-05-21 06:45:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐西蘭4月份貿易順差為19.2億紐西蘭元。"
+    },
+    {
+      "id": "4891355",
+      "time": "2026-05-21 06:45:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐西蘭4月份進口額為67億紐西蘭元。"
+    },
+    {
+      "id": "4891354",
+      "time": "2026-05-21 06:45:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐西蘭4月份公佈的12個月累計貿易逆差為27.64億紐西蘭元。"
+    },
+    {
+      "id": "4891353",
+      "time": "2026-05-21 06:45:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐西蘭4月份出口額為86.2億紐西蘭元。"
+    },
+    {
+      "id": "te:markets:552433",
+      "time": "2026-05-21 06:44:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Binance Appreciates by 1.26% — Today's cryptos market is characterized by modest daily movements, with Binance standing out as the frontrunner with a 1.26% increase."
+    },
     {
       "id": "4891352",
       "time": "2026-05-21 06:40:17",
@@ -142438,57 +142529,6 @@
         "Importance 1"
       ],
       "text": "New Zealand Stocks Hit 2-Week Low — The NZX 50 fell by 0.3% to 13,020 on Thursday morning, marking its lowest level since April 30 after declining for the third consecutive session, mainly driven by losses in energy, utilities, and industrials. Traders turned cautious following the RBNZ quarterly survey, which highlighted expectations of higher inflation, interest rates, and unemployment, along with weaker growth for the upcoming year. Investor sentiment was further subdued ahead of the release of New Zealand's food inflation data and manufacturing PMI scheduled for Friday. Global markets are also keeping a close eye on a potential meeting between US President Trump and Chinese President Xi Jinping later this week. New Zealand's stocks took a hit, with the market plunging by 3.5% due to a warning from a firm about the largest loss in four years caused by increased fuel costs amidst the conflict in the Middle East. Other early losers included AFC Pharmaceuticals (-2.5%) and Contact Energy (-1.0%)."
-    },
-    {
-      "id": "4878687",
-      "time": "2026-05-14 06:48:14",
-      "tags": [
-        "市場"
-      ],
-      "text": "【各方“覆盤”碳酸鋰大漲：供應端擾動重重，下游需求旺盛】“鋰礦現貨緊俏，此前從辛巴威發運的在途庫存已用盡”“產品供不應求”“產能飽和”……多位鋰鹽企業相關負責人在接受採訪時道出當前鋰資源端供應偏緊，下游市場需求旺盛的現狀。5月13日，上海鋼聯資料顯示，電池級碳酸鋰現貨均價正式重返20萬元/噸大關，達20.14萬元/噸，自4月29日以來，已上漲2.63萬元/噸。調研獲悉，目前，鋰價維持漲勢，源於多重供給因素擾動疊加下游需求旺盛，形成供應偏緊的格局。短期來看，市場看漲情緒濃厚。（中證報）"
-    },
-    {
-      "id": "4878686",
-      "time": "2026-05-14 06:48:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "【需求穩步復甦，A股小金屬板塊公司業績向好】Wind資料顯示，2026年一季度，小金屬板塊上市公司營業收入整體同比增長幅度為39.93%，歸屬於上市公司股東的淨利潤同比增長幅度為93.45%。其中，鎢、稀土等子行業業績表現亮眼。機構研報顯示，2025年和2026年一季度，金屬行業業績增長普遍提速，小金屬板塊公司表現亮眼。隨著供應擾動頻發、個別下游領域延續較高景氣度，建議持續關注小金屬領域相關配置機會。（中證報）"
-    },
-    {
-      "id": "4878685",
-      "time": "2026-05-14 06:45:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "紐西蘭 3 月經季調淨移民人數增加 3370 人。"
-    },
-    {
-      "id": "4878684",
-      "time": "2026-05-14 06:45:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以色列執政聯盟提交提前解散議會議案】以色列執政聯盟主席奧菲爾·卡茨13日與聯盟各派別領導人共同提交一項解散議會的議案，此舉可能觸發以色列提前舉行議會選舉。以色列議會選舉原定不晚於2026年10月27日舉行。新華社記者獲得的一份材料顯示，議案要求提前結束本屆議會任期，新的選舉日期將由以色列議會院務委員會討論決定。（新華社）"
-    },
-    {
-      "id": "te:markets:550434",
-      "time": "2026-05-14 06:45:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: Bitcoin Drops by 1.39% — Top crypto losers are Bitcoin (-1.39%), XRP (-1.01%) and Ether (-0.80%)."
-    },
-    {
-      "id": "4878683",
-      "time": "2026-05-14 06:45:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "據華爾街日報： 美國國防部取消向歐洲部署裝甲旅的計劃。"
     }
   ]
 }
