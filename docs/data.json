@@ -1,7 +1,124 @@
 {
-  "updated": "2026-05-20 10:11:01",
-  "count": 15540,
+  "updated": "2026-05-20 10:15:00",
+  "count": 15537,
   "items": [
+    {
+      "id": "4889206",
+      "time": "2026-05-20 10:13:59",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "碳酸鋰連續主力合約日內跌5%，現報176240.00元。"
+    },
+    {
+      "id": "4889205",
+      "time": "2026-05-20 10:13:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "中芯國際成交額超100億元，漲超7%。"
+    },
+    {
+      "id": "mkt:019e4328-cb49-7228-9b02-5429c81c9a06",
+      "time": "2026-05-20 10:12:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "KAZAKHSTAN TO DEEPEN FINANCIAL SERVICES COOPERATION WITH HONG KONG, CONSUL SAYS"
+    },
+    {
+      "id": "mkt:019e4328-70fa-7228-9b02-4a9907f53cc3",
+      "time": "2026-05-20 10:12:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Hot",
+        "Policy",
+        "Chinese Policy & Markets"
+      ],
+      "text": "【Xi Jinping to Hold Welcoming Ceremony for Putin Visit in Beijing】Chinese President Xi Jinping will hold a welcome ceremony at the Great Hall of the People in Beijing for Russian President Vladimir Putin’s state visit, state media reports. (CCTV)"
+    },
+    {
+      "id": "4889204",
+      "time": "2026-05-20 10:12:13",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【國臺辦：美方務必慎之又慎處理臺灣問題】國務院臺辦舉行例行新聞釋出會。發言人朱鳳蓮表示：臺灣問題是這次中美元首會晤的重要議題之一，我們希望美方恪守一箇中國原則和中美三個聯合公報，務必慎之又慎處理臺灣問題，不向“臺獨”分裂勢力發出錯誤訊號，以實際行動維護中美關係穩定發展和維護臺海和平穩定。"
+    },
+    {
+      "id": "mkt:019e4328-22e8-7228-9b02-41244f2ee633",
+      "time": "2026-05-20 10:11:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Hot",
+        "Policy",
+        "Breaking News 24h",
+        "Chinese Policy & Markets"
+      ],
+      "text": "RUSSIA CONSIDERS POSSIBILITY OF JOINT PROJECTS WITH U.S. AND CHINA, RUSSIAN TV CITES HEAD OF RUSSIAN DIRECT INVESTMENT FUND"
+    },
+    {
+      "id": "4889203",
+      "time": "2026-05-20 10:11:49",
+      "tags": [
+        "宏觀",
+        "公司"
+      ],
+      "text": "【國臺辦：臺灣有關方面應儘快解除不合理禁限 推動兩岸旅遊交流恢復正常】國務院臺辦舉行例行新聞釋出會。有記者問：上海市文旅局日前公告上海居民可申請赴金馬旅遊，11日首批上海遊客抵達金門，13日返滬。臺媒報道稱這為當地旅遊業迎來“春燕”，金門縣政府表示，今年規劃辦理4期金門觀光旅遊推介會，將積極拓展大陸旅遊市場。請問對此有何評論？下一步如何推動兩岸旅遊交流更好恢復和發展？發言人朱鳳蓮表示，對於恢復上海居民赴金門、馬祖旅遊及金門方面的積極反響，我們樂見其成，這充分顯示了兩岸同胞，特別是金門鄉親對兩岸人員往來正常化和交流合作常態化的熱切期盼。臺灣有關方面應順應民意，正視島內旅遊業界和民眾的呼聲，儘快解除不合理禁限，推動兩岸旅遊交流恢復正常。"
+    },
+    {
+      "id": "mkt:019e4327-86a5-7228-9b02-3d36cc6a407c",
+      "time": "2026-05-20 10:11:47",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "CHINA’S TAIWAN AFFAIRS OFFICE: HOPES BROAD MASSES OF TAIWANESE WILL WORK WITH US TO MAINTAIN PEACE AND STABILITY IN THE TAIWAN STRAIT"
+    },
+    {
+      "id": "mkt:019e4327-383e-7228-9b02-337adbee54fd",
+      "time": "2026-05-20 10:11:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY"
+      ],
+      "text": "JAPAN CHIEF CABINET SECRETARY KIHARA SAYS MONETARY POLICY UP TO BOJ TO DECIDE, WHEN ASKED ABOUT BESSENT'S COMMENT THAT HE HAS CONFIDENCE IN BOJ JAPAN CHIEF CABINET SECRETARY KIHARA: HOPE BOJ CONTINUES TO WORK CLOSELY WITH GOVERNMENT AND CONDUCT MONETARY POLICY APPROPRIATELY TO ACHIEVE PRICE TARGET"
+    },
+    {
+      "id": "4889202",
+      "time": "2026-05-20 10:11:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股黃金股多數下挫，珠峰黃金跌超7%】港股黃金股多數下挫，珠峰黃金跌超7%，招金礦業、山東黃金跌超4%，老鋪黃金、靈寶黃金、紫金礦業跟跌。"
+    },
+    {
+      "id": "4889201",
+      "time": "2026-05-20 10:11:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【習近平將舉行儀式歡迎俄羅斯總統普京訪華】5月20日上午，國家主席習近平將在北京人民大會堂東門外廣場舉行儀式，歡迎俄羅斯總統普京訪華。應國家主席習近平邀請，俄羅斯總統普京於5月19日至20日對中國進行國事訪問。（央視新聞）"
+    },
+    {
+      "id": "4889200",
+      "time": "2026-05-20 10:10:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【公安部：對上市公司財務造假類犯罪“零容忍”】公安部今天召開新聞釋出會，介紹去年以來公安機關打擊防範經濟犯罪主要情況。公安部有關負責人表示，廣大投資者對個別上市公司搞財務造假的問題深惡痛絕，公安機關堅持對這類犯罪“零容忍”、對公司“強保護”。對上市公司財務造假類犯罪，公安機關始終保持嚴打高壓態勢，從嚴懲治涉嫌犯罪的上市公司控股股東、實際控制人等，深挖財務造假背後的挪用資金、職務侵佔等掏空公司資產的犯罪行為，對參與和配合造假的中介機構及第三方“一案雙查”，對相關犯罪實施全鏈條、全方位、全環節打擊。"
+    },
     {
       "id": "te:markets:552075",
       "time": "2026-05-20 10:10:18",
@@ -140152,147 +140269,6 @@
         "其他"
       ],
       "text": "泡泡瑪特：燃油價格也將對國際業務的毛利潤產生影響。"
-    },
-    {
-      "id": "te:markets:550160",
-      "time": "2026-05-13 10:14:59",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Asia FX Updates: South Korean Won Drops by 0.31% — Top currency loser is South Korean Won (-0.31%). Meanwhile, Japanese Yen and Chinese Yuan were little changed."
-    },
-    {
-      "id": "mkt:019e1f1d-be81-7553-b25d-e94e271989d8",
-      "time": "2026-05-13 10:14:57",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China EV Leaders",
-        "1211.HK",
-        "Impact bearish"
-      ],
-      "text": "BYD DOWN OVER 3% IN HONG KONG"
-    },
-    {
-      "id": "4876610",
-      "time": "2026-05-13 10:14:49",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【國臺辦批賴清德謬論：謊話說1000遍還是謊話 絕對成不了真】5月13日，國務院臺辦舉行例行新聞釋出會。有記者問：近日，賴清德在“哥本哈根民主峰會”發表影片，散佈“臺獨”言論。請問對此有何評論?發言人張晗表示，世界上只有一箇中國，臺灣是中國的一部分，這是無法否認，也不容否認的歷史和法理事實。臺灣從來不是一個國家，過去不是，今後更絕對不是，賴清德的謊話，說1000遍還是謊話，絕對成不了真。（央視新聞）"
-    },
-    {
-      "id": "4876609",
-      "time": "2026-05-13 10:14:40",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐西蘭元兌美元上漲0.19%，報0.5963。"
-    },
-    {
-      "id": "4876608",
-      "time": "2026-05-13 10:14:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "泡泡瑪特：公司整體利潤率將下降0.5個百分點。"
-    },
-    {
-      "id": "4876607",
-      "time": "2026-05-13 10:14:05",
-      "tags": [
-        "市場"
-      ],
-      "text": "泡泡瑪特：原材料價格上漲，導致新產品生產成本增加。"
-    },
-    {
-      "id": "4876606",
-      "time": "2026-05-13 10:13:47",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【加拿大豐業銀行：預計2027年全球銅市場將出現35萬噸的缺口】投資者已將目光投向伊朗戰爭對全球經濟的威脅之外，押注銅價可能進一步走高。道明證券全球大宗商品策略主管Bart Melek稱，投資者正透過期權交易大舉押注銅價格進一步上漲。加拿大豐業銀行礦業分析師Orest Wowkodaw目前預計，到2027年全球銅市場將出現35萬噸的缺口。就在兩個月前，他還預計市場將趨於平衡。“這確實是銅價上漲的‘完美風暴’，儘管價格高企，但供應端仍面臨巨大挑戰，”他在週二多倫多的一場活動中表示。“我可能從未見過比今天更好的全球銅需求環境。這為銅價‘更高更持久’的走勢創造了條件。”"
-    },
-    {
-      "id": "4876605",
-      "time": "2026-05-13 10:13:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中方強調尊重波黑主權獨立和領土完整】當地時間12日，聯合國安理會就波黑問題展開討論。中國常駐聯合國副代表孫磊在發言中表示，近期波黑政局動盪，在今年大選即將到來之際，希望波黑兩大實體、三大民族保持冷靜剋制，共同營造有利的政治氛圍。孫磊強調說，波黑的事務應由波黑人民自主管理，高階代表制度的相關任命未得到安理會認可，且該制度作為特殊時期的安排，不應長期化、永久化。中方支援波黑各族和睦共處，尊重波黑國家主權獨立和領土完整，尊重波黑人民對國家前途的自主選擇。（央視新聞）"
-    },
-    {
-      "id": "mkt:019e1f1c-1169-7553-b25d-e4215ff76db5",
-      "time": "2026-05-13 10:13:13",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Hot",
-        "Market Themes",
-        "AI Revolution",
-        "Policy",
-        "Breaking News 24h"
-      ],
-      "text": "【Korean Stocks Rebound as Retail Investors Offset $45 Billion Foreign Outflows】South Korean stocks quickly erased losses Wednesday as local retail investors bought into foreign fund selling. The rose 0.3% after dropping as much as 3.2% intraday. briefly fell up to 6.1% after failing to reach a wage agreement with its largest labor union, while reversed early losses amid concerns over overheating in AI-related stocks following a US tech selloff. Foreign investors have sold more than $45 billion of Kospi stocks so far this year, but local institutional and retail buying has supported the index, which is still up 82% year-to-date. Morgan Stanley raised its 12-month Kospi target to 8,500 from 6,500, citing structural reform support, while noting external risks from geopolitical tensions."
-    },
-    {
-      "id": "4876601",
-      "time": "2026-05-13 10:13:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國氣象局啟動重大氣象災害（暴雨、強對流）四級應急響應】中國氣象局訊息，預計，5月13日至15日，福建大部、江西中南部、湖南東南部、廣東北部、廣西東北部及西藏東南部等地部分地區有大到暴雨，其中，江西東部、福建西部等地區域性地區有大暴雨。上述部分地區伴有短時強降水，局地有雷暴大風、冰雹等強對流天氣。中央氣象臺已釋出暴雨藍色預警。經綜合研判和應急會商，中國氣象局局立即進入重大氣象災害（暴雨、強對流）四級應急響應狀態。"
-    },
-    {
-      "id": "4876598",
-      "time": "2026-05-13 10:12:40",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【“和平統一後，臺灣精神文化生活會更好” 國臺辦闡釋】國務院臺辦舉行例行新聞釋出會。有記者問：國務院臺辦發言人在之前釋出會上已分別闡釋了和平統一後臺灣“七個更好”中的四個“更好”，受到兩岸輿論高度關注。請問發言人對“和平統一後，有強大祖國做後盾，臺灣精神文化生活會更好”有何闡釋？發言人張晗表示，中華文化是兩岸同胞心靈的根脈與歸屬。和平統一後，中華優秀傳統文化、歷史記憶、民族精神將在臺灣得到更好傳承與弘揚。臺灣民眾不再處於“文化模糊”“文化身份模糊”“歷史認知混亂”的狀態。臺灣同胞生而為中國人的精神世界更充實，歸屬感更強。"
-    },
-    {
-      "id": "te:markets:550157",
-      "time": "2026-05-13 10:12:37",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Currency",
-        "Importance 2"
-      ],
-      "text": "Dollar Holds Gains After Hot CPI Report — The dollar index held above 98 on Wednesday after advancing in the prior session, supported by stronger-than-expected US inflation data that reduced expectations for Federal Reserve interest rate cuts. US consumer inflation rose 3.8% in April, above forecasts of 3.7% and the highest since May 2023, as surging energy prices tied to the Middle East conflict added to price pressures. Markets have largely priced out any Fed rate cuts this year, while expectations for a quarter-point hike in December have climbed to 35%. Investors are now focused on the latest producer inflation report for further signals on how the Iran war is affecting the US economy. Meanwhile, oil prices remained elevated as diplomatic efforts to resolve the US-Iran conflict stalled, keeping inflation risks high. President Donald Trump is also due to meet Chinese President Xi Jinping this week, though he indicated trade talks will take precedence over the Iran situation."
-    },
-    {
-      "id": "mkt:019e1f1b-2438-7553-b25d-da5321482dbb",
-      "time": "2026-05-13 10:12:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "OECD SECRETARY-GENERAL: USE OF SUPPLEMENTARY BUDGETS SHOULD BE LIMITED TO LARGE ECONOMIC SHOCKS"
-    },
-    {
-      "id": "4876593",
-      "time": "2026-05-13 10:12:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "【上海居民恢復金門馬祖遊後，首批遊客已成行】金門縣政府副縣長陳祥麟5月12日在此間舉辦的“滬動金門·精彩萬分”金門觀光旅遊推介會上介紹，首批上海遊客已於5月11日抵達金門。（新華社）"
-    },
-    {
-      "id": "te:markets:550156",
-      "time": "2026-05-13 10:11:47",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Sugar Futures Advance — Sugar futures in the US rose toward 15 US cents, moving back close to a one-month on expectations of reduced output. The USDA’s May WASDE report revised down 2025/26 US sugar production due to weak beet sugar recovery and timing effects in Florida, partially offset by higher raw sugar imports, while overall use remained unchanged. For 2026/27, beet sugar production is expected to decline due to reduced planted area and weaker yields, while cane sugar production is also projected to fall as weather-related damage in Florida outweighs modest gains in other producing areas. Recently, Green Pool Commodity Specialists revised its estimate of the global sugar deficit for the 2026/27 crop year upward from 1.66 million to 4.30 million tons, reflecting expectations of increased ethanol production amid persistently elevated oil prices."
     }
   ]
 }
