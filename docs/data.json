@@ -1,7 +1,47 @@
 {
-  "updated": "2026-05-20 13:50:32",
-  "count": 15630,
+  "updated": "2026-05-20 13:54:32",
+  "count": 15633,
   "items": [
+    {
+      "id": "4889529",
+      "time": "2026-05-20 13:53:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "【機構：北美CSP大舉購置NVIDIA GB/Rubin整櫃式方案，2026年AI推理算力將躍升1.2倍】根據TrendForce集邦諮詢最新AI產業研究，預估2026年AI訓練機種將佔AI Server出貨比例約55%，中長期則將由AI推理機種轉成市場主力；以北美五大CSP建置的GB/VR整櫃式方案估算，2026年五大廠商的總AI訓練算力將年增56%以上、總AI推理算力年增約122%；2026年，NVIDIA（英偉達）、AMD（超威）以及CSP自研ASIC平臺同步放量，將推升五大CSP Server功耗年增116%。"
+    },
+    {
+      "id": "4889528",
+      "time": "2026-05-20 13:53:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國一油輪載有200萬桶科威特原油，已駛出霍爾木茲海峽，駛往蔚山。"
+    },
+    {
+      "id": "4889527",
+      "time": "2026-05-20 13:51:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國外交部長表示，有韓國船隻正在透過霍爾木茲海峽。"
+    },
+    {
+      "id": "4889526",
+      "time": "2026-05-20 13:49:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【萬凱新材等在衢州新設股權投資基金】企查查APP顯示，近日，金澄盛凱（衢州）股權投資基金合夥企業（有限合夥）成立，出資額3億元，經營範圍包含以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該企業由萬凱新材等共同出資。"
+    },
+    {
+      "id": "4889525",
+      "time": "2026-05-20 13:49:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "牧原股份港股跌5.33%，報34.48港元。A股現跌近2%。"
+    },
     {
       "id": "4889524",
       "time": "2026-05-20 13:49:43",
@@ -141053,23 +141093,6 @@
         "Importance 1"
       ],
       "text": "NZX 50 Extends Losses, Closes Down 0.1% — The NZX 50 fell 17 points, or 0.1%, to close at 13,063 on Wednesday, retreating for the second straight session and tracking declines on Wall Street overnight, as a faster-than-expected inflation reading amid higher oil prices raised concerns that the Fed will not cut rates this year. Fresh data also pressured sentiment, with business inflation expectations accelerating to 2.53% in Q2, marking the fastest increase since Q4 2023. Traders also remained cautious ahead of the release of New Zealand's food inflation data and manufacturing PMI, both due later this week. Markets will also monitor developments surrounding a potential meeting between US President Trump and Chinese President Xi Jinping later this week. Technology stocks, communication services, and financials mainly dragged the index lower, with notable losses from AFC Pharmaceuticals (-6.7%), Westpac Banking Corp. (-4.5%), ANZ Group (-2.6%), Infratil (-1.5%), and Auckland International Airport (-1.3%)."
-    },
-    {
-      "id": "4876984",
-      "time": "2026-05-13 13:53:13",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨賣出額達30億港元。"
-    },
-    {
-      "id": "4876983",
-      "time": "2026-05-13 13:52:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "梅賽德斯賓士將把柏林的七家經銷商出售給加拿大買家。"
     }
   ]
 }
