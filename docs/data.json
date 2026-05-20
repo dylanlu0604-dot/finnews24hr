@@ -1,7 +1,151 @@
 {
-  "updated": "2026-05-20 11:36:47",
-  "count": 15556,
+  "updated": "2026-05-20 11:40:51",
+  "count": 15567,
   "items": [
+    {
+      "id": "mkt:019e4378-14f8-7cc9-b8d4-9ffade73922a",
+      "time": "2026-05-20 11:40:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CHINA, RUSSIA TO STEADILY PUSH FOR 'BACK-TO-BACK' STRATEGIC COORDINATION - CCTV"
+    },
+    {
+      "id": "4889342",
+      "time": "2026-05-20 11:39:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼股市基準指數抹去了高達1.4%的漲幅。"
+    },
+    {
+      "id": "mkt:019e4377-eab9-7cc9-b8d4-97a6e42d633f",
+      "time": "2026-05-20 11:39:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "BABA.N",
+        "Impact bullish",
+        "NVDA.O",
+        "Impact bearish"
+      ],
+      "text": "【Alibaba Unveils Zhenwu AI Chip With Triple Performance Boost】Alibaba unveiled a new AI chip, Zhenwu M890, which it said delivers three times the performance of its predecessor, Zhenwu 810E, amid Nvidia’s challenges in selling advanced chips in China. The chip features 144GB GPU memory and 800GB/s interchip bandwidth. Alibaba said it has shipped 560,000 Zhenwu units to over 400 customers across 20 industries."
+    },
+    {
+      "id": "4889341",
+      "time": "2026-05-20 11:39:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中俄睦鄰友好合作條約再延期】5月20日上午，國家主席習近平在北京人民大會堂同來華進行國事訪問的俄羅斯總統普京舉行會談。兩國元首一致同意《中俄睦鄰友好合作條約》繼續延期。 習近平指出，25年前，中俄兩國簽署睦鄰友好合作條約，以法律形式確立了長期睦鄰友好、全面戰略協作的制度基礎，中俄關系從此實現跨越式發展。當前國際格局發生很大變化，世介面臨倒退回叢林法則的危險。在此背景下，《中俄睦鄰友好合作條約》的先進性、科學性和現實價值愈加凸顯。中方支援《中俄睦鄰友好合作條約》繼續延期，將同俄方一道恪守條約精神，堅定推進中俄“背靠背”戰略協作。 （新華社）"
+    },
+    {
+      "id": "te:economy:552094",
+      "time": "2026-05-20 11:38:49",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Jordan",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "Jordan Industrial Output Rebounds in March — Industrial output in Jordan rose by 1.1% year-on-year in March 2026, rebounding from a 0.72% decline in the previous month. Output recovered in manufacturing (0.6% vs -0.27% in February), mainly driven by higher production of food products (6.3%), chemicals and chemical products (9.8%), and fabricated metal products, except machinery and equipment (14.2%). Moreover, production in electricity, gas, steam, and air-conditioning supply rebounded sharply to 10.4% in March from a 9.84% drop in the preceding month. Meanwhile, output for mining and quarrying slipped to 1.4% from a 2.31% rise. On a monthly basis, industrial activity increased 2.5%, following a 2.19% fall in February."
+    },
+    {
+      "id": "mkt:019e4377-3a2f-7cc9-b8d4-8f43e9a53d5e",
+      "time": "2026-05-20 11:38:17",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "RUSSIA'S PUTIN INVITES XI TO VISIT RUSSIA NEXT YEAR"
+    },
+    {
+      "id": "4889340",
+      "time": "2026-05-20 11:38:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【Seedance 2.1即將推出？接近位元組跳動人士：不屬實】日前有市場訊息稱，位元組跳動準備推出其AI影片生成模型Seedance 2.0的升級版本Seedance 2.1，而新模型的生成質量預計提升約20%。5月20日，接近位元組跳動人士表示，市場上關於Seedance2.1即將釋出的傳言不屬實。今年2月，位元組跳動正式推出多模態AI影片生成模型Seedance 2.0，該模型支援文字、圖片、音訊、影片多形式混合輸入，一經發布便引發業內高度關注。（每經網）"
+    },
+    {
+      "id": "mkt:019e4377-38b2-7cc9-b8d4-821300208e73",
+      "time": "2026-05-20 11:38:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RUSSIA'S PUTIN SAYS RUSSIAN AND CHINESE RELATIONS ARE HELPING GLOBAL STABILITY"
+    },
+    {
+      "id": "mkt:019e4377-3723-7cc9-b8d4-7da9aac04d1c",
+      "time": "2026-05-20 11:38:01",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "TO EXTEND CHINA, RUSSIA FRIENDSHIP AND COOPERATION TREATY - CCTV"
+    },
+    {
+      "id": "4889339",
+      "time": "2026-05-20 11:37:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【“天貓618”國補新增22個品類 疊加補貼價格或低至5折】記者5月20日瞭解到，“天貓618”期間國補“上新”，新增掃地機器人、洗碗機、智慧馬桶、數碼相機等22個品類。“618”期間，國補可與平臺補貼、品牌讓利疊加使用，家電、家裝低至5折。二季度以來，家電手機受原材料漲價影響已普遍提價，業內判斷漲價潮將延續至明年，今年“618”大促有望引發更多關注。(上海證券報)"
+    },
+    {
+      "id": "4889338",
+      "time": "2026-05-20 11:37:38",
+      "tags": [
+        "兩會"
+      ],
+      "text": "【北京市平谷區政協原主席王春輝受賄案一審宣判】北京市第三中級人民法院20日依法公開宣判北京市平谷區政協原主席王春輝受賄一案，對被告人王春輝以受賄罪判處有期徒刑十一年，並處罰金人民幣一百萬元；對被告人王春輝受賄犯罪所得及孳息予以沒收，上繳國庫。（新華社）"
+    },
+    {
+      "id": "mkt:019e4376-f5f0-7cc9-b8d4-71d497df7f5a",
+      "time": "2026-05-20 11:37:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields"
+      ],
+      "text": "CHINA FINANCE MINISTRY AUCTIONS 30-YEAR ULTRA-LONG SPECIAL TREASURY BONDS AT 2.2315 PCT YIELD - TRADERS"
+    },
+    {
+      "id": "4889337",
+      "time": "2026-05-20 11:36:56",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "《中俄睦鄰友好合作條約》延期。（央視新聞）"
+    },
+    {
+      "id": "mkt:019e4376-f271-7cc9-b8d4-688ef1971dce",
+      "time": "2026-05-20 11:36:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CHINA'S XI, TO PUTIN: EASON CHINA-RUSSIA RELATIONS HAVE REACHED THIS LEVEL IS BECAUSE WE HAVE BEEN ABLE TO DEEPEN POLITICAL MUTUAL TRUST AND STRATEGIC COOPERATION- XINHUA"
+    },
+    {
+      "id": "4889336",
+      "time": "2026-05-20 11:36:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【梅安森：公司與雲深處暫無合作】梅安森5月20日在互動平臺表示，公司與雲深處暫無合作。"
+    },
+    {
+      "id": "4889335",
+      "time": "2026-05-20 11:36:16",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "【午評：科創50指數半日漲2%再創新高，半導體產業鏈延續強勢】A股三大指數早盤漲跌不一，截至午盤，上證指數跌0.45%，深證成指跌0.37%，創業板指漲0.05%，北證50跌1.16%，科創50指數漲2.04%。全市場成交額19226億元，較上日放量951億元，全市場超4100只個股下跌。板塊題材上，光刻機、儲存晶片、半導體、白酒、氟化工概念股漲幅居前。電力、貴金屬、文化傳媒、教育、雲端計算板塊跌幅居前。盤面上，國產儲存晶片龍頭企業長江儲存啟動IPO輔導提振半導體產業鏈情緒，華虹公司盤中創歷史新高，中芯國際盤中大漲10%，晶方科技、上海合晶等股漲停。美伊繼續互放狠話，油氣股多數反彈，*ST洲際上演“地天板”，中國海油、中曼石油震盪上揚。此外，白酒、光刻機、光纖概念股盤中輪動上漲。另一方面，電力板塊經歷連續上漲後有較大調整，京能電力、大唐發電、晉控電力多股跌停。雲端計算板塊同樣調整，三大通訊運營商回撥，中國電信跌超6%，中國聯通跌超3%，中國移動跌超1%。"
+    },
     {
       "id": "4889334",
       "time": "2026-05-20 11:36:06",
@@ -18,6 +162,27 @@
         "國際"
       ],
       "text": "日本20年期國債拍賣投標倍數為4.01，高於12個月平均值3.43。"
+    },
+    {
+      "id": "mkt:019e4375-6d9e-7cc9-b8d4-67b35aa7cc09",
+      "time": "2026-05-20 11:35:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CHINA'S XI, TO PUTIN: CHINA, RUSSIA SHOULD PROMOTE THE CONSTRUCTION OF A MORE JUST AND REASONABLE GLOBAL GOVERNANCE SYSTEM - XINHUA"
+    },
+    {
+      "id": "mkt:019e4375-1563-7cc9-b8d4-5ff43a80f7dc",
+      "time": "2026-05-20 11:35:18",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "RUSSIA'S PUTIN SAYS AMID MIDDLE EAST CRISIS RUSSIA REMAINS RELIABLE ENERGY SUPPLIER"
     },
     {
       "id": "mkt:019e4374-6d3d-7cc9-b8d4-52923183980c",
@@ -140361,66 +140526,6 @@
         "國際"
       ],
       "text": "【中美經貿磋商在韓國開始舉行】當地時間5月13日中午，中美兩國經貿團隊在韓國首爾仁川國際機場開始舉行中美經貿磋商。(新華社)"
-    },
-    {
-      "id": "4876851",
-      "time": "2026-05-13 11:40:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度尼西亞金融監管機構官員：股市交易頻次與成交額均保持正常，說明並未出現恐慌性拋售。"
-    },
-    {
-      "id": "4876850",
-      "time": "2026-05-13 11:40:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "雷軍：小米17Max# 本月釋出 ，小米17系列新成員，在標準版基礎上，螢幕加大到6.9\"超大直屏，還有影像、續航和效能的提升。"
-    },
-    {
-      "id": "4876849",
-      "time": "2026-05-13 11:39:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "【泡泡瑪特高管稱海外業績明顯回撤】5月13日，泡泡瑪特營運長司德在今日業績會談海外業績上直言，公司去年海外業務高增長主要由Labubu爆款引流帶動。大批新晉使用者對潮玩行業及品牌其他IP認知不足。 同時，近年新增大量海外員工對公司認知僅侷限於Labubu3.0階段，業務積澱尚淺。在使用者與團隊均未充分沉澱的背景下，伴隨流量回落，業績隨即出現明顯回撤，這也成為當前泡泡瑪特海外業務面臨的核心挑戰。"
-    },
-    {
-      "id": "4876848",
-      "time": "2026-05-13 11:37:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【抖音電商：持續推進仿冒治理 已攔截侵權影片超17萬條】5月13日，記者從公司獲悉，抖音電商持續深入開展“侵權仿冒”專項治理行動，嚴禁商家和達人利用AI技術或其他特效手段仿冒他人形象進行宣傳。截至目前，平臺已累計處置侵權仿冒達人賬號超1.2萬個，處置仿冒帶貨商品超4.8萬個；處置仿冒帶貨內容超26.1萬條；主動攔截作者數6.5萬，主動攔截商品數18萬，主動攔截侵權影片超17萬條。"
-    },
-    {
-      "id": "4876847",
-      "time": "2026-05-13 11:37:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "印尼金融監管機構官員表示：我們的市場仍然被認為良好，我們沒有被下調評級，並繼續留在新興市場指數中。"
-    },
-    {
-      "id": "4876846",
-      "time": "2026-05-13 11:37:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "【上海啟動居民赴金門、馬祖旅遊簽註申請受理】記者從上海市公安局出入境管理總隊獲悉，上海全市20個出入境接待大廳已同步啟動赴金門、馬祖旅遊簽註申請受理工作。上海市戶籍居民和居住證持有人擬赴金門、馬祖旅遊的，可前往本市任一出入境接待大廳，憑本人有效身份證申請辦理往來臺灣通行證及赴金門、馬祖個人旅遊簽註或團隊旅遊簽註。在福建的上海市戶籍居民也可向福建省公安機關出入境管理機構申請辦理上述證件及簽註。(上觀新聞)"
-    },
-    {
-      "id": "mkt:019e1f69-13ba-7553-b25e-bf5dbe51f341",
-      "time": "2026-05-13 11:37:20",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "CHINA-FLAGGED CRUDE SUPERTANKER MAKES HORMUZ EXIT ATTEMPT: DATA"
     }
   ]
 }
