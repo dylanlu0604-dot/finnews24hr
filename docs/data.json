@@ -1,7 +1,94 @@
 {
-  "updated": "2026-05-21 04:28:15",
-  "count": 15722,
+  "updated": "2026-05-21 04:32:16",
+  "count": 15723,
   "items": [
+    {
+      "id": "mkt:019e4716-3c49-7bb5-8188-d0bd0e64c815",
+      "time": "2026-05-21 04:31:37",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Nvidia Forecast Misses Loftiest Estimates as AI Chip Competition Intensifies】Nvidia forecast July-quarter revenue of $91 billion, above analysts’ $87 billion average estimate but below projections as high as $96 billion, disappointing investors accustomed to stronger beats. Shares fell about 3% in late trading. Competition in AI accelerators is increasing as rivals including Advanced Micro Devices, Broadcom and Alphabet expand their offerings. CEO Jensen Huang maintained that Nvidia can continue delivering unprecedented growth as AI demand remains strong. Wall Street expects Nvidia to generate more than one-third of global semiconductor industry revenue this year."
+    },
+    {
+      "id": "4891218",
+      "time": "2026-05-21 04:31:32",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【英偉達營收展望未能震撼市場 股價盤後下挫3%後反彈轉漲】公司英偉達的最新營收預期令投資者失望，加劇了市場對AI晶片行業競爭加劇的擔憂。該公司週三在宣告中表示，截至7月的三個月營收預計達到910億美元。儘管分析師平均預期為870億美元，部分預測高達960億美元。這一業績指引令習慣於英偉達不斷大超預期的投資者感到失望。與此同時，英偉達在AI計算領域的主導地位也首次面臨重大挑戰，多家晶片廠商正試圖分食這一市場。財報公佈後，英偉達股價盤後下跌約3%後反彈轉漲。該股今年以來上漲20%，跑贏標普500指數，但落後於多數主要晶片同行。"
+    },
+    {
+      "id": "mkt:019e4715-72b6-7bb5-8188-ca705cd035b4",
+      "time": "2026-05-21 04:30:48",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA BOOSTS QTRLY CASH DIV TO 25C/SHR FROM 1C/SHR"
+    },
+    {
+      "id": "mkt:019e4715-5a15-7bb5-8188-c3565e67bd08",
+      "time": "2026-05-21 04:30:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bearish"
+      ],
+      "text": "NVIDIA: NO SHIPMENTS HOPPER PRODUCTS TO CHINA IN 1Q"
+    },
+    {
+      "id": "mkt:019e4715-3bf3-7bb5-8188-b9c646ee8168",
+      "time": "2026-05-21 04:30:34",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA SHARES TICK POSITIVE AHEAD OF CONFERENCE CALL AFTER DECLINING AS MUCH AS 3.3%"
+    },
+    {
+      "id": "4891217",
+      "time": "2026-05-21 04:30:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "英偉達公佈業績後，其股價在盤後交易中翻紅，最新上漲0.5%，報每股224.64美元。"
+    },
+    {
+      "id": "4891216",
+      "time": "2026-05-21 04:29:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達第一季度邊緣計算收入達63.7億美元。"
+    },
+    {
+      "id": "4891215",
+      "time": "2026-05-21 04:29:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達：Vera Rubin相關業務進展順利，定於今年下半年（三季度起）正式落地。"
+    },
     {
       "id": "4891214",
       "time": "2026-05-21 04:27:14",
@@ -141482,62 +141569,6 @@
         "Importance 1"
       ],
       "text": "The Dow Jones Index Closes 0.16% Lower — The Dow Jones Index decreased 80 points or 0.16 percent on Wednesday to close at 49681 points. The decline was led by Salesforce (-3.13%), Home Depot (-2.49%) and IBM (-1.89%). On the upside, the strongest performers were J&J (2.76%), 3M (2.72%) and Cisco Systems (2.42%)."
-    },
-    {
-      "id": "mkt:019e2309-2843-7dd0-a6ab-062d92f59e55",
-      "time": "2026-05-14 04:29:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UAE'S FOREIGN MINISTRY: THESE RELATIONS ARE NOT BASED ON SECRECY, SO ANY CLAIMS REGARDING UNANNOUNCED VISITS OR ARRANGEMENTS ARE 'BASELESS' UNLESS OFFICIALLY ISSUED BY UAE"
-    },
-    {
-      "id": "mkt:019e2308-da19-7dd0-a6aa-f8efbb489ba2",
-      "time": "2026-05-14 04:29:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UAE AFFIRMS THAT ITS RELATIONS WITH ISRAEL ARE PUBLIC AND WERE ESTABLISHED WITHIN THE FRAMEWORK OF THE WELL-KNOWN AND PUBLICLY DECLARED ABRAHAM ACCORDS -FOREIGN MINISTRY"
-    },
-    {
-      "id": "4878627",
-      "time": "2026-05-14 04:29:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "阿聯酋外交部：阿以雙邊關係並非建立在秘密之上，因此未經阿聯酋官方釋出的任何有關未經官宣的訪問或相關安排的說法，均毫無依據。"
-    },
-    {
-      "id": "mkt:019e2308-804a-7dd0-a6aa-f24250ebf2d5",
-      "time": "2026-05-14 04:29:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UAE DENIES REPORTS OF NETANYAHU'S VISIT TO THE UAE -FOREIGN MINISTRY"
-    },
-    {
-      "id": "mkt:019e2307-d823-7dd0-a6aa-e8963ac71127",
-      "time": "2026-05-14 04:28:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ARAGHCHI: ENMITY WITH THE GREAT PEOPLE OF IRAN IS A FOOLISH GAMBLE. COLLUSION WITH ISRAEL IN DOING SO: UNFORGIVABLE. THOSE COLLUDING WITH ISRAEL TO SOW DIVISION WILL BE HELD TO ACCOUNT"
-    },
-    {
-      "id": "mkt:019e2307-3baa-7dd0-a6aa-e44473286bbc",
-      "time": "2026-05-14 04:28:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IRANIAN FOREIGN MINISTER ARAGHCHI: NETANYAHU HAS NOW PUBLICLY REVEALED WHAT IRAN'S SECURITY SERVICES LONG AGO CONVEYED TO OUR LEADERSHIP"
-    },
-    {
-      "id": "4878626",
-      "time": "2026-05-14 04:28:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "阿聯酋外交部：阿聯酋與以色列的關係公開透明，雙方建交是在眾所周知且已公開簽署的《亞伯拉罕協議》 框架下達成的。"
     }
   ]
 }
