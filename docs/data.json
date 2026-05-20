@@ -1,7 +1,41 @@
 {
-  "updated": "2026-05-21 01:34:39",
-  "count": 15704,
+  "updated": "2026-05-21 01:38:28",
+  "count": 15702,
   "items": [
+    {
+      "id": "mkt:019e4676-bddf-7bb5-8186-970342d0b939",
+      "time": "2026-05-21 01:37:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "【Trump, Netanyahu Clash Over Iran Talks and War Exit Proposal】U.S. President Donald Trump and Israeli Prime Minister Benjamin Netanyahu held a tense call focused on a proposed framework aimed at preventing renewed conflict with Iran, according to sources cited by Israel’s Channel 12. Trump reportedly discussed a potential “letter of intent” involving the U.S. and Iran that could lead to ending the war and launching 30 days of additional negotiations on issues including the Strait of Hormuz and Iran’s nuclear program. Netanyahu reportedly expressed skepticism and urged continued military pressure on Iran. Arab mediators including Qatar, Pakistan, Saudi Arabia, Turkey and Egypt are said to be promoting a revised draft proposal, though sources said it remains unclear whether Iran would accept the terms."
+    },
+    {
+      "id": "mkt:019e4675-f084-7bb5-8186-88b135a3d0e9",
+      "time": "2026-05-21 01:36:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "PREPARATIONS UNDERWAY FOR ARAGHCHI’S US TRIP FOR UN MEETING: TV"
+    },
+    {
+      "id": "mkt:019e4674-a726-7bb5-8186-870aa7b450a4",
+      "time": "2026-05-21 01:35:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "TRUMP, NETANYAHU HELD TENSE CALL OVER IRAN POLICY - N12"
+    },
     {
       "id": "4891070",
       "time": "2026-05-21 01:31:45",
@@ -141310,48 +141344,6 @@
         "國際"
       ],
       "text": "美聯儲卡什卡里：移民及海關執法局突擊行動對地區經濟造成深遠影響。"
-    },
-    {
-      "id": "4878461",
-      "time": "2026-05-14 01:38:16",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "OpenAI、Meta因大模型偏見處理問題遭問詢。"
-    },
-    {
-      "id": "4878460",
-      "time": "2026-05-14 01:37:39",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲卡什卡里：不確定美聯儲的政策利率決定會對抵押貸款利率產生多大影響。"
-    },
-    {
-      "id": "4878459",
-      "time": "2026-05-14 01:37:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國首相斯塔默：本屆政府將終結辜負工薪階層的現有局面。我們將建設一個更強大、更公平的英國。"
-    },
-    {
-      "id": "4878458",
-      "time": "2026-05-14 01:36:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國參議員沃倫：美國應該尋求多方援助，以加大禁毒力度。"
-    },
-    {
-      "id": "4878454",
-      "time": "2026-05-14 01:35:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "【普京簽署命令更換俄烏邊境兩州州長】俄羅斯總統普京5月13日簽署命令，任命亞歷山大·舒瓦耶夫為別爾哥羅德州代理州長，任命伊戈爾·科瓦利丘克為布良斯克州代理州長。這兩個州都是俄烏邊境州。據報道，普京已接受別爾哥羅德州州長格拉德科夫與布良斯克州州長博戈馬茲的辭呈，兩人均系自願離任。（CCTV國際時訊）"
     }
   ]
 }
