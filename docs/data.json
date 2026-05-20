@@ -1,7 +1,100 @@
 {
-  "updated": "2026-05-20 12:54:04",
-  "count": 15610,
+  "updated": "2026-05-20 12:58:09",
+  "count": 15617,
   "items": [
+    {
+      "id": "4889453",
+      "time": "2026-05-20 12:57:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026非洲核能創新峰會呼籲加強投資推動能源轉型】2026非洲核能創新峰會19日在盧安達首都基加利開幕。與會人士表示，應完善融資機制和監管框架，加強區域協調，推動核能從政策討論轉化為可投資和推廣的專案。本屆峰會以“助力非洲未來：將核能願景轉化為可投資的現實”為主題。國際原子能機構總幹事格羅西在開幕式上說，能源安全是非洲發展的核心，目前該大陸仍有近6億人無法獲得電力供應。在氣候變化和能源依賴的背景下，核能是解決非洲能源挑戰的若干關鍵方案之一。他指出，非洲在全球核能擴張中正發揮越來越重要的作用，多個國家正在推進核能計劃，並對小型模組化反應堆表現出日益濃厚的興趣。"
+    },
+    {
+      "id": "mkt:019e43bd-b337-7cc9-b8d5-826e7128527c",
+      "time": "2026-05-20 12:56:01",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "CHINA'S XI, PUTIN BEGINS LARGE SCALE MEETING - CCTV"
+    },
+    {
+      "id": "te:economy:552128",
+      "time": "2026-05-20 12:55:56",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Netherlands",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Dutch April Inflation Confirmed at 2.8% — The annual inflation rate in the Netherlands edged higher to 2.8% in April 2026 from 2.7% in March, confirming preliminary estimates and marking the highest reading since late December. The uptick was mainly driven by stronger price increases in transport (6.2% vs 5.9%), amid surging fuel prices linked to Middle East tensions. Inflation also rose for alcoholic beverages and tobacco (2.2% vs 2.1%) and insurance and financial services (5.4% vs 5.0%). On the other hand, inflation slowed for food and non-alcoholic beverages (1.4% vs 2.0%), clothing and footwear (0.1% vs 1.3%), housing and utilities (3.3% vs 3.5%), and recreation and culture (1.6% vs 1.8%). Prices for household equipment and maintenance remained in deflation, easing further to -0.6% from -0.4%."
+    },
+    {
+      "id": "4889452",
+      "time": "2026-05-20 12:55:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "【習近平同俄羅斯總統普京大範圍會談】5月20日，國家主席習近平在北京人民大會堂同來華進行國事訪問的俄羅斯總統普京舉行大範圍會談。（央視新聞）"
+    },
+    {
+      "id": "te:markets:552127",
+      "time": "2026-05-20 12:55:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Palm Oil Rallies to a Two-Week High on Supply Concerns — Malaysian palm oil futures jumped almost 2% to above MYR 4,650 per tonne, extending recent gains to their highest level in two weeks. Sentiment was boosted by stronger edible oil prices on the Dalian and Chicago markets, alongside a weaker ringgit. Prices also drew support from reports that Indonesia, the top supplier, plans tighter oversight of commodity exports, including palm oil and coal, to boost state revenue. Supply concerns added momentum after rising input costs prompted Malaysian growers to scale back replanting, delaying a process vital for long-term output. Elevated vegetable oil prices have further discouraged replanting. However, upside was capped by weak demand signals. AmSpec Agri Malaysia estimated exports during May 1–15 fell 16.5% from April. Meanwhile, April imports by India, the largest consumer, dropped 26% from March to a four-month low, pressured by softer institutional demand and a narrowing price discount against rival oils."
+    },
+    {
+      "id": "4889451",
+      "time": "2026-05-20 12:54:56",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【英特爾陳立武：隨著AI從訓練轉向推理 CPU與GPU配比或可達4:1】在摩根大通第54屆全球科技、媒體與通訊年會上，英特爾公司CEO陳立武表示， Intel 18A已支援Panther Lake量產，良率每月提升約7%，超內部預期。Intel 14A的0.5 PDK已釋出，10月計劃向外部客戶推0.9 PDK ，團隊已著手10A、7A製程節點的長期規劃。隨著AI從訓練轉向推理，CPU在AI時代日益重要且不可或缺，CPU與GPU的配置比例從1:8向1:1靠攏，甚至可達4:1。目前正積極爭取ASIC業務，提供定製化方案。"
+    },
+    {
+      "id": "4889450",
+      "time": "2026-05-20 12:54:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度尼西亞總統：我們將加快棕櫚油制柴油的生產，目前正在評估棕櫚油制汽油的生產方案。"
+    },
+    {
+      "id": "4889449",
+      "time": "2026-05-20 12:54:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度尼西亞總統：我們將從煤炭中生產柴油與天然氣。"
+    },
+    {
+      "id": "mkt:019e43bc-042e-7cc9-b8d5-791ecc65eb4b",
+      "time": "2026-05-20 12:54:15",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "INDONESIA PRESIDENT: WE WILL PRODUCE DIESEL FUEL, GAS FROM COAL"
+    },
+    {
+      "id": "4889447",
+      "time": "2026-05-20 12:53:35",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "根據華泰柏瑞基金管理有限公司申請，上交所於2026年5月20日盤中即時起至收市暫停華泰柏瑞中證韓交所中韓半導體交易型開放式指數證券投資基金（QDII）（證券程式碼：513310）交易業務。"
+    },
     {
       "id": "4889446",
       "time": "2026-05-20 12:53:14",
@@ -140898,32 +140991,6 @@
         "其他"
       ],
       "text": "【雲南：“十五五”時期將發揮比較優勢 推動產業轉型升級 】5月13日，雲南省人民政府新聞辦公室舉行“開局起步‘十五五’”雲南專場新聞釋出會，圍繞“深化‘三個定位’建設 在中國式現代化程序中開創雲南發展新局面”介紹相關情況，並回答記者提問。雲南省委副書記、省長王予波介紹，“十五五”時期雲南將發揮比較優勢，推動產業轉型升級。（新華社）"
-    },
-    {
-      "id": "4876924",
-      "time": "2026-05-13 12:57:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【牛散扎堆新進股期末持股市值排名出爐】據資料寶統計，剔除高管持股後，有70多隻個股前十大流通股東榜出現兩個以上牛散新進持股且期末持股市值均超1億元。其中，百川股份、利通電子等個股均有5名個人投資者新進期末持股市值超過1億元；西部材料、松發股份、五礦新能等個股均有4名個人投資者新進期末持股市值超過1億元。從新進持股市值合計來看，牛散大倉位依舊在AI。具體來看，寒武紀、卓勝微、勝宏科技等個股牛散期末持股市值均超過20億元。"
-    },
-    {
-      "id": "4876923",
-      "time": "2026-05-13 12:57:35",
-      "tags": [
-        "行業",
-        "國際",
-        "原創"
-      ],
-      "text": "【韓國將從7月起實施電動汽車補貼評估體系】韓國氣候能源環境部週三表示，韓國將從7月起實施新的評估體系，向電動汽車製造商發放補貼，重點是促進其對國內供應鏈的貢獻。根據這一100分制的評分系統，韓國氣候能源環境部將評估電動汽車製造商對韓國產業供應鏈的貢獻、技術開發能力、對環境相關政策的響應、售後服務的可持續性以及安全管理，以確定這些公司是否可以獲得國家補貼。電動汽車製造商和進口商必須獲得至少60分才能獲得補貼資格。"
-    },
-    {
-      "id": "4876922",
-      "time": "2026-05-13 12:57:13",
-      "tags": [
-        "觀點"
-      ],
-      "text": "高盛將西門子能源的目標股價從185歐元上調至212歐元。"
     }
   ]
 }
