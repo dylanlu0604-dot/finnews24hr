@@ -1,7 +1,193 @@
 {
-  "updated": "2026-05-20 21:01:42",
-  "count": 15661,
+  "updated": "2026-05-20 21:06:36",
+  "count": 15677,
   "items": [
+    {
+      "id": "4890633",
+      "time": "2026-05-20 21:04:53",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "奈及利亞央行行長：得益於各項改革，中東局勢危機對奈及利亞經濟的影響基本有限。"
+    },
+    {
+      "id": "mkt:019e457c-3b5c-7cc9-95df-f6d8af234f63",
+      "time": "2026-05-20 21:03:49",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "CAI.O",
+        "Impact bullish",
+        "AMZN.O",
+        "MSFT.O"
+      ],
+      "text": "CAI: ANNOUNCES STRATEGIC PARTNERSHIPS WITH AMAZON WEB SERVICES & MICROSOFT"
+    },
+    {
+      "id": "4890629",
+      "time": "2026-05-20 21:03:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海未來產業基金擬參與投資3只子基金】5月20日，根據上海未來產業基金公示，基金投資決策委員會近期審議透過擬參與投資以下3只子基金：上海交雲智創創業投資合夥企業（有限合夥）、上海臨科智研創業投資合夥企業（有限合夥）（暫定名）、杭州藕舫青溪創業投資合夥企業（有限合夥）。"
+    },
+    {
+      "id": "mkt:019e457b-7605-7cc9-95df-ef48f4c8d611",
+      "time": "2026-05-20 21:02:59",
+      "tags": [
+        "MKT News",
+        "INTU.O",
+        "Impact bearish"
+      ],
+      "text": "INTUIT SHARES DOWN 2.4% PREMARKET; MEDIA REPORTS CO TO CUT 17% OF JOBS"
+    },
+    {
+      "id": "4890628",
+      "time": "2026-05-20 21:02:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美稱正繼續執行對伊海上封鎖 已迫使90艘船隻改道】當地時間5月20日，美國中央司令部表示，美軍正在繼續執行針對伊朗的海上封鎖行動。一架美國海軍陸戰隊AH-1Z“毒蛇”攻擊直升機當天在地區水域巡邏，並對一艘商業船隻進行監控。中央司令部稱，截至5月20日，美軍已迫使90艘船隻改道，並“癱瘓”4艘船隻，以確保各方遵守封鎖措施。（央視新聞）"
+    },
+    {
+      "id": "te:markets:552327",
+      "time": "2026-05-20 21:02:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Futures Edge Higher Amid Oil Retreat — Futures tracking the S&P/TSX Composite Index edged higher on Wednesday as progress in US-Iran negotiations helped offset lingering inflation concerns that continued to keep bond yields elevated. In ?the latest diplomacy, Pakistan’s interior minister arrived in Tehran, with Pakistan acting as a mediator and conveying messages between both sides after hosting peace talks last month. Oil prices retreated, although they remained above $100 per barrel. Canada’s April inflation data released yesterday came in below forecasts despite higher energy costs pushing headline inflation higher. The recent pullback in oil prices is set to to ease some pressure on banking stocks and the broader index. Meanwhile, gold prices edged higher, offering support to mining shares. Investors are also awaiting Nvidia’s earnings results later in the day, which will influence sentiment toward North-American tech stocks."
+    },
+    {
+      "id": "mkt:019e457a-6656-7cc9-95df-e4038d2c3c6a",
+      "time": "2026-05-20 21:01:49",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AI Revolution",
+        "ASML.AS",
+        "Impact bullish"
+      ],
+      "text": "【ASML CEO Says AI-Driven Chip Market to Remain Supply-Constrained】ASML CEO Christophe Fouquet said strong AI demand means semiconductors will remain a “supply-limited market” for an extended period, while sporadic chip-supply bottlenecks are still likely as the company ramps up capacity. Fouquet said ASML is developing a new packaging tool to expand future capabilities in that segment and expects first product data for next-generation High-NA technology on both logic and DRAM products later this year. He also said he discussed Elon Musk’s planned Terafab project and described Musk as “very serious.” Fouquet added that Europe’s AI Act should be reformed or removed to avoid “simplistic” rules constraining the technology supply chain, and said restrictions on selling chip-making tools to China should remain a “political decision” applied consistently."
+    },
+    {
+      "id": "4890627",
+      "time": "2026-05-20 21:01:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "奈及利亞維持關鍵利率在26.5%不變；預計為26.50%。"
+    },
+    {
+      "id": "4890626",
+      "time": "2026-05-20 21:01:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿斯麥執行長：下一代“高NA”技術的邏輯晶片與DRAM產品首批資料有望於今年晚些時候公佈。"
+    },
+    {
+      "id": "4890625",
+      "time": "2026-05-20 21:01:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿斯麥執行長表示，公司正在開發新型封裝裝置，以提升該製程環節的未來產能。"
+    },
+    {
+      "id": "4890624",
+      "time": "2026-05-20 21:01:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿斯麥執行長：已就規劃中的太拉晶圓廠專案與埃隆·馬斯克進行交談，稱馬斯克“態度十分認真”。"
+    },
+    {
+      "id": "4890623",
+      "time": "2026-05-20 21:01:11",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "阿斯麥執行長：歐盟《人工智慧法案》需改革調整，部分條款應予移除；必須避免會限制科技供應鏈的“簡單粗暴”規則。"
+    },
+    {
+      "id": "4890622",
+      "time": "2026-05-20 21:01:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿斯麥執行長：晶片供應鏈仍可能出現偶發性瓶頸，但公司正產能擴產。"
+    },
+    {
+      "id": "4890621",
+      "time": "2026-05-20 21:00:43",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "錫連續主力合約日內漲4%，現報422200.00元。"
+    },
+    {
+      "id": "4890620",
+      "time": "2026-05-20 21:00:43",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內漲2%，現報18537.00元。"
+    },
+    {
+      "id": "4890619",
+      "time": "2026-05-20 21:00:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【航行警告！渤海北部執行軍事任務】據中國海事局網站訊息，營口海事局釋出航行警告，5月21日3時至9時，渤海北部部分海域進行軍事演習，禁止駛入。"
+    },
+    {
+      "id": "4890618",
+      "time": "2026-05-20 21:00:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "貝索斯證實正考慮為藍色起源引入外部資金。"
+    },
+    {
+      "id": "4890617",
+      "time": "2026-05-20 21:00:13",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【德意志銀行：優步即將推出的自動駕駛汽車專案削弱了特斯拉和Waymo的主導論調】德意志銀行分析師在與優步代表交談後釋出的一份報告中表示，隨著優步即將商業化推出幾個自動駕駛汽車(AV)合作專案，看空優步自動駕駛汽車戰略的論調——即自動駕駛汽車市場將由特斯拉和Alphabet旗下的Waymo主導——正變得越來越站不住腳。兩個自動駕駛汽車合作專案（一個與亞馬遜的Zoox合作，另一個與Lucid和Nuro合作）將於今年推出，而另一個與英偉達的合作專案定於2027年推出。“我們認為，投資者將獲得越來越多的證據，證明美國的自動駕駛汽車供應不會成為僅由一兩個參與者主導的集中市場，”這些分析師表示。“我們認為，這些專案的推出（如果成功的話）可能是一個有意義的催化劑，有助於逐步消除目前優步股票中存在的自動駕駛汽車相關壓力。”"
+    },
+    {
+      "id": "4890616",
+      "time": "2026-05-20 21:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PVC連續主力合約日內跌1%，現報4942.00元。"
+    },
+    {
+      "id": "4890615",
+      "time": "2026-05-20 21:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國內期貨夜盤開盤】集運指數歐線期貨連續漲8.19%，錫連續漲3.61%，低硫燃料油連續跌2.61%，上海原油連續跌2.34%，燃料油連續跌2.31%。"
+    },
     {
       "id": "4890614",
       "time": "2026-05-20 20:59:46",
@@ -9,6 +195,14 @@
         "其他"
       ],
       "text": "貝索斯：認為太空開發全是科幻的人應當謹慎對待。"
+    },
+    {
+      "id": "4890613",
+      "time": "2026-05-20 20:58:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【股價臨近腰斬之際，HashKey官宣4000萬美元戰略投資】5月20日，港股上市的數字資產公司HashKey Holdings（3887.HK）（下稱HashKey）宣佈完成對加密資產衍生品交易平臺SignalPlus的4000萬美元投資，並達成全面戰略合作。此次大手筆風投，正值HashKey上市半年、市值臨近腰斬的關鍵節點。據悉，HashKey透過兩個主體出資，公司集團層面HashKey Group出資2000萬美元現金，旗下資產管理機構HashKey Capital管理的基金出資2000萬美元。（21財經）"
     },
     {
       "id": "te:markets:552326",
@@ -88,6 +282,14 @@
       "text": "【蔡崇信吳泳銘致股東信：努力將AI+雲打造成阿里巴巴又一個增長動力】2026年5月20日，阿里巴巴集團主席蔡崇信和執行長吳泳銘聯合釋出致股東信。信中稱，阿里AI業務已跨越初期投入階段，正式邁入商業化回報週期。“依託人才、技術和資源積累，我們對把握時代機遇充滿信心，努力將AI+雲打造成阿里巴巴的又一個增長動力。為了實現這一願景，我們正在加大對全棧AI能力的投資力度：我們將持續加大AI基礎設施建設和自研晶片的投入；在模型和應用層面，我們將投資打造更強大的基礎模型能力，吸引更多應用接入，同時打造更強大的MaaS產品，來更高效地實現模型與應用的連線。”"
     },
     {
+      "id": "4890604",
+      "time": "2026-05-20 20:55:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST高科：擬780萬元投資設立控股孫公司】*ST高科公告稱，公司全資子公司高科智鏈擬與上海晨啟共同投資1200萬元設立高科晨啟教育科技有限公司，高科智鏈認繳780萬元，佔股65%。該公司定位為教育諮詢服務平臺，從事海外院校合作等業務。本次投資不構成關聯交易和重大資產重組，已獲董事會審議透過。過去12個月內，公司累計對外投資金額達最近一年經審計淨資產的10%但未超50%。本次投資尚需備案登記，存在實施進度和經營的不確定性。"
+    },
+    {
       "id": "mkt:019e4575-23d5-7cc9-95df-db4b63fc0627",
       "time": "2026-05-20 20:55:28",
       "tags": [
@@ -106,12 +308,28 @@
       "text": "貝索斯：我們正致力於用月球風化層——即月球表面的塵土——製造太陽能電池。"
     },
     {
+      "id": "4890602",
+      "time": "2026-05-20 20:55:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【3.2億元底價成交，江蘇國資拍下東海證券4.47%股權】“東吳+東海”併購之際，東海證券8300萬股股權在二次拍賣中以3.2億元底價成交。近日，阿里資產拍賣平臺顯示，首譽光控資管-浙商銀行-首譽光控東海證券1號新浙專項資產管理計劃持有的東海證券股份有限公司（下稱“東海證券”，832970）8300萬股無限售流通股在4月22日首次拍賣流拍後，已於5月13日完成第二次司法拍賣。（澎湃）"
+    },
+    {
       "id": "4890601",
       "time": "2026-05-20 20:54:48",
       "tags": [
         "國際"
       ],
       "text": "【伊朗最高領袖說伊朗人民正在進行“歷史性抵抗”】伊朗最高領袖穆傑塔巴20日說，伊朗人民正在進行“前所未有的歷史性抵抗”，伊朗官員在維護國家獨立和應對當前挑戰中應承擔起更大責任。 當天，穆傑塔巴就伊朗前總統萊希遇難兩週年發表書面講話。穆傑塔巴在講話中提及萊希等多名遇難的伊朗政界人士，稱他們是真誠服務國家與人民的代表。他說，伊朗官員應繼續秉持“服務人民”理念。 穆傑塔巴還表示，在面對“兩支全球恐怖主義軍隊”的當下，伊朗人民正在進行“前所未有的歷史性抵抗”，伊朗官員應承擔起更大責任，進一步加強政府與民眾團結，重點解決好經濟和民生問題。(新華社)"
+    },
+    {
+      "id": "4890600",
+      "time": "2026-05-20 20:54:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：美國正提供價值1億美元的食品與藥品援助，且這批物資僅可透過天主教會或其他慈善組織分發；將古巴當前的電力、食品和燃料短缺歸咎於古方領導層。"
     },
     {
       "id": "4890599",
@@ -141054,71 +141272,6 @@
         "國際"
       ],
       "text": "市場訊息：俄羅斯國家透過一項法案，提議取消有犯罪記錄移民的俄羅斯公民身份。"
-    },
-    {
-      "id": "4878047",
-      "time": "2026-05-13 21:05:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "【騰訊：下半年AI相關的資本支出會進一步增加】騰訊高層在業績會上表示：“我們在AI相關服務的需求在持續增長，今年這一塊的資本支出相比去年會有所增加，特別是在下半年。我們會有更多國產晶片陸續投入使用，每年年月都會有提升。”(科創板日報)"
-    },
-    {
-      "id": "4878046",
-      "time": "2026-05-13 21:05:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防軍總司令：以色列國防軍已做好必要時恢復戰鬥的準備。"
-    },
-    {
-      "id": "4878045",
-      "time": "2026-05-13 21:04:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "英偉達與 IneffABLE 達成工程級深度合作。"
-    },
-    {
-      "id": "4878044",
-      "time": "2026-05-13 21:04:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：蘋果與谷歌補齊簡訊安全漏洞，iOS 26.5 正式為安卓與iPhone之間的互通對話，上線端到端加密RCS簡訊功能。"
-    },
-    {
-      "id": "4878043",
-      "time": "2026-05-13 21:03:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "【派斯林：2025年營收8.82億元 淨虧損3.48億元】派斯林公告稱，2025年公司實現營業收入8.82億元，同比降低51.62%；歸母淨利潤淨虧損3.48億元，同比降低651.08%。年末總資產38.19億元，同比增長6.58%；淨資產25.23億元，同比增長26.14%；資產負債率33.95%，同比降低10.24個百分點。因淨利潤為負，2025年度擬不進行利潤分配、不實施資本公積金轉增股本。此外，公司擬在2026年為子公司和控股股東分別提供不超2.00億元、2.50億元的擔保額度。"
-    },
-    {
-      "id": "4878042",
-      "time": "2026-05-13 21:02:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "法國最高行政法院：宣佈駁回亞馬遜針對圖書最低配送費規則提起的訴訟。"
-    },
-    {
-      "id": "4878041",
-      "time": "2026-05-13 21:02:30",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "亞馬遜：與美國合眾銀行及萬事達卡聯合推出Prime商務卡與亞馬遜商務卡。"
-    },
-    {
-      "id": "4878040",
-      "time": "2026-05-13 21:02:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "Workday：整合於微軟 365 Copilot 的 SANA 自助智慧助手。"
     }
   ]
 }
