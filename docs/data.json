@@ -1,7 +1,144 @@
 {
-  "updated": "2026-05-20 11:40:51",
-  "count": 15567,
+  "updated": "2026-05-20 11:44:52",
+  "count": 15574,
   "items": [
+    {
+      "id": "4889349",
+      "time": "2026-05-20 11:44:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "安科生物公告，聘任袁春為公司聯席CEO兼首席商務官。"
+    },
+    {
+      "id": "4889348",
+      "time": "2026-05-20 11:44:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【西點藥業：子公司維生素B6注射液獲得藥品註冊證書】西點藥業公告，控股子公司吉林省雙勝豐藥業有限責任公司於近日收到國家藥品監督管理局簽發的維生素B6注射液《藥品註冊證書》。該產品適用於維生素B6缺乏的預防和治療；防治異煙肼中毒。也可用於妊娠、放射病及抗癌藥所致的嘔吐，脂溢性皮炎等；全胃腸道外營養及因攝入不足所致營養不良、進行性體重下降時維生素B6的補充；新生兒遺傳性維生素 B6依賴綜合徵。"
+    },
+    {
+      "id": "mkt:019e437b-8df9-7cc9-b8d4-cfacb3243084",
+      "time": "2026-05-20 11:43:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "CHINA'S XI, TO PUTIN: THE WORLD IS IN DANGER OF REVERSING INTO THE LAW OF THE JUNGLE - CHINESE STATE MEDIA"
+    },
+    {
+      "id": "4889347",
+      "time": "2026-05-20 11:43:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼總統：如果按照憲法進行管理，印尼的自然資源足以保障所有印尼人民的福祉。"
+    },
+    {
+      "id": "mkt:019e437a-f799-7cc9-b8d4-c2972988b1c3",
+      "time": "2026-05-20 11:43:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH",
+        "Impact bullish",
+        "Copper",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "CHINA COMMERCE MINISTRY: FOR PRODUCTS OF MUTUAL CONCERN AGREED UPON BY BOTH SIDES, MOST-FAVORED-NATION TARIFF RATES OR EVEN LOWER ARE EXPECTED"
+    },
+    {
+      "id": "4889346",
+      "time": "2026-05-20 11:42:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【平頭哥AI晶片真武M890首次亮相 效能提升至3倍】在2026阿里雲峰會上，平頭哥新一代訓推一體AI晶片真武M890首次亮相，該晶片內建144GB視訊記憶體，片間互聯頻寬達到800GB/s，效能是真武810E的3倍，原生支援FP32到FP4等多種資料精度，可應用於高精度訓練、低精度和超低精度推理的全場景。配合自研ICN Switch1.0晶片，可實現64卡全頻寬互聯，提升大規模智算叢集計算的效率與穩定性。這是面向Agentic時代全面升級的重要部分，當天阿里雲推出了全新“芯-雲-模型-推理”技術體系。"
+    },
+    {
+      "id": "mkt:019e437a-a977-7cc9-b8d4-ba703101d55d",
+      "time": "2026-05-20 11:42:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "CHINA COMMERCE MINISTRY: BOTH SIDES AGREED IN PRINCIPLE TO DISCUSS FRAMEWORK ARRANGEMENT FOR RECIPROCAL TARIFF REDUCTIONS ON PRODUCTS OF EQUAL SIZE UNDER THE TRADE COUNCIL"
+    },
+    {
+      "id": "mkt:019e437a-395a-7cc9-b8d4-b0610d59e4ee",
+      "time": "2026-05-20 11:42:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "S&P500",
+        "Impact bullish",
+        "CNH",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "CHINA COMMERCE MINISTRY: HOPE U.S. WILL FURTHER ELIMINATE UNILATERAL TARIFFS ON CHINA IN FUTURE TALKS"
+    },
+    {
+      "id": "4889345",
+      "time": "2026-05-20 11:41:12",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "韓國勞動部：現在談論三星勞資糾紛的緊急仲裁還為時過早，現在還有對話空間。"
+    },
+    {
+      "id": "mkt:019e4378-b169-7cc9-b8d4-ade7af38d713",
+      "time": "2026-05-20 11:40:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH"
+      ],
+      "text": "CHINA FINANCE MINISTRY AUCTIONS 6-MONTH BILLS AT 0.9916 PCT YIELD - TRADERS CHINA FINANCE MINISTRY AUCTIONS 3-MONTH BILLS AT 0.9287 PCT YIELD - TRADERS"
+    },
+    {
+      "id": "4889344",
+      "time": "2026-05-20 11:40:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "截至5月16日當週，日本原油庫存為899萬千升。"
+    },
+    {
+      "id": "mkt:019e4378-60f7-7cc9-b8d4-a34150c0eba9",
+      "time": "2026-05-20 11:40:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "JAPAN MAY INTRODUCE NEW JGBS TARGETING RETAIL BUYERS, SOURCES SAY NEW PRODUCTS COULD INCLUDE INFLATION-LINKED BONDS, SUPER-LONG JGBS, SOURCES SAY"
+    },
+    {
+      "id": "4889343",
+      "time": "2026-05-20 11:40:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "截至5月16日當週，日本煉油廠開工率為80.3%。"
+    },
     {
       "id": "mkt:019e4378-14f8-7cc9-b8d4-9ffade73922a",
       "time": "2026-05-20 11:40:00",
@@ -140464,68 +140601,6 @@
         "觀點"
       ],
       "text": "摩根大通：布卡特接替艾揚格擔任併購全球主管。"
-    },
-    {
-      "id": "4876853",
-      "time": "2026-05-13 11:44:41",
-      "tags": [
-        "觀點"
-      ],
-      "text": "市場訊息：摩根大通計劃重組投資銀行高管團隊。"
-    },
-    {
-      "id": "te:markets:550191",
-      "time": "2026-05-13 11:44:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Singapore",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Singapore Stocks Hover at 3-Week High — Singapore’s benchmark index rose 38 points or 0.8% to 4,985 on Wednesday, extending gains for a third session and reaching a three-week peak. Optimism was lifted by April’s forex reserves, which hit a four-year high at SGD 544 billion. Meanwhile, anticipation grew over President Trump’s state visit to China from Wednesday to Friday, his first since 2017, raising hopes for a reset in Sino-U.S. ties. However, upside was capped by expectations of softer tourism spending this year, as Middle East conflicts threaten consumer and business mood. On the policy front, the central bank tightened monetary settings in April, warning that an Iran war-driven energy shock could stoke core inflation, even as Singapore rolled out a support package to cushion the blow. Gains were led by process industries, industrial services, and utilities, offset by weakness in consumer non-durables and retail trade. Notable movers included DBS Group (0.7%), OCBC (1.7%), Singtel (1.1%), and Wilmar Intl. (2.7%)."
-    },
-    {
-      "id": "mkt:019e1f6e-4d80-7553-b25e-cbbb2ff26f62",
-      "time": "2026-05-13 11:43:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CHINA FINANCE MINISTRY AUCTIONS 20-YEAR ULTRA-LONG SPECIAL TREASURY BONDS AT 2.2496 PCT YIELD - TRADERS"
-    },
-    {
-      "id": "te:economy:550189",
-      "time": "2026-05-13 11:42:26",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Australia 10Y Yield Holds Above 5% — Australia’s 10-year government bond yield held above 5%, moving near multi-decade highs as markets weighed the government’s 2027 fiscal budget and issuance plans. Bond issuance for the coming year was set at A$125 billion, coming in below expectations and only marginally higher than the current fiscal year. With improved fiscal settings and relatively low public debt by international standards reinforcing Australia’s AAA sovereign rating, the debt market may attract greater foreign investment. However, the budget does little to ease inflation pressures, keeping the door open to further central bank tightening. Latest data also had limited impact, with wage growth coming in as expected in the first quarter while the annual pace eased slightly but remained consistent with persistent labor cost pressures, signaling ongoing inflation resilience. Markets still price around a 20% chance of a June hike to 4.35%, with expectations for an August move to 4.60% edging above 80%."
-    },
-    {
-      "id": "mkt:019e1f6d-961e-7553-b25e-c2678404ceea",
-      "time": "2026-05-13 11:42:11",
-      "tags": [
-        "MKT News",
-        "Important",
-        "S&P500",
-        "Impact mixed",
-        "CNH",
-        "DXY"
-      ],
-      "text": "CHINA-US TRADE TALKS KICK OFF IN SEOUL"
-    },
-    {
-      "id": "4876852",
-      "time": "2026-05-13 11:41:40",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【中美經貿磋商在韓國開始舉行】當地時間5月13日中午，中美兩國經貿團隊在韓國首爾仁川國際機場開始舉行中美經貿磋商。(新華社)"
     }
   ]
 }
