@@ -1,7 +1,23 @@
 {
-  "updated": "2026-05-20 07:56:45",
-  "count": 15545,
+  "updated": "2026-05-20 08:00:42",
+  "count": 15540,
   "items": [
+    {
+      "id": "4888997",
+      "time": "2026-05-20 07:58:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【農商銀行密集下調存款利率】近日，多地農村商業銀行開啟新的一波存款利率調降潮。進入5月份以來，山西、廣東、內蒙古等多地農商銀行下調存款利率，此次調整存款產品的期限覆蓋面廣，下調幅度高達35個基點，調降後多家銀行一年期、二年期、三年期等期限的存款利率基本進入“1”字頭。農商銀行這波降息之所以密集，業內人士表示，此輪降息主要是淨息差承壓、負債成本高企、監管導向等因素疊加驅動。一是資產端收益下行，貸款市場報價利率（LPR）持續走低帶動貸款利率下行，而存款成本剛性強，淨息差收窄至歷史低位。二是負債結構失衡，農商銀行高度依賴定期存款，長期高息負債佔比高，成本壓力顯著大於大行。此外，監管引導壓降長期限、高成本負債，鼓勵精細化定價，避免無序競爭，推動負債結構最佳化。（經濟日報）"
+    },
+    {
+      "id": "4888996",
+      "time": "2026-05-20 07:57:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "【機構：澳大利亞鈾礦股獲看多 受市場供應擔憂影響】Morgans分析師Chris Creech表示，現在是“你的盤子裡該來點黃餅的時候了“。該券商首次覆蓋澳大利亞的Paladin Energy、Boss Energy和NexGen Energy，均給予買入評級。Creech表示，經過數十年的投資不足，鈾市場目前受到結構性限制。他說，與此同時，在脫碳壓力、能源安全擔憂和AI驅動的電力增長背景下，“核能正成為唯一可擴充套件的零碳基荷選擇“。Morgans將PALADIN的目標價定為13.05澳元，該股週二收於10.63澳元。其對Boss的目標價為1.55澳元，而收盤價為1.26澳元。其將NexGen的目標價定為20.80澳元，該股最新報15.52澳元。"
+    },
     {
       "id": "4888995",
       "time": "2026-05-20 07:55:21",
@@ -140302,74 +140318,6 @@
         "國際"
       ],
       "text": "日本央行週三表示，4月銀行放款餘額較上年同期增長5.4%。包括“信金”銀行在內的四大類銀行放款總額為670.647萬億日元(4.26萬億美元)。"
-    },
-    {
-      "id": "4876019",
-      "time": "2026-05-13 08:00:38",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數（KOSPI）開盤下跌1.7%，至7513.65點。"
-    },
-    {
-      "id": "4876018",
-      "time": "2026-05-13 08:00:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經225指數上午開盤報62398.02點，跌幅0.55%。"
-    },
-    {
-      "id": "4876017",
-      "time": "2026-05-13 07:59:52",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "【中信證券：建議持續重點關注鋰、銅、稀土、戰略金屬、鋁、黃金板塊配置機會】中信證券研報稱，2025年和2026年一季度，金屬行業業績增長普遍提速，鎢、鋰、鉛鋅、稀土磁材領漲，鋁、銅、鎳鈷錫銻、黃金年初以來表現偏弱。當前金屬板塊估值仍處合理水平，鋁、銅、鎳鈷錫銻、黃金估值處於相對低位，估值回升仍然可期。行業分紅略有回落，但部分個股預測股息率仍達5%以上。展望2026年，流動性衝擊緩和、供應擾動頻發、個別下游領域延續較高景氣，建議持續重點關注鋰、銅、稀土、戰略金屬、鋁、黃金板塊配置機會。"
-    },
-    {
-      "id": "te:markets:550109",
-      "time": "2026-05-13 07:59:31",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Futures Edge Lower Ahead of PPI Release — US stock futures moved lower on Wednesday as investors awaited the latest producer inflation data for additional clues on the economic impact of the ongoing Middle East conflict. During Tuesday’s regular session, the S&P 500 and Nasdaq Composite declined 0.16% and 0.71%, respectively, while the Dow Jones added 0.11%. Sentiment was pressured by weakness in technology shares and rising oil prices as President Donald Trump cast doubt on the sustainability of the US-Iran ceasefire after rejecting Tehran’s counterproposal to end the war. Economic data released Tuesday also showed US consumer inflation accelerated to 3.8% in April, above expectations of 3.7% and the highest level since May 2023. Investors are now turning their attention to another round of corporate earnings due Wednesday, including results from Nebius, Allianz, and Alibaba, among others."
-    },
-    {
-      "id": "4876016",
-      "time": "2026-05-13 07:58:49",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【中信證券：保險行業大週期向好，正處於今年最佳佈局時間視窗】中信證券研報稱，嚴監管反內卷下渠道向頭部公司加速集中，大型保險公司核心競爭力體現在長期投資能力和持續升級全場景、境內外一體化的服務能力，我們預計行業競爭格局或將進一步寡頭化。我們維持行業總體處於重大機遇期的判斷，短期利潤波動帶來佈局機會，建議積極把握2026年二季度股市向上帶來的貝塔機會。"
-    },
-    {
-      "id": "4876015",
-      "time": "2026-05-13 07:58:34",
-      "tags": [
-        "市場",
-        "國際",
-        "原創"
-      ],
-      "text": "【機構：油價飆升推動全球電動汽車需求連續兩個月增長】諮詢機構Benchmark Mineral Intelligence（BMI）週三公佈的資料顯示，由於高企的汽油價格持續推動消費者轉向電動汽車，4月份全球電動汽車需求連續第二個月增長。BMI表示，4月份全球新註冊的純電動汽車和插電式混合動力汽車數量同比增長6%，達到160萬輛，儘管較3月份創下的月度最高紀錄下降了9%。BMI在一份宣告中表示：“政策激勵、汽油價格上漲以及中國車企影響力的不斷提升，持續支撐著市場需求。”"
-    },
-    {
-      "id": "4876014",
-      "time": "2026-05-13 07:57:55",
-      "tags": [
-        "公司",
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "【中信證券：美國二次通脹風險較小 基準情形下仍預計美聯儲年內降息25bps】中信證券研報稱，我們認為美國二次通脹風險較小，但高油價將掣肘年內通脹率的回落空間，基準情形下仍預計美聯儲年內降息25bps。美債目前更適合交易型機會，美股在強勁的財報季接近收官後需留意資金獲利了結的短期風險，美元指數可能在100以下偏弱震盪但非持續下行。"
     }
   ]
 }
