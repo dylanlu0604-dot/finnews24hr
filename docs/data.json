@@ -1,7 +1,97 @@
 {
-  "updated": "2026-05-21 09:52:19",
-  "count": 15893,
+  "updated": "2026-05-21 09:56:21",
+  "count": 15894,
   "items": [
+    {
+      "id": "te:markets:552511",
+      "time": "2026-05-21 09:55:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "US Natgas Prices Rebound — US natural gas futures rose to $3.03 per MMBtu on Thursday after falling 3.5% in the previous session as the intense heat affecting the Mid-Atlantic region is expected to subside. Milder weather conditions are forecast through the long Memorial Day holiday weekend and over the next week, which is likely to curb gas demand following unusually high temperatures earlier this week. In addition, flows to major US LNG export facilities have declined from a monthly record of 18.8 bcfd in April to around 17.0 bcfd so far in May, amid seasonal maintenance at plants including Golden Pass and Freeport LNG. Market participants now await the storage report, which is expected to show a near-normal injection of 96 Bcf for the past week. In other developments, three US LNG vessels are reportedly scheduled to arrive in China in June, the first such shipments since February 2025."
+    },
+    {
+      "id": "4891627",
+      "time": "2026-05-21 09:55:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "機器人概念股反覆活躍，北投科技反包漲停，昊志機電漲超10%，科森科技、信邦智慧、福萊新材、浙江榮泰漲幅居前。"
+    },
+    {
+      "id": "mkt:019e483e-2771-777f-8614-9c7bda6ccb38",
+      "time": "2026-05-21 09:54:53",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "BIDU.O",
+        "Impact bearish"
+      ],
+      "text": "BAIDU DOWN OVER 3%"
+    },
+    {
+      "id": "4891626",
+      "time": "2026-05-21 09:54:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳元兌美元AUD/USD日內走低0.50%，現報0.7113。"
+    },
+    {
+      "id": "4891625",
+      "time": "2026-05-21 09:54:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "【工業氣體概念股震盪下挫 華特氣體跌超5%】工業氣體概念股震盪下挫，華特氣體跌超5%，廣鋼氣體、金宏氣體、和遠氣體等股下跌。"
+    },
+    {
+      "id": "4891624",
+      "time": "2026-05-21 09:54:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【劉強東投資1億在大連成立遊艇公司】天眼查App顯示，近日，大連探海遊艇有限公司成立，法定代表人為張然，註冊資本1億人民幣，經營範圍包括娛樂船和運動船製造、船用配套裝置製造、船舶銷售等，由劉強東創立的遊艇獨立品牌Sea Expandary關聯公司深圳市探海遊艇產業發展有限公司全資持股。 據媒體報道，今年3月，由劉強東作為投資人的深圳市探海遊艇產業發展有限公司與大連市政府簽署戰略合作協議，總投資150億元的探海遊艇製造基地與遊艇運營兩個專案正式落戶大連。"
+    },
+    {
+      "id": "4891623",
+      "time": "2026-05-21 09:53:24",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行小枝淳子：銀行應逐步規範資產負債表。"
+    },
+    {
+      "id": "4891622",
+      "time": "2026-05-21 09:52:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【氣候轉型亞洲：碳價若觸及242元，鋁冶煉碳成本2030年或翻三倍】5月21日，在第三屆中國綠色鋁業峰會上，氣候轉型亞洲中國總幹事王立指出，當碳價上升至242元/噸二氧化碳時，到2030年鋁冶煉廠的碳成本可能突破600元/噸鋁，相當於當前政策情景下的三倍。"
+    },
+    {
+      "id": "4891621",
+      "time": "2026-05-21 09:52:37",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【綠電概念震盪反彈 立新能源直線漲停】早盤綠電概念震盪反彈，立新能源直線漲停，江蘇新能、韶能股份、黔源電力、廣西能源、太陽能跟漲。"
+    },
+    {
+      "id": "4891620",
+      "time": "2026-05-21 09:51:54",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本東證指數延續漲勢，最新上漲2.21%，報3875.46點。"
+    },
     {
       "id": "mkt:019e4839-f19b-777f-8614-975747c44b3c",
       "time": "2026-05-21 09:50:17",
@@ -142976,90 +143066,6 @@
         "焦點"
       ],
       "text": "ST京藍盤中跌停，上演“天地板”，現報6.23元，成交額4.27億元。"
-    },
-    {
-      "id": "4878917",
-      "time": "2026-05-14 09:55:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "【銀行板塊震盪上揚，青島銀行等股漲超1%】銀行板塊震盪上揚，青島銀行、滬農商行、建設銀行、江蘇銀行、重慶銀行等股漲超1%。"
-    },
-    {
-      "id": "4878916",
-      "time": "2026-05-14 09:55:36",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "中證1000股指期貨(IM)主力合約日內跌超1%，現報8766.0點。"
-    },
-    {
-      "id": "4878915",
-      "time": "2026-05-14 09:55:35",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內跌幅達1.06%，成分股中，生益電子跌4.58%，國博電子跌3.70%，龍芯中科跌3.70%，三一重能跌3.59%。"
-    },
-    {
-      "id": "mkt:019e2432-047c-777f-be59-ff84a4125252",
-      "time": "2026-05-14 09:55:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "SHFE'S MOST ACTIVE FREIGHT INDEX (EUROPE ROUTE) FUTURES DOWN OVER 3%"
-    },
-    {
-      "id": "mkt:019e2431-b4e0-777f-be59-f6db0552c0c0",
-      "time": "2026-05-14 09:54:57",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "SZSE Component"
-      ],
-      "text": "TURNOVER ON SSE AND SZSE EXCEEDED 1TN YUAN, UP 170.3BN YUAN FROM THE SAME TIME YESTERDAY"
-    },
-    {
-      "id": "4878914",
-      "time": "2026-05-14 09:54:41",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【商業航天板塊短線走低，眾合科技觸及跌停】商業航天板塊短線走低，眾合科技觸及跌停，電科藍天、神劍股份、巨力索具、航天動力紛紛下挫。"
-    },
-    {
-      "id": "4878913",
-      "time": "2026-05-14 09:54:37",
-      "tags": [
-        "央行",
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【韓國政府警告外匯市場過度波動日益加劇】韓國財政部週四釋出宣告稱，與韓國經濟基本面相比，外匯市場過度波動日益加劇，主要原因是外國投資者拋售韓國股票，以及海外投機交易增加。韓國財政部長具潤哲、央行行長申鉉松以及金融監管機構負責人週四開會，評估金融市場狀況。官員們預計，一旦中東戰爭等外部風險消退，外匯市場將迅速趨於穩定。韓國創紀錄的經常賬戶順差以及被納入富時世界國債指數等因素，為市場穩定創造有利條件。官員們還表示，三星電子可能發生的罷工將對經濟增長、出口和金融市場構成重大風險，強調應透過對話解決這一問題。"
-    },
-    {
-      "id": "4878912",
-      "time": "2026-05-14 09:54:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "北證50日內跌幅達1.00%，成分股中，戈碧迦跌4.33%，則成電子跌3.83%，萬達軸承跌3.56%，天力複合跌3.44%。"
-    },
-    {
-      "id": "4878911",
-      "time": "2026-05-14 09:53:14",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "集運指數歐線期貨主力合約跌幅達3%，報2467點。"
     }
   ]
 }
