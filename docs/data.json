@@ -1,7 +1,174 @@
 {
-  "updated": "2026-05-21 15:13:30",
-  "count": 15867,
+  "updated": "2026-05-21 15:17:45",
+  "count": 15866,
   "items": [
+    {
+      "id": "4892090",
+      "time": "2026-05-21 15:16:24",
+      "tags": [
+        "行業"
+      ],
+      "text": "【乘聯分會崔東樹：4月我國動力和其它電池合計產量為184GWh，同比增長34%】5月21日，乘聯分會秘書長崔東樹發文表示，4月，我國動力和其它電池合計產量為184GWh，同比增長34%；1-4月，我國動力和其它電池合計產量為671GWh，同比增長28%。今年電池增速從69%以上降到28%，由於動力電池需求低迷，電池供需應逐步改善。2026年4月動力電池的產量中裝車的比例下降到34%，其中三元電池裝車率36%，磷酸鐵鋰裝車率33%。動力電池裝車景氣度達到歷史低位，出口成為電池影響的主要因素。"
+    },
+    {
+      "id": "te:markets:552603",
+      "time": "2026-05-21 15:16:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Shangai Composite Index Closes 2.01% Lower — The Shangai Composite Index dropped 84 points or 2.01 percent on Thursday to close at 4079 points. Losses were led by Datang Intl (-5.70%), China Fortune (-5.22%) and Yonyou Soft (-4.81%)."
+    },
+    {
+      "id": "mkt:019e4964-540a-7ee7-b68f-fe3e7098d9df",
+      "time": "2026-05-21 15:16:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH",
+        "Impact bullish",
+        "S&P500",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "CHINA COMMERCE MINISTRY: CHINA AND U.S. SHOULD CREATE FAVORABLE CONDITIONS FOR TWO-WAY AGRICULTURAL TRADE AND EXPAND FARM TRADE COOPERATION"
+    },
+    {
+      "id": "mkt:019e4963-c7bc-7ee7-b68f-f3c2f0c731fb",
+      "time": "2026-05-21 15:15:24",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "IRAN REBUILDING MILITARY INDUSTRIAL BASE FASTER THAN EXPECTED, ALREADY PRODUCING DRONES, ACCORDING TO US INTEL - CNN"
+    },
+    {
+      "id": "4892089",
+      "time": "2026-05-21 15:15:18",
+      "tags": [
+        "資料"
+      ],
+      "text": "法國5月製造業PMI初值 48.9，預期 52.1，前值 52.8。\n法國5月綜合PMI初值 43.5，預期 47.7，前值 47.6。\n法國5月服務業PMI初值 42.9，預期 46.7，前值 46.5。"
+    },
+    {
+      "id": "mkt:019e4963-8fda-7ee7-b68f-ed91938269df",
+      "time": "2026-05-21 15:15:13",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA CORP: BERNSTEIN RAISES TARGET PRICE TO $315 FROM $300"
+    },
+    {
+      "id": "4892088",
+      "time": "2026-05-21 15:15:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨收盤】 30年期主力合約跌0.19%， 10年期主力合約跌0.13%， 5年期主力合約跌0.07%， 2年期主力合約跌0.02%。"
+    },
+    {
+      "id": "mkt:019e4963-498f-7ee7-b68f-e4df1997b1c6",
+      "time": "2026-05-21 15:15:01",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact mixed"
+      ],
+      "text": "CHINA FOREIGN MINISTRY, ON US-CUBA TENSIONS: US NEEDS TO STOP THREATENING CUBA WITH FORCE"
+    },
+    {
+      "id": "mkt:019e4963-498e-7ee7-b68f-de2b091fae77",
+      "time": "2026-05-21 15:15:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "France | Services PMI Flash (May) | actual 42.9 | consensus 46.6 | previous 46.5"
+    },
+    {
+      "id": "mkt:019e4963-498d-7ee7-b68f-d14299c67da7",
+      "time": "2026-05-21 15:15:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "France | Manufacturing PMI Flash (May) | actual 48.9 | consensus 52.2 | previous 52.8"
+    },
+    {
+      "id": "mkt:019e4963-498c-7ee7-b68f-c8b9724cdc59",
+      "time": "2026-05-21 15:15:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "France | Composite PMI Flash (May) | actual 43.5 | consensus 47.7 | previous 47.6"
+    },
+    {
+      "id": "4892087",
+      "time": "2026-05-21 15:14:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "香港國際機場4月客運量同比增長9.4%。"
+    },
+    {
+      "id": "4892086",
+      "time": "2026-05-21 15:14:54",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【商務部：中美雙方應為雙向農產品貿易創造有利條件 推動恢復並不斷拓展農產品貿易合作】商務部新聞發言人何亞東21日在例行新聞釋出會上，回答有關中國採購美國農產品的相關問題時表示，農產品貿易是中美經貿合作的重要組成部分。經過近期經貿磋商，中美就推動解決雙方部分農產品非關稅壁壘和市場準入問題達成一系列積極共識，並原則同意將相關產品納入對等降稅框架安排，同時還設定了擴大農產品雙向貿易的指導性目標。雙方應為雙向農產品貿易創造有利條件，推動恢復並不斷拓展農產品領域貿易合作。（新華社）"
+    },
+    {
+      "id": "4892085",
+      "time": "2026-05-21 15:14:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "港股半導體板塊震盪走低，納芯微(02676.HK)跌超7%，華虹半導體(01347.HK)跌超5%，英諾賽科(02577.HK)、天數智芯(09903.HK)等跟跌。"
+    },
+    {
+      "id": "4892084",
+      "time": "2026-05-21 15:14:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國情報顯示，伊朗重建軍工基礎的速度快於預期，且已開始生產無人機。"
+    },
+    {
+      "id": "4892083",
+      "time": "2026-05-21 15:14:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "【渣打銀行預計印度 6 月加息以提振市場情緒】渣打銀行預計印度將於 6 月上調基準利率，以此支撐盧比匯率，並遏制通脹產生的次生影響。該行經濟學家阿努布提・薩海與蘇拉夫・阿南德在研報中調整逆回購利率預期，放棄此前維持利率不變的判斷，預計本財年累計加息 50 個基點，利率升至 5.75%。此番調整源於機構上調本財年通脹預期，同時印度盧比貶值壓力持續加大。50 個基點加息將均分至 6 月與 8 月落地；若 6 月暫緩加息，則 8 月一次性加息 50 個基點。若大宗商品價格持續承壓、盧比走弱導致通脹超預期，2027 財年存在額外加息 25 至 50 個基點的風險。"
+    },
+    {
+      "id": "4892082",
+      "time": "2026-05-21 15:12:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【瑞銀：三星電子目標價看高至40萬韓元，未來有四大利好因素】瑞銀認為，隨著工會談判告一段落，三星電子前景相當明朗，將目標價調高45%至40萬韓元，評級“買入”，未來有四大利好因素：(1)人工智慧(AI)持續發展將推高記憶體需求，預測記憶體供應短缺的情況將持續到2028年第二季；(2)三星較大多數其他同業更能受益於修訂後的長期協議(LTV)，因三星能更快地部署更多新增產能；(3)隨公司執行力提升，最新預測三星將在2027年與SK海力士在HBM市場達到相同的市佔率，分佔40%；(4)預期三星在2026年將產生233萬億韓元的自由現金流，2027年將產生428萬億韓元的自由現金流，若達成50%的自由現金流回饋股東的目標，將為股東帶來顯著的額外回報。瑞銀指，三星電子2027至2030年平均預測市盈率約4.3倍，尚未完全反映上述四大利好因素，因此將其納入亞太區重點關注股份名單。按照最新長期協議估算，該行將三星電子2026及2027年經營溢利預測分別上調12%及14%，2028年至2030年經營溢利預測平均上調69%；將2026及2027年每股盈利預測分別調高11%及14%，2028至2030年每股盈利預測平均調高66%。"
+    },
     {
       "id": "te:markets:552601",
       "time": "2026-05-21 15:11:10",
@@ -142628,172 +142795,6 @@
         "Importance 1"
       ],
       "text": "Spain Inflation Rate Confirmed at 3.2% in April — Spain recorded an annual inflation rate of 3.2% in April 2026, matching the flash estimate and below March’s 3.4%, which was the steepest since June 2024. A slower rise in prices of housing and utilities (1.9% vs 3.7% in March), particularly electricity, contributed significantly to the overall moderation in inflation, supported by Government anti-crisis measures that lowered electricity bills through tax reductions. The core rate, which excludes volatile items such as food and energy, edged down to 2.8% from 2.9%. Meanwhile, the EU-harmonised annual rate accelerated to 3.5%, a new high since June 2024, up from 3.4% in March. On a monthly basis, consumer prices rose by 0.4%, in line with initial estimates, slowing from 1.2% in March."
-    },
-    {
-      "id": "4879370",
-      "time": "2026-05-14 15:17:37",
-      "tags": [
-        "市場"
-      ],
-      "text": "【5月14日滬深兩市漲停分析】滬指跌1.52%失守4200點，全市下跌個股超4300只。蒙娜麗莎5連板，利仁科技4連板，一圖看懂>>"
-    },
-    {
-      "id": "mkt:019e2559-3773-7aa5-b400-5a64c73f74e5",
-      "time": "2026-05-14 15:17:34",
-      "tags": [
-        "MKT News",
-        "INTC.O"
-      ],
-      "text": "INTEL WILL TODAY ANNOUNCE ITS RETURN TO FORMULA ONE SPONSORSHIP WITH A LONG-TERM MCLAREN RACING PARTNERSHIP - SKY NEWS"
-    },
-    {
-      "id": "4879369",
-      "time": "2026-05-14 15:17:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "哈薩克國家統計委員會：1-4月工業產出同比增長1.9%。"
-    },
-    {
-      "id": "4879368",
-      "time": "2026-05-14 15:17:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "路透調查：針對韓圓的空頭押注降至2月中旬以來最低水平。"
-    },
-    {
-      "id": "4879367",
-      "time": "2026-05-14 15:16:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "路透調查：對印度盧比的空頭押注規模為4月初以來最高。"
-    },
-    {
-      "id": "4879366",
-      "time": "2026-05-14 15:16:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "路透調查：對印尼印尼盾的看空押注達到2022年10月末以來最高水平。"
-    },
-    {
-      "id": "4879365",
-      "time": "2026-05-14 15:16:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華福證券：維持安克創新“買入”評級，核心主業盈利能力持續提升】華福證券研報指出，安克創新核心主業盈利能力持續提升，儲能疊加端側AI能力推動增長。2025年實現歸母淨利潤25.45億元，同比增長20.4%；扣非淨利潤21.79億元，同比增長15.4%，在2024年高基數基礎上仍維持較快增長。延續至2026Q1，公司實現營收76.08億元，同比增長26.9%；歸母淨利潤4.72億元，同比下滑4.9%。線上官網表現亮眼，境內營收錄得高增；毛利率逆勢提升彰顯品牌價值，繼續加大研發投入沉澱創新能力；儲能產品迎來市場爆發期，存算一體晶片賦能產品端側AI能力提升。維持“買入”評級。"
-    },
-    {
-      "id": "te:markets:550605",
-      "time": "2026-05-14 15:16:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Shangai Composite Index Closes 1.47% Lower — The Shangai Composite Index fell 62 points or 1.47 percent on Thursday to close at 4180 points. Leading the losses are Avic Aviation Engine (-5.04%), Greenland Holdings (-4.38%) and China Fortune (-4.31%)."
-    },
-    {
-      "id": "4879364",
-      "time": "2026-05-14 15:16:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息： 英特爾即將重返 F1 一級方程式賽車贊助行列。"
-    },
-    {
-      "id": "mkt:019e2556-fef0-7aa5-b400-56e904e81484",
-      "time": "2026-05-14 15:15:18",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "FOXCONN: AI IS NOT SHORT TERM TREND"
-    },
-    {
-      "id": "mkt:019e2556-e437-7aa5-b400-4d49547d072c",
-      "time": "2026-05-14 15:15:11",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "2317.TW",
-        "Impact bullish"
-      ],
-      "text": "FOXCONN: WE WILL GRASP LONG TERM GROWTH TREND OF AI"
-    },
-    {
-      "id": "mkt:019e2556-c977-7aa5-b400-4584d40bfca5",
-      "time": "2026-05-14 15:15:05",
-      "tags": [
-        "MKT News",
-        "Important",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "CNH"
-      ],
-      "text": "CHINA’S FOREIGN MINISTRY: BEIJING IS WILLING TO WORK WITH THE US TO TURN THE NEW DIRECTION OF CHINA-US RELATIONS INTO CONCRETE ACTIONS MOVING TOWARD EACH OTHER"
-    },
-    {
-      "id": "4879363",
-      "time": "2026-05-14 15:15:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國債期貨收盤】 30年期主力合約跌0.15%， 10年期主力合約跌0.02%， 5年期主力合約基本持平， 2年期主力合約基本持平。"
-    },
-    {
-      "id": "4879362",
-      "time": "2026-05-14 15:14:45",
-      "tags": [
-        "宏觀",
-        "焦點",
-        "國際"
-      ],
-      "text": "【商務部：中方願同美方一道不斷拉長合作清單】商務部新聞發言人何詠前在14日舉行的例行新聞釋出會上表示，當地時間5月13日，中美經貿中方牽頭人、國務院副總理何立峰與美方牽頭人、美國財政部長貝森特在韓國舉行經貿磋商。雙方以兩國元首重要共識為指引，秉持相互尊重、和平共處、合作共贏的原則，就解決彼此關注的經貿問題和進一步拓展務實合作進行了坦誠、深入、建設性交流。下一步，中方願同美方一道，本著平等、尊重、互惠的原則，不斷拉長合作清單，壓縮問題清單，推動中美經貿關係健康、穩定、可持續發展。（新華社）"
-    },
-    {
-      "id": "4879361",
-      "time": "2026-05-14 15:14:45",
-      "tags": [
-        "行業"
-      ],
-      "text": "【崔東樹：2026年4月乘用車均價17.1萬元，均價較同期提升0.3萬元】乘聯分會崔東樹發文稱，影響價格變化的主要是結構變化和銷量變化。銷量增長慢則車市均價呈現持續上升的態勢，2021年乘用車零售均價是16.5萬元，一路上升到2024年均價是18.4萬元。2025年乘用車均價是17.0萬元，較2024年均價下降1.4萬元。2026年4月乘用車均價17.1萬元，均價較同期提升0.3萬元。常規燃油車價格持續上升，市場萎縮在中低端很明顯，而高階萎縮慢，因此從2021年的16.6萬元上升到2024年的18.8萬元。2025年隨著高階燃油車的較快萎縮，2025年的均價降低到18.2萬元，2026年4月均價18.1萬元，燃油車購買群體買車逐步穩定。而新能源車的均價近期逐步下降，從2023年的均價18.4萬元，下降到2024年的均價18.0萬元，2025年的均價16.0萬元，價格下降明顯。2026年4月是16.5萬元，漲價0.8萬元，量跌價升，體現新能源車消費的結構性變化。"
-    },
-    {
-      "id": "4879360",
-      "time": "2026-05-14 15:14:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "【太原海關：4月山西省進出口總值121.5億元，同比增長5.3%】太原海關14日釋出統計資料，2026年4月，山西省進出口總值121.5億元，同比增長5.3%，環比增長17.9%。剔除2月份春節因素影響，這是自2025年1月以來，山西進出口連續16個月首次實現月度正增長。今年前4個月，山西省進出口總值456.9億元。從外貿主體看，山西活躍企業數量明顯增加。前4個月，該省有進出口實績的企業達2313家，同比增加45.5%，淨增723家。（中國新聞網）"
-    },
-    {
-      "id": "mkt:019e2556-1772-7aa5-b400-3c6cacf42fb7",
-      "time": "2026-05-14 15:14:19",
-      "tags": [
-        "MKT News",
-        "2317.TW",
-        "Impact bullish"
-      ],
-      "text": "FOXCONN: CAUTIOUSLY OPTIMISTIC ABOUT THIS YEAR"
-    },
-    {
-      "id": "4879359",
-      "time": "2026-05-14 15:13:57",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "博柏利集團股價下跌 5.8%，公司公佈第四季度銷售額符合市場預期。"
     }
   ]
 }
