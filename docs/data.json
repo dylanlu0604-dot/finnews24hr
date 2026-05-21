@@ -1,7 +1,44 @@
 {
-  "updated": "2026-05-22 03:46:17",
-  "count": 16268,
+  "updated": "2026-05-22 03:50:03",
+  "count": 16267,
   "items": [
+    {
+      "id": "4893600",
+      "time": "2026-05-22 03:49:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【創紀錄高溫逼迫美國新英格蘭地區燒油發電來維持電網執行】在5月份創紀錄的極端高溫烘烤下，美國新英格蘭地區正被迫大量燃燒重油/燃油作為電力來源。這再次凸顯出該地區脆弱的能源結構在極端天氣頻發時，反而可能進一步加劇環境汙染。5月20日早些時候，該地區發電廠透過燒油產生的電力超過了700兆瓦，足以為約50萬戶家庭供電。就在幾個小時前，當地電網運營商新英格蘭獨立系統運營商（ISO New England）剛剛宣佈電網進入“異常狀態（Abnormal conditions）”，緊急警告各發電廠商立即暫停一切可能導致發電量削減的例行裝置維護工作。 負責從加拿大輸送清潔水電的“新英格蘭清潔能源連線線（NECEC）”自5月19日下午起突發持續近20小時的長週期停運，讓本就吃緊的電網雪上加霜。"
+    },
+    {
+      "id": "4893599",
+      "time": "2026-05-22 03:49:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "匈牙利國家銀行行長： 福林走強助力緩解通脹壓力。"
+    },
+    {
+      "id": "mkt:019e4c14-9633-7aa1-9581-7f309fce65f4",
+      "time": "2026-05-22 03:47:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "GOP MIDTERMS CASH NEARS $1 BILLION, MORE THAN TRIPLE DEMOCRATS’"
+    },
+    {
+      "id": "mkt:019e4c14-29ba-7aa1-9581-74c933f8a59e",
+      "time": "2026-05-22 03:47:30",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Hormuz Closure Risk Seen Triggering Deep Global Recession, Rapidan Says】A closure of the Strait of Hormuz through August could trigger an economic downturn approaching the scale of 2008, according to Rapidan Energy Group. The firm’s base case assumes reopening in July, with oil demand down 2.6 million barrels a day and Brent peaking near $130 this summer. A longer disruption could deepen supply deficits, potentially driving a rare global oil demand contraction in 2026. Rapidan said oil prices have nearly doubled since late February amid war-related disruptions, warning that further spikes could amplify macroeconomic vulnerabilities despite less oil-intensive economies and stronger monetary policy frameworks."
+    },
     {
       "id": "4893598",
       "time": "2026-05-22 03:45:43",
@@ -146221,51 +146258,6 @@
         "國際"
       ],
       "text": "市場訊息：歐洲監管機構或將發起私募信貸行業調查。"
-    },
-    {
-      "id": "mkt:019e2809-503a-7bb5-b4d2-5e247df81880",
-      "time": "2026-05-15 03:49:19",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "STATE-RUN PETROECUADOR SAYS IT HAS RESUMED OPERATIONS AT THE FCC UNIT OF THE ESMERALDAS REFINERY- STATEMENT"
-    },
-    {
-      "id": "4880552",
-      "time": "2026-05-15 03:47:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列軍方：向克里亞特·什慕納發射火箭彈是真主黨嚴重違反停火協議的行為。"
-    },
-    {
-      "id": "4880551",
-      "time": "2026-05-15 03:47:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "厄瓜多石油公司將於5月15日重啟埃斯梅拉達斯煉油廠的催化裂化裝置。"
-    },
-    {
-      "id": "4880550",
-      "time": "2026-05-15 03:47:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：特朗普政府邊境巡邏局局長突然辭職，緣由是被指控出境招攬性工作者。"
-    },
-    {
-      "id": "4880549",
-      "time": "2026-05-15 03:47:26",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期金日內跌1%，現報4659.47美元/盎司。"
     }
   ]
 }
