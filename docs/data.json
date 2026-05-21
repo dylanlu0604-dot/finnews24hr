@@ -1,7 +1,31 @@
 {
-  "updated": "2026-05-22 04:38:12",
-  "count": 16236,
+  "updated": "2026-05-22 04:42:14",
+  "count": 16235,
   "items": [
+    {
+      "id": "4893627",
+      "time": "2026-05-22 04:41:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "明晟公司：將於 2026 年 6 月 18 日釋出 2026 年全球市場準入評估結果。"
+    },
+    {
+      "id": "4893626",
+      "time": "2026-05-22 04:40:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "明晟公司：將於 2026 年 6 月 23 日釋出 2026 年度市場分類審議結果。"
+    },
+    {
+      "id": "4893625",
+      "time": "2026-05-22 04:39:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普稱將向波蘭增派5000名美軍】當地時間5月21日，美國總統特朗普在其社交平臺“真實社交”發文稱，美國將向波蘭額外增派5000名美軍。當地時間15日，五角大樓取消本月向波蘭部署一支4000多人美軍部隊的計劃。訊息人士表示，此舉是美方在歐洲削減駐軍計劃的一部分，該計劃最初主要針對德國。美國副總統萬斯19日在白宮記者會上說，關於美國最近取消本月向波蘭部署一支4000多人美軍部隊的計劃的訊息，“不是削減，而是一次例行輪換推遲”。（央視新聞）"
+    },
     {
       "id": "te:markets:552859",
       "time": "2026-05-22 04:35:07",
@@ -145941,41 +145965,6 @@
         "AI Revolution"
       ],
       "text": "【SpaceX IPO Prospectus Could Be Released Next Week Ahead of Record Listing】SpaceX plans to publicly release its IPO prospectus as soon as next week ahead of a targeted June 8 roadshow, according to people familiar with the matter. The offering could become the largest IPO on record after SpaceX merged with xAI in February at a combined $1.25 trillion valuation. Bloomberg previously reported the company was targeting a $70 billion to $75 billion listing size. Advisers are also seeking broader international retail participation as investor demand for AI-linked IPOs accelerates."
-    },
-    {
-      "id": "4880604",
-      "time": "2026-05-15 04:41:24",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【跳票近一年 特朗普“土豪金”T1手機開始發貨】特朗普移動（Trump Mobile）表示，在公司首次公佈裝置計劃近一年後，其“土豪金”T1智慧手機已開始發貨。該款手機原定於去年8月釋出。公司週三在社交媒體發文稱：“T1手機已經到貨！！此前預訂T1手機的使用者將收到更新郵件。本週開始發貨！！！”這款售價499美元的手機此前經歷了發貨延期，公司表示延誤原因是美國政府停擺。此外，特朗普移動於今年4月更新了預購條款，稱繳納100美元定金“不保證裝置將被生產或可供購買”，此舉引發了消費者質疑。特朗普移動執行長Pat O'Brien表示，手機將在未來幾周內陸續交付。他補充稱，首批T1手機在美國組裝，並將採用美國本土製造的零部件。"
-    },
-    {
-      "id": "4880603",
-      "time": "2026-05-15 04:40:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "法拉第：將2026年機器人出貨目標上調至1500臺。"
-    },
-    {
-      "id": "4880602",
-      "time": "2026-05-15 04:39:29",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "芝加哥聯儲任命經濟學家加迪・巴萊維為研究部主任。"
-    },
-    {
-      "id": "4880601",
-      "time": "2026-05-15 04:38:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4650美元/盎司，日內跌1.22%。"
     }
   ]
 }
