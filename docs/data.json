@@ -1,7 +1,84 @@
 {
-  "updated": "2026-05-21 13:08:46",
-  "count": 15848,
+  "updated": "2026-05-21 13:12:39",
+  "count": 15853,
   "items": [
+    {
+      "id": "te:economy:552566",
+      "time": "2026-05-21 13:11:45",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "India",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "India Manufacturing Growth Slows in May — India’s HSBC Manufacturing PMI fell to 54.3 in May 2026 from 54.7 in April, marking the second-weakest improvement in factory conditions in nearly four years, ahead only of the level seen in March. Output growth eased to the second-softest expansion since mid-2022, while new orders rose at a slower pace as firms cited competitive pressures, softer demand conditions, travel disruptions, and the ongoing war in the Middle East as factors weighing on sales. Export demand also weakened, with international sales recording the second-slowest increase since September 2024. Meanwhile, input cost inflation accelerated to its highest level since July 2022, driven by higher prices for energy, fuel, metals, plastics, rubber, and transportation. However, manufacturers raised selling prices at a slower pace as firms cautiously passed on higher costs to clients. Hiring growth softened from April but remained solid, while firms continued to build inventories and increase purchasing activity."
+    },
+    {
+      "id": "4891857",
+      "time": "2026-05-21 13:11:16",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達20億港元。"
+    },
+    {
+      "id": "4891856",
+      "time": "2026-05-21 13:11:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【半導體裝置板塊持續走低】半導體裝置板塊持續走低，恆運昌跌超9%，富創精密、華峰測控、微導奈米、強一股份等跟跌。"
+    },
+    {
+      "id": "mkt:019e48f1-8d94-7ee7-b68e-1be0416443f5",
+      "time": "2026-05-21 13:10:50",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "RUSSIAN DEFENCE MINISTRY SAYS NUCLEAR MUNITIONS HAVE BEEN DELIVERED TO FIELD STORAGE FACILITIES IN BELARUS AS PART OF NUCLEAR DRILLS"
+    },
+    {
+      "id": "4891855",
+      "time": "2026-05-21 13:10:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【機構：中東風險給日本出口前景蒙上陰影】日本4月份出口增長加速，但隨著中東衝突引發的高油價可能拖累全球經濟，未來幾個月需求可能會減弱。牛津經濟研究院的Norihiro Yamaguchi表示，人工智慧(AI)的持續繁榮可能會在短期內支撐對日本出口的需求。然而，在能源價格高企可能拖累全球經濟的背景下，該經濟學家預計對日本產品的需求將減弱，尤其是非人工智慧相關的資本貨物。日本4月份出口較上年同期增長14.8%，3月份為增長11.5%。"
+    },
+    {
+      "id": "4891854",
+      "time": "2026-05-21 13:09:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "【成品油：今日24時零售限價將小幅上調】受地緣局勢反覆主導，本週期原油均價水平環比上漲，國內參考的原油變化率由負轉正，今日（5月21日）24時，成品油零售限價將遇上調。汽、柴油零售限價每噸分別上調75和70元，折升價92#汽油、95#汽油、0#柴油均上調0.06元。（卓創資訊）"
+    },
+    {
+      "id": "te:economy:552564",
+      "time": "2026-05-21 13:09:04",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "India",
+        "Services PMI",
+        "Importance 1"
+      ],
+      "text": "India Services Growth Hits 6-Month High — The HSBC India Services PMI inched up to 58.9 in May 2026 from 58.8 in April, preliminary data showed. The latest reading marked the strongest growth since last November, as output continued to expand while new orders rose at a softer pace. Meanwhile, employment increased at the fastest rate in nearly a year. On prices, both input and output inflation eased."
+    },
+    {
+      "id": "4891853",
+      "time": "2026-05-21 13:08:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "【陳茂波稱可探索歐洲企業在港歐雙重上市】香港特區政府財政司司長陳茂波正在比利時布魯塞爾訪問，與多名歐盟官員和歐洲商界領袖會面，推廣香港優勢。 陳茂波在會面中介紹了香港經濟和金融發展情況。他指出，在當前充滿挑戰的國際政經環境中，“一國兩制”下的香港維持自由港地位，資金、資訊、人才自由流動，踐行國際的最佳商業、會計和專業服務準則，經濟貿易政策穩定和可預期，金融市場不斷創新發展，歡迎歐洲工商投資界充分利用香港作為平臺，籌集資金發展中國內地和亞洲市場。 陳茂波又表示，香港與歐洲在不同領域都有加強合作的空間，包括探索歐洲企業兩地雙重上市安排、發展固定收益和貨幣市場、推動綠色金融和金融創新，以至更好引導民間儲蓄支援實業、經濟發展等。"
+    },
     {
       "id": "4891852",
       "time": "2026-05-21 13:08:04",
@@ -142581,30 +142658,6 @@
         "市場"
       ],
       "text": "A股半導體產業鏈探底回升，燕東微、慧智微、晶豐明源、晶合整合漲超10%，思特威、卓勝微、宏微科技、賽微電子等漲幅居前。"
-    },
-    {
-      "id": "mkt:019e24e5-266d-777f-be5c-2ea18e93e0c4",
-      "time": "2026-05-14 13:10:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TRUMP SAYS CHINA IS BEAUTIFUL WHEN AT TEMPLE OF HEAVEN"
-    },
-    {
-      "id": "4879165",
-      "time": "2026-05-14 13:10:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "【英國前副首相安吉拉·雷納在稅務調查中被宣告無罪】英國前副首相安吉拉·雷納的發言人表示，英國稅務海關總署 (HMRC) 已澄清，雷納在稅務問題上不存在故意違法行為。雷納已補繳了4萬英鎊的未繳印花稅；她沒有因調查而支付任何罰款。"
-    },
-    {
-      "id": "4879164",
-      "time": "2026-05-14 13:09:26",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根大通將西門子股票目標價從325歐元上調至335歐元，維持增持評級。"
     }
   ]
 }
