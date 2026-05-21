@@ -1,7 +1,39 @@
 {
-  "updated": "2026-05-21 12:35:14",
-  "count": 15858,
+  "updated": "2026-05-21 12:39:11",
+  "count": 15853,
   "items": [
+    {
+      "id": "te:economy:552556",
+      "time": "2026-05-21 12:38:06",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Netherlands",
+        "Consumer Confidence",
+        "Importance 2"
+      ],
+      "text": "Dutch Consumer Mood Weakest in Over 3 Years — Consumer confidence in the Netherlands fell further to -46 in May 2026 from -44 in April, marking the weakest reading since January 2023. This was mainly attributed to a dwindling willingness to buy, which slipped to -28 from -26. Perceptions of the economic situation over the past 12 months also worsened to -75 from -72, while expectations for the next 12 months improved slightly to -69 from -71. Households’ view of the economic climate remained broadly unchanged at -72, still deeply negative and reflecting persistently pessimistic views of both current conditions and the outlook. Financial sentiment also weakened, with the assessment of the past 12 months falling to -22 from -18 and expectations for the coming year edging lower to -17 from -15. Willingness to make large purchases deteriorated further to -45 from -43, underscoring continued caution among consumers."
+    },
+    {
+      "id": "4891823",
+      "time": "2026-05-21 12:37:30",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【英偉達業績財測均超預期 多家機構上調目標價】摩根大通將英偉達目標股價從265美元上調至280美元；傑富瑞將其目標股價從275美元上調至300美元；梅利厄斯研究院將英偉達目標股價從380美元上調至400美元。此前英偉達業績財測均超預期，並宣佈800億美元股票回購計劃。"
+    },
+    {
+      "id": "te:economy:552554",
+      "time": "2026-05-21 12:37:10",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Fiscal Expenditure",
+        "Importance 1"
+      ],
+      "text": "China Fiscal Spending Rises 1.3% in Jan-April — China’s fiscal spending climbed 1.3% year-on-year to CNY 9.48 trillion (USD 1.09 trillion) in the first four months of 2026. Spending execution reached 31.6% of the annual budget target, the fastest pace for the January–April period in five years, signaling that fiscal policy is being front-loaded to support economic stabilization. Central government spending rose 5.1%, while local government outlays increased 0.7%, official data showed. During the period, fiscal revenue increased 3.5% to CNY 8.34 trillion (USD 1.23 trillion), sharply accelerating from a 1.1% rise in the first quarter, highlighting an improvement in fiscal revenue. The country’s tax revenue grew 3.9% year-on-year to CNY 6.81 trillion, higher than the 1.7% increase recorded in the first quarter. Meanwhile, non-tax revenue rose 1.6% to CNY 1.53 trillion."
+    },
     {
       "id": "te:markets:552551",
       "time": "2026-05-21 12:34:14",
@@ -142625,77 +142657,6 @@
         "其他"
       ],
       "text": "OpenAI：我們正在更新安全證書，所有macOS使用者都需將OpenAI應用更新至最新版本。"
-    },
-    {
-      "id": "4879133",
-      "time": "2026-05-14 12:38:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "OpenAI：目前沒有證據顯示公司生產系統或智慧財產權遭到洩露，也沒有證據表明本公司軟體遭到篡改。"
-    },
-    {
-      "id": "4879132",
-      "time": "2026-05-14 12:38:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "OpenAI：我們正採取措施保護相關認證流程，確保經該流程認證的 macOS 應用均為合法的官方 OpenAI 應用。目前沒有證據顯示公司生產系統或智慧財產權遭到洩露，也沒有證據表明本公司軟體遭到篡改。"
-    },
-    {
-      "id": "mkt:019e24c7-7088-777f-be5b-d6de699478d5",
-      "time": "2026-05-14 12:38:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "OPENAI: TAKING STEPS TO PROTECT THE PROCESS THAT CERTIFIES OUR MACOS APPLICATIONS ARE LEGITIMATE OPENAI APPS."
-    },
-    {
-      "id": "4879131",
-      "time": "2026-05-14 12:37:52",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【中廣核新能源(01811)4月完成發電量1651.1吉瓦時 同比減少1.6%】中廣核新能源(01811)釋出公告，2026年4月集團按合併報表口徑完成發電量1,651.1吉瓦時，較2025年同比減少1.6%。其中，中國風電專案減少21.9%，中國太陽能專案增加24.6%，中國水電專案增加75.5%及韓國專案增加30.8%。截至2026年4月30日止四個月，集團今年累計完成發電量6,415.6吉瓦時，比2025年同比減少0.5%。其中，中國風電專案減少17.0%，中國太陽能專案增加33.5%，中國燃氣專案增加1,200.0%，中國水電專案增加12.2%及韓國專案增加23.1%。"
-    },
-    {
-      "id": "4879130",
-      "time": "2026-05-14 12:37:05",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【渣打調升香港今年GDP增長預估至4.3%，料HIBOR將進一步上升】渣打銀行週四稱，將香港2026年本地生產總值（GDP）增長預估上調至4.3%，原為3.2%，並高於香港特區政府預估的2.5-3.5%。渣打將香港2026年整體通脹率預測從1.5%上調至2.1%。預計港元拆息（HIBOR）將進一步上升（一個月拆息約2.8%），因美聯儲不會調整利率，而強勁的融資活動和房地產市場的反彈將支撐港元需求。"
-    },
-    {
-      "id": "te:markets:550531",
-      "time": "2026-05-14 12:36:25",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Indonesia",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Rupiah Stays Fragile Near Record Low — The Indonesian rupiah hovered near record lows of IDR 17,500 per dollar in thin holiday trading on Thursday, after briefly firming below 17,450 in the prior session. A stronger U.S. dollar hit sentiment, with rising inflation bolstering expectations that the Fed will keep policy hawkish. Concerns over Bank Indonesia’s ability to defend the currency resurfaced ahead of next week’s policy meeting, with some analysts projecting a rate hike to 5.0% from the current 4.75% to stem capital outflows. President Prabowo recently criticized Governor Warjiyo over the rupiah’s weakness while endorsing new measures, including tighter forex rules and liquidity tweaks. Traders also remained cautious amid weak domestic fundamentals, falling reserves, fiscal strains, and persistent foreign selling. Limiting losses, the government has launched a bond stabilisation fund to help debt markets amid rising yields. So far this week, the rupiah has fallen about 0.5%, heading for a seventh straight weekly loss."
-    },
-    {
-      "id": "4879129",
-      "time": "2026-05-14 12:36:11",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "【中韓半導體ETF華泰柏瑞：將於5月14日下午開市起至當日收市停牌】中韓半導體ETF華泰柏瑞公告，為保護投資者的利益，本基金將於2026年5月14日下午開市起至當日收市停牌。若本基金後續二級市場交易價格溢價幅度未有效回落，本基金有權採取向上海證券交易所申請盤中臨時停牌、延長停牌時間等措施以向市場警示風險，具體以屆時公告為準。"
-    },
-    {
-      "id": "4879128",
-      "time": "2026-05-14 12:35:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本首相高市早苗：5月14日，一艘與日本有關的船隻透過霍爾木茲海峽。"
     }
   ]
 }
