@@ -1,7 +1,59 @@
 {
-  "updated": "2026-05-22 00:32:48",
+  "updated": "2026-05-22 00:36:50",
   "count": 16237,
   "items": [
+    {
+      "id": "4893483",
+      "time": "2026-05-22 00:35:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：如果DC（華盛頓特區）和波多黎各成為州，那將是“災難”。"
+    },
+    {
+      "id": "4893482",
+      "time": "2026-05-22 00:34:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國萊茵金屬RHM自2010年以來首次透過債券融資，認購金額超過39億歐元。"
+    },
+    {
+      "id": "mkt:019e4b62-cfee-7aa1-957f-a9e04fc44e2d",
+      "time": "2026-05-22 00:33:42",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bullish",
+        "NVDA.O",
+        "BA.O"
+      ],
+      "text": "【Trump China Trip Draws Musk, Cook, Huang Seeking Beijing Relief】Executives including Elon Musk, Tim Cook and Jensen Huang joined President Donald Trump on his China trip as companies sought relief from Beijing-imposed restrictions and market barriers. Tesla aimed to unblock Chinese export curbs on solar manufacturing equipment, while Nvidia awaited approval for H200 chip sales and Boeing pursued aircraft deals. China also eased progress on Citigroup’s securities application. Peter Navarro, White House adviser, told CNBC the executives were viewed by China as “useful idiots,” while the executives publicly praised meetings with Chinese President Xi Jinping."
+    },
+    {
+      "id": "4893481",
+      "time": "2026-05-22 00:33:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：特斯拉擬購約30億美元裝置。"
+    },
+    {
+      "id": "mkt:019e4b61-9903-7aa1-957f-a7b7c2d99fd0",
+      "time": "2026-05-22 00:32:27",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "TSLA.O",
+        "Impact bullish"
+      ],
+      "text": "TESLA WANTS TO PURCHASE ABOUT $3 BILLION WORTH OF EQUIPMENT FROM SUZHOU MAXWELL, ACCORDING TO THE NEW YORK TIMES"
+    },
     {
       "id": "4893480",
       "time": "2026-05-22 00:32:00",
@@ -145906,49 +145958,6 @@
         "其他"
       ],
       "text": "英國曼徹斯特市長Andy Burnham宣佈競選議員。"
-    },
-    {
-      "id": "te:markets:550820",
-      "time": "2026-05-15 00:35:40",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Cocoa Futures Ease — Cocoa futures fell toward $4,220 per tonne, pulling away from a 3.5-month high of $4,709 per tonne hit on May 11, as the market reacted to forecasts of higher Ivory Coast cocoa deliveries. The top grower now projects cocoa output of 2.2 MMT for the 2025/26 season, up from a previous projection of 1.8-1.9 MMT, citing favorable weather. Still, the outlook remains clouded by concerns over fertilizer shortages and potential El Niño effects on West African crops. Irregular rainfall in the Ivory Coast has once again raised alarm bells in the global cocoa market. Farmers in the country's main producing regions reported growing concern about the possibility of a smaller, lower-quality mid-season crop, just as the harvest is entering its crucial phase. In the meantime, early surveys of the 2026/27 West African cocoa crop showed below-average cherelle formation on cocoa trees, signaling a weak outlook for the main cocoa harvest, which begins in October."
-    },
-    {
-      "id": "4880406",
-      "time": "2026-05-15 00:35:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "訊息人士：黎巴嫩與以色列第三輪談判的氣氛“令人不樂觀”，黎巴嫩傳遞的資訊是，任何形式的緩和都可能為以色列加強國家和軍隊的作用開闢空間。"
-    },
-    {
-      "id": "4880405",
-      "time": "2026-05-15 00:34:50",
-      "tags": [
-        "市場"
-      ],
-      "text": "巴西總統盧拉： 巴西政府不會允許柴油、汽油價格上漲。"
-    },
-    {
-      "id": "mkt:019e2756-e52e-7bb5-b4d0-d01c551c76b1",
-      "time": "2026-05-15 00:34:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "SOURCE COVERING THE EVENT IN WASHINGTON: THE ATMOSPHERE OF THE THIRD ROUND OF LEBANESE-ISRAELI NEGOTIATIONS \"DOES NOT INSPIRE OPTIMISM\""
-    },
-    {
-      "id": "4880404",
-      "time": "2026-05-15 00:33:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "【“2026·中國－中亞人權發展論壇”在烏茲別克舉行】當地時間14日，由中國人權發展基金會和烏茲別克國家人權中心共同主辦的“2026·中國－中亞人權發展論壇”在烏茲別克首都塔什干舉行。論壇主題為“以高質量發展共促人權進步”，來自中國和哈薩克、吉爾吉斯斯坦、塔吉克、土庫曼、烏茲別克六國的人權領域官員、專家學者等近百人出席。（央視新聞）"
     }
   ]
 }
