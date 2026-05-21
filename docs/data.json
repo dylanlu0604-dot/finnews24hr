@@ -1,7 +1,62 @@
 {
-  "updated": "2026-05-21 08:52:13",
-  "count": 15846,
+  "updated": "2026-05-21 08:55:59",
+  "count": 15848,
   "items": [
+    {
+      "id": "4891497",
+      "time": "2026-05-21 08:54:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普回應中俄元首會晤】5月19日至20日，俄羅斯總統普京展開“旋風式”中國行。這是普京第25次訪華。當地時間5月20日，特朗普回應中俄元首會晤：我覺得很好，我和他們相處得都很好。（中新社）"
+    },
+    {
+      "id": "4891496",
+      "time": "2026-05-21 08:54:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【馬斯克旗下的X平臺在澳大利亞兒童保護合規訴訟中敗訴】澳大利亞一家法院維持了監管機構對埃隆·馬斯克旗下社交媒體公司X Corp的罰款決定。此前，該公司承認因未提供有關其線上兒童保護措施的資訊而違反法律，這場持續近三年的糾紛就此告終。此前，常遭馬斯克網路攻擊的網路安全監管機構曾於2023年10月對公司處以罰款，稱其對關於反兒童剝削流程的標準資訊請求回應不力。該公司於週四承認過錯，從而解決了這一糾紛。電子安全專員的律師特蘭（Christopher Tran）在聯邦法院聽證會上表示：“被告承認其違反了該法案。”他所指的正是澳大利亞《網路安全法》。“違規行為持續了約38天。”此次和解結束了一場法律糾紛。該糾紛始於監管機構因該公司（前身為Twitter）對約25個問題的答覆而對其處以610,500澳元（437,000美元）罰款。X Corp最初試圖推翻該處罰，理由是自2022年被馬斯克以440億美元收購後，公司已更名。監管機構隨後另行提起法律訴訟以追討罰款。週四，惠拉漢（Michael Wheelahan）法官將罰款金額上調至65萬澳元，並責令X公司額外支付10萬澳元以承擔監管機構的部分法律費用。該裁決為該公司解決了一樁未了之事。今年早些時候，該公司已被併入馬斯克龐大的科技集團SpaceX，而SpaceX計劃在數週內進行一筆萬億美元級別的首次公開募股。"
+    },
+    {
+      "id": "mkt:019e4806-3fb9-7aa9-8522-bdbb386cc5f6",
+      "time": "2026-05-21 08:53:49",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Alibaba",
+        "Market Themes",
+        "China Tech Giants",
+        "Magnificent 7",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Key Points of the Past 24 Hours – MKTNews】 China & U.S. - China Commerce Ministry: U.S., China to seek extension of Kuala Lumpur trade arrangement - China Commerce Ministry: both sides agreed in principle to discuss framework arrangement for reciprocal tariff reductions on products of equal size under the trade council - Xi, to the press: relations between both countries have continued to improve, achieving the highest level of comprehensive strategic partnership - Trump says U.S. in “final stages” of talks with Iran: pool report - U.S. CFTC scrutinizing surge in oil futures trading that occurred moments before Trump postponed strikes on Tehran in March - WSJ China - Two Chinese supertankers carrying 4 million barrels of crude oil exit Strait of Hormuz on Wednesday, data shows - China to speed up construction of strategic mineral reserve sites - Xinhua - China April survey-based jobless rate for 25-29 years old at 7.4% - Stats Bureau - Japan to deploy surveillance drones to monitor Chinese naval activity in Pacific Tech & AI - Alibaba Cloud unveils Zhenwu M890, its latest-generation AI training and inference chip - Alibaba Group integrates Qwen AI with Taobao for full conversational shopping experience - China adds Nvidia China-specific gaming chip to banned list during Jensen Huang visit - OpenAI plans to file confidentially for U.S. IPO in coming weeks, source says - Nvidia 1Q rev. $81.62B, est. $79.19B - Nvidia Corp: to date, have not generated any revenue under H200 licensing program & do not yet know whether any imports will be allowed into China - SpaceX files publicly for Nasdaq IPO under ticker SPCX Geopolitics & Middle East - Pakistan’s interior minister is in Tehran for fresh talks, according to Al Arabiya sources, as negotiations between the U.S. and Iran grow more difficult over Tehran’s nuclear program and security in the Strait of Hormuz - Pakistani army leader may visit Iran tomorrow to announce the final version of the agreement text - Al Hadath, citing sources - Trump, Benjamin Netanyahu held tense call over Iran policy - N12 - Vladimir Putin: we are ready for cooperation with our partners, including United States, that’s what we discussed with China’s Xi today - Russia considers possibility of joint projects with U.S. and China, Russian TV cites head of Russian Direct Investment Fund Markets & Central Banks - Fed minutes: majority of participants said some policy firming would likely become appropriate if inflation were to continue running persistently above 2% - Samsung Electronics South Korea union says to go on strike on Thursday - Yonhap"
+    },
+    {
+      "id": "4891495",
+      "time": "2026-05-21 08:53:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "比特幣升破78000美元，日內漲0.58%。"
+    },
+    {
+      "id": "4891494",
+      "time": "2026-05-21 08:52:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【湖南持續強降雨 山洪災害成此輪防範重點】5月17日起，湖南省常德、湘西州、張家界等8市州36個縣279個鄉鎮出現暴雨，易發生山洪災害。湖南省氣象臺首席預報員張海介紹，自17日以來，湖南進入了降水集中期，在本輪降水過程當中，降水主要分佈在湖南北部，出現了暴雨到大暴雨天氣，尤其在湖南常德地區，出現了超500毫米的極端降雨。據瞭解，這樣的暴雨過程容易引發山洪災害和地質災害。湖南三面環山，呈階梯狀向東北方向傾斜，而且中小河流分佈也是比較密，河道還是比較狹窄，當雨落到地面以後，容易形成在短時間之內彙集，同時形成衝擊力極強的山洪。（央視）"
+    },
     {
       "id": "4891493",
       "time": "2026-05-21 08:49:32",
@@ -142610,43 +142665,6 @@
         "其他"
       ],
       "text": "【5月13日702股獲融資買入超億元 中際旭創穫買入50.03億元居首】5月13日共有3461只個股獲融資資金買入，有702股買入金額超億元。其中，中際旭創、天孚通訊、新易盛融資買入金額排名前三，分別獲買入50.03億元、43.81億元、42.47億元。"
-    },
-    {
-      "id": "mkt:019e23f9-8fb3-777f-be59-13e1b442a59e",
-      "time": "2026-05-14 08:53:38",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "NVIDIA",
-        "Alibaba",
-        "Tencent",
-        "Market Themes",
-        "Magnificent 7",
-        "WTI",
-        "Impact mixed",
-        "BABA.O",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "【Key Points of the Past 24 Hours – MKTNews】 US-China / Trade & Diplomacy - Nvidia CEO Jensen Huang to join President Trump’s China visit - sources - Trump on Truth Social: “I will be asking President Xi to ‘open up’ China” - China, U.S. had “candid, in-depth, constructive exchanges” - Chinese state media - Trump arrives in Beijing - Chinese state media - Trump, Xi to weigh tariff cuts on $30B of imports - sources familiar with Trump administration objectives China / Economy & Corporate - Morgan Stanley raises 2026 China GDP growth forecast to 4.8% from 4.7%, citing resilient exports driven by AI and green-investment demand - China’s State Administration for Market Regulation launches special campaign against unfair market competition from May through December - Tencent Holdings 1Q revenue CNY196.46B vs. CNY180.02B; Q1 attributable net income RMB58.1B - Alibaba Q4 revenue RMB243.38B - Alibaba Cloud Intelligence Group quarterly revenue rises 38% YoY to RMB41.63B Energy / Oil / Middle East - China-flagged crude supertanker makes Hormuz exit attempt - data - IEA cuts global GDP growth assumption to 2.9% from 3% - IEA: OPEC+ spare capacity hit historic low at 170,000 b/d - OPEC says OPEC+ crude output averaged 33.19M bpd in April, down 1.74M bpd from March as Iran war prompted Middle East members to cut output US / Federal Reserve - U.S. Senate votes 54-45 to confirm Kevin Warsh as Federal Reserve chair"
-    },
-    {
-      "id": "4878823",
-      "time": "2026-05-14 08:53:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【運動鞋製造商華利集團回應原材料漲價影響】5月13日，運動鞋製造商華利集團在接待機構調研時表示，公司直接原材料構成中，皮料、紡織布料、化工類材料、橡膠類材料佔比較高，化纖類佔比不大。公司銷售的定價模式是成本加成的模式，原材料的漲價最終會反映到公司的銷售價格上。原材料主要包括皮料、紡織布料、橡膠、化工原料等，公司所需的主要原材料由客戶指定供應商，其採購定價主要由客戶與供應商談定。部分橡膠原材料等由公司根據客戶指定的質量標準進行自主採購，採購的價格則根據市場價格由公司與供應商談定。公司對用量較大的通用型原材料如橡膠等建立了常備庫存，針對本次原材料漲價，公司也已提前做了部署。"
-    },
-    {
-      "id": "4878822",
-      "time": "2026-05-14 08:52:57",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【全球基金對泰國股票的買盤創一個月新高】5月13日，泰國股市迎來了全球投資者一個月內最高的淨買入量。根據泰國債券市場協會的資料，5月13日國際基金淨賣出1.275億美元泰國債券，賣出規模為自2026年4月10日以來最高。根據交易所資料，5月13日全球基金淨購入價值 1.022 億美元泰國股票，淨買入規模為自2026年4月1日以來最高。"
     }
   ]
 }
