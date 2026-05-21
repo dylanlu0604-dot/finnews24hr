@@ -1,7 +1,302 @@
 {
-  "updated": "2026-05-22 00:49:20",
-  "count": 16229,
+  "updated": "2026-05-22 01:27:16",
+  "count": 16232,
   "items": [
+    {
+      "id": "4893510",
+      "time": "2026-05-22 01:23:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息： Anthropic推出開普勒系統，助力金融業打造可核驗人工智慧。"
+    },
+    {
+      "id": "4893509",
+      "time": "2026-05-22 01:22:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "新興市場貨幣指數續漲，原油漲幅回落。"
+    },
+    {
+      "id": "4893508",
+      "time": "2026-05-22 01:21:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金短線拉昇，最高觸及4540美元/盎司，現部分回落至4536美元/盎司；美元指數DXY短線下挫，最低觸及99.17。"
+    },
+    {
+      "id": "4893507",
+      "time": "2026-05-22 01:20:55",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美、布兩油短線下跌超1美元，現分別報101.8美元/桶和101.7美元/桶。"
+    },
+    {
+      "id": "4893506",
+      "time": "2026-05-22 01:20:43",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國國債收復大部分失地；30年期國債收益率跌至日內低點。"
+    },
+    {
+      "id": "4893505",
+      "time": "2026-05-22 01:20:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "彭博美元指數收窄盤中漲幅。"
+    },
+    {
+      "id": "mkt:019e4b8d-294b-7aa1-957f-f7bbc6dbe456",
+      "time": "2026-05-22 01:20:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【IRNA Cites Al Arabiya Claiming U.S.-Iran Draft Deal Reached】Iran’s IRNA, citing Al Arabiya television, reported that a final draft agreement between the U.S. and Iran has been reached through Pakistani mediation and could be announced within hours. The reported draft includes an immediate and comprehensive ceasefire across all fronts, mutual commitments to avoid targeting infrastructure, and guarantees for freedom of navigation in the Gulf and Strait of Hormuz under a joint monitoring mechanism. It also outlines a gradual lifting of sanctions in exchange for Iran’s compliance, with talks on unresolved issues set to begin within seven days."
+    },
+    {
+      "id": "4893503",
+      "time": "2026-05-22 01:18:54",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "據伊朗伊斯蘭共和國通訊社（IRNA）援引阿拉伯衛星電視臺訊息，在巴基斯坦斡旋下，美伊協議的最終草案已經達成，預計將在未來數小時內公佈。"
+    },
+    {
+      "id": "4893502",
+      "time": "2026-05-22 01:18:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油漲幅收窄，現價跌破每桶105美元。"
+    },
+    {
+      "id": "4893501",
+      "time": "2026-05-22 01:18:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數和納斯達克100指數迅速轉漲。"
+    },
+    {
+      "id": "4893500",
+      "time": "2026-05-22 01:16:51",
+      "tags": [
+        "公司",
+        "央行",
+        "國際"
+      ],
+      "text": "太平洋投資管理公司（PIMCO）的CIO Daniel Ivascyn：鑑於美債收益率飆漲，美聯儲將針對美國通脹問題採取行動。"
+    },
+    {
+      "id": "4893499",
+      "time": "2026-05-22 01:16:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟外交與安全政策高階代表卡拉斯：墨西哥與歐盟力求消除供應鏈各類風險。"
+    },
+    {
+      "id": "4893498",
+      "time": "2026-05-22 01:16:00",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "週四（5月21日），美聯儲隔夜逆回購協議（RRP）使用規模為32.81億美元（交易對手9家），上個交易日報248.67億美元。"
+    },
+    {
+      "id": "mkt:019e4b89-4a6b-7aa1-957f-ec948286f1b9",
+      "time": "2026-05-22 01:15:49",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "NEW YORK FED ACCEPTS $3.281 BLN OF $3.281 BLN SUBMITTED TO REVERSE REPO FACILITY ON MAY 21"
+    },
+    {
+      "id": "mkt:019e4b88-88a9-7aa1-957f-e0c7aace157f",
+      "time": "2026-05-22 01:14:59",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "US-IRAN DRAFT AGREEMENT REACHED VIA PAKISTAN MEDIATION, EXPECTED TO BE ANNOUNCED IN NEXT FEW HOURS - IRNA"
+    },
+    {
+      "id": "4893497",
+      "time": "2026-05-22 01:14:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟外交與安全政策高階代表卡拉斯：墨西哥與歐盟謀求貿易多元化發展。"
+    },
+    {
+      "id": "4893496",
+      "time": "2026-05-22 01:12:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【黑龍江：加快推動高質量振興發展、建設現代化強省】記者從21日舉辦的“開局起步‘十五五’黑龍江省專題新聞釋出會”上獲悉，“十五五”時期，黑龍江省將把國家“十五五”規劃綱要細化為黑龍江的施工圖、任務書，加快推動高質量振興發展、建設現代化強省。黑龍江省委副書記、省長梁惠玲表示，黑龍江“十五五”規劃綱要編制過程中，堅持三個“牢牢把握”。一是牢牢把握在國家發展大局中的戰略定位。堅決扛起維護國家“五大安全”重大政治責任，建好建強“三基地一屏障一高地”，在服務國家發展大局中貢獻“龍江”力量、體現“龍江”擔當。二是牢牢把握承前啟後的歷史方位。錨定2035年與全國同步基本實現社會主義現代化目標，搶抓新一輪科技革命和產業變革機遇，加快揚優勢補短板、轉方式調結構、提質量增效益，推動綜合實力邁上新臺階。三是牢牢把握造福人民的根本價值取向。將群眾所思所想所盼轉化為一系列可感可及的民生實事，更好滿足人民美好生活需要。（新華社）"
+    },
+    {
+      "id": "te:markets:552843",
+      "time": "2026-05-22 01:10:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Stocks in Canada Hit 4-week High — TSX increased to 34337.00 Index Points, the highest since April 2026. Over the past 4 weeks, Canada Stock Market Index (TSX) gained 1.05%, and in the last 12 months, it increased 32.71%."
+    },
+    {
+      "id": "4893495",
+      "time": "2026-05-22 01:08:56",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部：今日將九名隸屬真主黨的官員列入制裁名單。"
+    },
+    {
+      "id": "4893494",
+      "time": "2026-05-22 01:05:20",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲巴爾金警告供應衝擊頻發考驗通脹預期錨定】美聯儲巴爾金表示，企業和消費者對最新一輪供應衝擊的承受能力，將決定美聯儲是否能夠繼續“忽略”通脹走高而不加息。“通脹已連續逾五年高於2%的目標，值得思考的是，如此多輪衝擊的累積影響是否會削弱通脹預期錨定，”巴爾金為週四在北卡羅來納州羅利市一場活動準備的演講中表示。“對我而言，這取決於企業、消費者以及通脹預期能夠承受多少。”巴爾金髮表上述言論之際，伊朗戰爭引發的能源價格衝擊已推動美聯儲官員的態度轉向，不再考慮短期內降息。越來越多官員主張釋放訊號，表明美聯儲下一步行動可能是降息，也可能是加息。"
+    },
+    {
+      "id": "4893493",
+      "time": "2026-05-22 01:03:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國環保署資料顯示，4月美國生成了6.9億份生物柴油（D4）調合積分，3月該數值為6.53億份。"
+    },
+    {
+      "id": "4893492",
+      "time": "2026-05-22 01:03:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：AdventHealth正在部署Chatgpt以減輕行政負擔，並最佳化其系統內的臨床工作流程。"
+    },
+    {
+      "id": "4893491",
+      "time": "2026-05-22 01:03:19",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【美國駐丹麥大使：特朗普已排除對格陵蘭島使用武力】當地時間5月21日，美國駐丹麥大使肯尼思·豪韋裡在格陵蘭島首府努克新美國領事館開幕儀式上發表的講話，稱美國總統特朗普已排除對格陵蘭島使用武力的可能性。格陵蘭島的未來必須由格陵蘭人民自己決定。特朗普2025年重返白宮以來多次揚言要得到格陵蘭島，並聲稱不排除動用武力。據悉，美國、丹麥和格陵蘭島已成立三方工作組，商討美國在北極地區的安全關切。按丹麥首相梅特·弗雷澤裡克森的說法，工作組“嘗試尋找解決方案”的同時，不會逾越丹麥劃定的“紅線”。（央視新聞）"
+    },
+    {
+      "id": "mkt:019e4b7d-52b3-7aa1-957f-d8c88d611f3c",
+      "time": "2026-05-22 01:02:44",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OPENAI: ADVENTHEALTH IS DEPLOYING CHATGPT FOR HEALTHCARE TO REDUCE ADMINISTRATIVE BURDEN AND STREAMLINE CLINICAL WORKFLOWS ACROSS ITS SYSTEM"
+    },
+    {
+      "id": "4893490",
+      "time": "2026-05-22 01:02:36",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部拍賣27天期國庫券，得標利率3.605%。"
+    },
+    {
+      "id": "mkt:019e4b7a-e0ca-7aa1-957f-d136a3587aff",
+      "time": "2026-05-22 01:00:04",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD",
+        "Impact mixed"
+      ],
+      "text": "BARKIN: BEFORE TARIFFS AND RISE IN OIL PRICES THE FED WAS \"BASICALLY THERE\" ON MEETING THE INFLATION TARGET"
+    },
+    {
+      "id": "4893489",
+      "time": "2026-05-22 01:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】國際銅夜盤收跌0.52%，滬銅收跌0.66%，滬鋁收跌0.39%，滬鋅收跌0.88%，滬鉛收漲0.57%，滬鎳收跌0.81%，滬錫收跌0.96%。氧化鋁夜盤收跌0.37%，鋁合金收跌0.26%。不鏽鋼夜盤收跌0.17%。"
+    },
+    {
+      "id": "mkt:019e4b7a-3201-7aa1-957f-c8145269ea5c",
+      "time": "2026-05-22 00:59:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "CHINA SUSPENDS BEEF IMPORTS FROM THREE BRAZILIAN PLANTS DUE TO USE OF SYNTHETIC HORMONES, REPORTS GLOBO RURAL"
+    },
+    {
+      "id": "4893488",
+      "time": "2026-05-22 00:57:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部：伊朗外長與奧地利外長於本週四下午通電話，雙方就外交局勢最新動態及雙邊關係相關事宜交換意見。"
+    },
+    {
+      "id": "mkt:019e4b75-c060-7aa1-957f-c608e44c8865",
+      "time": "2026-05-22 00:54:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "GEMINI: STARTING TODAY, OFFERS NEW ADDITIONS TO STABLECOIN & DIGITAL ASSET ECOSYSTEM: USAT (ETHEREUM), XAUT (ETHEREUM), USDT0 TRANSFERS (ARBITRUM)"
+    },
+    {
+      "id": "mkt:019e4b72-9f4a-7aa1-957f-ba29fd49dca4",
+      "time": "2026-05-22 00:51:03",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "BARKIN: DO NOT BELIEVE THE NET IMPACT OF AI ON JOBS WILL BE NEGATIVE, BUT THE TRANSITION COULD BE DIFFICULT"
+    },
+    {
+      "id": "4893487",
+      "time": "2026-05-22 00:50:57",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲巴爾金：我認為人工智慧對就業的淨影響不會是負面的，但轉型過程可能會很艱難。"
+    },
     {
       "id": "4893486",
       "time": "2026-05-22 00:40:20",
@@ -145592,289 +145887,6 @@
         "DXY"
       ],
       "text": "ISRAELI BROADCASTING: ISRAEL PREPARES FOR SCENARIO OF RETURN TO WAR AND READINESS FOR POTENTIAL IRANIAN RESPONSE"
-    },
-    {
-      "id": "4880441",
-      "time": "2026-05-15 01:26:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "【加密行業取得勝利，《透明法案》監管草案透過美國參議院關鍵關卡】在美國參議院一個委員會5月14日批准《透明法案》（Clarity Act）後，加密貨幣行業取得了一項關鍵勝利。這是首部針對這一新興行業的廣泛立法。參議院銀行委員會的投票結果在很大程度上遵循了黨派界線，最終按15-9票透過。其中，來自亞利桑那州的民主黨參議員Ruben Gallego加入全體共和黨委員的行列，投下了贊成票。 儘管如此，該法案在正式成為法律之前仍有很長的路要走。考慮到強大的反對力量，且該法案在呈交總統特朗普簽署之前，還需透過參議院全體表決以及眾議院的稽核。在聽證會期間，共和黨人和民主黨人均承諾將繼續就分歧領域展開工作。這些分歧包括：如何更有效地確保利用數字資產的非法分子被繩之以法，以及針對像特朗普這樣從加密貨幣中獲利的民選官員的倫理約束措辭。"
-    },
-    {
-      "id": "mkt:019e2782-5542-7bb5-b4d1-5a2ed0a86001",
-      "time": "2026-05-15 01:21:53",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "NEW YORK FED ACCEPTS $2.034 BLN OF $2.034 BLN SUBMITTED TO REVERSE REPO FACILITY ON MAY 14"
-    },
-    {
-      "id": "4880437",
-      "time": "2026-05-15 01:19:41",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國聯邦通訊委員會批准威瑞森以10 億美元收購美國蜂窩通訊公司的頻譜資產。"
-    },
-    {
-      "id": "mkt:019e277f-8684-7bb5-b4d1-5416c74da3cb",
-      "time": "2026-05-15 01:18:49",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "IRAN FOREIGN MINISTER ARAGHCHI: UAE INVOLVED IN AGGRESSION AGAINST IRAN - IRIB"
-    },
-    {
-      "id": "mkt:019e277e-e5bd-7bb5-b4d1-4931da7e78f1",
-      "time": "2026-05-15 01:18:08",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "CEREBRAS SHARES SOAR IN HOTLY ANTICIPATED YEAR FOR AI DEBUTS -- WSJ"
-    },
-    {
-      "id": "em:qqyh_mlc:202605153737847141",
-      "time": "2026-05-15 01:16:40",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "週四（5月14日），美聯儲隔夜逆回購協議（RRP）使用規模為20.34億美元。"
-    },
-    {
-      "id": "4880434",
-      "time": "2026-05-15 01:16:04",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "週四（5月14日），美聯儲隔夜逆回購協議（RRP）使用規模為20.34億美元（交易對手8家），上個交易日報11.99億美元。"
-    },
-    {
-      "id": "mkt:019e277c-2dfb-7bb5-b4d1-46ce3512c652",
-      "time": "2026-05-15 01:15:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ALI ASGHAR NAKHAEI RAD, A MEMBER OF THE PARLIAMENT'S INTERNAL AFFAIRS AND COUNCILS COMMISSION, SAID: \"IT IS FITTING TO ANNOUNCE THE CLOSURE OF THE BAB AL-MANDAB STRAIT AS THE RESPONSE OF THE AXIS OF RESISTANCE TO ANY AGGRESSION BY THE ENEMY, SO THAT THE COST OF AGGRESSION BECOMES STAGGERING FOR HIM.\""
-    },
-    {
-      "id": "4880428",
-      "time": "2026-05-15 01:08:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "【利比亞總理：願同中方增進多領域務實合作】利比亞民族統一政府總理德拜巴13日出席利中戰略伙伴關係對話會，表示利比亞高度重視與中國的戰略伙伴關係，願同中方增進多領域務實合作。德拜巴在致辭中說，兩國優勢互補，雙方合作未來可期。他歡迎中國企業來利投資興業，利方願為中企提供安全穩定的營商環境。利方願同中方在能源、基建、工業等領域加強合作，實現互利共贏。中國駐利比亞大使馬旭亮表示，中利友好源遠流長，兩國合作政治基礎牢固，經濟互補性強，合作前景廣闊。中方願同利方共同努力，創造有利條件，穩步有序推進各領域務實合作，不斷豐富中利戰略伙伴關係內涵，造福兩國人民。（新華社）"
-    },
-    {
-      "id": "4880427",
-      "time": "2026-05-15 01:07:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外長阿拉格齊：伊朗所做的，不僅僅是一場與美以的戰爭，而是影響了整個世界，國際社會正在等待和平的實現。我們將強勢參與外交事務，我們的外交官是伊朗的戰士。我們將以最佳方式完成任何交給我們的任務，無論是對抗敵人還是進行對話。"
-    },
-    {
-      "id": "4880426",
-      "time": "2026-05-15 01:07:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "【聯想確認成為英偉達H200中國分銷商】5月14日，據路透社報道，美國商務部已批准約10家中國企業購買英偉達H200晶片，獲批名單包括一眾網際網路企業，聯想、富士康等分銷商及伺服器相關企業也已獲得相關授權。按照許可條款，每家獲批客戶最多可購買7.5萬顆H200晶片，既可直接向英偉達採購，也可透過授權分銷商購買。聯想方面已向路透社確認，其是獲准在中國銷售H200的企業之一。（觀察者網）"
-    },
-    {
-      "id": "mkt:019e2774-3f7c-7bb5-b4d1-3e574523873a",
-      "time": "2026-05-15 01:06:28",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "FED'S HAMMACK SAYS INDEPENDENCE CRITICAL TO EFFECTIVE CENTRAL BANK POLICY MAKING"
-    },
-    {
-      "id": "te:markets:550825",
-      "time": "2026-05-15 01:05:22",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Currency",
-        "Importance 2"
-      ],
-      "text": "GBP Extends Rout on Political Uncertainty — The British pound weakened to further to $1.34 on Thursday, the lowest in over one month, after major resignations signaled a heating shuffle for the Prime Minister cargo. MP Josh Simons resigned to allow Manchester mayor Andy Burnham to run for parliament, and Health Secretary Wes Streeting resigned to make himself available for PM. Both challenge incumbent Keir Starmer, who faces mounting pressure to step down after significant losses for the ruling Labour Party in last week’s local elections. Angela Rayner, another potential contender, was cleared by HMRC in a tax investigation this morning, potentially clearing her path to enter the race. Investors also processed comments from Bank of England's Sarah Breeden, who stated that the Middle East conflict is “much less likely” to trigger an inflation surge like in 2022. Meanwhile, the UK economy expanded by 0.6% in Q1 2026, with annual growth reaching a stronger-than-expected 1.1%, driven by a surprising 0.3% rise in March."
-    },
-    {
-      "id": "mkt:019e2773-370b-7bb5-b4d1-33de3fde9b62",
-      "time": "2026-05-15 01:05:22",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Brent",
-        "Impact mixed",
-        "WTI"
-      ],
-      "text": "JAPANESE TANKERS CROSS STRAIT OF HORMUZ AFTER PRIME MINISTER'S OUTREACH TO TEHRAN -- WSJ"
-    },
-    {
-      "id": "em:qqyh_mlc:202605153737846031",
-      "time": "2026-05-15 01:04:10",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "美聯儲哈瑪克表示，獨立性對有效的中央銀行政策制定至關重要。"
-    },
-    {
-      "id": "4880424",
-      "time": "2026-05-15 01:04:07",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "比特幣升破82000美元，日內漲3.40%。"
-    },
-    {
-      "id": "4880422",
-      "time": "2026-05-15 01:01:54",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲哈瑪克：獨立性對有效的中央銀行政策制定至關重要。"
-    },
-    {
-      "id": "4880421",
-      "time": "2026-05-15 01:01:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "摩托羅拉宣佈投入 1 億美元，推出擴張 Silvus Technologies 業務規模的計， 此次擴張預計將新增 200 個就業崗位。"
-    },
-    {
-      "id": "4880420",
-      "time": "2026-05-15 01:00:58",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲：5 月 13 日當週，美國未經季節調整的外國金融類商業票據未償餘額增加 151 億美元。"
-    },
-    {
-      "id": "mkt:019e276f-491f-7bb5-b4d1-29107db18f30",
-      "time": "2026-05-15 01:00:38",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "U.S. NON-SEASONALLY ADJUSTED COMMERCIAL PAPER OUTSTANDING RISES $12.2 BLN IN MAY 13 WEEK - FED U.S. SEASONALLY ADJUSTED COMMERCIAL PAPER OUTSTANDING RISES $1.9 BLN IN MAY 13 WEEK - FED U.S. NON-SEASONALLY ADJUSTED FOREIGN FINANCIAL COMMERCIAL PAPER OUTSTANDING RISES $15.1 BLN IN MAY 13 WEEK - FED"
-    },
-    {
-      "id": "4880419",
-      "time": "2026-05-15 01:00:36",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲：5 月 13 日當週，美國經季節調整的商業票據未償餘額增加 19 億美元。"
-    },
-    {
-      "id": "mkt:019e276e-ace3-7bb5-b4d1-25145b5459f9",
-      "time": "2026-05-15 01:00:25",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "CERE.O",
-        "Impact bullish"
-      ],
-      "text": "CEREBRAS SYSTEMS SHARES OPEN AT $350 IN NASDAQ DEBUT VS $185 IPO PRICE"
-    },
-    {
-      "id": "4880418",
-      "time": "2026-05-15 01:00:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "【夜盤期貨收盤】國際銅夜盤收跌0.40%，滬銅收跌0.35%，滬鋁收跌0.70%，滬鋅收漲0.20%，滬鉛收跌0.54%，滬鎳收跌1.06%，滬錫收跌1.33%。氧化鋁夜盤收跌0.32%，鋁合金收跌0.70%。不鏽鋼夜盤收跌0.83%。"
-    },
-    {
-      "id": "4880417",
-      "time": "2026-05-15 00:58:58",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "訊息人士稱：俄羅斯天然氣工業股份公司在 5 月 13 日遭遇無人機襲擊後，已暫停阿斯特拉罕天然氣加工廠的車用燃料生產。"
-    },
-    {
-      "id": "mkt:019e276d-11f5-7bb5-b4d1-1c8f08f481d9",
-      "time": "2026-05-15 00:58:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US SECRETARY OF STATE RUBIO: TRUMP DIDN'T ASK CHINA’S PRESIDENT XI FOR ANY HELP, THE US DOESN'T NEED CHINA'S HELP"
-    },
-    {
-      "id": "mkt:019e276c-ddcd-7bb5-b4d1-1356e0642fe3",
-      "time": "2026-05-15 00:58:26",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "US SECRETARY OF STATE RUBIO: TAIWAN WEAPON SALES WEREN'T THE PRIMARY FOCUS WITH CHINA’S PRESIDENT XI"
-    },
-    {
-      "id": "mkt:019e276c-beac-7bb5-b4d1-0f13b3465b85",
-      "time": "2026-05-15 00:58:18",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "US SECRETARY OF STATE RUBIO: CHINA AND THE US AGREE THAT HORMUZ SHOULDN'T BE MILITARIZED - NBC"
-    },
-    {
-      "id": "4880413",
-      "time": "2026-05-15 00:52:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "【倫鋅受供應擔憂影響躍升至近四年高點，銅價回落】LME期銅收跌214美元，報13938美元/噸。LME期鋁收漲5美元，報3658美元/噸。LME期鋅收漲56美元，報3584美元/噸。LME期鉛收漲6美元，報2015美元/噸。LME期鎳收跌278美元，報18899美元/噸。LME期錫收跌1390美元，報54656美元/噸。LME期鈷收平，報56290美元/噸。"
-    },
-    {
-      "id": "mkt:019e2765-0696-7bb5-b4d1-07c851d81847",
-      "time": "2026-05-15 00:49:52",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Hot",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7",
-        "Policy",
-        "Breaking News 24h",
-        "AAPL.O",
-        "Impact bearish"
-      ],
-      "text": "【Apple-OpenAI Partnership Frays as Startup Weighs Possible Legal Action】Apple’s partnership with OpenAI has deteriorated, with the AI startup preparing potential legal action over what it sees as Apple’s failure to fully support ChatGPT integration across iPhone, iPad and Mac products. OpenAI lawyers are working with an outside law firm on options including a possible breach-of-contract notice. OpenAI expected stronger user conversion to paid subscriptions and deeper Siri integration, but executives said Apple’s implementation remained limited and poorly promoted. Apple has also raised privacy concerns about OpenAI while expanding talks with rivals including Anthropic and Google for broader AI integrations in iOS 27."
     }
   ]
 }
