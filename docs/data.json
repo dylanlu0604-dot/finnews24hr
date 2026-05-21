@@ -1,7 +1,164 @@
 {
-  "updated": "2026-05-21 09:36:14",
-  "count": 15870,
+  "updated": "2026-05-21 09:40:17",
+  "count": 15880,
   "items": [
+    {
+      "id": "mkt:019e4830-34bd-777f-8614-67afab8f7b04",
+      "time": "2026-05-21 09:39:39",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "CHINA AUTONOMOUS DRIVING STOCKS RALLY: ZHEJIANG SHIBAO HITS LIMIT UP, DAZHONG TRANSPORTATION UP OVER 6%, HAOEN AUTO ELECTRIC ALSO GAINS, AFTER TESLA SAYS SUPERVISED FSD TO LAUNCH IN CHINA"
+    },
+    {
+      "id": "4891590",
+      "time": "2026-05-21 09:39:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【騰訊張軍：作業系統層級AI助手“馬維斯”正式上線】5月21日，騰訊公司公關總監@張軍 宣佈，騰訊出品的作業系統層級AI助手“馬維斯”正式上工，Windows端、Mac端、安卓端版本同步上線。"
+    },
+    {
+      "id": "4891589",
+      "time": "2026-05-21 09:38:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超5000億元，較上日此時放量447億元。"
+    },
+    {
+      "id": "4891588",
+      "time": "2026-05-21 09:38:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "新加坡電信集團：正積極尋找新增產能，以滿足新加坡本土主權人工智慧需求。"
+    },
+    {
+      "id": "4891587",
+      "time": "2026-05-21 09:38:13",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行小枝：在考量贖回與購買的長期平衡時，必須全面評估日本國債市場形勢、包括準備金餘額在內的流動性問題等各項因素。"
+    },
+    {
+      "id": "mkt:019e482e-d2c4-777f-8614-5dd1bebe60bd",
+      "time": "2026-05-21 09:38:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "BOJ KOEDA: WHEN CONSIDERING LONG-TERM BALANCE BETWEEN REDEMPTION AND PURCHASE, IMPORTANT TO COMPREHENSIVELY ASSESS FACTORS SUCH AS THE SITUATION IN THE JGB MARKET AND ISSUE OF LIQUIDITY, INCLUDING RESERVE BALANCES"
+    },
+    {
+      "id": "4891586",
+      "time": "2026-05-21 09:38:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "【無人駕駛板塊拉昇，浙江世寶觸及漲停】無人駕駛板塊拉昇，浙江世寶觸及漲停，大眾交通漲超6%，豪恩汽電跟漲。訊息面上，特斯拉官宣監督版FSD登陸中國。"
+    },
+    {
+      "id": "mkt:019e482e-9834-777f-8614-542f6988a74b",
+      "time": "2026-05-21 09:37:53",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "BOJ KOEDA: BOJ'S JGB HOLDINGS ARE EXPECTED TO DECLINE MODERATELY, AS THE AMOUNT OF BONDS REDEEMED EXCEEDS THE AMOUNT PURCHASED"
+    },
+    {
+      "id": "4891585",
+      "time": "2026-05-21 09:37:52",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行小枝：由於贖回的債券數量超過購買的數量，預計日本央行持有的日本國債數量將溫和下降。"
+    },
+    {
+      "id": "4891584",
+      "time": "2026-05-21 09:37:28",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行審議委員小枝淳子稱，日本央行有必要根據經濟活動、物價以及金融條件的變化，繼續上調政策利率。"
+    },
+    {
+      "id": "mkt:019e482e-1a19-7aa9-8523-9a205db24cea",
+      "time": "2026-05-21 09:37:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Hot",
+        "Market Themes",
+        "Chip Wars",
+        "Policy",
+        "Chinese Policy & Markets",
+        "0981.HK",
+        "Impact bullish",
+        "1347.HK",
+        "603986.SS"
+      ],
+      "text": "HK CHIP STOCKS EXTEND STRONG GAINS: MONTAGE TECHNOLOGY UP OVER 11%, SMIC UP OVER 5%, GIGADEVICE UP OVER 4% TO RECORD HIGH, HUA HONG SEMICONDUCTOR UP NEARLY 4%"
+    },
+    {
+      "id": "4891583",
+      "time": "2026-05-21 09:36:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "【半導體裝置股反覆走強 盛劍科技2連板】半導體裝置股反覆走強，盛劍科技2連板，聯動科技漲超10%，芯源微、盛美上海、富樂德、華峰測控跟漲。"
+    },
+    {
+      "id": "4891582",
+      "time": "2026-05-21 09:36:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "港股晶片股延續強勁走勢，瀾起科技漲幅擴大至逾11%，中芯國際漲超5%，兆易創新漲超4%創歷史新高，華虹半導體、天數智芯、上海復旦漲近4%。"
+    },
+    {
+      "id": "mkt:019e482d-1771-777f-8614-445cec494943",
+      "time": "2026-05-21 09:36:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "TAIWAN WEIGHTED INDEX RISES 3.25%"
+    },
+    {
+      "id": "4891581",
+      "time": "2026-05-21 09:36:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【貴金屬板塊反彈 華錫有色漲超6%】貴金屬板塊今日反彈，華錫有色漲超6%，山金國際、盛龍股份等股跟漲。"
+    },
+    {
+      "id": "te:economy:552497",
+      "time": "2026-05-21 09:36:05",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Unemployment Rate",
+        "Importance 3"
+      ],
+      "text": "Australia Jobless Rate Highest in 7 Months — Australia’s seasonally adjusted unemployment rate increased to 4.5% in April, above both the previous month and market expectations of 4.3%. It was the highest level since last September, as the number of unemployed rose by 33,000 to 692,500 from 659,500 in March. Employment unexpectedly fell by 18,600 to 14.74 million, defying estimates for a 17,500 increase."
+    },
     {
       "id": "4891580",
       "time": "2026-05-21 09:35:28",
@@ -142786,60 +142943,6 @@
         "公司"
       ],
       "text": "【港股科網股延續漲勢 阿里巴巴漲超7%】截至發稿，阿里巴巴-W(09988.HK)漲7.15%，騰訊控股(00700.HK)漲2.90%，小米集團-W(01810.HK)漲2.89%。"
-    },
-    {
-      "id": "4878891",
-      "time": "2026-05-14 09:40:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "三大指數集體翻綠。"
-    },
-    {
-      "id": "4878890",
-      "time": "2026-05-14 09:40:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "【4月份我國電商物流執行穩中有升 換季出行等消費需求明顯增長】中國物流與採購聯合會今天（14日）公佈4月份中國電商物流指數。資料顯示，4月份電商物流業務量保持較快增長，總體呈現穩中有升的發展態勢。4月份中國電商物流指數為110.6點，環比回升0.3點。4月份，快遞企業運營保持穩定，供給端多項指標持續改善。分項指數中，物流時效指數、履約率指數、滿意率指數、人員指數、實載率指數，均有所回升。中國物流資訊中心主任 劉宇航：4月份中國電商物流指數，在物流供給側多項指標呈現明顯改善，表明物流行業的經營效率和服務體驗在持續向好。同時，電商消費市場在換季出行等方面的消費需求呈現明顯增長的特徵。具體來看，換季服飾、戶外運動裝備等品類需求穩定增長。各地時令農產品繼續透過“直播+產地直髮”模式熱銷。旅遊踏青相關商品，如旅行箱包、防曬用品、便攜數碼裝置、戶外炊具等搜尋和成交保持活躍。消費品“以舊換新”政策持續發力，智慧家電等升級類商品在縣域市場表現亮眼。全國電商物流網路保持高效運轉。電商物流行業在保障日常寄遞需求的同時，積極推進服務最佳化與設施升級。針對時令蔬菜運輸配送，多家快遞企業最佳化包裝和運輸方案，開通專線通道，確保產品新鮮送達。另外，電商物流成本指數略有反彈有所回升，結束此前連續10個月的回落態勢。綜合來看，隨著後期居民出行及線上購物需求進一步釋放，預計5月電商物流指數將保持穩中有升的執行態勢。"
-    },
-    {
-      "id": "4878889",
-      "time": "2026-05-14 09:38:55",
-      "tags": [
-        "市場"
-      ],
-      "text": "滬指盤初震盪下挫翻綠，深成指、創業板指漲幅收窄。"
-    },
-    {
-      "id": "4878888",
-      "time": "2026-05-14 09:38:40",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "纖維板連續主力合約日內跌4%，現報1275.00元。"
-    },
-    {
-      "id": "te:markets:550494",
-      "time": "2026-05-14 09:38:22",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "South Korea",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "South Korean Shares Near 8,000 Milestone — The benchmark KOSPI climbed nearly 2% to around 7,980 on Thursday, extending gains to fresh record highs, amid a global tech rally. Semiconductor stocks led the advance after Wall Street technology shares climbed to new highs overnight on enthusiasm for AI-related companies. Samsung Electronics advanced over 5% after announcing plans to mass-produce next-generation CXL memory modules for AI servers later this year, while SK hynix gained 0.6%. Investor sentiment was further supported by optimism surrounding the Trump-Xi summit, with markets expecting the talks to help prevent further escalation in US-China trade tensions, particularly on tariffs and export controls. Additionally, domestic liquidity conditions remained favorable after Bank of Korea data showed money supply continued to expand in March, driven by increased short-term funds flowing into equity investments. Other notable gainers included LG Energy Solution (2.1%) and Hyundai Mobis (1.7%)."
-    },
-    {
-      "id": "4878887",
-      "time": "2026-05-14 09:37:36",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超5000億元，較上日此時放量799億元。"
     }
   ]
 }
