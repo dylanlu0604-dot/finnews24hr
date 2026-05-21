@@ -1,7 +1,43 @@
 {
-  "updated": "2026-05-21 12:39:11",
-  "count": 15853,
+  "updated": "2026-05-21 12:43:04",
+  "count": 15852,
   "items": [
+    {
+      "id": "4891826",
+      "time": "2026-05-21 12:42:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【松延動力與小碼王達成深度戰略合作，佈局具身智慧教育生態】5月21日，介面新聞獲悉，松延動力與少兒AI程式設計公司小碼王簽署簽署深度戰略合作協議，雙方將圍繞K12具身智慧課程、競賽及行業標準制定展開合作。目前，松延動力萬元級人形機器人“小布米”已落地全國多所幼兒園、中小學及教育機構。"
+    },
+    {
+      "id": "4891825",
+      "time": "2026-05-21 12:41:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【蔚來汽車：全新ES8交付已超100,000臺 重新整理中國乘用車40萬元以上高階車型的銷售和交付紀錄】全新ES8交付已超100,000臺，重新整理中國乘用車40萬元以上高階車型的銷售和交付紀錄。2025年12月-2026年4月，連續五個月獲得大型SUV和40萬元以上車型。"
+    },
+    {
+      "id": "4891824",
+      "time": "2026-05-21 12:40:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國紅十字會總會救援物資抵達湖南受災地區，開始分發】從中國紅十字會總會獲悉，針對湖南省多地洪澇災害和救災需求，中國紅十字會總會啟動四級應急響應，緊急向湖南受災地區調撥賑濟家庭包3500個，支援當地開展救災救助工作。 據瞭解，目前物資已抵達常德市、湘西州等受災地區，開始分發。  （澎湃）"
+    },
+    {
+      "id": "te:economy:552558",
+      "time": "2026-05-21 12:39:34",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Netherlands",
+        "Unemployment Rate",
+        "Importance 1"
+      ],
+      "text": "Dutch Jobless Rate Falls to 8-Month Low — The Netherlands’ seasonally adjusted unemployment rate ticked down to 3.9% in April 2026, the lowest level in eight months, from 4.0% in the previous month. The number of unemployed people fell by 10 thousand to 397 thousand. In addition, there were 3.2 million people who had not recently looked for work and/or were not immediately available for it, primarily those who are retired or unable to work due to illness or disability. At the end of April, the number of unemployment benefit recipients stood at 203.1 thousand, 0.5% higher than in the previous month. In April 2025, the jobless rate was slightly lower at 3.8%."
+    },
     {
       "id": "te:economy:552556",
       "time": "2026-05-21 12:38:06",
@@ -142610,53 +142646,6 @@
         "公司"
       ],
       "text": "【宏利金融：一季度歸屬於股東的淨收入11億加元，同比增長149%】5月14日，宏利金融在港交所公告，2026年第一季度歸屬於股東的淨收入11億加元，同比增長149%；每股普通股攤薄盈利0.65加元。"
-    },
-    {
-      "id": "mkt:019e24ca-670d-777f-be5b-e0ac430f2ecb",
-      "time": "2026-05-14 12:41:19",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "XI MEETS WITH US CEOS - CCTV"
-    },
-    {
-      "id": "4879136",
-      "time": "2026-05-14 12:41:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "中國國家主席會見隨同美國總統特朗普訪華的美國企業家。（央視）"
-    },
-    {
-      "id": "mkt:019e24ca-4639-777f-be5b-d8f88c11326d",
-      "time": "2026-05-14 12:40:54",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "XI, TRUMP MEETING CONCLUDES - CCTV"
-    },
-    {
-      "id": "4879135",
-      "time": "2026-05-14 12:40:14",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【中美元首會談結束】5月14日，中國國家主席習近平在北京人民大會堂同來華進行國事訪問的美國總統特朗普舉行會談。目前，會談已結束。（央視新聞）"
-    },
-    {
-      "id": "4879134",
-      "time": "2026-05-14 12:39:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI：我們正在更新安全證書，所有macOS使用者都需將OpenAI應用更新至最新版本。"
     }
   ]
 }
