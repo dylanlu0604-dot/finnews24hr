@@ -1,7 +1,123 @@
 {
-  "updated": "2026-05-21 13:36:01",
-  "count": 15841,
+  "updated": "2026-05-21 13:40:04",
+  "count": 15847,
   "items": [
+    {
+      "id": "4891892",
+      "time": "2026-05-21 13:39:18",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行小枝：通脹超調風險大於經濟衰退風險。"
+    },
+    {
+      "id": "mkt:019e490b-8241-7ee7-b68e-46bd9747e159",
+      "time": "2026-05-21 13:39:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BOJ'S KOEDA: DON'T EXPECT SHARP DETERIORATION IN ECONOMY BUT DEPENDING ON MIDDLE EAST CONFLICT, OUR VIEW ON ECONOMIC OUTLOOK COULD CHANGE"
+    },
+    {
+      "id": "4891891",
+      "time": "2026-05-21 13:38:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "慧博雲通午後快速走低，現跌超18%。"
+    },
+    {
+      "id": "4891890",
+      "time": "2026-05-21 13:38:29",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行小枝淳子：需同時關注來自中東的價格和增長風險。"
+    },
+    {
+      "id": "4891889",
+      "time": "2026-05-21 13:37:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "AMD宣佈採用臺積電2奈米工藝技術量產下一代AMD EPYC（霄龍）處理器“Venice（威尼斯）”。"
+    },
+    {
+      "id": "4891888",
+      "time": "2026-05-21 13:37:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "AMD：搭載“威尼斯”和AMD Instinct MI450X GPU的Helios機架式平臺有望於2026年下半年開始實現多千兆瓦部署。"
+    },
+    {
+      "id": "4891887",
+      "time": "2026-05-21 13:36:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "AMD：與日月光半導體和SPIL公司合作開發2.5D橋接互連技術。"
+    },
+    {
+      "id": "mkt:019e4908-e309-7ee7-b68e-3e2a3a8807ff",
+      "time": "2026-05-21 13:36:19",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "US10Y",
+        "Impact bearish",
+        "S&P500",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【Jamie Dimon Says Interest Rates Could Be Much Higher From Here】Jamie Dimon warned interest rates could rise much higher from current levels, citing a shift from a global savings glut to insufficient savings. He said concerns over higher oil prices, persistent inflation, government spending in the US, Japan and the UK, and AI-driven economic growth are pressuring long-term bonds. Dimon warned investors may eventually demand significantly higher compensation to hold long-duration debt."
+    },
+    {
+      "id": "4891886",
+      "time": "2026-05-21 13:36:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中汽協：1-4月銷量排名前十位的MPV生產企業共銷售24.3萬輛】據中國汽車工業協會統計分析，2026年1-4月，銷量排名前十位的MPV生產企業共銷售24.3萬輛，佔MPV銷售總量的80.8%。在上述十家企業中，與去年同期相比，長城汽車、東風公司和小鵬汽車銷量呈不同程度增長，其他企業銷量呈不同程度下降。"
+    },
+    {
+      "id": "mkt:019e4908-c8d0-7ee7-b68e-33ff4b235ab7",
+      "time": "2026-05-21 13:36:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "TAIWAN'S WEIGHTED INDEX CLOSED UP 3.37%"
+    },
+    {
+      "id": "4891885",
+      "time": "2026-05-21 13:36:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "豆粕連續主力合約日內跌1%，現報2999.00元。"
+    },
+    {
+      "id": "4891884",
+      "time": "2026-05-21 13:36:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【銀行板塊震盪走高，重慶銀行漲超3%】銀行板塊震盪走高，重慶銀行漲超3%，建設銀行、中國銀行、青島銀行漲超2%。"
+    },
+    {
+      "id": "4891883",
+      "time": "2026-05-21 13:35:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "AMD宣佈將在中國臺灣地區投入超100億美元產業生態投資，以加速人工智慧基礎設施建設。"
+    },
     {
       "id": "4891882",
       "time": "2026-05-21 13:35:08",
@@ -142497,68 +142613,6 @@
         "其他"
       ],
       "text": "【阿里雲日均Token收入較4月初已增長五倍】記者多方獲悉，截至5月13日，阿里雲日均Token收入相比4月初已經增長超過五倍。月收入目前已經達到數億元級別。2026年之後，阿里雲將Token（詞元）收入作為核心經營指標。阿里雲今年4月初設定了一個短期Token收入增長目標。具體要求是，到5月15日前，日均Token收入較4月初要增長5倍。也就是說，阿里雲要在兩個月內完成目標。目前，這個目標已經達成。記者向阿里雲方面發出了置評請求，不過阿里雲方面未回應上述訊息。(財經雜誌)"
-    },
-    {
-      "id": "4879203",
-      "time": "2026-05-14 13:38:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "本田執行長：目標是將新型混合動力系統的成本較2023款降低30%以上。"
-    },
-    {
-      "id": "4879202",
-      "time": "2026-05-14 13:38:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "【上海科創基金投資組合IPO數量增至202家】據上海科創基金訊息，5月13日，上海科創基金子基金峰瑞二期投資企業劑泰科技，子基金蘇州禮康、禮來五期投資企業英派藥業同日在港交所掛牌上市，上海科創基金投資組合IPO數量增至202家。"
-    },
-    {
-      "id": "mkt:019e24fd-9361-777f-be5c-667decdfb878",
-      "time": "2026-05-14 13:37:38",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "XI: CHINA AND US TO BUILD CONSTRUCTIVE STRATEGIC STABLE RELATIONS AS NEW POSITIONING OF BILATERAL TIES - CCTV"
-    },
-    {
-      "id": "4879201",
-      "time": "2026-05-14 13:37:04",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【中美建設性戰略穩定關係】5月14日上午，國家主席習近平在北京人民大會堂同來華進行國事訪問的美國總統特朗普舉行會談。習近平：我同特朗普總統贊同將構建“中美建設性戰略穩定關係”作為中美關係新定位。（央視新聞）"
-    },
-    {
-      "id": "4879200",
-      "time": "2026-05-14 13:36:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "【印度北方邦暴風雨已致90人死亡】當地時間13日，印度北方邦多地的強風暴及強降雨天氣已造成90人死亡。"
-    },
-    {
-      "id": "mkt:019e24fc-cf8a-777f-be5c-5d599901fd38",
-      "time": "2026-05-14 13:36:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TAIWAN'S WEIGHTED INDEX CLOSED UP 0.91%"
-    },
-    {
-      "id": "te:markets:550537",
-      "time": "2026-05-14 13:36:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "NZX 50 Falls for 3rd Day, Down 0.3% at Close — The NZX 50 fell 38 points, or 0.3%, to close at 13,025 on Thursday, retreating for the third consecutive session and marking its lowest level since May 4, mainly driven by losses in the energy, consumer staples, and healthcare sectors. Wednesday's RBNZ quarterly survey, which highlighted expectations of higher inflation, interest rates, and unemployment, along with weaker growth for the coming year, continued to pressure sentiment. Investor sentiment was further subdued ahead of the release of New Zealand’s food inflation data and manufacturing PMI scheduled for Friday. Markets are also monitoring the summit between US President Trump and Chinese President Xi Jinping, which begins today, amid hopes of easing trade tensions. Air New Zealand slumped 5.8% after the firm warned of its biggest loss in four years due to higher fuel costs amid the Middle East crisis. Other major losers included A2 Milk (-3.7%), Mainfreight (-2.3%), and Turners Automotive Group (-2.3%)."
     }
   ]
 }
