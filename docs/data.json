@@ -1,7 +1,35 @@
 {
-  "updated": "2026-05-22 05:01:57",
-  "count": 16223,
+  "updated": "2026-05-22 05:05:52",
+  "count": 16221,
   "items": [
+    {
+      "id": "4893638",
+      "time": "2026-05-22 05:04:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "週四（5月21日）紐約尾盤（週五北京時間04:59），離岸人民幣（CNH）兌美元報6.8001元，較週三紐約尾盤漲21點，日內整體交投於6.8083-6.7963元區間。"
+    },
+    {
+      "id": "4893637",
+      "time": "2026-05-22 05:02:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達宣佈即將面向金融界舉辦的活動。"
+    },
+    {
+      "id": "te:economy:552860",
+      "time": "2026-05-22 05:01:33",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Argentina",
+        "Monthly GDP YoY",
+        "Importance 0"
+      ],
+      "text": "Argentina Economic Activity Growth Hits 9-Month High — Argentina’s economic activity rose 5.5% year-on-year in March 2026, accelerating from a 2.1% increase in February and marking the strongest growth since June 2025. Fourteen of the fifteen sectors surveyed posted annual gains during the month. The strongest expansions were recorded in fishing (30.9%) and agriculture, livestock, hunting and forestry (17.9%). Mining and quarrying also grew strongly, up 16.3%, while manufacturing activity increased 4.6%. In contrast, public administration and defense; compulsory social security plans (-1.2%) was the only sector to contract. On a monthly basis, the economic activity indicator advanced 3.5%."
+    },
     {
       "id": "4893636",
       "time": "2026-05-22 05:00:43",
@@ -145813,46 +145841,6 @@
         "公司"
       ],
       "text": "路威酩軒集團與WHP Global 、簽署協議，收購MARC JACOBS品牌。"
-    },
-    {
-      "id": "4880628",
-      "time": "2026-05-15 05:03:50",
-      "tags": [
-        "市場"
-      ],
-      "text": "【COMEX黃金期貨跌1.07%，報4656.4美元/盎司】 COMEX黃金期貨跌1.07%，報4656.4美元/盎司；COMEX白銀期貨跌5.97%，報84.03美元/盎司。"
-    },
-    {
-      "id": "4880627",
-      "time": "2026-05-15 05:03:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "【滙豐：上調今明兩年銀價預測 但供應缺口收窄或限制漲勢】滙豐銀行在最新研報中上調了對白銀價格的預測，目前預計白銀在2026年和2027年的平均價格分別為每盎司75美元和68美元，高於此前預測的68.25美元和57美元。"
-    },
-    {
-      "id": "4880626",
-      "time": "2026-05-15 05:02:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "NowVertical：與拉美頭部金融科技企業達成合作協議。"
-    },
-    {
-      "id": "4880625",
-      "time": "2026-05-15 05:02:12",
-      "tags": [
-        "市場"
-      ],
-      "text": "英鎊兌美元跌0.9%，創2月5日以來最大跌幅。"
-    },
-    {
-      "id": "4880624",
-      "time": "2026-05-15 05:02:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "Nowvertical簽署價值 400 萬美元、為期三年的人工智慧與谷歌雲合作協議。"
     }
   ]
 }
