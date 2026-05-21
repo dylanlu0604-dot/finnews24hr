@@ -1,7 +1,151 @@
 {
-  "updated": "2026-05-21 18:36:58",
-  "count": 15985,
+  "updated": "2026-05-21 18:40:57",
+  "count": 15977,
   "items": [
+    {
+      "id": "te:economy:552717",
+      "time": "2026-05-21 18:40:10",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Portugal",
+        "Current Account",
+        "Importance 1"
+      ],
+      "text": "Portugal Current Account Swings to Surplus — Portugal’s current account posted a surplus of €93.97 million in March 2026, reversing from a deficit of €70.53 million recorded a year earlier. The secondary income surplus widened to €463.2 million from €440.7 million, while the primary income deficit narrowed significantly to €232.3 million from €508.7 million, largely reflecting lower interest payments and stronger property income flows. In contrast, the trade deficit widened to €2,581.9 million from €2,524.3 million, as imports grew faster than exports. The services surplus also narrowed to €2,445.2 million from €2,521.8 million, mainly due to weaker business and transportation services exports."
+    },
+    {
+      "id": "4892692",
+      "time": "2026-05-21 18:39:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲2%，現報107.17美元/桶。"
+    },
+    {
+      "id": "4892691",
+      "time": "2026-05-21 18:39:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "德國兩年期國債收益率上漲最高達4.3個基點，達到2.687% 。"
+    },
+    {
+      "id": "mkt:019e4a1e-b3b0-799b-b5d5-5793d663feb1",
+      "time": "2026-05-21 18:39:46",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "US DOLLAR INDEX RISES AFTER REPORTS IRAN'S SUPREME LEADER HAS ORDERED NEAR-WEAPONS GRADE URANIUM MUST STAY IN IRAN, LAST UP 0.14% AT 99.27"
+    },
+    {
+      "id": "4892690",
+      "time": "2026-05-21 18:39:44",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破107美元/桶，日內漲1.89%。"
+    },
+    {
+      "id": "mkt:019e4a1e-8a41-799b-b5d5-4a73613cf033",
+      "time": "2026-05-21 18:39:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "U.S. STOCK INDEX FUTURES FALL AFTER REPORT IRAN'S SUPREME LEADER ORDERS NEAR-WEAPONS-GRADE URANIUM MUST STAY IN IRAN U.S. S&P 500 E-MINI FUTURES DOWN 0.25%, NASDAQ 100 FUTURES DOWN 0.35%, DOW FUTURES DOWN 0.09%"
+    },
+    {
+      "id": "mkt:019e4a1e-5781-799b-b5d5-42fc424ed98d",
+      "time": "2026-05-21 18:39:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH"
+      ],
+      "text": "CHINA CABINET MEETING: DISCUSSED DRAFT REVISION TO CENTRAL BANK LAW - STATE MEDIA"
+    },
+    {
+      "id": "4892689",
+      "time": "2026-05-21 18:39:19",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美元指數在有報道稱伊朗最高領袖下令高濃縮鈾（接近武器級）必須留存在伊朗境內後上漲，最新上漲0.14%，報99.27點。"
+    },
+    {
+      "id": "4892688",
+      "time": "2026-05-21 18:39:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【神州數碼：近期為子公司提供超7億元擔保】神州數碼公告稱，公司近期為子公司提供多筆擔保。包括為廣州神州數碼資訊科技有限公司與渤海銀行深圳分行的5億元授信業務、合肥神州數碼有限公司與渤海銀行合肥分行的1億元授信業務等提供連帶責任保證擔保，擔保金額共計約7.1億元（含1500萬美元），保證期間均為債務履行期限屆滿之日起三年。截至公告日，公司及控股子公司對外擔保總金額為682.41億元，實際佔用額289.93億元，佔最近一期經審計淨資產的263.42%，無逾期擔保情形。"
+    },
+    {
+      "id": "4892687",
+      "time": "2026-05-21 18:38:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【康普頓：控股股東擬減持不超1%股份】康普頓公告稱，截至公告披露日，控股股東路邦化工及其一致行動人恆嘉世科合計持股佔公司總股本的52.98%。路邦化工計劃自減持計劃公告之日（2026年5月22日）起15個交易日後的3個月內（即2026年6月15日至2026年9月14日），透過集中競價交易方式減持不超2,564,400股，即不超公司股份總數的1%，減持原因為股東自身資金需求。"
+    },
+    {
+      "id": "4892686",
+      "time": "2026-05-21 18:38:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "自然資源部與中國氣象局5月21日18時聯合釋出地質災害氣象風險預警：預計，5月21日20時至22日20時，福建北部、湖南南部、廣東北部和南部、廣西東部、四川東部、雲南南部發生地質災害的氣象風險較高（黃色預警）。"
+    },
+    {
+      "id": "4892685",
+      "time": "2026-05-21 18:38:20",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國標普500 E-迷你股指期貨下跌0.25%，納斯達克100股指期貨下跌0.35%，道指期貨下跌0.09%。"
+    },
+    {
+      "id": "4892684",
+      "time": "2026-05-21 18:37:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【“明顯嗅到一絲滯脹味道” 戰爭拖累全球增長 通脹憂慮升溫】在戰爭引發的能源危機進入第三個月期間，全球經濟顯現出增長動能減弱、通脹壓力加劇的跡象。從澳大利亞到歐洲公佈的採購經理調查顯示，5月製造業和服務業企業面臨的困境正在加深。尤其是標普全球釋出的製造業指標顯示，除英國外，週四早間公佈的各項工廠活動指數全面放緩，部分甚至陷入萎縮。調查結果一方面顯示，此前企業大規模補庫存熱潮的影響仍在持續，另一方面也凸顯成本飆升正迫使企業自行消化壓力，或將部分負擔轉嫁給消費者。"
+    },
+    {
+      "id": "4892683",
+      "time": "2026-05-21 18:37:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿聯酋石油巨頭稱，霍爾木茲海峽石油運輸完全恢復要到2027年上半年。"
+    },
+    {
+      "id": "mkt:019e4a1c-1439-799b-b5d5-3c0c384e9d9c",
+      "time": "2026-05-21 18:36:54",
+      "tags": [
+        "MKT News",
+        "DAX",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "EUROPEAN SHARES TURN SHARPLY LOWER, NOW DOWN 0.22% ON THE DAY AFTER REUTERS REPORTS IRAN'S SUPREME LEADER HAS ORDERED NEAR-WEAPONS GRADE URANIUM MUST STAY IN IRAN"
+    },
     {
       "id": "4892682",
       "time": "2026-05-21 18:35:56",
@@ -69,6 +213,14 @@
         "公司"
       ],
       "text": "【泰山石油：完成回購334.84萬股】泰山石油公告，截至本公告披露日，公司本次回購股份方案已實施完成。公司以集中競價交易方式累計回購公司股份數量為334.84萬股，佔公司總股本的0.70%，回購均價為7.57元/股，成交總金額為2536.37萬元（不含交易費用）。本次用於回購的資金總額已達到回購股份方案中的回購資金總額下限，且不超過回購股份方案中的回購資金總額上限，符合相關法律法規的要求，本次回購股份方案已實施完畢。"
+    },
+    {
+      "id": "4892674",
+      "time": "2026-05-21 18:32:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【湖北：加快建設武漢具有全國影響力的科技創新中心】據“湖北釋出”，5月21日，湖北省委書記、省人大常委會主任王忠林主持召開加快建設武漢具有全國影響力的科技創新中心工作推進會。王忠林強調，要強化研發創新，切實提升創新輻射引領力。加強基礎研究和應用基礎研究，滾動實施“61020”全鏈條攻關，充分發揮武漢大學、華中科技大學等高校院所和科研平臺支撐作用，建立創新聯盟，推動跨界融合，力爭取得更多原創性突破性基礎研究成果、攻克更多“卡脖子”關鍵核心技術、形成更多國內外“首創首發”標誌性產品。加強國際交流合作，積極引進一流科技服務機構，主動融入全球創新網路。加強區域協同，大力推進省域協同創新和長江中游城市群科技創新共同體建設，不斷增強創新整體效能。"
     },
     {
       "id": "4892673",
@@ -143548,230 +143700,6 @@
         "公司"
       ],
       "text": "【步長製藥：控股子公司擬簽署智慧財產權合作協議】步長製藥公告，公司控股子公司浙江華派生物醫藥有限公司、浙江天元生物藥業有限公司擬與合肥科醫諾生物科技有限公司、南京科醫諾生物科技有限公司就人用季節性廣譜流感疫苗專案智慧財產權的授權及商業化達成相關合作，並簽署《關於人用季節性廣譜流感疫苗專案智慧財產權（KYN003管線及相關技術秘密）之合作協議》。"
-    },
-    {
-      "id": "mkt:019e2613-27ba-7335-8cb0-427f66c2f89a",
-      "time": "2026-05-14 18:40:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. TREASURY SECRETARY BESSENT ON AI: GOING FORWARD, WE WILL BE MORE ON A RAMP THAN A STEP FUNCTION WITH HOW MODELS AFFECT BUSINESSES U.S. TREASURY SECRETARY BESSENT ON AI: ANTHROPIC HAS BEEN VERY ENGAGED WITH PENTAGON, WHITE HOUSE ON MYTHOS"
-    },
-    {
-      "id": "4879859",
-      "time": "2026-05-14 18:40:40",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國財政部長貝森特談人工智慧：將就安全漏洞問題與相關企業展開合作。"
-    },
-    {
-      "id": "mkt:019e2612-f95b-7335-8cb0-3badcd02645a",
-      "time": "2026-05-14 18:40:34",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "U.S. TREASURY SECRETARY BESSENT ON AI: WE ARE WORKING WITH BIG BANKS AND THEN REGIONALS"
-    },
-    {
-      "id": "mkt:019e2612-d625-7335-8cb0-327217009ff7",
-      "time": "2026-05-14 18:40:29",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "U.S. TREASURY SECRETARY BESSENT ON AI: GOING TO WORK WITH COMPANIES ON VULNERABILITIES"
-    },
-    {
-      "id": "4879858",
-      "time": "2026-05-14 18:40:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "NSDL：全球基金在前一交易日淨賣出價值392億盧比的印度股票。"
-    },
-    {
-      "id": "4879857",
-      "time": "2026-05-14 18:40:09",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國財政部長貝森特談及人工智慧：我們正與大型銀行，以及地區性銀行展開合作；三大人工智慧巨頭與美國政府合作良好。"
-    },
-    {
-      "id": "4879856",
-      "time": "2026-05-14 18:39:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "貝森特：不會代表國防部就其與 Anthropic 相關事宜發表言論。"
-    },
-    {
-      "id": "4879855",
-      "time": "2026-05-14 18:39:40",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國財政部長貝森特談及人工智慧：未來，人工智慧模型對企業的影響將更多是漸進式提升，而非突變式躍升。"
-    },
-    {
-      "id": "4879854",
-      "time": "2026-05-14 18:39:35",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國財政部長貝森特談人工智慧：Anthropic已就Mythos專案與五角大樓、白宮開展了深度合作。"
-    },
-    {
-      "id": "4879853",
-      "time": "2026-05-14 18:39:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "【阿特斯：預計2026年第二季度總收入在10億至12億美元之間】阿特斯公告，控股股東Canadian Solar Inc.（阿特斯集團，股票程式碼：CSIQ）預計2026年第二季度元件出貨量在3.1至3.3吉瓦之間，儲能系統出貨量在2.8至3.2吉瓦時之間。預計總收入在10億至12億美元（摺合人民幣約69.5億至83.4億元）之間，毛利率預計在13%至15%之間。"
-    },
-    {
-      "id": "4879852",
-      "time": "2026-05-14 18:39:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "【歐佩克+據悉計劃繼續增產 目標9月底前恢復全部減產份額】據外媒援引多位代表透露，儘管目前很多增產實際上仍停留在“紙面上”，歐佩克+中的關鍵成員計劃在未來幾個月繼續推進增產配額，力爭在9月底前完成此前暫停產能的最後一部分恢復。歐佩克+此前已正式同意恢復2023年實施的165萬桶/日減產中的約三分之二供應。三位代表表示，OPEC+計劃在未來三個月繼續分階段提高產量目標，以恢復剩餘部分，但由於伊朗戰爭導致波斯灣出口受阻，多數主要成員實際上無法真正實現這些增產。"
-    },
-    {
-      "id": "mkt:019e2612-a676-7335-8cb0-28990c48d833",
-      "time": "2026-05-14 18:38:41",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "U.S. TREASURY SECRETARY BESSENT ON AI: ALSO NEED HIGHEST LEVEL OF SAFETY"
-    },
-    {
-      "id": "4879851",
-      "time": "2026-05-14 18:38:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【天孚通訊：公司面向CPO領域配套的FAU、ELS外接光源等相關產品已實現穩定交付】天孚通訊(300394.SZ)釋出投資者關係活動記錄表公告，公司光器件產品應用領域較為廣泛，主要應用場景包括資料中心、AIDC等領域。隨著高速通訊、算力基礎設施建設產業的發展，相關應用場景對高效能光器件的需求持續增長，也為公司業務拓展提供了較為廣闊的市場空間。目前，公司面向CPO領域配套的FAU、ELS外接光源等相關產品已實現穩定交付。目前能夠較好滿足客戶對產品效能、精度和一致性的要求。公司光互連領域產品具有較高的工藝壁壘，產品的良率、可靠性以及成本控制高度依賴長期積累的工程經驗與專業技能。"
-    },
-    {
-      "id": "mkt:019e2612-a672-7335-8cb0-278995c01add",
-      "time": "2026-05-14 18:38:34",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Nasdaq100",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "U.S. TREASURY SECRETARY BESSENT ON AI: DON'T WANT TO STIFLE INNOVATION"
-    },
-    {
-      "id": "4879850",
-      "time": "2026-05-14 18:38:23",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國財政部長貝森特談人工智慧：同時也需要最高階別的安全保障。"
-    },
-    {
-      "id": "4879849",
-      "time": "2026-05-14 18:38:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "富國銀行將新思科技目標股價從450美元上調至505美元。"
-    },
-    {
-      "id": "mkt:019e2611-de84-7335-8cb0-1d0688b4c1e9",
-      "time": "2026-05-14 18:38:04",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "TRUMP: WE HAVE A CHANCE TO CREATE A FUTURE OF GREATER COOPERATION AND PROSPERITY"
-    },
-    {
-      "id": "4879848",
-      "time": "2026-05-14 18:37:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特談人工智慧：不希望扼殺創新。"
-    },
-    {
-      "id": "mkt:019e2611-4435-7335-8cb0-1074f74eb717",
-      "time": "2026-05-14 18:37:48",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alibaba",
-        "BABA.N",
-        "Impact bullish"
-      ],
-      "text": "ALIBABA GROUP: MIZUHO RAISES TARGET PRICE TO $195 FROM $190"
-    },
-    {
-      "id": "mkt:019e2610-6f98-7335-8cb0-0a7b10ccfcbe",
-      "time": "2026-05-14 18:37:38",
-      "tags": [
-        "MKT News",
-        "Important",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "CNH"
-      ],
-      "text": "TRUMP: INVITES XI TO VISIT US ON SEPT 24"
-    },
-    {
-      "id": "mkt:019e2610-211c-7335-8cb0-0695112099b2",
-      "time": "2026-05-14 18:37:31",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "U.S. TREASURY SECRETARY BESSENT ON AI: WILL DISCUSS GUARDRAILS WITH CHINESE U.S. TREASURY SECRETARY BESSENT ON AI: WILL SEE A BIG STEP FUNCTION WITH MYTHOS, GEMINI"
-    },
-    {
-      "id": "4879847",
-      "time": "2026-05-14 18:37:28",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【劉國中在雲南調研時強調 抓實抓細常態化精準幫扶工作 持續鞏固拓展脫貧攻堅成果】中共中央政治局委員、國務院副總理劉國中12日至14日到雲南調研。他強調，要深入學習貫徹習近平總書記重要講話和重要指示批示精神，落實黨中央、國務院部署，壓緊壓實責任，抓實抓細常態化精準幫扶工作，持續鞏固拓展脫貧攻堅成果，促進鄉村全面振興，為推進中國式現代化提供基礎支撐。（新華社）"
-    },
-    {
-      "id": "4879846",
-      "time": "2026-05-14 18:37:16",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國財政部長貝森特談及人工智慧：Mythos與Gemini將帶來階躍式大發展。"
-    },
-    {
-      "id": "4879845",
-      "time": "2026-05-14 18:37:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "貝森特：Anthropic、OpenAI、谷歌的 AI 模型能力持續增強。"
     }
   ]
 }
