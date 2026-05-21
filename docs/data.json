@@ -1,7 +1,15 @@
 {
-  "updated": "2026-05-22 05:09:50",
-  "count": 16218,
+  "updated": "2026-05-22 05:13:48",
+  "count": 16217,
   "items": [
+    {
+      "id": "4893639",
+      "time": "2026-05-22 05:12:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：IMAX探索出售。"
+    },
     {
       "id": "te:economy:552861",
       "time": "2026-05-22 05:08:05",
@@ -145801,26 +145809,6 @@
         "市場"
       ],
       "text": "富時A50期指連續夜盤收漲0.08%，報15851點。"
-    },
-    {
-      "id": "te:markets:550843",
-      "time": "2026-05-15 05:13:25",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "TSX Gains as Investors Focus on Trump-Xi Summit — The S&P/TSX Composite Index rose 0.7% to close at 34,267 on Thursday as investors assessed the highly anticipated summit between US President Donald Trump and Chinese President Xi Jinping. Trump described the talks as “extremely positive and constructive,” although neither leader provided details on discussions expected to cover trade, Taiwan, artificial intelligence, and the US-Iran conflict. Banks led gains, with Royal Bank of Canada rising 2.3% and BMO advancing 1.9%. On the earnings front, Canadian Tire fell 4.1% despite reporting first-quarter adjusted profit above expectations, while Keyera gained 3.9% despite posting a quarterly loss. Sherritt International plunged 24.1% after warning that its first-quarter financial filing could be delayed following management changes. On the data front, Canadian home sales rose modestly in April while wholesale trade increased 1.9% in March, above forecasts."
-    },
-    {
-      "id": "4880633",
-      "time": "2026-05-15 05:12:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "G-III 服裝集團將攜手 WHP Global，共同持有MARC JACOBS品牌股權。"
     }
   ]
 }
