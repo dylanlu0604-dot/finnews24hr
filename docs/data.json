@@ -1,7 +1,18 @@
 {
-  "updated": "2026-05-22 06:35:15",
-  "count": 16172,
+  "updated": "2026-05-22 06:39:16",
+  "count": 16169,
   "items": [
+    {
+      "id": "te:markets:552867",
+      "time": "2026-05-22 06:35:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Iron Ore CNY Spikes by 105.88% — Top commodity gainers are Iron Ore CNY (105.88%), Lithium Carbonate (1.68%) and Silver (1.03%). Biggest loser is Steel Rebar (-0.53%). Meanwhile Gold was little changed."
+    },
     {
       "id": "4893675",
       "time": "2026-05-22 06:31:08",
@@ -145377,45 +145388,6 @@
         "國際"
       ],
       "text": "【探尋務實路徑，攜手應對沖擊，金磚國家外長會晤在印度舉行】金磚國家外長會晤14日至15日在印度首都新德里舉行，印度外長蘇傑生主持，與會各方圍繞國際及地區熱點問題、加強成員合作、推進全球治理與多邊體系改革等議題展開討論。綜合《印度快報》、全印電視臺等媒體14日報道，作為輪值主席國，印度在會上呼籲金磚各國探尋務實路徑，攜手應對全球衝突、經濟動盪與貿易受阻帶來的衝擊。（環球網）"
-    },
-    {
-      "id": "4880713",
-      "time": "2026-05-15 06:37:15",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲威廉姆斯：鑑於投資者對前景的預期，股市處於高位並不意外。"
-    },
-    {
-      "id": "4880712",
-      "time": "2026-05-15 06:35:26",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲威廉姆斯：我理解市場為何對經濟前景持樂觀態度。"
-    },
-    {
-      "id": "4880711",
-      "time": "2026-05-15 06:35:22",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲威廉姆斯：預計生產率強勁增長的態勢將持續。"
-    },
-    {
-      "id": "te:economy:550851",
-      "time": "2026-05-15 06:35:19",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "New Zealand",
-        "Manufacturing PMI",
-        "Importance 2"
-      ],
-      "text": "New Zealand Manufacturing Growth Hits 7-Month Low — The Business NZ Performance of Manufacturing Index in New Zealand was 50.5 in April, down from a downwardly revised 52.8 in March, marking the softest expansion since last September and falling below the long-term average of 52.5."
     }
   ]
 }
