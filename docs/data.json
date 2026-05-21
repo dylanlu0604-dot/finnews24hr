@@ -1,7 +1,43 @@
 {
-  "updated": "2026-05-22 04:08:50",
+  "updated": "2026-05-22 04:12:36",
   "count": 16257,
   "items": [
+    {
+      "id": "4893618",
+      "time": "2026-05-22 04:12:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "Take-Two：第四財季淨預定15.8億美元，分析師預期15.7億美元。預計2027財年淨預定80億-82億美元，分析師預期91.1億美元。預計第一財季淨預定13.2億-13.7億美元，分析師預期15.7億美元。"
+    },
+    {
+      "id": "4893617",
+      "time": "2026-05-22 04:12:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：以色列襲擊黎巴嫩一家醫院，致九人受傷。"
+    },
+    {
+      "id": "te:markets:552858",
+      "time": "2026-05-22 04:11:30",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Close Higher, Dow Hits New High — US stocks finished higher on Thursday after a volatile trading session, as renewed hopes for a potential US-Iran agreement to end the conflict pushed oil prices lower for a third consecutive day. The S&P 500 gained 0.2%, the Nasdaq edged up 0.1%, and the Dow Jones rose 276 points to close at a fresh record high. Reports indicated that Iran said the latest US proposal had partly narrowed the gap between the two sides, while Secretary of State Marco Rubio pointed to “some good signs” that a deal could be reached. The decline in oil prices supported broader market sentiment. Utilities led the gains, followed by consumer discretionary and materials, while consumer staples and energy lagged behind. Investors also digested earnings results from NVIDIA (-1.8%), which failed to impress the market. Meanwhile, Walmart fell more than 7% after warning that persistently higher fuel costs could weigh on its business. In contrast, Apple rose 0.9%, Amazon gained 1.3%, and Eli Lilly advanced 2.2%."
+    },
+    {
+      "id": "4893616",
+      "time": "2026-05-22 04:11:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普再威脅伊朗交出濃縮鈾 稱到手後或銷燬 】美國總統特朗普21日在白宮對媒體說，伊朗必須交出其擁有的高丰度濃縮鈾，美國拿到後很可能會將其銷燬。特朗普回答記者提問時說：“我們會拿到那些高濃縮鈾的。我們不需要，也不想要。我們拿到後很可能會將其銷燬，我們不會讓他們擁有。”他還說，美伊正在進行談判，結果如何尚待觀察。特朗普此前多次威脅伊朗交出濃縮鈾。據美國媒體10日報道，特朗普稱，美國一直在對掩埋在廢墟下的伊朗濃縮鈾進行監控，美國太空軍負責此事。（新華社）"
+    },
     {
       "id": "4893615",
       "time": "2026-05-22 04:07:45",
@@ -146131,38 +146167,6 @@
         "國際"
       ],
       "text": "美國投資公司協會（ICI）：截至5月13日當週，貨幣市場基金總資產增加4.36億美元，至7.75萬億美元。在應稅貨幣市場基金中，政府基金增加32.5億美元，優質基金減少40.8億美元；免稅貨幣市場基金增加12.7億美元。"
-    },
-    {
-      "id": "4880578",
-      "time": "2026-05-15 04:12:13",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國際油價14日微漲】截至當天收盤，紐約商品交易所6月交貨的輕質原油期貨價格上漲15美分，收於每桶101.17美元，漲幅為0.15%；7月交貨的倫敦布倫特原油期貨價格上漲9美分，收於每桶105.72美元，漲幅為0.09%。（澎湃）"
-    },
-    {
-      "id": "4880577",
-      "time": "2026-05-15 04:11:54",
-      "tags": [
-        "市場"
-      ],
-      "text": "RUMBLE股價在公佈業績後盤後下跌12%。"
-    },
-    {
-      "id": "4880576",
-      "time": "2026-05-15 04:11:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙烏地阿拉伯對今日在約旦首都安曼簽署的葉門在押人員交換協議表示歡迎。"
-    },
-    {
-      "id": "4880575",
-      "time": "2026-05-15 04:09:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國中美國中央司令部：已在霍爾木茲海峽封鎖行動中對 72 艘商船實施航線改道。"
     }
   ]
 }
