@@ -1,7 +1,49 @@
 {
-  "updated": "2026-05-22 03:38:47",
-  "count": 16274,
+  "updated": "2026-05-22 03:42:32",
+  "count": 16271,
   "items": [
+    {
+      "id": "mkt:019e4c0e-c835-7aa1-9581-68f263970ed3",
+      "time": "2026-05-22 03:41:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "PENTAGON DOUBTS OVER RARE EARTHS DEAL PROVOKE WHITE HOUSE CLASH"
+    },
+    {
+      "id": "4893595",
+      "time": "2026-05-22 03:41:21",
+      "tags": [
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "美國參議員沃倫致信美聯儲鮑曼、貨幣監理署古爾德，問詢摩根士丹利相關事宜。"
+    },
+    {
+      "id": "mkt:019e4c0d-ee02-7aa1-9581-666a76592bbe",
+      "time": "2026-05-22 03:40:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran-US Framework Deal Reports Remain ‘Speculation’ as Talks Continue】Reports of a framework agreement between Tehran and Washington remain “mere speculation,” with negotiations continuing through a Pakistani mediator. Discussions focus on core disputes including the Strait of Hormuz, highly enriched uranium, and sanctions. Any breakthrough would still require approval from Tehran’s top leadership."
+    },
+    {
+      "id": "4893594",
+      "time": "2026-05-22 03:40:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "因技術落地遭質疑，五角大樓擬取消關鍵礦產精煉商8000萬美元貸款引爆美白宮內訌。"
+    },
+    {
+      "id": "4893593",
+      "time": "2026-05-22 03:39:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【星巴克在北美全線叫停AI庫存檔點工具】在北美門店全線推廣僅九個月後，星巴克本週正式關停了該款用於自動化庫存檔點的人工智慧（AI）工具。此前瞭解到，這款AI工具在實際操作中頻頻算錯數量，導致庫存管理錯漏百出。該工具曾是執行長Brian Niccol旨在解決產品頻繁缺貨這一核心頑疾的標誌性舉措，他此前一直痛批缺貨嚴重拖累了公司業績。"
+    },
     {
       "id": "4893592",
       "time": "2026-05-22 03:38:05",
@@ -146252,73 +146294,6 @@
         "市場"
       ],
       "text": "【芝加哥大豆期貨跌約2.9%，玉米跌2.7%，小麥跌超2.5%】週四（5月14日）紐約尾盤，彭博穀物分類指數跌2.79%，報32.4663點，北京時間14:14微幅上漲至33.6046重新整理日低，隨後逐步下挫。CBOT玉米期貨跌2.70%，報4.6775美元/蒲式耳。CBOT小麥期貨跌2.55%，報6.5825美元/蒲式耳。CBOT大豆期貨跌2.89%，報11.9350美元/蒲式耳，處於下跌狀態，18:00之前維持微幅下跌狀態、持穩於12.20美元一線，之後持續加速下跌；豆粕期貨跌1.70%，豆油期貨跌0.63%。CBOT瘦肉豬期貨跌1.04%，活牛期貨跌0.03%，飼牛期貨跌0.75%。ICE原糖期貨跌2.47%，ICE白糖期貨跌2.68%。ICE阿拉比卡咖啡期貨漲1.27%，咖啡“C”期貨跌2.08%。羅布斯塔咖啡期貨跌2.13%。紐約可可期貨跌3.87%，報4223美元/噸。倫敦可可期貨跌3.70%。芝加哥WCE雙低油菜籽期貨跌1.64%。ICE棉花期貨跌3.28%。"
-    },
-    {
-      "id": "4880543",
-      "time": "2026-05-15 03:41:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：一架美國政府飛機現身哈瓦那國際機場停機坪。"
-    },
-    {
-      "id": "mkt:019e2802-76d1-7bb5-b4d2-4ff6e3f7186c",
-      "time": "2026-05-15 03:41:34",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "UK PM STARMER APPOINTS LUCY RIGBY AS CHIEF SECRETARY TO THE TREASURY - STATEMENT"
-    },
-    {
-      "id": "mkt:019e2802-28a5-7bb5-b4d2-4070c7be2c17",
-      "time": "2026-05-15 03:41:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. GOV'T PLANE ON TARMAC AT HAVANA INTERNATIONAL AIRPORT - WITNESS"
-    },
-    {
-      "id": "4880542",
-      "time": "2026-05-15 03:41:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國首相斯塔默任命詹姆斯·默裡為衛生大臣。"
-    },
-    {
-      "id": "4880541",
-      "time": "2026-05-15 03:40:45",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "斯塔默任命LUCY RIGBY為財政部常務次官。"
-    },
-    {
-      "id": "4880540",
-      "time": "2026-05-15 03:39:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國政府：詹姆斯・默裡被任命為衛生及社會保障大臣。"
-    },
-    {
-      "id": "4880539",
-      "time": "2026-05-15 03:39:25",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4660美元/盎司，日內跌0.61%。"
-    },
-    {
-      "id": "mkt:019e2800-1dc4-7bb5-b4d2-3a43a76f5313",
-      "time": "2026-05-15 03:39:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UK DOWNING STREET: JAMES MURRAY HAS BEEN APPOINTED SECRETARY OF STATE FOR HEALTH AND SOCIAL CARE"
     }
   ]
 }
