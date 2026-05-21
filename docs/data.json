@@ -1,7 +1,46 @@
 {
-  "updated": "2026-05-21 11:43:19",
-  "count": 15894,
+  "updated": "2026-05-21 11:47:13",
+  "count": 15893,
   "items": [
+    {
+      "id": "4891776",
+      "time": "2026-05-21 11:45:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "金螳螂在互動平臺表示，目前公司與“長鑫”暫無直接業務合作。"
+    },
+    {
+      "id": "mkt:019e48a3-0e1b-777f-8615-4964ad971171",
+      "time": "2026-05-21 11:45:05",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "INDIA SAYS TO CONSIDER MULTIPLE MEASURES TO SUPPORT RUPEE, INCLUDING INTEREST RATE HIKES"
+    },
+    {
+      "id": "4891775",
+      "time": "2026-05-21 11:44:37",
+      "tags": [
+        "公司",
+        "國際",
+        "原創"
+      ],
+      "text": "【摩根大通CEO稱將招聘更多人工智慧人才，減少銀行家招聘】摩根大通CEO傑米·戴蒙表示，隨著人工智慧技術的普及，這家華爾街巨頭可能會僱用更多人工智慧專家，減少傳統銀行家的招聘。“我認為這從長遠來看會減少我們的工作崗位，”戴蒙週四在一次採訪中表示，“未來會出現各種型別的工作，我認為我們會招聘更多人工智慧人才，減少某些類別的銀行家，這將使他們的工作效率更高。”"
+    },
+    {
+      "id": "4891774",
+      "time": "2026-05-21 11:42:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【TCL中環持股公司在深圳成立半導體材料公司】企查查APP顯示，近日，深圳中環領先半導體材料有限公司成立，法定代表人為王彥君，註冊資本為5000萬元，經營範圍包含電子專用材料製造；電子專用材料銷售；電子產品銷售；半導體分立器件製造；半導體照明器件製造等。企查查股權穿透顯示，該公司由中環領先半導體科技股份有限公司全資持股，後者由TCL中環、無錫產業發展集團有限公司等共同持股。"
+    },
     {
       "id": "4891773",
       "time": "2026-05-21 11:42:14",
@@ -142980,56 +143019,6 @@
         "公司"
       ],
       "text": "【中亦科技中標中國人保集團資料中心硬體維保專案】近日，中亦科技中標中國人保集團2026年資料中心硬體裝置維保專案（子公司維保）。此次專案同步覆蓋北京、上海、佛山三大核心節點，將為中國人保集團旗下子公司提供標準化、一體化、全生命週期的硬體維保服務。"
-    },
-    {
-      "id": "4879053",
-      "time": "2026-05-14 11:46:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【武田製藥大裁員】5月13日，武田製藥釋出財報，公司計劃在2026財年裁員約4500人，作為企業重組的一部分，以集中職能並降低成本。這一裁員比例接近總員工數量的10%。武田製藥稱，裁員後預計會有2200個空缺職位，將繼續招聘。"
-    },
-    {
-      "id": "4879052",
-      "time": "2026-05-14 11:45:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "工信部發布關於公開徵求《智慧製造 白酒行業應用 白酒灌裝數字化車間通用技術要求》等11項行業標準、1項行業標準外文版、111項推薦性國家標準計劃專案意見的公示。"
-    },
-    {
-      "id": "4879051",
-      "time": "2026-05-14 11:45:03",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【同和藥業：公司原料藥獲得FDA註冊批准函】同和藥業公告，公司於近日收到美國食品藥品監督管理局（FDA）簽發的卡格列淨原料藥註冊批准函 DMF First Adequate Letter（FA Letter）。卡格列淨是一種鈉-葡萄糖協同轉運蛋白2（SGLT2）抑制劑，臨床主要用於治療2型糖尿病。公司卡格列淨產品獲得美國 FDA 簽發的 FA Letter，表明 FDA 已完成對公司卡格列淨原料藥 DMF 檔案的技術審評，可滿足關聯製劑客戶的 ANDA（Abbrevitive New Drug Application，簡略新藥申請）申報要求。"
-    },
-    {
-      "id": "mkt:019e2495-d6f7-777f-be5b-5648a1f1948e",
-      "time": "2026-05-14 11:44:07",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "The Trump Trade",
-        "S&P500",
-        "Impact bullish",
-        "Copper",
-        "WTI"
-      ],
-      "text": "CHINA RENEWS EXPORT LICENSES FOR MORE THAN 400 U.S. BEEF PLANTS AS XI, TRUMP MEET, CUSTOMS DATA SHOWS"
-    },
-    {
-      "id": "mkt:019e2495-88cc-777f-be5b-4f03ce6d1393",
-      "time": "2026-05-14 11:44:00",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "CHINA FINANCE MINISTRY AUCTIONS 2-MONTH BILLS AT 0.9146 PCT YIELD - TRADERS CHINA FINANCE MINISTRY AUCTIONS 7-YEAR BONDS AT 1.5862 PCT YIELD - TRADERS CHINA FINANCE MINISTRY AUCTIONS 10-YEAR BONDS AT 1.72 PCT YIELD - TRADERS"
     }
   ]
 }
