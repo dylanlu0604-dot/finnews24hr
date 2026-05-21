@@ -1,7 +1,136 @@
 {
-  "updated": "2026-05-21 21:39:23",
-  "count": 16105,
+  "updated": "2026-05-21 21:43:36",
+  "count": 16110,
   "items": [
+    {
+      "id": "4893177",
+      "time": "2026-05-21 21:42:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "英偉達公佈季度業績後，人工智慧基礎設施企業股價上漲。"
+    },
+    {
+      "id": "4893176",
+      "time": "2026-05-21 21:41:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣藥集團與華為簽署AI製藥生態合作協議】近日，廣藥集團副董事長、總經理陳杰輝率隊到訪華為技術有限公司廣東區域總部，與華為副總裁劉超座談交流。活動期間，雙方簽署AI製藥生態合作協議，聚力推動集團數智化轉型核心平臺廣州醫藥數智科技有限公司與合作方深化協作。"
+    },
+    {
+      "id": "4893175",
+      "time": "2026-05-21 21:41:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "土耳其主要指數BIST 100下跌2%。"
+    },
+    {
+      "id": "4893174",
+      "time": "2026-05-21 21:41:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "土耳其主要銀行指數下跌2.2%。"
+    },
+    {
+      "id": "4893173",
+      "time": "2026-05-21 21:41:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "據港交所檔案：天辰生物醫藥（蘇州）股份有限公司-B透過港交所上市聆訊。"
+    },
+    {
+      "id": "4893172",
+      "time": "2026-05-21 21:40:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【美股費城半導體指數盤初漲0.5%】美股費城半導體指數盤初漲0.5%，GlobalFoundries漲11%，ARM漲7%，邁威爾科技漲超2%，均創歷史新高。"
+    },
+    {
+      "id": "4893171",
+      "time": "2026-05-21 21:40:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "白俄羅斯總統盧卡申科表示，只有本土遭到侵略，白俄羅斯才可能捲入戰爭。"
+    },
+    {
+      "id": "te:markets:552790",
+      "time": "2026-05-21 21:40:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Opens 0.50% Lower — The Dow Jones Index is falling 252 points. Losses were driven by Walmart (-6.43%), Salesforce (-4.27%) and Sherwin-Williams (-2.20%). Biggest rises came from IBM (3.69%), Honeywell International (0.99%) and Chevron (0.97%)."
+    },
+    {
+      "id": "4893170",
+      "time": "2026-05-21 21:39:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "空客：巴黎法院裁決與檢方主張相悖。"
+    },
+    {
+      "id": "4893169",
+      "time": "2026-05-21 21:39:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西中央銀行阿基諾：我們需要說服國會對巴西新的銀行處置法案進行投票。"
+    },
+    {
+      "id": "4893168",
+      "time": "2026-05-21 21:39:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4490美元/盎司，日內跌1.19%。"
+    },
+    {
+      "id": "4893167",
+      "time": "2026-05-21 21:39:23",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "空客集團歐洲公司 將就巴黎上訴法院的裁決向法國最高法院提起上訴。"
+    },
+    {
+      "id": "4893166",
+      "time": "2026-05-21 21:39:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期金日內跌1%，現報4489.38美元/盎司。"
+    },
+    {
+      "id": "4893165",
+      "time": "2026-05-21 21:39:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4490美元/盎司，日內跌1.01%。"
+    },
+    {
+      "id": "4893164",
+      "time": "2026-05-21 21:38:48",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "格芯股價大漲9%，此前該公司獲得美國3.75億美元撥款助力量子計算產業發展。"
+    },
     {
       "id": "te:markets:552789",
       "time": "2026-05-21 21:38:41",
@@ -212,6 +341,14 @@
         "MKT News"
       ],
       "text": "BLANCHE TO MEET WITH GOP AS DOJ SETTLEMENT FACES UPROAR: BGOV"
+    },
+    {
+      "id": "4893148",
+      "time": "2026-05-21 21:34:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國代理司法部長布蘭奇將與共和黨會面，此前司法部達成的和解協議引發軒然大波。"
     },
     {
       "id": "mkt:019e4abd-e924-7bb7-824a-ff3472376cc9",
@@ -144759,113 +144896,6 @@
         "國際"
       ],
       "text": "【中國銀行紐約分行與美國大豆出口協會簽署合作備忘錄】據中國銀行訊息，5月14日，中國銀行董事長葛海蛟在中國銀行總行大廈分別會見美國大豆出口協會（USSEC）主席邁克·麥克蘭尼（Mike McCranie）、執行長蘇健（Jim Sutter）一行，維薩公司（Visa）全球執行長麥凱恩（Ryan McInerney）、大中華區總裁張文翊（Elaine Chang）一行。葛海蛟與麥克蘭尼、蘇健共同見證中國銀行紐約分行與美國大豆出口協會簽署合作備忘錄。"
-    },
-    {
-      "id": "4880213",
-      "time": "2026-05-14 21:43:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "百健股價下跌2%。"
-    },
-    {
-      "id": "te:markets:550770",
-      "time": "2026-05-14 21:42:43",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "US Natgas Prices Fall Ahead EIA Data — US natural gas futures fell to $2.8116 per MMBtu ahead of the weekly federal storage report, with markets expecting energy firms to have added a near-normal 85 billion cubic feet of gas into storage last week. That compares with an injection of 109 billion cubic feet during the same week last year and a five-year average build of 84 billion cubic feet. If confirmed, total stockpiles would rise to 2.290 trillion cubic feet, around 2.3% above year-ago levels and 6.5% above the five-year average. Production has softened in recent weeks as some producers, including EQT, curtailed output due to persistently weak spot prices. Meanwhile, gas flows to major US export facilities declined from a monthly record due to seasonal maintenance work at several plants, including Freeport LNG in Texas and Cameron LNG in Louisiana."
-    },
-    {
-      "id": "4880212",
-      "time": "2026-05-14 21:42:38",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "白銀連續主力合約日內跌4%，現報20770.00元。"
-    },
-    {
-      "id": "4880211",
-      "time": "2026-05-14 21:42:27",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內跌5%，現報84.86美元/盎司。"
-    },
-    {
-      "id": "mkt:019e26b9-6332-7dde-99f4-f5770bfc5a01",
-      "time": "2026-05-14 21:42:24",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "INDIA INSERTS NOTES IN NORMS FOR ISSUING/MONITORING GOLD IMPORT"
-    },
-    {
-      "id": "4880210",
-      "time": "2026-05-14 21:42:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：英國將對聯合國全球氣候基金的撥款削減一半。"
-    },
-    {
-      "id": "4880209",
-      "time": "2026-05-14 21:41:48",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印度在黃金進口簽發及監管相關規範中新增補充說明條款。"
-    },
-    {
-      "id": "4880208",
-      "time": "2026-05-14 21:41:47",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期銀失守85美元/盎司，日內跌4.90%。"
-    },
-    {
-      "id": "4880207",
-      "time": "2026-05-14 21:41:02",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印度對外貿易總局：將發放黃金進口的預先授權，最大允許數量限制為100公斤。"
-    },
-    {
-      "id": "te:markets:550769",
-      "time": "2026-05-14 21:40:32",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Ibovespa Rebounds as Investors Track Corporate Earnings — The Ibovespa gained nearly 0.5% to trade near 178,000 on Thursday, recovering from losses in the previous session as investors focused on corporate earnings. CSN (+1.4%) reported better-than-expected first-quarter 2026 results, with adjusted EBITDA reaching R$2.646 billion. Eneva (+1.7%) posted net income of R$522.7 million in the quarter, up 36% from a year earlier. In contrast, Banco do Brasil (-0.6%) reported adjusted net income of R$3.4 billion, down 53.5% from the same period in 2025. Cosan (+1.3%), and Marfrig (+1.5%) are set to release earnings later today. Meanwhile, the financial sector rebounded after losses in the previous session triggered by a report alleging ties between Senator Flávio Bolsonaro, a contender in October’s presidential election, and Daniel Vorcaro, owner of failed lender Banco Master and charged guilty of fraud. Itaú and Bradesco both gained more than 1%."
-    },
-    {
-      "id": "mkt:019e26b7-8bfc-7dde-99f4-ef8e0596a920",
-      "time": "2026-05-14 21:40:23",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact mixed"
-      ],
-      "text": "INDIA DGFT: ADVANCE AUTHORISATION FOR GOLD IMPORT TO BE ISSUED INDIA DGFT: MAXIMUM PERMISSIBLE QUANTITY LIMIT OF 1OOKG"
     }
   ]
 }
