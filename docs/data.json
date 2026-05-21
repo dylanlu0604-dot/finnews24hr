@@ -1,7 +1,16 @@
 {
-  "updated": "2026-05-22 00:40:57",
-  "count": 16235,
+  "updated": "2026-05-22 00:45:13",
+  "count": 16233,
   "items": [
+    {
+      "id": "4893486",
+      "time": "2026-05-22 00:40:20",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "巴基斯坦央行外匯儲備增加12.1億美元，總量達171億美元。"
+    },
     {
       "id": "4893485",
       "time": "2026-05-22 00:39:02",
@@ -145917,36 +145926,6 @@
         "國際"
       ],
       "text": "蘋果與 OpenAI 合作關係出現裂痕，或將引發法律糾紛。 OpenAI 已聯合律所，籌備對蘋果採取法律行動。"
-    },
-    {
-      "id": "4880411",
-      "time": "2026-05-15 00:45:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "英鎊跌至一個月低點。"
-    },
-    {
-      "id": "mkt:019e275e-ed71-7bb5-b4d0-e117b8d72143",
-      "time": "2026-05-15 00:43:05",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "MANCHESTER MAYOR BURNHAM DECLARES CANDIDACY FOR UK PARLIAMENT"
-    },
-    {
-      "id": "mkt:019e275e-9f48-7bb5-b4d0-dd49417a9d91",
-      "time": "2026-05-15 00:42:53",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "ISRAELI CHANNEL 12 CITING A SECURITY SOURCE: NAVY COMMANDOS WILL SEIZE THE FREEDOM FLOTILLA SHIPS BEFORE THEY REACH THEIR TARGET"
     }
   ]
 }
