@@ -1,7 +1,74 @@
 {
-  "updated": "2026-05-21 12:07:31",
-  "count": 15867,
+  "updated": "2026-05-21 12:11:30",
+  "count": 15866,
   "items": [
+    {
+      "id": "te:markets:552548",
+      "time": "2026-05-21 12:10:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Rupee Finds Relief as Oil Prices Ease — The Indian rupee hovered near 96.4 per dollar, pausing losses after briefly crossing the 97-per-dollar mark for the first time. Softer oil prices offered temporary relief as Brent crude fell more than 5% to near $105 per barrel, while the US 10-year Treasury yield slipped below 4.60%, improving market sentiment. The rupee had remained under pressure, falling nearly 2.5% over nine sessions amid strong dollar demand, rising US yields, and heavy foreign fund outflows. Meanwhile, the central bank has already announced a $5 billion dollar-rupee swap auction scheduled for May 26. The Reserve Bank of India is also reportedly considering measures to stabilize the rupee, including a possible rate hike, additional swap auctions, and schemes to attract foreign currency inflows from non-resident Indians, which officials estimate could bring in up to $50 billion. Markets are now focused on the RBI’s June 3–5 policy meeting for signals on further support measures."
+    },
+    {
+      "id": "mkt:019e48b9-8792-777f-8615-65a025e14c52",
+      "time": "2026-05-21 12:09:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index"
+      ],
+      "text": "【Hong Kong midday: HSI -0.02% after high open; semis extend gains】Hang Seng Index opened near +200 points, then drifted lower, erasing gains by midday; at noon the HSI was down 0.02% at 25,647.24, while the Hang Seng Tech Index fell 0.24% to 4,862.32. Turnover totaled HKD 1,50.86 bln. Semiconductors extended multi-day strength; the airlines group recovered; Chinese brokerage and autos were notable outperformers; tech names mixed; AI-related names weaker. Stock movers: SMIC up 2.4%; SERES International Holdings Limited up 5.84%; China Merchants Securities Co., Ltd. up 3.96%; Air China Ltd. up 5.69%; Bilibili Inc. down 6.99%; Zhipu down 4.82%."
+    },
+    {
+      "id": "4891803",
+      "time": "2026-05-21 12:09:10",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【視源股份：針對上游原材料價格上漲，公司已採取價格傳導措施以緩解成本壓力】視源股份5月21日在互動平臺表示，針對上游原材料價格上漲，公司已積極採取價格傳導措施以緩解成本壓力，同時根據原材料成本、市場供需等因素動態調整產品價格策略。關於未來原材料價格、產品價格調整的具體安排，公司將綜合考量市場供需等多方面因素審慎判斷、決策。"
+    },
+    {
+      "id": "4891802",
+      "time": "2026-05-21 12:08:04",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【紐約一機場路面塌陷致跑道關閉】當地時間5月20日，美國紐約拉瓜迪亞機場的工作人員在進行例行檢查時，發現一條跑道旁的滑行道路面出現塌陷。機場方面緊急關閉該跑道進行搶修，導致約400架次進出港航班取消或延誤。據美國有線電視新聞網報道，該跑道將關閉至當地時間21日上午。 美國哥倫比亞廣播公司援引訊息人士的話報道，調查人員正在排查路面塌陷的可能原因，其中包括一項燃油管線工程。"
+    },
+    {
+      "id": "4891801",
+      "time": "2026-05-21 12:07:47",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【中韓半導體ETF華泰收漲5.04% 科創半導體裝置ETF鵬華跌3.26%】5月21日，ETF午間收盤漲跌不一，中韓半導體ETF華泰(513310)領漲5.04%，金融科技ETF鵬華(563670)漲3.84%，巴西ETF易方達(520870)漲3.63%；科創半導體裝置ETF鵬華(589020)領跌3.26%，科創半導體裝置ETF華泰柏瑞(588710)跌2.95%，標普油氣ETF嘉實(159518)跌2.89%。"
+    },
+    {
+      "id": "4891800",
+      "time": "2026-05-21 12:07:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【阿里股東信釋放訊號，即時零售已成為淘寶天貓核心戰略支柱】5月20日，阿里巴巴集團主席蔡崇信與執行長吳泳銘聯合釋出致股東信。信中稱，即時零售已成為淘寶和天貓平臺升級的核心戰略支柱。“我們看到即時零售在利用AI驅動獲取新使用者、增強使用者粘性、滿足多元消費需求、提升交易量和商業化水平的戰略意義。”"
+    },
+    {
+      "id": "4891799",
+      "time": "2026-05-21 12:07:06",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "Aurionpro宣佈贏得美國訂單後，在孟買股價上漲3.9%。"
+    },
     {
       "id": "4891798",
       "time": "2026-05-21 12:06:20",
@@ -142679,78 +142746,6 @@
         "國際"
       ],
       "text": "日本央行審議委員增一行：從長期來看，整體食品價格是未來通脹的關鍵決定因素。鑑於日本已不再處於通縮週期，應儘快解決負實際利率問題。當前政策利率已接近預估中性利率水平，日本央行若考慮進一步加息，需更全面地審視物價、就業及金融狀況等各項因素。"
-    },
-    {
-      "id": "4879098",
-      "time": "2026-05-14 12:11:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中信銀行增資至556.5億 增幅約14%】天眼查App顯示，近日，中信銀行（601998）發生工商變更，註冊資本由約489.3億人民幣增至約556.5億人民幣，增幅約14%。"
-    },
-    {
-      "id": "4879097",
-      "time": "2026-05-14 12:10:13",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行審議委員增一行：人事開支、配送成本上升以及日元走軟的影響，是構成日本通脹基礎的因素。"
-    },
-    {
-      "id": "4879096",
-      "time": "2026-05-14 12:09:24",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行審議委員增一行：伊朗戰爭引發的能源衝擊對日本經濟的影響可能比1973年第一次石油危機更為嚴重，這一風險值得關注。"
-    },
-    {
-      "id": "4879095",
-      "time": "2026-05-14 12:08:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "【老佛爺百貨北京門店將關閉】老佛爺百貨5月14日官方宣佈北京門店將於5月27日結束營業。北京門店關閉後，顧客仍可前往全國任意門店繼續享受完整會員權益。在北京門店關閉後，老佛爺百貨在上海和深圳還有門店。據記者瞭解，老佛爺百貨來自法國，在全球具有很高知名度，但在進入中國市場後經營並不十分理想，在商品品牌和款式的引進、價格等方面都不太被消費者所接受。（第一財經）"
-    },
-    {
-      "id": "mkt:019e24ab-f7a3-777f-be5b-be1fe244e51a",
-      "time": "2026-05-14 12:08:23",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Crypto Concepts",
-        "Bitcoin",
-        "Ethereum"
-      ],
-      "text": "【Bank of England Signals Softer Stablecoin Rules After Industry Pushback - FT】Bank of England is preparing to scale back its planned stablecoin restrictions after industry pressure, with Deputy Governor Sarah Breeden saying initial proposals may have been “overly conservative.” The BoE is reviewing limits on stablecoin holdings, previously proposed at £20,000 per individual and £10mn for firms, and is also rethinking a requirement for at least 40% of backing assets to be held as non-interest-bearing central bank deposits. The review comes as stablecoins remain a small share of the $315bn global market, with the regulator aiming to balance innovation with financial stability concerns."
-    },
-    {
-      "id": "4879094",
-      "time": "2026-05-14 12:08:01",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本10年期國債收益率上升3.5個基點，至2.620%。"
-    },
-    {
-      "id": "4879093",
-      "time": "2026-05-14 12:07:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【位元組跳動、上汽等入股自變數機器人】天眼查App顯示，近日，自變數機器人關聯公司自變數科技（深圳）有限公司發生工商變更，企業名稱變更為自變數科技（深圳）有限公司，新增位元組跳動旗下北京量子躍動科技有限公司、上汽集團旗下上海上汽創遠創業投資合夥企業（有限合夥）等為股東，同時，註冊資本由約97.8萬人民幣增至約115萬人民幣。"
-    },
-    {
-      "id": "4879092",
-      "time": "2026-05-14 12:07:35",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "【英國金融時報：迫於行業壓力，英國央行將放寬穩定幣監管規則】英國央行委員Breeden表示，我們渴望建立一套能讓穩定幣取得成功、併為使用者帶來益處的監管體制。最初的穩定幣監管計劃可能“過於保守”，目前央行正在“非常認真地研究”替代方案。"
     }
   ]
 }
