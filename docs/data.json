@@ -1,7 +1,306 @@
 {
-  "updated": "2026-05-21 18:00:31",
-  "count": 15980,
+  "updated": "2026-05-21 18:04:35",
+  "count": 15999,
   "items": [
+    {
+      "id": "4892592",
+      "time": "2026-05-21 18:03:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "據報道，埃隆·馬斯克旗下聊天機器人Grok在美國政府中的採用率極低。"
+    },
+    {
+      "id": "mkt:019e49fd-d798-799b-b5d4-e19314d0c8a4",
+      "time": "2026-05-21 18:03:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "NIO.O",
+        "Impact bullish"
+      ],
+      "text": "NIO PREMARKET UP OVER 4% AFTER REPORT"
+    },
+    {
+      "id": "mkt:019e49fd-5065-799b-b5d4-dd19a52dd9c3",
+      "time": "2026-05-21 18:03:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "China EV Leaders",
+        "NIO.N",
+        "Impact bullish"
+      ],
+      "text": "NIO-SW Q2 2026 DELIVERY GUIDANCE: 110,000–115,000 VEHICLES, UP 52.7%–59.6% Y/Y"
+    },
+    {
+      "id": "4892591",
+      "time": "2026-05-21 18:03:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度稱非洲峰會推遲至日後舉行。"
+    },
+    {
+      "id": "4892590",
+      "time": "2026-05-21 18:03:01",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點"
+      ],
+      "text": "【蔚來發布2026一季度財報 連續兩個季度盈利】蔚來發布2026年一季度財報。一季度實現經營利潤6,680萬元，連續兩個季度盈利。一季度總營收255.3億元，同比增長112.2%。毛利總額48.6億元，同比增長428.4%。一季度公司綜合毛利率19.0%，創四年來新高。整車毛利率18.8%，連續四個季度環比增長，創四年來新高。其他銷售毛利率20.6%，創四年來新高。一季度現金儲備提升至482億元，連續三個季度實現正向經營現金流。2026年二季度交付指引110,000輛至115,000輛，同比增長52.7%至59.6%。營收指引327.8億元至344.4億元，同比增長72.4%至81.2%。"
+    },
+    {
+      "id": "4892589",
+      "time": "2026-05-21 18:03:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【雷軍率YU7 GT專案主要負責人亮相，笑稱“他們應該吵過無數次架”】小米人車家全生態新品釋出會於5月21日舉行。會前，雷軍和YU7 GT 專案主要負責人：產品總監王蠡、工程總監張寶華、設計總監 Shin聯合亮相。雷軍介紹，去年年初，小米汽車開始實施專案管理鐵三角制度：由產品總監、工程總監、設計總監三個人組成一個小組，共同負責整個專案。“這個活挺不容易的，我相信他們三位在過去一年半里應該吵過無數次架”，雷軍笑稱。（新浪科技）"
+    },
+    {
+      "id": "4892588",
+      "time": "2026-05-21 18:02:56",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國將向9家量子計算公司撥款20億美元。"
+    },
+    {
+      "id": "4892587",
+      "time": "2026-05-21 18:02:41",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國還將向 D-Wave 量子公司與裡蓋蒂計算公司撥付資金。"
+    },
+    {
+      "id": "mkt:019e49fc-b417-799b-b5d4-d3433aac67d1",
+      "time": "2026-05-21 18:02:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "China EV Leaders",
+        "NIO.O",
+        "Impact mixed"
+      ],
+      "text": "NIO Q1 REVENUE RMB 25.53 BLN, UP 112.2% Y/Y AND DOWN 26.3% Q/Q"
+    },
+    {
+      "id": "4892586",
+      "time": "2026-05-21 18:01:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度政府官員：當前首要任務是確保扣押在霍爾木茲海峽的印度船隻獲釋。"
+    },
+    {
+      "id": "4892585",
+      "time": "2026-05-21 18:01:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大養老金計劃投資委員會：2026財年淨收入為569億加元。"
+    },
+    {
+      "id": "mkt:019e49fb-a7bc-799b-b5d4-ccf682ee231e",
+      "time": "2026-05-21 18:01:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "INDIA GOVT OFFICIAL: PRIORITY IS TO SECURE RELEASE OF INDIAN VESSELS CURRENTLY STRANDED IN HORMUZ STRAIT"
+    },
+    {
+      "id": "4892584",
+      "time": "2026-05-21 18:01:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【內蒙古自治區黨委老幹部局局長辛曉瑞接受審查調查】中央紀委國家監委網站5月21日通報，據內蒙古自治區紀委監委訊息：內蒙古自治區黨委老幹部局局長，自治區黨委組織部副部長（兼）辛曉瑞涉嫌嚴重違紀違法，目前正接受內蒙古自治區紀委監委紀律審查和監察調查。"
+    },
+    {
+      "id": "4892583",
+      "time": "2026-05-21 18:01:21",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度盧比創下兩週來最大單日漲幅，印度盧比收漲0.6%，報1美元兌換96.20盧比；前收盤價為96.82。"
+    },
+    {
+      "id": "mkt:019e49fb-7f40-799b-b5d4-c1fa5c341cb3",
+      "time": "2026-05-21 18:01:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "China EV Leaders",
+        "NIO.O"
+      ],
+      "text": "NIO 1Q VEHICLE SALES CNY 22.8B"
+    },
+    {
+      "id": "4892582",
+      "time": "2026-05-21 18:01:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國家藥監局批准法贊雷生片上市】近日，國家藥品監督管理局批准江蘇海岸藥業有限公司申報的1類創新藥法贊雷生片（商品名：孟平）上市，用於治療以入睡困難和/或睡眠維持困難為特徵的成人失眠患者。該藥品上市為患者提供了新的治療選擇。"
+    },
+    {
+      "id": "mkt:019e49fb-53e9-799b-b5d4-bfbe14cd2f01",
+      "time": "2026-05-21 18:01:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | CBI Industrial Trends Survey - Selling Prices (May) | actual 38 | previous 32"
+    },
+    {
+      "id": "4892581",
+      "time": "2026-05-21 18:00:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "蔚來汽車第二季度收入指引為327.77億元-344.36億元人民幣。"
+    },
+    {
+      "id": "mkt:019e49fb-1b22-799b-b5d4-b446b1952389",
+      "time": "2026-05-21 18:00:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "TRUMP ADMINISTRATION TO AWARD $2 BILLION TO NINE QUANTUM COMPANIES THROUGH CHIPS ACT AND RECEIVE EQUITY STAKES, COMMERCE DEPARTMENT SAYS -- WSJ"
+    },
+    {
+      "id": "4892580",
+      "time": "2026-05-21 18:00:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "蔚來汽車第一季度經調整後營業利潤為人民幣6680萬元。"
+    },
+    {
+      "id": "mkt:019e49fa-dbef-799b-b5d4-a91366e57f17",
+      "time": "2026-05-21 18:00:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "China EV Leaders",
+        "NIO.O",
+        "Impact bullish"
+      ],
+      "text": "NIO INC Q1 ADJUSTED OPERATING INCOME RMB 66.8 MILLION"
+    },
+    {
+      "id": "4892579",
+      "time": "2026-05-21 18:00:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【滬市ETF網上發行下週一起正式最佳化 降低市場執行成本】記者獲悉，滬市ETF網上發行最佳化業務將於2026年5月25日正式啟用，近期將組織通關測試，旨在支援指數化投資高質量發展、降低市場執行成本。根據2025年釋出的方案內容，最佳化主要有三個方面：一是資金劃付模式調整，認購期間不再向發行協調人滾動劃付認購資金，改由中國結算上海分公司歸集，募集結束後清算交收至ETF產品對應結算參與人資金賬戶；二是新增支援認購資金利息折算基金份額服務；三是最佳化了最小申贖單位的報送方式。"
+    },
+    {
+      "id": "mkt:019e49fa-c05f-799b-b5d4-a0c70938d50e",
+      "time": "2026-05-21 18:00:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "China EV Leaders",
+        "NIO.O",
+        "Impact bearish"
+      ],
+      "text": "NIO INC Q1 NET INCOME RMB -332.1 MILLION"
+    },
+    {
+      "id": "mkt:019e49fa-9d56-799b-b5d4-995f09c6b203",
+      "time": "2026-05-21 18:00:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "NIO.O"
+      ],
+      "text": "NIO INC Q1 GROSS MARGIN 19%"
+    },
+    {
+      "id": "mkt:019e49fa-7a36-799b-b5d4-90ae84a46716",
+      "time": "2026-05-21 18:00:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "China EV Leaders",
+        "NIO.O"
+      ],
+      "text": "NIO INC Q1 ADJUSTED NET INCOME RMB 43.5 MILLION"
+    },
+    {
+      "id": "4892578",
+      "time": "2026-05-21 18:00:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國5月CBI工業訂單差值 -41，預期-40，前值-38。"
+    },
+    {
+      "id": "4892577",
+      "time": "2026-05-21 18:00:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家藥監局批准尼卡利單抗注射液上市】近日，國家藥品監督管理局透過優先審評審批程式批准Janssen-Cilag International NV申報的尼卡利單抗注射液（商品名：安力威）上市，該品種與常規治療藥物聯合用於治療抗乙醯膽鹼受體(AChR)抗體或抗肌肉特異性酪氨酸激酶 (MuSK) 抗體陽性的成人和12歲及以上青少年全身型重症肌無力(gMG)患者。該品種的上市為相關患者提供了新的治療選擇。(國家藥品監督管理局)"
+    },
+    {
+      "id": "4892576",
+      "time": "2026-05-21 18:00:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【券商從業人員培訓新規徵意 黨建廉潔類學時佔比提至35%】中證協正對《證券公司從業人員業務培訓細則》進行修訂並徵求意見中。《培訓細則》主體內容未發生變化，但第十三條修改為“在一個培訓週期內，證券公司應當要求其從業人員在黨建引領、行業文化、廉潔要求、紀法知識、職業道德方面的學時比重不低於其應完成培訓學時的35%。”此前監管通報過，部分券商對廉潔要求存在重視程度不到位、內控制度不嚴密、組織機制走形式、定期檢查和考核問責走過場等問題，近年來，監管層面已持續將廉潔要求嵌入證券行業自律全鏈條，本次修訂旨在透過培訓前置要求，強化對職業操守底線的重視。"
+    },
+    {
+      "id": "mkt:019e49fa-4c09-799b-b5d4-8fb76956037f",
+      "time": "2026-05-21 18:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | CBI Industrial Trends Survey - Orders (May) | actual -41 | consensus -40 | previous -38"
+    },
+    {
+      "id": "4892575",
+      "time": "2026-05-21 17:59:41",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【花旗：英偉達季度業績及營收指引均超預期，給予“買入”評級】花旗表示，受強勁的AI需求推動，英偉達(NVDA.O)在截至4月的第一財季交出了超出預期的業績。花旗給予英偉達“買入”評級，目標價為300美元。英偉達第一財季營收/非GAAP每股收益分別為816億美元/1.87美元，高於花旗預估的801億美元/1.76美元以及市場預期的789億美元/1.75美元。"
+    },
+    {
+      "id": "4892574",
+      "time": "2026-05-21 17:59:26",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【誠邦股份：股價異常波動 提示多項風險】誠邦股份公告稱，公司股票2026年5月20日、5月21日連續2個交易日內收盤價漲幅偏離值累計達20%，屬異常波動。自5月18日起已連續四個交易日漲停，區間漲幅46.43%，同期上證指數下跌1.41%，公司滾動市淨率高於行業平均。公司2024 - 2025年虧損，2026年一季度盈利。控股股東與一致行動人累計質押股份佔總股本22.59%。公司正推進向特定物件發行股票事項，能否實施及時間不確定，提醒投資者注意風險。"
+    },
     {
       "id": "4892572",
       "time": "2026-05-21 17:59:10",
@@ -143698,127 +143997,6 @@
         "公司"
       ],
       "text": "【納爾股份：完成回購0.83%公司股份】納爾股份公告，公司於2026年4月17日召開董事會，審議透過了股份回購方案，擬使用自有資金透過集中競價交易方式回購股份，資金總額為不低於1500萬元且不超過3000萬元，回購價格不超過15.91元/股。截至2026年5月14日，公司已透過回購專用證券賬戶以集中競價交易方式累計回購公司股份284.72萬股，佔公司目前總股本的0.83%，最高成交價為10.74元/股，最低成交價為10.33元/股，成交總金額為人民幣2999.77萬元（不含交易費用）。本次回購股份的資金來源為公司自有資金，回購價格未超過回購方案中擬定的上限。"
-    },
-    {
-      "id": "te:economy:550690",
-      "time": "2026-05-14 18:04:15",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "South Africa",
-        "Mining Production",
-        "Importance 1"
-      ],
-      "text": "South Africa Mining Output Growth Misses Forecasts — Mining production in South Africa rose by 2.5% year-on-year in March 2026, following a 9.7% jump in the prior month and below market forecasts of a 4.1% advance. This marked the slowest pace of mining growth in the current four-month stretch. On a seasonally adjusted monthly basis, mining production slipped by 5.1%, after an upwardly revised 3% rise in the prior month. Mining output increased by 0.6% in the first quarter of 2026 compared with the fourth quarter of 2025."
-    },
-    {
-      "id": "4879774",
-      "time": "2026-05-14 18:03:34",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "泰國央行將貸款價值比（LTV）寬鬆政策再延長一年。"
-    },
-    {
-      "id": "4879773",
-      "time": "2026-05-14 18:03:26",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【瑞華泰：股價異常波動 業績仍處虧損狀態】瑞華泰公告稱，公司股票2026年5月13日、14日連續2個交易日收盤價格漲幅偏離值累計超30%，屬異常波動。經自查，公司及第一大股東無應披露未披露重大事項。2025年公司營收38672.68萬元，同比增長14.06%，淨虧損9234.32萬元，虧損擴大3506.83萬元；2026年Q1營收9186.12萬元，同比增長15.90%，淨虧損2263.16萬元，虧損擴大421.67萬元。公司提醒投資者注意業績虧損及股價波動風險。"
-    },
-    {
-      "id": "mkt:019e25f1-63a3-7aa5-b402-380ff7719696",
-      "time": "2026-05-14 18:03:24",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bullish"
-      ],
-      "text": "CHINA C.BANK’S NET FOREX PURCHASE 95.6 BLN YUAN IN APRIL-CALCULATIONS"
-    },
-    {
-      "id": "mkt:019e25f1-6244-7aa5-b402-353d324ab20d",
-      "time": "2026-05-14 18:03:16",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "JD.O",
-        "Impact bullish"
-      ],
-      "text": "JD.COM: SUSQUEHANNA RAISES TARGET PRICE TO $35 FROM $30"
-    },
-    {
-      "id": "mkt:019e25f0-fcbc-7aa5-b402-2a3417c6a307",
-      "time": "2026-05-14 18:03:07",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "Brent",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "WHITE HOUSE: LEADERS HIGHLIGHTED NEED TO BUILD ON PROGRESS IN ENDING FLOW OF FENTANYL PRECURSORS INTO U.S. WHITE HOUSE: XI MADE CLEAR CHINA'S OPPOSITION TO MILITARIZATION OF STRAIT, CHARGING TOLL FOR USE WHITE HOUSE: TRUMP, XI AGREED STRAIT OF HORMUZ MUST REMAIN OPEN TO SUPPORT FREE FLOW OF ENERGY WHITE HOUSE: BOTH SIDES AGREED IRAN CAN NEVER HAVE NUCLEAR WEAPON"
-    },
-    {
-      "id": "4879772",
-      "time": "2026-05-14 18:02:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯國防部：俄軍攻佔烏克蘭東部地區米科拉伊夫卡。"
-    },
-    {
-      "id": "mkt:019e25f0-1235-7aa5-b402-209dfc39b1c1",
-      "time": "2026-05-14 18:02:30",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "【Iran Foreign Minister Accuses UAE of Role in Military Operations at BRICS Meeting】Iran’s foreign minister Abbas Araqchi accused the United Arab Emirates of direct involvement in military operations against Iran during a BRICS meeting in New Delhi. Araqchi said, “I didn’t name the UAE in my statement for the sake of unity. But the truth is that the UAE was directly involved in the aggression against my country,” adding that it did not issue a condemnation when attacks began. The remarks came in response to comments from the Emirati representative, according to reporting from Iranian semi-official media."
-    },
-    {
-      "id": "4879771",
-      "time": "2026-05-14 18:02:21",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【可川科技：股價異常波動 提示多項投資風險】可川科技公告稱，公司股票2026年5月12 - 14日異常波動，14日漲停，收盤價115.38元/股，較11日漲幅達33.11%。公司提示多項風險，包括股價漲幅偏離基本面、市盈率1250.55明顯偏高；子公司可川光子未形成營收，業務拓展、業績等有不確定性；業績波動大，2025年淨利潤0.16億元，同比降76.27%，2026年1 - 3月淨虧損0.12億元，同比降207.61%。提醒投資者注意風險，理性投資。"
-    },
-    {
-      "id": "4879770",
-      "time": "2026-05-14 18:02:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯國防部通報：俄軍已解放頓涅茨克人民共和國境內的尼古拉耶夫卡鎮。"
-    },
-    {
-      "id": "4879769",
-      "time": "2026-05-14 18:01:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "英特爾：從蒙特利爾大獎賽起，英特爾品牌標識將出現在邁凱倫一級方程式賽車上。"
-    },
-    {
-      "id": "4879768",
-      "time": "2026-05-14 18:00:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴基斯坦外交部發言人：“就該地區當前外交程序的最新進展，伊朗伊斯蘭共和國與美國之間的停火狀態依然有效，我方正與談判各方保持溝通。”"
     }
   ]
 }
