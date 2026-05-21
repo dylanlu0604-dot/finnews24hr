@@ -1,7 +1,19 @@
 {
-  "updated": "2026-05-22 06:47:09",
-  "count": 16169,
+  "updated": "2026-05-22 06:51:07",
+  "count": 16167,
   "items": [
+    {
+      "id": "te:economy:552870",
+      "time": "2026-05-22 06:47:53",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "Retail Sales MoM",
+        "Importance 1"
+      ],
+      "text": "New Zealand Retail Sales Rise More than Expected — Retail sales in New Zealand rose 0.9% quarter-on-quarter in Q1 2026, matching the pace recorded in the previous quarter and surpassing market expectations of 0.5%. The latest result marked the sixth consecutive quarterly increase, with figures adjusted for inflation and seasonal effects. On an annual basis, retail turnover increased 4.5%, following a 4.4% rise in Q4, marking the sixth straight quarter of growth."
+    },
     {
       "id": "4893680",
       "time": "2026-05-22 06:45:57",
@@ -145361,35 +145373,6 @@
         "其他"
       ],
       "text": "惠譽：因業績表現向好，將 T-Mobile評級展望上調至正面。"
-    },
-    {
-      "id": "te:economy:550854",
-      "time": "2026-05-15 06:49:02",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "New Zealand",
-        "Food Inflation",
-        "Importance 1"
-      ],
-      "text": "New Zealand Food Inflation at 14-Month Low of 2.6% — Annual food inflation in New Zealand eased to 2.6% in April 2026 from 3.4% in the previous month, marking the second straight month of moderation. The latest figure also marked the lowest level since February 2025."
-    },
-    {
-      "id": "4880721",
-      "time": "2026-05-15 06:48:45",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【日本公司治理改革或出現倒退 引發市場擔憂】日本金融廳正準備對《公司治理準則》進行五年來首次修訂，該準則一直是推動上市公司提升企業價值的重要指導框架。目前金融廳已就修訂內容公開徵求意見，意見徵集視窗將於週五關閉。日本法務省也正就《公司法》修正案徵求反饋，截止時間為下週。4月公佈的修訂草案已引發部分市場參與者批評。他們認為草案過度聚焦企業利益。Alliance Bernstein日本ESG策略主管Haruna Usui表示：“我們正在看到公司治理改革出現逆轉。”她指出，日本企業內部抵制情緒不斷上升，部分原因是企業面對激進投資者要求提高資本回報的壓力不斷上升，“這可能會對股市構成負面衝擊。”全球及日本國內投資者尤其關注《公司治理準則》的修訂，此前各方普遍期待企業將被要求證明其現金的有效使用情況。但近期討論顯示，現金管理不會成為強制要求。"
-    },
-    {
-      "id": "4880720",
-      "time": "2026-05-15 06:48:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "黎巴嫩 真主黨強烈批評由美國支援的黎以直接談判，稱在以色列持續襲擊黎巴嫩的背景下，此類談判等同於無底線單方面讓步。"
     }
   ]
 }
