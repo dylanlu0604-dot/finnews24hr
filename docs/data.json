@@ -1,7 +1,217 @@
 {
-  "updated": "2026-05-21 15:59:54",
+  "updated": "2026-05-21 16:04:24",
   "count": 15868,
   "items": [
+    {
+      "id": "mkt:019e498f-9a73-7cc6-801c-5508999bfc38",
+      "time": "2026-05-21 16:03:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S.-LISTED CHINESE STOCKS FALL PREMARKET, PDD -1%, JD.COM AND LI AUTO -2%, BILIBILI, BAIDU AND ALIBABA -4%, NETEASE -5%"
+    },
+    {
+      "id": "te:markets:552643",
+      "time": "2026-05-21 16:03:21",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Croatia",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "Stocks in Croatia Hit 18-year High — CROBEX increased to 4119.00 Index Points, the highest since March 2008. Over the past 4 weeks, Zagreb Stock Exchange Stock Index gained 3.23%, and in the last 12 months, it increased 18.68%."
+    },
+    {
+      "id": "te:economy:552642",
+      "time": "2026-05-21 16:03:10",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Poland",
+        "Producer Prices Change",
+        "Importance 1"
+      ],
+      "text": "Poland Producer Prices Rise for Second Month — Producer prices in Poland rose 1.9% year-on-year in April 2026, defying expectations of a 0.1% decline and following an upwardly revised 1.2% increase in the previous month, marking the second consecutive month of growth after thirty-two straight months of contraction. Inflationary pressures strengthened in the manufacturing industry (2.3% vs 1.5% in March), while costs also accelerated in mining and quarrying (3.5% vs 0.5%). Meanwhile, price growth eased for water supply, sewage, waste management, and remediation activities (1.4% vs 2.1%), while deflation softened slightly in electricity, gas, steam, and air conditioning supply (-1.2% vs -1.3%). On a monthly basis, producer prices eased 0.5% in April from an upwardly revised 3% rise in the previous period."
+    },
+    {
+      "id": "4892202",
+      "time": "2026-05-21 16:01:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【強生旗下安力威®（尼卡利單抗注射液）在華獲批】5月21日，強生公司宣佈，公司旗下全人源新生兒Fc受體（FcRn）拮抗劑安力威®（尼卡利單抗注射液）已獲國家藥品監督管理局批准，聯合常規治療藥物用於治療全身型重症肌無力。"
+    },
+    {
+      "id": "4892201",
+      "time": "2026-05-21 16:01:47",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀失守75美元/盎司，日內跌1.56%。"
+    },
+    {
+      "id": "4892200",
+      "time": "2026-05-21 16:01:20",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【美股中概股盤前多數下跌，網易跌5%】美股中概股盤前多數下跌，小鵬集團漲2%，拼多多跌1%，京東、理想汽車跌2%，嗶哩嗶哩、百度、阿里巴巴跌4%，網易跌5%。"
+    },
+    {
+      "id": "4892199",
+      "time": "2026-05-21 16:01:16",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【美股大型科技股盤前漲跌互現，特斯拉漲1%】美股大型科技股盤前漲跌互現，特斯拉漲1%，亞馬遜、蘋果、谷歌A持平，Meta、微軟跌0.3%，英偉達跌0.5%。"
+    },
+    {
+      "id": "mkt:019e498d-d633-7cc6-801c-4ae5f98c0a1c",
+      "time": "2026-05-21 16:01:09",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bearish"
+      ],
+      "text": "NVIDIA SHARES DOWN 0.5% PREMARKET AFTER Q1 RESULTS"
+    },
+    {
+      "id": "4892198",
+      "time": "2026-05-21 16:00:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "黑龍江原副省長畢寶文被開除黨。（新華社）"
+    },
+    {
+      "id": "4892197",
+      "time": "2026-05-21 16:00:35",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "招商局原副總經理李百安被開除黨籍。（新華社）"
+    },
+    {
+      "id": "mkt:019e498d-1ee6-7cc6-801c-4589b9b89bc0",
+      "time": "2026-05-21 16:00:35",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Eurozone | Current Account USA (Mar) | actual 24100000000B | previous 21090000000B"
+    },
+    {
+      "id": "4892196",
+      "time": "2026-05-21 16:00:29",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "中南大學原校長張堯學被雙開。（新華社）"
+    },
+    {
+      "id": "mkt:019e498c-e4b0-7cc6-801c-39ccb48969fa",
+      "time": "2026-05-21 16:00:28",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Eurozone | Current Account SA (Mar) | actual 14900000000B | previous 24874000000B"
+    },
+    {
+      "id": "4892195",
+      "time": "2026-05-21 16:00:20",
+      "tags": [
+        "資料"
+      ],
+      "text": "歐元區5月服務業PMI初值 46.4，預期 47.8，前值 47.6。\n歐元區5月綜合PMI初值 47.5，預期 48.8，前值 48.8。\n歐元區5月製造業PMI初值 51.4，預期51.8，前值52.2。"
+    },
+    {
+      "id": "4892194",
+      "time": "2026-05-21 16:00:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨賣出額達60億港元。"
+    },
+    {
+      "id": "4892193",
+      "time": "2026-05-21 16:00:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "易捷航空執行長：我們持續對更遠期的航油進行對沖，因為更遠期的航油價格漲幅遠沒有那麼大。"
+    },
+    {
+      "id": "te:markets:552640",
+      "time": "2026-05-21 16:00:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural gas Gains by 1.13% — Top commodity gainers are Natural gas (1.13%), Crude Oil WTI (1%) and Brent Crude Oil (0.89%)."
+    },
+    {
+      "id": "4892192",
+      "time": "2026-05-21 16:00:00",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【SpaceX更多IPO細節披露：去年虧損49億美元，馬斯克掌握85%投票權，股票分階段解禁】SpaceX的IPO申請檔案揭示了這家全球最大私營公司的財務狀況和運營情況。預計這將創下有史以來最大規模股票上市的紀錄，並可能使其創始人埃隆·馬斯克成為全球首位萬億富翁。 該公司計劃於6月在納斯達克上市，股票程式碼為“SPCX”。週三提交的檔案並未披露擬議的股價或初始估值。SpaceX預計將尋求1.5萬億美元或更高的初始估值，但其財務狀況明顯遜於任何其他美國超大型公司。去年，該公司實現營收187億美元，虧損49億美元。 今年虧損進一步擴大：第一季度，SpaceX實現營收47億美元，虧損43億美元。馬斯克是最大股東，得益於擁有超級投票權的B類股（每持有一股B類股擁有10票投票權，而向公眾出售的A類股每股僅有1票），截至5月1日，他控制了85%的投票權。馬斯克的各個公司之間相互幫助，包括共用公務機以及互相購買產品或服務。馬斯克和某些重要投資者已同意，在SpaceX開始交易後的366天內不出售他們的股票。 其他IPO前投資者則需遵守180天的鎖定期。然而，這些投資者有機會透過“提前解禁”更早地出售股票。"
+    },
+    {
+      "id": "mkt:019e498c-6f79-7cc6-801c-2dcf8205d23a",
+      "time": "2026-05-21 16:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Eurozone | Composite PMI Flash (May) | actual 47.5 | consensus 48.8 | previous 48.8"
+    },
+    {
+      "id": "mkt:019e498c-6f7c-7cc6-801c-326c6d5fb9e8",
+      "time": "2026-05-21 16:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Eurozone | Manufacturing PMI Flash (May) | actual 51.4 | consensus 51.8 | previous 52.2"
+    },
+    {
+      "id": "mkt:019e498c-6f48-7cc6-801c-229e898a7b69",
+      "time": "2026-05-21 16:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Eurozone | Services PMI Flash (May) | actual 46.4 | consensus 47.7 | previous 47.6"
+    },
+    {
+      "id": "4892191",
+      "time": "2026-05-21 15:59:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蒙草生態：中標3.11億元林草帶建設專案】蒙草生態公告稱，公司與阿拉善左旗藍馬園林生態建設有限責任公司組成的聯合體，成為“內蒙古阿拉善盟阿拉善左旗 - 三北六期騰格裡沙漠林草帶鞏固建設專案施工標段”的聯合中標人，中標金額3.11億元。公司承擔專案工程量比例約77.5%，計劃2026年5月開工，2028年12月竣工。專案履行將對公司未來經營產生積極影響，目前需簽署正式合同。"
+    },
     {
       "id": "4892190",
       "time": "2026-05-21 15:58:55",
@@ -142610,216 +142820,6 @@
         "國際"
       ],
       "text": "【銅價上漲，受供應端風險推動】荷蘭國際集團表示，近期銅價上漲似乎更多是受供應擔憂而非基本需求驅動，如果中東的干擾因素緩解，銅價可能面臨回撥風險。該公司的分析師表示：“與衝突相關的供應端風險正在支撐幾種工業金屬的價格。”然而，“較高的能源價格和更廣泛的宏觀不確定性繼續拖累製造業活動和全球增長預期。”投資者可能會密切關注庫存水平、來自中國的需求訊號，以及地緣政治緊張局勢對精煉金屬供應的干擾程度。倫敦金屬交易所(LME)三個月期銅期貨下跌0.7%，至每噸13,982美元，前一交易日曾逼近創紀錄高點。"
-    },
-    {
-      "id": "te:markets:550639",
-      "time": "2026-05-14 16:04:19",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "FTSE MIB Extends Gains — The FTSE MIB rose to around 49,700 on Thursday, extending gains from the previous session and approaching record highs, as investors tracked geopolitical developments and continued to digest the latest earnings reports. Markets are closely focused on the Beijing meeting between US President Donald Trump and Chinese President Xi Jinping, with hopes that the two sides can help stabilize relations between the world’s largest economies. Across the bourse, STMicroelectronics led gains, up over 2%. Heavyweight financials also advanced, including UniCredit (+1.1%), Mediobanca (+1.2%), BPER Banca (+1.4%), and Banca Mediolanum (+1.3%). Meanwhile, Infrastrutture Wireless Italiane rose 0.4%, even after reporting a decline in first-quarter earnings while reiterating its 2026 revenue guidance."
-    },
-    {
-      "id": "4879481",
-      "time": "2026-05-14 16:04:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【塔吉克總統拉赫蒙：歡迎中國製造業企業到塔發展推動雙方互利合作】塔吉克總統拉赫蒙13日表示，中國汽車、摩托車等製造業的發展給他留下良好印象，歡迎中國製造業企業到塔吉克發展，實現優勢互補，未來進一步推動雙方經貿往來與互利合作。 13日上午，拉赫蒙乘飛機抵達重慶。當天，拉赫蒙在重慶參觀了兩家製造業企業，並與相關企業代表進行互動交流。 拉赫蒙首先來到重慶賽力斯超級工廠，參觀汽車生產車間，並認真聽取工作人員的介紹。其間，拉赫蒙饒有興致地進入一輛展車體驗，並告訴一旁工作人員自己想試駕一下。 此後，拉赫蒙又前往宗申工業園，參觀企業展館內的摩托車、特種車、無人機和小型農機等展品。 “中國製造業企業具備較高的自動化、智慧化水平，兩家企業的產品給我留下了良好印象。”拉赫蒙說，塔吉克擁有豐富的礦產資源和充沛的勞動力資源，雙方可實現優勢互補，歡迎中國企業來塔投資興業。 近年來，中塔經貿合作快速發展。2025年，中塔進出口額達308.58億元，同比增長12.5%。 拉赫蒙表示，未來塔方願持續深化雙方經貿往來，推動更多務實合作。(新華社)"
-    },
-    {
-      "id": "mkt:019e2582-a306-7aa5-b400-c7170c0ae200",
-      "time": "2026-05-14 16:02:58",
-      "tags": [
-        "MKT News",
-        "CSCO.O",
-        "Impact bullish"
-      ],
-      "text": "CISCO SHARES JUMP 19.5% PREMARKET AFTER Q3 REVENUE BEAT, JOB CUTS"
-    },
-    {
-      "id": "4879480",
-      "time": "2026-05-14 16:02:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "【第二十屆深圳國際金融博覽會將於5月27日—29日舉辦】據“深圳釋出”，5月14日，深圳市政府新聞辦舉行深圳金融支援高質量發展暨第二十屆深圳國際金融博覽會新聞釋出會。據悉，第二十屆深圳國際金融博覽會將於5月27日—29日在深圳會展中心（福田）舉辦，以“AI時代：製造業與服務業協同發展”為主題，展會面積達3萬平方米，同比增長超50%。本屆金博會突出三大亮點：一是注重“產融結合”的務實對接，推動科創與資本的雙向奔赴，專門設立“科技產業金融”和“創新資本”主題區，定向邀請製造業龍頭企業，以及大量深圳“20+8”產業叢集中有融資需求的瞪羚企業、獨角獸企業、專精特新企業參展；二是突出“深港聯動”的開放協同，加快構建跨境金融高地，重點展示跨境貿易結算、跨境支付等創新成果；三是強調“全國聯動”的資源整合，實現跨區域互鑑互通，邀請全國各省、省內各市組團參會，打造全國性產融對接平臺，為深圳建設具有全球重要影響力的產業金融中心注入新動能。"
-    },
-    {
-      "id": "mkt:019e2582-6fcc-7aa5-b400-b83121e53d65",
-      "time": "2026-05-14 16:02:45",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "NVIDIA RISES 2.6% IN PREMARKET"
-    },
-    {
-      "id": "te:markets:550635",
-      "time": "2026-05-14 16:02:38",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Hong Kong",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Hong Kong Stocks Reverse Early Gains — The Hang Seng Index was little changed, at around 26,375 on Thursday, reversing earlier gains as investors remained cautious while closely monitoring ongoing talks between US President Donald Trump and Chinese President Xi Jinping in Beijing. Sentiment was initially supported by hopes that the summit could help stabilise US-China relations and reduce geopolitical tensions, particularly around trade, tariffs, AI, and regional security issues. However, gains faded as the session progressed, as traders turned more cautious ahead of potential policy signals and diplomatic developments emerging from the meeting. Electronic technology shares continued to support to the market, with Xiaomi Corporation and InnoScience Technology gained 0.6% and 2.5%, respectively. In contrast, Tencent Holdings (-0.4%), Semiconductor Manufacturing International Corporation (-2.8%), and Meituan Class (-1.6%) declined."
-    },
-    {
-      "id": "4879479",
-      "time": "2026-05-14 16:02:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "思科股價盤前大漲19.5%，此前其第三季度營收超預期，並宣佈裁員。"
-    },
-    {
-      "id": "4879478",
-      "time": "2026-05-14 16:01:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防軍（IDF）：以軍已開始打擊黎巴嫩南部多地的真主黨恐怖設施據點。"
-    },
-    {
-      "id": "mkt:019e2582-2673-7aa5-b400-b61c9f2b4ad2",
-      "time": "2026-05-14 16:01:40",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "Nasdaq100",
-        "Dow"
-      ],
-      "text": "U.S. S&P 500 E-MINI FUTURES UP 0.2%, NASDAQ 100 FUTURES UP 0.4%, DOW FUTURES UP 0.3%"
-    },
-    {
-      "id": "4879477",
-      "time": "2026-05-14 16:01:34",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國標普500迷你股指期貨上漲0.2%，納斯達克100股指期貨上漲0.4%，道瓊斯股指期貨上漲0.3%。"
-    },
-    {
-      "id": "4879476",
-      "time": "2026-05-14 16:01:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "【達實智慧：目前公司AIoT平臺及AI應用業務整體規模仍相對較小】達實智慧5月14日在互動平臺表示，2025年，公司AIoT平臺及AI應用簽約金額達7847.14萬元，全年增長趨勢顯著。目前公司AIoT平臺及AI應用業務整體規模仍相對較小，在公司營業收入中的佔比較低，對公司整體經營業績尚未構成重大影響。"
-    },
-    {
-      "id": "4879475",
-      "time": "2026-05-14 16:01:20",
-      "tags": [
-        "公司",
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股大型科技股盤前漲跌互現，英偉達漲2%】美股大型科技股盤前漲跌互現，英偉達漲2%，特斯拉漲0.7%，谷歌A漲0.2%，亞馬遜持平，蘋果跌0.1%，Meta、微軟跌0.3%。"
-    },
-    {
-      "id": "4879474",
-      "time": "2026-05-14 16:01:16",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美股中概股盤前普跌，百度跌4%】美股中概股盤前普跌，京東跌1%，攜程、網易、蔚來跌2%，嗶哩嗶哩、百濟神州、阿里巴巴跌3%，百度跌4%。"
-    },
-    {
-      "id": "4879473",
-      "time": "2026-05-14 16:01:06",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【英國海上貿易行動辦公室：一船隻在阿聯酋附近被控制】英國海上貿易行動辦公室14日通報說，一艘船隻當天在阿聯酋附近海域被控制，目前該船正駛向伊朗領海。 通報說，事件發生時該船正在阿聯酋富查伊拉東北約38海里（約70公里）處錨泊。(新華社)"
-    },
-    {
-      "id": "4879472",
-      "time": "2026-05-14 16:00:55",
-      "tags": [
-        "市場"
-      ],
-      "text": "【邁威爾科技美股盤前漲超5%】邁威爾科技美股盤前漲超5%，現報187.3美元。"
-    },
-    {
-      "id": "4879471",
-      "time": "2026-05-14 16:00:51",
-      "tags": [
-        "宏觀",
-        "市場"
-      ],
-      "text": "【首創期貨：供應端約束，白銀走勢強於黃金】昨日金銀走勢分化，白銀因供給端因素走強，而黃金繼續震盪。此前，全球前三白銀生產國秘魯（佔全球產量10%+）因天然氣管道爆炸出臺能源緊急法令，限制礦山工業用電，礦山開工率下滑，白銀大漲，短期走勢偏強。短期金銀比走低，目前已經接近50，可逢低做多金銀比。（首創期貨）"
-    },
-    {
-      "id": "4879470",
-      "time": "2026-05-14 16:00:49",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "日本證券金融公司擬回購至多 34 億日元自家股份。"
-    },
-    {
-      "id": "4879469",
-      "time": "2026-05-14 16:00:31",
-      "tags": [
-        "市場"
-      ],
-      "text": "【諾華美股盤前跌超5%】諾華美股盤前跌超5%，現報141.651美元。"
-    },
-    {
-      "id": "4879468",
-      "time": "2026-05-14 16:00:14",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "土耳其央行行長：符合中期目標的預期降通脹路徑要求維持緊縮政策。"
-    },
-    {
-      "id": "4879467",
-      "time": "2026-05-14 16:00:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "【金宏氣體：公司目前暫無電子級六氟化鎢產品】金宏氣體(688106)5月14日在互動平臺表示，公司目前暫無電子級六氟化鎢產品。"
-    },
-    {
-      "id": "te:markets:550634",
-      "time": "2026-05-14 16:00:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Heating Oil Gains by 0.98% — Top commodity gainers are Heating Oil (0.98%), Natural gas (0.95%), Brent Crude Oil (0.92%) and Crude Oil WTI (0.81%)."
-    },
-    {
-      "id": "te:markets:550633",
-      "time": "2026-05-14 15:59:57",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Siemens Stock Price Hits 13-week High — Siemens shares increased to 272.75 EUR, the highest since February 2026. Over the past 4 weeks, Siemens gained 14.29%, and in the last 12 months, it increased 21.02%."
     }
   ]
 }
