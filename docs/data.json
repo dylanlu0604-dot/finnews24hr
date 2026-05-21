@@ -1,7 +1,80 @@
 {
-  "updated": "2026-05-21 12:11:30",
-  "count": 15866,
+  "updated": "2026-05-21 12:15:27",
+  "count": 15870,
   "items": [
+    {
+      "id": "4891809",
+      "time": "2026-05-21 12:14:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【宜通世紀等成立科技公司 含多項AI業務】企查查APP顯示，近日，廣東智律星法智科技有限公司成立，法定代表人為劉錦旭，經營範圍包含人工智慧基礎軟體開發；人工智慧應用軟體開發；資料處理和儲存支援服務；網際網路資料服務等。企查查股權穿透顯示，該公司由宜通世紀全資子公司廣東宜通聯雲智慧資訊有限公司、惠州市曉文科技有限公司等共同持股。"
+    },
+    {
+      "id": "4891808",
+      "time": "2026-05-21 12:14:34",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【受人工智慧及伊朗和談的最新樂觀情緒提振 日本日經指數大漲】週四日本日經指數大漲超3.7%，站上62000點，創下兩週最大漲幅，科技股再度受到市場追捧，疊加伊朗局勢地緣緊張局勢有所緩和，帶動股指上行。若當前漲勢延續，該指數將創下5月7日以來最大單日漲幅。"
+    },
+    {
+      "id": "te:markets:552549",
+      "time": "2026-05-21 12:14:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Copper Strengthens as Risk Appetite Returns — Copper futures traded around $6.28 per pound on Thursday after rising 2% in the previous session, supported by improving global risk appetite amid renewed optimism over a potential peace agreement between the US and Iran. President Trump said the US was in the final stages of negotiations with Iran, fueling hopes that the Strait of Hormuz could soon reopen. The prospect of restored shipping flows triggered a sharp decline in oil prices, helping ease inflationary pressures and reducing concerns about further interest rate hikes. Copper prices also drew support from a rally in artificial intelligence-related technology stocks, which strengthened expectations for demand tied to data infrastructure development. In corporate news, Codelco is targeting roughly $2 billion in cost reductions and additional revenue through the integration of operations across three copper mines, as the company seeks to counter the effects of stagnant production and rising debt levels."
+    },
+    {
+      "id": "4891807",
+      "time": "2026-05-21 12:12:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【菲律賓參議院將於7月6日正式審理副總統莎拉彈劾案】記者5月21日獲悉，菲律賓多名參議員稱，對副總統莎拉·杜特爾特的彈劾案審理將於7月6日正式開始。在7月27日之前，該彈劾案審理將於每週一到週三進行。7月27日總統發表國情諮文報告之後，彈劾案審理將改為每週二到週四進行。"
+    },
+    {
+      "id": "4891806",
+      "time": "2026-05-21 12:12:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【創源股份：正在籌備世界盃相關文創產品】創源股份(300703)5月21日在互動平臺表示，公司目前正在籌備世界盃相關的文創產品，後續將在“創酷未來”出售。"
+    },
+    {
+      "id": "mkt:019e48bb-a167-777f-8615-688c6a78dfa2",
+      "time": "2026-05-21 12:11:56",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "N225",
+        "Impact bullish"
+      ],
+      "text": "NIKKEI 225 HITS 62,000, INTRADAY +3.73%"
+    },
+    {
+      "id": "4891805",
+      "time": "2026-05-21 12:11:37",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【機構：2026年全球股息增速料將放緩】資本集團在一份報告中表示，今年全球股息的增速料將低於此前預期。該投資管理公司在這份報告中表示，伊朗戰爭及隨後的能源危機顛覆了今年對全球經濟的許多假設；該報告追蹤了全球最大的1,600家公司的派息情況。不過該投資管理公司表示，實行漸進式派息政策的公司可能不願削減股息。資本集團預計，2026年總股息將達到2.20萬億美元，儘管這可能比最初預測的更依賴於一次性特別股息。這意味著全年增長率為5.1%，剔除特別股息和匯率影響的核心增長率為4.7%。"
+    },
+    {
+      "id": "4891804",
+      "time": "2026-05-21 12:11:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【凌瑋科技：公司產品不包括HVLP系列銅箔】凌瑋科技(301373)5月21日在互動平臺表示，公司產品不包括HVLP系列銅箔。"
+    },
     {
       "id": "te:markets:552548",
       "time": "2026-05-21 12:10:13",
@@ -142710,42 +142783,6 @@
         "國際"
       ],
       "text": "日本央行審議委員增一行：可以肯定的是，通貨緊縮政策已經結束，我們正在進入通貨膨脹階段。"
-    },
-    {
-      "id": "4879102",
-      "time": "2026-05-14 12:13:59",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行審議委員增一行：必須透過適當的貨幣政策調控通脹率，以此維持實際工資增長。"
-    },
-    {
-      "id": "4879101",
-      "time": "2026-05-14 12:13:30",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行審議委員增一行：若通脹無法維持在合理水平，可能會形成惡性迴圈：企業為留住員工不得不進一步上調工資。"
-    },
-    {
-      "id": "4879100",
-      "time": "2026-05-14 12:13:11",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印度盧比跌破1美元兌95.7950盧比關口，創歷史新低，日內跌幅為0.1%。"
-    },
-    {
-      "id": "4879099",
-      "time": "2026-05-14 12:12:23",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行審議委員增一行：從長期來看，整體食品價格是未來通脹的關鍵決定因素。鑑於日本已不再處於通縮週期，應儘快解決負實際利率問題。當前政策利率已接近預估中性利率水平，日本央行若考慮進一步加息，需更全面地審視物價、就業及金融狀況等各項因素。"
     }
   ]
 }
