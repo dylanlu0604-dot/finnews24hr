@@ -1,7 +1,98 @@
 {
-  "updated": "2026-05-21 21:47:56",
-  "count": 16123,
+  "updated": "2026-05-21 21:52:13",
+  "count": 16127,
   "items": [
+    {
+      "id": "4893194",
+      "time": "2026-05-21 21:50:34",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "【分析認為德國商業銀行能承受摩根大通的競爭】德意志銀行的Benjamin Goy寫道，德國商業銀行將能夠抵禦摩根大通在德國的競爭。這家美國銀行週三在德國推出了一項新的零售銀行業務。Goy寫道，該銀行向儲戶提供的4%的利率具有競爭力。不過，該分析師表示，德國零售銀行市場足夠大，可以容納一個新的參與者。“雖然一些投資者和分析師認為這對德國的淨利息收入是不利的，但我們認為，龐大的德國零售存款市場比人們通常認為的更具韌性且更理性。“因此，這家美國銀行的新業務對德國第二大銀行的影響將僅是有限的。"
+    },
+    {
+      "id": "te:economy:552794",
+      "time": "2026-05-21 21:50:11",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Composite PMI",
+        "Importance 1"
+      ],
+      "text": "US Private Sector Growth Steady in May — The S&P Global US Composite PMI came in at 51.7 in May 2026, the same as in April, continuing to point to resilient private sector activity although the rate remained more moderate than early in the year, preliminary estimates showed. Improved performance in manufacturing (55.3, the highest in 48 months vs 54.5) was countered by a sluggish service sector (50.9 vs 51). However, factory growth was again in part supported by temporary stock building and both sectors reported that order book growth had been somewhat subdued by the ongoing war in the Middle East, most notably in terms of export sales. Surging input costs, which jumped at the steepest rate since late-2022 on the back of rising war-related supply constraints and steep energy cost increases, were not only cited as causing lower sales but also contributed to steepening job losses and a further rise in selling price inflation to its highest since August 2022."
+    },
+    {
+      "id": "te:markets:552793",
+      "time": "2026-05-21 21:50:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "IBM Stock Price Hits 4-week High — IBM shares increased to 235.95 USD, the highest since April 2026. Over the past 4 weeks, IBM lost 6.48%, and in the last 12 months, it decreased 8.84%."
+    },
+    {
+      "id": "4893193",
+      "time": "2026-05-21 21:48:49",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【美國威脅撤銷巴勒斯坦常駐聯合國代表團簽證】美國全國公共廣播電臺20日報道稱，美國政府試圖迫使巴勒斯坦常駐聯合國觀察員里亞德·曼蘇爾放棄競選聯合國大會副主席，威脅將撤銷巴方常駐聯合國代表團的簽證。報道稱，美國國務院19日發出一份標註“敏感但非機密”的電報，指示美國駐耶路撒冷外交官向巴勒斯坦官員施壓，要求曼蘇爾撤回競選聯大副主席的申請。電報說，曼蘇爾曾“譴責以色列（在加沙地帶製造）種族滅絕”，他的競選“破壞（美國總統）特朗普的加沙和平計劃”。電報中提及，美國國務院曾於2025年聯合國大會前拒籤巴總統和巴方官員，但對巴民族權力機構常駐聯合國代表團人員給予了豁免。美方“如果不得不重新考慮所有可用選項，那將是令人遺憾的”。電報還說，曼蘇爾今年2月已經退出聯大主席競選，但他若當選副主席，仍有可能主持聯大會議。最壞情況下，下一屆聯大主席可能在涉及中東問題上“協助巴勒斯坦”。聯大副主席職位選舉定於6月2日舉行，曼蘇爾在競選名單中。（新華社）"
+    },
+    {
+      "id": "4893192",
+      "time": "2026-05-21 21:48:19",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期美國國債收益率<US10YT=RR>在企業活動資料公佈後小幅走低，最新報4.627%。"
+    },
+    {
+      "id": "mkt:019e4acb-505b-7bb7-824b-6e989ea94e83",
+      "time": "2026-05-21 21:48:18",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "US30Y",
+        "US2Y"
+      ],
+      "text": "YIELD ON 10-YR U.S. TREASURY NOTES TICKS DOWN AFTER BUSINESS ACTIVITY DATA, LAST AT 4.627% 30-YR TREASURY YIELD SLIPS AFTER BUSINESS ACTIVITY DATA, LAST AT 5.148% TWO-YR U.S. TREASURY YIELD SLIPS AFTER BUSINESS ACTIVITY DATA, LAST AT 4.114%"
+    },
+    {
+      "id": "4893191",
+      "time": "2026-05-21 21:48:14",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國兩年期國債收益率在商業活動資料公佈後下滑，最新報4.114%。"
+    },
+    {
+      "id": "4893190",
+      "time": "2026-05-21 21:48:06",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "30年期美國國債收益率在企業活動資料公佈後下滑，最新報5.148%。"
+    },
+    {
+      "id": "4893189",
+      "time": "2026-05-21 21:47:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "美股儲存概念股漲幅擴大，截至目前，美光科技漲3.3%，希捷科技漲5%，閃迪漲2.2%，西部資料漲2.6%。"
+    },
     {
       "id": "4893188",
       "time": "2026-05-21 21:46:56",
@@ -139,6 +230,14 @@
         "國際"
       ],
       "text": "俄羅斯國防部：俄羅斯在核演習中發射亞爾斯洲際彈道導彈。"
+    },
+    {
+      "id": "4893179",
+      "time": "2026-05-21 21:43:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【本輪過程已有121個國家站破月降水量極值】5月中旬以來，我國南方多地遭遇入汛以來最強降雨過程。本輪過程共有121個國家級觀測站突破月降水量極值。其中，湖北荊州市荊州區和江陵縣、湖南邵陽綏寧縣、江西贛州市上猶縣、廣西貴港市港北區等5個國家級觀測站破歷史降水量極值。中央氣象臺首席預報員陳博宇分析，本輪強降雨形成和發展有多個原因。其一是有一條來自於印度洋經中南半島到海南、廣西、廣東的低層穩定水汽輸送帶；其二是副熱帶高壓偏強偏北，加之我國東部近海洋麵存在位勢高度異常，進一步加強水汽輸送，又延緩西風帶東移，進而導致我國中東部雨帶移動緩慢，形成持續性降雨且雨量大的局面。"
     },
     {
       "id": "mkt:019e4ac6-cc56-7bb7-824b-3f0fb394c159",
@@ -144963,61 +145062,6 @@
         "國際"
       ],
       "text": "【中國銀行董事長葛海蛟在京分別會見美國大豆出口協會主席麥克蘭尼、維薩公司全球執行長麥凱恩】中國銀行董事長葛海蛟在中國銀行總行大廈分別會見美國大豆出口協會（USSEC）主席邁克·麥克蘭尼（Mike McCranie）、執行長蘇健（Jim Sutter）一行，維薩公司（Visa）全球執行長麥凱恩（Ryan McInerney）、大中華區總裁張文翊（Elaine Chang）一行。"
-    },
-    {
-      "id": "4880221",
-      "time": "2026-05-14 21:51:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "【挪威取消導彈出口許可 馬來西亞要索賠】馬來西亞國防部長哈立德14日說，由於挪威單方面撤銷了出口一款海軍導彈系統的許可，馬方將向挪威方面索賠，並考慮採取法律行動。（新華社）"
-    },
-    {
-      "id": "mkt:019e26c1-6c8c-7dde-99f5-05e636b84da3",
-      "time": "2026-05-14 21:50:58",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Nasdaq100",
-        "Impact bullish"
-      ],
-      "text": "NASDAQ 100 EXTENDS GAINS TO 0.5%"
-    },
-    {
-      "id": "4880220",
-      "time": "2026-05-14 21:50:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "納斯達克100指數漲幅擴大至0.5%。"
-    },
-    {
-      "id": "te:markets:550771",
-      "time": "2026-05-14 21:50:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The US 100 Tech Index Hit All-time High — US100 increased to an all-time high of 29512.00 Index Points. Over the past 4 weeks, US 100 Tech Index gained 12.6%, and in the last 12 months, it increased 38.3%."
-    },
-    {
-      "id": "4880219",
-      "time": "2026-05-14 21:49:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "法國衛生部長：法國26名被認定為與洪都厄斯號遊輪相關的漢坦病毒病例密切接觸的人，其檢測結果均為陰性。"
-    },
-    {
-      "id": "4880218",
-      "time": "2026-05-14 21:48:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "美元兌日元USD/JPY短線一度跳水超70點，最低下探至157.57，現回升至157.81。"
     }
   ]
 }
