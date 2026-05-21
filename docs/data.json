@@ -1,7 +1,15 @@
 {
-  "updated": "2026-05-22 03:31:17",
-  "count": 16272,
+  "updated": "2026-05-22 03:35:02",
+  "count": 16270,
   "items": [
+    {
+      "id": "4893589",
+      "time": "2026-05-22 03:31:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西稅務官員：截至 4 月份，政府本年度股息收入達 8.85 億雷亞爾。"
+    },
     {
       "id": "4893588",
       "time": "2026-05-22 03:30:26",
@@ -146272,36 +146280,6 @@
         "國際"
       ],
       "text": "以色列國防軍本土前線司令部已宣佈以色列北部拉響火箭彈警報的區域解除警報，此前真主黨發起了火箭彈襲擊。"
-    },
-    {
-      "id": "4880537",
-      "time": "2026-05-15 03:33:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防軍：從黎巴嫩向以色列北部發射了六枚火箭彈，其中三枚被攔截，另有三枚落入空曠區域。"
-    },
-    {
-      "id": "mkt:019e27fa-37b8-7bb5-b4d2-3632e8080683",
-      "time": "2026-05-15 03:32:35",
-      "tags": [
-        "MKT News",
-        "CZR.O",
-        "Impact bullish"
-      ],
-      "text": "BANKS QUEUE UP TO SUPPORT HOSPITALITY BILLIONAIRE'S DEAL FOR CAESARS ENTERTAINMENT – FT"
-    },
-    {
-      "id": "mkt:019e27f9-e989-7bb5-b4d2-292f29b3369f",
-      "time": "2026-05-15 03:32:30",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "IBRAHIM AZIZI, HEAD OF THE PARLIAMENT'S NATIONAL SECURITY COMMISSION, SAID: \"WE WARN THE ENEMIES THAT IF THEY MAKE A MISCALCULATION AND UNDERMINE OUR SECURITY, WE WILL STRIP THEM OF THEIR SECURITY WHEREVER THEY MAY BE IN THE WORLD. WE ARE READY TO DEFEAT THE ENEMY ONCE AGAIN IN THE STRAIT OF HORMUZ AND OTHER ARENAS.\""
     }
   ]
 }
