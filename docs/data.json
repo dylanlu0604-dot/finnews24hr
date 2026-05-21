@@ -1,7 +1,43 @@
 {
-  "updated": "2026-05-22 05:17:46",
-  "count": 16219,
+  "updated": "2026-05-22 05:21:45",
+  "count": 16220,
   "items": [
+    {
+      "id": "te:markets:552862",
+      "time": "2026-05-22 05:21:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "TSX Rises on Middle East Peace Hopes — he S&P/TSX Composite Index rose 0.7% to close at 34,409 on Thursday as lower oil prices eased concerns over a war-driven inflation shock. Crude prices retreated amid signs of a possible diplomatic breakthrough in the Middle East conflict. Reports indicated that the US and Iran had reached an agreement through Pakistani mediation, while US Secretary of State Marco Rubio said there were “some good signs” that a deal to end the war in Iran could be in sight. Financial stocks advanced as easing energy pressures supported sentiment, with Royal Bank of Canada up 1.3% and TD Bank gaining 1.8%. In tech, Constellation Software added 2.6% following strong quarterly results from NVIDIA, which reported profit and revenue above expectations. Meanwhile, Shopify was little changed as investors continued to assess whether the company’s shift toward AI will drive growth or create new challenges."
+    },
+    {
+      "id": "4893646",
+      "time": "2026-05-22 05:19:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "標普：因資訊不足，撤回精神航空有限責任公司的信用評級。"
+    },
+    {
+      "id": "4893645",
+      "time": "2026-05-22 05:18:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國疾控中心：目前美國境內暫無疑似、疑似臨床及確診埃博拉病例，民眾感染風險仍處於較低水平。"
+    },
+    {
+      "id": "4893644",
+      "time": "2026-05-22 05:17:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國疾控中心：對近期曾到訪剛果（金）、烏干達、南蘇丹的部分人員實施臨時入境限制。"
+    },
     {
       "id": "4893643",
       "time": "2026-05-22 05:16:33",
@@ -145802,30 +145838,6 @@
         "市場"
       ],
       "text": "ALLIED GOLD CORP：第一季度黃金銷量為99,878盎司，產量為96,016盎司。"
-    },
-    {
-      "id": "4880638",
-      "time": "2026-05-15 05:20:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "智利礦業部確認方丹出任智利國家銅業公司（CODELCO）新任董事長。"
-    },
-    {
-      "id": "4880637",
-      "time": "2026-05-15 05:18:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "據黎巴嫩國家廣播電視臺報道，黎巴嫩與以色列在華盛頓舉行的談判已結束，將於明日上午重啟。"
-    },
-    {
-      "id": "4880636",
-      "time": "2026-05-15 05:18:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "超微電腦任命馬修·陶貝格爾為首席營收官。"
     }
   ]
 }
