@@ -1,7 +1,119 @@
 {
-  "updated": "2026-05-21 14:54:45",
-  "count": 15854,
+  "updated": "2026-05-21 14:58:43",
+  "count": 15859,
   "items": [
+    {
+      "id": "4892047",
+      "time": "2026-05-21 14:57:59",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度Nifty 50指數<.NSEI>回吐全部漲幅，最新下跌0.03%。"
+    },
+    {
+      "id": "4892046",
+      "time": "2026-05-21 14:57:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "【中芯國際A股成交額達200億元，現跌4.6%】5月21日下午，中芯國際A股成交額達200億元，現跌4.6%。"
+    },
+    {
+      "id": "te:economy:552592",
+      "time": "2026-05-21 14:57:54",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Sweden",
+        "Unemployment Rate",
+        "Importance 1"
+      ],
+      "text": "Swedish Jobless Rate Falls to 8.7% — Sweden’s unemployment rate fell to 8.7% in April 2026 from 8.9% in the same month a year earlier. The total number of unemployed people decreased by 12,400 compared to April 2025, reaching 500,100, including 227,000 women and 273,200 men, corresponding to unemployment rates of 8.3% and 9.2% respectively. Among young people aged 15-24, 179,000 were unemployed, corresponding to a youth unemployment rate of 26.5%, of whom 141,000 were full-time students. Meanwhile, employment among people aged 15-74 fell by 35,000 to 5.23 million, including 2.514 million women and 2.712 million men. The number of long-term unemployed, defined as those jobless for at least 27 weeks, reached 181,000, with 80,000 women and 101,000 men. The average total number of hours worked per week was 155.9 million. On a seasonally adjusted basis, the unemployment rate was 8.6%, while youth unemployment stood at 24.4%."
+    },
+    {
+      "id": "mkt:019e4953-5db8-7ee7-b68f-87beb32777fa",
+      "time": "2026-05-21 14:57:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact mixed",
+        "SZSE Component"
+      ],
+      "text": "TURNOVER ON SSE AND SZSE EXCEEDED RMB 3.4 TRLN, UP RMB 500 BLN FROM SAME TIME PREVIOUS SESSION"
+    },
+    {
+      "id": "4892045",
+      "time": "2026-05-21 14:57:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【瀾起科技成交額達300億元】5月21日下午，瀾起科技成交額達300億元，現漲1.87%。"
+    },
+    {
+      "id": "te:markets:552589",
+      "time": "2026-05-21 14:57:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Japanese Stocks Surge as SoftBank Jumps 20% — The Nikkei 5225 Index rallied 3.14% to close at 61,684 while the broader Topix Index gained 1.64% to 3,854 on Thursday, as Japanese equities rebounded from earlier weekly losses amid renewed optimism surrounding artificial intelligence-related demand. Strong earnings from Nidia boosted sentiment across global technology markets, while news that Samsung Electronics had averted a potential labor strike further supported semiconductor-linked shares. In Japan, SoftBank Group led the rally, soaring nearly 20% following reports that OpenAI is preparing for a public listing. Other technology-related stocks also posted strong gains, including Kioxia Holdings (7.9%), Fujikura (4.8%), Advantest (4.4%), Ibiden (14.3%) and Tokyo Electron (5.9%). On the geopolitical front, President Donald Trump said the US was in the final stages of negotiations with Iran, fueling hopes that the strategically important Strait of Hormuz could soon reopen."
+    },
+    {
+      "id": "4892044",
+      "time": "2026-05-21 14:57:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度Sensex指數回吐日內漲幅，現跌0.01%。"
+    },
+    {
+      "id": "4892043",
+      "time": "2026-05-21 14:55:25",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超3.4萬億元，較上日此時放量5004億元。"
+    },
+    {
+      "id": "4892042",
+      "time": "2026-05-21 14:55:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【立訊精密等成立新材料公司】企查查APP顯示，近日，南京訊瑞新材料有限公司成立，法定代表人為李帥君，註冊資本為1000萬元，經營範圍包含新材料技術研發；新型金屬功能材料銷售；民用航空材料銷售；電子專用材料製造；電子專用材料銷售等。企查查股權穿透顯示，該公司由立訊精密旗下立訊熱傳科技（惠州）有限公司等共同持股。"
+    },
+    {
+      "id": "4892041",
+      "time": "2026-05-21 14:55:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭共和國通訊社證實，伊朗革命衛隊總司令艾哈邁德・瓦希迪並未會見巴基斯坦內政部長，並稱阿拉伯電視臺的相關報道不實。"
+    },
+    {
+      "id": "4892040",
+      "time": "2026-05-21 14:54:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【快手電商：大促啟動當天單日GMV實現破峰 大碼女裝、運動服等增長突出】5月21日，快手電商資料顯示，大促啟動當天單日GMV實現破峰，重新整理去年二季度峰值。重點品類中，大碼女裝GMV同比增長208%，運動服GMV同比增長90%，防曬類GMV同比增長88%。"
+    },
+    {
+      "id": "4892039",
+      "time": "2026-05-21 14:54:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "福克斯新聞援引一名反恐分析師訊息稱，伊朗最高領袖穆傑塔巴・哈梅內伊效仿奧薩馬・本・拉登的行事模式，淡出公眾視野以求自保。"
+    },
     {
       "id": "4892038",
       "time": "2026-05-21 14:53:32",
@@ -142604,72 +142716,6 @@
         "Important"
       ],
       "text": "Spain | CPI Final (YoY) (Apr) | actual 3.2% | consensus 3.2% | previous 3.20%"
-    },
-    {
-      "id": "4879330",
-      "time": "2026-05-14 14:58:20",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【SK海力士邁向萬億美元市值門檻】就在三星電子市值突破萬億美元大關僅數週之後，SK海力士也正蓄勢待發，有望邁入這一萬億美元市值俱樂部。得益於人工智慧領域的強勁需求，韓國已然成為了亞洲此輪AI熱潮的核心地帶。在2025年實現了驚人的274%漲幅之後，SK海力士的股價今年又進一步飆升了逾200%。一旦SK海力士緊隨三星跨越萬億美元市值門檻，韓國便將成為美國以外首個擁有兩家以上市值超萬億美元企業的市場。“當前的市場行情主要受‘錯失恐懼症’（FOMO）情緒所主導，尤其是在日本和韓國那些與人工智慧相關的概念股中，這種情緒表現得尤為明顯，”悉尼IG集團的市場分析師Fabien Yip說道。"
-    },
-    {
-      "id": "4879329",
-      "time": "2026-05-14 14:56:39",
-      "tags": [
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "【半導體與AI硬體股走強 對沖基金4月業績創多年新高】對沖基金群體早早嗅到了晶片廠商及其他人工智慧硬體企業的投資機會，而這批押注，剛剛讓選股型基金創下二十多年來最佳單月業績。 史蒂夫・科恩旗下的Point 72、鯨魚巖資本（Whale Rock Capital Management）、塞利格曼投資（Seligman Investments）等對沖基金，4月均斬獲亮眼收益，部分受益於半導體及上下游裝置製造商股價大漲。 研究機構Pivotal Path編制的行業指數顯示，4月成為選股型基金自1999年12月以來表現最好的一個月，當月漲幅達6.5%。知情人士透露，亞歷克斯・薩塞爾多特執掌的鯨魚巖資本公開股票組合4月大漲約39%，重倉的閃迪、韓國儲存晶片廠商SK海力士、日本儲存晶片廠商鎧俠（Kioxia）成為核心盈利來源。 目前對沖基金對半導體板塊的超配倉位，已創下過去十年最高水平。 摩根士丹利資料顯示：去年同期對沖基金投資組合中半導體淨配置佔比僅5.5%，如今已升至20%。該行測算，上月對沖基金多頭組合收益中，近三分之二由AI產業鏈個股貢獻。"
-    },
-    {
-      "id": "4879328",
-      "time": "2026-05-14 14:56:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外長：我方立場是，霍爾木茲海峽對所有商業船舶開放，但船隻必須配合我方海軍行動。"
-    },
-    {
-      "id": "mkt:019e2545-98ba-799f-8004-11b6964f5824",
-      "time": "2026-05-14 14:56:18",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "IRAN'S FOREIGN MINISTER ARAQCHI: FROM OUR PERSPECTIVE, THE STRAIT OF HORMUZ IS OPEN TO ALL COMMERCIAL SHIPS, BUT THEY MUST COOPERATE WITH OUR NAVAL FORCES"
-    },
-    {
-      "id": "4879327",
-      "time": "2026-05-14 14:56:07",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超3.3萬億元，較上日此時放量955億元。"
-    },
-    {
-      "id": "4879326",
-      "time": "2026-05-14 14:55:40",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗外長阿拉格齊：我們在霍爾木茲海峽沒有設定任何障礙，是美國實施了封鎖。"
-    },
-    {
-      "id": "4879325",
-      "time": "2026-05-14 14:55:31",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【滬銀期貨5月累漲超18%，業內人士：後續上漲空間或有限】5月以來，滬銀期貨強勢反彈，主力合約價格一度從1.8萬元/千克快速升至2.2萬元/千克上方。文華財經資料顯示，截至5月14日13:52，滬銀期貨主力合約最高觸及22055元/千克，創下近一個月以來新高，最新報21437元/千克，日內漲幅近2%，本月以來累計漲超18%。展望後市，吳江表示，從地緣因素演化來看，滬銀期貨價格上行的趨勢性較為有限。若地緣局勢緩和帶動能化價格整體下行，市場可能會重新聚焦經濟實際執行情況，對美國通脹高企的擔憂將轉向通脹下行的現實，白銀價格持續上漲動力匱乏；反之，若地緣局勢重回緊張態勢，國際原油價格有望再度衝高，美國通脹壓力或將促使美聯儲採取應對措施，進而壓制海外流動性，並影響金銀估值重心。從風險偏好演化來看，近期以股市為代表的市場風險偏好存在過度擴張的跡象，這也限制了白銀進一步走強的空間。從流動性演化來看，沃什將於本週上任美聯儲主席，其提出的“縮表”“降息”主張若得以落地，對於依賴海外流動性的貴金屬估值而言，將有所承壓。（中證報）"
     }
   ]
 }
