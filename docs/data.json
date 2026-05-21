@@ -1,7 +1,37 @@
 {
-  "updated": "2026-05-21 08:10:58",
-  "count": 15847,
+  "updated": "2026-05-21 08:14:43",
+  "count": 15842,
   "items": [
+    {
+      "id": "4891452",
+      "time": "2026-05-21 08:12:40",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【韓國早盤貿易資料顯現半導體行業持續高景氣 5月前20天出口同比暴漲202.1%】5月前20天韓國出口依舊保持強勁增長，在油價走高、通脹憂慮升溫令政策制定者研判形勢愈發複雜的背景下，此舉凸顯出海外需求韌性十足。韓國海關週四公佈資料顯示，剔除工作日差異因素後，5月1日至20日出口額同比大增52.6%，高於4月同期49.4%的增幅。未經調整口徑下，出口同比上漲64.8%，進口同比增長29.3%，貿易順差達110億美元。資料顯示，在人工智慧和資料中心相關晶片的持續需求支撐下，韓國的出口引擎目前依然強勁。這些資料也進一步印證了半導體行業在韓國經濟增長中繼續佔據主導地位的趨勢，儘管韓國經濟其他領域正面臨日益嚴峻的挑戰。晶片出口再度領跑，同比暴漲202.1%；電腦相關產品出口同比大增305.5%，凸顯人工智慧領域投資熱度不減。受國際原油價格上漲提振，成品油出口額同步走高，助力整體出口增長，而汽車及家電產品出口表現則相對疲軟。"
+    },
+    {
+      "id": "te:markets:552464",
+      "time": "2026-05-21 08:12:30",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Decline Following Nvidia Results — US stock futures moved lower on Thursday as investors reacted cautiously to Nvidia’s latest earnings report. In extended trading, Nvidia shares fell more than 1% despite the chipmaker beating expectations for both earnings and guidance, as concerns persisted over intensifying competition in AI computing and efforts by major clients to develop proprietary chips in-house. Meanwhile, Intuit slumped more than 13% after reporting weaker-than-expected revenue and announcing plans to cut roughly 17% of its workforce. On the other hand, e.l.f. Beauty gained around 4% after posting stronger-than-expected earnings and revenue while also saying it would reverse some tariff-related price increases. During Wednesday’s regular session, the Dow Jones rose 1.31%, the S&P 500 advanced 1.08%, and the Nasdaq Composite climbed 1.54%, supported by declining oil prices and lower Treasury yields after President Donald Trump said the US was nearing the final stages of negotiations with Iran."
+    },
+    {
+      "id": "4891451",
+      "time": "2026-05-21 08:10:44",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "30年期日本國債收益率下跌8.5個基點，至4.015%。10年期日本國債收益率下降4個基點，至2.745%。"
+    },
     {
       "id": "4891450",
       "time": "2026-05-21 08:09:32",
@@ -142576,87 +142606,6 @@
         "市場"
       ],
       "text": "日產汽車公佈全年營業利潤預期超出市場預期後，其股價一度上漲 4.2%。"
-    },
-    {
-      "id": "4878782",
-      "time": "2026-05-14 08:14:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "當地時間14日，烏克蘭首都基輔傳出爆炸聲，此前基輔拉響防空警報。"
-    },
-    {
-      "id": "4878781",
-      "time": "2026-05-14 08:14:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭首都基輔傳出爆炸聲。"
-    },
-    {
-      "id": "te:markets:550465",
-      "time": "2026-05-14 08:14:19",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Mitsubishi Estate earnings below expectations at 54.35 JPY — Mitsubishi Estate (8802) released earnings per share at 54.35 JPY, compared to market expectations of 60.68 JPY."
-    },
-    {
-      "id": "4878780",
-      "time": "2026-05-14 08:12:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "【委內瑞拉啟動1,700億美元債務重組工作】委內瑞拉週三表示，將啟動鉅額政府債務重組程式，試圖借著與美國關係回暖的契機，推動與債權人關係正常化，並重返國際金融市場。經濟學家表示，委內瑞拉的公共債務規模估計高達1,700億美元，該國的重組料將成為規模最大、最複雜的主權債務重新談判工作之一。上週，華盛頓方面已授權委內瑞拉聘請顧問，為潛在的債務重組做準備。委內瑞拉沒有提供談判時間表，也沒有詳細說明計劃向債權人提出的具體條款。但該國補充道，預計將於下個月提出宏觀經濟框架和公共債務可持續性分析報告。目前，委內瑞拉已聘請總部位於紐約的金融機構Centerview Partners擔任顧問。"
-    },
-    {
-      "id": "te:markets:550464",
-      "time": "2026-05-14 08:12:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Tencent Holdings earnings below expectations at 7.36 CNY — Tencent Holdings (700) released earnings per share at 7.36 CNY, compared to market expectations of 7.72 CNY."
-    },
-    {
-      "id": "te:markets:550463",
-      "time": "2026-05-14 08:12:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Takeda earnings below expectations at -15.56 JPY — Takeda (4502) released earnings per share at -15.56 JPY, compared to market expectations of 10.42 JPY."
-    },
-    {
-      "id": "te:markets:550462",
-      "time": "2026-05-14 08:12:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Softbank earnings above expectations at 320.04 JPY — Softbank (9984) released earnings per share at 320.04 JPY, compared to market expectations of 99.09 JPY."
-    },
-    {
-      "id": "4878779",
-      "time": "2026-05-14 08:12:03",
-      "tags": [
-        "資料",
-        "觀點"
-      ],
-      "text": "【中信建投：下半年A股將演繹結構性慢牛行情】5月14日，中信建投研報稱，2026年下半年A股將演繹結構性慢牛行情，結構性景氣和資金抱團推動結構性牛市，建議投資者遵循“景氣為綱”的投資策略，聚焦“算力牛”和“復甦牛”兩大景氣主線。AI算力主線遠未到全面泡沫化階段，關注全產業鏈景氣擴散。“PPI-外需”驅動的“復甦牛”則是今年另一關鍵主線。"
     }
   ]
 }
