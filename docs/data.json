@@ -1,7 +1,19 @@
 {
-  "updated": "2026-05-22 04:34:10",
-  "count": 16239,
+  "updated": "2026-05-22 04:38:12",
+  "count": 16236,
   "items": [
+    {
+      "id": "te:markets:552859",
+      "time": "2026-05-22 04:35:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.55% Higher — The Dow Jones Index went up by 275 points or 0.55 percent on Thursday to close at 50284 points. The rise was led by IBM (12.55%), Cisco Systems (3.44%) and Honeywell International (2.96%). On the downside, the weakerst performers were Walmart (-7.21%), Salesforce (-2.10%) and Nvidia (-1.78%)."
+    },
     {
       "id": "mkt:019e4c3c-44ed-7aa1-9581-b27686dbe468",
       "time": "2026-05-22 04:31:18",
@@ -145964,44 +145976,6 @@
         "焦點"
       ],
       "text": "紐約期金失守4650美元/盎司，日內跌1.22%。"
-    },
-    {
-      "id": "4880600",
-      "time": "2026-05-15 04:37:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "Gemini Space價因Winklevoss投資投資暴漲 30%。"
-    },
-    {
-      "id": "4880599",
-      "time": "2026-05-15 04:36:24",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "市場訊息：美國黃金企業簽署協議，推進委內瑞拉礦業專案。"
-    },
-    {
-      "id": "te:markets:550838",
-      "time": "2026-05-15 04:35:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Closes 0.75% Higher — The Dow Jones Index gained 370 points or 0.75 percent on Thursday to close at 50063 points. Gains were led by Cisco Systems (13.38%), Nvidia (4.40%) and Caterpillar (1.83%). Biggest losers were Boeing (-4.68%), 3M (-1.35%) and Amazon (-1.15%)."
-    },
-    {
-      "id": "4880598",
-      "time": "2026-05-15 04:34:27",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "Gemini Space Station Inc.獲得1億美元投資。公司一季度營收5030萬美元，分析師預期4870萬美元。"
     }
   ]
 }
