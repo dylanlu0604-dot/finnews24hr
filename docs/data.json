@@ -1,7 +1,414 @@
 {
-  "updated": "2026-05-21 14:18:33",
-  "count": 15832,
+  "updated": "2026-05-21 14:34:26",
+  "count": 15836,
   "items": [
+    {
+      "id": "4891983",
+      "time": "2026-05-21 14:32:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超3萬億元，較上日此時放量3394億元。"
+    },
+    {
+      "id": "mkt:019e493c-8c0d-7ee7-b68f-158e6c3bb50b",
+      "time": "2026-05-21 14:32:41",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "KOSPI INDEX CLOSED UP 8.42%"
+    },
+    {
+      "id": "4891982",
+      "time": "2026-05-21 14:32:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【長江證券：比亞迪盈利能力有望繼續提升，維持“買入”評級】長江證券研報指出，比亞迪2026年Q1實現收入1502.3億元，同環比分別-11.8%和-36.8%，實現歸母淨利潤40.8億元，同比-55.4%，環比-56.0%。Q1國內需求承壓，海外銷量高景氣，整體銷量同比下滑，導致收入同比下滑。新能源汽車全球龍頭，技術與規模構建超越行業競爭力，兆瓦閃充迎接新技術週期。比亞迪新一代閃充技術支撐下，純電技術迎來重大革新，持續鞏固電動化技術優勢，目前比亞迪2026 年新車矩陣逐步品宣，新技術下放有望提升產品競爭力，提振國內銷量。同時，智慧化大戰略下，智駕轉型堅定。騰勢、仰望與方程豹車型儲備豐富，加速佈局高階市場。出海持續發力，海外渠道與車型矩陣將進一步完善。隨著出海與高階化放量，盈利能力有望繼續提升，維持“買入”評級。"
+    },
+    {
+      "id": "mkt:019e493c-5a06-7ee7-b68f-0fe5aaedde87",
+      "time": "2026-05-21 14:32:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "NIKKEI 225 CLOSED UP 3.14%"
+    },
+    {
+      "id": "4891981",
+      "time": "2026-05-21 14:32:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【《石油化學工業水汙染物排放標準（二次徵求意見稿）》等公開徵求意見】生態環境部組織編制了《發酵類製藥工業水汙染物排放標準（徵求意見稿）》《化學合成類製藥工業水汙染物排放標準（徵求意見稿）》《提取類製藥工業水汙染物排放標準（徵求意見稿）》《中藥類製藥工業水汙染物排放標準（徵求意見稿）》《生物工程類製藥工業水汙染物排放標準（徵求意見稿）》《混裝製劑類製藥工業水汙染物排放標準（徵求意見稿）》，同時，在前期公開徵求意見的基礎上，進一步研究完善，形成了《石油化學工業水汙染物排放標準（二次徵求意見稿）》。現對以上7個檔案公開徵求意見。"
+    },
+    {
+      "id": "mkt:019e493c-1ae7-7ee7-b68f-028dcff8ce33",
+      "time": "2026-05-21 14:32:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "CHINA'S CSI SEMICONDUCTOR INDEX DOWN MORE THAN 3%"
+    },
+    {
+      "id": "mkt:019e493b-f504-7ee7-b68e-fd5be4ef08e9",
+      "time": "2026-05-21 14:32:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "China Tech Giants",
+        "CSI300",
+        "Impact bearish",
+        "CNH",
+        "Hang Seng Index"
+      ],
+      "text": "CHINA'S TECH-FOCUSED STAR 100 INDEX DOWN MORE THAN 4%"
+    },
+    {
+      "id": "4891980",
+      "time": "2026-05-21 14:31:49",
+      "tags": [
+        "其他",
+        "焦點",
+        "A股"
+      ],
+      "text": "【三大運營商持續下挫，中國電信跌超5%】三大運營商持續下挫，中國電信跌超5%，中國聯通跌超4%，中國移動跌超2%。"
+    },
+    {
+      "id": "4891979",
+      "time": "2026-05-21 14:31:42",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "德國財政部月度報告：2026年4月稅收收入同比下降近5%。"
+    },
+    {
+      "id": "4891978",
+      "time": "2026-05-21 14:31:34",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【日韓股市集體收漲】日經225指數收漲3.14%，報61684.14點。韓國綜指收漲8.42%，報7815.59點。"
+    },
+    {
+      "id": "4891976",
+      "time": "2026-05-21 14:31:02",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "德國財政部月度報告：截至2026年4月末，聯邦預算赤字為410億歐元。"
+    },
+    {
+      "id": "4891975",
+      "time": "2026-05-21 14:30:43",
+      "tags": [
+        "資料"
+      ],
+      "text": "瑞士第一季度工業產出年率 -7.1%，前值由-0.70%修正為-0.4%。"
+    },
+    {
+      "id": "4891974",
+      "time": "2026-05-21 14:30:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【全國13條河流發生超警以上洪水】記者從水利部瞭解到，受降雨影響，昨天到今天，廣西都柳江、桂南沿海防城河，廣東潭江及三甲河、潭水河，雲南金沙江支流沙河、盤龍江，貴州六硐河，湖南湘江支流涓水，湖北長湖等13條河流發生超警洪水，最大超警幅度2.22米，目前大部已退至警戒以下。（央視新聞）"
+    },
+    {
+      "id": "4891973",
+      "time": "2026-05-21 14:30:08",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【盤中大跌超19%！慧博雲通回應：重大資產重組仍在正常推進】5月21日，慧博雲通（301316.SZ）盤中一度跌超19%，領跌A股。針對今日股價大幅下跌一事，央廣財經記者致電慧博雲通公告披露的聯絡電話。公司接線人員回應稱，二級市場股價波動並非企業能夠掌控。而流傳的公司重大資產重組或已宣告失敗的傳聞，該工作人員表示，目前尚未收到相關訊息，相關重組工作仍在正常推進當中。"
+    },
+    {
+      "id": "te:markets:552578",
+      "time": "2026-05-21 14:30:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Nikkei 225 Index Closes 3.31% Higher — The Nikkei 225 Index went up by 1977 points or 3.31 percent on Thursday to close at 61782 points. The rise was led by Softbank (19.85%), Renesas Electron (11.00%) and Yaskawa Electric (10.34%)."
+    },
+    {
+      "id": "mkt:019e493a-0755-7ee7-b68e-f2206b60c221",
+      "time": "2026-05-21 14:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Switzerland | Industrial Production (YoY) (Q1) | actual -7.1% | previous -0.70%"
+    },
+    {
+      "id": "4891972",
+      "time": "2026-05-21 14:29:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內跌幅達1.00%，成分股中，同惠電子跌6.16%，連城數控跌6.11%，聚星科技跌5.37%，曙光數創跌5.02%。"
+    },
+    {
+      "id": "4891971",
+      "time": "2026-05-21 14:29:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "西班牙外交部長表示，預計44名加沙船隊活動人士將從以色列經土耳其驅逐至西班牙，搭載他們的航班將於以色列當地時間下午3點左右起飛。"
+    },
+    {
+      "id": "4891970",
+      "time": "2026-05-21 14:29:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "【河南小龍蝦大降價了 批發價跌破8元】隨著氣溫持續攀升，小龍蝦銷售旺季到來。記者走訪河南的農產品交易市場瞭解到，隨著主產區小龍蝦集中上市，價格較前期出現明顯回落。在河南萬邦國際農產品物流城的水產區，小龍蝦批發商介紹：“昨天晚上小青批發價7.8元一斤，中青批發價9.4元一斤，大青批發價12.5元一斤。這個價格幾乎到低點了。”隨著價格走低、供應量足，下游餐飲端也迎來消費高峰，不少小龍蝦特色餐館生意火爆。（央視財經）"
+    },
+    {
+      "id": "4891969",
+      "time": "2026-05-21 14:28:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：波蘭就活動人士遭拘留一事召見以色列外交官。"
+    },
+    {
+      "id": "4891967",
+      "time": "2026-05-21 14:28:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：SpaceX正為旗下太空人工智慧部門大力招募頂尖工程師與物理學家，即便此前毫無人工智慧相關從業經驗也可應聘。如果曾打造出複雜專案並實現實際落地應用，這將是極大加分項。"
+    },
+    {
+      "id": "4891966",
+      "time": "2026-05-21 14:27:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：因債市走軟，韓國計劃6月縮減發債規模。"
+    },
+    {
+      "id": "te:economy:552577",
+      "time": "2026-05-21 14:25:31",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Denmark",
+        "Consumer Confidence",
+        "Importance 1"
+      ],
+      "text": "Danish Consumer Mood Worsens to 6-Month Low — Denmark’s consumer confidence index fell to -19.8 in May 2026 from -18.6 in the previous month, remaining at its lowest level since November 2025. Expectations for the overall economic situation deteriorated further for the present (-35.9 vs -31.8 in April), while views for the year ahead improved slightly but remained negative (-26.7 vs -27.5). At the same time, households’ assessments of their financial situation worsened for both the present (-9.5 vs -6.8) and the future (-13.6 vs -12.5). Sentiment regarding major purchases improved marginally but stayed negative (-13.2 vs -14.6). Among components not included in the overall confidence indicator, consumers reported higher perceived prices at present (44.0 vs 36.8), while inflation expectations for the next 12 months eased slightly (40.8 vs 43.7). Meanwhile, concerns about unemployment over the coming year continued to rise (22.2 vs 20.0)."
+    },
+    {
+      "id": "mkt:019e4935-b9e6-7ee7-b68e-e8faa6670340",
+      "time": "2026-05-21 14:25:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SZSE Component",
+        "Impact bearish"
+      ],
+      "text": "SHENZHEN COMPONENT INDEX DOWN OVER 1%"
+    },
+    {
+      "id": "4891965",
+      "time": "2026-05-21 14:24:55",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股三大指數均跌超1％】上證指數跌1.16％，深證成指跌1.00％，創業板指跌1.08％。儲存晶片、光刻機、光纖概念等跌幅居前。"
+    },
+    {
+      "id": "mkt:019e4935-34ff-7ee7-b68e-e0d093ef1ac5",
+      "time": "2026-05-21 14:24:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bearish",
+        "CSI300"
+      ],
+      "text": "CHINA'S STAR 50 INDEX DOWN OVER 2%"
+    },
+    {
+      "id": "4891964",
+      "time": "2026-05-21 14:24:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達2.01%，成分股中，天嶽先進跌8.06%，晶合整合跌7.39%，翱捷科技跌6.86%，華潤微跌6.43%。"
+    },
+    {
+      "id": "mkt:019e4934-b6e8-7ee7-b68e-df5a9ac7db84",
+      "time": "2026-05-21 14:24:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "CHINEXT INDEX DOWN OVER 1%"
+    },
+    {
+      "id": "4891963",
+      "time": "2026-05-21 14:24:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "德意志銀行將英偉達目標價從220美元上調至255美元。"
+    },
+    {
+      "id": "4891962",
+      "time": "2026-05-21 14:23:55",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指跌1.00%，現報3882.482點；上證指數跌1.10%，現報4116.349點；深證成指跌0.92%，現報15425.969點。"
+    },
+    {
+      "id": "4891961",
+      "time": "2026-05-21 14:22:37",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗媒體：巴基斯坦陸軍參謀長訪問德黑蘭是美國與伊朗調停工作的一部分。"
+    },
+    {
+      "id": "mkt:019e4932-d3a0-7ee7-b68e-d055aac93637",
+      "time": "2026-05-21 14:22:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ASX200 INDEX CLOSED UP 1.43%"
+    },
+    {
+      "id": "mkt:019e4932-ad9a-7ee7-b68e-ce10eac1665d",
+      "time": "2026-05-21 14:21:58",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "PAKISTAN'S ARMY CHIEF TO TRAVEL TO TEHRAN ON THURSDAY FOR NEGOTIATIONS - ISNA"
+    },
+    {
+      "id": "4891960",
+      "time": "2026-05-21 14:21:44",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗媒體：巴基斯坦陸軍參謀長將於週四前往德黑蘭進行談判。"
+    },
+    {
+      "id": "mkt:019e4932-0bb3-7ee7-b68e-c177ed05ccd2",
+      "time": "2026-05-21 14:21:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "CSI300"
+      ],
+      "text": "SHANGHAI COMPOSITE INDEX DOWN OVER 1%"
+    },
+    {
+      "id": "4891958",
+      "time": "2026-05-21 14:21:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上證指數跌1.00%，現報4120.419點；深證成指跌0.78%，現報15447.925點；創業板指跌0.83%，現報3889.406點。"
+    },
+    {
+      "id": "mkt:019e4931-725d-7ee7-b68e-bd19d1587d23",
+      "time": "2026-05-21 14:20:37",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AI Revolution",
+        "AMD.O",
+        "Impact bullish"
+      ],
+      "text": "【AMD Commits More Than $10 Billion to Taiwan AI Investments】Advanced Micro Devices pledged to invest more than $10 billion in Taiwan to expand partnerships and increase chip packaging capacity amid rising AI demand. AMD said it is working with partners including ASE Technology Holding, Powertech Technology, Sanmina and Inventec. CEO Lisa Su said customers are rapidly scaling AI infrastructure, as AMD benefits from growing demand for alternatives to Nvidia AI processors."
+    },
+    {
+      "id": "4891957",
+      "time": "2026-05-21 14:19:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家防災減災救災委員會啟動國家四級救災應急響應指導廣西做好地震災害救助工作】5月21日，國家防災減災救災委員會針對廣西柳州市柳南區連續發生的5.2級地震，啟動國家四級救災應急響應，派出工作組赴災區檢視災情，指導協助地方做好受災群眾基本生活保障等災害救助工作。（央視新聞）"
+    },
+    {
+      "id": "4891956",
+      "time": "2026-05-21 14:19:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【塔斯汀增資至3億 增幅約152%】天眼查App顯示，近日，福州塔斯汀餐飲管理有限公司發生工商變更，註冊資本由約1.2億人民幣增至3億人民幣，增幅約152%。 該公司成立於2017年12月，法定代表人為楊兵，經營範圍包括餐飲管理、企業管理諮詢、企業形象策劃、餐飲服務等，由Tasiting (HK) Holdings Limited全資持股。"
+    },
+    {
+      "id": "4891955",
+      "time": "2026-05-21 14:19:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【多國譴責以色列部長行為滅絕人性】以色列國家安全部長、極右翼政治人士本-格維爾5月20日釋出影片。影片中，他對因試圖向加沙地帶運送物資而被以軍攔截扣押的“全球堅韌船隊”參與者進行各種羞辱嘲諷。 此舉迅速引發西班牙、加拿大、澳大利亞、義大利、法國等多國強烈譴責。西班牙外交大臣阿爾瓦雷斯說，本-格維爾早已被西班牙制裁並禁止入境，不久後整個歐盟都會對他進行制裁。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:019e492f-b822-7ee7-b68e-b2004304768e",
+      "time": "2026-05-21 14:18:44",
+      "tags": [
+        "MKT News",
+        "066570.KS",
+        "Impact bullish"
+      ],
+      "text": "LG ELECTRONICS HITS LIMIT-UP IN SOUTH KOREA, SURGING 29.83%"
+    },
+    {
+      "id": "4891954",
+      "time": "2026-05-21 14:18:29",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國LG電子股價漲停，漲幅達到29.83%。"
+    },
     {
       "id": "te:markets:552575",
       "time": "2026-05-21 14:16:38",
@@ -142100,360 +142507,6 @@
         "觀點"
       ],
       "text": "【楊德龍：在A股要做中國特色價值投資 不能機械照搬巴菲特價值投資理念】前海開源基金執行總經理楊德龍表示，做投資一定要結合A股市場的實際，不能機械照搬巴菲特的經驗。A股市場與美股相比仍是新興市場，其特徵與美股不同。透過做中國特色價值投資，才能獲得好的回報。（大河財立方）"
-    },
-    {
-      "id": "te:markets:550572",
-      "time": "2026-05-14 14:34:24",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Currency",
-        "Importance 2"
-      ],
-      "text": "Pound Nears Two-Week Low as UK Leadership Speculation Swirls — The British pound held just above $1.35 on Thursday, near its weakest level since late April, as markets focused on potential leadership challenges to Prime Minister Keir Starmer. Health Secretary Wes Streeting, seen as the most market-friendly candidate, is expected to resign this week and may launch a bid to replace Starmer as soon as today. Meanwhile, Angela Rayner, another potential contender, was cleared by HMRC in a tax probe, possibly clearing her path to join the race. Rayner’s more left-leaning stance is viewed as negative for the gilt market. Economically, UK GDP grew by 0.6% in Q1 2026, with annual growth at 1.1%, better than anticipated. March’s unexpected 0.3% expansion, defying forecasts of a 0.2% contraction, drove the upside."
-    },
-    {
-      "id": "4879283",
-      "time": "2026-05-14 14:34:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "【公安機關依法嚴厲打擊有償刪除商品差評等違法行為】公安部網安局5月14日釋出2起有償刪除商品差評案。2起案件中，公安機關共打掉2個犯罪團伙，抓獲涉案人員7名。 據介紹，北京公安網安部門工作中發現，在多個電商平臺、短影片評論區內出現“專業刪差評”等有償推廣資訊，疑似有組織開展有償刪除商品差評違法活動。 經查，以郭某、謝某為首的2個犯罪團伙以電商服務工作室為掩護，利用商家懼怕“負面評價”影響商品銷量的心理，透過偽造材料向平臺申訴刪除差評的方式為商家提供有償刪除差評服務，藉機非法牟利。 2026年3月，北京警方迅速出擊，分赴外省市成功抓獲包括組織者在內的涉案人員。目前，涉案人員均已被公安機關依法採取刑事強制措施，案件正在進一步偵辦中。（新華社）"
-    },
-    {
-      "id": "4879282",
-      "time": "2026-05-14 14:34:07",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超3萬億元，較上日此時放量870億元。"
-    },
-    {
-      "id": "4879281",
-      "time": "2026-05-14 14:32:05",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【日韓股市收盤漲跌互現】日經225指數收跌0.98%，報62654.05點。韓國綜指收漲1.62%，報7971.42點。"
-    },
-    {
-      "id": "4879280",
-      "time": "2026-05-14 14:31:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "【41款移動應用違法違規收集使用個人資訊被通報】經公安部計算機資訊系統安全產品質量監督檢驗中心檢測，41款移動應用存在一項或者多項違法違規收集使用個人資訊情況。20款移動應用未公開個人資訊收集使用規則：《享充充電》（微信小程式）、《小牛充充充電》（微信小程式）、《智惠充電Pro》（微信小程式）、《家用充電樁助手》（微信小程式）、《白駒充電-兩輪版》（微信小程式）、《廣汽能源》（支付寶小程式）、《UU充電樁》（微信小程式）、《騰付充電單車》（微信小程式）、《領樁充電》（微信小程式）、《帝鵬充電》（微信小程式）、《星星充電》（支付寶小程式）、《速充充電》（微信小程式）、《開鑫充電》（微信小程式）、《智爾充電》（微信小程式）、《安易充電》（微信小程式）、《聯聯充電Pro》（支付寶小程式）、《驢子充電》（微信小程式）等。"
-    },
-    {
-      "id": "mkt:019e252e-c724-799f-8003-d37784fc05d4",
-      "time": "2026-05-14 14:31:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "KOSPI INDEX CLOSED UP 1.62%"
-    },
-    {
-      "id": "4879279",
-      "time": "2026-05-14 14:31:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度政府資料顯示：印度4月製造業通脹同比為4.62%。"
-    },
-    {
-      "id": "mkt:019e252e-a626-799f-8003-cf6607c1b5a7",
-      "time": "2026-05-14 14:31:14",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bearish"
-      ],
-      "text": "NIKKEI 225 CLOSED DOWN 0.98%"
-    },
-    {
-      "id": "4879278",
-      "time": "2026-05-14 14:31:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度政府公佈：該國4月批發價格指數（WPI）同比通脹率為8.30%，路透調查預期為4.40%；燃料價格指數同比增長24.71%。"
-    },
-    {
-      "id": "4879277",
-      "time": "2026-05-14 14:30:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "【Asymmetric：日本已具備引發一場外匯危機的全部要素】Asymmetric Advisors認為，隨著當局一次次入市干預，官方支撐日元的效果不斷減弱。“一旦外匯市場意識到只有日本單打獨鬥地進行干預，就可能嗅到機會，開始做空日元，並再次試探日本財務省強調的160阻力位水平，”擁有37年日本市場經驗的策略師Amir Anvarzadeh表示。“他們每次從這裡進行干預，影響可能都會越來越小，因為賣方會開始圍獵這一貨幣”。"
-    },
-    {
-      "id": "4879276",
-      "time": "2026-05-14 14:30:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "【線上預約+線下收購 十部門聯合部署2026年糧食收購工作】2026年夏糧旺季收購即將全面啟動。近日，國家發展改革委、國家糧食和物資儲備局等十部門聯合發出通知，要求做好2026年糧食收購工作。透過強化糧食收購統籌組織、強化糧食收購政策執行、持續最佳化收購服務等舉措，暢通農民售糧渠道，維護糧食市場平穩執行。今年夏糧收購期間，國家繼續在主產區實施最低收購價政策，堅持“市場主導、政策託底”雙輪驅動。中儲糧、中糧等央企將帶頭入市、始終在市，透過“線上預約+線下收購”提升服務效能，做到“錢等糧、倉等糧”，保障農民收益。（央視新聞）"
-    },
-    {
-      "id": "4879275",
-      "time": "2026-05-14 14:30:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【5月14日：“農產品批發價格200指數”比昨天下降0.04個點】據農業農村部監測，5月14日“農產品批發價格200指數”為115.23，比昨天下降0.04個點，“菜籃子”產品批發價格指數為115.66，比昨天下降0.05個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為14.93元/公斤，與昨天持平；牛肉66.33元/公斤，比昨天下降0.4%；羊肉64.16元/公斤，比昨天下降0.5%；雞蛋9.26元/公斤，比昨天上升1.4%；白條雞16.80元/公斤，比昨天上升0.3%。重點監測的28種蔬菜平均價格為4.20元/公斤，比昨天上升0.2%；重點監測的6種水果平均價格為7.84元/公斤，比昨天上升0.3%。鯽魚20.21元/公斤，比昨天上升0.4%；鯉魚14.87元/公斤，比昨天下降1.2%；白鰱魚10.45元/公斤，比昨天上升3.7%；大帶魚41.88元/公斤，比昨天上升0.5%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與昨天相比價格升幅前五名的是南瓜、蔥頭、白鰱魚、巨峰葡萄和西紅柿，幅度分別為4.7%、3.9%、3.7%、2.1%和2.1%；價格降幅前五名的是菠蘿、菠菜、西葫蘆、芹菜和鴨梨，幅度分別為2.6%、1.8%、1.6%、1.4%和1.3%。"
-    },
-    {
-      "id": "te:markets:550566",
-      "time": "2026-05-14 14:30:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Nikkei 225 Index Closes 0.69% Lower — The Nikkei 225 Index dropped 438 points or 0.69 percent on Thursday to close at 62834 points. Losses were led by Fujikura (-19.10%), Mitsui Engineering & Shipbuilding (-16.19%) and Mitsubishi Materials (-13.16%). Offsetting the fall, top gainers were Tokai Carbon (17.64%), Sumitomo Osaka Cement (10.99%) and Nidec (10.80%)."
-    },
-    {
-      "id": "4879274",
-      "time": "2026-05-14 14:29:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度盧比收復失地，穩定在95.71/美元。"
-    },
-    {
-      "id": "4879273",
-      "time": "2026-05-14 14:28:31",
-      "tags": [
-        "市場"
-      ],
-      "text": "【CPO概念活躍 匯綠生態等午後漲停】CPO概念活躍，匯綠生態、華盛昌、中瓷電子等午後漲停，華燦光電、羅博特科、領益智造等漲幅居前。"
-    },
-    {
-      "id": "4879272",
-      "time": "2026-05-14 14:27:42",
-      "tags": [
-        "宏觀",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【知情人士：印度考慮下調外資債券投資相關稅負】據知情人士透露，印度正考慮下調外國投資者投資本國債券所需繳納的稅費，以接軌國際通行規則、吸引資金流入。印度央行已提出該項建議，目前印度財政部正予以考量，當局意在藉此遏制盧比貶值。外國投資者多次公開表示，相較於其他新興市場，印度相關稅負偏高；目前外資僅持有印度 1.3 萬億美元債券市場3%的份額。"
-    },
-    {
-      "id": "4879271",
-      "time": "2026-05-14 14:26:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【成都光明與舜宇光學科技簽署戰略合作協議】據成都光明光電訊息，5月12日，成都光明光電股份有限公司與舜宇光學科技（集團）有限公司共同簽署新一輪戰略合作協議。根據協議，雙方將圍繞供應鏈深度合作、核心技術聯合攻堅、產業生態共建共贏等領域，展開全方位、深層次的合作。"
-    },
-    {
-      "id": "4879270",
-      "time": "2026-05-14 14:26:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度考慮降低外國人債券投資的稅收。"
-    },
-    {
-      "id": "mkt:019e2529-e3dd-799f-8003-c134974f6437",
-      "time": "2026-05-14 14:26:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Chinese Public Greets Trump in Beijing With AI Memes, Confidence】Chinese social media users reacted enthusiastically to Donald Trump’s landmark Beijing visit, sharing AI memes and jokes about his delegation, though some complained about disruptions caused by the trip. Many expressed pride and confidence, viewing China as engaging the US on equal footing and portraying Beijing as a source of stability amid global turmoil. Weibo user Xing Lida, who has more than 6 million followers, wrote that it was the first time in about 130 years that China and the US were holding talks as equal powers, referring to the late Qing dynasty period when the US overtook China economically."
-    },
-    {
-      "id": "te:economy:550562",
-      "time": "2026-05-14 14:25:58",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United Kingdom",
-        "Balance of Trade",
-        "Importance 1"
-      ],
-      "text": "UK Trade Gap Widens to Largest Since 2022 — The United Kingdom trade deficit widened to £9.66 billion in March 2026, up from an upwardly revised £5.34 billion in the previous month, marking the largest trade gap since January 2022. Exports rose 0.2% month-on-month to £79.13 billion, while imports grew at a faster pace of 5.3% to a three-month high of £88.78 billion. Goods exports edged up 0.1% to £32.35 billion, driven by higher shipments to the EU (3.9%), while those to non-EU countries remained relatively unchanged. Exports to the EU increased due to a £0.6 billion rise in fuel exports and a £0.2 billion increase in chemical exports. Services exports ticked up 0.2% to £46.78 billion. On the import side, goods imports inched up 0.1% to £59.57 billion, while services imports were unchanged at £29.21 billion."
-    },
-    {
-      "id": "4879269",
-      "time": "2026-05-14 14:25:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【預計今年小麥旺季收購量達1億噸左右】今年夏糧旺季收購即將啟動。國家糧食和物資儲備局糧食儲備司司長羅守全14日對媒體表示，今年小麥旺季收購量預計達1億噸左右，與上年基本持平。目前夏糧收購各項準備工作已全部就緒。（新華社）"
-    },
-    {
-      "id": "4879268",
-      "time": "2026-05-14 14:25:14",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【日本長期國債暴跌，全球拋售潮加劇壓力】儘管 30 年期國債拍賣需求強勁，但受全球收益率持續上行拖累，日本長期國債週四價格下跌。30 年期國債收益率一度攀升 10 個基點至3.915%，創該品種 1999 年推出以來新高；20 年期與 40 年期國債收益率也同步升至數十年高位，分別上漲 8 個基點和 7.5 個基點。此次拋售潮源於美國經濟資料強化通脹加速跡象，美債收益率隨之走高，交易員進而加大對美聯儲加息的押注。"
-    },
-    {
-      "id": "em:qqyh_ozyh:202605143737298279",
-      "time": "2026-05-14 14:25:07",
-      "tags": [
-        "央行",
-        "歐洲央行"
-      ],
-      "text": "【歐洲央行管委Kazaks：若油價導致通脹預期脫錨 歐洲央行將加息】歐洲央行管委MartinsKazaks稱，如果原油價格上漲傳導至通脹預期，歐洲央行將不得不提高借貸成本。市場和經濟學家普遍預期歐洲央行將在6月的會議上加息25個基點。“目前金融市場正反映加息，我無法確認或否認。”Kazaks表示。"
-    },
-    {
-      "id": "te:economy:550560",
-      "time": "2026-05-14 14:24:29",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United Kingdom",
-        "Manufacturing Production MoM",
-        "Importance 1"
-      ],
-      "text": "UK Manufacturing Output Unexpectedly Rises in March — Manufacturing production in the UK advanced by 1.2% month-on-month in March 2026, sharply exceeding market forecasts of a 0.2% decline and rebounding from a revised 0.2% fall in the previous month. Output increased in eight of the thirteen subsectors, with activity recovering in transport equipment (2% vs -2.1% in February), basic metals (2.1% vs -1.7%), rubber and plastic products (1.8% vs -0.4%), food, beverages and tobacco (1.1% vs -0.9%), textiles, wearing apparel and leather products (3.6% vs -3.9%), and wood and paper products (1.2% vs -0.4%). At the same time, output rose in basic pharmaceutical products (2.1% vs 0.5%), electrical equipment (3.3% vs 2.9%), and chemical products (2.9% vs 1.6%). Meanwhile, declines were recorded in computer, electronics and optical products (1.9% vs 2%). On a yearly basis, manufacturing production increased by 1.2% in March, against expectations of stagnation, recovering from a revised 0.8% decline in the preceding period."
-    },
-    {
-      "id": "4879267",
-      "time": "2026-05-14 14:24:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "力拓集團任命特魯迪·查爾斯為首席法務官。"
-    },
-    {
-      "id": "4879266",
-      "time": "2026-05-14 14:21:59",
-      "tags": [
-        "公司",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【歐洲央行管委Kazaks稱若油價導致通脹預期脫錨 央行將加息】歐洲央行管委Martins Kazaks稱，如果原油價格上漲傳導至通脹預期，歐洲央行將不得不提高借貸成本。這位拉脫維亞央行行長週四在接受公共廣播公司LTV採訪時稱：“油價上漲，我們看到這正逐漸開始推高通脹，如果通脹預期開始惡化，那麼歐洲央行將被迫加息。”市場和經濟學家普遍預期歐洲央行將在6月的會議上加息25個基點。雖然一些官員暗示他們已經看到資料足以支援這一舉措，但另一些人則表示，經濟前景需要進一步惡化，他們才會採取行動。“目前金融市場正反映加息——我無法確認或否認，”Kazaks表示。“我們將拭目以待這種情況是否出現。但如果我們參考情景分析和我們的預測，那麼當前形勢比基準情景下的初始預測要稍差一些。”"
-    },
-    {
-      "id": "4879265",
-      "time": "2026-05-14 14:21:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "【新華圖訊：習近平同美國總統特朗普參觀天壇】5月14日，國家主席習近平同來華進行國事訪問的美國總統特朗普參觀天壇。 習近平在祈年殿迎接特朗普到訪。兩國元首在祈年殿廣場合影，並共同參觀祈年殿。（新華社）"
-    },
-    {
-      "id": "te:economy:550559",
-      "time": "2026-05-14 14:21:17",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United Kingdom",
-        "Private Investment",
-        "Importance 1"
-      ],
-      "text": "UK Business Investment Recovers in Q1 — Business investment in the United Kingdom rose by 0.7% quarter-on-quarter in the three months to March 2026, rebounding from an upwardly revised 2.9% drop in the previous period, preliminary estimates showed. Still, the latest reading came in well below market expectations of a 1.1% increase and marked the weakest growth since the second quarter of 2023. On an annual basis, business investment fell by 1.8% in the first quarter, marking the first annual growth in two years and slipping from a downwardly revised 1.8% gain in the fourth quarter. Meanwhile, overall gross fixed capital formation increased by 4.3% quarter-on-quarter and 0.5% annually."
-    },
-    {
-      "id": "4879264",
-      "time": "2026-05-14 14:20:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統幕僚長葉爾馬克表示，他將提起上訴。"
-    },
-    {
-      "id": "4879263",
-      "time": "2026-05-14 14:20:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "【寒武紀成交額超200億元，現跌2.5%】5月14日下午，寒武紀成交額超200億元，現跌2.5%。"
-    },
-    {
-      "id": "mkt:019e2524-e807-799f-8003-bd9cde643cfd",
-      "time": "2026-05-14 14:20:33",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "2317.TW",
-        "Impact bullish"
-      ],
-      "text": "FOXCONN: SEES STRONG DEMAND FOR AI SERVERS"
-    },
-    {
-      "id": "te:economy:550556",
-      "time": "2026-05-14 14:19:49",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United Kingdom",
-        "Industrial Production Mom",
-        "Importance 1"
-      ],
-      "text": "UK Industrial Output Falls Less Than Expected — Industrial production in the UK fell by 0.2% month-on-month in March 2026, reversing a downwardly revised 0.3% gain in February but coming in slightly better than market expectations of a 0.3% drop. The decline was primarily driven by contractions in mining and quarrying (-2.3% vs 4% in February) and electricity, gas, steam and air-conditioning supply (-4.3% vs 0.9%), while water supply, sewerage and waste management declined further (-1.6% vs -0.2%). In contrast, manufacturing output rebounded to a four-month high of 1.2% from a 0.2% fall in February, mainly supported by recoveries in transport equipment (2% vs -2.1%) and basic metals and metal products (2.1% vs -1.7%), alongside a continued increase in basic pharmaceutical products and preparations (2.1% vs 0.5%). On a yearly basis, industrial output stalled, following an upwardly revised 0.5% fall in the previous month and missing market expectations of a 0.2% rise. During Q1 2026, industrial output increased by 0.2%."
-    },
-    {
-      "id": "4879262",
-      "time": "2026-05-14 14:19:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "鴻海：預計人工智慧伺服器需求強勁。"
-    },
-    {
-      "id": "4879261",
-      "time": "2026-05-14 14:19:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "鴻海：預計2026年計算產品收入將同比小幅下滑，此前預測同樣為小幅下滑。"
-    },
-    {
-      "id": "4879260",
-      "time": "2026-05-14 14:18:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列軍方對黎巴嫩貝卡谷地及南部的八座城鎮與村莊釋出疏散令。"
-    },
-    {
-      "id": "te:markets:550553",
-      "time": "2026-05-14 14:18:50",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "European Stocks Poised for Higher Open — European equity markets were set to open higher on Thursday, building on the previous session’s gains as investors responded to stronger-than-expected growth in the British economy during the first quarter, before the full effects of the Iran war began to weigh on activity. Still, political uncertainty in the UK remained elevated, with Prime Minister Keir Starmer continuing to face pressure over his leadership. Investors also focused on the meeting between US President Donald Trump and Chinese President Xi Jinping, amid hopes that the two sides could improve relations despite ongoing disputes over tariffs and other sensitive issues. On the corporate side, earnings reports are expected from National Grid, 3i Group, Brenntag, Burberry and Telefonica, among others. In premarket trading, Euro Stoxx 50 futures rose 0.8%, while Stoxx 600 futures gained 0.5%."
-    },
-    {
-      "id": "mkt:019e2523-41fc-799f-8003-b323b38852c5",
-      "time": "2026-05-14 14:18:48",
-      "tags": [
-        "MKT News",
-        "2317.TW",
-        "Impact bullish"
-      ],
-      "text": "FOXCONN: EXPECTS Q2 REVENUE FOR CLOUD AND NETWORKING PRODUCTS TO SEE STRONG GROWTH Y/Y"
-    },
-    {
-      "id": "mkt:019e2523-3388-799f-8003-ac0d62f2fb4a",
-      "time": "2026-05-14 14:18:41",
-      "tags": [
-        "MKT News",
-        "2317.TW"
-      ],
-      "text": "FOXCONN: EXPECTS Q2 REVENUE FOR COMPUTING PRODUCTS TO BE FLATTISH Y/Y"
     }
   ]
 }
