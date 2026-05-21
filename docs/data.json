@@ -1,7 +1,19 @@
 {
-  "updated": "2026-05-22 06:31:07",
-  "count": 16176,
+  "updated": "2026-05-22 06:35:15",
+  "count": 16172,
   "items": [
+    {
+      "id": "4893675",
+      "time": "2026-05-22 06:31:08",
+      "tags": [
+        "公司",
+        "資料",
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "【週五重要財經資訊提醒（以下均為北京時間）】\n① 07:30 日本4月CPI；\n② 時間待定 三星、SK海力士的槓桿ETF最早可能將於近日推出；\n③ 09:15 歐洲央行首席經濟學家Lane在新加坡舉辦的“亞洲貨幣政策論壇”講話；\n④ 14:00 德國一季度GDP終值，4月零售銷售，6月GfK消費者信心指數；\n⑤ 16:00 德國5月IFO商業景氣指數；\n⑥ 待定 恒生公司公佈指數系列檢討結果，歐元集團會議；\n⑦ 16:30 歐洲央行行長拉加德講話；\n⑧ 19:30 歐洲央行管委Vujcic、Kazimir、Muller講話；\n⑨ 22:00 美國5月密歇根大學消費者信心指數終值，美聯儲理事沃勒談論經濟前景；\n⑩ 23:00 美國總統特朗普主持凱文·沃什的美聯儲主席就職宣誓儀式。"
+    },
     {
       "id": "te:markets:552866",
       "time": "2026-05-22 06:30:05",
@@ -145404,53 +145416,6 @@
         "Importance 2"
       ],
       "text": "New Zealand Manufacturing Growth Hits 7-Month Low — The Business NZ Performance of Manufacturing Index in New Zealand was 50.5 in April, down from a downwardly revised 52.8 in March, marking the softest expansion since last September and falling below the long-term average of 52.5."
-    },
-    {
-      "id": "te:markets:550850",
-      "time": "2026-05-15 06:35:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Platinum Falls by 4.82% — Top commodity losers are Platinum (-4.82%), Silver (-4.36%), Lithium Carbonate (-2.74%) and Gold (-0.57%). Gains are led by Steel Rebar (0.81%)."
-    },
-    {
-      "id": "4880710",
-      "time": "2026-05-15 06:33:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "臺積電：受人工智慧拉動增長，全球晶片市場規模到 2030 年將達 1.5 萬億美元。"
-    },
-    {
-      "id": "4880709",
-      "time": "2026-05-15 06:32:51",
-      "tags": [
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "美聯儲威廉姆斯：目前沒有加息或降息的理由。"
-    },
-    {
-      "id": "4880708",
-      "time": "2026-05-15 06:31:30",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4660美元/盎司，日內漲0.17%。"
-    },
-    {
-      "id": "4880707",
-      "time": "2026-05-15 06:31:25",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲威廉姆斯：貨幣政策目前處於輕度限制性狀態。"
     }
   ]
 }
