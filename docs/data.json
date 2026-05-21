@@ -1,7 +1,71 @@
 {
-  "updated": "2026-05-22 07:28:04",
-  "count": 16152,
+  "updated": "2026-05-22 07:31:59",
+  "count": 16151,
   "items": [
+    {
+      "id": "4893718",
+      "time": "2026-05-22 07:31:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "新加坡交易所日經股指期貨開盤上漲640點，報62110點。"
+    },
+    {
+      "id": "4893717",
+      "time": "2026-05-22 07:30:47",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信建投：資金抱團成市場常態，AI算力稀缺性延續】據中信建投研報，在高增長稀缺的宏觀環境下，資金抱團現象正從階段性交易演變為長期市場常態，驅動力從風格輪動轉向“業績增長確定性”。研究指出，AI算力因技術壁壘高、供需緊張，稀缺格局將持續，難以重走新能源行業產能過剩老路。然而，資金正反饋迴圈中，市場亟待接力資金入場，個人投資者的資金流入仍充滿期待。投資者需關注業績兌現度及產能投放節奏，同時警惕資本開支見頂訊號。此外，分析認為，A股頭部企業利潤集中度仍有較大提升空間。"
+    },
+    {
+      "id": "4893716",
+      "time": "2026-05-22 07:30:37",
+      "tags": [
+        "資料",
+        "市場",
+        "國際"
+      ],
+      "text": "日本政府公佈資料：4月剔除生鮮食品與能源後的消費者物價指數（CPI）同比上漲1.9%。"
+    },
+    {
+      "id": "4893715",
+      "time": "2026-05-22 07:30:22",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本4月份整體消費物價同比上漲1.4%。日本4月份核心消費物價同比上漲1.4%。"
+    },
+    {
+      "id": "mkt:019e4cdf-e00e-7aa1-9581-f92b3fc86e8e",
+      "time": "2026-05-22 07:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | CPI (YoY) (Apr) | actual 1.4% | consensus 1.60% | previous 1.50%"
+    },
+    {
+      "id": "mkt:019e4cdf-dff2-7aa1-9581-f7a5ad5af842",
+      "time": "2026-05-22 07:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Core CPI (YoY) (Apr) | actual 1.4% | consensus 1.70% | previous 1.80%"
+    },
+    {
+      "id": "4893714",
+      "time": "2026-05-22 07:28:30",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【韓媒：韓國將把超額稅收收入分配給新的主權財富基金】韓國經濟日報援引匿名政府訊息稱，韓國政府擬將晶片行業高速增長產生的部分超額稅收，投入今年下半年設立的韓式主權財富基金。基金原定依託國企國有股權、遺產稅抵繳股票，籌措20萬億韓元初始資金。現政府決定追加現金出資，將啟動資本金提升至近30萬億韓元。政策目的是將新增稅收轉化為國家財富，惠及後代。韓國將於6月向國會遞交基金設立法案，明確現金注資的法律依據。韓國企劃財政部另行表態，目前尚未確定該基金的資金來源及投資方向具體方案。"
+    },
     {
       "id": "4893713",
       "time": "2026-05-22 07:26:41",
@@ -145161,79 +145225,6 @@
         "美聯儲"
       ],
       "text": "【美聯儲理事巴爾稱縮表是“錯誤目標” 與候任主席沃什主張背道而馳】當地時間5月14日，美聯儲理事邁克爾·巴爾（MichaelBarr）反駁外界要求縮減聯準會資產負債表的主張，直言這種做法“方向錯誤”，甚至可能威脅金融穩定。"
-    },
-    {
-      "id": "4880777",
-      "time": "2026-05-15 07:31:54",
-      "tags": [
-        "央行",
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "【中泰證券：黃金在中長期中仍有不可替代的配置價值】中泰證券研報稱，央行購金、關稅政策不確定性、美元走弱、衍生品活躍等眾多利好因素共同支撐了2025年黃金的漲幅。2026年初金價加速衝高，隨後在中東地緣衝突帶來的連鎖反應中遭受了大幅回撤，當前進入嘗試企穩修復階段。黃金本輪下跌源於全球資本市場的流動性衝擊，以及衝突之下油價飆升推高了通脹預期，黃金的避險價值敘事短期被加息擔憂所替代。若中東局勢緩和，通脹失控的擔憂消除，則美元在中期仍可能回到偏弱路徑會改善黃金的相對吸引力，逢低買盤、加息預期的消退以及降息敘事可能再起將推動金價回升。短期拋售的成功擠出了市場投機泡沫，支撐金價結構性上行的核心邏輯——全球央行的戰略性購買、去美元化的不可逆程序，以及財政赤字的長期化——不僅在暴跌中沒有消失，反而在市場的重新審視下更加穩固。黃金在中長期中仍有不可替代的配置價值。"
-    },
-    {
-      "id": "4880776",
-      "time": "2026-05-15 07:31:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本：聯合宣告並不意味著參與此次任務。"
-    },
-    {
-      "id": "te:markets:550864",
-      "time": "2026-05-15 07:31:29",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Oil Set for Strong Weekly Gain — WTI crude futures hovered above $101 per barrel on Friday and were on track to rise roughly 7% for the week, as diplomatic attempts to end the US-Iran conflict continued to stall, leaving the strategically crucial Strait of Hormuz effectively closed. The key shipping route remains under a dual blockade that has emerged as a central obstacle in negotiations, with President Donald Trump saying the current ceasefire was on “massive life support” after dismissing Tehran’s latest response to his peace proposal. Meanwhile, the IEA reported that crude and fuel flows through the Strait of Hormuz dropped by around 4 million barrels per day in March and April, warning that the global oil market could stay materially undersupplied through October even if the conflict is resolved next month. Separately, President Trump held talks with Chinese President Xi Jinping, with both leaders discussing efforts to keep the strait open to safeguard energy trade and improve US oil exports to China."
-    },
-    {
-      "id": "4880775",
-      "time": "2026-05-15 07:31:03",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲巴爾：正試圖研判能源衝擊將長期對通脹產生何種影響。"
-    },
-    {
-      "id": "4880774",
-      "time": "2026-05-15 07:30:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本稱支援確保霍爾木茲海峽自由航行的國際行動。"
-    },
-    {
-      "id": "4880773",
-      "time": "2026-05-15 07:30:14",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4670美元/盎司，日內跌0.33%。"
-    },
-    {
-      "id": "4880772",
-      "time": "2026-05-15 07:29:38",
-      "tags": [
-        "國際",
-        "原創"
-      ],
-      "text": "【韓國財長稱將努力穩定房地產市場】韓國財政部長具潤哲週五表示，韓國政府將密切關注當前房地產市場形勢，並調動“一切可能手段”防止市場不穩定蔓延。 他表示，政府也在與相關機構合作，監控並嚴厲打擊擾亂房地產市場秩序的行為。"
-    },
-    {
-      "id": "4880771",
-      "time": "2026-05-15 07:29:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "【公募機構推出ETF主題產品 佈局農業賽道】從“冷門”到“熱點”，農業賽道正成為當下公募機構佈局的重要方向。近日，南方基金、萬家基金、浦銀安盛基金、鵬華基金等多家公募機構釋出旗下農業主題基金髮售公告。以ETF作為佈局先鋒，公募機構在申報端、發行端加碼發力，積極設立農業主題基金產品，持續完善行業產品版圖。"
     }
   ]
 }
