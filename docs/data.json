@@ -1,7 +1,255 @@
 {
-  "updated": "2026-05-21 19:12:20",
-  "count": 16015,
+  "updated": "2026-05-21 19:16:32",
+  "count": 16033,
   "items": [
+    {
+      "id": "mkt:019e4a3f-ad0c-799b-b5d5-ffd7630caad7",
+      "time": "2026-05-21 19:15:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IEA CHIEF FATIH BIROL: MY HOPE IS THAT THE STRAIT OF HORMUZ WILL OPEN FULLY AND UNCONDITIONALLY"
+    },
+    {
+      "id": "4892811",
+      "time": "2026-05-21 19:15:36",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "裡蓋蒂計算公司（Rigetti Computing Inc.）：美國商務部將獲得與配套資金金額對等的裡蓋蒂股權。"
+    },
+    {
+      "id": "4892810",
+      "time": "2026-05-21 19:15:28",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "裡蓋蒂計算公司（Rigetti Computing Inc）與美國商務部簽署意向書，將在三年內獲得最高1億美元的資金支援。"
+    },
+    {
+      "id": "te:economy:552733",
+      "time": "2026-05-21 19:15:26",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Treasury Yields March Higher — The yield on the US 10-year Treasury note rose to 4.62% on Thursday, reversing the previous session’s decline, as markets continued to track developments in the Middle East. Mixed signals have fuelled doubts that a US–Iran deal can be reached soon or that traffic through the Strait of Hormuz will be fully restored, pushing oil prices higher again and reigniting inflation concerns. Reuters reported that Iran’s Supreme Leader has issued a directive stating that the country’s near-weapons-grade uranium should not be sent abroad, hardening Tehran’s position on a key US demand in peace talks. Meanwhile, minutes from the latest FOMC meeting showed that a majority of policymakers believe additional rate hikes may be warranted if inflation remains persistently above the Federal Reserve’s 2% target. Markets still broadly expect rates to remain unchanged for the rest of the year, although traders are currently pricing in roughly a 40% chance of a 25 basis-point hike in December."
+    },
+    {
+      "id": "4892809",
+      "time": "2026-05-21 19:15:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "裡蓋蒂計算與美國政府簽署量子計算研究意向書。"
+    },
+    {
+      "id": "4892808",
+      "time": "2026-05-21 19:15:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "VinFast汽車有限公司：新一代VF 8車型首批交付預計將於2026年7下旬啟動。"
+    },
+    {
+      "id": "mkt:019e4a3e-d2b3-799b-b5d5-f2499a3785cd",
+      "time": "2026-05-21 19:14:49",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "IEA CHIEF FATIH BIROL: MY HOPE IS THAT THE STRAIT OF HORMUZ WILL OPEN FULLY AND UNCONDITIONALLY"
+    },
+    {
+      "id": "4892807",
+      "time": "2026-05-21 19:14:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際能源署署長法提赫·比羅爾表示：我希望霍爾木茲海峽能夠全面、無條件開放。"
+    },
+    {
+      "id": "4892806",
+      "time": "2026-05-21 19:14:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【萬辰集團：控股股東及其一致行動人持股比例下降至54.3860%】萬辰集團公告，公司控股股東福建含羞草農業開發有限公司及其一致行動人合計持股比例由55.3891%下降至54.3860%，股份變動觸及5%整數倍。2026年4月23日至5月25日期間，公司發生兩次限制性股票歸屬上市，導致總股本增加。在此期間，股東彭德建透過集中競價方式減持公司股份15.38萬股。此次權益變動符合此前披露的減持計劃，未違反相關法律法規。"
+    },
+    {
+      "id": "4892805",
+      "time": "2026-05-21 19:14:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【翔豐華：股東鍾英浩擬減持公司不超過2.00%股份】翔豐華公告，股東鍾英浩持有公司股份360.15萬股（佔公司當前總股本的3.01%），計劃透過大宗交易及集中競價方式，自2026年6月12日至2026年9月11日減持公司股份不超過239.16萬股（不超過公司當前總股本的2.00%）。減持原因為自身資金需求，股份來源為公司首次公開發行股票前已發行股份。若計劃減持期間公司有送股、資本公積金轉增股本等股份變動事項，則對減持數量進行相應調整。"
+    },
+    {
+      "id": "4892804",
+      "time": "2026-05-21 19:14:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "小米：全新小米17Max 全方位Max，國補到手價4299起。"
+    },
+    {
+      "id": "4892803",
+      "time": "2026-05-21 19:13:58",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "歐羅海運有限公司：航運業從伊朗衝突中獲短期收益，但通脹與經濟放緩構成中期威脅。"
+    },
+    {
+      "id": "te:markets:552732",
+      "time": "2026-05-21 19:13:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "DAX Moves Lower — Frankfurt's DAX 40 fell 0.6% to below 24,600 on Thursday, in line with other European peers, amid renewed concerns over a potential US-Iran peace deal. A Reuters report indicated that Iran’s Supreme Leader had issued a directive stating that enriched uranium must remain in the country, hardening Tehran’s position on a key US demand in the peace negotiations. The move further complicates efforts to reach a deal, as it directly challenges Washington’s call for the removal of Iran’s nuclear stockpile. Meanwhile, the European Commission has revised downward its forecasts for Eurozone GDP while raising its inflation forecasts."
+    },
+    {
+      "id": "4892801",
+      "time": "2026-05-21 19:13:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "VinFast推出新一代VF 8，全面升級使用者體驗。"
+    },
+    {
+      "id": "4892800",
+      "time": "2026-05-21 19:13:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列官員表示，特朗普已向以色列保證，伊朗用於製造原子彈的高濃縮鈾庫存將被運出伊朗，且任何和平協議都必須包含相關條款。"
+    },
+    {
+      "id": "4892799",
+      "time": "2026-05-21 19:13:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "康菲石油表示，委內瑞拉吸引石油企業的努力未達預期。"
+    },
+    {
+      "id": "4892798",
+      "time": "2026-05-21 19:13:05",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "【英國資料疲軟，兩年期英國國債收益率觸及一個月低點】本週公佈的一系列疲軟的英國資料降低了英國央行快速加息的可能性，之後英國兩年期國債收益率跌至一個月低點。英國就業、通脹和臨時採購經理人指數資料弱於預期，表明經濟脆弱。Ebury的Matthew Ryan在一份報告中表示，疲軟的就業資料應會限制高能源價格引發的通脹的二階效應，這應會緩解大幅上調英國基準利率的需求。Tradeweb資料顯示，兩年期英國國債收益率最新下跌0.7個基點，至4.376%，盤中早些時候曾觸及4.325%的一個月低點。"
+    },
+    {
+      "id": "mkt:019e4a3c-e9e5-799b-b5d5-e9ec6fed8f85",
+      "time": "2026-05-21 19:12:46",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "COP.O"
+      ],
+      "text": "CONOCOPHILLIPS SAYS VENEZUELA'S BID TO WOO OIL FIRMS FALLS SHORT"
+    },
+    {
+      "id": "4892797",
+      "time": "2026-05-21 19:12:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際能源署署長法提赫·比羅爾：隨著庫存消耗以及夏季需求走硬，石油市場可能在7-8月進入“危險區”。"
+    },
+    {
+      "id": "4892796",
+      "time": "2026-05-21 19:12:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【埃夫特：擬發行股份及支付現金收購盛普股份100%股權，交易對價約10.74億元】埃夫特公告，公司擬透過發行股份及支付現金方式收購盛普股份100%股份，交易價格約為10.74億元。其中，透過發行股份及支付現金向至騫實業等10名交易對方購買盛普股份95.97%股份，交易價格10.33億元；透過支付現金向上海翌耀、共青城凱翌購買盛普股份4.03%股份，交易價格約4120.35萬元。本次交易不構成重組上市。標的資產的審計、評估工作已完成，截至評估基準日2025年12月31日，盛普股份100%股份評估值為10.83億元。"
+    },
+    {
+      "id": "mkt:019e4a3c-8d7f-799b-b5d5-e2671f7a68b8",
+      "time": "2026-05-21 19:12:20",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "IEA CHIEF FATIH BIROL: OIL MARKETS COULD ENTER \"RED ZONE\" IN JULY-AUGUST AS STOCKS DEPLETE AND SUMMER DEMAND FIRMS"
+    },
+    {
+      "id": "mkt:019e4a3c-6993-799b-b5d5-d810cc8fe304",
+      "time": "2026-05-21 19:12:13",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "FTSE100",
+        "EURUSD",
+        "Impact mixed"
+      ],
+      "text": "【EU Weighs Temporary Sanctions Relief for Chinese Chip Supplier】The European Union is preparing to propose temporarily lifting sanctions on a Chinese semiconductor supplier after automakers warned the restrictions could trigger major supply chain disruptions, according to people familiar with the matter. The European Commission could present the derogation proposal as early as this week, though approval from all 27 member states would be required. European carmakers reportedly told EU officials they lacked sufficient time to diversify supply chains and that inventories could be exhausted within weeks if the ban remains in place."
+    },
+    {
+      "id": "4892795",
+      "time": "2026-05-21 19:12:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿瑞斯資本募資 8.5 億美元，設立歐美房地產債務基金。"
+    },
+    {
+      "id": "4892792",
+      "time": "2026-05-21 19:11:52",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "美銀全球研究預計英國央行將分別在7月和9月各加息25個基點，此前該行的預測為6月和7月加息。"
+    },
+    {
+      "id": "mkt:019e4a3c-081c-799b-b5d5-d77602a9748e",
+      "time": "2026-05-21 19:11:48",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "BOFA GLOBAL RESEARCH EXPECTS BOE TO HIKE INTEREST RATES BY 25 BP EACH IN JULY AND SEPTEMBER VS PRIOR FORECAST OF RATE HIKES IN JUNE AND JULY"
+    },
+    {
+      "id": "4892791",
+      "time": "2026-05-21 19:11:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "小米17Max起售價4799元。"
+    },
     {
       "id": "4892790",
       "time": "2026-05-21 19:10:23",
@@ -143986,76 +144234,6 @@
         "其他"
       ],
       "text": "【截至5月14日上交所公募REITs市值合計1429.7億元】據上交所訊息，截至2026年5月14日，上交所公募REITs市值合計1429.7億元，2026年5月14日成交額合計為33584.9萬元。"
-    },
-    {
-      "id": "4879938",
-      "time": "2026-05-14 19:15:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中鹽化工：擬投資252.83億元建設500萬噸/年天然鹼礦產資源綜合開發專案】中鹽化工公告，公司計劃投資252.83億元建設中鹽（內蒙古）鹼業有限公司500萬噸/年天然鹼礦產資源綜合開發專案。該專案包括4條純鹼生產線，預計2026年6月3日開工，建設期24個月。專案總投資中，銀行貸款佔68.36%，企業自有資金佔31.64%。專案財務內部收益率（稅後）為8.01%。公司董事會已審議透過該專案，尚需提交股東會審議批准後實施。"
-    },
-    {
-      "id": "mkt:019e2633-0518-7335-8cb0-85678b6dba85",
-      "time": "2026-05-14 19:15:38",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "ACN.O",
-        "Impact bullish"
-      ],
-      "text": "ACCENTURE FEDERAL SERVICES PARTNER OPENAI ON AI ADOPTION"
-    },
-    {
-      "id": "4879937",
-      "time": "2026-05-14 19:15:32",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【印度黃金進口關稅暴漲 印度大幅提高金銀進口稅】為了緩解外匯儲備壓力，印度政府13日宣佈，將黃金和白銀的進口關稅從6%提高至15%，來抑制貴金屬的海外採購。據CNBC報道，印度政府將對黃金和白銀進口徵收10%的基本關稅，疊加5%的農業基礎設施和發展稅，使有效進口稅率從6%大幅升至15%。而就在幾天前，印度總理莫迪也向民眾呼籲，一年內暫緩購買黃金，以保護外匯儲備、防止印度盧比進一步走弱。印度是全球第二大貴金屬消費國，黃金消費幾乎全部依賴進口。分析人士稱，上調黃金和白銀關稅有助於縮小印度的貿易逆差並支撐盧比。不過也有黃金交易商表示，關稅上調後，黃金進口量可能下降，但走私等灰色市場可能會變得活躍。（央視財經）"
-    },
-    {
-      "id": "4879936",
-      "time": "2026-05-14 19:15:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "【英媒：面臨黨內辭職壓力，斯塔默警告工黨領導權之爭將會帶來混亂】據英國廣播公司（BBC）報道，英國首相斯塔默當地時間5月13日警告工黨人士，工黨領導權之爭將會帶來“混亂”。據報道，斯塔默正面臨黨內的辭職壓力，英國衛生和社會福利大臣韋斯·斯特里廷據信已準備辭職並競選工黨黨首。據報道，由於英國工黨在地方選舉中慘敗，斯塔默連日來陷入執政危機。據英國《泰晤士報》報道，斯特里廷私下裡已經明確表示將競選工黨黨首。他最快或將於14日辭職，並已開始著手準備獲得工黨下院議員的支援。（環球網）"
-    },
-    {
-      "id": "4879935",
-      "time": "2026-05-14 19:14:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "埃森哲：埃森哲聯邦服務部門將支援符合聯邦風險與授權管理計劃（FedRAMP）要求的OpenAI Codex在所有認證層級落地實施。"
-    },
-    {
-      "id": "4879934",
-      "time": "2026-05-14 19:14:22",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "埃森哲聯邦服務公司與 OpenAI 達成合作，助力美國聯邦政府加速安全人工智慧的落地應用。"
-    },
-    {
-      "id": "4879933",
-      "time": "2026-05-14 19:13:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗外長強調不存在軍事解決方案】伊朗外長阿拉格齊在今天（5月14日）的金磚國家外長會上表示，與伊朗有關的任何問題“都不存在所謂的‘軍事解決方案’”，伊朗人民永遠都不會屈服於任何威脅或壓力。阿拉格齊強調，伊朗已經準備好為了捍衛自由和領土而拼殺，但同時也準備好繼續透過外交途徑來解決問題。(CCTV國際時訊)"
-    },
-    {
-      "id": "4879932",
-      "time": "2026-05-14 19:13:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國平安：公司章程獲核准 自5月13日起不再設監事會】中國平安公告稱，公司2026年第一次臨時股東會同意修訂《公司章程》，近日收到金融監管總局批覆，修訂後的《公司章程》自2026年5月13日起生效。自該日起，公司不再設立監事會，由董事會審計與風險管理委員會行使監事會職權，孫建一、朱新蓉等5人退任第十一屆監事會監事職務。"
     }
   ]
 }
