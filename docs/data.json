@@ -1,7 +1,134 @@
 {
-  "updated": "2026-05-21 09:40:17",
-  "count": 15880,
+  "updated": "2026-05-21 09:44:15",
+  "count": 15885,
   "items": [
+    {
+      "id": "4891601",
+      "time": "2026-05-21 09:43:00",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行小枝：因此，為維持市場健康，長期實際利率長期保持在正值區間是較為理想的。"
+    },
+    {
+      "id": "4891600",
+      "time": "2026-05-21 09:42:49",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行審議委員小枝淳子：長期實際利率為負的局面可能會讓投資者認為，就預期回報而言，日本經濟不再是一個有吸引力的投資目的地。"
+    },
+    {
+      "id": "4891599",
+      "time": "2026-05-21 09:42:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【光纖概念板塊短線走低】光纖概念板塊短線走低，長盈通跌超8%，匯源通訊、長光華芯、通鼎互聯、仕佳光子等跟跌。"
+    },
+    {
+      "id": "4891598",
+      "time": "2026-05-21 09:42:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "東京電子臺灣分公司表示，公司尊重司法程式，認真對待此次裁決，並不會就臺積電商業機密一案提起上訴。"
+    },
+    {
+      "id": "mkt:019e4832-43ef-777f-8614-78136143e24c",
+      "time": "2026-05-21 09:41:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TOKYO ELECTRON TAIWAN SAID IT RESPECTS THE JUDICIAL PROCESS, TAKES THIS RULING SERIOUSLY AND WILL NOT APPEAL IN THE TSMC TRADE SECRET CASE"
+    },
+    {
+      "id": "4891597",
+      "time": "2026-05-21 09:41:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "新加坡電信：資料中心的大部分能源成本已轉嫁至客戶。"
+    },
+    {
+      "id": "4891596",
+      "time": "2026-05-21 09:41:26",
+      "tags": [
+        "資料",
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行小枝：服務價格在幾年前一直呈下降趨勢，但最近由於工資持續穩健增長，已穩定推高消費者物價指數（CPI）。"
+    },
+    {
+      "id": "4891595",
+      "time": "2026-05-21 09:41:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "美團港股漲3.26%，報85.50港元。"
+    },
+    {
+      "id": "4891594",
+      "time": "2026-05-21 09:41:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4570美元/盎司，日內漲0.59%。"
+    },
+    {
+      "id": "4891593",
+      "time": "2026-05-21 09:41:06",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【油服工程板塊回撥 仁智股份跌停】油服工程板塊繼續回撥，仁智股份跌停，通源石油、中油工程、科力股份、中曼石油等股下跌。"
+    },
+    {
+      "id": "mkt:019e4831-9106-777f-8614-70f0f0bc5f54",
+      "time": "2026-05-21 09:41:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Hot",
+        "Policy",
+        "Breaking News 24h",
+        "005930.KS",
+        "Impact bearish"
+      ],
+      "text": "SAMSUNG ELECTRONICS SHAREHOLDERS GROUP SAYS PAY DEAL WITH UNION INVALID, WILL FILE INJUNCTION IF APPROVED - YONHAP"
+    },
+    {
+      "id": "4891592",
+      "time": "2026-05-21 09:40:40",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "韓聯社訊息：三星電子股東團體稱與工會達成的薪酬協議無效，若該協議獲批將申請禁制令。"
+    },
+    {
+      "id": "mkt:019e4830-c4c5-777f-8614-6e34f6c0d96b",
+      "time": "2026-05-21 09:40:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "TURNOVER ON SSE AND SZSE EXCEEDED 500 BILLION YUAN"
+    },
+    {
+      "id": "4891591",
+      "time": "2026-05-21 09:40:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港口航運板塊拉昇，招商南油漲停】港口航運板塊拉昇，招商南油漲停，招商輪船、安通控股、國航遠洋、中遠海能、中遠海特跟漲。"
+    },
     {
       "id": "mkt:019e4830-34bd-777f-8614-67afab8f7b04",
       "time": "2026-05-21 09:39:39",
@@ -142854,95 +142981,6 @@
         "SZSE Component"
       ],
       "text": "CHINA’S THREE MAJOR A-SHARE INDEXES ALL TURN NEGATIVE"
-    },
-    {
-      "id": "4878897",
-      "time": "2026-05-14 09:43:30",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點"
-      ],
-      "text": "【工業金屬板塊衝高，株冶集團漲停】工業金屬板塊衝高，株冶集團漲停，中金嶺南、馳宏鋅鍺、金田股份、豫光金鉛、神火股份跟漲。"
-    },
-    {
-      "id": "mkt:019e2427-2a81-777f-be59-e0f11c7334b8",
-      "time": "2026-05-14 09:43:26",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "CHINA’S MOST ACTIVE LITHIUM CARBONATE CONTRACT FALLS 4.00% INTRADAY TO 193,720 YUAN/TON"
-    },
-    {
-      "id": "4878896",
-      "time": "2026-05-14 09:42:43",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "碳酸鋰連續主力合約日內跌4%，現報193720.00元。"
-    },
-    {
-      "id": "4878895",
-      "time": "2026-05-14 09:42:09",
-      "tags": [
-        "市場"
-      ],
-      "text": "離岸人民幣兌美元升至6.7817，為2023年2月9日以來的最高水平。"
-    },
-    {
-      "id": "4878894",
-      "time": "2026-05-14 09:42:08",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "恒生指數漲超1%，現報26713.600點；恒生科技指數現漲1.986%。"
-    },
-    {
-      "id": "mkt:019e2425-ce0f-777f-be59-dd0edd1b6c9c",
-      "time": "2026-05-14 09:41:57",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bullish"
-      ],
-      "text": "CHINA'S ONSHORE YUAN STRENGTHENS TO 6.7840 PER DOLLAR IN EARLY TRADE, STRONGEST LEVEL SINCE FEB 9, 2023 CHINA'S OFFSHORE YUAN STRENGTHENS TO 6.7817 PER DOLLAR, STRONGEST LEVEL SINCE FEB 9, 2023"
-    },
-    {
-      "id": "4878893",
-      "time": "2026-05-14 09:41:52",
-      "tags": [
-        "市場"
-      ],
-      "text": "在岸人民幣兌美元升至6.7840，為2023年2月9日以來的最高水平。"
-    },
-    {
-      "id": "mkt:019e2425-4b43-777f-be59-d4da10f973b4",
-      "time": "2026-05-14 09:41:24",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bearish",
-        "CSI300",
-        "SZSE Component"
-      ],
-      "text": "CHINA’S THREE MAJOR A-SHARE INDICES ALL TURN LOWER, WITH DEFENSE, FILM AND MEDIA, WIND POWER SECTORS LEADING DECLINES"
-    },
-    {
-      "id": "4878892",
-      "time": "2026-05-14 09:40:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【港股科網股延續漲勢 阿里巴巴漲超7%】截至發稿，阿里巴巴-W(09988.HK)漲7.15%，騰訊控股(00700.HK)漲2.90%，小米集團-W(01810.HK)漲2.89%。"
     }
   ]
 }
