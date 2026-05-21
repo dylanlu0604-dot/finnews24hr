@@ -1,7 +1,56 @@
 {
-  "updated": "2026-05-21 14:07:00",
-  "count": 15847,
+  "updated": "2026-05-21 14:10:52",
+  "count": 15845,
   "items": [
+    {
+      "id": "4891942",
+      "time": "2026-05-21 14:10:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達1.09%，成分股中，天嶽先進跌6.99%，晶合整合跌5.55%，翱捷科技跌5.47%，華潤微跌5.03%。"
+    },
+    {
+      "id": "4891941",
+      "time": "2026-05-21 14:08:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨午後轉跌。"
+    },
+    {
+      "id": "4891940",
+      "time": "2026-05-21 14:08:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "長和否認有出售旗下百佳超市業務的計劃。"
+    },
+    {
+      "id": "4891939",
+      "time": "2026-05-21 14:08:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【德國批准新版民防計劃 摒棄專用掩體理念】德國政府20日批准新版民防計劃，決定不再沿用冷戰時期修建專用防空掩體的模式，轉而將地下停車場、隧道、地鐵站等日常公共設施改造為應急避難場所。（新華社）"
+    },
+    {
+      "id": "4891938",
+      "time": "2026-05-21 14:08:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【一團夥竊取工地鋼筋超500噸 6名涉案人員全部落網】近日，四川涼山州西昌市公安局成功破獲一起特大工地建材盜竊案，抓獲犯罪嫌疑人6名，查獲被盜鋼筋500餘噸，涉案金額達100餘萬元。（央視新聞）"
+    },
+    {
+      "id": "4891937",
+      "time": "2026-05-21 14:08:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "【高市早苗給李在明講鬼故事：我住的首相府邸以“鬧鬼”聞名，每天晚上都會出現奇怪的聲音】20日傍晚，韓國總統李在明在陪同到訪的日本首相高市早苗走過一處建築時，高市早苗講起日本首相官邸“鬧鬼”的傳聞：我住的首相府邸以“鬧鬼”聞名。（中新社）"
+    },
     {
       "id": "mkt:019e4923-f07e-7ee7-b68e-a8c3e2f2170e",
       "time": "2026-05-21 14:05:52",
@@ -142530,82 +142579,6 @@
         "Importance 1"
       ],
       "text": "UK Q4 Construction Orders Decline in Q1 — UK construction orders dropped by 11.9% year-on-year in the first quarter of 2026, reversing a downwardly revised 28.1% increase in the previous quarter. Orders for other work declined (-18.8% vs 33.9% in Q4), as commercial orders slumped (-23.0% vs 5.9%), while growth in industrial orders slowed sharply (4.0% vs 56.4%). Meanwhile, new housing orders picked up (15.9% vs 12.7%), driven mainly by a sharp increase in private housing orders (17.7% vs 2.9%), which offset a significant slowdown in public housing orders (3.9% vs 99.7%). On a quarterly basis, construction orders decreased by 10.5%, following an upwardly revised 4.4% fall in the prior period."
-    },
-    {
-      "id": "4879240",
-      "time": "2026-05-14 14:10:40",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "PVC連續主力合約日內跌1%，現報5072.00元。"
-    },
-    {
-      "id": "4879239",
-      "time": "2026-05-14 14:10:14",
-      "tags": [
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "【高盛：韓國加息定價過度 國債收益率或將回落】高盛表示，隨著地緣政治動盪緩和，韓國國債收益率存在企穩空間；目前市場計價未來 12 個月至少四次加息，定價明顯過度。儘管韓國國債本土需求低迷，但外資配置意願有望抵消這一利空。韓國納入全球政府債券指數，對本國國債構成長期結構性利好。截至 4 月，境外投資者年內增持韓國國債規模達21 萬億韓元（摺合 140 億美元）。這一規模遠超過去五年季度均值 5 萬億至 6 萬億韓元，也略高於高盛全年約 55 萬億韓元的淨買入預期。"
-    },
-    {
-      "id": "te:economy:550543",
-      "time": "2026-05-14 14:09:50",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United Kingdom",
-        "Construction Output",
-        "Importance 1"
-      ],
-      "text": "UK Construction Output Shrinks Less than Expected — UK construction output fell 0.3% year-on-year in March 2026, easing from a 1.6% decline in the previous month and outperforming market estimates for a 2.5% drop. It was the fifth straight month of yearly contraction but the mildest in the sequence, with new work down the least in four months (-4.4% vs -6.1% in February) while repair and maintenance activity accelerated (5.7% vs 4.8%). On a monthly basis, construction output rose 1.05%, accelerating from 0.5% growth in February and marking the fastest growth since May 2024, amid increases in new work (2.0%) and repair and maintenance (0.8%). Over the three months to March, total construction output increased 0.4%, with repair and maintenance expanding by 3.4% while new work shrank 1.9%."
-    },
-    {
-      "id": "4879238",
-      "time": "2026-05-14 14:09:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭反腐敗法院逮捕澤連斯基前幕僚長葉爾馬克。"
-    },
-    {
-      "id": "mkt:019e251a-675c-799f-8003-8763d0e954f3",
-      "time": "2026-05-14 14:09:07",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "EXPORT LICENSES TO CHINA FOR HUNDREDS OF U.S. BEEF PLANTS THAT HAD JUST BEEN RENEWED NOW LISTED AS EXPIRED - CHINESE CUSTOMS"
-    },
-    {
-      "id": "4879237",
-      "time": "2026-05-14 14:08:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "【阿里雲釋出萬小智2.0：打通AI建站、域名備案到上線運營全流程】阿里雲宣佈，上線企業級AI建站平臺萬小智2.0，可為使用者提供從網站生成、域名備案、網站上線到後臺管理運營等環節的完整服務，最快幾分鐘，就能生成並上線符合使用者需求的生產級網站。"
-    },
-    {
-      "id": "4879236",
-      "time": "2026-05-14 14:07:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "Burberry第四季度零售同店銷售增長5%，預期為增長4.6%。Burberry宣佈董事會主席Gerry Murphy將在今年11月退休，接任者為William Jackson。"
-    },
-    {
-      "id": "te:economy:550542",
-      "time": "2026-05-14 14:07:18",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United Kingdom",
-        "Monthly GDP MoM",
-        "Importance 1"
-      ],
-      "text": "UK GDP Posts Surprise Expansion in March — The GDP in the UK expanded 0.3% month-on-month in March 2026, slowing from a downwardly revised 0.4% growth in February, but beating market expectations of a 0.2% contraction. On a yearly basis, GDP rose 1.2%, marking the strongest growth since July last year and exceeding forecasts of 0.7%."
     }
   ]
 }
