@@ -1,7 +1,40 @@
 {
-  "updated": "2026-05-22 00:36:50",
-  "count": 16237,
+  "updated": "2026-05-22 00:40:57",
+  "count": 16235,
   "items": [
+    {
+      "id": "4893485",
+      "time": "2026-05-22 00:39:02",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲巴爾金：即便霍爾木茲海峽重新開放，油價回落也可能需要數月時間。"
+    },
+    {
+      "id": "mkt:019e4b67-6ca3-7aa1-957f-b2369b8932ad",
+      "time": "2026-05-22 00:38:49",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "WTI",
+        "Impact mixed",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "FED'S BARKIN: COULD TAKE MONTHS FOR GAS PRICES TO FALL EVEN WHEN STRAIT OF HORMUZ IS REOPENED"
+    },
+    {
+      "id": "4893484",
+      "time": "2026-05-22 00:37:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄白軍隊舉行核力量演習】5月21日，俄羅斯總統普京與白俄羅斯總統盧卡申科透過影片連線舉行核力量演習，這是俄白軍隊首次舉行戰略和戰術核力量聯合演練。演習期間，俄白軍人完成了“亞爾斯”洲際彈道導彈、“鋯石”高超音速導彈、“青斑”潛射彈道導彈、“伊斯坎德爾-M”彈道導彈以及空基巡航導彈和“匕首”導彈的實戰發射，所有導彈均成功擊中目標，驗證了預定效能。普京表示，核武器是保障兩國國家安全的極端、特殊措施。他強調，核三位一體應繼續成為俄白聯盟國家主權的可靠保障，維持全球層面的核均勢和力量平衡。普京還表示，俄白不打算捲入軍備競賽，但將繼續發展戰略和戰術核力量，將核三位一體保持在必要足夠水平。（CCTV國際時訊）"
+    },
     {
       "id": "4893483",
       "time": "2026-05-22 00:35:53",
@@ -145914,50 +145947,6 @@
         "DXY"
       ],
       "text": "ISRAELI CHANNEL 12 CITING A SECURITY SOURCE: NAVY COMMANDOS WILL SEIZE THE FREEDOM FLOTILLA SHIPS BEFORE THEY REACH THEIR TARGET"
-    },
-    {
-      "id": "4880410",
-      "time": "2026-05-15 00:38:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西足協：卡爾洛・安切洛蒂續約巴西國家隊主帥，合同至 2030 年。"
-    },
-    {
-      "id": "4880409",
-      "time": "2026-05-15 00:38:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "尚比亞官員：尚比亞已批准莫帕尼礦山和錢比希銅冶煉廠恢復向剛果出口硫酸。"
-    },
-    {
-      "id": "te:markets:550821",
-      "time": "2026-05-15 00:38:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "S&P 500 Rises Past 7,500 — US equities rose further on Thursday as gains in artificial intelligence infrastructure companies continued to offset macroeconomic headwinds. The S&P 500 jumped 0.8% to cross 7,500 for the first time, while the Nasdaq advanced past 29,500 and the Dow crossed 50,000. The bullish guidances by AI companies supported the broader market through high energy prices from the blockade in the Persian Gulf and hawkish outlook for the Fed, lastly consolidated by the 0.5% increase in the control group of retail sales. Cisco jumped 15% after posting strong earnings and forecasts, while signaling 4,000 jobs to be cut on improved productivity. Meanwhile, Nvidia jumped 4.5% to extend its rally to 15% this month after the US cleared 10 cleared 10 Chinese firms for receiving H200 chips. The announcement took place amid President Trump's and tech CEO's visit to Beijing, so far maintaining the de-escalatory rhetoric since their trade war peaked last year."
-    },
-    {
-      "id": "4880408",
-      "time": "2026-05-15 00:37:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "【扎波羅熱核電站遭烏軍襲擊 兩名工作人員受傷】當地時間5月14日，扎波羅熱核電站官方通報稱，烏克蘭武裝部隊的無人機對核電站周邊區域發動襲擊。在距離電站圍欄100米處，兩名正在駕車執行公務的工作人員被炸傷。通報稱，目前兩人已被送往醫療機構，正在接受必要的救助。通報稱，此類行徑對核基礎設施工作人員的生命健康構成直接威脅，核電站員工不應成為攻擊目標，員工安全和電站穩定執行必須是無條件的優先事項。此類襲擊是“恐怖主義”行徑。烏克蘭方面對此暫無回應。（央視新聞）"
-    },
-    {
-      "id": "4880407",
-      "time": "2026-05-15 00:37:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國曼徹斯特市長Andy Burnham宣佈競選議員。"
     }
   ]
 }
