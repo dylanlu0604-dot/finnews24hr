@@ -1,7 +1,125 @@
 {
-  "updated": "2026-05-21 13:47:48",
-  "count": 15851,
+  "updated": "2026-05-21 13:51:39",
+  "count": 15858,
   "items": [
+    {
+      "id": "mkt:019e4916-67f8-7ee7-b68e-854a66b09cce",
+      "time": "2026-05-21 13:51:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "AMD TO EXPAND STRATEGIC PARTNERSHIPS, SCALE ADVANCED PACKAGING CAPABILITIES"
+    },
+    {
+      "id": "mkt:019e4916-4796-7ee7-b68e-7885150dd1cf",
+      "time": "2026-05-21 13:50:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "AMD.O",
+        "Impact bullish"
+      ],
+      "text": "AMD ANNOUNCES OVER $10B INVESTMENT IN TAIWAN ECOSYSTEM TO ACCELERATE AI INFRASTRUCTURE"
+    },
+    {
+      "id": "mkt:019e4916-00c4-7ee7-b68e-72b7ec357aa6",
+      "time": "2026-05-21 13:50:39",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "ADNOC - WHILE ADNOC CAN RAMP UP ITS OIL PRODUCTION IN A MATTER OF WEEKS, IT WILL TAKE 4 MONTHS FOR OIL FLOWS THROUGH HORMUZ TO RETURN TO 80 % OF PRE-CONFLICT LEVELS"
+    },
+    {
+      "id": "mkt:019e4915-d7dd-7ee7-b68e-6a19aab46a70",
+      "time": "2026-05-21 13:50:28",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AMD.O",
+        "Impact bullish",
+        "TSM.O"
+      ],
+      "text": "AMD RAMPING 'VENICE' PRODUCTION IN TAIWAN ON TSMC'S ADVANCED 2NM PROCESS TECHNOLOGY AMD: HAS FUTURE PLANS TO RAMP PRODUCTION AT TSMC'S ARIZONA FAB"
+    },
+    {
+      "id": "4891913",
+      "time": "2026-05-21 13:50:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【港股科網股午後多數下挫，嗶哩嗶哩-W跌超7%】港股科網股午後多數下挫，嗶哩嗶哩-W跌超7%，百度集團-SW跌近5%，阿里巴巴-W跌超4%，騰訊控股跌超3%。"
+    },
+    {
+      "id": "4891912",
+      "time": "2026-05-21 13:50:05",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行小枝淳子：與以往相比，日本央行在運用貨幣政策應對通脹方面必須發揮更強的作用。"
+    },
+    {
+      "id": "mkt:019e4915-79ac-7ee7-b68e-61841c9668a5",
+      "time": "2026-05-21 13:50:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "AMD.O",
+        "Impact bullish",
+        "TSM.O"
+      ],
+      "text": "AMD WORKING WITH TSMC TO RAMP UP PRODUCTION OF NEXT-GENERATION CPU"
+    },
+    {
+      "id": "4891911",
+      "time": "2026-05-21 13:49:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "AMD還計劃將臺積電2奈米工藝技術推廣至其資料中心CPU全產品線。"
+    },
+    {
+      "id": "4891910",
+      "time": "2026-05-21 13:49:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌1%，現報1361.66美元/盎司。"
+    },
+    {
+      "id": "4891909",
+      "time": "2026-05-21 13:48:52",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4520美元/盎司，日內跌0.52%。"
+    },
+    {
+      "id": "4891908",
+      "time": "2026-05-21 13:47:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿布扎比國家石油公司（ADNOC）：上游投資每年約為4000億美元，勉強能夠抵消自然遞減率。"
+    },
+    {
+      "id": "4891907",
+      "time": "2026-05-21 13:47:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超2.5萬億元，較上日此時放量1310億元。"
+    },
     {
       "id": "4891906",
       "time": "2026-05-21 13:46:56",
@@ -142600,56 +142718,6 @@
         "其他"
       ],
       "text": "巴克萊將西門子目標股價從220歐元上調至230歐元。"
-    },
-    {
-      "id": "4879214",
-      "time": "2026-05-14 13:50:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "【執宇航天完成數千萬元天使輪融資】5月14日，執宇航天（Z-TRAK SPACE）宣佈完成天使輪融資，本輪融資由民銀國際領投，世紀華通、松禾創新、北斗集團聯合加持，融資金額數千萬。本輪資金將重點用於核心發動機技術迭代、火箭產品研發、全鏈條產能建設及市場生態拓展，加速推進中小型可回收火箭商業化落地。"
-    },
-    {
-      "id": "4879213",
-      "time": "2026-05-14 13:50:12",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經225指數跌幅擴大，目前下跌0.7%，報62809.87點。"
-    },
-    {
-      "id": "mkt:019e2508-3ae9-777f-be5c-a4cd93092e63",
-      "time": "2026-05-14 13:48:44",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "NVIDIA",
-        "Alibaba",
-        "Tencent",
-        "JD.com",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "SOURCES SAY CHINESE BUYERS APPROVED TO PURCHASE NVIDIA CHIPS INCLUDE ALIBABA, BYTEDANCE, TENCENT, AND JD.COM"
-    },
-    {
-      "id": "4879212",
-      "time": "2026-05-14 13:48:11",
-      "tags": [
-        "市場"
-      ],
-      "text": "英偉達暗盤短線拉昇，現漲1.57%。"
-    },
-    {
-      "id": "4879211",
-      "time": "2026-05-14 13:48:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "【OpenAI回應TanStack供應鏈攻擊：未發現使用者資料洩露】5月14日，OpenAI針對近期發生的針對熱門開源庫TanStack的“Mini Shai-Hulud”供應鏈攻擊事件釋出宣告表示，在監測到此次針對多款常用npm軟體包的惡意攻擊後，安全團隊已迅速排查了內部系統，目前尚未發現任何使用者資料被洩露或非法訪問的證據。OpenAI指出，雖然其核心服務未受直接破壞，但為了確保本地環境的安全，所有使用其官方應用程式的macOS使用者須在2026年6月12日前完成軟體更新。"
     }
   ]
 }
