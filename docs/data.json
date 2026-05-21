@@ -1,7 +1,55 @@
 {
-  "updated": "2026-05-22 07:39:48",
-  "count": 16155,
+  "updated": "2026-05-22 07:43:43",
+  "count": 16157,
   "items": [
+    {
+      "id": "te:economy:552878",
+      "time": "2026-05-22 07:42:32",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Core Inflation Rate",
+        "Importance 2"
+      ],
+      "text": "Japan Core Inflation Rate Lowest since 2022 — Japan’s core consumer price index, which excludes fresh food but includes energy, rose 1.4% year-on-year in April 2026, easing from 1.8% in the previous month and coming in softer than market forecasts of 1.7%. The latest reading marked the lowest level since March 2022."
+    },
+    {
+      "id": "4893733",
+      "time": "2026-05-22 07:41:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX：取消今日飛行測試。"
+    },
+    {
+      "id": "te:economy:552877",
+      "time": "2026-05-22 07:41:57",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Food Inflation",
+        "Importance 1"
+      ],
+      "text": "Japan Food Prices Rise the Least in 18 Months — Food prices in Japan increased 3.5% year-on-year in April 2026, following a 3.6% gain in the prior month and marking the mildest pace since October 2024."
+    },
+    {
+      "id": "4893732",
+      "time": "2026-05-22 07:41:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX在排除故障後推遲了星艦V3的發射。"
+    },
+    {
+      "id": "4893731",
+      "time": "2026-05-22 07:40:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美眾議院委員會透過夏令時永久化法案】當地時間5月21日，美國總統特朗普在社交平臺發文稱，美國眾議院能源與商業委員會當天以48票贊成、1票反對的投票結果，透過包含《陽光保護法案》（Sunshine Protection Act）在內的相關法案，該法案旨在永久實施夏令時。特朗普表示，每年頻繁調整時鐘讓個人、城市與州政府花費“數億美元”，尤其是高塔時鐘需要動用重型裝置進行調整，成本十分高昂。他說，眾議院計劃將《陽光保護法案》附加至“公路法案”（Highway Bill）中推進立法，並稱自己將“非常努力”推動該法案最終簽署成為法律。（央視）"
+    },
     {
       "id": "te:economy:552876",
       "time": "2026-05-22 07:38:58",
@@ -145237,31 +145285,6 @@
         "國際"
       ],
       "text": "美聯儲理事巴爾：期待沃什上任後能在美聯儲做出一番成就。"
-    },
-    {
-      "id": "4880790",
-      "time": "2026-05-15 07:43:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "【光迅科技：當前未生產光隔離器用的法拉第旋片】光迅科技(002281)5月14日在業績說明會表示，公司當前未生產光隔離器用的法拉第旋片。"
-    },
-    {
-      "id": "4880789",
-      "time": "2026-05-15 07:42:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：日本防衛省正考慮向菲律賓出口88式岸艦導彈。"
-    },
-    {
-      "id": "4880788",
-      "time": "2026-05-15 07:40:14",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美國法官審議Anthropic公司15億美元作家訴訟和解協議】當地時間週四，美國一名聯邦法官要求律師就人工智慧公司Anthropic與指控其濫用其著作來訓練AI聊天機器人Claude的作者們達成的15億美元和解協議中的若干要點提供更多資訊。美國地方法官阿拉塞利·馬丁內斯-奧爾金在舊金山的聽證會上並未給予最終批准，而是要求就包括律師費以及向首席原告支付的款項等議題提供更多細節。這起案件是美國已知規模最大的版權和解案。"
     }
   ]
 }
