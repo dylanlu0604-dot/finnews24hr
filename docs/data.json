@@ -1,7 +1,28 @@
 {
-  "updated": "2026-05-22 05:29:42",
-  "count": 16210,
+  "updated": "2026-05-22 05:33:39",
+  "count": 16209,
   "items": [
+    {
+      "id": "4893649",
+      "time": "2026-05-22 05:31:57",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【兩年期美債收益率漲2.8個基點】週四（5月21日）紐約尾盤，美國10年期國債收益率跌1.59個基點，報4.5696%，北京時間18:25短線拉昇，21:44重新整理日高至4.6314%，01:09短線跳水。兩年期美債收益率漲2.80個基點，報4.0830%；30年期美債收益率跌3.11個基點，報5.0919%。2/10年期美債收益率利差跌4.382個基點，報+48.448個基點，整體持續走低。10年期通脹保值國債（TIPS）收益率漲0.55個基點，至2.1350%，18:25也曾短線拉昇；兩年期TIPS收益率漲4.60個基點，至1.3292%；30年期TIPS收益率跌2.31個基點，至2.8077%。"
+    },
+    {
+      "id": "te:markets:552864",
+      "time": "2026-05-22 05:30:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "Ibovespa Edges Up on Mideast Peace Prospects — The Ibovespa gained 0.2% to close at 177,650 on Thursday on hopes of an Iran-US peace deal. Oil prices retreated amid signs of a possible diplomatic breakthrough in the Middle East conflict. Reports indicated that the US and Iran had reached an agreement through Pakistani mediation, while US Secretary of State Marco Rubio said there were “some good signs” that a deal to end the war in Iran could be in sight. Financial stocks advanced as easing energy pressures supported sentiment, with Itaú up 1.1% and Bradesco adding 0.5%. Vale rose 0.8%, reversing earlier losses despite lower iron ore prices. Petrobras gained 0.8% even as oil prices moved lower abroad, after the company joined the federal government’s subsidy program for petroleum-based fuel producers and importers. Steelmakers also outperformed, with CSN rising 3.4% on a stronger industry outlook and Usiminas up 2% after a Goldman Sachs upgrade. In contrast, Minerva dropped 5.4% after Itaú BBA downgraded the stock."
+    },
     {
       "id": "4893648",
       "time": "2026-05-22 05:27:53",
@@ -145727,30 +145748,6 @@
         "國際"
       ],
       "text": "美國中央情報局官員證實，情報局長拉特克利夫已在哈瓦那與卡斯特羅、古巴內政部長以及古巴情報部門負責人舉行會晤。"
-    },
-    {
-      "id": "4880652",
-      "time": "2026-05-15 05:32:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "美利迪安獲得邦尼索普太陽能發電廠建設許可。"
-    },
-    {
-      "id": "4880651",
-      "time": "2026-05-15 05:31:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息以色列總統赫爾佐格取消原定前往紐約，在哥倫比亞大學猶太神學院畢業典禮上發表演講的行程，改為線上參會。以色列總統辦公室否認此次行程取消與支援巴勒斯坦的學生抗議活動有關。"
-    },
-    {
-      "id": "4880650",
-      "time": "2026-05-15 05:30:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "週四（5月14日），美股儲存晶片與硬體供應鏈指數跌1.95%，報185.75點。成分股閃迪跌4.46%，美光、Rambus至多跌3.44%，泰瑞達、希捷科技、西部資料至多跌1.88%，應用材料則收漲0.90%，拉姆研究漲1.26%。"
     }
   ]
 }
