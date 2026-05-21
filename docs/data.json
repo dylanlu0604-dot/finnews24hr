@@ -1,7 +1,89 @@
 {
-  "updated": "2026-05-22 01:34:51",
-  "count": 16239,
+  "updated": "2026-05-22 01:38:37",
+  "count": 16244,
   "items": [
+    {
+      "id": "4893522",
+      "time": "2026-05-22 01:38:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：多名高管離職後，瑞銀擬將歐洲、中東及非洲區財富管理負責人調任中東。"
+    },
+    {
+      "id": "mkt:019e4b9d-06f1-7aa1-9580-1dc21766c179",
+      "time": "2026-05-22 01:37:22",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "30-YR U.S. TREASURY YIELD DOWN ON RUMORS OF FINAL IRAN DEAL DRAFT, LAST AT 5.101% YIELD ON 10-YR U.S. TREASURY NOTES SLIDE ON RUMORS OF FINAL IRAN DEAL, LAST AT 4.569% TWO-YR U.S. TREASURY YIELD NEAR SESSION LOW ON RUMORS OF FINAL IRAN DEAL DRAFT, LAST AT 4.061%"
+    },
+    {
+      "id": "mkt:019e4b9c-7ee0-7aa1-9580-12f2bc83b913",
+      "time": "2026-05-22 01:36:47",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "U.S. STOCKS INDEXES TURN POSITIVE; S&P 500 UP 0.13%, NASDAQ UP 0.12%, DOW UP 0.33%"
+    },
+    {
+      "id": "mkt:019e4b9c-6b7d-7aa1-9580-0a6455fb20a3",
+      "time": "2026-05-22 01:36:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. SENATE ABANDONING TRUMP DEADLINE OF PASSING IMMIGRATION ENFORCEMENT FUNDING BY JUNE 1 -REPUBLICAN SENATORS"
+    },
+    {
+      "id": "mkt:019e4b9c-59b8-7aa1-9580-02a973ce6d4f",
+      "time": "2026-05-22 01:36:38",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "US DOLLAR INDEX PARES EARLIER GAINS ON RUMORS OF FINAL DRAFT US IRAN AGREEMENT, LAST UP 0.08% AT 99.22 STERLING FLAT AT $1.3434 EURO DOWN 0.09% AT $1.1614 DOLLAR/YEN UP 0.05% AT 158.99"
+    },
+    {
+      "id": "4893521",
+      "time": "2026-05-22 01:36:31",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "受伊朗最終核協議的市場報道影響，美國30年期國債收益率<US30YT=RR>走低，最新報5.101%。"
+    },
+    {
+      "id": "4893520",
+      "time": "2026-05-22 01:36:18",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "受伊朗最終核協議的市場報道影響，10年期美國國債收益率走低，最新報4.569%。"
+    },
+    {
+      "id": "4893519",
+      "time": "2026-05-22 01:36:08",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "受伊朗最終協議草案相關報道影響，兩年期美國國債收益率逼近盤中低點，最新報4.061%。"
+    },
     {
       "id": "4893518",
       "time": "2026-05-22 01:32:27",
@@ -145920,32 +146002,6 @@
         "Dow"
       ],
       "text": "U.S. ENVIRONMENTAL PROTECTION AGENCY PROPOSES POSTPONING ENFORCEMENT OF BIDEN-ERA RULE MANDATING MAJOR REDUCTIONS IN VEHICLE AIR POLLUTION BY TWO YEARS – AGENCY"
-    },
-    {
-      "id": "mkt:019e2791-0a96-7bb5-b4d1-74723e132e6e",
-      "time": "2026-05-15 01:37:57",
-      "tags": [
-        "MKT News",
-        "DIS.O",
-        "Impact bullish"
-      ],
-      "text": "DISNEY IS PRIORITIZING SPEEDING UP GROWTH RATES UNDER ITS NEW CEO"
-    },
-    {
-      "id": "4880446",
-      "time": "2026-05-15 01:37:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄外交部：對與日方接觸持開放態度但絕不強求】當地時間5月14日，就日本政府此前發表的有關日俄關係的言論，俄羅斯外交部發言人扎哈羅娃表示，俄對與日本方面接觸持開放態度，但絕不強求。有記者提問稱，本月11日至12日，日本政府代表發表了一系列言論，稱俄方似乎正在試探開展高層接觸的可能性，以恢復對話和實際合作。對此，扎哈羅娃表示，俄外交部並未主動提出進行上述日方訊息中所提及的任何會晤，也未收到東京方面關於組織此類會晤的任何提議。正如俄方多次強調的，如果日方有意進行此類接觸，莫斯科對其持開放態度，但俄方絕不主動請求或謀求這種接觸。扎哈羅娃表示，自2022年2月以來，日本方面僅僅出於與西方團結一致的考慮，開始對俄羅斯採取敵對的制裁路線，並持續至今。正因如此，修改這一政策的第一步應當由日本自己邁出。這是俄方一貫且不變的立場，並已透過外交等渠道多次向日方代表闡明。（央視新聞）"
-    },
-    {
-      "id": "4880444",
-      "time": "2026-05-15 01:35:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "迪士尼CFO：迪士尼在新任執行長的帶領下，正著力加快業務增速。"
     }
   ]
 }
