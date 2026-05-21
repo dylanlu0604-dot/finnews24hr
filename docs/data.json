@@ -1,7 +1,83 @@
 {
-  "updated": "2026-05-21 23:58:55",
-  "count": 16183,
+  "updated": "2026-05-22 00:04:05",
+  "count": 16175,
   "items": [
+    {
+      "id": "mkt:019e4b45-7954-7aa1-957e-944291d05271",
+      "time": "2026-05-22 00:01:44",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Crypto Concepts"
+      ],
+      "text": "KRAKEN: LAUNCHES AVAX STAKING AND AUTO EARN, A SIMPLE WAY TO PUT YOUR IDLE AVAX TO WORK - BLOG"
+    },
+    {
+      "id": "mkt:019e4b44-cfd5-7aa1-957e-8b8f4defceee",
+      "time": "2026-05-22 00:01:01",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O"
+      ],
+      "text": "MICROSOFT INTRODUCING EVOLUTION OF BING IMAGE SEARCH"
+    },
+    {
+      "id": "4893431",
+      "time": "2026-05-22 00:00:23",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "房地美：美國上週30年期按揭貸款/抵押貸款利率6.51%，創2025年8月份以來新高，前值6.36%。"
+    },
+    {
+      "id": "mkt:019e4b44-38e9-7aa1-957e-822dff575df7",
+      "time": "2026-05-22 00:00:22",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US10Y",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "US MORTGAGE RATES RISE TO 6.51%, HIGHEST SINCE AUGUST"
+    },
+    {
+      "id": "mkt:019e4b44-104b-7aa1-957e-7f8f8dd11d19",
+      "time": "2026-05-22 00:00:12",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "U.S. 30-YR FIXED RATE MORTGAGE AVERAGES 6.51 PCT IN MAY 21 WEEK, HIGHEST SINCE AUG 28, 2025 WEEK, VS 6.36 PCT PRIOR WEEK-FREDDIE MAC"
+    },
+    {
+      "id": "4893430",
+      "time": "2026-05-21 23:59:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：微軟推出必應影象搜尋。"
+    },
+    {
+      "id": "4893429",
+      "time": "2026-05-21 23:58:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內漲1%，現報1390.55美元/盎司。"
+    },
     {
       "id": "te:markets:552829",
       "time": "2026-05-21 23:58:07",
@@ -145298,153 +145374,6 @@
         "Brent"
       ],
       "text": "【Trump Says Xi Told Him China Would Not Share Military Equipment With Iran】US President Donald Trump said in a Fox News interview that Chinese leader Xi Jinping told him China would not provide military equipment to Iran and expressed support for a deal and willingness to help facilitate one. Trump said Xi emphasized continued oil trade with Iran. Trump also described “positive and productive” meetings in Beijing, with both leaders agreeing the Strait of Hormuz should remain a free waterway, according to a White House readout of the talks."
-    },
-    {
-      "id": "4880392",
-      "time": "2026-05-15 00:02:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國常駐聯合國大使表示，美國不久將向聯合國常規預算再繳納一大筆分期款項。"
-    },
-    {
-      "id": "mkt:019e2739-de30-7bb5-b4d0-7acdd334f37e",
-      "time": "2026-05-15 00:02:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. U.N. AMBASSADOR WALTZ SAYS THE UNITED STATES WILL HAVE ANOTHER SUBSTANTIAL TRANCHE GOING TO ITS REGULAR U.N. BUDGET SOON"
-    },
-    {
-      "id": "4880391",
-      "time": "2026-05-15 00:02:33",
-      "tags": [
-        "央行",
-        "市場"
-      ],
-      "text": "英國央行首席經濟學家Huw Pill：  若長期英國國債收益率因暫時性政治不確定性走高，政策層面或需對沖；但若由通脹因素推動，則無需干預。"
-    },
-    {
-      "id": "mkt:019e2739-adda-7bb5-b4d0-72f2cd855e51",
-      "time": "2026-05-15 00:02:23",
-      "tags": [
-        "MKT News",
-        "BA.O",
-        "Impact bearish"
-      ],
-      "text": "BOEING SHARES FALL FURTHER, LAST DOWN 4.4%"
-    },
-    {
-      "id": "4880390",
-      "time": "2026-05-15 00:01:16",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【以色列稱以黎舉行第三輪會談 希望雙方建立正式外交關係】一位以色列政府官員14日向新華社記者證實，以色列與黎巴嫩的第三輪會談當天在美國首都華盛頓舉行。以色列希望解除黎巴嫩真主黨武裝並與黎達成建立正式外交關係的協議。\n這位不願透露姓名的以色列政府官員說，談判在美國國務院舉行。以方代表團由以色列駐美國大使萊特和高階安全官員組成；黎方代表團則包括黎巴嫩駐美大使穆阿瓦德和黎前駐美國大使卡拉姆。\n該以方官員說，此輪談判旨在解除黎真主黨武裝，並達成與黎巴嫩建立正式外交關係的協議。以色列希望在達成協議前保留對黎真主黨實施空中和地面軍事打擊的自由，而黎巴嫩則要求以色列從其領土撤軍、停止襲擊黎巴嫩，並停止破壞黎以臨時邊界附近黎巴嫩一側的村莊。\n這名以方官員還說，預計會談將於15日繼續舉行，但目前尚不清楚雙方是否已接近達成一致。（新華社）"
-    },
-    {
-      "id": "te:markets:550807",
-      "time": "2026-05-15 00:00:46",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "CAC 40 Gains as AI Optimism Boosts Tech Stocks — The CAC 40 rose 0.9% to close at 8,082 on Thursday, extending the previous session’s gains as optimism surrounding artificial intelligence continued to support sentiment. Investors also closely monitored the highly anticipated summit between US President Donald Trump and Chinese President Xi Jinping. AI-related enthusiasm strengthened after Cisco Systems reported record fiscal third-quarter 2026 results and issued a stronger-than-expected sales outlook. Technology stocks advanced, with STMicroelectronics rising 5.4%. Attention remained focused on the Trump-Xi meeting, with Xi telling US business executives that China’s door to foreign business “will only open wider and wider.” The two leaders are also expected to discuss Taiwan, Iran, and artificial intelligence. Luxury stocks were among the top performers, with LVMH gaining 1.9% and Kering rising 1.6%, while financial shares also moved higher, including Société Générale (+1.4%) and AXA (+1.5%)."
-    },
-    {
-      "id": "4880389",
-      "time": "2026-05-15 00:00:32",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "房地美：美國上週30年期按揭貸款/抵押貸款利率6.36%。"
-    },
-    {
-      "id": "mkt:019e2737-e857-7bb5-b4d0-6805224095db",
-      "time": "2026-05-15 00:00:08",
-      "tags": [
-        "MKT News",
-        "Macro & Rates"
-      ],
-      "text": "U.S. 30-YR FIXED RATE MORTGAGE AVERAGES 6.36 PCT IN MAY 14 WEEK VS 6.37 PCT PRIOR WEEK-FREDDIE MAC"
-    },
-    {
-      "id": "4880388",
-      "time": "2026-05-15 00:00:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "【古巴多省斷電】古巴電力聯盟14日通報說，當地時間14日6時09分，從中部謝戈德阿維拉省至東部關塔那摩省之間地區發生斷電。古巴能源和礦業部隨後在社交媒體上表示，謝戈德阿維拉省、卡馬圭省和拉斯圖納斯省等地已重新接入國家電力系統，仍在努力恢復其他地區的電力供應。（新華社）"
-    },
-    {
-      "id": "mkt:019e2737-e83a-7bb5-b4d0-613e036d9812",
-      "time": "2026-05-15 00:00:01",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "BA.O",
-        "Impact bullish"
-      ],
-      "text": "TRUMP TO FOX: BOEING WANTED 150, THEY GOT 200 'BIG ONES"
-    },
-    {
-      "id": "4880387",
-      "time": "2026-05-14 23:59:47",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行首席經濟學家Huw Pill：需要判斷經濟活動是否出現前置釋放。"
-    },
-    {
-      "id": "mkt:019e2737-ac6c-7bb5-b4d0-58b85376778f",
-      "time": "2026-05-14 23:59:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "BOE'S PILL: NEED TO SEE IF ACTIVITY HAS BEEN BROUGHT FORWARD"
-    },
-    {
-      "id": "mkt:019e2737-5103-7bb5-b4d0-5565e22234e2",
-      "time": "2026-05-14 23:59:31",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "The Trump Trade",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "TRUMP TO FOX: XI SAID HE DOESN'T LIKE IRAN CHARGING HORMUZ TOLL"
-    },
-    {
-      "id": "4880386",
-      "time": "2026-05-14 23:59:20",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行首席經濟學家Huw Pill： 經濟活動並未像 2008 年和 2011 年那般疲軟。"
-    },
-    {
-      "id": "mkt:019e2736-b471-7bb5-b4d0-4cd26da43212",
-      "time": "2026-05-14 23:59:15",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact bullish",
-        "FTSE100",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "BOE'S PILL: ACTIVITY NOT AS WEAK AS IN 2008 AND 2011"
     }
   ]
 }
