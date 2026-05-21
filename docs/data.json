@@ -1,7 +1,31 @@
 {
-  "updated": "2026-05-22 03:27:38",
-  "count": 16274,
+  "updated": "2026-05-22 03:31:17",
+  "count": 16272,
   "items": [
+    {
+      "id": "4893588",
+      "time": "2026-05-22 03:30:26",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "土耳其財政部：在法院作出罷免反對派領導人裁決後，該國金融穩定委員會將於週五召開會議。"
+    },
+    {
+      "id": "mkt:019e4c04-1fb3-7aa1-9581-4e1284ba4f29",
+      "time": "2026-05-22 03:29:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Pakistan Senator Says Iran-US Talks Moving in ‘Right Direction’】Pakistani Senator Afnan Ullah Khan said efforts by Islamabad to help secure an agreement between Tehran and Washington are continuing, adding that Iran-US negotiations are “moving in the right direction,” according to Iran’s state-run IRNA news agency. Khan said talks between Tehran and Islamabad, as well as between Pakistan and the US, remain ongoing, and that Pakistan is working to bring the parties to the negotiating table, reduce differences, reach an agreement and stop the war."
+    },
+    {
+      "id": "mkt:019e4c03-25a5-7aa1-9581-41a6fff1b862",
+      "time": "2026-05-22 03:28:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRAN-US TALKS ON RIGHT TRACK, SAYS PAKISTAN SENATOR – IRNA"
+    },
     {
       "id": "mkt:019e4bfb-2ae4-7aa1-9581-3e1f430a05a4",
       "time": "2026-05-22 03:20:12",
@@ -146278,48 +146302,6 @@
         "XAUUSD"
       ],
       "text": "IBRAHIM AZIZI, HEAD OF THE PARLIAMENT'S NATIONAL SECURITY COMMISSION, SAID: \"WE WARN THE ENEMIES THAT IF THEY MAKE A MISCALCULATION AND UNDERMINE OUR SECURITY, WE WILL STRIP THEM OF THEIR SECURITY WHEREVER THEY MAY BE IN THE WORLD. WE ARE READY TO DEFEAT THE ENEMY ONCE AGAIN IN THE STRAIT OF HORMUZ AND OTHER ARENAS.\""
-    },
-    {
-      "id": "4880536",
-      "time": "2026-05-15 03:30:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：以色列正沿黎巴嫩邊境對真主黨據點實施打擊。"
-    },
-    {
-      "id": "4880535",
-      "time": "2026-05-15 03:29:57",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4670美元/盎司，日內跌0.78%。"
-    },
-    {
-      "id": "4880534",
-      "time": "2026-05-15 03:29:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網正式測定：05月15日03時23分在新疆阿克蘇地區庫車市（北緯41.20度，東經83.96度）發生3.6級地震，震源深度16千米。"
-    },
-    {
-      "id": "4880533",
-      "time": "2026-05-15 03:28:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國貨幣市場基金資產增至7.749萬億美元。"
-    },
-    {
-      "id": "4880532",
-      "time": "2026-05-15 03:27:56",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "委內瑞拉央行行長將赴華盛頓與國際貨幣基金組織舉行會談。"
     }
   ]
 }
