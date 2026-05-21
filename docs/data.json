@@ -1,7 +1,24 @@
 {
-  "updated": "2026-05-22 04:42:14",
-  "count": 16235,
+  "updated": "2026-05-22 04:46:11",
+  "count": 16233,
   "items": [
+    {
+      "id": "4893629",
+      "time": "2026-05-22 04:44:50",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【Take-Two 官宣：俠盜獵車手6將於11月正式發售】遊戲巨頭Take-Two Interactive Software Inc.正式確認，備受矚目的《俠盜獵車手6》（Grand Theft Auto VI，簡稱GTA 6）將於11月19日全球發售。該作被公認為有史以來規模最宏大的電子遊戲史詩鉅作之一。Take-Two執行長Strauss Zelnick透露，《俠盜獵車手6》的全球宣發營銷攻勢將於今年夏季全面打響。屆時，玩家們也可以期待官方公佈該作的具體定價以及預售相關的核心資訊。 針對近期由於全球晶片短缺導致主機硬體廠商紛紛上調主機售價的行業現狀，Zelnick直言這“確實不是什麼好訊息”，但他強調，自己並不認為在《俠盜獵車手6》正式上市前，整個遊戲行業會面臨任何足以顛覆局面的嚴峻挑戰。"
+    },
+    {
+      "id": "4893628",
+      "time": "2026-05-22 04:43:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "Take-Two高管：除《GTA VI》外，公司計劃在2027財年推出6款遊戲作品。"
+    },
     {
       "id": "4893627",
       "time": "2026-05-22 04:41:03",
@@ -145928,43 +145945,6 @@
         "國際"
       ],
       "text": "市場訊息：伊朗與印度在新德里會談中商討地區緊張局勢。"
-    },
-    {
-      "id": "4880607",
-      "time": "2026-05-15 04:44:44",
-      "tags": [
-        "公司",
-        "資料",
-        "觀點",
-        "其他"
-      ],
-      "text": "【5月15日美股成交額前20：博通市值首次突破2萬億美元】週四美股成交額第11名博通收高5.52%，股價創歷史新高，成交83.68億美元，市值首次突破2萬億美元。Wolfe Research重申對英偉達、博通及邁威爾科技的“跑贏大市”評級，並補充稱英偉達仍是最看好的投資標的，該股的近期跑輸並未改變對其基本面的判斷。分析師Chris Caso表示，此前令AI運算股承壓的雲端資本支出疑慮，在各大科技巨頭公佈強勁的第一季業績後已大幅消散，超大規模雲端服務商的支出預測持續上調。"
-    },
-    {
-      "id": "4880606",
-      "time": "2026-05-15 04:44:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "古巴方面表示允許由拉特克利夫率領的美國中央情報局代表團訪問。"
-    },
-    {
-      "id": "4880605",
-      "time": "2026-05-15 04:42:55",
-      "tags": [
-        "市場"
-      ],
-      "text": "【紐約股市三大股指14日上漲】紐約股市三大股指14日上漲。截至當天收盤，道瓊斯工業平均指數比前一交易日上漲370.26點，收於50063.46點，漲幅為0.75%；標準普爾500種股票指數上漲56.99點，收於7501.24點，漲幅為0.77%；納斯達克綜合指數上漲232.88點，收於26635.22點，漲幅為0.88%。板塊方面，標普500指數十一大板塊六漲五跌。科技板塊和能源板塊分別以1.85%和0.77%的漲幅領漲，材料板塊和房地產板塊分別以0.80%和0.59%的跌幅領跌。（新華社）"
-    },
-    {
-      "id": "mkt:019e283a-272a-7bb5-b4d2-cfd24d7a59cc",
-      "time": "2026-05-15 04:42:40",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【SpaceX IPO Prospectus Could Be Released Next Week Ahead of Record Listing】SpaceX plans to publicly release its IPO prospectus as soon as next week ahead of a targeted June 8 roadshow, according to people familiar with the matter. The offering could become the largest IPO on record after SpaceX merged with xAI in February at a combined $1.25 trillion valuation. Bloomberg previously reported the company was targeting a $70 billion to $75 billion listing size. Advisers are also seeking broader international retail participation as investor demand for AI-linked IPOs accelerates."
     }
   ]
 }
