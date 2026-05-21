@@ -1,7 +1,183 @@
 {
-  "updated": "2026-05-22 00:20:34",
-  "count": 16213,
+  "updated": "2026-05-22 00:24:45",
+  "count": 16228,
   "items": [
+    {
+      "id": "4893474",
+      "time": "2026-05-22 00:23:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：可能會出席兒子的婚禮，但必須處理伊朗問題。"
+    },
+    {
+      "id": "mkt:019e4b59-0332-7aa1-957f-836696bb90e7",
+      "time": "2026-05-22 00:23:03",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "WTI",
+        "Impact mixed"
+      ],
+      "text": "BARKIN: U.S. MAY BE 'SOMEWHAT IMMUNE' TO OIL-PRICE SHOCKS"
+    },
+    {
+      "id": "4893473",
+      "time": "2026-05-22 00:22:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：人工智慧行政令可能阻礙美國在人工智慧領域保持領先地位。"
+    },
+    {
+      "id": "4893472",
+      "time": "2026-05-22 00:21:44",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲巴爾金：美國或對油價衝擊“具備一定免疫力”。"
+    },
+    {
+      "id": "4893471",
+      "time": "2026-05-22 00:21:35",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲巴爾金：通脹衝擊的持續性可能會對教科書式的“觀望”政策思路構成挑戰。"
+    },
+    {
+      "id": "4893470",
+      "time": "2026-05-22 00:21:22",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "美聯儲巴爾金：當前政策處於有利位置，可應對持續衝擊。"
+    },
+    {
+      "id": "4893469",
+      "time": "2026-05-22 00:21:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：摧毀了伊朗98%的導彈能力。可能需要在伊朗採取非常激烈的措施。我們不會允許伊朗擁有核武器。"
+    },
+    {
+      "id": "4893468",
+      "time": "2026-05-22 00:21:01",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲巴爾金：目前來看，長期通脹預期似乎仍得到控制。"
+    },
+    {
+      "id": "4893467",
+      "time": "2026-05-22 00:20:53",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲巴爾金：過去，對供應衝擊採取觀望的政策一直成效良好，但不難預見，未來局勢將更具挑戰性，衝擊也會更頻發。"
+    },
+    {
+      "id": "4893466",
+      "time": "2026-05-22 00:20:44",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲巴爾金：消費者“不開心”但仍繼續消費；迄今為止企業一直透過自然減員而非裁員來實現生產率提升。"
+    },
+    {
+      "id": "mkt:019e4b56-dbfe-7aa1-957f-798cbe9cd0b4",
+      "time": "2026-05-22 00:20:42",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "TRUMP: DISCUSSED AI SAFEGUARDS WITH CHINA'S XI"
+    },
+    {
+      "id": "4893465",
+      "time": "2026-05-22 00:20:33",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲巴爾金：美聯儲是否需要加息，取決於企業和消費者對不斷演變的形勢作何反應。"
+    },
+    {
+      "id": "mkt:019e4b56-b45e-7aa1-957f-72240c353c0f",
+      "time": "2026-05-22 00:20:33",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "BARKIN: WHETHER THE FED NEEDS TO HIKE RATES DEPENDS ON HOW BUSINESSES, CONSUMERS REACT TO DEVELOPING CONDITIONS"
+    },
+    {
+      "id": "mkt:019e4b56-b13e-7aa1-957f-6dab3059c8d2",
+      "time": "2026-05-22 00:20:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BARKIN: CONSUMERS ARE “NOT HAPPY” BUT CONTINUE TO SPEND; BUSINESSES ARE SO FAR MANAGING PRODUCTIVITY IMPROVEMENTS THROUGH ATTRITION AND NOT LAYOFFS"
+    },
+    {
+      "id": "mkt:019e4b56-9169-7aa1-957f-60527a1be3dc",
+      "time": "2026-05-22 00:20:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BARKIN: POLICY OF LOOKING THROUGH SUPPLY SHOCKS HAS WORKED WELL IN THE PAST, BUT EASY TO SEE MORE CHALLENGING CONDITIONS AND MORE FREQUENT SHOCKS IN THE FUTURE"
+    },
+    {
+      "id": "mkt:019e4b56-830e-7aa1-957f-5f707262358e",
+      "time": "2026-05-22 00:20:20",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "BARKIN: SO FAR LONG-TERM INFLATION EXPECTATIONS APPEAR TO REMAIN CONTAINED"
+    },
+    {
+      "id": "mkt:019e4b56-7839-7aa1-957f-52e828127207",
+      "time": "2026-05-22 00:20:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "FED’S BARKIN: CURRENT POLICY IN A GOOD PLACE TO RESPOND TO ONGOING SHOCKS"
+    },
+    {
+      "id": "4893464",
+      "time": "2026-05-22 00:20:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談人工智慧行政令：我因不認同其中部分內容，已將其推遲釋出。"
+    },
     {
       "id": "mkt:019e4b56-2670-7aa1-957f-4bda27096549",
       "time": "2026-05-22 00:19:57",
@@ -145684,38 +145860,6 @@
         "國際"
       ],
       "text": "美國中央司令部：伊朗不再擁有威脅重大地區行動和我們空中、海上行動自由的手段。我們已癱瘓82%的伊朗防空導彈系統。伊朗的部隊和防空系統在功能和作戰上已變得毫無意義。我們還削弱了伊朗在生產彈道導彈和無人機方面的工業和技術能力。"
-    },
-    {
-      "id": "te:economy:550819",
-      "time": "2026-05-15 00:24:43",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "30 Year Mortgage Rate",
-        "Importance 1"
-      ],
-      "text": "US Mortgage Rates Hold Rebound: Freddie Mac — The average rate on a 30-year fixed-mortgage was at 6.36% as of May 14th, one basis point below the one-month high in the previous week to hold most of the rebound since the start of the year. Mortgage rates tracked the increase in long-dated Treasury yields during the period as a surge in energy prices placed inflationary risks on the upside, potentially warranting a hawkish Federal Reserve. “While purchase demand is softening, it remains above this time last year. Recent data also shows existing-home sales modestly edging up.” said Sam Khater, Freddie Mac’s Chief Economist."
-    },
-    {
-      "id": "4880402",
-      "time": "2026-05-15 00:24:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防軍：作為針對無人機威脅應對體系完善與擴容工作的一部分，以軍由陸軍技術部門牽頭，正向部署在黎巴嫩的部隊配發防禦爆炸無人機的防護網。"
-    },
-    {
-      "id": "te:markets:550817",
-      "time": "2026-05-15 00:22:29",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "currency",
-        "Importance 1"
-      ],
-      "text": "British Pound Hits 4-week Low — GBPUSD decreased to 1.34, the lowest since April 2026. Over the past 4 weeks, British Pound US Dollar lost 0.81%, and in the last 12 months, it increased 1.1%."
     }
   ]
 }
