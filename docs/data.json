@@ -1,7 +1,18 @@
 {
-  "updated": "2026-05-22 02:23:44",
+  "updated": "2026-05-22 02:27:25",
   "count": 16277,
   "items": [
+    {
+      "id": "te:markets:552855",
+      "time": "2026-05-22 02:25:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Barley Slumps by 9.85% — Top commodity losers are Barley (-9.85%), Cotton (-4.72%) and Cocoa (-3.75%). Gains are led by Orange Juice (6.34%), Coffee (1.57%) and Sugar (1.15%)."
+    },
     {
       "id": "4893561",
       "time": "2026-05-22 02:22:47",
@@ -146316,17 +146327,6 @@
         "市場"
       ],
       "text": "上期所原油期貨夜盤收跌0.30%，報631.90元人民幣/桶。滬金夜盤收跌0.32%，滬銀收跌3.54%。"
-    },
-    {
-      "id": "te:markets:550828",
-      "time": "2026-05-15 02:25:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Orange Juice Tumbles by 5.23% — Top commodity losers are Orange Juice (-5.23%), Cocoa (-3.87%) and Cotton (-3.18%). Gains are led by Rubber (4.42%), Barley (4.14%) and Lumber (1.13%)."
     }
   ]
 }
