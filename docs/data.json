@@ -1,7 +1,37 @@
 {
-  "updated": "2026-05-22 02:04:57",
-  "count": 16275,
+  "updated": "2026-05-22 02:08:39",
+  "count": 16272,
   "items": [
+    {
+      "id": "te:markets:552851",
+      "time": "2026-05-22 02:07:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Crude Prices Turn Negative — Brent crude futures futures fell more than 2% in afternoon trading after climbing as much as 3% earlier in the session, as investors grew increasingly hopeful that the conflict involving Iran could ease. US Secretary of State Marco Rubio said there were “some encouraging signs” of a potential agreement with Iran, according to the Financial Times. Rubio added that Pakistani mediators are expected to travel to Iran while Tehran reviews Washington’s latest proposal. Earlier, Reuters reported that Iran’s Supreme Leader had directed that the country’s near-weapons-grade uranium should not be sent abroad, hardening Tehran’s stance on one of Washington’s key demands in the negotiations. Despite today’s pullback, oil prices remain nearly 50% above pre-war levels, supported by ongoing supply tightness. In the United States, nearly 10 million barrels were withdrawn from the Strategic Petroleum Reserve last week, marking the largest release on record."
+    },
+    {
+      "id": "4893553",
+      "time": "2026-05-22 02:07:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "國際油價持續走低；三大指數持續拉昇；成分股中ARM漲超13%，Lumentum、BE漲約12%，閃迪漲超9%，美光漲近4%。"
+    },
+    {
+      "id": "te:markets:552850",
+      "time": "2026-05-22 02:06:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Crude Oil Prices Fall — WTI crude futures fell more than 2% in afternoon trading after climbing as much as 3% earlier in the session, as investors grew increasingly hopeful that the conflict involving Iran could ease. US Secretary of State Marco Rubio said there were “some encouraging signs” of a potential agreement with Iran, according to the Financial Times. Rubio added that Pakistani mediators are expected to travel to Iran while Tehran reviews Washington’s latest proposal. Earlier, Reuters reported that Iran’s Supreme Leader had directed that the country’s near-weapons-grade uranium should not be sent abroad, hardening Tehran’s stance on one of Washington’s key demands in the negotiations. Despite today’s pullback, oil prices remain nearly 50% above pre-war levels, supported by ongoing supply tightness. In the United States, nearly 10 million barrels were withdrawn from the Strategic Petroleum Reserve last week, marking the largest release on record."
+    },
     {
       "id": "4893552",
       "time": "2026-05-22 02:02:28",
@@ -146247,55 +146277,6 @@
         "The Trump Trade"
       ],
       "text": "TRUMP: EXPECTED TO SIGN CLARITY ACT INTO LAW"
-    },
-    {
-      "id": "mkt:019e27ab-4092-7bb5-b4d1-d43db9def1f6",
-      "time": "2026-05-15 02:05:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CDC SAYS MOST PEOPLE UNDER MONITORING SHOULD STAY AT HOME, AVOID PEOPLE DURING 42 DAY MONITORING PEOPLE"
-    },
-    {
-      "id": "mkt:019e27aa-f237-7bb5-b4d1-cbdfa5238865",
-      "time": "2026-05-15 02:05:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CDC SAYS THERE ARE 41 PEOPLE IN U.S. WHO ARE BEING MONITORED FOR HANTAVIRUS"
-    },
-    {
-      "id": "mkt:019e27aa-55ef-7bb5-b4d1-c4967540f7d7",
-      "time": "2026-05-15 02:05:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "NY PLANS NEW TAX ON CITY HOMES OVER $1 MILLION BOUGHT WITH CASH"
-    },
-    {
-      "id": "em:qqyh_mlc:202605153737851969",
-      "time": "2026-05-15 02:05:14",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【美聯儲理事斯蒂芬·米蘭向總統遞交辭呈】美聯儲理事斯蒂芬·米蘭向總統遞交辭呈，將在凱文·沃什宣誓就任主席之日或之前不久生效。"
-    },
-    {
-      "id": "mkt:019e27a9-fbfb-7bb5-b4d1-bacb9da44815",
-      "time": "2026-05-15 02:05:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "STARMER WON'T STOP BURNHAM FROM SEEKING PARLIAMENT SEAT: PERSON"
-    },
-    {
-      "id": "4880470",
-      "time": "2026-05-15 02:05:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "紐約擬對100 萬美元以上現金購置的市內住宅徵收新稅。"
     }
   ]
 }
