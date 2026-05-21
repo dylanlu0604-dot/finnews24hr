@@ -1,7 +1,54 @@
 {
-  "updated": "2026-05-22 03:35:02",
-  "count": 16270,
+  "updated": "2026-05-22 03:38:47",
+  "count": 16274,
   "items": [
+    {
+      "id": "4893592",
+      "time": "2026-05-22 03:38:05",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國投資公司協會資料：貨幣基金資產規模增至 7.77 萬億美元。"
+    },
+    {
+      "id": "4893591",
+      "time": "2026-05-22 03:35:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "挪威天然氣運營公司 Gassco 調整 5 月 21 日至 22 日天然氣檢修減產規模，由原先 4300 萬立方米下調至 3300 萬立方米。"
+    },
+    {
+      "id": "mkt:019e4c08-d586-7aa1-9581-5df4479ef66a",
+      "time": "2026-05-22 03:35:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TEMPORARY REMOVAL OF FRANCESCA ALBANESE FROM U.S. TREASURY'S SDN LIST DOES NOT REFLECT A CHANGE IN POLICY - STATE DEPT SPOKESPERSON"
+    },
+    {
+      "id": "mkt:019e4c08-b7db-7aa1-9581-568464228656",
+      "time": "2026-05-22 03:35:00",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "U.S. GOVERNMENT HAS APPEALED TO COURT ORDER AND WILL PUT BACK U.S. SANCTIONS ON ALBANESE IF COURT OVERTURNS ORDER - STATE DEPT SPOKESPERSON"
+    },
+    {
+      "id": "4893590",
+      "time": "2026-05-22 03:34:49",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院發言人：美國政府已就法院裁定提起上訴，若裁決被推翻，將恢復對阿爾巴內塞的制裁。"
+    },
     {
       "id": "4893589",
       "time": "2026-05-22 03:31:12",
@@ -146272,14 +146319,6 @@
         "MKT News"
       ],
       "text": "UK DOWNING STREET: JAMES MURRAY HAS BEEN APPOINTED SECRETARY OF STATE FOR HEALTH AND SOCIAL CARE"
-    },
-    {
-      "id": "4880538",
-      "time": "2026-05-15 03:36:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防軍本土前線司令部已宣佈以色列北部拉響火箭彈警報的區域解除警報，此前真主黨發起了火箭彈襲擊。"
     }
   ]
 }
