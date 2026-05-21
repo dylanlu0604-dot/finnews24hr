@@ -1,7 +1,68 @@
 {
-  "updated": "2026-05-22 02:12:28",
+  "updated": "2026-05-22 02:16:11",
   "count": 16274,
   "items": [
+    {
+      "id": "te:markets:552853",
+      "time": "2026-05-22 02:15:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural Gas EU Plunges by 6.51% — Top commodity losers are Natural Gas EU (-6.51%), Heating Oil (-3.01%), Gasoline (-2.67%), Brent Crude Oil (-1.79%) and Crude Oil WTI (-1.36%). Gains are led by Natural gas (0.62%)."
+    },
+    {
+      "id": "te:markets:552852",
+      "time": "2026-05-22 02:15:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Recover — US equities turned higher in the afternoon trading, reversing losses from earlier in the session as investors grew increasingly hopeful that the conflict involving Iran could come to an end. US Secretary of State Marco Rubio said there were \"some encouraging signs\" of a potential agreement with Iran, the Financial Times reported. Rubio said Pakistani mediators are expected to travel to Iran while Tehran considers Washington's latest proposal. Meanwhile, on the corporate front, Nvidia shares declined despite beating earnings expectations and increasing its dividend, as its guidance for the upcoming quarter did not meet the upper range of analysts' estimates, which were common in past quarters. Also, Intuit was down almost 20% as it would reduce its workforce by 17%. Finally, Walmart sunk more than 6% despite beating the headline earnings metrics for the last quarter, pressured by a warning that higher fuel costs may hurt the business if sustained for longer."
+    },
+    {
+      "id": "mkt:019e4bbe-8794-7aa1-9580-d7df27d048d5",
+      "time": "2026-05-22 02:13:58",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "AL-ARABIYA, QUOTING A SENIOR OFFICIAL OF THE ISLAMIC REPUBLIC, REPORTED THAT \"MOJTABA KHAMENEI HAS MADE HIS FINAL DECISION NOT TO HAND OVER URANIUM TO WASHINGTON.\""
+    },
+    {
+      "id": "4893557",
+      "time": "2026-05-22 02:13:57",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "市場訊息：美國證券交易委員會與全國期貨協會簽署諒解備忘錄，進一步統籌監管協作。"
+    },
+    {
+      "id": "4893556",
+      "time": "2026-05-22 02:12:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "古巴外交部長：美國蓄意製造民眾困境，致使經濟陷入崩塌。"
+    },
+    {
+      "id": "4893555",
+      "time": "2026-05-22 02:11:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "古巴外交部長：美國國務卿魯比奧清楚單邊強制措施是阻礙古巴經濟發展的主要因素。"
+    },
     {
       "id": "mkt:019e4bbb-af2e-7aa1-9580-cfd3a4799941",
       "time": "2026-05-22 02:10:51",
@@ -146238,64 +146299,6 @@
         "其他"
       ],
       "text": "XAI 正式推出 Grok Build 早期測試版。"
-    },
-    {
-      "id": "mkt:019e27b3-4be0-7bb5-b4d2-02204c424397",
-      "time": "2026-05-15 02:15:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IRAQI: WE AFFIRM THE IMPORTANCE OF DIALOGUE AND COOPERATION BETWEEN THE COUNTRIES OF THE REGION, CONSIDERING THEM THE GUARANTEE FOR SUSTAINABLE SECURITY AND STABILITY IN THE GULF"
-    },
-    {
-      "id": "mkt:019e27b3-3207-7bb5-b4d1-fb40c4905d21",
-      "time": "2026-05-15 02:15:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IRAQI: THE COUNTRIES OF THE REGION HAVE COME TO REALIZE TODAY, MORE THAN EVER BEFORE, THAT REGIONAL SECURITY IS INTERCONNECTED WITH ONE ANOTHER"
-    },
-    {
-      "id": "te:markets:550826",
-      "time": "2026-05-15 02:15:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Natural Gas EU Gains by 1.50% — Top commodity gainers are Natural Gas EU (1.50%), Natural Gas UK (1.25%), Coking Coal (1.13%), Brent Crude Oil (0.40%) and Crude Oil WTI (0.34%). Biggest loser is Heating Oil (-1.17%)."
-    },
-    {
-      "id": "mkt:019e27b2-db70-7bb5-b4d1-f544fe27827a",
-      "time": "2026-05-15 02:14:53",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "IRAQI: REGIONAL COUNTRIES REALIZE TODAY THAT IT IS NOT POSSIBLE TO RELY ON AMERICA AND THE ISRAELI ENTITY TO ENSURE SECURITY"
-    },
-    {
-      "id": "4880474",
-      "time": "2026-05-15 02:14:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國疾控中心（CDC）：美國目前還沒有漢坦病毒感染者。"
-    },
-    {
-      "id": "mkt:019e27b2-51b1-7bb5-b4d1-eb1de0639363",
-      "time": "2026-05-15 02:14:18",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "IRAN WAR SAPS MONEY FROM OTHER PENTAGON NEEDS, LEADERS WARN - WSJ"
     }
   ]
 }
