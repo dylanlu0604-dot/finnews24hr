@@ -1,7 +1,137 @@
 {
-  "updated": "2026-05-21 16:52:46",
-  "count": 15929,
+  "updated": "2026-05-21 16:56:44",
+  "count": 15930,
   "items": [
+    {
+      "id": "te:economy:552692",
+      "time": "2026-05-21 16:55:56",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Lebanon",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Lebanon Inflation Rate at 19-Month High — The annual inflation rate in Lebanon rose to 20.0% in April 2026, accelerating from 17.3% in the previous month. This marked the highest reading since September 2024, mainly driven by faster price growth in housing and utilities (26.3% vs 20.3% in March), transportation (33.3% vs 24.8%), clothing and footwear (4.9% vs 2.4%), alcoholic beverages and tobacco (10.6% vs 8.7%), furnishings, household equipment, and routine household maintenance (6.1% vs 5.1%), restaurants and hotels (16.0% vs 11.3%), and miscellaneous goods and services (15.1% vs 14.6%). At the same time, costs remained steady for health (2.2%) and education (-35.7%). Meanwhile, inflation moderated for food and non-alcoholic beverages (18.0% vs 19.4%) and recreation, amusement, and culture (42.2% vs 42.7%). On a monthly basis, consumer prices rose 3.0%, easing from 4.9% in the previous month."
+    },
+    {
+      "id": "4892363",
+      "time": "2026-05-21 16:55:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國眾議院應用委員會今天舉行聽證會，交通部長達菲出席。"
+    },
+    {
+      "id": "te:markets:552691",
+      "time": "2026-05-21 16:55:37",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Oil Prices Back on the Rise — WTI crude futures rose on Thursday to around $99.5 a barrel, after falling nearly 6% over the previous two sessions, as traders cautiously weighed the possibility of a US–Iran deal that could reopen the Strait of Hormuz. However, sentiment remained fragile amid persistent uncertainty and mixed signals from both sides. Iran said it was reviewing the latest US proposal to end the conflict, after President Trump indicated he was willing to wait a few more days to “get the right answers” from Tehran. Meanwhile, Iran announced the creation of a “Persian Gulf Strait Authority,” stating that a “controlled maritime zone” would be enforced in the Strait of Hormuz. Oil prices remain elevated, nearly 50% above pre-war levels, supported by supply tightness and ongoing US inventory drawdowns. The country withdrew nearly 10 million barrels from its Strategic Petroleum Reserve last week, marking the largest release on record."
+    },
+    {
+      "id": "4892362",
+      "time": "2026-05-21 16:55:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【百奧泰：烏司奴單抗注射液獲藥品註冊證書】百奧泰公告，近日收到國家藥品監督管理局核准簽發的烏司奴單抗注射液（BAT2206，商品名：艾沙力®）和烏司奴單抗注射液（靜脈輸注）（BAT2206，商品名：喜沙立®）的《藥品註冊證書》。艾沙力®規格為45 mg（0.5mL）/支、90 mg（1mL）/支，適應症為成人斑塊狀銀屑病、兒童斑塊狀銀屑病、克羅恩病；喜沙立®規格為130 mg（26mL）/瓶，適應症為克羅恩病。"
+    },
+    {
+      "id": "mkt:019e49be-d846-7cc6-801c-f45ee1b16755",
+      "time": "2026-05-21 16:55:02",
+      "tags": [
+        "MKT News",
+        "005930.KS",
+        "Impact mixed"
+      ],
+      "text": "【Samsung Chip Staff Could Receive $26.6 Billion in Bonuses After Labor Deal】Samsung Electronics could distribute about 40 trillion won ($26.6 billion) in bonuses to semiconductor employees this year after reaching a last-minute agreement with labor unions to avoid a strike. Samsung’s chip division employs about 78,000 people, with average payouts estimated at 513 million won per worker based on proposed terms and projected 2026 operating profit. Estimates cited by Yonhap News suggest employees in the memory division could receive around 600 million won each amid strong demand in the sector."
+    },
+    {
+      "id": "4892361",
+      "time": "2026-05-21 16:54:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "同程旅行<0780.HK>稱一季度收入同比增加14.4%。"
+    },
+    {
+      "id": "4892360",
+      "time": "2026-05-21 16:54:32",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【東芯股份今日跌15.81%，成交額69.88億元，換手率10.62%】東芯股份今日跌15.81%，成交額69.88億元，換手率10.62%，盤後龍虎榜資料顯示，滬股通專用席位買入3.58億元並賣出5.92億元。"
+    },
+    {
+      "id": "4892359",
+      "time": "2026-05-21 16:54:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "【愛爾蘭總統之妹遭以色列扣押】當地時間5月18日，以色列海軍攔截了前往加沙的人道主義援助船隊“全球堅韌船隊”，並逮捕了多名船員，其中就包括愛爾蘭總統的妹妹、愛爾蘭活動家瑪格麗特·康諾利。船隊組織方19日釋出了一段康諾利此前錄製的影片，她在影片中表示，該影片被髮布就意味著她已被以軍扣押。（CCTV國際時訊）"
+    },
+    {
+      "id": "4892358",
+      "time": "2026-05-21 16:53:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【晨光股份：董事長提議5億-10億元回購股份用於激勵】晨光股份公告稱，公司董事長、實際控制人陳湖文於5月21日提議公司使用自有資金以集中競價交易方式回購股份，用於股權激勵或員工持股計劃。回購資金總額不低於5億元，不超過10億元，回購期限自董事會審議透過方案之日起不超12個月。陳湖文在提議前6個月內無買賣公司股份情況，回購期間暫無增減持計劃，其承諾推動董事會審議並投贊成票。該回購事宜尚需履行審批程式，存在不確定性。"
+    },
+    {
+      "id": "te:economy:552689",
+      "time": "2026-05-21 16:53:50",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Slovenia",
+        "Consumer Confidence",
+        "Importance 1"
+      ],
+      "text": "Slovenia Consumer Morale Improves in May — The consumer confidence indicator in Slovenia increased by 4 percentage points month-on-month to -28 in May 2026, improving from a thirty-month low of -32 in the previous month. Households expressed less pessimism about their expectations for the general economic outlook over the next twelve months (-35 vs -47 in April), alongside their personal financial outlook over the same period (-20 vs -27). Assessments also improved regarding households’ financial situation over the year (-20 vs -22), while views on the general economic situation over the same period remained unchanged (-43). On the other hand, expectations for major purchases over the next twelve months deteriorated slightly (-35 vs -34), as did assessments of major purchases at present (-31 vs -30)."
+    },
+    {
+      "id": "4892357",
+      "time": "2026-05-21 16:53:40",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【Palantir就核心情報合同與美國國防部產生爭端】一份檔案顯示，Palantir公司正與美國國防部下屬國防情報局對峙，力爭獲得競標資料分析師系統現代化專案合同的資格。事件影響：Palantir原本在美國國防部已佔據龐大業務份額，此次若成功入局，業務版圖或將進一步延伸至這家專職對外軍事情報研判、服務備戰與作戰決策的核心機構。爭端內情：Palantir在異議申訴中指出，國防情報局拒絕選用商用成熟方案推進資料分析系統升級，此舉既浪費納稅人資金，也涉嫌違反相關法規。國防情報局八年前啟動 ** 機器輔助快速分析儲存系統（MARS）** 專案，多年來持續研發，旨在替換冷戰時期遺留的老舊系統。Palantir稱，該局執意斥資從零自研這套系統，不僅成效不穩，遠不如直接採用成熟商用方案高效。Palantir方面暫未置評，國防情報局也尚未作出回應。"
+    },
+    {
+      "id": "4892356",
+      "time": "2026-05-21 16:53:07",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【華東醫藥：子公司兩款烏司奴單抗注射液獲批用於克羅恩病】華東醫藥公告稱，其全資子公司杭州中美華東製藥有限公司收到國家藥監局核准簽發的《藥品註冊證書》及《藥品補充申請批准通知書》，烏司奴單抗注射液（靜脈輸注）（商品名：賽捷寧®）和烏司奴單抗注射液（商品名：賽樂信®）用於克羅恩病的上市許可申請和補充申請獲批。截至目前，公司在該專案（克羅恩病適應症）研發直接投入約1.60億元。此次獲批對公司未來業績提升有積極作用，但藥品銷售受多種因素影響，對利潤影響有不確定性。"
+    },
+    {
+      "id": "4892355",
+      "time": "2026-05-21 16:52:45",
+      "tags": [
+        "央行",
+        "市場",
+        "國際"
+      ],
+      "text": "【“不可能”正在變成現實：伊朗戰爭引發亞洲貨幣與債券市場極端看空情境】伊朗戰爭正在不斷加大對亞洲新興市場的壓力，推動一些貨幣匯率和債券收益率逼近過去被認為不太可能出現的水平。隨著衝突持續，一些分析師開始推演更極端的看跌情境。其中包括：印度盧比可能貶值至1美元兌100盧比，印尼盾可能跌至1美元兌18,000印尼盾，菲律賓比索可能貶至1美元兌65比索。高企的能源價格正在推升通脹，並拖累依賴進口的經濟體。債券市場同樣承受壓力。印度基準國債收益率可能重新測試2022年高點，而菲律賓貨幣市場協會負責人表示，菲律賓債券收益率可能升向8%，創下數年來高位。自2月底戰爭爆發以來，亞洲市場正受到原油價格上漲超過40%的衝擊。印度、印度尼西亞和菲律賓受到的衝擊尤為嚴重，因為這些國家依賴外國資本來彌補經常賬戶赤字。與此同時，美國國債收益率上升進一步削弱了新興市場資產的吸引力，迫使各國央行即便在戰爭拖累經濟增長的情況下收緊貨幣政策。"
+    },
+    {
+      "id": "4892354",
+      "time": "2026-05-21 16:52:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國晟科技：子公司安徽國晟新能源科技有限公司涉及一起金額約 5184.62萬元的訴訟案件】國晟科技公告，子公司安徽國晟新能源科技有限公司涉及一起金額約 5184.62萬元的訴訟案件。原告江蘇大航電氣貿易有限公司訴稱，被告一向原告購買價值 5124.69萬元的單晶電池片，貨款的付款期限已於 2026年 3月 16日全部到期，但被告一未支付任何合同價款。原告請求判令被告一立即償還貨款本金及逾期付款違約金合計 5184.62萬元，並要求被告二承擔連帶清償責任，同時確認原告對被告三持有的國晟科技 2210萬股股份享有質權。"
+    },
     {
       "id": "4892353",
       "time": "2026-05-21 16:52:00",
@@ -143261,121 +143391,6 @@
         "市場"
       ],
       "text": "【愛柯迪：2025年營收74.13億元 2026年一季度淨利潤同比降14.89%】愛柯迪公告稱，2025年公司實現營業收入74.13億元，同比增長9.89%，歸母淨利潤11.71億元，同比增長24.69%。2026年第一季度營收同比增長15.40%，淨利潤同比下降14.89%，主要因匯率波動、原材料價格上漲、新業務開拓費用增加。此外，公司已回購股份606.82萬股，支付總金額1.00億元，將擇機實施新一期股權激勵計劃。墨西哥工廠訂單充足，安徽含山生產基地已運營。"
-    },
-    {
-      "id": "4879609",
-      "time": "2026-05-14 16:56:29",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【2連板昂利康：目前經營情況正常，內外部經營環境未發生重大變化】昂利康5月14日釋出公告，公司股票連續2個交易日（2026年5月13日、2026年5月14日）收盤價格漲幅偏離值累計超過20%，屬於股票交易異常波動情形。 經核實，公司目前經營情況正常，主營業務未發生變化，內外部經營環境未發生重大變化；公司未發現近期公共傳媒報道了可能或已經對公司股票交易價格產生較大影響的未公開重大資訊；公司控股股東和實際控制人在股票交易異常波動期間不存在買賣公司股票的行為。"
-    },
-    {
-      "id": "4879608",
-      "time": "2026-05-14 16:56:12",
-      "tags": [
-        "市場"
-      ],
-      "text": "【正帆科技今日漲19.99%，1家機構專用席位淨買入1.17億元】正帆科技今日漲19.99%，成交額19.98億元，換手率15.73%，盤後龍虎榜資料顯示，滬股通專用席位買入1.57億元並賣出1.01億元，1家機構專用席位淨買入1.17億元。"
-    },
-    {
-      "id": "4879607",
-      "time": "2026-05-14 16:55:42",
-      "tags": [
-        "市場"
-      ],
-      "text": "【長盈通今日漲19.94%，1家機構專用席位淨買入2.81億元】長盈通今日漲19.94%，成交額20.06億元，換手率18.54%，盤後龍虎榜資料顯示，滬股通專用席位買入1.39億元並賣出7841.48萬元，1家機構專用席位淨買入2.81億元，有1家機構專用席位淨賣出1.71億元。"
-    },
-    {
-      "id": "4879606",
-      "time": "2026-05-14 16:55:38",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【烏稱俄大規模襲擊已致11個地區停電】當地時間14日，烏克蘭能源部與烏克蘭國家電力公司聯合報告稱，俄羅斯發動的大規模襲擊已導致11個地區發生停電。烏克蘭國家電力公司表示：“俄羅斯對包括能源部門在內的關鍵基礎設施發動了大規模導彈和無人機襲擊。”目前，電力工程師正在全力開展搶修工作，力爭儘快恢復所有使用者的電力供應。（央視新聞）"
-    },
-    {
-      "id": "4879605",
-      "time": "2026-05-14 16:55:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄稱攔截和擊毀36架烏無人機】 俄羅斯國防部14日通報稱，莫斯科時間13日21時到14日早晨7時，俄羅斯防空系統在莫斯科州、別爾哥羅德州等多地共攔截和擊毀了36架烏克蘭無人機。烏克蘭空軍14日通報稱，監測到包括“匕首”高超音速導彈在內的大量俄方來襲目標，烏軍共擊落和電子戰壓制了41枚導彈和652架無人機。烏克蘭官方稱，襲擊導致基輔市3人死亡。（央視）"
-    },
-    {
-      "id": "te:markets:550672",
-      "time": "2026-05-14 16:54:52",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "British American Tobacco Stock Price Hits 8-year High — British American Tobacco shares increased to 4895.00 GBp, the highest since January 2018. Over the past 4 weeks, British American Tobacco gained 16.41%, and in the last 12 months, it increased 58.86%."
-    },
-    {
-      "id": "mkt:019e25b2-2de9-7aa5-b401-46a7681b880a",
-      "time": "2026-05-14 16:54:42",
-      "tags": [
-        "MKT News",
-        "STAN.L",
-        "Impact bullish"
-      ],
-      "text": "STANDARD CHARTERED BOUGHT BACK 801,239 TOTAL SHARES ON OTHER EXCHANGES FOR GBP15 MLN ON MAY 13 - HKEX"
-    },
-    {
-      "id": "4879604",
-      "time": "2026-05-14 16:54:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "港交所檔案顯示，渣打銀行於5月13日在其他交易所回購了801,239股，總金額為1500萬英鎊。"
-    },
-    {
-      "id": "4879603",
-      "time": "2026-05-14 16:54:28",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "博柏利執行長在投資者演示中表示：博柏利將繼續聚焦美國與中國這兩大必勝市場，同時將從中汲取的經驗應用至全球其他地區。"
-    },
-    {
-      "id": "4879602",
-      "time": "2026-05-14 16:54:27",
-      "tags": [
-        "市場"
-      ],
-      "text": "【瑞銀堅定看多金銀 銀價年底有望迴歸100美元】瑞銀駐新加坡金屬策略師喬妮·特維斯表示，機構堅定看多黃金。據報道，她在5月12日亞洲媒體電話會上稱：“我們認為金價能從當前水平回升，並在年內再創新高。” 瑞銀當前黃金目標價定為5600美元/盎司，甚至有望衝擊6000美元，較2025年初5400美元的目標價進一步上調。 2025年6月至高點期間，白銀暴漲近270%，一度逼近122美元/盎司，隨後大幅崩盤。 歷史經驗顯示，白銀大跌往往會持續數年：上世紀80年代德州亨特兄弟試圖壟斷白銀市場後價格崩盤，2011年初衝高後也開啟長期回落。 但瑞銀的特維斯認為白銀已重回上升通道，年底有望回升至100美元/盎司。"
-    },
-    {
-      "id": "4879601",
-      "time": "2026-05-14 16:54:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中天科技：楊棟雲辭任公司董事會秘書職務】中天科技5月14日公告，公司董事會近日收到董事會秘書楊棟雲的書面辭職報告，楊棟雲因工作調動申請辭去公司董事會秘書職務，辭職報告自送達董事會之日起生效，辭職後將繼續在公司擔任證券總監職務。公司同日召開董事會會議，審議透過議案，同意聘任胡梓木為公司董事會秘書。"
-    },
-    {
-      "id": "4879600",
-      "time": "2026-05-14 16:53:57",
-      "tags": [
-        "央行",
-        "公司",
-        "市場"
-      ],
-      "text": "【分析：英鎊和英國國債對政治風險表現出一定的平靜】荷蘭國際集團的Francesco Pesole在一份報告中表示，英鎊和英國國債似乎對媒體有關英國衛生大臣Wes Streeting可能在週四挑戰首相基爾·斯塔默領導地位的報道相當放鬆。他說：“這是因為斯塔默可能離職的前景在一定程度上已被反映在預期中，而且Streeting屬於工黨最中間派的分支。“此外，他表示，領導權挑戰可能需要數月時間，而且在預計英國央行將加息且能源價格波動的環境下，將非迫在眉睫的事件反映在預期中是不切實際的。英鎊的跌幅受到控制，微跌0.1%至1.3513美元，下跌0.1%至0.8663英鎊兌1歐元。根據Tradeweb的資料，10年期英國國債收益率下跌2個基點，至5.048%。"
-    },
-    {
-      "id": "4879598",
-      "time": "2026-05-14 16:52:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "博柏利執行長：我們將於下半年在上海推出一場“大型”品牌體驗活動，作為“我們170週年慶典的收官之作”。"
     }
   ]
 }
