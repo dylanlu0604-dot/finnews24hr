@@ -1,7 +1,54 @@
 {
-  "updated": "2026-05-22 02:20:00",
-  "count": 16274,
+  "updated": "2026-05-22 02:23:44",
+  "count": 16277,
   "items": [
+    {
+      "id": "4893561",
+      "time": "2026-05-22 02:22:47",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國30年期國債收益率重新整理日低至5.089%。"
+    },
+    {
+      "id": "mkt:019e4bc6-576a-7aa1-9580-d8675d07fff5",
+      "time": "2026-05-22 02:22:30",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "30-YR U.S. TREASURY YIELD HITS NEW SESSION LOW, LAST AT 5.089%"
+    },
+    {
+      "id": "4893560",
+      "time": "2026-05-22 02:20:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "【戰損慘重 伊朗已擊毀價值近10億美元的美國“死神”無人機】據媒體報道，自從美國和以色列發動伊朗戰爭以來，伊朗已成功擊毀了由美軍操作的20多架MQ-9“死神”（Reaper）無人機，造成了價值近10億美元的鉅額財政損失。在這些遭摧毀的察打一體無人機中，許多是被伊朗的防空火力在中空直接擊落的，但也有部分是在地面的導彈襲擊中被定點清除，或因高強度運轉引發的惡性事故而墜毀。訊息人士透露，美軍目前已確認損失了至少24架、甚至可能高達30架“死神”無人機，該統計總數已包含了部分在受損後被迫報廢的機體。"
+    },
+    {
+      "id": "te:markets:552854",
+      "time": "2026-05-22 02:20:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Iron Ore CNY Spikes by 105.88% — Top commodity gainers are Iron Ore CNY (105.88%), Lithium Carbonate (1.68%), Silver (1.33%) and Gold (0.24%). Biggest loser is Steel Rebar (-0.53%)."
+    },
+    {
+      "id": "4893559",
+      "time": "2026-05-22 02:20:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜CEO Andy Jassy：Prime Video正在成長，專案是有利可圖的。"
+    },
     {
       "id": "4893558",
       "time": "2026-05-22 02:16:24",
@@ -146280,25 +146327,6 @@
         "Importance 1"
       ],
       "text": "Agricultural Commodities Updates: Orange Juice Tumbles by 5.23% — Top commodity losers are Orange Juice (-5.23%), Cocoa (-3.87%) and Cotton (-3.18%). Gains are led by Rubber (4.42%), Barley (4.14%) and Lumber (1.13%)."
-    },
-    {
-      "id": "mkt:019e27b9-7057-7bb5-b4d2-0bcbb712cdd0",
-      "time": "2026-05-15 02:22:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "XAI IS LAUNCHING AN EARLY BETA OF GROK BUILD, BEING A CODING AGENT FOR SUPER-GROK HEAVY USERS"
-    },
-    {
-      "id": "te:markets:550827",
-      "time": "2026-05-15 02:20:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Platinum Slumps by 5.15% — Top commodity losers are Platinum (-5.15%), Silver (-3.22%), Lithium Carbonate (-2.74%) and Gold (-0.24%). Gains are led by Steel Rebar (0.81%)."
     }
   ]
 }
