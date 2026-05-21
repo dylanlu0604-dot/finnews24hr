@@ -1,7 +1,38 @@
 {
-  "updated": "2026-05-22 01:46:07",
-  "count": 16243,
+  "updated": "2026-05-22 01:49:53",
+  "count": 16245,
   "items": [
+    {
+      "id": "mkt:019e4ba7-2421-7aa1-9580-39ba8e5b07e9",
+      "time": "2026-05-22 01:48:25",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "IRAQI PARLIAMENT SPEAKER: WE CALL FOR TAKING LEGAL ACTION AGAINST THOSE INVOLVED IN THE ATTACKS ON SAUDI ARABIA AND THE UAE"
+    },
+    {
+      "id": "mkt:019e4ba6-ca06-7aa1-9580-32540a79e845",
+      "time": "2026-05-22 01:48:02",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "IRAQI PARLIAMENT SPEAKER: AGREEMENT REACHED TO FORM AN INVESTIGATION COMMITTEE INTO THE ATTACKS ON SAUDI ARABIA AND THE UAE"
+    },
+    {
+      "id": "4893528",
+      "time": "2026-05-22 01:45:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "道指漲235點，漲幅擴大至0.48%，報50244.96點，有望自2月份以來首次創（收盤）歷史新高。"
+    },
     {
       "id": "4893527",
       "time": "2026-05-22 01:45:19",
@@ -145975,14 +146006,6 @@
         "其他"
       ],
       "text": "中國地震臺網正式測定：05月15日01時46分在新疆阿克蘇地區庫車市（北緯41.30度，東經83.99度）發生3.6級地震，震源深度14千米。"
-    },
-    {
-      "id": "4880460",
-      "time": "2026-05-15 01:48:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "迪士尼 + 將逐步發展為一站式綜合娛樂中心，上架套餐合作方的各類內容。"
     }
   ]
 }
