@@ -1,7 +1,255 @@
 {
-  "updated": "2026-05-21 16:28:39",
-  "count": 15893,
+  "updated": "2026-05-21 16:32:46",
+  "count": 15909,
   "items": [
+    {
+      "id": "4892290",
+      "time": "2026-05-21 16:31:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國國家統計局稱，英國2025年淨移民數量從2024年的33.1萬人降至17.1萬人。"
+    },
+    {
+      "id": "4892289",
+      "time": "2026-05-21 16:31:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣大特材：暫未向長鑫科技和長江儲存供應產品】廣大特材5月21日在互動平臺表示，公司暫未向長鑫科技和長江儲存供應產品。"
+    },
+    {
+      "id": "mkt:019e49a9-4351-7cc6-801c-a665d51f3ac3",
+      "time": "2026-05-21 16:31:27",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Hong Kong | Composite CPI (YoY) (Apr) | actual 1.7% | consensus 2% | previous 1.70%"
+    },
+    {
+      "id": "mkt:019e49a8-f90a-7cc6-801c-99a27744cc35",
+      "time": "2026-05-21 16:31:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "NTES.O"
+      ],
+      "text": "NETEASE 1Q REVENUE CNY 30.6B"
+    },
+    {
+      "id": "4892288",
+      "time": "2026-05-21 16:30:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "在岸人民幣兌美元收盤報6.7960，較上一交易日上漲100點。"
+    },
+    {
+      "id": "4892287",
+      "time": "2026-05-21 16:30:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "網易第一季度線上遊戲服務淨收入257億元人民幣。"
+    },
+    {
+      "id": "mkt:019e49a8-a366-7cc6-801c-94527891c946",
+      "time": "2026-05-21 16:30:49",
+      "tags": [
+        "MKT News",
+        "Important",
+        "NTES.O",
+        "Impact bullish"
+      ],
+      "text": "NETEASE 1Q OPERATING PROFIT CNY 12.7B"
+    },
+    {
+      "id": "4892286",
+      "time": "2026-05-21 16:30:42",
+      "tags": [
+        "資料"
+      ],
+      "text": "香港4月CPI同比增長1.7%; 預估為+1.9%。"
+    },
+    {
+      "id": "em:jjsj_ygsj:202605213745228761",
+      "time": "2026-05-21 16:30:42",
+      "tags": [
+        "經濟數據",
+        "英國"
+      ],
+      "text": "【英國5月製造業PMI初值53.7 預期53】英國5月製造業PMI初值53.7，預期53，前值53.7；5月服務業PMI初值47.9，預期51.7，前值52.7。"
+    },
+    {
+      "id": "4892285",
+      "time": "2026-05-21 16:30:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【今飛凱達：與張雪機車合作已獲其一款大排量摩托車輪轂專案，預計2026年實現量產配套】今飛凱達5月21日在互動平臺表示，公司從2025年起與張雪機車啟動專案合作，目前已成功獲得張雪機車的一款大排量摩托車輪轂專案，預計於2026年實現量產配套。"
+    },
+    {
+      "id": "mkt:019e49a8-69d0-7cc6-801c-8be29966aa30",
+      "time": "2026-05-21 16:30:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "NTES.O"
+      ],
+      "text": "NETEASE Q1 REVENUE RMB 30,591.281 MILLION"
+    },
+    {
+      "id": "4892284",
+      "time": "2026-05-21 16:30:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【德福科技：下一代超低輪廓銅箔（ULT-VLP）正在開發中】德福科技5月21日在互動平臺表示，公司的下一代超低輪廓銅箔（ULT-VLP）正在開發中。"
+    },
+    {
+      "id": "4892283",
+      "time": "2026-05-21 16:30:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "網易第一季度營收306億元人民幣，預估295.1億元人民幣。"
+    },
+    {
+      "id": "mkt:019e49a8-40c5-7cc6-801c-82341a31a0c1",
+      "time": "2026-05-21 16:30:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "NTES.O",
+        "Impact bullish"
+      ],
+      "text": "NETEASE 1Q ADJ NET INCOME CNY 11.3B"
+    },
+    {
+      "id": "4892282",
+      "time": "2026-05-21 16:30:16",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【今日特朗普要聞】\n1、據白宮隨行記者報道，特朗普總統表示，美國與伊朗的談判正處於最後階段。 該報道援引特朗普此前在安德魯斯聯合基地對記者的表態。 特朗普談及伊美局勢稱 “後續走勢有待觀察”，並表示雙方要麼達成協議，要麼美方將採取一些強硬舉措，不過他希望事態不會走到這一步。\n2、特朗普與內塔尼亞胡進行了這場耗時許久且氣氛僵硬的通話。熟悉通話內容的美方訊息人士稱，特朗普告知內塔尼亞胡，各方斡旋方正在擬定一份意向協議書，美伊雙方若簽署該檔案，將正式結束戰事，並開啟為期三十天的談判週期，磋商議題涵蓋伊朗核計劃、霍爾木茲海峽通航等核心問題。 \n3、美國總統特朗普20日對媒體稱，自己和以色列總理內塔尼亞胡在伊朗問題上立場一致，“內塔尼亞胡將按照我跟他說的去處理伊朗問題”。\n4、當地時間5月20日，美國總統特朗普被媒體問及“是否願意與伊朗達成一項僅涵蓋霍爾木茲海峽問題的有限協議，以延長停火”。對此，特朗普表示他“不急”，“不會為了即將到來的中期選舉而急於達成協議”。\n5、兩名匿名美方官員表示，特朗普政府已開始制定針對古巴的軍事行動方案，美國情報機構也在研究古巴對美國軍事行動的可能回應。特朗普談及古巴表示，“不，事態不會升級。”\n6、特朗普就美國起訴勞爾·卡斯特羅一事說道。“我們正在解放古巴，”特朗普補充道。特朗普稱美國將很快就古巴石油禁運問題發表宣告，美國在此期間將幫助古巴。他稱對古巴的行動不會是“我們做過的最大的事情”。\n7、據知情人士透露，美國總統唐納德・特朗普最快將於週四釋出一項行政命令，旨在加強人工智慧網路安全，並已邀請科技行業高管出席簽署儀式。\n8、三位知情人士透露，特朗普政府計劃於本週告知北約盟友，美國將縮減其在重大危機中可用於援助北約歐洲成員國的軍事力量儲備。\n9、特朗普釋出的一則關於華盛頓特區公共設施翻新的公告，強調自己的修復工作是解決數十年遺留問題的 “正確方式”。\n10、特朗普：如果耶穌親自下來數票，我就能贏得加州選票。我現在在以色列的支援率是99%。我可以競選總理，所以也許等我做完這件事，我就去以色列競選總理。\n11、特朗普談及反濫用權力專項基金：我此前因多項事由起訴國稅局，其中一點就是其違規公開我的納稅申報表。之後我撤銷了對國稅局的訴訟，雙方達成相關和解，此事我並未親自參與。"
+    },
+    {
+      "id": "4892281",
+      "time": "2026-05-21 16:30:15",
+      "tags": [
+        "資料"
+      ],
+      "text": "英國5月服務業PMI初值 47.9，預期 51.7，前值 52.7。\n英國5月製造業PMI初值 53.7，預期 53，前值 53.7。\n英國5月綜合PMI初值 48.5，預期 51.6，前值 52.6。"
+    },
+    {
+      "id": "te:markets:552667",
+      "time": "2026-05-21 16:30:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: XRP Rises by 1.11% — Today's cryptos market is characterized by modest daily movements, with XRP standing out as the frontrunner with a 1.11% increase."
+    },
+    {
+      "id": "4892280",
+      "time": "2026-05-21 16:30:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：Manus 考慮募資 10 億美元。"
+    },
+    {
+      "id": "4892279",
+      "time": "2026-05-21 16:29:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗媒體：巴基斯坦陸軍參謀長訪問德黑蘭，旨在縮小分歧並達成正式協議宣告。"
+    },
+    {
+      "id": "mkt:019e49a7-739b-7cc6-801c-7f8bb4422f5c",
+      "time": "2026-05-21 16:29:31",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "THE VISIT OF PAKISTAN'S ARMY CHIEF TO TEHRAN IS IN ORDER TO MINIMIZE THE GAPS AND REACH AN OFFICIAL ANNOUNCEMENT OF AGREEMENT - ISNA"
+    },
+    {
+      "id": "mkt:019e49a7-4569-7cc6-801c-7094eb76b6b4",
+      "time": "2026-05-21 16:29:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Europe & UK",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "【China Warns EU of Retaliation as Bloc Mulls Tougher Trade Curbs】China warned it will take countermeasures if the European Union moves forward with new restrictions on Chinese imports, as trade tensions between the sides escalate. Commerce Ministry spokesman He Yadong questioned whether the EU should also be considered to have “overcapacity” in sectors such as cars, pharmaceuticals, wine and cosmetics. He urged Brussels to return to dialogue and warned of “resolute countermeasures” against discriminatory measures. The comments followed reports that EU officials are considering tougher trade actions to address a surge in Chinese exports."
+    },
+    {
+      "id": "4892278",
+      "time": "2026-05-21 16:29:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【明天起湖南降雨再度增多 局地有暴雨到大暴雨】自17日以來，湖南進入降雨集中期，本輪降雨主要在湖南北部，部分地區現暴雨到大暴雨。湖南常德地區出現超過500毫米的極端降雨。明天，湖南降雨將再度增多，湘北、湘中等地雨勢較強。後天，湖南大部降雨持續，強降雨將向湘西南轉移，局地或現暴雨到大暴雨，需防範降雨可能造成的次生災害影響。（央視新聞）"
+    },
+    {
+      "id": "4892277",
+      "time": "2026-05-21 16:28:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【騰訊會議推出“AI同傳”功能】5月21日，騰訊會議AI同傳功能正式上線，參會者開啟後，系統會將發言人的語音進行實時識別和翻譯，並合成語音即時播報，傳遞到會議另一端，首期支援中英雙向互譯。此外，騰訊會議AI同傳能做到時延低於3秒，發言與翻譯幾乎同步進行。"
+    },
+    {
+      "id": "4892276",
+      "time": "2026-05-21 16:28:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭無人機部隊稱，烏克蘭發動無人機襲擊後，俄羅斯錫茲蘭煉油廠發生大規模火災。"
+    },
+    {
+      "id": "mkt:019e49a6-72c1-7cc6-801c-69b8627ac96c",
+      "time": "2026-05-21 16:28:25",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "IRAN'S ISNA NEWS AGENCY SAYS IRAN 'IS RESPONDING TO A TEXT SENT BY THE U.S.'"
+    },
+    {
+      "id": "4892275",
+      "time": "2026-05-21 16:28:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗媒體：伊朗“正在回應美國發來的一份文字草案”。"
+    },
+    {
+      "id": "4892274",
+      "time": "2026-05-21 16:28:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【商務部：中俄將以新質生產力打造增長新引擎，推動貨物貿易和服務貿易提質升級】5月21日，商務部舉行例行新聞釋出會。商務部新聞發言人何亞東回答了澎湃新聞記者關於俄羅斯總統普京訪華期間中俄經貿成果的提問。他說，兩國元首高度評價近年來中俄經貿合作的發展成果。雙方將繼續加強經貿政策溝通，以新質生產力打造增長新引擎，推動貨物貿易和服務貿易提質升級。"
+    },
     {
       "id": "4892273",
       "time": "2026-05-21 16:27:30",
@@ -142917,122 +143165,6 @@
         "Impact bearish"
       ],
       "text": "CHINA'S ONSHORE YUAN FINISHES DOMESTIC SESSION AT 6.7862 PER DOLLAR, STRONGEST SUCH CLOSE SINCE FEB 9, 2023"
-    },
-    {
-      "id": "4879537",
-      "time": "2026-05-14 16:32:39",
-      "tags": [
-        "市場"
-      ],
-      "text": "英偉達股價盤前一度上漲3.3%。"
-    },
-    {
-      "id": "4879536",
-      "time": "2026-05-14 16:32:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "【萬斯：特朗普政府在經濟方面“還有大量工作要做”】美國副總統JD・萬斯週三承認，特朗普政府在經濟方面“還有大量工作要做”。 伊朗戰爭已引發能源價格飆升；受汽油價格暴漲推動，最新通脹資料創下三年新高。 萬斯表示：“我想對美國民眾說，我們清楚，要實現民眾應得的繁榮，還有大量工作要做。總統對此高度重視，我也一樣，我們一直都在討論這件事。” 當地時間週二，特朗普稱：“我不考慮美國人的經濟狀況，誰都不考慮。我只關心一件事：絕不能讓伊朗擁有核武器，僅此而已。” 此番言論回應記者提問——“美國人的經濟狀況是否會促使你與伊朗達成和解？”，隨即遭到民主黨猛烈批評。 萬斯則稱特朗普的表態遭曲解：“我認為總統沒說過那樣的話，這是對他言論的誤讀。”"
-    },
-    {
-      "id": "mkt:019e259c-fd06-7aa5-b401-20b404f8b137",
-      "time": "2026-05-14 16:31:41",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish",
-        "CNH",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "USD/CNY FINISHES DOMESTIC SESSION AT 6.7862, DOWN 43 PIPS V.S. PREVIOUS CLOSE"
-    },
-    {
-      "id": "4879535",
-      "time": "2026-05-14 16:30:54",
-      "tags": [
-        "市場"
-      ],
-      "text": "在岸人民幣兌美元收盤報6.7862，較上一交易日上漲43點。"
-    },
-    {
-      "id": "mkt:019e259c-2827-7aa5-b401-1ccf789c9c02",
-      "time": "2026-05-14 16:30:51",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "WHITE HOUSE OFFICIAL: BOTH COUNTRIES AGREED THAT IRAN CAN NEVER HAVE A NUCLEAR WEAPON"
-    },
-    {
-      "id": "4879534",
-      "time": "2026-05-14 16:30:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中煤能源：2026年4月多項業務產銷量有不同程度變化】中煤能源公告稱，2026年4月商品煤產量1002萬噸，同比降9.3%，累計4019萬噸，同比降9.5%；商品煤銷量2042萬噸，同比降3.2%，累計7644萬噸，同比降10.3%。聚乙烯、尿素、甲醇等產品產量和銷量有不同程度增減，硝銨產量和銷量大幅下降，4月產量同比降62.3%，銷量同比降56.4%。煤礦裝備產值4月為6.6億元，同比降16.5%，累計28.6億元，同比降10.9%。"
-    },
-    {
-      "id": "mkt:019e259b-0a89-7aa5-b401-145e45795213",
-      "time": "2026-05-14 16:29:38",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "TWO SIDES AGREED THAT THE STRAIT OF HORMUZ MUST REMAIN OPEN - WHITE HOUSE OFFICIAL"
-    },
-    {
-      "id": "mkt:019e259a-f073-7aa5-b401-08946c4e3f38",
-      "time": "2026-05-14 16:29:31",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "CNH",
-        "Impact bearish"
-      ],
-      "text": "THE PRESIDENTS ALSO HIGHLIGHTED THE NEED TO BUILD ON PROGRESS IN ENDING THE FLOW OF FENTANYL PRECURSORS INTO THE UNITED STATES, AS WELL AS INCREASING CHINESE PURCHASES OF AMERICAN AGRICULTURAL PRODUCTS - WHITE HOUSE OFFICIAL"
-    },
-    {
-      "id": "4879532",
-      "time": "2026-05-14 16:29:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "【恆瑞醫藥：子公司藥物SHR - 3079注射液獲批開展臨床試驗】恆瑞醫藥公告稱，子公司蘇州盛迪亞生物醫藥有限公司收到國家藥監局核准簽發的SHR - 3079注射液《藥物臨床試驗批准通知書》，將於近期開展臨床試驗。該藥物為公司自主研發的創新型抗腫瘤藥，擬治療B細胞非霍奇金淋巴瘤，國內外尚無同類藥物獲批上市。截至目前，相關專案累計研發投入約2340萬元。藥品研發上市週期長、環節多，存在不確定性。"
-    },
-    {
-      "id": "4879531",
-      "time": "2026-05-14 16:29:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "【恆瑞醫藥：子公司藥物 RSS0393 乳膠獲臨床試驗批准】恆瑞醫藥公告稱，子公司瑞石生物醫藥有限公司收到國家藥監局核准簽發關於 RSS0393 乳膠的《藥物臨床試驗批准通知書》，將於近期開展用於特應性皮炎治療的臨床試驗。該產品是含 PDE4 小分子抑制劑的乳膠，相關劑型累計研發投入約 5300 萬元。藥品研發上市週期長、環節多，存在不確定性，公司將推進專案並及時披露進展。"
-    },
-    {
-      "id": "mkt:019e259a-919c-7aa5-b401-00f27f489488",
-      "time": "2026-05-14 16:29:07",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "S&P500"
-      ],
-      "text": "TWO SIDES DISCUSSED EXPANDING MARKET ACCESS FOR AMERICAN BUSINESSES INTO CHINA AND INCREASING CHINESE INVESTMENT - WHITE HOUSE OFFICIAL"
     }
   ]
 }
