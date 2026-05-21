@@ -1,7 +1,111 @@
 {
-  "updated": "2026-05-22 00:04:05",
-  "count": 16175,
+  "updated": "2026-05-22 00:08:17",
+  "count": 16180,
   "items": [
+    {
+      "id": "4893440",
+      "time": "2026-05-22 00:07:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們會幫助古巴。"
+    },
+    {
+      "id": "4893439",
+      "time": "2026-05-22 00:07:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "鈀金期貨突破1400美元/盎司，日內漲1.69%。"
+    },
+    {
+      "id": "te:markets:552830",
+      "time": "2026-05-22 00:07:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 0.34% Higher — The FTSE 100 Index went up by 35 points or 0.34 percent on Thursday to close at 10468 points. The rise was led by B&M European Value (4.68%), Intermediate Capital (3.16%) and 3i (2.73%). On the downside, the weakerst performers were Auto Trader (-8.99%), Convatec Group (-5.46%) and BT (-4.87%)."
+    },
+    {
+      "id": "mkt:019e4b4a-3a36-7aa1-957e-aca266f853b0",
+      "time": "2026-05-22 00:06:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TRUMP ANNOUNCES THAT THE BALLROOM PROJECT IS ON SCHEDULE AND WITHIN BUDGET"
+    },
+    {
+      "id": "mkt:019e4b4a-25cf-7aa1-957e-a5df68e4b7d7",
+      "time": "2026-05-22 00:06:50",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "TRUMP STATES NO NEED FOR CASH IN BALLROOM"
+    },
+    {
+      "id": "mkt:019e4b4a-0eef-7aa1-957e-9c5cf9253184",
+      "time": "2026-05-22 00:06:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TRUMP SAYS HE IS UNSURE ABOUT LOSING CONTROL OF THE SENATE FOR GOP"
+    },
+    {
+      "id": "4893437",
+      "time": "2026-05-22 00:05:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：不知道我是否正在失去對參議院的控制。"
+    },
+    {
+      "id": "4893436",
+      "time": "2026-05-22 00:05:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：宴會廳的工程按時按預算完成了。"
+    },
+    {
+      "id": "4893435",
+      "time": "2026-05-22 00:05:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我不需要錢來籌辦宴會廳。"
+    },
+    {
+      "id": "4893434",
+      "time": "2026-05-22 00:04:39",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【慧為智慧：一季度虧損主要原因系行業傳統淡季及原材料成本上漲等綜合因素影響】慧為智慧釋出被投資者關係活動記錄表，一季度虧損主要原因系行業傳統淡季及原材料成本上漲等綜合因素影響。目前公司在手訂單保持穩定，隨著江門生產基地產能的逐步釋放，公司承接訂單和保障交付的能力將進一步提升，為後續業務拓展提供有力支撐。公司將持續加強市場拓展，努力提升經營業績。AI技術的發展正在對公司所處行業的發展產生深遠的影響，公司的終端產品正在進行大規模的AI化迭代，如多款端側AI產品。公司基於行業主流的端側AI處理器，如瑞芯微、英特爾、展銳等推出了一系列的端側AI產品，包括AINAS、AIBOX等。上述創新產品已完成研發驗證並進入批次發貨階段，正在向客戶持續交付。"
+    },
+    {
+      "id": "4893433",
+      "time": "2026-05-22 00:04:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【惠豐鑽石：全資子公司間轉讓固定資產】惠豐鑽石公告，為最佳化產業佈局整合資源，公司全資子公司惠豐金剛石擬將52臺MPCVD微波等離子體化學氣相沉積裝置及相關配套裝置轉讓給全資子公司惠豐鑽石（包頭），轉讓不含稅價款約3093.99萬元。"
+    },
+    {
+      "id": "4893432",
+      "time": "2026-05-22 00:03:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "北約秘書長：儘管美國計劃從德國撤軍5000人，美方仍會持續介入歐洲事務。此次撤軍將有序推進，同時試圖緩和撤軍帶來的衝擊，稱局勢勢必迎來調整，美國也需調整戰略重心。"
+    },
     {
       "id": "mkt:019e4b45-7954-7aa1-957e-944291d05271",
       "time": "2026-05-22 00:01:44",
@@ -145299,81 +145403,6 @@
         "Importance 1"
       ],
       "text": "The CAC 40 Index Closes 0.83% Higher — The CAC 40 Index rose 66 points or 0.83 percent on Thursday to close at 8074 points. Leading the gains are STMicroelectronics (6.20%), Stellantis NV (3.47%) and Dassault Systemes (2.83%). Top losers were TP (-1.40%), Carrefour (-0.41%) and Airbus (-0.40%)."
-    },
-    {
-      "id": "4880395",
-      "time": "2026-05-15 00:07:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國中央司令部：我們針對伊朗的所有行動完全符合武裝衝突法。我們並未對伊朗採取敵對行動，我們正處於停火狀態。"
-    },
-    {
-      "id": "te:markets:550809",
-      "time": "2026-05-15 00:07:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE 100 Index Closes 0.38% Higher — The FTSE 100 Index gained 39 points or 0.38 percent on Thursday to close at 10364 points. Gains were led by Legal & General (6.38%), Imperial Brands (4.14%) and Admiral (3.85%). Biggest losers were 3i (-14.00%), Burberry (-6.19%) and Babcock International (-3.90%)."
-    },
-    {
-      "id": "mkt:019e273d-be3e-7bb5-b4d0-8eb05f9e72d6",
-      "time": "2026-05-15 00:06:46",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "Dow",
-        "Impact bullish"
-      ],
-      "text": "U.S. STOCKS EXTEND GAINS, DOW JONES UP 1.01 PCT"
-    },
-    {
-      "id": "4880394",
-      "time": "2026-05-15 00:06:28",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "道指漲1.01%，現報50194.578點；納指漲1.08%，現報26687.226點；標普500指數漲0.95%，現報7514.910點。"
-    },
-    {
-      "id": "em:jjsj_mgsj:202605153737841652",
-      "time": "2026-05-15 00:05:45",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "房地美資料顯示，美國上週30年期按揭貸款/抵押貸款利率6.36%，前值6.37%。"
-    },
-    {
-      "id": "4880393",
-      "time": "2026-05-15 00:04:31",
-      "tags": [
-        "市場"
-      ],
-      "text": "【英國中長期國債收益率至少跌超7個基點】週四（5月14日）歐市尾盤，英國10年期國債收益率跌7.1個基點，報4.994%，整體持續走低。兩年期英債收益率跌5.7個基點，報4.428%。30年期英債收益率跌8.5個基點，50年期英債收益率跌8.6個基點。2/10年期英債收益率利差跌1.490個基點，報+56.451個基點，北京時間22:55出現一波顯著的跳水行情。"
-    },
-    {
-      "id": "mkt:019e273b-8383-7bb5-b4d0-8275f2c52aea",
-      "time": "2026-05-15 00:04:26",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Hot",
-        "Market Regions",
-        "Greater China",
-        "Policy",
-        "Breaking News 24h",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Trump Says Xi Told Him China Would Not Share Military Equipment With Iran】US President Donald Trump said in a Fox News interview that Chinese leader Xi Jinping told him China would not provide military equipment to Iran and expressed support for a deal and willingness to help facilitate one. Trump said Xi emphasized continued oil trade with Iran. Trump also described “positive and productive” meetings in Beijing, with both leaders agreeing the Strait of Hormuz should remain a free waterway, according to a White House readout of the talks."
     }
   ]
 }
