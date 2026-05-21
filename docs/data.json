@@ -1,7 +1,105 @@
 {
-  "updated": "2026-05-21 09:48:18",
-  "count": 15889,
+  "updated": "2026-05-21 09:52:19",
+  "count": 15893,
   "items": [
+    {
+      "id": "mkt:019e4839-f19b-777f-8614-975747c44b3c",
+      "time": "2026-05-21 09:50:17",
+      "tags": [
+        "MKT News",
+        "Hot",
+        "Market Themes",
+        "China EV Leaders",
+        "Policy",
+        "Chinese Policy & Markets",
+        "9868.HK",
+        "Impact bullish"
+      ],
+      "text": "HONG KONG AUTO STOCKS RISE, SERES +6%, XPENG +5%"
+    },
+    {
+      "id": "4891619",
+      "time": "2026-05-21 09:50:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "聯想集團港股漲4.17%，報13.74港元。"
+    },
+    {
+      "id": "4891618",
+      "time": "2026-05-21 09:50:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "【PCB概念再度走強 鵬鼎控股反包漲停續創歷史新高】早盤PCB概念再度走強，鵬鼎控股反包漲停，續創歷史新高，總市值達2300億，大族數控漲超15%，鼎泰高科、深南電路、紅板科技、廣合科技跟漲。"
+    },
+    {
+      "id": "4891617",
+      "time": "2026-05-21 09:49:53",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行小枝淳子：關鍵是要評估中東局勢引發的通脹對消費的影響。"
+    },
+    {
+      "id": "4891616",
+      "time": "2026-05-21 09:49:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【夏廈精密新設子公司 含服務消費機器人製造業務】企查查APP顯示，近日，夏廈精密（杭州）有限公司成立，經營範圍包含電機及其控制系統研發；通用零部件製造；汽車零部件及配件製造；服務消費機器人制造等。企查查股權穿透顯示，該公司由夏廈精密全資持股。"
+    },
+    {
+      "id": "te:markets:552505",
+      "time": "2026-05-21 09:49:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Dollar Eases on Iran Deal Optimism — The dollar index slipped to around 99 on Thursday, pulling back from a six-week high as growing optimism over a potential peace agreement between the US and Iran eased inflation and irate hike concerns while dampening safe-haven demand for the greenback. President Trump said the US was in the final stages of negotiations with Iran, raising expectations that the strategically important Strait of Hormuz could soon reopen. The prospect of renewed shipping flows triggered a sharp decline in oil prices, helping to moderate inflationary pressures and reducing expectations that central banks will need to tighten policy. Still, minutes from the Federal Reserve’s latest meeting indicated that most policymakers believe another rate hike this year could remain appropriate if inflation stays above the Fed’s 2% target. Markets still broadly expect the Fed to leave rates unchanged for the rest of the year, though traders currently assign roughly a 50% probability to a rate increase in December."
+    },
+    {
+      "id": "4891615",
+      "time": "2026-05-21 09:48:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股券商股走強 招商證券漲近6%】截至發稿，招商證券(06099.HK)漲5.94%，廣發證券(01776.HK)漲5.28%，東方證券(03958.HK)漲4.55%。"
+    },
+    {
+      "id": "4891614",
+      "time": "2026-05-21 09:48:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨連續主力合約日內漲4%，現報2857.50點。"
+    },
+    {
+      "id": "mkt:019e4837-f67a-777f-8614-8da85ceac9e4",
+      "time": "2026-05-21 09:48:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "HONG KONG-LISTED CHINESE BROKERAGES RISE BROADLY, CMSC +6%, GF SECURITIES +5%"
+    },
+    {
+      "id": "4891613",
+      "time": "2026-05-21 09:47:38",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【汽車板塊持續走強 賽力斯漲超7%】汽車板塊持續走強，賽力斯漲超7%，曙光股份、北汽藍谷、千里科技等股跟漲。"
+    },
     {
       "id": "4891612",
       "time": "2026-05-21 09:47:33",
@@ -142962,59 +143060,6 @@
         "國際"
       ],
       "text": "集運指數歐線期貨主力合約跌幅達3%，報2467點。"
-    },
-    {
-      "id": "4878910",
-      "time": "2026-05-14 09:52:12",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超1萬億元，較上日此時放量1703億元。"
-    },
-    {
-      "id": "4878909",
-      "time": "2026-05-14 09:52:07",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "【花旗今年擬擴增亞洲主經紀業務人力10%，搶攻對沖基金商機】花旗南亞市場主管Sue Lee表示，花旗集團計劃今年增加亞太區主經紀業務員工人數約10%，作為其積極搶攻該區域對沖基金業務的重要策略之一，此次擴張重點聚焦於新加坡與印度；花旗正在這兩個國家招募前臺和技術崗位人才，以強化其全球平臺。這一區域佈局也呼應花旗的全球戰略目標，即在2028年前，將主經紀業務資產規模由2025年的4500億美元提升至7000億美元以上。"
-    },
-    {
-      "id": "4878908",
-      "time": "2026-05-14 09:52:06",
-      "tags": [
-        "市場"
-      ],
-      "text": "【酒價內參5月14日價格釋出：飛天茅臺領漲 總價創半個月新高】新浪財經“酒價內參”過去24小時收集的資料顯示，中國白酒市場主要大單品的終端零售均價在5月14日整體明顯回暖。如果主要單品各取一瓶整體打包售賣，今日總售價為9961元，較昨日上漲10元，創下近半個月以來最高。市場結束連續三日高位盤整後上揚，終端交投情緒升溫，核心龍頭茅臺系酒品全線走高，核心單品的漲跌分化依然顯著。今日白酒市場11大單品五漲五跌一平，漲跌結構均衡。上漲方面，飛天茅臺漲幅居前，強勢上漲15元/瓶，收穫三連陽價格大幅反彈至1745元，精品茅臺上漲5元/瓶；古井貢古20上漲7元/瓶，創近一個月最高價紀錄；國窖1573上漲2元/瓶，斬獲五連陽，亦創下近一月最高價；洋河夢之藍M6+上漲1元/瓶，價格升至月內次高。下跌方面，青花郎跌幅居前，下跌7元/瓶，再度失守700元關口；習酒君品下跌6元/瓶，三連陰走勢下，價格快速下探至近一月最低位；五糧液普五八代下跌5元/瓶，在830元一線附近上行阻力較大；五糧液1618與青花汾20均下跌1元/瓶。水晶劍南春的價格環比保持不變。"
-    },
-    {
-      "id": "4878907",
-      "time": "2026-05-14 09:51:00",
-      "tags": [
-        "市場"
-      ],
-      "text": "新加坡富時海峽時報指數回吐開盤漲幅，下跌0.4%，報4984.88點。"
-    },
-    {
-      "id": "4878906",
-      "time": "2026-05-14 09:50:29",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨賣出額達10億港元。"
-    },
-    {
-      "id": "4878905",
-      "time": "2026-05-14 09:48:48",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【光伏裝置板塊短線拉昇，協鑫整合、雙良節能漲停】光伏裝置板塊短線拉昇，協鑫整合、雙良節能漲停，連城數控漲超10%，拉普拉斯、易成新能、鈞達股份、歐普泰、邁為股份跟漲。"
     }
   ]
 }
