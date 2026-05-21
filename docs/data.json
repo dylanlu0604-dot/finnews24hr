@@ -1,7 +1,161 @@
 {
-  "updated": "2026-05-21 23:37:35",
-  "count": 16198,
+  "updated": "2026-05-21 23:42:00",
+  "count": 16201,
   "items": [
+    {
+      "id": "mkt:019e4b32-5a83-7bb7-824d-d018eded9922",
+      "time": "2026-05-21 23:40:51",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "FED'S GOOLSBEE SAYS SIGNIFICANT INFLATION PROBLEM DEVELOPING"
+    },
+    {
+      "id": "4893412",
+      "time": "2026-05-21 23:40:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所英國6月天然氣期貨結算價120.82便士/熱量單位。"
+    },
+    {
+      "id": "4893411",
+      "time": "2026-05-21 23:39:53",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：我們目前面臨相當嚴重的通脹問題，但就業市場保持穩定。"
+    },
+    {
+      "id": "4893410",
+      "time": "2026-05-21 23:39:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：川崎重工與英偉達合作初期將聚焦醫療與移動出行領域。"
+    },
+    {
+      "id": "4893409",
+      "time": "2026-05-21 23:39:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國預算部長Amiel：政府計劃在能源危機期間實施7.1億歐元新版救助。"
+    },
+    {
+      "id": "mkt:019e4b30-8f89-7bb7-824d-ce8d67f83f31",
+      "time": "2026-05-21 23:38:52",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "7012.T"
+      ],
+      "text": "NVIDIA'S SIMULATION TECHNOLOGY WILL BE APPLIED TO KAWASAKI HEAVY'S CORLEO - NIKKEI"
+    },
+    {
+      "id": "4893408",
+      "time": "2026-05-21 23:38:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：川崎重工除了與英偉達合作外，還將在美國研發中心與亞德諾半導體、微軟以及富士通開展合作。"
+    },
+    {
+      "id": "mkt:019e4b30-44d6-7bb7-824d-c43ab71ceacb",
+      "time": "2026-05-21 23:38:34",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "IN ADDITION TO NVIDIA, KAWASAKI HEAVY WILL WORK WITH ANALOG DEVICES, MICROSOFT AND FUJITSU AT US CENTER - NIKKEI"
+    },
+    {
+      "id": "4893407",
+      "time": "2026-05-21 23:38:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：川崎重工將與英偉達合作開展物理人工智慧，並在美國開設機器人中心。英偉達模擬技術將應用於川崎重工Corleo平臺。"
+    },
+    {
+      "id": "mkt:019e4b2f-d390-7bb7-824d-bb07c2979cc8",
+      "time": "2026-05-21 23:38:05",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "FRANCE'S AMIEL: GOVT PLANS EU710M IN FRESH AID IN ENERGY CRISIS"
+    },
+    {
+      "id": "4893406",
+      "time": "2026-05-21 23:37:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【厄瓜多一房屋起火致5人死亡】據當地消防部門通報，21日清晨，厄瓜多南部城市瓜亞基爾一房屋起火，造成5人死亡。通報說，消防部門共派出45名救援人員、7輛消防車，目前火勢已被控制。事故現場廢墟清理工作仍在進行，火災原因正在調查中。（新華社）"
+    },
+    {
+      "id": "mkt:019e4b2f-3cc0-7bb7-824d-b370d219dd40",
+      "time": "2026-05-21 23:37:27",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "7012.T"
+      ],
+      "text": "KAWASAKI HEAVY INDUSTRIES TO PARTNER WITH NVIDIA ON PHYSICAL AI, OPEN US ROBOT CENTER - NIKKEI"
+    },
+    {
+      "id": "mkt:019e4b2f-1998-7aa1-957e-6614476ec0b8",
+      "time": "2026-05-21 23:37:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bearish",
+        "FTSE100",
+        "Impact bullish"
+      ],
+      "text": "EUROPEAN INDEXES CLOSED MIXED THURSDAY, DAX -0.48%, CAC 40 -0.39%, EURO STOXX 50 -0.29%, FTSE 100 +0.14%, IBEX 35 -0.34%"
+    },
+    {
+      "id": "4893405",
+      "time": "2026-05-21 23:36:55",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【國際能源署署長：全球石油市場或將進入“危險區域”】國際能源署署長法提赫·比羅爾21日說，若供應得不到改善，全球石油市場可能在今年7月或8月進入“危險區域”。比羅爾當天在倫敦參加英國皇家國際問題研究所的智庫活動時說，6月底至7月初旅行旺季開始後，石油需求通常會增加，然而各國庫存持續下降，中東地區又沒有新的石油供應進入市場。若上述情況得不到改善，今年7月或8月石油市場可能進入“紅色區域”。他指出，許多國家已進入播種和農耕季節，但當前能源形勢將使農民難以像正常年份那樣作業，這可能推高食品價格。食品價格上漲疊加油價上漲，將進一步加劇通貨膨脹壓力。目前已看到通脹資料在多地上升的初步訊號，而“這僅僅是開始”。（新華社）"
+    },
     {
       "id": "mkt:019e4b2d-d1e5-7aa1-957e-5a7f9cdf6c46",
       "time": "2026-05-21 23:35:54",
@@ -145491,110 +145645,6 @@
         "其他"
       ],
       "text": "英國央行首席經濟學家Huw Pill： 家庭與企業均對通脹形勢感到擔憂。"
-    },
-    {
-      "id": "te:markets:550801",
-      "time": "2026-05-14 23:41:49",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "FTSE 100 Rises for 2nd Session — The FTSE 100 edged higher on Thursday after gaining 0.6% in the previous session, though it underperformed other European markets as several major stocks traded ex-dividend, weighing on the index. Political developments also remained in focus, with leadership uncertainty increasing after Wes Streeting resigned as Keir Starmer’s health secretary, fuelling speculation about a possible challenge to the prime minister. National Grid gained more than 1% after pledging at least £70 billion over five years to upgrade UK and US energy networks, despite missing operating profit estimates. In contrast, Burberry fell more than 6% even after stronger-than-expected sales driven by China and the Americas and the appointment of William Jackson as its new chair. 3i dropped 14% after warning that Middle East tensions would hit its key investment in Action. UK economic data provided some support, with GDP rising 0.6% in Q1 and March growth beating expectations at 0.3% versus a forecast contraction."
-    },
-    {
-      "id": "4880373",
-      "time": "2026-05-14 23:41:46",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "哥倫比亞財長： 哥倫比亞正致力於穩定債務與GDP比率。  哥倫比亞央行需要降息。"
-    },
-    {
-      "id": "4880372",
-      "time": "2026-05-14 23:41:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "據報道：伊拉克議會未對規劃部、文化部、重建部、教育部、內政部部長候選人投出信任票。"
-    },
-    {
-      "id": "4880371",
-      "time": "2026-05-14 23:40:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "據福克斯新聞：美國邊境巡邏局局長班克斯辭職。"
-    },
-    {
-      "id": "mkt:019e2725-5dc7-7112-a65c-41d975546d8c",
-      "time": "2026-05-14 23:40:14",
-      "tags": [
-        "MKT News",
-        "DAX",
-        "Impact bullish",
-        "FTSE100",
-        "CAC40"
-      ],
-      "text": "EUROPEAN INDEXES CLOSED HIGHER, DAX +1.46%, FTSE100 +0.41%, CAC40 +0.93%, EUROSTOXX50 +1.19%, IBEX35 +0.83%, FTSEMIB +1.13%"
-    },
-    {
-      "id": "4880370",
-      "time": "2026-05-14 23:40:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "【內塔尼亞胡稱將對《紐約時報》提起誹謗訴訟】以色列總理辦公室14日發表宣告稱，由於美國《紐約時報》發表了一篇針對以色列的“謊言文章”，以總理內塔尼亞胡和以外長薩爾已指示對《紐約時報》提起誹謗訴訟。內塔尼亞胡當天在社交媒體上說，他已指示其法律顧問對《紐約時報》和相關文章作者尼古拉斯·克里斯托夫提起訴訟。他說，這篇文章“誹謗了以色列士兵”。克里斯托夫此前在《紐約時報》上發表文章稱，以色列士兵和獄警對巴勒斯坦人實施了“系統性的性暴力”。以色列方面則否認這一說法。（新華社）"
-    },
-    {
-      "id": "mkt:019e2724-1ac5-7112-a65c-3edd82156352",
-      "time": "2026-05-14 23:38:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US BORDER PATROL CHIEF BANKS RESIGNS -FOX NEWS"
-    },
-    {
-      "id": "mkt:019e2723-ba43-7112-a65c-34a662affc39",
-      "time": "2026-05-14 23:38:33",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "GBPUSD",
-        "Impact bullish"
-      ],
-      "text": "BOE'S PILL: MY VIEW IS WE HAVE TO KEEP RATES UP FOR NOW"
-    },
-    {
-      "id": "4880369",
-      "time": "2026-05-14 23:38:32",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行首席經濟學家Huw Pill：我的觀點是，我們目前必須維持高利率不變。"
-    },
-    {
-      "id": "mkt:019e2723-8c83-7112-a65c-2d1d1f1930dc",
-      "time": "2026-05-14 23:38:21",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact bullish"
-      ],
-      "text": "BOE'S PILL: INFLATION TENDS TO OVERSHOOT TARGET THAN UNDERSHOOT"
-    },
-    {
-      "id": "4880368",
-      "time": "2026-05-14 23:37:54",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行首席經濟學家Huw Pill：通脹更易高於目標水平，而非低於目標。"
     }
   ]
 }
