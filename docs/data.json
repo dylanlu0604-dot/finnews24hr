@@ -1,7 +1,198 @@
 {
-  "updated": "2026-05-21 15:29:54",
-  "count": 15864,
+  "updated": "2026-05-21 15:33:59",
+  "count": 15872,
   "items": [
+    {
+      "id": "mkt:019e4973-a587-7ee7-b690-2fe81d98ab1d",
+      "time": "2026-05-21 15:32:56",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "RUSSIA SAYS UKRAINE'S ZELENSKIY OPENLY PURSUING A POLICY OF ESCALATING THE CONFLICT"
+    },
+    {
+      "id": "4892122",
+      "time": "2026-05-21 15:32:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【美團在西藏成立新科技公司】天眼查App顯示，近日，西藏三快資訊科技有限公司成立，法定代表人為沈詩奇，註冊資本100萬人民幣，經營範圍為資訊系統整合服務，技術服務、技術開發、技術諮詢、技術交流、技術轉讓、技術推廣，軟體開發，軟體銷售，由美團科技有限公司全資持股。"
+    },
+    {
+      "id": "te:economy:552615",
+      "time": "2026-05-21 15:32:41",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "France",
+        "Services PMI",
+        "Importance 1"
+      ],
+      "text": "France Services PMI Hits Sharpest Contraction Since 2022 — The S&P Global France Services PMI fell to 42.9 in May 2026 from 46.5 in the previous month, worse than market expectations of 46.6, preliminary estimates showed. It marked the sharpest contraction since November 2020, as the ongoing Middle East conflict drove up energy and fuel costs, placing significant pressure on the overall output. Service providers also reported a steep decline in sales volumes. On the price front, inflationary pressures intensified, with firms again citing higher fuel and energy costs as key drivers of price increases. Finally, business sentiment deteriorated markedly for the year ahead, with firms increasingly concerned about persistent price pressures and geopolitical risks. Overall sentiment turned negative for the first time since November 2024, with the level of pessimism reaching its highest since the onset of the COVID-19 pandemic in April 2020."
+    },
+    {
+      "id": "4892121",
+      "time": "2026-05-21 15:32:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【公元股份：目前暫未佈局生產PFA、PVDF等管道、閥門及相關元件】公元股份今日在互動平臺表示，公司深耕塑膠管道行業多年，主營PVC、PPR、PE等通用型管材管件產品，目前暫未佈局生產PFA、PVDF等管道、閥門及相關元件。公司擁有成熟的管材研發、生產與渠道優勢，已持續關注高階特種流體管道行業發展趨勢與市場需求，後續公司將立足自身主業優勢，結合行業發展及企業整體戰略，審慎研究評估切入特種管道領域的可行性與發展路徑。"
+    },
+    {
+      "id": "4892120",
+      "time": "2026-05-21 15:32:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯稱烏克蘭總統澤連斯基公開奉行衝突升級政策。"
+    },
+    {
+      "id": "te:markets:552614",
+      "time": "2026-05-21 15:32:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Opens 0.43% Lower — The FTSE 100 Index is losing 44 points. Losses were led by Fresnillo (-2.98%), Whitbread (-2.56%) and Convatec Group (-2.10%). Offsetting the fall, top gainers were Scottish Mortgage (1.82%), Experian (1.62%) and Babcock International (1.39%)."
+    },
+    {
+      "id": "4892119",
+      "time": "2026-05-21 15:32:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【較去年提前6天 島機場今年客流量突破1000萬人次】截至5月20日，青島機場2026年度累計迎送進出港旅客1001.5萬人次，同比增長4.5%，較去年提前6天突破1000萬人次。其中，日均保障進出港航班、旅客分別達502架次、7.2萬人次；累計保障國際及地區旅客量141.2萬人次，同比增長20%。（觀海新聞）"
+    },
+    {
+      "id": "te:economy:552613",
+      "time": "2026-05-21 15:31:43",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "France",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "France Manufacturing Unexpectedly Contracts in May — France’s S&P Global Manufacturing PMI fell to 48.9 in May 2026, slipping back into contraction after five months of expansion and down from 52.8 in April, defying expectations of continued expansion at 52.2, preliminary estimates showed. Output declined amid weaker demand conditions, with firms citing higher fuel and energy costs, material shortages, and broader economic uncertainty as key factors weighing on production. Inflationary pressures also intensified, with input costs rising at a faster pace, with metal- and oil-based products featuring heavily in supplementary survey responses."
+    },
+    {
+      "id": "4892118",
+      "time": "2026-05-21 15:31:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【山東省司法廳原黨委書記、廳長解維俊被開除黨籍】中央紀委國家監委網站5月21日通報，據山東省紀委監委訊息：經山東省委批准，山東省紀委監委對省司法廳原黨委書記、廳長解維俊嚴重違紀違法問題進行了立案審查調查。經查，解維俊喪失理想信念，背棄初心使命，對黨不忠誠不老實，對抗組織審查；無視中央八項規定精神，違規收受禮金、消費卡；組織意識淡薄，隱瞞不報個人有關事項；廉潔底線失守，利用職權無償接受房屋裝修；貪慾膨脹、以權謀私，利用職務便利為他人在專案承攬、案件處理等方面謀利，並非法收受鉅額財物。解維俊嚴重違反黨的政治紀律、組織紀律和廉潔紀律，構成嚴重職務違法並涉嫌受賄犯罪，且在黨的十八大後不收斂、不收手，性質嚴重，影響惡劣，應予嚴肅處理。依據《中國共產黨紀律處分條例》《中華人民共和國監察法》《中華人民共和國公職人員政務處分法》等有關規定，經山東省紀委常委會會議研究並報山東省委批准，決定給予解維俊開除黨籍處分；按規定取消其享受的待遇；收繳其違紀違法所得；將其涉嫌犯罪問題移送檢察機關依法審查起訴，所涉財物一併移送。"
+    },
+    {
+      "id": "4892117",
+      "time": "2026-05-21 15:31:31",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【市場監管總局：羅文率團訪問西班牙】5月12日至15日，為落實中國和西班牙兩國元首達成的共識，加強中西在市場監管領域的交流合作，國家市場監督管理總局局長羅文應邀率團赴西班牙進行工作訪問。代表團訪問西班牙地方食品安全監管機構，就食品安全風險識別進行交流；與西班牙農業、漁業與食品部回顧雙方合作協議落實情況，就嬰配註冊核查工作、食品安全監管政策法規進行交流，簽署食品安全合作工作計劃；就有機產品認證合作進行交流，簽署有機產品認證合作諒解備忘錄。代表團訪問西班牙國家市場與競爭委員會，簽署合作諒解備忘錄，建立競爭與反壟斷工作常態化交流機制；訪問西班牙國家標準化機構，就標準化領域相關資訊、國際組織框架內合作等進行交流，並簽署標準化合作行動計劃。"
+    },
+    {
+      "id": "4892116",
+      "time": "2026-05-21 15:31:17",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【美副防長能否訪華與特朗普如何處理對臺軍售掛鉤？外交部回應】5月21日，外交部發言人郭嘉昆主持例行記者會。彭博社記者提問，有報道稱，美國國防部副部長已與中方探討了今夏訪問北京的事宜。不過，報道同時指出，中方已發出訊號，表示在特朗普總統決定如何處理對臺軍售方案之前，無法批准此次訪問。對此，郭嘉昆表示，中方反對美國向中國臺灣地區出售武器的立場是一貫的、明確的。“關於你提到的具體問題，請向中方國防部進行詢問。”（澎湃新聞）"
+    },
+    {
+      "id": "te:markets:552612",
+      "time": "2026-05-21 15:31:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Opens 0.72% Lower — The DAX Index is falling 177 points. Losses were driven by Airbus (-2.66%), Siemens Energy (-1.50%) and RWE (-1.10%). Biggest rises came from Qiagen NV (1.35%), Merck (1.26%) and Deutsche Boerse (1.01%)."
+    },
+    {
+      "id": "4892115",
+      "time": "2026-05-21 15:30:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外交部回應朝鮮無核化提問：中方對半島問題的立場和政策保持連續性、穩定性】5月21日，外交部發言人郭嘉昆主持例行記者會。韓聯社記者提問，中美元首會晤以後，美國方面表示兩國元首確認了實現朝鮮無核化的共同目標。而在昨天的中俄元首會晤中，沒有關於無核化的內容。請問中方有何評論？對此，郭嘉昆回應：“有關中美、中俄元首會晤的情況，我們均已經發布了訊息。”郭嘉昆表示，中方在半島問題上的立場和政策保持連續性、穩定性，將以自己的方式為推動半島問題政治解決程序發揮建設性作用。（澎湃新聞）"
+    },
+    {
+      "id": "4892114",
+      "time": "2026-05-21 15:30:12",
+      "tags": [
+        "資料"
+      ],
+      "text": "德國5月服務業PMI初值 47.8，預期47，前值46.9。\n德國5月製造業PMI初值 49.9，預期51，前值51.4。\n德國5月綜合PMI初值 48.6，預期48.4，前值48.4。"
+    },
+    {
+      "id": "mkt:019e4971-2ea3-7ee7-b690-2019be9effa4",
+      "time": "2026-05-21 15:30:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NORTH KOREA CRITICIZES SOUTH KOREA BUYING ARMS FROM U.S. - YONHAP"
+    },
+    {
+      "id": "te:markets:552610",
+      "time": "2026-05-21 15:30:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Opens 0.38% Lower — The CAC 40 Index is dropping 31 points. Leading the losses are Airbus (-2.83%), Societe Generale (-2.35%) and BNP Paribas (-1.67%). Top gainers were Publicis (1.34%), Stellantis NV (0.97%) and Edenred (0.74%)."
+    },
+    {
+      "id": "mkt:019e4970-f6c2-7ee7-b690-1ffbac063ce9",
+      "time": "2026-05-21 15:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | Services PMI Flash (May) | actual 47.8 | consensus 47 | previous 46.9"
+    },
+    {
+      "id": "mkt:019e4970-f5ba-7ee7-b690-117c2c98b32e",
+      "time": "2026-05-21 15:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | Manufacturing PMI Flash (May) | actual 49.9 | consensus 51 | previous 51.4"
+    },
+    {
+      "id": "mkt:019e4970-f5a6-7ee7-b690-0905194fcb94",
+      "time": "2026-05-21 15:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | Composite PMI Flash (May) | actual 48.6 | consensus 48.4 | previous 48.4"
+    },
+    {
+      "id": "4892112",
+      "time": "2026-05-21 15:29:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外交部回應西伯利亞力量2號進展】5月21日，外交部發言人郭嘉昆主持例行記者會。路透社記者提問，關於普京本週對華訪問，發言人能否介紹“西伯利亞力量2號”的進展？郭嘉昆表示，在兩國元首戰略引領下，中俄在能源等各領域開展密切合作。中方願同俄方繼續本著相互尊重互利共贏原則，不斷深化兩國務實合作。（北京青年報）"
+    },
     {
       "id": "4892111",
       "time": "2026-05-21 15:28:25",
@@ -142666,121 +142857,6 @@
         "公司"
       ],
       "text": "【柯力感測：財務總監辭任 董事長代行其職責】柯力感測公告稱，公司財務總監柴小飛因個人原因，於2026年5月14日辭任，不再擔任公司任何職務。截至公告披露日，柴小飛未持股，無未履行完畢承諾，且已做好交接工作。同日，公司召開董事會，審議透過由董事長、總經理柯建東代行財務總監職責的議案，董事會將盡快聘任新任財務總監。"
-    },
-    {
-      "id": "4879403",
-      "time": "2026-05-14 15:33:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "【上海機場：浦東國際機場4月飛機起降量45583架次，同比增長0.38%】上海機場公告，浦東國際機場4月飛機起降量45583架次，同比增長0.38%；旅客吞吐量708.43萬人次，同比增長3.14%；貨郵吞吐量37.87萬噸，同比增長15.38%。虹橋國際機場4月飛機起降量23688架次，同比增長2.91%；旅客吞吐量424.03萬人次，同比增長2.92%；貨郵吞吐量3.83萬噸，同比增長12.30%。"
-    },
-    {
-      "id": "mkt:019e2567-ba01-7aa5-b400-6ec0f732c342",
-      "time": "2026-05-14 15:33:35",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "Magnificent 7",
-        "Market Regions",
-        "Greater China",
-        "Star Stocks",
-        "NVIDIA",
-        "CNH",
-        "Impact bullish",
-        "Hang Seng Index",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【Xi Tells US CEOs Accompanying Trump That China Will Open Up More】Xi Jinping signaled greater openness to foreign business during a meeting with US executives accompanying Donald Trump in Beijing. Xi said American firms had benefited from China’s reform and opening-up process and pledged that “China’s door to the outside world will only open wider,” according to CCTV. Executives shown attending included Elon Musk, Tim Cook, Boeing CEO Kelly Ortberg and Nvidia CEO Jensen Huang. Xi’s remarks echoed Trump’s call for China to “open up” and emphasized broader prospects for US companies in the Chinese market."
-    },
-    {
-      "id": "4879402",
-      "time": "2026-05-14 15:33:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "【江山股份：目前無回購計劃】江山股份5月14日在互動平臺表示，公司目前無回購計劃。"
-    },
-    {
-      "id": "4879401",
-      "time": "2026-05-14 15:33:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣州可能出現龍捲風】據廣州市從化區氣象臺5月14日訊息，受強對流雲團影響，預計從化區可能出現龍捲和短時強降水等強對流天氣。當天12時25分，從化區氣象臺將從化區雷雨大風橙色預警訊號升級為紅色。此前，14日12時22分，廣州市從化區氣象臺釋出龍捲風警報，預計未來1小時，從化區良口鎮、鰲頭鎮、城郊街、溫泉鎮可能有龍捲風，請立即組織防禦，尤其是鐵皮頂廠房、工棚和防風能力差的其他建築物內人員儘快撤離。另外受強雷雨雲團影響，目前，廣州市南沙區、黃埔區、番禺區、花都區炭步鎮等多地釋出暴雨黃色預警訊號。（央廣網）"
-    },
-    {
-      "id": "4879400",
-      "time": "2026-05-14 15:33:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "【烏稱俄羅斯襲擊基輔已致1死40傷】當地時間14日，烏克蘭方面稱首都基輔遭遇俄羅斯大規模襲擊，基輔市市長克利奇科對外通報了此次襲擊造成的人員傷亡情況。克利奇科表示，此次大規模襲擊已造成40人受傷，31人已被送往醫院接受專業治療。當天稍早時，烏克蘭總統澤連斯基在社交媒體上表示，基輔正在對一棟遭俄羅斯無人機襲擊的九層居民樓開展救援。該樓的一個單元已完全損毀，目前數十人獲救，1人不幸遇難，廢墟下或仍有被困人員，救援仍在進行。目前，俄羅斯方面暫無回應。（央視新聞）"
-    },
-    {
-      "id": "4879399",
-      "time": "2026-05-14 15:33:08",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【美國國務卿魯比奧：中美關係非常有建設性】5月14日上午，國家主席習近平在北京人民大會堂同來華進行國事訪問的美國總統特朗普舉行會談。會談結束後，ToSun記者團採訪了出席會談的美國國務卿魯比奧。談及未來中美關係，他表示兩國關係至關重要且富有建設性，“世界穩定符合每個人的利益”。（央視新聞）"
-    },
-    {
-      "id": "4879398",
-      "time": "2026-05-14 15:32:49",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "土耳其央行行長：伊朗衝突引發的通脹影響將在短期內顯現，我們將對第二輪影響進行監控。"
-    },
-    {
-      "id": "4879397",
-      "time": "2026-05-14 15:32:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "【城發環境：公司業務暫不涉及算力、伺服器領域】城發環境5月14日在互動平臺表示，公司業務暫不涉及算力、伺服器領域。"
-    },
-    {
-      "id": "4879396",
-      "time": "2026-05-14 15:32:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【港股恒生指數、恒生科技指數尾盤雙雙轉跌】港股恒生指數、恒生科技指數尾盤雙雙轉跌。"
-    },
-    {
-      "id": "te:markets:550618",
-      "time": "2026-05-14 15:32:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE 100 Index Opens 0.03% Higher — The FTSE 100 Index is gaining 3 points or 0.03 percent on Thursday. Leading the gains are Legal & General (4.47%), Barclays (2.57%) and National Grid (2.00%). Top losers are 3i (-19.87%), Burberry (-3.12%) and B&M European Value (-1.66%)."
-    },
-    {
-      "id": "4879395",
-      "time": "2026-05-14 15:30:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "【真維斯：相似名稱無認證賬號均與公司無關】5月14日，@真維斯 就仿冒賬號釋出宣告，表示近期接到多位消費者反饋投訴，小紅書平臺內湧現大量仿冒真維斯的非官方賬號。此類賬號透過偽裝官方身份、釋出不實資訊、發起虛假活動等方式誤導使用者。獲悉相關情況後，公司已第一時間向平臺反饋，積極推動對違規賬號的處理。相似名稱無認證賬號均與真維斯無關。品牌所有官方活動均由認證藍V賬號釋出，官方不會私信引流、索要個人隱私資訊。目前我司已對假冒賬號取證並提交平臺投訴，將依法維權、嚴厲打擊侵權行為。"
-    },
-    {
-      "id": "4879394",
-      "time": "2026-05-14 15:30:25",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【商務部：截至5月13日，50個有獎發票試點城市投入獎金48.9億元】商務部新聞發言人何詠前在5月14日舉行的例行新聞釋出會上表示，根據中辦、國辦《提振消費專項行動方案》工作部署，商務部會同財政部、稅務總局在2026年春節前全面啟動有獎發票活動，在北京、上海等50個城市開展試點。目前各項工作穩步推進，試點成效加快顯現，主要體現在三個方面。首先是活動熱度持續升溫。春節、清明、“五一”假期，有獎發票日均參與人次分別達662萬、607萬、690萬，為假日消費增紅火、添喜氣。其次是活動體驗不斷豐富。三是提振消費效果明顯。有獎發票政策透過增客流、聚人氣，有力促進銷售增長，激發線下消費活力。截至5月13日，50個試點城市投入獎金48.9億元，參與活動發票金額2088.2億元。下一步，將指導各地持續最佳化實施細則，拓展參與渠道，不斷擴大活動覆蓋面，讓更多消費者享受政策紅利。"
     }
   ]
 }
