@@ -1,7 +1,188 @@
 {
-  "updated": "2026-05-22 01:57:21",
-  "count": 16254,
+  "updated": "2026-05-22 02:01:07",
+  "count": 16265,
   "items": [
+    {
+      "id": "mkt:019e4bb2-5697-7aa1-9580-9b783ab741f0",
+      "time": "2026-05-22 02:00:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "FED'S BARKIN: BOND YIELDS ARE STILL IN A REASONABLE ZONE"
+    },
+    {
+      "id": "4893545",
+      "time": "2026-05-22 02:00:31",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲巴爾金：基於債券市場的長期通脹預期並未出現脫錨。"
+    },
+    {
+      "id": "mkt:019e4bb2-392c-7aa1-9580-93f7aae7ed3b",
+      "time": "2026-05-22 02:00:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "FED'S BARKIN: TAKE ENCOURAGEMENT FROM RECENT JOB GROWTH, BUT NOT HARD TO IMAGINE POSSIBLE JOB LOSSES DUE TO AI"
+    },
+    {
+      "id": "mkt:019e4bb2-2c93-7aa1-9580-89aee0ee89bb",
+      "time": "2026-05-22 02:00:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "FED'S BARKIN: EMPLOYERS OUTSIDE OF SOFTWARE ARE NOT YET REDUCING HEADCOUNT DUE TO AI"
+    },
+    {
+      "id": "4893544",
+      "time": "2026-05-22 02:00:26",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲巴爾金：不傾向於過度側重通脹或就業面臨的風險。"
+    },
+    {
+      "id": "mkt:019e4bb2-1dd9-7aa1-9580-81786f45a706",
+      "time": "2026-05-22 02:00:24",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "FED'S BARKIN: BUSINESSES TODAY ARE MUCH LESS CONFIDENT ABOUT THEIR ABILITY TO RAISE CONSUMER PRICES TO RECOUP COSTS"
+    },
+    {
+      "id": "4893543",
+      "time": "2026-05-22 02:00:21",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲巴爾金：人工智慧對經濟的短期與長期影響難下定論。"
+    },
+    {
+      "id": "mkt:019e4bb2-0e7f-7aa1-9580-79d02ca3eaad",
+      "time": "2026-05-22 02:00:20",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "FED'S BARKIN: LONGER-TERM BOND-MARKET-BASED INFLATION EXPECTATIONS DO NOT LOOK LIKE IT HAS BROKEN OUT"
+    },
+    {
+      "id": "4893542",
+      "time": "2026-05-22 02:00:17",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲巴爾金：鑑於美國國債的供應量，我懷疑長期國債市場的供需平衡是否已經發生了轉變。"
+    },
+    {
+      "id": "mkt:019e4bb1-ffa4-7aa1-9580-7051dc05ad8d",
+      "time": "2026-05-22 02:00:16",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "FED'S BARKIN: NERVOUS ABOUT THE TAILS ON BOTH SIDES OF THE MANDATE"
+    },
+    {
+      "id": "mkt:019e4bb1-f346-7aa1-9580-6d22d9430c10",
+      "time": "2026-05-22 02:00:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "FED'S BARKIN: WONDER IF BALANCE BETWEEN SUPPLY AND DEMAND IN LONG-TERM TREASURY MARKET HAS SHIFTED GIVEN AMOUNT OF U.S. SUPPLY"
+    },
+    {
+      "id": "mkt:019e4bb1-df0b-7aa1-9580-6424ca90922c",
+      "time": "2026-05-22 02:00:08",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "FED'S BARKIN: NOT LEANING TOWARDS OVERLY FOCUSING ON RISKS TO INFLATION OR EMPLOYMENT"
+    },
+    {
+      "id": "4893541",
+      "time": "2026-05-22 02:00:01",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "巴西財政部長：消費者債務重組計劃迄今已結清44.9萬筆債務。"
+    },
+    {
+      "id": "4893540",
+      "time": "2026-05-22 01:58:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "據知情人士透露，Kalshi Inc.融資2億美元，估值維持在220億美元。"
+    },
+    {
+      "id": "mkt:019e4baf-9967-7aa1-9580-5df41b4e5f3b",
+      "time": "2026-05-22 01:57:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【U.S. Expended Half of THAAD Inventory Defending Israel During Iran Conflict】The U.S. military fired more than 200 THAAD interceptors and over 100 SM-3 and SM-6 missiles defending Israel during hostilities with Iran, consuming roughly half of the Pentagon’s THAAD inventory, according to Defense Department assessments cited by The Washington Post. Israel reportedly used fewer than 100 Arrow interceptors and about 90 David’s Sling interceptors. U.S. officials said Washington absorbed most of the ballistic missile defense burden under a prearranged framework, raising concerns about U.S. readiness in Asia and other theaters. Pentagon spokesman Sean Parnell said both countries “carried the defensive burden equitably” during Operation Epic Fury."
+    },
+    {
+      "id": "mkt:019e4baf-3fc0-7aa1-9580-5191e237f543",
+      "time": "2026-05-22 01:57:16",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "YIELD ON 10-YR U.S. TREASURY NOTES HITS SESSION LOW, LAST AT 4.555%"
+    },
+    {
+      "id": "mkt:019e4baf-1fad-7aa1-9580-4b71904e8647",
+      "time": "2026-05-22 01:57:08",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "OIL PRICES EXTEND LOSSES, BRENT AND WTI CRUDE FALL BY MORE THAN $2/BBL ON REPORT OF DRAFT US-IRAN DEAL"
+    },
+    {
+      "id": "4893539",
+      "time": "2026-05-22 01:56:57",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國10年期國債收益率觸及日內低點，最新報4.555%。"
+    },
     {
       "id": "4893538",
       "time": "2026-05-22 01:56:47",
@@ -146018,70 +146199,6 @@
         "國際"
       ],
       "text": "中國地震臺網自動測定：05月15日01時53分在印尼班達海附近（南緯6.37度，東經130.54度）發生6.2級左右地震，最終結果以正式速報為準。"
-    },
-    {
-      "id": "4880468",
-      "time": "2026-05-15 02:00:50",
-      "tags": [
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "美聯儲理事米蘭遞交辭呈。"
-    },
-    {
-      "id": "4880467",
-      "time": "2026-05-15 02:00:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "【斯塔默對英國衛生和社會福利大臣辭職表遺憾】英國首相斯塔默14日致信衛生和社會福利大臣韋斯·斯特里廷，對其辭職表示遺憾。在英國首相府當天公佈的信件中，斯塔默稱上週英國地方選舉結果非常嚴峻，競爭對手比以往任何時候都更具威脅，工黨需投身“關乎國家靈魂的鬥爭”，以兌現承諾。斯塔默還表示，很遺憾斯特里廷不能再出席內閣會議，相信未來他仍能在黨內發揮重要作用。（新華社）"
-    },
-    {
-      "id": "mkt:019e27a5-8010-7bb5-b4d1-b25466737e94",
-      "time": "2026-05-15 02:00:18",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "FED'S MIRAN SUBMITS RESIGNATION FROM FED BOARD EFFECTIVE ON OR SHORTLY BEFORE KEVIN WARSH'S SWEARING IN AS CHAIR"
-    },
-    {
-      "id": "mkt:019e27a3-fa81-7bb5-b4d1-aa34e9ac8277",
-      "time": "2026-05-15 01:58:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "EARTHQUAKE OF MAGNITUDE 6.37 STRIKES BANDA SEA - GFZ"
-    },
-    {
-      "id": "mkt:019e27a3-96a6-7bb5-b4d1-a639a3f0787f",
-      "time": "2026-05-15 01:58:12",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "Brent"
-      ],
-      "text": "NETANYAHU: HAD WE NOT LAUNCHED THE WAR ON IRAN TWICE, WE WOULD HAVE FACED AN ENTITY POSSESSING A NUCLEAR BOMB AND POSING AN EXISTENTIAL THREAT TO US"
-    },
-    {
-      "id": "mkt:019e27a3-5161-7bb5-b4d1-9bc1250f006e",
-      "time": "2026-05-15 01:57:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "NETANYAHU: WE HAVE TURNED THE EQUATION UPSIDE DOWN, AND THE IRANIAN REGIME HAS BECOME WEAKER THAN EVER BEFORE, WHILE WE HAVE BECOME STRONGER THAN EVER BEFORE"
-    },
-    {
-      "id": "mkt:019e27a3-25c2-7bb5-b4d1-96623030b046",
-      "time": "2026-05-15 01:57:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "NETANYAHU: WE TELL THE ENTIRE WORLD THAT JERUSALEM WILL REMAIN OUR ETERNAL AND HISTORICAL CAPITAL"
     }
   ]
 }
