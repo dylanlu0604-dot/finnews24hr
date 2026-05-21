@@ -1,7 +1,49 @@
 {
-  "updated": "2026-05-21 23:42:00",
-  "count": 16201,
+  "updated": "2026-05-21 23:46:20",
+  "count": 16197,
   "items": [
+    {
+      "id": "te:markets:552827",
+      "time": "2026-05-21 23:45:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "CAC 40 Falls on Weak PMI and US-Iran Tensions — The CAC 40 lost 0.4% to close at 8,086 on Thursday as investors weighed weak PMI data and ongoing tensions between the US and Iran. France’s composite PMI fell sharply to 43.5 in May from 47.6 in April, well below forecasts of 47.7. The downturn reflected a steeper contraction in services activity and a renewed decline in manufacturing, signaling weakening demand amid mounting cost pressures tied to elevated energy prices. Meanwhile, oil prices rebounded after reports that Iran would not ship its near weapons-grade uranium abroad, reviving concerns that a war-driven energy shock could keep inflation and interest rates elevated. Industrials led losses, with Airbus down 3.5% and Safran shedding 0.6%. Luxury shares also weakened, as Kering lost 1.4% and Hermès fell 0.5%. In contrast, TotalEnergies gained 0.9% on higher oil prices."
+    },
+    {
+      "id": "4893414",
+      "time": "2026-05-21 23:44:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息： 白俄羅斯總統簽署法案，批准白俄羅斯與俄羅斯政府間貴金屬、寶石及其製品領域合作協定。"
+    },
+    {
+      "id": "mkt:019e4b33-d8de-7aa1-957e-71fba8e7599c",
+      "time": "2026-05-21 23:42:29",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "GOOLSBEE: I'M MOST ATTUNED TO INFLATION SIDE OF DUAL MANDATE GOOLSBEE: JOB MARKET HAS BEEN MOSTLY STABLE"
+    },
+    {
+      "id": "4893413",
+      "time": "2026-05-21 23:42:25",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：我重點關注雙重使命中的通脹相關層面。"
+    },
     {
       "id": "mkt:019e4b32-5a83-7bb7-824d-d018eded9922",
       "time": "2026-05-21 23:40:51",
@@ -145571,80 +145613,6 @@
         "MKT News"
       ],
       "text": "BLACKSTONE REIT SAID TO SELL 90% OF IPO SHARES TO 25 INVESTORS"
-    },
-    {
-      "id": "4880378",
-      "time": "2026-05-14 23:45:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "【霍爾木茲海峽原油流量小幅回升，更多超級油輪駛離】近日透過霍爾木茲海峽運輸未受制裁原油的超級油輪數量出現回升跡象，為遭遇史上最大供應受阻的石油市場帶來有限緩解。彭博彙編的船舶跟蹤資料顯示，自5月10日以來，已有四艘各載200萬桶原油的油輪駛離，其中大部分為伊拉克原油。儘管如此，在伊朗戰爭爆發前，每天約有20艘不同規模的油輪透過這一水道。"
-    },
-    {
-      "id": "mkt:019e2729-fa5b-7332-b0f0-da62dc1a2136",
-      "time": "2026-05-14 23:45:22",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact bullish"
-      ],
-      "text": "BOE'S PILL: LONG RATES AREN'T QUESTIONING CREDIBILITY OF POLICY"
-    },
-    {
-      "id": "4880377",
-      "time": "2026-05-14 23:45:14",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行首席經濟學家Huw Pill：長端利率並未質疑政策公信力。財政和全球形勢正在影響長期市場利率以及通脹前景。"
-    },
-    {
-      "id": "4880376",
-      "time": "2026-05-14 23:44:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "哥倫比亞財長：哥倫比亞應開拓亞洲渠道，實現債務結構多元化。該國必須分散公共債務的匯率風險。"
-    },
-    {
-      "id": "mkt:019e2729-23c3-7dde-99f7-0a882d71c88c",
-      "time": "2026-05-14 23:44:27",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact mixed"
-      ],
-      "text": "BOE'S PILL: FISCAL AND GLOBAL SITUATION ARE INFLUENCING LONG-TERM MARKET RATES AS WELL AS INFLATION OUTLOOK"
-    },
-    {
-      "id": "4880375",
-      "time": "2026-05-14 23:43:52",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【摩根資產管理稱全球股市的贏家不僅侷限於人工智慧】摩根資產管理的Paul Quinsee表示，全球股市的回報率在某些情況下甚至超過了標普500指數，科技公司在特定策略中僅佔很小一部分。“國際價值股的多元化程度遠超科技股和‘七巨頭’，”摩根資產管理全球股票主管Quinsee週四表示。“你可以構建一個國際價值股投資組合，以約11倍的市盈率買入不錯的公司。科技股在這類籃子中僅佔3%或4%。”Quinsee的建議是對當前市場AI狂潮的一種平衡。伊朗戰爭導致納斯達克100指數在3月創一年來最差月度表現，隨後市場對大型科技股的熱情正全面推動其上漲。在人工智慧樂觀情緒推動下，一籃子美國半導體製造商的股價自4月初以來飆升近60%，並在能源價格飆升引發通脹加速的擔憂中持續上漲。"
-    },
-    {
-      "id": "mkt:019e2727-6028-7112-a65c-4b29a7354570",
-      "time": "2026-05-14 23:42:32",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "BOE'S PILL: HOUSEHOLDS AND FIRMS ARE WORRIED ABOUT INFLATION"
-    },
-    {
-      "id": "4880374",
-      "time": "2026-05-14 23:42:25",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行首席經濟學家Huw Pill： 家庭與企業均對通脹形勢感到擔憂。"
     }
   ]
 }
