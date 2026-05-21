@@ -1,7 +1,59 @@
 {
-  "updated": "2026-05-21 14:14:42",
-  "count": 15843,
+  "updated": "2026-05-21 14:18:33",
+  "count": 15832,
   "items": [
+    {
+      "id": "te:markets:552575",
+      "time": "2026-05-21 14:16:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Poised for Cautious Open — European equity markets were on track to open slightly lower on Thursday as investors assessed signs that the US and Iran may be nearing an agreement to end the conflict and potentially reopen the Strait of Hormuz. President Donald Trump said Washington was in the final stages of negotiations with Tehran, raising hopes that tensions in the Middle East could soon ease. In Europe, market participants will closely monitor flash PMI data from the Eurozone, Germany, France and the UK, along with Italy’s current account figures, for further clues on regional economic conditions. On the corporate side, investors are awaiting earnings results from Generali, BT Group and The Sage Group, among others. In premarket trading, futures tied to the Euro Stoxx 50 and Stoxx 600 were both down around 0.2%."
+    },
+    {
+      "id": "4891953",
+      "time": "2026-05-21 14:15:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【CPO概念股快速下挫，蘅東光、英唐智控跌超10%】CPO概念股快速下挫，蘅東光、英唐智控跌超10%，光迅科技、廣立微跌超9%，長光華芯、仕佳光子紛紛下挫。"
+    },
+    {
+      "id": "4891952",
+      "time": "2026-05-21 14:15:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【阿根廷巴塔哥尼亞：近60年來最嚴重夏季林火 恢復需兩個世紀】一份日前釋出的報告顯示，2025年10月至2026年3月，阿根廷巴塔哥尼亞地區遭遇了近60年來最嚴重的森林火災，火災席捲的森林面積達6萬多公頃。阿根廷位於南半球。該國南部的巴塔哥尼亞地區擁有全球少數儲存較好的溫帶原始森林生態系統，棲息著大量標誌性物種。科研人員表示，在剛過去的這個夏季，嚴重森林火災給這一地區所造成的損失“需要兩個世紀才能恢復”。（新華社）"
+    },
+    {
+      "id": "4891951",
+      "time": "2026-05-21 14:15:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【盒馬2026財年GMV超千億，盒馬鮮生業態運營超490家門店】根據阿里年報，2026財年，盒馬持續聚焦優選業態，並向更多新興城市及縣市佈局門店，全年整體GMV超過人民幣1070億元，並連續第二年實現全年經調整EBITA為正。截至2026財年末，盒馬鮮生業態運營超過490家門店，線上交易GMV貢獻超過60%。（新浪科技）"
+    },
+    {
+      "id": "4891950",
+      "time": "2026-05-21 14:15:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【澳大利亞暴發有記錄以來最大規模白喉疫情】當地時間5月21日，澳大利亞聯邦政府宣佈投入720萬澳元，應對該國多地出現的白喉疫情。此項投入將主要包括為國家重症監護和創傷反應中心提供資金，用於組建一支應急隊伍，以開展加強疫苗接種和治療，以及採購額外的疫苗和抗生素。澳大利亞國家傳染病監測系統報告稱，今年已出現230例白喉病例，這是自該國開始有相關記錄以來規模最大的一次白喉疫情。目前，感染病例主要集中在北領地，但疫情已蔓延至西澳州、南澳州和昆士蘭州。（央視新聞）"
+    },
+    {
+      "id": "4891949",
+      "time": "2026-05-21 14:14:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國衛生部：未成年人螢幕時間過長已成公共衛生問題】美國衛生與公共服務部20日釋出報告說，兒童和青少年過度使用電子產品，包括無休止地刷社交媒體、不停地發簡訊、長時間玩電子遊戲等，已成為一個公共衛生問題。美國有線電視新聞網援引報告內容報道，美國孩子通常不到一歲就開始接觸電子產品，使用時長隨年齡增長逐漸增加。到青少年時期，孩子們每天的“螢幕時間”平均達至少4小時。近半數青少年承認，沒注意過自己花了多長時間玩手機，有些人在螢幕前度過的時間甚至比睡覺或上學的時間還長。（新華社）"
+    },
     {
       "id": "4891948",
       "time": "2026-05-21 14:14:03",
@@ -142402,156 +142454,6 @@
         "2317.TW"
       ],
       "text": "FOXCONN: EXPECTS Q2 REVENUE FOR COMPUTING PRODUCTS TO BE FLATTISH Y/Y"
-    },
-    {
-      "id": "4879259",
-      "time": "2026-05-14 14:17:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "鴻海：預計二季度雲與網路產品營收將實現同比強勁增長。"
-    },
-    {
-      "id": "4879258",
-      "time": "2026-05-14 14:17:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "鴻海：預計智慧消費電子業務第二季度營收將實現同比大幅增長。"
-    },
-    {
-      "id": "mkt:019e2522-fb01-799f-8003-a707880fabd5",
-      "time": "2026-05-14 14:17:29",
-      "tags": [
-        "MKT News",
-        "2317.TW",
-        "Impact bullish"
-      ],
-      "text": "FOXCONN: EXPECTS Q2 REVENUE FOR SMART CONSUMER ELECTRONICS TO SEE SIGNIFICANT GROWTH Y/Y"
-    },
-    {
-      "id": "4879257",
-      "time": "2026-05-14 14:17:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "鴻海：預計第二季度收入同比將實現強勁增長。"
-    },
-    {
-      "id": "mkt:019e2522-a72d-799f-8003-98285c756c4d",
-      "time": "2026-05-14 14:17:24",
-      "tags": [
-        "MKT News",
-        "2317.TW",
-        "Impact bullish"
-      ],
-      "text": "FOXCONN: EXPECTS 2026 REVENUE TO SEE STRONG GROWTH Y/Y (VS PREVIOUS FORECAST OF STRONG GROWTH)"
-    },
-    {
-      "id": "mkt:019e2522-0ad0-799f-8003-97b1b4deac0a",
-      "time": "2026-05-14 14:17:17",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "IRAN'S FOREIGN MINISTER: TEHRAN CALLS ON BRICS MEMBERS TO UNEQUIVOCALLY CONDEMN U.S. AND ISRAEL AGGRESSION AGAINST IRAN - STATEMENT"
-    },
-    {
-      "id": "mkt:019e2521-bca7-799f-8003-896071b792d9",
-      "time": "2026-05-14 14:17:08",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "2317.TW",
-        "Impact bullish"
-      ],
-      "text": "FOXCONN: Q1 NET PROFIT T$49.92 BLN (VS ANALYST FORECAST T$48.88 BLN)"
-    },
-    {
-      "id": "4879256",
-      "time": "2026-05-14 14:17:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部長發表宣告稱：西方的“虛假優越感”必須被全球南方粉碎。"
-    },
-    {
-      "id": "4879255",
-      "time": "2026-05-14 14:16:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "鴻海：預計2026年收入將實現同比強勁增長，此前預期同樣為強勁增長。"
-    },
-    {
-      "id": "4879253",
-      "time": "2026-05-14 14:16:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部長發表宣告稱：德黑蘭呼籲金磚國家成員國明確譴責美國和以色列對伊朗的侵略行徑。"
-    },
-    {
-      "id": "4879252",
-      "time": "2026-05-14 14:15:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "鴻海第一季度營收2.12萬億元臺幣，預估2.15萬億元臺幣。"
-    },
-    {
-      "id": "4879251",
-      "time": "2026-05-14 14:15:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "鴻海第一季度營業利潤756.5億元臺幣，預估669.2億元臺幣。"
-    },
-    {
-      "id": "4879250",
-      "time": "2026-05-14 14:15:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外長阿拉格齊：是時候將美國的霸權行為掃進歷史的垃圾堆了。"
-    },
-    {
-      "id": "4879249",
-      "time": "2026-05-14 14:15:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "鴻海：第一季度淨利潤499.2億元臺幣，預估484.3億元臺幣。"
-    },
-    {
-      "id": "4879248",
-      "time": "2026-05-14 14:15:00",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印度SENSEX指數上漲1%，至75360.45點。"
-    },
-    {
-      "id": "4879247",
-      "time": "2026-05-14 14:14:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "【豆包輸入法上新，可在電腦上語音打字】5月14日，豆包輸入法macOS版本正式上線，基於豆包App同款語音模型，使用者可以在電腦上實現語音輸入，不限制時長，支援多種方言和中英混說。"
-    },
-    {
-      "id": "4879246",
-      "time": "2026-05-14 14:14:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "【秘魯總統選舉將舉行第二輪投票】秘魯13日釋出的總統選舉第一輪投票結果顯示，總統候選人羅伯託·桑切斯憑藉極微弱優勢晉級總統選舉第二輪，將在6月與秘魯前總統阿爾韋託·藤森的女兒藤森慶子一爭高下。（新華社）"
     }
   ]
 }
