@@ -1,7 +1,57 @@
 {
-  "updated": "2026-05-22 01:53:36",
-  "count": 16249,
+  "updated": "2026-05-22 01:57:21",
+  "count": 16254,
   "items": [
+    {
+      "id": "4893538",
+      "time": "2026-05-22 01:56:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "週四（5月21日），韓元兌美元最終跌0.78%，報1508.55韓元，整體持續走低。"
+    },
+    {
+      "id": "mkt:019e4bae-cd34-7aa1-9580-47b4c7259db0",
+      "time": "2026-05-22 01:56:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "THE U.S. HAS DEPLETED MUCH OF ITS INVENTORY OF ADVANCED MISSILE-DEFENSE INTERCEPTORS AFTER EXPENDING FAR MORE HIGH-END MUNITIONS DEFENDING ISRAEL THAN ISRAELI FORCES USED THEMSELVES, PER DOD ASSESSMENTS OF OPERATION EPIC FURY - WAPO"
+    },
+    {
+      "id": "4893537",
+      "time": "2026-05-22 01:56:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國導彈防禦儲備已大幅消耗。"
+    },
+    {
+      "id": "4893536",
+      "time": "2026-05-22 01:55:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油失守96美元/桶，日內跌2.30%。"
+    },
+    {
+      "id": "4893535",
+      "time": "2026-05-22 01:54:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "納斯達克100指數漲幅擴大至0.5%。"
+    },
+    {
+      "id": "4893534",
+      "time": "2026-05-22 01:53:46",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美、布兩油均跌破100美元關口】美、布兩油持續走低，雙雙跌破100美元關口，現分別報99.6美元/桶和99.7美元/桶。"
+    },
     {
       "id": "4893533",
       "time": "2026-05-22 01:52:17",
@@ -146032,14 +146082,6 @@
         "MKT News"
       ],
       "text": "NETANYAHU: WE TELL THE ENTIRE WORLD THAT JERUSALEM WILL REMAIN OUR ETERNAL AND HISTORICAL CAPITAL"
-    },
-    {
-      "id": "4880466",
-      "time": "2026-05-15 01:56:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "據BBC：英國首相斯塔默不會阻止伯納姆參加議會選舉。"
     }
   ]
 }
