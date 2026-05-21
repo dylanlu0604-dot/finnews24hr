@@ -1,7 +1,35 @@
 {
-  "updated": "2026-05-22 06:51:07",
-  "count": 16167,
+  "updated": "2026-05-22 06:55:05",
+  "count": 16166,
   "items": [
+    {
+      "id": "te:markets:552871",
+      "time": "2026-05-22 06:53:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Rises but Eyes 2nd Consecutive Weekly Los — The NZX 50 climbed 40 points, or 0.3%, to 12,918 in Friday morning trade, rising for a second straight session and tracking overnight gains on Wall Street as oil prices eased amid hopes of a US-Iran deal to end the war. Fresh data also lifted sentiment, as New Zealand’s retail sales grew more than expected in Q1, following Thursday’s data showing the trade surplus reached a record high, with exports climbing to an all-time high. However, traders remained focused on the RBNZ’s interest rate decision, as well as the first estimate of US GDP and the PCE price index due next week. Healthcare, consumer discretionary, industrials, and materials stocks drove the index higher, with notable gains from Fisher & Paykel (1.6%), Auckland International Airport (0.9%), Henderson Far East Income (1.0%), Summerset Group (0.8%), and Hallenstein Glasson (0.5%). For the week, the index fell 0.4%, marking what would be its second straight weekly decline, amid uncertainty surrounding US-Iran talks."
+    },
+    {
+      "id": "4893682",
+      "time": "2026-05-22 06:51:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯雅羅斯拉夫爾州遭無人機襲擊，當地州長證實此事。"
+    },
+    {
+      "id": "4893681",
+      "time": "2026-05-22 06:50:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "【區域性過熱存風險隱憂，私募尋找策略新座標】近期，A股市場在相對高位展開震盪，內部結構的分化逐步擴大。以AI為核心的科技板塊總體吸金，與非科技板塊之間的“剪刀差”拉大。記者日前採訪了多家知名私募機構，受訪私募普遍認為，當前市場的結構性分化既有堅實的產業邏輯支撐，也暗含著區域性過熱的風險隱憂，而對這一分化的不同認知，正在催生從“聚焦進攻”到“攻守平衡”再到“逆向佈局”的策略分化，一場圍繞風險與機會的激辯正在股票私募領域悄然展開。（中證報）"
+    },
     {
       "id": "te:economy:552870",
       "time": "2026-05-22 06:47:53",
@@ -145340,39 +145368,6 @@
         "焦點"
       ],
       "text": "今天《人民日報》頭版的主要內容有：\n1、習近平同美國總統特朗普會談\n2、習近平同美國總統特朗普參觀天壇\n3、習近平為美國總統特朗普舉行歡迎宴會。"
-    },
-    {
-      "id": "4880725",
-      "time": "2026-05-15 06:54:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "【“戰爭並未停止” 巴勒斯坦民眾舉行“災難日”紀念活動】今年的5月15日是巴勒斯坦第78個“災難日”。1948年5月15日、即以色列宣佈建國的次日，第一次中東戰爭爆發，以色列佔領了聯合國181號決議規定的大部分巴勒斯坦領土，大批巴勒斯坦人被迫逃離家園、淪為難民。巴勒斯坦方面每年都要舉行活動銘記這一日子，今年也不例外。（央視新聞）"
-    },
-    {
-      "id": "4880724",
-      "time": "2026-05-15 06:54:29",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "韓國財政部表示，將密切監測和管理房地產市場。"
-    },
-    {
-      "id": "4880723",
-      "time": "2026-05-15 06:53:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【審計機構獨立性提升，非標意見成退市“硬約束”】近日，蘇州清越光電科技股份有限公司、元道通訊股份有限公司股票被實施退市風險警示（即*ST）。據Wind資料統計，截至5月14日，今年以來，82家公司被實施*ST，原因涉及破產重整、財務造假、財務資料不達標、淨資產為負以及非標審計意見等，部分公司同時觸及多項指標。其中，17家公司涉及非標審計意見。另外，年內還有多家*ST公司因非標審計意見最終走向退市，非標審計意見成為退市“硬約束”。（證券日報）"
-    },
-    {
-      "id": "4880722",
-      "time": "2026-05-15 06:52:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "惠譽：因業績表現向好，將 T-Mobile評級展望上調至正面。"
     }
   ]
 }
