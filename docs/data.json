@@ -1,7 +1,68 @@
 {
-  "updated": "2026-05-22 00:28:46",
-  "count": 16233,
+  "updated": "2026-05-22 00:32:48",
+  "count": 16237,
   "items": [
+    {
+      "id": "4893480",
+      "time": "2026-05-22 00:32:00",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "兩名訊息人士稱，俄羅斯諾爾西煉油廠 5 月 20 日遭無人機襲擊後，已關停 CDU-6 主力一次加工裝置。"
+    },
+    {
+      "id": "mkt:019e4b61-2e3b-7aa1-957f-9a9f27957657",
+      "time": "2026-05-22 00:32:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TRUMP ANNOUNCES THAT BEEF PRICES WILL DECREASE"
+    },
+    {
+      "id": "4893479",
+      "time": "2026-05-22 00:31:14",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美國抵押貸款利率升至8月份以來最高 戰爭推升通脹】美國抵押貸款利率本週躍升至8月份以來最高，對剛有起色的春季售房旺季構成威脅。房地美週四公佈，30年期固定利率貸款的平均利率從6.36%躍升至6.51%，創3月底以來最大單週升幅。住房市場已受制於地緣政治形勢牽制，伊朗戰爭推高了油價、通脹和債券收益率。10年期美國國債收益率徘徊在約一年高位，而30年期國債收益率距離2007年以來未見的高點不遠。此前預期美聯儲會降息的分析師，如今正在權衡加息的可能性。即便如此，市場韌性強於預期。美國全國房地產經紀人協會週二表示，4月二手房簽約量連續第三個月上升。Realtor.com資料顯示，新掛牌房源和簽約量均處於2022年以來最高水平。與表現低迷的去年春季相比，購房者至少不必面對一年前平均6.86%的房貸利率。"
+    },
+    {
+      "id": "mkt:019e4b60-0f20-7aa1-957f-95f807d6f4b0",
+      "time": "2026-05-22 00:30:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bearish"
+      ],
+      "text": "CHINA BLOCKS SOME SOLAR MANUFACTURING GEAR EXPORTS TO TESLA: NYT"
+    },
+    {
+      "id": "4893478",
+      "time": "2026-05-22 00:30:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：牛肉價格正在下降。"
+    },
+    {
+      "id": "te:markets:552838",
+      "time": "2026-05-22 00:30:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Natural Gas Rebounds Toward 2-Month High — US natural gas futures rose to $3.05 per MMBtu on Thursday, not far from the highest level in two months as escalating geopolitical tension in the Middle East prolonged the view of no exports from the region. Reports indicated that Iran's Supreme Leader ordered the IRGC to keep uranium reserves in territory, defying requests from the US for an agreement to prolong the blockade from both countries on flows of liquified natural gas from the region. The escalation also threatened fresh attacks in energy facilities in GCC countries, with with Ras Laffan infrastructure in Qatar still damaged by Iranian strikes in March. The development continued to underpin demand for US LNG in Europe and Asia, aligned with the surge in prices for in their receiving hubs. Still, new data showed that domestic gas inventories rose by 101 billion cubic feet last week, more than expected."
+    },
     {
       "id": "4893477",
       "time": "2026-05-22 00:27:28",
@@ -145888,22 +145949,6 @@
         "其他"
       ],
       "text": "【“2026·中國－中亞人權發展論壇”在烏茲別克舉行】當地時間14日，由中國人權發展基金會和烏茲別克國家人權中心共同主辦的“2026·中國－中亞人權發展論壇”在烏茲別克首都塔什干舉行。論壇主題為“以高質量發展共促人權進步”，來自中國和哈薩克、吉爾吉斯斯坦、塔吉克、土庫曼、烏茲別克六國的人權領域官員、專家學者等近百人出席。（央視新聞）"
-    },
-    {
-      "id": "mkt:019e2753-b995-7bb5-b4d0-c9e414cb6117",
-      "time": "2026-05-15 00:30:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "SOURCE REPORTING THE EVENT IN WASHINGTON: NO INDICATIONS OF ANY SERIOUS BREACH OCCURRING IN THE ROUND OF NEGOTIATIONS BETWEEN LEBANON AND ISRAEL"
-    },
-    {
-      "id": "mkt:019e2752-ee2a-7bb5-b4d0-c3e2773855f9",
-      "time": "2026-05-15 00:30:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "OPENAI SAYS HACKERS STOLE SOME DATA AFTER LATEST CODE SECURITY ISSUE – TECHCRUNCH"
     }
   ]
 }
