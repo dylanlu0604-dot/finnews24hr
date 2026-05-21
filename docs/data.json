@@ -1,7 +1,126 @@
 {
-  "updated": "2026-05-21 10:28:25",
-  "count": 15898,
+  "updated": "2026-05-21 10:32:25",
+  "count": 15891,
   "items": [
+    {
+      "id": "4891678",
+      "time": "2026-05-21 10:31:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數早盤收盤上漲3.6%，至61945.34點。"
+    },
+    {
+      "id": "mkt:019e485f-6b70-777f-8614-f3717a2306e8",
+      "time": "2026-05-21 10:31:13",
+      "tags": [
+        "MKT News",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "TURNOVER ON SSE AND SZSE EXCEEDED RMB 1.5 TRLN, UP RMB 99 BLN FROM SAME TIME PREVIOUS SESSION"
+    },
+    {
+      "id": "te:economy:552523",
+      "time": "2026-05-21 10:30:26",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Inflation Expectations",
+        "Importance 1"
+      ],
+      "text": "Australia Inflation Expectations Ease Slightly — Australia’s consumer inflation expectations fell to 5.6% in May 2026 from April’s more than three-year high of 5.9%. Still, concerns over stubborn price pressures persisted after a Reserve Bank official warned that the recent surge in oil prices amid the Iran conflict posed a challenge and risked lifting inflation expectations further. Meanwhile, minutes from the RBA’s May meeting showed policymakers expect underlying inflation to remain above 3% until late 2027, only returning to the midpoint of the 2–3% target range by mid-2028. Earlier data also highlighted lingering inflationary pressures, with Australia’s annual inflation rate accelerating to 4.6% in March, the highest since September 2023 and well above the central bank’s target band. The RBA in May delivered the third rate hikes, bringing borrowing costs to 4.35%, the highest level since January 2025."
+    },
+    {
+      "id": "4891677",
+      "time": "2026-05-21 10:30:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【司法部：對食品藥品、安全生產等領域堅持最嚴的標準和要求】5月21日，司法部副部長鬍衛列在國新辦新聞釋出會上表示，在規範涉企行政執法專項行動過程當中，司法部始終強調：規範涉企檢查，規範的是亂檢查，而不是要求檢查越少越好，更不是不檢查，而是要嚴格依法檢查。對食品藥品、安全生產等與群眾生命健康、財產安全密切相關的領域，要堅持最嚴的標準和要求，實行最有力的監管。"
+    },
+    {
+      "id": "4891676",
+      "time": "2026-05-21 10:30:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【美銀證券：上調招商證券目標價至16.6港元 評級升至“買入” 】美銀證券釋出研報稱，將招商證券(06099)評級由“跑輸大市”升兩級至“買入”，以反映A股交投上升帶來盈利上行空間，以及第二至第四季潛在 IPO 相關的投資收益。該行對招商證券的H股目標價由15.3港元升至16.6港元，以反映2026年每股盈利預測上調16%至1.68元人民幣，以及中期股本回報率預期由8%升至8.8%，並認為近期管理層變動及長鑫儲存 IPO 訊息將是短期催化劑，而自第一季末以來“國家隊”的資金流出放緩亦應有助股價上行。"
+    },
+    {
+      "id": "4891675",
+      "time": "2026-05-21 10:29:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超1.5萬億元，較上日此時放量990億元。"
+    },
+    {
+      "id": "mkt:019e485d-ac8e-777f-8614-e8568dd6babd",
+      "time": "2026-05-21 10:29:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "Hang Seng Index"
+      ],
+      "text": "CHINA'S STAR 50 INDEX UP OVER 3%"
+    },
+    {
+      "id": "4891674",
+      "time": "2026-05-21 10:29:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳元兌美元延續跌勢，最新下跌0.58%，報0.7111。"
+    },
+    {
+      "id": "te:markets:552522",
+      "time": "2026-05-21 10:29:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "New Zealand Dollar Holds Gains — The New Zealand dollar held its recent advance at around $0.586 after President Donald Trump again said that the conflict with Iran would conclude “very quickly,” reviving hopes for a peace deal. Further supporting the currency, data released today showed New Zealand’s trade surplus widened to a record high in April, well above expectations, driven by strong export growth. This signaled resilient external demand despite ongoing geopolitical uncertainty. However, recent indicators point to a softening in domestic economic momentum. The Reserve Bank of New Zealand has maintained a cautious stance on policy tightening, given the economy has only recently emerged from recession and still has significant spare capacity. Still, market pricing suggests around a 30% chance of a rate increase later this month and a 90% probability in July, amid inflation concerns due to elevated oil prices."
+    },
+    {
+      "id": "4891673",
+      "time": "2026-05-21 10:28:55",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【光刻機板塊短線拉昇】光刻機板塊短線拉昇，美迪凱漲超10%，波長光電、洪田股份、富樂德、百傲化學、茂萊光學等跟漲。"
+    },
+    {
+      "id": "4891672",
+      "time": "2026-05-21 10:28:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【德國政府釋出“高科技議程”路線圖】德國政府20日正式釋出“德國高科技議程”詳細路線圖，明確了關乎德國經濟實力、競爭力和技術主權的關鍵技術發展方向。本次釋出的路線圖為六大關鍵技術設定了具體發展路徑和目標。例如，在量子技術領域，德國計劃到2030年研發出兩臺達到歐洲頂尖水平的糾錯量子計算機；在生物技術領域，目標是到2028年批准首個mRNA癌症免疫療法；在人工智慧領域，德國計劃到2030年實現本國10%的經濟產出基於人工智慧。根據該議程，德國還計劃持續加大在航空航天、健康、安全與國防等五大戰略研究領域的投入。"
+    },
+    {
+      "id": "te:economy:552521",
+      "time": "2026-05-21 10:27:55",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "US 10-Year Yield Holds Decline — The yield on the 10-year US Treasury note remained below 4.6% on Thursday after falling sharply in the previous session, as hopes for an imminent peace agreement between the US and Iran allayed inflation and rate hike fears. President Donald Trump said the US was in the final stages of negotiations with Iran, fueling hopes that the strategically important Strait of Hormuz could soon reopen. The prospect of renewed shipping flows triggered a steep decline in oil prices, helping to moderate inflationary pressures and lowering expectations that central banks will need to tighten monetary policy further. Still, minutes from the Federal Reserve’s latest policy meeting showed that most policymakers believe another rate increase this year could remain appropriate if inflation stays above the Fed’s 2% target. Markets continue to broadly expect the Fed to keep rates unchanged through the rest of the year, although traders currently see roughly a 50% chance of a rate hike in December."
+    },
     {
       "id": "4891671",
       "time": "2026-05-21 10:27:24",
@@ -142927,179 +143046,6 @@
         "其他"
       ],
       "text": "【華創證券：重視銀行板塊配置機會 2026年重點關注三條投資主線】華創證券釋出研報稱，中長期資金入市和公募基金改革的核心邏輯未變，重視銀行板塊配置機會，銀行欠配幅度仍然較大。預計2026年仍是銀行板塊估值系統性回升的一年：從防禦到攻守兼備，基本面回暖和資金驅動共同發力。1)高股息、低估值的特性依然是銀行股的底色，特別是在無風險利率下行的背景下，銀行股的類債屬性將持續吸引穩健資金。2)隨著息差企穩、區域信貸需求回升和非息收入增長，部分優質銀行將展現出較強的業績彈性，估值有望從PB邏輯向PE邏輯切換。"
-    },
-    {
-      "id": "4878967",
-      "time": "2026-05-14 10:32:18",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時中國A50指數期貨跌幅擴大至1%。"
-    },
-    {
-      "id": "mkt:019e2454-2b93-777f-be5a-8b6a36f62d36",
-      "time": "2026-05-14 10:32:09",
-      "tags": [
-        "MKT News",
-        "Important",
-        "CSI300",
-        "Impact bearish",
-        "SSE Composite"
-      ],
-      "text": "FTSE CHINA A50 INDEX FUTURES DOWN OVER 1%"
-    },
-    {
-      "id": "4878966",
-      "time": "2026-05-14 10:32:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時中國A50指數期貨下跌1%。"
-    },
-    {
-      "id": "mkt:019e2453-8ffd-777f-be5a-87c394c36b33",
-      "time": "2026-05-14 10:31:56",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "TRUMP: RELATIONSHIP \"GOING TO BE BETTER THAN EVER\""
-    },
-    {
-      "id": "4878965",
-      "time": "2026-05-14 10:31:18",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【習近平：讓2026年成為中美關係繼往開來的歷史性、標誌性年份】5月14日上午，國家主席習近平在北京人民大會堂同來華進行國事訪問的美國總統特朗普舉行會談。習近平強調，中美之間的共同利益大於分歧，中美各自成功是彼此的機遇，中美關係穩定是世界的利好。雙方應當做夥伴而不是對手，相互成就、共同繁榮，走出一條新時代大國正確相處之道。我期待著同特朗普總統就事關兩國和世界的重大問題交換意見，共同為中美關係這艘大船領好航、掌好舵，讓2026年成為中美關係繼往開來的歷史性、標誌性年份。(新華社)"
-    },
-    {
-      "id": "4878964",
-      "time": "2026-05-14 10:31:08",
-      "tags": [
-        "市場"
-      ],
-      "text": "上海鋼聯釋出資料顯示，今日MMLC電池級碳酸鋰（早盤）中間價報196150元/噸，較上日16:30價格下跌1750元/噸。"
-    },
-    {
-      "id": "4878963",
-      "time": "2026-05-14 10:30:40",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【人形機器人概念股短線拉昇，巨輪智慧漲停】人形機器人概念股短線拉昇，巨輪智慧漲停，集智股份漲超15%，慧辰股份漲超10%，旭光電子、維宏股份、新益昌、金田股份、僑銀股份跟漲。"
-    },
-    {
-      "id": "4878962",
-      "time": "2026-05-14 10:30:29",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【習近平：共同書寫時代答卷】5月14日上午，國家主席習近平在北京人民大會堂同來華進行國事訪問的美國總統特朗普舉行會談。習近平指出，當前百年變局加速演進，國際形勢變亂交織，世界又走到新的十字路口，中美能不能跨越“修昔底德陷阱”，開創大國關係新正規化？能不能攜手應對全球性挑戰，為世界注入更多穩定性？能不能著眼兩國人民福祉和人類前途命運，共同開創兩國關係的美好未來？這些是歷史之問、世界之問、人民之問，也是大國領導人需要共同書寫的時代答卷。（新華社）"
-    },
-    {
-      "id": "mkt:019e2452-2f13-777f-be5a-7e3d114122ea",
-      "time": "2026-05-14 10:30:23",
-      "tags": [
-        "MKT News",
-        "CNH",
-        "Impact bullish",
-        "S&P500",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "XI, TO TRUMP: LET 2026 BE A HISTORIC AND LANDMARK YEAR FOR SINO-US RELATIONS TO CARRY ON THE PAST AND OPEN UP THE FUTURE"
-    },
-    {
-      "id": "mkt:019e2452-19de-777f-be5a-750bdd2b9ff5",
-      "time": "2026-05-14 10:30:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "XI, TO TRUMP: LOOK FORWARD TO EXCHANGING VIEWS WITH MR. PRESIDENT ON MAJOR ISSUES"
-    },
-    {
-      "id": "mkt:019e2451-eda0-777f-be5a-6fe81083621d",
-      "time": "2026-05-14 10:30:08",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "TRUMP: HAS FANTASTIC RELATIONSHIP WITH XI"
-    },
-    {
-      "id": "4878961",
-      "time": "2026-05-14 10:29:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "寒武紀成交額達100億元，現跌3.64%。"
-    },
-    {
-      "id": "4878960",
-      "time": "2026-05-14 10:29:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "【鋰礦概念走弱 永杉鋰業跌逾6%】鋰礦概念走弱，永杉鋰業跌逾6%，金圓股份跌近5%，富淼科技、鹽湖股份、道氏技術等跌幅居前。"
-    },
-    {
-      "id": "mkt:019e2451-303e-777f-be5a-62d84e24aa0e",
-      "time": "2026-05-14 10:29:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "XI, TO TRUMP: STABILITY OF SINO-US RELATIONS IS A GOOD THING FOR THE WORLD"
-    },
-    {
-      "id": "4878959",
-      "time": "2026-05-14 10:29:19",
-      "tags": [
-        "行業"
-      ],
-      "text": "【截至4月末，私募基金年內整體收益率超6%】2026年以來，資本市場走出了股債雙強，商品分化的格局。在此背景下，私募證券產品整體表現不俗。私募排排網資料顯示，截至2026年4月30日，有業績記錄的12862只私募證券產品，今年以來平均收益率達6.69%，其中9882只產品實現正收益，佔比達76.83%。"
-    },
-    {
-      "id": "mkt:019e2451-26f2-777f-be5a-593cbdccb253",
-      "time": "2026-05-14 10:29:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "XI, TO TRUMP: SUCCESS OF CHINA AND THE UNITED STATES IS AN OPPORTUNITY FOR EACH OTHER"
-    },
-    {
-      "id": "mkt:019e2451-1560-777f-be5a-551e468d897e",
-      "time": "2026-05-14 10:29:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "XI, TO TRUMP: I HAVE ALWAYS BELIEVED THAT THE COMMON INTERESTS BETWEEN CHINA AND THE UNITED STATES OUTWEIGH THE DIFFERENCES"
-    },
-    {
-      "id": "mkt:019e2450-d762-777f-be5a-4f5de73a0626",
-      "time": "2026-05-14 10:28:58",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "CHINA'S XI, TO TRUMP: PLEASURE TO MEET YOU IN BEIJING. THIS IS YOUR FIRST VISIT TO CHINA IN NINE YEARS"
-    },
-    {
-      "id": "4878958",
-      "time": "2026-05-14 10:28:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：紐約和加州的養老金計劃要求馬斯克放棄SpaceX的“極端”治理結構。"
     }
   ]
 }
