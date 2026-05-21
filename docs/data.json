@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-22 03:23:53",
-  "count": 16278,
+  "updated": "2026-05-22 03:27:38",
+  "count": 16274,
   "items": [
     {
       "id": "mkt:019e4bfb-2ae4-7aa1-9581-3e1f430a05a4",
@@ -146320,42 +146320,6 @@
         "其他"
       ],
       "text": "委內瑞拉央行行長將赴華盛頓與國際貨幣基金組織舉行會談。"
-    },
-    {
-      "id": "4880531",
-      "time": "2026-05-15 03:26:59",
-      "tags": [
-        "觀點"
-      ],
-      "text": "市場訊息：包括摩根士丹利在內的貸款方正籌備約50億美元貸款，支援蒂爾曼·費蒂塔收購拉斯維加斯大道的核心地標資產之一。"
-    },
-    {
-      "id": "4880530",
-      "time": "2026-05-15 03:25:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗議會國家安全與外交政策委員會主席：我們警告敵人，如果他們犯下錯誤，破壞我們的安全，我們將在世界任何地方剝奪他們的安全。"
-    },
-    {
-      "id": "4880529",
-      "time": "2026-05-15 03:25:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：玻利維亞拉巴斯市內爆發要求總統職的礦工團體遊行期間，當地傳出爆炸聲。"
-    },
-    {
-      "id": "te:economy:550830",
-      "time": "2026-05-15 03:24:40",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Argentina",
-        "Inflation Rate MoM",
-        "Importance 1"
-      ],
-      "text": "Argentina Monthly Inflation Slows in April — Consumer prices in Argentina rose 2.6% month-over-month in April 2026, easing from 3.4% in March and remaining close to forecasts of 2.5%. Regulated prices posted the largest increase, rising 4.7% amid higher transportation and electricity costs. Core CPI advanced 2.3%, supported by increases in housing rents and related expenses, as well as restaurant and dining prices. Seasonal prices were unchanged, as higher clothing prices linked to the seasonal transition were offset by declines in tourism and fruit prices. Among major categories, transport recorded the strongest monthly increase, rising 4.4% due to higher fuel prices, followed by education with a 4.2% gain. Food and non-alcoholic beverages (1.5%) and recreation and culture (1.0%) posted the smallest increases. Year-to-date inflation reached 12.3%."
     }
   ]
 }
