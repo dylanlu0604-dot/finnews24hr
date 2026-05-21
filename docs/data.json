@@ -1,7 +1,35 @@
 {
-  "updated": "2026-05-21 10:08:21",
-  "count": 15897,
+  "updated": "2026-05-21 10:12:24",
+  "count": 15893,
   "items": [
+    {
+      "id": "te:economy:552517",
+      "time": "2026-05-21 10:10:38",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Employment Change",
+        "Importance 1"
+      ],
+      "text": "Australia Employment Unexpectedly Drops — Employment in Australia fell by 18,600 to a 14.74 million in March 2026, reversing an upwardly revised 23,300 increase in the previous month and missing market expectations for a 17,500 gain. It was the first decline since November, as full-time employment shrank by 10,700 to 10.16 million and part-time employment slid 7,900 to 4.58 million. The employment-to-population ratio remained was down to 63.7% from the prior 63.9, marking the fifth straight month of decline. Meanwhile, the participation rate edged down to 66.7% from the prior 66.8%. On an annual basis, total employment rose by 128,900, or 0.9%."
+    },
+    {
+      "id": "4891648",
+      "time": "2026-05-21 10:09:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【浙江：4月份規模以上工業增加值同比增長7.3%】5月21日，浙江省統計局釋出2026年4月份浙江經濟執行情況。4月份，規模以上工業增加值同比增長7.3%。37個工業大類行業中，27個行業增加值正增長，增長面為73.0%，其中，汽車、計算機通訊電子、通用裝置、紡織和電力等行業增加值分別增長27.1%、19.6%、8.2%、7.3%和7.1%，合計拉動規模以上工業增加值增長5.5個百分點。新興產業引領增長，規模以上高技術製造業、數字經濟核心產業製造業、裝備製造業增加值分別增長17.5%、15.1%和12.2%，分別拉動規模以上工業增加值增長3.0、2.7和6.3個百分點。1—4月，規模以上工業增加值增長8.0%。"
+    },
+    {
+      "id": "4891647",
+      "time": "2026-05-21 10:07:50",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【規範涉企行政執法專項行動已為企業挽回經濟損失307億元】國務院新聞辦公室5月21日上午舉行新聞釋出會，介紹規範涉企行政執法專項行動有關情況。從釋出會上獲悉，規範涉企行政執法專項行動自去年3月開展以來，截至今年3月，全國共查糾涉企行政執法突出問題案件6.6萬多件，為企業挽回經濟損失307億元。推動各地開展“綜合查一次”、分級分類檢查，行政檢查總量同比下降34%。司法部副部長鬍衛列表示，一年時間，專項行動聚焦“亂收費、亂罰款、亂檢查、亂查封”“違規異地執法和趨利性執法”等突出問題進行集中糾治，取得明顯成效。（新華社）"
+    },
     {
       "id": "4891646",
       "time": "2026-05-21 10:07:20",
@@ -143029,73 +143057,6 @@
         "其他"
       ],
       "text": "臺積電表示，其先進封裝技術CoWoS（晶片封裝於晶圓基板上）的產能複合年增長率預計在2022年至2027年間將超過80%。"
-    },
-    {
-      "id": "te:markets:550502",
-      "time": "2026-05-14 10:12:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Taiwan",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Taiwan Stocks Near Record High as Tech Shares Rally — The TAIEX, Taiwan’s benchmark stock index, climbed 552 points, or 1.4%, to near a record peak of 41,953 in Thursday morning trade, halting losses from the previous session and buoyed mainly by electronic technology stocks as optimism over AI infrastructure demand fueled sentiment. The broader index tracked record highs in the S&P 500 and the Nasdaq Composite overnight, supported by continued strength in technology shares. The electronic technology sector rose 1.1%, with Taiwan Semiconductor Manufacturing Company (TSMC), which accounts for more than 40% of the total market value, up 1.8%. Markets are also keeping a close eye on a meeting between US President Donald Trump and Chinese President Xi Jinping later this week. Other early gainers included Delta Electronics (3.0%), ASE Technology Holding (1.8%), and MediaTek (0.4%)."
-    },
-    {
-      "id": "4878938",
-      "time": "2026-05-14 10:11:48",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【光纖概念反覆活躍 長盈通漲超15%】光纖概念反覆活躍，長盈通漲超15%，此前中利集團漲停，永鼎股份、中天科技、特發資訊、長飛光纖跟漲。"
-    },
-    {
-      "id": "4878937",
-      "time": "2026-05-14 10:11:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "【榮耀600系列釋出會定檔5月25日】5月14日，據榮耀手機訊息，榮耀全新數字系列新品榮耀600系列將於5月25日正式釋出，將新增“幸運星”配色，肖戰繼續擔任榮耀數字手機全球代言人。"
-    },
-    {
-      "id": "4878936",
-      "time": "2026-05-14 10:10:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "【基於openEuler的宇航級嵌入式星載作業系統成功在軌執行】近日，基於openEuler的宇航級嵌入式作業系統搭載某星座實驗衛星成功發射並在軌穩定工作，這是基於openEuler的嵌入式作業系統首次在商業衛星載荷領域實現實際在軌執行，標誌著基於openEuler的星載作業系統已具備支撐宇航級場景的硬核實力，標誌著基於openEuler的星載作業系統在高可靠、強實時的空間智慧場景中邁出里程碑式一步。長期以來，高階星載作業系統多依賴國外系統。此次基於openEuler的宇航級嵌入式作業系統在軌執行，實現自研作業系統在星載載荷領域的突破。另外，依託openEuler全球開源生態，降低商業衛星研發門檻與成本。統一的軟體棧標準，實現不同衛星載荷的相容適配，助力商業衛星星座批次製造與快速部署。"
-    },
-    {
-      "id": "te:markets:550500",
-      "time": "2026-05-14 10:10:19",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Manulife Financial earnings below expectations at 1.06 CAD — Manulife Financial (MFC) released earnings per share at 1.06 CAD, compared to market expectations of 1.1 CAD."
-    },
-    {
-      "id": "4878935",
-      "time": "2026-05-14 10:10:09",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【豬肉股震盪走高，天域生物漲停】豬肉股震盪走高，天域生物漲停，天邦食品、巨星農牧、海大集團、華統股份、正邦科技跟漲。"
-    },
-    {
-      "id": "4878934",
-      "time": "2026-05-14 10:09:58",
-      "tags": [
-        "公司",
-        "原創"
-      ],
-      "text": "【臺積電預計全球晶片市場規模到2030年將達到1.5萬億美元】臺積電在週四舉行的技術研討會前釋出的演示材料中表示，預計到 2030 年，全球半導體市場規模將超過 1.5 萬億美元，高於此前預測的 1 萬億美元。 臺積電預計，人工智慧和高效能運算將佔 1.5 萬億美元市場的 55%，其次是智慧手機（20%）和汽車應用（10%）。 臺積電表示，公司在 2025 年和 2026 年加快了產能擴張速度，並計劃在 2026 年建設九期晶圓廠和先進封裝設施。 預計臺積電將大幅提升其最先進的 2 奈米晶片和下一代 A16 晶片的產能，2026 年至 2028 年的複合年增長率 (CAGR) 將達到 70%。"
     }
   ]
 }
