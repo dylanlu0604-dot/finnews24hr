@@ -1,7 +1,60 @@
 {
-  "updated": "2026-05-21 12:31:21",
-  "count": 15860,
+  "updated": "2026-05-21 12:35:14",
+  "count": 15858,
   "items": [
+    {
+      "id": "te:markets:552551",
+      "time": "2026-05-21 12:34:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Sensex Holds Gains for Second Day — India’s BSE Sensex opened about 0.3% higher at 75,569 on Thursday, following modest gains from the previous session as traders bet on a possible US-Iran deal and an end to the Middle East conflict, which pushed crude oil prices lower. Shipping data also showed that two Chinese oil tankers exited the Strait of Hormuz on Wednesday, a tentative sign of easing pressure in the Gulf. Investors also await India’s HSBC composite, manufacturing, and services PMI flash readings for May later in the day, which could provide fresh cues on the strength of economic activity and influence market sentiment. Protean shares surged 20% after the company posted a sharp year-on-year increase in profit and announced a final dividend along with new board appointments, while Sansera jumped 12.5% as its revenue and profit rose strongly from a year earlier, also accompanied by a final dividend and new director appointments. Other top performers included Samaan (+9.8%), Triveni Turbine (+5.9%), and Paras (+6%)."
+    },
+    {
+      "id": "te:markets:552550",
+      "time": "2026-05-21 12:33:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Palm Oil Extends Subdued Momentum — Malaysian palm oil futures slipped about 1% to below MYR 4,600 per tonne, sustaining a muted trend as weaker edible oil prices on the Dalian and Chicago exchanges weighed on sentiment. Weak exports added pressure, with cargo surveyors estimating shipments during May 1–20 fell 13.9%–20.5% from the prior month. Demand worries deepened after April imports from top buyer India plunged 26% in April from March to a four-month low, reflecting softer institutional buying and a narrowing discount versus rival oils. Still, losses were cushioned by firmer crude oil, which bolstered biodiesel demand expectations and underscored global supply risks. Support also came from Indonesia’s plan to centralize commodity exports from the world's largest producer, including palm oil, raising concerns over supply disruptions. Jakarta will also lift its biodiesel mandate to B50 from B40 in July, while Malaysia is set to raise its blending requirement to B15 from B10 in June."
+    },
+    {
+      "id": "4891822",
+      "time": "2026-05-21 12:33:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴基斯坦KSE-100指數開盤後上漲1.2%，至167,069.80點。"
+    },
+    {
+      "id": "4891821",
+      "time": "2026-05-21 12:32:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【西雙版納：金版納·尚城開發商5年未補繳8000萬土地出讓金，自然資源部門已申請恢復執行】景洪工業和資訊化產業集聚區嘎灑片區管理委員會5月21日通報，西雙版納自然資源部門起訴開發商金版納·尚城公司，要求補繳8000萬土地出讓金。因該公司未按合同約定補繳，自然資源部門已提起訴訟，法院依法查封房產並啟動拍賣程式。目前，主管部門已申請恢復執行，法院正依法啟動司法拍賣流程。"
+    },
+    {
+      "id": "mkt:019e48ce-5017-7ee7-b68e-034cacc74b07",
+      "time": "2026-05-21 12:32:20",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA CORP: JP MORGAN RAISES TARGET PRICE TO $280 FROM $265"
+    },
     {
       "id": "4891820",
       "time": "2026-05-21 12:30:05",
@@ -142643,68 +142696,6 @@
         "國際"
       ],
       "text": "日本首相高市早苗：5月14日，一艘與日本有關的船隻透過霍爾木茲海峽。"
-    },
-    {
-      "id": "4879127",
-      "time": "2026-05-14 12:34:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "渣打調升香港今年GDP增長預估至4.3%，料HIBOR將進一步上升。"
-    },
-    {
-      "id": "4879126",
-      "time": "2026-05-14 12:34:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "【騰訊高管詳解AI戰略：下半年將有更多國產晶片供應，C端變現“還處於早期階段”】在電話會議中，談到AI支出相關話題，騰訊高管表示，看到來自內部產品以及外部模型使用者對AI相關服務的需求都在增長，“之前曾指引今年的資本支出會比去年增加，現在對這一指引更加肯定和有信心。我們預期資本支出會有顯著增加，在今年下半年將更多國產AI晶片將逐月到位。”而對於AI產品回報的問題，騰訊總裁劉熾平表示，模型訓練基本上是對未來的投資，可能不會立即產生回報。但隨著時間的推移，能力會積累，並有助於解鎖許多不同的商業機會。對於C端表現的問題，劉熾平認為，在西方市場，付費服務滲透率很高，消費水平處在高位。西方市場的訂閱價格是中國同等服務的數倍，無論是音樂服務還是影片服務。中國的付費滲透率大概在個位數。當你將其應用到中國市場，以訂閱模式為基準，規模不會那麼大。當必須透過付費來支援一項服務時，這項服務很可能不是一個贏家通吃的業務，市場上會存在多個參與者，每個都會佔有一定市場份額和訂閱量。除此之外，關於電商或廣告作為變現方式，“已經考慮，目前還處於早期階段，即使是ecpm高得多的美國市場，領先的玩家也尚未推出非常成熟的廣告模式。”（澎湃）"
-    },
-    {
-      "id": "4879125",
-      "time": "2026-05-14 12:33:38",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4710美元/盎司，日內漲0.46%。"
-    },
-    {
-      "id": "4879124",
-      "time": "2026-05-14 12:33:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "巴基斯坦KSE-100指數開盤上漲0.3%，至168,357.90點。"
-    },
-    {
-      "id": "4879123",
-      "time": "2026-05-14 12:31:43",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "五年期日本國債收益率上漲0.5個基點，至1.935%。"
-    },
-    {
-      "id": "mkt:019e24c0-fef9-777f-be5b-c949c6bd762a",
-      "time": "2026-05-14 12:31:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "MEETING BETWEEN XI AND TRUMP IS STILL ONGOING, ACCORDING TO A WHITE HOUSE OFFICIAL"
-    },
-    {
-      "id": "te:markets:550530",
-      "time": "2026-05-14 12:31:22",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "India",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Sensex Extends Recovery into Second Session — India’s BSE Sensex edged up about 0.3% to 74,808 on Thursday, extending its rebound from the previous session as investors returned to beaten-down stocks following the recent market pullback. The rebound was largely seen as a technical recovery driven by oversold conditions rather than a major shift in overall market sentiment, amid elevated crude oil prices. Investors were also awaiting a planned US-China meeting for signals on global oil supply dynamics, which could influence India’s inflation outlook and equity sentiment. Among gainers, NLC India climbed about 11.5% after reporting a sharp rise in Q4 FY26 earnings, with net profit nearly tripling year-on-year, while MTAR Tech jumped 8.8% after receiving purchase orders worth $238.76 million. Adani (+5%), Cipla (+5.1%), and Texrail (+5.7%) also advanced, while Kaynes Tech posted losses of 16.2%, as JPMorgan downgraded the stock and cut its price target, signaling reduced expectations for the company’s future performance."
     }
   ]
 }
