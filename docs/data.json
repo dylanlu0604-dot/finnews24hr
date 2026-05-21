@@ -1,7 +1,159 @@
 {
-  "updated": "2026-05-21 14:46:40",
-  "count": 15841,
+  "updated": "2026-05-21 14:50:45",
+  "count": 15846,
   "items": [
+    {
+      "id": "4892023",
+      "time": "2026-05-21 14:49:47",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指跌2.01%，現報3842.991點；上證指數跌1.87%，現報4084.476點；深證成指跌1.81%，現報15288.304點。"
+    },
+    {
+      "id": "4892022",
+      "time": "2026-05-21 14:49:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "富時中國A50指數期貨跌幅擴大，現跌1.0%，最新報15348.0點。"
+    },
+    {
+      "id": "4892021",
+      "time": "2026-05-21 14:49:14",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行：有觀點認為日本央行應就其資產負債表規模提出方案，並定期核查日本國債走勢及其市場功能。"
+    },
+    {
+      "id": "mkt:019e494b-8c58-7ee7-b68f-60d1500682b3",
+      "time": "2026-05-21 14:49:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "BOJ: SOME SAID BOJ SHOULD COME UP WITH AN IDEA OVER SIZE OF ITS BALANCE SHEET, REGULARLY CHECK JGB DEVELOPMENTS AND ITS MARKET FUNCTIONING"
+    },
+    {
+      "id": "mkt:019e494b-719f-7ee7-b68f-580ec76d2d98",
+      "time": "2026-05-21 14:49:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "Hang Seng Index"
+      ],
+      "text": "FTSE CHINA A50 INDEX FUTURES DOWN OVER 1%"
+    },
+    {
+      "id": "te:economy:552585",
+      "time": "2026-05-21 14:48:47",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Switzerland",
+        "Industrial Production",
+        "Importance 2"
+      ],
+      "text": "Swiss Industrial Output Falls Most in 6 Years — Industrial production in Switzerland declined by 7.1% year-on-year in the first quarter of 2026, following a downwardly revised 0.4% fall in the previous period and a steeper-than-expected 0.5% drop. This marks the largest decline since Q2 2020, as output in manufacturing fell for the first time in two years (-7.2% vs 0.9% in Q4), driven particularly by the manufacture of pharmaceutical products (-20.4% vs 2.8%) and vehicles (-15.0% vs -19.1%). Activity also continued to decline in energy supply (-6.9% vs -12.9%). Meanwhile, output growth accelerated in mining and extraction (3.7% vs 3.0%)."
+    },
+    {
+      "id": "te:markets:552584",
+      "time": "2026-05-21 14:48:34",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Rupiah Retreats Ahead of Q1 Current Account Data — The Indonesian rupiah slipped to around IDR 17,670 per dollar on Thursday after briefly hitting below 17,600 in the prior session, as caution set in ahead of Q1 current account data due Friday. Focus remains on Indonesia’s external balance after the current account swung into deficit in Q4, largely due to a widening oil trade gap. Support from Bank Indonesia’s larger-than-expected rate hike faded, with Governor Warjiyo warning that higher global energy costs still threaten the currency despite mild inflation. He also noted that forex reserves have fallen by about USD 10 billion this year through April due to continued intervention. The rupiah is heading for an eighth straight weekly fall, down 5.6% ytd, but policymakers expect seasonal stabilisation by mid-year. Dollar demand currently remains elevated amid dividend repatriation, debt payments, and hajj-related flows. Globally, the U.S. dollar index eased from a six-week peak on hopes for a U.S.-Iran peace deal, tempering haven demand."
+    },
+    {
+      "id": "4892020",
+      "time": "2026-05-21 14:48:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【寧德時代成立時代大成能源科技公司】企查查APP顯示，近日，時代大成（鹽城）能源科技有限公司成立，經營範圍包含碳減排、碳轉化、碳捕捉、碳封存技術研發；風力發電技術服務；太陽能發電技術服務；儲能技術服務等。企查查股權穿透顯示，該公司由寧德時代全資持股。"
+    },
+    {
+      "id": "4892019",
+      "time": "2026-05-21 14:47:42",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行：在呼籲日本央行繼續縮減資產購買規模的人士當中，存在以下幾種觀點：日本央行月度購債規模對應的佔比應處於1.5%以上、1.0%-1.5%區間，或是1%以下。"
+    },
+    {
+      "id": "4892018",
+      "time": "2026-05-21 14:47:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【阿里雲重磅釋出金融級智慧體平臺點金】5月20日，在2026阿里雲峰會上，阿里雲正式推出金融級通用智慧體點金，直連市場行情、阿里資產，並原生支援Wind萬得、盈米且慢、東方財富、恒生聚源等權威資料來源，內建全鏈路審計與三重合規防線。"
+    },
+    {
+      "id": "4892017",
+      "time": "2026-05-21 14:47:27",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼基準股指<.JKSE>下跌3.6%，報6092.2點。"
+    },
+    {
+      "id": "4892016",
+      "time": "2026-05-21 14:47:22",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【日本債市指標發出警示訊號 對於央行應對通脹反應遲緩的擔憂加劇】根據一項指標，日本的通脹預期已升至至少2004年以來的最高水平，這加劇市場猜測即使採取更緊縮的貨幣政策，實際利率也不太可能上升。日本10年期盈虧平衡利率在5月19日觸及紀錄高位2.35%，在日本央行2%的目標上方進一步走升。這項名義政府債券與同期限通脹掛鉤債券之間的收益率差指標，反映了市場平均通脹預期，達到了2004年開始發行通脹掛鉤債券以來的最高水平。盈虧平衡利率在1月首次超過2%，自5月份以來，受勞動力短缺、地緣政治風險以及對財政擴張擔憂加劇等因素導致的供應限制影響，該利率迅速攀升。這也反映出市場日益擔憂日本央行在應對通脹方面反應遲緩。“不斷上升的通脹預期表明，日本物價已進入新階段，”Fivestar Asset Management Co.的高階投資組合經理Hideo Shimomura表示。"
+    },
+    {
+      "id": "4892015",
+      "time": "2026-05-21 14:47:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣西防城港市、東興市洪澇災害應急響應提升為三級】今天，廣西防城港市防城區釋出暴雨紅色預警，防城港市洪澇災害應急響應提升為三級，廣西東興市將洪澇災害應急響應提升為三級。（央視新聞）"
+    },
+    {
+      "id": "mkt:019e4949-8c55-7ee7-b68f-5324feb5b408",
+      "time": "2026-05-21 14:46:57",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Crypto Concepts",
+        "Bitcoin",
+        "Impact bullish",
+        "Ethereum",
+        "Impact mixed",
+        "GBPUSD",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "【Top Crypto Stories of PAST 24 Hours - MKTNews】 Regulation & Policy - U.S. Securities and Exchange Commission reviewing implications of delayed prediction market ETFs, Atkins says - Federal Reserve seeks input on expanding master account access following Trump’s executive order - Trump orders Fed to review giving crypto firms access to master accounts - European Commission launches MiCA review as global crypto regulatory landscape shifts - Bank of England outlines tokenization, stablecoin vision for UK finance - Henry McMaster signs pro-crypto, anti-CBDC bill into law Bitcoin & Markets - Hyperliquid ETFs draw $22.3 million in early inflows, analysts point to “good sign of organic interest” - SpaceX holds $1.45 billion worth of bitcoin as firm looks to go public - CryptoQuant says bitcoin mirrors 2022 bear market pattern as sentiment turns “extremely bearish” - David Bailey's Nakamoto bitcoin treasury announces 1-for-40 reverse split as shares hit new lows - Ark Invest buys combined $4.4 million in Bullish shares as stock rebounds from five-day drop - “Not all 200-day moving averages are equal”: K33 argues February's $60K low still marks cycle's maximum drawdown Stablecoins & Tokenization - Securitize posts record Q1 revenue, $3.4 billion in tokenized assets under management - AllUnity plans Swedish krona stablecoin, launches agentic payments infrastructure - Qivalis expands euro stablecoin consortium to 37 banks - MoneyGram named “anchor remittance validator” for Stripe-backed Tempo blockchain - Tether acquires SoftBank’s stake in Twenty One Capital as share price jumps 5% Crypto Industry - Arbitrum-based derivatives venue Variational raises $50 million Series A led by Dragonfly - Kik founder's latest app Flipcash first to tap Coinbase’s stablecoin-as-a-service platform - Plume secures Bermuda license for what it calls first regulated onchain vault manager - Catena Labs lands $30 million Series A, files for national trust bank charter to underpin agentic finance - Zama acquires TokenOps to deploy encrypted token distributions for institutional issuers - Tether and Gnosis co-lead $4.4 million seed round for lightweight mobile-friendly Sorted Wallet Enforcement & Security - CAB, Europol secure another 500 BTC likely tied to Irish drug trafficking case"
+    },
+    {
+      "id": "4892014",
+      "time": "2026-05-21 14:46:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【逆轉肌肉萎縮！我國科學家在可穿戴機器人領域取得新進展】神經和肌肉退化導致運動能力喪失是一項世界級醫學難題。近日，北京航空航天大學科研團隊牽頭研發了一款可穿戴式康復機器人，一定程度上證明可以透過科學的物理訓練幫助重度肌肉萎縮患兒實現肌肉實質性逆轉生長。該成果5月20日在國際學術期刊《自然》雜誌主刊發表。（央視新聞）"
+    },
     {
       "id": "4892013",
       "time": "2026-05-21 14:45:50",
@@ -142454,99 +142606,6 @@
         "Importance 2"
       ],
       "text": "UK Gilt Yield Nears 2008 High on Leadership Uncertainty — The UK 10-year gilt yield climbed toward 5.1%, nearing its highest level since 2008, as speculation intensifies over a potential leadership challenge to Prime Minister Keir Starmer. Reports suggest Health Secretary Wes Streeting, the most market-friendly candidate, may resign this week and launch a bid to replace Starmer as soon as today. Meanwhile, Angela Rayner, another potential contender, was cleared by HMRC in a tax probe this morning, potentially paving the way for her to join the race. While Streeting is seen as favorable for markets, Rayner’s left-leaning stance is viewed as less positive for gilts. Adding to the pressure, stalled US-Iran negotiations and the closure of the Strait of Hormuz have kept oil prices elevated, with markets now pricing in nearly three Bank of England rate hikes by year-end. Economically, the UK’s GDP grew by 0.6% in Q1 2026, with annual growth at 1.1%, exceeding expectations. March’s unexpected 0.3% expansion drove the upside."
-    },
-    {
-      "id": "4879316",
-      "time": "2026-05-14 14:50:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：日本首相高市早苗將於下週二起對韓國進行為期兩天的訪問，並將與韓國總統李在明會面。"
-    },
-    {
-      "id": "4879315",
-      "time": "2026-05-14 14:50:14",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "菲律賓股指上漲1.1%，至6015.03點。"
-    },
-    {
-      "id": "mkt:019e2540-036e-799f-8003-fee9fb13f62a",
-      "time": "2026-05-14 14:50:12",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "U.S. CRUDE FUTURES FALL $1.15 TO $99.87/BBL AS CHINA'S XI HAILS TRADE PROGRESS IN TRUMP SUMMIT"
-    },
-    {
-      "id": "te:markets:550589",
-      "time": "2026-05-14 14:49:58",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Japanese Shares Decline as Investors Take Profits — The Nikkei 225 Index fell 0.98% to close at 62,654 on Thursday, while the broader Topix Index lost 0.95% to 3,882, with Japanese equities retreating from record highs as investors locked in profits following a strong rally. SoftBank Group dropped 4.3% despite reporting a sharp increase in quarterly profit driven by valuation gains tied to its investment in OpenAI. Meanwhile, Fujikura plunged 19.1% even after posting strong double-digit growth in both sales and profits. Elsewhere, mining company Mitsui Kinzoku declined 7.9% after issuing a weaker profit outlook for FY2027 despite forecasting higher revenue. Other major decliners included Kioxia Holdings (-4.6%), JX Advanced Metals (-4.7%), Mitsubishi Heavy Industries (-5.7%), Sumitomo Electric (-5.1%) and Sony Group (-5.3%). Investors also continued monitoring the meeting between US President Donald Trump and Chinese President Xi Jinping amid hopes for improved relations despite ongoing tariff disputes and other contentious issues."
-    },
-    {
-      "id": "4879314",
-      "time": "2026-05-14 14:49:38",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【以色列與埃爾位元簽署 F-35 增程能力升級合同】以色列國防部宣佈，已與埃爾位元旗下全資子公司賽克隆公司簽署一份價值3400 萬美元的合同，為洛克希德・馬丁製造的 F-35 “阿迪爾” 戰鬥機研發增程效能。該協議涵蓋外掛油箱的研發與適配整合，油箱基於賽克隆公司原本為 F-16 戰機設計的現有方案改進而來。此項新升級能力預計將延長戰機作戰航程、降低對空中加油的依賴，並提升遠端任務的作戰靈活性。該合同是以色列國防部整體軍力建設戰略的一部分，旨在強化以色列應對未來十年高強度安全域性勢的戰備能力。"
-    },
-    {
-      "id": "4879313",
-      "time": "2026-05-14 14:48:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "Nexon 與 EA 續約合作，繼續在韓國運營 FC系列（原 FIFA 足球系列）遊戲。"
-    },
-    {
-      "id": "te:economy:550586",
-      "time": "2026-05-14 14:47:35",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Saudi Arabia",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Saudi Arabia Inflation Eases Slightly in April — The annual inflation rate in Saudi Arabia eased to 1.7% in April 2026 from 1.8% in the previous month, slightly below market expectations of 1.8%. Prices rose at a softer pace in housing and utilities (3.8% vs 3.9% in March), recreation, sport and culture (1.8% vs 2.0%), restaurant and accommodation services (1.0% vs 2.2%), and personal care, social protection and miscellaneous goods and services (6.3% vs 8.2%). Additionally, deflation continued in clothing and footwear (-0.3% vs -0.1%) and furnishings, household equipment and maintenance (unchanged at -0.5%). Meanwhile, costs increased further in food and beverages (0.6% vs 0.3%), transport (1.0% vs 0.9%), information and communication (1.3% vs 1.0%), and insurance and financial services (2.3% vs 2.1%), while inflation remained steady for tobacco (0.4%), health (0.4%), and education (1.4%). On a monthly basis, consumer prices rose 0.2% in April, easing slightly from 0.3% in the previous month."
-    },
-    {
-      "id": "4879312",
-      "time": "2026-05-14 14:47:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "【寧波建工等成立城市運營管理公司】企查查APP顯示，近日，浙江海定城市運營管理有限公司成立，法定代表人為蔡海波，註冊資本為4100萬元，經營範圍包含：市政設施管理；園林綠化工程施工；城市綠化管理；工程管理服務；物業管理等。企查查股權穿透顯示，該公司由寧波建工(601789)旗下寧波市政工程建設集團股份有限公司、寧波東興瀝青製品有限公司共同持股。"
-    },
-    {
-      "id": "4879311",
-      "time": "2026-05-14 14:47:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗外長：關於伊朗不存在任何軍事解決方案】當地時間14日，伊朗外長阿拉格齊表示，關於伊朗不存在任何軍事解決方案，伊朗人民永遠都不會屈服於任何威脅或壓力。阿拉格齊還表示，伊朗已經準備好為了捍衛自由和土地而拼殺，同時也準備好繼續透過外交途徑來解決問題。（央視新聞）"
-    },
-    {
-      "id": "4879310",
-      "time": "2026-05-14 14:47:08",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "碳酸鋰連續主力合約日內跌5%，現報191640.00元。"
     }
   ]
 }
