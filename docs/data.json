@@ -1,7 +1,15 @@
 {
-  "updated": "2026-05-22 05:25:45",
-  "count": 16216,
+  "updated": "2026-05-22 05:29:42",
+  "count": 16210,
   "items": [
+    {
+      "id": "4893648",
+      "time": "2026-05-22 05:27:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "SpaceX：星艦發射時間現調整為美國中部時間下午6點。"
+    },
     {
       "id": "4893647",
       "time": "2026-05-22 05:24:28",
@@ -145743,68 +145751,6 @@
         "其他"
       ],
       "text": "週四（5月14日），美股儲存晶片與硬體供應鏈指數跌1.95%，報185.75點。成分股閃迪跌4.46%，美光、Rambus至多跌3.44%，泰瑞達、希捷科技、西部資料至多跌1.88%，應用材料則收漲0.90%，拉姆研究漲1.26%。"
-    },
-    {
-      "id": "4880649",
-      "time": "2026-05-15 05:29:16",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國國務院高階官員就以色列-黎巴嫩談判表示：我們期待週五繼續談判，屆時有望公佈更多訊息。"
-    },
-    {
-      "id": "4880648",
-      "time": "2026-05-15 05:28:35",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國國務院高階官員就以色列-黎巴嫩談判表示：全天談判富有成效，進展積極。"
-    },
-    {
-      "id": "te:markets:550844",
-      "time": "2026-05-15 05:28:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "Ibovespa Gains as Investors Digest Corporate Earnings — The Ibovespa rose 0.7% to close at 178,366 on Thursday in a session driven by corporate earnings. CSN climbed 4.7% after reporting first-quarter adjusted EBITDA of R$2.6 billion, up 5.5% from a year earlier and broadly in line with expectations. Eneva gained 0.6% after posting net income of R$522.7 million, a 36% annual increase. Cosan rose 1.1% and Marfrig added 3.8% ahead of their earnings releases. Meanwhile, Banco do Brasil erased early losses to close flat after cutting its 2026 profit guidance to between R$18 billion and R$22 billion following a more than 50% drop in first-quarter adjusted net income. Braskem fell 0.5% despite reporting net profit of R$1.45 billion, more than double the level seen a year earlier. Investors also continued to assess revelations involving Flávio Bolsonaro and former Banco Master owner Daniel Vorcaro, who was charged with fraud."
-    },
-    {
-      "id": "4880647",
-      "time": "2026-05-15 05:28:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "GAMBLING.COM集團有限公司啟動人工智慧主導的重組計劃，裁員 25%，每年可節省 1300 萬美元成本。"
-    },
-    {
-      "id": "4880646",
-      "time": "2026-05-15 05:27:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "週四（5月14日），美股資訊科技指數漲0.89%，報394.40點。成分股Onda Inc.收漲26.52%，思科系統漲13.41%，AppLovin漲6.97%，Nebius漲6.70%，惠與（HPE）漲6.42%，Lumentum則收跌2.77%，美光跌3.44%，英特爾跌3.62%，閃迪跌4.46%，高通跌6.14%。"
-    },
-    {
-      "id": "4880645",
-      "time": "2026-05-15 05:27:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國最高法院撤銷了阻斷墮胎藥米非司酮郵寄配送的司法裁決。"
-    },
-    {
-      "id": "4880644",
-      "time": "2026-05-15 05:26:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國會眾議院週四否決了由民主黨牽頭、旨在限制唐納德・特朗普總統對伊朗採取軍事行動許可權的提案。該項戰爭權力決議案最終以212 票贊成、212 票反對的平局結果告終。在眾議院投票中，平局即意味著議案未獲透過。"
     }
   ]
 }
