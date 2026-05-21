@@ -1,7 +1,17 @@
 {
-  "updated": "2026-05-22 03:20:10",
+  "updated": "2026-05-22 03:23:53",
   "count": 16278,
   "items": [
+    {
+      "id": "mkt:019e4bfb-2ae4-7aa1-9581-3e1f430a05a4",
+      "time": "2026-05-22 03:20:12",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "SPACEX AIMS TO BUILD 10-GIGAWATT SOLAR FACTORY NEAR AUSTIN"
+    },
     {
       "id": "4893586",
       "time": "2026-05-22 03:17:28",
@@ -146346,14 +146356,6 @@
         "Importance 1"
       ],
       "text": "Argentina Monthly Inflation Slows in April — Consumer prices in Argentina rose 2.6% month-over-month in April 2026, easing from 3.4% in March and remaining close to forecasts of 2.5%. Regulated prices posted the largest increase, rising 4.7% amid higher transportation and electricity costs. Core CPI advanced 2.3%, supported by increases in housing rents and related expenses, as well as restaurant and dining prices. Seasonal prices were unchanged, as higher clothing prices linked to the seasonal transition were offset by declines in tourism and fruit prices. Among major categories, transport recorded the strongest monthly increase, rising 4.4% due to higher fuel prices, followed by education with a 4.2% gain. Food and non-alcoholic beverages (1.5%) and recreation and culture (1.0%) posted the smallest increases. Year-to-date inflation reached 12.3%."
-    },
-    {
-      "id": "4880528",
-      "time": "2026-05-15 03:20:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基：我會見了美國智庫哈德遜研究所的代表，並向其通報了近日俄羅斯襲擊造成的相關後果。鑑於此類襲擊持續發生，強化烏克蘭防空力量顯得尤為重要。"
     }
   ]
 }
