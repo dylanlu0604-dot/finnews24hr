@@ -1,7 +1,251 @@
 {
-  "updated": "2026-05-21 21:30:58",
-  "count": 16092,
+  "updated": "2026-05-21 21:35:19",
+  "count": 16091,
   "items": [
+    {
+      "id": "mkt:019e4abd-e924-7bb7-824a-ff3472376cc9",
+      "time": "2026-05-21 21:33:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI CRUDE FUTURES EXTEND GAINS, RISE 4%"
+    },
+    {
+      "id": "4893147",
+      "time": "2026-05-21 21:33:37",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "禮來公司股價上漲0.8%，此前該公司表示，服用其新一代肥胖症藥物的患者體重減輕了28%。"
+    },
+    {
+      "id": "mkt:019e4abd-d331-7bb7-824a-f07bc1a530e3",
+      "time": "2026-05-21 21:33:34",
+      "tags": [
+        "MKT News",
+        "LLY.O",
+        "Impact bullish"
+      ],
+      "text": "ELI LILLY SHARES ADD 0.8% AFTER CO SAYS PATIENTS ON ITS NEXT-GEN OBESITY DRUG LOST 28% OF BODY WEIGHT"
+    },
+    {
+      "id": "4893146",
+      "time": "2026-05-21 21:33:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破109美元/桶，日內漲3.80%。"
+    },
+    {
+      "id": "4893145",
+      "time": "2026-05-21 21:33:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "財捷集團股價跌19%，創2003年3月以來最大跌幅。"
+    },
+    {
+      "id": "4893144",
+      "time": "2026-05-21 21:33:27",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數跌超2%，網易有道跌11.17%，海天網路跌9.69%，網易跌6.27%，萬國資料跌5.26%，金山雲跌5.34%。"
+    },
+    {
+      "id": "4893143",
+      "time": "2026-05-21 21:33:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "應用數字股票上漲11%，創5月11日以來最大漲幅。"
+    },
+    {
+      "id": "mkt:019e4abd-0ffe-7bb7-824a-e940d897189a",
+      "time": "2026-05-21 21:32:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "IONQ.O",
+        "Impact bullish"
+      ],
+      "text": "QUANTUM COMPUTING STOCKS JUMP AFTER REPORT US GOVERNMENT TO AWARD FUNDS AND TAKE EQUITY STAKES D-WAVE QUANTUM RISES 16%, RIGETTI COMPUTING CLIMBS 14%, INFLEQTION SHARES ADVANCES 25% QUANTUM COMPUTING SHARES GAIN 9%, IONQ ADDS 3.1%"
+    },
+    {
+      "id": "4893142",
+      "time": "2026-05-21 21:32:43",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "據報道，美國政府將撥款資助並取得股權，量子計算板塊股價上漲。量子計算概念股上漲9%，IonQ股價上漲3.1%。"
+    },
+    {
+      "id": "4893141",
+      "time": "2026-05-21 21:32:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "IBM股價開盤上漲3.6%，創近兩個月來最大漲幅。"
+    },
+    {
+      "id": "mkt:019e4abc-7e88-7bb7-824a-e066e3d16820",
+      "time": "2026-05-21 21:32:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bearish"
+      ],
+      "text": "NVIDIA SHARES DOWN 1% AFTER Q1 RESULTS"
+    },
+    {
+      "id": "4893140",
+      "time": "2026-05-21 21:32:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "拉夫·勞倫開盤上漲 11%，創一年多來最大漲幅。"
+    },
+    {
+      "id": "mkt:019e4abc-5667-7bb7-824a-d8b16aec76fd",
+      "time": "2026-05-21 21:31:55",
+      "tags": [
+        "MKT News",
+        "WMT.O",
+        "Impact bearish"
+      ],
+      "text": "SHARES OF WALMART DOWN ABOUT 5% AFTER CO MAINTAINS ANNUAL TARGETS"
+    },
+    {
+      "id": "4893139",
+      "time": "2026-05-21 21:31:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "愛爾蘭總理：擬議的針對以色列佔領的約旦河西岸的制裁法案僅將適用於商品，服務領域的制裁無法推行。"
+    },
+    {
+      "id": "4893138",
+      "time": "2026-05-21 21:31:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲4%，現報102.19美元/桶。"
+    },
+    {
+      "id": "te:markets:552787",
+      "time": "2026-05-21 21:31:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Alibaba Stock Price Hits 5-week Low — Alibaba shares decreased to 129.15 USD, the lowest since April 2026. Over the past 4 weeks, Alibaba lost 5.14%, and in the last 12 months, it increased 6.41%."
+    },
+    {
+      "id": "4893137",
+      "time": "2026-05-21 21:31:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "【落實《南海各方行為宣言》第26次高官會在吉隆坡舉行】5月21日，中國和東盟國家在馬來西亞吉隆坡舉行落實《南海各方行為宣言》第26次高官會。與會各方一致強調維護南海和平安寧重要性，重申繼續全面有效落實《宣言》，加強對話協商，保持克制，妥處分歧，深化海上務實合作，維護南海局勢穩定。各方肯定“南海行為準則”磋商取得的積極進展，同意保持磋商勢頭，爭取早日達成“準則”。5月22日至5月23日，中國和東盟國家還將舉行落實《宣言》第55次聯合工作組會，繼續推進“準則”磋商。（央視新聞）"
+    },
+    {
+      "id": "mkt:019e4abb-d8d1-7bb7-824a-d01815c9fa83",
+      "time": "2026-05-21 21:31:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "U.S. STOCKS OPEN LOWER, DOW -0.27%, S&P 500 -0.39%, NASDAQ -0.5%"
+    },
+    {
+      "id": "4893136",
+      "time": "2026-05-21 21:31:10",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "微軟股價上漲1.2%，有報道稱Anthropic正商談使用該公司的人工智慧晶片。"
+    },
+    {
+      "id": "mkt:019e4abb-6df7-7bb7-824a-c8dbf8bd2b8f",
+      "time": "2026-05-21 21:30:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O",
+        "Impact bullish"
+      ],
+      "text": "MICROSOFT SHARES GAIN 1.2%; REPORT ANTHROPIC IN TALKS TO USE CO'S AI CHIPS"
+    },
+    {
+      "id": "4893135",
+      "time": "2026-05-21 21:30:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "據港交所檔案：南京矽基智慧科技集團股份有限公司向港交所提交上市申請書。"
+    },
+    {
+      "id": "4893134",
+      "time": "2026-05-21 21:30:47",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數跌超1%，海天網路跌9.69%，網易有道跌6.25%，網易跌5.80%，金山雲跌4.94%，貝殼跌4.59%。"
+    },
+    {
+      "id": "4893133",
+      "time": "2026-05-21 21:30:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "沃爾瑪股價下跌幅度高達5.7%，創下自2025年2月以來最大跌幅。"
+    },
+    {
+      "id": "4893132",
+      "time": "2026-05-21 21:30:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股開盤：三大股指齊跌】道指跌0.29%，標普500指數跌0.39%，納指跌0.54%。財捷跌19.10%，Atlassian跌4.16%，沃爾瑪跌4.16%，工時公司跌3.99%。“七姐妹”方面：微軟漲1.26%，特斯拉漲1.15%，蘋果跌0.25%，Meta Platforms跌0.84%，亞馬遜跌0.89%，谷歌跌0.95%，英偉達跌1.15%。"
+    },
+    {
+      "id": "4893131",
+      "time": "2026-05-21 21:30:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "俄軍總參謀長：此次核演習第一階段已開展核力量突擊檢驗。"
+    },
     {
       "id": "te:markets:552786",
       "time": "2026-05-21 21:30:15",
@@ -144490,261 +144734,6 @@
         "Importance 0"
       ],
       "text": "ASML Holding Stock Price Hits All-time High — ASML Holding shares increased to an all-time high of 1353.00 EUR. Over the past 4 weeks, ASML Holding gained 9.76%, and in the last 12 months, it increased 97.89%."
-    },
-    {
-      "id": "4880199",
-      "time": "2026-05-14 21:35:18",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納斯達克中國金龍指數跌超3%，阿特斯跌12.50%，金山雲跌9.25%，汽車之家跌7.32%，嗶哩嗶哩跌6.29%，小鵬汽車跌5.40%。"
-    },
-    {
-      "id": "4880198",
-      "time": "2026-05-14 21:35:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "現貨鉑金跌幅超3%，報每盎司2070.26美元。"
-    },
-    {
-      "id": "mkt:019e26b2-ab0c-7dde-99f4-e194d46ffa53",
-      "time": "2026-05-14 21:34:46",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "SPOT PLATINUM FALLS OVER 3% TO $2,070.26/OZ"
-    },
-    {
-      "id": "4880197",
-      "time": "2026-05-14 21:34:44",
-      "tags": [
-        "市場"
-      ],
-      "text": "英偉達股價上漲2.4%，創下歷史新高。"
-    },
-    {
-      "id": "4880196",
-      "time": "2026-05-14 21:34:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國氣候預測中心（CPC）：厄爾尼諾於2026年5月至7月間出現的機率高達82%，2026年12月至2027年2月間的發生機率進一步升至96%。"
-    },
-    {
-      "id": "mkt:019e26b2-03a8-7dde-99f4-d9e1e3e16a01",
-      "time": "2026-05-14 21:34:20",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "Magnificent 7",
-        "Star Stocks",
-        "NVIDIA",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "NVIDIA SHARES UP 2.4% AT RECORD HIGH AFTER REPORT U.S. CLEARS H200 CHIP SALES TO 10 CHINA FIRMS"
-    },
-    {
-      "id": "4880195",
-      "time": "2026-05-14 21:34:18",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內跌3%，現報84.81美元/盎司。"
-    },
-    {
-      "id": "4880194",
-      "time": "2026-05-14 21:33:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "據港交所檔案：成都國星宇航科技股份有限公司向港交所提交上市申請書。"
-    },
-    {
-      "id": "4880193",
-      "time": "2026-05-14 21:33:28",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【馬斯克說兒子在學普通話】5月14日，跟隨美國總統特朗普訪華的特斯拉CEO馬斯克在X平臺上用中文發帖稱：“我的兒子正在學習普通話。” 此次訪華，馬斯克帶上了6歲的兒子X。在影片裡，小X身穿中式馬甲戴虎頭帽，手上還提一個虎頭包，樣子萌呆。隨行的是負責特斯拉中國區的核心高管朱曉彤。（第一財經）"
-    },
-    {
-      "id": "4880192",
-      "time": "2026-05-14 21:33:24",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "加拿大鵝美國上市股價在第四財季營收超預期後上漲約7%。"
-    },
-    {
-      "id": "4880191",
-      "time": "2026-05-14 21:33:17",
-      "tags": [
-        "市場"
-      ],
-      "text": "韋爾森特傳媒股價上漲10.8%，此前其一季度營收超出市場預期。"
-    },
-    {
-      "id": "mkt:019e26b0-b478-7dde-99f4-d2c1adf553a7",
-      "time": "2026-05-14 21:32:55",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "RUBIO SAYS CHINA TRYING TO TAKE TAIWAN WOULD BE A MISTAKE: AP"
-    },
-    {
-      "id": "4880190",
-      "time": "2026-05-14 21:32:51",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "美股AI光互聯龍頭POET開盤大漲超30%。訊息面上，公司和光互連基礎設施平臺Lumilens合作，推動晶圓級光子整合。"
-    },
-    {
-      "id": "te:markets:550765",
-      "time": "2026-05-14 21:32:40",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stocks Hold at Record Highs — US equity indices rose to fresh highs Thursday on support from the earnings-fueled tech rally. The S&P 500 inched higher and the Nasdaq was flat at their records, while those for the Dow rose past 50,000 to approach its all-time high. The bullish guidances by AI companies supported the broader market through high energy prices from the blockade in the Persian Gulf and hawkish outlook for the Fed, lastly consolidated by the 0.5% increase in the control group of retail sales. Cisco jumped 15% after posting strong earnings and forecasts, while signaling 4,000 jobs to be cut on improved productivity. Meanwhile, Nvidia added 2% to extend its rally to 15% this month after the US cleared 10 cleared 10 Chinese firms for receiving H200 chips. The announcement took place amid President Trump's and tech CEO's visit to Beijing, so far maintaining the de-escalatory rhetoric since their trade war peaked last year."
-    },
-    {
-      "id": "4880189",
-      "time": "2026-05-14 21:32:33",
-      "tags": [
-        "市場"
-      ],
-      "text": "在TD考恩將星巴克股票評級從持有上調至買入後，星巴克股價上漲2.5%。"
-    },
-    {
-      "id": "mkt:019e26b0-1539-7dde-99f4-c91d43857f3e",
-      "time": "2026-05-14 21:32:14",
-      "tags": [
-        "MKT News",
-        "SBUX.O",
-        "Impact bullish"
-      ],
-      "text": "STARBUCKS SHARES RISE 2.5% AFTER TD COWEN UPGRADES TO BUY FROM HOLD"
-    },
-    {
-      "id": "4880188",
-      "time": "2026-05-14 21:31:54",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "財報出爐後，思科股價大漲 15%，創 2011 年以來最大單日漲幅。"
-    },
-    {
-      "id": "mkt:019e26af-ac35-7dde-99f4-c2d2044fc208",
-      "time": "2026-05-14 21:31:47",
-      "tags": [
-        "MKT News",
-        "Important",
-        "CSCO.O",
-        "Impact bullish",
-        "Nasdaq100"
-      ],
-      "text": "CISCO SHARES RISE 15% IN BIGGEST JUMP SINCE 2011 AFTER RESULTS"
-    },
-    {
-      "id": "mkt:019e26af-6e8c-7dde-99f4-bfe3833cb0f5",
-      "time": "2026-05-14 21:31:31",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Wall Street (US)",
-        "Dow",
-        "Impact bullish",
-        "S&P500",
-        "Nasdaq100"
-      ],
-      "text": "US STOCKS OPEN HIGHER: DOW +0.8%, S&P 500 +0.21%, NASDAQ +0.09%"
-    },
-    {
-      "id": "4880187",
-      "time": "2026-05-14 21:31:20",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨白銀失守85美元/盎司，日內跌2.79%。"
-    },
-    {
-      "id": "4880186",
-      "time": "2026-05-14 21:31:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "維京控股股價上漲10%，創歷史新高。"
-    },
-    {
-      "id": "te:markets:550764",
-      "time": "2026-05-14 21:31:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Cisco Systems Stock Price Hits All-time High — Cisco Systems shares increased to an all-time high of 115.93 USD. Over the past 4 weeks, Cisco Systems gained 23.31%, and in the last 12 months, it increased 66.21%."
-    },
-    {
-      "id": "4880185",
-      "time": "2026-05-14 21:31:09",
-      "tags": [
-        "市場"
-      ],
-      "text": "DOXIMITY股票開盤暴跌23%，創歷史新低。"
-    },
-    {
-      "id": "te:markets:550763",
-      "time": "2026-05-14 21:31:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Morgan Stanley Stock Price Hits All-time High — Morgan Stanley shares increased to an all-time high of 195.97 USD. Over the past 4 weeks, Morgan Stanley gained 5.72%, and in the last 12 months, it increased 47.92%."
-    },
-    {
-      "id": "4880184",
-      "time": "2026-05-14 21:31:06",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納斯達克中國金龍指數跌超2%，阿特斯跌11.87%，金山雲跌8.57%，嗶哩嗶哩跌5.37%，汽車之家跌5.05%，小鵬汽車跌5.07%。"
-    },
-    {
-      "id": "te:markets:550762",
-      "time": "2026-05-14 21:31:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Enbridge Stock Price Hits 5-week High — Enbridge shares increased to 75.95 CAD, the highest since April 2026. Over the past 4 weeks, Enbridge gained 3.75%, and in the last 12 months, it increased 20.7%."
     }
   ]
 }
