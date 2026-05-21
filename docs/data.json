@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-22 00:45:13",
-  "count": 16233,
+  "updated": "2026-05-22 00:49:20",
+  "count": 16229,
   "items": [
     {
       "id": "4893486",
@@ -145875,57 +145875,6 @@
         "Impact bearish"
       ],
       "text": "【Apple-OpenAI Partnership Frays as Startup Weighs Possible Legal Action】Apple’s partnership with OpenAI has deteriorated, with the AI startup preparing potential legal action over what it sees as Apple’s failure to fully support ChatGPT integration across iPhone, iPad and Mac products. OpenAI lawyers are working with an outside law firm on options including a possible breach-of-contract notice. OpenAI expected stronger user conversion to paid subscriptions and deeper Siri integration, but executives said Apple’s implementation remained limited and poorly promoted. Apple has also raised privacy concerns about OpenAI while expanding talks with rivals including Anthropic and Google for broader AI integrations in iOS 27."
-    },
-    {
-      "id": "mkt:019e2763-8ea4-7bb5-b4d0-fb383cc9b5df",
-      "time": "2026-05-15 00:48:05",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bearish"
-      ],
-      "text": "POUND DROPS TO A ONE-MONTH LOW DUE TO BURNHAM'S PARLIAMENT RUN"
-    },
-    {
-      "id": "mkt:019e2763-407d-7bb5-b4d0-f7302ec61699",
-      "time": "2026-05-15 00:47:56",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Crypto Concepts",
-        "Bitcoin",
-        "Impact bullish",
-        "Ethereum"
-      ],
-      "text": "LONG-STALLED CRYPTO MARKET BILL WINS KEY SENATE COMMITTEE VOTE"
-    },
-    {
-      "id": "mkt:019e2761-ea71-7bb5-b4d0-ecbb98747494",
-      "time": "2026-05-15 00:46:28",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7",
-        "AAPL.O",
-        "Impact mixed"
-      ],
-      "text": "APPLE-OPENAI PARTNERSHIP FRAYS, SETTING UP POSSIBLE LEGAL FIGHT OPENAI WORKS WITH LAW FIRM TO PREPARE ACTIONS AGAINST APPLE APPLE-OPENAI DEAL WOVE CHATGPT INTO IPHONE MAKER’S SOFTWARE APPLE DEAL FAILED TO MEET OPENAI’S FINANCIAL EXPECTATIONS"
-    },
-    {
-      "id": "4880412",
-      "time": "2026-05-15 00:45:49",
-      "tags": [
-        "公司",
-        "其他",
-        "焦點",
-        "國際"
-      ],
-      "text": "蘋果與 OpenAI 合作關係出現裂痕，或將引發法律糾紛。 OpenAI 已聯合律所，籌備對蘋果採取法律行動。"
     }
   ]
 }
