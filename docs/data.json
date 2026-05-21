@@ -1,7 +1,53 @@
 {
-  "updated": "2026-05-21 10:32:25",
-  "count": 15891,
+  "updated": "2026-05-21 10:36:24",
+  "count": 15890,
   "items": [
+    {
+      "id": "te:economy:552525",
+      "time": "2026-05-21 10:35:33",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Japan 10Y Yield Slips as Oil Retreats — Japan’s 10-year government bond yield slipped to around 2.77% on Thursday, retreating from 30-year highs as falling oil prices eased pressure on Japan’s import-dependent economy amid growing optimism over a potential peace agreement between the US and Iran. President Donald Trump said the US was in the final stages of negotiations with Iran, fueling expectations that the strategically important Strait of Hormuz could soon reopen. On the domestic front, data showed Japanese exports rose 14.8% in April, surpassing forecasts on the back of strong demand from China, the US, ASEAN nations and the European Union. Earlier data this week also indicated that Japan’s economy expanded more than expected in the first quarter, reinforcing expectations of a near-term interest rate hike from the Bank of Japan. Meanwhile, Japanese government bonds remained under pressure after Prime Minister Sanae Takaichi urged the finance ministry to prepare a supplementary budget to address rising commodity prices."
+    },
+    {
+      "id": "4891682",
+      "time": "2026-05-21 10:33:23",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【半導體裝置股持續走強 北方華創漲停續創歷史新高】半導體裝置股盤中持續走強，北方華創漲停，續創歷史新高，總市值突破5200億，聯動科技漲超10%，屹唐股份、拓荊科技、中微公司、長川科技均漲超6%。"
+    },
+    {
+      "id": "4891681",
+      "time": "2026-05-21 10:33:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "【古特雷斯強烈譴責以色列決定在近東救濟工程處大院建立軍事設施】聯合國秘書長古特雷斯的發言人20日發表宣告說，古特雷斯“以最強烈的言辭”譴責以色列當局決定在其今年1月強佔的聯合國近東巴勒斯坦難民救濟和工程處（近東救濟工程處）位於東耶路撒冷的大院內建立軍事設施。"
+    },
+    {
+      "id": "4891680",
+      "time": "2026-05-21 10:32:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國總統府（青瓦臺）表示，被以色列拘留的活動人士已獲釋。"
+    },
+    {
+      "id": "4891679",
+      "time": "2026-05-21 10:31:43",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本東證指數早盤收盤上漲2.2%，至3875.34點。"
+    },
     {
       "id": "4891678",
       "time": "2026-05-21 10:31:31",
@@ -142992,60 +143038,6 @@
         "Importance 1"
       ],
       "text": "Yen Extends Losses for Fourth Session — The Japanese yen weakened toward 158 per dollar on Thursday, falling for the fourth straight session as the dollar gained traction on accelerating US inflation, which reinforced expectations that the Federal Reserve could maintain higher interest rates or even deliver an additional hike. The absence of decisive intervention from Japanese authorities also weighed on sentiment, although traders remain alert to potential action after US Treasury Secretary Scott Bessent expressed support for Tokyo’s recent efforts to stabilize the currency. On the policy front, the Summary of Opinions from the Bank of Japan’s April meeting suggested that policymakers debated the possibility of additional interest rate increases as early as the next meeting, with higher oil prices further complicating the inflation outlook. Separately, the OECD projected that the Bank of Japan’s policy rate could rise to 2% by the end of 2027."
-    },
-    {
-      "id": "4878972",
-      "time": "2026-05-14 10:35:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "【阿里企業級Agent平臺“悟空”開始逐步規模化放量】阿里旗下企業級Agent平臺“悟空”已於近期逐步規模化放量。（介面新聞）"
-    },
-    {
-      "id": "4878971",
-      "time": "2026-05-14 10:34:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "【方正證券：地緣帶來新增量 煤化工驅動煤企業績彈性】方正證券釋出研報稱，美伊衝突升級引發霍爾木茲海峽封鎖，布倫特油價達100美元/桶以上，全球能源供給顯著承壓。進入五月，中東油氣庫存逼近庫容上限，能源危機存在長期化風險。該行認為2026年煤價將築底回升，但考慮到中東地區煤炭產量較少，除非極端情況發生，該行認為煤價難以重回2022年的高位，油價卻有較大機率維持震盪，煤油價差的擴大可能帶來煤化工投資機會。"
-    },
-    {
-      "id": "mkt:019e2456-0c7a-777f-be5a-95f273eeb86f",
-      "time": "2026-05-14 10:34:15",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bullish",
-        "Copper",
-        "CSI300"
-      ],
-      "text": "FITCH RTGS: CHINA LOCAL GOVERNMENTS POST STEADY TAX REVENUE; INFRASTRUCTURE SPEND RISES"
-    },
-    {
-      "id": "4878970",
-      "time": "2026-05-14 10:34:09",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中金：維持阿里巴巴-W跑贏行業評級 目標價172港元】中金髮布研報稱，目前阿里巴巴-W(09988)港股交易於25倍FY27和15倍FY28非通用準則市盈率，阿里巴巴(BABA.US)美股交易於24倍FY27和15倍FY28非通用準則市盈率。該行下調FY27和FY28收入3%和4%至11474億元和13010億元，系CMR會計口徑調整;上調FY27和FY28 non-GAAP淨利潤預測9%和5%至911億元和1471億元，系雲端計算利潤率提升和閃購最佳化UE。該行採用SOTP估值，基於FY27給予電商業務(不含閃購)8x P/E和雲端計算業務8x P/S，維持港股和美股目標價172港幣和178美元，維持跑贏行業評級，較目前港股和美股股價有30%和32%的上行空間。"
-    },
-    {
-      "id": "4878969",
-      "time": "2026-05-14 10:32:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中美共同利益大於分歧 中美關係穩定是世界的利好】習近平：中美之間的共同利益大於分歧，中美各自成功是彼此的機遇，中美關係穩定是世界的利好。（央視新聞）"
-    },
-    {
-      "id": "4878968",
-      "time": "2026-05-14 10:32:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "【華創證券：重視銀行板塊配置機會 2026年重點關注三條投資主線】華創證券釋出研報稱，中長期資金入市和公募基金改革的核心邏輯未變，重視銀行板塊配置機會，銀行欠配幅度仍然較大。預計2026年仍是銀行板塊估值系統性回升的一年：從防禦到攻守兼備，基本面回暖和資金驅動共同發力。1)高股息、低估值的特性依然是銀行股的底色，特別是在無風險利率下行的背景下，銀行股的類債屬性將持續吸引穩健資金。2)隨著息差企穩、區域信貸需求回升和非息收入增長，部分優質銀行將展現出較強的業績彈性，估值有望從PB邏輯向PE邏輯切換。"
     }
   ]
 }
