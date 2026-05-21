@@ -1,7 +1,33 @@
 {
-  "updated": "2026-05-22 04:12:36",
-  "count": 16257,
+  "updated": "2026-05-22 04:26:00",
+  "count": 16245,
   "items": [
+    {
+      "id": "4893621",
+      "time": "2026-05-22 04:22:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "美聯社援引該國警方發言人訊息：宏都拉斯北部牧場發生槍擊案，10 名工作人員遇難。"
+    },
+    {
+      "id": "mkt:019e4c2f-750e-7aa1-9581-a139889ab592",
+      "time": "2026-05-22 04:17:18",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Al Arabiya Denies Iran Reports on US-Iran Deal】Al Arabiya said Iranian media falsely attributed reports to it claiming a US-Iran agreement had been reached. It denied issuing or circulating any such reports and said the claims are fabricated. It added that unverified attribution by Iranian outlets constitutes a journalistic error."
+    },
+    {
+      "id": "4893620",
+      "time": "2026-05-22 04:13:10",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【阿拉伯電視臺駁斥伊媒援引其關於“美伊達成協議”的報道】沙烏地阿拉伯電視臺稱，伊朗媒體報道稱美伊協議已達成並將此訊息源歸於本臺的說法是捏造的。伊朗媒體在未經核實的情況下將相關報道歸於本臺的行為屬於新聞失實。"
+    },
     {
       "id": "4893618",
       "time": "2026-05-22 04:12:05",
@@ -146033,140 +146059,6 @@
         "其他"
       ],
       "text": "【法國南特市發生槍擊事件 致1人死亡】當地時間5月14日晚，法國西部大西洋岸盧瓦爾省南特市發生槍擊事件，造成一名14歲少年死亡，另有兩人受傷。據警方訊息，槍擊事件發生在當天20時左右。一名少年中槍身亡，另有兩人不同程度受傷。槍手作案後逃離現場。今年以來，南特市已發生超20起槍擊事件。（央視新聞）"
-    },
-    {
-      "id": "4880590",
-      "time": "2026-05-15 04:25:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "APOTEX：司美格魯肽注射液未來幾周內將上架加拿大全國各大藥房。"
-    },
-    {
-      "id": "4880589",
-      "time": "2026-05-15 04:25:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "古巴政府：美國中央情報局局長於週四與古巴內政部長舉行會面。"
-    },
-    {
-      "id": "mkt:019e2829-7933-7bb5-b4d2-a740fdc80799",
-      "time": "2026-05-15 04:24:27",
-      "tags": [
-        "MKT News",
-        "PZZA.O",
-        "Impact bullish"
-      ],
-      "text": "PAPA JOHN'S BIGGEST U.S. FRANCHISEE JOINS IRTH'S BID TO TAKE COMPANY PRIVATE, THREE SOURCES SAY"
-    },
-    {
-      "id": "4880588",
-      "time": "2026-05-15 04:24:15",
-      "tags": [
-        "公司",
-        "央行",
-        "國際"
-      ],
-      "text": "Coupang：凱文・沃什因出任美聯儲主席一職，辭去公司董事職務。"
-    },
-    {
-      "id": "4880587",
-      "time": "2026-05-15 04:23:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【報道：阿波羅為旗下MFIC尋找買家】規模1萬億美元的阿波羅全球管理據報正為旗下規模30億美元的MidCap Financial Investment Corp.（MFIC）尋找買家。雖然該基金避免了像KKR和貝萊德基金那樣出現深度折價交易，但仍然面臨虧損和淨資產下滑。此外，與阿波羅執行長Marc Rowan設想的規模40萬億美元且以投資級為主的私募信貸市場相比，該基金對中型市場貸款的關注也顯得過於狹窄。"
-    },
-    {
-      "id": "4880586",
-      "time": "2026-05-15 04:22:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "【報道：貝萊德已將更多HPS高管納入TCP的投資委員會】據知情人士透露，貝萊德旗下規模15億美元的BlackRock TCP Capital Corp.（TCPC）過去一年一直令這家全球最大資產管理公司頭疼不已。該基金的問題早在貝萊德斥資120億美元收購私募信貸精品公司HPS Investment Partners前就出現了，貝萊德已將更多HPS高管納入TCP的投資委員會，讓他們在篩選新貸款以改善業績方面發揮關鍵作用。"
-    },
-    {
-      "id": "4880585",
-      "time": "2026-05-15 04:21:45",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【瑞穗：隨著天氣變暖，美國天然氣期貨上漲】美國天然氣期貨結算價走高，5月下半月天氣變暖的前景料將提振電力部門的需求，且周度庫存增幅符合常態。美國能源情報署報告稱，上週地下庫存增加850億立方英尺，達到22,900億立方英尺，這比五年平均水平高出1,400億立方英尺，即6.5%。瑞穗的Robert Yawger在一份報告中表示，如果氣溫高於正常水平的預測成真，“預計天然氣價格將向3美元水平反彈“。紐約商交所天然氣期貨結算價上漲1%，報每百萬英熱單位2.894美元。"
-    },
-    {
-      "id": "4880584",
-      "time": "2026-05-15 04:21:20",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【美國國債收益率從早盤下跌中回升，收盤漲跌互現】隨著美國經濟指標支援對緊縮貨幣政策的預測，美國國債遭遇拋售，推動收益率從早盤的下跌中回升。芝商所的FedWatch工具反映出，美聯儲到12月加息的機率為39%，而按兵不動的機率為60%。首次申請失業救濟人數保持在長期區間內，同時零售額增長放緩，但並未萎縮。AI交易使美國股市保持在創紀錄高位。白宮表示，美國總統特朗普和習近平一致認為伊朗不應控制霍爾木茲海峽，但油價仍保持在100美元上方。華爾街日報美元指數上漲0.3%。10年期國債收益率下跌0.020個百分點，至4.459%，而兩年期國債收益率上升0.003個百分點，至3.992%。"
-    },
-    {
-      "id": "te:markets:550832",
-      "time": "2026-05-15 04:19:38",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "Tech Powers US Stocks to Fresh Highs — The US stock market surged toward new records on Thursday, amid strength in AI-related companies and optimism surrounding the US-China summit in Beijing. The S&P 500 climbed 0.8% to cross 7,500 for the first time, while the Nasdaq gained 0.9% and the Dow crossed 50,000 for the first time since the start of the Iran war in February. Tech rallied, with Cisco Systems soaring 13% on upgraded revenue and earnings forecasts. Meanwhile, Nvidia jumped 4.4%, extending its monthly rally to 15% after the US cleared 10 Chinese firms to receive H200 chips."
-    },
-    {
-      "id": "4880583",
-      "time": "2026-05-15 04:19:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：一架小型飛機墜毀於俄亥俄州阿克倫市坎特伯雷圈區域一處民宅，引發爆炸並起火，目前傷亡情況不明。"
-    },
-    {
-      "id": "mkt:019e2824-0d7a-7bb5-b4d2-98d1e8ff70d1",
-      "time": "2026-05-15 04:18:31",
-      "tags": [
-        "MKT News",
-        "SHOP.O",
-        "Impact bullish"
-      ],
-      "text": "JOSHUA KUSHNER’S THRIVE CAPITAL HAS TAKEN A $100M STAKE IN SHOPIFY"
-    },
-    {
-      "id": "4880582",
-      "time": "2026-05-15 04:18:23",
-      "tags": [
-        "市場"
-      ],
-      "text": "【標普 500 指數突破 7500 點，人工智慧助推行情創下歷史新高】人工智慧交易熱潮再度回暖，持續為股市注入上漲動能。儘管受戰事推動能源成本飆升，但零售銷售資料顯現消費韌性，市場同步走高。股市自年內低點持續反彈，標普 500 指數突破 7500 點大關。英偉達連續七日收漲，市值逼近 6 萬億美元。思科系統給出穩健業績展望，股價大漲 13%。人工智慧炒作熱潮繼續推高福特汽車股價，賽布拉斯系統上市首日暴漲 68%。蘋果股價走低，因訊息稱，OpenAI 未能從合作協議中獲得預期收益，並正考慮採取法律行動。"
-    },
-    {
-      "id": "4880581",
-      "time": "2026-05-15 04:16:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "法拉第未來公佈2026年第一季度財務業績。公司升級為一家“實體人工智慧公司”，其EAI機器人已實現生態系統收入及毛利轉正；公司將2026年機器人出貨目標上調至1500臺，並計劃於6月初推出新款機器人。"
-    },
-    {
-      "id": "4880580",
-      "time": "2026-05-15 04:16:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "NEWCORE GOLD 宣佈完成 1000 萬美元包銷配售融資。"
-    },
-    {
-      "id": "4880579",
-      "time": "2026-05-15 04:15:19",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國投資公司協會（ICI）：截至5月13日當週，貨幣市場基金總資產增加4.36億美元，至7.75萬億美元。在應稅貨幣市場基金中，政府基金增加32.5億美元，優質基金減少40.8億美元；免稅貨幣市場基金增加12.7億美元。"
     }
   ]
 }
