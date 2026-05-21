@@ -1,7 +1,62 @@
 {
-  "updated": "2026-05-21 23:33:05",
-  "count": 16208,
+  "updated": "2026-05-21 23:37:35",
+  "count": 16198,
   "items": [
+    {
+      "id": "mkt:019e4b2d-d1e5-7aa1-957e-5a7f9cdf6c46",
+      "time": "2026-05-21 23:35:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD"
+      ],
+      "text": "FRENCH BUDGET MINISTER AMIEL: EXTRA TARGETED MEASURES WILL COST 710 MLN EUROS FOR FRENCH STATE"
+    },
+    {
+      "id": "mkt:019e4b2d-2c4a-7aa1-957e-56eb1258d9b2",
+      "time": "2026-05-21 23:35:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK GOVERNMENT HAS APPROVED DRAFT CODE BY EQUALITY AND HUMAN RIGHTS COMMISSION ON SINGLE-SEX SPACES"
+    },
+    {
+      "id": "4893404",
+      "time": "2026-05-21 23:34:20",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國至5月21日8周國債競拍-投標倍數 2.77，前值2.72。美國至5月21日8周國債競拍-得標利率 3.6%，前值3.61%。\n美國至5月21日8周國債競拍-得標利率配置百分比 45.18%，前值43.09%。"
+    },
+    {
+      "id": "4893403",
+      "time": "2026-05-21 23:33:31",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【墨西哥央行5月會議上，多數理事會成員認為通脹路徑仍然偏向上行】據墨西哥央行5月會議紀要，墨西哥央行所有理事會成員均強調了與中東衝突相關的通脹上行風險。多數墨西哥央行理事會成員指出，墨西哥第一季度的經濟活動出現萎縮，且萎縮幅度明顯大於預期。經濟活動的萎縮是由於其三大主要行業全線下滑所致。墨西哥央行委員Borja表示：採取謹慎態度並維持當前的政策立場是適當的，這有助於我們獲取更多資訊，從而更準確地評估通脹前景。墨西哥央行委員Heath提到了持續存在的核心通脹，以及價格衝擊、軍事衝突和財政調整等因素。其表示：由於進一步降息以及縮小與外部利率利差的空間有限，加之不確定性高企，因此維持利率不變是合理的。"
+    },
+    {
+      "id": "mkt:019e4b2b-1207-7bb7-824d-a25f55a5e48c",
+      "time": "2026-05-21 23:32:52",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 8-Week Bill Auction High Yield Rate (May.21) | actual 3.6% | previous 3.61%"
+    },
+    {
+      "id": "mkt:019e4b2a-d906-7bb7-824d-9e12bf54e6e7",
+      "time": "2026-05-21 23:32:35",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 8-Week Bill Auction Bid/Cover Ratio (May.21) | actual 2.77 | previous 2.72"
+    },
     {
       "id": "4893402",
       "time": "2026-05-21 23:32:23",
@@ -55,6 +110,14 @@
       "text": "德國DAX 30指數初步收跌0.21%，報24684.86點。法國股指初步收跌0.03%，義大利股指初步收漲0.10%、銀行指數跌1.27%，英國股指初步收漲0.27%。"
     },
     {
+      "id": "4893399",
+      "time": "2026-05-21 23:30:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【烏蘭察布壓縮空氣儲能專案2號斜井完工】記者從中國鐵建股份有限公司獲悉，21日，由中鐵建發展集團投資建設、中鐵十五局承建的內蒙古烏蘭察布壓縮空氣儲能專案2號斜井順利完工，全面打通了專案地下施工通道，為後續主體施工打下堅實基礎。 據中鐵十五局專案技術負責人吳宇介紹，烏蘭察布壓縮空氣儲能專案採用“深地空間+人工硐室儲氣”先進技術，在地下百米岩層打造近百萬立方米儲氣空間，能量轉換效率突破65%，技術優勢顯著。此次完工的2號斜井全長1336.18米、綜合坡度7.67%，承擔人員通行、裝置轉運、通風排水等重要職能。 烏蘭察布壓縮空氣儲能專案建成後，年發電量約20億千瓦時，年減排二氧化碳超160萬噸，將有力提升電網調峰能力與新能源消納水平。（新華社）"
+    },
+    {
       "id": "te:economy:552824",
       "time": "2026-05-21 23:30:05",
       "tags": [
@@ -64,6 +127,14 @@
         "Importance 1"
       ],
       "text": "Bonds Update: Australia 10Y Bond Yield Drops by 10 bps — Government bonds yields remain mixed on Thursday. Top losers are Australia 10Y (-10.30bps)."
+    },
+    {
+      "id": "4893398",
+      "time": "2026-05-21 23:29:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【國際刑事法院駁回菲律賓前總統杜特爾特的上訴】總檯記者當地時間21日獲悉，國際刑事法院第一預審分庭駁回了菲律賓前總統杜特爾特辯護團隊提出的上訴。4月23日，國際刑事法院確認了針對菲律賓前總統杜特爾特的指控。據悉，國際刑事法院第一預審分庭裁定，杜特爾特對三項謀殺罪名均負有刑事責任，這些罪名構成所謂“反人類罪”。國際刑事法院聲稱，將以3項所謂“反人類罪”罪名對菲律賓前總統杜特爾特進行審判。（央視新聞）"
     },
     {
       "id": "4893397",
@@ -167,6 +238,14 @@
         "AI Revolution"
       ],
       "text": "AI EO SIGNING POSTPONED TO A LATER DATE: AXIOS"
+    },
+    {
+      "id": "4893391",
+      "time": "2026-05-21 23:24:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國掌管稅務的民主黨人對小組委員會領導權爭奪持開放態度】美國民主黨準備在眾議院籌款委員會（Ways and Means Committee）中增加席位，這可能導致小組委員會領導層出現洗牌。眾議員Brad Schneider表示，民主黨希望“活力”，需要為新議員創造機會，但不會像共和黨那樣推行任期限制。由於包括Lloyd Doggett和Danny Davis在內的多位委員即將退休，委員會將出現職位空缺，從而可能引發對小組委員會領導職位的爭奪。“我不知道目前大家有多大興趣去採納類似共和黨那樣的制度，”Schneider在談到共和黨自1997年起對最高職位實施的六年任期限制時說道，“但我認為，目前的討論核心是我們需要為新加入的成員創造機會。”如果民主黨重新奪回眾議院控制權，他們將增加大約8個席位，同時還需要填補4名退休議員留下的空缺。總的來說，明年籌款委員會可能會迎來12名全新的民主黨面孔。"
     },
     {
       "id": "mkt:019e4b23-683b-7bb7-824d-59c1d7b4b9cb",
@@ -145516,183 +145595,6 @@
         "其他"
       ],
       "text": "英國央行首席經濟學家Huw Pill：通脹更易高於目標水平，而非低於目標。"
-    },
-    {
-      "id": "4880367",
-      "time": "2026-05-14 23:37:28",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行首席經濟學家Huw Pill：當前金融體系需要比兩個月前更強的收緊力度。"
-    },
-    {
-      "id": "4880366",
-      "time": "2026-05-14 23:36:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "Cerebras CEO：隨著業務規模擴大，我們的單位生產成本將會下降。"
-    },
-    {
-      "id": "mkt:019e2722-46b9-7dde-99f7-04d69c6ae38b",
-      "time": "2026-05-14 23:36:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CEREBRAS CEO: AS WE GROW OUR COST OF GOODS WILL COME DOWN"
-    },
-    {
-      "id": "4880365",
-      "time": "2026-05-14 23:36:10",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行首席經濟學家Huw Pill： 不確定性絕非不作為的藉口。"
-    },
-    {
-      "id": "mkt:019e2721-b839-7dde-99f6-fcaebd20d0f0",
-      "time": "2026-05-14 23:36:07",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact bullish",
-        "FTSE100",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "BOE'S PILL: UNCERTAINTY ISN'T AN EXCUSE FOR INACTION"
-    },
-    {
-      "id": "mkt:019e2721-b7de-7dde-99f6-f2c178cb997a",
-      "time": "2026-05-14 23:35:56",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact mixed"
-      ],
-      "text": "BOE'S PILL: CANNOT SAY NOW IF RATE RISE WOULD ONLY BE TEMPORARY OR A PLATEAU FOR RATES"
-    },
-    {
-      "id": "mkt:019e2721-b76c-7dde-99f6-ef98c105a5f7",
-      "time": "2026-05-14 23:35:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "PILL: WAITING PRESENTS MORE CHALLENGES THAN ACTING ACTIVELY"
-    },
-    {
-      "id": "4880364",
-      "time": "2026-05-14 23:35:32",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行首席經濟學家Huw Pill：目前尚無法判斷，此次加息僅是暫時性舉措，還是會進入利率平臺期。"
-    },
-    {
-      "id": "mkt:019e2721-b581-7dde-99f6-e5e72a11b3e5",
-      "time": "2026-05-14 23:35:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CEREBRAS CEO: IPO WAS MORE THAN 25 TIMES OVERSUBSCRIBED"
-    },
-    {
-      "id": "4880363",
-      "time": "2026-05-14 23:35:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "Cerebras CEO：對快速推理的需求非同尋常。IPO股票的認購需求超過25倍。"
-    },
-    {
-      "id": "mkt:019e2721-97c0-7dde-99f6-db74a1831189",
-      "time": "2026-05-14 23:35:17",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "AMZN.O",
-        "Impact bullish"
-      ],
-      "text": "CEREBRAS 'EXTREMELY CONFIDENT' AWS WILL BE HUGE CHANNEL FOR US"
-    },
-    {
-      "id": "mkt:019e2721-50a4-7dde-99f6-d6ad214ab2fc",
-      "time": "2026-05-14 23:35:10",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "FTSE100",
-        "Impact mixed"
-      ],
-      "text": "BOE'S PILL: PROMPT BUT MODEST INCREASE ADVANTAGEOUS"
-    },
-    {
-      "id": "mkt:019e2720-f78e-7dde-99f6-c9b3e420e185",
-      "time": "2026-05-14 23:34:53",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact bullish"
-      ],
-      "text": "BOE'S PILL: WAS SAYING WE SHOULD DO A LITTLE MORE ON RATES"
-    },
-    {
-      "id": "4880362",
-      "time": "2026-05-14 23:34:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "Cerebras CEO：我們的速度領先一個數量級。"
-    },
-    {
-      "id": "mkt:019e2720-c313-7dde-99f6-c0846e53dba8",
-      "time": "2026-05-14 23:34:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "POLYMARKET REACHES MULTIYEAR AGREEMENT WITH ITALY'S SERIE A:FOS"
-    },
-    {
-      "id": "mkt:019e2720-1ad4-7dde-99f6-bcd1635ef380",
-      "time": "2026-05-14 23:34:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "POLYMARKET TO BE SERIE A'S OFFICIAL PREDICTION MARKET IN US:FOS"
-    },
-    {
-      "id": "4880360",
-      "time": "2026-05-14 23:34:15",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行首席經濟學家Huw Pill：若等到市場倒逼才被動行動，英國央行屆時將面臨更大挑戰。"
-    },
-    {
-      "id": "4880359",
-      "time": "2026-05-14 23:33:17",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行首席經濟學家Huw Pill：及時小幅加息更有利。"
-    },
-    {
-      "id": "4880358",
-      "time": "2026-05-14 23:33:07",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行首席經濟學家Huw Pill：金融環境收緊，並不能讓英國央行迴避是否需要自行加息的決策考量。"
     }
   ]
 }
