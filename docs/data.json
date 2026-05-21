@@ -1,7 +1,99 @@
 {
-  "updated": "2026-05-21 13:51:39",
-  "count": 15858,
+  "updated": "2026-05-21 13:55:30",
+  "count": 15863,
   "items": [
+    {
+      "id": "mkt:019e4919-c408-7ee7-b68e-a729a5cbc9c2",
+      "time": "2026-05-21 13:54:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "China Tech Giants",
+        "9626.HK",
+        "Impact bearish",
+        "9999.HK",
+        "1024.HK"
+      ],
+      "text": "HONG KONG INTERNET STOCKS FALL, BILIBILI DOWN OVER 7%, NETEASE AND KUAISHOU DOWN OVER 5%"
+    },
+    {
+      "id": "4891918",
+      "time": "2026-05-21 13:54:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "小枝淳子：中東局勢持續的可能性正在上升  。"
+    },
+    {
+      "id": "4891917",
+      "time": "2026-05-21 13:52:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙烏地阿拉伯政府資料顯示，3月份沙特非石油出口（包括轉口出口）同比下降17.3%。"
+    },
+    {
+      "id": "mkt:019e4917-e85a-7ee7-b68e-9abf327cc23c",
+      "time": "2026-05-21 13:52:42",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "SAUDI MERCHANDISE EXPORTS INCREASED BY 21.5% IN MARCH 2026 COMPARED TO MARCH 2025, AND OIL EXPORTS INCREASED BY 37.4% - GOVT DATA"
+    },
+    {
+      "id": "4891916",
+      "time": "2026-05-21 13:52:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙烏地阿拉伯政府資料顯示，2026年3月沙特商品出口額同比增長21.5%，石油出口額增長37.4%。"
+    },
+    {
+      "id": "mkt:019e4917-a646-7ee7-b68e-94cc62c20f24",
+      "time": "2026-05-21 13:52:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "BIDU.O",
+        "Impact bearish"
+      ],
+      "text": "BAIDU DOWN OVER 5%"
+    },
+    {
+      "id": "4891915",
+      "time": "2026-05-21 13:52:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【降低傳輸時延 南寧啟動面向東盟區域資料領域國際合作試點】從國家資料局瞭解到，廣西南寧面向東盟區域的資料領域國際合作試點已正式啟動，成為國家首批資料領域國際合作試點城市之一。國家資料局表示，支援南寧開展面向東盟區域的資料領域國際合作試點，希望廣西充分發揮面向東盟開放合作的區位優勢，在打造互聯互通的資料基礎設施、培育普惠高效的跨境服務生態、拓展多元賦能的數字合作場景等方面大膽探索，形成一批可複製、可推廣的制度成果和實踐案例，為全國資料領域國際合作提供示範借鑑。"
+    },
+    {
+      "id": "4891914",
+      "time": "2026-05-21 13:51:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【沙特阿美擬投資土耳其軍隊養老基金旗下能源公司，已就入股事宜展開談判】當地時間5月20日，土耳其軍隊養老基金（Oyak）旗下能源部門GuzelEnerji主席烏古爾·多安（Ugur Dogan）表態稱，該基金目前正與沙特阿美進行談判，以探討在土耳其開展合作和投資的可能性。多安透露，沙特阿美可能會購買GuzelEnerji的股份或與其建立合作伙伴關係。"
+    },
+    {
+      "id": "mkt:019e4916-839e-7ee7-b68e-8a7a0f2cdad9",
+      "time": "2026-05-21 13:51:12",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AMD.O",
+        "Impact bullish",
+        "TSM.O"
+      ],
+      "text": "AMD ALSO PLANS TO EXTEND TSMC 2NM PROCESS TECH ACROSS DATA CENTER CPU ROADMAP"
+    },
     {
       "id": "mkt:019e4916-67f8-7ee7-b68e-854a66b09cce",
       "time": "2026-05-21 13:51:04",
@@ -137,6 +229,15 @@
         "國際"
       ],
       "text": "小枝淳子：日本央行需要繼續推進資產負債表正常化。"
+    },
+    {
+      "id": "em:qqyh_rbyh:202605213744829680",
+      "time": "2026-05-21 13:46:00",
+      "tags": [
+        "央行",
+        "日本央行"
+      ],
+      "text": "日本央行審議委員小枝淳子稱，價格風險大於經濟下行風險。以合適的速度加息是適宜之舉。"
     },
     {
       "id": "mkt:019e4911-7258-7ee7-b68e-5e782a7fd1cb",
@@ -142657,67 +142758,6 @@
         "國際"
       ],
       "text": "【同習主席參觀天壇，特朗普：驚豔！大美中國！】5月14日，習近平主席同美國總統特朗普參觀天壇。“驚豔！大美中國！”特朗普抵達天壇後有感而發。（人民日報）"
-    },
-    {
-      "id": "mkt:019e250c-fe96-777f-be5c-b0ebc0ca5672",
-      "time": "2026-05-14 13:54:29",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "S&P500",
-        "Impact bullish",
-        "Nasdaq100"
-      ],
-      "text": "S&P 500 FUTURES UP 0.18%, NASDAQ FUTURES RISE 0.41%"
-    },
-    {
-      "id": "4879217",
-      "time": "2026-05-14 13:53:51",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本30年期國債收益率上升10個基點至3.915%，為1999年以來最高水平。"
-    },
-    {
-      "id": "mkt:019e250c-5298-777f-be5c-a97999063583",
-      "time": "2026-05-14 13:53:34",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Hot",
-        "Star Stocks",
-        "NVIDIA",
-        "Alibaba",
-        "Tencent",
-        "JD.com",
-        "Market Themes",
-        "Magnificent 7",
-        "Policy",
-        "Breaking News 24h",
-        "Chinese Policy & Markets",
-        "NVDA.O",
-        "Impact mixed",
-        "Nasdaq100"
-      ],
-      "text": "【US Approves Nvidia H200 Sales to Chinese Firms Including Alibaba】The U.S. Commerce Department has approved around 10 Chinese companies—including Alibaba, Tencent, ByteDance and JD.com—along with distributors such as Lenovo and Foxconn, to purchase Nvidia’s H200 AI chips under licensing arrangements allowing up to 75,000 chips per customer. Despite the approvals, no shipments have been completed so far. Sources say Chinese firms have pulled back after informal guidance from Beijing and rising government scrutiny over reliance on foreign AI hardware, as China accelerates efforts to promote domestic chip alternatives like Huawei. The stalled rollout underscores ongoing U.S.-China tech tensions, even as Nvidia CEO Jensen Huang joins a U.S. delegation to Beijing in an effort to advance the deal and restore chip exports to China."
-    },
-    {
-      "id": "4879216",
-      "time": "2026-05-14 13:53:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數期貨上漲0.18%，納斯達克指數期貨上漲0.41%。"
-    },
-    {
-      "id": "4879215",
-      "time": "2026-05-14 13:53:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴克萊將西門子目標股價從220歐元上調至230歐元。"
     }
   ]
 }
