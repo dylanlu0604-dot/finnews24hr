@@ -1,7 +1,52 @@
 {
-  "updated": "2026-05-22 02:08:39",
-  "count": 16272,
+  "updated": "2026-05-22 02:12:28",
+  "count": 16274,
   "items": [
+    {
+      "id": "mkt:019e4bbb-af2e-7aa1-9580-cfd3a4799941",
+      "time": "2026-05-22 02:10:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CUBA FOREIGN MINISTER: RUBIO KNOWS UNILATERAL COERCIVE MEASURES ARE THE MAIN OBSTACLE TO CUBA'S ECONOMIC DEVELOPMENT"
+    },
+    {
+      "id": "mkt:019e4bbb-38fb-7aa1-9580-c235e640eed0",
+      "time": "2026-05-22 02:10:21",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "CUBA FOREIGN MINISTER: U.S. 'HAS ENGAGED IN PROVOKING DESPERATION AMONG THE POPULATION AND THE COLLAPSE OF THE ECONOMY'"
+    },
+    {
+      "id": "mkt:019e4bba-8d1e-7bb9-bc40-db90ef2d45f2",
+      "time": "2026-05-22 02:09:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CUBA FOREIGN MINISTER: U.S. SEC OF STATE RUBIO 'LIES ONCE AGAIN TO INSTIGATE MILITARY AGGRESSION'"
+    },
+    {
+      "id": "mkt:019e4bba-6c44-7aa1-9580-bd40ace91f51",
+      "time": "2026-05-22 02:09:29",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "【Iran Downs Up to 30 US Reaper Drones Since War Began】Iran has destroyed at least 24 and possibly as many as 30 MQ-9 Reaper drones operated by the U.S. since hostilities began on Feb. 28, according to a person familiar with the matter cited by Bloomberg News. The losses, valued at nearly $1 billion, represent about 20% of the Pentagon’s prewar inventory of the drones, which are no longer produced for U.S. forces. Some Reapers were shot down by Iranian fire, while others were destroyed on the ground or lost in accidents. Bloomberg Economics defense lead Becca Wasser said the drones are “too expensive and too few with no active production line to be considered expendable.”"
+    },
+    {
+      "id": "4893554",
+      "time": "2026-05-22 02:09:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "古巴外交部長：美國國務卿魯比奧“為煽動軍事侵略再次撒謊”。"
+    },
     {
       "id": "te:markets:552851",
       "time": "2026-05-22 02:07:42",
@@ -146251,32 +146296,6 @@
         "DXY"
       ],
       "text": "IRAN WAR SAPS MONEY FROM OTHER PENTAGON NEEDS, LEADERS WARN - WSJ"
-    },
-    {
-      "id": "mkt:019e27af-d83a-7bb5-b4d1-e4c37b382064",
-      "time": "2026-05-15 02:11:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CDC SAYS THERE ARE NO HANTAVIRUS CASES IN THE UNITED STATES CURRENTLY"
-    },
-    {
-      "id": "4880471",
-      "time": "2026-05-15 02:09:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：自 2 月份以來，已有 50 餘名研究人員和工程師離職離開 SpaceX AI 部門。"
-    },
-    {
-      "id": "mkt:019e27ad-55d4-7bb5-b4d1-ddbff943e0e5",
-      "time": "2026-05-15 02:08:51",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "TRUMP: EXPECTED TO SIGN CLARITY ACT INTO LAW"
     }
   ]
 }
