@@ -1,7 +1,40 @@
 {
-  "updated": "2026-05-21 15:33:59",
-  "count": 15872,
+  "updated": "2026-05-21 15:38:00",
+  "count": 15870,
   "items": [
+    {
+      "id": "4892127",
+      "time": "2026-05-21 15:36:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三星新材：持股5%以上股東部分股份解除質押】三星新材公告稱，2026年5月20日，持股5%以上股東楊阿永將質押給浦發銀行湖州德清支行的286萬股解除質押，佔其所持公司股份的8.28%，佔公司總股本的1.22%。解除後，楊阿永剩餘質押股份518.7萬股，佔其持股數的15.02%，佔公司總股本的2.22%。楊阿永及其一致行動人合計質押股份2869.7萬股，佔其合計持股的37.47%，佔公司總股本的12.26%。本次解質股份暫無再次質押計劃。"
+    },
+    {
+      "id": "4892126",
+      "time": "2026-05-21 15:35:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【奧翔藥業：董事會秘書應曉晨辭職 董事長暫代其職】奧翔藥業公告稱，5月21日，公司董事會收到董事會秘書應曉晨的書面辭職報告，其因個人原因申請辭去該職務，辭職後不再擔任公司任何職務。應曉晨原定任期到2026年12月13日。其離任不會對公司正常經營及資訊披露等工作產生不利影響。在聘任新的董事會秘書前，暫由法定代表人、董事長、總經理鄭志國代行職責，公司將盡快選聘新董秘並公告。"
+    },
+    {
+      "id": "4892125",
+      "time": "2026-05-21 15:34:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【深圳金融監管局：2025年深圳轄內外資行境內外協作服務客戶約1.5萬戶】記者從深圳金融監管局獲悉，深圳外資銀行“河套行”暨金融服務科創交流對接活動於5月20日在河套深港科技創新合作區舉行。深圳金融監管局黨委委員、一級巡視員陳飛鴻在會上表示，2025年深圳轄內外資銀行境內外協作服務客戶約1.5萬戶，辦理業務100餘萬筆，涵蓋企業赴港上市綜合服務、企業高管財富管理、海外專案諮詢及資源對接、早期科創企業投資賦能、跨境結算與匯率風險管理等領域，有力支援了企業成長與國際化發展。（證券時報）"
+    },
+    {
+      "id": "4892124",
+      "time": "2026-05-21 15:34:16",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨賣出額達10億港元。"
+    },
     {
       "id": "mkt:019e4973-a587-7ee7-b690-2fe81d98ab1d",
       "time": "2026-05-21 15:32:56",
@@ -142804,59 +142837,6 @@
         "Importance 2"
       ],
       "text": "European Stocks Extend Gains — European stocks edged higher on Thursday, with both the EURO STOXX 50 and the STOXX Europe 600 gaining 0.3% and extending the previous session’s rally, as investors digested political developments and a fresh wave of corporate earnings. Market attention centred on the two-day summit in Beijing between US President Donald Trump and Chinese President Xi Jinping, where discussions are expected to cover Taiwan, Iran and AI. In the UK, pressure continued to mount on Prime Minister Keir Starmer amid growing calls for his resignation. Meanwhile, enthusiasm around AI remained strong after Cisco Systems delivered a stronger-than-expected sales outlook. Adding to the positive sentiment, Xi Jinping told American business leaders accompanying Donald Trump on the trip that China’s door to foreign business “will only open wider and wider”."
-    },
-    {
-      "id": "4879408",
-      "time": "2026-05-14 15:36:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【昀冢科技：陳豔辭任公司財務總監職務，顏榮昆接任】昀冢科技5月14日公告，公司董事會於近日收到董事會秘書兼財務總監陳豔的書面辭任報告，為符合《上市公司董事會秘書監管規則》要求，同時因工作調整，陳豔申請辭去公司財務總監職務，辭任後仍繼續在公司擔任董事會秘書。公司於2026年5月14日召開第三屆董事會第五次會議，審議透過了《關於變更公司財務總監的議案》，同意聘任顏榮昆為公司財務總監，任期自董事會審議透過之日起至第三屆董事會任期屆滿之日止。"
-    },
-    {
-      "id": "mkt:019e256b-7d80-7aa5-b400-720ac3aa19c7",
-      "time": "2026-05-14 15:36:40",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "RUBIO, WHEN ASKED ABOUT TRUMP-XI MEETING: IT'S IN EVERYONE'S INTEREST TO SEE STABILITY IN THE WORLD - CCTV"
-    },
-    {
-      "id": "4879407",
-      "time": "2026-05-14 15:36:34",
-      "tags": [
-        "行業",
-        "公司",
-        "焦點",
-        "國際"
-      ],
-      "text": "【商務部新聞發言人就英國政府擬將英國鋼鐵國有化答記者問】有記者問：近日有英國媒體報道稱，英國政府將透過相關立法，將中國敬業集團旗下的英國鋼鐵公司國有化。請問中方對此有何評論？\n\n答：我們注意到相關報道。英國政府從中國企業手中接管英國鋼鐵公司已有一年多時間，中方的立場和態度始終是明確、一貫的，即英國政府無論採取何種行動，都應充分考慮中方企業對英國鋼鐵的巨大投入和對英經濟社會做出的貢獻，尊重企業意願和市場原則，不濫用行政強制手段，與中方企業積極尋找公允正當、雙方都能接受的解決方案。希望英國政府遵循公平公正非歧視的原則，三思後行，審慎決策，切實保障中國企業的合法權益，維護好中英經貿關係來之不易的良好氛圍。中方將密切關注事件進展，採取有力措施維護中國企業合法權益。（商務部）"
-    },
-    {
-      "id": "4879406",
-      "time": "2026-05-14 15:35:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "菲律賓參議院議長：我方昨晚逮捕了一名嫌疑人，詳情將由內政部長公佈。"
-    },
-    {
-      "id": "4879405",
-      "time": "2026-05-14 15:35:06",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4720美元/盎司，日內漲0.28%。"
-    },
-    {
-      "id": "4879404",
-      "time": "2026-05-14 15:34:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【柯力感測：財務總監辭任 董事長代行其職責】柯力感測公告稱，公司財務總監柴小飛因個人原因，於2026年5月14日辭任，不再擔任公司任何職務。截至公告披露日，柴小飛未持股，無未履行完畢承諾，且已做好交接工作。同日，公司召開董事會，審議透過由董事長、總經理柯建東代行財務總監職責的議案，董事會將盡快聘任新任財務總監。"
     }
   ]
 }
