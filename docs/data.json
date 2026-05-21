@@ -1,7 +1,35 @@
 {
-  "updated": "2026-05-22 03:05:08",
-  "count": 16283,
+  "updated": "2026-05-22 03:08:54",
+  "count": 16286,
   "items": [
+    {
+      "id": "mkt:019e4bef-d882-7aa1-9581-2f58dfc74d50",
+      "time": "2026-05-22 03:07:50",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Pakistani Mediation Intensifies as Iran Deal Draft Nears】Senior Pakistani officials are engaged in intensified mediation efforts in Tehran aimed at preventing further escalation, particularly around the Strait of Hormuz. Pakistan’s interior minister is visiting Iran for the second time in a week, signaling increased diplomatic activity. A senior Iranian official told Al Jazeera that negotiators are close to reaching a deal and are working on draft text, while another source cautioned it remains too early to determine whether a final agreement is within reach."
+    },
+    {
+      "id": "4893583",
+      "time": "2026-05-22 03:07:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX計劃在得州巴斯特羅普建設 10 吉瓦光伏工廠。"
+    },
+    {
+      "id": "mkt:019e4bed-13bc-7aa1-9581-24d603961446",
+      "time": "2026-05-22 03:04:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "‘INTENSE MEDIATION’ UNDERWAY WITH PAKISTANI OFFICIALS IN IRAN – AL JAZEERA"
+    },
     {
       "id": "4893582",
       "time": "2026-05-22 03:03:21",
