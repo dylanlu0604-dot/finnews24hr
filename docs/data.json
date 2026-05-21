@@ -1,7 +1,76 @@
 {
-  "updated": "2026-05-21 18:40:57",
-  "count": 15977,
+  "updated": "2026-05-21 18:43:58",
+  "count": 15982,
   "items": [
+    {
+      "id": "4892698",
+      "time": "2026-05-21 18:41:59",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【英偉達財報超預期引多家機構上調目標價，最高上看400美元】\n上調：\n1. 梅利烏斯研究：將英偉達目標價從380美元上調至400美元，評級“買入”。\n2. 美銀全球研究：將英偉達目標價從320美元上調至350美元，評級“買入”。\n3. 韋德布什：將英偉達目標價從300美元上調至330美元，評級“跑贏大盤”。\n4. 瑞傑金融：將英偉達目標價從323美元上調至330美元，評級“強烈買入”。\n5. 伯恩斯坦：將英偉達目標價從300美元上調至315美元，評級“跑贏大盤”。\n6. 富國銀行：將英偉達目標價從265美元上調至315美元，評級“增持”。\n7. D.A. Davidson：將英偉達目標價從250美元上調至300美元，評級“買入”。\n8. 傑富瑞集團：將英偉達目標價從275美元上調至300美元，評級“買入”。\n9. 瑞穗證券美國：將英偉達目標價從275美元上調至300美元，評級“跑贏大盤”。\n10. 摩根士丹利：將英偉達目標價從285美元上調至288美元，評級“增持/有吸引力”。\n11. 高盛：將英偉達目標價從250美元上調至285美元，評級“買入”。\n12. 法巴銀行：將英偉達目標價從270美元上調至285美元，評級“跑贏大盤”。\n13. 斯蒂費爾：將英偉達目標價從250美元上調至282美元，評級“買入”。\n14. 摩根大通：將英偉達目標價從265美元上調至280美元，評級“增持”。\n15. 加皇銀行：將英偉達目標價從250美元上調至270美元，評級“跑贏大盤”。\n16. 道明證券：將英偉達目標價從235美元上調至275美元，評級“買入”。\n17. 德意志銀行：將英偉達目標價從220美元上調至255美元，評級“持有”。\n維持不變：\n1. 花旗集團：將英偉達目標價維持在300美元，評級“買入”。\n2. 巴克萊銀行：將英偉達目標價維持在275美元，評級“增持”。\n3. 奧本海默：將英偉達目標價維持在265美元，評級“跑贏大盤”。"
+    },
+    {
+      "id": "mkt:019e4a20-9f7e-799b-b5d5-66a2b75d7b48",
+      "time": "2026-05-21 18:41:52",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "U.S. TWO-YEAR TREASURY YIELDS UP 6.6 BPS AT 4.106%"
+    },
+    {
+      "id": "4892697",
+      "time": "2026-05-21 18:41:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【機構：Q1’26消費級AI/AR市場銷量持續增長，同比增幅108%】“CINNO • XResearch統計分析資料顯示，2026年第一季度國內消費級AI/AR裝置銷量同比激增108%，市場規模持續擴容，品類結構不斷豐富。雷鳥以顯著優勢持續佔據市場榜首，頭部品牌引領行業技術迭代與市場滲透，推動消費級AI/AR裝置加速走進大眾生活。”"
+    },
+    {
+      "id": "4892696",
+      "time": "2026-05-21 18:41:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴基斯坦內政部長在德黑蘭會見伊朗內政部長及伊朗國家安全委員會成員。"
+    },
+    {
+      "id": "4892695",
+      "time": "2026-05-21 18:41:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【海光資訊與武漢市公安局簽署戰略合作協議】據海光資訊訊息，5月20日，在科技興警2026“武創薈”科技成果轉化活動上，海光資訊與武漢市公安局正式簽署戰略合作協議。雙方將聯合成立人工智慧創新實驗室，圍繞公安行業人工智慧國產化技術開展研究與先行先試，構建覆蓋公安主要業務領域的安全可控人工智慧體系。"
+    },
+    {
+      "id": "mkt:019e4a1f-8ce6-799b-b5d5-5f7d6fe684f4",
+      "time": "2026-05-21 18:40:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "PAKISTAN'S INTERIOR MINISTER MEETS HIS IRANIAN COUNTERPART, NATIONAL SECURITY COUNCIL MEMBER ISKANDAR MOMENI, IN TEHRAN"
+    },
+    {
+      "id": "te:economy:552718",
+      "time": "2026-05-21 18:40:23",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Euro area",
+        "Full Year GDP Growth",
+        "Importance 2"
+      ],
+      "text": "EU Cuts Eurozone Growth Forecasts — The European Commission has revised down its Eurozone GDP growth forecast for the coming years, citing inflation pressures from the Middle East conflict, according to the Spring 2026 Economic Forecast. GDP growth in the Euro Area is now projected at 0.9% this year, down from a previous forecast of 1.2%, while the 2027 outlook has also been lowered to 1.2% from 1.4%. The conflict in the Middle East has delivered one of the most significant global energy supply disruptions in recent history, coming less than five years after the energy shock triggered by Russia’s war of aggression against Ukraine. Inflation is now projected at 3.0% for 2026, up from 1.9% in the previous estimate, before falling to 2.3% in 2027, also revised upward from 2.0%."
+    },
     {
       "id": "te:economy:552717",
       "time": "2026-05-21 18:40:10",
@@ -143681,25 +143750,6 @@
         "市場"
       ],
       "text": "鈀金期貨日內跌3%，現報1486.36美元/盎司。"
-    },
-    {
-      "id": "mkt:019e2613-e20f-7335-8cb0-4ec74878017e",
-      "time": "2026-05-14 18:41:36",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "U.S. TREASURY SECRETARY BESSENT ON AI: I DO NOT THINK WE WOULD BE HAVING FULSOME AI DISCUSSIONS WITH CHINA IF U.S. WAS NOT IN THE LEAD"
-    },
-    {
-      "id": "4879860",
-      "time": "2026-05-14 18:41:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【步長製藥：控股子公司擬簽署智慧財產權合作協議】步長製藥公告，公司控股子公司浙江華派生物醫藥有限公司、浙江天元生物藥業有限公司擬與合肥科醫諾生物科技有限公司、南京科醫諾生物科技有限公司就人用季節性廣譜流感疫苗專案智慧財產權的授權及商業化達成相關合作，並簽署《關於人用季節性廣譜流感疫苗專案智慧財產權（KYN003管線及相關技術秘密）之合作協議》。"
     }
   ]
 }
