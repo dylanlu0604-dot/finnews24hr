@@ -1,7 +1,200 @@
 {
-  "updated": "2026-05-22 00:12:19",
-  "count": 16188,
+  "updated": "2026-05-22 00:16:26",
+  "count": 16201,
   "items": [
+    {
+      "id": "mkt:019e4b52-69df-7aa1-957f-0d067d536552",
+      "time": "2026-05-22 00:15:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NORTH DAKOTA OIL PRODUCTION UP 9,000 BPD IN MARCH VS FEBRUARY TO 1,143,000 BPD - STATE REGULATOR"
+    },
+    {
+      "id": "4893458",
+      "time": "2026-05-22 00:15:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗局勢平息後油價將會回落。"
+    },
+    {
+      "id": "te:economy:552834",
+      "time": "2026-05-22 00:15:06",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "30 Year Mortgage Rate",
+        "Importance 1"
+      ],
+      "text": "US Mortgage Rates Rise to 9-Month High — The average rate on a 30-year fixed-mortgage was rose by 15bps from the previous week to 6.51% as of May 21st, the highest in nine months, according to data compiled by Freddie Mac. The jump was aligned with the increase in long-term Treasury yields over the period, as soaring energy prices and robust labor market data raised expectations of a potential rate hike by the Federal Reserve. The yield on the 30-year Treasury bond, closely related to MBS of the same maturity, rose to its highest since 2007. “As rates fluctuate, aspiring buyers should remember that by shopping around for the best mortgage rate and getting multiple quotes, they can potentially save thousands.\" said Sam Khater, Freddie Mac’s Chief Economist."
+    },
+    {
+      "id": "4893457",
+      "time": "2026-05-22 00:15:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗局勢衝突很快將會結束。"
+    },
+    {
+      "id": "mkt:019e4b51-5509-7aa1-957f-0794226d5951",
+      "time": "2026-05-22 00:14:41",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "TRUMP: THE US WILL GET IRAN'S URANIUM, WE WILL LIKELY DESTROY IT"
+    },
+    {
+      "id": "4893456",
+      "time": "2026-05-22 00:14:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：未經美方許可，船隻不得通行伊朗相關海域。"
+    },
+    {
+      "id": "mkt:019e4b50-d48e-7aa1-957e-fcd9e947c55d",
+      "time": "2026-05-22 00:14:08",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "TRUMP: WE HAVE GREAT DRONE TECHNOLOGY TO KNOCK IRAN DOWN"
+    },
+    {
+      "id": "4893455",
+      "time": "2026-05-22 00:14:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：很可能會摧毀伊朗的鈾。"
+    },
+    {
+      "id": "4893454",
+      "time": "2026-05-22 00:13:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：美國將獲得伊朗的鈾。"
+    },
+    {
+      "id": "mkt:019e4b50-75c2-7aa1-957e-f1273dd4c4be",
+      "time": "2026-05-22 00:13:41",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "TRUMP: WE DON'T WANT TOLLS ON STRAIT OF HORMUZ"
+    },
+    {
+      "id": "4893453",
+      "time": "2026-05-22 00:13:40",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "埃及央行維持基準利率在19%不變；預計為19.00%。"
+    },
+    {
+      "id": "mkt:019e4b50-5715-7aa1-957e-eabcc3195e0b",
+      "time": "2026-05-22 00:13:35",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "TRUMP ON IRAN-OMAN HORMUZ TOLLS: WE'RE LOOKING AT IT. WE HAVE TOTAL CONTROL OF THE HORMUZ STRAIT"
+    },
+    {
+      "id": "4893452",
+      "time": "2026-05-22 00:13:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：擁有先進無人機技術可壓制伊朗。"
+    },
+    {
+      "id": "mkt:019e4b50-07f3-7aa1-957e-e5201674fc80",
+      "time": "2026-05-22 00:13:13",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact mixed",
+        "DXY"
+      ],
+      "text": "TRUMP: WE'RE NEGOTIATING ON IRAN, WE'LL GET IT ONE WAY OR THE OTHER"
+    },
+    {
+      "id": "4893451",
+      "time": "2026-05-22 00:12:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：希望霍爾木茲海峽開放、自由通行、不收取任何費用。"
+    },
+    {
+      "id": "4893450",
+      "time": "2026-05-22 00:12:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：美國在霍爾木茲海峽的封鎖成效十足。"
+    },
+    {
+      "id": "4893449",
+      "time": "2026-05-22 00:12:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【巴基斯坦總理：期待巴中兩國繼續拓展多領域合作】巴基斯坦總理夏巴茲21日就中巴建交75週年發表書面致辭，代表巴基斯坦政府、並以個人名義，向巴中兩國人民表示衷心祝賀。他表示，巴方高度讚賞中國和巴基斯坦在多領域開展的合作。雙方全天候戰略合作伙伴關係將繼續成為促進區域穩定和國際合作的積極力量。夏巴茲說，巴基斯坦人民最尊敬、最喜愛中國人民。自1951年5月21日建交以來，巴中友好關係逐步發展為全天候戰略合作伙伴關係。巴中雙邊關係建立在相互信任、主權平等以及對和平與發展的共同追求之上，在風雲變幻的國際環境下內涵和戰略意義不斷深化。（新華社）"
+    },
+    {
+      "id": "4893448",
+      "time": "2026-05-22 00:12:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及阿曼及霍爾木茲海峽通行費事宜：正對此進行考量。"
+    },
+    {
+      "id": "te:markets:552833",
+      "time": "2026-05-22 00:12:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 0.03% Lower — The FTSE MIB Index decreased 13 points or 0.03 percent on Thursday to close at 49169 points. The decline was led by Diasorin (-3.78%), Lottomatica (-1.80%) and Bper Banca (-1.65%). On the upside, the strongest performers were Avio (4.76%), Prysmian (3.29%) and Ferrari NV (3.14%)."
+    },
+    {
+      "id": "4893447",
+      "time": "2026-05-22 00:11:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普重申伊朗不得擁有核武器。"
+    },
     {
       "id": "mkt:019e4b4e-6e4f-7aa1-957e-dd4cad774721",
       "time": "2026-05-22 00:11:31",
@@ -145401,70 +145594,6 @@
         "MKT News"
       ],
       "text": "CIRCLE INTERNET SHARES QUICKLY TURN POSITIVE, UP 1.5% AS CLARITY ACT MARKUP UNDERWAY"
-    },
-    {
-      "id": "mkt:019e2746-ba0e-7bb5-b4d0-b762289882af",
-      "time": "2026-05-15 00:16:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UK'S SIMONS: I BELIEVE BURNHAM IS THE ONE TO LEAD LABOUR"
-    },
-    {
-      "id": "mkt:019e2746-5b84-7bb5-b4d0-ab08f2357cab",
-      "time": "2026-05-15 00:16:12",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "UK LAWMAKER JOSH SIMONS' RESIGNATION PAVES WAY FOR GREATER MANCHESTER MAYOR BURNHAM TO CONTEST PARLIAMENTARY BY-ELECTION"
-    },
-    {
-      "id": "mkt:019e2746-0d59-7bb5-b4d0-a61565365af7",
-      "time": "2026-05-15 00:16:02",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "UK LAWMAKER JOSH SIMONS GIVES UP PARLIAMENTARY SEAT IN GREATER MANCHESTER - POST ON X"
-    },
-    {
-      "id": "te:markets:550813",
-      "time": "2026-05-15 00:15:30",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "DAX Closes at 1-Week High — Frankfurt's DAX 40 closed about 1.3% firmer at a one-week high of 24,453 on Thursday, marking the second day of advances and outperforming its regional peers. Market sentiment was bolstered by optimism surrounding the Trump-Xi summit and sustained enthusiasm for AI and technology. The White House said US President Trump and Chinese President Xi Jinping agreed on the need to keep the Strait of Hormuz open and block Iran’s nuclear ambitions, though Beijing reiterated its firm stance on Taiwan, warning of potential conflict if mishandled. Xi also told top US tech CEOs that China will open up “even more.” Among key movers, Infineon and SAP posted the biggest gains, rising 5.6% and 3.4%, respectively. Siemens also advanced 2.3% after revealing plans to acquire several core business units from Mermec Group."
-    },
-    {
-      "id": "4880400",
-      "time": "2026-05-15 00:15:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：英國議員喬希・西蒙斯辭去大曼徹斯特地區的議會席位。"
-    },
-    {
-      "id": "4880399",
-      "time": "2026-05-15 00:12:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "【伊拉克新任總理及其內閣成員宣誓就職】5月14日，伊拉克國民議會投票透過新任總理阿里·扎伊迪提交的內閣成員名單，隨後扎伊迪及其內閣成員宣誓就職。"
-    },
-    {
-      "id": "mkt:019e2742-f4cc-7bb5-b4d0-9e34cc0a5526",
-      "time": "2026-05-15 00:12:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "SENATORS UNANIMOUSLY APPROVE RESOLUTION TO WITHHOLD THEIR OWN PAY DURING FUTURE GOVERNMENT SHUTDOWNS - REPORTS"
     }
   ]
 }
