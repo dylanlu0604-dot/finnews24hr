@@ -1,7 +1,43 @@
 {
-  "updated": "2026-05-22 04:05:03",
-  "count": 16262,
+  "updated": "2026-05-22 04:08:50",
+  "count": 16257,
   "items": [
+    {
+      "id": "4893615",
+      "time": "2026-05-22 04:07:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "雅詩蘭黛美股盤後漲超13%。"
+    },
+    {
+      "id": "4893614",
+      "time": "2026-05-22 04:06:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "雅詩蘭黛與Puig結束合併磋商。"
+    },
+    {
+      "id": "4893613",
+      "time": "2026-05-22 04:05:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價21日下跌】截至當天收盤，紐約商品交易所7月交貨的輕質原油期貨價格下跌1.91美元，收於每桶96.35美元，跌幅為1.94%；7月交貨的倫敦布倫特原油期貨價格下跌2.44美元，收於每桶102.58美元，跌幅為2.32%。"
+    },
+    {
+      "id": "te:markets:552857",
+      "time": "2026-05-22 04:05:21",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Ross Stores earnings above expectations at 2.02 USD — Ross Stores (ROST) released earnings per share at 2.02 USD, compared to market expectations of 1.63 USD."
+    },
     {
       "id": "4893612",
       "time": "2026-05-22 04:04:25",
@@ -146127,91 +146163,6 @@
         "國際"
       ],
       "text": "美國中美國中央司令部：已在霍爾木茲海峽封鎖行動中對 72 艘商船實施航線改道。"
-    },
-    {
-      "id": "mkt:019e281a-baa0-7bb5-b4d2-945036b2d49d",
-      "time": "2026-05-15 04:08:20",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Microsoft",
-        "Market Themes",
-        "Magnificent 7"
-      ],
-      "text": "MICROSOFT ANNOUNCES APPOINTMENT OF CARMINE DI SIBIO TO BOARD OF DIRECTORS MICROSOFT - BOARD OF DIRECTORS EXPANDED TO 13 MEMBERS"
-    },
-    {
-      "id": "4880574",
-      "time": "2026-05-15 04:08:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "微軟：董事會規模擴至13人。"
-    },
-    {
-      "id": "4880573",
-      "time": "2026-05-15 04:08:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "微軟宣佈任命卡明・迪・西比奧為公司董事。"
-    },
-    {
-      "id": "4880572",
-      "time": "2026-05-15 04:07:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI：CODEX模型將接入ChatGPT移動應用程式。"
-    },
-    {
-      "id": "4880571",
-      "time": "2026-05-15 04:07:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【應用材料第二財季淨銷售79.1億美元，高於市場預期】應用材料第二財季淨銷售79.1億美元，分析師預期76.7億美元；第二財季半導體系統淨銷售59.7億美元，符合分析師預期；預計第三財季淨銷售84.5億-94.5億美元，分析師預期81.5億美元。"
-    },
-    {
-      "id": "4880570",
-      "time": "2026-05-15 04:05:49",
-      "tags": [
-        "市場"
-      ],
-      "text": "AARDVARK股價在FDA暫停臨床試驗後下跌22%。"
-    },
-    {
-      "id": "te:markets:550831",
-      "time": "2026-05-15 04:05:21",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Applied Materials earnings above expectations at 2.86 USD — Applied Materials (AMAT) released earnings per share at 2.86 USD, compared to market expectations of 2.66 USD."
-    },
-    {
-      "id": "mkt:019e2817-f581-7bb5-b4d2-892ee1bb7adc",
-      "time": "2026-05-15 04:05:19",
-      "tags": [
-        "MKT News",
-        "Important",
-        "NVDA.O",
-        "Impact bullish",
-        "Dow",
-        "S&P500"
-      ],
-      "text": "【US Stocks Rally as AI Trade Returns, Dow Reclaims 50,000 Level】US stocks advanced Thursday as renewed enthusiasm for AI shares and the Trump-Xi summit lifted markets. The Dow rose more than 450 points, or 0.9%, reclaiming 50,000 for the first time since February, while the S&P 500 gained 0.8% above 7,500 and the Nasdaq climbed 1%. Nvidia jumped more than 4% after reports the US approved H200 chip sales to Chinese firms. Cisco also gained following quarterly results and an AI restructuring plan."
-    },
-    {
-      "id": "4880569",
-      "time": "2026-05-15 04:05:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【英國首相府任命新任衛生和社會福利大臣】當地時間14日，英國首相府發表宣告，宣佈任命議員詹姆斯·默裡為衛生和社會福利大臣，接替此前辭職的韋斯·斯特里廷。當天早些時候，斯特里廷宣佈辭職。他在社交媒體上釋出的辭職信中說，已完成斯塔默設定的目標，減少英國國民保健制度的就診等候名單。但他對斯塔默的領導“失去信心”，斯塔默將不會帶領工黨參加下一次英國大選，自己很遺憾以這種方式離開政府。斯塔默當天致信斯特里廷，對其辭職表示遺憾。(央視新聞）"
     }
   ]
 }
