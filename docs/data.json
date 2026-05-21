@@ -1,7 +1,107 @@
 {
-  "updated": "2026-05-21 13:43:58",
+  "updated": "2026-05-21 13:47:48",
   "count": 15851,
   "items": [
+    {
+      "id": "4891906",
+      "time": "2026-05-21 13:46:56",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行小枝在被問及6月份關於縮減債券購買規模的決定時表示，希望考慮金融參與者的意見。"
+    },
+    {
+      "id": "4891905",
+      "time": "2026-05-21 13:46:30",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "小枝淳子：日本央行需要繼續推進資產負債表正常化。"
+    },
+    {
+      "id": "mkt:019e4911-7258-7ee7-b68e-5e782a7fd1cb",
+      "time": "2026-05-21 13:45:40",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "ADNOC - WITH OIL DEMAND SET TO REMAIN ABOVE 100 MLN BPD, OPPORTUNITIES EXIST FOR UAE TO SUPPLY LOW-COST, LOW-CARBON ENERGY IN NEW MARKETS FOLLOWING OPEC EXIT"
+    },
+    {
+      "id": "mkt:019e4911-5a50-7ee7-b68e-54eb74fef5b7",
+      "time": "2026-05-21 13:45:34",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "ADNOC - ADNOC IS INVESTING $150BN TO POWER GLOBAL ENERGY DEMAND, INCLUDING DOMESTIC GROWTH IN AI, ADVANCED MANUFACTURING, LOGISTICS AND INDUSTRY"
+    },
+    {
+      "id": "mkt:019e4911-3f18-7ee7-b68e-4cef1447bc6b",
+      "time": "2026-05-21 13:45:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "HANG SENG TECH INDEX DOWN OVER 1%"
+    },
+    {
+      "id": "4891904",
+      "time": "2026-05-21 13:45:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿布扎比國家石油公司（ADNOC）：將投資1500億美元，以滿足全球能源需求，同時推動人工智慧、先進製造、物流與工業領域的國內增長。"
+    },
+    {
+      "id": "4891903",
+      "time": "2026-05-21 13:45:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數跌超1%，現報4823.640點；恒生指數現跌0.439%。"
+    },
+    {
+      "id": "4891902",
+      "time": "2026-05-21 13:44:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "小枝淳子：中性利率下限高於1% 。"
+    },
+    {
+      "id": "4891901",
+      "time": "2026-05-21 13:43:55",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "小枝淳子：關注中東危機導致的價格上漲的速度和幅度。"
+    },
+    {
+      "id": "4891900",
+      "time": "2026-05-21 13:43:25",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "國債期貨午後跌幅擴大，30年期主力合約跌0.31%，10年期主力合約跌0.16%，5年期主力合約跌0.10%，2年期主力合約跌0.02%。"
+    },
     {
       "id": "4891899",
       "time": "2026-05-21 13:43:12",
@@ -142550,105 +142650,6 @@
         "其他"
       ],
       "text": "【OpenAI回應TanStack供應鏈攻擊：未發現使用者資料洩露】5月14日，OpenAI針對近期發生的針對熱門開源庫TanStack的“Mini Shai-Hulud”供應鏈攻擊事件釋出宣告表示，在監測到此次針對多款常用npm軟體包的惡意攻擊後，安全團隊已迅速排查了內部系統，目前尚未發現任何使用者資料被洩露或非法訪問的證據。OpenAI指出，雖然其核心服務未受直接破壞，但為了確保本地環境的安全，所有使用其官方應用程式的macOS使用者須在2026年6月12日前完成軟體更新。"
-    },
-    {
-      "id": "mkt:019e2506-f0d2-777f-be5c-9f304c58f185",
-      "time": "2026-05-14 13:47:38",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Market Themes",
-        "The Trump Trade",
-        "CSI300",
-        "Impact bearish"
-      ],
-      "text": "【Chinese Stocks Fall as Markets Await Signals From Xi-Trump Talks】Chinese equities fell as Xi Jinping met Donald Trump in Beijing, with investors locking in profits after a tech-led rally and awaiting clearer signals from the talks. The CSI 300 dropped as much as 1.7%, underperforming Asia-Pacific peers, while technology shares led declines, pushing the ChiNext and STAR 50 down up to 2.5% and 2.6% after recent record highs. Strategists called it a “buy the news, sell the facts” move. Trump and Xi held a cordial opening, with Trump citing a “fantastic future” and Xi urging partnership over rivalry, while warning over Taiwan-related risks."
-    },
-    {
-      "id": "mkt:019e2506-ac08-777f-be5c-904819397d5d",
-      "time": "2026-05-14 13:47:09",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "Magnificent 7",
-        "Star Stocks",
-        "NVIDIA",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "SOURCES SAY THE US HAS APPROVED ABOUT 10 CHINESE COMPANIES TO PURCHASE NVIDIA H200 CHIPS"
-    },
-    {
-      "id": "mkt:019e2506-6559-777f-be5c-8de4fb5999d2",
-      "time": "2026-05-14 13:46:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Trump on U.S.–China Ties, Calls for “Best-Ever” Relations】U.S. President Donald Trump said he was honored to pay a state visit to China and described U.S.–China relations as positive, saying he and Chinese President Xi Jinping have maintained the longest and strongest relationship between leaders of the two countries, according to Xinhua. Trump said Xi is a great leader and China is a great country, adding that he has deep respect for Xi and the Chinese people. He described the meeting as a globally significant one. He said he is willing to work with Xi to strengthen communication and cooperation, properly manage differences, and “open the best U.S.–China relationship in history,” while building a more promising future for both countries."
-    },
-    {
-      "id": "4879210",
-      "time": "2026-05-14 13:46:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基表示，自週三午夜以來，俄羅斯已發射了超過1560架無人機。"
-    },
-    {
-      "id": "mkt:019e2505-9450-777f-be5c-86d557ec224f",
-      "time": "2026-05-14 13:45:59",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "005930.KS",
-        "Impact bearish"
-      ],
-      "text": "SAMSUNG ELC STARTS LOWERING CHIP PRODUCTION FROM THURSDAY AHEAD OF POSSIBLE STRIKE - MEDIA"
-    },
-    {
-      "id": "4879209",
-      "time": "2026-05-14 13:45:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "據報道，三星電子已於週四起下調晶片產量，為可能發生的罷工提前做準備。"
-    },
-    {
-      "id": "mkt:019e2505-4621-777f-be5c-7bbd30013111",
-      "time": "2026-05-14 13:45:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Xi–Trump Exchange Views on Global Flashpoints】Chinese President Xi Jinping and U.S. President Donald Trump exchanged views on major international and regional issues, including the Middle East situation, the Ukraine crisis and the Korean Peninsula, during talks at the Great Hall of the People in Beijing on May 14, according to Xinhua. The two leaders also agreed to support each other in hosting this year’s APEC Economic Leaders’ Meeting and the G20 Summit."
-    },
-    {
-      "id": "4879208",
-      "time": "2026-05-14 13:45:47",
-      "tags": [
-        "市場"
-      ],
-      "text": "沙烏地阿拉伯4月份消費者價格指數同比上漲1.66%。"
-    },
-    {
-      "id": "4879207",
-      "time": "2026-05-14 13:44:29",
-      "tags": [
-        "市場"
-      ],
-      "text": "【古巴官員稱該國柴油和燃料油儲備已耗盡】當地時間13日，古巴能源和礦業部長比森特·德拉奧召開新聞釋出會，表示古巴的柴油和燃料油儲備已完全耗盡，全國電網處於“危急狀態”。德拉奧稱，當前電力系統僅依靠本國原油、天然氣和可再生能源維持執行。德拉奧表示，古巴仍在繼續尋求進口燃料，但當前國際油價和運輸成本上漲使相關工作更加困難。（央視新聞）"
-    },
-    {
-      "id": "4879206",
-      "time": "2026-05-14 13:44:21",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【習近平同美國總統特朗普會談】特朗普表示，非常榮幸對中國進行國事訪問。美中關係很好，我同習近平主席建立了歷史上美中元首之間最長久和最良好的關係，保持著友好溝通，解決了很多重要問題。習近平主席是偉大的領導人，中國是偉大的國家，我十分尊重習近平主席和中國人民。今天的會晤是一次舉世矚目的重要會晤。我願同習主席一道，加強溝通合作，妥善解決分歧，開啟有史以來最好的美中關係，開創兩國更加美好的未來。美中是世界上最重要、最強大的國家，美中合作可以為兩國、為世界做很多大事、好事。我此訪帶來了美國工商界傑出代表，他們都很尊重和重視中國，我積極鼓勵他們拓展對華合作。兩國元首就中東局勢、烏克蘭危機、朝鮮半島等重大國際和地區問題交換了意見。兩國元首一致同意相互支援，辦好今年亞太經合組織領導人非正式會議和二十國集團峰會。（央視新聞）"
     }
   ]
 }
