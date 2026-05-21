@@ -1,7 +1,38 @@
 {
-  "updated": "2026-05-22 04:30:04",
-  "count": 16244,
+  "updated": "2026-05-22 04:34:10",
+  "count": 16239,
   "items": [
+    {
+      "id": "mkt:019e4c3c-44ed-7aa1-9581-b27686dbe468",
+      "time": "2026-05-22 04:31:18",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | US Treasuries held by Foreign Central Banks (May.15) | actual -20238000000B | previous -39239000000B"
+    },
+    {
+      "id": "mkt:019e4c3b-e2fb-7aa1-9581-a8f9819874e0",
+      "time": "2026-05-22 04:30:53",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "TRUMP: UNITED STATES WILL BE SENDING AN ADDITIONAL 5,000 TROOPS TO POLAND"
+    },
+    {
+      "id": "4893624",
+      "time": "2026-05-22 04:29:36",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "土耳其主要反對派領導人稱，法院裁決出爐後半小時內，央行外匯儲備消耗約 100 億美元。"
+    },
     {
       "id": "4893623",
       "time": "2026-05-22 04:28:38",
@@ -145971,86 +146002,6 @@
         "焦點"
       ],
       "text": "Gemini Space Station Inc.獲得1億美元投資。公司一季度營收5030萬美元，分析師預期4870萬美元。"
-    },
-    {
-      "id": "4880597",
-      "time": "2026-05-15 04:33:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX最快或於下週遞交IPO招股說明書。"
-    },
-    {
-      "id": "mkt:019e2831-f8f3-7bb5-b4d2-c619f2b4217e",
-      "time": "2026-05-15 04:33:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "SPACEX IPO PROSPECTUS COULD LAND AS SOON AS NEXT WEEK, SOURCES SAY - CNBC"
-    },
-    {
-      "id": "mkt:019e2831-a320-7bb5-b4d2-b906ee98a869",
-      "time": "2026-05-15 04:33:22",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Crypto Concepts"
-      ],
-      "text": "GEMINI SECURED A $100 MILLION STRATEGIC INVESTMENT FROM WINKLEVOSS CAPITAL AT $14/SHARE"
-    },
-    {
-      "id": "4880596",
-      "time": "2026-05-15 04:32:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國參議員伊麗莎白・沃倫：《加密貨幣明晰法案》將重創美國經濟。 這項法案會讓更多經濟活動湧入加密貨幣領域。"
-    },
-    {
-      "id": "mkt:019e2830-9676-7bb5-b4d2-b7e97869afde",
-      "time": "2026-05-15 04:32:13",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish",
-        "S&P500",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "【JPMorgan Warns AI Spending, Retail Pullback Could Threaten Credit Rally】JPMorgan Asset Management portfolio manager Stephanie Doyle said excessive AI-related capital spending and weaker retail demand could threaten the rally in high-grade corporate bonds. Doyle said tech firms have already raised more than $300 billion in debt for AI investments, though issuance has remained orderly. She said a similar acceleration in 2027 AI capex versus 2025-2026 “is probably a little bit of a red flag.” Doyle also warned rising Treasury yields could deter retail investors, a key source of demand supporting investment-grade credit spreads."
-    },
-    {
-      "id": "4880595",
-      "time": "2026-05-15 04:31:29",
-      "tags": [
-        "央行",
-        "市場",
-        "國際"
-      ],
-      "text": "美國至5月8日當週外國央行持有美國國債 -392.39億美元，前值-87.4億美元。"
-    },
-    {
-      "id": "mkt:019e282f-a514-7bb5-b4d2-affc8918e408",
-      "time": "2026-05-15 04:31:11",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | US Treasuries held by Foreign Central Banks (May.8) | actual -39239000000B | previous -8740000000B"
-    },
-    {
-      "id": "4880594",
-      "time": "2026-05-15 04:31:03",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲5月13日當週貼現窗貸款餘額60億美元，之前一週57.4億美元。"
     }
   ]
 }
