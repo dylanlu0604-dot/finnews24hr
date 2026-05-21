@@ -1,7 +1,157 @@
 {
-  "updated": "2026-05-22 00:16:26",
-  "count": 16201,
+  "updated": "2026-05-22 00:20:34",
+  "count": 16213,
   "items": [
+    {
+      "id": "mkt:019e4b56-2670-7aa1-957f-4bda27096549",
+      "time": "2026-05-22 00:19:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TRUMP ON AI EXECUTIVE ORDER: POSTPONED BECAUSE I DIDN'T LIKE CERTAIN ASPECTS OF IT"
+    },
+    {
+      "id": "te:markets:552836",
+      "time": "2026-05-22 00:19:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "UK Stocks Close Marginally Higher — The FTSE 100 moved slightly into positive territory on Thursday, closing marginally up at 10,443, despite renewed Middle East worries and poor economic data. Oil prices rose after reports that Iran’s Supreme Leader has ordered that near-weapons-grade uranium must remain inside the country, dampening hopes for a near-term breakthrough in negotiations. Meanwhile, UK factory orders contracted at their fastest pace since September 2020 in May, as surging selling prices driven by the war added to inflation concerns. In equities, top gainers included 3IGroup, SSE, ICG , Babcock International and Centrica. Autotrader led losses, slipping nearly 9%, after reporting full-year results and guidance below market expectations. Convatec fell nearly 5%, after the company's four-month business update showed slowing organic revenue growth."
+    },
+    {
+      "id": "mkt:019e4b55-9796-7aa1-957f-466fa775bac9",
+      "time": "2026-05-22 00:19:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TRUMP CLAIMS COURTS ARE HARMING COLLEGE ATHLETICS"
+    },
+    {
+      "id": "mkt:019e4b55-7c97-7aa1-957f-3a38a9fb6369",
+      "time": "2026-05-22 00:19:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TRUMP EXPECTS THE SUPREME COURT TO DECIDE AGAINST HIM, SAYING THEY HAVE A TENDENCY TO DO SO"
+    },
+    {
+      "id": "mkt:019e4b55-7076-7aa1-957f-31736bd52ac3",
+      "time": "2026-05-22 00:19:07",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "TRUMP CLAIMS TARIFFS HAVE MADE AMERICA 'MODERNLY' RICH AND STATES THEY WILL IMPLEMENT TARIFFS DIFFERENTLY IN THE FUTURE"
+    },
+    {
+      "id": "4893463",
+      "time": "2026-05-22 00:18:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：司法體系正在毀掉大學體育賽事。"
+    },
+    {
+      "id": "4893462",
+      "time": "2026-05-22 00:17:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：最高法院大機率會作出不利於我的裁決，他們向來如此。"
+    },
+    {
+      "id": "mkt:019e4b53-263e-7aa1-957f-2aa87ca1c9c4",
+      "time": "2026-05-22 00:16:40",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "TRUMP: WE WILL LIKELY HAVE TO PAY BACK $149B IN TARIFFS"
+    },
+    {
+      "id": "4893461",
+      "time": "2026-05-22 00:16:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：將調整關稅徵收方式。"
+    },
+    {
+      "id": "4893460",
+      "time": "2026-05-22 00:16:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：關稅讓美國實現現代化富足。"
+    },
+    {
+      "id": "mkt:019e4b52-ecd2-7aa1-957f-2615fae79520",
+      "time": "2026-05-22 00:16:25",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "TRUMP SAYS GASOLINE PRICES WILL FALL AFTER IRAN STOPS ITS ACTIONS"
+    },
+    {
+      "id": "mkt:019e4b52-c53b-7aa1-957f-1f6bcd90b721",
+      "time": "2026-05-22 00:16:16",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "BAKKEN, THREE FORKS OIL PRODUCTION AT 1,112,000 BPD IN MARCH - REGULATOR"
+    },
+    {
+      "id": "te:markets:552835",
+      "time": "2026-05-22 00:16:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Cotton Hits 4-week Low — Cotton decreased to 78.23 USd/Lbs, the lowest since April 2026. Over the past 4 weeks, Cotton lost 0.52%, and in the last 12 months, it increased 19.21%."
+    },
+    {
+      "id": "4893459",
+      "time": "2026-05-22 00:16:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：或需補繳1490億美元關稅款項。"
+    },
+    {
+      "id": "mkt:019e4b52-a7fa-7aa1-957f-13e732cee116",
+      "time": "2026-05-22 00:16:08",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "DXY",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "TRUMP: THE IRAN CONFLICT WILL END SOON"
+    },
     {
       "id": "mkt:019e4b52-69df-7aa1-957f-0d067d536552",
       "time": "2026-05-22 00:15:52",
@@ -145566,34 +145716,6 @@
         "Importance 1"
       ],
       "text": "British Pound Hits 4-week Low — GBPUSD decreased to 1.34, the lowest since April 2026. Over the past 4 weeks, British Pound US Dollar lost 0.81%, and in the last 12 months, it increased 1.1%."
-    },
-    {
-      "id": "4880401",
-      "time": "2026-05-15 00:18:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "英鎊/美元日內跌幅達0.5%，報1.3454。"
-    },
-    {
-      "id": "te:markets:550815",
-      "time": "2026-05-15 00:17:51",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Royal Bank of Canada Stock Price Hits All-time High — Royal Bank of Canada shares increased to an all-time high of 250.86 CAD. Over the past 4 weeks, Royal Bank of Canada gained 3.74%, and in the last 12 months, it increased 43.97%."
-    },
-    {
-      "id": "mkt:019e2746-f7d8-7bb5-b4d0-ba24a228383e",
-      "time": "2026-05-15 00:16:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CIRCLE INTERNET SHARES QUICKLY TURN POSITIVE, UP 1.5% AS CLARITY ACT MARKUP UNDERWAY"
     }
   ]
 }
