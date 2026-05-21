@@ -1,7 +1,129 @@
 {
-  "updated": "2026-05-22 00:08:17",
-  "count": 16180,
+  "updated": "2026-05-22 00:12:19",
+  "count": 16188,
   "items": [
+    {
+      "id": "mkt:019e4b4e-6e4f-7aa1-957e-dd4cad774721",
+      "time": "2026-05-22 00:11:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TRUMP ON COLLISION COURSE WITH GOP OVER CONTROVERSIAL $1.8 BILLION FUND - WSJ"
+    },
+    {
+      "id": "4893446",
+      "time": "2026-05-22 00:11:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及伊朗問題：無論如何都會達成目標。"
+    },
+    {
+      "id": "mkt:019e4b4e-3ef9-7aa1-957e-d6d061b47286",
+      "time": "2026-05-22 00:11:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TRUMP: LOOKS LIKE I'LL BE THE ONE THAT DOES SOMETHING ON CUBA"
+    },
+    {
+      "id": "te:markets:552832",
+      "time": "2026-05-22 00:11:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 0.53% Lower — The DAX Index fell 130 points or 0.53 percent on Thursday to close at 24607 points. Leading the losses are Airbus (-4.27%), Commerzbank (-3.45%) and Munich RE (-2.09%). Top gainers were Merck (3.14%), Zalando (2.65%) and Symrise (2.19%)."
+    },
+    {
+      "id": "4893445",
+      "time": "2026-05-22 00:11:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：正就伊朗相關事宜展開談判。"
+    },
+    {
+      "id": "te:markets:552831",
+      "time": "2026-05-22 00:10:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 0.11% Lower — The CAC 40 Index dropped 9 points or 0.11 percent on Thursday to close at 8108 points. Losses were led by Airbus (-4.27%), Accor (-2.07%) and TP (-2.01%). Offsetting the fall, top gainers were Edenred (3.48%), Air Liquide (1.53%) and Pernod Ricard (1.40%)."
+    },
+    {
+      "id": "mkt:019e4b4c-c276-7aa1-957e-cac503697ee4",
+      "time": "2026-05-22 00:09:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "WHITE HOUSE URGES CONGRESS TO PASS RAIL SAFETY LEGISLATION"
+    },
+    {
+      "id": "4893444",
+      "time": "2026-05-22 00:09:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們想要開放古巴。"
+    },
+    {
+      "id": "4893443",
+      "time": "2026-05-22 00:09:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：智慧環生產商Oura Health Oy秘密遞交美國IPO申請。"
+    },
+    {
+      "id": "mkt:019e4b4b-74fa-7aa1-957e-c4b054b24341",
+      "time": "2026-05-22 00:08:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TRUMP: WE WANT TO OPEN CUBA UP"
+    },
+    {
+      "id": "mkt:019e4b4b-4937-7aa1-957e-bef6d6a23450",
+      "time": "2026-05-22 00:08:05",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "TRUMP: THE WHITE HOUSE WON'T BE SECURE IF THE GOP DOESN'T APPROVE FUNDS"
+    },
+    {
+      "id": "4893442",
+      "time": "2026-05-22 00:07:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：看來我得在古巴問題上採取行動了。"
+    },
+    {
+      "id": "mkt:019e4b4b-021f-7aa1-957e-b7dd7f9c5ab2",
+      "time": "2026-05-22 00:07:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TRUMP: CUBA IS A FAILED COUNTRY TRUMP: NOT SENDING AIRCRAFT CARRIER TO CUBA TO INTIMIDATE THEM, WE WILL HELP THEM"
+    },
+    {
+      "id": "4893441",
+      "time": "2026-05-22 00:07:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內漲2%，現報1404.50美元/盎司。"
+    },
     {
       "id": "4893440",
       "time": "2026-05-22 00:07:26",
@@ -18,6 +140,14 @@
         "焦點"
       ],
       "text": "鈀金期貨突破1400美元/盎司，日內漲1.69%。"
+    },
+    {
+      "id": "4893438",
+      "time": "2026-05-22 00:07:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：若共和黨不批准撥款，白宮安保將無法保障。"
     },
     {
       "id": "te:markets:552830",
@@ -145335,74 +145465,6 @@
         "MKT News"
       ],
       "text": "SENATORS UNANIMOUSLY APPROVE RESOLUTION TO WITHHOLD THEIR OWN PAY DURING FUTURE GOVERNMENT SHUTDOWNS - REPORTS"
-    },
-    {
-      "id": "te:markets:550812",
-      "time": "2026-05-15 00:12:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE MIB Index Closes 1.15% Higher — The FTSE MIB Index gained 570 points or 1.15 percent on Thursday to close at 50050 points. Gains were led by STMicroelectronics (6.00%), Stellantis N.V. (3.63%) and Banca Mediolanum (2.84%)."
-    },
-    {
-      "id": "4880398",
-      "time": "2026-05-15 00:11:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "美方宣告：美國已成功從委內瑞拉已停運的 RV-1 研究反應堆中移除多餘高濃鈾（HEU）。"
-    },
-    {
-      "id": "te:markets:550811",
-      "time": "2026-05-15 00:11:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The DAX Index Closes 1.32% Higher — The DAX Index went up by 319 points or 1.32 percent on Thursday to close at 24456 points. The rise was led by Infineon (5.48%), SAP (3.46%) and Siemens (2.89%)."
-    },
-    {
-      "id": "4880397",
-      "time": "2026-05-15 00:10:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國參議員全票透過一項決議：未來若發生政府停擺，參議員將主動停發自身薪資。"
-    },
-    {
-      "id": "mkt:019e2741-0dba-7bb5-b4d0-931c9d450f3a",
-      "time": "2026-05-15 00:10:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. SUCCESSFULLY REMOVED EXCESS HIGHLY ENRICHED URANIUM (HEU) FROM VENEZUELA’S SHUTTERED RV-1 RESEARCH REACTOR -STATEMENT"
-    },
-    {
-      "id": "4880396",
-      "time": "2026-05-15 00:10:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "據報道，一隊黑海方向的無人機正朝敖德薩飛去。"
-    },
-    {
-      "id": "te:markets:550810",
-      "time": "2026-05-15 00:10:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The CAC 40 Index Closes 0.83% Higher — The CAC 40 Index rose 66 points or 0.83 percent on Thursday to close at 8074 points. Leading the gains are STMicroelectronics (6.20%), Stellantis NV (3.47%) and Dassault Systemes (2.83%). Top losers were TP (-1.40%), Carrefour (-0.41%) and Airbus (-0.40%)."
     }
   ]
 }
