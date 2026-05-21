@@ -1,7 +1,67 @@
 {
-  "updated": "2026-05-21 14:38:35",
-  "count": 15844,
+  "updated": "2026-05-21 14:42:40",
+  "count": 15845,
   "items": [
+    {
+      "id": "4892002",
+      "time": "2026-05-21 14:41:53",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "*ST聞泰盤中漲停，上演“地天板”，現報16.8元，成交額33.74億元。"
+    },
+    {
+      "id": "4892001",
+      "time": "2026-05-21 14:41:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國興業銀行：SG-Forge將提供歐元及美元穩定幣用於結算。"
+    },
+    {
+      "id": "4892000",
+      "time": "2026-05-21 14:41:43",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "法國興業銀行、FlatexDEGIRO與SG-Forge加入歐洲證券存管結算平臺Seturion，該平臺由斯圖加特交易所集團打造，面向代幣化證券。"
+    },
+    {
+      "id": "4891998",
+      "time": "2026-05-21 14:40:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "市場訊息：科威特原油價格下跌34美分，至123.28美元/桶。"
+    },
+    {
+      "id": "4891997",
+      "time": "2026-05-21 14:39:43",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "據伊朗學生通訊社21日報道，巴基斯坦陸軍參謀長穆尼爾當天將前往伊朗首都德黑蘭，旨在進一步推動伊朗和美國的談判。（新華社）"
+    },
+    {
+      "id": "4891996",
+      "time": "2026-05-21 14:39:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【奈及利亞破獲特大跨國製毒案】奈及利亞禁毒部門20日通報，近日端掉一個據信是奈及利亞有史以來查獲的規模最大的工業級製毒窩點，從而破獲一樁特大跨國製毒案。此次行動共逮捕9名嫌疑人，其中包括3名墨西哥籍人員。奈及利亞禁毒部門主管官員布巴·馬爾瓦說：“我們已充分掌握這些販毒集團不斷變化的作案手段，一個令人擔憂的新動向是，他們僱用南美販毒集團的所謂專業人員，在我國鄉村地區設立製毒工廠。”（央視新聞）"
+    },
+    {
+      "id": "4891995",
+      "time": "2026-05-21 14:37:57",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超3.1萬億元，較上日此時放量3967億元。"
+    },
     {
       "id": "mkt:019e4940-f605-7ee7-b68f-3ae6bd1a7d5e",
       "time": "2026-05-21 14:37:34",
@@ -142520,69 +142580,6 @@
         "其他"
       ],
       "text": "【香港公屋綜合輪候時間下降0.4年】香港特區政府房屋局今日（14日）公佈最新一季度的公屋綜合輪候時間為4.7年，較上一季度下降0.4年，亦是八年多以來的最低紀錄。 這個記錄是根據截至2026年3月底，在過去12個月獲安排入住傳統公共租住房屋（公屋）或“簡約公屋”的一般申請者（即家庭申請者及長者一人申請者）計算所得。與本屆特區政府上任前的高位6.1年比較，公屋綜合輪候時間縮短了整整近一年半，並首次低於5.0年。"
-    },
-    {
-      "id": "4879293",
-      "time": "2026-05-14 14:42:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "網信廣東： 2026年3月至4月新增72款生成式人工智慧服務在國家網信辦完成備案，對於透過API介面或其他方式直接呼叫已備案模型能力的生成式人工智慧應用或功能，由地方網信辦開展登記，新增49款完成登記。截至4月30日，累計有868款生成式人工智慧服務完成備案，530款生成式人工智慧應用或功能完成登記。現將相關資訊予以公告。"
-    },
-    {
-      "id": "4879292",
-      "time": "2026-05-14 14:41:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄56枚導彈675架無人機空襲烏克蘭】當地時間今天（5月14日）凌晨，烏克蘭首都基輔連續傳出爆炸聲，防空警報持續拉響數個小時。據烏克蘭空軍通報，自5月13日傍晚6點開始，俄軍先後發射56枚導彈和675架無人機對烏克蘭多地實施打擊，主要目標為首都基輔，南部敖德薩地區的鐵路和港口也遭到襲擊。（CCTV國際時訊）"
-    },
-    {
-      "id": "4879291",
-      "time": "2026-05-14 14:40:59",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【瑞穗證券：日本央行增一行的言論提振了對6月加息的預期】瑞穗證券經濟學家Yusuke Matsuo表示，日本央行政策委員會成員增一行週四發表的偏緊縮講話暗示，他將在該行6月的下一次會議上投票支援加息。增一行表示，如果沒有出現嚴重經濟衰退的跡象，日本央行應“在儘可能早的階段“加息。Matsuo說，包括行長植田和男在5月底至6月初的講話在內，即將發表的言論預計將偏緊縮，這可能會為近期加息奠定基礎，讓市場做好準備。日本央行的下一次政策制定會議定於6月15日至16日舉行。"
-    },
-    {
-      "id": "4879290",
-      "time": "2026-05-14 14:40:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國財政大臣裡夫斯：領導權爭奪將使英國陷入混亂。"
-    },
-    {
-      "id": "te:markets:550579",
-      "time": "2026-05-14 14:39:25",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "ASX 200 Finishes Slightly Higher After Recent Losses — Australia’s S&P/ASX 200 edged up to close at 8,641 on Thursday, snapping a four-session losing streak as gains in consumer durables, process industries, and industrial services lifted sentiment. Optimism improved after President Donald Trump, speaking at a Beijing summit with Xi Jinping, said U.S.–China ties would become “better than ever before,” with talks set to cover trade, tariffs, Taiwan, and Iran through Friday. Locally, focus turned to the 2026/27 federal budget. Commonwealth Bank analysts noted sizeable savings alongside substantial new spending, but judged the plan unlikely to shift the Reserve Bank’s near-term policy outlook or meaningfully ease inflation. Three of the big four banks advanced, while BHP (1.1%), Macquarie (2.8%), and Insurance Australia Group (3.3%) also gained. In contrast, Lynas Rare Earths slumped 10.4% as investors unwound the geopolitical premium in critical minerals amid renewed U.S.–China diplomatic engagement."
-    },
-    {
-      "id": "mkt:019e2535-8ccf-799f-8003-ef61c7a13e9a",
-      "time": "2026-05-14 14:38:46",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "Star Stocks",
-        "NVIDIA",
-        "Apple",
-        "2317.TW",
-        "Impact bullish",
-        "AAPL.O",
-        "NVDA.O"
-      ],
-      "text": "【Nvidia Partner Hon Hai Profit Jumps After AI Fuels Server Sales】Nvidia server partner Hon Hai Precision Industry reported stronger-than-expected first-quarter profit, underscoring resilient AI hardware demand. Net income rose to NT$49.9 billion, above estimates of NT$48.4 billion, while sales increased 30% to about NT$2.1 trillion. AI server demand drove growth in cloud and networking, helping offset higher costs and supply-chain risks tied to the Middle East crisis. Analysts said demand for Apple’s iPhone 17 series and entry-level iPhone 17e also supported consumer electronics growth, though margins may face pressure from rising AI server exposure."
     }
   ]
 }
