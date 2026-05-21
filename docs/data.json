@@ -1,7 +1,64 @@
 {
-  "updated": "2026-05-21 23:54:42",
-  "count": 16191,
+  "updated": "2026-05-21 23:58:55",
+  "count": 16183,
   "items": [
+    {
+      "id": "te:markets:552829",
+      "time": "2026-05-21 23:58:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "European Stocks Close Mixed — European stocks closed mixed on Thursday, despite skepticism that oil supply may recover any time soon, triggering a rebound in sovereign yields. The Eurozone's STOXX 50 closed flat at 5,974 and the pan-European STOXX 600 gained 0.2% to 622. Reuters reported that Iran’s Supreme Leader has issued a directive stating that the country’s near-weapons-grade uranium should not be sent abroad, hardening Tehran’s position on a key US demand in peace talks. As a result, oil prices moved higher again, adding to worries over inflationary pressures. Meanwhile, Nvidia’s earnings failed to excite investors despite beating estimates, leaving the broader AI sector without a meaningful boost. Preliminary PMI data for the Eurozone also pointed to a larger-than-expected hit to private sector activity, driven by the impact of the war with Iran. Banks were mostly lower as yields rebounded, with UniCredit and Intesa Sanpaolo dropping 2%. Chemical companies rose with BASF and Air Liquide gaining around 2%."
+    },
+    {
+      "id": "4893428",
+      "time": "2026-05-21 23:56:54",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美軍中央司令部21日在社交媒體釋出訊息說，截至當天，美軍對伊朗港口實施的封鎖行動已迫使94艘商船改變航向。（新華社）"
+    },
+    {
+      "id": "te:markets:552828",
+      "time": "2026-05-21 23:56:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Ends Flat Amid Weak PMI and Oil Rally — The FTSE MIB closed near the flatline at 49,167 on Thursday, following gains of more than 1% in the previous session, as investors monitored developments in the Middle East and assessed weak PMI data from the eurozone. Oil prices rebounded after reports that Iran would not ship its near weapons-grade uranium abroad, reviving concerns that a war-driven energy shock could keep inflation and interest rates elevated. Meanwhile, the S&P Global Eurozone Composite PMI fell to 47.5 in May from 48.8 in April, below forecasts of 48.8, signaling a deeper contraction in private sector activity. Financial stocks traded mixed, with UniCredit down 2.2% and Intesa Sanpaolo losing 1.7%, while Generali gained 2.7% after strong first-quarter results. Elsewhere, Stellantis fell 2% and Leonardo lost 1.5%, while Ferrari rose 2.7% and Enel added 0.9%. Eni gained 1.1% on higher oil prices."
+    },
+    {
+      "id": "4893426",
+      "time": "2026-05-21 23:55:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【波蘭將以色列國家安全部長列為“不受歡迎的人”】波蘭內政和行政部長馬爾欽·凱爾溫斯基21日在社交媒體上發文說，已下令啟動正式程式，將以色列國家安全部長本-格維爾列為“不受歡迎的人”。據波蘭通訊社報道，波蘭外交部長西科爾斯基當天早些時候決定申請禁止本-格維爾入境波蘭，原因是其針對“全球堅韌船隊”被扣押人員的相關言行。西科爾斯基在社交媒體上發文說，波蘭譴責以色列針對“全球堅韌船隊”被扣押人員的行為，並要求立即釋放其中的波蘭公民。他還表示，波蘭外交部已建議本國公民避免前往以色列。（新華社）"
+    },
+    {
+      "id": "4893425",
+      "time": "2026-05-21 23:55:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "米其林：4月全球原產裝置乘用車輪胎市場下滑6%。"
+    },
+    {
+      "id": "4893424",
+      "time": "2026-05-21 23:54:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【水利部專題部署“龍舟水”期間防汛工作】根據預報和綜合研判，未來3天，長江流域嘉陵江，洞庭湖水系湘江、資水、沅江及鄱陽湖水系贛江、饒河、信江，珠江流域西江中下游幹流及支流柳江、桂江，北江、東江、韓江，浙閩地區閩江、錢塘江上游，黃河中游支流涇河、渭河等河流將出現漲水過程，暴雨區內部分中小河流可能發生超警洪水，山丘區山洪災害風險較高；“龍舟水”期間（5月21日至6月20日），珠江流域北江、韓江、東江降雨偏多3～5成，局地強降雨將多發頻發，長江中下游幹流及洞庭湖、鄱陽湖，珠江流域西江、東江、北江、韓江，太湖及錢塘江、閩江等主要河流可能發生超警以上洪水。"
+    },
     {
       "id": "4893423",
       "time": "2026-05-21 23:53:44",
@@ -145388,158 +145445,6 @@
         "Impact bearish"
       ],
       "text": "BOE'S PILL: ACTIVITY NOT AS WEAK AS IN 2008 AND 2011"
-    },
-    {
-      "id": "mkt:019e2736-6788-7bb5-b4d0-438fb82bbebf",
-      "time": "2026-05-14 23:58:43",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "TRUMP TO FOX: XI SAID HE'D LIKE TO KEEP BUYING OIL FROM IRAN"
-    },
-    {
-      "id": "4880385",
-      "time": "2026-05-14 23:58:34",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行首席經濟學家Huw Pill： 資料顯示經濟活動展現出韌性。"
-    },
-    {
-      "id": "mkt:019e2735-e1f5-7dd3-9e40-a2a4c15d0d63",
-      "time": "2026-05-14 23:58:06",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "S&P500",
-        "Impact bullish",
-        "WTI",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "TRUMP TO FOX: XI SAID HE WON'T GIVE MILITARY EQUIPMENT TO IRAN"
-    },
-    {
-      "id": "mkt:019e2735-6ab8-7dd3-9e40-9f578e05dc71",
-      "time": "2026-05-14 23:57:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TRUMP TO FOX: DISCUSSED CHINA'S SUPPORT OF IRAN WITH XI"
-    },
-    {
-      "id": "mkt:019e2735-53b4-7dd3-9e40-91919ce54a69",
-      "time": "2026-05-14 23:57:24",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "TRUMP TO FOX: XI WOULD LIKE TO SEE HORMUZ STRAIT OPEN"
-    },
-    {
-      "id": "mkt:019e2735-2cfd-7dd3-9e40-8b693af53190",
-      "time": "2026-05-14 23:57:17",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "5.2 MAG. EARTHQUAKE VOLCANO ISLANDS JAPAN REGION :USGS"
-    },
-    {
-      "id": "mkt:019e2734-c512-7dd3-9e40-800cab4c60ea",
-      "time": "2026-05-14 23:56:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TRUMP TO FOX: XI SAID WOULD LIKE TO BE OF HELP ON IRAN"
-    },
-    {
-      "id": "mkt:019e2734-1f21-7dd3-9e40-7ddda8564cdb",
-      "time": "2026-05-14 23:56:11",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "FTSE100",
-        "Impact mixed"
-      ],
-      "text": "BOE'S PILL: LIKELY WE WILL SEE MORE SECOND-ROUND EFFECTS"
-    },
-    {
-      "id": "mkt:019e2733-ec5f-7dd3-9e40-74f7e7d00ef0",
-      "time": "2026-05-14 23:56:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TRUMP TO FOX: HE DID OFFER HELP ON IRAN"
-    },
-    {
-      "id": "mkt:019e2733-4a28-7dd3-9e40-6f50ec4889b5",
-      "time": "2026-05-14 23:55:29",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bullish",
-        "FTSE100",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "UK PM STARMER IN LETTER TO STREETING: WE MUST DELIVER ON PROMISE TO \"TURN THE PAGE ON CHAOS\""
-    },
-    {
-      "id": "mkt:019e2733-470f-7dd3-9e40-64e974c88233",
-      "time": "2026-05-14 23:55:08",
-      "tags": [
-        "MKT News",
-        "BA.O",
-        "Impact bearish"
-      ],
-      "text": "BOEING SHARES EXTEND DECLINE TO 5%"
-    },
-    {
-      "id": "4880384",
-      "time": "2026-05-14 23:55:05",
-      "tags": [
-        "公司",
-        "其他",
-        "焦點",
-        "國際"
-      ],
-      "text": "波音股價跌幅擴大至5%。"
-    },
-    {
-      "id": "te:markets:550805",
-      "time": "2026-05-14 23:54:52",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Cotton Futures Slip — Cotton futures dropped over 4% to near 83.3 cents per pound, the lowest in a week, as traders weighed the lack of agricultural announcements from the US-China summit and also signs of weaker demand. The latest US weekly export sales report showed net sales of Upland cotton totaling 47,700 running bales for 2025/26, a marketing-year low, down from 61% in the previous week and 66% from the prior four-week average. Meanwhile, the USDA’s May WASDE report showed that the 2025/26 global balance sheet was revised upward, with higher estimates for production, consumption, and both beginning and ending stocks. Global production was raised nearly 1% to 122.6 million bales, with the 2026/27 production seen at 116.04 million bales. US all-cotton production for 2025/26 was reduced by 21,000 bales to 13.90 million, while 2026/27 output was projected at 13.30 million bales."
-    },
-    {
-      "id": "mkt:019e2733-46ac-7dd3-9e40-5b49908950c6",
-      "time": "2026-05-14 23:54:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TRUMP TO FOX: XI WOULD LIKE A DEAL MADE ON IRAN"
     }
   ]
 }
