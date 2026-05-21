@@ -1,7 +1,88 @@
 {
-  "updated": "2026-05-22 07:31:59",
-  "count": 16151,
+  "updated": "2026-05-22 07:35:54",
+  "count": 16152,
   "items": [
+    {
+      "id": "4893724",
+      "time": "2026-05-22 07:34:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "聯想集團第四季度淨利潤5.21億美元，預估3.195億美元。"
+    },
+    {
+      "id": "4893723",
+      "time": "2026-05-22 07:34:37",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "日本4月核心CPI漲幅為2022年3月以來最低。日本4月核心-核心CPI漲幅為2022年9月以來最低。"
+    },
+    {
+      "id": "4893722",
+      "time": "2026-05-22 07:34:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雲頂新耀：主要股東康橋資本增持60.05萬股公司股份】5月22日早間，雲頂新耀在港交所公告，獲非執行董事、董事會榮譽主席兼公司主要股東傅唯告知，自2026年5月20日至2026年5月21日期間，康橋資本（作為公司主要股東）於市場購入60.05萬股公司普通股，總代價約為1920萬港元，平均價格約為每股股份31.91港元。自2025年12月以來，康橋資本及董事已於市場購入超過306.20萬股股份，總代價超過1.138億港元。"
+    },
+    {
+      "id": "4893721",
+      "time": "2026-05-22 07:33:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "聯想集團全年每股末期股息0.337港元。"
+    },
+    {
+      "id": "4893720",
+      "time": "2026-05-22 07:33:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "聯想集團全年營收830.7億美元，預估805.2億美元。聯想集團全年營收830.7億美元，預估805.2億美元。"
+    },
+    {
+      "id": "te:markets:552875",
+      "time": "2026-05-22 07:33:20",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Set for Weekly Decline — Brent crude futures climbed above $104 per barrel on Friday after reports indicated that Iran’s Supreme Leader ordered the country’s enriched uranium reserves to remain inside Iran, complicating ongoing peace negotiations as dismantling Tehran’s nuclear program remains a central US demand. Iran is also reportedly working with Oman on a framework for a permanent toll system that would formalize its control over maritime traffic through the Strait of Hormuz. However, President Donald Trump rejected the proposal, insisting the waterway should remain open, free, and without toll charges. Despite Friday’s gains, Brent futures were still down more than 4% for the week amid optimism that the conflicting parties could eventually reach an agreement. US Secretary of State Marco Rubio said there were “some encouraging signs” surrounding a possible deal with Iran, adding that Pakistani mediators are expected to visit Tehran as Iranian officials review Washington’s latest proposal."
+    },
+    {
+      "id": "4893719",
+      "time": "2026-05-22 07:33:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【訊息人士：美國可能暫停在“庇護城市”機場的移民和海關處理工作】訊息人士向路透透露，國土安全部部長穆林（Markwayne Mullin）私下警告稱，當局可能會停止在那些拒絕配合特朗普政府移民嚴打行動的“庇護城市”內主要美國機場對國際旅客和貨物的通關處理。穆林曾在4月因國土安全部撥款爭議公開發出過這一威脅，上週他私下向旅遊業高管透露，該部門可能會選擇停止在 丹佛、費城、芝加哥、洛杉磯、紐約、紐瓦克、西雅圖和舊金山等城市的機場對國際旅客進行海關和移民檢查 。有媒體此前曾報道了穆林對旅遊業高管的言論，並援引訊息人士 稱，此舉很可能在7月美國舉辦的國際足聯世界盃結束後 實施 。美國國土安全部拒絕置評。"
+    },
+    {
+      "id": "te:markets:552874",
+      "time": "2026-05-22 07:32:21",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Set for Weekly Decline — WTI crude futures climbed toward $98 per barrel on Friday after reports indicated that Iran’s Supreme Leader ordered the country’s enriched uranium reserves to remain inside Iran, complicating ongoing peace negotiations as dismantling Tehran’s nuclear program remains a central US demand. Iran is also reportedly working with Oman on a framework for a permanent toll system that would formalize its control over maritime traffic through the Strait of Hormuz. However, President Donald Trump rejected the proposal, insisting the waterway should remain open, free, and without toll charges. Despite Friday’s gains, WTI futures were still down more than 3% for the week amid optimism that the conflicting parties could eventually reach an agreement. US Secretary of State Marco Rubio said there were “some encouraging signs” surrounding a possible deal with Iran, adding that Pakistani mediators are expected to visit Tehran as Iranian officials review Washington’s latest proposal."
+    },
+    {
+      "id": "mkt:019e4ce1-ccbf-7aa1-9582-002fce4ade70",
+      "time": "2026-05-22 07:32:06",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | CPI (MoM) (Apr) | actual 0.3% | previous 0.4%"
+    },
     {
       "id": "4893718",
       "time": "2026-05-22 07:31:19",
@@ -9,6 +90,15 @@
         "市場"
       ],
       "text": "新加坡交易所日經股指期貨開盤上漲640點，報62110點。"
+    },
+    {
+      "id": "em:jjsj_rbsj:202605223745704544",
+      "time": "2026-05-22 07:31:11",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本4月份整體消費物價同比上漲1.4%。"
     },
     {
       "id": "4893717",
@@ -145144,87 +145234,6 @@
         "市場"
       ],
       "text": "紐約期銀日內跌2%，現報83.36美元/盎司。"
-    },
-    {
-      "id": "4880783",
-      "time": "2026-05-15 07:34:53",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲理事巴爾表示，伊朗衝突讓通脹令人擔憂。"
-    },
-    {
-      "id": "em:qqyh_mlc:202605153737954653",
-      "time": "2026-05-15 07:34:51",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "美聯儲理事巴爾稱，我們並未陷入衰退，但就業增長乏力。我尚未決定在6月FOMC會議上採取何種行動。"
-    },
-    {
-      "id": "4880782",
-      "time": "2026-05-15 07:33:55",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲理事巴爾稱縮表是“錯誤目標”，與候任主席沃什主張背道而馳】當地時間5月14日，美聯儲理事邁克爾·巴爾（Michael Barr）反駁外界要求縮減聯準會資產負債表的主張，直言這種做法“方向錯誤”，甚至可能威脅金融穩定。巴爾的說法與對即將上任的美聯儲主席凱文·沃什的主張背道而馳。他曾多次警告說，美聯儲需要縮減資產負債表，以儘量減少對金融市場的干預。巴爾表示，美聯儲的資產負債表操作是維持健全銀行體系的核心。他警告說，目前部分被提出的方案，反而可能讓美聯儲更深度介入金融市場。"
-    },
-    {
-      "id": "4880781",
-      "time": "2026-05-15 07:33:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "【人民日報：為中美關係發展不斷注入新動力】5月14日，國家主席習近平在北京人民大會堂同來華進行國事訪問的美國總統特朗普舉行會談。習近平主席同特朗普總統贊同將構建“中美建設性戰略穩定關係”作為中美關係新定位，將為未來3年乃至更長時間的中美關係提供戰略指引。接受本報記者採訪的美國各界人士表示，元首外交對兩國關係發展發揮著不可替代的戰略引領作用。美中兩國擁有廣泛共同利益，雙方拓展合作空間，將為兩國關係發展不斷注入新動力，為兩國和世界共同繁榮發展創造更多有利條件。（人民日報）"
-    },
-    {
-      "id": "4880780",
-      "time": "2026-05-15 07:33:31",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲巴爾：我尚未就6月聯邦公開市場委員會（FOMC）會議上的行動作出決定。"
-    },
-    {
-      "id": "4880779",
-      "time": "2026-05-15 07:32:55",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲巴爾：我們並未陷入衰退，但新增就業崗位寥寥無幾。"
-    },
-    {
-      "id": "4880778",
-      "time": "2026-05-15 07:32:22",
-      "tags": [
-        "市場"
-      ],
-      "text": "新加坡交易所日經期貨開盤上漲265點，報63045點。"
-    },
-    {
-      "id": "te:markets:550865",
-      "time": "2026-05-15 07:32:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Set for Strong Weekly Gain — Brent crude futures hovered above $106 per barrel on Friday and were on track to rise roughly 5% for the week, as diplomatic attempts to end the US-Iran conflict continued to stall, leaving the strategically crucial Strait of Hormuz effectively closed. The key shipping route remains under a dual blockade that has emerged as a central obstacle in negotiations, with President Donald Trump saying the current ceasefire was on “massive life support” after dismissing Tehran’s latest response to his peace proposal. Meanwhile, the IEA reported that crude and fuel flows through the Strait of Hormuz dropped by around 4 million barrels per day in March and April, warning that the global oil market could stay materially undersupplied through October even if the conflict is resolved next month. Separately, President Trump held talks with Chinese President Xi Jinping, with both leaders discussing efforts to keep the strait open to safeguard energy trade and improve US oil exports to China."
-    },
-    {
-      "id": "em:qqyh_mlc:202605153737913824",
-      "time": "2026-05-15 07:32:09",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【美聯儲理事巴爾稱縮表是“錯誤目標” 與候任主席沃什主張背道而馳】當地時間5月14日，美聯儲理事邁克爾·巴爾（MichaelBarr）反駁外界要求縮減聯準會資產負債表的主張，直言這種做法“方向錯誤”，甚至可能威脅金融穩定。"
     }
   ]
 }
