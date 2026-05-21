@@ -1,7 +1,112 @@
 {
-  "updated": "2026-05-22 02:01:07",
-  "count": 16265,
+  "updated": "2026-05-22 02:04:57",
+  "count": 16275,
   "items": [
+    {
+      "id": "4893552",
+      "time": "2026-05-22 02:02:28",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "IBM股價在美國融資成功後繼續上漲至10%。"
+    },
+    {
+      "id": "te:economy:552849",
+      "time": "2026-05-22 02:02:19",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Egypt",
+        "Interest Rate",
+        "Importance 0"
+      ],
+      "text": "Egypt's Central Bank Holds Interest Rates Steady — The Central Bank of Egypt kept its key interest rate unchanged at 19% at its May 2026 policy meeting, matching market expectations. The decision followed a rise in annual headline inflation to 13.4% in February from 11.9% in January, while core inflation accelerated to 12.7% from 11.2%, driven by higher education costs and seasonal food price increases during Ramadan. The central bank warned that rising global energy and agricultural prices, exchange-rate volatility, and fiscal adjustment measures could slow the disinflation process and threaten its Q4 2026 inflation target. Meanwhile, Egypt lowered its FY2025/26 GDP growth forecast to 4.9% from 5.1%, citing weaker external demand and regional tensions. Globally, policymakers noted that escalating conflicts and supply-chain disruptions continue to pressure inflation and weaken growth prospects."
+    },
+    {
+      "id": "4893551",
+      "time": "2026-05-22 02:02:10",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲巴爾金：對美聯儲使命的兩方面都感到擔憂。"
+    },
+    {
+      "id": "4893550",
+      "time": "2026-05-22 02:01:37",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲巴爾金：沃什還沒有闡明他在美聯儲的計劃。"
+    },
+    {
+      "id": "4893549",
+      "time": "2026-05-22 02:01:02",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲巴爾金：對雙重職責感到神經緊張。"
+    },
+    {
+      "id": "mkt:019e4bb2-ae11-7aa1-9580-b09d0d62233d",
+      "time": "2026-05-22 02:00:58",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "FED'S BARKIN: HARD TO REACH CONCLUSIONS ON SHORT- VS LONG-TERM EFFECTS OF AI"
+    },
+    {
+      "id": "mkt:019e4bb2-7859-7aa1-9580-aa4903adc52d",
+      "time": "2026-05-22 02:00:47",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "FED'S BARKIN: TALKED TO WARSH ON TUESDAY BUT JUST TO GET ACQUAINTED; TRUST HIM AS A LEADER"
+    },
+    {
+      "id": "4893548",
+      "time": "2026-05-22 02:00:46",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲巴爾金：對近期就業增長感到鼓舞，但不難想象人工智慧可能導致失業。"
+    },
+    {
+      "id": "mkt:019e4bb2-6b76-7aa1-9580-a2831d5404ee",
+      "time": "2026-05-22 02:00:43",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "FED'S BARKIN: DO NOT FEEL LIKE TODAY IS A TIME FOR STRONG FORWARD GUIDANCE"
+    },
+    {
+      "id": "4893547",
+      "time": "2026-05-22 02:00:40",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲巴爾金：如今企業對自身能否透過上調消費品價格來彌補成本的信心大幅下降。"
+    },
+    {
+      "id": "4893546",
+      "time": "2026-05-22 02:00:36",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲巴爾金：除軟體行業外，其他僱主尚未因人工智慧裁員。"
+    },
     {
       "id": "mkt:019e4bb2-5697-7aa1-9580-9b783ab741f0",
       "time": "2026-05-22 02:00:35",
@@ -146191,14 +146296,6 @@
         "其他"
       ],
       "text": "紐約擬對100 萬美元以上現金購置的市內住宅徵收新稅。"
-    },
-    {
-      "id": "4880469",
-      "time": "2026-05-15 02:01:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "中國地震臺網自動測定：05月15日01時53分在印尼班達海附近（南緯6.37度，東經130.54度）發生6.2級左右地震，最終結果以正式速報為準。"
     }
   ]
 }
