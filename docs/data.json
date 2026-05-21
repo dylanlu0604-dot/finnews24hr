@@ -1,7 +1,50 @@
 {
-  "updated": "2026-05-21 08:33:25",
-  "count": 15852,
+  "updated": "2026-05-21 08:37:11",
+  "count": 15850,
   "items": [
+    {
+      "id": "te:economy:552473",
+      "time": "2026-05-21 08:36:29",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Services PMI",
+        "Importance 1"
+      ],
+      "text": "Japan Services PMI Lowest in 14 Months — Japan’s S&P Global Services PMI edged down to 50.0 in May 2026 from a final 51.0 in the previous month, a preliminary reading showed. It marked the lowest figure since March 2025, pointing to a stagnation in the service sector."
+    },
+    {
+      "id": "4891478",
+      "time": "2026-05-21 08:36:22",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本東證指數上漲2%，至3867.59點。"
+    },
+    {
+      "id": "4891477",
+      "time": "2026-05-21 08:35:45",
+      "tags": [
+        "資料",
+        "市場",
+        "國際"
+      ],
+      "text": "【能源進口大幅銳減 日本持續保持貿易順差】受出口勢頭強勁、能源進口大幅下滑影響，日本貿易賬意外連續第三個月實現順差。日本財務省週四公佈資料，4月未經調整貿易順差達3019億日元（摺合19億美元），而市場分析師此前預估為逆差445億日元。4月日本出口額同比增長14.8%，進口額同比上漲9.7%。人工智慧相關產品需求旺盛，持續託舉出口景氣度，其中晶片出口同比大增44%。分地區來看，對日歐出口增長26.9%，對華出口增長15.5%，對美出口增長9.5%。日本高度依賴中東石油進口，伊朗局勢動盪對其衝擊尤為明顯。原油運輸要道霍爾木茲海峽近乎停運，推動全球能源價格與通脹大幅走高。受此影響，日本能源進口量大幅縮減，資料顯示4月原油進口量同比下滑64%，能源進口總額同比下降50%。日本表示目前暫無原油短缺風險，今年可透過開闢海峽外進口渠道、動用石油儲備保障原油供應，但成品油流通已出現受阻情況。本週早些時候，日本首相高市早苗宣佈下令編制追加預算，緩解民眾生活壓力，並計劃在未來數月重啟能源補貼政策。"
+    },
+    {
+      "id": "te:economy:552472",
+      "time": "2026-05-21 08:33:30",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Composite PMI",
+        "Importance 1"
+      ],
+      "text": "Japan Composite PMI Slips to 5-Month Low — Japan’s S&P Global Composite PMI was down to 51.1 in May 2025 from a final 52.2 in the prior month, flash data showed. It was the lowest reading since December despite marking the 14th straight month of private-sector expansion."
+    },
     {
       "id": "4891476",
       "time": "2026-05-21 08:31:52",
@@ -19,6 +62,15 @@
         "國際"
       ],
       "text": "兩年期日本政府債券收益率下跌0.5個基點，至1.445%。五年期日本國債收益率下跌1.5個基點，至2.020%。"
+    },
+    {
+      "id": "em:jjsj_rbsj:202605213744201284",
+      "time": "2026-05-21 08:30:36",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本5月製造業PMI初值54.5，前值55.1。日本5月服務業PMI初值50，前值51。"
     },
     {
       "id": "mkt:019e47f0-bea5-7aa9-8522-a01601a1163d",
@@ -142640,65 +142692,6 @@
         "Importance 1"
       ],
       "text": "Stocks in Australia Hit 6-week Low — ASX200 decreased to 8582.00 Index Points, the lowest since April 2026. Over the past 4 weeks, Australia Stock Market Index (AU200) lost 3.92%, and in the last 12 months, it increased 3.97%."
-    },
-    {
-      "id": "4878805",
-      "time": "2026-05-14 08:37:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "山高控股集團有限公司在香港暫停交易。"
-    },
-    {
-      "id": "4878804",
-      "time": "2026-05-14 08:36:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2026國際低空經濟博覽會將於7月22日至25日在上海舉辦】記者從國家會展中心官網獲悉，2026國際低空經濟博覽會將於7月22日至25日在上海舉辦。"
-    },
-    {
-      "id": "4878803",
-      "time": "2026-05-14 08:36:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "澳大利亞：從戰略儲備中呼叫化肥以應對供應短缺。"
-    },
-    {
-      "id": "mkt:019e23e9-7dd9-777f-be58-f05185431c96",
-      "time": "2026-05-14 08:36:05",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "CUBA ENERGY AND MINES MINISTER: CUBA HAS RUN OUT OF DIESEL AND FUEL OIL AMID U.S. OIL BLOCKADE"
-    },
-    {
-      "id": "4878802",
-      "time": "2026-05-14 08:35:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "古巴能源和礦產部長：在美國石油封鎖下，古巴已耗盡柴油和燃料油庫存。"
-    },
-    {
-      "id": "4878801",
-      "time": "2026-05-14 08:34:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "澳大利亞：已鎖定約9萬噸農業級尿素貨源。"
-    },
-    {
-      "id": "4878800",
-      "time": "2026-05-14 08:33:33",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【發那科與谷歌達成實體AI合作 股價飆升16%】發那科宣佈將與谷歌在實體人工智慧領域展開合作後，其股價盤中大漲16%，創歷史日內新高。野村證券分析師Kentaro Maekawa 在研報中表示，此次合作有望帶動發那科機器人銷量增長。機構上調了發那科盈利預期，主要上調機器人業務板塊預估。據統計資料，機器人業務約佔發那科總營收的44%。"
     }
   ]
 }
