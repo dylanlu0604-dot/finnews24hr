@@ -1,7 +1,50 @@
 {
-  "updated": "2026-05-22 04:50:08",
-  "count": 16227,
+  "updated": "2026-05-22 04:54:11",
+  "count": 16226,
   "items": [
+    {
+      "id": "mkt:019e4c4f-f808-7aa1-9581-ccfb37ff7069",
+      "time": "2026-05-22 04:52:49",
+      "tags": [
+        "MKT News",
+        "Bitcoin",
+        "Impact bullish",
+        "Ethereum"
+      ],
+      "text": "COINBASE TO LIST FUTURES ON US REGULATED EXCHANGE"
+    },
+    {
+      "id": "mkt:019e4c4f-d2bf-7aa1-9581-c42b704094c1",
+      "time": "2026-05-22 04:52:40",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact bearish"
+      ],
+      "text": "META'S ANDY STONE SAYS WHATSAPP CANNOT ACCESS PEOPLE’S ENCRYPTED COMMUNICATIONS, AFTER TEXAS FILES LAW­SUIT AGAINST META AND WHAT­SAPP META'S ANDY STONE SAYS WILL FIGHT TEXAS LAW­SUIT AGAINST META AND WHAT­SAPP"
+    },
+    {
+      "id": "4893633",
+      "time": "2026-05-22 04:52:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "週四（5月21日）紐約尾盤，現貨黃金跌0.08%，報4540.60美元/盎司，整體呈現出V形走勢、北京時間21:39跌至4488.92美元重新整理日低。COMEX黃金期貨漲0.16%，報4542.80美元/盎司，09:41漲至4572.40美元重新整理日高，隨後逐步下挫，21:39重新整理日低至4488.30美元。"
+    },
+    {
+      "id": "mkt:019e4c4e-0c85-7aa1-9581-bae7746bd0cd",
+      "time": "2026-05-22 04:50:43",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Crypto Concepts"
+      ],
+      "text": "SEC COMMISSIONER PEIRCE SAYS POTENTIAL ONCHAIN STOCK TRADING EXEMPTION WOULD LIKELY BE LIMITED IN SCOPE SEC'S PEIRCE SAYS CONTEMPLATED EXEMPTION WOULD APPLY TO TOKENIZED VERSIONS OF EXISTING PUBLIC EQUITIES, NOT SYNTHETICS SEC'S PEIRCE INDICATES TOKENIZED PRIVATE COMPANY SHARES NOT ENVISIONED UNDER POTENTIAL EXEMPTION"
+    },
     {
       "id": "4893632",
       "time": "2026-05-22 04:48:25",
@@ -145835,59 +145878,6 @@
         "其他"
       ],
       "text": "【中國算力基建開闢海上賽道 探訪全球首個海底資料中心】人工智慧浪潮席捲全球，算力正成為至關重要的基礎生產力。算力的盡頭是電力。為了走出一條綠色、集約、可持續的算力發展之路，我國的算力基建企業另闢蹊徑，把算力中心建在了海里。在上海臨港小洋山以東東海海域，一座高出海平面20多米的海上平臺格外醒目。這裡是全球首個投入執行的海風直連海底資料中心，總投資16億元，整體規劃24兆瓦，一期示範專案裝機規模2.3兆瓦，總重1950噸，相當於1300輛家用轎車的重量。（央視新聞）"
-    },
-    {
-      "id": "4880618",
-      "time": "2026-05-15 04:53:15",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "特朗普大額賣出微軟、亞馬遜和META。"
-    },
-    {
-      "id": "4880617",
-      "time": "2026-05-15 04:53:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "【4月金融資料出爐 直接融資佔比持續提升 業內專家：貸款增長較以前放緩或將成為常態】中國人民銀行5月14日釋出的金融統計資料包告顯示，4月末，廣義貨幣（M2）餘額、社會融資規模存量、人民幣貸款餘額分別同比增長8.6%、7.8%和5.6%。"
-    },
-    {
-      "id": "4880616",
-      "time": "2026-05-15 04:51:21",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "【特朗普倫理申報檔案披露其涉及美股相關交易】美國政府道德辦公室週四公佈兩份最新財務披露檔案顯示，特朗普今年早些時候披露了總額至少2.2億美元的美國大型企業證券交易活動。最新報告涵蓋2026年前三個月，交易金額僅公佈寬泛區間、未披露精確數額，累計交易規模介於2.2億至約7.5億美元之間。其買入標的包括微軟、元宇宙平臺Meta、甲骨文、博通、美國銀行、高盛等企業相關證券，同時還涉及市政債券交易。單筆規模在100萬至500萬美元的大額買入標的，包括標普500指數基金、英偉達以及蘋果公司；單筆500萬至2500萬美元的大額拋售標的涵蓋微軟、亞馬遜和Meta。披露檔案並未逐一明確證券具體型別，未註明是普通股還是公司債券。"
-    },
-    {
-      "id": "mkt:019e2841-b650-7bb5-b4d2-e30a4d69d58e",
-      "time": "2026-05-15 04:50:55",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "Magnificent 7",
-        "Star Stocks",
-        "Microsoft",
-        "Meta Platforms",
-        "MSFT.O",
-        "META.O",
-        "GS.O"
-      ],
-      "text": "【Trump Ethics Filing Reveals Hundreds of Millions in US Securities Trades】US President Donald Trump disclosed at least $220 million in financial transactions tied to major US companies during the first quarter of 2026, according to new ethics filings released by the Office of Government Ethics. The disclosures showed purchases and sales involving securities linked to Microsoft, Meta Platforms, Oracle, Broadcom, Bank of America and Goldman Sachs. The filings listed broad transaction ranges rather than exact values and did not specify whether the trades involved stocks or bonds."
-    },
-    {
-      "id": "4880615",
-      "time": "2026-05-15 04:50:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "據披露檔案特朗普大手筆增持英偉達、蘋果股票。"
     }
   ]
 }
