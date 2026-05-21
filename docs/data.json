@@ -1,7 +1,49 @@
 {
-  "updated": "2026-05-21 23:50:35",
-  "count": 16194,
+  "updated": "2026-05-21 23:54:42",
+  "count": 16191,
   "items": [
+    {
+      "id": "4893423",
+      "time": "2026-05-21 23:53:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國國務卿魯比奧：與古巴達成協議的可能性“不大”】美國國務卿魯比奧週四表示，目前美國與古巴透過談判達成和平協議的可能性不大。與此同時，華盛頓正加大力度對古巴政府施壓。魯比奧表示，美國一直傾向於透過談判來解決問題。他對記者說：“對於古巴，我們仍持這種態度。我只是坦率地告訴你們，鑑於我們目前打交道的物件，這種可能性並不高。但如果他們改變主意，我們隨時準備好。在此期間，我們會繼續做我們該做的事。”魯比奧還稱，古巴已接受美國提供的1億美元人道主義援助。"
+    },
+    {
+      "id": "4893422",
+      "time": "2026-05-21 23:53:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所6月柴油期貨結算價每噸1172.50美元。"
+    },
+    {
+      "id": "4893421",
+      "time": "2026-05-21 23:52:50",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "埃尼集團：印尼協議涉及庫泰盆地旗下天然氣專案產出的液化天然氣，年均總供應量約200萬噸。"
+    },
+    {
+      "id": "4893420",
+      "time": "2026-05-21 23:51:22",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "市場訊息：埃尼集團依託印尼長期供氣協議，強化全球液化天然氣戰略佈局。"
+    },
+    {
+      "id": "4893419",
+      "time": "2026-05-21 23:50:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：廢止冰箱與空調相關合規管控條例。"
+    },
     {
       "id": "4893418",
       "time": "2026-05-21 23:49:21",
@@ -145498,84 +145540,6 @@
         "MKT News"
       ],
       "text": "TRUMP TO FOX: XI WOULD LIKE A DEAL MADE ON IRAN"
-    },
-    {
-      "id": "mkt:019e2733-03de-7dd3-9e40-5148f4fe0972",
-      "time": "2026-05-14 23:54:35",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact bearish",
-        "FTSE100",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "UK PM STARMER IN LETTER TO STREETING: I AM VERY SORRY THAT YOU HAVE STEPPED DOWN FROM GOVERNMENT"
-    },
-    {
-      "id": "4880383",
-      "time": "2026-05-14 23:54:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國首相斯塔默在致斯特里廷的信函中表示：對你辭去政府職務一事，我深感遺憾。"
-    },
-    {
-      "id": "mkt:019e2732-d0bd-7dd3-9e40-4e9f3a57a717",
-      "time": "2026-05-14 23:54:23",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "TRUMP SAYS XI AGREED TO BUY 200 BOEING JETS"
-    },
-    {
-      "id": "4880382",
-      "time": "2026-05-14 23:53:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "據日本氣象廳訊息，日本硫磺島附近海域當地時間15日凌晨發生6.0級地震。（新華社）"
-    },
-    {
-      "id": "te:markets:550803",
-      "time": "2026-05-14 23:52:40",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "European Stocks Close Higher for 2nd Session — European stocks closed sharply higher for a second session on Thursday with support from corporate earnings and fresh geopolitical developments. The Eurozone's STOXX 50 closed 1.2% higher at 5,931 and the STOXX 60 added 0.7% to 616. Constructive rhetoric came out of the summit between US and Chinese presidents Trump and Xi in the first days of talks, limiting concerns of disruptions that were initially triggered by trade disputes last year. Tech companies closed with sharp gains as the positive dialogue between US tech leaders and the Chinese delegation raised expectations of a higher demand pool for AI infrastructure, driving ASML and Infineon to gain 5.5% and 3%. Meanwhile, Siemens added 2.6% to extend the strong momentum after its earnings."
-    },
-    {
-      "id": "te:markets:550802",
-      "time": "2026-05-14 23:52:20",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "FTSE MIB Hits Record High as Financials and Tech Rally — The FTSE MIB rose 1.1% to close at a record 50,050 on Thursday as investors monitored geopolitical developments and continued to assess the latest earnings reports. Markets remained focused on the Beijing meeting between US President Donald Trump and Chinese President Xi Jinping, amid hopes the talks could help stabilize relations between the world’s two largest economies. STMicroelectronics extended recent gains, rising 5.4%, while heavyweight financials also advanced as the BTP-Bund spread narrowed, with UniCredit up 1.7% and Intesa Sanpaolo gaining 2%. The auto sector also performed well, with Stellantis rising 3.5% and Ferrari adding 1.4%. On the downside, Snam lost 1% as investors weighed higher net debt and geopolitical risks despite strong first-quarter results. Meanwhile, Infrastrutture Wireless Italiane gained 1.3% even after reporting lower first-quarter earnings while reaffirming its 2026 revenue guidance."
-    },
-    {
-      "id": "mkt:5b65bca9-9347-44b7-ba5a-5e4b5bdc6a76",
-      "time": "2026-05-14 23:51:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "COMMANDER OF THE US CENTRAL COMMAND: WE SUCCEEDED IN 38 DAYS IN NEUTRALIZING 40 YEARS OF IRANIAN MILITARY INVESTMENTS"
-    },
-    {
-      "id": "mkt:d0d402ac-4c03-4ebc-8447-c65a4931b585",
-      "time": "2026-05-14 23:50:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IRAQ LAWMAKERS EFFECTIVELY APPROVE AL-ZAIDI AS PRIME MINISTER"
     }
   ]
 }
