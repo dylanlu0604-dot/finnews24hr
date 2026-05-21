@@ -1,7 +1,23 @@
 {
-  "updated": "2026-05-22 07:55:28",
-  "count": 16162,
+  "updated": "2026-05-22 07:59:22",
+  "count": 16160,
   "items": [
+    {
+      "id": "4893754",
+      "time": "2026-05-22 07:57:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【SpaceX發現故障 推遲星艦火箭發射】當地時間週四，SpaceX在發射前夕排查出多項問題，隨即推遲了巨型星艦火箭的關鍵測試任務。本次原計劃在公司位於得克薩斯州南部的星港發射場，執行星艦第十二次大型飛行任務。此次發射原定日期，恰逢埃隆・馬斯克執掌的太空探索技術公司正式遞交期盼已久的首次公開募股申請。公司計劃募資最高750億美元，用於研發登月火星運載星艦、星鏈太空網際網路專案，以及新興人工智慧業務。"
+    },
+    {
+      "id": "4893753",
+      "time": "2026-05-22 07:55:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【江西景德鎮釋出暴雨紅色預警 注意防範】江西省景德鎮市氣象臺5月22日6時25分變更暴雨紅色預警訊號：目前樂平市共庫3小時降水量已達102.8毫米，預計未來3小時內，樂平東北部強降水仍將持續，請注意防範強降雨可能引發的城鄉內澇、中小河流洪水、山洪和地質災害等次生災害。"
+    },
     {
       "id": "4893752",
       "time": "2026-05-22 07:53:34",
@@ -145287,43 +145303,6 @@
         "市場"
       ],
       "text": "日經225指數上午開盤報62878.71點，漲幅0.36%。"
-    },
-    {
-      "id": "4880802",
-      "time": "2026-05-15 07:58:13",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行資料顯示，4月份以日元計價的進口價格指數同比漲幅創2022年12月以來最快增速。"
-    },
-    {
-      "id": "te:economy:550868",
-      "time": "2026-05-15 07:58:12",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Producer Prices Change",
-        "Importance 1"
-      ],
-      "text": "Japan Producer Prices Rise the Most in Near 3 Years — Japan’s producer prices rose 4.9% yoy in April 2026, accelerating from an upwardly revised 2.9% increase in the prior month and exceeding market estimates of 3%. This was the fastest annual growth since May 2023, amid intense cost pressures following a spike in energy costs linked to supply chain disruptions from the war in Iran. Monthly, producer prices increased 2.3%, picking up from a 1.0% gain in March and marking the strongest monthly rise since April 2014."
-    },
-    {
-      "id": "4880801",
-      "time": "2026-05-15 07:57:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "此次出售將使Kakao對Dunamu的持股比例降至4.03%。"
-    },
-    {
-      "id": "4880800",
-      "time": "2026-05-15 07:56:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "Kakao將以1.003萬億韓元的價格向Hana Financial出售其持有的加密貨幣交易所運營商Dunamu的6.55%股份。"
     }
   ]
 }
