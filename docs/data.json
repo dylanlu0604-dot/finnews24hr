@@ -1,7 +1,55 @@
 {
-  "updated": "2026-05-22 01:27:16",
-  "count": 16232,
+  "updated": "2026-05-22 01:31:07",
+  "count": 16235,
   "items": [
+    {
+      "id": "4893514",
+      "time": "2026-05-22 01:30:03",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【Kepler依託Claude構建金融服務業可驗證AI架構】在從企業10-K財報中準確提取特定財務科目這一任務上，Kepler的專用模型準確率高達94%；相比之下，僅依靠常規的行業最頂尖大模型（Frontier models），得分僅在38%-46%之間。針對Anthropic近期釋出的客戶案例研究《Kepler如何依託Claude構建面向金融服務業的可驗證AI》，Kepler進一步披露了其底層的技術架構。該平臺目前已深度索引了2600萬份美國證券交易委員會（SEC）申報檔案、5000萬份其他公開文件以及100萬份私人市場文件，涵蓋全球27個主要市場的14,000家企業。"
+    },
+    {
+      "id": "mkt:019e4b95-e33e-7aa1-957f-fb9c5cffba2b",
+      "time": "2026-05-22 01:29:34",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact bullish"
+      ],
+      "text": "KENTUCKY SCHOOL DISTRICT AGREES TO DISMISS SOCIAL MEDIA ADDICTION CLAIMS AGAINST META - COURT FILING"
+    },
+    {
+      "id": "4893513",
+      "time": "2026-05-22 01:28:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "英鎊持穩，匯率為1英鎊兌1.3434美元。"
+    },
+    {
+      "id": "4893512",
+      "time": "2026-05-22 01:27:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "受美伊最終協議相關報道影響，美元指數回吐早前漲幅，最新上漲0.08%，報99.22點。"
+    },
+    {
+      "id": "4893511",
+      "time": "2026-05-22 01:27:24",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【據悉美伊協議的最終草案已經達成 將在未來數小時內公佈】據報道，在巴基斯坦斡旋下，美伊協議的最終草案已經達成，預計將在未來數小時內公佈。該草案包括在所有戰線立即全面停火；各方相互承諾不針對基礎設施；波斯灣和霍爾木茲海峽的航行自由將在聯合監測機制下得到保障；針對伊朗的制裁將逐步解除，以換取伊朗遵守協議條款；關於未解決問題的談判將在最多七天內開始。"
+    },
     {
       "id": "4893510",
       "time": "2026-05-22 01:23:42",
@@ -145863,30 +145911,6 @@
         "國際"
       ],
       "text": "市場訊息：美國環境保護署擬將拜登時期一項機動車大幅減排空氣汙染的法規執法落地時間推遲兩年。"
-    },
-    {
-      "id": "mkt:019e2789-64e0-7bb5-b4d1-6a034e8edd97",
-      "time": "2026-05-15 01:29:36",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "IRANIAN LAWMAKER PROPOSES SHUTTING DOWN BAB AL-MANDAB STRAIT – IRAN INTL"
-    },
-    {
-      "id": "mkt:019e2787-8b3c-7bb5-b4d1-63c591e2c41f",
-      "time": "2026-05-15 01:27:34",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "ISRAELI BROADCASTING: ISRAEL PREPARES FOR SCENARIO OF RETURN TO WAR AND READINESS FOR POTENTIAL IRANIAN RESPONSE"
     }
   ]
 }
