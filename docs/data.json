@@ -1,7 +1,19 @@
 {
-  "updated": "2026-05-22 05:05:52",
-  "count": 16221,
+  "updated": "2026-05-22 05:09:50",
+  "count": 16218,
   "items": [
+    {
+      "id": "te:economy:552861",
+      "time": "2026-05-22 05:08:05",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Korea",
+        "Consumer Confidence",
+        "Importance 2"
+      ],
+      "text": "South Korea Consumer Confidence Rises in May — South Korea’s Composite Consumer Sentiment Index rose by 6.9 points to 106.1 in May 2026, as households grew more optimistic about economic conditions and income prospects. Sentiment regarding current living standards increased to 93 from 91, while expectations for future living standards rose five points to 97. Consumer sentiment for future household income edged up to 100, and expectations for future household spending increased to 110. Confidence in current domestic economic conditions jumped 15 points to 83, while expectations for future economic conditions rose 14 points to 93. Meanwhile, inflation expectations remained stable, with the one-year ahead expected inflation rate at 2.8%, while three-year and five-year ahead expectations both stood at 2.6%."
+    },
     {
       "id": "4893638",
       "time": "2026-05-22 05:04:20",
@@ -145809,38 +145821,6 @@
         "公司"
       ],
       "text": "G-III 服裝集團將攜手 WHP Global，共同持有MARC JACOBS品牌股權。"
-    },
-    {
-      "id": "4880632",
-      "time": "2026-05-15 05:08:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部發言人：有民眾支援作後盾的外交，能夠堅定直面敵對勢力。"
-    },
-    {
-      "id": "4880631",
-      "time": "2026-05-15 05:08:38",
-      "tags": [
-        "市場"
-      ],
-      "text": "週四（5月14日）紐約尾盤（週五北京時間04:59），離岸人民幣（CNH）兌美元報6.7867元，較週三紐約尾盤漲7點，日內整體交投於6.7882-6.7816元區間。"
-    },
-    {
-      "id": "4880630",
-      "time": "2026-05-15 05:07:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國最高法院就延長暫緩執行一項墮胎藥郵寄禁令司法裁決的期限已過。美國最高法院未就下一步行動發表任何宣告。"
-    },
-    {
-      "id": "4880629",
-      "time": "2026-05-15 05:06:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "路威酩軒集團與WHP Global 、簽署協議，收購MARC JACOBS品牌。"
     }
   ]
 }
