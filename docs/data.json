@@ -1,7 +1,71 @@
 {
-  "updated": "2026-05-21 15:21:47",
-  "count": 15864,
+  "updated": "2026-05-21 15:25:49",
+  "count": 15865,
   "items": [
+    {
+      "id": "4892102",
+      "time": "2026-05-21 15:24:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "育碧股價跌幅擴大，目前已下跌13.6%。"
+    },
+    {
+      "id": "4892101",
+      "time": "2026-05-21 15:23:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國監管機構稱擬允許境外散戶投資者透過綜合賬戶進行ETF交易】韓國金融監管機構負責人週四表示，該機構將很快修訂境外散戶投資者的相關規定，允許他們透過所謂的“綜合賬戶”買賣交易所交易基金（ETF）。此舉旨在吸引更多外國資本進入韓國股市。目前，外國投資者只能透過綜合賬戶直接交易韓國股票，而不能在韓國券商處開設單獨賬戶。"
+    },
+    {
+      "id": "te:economy:552607",
+      "time": "2026-05-21 15:22:36",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "India",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "India 10Y Yield Extends Gains — The yield on India’s 10-year G-Sec hovered around 7.1%, extending gains for a fourth consecutive session as markets priced in tighter domestic policy expectations. Sentiment was driven primarily by reports that the Reserve Bank of India is weighing all options to support the rupee, including a possible rate hike, additional currency swap operations, and steps to attract overseas dollar inflows. The rupee’s slide toward 97 per dollar has intensified internal RBI discussions, keeping policy tightening in focus ahead of the June 3–5 monetary policy meeting. Additional support came from a rise in US Treasury yields, with the 10-year note edging up to around 4.59% as markets tracked firmer oil prices and Fed minutes that reinforced a cautious but still inflation-sensitive stance, keeping expectations of potential future tightening in play."
+    },
+    {
+      "id": "mkt:019e496a-3241-7bb3-9592-96324d6db297",
+      "time": "2026-05-21 15:22:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "CHINA FOREIGN MINISTRY, ON TRUMP SAYING HE WILL TALK TO TAIWAN PRESIDENT: URGES US TO ACT ON COMMON UNDERSTANDING REACHED DURING SUMMIT"
+    },
+    {
+      "id": "4892100",
+      "time": "2026-05-21 15:22:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【港股科網股持續下挫，嗶哩嗶哩-W跌近8%】港股科網股持續下挫，嗶哩嗶哩-W跌近8%，百度集團-SW跌超6%，快手-W跌近6%，阿里巴巴-W跌超4%。"
+    },
+    {
+      "id": "mkt:019e4969-c797-7ee7-b690-0034f5907693",
+      "time": "2026-05-21 15:22:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "CHINA FOREIGN MINISTRY, ON TRUMP SAYING HE WILL TALK TO TAIWAN PRESIDENT: STOP SENDING WRONG SIGNAL TO TAIWAN INDEPENDENT SEPARATIST FORCES"
+    },
+    {
+      "id": "4892099",
+      "time": "2026-05-21 15:21:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【香港機場4月份客運量增長9.4%】5月21日，據香港機場管理局資料顯示，香港機場4月份客運量為567萬人次，同比增長9.4%；4月份貨運量為42.3萬噸，同比增長4.9%；航班起降量為34,445架次，同比增長5.5%。"
+    },
     {
       "id": "4892098",
       "time": "2026-05-21 15:20:28",
@@ -61,6 +125,14 @@
         "Importance 1"
       ],
       "text": "ASX 200 Rallies as Rate Hike Fears Ease — The S&P/ASX 200 surged 125 points, or 1.5%, to 8,622 on Thursday, swinging from the prior session’s losses with broad-based gains led by electronic tech, non-energy minerals, transport, and financials. Sentiment firmed as April’s unexpected employment decline in Australia bolstered hopes that the central bank could pause its tightening cycle. Meanwhile, flash PMI showed factory activity still expanding in May despite softening from April. Wall Street’s bullish momentum on Wednesday added further support, with optimism over a potential U.S.–Iran peace deal tempering inflation and rate fears. However, caution emerged ahead of April domestic CPI due next week, after March prices surged 4.6% yoy, the fastest since September 2023, driven by higher fuel costs amid the Middle East conflict. The big four banks rose between 0.9% to 2.3%. Other notable movers were BHP Group (3.1%), Evolution Mining (3.8%), Brambles (3.5%), and Bluescope Steel Ltd. (2.3%)."
+    },
+    {
+      "id": "4892093",
+      "time": "2026-05-21 15:17:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【抖音電商開展盲盒潮玩專項治理】據抖音電商訊息，近期，平臺巡查時發現，個別商家及達人在售賣、推廣潮玩盲盒過程中，存在抽取機率不透明、以不確定性方式推廣商品、透過博弈心理誘導使用者消費，或誘導消費者跳轉至第三方網站等進行積分兌換等違規行為。上述行為損害了消費者權益，也干擾了商家正常經營秩序。為保障行業健康發展，平臺將進一步加大治理力度，對違規商家及達人依法依規採取相應處置，包括但不限於：商品封禁、停業整頓、扣除保證金、店鋪清退等。"
     },
     {
       "id": "4892092",
@@ -142718,72 +142790,6 @@
         "國際"
       ],
       "text": "【英國一季度經濟環比增0.6% 伊朗戰事與政治危機加劇不確定性】英國國家統計局週四公佈初步資料顯示，英國一季度經濟環比增長0.6%。 該資料與路透調查經濟學家對1—3月經濟增速的預期一致；英國去年第四季度經濟增速已上修至0.2%。 英國國家經濟與社會研究所副經濟學家弗格斯・希門尼斯—英格蘭週四點評稱，一季度GDP雖然表現相對強勁，但基本已是過往滯後資料。他在郵件分析中指出：“儘管3月經濟仍保持增長，但中東衝突過後，經濟已顯現內生疲軟跡象：商業信心受挫、投入品通脹抬頭、職位空缺數量持續下滑。” 他補充道：“與此同時，本次經濟資料超預期向好，疊加消費支出與採購經理人指數（PMI）表現韌性，表明英國經濟正處於調整階段，而非全面衰退。”英國執政黨工黨地方選舉慘敗後，首相基爾・斯塔默過去一週深陷下臺呼聲。英國財政大臣蕾切爾・裡夫斯就最新經濟增速表態稱，資料印證政府經濟規劃方向正確。她在郵件宣告中表示：“當下絕非冒險動搖經濟穩定之時，貿然變動只會令家庭與企業處境惡化。本屆政府將穩步推進工作，打造更強勁、更具韌性、面向未來的國民經濟。”"
-    },
-    {
-      "id": "te:markets:550613",
-      "time": "2026-05-14 15:25:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "FTSE 100 Lags, Burberry Down Over 4% — The FTSE 100 traded mostly flat on Thursday, lagging other European markets, as several heavyweight stocks went ex-dividend, weighing on the UK index. HSBC Holdings, BP, GSK, Tesco and Coca Cola HBC were all trading without entitlement to upcoming payouts, pressuring the benchmark. Also, Burberry shares fell more than 4% despite reporting quarterly sales that beat estimates, supported by strong demand in China and the Americas, while the company also announced William Jackson as its new chair. National Grid rose more than 1% after committing at least £70 billion over the next five years to upgrade and expand energy networks across the UK and the US Northeast, despite underlying operating profit missing estimates. On the economic front, UK GDP grew 0.6% in the first quarter, while annual growth came in at 1.1%, beating expectations and improving from the previous quarter. March data also surprised to the upside with growth of 0.3% versus forecasts for a 0.1% contraction."
-    },
-    {
-      "id": "4879383",
-      "time": "2026-05-14 15:24:59",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【外交部：中方願同美方一道將中美關係新定位轉化為相向而行的行動】外交部發言人郭嘉昆14日在例行記者會上回答提問時表示，今天上午，習近平主席同特朗普總統舉行會談，雙方就構建“中美建設性戰略穩定關係”新定位達成共識，為未來3年乃至更長時間的中美關係提供戰略指引。郭嘉昆說，“建設性戰略穩定”應該是合作為主的積極穩定、競爭有度的良性穩定、分歧可控的常態穩定、和平可期的持久穩定。中方願同美方一道，將中美關係新定位轉化為相向而行的行動，共同推動中美關係穩定、健康、可持續發展。(新華社)"
-    },
-    {
-      "id": "4879382",
-      "time": "2026-05-14 15:24:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【香港樂風集團創辦人周佩賢旗下樂風資本被申請清盤】據香港01等港媒報道，香港地產商樂風集團創辦人及主席周佩賢於本週二（5月12日）燒炭身亡，終年43歲。集團的相關公司樂風資本有限公司昨（13日）被一名債權人入稟香港高等法院，申請清盤。根據司法機構網頁顯示，案件排期至8月5日聆訊。此外，周佩賢早前被5人申請破產，該案則排期至6月16日聆訊。"
-    },
-    {
-      "id": "mkt:019e255e-28f9-7aa5-b400-63c824d6ccd4",
-      "time": "2026-05-14 15:23:00",
-      "tags": [
-        "MKT News",
-        "Important",
-        "005930.KS",
-        "Impact bearish"
-      ],
-      "text": "SAMSUNG ELECTRONICS UNION LEADER IN SOUTH KOREA SAYS A STRIKE WILL BE LAUNCHED IF MANAGEMENT DOES NOT RESPOND TO ITS DEMANDS BY 10 A.M. FRIDAY, ACCORDING TO A STATEMENT"
-    },
-    {
-      "id": "4879381",
-      "time": "2026-05-14 15:22:26",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【全球硫供應銳減 半導體用氫氟酸價格或將上漲】Solbrain、ENF Technology、Huseong等韓國無水氫氟酸生產商，預計將在6月和7月大幅上調產品價格，其主要客戶包括三星電子、SK海力士等半導體公司。由於霍爾木茲海峽的航運中斷，全球超過30%的硫供應中斷。因此，硫酸價格大幅上漲，無水氫氟酸的價格也隨之上漲，其價格較年初已上漲約40%。"
-    },
-    {
-      "id": "4879380",
-      "time": "2026-05-14 15:22:14",
-      "tags": [
-        "市場"
-      ],
-      "text": "【今年1至4月全國期貨市場累計成交額同比增長42.75%】中國期貨業協會公佈的資料顯示，1至4月全國期貨市場累計成交量為34.56億手，累計成交額為331.47萬億元，同比分別增長30.02%和42.75%。期貨市場持續為產業鏈供應鏈提供支撐，積極服務實體經濟高質量發展。（央視新聞）"
-    },
-    {
-      "id": "4879379",
-      "time": "2026-05-14 15:21:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華瑞股份：暫無重組借殼或資產注入計劃】5月14日，針對投資者在互動平臺關於“ 貴公司是否重組借殼或者資產注入？ ”的提問，華瑞股份回應，公司目前暫沒有相關重組借殼或者資產注入的計劃。"
     }
   ]
 }
