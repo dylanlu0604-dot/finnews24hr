@@ -1,7 +1,55 @@
 {
-  "updated": "2026-05-22 11:34:04",
-  "count": 16166,
+  "updated": "2026-05-22 11:37:57",
+  "count": 16167,
   "items": [
+    {
+      "id": "4894116",
+      "time": "2026-05-22 11:37:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "利仁科技在互動平臺表示，公司主營業務不包括電子布和光通訊光模組相關業務，未來2-3年不會轉型該行業。"
+    },
+    {
+      "id": "4894115",
+      "time": "2026-05-22 11:36:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬來西亞能源供應預計可維持到7月。"
+    },
+    {
+      "id": "mkt:019e4dc0-674f-7aa1-9584-fc414969f716",
+      "time": "2026-05-22 11:35:14",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "NOMURA EXPECTS US FED TO KEEP INTEREST RATES UNCHANGED IN 2026 VS PRIOR FORECAST OF RATE CUTS IN SEPTEMBER AND DECEMBER THIS YEAR"
+    },
+    {
+      "id": "4894114",
+      "time": "2026-05-22 11:35:12",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "野村預測，美聯儲2026年將維持利率不變，修改了此前「今年9月和12月各降息一次」的預期。"
+    },
+    {
+      "id": "4894113",
+      "time": "2026-05-22 11:33:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國生物物種“家底”又厚了，2026版名錄新增6154個】5月22日是第26個國際生物多樣性日，中國科學院生物多樣性委員會發布了《中國生物物種名錄2026版》。《中國生物物種名錄2026版》共收錄物種及種下單元168871個，包括155266個物種及13605個種下單元，比2025版名錄新增6154個物種及種下單元。中國是唯一每年都發布生物物種名錄的國家，該物種名錄的持續更新，夯實了中國生物多樣性“家底”。未來，《中國生物物種名錄》將繼續推動物種資訊在全球範圍內的深度融合與共享，支撐全球生物多樣性研究與保護。"
+    },
     {
       "id": "4894111",
       "time": "2026-05-22 11:32:28",
@@ -145252,47 +145300,6 @@
         "國際"
       ],
       "text": "亞洲開發銀行：準備向菲律賓提供高達17.5億美元的融資。"
-    },
-    {
-      "id": "4881144",
-      "time": "2026-05-15 11:37:53",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本20年期國債收益率升至3.605%，創1996年以來新高。"
-    },
-    {
-      "id": "4881143",
-      "time": "2026-05-15 11:35:18",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達70億港元。"
-    },
-    {
-      "id": "4881142",
-      "time": "2026-05-15 11:34:37",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【新加坡航空稱將不顧中東衝突繼續擴張網路】新加坡航空(Singapore Airlines)執行長Goh Choon Phong週五表示，儘管中東局勢存在不確定性，但該公司將繼續擴張其航線網路。Goh Choon Phong在一次吹風會上說，衝突導致的燃料成本上升是該航空公司受到的最大影響之一，不過除了暫時減少飛往中東的航班外，該公司沒有削減運力。他補充說，這家城市國家的航空公司將繼續尋找機會以抓住航空客運量。Goh Choon Phong還表示，新加坡航空仍致力於對印度航空的投資，稱其對該航空公司的投資是一項“長期博弈“。他說，由於沒有國內航空市場，建立第二個海外樞紐對新加坡航空的長期增長至關重要。"
-    },
-    {
-      "id": "mkt:019e29b2-d4bd-7bb5-b4d5-f6663daae0fd",
-      "time": "2026-05-15 11:34:06",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "Industrial Metals",
-        "XAUUSD",
-        "Impact mixed"
-      ],
-      "text": "【China Futures Midday Mostly Lower; Silver Slumps Over 7%】China’s most active futures contracts are mostly lower at the midday break, with SC crude and styrene (EB) up over 2%, while the containerized freight index (Europe route), PX, LPG, eggs and PTA rise over 1%. On the downside, silver tumbles over 7%, platinum falls over 5%, palladium drops over 4%, while No.20 rubber, rubber, soybean No.2 and tin decline over 2%. Butadiene rubber, nickel, cotton and industrial silicon lose over 1%."
     }
   ]
 }
