@@ -1,7 +1,73 @@
 {
-  "updated": "2026-05-22 10:19:50",
-  "count": 16150,
+  "updated": "2026-05-22 10:23:43",
+  "count": 16152,
   "items": [
+    {
+      "id": "4894016",
+      "time": "2026-05-22 10:22:52",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國家發改委：將持續關注農業生產形勢和糧食價格走勢 統籌做好化肥保供穩價工作】國家發展改革委政策研究室副主任李超在新聞釋出會上表示，受外部因素影響，今年春耕用肥高峰期間，國際化肥市場大幅波動。我們會同有關方面，壓實重點企業保供責任、提前投放儲備、保障口岸接卸和國內集疏運暢通、保障磷肥生產所需硫資源供應、加強市場預期引導，有力保障春耕期間主要化肥品種供應充足、價格基本穩定，比如國內尿素價格比國際市場每噸低3500元左右，有效滿足了國內高峰用肥需求。下一步，我們將持續關注農業生產形勢和糧食價格走勢，統籌做好化肥保供穩價工作，為廣大農民和農業經營主體提供更多便利。"
+    },
+    {
+      "id": "4894015",
+      "time": "2026-05-22 10:22:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "【嘉德利盤中漲超625%，觸及臨停】A股嘉德利盤中漲625.89%，現報114.40元，觸及臨停。"
+    },
+    {
+      "id": "mkt:019e4d7d-80c0-7aa1-9584-0082150931fc",
+      "time": "2026-05-22 10:22:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "CNH",
+        "Copper"
+      ],
+      "text": "CHINA NDRC SPOX: TO COORDINATE GOVT FUNDS, POLICY FINANCIAL TOOLS TO BOOST PRIVATE INVESTMENT"
+    },
+    {
+      "id": "4894014",
+      "time": "2026-05-22 10:21:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "【電力板塊短線拉昇，恆盛能源此前漲停】電力板塊短線拉昇，恆盛能源此前漲停，京能熱力、杭州熱電、華光環能、寧波能源、大連熱電等跟漲。"
+    },
+    {
+      "id": "4894013",
+      "time": "2026-05-22 10:20:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股人工智慧概念股走強 智譜漲超18%】截至發稿，智譜(02513.HK)漲18.02%，滴普科技(01384.HK)漲17.40%，五一視界(066651.HK)漲8.55%。"
+    },
+    {
+      "id": "mkt:019e4d7b-f074-7aa1-9583-fc793f546a7c",
+      "time": "2026-05-22 10:20:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "CHINA NDRC: PEAK POWER LOAD FORECAST TO HIT 1.6 BLN KW THIS SUMMER, UP ~90 MLN KW YOY"
+    },
+    {
+      "id": "4894012",
+      "time": "2026-05-22 10:19:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "京東方Ａ成交額達100億元，現跌1.92%。"
+    },
     {
       "id": "4894011",
       "time": "2026-05-22 10:18:42",
@@ -145147,51 +145213,6 @@
         "Impact bearish"
       ],
       "text": "BAIDU DOWN OVER 3%"
-    },
-    {
-      "id": "te:markets:550928",
-      "time": "2026-05-15 10:22:48",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Turkey",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Turkish Lira Hits Record Low — The Turkish lira fell past 45.5 per US dollar in mid-May, hitting a fresh record low after the central bank signaled that disinflation will be slower than previously expected amid energy and food price shocks linked to the Middle East conflict. This comes against the backdrop of a disinflation strategy that relies on maintaining a degree of real appreciation in the lira, aiming to prevent currency depreciation from outpacing inflation and gradually anchor price stability. However, this approach is under strain as inflation pressures remain elevated. Policymakers now project end-2026 inflation at 26%, above the 15%–21% forecast range set in February. Consumer prices also rose 4.18% month-on-month in April, pushing the annual inflation rate to 32.37%, a six-month high and above market expectations of 31%. In response, the central bank has kept its policy rate at 37% for two straight meetings but has effectively tightened liquidity by lending at a higher 40% rate since the conflict began."
-    },
-    {
-      "id": "4881058",
-      "time": "2026-05-15 10:21:48",
-      "tags": [
-        "市場"
-      ],
-      "text": "【電機板塊短線拉昇，科力爾漲停】電機板塊短線拉昇，科力爾漲停，華新精科、兆威機電、大洋電機、凱中精密、鳴志電器等紛紛走高。"
-    },
-    {
-      "id": "4881057",
-      "time": "2026-05-15 10:21:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【農業農村部：全國能繁母豬正常保有量下調至3750萬頭左右】為完善生豬產能綜合調控機制，近日，農業農村部印發《生豬產能綜合調控實施方案（2026年修訂）》。《方案》綜合考慮豬肉市場供需、生豬生產效率提升等因素，設定全國能繁母豬正常保有量穩定在3750萬頭左右，是自2024年2月以來再次下調正常保有量目標。《方案》明確，適當收緊能繁母豬存欄量綠色區域和黃色區域上限以及黃色區域下限，建立產能分級聯動調控機制，強化生產和市場預期引導，促進生豬市場供需更加適配。同時，將能繁母豬存欄總量10萬頭以上的大型集團養殖企業（包括其下屬養殖企業）納入全國生豬產能綜合調控監測名單，各省份根據實際情況確定本區域調控監測名單，對監測名單上的企業實行年度生產備案管理，壓實監測名單內養殖企業備案生產責任，健全跟蹤問效和激勵約束機制。注重逆週期調節，加強生產和市場監測預警，引導養殖場戶透過調整母豬配種和淘汰計劃、調整仔豬補欄計劃及調節育肥豬出欄體重等方式，綜合調控生豬上市量和豬肉供應量，穩定市場價格。"
-    },
-    {
-      "id": "4881056",
-      "time": "2026-05-15 10:21:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "【威爾當選索羅門群島新總理 】索羅門群島總督大衛·蒂瓦·卡普15日宣佈，索羅門群島議會當天選舉馬修·威爾為該國新總理。索羅門群島議會共有50個席位。在當天選舉投票開始前，前副總理梅納西·梅蘭加退出競選。剩下的兩名候選人中，威爾以26票擊敗前外長彼得·查尼爾·阿格瓦卡，當選新總理。本月7日，索羅門群島議會投票透過對時任總理傑裡邁亞·馬內萊的不信任動議，馬內萊下臺，其政府作為看守政府履職至選出新總理。"
-    },
-    {
-      "id": "4881055",
-      "time": "2026-05-15 10:19:56",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "液冷伺服器概念異動拉昇，大元泵業漲停，此前金富科技漲停，華升股份、精研科技、強瑞技術、博傑股份跟漲。"
     }
   ]
 }
