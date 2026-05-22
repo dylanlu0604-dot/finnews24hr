@@ -1,7 +1,87 @@
 {
-  "updated": "2026-05-22 22:10:29",
-  "count": 16115,
+  "updated": "2026-05-22 22:14:25",
+  "count": 16114,
   "items": [
+    {
+      "id": "4895456",
+      "time": "2026-05-22 22:13:42",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4500美元/盎司，日內跌0.94%。"
+    },
+    {
+      "id": "mkt:019e5008-657c-7224-83c0-1c7443bbaf3d",
+      "time": "2026-05-22 22:13:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "TRADERS FULLY PRICE QUARTER-POINT FED HIKE BY END OF 2026"
+    },
+    {
+      "id": "4895454",
+      "time": "2026-05-22 22:12:35",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "交易員已充分消化美聯儲在2026年底前加息25個基點的預期。"
+    },
+    {
+      "id": "em:qqyh_mlc:202605223747058915",
+      "time": "2026-05-22 22:12:17",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲官員沃勒：不認為美聯儲近期應考慮加息】美聯儲官員沃勒表示，4月份消費者價格上漲的範圍令人擔憂，目前的立場是短期內維持利率穩定；不認為美聯儲近期應考慮加息。"
+    },
+    {
+      "id": "4895453",
+      "time": "2026-05-22 22:11:41",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【德國商業銀行：伊朗戰爭程序仍是歐元前景的關鍵 】德國商業銀行的Volkmar Baur在一份報告中表示，美國和歐元區利率預期的近期轉變突顯了伊朗戰爭程序對歐元兌美元匯率的重要性。市場目前反映出年底前美國因油價上漲而加息的強烈預期，但由於對經濟增長的擔憂，市場削減了對歐元區加息的押注。Baur表示，隨著市場可能再次反映美聯儲降息的預期，衝突的迅速解決將支撐歐元。他說，如果衝突持續下去，隨著歐洲受到的經濟影響比美國更嚴重的情況變得更加明顯，歐元可能會下跌。歐元下跌0.1%，至1.1607美元。"
+    },
+    {
+      "id": "te:economy:553150",
+      "time": "2026-05-22 22:11:36",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Michigan Inflation Expectations",
+        "Importance 1"
+      ],
+      "text": "US 1-Year Inflation Outlook Revised Higher — The year-ahead inflation outlook in the United States, as compiled by the survey of the University of Michigan, was revised up to 4.8% in May 2026, from 4.5% previously and 4.7% in April, marking the highest level since August last year. Meanwhile, five-year inflation expectations were also revised to 3.9%, the highest in seven months, up from 3.4% previously and 3.5% in April."
+    },
+    {
+      "id": "mkt:019e5005-d526-7224-83c0-14a99d540d28",
+      "time": "2026-05-22 22:10:19",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "TWO-YR U.S. TREASURY YIELD NEAR SESSION HIGH AFTER DATA, LAST AT 4.123%"
+    },
     {
       "id": "4895452",
       "time": "2026-05-22 22:09:22",
@@ -144531,83 +144611,6 @@
         "Importance 1"
       ],
       "text": "Brazil Industrial Confidence Rises in May — Brazil’s Industrial Business Confidence Index rose 2 points to 47.2 in May 2026, ending a three-month sequence of declines, though it remained below the 50-point threshold that separates optimism from pessimism. The Current Conditions Index increased 2.4 points to 42.9, reflecting improved assessments of both companies’ current conditions (+2.2 points to 46.3) and the broader Brazilian economy (+2.9 points to 36.1), although perceptions remained negative overall. Meanwhile, the Expectations Index rose 1.7 points to 49.3, moving closer to the neutral 50 mark and signaling less pessimistic views for the next six months. Expectations for the Brazilian economy increased 2.2 points to 40.9, while confidence regarding firms’ own outlook improved 1.5 points to 53.5."
-    },
-    {
-      "id": "te:economy:551231",
-      "time": "2026-05-15 22:14:18",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Nigeria",
-        "Inflation Rate",
-        "Importance 0"
-      ],
-      "text": "Nigeria Inflation Rate Quickens to 5-Month High in April — Nigeria’s annual inflation rate rose for a second straight month to 15.69% in April 2026 from 15.38% in March, reaching its highest level since last November. Food inflation, the largest component of the inflation basket, quickened for the third month to 16.06% from 14.31% in March. This partly reflected the continued pass-through from the March fuel price shock linked to the Middle East conflict. However, the core inflation rate, which strips out the volatile prices of agricultural produce and energy, eased to 15.86% in April from 16.21% in the month before. On a monthly basis, the CPI index advanced by 2.13%, slowing from a 4.18% jump recorded in the prior month."
-    },
-    {
-      "id": "mkt:019e2bfc-93aa-7663-82f9-309cadd874ba",
-      "time": "2026-05-15 22:13:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ADVISORY: 2ND DAY MEETINGS OF 3RD ROUND OF ISRAEL-LEBANON DIRECT TALKS BEGIN AT US STATE DEPARTMENT"
-    },
-    {
-      "id": "4882516",
-      "time": "2026-05-15 22:13:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：土耳其據稱擬籌集12億美元為東歐北約盟友建設燃料管道。"
-    },
-    {
-      "id": "mkt:019e2bfb-d479-7663-82f9-2fd063ac031c",
-      "time": "2026-05-15 22:12:57",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "CHINA: TAIWAN IS THE MOST IMPORTANT ISSUE IN SINO-US RELATIONS"
-    },
-    {
-      "id": "4882515",
-      "time": "2026-05-15 22:12:38",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "市場訊息：第三輪黎以談判的第二日會議在美國國務院開始。"
-    },
-    {
-      "id": "4882514",
-      "time": "2026-05-15 22:12:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【香港特區政府官員歡迎IMF再次肯定香港國際金融中心角色】國際貨幣基金組織(IMF)代表團完成就香港特區的2026年第四條磋商討論後，15日發表初步總結，再次肯定香港作為國際金融中心及“超級聯絡人”的角色。香港特區政府官員當日對此表示歡迎。 代表團指出，受惠於科技相關出口表現強勁、私人需求逐步改善，以及金融市場活動反彈等利好因素，香港經濟持續復甦。 代表團表示，香港金融策略施行有道，加上穩健的系統性監管，具備優越條件進一步推進數字金融和可持續金融發展。 香港特區政府財政司司長陳茂波表示，歡迎代表團就香港經濟持續復甦的評估，並支援特區政府推行有利經濟增長和實現經濟多元化發展的財政政策。（新華社）"
-    },
-    {
-      "id": "4882513",
-      "time": "2026-05-15 22:11:40",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【隨著市場對美聯儲前景重新定價，金銀擴大跌幅】隨著戰爭引發的油價飆升和美國通脹升溫推高了對加息的預期，貴金屬擴大跌幅。紐約黃金期貨下跌3.1%，至每盎司4,543.90美元，本週跌幅料將超過4%。與此同時，白銀大跌9.7%，至每盎司77.08美元。Forex.com的Fawad Razaqzada表示：“在本週又一輪偏緊縮的美國資料公佈後，交易員繼續上調對美聯儲利率的預期。”“因此，債券收益率繼續走高。“兩年期美債收益率攀升至數月高點，令無收益資產承壓，同時DXY美元指數上漲0.4%，至99.23，使得以美元計價的大宗商品對海外買家來說更加昂貴。"
-    },
-    {
-      "id": "te:markets:551230",
-      "time": "2026-05-15 22:10:59",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Walmart Stock Price Hits 12-week High — Walmart shares increased to 133.91 USD, the highest since February 2026. Over the past 4 weeks, Walmart gained 6.03%, and in the last 12 months, it increased 37.29%."
     }
   ]
 }
