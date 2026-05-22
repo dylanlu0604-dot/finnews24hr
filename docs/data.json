@@ -1,7 +1,187 @@
 {
-  "updated": "2026-05-22 16:11:32",
-  "count": 16135,
+  "updated": "2026-05-22 16:15:27",
+  "count": 16145,
   "items": [
+    {
+      "id": "mkt:019e4ec0-1e23-777d-b23f-87e8e2a60fde",
+      "time": "2026-05-22 16:14:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CHINA CSRC, 7 OTHER DEPTS: IMPROVE REGULATORY SYSTEM AND GUIDE DOMESTIC INVESTORS TO CONDUCT OVERSEAS INVESTMENTS THROUGH LEGAL CHANNELS"
+    },
+    {
+      "id": "mkt:019e4ebf-df45-777d-b23f-78a96d2b0974",
+      "time": "2026-05-22 16:14:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "CHINA CSRC, 7 OTHER DEPTS TO STRENGTHEN CROSS-BORDER REGULATORY COOPERATION, SAFEGUARD DOMESTIC INVESTORS' PROPERTY SECURITY, AND PROPERLY HANDLE INVESTOR COMPLAINTS"
+    },
+    {
+      "id": "4894605",
+      "time": "2026-05-22 16:14:08",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【天士力：子公司獲得富馬酸伏諾拉生片藥品註冊證書】天士力公告，全資子公司江蘇天士力帝益藥業有限公司收到國家藥品監督管理局核准簽發的富馬酸伏諾拉生片《藥品註冊證書》。富馬酸伏諾拉生片原研藥於2014年12月在日本獲得上市批准，2019年12月在國內獲得上市批准，持證商為Takeda Pharmaceutical Company Limited。本品適用於反流性食管炎，與適當的抗生素聯用以根除幽門螺桿菌。截至本公告日，國內獲得富馬酸伏諾拉生片註冊證書的廠家包括江蘇帝益在內共計57家。根據米內網資料顯示，富馬酸伏諾拉生片2025年國內城市和縣級公立醫院、城市和網上藥店的銷售金額為11.08億元人民幣。截至目前，江蘇帝益針對該藥品累計研發投入為1709.31萬元人民幣。"
+    },
+    {
+      "id": "4894604",
+      "time": "2026-05-22 16:13:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【九聯科技：目前沒有800G光模組銷售出海】九聯科技5月22日在互動平臺表示，公司有400G光模組銷售訂單，目前營收佔比較小；公司目前沒有800G光模組銷售出海；靈犀智屏產品已有銷售訂單，公司正佈局AI硬體支援運營商Token經濟生態。"
+    },
+    {
+      "id": "mkt:019e4ebf-79f4-777d-b23f-74339f237770",
+      "time": "2026-05-22 16:13:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "CHINA CSRC, 7 OTHER DEPTS: REGULATORS TO SUMMON DOMESTIC BANKS PROVIDING ACCOUNT SERVICES FOR ILLEGAL CROSS-BORDER INVESTMENTS, SUPERVISE STRICT COMPLIANCE CHECKS ON FOREX OUTFLOWS, AND CRACK DOWN ON ILLEGAL CHANNELS SUCH AS UNDERGROUND BANKS"
+    },
+    {
+      "id": "te:markets:553042",
+      "time": "2026-05-22 16:13:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Set for Weekly Gain — The FTSE MIB rose 0.4% to trade around 49,340 on Friday and is on track for a weekly gain, amid optimism over a potential US–Iran agreement. US Secretary of State Marco Rubio noted there were some encouraging signs toward a possible deal, while Iranian officials also acknowledged that the gaps between the two sides have narrowed. Shares of Stellantis climbed 2.5%, rebounding from a decline in the previous day when the company unveiled its €60 billion FaSTLAne 2030 strategic plan. STMicroelectronics advanced 2.9%, UniCredit gained 1.1%, Prysmian rose 1.3%, and Avio gained 1.9%. These gains offset declines in Eni (-0.9%), Saipem (-1.2%), Lottomatica (-1.9%), and Amplifon (-1.8%). The FTSE MIB is up around 0.6% so far this week."
+    },
+    {
+      "id": "mkt:019e4ebf-285e-777d-b23f-6b2e3e00a50f",
+      "time": "2026-05-22 16:13:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "CHINA CSRC, 7 OTHER DEPTS: REGULATORS TO SUMMON AND INTERVIEW ILLEGAL CROSS-BORDER OVERSEAS INSTITUTIONS TO ENFORCE COMPLIANCE; CONDUCT INVESTIGATIONS INTO ILLEGAL ENTITIES, LAUNCH CRIMINAL INVESTIGATIONS AGAINST SUSPECTS, AND ENSURE DIVESTMENT OF ILLEGAL OPERATIONS BY DOMESTIC SUBJECTS"
+    },
+    {
+      "id": "mkt:019e4ebf-03b5-777d-b23f-6342a015a4fd",
+      "time": "2026-05-22 16:13:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bearish",
+        "CSI300",
+        "Hang Seng Index"
+      ],
+      "text": "CHINA CSRC, 7 OTHER DEPTS: ESTABLISH ROUTINE COLLABORATIVE REGULATORY MECHANISM TO CONDUCT COMPREHENSIVE MONITORING AND INSPECTIONS, REPORT MAJOR PROBLEM CLUES, AND PROMPTLY CLEAN UP INTERNET PLATFORMS, ADVERTISEMENTS, AND INFORMATION INVOLVING ILLEGAL CROSS-BORDER OPERATIONS"
+    },
+    {
+      "id": "4894603",
+      "time": "2026-05-22 16:13:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【高德上線北京市養老服務地圖】近日，北京市民政局聯合高德開發製作的北京市養老服務地圖正式上線。地圖整合了全市養老機構（含區域養老服務中心）、社群養老服務驛站等1500餘家養老服務設施資訊，全面展示機構位置、服務內容、聯絡方式等資訊，為老年人及家屬提供便捷高效的查詢指引和出行導航服務。目前，使用者只需開啟高德地圖App，搜尋“北京養老服務地圖”，即可一鍵檢視周邊養老機構的位置、聯絡方式、服務內容等詳細資訊，真正實現“就近找服務、精準享保障”。"
+    },
+    {
+      "id": "4894602",
+      "time": "2026-05-22 16:12:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【渣打行政總裁溫拓思就“低價值人力資本”言論致歉】5月22日，渣打行政總裁溫拓思發帖就“低價值人力資本”言論致歉，稱已知曉自己一些言論“讓部分同事不安”，但他同時重申了技術變革對銀行業崗位的深遠影響。溫拓思解釋稱，其核心意圖是指低附加值的崗位更容易受到自動化浪潮的衝擊，而作為一家負責任的僱主，渣打銀行有責任協助員工向更高附加值的崗位轉型。他強調，渣打多年來一直在積極投資，幫助可能因自動化而流失崗位的員工重塑技能，以獲取集團內部的新機遇。5月19日，渣打集團宣佈，計劃到2030年前將其全球範圍內的企業職能及後臺支援崗位裁減超過15%，此次裁員將波及超過7000個工作崗位。溫拓思表示，此次大規模的人員結構調整，核心驅動力是AI與自動化技術的加速應用，其目標並非傳統的成本削減，而是在部分領域“用投入的金融資本和投資資本，替代價值較低的人力資本”。"
+    },
+    {
+      "id": "mkt:019e4ebe-a1fe-777d-b23f-5b76a08a4f53",
+      "time": "2026-05-22 16:12:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bearish",
+        "CSI300",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "CHINA CSRC, 7 OTHER DEPTS: ILLEGAL EXISTING BUSINESSES TO BE CLEANED UP WITHIN 2-YEAR PERIOD; OVERSEAS INSTITUTIONS PROHIBITED FROM PROVIDING BUYING TRADES OR FUND INFLOWS FOR EXISTING DOMESTIC INVESTORS, ALLOWING ONLY OUTFLOWS VIA SELLING TRADES; WEBSITES AND TRADING SOFTWARE MUST BE COMPLETELY SHUT DOWN AFTER DEADLINE"
+    },
+    {
+      "id": "te:economy:553039",
+      "time": "2026-05-22 16:12:33",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Turkey",
+        "Tourist Arrivals",
+        "Importance 1"
+      ],
+      "text": "Turkey Tourist Arrivals Fall in April — The number of foreign visitors to Turkey fell by 9.44% year-on-year to 3.53 million in April 2025, the largest decline in a year, reversing the 5% increase recorded in the previous month. Arrivals from most of the top five source markets declined, led by Germany (-17.46%), followed by the United Kingdom (-15.14%) and Bulgaria (-5.12%). In contrast, visitor numbers from the Netherlands and Russia increased by 4.85% and 3.14%, respectively. By region, Europe remained the largest source of visitors, accounting for 56.24% of total arrivals, while Russia represented 10.97%. Istanbul continued to be the country’s most popular destination, attracting 41.72% of all foreign visitors. In the first four months of the year, total foreign arrivals declined by 2.08% to 10.37 million."
+    },
+    {
+      "id": "mkt:019e4ebe-137a-777d-b23f-5041220edc27",
+      "time": "2026-05-22 16:12:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bearish",
+        "CSI300",
+        "Hang Seng Index"
+      ],
+      "text": "CHINA CSRC, 7 OTHER DEPTS: BAN OVERSEAS INSTITUTIONS FROM DOMESTIC MARKETING, SOLICITATION, ACCOUNT OPENING, TRANSACTION PROCESSING, AND FUNDS TRANSFER; BAN DOMESTIC ENTITIES FROM ASSISTING WITH MARKETING, TRADING SERVICES, WEBSITE/SOFTWARE DEVELOPMENT, AND CUSTOMER SERVICE"
+    },
+    {
+      "id": "mkt:019e4ebd-a2e0-777d-b23f-4c23cd4fca13",
+      "time": "2026-05-22 16:11:49",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "CHINA CSRC, 7 OTHER DEPTS: CRACKDOWN TARGETS OVERSEAS INSTITUTIONS ENGAGING IN ILLEGAL CROSS-BORDER BUSINESS, DOMESTIC AFFILIATES, ILLEGAL INTERMEDIARIES SOLICITING DOMESTIC INVESTORS, AND PLATFORMS/MEDIA PUBLISHING NON-COMPLIANT INFORMATION"
+    },
+    {
+      "id": "4894601",
+      "time": "2026-05-22 16:11:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【愛爾蘭部長稱歐盟就美國貿易協議達成一致是受歡迎的舉措】在歐盟部長級會議於布魯塞爾召開前夕，愛爾蘭貿易部長海倫·麥肯蒂（Helen McEntee）發表宣告，對歐盟與美國近期達成的臨時貿易協議表示歡迎。她強調，美國是歐盟最重要的貿易伙伴，該協議的達成體現了歐洲議會及整個歐盟推進並落實雙方總體宣告的堅定決心。"
+    },
+    {
+      "id": "mkt:019e4ebd-477c-777d-b23f-4374b0b267da",
+      "time": "2026-05-22 16:11:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "CHINA CSRC, 7 OTHER DEPTS: IMPLEMENTATION PLAN AIMS TO COMPLETELY BAN ILLEGAL CROSS-BORDER OPERATIONS BY OVERSEAS SECURITIES, FUTURES, AND FUND INSTITUTIONS WITHIN 2 YEARS OF CONCENTRATED CRACKDOWN"
+    },
+    {
+      "id": "4894600",
+      "time": "2026-05-22 16:11:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雲中馬：葉程潔、葉永周已已完成減持計劃 合計減持1.5%股份】雲中馬公告，控股股東一致行動人葉程潔、葉永周已完成減持計劃，2026年5月22日分別透過大宗交易減持137.5萬股、68.75萬股，佔公司總股本1.00%、0.50%。減持後，葉程潔持股1868.69萬股，持股比例13.59%；葉永周持股430萬股，持股比例3.13%。葉福忠及其一致行動人合計持股由63.43%降至61.93%，本次權益變動觸及1%整數倍刻度。"
+    },
     {
       "id": "4894599",
       "time": "2026-05-22 16:10:42",
@@ -88,6 +268,14 @@
         "公司"
       ],
       "text": "歷峰集團執行長：相較於收購，將優先提升自有新增珠寶產能。"
+    },
+    {
+      "id": "4894593",
+      "time": "2026-05-22 16:09:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "【滬上A股平均佣金率首次跌破萬1.8】上海市證券同業公會最新資料顯示，4月上海地區A股平均佣金率為萬1.79（高頻量化業務除外），環比下降3.8%，這是上海平均佣金率首次跌破萬1.8，行業佣金率下行壓力持續凸顯。回溯近一年資料，上海地區A股佣金率整體呈階梯式下行，2025年9月、2026年2月兩次出現超過3%的環比降幅，行業價格競爭態勢未改。業內人士表示，近兩年交投活躍，在佣金率下行下券商代買收入依然保持增長，但佣金率下滑壓力不可忽視，券商正透過買方投顧等方式尋求收入結構最佳化。"
     },
     {
       "id": "mkt:019e4ebb-9d47-7bbc-85ac-6e65fc381026",
@@ -144900,75 +145088,6 @@
         "Importance 1"
       ],
       "text": "UK Natural Gas Prices at Over 5-Week High — UK natural gas futures rose to 120 pence per therm, the highest level in more than five weeks, as concerns over further disruptions to shipping through the Strait of Hormuz persisted. President Donald Trump cautioned Iran to accept a deal or risk “annihilation,” adding that his patience with Tehran was wearing thin. His remarks came even as Iran said that around 30 vessels had been permitted to transit the Strait since Wednesday evening. Washington and Tehran failed to agree on a US-drafted peace proposal earlier this week, leaving the critical waterway largely closed. Around one-fifth of the world’s LNG supply has been disrupted since the conflict began in late February. Although most gas from the Persian Gulf goes to Asia, the disruption has tightened global supply and increased competition, fueling concerns in Europe as the region needs to replenish inventories before next winter. So far this week, UK gas prices have surged more than 11%."
-    },
-    {
-      "id": "4881675",
-      "time": "2026-05-15 16:15:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【*ST東珠：涉2.9億元訴訟達成調解協議】*ST東珠公告稱，公司收到河南省駐馬店市中級人民法院送達的《民事調解書》。此前，中地公司因相關專案建設事項對公司及汝南縣住建局提起訴訟。經調解，公司與汝南縣住建局需連帶分期支付中地公司工程款本金、利息等總計2.9億元，若違約需一次性連帶支付4億元。支付全部款項後，雙方就兩案欠款結清。若調解協議順利履行，公司將按會計準則處理，最終對損益的影響以經審計的財務報告為準。"
-    },
-    {
-      "id": "mkt:019e2ab4-4019-7bb5-b4d8-965188c59d45",
-      "time": "2026-05-15 16:15:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "SOUTH KOREA TENDERS TO BUY ESTIMATED 53,800 METRIC TONS RICE SOURCED FROM THE UNITED STATES, VIETNAM AND THAILAND, TRADERS SAY"
-    },
-    {
-      "id": "4881674",
-      "time": "2026-05-15 16:14:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "交易商稱，韓國招標採購約5.38萬噸原產自美國、越南和泰國的大米。"
-    },
-    {
-      "id": "4881673",
-      "time": "2026-05-15 16:14:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【瑞意旭聯完成近億元Pre-A輪融資】5月15日，瑞意旭聯宣佈完成近億元Pre-A輪融資，本輪融資由諾庾資本、維力醫療領投，楚昌基金、橡櫟投資跟投，老股東比鄰星投資、蘇創投-天使母基金持續加註。本輪融資將主要用於推進公司植入式雙向腦機介面全棧技術的落地，加速“腦脊介面”應用場景的量產和臨床進度等。"
-    },
-    {
-      "id": "4881672",
-      "time": "2026-05-15 16:14:40",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【波蘭能源部長：暴利稅將瞄準天然氣行業】波蘭能源部長米洛什・莫蒂卡在接受波蘭 24 廣播電臺採訪時表示，擬推出的暴利稅將針對天然氣行業的超額利潤，同時政府也在考慮將其他行業納入徵收範圍。這項新稅種的實施時點及徵收週期，仍取決於目前與財政部磋商敲定的最終方案。“此舉旨在落實一項原則：在當前財政與全體民眾都在付出、所有人共同承擔犧牲的大環境下，不應有任何企業憑藉利差賺取超額暴利。”此外，波蘭政府將於 6 月初決定，是否將燃油最高限價機制延續至下半年。"
-    },
-    {
-      "id": "4881671",
-      "time": "2026-05-15 16:13:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【阿斯麥美股盤前跌超4%】阿斯麥美股盤前跌超4%，現報1520.66美元。"
-    },
-    {
-      "id": "4881670",
-      "time": "2026-05-15 16:12:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國氣象局再部署汛期氣象服務工作】5月15日，中國氣象局召開會議，再部署汛期氣象服務工作。會議指出，入汛以來，我國多地接連遭遇強對流和極端強降水天氣，特別是近期江南、華南、西南等地連續出現較強降雨過程，防汛形勢嚴峻複雜。各級氣象部門要切實提高政治站位，強化底線思維和極限思維，全力以赴做好汛期氣象服務工作。"
-    },
-    {
-      "id": "te:economy:551088",
-      "time": "2026-05-15 16:11:43",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Turkey",
-        "Government Budget Value",
-        "Importance 1"
-      ],
-      "text": "Turkey Budget Deficit Widens in April — Turkey’s central government budget posted a deficit of TRY 338.7 billion in April 2026, almost doubling from TRY 174.7 billion a year earlier as expenditure growth outpaced revenues. Total spending rose 34.7% year-on-year to TRY 1.52 trillion, driven by increases in personnel costs, current transfers, capital expenditure, and goods and services purchases. Non-interest expenditures also climbed 45.4% to TRY 1.27 trillion, while interest payments slipped 1.2% to TRY 257.6 billion. On the revenue side, inflows increased 23.9% to TRY 1.19 trillion, supported by a 28.5% rise in tax receipts to TRY 1.01 trillion, boosted by gains in income tax, VAT (domestic and import), stamp duty, and banking and insurance transaction taxes. As a result, the primary balance shifted to a deficit of TRY 81.1 billion from a surplus of TRY 85.9 billion a year earlier, reflecting faster growth in non-interest spending relative to revenues."
     }
   ]
 }
