@@ -1,7 +1,80 @@
 {
-  "updated": "2026-05-22 12:46:09",
+  "updated": "2026-05-22 12:56:51",
   "count": 16149,
   "items": [
+    {
+      "id": "mkt:019e4e0a-661d-7aa1-9585-434bfc8bd185",
+      "time": "2026-05-22 12:56:04",
+      "tags": [
+        "MKT News",
+        "0700.HK",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "【DeepSeek Pursues AGI and Open-Source Models Over Monetization Amid $10 Billion Funding Round】DeepSeek’s founder Liang Wenfeng has informed potential investors in the startup’s ongoing 70 billion yuan ($10 billion) funding round that the company will prioritize groundbreaking research toward artificial general intelligence (AGI) over short-term commercialization. Liang pledged to maintain the development of open-source models rather than focusing on monetization, contrasting with global peers shifting toward revenue generation. The funding round, which is in its final stages, could value the Chinese AI firm at approximately $45 billion to $50 billion. Prominent potential participants include Tencent Holdings, IDG Capital, Monolith Capital, and Beijing's state-backed National Artificial Intelligence Industry Investment Fund, the latter of which is in talks to invest 10 billion yuan."
+    },
+    {
+      "id": "4894202",
+      "time": "2026-05-22 12:53:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼盾維持跌勢，此前印尼經常賬戶赤字創 2019 年以來新高。"
+    },
+    {
+      "id": "mkt:019e4e06-04d0-7aa1-9585-3bfed4061b6d",
+      "time": "2026-05-22 12:51:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "【UBS: A-Shares to Replace Property as China’s Wealth Engine】A-shares are positioning themselves as the primary vehicle for Chinese household wealth, serving as a long-term alternative to real estate, according to UBS. Broad tech remains the dominant near-term growth theme, Meng Lei, China equity strategist at UBS Securities, wrote in a note. Earnings growth and sustained capital inflows could drive further upside. While favoring growth stocks in a \"slow bull\" environment, UBS also prefers cyclical sectors benefiting from recovering PPI and industrial profits, and remains positive on small-caps amid ample liquidity."
+    },
+    {
+      "id": "4894201",
+      "time": "2026-05-22 12:48:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "據招股檔案顯示，越南電子零售連鎖品牌Dien May Xanh計劃透過首次公開募股（IPO）募資約5.46億美元。"
+    },
+    {
+      "id": "4894200",
+      "time": "2026-05-22 12:46:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【宇信科技：公司投資的機器人公司包括智平方、靈心巧手】宇信科技(300674)5月22日在互動平臺表示，公司投資的機器人公司包括智平方、靈心巧手。公司圍繞“AI+全球化+Web3”三大戰略，進行業務發展和投資佈局。"
+    },
+    {
+      "id": "4894199",
+      "time": "2026-05-22 12:46:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【新疆部分旅客列車受大風天氣影響停運】從新疆鐵路部門瞭解到，受大風天氣影響，新疆鐵路部門調整5月22日、5月23日列車執行方案，部分列車停運。5月22日停運的旅客列車車次：喀什至烏魯木齊K9785次，和田至烏魯木齊7558次、5818次旅客列車停運。5月23日停運的旅客列車車次：烏魯木齊至喀什K9786次，烏魯木齊至和田7556次、5816次旅客列車停運。"
+    },
+    {
+      "id": "4894198",
+      "time": "2026-05-22 12:46:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【巴克萊：投資者關注力拓的戰略目標和資本配置】巴克萊分析師表示，在巴克萊於其歐洲領導力會議上接待這家礦企的投資者關係團隊時，投資者關注力拓的戰略目標、資本配置以及主要大宗商品價格前景。這些巴克萊分析師表示：“綜合投資者的興趣顯著，對力拓在受電氣化、AI和國防資本支出浪潮影響的一級資產中的定位表現出熱情。“巴克萊對力拓在倫敦上市的股票給予中性評級，目標價為6,600便士。"
+    },
+    {
+      "id": "4894197",
+      "time": "2026-05-22 12:45:34",
+      "tags": [
+        "資料",
+        "市場"
+      ],
+      "text": "【瑞銀：A股將取代房地產成為中國居民財富的主要載體】瑞銀表示，A股市場正被定位為中國居民財富主要的儲存方式，長期取代房地產的新選擇。瑞銀證券中國股票策略分析師孟磊在一份報告中寫道，廣義科技板塊仍是近期最主要的增長主題。獲利增長和持續的資本流入可能會進一步推動上漲空間。看好“慢牛”環境下的增長股，同時也偏好受益於PPI與工業企業利潤回升的週期性板塊。基於流動性充裕，繼續看好小盤股。"
+    },
     {
       "id": "4894196",
       "time": "2026-05-22 12:44:40",
@@ -145056,75 +145129,6 @@
         "公司"
       ],
       "text": "【南芯科技在海南成立投資新公司】企查查APP顯示，近日，海南南芯晟投資有限公司成立，註冊資本1.25億元，經營範圍包含：創業投資（限投資未上市企業）；以自有資金從事投資活動。企查查股權穿透顯示，該公司由南芯科技全資持股。"
-    },
-    {
-      "id": "4881233",
-      "time": "2026-05-15 12:55:08",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國2年期國債收益率升至2025年3月以來最高水平。"
-    },
-    {
-      "id": "4881232",
-      "time": "2026-05-15 12:54:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【抖音商城618百億補貼、億級流量扶持商家】5月15日訊息，2026年抖音商城618於今日正式開啟，延續至6月18日結束。記者獲悉，抖音電商加碼扶持力度，投入百億消費券補貼及億級流量資源，並同步落地商品卡免傭、開放更多技術工具、提升物流保障等多重舉措。（介面新聞）"
-    },
-    {
-      "id": "4881231",
-      "time": "2026-05-15 12:54:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "【浙江兩山迴圈科技公司註冊成立】企查查APP顯示，近日，浙江兩山迴圈科技有限公司成立，法定代表人為陳衛，註冊資本為5000萬元，經營範圍包含：資源迴圈利用服務技術諮詢；資源再生利用技術研發；建築廢棄物再生技術研發；電池銷售；新材料技術研發等。企查查股權穿透顯示，該公司由浙江省興合集團有限責任公司全資持股。"
-    },
-    {
-      "id": "4881230",
-      "time": "2026-05-15 12:53:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "【力箭系列運載火箭實現100星發射里程碑】剛剛，由中科宇航研製的力箭一號遙十三運載火箭在東風商業航天創新試驗區發射，採用“一箭5星”方式5顆衛星精準送入預定軌道，發射任務取得圓滿成功。至此，力箭系列運載火箭累計將100顆衛星送入太空，入軌載荷總質量突破18噸。（央視軍事）"
-    },
-    {
-      "id": "4881229",
-      "time": "2026-05-15 12:53:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "三星電子跌幅擴大至7%。"
-    },
-    {
-      "id": "4881228",
-      "time": "2026-05-15 12:53:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "【阿根廷將在烏斯懷亞開展漢坦病毒調查】阿根廷衛生部14日確認，一支調查團隊將於下週前往該國南部火地島省首府烏斯懷亞展開調查，以確定當地是否存在漢坦病毒。據阿根廷《布宜諾斯艾利斯時報》報道，目前無法確定船上乘客最初感染的時間或地點，阿根廷國家實驗室與衛生研究所管理局卡洛斯·馬爾夫蘭研究所的專家將與火地島省衛生部門共同調查，預計4周後可公佈相關結果。（新華社）"
-    },
-    {
-      "id": "4881227",
-      "time": "2026-05-15 12:50:38",
-      "tags": [
-        "公司",
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "受三星、SK海力士拖累，韓國KOSPI指數下跌5%。"
-    },
-    {
-      "id": "4881226",
-      "time": "2026-05-15 12:46:27",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【產能傾斜下利基型儲存“接漲”，SLC NAND年內預計再漲120%】記者獲悉，在三星、鎧俠等頭部大廠的大規模“撤退”之下，利基型儲存的上游供給預計在今年明顯減少，進而引起產品價格飆漲。東芯股份證券部人士向記者表示，公司SLC NAND價格在一季度漲幅約為50%-60%；北京君正證券部人士也表示，目前利基型儲存產品的確在漲價。多位業內人士認為，利基型儲存的這輪升浪遠未結束。TrendForce集邦諮詢分析師羅智文表示，SLC預計2Q26至4Q26期間，價格仍有約120%漲幅；MLC 今年下半年預估仍有約100%的上漲空間。（財聯社）"
     }
   ]
 }
