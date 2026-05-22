@@ -1,7 +1,19 @@
 {
-  "updated": "2026-05-23 05:36:28",
-  "count": 16161,
+  "updated": "2026-05-23 05:40:19",
+  "count": 16162,
   "items": [
+    {
+      "id": "te:markets:553200",
+      "time": "2026-05-23 05:36:21",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Mexico",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Mexican Peso Holds Near 17.3 per USD — The Mexican peso traded near 17.3 per USD in late May as markets monitored developments in peace negotiations between the US and Iran while digesting key domestic economic data. With Pakistan acting as mediator, the US and Iran moved somewhat closer to a potential agreement to end the conflict, although disagreements over Tehran’s uranium stockpiles and control of the Strait of Hormuz continued to prevent a final deal. Domestically, investors assessed revised GDP data showing Mexico’s economy contracted 0.6% quarter-on-quarter in Q1 while expanding just 0.2% from a year earlier. Inflation also slowed more than expected in the first half of May, though it remained above the central bank’s target, with annual CPI easing to 4.1%. The developments followed Moody’s downgrade of Mexico’s sovereign rating to “Baa3,” the lowest investment-grade level, and S&P Global Ratings’ decision to revise the outlook on the country’s “BBB” rating to negative."
+    },
     {
       "id": "4895844",
       "time": "2026-05-23 05:35:24",
