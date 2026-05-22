@@ -1,7 +1,18 @@
 {
-  "updated": "2026-05-23 02:25:13",
-  "count": 16077,
+  "updated": "2026-05-23 02:28:53",
+  "count": 16074,
   "items": [
+    {
+      "id": "te:markets:553189",
+      "time": "2026-05-23 02:25:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Sugar Falls by 1.43% — Top commodity losers are Sugar (-1.43%), Coffee (-0.71%) and Cotton (-0.69%). Gains are led by Cocoa (1.35%), Oat (1.17%) and Palm Oil (0.63%)."
+    },
     {
       "id": "mkt:019e50eb-1c88-788e-b251-be6efbc57085",
       "time": "2026-05-23 02:20:45",
@@ -144321,42 +144332,6 @@
         "其他"
       ],
       "text": "Tiger Global Management LLC：持倉變動統計截至2026年3月31日，對比區間為截至2025年12月31日的上一個季度。"
-    },
-    {
-      "id": "4882817",
-      "time": "2026-05-16 02:28:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國證券交易委員會（SEC）檔案： Tiger Global Management LLC將其在Spotify的持股比例提升25.3%，總持股增至160萬股。"
-    },
-    {
-      "id": "4882816",
-      "time": "2026-05-16 02:26:07",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【國際金價銀價大跌】受美元走強、美國國債收益率上升影響，國際黃金、白銀價格15日大跌，其中，金價跌至逾一週低點。當天上午，紐約商品交易所6月黃金期價跌破每盎司4600美元，跌幅超過3%；7月白銀期價跌破每盎司80美元，跌幅超過10%。（澎湃）"
-    },
-    {
-      "id": "4882815",
-      "time": "2026-05-16 02:25:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國：安全議題專項會議將於 5 月 29 日在五角大樓召開，安全議題專項會議將包括以色列和黎巴嫩代表團。"
-    },
-    {
-      "id": "te:markets:551291",
-      "time": "2026-05-16 02:25:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Orange Juice Tumbles by 6.21% — Top commodity losers are Orange Juice (-6.21%), Rubber (-4.02%) and Cotton (-4.01%). Gains are led by Lumber (1.20%), Rapeseed (1.01%) and Barley (0.85%)."
     }
   ]
 }
