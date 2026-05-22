@@ -1,7 +1,28 @@
 {
-  "updated": "2026-05-22 08:27:35",
-  "count": 16158,
+  "updated": "2026-05-22 08:31:32",
+  "count": 16152,
   "items": [
+    {
+      "id": "te:markets:552894",
+      "time": "2026-05-22 08:30:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "US Futures Rise Following Two-Day Rally — US stock futures edged higher on Friday after the major averages climbed for two straight sessions, as oil prices moved lower on renewed hopes for a potential US-Iran agreement to end the conflict. Reports suggested that Iran viewed the latest US proposal as partially narrowing differences between the two sides, while Secretary of State Marco Rubio said there were “some good signs” that an agreement could eventually be reached. In regular trading on Thursday, the Dow advanced 0.55%, the S&P 500 gained 0.17%, and the Nasdaq Composite added 0.09%, marking a second straight day of gains for all three benchmarks. Eight of the 11 S&P sectors closed in positive territory, led by utilities, consumer discretionary, and materials stocks. The major indexes are also headed for weekly gains despite volatility earlier in the week, with the Dow up 1.53%, the S&P 500 higher by 0.5%, and the Nasdaq Composite advancing 0.26% so far."
+    },
+    {
+      "id": "4893797",
+      "time": "2026-05-22 08:28:45",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【花旗銀行預測：小米YU7 GT車型月銷量可能破萬】花旗集團表示，小米新款 YU7 GT 機型具有“極具吸引力的價值主張”，月銷量很容易超過 1 萬臺。花旗集團分析師Jeff Chung 寫道：“如果沒有產能限制，我們相信整個YU7+YU7 GT系列產品每月銷量有望達到約4萬臺。” 隨著七月起產能逐步提升，市場對小米電動車業務的關注點，或將從需求端轉向供給產能瓶頸問題。"
+    },
     {
       "id": "4893796",
       "time": "2026-05-22 08:26:59",
@@ -145202,77 +145223,6 @@
         "國際"
       ],
       "text": "訊息人士稱，美國司法部即將撤銷對印度高塔姆·阿達尼的指控。"
-    },
-    {
-      "id": "4880851",
-      "time": "2026-05-15 08:31:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "惠好公司宣佈季度基本現金股息為每股0.21美元。"
-    },
-    {
-      "id": "4880850",
-      "time": "2026-05-15 08:31:09",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內跌1%，現報82.63美元/盎司。"
-    },
-    {
-      "id": "4880849",
-      "time": "2026-05-15 08:30:54",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4630美元/盎司，日內跌1.22%。"
-    },
-    {
-      "id": "4880848",
-      "time": "2026-05-15 08:30:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【宇環數控：適配藍寶石、碳化矽等材料加工的磨拋裝置已實現銷售】宇環數控(002903)5月13日在機構調研時表示，公司磨床產品在半導體領域的應用研發，涉及多道加工工序及多類基礎材料，包括碳化矽、藍寶石、銻化鎵、陶瓷基板等品類。在碳化矽加工裝置領域，公司產品可應用於晶錠端面磨削、外圓磨削、參考邊磨削等工序。目前，適配藍寶石、碳化矽等材料加工的磨拋裝置已實現銷售。公司產品應用於半導體領域的業務發展具有較大的不確定性，請投資者審慎決策，注意投資風險。"
-    },
-    {
-      "id": "4880847",
-      "time": "2026-05-15 08:30:16",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4630美元/盎司，日內跌0.49%。"
-    },
-    {
-      "id": "te:markets:550882",
-      "time": "2026-05-15 08:30:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Palladium Hits 5-week Low — Palladium decreased to 1444.00 USD/t.oz, the lowest since April 2026. Over the past 4 weeks, Palladium lost 8.54%, and in the last 12 months, it increased 50.36%."
-    },
-    {
-      "id": "4880846",
-      "time": "2026-05-15 08:29:31",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行官員：4月石腦油價格環比上漲83.2%，同比上漲79.4%。"
-    },
-    {
-      "id": "4880845",
-      "time": "2026-05-15 08:29:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本經濟產業大臣赤澤亮正：如果中東局勢的影響持續，可以動用2026財年的預算儲備。"
     }
   ]
 }
