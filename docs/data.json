@@ -1,7 +1,23 @@
 {
-  "updated": "2026-05-23 03:37:27",
-  "count": 16079,
+  "updated": "2026-05-23 03:41:15",
+  "count": 16078,
   "items": [
+    {
+      "id": "mkt:019e5134-58e2-7aae-9ae0-d8cf5becc108",
+      "time": "2026-05-23 03:40:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ANTHROPIC WANTS TO MAKE MYTHOS-CLASS MODELS AVAILABLE GENERALLY ANTHROPIC: MYTHOS FOUND VULNERABILITIES IN OPEN SOURCE PROJECTS"
+    },
+    {
+      "id": "4895722",
+      "time": "2026-05-23 03:40:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic：面向Claude企業客戶推出Claude Security公開測試版。"
+    },
     {
       "id": "4895721",
       "time": "2026-05-23 03:35:53",
@@ -144373,33 +144389,6 @@
         "其他"
       ],
       "text": "阿爾伯塔省省長： 我方認為亞洲企業將會投資該原油管道專案。"
-    },
-    {
-      "id": "4882876",
-      "time": "2026-05-16 03:41:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "阿爾伯塔省省長：伊朗局勢衝突進一步助推加拿大新建原油管道專案落地契機。"
-    },
-    {
-      "id": "4882875",
-      "time": "2026-05-16 03:39:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大總理卡尼：認為從阿爾伯塔省通往太平洋沿岸的新建原油管道專案將會獲得大量關注。"
-    },
-    {
-      "id": "mkt:019e2d26-1c18-7663-82fc-28419e1312cf",
-      "time": "2026-05-16 03:38:52",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "CANADA PRIME MINISTER CARNEY SAYS I THINK THERE WILL BE A LOT OF INTEREST IN A NEW CRUDE PIPELINE FROM ALBERTA TO PACIFIC COAST"
     }
   ]
 }
