@@ -1,7 +1,15 @@
 {
-  "updated": "2026-05-23 01:06:14",
-  "count": 16105,
+  "updated": "2026-05-23 01:10:04",
+  "count": 16104,
   "items": [
+    {
+      "id": "4895636",
+      "time": "2026-05-23 01:08:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "據福克斯新聞：美國國家情報總監圖爾西·加巴德辭職。"
+    },
     {
       "id": "4895635",
       "time": "2026-05-23 01:05:22",
@@ -144634,26 +144642,6 @@
         "國際"
       ],
       "text": "印度政府：將汽油出口關稅上調至每升3盧比。"
-    },
-    {
-      "id": "te:economy:551279",
-      "time": "2026-05-16 01:08:12",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Sri Lanka",
-        "Manufacturing PMI",
-        "Importance 0"
-      ],
-      "text": "Sri Lanka Manufacturing PMI Falls to One-Year Low — Sri Lanka’s Manufacturing PMI dropped sharply to 42.6 in April 2026 from 66.7 in March, marking the lowest reading in one year and signaling a contraction in manufacturing activity. The decline was mainly driven by a sharp slowdown in new orders, which fell to 36.4 from 69.9, amid fading festive demand in the food, beverage, textile, and apparel sectors. Production also contracted significantly, dropping to 30.5 from 68.8, largely due to fewer working days during the Sinhala and Tamil New Year period, when many factories temporarily closed. Employment weakened to 47 from 55.9 as firms reduced temporary staff following seasonal demand. The stock of purchases index also declined to 44 from 59.9, in line with lower production and orders. Meanwhile, suppliers’ delivery times lengthened further, with the index at 68.7, reflecting festive disruptions and logistical challenges linked to the Middle East conflict."
-    },
-    {
-      "id": "4882738",
-      "time": "2026-05-16 01:06:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯人權專員：俄方已收到烏克蘭轉交的俄軍戰俘寄給親屬的信件。"
     }
   ]
 }
