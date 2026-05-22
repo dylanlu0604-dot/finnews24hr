@@ -1,7 +1,97 @@
 {
-  "updated": "2026-05-22 22:14:25",
-  "count": 16114,
+  "updated": "2026-05-22 22:18:26",
+  "count": 16118,
   "items": [
+    {
+      "id": "4895462",
+      "time": "2026-05-22 22:17:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "普京：襲擊已造成6人死亡，39人受傷。"
+    },
+    {
+      "id": "mkt:019e500c-780b-7224-83c0-2c5237152327",
+      "time": "2026-05-22 22:17:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "PUTIN: SIX PEOPLE KILLED, 39 INJURED"
+    },
+    {
+      "id": "4895461",
+      "time": "2026-05-22 22:16:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "普京：烏克蘭在盧甘斯克地區實施了恐怖襲擊。"
+    },
+    {
+      "id": "mkt:019e500b-c08a-7224-83c0-221654bdcc2c",
+      "time": "2026-05-22 22:16:47",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "PUTIN: UKRAINE COMMITTED TERRORIST ATTACK IN LUHANSK REGION"
+    },
+    {
+      "id": "4895460",
+      "time": "2026-05-22 22:16:33",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "現貨黃金、紐約期金雙雙失守4500美元/盎司，日內跌0.94%。交易員完全定價美聯儲截至2026年底將加息25個基點。"
+    },
+    {
+      "id": "em:qqyh_mlc:202605223747060063",
+      "time": "2026-05-22 22:15:22",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美聯儲官員沃勒表示，如果通脹預期脫錨，尤其有必要加息。"
+    },
+    {
+      "id": "4895459",
+      "time": "2026-05-22 22:15:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "【德國計劃2026年把國內生產總值的4%用於國防開支】德國外交部長瓦德富爾22日表示，德國政府計劃2026年將國內生產總值的4%用於國防開支。 據德國廣播電臺報道，瓦德富爾當天在瑞典赫爾辛堡出席北約外長會議期間說，德國政府正朝著將這一比例提升至5%的目標邁進。北約成員國去年決定在2035年前將年度國防開支提高至國內生產總值的5%。 另據外媒報道，瓦德富爾會前還表示，德國將提議加強與烏克蘭的防務合作。(新華社)"
+    },
+    {
+      "id": "4895458",
+      "time": "2026-05-22 22:14:51",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4500美元/盎司，日內跌0.95%。"
+    },
+    {
+      "id": "4895457",
+      "time": "2026-05-22 22:14:51",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4490美元/盎司，日內跌1.20%。"
+    },
+    {
+      "id": "em:qqyh_mlc:202605223747059575",
+      "time": "2026-05-22 22:14:21",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "市場定價顯示，交易員已完全預期到2026年底美聯儲將加息25個基點。"
+    },
     {
       "id": "4895456",
       "time": "2026-05-22 22:13:42",
@@ -144558,59 +144648,6 @@
         "市場"
       ],
       "text": "洲際交易所羅布斯塔咖啡期貨<LRCc2>跌幅超3%，報每噸3,376美元。"
-    },
-    {
-      "id": "4882522",
-      "time": "2026-05-15 22:17:48",
-      "tags": [
-        "市場"
-      ],
-      "text": "洲際交易所阿拉比卡咖啡<KCCc2>下跌超3%，報每磅2.6620美元。"
-    },
-    {
-      "id": "4882521",
-      "time": "2026-05-15 22:17:02",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "傑富瑞將美國電力公司目標股價從152美元下調至147美元。"
-    },
-    {
-      "id": "4882520",
-      "time": "2026-05-15 22:16:29",
-      "tags": [
-        "市場"
-      ],
-      "text": "洲際交易所（ICE）紐約可可期貨<CCC1>價格下跌近5%，至每噸3983美元。"
-    },
-    {
-      "id": "4882519",
-      "time": "2026-05-15 22:16:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：加密貨幣平臺Kraken的母公司Payward正裁員150人，作為其計劃IPO前最佳化舉措的一部分。"
-    },
-    {
-      "id": "4882518",
-      "time": "2026-05-15 22:15:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：Payward 正以200億美元估值進行新一輪融資。"
-    },
-    {
-      "id": "te:economy:551232",
-      "time": "2026-05-15 22:14:50",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Brazil",
-        "Business Confidence",
-        "Importance 1"
-      ],
-      "text": "Brazil Industrial Confidence Rises in May — Brazil’s Industrial Business Confidence Index rose 2 points to 47.2 in May 2026, ending a three-month sequence of declines, though it remained below the 50-point threshold that separates optimism from pessimism. The Current Conditions Index increased 2.4 points to 42.9, reflecting improved assessments of both companies’ current conditions (+2.2 points to 46.3) and the broader Brazilian economy (+2.9 points to 36.1), although perceptions remained negative overall. Meanwhile, the Expectations Index rose 1.7 points to 49.3, moving closer to the neutral 50 mark and signaling less pessimistic views for the next six months. Expectations for the Brazilian economy increased 2.2 points to 40.9, while confidence regarding firms’ own outlook improved 1.5 points to 53.5."
     }
   ]
 }
