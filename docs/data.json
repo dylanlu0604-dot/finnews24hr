@@ -1,7 +1,302 @@
 {
-  "updated": "2026-05-23 01:25:09",
-  "count": 16107,
+  "updated": "2026-05-23 01:43:34",
+  "count": 16115,
   "items": [
+    {
+      "id": "4895669",
+      "time": "2026-05-23 01:41:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所（ICE）：5月19日當週，投機者所持布倫特原油淨多頭頭寸減少10,517手合約，至335,288手合約，創11周新低。"
+    },
+    {
+      "id": "4895668",
+      "time": "2026-05-23 01:40:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗方面表示：卡達參與會談，巴基斯坦仍擔任斡旋方。"
+    },
+    {
+      "id": "4895667",
+      "time": "2026-05-23 01:39:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：國家情報副總監將出任國家情報代理總監。"
+    },
+    {
+      "id": "mkt:019e50c5-2a8b-788e-b251-6d07ca9a1bdc",
+      "time": "2026-05-23 01:39:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRAN'S FOREIGN MINISTRY SPOKESPERSON: WE WILL NOT REACH A CONCLUSION IF WE TRY TO DELVE INTO DETAILS RELATED TO HIGHLY ENRICHED URANIUM IN IRAN -IRNA"
+    },
+    {
+      "id": "4895666",
+      "time": "2026-05-23 01:39:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人：若我們執意深究伊朗高濃鈾相關細節，相關談判將無法得出結論。"
+    },
+    {
+      "id": "mkt:019e50c3-c7f9-788e-b251-65988ab4ba03",
+      "time": "2026-05-23 01:37:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TRUMP: PRINCIPAL DEPUTY DIRECTOR OF NATIONAL INTELLIGENCE, AARON LUKAS, WILL SERVE AS ACTING DIRECTOR OF NATIONAL INTELLIGENCE"
+    },
+    {
+      "id": "mkt:019e50c3-b537-788e-b251-589007730c8e",
+      "time": "2026-05-23 01:37:43",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "TRUMP: UNFORTUNATELY TULSI GABBARD WILL BE LEAVING ADMINISTRATION ON JUNE 30TH"
+    },
+    {
+      "id": "4895665",
+      "time": "2026-05-23 01:37:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：很遺憾，加巴德將於6月30日退出政府任職。"
+    },
+    {
+      "id": "te:markets:553186",
+      "time": "2026-05-23 01:36:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Lockheed Martin Stock Price Hits 4-week High — Lockheed Martin shares increased to 530.29 USD, the highest since April 2026. Over the past 4 weeks, Lockheed Martin gained 0.03%, and in the last 12 months, it increased 13.03%."
+    },
+    {
+      "id": "4895664",
+      "time": "2026-05-23 01:36:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普將於5月23日至24日在白宮參加行政會議。"
+    },
+    {
+      "id": "mkt:019e50c1-1b23-788e-b251-57496dc24310",
+      "time": "2026-05-23 01:34:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "USTR GREER: TRUMP'S VISIT TO CHINA LAST WEEK DID NOT CHANGE TRUMP ADMINISTRATION'S APPROACH TO SEMICONDUCUTOR TARIFF PROBE"
+    },
+    {
+      "id": "4895663",
+      "time": "2026-05-23 01:33:22",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "據伊朗伊斯蘭共和國通訊社（IRNA）： 伊朗外交部發言人表示，（與美國的）協議還沒有達成。"
+    },
+    {
+      "id": "4895662",
+      "time": "2026-05-23 01:32:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗伊斯蘭共和國通訊社（IRNA）：伊朗外交部發言人表示，現階段並未商討核問題相關細節。"
+    },
+    {
+      "id": "mkt:019e50be-a201-788e-b251-4cfcfd2d4db8",
+      "time": "2026-05-23 01:32:10",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "IRAN'S FOREIGN MINISTRY SPOKESPERSON: DETAILS RELATED TO THE NUCLEAR ISSUE ARE NOT BEING DISCUSSED AT THIS STAGE -IRNA"
+    },
+    {
+      "id": "4895661",
+      "time": "2026-05-23 01:31:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表格里爾：短期內不會對半導體加徵關稅，但需保障美國晶片產業投資安全。"
+    },
+    {
+      "id": "mkt:019e50be-19ae-788e-b251-43ee561dc436",
+      "time": "2026-05-23 01:31:36",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Nasdaq100",
+        "Impact bullish"
+      ],
+      "text": "USTR GREER: NO IMMEDIATE TARIFFS COMING ON SEMICONDUCTORS, BUT IMPORTANT TO PROTECT INVESTMENTS IN U.S. CHIP PRODUCTION"
+    },
+    {
+      "id": "mkt:019e50bd-7daa-788e-b251-3a1213a2099e",
+      "time": "2026-05-23 01:30:55",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "IRAN'S FOREIGN MINISTRY SPOKESPERSON: WE CANNOT SAY AFTER A FEW VISITS OR TALKS OVER WEEKS OR MONTHS, WE WILL DEFINITELY REACH A CONCLUSION, DIPLOMACY TAKES TIME -IRNA"
+    },
+    {
+      "id": "4895660",
+      "time": "2026-05-23 01:30:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人：歷經數週數月的數次走訪磋商，也無法篤定達成共識，外交談判耗時日久。"
+    },
+    {
+      "id": "4895659",
+      "time": "2026-05-23 01:29:52",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "道指漲1.03%，現報50801.711點；納指漲0.74%，現報26487.388點；標普500指數漲0.76%，現報7502.660點。"
+    },
+    {
+      "id": "4895658",
+      "time": "2026-05-23 01:29:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌1%，現報101.51美元/桶。"
+    },
+    {
+      "id": "4895657",
+      "time": "2026-05-23 01:29:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油失守95美元/桶，日內跌1.52%。"
+    },
+    {
+      "id": "mkt:019e50bc-61a4-788e-b251-348f06e3f2ad",
+      "time": "2026-05-23 01:29:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bullish"
+      ],
+      "text": "U.S. STOCKS EXTEND GAINS, DOW UP 1 PCT"
+    },
+    {
+      "id": "mkt:019e50bc-20c3-788e-b251-2cf9fac33362",
+      "time": "2026-05-23 01:29:26",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "IRAN'S FOREIGN MINISTRY SPOKESPERSON SAYS DIFFERENCES BETWEEN IRAN AND THE UNITED STATES ARE DEEP AND SIGNIFICANT"
+    },
+    {
+      "id": "4895656",
+      "time": "2026-05-23 01:28:48",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗外交部發言人：伊朗與美國之間的分歧深刻且重大。"
+    },
+    {
+      "id": "4895655",
+      "time": "2026-05-23 01:28:37",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油失守102美元/桶，日內跌0.60%。"
+    },
+    {
+      "id": "4895654",
+      "time": "2026-05-23 01:28:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌1%，現報95.27美元/桶。"
+    },
+    {
+      "id": "4895653",
+      "time": "2026-05-23 01:28:33",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國貿易代表格里爾：美方希望出臺利好本土生產的區域含量規則，知曉車企希望保留美墨加三方協定的訴求。"
+    },
+    {
+      "id": "4895652",
+      "time": "2026-05-23 01:28:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "加巴德釋出了致特朗普的辭職信。"
+    },
+    {
+      "id": "mkt:019e50ba-b01d-788e-b251-26fb5a256dab",
+      "time": "2026-05-23 01:27:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. DIRECTOR OF NATIONAL INTELLIGENCE GABBARD POSTS RESIGNATION LETTER ON X"
+    },
+    {
+      "id": "4895651",
+      "time": "2026-05-23 01:27:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：05月23日01時16分在青海海西州唐古拉地區（北緯33.47度，東經90.23度）發生4.1級地震，震源深度10千米。"
+    },
+    {
+      "id": "4895650",
+      "time": "2026-05-23 01:26:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "【德國10年期國債收益率跌6個基點，本週累計跌幅擴大至13個基點】週五（5月22日）歐市尾盤，德國10年期國債收益率跌6.1個基點，報3.038%，北京時間21:00重新整理日低至3.022%，本週累計下跌13.0個基點，5月18-19日在3.2%一線高位持穩，5月20-22日持續走低。兩年期德債收益率跌4.2個基點，報2.644%，整體持續走低，北京時間19:40-22:03出現一波V形走勢，本週累計下跌9.4個基點，整體交投於2.763%-2.605%區間；30年期德債收益率跌5.2個基點，報3.569%，本週累跌10.7個基點。2/10年期德債收益率利差累跌3.529個基點，報+39.191個基點。"
+    },
+    {
+      "id": "4895649",
+      "time": "2026-05-23 01:25:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表格里爾：下週將在墨西哥城舉行的《美墨加協定》談判將聚焦原產地規則與經濟安全議題。"
+    },
+    {
+      "id": "mkt:019e50b8-5fc5-788e-b251-1e7e42142553",
+      "time": "2026-05-23 01:25:20",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "USTR GREER SAYS USMCA TALKS NEXT WEEK IN MEXICO CITY WILL BE FOCUSED ON RULES OF ORIGIN AND ECONOMIC SECURITY"
+    },
     {
       "id": "4895648",
       "time": "2026-05-23 01:22:46",
@@ -144435,238 +144730,6 @@
         "其他"
       ],
       "text": "【加拿大聯邦政府與石油重鎮達成協議，將於2027年開工建設石油管道】加拿大總理卡尼與阿爾伯塔省省長Danielle Smith宣佈，聯邦政府與阿爾伯塔省就碳定價達成協議，這將允許最早在2027年開工建設一條新石油管道，同時也縮減了渥太華此前與該交易掛鉤的碳捕集專案的規模。"
-    },
-    {
-      "id": "4882769",
-      "time": "2026-05-16 01:42:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：以色列一名高階官員透露，以色列方面正做好準備，應對即將與伊朗重啟戰事的可能性。談及伊美談判程序，該官員稱美方已認定此次談判毫無進展。"
-    },
-    {
-      "id": "te:markets:551287",
-      "time": "2026-05-16 01:42:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Canadian Dollar Extends Pullback — The Canadian dollar weakened slightly to 1.37 per USD, extending its retreat from the seven-week high of 1.358 reached on April 30, as persistent inflation concerns and rising US Treasury yields supported the greenback following hotter-than-expected US inflation data. The latest US CPI report showed headline inflation accelerating to 3.8%, reinforcing expectations that the Federal Reserve may keep interest rates elevated for longer as price pressures broaden across the economy. Additional support for the US dollar came from ongoing geopolitical uncertainty in the Middle East, as limited progress in negotiations involving Iran kept fears alive that disruptions around the Strait of Hormuz could persist. Meanwhile, elevated oil prices continued to limit broader downside pressure on the commodity-linked Canadian dollar."
-    },
-    {
-      "id": "4882768",
-      "time": "2026-05-16 01:40:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國疾控中心代理主任表示，美國衛生部長肯尼迪與白宮均每日收到漢坦病毒疫情簡報。"
-    },
-    {
-      "id": "mkt:019e2cb9-f448-7663-82fb-320180996ceb",
-      "time": "2026-05-16 01:40:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ACTING CDC DIRECTOR SAYS US HEALTH SECRETARY KENNEDY AND WHITE HOUSE BOTH GETTING DAILY HANTAVIRUS BRIEFING"
-    },
-    {
-      "id": "4882767",
-      "time": "2026-05-16 01:39:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國疾病控制與預防中心：正在監測剛果民主共和國、烏干達的埃博拉疫情報道。"
-    },
-    {
-      "id": "mkt:019e2cb8-c162-7663-82fb-2c24ed92fefe",
-      "time": "2026-05-16 01:39:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CDC SAYS IS MONITORING REPORTS OF EBOLA IN DEMOCRATIC REPUBLIC OF CONGO, UGANDA"
-    },
-    {
-      "id": "4882766",
-      "time": "2026-05-16 01:38:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "一筆價值 8 億英鎊的摩天大樓交易，正給伯納姆的領袖競選之路蒙上陰影。"
-    },
-    {
-      "id": "4882765",
-      "time": "2026-05-16 01:36:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國司法部擬援引反恐法針對墨西哥官員。"
-    },
-    {
-      "id": "4882764",
-      "time": "2026-05-16 01:36:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大認定阿爾伯塔省輸油管道專案符合國家利益。"
-    },
-    {
-      "id": "mkt:019e2cb5-b3da-7663-82fb-2741504a1d17",
-      "time": "2026-05-16 01:36:06",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "CANADA TO ASSESS ALBERTA PROPOSED OIL PIPELINE TO WEST COAST FOR CONSTRUCTION START BY SEPTEMBER 2027: FEDERAL-PROVINCIAL AGREEMENT"
-    },
-    {
-      "id": "4882763",
-      "time": "2026-05-16 01:35:52",
-      "tags": [
-        "市場"
-      ],
-      "text": "加拿大阿爾伯塔省將推出碳差價合約， 2040 年生效碳價定為每噸 130 加元。"
-    },
-    {
-      "id": "4882762",
-      "time": "2026-05-16 01:34:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "聯邦與省政府達成協議：加拿大將對阿爾伯塔省擬建西海岸輸油管道進行評估，目標於2027年9月前開工建設。"
-    },
-    {
-      "id": "4882761",
-      "time": "2026-05-16 01:31:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以軍對一名卡桑旅高階指揮官發動空襲打擊】總檯記者獲悉，當地時間5月15日傍晚，以色列空軍在對加沙城的一場空襲中，針對哈馬斯下屬武裝派別卡桑旅高階指揮官、哈馬斯在加沙地帶的重要領導人伊茲丁·哈達德進行了打擊。一名以色列高階安全官員表示，有“初步跡象”表明，伊茲丁·哈達德在此次空襲中喪生。（央視新聞）"
-    },
-    {
-      "id": "4882760",
-      "time": "2026-05-16 01:31:13",
-      "tags": [
-        "宏觀",
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【七國集團將討論債市拋售 收益率已升至數十年高點】七國集團(G-7)財長將討論政府債券遭拋售一事，這波拋售正推動部分基準債券收益率升至數十年高點；其中至少有一方認為這一走勢是暫時的。日本財務大臣片山皋月週五表示，預計G-7將在5月18日至19日於巴黎舉行的會議上討論債券市場動態。就在她發言的前一天，日本30年期國債收益率升至該期限品種1999年首發以來的最高水平，20年期和40年期國債收益率也觸及數十年高點。“全球債券收益率出現了一波上行，因為市場或許正在消化通脹 —— 短期的通脹波動 —— 我認為這是暫時性的，”美國財政部長斯科特·貝森特週二在東京與日本政策制定者會晤後表示。"
-    },
-    {
-      "id": "te:economy:551286",
-      "time": "2026-05-16 01:31:05",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Brazil",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Brazil 10-Year Bond Yield Hits Over One-Year High — The yield on Brazil’s 10-year government bond rose to 14.5% in mid-May, reaching the highest level in over a year amid mounting political and inflation concerns. Markets reacted to reports alleging ties between Senator Flávio Bolsonaro, a contender in Brazil’s October presidential election, and Daniel Vorcaro, owner of failed lender Banco Master, who was charged with fraud. Investors assessed that the allegations could weaken Bolsonaro’s candidacy, currently viewed as President Luiz Inácio Lula da Silva’s main challenger. Vorcaro was jailed in March on accusations of bribing a former central bank director. Meanwhile, inflation risks continued to reinforce expectations of elevated interest rates. In the minutes of its latest meeting, the Central Bank of Brazil highlighted persistent inflationary pressures as the Middle East conflict lifted energy costs and threatened to spread price pressures across the broader economy."
-    },
-    {
-      "id": "4882759",
-      "time": "2026-05-16 01:30:15",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【貝克休斯：美國活躍石油鑽井平臺數量增加5座，至415座】油田服務公司貝克休斯報告稱，本週美國活躍石油鑽井平臺數量增加5座，至415座。這是自11月以來的最高石油鑽井平臺數量，且自美伊衝突爆發以來增加了8座；該衝突導致霍爾木茲海峽關閉，並將油價推高至三位數。儘管如此，生產商仍保持謹慎。Tradition Energy的Gary Cunningham表示，在原油價格達到每桶100美元的背景下，在任何地方鑽探都是有利可圖的，但生產商知道這種情況不會永遠持續下去。“人們知道，最終會與伊朗達成某種解決方案，海峽也會以某種方式重新開放。“本週天然氣鑽井平臺數量減少1座，至128座。"
-    },
-    {
-      "id": "te:markets:551285",
-      "time": "2026-05-16 01:29:28",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Brazilian Real Retreats from Two-Year High — The Brazilian real weakened to 5.07 per USD in mid-May, retreating sharply from the two-year high of 4.89 reached earlier in the month. The decline followed reports alleging ties between Senator Flávio Bolsonaro, a contender in Brazil’s October presidential election, and Daniel Vorcaro, owner of failed lender Banco Master, who was charged with fraud. Investors assessed that the allegations could weaken Bolsonaro’s candidacy, currently viewed as President Luiz Inácio Lula da Silva’s main challenger. Abroad, the US dollar strengthened alongside rising Treasury yields as markets increasingly priced in the possibility of additional Federal Reserve interest rate hikes later this year."
-    },
-    {
-      "id": "4882758",
-      "time": "2026-05-16 01:29:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "普華永道依託Claud AI 組建全新金融業務部。"
-    },
-    {
-      "id": "4882757",
-      "time": "2026-05-16 01:28:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防軍釋出緊急通告，向黎巴嫩民眾、尤其是提爾市居民發出警示，警告民眾即刻撤離。"
-    },
-    {
-      "id": "mkt:019e2cae-9cec-7663-82fb-1c3f5de7f342",
-      "time": "2026-05-16 01:28:21",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bearish",
-        "XAUUSD",
-        "Impact bullish",
-        "US10Y"
-      ],
-      "text": "AUTO LOAN DELINQUENCIES HIT 32-YEAR HIGH AS BORROWERS STRUGGLE WITH RECORD PAYMENTS"
-    },
-    {
-      "id": "4882756",
-      "time": "2026-05-16 01:27:36",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【歐洲債市：政府債券下跌 通脹擔憂升溫】隨著油價飆升加劇通脹擔憂，歐洲政府債券下跌。英債跑輸，英國國內的政治危機推動超長期債券收益率升至近三十年來的最高水平。德國10年期國債收益率一度飆升12個基點至3.16%，創2011年以來最高；德國、法國、英國和其他國家債市邁向自2月伊朗戰爭爆發以來最糟糕的一週。對政治風險最為敏感的30年期英國國債收益率飆升20個基點至5.86%，創1998年以來新高；其邁向7月以來最糟糕的單日表現。長期債券收益率升幅高於短債收益率，收益率曲線熊市趨陡與其他債券市場相比，英國國債受到的衝擊更大，投資者擔心首相基爾·斯塔默可能會被一位傾向於更寬鬆財政政策的繼任者取代。"
-    },
-    {
-      "id": "mkt:019e2cad-d68a-7663-82fb-17251a703861",
-      "time": "2026-05-16 01:27:30",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "NEW YORK FED ACCEPTS $0.647 BLN OF $0.647 BLN SUBMITTED TO REVERSE REPO FACILITY ON MAY 15"
-    },
-    {
-      "id": "4882755",
-      "time": "2026-05-16 01:27:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic：普華永道將上線克勞德程式碼助手及協同辦公工具。"
-    },
-    {
-      "id": "te:economy:551284",
-      "time": "2026-05-16 01:27:07",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Calendar",
-        "Importance 2"
-      ],
-      "text": "Week Ahead - May 18th — Exchanges of conciliatory and escalatory rhetoric between the US and Iran will continue to shape markets as their conflict still has no end in sight. Despite the macroeconomic headwinds, global equities were supported by strong guidances for AI infrastructure companies, facing their biggest test next week with Nvidia earnings. At the same time, the Fed will release minutes from its latest meeting, which saw three dissents. For economic data, the US spotlight will be in leading indicators with PMIs, regional Fed indices, and the UMich consumer sentiment survey, in addition to housing price data. Leading indicators are also the focus in Europe with GfK and Ifo surveys in Germany, while flash PMIs are featured in the Eurozone. In the UK, inflation, unemployment, and retail sales will be featured. China will join the UK in its data-dump week, including industrial output, retail sales, unemployment, housing prices, and fixed investment. In Japan, the first-quarter GDP is due."
-    },
-    {
-      "id": "4882754",
-      "time": "2026-05-16 01:26:25",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【銀價狂瀉破80美元 通脹訊號打壓避險盤】白銀經歷了極端波動的又一週，價格最終大幅跌破每盎司80美元，給這個年內交易最為動盪的市場之一帶來了又一輪劇烈波動。在截至週三的一週內，受投資者對人工智慧相關股票以及用於資料中心供電系統、佈線和冷卻的工業金屬的熱情推動，白銀價格一度飆升11.3%。週一，對於主要產礦國秘魯燃料供應的猜測也推高了價格。隨後，更多跡象表明伊朗戰爭正在加劇通脹，導致投資者要求從政府債券中獲得更高收益率，白銀價格隨之回落。更高的借貸成本對通常不支付利息的白銀構成利空。滙豐控股首席貴金屬分析師詹姆斯表示：“我們仍認為白銀從根本上被高估了，面對高價，珠寶和工業領域對白銀的需求將繼續減弱。”"
     }
   ]
 }
