@@ -1,7 +1,111 @@
 {
-  "updated": "2026-05-23 04:00:22",
-  "count": 16086,
+  "updated": "2026-05-23 04:04:13",
+  "count": 16090,
   "items": [
+    {
+      "id": "mkt:019e5148-d2c7-7aae-9ae1-2400ac73b39b",
+      "time": "2026-05-23 04:03:07",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "IRAN'S TASNIM CITING SOURCE CLOSE TO NEGOTIATING TEAM: PROGRESS HAS BEEN MADE ON SOME ISSUES BUT NO AGREEMENT WILL BE REACHED UNTIL ALL DISPUTED MATTERS RESOLVED"
+    },
+    {
+      "id": "mkt:019e5148-712b-7aae-9ae1-1aa84b354ac2",
+      "time": "2026-05-23 04:02:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "S&P500",
+        "Impact bullish",
+        "Dow",
+        "Nasdaq100"
+      ],
+      "text": "FOR THE WEEK, UNOFFICIALLY, THE S&P ROSE 0.88%, THE DOW ADDED 2.31%, THE NASDAQ GAINED 0.45% S&P 500 LOGGED ITS EIGHTH STRAIGHT WEEKLY GAIN, ITS LONGEST SINCE A NINE-WEEK STREAK ENDED IN DECEMBER 2023"
+    },
+    {
+      "id": "4895745",
+      "time": "2026-05-23 04:02:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "多倫多股票指數.GSPTSE非官方收漲61.87點，漲幅0.18%，報34471.36點。"
+    },
+    {
+      "id": "4895744",
+      "time": "2026-05-23 04:01:50",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "惠普公司股價收盤上漲15%，創下自2024年5月以來最佳單日表現。"
+    },
+    {
+      "id": "mkt:019e5147-a534-7aae-9ae1-13cc6998983f",
+      "time": "2026-05-23 04:01:50",
+      "tags": [
+        "MKT News",
+        "Dow",
+        "Impact bullish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "DOW CLOSED +0.58%, S&P 500 +0.37%, NASDAQ +0.19%"
+    },
+    {
+      "id": "4895743",
+      "time": "2026-05-23 04:01:34",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國加州一公司發生化學品洩漏 部分地區居民被疏散】當地時間5月22日，美官員通報稱，美國加利福尼亞州奧蘭治縣加登格羅夫市的一家航空航天公司21日發生化學品洩漏事件，部分地區已釋出大規模疏散令。（央視新聞）"
+    },
+    {
+      "id": "4895742",
+      "time": "2026-05-23 04:01:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "福特汽車週五收盤上漲9.2%，創下2023年7月以來最高水平。"
+    },
+    {
+      "id": "4895741",
+      "time": "2026-05-23 04:00:57",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "阿根廷央行今日外匯儲備規模達468億美元。"
+    },
+    {
+      "id": "4895740",
+      "time": "2026-05-23 04:00:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體收漲】道指漲0.58%，標普500指數漲0.37%，納指漲0.20%。戴爾漲16.79%，惠普漲15.30%，美國網存漲12.44%，思佳訊漲12.10%，雅詩蘭黛漲11.95%，高通漲11.60%。“七姐妹”方面：特斯拉漲1.95%，蘋果漲1.25%，Meta Platforms漲0.48%，微軟跌0.14%，亞馬遜跌0.80%，谷歌跌1.06%，英偉達跌1.92%。"
+    },
+    {
+      "id": "4895739",
+      "time": "2026-05-23 04:00:22",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "據伊朗塔斯尼姆通訊社援引一名知情人士稱，關於爭議性問題的談判仍在繼續，尚未得出最終結果。該知情人士強調，部分議題已取得進展，但所有分歧事宜未解決前不會達成協議。"
+    },
+    {
+      "id": "4895738",
+      "time": "2026-05-23 04:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收跌2.22%】老虎證券跌25.26%，新氧跌16.10%，小贏科技跌8.58%，水滴公司跌7.32%，蔚來跌7.14%。"
+    },
     {
       "id": "4895737",
       "time": "2026-05-23 03:58:34",
@@ -144383,87 +144487,6 @@
         "Impact bullish"
       ],
       "text": "MORNINGSTAR DBRS CHANGES TRENDS ON PORTUGAL TO POSITIVE, CONFIRMS CREDIT RATINGS AT A (HIGH)"
-    },
-    {
-      "id": "4882896",
-      "time": "2026-05-16 04:03:35",
-      "tags": [
-        "市場"
-      ],
-      "text": "福特汽車股價收盤下跌7.4%，創2025年2月以來最大單日跌幅。"
-    },
-    {
-      "id": "4882895",
-      "time": "2026-05-16 04:02:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "【德國總理：不會建議自己孩子赴美工作，理由是當地“社會氛圍”】德國總理弗里德里希·默茨表示，他不會建議自己的孩子前往美國生活，理由是當地突然形成的某種“社會氛圍”。“我向來對美國推崇備至，但眼下，我的這種仰慕之情並未增加。”默茨在德國南部城市維爾茨堡對一群羅馬天主教徒表示，“如今，我不會建議我的孩子到美國接受教育或在那裡工作。”默茨對白宮日益公開的批評引發美國總統唐納德·特朗普的憤怒回應。特朗普已威脅要提高針對歐洲汽車製造商的關稅，並宣佈計劃削減駐紮在德國的美軍人數。"
-    },
-    {
-      "id": "mkt:019e2d3b-9ca2-7663-82fc-5560be7fd4b3",
-      "time": "2026-05-16 04:02:21",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "S&P500",
-        "Impact bullish",
-        "Nasdaq100",
-        "Impact bearish",
-        "Dow"
-      ],
-      "text": "UNOFFICIALLY, FOR THE WEEK, THE S&P 500 GAINED 0.13%, THE NASDAQ DECLINED 0.08%, AND THE DOW FELL 0.17%"
-    },
-    {
-      "id": "mkt:019e2d3b-8c7e-7663-82fc-495be7c522ee",
-      "time": "2026-05-16 04:02:17",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "S&P500",
-        "Impact bullish",
-        "Nasdaq100",
-        "Dow"
-      ],
-      "text": "S&P 500 RECORDS SEVENTH STRAIGHT WEEKLY GAIN, LONGEST SINCE 9-WEEK STREAK ENDED DECEMBER 2023"
-    },
-    {
-      "id": "mkt:019e2d3b-7a37-7663-82fc-451bfd0745e6",
-      "time": "2026-05-16 04:02:13",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Nasdaq100",
-        "Impact bearish"
-      ],
-      "text": "NASDAQ SNAPS 6-WEEK STREAK OF GAINS"
-    },
-    {
-      "id": "4882894",
-      "time": "2026-05-16 04:00:45",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股收盤：三大股指集體收跌】道指跌1.07%，標普500指數跌1.24%，納指跌1.55%。Arm Holdings跌8.48%，Coinbase Global跌7.85%，康寧跌7.71%，福特汽車跌7.35%，美光跌6.60%，Ciena科技跌6.26%。“七姐妹”方面：微軟漲3.04%，蘋果漲0.69%，Meta Platforms跌0.65%，谷歌跌0.99%，亞馬遜跌1.20%，英偉達跌4.40%，特斯拉跌4.76%。"
-    },
-    {
-      "id": "mkt:019e2d3a-0956-7663-82fc-39e4371d5e3a",
-      "time": "2026-05-16 04:00:38",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Wall Street (US)",
-        "Dow",
-        "Impact bearish",
-        "S&P500",
-        "Nasdaq100"
-      ],
-      "text": "DOW CLOSED -1.07%, S&P 500 -1.24%, NASDAQ -1.54%"
     }
   ]
 }
