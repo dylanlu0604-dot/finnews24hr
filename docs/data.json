@@ -1,7 +1,72 @@
 {
-  "updated": "2026-05-23 03:48:55",
-  "count": 16080,
+  "updated": "2026-05-23 03:52:44",
+  "count": 16086,
   "items": [
+    {
+      "id": "mkt:019e513d-9164-7aae-9ae1-09abf2202733",
+      "time": "2026-05-23 03:50:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "CNH",
+        "Impact bearish"
+      ],
+      "text": "【Trump-Lai Call Not Yet Arranged as Beijing Warns of Strain on US-China Ties】The US and Taiwan have not made concrete plans for a call between President Donald Trump and Taiwan leader Lai Ching-te, despite Trump repeatedly saying he would speak with him about Taiwan’s defense policies, according to people familiar with the matter. Beijing warned Washington that such contact could damage bilateral ties following Trump’s recent meetings with Chinese President Xi Jinping. Trump also said he has not decided whether to approve a potential $14 billion arms sale to Taiwan, although US officials privately told Taipei to expect no policy change."
+    },
+    {
+      "id": "4895732",
+      "time": "2026-05-23 03:50:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【山西沁源縣一煤礦井下一氧化碳超標 已造成4人死亡16人危重】據山西省沁源縣訊息，當地22日晚9時43分接報，山西省長治市沁源縣通洲煤業集團留神峪煤礦井下一氧化碳感測器發出超限警報，當時井下作業人員共247人。截至23日凌晨3時33分，已有157人升井，其中4人死亡。井下仍有90人，其中16人危重。目前，搶救工作仍在緊張進行中。 (新華社)"
+    },
+    {
+      "id": "4895731",
+      "time": "2026-05-23 03:50:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "黑莓上漲21%，創2025年6月份以來盤中最大漲幅，重新整理2022年以來盤中最高位。"
+    },
+    {
+      "id": "4895730",
+      "time": "2026-05-23 03:49:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "沃爾瑪公司：負責門店運營的執行副總裁即將離開沃爾瑪。"
+    },
+    {
+      "id": "4895729",
+      "time": "2026-05-23 03:49:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局：索羅門群島拉塔以西160公里處發生5.4級地震。"
+    },
+    {
+      "id": "4895728",
+      "time": "2026-05-23 03:49:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普重申對郵寄投票的批評態度。"
+    },
+    {
+      "id": "mkt:019e513b-8498-7aae-9ae1-037ae8ed3e87",
+      "time": "2026-05-23 03:48:35",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "TRUMP: NY CAN NEVER BE THE SAME IF IT LOSES ITS TAX BASE"
+    },
     {
       "id": "4895727",
       "time": "2026-05-23 03:46:34",
@@ -144403,15 +144468,6 @@
         "Importance 0"
       ],
       "text": "Copper is down by 5% — Copper decreased 5% to 6.2389 USD/Lbs"
-    },
-    {
-      "id": "4882890",
-      "time": "2026-05-16 03:49:35",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "埃克森美孚在提交至美國證監會的檔案中表示：機構股東服務公司因正與得州總檢察長處於訴訟糾紛中，存在利益衝突。"
     }
   ]
 }
