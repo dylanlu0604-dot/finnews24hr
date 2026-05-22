@@ -1,7 +1,67 @@
 {
-  "updated": "2026-05-22 13:31:48",
-  "count": 16146,
+  "updated": "2026-05-22 13:35:38",
+  "count": 16130,
   "items": [
+    {
+      "id": "4894256",
+      "time": "2026-05-22 13:34:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大皇家銀行將沃爾瑪目標價從140美元下調至137美元。"
+    },
+    {
+      "id": "4894255",
+      "time": "2026-05-22 13:34:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "歷峰集團將於2026年5月26日啟動新一輪迴購計劃，最多回購1000萬股A級股份，佔公司總股本的1.69%。"
+    },
+    {
+      "id": "mkt:019e4e2c-dee9-7aa1-9585-912a632c3c23",
+      "time": "2026-05-22 13:33:43",
+      "tags": [
+        "MKT News",
+        "WMT.O",
+        "Impact bearish"
+      ],
+      "text": "WALMART: RBC CUTS TARGET PRICE TO $137 FROM $140"
+    },
+    {
+      "id": "mkt:019e4e2c-75eb-7aa1-9585-888d5423cd43",
+      "time": "2026-05-22 13:33:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "CHINA COMPLETED PLAN FOR NEW ENERGY STORAGE DEVELOPMENT UNDER 15TH FIVE-YEAR PLAN, AWAITING RELEASE - CSJ"
+    },
+    {
+      "id": "4894254",
+      "time": "2026-05-22 13:32:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【奕境X9新車計劃今年第三季度上市】5月19日，奕境汽車與引望全面深化戰略合作2.0正式啟動。奕境X9首批搭載鴻蒙座艙HarmonySpace 6，同時也搭載了基於HUAWEI XMC數字底盤引擎的赤兔平臺，並配備的華為乾崑智駕ADS 5、896線雙光路影象級鐳射雷達。新車已於2026北京車展完成全球首秀，計劃於今年第三季度上市。"
+    },
+    {
+      "id": "4894253",
+      "time": "2026-05-22 13:32:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【其他小金屬板塊走高】其他小金屬板塊走高，貴研鉑業、雲南鍺業、華錫有色、中礦資源、錫業股份等跟漲。"
+    },
+    {
+      "id": "4894251",
+      "time": "2026-05-22 13:31:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "大盤主力淨流入超100億。"
+    },
     {
       "id": "4894250",
       "time": "2026-05-22 13:31:02",
@@ -144860,219 +144920,6 @@
         "Greater China"
       ],
       "text": "TAIWAN'S WEIGHTED INDEX CLOSED DOWN 1.39%"
-    },
-    {
-      "id": "4881300",
-      "time": "2026-05-15 13:35:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "臺灣證交所加權股價指數收低1.4%報41,172.36。"
-    },
-    {
-      "id": "4881299",
-      "time": "2026-05-15 13:34:58",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "鈀連續主力合約日內跌6%，現報343.80元。"
-    },
-    {
-      "id": "4881298",
-      "time": "2026-05-15 13:34:45",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "白銀連續主力合約日內跌10%，現報19470.00元。"
-    },
-    {
-      "id": "mkt:019e2a21-2e32-7bb5-b4d6-ed8e2f15edf9",
-      "time": "2026-05-15 13:34:38",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "SPOT SILVER EXTENDS LOSSES, LAST DOWN OVER 5% AT $79.24/OZ"
-    },
-    {
-      "id": "4881297",
-      "time": "2026-05-15 13:34:38",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4570美元/盎司，日內跌1.81%。"
-    },
-    {
-      "id": "4881296",
-      "time": "2026-05-15 13:34:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "匈牙利將從儲備中釋放5.75億升燃料。"
-    },
-    {
-      "id": "mkt:019e2a21-13d5-7bb5-b4d6-e3a56d693a66",
-      "time": "2026-05-15 13:34:31",
-      "tags": [
-        "MKT News",
-        "Nikkei 225",
-        "Impact bearish"
-      ],
-      "text": "JAPAN'S NIKKEI SHARE AVERAGE FALLS 2.1%"
-    },
-    {
-      "id": "4881295",
-      "time": "2026-05-15 13:34:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內跌7%，現報79.31美元/盎司。"
-    },
-    {
-      "id": "4881294",
-      "time": "2026-05-15 13:34:16",
-      "tags": [
-        "市場"
-      ],
-      "text": "*ST東晶盤中跌停，上演“天地板”，成交額超1.6億元。"
-    },
-    {
-      "id": "mkt:019e2a20-dbee-7bb5-b4d6-d8707cbedc5b",
-      "time": "2026-05-15 13:34:16",
-      "tags": [
-        "MKT News",
-        "SSE Composite",
-        "SZSE Component"
-      ],
-      "text": "TURNOVER ON SSE AND SZSE EXCEEDED 2.5TN YUAN, DOWN 50BN YUAN FROM THE SAME TIME YESTERDAY"
-    },
-    {
-      "id": "4881293",
-      "time": "2026-05-15 13:33:52",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨白銀失守79美元/盎司，日內跌5.49%。"
-    },
-    {
-      "id": "4881292",
-      "time": "2026-05-15 13:33:44",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經225指數下跌2.1%。"
-    },
-    {
-      "id": "4881291",
-      "time": "2026-05-15 13:33:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國綜指跌幅擴大至6%，現報7501.77點。"
-    },
-    {
-      "id": "4881290",
-      "time": "2026-05-15 13:32:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓總統府：對中美關係發展表示歡迎】當地時間15日下午，韓國總統府公報溝通首席秘書李圭淵在總統府青瓦臺舉行記者會。在回答記者提問時，李圭淵表示，韓國對中美領導人會晤以及中美關係發展表示歡迎，稱期待透過此次中美領導人會晤，中韓關係以及美韓關係也能夠得到進一步深化和鞏固。（央視新聞）"
-    },
-    {
-      "id": "4881288",
-      "time": "2026-05-15 13:32:42",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "倫敦證券交易所集團IBES資料顯示，歐洲企業一季度營收預計將下滑0.4%，一週前市場預期為增長0.2%。"
-    },
-    {
-      "id": "te:markets:550985",
-      "time": "2026-05-15 13:32:36",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Indonesia",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Rupiah Strengthens, Weekly Slide Persists — The Indonesian rupiah firmed to around IDR 17,450 per dollar in thin Friday trade, rebounding after two subdued sessions. Speculation that the central bank may raise its benchmark rate next week to 5% from 4.75%, held since October, buoyed sentiment as policymakers seek to stem outflows and steady the currency. Earlier this week, the government launched a bond stabilisation fund to shore up debt markets amid rising yields and persistent foreign selling pressure. However, the rupiah remained on track for a seventh straight weekly loss, down around 0.5% so far, pressured by falling reserves, fiscal strains, and inflation risks from the Iran war that threaten energy costs despite April’s mild domestic reading. Investors also stayed cautious ahead of Q1 current account data after the deficit widened in Q4 on a larger oil shortfall. Globally, the dollar held firm as U.S. cost pressures reinforced bets the Fed could keep rates higher for longer, with some still eyeing another hike this year."
-    },
-    {
-      "id": "te:economy:550984",
-      "time": "2026-05-15 13:32:21",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Estonia",
-        "Unemployment Rate",
-        "Importance 1"
-      ],
-      "text": "Estonian Jobless Rate Falls to 7.1% in Q1 — Estonia’s unemployment rate fell to 7.1% in Q1 2026 from an eleven-year high of 8.6% in the corresponding period last year. The number of unemployed decreased by 12.0 thousand to 52.2 thousand. Of this total, 25.6 thousand were men, compared with 33.7 thousand a year earlier, while 26.7 thousand were women, compared with 30.5 thousand previously. Across age groups, the youth unemployment rate (aged 15–24) rose by 4.0 percentage points to 22.8%, while the rate for those aged 25–49 fell to 6.2% from 8.2%, and for those aged 50–74 declined to 5.2% from 6.9%. Meanwhile, the number of employed rose by 4.7 thousand to 686.3 thousand. The labor force participation rate eased to 73.2% from 73.7% a year earlier, while the employment rate rose to 68.0% from 67.4%. In Q4 2025, the jobless rate stood at 6.4%."
-    },
-    {
-      "id": "4881287",
-      "time": "2026-05-15 13:32:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "MSCI亞太指數下跌2%至266.53點。"
-    },
-    {
-      "id": "4881286",
-      "time": "2026-05-15 13:32:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內跌5%，現報79.19美元/盎司。"
-    },
-    {
-      "id": "4881285",
-      "time": "2026-05-15 13:32:13",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "倫敦證券交易所集團IBES資料顯示，歐洲公司第一季度盈利預計將增長11.5%，高於一週前的10.2%。"
-    },
-    {
-      "id": "mkt:019e2a1e-f9f9-7bb5-b4d6-d66a66a553b0",
-      "time": "2026-05-15 13:32:12",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "Treasury Yields",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "U.S. 10-YEAR TREASURY YIELD RISES TO 4.530%, HIGHEST SINCE MAY 2025"
-    },
-    {
-      "id": "4881284",
-      "time": "2026-05-15 13:32:06",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4580美元/盎司，日內跌2.25%。"
-    },
-    {
-      "id": "4881283",
-      "time": "2026-05-15 13:31:55",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超2.5萬億元，較上日此時縮量536億元。"
     }
   ]
 }
