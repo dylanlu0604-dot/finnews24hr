@@ -1,7 +1,136 @@
 {
-  "updated": "2026-05-23 02:54:48",
-  "count": 16058,
+  "updated": "2026-05-23 03:06:33",
+  "count": 16057,
   "items": [
+    {
+      "id": "4895689",
+      "time": "2026-05-23 03:05:15",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部：投資基金在最新的雙週報告期內購買了293.32億美元的10年期國債，較上月的281.03億美元有所增加；購買了183.40億美元的30年期債券，較上月的164.15億美元有所增加；購買了416.36億美元3年期國債，較上月的428.10億美元有所減少。\n外國投資者在最新的雙週報告期內購買了56.29億美元3年期國債，較上月的68.34億美元有所減少；購買了62.30億美元10年期國債，較上月的57.89億美元有所增加；購買了27.67億美元的30年期債券，較上月的23.13億美元有所增加。"
+    },
+    {
+      "id": "mkt:019e5113-3a01-788e-b251-f9849c7a0051",
+      "time": "2026-05-23 03:04:34",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "US SOURCE TO CHANNEL 12 NEWS: TRUMP IS FRUSTRATED, HE MAY MAKE A DECISION ON \"DECISIVE ACTION\" AGAINST IRAN"
+    },
+    {
+      "id": "4895688",
+      "time": "2026-05-23 03:04:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "在岸人民幣兌美元（CNY）北京時間03:00收報6.7978元，較週四夜盤收盤跌18點。成交量466.56億美元。"
+    },
+    {
+      "id": "mkt:019e510f-e7de-788e-b251-f1019d9075f7",
+      "time": "2026-05-23 03:00:57",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "FOREIGN INVESTORS IN LATEST BIWEEKLY REPORTING PERIOD BUY $5.629 BLN 3-YEAR NOTE DUE 05/15/2029 VS $6.834 BLN PRIOR MONTH - U.S. TREASURY INVESTMENT FUNDS IN LATEST BIWEEKLY REPORTING PERIOD BUY $18.340 BLN 30-YEAR BOND DUE 05/15/2056 VS $16.415 BLN PRIOR MONTH - U.S. TREASURY INVESTMENT FUNDS IN LATEST BIWEEKLY REPORTING PERIOD BUY $29.332 BLN 10-YEAR NOTE DUE 05/15/2036 VS $28.103 BLN PRIOR MONTH - U.S. TREASURY"
+    },
+    {
+      "id": "4895687",
+      "time": "2026-05-23 03:00:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒生指數主連夜盤收跌0.49%，報25430點。恒生科技指數主連夜盤收跌0.74%，報4824點。"
+    },
+    {
+      "id": "mkt:019e510f-c261-788e-b251-efd5f876356c",
+      "time": "2026-05-23 03:00:47",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "INVESTMENT FUNDS IN LATEST BIWEEKLY REPORTING PERIOD BUY $41.636 BLN 3-YEAR NOTE DUE 05/15/2029 VS $42.810 BLN PRIOR MONTH - U.S. TREASURY"
+    },
+    {
+      "id": "mkt:019e510f-b645-788e-b251-e17a8d5b5ef2",
+      "time": "2026-05-23 03:00:44",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "FOREIGN INVESTORS IN LATEST BIWEEKLY REPORTING PERIOD BUY $2.767 BLN 30-YEAR BOND DUE 05/15/2056 VS $2.313 BLN PRIOR MONTH - U.S. TREASURY FOREIGN INVESTORS IN LATEST BIWEEKLY REPORTING PERIOD BUY $6.230 BLN 10-YEAR NOTE DUE 05/15/2036 VS $5.789 BLN PRIOR MONTH - U.S. TREASURY"
+    },
+    {
+      "id": "4895686",
+      "time": "2026-05-23 03:00:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收跌0.37%，報25324.91點，低水281.12點。"
+    },
+    {
+      "id": "mkt:019e510a-d85b-788e-b251-dbdfcd4d2a36",
+      "time": "2026-05-23 02:55:25",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Crypto Concepts",
+        "Bitcoin",
+        "Impact bullish",
+        "Ethereum"
+      ],
+      "text": "SEC DELAYS PLAN ALLOWING FOR CRYPTO VERSIONS OF US STOCKS"
+    },
+    {
+      "id": "mkt:019e510a-a2ff-788e-b251-d4aab74087a9",
+      "time": "2026-05-23 02:55:12",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "BRENT CRUDE FUTURES SETTLE AT $103.54/BBL, UP 96 CENTS, 0.94 PCT"
+    },
+    {
+      "id": "mkt:019e510a-9af0-788e-b251-cb7782b8ba08",
+      "time": "2026-05-23 02:55:09",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. CRUDE OIL FUTURES SETTLE AT $96.60/BBL, UP 25 CENTS, 0.26 PCT"
+    },
+    {
+      "id": "4895685",
+      "time": "2026-05-23 02:54:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【U17國足亞洲盃亞軍】在剛剛結束的2026年U17男足亞洲盃決賽中，中國隊2:3不敵日本隊，收穫亞軍。"
+    },
     {
       "id": "4895684",
       "time": "2026-05-23 02:41:35",
@@ -144072,123 +144201,6 @@
         "公司"
       ],
       "text": "百事公司旗下品牌Muscle Milk 推出全新配方奶昔，採用超濾牛奶製成，不含人工甜味劑、人工香精及人工色素。"
-    },
-    {
-      "id": "4882849",
-      "time": "2026-05-16 03:03:09",
-      "tags": [
-        "市場"
-      ],
-      "text": "在岸人民幣兌美元（CNY）北京時間03:00收報6.8140元，較週四夜盤收盤跌262點。成交量614.15億美元。"
-    },
-    {
-      "id": "mkt:019e2d03-56fe-7663-82fb-d5153ccd01fe",
-      "time": "2026-05-16 03:00:53",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "JD.com",
-        "JD.O",
-        "Impact bullish",
-        "MA.O"
-      ],
-      "text": "JD.COM AND MASTERCARD TO DEEPEN COLLABORATION TO EXPAND PAYMENT CHOICES FOR INT’L TRAVELERS IN CHINA"
-    },
-    {
-      "id": "te:economy:551294",
-      "time": "2026-05-16 03:00:06",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Colombia",
-        "Government Bond 10Y",
-        "Importance 0"
-      ],
-      "text": "Colombia 10Y Bond Yield Hits 3-1/2-year High — Colombia 10 Year Government Bond Yield increased to 13.98%, the highest since November 2022. Over the past 4 weeks, Colombia 10Y Bond Yield gained 127.20 basis points, and in the last 12 months, it increased 171.30 basis points."
-    },
-    {
-      "id": "4882846",
-      "time": "2026-05-16 03:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒指期貨夜盤收跌0.31%，報25622.52點，低水340.21點。"
-    },
-    {
-      "id": "4882845",
-      "time": "2026-05-16 02:59:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列駐美國大使：與黎巴嫩的談判成功機會很大。"
-    },
-    {
-      "id": "4882844",
-      "time": "2026-05-16 02:58:34",
-      "tags": [
-        "市場"
-      ],
-      "text": "本週，韓元兌美元累計下跌2.47%，週五（5月15日）報1497.63韓元，整體持續走低。"
-    },
-    {
-      "id": "4882843",
-      "time": "2026-05-16 02:58:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列駐美國大使：與黎巴嫩的和平談判是坦誠和富有成效的。"
-    },
-    {
-      "id": "4882842",
-      "time": "2026-05-16 02:58:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "敘利亞任命薩瓦特·拉斯蘭出任中央銀行行長。"
-    },
-    {
-      "id": "mkt:019e2d00-e64f-7663-82fb-cdf625557a75",
-      "time": "2026-05-16 02:58:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "SYRIA APPOINTS SAFWAT RASLAN AS CENTRAL BANK GOVERNOR -STATE NEWS AGENCY"
-    },
-    {
-      "id": "4882841",
-      "time": "2026-05-16 02:57:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "巴西石油公司執行長：企業在鹽下油田領域迎來全新發展機遇。"
-    },
-    {
-      "id": "4882840",
-      "time": "2026-05-16 02:57:35",
-      "tags": [
-        "市場"
-      ],
-      "text": "洲際交易所 7 月布倫特原油期貨結算價報每桶 109.26 美元。"
-    },
-    {
-      "id": "4882839",
-      "time": "2026-05-16 02:56:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "AST 太空移動跌幅收窄至 0.2%，此前一度大跌 7.1%。"
-    },
-    {
-      "id": "te:economy:551293",
-      "time": "2026-05-16 02:56:20",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Government Bond 10Y",
-        "Importance 0"
-      ],
-      "text": "US 10 Year Note Bond Yield traded above 4.6 percent — US 10 Year Note Bond Yield rose above 4.6, according to over-the-counter interbank yield quotes for this government bond maturity."
     }
   ]
 }
