@@ -1,7 +1,133 @@
 {
-  "updated": "2026-05-22 10:12:00",
-  "count": 16141,
+  "updated": "2026-05-22 10:15:58",
+  "count": 16149,
   "items": [
+    {
+      "id": "te:markets:552922",
+      "time": "2026-05-22 10:15:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Asia FX Updates: South Korean Won Depreciates by 0.42% — Top currency losers are South Korean Won (-0.42%) and Japanese Yen (-0.07%). Meanwhile Chinese Yuan was little changed."
+    },
+    {
+      "id": "4894006",
+      "time": "2026-05-22 10:14:26",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國家發改委：我國經濟平穩執行，向新向優發展的態勢沒有變】5月22日，國家發展改革委召開新聞釋出會。會上，國家發展改革委政策研究室副主任李超表示，今年以來我國經濟展現出強大的活力和韌性。4月份部分經濟指標出現了波動，其中既有外部環境不確定性因素增多，地緣政治風險上升等因素的影響，也與國內供強需弱的矛盾還沒有根本性改變有關。但總體上看，我國經濟平穩執行，向新向優發展的態勢沒有變。具體體現在三方面：一是新興動能壯大，我國的高技術製造業無論從增加值、投資出口到利潤均保持較快增長；二是市場效益改善，重點行業產能治理和綜合整治“內卷式”競爭持續顯效，部分行業的供求關係逐步改善，企業價格的企穩回升，推動了企業利潤增加，市場預期向好；三是外貿韌性彰顯。面對動盪不安的國際環境，我國依託完整的產業體系，不斷提升產品和服務質量。"
+    },
+    {
+      "id": "mkt:019e4d75-fa1a-7aa1-9583-d8efd3da7f80",
+      "time": "2026-05-22 10:13:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish"
+      ],
+      "text": "EUROPEAN FUTURES RISE; EUROSTOXX 50 FUTURES AND DAX FUTURES UP 0.8%"
+    },
+    {
+      "id": "4894005",
+      "time": "2026-05-22 10:13:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【賽力斯—博奧鎂鋁半固態鎂合金汽車零件量產落地】日前，賽力斯與寶武鎂業旗下重慶博奧鎂鋁金屬製造有限公司（簡稱“博奧鎂鋁”）共同舉行了半固態鎂合金汽車零件量產落地儀式，標誌著中國半固態鎂合金注射成形技術，已從“工藝可行”跨域到“穩定量產”的關鍵分水嶺。伊之密作為半固態鎂合金注射成型裝置供應商，為專案提供了“隱形卻關鍵”的支撐。"
+    },
+    {
+      "id": "4894004",
+      "time": "2026-05-22 10:13:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中科沌序完成數千萬元種子輪融資】5月22日，據首程控股訊息，國內 Collective AGI（群體通用人工智慧）領域企業北京中科沌序科技有限公司完成數千萬元種子輪融資，本輪融資由首程控股（0697.HK）領投，鈞犀資本、順禧基金跟投，首程控股作為專案聯合孵化方與核心投資方全程參與本次融資。"
+    },
+    {
+      "id": "4894003",
+      "time": "2026-05-22 10:13:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "【陳茂波：香港金融市場持續活躍 新股集資額位居全球首位】香港財政司司長陳茂波昨日(蘇黎世時間5月21日)抵達瑞士蘇黎世，展開訪問行程。他指出，香港經濟過去兩年多保持穩步增長，金融市場持續活躍。在國家支援內地企業出海的背景下，更多企業來港上市集資拓展海外業務；去年及今年以來，香港新股集資額均位居全球首位，吸引眾多海內外投資者。他強調，在地緣政治格局下，不少國際投資者視香港為資金安全港及進入內地市場的跳板，港股表現亮麗。陳茂波表示，特區政府正積極推動股票市場改革，擴大與各地資本市場的互聯互通，提升流動性及投資選擇。固定收益、貨幣市場、資產財富管理及綠色金融等領域持續創新，市場規模不斷擴大。香港亦正積極發展黃金及大宗商品交易市場，豐富國際金融中心內涵。在金融創新方面，香港採取積極開放態度，在穩慎監管與促進發展並重下推動數字資產應用。"
+    },
+    {
+      "id": "4894002",
+      "time": "2026-05-22 10:12:59",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【PCB概念漲勢擴大 近十隻成分股漲停】PCB概念漲勢擴大，銅箔、玻纖等方向均表現突出，強達電路、方邦股份20cm漲停，此前鵬鼎控股、景旺電子、寶鼎科技、宏和科技等多股漲停，鼎泰高科、南亞新材、歐科億均漲超10%。"
+    },
+    {
+      "id": "mkt:019e4d74-f207-7aa1-9583-d59fa2b90c56",
+      "time": "2026-05-22 10:12:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "CHINA NDRC SPOX: DOMESTIC SUPPLY-DEMAND IMBALANCES PERSIST, THOUGH MACRO ECONOMY REMAINS STABLE OVERALL"
+    },
+    {
+      "id": "4894001",
+      "time": "2026-05-22 10:12:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "光學光電子板塊短線走低，緯達光電跌超14%，聯建光電、戈碧迦、龍騰光電、華燦光電等跟跌。"
+    },
+    {
+      "id": "4894000",
+      "time": "2026-05-22 10:12:32",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲股指期貨上漲；斯托克50股指期貨<STXEc1>與德國DAX股指期貨<FDXc1>均上漲0.8%。"
+    },
+    {
+      "id": "4893999",
+      "time": "2026-05-22 10:12:22",
+      "tags": [
+        "央行",
+        "國際",
+        "原創"
+      ],
+      "text": "【菲律賓央行行長表示正考慮在例行週期外加息】菲律賓央行行長雷莫洛納(Eli Remolona)週五表示，該行正考慮在例行週期外進行一次加息。雷莫洛納接受採訪時表示，該央行4月的加息“似乎還不夠”，並指出政策制定者正面對巨大且持續的供給衝擊。菲律賓央行下次例行政策會議定於6月18日舉行。"
+    },
+    {
+      "id": "mkt:019e4d74-2eb6-7aa1-9583-cd995ac882a6",
+      "time": "2026-05-22 10:12:00",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "0992.HK",
+        "Impact bullish"
+      ],
+      "text": "LENOVO CEO: DIVERSIFIED SUPPLY OF MEMORY CHIPS IS DEFINITELY HELPFUL"
+    },
+    {
+      "id": "mkt:019e4d74-0eac-7aa1-9583-c0b027b93f15",
+      "time": "2026-05-22 10:11:51",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AMD.O",
+        "Impact bullish",
+        "TSM.O"
+      ],
+      "text": "AMD CEO LISA SU: WE MADE TWO BETS. ONE WAS TSMC. THAT TURNED OUT TO BE A GREAT BET FOR US. THE SECOND WAS ADVANCED PACKAGING. NOW THE ENTIRE INDUSTRY IS USING THIS"
+    },
     {
       "id": "4893998",
       "time": "2026-05-22 10:11:17",
@@ -145052,54 +145178,6 @@
         "公司"
       ],
       "text": "【中芯國際趙海軍：AI帶動電源管理等晶片需求 車規模擬BCD平臺需求旺盛】中芯國際聯合CEO趙海軍在業績會上表示，AI熱潮帶動電源管理、資料傳輸等晶片需求提升，同時擠壓NOR Flash等儲存器產能供應鏈，使得公司獨立式快閃記憶體工藝平臺及模擬工藝臺需求旺盛。公司車規工藝覆蓋邏輯、模擬BCD、嵌入式儲存、獨立式視訊記憶體、顯示驅動、影象感測器、功率器件等，經多年打磨逐步放量，尤其是車規模擬BCD平臺需求旺盛、訂單飽滿。(藍鯨新聞)"
-    },
-    {
-      "id": "te:markets:550926",
-      "time": "2026-05-15 10:15:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Asia FX Updates: New Zealand Dollar Depreciates by 0.81% — Top currency losers are New Zealand Dollar (-0.81%), Indonesian Rupiah (-0.55%), South Korean Won (-0.51%), Chinese Yuan (-0.19%) and Japanese Yen (-0.09%)."
-    },
-    {
-      "id": "te:markets:550924",
-      "time": "2026-05-15 10:14:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "China Stocks on Two-Day Slide — The Shanghai Composite fell 0.9% to 4,140 on Friday, while the Shenzhen Component dropped 1.1% to 15,565, extending losses from the previous session as market sentiment remained fragile amid the Trump–Xi meeting. President Xi Jinping warned that Taiwan could become a flashpoint for clashes between the US and China, calling the situation “highly dangerous.” He also reiterated strong opposition to US arms sales to Taiwan and Taiwanese independence. Despite the firm remarks, US Trade Representative Jamieson Greer said both sides appeared open to extending the current trade truce. Moreover, the White House said both sides discussed boosting Chinese imports of US farm products and oil, and indicated alignment on keeping the Strait of Hormuz open. Notable laggards included Zijin Mining Group (-1.6%), Cambricon Technologies (-2%), BYD (-0.7%), and Wuliangye Yibin (-1.1%). Over the week, the Shanghai Composite is on track for a weekly decline, while the Shenzhen Component is set to post gains."
-    },
-    {
-      "id": "4881049",
-      "time": "2026-05-15 10:14:05",
-      "tags": [
-        "市場"
-      ],
-      "text": "亞洲早盤時段銅價下跌，倫敦金屬交易所三個月期銅合約下跌1.6%，報每噸13,721美元，結束了連續八天的漲勢。澳新銀行研究部分析師在一份報告中表示，此番下跌正值高企的價格抑制了購買，加工商發現本月銅杆訂單減弱。"
-    },
-    {
-      "id": "mkt:019e2968-ad14-7bb5-b4d5-1ac63396c7ac",
-      "time": "2026-05-15 10:13:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "HONG KONG PROPERTY STOCKS UP: RADIANCE HOLDINGS JUMPS OVER 33%, RONSHINE CHINA RISES MORE THAN 11%"
-    },
-    {
-      "id": "4881048",
-      "time": "2026-05-15 10:12:42",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "ST中路盤中跌停，上演“天地板”，現報5.7元，成交額1.1億元。"
     }
   ]
 }
