@@ -1,7 +1,55 @@
 {
-  "updated": "2026-05-22 21:10:28",
-  "count": 16092,
+  "updated": "2026-05-22 21:14:23",
+  "count": 16093,
   "items": [
+    {
+      "id": "4895320",
+      "time": "2026-05-22 21:13:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "【受汽油價格上漲影響 加拿大零售銷售額上升】加拿大零售銷售在經歷了強勁的一季度後，上月繼續增長，但飆升的汽油價格似乎正越來越多地侵蝕家庭預算。加拿大統計局週五公佈的初步估算顯示，4月零售商銷售額環比增長0.6%，此前3月增長0.9%。3月份的資料高於對經濟學家調查得出的0.6%的中位數預測。資料顯示，今年第一季度零售銷售增長2.1%，實現連續第七個季度擴張，也明顯高於2025年最後三個月0.4%的增幅。按銷量計算，第一季度零售銷售仍增長1.2%，但3月份歷史性飆升的汽油價格在其中發揮了重要作用。加拿大統計局並未提供4月初值的具體細節，該預估基於52.1%受訪企業的反饋資料。不過，3月報告顯示，加油站油價上漲可能正越來越多地擠壓其他消費支出，而此前兩個月表現出的更廣泛消費者需求強勁勢頭，似乎也將開始減弱。"
+    },
+    {
+      "id": "4895318",
+      "time": "2026-05-22 21:10:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數期貨漲幅擴大至0.5%。"
+    },
+    {
+      "id": "4895317",
+      "time": "2026-05-22 21:10:10",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "【下週央行公開市場將有3045億元逆回購到期】Wind資料顯示，本週央行公開市場開展了3045億元逆回購操作，因本週有30億元逆回購到期，本週實現淨投放3015億元。此外，本週有8000億元182天期買斷式逆回購到期，央行開展了1000億元國庫現金定存招投標。Wind資料顯示，下週央行公開市場將有3045億元逆回購到期，其中下週一至下週五分別到期10億元、5億元、500億元、1000億元、1530億元。此外，下週一將有5000億元365天期MLF到期。"
+    },
+    {
+      "id": "mkt:019e4fce-a1b1-7113-afb4-135781799d85",
+      "time": "2026-05-22 21:10:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "S&P500",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "QATAR HAS SENT A NEGOTIATING TEAM TO TEHRAN, IN COORDINATION WITH THE U.S., TO HELP SECURE A DEAL TO END THE IRAN WAR, SOURCE WITH KNOWLEDGE"
+    },
+    {
+      "id": "4895316",
+      "time": "2026-05-22 21:09:57",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "知情人士透露，卡達已與美國協調，派遣談判團隊前往德黑蘭，協助促成一項結束伊朗戰爭的協議。"
+    },
     {
       "id": "4895315",
       "time": "2026-05-22 21:09:17",
@@ -144412,51 +144460,6 @@
         "Important"
       ],
       "text": "United States | Industrial Production (MoM) (Apr) | actual 0.7% | consensus 0.30% | previous -0.50%"
-    },
-    {
-      "id": "4882375",
-      "time": "2026-05-15 21:13:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "加拿大魁北克儲蓄投資集團：將攜手波哥大能源集團，組建巴西第五大電力輸電業務平臺。"
-    },
-    {
-      "id": "4882374",
-      "time": "2026-05-15 21:12:36",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【昊創瑞通：目前在中東市場已獲得少量外貿訂單】昊創瑞通5月15日接受機構調研時表示，公司2024年已開始對海外市場進行考察，對海外市場的電網體系、技術標準、市場準入機制以及地緣政治風險等進行了深入調研，已經調研的市場包括中東、歐洲、北美、中亞、東南亞等市場。目前在中東市場已獲得少量外貿訂單。同時，公司也在積極探索本地化合作模式，進一步推動海外業務的規模化發展。"
-    },
-    {
-      "id": "mkt:019e2bc4-0727-7440-b03a-81ebac34af5a",
-      "time": "2026-05-15 21:12:07",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "NEW YORK SILVER FUTURES PLUNGE 10% INTRADAY TO $76.70 PER OUNCE SPOT SILVER DROPS MORE THAN $7 INTRADAY TO $76.43 PER OUNCE, DOWN 8.43%"
-    },
-    {
-      "id": "mkt:019e2bc3-b767-7440-b03a-7b9046862a39",
-      "time": "2026-05-15 21:11:47",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "【Morgan Stanley Sees Fed Holding Rates Through 2026, Cuts Delayed to 2027】Morgan Stanley expects the Fed to hold interest rates unchanged through 2026, pushing its forecast for the next two rate cuts to March and June 2027. The bank cited easing inflation and moderating tariff pressures while maintaining a 2.3% US growth forecast for 2026 despite near-term consumer softness."
     }
   ]
 }
