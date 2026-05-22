@@ -1,7 +1,274 @@
 {
-  "updated": "2026-05-22 20:12:56",
-  "count": 16067,
+  "updated": "2026-05-22 20:16:56",
+  "count": 16082,
   "items": [
+    {
+      "id": "mkt:019e4f9d-616d-777d-b242-461fe6d43e55",
+      "time": "2026-05-22 20:16:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "HASSETT: HOPE POWELL LEAVES SOON, WARSH GETS COMPLETE CONTROL"
+    },
+    {
+      "id": "4895199",
+      "time": "2026-05-22 20:16:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "義大利10年期國債收益率下跌10個基點，報3.652%，創10日新低。"
+    },
+    {
+      "id": "mkt:019e4f9d-08d5-777d-b242-3ba4584add96",
+      "time": "2026-05-22 20:15:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "WINGTECH SUES NEXPERIA AT CHINA COURT"
+    },
+    {
+      "id": "mkt:019e4f9c-f740-777d-b242-311c94338d97",
+      "time": "2026-05-22 20:15:45",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "S&P500",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "TREASURIES EXTEND GAINS; 10-YEAR YIELD TO SESSION LOW 4.54%"
+    },
+    {
+      "id": "mkt:019e4f9c-d074-777d-b242-2dfb09fb2d23",
+      "time": "2026-05-22 20:15:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "HASSETT: WARSH WILL MANAGE INTEREST RATE SITUATION WELL"
+    },
+    {
+      "id": "4895198",
+      "time": "2026-05-22 20:15:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普經濟顧問哈塞特 ：沃什會妥善處理利率局勢。"
+    },
+    {
+      "id": "4895197",
+      "time": "2026-05-22 20:15:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油失守103美元/桶，日內漲0.32%。"
+    },
+    {
+      "id": "4895196",
+      "time": "2026-05-22 20:15:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普經濟顧問哈塞特：希望鮑威爾能退出政壇。"
+    },
+    {
+      "id": "mkt:019e4f9c-67dd-777d-b242-279ca6909f61",
+      "time": "2026-05-22 20:15:08",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "Impact mixed",
+        "DXY"
+      ],
+      "text": "AL HADATH SOURCES: PAKISTAN ARMY CHIEF IS ON HIS WAY TO TEHRAN"
+    },
+    {
+      "id": "4895195",
+      "time": "2026-05-22 20:15:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油失守96美元/桶，日內跌0.37%。"
+    },
+    {
+      "id": "mkt:019e4f9c-4988-777d-b242-18ba8edda4ad",
+      "time": "2026-05-22 20:15:00",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "HASSETT: HOPEFULLY POWELL WILL STEP ASIDE"
+    },
+    {
+      "id": "4895194",
+      "time": "2026-05-22 20:14:57",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行：總體通脹仍穩定處於容忍區間內，輸入性價格傳導仍需監測。"
+    },
+    {
+      "id": "4895193",
+      "time": "2026-05-22 20:14:32",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲債券延續漲勢，德國10年期國債收益率下跌7個基點至3.03%。"
+    },
+    {
+      "id": "mkt:019e4f9b-c9b9-777d-b242-14610fbe5c5c",
+      "time": "2026-05-22 20:14:30",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "HASSETT: THERE'S RISK THAT OIL SHOCK FEEDS INTO CORE INFLATION HASSETT: CENTRAL BANKS MUST PAY CLOSE ATTENTION TO OIL SHOCK"
+    },
+    {
+      "id": "4895192",
+      "time": "2026-05-22 20:14:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數期貨上漲0.4%。"
+    },
+    {
+      "id": "mkt:019e4f9b-927c-777d-b242-08152a79d656",
+      "time": "2026-05-22 20:14:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish"
+      ],
+      "text": "STOXX EUROPE 600 INDEX JUMPS TO SESSION HIGH, UP 0.8%"
+    },
+    {
+      "id": "mkt:019e4f9b-8444-777d-b242-0599aaacae82",
+      "time": "2026-05-22 20:14:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "S&P 500 INDEX FUTURES SPIKE TO RISE 0.4%"
+    },
+    {
+      "id": "4895191",
+      "time": "2026-05-22 20:14:11",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "市場訊息：巴基斯坦陸軍參謀長正在前往德黑蘭。"
+    },
+    {
+      "id": "te:economy:553106",
+      "time": "2026-05-22 20:14:09",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Mexico",
+        "Monthly GDP YoY",
+        "Importance 1"
+      ],
+      "text": "Mexico Economic Activity Grows More Than Expected in March — Mexico’s economic activity rose 1.4% year-on-year in March 2026, beating forecasts of a 0.5% increase and rebounding from a 0.3% contraction in February. The tertiary sector led growth, expanding 2.8%, supported by strong gains in sport, cultural and recreational services (12.3%), public administration activities (11.3%), and wholesale trade (8.2%). The primary sector also grew 2.2%, as agricultural output increased 2% and livestock production rose 2.6%. In contrast, the secondary sector contracted 1.3%, weighed down by declines in construction (-6.2%) and manufacturing (-1%)."
+    },
+    {
+      "id": "4895190",
+      "time": "2026-05-22 20:13:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "土耳其主要股指上漲 4.4%，創 4 月 8 日以來最大漲幅。"
+    },
+    {
+      "id": "4895189",
+      "time": "2026-05-22 20:13:40",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "特朗普經濟顧問哈塞特：各國央行必須密切關注石油衝擊。"
+    },
+    {
+      "id": "mkt:019e4f9a-fc7b-777d-b241-f8f013a64602",
+      "time": "2026-05-22 20:13:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "WTI CRUDE FALLS BELOW $100/BBL, DOWN 1.46% INTRADAY"
+    },
+    {
+      "id": "4895188",
+      "time": "2026-05-22 20:13:26",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克600指數飆升至盤中高點，上漲0.8%。"
+    },
+    {
+      "id": "4895187",
+      "time": "2026-05-22 20:13:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普經濟顧問哈塞特：石油衝擊有可能加劇核心通脹。"
+    },
+    {
+      "id": "4895186",
+      "time": "2026-05-22 20:13:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗任命外交部發言人巴加埃擔任談判團隊發言人。"
+    },
+    {
+      "id": "4895185",
+      "time": "2026-05-22 20:12:45",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行：商品，特別是能源市場，仍然面臨壓力。"
+    },
+    {
+      "id": "mkt:019e4f9a-2f91-777d-b241-f1cc8ffdf3b0",
+      "time": "2026-05-22 20:12:42",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "RBI BULLETIN - OVERALL PETROLEUM CONSUMPTION DECLINED IN APRIL DUE TO SHARP FALL IN THE CONSUMPTION OF NAPHTHA, LPG"
+    },
     {
       "id": "4895184",
       "time": "2026-05-22 20:12:13",
@@ -144191,117 +144458,6 @@
         "國際"
       ],
       "text": "【教育部部長懷進鵬會見美國黑石集團主席蘇世民】5月14日，教育部部長懷進鵬在京會見美國黑石集團主席蘇世民一行。雙方就中美教育合作、清華大學蘇世民書院未來發展深入交流。懷進鵬讚賞蘇世民為書院發展和人才培養所作努力，表示中美兩國元首會晤向世界釋放積極、穩定訊號，期待蘇世民支援拓展“人工智慧+教育”領域合作，鼓勵其為深化中美教育交流，推動雙邊關係穩定、健康、可持續發展作出積極貢獻。蘇世民感謝教育部十年來對蘇世民書院的關心和支援，讚賞中國教育發展成就，表示願為更多優秀青年瞭解中國搭建橋樑。"
-    },
-    {
-      "id": "4882266",
-      "time": "2026-05-15 20:16:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓國4月份俄液化天然氣進口額環比增長13.3%】韓國統計局公佈的資料顯示，韓國4月份購買俄羅斯液化天然氣的金額增至近7000萬美元，環比增長13.3%。"
-    },
-    {
-      "id": "4882265",
-      "time": "2026-05-15 20:16:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "【由工信部指導的2026生物製造大賽正式啟動 設兩大核心賽道】記者獲悉，由工業和資訊化部消費品工業司指導的2026生物製造大賽今日啟動。大賽由工信部中小企業發展促進中心聯合地方工信部門共同主辦，聚焦生物製造前沿技術突破與應用創新，設前沿技術、應用創新兩大賽道。其中，前沿技術賽道側重底層技術、工具平臺與原始創新，重點關注新型基因編輯、酶工程、AI驅動生物系統設計等方向；應用創新賽道聚焦產業需求和場景落地，重點關注食品及日化功能原料、生物基材料與綠色農業等方向。賽事面向全國遴選優質企業與創客團隊，搭建“政產學研金服用”協同創新平臺，助力生物製造產業高質量發展。"
-    },
-    {
-      "id": "4882264",
-      "time": "2026-05-15 20:16:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "塔塔鋼鐵第四季度淨利潤293億盧比，市場預期307.7億盧比。"
-    },
-    {
-      "id": "4882263",
-      "time": "2026-05-15 20:15:58",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【美股盤前要聞速遞】\n①美股三大股指期貨齊跌：道指期貨跌0.80%，標普500指數期貨跌1.13%，納指期貨跌1.59%。\n②德國DAX指數跌1.70%，英國富時100指數跌1.66%，法國CAC40指數跌1.48%，歐洲斯托克50指數跌1.93%。\n③WTI原油漲3.38%，報104.59美元/桶。布倫特原油漲2.60%，報108.47美元/桶。\n④美國國債收盤漲跌互現，收益率曲線在變動不大的中期國債附近發生扭轉。長債跑贏推動利差趨平，30年期國債收益率較週三收盤水平下跌約1.5個基點。缺乏驅動價格走勢的催化劑，美債對美國經濟資料反應平淡。\n⑤美聯儲理事巴爾表示，縮減資產負債表並非央行應設定的政策目標，而且為實現該目標提出的諸多方案，反而會危及金融穩定。\n⑥大型科技企業已在全球掀起舉債融資熱潮，為人工智慧軍備競賽籌措資金；同時這些企業尋求拓寬華爾街以外的融資渠道，支撐規模激增的資本開支。\n⑦Gemini Space Station股價盤前跳漲16.5%，其第一季度營收增長，並獲得1億美元投資。\n⑧微軟股價盤前漲0.33％，此前比爾·阿克曼表示將於週五稍晚披露該股的一個新持倉，阿克曼強調，這家科技巨頭目前的估值“極具吸引力”。\n⑨黃金價格下跌，金礦企業在美上市股票盤前走弱。西班耶斯迪爾沃特礦企股價下跌4.7%，盎格魯黃金阿散蒂股價下跌4.3%。"
-    },
-    {
-      "id": "4882262",
-      "time": "2026-05-15 20:15:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "【零跑汽車：利用Stellantis集團巴西工廠產能計劃正在落地】零跑汽車管理層今日在2026年一季度業績會上表示，公司利用Stellantis集團巴西工廠產能計劃正在落地，以實現產品在南美市場的本地化。此外，Stellantis集團旗下歐寶汽車將在西班牙工廠與零跑B10共線生產，預計至2027、2028年歐寶車型上市後，將對公司營收產生影響。"
-    },
-    {
-      "id": "4882260",
-      "time": "2026-05-15 20:15:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "【上海開展“清朗·整治AI應用亂象”專項行動】為規範AI服務和應用，促進行業健康有序發展，保障公民合法權益，根據中央網信辦統一部署，上海網信辦結合屬地實際，積極組織開展為期4個月的“清朗·整治AI應用亂象”專項行動。本次專項行動分兩個階段開展。第一階段為“清朗·AI應用服務典型違規問題”專項治理行動，重點整治未按規定履行大模型備案登記義務、安全稽核能力不足、大模型訓練語料安全、AI資料投毒、生成合成內容標識落實不到位等問題，強化AI技術源頭治理。第二階段為“清朗·整治AI資訊內容亂象”專項行動，聚焦利用AI技術生成“數字泔水”、製作釋出虛假資訊、散播暴力低俗等不良資訊、假冒仿冒他人、侵害未成年人權益、從事網路水軍活動等問題，堅決清理違法不良資訊，依法處置處罰違規賬號、MCN機構和網站平臺。（網信上海）"
-    },
-    {
-      "id": "4882259",
-      "time": "2026-05-15 20:15:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大4月新屋開工 27.93萬戶，預期24萬戶，前值由23.59萬戶修正為23.97萬戶。"
-    },
-    {
-      "id": "4882258",
-      "time": "2026-05-15 20:15:14",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【日債利率升至新高，“股債匯三殺”考驗日本央行決策】5月15日，日本30年期國債收益率上升13個基點，達到4.035%，創1999年以來最高水平；日本20年期國債收益率升至3.648%，創1996年以來新高；日本10年期國債收益率上升7個基點，至2.7%。這意味著，日本國債遭遇猛烈拋售，價格跳水。市場分析認為，日本國債的最新一輪拋售主要出於市場對其國內債務可持續性的擔憂，以及美國經濟表現給日本債券帶來外溢壓力。此外，在中東局勢推高油價，通脹風險或從短期衝擊轉為長期趨勢的背景下，有日本央行審議委員呼籲加息，這一預期進一步加劇日本國債的拋售。值得注意的是，同一時間，全球主要債市的拋售壓力進一步加劇。（21財經）"
-    },
-    {
-      "id": "mkt:019e2b8f-c3d7-7ff8-af3c-aee095b74eaf",
-      "time": "2026-05-15 20:15:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Canada | Housing Starts (Apr) | actual 279300K | consensus 240000K | previous 235900K"
-    },
-    {
-      "id": "mkt:019e2b8f-c2dc-7ff8-af3c-a61128ab3e2e",
-      "time": "2026-05-15 20:14:58",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "GE.O",
-        "Impact bullish"
-      ],
-      "text": "CORRECTED-CHINA STATE PLANNER DEPUTY HEAD (NOT 'HEAD'), TO GE AEROSPACE CEO: HOPES GE AEROSPACE TO DEEPEN INVESTMENT, COOPERATION IN CHINA - STATEMENT"
-    },
-    {
-      "id": "mkt:019e2b8e-bda1-7ff8-af3c-9a033a50379b",
-      "time": "2026-05-15 20:13:52",
-      "tags": [
-        "MKT News",
-        "Important",
-        "CNH",
-        "Impact bullish",
-        "Hang Seng Index",
-        "CSI300"
-      ],
-      "text": "CHINA STATE PLANNER HEAD, TO GE AEROSPACE CEO: HOPES GE AEROSPACE TO DEEPEN INVESTMENT, COOPERATION IN CHINA - STATEMENT"
-    },
-    {
-      "id": "4882257",
-      "time": "2026-05-15 20:13:00",
-      "tags": [
-        "市場"
-      ],
-      "text": "德國10年期國債收益率上漲9個基點至3.13%，創2011年以來新高。"
     }
   ]
 }
