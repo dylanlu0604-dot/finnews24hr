@@ -1,7 +1,35 @@
 {
-  "updated": "2026-05-23 04:50:13",
-  "count": 16142,
+  "updated": "2026-05-23 04:54:04",
+  "count": 16143,
   "items": [
+    {
+      "id": "4895816",
+      "time": "2026-05-23 04:52:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "墨西哥總統：歐盟與墨西哥協議將簡化歐洲對墨西哥的投資流程。"
+    },
+    {
+      "id": "4895815",
+      "time": "2026-05-23 04:51:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士：美國稅務機構或將在稅務表格中增設公民身份相關問詢項。"
+    },
+    {
+      "id": "te:markets:553196",
+      "time": "2026-05-23 04:50:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Falls on Banking and Energy Losses — The Ibovespa fell 1% to close at 176,210 on Friday, pressured by losses in major banks and energy producers. The banking sector continued to weaken after months of strong gains in the stock market. Aside from Banco do Brasil, which rose 0.6%, major lenders closed sharply lower, with Bradesco down 1.6%, Itaú Unibanco losing 1.7%, and Santander Brasil falling 1.8%. Weakness in financials also weighed on B3, which dropped 2.1%. Petrobras shed 1% amid volatile oil prices, while junior oil companies traded mixed, with Prio up 0.6% and Brava Energia down 1.8%. Vale gained 0.6% despite iron ore posting a weekly loss. Investors also assessed a new election poll showing President Lula opening a nine-point lead in the first round following controversy involving Flávio Bolsonaro and former Banco Master owner Daniel Vorcaro, who faces fraud charges. Markets now await next week’s key economic releases, including Brazil’s first-quarter GDP data."
+    },
     {
       "id": "4895814",
       "time": "2026-05-23 04:48:58",
@@ -144890,27 +144918,6 @@
         "市場"
       ],
       "text": "【紐約期金重挫3%，逼近4500美元】週五（5月15日）紐約尾盤，現貨黃金跌2.47%，報4537.20美元/盎司，本週累計下跌3.77%，5月11-14日大致持穩於4700美元——5月12日亞太盤初曾達到4773.53美元。COMEX黃金期貨跌3.01%，報4544.60美元/盎司，北京時間21:45跌至4513.80美元，逼近5月4日底部4510.10美元、3月26日底部4128.50美元，本週累跌3.96%。"
-    },
-    {
-      "id": "4882959",
-      "time": "2026-05-16 04:50:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "13F報告顯示：Soros一季度新進伯克希爾哈撒韋B類股、Lin、HTO、WBS。增持藝電、SEE、臺積電、霍尼韋爾、英偉達。清倉XHB、TTWO、RDN、ADI、VVX。減持亞馬遜、迪士尼、Salesforce等。"
-    },
-    {
-      "id": "mkt:019e2d67-83f1-7663-82fc-b54175b7567b",
-      "time": "2026-05-16 04:50:19",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bullish",
-        "FTSE100"
-      ],
-      "text": "UK'S STARMER IS EXPECTED TO APPROVE AN £18 BILLION INCREASE IN DEFENCE SPENDING AS HE FACES A BATTLE FOR POLITICAL SURVIVAL - THE TIMES"
     }
   ]
 }
