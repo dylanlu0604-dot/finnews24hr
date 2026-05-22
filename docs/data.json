@@ -1,7 +1,55 @@
 {
-  "updated": "2026-05-23 03:33:36",
-  "count": 16076,
+  "updated": "2026-05-23 03:37:27",
+  "count": 16079,
   "items": [
+    {
+      "id": "4895721",
+      "time": "2026-05-23 03:35:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國暫停向南蘇丹、剛果、烏干達發放簽證。"
+    },
+    {
+      "id": "4895720",
+      "time": "2026-05-23 03:35:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "Anthropic：我們將與包括美國及盟國政府在內的關鍵合作伙伴展開協作，推進Project Glasswing擴容，吸納更多合作方加入。"
+    },
+    {
+      "id": "mkt:019e512e-ed3d-788e-b252-6fa04f2a0f2a",
+      "time": "2026-05-23 03:34:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ANTHROPIC: WE WILL WORK WITH CRITICAL PARTNERS, INCLUDING US AND ALLIED GOVERNMENTS,TO EXPAND PROJECT GLASSWING TO ADDITIONAL PARTNERS"
+    },
+    {
+      "id": "4895719",
+      "time": "2026-05-23 03:34:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic表示，神話模型檢測出開源專案存在安全漏洞，完成安全防護部署後將擴容神話系列模型。"
+    },
+    {
+      "id": "4895718",
+      "time": "2026-05-23 03:33:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic：計劃全面開放神話級人工智慧模型。"
+    },
+    {
+      "id": "4895717",
+      "time": "2026-05-23 03:32:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic：多數合作方均發現安全漏洞。"
+    },
     {
       "id": "4895716",
       "time": "2026-05-23 03:32:35",
@@ -144352,31 +144400,6 @@
         "Brent"
       ],
       "text": "CANADA PRIME MINISTER CARNEY SAYS I THINK THERE WILL BE A LOT OF INTEREST IN A NEW CRUDE PIPELINE FROM ALBERTA TO PACIFIC COAST"
-    },
-    {
-      "id": "4882872",
-      "time": "2026-05-16 03:36:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "XAI：所有會員等級均可實現 Grok 與 Hermes 智慧體互聯互通  。"
-    },
-    {
-      "id": "4882871",
-      "time": "2026-05-16 03:35:42",
-      "tags": [
-        "資料",
-        "市場"
-      ],
-      "text": "巴拿馬4月CPI環比上漲1.1%。"
-    },
-    {
-      "id": "4882870",
-      "time": "2026-05-16 03:35:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國食品藥品管理局（FDA）頂級醫藥監管員Tracy Beth Hoeg離職。"
     }
   ]
 }
