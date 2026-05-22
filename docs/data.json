@@ -1,7 +1,35 @@
 {
-  "updated": "2026-05-23 06:12:10",
-  "count": 16168,
+  "updated": "2026-05-23 06:15:58",
+  "count": 16167,
   "items": [
+    {
+      "id": "te:markets:553203",
+      "time": "2026-05-23 06:15:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: South Korean Won Depreciates by 1.03% — Top currency losers are South Korean Won (-1.03%), Australian Dollar (-0.44%), New Zealand Dollar (-0.42%), Japanese Yen (-0.14%) and Euro (-0.13%). Gains are led by Indian Rupee (0.59%) and Dollar Index (0.07%). Meanwhile British Pound was little changed."
+    },
+    {
+      "id": "4895861",
+      "time": "2026-05-23 06:14:21",
+      "tags": [
+        "宏觀",
+        "市場"
+      ],
+      "text": "【塞內加爾財長警告，燃料補貼赤字恐超預算20億美元】塞內加爾財政部長Cheikh Diba告訴議會，如果國際原油價格飆升至每桶115美元，塞內加爾今年的燃料補貼賬單恐將大幅超出2026年度預算配額，超支規模最高可達1.15萬億非洲金融共同體法郎（CFA）（約合20億美元）。 迪巴透露，塞內加爾預計將於6月8日那一週恢復與國際貨幣基金組織（IMF）就一項全新融資計劃的談判，並希望在6月30日前就核心要點達成一致。他坦言，目前雙方的核心分歧點在於債務處置方式。總統巴西魯·迪奧馬耶·法耶（Bassirou Diomaye Faye）此前已向IMF總裁格奧爾基耶娃（Kristalina Georgieva）提出了一套替代傳統債務重組的創新方案。迪巴並未透露該方案的具體細節，僅強調“鑑於我國債務結構的複雜性”，該方案不僅會更加高效，而且付出的財務代價也要低得多。"
+    },
+    {
+      "id": "4895860",
+      "time": "2026-05-23 06:13:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【塞內加爾總統解除總理及其政府職務】塞內加爾國家電視臺22日晚播出總統宣告稱，塞總統法耶當晚解除總理松科及其政府職務。（新華社）"
+    },
     {
       "id": "4895859",
       "time": "2026-05-23 06:08:13",
@@ -145083,41 +145111,6 @@
         "其他"
       ],
       "text": "SpaceX：獵鷹 9 號火箭於 40 號著陸場成功著陸。"
-    },
-    {
-      "id": "te:markets:551309",
-      "time": "2026-05-16 06:15:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: Brazilian Real Depreciates by 1.27% — Top currency losers are Brazilian Real (-1.27%), New Zealand Dollar (-1.19%), Australian Dollar (-1.13%), British Pound (-0.58%), Euro (-0.37%) and Japanese Yen (-0.29%). Gains are led by Dollar Index (0.46%)."
-    },
-    {
-      "id": "4882994",
-      "time": "2026-05-16 06:14:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國總統特朗普：伊朗手裡沒牌可打。"
-    },
-    {
-      "id": "4882993",
-      "time": "2026-05-16 06:14:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國醫療保險和醫療補助服務中心（CMS）要求各州自 2028 年起，自行承擔其強制增設的、超出基本醫保福利範疇之外的各類福利專案開支。"
-    },
-    {
-      "id": "4882992",
-      "time": "2026-05-16 06:13:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國總統特朗普：我們靠委內瑞拉石油賺得盆滿缽滿。"
     }
   ]
 }
