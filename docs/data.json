@@ -1,7 +1,76 @@
 {
-  "updated": "2026-05-23 01:21:23",
-  "count": 16102,
+  "updated": "2026-05-23 01:25:09",
+  "count": 16107,
   "items": [
+    {
+      "id": "4895648",
+      "time": "2026-05-23 01:22:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗塔斯尼姆通訊社：伊朗外交部發言人稱， 卡達代表團正與伊朗外長展開會談，巴基斯坦依舊擔任此次談判斡旋方。"
+    },
+    {
+      "id": "mkt:019e50b5-c6df-788e-b251-106d787cafce",
+      "time": "2026-05-23 01:22:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRAN'S FOREIGN MINISTRY SPOKESPERSON: DELEGATION FROM QATAR IS CURRENTLY HOLDING TALKS WITH IRAN'S FOREIGN MINISTER, BUT THE PAKISTANI SIDE REMAINS THE MEDIATOR IN THE NEGOTIATIONS -TASNIM"
+    },
+    {
+      "id": "te:economy:553184",
+      "time": "2026-05-23 01:22:17",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Calendar",
+        "Importance 2"
+      ],
+      "text": "Week Ahead - May 25th — Headlines regarding the war in the Middle East and progress in restoring energy exports from the region will continue to set the pace for global markets. Strong earnings for the world's largest companies clashed with the inflationary impact of the war, having both stock markets and sovereign yields reach their local peaks recently. Inflation and its impact on household earnings and spending will tested in the US with the income and outlays report, which features the PCE inflation gauge. Inflation will also be the focus in the Eurozone's largest economies and Australia. A busy week in Japan will see industrial production, retail sales, consumer confidence, and the unemployment rate. Meanwhile, the RBNZ and BoK will set interest rates, while Canada and Brazil will post their GDP."
+    },
+    {
+      "id": "4895647",
+      "time": "2026-05-23 01:21:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "國際原子能機構：受此影響，運轉中的南烏克蘭核電站部分外部供電線路中斷。"
+    },
+    {
+      "id": "mkt:019e50b4-f7ea-788e-b251-0f3082d88260",
+      "time": "2026-05-23 01:21:37",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "IRAN'S FOREIGN MINISTRY SPOKESPERSON: THE FOCUS OF THE NEGOTIATIONS IS ON ENDING THE WAR"
+    },
+    {
+      "id": "4895646",
+      "time": "2026-05-23 01:21:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗塔斯尼姆通訊社：伊朗外交部發言人稱，談判的核心是結束戰爭。"
+    },
+    {
+      "id": "mkt:019e50b4-a4b4-788e-b251-05d5f01659aa",
+      "time": "2026-05-23 01:21:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "IRAN'S FOREIGN MINISTRY SPOKESPERSON: WE CANNOT NECESSARILY SAY THAT WE HAVE REACHED A POINT WHERE AN AGREEMENT IS CLOSE - TASNIM"
+    },
     {
       "id": "4895645",
       "time": "2026-05-23 01:20:27",
@@ -144598,24 +144667,6 @@
         "國際"
       ],
       "text": "【銀價狂瀉破80美元 通脹訊號打壓避險盤】白銀經歷了極端波動的又一週，價格最終大幅跌破每盎司80美元，給這個年內交易最為動盪的市場之一帶來了又一輪劇烈波動。在截至週三的一週內，受投資者對人工智慧相關股票以及用於資料中心供電系統、佈線和冷卻的工業金屬的熱情推動，白銀價格一度飆升11.3%。週一，對於主要產礦國秘魯燃料供應的猜測也推高了價格。隨後，更多跡象表明伊朗戰爭正在加劇通脹，導致投資者要求從政府債券中獲得更高收益率，白銀價格隨之回落。更高的借貸成本對通常不支付利息的白銀構成利空。滙豐控股首席貴金屬分析師詹姆斯表示：“我們仍認為白銀從根本上被高估了，面對高價，珠寶和工業領域對白銀的需求將繼續減弱。”"
-    },
-    {
-      "id": "4882753",
-      "time": "2026-05-16 01:23:00",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "秘魯央行首席經濟學家 ：推高通脹的各類因素均為暫時性因素。"
-    },
-    {
-      "id": "4882752",
-      "time": "2026-05-16 01:21:52",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "秘魯央行首席經濟學家 ：秘魯央行將在選舉動盪局勢來襲時出手干預。"
     }
   ]
 }
