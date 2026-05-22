@@ -1,7 +1,79 @@
 {
-  "updated": "2026-05-22 22:57:41",
-  "count": 16140,
+  "updated": "2026-05-22 23:01:34",
+  "count": 16139,
   "items": [
+    {
+      "id": "te:markets:553156",
+      "time": "2026-05-22 23:00:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: South Korean Won Drops by 0.83% — Top currency losers are South Korean Won (-0.83%), New Zealand Dollar (-0.41%), Norwegian Krone (-0.41%), Euro (-0.18%) and Japanese Yen (-0.09%). Gains are led by Indian Rupee (0.61%) and Dollar Index (0.08%). Meanwhile British Pound was little changed."
+    },
+    {
+      "id": "4895531",
+      "time": "2026-05-22 23:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】豆一連續漲2.84%，液化石油氣連續跌1.63%，焦煤連續跌1.45%，燃料油連續跌1.24%，短纖連續跌1.13%。"
+    },
+    {
+      "id": "4895530",
+      "time": "2026-05-22 22:59:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "在美國提案表決受阻之際，法國擬就霍爾木茲海峽問題提交聯合國決議草案。"
+    },
+    {
+      "id": "4895529",
+      "time": "2026-05-22 22:58:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "聯想ADR上漲17%，為2021年以來最大盤中漲幅。"
+    },
+    {
+      "id": "4895528",
+      "time": "2026-05-22 22:58:38",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "凱文·沃什接掌美聯儲之際，押注他加息的市場投注正不斷升溫。"
+    },
+    {
+      "id": "mkt:019e5031-872d-7224-83c0-adfdb93a661f",
+      "time": "2026-05-22 22:58:03",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China Tech Giants",
+        "LNVGY",
+        "Impact bullish"
+      ],
+      "text": "LENOVO ADRS CLIMB 17%, MOST SINCE 2021"
+    },
+    {
+      "id": "4895527",
+      "time": "2026-05-22 22:57:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠普和戴爾電腦漲超14%。"
+    },
+    {
+      "id": "4895526",
+      "time": "2026-05-22 22:57:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "全球供應鏈困境加劇之際，印度著手放寬那瓦舍瓦港集裝箱轉運管控。"
+    },
     {
       "id": "mkt:019e5030-644b-7224-83c0-a374a0dbb00e",
       "time": "2026-05-22 22:56:49",
@@ -144791,85 +144863,6 @@
         "市場"
       ],
       "text": "加拿大續簽洛克希德・馬丁公司戰機機隊維護合約， 加拿大續簽 CC-130J “大力神” 運輸機機隊維護合同。"
-    },
-    {
-      "id": "4882578",
-      "time": "2026-05-15 23:01:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "哥倫比亞 3 月製造業產量同比增長 3.9%；預計+1.6%。"
-    },
-    {
-      "id": "4882577",
-      "time": "2026-05-15 23:00:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "秘魯政府公佈：3月秘魯國內生產總值較去年同期增長3.21%。"
-    },
-    {
-      "id": "mkt:019e2c28-3521-7663-82f9-6edc35b9baaa",
-      "time": "2026-05-15 23:00:55",
-      "tags": [
-        "MKT News",
-        "LMT.O",
-        "Impact bullish"
-      ],
-      "text": "CANADA EXTENDS LOCKHEED MARTIN CONTRACT TO MAINTAIN FLEET"
-    },
-    {
-      "id": "mkt:019e2c27-8f5c-7663-82f9-60ad3637bb3c",
-      "time": "2026-05-15 23:00:49",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "FED ENDS 2023 ENFORCEMENT ACTIONS AGAINST UBS, CREDIT SUISSE"
-    },
-    {
-      "id": "te:markets:551240",
-      "time": "2026-05-15 23:00:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: New Zealand Dollar Drops by 1.42% — Top currency losers are New Zealand Dollar (-1.42%), Australian Dollar (-0.92%), Brazilian Real (-0.85%), British Pound (-0.45%), Euro (-0.34%) and Japanese Yen (-0.15%). Gains are led by Dollar Index (0.40%)."
-    },
-    {
-      "id": "4882576",
-      "time": "2026-05-15 23:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【夜盤期貨收盤】低硫燃料油連續漲3.67%，焦炭連續跌1.32%，瀝青連續漲1.11%，豆二連續跌1.01%，棉花連續跌0.99%。"
-    },
-    {
-      "id": "4882575",
-      "time": "2026-05-15 23:00:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "委內瑞拉向石油鑽井企業丟擲石油合同，開啟新一輪談判。"
-    },
-    {
-      "id": "4882574",
-      "time": "2026-05-15 22:59:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "【巴勒斯坦民眾舉行示威紀念“災難日”：我們有權重返故土】今年的5月15日是巴勒斯坦第78個“災難日”。1948年5月15日、也就是以色列宣佈建國的第二天，第一次中東戰爭爆發，以色列佔領了聯合國181號決議規定的大部分巴勒斯坦領土，大批巴勒斯坦人被迫逃離家園。連日來，大批巴勒斯坦人在加沙地帶和約旦河西岸舉行示威活動，紀念“災難日”，並抗議以色列佔領巴勒斯坦土地。（央視新聞）"
-    },
-    {
-      "id": "4882573",
-      "time": "2026-05-15 22:57:41",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根大通私募市場基金：擬向基金股東回購截至2026年3月31日該基金約最高5.00%的淨資產份額"
     }
   ]
 }
