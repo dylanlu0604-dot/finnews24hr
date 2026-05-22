@@ -1,7 +1,86 @@
 {
-  "updated": "2026-05-22 12:10:29",
-  "count": 16148,
+  "updated": "2026-05-22 12:14:25",
+  "count": 16153,
   "items": [
+    {
+      "id": "4894156",
+      "time": "2026-05-22 12:12:55",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【野村證券預測：隨著通脹上升 美聯儲2026年不會降息】野村證券預計，美聯儲將在2026年維持利率不變，因為通脹走高以及美聯儲官員對寬鬆政策的支援力度減弱，降低了短期內降息的可能性。野村證券在5月21日釋出的報告中表示：“即將上任的美聯儲主席沃什可能仍有放鬆政策的意願，但近期資料及美聯儲官員的表態，讓我們對其能否說服聯邦公開市場委員會（FOMC）多數成員支援降息持懷疑態度。”該券商此前曾預測，美聯儲今年9月和12月將分別降息25個基點。"
+    },
+    {
+      "id": "te:markets:552941",
+      "time": "2026-05-22 12:12:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Palm Oil Firms for First Weekly Rise Since Late April — Malaysian palm oil futures hovered around MYR 4,500 per tonne, recovering from recent losses as a weaker ringgit and firmer soyoil prices in Chicago lifted sentiment. Gains in crude oil prices also lent support, amid fading hopes for a breakthrough in U.S.-Iran peace talks. Meanwhile, top producer Indonesia plans to establish a centralized export agency for key commodities, including palm oil, raising concerns over possible supply disruptions during the transition period while potentially benefiting Malaysia’s palm oil sector. For the week, contracts are heading for a solid gain of near 2%, reversing drops in the prior three weeks. However, the upside was capped by weak exports, with cargo surveyors noting palm oil shipments for May 1–20 fell between 13.9% and 20.5% from the same period in April. In India, the world’s largest palm oil buyer, imports dropped 26% in April to a four-month low, due to softer institutional demand and a narrowing price discount against competing edible oils."
+    },
+    {
+      "id": "mkt:019e4de2-0515-7aa1-9585-23a2c4389f11",
+      "time": "2026-05-22 12:11:58",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "FRANCE’S FINANCE MINISTER: COUNTRIES CANNOT DECIDE WHETHER TO RELEASE MORE OIL RESERVES UNTIL THEY KNOW HOW LONG IRAN CONFLICT WILL LAST - FT"
+    },
+    {
+      "id": "4894155",
+      "time": "2026-05-22 12:11:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國財長：各國在明確伊朗衝突將持續多久之前，無法決定是否釋放更多石油儲備。"
+    },
+    {
+      "id": "4894154",
+      "time": "2026-05-22 12:11:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【天津釋出雷電預警】天津市氣象臺於2026年05月22日11時46分釋出雷電黃色預警訊號：預計未來6小時內天津中心城區將有雷陣雨，局地雨強較大，請有關單位和人員做好防範準備。"
+    },
+    {
+      "id": "te:markets:552940",
+      "time": "2026-05-22 12:10:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Indian Rupee Steadies Amid RBI Support — The Indian rupee hovered around 96.2 per dollar, stabilizing after a nine-session slide as markets assessed central bank intervention and broader weakness in Asian currencies. Despite yesterday’s rebound, sentiment remained cautious, with traders expecting renewed pressure on the currency amid persistent dollar strength. Softer crude oil prices, however, offered some support to the rupee. Earlier, the Reserve Bank of India intervened aggressively through substantial dollar sales before markets opened and continued support throughout the trading session. Investors are now watching closely to see whether the RBI maintains its defense of the currency. Without sustained intervention, analysts expect importer and hedging demand for dollars to re-emerge, potentially limiting further gains. Meanwhile, most Asian currencies remained under pressure as the dollar index hovered near a six-week high, supported by resilient US economic data and elevated Treasury yields."
+    },
+    {
+      "id": "4894153",
+      "time": "2026-05-22 12:09:46",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度5年期國債收益率下跌5個基點至6.91%。"
+    },
+    {
+      "id": "4894152",
+      "time": "2026-05-22 12:09:39",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "西太平洋銀行將澳聯儲加息預期從6月、8月改為8月、9月。"
+    },
     {
       "id": "4894151",
       "time": "2026-05-22 12:09:18",
@@ -145090,39 +145169,6 @@
         "公司"
       ],
       "text": "Stellantis與東風集團的交易包括一項10億歐元的投資計劃； Stellantis將出資1.3億歐元。"
-    },
-    {
-      "id": "te:economy:550966",
-      "time": "2026-05-15 12:11:07",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Malaysia",
-        "Foreign Direct Investment",
-        "Importance 1"
-      ],
-      "text": "Malaysia Q1 FDI Retreats from Recod High — Malaysia’s foreign direct investment (FDI) inflows eased to MYR 22.81 billion in Q1 2026 from a record MYR 26.64 billion in Q4, though inflows remained relatively solid amid ongoing external uncertainty. The decline mainly reflected softer capital inflows through debt instruments, particularly loans received from abroad, although this component continued to account for the largest share of total FDI. Equity and investment fund shares also contributed to inflows. By sector, the services industry attracted the bulk of foreign investments, led by the information and communication subsector, as demand for digital infrastructure and technology-related activities stayed firm. Mining and quarrying, alongside construction, were the next largest recipients of foreign capital. In terms of source economies, Singapore remained the leading investor, followed by China and Hong Kong, highlighting continued regional interest in Malaysia’s growth prospects and strategic position in Southeast Asia."
-    },
-    {
-      "id": "4881190",
-      "time": "2026-05-15 12:10:43",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【大和證券：日本補充預算規模或在4萬億日元左右】大和證券經濟學家Koji Hamada表示，日本政府可能會推出約4萬億日元的補充預算，類似於過去在油價升至每桶100美元上方時實施的支出計劃。“如果有關補充預算的討論變得更加具體，政府債券市場對財政惡化的擔憂極有可能會過度升溫，“他說。他說，整個預算極有可能由赤字國債來提供資金。不過他補充說，政府應設法限制任何負面的市場影響——例如利用短期國債，而不是增加較長期日本國債的供應。"
-    },
-    {
-      "id": "te:markets:550964",
-      "time": "2026-05-15 12:10:30",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "India",
-        "stocks",
-        "Importance 0"
-      ],
-      "text": "Bharti Airtel Stock Price Hits 10-week High — Bharti Airtel shares increased to 1907.00 INR, the highest since March 2026. Over the past 4 weeks, Bharti Airtel gained 3.38%, and in the last 12 months, it increased 4.9%."
     }
   ]
 }
