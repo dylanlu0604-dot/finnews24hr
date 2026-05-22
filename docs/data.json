@@ -1,7 +1,44 @@
 {
-  "updated": "2026-05-22 13:55:13",
-  "count": 16102,
+  "updated": "2026-05-22 13:59:02",
+  "count": 16099,
   "items": [
+    {
+      "id": "4894283",
+      "time": "2026-05-22 13:58:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4510美元/盎司，日內跌0.72%。"
+    },
+    {
+      "id": "4894282",
+      "time": "2026-05-22 13:57:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【2026年中國政府援孟培訓專案啟動儀式在達卡舉行】2026年中國政府援孟培訓專案啟動儀式21日在孟加拉國首都達卡舉行。中國駐孟加拉國大使姚文表示，2026年，中方擬邀請孟方人員參加在華舉辦的23個雙邊培訓專案和30個多邊培訓專案，預計約600名孟方人員赴華參訓。（新華社）"
+    },
+    {
+      "id": "te:markets:552965",
+      "time": "2026-05-22 13:55:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Ends Up 0.9%, Snaps Weekly Decline — The NZX 50 rose 113 points, or 0.9%, to 12,991 on Friday, rising for a second straight session and reaching its highest level since May 14, while tracking gains in US futures as oil prices eased amid hopes of a US-Iran deal to end the war. Fresh data also lifted sentiment, as New Zealand’s retail sales grew more than expected in Q1, following Thursday’s data showing the trade surplus reached a record high, with exports climbing to an all-time high. However, traders remained focused on the RBNZ’s monetary policy decision due next week, with markets expecting the central bank to keep interest rates unchanged. Almost all sectors traded in the green, led by energy, followed by industrials and healthcare. Among the top performers were Ryman Healthcare (6.3%), Summerset Group (5.3%), Mainfreight (4.3%), Westpac Banking Corp (2.0%), Freightways (1.2%), and ANZ Group (0.9%). For the week, the index rose 0.2% after declining in the previous week."
+    },
+    {
+      "id": "4894281",
+      "time": "2026-05-22 13:55:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【大和證券：上調蔚來今明兩年盈利預測，維持買入評級】大和證券分析師在一份報告中表示，憑藉多元化的產品線，蔚來汽車(NIO.US)正準備進入新的車型週期。蔚來將於5月27日推出ES9，並在下半年推出新的五座版ES8。他們表示，該公司計劃在未來幾年推出三至五款新車型，同時還計劃今年建設1000座換電站。在蔚來公佈強勁的一季度業績後，大和上調了其2026年和2027年的盈利預測。該機構維持對蔚來汽車的買入評級。"
+    },
     {
       "id": "mkt:019e4e3f-78db-7aa1-9585-ddcf70983166",
       "time": "2026-05-22 13:54:02",
@@ -144602,68 +144639,6 @@
         "Impact bearish"
       ],
       "text": "HANG SENG INDEX DOWN OVER 2%"
-    },
-    {
-      "id": "4881353",
-      "time": "2026-05-15 13:58:58",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "恒生指數跌超2%，現報25860.010點；恒生科技指數現跌3.079%。"
-    },
-    {
-      "id": "4881352",
-      "time": "2026-05-15 13:58:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【東風汽車聯合長江產業投資集團等 六方注資超80億推動神龍公司轉型升級】5月15日，東風汽車聯合長江產業投資集團有限公司、武漢金融控股（集團）有限公司、武漢經開產業投資集團有限公司、斯泰蘭蒂斯集團和神龍汽車有限公司簽署戰略合作協議。根據協議，此次合作總投資額超80億元，全面推動神龍公司面向智慧化、國際化、綠色化進行轉型升級，計劃於2027年起陸續投放多款全新新能源車型，同步匯入Jeep品牌在神龍公司生產，並在全球範圍內進行銷售。"
-    },
-    {
-      "id": "4881351",
-      "time": "2026-05-15 13:58:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普結束訪華 將乘專機離開北京】今日下午，美國總統特朗普結束對中國的國事訪問，將乘專機離開北京。（央視新聞）"
-    },
-    {
-      "id": "4881350",
-      "time": "2026-05-15 13:57:49",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "韓國KOSPI指數持續下跌，跌幅擴大至7%。"
-    },
-    {
-      "id": "4881349",
-      "time": "2026-05-15 13:57:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "5月15日，美國總統特朗普即將乘專機離開北京。（人民日報）"
-    },
-    {
-      "id": "mkt:019e2a34-899b-7bb5-b4d7-60684f3db4ae",
-      "time": "2026-05-15 13:55:29",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "TWO LEADERS EXCHANGED VIEWS ON REGIONAL HOTSPOT ISSUES -CCTV"
-    },
-    {
-      "id": "4881348",
-      "time": "2026-05-15 13:55:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "【股價大跌因“談價失敗”？勝宏科技回應：不實資訊】有訊息稱“PCB大廠談漲價失敗”，並將其與勝宏科技昨日（5月14日）股價大跌相關聯，引發市場關注。對此，5月15日午間，記者以投資者身份致電勝宏科技，公司接線人員回應稱：“那個（網傳訊息）是小作文，不實資訊。影響股價波動的因素是很多的，你可以看到今天整體PCB都有一定幅度的回撥。”（21財經）"
     }
   ]
 }
