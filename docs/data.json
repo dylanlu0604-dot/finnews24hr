@@ -1,7 +1,67 @@
 {
-  "updated": "2026-05-22 14:36:00",
+  "updated": "2026-05-22 14:39:51",
   "count": 16122,
   "items": [
+    {
+      "id": "4894366",
+      "time": "2026-05-22 14:39:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【法國巴黎發生球迷騷亂事件 致6人受傷】據法國警方訊息，巴黎市中心21日晚發生球迷騷亂事件，已造成6人受傷，其中1人傷勢嚴重，另有65人被警方拘留。據悉，這次騷亂髮生在法國杯決賽舉行前夕。當晚，約100名尼斯足球俱樂部支持者與路人發生衝突，並爆發大規模鬥毆。警方隨後出動大量警力控制局勢。（央視新聞）"
+    },
+    {
+      "id": "4894365",
+      "time": "2026-05-22 14:38:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【TenPay Global：計劃在入境重點城市推動離境退稅服務 稅款可直接退至境外電子錢包】在第十屆絲綢之路國際博覽會金融專場上，騰訊旗下跨境支付平臺TenPay Global宣佈，正與境內退稅代理機構展開合作，計劃在陝西省等入境重點省市推動上線離境退稅便利化服務。相較於以往主要依賴現金、國際信用卡等退稅接收方式，該服務落地後，境外電子錢包使用者將可以選擇把退稅款直接退回至其常用的本地境外錢包中，退稅款數分鐘內即可到賬。"
+    },
+    {
+      "id": "te:economy:552983",
+      "time": "2026-05-22 14:37:53",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Government Budget Value",
+        "Importance 1"
+      ],
+      "text": "UK Public Borrowing Above Expectations — UK public sector net borrowing (excluding public sector banks) widened to £24.3 billion in April 2026 from £19.5 billion a year earlier, above market expectations of £20.9 billion. It was the second-highest April borrowing on record, underlining pressure on the public finances. The reading contrasts with March forecasts that borrowing would fall to 3.6% of GDP in the 2026/27 tax year, its lowest level since before the COVID-19 era. However, the war involving Iran has increased the risk of an economic slowdown, threatening tax revenues while adding pressure on Chancellor Rachel Reeves to support households and businesses facing higher energy costs. Public sector spending rose by £7.6 billion, driven by higher welfare costs, increased investment, public service spending, and record April debt interest payments. Meanwhile, public sector receipts increased by £2.7 billion. Public sector net debt stood at 94.2% of GDP at the end of April, up 0.5 percentage points from a year earlier."
+    },
+    {
+      "id": "te:markets:552981",
+      "time": "2026-05-22 14:37:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Poised for Higher Open — European equity markets were set for a stronger open on Friday as investors prepared for a fresh batch of regional economic data while continuing to monitor ongoing negotiations between the US and Iran. Key releases scheduled for the day include Germany’s consumer confidence and business climate indicators, UK retail sales data, and French business confidence figures. No major corporate earnings reports are expected. Meanwhile, Iran said the latest US proposal had partially narrowed differences between the two sides, though remarks from Iran’s Supreme Leader regarding the country’s uranium stockpile, along with disagreements over tolls in the Strait of Hormuz, continued to cloud hopes for a breakthrough agreement. In corporate developments, Estée Lauder and Puig announced on Thursday that they had ended merger discussions. In premarket trading, Euro Stoxx 50 futures rose 0.8%, while Stoxx 600 futures gained 0.7%."
+    },
+    {
+      "id": "4894364",
+      "time": "2026-05-22 14:36:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄白舉行大規模核演習，試射具備核打擊能力的高超音速導彈】俄羅斯與白俄羅斯舉行大規模核力量演習。據參考訊息網21日報道，俄羅斯國防部發布訊息稱，5月19日至21日，俄羅斯武裝部隊將舉行在侵略威脅條件下準備和使用核力量的演習。戰略導彈部隊和遠端航空兵將參加此次演習。《今日印度》5月21日報道稱，這次大規模聯合核演習，動用可攜帶核彈頭的導彈、戰略轟炸機、核潛艇及軍艦等裝備，演習規模為俄烏衝突爆發以來最大之一。俄羅斯總統普京與白俄羅斯總統盧卡申科共同觀摩了演習的最後階段。此次為期三天的聯合核演習於5月19日啟動，在陸地、海洋和空中同時展開。俄羅斯國防部稱，此次演習共出動6.4萬名士兵、200多套導彈發射裝置、140多架飛機、73艘軍艦和13艘潛艇。其中8艘潛艇配備了可攜帶核彈頭的洲際彈道導彈。演習期間，俄方還試射了具備核打擊能力的高超音速導彈。（澎湃新聞）"
+    },
+    {
+      "id": "mkt:019e4e66-375e-7cc0-a021-deda4fa5a185",
+      "time": "2026-05-22 14:36:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Hot",
+        "Policy",
+        "Breaking News 24h"
+      ],
+      "text": "KOSPI RISES 4.7% FOR THE WEEK; SHIPBUILDING, DEFENSE STOCKS ADVANCE"
+    },
     {
       "id": "4894363",
       "time": "2026-05-22 14:33:55",
@@ -144777,59 +144837,6 @@
         "Importance 1"
       ],
       "text": "Norway Trade Surplus Widens in April — Norway recorded a trade surplus of NOK 84.2 billion in April 2026, expanding from NOK 53.2 billion in the same month last year, driven by strong export growth. Exports jumped 20.9% year-on-year to NOK 176.7 billion, largely due to a sharp increase in shipments of mineral fuels, lubricants, and related materials (40.7%). Meanwhile, imports decreased by 0.4% to NOK 92.5 billion amid declines in most product groups, particularly miscellaneous manufactured articles (-2.0%), manufactured goods classified chiefly by material (-10.2%), and chemicals and related products n.e.s. (-0.2%), which offset a rise in machinery and transport equipment imports (2.3%). For the January–April period, the country posted a trade surplus of NOK 299.4 billion, up 4.9% from the corresponding period a year earlier, as exports (2.6%) grew faster than imports (0.9%)."
-    },
-    {
-      "id": "4881424",
-      "time": "2026-05-15 14:39:24",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【積極因素持續累積，市場震盪上行格局不改，A500ETF南方（159352）小幅放量】5月15日，A500ETF南方（159352）小幅放量，截至發稿成交額49億元。華安證券認為，市場對海外衝突延續脫敏、國內出口資料超預期，積極因素持續累積，市場震盪上行格局不改。配置上，緊密圍繞核心產業趨勢方向：一是全面擁抱泛AI產業鏈，尤其算力和配套設施是重中之重。二是重視阿爾法效應強的漲價景氣和催化領域，包括儲能鏈條、機械裝置、儲存及半導體裝置、軍工。浙商證券表示，從中線格局看，一旦“牛4”低點確認、“牛5”格局確立，主要指數只要不跌破“924行情”以來的上升趨勢線，那麼整個行情結構就是安全的，因此中線持倉仍可以堅定信心。行業方面，雙創相關可繼續持有但不宜過分追高，同時考慮以“參與補漲”的思維，逢低配置傳媒、計算機、有色、非銀、商業航天、恆科、創新藥等落後行業板塊。資料顯示，A500ETF南方（159352）緊密跟蹤的中證A500指數覆蓋A股大中盤優質龍頭企業，重點佈局新質生產力，憑藉規模、流動性等方面優勢，或是助力資金佈局後市機會的有力工具。投資者可借道A500ETF南方（159352）及其聯接基金（A類022434；C類022435）一鍵佈局。"
-    },
-    {
-      "id": "4881423",
-      "time": "2026-05-15 14:39:09",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【惠譽：韓國具備緩衝空間，可抵禦伊朗局勢衝突帶來的經濟衝擊】惠譽評級亞太主權評級主管薩加里卡・錢德拉表示，韓國擁有充足的對外及財政緩衝空間，能夠承受美伊衝突引發的通脹走高與經濟增長承壓風險。惠譽維持 2026 年、2027 年政策利率預期不變，仍為 2.5%；若能源價格衝擊推升通脹壓力，韓國央行或將加息。受半導體出口大幅增長提振，韓國今年國內生產總值（GDP）存在上修空間。惠譽亞太企業評級主管張雪莉稱，由人工智慧帶動的半導體行業週期屬於結構性增長；核心問題在於，營收與投資回報最終能否匹配當前大規模資本支出規模。"
-    },
-    {
-      "id": "4881422",
-      "time": "2026-05-15 14:38:57",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超3.1萬億元，較上日此時放量550億元。"
-    },
-    {
-      "id": "mkt:019e2a5b-392c-7bb5-b4d7-da91ba49cbfb",
-      "time": "2026-05-15 14:38:01",
-      "tags": [
-        "MKT News",
-        "005930.KS",
-        "Impact bearish"
-      ],
-      "text": "SAMSUNG ELEC'S SOUTH KOREA UNION TELLS EXECS THAT TALKS WOULD BE POSSIBLE ONLY WHEN KEY UNION DEMANDS ARE PUT ON TABLE -UNION"
-    },
-    {
-      "id": "4881421",
-      "time": "2026-05-15 14:37:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國住房大臣裡德：我預計不會有人針對斯塔默發起領袖挑戰。"
-    },
-    {
-      "id": "4881420",
-      "time": "2026-05-15 14:36:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "【傑富瑞：通脹和高赤字成為對長期債券保持謹慎的理由】Jefferies的Mohit Kumar在一份報告中表示，投資者不僅應關注通貨膨脹，還應關注更高的赤字，這是對長期債券保持謹慎的理由。霍爾木茲海峽依然關閉，這維持了對海灣地區能源輸送的干擾，並使油價保持在高位。“未來幾個月我們可能會看到宣佈多項燃料補貼支援措施，“這位全球經濟學家說。他說，更高的通脹和赤字支援了Jefferies的觀點，即投資者應遠離收益率曲線的較長端，並保持收益率曲線變陡的偏好。Jefferies擔憂的順序依然是英國、歐洲，然後是美國。"
     }
   ]
 }
