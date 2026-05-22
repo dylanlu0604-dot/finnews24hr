@@ -1,7 +1,39 @@
 {
-  "updated": "2026-05-23 03:18:13",
-  "count": 16059,
+  "updated": "2026-05-23 03:22:03",
+  "count": 16062,
   "items": [
+    {
+      "id": "4895700",
+      "time": "2026-05-23 03:20:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：擁有近二十年從業經驗的沃爾瑪旗下山姆會員店營運長，以及沃爾瑪美國門店主管即將離職。"
+    },
+    {
+      "id": "4895699",
+      "time": "2026-05-23 03:19:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "週五（5月22日）紐約尾盤，ICE美元指數跌0.02%，報99.243點，本週累計下跌0.02%，交投區間為99.515-98.946點，整體出現三波V形走勢。\n彭博美元指數漲0.08%，報1202.61點，本週大致持平，交投區間為1205.25-1199.01點。\n美元兌日元漲0.10%，報159.14日元，本週累漲0.24%，交投區間為158.54-159.34日元。"
+    },
+    {
+      "id": "4895698",
+      "time": "2026-05-23 03:19:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：沃爾瑪多名高管在新任執行長主導的架構重組中離職。"
+    },
+    {
+      "id": "4895697",
+      "time": "2026-05-23 03:19:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約商業交易所近月天然氣期貨本週下跌1.79%，結算價報2.9070美元。\n紐約商品交易所原油近月合約本週下跌4.38%，結算價報每桶96.60美元。\n  紐約商品交易所前月柴油期貨本週結算價下跌4.09%，報每加侖3.8878美元。"
+    },
     {
       "id": "4895696",
       "time": "2026-05-23 03:16:37",
@@ -144206,14 +144238,6 @@
         "Nasdaq100"
       ],
       "text": "【SpaceX Picks Nasdaq for IPO, Targets June Listing】SpaceX has selected Nasdaq as the venue for its IPO and plans to price the offering as early as June 11 before listing on June 12 under ticker “SPCX,” Reuters reported. Bloomberg previously reported the company confidentially filed for an IPO seeking to raise as much as $75 billion at a valuation above $2 trillion, potentially making it the largest IPO ever. Bank of America, Citigroup, Goldman Sachs, JPMorgan and Morgan Stanley are serving in senior underwriting roles."
-    },
-    {
-      "id": "4882856",
-      "time": "2026-05-16 03:18:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "【聯合國安理會強烈譴責馬裡多地恐怖襲擊】當地時間5月15日，聯合國安全理事會發表宣告，以最強烈措辭譴責馬裡多地發生的恐怖襲擊。宣告說，2026年4月25日及此後數日，包括5月6日，馬裡多個地點發生“令人髮指、懦弱的恐怖襲擊”，造成多人傷亡。聯合國安理會成員向遇難者家屬、馬里人民和馬裡當局表示最深切的同情和慰問，並祝願傷者早日完全康復。（央視新聞）"
     }
   ]
 }
