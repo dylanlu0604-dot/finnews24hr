@@ -1,7 +1,41 @@
 {
-  "updated": "2026-05-23 00:16:24",
-  "count": 16131,
+  "updated": "2026-05-23 00:20:11",
+  "count": 16129,
   "items": [
+    {
+      "id": "mkt:019e5079-a210-7443-baf7-3e3aa892bffb",
+      "time": "2026-05-23 00:16:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "WARSH: HONOR OF A LIFETIME TO RE-ENTER PUBLIC SERVICE"
+    },
+    {
+      "id": "mkt:019e5079-70ff-7443-baf7-31a14bf4c536",
+      "time": "2026-05-23 00:16:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SECRETARY OF STATE RUBIO IS HEADED TO INDIA AHEAD OF THE UPCOMING QUAD SUMMIT NEXT WEEK - NYT"
+    },
+    {
+      "id": "4895609",
+      "time": "2026-05-23 00:16:26",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：我將領導一個以改革為導向的美聯儲。"
+    },
+    {
+      "id": "4895608",
+      "time": "2026-05-23 00:16:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "【黎南部遭以軍空襲致11人死 以北部遭黎無人機襲擊】據黎巴嫩國家通訊社22日報道，以色列自21日深夜至22日對黎南部多地發動空襲，造成至少11人死亡，其中包括6名醫護和救援人員，另有多人受傷。（新華社）"
+    },
     {
       "id": "4895606",
       "time": "2026-05-23 00:15:47",
@@ -144794,65 +144828,6 @@
         "國際"
       ],
       "text": "墨西哥總統辛鮑姆：與特朗普就安全、貿易進行了卓有成效的會談。"
-    },
-    {
-      "id": "4882684",
-      "time": "2026-05-16 00:19:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "墨西哥總統辛鮑姆：我與特朗普總統進行了友好融洽、十分愉快的會談，重申雙方在安全領域開展的合作以及貿易相關磋商事宜。雙方約定再度溝通，並將繼續與其幕僚團隊展開對話，特朗普總統幕僚團隊將於近期到訪我國。”"
-    },
-    {
-      "id": "te:economy:551263",
-      "time": "2026-05-16 00:18:49",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Russia",
-        "GDP Annual Growth Rate",
-        "Importance 1"
-      ],
-      "text": "Russia GDP Contracts in Q1 — The Russian GDP contracted by 0.2% from the previous year in the first quarter of 2026, the first annual contraction in three years, swinging from the 1% increase in the earlier period. The data was released days after the Russian government cut its GDP forecast for this year to 0.4% growth from the earlier expectations of 1.3%. The contraction took place despite the surge in prices of commodities that are heavily produced in Russia, including oil, gas, coal, and multiple industrial metals and grains, following the halt in shipping from the Middle East amid the war. The contraction also prevailed in a period of soaring deficit spending by the Duma, attempting to stimulate the economy hampered by sanctions from the West that isolated goods producers and financial services providers from Western clients. Russia's energy revenues sank by 40% annually in the year to April, and rates by the Bank of Russia are expected to remain high."
-    },
-    {
-      "id": "4882683",
-      "time": "2026-05-16 00:18:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "法國武裝事務國務部長：戴高樂號航母已駛過蘇伊士運河與紅海並完成進駐部署，令法國得以實時掌握地區局勢動態，同時保留外交斡旋籌碼。"
-    },
-    {
-      "id": "4882682",
-      "time": "2026-05-16 00:18:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：法國戴高樂號航空母艦目前在中東附近海域部署，並未駛入霍爾木茲海峽，強調其行動屬防禦性質，旨在維護航行自由。"
-    },
-    {
-      "id": "te:markets:551261",
-      "time": "2026-05-16 00:17:25",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Copper is down by 5% — Copper decreased 5% to 6.2392 USD/Lbs"
-    },
-    {
-      "id": "te:markets:551260",
-      "time": "2026-05-16 00:16:29",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "DAX Closes Deeply in the Red — Frankfurt's DAX 40 fell further to close about 2.1% lower at 23,955 on Friday, halting a two-day rally, underperforming its European peers. Market sentiment was dented by stalled progress on the Iran conflict and inflation fears, alongside risks of renewed military escalation. US President Trump threatened Tehran again, saying he would not be patient much longer. Moreover, investors were disappointed by the lack of concrete results from the long-awaited Trump-Xi summit in China, particularly on trade and the Iran issue. Among the biggest losers were tech stocks, which had gained considerable ground in recent days due to the ongoing AI boom. Infineon shares fell by more than 4%. Energy-sensitive industrials also saw pressure."
     }
   ]
 }
