@@ -1,7 +1,117 @@
 {
-  "updated": "2026-05-22 20:16:56",
-  "count": 16082,
+  "updated": "2026-05-22 20:20:53",
+  "count": 16088,
   "items": [
+    {
+      "id": "4895207",
+      "time": "2026-05-22 20:20:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局：阿拉斯加阿特卡以東 162 公里處發生 5.2 級地震。"
+    },
+    {
+      "id": "4895206",
+      "time": "2026-05-22 20:19:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "世界衛生組織總幹事：我們正將埃博拉的風險評估修訂為，國家級風險極高，區域級風險高，全球級風險低。"
+    },
+    {
+      "id": "4895205",
+      "time": "2026-05-22 20:18:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【貴州資本公司成功發行20億元雙品種公司債】5月22日晚間，貴州證券業協會官微訊息，貴州金控集團旗下貴州資本公司發行2026年首期公司債券，規模20億元。該期債券採用三年期與五年期雙向互撥機制，兩個品種票面利率分別為1.80%、2.05%，創貴州省同期限公司債券利率新低。本次債券的發行，六大國有商業銀行、股份制銀行、大型保險機構、頭部券商、地方銀行等參與，三年期、五年期品種認購倍數分別達5.58倍、2.88倍。其中，三年期品種中標資金均來自省外且國有大行中標比例近半數，有效實現“引金入黔”。"
+    },
+    {
+      "id": "4895204",
+      "time": "2026-05-22 20:18:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【需求疲軟原料漲價 潤滑油工廠維持低庫避險】當前潤滑油行業整體經營壓力凸顯，產銷兩端同步承壓。上游基礎油、新增劑原料價格起伏不定，生產成本居高不下，企業盈利空間持續收窄；下游汽車、工業等終端需求回暖不及預期，市場拿貨意願偏弱，渠道庫存積壓問題凸顯。成本轉嫁難度較大，行業發展變數增多，從業者普遍心態謹慎，市場觀望情緒濃厚，整體交易氛圍較為平淡，工廠多以原料低庫存執行。"
+    },
+    {
+      "id": "te:markets:553107",
+      "time": "2026-05-22 20:17:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Inch Higher — US equity futures were muted on Friday, holding gains from the last sessions amid broad enthusiasm for the AI sector and lingering hopes for progress in a deal between the US and Iran. Contracts tracking the S&P 500 and the Dow were 0.4% higher, while those for the Nasdaq 100 flat. US Secretary of State Rubio noted that the distance between concessions that the US offers and those desired by Iran is decreasing, limiting concerns for escalation over the weekend. Still, markets continued to expect a prolonged suspension of regular energy exports through the Middle East as pro-inflationary risks maintained long-term yields elevated. Workday surged over 8.2% premarket after beating earnings estimates in the first quarter. Nvidia rebounded from its slight pullback yesterday after delivering earnings. The chip giant beat its headline results but the incoming revenue guidance was underwhelming to a select group of analysts."
+    },
+    {
+      "id": "4895203",
+      "time": "2026-05-22 20:17:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：瑞典與美國達成雙邊技術合作。"
+    },
+    {
+      "id": "4895202",
+      "time": "2026-05-22 20:17:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東芯股份：擬發行H股並在香港聯交所上市】東芯股份公告，公司擬發行境外上市股份（H股）並在香港聯合交易所有限公司主機板掛牌上市。公司於2026年5月22日召開第三屆董事會第十二次會議，審議透過《關於公司發行H股股票並在香港聯合交易所有限公司主機板上市的議案》《關於公司發行H股股票並在香港聯合交易所有限公司主機板上市方案的議案》等議案。"
+    },
+    {
+      "id": "4895201",
+      "time": "2026-05-22 20:16:50",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國股指期貨走高：標普500迷你電子盤股指期貨與納斯達克100股指期貨各上漲0.4%，道瓊斯股指期貨上漲0.7%。"
+    },
+    {
+      "id": "mkt:019e4f9d-b833-777d-b242-58bfca46ad43",
+      "time": "2026-05-22 20:16:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "U.S. STOCK INDEX FUTURES MOVE HIGHER; S&P 500 E-MINI AND NASDAQ 100 FUTURES UP 0.4% EACH, DOW FUTURES UP 0.7%"
+    },
+    {
+      "id": "mkt:019e4f9d-9585-777d-b242-522a53699c16",
+      "time": "2026-05-22 20:16:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SWEDEN, US FORM BILATERAL TECHNOLOGY COOPERATION"
+    },
+    {
+      "id": "mkt:019e4f9d-8570-777d-b242-4a5b2aba0cf2",
+      "time": "2026-05-22 20:16:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH"
+      ],
+      "text": "WINGTECH SUES NEXPERIA AT CHINA COURT, SEEKING 8B YUAN"
+    },
+    {
+      "id": "4895200",
+      "time": "2026-05-22 20:16:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普經濟顧問哈塞特 ：希望鮑威爾很快離開，沃什將完全掌控大局。"
+    },
     {
       "id": "mkt:019e4f9d-616d-777d-b242-461fe6d43e55",
       "time": "2026-05-22 20:16:10",
@@ -144403,61 +144513,6 @@
         "其他"
       ],
       "text": "【內蒙古自治區阿拉善盟副盟長劉德接受監察調查】中央紀委國家監委網站5月15日通報，據內蒙古自治區紀委監委訊息：內蒙古自治區阿拉善盟副盟長、九三學社內蒙古自治區委員會副主委劉德涉嫌嚴重違法，目前正接受內蒙古自治區監察委員會監察調查。"
-    },
-    {
-      "id": "4882273",
-      "time": "2026-05-15 20:20:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗足協稱將要求國際足聯為世界盃提供“擔保”。"
-    },
-    {
-      "id": "4882272",
-      "time": "2026-05-15 20:19:48",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "【金價擊穿4600美元/盎司 又有投行下調年內黃金價格預期】今年黃金在1月底觸及5598.75美元/盎司的高點之後，就陷入漫長的調整，其間雖然也有所反彈，但是重心整體呈現下移態勢。隨著黃金陷入調整，機構開始修改“小作文”，下調對黃金價格的展望。摩根士丹利打響第一槍，近日澳新銀行也將年底黃金目標價從5800美元/盎司下調至5600美元/盎司，將金價達到6000美元的目標時間從2027年初推遲至2027年年中。（21財經）"
-    },
-    {
-      "id": "te:economy:551190",
-      "time": "2026-05-15 20:18:48",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Poland",
-        "Current Account",
-        "Importance 1"
-      ],
-      "text": "Poland Current Account Shortfall Shrinks in March — Poland posted a current account gap of €234 million in March 2026, smaller than the revised €1,091 million in the same month a year ago. The goods deficit narrowed to €497 million from €1,530 million in March 2025, with exports (7.4%) rising faster than imports (3.8%). At the same time, the secondary income shortfall shrank to €21 million from €356 million a year ago, while the primary income gap surged to €2,783 million from €2,248 million. On the other hand, the services surplus went up to €3,067 million from €3,043 million."
-    },
-    {
-      "id": "4882270",
-      "time": "2026-05-15 20:17:48",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國國債跌幅擴大；10年期國債收益率升至4.55%。"
-    },
-    {
-      "id": "4882269",
-      "time": "2026-05-15 20:17:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "【招商輪船：子公司擬追加8.03億元增持安通控股股份】招商輪船(601872.SH)公告稱，公司全資子公司中外運集運擬追加8.03億元投資額度，繼續擇機增持安通控股股份，並授權董事長及其書面授權人開展增持工作。中外運集運擬自2026年5月18日起12個月內，透過大宗交易、協議轉讓、集中競價等方式增持安通控股股份，擬增持金額為4.075億元至8.15億元。本次交易構成關聯方共同投資，已獲股東會審議透過。"
-    },
-    {
-      "id": "4882267",
-      "time": "2026-05-15 20:17:03",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【教育部部長懷進鵬會見美國黑石集團主席蘇世民】5月14日，教育部部長懷進鵬在京會見美國黑石集團主席蘇世民一行。雙方就中美教育合作、清華大學蘇世民書院未來發展深入交流。懷進鵬讚賞蘇世民為書院發展和人才培養所作努力，表示中美兩國元首會晤向世界釋放積極、穩定訊號，期待蘇世民支援拓展“人工智慧+教育”領域合作，鼓勵其為深化中美教育交流，推動雙邊關係穩定、健康、可持續發展作出積極貢獻。蘇世民感謝教育部十年來對蘇世民書院的關心和支援，讚賞中國教育發展成就，表示願為更多優秀青年瞭解中國搭建橋樑。"
     }
   ]
 }
