@@ -1,7 +1,62 @@
 {
-  "updated": "2026-05-22 13:04:36",
-  "count": 16150,
+  "updated": "2026-05-22 13:08:28",
+  "count": 16149,
   "items": [
+    {
+      "id": "4894217",
+      "time": "2026-05-22 13:07:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽評級：亞太地區交易量改善；信用質量差異化依然顯著。"
+    },
+    {
+      "id": "4894216",
+      "time": "2026-05-22 13:07:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "【算力租賃午後震盪走高】算力租賃午後震盪走高，航錦科技漲停，蓮花控股此前封板，利通電子、東陽光、行雲科技跟漲。"
+    },
+    {
+      "id": "4894215",
+      "time": "2026-05-22 13:06:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國警方繼續對前王子安德魯的行為不當展開調查。"
+    },
+    {
+      "id": "mkt:019e4e13-673c-7aa1-9585-5537f896c889",
+      "time": "2026-05-22 13:05:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Hang Seng Index",
+        "Impact mixed",
+        "CSI300",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "FITCH RATINGS: APAC DEAL FLOW IMPROVES; REMAINS DIFFERENTIATED BY CREDIT QUALITY"
+    },
+    {
+      "id": "4894214",
+      "time": "2026-05-22 13:05:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【內蒙古永泰水務有限責任公司經理張文偉接受審查調查】5月22日，據托克托縣紀委監委訊息，內蒙古永泰水務有限責任公司經理張文偉涉嫌嚴重違紀違法，目前正接受托克托縣紀委監委紀律審查和監察調查。"
+    },
+    {
+      "id": "4894213",
+      "time": "2026-05-22 13:05:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "【PCB概念股午後再度衝高，深南電路漲停，東材科技觸及漲停】PCB概念股午後再度衝高，深南電路漲停，東材科技觸及漲停，銅冠銅箔、金安國紀等跟漲。"
+    },
     {
       "id": "4894212",
       "time": "2026-05-22 13:03:55",
@@ -145067,67 +145122,6 @@
         "其他"
       ],
       "text": "【長飛光纖光纜港股跌超10%】長飛光纖光纜港股跌10.88%，報226.40港元。"
-    },
-    {
-      "id": "4881247",
-      "time": "2026-05-15 13:08:09",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4600美元/盎司，日內跌1.85%。"
-    },
-    {
-      "id": "mkt:019e2a08-9487-7bb5-b4d6-935e256a2376",
-      "time": "2026-05-15 13:07:45",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "【Capital Economics Urges Skepticism Over Trump-Xi Deal Announcements】Any deals announced during the Trump-Xi summit may not ultimately materialize, Capital Economics says in a research note. The firm notes that a key outcome of Trump’s 2017 China visit was a package of trade and investment agreements that the White House valued at more than $250 billion, but “the bulk of these deals never materialised.” The experience suggests investors should view announcements from the current Trump-Xi summit with a “healthy degree of scepticism,” Capital Economics says."
-    },
-    {
-      "id": "4881246",
-      "time": "2026-05-15 13:07:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "【工程機械板塊短線走高，建設機械漲停】工程機械板塊短線走高，建設機械漲停，恆立液壓、萬達軸承、艾迪精密、浙江鼎力、海倫哲跟漲。"
-    },
-    {
-      "id": "4881245",
-      "time": "2026-05-15 13:06:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "中際旭創成交額達200億元，現跌1.49%。"
-    },
-    {
-      "id": "4881244",
-      "time": "2026-05-15 13:05:25",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達80億港元。"
-    },
-    {
-      "id": "4881243",
-      "time": "2026-05-15 13:05:16",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期銀失守81美元/盎司，日內跌5.12%。"
-    },
-    {
-      "id": "4881242",
-      "time": "2026-05-15 13:05:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "斯巴魯執行長：已推遲原計劃於2028年推出的自研電動汽車專案，將開發資源調配至燃油車業務。"
     }
   ]
 }
