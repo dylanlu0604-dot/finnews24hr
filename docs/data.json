@@ -1,7 +1,150 @@
 {
-  "updated": "2026-05-22 16:23:20",
-  "count": 16151,
+  "updated": "2026-05-22 16:27:16",
+  "count": 16153,
   "items": [
+    {
+      "id": "mkt:019e4eca-315c-7226-bf79-fc7fba5e391d",
+      "time": "2026-05-22 16:25:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "CNH",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "FITCH RATINGS: LARGE CONTINGENT LIABILITIES MAKE SOME APAC SOVEREIGNS MORE VULNERABLE"
+    },
+    {
+      "id": "4894637",
+      "time": "2026-05-22 16:25:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "INTERTEK資料顯示，印尼4月份棕櫚油出口量增至201.2萬噸。"
+    },
+    {
+      "id": "4894636",
+      "time": "2026-05-22 16:24:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "【深南電路今日漲10.00%，3家機構專用席位淨買入6.81億元，有4家機構專用席位淨賣出1.54億元】深南電路今日漲10.00%，成交額55.85億元，換手率2.25%，盤後龍虎榜資料顯示，深股通專用席位買入5.62億元並賣出6.09億元，3家機構專用席位淨買入6.81億元，有4家機構專用席位淨賣出1.54億元。"
+    },
+    {
+      "id": "mkt:019e4ec9-8787-7226-bf79-f3889cc645c1",
+      "time": "2026-05-22 16:24:50",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "LME AVAILABLE COPPER STOCKS AT 275,525 T, LOWEST SINCE MARCH 13, AFTER 53,325 T OF FRESH CANCELLATIONS, LME DAILY DATA SHOWS"
+    },
+    {
+      "id": "4894635",
+      "time": "2026-05-22 16:24:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【抖音闢謠要付費才不限流，宣發基礎是建立在版權授權後】今日，抖音黑板報發文闢謠付費才不限流：這是不實資訊，請不要傳播謠言，根本不存在要付費才不限流的情況。原發宣告說的很清楚了，宣發的基礎是建立在版權授權後，有了授權就可以正常傳播。"
+    },
+    {
+      "id": "te:markets:553054",
+      "time": "2026-05-22 16:24:27",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Indian Rupee Rebounds from Record Low — The Indian rupee strengthened to 95.9 per dollar from the record-low of 97.15 on May 19th after the Reserve Bank of India continued to intervene on currency markets and support the currency from it's slide this year. The central bank sold dollars to state banks through the third week of the month. This outweighed the outflows of foreign exchange, initially stemming from energy importers following the surge in oil prices due to the war in the Middle East, then magnified by selling from Indian equity and bond investors that wanted to reduce rupee positions. Besides selling dollars, officials from the RBI reportedly considered hiking interest rates, as soon as next meeting, to prevent further deprecation and risks to the foreign currency reserves. However, a group of policymakers also advocated against raising rates, opting instead for more currency interventions and policy to stimulate dollar inflows."
+    },
+    {
+      "id": "4894634",
+      "time": "2026-05-22 16:24:24",
+      "tags": [
+        "市場",
+        "其他",
+        "焦點"
+      ],
+      "text": "倫敦金屬交易所每日資料顯示，在新增53,325噸登出倉單後，LME可用銅庫存為275,525噸，創下自3月13日以來的最低水平。"
+    },
+    {
+      "id": "4894633",
+      "time": "2026-05-22 16:24:01",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "【富途控股美股盤前跌超10%】富途控股美股盤前跌超10%，現報111.266美元。"
+    },
+    {
+      "id": "mkt:019e4ec8-ab13-7226-bf79-ea4c693180a5",
+      "time": "2026-05-22 16:23:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "TIGR.O",
+        "Impact bearish",
+        "FUTU.O"
+      ],
+      "text": "CHINA CSRC: ILLEGAL CROSS-BORDER OPERATIONS BY TIGER BROKERS, FUTU HOLDINGS, AND LONGBRIDGE VIOLATE CHINESE SECURITIES, FUND, AND FUTURES LAWS AND REGULATIONS, DISRUPTING MARKET ORDER AND MUST BE RESOLUTELY CRACKED DOWN UPON"
+    },
+    {
+      "id": "4894632",
+      "time": "2026-05-22 16:23:45",
+      "tags": [],
+      "text": "【老虎、富途、長橋將被罰 2年集中整治如何影響跨境炒股投資者】中國證監會5月22日宣佈，Tiger Brokers（NZ）Limited、富途證券國際（香港）有限公司、長橋證券（香港）有限公司的非法跨境展業行為，違反了我國證券基金期貨法律法規，破壞了市場秩序，必須堅決予以打擊。依據相關規定，證監會擬決定沒收老虎、富途、長橋境內外相關主體全部違法所得，並依法嚴厲處罰。記者5月22日從中國證監會獲悉，近日，經國務院同意，中國證監會等8部門聯合印發《綜合整治非法跨境證券期貨基金經營活動實施方案》，明確經過2年集中整治全面取締境外證券期貨基金經營機構非法跨境經營活動。根據方案，設定2年集中整治期清理非法存量業務，集中整治期內，禁止境外機構為存量投資者在境內非法提供買入交易、轉入資金等服務，只允許單向賣出交易並轉出資金。集中整治期滿後，境外機構要全面關停境內網站、交易軟體及配套伺服器，禁止為存量投資者在境內非法提供交易等服務。前些年，一些境外證券期貨基金經營機構未經批准，利用境內關聯或合作主體在境內招攬客戶，並透過網站、App向境內投資者提供境外股票等開戶、交易服務，嚴重擾亂我國金融市場秩序。實際上，2022年12月30日，中國證監會就曾明確此類活動的非法性，依法開展對富途證券、老虎證券等境外券商非法跨境經營的整治工作，取締增量非法業務活動，禁止其招攬境內投資者及發展境內新客戶、開立新賬戶。對於本次整治，各方十分關注存量投資者合法權益如何保護。對此，方案強調，投資者的財產安全不受整治影響。證監會有關部門負責人說，方案明確了諸多保障存量投資者合法權益的措施。例如，設定2年集中整治期分階段停止境外機構相關境內服務。要求境外機構做好與在境內受整治措施影響的投資者的溝通聯絡及其賬戶處置安排，保障客戶財產安全等。此外，投資者可能還會有疑問：整治工作是否會切斷投資者投資港股等境外市場股票的渠道?市場人士認為，本次整治針對的是境外機構非法跨境展業活動，並不會影響現有的合法渠道，投資者仍可以透過港股通、合格境內機構投資者(QDII)及跨境理財通等合法渠道開展境外投資。同時，方案採取分階段停止境內服務的方式引導投資者處理存量賬戶和資產，並未限制境外機構向位於境外的境內投資者提供交易服務，對境外市場的影響總體可控。（新華社）"
+    },
+    {
+      "id": "mkt:019e4ec8-7fb0-7226-bf79-e4fe99f10d11",
+      "time": "2026-05-22 16:23:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "TIGR.O",
+        "Impact bearish",
+        "FUTU.O"
+      ],
+      "text": "US-LISTED TIGER BROKERS (TIGR.O) TUMBLE OVER 10%, FUTU HOLDINGS (FUTU.O) DROP MORE THAN 5% IN PRE-MARKET TRADING"
+    },
+    {
+      "id": "4894631",
+      "time": "2026-05-22 16:23:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "世界鋼鐵協會：2026年4月全球粗鋼產量較2025年4月下降1.9%，至1.534億噸。"
+    },
+    {
+      "id": "4894630",
+      "time": "2026-05-22 16:23:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【航天環宇：3.10億股首發限售股6月2日上市流通】航天環宇公告稱，本次上市流通的限售股為首次公開發行限售股，數量為310,364,063股，佔公司股本總數的76.2790%，限售期為36個月。5名限售股股東均作出相關承諾，如36個月內不轉讓股份等。本次限售股將於2026年6月2日上市流通。"
+    },
+    {
+      "id": "te:markets:553050",
+      "time": "2026-05-22 16:22:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Euro Remains Weak Amid Mixed Data, Iran Talks — The euro traded at $1.16, near its weakest level since early April, as investors weighed mixed economic data and monitored US-Iran negotiations. German consumer sentiment improved heading into June, defying expectations of a further decline, driven by a rebound in income expectations. Business confidence also edged higher in May, recovering from April’s six-year low, while a separate report confirmed 0.3% GDP growth in Q1 2026. However, Thursday’s PMI revealed the euro area economy unexpectedly contracted in May at the fastest pace since late 2023, amid a war-driven surge in living costs. S&P Global warned the data points to inflation nearing 4% in the coming months. Money markets are pricing in at least two ECB rate hikes before year-end. Meanwhile, investors grew more optimistic about progress in US-Iran peace negotiations after US Senator Marco Rubio noted \"some good signs\" in Iran talks, though Tehran’s uranium stockpile and control over the Strait of Hormuz remain key obstacles."
+    },
     {
       "id": "4894629",
       "time": "2026-05-22 16:22:07",
@@ -145048,108 +145191,6 @@
         "Importance 1"
       ],
       "text": "US 10Y Bond Yield Hits 51-week High — US 10 Year Government Bond Yield increased to 4.54%, the highest since May 2025. Over the past 4 weeks, US 10 Year Note Bond Yield gained 22.30 basis points, and in the last 12 months, it increased 5.90 basis points."
-    },
-    {
-      "id": "4881708",
-      "time": "2026-05-15 16:26:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "【藍帆醫療：與江蘇東方盛虹股份有限公司簽署戰略合作框架協議】藍帆醫療公告，公司與江蘇東方盛虹股份有限公司簽署戰略合作框架協議。雙方將基於現有產能進行基礎合作，後續擴產的增量合作，聯合研發與技術共享，國內外市場資源共享，以及資本層面合作探討。合作期限自協議簽訂之日起5年，期限屆滿前3個月，雙方協商是否續簽。本次戰略合作協議有利於雙方建立穩固的長期合作關係，保障關鍵原料羧基丁腈膠乳的供應穩定及平衡價格波動風險，有望透過雙方後續擴產增量合作的規模效應進一步降低公司採購丁腈膠乳的綜合成本，未來還可能透過技術合作、市場協同等方面為公司帶來新的增長點，對公司長期發展預計產生積極影響。"
-    },
-    {
-      "id": "4881707",
-      "time": "2026-05-15 16:26:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【交通銀行副行長周萬阜：將加大清收處置力度 力爭全年資產質量保持穩定】5月15日，交通銀行執行董事、副行長周萬阜在2026年上海轄區上市公司年報集體業績說明會上稱：接下來，交行將加大清收處置力度，強化逾期貸款管理，動態最佳化准入管理，強化科技賦能，持續推進重點領域風險化解，力爭全年資產質量保持穩定。"
-    },
-    {
-      "id": "4881706",
-      "time": "2026-05-15 16:26:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國誠通董事長奚正平到訪中國電子、華僑城集團並調研融通基金】5月11日至13日，中國誠通黨委書記、董事長奚正平一行赴廣東，到訪中國電子、華僑城集團，並調研融通基金、東莞科技創新相關專案。在中國電子，奚正平與中國電子黨組書記、董事長李立功舉行會談，並見證雙方簽署戰略合作協議。雙方將進一步深入貫徹落實黨中央賦予央企的戰略使命，在基金投資、市值管理、資產盤活、資訊化建設等領域深化戰略協同，推動創新鏈產業鏈資金鍊深度融合，最佳化戰略性新興產業佈局，加快推動重點專案落地。在華僑城集團，奚正平表示，中國誠通將發揮國有資本運營公司功能作用，與華僑城集團在業務協同等方面積極探索、合作共贏。"
-    },
-    {
-      "id": "4881705",
-      "time": "2026-05-15 16:26:00",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【光莆股份今日漲10.71%，4家機構專用席位淨買入1.10億元】光莆股份今日漲10.71%，成交額24.27億元，換手率31.67%，盤後龍虎榜資料顯示，4家機構專用席位淨買入1.10億元。"
-    },
-    {
-      "id": "4881704",
-      "time": "2026-05-15 16:25:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外長：美國前後矛盾的資訊是主要問題。"
-    },
-    {
-      "id": "4881703",
-      "time": "2026-05-15 16:25:52",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油突破109美元/桶，日內漲3.12%。"
-    },
-    {
-      "id": "4881702",
-      "time": "2026-05-15 16:25:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "菲律賓司法部長：我們一定會配合國際刑事法院逮捕參議員德拉羅沙的要求。"
-    },
-    {
-      "id": "4881701",
-      "time": "2026-05-15 16:25:10",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【安徽安凱汽車股份有限公司國內營銷公司常務副總經理周旭接受紀律審查和監察調查】5月15日，安徽紀檢監察網通報，安徽安凱汽車股份有限公司國內營銷公司常務副總經理周旭涉嫌嚴重違紀違法，目前正接受安徽江淮汽車集團控股有限公司紀委紀律審查；經安徽省監委指定管轄，接受銅陵市郊區監委監察調查。"
-    },
-    {
-      "id": "mkt:019e2abc-c63b-7bb5-b4d8-c61b7d323305",
-      "time": "2026-05-15 16:24:32",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "CHINA’S SECURITIES REGULATOR RELEASES MEASURES FOR THE SUPERVISION AND ADMINISTRATION OF DERIVATIVES TRADING (TRIAL)"
-    },
-    {
-      "id": "4881700",
-      "time": "2026-05-15 16:23:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣東：加強高階裝備製造、積體電路、工業軟體等新興產業人才培養】廣東省人民政府辦公廳印發《高等教育“衝一流、補短板、強特色”提升計劃實施方案（2026—2030年）》，實施方案提出，加快重點領域人才培養。實施基礎學科人才培養“長基計劃”，建強100個以上基礎學科本科專業，打造50個左右基礎學科拔尖人才培養創新實驗區。加強高階裝備製造、積體電路、工業軟體、人工智慧、低空經濟、新能源、新材料、生物製造、生物育種、智慧網聯汽車、智慧機器人、醫藥和醫療器械、航空航天等新興產業人才培養。前瞻佈局未來網路、未來空間、量子科技、6G、光晶片、具身智慧、細胞與基因治療、腦科學與腦機介面、氫能、先進核能、深海探測等未來產業人才培養。加快培養涉外法治、國際傳播、區域國別、出口管制、科技成果轉化等領域實戰型人才。"
-    },
-    {
-      "id": "4881699",
-      "time": "2026-05-15 16:23:39",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【國務院國資委召開中央企業品牌引領行動總結暨品牌價值提升行動部署會】會議指出，中央企業品牌引領行動取得明顯成效，品牌價值引領意識、品牌建設水平、品業融合能力、品牌影響力得到顯著提升。中央企業要充分認識到品牌是企業高質量發展的重要標識，要將品牌作為企業重要戰略資產加以管理和維護，加快構建與企業規模實力相匹配的品牌軟實力。會議強調，下一階段，中央企業要深入實施品牌價值提升行動，從凝聚思想共識、加強品業融合、強化核心支撐、提升國內美譽度、擴大國際知名度、做優品牌資產等六個方面著重發力，堅持走好品牌競爭路線，有效促進品牌價值全面提升、世界一流企業加快建設。"
-    },
-    {
-      "id": "4881698",
-      "time": "2026-05-15 16:23:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國證監會發布《衍生品交易監督管理辦法（試行）》】中國證監會發布《衍生品交易監督管理辦法（試行）》。《辦法》規定的衍生品交易是指期貨交易以外的，互換合約、遠期合約和非標準化期權合約及其組合的交易。《辦法》對衍生品交易和結算、衍生品交易者、衍生品經營機構、衍生品市場基礎設施、監督管理和法律責任等進行了規定，主要包括以下內容：一是明確調整範圍。二是明確衍生品市場管理風險、配置資源、服務實體經濟的功能定位。三是明確參與衍生品交易及相關活動的各方應當遵守的基本原則，禁止透過衍生品交易實施違法違規行為。四是規範衍生品交易及其結算。五是加強交易者保護，明確交易者適當性標準，對衍生品交易提出賬戶實名制要求。六是加強衍生品經營機構監管，明確內部控制和風險管理要求，規定證券公司、期貨公司申請開展衍生品交易業務應當符合最近6個月淨資本持續不低於人民幣5億元等行政許可條件，同時規定中國證監會根據審慎監管原則，可以調整淨資本最低限額，為根據監管需要對相關機構提出更高要求預留空間。七是加強衍生品市場基礎設施監管。八是明確監督管理和法律責任。《辦法》將自2026年11月16日起施行。（證監會）"
     }
   ]
 }
