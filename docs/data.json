@@ -1,7 +1,18 @@
 {
-  "updated": "2026-05-23 06:34:57",
+  "updated": "2026-05-23 06:38:47",
   "count": 16163,
   "items": [
+    {
+      "id": "te:markets:553205",
+      "time": "2026-05-23 06:35:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Lithium Carbonate Falls by 2.20% — Top commodity losers are Lithium Carbonate (-2.20%), Platinum (-1.70%), Silver (-1.52%) and Gold (-0.58%). Gains are led by Copper (1.41%)."
+    },
     {
       "id": "4895867",
       "time": "2026-05-23 06:32:22",
@@ -145069,17 +145080,6 @@
         "國際"
       ],
       "text": "【美債價格連跌五週】週五（5月15日）紐約尾盤，美國10年期基準國債收益率漲11.18個基點，報4.5934%，逼近2025年5月22日頂部4.6247%、當年1月14日頂部4.8069%，本週累計上漲23.92個基點，連續第五週上漲，4月17日結束交易以來累計上揚88.52個基點。兩年期美債收益率漲5.16個基點，報4.0687%，北京時間02:06曾達到4.0856%，逼近2025年5月14日頂部4.0592%、當年1月13日頂部4.4214%、以及2023年10月19日盤中最高位5.2571%，本週累漲18.42個基點。"
-    },
-    {
-      "id": "te:markets:551311",
-      "time": "2026-05-16 06:35:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Silver Tumbles by 8.95% — Top commodity losers are Silver (-8.95%), Copper (-5.12%), Platinum (-5.08%) and Gold (-2.22%)."
     }
   ]
 }
