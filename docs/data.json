@@ -1,7 +1,27 @@
 {
-  "updated": "2026-05-22 23:17:16",
-  "count": 16125,
+  "updated": "2026-05-22 23:21:18",
+  "count": 16121,
   "items": [
+    {
+      "id": "te:markets:553159",
+      "time": "2026-05-22 23:17:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gold Heads for Second Straight Weekly Decline as Rate Hike Fears Bite — Gold fell to $4,500 per ounce on Friday, heading for a second consecutive weekly decline, as elevated oil prices fueled inflation concerns and boosted expectations for a US interest rate hike this year. Crude held near four-year highs as investors remained cautious about the prospects for a breakthrough in US-Iran peace talks. Iranian media reported that Iran’s foreign minister met Pakistan’s interior minister on Friday to discuss proposals to end the war, while US Senator Marco Rubio noted \"slight progress\" in mediated talks but warned that Washington and Tehran were \"not there yet\" on a peace deal. The prolonged conflict and inflation pressures led markets to price in a Federal Reserve rate hike before year-end, with about a 55% chance of at least one 25-basis-point increase by October. Supporting this view, Fed Governor Christopher Waller signaled he no longer believed the central bank should maintain an easing bias in its policy statement."
+    },
+    {
+      "id": "4895542",
+      "time": "2026-05-22 23:17:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美國天然氣期貨跌超3.00%，現報2.927美元/百萬英熱。"
+    },
     {
       "id": "4895541",
       "time": "2026-05-22 23:16:01",
@@ -144686,61 +144706,6 @@
         "國際"
       ],
       "text": "美聯儲委員會終止對瑞銀和瑞士信貸於2023年與Archegos交易相關的執法行動。"
-    },
-    {
-      "id": "4882604",
-      "time": "2026-05-15 23:21:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "阿聯酋宣告：阿聯酋斷然拒絕伊朗在金磚國家領導人會晤期間針對阿聯酋的指控，以及伊朗為其襲擊阿聯酋的行為所作的辯解。"
-    },
-    {
-      "id": "4882603",
-      "time": "2026-05-15 23:21:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防軍：此前以色列北部多地拉響敵方飛行器入侵警報後，以方已發射攔截彈，打擊多架從黎巴嫩境內飛向以領土的敵方飛行器。其中一架已被成功攔截，其餘數架依既定規制墜落於空曠地帶。"
-    },
-    {
-      "id": "4882602",
-      "time": "2026-05-15 23:19:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "【《中國釩鈦產業發展報告（2026）》在蓉釋出】5月15日下午，《中國釩鈦產業發展報告（2026）》在成都發布。報告顯示，2025年中國釩製品產量佔全球72.39%，儲能領域釩消費佔比達20%。儘管市場規模將超預期增長，但業內提醒行業“春天”未至，產業面臨資源利用、供需失衡等挑戰，聯盟呼籲全行業“有序投資、理性發展”。（21財經）"
-    },
-    {
-      "id": "te:economy:551243",
-      "time": "2026-05-15 23:18:26",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Colombia",
-        "Retail Sales YoY",
-        "Importance 1"
-      ],
-      "text": "Colombia Retail Sales Growth Accelerates in March — Retail sales in Colombia rose 13.4% year-on-year in March 2026, beating forecasts of 10.1% and accelerating from a 10.9% increase in February. Growth was broad-based, with all 19 retail categories posting gains. The strongest contributions came from motor vehicles and motorcycles mainly for household use (35.8%), other motor vehicles and motorcycles (34.8%), and computer and telecommunications equipment for personal or household use (26.8%). Excluding fuel sales, real retail sales advanced 15.6%. Employment in the retail sector also increased 1.9% from a year earlier. In the first quarter of 2026, retail sales rose 10.8% compared with the same period in 2025."
-    },
-    {
-      "id": "mkt:019e2c37-d3a3-7663-82f9-9fdd53884ac3",
-      "time": "2026-05-15 23:18:18",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "BMY.N"
-      ],
-      "text": "BRISTOL MYERS SQUIBB PARTNERS WITH CHINA TO CREATE NEW MEDICINES IN LATEST INTERNATIONAL COOPERATION"
-    },
-    {
-      "id": "mkt:019e2c37-40b5-7663-82f9-9212c891d90e",
-      "time": "2026-05-15 23:17:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CHINA HOPES U.S. WILL TAKE CONCRETE ACTIONS TO SAFEGUARD PEACE, STABILITY ACROSS TAIWAN STRAIT, TOP DIPLOMAT SAYS - XINHUA"
     }
   ]
 }
