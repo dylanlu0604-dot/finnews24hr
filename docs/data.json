@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-23 02:51:08",
-  "count": 16060,
+  "updated": "2026-05-23 02:54:48",
+  "count": 16058,
   "items": [
     {
       "id": "4895684",
@@ -144189,26 +144189,6 @@
         "Importance 0"
       ],
       "text": "US 10 Year Note Bond Yield traded above 4.6 percent — US 10 Year Note Bond Yield rose above 4.6, according to over-the-counter interbank yield quotes for this government bond maturity."
-    },
-    {
-      "id": "4882835",
-      "time": "2026-05-16 02:53:24",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油期貨收於每桶109.26美元，上漲3.54美元，漲幅為3.35%。"
-    },
-    {
-      "id": "mkt:019e2cfb-60ac-7663-82fb-c0279593939d",
-      "time": "2026-05-16 02:52:12",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish"
-      ],
-      "text": "BRENT CRUDE FUTURES SETTLE AT $109.26/BBL, UP $3.54, 3.35 PCT"
     }
   ]
 }
