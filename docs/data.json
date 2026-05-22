@@ -1,7 +1,136 @@
 {
-  "updated": "2026-05-22 21:26:11",
-  "count": 16106,
+  "updated": "2026-05-22 21:30:11",
+  "count": 16108,
   "items": [
+    {
+      "id": "mkt:019e4fe0-5df7-7113-afb4-9b2668c3bbad",
+      "time": "2026-05-22 21:29:22",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "U.S. SECRETARY OF STATE RUBIO ON IRAN: WE ALL WOULD LOVE TO SEE AGREEMENT WITH IRAN RUBIO: THERE NEEDS TO BE A PLAN B IF IRAN REFUSES TO REOPEN STRAIT OF HORMUZ"
+    },
+    {
+      "id": "4895352",
+      "time": "2026-05-22 21:29:17",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "魯比奧：若伊朗拒絕重新開放霍爾木茲海峽，就需要有備用方案。"
+    },
+    {
+      "id": "4895351",
+      "time": "2026-05-22 21:28:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧談及伊朗問題：我們所有人都樂見與伊朗達成協議。"
+    },
+    {
+      "id": "4895350",
+      "time": "2026-05-22 21:28:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "法國達飛海運集團將負責管理並運營位於大馬士革郊區阿德拉自由區以及阿勒頗自由區的兩個無水港。"
+    },
+    {
+      "id": "4895349",
+      "time": "2026-05-22 21:28:18",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "法國航運集團達飛海運於5月19日與敘利亞邊境與海關總管理局簽署了一項新協議。"
+    },
+    {
+      "id": "mkt:019e4fdf-67cb-7113-afb4-926445d37e9b",
+      "time": "2026-05-22 21:28:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RUBIO: GOAL IS TO HAVE A STRONGER NATO"
+    },
+    {
+      "id": "4895348",
+      "time": "2026-05-22 21:28:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "魯比奧：北約也必須對美國具有價值。目標是打造一個更強大的北約。"
+    },
+    {
+      "id": "mkt:019e4fde-cac5-7113-afb4-8977720f438b",
+      "time": "2026-05-22 21:27:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RUBIO: NATO ALSO HAS TO BE VALUABLE TO THE UNITED STATES"
+    },
+    {
+      "id": "4895347",
+      "time": "2026-05-22 21:27:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：部隊調動是與美國盟國協調後開展的；北約兵力模型問題並未在北約會談中被直接提及。烏克蘭目前獲得的支援史無前例。"
+    },
+    {
+      "id": "mkt:019e4fde-94e6-7113-afb4-800df40965dc",
+      "time": "2026-05-22 21:27:25",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "US SAYS 97 VESSELS REDIRECTED SINCE START OF BLOCKADE"
+    },
+    {
+      "id": "mkt:019e4fde-699a-7113-afb4-7aa6a864ae87",
+      "time": "2026-05-22 21:27:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RUBIO: FORCE POSTURE IS NOT A POLITICAL DECISION RUBIO: UKRAINE GETTING MORE SUPPORT THAN THEY EVER HAVE"
+    },
+    {
+      "id": "4895346",
+      "time": "2026-05-22 21:26:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國稱自霍爾木茲海峽封鎖開始以來，已有97艘船隻改道航行。"
+    },
+    {
+      "id": "4895345",
+      "time": "2026-05-22 21:26:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "路透社22日援引訊息人士的話報道稱，卡達已派遣一個談判小組前往伊朗首都德黑蘭，以協助達成一項結束伊朗戰事的協議。（新華社）"
+    },
+    {
+      "id": "4895344",
+      "time": "2026-05-22 21:26:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "美光科技：對其馬納薩斯晶圓廠擴產與現代化改造投資超20億美元，將維持超過3100個就業崗位。"
+    },
+    {
+      "id": "mkt:019e4fdc-eee8-7113-afb4-734157d5cc8a",
+      "time": "2026-05-22 21:25:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RUBIO: NATO FORCE MODEL DIDN'T COME UP DIRECTLY IN NATO TALKS"
+    },
     {
       "id": "4895342",
       "time": "2026-05-22 21:25:21",
@@ -144450,147 +144579,6 @@
         "焦點"
       ],
       "text": "比特幣跌破80000美元，日內跌1.43%。"
-    },
-    {
-      "id": "te:markets:551213",
-      "time": "2026-05-15 21:30:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Closes 0.75% Higher — The Dow Jones Index rose 370 points or 0.75 percent on Thursday to close at 50063 points.."
-    },
-    {
-      "id": "4882404",
-      "time": "2026-05-15 21:30:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "世衛組織總幹事：我們將調查此次漢坦病毒疫情的起源與傳播途徑。"
-    },
-    {
-      "id": "4882403",
-      "time": "2026-05-15 21:28:50",
-      "tags": [
-        "公司",
-        "焦點",
-        "國際"
-      ],
-      "text": "【司法部就歐盟外國補貼調查相關做法構成不當域外管轄答記者問】司法部新聞發言人今天就歐盟外國補貼調查相關做法構成不當域外管轄答記者問。問：2026年5月15日，司法部發布公告，認定歐盟利用其《外國補貼條例》在對同方威視調查中對中國實體採取的相關跨境調查做法構成不當域外管轄。請問有何考慮？答：歐盟利用其《外國補貼條例》對同方威視進行調查，肆意向中國實體跨境索取廣泛的、非必要的中國境內資訊，是對相關實體施加的不當要求，明顯違反國際法與國際關係基本準則。為維護國家主權、安全和發展利益，保護中國公民、法人或其他組織的合法權益，司法部根據《中華人民共和國反外國不當域外管轄條例》，會同商務部等有關部門依法識別，認定歐盟上述做法構成不當域外管轄措施。任何組織、個人不得執行或者協助執行該不當域外管轄措施。歐盟《外國補貼條例》是其自行創設的單邊工具。自實施以來，歐盟頻繁利用《外國補貼條例》對中國企業進行調查，具有明顯針對性和歧視性，是典型的以“公平競爭”之名行“保護主義”之實。商務部已於2025年1月依法認定歐盟相關做法構成貿易投資壁壘。歐盟不僅沒有糾正，反而在錯誤的道路上越走越遠。中方絕不接受外國國家和地區對中國公民和企業濫施“長臂管轄”。此次釋出公告，是依法實施《中華人民共和國反外國不當域外管轄條例》的具體行動。我們敦促歐方立即糾正錯誤做法，為中歐合作創造公平、公正、可預期的市場環境。如歐方執意越界，中方將堅決依法反制。 (央視新聞)"
-    },
-    {
-      "id": "4882402",
-      "time": "2026-05-15 21:28:08",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【5月15日增減持彙總】據統計，5月15日盤後，安通控股披露擬增持情況。禾豐股份、ST東尼、同花順、思維列控、永新光學、華特氣體、奧比中光、世運電路、麥加芯彩、白銀有色、盛科通訊等11家A股上市公司披露擬減持情況。"
-    },
-    {
-      "id": "mkt:019e2bd2-659d-7440-b03a-c4260452efe6",
-      "time": "2026-05-15 21:27:49",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "CHINA SAYS NO INDIVIDUAL, ORGANISATION SHALL ENFORCE, ASSIST IN THE EXCECUTION - XINHUA"
-    },
-    {
-      "id": "4882401",
-      "time": "2026-05-15 21:27:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "世衛組織總幹事：未來數日或確診更多漢坦病毒病例，但這並不意味著疫情正在擴散。"
-    },
-    {
-      "id": "4882400",
-      "time": "2026-05-15 21:27:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普稱美伊停火系“應其他國家要求”】美國總統特朗普15日在總統專機“空軍一號”上接受採訪時稱，他本不贊成美國同伊朗停火，停火系“應其他國家要求”。 特朗普表示，美伊停火系“應其他國家要求”。“我本來並不贊成（停火），但我們為了幫巴基斯坦一個忙而停火，他們是很棒的人。” 特朗普還表示，伊朗方面提出的方案“不可接受”，“如果我不喜歡第一句話，我就直接扔掉”。“如果他們（伊朗）擁有任何形式的核武器，我不會讀剩下的內容”。 特朗普還威脅摧毀伊朗的基礎設施，“我們可以摧毀他們的橋樑和電力設施，兩天之內我們就能癱瘓整個系統”。(新華社)"
-    },
-    {
-      "id": "te:economy:551212",
-      "time": "2026-05-15 21:27:20",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Manufacturing Production MoM",
-        "Importance 1"
-      ],
-      "text": "US Manufacturing Output Rises Most in 14 Months — Manufacturing output in the United States rose 0.6% in April 2026, the most since February 2025 and more than market expectations of a 0.2% gain. The production of durables increased 1.2%, with gains in most categories. The largest increase was in the output of motor vehicles and parts, which jumped 3.7%. Nondurable manufacturing production edged down 0.1%, as declines in several categories—notably the indexes for chemicals and for plastics and rubber products, which both decreased 0.9%, were mostly offset by increases in the indexes for food, beverage, and tobacco products, for printing and support, and for petroleum and coal products. Capacity utilization for manufacturing moved up 0.4 percentage point to 75.8% in April and is now 2.4 percentage points below its long-run (1972–2025) average."
-    },
-    {
-      "id": "mkt:019e2bd1-f0a6-7440-b03a-b80177db257c",
-      "time": "2026-05-15 21:27:19",
-      "tags": [
-        "MKT News",
-        "Important",
-        "DXY",
-        "Impact bullish",
-        "CNH",
-        "Impact bearish"
-      ],
-      "text": "CHINA SAYS IT WILL FIRMLY TAKE LAWFUL COUNTERMEASURES IF THE EU INSISTS ON CROSSING BOUNDARIES"
-    },
-    {
-      "id": "mkt:019e2bd1-a8ba-7440-b03a-b02b8b5fc7bd",
-      "time": "2026-05-15 21:27:00",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Hot",
-        "Market Regions",
-        "Europe & UK",
-        "Policy",
-        "Chinese Policy & Markets",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "CHINA SAYS EU'S PROBE INTO NUCTECH CONSTITUTES INAPPROPRIATE EXTRATERRITORIAL JURISDICTIONAL MEASURE - XINHUA"
-    },
-    {
-      "id": "mkt:019e2bd1-5a23-7440-b03a-ae8698b6922a",
-      "time": "2026-05-15 21:26:40",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "Market Themes",
-        "AI Revolution",
-        "Chip Wars",
-        "CSCO.O",
-        "Impact bullish",
-        "F.O",
-        "BA.O",
-        "Impact bearish"
-      ],
-      "text": "【MKTNews Morning Bid - US】- Wall Street had a big day yesterday: The Dow Jones Industrial Average surged back above 50,000, while the S&P 500 notched its first-ever close above 7,500. Cisco surged more than 13% for its best day since 2011 following an earnings and guidance beat powered by surging demand for artificial intelligence infrastructure. Ford also extended its rally after announcing a new energy storage initiative, putting the stock up nearly 20% in the past two days. But Boeing bucked the uptrend, sinking nearly 5% after news of China’s potential order. - President Donald Trump has left Beijing following two days of meetings with Chinese President Xi Jinping. The U.S. president told reporters aboard Air Force One this morning that he refused to answer when Xi asked him if the U.S. would defend Taiwan from an attack by China. “That question was asked to me today by President Xi. I said I don’t talk about that,” he said. - Cerebras shares surged 68% in their Nasdaq debut yesterday, sending the chipmaker’s market cap to around $95 billion. It was the U.S. technology sector’s largest initial public offerings in years. - Sources said that SpaceX’s IPO prospectus could drop as early as next week. Musk’s reusable rocket company is expected to start a roadshow aimed at marketing the deal to investors early next month, according to people familiar with the matter. - The Senate banking committee on Thursday approved the Clarity Act. The act, the first piece of legislation focused on crypto, would add oversight and guardrails to the new industry. However, banks, unions and law enforcement agencies have come out against the bill citing concerns that it would hurt consumers and financial systems."
-    },
-    {
-      "id": "4882399",
-      "time": "2026-05-15 21:26:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "世衛組織總幹事：船員仍留守船上，將於週一抵達荷蘭，目前船上暫無出現症狀人員。"
-    },
-    {
-      "id": "4882398",
-      "time": "2026-05-15 21:26:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "世衛組織總幹事：從特內里費島轉移船上乘客的行動已順利完成，超 120 人順利返回本國。"
     }
   ]
 }
