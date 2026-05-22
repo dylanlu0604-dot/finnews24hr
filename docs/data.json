@@ -1,7 +1,36 @@
 {
-  "updated": "2026-05-23 02:17:40",
-  "count": 16081,
+  "updated": "2026-05-23 02:21:27",
+  "count": 16078,
   "items": [
+    {
+      "id": "mkt:019e50eb-1c88-788e-b251-be6efbc57085",
+      "time": "2026-05-23 02:20:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "BRITAIN ‘WILL BOW TO EUROPEAN COURT RULES’ IF LABOUR REVERSES BREXIT – TELEGRAPH"
+    },
+    {
+      "id": "te:markets:553188",
+      "time": "2026-05-23 02:19:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Lithium Carbonate Drops by 2.20% — Top commodity losers are Lithium Carbonate (-2.20%), Platinum (-1.44%), Silver (-0.86%) and Gold (-0.61%). Gains are led by Copper (1.76%)."
+    },
+    {
+      "id": "4895679",
+      "time": "2026-05-23 02:19:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西官員：稅務部門統籌的油價異動收入，我方劃撥預算時態度偏保守。"
+    },
     {
       "id": "te:markets:553187",
       "time": "2026-05-23 02:15:01",
@@ -12,6 +41,14 @@
         "Importance 1"
       ],
       "text": "Energy Commodities Updates: Natural gas Drops by 3.95% — Top commodity losers are Natural gas (-3.95%), Natural Gas UK (-3.16%) and Natural Gas EU (-2.40%). Gains are led by Gasoline (1.79%), Heating Oil (1.62%), Brent Crude Oil (0.61%) and Crude Oil WTI (0.13%)."
+    },
+    {
+      "id": "4895678",
+      "time": "2026-05-23 02:13:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國防部公佈第二批涉UFO檔案】美國國防部22日公佈第二批有關“不明飛行物（UFO）”等“不明異常現象（UAP）”的檔案，共涉及222份歷史檔案、照片和影片等資料。這是美國政府本月8日以來公佈的第二批此類檔案。UAP是美國政府目前使用的官方術語，指包括UFO在內的出現在空中、太空、陸地、海洋等區域、暫時無法得到充分解釋的異常現象。相關檔案存放於美國政府專門設立的網站WAR.GOV/UFO。（新華社）"
     },
     {
       "id": "mkt:019e50e1-58bf-788e-b251-b4166198463e",
@@ -144332,70 +144369,6 @@
         "Importance 1"
       ],
       "text": "Mexican Peso Weakens as Fed Rate Hike Bets Grow — The Mexican peso weakened to 17.3 per USD in mid-May as rising energy-driven inflation pressures fueled expectations that the Federal Reserve could raise interest rates later this year. The stronger US dollar coincided with higher US Treasury yields, adding pressure on emerging market currencies. Earlier in the month, the Bank of Mexico lowered its benchmark interest rate by 25 basis points to 6.5%, but signaled that the easing cycle that began in March 2024 had likely ended. Banxico adopted a more cautious stance as elevated energy prices linked to the Middle East conflict threatened to lift inflation expectations in Mexico. Meanwhile, the latest GDP data showed the Mexican economy contracted 0.8% in the first quarter, a steeper decline than markets had expected."
-    },
-    {
-      "id": "te:markets:551289",
-      "time": "2026-05-16 02:20:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Silver Plunges by 7.74% — Top commodity losers are Silver (-7.74%), Platinum (-4.74%), Copper (-4.73%) and Gold (-2.08%)."
-    },
-    {
-      "id": "4882814",
-      "time": "2026-05-16 02:20:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "根據美國證券交易委員會（SEC）檔案：Tiger Global Management LLC已清倉Circle Internet Group持股。"
-    },
-    {
-      "id": "4882813",
-      "time": "2026-05-16 02:19:41",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "根據美國證券交易委員會檔案顯示， Tiger Global Management LLC將其持有的聯合健康集團股份減持16.6%，降至350445股。"
-    },
-    {
-      "id": "4882812",
-      "time": "2026-05-16 02:19:21",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "根據美國證券交易委員會檔案：TIGER GLOBAL MANAGEMENT LLC將其持有的聯合健康集團股份減持16.6%，降至350445股。"
-    },
-    {
-      "id": "4882811",
-      "time": "2026-05-16 02:18:59",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "根據美國證券交易委員會（SEC）披露檔案： TIGER GLOBAL MANAGEMENT LLC將其持有的微軟股份減持54.4%，減持後持股規模為250萬股。"
-    },
-    {
-      "id": "4882810",
-      "time": "2026-05-16 02:18:35",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "根據美國證券交易委員會（SEC）檔案：Tiger Global Management LLC披露其持有羅Robinhood Ventures FD I的股份規模為40萬股。"
-    },
-    {
-      "id": "4882809",
-      "time": "2026-05-16 02:17:55",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "根據美國證券交易委員會（SEC）檔案披露：Tiger Global Management LLC報告持有英特爾160萬股股份。"
     }
   ]
 }
