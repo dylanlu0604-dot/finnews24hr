@@ -1,7 +1,186 @@
 {
-  "updated": "2026-05-22 09:52:34",
-  "count": 16141,
+  "updated": "2026-05-22 09:56:24",
+  "count": 16148,
   "items": [
+    {
+      "id": "mkt:019e4d65-4139-7aa1-9583-9295c9354f3c",
+      "time": "2026-05-22 09:55:41",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "CHINEXT INDEX EXTENDS GAINS TO RISE OVER 2%; LAB-GROWN DIAMONDS, PCB SECTORS LEAD RALLY"
+    },
+    {
+      "id": "4893967",
+      "time": "2026-05-22 09:55:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國北卡羅來納州起訴越南Vinfast，因其電動汽車專案逾期未推進。"
+    },
+    {
+      "id": "4893966",
+      "time": "2026-05-22 09:55:19",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【港股PCB概念股走強 建滔積層板漲近10%】截至發稿，建滔積層板(01888.HK)漲9.77%，廣合科技(01989.HK)漲7.45%，勝宏科技(02476.HK)漲7.16%，建滔集團(00148.HK)漲5.42%。"
+    },
+    {
+      "id": "4893965",
+      "time": "2026-05-22 09:54:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘇姿豐表示：人工智慧個人電腦（AI PC）領域將實現兩位數的顯著增長。"
+    },
+    {
+      "id": "4893964",
+      "time": "2026-05-22 09:54:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指漲2.01%，現報3906.907點；上證指數漲0.43%，現報4094.799點；深證成指漲1.48%，現報15473.251點。"
+    },
+    {
+      "id": "4893963",
+      "time": "2026-05-22 09:54:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘇姿豐：下一大浪潮是實體人工智慧，其中包括機器人技術。"
+    },
+    {
+      "id": "mkt:019e4d63-f1fb-7aa1-9583-895365735b77",
+      "time": "2026-05-22 09:54:11",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "AMD.O",
+        "Impact bullish"
+      ],
+      "text": "AMD CEO LISA SU: THE NEXT BIG WAVE IS PHYSICAL AI, INCLUDING ROBOTICS"
+    },
+    {
+      "id": "4893962",
+      "time": "2026-05-22 09:53:54",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "丁二烯橡膠連續主力合約日內跌4%，現報14790.00元。"
+    },
+    {
+      "id": "4893961",
+      "time": "2026-05-22 09:53:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "聯想延續早盤漲勢；最新上漲12%，報14.67港元。"
+    },
+    {
+      "id": "te:markets:552917",
+      "time": "2026-05-22 09:53:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Australian Stocks Positioned for Weekly Gain — Australian shares rose 41 points or 0.5% to 8,662 in early Friday trade, extending gains from the prior session as U.S. futures firmed after the Dow Jones hit a record close overnight on renewed hopes of a Washington–Tehran deal to end the Middle East conflict. Local markets are on track to log a modest weekly rise, up about 0.3% so far, after sharp declines last week, lifted by speculation that April’s surprise drop in employment could prompt the central bank to pause its tightening cycle following three hikes this year. However, caution lingered ahead of April CPI data due next week, after March inflation surged 4.6% yoy, the fastest since September 2023, driven by higher fuel costs. Sector gains were broad, led by consumer, producer manufacturing, and logistics. The big four banks advanced between 0.4% to 1%, while standouts included BHP Group (1.1%), Evolution Mining (3.0%), SGH Ltd. (2.0%), and ALS Ltd. (1.4%)."
+    },
+    {
+      "id": "4893960",
+      "time": "2026-05-22 09:53:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【阿里雲百鍊上線Qwen3.7-Max，支援API與Token Plan呼叫】5月22日，阿里雲宣佈，Qwen3.7-Max已登陸阿里雲百鍊平臺，使用者可直接呼叫API。模型輸入價格每百萬Tokens 12元，輸出價格每百萬Tokens 36元。此外，阿里雲百鍊Token Plan訂閱服務也已上線Qwen3.7-Max，訂閱使用者可直接使用該模型。"
+    },
+    {
+      "id": "4893959",
+      "time": "2026-05-22 09:53:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "機器人概念股反覆活躍，龍星科技直線漲停，埃夫特漲近10%，歐科億、卡倍億、奧比中光、迅捷興跟漲。"
+    },
+    {
+      "id": "4893958",
+      "time": "2026-05-22 09:53:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "房地產板塊異動拉昇，華麗家族漲停，京投發展、三湘印象漲超7%，京能置業、張江高科、深振業A跟漲。"
+    },
+    {
+      "id": "4893957",
+      "time": "2026-05-22 09:53:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘇姿豐表示：我們未曾預料到需求增長得如此迅猛，我們正全力追趕需求、加緊發力。"
+    },
+    {
+      "id": "mkt:019e4d62-f05e-7aa1-9583-8110869e5663",
+      "time": "2026-05-22 09:53:03",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AMD.O",
+        "Impact bullish"
+      ],
+      "text": "AMD CEO LISA SU: WE DID NOT QUITE PREDICT THE DEMAND TO GO UP THAT FAST. WE WANT TO CATCH UP WITH THAT DEMAND AND WE ARE WORKING VERY HARD"
+    },
+    {
+      "id": "4893956",
+      "time": "2026-05-22 09:52:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【為中小學基本辦學條件劃底線 教育部等四部門發文】今天，教育部等四部門聯合釋出《中小學基本辦學條件底線要求》，全面加強普通中小學校標準化建設，從學校校舍建設、安全防範建設、生活硬體配備、教學設施裝備、教職工配備五方面，明確提出了新的20條底線要求，力爭用3年時間實現所有中小學校全部達到《底線要求》。校園內設定旗臺、旗杆，使用規範國旗。拆除或封存D級危房，C級危房經加固評估達標後使用。學校實施封閉管理，校門口安裝一鍵式報警裝置和防衝撞設施，學校重點部位和區域設定影片監控裝置。校舍應符合國家工程建設消防技術標準，配置有效的消防和應急照明裝置，疏散通道、安全出口和消防安全重點部位等設定提示標識，並能正常使用。教室等室內採光和照明應符合國家標準。為學生提供符合衛生標準的白開水、直飲水等。學生1人1桌1椅，座椅有靠背。體育活動場地和設施裝置配備（含租賃借用）滿足開足體育課時和田徑及球類活動開展要求（足球、籃球、排球、乒乓球至少1種）。設定學生心理輔導室。教室配置黑板（書寫板）或互動式電子白板、大屏一體機等設施裝置，接入頻寬不低於100兆。設定計算機教室或資訊科技實驗室。小學應具備科學教室或實驗室，初、高中學校應具備物理、化學、生物學實驗室，實驗器材配備滿足學生開展實驗活動。設定音樂、美術專用教室，配備相關教學器材，滿足教學需要。按規定配備圖書（含電子圖書），圖書館（室）滿足學生閱讀需要。寄宿制學校設定食堂。學生宿舍不設在地下室或半地下室，通風良好，寄宿學生每人1個床位，上鋪安裝防護欄。寄宿制學校合理設定廁所、盥洗裝置，滿足學生如廁、洗浴等生活需求。學校設立衛生室或保健室，配備急救箱，按要求配備專（兼）職校醫或保健教師。按標準配備取得保安員證的專職保安員。專任教師配備滿足開齊開足國家規定課程需要，每校至少配備1名專（兼）職心理健康教育教師。學生宿舍配備管理員，女生宿舍需配備女管理員。"
+    },
+    {
+      "id": "4893955",
+      "time": "2026-05-22 09:52:24",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "聯想執行長：記憶體嚴重短缺，成本正不斷上漲。"
+    },
+    {
+      "id": "mkt:019e4d62-2c2f-7aa1-9583-7f4d27d405d8",
+      "time": "2026-05-22 09:52:19",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "0992.HK",
+        "Impact bearish",
+        "MU.O",
+        "Impact bullish",
+        "Nasdaq100",
+        "Impact mixed"
+      ],
+      "text": "LENOVO CEO: MEMORY IS IN HEAVY SHORTAGE AND COST IS GROWING"
+    },
+    {
+      "id": "4893954",
+      "time": "2026-05-22 09:52:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘇姿豐表示：其他瓶頸還包括電力供應，我們需要建設資料中心並擴建相關產能。"
+    },
     {
       "id": "4893953",
       "time": "2026-05-22 09:51:47",
@@ -145015,113 +145194,6 @@
         "焦點"
       ],
       "text": "滬深兩市成交額超1萬億元，較上日此時縮量1320億元。"
-    },
-    {
-      "id": "4881014",
-      "time": "2026-05-15 09:56:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "【支付寶回應關閉支付功能後仍被扣款捐贈184萬：不排除涉嫌違法犯罪的可能，正在向警方尋求幫助】“支付寶使用者稱關閉支付功能後深夜被扣款捐贈了184萬元”引發熱議後，支付寶方面做出回應。支付寶5月15日表示：平臺正常執行使用者賬戶下達的支付指令。由於涉事賬戶存在與他人共用嫌疑，不排除涉嫌違法犯罪的可能，支付寶正在向警方尋求幫助。此前，有使用者反映其支付寶賬戶關閉支付功能第三天，深夜被莫名扣款184萬元捐贈給“捐一元獻愛心送營養活動”，維權3年無法獲知原因。銀行調查發現，支付寶關閉支付功能無法消費轉賬，但可進行公益捐贈。涉事基金會人員稱，款項用於公益且執行完畢，支付寶公司核對捐贈行為反饋為“正常”。支付寶人員表示，關於詭異捐贈的質疑將提交有許可權的管理者核實。"
-    },
-    {
-      "id": "4881013",
-      "time": "2026-05-15 09:55:43",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本5年期國債收益率上升5個基點至1.995%。"
-    },
-    {
-      "id": "4881012",
-      "time": "2026-05-15 09:55:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：外國學生來美國讀書是好事。"
-    },
-    {
-      "id": "4881011",
-      "time": "2026-05-15 09:55:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我們正在密切關注伊朗的濃縮鈾。"
-    },
-    {
-      "id": "mkt:019e2958-0a46-7bb5-b4d4-d338c1b386dc",
-      "time": "2026-05-15 09:54:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "SEOUL STOCK MARKET'S KOSPI FALLS 2%"
-    },
-    {
-      "id": "4881010",
-      "time": "2026-05-15 09:53:45",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本10年期國債收益率上升7個基點至2.7%。"
-    },
-    {
-      "id": "4881009",
-      "time": "2026-05-15 09:53:25",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "白銀連續主力合約日內跌8%，現報19892.00元。"
-    },
-    {
-      "id": "4881008",
-      "time": "2026-05-15 09:53:18",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經225指數在交易時段內跌破 62000 點，為 5月7 日以來首次。"
-    },
-    {
-      "id": "mkt:019e2956-c159-7bb5-b4d4-cdbe7c9da1b1",
-      "time": "2026-05-15 09:53:18",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish",
-        "SSE Composite",
-        "Hang Seng Index"
-      ],
-      "text": "CHINA STAR 50 INDEX DOWN OVER 2%"
-    },
-    {
-      "id": "4881007",
-      "time": "2026-05-15 09:53:17",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內跌5%，現報81.06美元/盎司。"
-    },
-    {
-      "id": "4881006",
-      "time": "2026-05-15 09:52:52",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數下跌2%，報7818.81點。"
-    },
-    {
-      "id": "4881005",
-      "time": "2026-05-15 09:52:34",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內跌幅達2.17%，成分股中，晶科能源跌7.60%，天嶽先進跌7.11%，阿特斯跌5.54%，中科飛測跌5.64%。"
     }
   ]
 }
