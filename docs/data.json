@@ -1,7 +1,77 @@
 {
-  "updated": "2026-05-22 13:35:38",
-  "count": 16130,
+  "updated": "2026-05-22 13:39:31",
+  "count": 16121,
   "items": [
+    {
+      "id": "4894260",
+      "time": "2026-05-22 13:38:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蘇姿豐：從GPU、CPU、ASIC到不同運算平臺 都將依應用場景找到成長空間】AMD執行長蘇姿豐表示，AI應用快速擴大，半導體整體市場規模已超過1萬億美元，未來五年仍將維持顯著成長。她認為，AI需求太廣、應用太多，不會只有單一架構或一家業者勝出，從GPU、CPU、ASIC到不同運算平臺，都將依應用場景找到成長空間。"
+    },
+    {
+      "id": "te:markets:552956",
+      "time": "2026-05-22 13:37:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Rupiah Slides Further on Weak Q1 Current Account Data — The Indonesian rupiah extended its losses on Friday, slipping past IDR 17,700 per U.S. dollar as the dollar index held near a six-week high amid elevated oil prices, sticky U.S. inflation, and rising Treasury yields. Domestic data also weighed on sentiment, as Indonesia’s Q1 current account deficit widened from the prior period and reversed from a surplus a year earlier, highlighting a fragile external position. Pressure on the local currency has mounted since April, due to capital outflows, fiscal strains, and inflation risks tied to Middle East tensions. Bank Indonesia’s larger-than-expected rate hike earlier this week provided little relief, with policymakers warning that higher energy costs still threaten the rupiah. Meantime, reserves have dropped about USD 10 billion this year through April on continued intervention. The rupiah is set for an eighth weekly drop, down 1.4% so far and near 6% ytd, though the central bank expects stabilisation by mid-year as seasonal pressures ease."
+    },
+    {
+      "id": "mkt:019e4e2f-af89-7aa1-9585-a68b05198cbf",
+      "time": "2026-05-22 13:36:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "SHENZHEN COMPONENT INDEX RISES OVER 2%, CHINEXT UP 2.3%, SHANGHAI COMPOSITE GAINS 0.9%"
+    },
+    {
+      "id": "mkt:019e4e2f-6150-7aa1-9585-9f6a5a34a00e",
+      "time": "2026-05-22 13:36:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "TAIWAN'S WEIGHTED INDEX CLOSED UP 2.18%"
+    },
+    {
+      "id": "4894259",
+      "time": "2026-05-22 13:36:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "【第八次中歐酒精飲料工作組會議在寧夏銀川召開】5月20日至21日，海關總署進出口食品安全域性與歐洲委員會農業總司在寧夏銀川共同舉辦第八次中歐酒精飲料工作組會議。來自中歐雙方食品安全監管機構、歐盟駐華使團及部分成員國駐華使館、寧夏回族自治區和銀川市人民政府、中歐酒類行業協會和企業近百名中外代表參會。中外代表總結上次會議以來中歐酒精飲料領域取得的合作成效，就標籤管理、企業註冊、標準法規、打擊假冒偽劣等議題展開廣泛研討；實地考察寧夏賀蘭山東麓葡萄酒產區出口企業及中國海關國家葡萄及葡萄酒檢測重點實驗室（銀川），就釀酒工藝、產品質量標準、檢驗檢測技術等內容進行了現場交流。"
+    },
+    {
+      "id": "4894258",
+      "time": "2026-05-22 13:36:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深證成指漲2.00%，現報15552.313點；上證指數漲0.86%，現報4112.224點；創業板指漲2.27%，現報3916.711點。"
+    },
+    {
+      "id": "4894257",
+      "time": "2026-05-22 13:35:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國臺灣證交所加權股價指數收高2.2%報42,267.97點。"
+    },
     {
       "id": "4894256",
       "time": "2026-05-22 13:34:54",
@@ -144778,148 +144848,6 @@
         "其他"
       ],
       "text": "【長續航Model Y價格上調1.8萬元？特斯拉中國回應：假訊息】5月15日，有訊息稱，特斯拉從5月1日起對Model Y系列車型調價，其中長續航版價格上調1.8萬元，高效能版價格上調2萬元。對此，記者向特斯拉中國方面求證瞭解，一位內部人士向記者回應稱：“（傳聞為）假訊息”。同時，記者也從特斯拉中國一位銷售人員瞭解到，Model Y車型並未漲價，只是取消了此前的7年低息購車金融政策。(每日經濟新聞)"
-    },
-    {
-      "id": "4881314",
-      "time": "2026-05-15 13:39:25",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印度Nifty 50指數回吐部分漲幅，最新上漲0.25%。"
-    },
-    {
-      "id": "4881313",
-      "time": "2026-05-15 13:39:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴克萊將渣打銀行目標股價從1950便士上調至2100便士。"
-    },
-    {
-      "id": "4881312",
-      "time": "2026-05-15 13:38:58",
-      "tags": [
-        "市場"
-      ],
-      "text": "【COMEX銅期貨跌超4%】COMEX銅期貨跌超4%，現報6.34美元/磅。"
-    },
-    {
-      "id": "mkt:019e2a24-fd6e-7bb5-b4d6-ff6097535934",
-      "time": "2026-05-15 13:38:47",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Nasdaq100",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "US STOCK FUTURES EXTEND LOSSES, NASDAQ FUTURES WIDENING DECLINE TO 1%"
-    },
-    {
-      "id": "4881311",
-      "time": "2026-05-15 13:38:44",
-      "tags": [
-        "市場"
-      ],
-      "text": "LME倫銅跌幅擴大，現跌2.0%，最新報13660.0美元/噸。"
-    },
-    {
-      "id": "4881310",
-      "time": "2026-05-15 13:38:11",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "錫連續主力合約日內跌4%，現報416300.00元。"
-    },
-    {
-      "id": "4881309",
-      "time": "2026-05-15 13:37:57",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內跌6%，現報78.38美元/盎司。"
-    },
-    {
-      "id": "4881308",
-      "time": "2026-05-15 13:37:49",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期銀失守79美元/盎司，日內跌7.50%。"
-    },
-    {
-      "id": "4881307",
-      "time": "2026-05-15 13:37:49",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油突破103美元/桶，日內漲1.82%。"
-    },
-    {
-      "id": "4881306",
-      "time": "2026-05-15 13:37:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國石油在北京成立大運河能源公司】企查查APP顯示，近日，北京大運河能源有限公司成立，註冊資本4900萬元，經營範圍包含：鐵路運輸輔助活動；機動車修理和維護；工程技術服務（規劃管理、勘察、設計、監理除外）等。企查查股權穿透顯示，該公司由中國石油全資持股。"
-    },
-    {
-      "id": "4881305",
-      "time": "2026-05-15 13:37:28",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【韓國：目前未考慮對三星實施緊急命令】韓國總統府青瓦臺公報溝通首席秘書李圭淵5月15日表示，總統府目前既未考慮、也未就針對三星潛在勞工罷工行使緊急仲裁權一事做出決定。政府希望此次勞資糾紛不會升級為罷工，正密切關注事態發展。李圭淵指出，三星在韓國經濟中佔據著舉足輕重的地位，相當一部分公眾直接或間接持有三星的股份。"
-    },
-    {
-      "id": "4881304",
-      "time": "2026-05-15 13:37:22",
-      "tags": [
-        "市場"
-      ],
-      "text": "LME倫銅日內跌超2.00%，現報13658.000美元/噸。"
-    },
-    {
-      "id": "4881303",
-      "time": "2026-05-15 13:36:42",
-      "tags": [
-        "市場"
-      ],
-      "text": "納斯達克100指數期貨下跌1%，標普500指數期貨跌0.6%，道瓊斯指數期貨跌0.36%。"
-    },
-    {
-      "id": "4881302",
-      "time": "2026-05-15 13:35:50",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國30年期國債收益率升至5.071%，為2025年7月以來最高水平。"
-    },
-    {
-      "id": "4881301",
-      "time": "2026-05-15 13:35:50",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4570美元/盎司，日內跌2.47%。"
-    },
-    {
-      "id": "mkt:019e2a22-31cb-7bb5-b4d6-f50f096f0ebe",
-      "time": "2026-05-15 13:35:40",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "TAIWAN'S WEIGHTED INDEX CLOSED DOWN 1.39%"
     }
   ]
 }
