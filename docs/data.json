@@ -1,7 +1,61 @@
 {
-  "updated": "2026-05-23 00:20:11",
+  "updated": "2026-05-23 00:23:58",
   "count": 16129,
   "items": [
+    {
+      "id": "4895611",
+      "time": "2026-05-23 00:22:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗伊斯蘭共和國通訊社：巴基斯坦陸軍參謀長抵達德黑蘭。"
+    },
+    {
+      "id": "mkt:019e507e-55a5-7443-baf7-4a6c106c747a",
+      "time": "2026-05-23 00:21:57",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "WTI",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Markets Brace for Possible Fed Rate Hikes Under Warsh Despite Trump’s Push for Cuts】Donald Trump appointed Kevin Warsh to lead the Federal Reserve with expectations of lower interest rates, but investors increasingly fear the Fed may instead need to raise rates as inflation, bond yields and energy prices climb. The Iran war, elevated oil prices and strong AI-driven demand have complicated prospects for rate cuts. Treasury Secretary Scott Bessent said current inflation pressures are “transient,” while White House economic adviser Kevin Hassett predicted rate cuts later this year. Analysts remain divided, with BNP Paribas economist James Egelhof saying Trump’s comments broadened expectations toward hikes, while Standard Chartered’s Steve Englander expects rates to remain unchanged through 2027. Joseph Lavorgna of SMBC Americas said the Fed may need to raise rates by about one percentage point due to inflationary pressures linked to the Iran conflict."
+    },
+    {
+      "id": "mkt:019e507d-91b4-7443-baf7-455c2e6707ae",
+      "time": "2026-05-23 00:21:06",
+      "tags": [
+        "MKT News",
+        "Hot",
+        "Market Regions",
+        "Greater China",
+        "Policy",
+        "Chinese Policy & Markets"
+      ],
+      "text": "US ACTING NAVY SECRETARY: US TEMPORARILY PAUSES TAIWAN WEAPONS SALES DUE TO IRAN WAR - FOX NEWS"
+    },
+    {
+      "id": "4895610",
+      "time": "2026-05-23 00:19:53",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "新任美聯儲主席沃什已完成宣誓儀式並結束髮言。"
+    },
+    {
+      "id": "em:qqyh_mlc:202605233747093725",
+      "time": "2026-05-23 00:17:32",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美聯儲主席沃什稱，將領導一個以改革為導向的美聯儲。"
+    },
     {
       "id": "mkt:019e5079-a210-7443-baf7-3e3aa892bffb",
       "time": "2026-05-23 00:16:47",
@@ -144787,47 +144841,6 @@
         "Importance 1"
       ],
       "text": "Parker-Hannifin Stock Price Hits 6-week Low — Parker-Hannifin shares decreased to 860.00 USD, the lowest since March 2026. Over the past 4 weeks, Parker -Hannifin lost 9.93%, and in the last 12 months, it increased 26.68%."
-    },
-    {
-      "id": "4882689",
-      "time": "2026-05-16 00:23:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我們手下留情，沒有打擊伊朗的橋樑與發電站，我們只需兩天就能將其徹底摧毀。"
-    },
-    {
-      "id": "4882688",
-      "time": "2026-05-16 00:22:07",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【潘興廣場建倉微軟 阿克曼看好其產品深度嵌入各大公司】比爾·阿克曼表示，潘興廣場新建倉微軟公司，趁著該公司股價下跌之際投資於一家他認為比投資者想象中更強大、更具韌性的企業。阿克曼週五表示，該對沖基金已將微軟列為核心持倉，稱其包括Word和Excel在內的365產品組合以及Azure雲服務是“企業技術領域最有價值的兩大業務板塊”。他表示，潘興廣場於今年2月開始建倉微軟，並將於週五在監管檔案中披露持股情況。"
-    },
-    {
-      "id": "4882687",
-      "time": "2026-05-16 00:21:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗革命衛隊：在西北部阿爾達比勒省破獲一個隸屬於摩薩德的間諜網路，並逮捕了其中一名主要成員。"
-    },
-    {
-      "id": "4882686",
-      "time": "2026-05-16 00:20:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：派拉蒙技術主管任職七年後即將離職。"
-    },
-    {
-      "id": "4882685",
-      "time": "2026-05-16 00:20:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "墨西哥總統辛鮑姆：與特朗普就安全、貿易進行了卓有成效的會談。"
     }
   ]
 }
