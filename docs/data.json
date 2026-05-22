@@ -1,7 +1,125 @@
 {
-  "updated": "2026-05-23 04:42:29",
-  "count": 16127,
+  "updated": "2026-05-23 04:46:25",
+  "count": 16138,
   "items": [
+    {
+      "id": "mkt:019e516f-d13b-7aae-9ae1-c4774dae1421",
+      "time": "2026-05-23 04:45:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "MOODY'S: STABLE OUTLOOK REFLECTS EXPECTATION THAT SAUDI ARABIA'S CREDIT PROFILE WILL REMAIN RESILIENT MOODY'S: EXPECT SAUDI ARABIA'S NON-OIL ECONOMY TO REMAIN RELATIVELY RESILIENT, SUPPORTED BY SUSTAINED GOVERNMENT SPENDING"
+    },
+    {
+      "id": "mkt:019e516f-31b0-7aae-9ae1-b9603c22d03c",
+      "time": "2026-05-23 04:45:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "MOODY'S RATINGS AFFIRMS SAUDI ARABIA'S AA3 RATING, MAINTAINS STABLE OUTLOOK"
+    },
+    {
+      "id": "mkt:019e516e-ef72-7aae-9ae1-b3e1f221782c",
+      "time": "2026-05-23 04:44:39",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "SCOPE AFFIRMS THE PEOPLE’S REPUBLIC OF CHINA’S RATING AT A, MAINTAINS A STABLE OUTLOOK"
+    },
+    {
+      "id": "mkt:019e516e-6fb1-7aae-9ae1-a8bf906da4d6",
+      "time": "2026-05-23 04:44:12",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "TRUMP: WE'RE GOING TO GET INTEREST RATES DOWN QUICKLY"
+    },
+    {
+      "id": "mkt:019e516e-5a95-7aae-9ae1-a1a1412e6830",
+      "time": "2026-05-23 04:44:06",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "TRUMP: HOUSING IS ABOUT INTEREST RATES, MORE THAN LEGISLATION"
+    },
+    {
+      "id": "mkt:019e516e-4306-7aae-9ae1-9a27110333da",
+      "time": "2026-05-23 04:44:01",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "TRUMP: I NOW HAVE A GREAT HEAD OF THE FED IN WARSH"
+    },
+    {
+      "id": "mkt:019e516e-3cfc-7aae-9ae1-92b773452199",
+      "time": "2026-05-23 04:43:59",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "TRUMP: RATES ARE COMING DOWN WITH ENERGY"
+    },
+    {
+      "id": "4895810",
+      "time": "2026-05-23 04:43:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "墨西哥總統：協議惠及墨西哥、歐洲與美國三方。"
+    },
+    {
+      "id": "4895809",
+      "time": "2026-05-23 04:43:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "墨西哥總統：歐盟貿易協議不會與美方利益產生衝突。"
+    },
+    {
+      "id": "mkt:019e516d-a6e4-7aae-9ae1-8d2f56c634b2",
+      "time": "2026-05-23 04:43:21",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "【Trump Weighs New Iran Strikes After Security Meeting】President Donald Trump met senior national security advisers on Friday as he considered possible new strikes on Iran amid stalled negotiations, according to U.S. officials cited by Axios. Vice President JD Vance, Defense Secretary Pete Hegseth and CIA Director John Ratcliffe attended the meeting. Pakistan’s Field Marshal Asim Munir and a Qatari delegation traveled to Tehran in parallel mediation efforts. Axios reported that Trump had grown increasingly frustrated with the talks and was “leaning toward ordering a strike” by Thursday night, though officials said no final decision had been made."
+    },
+    {
+      "id": "mkt:019e516d-83bc-7aae-9ae1-876312f142b4",
+      "time": "2026-05-23 04:43:12",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "TRUMP MET TOP ADVISERS ON IRAN AS HE WEIGHS RETURN TO WAR - AXIOS"
+    },
+    {
+      "id": "4895808",
+      "time": "2026-05-23 04:42:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "穆迪就南非發聲：儘管中東衝突給短期增長帶來風險，預計政策仍將保持克制，同時維護宏觀經濟穩定。"
+    },
     {
       "id": "4895807",
       "time": "2026-05-23 04:41:27",
@@ -144760,15 +144878,6 @@
         "FTSE100"
       ],
       "text": "UK'S STARMER IS EXPECTED TO APPROVE AN £18 BILLION INCREASE IN DEFENCE SPENDING AS HE FACES A BATTLE FOR POLITICAL SURVIVAL - THE TIMES"
-    },
-    {
-      "id": "4882954",
-      "time": "2026-05-16 04:44:44",
-      "tags": [
-        "公司",
-        "其他"
-      ],
-      "text": "【5月16日美股成交額前20：比爾阿克曼稱微軟估值極具吸引力】美股週五成交額第4名微軟收高3.05%，成交206.43億美元。比爾·阿克曼剛剛下注微軟，稱其估值極具吸引力。他認為市場對微軟人工智慧方面的擔憂被誇大了。阿克曼透露潘興廣場將在即將提交的13F檔案中披露持有微軟的新頭寸，同時稱這家軟體巨頭在當前價位“極具吸引力”。"
     }
   ]
 }
