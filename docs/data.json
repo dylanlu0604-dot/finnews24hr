@@ -1,7 +1,40 @@
 {
-  "updated": "2026-05-23 04:27:06",
-  "count": 16105,
+  "updated": "2026-05-23 04:30:59",
+  "count": 16106,
   "items": [
+    {
+      "id": "4895784",
+      "time": "2026-05-23 04:29:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗問題：局勢很快就會結束。"
+    },
+    {
+      "id": "4895783",
+      "time": "2026-05-23 04:28:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們已經阻止了伊朗擁有核武器。"
+    },
+    {
+      "id": "4895782",
+      "time": "2026-05-23 04:28:21",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "特朗普：我處理完伊朗相關事務後，油價將會大幅下跌。"
+    },
+    {
+      "id": "4895781",
+      "time": "2026-05-23 04:28:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股行業ETF幾乎全線收漲，半導體ETF漲約1.5%】週五（5月22日），半導體ETF收漲1.49%，醫療業ETF、科技行業ETF至少漲1%，網路股指數ETF、全球科技股指數ETF、能源業ETF至少漲0.61%，生物科技指數ETF跌0.16%。2026年迄今，半導體ETF累計上漲60.03%，能源業ETF漲33.92%，全球科技股指數ETF漲28.89%，科技行業ETF漲25.45%，醫療業ETF、全球航空業ETF、金融業ETF則至多累跌4.68%。"
+    },
     {
       "id": "4895780",
       "time": "2026-05-23 04:26:04",
@@ -144563,36 +144596,6 @@
         "公司"
       ],
       "text": "13F報告顯示：橋水新進臺積電等，清倉Salesforce、Workday、ServiceNOW等，增持亞馬遜、美光、博通、邁威爾科技，減持Adobe等，重倉亞馬遜、英偉達、谷歌A等。"
-    },
-    {
-      "id": "mkt:019e2d55-cacf-7663-82fc-ae35c3ad06ed",
-      "time": "2026-05-16 04:30:57",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "MORNINGSTAR DBRS CHANGES TRENDS ON PORTUGAL TO POSITIVE, CONFIRMS CREDIT RATINGS AT A (HIGH)"
-    },
-    {
-      "id": "mkt:019e2d55-a423-7663-82fc-a4478bf2dac1",
-      "time": "2026-05-16 04:30:47",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "UK'S PM STARMER COULD STAND ASIDE FOR BURNHAM - THE TELEGRAPH"
-    },
-    {
-      "id": "4882938",
-      "time": "2026-05-16 04:28:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "比爾·阿克曼旗下對沖基金潘興廣場對微軟持倉市值21億美元。"
     }
   ]
 }
