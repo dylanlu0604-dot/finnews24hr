@@ -1,7 +1,222 @@
 {
-  "updated": "2026-05-22 15:42:59",
-  "count": 16114,
+  "updated": "2026-05-22 15:51:26",
+  "count": 16113,
   "items": [
+    {
+      "id": "4894520",
+      "time": "2026-05-22 15:50:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【福安藥業：子公司收到藥品註冊證書及補充申請批准通知書】福安藥業公告，全資子公司福安藥業集團慶餘堂製藥有限公司近日收到國家藥品監督管理局簽發的藥品註冊證書及藥品補充申請批准通知書。藥品包括米庫氯銨注射液（5ml:10mg、10ml:20mg）、聚多卡醇注射液（2ml:10mg、2ml:20mg、2ml:60mg）和注射用頭孢西丁鈉（2.0g、1.0g、0.5g）。米庫氯銨注射液可作為全身麻醉的輔助用藥，聚多卡醇注射液用於蜘蛛網樣靜脈曲張的硬化治療，注射用頭孢西丁鈉適用於治療由敏感細菌引起的多種感染。"
+    },
+    {
+      "id": "4894518",
+      "time": "2026-05-22 15:50:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "波蘭國防部長表示：波蘭不會減少任何駐波美軍，且我認為波蘭要麼會迎來更多美軍增兵，要麼會實現美軍的永久駐軍。"
+    },
+    {
+      "id": "4894517",
+      "time": "2026-05-22 15:49:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國外交部長瓦德富爾表示：德國今年國防開支佔GDP比重將突破4%，並正朝著國防開支佔GDP比重5%的目標推進。"
+    },
+    {
+      "id": "4894516",
+      "time": "2026-05-22 15:49:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【傲農生物：控股股東及其一致行動人累計增持16.11%】傲農生物公告，泉州國貿集團有限公司及其一致行動人泉州市傲發同心股權投資管理合夥企業（有限合夥）、廈門谷味德食品有限公司、湖北省糧食有限公司、共青城民匯投資合夥企業（有限合夥）、晉江蘇茲諾貿易有限責任公司、湖北省現代農業集團有限公司於2026年5月15日至2026年5月21日期間透過集中競價方式增持公司股份，權益變動前合計持股比例為15.60%，變動後合計持股比例為16.11%。"
+    },
+    {
+      "id": "4894515",
+      "time": "2026-05-22 15:49:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "波蘭表示，美軍部署籌備工作需耗時 2 至 4 周。"
+    },
+    {
+      "id": "mkt:019e4ea8-b2e0-7cc0-a022-fd03f8f4482c",
+      "time": "2026-05-22 15:48:59",
+      "tags": [
+        "MKT News",
+        "NTES.O",
+        "Impact bearish"
+      ],
+      "text": "NETEASE ADR TARGET PRICE TRIMMED TO US$162.00 FROM US$170.00 BY HSBC"
+    },
+    {
+      "id": "4894514",
+      "time": "2026-05-22 15:48:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中新集團：同意參投基金投資期延長6個月，認繳1.5億元】中新集團公告，公司此前參與投資蘇州工業園區新建元四期股權投資合夥企業（有限合夥），認繳出資不超過1.5億元。近日，為滿足經營發展需要，標的基金擬延長投資期，公司同意將投資期延長6個月，退出期相應縮短6個月，即4年零6個月投資期、3年零6個月退出期，存續期總年限保持不變。投資期延長期內管理費仍按照原退出期的計算方式收取。"
+    },
+    {
+      "id": "4894513",
+      "time": "2026-05-22 15:48:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "滙豐將網易美國存託憑證目標價從170美元下調至162美元。"
+    },
+    {
+      "id": "4894512",
+      "time": "2026-05-22 15:48:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【涉案金額2.5億美元 美國明尼蘇達州“騙補案”主犯被判入獄近42年 】美國明尼蘇達州一家非營利組織前負責人因欺詐等罪名，21日被判處41年零8個月監禁。美國司法部說，這是新冠疫情期間發生的針對美國政府救助計劃的最大規模欺詐案件，涉案金額高達2.5億美元。（新華社）"
+    },
+    {
+      "id": "mkt:019e4ea7-a916-7cc0-a022-f195cf56fe35",
+      "time": "2026-05-22 15:47:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bearish",
+        "Lead",
+        "Impact bullish",
+        "Tin"
+      ],
+      "text": "【CHINA SHFE WAREHOUSE CHANGES (WEEKLY UPDATE):】COPPER: +2804T (+1.55%) ALUMINUM: +6954T (+1.37%) ZINC: +2194T (+1.45%) LEAD: -4425T (-6.27%) NICKEL: +961T (+1.20%) TIN: -653T (-6.99%) RUBBER: +1228T (+0.81%)"
+    },
+    {
+      "id": "4894511",
+      "time": "2026-05-22 15:47:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣匯能源：甲醇、乙二醇等化工品銷售價格隨市場穩步上行】廣匯能源5月22日在互動平臺表示，公司當前主要產品價格執行良好，甲醇、煤焦油、乙二醇等化工品銷售價格隨市場穩步上行，與國內市場價格全面接軌。"
+    },
+    {
+      "id": "4894510",
+      "time": "2026-05-22 15:47:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿布扎比交易所將於 5 月 26 日至 29 日因開齋節休市。"
+    },
+    {
+      "id": "4894509",
+      "time": "2026-05-22 15:46:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新諾威：控股子公司烏司奴單抗注射液獲藥品註冊證書】新諾威公告，控股子公司石藥集團巨石生物製藥有限公司近日收到國家藥品監督管理局核准簽發的烏司奴單抗注射液《藥品註冊證書》。烏司奴單抗是一種全人源IgG1κ單克隆抗體，可與人白細胞介素IL-12和IL-23的p40蛋白亞單位結合，阻斷細胞因子級聯反應，緩解疾病症狀。該產品為原研藥喜達諾®的生物類似藥，已在我國獲批成人和兒童斑塊狀銀屑病及克羅恩病適應症，療效與安全性獲得認可。恩益克®的獲批有望提升公司市場競爭力。"
+    },
+    {
+      "id": "4894508",
+      "time": "2026-05-22 15:46:41",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "【央行上海總部：4月份長三角地區人民幣貸款增加343億元 外幣貸款增加8億美元】央行上海總部發布2026年4月長三角地區貨幣信貸執行情況。4月末，長三角地區本外幣各項貸款餘額80.32萬億元，同比增長8.0%，增速與上月持平；人民幣貸款餘額79.37萬億元，同比增長8.0%，增速與上月持平；外幣貸款餘額1379億美元，同比增長14.4%，增速比上月低0.3個百分點。4月份，長三角地區人民幣貸款增加343億元，同比多增241億元。分部門看，住戶部門貸款減少2902億元，同比多減1094億元，其中，短期貸款減少1454億元，中長期貸款減少1449億元；企（事）業單位貸款增加2911億元，同比多增1478億元，其中，短期貸款減少416億元，中長期貸款減少918億元，票據融資增加4153億元；非銀行業金融機構貸款增加308億元，同比少增12億元。外幣貸款增加8億美元，同比少增2億美元。"
+    },
+    {
+      "id": "4894507",
+      "time": "2026-05-22 15:46:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【富春染織：“富春轉債”累計轉股佔比達24.8420% 致股本變動】富春染織公告稱，截至2026年4月20日，累計已有3.71億元“富春轉債”轉換為公司A股股票，累計轉股股份數為3100.28萬股，佔可轉債轉股前公司已發行股份總額的24.8420%。尚未轉股的“富春轉債”金額為1.58億元，佔可轉債發行總量的27.8002%。本次轉股使公司總股本由1.94億股增至2.25億股，部分持股5%以上股東持股比例被動變動。"
+    },
+    {
+      "id": "te:markets:553021",
+      "time": "2026-05-22 15:45:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Sterling Stuck Near $1.34 as UK Data Sours and Iran Talks Drag On — The pound traded little changed just above $1.34 by the end of a week overshadowed by UK economic releases and persistent uncertainty in US-Iran negotiations. April retail sales slumped 1.3%, nearly double the 0.6% decline forecast, led by a sharp fall in fuel sales, while consumer confidence edged higher in May, beating expectations. The UK’s budget deficit ballooned to £24.3 billion in April, topping the £20.9 billion estimate and marking the highest April shortfall since 2020. The data followed earlier reports of softer-than-expected April inflation, an unexpected cooling in the labor market, and May PMI readings signaling a contraction in private sector activity. The mixed picture complicates the Bank of England’s policy outlook, with markets still anticipating two interest rate hikes this year. Meanwhile, US Senator Marco Rubio cited \"some good signs\" in Iran talks, though Tehran’s uranium stockpile and control over the Strait of Hormuz remain key sticking points."
+    },
+    {
+      "id": "4894506",
+      "time": "2026-05-22 15:45:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【杭州銀行增資至72.5億，增幅約22%】天眼查App顯示，近日，杭州銀行股份有限公司發生工商變更，註冊資本由約59.3億人民幣增至約72.5億人民幣，增幅約22%。該公司成立於1996年9月，法定代表人為宋劍斌，經營範圍為銀行業務，結匯、售滙業務，公募證券投資基金銷售，證券投資基金託管，由杭州市財政局、紅獅控股集團有限公司、杭州市城市建設投資集團有限公司等共同持股。"
+    },
+    {
+      "id": "4894505",
+      "time": "2026-05-22 15:44:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【銀邦股份：控股股東沈於藍解除質押4.26%股份】銀邦股份公告，控股股東、實際控制人沈於藍於2026年5月21日解除質押無限售流通股3500萬股，佔其直接持股66.16%，佔公司股份總數4.26%，質押始於2022年11月1日，質權人為無錫產業發展集團有限公司。截至本公告日，其及一致行動人已無股份質押。"
+    },
+    {
+      "id": "4894504",
+      "time": "2026-05-22 15:44:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【視覺中國：全資子公司投資的基金備案完成 認繳規模5500萬元】視覺中國公告，全資子公司北京華夏視覺科技集團有限公司參與投資的生生不息（天津）股權投資合夥企業（有限合夥）已取得私募投資基金備案證明。該基金認繳規模5500萬元，其中北京華夏認繳出資600萬元，佔比10.91%。備案日期為2026年5月19日，備案編碼為SBWJ02。託管人為杭州銀行股份有限公司。"
+    },
+    {
+      "id": "4894503",
+      "time": "2026-05-22 15:44:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "渣打行政總裁就其“價低價值人力資本”言論在網上致歉。"
+    },
+    {
+      "id": "4894502",
+      "time": "2026-05-22 15:43:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【遼寧能源：聘任王慶國為公司副總經理】遼寧能源公告稱，公司於2026年5月22日召開第十一屆董事會第二十七次會議，審議透過聘任王慶國為公司副總經理，任期自董事會審議透過之日起至2026年6月30日。截至公告披露日，王慶國未持有公司股票，與公司相關人員無關聯關係，無不得擔任高管的情形。王慶國曆任遼能股份沈焦公司多礦礦長等職。"
+    },
+    {
+      "id": "4894501",
+      "time": "2026-05-22 15:42:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天風證券：為境外全資子公司3億美元債券提供擔保】天風證券公告稱，公司境外全資子公司天風國際下設的SPV發行3億美元、期限2年的美元債券，公司及天風國際於2026年5月21日為其提供無條件及不可撤銷的保證擔保，無反擔保。截至公告披露日，公司及控股子公司實際擔保金額合計為人民幣58.82億元，佔公司截至2025年12月31日經審計的歸屬於上市公司淨資產的比例為21.47%，且不存在逾期擔保情況。本次擔保有助於拓寬子公司融資渠道，風險總體可控。"
+    },
+    {
+      "id": "4894500",
+      "time": "2026-05-22 15:42:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【模塑科技：控股股東1500萬股股份解除質押】模塑科技公告稱，近日，控股股東江陰模塑集團有限公司將1500萬股公司股份解除質押，佔公司總股本4.89%，佔其所持股份1.63%，質權人為江蘇銀行股份有限公司無錫分行，解除質押日為2026年5月21日。截至公告披露日，該股東累計質押21678.97萬股，佔公司總股本23.62%。其具備較強履約能力，剩餘質押股份無平倉風險，對公司無不利影響。"
+    },
+    {
+      "id": "4894499",
+      "time": "2026-05-22 15:42:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【森霸感測：董事長代行董事會秘書職責】森霸感測公告稱，此前因董事會秘書鄒洋辭職，由董事、總經理鄧婧代行董事會秘書職責。根據相關規定，自公告披露日起，鄧婧不再代行，由董事長單森林代行，直至聘任新的董事會秘書。截至公告披露日，鄧婧持有公司6750股股份。公司將盡快完成董事會秘書聘任工作。"
+    },
+    {
+      "id": "4894498",
+      "time": "2026-05-22 15:42:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華聯控股：現金收購Argentum Lithium S.A.100%股份進展披露】華聯控股公告稱，2025年12月22日公司擬以約1.75億美元現金受讓Argentum Lithium S.A.100%股份，獲Arizaro專案80%權益，該交易不構成關聯及重大資產重組，尚需股東會審議。截至公告披露日，公司已設履約保證金共管賬戶並繳納保證金，已向商務部等提交境外投資審批或備案申請材料，相關審計、評估工作推進中。交易實施存在不確定性。"
+    },
     {
       "id": "4894497",
       "time": "2026-05-22 15:42:30",
@@ -25,6 +240,15 @@
         "公司"
       ],
       "text": "【圓通速遞在青海成立物流公司】企查查APP顯示，近日，青海圓匯物流有限公司成立，法定代表人為章永林，註冊資本為2000萬元，經營範圍包含：道路貨物運輸；普通貨物倉儲服務。企查查股權穿透顯示，該公司由圓通速遞間接全資持股。"
+    },
+    {
+      "id": "4894494",
+      "time": "2026-05-22 15:42:16",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【中國貿促會：在籌備適時組織中國企業赴美交流，促進兩國工商界深化務實合作】6月22日至26日，第四屆鏈博會將在北京中國國際展覽中心順義館舉辦，5月22日，國務院新聞辦公室舉行新聞釋出會，介紹第四屆中國國際供應鏈促進博覽會籌備情況。透過鏈博會這個平臺，中美合作有哪些體現？對此，中國貿促會副會長劉健男介紹，近期，多位隨同特朗普總統訪華的美國企業主要負責人到訪了中國貿促會或者與貿促會進行了聯絡，他們都積極評價兩國關係的新定位，看好中國經濟及中美工商合作未來的發展。劉健男說，黨的二十屆三中、四中全會以後，中國貿促會第一時間組織高規格中國企業家代表團成功訪美。今年以來，陝西、山東、湖南、北京、貴州等多地貿促會先後組團赴美開展經貿交流。近期，許多中國企業也向貿促會表達了訪美意願，貿促會在籌備適時組織中國企業赴美交流，立足中美關係新定位，促進兩國工商界深化務實合作。（紅星新聞）"
     },
     {
       "id": "4894493",
@@ -144541,246 +144765,6 @@
         "Importance 1"
       ],
       "text": "Euro Falls to Over One-Month Low — The euro fell below $1.165, hitting its lowest level since early April and tracking toward a weekly loss of over 1% against the US dollar. Mounting evidence of economic damage from the Iran war has led investors to expect faster-than-anticipated interest rate hikes and weaker growth. Oil prices surged after US President Donald Trump’s remark that “we don’t need the Strait of Hormuz open,” heightening concerns that higher energy costs will drive up prices across goods and services, further fueling inflation. Investors have increased bets on European Central Bank rate hikes, now fully pricing in three increases. ECB official Martins Kazaks reinforced this view on Thursday, stating that the central bank would need to raise borrowing costs if rising crude prices feed into inflation expectations."
-    },
-    {
-      "id": "4881600",
-      "time": "2026-05-15 15:51:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "【匯成股份：因關聯交易違規，公司及相關人員遭安徽證監局監管】匯成股份公告稱，公司近日收到安徽證監局《行政監管措施決定書》。2025年7月和12月，公司及子公司與關聯法人的兩筆合計8500萬元關聯交易，未及時履行審議程式和資訊披露。公司時任董事長兼總經理鄭瑞俊、時任財務總監閆柳、時任董事會秘書奚勰對違規行為負主要責任。安徽證監局決定對公司出具警示函，對三人採取監管談話、出具警示函措施，三人需於5月18日接受監管談話。公司表示將汲取教訓，杜絕類似問題。"
-    },
-    {
-      "id": "4881599",
-      "time": "2026-05-15 15:50:39",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "三菱日聯銀行執行長：若中東衝突持續發酵，我們的盈利或遭受衝擊。"
-    },
-    {
-      "id": "4881598",
-      "time": "2026-05-15 15:50:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "【光華科技：硫化鋰產品已推向市場 產能、驗證及訂單正按計劃穩步推進】光華科技5月15日在互動平臺表示，公司硫化鋰產品已推向市場，產能、驗證及訂單正按計劃穩步推進。"
-    },
-    {
-      "id": "4881597",
-      "time": "2026-05-15 15:50:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "【雲天勵飛：最新一代DeepVerse系列晶片主要面向大模型的雲端推理】雲天勵飛日前接受機構調研時稱，公司最新一代的DeepVerse系列晶片主要面向大模型的雲端推理，將採用國產製程。未來三年，雲天勵飛規劃了三代晶片產品。"
-    },
-    {
-      "id": "4881596",
-      "time": "2026-05-15 15:49:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "【潔麗雅家族被網友質疑“家族關係混亂”，公司暫無回應】老牌毛巾企業潔麗雅近日舉辦了40週年慶典併發布品牌新戰略。活動當晚，潔麗雅家族大合影和慶典影片切片隨後在各大社交平臺流傳，被網友指出“家族存在複雜婚姻關係和繼承結構”，引發廣泛熱議。值得注意的是，在社交媒體上流傳的一張潔麗雅家族關係圖，將這場討論推向了更為複雜的局面。圖中顯示，潔麗雅創始人石昌佳和長子石磊分別擁有兩段婚姻，後續分別娶章曉梅、章曉燕，因二人名字相近有網友質疑其為“堂姐妹關係”，質疑潔麗雅“家族關係混亂”、“父子變連襟”。對於上述訊息，新浪財經向潔麗雅官方進行求證，截至發稿暫無回應。"
-    },
-    {
-      "id": "te:markets:551070",
-      "time": "2026-05-15 15:49:31",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "DAX Snaps 2-Day Gain — Frankfurt's DAX 40 fell about 0.8% to trade below 24,300 on Friday, halting a two-day advance, in line with other European peers. Oil prices continued to rise amid stalled US-Iran talks and ongoing disruptions in the Strait of Hormuz, keeping inflation and growth concerns alive. At the same time, fears are growing that the US could resume strikes on Iran after Trump’s return from China. The US President signaled a tougher stance toward Tehran, saying he would no longer be patient with Iran and urging the country to reach an agreement with Washington. Meanwhile, investors remained disappointed by the lack of concrete outcomes from the second day of talks between US President Donald Trump and Chinese President Xi Jinping."
-    },
-    {
-      "id": "4881595",
-      "time": "2026-05-15 15:48:51",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【隨著石油干擾持續，歐洲能源股上漲】週五早盤，隨著對能源市場長期干擾的擔憂推動油價攀升，歐洲能源股走高。三菱日聯(MUFG)的Soojin Kim寫道，美國總統特朗普聲稱他不需要重新開放霍爾木茲海峽，當下正值能源庫存持續收緊且市場處於緊張狀態之際。布倫特原油期貨上漲1.4%，至每桶107.22美元，而西得州中質油上漲1.8%，至每桶98.63美元。挪威的Equinor上漲2.4%。在倫敦，英國石油公司上漲1.1%，殼牌上漲0.5%。西班牙的睿爍能源上漲0.7%，法國的道達爾能源上漲0.45%。"
-    },
-    {
-      "id": "4881594",
-      "time": "2026-05-15 15:48:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "【不顧以色列攔截 加沙人道主義援助船隊第三次啟航】5月14日，國際人道主義援助船隊“全球堅韌船隊”從土耳其南部第三次啟航。數十艘載有援助人士和對加沙援助物資的船隻再次試圖突破以色列對加沙地帶附近海域的海上封鎖。此前該船隊兩次試圖向加沙運送人道主義物資，均在國際海域遭到以色列攔截。最近一次是今年4月底，以軍在希臘克里特島附近攔截了船隊，其中兩名主要人士被帶至以色列接受問詢，後被以方“驅逐出境”。據以媒體報道，被攔截船隊中另外170多名援助活動人士被帶至克里特島。援助活動人士表示，船隊必須儘快抵達加沙地帶，送去急需的援助物資。（總檯環球資訊）"
-    },
-    {
-      "id": "4881593",
-      "time": "2026-05-15 15:47:25",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【小摩：重申騰訊“增持”評級，提醒有三項風險值得留意】摩根大通發表報告，騰訊第一季綜合non-IFRS每股盈利按年增長12%，好過市場共識對2026財年5-8%增長的預測。該行指，今次業績並未帶來單一決定性的催化劑，管理層在業績說明會及跟進電話中，均拒絕就AI的量化目標、ROI框架或旗艦模型時間表作出承諾。不過業績帶來了季度披露框架，把AI稀釋的爭議從敘事層面轉化為可量化的損益表專案。該行相信，估值重評將在6-12個月內逐步展開，由未來2-3份業績帶來的溫和共識每股盈利上調，以及AI懸念風險溢價的逐步壓縮所驅動，重申“增持”評級。該行提到，有三項風險值得留意。首先，第一季資本開支達370億元，意味2026財年全年或達1300億至1500億元，資本開支加速提升可能重新激發市場對AI支出紀律的憂慮。其次，第一季綜合增長包含一次性利好，例如按年股份酬金下降、投資收益強勁；若剔除這些因素，實際增長與市場預期的差距可能收窄。第三，新AI產品的範圍在後續季度有擴大風險，可能削弱分拆披露的分析清晰度。"
-    },
-    {
-      "id": "4881592",
-      "time": "2026-05-15 15:47:21",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達230億港元。"
-    },
-    {
-      "id": "4881591",
-      "time": "2026-05-15 15:45:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華人科學家田淵棟創業公司獲6.5億美元融資，此前任Meta FAIR團隊研究總監】離開Meta後，前Meta FAIR團隊研究總監田淵棟正式踏上了創業之路。5月13日晚，他參與創辦的初創公司Recursive Superintelligence（RSI）官宣獲得6.5億美元融資（約44億元人民幣），估值46.5億美元（約316億元人民幣），谷歌GV、Greycroft聯合領投這輪早期融資，英偉達、AMD等也參與其中。創始人名單除田淵棟外，還包括Richard Socher（理查德·索赫爾，CEO）、Tim Rocktäschel（蒂姆·羅克特舍爾）、Jeff Clune（傑夫·克盧恩）、Tim Shi（蒂姆·施）、Caiming Xiong（熊才明）、Alexey Dosovitskiy（阿列克謝·多索維茨基）和Tim Shi（蒂姆·施），目前團隊不到30人。（澎湃新聞）"
-    },
-    {
-      "id": "te:markets:551067",
-      "time": "2026-05-15 15:45:43",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "FTSE MIB Pulls Back from Record High — The FTSE MIB fell about 1% to around 49,500 on Friday, retreating from a record high in the previous session as investors refocused on inflation risks and the prospect of higher-for-longer interest rates. Middle East tensions also remained elevated after Iran said around 30 vessels were transiting the Strait, although activity stayed well below pre-conflict levels. Meanwhile, President Trump took a more rigid stance toward Tehran, saying he would no longer wait on Iran and urging its leadership to reach a deal with the US. On the earnings front, Unipol Gruppo reported higher Q1 net profit, though its shares slipped 0.9%. Other financial stocks were broadly weaker, including UniCredit (-0.8%), Intesa Sanpaolo (-1.5%), Banco BPM (-1.4%), BPER Banca (-1.7%), and Banca Mediolanum (-1.2%). STMicroelectronics (-4.2%), Prysmian (-1.8%), Ferrari (-1.1%), and Moncler (-1.9%) also declined. Despite Friday’s drop, the index remains on track for a modest weekly gain."
-    },
-    {
-      "id": "4881590",
-      "time": "2026-05-15 15:45:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中新集團：同意標的基金延長投資期6個月】中新集團公告稱，2022年4月公司同意參與投資蘇州工業園區元生天使二期創業投資合夥企業（有限合夥），認繳出資不超8000萬元。近日，為滿足經營發展需要，標的基金擬延長投資期，公司同意其投資期延長6個月，退出期相應縮短6個月，存續期總年限不變，投資期延長期內管理費按原退出期計算方式收取。公司表示，延長投資期利於把握優質資產投資機會，未造成不利影響。此外，截至目前公司與私募基金合作投資實繳金額合計41.91億元。"
-    },
-    {
-      "id": "4881589",
-      "time": "2026-05-15 15:45:18",
-      "tags": [
-        "資料",
-        "市場",
-        "國際"
-      ],
-      "text": "【金銀價格雙挫 因通脹擔憂推升加息押注】由於戰爭推動美國通脹飆升，推高加息預期，黃金、白銀價格下跌。金價一度下跌2%，至每盎司4556.52美元，較上週五收盤累計下跌約3%。之前公佈的資料顯示，美國4月PPI通脹率升至2022年以來最高，CPI漲幅創2023年以來最大。2年期美國國債收益率攀升至14個月來的最高水平，美元走高，給以美元計價、不孳息的黃金和白銀帶來壓力。銀價也逆轉了本週頭幾天的強勁漲勢，週五一度下跌約7%。投機者對之前差點觸及每盎司90美元的這輪行情進行了獲利了結。霍爾木茲海峽是能源運輸的重要通道，而由於結束伊朗戰爭的嘗試陷入僵局，船隻在當地的通行仍然受阻，正在拖延當前這場能源危機，令通脹擔憂有增無減。油價因此邁向周度上漲。“通脹預期上升、收益率走高以及美元走強，短期內可能繼續令黃金承壓，”澳新銀行分析師Daniel Hynes和Soni Kumari在報告中寫道。該行對每盎司6000美元目標價實現時間的預期已從明年初推遲至2027年年中。"
-    },
-    {
-      "id": "4881588",
-      "time": "2026-05-15 15:45:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "【招商公路：擬以債權投資計劃方式融資不超20億元】招商公路公告稱，公司於2026年5月15日召開董事會會議，透過以債權投資計劃方式融資的議案。公司將與平安資產合作設立債權投資計劃，融資總額不超20億元，期限無固定期限，初始期限3年，公司有權決定到期或繼續存續。資金用於專案建設和補充營運資金，利率雙方協商確定。該計劃有利於拓寬融資渠道，最佳化資產負債結構。"
-    },
-    {
-      "id": "4881587",
-      "time": "2026-05-15 15:44:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國投證券國際：維持騰訊控股“買入”評級 AI賦能進入兌現期】國投證券國際釋出研報稱，騰訊控股(00700)強勁的經營性現金流足以支撐戰略轉型，且核心業務的利潤增量有望覆蓋AI投入的成本。該行基於2026年預估增值服務15xPE、廣告業務15xPE和金融企業及雲服務8xPS，以及0.9倍的估值係數，給予公司680.0港元，對應2026年/2027年預計PE分別為18.9x與16.0x，較最近收市價格47.8%的漲幅，維持”買入”評級。"
-    },
-    {
-      "id": "4881586",
-      "time": "2026-05-15 15:44:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度政府：阿聯酋將向印度基礎設施、印度RBL銀行及薩曼資本投資50億美元。"
-    },
-    {
-      "id": "4881585",
-      "time": "2026-05-15 15:44:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國新健康：董事會秘書劉新星辭職 董事長暫代履職】國新健康公告稱，董事會近日收到劉新星書面辭職報告，其因個人原因辭去董事會秘書職務，辭職後不再擔任公司及子公司任何職務。辭職報告自送達董事會之日起生效，劉新星未持股，無未履行承諾事項，辭任不影響公司經營。公司將盡快聘任新董事會秘書，未正式聘任前，董事長李永華代行職責，並公佈了其聯絡方式。"
-    },
-    {
-      "id": "mkt:019e2a98-e5f8-7bb5-b4d8-68e199c60e05",
-      "time": "2026-05-15 15:44:28",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "INDIA, UAE SIGN PACT ON STRATEGIC OIL RESERVES - INDIA GOVT"
-    },
-    {
-      "id": "mkt:019e2a98-97f4-7bb5-b4d8-60c2a210ce8d",
-      "time": "2026-05-15 15:44:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "INDIA, UAE SIGN PACT ON STRATEGIC DEFENCE COOPERATION- INDIA GOVT"
-    },
-    {
-      "id": "mkt:019e2a98-499c-7bb5-b4d8-5f8af0fc394b",
-      "time": "2026-05-15 15:44:14",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "CHINA’S FOREIGN MINISTRY ON WHETHER CHINA AND THE US REACHED A NEW UNDERSTANDING ON RARE EARTH SUPPLY: CHINA HAS ALWAYS BEEN COMMITTED TO MAINTAINING THE STABILITY AND SECURITY OF GLOBAL INDUSTRIAL AND SUPPLY CHAINS"
-    },
-    {
-      "id": "4881584",
-      "time": "2026-05-15 15:44:13",
-      "tags": [
-        "市場"
-      ],
-      "text": "受強勁的2026年業績指引提振，TECHNOPROBE股價一度上漲36%。"
-    },
-    {
-      "id": "te:economy:551065",
-      "time": "2026-05-15 15:44:10",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Poland",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Polish Inflation Confirmed at 10-Month High — The annual inflation rate in Poland rose to 3.2% in April 2026 from 3% in the previous month, in line with initial estimates. This marked the highest reading since June last year, largely driven by faster increases in costs for housing and utilities (4.8% vs 4.3% in March), health (5% vs 4.7%), transport (3.5% vs 3.1%), and information and communication (4.7% vs 2.9%). At the same time, prices declined at a softer pace for clothing and footwear (-2.8% vs -3.2%) and furnishings, household equipment and maintenance (-0.8% vs -1.6%). On the other hand, inflation softened for food and non-alcoholic beverages (1.9% vs 2.1%) and recreation, sport and culture (4.6% vs 5.1%). On a monthly basis, consumer prices grew by 0.6% in April, slowing from a 1.1% gain in the preceding period."
-    },
-    {
-      "id": "4881583",
-      "time": "2026-05-15 15:44:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度政府：印度與阿聯酋簽署天然氣供應協議。"
-    },
-    {
-      "id": "4881582",
-      "time": "2026-05-15 15:43:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度政府：印度與阿聯酋簽署戰略石油儲備協議。"
-    },
-    {
-      "id": "4881581",
-      "time": "2026-05-15 15:43:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度政府訊息：印度與阿聯酋簽署戰略防務合作協議。"
-    },
-    {
-      "id": "4881580",
-      "time": "2026-05-15 15:43:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基表示，在更大規模戰俘交換的第一階段，烏克蘭已從俄羅斯囚禁中接回205名軍人。"
     }
   ]
 }
