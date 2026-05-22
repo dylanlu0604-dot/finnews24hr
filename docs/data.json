@@ -1,7 +1,125 @@
 {
-  "updated": "2026-05-22 14:28:11",
-  "count": 16120,
+  "updated": "2026-05-22 14:32:09",
+  "count": 16122,
   "items": [
+    {
+      "id": "mkt:019e4e61-c94d-7cc0-a021-ccd166f5d8cc",
+      "time": "2026-05-22 14:31:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "NIKKEI STOCK AVERAGE CLOSES 2.7% HIGHER AT 63339.07, LED BY TECH, ELECTRONICS STOCKS"
+    },
+    {
+      "id": "4894357",
+      "time": "2026-05-22 14:31:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數收盤上漲2.7%，報63339.07點。"
+    },
+    {
+      "id": "mkt:019e4e61-140f-7cc0-a021-c574de315912",
+      "time": "2026-05-22 14:30:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "JAPAN'S NIKKEI CLOSING LEVEL IS HIGHEST EVER"
+    },
+    {
+      "id": "mkt:019e4e61-0465-7cc0-a021-bda87f1103cb",
+      "time": "2026-05-22 14:30:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "FRENCH FINANCE MINISTER LESCURE: SECTORS WITH PARTICULARLY HIGH PROFITS MAY FACE ADDITIONAL TAXES"
+    },
+    {
+      "id": "4894356",
+      "time": "2026-05-22 14:30:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國與巴布亞紐幾內亞簽署《提升經濟夥伴關係框架協定》並發表聯合宣告】5月21日，在亞太經合組織貿易部長會議期間，商務部部長王文濤與巴布亞紐幾內亞國際貿易和投資部長馬魯共同簽署《提升經濟夥伴關係框架協定》（簡稱《框架協定》）並發表聯合宣告。根據《框架協定》，雙方同意圍繞具體議題開展靈活務實的談判，商籤制度性安排，進一步擴大雙邊貿易，並支援巴布亞紐幾內亞吸引投資，加快實現工業化和農業現代化，深度參與全球產業鏈供應鏈合作。雙方將盡快啟動後續模組談判，以期達成互利共贏成果。（商務部）"
+    },
+    {
+      "id": "4894355",
+      "time": "2026-05-22 14:30:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國長三角完成首單省級林業碳票跨省交易】安徽省池州市石臺縣國有林場500噸省級林業碳票日前被上海五星銅業股份有限公司認購，價值5萬元人民幣，這是中國長三角地區首單省級林業碳票跨省交易。這片約11萬畝的山林，正透過一種全新方式釋放“綠色”活力。（新華社）"
+    },
+    {
+      "id": "te:markets:552977",
+      "time": "2026-05-22 14:30:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Nikkei 225 Index Closes 2.77% Higher — The Nikkei 225 Index gained 1709 points or 2.77 percent on Friday to close at 63393 points. Gains were led by Taiyo Yuden (13.46%), Softbank (11.23%) and Sumitomo Electric (10.16%)."
+    },
+    {
+      "id": "4894354",
+      "time": "2026-05-22 14:29:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【小象超市在江西成立新公司，註冊資本1000萬】天眼查App顯示，5月18日，江西象鮮科技有限公司成立，法定代表人為劉東偉，註冊資本1000萬人民幣，經營範圍包括食品銷售、餐飲服務、藥品零售等，由小象超市關聯公司北京象鮮科技有限公司全資持股。"
+    },
+    {
+      "id": "mkt:019e4e5f-d87c-7cc0-a021-b6517c42b5dc",
+      "time": "2026-05-22 14:29:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ESTONIAN FOREIGN MINISTER: IT IS UP TO THE US TO DECIDE HOW MANY TROOPS THEY HAVE IN EUROPE, BUT IT IS CLEAR THAT EUROPE MUST STEP UP"
+    },
+    {
+      "id": "4894353",
+      "time": "2026-05-22 14:29:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "斯里蘭卡盧比對美元匯率最高上漲 1.8%。"
+    },
+    {
+      "id": "4894352",
+      "time": "2026-05-22 14:28:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "愛沙尼亞外交部長：歐洲駐軍規模由美國自行決定，但歐洲顯然必須加大投入。"
+    },
+    {
+      "id": "4894351",
+      "time": "2026-05-22 14:28:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "歷峰集團董事長：阿布扎比本土顧客奢侈品消費額已超過迪拜。"
+    },
+    {
+      "id": "4894350",
+      "time": "2026-05-22 14:27:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【萬華化學、魯銀投資在湖北成立新材料科技公司 註冊資本1億】天眼查App顯示，近日，魯銀魯華（湖北）新材料科技有限公司成立，法定代表人為呂寶鋒，註冊資本1億人民幣，經營範圍包括新材料技術推廣服務、工程和技術研究和試驗發展、增材製造等。股東資訊顯示，該公司由魯銀投資（600784）、萬華化學旗下萬華（湖北）新能源材料科技有限公司共同持股。"
+    },
     {
       "id": "mkt:019e4e5e-4993-7cc0-a021-a988e819f9de",
       "time": "2026-05-22 14:27:42",
@@ -144713,120 +144831,6 @@
         "焦點"
       ],
       "text": "豆粕連續主力合約日內跌2%，現報2989.00元。"
-    },
-    {
-      "id": "mkt:019e2a56-a642-7bb5-b4d7-d1c05dc89c57",
-      "time": "2026-05-15 14:32:06",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bearish"
-      ],
-      "text": "NIKKEI STOCK AVERAGE CLOSES 2.0% LOWER AT 61409.29, DRAGGED BY CHIP-RELATED STOCKS"
-    },
-    {
-      "id": "4881412",
-      "time": "2026-05-15 14:31:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "鎧俠本財年淨利潤5544.9 億日元，市場預期5144.4 億日元。"
-    },
-    {
-      "id": "mkt:019e2a55-e5b8-7bb5-b4d7-cf2b9ecc719c",
-      "time": "2026-05-15 14:31:53",
-      "tags": [
-        "MKT News",
-        "Important",
-        "SSE Composite",
-        "SZSE Component"
-      ],
-      "text": "TURNOVER ON SSE AND SZSE EXCEEDED 3TN YUAN, UP 33.6BN YUAN FROM THE SAME TIME YESTERDAY"
-    },
-    {
-      "id": "mkt:019e2a55-978d-7bb5-b4d7-c5fb844b850c",
-      "time": "2026-05-15 14:31:41",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "NIKKEI 225 CLOSED DOWN 1.99%"
-    },
-    {
-      "id": "mkt:019e2a55-4962-7bb5-b4d7-bf78c372de03",
-      "time": "2026-05-15 14:31:32",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Nikkei 225",
-        "Impact bearish",
-        "Hang Seng Index",
-        "CSI300"
-      ],
-      "text": "KOSPI INDEX CLOSED DOWN 6.12%"
-    },
-    {
-      "id": "4881411",
-      "time": "2026-05-15 14:31:25",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "【日韓股市集體收跌】日經225指數收跌1.99%，報61409.29點。韓國綜指收跌6.12%，報7493.20點。"
-    },
-    {
-      "id": "4881410",
-      "time": "2026-05-15 14:31:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "瑞穗銀行預計全年淨利潤為1.30萬億日元，此前預期為1.32萬億日元。"
-    },
-    {
-      "id": "4881409",
-      "time": "2026-05-15 14:31:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "【5月15日：“農產品批發價格200指數”比昨天下降0.17個點】據農業農村部監測，5月15日“農產品批發價格200指數”為115.06，比昨天下降0.17個點，“菜籃子”產品批發價格指數為115.46，比昨天下降0.20個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為14.80元/公斤，比昨天下降0.9%；牛肉66.31元/公斤，與昨天持平；羊肉64.01元/公斤，比昨天下降0.2%；雞蛋9.23元/公斤，比昨天下降0.3%；白條雞16.83元/公斤，比昨天上升0.2%。重點監測的28種蔬菜平均價格為4.21元/公斤，比昨天上升0.2%；重點監測的6種水果平均價格為7.88元/公斤，比昨天上升0.5%。鯽魚20.13元/公斤，比昨天下降0.4%；鯉魚14.99元/公斤，比昨天上升0.8%；白鰱魚9.96元/公斤，比昨天下降4.7%；大帶魚41.94元/公斤，比昨天上升0.1%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與昨天相比價格升幅前五名的是鴨梨、韭菜、菠蘿、蒜薹和香菇，幅度分別為3.4%、2.5%、2.4%、2.2%和2.0%；價格降幅前五名的是白鰱魚、洋白菜、白蘿蔔、豆角和蔥頭，幅度分別為4.7%、2.8%、2.1%、2.0%和1.7%。"
-    },
-    {
-      "id": "te:markets:551021",
-      "time": "2026-05-15 14:30:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Nikkei 225 Index Closes 2.67% Lower — The Nikkei 225 Index fell 1670 points or 2.67 percent on Friday to close at 60984 points. Leading the losses are Toppan (-17.05%), SMC (-13.33%) and Nexon Co (-12.07%)."
-    },
-    {
-      "id": "4881408",
-      "time": "2026-05-15 14:29:36",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超3萬億元，較上日此時放量336億元。"
-    },
-    {
-      "id": "4881407",
-      "time": "2026-05-15 14:28:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "比亞迪：比亞迪輔助駕駛車型保有量超299萬輛，天神之眼每天生成資料超1.9億公里。"
     }
   ]
 }
