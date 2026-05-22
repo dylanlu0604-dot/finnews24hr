@@ -1,7 +1,93 @@
 {
-  "updated": "2026-05-22 18:30:17",
-  "count": 16104,
+  "updated": "2026-05-22 18:34:08",
+  "count": 16101,
   "items": [
+    {
+      "id": "mkt:019e4f3f-4cc6-777d-b241-183939ecee30",
+      "time": "2026-05-22 18:33:28",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "U.S. STOCK INDEX FUTURES DRIFT LOWER; NASDAQ 100 FUTURES FLAT, S&P 500 E-MINI FUTURES UP 0.1%, DOW FUTURES UP 0.2%"
+    },
+    {
+      "id": "4894987",
+      "time": "2026-05-22 18:32:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國光電器：收到廣東監管局行政監管措施決定書】國光電器公告，公司收到廣東監管局下發的《關於對國光電器股份有限公司、陸宏達、何偉成、肖慶、王婕採取出具警示函措施的決定》。決定書指出，公司存在未及時披露大額投資收益、未完整披露公司控制權結構、未如實披露員工持股計劃資金來源及代持情況、賬外收付資金、核算收入費用、未及時披露關聯方交易等違規問題。廣東監管局決定對公司及相關人員採取出具警示函的行政監管措施。"
+    },
+    {
+      "id": "4894986",
+      "time": "2026-05-22 18:32:07",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信建投：半導體裝置及零部件產業鏈投資機遇】中信建投釋出研報稱，隨著國產零部件供應商的持續研發突破與放量，認為當前時間點對於零部件板塊的投資更多聚焦於細分品類的賽道投資：一方面，關注對低國產化率賽道的投資，期待相關品類研發-送樣-小批次的持續突破，如EFEM、機械手、真空泵/分子泵、閥門、靜電卡盤、射頻電源、MFC、光刻機相關零部件（雙工件臺/浸液系統、光學類零部件等）；另一方面，關注國產化進展順暢、業績逐步釋放的品類投資，如機械大類金屬零部件、氣體輸送子系統GAS BOX等。"
+    },
+    {
+      "id": "te:economy:553086",
+      "time": "2026-05-22 18:32:02",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Latvia",
+        "Unemployment Rate",
+        "Importance 1"
+      ],
+      "text": "Latvia Unemployment Rate at 1-Year High — Latvia’s unemployment rate rose to 7.1% in the first quarter of 2026 from 6.7% in the previous quarter, but was down from 7.4% in the same period last year. This marked the highest reading since the first quarter of 2025, as the number of unemployed persons increased by 2.6 thousand quarter-on-quarter to 66.4 thousand. The jobless rate for men fell to 7.2% from 7.6%, with the number of unemployed men at 32.9 thousand, while the rate for women rose to 7% from 5.9%, with unemployed women totaling 33.4 thousand. Meanwhile, total employment dropped by 11.6 thousand to 871.2 thousand, bringing the employment rate to 63.8%, down 1 percentage point from the fourth quarter. The youth unemployment rate (ages 15–24) fell to 9.4%, equivalent to 6.2 thousand people, decreasing by 4.1 percentage points from Q4. At the same time, 16.6% of the population aged 20–64, or 173.6 thousand people, remained economically inactive, down by 5.6 thousand from the corresponding period a year earlier."
+    },
+    {
+      "id": "4894985",
+      "time": "2026-05-22 18:31:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【魚躍醫療：擬以2億元至4億元回購股份並登出】魚躍醫療(002223.SZ)公告稱，公司擬以自有資金回購股份，用於登出並減少註冊資本。回購資金總額不低於2億元且不超過4億元，回購價格不超過40元/股。按回購上限測算，預計可回購約1000萬股，佔總股本1%。"
+    },
+    {
+      "id": "4894984",
+      "time": "2026-05-22 18:31:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【愛克股份：控股股東謝明武解除質押3.04%，新質押0.76%】愛克股份公告，公司控股股東謝明武解除質押股份670萬股，佔其持股10.56%、佔總股本3.04%，質押期限2026/02/06至2026/05/20，質權人為浙江銀通典當有限責任公司；並新質押167.51萬股，佔其持股2.64%、佔總股本0.76%，質押起始日2026/5/21，質權人為廣東省粵普小額再貸款股份有限公司，用途為個人資金需求；本次後其已質押股份2754.67萬股，佔其持股43.40%、佔公司總股本12.51%。"
+    },
+    {
+      "id": "4894983",
+      "time": "2026-05-22 18:30:58",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行轉移盈餘後，印度10年期基準國債收益率上漲3個基點，至7.10%。"
+    },
+    {
+      "id": "4894982",
+      "time": "2026-05-22 18:30:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【魯比奧說北約必須“對所有成員有利”】美國國務卿魯比奧22日在瑞典赫爾辛堡說，北約“必須對所有成員有利”。據瑞典通訊社報道，魯比奧當天在赫爾辛堡出席北約外長會前接受媒體採訪時說，像任何聯盟一樣，北約必須“對所有成員有利”，各方必須清楚瞭解彼此的期待。此次會議將討論一些盟友在美國對伊朗軍事行動中缺乏配合的問題。魯比奧21日從美國前往瑞典出席北約外長會。啟程前，他批評北約在美國對伊朗軍事行動中沒有采取“任何實質行動”，西班牙還拒絕美國使用當地軍事基地。他希望在即將舉行的北約外長會上著力解決“北約對美國究竟有何益處”的議題。北約秘書長呂特22日在赫爾辛堡表示，隨著歐洲和北約增強自身能力，北約將繼續朝著減少對單一盟友依賴的方向發展。（新華社）"
+    },
+    {
+      "id": "te:markets:553084",
+      "time": "2026-05-22 18:30:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The SENSEX Index Closes 0.31% Higher — The SENSEX Index went up by 232 points or 0.31 percent on Friday to close at 75415 points. The rise was led by Axis Bank (2.68%), ICICI Bank (1.96%) and Asian Paints (1.46%). On the downside, the weakerst performers were Sun Pharmaceuticals (-2.71%), ITC (-1.96%) and Power Grid (-1.80%)."
+    },
     {
       "id": "4894981",
       "time": "2026-05-22 18:29:24",
@@ -9,6 +95,14 @@
         "公司"
       ],
       "text": "【ST海王：轉讓控股子公司股權被動形成對外財務資助】ST海王公告，因市場情況變化，公司全資子公司銀河投資與深業醫藥的小股東深圳市澤洋企業管理有限公司簽訂了《股權轉讓協議》，由深圳市澤洋企業管理有限公司收購銀河投資持有的深業醫藥60%股權。股權轉讓完成後，深業醫藥尚欠公司借款本金8091.58萬元人民幣及利息。同時，公司全資子公司安徽海王集團與海王天成的小股東劉葉西簽訂了《股權轉讓協議》，由股東劉葉西收購安徽海王集團持有的海王天成80%股權。海王天成尚欠安徽海王集團、銀河投資、黑龍江省海王借款本金4055.08萬元人民幣及利息。此外，公司全資子公司銀河投資與韶關市訊美捷通訊裝置有限公司簽訂了《股權轉讓協議》，由韶關市訊美捷通訊裝置有限公司收購銀河投資持有的韶關海王70%股權。韶關海王尚欠公司借款本金585萬元。"
+    },
+    {
+      "id": "4894980",
+      "time": "2026-05-22 18:29:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【美盈森：收到應訴通知書】美盈森公告，公司於2026年5月21日收到廣東省深圳市中級人民法院送達的《應訴通知書》等訴訟檔案。本案為申請撤銷深圳國際仲裁院作出的（2018）深仲裁字第2269號《裁決書》，根據上述《裁決書》，歐陽宣、西藏新天地投資合夥企業（有限合夥）應連帶向公司支付違約金、律師費、保全費、保全擔保費、仲裁費等合計3027.54萬元；公司應向歐陽宣支付律師費15萬元。因上述案件尚未審理，案件對公司本期利潤或期後利潤可能產生的影響存在不確定性。"
     },
     {
       "id": "4894979",
@@ -144641,132 +144735,6 @@
         "國際"
       ],
       "text": "伊朗外交部長在印度簡報會上發表講話。"
-    },
-    {
-      "id": "4882075",
-      "time": "2026-05-15 18:33:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京：俄羅斯的失業率維持在2.2%的最低水平。"
-    },
-    {
-      "id": "mkt:019e2b32-79c8-7bb5-b4da-f045ea0b2d13",
-      "time": "2026-05-15 18:33:07",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "GBPUSD",
-        "Impact bullish",
-        "FTSE100",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "UK 30-YEAR GILT YIELDS SURGE 16 BPS INTRADAY TO 5.82%, THE HIGHEST SINCE 1998"
-    },
-    {
-      "id": "mkt:019e2b32-4699-7bb5-b4da-e8314cd1dbf4",
-      "time": "2026-05-15 18:32:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TRUMP SAYS ON TAIWAN POLICY: NOTHING'S CHANGED -FOX NEWS"
-    },
-    {
-      "id": "4882073",
-      "time": "2026-05-15 18:32:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京：經濟措施和決策正在發揮作用。三月份的資料是積極的。三月份俄羅斯GDP增長1.8%。經濟增長應保持可持續性。"
-    },
-    {
-      "id": "mkt:019e2b31-33eb-7bb5-b4da-e39ce59a08e1",
-      "time": "2026-05-15 18:31:45",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "IRAN FOREIGN MINISTER SAYS IRAN PREPARED TO GO BACK TO FIGHTING AND ALSO PREPARED FOR DIPLOMATIC SOLUTIONS ARAGHCHI SAYS SUBJECT OF IRAN ENRICHED MATERIAL 'VERY COMPLICATED"
-    },
-    {
-      "id": "4882072",
-      "time": "2026-05-15 18:31:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度4月份失業率為5.2%。"
-    },
-    {
-      "id": "mkt:019e2b30-e378-7bb5-b4da-df0a3d7ae730",
-      "time": "2026-05-15 18:31:24",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "The Trump Trade",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "USDJPY"
-      ],
-      "text": "TRUMP: HAVE NOT APPROVED WEAPONS FOR TAIWAN YET; MAY DO IT, MAY NOT DO IT -FOX NEWS"
-    },
-    {
-      "id": "mkt:019e2b30-a3e6-7bb5-b4da-d09cb0c7f4e2",
-      "time": "2026-05-15 18:31:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "PUTIN: DATA IN MARCH IS POSITIVE"
-    },
-    {
-      "id": "mkt:019e2b30-9221-7bb5-b4da-c8014b94f412",
-      "time": "2026-05-15 18:31:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "PUTIN TELLS GOVERNMENT MEETING: MEASURES ON ECOMONY AND DECISIONS ARE WORKING"
-    },
-    {
-      "id": "4882071",
-      "time": "2026-05-15 18:30:39",
-      "tags": [
-        "市場"
-      ],
-      "text": "英國30年期國債收益率上漲16個基點至5.82%，創1998年以來新高。"
-    },
-    {
-      "id": "4882070",
-      "time": "2026-05-15 18:30:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外長：目前美國談判中暫不涉及相關材料。"
-    },
-    {
-      "id": "4882069",
-      "time": "2026-05-15 18:30:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度上調燃油價格，伊朗危機衝擊效應顯現。"
-    },
-    {
-      "id": "te:markets:551159",
-      "time": "2026-05-15 18:30:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "India",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The SENSEX Index Closes 0.21% Lower — The SENSEX Index dropped 161 points or 0.21 percent on Friday to close at 75238 points. Losses were led by Tata Steel (-1.96%), Nestle India (-1.88%) and Indusind Bank (-1.86%). Offsetting the fall, top gainers were Tata Motors (5.14%), Infosys (1.92%) and Tech Mahindra (1.79%)."
     }
   ]
 }
