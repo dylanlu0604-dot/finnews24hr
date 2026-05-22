@@ -1,7 +1,44 @@
 {
-  "updated": "2026-05-22 23:05:33",
-  "count": 16132,
+  "updated": "2026-05-22 23:09:27",
+  "count": 16130,
   "items": [
+    {
+      "id": "4895535",
+      "time": "2026-05-22 23:06:57",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "資料顯示，土耳其央行外匯空頭頭寸總額升至 88 億美元。"
+    },
+    {
+      "id": "4895534",
+      "time": "2026-05-22 23:06:02",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "印度市場監管機構：針對藉助社交媒體薦股交易特定證券一事發布臨時指令。"
+    },
+    {
+      "id": "te:markets:553158",
+      "time": "2026-05-22 23:05:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Solar Energy Index Hits 33-month High — Solar Energy Index increased to 65.52 USD, the highest since August 2023. Over the past 4 weeks, Solar Energy Index gained 10.86%, and in the last 12 months, it increased 105.92%."
+    },
+    {
+      "id": "mkt:019e5038-5d29-7224-83c0-bebd47ba72af",
+      "time": "2026-05-22 23:05:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Pakistan Army Chief Asim Munir Heads to Tehran for Iran-U.S. Talks】Pakistan Army Chief Field Marshal Syed Asim Munir departed for Tehran on Friday for meetings with senior Iranian officials focused on regional issues and indirect Iran-U.S. negotiations that Pakistan has helped facilitate. Pakistani Interior Minister Mohsin Naqvi had already held talks in Tehran earlier this week. A senior Pakistani official told CBS News the discussions had advanced negotiations “in an important direction.” U.S. Secretary of State Marco Rubio said Friday there had been “a little bit of movement” in the talks."
+    },
     {
       "id": "mkt:019e5037-3dad-7224-83c0-b2b40e85972c",
       "time": "2026-05-22 23:04:17",
@@ -144742,59 +144779,6 @@
         "國際"
       ],
       "text": "美國國家氣象局表示，厄爾尼諾現象很可能在5-7月間出現，並將在2026年底至2027年初期間持續影響北半球。"
-    },
-    {
-      "id": "4882590",
-      "time": "2026-05-15 23:09:24",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國7年期國債收益率當日上漲10個基點至4.41%。"
-    },
-    {
-      "id": "4882589",
-      "time": "2026-05-15 23:09:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "秘魯總統大選官方計票結果：秘魯左翼人士Sanchez Secures位列第二，將在 6 月二輪大選對決Keiko Fujimori。"
-    },
-    {
-      "id": "te:economy:551242",
-      "time": "2026-05-15 23:07:54",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Dominican Republic",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Dominican Republic Inflation Hits Three-Year High — The annual inflation rate in the Dominican Republic accelerated to 5.11% in April 2026 from 4.63% in the previous month, marking the highest level in three years and moving above the central bank’s 4.0% ±1.0% target range. The strongest price increases were recorded in restaurants and hotels (7.7%), education (7.1%), food and non-alcoholic beverages (7.0%), miscellaneous goods and services (6.2%), alcoholic beverages and tobacco (5.3%), transport (5.3%), and healthcare (5.2%). In contrast, prices for clothing and footwear declined 1.4% from a year earlier. On a monthly basis, consumer prices rose 0.5% in April."
-    },
-    {
-      "id": "4882588",
-      "time": "2026-05-15 23:07:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "秘魯首輪總統大選選票已 100% 統計完畢。"
-    },
-    {
-      "id": "4882587",
-      "time": "2026-05-15 23:06:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "【委內瑞拉推動油氣合作重啟 開始分發示範合同檔案】委內瑞拉國家石油公司已開始向有意在委開展業務的能源公司分發擬議合同，這是恢復該國原油生產的關鍵一步。業內人士表示，該示範合同可能代表了委內瑞拉國家石油公司（PDVSA）採取的極致開放姿態。隨著律師和顧問們仔細研讀這份長達 90 頁的檔案，業內人士的反應表明，將協議轉化為運營合同可能需要比預期更長的時間。"
-    },
-    {
-      "id": "4882586",
-      "time": "2026-05-15 23:06:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【河北省四地區市場化綠電首次進京】記者15日從首都電力交易中心獲悉，2026年1月至4月，北京市綠電市場化直接交易共達成188億千瓦時，同比增長82.54%，累計減少二氧化碳排放約1500萬噸。河北省四地區市場化綠電首次進京，累計供應電量1919萬千瓦時。 “今年3月，首次實現了河北省石家莊、保定、衡水、滄州四地共19家新能源企業的綠電首次供應北京。”首都電力交易中心副總經理王立介紹，此次跨區域綠電交易由北京電力交易中心聯合首都電力交易中心、河北電力交易中心共同完成。 王立介紹，北京共17家電力使用者參與此次綠電購入，電力使用者覆蓋城市公共交通、靜態交通、高階製造、醫藥製造等多個重點領域。該交易模式實現河北省南部區域優質新能源與北京綠色用能需求精準對接，為京津冀地區源網荷儲一體化發展，以及全國統一電力市場建設提供了實踐樣本。 擴大綠電消費是推動能源綠色低碳轉型、助力實現“雙碳”目標、賦能經濟綠色高質量發展的關鍵舉措。首都電力交易中心正依託全國統一電力市場建設，持續拓展綠電進京渠道，擴大綠電交易規模。京津冀三地深化電力市場協同合作，推動更多河北綠電進京，助力北京建設綠色低碳城市，為京津冀協同發展及全國新型電力系統建設貢獻力量。（新華社）"
     }
   ]
 }
