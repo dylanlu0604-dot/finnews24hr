@@ -1,7 +1,64 @@
 {
-  "updated": "2026-05-23 02:02:28",
-  "count": 16105,
+  "updated": "2026-05-23 02:06:20",
+  "count": 16100,
   "items": [
+    {
+      "id": "4895677",
+      "time": "2026-05-23 02:04:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "洲際交易所：截至 5 月 19 日當週，布倫特原油投機者淨多頭持倉減少 10517 手，降至 335288 手。"
+    },
+    {
+      "id": "mkt:019e50dc-0f3b-788e-b251-a6524796ddee",
+      "time": "2026-05-23 02:04:19",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "ICE- GASOIL SPECULATORS CUT NET LONG POSITIONS BY 1,142 CONTRACTS TO 58,654 IN WEEK TO MAY 19"
+    },
+    {
+      "id": "mkt:019e50dc-0eb4-788e-b251-9a6a11a3a74d",
+      "time": "2026-05-23 02:04:16",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "ICE- BRENT CRUDE SPECULATORS CUT NET LONG POSITIONS BY 10,517 CONTRACTS TO 335,288 IN WEEK TO MAY 19"
+    },
+    {
+      "id": "mkt:019e50da-afae-788e-b251-902fc712d559",
+      "time": "2026-05-23 02:02:49",
+      "tags": [
+        "MKT News",
+        "BP.O",
+        "Impact bearish"
+      ],
+      "text": "BP AMERICA: CURRENT SETTLEMENT INCLUDES AN AVERAGE 13% PAY INCREASE OVER FIRST 4 YEARS OF PROPOSED 6-YEAR AGREEMENT"
+    },
+    {
+      "id": "mkt:019e50da-a3fb-788e-b251-8b6dd5c87882",
+      "time": "2026-05-23 02:02:46",
+      "tags": [
+        "MKT News",
+        "BP.O"
+      ],
+      "text": "BP AMERICA: CURRENT SETTLEMENT INCLUDES WITHDRAWAL OF PROPOSED VOLUNTARY REDUCTION OF UP TO 42 MAINTENANCE CRAFT EMPLOYEES"
+    },
+    {
+      "id": "mkt:019e50da-9184-788e-b251-84753d5f3246",
+      "time": "2026-05-23 02:02:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BP AMERICA: BP WHITING REFINERY RETURNED TO BARGAINING TABLE WITH USW LOCAL 7-1 BARGAINING COMMITTEE & PRESENTED A REVISED PROPOSAL"
+    },
     {
       "id": "4895676",
       "time": "2026-05-23 02:01:09",
@@ -144526,107 +144583,6 @@
         "其他"
       ],
       "text": "惠譽關於巴哈馬大選的觀點：儘管能源衝擊可能帶來增長壓力與財政壓力，我們仍預測巴哈馬將逐步實現預算盈餘。"
-    },
-    {
-      "id": "4882792",
-      "time": "2026-05-16 02:05:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴基斯坦外長：20名被美國軍方扣押的伊朗人已被送回國。"
-    },
-    {
-      "id": "mkt:019e2cd0-9fee-7663-82fb-7d36b781113e",
-      "time": "2026-05-16 02:05:30",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "US HOME PRICE OVERVALUATION REMAINS BROADLY STABLE – FITCH"
-    },
-    {
-      "id": "4882791",
-      "time": "2026-05-16 02:05:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "惠譽：巴哈馬大選勝利有利於經濟和財政政策的延續性。"
-    },
-    {
-      "id": "4882790",
-      "time": "2026-05-16 02:05:18",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "洲際交易所歐洲期貨交易所：截至5月12日，飼料小麥投機商將淨多頭頭寸增加12手，至312手。"
-    },
-    {
-      "id": "4882789",
-      "time": "2026-05-16 02:05:06",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "洲際交易所歐洲期貨分部：截至5月12日，可可投機客將淨空頭持倉減少8193手，至19987手。"
-    },
-    {
-      "id": "4882788",
-      "time": "2026-05-16 02:04:57",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "洲際交易所歐洲期貨分部：投機者將羅布斯塔咖啡淨多頭頭寸增加4787手，截至5月12日達到13709手。"
-    },
-    {
-      "id": "4882787",
-      "time": "2026-05-16 02:04:49",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "洲際交易所歐洲期貨分部：截至5月12日，原糖投機者將淨多頭頭寸增加114手，至20924手。"
-    },
-    {
-      "id": "mkt:019e2ccf-6ccb-7663-82fb-72a8339be61f",
-      "time": "2026-05-16 02:04:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "OPENAI INFORMED EMPLOYEES ABOUT A REORGANIZATION TO INTEGRATE ITS SERVICES"
-    },
-    {
-      "id": "mkt:019e2ccf-214d-7663-82fb-6917e723763b",
-      "time": "2026-05-16 02:03:52",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bearish",
-        "FTSE100"
-      ],
-      "text": "UK GOVERNMENT WILL ‘GRIND TO A HALT’ AMID LEADERSHIP RACE, SAY MINISTERS - FT"
-    },
-    {
-      "id": "4882786",
-      "time": "2026-05-16 02:03:25",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【默茨與特朗普通電話，似有意修補德美關係】德國總理默茨15日在社交媒體發文說，他當天與美國總統特朗普通電話，進行了“愉快的交談”。德新社報道指出，默茨先前因批評美國對伊朗的軍事行動而激怒特朗普，眼下似乎有意修補與特朗普的關係。默茨說，雙方一致認為“伊朗現在必須回到談判桌前。伊朗必須開放霍爾木茲海峽，且絕不允許德黑蘭擁有核武器”。"
-    },
-    {
-      "id": "4882785",
-      "time": "2026-05-16 02:02:42",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "花旗集團4 月末信用卡逾期率為 1.4%。"
     }
   ]
 }
