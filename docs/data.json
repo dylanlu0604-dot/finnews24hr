@@ -1,7 +1,116 @@
 {
-  "updated": "2026-05-23 04:34:48",
-  "count": 16111,
+  "updated": "2026-05-23 04:38:41",
+  "count": 16121,
   "items": [
+    {
+      "id": "4895802",
+      "time": "2026-05-23 04:37:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "穆迪：沙特非石油經濟受持續政府支出支撐，預計將保持較強韌性。"
+    },
+    {
+      "id": "4895801",
+      "time": "2026-05-23 04:37:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "穆迪：評級展望反映出我們預計卡達的信用狀況對當前地區衝突仍將保持韌性。"
+    },
+    {
+      "id": "4895800",
+      "time": "2026-05-23 04:37:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "穆迪將南非的評級展望從穩定調整為正面，並確認其Ba2評級。"
+    },
+    {
+      "id": "4895799",
+      "time": "2026-05-23 04:36:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：暫無跡象表明特朗普已決定重啟對伊朗戰事。"
+    },
+    {
+      "id": "4895798",
+      "time": "2026-05-23 04:36:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "穆迪評級確認沙烏地阿拉伯AA3評級，維持穩定展望。"
+    },
+    {
+      "id": "4895797",
+      "time": "2026-05-23 04:36:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們將迅速降低利率。"
+    },
+    {
+      "id": "4895796",
+      "time": "2026-05-23 04:35:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "穆迪評級確認卡達AA2主權信用評級，維持穩定展望。"
+    },
+    {
+      "id": "4895795",
+      "time": "2026-05-23 04:35:31",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "特朗普：我現在有沃什這樣一位優秀的美聯儲主席。"
+    },
+    {
+      "id": "4895794",
+      "time": "2026-05-23 04:35:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：住房市場關鍵在於利率，而非立法舉措。"
+    },
+    {
+      "id": "te:markets:553195",
+      "time": "2026-05-23 04:35:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.58% Higher — The Dow Jones Index gained 294 points or 0.58 percent on Friday to close at 50580 points. Gains were led by Merck (5.64%), Salesforce (2.23%) and Cisco Systems (2.01%). Biggest losers were Nvidia (-1.86%), Walmart (-0.82%) and Amazon (-0.71%)."
+    },
+    {
+      "id": "4895793",
+      "time": "2026-05-23 04:35:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：特朗普獲悉伊朗談判失敗後的各類應對預案。"
+    },
+    {
+      "id": "4895792",
+      "time": "2026-05-23 04:34:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：能源價格回落，利率也將隨之下降。"
+    },
+    {
+      "id": "4895791",
+      "time": "2026-05-23 04:34:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普稱讚禁令，禁止投資者囤積獨棟住宅。"
+    },
     {
       "id": "4895790",
       "time": "2026-05-23 04:34:09",
@@ -144604,38 +144713,6 @@
         "其他"
       ],
       "text": "【5月16日美股成交額前20：比爾阿克曼稱微軟估值極具吸引力】美股週五成交額第4名微軟收高3.05%，成交206.43億美元。比爾·阿克曼剛剛下注微軟，稱其估值極具吸引力。他認為市場對微軟人工智慧方面的擔憂被誇大了。阿克曼透露潘興廣場將在即將提交的13F檔案中披露持有微軟的新頭寸，同時稱這家軟體巨頭在當前價位“極具吸引力”。"
-    },
-    {
-      "id": "te:markets:551306",
-      "time": "2026-05-16 04:36:38",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Ibovespa Falls as Inflation and Political Concerns Weigh — The Ibovespa lost 0.6% to close at 177,284 on Friday, pressured by a negative external backdrop amid fears of rising global inflation, while investors also monitored domestic political developments. Concerns linked to the Middle East conflict pushed global bond yields higher, while oil prices advanced amid the lack of progress toward ending ship attacks and seizures around the Strait of Hormuz, reinforcing stagflation fears. Brazil’s 10-year government bond yield climbed to its highest level in over a year. Locally, sentiment was also weighed by reports linking Senator Flávio Bolsonaro to former Banco Master owner Daniel Vorcaro, who was charged with fraud. Major banks posted losses, with Itaú down 1.7% and Bradesco shedding 1.2%. Eneva fell 3.4% despite strong first-quarter results, while Marfrig closed flat after releasing solid earnings. In contrast, Petrobras gained 1% as higher oil prices supported energy shares."
-    },
-    {
-      "id": "4882947",
-      "time": "2026-05-16 04:35:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "【AI衝擊初現端倪，美國數類職業連續出現嚴重崗位流失】2025年美國多個被認為易受人工智慧(AI)影響的職業領域連續第二年出現嚴重的職位流失，其中以客戶服務代表以及特定型別的秘書和銷售人員受到衝擊最為嚴重。根據週五釋出的年度資料，在2024年5月至2025年5月期間，美國勞工統計局標記為暴露在AI風險之下的18個職業組別（涉及約1000萬個工作崗位）的就業人數下降了0.2%。相比之下，同期美國整體就業人數增長了0.8%。"
-    },
-    {
-      "id": "te:markets:551305",
-      "time": "2026-05-16 04:35:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Closes 1.07% Lower — The Dow Jones Index fell 537 points or 1.07 percent on Friday to close at 49526 points. Leading the losses are Nvidia (-4.39%), Boeing (-3.74%) and Caterpillar (-3.42%)."
     }
   ]
 }
