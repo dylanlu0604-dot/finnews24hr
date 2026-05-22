@@ -1,7 +1,70 @@
 {
-  "updated": "2026-05-23 00:58:33",
-  "count": 16115,
+  "updated": "2026-05-23 01:02:22",
+  "count": 16108,
   "items": [
+    {
+      "id": "mkt:019e50a2-dd4a-7443-baf7-c2a148101249",
+      "time": "2026-05-23 01:01:49",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Weekly Total Natural Gas Rig Count (May.22) | actual 125 | previous 128"
+    },
+    {
+      "id": "mkt:019e50a2-c9d9-7443-baf7-bbb45624649d",
+      "time": "2026-05-23 01:01:46",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Weekly Total Rig Count (May.22) | actual 558 | previous 551"
+    },
+    {
+      "id": "mkt:019e50a2-b4c4-7443-baf7-b549a5954f18",
+      "time": "2026-05-23 01:01:40",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Weekly Total Oil Rig Count (May.22) | actual 425 | previous 415"
+    },
+    {
+      "id": "4895633",
+      "time": "2026-05-23 01:01:19",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國5月22日當週總鑽井數 558，前值 551。\n美國5月22日當週石油鑽井數 425，前值 415。\n美國5月22日當週天然氣鑽井數 125，前值 128。"
+    },
+    {
+      "id": "4895632",
+      "time": "2026-05-23 01:00:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "據Al Hadath：巴基斯坦陸軍參謀長與伊朗伊斯蘭革命衛隊指揮官將於明日在德黑蘭舉行會晤。"
+    },
+    {
+      "id": "4895631",
+      "time": "2026-05-23 01:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】國際銅夜盤收漲0.77%，滬銅收漲0.58%，滬鋁收跌0.14%，滬鋅收跌0.16%，滬鉛收漲0.30%，滬鎳收漲0.42%，滬錫收漲1.06%。氧化鋁夜盤收跌0.77%，鋁合金收跌0.06%。不鏽鋼夜盤收漲0.34%。"
+    },
+    {
+      "id": "4895630",
+      "time": "2026-05-23 00:59:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：英國財政大臣裡夫斯擬對個人儲蓄股票賬戶內持倉資金徵稅。"
+    },
     {
       "id": "4895629",
       "time": "2026-05-23 00:52:58",
@@ -144614,129 +144677,6 @@
         "其他"
       ],
       "text": "烏干達衛生部證實出現埃博拉疫情。"
-    },
-    {
-      "id": "4882729",
-      "time": "2026-05-16 01:02:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "截至5月15日當週，美國水平鑽井鑽機數量增加3臺，總數達到484臺。"
-    },
-    {
-      "id": "4882728",
-      "time": "2026-05-16 01:02:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "截至5月15日當週，美國天然氣鑽井平臺數量減少1座，降至128座。"
-    },
-    {
-      "id": "4882727",
-      "time": "2026-05-16 01:01:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國聯邦通訊委員會宣佈有條件批准某些無人機系統和路由器。"
-    },
-    {
-      "id": "4882726",
-      "time": "2026-05-16 01:01:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "貝克休斯：截至5月15日當週，墨西哥灣鑽井平臺數量減少1座；北達科他州鑽井平臺數量維持不變；賓夕法尼亞州減少1座；得克薩斯州增加5座。"
-    },
-    {
-      "id": "4882725",
-      "time": "2026-05-16 01:01:13",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國至5月15日當週石油鑽井總數 415口，前值410口。"
-    },
-    {
-      "id": "mkt:019e2c95-c669-7663-82fb-054ffe4112cd",
-      "time": "2026-05-16 01:01:05",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Weekly Total Natural Gas Rig Count (May.15) | actual 128 | previous 129"
-    },
-    {
-      "id": "4882724",
-      "time": "2026-05-16 01:01:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "截至5月15日當週，美國各盆地油氣鑽井平臺每週變動資料：二疊紀盆地鑽井平臺數較上週增加4座；鷹灘盆地減少1座；威斯頓盆地無變動；奈厄布拉勒盆地減少1座；海恩斯維爾盆地減少2座；尤蒂卡盆地無變動。"
-    },
-    {
-      "id": "mkt:019e2c95-8349-7663-82fa-ffd63c1e3b21",
-      "time": "2026-05-16 01:00:56",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Weekly Total Oil Rig Count (May.15) | actual 415 | previous 410"
-    },
-    {
-      "id": "mkt:019e2c95-6e52-7663-82fa-f73fed5788ed",
-      "time": "2026-05-16 01:00:50",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Weekly Total Rig Count (May.15) | actual 551 | previous 548"
-    },
-    {
-      "id": "4882723",
-      "time": "2026-05-16 01:00:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國5月15日當週總鑽井數 551，前值 548。"
-    },
-    {
-      "id": "4882722",
-      "time": "2026-05-16 01:00:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "【夜盤期貨收盤】國際銅夜盤收跌1.38%，滬銅收跌1.29%，滬鋁收跌0.94%，滬鋅收跌0.44%，滬鉛收跌0.60%，滬鎳收跌1.30%，滬錫收跌2.84%。氧化鋁夜盤收跌1.19%，鋁合金收跌0.99%。不鏽鋼夜盤收跌0.87%。"
-    },
-    {
-      "id": "4882721",
-      "time": "2026-05-16 00:59:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "【數字貨幣市場週五走低，比特幣在美股開盤時加速下跌】最近24小時，MarketVectorTM數字資產100小盤指數跌5.57%，暫報2778.30點，上週五結束交易以來（7*24）累計下跌5.06%，5月9-13日持穩於3000點整數位心理關口附近——形成期內頂部。MarketVectorTM數字資產100中盤指數跌5.04%，報3033.04點，期內累跌5.58%。MarketVector數字資產100指數跌3.23%，報15612.86點，期內累跌0.76%。目前，Solana跌3.97%，最近七天迄今累跌2.94%；狗狗幣跌3.29%，最近七天迄今累漲3.59%；XRP跌5.06%，最近七天迄今累漲2.42%。比特幣跌2.70%，暫報79254.17美元，最近七天迄今累累跌1.09%；以太坊跌3.43%，暫報2221.82美元，最近七天迄今累累跌3.65%。"
-    },
-    {
-      "id": "4882720",
-      "time": "2026-05-16 00:58:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗司法部長： 如今新的考驗已然來臨，當下局勢中最迫切的要務便是調整消費模式。”"
-    },
-    {
-      "id": "te:economy:551278",
-      "time": "2026-05-16 00:58:48",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Canada",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Canada 10-Year Bond Yield Rises to 2-Year high — Canada’s 10-year government bond yield rose to 3.70% in mid-May, the highest in two years, as rising oil prices renewed concerns over a potential inflation shock. Crude prices advanced amid the lack of progress toward a deal to end ship attacks and seizures around the Strait of Hormuz, reinforcing broader stagflation fears and lifting expectations for higher interest rates. March inflation data had already highlighted the impact of elevated energy prices on Canadian consumer prices, keeping markets alert to renewed upside inflation risks. Canada’s annual inflation rate rose to 2.4%, matching the highest level in one year. Still, the Bank of Canada signaled at its latest meeting that it does not see high risks of energy-driven inflation becoming entrenched and opted to leave interest rates unchanged."
     }
   ]
 }
