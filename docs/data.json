@@ -1,7 +1,48 @@
 {
-  "updated": "2026-05-22 13:00:45",
-  "count": 16151,
+  "updated": "2026-05-22 13:04:36",
+  "count": 16150,
   "items": [
+    {
+      "id": "4894212",
+      "time": "2026-05-22 13:03:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "波蘭國防部長科夏奇克-卡梅什就美國向波蘭增派士兵一事表示：美國總統特朗普的這一決定證實，波美關係十分牢固，波蘭是可靠盟友。"
+    },
+    {
+      "id": "mkt:019e4e10-d45b-7aa1-9585-4f70d72bab3e",
+      "time": "2026-05-22 13:03:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "POLISH PRESIDENT NAWROCKI ON SENDING ADDITIONAL U.S. SOLDIERS TO POLAND: I THANK U.S.PRESIDENT FOR HIS FRIENDSHIP TOWARD POLAND AND FOR THE DECISIONS WHOSE PRACTICAL DIMENSION WE SEE VERY CLEARLY TODAY POLISH DEFENCE MINISTER KOSINIAK-KAMYSZ: U.S. PRESIDENT TRUMP'S DECISION CONFIRMS THAT POLISH-AMERICAN RELATIONS ARE VERY STRONG AND POLAND IS A STRONG ALLY"
+    },
+    {
+      "id": "4894211",
+      "time": "2026-05-22 13:01:59",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【MLCC板塊走高 概念股一季報淨利潤多數增長】5月22日早盤，MLCC（多層陶瓷電容器）板塊個股集體走高，雙星新材、風華高科、博遷新材等漲停，昀冢科技上漲18.07%、三環集團、國瓷材料上漲超10%。訊息面上，據媒體報道，在AI資料中心擴張與車用電子化的強勁驅動下，三星電機的（MLCC）未來三年產能已被預先搶佔。據證券時報·資料寶統計，A股中佈局MLCC產業鏈的個股共有15只，今年一季度合計實現歸母淨利潤16.78億元，同比增長23.63%。分個股來看，利和興、雙星新材今年一季度實現扭虧為盈，宏達電子、鴻遠電子、博遷新材等9股歸母淨利潤實現同比增長。9只MLCC概念股獲得3家及以上機構評級，國瓷材料、三環集團、順絡電子居前，分別為17家、15家、10家。"
+    },
+    {
+      "id": "4894210",
+      "time": "2026-05-22 13:01:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "瑞士寶盛集團：受股市表現強勁以及30億瑞郎淨新資金流入推動，今年4月末管理資產規模增至創紀錄的5280億瑞郎。"
+    },
+    {
+      "id": "4894209",
+      "time": "2026-05-22 13:00:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本行業機構資料顯示，4月日本粗鋼產量較3月下降4.2%，至662萬噸；同比則增長0.3%。"
+    },
     {
       "id": "4894208",
       "time": "2026-05-22 12:59:51",
@@ -145087,61 +145128,6 @@
         "公司"
       ],
       "text": "斯巴魯執行長：已推遲原計劃於2028年推出的自研電動汽車專案，將開發資源調配至燃油車業務。"
-    },
-    {
-      "id": "4881241",
-      "time": "2026-05-15 13:04:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯國防部稱，一夜之間擊落了355架烏克蘭無人機。"
-    },
-    {
-      "id": "mkt:019e2a05-7b0d-7bb5-b4d6-8e9212e908fd",
-      "time": "2026-05-15 13:04:21",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Market Themes",
-        "AI Revolution",
-        "BILI.O",
-        "Impact bearish"
-      ],
-      "text": "HONG KONG AI-RELATED STOCKS FALL: YOFC AND INNOSCIENCE DROP OVER 8%, BILIBILI FALLS MORE THAN 7%"
-    },
-    {
-      "id": "4881240",
-      "time": "2026-05-15 13:04:14",
-      "tags": [
-        "市場"
-      ],
-      "text": "澳元<AUD=D3>跌幅擴大，下跌0.61%；紐西蘭元<NZD=D3>下跌0.7%。"
-    },
-    {
-      "id": "4881239",
-      "time": "2026-05-15 13:04:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴基斯坦石油部長稱，巴基斯坦購買了600萬桶美國石油。"
-    },
-    {
-      "id": "4881238",
-      "time": "2026-05-15 13:03:41",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4600美元/盎司，日內跌1.13%。"
-    },
-    {
-      "id": "4881237",
-      "time": "2026-05-15 13:02:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨黃金失守4600美元/盎司，日內跌幅1.10%。"
     }
   ]
 }
