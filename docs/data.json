@@ -1,7 +1,41 @@
 {
-  "updated": "2026-05-23 01:58:42",
-  "count": 16103,
+  "updated": "2026-05-23 02:02:28",
+  "count": 16105,
   "items": [
+    {
+      "id": "4895676",
+      "time": "2026-05-23 02:01:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際銅業研究組織：2026 年 3 月全球精煉銅市場盈餘 3 萬噸。"
+    },
+    {
+      "id": "mkt:019e50d8-c059-788e-b251-7eabb26a0c9b",
+      "time": "2026-05-23 02:00:42",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Tehran Says Nuclear Differences Remain Deep Despite Sky News Arabia Reports of Broad Understanding】Sky News Arabia sources said negotiations in Tehran reached an understanding on the broad outlines of Iran’s nuclear file, including a principles declaration covering ending the war, resolving the Strait of Hormuz issue and linking gradual uranium transfers to sanctions relief. Iran is also seeking U.S. guarantees, with formal talks potentially moving to a 30-day phase if approved. However, Iran’s Foreign Ministry spokesperson later signaled a more cautious stance, saying differences between Iran and the United States remain “deep and significant,” that negotiations are currently focused on ending the war, and that “we cannot necessarily say that we have reached a point where an agreement is close.” The spokesperson also said nuclear details are “not being discussed at this stage.”"
+    },
+    {
+      "id": "4895675",
+      "time": "2026-05-23 01:59:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普政府宣佈：外國人必須回本國才能申請綠卡】申請美國永久居留權的外國人現在必須返回本國才能申請綠卡。美國公民及移民服務局(USCIS)發言人Zach Kahler週五在一份宣告中表示：“從現在起，暫時居住在美國的外國人如果想要獲得綠卡，必須返回其本國申請，除非有特殊情況。”Kahler說：“這項政策使我們的移民系統能夠按照法律的預期運作，而不是鼓勵鑽法律漏洞。”"
+    },
+    {
+      "id": "4895674",
+      "time": "2026-05-23 01:59:47",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "洲際期貨歐洲分部：交易所持倉報告顯示，截至 5 月 19 日，白糖投機者淨多頭持倉增加 2397 手，增至 23321 手。"
+    },
     {
       "id": "4895673",
       "time": "2026-05-23 01:56:41",
@@ -144593,22 +144627,6 @@
         "觀點"
       ],
       "text": "花旗集團4 月末信用卡逾期率為 1.4%。"
-    },
-    {
-      "id": "4882784",
-      "time": "2026-05-16 02:01:21",
-      "tags": [
-        "觀點"
-      ],
-      "text": "花旗銀行 4 月壞賬率達 2.11%。"
-    },
-    {
-      "id": "4882783",
-      "time": "2026-05-16 01:58:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "惠譽：美國房價高估狀況總體保持穩定。"
     }
   ]
 }
