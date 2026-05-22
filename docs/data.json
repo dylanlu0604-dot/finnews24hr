@@ -1,7 +1,159 @@
 {
-  "updated": "2026-05-22 20:28:36",
-  "count": 16090,
+  "updated": "2026-05-22 20:32:40",
+  "count": 16085,
   "items": [
+    {
+      "id": "4895232",
+      "time": "2026-05-22 20:31:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國投資者大舉買入A股】在5月21日A股市場出現顯著回撥之際，韓國投資者卻選擇了逆勢出擊。韓國證券存託結算院最新披露的資料顯示，韓國投資者5月21日透過場內ETF及個股渠道大舉買入A股，重點涉及機器人、電網裝置、PCB、半導體封測、新能源等方向。總體來看，近期海外資金整體對中國資產的配置熱情持續升溫，除了韓國投資者大舉買入A股，多隻在美上市的中國股票ETF規模也呈現顯著擴張。(上海證券報)"
+    },
+    {
+      "id": "mkt:019e4fab-729c-777d-b242-9c582171b0d6",
+      "time": "2026-05-22 20:31:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ICE BRENT & ICE WTI PERPETUAL FUTURES TO LAUNCH ON OKX"
+    },
+    {
+      "id": "4895231",
+      "time": "2026-05-22 20:31:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所：相關產品預計將在OKX持永續期貨合約服務牌照的司法轄區，於OKX平臺上線交易。"
+    },
+    {
+      "id": "4895230",
+      "time": "2026-05-22 20:31:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所布倫特與WTI永久期貨將在歐易上線。"
+    },
+    {
+      "id": "te:markets:553109",
+      "time": "2026-05-22 20:31:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Prices Set for Big Weekly Fall — WTI crude oil futures traded around $96 a barrel on Friday, trimming earlier gains of nearly 3%, as renewed hopes emerged that the US and Iran could reach a diplomatic agreement. US Secretary of State Marco Rubio said there had been “slight progress” in mediated talks with Iran. Tehran is currently reviewing the latest US proposal delivered through Pakistan, although no timeline has been provided for an official response. Despite the renewed optimism, uncertainty persists over whether the conflict can be resolved and whether the Strait of Hormuz can fully reopen, leaving investors highly sensitive to mixed signals from both sides. Even so, WTI futures remain down more than 4% for the week, as markets continue to price in the possibility that the opposing parties may ultimately reach an agreement."
+    },
+    {
+      "id": "4895229",
+      "time": "2026-05-22 20:30:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭副部長表示，該國目標在2026年將生物甲烷產量提升兩倍，達到1.5億立方米。"
+    },
+    {
+      "id": "4895228",
+      "time": "2026-05-22 20:30:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【古巴集會抗議美政府對革命領袖勞爾·卡斯特羅的指控】當地時間5月22日，古巴首都哈瓦那舉行大型集會，譴責並抗議美國政府針對古巴革命領袖勞爾·卡斯特羅的指控。在活動現場，數千名古巴民眾聚集在哈瓦那美國大使館前，揮舞古巴國旗，手舉標語。集會由古巴共產主義青年聯盟、各群眾組織、學生組織及青年運動號召和組織。古巴國家主席迪亞斯-卡內爾及政府官員出席活動。當地時間5月20日，一名美國政府高階官員表示，古巴革命領袖勞爾·卡斯特羅在美國被起訴。此舉被認為是美國近期持續加大對古巴施壓力度的最新動作。（央視新聞）"
+    },
+    {
+      "id": "4895227",
+      "time": "2026-05-22 20:30:09",
+      "tags": [
+        "資料",
+        "焦點"
+      ],
+      "text": "加拿大3月零售銷售月率 0.9%，預期0.60%，前值0.70%。"
+    },
+    {
+      "id": "mkt:019e4fa9-feca-777d-b242-93972c418a5c",
+      "time": "2026-05-22 20:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Core Retail Sales (MoM) (Mar) | actual 1.4% | consensus 0.90% | previous 0.50%"
+    },
+    {
+      "id": "mkt:019e4fa9-fce7-777d-b242-8e079b3a015a",
+      "time": "2026-05-22 20:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Industrial Product Price Index (MoM) (Apr) | actual 2% | consensus 1.30% | previous 2.40%"
+    },
+    {
+      "id": "mkt:019e4fa9-fce4-777d-b242-7d4064994ec2",
+      "time": "2026-05-22 20:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Raw Material Price Index (YoY) (Apr) | actual 31.6% | previous 23.6%"
+    },
+    {
+      "id": "mkt:019e4fa9-fce6-777d-b242-8316d5b2402d",
+      "time": "2026-05-22 20:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Raw Material Price Index (MoM) (Apr) | actual 2.6% | consensus 2.60% | previous 12.00%"
+    },
+    {
+      "id": "mkt:019e4fa9-fcb5-777d-b242-710f8a5fa85d",
+      "time": "2026-05-22 20:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Industrial Product Price Index (YoY) (Apr) | actual 11.4% | previous 7.8%"
+    },
+    {
+      "id": "mkt:019e4fa9-fca6-777d-b242-6d8b00cec532",
+      "time": "2026-05-22 20:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Retail Sales (MoM) (Mar) | actual 0.9% | consensus 0.60% | previous 0.70%"
+    },
+    {
+      "id": "4895226",
+      "time": "2026-05-22 20:29:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST新華錦：控股股東等二十二家公司實質合併重整，啟動意向投資人預招募】ST新華錦公告，公司此前獲悉控股股東山東魯錦進出口集團有限公司及間接控股股東新華錦集團有限公司等二十二家公司於2026年4月10日被法院裁定實質合併重整。本次最新進展為，上述二十二家公司實質合併重整管理人於2026年5月22日在京東資產交易平臺釋出了意向投資人預招募公告，對重整資產基本情況、預招募目的、條件及報名方式等進行了說明。目前公司生產經營一切正常，該事項未對日常經營造成重大實質影響。"
+    },
+    {
+      "id": "4895224",
+      "time": "2026-05-22 20:28:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "世界衛生組織負責人：荷蘭確認一名船員新增漢坦病毒感染病例。"
+    },
+    {
+      "id": "4895223",
+      "time": "2026-05-22 20:28:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【火聖宇航發動機核心技術獲突破 計劃2028年發射成本降至1萬元/公斤】商業航天取得關鍵技術突破。近日，火聖宇航自主研製的“火聖一號”200噸級全流量分級燃燒迴圈液氧甲烷發動機順利完成富氧預燃室縮比樣機熱試車。火聖宇航創始人葛明和介紹，計劃2028年實現齊天二號火箭首飛，將發射成本降至1萬元人民幣/公斤，構建低成本、高可靠、批產化的商業航天運力體系。"
+    },
     {
       "id": "4895222",
       "time": "2026-05-22 20:27:30",
@@ -144303,214 +144455,6 @@
         "市場"
       ],
       "text": "富時 100 指數下跌 2%，報 10165.26 點。"
-    },
-    {
-      "id": "mkt:019e2b9f-f45f-7dd3-bfd7-d204f58e12cb",
-      "time": "2026-05-15 20:32:36",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | New York Fed Employment Index (May) | actual 8.3 | previous 9.8"
-    },
-    {
-      "id": "mkt:019e2b9f-d3d8-7440-b039-eceed3cf755d",
-      "time": "2026-05-15 20:32:31",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | New York Fed Prices Received Index (May) | actual 31.8 | previous 21.8"
-    },
-    {
-      "id": "mkt:019e2b9f-a494-7440-b039-e25c3b95f332",
-      "time": "2026-05-15 20:32:23",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | New York Fed New Orders Index (May) | actual 22.7 | previous 19.3"
-    },
-    {
-      "id": "4882296",
-      "time": "2026-05-15 20:32:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "【恆銘達：上調回購股份價格上限至107.74元/股】恆銘達(002947.SZ)公告稱，鑑於近期公司股票價格持續高於回購股份方案確定的回購價格上限，公司回購股份價格上限由66.64元/股(含本數)調整至107.74元/股(含本數)，調整後的回購股份價格上限自5月16日起生效。公司本次回購股份的資金總額不低於2億元（含本數）且不超過4億元（含本數），截至目前，公司已累計回購股份數量為626.66萬股，佔公司目前總股本比例的2.45%，最高成交價為53.5元/股。"
-    },
-    {
-      "id": "4882295",
-      "time": "2026-05-15 20:32:16",
-      "tags": [
-        "資料"
-      ],
-      "text": "加拿大3月製造業新訂單月率 4.7%，前值6.7%；加拿大3月製造業庫存月率 1.3%，前值0.6%。"
-    },
-    {
-      "id": "mkt:019e2b9f-730d-7dd3-bfd7-ce66edbebc48",
-      "time": "2026-05-15 20:32:05",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Canada | Manufacturing Unfilled Orders (MoM) (Mar) | actual 2.4% | previous 2.3%"
-    },
-    {
-      "id": "mkt:019e2b9f-6c5e-7dd3-bfd7-c5cfffda5c99",
-      "time": "2026-05-15 20:31:59",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Canada | Manufacturing Inventory-To-Sales Ratio (Mar) | actual 1.69% | previous 1.71%"
-    },
-    {
-      "id": "mkt:019e2b9f-69bf-7dd3-bfd7-b96c2b618593",
-      "time": "2026-05-15 20:31:49",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Canada | Manufacturing New Orders (MoM) (Mar) | actual 4.7% | previous 6.7%"
-    },
-    {
-      "id": "4882294",
-      "time": "2026-05-15 20:31:43",
-      "tags": [
-        "市場"
-      ],
-      "text": "LME倫銅跌幅擴大，現跌3.0%，最新報13520.0美元/噸。"
-    },
-    {
-      "id": "mkt:019e2b9f-69b5-7dd3-bfd7-b72fac9d4393",
-      "time": "2026-05-15 20:31:38",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Canada | Manufacturing Inventories (MoM) (Mar) | actual 1.3% | previous 0.6%"
-    },
-    {
-      "id": "4882293",
-      "time": "2026-05-15 20:31:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "POET：將透過定向註冊股票發行融資 4 億美元 。"
-    },
-    {
-      "id": "te:economy:551195",
-      "time": "2026-05-15 20:31:22",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Tunisia",
-        "GDP Annual Growth Rate",
-        "Importance 0"
-      ],
-      "text": "Tunisia GDP Annual Growth Slows in Q1 — Tunisia’s economy expanded by 2.6% year-on-year in the first quarter of 2026, easing from 2.7% growth in the fourth quarter of 2025. Growth was driven mainly by the services sector, which rose 2.2%, supported by stronger activity in information and communication (4.1% versus 3.7%) and transport services (1.7% versus 0.2%). Manufacturing output increased by 3.1%, mainly due to food processing industries (15.1% versus 6.1%). Meanwhile, contractions in oil and natural gas extraction eased (-4.8% versus -13.8%) while activity slowed in electricity and gas distribution and generation (5.7% versus 10.6%) and in the mining sector (3.7% versus 12.8%). Compared with the previous quarter, Tunisia’s economy contracted by 0.3% in Q1 2026, reversing a 1% gain in the previous quarter."
-    },
-    {
-      "id": "em:jjsj_mgsj:202605153739158867",
-      "time": "2026-05-15 20:31:01",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "美國5月紐約聯儲製造業指數19.6，為2022年4月以來新高，預期7.5，前值11。"
-    },
-    {
-      "id": "4882292",
-      "time": "2026-05-15 20:30:57",
-      "tags": [
-        "市場"
-      ],
-      "text": "LME倫銅日內跌超3.00%，現報13520.000美元/噸。"
-    },
-    {
-      "id": "4882291",
-      "time": "2026-05-15 20:30:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大3月投資者淨買入海外證券 39億加元，前值由253.6億加元修正為252.7億加元；加拿大3月海外投資者淨買入加拿大證券 46.2億加元，前值由61.7億加元修正為58.4億加元。"
-    },
-    {
-      "id": "4882290",
-      "time": "2026-05-15 20:30:35",
-      "tags": [
-        "資料"
-      ],
-      "text": "加拿大3月製造業裝船月率 3%，預期3.50%，前值3.60%。"
-    },
-    {
-      "id": "4882288",
-      "time": "2026-05-15 20:30:24",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美國5月紐約聯儲製造業指數 19.6，預期7.5，前值11；美國5月紐約聯儲製造業指數錄得19.6，為2022年4月以來新高。"
-    },
-    {
-      "id": "mkt:019e2b9e-56f5-7dd3-bfd7-ae4bf49ba07e",
-      "time": "2026-05-15 20:30:04",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Canada | Manufacturing Sales (MoM) (Mar) | actual 3% | consensus 3.50% | previous 3.60%"
-    },
-    {
-      "id": "mkt:019e2b9e-56f4-7dd3-bfd7-a0bcf4f1ea21",
-      "time": "2026-05-15 20:30:03",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Canada | Canadian Holdings Of Foreign Securities (Mar) | actual 3900000000B | previous 25360000000B"
-    },
-    {
-      "id": "mkt:019e2b9e-56f3-7dd3-bfd7-9c5ce489955e",
-      "time": "2026-05-15 20:30:03",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Canada | Foreign Holdings Of Canada Securities (Mar) | actual 4620000000B | previous 6170000000B"
-    },
-    {
-      "id": "mkt:019e2b9d-7853-7dd3-bfd7-975de3016356",
-      "time": "2026-05-15 20:30:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | New York Fed Manufacturing Index (May) | actual 19.6 | consensus 7.5 | previous 11"
-    },
-    {
-      "id": "te:economy:551194",
-      "time": "2026-05-15 20:29:53",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Canada",
-        "Housing Starts",
-        "Importance 1"
-      ],
-      "text": "Canada Housing Starts Hit Four-Month High — Housing starts in Canada jumped 17% to an annualized 279,300 units in April 2026 from the previous month, well above market forecasts of 240,000 units. The reading marked the highest level of housing starts in four months, pointing to renewed strength in residential construction activity. Rural starts were estimated at 13,694 units. Meanwhile, the six-month moving average of housing starts, which smooths monthly volatility, rose 3.2% to 256,777 units."
     }
   ]
 }
