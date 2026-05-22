@@ -1,7 +1,113 @@
 {
-  "updated": "2026-05-22 09:48:46",
+  "updated": "2026-05-22 09:52:34",
   "count": 16141,
   "items": [
+    {
+      "id": "4893953",
+      "time": "2026-05-22 09:51:47",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【光刻膠板塊衝高，格林達漲停】光刻膠板塊衝高，格林達漲停，怡達股份、聚石化學、岱勒新材、思泰克跟漲。"
+    },
+    {
+      "id": "4893952",
+      "time": "2026-05-22 09:51:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【先導基電成立芯耀科技公司 含半導體相關業務】企查查APP顯示，近日，安徽先導芯耀科技有限公司成立，註冊資本2000萬元，經營範圍包含半導體分立器件製造；半導體分立器件銷售；半導體照明器件製造；半導體照明器件銷售；半導體器件專用裝置製造等。企查查股權穿透顯示，該公司由先導基電全資持股。"
+    },
+    {
+      "id": "mkt:019e4d61-6b64-7aa1-9583-71ad82c19565",
+      "time": "2026-05-22 09:51:30",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AMD.O",
+        "Impact bullish"
+      ],
+      "text": "AMD CEO LISA SU: CPU, WE ARE RAMPING UP QUICKLY"
+    },
+    {
+      "id": "4893951",
+      "time": "2026-05-22 09:51:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘇姿豐表示：CPU業務我們正在快速擴產。"
+    },
+    {
+      "id": "4893950",
+      "time": "2026-05-22 09:50:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘇姿豐表示：我們目前在各個環節都面臨供應鏈瓶頸問題，但這些問題正在得到快速解決。"
+    },
+    {
+      "id": "4893949",
+      "time": "2026-05-22 09:50:19",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【建材板塊異動拉昇 金隅集團漲停】建材板塊異動拉昇，金隅集團漲停，中材科技、森鷹窗業、長海股份等股紛紛上漲。"
+    },
+    {
+      "id": "mkt:019e4d60-149c-7aa1-9583-6fa7a7dff90e",
+      "time": "2026-05-22 09:50:02",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AMD.O",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "AMD CEO LISA SU: WE ARE RUNNING PRODUCTION IN TSMC ARIZONA AND IT IS EXCELLENT"
+    },
+    {
+      "id": "4893948",
+      "time": "2026-05-22 09:49:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【智譜面向部分企業客戶開放GLM-5.1高速版】5月22日，智譜宣佈面向部分企業客戶提供GLM-5.1高速版API“GLM-5.1-highspeed”，模型輸出速度達到400 tokens/s。據介紹，GLM-5.1高速版適用於AI程式設計、實時互動、商業決策、實時語音等對響應延遲要求極高的場景，現已面向智譜MaaS平臺部分企業客戶開放服務。"
+    },
+    {
+      "id": "4893947",
+      "time": "2026-05-22 09:49:20",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "【N惠康漲超200% 觸發二次臨停】新股N惠康擴大漲幅至200%，觸發二次臨停，成交近8億元。資料顯示，公司深耕製冷領域，是一家集製冰機、冷櫃、冰箱、酒櫃等製冷裝置研發、生產、銷售於一體的國家高新技術企業。"
+    },
+    {
+      "id": "4893946",
+      "time": "2026-05-22 09:49:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘇姿豐表示：“可以看到CPU及部分特定應用積體電路（ASIC）的業務正開始實現增長。”"
+    },
+    {
+      "id": "mkt:019e4d5e-e628-7aa1-9583-639e16fae2d4",
+      "time": "2026-05-22 09:48:45",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AMD.O",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "AMD CEO LISA SU: YOU ARE STARTING TO SEE CPU AND SOME ASICS GROW"
+    },
     {
       "id": "4893945",
       "time": "2026-05-22 09:47:52",
@@ -145016,123 +145122,6 @@
         "焦點"
       ],
       "text": "科創50日內跌幅達2.17%，成分股中，晶科能源跌7.60%，天嶽先進跌7.11%，阿特斯跌5.54%，中科飛測跌5.64%。"
-    },
-    {
-      "id": "4881004",
-      "time": "2026-05-15 09:51:41",
-      "tags": [
-        "市場"
-      ],
-      "text": "納斯達克100指數期貨下跌0.5%，抹去早盤漲幅。"
-    },
-    {
-      "id": "mkt:019e2954-3dfd-7bb5-b4d4-c5314c0fcb7e",
-      "time": "2026-05-15 09:50:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TRUMP: GETTING IRAN'S ENRICHED URANIUM IS MORE FOR PUBLIC RELATIONS THAN ANYTHING ELSE-FOX NEWS INTERVIEW"
-    },
-    {
-      "id": "4881003",
-      "time": "2026-05-15 09:50:17",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "三星電子股價下跌3%。"
-    },
-    {
-      "id": "mkt:019e2953-ca5b-7bb5-b4d4-bb71c5e4af45",
-      "time": "2026-05-15 09:50:16",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "TRUMP: IRAN'S ENRICHED URANIUM CAN BE ENTOMBED BUT I'D RATHER GET IT-FOX NEWS INTERVIEW"
-    },
-    {
-      "id": "mkt:019e2953-bb96-7bb5-b4d4-b74f7cf16dd8",
-      "time": "2026-05-15 09:50:10",
-      "tags": [
-        "MKT News",
-        "005930.KS",
-        "Impact bearish"
-      ],
-      "text": "SHARES OF SAMSUNG ELECTRONICS FALL 3%"
-    },
-    {
-      "id": "mkt:019e2953-a15a-7bb5-b4d4-aef74fe154f5",
-      "time": "2026-05-15 09:50:03",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "SZSE Component",
-        "Impact bearish"
-      ],
-      "text": "SHENZHEN COMPONENT INDEX, CHINEXT DOWN OVER 1%"
-    },
-    {
-      "id": "4881002",
-      "time": "2026-05-15 09:49:38",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "創業板指跌1.02%，現報3910.885點；上證指數跌0.83%，現報4143.430點；深證成指跌1.03%，現報15583.169點。"
-    },
-    {
-      "id": "4881001",
-      "time": "2026-05-15 09:49:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊朗的濃縮鈾可封存掩埋，但我更傾向於取回。"
-    },
-    {
-      "id": "4881000",
-      "time": "2026-05-15 09:49:35",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "深證成指跌1.01%，現報15587.215點；上證指數跌0.82%，現報4143.622點；創業板指跌0.98%，現報3912.269點。"
-    },
-    {
-      "id": "mkt:019e2953-2135-7bb5-b4d4-a41e109b9939",
-      "time": "2026-05-15 09:49:34",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish",
-        "SSE Composite",
-        "Hang Seng Index"
-      ],
-      "text": "FTSE CHINA A50 INDEX FUTURES DOWN OVER 1%"
-    },
-    {
-      "id": "mkt:019e2952-883f-7bb5-b4d4-9dcade9d490b",
-      "time": "2026-05-15 09:48:52",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish",
-        "SSE Composite"
-      ],
-      "text": "CHINA'S STAR 50 INDEX DOWN OVER 1%"
     }
   ]
 }
