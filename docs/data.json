@@ -1,7 +1,19 @@
 {
-  "updated": "2026-05-23 05:21:02",
+  "updated": "2026-05-23 05:24:52",
   "count": 16153,
   "items": [
+    {
+      "id": "te:economy:553198",
+      "time": "2026-05-23 05:20:47",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Paraguay",
+        "Interest Rate",
+        "Importance 0"
+      ],
+      "text": "Paraguay Central Bank Holds Rate at 5.50% — The Central Bank of Paraguay kept its benchmark interest rate unchanged at 5.50% during its May 2026 meeting. Policymakers noted that markets expect the US Federal Reserve to raise interest rates early next year. In commodity markets, oil prices remained highly volatile amid geopolitical tensions in the Middle East, while soybean, corn, and wheat prices increased due to adverse weather, higher production costs, and stronger global demand. Domestically, Paraguay’s Monthly Economic Activity Indicator grew 8.2% year-on-year in March, supported by services, manufacturing, and the primary sector. The Business Turnover Estimate also rose 9.2%, reflecting stronger sales across several categories. Meanwhile, consumer prices increased 0.8% in April, mainly driven by higher fuel prices, lifting annual inflation to 2.3%. Inflation expectations remained anchored at 3.5% for both the next 12 months and the monetary policy horizon."
+    },
     {
       "id": "4895836",
       "time": "2026-05-23 05:19:36",
@@ -144972,14 +144984,6 @@
         "國際"
       ],
       "text": "13F報告顯示：Citadel Advisors LLC.一季度建倉阿斯利康、iShares白銀信託等，增持美光、Meta、華納兄弟探索等。清倉以色列Teva等，減持亞馬遜、Visa、英偉達等。重倉英偉達、亞馬遜、美光。"
-    },
-    {
-      "id": "4882979",
-      "time": "2026-05-16 05:21:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "黎巴嫩國家通訊社訊息：以色列襲擊黎巴嫩南部民防中心，已造成至少 6 人死亡，其中含 3 名醫護人員，另有 22 人受傷。"
     }
   ]
 }
