@@ -1,7 +1,18 @@
 {
-  "updated": "2026-05-23 06:27:27",
-  "count": 16166,
+  "updated": "2026-05-23 06:31:10",
+  "count": 16164,
   "items": [
+    {
+      "id": "te:markets:553204",
+      "time": "2026-05-23 06:30:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural gas Drops by 3.21% — Top commodity losers are Natural gas (-3.21%), Natural Gas UK (-3.16%) and Methanol (-1.63%). Gains are led by Gasoline (2.46%), Heating Oil (2.37%), Brent Crude Oil (1.33%) and Crude Oil WTI (0.67%)."
+    },
     {
       "id": "4895866",
       "time": "2026-05-23 06:21:41",
@@ -145076,33 +145087,6 @@
         "國際"
       ],
       "text": "美國最高法院作出裁決，駁回弗吉尼亞州民主黨在 11 月大選前重啟偏向民主黨眾議院選區劃分方案的訴求。"
-    },
-    {
-      "id": "te:markets:551310",
-      "time": "2026-05-16 06:30:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Natural Gas UK Soars by 6.84% — Top commodity gainers are Natural Gas UK (6.84%), Natural Gas EU (6.71%), Germany Natural Gas THE (5.10%), Crude Oil WTI (4.44%) and Brent Crude Oil (3.33%). Biggest losers are Methanol (-1.96%) and Ethanol (-1.41%)."
-    },
-    {
-      "id": "4883002",
-      "time": "2026-05-16 06:28:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：海峽將開放，伊朗將不會擁有核武器，我毫不懷疑伊朗很快會屈服。"
-    },
-    {
-      "id": "4883001",
-      "time": "2026-05-16 06:27:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊朗懼怕（與美方）達成一份協議。打交道的是一群不敢達成協議的人，伊朗不知道該如何達成一份協議。伊朗戰爭很快就會結束。"
     }
   ]
 }
