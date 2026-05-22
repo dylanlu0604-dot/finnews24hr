@@ -1,7 +1,35 @@
 {
-  "updated": "2026-05-23 00:47:07",
-  "count": 16127,
+  "updated": "2026-05-23 00:50:58",
+  "count": 16117,
   "items": [
+    {
+      "id": "4895627",
+      "time": "2026-05-23 00:50:01",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【歷史性大提貨！托克從LME倉庫瘋狂登出提走海量期銅】隨著市場湧現出極具誘惑力的套利交易商機，全球大宗商品貿易巨頭托克集團（Trafigura Group）已採取行動，正從倫敦金屬交易所（LME）旗下的海外倉庫中，瘋狂提走價值數億美元的庫存期銅。官方資料顯示，這家貿易巨頭5月22日集中下單，一口氣從LME位於美國和亞洲的保稅倉庫中申請登出並提取了超過5.1萬噸期銅，這是LME自2013年以來規模最大的一筆單日交割提貨單。 本輪歷史性提貨潮的核心誘因在於，紐約商品交易所（Comex）的銅期貨價格近期一路狂飆，大幅超越了倫敦LME的基準銅價。這種極為罕見的跨市場剪刀差，正瘋狂刺激著全球貿易商將銅庫存成批運往美國本土進行實物交割。"
+    },
+    {
+      "id": "4895626",
+      "time": "2026-05-23 00:47:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中澳召開第18屆部長級經濟聯委會】5月21日，商務部部長王文濤在蘇州與來華出席亞太經合組織貿易部長會的澳大利亞貿易和旅遊部長法瑞爾共同主持召開第18屆中澳部長級經濟聯委會。李成鋼國際貿易談判代表兼副部長出席。雙方就深化雙邊經貿關係、加強區域和多邊領域合作深入交換意見。（商務部網站）"
+    },
+    {
+      "id": "mkt:019e5095-dad0-7443-baf7-ac16594dedf0",
+      "time": "2026-05-23 00:47:38",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "US NY FED GDP NOWCAST Q2: 2.61% (PREV 2.61%)"
+    },
     {
       "id": "mkt:019e5093-33d7-7443-baf7-a37b0df3d1f7",
       "time": "2026-05-23 00:44:44",
@@ -144731,126 +144759,6 @@
         "Impact bullish"
       ],
       "text": "MICROSOFT STOCK MOVES HIGHER AFTER ACKMAN ANNOUNCES NEW STAKE - WSJ"
-    },
-    {
-      "id": "4882716",
-      "time": "2026-05-16 00:50:13",
-      "tags": [
-        "市場"
-      ],
-      "text": "【英國政府融資成本飆漲約18個基點，創2008年以來新高】週五（5月15日）歐市尾盤，英國10年期國債收益率漲17.8個基點，報5.172%，逼近2008年7月2日頂部5.198%、2007年8月8日頂部5.309%、2007年7月9日頂部5.564%，本週累計上漲26個基點，5月11-12日顯著上漲，13-14日有所回撤。兩年期英債收益率漲12.5個基點，報4.551%，本週累漲16.8個基點。30年期英債收益率累漲26.9個基點，報5.849%；50年期英債收益率累漲21.1個基點，報5.360%。2/10年期英債收益率利差累漲9.199個基點，報+61.929個基點。"
-    },
-    {
-      "id": "4882715",
-      "time": "2026-05-16 00:49:22",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國天然氣期貨日內漲幅擴大至3.00%，現報2.981美元/百萬英熱。"
-    },
-    {
-      "id": "mkt:019e2c8a-e59a-7663-82fa-e15872a89737",
-      "time": "2026-05-16 00:49:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "EUROCLEAR: WILL APPEAL THE COURT'S DECISION"
-    },
-    {
-      "id": "mkt:019e2c8a-dc38-7663-82fa-dc29f13d6c94",
-      "time": "2026-05-16 00:49:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "EUROCLEAR- CO'S OPERATIONS AND FINANCIAL POSITION ARE UNAFFECTED BY THE COURT’S DECISION"
-    },
-    {
-      "id": "mkt:019e2c8a-c678-7663-82fa-d0d41f9715ce",
-      "time": "2026-05-16 00:49:12",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "Brent"
-      ],
-      "text": "EUROCLEAR: CENTRAL BANK OF RUSSIA’S ASSETS HELD AT EUROCLEAR BANK REMAIN IMMOBILISED, IN LINE WITH THE INTERNATIONAL SANCTIONS"
-    },
-    {
-      "id": "4882714",
-      "time": "2026-05-16 00:49:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐洲清算中心：將對法院的裁決提起上訴。"
-    },
-    {
-      "id": "mkt:019e2c8a-b464-7663-82fa-cdf3e90fedc7",
-      "time": "2026-05-16 00:49:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "EUROCLEAR: STRONGLY CONTESTS THIS CLAIM, WHICH IS WITHOUT MERIT."
-    },
-    {
-      "id": "mkt:019e2c8a-a2fb-7663-82fa-c5d10543304e",
-      "time": "2026-05-16 00:49:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "EUROCLEAR: AWARE THAT MOSCOW COURT OF ARBITRATION HAS HANDED DOWN JUDGMENT FAVOURING CENTRAL BANK OF RUSSIA IN ITS CLAIM AGAINST EUROCLEAR BANK"
-    },
-    {
-      "id": "mkt:019e2c8a-63e5-7663-82fa-bf12b2e77adc",
-      "time": "2026-05-16 00:48:47",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact mixed"
-      ],
-      "text": "US NY FED GDP NOWCAST Q2: 2.61% (PREV 2.59%)"
-    },
-    {
-      "id": "4882713",
-      "time": "2026-05-16 00:48:24",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "歐洲清算中心：公司運營與財務狀況未受到該法院裁決的影響。"
-    },
-    {
-      "id": "4882712",
-      "time": "2026-05-16 00:48:10",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲清算中心：存放在歐洲清算銀行的俄羅斯央行資產仍依據國際制裁規定處於凍結狀態。"
-    },
-    {
-      "id": "4882711",
-      "time": "2026-05-16 00:47:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐洲清算中心：強烈對該主張提出抗辯，該主張毫無法律依據。"
-    },
-    {
-      "id": "4882710",
-      "time": "2026-05-16 00:47:35",
-      "tags": [
-        "央行",
-        "公司",
-        "國際"
-      ],
-      "text": "歐清結算集團：我方已獲知莫斯科仲裁法院就俄羅斯中央銀行針對歐清銀行的索賠作出了有利於俄央行的判決。"
     }
   ]
 }
