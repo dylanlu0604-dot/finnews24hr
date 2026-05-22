@@ -1,7 +1,97 @@
 {
-  "updated": "2026-05-22 20:52:51",
-  "count": 16078,
+  "updated": "2026-05-22 20:56:45",
+  "count": 16082,
   "items": [
+    {
+      "id": "te:markets:553114",
+      "time": "2026-05-22 20:56:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Crude Down About 6% On the Week — Brent crude futures were around $103 a barrel on Friday, after rising to as high as $106 early in the session, as renewed hopes emerged that the US and Iran could reach a diplomatic agreement. US Secretary of State Marco Rubio said there had been “slight progress” in mediated talks with Iran. Tehran is currently reviewing the latest US proposal delivered through Pakistan, although no timeline has been provided for an official response. Despite the renewed optimism, uncertainty persists over whether the conflict can be resolved and whether the Strait of Hormuz can fully reopen, leaving investors highly sensitive to mixed signals from both sides. Even so, Brent futures remain down more than 6% for the week, as markets continue to price in the possibility that the opposing parties may ultimately reach an agreement."
+    },
+    {
+      "id": "4895279",
+      "time": "2026-05-22 20:55:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華燦光電：持股5%以上股東華髮科技產業集團承諾6個月內不減持公司股份】華燦光電公告，持股5%以上股東珠海華髮科技產業集團有限公司出具承諾函，基於對公司未來發展前景的信心及長期投資價值的認可，自願承諾自2026年5月21日起6個月內（至2026年11月20日），不以任何方式減持其持有的公司全部股份2.97億股（佔公司總股本18.27%）。"
+    },
+    {
+      "id": "mkt:019e4fc1-1540-7113-afb3-cef6cadd1adb",
+      "time": "2026-05-22 20:55:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "LMT.O",
+        "Impact bullish",
+        "RTX.O",
+        "NOC.O"
+      ],
+      "text": "【Rubio Meets NATO Leaders in Sweden, Signs Technology Cooperation Agreement】Marco Rubio met NATO leaders in Sweden ahead of a major summit and signed a technology cooperation agreement with Swedish officials during high-level talks focused on NATO coordination, defense cooperation and Western technology partnerships. The meeting comes as the Trump administration presses allies to raise defense spending while expanding economic and technology ties across Europe."
+    },
+    {
+      "id": "4895278",
+      "time": "2026-05-22 20:54:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "博迪科特收到阿波羅集團每股 885 便士現金收購提議。"
+    },
+    {
+      "id": "4895277",
+      "time": "2026-05-22 20:54:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【曼城確認瓜迪奧拉今夏離任】英超曼城俱樂部22日確認，主教練瓜迪奧拉將在24日曼城對陣阿斯頓維拉的英超收官戰後離開球隊，結束他在這裡長達十年的執教生涯。（新華社）"
+    },
+    {
+      "id": "4895276",
+      "time": "2026-05-22 20:54:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【訊息稱任天堂計劃本財年生產 2000 萬臺 Switch 2，比原先銷量目標高二成】知情人士訊息稱，任天堂要求供應鏈合作伙伴，在截至明年 3 月的財年內生產約 2000 萬臺 Nintendo Switch 2，比任天堂本月公開給出的 1650 萬臺銷售目標高出約 20%。訊息人士表示，目前的生產計劃還沒有最終敲定，未來仍可能根據市場需求調整。不過，從現階段安排來看，任天堂預估對 Switch 2 後續銷量相當有信心，尤其寄望於接下來推出的新遊戲陣容進一步帶動銷售。"
+    },
+    {
+      "id": "4895275",
+      "time": "2026-05-22 20:53:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國檢察官就典禮相關合同搜查愛麗捨宮。"
+    },
+    {
+      "id": "4895274",
+      "time": "2026-05-22 20:53:06",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【小鵬汽車收購印尼電動車工廠90.1%股權，東南亞本地化戰略加速】5月22日，根據印尼證券交易所（IDX）披露的檔案，中國新勢力車企小鵬汽車已正式完成對印尼上市公司PT Sinar Eka Selaras Tbk旗下電動車製造實體EIDO 90.1%股權的收購。該交易於5月13日生效，總計154072股，由小鵬汽車國際控股（香港）有限公司作為收購主體。此項收購標誌著小鵬汽車在東南亞市場從“借船出海”的代工模式，邁入“造船出海”的本土化重資產運營新階段。根據交易公告，此次收購的核心資產為EIDO位於印尼西爪哇省普拉卡塔的電動車生產與組裝工廠。該工廠是小鵬汽車首個海外生產基地，採用完全散件組裝（CKD）模式。（中證金牛座）"
+    },
+    {
+      "id": "4895273",
+      "time": "2026-05-22 20:52:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【高市早苗團隊被曝僱人製作影片抹黑競選對手】日本媒體近日曝出，首相高市早苗的團隊在去年自民黨總裁選舉和今年2月國會眾議院選舉期間，僱人製作並散佈抹黑競選對手的影片，引發廣泛關注。高市22日對上述說法予以否認，稱自己和團隊“完全沒做過此事”。據日本《週刊文春》雜誌報道，據信高市的秘書木下剛志為這起事件的核心人物。木下剛志與影片製作者松井健多次聯絡，要求後者製作併發布抹黑高市在自民黨內競爭對手以及在野黨候選人的相關影片。2025年高市競選自民黨總裁期間，松井健用匿名賬號釋出影片，稱候選人小泉進次郎“無能且惹眾怒”，稱另一候選人林芳正“應該出局”。今年眾議院選舉期間，松井健又在木下剛志授意下製作併發布影片抹黑在野黨立憲民主黨候選人。本月18日，松井健在網路直播中公開承認上述報道內容屬實。他表示，自己與高市的秘書透過網路溝通相關事宜，但不清楚高市本人是否知情。（新華社）"
+    },
+    {
+      "id": "4895272",
+      "time": "2026-05-22 20:52:22",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【哈塞特希望鮑威爾儘快離開美聯儲 讓沃什能“輕鬆”掌控】美國國家經濟委員會主任凱文·哈塞特在接受採訪時談及即將卸任美聯儲主席的傑羅姆·鮑威爾和候任主席凱文·沃什時表示：“希望他能儘快離開，這樣凱文就能完全、輕鬆地執掌美聯儲。”哈塞特表示，“希望傑伊（鮑威爾）能夠讓位，這樣我們就能安排另一位理事進入美聯儲。”他同時重申，“我們絕對尊重美聯儲的獨立性。”"
+    },
     {
       "id": "mkt:019e4fbd-c92f-7113-afb3-c34c96dc5d1d",
       "time": "2026-05-22 20:51:38",
@@ -19,12 +109,28 @@
       "text": "【巴基斯坦陸軍參謀長已前往德黑蘭 將與伊朗高階官員會面】總檯記者獲悉，一名巴基斯坦外交訊息人士稱，當地時間22日下午，巴基斯坦陸軍參謀長穆尼爾已前往伊朗首都德黑蘭。該訊息人士稱，穆尼爾此行計劃同伊朗高階官員舉行會晤，推動伊美談判。（央視新聞）"
     },
     {
+      "id": "4895270",
+      "time": "2026-05-22 20:50:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【今夏大部地區氣溫或偏高 今夏全國最高用電負荷預計大增】據多個國家的氣象機構研判，2026年可能發生較強的厄爾尼諾現象。受此影響，今年夏季全國最高用電負荷預計將大幅增長。根據國家氣候中心預測，今年夏天全國大部分地區氣溫較常年同期偏高。高溫天氣將大幅增加空調降溫用電需求，乾旱天氣可能影響水電發電能力，部分極端天氣可能導致電力裝置受損停運，這些都會對電力安全穩定執行帶來影響，增加能源電力保供壓力。國家發展改革委新聞發言人李超表示：“綜合研判，今夏全國最高用電負荷將達到16億千瓦左右，較去年增加9000萬千瓦左右，相當於多出一個河南省的用電負荷。” 國家發展改革委表示，將大力推進電源建設投產，1到4月，全國新增發電裝機容量約1億千瓦。同時，加強電煤儲備和水電蓄能，截至4月底，全國統調電廠存煤達到2億噸左右，可用天數超過30天；水電蓄能超過800億千瓦時，處於歷史較好水平，要做好跨省跨區電力互濟準備。（央視財經）"
+    },
+    {
       "id": "4895269",
       "time": "2026-05-22 20:50:15",
       "tags": [
         "公司"
       ],
       "text": "【紐曼思：出售600萬股聯想集團股份，總代價約8970萬港元】紐曼思公告，於2026年5月22日，集團於公開市場以總代價約8970萬港元（包括印花稅及相關開支）出售總共600萬股聯想集團股份，平均出售價約為每股14.95港元。完成出售後，公司於聯想集團股份的持股量將減少至400萬股。出售事項為本公司提供了變現其於聯想集團投資之機會，預期將確認未經稽核收益約3520萬港元。"
+    },
+    {
+      "id": "4895268",
+      "time": "2026-05-22 20:50:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【葉向東任中國華電集團有限公司董事長、黨組書記】據“中國華電”微信公眾號訊息，5月22日，中國華電集團有限公司召開中層以上管理人員大會。中央組織部有關負責同志宣佈了中央關於中國華電集團有限公司董事長、黨組書記調整的決定：葉向東同志任中國華電集團有限公司董事長、黨組書記，免去其中國華電集團有限公司總經理職務；免去江毅同志的中國華電集團有限公司董事長、黨組書記職務。相關職務任免，按有關法律和章程的規定辦理。"
     },
     {
       "id": "4895267",
@@ -144259,93 +144365,6 @@
         "市場"
       ],
       "text": "【證監會發布《證券期貨業研發運營一體化體系建設指南》等4項行業標準】證監會公告，金融行業推薦性標準《證券期貨業研發運營一體化體系建設指南》（JR/T0351—2026）、《證券期貨業業務域資料元規範第1部分：證券公司》（JR/T0331.1—2026）、《證券期貨業業務域資料元規範第6部分：公開募集不動產投資信託基金業務》（JR/T0331.6—2026）、《證券期貨業標準化工作導則第1部分：標準的名稱》（JR/T0352.1—2026），自公佈之日起施行。（中國證監會）"
-    },
-    {
-      "id": "4882340",
-      "time": "2026-05-15 20:55:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "據知情人士透露，歐洲武器製造商Destinus正與投資者洽談，計劃在計劃中的首次公開募股前籌集約2億歐元（2.34億美元）。"
-    },
-    {
-      "id": "4882339",
-      "time": "2026-05-15 20:54:46",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【富達投資經理在伊朗戰爭爆發前押注通脹上升獲利】早在伊朗戰爭爆發之前，富達國際投資組合經理邁克·裡德爾就對全球物價壓力正在緩解的觀點持懷疑態度。他當時逆勢而為的押注——通脹即將上升，如今已獲得豐厚回報。幾個月前，他買入了美國和英國的通脹互換合約，本質上是為了防範通脹高於預期的風險。這是因為他認為，在伊朗戰爭導致油價飆升至每桶 100 美元以上之前，債券市場（以及他的大多數同行）對通脹的定價就嚴重低估了通脹風險。裡德爾在接受採訪時表示：“考慮到全球投資者預期的多次降息，中東衝突的風險絕對沒有反映在利率中。”儘管略微減持了倉位，他仍然持有通脹互換合約。"
-    },
-    {
-      "id": "mkt:019e2bb4-79f6-7440-b03a-547a9b3c72e5",
-      "time": "2026-05-15 20:54:44",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "US10Y",
-        "Impact bullish",
-        "DXY",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "US INTEREST RATE FUTURES NOW REFLECT MORE THAN 50% PROBABILITY OF A FED RATE HIKE BY JANUARY"
-    },
-    {
-      "id": "te:markets:551208",
-      "time": "2026-05-15 20:54:23",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Crude Up 7% This Week — Brent crude oil futures rose past $108 per barrel on Friday and were on track for a weekly gain of around 7% as the Strait of Hormuz remained effectively closed, keeping global supply concerns elevated. Efforts to end the conflict remain stalled, with disruptions continuing to impact energy markets and fuel inflation fears. President Donald Trump delivered mixed messages on the situation, first saying the US did not need the Strait open before later stating alongside Chinese President Xi Jinping that “we want the straits open.” The International Energy Agency warned this week that the oil market could remain severely undersupplied until October even if fighting ends next month. Oil inventories continue to tighten, while tanker traffic through Hormuz remains extremely limited, with only a small number of vessels managing to leave the Persian Gulf since the conflict began."
-    },
-    {
-      "id": "4882338",
-      "time": "2026-05-15 20:54:09",
-      "tags": [
-        "市場",
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "美國利率期貨目前顯示，美聯儲在1月前加息的機率已超過50%。"
-    },
-    {
-      "id": "mkt:019e2bb3-3f9e-7440-b03a-4be3a8efbee4",
-      "time": "2026-05-15 20:53:47",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Copper",
-        "Impact bearish"
-      ],
-      "text": "LME THREE MONTH COPPER FALLS 3.2% TO $13,489/T"
-    },
-    {
-      "id": "4882337",
-      "time": "2026-05-15 20:53:41",
-      "tags": [
-        "市場"
-      ],
-      "text": "倫敦金屬交易所三個月期銅下跌3.2%，至每噸13489美元。"
-    },
-    {
-      "id": "te:markets:551207",
-      "time": "2026-05-15 20:53:30",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Oil Heads for Strong Weekly Gain — WTI crude oil futures climbed more than 3% to above $104 per barrel on Friday and were on track for a weekly gain of over 9% as the Strait of Hormuz remained effectively closed, keeping global supply concerns elevated. Efforts to end the conflict remain stalled, with disruptions continuing to impact energy markets and fuel inflation fears. President Donald Trump delivered mixed messages on the situation, first saying the US did not need the Strait open before later stating alongside Chinese President Xi Jinping that “we want the straits open.” The International Energy Agency warned this week that the oil market could remain severely undersupplied until October even if fighting ends next month. Oil inventories continue to tighten, while tanker traffic through Hormuz remains extremely limited, with only a small number of vessels managing to leave the Persian Gulf since the conflict began."
     }
   ]
 }
