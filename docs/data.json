@@ -1,7 +1,275 @@
 {
-  "updated": "2026-05-23 03:29:35",
-  "count": 16061,
+  "updated": "2026-05-23 03:33:36",
+  "count": 16076,
   "items": [
+    {
+      "id": "4895716",
+      "time": "2026-05-23 03:32:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic將於下週攜手合作方拓展Project Glasssing。"
+    },
+    {
+      "id": "4895715",
+      "time": "2026-05-23 03:31:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic介紹Project Glasssing的最新情況。"
+    },
+    {
+      "id": "4895714",
+      "time": "2026-05-23 03:31:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "比特幣跌破76000美元，日內跌2.21%。"
+    },
+    {
+      "id": "mkt:019e512a-ee0d-788e-b252-62eff0f59d3a",
+      "time": "2026-05-23 03:30:27",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "CFTC-SPECULATORS TRIM CBOT US 5-YEAR TREASURY FUTURES NET SHORT POSITION BY 11,629 CONTRACTS TO 1,350,516 IN WEEK ON MAY 19"
+    },
+    {
+      "id": "4895713",
+      "time": "2026-05-23 03:30:26",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）資料顯示，截至5月19日當週，芝加哥期貨交易所（CBOT）玉米投機商將淨多頭頭寸削減14227手，至148531手。"
+    },
+    {
+      "id": "mkt:019e512a-de45-788e-b252-5e8678ed80af",
+      "time": "2026-05-23 03:30:23",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "CFTC-SPECULATORS INCREASE CBOT US ULTRABOND TREASURY FUTURES NET SHORT POSITION BY 15,470 CONTRACTS TO 254,464 IN WEEK ON MAY 19"
+    },
+    {
+      "id": "4895712",
+      "time": "2026-05-23 03:30:20",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）資料顯示，截至5月19日當週，紐約商品交易所（COMEX）白銀投機客將淨多頭頭寸削減4434手，至11761手。"
+    },
+    {
+      "id": "mkt:019e512a-de24-788e-b252-553fe7bd65e2",
+      "time": "2026-05-23 03:30:20",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "CFTC-SPECULATORS INCREASE CBOT US 10-YEAR TREASURY FUTURES NET SHORT POSITION BY 66,885 CONTRACTS TO 848,052 IN WEEK ON MAY 19"
+    },
+    {
+      "id": "mkt:019e512a-dd0a-788e-b252-4a65a3cfa534",
+      "time": "2026-05-23 03:30:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "CFTC-SPECULATORS TRIM CBOT US 2-YEAR TREASURY FUTURES NET SHORT POSITION BY 41,775 CONTRACTS TO 1,560,837 IN WEEK ON MAY 19"
+    },
+    {
+      "id": "4895711",
+      "time": "2026-05-23 03:30:16",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）資料顯示，截至5月19日當週，紐約商品交易所（COMEX）黃金投機客將淨多頭頭寸削減6239手，至94388手。"
+    },
+    {
+      "id": "mkt:019e512a-dccc-788e-b252-414a79993e65",
+      "time": "2026-05-23 03:30:14",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "CFTC-SPECULATORS INCREASE CBOT US TREASURY BONDS FUTURES NET SHORT POSITION BY 5,820 CONTRACTS TO 178,674 IN WEEK ON MAY 19"
+    },
+    {
+      "id": "4895710",
+      "time": "2026-05-23 03:30:11",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）資料顯示，截至5月19日當週，紐約商品交易所（COMEX）銅投機客將淨多頭頭寸增加1476手，至74999手。"
+    },
+    {
+      "id": "4895709",
+      "time": "2026-05-23 03:30:06",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）資料顯示，在截至2026年5月19日的當周，日元淨空頭持倉為93,905手合約。"
+    },
+    {
+      "id": "mkt:019e512a-97b6-788e-b252-3c7ad277f736",
+      "time": "2026-05-23 03:30:06",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "CFTC- NATURAL GAS SPECULATORS IN FOUR MAJOR NYMEX, ICE MARKETS TRIM NET SHORT POSITION BY 20,228 CONTRACTS TO 2,026 IN WEEK TO MAY 19"
+    },
+    {
+      "id": "4895708",
+      "time": "2026-05-23 03:30:02",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）資料顯示，在截至2026年5月19日當週，歐元淨多頭頭寸為33,513手合約。"
+    },
+    {
+      "id": "mkt:019e512a-8661-788e-b252-369468077261",
+      "time": "2026-05-23 03:29:59",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "CFTC-COMEX COPPER SPECULATORS RAISE NET LONG POSITION BY 1,476 CONTRACTS TO 74,999 IN WEEK TO MAY 19"
+    },
+    {
+      "id": "4895707",
+      "time": "2026-05-23 03:29:56",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）資料顯示：在2026年5月19日當週，瑞士法郎淨空頭頭寸為-36,937張合約。"
+    },
+    {
+      "id": "mkt:019e512a-74ae-788e-b252-2d0ead2e8c71",
+      "time": "2026-05-23 03:29:55",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "CFTC-COMEX SILVER SPECULATORS CUT NET LONG POSITION BY 4,434 CONTRACTS TO 11,761 IN WEEK TO MAY 19"
+    },
+    {
+      "id": "4895706",
+      "time": "2026-05-23 03:29:51",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）：截至2026年5月19日當週，比特幣淨多頭持倉為2112手合約。"
+    },
+    {
+      "id": "mkt:019e512a-5b00-788e-b252-258434d5c075",
+      "time": "2026-05-23 03:29:50",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "CFTC-COMEX GOLD SPECULATORS CUT NET LONG POSITION BY 6,239 CONTRACTS TO 94,388 IN WEEK TO MAY 19"
+    },
+    {
+      "id": "4895705",
+      "time": "2026-05-23 03:29:45",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）資料顯示，截至5月19日當週，股票基金投機客將芝加哥商品交易所（CME）標普500淨空頭頭寸削減34200手，至384136手。"
+    },
+    {
+      "id": "mkt:019e512a-4118-788e-b252-1cf7905bee3e",
+      "time": "2026-05-23 03:29:44",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "CFTC-OIL SPECULATORS RAISE WTI NET LONG POSITION BY 15,017 CONTRACTS TO 110,348 IN WEEK TO MAY 19"
+    },
+    {
+      "id": "4895704",
+      "time": "2026-05-23 03:29:40",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）資料顯示，在截至5月19日的一週內，股票基金經理將其在芝加哥商業交易所（CME）標普500淨多頭頭寸削減了50929手合約，降至1005526手合約。"
+    },
+    {
+      "id": "mkt:019e512a-3035-788e-b252-148c0bfadf95",
+      "time": "2026-05-23 03:29:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish"
+      ],
+      "text": "CFTC- BRITISH POUND NET SHORT POSITION IS -64,307 CONTRACTS IN WEEK ENDED MAY 19 2026"
+    },
+    {
+      "id": "mkt:019e512a-24b9-788e-b252-0f9c4ace8342",
+      "time": "2026-05-23 03:29:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "CFTC-JAPANESE YEN NET SHORT POSITION IS -93,905 CONTRACTS IN WEEK ENDED MAY 19 2026"
+    },
+    {
+      "id": "mkt:019e512a-088e-788e-b252-00ae27881580",
+      "time": "2026-05-23 03:29:29",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Crypto Concepts",
+        "Bitcoin"
+      ],
+      "text": "CFTC- BITCOIN NET LONG POSITION IS 2,112 CONTRACTS IN WEEK ENDED MAY 19 2026"
+    },
     {
       "id": "4895703",
       "time": "2026-05-23 03:27:26",
@@ -144109,121 +144377,6 @@
         "國際"
       ],
       "text": "美國食品藥品管理局（FDA）頂級醫藥監管員Tracy Beth Hoeg離職。"
-    },
-    {
-      "id": "4882868",
-      "time": "2026-05-16 03:33:17",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會（CFTC）：5月12日當週，投機者所持NYMEX WTI原油淨多頭頭寸減少2,373手合約，至129,583手合約。\n所持ICE與布倫特原油淨多頭頭寸降低至10周新低。\n所持NYMEX汽油淨多頭頭寸有所減少，所持NYMEX柴油淨多頭頭寸創16周新低。\n所持NYMEX天然氣淨多頭頭寸創18個月新低。"
-    },
-    {
-      "id": "4882867",
-      "time": "2026-05-16 03:33:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "黎巴嫩駐美國大使：三方談判為黎巴嫩帶來了顯著的外交進展。與以色列的談判已促成政治和安全兩個方面的進展。延長停火和建立安全機制將為國家提供喘息空間，並推動政治程序走向持久穩定。我們的目標是將當前的停火勢頭轉化為一項全面且持久的協議，以維護黎巴嫩人民的尊嚴。"
-    },
-    {
-      "id": "4882864",
-      "time": "2026-05-16 03:30:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "委內瑞拉國家石油公司釋出宣告：將成立技術委員會徹查事故原因，此次事件不會影響委西部油氣業務正常開展。"
-    },
-    {
-      "id": "mkt:019e2d1e-4072-7663-82fc-2360d4c4dda4",
-      "time": "2026-05-16 03:30:16",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Crypto Concepts",
-        "Bitcoin"
-      ],
-      "text": "CFTC- BITCOIN NET LONG POSITION IS 1,259 CONTRACTS IN WEEK ENDED MAY 12 2026"
-    },
-    {
-      "id": "4882863",
-      "time": "2026-05-16 03:30:12",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會（CFTC）：截至5月12日當週，黃金投機者將淨多頭頭寸增加4,963手，至100,627手。白銀投機者將淨多頭頭寸增加5,254手，至16,195手。銅投機者將淨多頭頭寸增加10,380手，至73,523手。"
-    },
-    {
-      "id": "mkt:019e2d1e-1436-7663-82fc-1c1d99d47bf2",
-      "time": "2026-05-16 03:30:06",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "CFTC-SPECULATORS TRIM CBOT US 10-YEAR TREASURY FUTURES NET SHORT POSITION BY 34,102 CONTRACTS TO 781,167 IN WEEK ON MAY 12"
-    },
-    {
-      "id": "mkt:019e2d1e-0261-7663-82fc-15dcffc576c8",
-      "time": "2026-05-16 03:30:01",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "CFTC-JAPANESE YEN NET SHORT POSITION IS -75,102 CONTRACTS IN WEEK ENDED MAY 12 2026"
-    },
-    {
-      "id": "mkt:019e2d1d-ee8f-7663-82fc-0e1ef55816a0",
-      "time": "2026-05-16 03:29:56",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "CFTC-OIL SPECULATORS CUT WTI NET LONG POSITION BY 10,947 CONTRACTS TO 95,332 IN WEEK TO MAY 12"
-    },
-    {
-      "id": "4882862",
-      "time": "2026-05-16 03:29:54",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會：截至 5 月 12 日當週，四大紐約商業交易所、洲際交易所天然氣市場投機者淨空頭頭寸增加 13602 手，增至 22253 手。"
-    },
-    {
-      "id": "mkt:019e2d1d-ae76-7663-82fc-04bff0958f65",
-      "time": "2026-05-16 03:29:40",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "CFTC-COMEX COPPER SPECULATORS RAISE NET LONG POSITION BY 10,380 CONTRACTS TO 73,523 IN WEEK TO MAY 12"
-    },
-    {
-      "id": "mkt:019e2d1d-9dbd-7663-82fb-fe9a5901cc03",
-      "time": "2026-05-16 03:29:36",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "CFTC-COMEX SILVER SPECULATORS RAISE NET LONG POSITION BY 5,254 CONTRACTS TO 16,195 IN WEEK TO MAY 12"
     }
   ]
 }
