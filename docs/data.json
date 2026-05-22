@@ -1,7 +1,121 @@
 {
-  "updated": "2026-05-22 10:31:26",
-  "count": 16158,
+  "updated": "2026-05-22 10:35:16",
+  "count": 16166,
   "items": [
+    {
+      "id": "mkt:019e4d88-fe5e-7aa1-9584-67d408f7522d",
+      "time": "2026-05-22 10:34:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "AMD CEO LISA SU: THE DEMAND FOR CPUS WILL GO UP OVER THE NEXT FEW YEARS"
+    },
+    {
+      "id": "mkt:019e4d88-e52e-7aa1-9584-5bff85935e3f",
+      "time": "2026-05-22 10:34:37",
+      "tags": [
+        "MKT News",
+        "AMD.O",
+        "Impact mixed"
+      ],
+      "text": "AMD CEO LISA SU: WE WILL CONTINUE TO RAMP UP SUPPLY EVERY QUARTER THIS YEAR AND WE HAVE MORE PLANNED FOR 2027 AND BEYOND"
+    },
+    {
+      "id": "4894036",
+      "time": "2026-05-22 10:33:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4520美元/盎司，日內跌0.52%。"
+    },
+    {
+      "id": "4894035",
+      "time": "2026-05-22 10:33:20",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4520美元/盎司，日內跌0.50%。"
+    },
+    {
+      "id": "4894034",
+      "time": "2026-05-22 10:33:17",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國家發改委：正在謀劃出臺加快人工智慧落地的配套檔案】5月22日，國家發展改革委召開新聞釋出會。會上，國家發展改革委政策研究室副主任李超表示，近期發改委正在謀劃出臺加快人工智慧落地的配套檔案，進一步加大要素保障。同時，我們還將持續推動央國企開放高價值的應用場景，面向各個行業和領域、各個地方打造人工智慧標杆應用，加快引導人工智慧融入經營管理等各方面、各環節。"
+    },
+    {
+      "id": "te:markets:552926",
+      "time": "2026-05-22 10:32:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "US Natural Gas Prices Decline — US natural gas futures fell below $3.0 per MMBtu, retreating from two-month highs, pressured by elevated storage levels. The EIA report showed energy firms injected 101 bcf of gas into storage for the week ended May 15, above market expectations for a 95-bcf build and the five-year average increase of 92 bcf for the period. Additional pressure came from softer LNG export activity. Flows to major US LNG export facilities declined from a monthly record of 18.8 bcfd in April to around 17.0 bcfd so far in May, due to seasonal maintenance at facilities including Golden Pass LNG and Freeport LNG. However, losses were partly limited by forecasts pointing to mostly warmer-than-normal weather through early June, which is expected to increase cooling demand and boost gas consumption from the power sector. Supportive signals also emerged from reports that three US LNG cargoes are scheduled to arrive in China in June, marking the first such shipments since February 2025."
+    },
+    {
+      "id": "4894033",
+      "time": "2026-05-22 10:32:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘇姿豐表示：CPU市場供應緊張。"
+    },
+    {
+      "id": "4894032",
+      "time": "2026-05-22 10:32:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "大盤主力淨流出超100億。"
+    },
+    {
+      "id": "mkt:019e4d86-eb34-7aa1-9584-5584d833e9df",
+      "time": "2026-05-22 10:32:27",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AMD.O",
+        "Impact bullish"
+      ],
+      "text": "AMD CEO LISA SU: CPU MARKET IS TIGHT"
+    },
+    {
+      "id": "4894031",
+      "time": "2026-05-22 10:32:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "越南股指VN指數日內跌1%。"
+    },
+    {
+      "id": "4894030",
+      "time": "2026-05-22 10:31:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "綠電概念異動拉昇，晉控電力直線漲停，天富能源、京能電力、協鑫能科、京能熱力、杭州熱電漲幅居前。"
+    },
+    {
+      "id": "mkt:019e4d85-bd27-7aa1-9584-4cca31ebee68",
+      "time": "2026-05-22 10:31:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Hot",
+        "Policy",
+        "Chinese Policy & Markets",
+        "CNH",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "CHINA NDRC: PRICES SET TO REMAIN STABLE AS DOMESTIC SUPPLY-DEMAND OUTLOOK IMPROVES"
+    },
     {
       "id": "mkt:019e4d85-41ca-7aa1-9584-45c591b1a27d",
       "time": "2026-05-22 10:30:39",
@@ -145238,40 +145352,6 @@
         "國際"
       ],
       "text": "【大和證券：日本企業物價漲幅預計將保持在4%以上】大和證券經濟學家Yutaro Suzuki表示，日本企業物價的同比漲幅目前可能保持在4%以上，這反映出中東緊張局勢引發的石油成本上升。日本央行週五公佈的資料顯示，4月份批發價格同比上漲4.9%。“受中東局勢惡化推動，石油、煤炭和化工產品價格的上漲超出了早先的預期，“他說。日本央行的資料顯示，石油、煤炭和天然氣是成本上升的主要驅動因素，對進口商品價格變動貢獻了4.19個百分點，按合同貨幣計算，進口商品價格同比上漲7.9%。"
-    },
-    {
-      "id": "4881072",
-      "time": "2026-05-15 10:34:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "【江蘇將全面實施“人工智慧+”行動 打造創新發展高地】江蘇省委副書記、省長劉小濤14日在“開局起步‘十五五’”江蘇省專題新聞釋出會上表示，江蘇將全面擁抱時代的風口，抓住人工智慧這個關鍵變數，全面實施“人工智慧+”行動，加快打造全國人工智慧創新發展高地。劉小濤表示，江蘇將大力推動光晶片、光模組等發展；聚力突破多模態大模型、端側大模型等關鍵技術，大力發展一批工業大模型、垂直模型和專用小模型；在具身智慧、AI電腦、AI手機、智慧穿戴、智慧家居家電等方面全面發力。"
-    },
-    {
-      "id": "mkt:019e297b-458a-7bb5-b4d5-4d4f8f9d6896",
-      "time": "2026-05-15 10:33:25",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars"
-      ],
-      "text": "A-SHARE SEMICONDUCTOR EQUIPMENT SECTOR RISES; FERROTEC GAINS OVER 13%"
-    },
-    {
-      "id": "4881071",
-      "time": "2026-05-15 10:33:10",
-      "tags": [
-        "市場"
-      ],
-      "text": "【機器人概念股震盪走高，雷賽智慧漲停】機器人概念股震盪走高，雷賽智慧漲停，埃斯頓、機器人、拓斯達、綠的諧波、埃夫特等紛紛走高。"
-    },
-    {
-      "id": "4881070",
-      "time": "2026-05-15 10:32:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "中韓半導體ETF(513310)盤初跌7%，成交額超8億元。"
     }
   ]
 }
