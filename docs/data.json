@@ -1,7 +1,90 @@
 {
-  "updated": "2026-05-22 13:59:02",
-  "count": 16099,
+  "updated": "2026-05-22 14:03:03",
+  "count": 16096,
   "items": [
+    {
+      "id": "4894293",
+      "time": "2026-05-22 14:01:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "新臺幣兌美元上漲0.3%至31.500。"
+    },
+    {
+      "id": "4894292",
+      "time": "2026-05-22 14:01:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【傑華特等新設股權投資合夥企業】企查查APP顯示，近日，揚州傑智股權投資合夥企業（有限合夥）成立，經營範圍包含股權投資；創業投資（限投資未上市企業）。企查查股權穿透顯示，該企業由傑華特等共同出資。"
+    },
+    {
+      "id": "4894291",
+      "time": "2026-05-22 14:01:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣西財政國庫再向柳州排程抗震救災資金3000萬元】記者從廣西壯族自治區財政廳獲悉，5月21日，國家防災減災救災委員會針對柳州市柳南區連續發生5.2級地震啟動國家四級救災應急響應。廣西壯族自治區財政國庫再次向柳州市緊急排程應急救災資金3000萬元，累計專項排程資金5000萬元，支援柳州市統籌做好轉移安置受災人員、排危除險等應急處置工作，開展次生災害隱患排查、倒損民房修復和受災群眾救助等工作，全力保障人民群眾生命財產安全。（央視新聞）"
+    },
+    {
+      "id": "4894290",
+      "time": "2026-05-22 14:00:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨連續主力合約日內漲7%，現報3107.50點。"
+    },
+    {
+      "id": "4894289",
+      "time": "2026-05-22 14:00:19",
+      "tags": [
+        "資料"
+      ],
+      "text": "德國第一季度未季調GDP年率終值 0.5%，預期0.50%，前值0.50%。"
+    },
+    {
+      "id": "4894288",
+      "time": "2026-05-22 14:00:13",
+      "tags": [
+        "資料"
+      ],
+      "text": "德國6月Gfk消費者信心指數 -29.8，預期-34，前值由-33.3修正為-33.1。"
+    },
+    {
+      "id": "4894287",
+      "time": "2026-05-22 14:00:10",
+      "tags": [
+        "資料"
+      ],
+      "text": "英國4月季調後零售銷售月率 -1.3%，預期-0.60%，前值由0.70%修正為0.6%。"
+    },
+    {
+      "id": "4894286",
+      "time": "2026-05-22 13:59:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "兆易創新成交額超200億元，現漲超4%。"
+    },
+    {
+      "id": "4894285",
+      "time": "2026-05-22 13:58:35",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【造紙板塊短線拉昇，森林包裝漲停】造紙板塊短線拉昇，森林包裝漲停，凱恩股份、民豐特紙、山鷹國際、恆豐紙業、民士達跟漲。"
+    },
+    {
+      "id": "4894284",
+      "time": "2026-05-22 13:58:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4510美元/盎司，日內跌0.78%。"
+    },
     {
       "id": "4894283",
       "time": "2026-05-22 13:58:23",
@@ -144508,137 +144591,6 @@
         "國際"
       ],
       "text": "日本銀行執行理事：投資基金透過提供風險資本發揮促進增長的作用，但也可能對整個金融體系構成潛在風險。"
-    },
-    {
-      "id": "4881360",
-      "time": "2026-05-15 14:02:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "韓元跌幅擴大至 1%。"
-    },
-    {
-      "id": "mkt:019e2a3a-5072-7bbd-909e-956c1f3dcffd",
-      "time": "2026-05-15 14:02:00",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "US PRESIDENT TRUMP IS ABOUT TO DEPART BEIJING ABOARD AIR FORCE ONE"
-    },
-    {
-      "id": "mkt:019e2a39-e9d5-7bbd-909e-8df2fe46883f",
-      "time": "2026-05-15 14:01:27",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "SPOT GOLD EXTENDS LOSSES, LAST DOWN NEARLY 2% AT $4,557.84/OZ"
-    },
-    {
-      "id": "4881359",
-      "time": "2026-05-15 14:01:18",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【中證500股指期貨(IC)主力合約日內跌超3%】中證500股指期貨(IC)主力合約日內跌超3%，現報8397.2點。"
-    },
-    {
-      "id": "4881358",
-      "time": "2026-05-15 14:00:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "【4月深圳新發企業貸款加權平均利率2.65% 同比下降0.22個百分點】財聯社記者從深圳人行獲悉，一季度，深圳全市社融累計新增2644億元，同比多增1230億元。其中，直接融資成為增長新支柱，貢獻社融增量的四分之一。社會綜合融資成本方面，2026年4月，深圳金融機構新發企業貸款加權平均利率為2.65%，同比下降了0.22個百分點。(財聯社記者 高萍）"
-    },
-    {
-      "id": "4881357",
-      "time": "2026-05-15 14:00:49",
-      "tags": [
-        "宏觀",
-        "公司"
-      ],
-      "text": "英國天然氣公司同意向英國天然氣和電力市場監管局（Ofgem）基金支付2000萬英鎊。"
-    },
-    {
-      "id": "4881356",
-      "time": "2026-05-15 14:00:35",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨黃金日內跌2%，現報4558.39美元/盎司。"
-    },
-    {
-      "id": "4881355",
-      "time": "2026-05-15 14:00:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "【現貨黃金失守4560美元/盎司】現貨黃金失守4560美元/盎司，日內跌1.99%。"
-    },
-    {
-      "id": "4881354",
-      "time": "2026-05-15 14:00:19",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4560美元/盎司，日內跌2.00%。"
-    },
-    {
-      "id": "te:markets:551001",
-      "time": "2026-05-15 14:00:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "NZX 50 Posts First Weekly Loss in Three Weeks — The NZX 50 fell 60 points, or 0.5%, to 12,965 on Friday, retreating for the fourth consecutive session and marking its lowest level since April 30, as traders remained cautious after fresh data showed New Zealand's manufacturing sector grew at its slowest pace in seven months. Investor sentiment was further subdued ahead of the release of a slew of New Zealand economic data, including retail sales and private sector PMI, next week. Caution was also built ahead of a series of economic releases from China and the PBOC interest rate decision next week. The broader index tracked declines in U.S. futures as investors assessed the final leg of President Trump’s meeting with Chinese President Xi Jinping. Healthcare, utilities, and communication services weighed on the index, with notable losses from Fisher & Paykel Healthcare (-3.8%), Sanford (-2.0%), F&C Investment Trust (-1.8%), and Mainfreight (-0.6%). For the week, the index fell 1.6%, marking the first weekly decline in three weeks."
-    },
-    {
-      "id": "mkt:019e2a38-a2c2-7bbd-909e-87849ffe665e",
-      "time": "2026-05-15 14:00:06",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Market Themes",
-        "The Trump Trade",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "CRUDE OIL FUTURES RISE OVER $2/BBL AFTER TRUMP SAYS HE HAS REACHED MULTIPLE AGREEMENTS WITH CHINA"
-    },
-    {
-      "id": "mkt:019e2a37-dc45-7bb5-b4d7-75c047deef86",
-      "time": "2026-05-15 13:59:24",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "SOUTH KOREA'S KOSPI EXTENDS LOSSES; LAST 7.1% LOWER AT 7413.24"
-    },
-    {
-      "id": "mkt:019e2a37-b4aa-7bb5-b4d7-6f5c082bb2ef",
-      "time": "2026-05-15 13:59:14",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bearish"
-      ],
-      "text": "HANG SENG INDEX DOWN OVER 2%"
     }
   ]
 }
