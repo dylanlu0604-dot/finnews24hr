@@ -1,7 +1,45 @@
 {
-  "updated": "2026-05-23 03:45:05",
+  "updated": "2026-05-23 03:48:55",
   "count": 16080,
   "items": [
+    {
+      "id": "4895727",
+      "time": "2026-05-23 03:46:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：如果紐約失去了稅基，它將永遠無法恢復原狀。"
+    },
+    {
+      "id": "mkt:019e5138-2cba-7aae-9ae0-f9f71e8037b8",
+      "time": "2026-05-23 03:44:56",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "ANTHROPIC TO CLOSE LATEST FUNDING ROUND AS SOON AS NEXT WEEK"
+    },
+    {
+      "id": "mkt:019e5138-1b17-7aae-9ae0-f1db47991b10",
+      "time": "2026-05-23 03:44:51",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "ANTHROPIC'S LATEST ROUND TO BE MORE THAN $30B, PEOPLE SAY"
+    },
+    {
+      "id": "mkt:019e5138-0444-7aae-9ae0-efede7d80059",
+      "time": "2026-05-23 03:44:46",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "ANTHROPIC EXPECTS REVENUE RUN RATE TO TOP $50B NEXT MONTH"
+    },
     {
       "id": "mkt:019e5137-d9fe-7aae-9ae0-e7e32ac88923",
       "time": "2026-05-23 03:44:35",
@@ -144374,38 +144412,6 @@
         "國際"
       ],
       "text": "埃克森美孚在提交至美國證監會的檔案中表示：機構股東服務公司因正與得州總檢察長處於訴訟糾紛中，存在利益衝突。"
-    },
-    {
-      "id": "4882886",
-      "time": "2026-05-16 03:47:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "巴西國家石油公司（Petrobras）代表：公司仍需對桑托斯盆地（Santos basin）離岸Aram區塊發現成果進行評估，隨後才能確定Aram區塊的生產是否具備商業可行性。為了開發該區域，巴西石油公司可能需要為該區塊配置一座新的浮式生產平臺（FPSO）。"
-    },
-    {
-      "id": "4882885",
-      "time": "2026-05-16 03:46:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "埃克森美孚：機構股東服務公司反對公司遷址至得克薩斯州的相關理由均屬無關緊要的顧慮，其分析的獨立性也存疑。"
-    },
-    {
-      "id": "4882884",
-      "time": "2026-05-16 03:46:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "巴西國家石油公司（Petrobras）執行長Magda Chambriard：公司希望，到2030年，在桑托斯盆地（Santos basin）離岸Aram區塊的一個尚未命名的最新發現處建設兩口生產井。"
-    },
-    {
-      "id": "4882883",
-      "time": "2026-05-16 03:45:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿爾伯塔省省長：預計 2027 年 9 月前敲定管道專案合作方。"
     }
   ]
 }
