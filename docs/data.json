@@ -1,7 +1,79 @@
 {
-  "updated": "2026-05-22 19:03:53",
-  "count": 16054,
+  "updated": "2026-05-22 19:07:48",
+  "count": 16046,
   "items": [
+    {
+      "id": "mkt:019e4f5e-2822-777d-b241-4319a1a238ea",
+      "time": "2026-05-22 19:07:11",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "US-LISTED SHARES OF CHINA ADR'S FALL PREMARKET FOLLOWING CHINESE REGULATORY CRACKDOWN CONCERNS ALIBABA DOWN 4.2%, XPENG FALLS 1.5%, BAIDU DOWN 3.6% PDD HOLDINGS FALLS 4.8%, JD.COM SLIPS 3.5% ISHARES MSCI CHINA ETF FALLS 1.6%, ISHARES CHINA LARGE CAP ETF DOWN 2%, KRANESHARES CSI CHINA INTERNET ETF DOWN 4.3%"
+    },
+    {
+      "id": "te:economy:553097",
+      "time": "2026-05-22 19:06:31",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Small Business Sentiment",
+        "Importance 1"
+      ],
+      "text": "Canada Small Business Confidence at 1-Year Low — Canada's CFIB Business Barometer long-term index, which tracks 12-month forward expectations for business performance, fell sharply to 46.3 in May 2026 from a downwardly revised 58.0 in April, marking the lowest reading in a year. The short-term optimism index, based on the 3-month outlook, also declined by roughly 7 points to 47.9, reflecting weaker sentiment. The decline in long-term expectations was broad-based across sectors, with some of the steepest drops recorded in retail (53.4 vs. 63.5), health and education (51.7 vs. 61.5), hospitality (47.3 vs. 57.1), and agriculture (44.6 vs. 53.3). Meanwhile, the average price increase eased to 3.1% from 3.2% in March, although remaining elevated, while the average wage growth remained unchanged at 2.4%. Full-time hiring intentions remain weak, with more firms planning to cut staff (16%) than expand their workforce (14%)."
+    },
+    {
+      "id": "4895046",
+      "time": "2026-05-22 19:06:08",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【慕尼黑再保險任命Gavin Maistry擔任亞太、中東及非洲壽險與健康險執行長】慕尼黑再保險5月21日宣佈Gavin Maistry將接任Daniel Cossette，出任亞太、中東及非洲壽險與健康險執行長一職，並將在2026年下半年履新，其現擔任的壽險與健康險全球首席精算師職位將在其履新前完成繼任安排。Gavin Maistry將嚮慕尼黑再保險董事會成員馬艾琳Mari-Lizette Malherbe彙報工作。Daniel Cossette在集團服務19年後已決定退休，結束其在公司的任期。"
+    },
+    {
+      "id": "4895045",
+      "time": "2026-05-22 19:05:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【翱捷科技：股東阿里網路擬減持不超3%股份】翱捷科技公告，股東阿里網路持有5200.84萬股，佔12.4333%；擬自披露日起15個交易日後的3個月內，透過大宗交易及集中競價合計減持不超1254.9萬股，比例不超3%，其中大宗交易不超836.6萬股，佔2%，集中競價不超418.3萬股，佔1%；減持期為2026年6月15日～2026年9月14日。"
+    },
+    {
+      "id": "mkt:019e4f5c-7957-777d-b241-3d80529af75c",
+      "time": "2026-05-22 19:05:20",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "UGANDA EXPANDS STATE FUEL RESERVE STORAGE CAPACITY TO 40 MLN LITERS"
+    },
+    {
+      "id": "4895043",
+      "time": "2026-05-22 19:04:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【寒武紀：募投專案結項並將節餘募集資金永久補充流動資金】寒武紀公告，公司2022年度向特定物件發行A股股票募投專案結項，節餘募集資金6549.17萬元將永久補充流動資金。募集資金總額16.72億元，淨額16.49億元，已用於先進工藝平臺晶片專案、穩定工藝平臺晶片專案及通用智慧處理器技術研發專案。調整後永久補充流動資金2.5億元。"
+    },
+    {
+      "id": "4895042",
+      "time": "2026-05-22 19:04:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【復旦微電：國盛投資擬受讓復芯凡高持有的1.07億股股份】復旦微電公告，國盛投資擬以協議轉讓方式受讓復芯凡高持有的復旦微電1.07億股股份，佔復旦微電股份總數的12.96%。本次轉讓完成後，國盛投資將成為復旦微電第一大股東。"
+    },
+    {
+      "id": "4895041",
+      "time": "2026-05-22 19:03:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中集集團：5月22日回購336萬股H股 耗資約3072.87萬港元】中集集團公告稱，2026年5月22日，公司以每股9.03-9.21港元的價格，於香港聯交所回購336萬股H股，佔有關事件前的現有已發行股份（不包括庫存股份）數目的0.11%，付出的價格總額約3072.87萬港元。截至5月22日，公司庫存股份達6549.87萬股。根據購回授權，公司可回購股份總數為3.09億股，已回購股份佔比2.12%。暫止期截至2026年6月21日。"
+    },
     {
       "id": "4895040",
       "time": "2026-05-22 19:03:03",
@@ -144088,151 +144160,6 @@
         "宏觀"
       ],
       "text": "李強主持召開國務院常務會議，研究基礎教育改革發展有關工作。 (央視新聞)"
-    },
-    {
-      "id": "4882141",
-      "time": "2026-05-15 19:07:33",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "李強主持召開國務院常務會議，研究人口發展有關工作。 (央視新聞)"
-    },
-    {
-      "id": "4882140",
-      "time": "2026-05-15 19:07:28",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "李強主持召開國務院常務會議，審議透過《加快農業農村現代化“十五五”規劃》。 (央視新聞)"
-    },
-    {
-      "id": "mkt:019e2b51-e96c-7ff8-af3b-ec95be350eac",
-      "time": "2026-05-15 19:07:28",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Copper",
-        "Impact bullish",
-        "CSI300"
-      ],
-      "text": "CHINA URGES PRIORITIZING URBAN RENOVATIONS: CCTV"
-    },
-    {
-      "id": "mkt:019e2b51-d82b-7ff8-af3b-e27c29e67e10",
-      "time": "2026-05-15 19:07:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "LME GROUP NAMES SIMON PARSONS AS CFO"
-    },
-    {
-      "id": "mkt:019e2b51-c899-7ff8-af3b-dc748ca17dc7",
-      "time": "2026-05-15 19:07:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CHINA SEEKS MODERATE BIRTH LEVEL: CCTV"
-    },
-    {
-      "id": "mkt:019e2b51-9c70-7ff8-af3b-d1bfc025cc8f",
-      "time": "2026-05-15 19:07:09",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "CHINA'S PREMIER LI QIANG CHAIRS STATE COUNCIL EXECUTIVE MEETING"
-    },
-    {
-      "id": "4882139",
-      "time": "2026-05-15 19:06:52",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "李強主持召開國務院常務會議，聽取貫徹落實中央城市工作會議部署和實施城市更新進展情況彙報。 (央視新聞)"
-    },
-    {
-      "id": "mkt:019e2b50-ccfb-7ff8-af3b-caf42f6f09de",
-      "time": "2026-05-15 19:05:35",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "JAPAN PM TAKAICHI: EXCHANGED VIEWS WITH TRUMP ON CHINA-RELATED ECONOMIC, SECURITY ISSUES"
-    },
-    {
-      "id": "4882138",
-      "time": "2026-05-15 19:05:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "【永新光學：股東電子資訊、電子工業擬分別減持0.9418%和0.0498%】永新光學公告，持股7.4441%的股東寧波電子資訊及一致行動人寧波市電子工業擬於2026年6月8日～2026年9月7日，透過集中競價、大宗交易方式減持公司股份合計不超過110萬股，佔公司總股本0.9916%。其中電子資訊擬減持不超104.48萬股，比例0.9418%；電子工業擬減持不超55200股，比例0.0498%。減持前兩者分別持股825.83萬股、10.11萬股。"
-    },
-    {
-      "id": "4882137",
-      "time": "2026-05-15 19:05:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【精智達：擬參與投資設立總規模2億元的創投基金】精智達公告，公司或公司全資子公司擬與深圳清源時代投資管理控股有限公司的全資子公司常州清源時代投資管理有限公司及其他合夥人共同設立創業投資合夥企業（有限合夥）。創投基金擬定總規模為人民幣2億元，公司或公司全資子公司擬作為有限合夥人（LP）以自有資金出資人民幣5400萬元，佔認繳出資總額的27%。創投基金擬投資於精密製造、電子資訊、新材料、重型裝備等領域的初創期、中早期專案，聚焦於半導體及圍繞半導體產業鏈上下游的產業投資。"
-    },
-    {
-      "id": "4882136",
-      "time": "2026-05-15 19:05:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本首相高市早苗：重申與美國總統特朗普保持密切溝通。"
-    },
-    {
-      "id": "mkt:019e2b50-290c-7ff8-af3b-c1df4f8f0eea",
-      "time": "2026-05-15 19:04:52",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "JAPAN PM TAKAICHI: REAFFIRMED WITH TRUMP TO CONTINUE CLOSE COMMUNICATIONS ON INDO-PACIFIC ISSUES"
-    },
-    {
-      "id": "4882135",
-      "time": "2026-05-15 19:04:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "餘承東： 智界V9上市2小時，訂單突破7000臺。"
-    },
-    {
-      "id": "4882134",
-      "time": "2026-05-15 19:04:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "【泰國發現東南亞迄今最大恐龍】來自英國和泰國的研究人員近日在《科學報告》期刊上發表論文，宣佈在泰國發現新的恐龍物種——猜也蓬那伽巨龍（又稱那伽巨龍）。這是迄今為止在東南亞發現的體型最大的恐龍。 (環球網)"
-    },
-    {
-      "id": "4882133",
-      "time": "2026-05-15 19:04:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【江蘇雷利：靈巧手產品已實現小批次出貨 正在推進升級迭代】江蘇雷利(300660.SZ)釋出投資者關係活動記錄表公告，公司機器人核心零部件產品佈局全面，目前已進入多家國內外機器人本體、模組廠商和靈巧手企業的供應鏈。同時，公司已推出連桿式、繩驅式等多種技術路線的靈巧手產品，其中連桿式靈巧手整體精度較高，繩驅式靈巧手自由度高。公司同時佈局多種技術路線，以滿足客戶不同應用場景的需求。2025年公司靈巧手產品已實現小批次出貨，其中包括向多家工業領域客戶進行送樣測試。目前公司正在推進靈巧手產品的升級迭代，並開展力控臂和配套的大小腦控制系統的研發工作，正在多個工業場景進行試點應用，將重點推進靈巧手元件在工廠流水線的應用，目標2026年打造1-2個工業場景應用的標杆專案。"
-    },
-    {
-      "id": "mkt:019e2b4e-f291-7ff8-af3b-bc18166a98d0",
-      "time": "2026-05-15 19:04:08",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "The Trump Trade",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "TRUMP SAYS HE IS WEIGHING LIFTING SANCTIONS ON CHINESE COMPANIES THAT BUY IRANIAN OIL, WILL HAVE DECISION SOON"
     }
   ]
 }
