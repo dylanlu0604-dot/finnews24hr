@@ -1,7 +1,15 @@
 {
-  "updated": "2026-05-22 11:57:51",
-  "count": 16159,
+  "updated": "2026-05-22 12:02:17",
+  "count": 16153,
   "items": [
+    {
+      "id": "4894137",
+      "time": "2026-05-22 11:58:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "【遭總統李在明痛批 韓媒就涉華假新聞道歉】韓國首爾經濟TV電視臺21日晚就其釋出的“中國人大量購入首爾江南區公寓”節目內容以全體員工名義發表道歉宣告。此前，韓國總統李在明批評該節目內容，稱其為“故意捏造的虛假新聞”，“煽動厭華情緒”。首爾經濟TV電視臺日前釋出報道稱，“中國人突襲購買首爾江南區公寓944套，橫掃市場房源”。該臺在道歉宣告中說，“在製作過程中過度關注收視率和關注度”，再加上“內部稽核機制存在缺陷”，導致未能有效過濾掉虛假內容，“對由此給許多人帶來的不適和困惑表示真誠歉意”。李在明21日在社交媒體上發文說，經核實，今年1月至4月，中國人在江南區購買“集合建築”的案例僅有5例，該節目使用“煽動厭華情緒的內容”，可以推定為“故意捏造的虛假新聞”。（新華社）"
+    },
     {
       "id": "4894136",
       "time": "2026-05-22 11:56:00",
@@ -145159,74 +145167,6 @@
         "國際"
       ],
       "text": "【馬來西亞央行：儘管中東衝突持續 林吉特仍保持韌性 貨幣政策並非走預先設定的路徑仍將以資料為導向】馬來西亞央行：截至5月初，指標顯示整體物價狀況仍相對受控。迄今中東衝突對馬來西亞的影響仍得到控制，經濟受強勁基本面支撐。已直接接洽相關企業；各行業受能源危機影響的敞口程度存在差異。中東衝突預計將拖累大宗商品相關出口量及其他領域出口。儘管中東衝突持續，林吉特仍保持韌性。通脹與增長前景已將能源危機背景下燃油補貼可能做出的調整考慮在內。貨幣政策並非走預先設定的路徑，仍將以資料為導向。"
-    },
-    {
-      "id": "te:markets:550958",
-      "time": "2026-05-15 12:02:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Corn Rises on US-China Trade Optimism — Corn futures rose above $4.70 per bushel, recovering some of the prior session’s losses, as the US signaled potential large-scale Chinese purchases of American agricultural goods. US Trade Representative Jamieson Greer said China is expected to make “double-digit billion” annual purchases of US farm products over the next three years, reinforcing expectations of stronger export demand. The corn market had previously fallen nearly 3% from a one-year peak, after the first day of high-stakes talks between President Trump and Chinese counterpart Xi Jinping failed to deliver any concrete details, including volumes, timing, and product breakdown. Meanwhile, the latest USDA outlook signaled ample US corn supplies extending into 2027, projecting production at around 16 billion bushels, still near record levels. Ending stocks were forecast at roughly 1.96 billion bushels, remaining comfortable despite a modest decline, while exports are expected to ease to about 3.15 billion bushels."
-    },
-    {
-      "id": "4881172",
-      "time": "2026-05-15 12:01:46",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "馬來西亞央行：預計2026年該國經濟將增長4.0%-5.0%。"
-    },
-    {
-      "id": "mkt:019e29cc-27be-7bb5-b4d6-252fa2fa55cb",
-      "time": "2026-05-15 12:01:40",
-      "tags": [
-        "MKT News",
-        "VOW3.DE",
-        "Impact bullish"
-      ],
-      "text": "TOP LABOUR REPRESENTATIVES SAY THEY WON'T ALLOW VOLKSWAGEN PLANT CLOSURES IN JOINT STATEMENT NEW OPPORTUNITIES WITHIN VOLKSWAGEN GROUP OR WITH EXTERNAL PARTNERS WILL BE ASSESSED BY LABOUR REPRESENTATIVES WITH OPEN MIND - STATEMENT WILL FIGHT WITH ALL OUR MIGHT AGAINST ANYTHING COUNTER TO PRINCIPLES OF WORKING CONDITIONS AND JOB SECURITY - STATEMENT"
-    },
-    {
-      "id": "mkt:019e29cb-5cca-7bb5-b4d6-1abffed3eb49",
-      "time": "2026-05-15 12:00:41",
-      "tags": [
-        "MKT News",
-        "VFS.O",
-        "Impact bullish"
-      ],
-      "text": "VINFAST ADVANCES GLOBAL AFTERSALES STRATEGY, EXPANDING ITS INTERNATIONAL SERVICE AND PARTNERSHIP NETWORK"
-    },
-    {
-      "id": "4881171",
-      "time": "2026-05-15 12:00:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "馬來西亞1季度GDP終值同比增長5.4%，預估為5.3%。"
-    },
-    {
-      "id": "mkt:019e29cb-0ec5-7bb5-b4d6-16b3189dcd48",
-      "time": "2026-05-15 11:59:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TRUMP, ON IRAN: WE’VE SETTLED A LOT OF DIFFERENT PROBLEMS THAT OTHER PEOPLE WOULDN’T HAVE BEEN ABLE TO SOLVE"
-    },
-    {
-      "id": "mkt:019e29c9-b2b8-7bb5-b4d6-0a5ca99043d1",
-      "time": "2026-05-15 11:58:45",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "TRUMP, ON IRAN: WE FEEL VERY SIMILAR ABOUT (HOW) WE WANT IT TO END, WE DON’T WANT THEM TO HAVE A NUCLEAR WEAPON, WE WANT THE STRAITS OPEN"
     }
   ]
 }
