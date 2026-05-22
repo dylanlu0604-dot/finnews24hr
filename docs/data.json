@@ -1,7 +1,31 @@
 {
-  "updated": "2026-05-22 12:30:32",
-  "count": 16159,
+  "updated": "2026-05-22 12:34:26",
+  "count": 16151,
   "items": [
+    {
+      "id": "4894180",
+      "time": "2026-05-22 12:32:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【3小時從武漢到西安 西安至十堰高速鐵路湖北段開啟執行試驗】今天上午，隨著55451次動車組從十堰東站駛出，新建西安至十堰高速鐵路湖北段在完成聯調聯試後正式進入執行試驗階段。西十高鐵是國家中長期鐵路網規劃專案，起自陝西省西安市、途經商洛市、穿越秦嶺，接入湖北省十堰市，正線全長約256公里，設計時速350公里。執行試驗階段，鐵路部門將全面開展列車執行圖引數測試、故障模擬及應急演練、按圖行車等工作，為正式運營提供可靠技術支撐。開通運營後，十堰至西安約1小時可達；同時將在十堰東站銜接漢十高鐵，構建起一條武漢至西安的快速鐵路客運通道，武漢至西安3小時內通達。"
+    },
+    {
+      "id": "4894179",
+      "time": "2026-05-22 12:30:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "荷蘭4月份房價環比持平，同比上漲4.3%。"
+    },
+    {
+      "id": "4894178",
+      "time": "2026-05-22 12:29:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雙星新材：複合銅箔專案持續推進中 已獲得多個訂單】雙星新材(002585)5月22日在互動平臺表示，複合銅箔專案持續推進中，已獲得多個訂單。"
+    },
     {
       "id": "4894177",
       "time": "2026-05-22 12:29:30",
@@ -145113,110 +145137,6 @@
         "DXY"
       ],
       "text": "YIELD ON 10-YEAR JGB RISES 10.0 BASIS POINTS TO 2.730%"
-    },
-    {
-      "id": "4881208",
-      "time": "2026-05-15 12:33:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "10年期日本政府債券收益率上升10.0個基點，至2.730%。"
-    },
-    {
-      "id": "4881207",
-      "time": "2026-05-15 12:33:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "小鵬汽車何小鵬：小鵬GX，新科技旗艦，5月20日，下週三正式上市。"
-    },
-    {
-      "id": "mkt:019e29e8-e253-7bb5-b4d6-62896e72b047",
-      "time": "2026-05-15 12:33:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "INDIA'S NIFTY IT INDEX RISES 2.5%"
-    },
-    {
-      "id": "4881206",
-      "time": "2026-05-15 12:32:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：滙豐暫停40億美元私人信貸投資。"
-    },
-    {
-      "id": "mkt:019e29e8-8c24-7bb5-b4d6-5e5e50947df1",
-      "time": "2026-05-15 12:32:45",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Xiaomi",
-        "1810.HK",
-        "Impact bullish"
-      ],
-      "text": "XIAOMI'S LEI JUN: XIAOMI YU7 GT WILL BEGIN ARRIVING IN SHOWROOMS STARTING MAY 16"
-    },
-    {
-      "id": "te:markets:550975",
-      "time": "2026-05-15 12:32:30",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Japanese Shares Drop for Second Day — The Nikkei 225 Index fell 1.6% to below 61,700, while the broader Topix Index slipped 0.5% to 3,860 on Friday, extending declines from the previous session as investors monitored developments in the Middle East and the ongoing summit between President Donald Trump and Chinese President Xi Jinping. Oil prices were on track for a sharp weekly increase after US-Iran negotiations stalled and the Strait of Hormuz remained effectively closed, weighing on oil-import-dependent economies such as Japan. Investor sentiment also turned more cautious after Xi warned during talks with Trump that Taiwan could become a source of “clashes” between the world’s two largest economies. Domestically, stronger-than-expected producer inflation reinforced expectations that the Bank of Japan may face growing pressure to raise interest rates. Major decliners included Kioxia Holdings (-8.2%), Fujikura (-9.6%), Furukawa Electric (-6.3%), Advantest (-6.8%) and Disco Corp (-5%)."
-    },
-    {
-      "id": "4881205",
-      "time": "2026-05-15 12:32:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "馬來西亞將6月原棕櫚油基準價格定為每噸4372.64令吉，對應出口稅率為10.0%。"
-    },
-    {
-      "id": "4881204",
-      "time": "2026-05-15 12:32:02",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "韓國交易所因KOSPI 200期貨跌幅達5%，已啟動韓國綜合股價指數“側車機制”，程式化交易暫停5分鐘。"
-    },
-    {
-      "id": "mkt:019e29e7-ea86-7bb5-b4d6-51fcde2bf9f3",
-      "time": "2026-05-15 12:31:46",
-      "tags": [
-        "MKT News",
-        "HSBA.L"
-      ],
-      "text": "HSBC PAUSES $4BN PRIVATE CREDIT INVESTMENT -FT"
-    },
-    {
-      "id": "mkt:019e29e7-e8f5-7bb5-b4d6-4b7adfcee1c3",
-      "time": "2026-05-15 12:31:34",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "KOREA EXCHANGE ACTIVATES SIDECAR ON KOSPI AFTER KOSPI 200 FUTURES FALL 5%, PROGRAMME TRADING HALTED FOR 5 MINS"
-    },
-    {
-      "id": "mkt:019e29e7-296f-7bb5-b4d6-432c8e3aaccd",
-      "time": "2026-05-15 12:31:15",
-      "tags": [
-        "MKT News",
-        "Important",
-        "005930.KS",
-        "Impact bearish",
-        "000660.KS"
-      ],
-      "text": "KOSPI DOWN NEARLY 5% INTRADAY. SAMSUNG ELECTRONICS DROPS OVER 6%, SK HYNIX FALLS MORE THAN 5%"
     }
   ]
 }
