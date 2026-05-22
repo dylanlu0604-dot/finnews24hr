@@ -1,7 +1,76 @@
 {
-  "updated": "2026-05-22 12:18:22",
-  "count": 16153,
+  "updated": "2026-05-22 12:22:47",
+  "count": 16156,
   "items": [
+    {
+      "id": "4894167",
+      "time": "2026-05-22 12:21:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【英力股份：越南子公司目前裝置進入安裝除錯階段】英力股份5月22日在互動平臺表示，越南子公司目前裝置已經進入安裝除錯階段。"
+    },
+    {
+      "id": "mkt:019e4dea-7d47-7aa1-9585-2a7c52052faa",
+      "time": "2026-05-22 12:21:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "INDIAN CENTRAL BANK LIKELY SOLD U.S. DOLLARS TO SHORE UP RUPEE - TRADERS INDIAN RUPEE STRENGTHENS PAST 96 PER U.S. DOLLAR, UP OVER 0.2% ON DAY"
+    },
+    {
+      "id": "4894166",
+      "time": "2026-05-22 12:20:06",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "【摩根大通擬剝離40億美元私募相關貸款風險】知情人士透露，摩根大通正尋求剝離規模超40億美元的私募股權基金貸款相關風險敞口。該銀行正在洽談風險轉移方案，該方案將允許其保留資產負債表上由私募股權基金資產支援的淨資產值貸款，同時將部分潛在損失轉移給投資者。根據協議，摩根大通將轉移高達12.5%的淨資產值貸款池風險，該貸款池價值超過40億美元。該結構將為投資者提供十幾個百分點低位區間的回報，以彌補淨資產貸款的第一筆損失。該資產池包括數十筆與北美、歐洲和中東各地私募股權基金相關的貸款。摩根大通方面拒絕對此報道置評。"
+    },
+    {
+      "id": "4894165",
+      "time": "2026-05-22 12:19:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【聯想集團董事長楊元慶：相信未來GPU伺服器70%用於推理，30%用於訓練】聯想集團董事長兼CEO楊元慶在財報業績溝通會上表示，AI基礎設施正在爆發式增長，從訓練向推理的轉移速度非常快。目前AI基礎設施GPU伺服器70%、80%的用於訓練，只有20-30%用於推理。相信未來會反過來，70%用於推理，30%用於訓練，這並不意味著未來AI訓練所需要的基礎設施會減少，而是依然會進一步增長，僅靠大型雲服務廠商已經不足以滿足需求。"
+    },
+    {
+      "id": "4894164",
+      "time": "2026-05-22 12:19:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴基斯坦KSE-100指數開盤上漲0.6%，至169,565.80點。"
+    },
+    {
+      "id": "4894163",
+      "time": "2026-05-22 12:19:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "越南股指VN指數日內跌2%。"
+    },
+    {
+      "id": "4894162",
+      "time": "2026-05-22 12:19:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "訊息人士稱，中國PCG Power計劃最早於8月提交香港IPO申請。"
+    },
+    {
+      "id": "4894161",
+      "time": "2026-05-22 12:18:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "Oxcap給予匯川技術超配的初始評級，目標價101.30元。"
+    },
     {
       "id": "4894160",
       "time": "2026-05-22 12:14:47",
@@ -145125,52 +145194,6 @@
         "Importance 1"
       ],
       "text": "Malaysia Q1 GDP Growth Revised Slightly Higher — Malaysia’s economy expanded 5.4% year-on-year in Q1 2026, slightly above preliminary estimates of 5.3%, but easing from 6.2% in the previous quarter. The slowdown was driven by weaker performance in mining and quarrying (-2.1% vs 1.4%), alongside softer growth in agriculture (2.6% vs 5.7%), manufacturing (5.9% vs 6.0%), and construction (7.7% vs 10.9%). Services growth also moderated to 5.6% from 6.2%, though it remained the main driver of overall expansion. On the expenditure side, growth slowed across key components, with private consumption rising 4.7% (vs 5.6%), government spending 4.1% (vs 6.6%), and fixed investment 7.3% (vs 9.3%). Net trade contributed positively to GDP, as exports grew 5.2% while imports rose at a softer pace of 4.6%. On a quarterly basis, the economy was broadly flat, marking the weakest performance since Q4 2022, following an upwardly revised 1.4% expansion in Q4."
-    },
-    {
-      "id": "4881197",
-      "time": "2026-05-15 12:22:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【興業證券：航空業地緣擾動短期利潤 供需偏緊支撐中期趨勢】興業證券釋出研報稱，短期美伊衝突致航油出廠價4月環比3月暴漲75%，航司被動調整聚焦核心航線。板塊短期業績承壓，但中長期供需偏緊是確定性趨勢，推薦低成本龍頭公司春秋航空，推薦國際航線運量高增長、利潤高彈性的中國東航。"
-    },
-    {
-      "id": "te:markets:550972",
-      "time": "2026-05-15 12:20:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Copper Falls for Second Consecutive Session — Copper futures dropped below $6.4 per pound on Friday, marking a second straight session of losses as elevated prices discouraged buying activity in China. The metal also faced pressure from accelerating US inflation, which reinforced expectations for a Federal Reserve interest rate hike later this year. Despite the recent decline, analysts continue to view Chinese copper demand as broadly resilient this year, with consumption from clean energy and technology-related industries helping offset weakness in the property and construction sectors. Copper also remains supported by a constructive long-term outlook driven by artificial intelligence-related infrastructure expansion, power grid modernization, and the broader global energy transition. On the supply side, China’s export restrictions on sulfuric acid, combined with disruptions to sulfur production in the Middle East, could tighten global supply conditions and provide additional structural support for prices."
-    },
-    {
-      "id": "4881196",
-      "time": "2026-05-15 12:19:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【三星電子據悉正開發下一代HBM封裝技術】5月15日訊息，據報道，三星電子正在開發下一代HBM封裝技術，以實現移動裝置中的高效能裝置端AI。三星電子正在研發“多層堆疊式FOWLP”技術，結合了超高縱橫比銅柱和扇出型晶圓級封裝，並對現有的垂直銅柱堆疊技術進行了改進。"
-    },
-    {
-      "id": "te:markets:550971",
-      "time": "2026-05-15 12:19:26",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Soybeans Pressured Despite US-China Optimism — Soybean futures held below $12 per bushel, after a nearly 3% drop in the prior session as traders remained cautious despite potential large-scale Chinese purchases of American agricultural goods. US Trade Representative Jamieson Greer said China is expected to make “double-digit billion” annual purchases of US farm products over the next three years, while President Donald Trump said Beijing would buy “a lot of soybeans” from US farmers. Greer also pointed to an existing agreement for China to purchase 25 million tons of US soybeans annually over the coming years. Still, sentiment remained restrained as markets awaited concrete details on the timing and scale of purchases, after the first day of talks between Trump and Chinese President Xi Jinping failed to produce confirmed trade commitments. Meanwhile, the USDA projected US soybean stocks to decline to 310 million bushels by the end of the 2026 to 2027 marketing year, down from 340 million expected at the end of the current season."
-    },
-    {
-      "id": "4881195",
-      "time": "2026-05-15 12:18:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中證協就兩項投資者保護類團體標準公開徵求意見】中國證券業協會發布關於就兩項投資者保護類團體標準公開徵求意見的公告，為推動提升證券公司投資者保護工作質效，提供可供行業借鑑的投資者適當性管理和糾紛調解工作標準，協會投資者服務與保護專業委員會成員單位華福證券、華安證券分別起草編寫了《證券公司投資者適當性管理規範》和《證券公司投資者糾紛調解規範》團體標準的徵求意見稿，現向社會公開徵求意見。"
     }
   ]
 }
