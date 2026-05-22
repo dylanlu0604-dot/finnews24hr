@@ -1,7 +1,55 @@
 {
-  "updated": "2026-05-23 00:23:58",
-  "count": 16129,
+  "updated": "2026-05-23 00:27:50",
+  "count": 16130,
   "items": [
+    {
+      "id": "mkt:019e5082-7981-7443-baf7-657d56c2de30",
+      "time": "2026-05-23 00:26:28",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields"
+      ],
+      "text": "US TREASURY SECRETARY BESSENT, WHEN ASKED IF WARSH WOULD CUT RATES: HE WILL DO THE RIGHT THING"
+    },
+    {
+      "id": "4895614",
+      "time": "2026-05-23 00:25:23",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國財長貝森特被問及沃什是否會降息時回答說：他會做正確的事。"
+    },
+    {
+      "id": "mkt:019e5081-6761-7443-baf7-59869ef57803",
+      "time": "2026-05-23 00:25:18",
+      "tags": [
+        "MKT News",
+        "UBER.O",
+        "Impact bullish",
+        "DHER.DE",
+        "Impact bearish"
+      ],
+      "text": "UBER SAID TO STUDY OPTIONS FOR FULL TAKEOVER OF DELIVERY HERO"
+    },
+    {
+      "id": "4895613",
+      "time": "2026-05-23 00:24:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：優步（uber）與顧問們研究進一步持股歐洲配送競爭對手Delivery Hero的方式。"
+    },
+    {
+      "id": "mkt:019e507f-d477-7443-baf7-505b518163cb",
+      "time": "2026-05-23 00:23:35",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "PAKISTAN ARMY CHIEF ASIM MUNIR ARRIVES IN TEHRAN – IRAN'S ISNA"
+    },
     {
       "id": "4895611",
       "time": "2026-05-23 00:22:55",
@@ -144804,43 +144852,6 @@
         "The Trump Trade"
       ],
       "text": "MEXICAN PRESIDENT SHEINBAUM SAYS HAD A CORDIAL AND EXCELLENT CONVERSATION WITH PRESIDENT TRUMP"
-    },
-    {
-      "id": "4882692",
-      "time": "2026-05-16 00:27:19",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根士丹利：對沖成本下降將催生超 2000 億美元資金流入，為歐元提供支撐，歐元有望攀升至五年高位。"
-    },
-    {
-      "id": "4882691",
-      "time": "2026-05-16 00:26:48",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "市場訊息：美國司法部預計將撤銷對 阿達尼集團董事長高塔姆·阿達尼的欺詐指控。"
-    },
-    {
-      "id": "4882690",
-      "time": "2026-05-16 00:26:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度總理莫迪稱有關考慮徵收出境旅行稅的相關報道不實。"
-    },
-    {
-      "id": "te:markets:551272",
-      "time": "2026-05-16 00:25:40",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Parker-Hannifin Stock Price Hits 6-week Low — Parker-Hannifin shares decreased to 860.00 USD, the lowest since March 2026. Over the past 4 weeks, Parker -Hannifin lost 9.93%, and in the last 12 months, it increased 26.68%."
     }
   ]
 }
