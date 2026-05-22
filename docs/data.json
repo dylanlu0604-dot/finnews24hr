@@ -1,7 +1,118 @@
 {
-  "updated": "2026-05-22 17:02:38",
-  "count": 16154,
+  "updated": "2026-05-22 17:07:40",
+  "count": 16150,
   "items": [
+    {
+      "id": "mkt:019e4eee-f532-777d-b240-51324f7473f3",
+      "time": "2026-05-22 17:05:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Alibaba",
+        "PDD.O",
+        "Impact bearish",
+        "BABA.N"
+      ],
+      "text": "U.S. SHARES IN PDD HOLDINGS FALL ABOUT 6% IN PRE-MARKET TRADE ALIBABA NEW-YORK SHARES DOWN ABOUT 4% IN PRE-MARKET TRADE"
+    },
+    {
+      "id": "4894770",
+      "time": "2026-05-22 17:05:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【同德化工：金融借款合同糾紛一審判決，需歸還本金3000萬元】同德化工公告稱，公司與招商銀行金融借款合同糾紛一案一審判決，公司需在判決生效之日起十日內歸還借款本金3000萬元，支付截至2025年12月31日的利息46583.33元及後續罰息、復息；張雲升、張烘承擔連帶清償責任。案件受理費96017元、訴前財產保全費5000元，由公司、張雲升、張烘共同負擔。本次訴訟對公司利潤無較大影響。"
+    },
+    {
+      "id": "4894769",
+      "time": "2026-05-22 17:05:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【綠田機械：擬以8000萬元-1億元回購公司股份】綠田機械公告，擬以8000萬元-1億元回購公司股份，回購價格不超過28元/股。"
+    },
+    {
+      "id": "4894768",
+      "time": "2026-05-22 17:05:13",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "馬來西亞富時吉隆坡綜合指數收盤上漲 0.3%，報 1712.67 點。"
+    },
+    {
+      "id": "4894767",
+      "time": "2026-05-22 17:04:55",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【世運電路：使用2.05億元閒置募集資金進行現金管理】世運電路公告稱，公司使用2.05億元閒置募集資金購買中國工商銀行（泰國）定期存款，產品期限為2026年5月21日至6月22日，預期年化收益率3.20%，資金來源為向特定物件發行A股股票募集的閒置資金。公司於2026年4月8日已審議透過使用不超8億元閒置募集資金進行現金管理的議案。公司提醒，該投資可能受多種風險影響，收益具有不確定性。"
+    },
+    {
+      "id": "4894766",
+      "time": "2026-05-22 17:04:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "據上交所官網顯示，江蘇高凱精密流體技術股份有限公司IPO稽核狀態變更為“已問詢”。"
+    },
+    {
+      "id": "4894765",
+      "time": "2026-05-22 17:04:05",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通預計土耳其 6 月將一週期回購利率上調至 40%。"
+    },
+    {
+      "id": "4894764",
+      "time": "2026-05-22 17:03:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國三峽集團：三峽庫區特有珍稀植物遷地保護成活率超九成】據中國三峽集團訊息，隨著長江大保護持續推進，三峽庫區生態環境保護實踐成效不斷顯現。目前已建成的長江特有珍稀植物保育基地中，遷地保護的三峽庫區特有珍稀植物成活率超90%。（新華社）"
+    },
+    {
+      "id": "4894763",
+      "time": "2026-05-22 17:03:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "【巴基斯坦繼續斡旋伊美談判 推動雙方“縮小”分歧】總檯記者5月22日獲悉，巴基斯坦內政部長納克維當日再次會見了伊朗外交部長阿拉格齊，雙方討論了與解決爭端有關的各項提議。據此前訊息，在巴基斯坦方面調解下，伊朗與美國之間的訊息和文字交換仍在繼續，伊朗“正在回應美方發來的談判文字”，目前在討論該文字的“總體框架、部分細節以及作為保障的信任建立措施”。訊息稱，美方談判文字在一定程度上“縮小了分歧”，但進一步縮小分歧“需要美方摒棄戰爭傾向”。（央視新聞）"
+    },
+    {
+      "id": "4894762",
+      "time": "2026-05-22 17:02:57",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度Nifty 50指數回吐部分漲幅，最新上漲0.40%。"
+    },
+    {
+      "id": "mkt:019e4eec-439a-777d-b240-4f643da55e51",
+      "time": "2026-05-22 17:02:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index",
+        "CNH",
+        "Impact bearish"
+      ],
+      "text": "CHINA FINANCE MINISTRY,PBOC JOINT WORKING GROUP HOLD MEETING, VOW TO IMPLEMENT MORE PROACTIVE FISCAL POLICY AND MODERATELY ACCOMMODATIVE MONETARY POLICY"
+    },
+    {
+      "id": "4894761",
+      "time": "2026-05-22 17:02:21",
+      "tags": [],
+      "text": "【國務院印發《關於推行常住地提供基本公共服務的實施意見》】意見強調，由常住地提供基本公共服務，促進未落戶常住人口與戶籍人口同等享有基本公共服務，有利於滿足人民日益增長的美好生活需要，對提升城鎮化質量、釋放國內需求潛力、構建新發展格局具有重要意義。（新華社）"
+    },
     {
       "id": "4894760",
       "time": "2026-05-22 17:01:55",
@@ -9,6 +120,14 @@
         "公司"
       ],
       "text": "【ST龍元：控股股東賴振元1.14億股被司法凍結】 ST龍元公告，公司控股股東賴振元持有的1.14億股股份（佔其所持股份44.76%，佔公司總股本7.44%）被司法凍結，凍結起始日為2026年5月21日，到期日為2029年5月20日，凍結申請人為福建省廈門市湖里區人民法院，凍結原因系相關案件債權本金及利息約6140萬元。截至公告披露日，賴振元持有公司股份2.54億股，佔公司總股本16.61%，累計被司法凍結2.34億股，佔公司總股本15.27%；控股股東家族（賴振元、賴朝輝、賴曄鋆）合計持股3.63億股，佔公司總股本23.74%，累計被司法凍結2.84億股，佔公司總股本22.37%。本次凍結暫不會對公司控制權、股權結構等產生重大影響，但存在控制權穩定性風險。"
+    },
+    {
+      "id": "4894759",
+      "time": "2026-05-22 17:01:53",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國務院印發《關於推行常住地提供基本公共服務的實施意見》】為推行常住地提供基本公共服務，促進基本公共服務均等化水平明顯提升，有力支撐深入實施以人為本的新型城鎮化戰略，國務院日前印發《關於推行常住地提供基本公共服務的實施意見》（以下簡稱《意見》）。\n\n《意見》強調，由常住地提供基本公共服務，促進未落戶常住人口與戶籍人口同等享有基本公共服務，有利於滿足人民日益增長的美好生活需要，對提升城鎮化質量、釋放國內需求潛力、構建新發展格局具有重要意義。\n\n《意見》提出，要加強隨遷子女教育保障，鞏固提升義務教育階段隨遷子女就讀公辦學位比例，推動將隨遷子女納入常住地學前教育、高中階段教育公共服務範圍。推動更多城市將穩定就業居住的未落戶常住人口家庭納入公租房保障範圍，穩步推進靈活就業人員參加住房公積金制度。全面取消在就業地參加職工社會保險的戶籍限制，引導支援各類勞動者在就業地參加職工社會保險，健全農民工、靈活就業人員、新就業形態人員參加社會保險制度。加強常住地基本醫療保障，加力落實持居住證參加城鄉居民基本醫療保險政策，加強異地就醫直接結算管理服務。強化就業基本公共服務，按規定落實就業援助政策，做好未落戶自主創業人員創業扶持。逐步將未落戶常住人口納入常住地兒童關愛、養老助老、社會救助、扶殘助殘等基本公共服務範圍。\n\n《意見》明確，要按常住人口和服務半徑完善公共服務設施空間佈局，加強人口流入城市和縣城的公共服務能力。規範基本公共服務梯度供給，促進基本公共服務資源公平有序分配。加強財政轉移支付保障，完善相關轉移支付考慮常住人口因素進行分配的做法。建立新增城鎮建設用地指標配置同常住人口增加協調機制，優先保障學校、醫療衛生機構、保障性住房等建設需要。推廣居住證互通互認、常住年限或常住積分轉換等經驗，保障流動人口連續享有基本公共服務，推動城市群、都市圈跨行政區合作辦學辦醫。推進基本公共服務事項省內通辦、跨省通辦。完善常住人口登記統計，更好發揮居住證登記常住人口以及作為基本公共服務事項申請、核驗、排序、享受等憑證的功能。\n\n《意見》要求，各省級人民政府要加強組織領導，科學有序、因地制宜推行常住地提供基本公共服務，結合實際抓好貫徹落實，推動各項舉措落地見效。國家發展改革委要會同有關部門紮實推進工作，強化進展監測和評估問效。各有關部門要完善保障未落戶常住人口享有基本公共服務的政策，適時調整相關規定。（新華社）"
     },
     {
       "id": "mkt:019e4eeb-2687-777d-b240-423320598a54",
@@ -27,6 +146,24 @@
         "其他"
       ],
       "text": "歐元區第一季度協商工資同比增長2.46%；預期為增長2.50%。"
+    },
+    {
+      "id": "4894757",
+      "time": "2026-05-22 17:01:17",
+      "tags": [
+        "央行",
+        "宏觀",
+        "市場"
+      ],
+      "text": "【財政部與中國人民銀行聯合工作組召開第四次組長會議】為加強財政政策與貨幣政策協調配合，實施好更加積極有為的宏觀政策，近日，財政部與中國人民銀行聯合工作組召開第四次組長會議。財政部黨組成員、副部長廖岷，中國人民銀行黨委委員、副行長鄒瀾出席會議並講話。會議充分肯定了今年以來財政部與中國人民銀行協同配合取得的成效，並就支援金融市場平穩執行、完善財政金融協同方式、推動離岸人民幣國債市場發展等議題進行了深入交流。會議認為財政政策與貨幣政策協同發力，有利於提高宏觀調控的前瞻性、針對性和有效性，增強宏觀經濟治理效能和服務實體經濟能力，更好貫徹落實2026年經濟工作的總體要求和政策取向。下一步，財政部與中國人民銀行聯合工作組機制將繼續發揮溝通協調作用，共同落實好更加積極的財政政策和適度寬鬆的貨幣政策。(央行)"
+    },
+    {
+      "id": "4894756",
+      "time": "2026-05-22 17:01:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【四川省成都市委組織部一級巡視員徐雲被查】中央紀委國家監委網站通報，據四川省紀委監委訊息：四川省成都市委組織部一級巡視員徐雲涉嫌嚴重違紀違法，目前正接受四川省紀委監委紀律審查和監察調查。"
     },
     {
       "id": "4894755",
@@ -145015,191 +145152,6 @@
         "國際"
       ],
       "text": "伊朗陸軍總司令：信仰與信念，是我們擁有必勝底氣與實力的根源；這份信念在伊朗伊斯蘭共和國根深蒂固。"
-    },
-    {
-      "id": "mkt:019e2ae4-08bf-7bb5-b4d9-7581e6dfdcf2",
-      "time": "2026-05-15 17:07:27",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "UK 10-YEAR GILT YIELDS RISE TO HIGHEST SINCE 2008 AT 5.133%, UP 14 BPS ON DAY - LSEG DATA"
-    },
-    {
-      "id": "4881835",
-      "time": "2026-05-15 17:07:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "【知情人士： 阿聯酋曾試圖勸說沙特、卡達等周邊國家軍事應對伊朗空襲但遭拒】據知情人士透露，阿聯酋曾試圖勸說沙特、卡達等周邊國家，聯手對伊朗的空襲行動採取協同軍事應對，但遭到各方拒絕，阿聯酋對此深感失望。不願具名的相關人士表示，在2 月 28 日美以聯軍開始轟炸伊朗後不久，阿聯酋總統穆罕默德・本・扎耶德便與沙特王儲穆罕默德・本・薩勒曼等多國領導人進行了一系列通話，磋商相關事宜。"
-    },
-    {
-      "id": "4881834",
-      "time": "2026-05-15 17:05:41",
-      "tags": [
-        "市場"
-      ],
-      "text": "【阿克曼：潘興廣場將披露其對微軟的新持倉】比爾·阿克曼在X平臺發文稱，潘興廣場將在今日稍後提交的13F檔案中披露一項對微軟的新持倉。阿克曼還表示，他認為微軟近期股價下跌“主要是受到投資者對兩個關鍵問題擔憂的驅動”：一是M365面對“能力日益增強”的人工智慧實驗室產品時的競爭定位，二是Azure增長的可持續性。他認為，投資者低估了M365業務的韌性，因為該產品已深度嵌入企業運營之中，而且其價效比極具吸引力。"
-    },
-    {
-      "id": "4881833",
-      "time": "2026-05-15 17:05:30",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "倫敦證券交易所集團（LSEG）資料顯示，英國10年期國債收益率上升14個基點，升至5.133%，創2008年以來新高。"
-    },
-    {
-      "id": "4881832",
-      "time": "2026-05-15 17:05:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【吉利汽車：雷達汽車中國公司及Radar Thailand將成為公司全資附屬公司】5月15日，吉利汽車在港交所公告，於2026年5月15日（交易時段後），(1)浙江吉潤及吉利銷售（作為買方）與浙江雷達汽車（作為賣方）訂立股權轉讓協議，內容有關收購雷達汽車（山東）及雷達汽車銷售之全部股權，現金代價分別為人民幣1.59億元及人民幣5900萬元；及(2)CIL及GAIL（作為買方）與Radar HK及Radar BVI（作為賣方）訂立股份購買協議，內容有關收購Radar Thailand之全部已發行股本，總現金代價為人民幣49萬元。於收購事項完成後，雷達汽車（山東）、雷達汽車銷售及RadarThailand將成為公司全資附屬公司。"
-    },
-    {
-      "id": "te:markets:551128",
-      "time": "2026-05-15 17:04:58",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "TTF Gas Hits 5-week High — TTF Gas increased to 49.23 EUR/MWh, the highest since April 2026. Over the past 4 weeks, Natural Gas EU gained 15.98%, and in the last 12 months, it increased 40%."
-    },
-    {
-      "id": "mkt:019e2ae1-a138-7bb5-b4d9-6821362d9c3d",
-      "time": "2026-05-15 17:04:48",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "FITCH RATINGS: EUROPE’S ENERGY MIX LEADS TO PERSISTENT VULNERABILITIES FROM IRAN WAR"
-    },
-    {
-      "id": "4881831",
-      "time": "2026-05-15 17:04:33",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【怡達股份：股票交易連續兩日異常波動 不存在應披露未披露事項】怡達股份公告稱，公司股票2026年5月14日、5月15日連續2個交易日收盤價格漲幅偏離值累計超30%，屬於異常波動。經核查，公司前期披露資訊無需更正補充，未發現公共媒體報道影響股價的未公開重大資訊，生產經營、市場環境、行業政策均正常，公司、控股股東及實控人不存在應披露未披露事項，實控人在異動期間無買賣公司股票情形。"
-    },
-    {
-      "id": "te:markets:551125",
-      "time": "2026-05-15 17:04:25",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Heating Oil Futures Rebound — Heating oil futures for delivery at the New York Harbor climbed above $4.0 per gallon, recouping losses from a two-day decline amid heightened concerns over longer supply disruptions in the Middle East. The rebound followed President Donald Trump’s more hardline stance toward Tehran, saying he would no longer wait on Iran and urging its leadership to reach a deal with the US. Exports of distilled products from the region have been largely halted since the start of the war in March, straining refineries and pushing heating oil futures to a record high of $4.6 during the month. Meanwhile, earlier this week, data from the EIA showed US distillate fuel stocks rose by 200,000 barrels in the first week of May, contrary to expectations for a 2.8 million barrel draw. The report also contrasted with a 4.1 million barrel decline in gasoline inventories, suggesting refineries prioritized diesel and jet fuel output amid tight global transportation supply conditions."
-    },
-    {
-      "id": "mkt:019e2ae1-4745-7bb5-b4d9-67951facf4d4",
-      "time": "2026-05-15 17:04:25",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Hot",
-        "Market Regions",
-        "Greater China",
-        "Policy",
-        "Chinese Policy & Markets",
-        "CNH",
-        "Impact mixed"
-      ],
-      "text": "CHINA Q1 PRELIMINARY CAPITAL AND FINANCIAL ACCOUNT DEFICIT $184.1 BLN - FX REGULATOR CHINA Q1 PRELIMINARY CURRENT ACCOUNT SURPLUS $184.1 BLN - FX REGULATOR"
-    },
-    {
-      "id": "4881830",
-      "time": "2026-05-15 17:04:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【勝利股份：披露重大資產重組內幕資訊知情人股票買賣自查情況】勝利股份公告稱，公司擬發行股份及支付現金購買中油燃氣（珠海橫琴）等公司股權並募集配套資金。自查期間為2025年4月28日至2026年4月29日，國聯民生證券股份有限公司在2025年4月28日至10月17日累計買入360,200股、賣出389,600股，自查期末持股0股。另有王敦津等4位自然人在自查期內買賣公司股票。獨立財務顧問和法律顧問認為，相關主體買賣股票行為不屬於內幕交易，不會對本次重組構成實質性法律障礙。"
-    },
-    {
-      "id": "4881829",
-      "time": "2026-05-15 17:04:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國通訊管理局（OFCOM）：X平臺承諾，在英國境內對被舉報釋出英國法律所禁止的恐怖主義內容的賬號採取封禁措施。"
-    },
-    {
-      "id": "4881828",
-      "time": "2026-05-15 17:03:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "惠譽評級：歐洲能源結構使其在伊朗戰爭局勢下持續面臨脆弱性。"
-    },
-    {
-      "id": "4881827",
-      "time": "2026-05-15 17:03:16",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印度Nifty 50指數<.NSEI>回吐日內全部漲幅，最新下跌0.03%。"
-    },
-    {
-      "id": "te:economy:551124",
-      "time": "2026-05-15 17:03:15",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "South Africa",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "South Africa 10-Year Bond Yield Moves Higher — South Africa’s 10-year bond yield rose to around 8.78%, tracking major global peers, as inflation concerns tied to the Iran conflict fuel expectations of higher rates. Oil prices continued to climb, with the Strait of Hormuz effectively closed and the U.S.-Iran standoff ongoing. Domestically, the South African Reserve Bank (SARB) faces a difficult decision at its end-May meeting as inflation risks build. Successive fuel price shocks have shifted the policy outlook, raising the possibility of renewed rate hikes just months after the central bank adopted its new 3% inflation target. Meanwhile, political risks have resurfaced. President Cyril Ramaphosa faces allegations of misconduct over claims he concealed a 2020 break-in at one of his residences, where large sums of foreign currency were reportedly stolen. He denies wrongdoing, while Parliament is planning impeachment proceedings. This comes at a sensitive time, adding pressure on the ANC ahead of November’s local elections."
-    },
-    {
-      "id": "4881826",
-      "time": "2026-05-15 17:03:09",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【日本4月企業物價指數上升4.9%，石油和化學制品價格大漲】日本央行5月15日公佈的4月國內企業物價指數（2020年平均為100，初值）為132.8，較上年同期上升4.9%。升幅較3月的2.9%大幅上升，為2023年5月後約3年來的最高水平。"
-    },
-    {
-      "id": "4881825",
-      "time": "2026-05-15 17:03:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國通訊管理局（OFCOM）：X將在12個月期間按季度向OFCOM提交業績資料。"
-    },
-    {
-      "id": "4881824",
-      "time": "2026-05-15 17:02:54",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "【央行發《中國人民銀行管理領域嚴重失信主體名單管理辦法（徵求意見稿）》公開徵求意見的通知】中國人民銀行起草了《中國人民銀行管理領域嚴重失信主體名單管理辦法（徵求意見稿）》，現面向社會公開徵求意見。意見反饋截止時間為2026年6月14日。"
-    },
-    {
-      "id": "4881823",
-      "time": "2026-05-15 17:02:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國通訊管理局（OFCOM）：X已就更好地保護英國使用者免受非法仇恨內容與恐怖內容侵害作出公開承諾，英國通訊管理局已接受該承諾。"
     }
   ]
 }
