@@ -1,7 +1,18 @@
 {
-  "updated": "2026-05-23 02:13:55",
-  "count": 16091,
+  "updated": "2026-05-23 02:17:40",
+  "count": 16081,
   "items": [
+    {
+      "id": "te:markets:553187",
+      "time": "2026-05-23 02:15:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural gas Drops by 3.95% — Top commodity losers are Natural gas (-3.95%), Natural Gas UK (-3.16%) and Natural Gas EU (-2.40%). Gains are led by Gasoline (1.79%), Heating Oil (1.62%), Brent Crude Oil (0.61%) and Crude Oil WTI (0.13%)."
+    },
     {
       "id": "mkt:019e50e1-58bf-788e-b251-b4166198463e",
       "time": "2026-05-23 02:10:05",
@@ -144385,118 +144396,6 @@
         "國際"
       ],
       "text": "根據美國證券交易委員會（SEC）檔案披露：Tiger Global Management LLC報告持有英特爾160萬股股份。"
-    },
-    {
-      "id": "4882808",
-      "time": "2026-05-16 02:17:39",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "根據美國證券交易委員會（SEC）披露檔案：TIGER GLOBAL MANAGEMENT LLC將其持有的博通公司（BROADCOM INC）股份增加24.7%，增持後總持股達360萬股。"
-    },
-    {
-      "id": "4882807",
-      "time": "2026-05-16 02:17:21",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【以官員稱以色列正在為重啟對伊朗軍事行動做準備】當地時間15日晚，總檯記者獲悉，一位以色列高階官員稱，以色列正在為即將重啟針對伊朗的軍事行動做準備，軍事行動可能將“持續數天甚至數週”。這位官員表示：“美國人明白與伊朗的談判毫無進展”。他補充道：“我們正在為持續數天甚至數週的戰鬥做準備，並等待特朗普總統的最終決定。未來24小時內我們將瞭解更多情況”。（央視新聞）"
-    },
-    {
-      "id": "4882806",
-      "time": "2026-05-16 02:17:05",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "根據美國證券交易委員會的檔案： TIGER GLOBAL MANAGEMENT LLC將其持有的英偉達股份增加9.1%，持股總量增至1200萬股。"
-    },
-    {
-      "id": "mkt:019e2cdb-0c58-7663-82fb-a0ffc878fe07",
-      "time": "2026-05-16 02:16:53",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "TIGER GLOBAL MANAGEMENT LLC RAISES SHARE STAKE IN NVIDIA BY 9.1% TO 12.0 MLN SHARES - SEC FILING"
-    },
-    {
-      "id": "4882805",
-      "time": "2026-05-16 02:16:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "根據美國證券交易委員會（SEC）檔案：老 TIGER GLOBAL MANAGEMENT LLC將其在Meta的持股比例提高12.2%，目前持有310萬股A類普通股。"
-    },
-    {
-      "id": "mkt:019e2cda-86da-7663-82fb-99b0c932178a",
-      "time": "2026-05-16 02:16:19",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7",
-        "META.O",
-        "Impact bullish"
-      ],
-      "text": "TIGER GLOBAL MANAGEMENT LLC RAISES SHARE STAKE IN META BY 12.2% TO 3.1 MLN CLASS A SHARES - SEC FILING"
-    },
-    {
-      "id": "4882804",
-      "time": "2026-05-16 02:16:14",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "根據美國證券交易委員會（SEC）檔案顯示：TIGER GLOBAL MANAGEMENT有限責任公司增持臺積電49.4%股份，持股總數增至560萬股。"
-    },
-    {
-      "id": "mkt:019e2cda-6267-7663-82fb-95df91dd7246",
-      "time": "2026-05-16 02:16:09",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "TSM.O",
-        "Impact bullish"
-      ],
-      "text": "TIGER GLOBAL MANAGEMENT LLC RAISES SHARE STAKE IN TSMC BY 49.4% TO 5.6 MLN SPONSORED ADS - SEC FILING"
-    },
-    {
-      "id": "te:markets:551288",
-      "time": "2026-05-16 02:15:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Natural Gas UK Spikes by 6.84% — Top commodity gainers are Natural Gas UK (6.84%), Natural Gas EU (6.35%), Crude Oil WTI (4.09%) and Brent Crude Oil (3.33%)."
-    },
-    {
-      "id": "4882803",
-      "time": "2026-05-16 02:15:04",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【美國務院：以色列與黎巴嫩之間的停火協議將延長45天】當地時間5月15日，據美國國務院訊息，以色列與黎巴嫩之間的停火協議將延長45天，以便為後續談判與進展爭取時間。（央視新聞）"
-    },
-    {
-      "id": "4882802",
-      "time": "2026-05-16 02:14:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "敘利亞任命中央銀行行長阿卜杜勒-卡德爾·胡斯里耶為駐加拿大大使。"
     }
   ]
 }
