@@ -1,7 +1,51 @@
 {
-  "updated": "2026-05-23 00:31:43",
-  "count": 16128,
+  "updated": "2026-05-23 00:35:37",
+  "count": 16129,
   "items": [
+    {
+      "id": "mkt:019e5088-c7fa-7443-baf7-83a476a8bbd6",
+      "time": "2026-05-23 00:33:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "UBER.N",
+        "Impact bearish",
+        "DHER.DE",
+        "Impact bullish"
+      ],
+      "text": "UBER SHARES DOWN 2.1% AFTER REPORT CO TO STUDY FULL TAKEOVER OF EUROPEAN RIVAL DELIVERY HERO"
+    },
+    {
+      "id": "mkt:019e5088-81d7-7443-baf7-7ef2af5038fe",
+      "time": "2026-05-23 00:33:03",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "US TREASURY SECRETARY BESSENT: WARSH SHOULD ACT RESPONSIBLY FOR INFLATION AND GROWTH"
+    },
+    {
+      "id": "mkt:019e5088-1ba5-7443-baf7-711ec3ce97f1",
+      "time": "2026-05-23 00:32:37",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact mixed",
+        "XAUUSD"
+      ],
+      "text": "BIPARTISAN SENATORS INTRO RESOLUTION AFFIRMING SUPPORT FOR TAIWAN AS TRUMP ADMIN STALLS ON $14B WEAPONS PACKAGE - SEMAFOR"
+    },
+    {
+      "id": "4895618",
+      "time": "2026-05-23 00:31:34",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【報道：道達爾能源擬出售50%歐洲綠能資產股權】據知情人士透露，法國能源巨頭道達爾能源目前正在秘密評估出售其部分歐洲可再生能源資產50%股權的可能性，以此為其龐大的綠色投資計劃尋覓戰略合作伙伴。該筆潛在交易的涉案金額可能高達數億歐元。該公司目前正與專業顧問機構緊密合作，計劃打包出售位於法國、德國、波蘭和西班牙境內、總裝機容量達1.2吉瓦（GW）的太陽能及風電場核心權益。"
+    },
     {
       "id": "4895617",
       "time": "2026-05-23 00:31:06",
@@ -144813,31 +144857,6 @@
         "國際"
       ],
       "text": "訊息人士：以色列與黎巴嫩的談判至今未達成任何最終協議。"
-    },
-    {
-      "id": "4882698",
-      "time": "2026-05-16 00:33:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "【5月16日零時起 部分貴州茅臺酒產品自營體系零售價格調整】i茅臺5月16日釋出公告，自當天零時起，貴州茅臺對部分貴州茅臺酒產品自營體系零售價格進行調整。公告顯示，調整的產品包括：53%vol 500ml 陳年貴州茅臺酒（15）由4199元/瓶調整為4279元/瓶；53%vol 500ml 貴州茅臺酒（精品）由2299元/瓶調整為2359元/瓶；53%vol 500ml 貴州茅臺酒（丙午馬年）珍享版由2499元/瓶調整為2699元/瓶；飛天53%vol 1L貴州茅臺酒由2989元/瓶調整為3119元/瓶。公告顯示，此次調整是按照茅臺隨行就市、供需適配、量價平衡、相對平穩的原則。"
-    },
-    {
-      "id": "4882697",
-      "time": "2026-05-16 00:32:11",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "俄央行對歐洲清算銀行相關法院裁決表示滿意。"
-    },
-    {
-      "id": "4882696",
-      "time": "2026-05-16 00:31:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國 FDA 批准阿替利珠單抗用於肌層浸潤性膀胱癌。"
     }
   ]
 }
