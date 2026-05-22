@@ -1,7 +1,76 @@
 {
-  "updated": "2026-05-22 10:04:19",
-  "count": 16145,
+  "updated": "2026-05-22 10:08:11",
+  "count": 16144,
   "items": [
+    {
+      "id": "4893992",
+      "time": "2026-05-22 10:06:34",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【PCB板塊持續走高，滬電股份觸及漲停】PCB板塊持續走高，滬電股份觸及漲停，勝宏科技漲超10%，方邦股份、天承科技20cm漲停，科強股份、國際復材漲幅居前。"
+    },
+    {
+      "id": "4893991",
+      "time": "2026-05-22 10:05:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "聯想集團執行長：儲存晶片供應多元化絕對有益。"
+    },
+    {
+      "id": "4893990",
+      "time": "2026-05-22 10:05:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【最高人民法院 最高人民檢察院關於適用刑事缺席審判程式若干問題的規定】《最高人民法院、最高人民檢察院關於適用刑事缺席審判程式若干問題的規定》已於2025年12月4日由最高人民法院審判委員會第1960次會議、2025年12月19日由最高人民檢察院第十四屆檢察委員會第六十六次會議透過，現予公佈，自2026年5月22日起施行。"
+    },
+    {
+      "id": "4893989",
+      "time": "2026-05-22 10:05:25",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨賣出額達20億港元。"
+    },
+    {
+      "id": "4893988",
+      "time": "2026-05-22 10:05:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【港股大模型概念股衝高，智譜漲超9%，MINIMAX-W漲超3%】港股大模型概念股衝高，智譜漲超9%，MINIMAX-W漲超3%。"
+    },
+    {
+      "id": "4893987",
+      "time": "2026-05-22 10:04:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "【多隻半導體ETF、中證1000ETF資金逆勢淨流入】昨日市場行情回撥之際，非貨ETF單日合計淨流出71.62億元，卻見半導體、中證1000等熱門ETF吸引資金流入。Wind資料顯示，中證1000ETF華夏單日吸金最多，淨流入14.85億元；科創半導體ETF華夏也單日淨流入13.91億元，中證1000ETF南方淨流入13.06億元。另外，中證500ETF南方，A500ETF華泰柏瑞、中證1000ETF易方達、中證A500ETF國泰等單日淨流入均超過5億元。另一方面，滬深300ETF、黃金ETF、券商ETF淨流出居前，僅跟蹤滬深300的ETF合計單日即流出89.22億元。"
+    },
+    {
+      "id": "4893986",
+      "time": "2026-05-22 10:04:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超1萬億元，較上日此時縮量1570億元。"
+    },
+    {
+      "id": "mkt:019e4d6c-add8-7aa1-9583-be86a7065ff2",
+      "time": "2026-05-22 10:03:48",
+      "tags": [
+        "MKT News",
+        "RTX.O",
+        "Impact bullish"
+      ],
+      "text": "CORRECTED-U.S. STATE DEPT: APPROVED POTENTIAL SALE OF HAWK MISSILE SYSTEM SUSTAINMENT TO UKRAINE FOR AN ESTIMATED $108.1 MLN (NOT $18.14 MLN)"
+    },
     {
       "id": "4893985",
       "time": "2026-05-22 10:03:13",
@@ -145054,98 +145123,6 @@
         "其他"
       ],
       "text": "【百度成立模型委員會(BMC) 加強人工智慧技術優勢】百度設定百度模型委員會(Baidu Model Committee BMC)，成員由年輕的、對大模型具有深刻理解的研究員構成。基礎模型研發部(BMU)和應用模型研發部(AMU)向百度模型委員會(BMC)彙報。此舉有利於百度進一步集中優勢資源，持續建設及強化人工智慧方向的技術優勢。據知情人士向《科創板日報》透露，新成立的百度模型委員會將全面統籌百度的大模型從路徑探索、技術規劃，到模型訓練、業務落地的全部工作，實現模型從技術到應用一體化。關聯此前多位業內知名大模型研發人才加盟百度的訊息，預計新成立的BMC中會有很多新近加盟的年輕的業內頂級人才。"
-    },
-    {
-      "id": "te:markets:550920",
-      "time": "2026-05-15 10:07:56",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Zijin Mining Stock Price Hits 5-week Low — Zijin Mining shares decreased to 32.50 CNY, the lowest since April 2026. Over the past 4 weeks, Zijin Mining Group lost 7.9%, and in the last 12 months, it increased 86.62%."
-    },
-    {
-      "id": "4881038",
-      "time": "2026-05-15 10:07:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【貿易商維多據悉推銷可在霍爾木茲海峽外交付的伊拉克石油】據知情人士透露，維多集團正在向客戶兜售伊拉克巴士拉原油，這顯示部分原油可能已經成功運出波斯灣。知情人士說，維多過去幾天向煉油商推銷多批貨物，其中包括可在阿聯酋近海（包括富查伊拉港）以船對船過駁方式交付的巴士拉中質原油和巴士拉重質原油。如果成功，這將是自戰爭和霍爾木茲海峽封鎖開始以來，伊拉克原油罕見地出現在現貨市場並由貿易商出售。數月以來，波斯灣大部分原油產量被困，無法運出，阿布扎比國家石油公司(ADNOC)是最早一批透過海峽運出石油的公司之一。"
-    },
-    {
-      "id": "4881037",
-      "time": "2026-05-15 10:07:07",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "天然橡膠連續主力合約日內跌3%，現報17520.00元。"
-    },
-    {
-      "id": "4881036",
-      "time": "2026-05-15 10:07:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "滙豐繼續看好人民幣，預計年底美元兌人民幣將觸及6.65元。"
-    },
-    {
-      "id": "te:markets:550915",
-      "time": "2026-05-15 10:05:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Palladium Hits 5-week Low — Palladium futures slipped below $1,450 per ounce, touching their lowest level in five weeks amid a broader selloff across precious metal markets. The decline came as rising US inflation, fueled by escalating geopolitical tensions and higher energy prices, strengthened expectations that the Fed will keep interest rates elevated for longer. Producer prices recorded their fastest annual increase since 2022 in April, while consumer inflation posted its strongest rise since 2023. The stronger inflation outlook lifted the dollar and drove 10-year Treasury yields higher, reducing the appeal of non-yielding assets. Despite the recent pullback, supply conditions remain relatively tight. Production disruptions in South Africa and continued uncertainty surrounding Russian exports, still affected by sanctions and shifting trade routes, have kept the market sensitive to supply-side risks. Palladium has declined 8.54% over the past four weeks, though prices remain up 50.36% compared with a year ago."
-    },
-    {
-      "id": "mkt:019e2961-1ca5-7bb5-b4d5-08b6f310398e",
-      "time": "2026-05-15 10:04:50",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "【Alphabet Sells Biggest Yen Bond on Record by Foreign Issuer】Alphabet Inc. sold ¥576.5 billion ($3.6 billion) of bonds in the largest-ever yen deal by a non-Japanese company, as competition to fund data centers and AI infrastructure intensifies. The offering included ¥200.5 billion of five-year bonds priced at 50 basis points over mid-swaps. The sale is part of nearly $60 billion in recent borrowing by Alphabet and reflects rising demand for yen bonds from global firms amid AI-driven capital spending, with non-Japanese yen issuance up more than 280% this year."
-    },
-    {
-      "id": "4881035",
-      "time": "2026-05-15 10:04:48",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本40年期國債收益率上升5個基點至4.2%。"
-    },
-    {
-      "id": "4881034",
-      "time": "2026-05-15 10:04:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "【原貴州水城礦業（集團）有限責任公司副總經理張思明接受審查調查】中央紀委國家監委網站5月15日通報，據貴州省紀委監委訊息：原貴州水城礦業（集團）有限責任公司副總經理張思明涉嫌嚴重違紀違法，目前正接受貴州省紀委監委紀律審查和監察調查。"
-    },
-    {
-      "id": "mkt:019e2960-b402-7bb5-b4d5-03ca06add5ad",
-      "time": "2026-05-15 10:04:23",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "GOOGL.O",
-        "Impact bullish"
-      ],
-      "text": "MOODY'S RATINGS ASSIGNS AA2 RATING TO ALPHABET'S NEW SENIOR UNSECURED NOTES; OUTLOOK REMAINS STABLE"
     }
   ]
 }
