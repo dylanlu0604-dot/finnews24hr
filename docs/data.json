@@ -1,7 +1,51 @@
 {
-  "updated": "2026-05-23 00:27:50",
-  "count": 16130,
+  "updated": "2026-05-23 00:31:43",
+  "count": 16128,
   "items": [
+    {
+      "id": "4895617",
+      "time": "2026-05-23 00:31:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：沃什將為通脹與經濟增長作出合理決策。"
+    },
+    {
+      "id": "te:markets:553181",
+      "time": "2026-05-23 00:29:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "DAX Finishes at Over 2-Week High — Frankfurt's DAX 40 rose further to close about 1.2% firmer at 24,889 on Friday, the highest in over two weeks, driven largely by tech momentum and some hopes for a breakthrough in US-Iran talks. On the data front, German consumer sentiment improved slightly heading into June, defying expectations of a further decline, as did business sentiment, despite remaining near multi-year lows. Infineon Technologies led gains among stocks, surging over 7%. Deutsche Post (+3.9%) also saw strong buying after Deutsche Bank upgraded the stock to “buy” from “hold.”."
+    },
+    {
+      "id": "4895616",
+      "time": "2026-05-23 00:27:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴基斯坦軍方：陸軍參謀長抵達德黑蘭，此行旨在開展斡旋工作。"
+    },
+    {
+      "id": "mkt:019e5083-8959-7443-baf7-6833df63d89e",
+      "time": "2026-05-23 00:27:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "PAKISTAN MILITARY: ASIM MUNIR, CHIEF OF ARMY STAFF, ARRIVED IN TEHRAN AS PART OF ONGOING MEDIATION EFFORTS"
+    },
+    {
+      "id": "4895615",
+      "time": "2026-05-23 00:27:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "優步（uber）股價跌幅擴大至3.1%。"
+    },
     {
       "id": "mkt:019e5082-7981-7443-baf7-657d56c2de30",
       "time": "2026-05-23 00:26:28",
@@ -144794,64 +144838,6 @@
         "國際"
       ],
       "text": "美國 FDA 批准阿替利珠單抗用於肌層浸潤性膀胱癌。"
-    },
-    {
-      "id": "4882695",
-      "time": "2026-05-16 00:31:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：現代汽車首席美國遊說代表將在擔任關鍵職務一年後離職。"
-    },
-    {
-      "id": "mkt:019e2c79-429d-7663-82fa-a9f825ec0d2d",
-      "time": "2026-05-16 00:30:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. CONSIDERS ASKING ISRAEL TO GIVE PALESTINIAN TAX MONEY TO TRUMP'S BOARD OF PEACE FOR GAZA REBUILDING, SOURCES SAY"
-    },
-    {
-      "id": "4882694",
-      "time": "2026-05-16 00:29:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國正考慮要求以色列將巴勒斯坦稅款轉交特朗普加沙重建和平委員會用於相關重建工作。"
-    },
-    {
-      "id": "4882693",
-      "time": "2026-05-16 00:29:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源部部長賴特：特朗普政府豁免《瓊斯法案》，助力本土燃油調配，保障數百萬美國民眾日常用油供應。"
-    },
-    {
-      "id": "mkt:019e2c77-b53c-7663-82fa-a62bc6f72bd8",
-      "time": "2026-05-16 00:28:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "MEXICAN PRESIDENT SHEINBAUM: WE AGREED TO SPEAK AGAIN AND TO CONTINUE THE DIALOGUE WITH SOME OF HIS AIDES WHO WILL BE VISITING OUR COUNTRY IN THE NEAR FUTURE"
-    },
-    {
-      "id": "mkt:019e2c77-a168-7663-82fa-9ae19b8ce6a7",
-      "time": "2026-05-16 00:28:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "MEXICAN PRESIDENT SHEINBAUM SAYS REAFFIRMED THE WORK WE ARE DOING ON SECURITY AND THE TRADE TALKS"
-    },
-    {
-      "id": "mkt:019e2c77-8c1c-7663-82fa-936c6a091d7d",
-      "time": "2026-05-16 00:28:12",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "MEXICAN PRESIDENT SHEINBAUM SAYS HAD A CORDIAL AND EXCELLENT CONVERSATION WITH PRESIDENT TRUMP"
     }
   ]
 }
