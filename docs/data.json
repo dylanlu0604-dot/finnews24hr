@@ -1,7 +1,15 @@
 {
-  "updated": "2026-05-23 01:43:34",
-  "count": 16115,
+  "updated": "2026-05-23 01:47:26",
+  "count": 16108,
   "items": [
+    {
+      "id": "4895670",
+      "time": "2026-05-23 01:46:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "美光CEO：記憶體晶片短缺局面將持續至 2026 年之後。"
+    },
     {
       "id": "4895669",
       "time": "2026-05-23 01:41:56",
@@ -144649,87 +144657,6 @@
         "其他"
       ],
       "text": "OpenAI總裁格雷格・布羅克曼將執掌OpenAI產品戰略事務。"
-    },
-    {
-      "id": "mkt:019e2cbf-f59c-7663-82fb-570eef0165c2",
-      "time": "2026-05-16 01:47:18",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "ISRAEL IS READYING ITSELF FOR A POSSIBLE RESTART OF WAR WITH IRAN, SAYS A TOP OFFICIAL"
-    },
-    {
-      "id": "mkt:019e2cbf-b353-7663-82fb-4cc73b3f11ce",
-      "time": "2026-05-16 01:47:01",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "ISRAELI CHANNEL 12: CHIEF OF STAFF EYAL ZAMIR PUSHED TOWARD ACCELERATING THE ASSASSINATION OF AZZ AD-DIN HADDAD"
-    },
-    {
-      "id": "mkt:019e2cbf-9ce4-7663-82fb-429da42d220f",
-      "time": "2026-05-16 01:46:46",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "ISRAELI MEDIA: THE ARMY ASSASSINATED THE GENERAL COMMANDER OF THE QASSAM BRIGADES, IZZ AL-DIN AL-HADDAD, BY BOMBING AN APARTMENT IN THE RIMAL NEIGHBORHOOD IN GAZA"
-    },
-    {
-      "id": "mkt:019e2cbf-4eb8-7663-82fb-392d3021fc76",
-      "time": "2026-05-16 01:46:35",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "ISRAELI CHANNEL 12: PREVIOUS OPPORTUNITIES WERE AVAILABLE TO ASSASSINATE AL-HADDAD, AND TODAY A DECISION WAS ISSUED FOR EXECUTION"
-    },
-    {
-      "id": "4882775",
-      "time": "2026-05-16 01:46:15",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲隔夜回購操作未收到任何投標。"
-    },
-    {
-      "id": "4882773",
-      "time": "2026-05-16 01:45:27",
-      "tags": [
-        "市場"
-      ],
-      "text": "洲際交易所（ICE）：投機者5月12日當週所持ICE布倫特原油淨多頭頭寸減少28,400手合約，至345,805手合約，創最近十週新低。"
-    },
-    {
-      "id": "4882772",
-      "time": "2026-05-16 01:45:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗駐聯合國大使：巴勒斯坦的未來應由巴勒斯坦人民自己決定。"
-    },
-    {
-      "id": "4882770",
-      "time": "2026-05-16 01:44:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "【加拿大聯邦政府與石油重鎮達成協議，將於2027年開工建設石油管道】加拿大總理卡尼與阿爾伯塔省省長Danielle Smith宣佈，聯邦政府與阿爾伯塔省就碳定價達成協議，這將允許最早在2027年開工建設一條新石油管道，同時也縮減了渥太華此前與該交易掛鉤的碳捕集專案的規模。"
     }
   ]
 }
