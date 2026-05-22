@@ -1,7 +1,54 @@
 {
-  "updated": "2026-05-23 04:04:13",
-  "count": 16090,
+  "updated": "2026-05-23 04:08:02",
+  "count": 16089,
   "items": [
+    {
+      "id": "4895750",
+      "time": "2026-05-23 04:07:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普確認烏茲別克“BB/B”評級；展望穩定。"
+    },
+    {
+      "id": "4895749",
+      "time": "2026-05-23 04:06:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普：負面展望反映我們的觀點，即波斯尼亞和黑塞哥維那聯邦新政府或無法在2027-2028年期間整合預算。"
+    },
+    {
+      "id": "4895748",
+      "time": "2026-05-23 04:05:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數連續第八週上漲，是自2023年12月結束的九周連漲以來的最長紀錄。"
+    },
+    {
+      "id": "mkt:019e514b-0cb8-7aae-9ae1-2ad390bb9dfc",
+      "time": "2026-05-23 04:05:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bullish",
+        "Dow",
+        "Nasdaq100"
+      ],
+      "text": "【S&P 500 Posts Longest Weekly Winning Streak Since 2023 as Dow Hits Record】US stocks advanced Friday, with the S&P 500 rising 0.4% to secure its eighth straight weekly gain, the longest winning streak since 2023, while the Dow Jones Industrial Average climbed 0.6% after reaching a record high a day earlier. The Nasdaq Composite added 0.2%. Markets rebounded after midweek optimism over potential US-Iran progress eased concerns about inflation and energy prices, though uncertainty remained over Iran’s uranium stockpile and the Strait of Hormuz. Separately, consumer sentiment fell to a record low in May, according to the University of Michigan, as inflation expectations increased."
+    },
+    {
+      "id": "4895746",
+      "time": "2026-05-23 04:03:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "戴爾股價收盤上漲17%，創下2月份以來最大單日漲幅。"
+    },
     {
       "id": "mkt:019e5148-d2c7-7aae-9ae1-2400ac73b39b",
       "time": "2026-05-23 04:03:07",
@@ -144423,70 +144470,6 @@
         "Importance 1"
       ],
       "text": "US Stocks Fall Sharply — Stocks fell sharply on Friday as investors grew increasingly concerned about the impact of the prolonged conflict with Iran, particularly the risk that higher energy prices could further fuel inflation and keep interest rates elevated. The S&P 500 lost 1.2%, the Nasdaq Composite dropped 1.5% and the Dow Jones fell 1.1%. Investors took profits in the technology sector following strong recent gains. Intel declined 5%, while Advanced Micro Devices and Micron Technology fell 3% and 4%, respectively. Nvidia lost 2%, and Cerebras Systems dropped 4% after surging 68% in the previous session following its Nasdaq debut. Microsoft outperformed, rising 4% after Bill Ackman revealed that Pershing Square had built a position in the company. Boeing shares also extended losses, falling 3% after dropping nearly 5% a day earlier, as investors reacted negatively to Trump’s announcement that China agreed to purchase 200 Boeing jets, only modestly above prior expectations."
-    },
-    {
-      "id": "4882901",
-      "time": "2026-05-16 04:07:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "標普：奈及利亞作為大型原油淨出口國及新興成品油生產國，受中東衝突帶來的衝擊影響相對較小。"
-    },
-    {
-      "id": "4882900",
-      "time": "2026-05-16 04:07:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "Cerebras：透過美國IPO總體融資大約63.8億美元。"
-    },
-    {
-      "id": "4882899",
-      "time": "2026-05-16 04:06:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "標普：預計保加利亞經濟增長可抵禦中東戰事帶來的間接衝擊，部分得益於該國近期積極推進能源供應多元化佈局。"
-    },
-    {
-      "id": "4882898",
-      "time": "2026-05-16 04:05:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "標普將奈及利亞信用評級由 B - 上調至 B 級，展望保持穩定。"
-    },
-    {
-      "id": "mkt:019e2d3e-9e1a-7663-82fc-6089451eef40",
-      "time": "2026-05-16 04:05:38",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "NVIDIA",
-        "Macro & Rates",
-        "Treasury Yields",
-        "Market Themes",
-        "The Trump Trade",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bearish",
-        "Nasdaq100",
-        "US10Y"
-      ],
-      "text": "【US Stocks Slide as Treasury Yields Jump Before Nvidia Results】US stocks fell Friday as a surge in Treasury yields and inflation concerns pressured markets ahead of Nvidia earnings next week. The Nasdaq dropped 1.5%, led by a 4% decline in Nvidia shares, while the S&P 500 fell 1.2% and the Dow Jones Industrial Average lost 530 points. The 10-year Treasury yield climbed to 4.59% and the 30-year yield reached 5.13% during a broader global bond selloff. Investors also monitored the Trump-Xi summit in Beijing, which produced business agreements involving companies including Boeing and Nvidia, while tensions over Iran and Taiwan remained in focus."
-    },
-    {
-      "id": "mkt:019e2d3e-0e20-7663-82fc-5973fc75b033",
-      "time": "2026-05-16 04:05:02",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish"
-      ],
-      "text": "MORNINGSTAR DBRS CHANGES TRENDS ON PORTUGAL TO POSITIVE, CONFIRMS CREDIT RATINGS AT A (HIGH)"
     }
   ]
 }
