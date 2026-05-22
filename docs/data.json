@@ -1,7 +1,25 @@
 {
-  "updated": "2026-05-23 03:25:52",
+  "updated": "2026-05-23 03:29:35",
   "count": 16061,
   "items": [
+    {
+      "id": "4895703",
+      "time": "2026-05-23 03:27:26",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【儘管國際油價大漲，美國北達科他州油企對擴大鑽探仍持謹慎態度】美國北達科他州監管機構表示，儘管由伊朗戰爭引爆的國際油價瘋狂暴漲大幅改善了行業的短期基本面，但該州的美國石油運營商們在重開鑽機、拉高產量的行動上依舊步履謹慎。各家能源公司目前普遍處於觀望狀態，以研判當前的牛市高位究竟能維持多久，是否足以支撐起新一輪龐大資本開支的合理性。 北達科他州工業委員會（Industrial Commission）石油天然氣部助理主任博雷爾（Mark Bohrer）指出，該州第二大石油生產商——大陸能源公司（Continental Resources）在今年早些時候曾主動撤下一臺鑽機，而近期該公司已在悄然規劃重新部署該鑽機並全面恢復鑽探作業。他耐人尋味地補充道：“如果高企的國際油價能夠挺得足夠久，其他一些運營商大機率也會按捺不住，開始在個別區塊零星地追加鑽機。”與此同時，康菲石油、EOG Resources、以及響尾蛇能源（Diamondback Energy）等美股上市能源巨頭也正在大舉調撥優勢資源開鑿新井或擴建既有舊井。不過據瞭解，這些巨頭的增產重心目前主要死死錨定在資本回報率更高的二疊紀盆地，以期最大化地榨取當前高油價環境下的暴利紅利。"
+    },
+    {
+      "id": "4895701",
+      "time": "2026-05-23 03:26:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【普京稱烏襲擊盧甘斯克學校6死39傷】俄羅斯總統普京5月22日表示，烏克蘭使用16架無人機分三波於當天凌晨襲擊了盧甘斯克地區一所學校，導致6人死亡、39人受傷，還有十多人失蹤。普京強調，沒有證據表明這些無人機是因為被擊落或偏離航線才擊中學校宿舍樓的。他已責成俄羅斯國防部拿出報復性打擊方案。 (CCTV國際時訊)"
+    },
     {
       "id": "4895700",
       "time": "2026-05-23 03:20:14",
@@ -144206,28 +144224,6 @@
         "Impact bullish"
       ],
       "text": "CFTC-COMEX SILVER SPECULATORS RAISE NET LONG POSITION BY 5,254 CONTRACTS TO 16,195 IN WEEK TO MAY 12"
-    },
-    {
-      "id": "mkt:019e2d1d-8f14-7663-82fb-f51ab13072d6",
-      "time": "2026-05-16 03:29:32",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "CFTC-COMEX GOLD SPECULATORS RAISE NET LONG POSITION BY 4,963 CONTRACTS TO 100,627 IN WEEK TO MAY 12"
-    },
-    {
-      "id": "mkt:019e2d1a-a360-7663-82fb-eda941d8da29",
-      "time": "2026-05-16 03:26:20",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "【AI-Exposed US Jobs See Second Year of Declines, Led by Customer Service Roles】US occupations identified by the Bureau of Labor Statistics as exposed to AI posted a 0.2% employment decline between May 2024 and May 2025, versus overall job growth of 0.8%. Excluding medical secretaries and assistants, employment across the other AI-exposed occupations fell 1.6% for a second straight year. Customer service representatives saw the largest drop, down 130,180 jobs, or 4.8%. Goldman Sachs economists said occupations highly exposed to AI substitution have seen job openings fall below pre-pandemic levels."
     }
   ]
 }
