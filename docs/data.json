@@ -1,7 +1,52 @@
 {
-  "updated": "2026-05-23 05:13:18",
-  "count": 16147,
+  "updated": "2026-05-23 05:17:09",
+  "count": 16150,
   "items": [
+    {
+      "id": "4895832",
+      "time": "2026-05-23 05:15:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時A50期指連續夜盤收跌0.18%，報15361點。"
+    },
+    {
+      "id": "4895831",
+      "time": "2026-05-23 05:15:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿根廷經濟部長：大豆出口稅目前為24%，將於2027年底降至21%，2028年底降至15%。"
+    },
+    {
+      "id": "4895830",
+      "time": "2026-05-23 05:14:34",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "土耳其央行對某些貸款下調八週增長限制。"
+    },
+    {
+      "id": "4895829",
+      "time": "2026-05-23 05:14:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【世界銀行緊急馳援埃博拉疫情，正醞釀更大規模資金支援計劃】世界銀行目前已緊急向剛果民主共和國（剛果（金））東部前線派遣了專家團隊並調撥了應急資源，以全力抗擊肆虐的埃博拉疫情。同時，世行正在緊鑼密鼓地制定一項龐大的融資方案，以確保更多抗疫資金能夠以最快速度精準下撥。 世界銀行全球衛生部門負責人Monique Vledder坦言，除了深陷泥潭的剛果（金）本土，世行目前對周邊的南蘇丹和蒲隆地也感到極度焦慮，這兩個國家的醫療衛生應急響應體系極為脆弱。儘管已經錄得2例確診病例的鄰國烏干達擁有相對健全的公共衛生網路，但其當前同樣暴露出不小的防疫資金窟窿。在未來的幾個月裡，全球抗疫主戰場對資金的需求量毫無疑問將呈爆發式增長。"
+    },
+    {
+      "id": "te:economy:553197",
+      "time": "2026-05-23 05:13:15",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Argentina",
+        "Retail Sales YoY",
+        "Importance 0"
+      ],
+      "text": "Argentina Retail Sales Growth Slows Sharply — Argentina’s retail sales rose 3.6% year-on-year in March 2026 to ARS 552.97 billion, slowing sharply from an 18% jump in February. At current prices, the strongest gains were recorded in perfumery and pharmacies (21.6%), furniture, home décor and household textiles (16.5%), sportswear and sporting goods (15.2%), food courts, food and kiosks (10.7%), and books and stationery (10.1%). In contrast, sales of electronics, home appliances and computers fell 7.8%, while toys declined 6%. In the City of Buenos Aires, total sales at current prices reached ARS 171.13 billion, up 13.3%, while sales in the 24 districts of Greater Buenos Aires fell 5.2% to ARS 172.43 billion. At constant prices, retail sales declined 13.3%."
+    },
     {
       "id": "4895828",
       "time": "2026-05-23 05:12:16",
@@ -144912,22 +144957,6 @@
         "市場"
       ],
       "text": "標普道瓊斯指數公司：Cerebras符合條件，可於下週一被納入納指。"
-    },
-    {
-      "id": "4882977",
-      "time": "2026-05-16 05:15:35",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時A50期指連續夜盤收漲0.22%，報15675點。"
-    },
-    {
-      "id": "4882976",
-      "time": "2026-05-16 05:14:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國政府發言人：正敲定國防投資計劃，將盡快對外公佈。"
     }
   ]
 }
