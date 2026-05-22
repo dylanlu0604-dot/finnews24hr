@@ -1,7 +1,156 @@
 {
-  "updated": "2026-05-22 21:18:17",
-  "count": 16098,
+  "updated": "2026-05-22 21:22:13",
+  "count": 16107,
   "items": [
+    {
+      "id": "mkt:019e4fd9-4ade-7113-afb4-487b2d02f3fe",
+      "time": "2026-05-22 21:21:40",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "CHINA WELCOMES FOREIGN PHARMACEUTICAL ENTERPRISES"
+    },
+    {
+      "id": "4895338",
+      "time": "2026-05-22 21:21:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "北極盟國就安全對話發表聯合宣告。"
+    },
+    {
+      "id": "mkt:019e4fd8-fb98-7113-afb4-43db72828ef0",
+      "time": "2026-05-22 21:21:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "CHINA COMMERCE MINISTRY HOLDS MEETING WITH FOREIGN PHARMACEUTICAL COMPANIES - STATEMENT"
+    },
+    {
+      "id": "4895337",
+      "time": "2026-05-22 21:21:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "5月22日，全球基金淨賣出價值444億印度盧比的印度股票。"
+    },
+    {
+      "id": "4895336",
+      "time": "2026-05-22 21:20:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "帝國石油第一季度營收為6170萬美元，為公司歷史第二好季度業績。"
+    },
+    {
+      "id": "mkt:019e4fd8-584d-7113-afb4-3ea27c1493af",
+      "time": "2026-05-22 21:20:38",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ITALY'S 2-YR BOND YIELD DEEPENS DECLINE, LAST DOWN 9.4 BPS AT 2.7865%, LOWEST SINCE MAY 8"
+    },
+    {
+      "id": "4895335",
+      "time": "2026-05-22 21:20:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "義大利兩年期國債收益率<IT2YT=RR>跌幅進一步擴大，最新下跌9.4個基點，報2.7865%，為5月8日以來最低水平。"
+    },
+    {
+      "id": "4895334",
+      "time": "2026-05-22 21:20:06",
+      "tags": [
+        "行業",
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "【商務部召開醫藥行業外資企業圓桌會】5月22日，商務部副部長兼國際貿易談判副代表凌激主持召開醫藥行業外資企業圓桌會。賽諾菲、諾華、默沙東、碧迪醫療、吉利德科學、禮來、丹納赫等50餘家外資企業代表參會。商務部、工業和資訊化部、國家衛生健康委、國家醫保局、國家藥監局有關部門參會並現場與企業交流。凌激表示，“十五五”時期是推進健康中國建設的關鍵時期，中國醫藥產業創新生態體系完備，擁有世界規模最大的醫療衛生服務保障體系，將為跨國醫藥企業在華長期發展創造巨大機遇。中國政府堅持以人民為中心，持續提高醫療產品和服務質量，健全定價形成機制及監管體系，擴大相關領域對外開放，依法保障外資企業國民待遇。歡迎各國醫藥企業繼續深耕中國市場，共享中國發展紅利。與會外資企業歡迎國家有關部門近期出臺的醫藥領域一系列法規政策舉措，願繼續擴大在華投資，助力“健康中國”建設。"
+    },
+    {
+      "id": "4895333",
+      "time": "2026-05-22 21:19:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "據報道， 儘管卡達在地區外交領域具備廣泛影響力，但此前伊朗在戰事中以導彈及無人機襲擊該國後，卡達基本不再參與此次衝突調解工作。"
+    },
+    {
+      "id": "te:economy:553122",
+      "time": "2026-05-22 21:19:07",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Chile",
+        "Producer Prices Change",
+        "Importance 1"
+      ],
+      "text": "Chile Producer Inflation Accelerates in April — Chile’s producer prices increased 17.7% year-on-year in April 2026, accelerating from a 14.8% rise in March, driven by higher mining costs. The mining sector posted the sharpest increase, with prices surging 30.8% as copper producer prices jumped 30.9%. Meanwhile, utility prices rose 3.7% and manufacturing prices increased 3.8%. On a monthly basis, the producer price index advanced 1.6%, bringing the year-to-date increase to 5.2%."
+    },
+    {
+      "id": "4895332",
+      "time": "2026-05-22 21:18:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "德國兩年期國債收益率下跌8個基點，報2.6%，創5月8日以來新低。德國10年期國債收益率延續跌勢；最新下跌7.7個基點，報3.0236%，創5月11日以來新低。"
+    },
+    {
+      "id": "te:economy:553121",
+      "time": "2026-05-22 21:18:45",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Belgium",
+        "Business Confidence",
+        "Importance 1"
+      ],
+      "text": "Belgium Business Sentiment Improves Slightly — Belgium's business confidence indicator rose by 0.9 points to -13.3 in May 2026, up from a one-year low of -14.2 in the prior month and better than the expected -13.5. The business climate improved primarily in the building industry (-11.1 vs -15.7 in April), supported by continued growth in orders and expectations of stronger demand in the near term. The business-related services sector also saw sentiment strengthen (-8.8 vs -11.6) after declining steadily since December last year, driven by significantly better expectations for future activity and overall demand, even as current activity was viewed less favorably. Trade confidence was unchanged (14.8 vs 14.8), as weaker demand expectations were balanced by improved employment and supplier order forecasts. Meanwhile, manufacturing sentiment fell slightly (-14.8 vs -14.4), with firms more pessimistic on demand and stocks, though order books and hiring plans strengthened."
+    },
+    {
+      "id": "mkt:019e4fd6-9e1b-7113-afb4-34a85800e3da",
+      "time": "2026-05-22 21:18:45",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "TRUMP: STOP PLAYING GAMES AND PASS THE SAVE AMERICA ACT!"
+    },
+    {
+      "id": "4895331",
+      "time": "2026-05-22 21:18:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "義大利10年期國債收益率下跌10.8個基點，報3.755%。"
+    },
+    {
+      "id": "4895330",
+      "time": "2026-05-22 21:18:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯常駐聯合國代表團通報，應俄方要求，聯合國將於今日 22 時召開緊急會議，審議烏克蘭武裝部隊在舊別利斯克發動襲擊相關事宜。"
+    },
+    {
+      "id": "4895329",
+      "time": "2026-05-22 21:17:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：需要趕快透過《拯救美國法案》！"
+    },
     {
       "id": "4895328",
       "time": "2026-05-22 21:17:39",
@@ -144452,63 +144601,6 @@
         "其他"
       ],
       "text": "世衛組織總幹事：獲悉金沙薩已出現13例埃博拉病例。"
-    },
-    {
-      "id": "4882388",
-      "time": "2026-05-15 21:22:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基：我們正敲定針對俄羅斯的新一輪遠端長期制裁目標，以此回擊其發動戰爭、襲擊烏城鄉地區的行徑。俄方每一次造成本國民眾傷亡的打擊行動，烏克蘭都絕不會讓侵略者逍遙法外。我們精準瞄準俄羅斯石油產業、軍工產業，以及所有直接對烏克蘭及烏克蘭民眾犯下戰爭罪行的相關人員。"
-    },
-    {
-      "id": "4882387",
-      "time": "2026-05-15 21:21:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基：“今日我與烏克蘭武裝部隊總參謀部、國防部總局情報局、烏克蘭國家安全域性相關負責人舉行會議，商議三大核心議題。”"
-    },
-    {
-      "id": "4882386",
-      "time": "2026-05-15 21:21:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄外交部長：俄方願向古巴提供支援】俄羅斯外交部網站15日釋出通報說，俄外交部長拉夫羅夫當天在印度新德里出席金磚國家外長會晤期間會見古巴外長羅德里格斯時表示，俄方願向古巴提供適當的政治外交與物質支援。 通報說，俄方表示，“在局勢空前升級的背景下，願向哈瓦那提供適當的政治外交與物質支援”。俄方表示願協助古巴滿足其“公正的要求”，即立即停止美國對古巴的貿易、經濟和金融封鎖，並將古巴從美國認定的“支援恐怖主義國家”名單中移除。(新華社)"
-    },
-    {
-      "id": "4882385",
-      "time": "2026-05-15 21:20:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "【全國史學界21項代表性成果釋出 展現新時代史學研究新成績】中國歷史研究院今天（5月15日）釋出21項代表性成果，集中展現新時代中國史學研究取得的新成績。這些代表性成果包括《馬克思主義發展史》（十卷本）、《中華文明史簡明讀本》等。釋出現場，主辦方向成果作者代表頒發了證書。據介紹，中國歷史研究院面向全國主要史學研究與教學機構，徵集近十年來的優秀史學著作與論文，共收到參評成果150餘種，最終遴選出21項代表性成果，涵蓋學術專著、論文和普及讀物。（央視新聞）"
-    },
-    {
-      "id": "4882384",
-      "time": "2026-05-15 21:20:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "【十銓董事長：儲存器漲價或延續至2027年】儲存模組廠十銓科技董事長夏澹寧在股東會後表示，受惠AI需求持續攀升，外界看好儲存產業熱度預計一路延續至2028年。儘管上游產能將從2027年逐步增加，但從目前接單與技術發展趨勢來看，2026~2027年上半年的需求仍非常龐大，價格極可能維持高檔。（科創板日報）"
-    },
-    {
-      "id": "4882383",
-      "time": "2026-05-15 21:20:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "世界衛生組織總幹事譚德塞召開新聞釋出會，談及漢坦病毒及其他全球公共衛生議題。"
-    },
-    {
-      "id": "4882382",
-      "time": "2026-05-15 21:19:22",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "印度市場監管機構：解決境外機構投資者准入難題，釐清永久賬戶編號分配相關問題。"
     }
   ]
 }
