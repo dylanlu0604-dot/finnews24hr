@@ -1,7 +1,41 @@
 {
-  "updated": "2026-05-25 00:53:18",
-  "count": 16433,
+  "updated": "2026-05-25 00:57:05",
+  "count": 16434,
   "items": [
+    {
+      "id": "mkt:019e5ae8-470c-7dd0-bb38-e5ed7c103b68",
+      "time": "2026-05-25 00:53:41",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Poland FM Rejects Iran Nuclear Weapons, Backs Reopening Strait Of Hormuz"
+    },
+    {
+      "id": "mkt:019e5ae8-0e1b-7dd0-bb38-d99608a934c2",
+      "time": "2026-05-25 00:53:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Poland Foreign Minister Says US Troop Deployment Changes In Europe Not New"
+    },
+    {
+      "id": "mkt:019e5ae7-de3f-7dd0-bb38-d3fbb642a1ee",
+      "time": "2026-05-25 00:53:13",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "【HEZBOLLAH Leader Urges Lebanon To Reject Direct Talks With Israel】HEZBOLLAH Leader Naim Qassem Urges Lebanese Authorities To Abandon Direct Talks With Israel, Calls Talks 'Completely Unacceptable'; Next Israel-Lebanon Round Scheduled In Washington Early Next Month"
+    },
     {
       "id": "mkt:019e5ae7-312c-7dd0-bb38-caa723c76e35",
       "time": "2026-05-25 00:52:31",
@@ -147292,23 +147326,6 @@
         "其他"
       ],
       "text": "阿聯酋總統外交顧問：針對巴拉卡核電站的襲擊——無論是由“主謀直接實施還是透過其代理人發動”——都屬於危險的升級行為。"
-    },
-    {
-      "id": "4884013",
-      "time": "2026-05-18 00:56:32",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "韓國總理表示，韓國將考量包括緊急仲裁在內的所有應對方案，力求避免該國最大僱主三星電子爆發大規模員工罷工；即便罷工發生，也將全力把各類損失降至最低。"
-    },
-    {
-      "id": "4884009",
-      "time": "2026-05-18 00:54:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "德國前總理默克爾談徵兵制：如今民眾希望再度調整義務兵役制，我對此表示理解。但當年曾有多個專門委員會主張暫停徵兵制。彼時各界普遍認為，歐洲內部已不再存在需要依靠軍事力量自衛的安全隱患，德國也秉持這一觀念，只因現實局勢已然發生轉變。我們並未透過修憲徹底廢除徵兵制度，只是將其暫時擱置。這也意味著如今只需議會簡單多數票，便可重新對該制度作出調整。"
     }
   ]
 }
