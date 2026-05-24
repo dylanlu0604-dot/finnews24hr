@@ -1,7 +1,25 @@
 {
-  "updated": "2026-05-25 04:34:23",
-  "count": 16462,
+  "updated": "2026-05-25 04:38:13",
+  "count": 16463,
   "items": [
+    {
+      "id": "mkt:019e5bb3-c1a4-7882-93e8-747f521d476c",
+      "time": "2026-05-25 04:35:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar Ministry Of Defense: QATAR PM Urges Mediation, Dialogue To Resolve Crisis, Avert Escalation"
+    },
+    {
+      "id": "mkt:019e5bb2-4b62-7882-93e8-6954deff3f91",
+      "time": "2026-05-25 04:34:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "VON DER LEYEN To Meet EU Heads Of State And Government; Visit To Focus On Strengthening Joint Defense - Politico"
+    },
     {
       "id": "mkt:019e5bb1-b2ca-7882-93e8-6506a7ffce71",
       "time": "2026-05-25 04:33:44",
@@ -147639,14 +147657,6 @@
         "國際"
       ],
       "text": "特朗普離開特朗普國家高爾夫俱樂部，被看到正邊走邊通電話。"
-    },
-    {
-      "id": "4884237",
-      "time": "2026-05-18 04:34:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比魯比奧：自由計劃之所以終止，是應巴基斯坦方面的要求。巴方稱“美方若叫停自由計劃，我們認為雙方有望達成協議”。我方隨後應允並終止了該計劃。"
     }
   ]
 }
