@@ -1,7 +1,29 @@
 {
-  "updated": "2026-05-25 06:35:42",
-  "count": 16483,
+  "updated": "2026-05-25 06:39:33",
+  "count": 16481,
   "items": [
+    {
+      "id": "te:markets:553215",
+      "time": "2026-05-25 06:37:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Falls to below $99 — Oil fell at the start of the week as the US and Iran moved closer to a deal. According to MS Now, the proposed deal would reopen the Strait of Hormuz, bring an end to the hostilities, unfreeze some Iranian assets, and pave the way for further negotiations aimed at limiting Tehran’s nuclear program. Still, President Trump said Washington would maintain its blockade of the Strait of Hormuz until an agreement is finalized and he wouldn’t “rush” into a deal. Brent fell by 5% to below $99 a barrel while crude oil was down to $92."
+    },
+    {
+      "id": "te:markets:553214",
+      "time": "2026-05-25 06:35:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Crude Oil Falls 5% — Oil fell at the start of the week as the US and Iran moved closer to a deal. According to MS Now, the proposed deal would reopen the Strait of Hormuz, bring an end to the hostilities, unfreeze some Iranian assets, and pave the way for further negotiations aimed at limiting Tehran’s nuclear program. Still, President Trump said Washington would maintain its blockade of the Strait of Hormuz until an agreement is finalized and he wouldn’t “rush” into a deal. Crude oil was down by 5% to $92 after falling more than 5% last week while brent fell to $99 a barrel."
+    },
     {
       "id": "4897483",
       "time": "2026-05-25 06:32:49",
@@ -147801,44 +147823,6 @@
         "其他"
       ],
       "text": "當地州長表示，敖德薩的多棟居民樓遭無人機襲擊。"
-    },
-    {
-      "id": "te:economy:551322",
-      "time": "2026-05-18 06:38:28",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "New Zealand",
-        "Composite PMI",
-        "Importance 1"
-      ],
-      "text": "New Zealand Private Sector Shrinks for 2nd Month — The BusinessNZ Performance of Composite Index rose to 49.4 in April 2026 from a downwardly revised 48.7 in the previous month, which was the lowest reading since last August. It marked the second straight contraction, though at a softer pace, as the services sector contracted for the third consecutive month, while manufacturing recorded the softest expansion in seven months."
-    },
-    {
-      "id": "4884323",
-      "time": "2026-05-18 06:38:15",
-      "tags": [
-        "公司",
-        "焦點",
-        "國際"
-      ],
-      "text": "日本住友金屬與雙日集團擬赴東南亞佈局稀土資源。"
-    },
-    {
-      "id": "4884322",
-      "time": "2026-05-18 06:36:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "當地州長稱，烏克蘭南部敖德薩地區正遭受無人機襲擊。"
-    },
-    {
-      "id": "4884321",
-      "time": "2026-05-18 06:35:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "【金正恩要求加強守衛南部邊境的一線部隊】據朝中社18日報道，朝鮮勞動黨總書記、國務委員會委員長金正恩17日召開朝鮮人民軍全軍師旅指揮員會議，要求特別加強守衛南部邊境的一線部隊，把邊界築成堅不可摧的要塞。金正恩在會議上提出關於適應現代戰爭變化模式和朝鮮人民軍發展趨勢，整頓訓練體系、加強實用訓練的方針。金正恩說，隨著朝鮮人民軍軍事技術裝備快速現代化，要重新定義各方面作戰概念，並積極推進將之運用於各部隊戰鬥訓練的計劃工作。（新華社）"
     }
   ]
 }
