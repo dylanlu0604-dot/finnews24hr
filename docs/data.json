@@ -1,7 +1,19 @@
 {
-  "updated": "2026-05-25 03:38:30",
-  "count": 16464,
+  "updated": "2026-05-25 03:42:25",
+  "count": 16463,
   "items": [
+    {
+      "id": "mkt:019e5b7f-e793-7882-93e8-29da3d81018d",
+      "time": "2026-05-25 03:39:20",
+      "tags": [
+        "MKT News",
+        "DHER.DE",
+        "Impact bullish",
+        "UBER.O",
+        "Impact mixed"
+      ],
+      "text": "【Uber Mulls Raising Offer For Delivery Hero After €11.5bln Bid Rejected】Uber Board Met Saturday To Consider Raising Offer; €38/Share Bid To Delivery Hero's Largest Shareholder Rejected; Several Shareholders Seek >€40/Share (~€13bln Valuation)"
+    },
     {
       "id": "mkt:019e5b7b-e126-7882-93e8-23a99b18d216",
       "time": "2026-05-25 03:34:48",
@@ -147621,23 +147633,6 @@
         "國際"
       ],
       "text": "英國向中東部署新型低成本反無人機系統，這款精準殺傷武器系統將配備於英國皇家空軍颱風戰鬥機。"
-    },
-    {
-      "id": "4884152",
-      "time": "2026-05-18 03:41:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部長阿拉格齊與土耳其外交部長哈坎·菲丹於週日通電話，商討地區最新局勢。"
-    },
-    {
-      "id": "4884150",
-      "time": "2026-05-18 03:40:41",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【受美國行政命令影響 赫伯羅特和達飛暫停古巴訂艙】國際航運巨頭達飛和赫伯羅特週日表示，已暫停所有往返古巴的訂艙業務，直至另行通知。兩家公司均援引了5月1日頒佈的美國行政命令。 訊息人士稱，全球兩大航運公司暫停新訂單的臨時措施，可能危及古巴高達60%的貨運量，這對該國來說是新的打擊，此前美國的石油封鎖已嚴重限制了其燃料供應。"
     }
   ]
 }
