@@ -1,7 +1,27 @@
 {
-  "updated": "2026-05-25 02:00:38",
-  "count": 16446,
+  "updated": "2026-05-25 02:04:45",
+  "count": 16448,
   "items": [
+    {
+      "id": "4897385",
+      "time": "2026-05-25 02:01:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "黎巴嫩：以色列對本國南部及東部發起打擊。"
+    },
+    {
+      "id": "mkt:019e5b26-0264-7dd0-bb39-76f23550ce1f",
+      "time": "2026-05-25 02:01:03",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "HEZBOLLAH Claims Suicide-Drone Strike On Israeli Troop Concentration In Rashaf, Southern Lebanon"
+    },
     {
       "id": "4897384",
       "time": "2026-05-25 01:59:52",
