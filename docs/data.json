@@ -1,7 +1,30 @@
 {
-  "updated": "2026-05-25 06:43:28",
-  "count": 16479,
+  "updated": "2026-05-25 06:47:24",
+  "count": 16480,
   "items": [
+    {
+      "id": "te:markets:553217",
+      "time": "2026-05-25 06:45:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "New Zealand Shares Rise to Start the Week — The NZX 50 climbed 42 points, or 0.3%, to 13,033 in Monday morning trade, gaining for a third straight session and hitting its highest level since May 13, tracking gains on Wall Street on Friday amid hopes of a US-Iran deal to end the war. Positive data last week continued to lift sentiment after New Zealand’s retail sales grew more than expected in Q1 and the trade surplus reached a record high, with exports increasing to an all-time high. However, traders remained focused on the RBNZ’s monetary policy decision later this week, with markets expecting the central bank to keep interest rates unchanged while anticipating the release of the government’s 2026 budget. Healthcare, consumer staples, and energy stocks mainly drove the index, with notable gains from South Port NZ (1.9%), Infratil (1.1%), A2 Milk (1.0%), Summerset Group (1.1%), Fisher & Paykel (0.9%), and Mainfreight (0.6%)."
+    },
+    {
+      "id": "te:markets:553216",
+      "time": "2026-05-25 06:45:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Ether Drops by 1.34% — Today's cryptos market is characterized by modest daily movements, with Ether standing out as the frontrunner with a -1.34% decrease."
+    },
     {
       "id": "4897484",
       "time": "2026-05-25 06:42:55",
@@ -147796,14 +147819,6 @@
         "國際"
       ],
       "text": "伊朗最高領袖軍事顧問穆赫辛·雷扎伊：如今的美國像二戰後的英國，已是走向衰落的大國。"
-    },
-    {
-      "id": "4884326",
-      "time": "2026-05-18 06:43:42",
-      "tags": [
-        "市場"
-      ],
-      "text": "【霍爾木茲海峽局勢陷入僵局推高通脹擔憂，金價延續跌勢】由於霍爾木茲海峽通航恢復毫無進展，通脹憂慮持續升溫，債券市場大幅下挫，金價承壓維持下跌態勢。自戰事初期大幅回落以來，黃金價格整體窄幅震盪，投資者持續權衡通脹風險與經濟增長隱憂。 現貨黃金微漲0.2%，報每盎司4547.65美元。"
     }
   ]
 }
