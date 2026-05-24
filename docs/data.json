@@ -1,7 +1,16 @@
 {
-  "updated": "2026-05-25 06:39:33",
-  "count": 16481,
+  "updated": "2026-05-25 06:43:28",
+  "count": 16479,
   "items": [
+    {
+      "id": "4897484",
+      "time": "2026-05-25 06:42:55",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【週一重要財經資訊提醒（以下均為北京時間）】 \n① 全天 中國香港、韓國、美國金融市場因假期休市；\n② 15:00 國家衛生健康委就食品安全與營養健康舉行釋出會；\n③ 19:00 美國芝加哥聯儲主席Goolsbee（2027年FOMC票委）接受訪談。"
+    },
     {
       "id": "te:markets:553215",
       "time": "2026-05-25 06:37:32",
@@ -147795,34 +147804,6 @@
         "市場"
       ],
       "text": "【霍爾木茲海峽局勢陷入僵局推高通脹擔憂，金價延續跌勢】由於霍爾木茲海峽通航恢復毫無進展，通脹憂慮持續升溫，債券市場大幅下挫，金價承壓維持下跌態勢。自戰事初期大幅回落以來，黃金價格整體窄幅震盪，投資者持續權衡通脹風險與經濟增長隱憂。 現貨黃金微漲0.2%，報每盎司4547.65美元。"
-    },
-    {
-      "id": "4884325",
-      "time": "2026-05-18 06:43:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本廣島縣山火持續 至少15公頃山林被燒燬】17日發生在日本廣島縣福山市的山林火災，截至18日早晨火勢仍在蔓延。目前尚無人員受傷的訊息。據悉，17日下午2時30分許，消防部門接到報警稱，福山市赤坂町有枯草起火，隨後確認火勢已蔓延至山林。據福山市政府介紹，消防部門出動了46輛消防車、2架直升機，並以約350人的規模展開滅火行動，但至少已有15公頃山林被燒燬，目前火勢仍未得到控制，何時能撲滅尚無預期。（央視新聞）"
-    },
-    {
-      "id": "te:economy:551324",
-      "time": "2026-05-18 06:41:30",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "New Zealand",
-        "Services PMI",
-        "Importance 1"
-      ],
-      "text": "New Zealand Services Sector Contracts for 3rd Month — New Zealand’s BusinessNZ Performance of Services Index increased to 48.9 in April 2026 from an upwardly revised 46.2 in the previous month, which was the lowest reading in 10 months, marking the third straight month of contraction in the services sector due to the impact of the Iran war"
-    },
-    {
-      "id": "4884324",
-      "time": "2026-05-18 06:40:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "當地州長表示，敖德薩的多棟居民樓遭無人機襲擊。"
     }
   ]
 }
