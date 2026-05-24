@@ -1,7 +1,20 @@
 {
-  "updated": "2026-05-25 04:13:19",
+  "updated": "2026-05-25 04:17:13",
   "count": 16459,
   "items": [
+    {
+      "id": "mkt:019e5ba0-e2f8-7882-93e8-574c32b3b22d",
+      "time": "2026-05-25 04:15:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran Official: Hormuz Strait Management Won't Return To Prewar State】Rezai, Spokesman for Iran Parliament's National Security And Foreign Policy Committee: Hormuz Strait Management Won't Revert To Prewar State | Rezai: Strait Under Iran Control; Iran Can Facilitate Shipping After War | Rezai: Iran Hasn't Negotiated Enriched Uranium Stockpile With US; Will Not Back Down—US Must Accept Iran's Terms"
+    },
     {
       "id": "4897421",
       "time": "2026-05-25 04:12:33",
@@ -147603,14 +147616,6 @@
         "國際"
       ],
       "text": "特朗普政府計劃取消美國多家衛生機構數百名工作人員的就業保障。"
-    },
-    {
-      "id": "4884204",
-      "time": "2026-05-18 04:15:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "【加拿大確診一例漢坦病毒感染病例】加拿大公共衛生署17日證實，該國國家微生物實驗室經過複核檢測，正式確診一名正在不列顛哥倫比亞省接受隔離的“洪迪厄斯”號郵輪乘員感染漢坦病毒。（新華社）"
     }
   ]
 }
