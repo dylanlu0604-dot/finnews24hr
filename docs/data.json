@@ -1,7 +1,54 @@
 {
-  "updated": "2026-05-25 04:17:13",
-  "count": 16459,
+  "updated": "2026-05-25 04:34:23",
+  "count": 16462,
   "items": [
+    {
+      "id": "mkt:019e5bb1-b2ca-7882-93e8-6506a7ffce71",
+      "time": "2026-05-25 04:33:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "QATAR PM, Saudi FM Discuss Pakistan-Led Mediation For U.S.-Iran Talks"
+    },
+    {
+      "id": "4897424",
+      "time": "2026-05-25 04:32:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗塔斯尼姆通訊社：伊朗對與美國達成協議不抱任何希望。"
+    },
+    {
+      "id": "mkt:019e5baf-9d85-7882-93e8-5f33a7c9c97e",
+      "time": "2026-05-25 04:31:15",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "【Hassett: Oil Plunge After US-Iran Deal Would Open Fed Rate-Cut Window】Kevin Hassett (TRUMP Adviser) Expects Oil To Plunge If US-Iran Deal, Opens Fed Rate-Cut Window; Says Inf Rise Energy-Driven, Core Prices Nearly Flat; Praises Fed Chair Kevin Warsh"
+    },
+    {
+      "id": "4897423",
+      "time": "2026-05-25 04:30:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普在社交媒體上釋出涉及伊朗的圖片，內容為：永別了（Adios）。"
+    },
+    {
+      "id": "4897422",
+      "time": "2026-05-25 04:25:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國對《不擴散核武器條約》審議大會未能達成共識表示遺憾。"
+    },
     {
       "id": "mkt:019e5ba0-e2f8-7882-93e8-574c32b3b22d",
       "time": "2026-05-25 04:15:10",
@@ -147600,22 +147647,6 @@
         "國際"
       ],
       "text": "美國國務卿魯比魯比奧：自由計劃之所以終止，是應巴基斯坦方面的要求。巴方稱“美方若叫停自由計劃，我們認為雙方有望達成協議”。我方隨後應允並終止了該計劃。"
-    },
-    {
-      "id": "4884234",
-      "time": "2026-05-18 04:32:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國德克薩斯州奧斯汀市釋出就地避險令，當地警方正搜捕一名在九處地點開槍、造成多人受傷的槍擊嫌犯。"
-    },
-    {
-      "id": "4884223",
-      "time": "2026-05-18 04:24:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普政府計劃取消美國多家衛生機構數百名工作人員的就業保障。"
     }
   ]
 }
