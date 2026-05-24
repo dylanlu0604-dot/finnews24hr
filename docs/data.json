@@ -1,7 +1,16 @@
 {
-  "updated": "2026-05-25 06:51:19",
+  "updated": "2026-05-25 06:55:12",
   "count": 16480,
   "items": [
+    {
+      "id": "4897488",
+      "time": "2026-05-25 06:52:09",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "國際油價下跌超4%。訊息面上，特朗普表示，與伊朗就重新開放霍爾木茲海峽及其他議題的談判正取得建設性進展，且一項協議或將於不久後宣佈。"
+    },
     {
       "id": "4897487",
       "time": "2026-05-25 06:48:37",
@@ -147808,18 +147817,6 @@
         "其他"
       ],
       "text": "【倉位靈活騰挪 重倉A股的滬港深基金業績搶眼】今年以來，在港股基金整體業績持續承壓的行業背景下，滬港深基金（可同時配置A股和港股通標的）卻走勢穩健，甚至收益領跑，引發眾多關注。整體上看，今年以來公募主動權益基金業績分化加劇，港股通基金、港股QDII基金業績不佳，不少產品遭遇大額贖回。但同樣帶“港”字的一批滬港深基金卻依託更寬鬆的合同條款做出了漂亮業績，主要原因在於這些基金及時將大部分倉位轉向了A股，吃到了A股的科技行情紅利。滬港深基金大幅跑贏港股通基金、港股QDII基金，核心在於基金合同賦予的獨特優勢，寬鬆的投資約束為基金經理跨市場靈活調倉提供了合規基礎。深圳地區一位公募業內人士表示，滬港深基金的強勢表現，根源在於差異化的產品設計。相較於單一市場主題基金，該品類不僅擁有更廣的投資邊界，還可根據A股、港股行情輪動靈活切換市場，且倉位轉彎的空間可以很大，這一天然優勢，使其綜合吸引力遠超約束嚴格的港股通基金及港股QDII基金。"
-    },
-    {
-      "id": "te:markets:551325",
-      "time": "2026-05-18 06:54:42",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "NZX 50 Falls to Near 3-Week Low — The NZX 50 dropped 75 points, or 0.6%, to 12,890 in Monday morning trading, retreating for the fifth consecutive session and marking its lowest level since April 29, tracking declines in U.S. futures amid renewed escalation in US-Iran tensions. Fresh data also pressured sentiment after the private sector continued to contract, with the services sector shrinking for the third straight month, though at a softer pace, while factory activity expanded at its slowest pace in seven months. Investor sentiment was further subdued ahead of the release of a slew of Chinese economic data and the PBOC interest rate decision later this week. Healthcare, financials, industrials, and utilities weighed on the index, with notable losses from Ryman Healthcare (-2.4%), Freightways Group (-1.6%), Fisher & Paykel Healthcare (-1.4%), Summerset Group (-1.0%), Infratil (-0.9%), and Auckland International Airport (-0.6%)."
     }
   ]
 }
