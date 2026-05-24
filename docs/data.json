@@ -1,7 +1,29 @@
 {
-  "updated": "2026-05-25 00:38:11",
+  "updated": "2026-05-25 00:41:54",
   "count": 16436,
   "items": [
+    {
+      "id": "mkt:019e5adc-a5f6-7dd0-bb38-b94b2f4191e7",
+      "time": "2026-05-25 00:41:03",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "i24: US-Iran Talks Stall After Israeli Strikes On Hezbollah; Israel Seeks Freedom Of Action"
+    },
+    {
+      "id": "mkt:019e5ada-25d5-7dd0-bb38-b2f746643c52",
+      "time": "2026-05-25 00:38:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Egypt FM Phones EU HR kallas, Discusses Regional Developments"
+    },
     {
       "id": "mkt:019e5ad6-0a70-7dd0-bb38-a8711a603149",
       "time": "2026-05-25 00:33:42",
@@ -147305,22 +147327,6 @@
         "國際"
       ],
       "text": "巴勒斯坦媒體：今晨以來，以色列對加沙地帶發動空襲，已造成7人遇難。"
-    },
-    {
-      "id": "4883999",
-      "time": "2026-05-18 00:41:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列再度炮擊黎巴嫩南部多地。"
-    },
-    {
-      "id": "4883998",
-      "time": "2026-05-18 00:41:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基：我方今日正對俄方目標展開大規模打擊。此次打擊目標距離超500公里。戰爭已然如期迴歸本土戰場，這也明確昭示，切勿招惹烏克蘭。"
     }
   ]
 }
