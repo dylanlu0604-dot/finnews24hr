@@ -1,7 +1,75 @@
 {
-  "updated": "2026-05-25 01:23:33",
-  "count": 16437,
+  "updated": "2026-05-25 01:33:21",
+  "count": 16442,
   "items": [
+    {
+      "id": "4897373",
+      "time": "2026-05-25 01:32:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "【週日多艘船隻透過霍爾木茲海峽】週日，多艘船隻透過霍爾木茲海峽。此前德黑蘭方面稱，過去24小時內已允許33艘船隻通行，遠低於戰前日均約140艘的通行量。伊朗最高領袖軍事顧問穆赫辛·雷扎伊表示，管控海峽是伊朗保障國家安全的“合法權利”。與此同時，美國總統特朗普稱，美伊雙方已“大體上談妥”一份和平諒解備忘錄，以重新開放這條重要航運通道。"
+    },
+    {
+      "id": "mkt:019e5b0a-c41c-7dd0-bb39-3f2077bdbb44",
+      "time": "2026-05-25 01:31:16",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【U.S. Official: Unfreezing Iran Funds Depends On Reopening Strait Of Hormuz, Nuclear Compliance】U.S. official told CNN: sanctions will not be eased until Iran curbs its nuclear program; U.S. has not negotiated release of proposed Iranian funds as part of a deal; talks ongoing on eliminating Iran's nuclear stockpile."
+    },
+    {
+      "id": "4897372",
+      "time": "2026-05-25 01:29:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗於霍爾木茲海峽附近開展軍事演習】伊朗邁赫爾通訊社援引當地訊息稱，週日晚間，伊朗軍方在基什島靶場開展軍事演練，此次演習隸屬於國防安全相關部署。"
+    },
+    {
+      "id": "4897371",
+      "time": "2026-05-25 01:29:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員：尚未就協議框架下擬解凍的伊朗資產展開談判。"
+    },
+    {
+      "id": "mkt:019e5b07-36ea-7dd0-bb39-34d0ba681321",
+      "time": "2026-05-25 01:27:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IDF Draws Up Lebanon Plan, Says Iran Deal Could Curb Fight With Hezbollah: Times of Israel"
+    },
+    {
+      "id": "mkt:019e5b06-b649-7dd0-bb39-2a844234816c",
+      "time": "2026-05-25 01:26:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【ECB Calls Banks To Address ANTHROPIC Model Cyber Risks】ECB summons banks Tuesday; urges urgent patching after ANTHROPIC Claude MYTHOS Preview reveals thousands of high-severity vulnerabilities in major OSes and browsers"
+    },
+    {
+      "id": "4897370",
+      "time": "2026-05-25 01:26:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士：伊朗基什島將開展軍事演習。"
+    },
+    {
+      "id": "4897369",
+      "time": "2026-05-25 01:25:06",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗在霍爾木茲海峽附近舉行軍事演習。"
+    },
     {
       "id": "4897368",
       "time": "2026-05-25 01:20:01",
@@ -147345,30 +147413,6 @@
         "國際"
       ],
       "text": "達飛輪船：即日起暫停所有往返古巴的貨運訂艙業務，恢復時間另行通知。此舉是遵照美國5月1日釋出的行政令作出的決定。"
-    },
-    {
-      "id": "4884041",
-      "time": "2026-05-18 01:29:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：若伊朗不肯拿出更優談判條件，必將遭到更為猛烈的打擊。"
-    },
-    {
-      "id": "4884040",
-      "time": "2026-05-18 01:27:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊朗方面的回應態度不當，令我十分不滿。"
-    },
-    {
-      "id": "4884037",
-      "time": "2026-05-18 01:25:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "古巴外交部長： 古巴境內唯一的外國軍事基地、唯一的外國駐軍，就是美國強行霸佔我國領土設立的關塔那摩海軍基地，這一駐軍存在全然不受古巴民眾待見。"
     }
   ]
 }
