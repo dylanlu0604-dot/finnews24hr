@@ -1,7 +1,24 @@
 {
-  "updated": "2026-05-25 07:52:34",
-  "count": 16467,
+  "updated": "2026-05-25 07:56:18",
+  "count": 16464,
   "items": [
+    {
+      "id": "4897548",
+      "time": "2026-05-25 07:52:39",
+      "tags": [
+        "央行"
+      ],
+      "text": "【中國央行公開市場本週有3045億元逆回購到期】其中，週一至週五分別到期10億元、5億元、500億元、1000億元、1530億元。此外，週一將有5000億元1年期MLF到期。"
+    },
+    {
+      "id": "4897547",
+      "time": "2026-05-25 07:52:13",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【安克創新：公司已在美國市場推出多款儲能產品】安克創新近日在機構調研時表示，美國市場是公司儲能業務的重要市場之一。當前北美家庭使用者在應急備電、戶外用電、部分家庭用電備份等場景中存在較多需求。同時，隨著清潔能源政策推進和儲能產品價效比的提升，這部分傳統裝置在未來可能逐步面臨更新替代的長期需求，為公司儲能業務提供了潛在的增長空間。目前，公司已在美國市場推出多款儲能產品，覆蓋不同層級的備電需求，並將持續圍繞使用者場景推進產品創新與本地化運營。"
+    },
     {
       "id": "4897546",
       "time": "2026-05-25 07:50:57",
@@ -147665,47 +147682,6 @@
         "Importance 2"
       ],
       "text": "US Futures Edge Lower Ahead of Major Earnings — US stock futures edged lower on Monday as investors awaited Nvidia’s closely watched earnings report later this week for fresh signals on the durability of the artificial intelligence-driven market rally. Earnings from major retailers including Walmart and Target are also expected to offer insight into how the Middle East-driven energy price shock is affecting US consumer spending. Meanwhile, oil prices continued to rise after President Donald Trump warned that Tehran is running out of time to reach a deal with Washington, while Iranian media reports indicated negotiations remain far apart. Last week, the S&P 500 and Nasdaq Composite climbed to new record highs as gains in technology and AI-related shares extended further, though both indexes pulled back on Friday as Treasury yields jumped amid growing inflation concerns. Recent economic data also pointed to accelerating US inflation, leading traders to fully rule out any Federal Reserve rate cuts this year."
-    },
-    {
-      "id": "4884400",
-      "time": "2026-05-18 07:55:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "貝恩資本完成第六期亞洲基金最終募資，募資規模達 105 億美元。"
-    },
-    {
-      "id": "4884399",
-      "time": "2026-05-18 07:54:33",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【華泰證券：繼續看好本輪鋰電漲價週期 同時看好鈉電池及固態電池從1到N產業趨勢】華泰證券研報稱，5月13日—15日，CIBF2026第十八屆深圳國際電池技術交流會/展覽會於深圳國際會展中心舉辦，展會全面覆蓋動力電池、儲能電池、關鍵材料、智慧裝備等全產業鏈賽道，三天專業觀眾流量突破40萬。參與展會交流後，華泰證券認為鋰電全產業鏈需求向好態勢較強，新技術不斷創新突破，繼續看好本輪鋰電漲價週期，同時看好鈉電池及固態電池從1到N產業趨勢。"
-    },
-    {
-      "id": "4884398",
-      "time": "2026-05-18 07:54:28",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【華泰證券：高油價抑制運力投放和股價表現】華泰證券研報稱，或由於高油價背景下，航司削減低收益航線，4月民航供給增速有所回落，不過所保留航線較為優質，疊加春假等因素推動，航司收益水平表現較好。三大航+春秋+吉祥ASK/RPK分別同增2.3%/4.8%，客座率同增2.1pct至86.5%。同時根據航班管家資料，第14周-19周（3/30-5/10）國內線含油票價同增15.8%，航司呈現一定的順價能力。往後展望，短期油價仍在較高位置震盪，同時進入行業淡季，板塊暫無明顯股價催化，持續關注航司成本傳導能力；中長期行業供給增速或將保持低位，依然看好景氣底部向上，建議關注左側佈局機會。"
-    },
-    {
-      "id": "4884397",
-      "time": "2026-05-18 07:53:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本沖繩縣西表島發生里氏4.6級地震】據日本氣象廳訊息，日本當地時間18日上午8時21分左右，沖繩縣西表島發生里氏4.6級地震，最大震感為震度3，震源深度約10公里。三分鐘後，8時24分左右，該地發生里氏4.4級地震，最大震感為震度2。本次地震沒有引發海嘯的風險。"
-    },
-    {
-      "id": "4884396",
-      "time": "2026-05-18 07:52:49",
-      "tags": [
-        "觀點",
-        "國際"
-      ],
-      "text": "【華泰證券：關注債市的兩大“背離”】華泰證券研報稱，近期債市出現兩組顯著“背離”：一是中債與海外債市走勢背離，二是債市與基本面背離。兩者看似不同，實則共享同一底層邏輯：國內新舊動能切換，經濟增長到融資需求再到利率的傳導鏈條不同以往；市場更關注經濟結構而非總量變化；中外貨幣政策預期錯位，國內資金持續寬鬆；中美AI融資模式差異也帶來結構性影響。背離何時以何種方式結束：短期看，資金面邊際變化是關鍵，中期則取決於經濟內生動能與融資需求修復。當前流動性寬鬆環境對債市仍有支撐，上週各種擾動交織，中期風險累積、賠率下降。策略上，宜保持“攻守兼備”，久期不建議追漲，繼續關注期限與品種凸點機會。"
     }
   ]
 }
