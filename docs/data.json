@@ -1,7 +1,37 @@
 {
-  "updated": "2026-05-25 00:49:29",
-  "count": 16431,
+  "updated": "2026-05-25 00:53:18",
+  "count": 16433,
   "items": [
+    {
+      "id": "mkt:019e5ae7-312c-7dd0-bb38-caa723c76e35",
+      "time": "2026-05-25 00:52:31",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "Poland FM Seeks Open Strait Of Hormuz, Demands Freedom Of Navigation For Oil And Gas Tankers"
+    },
+    {
+      "id": "4897344",
+      "time": "2026-05-25 00:51:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "下月上旬第四輪會談將於華盛頓舉行，在此前夕，真主黨領導人納伊姆・卡西姆再度敦促黎巴嫩放棄與以色列直接談判。"
+    },
+    {
+      "id": "mkt:019e5ae4-5d76-7dd0-bb38-c51b866919fd",
+      "time": "2026-05-25 00:49:28",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Poland FM Says Strait Of Hormuz International Waters, Backs Reopening"
+    },
     {
       "id": "4897337",
       "time": "2026-05-25 00:46:16",
@@ -147279,14 +147309,6 @@
         "國際"
       ],
       "text": "德國前總理默克爾談徵兵制：如今民眾希望再度調整義務兵役制，我對此表示理解。但當年曾有多個專門委員會主張暫停徵兵制。彼時各界普遍認為，歐洲內部已不再存在需要依靠軍事力量自衛的安全隱患，德國也秉持這一觀念，只因現實局勢已然發生轉變。我們並未透過修憲徹底廢除徵兵制度，只是將其暫時擱置。這也意味著如今只需議會簡單多數票，便可重新對該制度作出調整。"
-    },
-    {
-      "id": "4884008",
-      "time": "2026-05-18 00:51:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭無人機在俄羅斯造成四人死亡，莫斯科遭遇一年多來最嚴重襲擊。"
     }
   ]
 }
