@@ -1,7 +1,43 @@
 {
-  "updated": "2026-05-25 07:45:11",
-  "count": 16465,
+  "updated": "2026-05-25 07:48:52",
+  "count": 16464,
   "items": [
+    {
+      "id": "4897541",
+      "time": "2026-05-25 07:48:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "本週公開市場逆回購到期規模從地量30億元擴大到逾3000億元。"
+    },
+    {
+      "id": "te:markets:553223",
+      "time": "2026-05-25 07:47:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Gold Rises in Iran Deal Hopes — Gold climbed toward $4,600 an ounce on Monday, recovering losses from last week as increasing optimism over a potential US-Iran agreement eased concerns about inflation and interest rate hikes. Reports indicated that the proposed deal could reopen the Strait of Hormuz, end hostilities, release some frozen Iranian assets, and lay the groundwork for additional negotiations aimed at restricting Tehran’s nuclear program. However, President Donald Trump said the US would keep its blockade of the Strait of Hormuz in place until a formal agreement is finalized. Despite Monday’s rebound, gold remains roughly 13% lower since the Middle East conflict began, as fears of an energy-driven inflation shock fueled expectations that central banks may need to maintain tighter monetary policy. Investors also continued to assess the outlook for Federal Reserve policy after Governor Christopher Waller signaled he no longer believed the central bank should retain an easing bias in its policy statement."
+    },
+    {
+      "id": "4897540",
+      "time": "2026-05-25 07:46:42",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "基準10年期日本國債期貨早盤上漲0.21點。"
+    },
+    {
+      "id": "4897539",
+      "time": "2026-05-25 07:46:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【天風證券：資金利率短期內難以迴歸月中水平】天風證券研報稱，資金面最緊張的階段或許已經過去，但跨月等壓力仍然存在，資金利率短期內難以迴歸月中水平。下週臨近跨月，且資金客觀需求依然不少，包括：政府債淨繳款規模升至6000億元以上、同業存單到期近1萬億元、逆回購到期超3000億元。此外，需關注股市是否企穩。若股市波動繼續對“固收+”基金產生贖回壓力，則5Y左右二永債調整幅度或更大。"
+    },
     {
       "id": "4897538",
       "time": "2026-05-25 07:44:26",
@@ -147638,51 +147674,6 @@
         "其他"
       ],
       "text": "【國家糧食和物資儲備局向貴州緊急調運中央防汛抗旱物資】5月17日，按照國家防總辦公室調令，國家糧食和物資儲備局緊急調運編織袋64萬條、復膜編織布25萬平方米、長絲土工布53萬平方米、大流量排水泵3臺，支援貴州省做好防汛搶險工作。（央視）"
-    },
-    {
-      "id": "4884393",
-      "time": "2026-05-18 07:47:45",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本10年期國債收益率上漲10個基點，至2.8%。"
-    },
-    {
-      "id": "em:qqyh_mlc:202605183739808464",
-      "time": "2026-05-18 07:46:43",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【鮑威爾謝幕後美聯儲將面臨什麼】鮑威爾正式卸任美聯儲主席之後，美聯儲將進入“沃什時代”。從外界觀察來看，沃什領導下的美聯儲，其政策核心是弱化非貨幣職能、加速縮表、重構通脹指標等。而美聯儲獨立性、通脹反覆、內部分歧、金融脆弱性等問題將持續掣肘美聯儲的決策過程。"
-    },
-    {
-      "id": "4884392",
-      "time": "2026-05-18 07:46:11",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "基準10年期日本國債期貨早盤下跌0.78點。"
-    },
-    {
-      "id": "4884391",
-      "time": "2026-05-18 07:46:07",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本日經平均股指期貨早盤下跌0.7%。"
-    },
-    {
-      "id": "4884390",
-      "time": "2026-05-18 07:45:57",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "本週央行公開市場逆回購到期規模縮量至30億元的歷史低位附近。"
     }
   ]
 }
