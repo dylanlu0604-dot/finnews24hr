@@ -1,7 +1,26 @@
 {
-  "updated": "2026-05-25 04:01:37",
-  "count": 16455,
+  "updated": "2026-05-25 04:05:30",
+  "count": 16456,
   "items": [
+    {
+      "id": "mkt:019e5b95-8c08-7882-93e8-450312baee0d",
+      "time": "2026-05-25 04:02:45",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【HEZBOLLAH Deputy Warns Disarmament Would Trigger Gradual Israeli Occupation Of Lebanon】HEZBOLLAH Deputy Leader Naim Qassem on Al-Manar: any attempt to disarm HEZBOLLAH will lead to its elimination and gradual Israeli occupation; Israel aims to destroy 'resistance' and absorb Lebanon into 'Greater Israel'; HEZBOLLAH will remain on battlefield until Israeli withdrawal; displaced south Lebanon residents to return."
+    },
+    {
+      "id": "4897417",
+      "time": "2026-05-25 04:02:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【黎真主黨：解除武裝將導致黎巴嫩被逐步佔領】黎巴嫩真主黨領導人納伊姆·卡西姆24日在黎真主黨旗下燈塔電視臺發表電視講話表示，任何試圖解除該組織武裝的行為，都將導致真主黨被“消滅”、黎巴嫩被逐步佔領。（新華社）"
+    },
     {
       "id": "mkt:019e5b91-73d5-7882-93e8-386648fe5a7a",
       "time": "2026-05-25 03:58:21",
@@ -147569,14 +147588,6 @@
         "焦點"
       ],
       "text": "阿聯酋核監管機構表示，巴拉卡核電站發生事故後未出現放射性洩漏，也未對公眾構成風險。"
-    },
-    {
-      "id": "4884186",
-      "time": "2026-05-18 04:04:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗副外長卡澤姆・加里巴巴迪表示，針對美以近期聯合進犯伊朗期間、大肆損毀數十處歷史遺蹟與文化古蹟的行徑，伊朗將對美國及以色列政權提起法律訴訟。"
     }
   ]
 }
