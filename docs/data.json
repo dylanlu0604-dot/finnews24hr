@@ -1,7 +1,43 @@
 {
-  "updated": "2026-05-25 03:15:09",
-  "count": 16455,
+  "updated": "2026-05-25 03:19:01",
+  "count": 16457,
   "items": [
+    {
+      "id": "mkt:019e5b6c-4836-7882-93e8-0d98a39c28df",
+      "time": "2026-05-25 03:17:52",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "US Won't Sign Iran Deal Today Or Tomorrow; President To Give Iran Few Days — Fox News Citing US Officials"
+    },
+    {
+      "id": "mkt:019e5b6a-986f-7882-93e8-0663e5b5a384",
+      "time": "2026-05-25 03:16:03",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "HASSETT Says US-Iran Deal Could Slash Energy Prices, Ease Path For Fed Cuts; Recent inf Driven By High Energy Costs"
+    },
+    {
+      "id": "mkt:019e5b69-fdb3-7882-93e7-f80c1c0c5911",
+      "time": "2026-05-25 03:15:11",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Rubio Says Iran Nuclear Details Must Be Negotiated; 72 Hours Not Enough】Rubio/NYT: If Iran Reopens Strait Of Hormuz US Ready For Very-Serious Nuclear Talks; Strait Must Reopen Immediately; Will Negotiate Uranium Enrichment, HEU, Iran 'No Nuclear-Weapons' Pledge; Maintains Trump 'No Iran Nukes' Policy; If No Progress In 2 Months US Retains All Options Including Military Strikes"
+    },
     {
       "id": "4897406",
       "time": "2026-05-25 03:13:13",
@@ -147534,14 +147570,6 @@
         "市場"
       ],
       "text": "悉尼早盤交易中，美元兌其他貨幣對走勢漲跌互現。"
-    },
-    {
-      "id": "4884133",
-      "time": "2026-05-18 03:16:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗最高領袖軍事顧問穆赫辛·雷扎伊：停火期間美國曾兩度試圖打通霍爾木茲海峽，均以失敗告終；其中一次行動中，美軍一艘艦船遭伊朗導彈重創。"
     }
   ]
 }
