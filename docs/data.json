@@ -1,7 +1,31 @@
 {
-  "updated": "2026-05-25 21:46:24",
-  "count": 16005,
+  "updated": "2026-05-25 21:50:24",
+  "count": 16000,
   "items": [
+    {
+      "id": "4898920",
+      "time": "2026-05-25 21:48:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "土耳其主要銀行指數上漲2%。"
+    },
+    {
+      "id": "4898919",
+      "time": "2026-05-25 21:46:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄對基輔發動系列打擊】最新訊息：俄羅斯外交部今天（5月25日）通報稱，俄軍開始對烏克蘭首都基輔的軍工聯合體發動一系列打擊，打擊將針對決策中心與指揮所。俄方警告外國公民儘快離開基輔，並呼籲基輔市民不要靠近軍事和行政基礎設施。（CCTV國際時訊）"
+    },
+    {
+      "id": "4898918",
+      "time": "2026-05-25 21:46:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【任鴻斌會長會見新加坡律政部長兼內政部第二部長唐振輝一行】5月25日，中國貿促會會長任鴻斌在京會見新加坡律政部長兼內政部第二部長唐振輝一行。雙方就促進中新工商界往來、加強商事法律領域合作、共同辦好第六屆中國—新加坡國際商事爭議解決論壇等議題交換意見。雙方簽署《中國國際貿易促進委員會與新加坡共和國律政部關於法律與爭議解決合作的諒解備忘錄》。劉健男副會長參加會見。（中國貿促）"
+    },
     {
       "id": "4898917",
       "time": "2026-05-25 21:45:02",
@@ -143274,80 +143298,6 @@
         "其他"
       ],
       "text": "墨西哥總統辛鮑姆提議將司法相關投票定於 2028 年 7 月 4 日舉行。"
-    },
-    {
-      "id": "te:markets:551628",
-      "time": "2026-05-18 21:50:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Gold Rebounds on Iran Deal Hopes — Gold erased earlier losses to trade above $4,560 an ounce on Monday, trying to recover from a near 4% weekly drop as investors focused on potential progress in resolving the Iran conflict. Despite US President Donald Trump’s calls for Iran to act quickly, unconfirmed reports suggested a possible breakthrough, with the US reportedly lifting sanctions on Iranian oil and Tehran agreeing to a long-term freeze of its nuclear program. The precious metal had faced pressure from a stronger US dollar and rising Treasury yields after hotter-than-expected US inflation data led investors to rule out Federal Reserve rate cuts this year, while fueling speculation of a possible rate hike before year-end."
-    },
-    {
-      "id": "mkt:019e3b59-ad87-7dd6-889a-1152f7608f95",
-      "time": "2026-05-18 21:49:53",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "IRAN SAYS IRANIAN VESSEL PASSES THROUGH US BLOCKADE: FARS"
-    },
-    {
-      "id": "4886159",
-      "time": "2026-05-18 21:49:41",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨白銀突破78美元/盎司，日內漲2.78%。"
-    },
-    {
-      "id": "4886158",
-      "time": "2026-05-18 21:49:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：伊朗方面稱本國船隻已突破美方封鎖通行。"
-    },
-    {
-      "id": "4886157",
-      "time": "2026-05-18 21:48:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊美談判：資金凍結、霍爾木茲相關訴求浮出水面，美方態度彈性有限】伊朗一名資深訊息人士向路透社透露，在當前涉及伊朗核計劃及解除制裁的談判中，美方展現出的讓步空間十分有限。據悉，美方目前僅同意分階段解凍伊朗25%境外凍結資金，而伊朗方面要求全額解凍資產並徹底取消制裁。伊朗新版談判提案還要求永久平息地區衝突、暢通霍爾木茲海峽，同時提議延後開展後續細化核問題磋商。"
-    },
-    {
-      "id": "4886156",
-      "time": "2026-05-18 21:48:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "希捷科技股價跌幅擴大至4%，管理層在會議上發表講話。"
-    },
-    {
-      "id": "4886155",
-      "time": "2026-05-18 21:47:49",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "中國地震臺網自動測定：05月18日21時44分在廣西柳州市柳南區附近（北緯24.37度，東經109.26度）發生5.2級左右地震，最終結果以正式速報為準。"
-    },
-    {
-      "id": "4886154",
-      "time": "2026-05-18 21:46:55",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "沙特阿美：阿美與帕斯卡爾推出沙烏地阿拉伯首臺量子計算機，及中東首個商用量子計算即服務平臺"
     }
   ]
 }
