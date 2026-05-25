@@ -1,7 +1,15 @@
 {
-  "updated": "2026-05-26 02:34:30",
-  "count": 15784,
+  "updated": "2026-05-26 02:48:01",
+  "count": 15779,
   "items": [
+    {
+      "id": "4899097",
+      "time": "2026-05-26 02:45:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：美軍在“史詩之怒行動”中有13名軍人陣亡；針對委內瑞拉的行動大獲全勝，美方零傷亡。"
+    },
     {
       "id": "4899095",
       "time": "2026-05-26 02:30:03",
@@ -141203,63 +141211,6 @@
         "Impact bullish"
       ],
       "text": "BRENT CRUDE FUTURES SETTLE AT $112.10/BBL, UP $2.84, 2.6 PCT"
-    },
-    {
-      "id": "mkt:019e3c62-9929-7dd6-889e-bc4aeea44dd6",
-      "time": "2026-05-19 02:39:15",
-      "tags": [
-        "MKT News",
-        "BA.O"
-      ],
-      "text": "U.S. STATE DEPARTMENT APPROVES POSSIBLE SALE TO INDIA FOR ITS PURCHASE OF APACHE HELICOPTERS, FOLLOW-ON SUPPORT SERVICES AND RELATED EQUIPMENT FOR AN ESTIMATED COST OF $198.2 MILLION"
-    },
-    {
-      "id": "4886461",
-      "time": "2026-05-19 02:39:07",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國國務院批准擬向印度出售阿帕奇直升機、後續配套維護服務及相關裝置，預估交易額達 1.982 億美元。"
-    },
-    {
-      "id": "mkt:019e3c60-20ad-7dd6-889e-b1bac6788bdc",
-      "time": "2026-05-19 02:36:33",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "AI Revolution",
-        "LRCX.O",
-        "Impact bullish",
-        "AMAT.O",
-        "ASML.AS"
-      ],
-      "text": "HUANG: AI BOOM DRIVING EXPANSION OF CHIP MAKING BEYOND TAIWAN"
-    },
-    {
-      "id": "4886460",
-      "time": "2026-05-19 02:35:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "英偉達CEO黃仁勳：人工智慧熱潮正推動晶片產能佈局向外擴張。"
-    },
-    {
-      "id": "mkt:019e3c5f-3fef-7dd6-889e-a8aa4d49e4f3",
-      "time": "2026-05-19 02:35:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "HUANG: WE NEED TO MAKE SURE THE SUPPLY CHAIN IS PREPARED"
-    },
-    {
-      "id": "mkt:019e3c5e-f1a5-7dd6-889e-a1138a74a500",
-      "time": "2026-05-19 02:35:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "HUANG: IT WILL BE HARD TO KEEP UP WITH BUILDOUT FOR A DECADE"
     }
   ]
 }
