@@ -1,7 +1,52 @@
 {
-  "updated": "2026-05-25 20:13:00",
-  "count": 16116,
+  "updated": "2026-05-25 20:16:54",
+  "count": 16112,
   "items": [
+    {
+      "id": "4898807",
+      "time": "2026-05-25 20:15:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【偉測科技：2025年度現金分紅總額調整至9244.86萬元（含稅）】偉測科技公告，因公司總股本由1.68億股增加至1.68億股，公司擬維持每10股派發現金股利5.5元（含稅）不變，現金分紅總額由9227.06萬元（含稅）調整至9244.86萬元（含稅）。"
+    },
+    {
+      "id": "4898806",
+      "time": "2026-05-25 20:15:32",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "據伊朗媒體25日報道，由伊朗議長卡利巴夫率領的伊朗代表團當天抵達卡達首都多哈。伊朗代表團將與卡達高階官員就結束戰事的相關議題進行磋商。（新華社）"
+    },
+    {
+      "id": "4898805",
+      "time": "2026-05-25 20:15:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【宇樹科技科創板IPO將於6月1日上會】上海證券交易所上市稽核委員會定於2026年6月1日召開2026年第31次上市稽核委員會審議會議，審議宇樹科技股份有限公司（首發）。"
+    },
+    {
+      "id": "4898804",
+      "time": "2026-05-25 20:14:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【奕瑞科技：紅杉聚業和紅杉信遠合計持股比例降至4.99995%】奕瑞科技公告，資訊披露義務人天津紅杉聚業股權投資合夥企業和北京紅杉信遠股權投資中心因自身資金需求，透過大宗交易方式減持公司股份，導致合計持有公司股份比例從6.78%被動稀釋至4.99995%。其中，紅杉聚業持有股份從974.4萬股減少至718.75萬股，持股比例從4.61%降至3.39918%；紅杉信遠持有股份從458.7萬股減少至338.48萬股，持股比例從2.17%降至1.60077%。"
+    },
+    {
+      "id": "mkt:019e5f0d-e813-711d-be5b-e25dcdf43140",
+      "time": "2026-05-25 20:13:06",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "【IRGC Says Persian Gulf Security Is Iran's Red Line】IRGC Madina-Base Commander Says Forces Ready To Respond; Iran Fully Monitoring Adversaries, Capable Of Decisive Deterrent Responses; Madina One Of 10 Ground-Forces Bases, Closest To Strait Of Hormuz"
+    },
     {
       "id": "4898802",
       "time": "2026-05-25 20:12:19",
@@ -144270,83 +144315,6 @@
         "Importance 0"
       ],
       "text": "Brent Crude Near $102 — Brent crude futures eased toward $102 on Monday, after rising above $111 per barrel earlier in the session after Iranian media reported that the US had proposed a temporary waiver on oil sanctions until a final agreement is reached. However, the geopolitical situation in the Middle East remains highly uncertain, with the Strait of Hormuz still largely shut and the Trump administration continuing to blockade Iranian ports. US President Trump posted on social media that “For Iran, the Clock is Ticking, and they better get moving, FAST, or there won’t be anything left of them. TIME IS OF THE ESSENCE!” Meanwhile, Tehran stated on Monday that it is continuing dialogue with the US via Pakistan. Over the weekend, energy infrastructure across the Persian Gulf was also targeted, including a nuclear facility in the United Arab Emirates, further heightening concerns over regional stability."
-    },
-    {
-      "id": "4885953",
-      "time": "2026-05-18 20:16:33",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【晶方科技：公司投資的VisIC公司正積極和知名汽車廠家或TIER1廠商進行晶片及模組設計的合作】晶方科技在第一季度業績說明會上表示，公司投資的以色列VisIC公司為全球領先的第三代半導體GaN（氮化鎵）器件設計公司,正在積極開發基於矽基氮化鎵技術的400V//650V/800V等逆變器方案，其D3GAN技術具有導通電阻低，開關頻率高，損耗小，可靠性高等特點。目前VisIC公司將車用逆變器領域作為主要拓展領域之一，正積極和知名汽車廠家或TIER1廠商進行晶片及模組設計的合作。“MEMS感測器晶片先進封裝測試平臺”專案為公司牽頭承擔的國家重點研發計劃專案，目前專案技術工藝開發、客戶拓展、商業化應用等均有效推進實施，專案正處於驗收結題階段。"
-    },
-    {
-      "id": "te:markets:551591",
-      "time": "2026-05-18 20:15:38",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Oil Prices Pare Gains — WTI crude futures eased toward $105 per barrel on Monday after briefly climbing above $108 earlier in the session, as Iranian media reported that the US had proposed a temporary waiver of oil sanctions pending a final agreement. Still, geopolitical tensions in the Middle East remain elevated, with the Strait of Hormuz largely closed and the Trump administration maintaining its blockade of Iranian ports. US President Trump wrote on social media: “For Iran, the clock is ticking, and they better get moving FAST, or there won’t be anything left of them. TIME IS OF THE ESSENCE!” At the same time, Tehran said it continues to engage in talks with the US through Pakistan. Over the weekend, energy infrastructure across the Persian Gulf also came under attack, including a nuclear facility in the United Arab Emirates, adding to concerns over regional stability and potential supply disruptions."
-    },
-    {
-      "id": "4885952",
-      "time": "2026-05-18 20:15:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "訊息人士稱，國際足聯媒體權利官員已訪問印度，目前印度足球主管部門尚未簽署世界盃轉播協議。"
-    },
-    {
-      "id": "4885951",
-      "time": "2026-05-18 20:15:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中華慈善總會緊急為廣西柳州地震災區採購應急物資】廣西柳州市柳南區發生5.2級地震後，今天，中華慈善總會在應急管理部指導下，攜手江蘇常州市慈善總會捐贈100萬元，緊急採購應急帳篷、保溫毯、蚊香、礦泉水等一批災區安置點急需物資，用於受災群眾生活保障、過渡安置。（央視新聞）"
-    },
-    {
-      "id": "4885950",
-      "time": "2026-05-18 20:14:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "【得利斯：部分募投專案延期，預計2027年完成】得利斯公告稱，結合“200萬頭/年生豬屠宰及肉製品加工專案”和“得利斯國內市場營銷網路體系建設專案”實際進展，在實施主體、地點、用途及規模不變情況下，調整專案達到預定可使用狀態日期。前者從2026年6月30日延至2027年2月28日，後者從2026年7月24日延至2027年6月30日。延期系裝置安裝除錯耗時、市場環境變化等因素所致，不損害股東利益，符合相關規定。該議案已獲公司董事會透過。"
-    },
-    {
-      "id": "4885949",
-      "time": "2026-05-18 20:13:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【*ST中巖：擬公開掛牌轉讓全資子公司股權】*ST中巖公告，為持續最佳化資產結構、聚焦核心主業，公司擬透過西南聯合產權交易所有限責任公司公開掛牌轉讓所持有的全資子公司北京中巖工程管理有限公司100%股權。本次交易完成後，公司不再持有北京中巖公司股權，北京中巖公司不再納入公司合併財務報表範圍。根據評估報告，北京中巖公司股東全部權益評估價值為人民幣532.1萬元，本次交易掛牌轉讓底價不低於經備案的評估結果，首次掛牌底價為人民幣532.1萬元，具體交易金額將按公開掛牌競價結果確定。"
-    },
-    {
-      "id": "4885948",
-      "time": "2026-05-18 20:13:39",
-      "tags": [
-        "市場"
-      ],
-      "text": "【法興銀行：若英國資料弱於預期，英鎊或將承壓】法國興業銀行的分析師Kit Juckes在一份報告中稱，如果本週公佈的英國經濟資料弱於預期，那麼英鎊可能會受到打壓。英國的就業資料將於本週二公佈，隨後是週三的英國通脹資料，以及週五的英國零售銷售資料。他表示：“本週一系列的經濟資料……如果情況比人們所擔心的還要糟糕，只會進一步壓低英鎊匯率。”近期由於英國的政治不確定性，英鎊匯率已有所下跌。"
-    },
-    {
-      "id": "4885947",
-      "time": "2026-05-18 20:13:31",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【江豐電子：簽訂交易合同，與日本愛發科共同籌劃整合雙方平板顯示靶材業務】江豐電子公告，為實現透過將江豐電子及日本愛發科直接持有或透過其子公司持有的平板顯示靶材業務（但不包括IGZO材料的相關業務）轉移至本業務的專業運營主體北京豐科晶晟電子材料有限公司，從而實現雙方平板顯示靶材業務整合，公司與北京豐科芯創股權投資基金中心、北京芯創智造二期創業投資基金、株式會社ULVAC、愛發科投資有限公司、豐科晶晟於近日簽訂了《Master Framework Agreement》。本協議的簽訂將充分發揮合作各方技術、產能、市場與資源等方面的優勢，實現強強聯合、優勢互補，助力豐科晶晟進一步拓展市場空間，提升產品核心競爭力。"
-    },
-    {
-      "id": "4885946",
-      "time": "2026-05-18 20:13:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗方面訊息：伊朗衛生部長與伊朗革命衛隊負責人討論美國和以色列施加的戰爭造成的損害。"
     }
   ]
 }
