@@ -1,7 +1,43 @@
 {
-  "updated": "2026-05-25 13:32:47",
-  "count": 16250,
+  "updated": "2026-05-25 13:36:43",
+  "count": 16239,
   "items": [
+    {
+      "id": "4897995",
+      "time": "2026-05-25 13:35:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣證交所加權股價指數收高3.3%報43,644.40。"
+    },
+    {
+      "id": "4897994",
+      "time": "2026-05-25 13:34:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "據美國官員稱，伊朗同意放棄濃縮鈾。"
+    },
+    {
+      "id": "4897993",
+      "time": "2026-05-25 13:33:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【上汽將在5月28日舉行全球第一億位使用者交車儀式 】上汽集團本月早些時候官宣，本月底，上汽集團將迎來全球第一億位使用者的交付，成為中國汽車史上首家累計產銷量突破一億輛的汽車集團。 上汽官方今日宣佈，將在 5 月 28 日舉行上汽集團全球第一億位使用者的交車儀式。 上汽集團表示，將打造一場以中國上海為原點、連線全球的超大規模“全球交付接力”。從上海北外灘世界會客廳的主會場出發，直播訊號將跨越多個大洲，串聯起國內多城及海外多國的交付現場，上汽集團旗下品牌將悉數登場。"
+    },
+    {
+      "id": "te:economy:553335",
+      "time": "2026-05-25 13:32:59",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Thailand",
+        "Total Vehicle Sales",
+        "Importance 1"
+      ],
+      "text": "Thailand Car Sales Up 2.54% in April — Thailand’s domestic car sales increased by 2.54% year-on-year to 48,392 units in April 2026, easing from 7.29% in the previous month, according to Federation of Thai Industries (FTI). Despite the deceleration, April marked the second consecutive month of growth, supported in part by bookings generated at the Bangkok International Motor Show, which attracted orders totaling 48,394 units. Meanwhile, vehicle production slipped 0.44% from a year earlier to a near six-year low of 103,794 units, largely attributed to disruptions in export markets stemming from the ongoing conflict in the Middle East, which has driven up global energy prices and complicated shipping and logistics conditions. Nevertheless, the FTI maintained its 2026 production forecast, projecting total vehicle output to rise by 3% to 1.5 million units this year, following a 0.9% decline to 1.455 million units in 2025. External demand remained subdued, as vehicle exports fell 8.43% year-on-year to 60,190 units in April."
+    },
     {
       "id": "4897992",
       "time": "2026-05-25 13:31:24",
@@ -145453,148 +145489,6 @@
         "其他"
       ],
       "text": "法國財長： 債券市場對財政狀況與物價走勢高度存疑。"
-    },
-    {
-      "id": "mkt:019e3995-e6cd-7dd6-8893-f4c8cad53329",
-      "time": "2026-05-18 13:36:25",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "DAX"
-      ],
-      "text": "FRANCE FIN. MIN. LESCURE: EUROPEAN ECONOMY IS SEEING SLOWDOWN, BUT NO RECESSION"
-    },
-    {
-      "id": "4885013",
-      "time": "2026-05-18 13:36:23",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【由常住地提供基本公共服務相關檔案將出臺】記者日前從業內人士獲悉，由常住地提供基本公共服務相關檔案近期將出臺。國家基本公共服務包括幼有所育、學有所教、勞有所得、老有所養、住有所居等內容。今年1月9日召開的國務院常務會議研究推行由常住地提供基本公共服務有關工作‌。“十五五”規劃綱要明確，全面推進常住地提供基本公共服務。健全與常住人口相匹配的公共資源配置機制。在人口集中流入城市，規範實施以就業居住年限為主要條件的緊缺公共服務梯度供應，逐步減少梯度層次和服務差異。落實持居住證參加城鄉居民基本醫療保險政策。逐步將未落戶常住人口納入常住地兒童關愛、社會救助等範圍。(中證金牛座)"
-    },
-    {
-      "id": "mkt:019e3995-bb00-7dd6-8893-ecadacf3b3ea",
-      "time": "2026-05-18 13:36:10",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "DXY",
-        "Impact bullish",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "FRENCH FINANCE MINISTER SAYS THE BOND MARKET IS TELLING US THAT THERE IS HIGH ECONOMIC UNCERTAINTY"
-    },
-    {
-      "id": "4885012",
-      "time": "2026-05-18 13:36:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "法國財長表示，債市當前走勢向我們傳遞出，經濟不確定性處於高位。"
-    },
-    {
-      "id": "mkt:019e3995-8989-7dd6-8893-e206830c4de1",
-      "time": "2026-05-18 13:36:01",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "FRANCE FIN. MIN. LESCURE: G-7 WILL RELEASE OIL AGAIN IF NEEDED IN THE FUTURE"
-    },
-    {
-      "id": "4885011",
-      "time": "2026-05-18 13:35:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中際旭創成交額達200億元，現跌0.6%】5月18日下午，中際旭創成交額達200億元，現跌0.6%。"
-    },
-    {
-      "id": "4885010",
-      "time": "2026-05-18 13:35:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "法國財長： 歐洲經濟並未處於高通脹狀態。"
-    },
-    {
-      "id": "4885009",
-      "time": "2026-05-18 13:35:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "臺灣證交所加權股價指數收低0.7%，報40,891.82點。"
-    },
-    {
-      "id": "mkt:019e3995-1ddb-7dd6-8893-dcf27a61e891",
-      "time": "2026-05-18 13:35:34",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "TAIWAN'S WEIGHTED INDEX CLOSED DOWN 0.68%"
-    },
-    {
-      "id": "4885007",
-      "time": "2026-05-18 13:35:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "法國財長：歐洲經濟展現出強勁韌性。"
-    },
-    {
-      "id": "4885006",
-      "time": "2026-05-18 13:35:07",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "法國財長： 七國集團未來必要時將再度釋放石油儲備。"
-    },
-    {
-      "id": "4885005",
-      "time": "2026-05-18 13:34:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以色列強推的“巴勒斯坦人死刑法”生效】以色列制定的“巴勒斯坦人死刑法”17日夜間生效。該法授權法官對其認定實施“致命襲擊”的約旦河西岸巴勒斯坦人判處死刑，被批為針對巴勒斯坦人的歧視性法律，廣受譴責。以色列議會3月30日表決透過“巴勒斯坦人死刑法案”。以國防部長卡茨隨即要求以色列國防軍中央司令部司令阿維·布盧特簽署軍事命令，完成其生效所需最後程式。該軍令要求審理“恐怖分子”實施致命襲擊案件的軍事法庭只能做出死刑判決，除非有“特殊情況”可判終身監禁。（央視新聞）"
-    },
-    {
-      "id": "4885004",
-      "time": "2026-05-18 13:34:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "法國財長： 七國集團應釋放主導局勢的明確訊號。"
-    },
-    {
-      "id": "mkt:019e3993-9c2f-7dd6-8893-d07a1f57686a",
-      "time": "2026-05-18 13:33:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CHINA’S MOST ACTIVE LOW-SULFUR FUEL OIL (LU) CONTRACT SURGES 8.00% INTRADAY TO 5,334 YUAN/TON"
-    },
-    {
-      "id": "4885003",
-      "time": "2026-05-18 13:33:22",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【世界鉑金投資協會：伊朗局勢使第一季鉑金市場供過於求，為六個季度以來首見】世界鉑金投資協會(WPIC)表示，受伊朗戰爭影響，第一季鉑金市場出現了六季度以來的首次過剩，原因是投資需求下降，且高企的能源價格增加了通脹和利率上升的可能性。在2025年暴漲127%之後，現貨鉑金於今年1月觸及每金衡盎司2,919美元的紀錄高位。隨後，隨著黃金領漲的行情勢頭減弱，加之2月底中東衝突爆發，投資者為應對保證金追繳而拋售貴金屬，鉑金價格回落至約2,000美元。第一季鉑金市場錄得26.8萬盎司過剩，較2025年同期65.8萬盎司缺口形成對比。需求同比下降31%至150萬盎司，因淨投資流出達22.5萬盎司，以及汽車和珠寶消費走弱所致。"
     }
   ]
 }
