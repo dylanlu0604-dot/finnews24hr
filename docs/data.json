@@ -1,7 +1,16 @@
 {
-  "updated": "2026-05-26 01:59:27",
-  "count": 15807,
+  "updated": "2026-05-26 02:03:19",
+  "count": 15806,
   "items": [
+    {
+      "id": "4899082",
+      "time": "2026-05-26 02:01:23",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【歐盟計劃對谷歌處以數億歐元的罰款】歐盟執委會訊息人士稱，歐盟計劃在反壟斷調查中，對Alphabet旗下的谷歌處以高達數億歐元的罰款。這一決定已接近完成，預計將在夏季休會前正式公佈，並補充稱這將是歐盟因違反新《數字市場法》（DMA）而開出的最高罰單。此次調查於2025年3月正式啟動，旨在解決谷歌在搜尋結果中偏袒自家服務的擔憂，並確保這家全球最受歡迎的網際網路搜尋引擎遵守當地法規。"
+    },
     {
       "id": "4899081",
       "time": "2026-05-26 01:56:33",
@@ -141459,22 +141468,6 @@
         "MKT News"
       ],
       "text": "CDC: CONFIRM ONE CASE OF EBOLA IN AN AMERICAN AS PART OF THEIR WORK IN THE DEMOCRATIC REPUBLIC OF CONGO"
-    },
-    {
-      "id": "4886437",
-      "time": "2026-05-19 02:01:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際原子能機構：阿聯酋方面通報，昨日遭遇無人機襲擊後，巴拉卡核電站 3 號機組已於今日早些時候恢復場外供電。"
-    },
-    {
-      "id": "mkt:019e3c40-5655-7dd6-889e-2d1498f86d92",
-      "time": "2026-05-19 02:01:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IAEA: HAS BEEN INFORMED BY THE UAE THAT OFF-SITE POWER WAS RESTORED TO UNIT 3 OF THE BARAKAH NPP EARLIER TODAY, FOLLOWING YESTERDAY’S DRONE STRIKE"
     }
   ]
 }
