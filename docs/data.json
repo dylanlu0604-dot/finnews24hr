@@ -1,7 +1,15 @@
 {
-  "updated": "2026-05-26 00:18:08",
+  "updated": "2026-05-26 00:22:13",
   "count": 15856,
   "items": [
+    {
+      "id": "4899030",
+      "time": "2026-05-26 00:20:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【卡達埃米爾與阿曼蘇丹通電話 討論地區局勢】當地時間5月25日，卡達埃米爾塔米姆與阿曼蘇丹海賽姆通電話，雙方就當前地區局勢的發展進行了討論。雙方一致認同儘快達成解決方案的重要性，以推動維護地區安全。（央視新聞）"
+    },
     {
       "id": "4899029",
       "time": "2026-05-26 00:15:58",
@@ -142004,18 +142012,6 @@
         "國際"
       ],
       "text": "歐洲藥品管理局：依據歐洲疾控中心釋出的評估報告，目前歐盟及歐洲經濟區居民面臨的風險處於極低水平。"
-    },
-    {
-      "id": "te:markets:551676",
-      "time": "2026-05-19 00:20:31",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "European Stocks Inch Higher — European stocks closed mostly higher on Monday, trimming recent losses as markets further assessed the impact of ongoing macroeconomic headwinds on European earnings projections. The Eurozone's STOXX 50 inched higher to 5,832 and the STOXX 600 rose 0.3% to 609. The stalemate between the US and Iran was extended through the weekend and no side expressed urgency in pressing for opening the Strait of Hormuz for oil and goods exports. Consequently, energy prices held higher and European sovereign yields maintained their elevated levels. Financial services providers were steadily higher, trimming losses from last session with Allianz, Nordea, AXA, and Munich Re jumping over 1%. Also, Deutsche Boerse jumped 5% on reports that TCI increased its position on the exchange operator. On the other hand, ASML fell 3.2%, in line with a plunge in global AI infrastructure stocks."
     }
   ]
 }
