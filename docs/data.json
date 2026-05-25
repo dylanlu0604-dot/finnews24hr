@@ -1,7 +1,24 @@
 {
-  "updated": "2026-05-26 00:45:32",
-  "count": 15850,
+  "updated": "2026-05-26 00:49:28",
+  "count": 15849,
   "items": [
+    {
+      "id": "4899044",
+      "time": "2026-05-26 00:47:07",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "美伊協議草案規定，霍爾木茲海峽將在30天內恢復通航。"
+    },
+    {
+      "id": "4899043",
+      "time": "2026-05-26 00:45:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美加州故障化學品儲罐爆炸風險排除】美國加利福尼亞州奧蘭治縣官員25日說，當地此前發生洩漏的有毒化學品儲罐的爆炸威脅已排除，“事件已經迎來轉折點”。奧蘭治縣消防局代理局長麥戈文在社交媒體上釋出通報說，應急人員24日夜間進入位於該縣加登格羅夫市的事故現場後確認，該儲罐發生“沸騰液體膨脹蒸氣爆炸”的威脅已排除。（新華社）"
+    },
     {
       "id": "4899042",
       "time": "2026-05-26 00:44:30",
@@ -7285,6 +7302,18 @@
         "觀點"
       ],
       "text": "【滬光股份：子公司2.77億元購買中信證券理財產品】滬光股份公告稱，全資子公司重慶滬光使用2.77億元閒置自有資金購買中信證券蘇州分公司的4款非保本浮動收益型理財產品。包括“天天利財 - 企業新客專享(VS8406)”5000萬元（2026年5月25日 - 2026年6月22日）、“外貿信託 - 粵灣信享1M3號(ZTE04C)”1億元（2026年5月23日 - 2026年6月22日）等。委託理財受多種因素影響，投資收益具有不確定性。"
+    },
+    {
+      "id": "mkt:019e600a-09bf-711d-be5e-20c991cbbc3f",
+      "time": "2026-05-25 16:48:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S.-Iran Draft: U.S. To Ease Blockade Of Iranian Ports, Grant Targeted Oil Sanctions Waivers; Phased Sanctions Relief Tied To Iran Compliance; Strait Of Hormuz To Reopen Within 30 Days"
     },
     {
       "id": "mkt:019e5e52-b672-711d-be59-dc9e0fec35d4",
@@ -141890,50 +141919,6 @@
         "國際"
       ],
       "text": "JOHNSON TECHNOLOGY SYSTEMS, INC.（ JTSi）中標美國導彈防禦局護盾專案，合同金額上限達 1510 億美元。"
-    },
-    {
-      "id": "mkt:019e3bfd-1a4a-7dd6-889c-c9aaf8dac427",
-      "time": "2026-05-19 00:48:23",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish",
-        "DELL.O"
-      ],
-      "text": "DELL NOW HAS 5,000 CLIENTS FOR AI SERVER WITH NVIDIA CHIPS"
-    },
-    {
-      "id": "4886388",
-      "time": "2026-05-19 00:46:19",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "倫敦金屬交易所釋出通知，確認調整所有交易場所內鉛、鋅遠期合約的單日漲跌停幅度，自 6 月 8 日起由 15% 下調至 12%。"
-    },
-    {
-      "id": "mkt:019e3bfb-3504-7dd6-889c-c09a30e5d086",
-      "time": "2026-05-19 00:46:19",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "LME: ISSUES NOTICE CONFIRMING NEW DAILY PRICE LIMITS FOR OUTRIGHT CONTRACTS FOR LEAD AND ZINC ON ALL EXECUTION VENUES, DECREASING THEM FROM 15% TO 12% EFFECTIVE FROM JUNE 8"
-    },
-    {
-      "id": "4886387",
-      "time": "2026-05-19 00:45:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "戴爾：一季度新增一千家人工智慧伺服器客戶， 目前擁有 5000 家採用英偉達晶片的人工智慧伺服器客戶。"
     }
   ]
 }
