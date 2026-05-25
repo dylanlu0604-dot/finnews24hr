@@ -1,7 +1,23 @@
 {
-  "updated": "2026-05-26 00:14:10",
-  "count": 15859,
+  "updated": "2026-05-26 00:18:08",
+  "count": 15856,
   "items": [
+    {
+      "id": "4899029",
+      "time": "2026-05-26 00:15:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長阿拉格齊發聲，聲援真主黨及黎巴嫩的抵抗力量。"
+    },
+    {
+      "id": "4899028",
+      "time": "2026-05-26 00:15:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普在阿靈頓國家公墓向無名戰士墓敬獻花圈，紀念陣亡將士紀念日。"
+    },
     {
       "id": "te:markets:553503",
       "time": "2026-05-26 00:12:16",
@@ -142000,50 +142016,6 @@
         "Importance 1"
       ],
       "text": "European Stocks Inch Higher — European stocks closed mostly higher on Monday, trimming recent losses as markets further assessed the impact of ongoing macroeconomic headwinds on European earnings projections. The Eurozone's STOXX 50 inched higher to 5,832 and the STOXX 600 rose 0.3% to 609. The stalemate between the US and Iran was extended through the weekend and no side expressed urgency in pressing for opening the Strait of Hormuz for oil and goods exports. Consequently, energy prices held higher and European sovereign yields maintained their elevated levels. Financial services providers were steadily higher, trimming losses from last session with Allianz, Nordea, AXA, and Munich Re jumping over 1%. Also, Deutsche Boerse jumped 5% on reports that TCI increased its position on the exchange operator. On the other hand, ASML fell 3.2%, in line with a plunge in global AI infrastructure stocks."
-    },
-    {
-      "id": "4886374",
-      "time": "2026-05-19 00:17:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "【英國首相大熱門伯納姆：若能入主唐寧街 不會對財政規則進行修改】被認為最有可能接替基爾·斯塔默出任英國首相的安迪·伯納姆表示，如果其上臺執政，不會改變政府自行設定的借貸限制。這位大曼徹斯特市長的一名發言人週一表示，如果伯納姆在今年晚些時候可能舉行的領導權選舉後入主唐寧街10號，他不會對現任財政大臣裡夫斯的財政規則作出任何調整。該發言人排除了將國防支出豁免於這些限制之外的可能性。"
-    },
-    {
-      "id": "4886373",
-      "time": "2026-05-19 00:17:15",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "財政部檔案獲悉，德國聯邦國防軍將向萊茵金屬採購 2030 輛軍用卡車，訂單總額超 10 億歐元。"
-    },
-    {
-      "id": "mkt:019e3bde-fe93-7dd6-889c-8463067150ea",
-      "time": "2026-05-19 00:15:30",
-      "tags": [
-        "MKT News",
-        "RHM.DE",
-        "Impact bullish"
-      ],
-      "text": "GERMAN ARMED FORCES TO PLACE ORDER FOR 2,030 TRUCKS FROM RHEINMETALL FOR OVER 1 BILLION EUROS, FINANCE MINISTRY DOCUMENT"
-    },
-    {
-      "id": "4886372",
-      "time": "2026-05-19 00:14:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴基斯坦總理辦公室：巴基斯坦總理今天在總理辦公室主持了與巴基斯坦駐伊朗及海灣合作委員會（GCC）國家大使的會議。會議期間，大使向巴基斯坦總理簡要介紹了雙邊關係的現狀、各自國家的新機遇和挑戰，討論了加強經濟外交、提升貿易和投資關係、匯款以及巴基斯坦僑民等問題。會議還討論了地區和國際形勢，特別關注促進更廣泛地區的和平、穩定和經濟合作。"
-    },
-    {
-      "id": "4886371",
-      "time": "2026-05-19 00:14:21",
-      "tags": [
-        "公司",
-        "焦點",
-        "國際"
-      ],
-      "text": "【AMD董事會主席兼CEO蘇姿豐：中國市場極其重要 算力已經成為AMD開展業務的關鍵】美國超威半導體公司（AMD）董事會主席兼執行長（CEO）蘇姿豐5月18日下午在京表示，此次來華深感榮幸，中國市場極其重要。在與中國貿促會會長任鴻斌的交談中，蘇姿豐說，算力已經成為AMD開展業務的關鍵，十分有幸能與中國各大合作伙伴在這一領域保持穩固良好的合作關係。“我始終期待雙方能夠持續深化合作、拓展更多領域。”（新華社）"
     }
   ]
 }
