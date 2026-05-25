@@ -1,7 +1,18 @@
 {
-  "updated": "2026-05-26 02:22:44",
-  "count": 15799,
+  "updated": "2026-05-26 02:26:38",
+  "count": 15798,
   "items": [
+    {
+      "id": "te:markets:553507",
+      "time": "2026-05-26 02:25:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Orange Juice Drops by 2.70% — Top commodity losers are Orange Juice (-2.70%), Rapeseed (-2.18%) and Canola (-1.79%). Gains are led by Cocoa (0.58%)."
+    },
     {
       "id": "te:markets:553506",
       "time": "2026-05-26 02:20:00",
@@ -141382,25 +141393,6 @@
         "市場"
       ],
       "text": "布倫特原油日內漲3%，現報112.57美元/桶。"
-    },
-    {
-      "id": "4886448",
-      "time": "2026-05-19 02:25:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國白宮正審議禁止股票最優價交易相關禁令。"
-    },
-    {
-      "id": "te:markets:551688",
-      "time": "2026-05-19 02:25:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Cocoa Plunges by 5.85% — Top commodity losers are Cocoa (-5.85%) and Orange Juice (-5.05%). Gains are led by Corn (4.70%), Wheat (4.54%) and Cotton (3.93%)."
     }
   ]
 }
