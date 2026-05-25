@@ -1,7 +1,95 @@
 {
-  "updated": "2026-05-25 14:08:09",
-  "count": 16212,
+  "updated": "2026-05-25 14:12:03",
+  "count": 16217,
   "items": [
+    {
+      "id": "mkt:019e5dc2-48fd-711d-be57-51a63e063641",
+      "time": "2026-05-25 14:11:10",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "CHINESE FOREIGN MINISTRY: THE IRAN WAR SHOULD NEVER HAVE BROKEN OUT IN THE FIRST PLACE, AND THERE IS NO REASON FOR IT TO CONTINUE"
+    },
+    {
+      "id": "4898035",
+      "time": "2026-05-25 14:11:04",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【資料中心電源概念持續活躍 麥格米特封漲停】午後資料中心電源概念持續活躍，麥格米特封漲停，此前泰永長征、意華股份漲停，新雷能一度觸及20cm漲停，安科瑞、中恆電氣、雄韜股份、東方電子等漲幅靠前。"
+    },
+    {
+      "id": "mkt:019e5dc2-622c-711d-be57-5e3e684e2d53",
+      "time": "2026-05-25 14:10:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【SoftBank Group Reoffers JPY260b Subordinated Bonds For AI Investments】Offered To Retail; 35y Tenor; Callable After 5y; Pricing June 5; Initial 5y Coupon 4.8%-5.6%; Re-enters Retail Bond Market ~2 Months After Prior Issue; Trimmed USD10b Margin Loan Backed By OpenAI Stake; OpenAI Investment >USD60b; CDS Widen ~70bps Since Start-2026"
+    },
+    {
+      "id": "mkt:019e5dc1-c8a9-711d-be57-48af3928a1f2",
+      "time": "2026-05-25 14:10:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Macro & Rates",
+        "Treasury Yields"
+      ],
+      "text": "Japan 40-Year Govt Bond Yield Falls 7.5 bps To 4.145%"
+    },
+    {
+      "id": "4898034",
+      "time": "2026-05-25 14:10:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "【新易盛股價創歷史新高】新易盛盤中股價創歷史新高，現漲7.97%，報655.12元，總市值為6502.91億元。"
+    },
+    {
+      "id": "4898033",
+      "time": "2026-05-25 14:10:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本關西電力將於 5 月 26 日重啟大飯 4 號核反應堆。"
+    },
+    {
+      "id": "4898032",
+      "time": "2026-05-25 14:09:00",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "哈薩克拒絕執行烏克蘭石油天然氣公司相關裁決。"
+    },
+    {
+      "id": "te:markets:553345",
+      "time": "2026-05-25 14:08:21",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Head for Higher Open — European equity markets were poised for a stronger open on Monday as growing optimism that the US and Iran were nearing a deal to reopen the Strait of Hormuz boosted investor sentiment. Oil prices fell sharply on the developments, easing concerns about inflation and further interest rate hikes, while supporting expectations that equities could resume their climb toward fresh record highs. There are no major economic data releases or corporate earnings reports scheduled in Europe on Monday, though investors are expected to closely monitor inflation readings from across the region later this week for further clues on the monetary policy outlook. In premarket trading, Euro Stoxx 50 and Stoxx 600 futures were both higher by around 1%."
+    },
+    {
+      "id": "4898030",
+      "time": "2026-05-25 14:07:47",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "【買家稱美國首次批准對受到制裁的涉伊朗船舶實施報廢拆解】作為船舶及海工資產回收領域的重要買家，GMS表示，已獲得美國頒發的首張許可證，允許購買因伊朗問題受到制裁的運輸船。該公司執行長Anil Sharma稱，這些於4月簽發的許可證允許對四艘集裝箱船進行拆解，分別為Yogi、Timon、Rantanplan和Bigli。上述船舶均曾在美國財政部去年7月釋出的公告中被點名，該公告宣佈對Hossein Shamkhani的船隊及其關聯網路採取“大規模行動”。Shamkhani是一名重要人物，其父曾任前最高領袖阿亞圖拉·哈梅內伊的高階顧問。"
+    },
     {
       "id": "4898029",
       "time": "2026-05-25 14:06:23",
@@ -145216,49 +145304,6 @@
         "Importance 1"
       ],
       "text": "Italy 10Y Bond Yield Hits 5-week High — Italy 10 Year Government Bond Yield increased to 3.99%, the highest since April 2026. Over the past 4 weeks, Italy 10Y Bond Yield gained 25.89 basis points, and in the last 12 months, it increased 38.80 basis points."
-    },
-    {
-      "id": "4885079",
-      "time": "2026-05-18 14:10:57",
-      "tags": [
-        "公司",
-        "市場",
-        "焦點",
-        "A股"
-      ],
-      "text": "【稀土概念股午後下挫 中國稀土跌超5%】稀土概念股午後持續下挫，中國稀土跌超5%，華宏科技、包鋼股份、北方稀土等股跟跌。"
-    },
-    {
-      "id": "te:economy:551460",
-      "time": "2026-05-18 14:09:24",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Norway",
-        "Government Bond 10Y",
-        "Importance 0"
-      ],
-      "text": "Norway 10Y Bond Yield Hits 17-1/2-year High — Norway 10 Year Government Bond Yield increased to 4.60%, the highest since October 2008. Over the past 4 weeks, Norway 10Y Bond Yield gained 18.50 basis points, and in the last 12 months, it increased 49.85 basis points."
-    },
-    {
-      "id": "te:markets:551459",
-      "time": "2026-05-18 14:09:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "European Stocks Head for Lower Open — European equity markets were poised for a lower open on Monday, extending losses from the previous session as renewed US-Iran tensions drove oil prices higher, fueling inflation concerns and strengthening expectations for interest rate hikes. In the latest developments, President Donald Trump warned that Tehran is running out of time to secure an agreement with Washington, while Iranian media reports suggested negotiations remain deadlocked. A nuclear facility in the United Arab Emirates also came under attack, raising fresh doubts over the durability of the fragile US-Iran ceasefire. Meanwhile, investors are awaiting Italian trade balance data and Turkish consumer confidence figures for additional economic signals. In corporate news, Ryanair CFO Neil Soarahan said the airline has prepared for an “armageddon situation” amid the worsening jet fuel crisis. In premarket trading, Euro Stoxx 50 futures fell 1%, while Stoxx 600 futures declined 0.6%."
-    },
-    {
-      "id": "4885078",
-      "time": "2026-05-18 14:09:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "【智元遠征A3正式上線擎天租】5月18日，智元遠征A3正式上線擎天租平臺，遠征A3的輕量化部署、長續航、強表現力與高定製能力，補齊了高階人形機器人在RaaS（Robot as a Service，機器人即服務）模式下規模化交付的關鍵拼圖。"
     }
   ]
 }
