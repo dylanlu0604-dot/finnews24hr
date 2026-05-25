@@ -1,7 +1,98 @@
 {
-  "updated": "2026-05-25 09:36:37",
-  "count": 16401,
+  "updated": "2026-05-25 09:40:28",
+  "count": 16390,
   "items": [
+    {
+      "id": "4897698",
+      "time": "2026-05-25 09:39:54",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行行長馬爾霍特拉稱國際收支平衡問題“目前還無需過度擔憂”。"
+    },
+    {
+      "id": "4897697",
+      "time": "2026-05-25 09:39:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "【碳化矽概念反覆活躍 新潔能漲停】碳化矽概念反覆活躍，新潔能漲停，芯朋微、晶豐明源漲超10%，宏微科技、捷捷微電、天嶽先進、揚傑科技跟漲。。"
+    },
+    {
+      "id": "4897696",
+      "time": "2026-05-25 09:39:27",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【半導體板塊短線拉昇，新潔能漲停】半導體板塊短線拉昇，新潔能漲停，東芯股份漲超15%，晶豐明源、芯朋微、帝奧微漲超10%，宏微科技、聖邦股份、寒武紀、華天科技、捷捷微電跟漲。"
+    },
+    {
+      "id": "4897695",
+      "time": "2026-05-25 09:39:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【科創50指數漲幅擴大至1%】科創50指數漲幅擴大至1%，現報1809.74點。"
+    },
+    {
+      "id": "4897694",
+      "time": "2026-05-25 09:39:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達1.25%，成分股中，寒武紀漲7.15%，中芯國際漲6.11%，盛美上海漲5.71%，天嶽先進漲3.92%。"
+    },
+    {
+      "id": "4897693",
+      "time": "2026-05-25 09:39:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "【病毒防治概念快速拉昇 達安基因漲停】病毒防治概念快速拉昇，達安基因漲停，之江生物漲超11%，科華生物、凱普生物、潤達醫療跟漲。"
+    },
+    {
+      "id": "mkt:019e5cc8-eec5-7882-93e9-789154285785",
+      "time": "2026-05-25 09:38:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact mixed",
+        "SZSE Component"
+      ],
+      "text": "TURNOVER ON SSE AND SZSE EXCEEDED 500 BILLION YUAN"
+    },
+    {
+      "id": "4897691",
+      "time": "2026-05-25 09:38:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣加權股價指數上漲3%至43,548.27點。"
+    },
+    {
+      "id": "4897690",
+      "time": "2026-05-25 09:37:51",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超5000億元，較上日此時放量624億元。"
+    },
+    {
+      "id": "4897689",
+      "time": "2026-05-25 09:36:38",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本10年期國債收益率下行3個基點至2.73%。"
+    },
     {
       "id": "4897688",
       "time": "2026-05-25 09:35:34",
@@ -146860,212 +146951,6 @@
         "Treasury Yields"
       ],
       "text": "S.KOREA C.BANK SAYS SELLS 91-DAY MONETARY STABILISATION BONDS AT YIELD OF 2.565%"
-    },
-    {
-      "id": "mkt:019e38bd-d676-7663-82fe-01799b8ecbe6",
-      "time": "2026-05-18 09:40:25",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bearish",
-        "CSI300",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "CHINA JAN-APR HOME PRICES FELL 3.5% ON YEAR"
-    },
-    {
-      "id": "te:economy:551369",
-      "time": "2026-05-18 09:40:17",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "China",
-        "Housing Index",
-        "Importance 2"
-      ],
-      "text": "China New Home Prices Fall the Most in 11 Months — China’s new home prices across 70 cities shrank 3.5% yoy in April 2026, following a 3.4% decline in the previous month. It marked the 34th consecutive month of contraction and the sharpest pace since May 2025, underscoring persistent weakness in the property sector. The data suggested that existing stimulus efforts have yet to generate a sustained recovery in housing demand and market confidence."
-    },
-    {
-      "id": "mkt:019e38bd-a6c9-7663-82fd-fd4cd25a86c6",
-      "time": "2026-05-18 09:40:00",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bearish",
-        "Copper",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "CHINA APR HOME PRICES FELL ON YEAR IN 65 OF 70 CITIES VS. 65 IN MAR"
-    },
-    {
-      "id": "4884619",
-      "time": "2026-05-18 09:39:59",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【儲存晶片板塊盤初衝高，深科技等股創新高】儲存晶片板塊盤初衝高，華海誠科、商絡電子、兆易創新、大普微、同有科技、深科技、聯訊儀器盤中創新高，三孚股份漲停。訊息面上，國產儲存晶片龍頭長鑫科技業績大增，預計上半年營收超千億元。"
-    },
-    {
-      "id": "4884618",
-      "time": "2026-05-18 09:39:56",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【證券板塊震盪拉昇 華安證券漲停】證券板塊震盪拉昇，華安證券漲停，招商證券、國元證券、長江證券、第一創業跟漲。"
-    },
-    {
-      "id": "4884617",
-      "time": "2026-05-18 09:39:34",
-      "tags": [
-        "市場"
-      ],
-      "text": "A股銅纜高速連線板塊走強，華工科技漲超8%，匯綠生態漲超7%，中天科技、鼎通科技等跟漲。"
-    },
-    {
-      "id": "4884616",
-      "time": "2026-05-18 09:39:33",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內漲幅達1.02%，成分股中，佰維儲存漲9.23%，思特威漲8.94%，柏楚電子漲4.79%，晶合整合漲4.59%。"
-    },
-    {
-      "id": "4884615",
-      "time": "2026-05-18 09:39:13",
-      "tags": [
-        "市場"
-      ],
-      "text": "【金飾價格跌到1383元】18日早間，現貨黃金衝高回落，盤中跌破4500美元關口，跌超0.8%。查詢國內金飾價格，老鳳祥足金飾品報1383元/克，相較於昨天1398元/克跌15元。"
-    },
-    {
-      "id": "te:markets:551368",
-      "time": "2026-05-18 09:39:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "South Korea",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "South Korean Shares Extend Decline — The benchmark KOSPI fell more than 1% to around 7,400 on Monday, extending losses from the previous session, as rising global bond yields and inflation concerns triggered risk-off sentiment. Investor sentiment weakened after a sharp jump in US Treasury yields reinforced expectations that the Federal Reserve could keep interest rates higher for longer, while escalating Middle East tensions pushed oil prices higher and added to inflation worries. Declines were seen in Hyundai Motor (-6.3%), SK Square (-3.3%), LG Energy Solution (-4.8%), HD Hyundai Heavy Industries (-5.5%), Doosan Enerbility (-3.9%), and SK Hynix (-0.3%). At the same time, uncertainty over a planned strike at Samsung Electronics weighed on sentiment, raising concerns over disruptions to semiconductor production and exports. The government warned the strike could hurt the broader economy and said it may consider emergency arbitration measures if labor-management talks fail ahead of the planned walkout later this week."
-    },
-    {
-      "id": "4884614",
-      "time": "2026-05-18 09:39:05",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超5000億元，較上日此時縮量169億元。"
-    },
-    {
-      "id": "4884613",
-      "time": "2026-05-18 09:38:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "【五糧液：穩定商家經營預期 “五一”期間多款產品動銷增長近60%】5月18日，五糧液(000858)召開2026年第一次臨時股東會，五糧液副董事長、總經理華濤表示，紮實做好經營保障，積極拓展外部市場，持續深化渠道溝通，穩定商家經營預期。目前，五糧液有序落地世界盃、520超級粉絲節等品牌營銷活動，助力終端動銷。“五一”期間，1618、39度五糧液等宴席場次增長超70%、動銷增長近60%；同時，持續做好內部運營，生產經營平穩有序，原糧採購、包材供應、釀酒生產、商品發運等工作正常運轉；景區運營平穩有序，“五一”期間累計接待遊客16.84萬人次、同比增長32.6%，創歷史新高。"
-    },
-    {
-      "id": "4884612",
-      "time": "2026-05-18 09:38:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "A股豬肉股走低，天邦食品跌超4%，華統股份、天域生物跌近3%，牧原股份、神農集團等跟跌。"
-    },
-    {
-      "id": "4884611",
-      "time": "2026-05-18 09:38:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美股納斯達克100指數期貨跌超1%】美股納斯達克100指數期貨跌超1%，道瓊斯指數期貨跌0.83%，標普500指數期貨跌0.75%。"
-    },
-    {
-      "id": "4884610",
-      "time": "2026-05-18 09:38:16",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "體育概念股盤初下挫，中體產業跌停，金陵體育跌超15%，舒華體育、共創草坪、雙象股份、粵傳媒跌超7%。"
-    },
-    {
-      "id": "4884609",
-      "time": "2026-05-18 09:38:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【極殼科技完成B+輪5000萬美元融資】5月18日，據高鵠資本訊息，目前，極殼科技已完成B+輪5000萬美元的融資，由螞蟻集團和美團龍珠領投，Sofina、Granite Asia跟投，高鵠資本擔任獨家財務顧問。至此，極殼科技已完成1.2億美元B輪系列融資。公司股東包括IDG資本、紅杉中國、Monolith、五源資本、光合創投、綠洲資本、德迅投資等。"
-    },
-    {
-      "id": "4884608",
-      "time": "2026-05-18 09:38:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普將於週一下午4:30（美國東部時間）參加醫療保健活動。"
-    },
-    {
-      "id": "4884607",
-      "time": "2026-05-18 09:37:32",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【美國長債收益率創2023年以來新高 受通脹疑慮影響】美國國債期限最長債券的收益率升至近三年來的最高水準，投資人對通脹加速的疑慮引發全球債務拋售。美國總統唐納德·特朗普對伊朗新的施壓以達成一項協議、結束持續數週的戰爭，受此影響，油價延續漲勢，30年期美國國債收益率上升3個基點至5.15%。除2023年10月一段短暫的上漲外，長債收益率自2007年以來未曾升至這種水準。"
-    },
-    {
-      "id": "mkt:019e38bb-98d4-7663-82fd-f04dfec98d4d",
-      "time": "2026-05-18 09:37:26",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite",
-        "SZSE Component"
-      ],
-      "text": "CHINA CSRC VICE CHAIRMAN: TO STEP UP EFFORTS TO DEEPEN REFORM OF BEIJING STOCK EXCHANGE."
-    },
-    {
-      "id": "te:markets:551367",
-      "time": "2026-05-18 09:37:19",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Newmont Corporation Stock Price Hits 6-week Low — Newmont Corporation shares decreased to 149.50 AUD, the lowest since March 2026. Over the past 4 weeks, Newmont Corporation lost 6.25%, and in the last 12 months, it increased 88.56%."
-    },
-    {
-      "id": "4884606",
-      "time": "2026-05-18 09:37:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "【貝恩資本宣佈完成亞洲第六支基金最終募集，總規模達105億美元】貝恩資本於5月18日宣佈，旗下第六支亞洲基金（“亞洲基金VI”）已完成最終募集，總規模達105億美元，其中約91億美元來自外部投資者，超出此前70億美元的募資目標。貝恩資本合夥人、亞洲私募股權業務負責人杉本勇次（Yuji Sugimoto）表示，仍然看好亞洲市場的廣闊機遇，並將加碼人才建設、技術賦能及平臺綜合能力升級，以穩健審慎的節奏實現業務規模發展。目前，貝恩資本已在日本、印度、中國、澳大利亞和韓國構建起一體化投資平臺，重點佈局科技、工業、消費、醫療健康以及商業與金融服務等領域。（第一財經）"
-    },
-    {
-      "id": "4884605",
-      "time": "2026-05-18 09:36:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "2025年全國博物館接待觀眾15.6億人次。（新華社）"
     }
   ]
 }
