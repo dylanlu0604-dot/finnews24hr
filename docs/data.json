@@ -1,7 +1,26 @@
 {
-  "updated": "2026-05-26 02:18:49",
-  "count": 15801,
+  "updated": "2026-05-26 02:22:44",
+  "count": 15799,
   "items": [
+    {
+      "id": "te:markets:553506",
+      "time": "2026-05-26 02:20:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Silver Gains by 3.60% — Top commodity gainers are Silver (3.60%), Lithium Carbonate (2.95%), Platinum (1.83%) and Gold (1.16%)."
+    },
+    {
+      "id": "4899090",
+      "time": "2026-05-26 02:18:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "OpenAI：與Grupo Folha（巴西報業集團）和Grupo UOL（巴西入口網站集團）達成戰略內容合作關係。"
+    },
     {
       "id": "4899089",
       "time": "2026-05-26 02:18:08",
@@ -141382,44 +141401,6 @@
         "Importance 1"
       ],
       "text": "Agricultural Commodities Updates: Cocoa Plunges by 5.85% — Top commodity losers are Cocoa (-5.85%) and Orange Juice (-5.05%). Gains are led by Corn (4.70%), Wheat (4.54%) and Cotton (3.93%)."
-    },
-    {
-      "id": "4886447",
-      "time": "2026-05-19 02:22:34",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油突破112美元/桶，日內漲2.52%。"
-    },
-    {
-      "id": "te:markets:551687",
-      "time": "2026-05-19 02:20:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Silver Gains by 1.33% — Top commodity gainer is Silver (1.33%). Biggest losers are Platinum (-0.83%), Iron Ore CNY (-0.80%), Steel Rebar (-0.65%) and Gold (-0.12%)."
-    },
-    {
-      "id": "4886446",
-      "time": "2026-05-19 02:19:39",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國財政部發布與俄羅斯相關的通用許可。"
-    },
-    {
-      "id": "4886445",
-      "time": "2026-05-19 02:19:27",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【美國宣佈對古巴實施新一輪制裁】當地時間18日，美國財政部宣佈對古巴實施新一輪制裁。（央視新聞）"
     }
   ]
 }
