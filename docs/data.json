@@ -1,7 +1,35 @@
 {
-  "updated": "2026-05-25 08:22:21",
-  "count": 16454,
+  "updated": "2026-05-25 08:26:04",
+  "count": 16451,
   "items": [
+    {
+      "id": "4897573",
+      "time": "2026-05-25 08:24:20",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【日經指數上漲逾2% 創歷史新高】受對美伊可能達成和平協議的希望提振，日本日經225指數漲幅進一步擴大，最新上漲2.10%，報64667.42點，創歷史新高。晶片和建築類股領漲。鎧俠上漲5.3%，大成建設上漲7.8%。在美國總統特朗普週日表示他不急於與伊朗達成結束戰爭的協議後，投資者正密切關注中東局勢的發展。"
+    },
+    {
+      "id": "te:markets:553230",
+      "time": "2026-05-25 08:24:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gasoline Futures Hit 4-Week Low — Gasoline futures for delivery in New York Harbor shed more than 4% to around $3.30 per gallon, the lowest in over four weeks, as optimism over US and Iran reaching a deal eased concerns about deeper disruptions to global energy supplies. President Trump said talks with Iran were progressing constructively, though he stressed the US would not rush an agreement. He added that a deal, including the reopening of the Strait of Hormuz, could be announced soon, but the US blockade would remain in place until negotiations are finalized. Energy exports from the region have been largely halted since early March, driving global oil inventories down at a record pace, according to the IEA, while gasoline futures remain up more than 80% this year. Meanwhile, US gasoline inventories fell for a 14th straight week in mid-May as refineries ran near full capacity using SPR feedstock. Output was also curtailed as refiners shifted production toward distillates to help prevent diesel and jet fuel shortages."
+    },
+    {
+      "id": "4897572",
+      "time": "2026-05-25 08:23:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【奧克股份：參股公司申請公開發行股票獲得中國證監會同意註冊批覆】奧克股份(300082)5月25日早間公告，公司參股公司武漢吉和昌新材料股份有限公司（簡稱“吉和昌”）近日收到中國證監會下發的《關於同意武漢吉和昌新材料股份有限公司向不特定合格投資者公開發行股票註冊的批覆》。"
+    },
     {
       "id": "4897571",
       "time": "2026-05-25 08:20:54",
@@ -147556,58 +147584,6 @@
         "公司"
       ],
       "text": "【1000公斤推力級航空發動機透過驗收】近日，由江西中發天信航空發動機科技有限公司生產除錯的1000公斤推力（kgf）級渦扇發動機在南昌透過專案驗收。在由10餘位航空產業專家組成的評審團現場見證下，該1000kgf級渦扇發動機成功試車，各項效能指標全面達標。"
-    },
-    {
-      "id": "4884446",
-      "time": "2026-05-18 08:24:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4520美元/盎司，日內跌0.92%。"
-    },
-    {
-      "id": "4884445",
-      "time": "2026-05-18 08:24:34",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4520美元/盎司，日內跌0.44%。"
-    },
-    {
-      "id": "4884444",
-      "time": "2026-05-18 08:23:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "【黃淮江淮江南等地迎強降雨 北方氣溫將現明顯波動】今明兩天（5月18日至19日），我國大範圍降雨將逐漸向東、向南縮減，黃淮、江淮、江南等地有強降雨；後天起，強降雨將集中在長江中下游一帶。同時，未來5天北方氣溫波動頻繁，南方多地將迎來降溫，需及時調整衣物。"
-    },
-    {
-      "id": "4884443",
-      "time": "2026-05-18 08:23:27",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本五年期國債收益率升至紀錄新高2.025%。"
-    },
-    {
-      "id": "4884442",
-      "time": "2026-05-18 08:23:10",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【油價觸及兩週高點 此前阿聯酋核電站遭無人機襲擊】週一油價延續漲勢，因結束美以對伊戰爭的努力似乎陷入停滯，此前阿聯酋一座核電站遭到襲擊，且美國總統特朗普預計將討論針對伊朗的軍事選項。布倫特原油期貨LCOc1 上漲1.44美元，漲幅1.32%，報每桶110.70美元，盤中稍早曾觸及5月5日來最高水平。美國原油上漲1.84美元，漲幅1.75%，報每桶107.26美元，此前曾升至5月4日來最高水平。隨著結束霍爾木茲海峽周邊船隻襲擊和扣押事件的和平協議希望逐漸渺茫，兩大原油期約上週均上漲逾7%。阿聯酋和沙烏地阿拉伯受到的無人機襲擊，加上美伊雙方的強硬言論，加劇人們對沖突升級的擔憂。"
-    },
-    {
-      "id": "4884441",
-      "time": "2026-05-18 08:22:43",
-      "tags": [
-        "市場"
-      ],
-      "text": "RECRUIT股價在業績公佈後上漲16%，業績指引超出預期。"
     }
   ]
 }
