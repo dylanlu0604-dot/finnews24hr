@@ -1,7 +1,62 @@
 {
-  "updated": "2026-05-25 13:40:44",
-  "count": 16240,
+  "updated": "2026-05-25 13:44:39",
+  "count": 16237,
   "items": [
+    {
+      "id": "mkt:019e5da8-45b3-711d-be56-f96e1f4c161d",
+      "time": "2026-05-25 13:42:49",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "TURNOVER ON SSE AND SZSE EXCEEDED 2.5 TRILLION YUAN, UP 322 BILLION YUAN FROM SAME TIME PREVIOUS SESSION"
+    },
+    {
+      "id": "mkt:019e5da7-c612-711d-be56-f49dd8ea47f0",
+      "time": "2026-05-25 13:42:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "【Man Sprays Unknown Substance Near Tokyo Ginza; 1 Hospitalized, ~20 Ill — KYODO】Tokyo KYODO — Man sprays unknown substance near Ginza shopping area; at least 1 hospitalized, ~20 report feeling unwell"
+    },
+    {
+      "id": "4898003",
+      "time": "2026-05-25 13:41:56",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【韓國股市將上線個股槓桿ETF 或受到散戶熱捧】作為今年全球表現最佳也是波動最大的市場，韓國股市本週將首次推出個股槓桿交易所交易基金(ETF)，這種投資工具可能會放大收益和虧損。這些產品與三星電子和SK海力士晶片製造商掛鉤，目標是實現兩隻股票每日漲跌幅的兩倍波動。分析師預計，這些ETF將受到韓國逾1,400萬名散戶投資者的強烈追捧。不過，隨著韓國Kospi指數盤中5%的波動已司空見慣，散戶的熱情可能進一步加劇市場波動。"
+    },
+    {
+      "id": "mkt:019e5da6-db74-711d-be56-ea2afaad76f7",
+      "time": "2026-05-25 13:40:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Indonesia Lawmaker Says Will Revise National Fiscal Law; Deficit Cap Not Focus】Parliament To Draft Overhaul Of National Fiscal Law To Enable Danantara Sovereign Fund; Deficit Cap Not Priority — Parliament Finance Committee Chair Muhammad Misbakhun; Current Caps: Deficit ≤3% GDP, Public Debt ≤60%; FITCH Cited Possible Cap Changes When Cutting Outlook Amid Prabowo's Big‑Spending Plans"
+    },
+    {
+      "id": "4898002",
+      "time": "2026-05-25 13:40:18",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超2.5萬億元，較上日此時放量3220億元。"
+    },
+    {
+      "id": "4898001",
+      "time": "2026-05-25 13:40:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【美芯晟戰略投資金鋼科技】美芯晟宣佈，公司對國內人形機器人核心零部件公司北京金鋼科技有限公司進行戰略投資，並正式達成戰略合作，全面推動人形機器人所需多品類感測器的研釋出局。雙方將以具身智慧系統的智慧感知技術為核心，卡位下一代AI硬體核心入口，助力機器人產業邁向高階智慧。"
+    },
     {
       "id": "mkt:019e5da5-a1a9-711d-be56-e0e694c32d0c",
       "time": "2026-05-25 13:39:47",
@@ -145423,92 +145478,6 @@
         "國際"
       ],
       "text": "【星展：新加坡電子產品出口料將受到AI需求提振】星展集團高階經濟學家Chua Han Teng在一份報告中表示，受強勁的AI需求驅動，新加坡電子產品出口預計將在短期內表現出色。4月份電子產品國內出口較上年同期飆升66.7%，標誌著其連續第八個月實現兩位數增長。對該國儲存晶片和伺服器相關產品的外部需求正受到全球AI相關有利因素的支撐，包括在向智慧體化AI使用方向轉變之際，企業強勁的資本支出意願。然而，Chua警告稱，鑑於成本壓力不斷上升和供應鏈挑戰，隨著伊朗戰爭持續，非科技產品出口預計將繼續面臨逆風。"
-    },
-    {
-      "id": "4885027",
-      "time": "2026-05-18 13:43:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "【浦發銀行行長謝偉：商業銀行應加快構建企業級AI平臺和大模型體系】5月18日，在2026清華五道口全球金融論壇上，浦發銀行行長謝偉表示，商業銀行應加快構建企業級的AI平臺和大模型體系，在智慧風控、智慧客服、智慧投顧、智慧審批等領域實現規模化的應用，推動由經驗驅動向數智驅動的根本改變。"
-    },
-    {
-      "id": "4885026",
-      "time": "2026-05-18 13:43:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "法國財長：預計今年法國經濟將增長0.9%。"
-    },
-    {
-      "id": "4885025",
-      "time": "2026-05-18 13:42:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "法國財長：歐洲必須把握人工智慧發展機遇。"
-    },
-    {
-      "id": "mkt:019e399b-9b66-7dd6-8894-01b8d9188d56",
-      "time": "2026-05-18 13:42:39",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "DAX"
-      ],
-      "text": "FRENCH FINANCE MINISTER REAFFIRMS THAT HE EXPECTS 0.9% GROWTH FOR FRENCH ECONOMY THIS YEAR"
-    },
-    {
-      "id": "4885024",
-      "time": "2026-05-18 13:42:31",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【日本國債收益率高於東證指數股息收益率的幅度達到2007年以來之最】日本10年期國債收益率已遠高於該國股息收益率，這使得債券市場波動平息後，資金從股票輪動至債券的可能性增大。東證指數成分股的股息收益率目前約為2.3%，低於日本國債10年期複合收益率2.75%。兩者之間的差距達到2007年以來最大，當時日本央行處於緊縮週期中。“從股息收益率和盈利收益率的角度來看，債券都開始比股票更具吸引力，” T&D Asset Management首席策略師Hiroshi Namioka表示。“一旦油價開始企穩，債券買盤可能會增加。”"
-    },
-    {
-      "id": "4885023",
-      "time": "2026-05-18 13:42:29",
-      "tags": [
-        "市場"
-      ],
-      "text": "截止13:42，兩市100只個股漲停。"
-    },
-    {
-      "id": "4885022",
-      "time": "2026-05-18 13:42:13",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "午後AI眼鏡概念震盪走強，視涯科技漲超10%，天鍵股份、瑞芯微、中科藍訊、恆玄科技、虹軟科技跟漲。"
-    },
-    {
-      "id": "4885021",
-      "time": "2026-05-18 13:41:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "法國財長：我認為法國經濟第二季度應當會出現反彈。"
-    },
-    {
-      "id": "mkt:019e399a-3733-7dd6-8893-f8e40cc00dbb",
-      "time": "2026-05-18 13:41:08",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "FRENCH FINANCE MINISTER: I THINK FRENCH ECONOMY SHOULD BOUNCE BACK IN Q2"
     }
   ]
 }
