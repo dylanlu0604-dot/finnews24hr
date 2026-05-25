@@ -1,7 +1,15 @@
 {
-  "updated": "2026-05-26 02:11:05",
+  "updated": "2026-05-26 02:14:57",
   "count": 15805,
   "items": [
+    {
+      "id": "4899088",
+      "time": "2026-05-26 02:11:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "xAI：Grok創作功能現已面向所有SuperGrok及X高階增強版使用者開放測試版。"
+    },
     {
       "id": "4899087",
       "time": "2026-05-26 02:09:34",
@@ -141450,14 +141458,6 @@
         "Importance 1"
       ],
       "text": "Energy Commodities Updates: Crude Oil WTI Gains by 2.34% — Top commodity gainers are Crude Oil WTI (2.34%), Natural gas (2.32%) and Brent Crude Oil (2.01%). Biggest loser is Coking Coal (-0.63%)."
-    },
-    {
-      "id": "4886441",
-      "time": "2026-05-19 02:11:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國將古巴情報局列入制裁名單。"
     }
   ]
 }
