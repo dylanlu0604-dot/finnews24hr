@@ -1,7 +1,15 @@
 {
-  "updated": "2026-05-26 03:49:04",
-  "count": 15704,
+  "updated": "2026-05-26 03:53:12",
+  "count": 15695,
   "items": [
+    {
+      "id": "4899107",
+      "time": "2026-05-26 03:50:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【現貨黃金漲超1.3%，白銀漲超3.3%】週一（5月25日）紐約尾盤，現貨黃金漲1.35%，報4570.50美元/盎司，亞太盤初顯著上漲，日內持續高位震盪。COMEX黃金期貨漲1.07%，報4605.10美元/盎司。現貨白銀漲3.35%，報78.0713美元/盎司，亞太盤初從76.50美元下方漲至78.82美元上方，整體持續高位震盪。COMEX白銀期貨漲2.89%，報78.400美元/盎司。COMEX銅期貨漲1.40%，報6.47美元/磅。現貨鉑金漲2.25%，現貨鈀金漲3.58%。"
+    },
     {
       "id": "4899106",
       "time": "2026-05-26 03:46:08",
@@ -140425,104 +140433,6 @@
         "MKT News"
       ],
       "text": "WHITE HOUSE: US FORCE POSTURE UNCHANGED"
-    },
-    {
-      "id": "4886532",
-      "time": "2026-05-19 03:53:11",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨交易中，巴西雷亞爾兌美元升值1.4%，報1美元兌4.9984雷亞爾。"
-    },
-    {
-      "id": "4886531",
-      "time": "2026-05-19 03:52:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "【黎以戰火重燃以來 黎巴嫩已有超3000人死亡】黎巴嫩衛生部當地時間18日宣佈，自今年3月2日黎以戰火重燃以來，以色列對該國的襲擊已導致3020人死亡，9273人受傷。以色列方面對此暫無回應。（央視新聞）"
-    },
-    {
-      "id": "4886530",
-      "time": "2026-05-19 03:52:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "卡達譴責以色列襲擊駛向加沙地帶的援助船隊。"
-    },
-    {
-      "id": "mkt:019e3ca5-51dc-7dd6-889f-7dbe9fa78c2b",
-      "time": "2026-05-19 03:52:07",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "WHITE HOUSE: TRUMP HAS ALL OPTIONS AT HIS DISPOSAL AT ALL TIMES"
-    },
-    {
-      "id": "4886529",
-      "time": "2026-05-19 03:50:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "白宮發言人安娜·凱利：特朗普始終掌握著（對伊）所有選項。"
-    },
-    {
-      "id": "4886528",
-      "time": "2026-05-19 03:50:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "白宮發言人安娜·凱利：美軍兵力部署保持不變。"
-    },
-    {
-      "id": "mkt:019e3ca3-5989-7dd6-889f-75b8a3c235bb",
-      "time": "2026-05-19 03:49:55",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact mixed",
-        "US10Y",
-        "S&P500"
-      ],
-      "text": "FED'S GOOLSBEE: EXCITED ABOUT WARSH BECOMING FED CHAIR"
-    },
-    {
-      "id": "4886527",
-      "time": "2026-05-19 03:49:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "【黎巴嫩總統：將“竭盡所能”制止以色列對黎戰爭】黎巴嫩總統約瑟夫·奧恩18日表示，他將“竭盡所能”採取“一切代價較小的方式”制止以色列針對黎巴嫩及其人民的戰爭，避免國家陷入更大的衝突。（新華社）"
-    },
-    {
-      "id": "mkt:019e3ca3-05a0-7dd6-889f-6d2892b50878",
-      "time": "2026-05-19 03:49:37",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "FED'S GOOLSBEE: INFLATION HAS GOT TO BE FRONT OF MIND WHEN WARSH STARTS AS CHAIR"
-    },
-    {
-      "id": "mkt:019e3ca2-bbb4-7dd6-889f-627f26604a08",
-      "time": "2026-05-19 03:49:18",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "US Economy"
-      ],
-      "text": "FED'S GOOLSBEE: THE JOB MARKET IS STABLE"
     }
   ]
 }
