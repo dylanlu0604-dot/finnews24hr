@@ -1,7 +1,68 @@
 {
-  "updated": "2026-05-25 23:53:32",
-  "count": 15881,
+  "updated": "2026-05-25 23:57:34",
+  "count": 15872,
   "items": [
+    {
+      "id": "mkt:019e5fd9-f110-711d-be5d-ed7a134d6d3a",
+      "time": "2026-05-25 23:56:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mexico Economy Minister EBRARD To Discuss Auto Rules Of Origin With U.S."
+    },
+    {
+      "id": "4899021",
+      "time": "2026-05-25 23:55:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【超過33℃ 英國打破“最熱五月天”紀錄】英國氣象局資料顯示，首都倫敦希思羅機場地區當地時間5月25日氣溫達到33.5攝氏度，打破了英國5月單日高溫紀錄。英國有氣象記錄以來，上一個“最熱五月天”氣溫最高為32.8攝氏度，第一次發生於1922年，第二次、也是上一次出現在1944年。近年來，氣候變化導致英國頻繁遭遇異常高溫天氣，2025年剛經歷了史上“最熱一年”。"
+    },
+    {
+      "id": "4899020",
+      "time": "2026-05-25 23:55:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥將與美方商討汽車原產地規則相關事宜。"
+    },
+    {
+      "id": "4899019",
+      "time": "2026-05-25 23:54:56",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "俄羅斯央行就凍結資產向歐盟法院提起第二起訴訟。"
+    },
+    {
+      "id": "4899018",
+      "time": "2026-05-25 23:54:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "【北約五國反對將GDP0.25%用於援烏】上週北約外長會舉行期間，北約秘書長呂特認為，一些成員國對烏克蘭軍援力度不夠，提議各成員國將本國國內生產總值（GDP）的0.25%用於對烏克蘭的軍援，但該提案未能獲得成員國一致認可。據英國《每日電訊報》5月24日報道稱，英法等五國提出反對意見。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:019e5fd8-9a97-711d-be5d-e6351da71f69",
+      "time": "2026-05-25 23:54:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EBRARD: Mexico, U.S. To Hold Trade Talks May 27-29 In Mexico City"
+    },
+    {
+      "id": "mkt:019e5fd7-d235-711d-be5d-d83a18c04812",
+      "time": "2026-05-25 23:53:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish"
+      ],
+      "text": "Germany DAX +457.41 pts (+1.83%) to 25385.8; France CAC40 +142.51 pts (+1.76%) to 8258.26; STOXX Europe 50 +112.61 pts (+1.87%) to 6132.06; Spain IBEX35 +394.53 pts (+2.19%) to 18379.83; Italy FTSE MIB +718.53 pts (+1.45%) to 50229.5 — May 25 close"
+    },
     {
       "id": "4899017",
       "time": "2026-05-25 23:52:29",
@@ -142114,157 +142175,6 @@
         "Importance 1"
       ],
       "text": "FTSE 100 Rebounds on Monday — The FTSE 100 rose 1.1% on Monday, recovering from a 1.7% loss in the previous session as gains spread across most sectors, although investors remained focused on oil prices, geopolitics and inflation risks. Energy stocks led the advance with Shell and BP each rising more than 2% as crude strengthened following reports that the US rejected Iran’s latest peace proposal. Banks also moved higher, with HSBC, Lloyds Banking Group, Barclays and NatWest up between 0.5% and 1.2%. IAG gained more than 2% despite renewed cost warnings from Ryanair over fleet maintenance, wages and fuel. Mining stocks underperformed with Anglo American, Endeavour Mining and Antofagasta down more than 1% while Rio Tinto and Glencore also fell. Glencore said a Chilean court ruling on a desalination project would not immediately affect production at Collahuasi while Anglo American agreed to sell its steelmaking coal unit to Dhilmar for up to 3.875 billion dollars."
-    },
-    {
-      "id": "4886358",
-      "time": "2026-05-18 23:56:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "德國財長克林貝爾： 我們需在下屆大選前聯合法國推進各項合作專案。"
-    },
-    {
-      "id": "4886357",
-      "time": "2026-05-18 23:56:33",
-      "tags": [
-        "市場"
-      ],
-      "text": "伯納姆就英國財政規則發表言論後，英國國債漲幅進一步擴大。"
-    },
-    {
-      "id": "mkt:019e3bce-4144-7dd6-889c-4f3ccdaddd76",
-      "time": "2026-05-18 23:56:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "KLINGBEIL: WE NEED TO BRING PROJECTS FORWARD WITH FRANCE BEFORE THE NEXT ELECTION"
-    },
-    {
-      "id": "mkt:019e3bcd-e94a-7dd6-889c-45299178a63d",
-      "time": "2026-05-18 23:56:23",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "GILTS EXTEND GAINS AFTER BURNHAM STATEMENT ON UK FISCAL RULES"
-    },
-    {
-      "id": "mkt:019e3bcd-9b36-7dd6-889c-3f311207a981",
-      "time": "2026-05-18 23:56:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "KLINGBEIL: TO DISCUSS IRAN IN BILATERAL WITH BESSENT ON TUESDAY"
-    },
-    {
-      "id": "te:markets:551664",
-      "time": "2026-05-18 23:56:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "CAC 40 Closes Higher as Energy Stocks Rally — The CAC 40 edged up 0.4% to close at 7,987 on Monday, recovering early losses as gains in energy and industrial shares supported the index. TotalEnergies rose 2% as the prolonged disruption linked to the closure of the Strait of Hormuz drove oil and gas prices sharply higher. Industrial stocks also advanced, with Airbus up 1.6% and Safran gaining 0.9%. Meanwhile, the financial sector traded mixed, with AXA rising 2.2% while BNP Paribas fell 1.4% amid concerns over energy-driven inflation. Luxury stocks rebounded after recent sharp losses linked to weak China retail sales, with Kering up 1.1%, Hermès gaining 0.3%, and both LVMH and L’Oréal edging higher."
-    },
-    {
-      "id": "mkt:019e3bcd-4d90-7dd6-889c-34a657d37553",
-      "time": "2026-05-18 23:56:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TILLIS POPS UP AGAINST GOP'S NEW RECONCILIATION BILL - AXIOS"
-    },
-    {
-      "id": "4886356",
-      "time": "2026-05-18 23:55:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "法國審慎監管局對法國興業銀行處以 2000 萬歐元罰款。"
-    },
-    {
-      "id": "mkt:019e3bcc-36ae-7dd6-889c-2f20c8285fab",
-      "time": "2026-05-18 23:54:59",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "KLINGBEIL: HAD A GOOD CHAT WITH FRANCE'S MACRON"
-    },
-    {
-      "id": "4886355",
-      "time": "2026-05-18 23:54:44",
-      "tags": [
-        "其他",
-        "焦點",
-        "國際"
-      ],
-      "text": "市場訊息：伯納姆拒絕任何調整英國財政規則的舉措。"
-    },
-    {
-      "id": "mkt:019e3bcb-b47d-7dd6-889c-23e00843907d",
-      "time": "2026-05-18 23:54:26",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "BURNHAM TO REJECT ANY CHANGE TO UK FISCAL RULES: SPOKESPERSON SPOKESPERSON FOR ANDY BURNHAM COMMENTS ON FISCAL POLICY"
-    },
-    {
-      "id": "4886354",
-      "time": "2026-05-18 23:54:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "貿易訊息人士援引初步裝船計劃稱，安哥拉 7 月原油出貨量為 29 船，6 月為 35 船。"
-    },
-    {
-      "id": "4886353",
-      "time": "2026-05-18 23:54:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "德國財長克林貝爾：我們有多種方案可降低對稀土的依賴，此事刻不容緩。"
-    },
-    {
-      "id": "mkt:019e3bcb-5c8b-7dd6-889c-1a39a9107093",
-      "time": "2026-05-18 23:54:03",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "ANGOLA TO LOAD 29 CRUDE OIL CARGOES IN JULY VS 35 IN JUNE, TRADE SOURCE SAYS CITING PRELIMINARY LOADING PROGRAMME"
-    },
-    {
-      "id": "mkt:019e3bcb-344c-7dd6-889c-12c6c4785ac8",
-      "time": "2026-05-18 23:53:53",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "KLINGBEIL: WE HAVE OPTIONS TO CUT RARE EARTHS DEPENDENCIES AND THERE IS NO TIME TO LOSE"
-    },
-    {
-      "id": "4886352",
-      "time": "2026-05-18 23:53:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "證詞顯示：美國聯邦航空管理局局長將向國會坦言，該局未能在 2025 年 1 月客機與軍用直升機發生致命相撞事故前，及時處理各類風險預警訊號。"
     }
   ]
 }
