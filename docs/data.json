@@ -1,7 +1,99 @@
 {
-  "updated": "2026-05-25 08:40:57",
-  "count": 16442,
+  "updated": "2026-05-25 08:44:42",
+  "count": 16445,
   "items": [
+    {
+      "id": "mkt:019e5c96-cccb-7882-93e8-ea1790fb4887",
+      "time": "2026-05-25 08:44:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "【Gold, Silver Gain as US-Iran Deal Hopes Support Precious Metals】Gold and silver rose in early trading amid optimism over a potential US-Iran agreement to end the conflict. Precious metals continued to draw support from investor demand and central bank buying. Konstantinos Chrysikos said the broader backdrop for bullion remains constructive as ongoing central bank purchases continue to support longer-term demand."
+    },
+    {
+      "id": "4897596",
+      "time": "2026-05-25 08:44:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【自主攻克技術難題 勝利濟陽頁岩油產量突破200萬噸】記者今天（25日）從中國石化獲悉，我國首個陸相斷陷盆地頁岩油國家級示範區——勝利濟陽頁岩油國家級示範區累計產量突破200萬噸。"
+    },
+    {
+      "id": "mkt:019e5c96-1612-7882-93e8-e08719a1e60c",
+      "time": "2026-05-25 08:43:20",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "DXY",
+        "Impact mixed",
+        "S&P500",
+        "Copper",
+        "Impact bearish"
+      ],
+      "text": "SINGAPORE TRADE MINISTRY OFFICIAL: DISCUSSIONS WITH U.S. ON 301 PROBE WENT WELL, NO SURPRISES SINGAPORE TRADE MINISTRY OFFICIAL: US OFFICIALS ALLUDED TO ESSENTIALLY THAT 301 SEEKS TO BRING TARIFF RATES BACK TO WHERE WAS BEFORE"
+    },
+    {
+      "id": "4897595",
+      "time": "2026-05-25 08:43:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "新加坡貿易部官員：美國官員暗示，301調查本質上是尋求將關稅稅率恢復至先前水平。"
+    },
+    {
+      "id": "4897594",
+      "time": "2026-05-25 08:42:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "新加坡貿易部官員：與美國就301調查的討論進展順利，未出現意外狀況。"
+    },
+    {
+      "id": "te:economy:553237",
+      "time": "2026-05-25 08:42:20",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Singapore",
+        "GDP Annual Growth Rate",
+        "Importance 1"
+      ],
+      "text": "Singapore Q1 GDP Growth Revised Higher — Singapore’s economy expanded 6.0% yoy in Q1 2026, exceeding flash data of 4.6% and accelerating from a 5.0% growth in Q4. It was the fastest yearly advance since Q3 2024. On a quarterly basis, the GDP grew 1.0%, reversing advance estimates of a 0.3% contraction while marking the second straight quarter of increase. However, the latest result was far slower than a 5.0% growth in Q4, reflecting the impact of the Middle east war."
+    },
+    {
+      "id": "4897593",
+      "time": "2026-05-25 08:41:40",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "新加坡央行官員：匯率狀況還取決於市場對新加坡元逐步升值的預期。"
+    },
+    {
+      "id": "4897592",
+      "time": "2026-05-25 08:41:28",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "新加坡央行官員：全球利率存在相當大的不確定性。預計新加坡利率未來將保持一定程度的穩定。"
+    },
+    {
+      "id": "te:markets:553234",
+      "time": "2026-05-25 08:40:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Heating Oil Falls to 2-Week Low — Heating oil futures for delivery at New York Harbor fell over 3% to around $3.70 per gallon, hitting a two-week low, as optimism over a US-Iran deal raised expectations of gradual normalization in Middle East energy exports. President Trump said discussions were moving forward in a constructive manner but reiterated that the US would not expedite an agreement. He also noted that the reopening of the Strait of Hormuz had been largely negotiated and could be announced soon, but the US blockade would stay in place until the negotiations are fully concluded. Exports of distillate products from the region have been largely halted since the war began in March, straining refinery operations and pushing heating oil futures to a record high of $4.60 that month. Meanwhile, US distillate stocks unexpectedly rose in mid-May, contrasting with a drop in gasoline, suggesting refiners prioritized diesel and jet fuel production amid global transportation fuel shortages."
+    },
     {
       "id": "4897591",
       "time": "2026-05-25 08:39:20",
@@ -147459,60 +147551,6 @@
         "市場"
       ],
       "text": "紐約期銀日內跌4%，現報74.43美元/盎司。"
-    },
-    {
-      "id": "4884480",
-      "time": "2026-05-18 08:44:26",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本日經股價平均指數跌幅擴大，最新下跌0.86%，報60878.33點。"
-    },
-    {
-      "id": "mkt:019e388a-4eda-7663-82fc-ef38c6df3fc8",
-      "time": "2026-05-18 08:44:08",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bearish"
-      ],
-      "text": "JAPAN'S NIKKEI SHARE AVERAGE EXTENDS DECLINE, LAST DOWN 0.86% AT 60,878.33"
-    },
-    {
-      "id": "4884479",
-      "time": "2026-05-18 08:44:02",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【俄經濟部長：通脹放緩為進一步降息創造條件】俄羅斯經濟部長馬克西姆・列舍特尼科夫於週一刊發的採訪中向媒體表示，該國通脹持續回落，具備進一步放寬貨幣政策的空間。他稱，截至5月12日，俄羅斯年化通脹率降至5.5%，民間及企業信貸增長近乎停滯，種種跡象愈發支援央行繼續寬鬆貨幣政策。俄羅斯4月年化通脹率為5.58%，較3月的5.86%有所回落，但仍高於俄央行本年度4.5%-5.5%的通脹預期區間。儘管業界呼籲加大力度提振經濟，俄央行4月依舊如期下調基準利率50個基點，利率降至14.5%。媒體上月開展的分析師調查顯示，受一季度經濟意外萎縮影響，市場預計俄央行年底前會繼續降息，將基準利率下調至12%以拉動經濟增長。"
-    },
-    {
-      "id": "4884478",
-      "time": "2026-05-18 08:43:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "【奔圖科技成立星擎智慧科技公司 含機器人業務】企查查APP顯示，近日，珠海星擎智慧科技有限公司成立，註冊資本5000萬元，經營範圍包含智慧機器人的研發；工業機器人制造；特殊作業機器人制造；服務消費機器人制造等。企查查股權穿透顯示，該公司由奔圖科技全資持股。"
-    },
-    {
-      "id": "4884477",
-      "time": "2026-05-18 08:42:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "【一汽解放：今年前4月海外出口業務穩健發展】一汽解放(000800)5月18日在互動平臺回覆投資者稱，2026年前4月海外出口業務穩健發展，當前海外業務已轉向渠道、產品、服務三位一體的高質量擴張階段。憑藉體系化出海與屬地化運營，公司積極打造海外第二增長曲線。"
-    },
-    {
-      "id": "4884476",
-      "time": "2026-05-18 08:41:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：日本村田製作所將在日本滋賀縣興建一座價值169億日元的工廠。"
     }
   ]
 }
