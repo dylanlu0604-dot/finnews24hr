@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-26 01:33:44",
-  "count": 15819,
+  "updated": "2026-05-26 01:37:24",
+  "count": 15814,
   "items": [
     {
       "id": "4899073",
@@ -6380,6 +6380,18 @@
         "公司"
       ],
       "text": "【至正股份：證券簡稱將於6月1日變更為“領先股份”】至正股份公告稱，公司於2026年5月18日召開董事會，審議透過變更證券簡稱的議案，同意由“至正股份”變更為“領先股份”，證券程式碼“603991”保持不變。變更理由是匹配重大資產重組後的業務轉型，精準反映業務實際及長遠戰略規劃。經申請並獲上交所辦理，證券簡稱將於6月1日起正式變更。"
+    },
+    {
+      "id": "mkt:019e6035-b1c2-711d-be5e-8a402ad093bd",
+      "time": "2026-05-25 17:36:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Iran To Open Strait Within 30 Days After Deal; Cease-Fire Extended 60 Days】Nikkei Citing Middle East Diplomat: Iran To Clear SEA MINES In Strait Of Hormuz Within 30 Days After Deal; Open Strait To All Vessels, Stop Transit Fees; Early-April Cease-Fire Extended 60 Days; Parties To Negotiate Iran Nuclear Program During 2-Month Truce"
     },
     {
       "id": "4898495",
@@ -141543,67 +141555,6 @@
         "Ethereum"
       ],
       "text": "REVOLUT UNVEILS FIRST PHYSICAL CRYPTO CARD AS INDUSTRY-WIDE CARD USAGE GROWS"
-    },
-    {
-      "id": "mkt:019e3c29-7f1c-7dd6-889d-e7f784aa828e",
-      "time": "2026-05-19 01:36:52",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Hot",
-        "Policy",
-        "Breaking News 24h"
-      ],
-      "text": "【Jury Rejects Elon Musk’s Lawsuit Against OpenAI and Sam Altman】A jury sided with Sam Altman and OpenAI in a lawsuit brought by Elon Musk alleging the company improperly shifted from a nonprofit mission to a for-profit structure. The verdict followed a three-week trial in federal court in Oakland, California, and removes a major legal overhang for OpenAI’s planned IPO efforts. Musk had sought damages exceeding $180 billion, removal of Altman and President Greg Brockman, and reversal of OpenAI’s governance changes. OpenAI argued Musk supported the for-profit structure before leaving to launch a rival AI venture."
-    },
-    {
-      "id": "mkt:019e3c28-8e19-7dd6-889d-d81438de3f04",
-      "time": "2026-05-19 01:35:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ISRAELI CHANNEL 12: WASHINGTON INFORMED ISRAEL THAT ITS REFUELING AIRCRAFT WILL REMAIN AT BEN GURION UNTIL THE END OF THE YEAR"
-    },
-    {
-      "id": "4886429",
-      "time": "2026-05-19 01:35:42",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "日本財務大臣片山皋月： 七國集團將在下月峰會前夕，商討應對Mythos相關風險的具體舉措。"
-    },
-    {
-      "id": "mkt:019e3c28-1ba7-7dd6-889d-d36ba325c8ae",
-      "time": "2026-05-19 01:35:21",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "AAPL.O",
-        "Impact bullish"
-      ],
-      "text": "【Apple Prepares AI Writing Tools, Smart Shortcuts and Wallpaper Generation for iOS 27】Apple is preparing new AI features for iOS 27 and iPadOS 27, including grammar checking, natural-language shortcut creation and AI-generated wallpapers, according to people familiar with the plans. The updates are expected to be unveiled at WWDC in June before a public release in September. Apple is also developing deeper AI integrations for Siri, including visual analysis through the camera app and expanded app controls. The company’s upgraded Shortcuts app will allow users to create automations by describing tasks in plain language, while new writing tools will offer Grammarly-like editing suggestions across the system."
-    },
-    {
-      "id": "mkt:019e3c27-e2f0-7dd6-889d-cb92b5aa638a",
-      "time": "2026-05-19 01:34:57",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "KATAYAMA: WILL ADDRESS APPROPRIATELY ON FX AS NEEDED"
-    },
-    {
-      "id": "mkt:019e3c27-9496-7dd6-889d-c73752039754",
-      "time": "2026-05-19 01:34:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "KATAYAMA: G7 WILL DISCUSS SPECIFIC STEPS OVER RISKS RELATED TO MYTHOS IN THE RUNUP TO SUMMIT NEXT MONTH"
     }
   ]
 }
