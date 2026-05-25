@@ -1,7 +1,24 @@
 {
-  "updated": "2026-05-25 09:52:00",
-  "count": 16386,
+  "updated": "2026-05-25 09:55:51",
+  "count": 16380,
   "items": [
+    {
+      "id": "4897721",
+      "time": "2026-05-25 09:54:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華為與航天能源簽署合作MOU/備忘錄協議】近日，華為與上海航天能源股份有限公司簽署合作MOU/備忘錄協議，雙方將深入整合優勢資源，在國內大中型燃氣企業共同開展智慧氣網綜合解決方案以及專案聯合拓展合作。"
+    },
+    {
+      "id": "4897720",
+      "time": "2026-05-25 09:53:49",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超1萬億元，較上日此時放量1785億元。"
+    },
     {
       "id": "4897719",
       "time": "2026-05-25 09:51:18",
@@ -146839,82 +146856,6 @@
         "Impact bullish"
       ],
       "text": "HK-LISTED ZHIPU AI JUMPS OVER 10%"
-    },
-    {
-      "id": "4884652",
-      "time": "2026-05-18 09:55:25",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【黃仁勳怒斥將英偉達GPU比作原子彈：堅決反對AI晶片出口管制】針對美國持續升級的AI晶片出口管制政策，英偉達創始人黃仁勳近期又一次公開發聲，直白吐槽了相關管制措施的不合理之處。黃仁勳在最新的公開採訪中明確表態，全球市場本就理應廣泛採用成熟的美國技術體系，如果刻意人為限制其他國家正常使用這套技術體系，最終反過來損害的只會是美國自身長期積累的技術優勢。除此之外，這位英偉達CEO還直接駁斥了當下部分輿論把英偉達GPU圖形處理器比作原子彈的離譜說法，直言這類類比完全站不住腳。在黃仁勳看來，全球範圍內有數十億使用者日常使用英偉達生產的顯示卡產品，他自己也會主動向身邊所有人推薦英偉達的顯示卡，包括家人、孩子和所有親近的朋友，但他絕對不可能向任何人推薦原子彈，兩種事物的屬性天差地別，把晶片和大規模殺傷性武器放在一起做類比的說法十分荒謬。"
-    },
-    {
-      "id": "4884651",
-      "time": "2026-05-18 09:55:16",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【摩爾執行緒-U、沐曦股份-U雙雙走強】摩爾執行緒-U、沐曦股份-隨身碟中雙雙走強，截至發稿，分別漲超5%、3%。"
-    },
-    {
-      "id": "4884650",
-      "time": "2026-05-18 09:54:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "【五糧液提出“三大承諾”：持續提振股東信心】5月18日，五糧液(000858)召開2026年第一次臨時股東會，五糧液副董事長、總經理華濤表示，企業長期價值不改，將持續完善股東回報機制，助力資本市場健康穩定發展。會上，五糧液作出三大承諾：以穩健業績回報股東，2026年全年力爭實現雙位數穩健增長；以合理價值回報股東，按期實施百億級分紅、百億級回購登出及大股東增持；以更好發展回報股東，堅持“聚焦核心品牌、增強供需適配、深耕高質量動銷”的長期主義戰略，不斷提升市場動銷和市場份額。"
-    },
-    {
-      "id": "te:markets:551376",
-      "time": "2026-05-18 09:54:19",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Soybeans Climb on US–China Farm Deal — Soybean futures climbed more than 1% to near $12 per bushel in mid-May, rebounding from losses seen on May 15 after new details emerged from President Donald Trump’s two-day summit in China regarding agricultural trade commitments. The White House said that China agreed to purchase at least $17 billion worth of US agricultural products annually through 2028, intended to supplement earlier soybean purchase agreements. After Trump’s meeting with President Xi last year, China had initially committed to buying 12 million metric tons of soybeans, alongside a broader pledge to purchase 25 million tons annually for three years. While the announcement was largely welcomed by US farmers seeking clearer demand signals following the summit, they still face persistent pressure from relatively low crop prices and elevated production costs in recent years. These challenges have been further intensified by Trump’s tariffs and rising fertilizer costs linked to the broader conflict in the Middle East."
-    },
-    {
-      "id": "4884649",
-      "time": "2026-05-18 09:54:15",
-      "tags": [
-        "市場"
-      ],
-      "text": "【兆易創新觸及漲停】兆易創新觸及漲停，成交額124.44億元。"
-    },
-    {
-      "id": "4884648",
-      "time": "2026-05-18 09:53:43",
-      "tags": [
-        "市場"
-      ],
-      "text": "【港股智譜直線拉昇 漲超10%】港股智譜直線拉昇，截至發稿，漲超10%。"
-    },
-    {
-      "id": "mkt:019e38c9-355a-7663-82fe-2693ed98e00d",
-      "time": "2026-05-18 09:52:50",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite",
-        "SZSE Component"
-      ],
-      "text": "CHINA’S THREE MAJOR A-SHARE INDICES TURN POSITIVE; CHINEXT UP 0.31% AFTER EARLIER FALLING OVER 0.8%"
-    },
-    {
-      "id": "4884646",
-      "time": "2026-05-18 09:52:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "【柳州民兵參與抗震救災工作】廣西柳州5.2級地震武警緊急出動，柳州柳南區民兵應急分隊也聞令而動，第一時間奔赴受災現場。截至5月18日8時，柳南區人武部組織民兵40人協助轉移受災群眾7000餘人，搭建救災帳篷70頂，為受災群眾發放飲用水、生活物資，指導群眾熟悉安置點生活設施，持續開展廢墟清障、隱患排查、秩序維護等任務。（央視軍事）"
     }
   ]
 }
