@@ -1,7 +1,30 @@
 {
-  "updated": "2026-05-26 06:30:55",
-  "count": 15573,
+  "updated": "2026-05-26 06:34:48",
+  "count": 15584,
   "items": [
+    {
+      "id": "4899156",
+      "time": "2026-05-26 06:31:09",
+      "tags": [
+        "資料",
+        "市場",
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "【週二重要財經資訊提醒（以下均為北京時間）】\n① 港股收盤之後 小米釋出業績報告；\n② 20:30 加拿大央行副行長Nicolas Vincent講話；\n③ 21:00 美國3月FHFA房價指數、3月S&P/CS20座大城市房價指數，歐洲央行管委Olaf Sleijpen在阿姆斯特丹講話；\n④ 22:00 美國5月諮商會消費者信心指數。"
+    },
+    {
+      "id": "te:markets:553515",
+      "time": "2026-05-26 06:30:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Brent Crude Oil Plunges by 6.54% — Top commodity losers are Brent Crude Oil (-6.54%), Natural Gas EU (-6.42%), Germany Natural Gas THE (-6.31%) and Crude Oil WTI (-6.26%). Gains are led by Coking Coal (4.66%)."
+    },
     {
       "id": "4899155",
       "time": "2026-05-26 06:27:43",
@@ -373,6 +396,14 @@
       "text": "據以色列Walla援引安全訊息人士訊息，以軍方已獲得政治層面批准，將升級對真主黨無人機襲擊的反擊行動，不再維持剋制立場。"
     },
     {
+      "id": "mkt:98b0ae63-cf7f-4b0c-9aeb-db5baf8ad70e",
+      "time": "2026-05-26 04:32:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EXPLOSIONS HEARD IN IRAN’S BANDAR ABBAS CITY, CAUSE STILL UNKNOWN — MEHR NEWS AGENCY"
+    },
+    {
       "id": "te:markets:553511",
       "time": "2026-05-26 04:31:58",
       "tags": [
@@ -393,6 +424,18 @@
       "text": "伊朗Bandar Abbas市出現爆炸聲，原因不明。（伊朗Mehr新聞社）"
     },
     {
+      "id": "mkt:daf17796-d35c-4a9c-b805-61fdee176377",
+      "time": "2026-05-26 04:25:38",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "EBRAHIM AZIZI, HEAD OF THE IRANIAN PARLIAMENT’S NATIONAL SECURITY COMMISSION, SAYS ANY AGREEMENT BETWEEN TEHRAN AND WASHINGTON WILL NOT MARK THE END OF IRAN’S CONFRONTATION WITH THE UNITED STATES, DESCRIBING THE CONFLICT AS “BOTH FUNDAMENTAL AND EXISTENTIAL” FOR TEHRAN"
+    },
+    {
       "id": "4899112",
       "time": "2026-05-26 04:18:59",
       "tags": [
@@ -408,6 +451,15 @@
         "國際"
       ],
       "text": "【據悉美伊就伊朗被凍結資產達成諒解，協議或明日宣佈】據半島電視臺報道，一位熟悉伊朗高階代表團與多哈官員之間會談的訊息人士表示，卡達的斡旋已促成與美國就伊朗被凍結金融資產達成諒解。該訊息人士補充說，由於在這個對伊朗人至關重要的問題上達成了協議，美伊之間很可能將於明天宣佈達成協議。"
+    },
+    {
+      "id": "mkt:019e60bd-be5a-7221-b41c-d90e88d10132",
+      "time": "2026-05-26 04:05:02",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "QATARI MEDIATION LANDS US-IRAN AGREEMENT ON TEHRAN’S FROZEN ASSETS - AL JAZEERA, CITING A SOURCE"
     },
     {
       "id": "4899110",
@@ -448,6 +500,22 @@
         "國際"
       ],
       "text": "市場訊息：伊拉克埃爾比勒北部一處伊朗反對派營地遭火箭彈襲擊，兩名武裝人員受傷。"
+    },
+    {
+      "id": "mkt:019e60ac-8a05-766f-af27-9e8230ccb81a",
+      "time": "2026-05-26 03:46:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ROCKET ATTACK HITS IRANIAN OPPOSITION CAMP NORTH OF IRAQ’S ERBIL, WOUNDING TWO FIGHTERS - SECURITY SOURCES"
+    },
+    {
+      "id": "mkt:dbef2fc5-5f0e-49ac-8b7e-f82bfcee8b8c",
+      "time": "2026-05-26 03:45:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IDF: STRUCK MORE THAN 70 HEZBOLLAH SITES ACROSS LEBANON"
     },
     {
       "id": "4899105",
@@ -2216,6 +2284,14 @@
       "text": "沙特訊息人士：除非確立一條不可逆轉、能夠推動巴勒斯坦建國的路徑，否則沙特不會與以色列實現關係正常化。"
     },
     {
+      "id": "mkt:019e6140-cc40-7114-a182-8e0f4bc6af54",
+      "time": "2026-05-25 22:27:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【6.9-Magnitude Quake Strikes Northern Chile】6.9 quake hits Northern Chile; epicenter 20 km NE of Calama; depth 114 km; no casualties or damage reported; no tsunami expected; local 25th 17:52 (Beijing 26th 05:52)"
+    },
+    {
       "id": "4898953",
       "time": "2026-05-25 22:26:53",
       "tags": [
@@ -2448,12 +2524,37 @@
       "text": "【伊朗外交部：談判取得進展但仍面臨困難】伊朗外交部發言人巴加埃25日表示，伊朗與美國的談判已取得一定進展，但是否能夠很快達成協議“取決於美國”。他重申，任何針對伊朗的敵對行動都將得到回應。 巴加埃當天在德黑蘭舉行的記者會上作出上述表態。他說，目前伊美雙方仍透過巴基斯坦調解渠道進行資訊交換。近期披露的進展是經過數週間接談判形成的成果，雙方已在不少問題上接近達成共識，但美方立場“矛盾且不斷變化”，給談判程序帶來困難。 巴加埃表示，目前各方重點仍是推進諒解備忘錄文字內容。他強調，黎巴嫩問題將成為潛在諒解內容的一部分。 就霍爾木茲海峽局勢，巴加埃表示，伊朗在該海峽採取的措施符合國際法框架，是為了應對美國軍事行動及潛在安全威脅。他強調，伊朗對相關船隻收取的是“航行服務費”，而不是“通行費”，伊朗與阿曼正推動制定船隻安全通行協議，旨在維護海峽安全及海洋環境，在這一過程中，“所提供的服務和環境保護工作需要一定的費用支援”。 巴加埃還表示，中國在推動地區停火與談判程序中發揮了“建設性和積極作用”。他說，中國和俄羅斯在聯合國安理會相關會議上持積極立場，伊朗近期也與中俄外交人員就局勢發展進行了磋商。(新華社)"
     },
     {
+      "id": "mkt:019e612e-cd39-777f-a3c1-5f48766eda2c",
+      "time": "2026-05-25 22:07:54",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Axios: Trump Signals U.S. Softening On Iran Enriched-Uranium Stockpile"
+    },
+    {
       "id": "4898935",
       "time": "2026-05-25 22:03:04",
       "tags": [
         "公司"
       ],
       "text": "【華林證券：控股股東立業集團累計質押6.41億股公司股份】5月25日，華林證券釋出公告稱，近日公司接到控股股東深圳市立業集團有限公司通知，獲悉其所持有本公司的1.173億股股份辦理了質押，此次質押股份佔立業集團持股總數的6.74%，佔公司總股本4.34%，質押起始日期為2026年5月22日，質押期限至辦理解除登記之日止，質權人為中國農業銀行股份有限公司深圳中心區支行，質押資金用於企業自身經營發展。"
+    },
+    {
+      "id": "mkt:019e6129-a168-7bb3-80d3-650a7e339faf",
+      "time": "2026-05-25 22:02:58",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot Gold Opens Slightly Lower At $4,571/oz"
     },
     {
       "id": "4898934",
@@ -2562,6 +2663,16 @@
         "國際"
       ],
       "text": "以色列央行副行長：未來降息將以資料為依據，地緣政治不確定性要求降息步伐需保持漸進。"
+    },
+    {
+      "id": "mkt:019e6123-fbc3-7bb2-b421-6cc27495badd",
+      "time": "2026-05-25 21:56:48",
+      "tags": [
+        "MKT News",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "EMSC: 6.1-Magnitude Quake Strikes Antofagasta, Chile; Depth 111 km"
     },
     {
       "id": "4898928",
