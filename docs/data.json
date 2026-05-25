@@ -1,7 +1,33 @@
 {
-  "updated": "2026-05-26 00:06:20",
-  "count": 15867,
+  "updated": "2026-05-26 00:10:17",
+  "count": 15863,
   "items": [
+    {
+      "id": "mkt:019e5fe5-727a-711d-be5e-0fc6233219d5",
+      "time": "2026-05-26 00:08:41",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "【CNN: US, Iran Seek Wording Compromise On Nuclear Terms, Sanctions; Iran Delegation In Qatar Signals Progress】CNN: US Officials Say Wording Disputes On Iran's Nuclear Program And Sanctions Delay Final Deal To End War; Iranian Delegation In Qatar Monday, Including Senior Tehran Negotiators, Seen As Positive Signal; Qatar Positioned To Mediate"
+    },
+    {
+      "id": "mkt:019e5fe2-e0cb-711d-be5e-00b869beacf8",
+      "time": "2026-05-26 00:05:52",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Iran Supreme National Security Council Secretary Zolghadr Says Iran Will Not Surrender Or Retreat】Iran Supreme National Security Council Secretary Zolghadr Says Iran Will Not Surrender Or Retreat; Urges National Unity To Disappoint US, Israel"
+    },
     {
       "id": "4899026",
       "time": "2026-05-26 00:05:02",
@@ -142053,65 +142079,6 @@
         "Importance 1"
       ],
       "text": "The DAX Index Closes 1.49% Higher — The DAX Index gained 357 points or 1.49 percent on Monday to close at 24308 points. Gains were led by Deutsche Boerse (4.66%), Rheinmetall (4.16%) and Deutsche Telekom (4.01%)."
-    },
-    {
-      "id": "te:markets:551671",
-      "time": "2026-05-19 00:10:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The CAC 40 Index Closes 0.26% Higher — The CAC 40 Index went up by 21 points or 0.26 percent on Monday to close at 7973 points. The rise was led by TP (6.26%), Publicis (5.24%) and Edenred (2.64%). On the downside, the weakerst performers were Legrand (-2.40%), Stellantis NV (-1.49%) and Schneider Electric (-1.42%)."
-    },
-    {
-      "id": "te:markets:551669",
-      "time": "2026-05-19 00:08:37",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Cotton Futures Move Higher — Cotton futures rose above 82 cents per pound, up from two-week lows of 80.6 cents per pound hit on May 15, supported by a weaker US dollar and elevated oil prices. At the same time, the White House said that China has committed to purchasing at least $17 billion worth of US agricultural products annually between 2026 and 2028, which boosted hopes for stronger export demand. The latest USDA's weekly export sales report signaled weakening demand. with sales falling 27.5% year-on-year to 47,699 bales and shipments dropping to an eight-week low of 290,293 bales. On the supply side, the market is closely watching US planting progress amid prolonged dry conditions in key producing states like Texas. US cotton production for 2026/27 is projected at 13.3 million bales, down 600,000 bales from 2025/26, according to the USDA’s May WASDE report. The same report also points to lower global production and ending stocks for 2026/27, alongside higher consumption, signaling tighter global supplies."
-    },
-    {
-      "id": "4886366",
-      "time": "2026-05-19 00:08:09",
-      "tags": [
-        "市場"
-      ],
-      "text": "【兩年期德債收益率跌約3個基點】週一（5月18日）歐市尾盤，德國10年期國債收益率跌1.9個基點，報3.148%，日內交投於3.195%-3.125%區間。兩年期德債收益率跌2.8個基點，報2.710%，日內交投於2.759%-2.681%區間；30年期德債收益率跌0.5個基點，報3.671%。2/10年期德債收益率利差漲0.892個基點，報+43.612個基點。"
-    },
-    {
-      "id": "mkt:019e3bd7-c83c-7dd6-889c-7b8c277896c4",
-      "time": "2026-05-19 00:07:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. JUSTICE DEPARTMENT SAYS IT IS MOVING TO DROP CRIMINAL FRAUD CHARGES AGAINST INDIAN BILLIONAIRE GAUTAM ADANI: COURT RECORDS"
-    },
-    {
-      "id": "4886365",
-      "time": "2026-05-19 00:07:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "法庭檔案顯示，美國司法部擬撤銷對印度富豪阿達尼的刑事欺詐指控。"
-    },
-    {
-      "id": "te:markets:551668",
-      "time": "2026-05-19 00:07:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE 100 Index Closes 1.02% Higher — The FTSE 100 Index rose 104 points or 1.02 percent on Monday to close at 10299 points. Leading the gains are WPP (5.38%), Pearson (3.50%) and Centrica (3.45%)."
     }
   ]
 }
