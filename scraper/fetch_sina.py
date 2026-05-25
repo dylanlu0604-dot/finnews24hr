@@ -1979,6 +1979,15 @@ def central_bank_target_days(now: datetime, data: dict) -> list[datetime.date]:
     if stale_days:
         return sorted(set(stale_days), reverse=True)[:CENTRAL_BANK_AUTO_BACKFILL_DAYS]
 
+    existing_dates = {str(item.get("date", "")) for item in data.get("items", [])}
+    missing_recent_days = [
+        (latest_end - timedelta(days=i)).date()
+        for i in range(CENTRAL_BANK_AUTO_BACKFILL_DAYS)
+        if (latest_end - timedelta(days=i)).date().isoformat() not in existing_dates
+    ]
+    if missing_recent_days:
+        return missing_recent_days
+
     return [latest_end.date()]
 
 
