@@ -1,7 +1,15 @@
 {
-  "updated": "2026-05-26 06:26:48",
-  "count": 15576,
+  "updated": "2026-05-26 06:30:55",
+  "count": 15573,
   "items": [
+    {
+      "id": "4899155",
+      "time": "2026-05-26 06:27:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【智利北部發生6.9級地震】據智利大學全國地震中心訊息，智利北部安託法加斯塔大區25日發生6.9級地震。目前尚無人員傷亡和財產損失報告。此次地震發生於當地時間25日17時52分（北京時間26日5時52分），震中位於安託法加斯塔大區卡拉馬市東北20公里處，震源深度114公里。智利海軍水文和海洋局海嘯預警部門說，此次地震不會引發海嘯。智利地處環太平洋地震帶，地震比較頻繁。（新華社）"
+    },
     {
       "id": "4899154",
       "time": "2026-05-26 06:25:54",
@@ -139319,41 +139327,6 @@
         "Importance 1"
       ],
       "text": "Metals Commodities Updates: Silver Gains by 3.04% — Top commodity gainers are Silver (3.04%), Copper (0.67%) and Gold (0.55%). Biggest losers are Iron Ore CNY (-0.80%) and Steel Rebar (-0.65%)."
-    },
-    {
-      "id": "te:markets:551702",
-      "time": "2026-05-19 06:30:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Liquefied Natural Gas Japan Korea Surges by 10.84% — Top commodity gainers are Liquefied Natural Gas Japan Korea (10.84%), Ethanol (3.77%), Naphtha (2.19%) and Crude Oil WTI (1.70%). Biggest losers are Methanol (-8.43%), Natural Gas EU (-1.68%), Uranium (-0.81%) and Brent Crude Oil (-0.24%)."
-    },
-    {
-      "id": "4886666",
-      "time": "2026-05-19 06:29:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "英特爾執行長：個人電腦業務對我們仍然很重要。"
-    },
-    {
-      "id": "4886665",
-      "time": "2026-05-19 06:28:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "【智慧隱形眼鏡有望用於治療抑鬱症】近日，韓國延世大學研究團隊研發出一款可能用於治療抑鬱症的智慧隱形眼鏡，該隱形眼鏡能夠在小鼠實驗中產生類似抗抑鬱藥物的療效。這項研究成果已發表在美國期刊《細胞通訊·物理科學》上。該研究團隊由延世大學材料科學與工程系教授樸章雄（音）擔任負責人，他們研發出的這款智慧隱形眼鏡既柔軟又透明，鏡片上安裝的超薄電極能夠對小鼠視網膜內的神經迴路進行靶向刺激，從而改善小鼠的情緒，產生類似於抗抑鬱藥物“百憂解”的效果。 (環球時報)"
-    },
-    {
-      "id": "4886664",
-      "time": "2026-05-19 06:26:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列軍方發出通牒，勒令黎巴嫩南部提爾地區的穆沙卡居民強制撤離。"
     }
   ]
 }
