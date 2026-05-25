@@ -1,7 +1,47 @@
 {
-  "updated": "2026-05-25 09:48:11",
-  "count": 16391,
+  "updated": "2026-05-25 09:52:00",
+  "count": 16386,
   "items": [
+    {
+      "id": "4897719",
+      "time": "2026-05-25 09:51:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "【白酒板塊短線拉昇，金徽酒漲超8%】白酒板塊短線拉昇，金徽酒漲超8%，皇臺酒業、金種子酒、迎駕貢酒跟漲。"
+    },
+    {
+      "id": "4897718",
+      "time": "2026-05-25 09:50:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "出光油輪抵達日本。"
+    },
+    {
+      "id": "4897717",
+      "time": "2026-05-25 09:50:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【智譜等成立科技新公司，含多項AI業務】企查查APP顯示，近日，江蘇智譜星連科技有限公司成立，經營範圍包含：人工智慧基礎軟體開發；人工智慧應用軟體開發；資料處理和儲存支援服務等。企查查股權穿透顯示，該公司由智譜等共同持股。"
+    },
+    {
+      "id": "4897716",
+      "time": "2026-05-25 09:48:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "深證成指翻綠，創業板指跌0.37%，滬指現漲0.33%。"
+    },
+    {
+      "id": "4897715",
+      "time": "2026-05-25 09:48:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "大盤主力淨流出超100億。"
+    },
     {
       "id": "4897714",
       "time": "2026-05-25 09:47:15",
@@ -146875,95 +146915,6 @@
         "其他"
       ],
       "text": "【柳州民兵參與抗震救災工作】廣西柳州5.2級地震武警緊急出動，柳州柳南區民兵應急分隊也聞令而動，第一時間奔赴受災現場。截至5月18日8時，柳南區人武部組織民兵40人協助轉移受災群眾7000餘人，搭建救災帳篷70頂，為受災群眾發放飲用水、生活物資，指導群眾熟悉安置點生活設施，持續開展廢墟清障、隱患排查、秩序維護等任務。（央視軍事）"
-    },
-    {
-      "id": "4884645",
-      "time": "2026-05-18 09:51:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本自民黨18日開會討論修訂“安保三檔案”草案】據日本方面訊息，日本自民黨定於18日召開會議，就修訂《國家安全保障戰略》在內的“安保三檔案”建議草案進行討論。草案計劃於今年6月初最終定稿。 (央視新聞)"
-    },
-    {
-      "id": "4884644",
-      "time": "2026-05-18 09:51:04",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美國連鎖快餐品牌Wendy's將進入中國市場】5月18日，在美國連鎖快餐品牌Wendy's官網上看到，該品牌國際特許經營重點市場亞太區域中出現了中國市場。早前，Wendy's在2026年第一季度的財報中稱，公司已經簽署一項特許經營協議，計劃未來10年在中國建設最多1000家餐廳。Wendy's稱合作方是“一家在中國擁有數十年經驗的大型餐飲運營商，以強待客能力聞名、深刻理解中國消費者。”但沒有公佈這家運營商的名稱。此外，財報顯示，Wendy's2026年一季度全球銷售額同比下降5.5%，美國同店銷售下降7.8%，國際市場銷售額增長6.0%。（介面）"
-    },
-    {
-      "id": "4884643",
-      "time": "2026-05-18 09:50:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國瑞林簽約雲南紅河砷業公司20000噸/年含砷物料資源化利用專案】據中國瑞林訊息，近日，中國瑞林成功簽約雲南紅河砷業有限責任公司20000噸/年含砷物料資源化利用專案，正式承接該專案初步設計和施工圖設計工作。"
-    },
-    {
-      "id": "4884642",
-      "time": "2026-05-18 09:50:42",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "兩年期日本國債收益率上漲3個基點，至1.435%。"
-    },
-    {
-      "id": "4884641",
-      "time": "2026-05-18 09:50:29",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "A股三大指數盤初震盪回升翻紅。"
-    },
-    {
-      "id": "4884640",
-      "time": "2026-05-18 09:50:15",
-      "tags": [
-        "市場"
-      ],
-      "text": "【共封裝光學(CPO)板塊短線拉昇，華工科技漲停】共封裝光學(CPO)板塊短線拉昇，華工科技漲停，平治資訊、長盈通漲超10%，華盛昌、中瓷電子、泰晶科技、光力科技、可川科技等跟漲。相關ETF方面，科創創業人工智慧ETF景順（159142）漲1.38%，成交額2419.85萬元。"
-    },
-    {
-      "id": "4884639",
-      "time": "2026-05-18 09:49:03",
-      "tags": [
-        "公司",
-        "資料"
-      ],
-      "text": "【前微軟高管痛批公司 AI 戰略失誤：重蹈網際網路、移動裝置時代覆轍】據科技媒體 Windows Latest 昨日報道，微軟激進且耗資數十億美元的 AI 戰略，原本被外界認為註定成功。但在光鮮亮麗的釋出會和龐大的基礎設施投入背後，卻呈現出截然不同的光景。前微軟高管 Mat Velloso 曾在公司履職 12 年，擔任 Windows AI 創新合夥人總監，並連續四年出任 CEO 納德拉的技術顧問。目前他在 Meta 超級智慧實驗室工作，此前曾領導谷歌 DeepMind AI 開發者產品和業務，開發 Gemini API 和 Google AI Studio 等。最近幾個月，微軟的舉動可以說是令人震驚。Windows 和 Xbox 部門在長期無視使用者反饋後，突然開始認真聽取意見，並迅速實現使用者呼聲最高的那些功能。談及微軟為何突然“傾聽使用者”時，Velloso 表示：“儘管微軟將必應作為 AI 戰略的王牌，但這款產品仍然沒能從谷歌那裡拿下一個百分點的市場份額”。"
-    },
-    {
-      "id": "te:markets:551374",
-      "time": "2026-05-18 09:48:38",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Currency",
-        "Importance 2"
-      ],
-      "text": "Dollar Strengthens on Fed Rate Hike Bets — The dollar index climbed above 99.3 on Monday, reaching its strongest level in six weeks as rising inflationary pressures linked to the Middle East conflict reinforced expectations that the Federal Reserve could raise interest rates later this year. In the latest developments, President Donald Trump warned Iran to “get moving” or face consequences after departing China without securing major trade breakthroughs or meaningful progress toward ending the conflict and reopening the Strait of Hormuz. The latest US CPI and PPI data released last week indicated that the energy price shock is feeding into broader US inflation, leading traders to fully rule out any Federal Reserve rate cuts this year while increasing bets on a possible rate hike before year-end. Investors are now awaiting the latest FOMC meeting minutes and flash US PMI data for additional clues on the outlook for monetary policy and economic activity."
-    },
-    {
-      "id": "4884638",
-      "time": "2026-05-18 09:48:34",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內漲幅達2.09%，成分股中，思特威漲10.94%，佰維儲存漲9.20%，柏楚電子漲5.58%，中控技術漲4.68%。"
-    },
-    {
-      "id": "4884637",
-      "time": "2026-05-18 09:48:23",
-      "tags": [
-        "市場"
-      ],
-      "text": "6G概念股短線走強，華工科技漲超9%，海格通訊、通宇通訊漲超7%。"
     }
   ]
 }
