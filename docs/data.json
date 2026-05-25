@@ -1,7 +1,24 @@
 {
-  "updated": "2026-05-26 01:37:24",
-  "count": 15814,
+  "updated": "2026-05-26 01:41:02",
+  "count": 15815,
   "items": [
+    {
+      "id": "4899075",
+      "time": "2026-05-26 01:38:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英國謝菲爾德發生槍擊事件 1人死亡】當地時間25日凌晨，英國英格蘭中部城市謝菲爾德發生一起槍擊事件，一名30歲女子中槍後不治身亡。目前警方已逮捕3名涉嫌謀殺的嫌疑人，案件仍在進一步調查中。（央視新聞）"
+    },
+    {
+      "id": "4899074",
+      "time": "2026-05-26 01:37:03",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "埃及石油與礦產資源部：埃及與土耳其奧茲金礦簽署黃金原料合作諒解備忘錄。"
+    },
     {
       "id": "4899073",
       "time": "2026-05-26 01:32:26",
@@ -141542,19 +141559,6 @@
         "Importance 0"
       ],
       "text": "Orange Juice Hits 8-week Low — Orange Juice decreased to 160.15 USd/Lbs, the lowest since March 2026. Over the past 4 weeks, Orange Juice lost 8.98%, and in the last 12 months, it decreased 35.91%."
-    },
-    {
-      "id": "mkt:019e3c2c-a485-7dd6-889d-ed42354c32fb",
-      "time": "2026-05-19 01:40:19",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Crypto Concepts",
-        "Bitcoin",
-        "Impact bullish",
-        "Ethereum"
-      ],
-      "text": "REVOLUT UNVEILS FIRST PHYSICAL CRYPTO CARD AS INDUSTRY-WIDE CARD USAGE GROWS"
     }
   ]
 }
