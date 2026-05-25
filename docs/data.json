@@ -1,7 +1,23 @@
 {
-  "updated": "2026-05-26 04:01:20",
-  "count": 15681,
+  "updated": "2026-05-26 04:05:27",
+  "count": 15673,
   "items": [
+    {
+      "id": "4899110",
+      "time": "2026-05-26 04:03:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "多倫多證交所綜合指數創下收盤歷史新高，突破 3 月 2 日創下的前期高點。"
+    },
+    {
+      "id": "4899109",
+      "time": "2026-05-26 04:00:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數25日下跌】衡量美元對六種主要貨幣的美元指數當天下跌0.27%，在匯市尾市收於98.975。截至紐約匯市尾市，1歐元兌換1.1644美元，高於前一交易日的1.1612美元；1英鎊兌換1.3507美元，高於前一交易日的1.3446美元。1美元兌換158.90日元，低於前一交易日的159.15日元；1美元兌換0.7826瑞士法郎，低於前一交易日的0.7844瑞士法郎；1美元兌換1.3804加元，低於前一交易日的1.3807加元；1美元兌換9.2864瑞典克朗，低於前一交易日的9.3432瑞典克朗。"
+    },
     {
       "id": "4899108",
       "time": "2026-05-26 03:58:46",
@@ -140190,108 +140206,6 @@
         "Impact bullish"
       ],
       "text": "【S&P 500, Nasdaq Slip as Treasury Yields and Inflation Fears Weigh on Markets】US stocks were mixed Monday after President Donald Trump said he would delay planned military action against Iran. The S&P 500 edged lower, the Nasdaq fell 0.5%, while the Dow rose 0.3%. Treasury yields climbed, with the 10-year yield topping 4.6%, as investors weighed persistent inflation risks linked to higher oil prices. Brent crude briefly rose above $110 before easing after Trump said “serious negotiations are now taking place” with Iran. Markets also turned focus to upcoming earnings from retailers including Target and Walmart, alongside closely watched results from Nvidia on Wednesday."
-    },
-    {
-      "id": "te:markets:551691",
-      "time": "2026-05-19 04:04:52",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Oil Prices Ease — US crude futures pared early gains to trade little changed at around $106 a barrel during a volatile session on Monday, as traders weighed fresh developments in the Middle East and growing signs that the US and Iran could be nearing a deal. President Trump said he was calling off a planned attack on Iran scheduled for Tuesday after leaders from Saudi Arabia, Qatar, and the UAE urged him to “hold off,” adding that serious negotiations were now underway. Earlier in the session, oil prices fell after Iranian media reported that the US had proposed a temporary waiver of oil sanctions pending a final agreement. Prices later reversed course and moved higher again after Axios reported that Iran had submitted an updated peace proposal aimed at ending the conflict, though the White House reportedly viewed the offer as insufficient. Markets remain highly volatile, with oil prices elevated as the Strait of Hormuz stays largely shut and attacks on key infrastructure disrupt production."
-    },
-    {
-      "id": "4886545",
-      "time": "2026-05-19 04:03:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "【多家信託公司股權變動 西藏信託新增一位國有股東】近日，西藏信託披露了2025年度報告。 根據年度報告資訊，西藏信託的股東結構出現了新變化。 2025年，西藏國有資本投資運營有限公司成為公司新增股東，持股比例為6.43%；西藏自治區財政廳持股比例則降至60.64%，仍為公司實控人。至此，西藏信託的股東也由3位變成了4位，不過新增股東尚未完成市場主體變更登記。 知情人士表示，此次股權變動主要是落實國有股權劃轉充實社保基金的部署。（證券時報）"
-    },
-    {
-      "id": "4886544",
-      "time": "2026-05-19 04:03:00",
-      "tags": [
-        "央行",
-        "公司"
-      ],
-      "text": "【信用卡業務持續“瘦身強筋” 期待擁抱新一輪復甦週期】信用卡行業迎來久違的政策紅利。 近日，某頭部股份行信用卡中心的一位人士表示，定於今年9月底施行的《金融產品網路營銷管理辦法》將對信用卡行業構成利好，有望將高頻支付場景迴流信用卡。 此前，銀行信用卡業務的“瘦身”浪潮已席捲了整個行業。根據央行公佈的最新資料，截至2026年3月末，全國信用卡和借貸合一卡數量為6.87億張，較年初減少0.09億張，較2022年高點累計減少1.2億張，創近7年新低。（證券時報）"
-    },
-    {
-      "id": "mkt:019e3cae-e560-7dd6-889f-d7c33fef6824",
-      "time": "2026-05-19 04:02:28",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "US10Y",
-        "Impact mixed"
-      ],
-      "text": "U.S. MARCH NET OVERALL CAPITAL FLOW +150.7 BLN DLRS VS +182.7 BLN IN FEB (PREV +184.5 BLN)"
-    },
-    {
-      "id": "4886543",
-      "time": "2026-05-19 04:02:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "【一季度險資逢低買入 股票持倉繼續小幅提升】今年一季度，市場波動較大，保險資金是否減倉了股票？答案是“否”。 金融監管總局近日公佈的資料顯示，一季度末，人身險公司和財險公司合計持有股票市值為3.84萬億元，較年初增加1024億元，股票在險資投資餘額中的佔比也繼續小幅提升。此前業內判斷會實行逢低買入的操作，至此也得到了印證。 隨著4月以來市場有所回暖，險資機構的投資收益也有了明顯回升。權益資產屬於險資配置的“關鍵少數”，保險機構對權益投資的策略是積極配置並動態調整。（證券時報）"
-    },
-    {
-      "id": "mkt:019e3cae-de0f-7dd6-889f-cb22769e199a",
-      "time": "2026-05-19 04:02:11",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bearish",
-        "EURUSD",
-        "Impact bullish"
-      ],
-      "text": "U.S. MARCH NET OFFICIAL CAPITAL FLOW -11.4 BLN DLRS VS +13.1 BLN IN FEB (PREV +18.0 BLN)"
-    },
-    {
-      "id": "4886542",
-      "time": "2026-05-19 04:02:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國3月份跨境投資總額增加1507億美元。"
-    },
-    {
-      "id": "mkt:019e3cae-6ba5-7dd6-889f-c73686ec6751",
-      "time": "2026-05-19 04:01:58",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "USDJPY"
-      ],
-      "text": "U.S. MARCH NET PRIVATE CAPITAL FLOW +162.1 BLN DLRS VS +169.6 BLN IN FEB (PREV +166.5 BLN)"
-    },
-    {
-      "id": "4886541",
-      "time": "2026-05-19 04:01:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國3月份長期投資組合證券淨流入813億美元。"
-    },
-    {
-      "id": "4886540",
-      "time": "2026-05-19 04:01:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "【多重動因致城投公司頻繁終止評級合作】近日，武漢高科官宣終止與中誠信國際、中證鵬元、大公國際三家機構的評級合作，這一舉措並非個例。證券時報記者根據Wind資料梳理，截至5月11日，2026年以來已有182家公司終止評級機構的評級服務。其中，多數系因債券到期，評級隨之終止；但亦有不少公司在債務承壓、經營承壓等因素影響下，主動選擇終止評級。在主動終止評級的公司中，城投公司的身影頻頻出現。（證券時報）"
     }
   ]
 }
