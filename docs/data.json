@@ -1,7 +1,35 @@
 {
-  "updated": "2026-05-26 05:14:08",
+  "updated": "2026-05-26 05:18:10",
   "count": 15619,
   "items": [
+    {
+      "id": "4899128",
+      "time": "2026-05-26 05:17:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "智利政府預計2026年預算赤字對GDP佔比為2.4%。"
+    },
+    {
+      "id": "4899127",
+      "time": "2026-05-26 05:15:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時A50期指連續夜盤收漲0.25%，報15617點。"
+    },
+    {
+      "id": "te:markets:553513",
+      "time": "2026-05-26 05:14:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Norway",
+        "currency",
+        "Importance 0"
+      ],
+      "text": "Norwegian Krone Hits 4-year High — The Norwegian Krone touched 9.13 against the USD, the highest since April 2022. Over the past 4 weeks, US Dollar Norwegian Krone lost 0.82%, and in the last 12 months, it decreased 8.7%."
+    },
     {
       "id": "4899126",
       "time": "2026-05-26 05:03:56",
@@ -139687,34 +139715,6 @@
         "國際"
       ],
       "text": "【格陵蘭島自治政府總理見美特使 重申“不賣島”】丹麥海外領地格陵蘭島自治政府總理延斯-弗雷德裡克·尼爾森18日表示，他在會見美國總統特朗普任命的“格陵蘭島特使”、路易斯安那州長傑夫·蘭德里時，明確表示格陵蘭島“不出售”。"
-    },
-    {
-      "id": "4886595",
-      "time": "2026-05-19 05:16:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "【達爾薩納資本所管理的資金中近六成倉位投向SpaceX】若馬斯克旗下SpaceX按市場普遍預期估值完成首次公開募股，達爾薩納資本合夥公司或將斬獲超 100億美元賬面浮盈。SpaceX籌備上市一事，預計將為一眾前瞻投資者與風投機構帶來鉅額收益。知情人士透露，達爾薩納資本合夥公司早在2019年便首次投資SpaceX，彼時這家火箭企業估值約3000億美元，此後又多次追加投資。若該公司下月如期上市，且估值達到市場預期的1.5萬億美元及以上，達爾薩納這筆投資的賬面浮盈或將突破100億美元。"
-    },
-    {
-      "id": "4886594",
-      "time": "2026-05-19 05:15:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時A50期指連續夜盤收跌0.05%，報15526點。"
-    },
-    {
-      "id": "te:markets:551699",
-      "time": "2026-05-19 05:15:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Israel",
-        "currency",
-        "Importance 0"
-      ],
-      "text": "Israeli New Sheqel Hits 32-1/2-year High — The Israeli New Sheqel touched 2.88 against the USD, the highest since October 1993. Over the past 4 weeks, US Dollar Israeli New Sheqel lost 3.02%, and in the last 12 months, it decreased 17.76%."
     }
   ]
 }
