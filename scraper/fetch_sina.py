@@ -86,7 +86,7 @@ except ValueError:
 CENTRAL_BANK_SUMMARY_SCHEMA_VERSION = 7
 
 CENTRAL_BANKS = [
-    {"id": "fed", "name": "美國聯準會 Fed", "keywords": ("Fed", "Federal Reserve", "FOMC", "Powell", "Warsh", "Waller", "Bowman", "Jefferson", "Williams", "美聯儲", "聯準會", "鮑威爾", "沃許", "聯邦公開市場委員會")},
+    {"id": "fed", "name": "美國聯準會 Fed", "keywords": ("Fed", "Federal Reserve", "FOMC", "Powell", "Warsh", "Waller", "Bowman", "Jefferson", "Williams", "美聯儲", "聯準會", "鮑威爾", "沃許", "沃什", "聯邦公開市場委員會")},
     {"id": "ecb", "name": "歐洲央行 ECB", "keywords": ("ECB", "European Central Bank", "Lagarde", "Schnabel", "Villeroy", "Lane", "Guindos", "歐洲央行", "歐央行", "拉加德", "歐洲中央銀行")},
     {"id": "boe", "name": "英國央行 BoE", "keywords": ("BoE", "BOE", "Bank of England", "Bailey", "Mann", "Pill", "Lombardelli", "英國央行", "英格蘭銀行", "MPC")},
     {"id": "boj", "name": "日本央行 BoJ", "keywords": ("BoJ", "BOJ", "Bank of Japan", "Ueda", "Uchida", "Himino", "Tamura", "Asada", "Sato", "日本央行", "植田", "日銀", "日本銀行")},
@@ -99,7 +99,7 @@ CENTRAL_BANKS = [
 
 CENTRAL_BANK_OFFICIAL_ALIASES = {
     "fed": {
-        "沃許": ("沃許", "Warsh", "Kevin Warsh", "凱文·沃許"),
+        "沃許": ("沃許", "沃什", "Warsh", "Kevin Warsh", "KevinWarsh", "凱文·沃許", "凱文·沃什"),
         "鮑威爾": ("鮑威爾", "Powell", "Jerome Powell"),
         "沃勒": ("沃勒", "Waller", "Christopher Waller"),
         "鮑曼": ("鮑曼", "Bowman", "Michelle Bowman"),
@@ -1510,6 +1510,37 @@ def central_bank_alias_matches(alias: str, text: str) -> bool:
     return alias in text
 
 
+def central_bank_official_has_direct_attribution(text: str, aliases: tuple[str, ...]) -> bool:
+    """Return true only when the item attributes a remark/event to the official."""
+    direct_verbs = (
+        "表示", "稱", "指出", "認為", "強調", "警告", "重申", "補充", "提到",
+        "談及", "發言", "講話", "演講", "作證", "接受採訪", "致詞", "宣誓就任",
+    )
+    upcoming_markers = ("將", "將於", "預計", "料", "可能", "等待", "關注", "提醒")
+    for alias in aliases:
+        if not central_bank_alias_matches(alias, text):
+            continue
+        if re.search(rf"{re.escape(alias)}\s*[:：]", text, flags=re.IGNORECASE):
+            return True
+        if re.fullmatch(r"[A-Za-z][A-Za-z .'-]*", alias):
+            if re.search(
+                rf"(?<![A-Za-z]){re.escape(alias)}(?![A-Za-z])[^.\n]{{0,80}}\b"
+                r"(says|said|remarks|speaks|testifies|warns|stresses|notes)\b",
+                text,
+                flags=re.IGNORECASE,
+            ):
+                return True
+        alias_pos = text.find(alias)
+        if alias_pos < 0:
+            continue
+        context = text[alias_pos:alias_pos + 80]
+        if any(marker in context[:12] for marker in upcoming_markers) and not any(verb in context for verb in direct_verbs):
+            continue
+        if any(verb in context for verb in direct_verbs):
+            return True
+    return False
+
+
 def central_bank_required_officials(items: list[dict]) -> dict[str, list[str]]:
     required: dict[str, list[str]] = {}
     for item in items:
@@ -1518,7 +1549,7 @@ def central_bank_required_officials(items: list[dict]) -> dict[str, list[str]]:
             continue
         for bank_id, aliases_by_name in CENTRAL_BANK_OFFICIAL_ALIASES.items():
             for official, aliases in aliases_by_name.items():
-                if any(central_bank_alias_matches(alias, text) for alias in aliases):
+                if central_bank_official_has_direct_attribution(text, aliases):
                     required.setdefault(bank_id, [])
                     if official not in required[bank_id]:
                         required[bank_id].append(official)
@@ -1639,10 +1670,21 @@ def call_openai_central_bank_summary(items: list[dict], start: datetime, end: da
 8. 巴西央行 BCB
 9. 瑞士央行 SNB
 
-可辨識官員名單：
+可辨識到「本人直接發言或正式出席」的官員名單：
 {format_required_officials(required_officials)}
 
-上述名單中每一位官員若屬於當日發言、受訪、演講、作證、政策評論或人事交接，必須在該央行 officials 中各自成為獨立物件；不得省略，不得合併成同一點。
+上述名單只包含資料中有直接歸因的官員。每一位若屬於當日發言、受訪、演講、作證、政策評論、致詞或人事交接，才放入該央行 officials，且各自成為獨立物件；不得省略，不得合併成同一點。若資料只是由總統、財長、白宮顧問、分析師、媒體或市場行情文章「提到」某位央行官員，不得把該官員寫成本人發言。
+
+═══════════════════════════════
+事實核對與反幻覺規則
+═══════════════════════════════
+- 嚴禁杜撰日期、場合、會議名稱、演講題目或主辦單位。資料庫快訊的 time 是入庫/發布時間，不等於事件發生日期；只有原文明確寫出「當地時間」「於某日」「在某會議/場合」時，才能寫成發言日期與場合。
+- officials.venue 必須可由原文直接核對。若原文沒有場合，只能寫「來源未提供具體場合」或使用原文已有的簡短場景（例如「白宮宣誓儀式」「接受採訪」）；禁止自行補成「公開金融研討會」「主題演講」「政策論壇」等看似合理但來源沒有的場合。
+- 只有原文確認官員本人說話、受訪、演講、作證、致詞或宣誓就任，才能放入 officials。若只是市場文章、研究報告、利率期貨、總統/官員評論、分析師預測、或「市場關注某人首次講話」，請放入 expectations/reports 或直接略過，不得轉寫成該官員本人發言。
+- 不得把發布日、轉載日、摘要日或社群討論日當作官員發言日。若同一事件由多篇快訊重複提及，請以原文事件日期為準；若日期不明，寫「原文未交代確切日期」。
+- 原文未提供的政策立場不得補齊。若原文沒有說「反對降息」「支持升息」「核心通膨仍高」等內容，不得為了湊滿 details 自行生成；只能寫可推導的市場含意，並明確標成「市場解讀」或「政策含意」，不可冒充本人主張。
+- 目標是「高密度但可追溯」：只要原文提供足夠資訊，每位官員盡量輸出 7-10 個 details；若原文資訊較少，仍可用「原文可驗證重點」「已知政策背景」「政策含意」「市場解讀」「資料限制」等角度展開到 4-6 點，但每一點都必須標清是原文事實、背景脈絡或分析推論。
+- 若某位官員只有一句可驗證內容，不要只寫一句短摘要；請把同一句拆成可核對的事實、政策背景、反應函數含意、可能市場解讀與資料限制。禁止創造不存在的十點細節；完整性要求不得高於真實性要求。
 
 ═══════════════════════════════
 判斷模式：每家央行先判斷當日是否有「貨幣政策發布」
@@ -1671,7 +1713,7 @@ def call_openai_central_bank_summary(items: list[dict], start: datetime, end: da
 ═══════════════════════════════
 模式 B：當日無貨幣政策發布 → 維持三段，has_release=false，policy_release 各子陣列輸出空陣列、summary 為空字串
 ═══════════════════════════════
-- officials：當天該央行官員發言整理。這不是字串陣列，而是「官員物件陣列」。每一個 officials 物件只能對應一位官員，欄位為 official、venue、analysis、details。嚴禁把威廉姆斯、巴爾、米蘭等多位官員合併在同一個 official、analysis 或 details。若同一位官員有多則快訊，才合併成同一個官員物件。analysis 是 120-220 字總覽；details 是 7-12 個細項，每個細項都有 title 與 text，格式要像「發言時間與場合」「反對將縮表本身視為政策目標」「警告流動性要求下降恐提高系統風險」「政策含義」「利率立場」這種可掃讀標題。每個 details.text 需 55-150 字，必須完整交代原始發言重點、背景、利率立場、通膨判斷、就業或成長看法、金融穩定/資產負債表觀點、政策時點與市場含意。最少 3 位官員（若有任何資料）。最多 18 位官員。
+- officials：當天該央行官員本人直接發言、受訪、演講、作證、致詞或正式人事交接整理。這不是字串陣列，而是「官員物件陣列」。每一個 officials 物件只能對應一位官員，欄位為 official、venue、analysis、details。venue 必須使用原文可核對的場合；若沒有場合，寫「來源未提供具體場合」，不得編造活動名稱。嚴禁把威廉姆斯、巴爾、米蘭等多位官員合併在同一個 official、analysis 或 details。若同一位官員有多則本人發言快訊，才合併成同一個官員物件。analysis 是 120-220 字總覽；details 優先輸出 7-10 個細項，來源有限時至少 4 個；每個細項都有 title 與 text，格式要像「發言時間與場合」「可驗證原文重點」「利率立場」「政策背景」「政策含義」「市場解讀」「資料限制」這種可掃讀標題。每個 details.text 需 55-150 字，必須完整交代原始發言重點、背景、利率立場、通膨判斷、就業或成長看法、金融穩定/資產負債表觀點、政策時點與市場含意；若原文沒有某項內容，不得補寫成本人主張，可改寫為「原文未提及」或「市場解讀」。最少 0 位官員；若只有間接提及央行官員但無本人發言，officials 必須留空陣列。最多 18 位官員。
 - expectations：市場對央行政策預期。每點 90-200 字，需具體寫出 CME FedWatch / OIS / 路透調查 / 經濟學家中位數預測 / 利率期貨機率變化等可量化定價，並對比前一日或前一週基準；若沒有對比基準，說明目前定價代表的政策含意。最少 2 點。最多 12 點。
 - reports：當天央行非決議類報告、研究、會議紀要、金融穩定、貼現窗、SOMA 操作、貨幣供給數據、外匯存底等。每點 90-200 字，需點出報告名稱、核心數字、政策意涵。最少 2 點（若有資料）。最多 12 點。
 - 沒有任何資料的段才允許空陣列。
@@ -1683,9 +1725,10 @@ def call_openai_central_bank_summary(items: list[dict], start: datetime, end: da
 - 絕對禁止把澳幣、英鎊、股市、黃金、原油、加密、一般債券行情等市場新聞塞進官員發言、聲明或報告。
 - 若只是市場行情文章引用央行作為背景，不要納入 reports / policy_release；除非文章有明確的利率期貨、調查或政策機率，才可放入 expectations。
 - 不要寫「快訊顯示」「根據快訊」「資料指出」等元敘事；直接寫重點。
-- 官員發言必須「非常完整」。嚴禁輸出「某某強調央行獨立性重要性」「某某稱經濟有韌性」這類一句話短摘要；每位官員都要寫成可獨立閱讀的多點 details，包含他/她說了什麼、為什麼重要、對利率路徑與市場定價代表什麼。
+- 官員發言必須「有據可查」。嚴禁輸出「某某強調央行獨立性重要性」「某某稱經濟有韌性」這類來源沒有細節的套話；每位官員都要寫成可獨立閱讀的多點 details，包含他/她實際說了什麼、為什麼重要、對利率路徑與市場定價代表什麼。沒有原文依據的細節不得補。
+- details 要盡量多，但不能平鋪重複。可把同一則原文拆成不同層次：1）原文直接事實；2）明確日期/場合或「來源未提供」；3）利率或政策工具是否被提及；4）通膨/就業/成長是否被提及；5）與央行反應函數的關係；6）市場定價或預期的影響；7）限制與不確定性。每一層都要避免冒充原文未說過的內容。
 - 若同一位官員在同一天有多個主題，合併在同一個官員物件的 analysis；不同官員必須拆成不同官員物件，不可合併。
-- 若原始資料對某位官員只有一兩句，也不可短寫；請在不杜撰新事實的前提下，完整展開該句話的政策背景、央行反應函數含意、與市場可能解讀。details 至少要包含「發言時間與場合」「核心立場」「政策含義」，若有利率、通膨、就業、資產負債表、金融穩定、銀行監管、支付系統等內容，也要分點拆開。
+- 若原始資料對某位官員只有一兩句，請在不杜撰新事實的前提下，完整展開該句話的政策背景、央行反應函數含意、與市場可能解讀。details 至少要包含「發言時間與場合」（若未知就寫「來源未提供具體場合」）、「可驗證原文重點」、「政策含義」；若原文沒有利率、通膨、就業、資產負債表、金融穩定、銀行監管、支付系統等內容，不得自行新增。
 - 數字、百分比、機率、票數請完整保留並標明單位（bps、%、人）。
 - 中文用詞採台灣財經媒體慣例：聯準會、歐洲央行、英國央行、日本央行、澳洲聯儲、加拿大央行、印度央行、巴西央行、瑞士央行、升息、降息、利率期貨、殖利率、量化緊縮、貼現窗、政策利率、存款便利、再融資。
 - status 欄位：模式 A 寫「政策決議日」「會議紀要日」「政策報告日」等具體事件；模式 B 寫「追蹤中」「官員密集發言」「無重大事件」等。
@@ -1837,11 +1880,11 @@ def call_openai_central_bank_summary(items: list[dict], start: datetime, end: da
 {chr(10).join(f"- {item}" for item in official_issues[:30])}
 
 請重新輸出完整 JSON。這次 officials 必須是一位官員一個物件，不可把多位官員合併成同一點。
-可辨識官員名單中的每位官員都要逐一覆蓋，不能漏人。
-每位官員都必須有 7-12 個 details 細項，至少 4 個細項才合格；每個細項必須有可掃讀 title 與完整 text。
-details 要像範例那樣拆成「發言時間與場合」「核心主張」「反對/支持的政策」「風險警告」「利率立場」「政策含義」等，而不是一整段短摘要。
-analysis 只做總覽，真正細節放在 details；analysis + details 合計至少 300 個中文字。
-絕對不要再輸出短句、新聞標題式摘要、或多位官員混寫在同一個 analysis/details。
+只覆蓋資料中有本人直接發言、受訪、演講、作證、致詞或正式人事交接的官員；被總統、財長、白宮顧問、分析師、媒體或市場行情文章提到的官員，不得寫成 officials。
+每位官員優先輸出 7-10 個 details 細項，來源有限時至少 4 個；每個細項必須有可掃讀 title 與完整 text，但所有內容都必須能從原文或明確政策背景推導，不得創造原文沒有的日期、場合、會議、演講題目、利率立場或通膨判斷。
+details 可拆成「發言時間與場合」「可驗證原文重點」「政策背景」「利率立場」「通膨/就業是否提及」「反應函數含意」「政策含義」「市場解讀」「資料限制」等；若原文沒有場合，venue 與該細項請寫「來源未提供具體場合」，不要補成公開研討會、論壇或主題演講。
+analysis 只做總覽，真正細節放在 details；analysis + details 合計至少 300 個中文字，越完整越好，但每個新增細項都必須標清是原文事實、背景脈絡或分析推論，真實性優先於字數。
+絕對不要再輸出短句、新聞標題式摘要、多位官員混寫，或把間接新聞改寫成官員本人發言。
 """.strip()
         result = sanitize_central_bank_officials(request_summary(retry_prompt))
         official_issues = central_bank_official_issues(result, required_officials)
