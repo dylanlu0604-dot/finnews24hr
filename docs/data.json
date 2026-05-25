@@ -1,7 +1,53 @@
 {
-  "updated": "2026-05-25 23:57:34",
-  "count": 15872,
+  "updated": "2026-05-26 00:02:21",
+  "count": 15870,
   "items": [
+    {
+      "id": "4899023",
+      "time": "2026-05-26 00:00:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士：真主黨無人機襲擊行動升級後，以色列正商討調整在黎巴嫩的軍事策略。"
+    },
+    {
+      "id": "4899022",
+      "time": "2026-05-26 00:00:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "黎巴嫩公共衛生部稱，自3月2日以來，已有3185人死於以色列相關襲擊。"
+    },
+    {
+      "id": "mkt:019e5fdb-bd3c-711d-be5d-fee602c4c102",
+      "time": "2026-05-25 23:58:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【BANK OF RUSSIA Files Second Suit At EU General Court Over Frozen Sovereign Assets】BANK OF RUSSIA Files Second Suit At EU General Court Challenging EU Rule Allowing Use Of Frozen Sovereign Assets To Repay Loans To Ukraine"
+    },
+    {
+      "id": "mkt:019e5fda-d450-711d-be5d-f7a598f5fd2f",
+      "time": "2026-05-25 23:57:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【U.K. Heathrow Hits 33.5°C, Breaks May Daily Heat Record】Heathrow Airport 33.5°C on May 25; Breaks U.K. May Daily Record; Previous May High 32.8°C (1922, 1944)"
+    },
+    {
+      "id": "te:markets:553500",
+      "time": "2026-05-25 23:57:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Hits Record High as Oil Prices Slide — Italy’s FTSE MIB climbed 1.4% to a record close of 50,220 on Monday, supported by a sharp drop in oil prices amid growing expectations that the US and Iran were nearing an agreement to reopen the Strait of Hormuz. Crude prices fell below $100 per barrel after senior US officials indicated that both sides were close to restoring the key Middle East shipping route, although final approval could still take several days. Lower oil prices eased inflation concerns and prompted investors to scale back expectations for further interest rate hikes. Financial stocks led gains, with UniCredit rising 2.7% and Intesa Sanpaolo adding 2.2%. Luxury shares also advanced as risk aversion eased, with Ferrari up 2.8% and Moncler gaining 3.1%. Other notable gainers included Stellantis (+2.9%) and Prysmian (+2.1%). Nexi surged 6.5% after state-backed investor CDP Equity announced plans to increase its stake in the payments group to as much as 29.9%. In contrast, Eni fell 1.1% on lower oil prices."
+    },
     {
       "id": "mkt:019e5fd9-f110-711d-be5d-ed7a134d6d3a",
       "time": "2026-05-25 23:56:10",
@@ -142107,74 +142153,6 @@
         "Importance 0"
       ],
       "text": "Cheese Hits 4-week Low — Cheese decreased to 1.65 USD/Lbs, the lowest since April 2026. Over the past 4 weeks, Cheese gained 0.27%, and in the last 12 months, it decreased 10.24%."
-    },
-    {
-      "id": "mkt:019e3bd2-b17d-7dd6-889c-67b136cae4d8",
-      "time": "2026-05-19 00:02:04",
-      "tags": [
-        "MKT News",
-        "VOLV-B.ST"
-      ],
-      "text": "VOLVO GROUP TO SPEND $108M ON CALIF. EMISSION CUTTING PROJECTS"
-    },
-    {
-      "id": "mkt:019e3bd1-6d4f-7dd6-889c-59768eb86d6b",
-      "time": "2026-05-19 00:00:41",
-      "tags": [
-        "MKT News",
-        "C.O",
-        "Impact bullish",
-        "BLK.O"
-      ],
-      "text": "CITI STRIKES EUR15 BLN PARTNERSHIP WITH BLACKROCK FOR PRIVATE EUROPEAN LENDING – FT"
-    },
-    {
-      "id": "4886361",
-      "time": "2026-05-18 23:59:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "匈牙利總理稱讚匈牙利債務融資成本有所改善。"
-    },
-    {
-      "id": "mkt:019e3bd0-5803-7dd6-889c-56e04d361807",
-      "time": "2026-05-18 23:59:30",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "UK POUND RISES TO DAY'S HIGH VS DOLLAR AFTER BURNHAM STATEMENT"
-    },
-    {
-      "id": "4886360",
-      "time": "2026-05-18 23:59:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "匈牙利總理：匈牙利目標是正式啟用歐元。"
-    },
-    {
-      "id": "4886359",
-      "time": "2026-05-18 23:58:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "據Axios：特朗普已撤銷針對美國國稅局的訴訟。"
-    },
-    {
-      "id": "te:markets:551665",
-      "time": "2026-05-18 23:57:50",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "FTSE 100 Rebounds on Monday — The FTSE 100 rose 1.1% on Monday, recovering from a 1.7% loss in the previous session as gains spread across most sectors, although investors remained focused on oil prices, geopolitics and inflation risks. Energy stocks led the advance with Shell and BP each rising more than 2% as crude strengthened following reports that the US rejected Iran’s latest peace proposal. Banks also moved higher, with HSBC, Lloyds Banking Group, Barclays and NatWest up between 0.5% and 1.2%. IAG gained more than 2% despite renewed cost warnings from Ryanair over fleet maintenance, wages and fuel. Mining stocks underperformed with Anglo American, Endeavour Mining and Antofagasta down more than 1% while Rio Tinto and Glencore also fell. Glencore said a Chilean court ruling on a desalination project would not immediately affect production at Collahuasi while Anglo American agreed to sell its steelmaking coal unit to Dhilmar for up to 3.875 billion dollars."
     }
   ]
 }
