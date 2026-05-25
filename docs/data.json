@@ -1,7 +1,31 @@
 {
-  "updated": "2026-05-25 13:52:25",
-  "count": 16230,
+  "updated": "2026-05-25 13:56:24",
+  "count": 16221,
   "items": [
+    {
+      "id": "4898014",
+      "time": "2026-05-25 13:55:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華是科技等成立新公司，含多項AI相關業務】企查查APP顯示，近日，廣州巴伯利亞智慧科技有限公司成立，註冊資本1000萬元，經營範圍包含：人工智慧行業應用系統整合服務；人工智慧公共服務平臺技術諮詢服務；人工智慧理論與演算法軟體開發；人工智慧應用軟體開發等。企查查股權穿透顯示，該公司由華是科技等共同持股。"
+    },
+    {
+      "id": "4898013",
+      "time": "2026-05-25 13:55:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "寒武紀成交額達200億元，現漲8.32%。"
+    },
+    {
+      "id": "4898012",
+      "time": "2026-05-25 13:53:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【緯穎：目前AI伺服器最大挑戰在於零部件短缺 包括儲存、高階PCB板、MLCC等】緯穎總經理林威遠指出，目前AI伺服器最大挑戰在於缺料，包括儲存、高階PCB板、MLCC等關鍵零部件，供貨都吃緊。有成套零部件才有機會出貨，因此取得與確保零部件供應成為最重要的事，現在每天都與供應商、客戶溝通供料狀況。"
+    },
     {
       "id": "mkt:019e5db0-5fb9-711d-be57-24baf1a3e223",
       "time": "2026-05-25 13:51:25",
@@ -145305,121 +145329,6 @@
         "其他"
       ],
       "text": "巴克萊將博柏利目標股價從1450便士下調至1410便士。"
-    },
-    {
-      "id": "mkt:019e39a8-0b02-7dd6-8894-2a9faa4279d7",
-      "time": "2026-05-18 13:56:08",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact mixed",
-        "DXY",
-        "Impact bullish",
-        "DAX",
-        "Impact bearish"
-      ],
-      "text": "ECB'S LAGARDE, WHEN I ASKED IF SHE WAS WORRIED BY THE BOND SELL OFF: “I ALWAYS WORRY, THAT’S MY JOB!”"
-    },
-    {
-      "id": "4885054",
-      "time": "2026-05-18 13:56:03",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "當問及歐洲央行行長拉加德是否對債券拋售感到擔憂時，她答道：“我一直都在擔憂，這就是我的工作！”"
-    },
-    {
-      "id": "4885053",
-      "time": "2026-05-18 13:56:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "A股三大運營商短線拉昇，中國電信、中國移動漲超4%，中國移動漲超2%。"
-    },
-    {
-      "id": "4885052",
-      "time": "2026-05-18 13:55:46",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "【花旗：全球股市大漲後料進入盤整期，投資者或低估風險】花旗財富首席投資官凱特·摩爾表示，儘管股市長期前景依然向好，但全球市場在經歷一輪強勁上漲後，可能即將進入一段盤整期。摩爾表示，儘管市場持續擔心中東衝突、通脹頑固以及投資者倉位擁擠，但近幾個月市場的韌性超出了投資者預期。“過去幾周，市場關注的是真正出色的企業盈利情況，以及公司在談論盈利時上調的支出預期，這讓所有人都變得非常樂觀，”摩爾說。“有時感覺市場一次只能關注一件事”，而“對一些人來說，自3月低點以來的市場漲勢已經強得令人不安。”她警告稱，投資者可能低估了下半年面臨的風險。“其中之一當然是與中東持續的地緣政治和能源危機有關，”摩爾說，“其次是通脹的擴散，我認為沒有足夠多的人將這一因素納入他們對下半年基本面的預期中。”"
-    },
-    {
-      "id": "4885051",
-      "time": "2026-05-18 13:55:41",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根士丹利將博柏利評級從持股觀望上調至增持。"
-    },
-    {
-      "id": "4885050",
-      "time": "2026-05-18 13:54:45",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "三星電子股價漲幅進一步擴大；最新上漲5.4%，報28.5萬韓元。"
-    },
-    {
-      "id": "4885049",
-      "time": "2026-05-18 13:54:13",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【星宸科技：車載鐳射雷達晶片預計2027年起將進入規模化量產 目標出貨量有望達千萬級別】星宸科技(301536)5月15日在業績說明會上表示，公司第一款高階車載主鐳射雷達晶片已成功在國內一線自主品牌車企的主力車型實現量產上車；第二款晶片聚焦車載補盲場景，單車搭載數量較主鐳射雷達提升數倍，同時可拓展至機器人、智慧穿戴、移動影像、低空經濟裝置等多場景應用，計劃2026年四季度釋出。自2027年起，車載鐳射雷達晶片預計將進入規模化量產，目標出貨量有望達千萬級別，力爭三年內成為全球車載鐳射雷達LiDAR晶片的技術與市場龍頭。"
-    },
-    {
-      "id": "4885048",
-      "time": "2026-05-18 13:53:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄外交部：烏軍攻擊扎波羅熱核電站對輻射安全構成嚴重威脅】俄羅斯外交部無任所大使羅季翁·米羅什尼克稱，烏軍對扎波羅熱核電站設施的襲擊對核輻射安全構成嚴重威脅。日前扎波羅熱核電站釋出訊息稱，核電站內記錄到烏軍對運輸車間的炮擊，造成廠房頂棚和數輛員工通勤巴士受損。無人受傷，也未發生火災。扎波羅熱核電站執行正常，廠區和監測區的輻射水平均在正常範圍內。"
-    },
-    {
-      "id": "4885047",
-      "time": "2026-05-18 13:53:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "匈牙利總統舒約克表示不會辭職。"
-    },
-    {
-      "id": "te:markets:551453",
-      "time": "2026-05-18 13:52:54",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "NZX 50 Ends at 7-Week Low, Down 1.6% — The NZX 50 fell 202 points, or 1.6%, to close at 12,762 on Monday, declining for the fifth consecutive session and marking its lowest level since March 30, tracking losses in U.S. futures ahead of Nvidia’s earnings results and amid renewed escalation in US-Iran tensions. Fresh data also pressured sentiment after New Zealand’s private sector continued to contract, with the services sector shrinking for the third straight month, though at a softer pace, while factory activity expanded at its slowest pace in seven months. Disappointing Chinese economic data also weighed on sentiment, while investors awaited the PBOC’s interest rate decision later this week. Almost all sectors traded in the red, led by consumer staples, followed by consumer discretionary and information technology. Among the top losers were A2 Milk (-5.1%), Mainfreight (-4.3%), Ebos Group (-3.4%), Freightways Group (-3.0%), Auckland International Airport (-1.6%), Fisher & Paykel Healthcare (-1.4%), and Infratil (-0.9%)."
-    },
-    {
-      "id": "4885046",
-      "time": "2026-05-18 13:52:45",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【分析：通脹掛鉤債券被視為良好投資】藍灣首席投資官Mark Dowding表示，RBC BlueBay Asset Management繼續看好通脹掛鉤債券。他說，不過，對於德國國債和美國國債的市場方向和曲線形狀，RBC BlueBay並沒有非常強烈的看法。相比之下，在日本，RBC BlueBay認為通脹超調更有可能得到遏制。鑑於收益率曲線非常陡峭，他們更傾向於對日本國債收益率持建設性態度。"
-    },
-    {
-      "id": "4885045",
-      "time": "2026-05-18 13:52:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【北京市前沿科創新興未來產業股權投資基金成立】企查查APP顯示，近日，北京市前沿科創新興未來產業股權投資基金中心（有限合夥）成立，出資額35億元，經營範圍包含私募股權投資基金管理、創業投資基金管理服務。企查查股權穿透顯示，該企業由陽光人壽保險股份有限公司、北京首霖管理諮詢有限公司等共同持股。"
     }
   ]
 }
