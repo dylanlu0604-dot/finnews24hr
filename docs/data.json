@@ -1,7 +1,15 @@
 {
-  "updated": "2026-05-26 01:22:40",
-  "count": 15833,
+  "updated": "2026-05-26 01:26:20",
+  "count": 15829,
   "items": [
+    {
+      "id": "4899068",
+      "time": "2026-05-26 01:23:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普釋出了兩張人工智慧風格的梗圖，批評奧巴馬的對伊政策，指責其資助德黑蘭政權，並將奧巴馬過往呼籲談判的立場與自己動用武力的做法進行對比。"
+    },
     {
       "id": "4899067",
       "time": "2026-05-26 01:21:07",
@@ -141707,53 +141715,6 @@
         "其他"
       ],
       "text": "法官通報：埃隆・馬斯克起訴 OpenAI 一案陪審團已作出裁決。"
-    },
-    {
-      "id": "4886420",
-      "time": "2026-05-19 01:26:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣西柳州市啟動洪水防禦四級應急響應】5月17日以來，廣西柳州市柳南區已發生多次地震。據柳州市氣象部門預報，5月14日以來，柳州市部分地區出現中到大雨、局地暴雨或大暴雨。預計17日到20日，柳州市仍多降雨，局地有暴雨或大暴雨，強降雨雨區與前期部分重疊，致災風險增高。根據《柳州市水利局洪水防禦工作預案》規定，經會商，決定於2026年5月19日0時啟動柳州市水利局洪水防禦四級應急響應。（央視新聞）"
-    },
-    {
-      "id": "4886419",
-      "time": "2026-05-19 01:25:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗方面稱有權對霍爾木茲海峽海底光纜收“管理費”】伊朗伊斯蘭革命衛隊18日在社交媒體釋出訊息稱，在伊方對霍爾木茲海峽“實施管理”後，“可宣佈所有經過該水道的光纖電纜必須接受許可、監管並繳納主權性費用”。（新華社）"
-    },
-    {
-      "id": "4886418",
-      "time": "2026-05-19 01:24:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本財務大臣片山皋月：首相指示我研究如何為追加預算籌措資金，同時做好風險防控。"
-    },
-    {
-      "id": "mkt:019e3c1d-a1f1-7dd6-889d-684b123b42ff",
-      "time": "2026-05-19 01:23:55",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "DXY",
-        "Nikkei 225"
-      ],
-      "text": "KATAYAMA: PM TAKAICHI TOLD ME TO CONSIDER HOW TO FINANCE PLANNED EXTRA BUDGET WHILE MITIGATING RISKS"
-    },
-    {
-      "id": "te:economy:551684",
-      "time": "2026-05-19 01:23:03",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Poland",
-        "Government Bond 10Y",
-        "Importance 0"
-      ],
-      "text": "Poland 10Y Bond Yield Hits 16-month High — Poland 10 Year Government Bond Yield increased to 6.04%, the highest since January 2025. Over the past 4 weeks, Poland 10Y Bond Yield gained 55.90 basis points, and in the last 12 months, it increased 45.70 basis points."
     }
   ]
 }
