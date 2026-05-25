@@ -1,7 +1,27 @@
 {
-  "updated": "2026-05-26 03:00:46",
-  "count": 15769,
+  "updated": "2026-05-26 03:04:53",
+  "count": 15760,
   "items": [
+    {
+      "id": "4899101",
+      "time": "2026-05-26 03:03:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "在岸人民幣兌美元（CNY）北京時間03:00收報6.7834元，較上週五夜盤收盤漲144點。成交量404.68億美元。"
+    },
+    {
+      "id": "te:economy:553510",
+      "time": "2026-05-26 03:02:16",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Paraguay",
+        "Producer Prices Change",
+        "Importance 0"
+      ],
+      "text": "Uruguay Producer Prices Fall for Third Straight Month — Uruguay’s Producer Price Index fell 1% year-on-year in April 2026, following a 0.7% decline in the previous month. Producer prices posted an annual contraction for the third consecutive month, mainly driven by negative contributions from domestic agricultural and horticultural products, as well as imported categories including metal products, machinery and equipment, non-metallic transportable goods, and food, beverages, tobacco, textiles, and leather products. From a grouping perspective, imported products accounted for most of the downward pressure, while domestic products made a positive contribution that partly offset the decline. The domestic categories supporting the index included food, beverages, tobacco, textiles and leather products, live animals and animal products, and non-metallic transportable goods."
+    },
     {
       "id": "4899100",
       "time": "2026-05-26 02:59:02",
@@ -140995,118 +141015,6 @@
         "國際"
       ],
       "text": "【特朗普稱已取消原定於明天對伊朗發動襲擊的計劃】特朗普在社交媒體發文稱：“卡達、沙烏地阿拉伯和阿拉伯聯合大公國要求我推遲原定對伊朗發動的軍事打擊計劃。目前相關方正在開展嚴肅談判，他們認為，作為偉大的領導人與盟友，我們將達成一項協議，該協議對美利堅合眾國、中東各國乃至世界其他國家而言都將是可接受的。”他表示，至關重要的是，這項協議將明確禁止伊朗擁有核武器。出於對上述領導人的尊重，他已指示戰爭部長赫格塞思、參謀長聯席會議主席丹尼爾・凱恩將軍及美軍方，美方將不會在明日執行原定的對伊打擊；但同時也已要求他們做好萬全準備，一旦未能達成可接受的協議，可在接到通知後立即對伊朗發起全面、大規模攻擊。"
-    },
-    {
-      "id": "4886476",
-      "time": "2026-05-19 03:04:01",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：我已指示軍方做好準備，一旦無法達成可接受的協議，將隨時待命對伊朗發動全面大規模打擊。"
-    },
-    {
-      "id": "4886475",
-      "time": "2026-05-19 03:03:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我們不會按計劃於明天對伊朗發動襲擊。"
-    },
-    {
-      "id": "4886474",
-      "time": "2026-05-19 03:03:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：協議將包括伊朗不能擁有核武器。"
-    },
-    {
-      "id": "4886473",
-      "time": "2026-05-19 03:03:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：如果未能達成可接受的協議，準備對伊朗發動攻擊。"
-    },
-    {
-      "id": "4886472",
-      "time": "2026-05-19 03:03:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：目前正在就伊朗問題進行嚴肅談判。"
-    },
-    {
-      "id": "mkt:019e3c78-8bff-7dd6-889f-0c62f80882a1",
-      "time": "2026-05-19 03:03:13",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Hot",
-        "Market Themes",
-        "The Trump Trade",
-        "Policy",
-        "Breaking News 24h",
-        "WTI",
-        "Impact bearish",
-        "XAUUSD",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "【Trump Says US Delays Planned Iran Strike Amid New Negotiations】President Donald Trump said the US has postponed a planned military strike on Iran that had been scheduled for Tuesday after requests from Qatar’s Emir Sheikh Tamim bin Hamad Al Thani, Saudi Crown Prince Mohammed bin Salman, and UAE President Mohamed bin Zayed Al Nahyan. Trump said negotiations are underway on a potential deal that would ensure Iran does not obtain nuclear weapons. He added he instructed Defense Secretary Pete Hegseth, Joint Chiefs Chairman General Daniel Caine and the US military to remain prepared for a “full, large scale assault” if an acceptable agreement is not reached."
-    },
-    {
-      "id": "4886471",
-      "time": "2026-05-19 03:03:02",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：此次襲擊原定於明日發起。"
-    },
-    {
-      "id": "4886470",
-      "time": "2026-05-19 03:02:30",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：卡達、沙烏地阿拉伯和阿拉伯聯合大公國要求我推遲原定對伊朗發動的軍事打擊計劃。"
-    },
-    {
-      "id": "mkt:019e3c77-4860-7dd6-889f-03dfdaa5bf76",
-      "time": "2026-05-19 03:01:50",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "The Trump Trade",
-        "WTI",
-        "Impact bearish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "TRUMP: POSTPONING PLANNED MILITARY ATTACK ON IRAN SCHEDULED FOR TOMORROW"
-    },
-    {
-      "id": "4886469",
-      "time": "2026-05-19 03:01:40",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國國務院宣告：批准擬向韓國出售總價 12 億美元的 AH-64E 阿帕奇直升機升級專案。"
-    },
-    {
-      "id": "mkt:019e3c77-097b-7dd6-889e-fcf3b86cb3a7",
-      "time": "2026-05-19 03:01:34",
-      "tags": [
-        "MKT News",
-        "BA.O",
-        "Impact bullish"
-      ],
-      "text": "STATE DEPARTMENT APPROVES POSSIBLE SALE OF AH-64E APACHE UPGRADE PROGRAM TO SOUTH KOREA FOR $1.2 BLN - STATEMENT"
     }
   ]
 }
