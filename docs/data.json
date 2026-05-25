@@ -1,7 +1,102 @@
 {
-  "updated": "2026-05-25 09:55:51",
-  "count": 16380,
+  "updated": "2026-05-25 09:59:40",
+  "count": 16383,
   "items": [
+    {
+      "id": "4897729",
+      "time": "2026-05-25 09:58:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "【電力板塊震盪走高 華電能源等漲停】電力板塊震盪走高，華電能源、電投綠能漲停，京能電力此前漲停，華電遼能、華能蒙電、電投水電、大唐發電等漲幅居前。"
+    },
+    {
+      "id": "te:markets:553276",
+      "time": "2026-05-25 09:58:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Kiwi Dollar Rises on US-Iran Peace Hopes — The New Zealand dollar rose to $0.587 as risk sentiment improved on hopes of a peace deal between the US and Iran. Senior US officials indicated over the weekend that both countries were nearing an agreement that could reopen the Strait of Hormuz, although they are still negotiating key terms, and final approval from both sides is likely to take several days. On the monetary policy front, the Reserve Bank of New Zealand is widely expected to keep the official cash rate unchanged at 2.25% later this week, though market pricing suggests an increasing likelihood of tighter policy ahead, with an implied roughly 80% probability of a rate hike in July and a fully priced move by September, as global energy supply disruptions raise inflation risks. Given this, the central bank is anticipated to revise its projections for both inflation and the policy rate at its upcoming meeting."
+    },
+    {
+      "id": "4897728",
+      "time": "2026-05-25 09:57:51",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【北京市網路市場監管聯席會議召開 集中約談17家重點平臺企業】為加強平臺經濟監管，規範“6·18”期間平臺經營行為，近日，北京市市場監管局組織召開市網路市場監管聯席會議，對17家重點平臺企業開展約談指導。北京市市場監管局要求，要嚴格落實“內卷式”競爭綜合整治工作要求，杜絕在“6·18”期間開展非理性大額補貼促銷活動，規範價格和廣告營銷行為，強化食品安全風險防控。"
+    },
+    {
+      "id": "4897727",
+      "time": "2026-05-25 09:57:12",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【電池產業鏈震盪調整 天際股份觸及跌停】電池產業鏈震盪調整，天際股份觸及跌停鵬輝能源、天賜材料、國城礦業、湖南裕能、龍蟠科技、恩捷股份、德方奈米跌幅居前，寧德時代、蔚藍鋰芯、新宙邦、華盛鋰電紛紛下挫。"
+    },
+    {
+      "id": "4897726",
+      "time": "2026-05-25 09:56:56",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【釀酒板塊異動拉昇 金徽酒漲停】釀酒板塊異動拉昇，金徽酒漲停，迎駕貢酒、皇臺酒業、今世緣、威龍股份、金種子酒等漲幅居前。"
+    },
+    {
+      "id": "4897725",
+      "time": "2026-05-25 09:56:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【打通公平正義“最後一公里” 我國已設立人民法庭11035個】從今天召開的第五次全國人民法庭工作會議上瞭解到，目前，我國人民法庭數量由五年前的10759個增至11035個，鄉村法庭為7615個；審結各類案件3400萬件，是上一個五年的1.7倍，佔全國法院一審結案比例由25%升至35%。"
+    },
+    {
+      "id": "mkt:019e5cd8-81ca-7882-93e9-a245c2e03e7c",
+      "time": "2026-05-25 09:55:53",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Oil Falls on Prospects of Strait of Hormuz Reopening】Oil prices declined in early Asian trading amid prospects for the reopening of the Strait of Hormuz, a key shipping route that typically handles about one-fifth of global oil flows. The Wall Street Journal reported, citing a US official, that there is an agreement in principle under which Iran would reopen the waterway. President Donald Trump said Sunday he was in no hurry to finalize an end-of-war agreement with Iran."
+    },
+    {
+      "id": "4897724",
+      "time": "2026-05-25 09:55:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【電力板塊震盪拉昇，京能電力、電投綠能漲停】電力板塊震盪拉昇，京能電力、電投綠能漲停。華能蒙電、大唐發電、上海電力跟漲。。"
+    },
+    {
+      "id": "mkt:019e5cd8-5d84-7882-93e9-994ad145d889",
+      "time": "2026-05-25 09:55:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "SZSE Component",
+        "CSI300"
+      ],
+      "text": "TURNOVER ON SSE AND SZSE EXCEEDED 1 TRILLION YUAN, UP 178.5 BILLION YUAN FROM SAME TIME PREVIOUS SESSION"
+    },
+    {
+      "id": "4897723",
+      "time": "2026-05-25 09:55:38",
+      "tags": [],
+      "text": "煤炭股掀漲停潮，盤江股份、淮北礦業、上海能源、平煤股份相繼漲停。"
+    },
     {
       "id": "4897721",
       "time": "2026-05-25 09:54:05",
@@ -296,6 +391,14 @@
         "市場"
       ],
       "text": "【病毒防治概念快速拉昇 達安基因漲停】病毒防治概念快速拉昇，達安基因漲停，之江生物漲超11%，科華生物、凱普生物、潤達醫療跟漲。"
+    },
+    {
+      "id": "4897692",
+      "time": "2026-05-25 09:38:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【優必選、溫州國資等成立具身智慧科技公司】企查查APP顯示，近日，溫州市具身智慧科技有限公司成立，註冊資本7000萬元，經營範圍包含：人工智慧應用軟體開發；人工智慧基礎軟體開發；數字技術服務；基於雲平臺的業務外包服務；智慧機器人的研發等。企查查股權穿透顯示，該公司由優必選、溫州市甌海科技投資有限公司等共同出資。"
     },
     {
       "id": "mkt:019e5cc8-eec5-7882-93e9-789154285785",
@@ -146778,84 +146881,6 @@
         "焦點"
       ],
       "text": "滬深兩市成交額超1萬億元，較上日此時縮量761億元。"
-    },
-    {
-      "id": "4884658",
-      "time": "2026-05-18 09:59:22",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【韓國總統：企業管理權應與勞動權同樣受到尊重】韓國總統李在明週一表示，企業的經營權應與勞動權同等受到尊重。李在明在其X賬號上釋出這一資訊之際，三星電子及其工會工人正展開最後一刻的突破性談判，以避免工會原定於週四開始的為期18天的罷工。"
-    },
-    {
-      "id": "te:markets:551377",
-      "time": "2026-05-18 09:58:52",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Hong Kong",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Hong Kong Shares Fall as Oil Surges — The Hang Seng Index fell 323 points, or 1.2%, to 25,640 on Monday, as investors turned cautious amid renewed geopolitical tensions in the Middle East. Sentiment weakened after US President Donald Trump issued a fresh warning to Iran, raising fears of further escalation in the region and potential disruptions to global oil supplies. Oil prices climbed more than 1%, driven by concerns that prolonged tensions could disrupt crude shipments through the Strait of Hormuz, a key global energy route. The rise in oil prices added to inflation worries and raised expectations of higher operating costs for businesses, prompting investors to trim exposure to equities. Finance and technology-related shares led the decline. Tencent Holdings slipped 0.3%, while AIA Group fell 1.0%. Other notable laggards included Shenzhou International (-0.7%), Hong Kong Exchanges and Clearing (-0.1%), and SMIC (-0.8%). In contrast, Xiaomi Corporation gained nearly 1%."
-    },
-    {
-      "id": "4884657",
-      "time": "2026-05-18 09:58:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以將在聯合國機構拆除地建國防設施】以色列政府5月17日批准了一項計劃，將在位於東耶路撒冷的原聯合國近東救濟工程處辦公地上修建一處國防綜合設施，包括軍事博物館、徵兵處以及國防部長辦公室。巴勒斯坦伊斯蘭抵抗運動（哈馬斯）當天釋出宣告，對此表示強烈譴責。 以色列於今年1月20日開始拆除聯合國近東救濟工程處位於東耶路撒冷的辦公地。以色列此舉遭到聯合國以及包括巴勒斯坦國、約旦和沙特等多方強烈譴責。近東救濟工程處主要負責向生活在約旦河西岸、加沙地帶以及約旦、敘利亞和黎巴嫩的巴勒斯坦註冊難民提供人道主義救助、教育和醫療等服務。（CCTV國際時訊）"
-    },
-    {
-      "id": "4884656",
-      "time": "2026-05-18 09:58:05",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【漢坦病毒事件會“扼殺”郵輪旅遊熱度嗎】多名業內人士和專家學者日前表示，近期郵輪上出現漢坦病毒和諾如病毒感染事件，屢屢登上頭版頭條，但這些孤立的衛生事件不太可能影響郵輪旅遊火熱的市場前景。美國康奈爾大學酒店管理學副教授羅布·科沃特尼克認為，這些新聞不會影響近期的郵輪旅遊市場行情，因為郵輪行程一般是提前至少6個月預訂，有時甚至提前一年。總部位於瑞士的維京郵輪公司14日在與投資者舉行的電話會議上表示，伊朗戰事2月底爆發後，今年第一季度對該公司部分郵輪行程的需求短暫疲軟，隨後迅速反彈，其2026年郵輪預訂率達92%，2027年也已達到38%。（新華社）"
-    },
-    {
-      "id": "4884655",
-      "time": "2026-05-18 09:57:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "【受降雨影響 國鐵武漢區域性分列車今日停運】記者今天（18日）從國鐵武漢局瞭解到，據氣象預報，5月17日晚至19日上午湖北全省有大雨到暴雨、局地大暴雨，伴有強對流天氣。為確保旅客列車執行安全，國鐵武漢局第一時間啟動應急預案，根據降雨影響範圍，今天（18日）計劃臨時停運漢宜鐵路、宜萬鐵路、襄渝鐵路等線路部分列車。同時與氣象部門動態聯絡，運輸部門、排程所積極做好雨情汛情會商研判，根據雨情動態適時調整執行方案，旅客可透過鐵路12306及時關注列車執行狀態。"
-    },
-    {
-      "id": "4884654",
-      "time": "2026-05-18 09:56:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【逆變器板塊走高，固德威漲超10%】逆變器板塊走高，固德威漲超10%，禾邁股份、昱能科技、錦浪科技、艾羅能源、首航新能等跟漲。"
-    },
-    {
-      "id": "4884653",
-      "time": "2026-05-18 09:56:25",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【三星股價反彈，韓國綜合指數收復 4.7% 跌幅】受三星電子股價回暖帶動，韓國基準股指韓國綜合指數在早前最深大跌 4.7% 後強勢反彈。 市場聚焦三星勞資談判進展，其股價漲幅超 4%。 受油價走高、債券收益率上行等宏觀因素壓制市場風險偏好影響，韓國綜合指數週一早盤一度跌入技術性回撥區間。"
-    },
-    {
-      "id": "mkt:019e38cc-938b-7663-82fe-2fc4a1b86e8f",
-      "time": "2026-05-18 09:56:23",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Market Themes",
-        "AI Revolution",
-        "Hang Seng Index",
-        "Impact bullish"
-      ],
-      "text": "HK-LISTED ZHIPU AI JUMPS OVER 10%"
     }
   ]
 }
