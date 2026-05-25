@@ -1,7 +1,33 @@
 {
-  "updated": "2026-05-26 01:26:20",
-  "count": 15829,
+  "updated": "2026-05-26 01:30:03",
+  "count": 15824,
   "items": [
+    {
+      "id": "4899071",
+      "time": "2026-05-26 01:29:32",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗媒體：伊朗總統已下令恢復網路服務。"
+    },
+    {
+      "id": "4899070",
+      "time": "2026-05-26 01:29:07",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗塔斯尼姆通訊社否認沙特媒體有關伊朗同意將高濃縮鈾運出境外的報道，稱相關訊息純屬虛假資訊，是心理戰的一部分。"
+    },
+    {
+      "id": "4899069",
+      "time": "2026-05-26 01:28:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "阿拉伯電視臺：霍爾木茲海峽管控細則以及美國在伊朗周邊的軍事部署相關爭議仍在持續。"
+    },
     {
       "id": "4899068",
       "time": "2026-05-26 01:23:34",
@@ -141630,91 +141656,6 @@
         "Copper"
       ],
       "text": "KATAYAMA: G7 FINANCE CHIEFS' COMMUNIQUE LIKELY TO INCLUDE STATEMENT ON PRICING OVER CRITICAL MINERALS"
-    },
-    {
-      "id": "mkt:019e3c23-25f8-7dd6-889d-8fa3be916374",
-      "time": "2026-05-19 01:29:56",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "U.S. JURY FINDS OPENAI, CEO SAM ALTMAN NOT LIABLE TO ELON MUSK FOR STRAYING FROM CHARITABLE MISSION, BECAUSE MUSK WAITED TOO LONG TO SUE"
-    },
-    {
-      "id": "4886424",
-      "time": "2026-05-19 01:29:55",
-      "tags": [
-        "公司",
-        "其他",
-        "焦點",
-        "國際"
-      ],
-      "text": "蘋果擬於 6 月開發者大會正式釋出 iOS 27 系統，蘋果計劃為 iOS 27 推出 AI 寫作助手、快捷指令新功能及自定義桌布功能。"
-    },
-    {
-      "id": "4886423",
-      "time": "2026-05-19 01:29:33",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "日本財務大臣片山皋月：  七國集團財長公報或將納入關鍵礦產定價相關表態。"
-    },
-    {
-      "id": "4886422",
-      "time": "2026-05-19 01:28:08",
-      "tags": [
-        "公司",
-        "焦點",
-        "國際"
-      ],
-      "text": "日本財務大臣片山皋月： 七國集團暫不考慮就債券拋售採取協同行動，各國自行負責本國市場局勢。"
-    },
-    {
-      "id": "mkt:019e3c21-92f5-7dd6-889d-816f3f9f6446",
-      "time": "2026-05-19 01:27:59",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "KATAYAMA: G7 NOT CONSIDERING COORDINATED ACTION ON BOND SELLOFFS, EVERY COUNTRY IS RESPONSIBLE FOR ITS OWN MARKET SITUATION"
-    },
-    {
-      "id": "mkt:019e3c20-ee58-7dd6-889d-78100d9d8ee7",
-      "time": "2026-05-19 01:27:31",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "US10Y"
-      ],
-      "text": "【Trump to Swear In Kevin Warsh as Fed Chair on Friday】President Donald Trump will swear in Kevin Warsh as Federal Reserve chair during a White House ceremony on Friday, according to a White House official. Warsh will become the Fed’s 17th chair, succeeding Jerome Powell, who has remained in a temporary capacity after his leadership term expired last week. The Senate confirmed Warsh earlier this month in a 54-45 vote, the narrowest margin for a Fed chair confirmation. Warsh takes office as the Iran war adds inflation pressures and amid scrutiny over whether he will remain independent from the White House after Trump publicly called for lower interest rates."
-    },
-    {
-      "id": "mkt:019e3c20-9af8-7dd6-889d-77eb729b7130",
-      "time": "2026-05-19 01:27:10",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "JURY REACHES VERDICT IN ELON MUSK LAWSUIT AGAINST OPENAI, JUDGE SAYS"
-    },
-    {
-      "id": "4886421",
-      "time": "2026-05-19 01:26:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "法官通報：埃隆・馬斯克起訴 OpenAI 一案陪審團已作出裁決。"
     }
   ]
 }
