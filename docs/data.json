@@ -1,7 +1,16 @@
 {
-  "updated": "2026-05-26 00:33:59",
-  "count": 15847,
+  "updated": "2026-05-26 00:37:53",
+  "count": 15846,
   "items": [
+    {
+      "id": "4899036",
+      "time": "2026-05-26 00:36:25",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "美伊協議草案提議將停火期限延長60天，該期限可再度續期。"
+    },
     {
       "id": "4899035",
       "time": "2026-05-26 00:31:47",
@@ -141898,22 +141907,6 @@
         "Brent"
       ],
       "text": "【US Plans New Russian Oil Waiver as Iran War Tightens Global Supply】The US is preparing a new waiver allowing sales of Russian crude oil and petroleum products already loaded on tankers, according to people familiar with the matter. The Treasury Department’s OFAC is expected to issue the license days after the previous waiver expired on May 16. The move highlights pressure on the Trump administration to contain fuel costs and ease supply strains linked to the Iran war. The waiver could extend beyond 30 days or allow renewals. European allies may oppose the decision, while Asian importers have pushed for continued sanctions relief."
-    },
-    {
-      "id": "4886385",
-      "time": "2026-05-19 00:34:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "【69名中國公民在菲被扣 我使館派員進行領事探視】據中國駐菲律賓大使館訊息，使館18日派員赴菲國家調查局看守所對69名中國工人進行領事探視，敦促菲方儘快依法公正妥善處理有關案件，切實保障中國公民安全和合法權益。據使館介紹，上述中國公民近日在菲軍警對棉蘭老地區東米薩米斯省一家鋼鐵廠的突擊行動中被查扣。 (新華社)"
-    },
-    {
-      "id": "4886384",
-      "time": "2026-05-19 00:34:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特： 此次延期將增添更多靈活性，美方將同相關國家協作，按需發放專項許可。該通用許可有助於穩定實物原油市場，保障石油流向能源最緊缺的國家。"
     }
   ]
 }
