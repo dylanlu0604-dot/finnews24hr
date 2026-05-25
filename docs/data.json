@@ -1,7 +1,28 @@
 {
-  "updated": "2026-05-26 00:10:17",
-  "count": 15863,
+  "updated": "2026-05-26 00:14:10",
+  "count": 15859,
   "items": [
+    {
+      "id": "te:markets:553503",
+      "time": "2026-05-26 00:12:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 1.43% Higher — The FTSE MIB Index gained 709 points or 1.43 percent on Monday to close at 50220 points. Gains were led by Avio (7.20%), Nexi (6.93%) and Amplifon (3.91%)."
+    },
+    {
+      "id": "4899027",
+      "time": "2026-05-26 00:10:27",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【七國集團因分歧或兩年無聯合公報】七國集團峰會將於6月中旬在法國埃維昂舉行。據日本《日經亞洲》5月24日報道，此次七國集團可能繼去年的加拿大峰會之後，連續第二年不發表聯合公報，“以免暴露美國與其他成員國之間日益加深的分歧”。（CCTV國際時訊）"
+    },
     {
       "id": "mkt:019e5fe5-727a-711d-be5e-0fc6233219d5",
       "time": "2026-05-26 00:08:41",
@@ -142023,62 +142044,6 @@
         "國際"
       ],
       "text": "【AMD董事會主席兼CEO蘇姿豐：中國市場極其重要 算力已經成為AMD開展業務的關鍵】美國超威半導體公司（AMD）董事會主席兼執行長（CEO）蘇姿豐5月18日下午在京表示，此次來華深感榮幸，中國市場極其重要。在與中國貿促會會長任鴻斌的交談中，蘇姿豐說，算力已經成為AMD開展業務的關鍵，十分有幸能與中國各大合作伙伴在這一領域保持穩固良好的合作關係。“我始終期待雙方能夠持續深化合作、拓展更多領域。”（新華社）"
-    },
-    {
-      "id": "4886370",
-      "time": "2026-05-19 00:14:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "摩洛哥農業大臣：摩洛哥計劃建立糧食戰略儲備。"
-    },
-    {
-      "id": "4886369",
-      "time": "2026-05-19 00:12:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "沃爾沃：2026 年第二季度經營現金流將受 8900 萬美元負面影響。"
-    },
-    {
-      "id": "4886368",
-      "time": "2026-05-19 00:12:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "沃爾沃集團北美公司與加州空氣資源委員會達成和解，沃爾沃集團將支付 1250 萬美元罰金、向加州空氣資源委員會專項基金繳納 7100 萬美元，並投入 1.08 億美元用於排放治理相關專案。"
-    },
-    {
-      "id": "te:markets:551674",
-      "time": "2026-05-19 00:12:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE MIB Index Closes 0.91% Lower — The FTSE MIB Index fell 447 points or 0.91 percent on Monday to close at 48669 points. Leading the losses are Banca Monte dei Paschi di Siena (-7.89%), Infrastrutture Wire (-6.05%) and Nexi (-5.49%). Top gainers were Eni (2.04%), Telecom Italia (1.75%) and Mediobanca (1.61%)."
-    },
-    {
-      "id": "4886367",
-      "time": "2026-05-19 00:11:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "卡達與巴基斯坦總理通電話，商討調停相關事宜。"
-    },
-    {
-      "id": "te:markets:551672",
-      "time": "2026-05-19 00:11:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The DAX Index Closes 1.49% Higher — The DAX Index gained 357 points or 1.49 percent on Monday to close at 24308 points. Gains were led by Deutsche Boerse (4.66%), Rheinmetall (4.16%) and Deutsche Telekom (4.01%)."
     }
   ]
 }
