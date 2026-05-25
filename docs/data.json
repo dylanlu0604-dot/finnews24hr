@@ -1,7 +1,70 @@
 {
-  "updated": "2026-05-25 20:16:54",
+  "updated": "2026-05-25 20:20:57",
   "count": 16112,
   "items": [
+    {
+      "id": "4898812",
+      "time": "2026-05-25 20:19:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列訊息：一架無人機炸彈襲擊紹梅拉一處建築，暫無人員傷亡。"
+    },
+    {
+      "id": "4898811",
+      "time": "2026-05-25 20:19:17",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【韓國現代汽車組建專項團隊 推進智慧工廠與機器人業務】業內訊息人士週一表示，韓國現代汽車集團新設專門部門，推進軟體定義工廠戰略，並統籌機器人零部件採購工作，為旗下製造廠區部署阿特拉斯人形機器人鋪路。 集團近期增設軟體定義工廠專案統籌崗位，任命新加坡創新中心首席創新官Alpesh Patel出任該負責人。現代旗下美國子公司波士頓動力研發的阿特拉斯人形機器人，曾亮相2026年拉斯維加斯國際消費電子展。 此前現代汽車集團公佈規劃，計劃2028年前建成年產3萬臺人形機器人的產能基地，陸續在現代、起亞旗下工廠投入總計2.5萬臺機器人作業。"
+    },
+    {
+      "id": "4898810",
+      "time": "2026-05-25 20:18:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【報告：德國汽車和紡織行業受就業人數下降打擊】安永的一份報告顯示，在德國工業就業人數普遍低迷的情況下，德國汽車和紡織行業繼續受到就業人數下降的嚴重影響。報告稱，去年汽車行業的員工人數下降了4%，自2019年以來降幅高達15%。紡織行業的降幅更為劇烈，自2019年以來流失了22%的工作崗位。報告發現，與此同時，僅有兩個行業逆勢而上，自2019年以來，化工和製藥行業的就業人數略有增加。"
+    },
+    {
+      "id": "4898809",
+      "time": "2026-05-25 20:18:06",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【報告：美國10年期國債收益率升幅料將超過歐元區同類債券】法國外貿銀行策略師在一份報告中表示，由於美國經濟更為強勁，美國10年期國債收益率的升幅可能超過歐元區同類債券。他們表示：“鑑於美國經濟相對具有韌性、金融環境在結構上更為寬鬆，以及對長端收益率高企的容忍度更高，中期內美國國債收益率面臨的上升壓力應會大於歐元區利率。“相比之下，歐元區經濟增長對能源價格高企“要脆弱得多“。法國外貿銀行表示，這應會限制歐洲央行像目前市場預期的那樣大幅加息的能力。Tradeweb資料顯示，10年期德國國債收益率下跌逾9個基點，至2.941%的六週低點。"
+    },
+    {
+      "id": "4898808",
+      "time": "2026-05-25 20:16:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【賽恩斯再融資定於6月1日上會】上海證券交易所上市稽核委員會定於2026年6月1日召開2026年第30次上市稽核委員會審議會議，審議賽恩斯環保股份有限公司(再融資)。"
+    },
+    {
+      "id": "te:economy:553465",
+      "time": "2026-05-25 20:16:24",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Mexico",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Mexico Posts Larger-Than-Expected Trade Surplus — Mexico’s trade balance rebounded to a $4.52 billion surplus in April 2026 from a $0.04 billion deficit a year earlier, beating forecasts of a $1.41 billion surplus. Exports surged 32.6% year-on-year to $72.04 billion, driven by a 71% jump in extractive shipments. Manufacturing exports also rose sharply by 34%, with auto exports increasing 8.2%. Meanwhile, exports of agricultural and livestock products edged up 0.1%. Imports advanced 24.1% to $67.52 billion, mainly due to a 29.8% increase in intermediate goods purchases. Imports of consumer goods rose 7.7%, while capital goods imports increased 1.3%. Year-to-date, the trade balance recorded a surplus of $247.63 billion."
+    },
+    {
+      "id": "mkt:019e5f10-aea6-711d-be5b-eda4f8ba4b69",
+      "time": "2026-05-25 20:16:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran Parliament Speaker Ghalibaf Leads Delegation To Doha】Iran Speaker Mohammad Bagher Ghalibaf Arrives In Doha; Delegation To Hold Talks With Qatari Officials On Ending Hostilities"
+    },
     {
       "id": "4898807",
       "time": "2026-05-25 20:15:46",
@@ -144256,65 +144319,6 @@
         "其他"
       ],
       "text": "【三部門調撥中央救災物資支援湖南、廣西做好救災救助工作】針對湖南、廣西暴雨洪澇、地震等災害影響，根據災區救災救助需要，國家防災減災救災委員會辦公室、應急管理部會同國家糧食和物資儲備局向湖南調撥帳篷、摺疊床、夏涼被、摺疊桌凳、家庭應急包等中央救災物資1.8萬件，並在前期向廣西調撥1萬件中央救災物資基礎上，增加調撥摺疊床、家庭照明燈、家庭應急包等中央救災物資5000件，支援兩省（自治區）妥善做好受災群眾安置救助和基本生活保障。 (央視新聞)"
-    },
-    {
-      "id": "4885960",
-      "time": "2026-05-18 20:20:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗邊防指揮官：邊防人員查獲了100萬升走私燃料。"
-    },
-    {
-      "id": "4885959",
-      "time": "2026-05-18 20:19:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【證監會李超：更大力度支援科技創新與北交所改革】中國證監會副主席李超5月18日在2026北京上市公司高質量發展大會上表示，上市公司是資本市場的基石，高質量的上市公司群體是實現中國式現代化的重要力量。當前，資本市場底層邏輯正發生深刻變化，市場主體、產品和機制全面高質量發展活力開始迸發。證監會將以更大力度支援科技創新、推進北交所深化改革、夯實上市公司高質量發展基礎，助力首都經濟高質量發展邁上新臺階。"
-    },
-    {
-      "id": "4885958",
-      "time": "2026-05-18 20:19:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "國際能源署署長比羅爾：隨著北半球春耕和夏季旅遊旺季的到來，柴油、化肥、航空燃油和汽油的需求增加，庫存消耗將更快。在美以於2月底對伊朗發動襲擊之前，石油市場存在大量過剩，商業庫存處於非常高的水平。但由於戰爭，形勢已迅速轉變。"
-    },
-    {
-      "id": "4885957",
-      "time": "2026-05-18 20:18:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "【鋁加工行業訂單爆了 海外鋁訂單湧來】今年以來，鋁加工行業呈現出產銷兩旺的火熱態勢。記者在四川等地走訪發現，鋁板帶箔、鋁線材等產品迎來了旺盛的訂單需求，鋁加工企業的生產車間裡也是一片繁忙景象。一家生產新能源電池的鋁箔坯料和食品包裝雙零箔的企業，訂單比去年大幅增長，目前13條鋁箔鑄軋產線都處於滿產狀態；線材、管材類鋁加工企業訂單也在增長，有企業每天生產的產品當天就會有運輸車拉走，幾乎處於0庫存。記者注意到，為了應對持續增長的新能源及高階製造需求，多家鋁加工企業已經開啟了新一輪的產能擴張。業內人士表示，中東局勢衝突也加劇了全球鋁產業鏈的不確定性，導致海外部分鋁廠減產、供應收緊。相比之下，國內鋁產業鏈展現出極強的韌性與穩定性，有效承接了海外轉移的訂單需求。資料顯示，2026年1-4月，我國未鍛軋鋁及鋁材累計出口205.3萬噸，同比增加8.9%。 (央視財經)"
-    },
-    {
-      "id": "4885956",
-      "time": "2026-05-18 20:17:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息： Keybanc將英偉達的目標股價從每股275美元上調至每股300美元。"
-    },
-    {
-      "id": "4885955",
-      "time": "2026-05-18 20:17:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列方面訊息：一枚炸彈無人機在與黎巴嫩的邊界以色列一側墜毀，未啟動警報。"
-    },
-    {
-      "id": "te:markets:551592",
-      "time": "2026-05-18 20:16:58",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Crude Near $102 — Brent crude futures eased toward $102 on Monday, after rising above $111 per barrel earlier in the session after Iranian media reported that the US had proposed a temporary waiver on oil sanctions until a final agreement is reached. However, the geopolitical situation in the Middle East remains highly uncertain, with the Strait of Hormuz still largely shut and the Trump administration continuing to blockade Iranian ports. US President Trump posted on social media that “For Iran, the Clock is Ticking, and they better get moving, FAST, or there won’t be anything left of them. TIME IS OF THE ESSENCE!” Meanwhile, Tehran stated on Monday that it is continuing dialogue with the US via Pakistan. Over the weekend, energy infrastructure across the Persian Gulf was also targeted, including a nuclear facility in the United Arab Emirates, further heightening concerns over regional stability."
     }
   ]
 }
