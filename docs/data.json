@@ -1,7 +1,54 @@
 {
-  "updated": "2026-05-25 20:05:15",
-  "count": 16119,
+  "updated": "2026-05-25 20:09:07",
+  "count": 16113,
   "items": [
+    {
+      "id": "4898795",
+      "time": "2026-05-25 20:08:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗從未要求、也不曾謀求美國承認其對霍爾木茲海峽擁有合法主權。"
+    },
+    {
+      "id": "mkt:019e5f08-1887-711d-be5b-ce7d594fe67b",
+      "time": "2026-05-25 20:06:45",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【India Gas-Fired Output Plunges To Six-Year Low After Iran Conflict Cuts Fuel Shipments; Peak Demand Hits 270.8 GW】Iran Conflict Disrupts Fuel Shipments, India Gas-Fired Generation Falls To ~3.6 Bln kWh Apr 1–May 21, Lowest In ≥6 Years; Output ~2/3 Of Last Year Same Period, ~1/2 Of 2024 Same Period; Heat Wave Drives Peak Demand To 270.8 GW (4 Days Rising); Solar Meets Daytime Demand, Night Supply Shortfall Persists"
+    },
+    {
+      "id": "4898794",
+      "time": "2026-05-25 20:06:25",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【風華高科：股價異常波動 未與英偉達直接合作】風華高科公告稱，公司股票2026年5月21日、22日、25日連續3個交易日收盤價格漲幅偏離值累計超20%，屬異常波動。經核查，公司未與英偉達直接開展業務合作；MLCC產品營收佔整體約40%，高階MLCC產品營收佔整體約15%。因國際局勢等因素，若原材料價格攀升或供應趨緊，公司將面臨成本上行壓力。公司提醒投資者理性投資，注意風險。"
+    },
+    {
+      "id": "4898793",
+      "time": "2026-05-25 20:05:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【之江生物埃博拉病毒核酸檢測試劑盒獲非洲官方推薦】據之江生物訊息，5月22日，非洲疾病預防控制中心（Africa CDC）公佈首批針對本迪布焦型埃博拉病毒的RT-PCR分子檢測產品推薦名單，之江生物埃博拉病毒核酸檢測試劑盒入選。此次全球範圍內僅有三款產品透過評審獲得推薦。之江生物是全國唯一、全球唯二獲得WHO與非洲CDC雙認可的企業。之江生物埃博拉核酸檢測試劑盒已獲得WHO緊急使用清單認證，檢測下限達23.9複製/反應，已完成血清、血漿樣本臨床驗證。經非洲CDC診斷諮詢委員會評審認可，該產品適用於此次本迪布焦型埃博拉疫情的檢測，可滿足非洲疫區一線快速診斷需求。"
+    },
+    {
+      "id": "4898792",
+      "time": "2026-05-25 20:05:09",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【大摩：AI正引爆亞洲5.5萬億美元能源投資超級週期】摩根士丹利在研報中指出，人工智慧（AI）時代正在把“能源安全”從傳統宏觀議題，升級為未來十年全球最重要的資本開支主線之一。該行認為，亞洲正在進入一輪規模超過5.5萬億美元的能源投資超級週期，而AI資料中心、電力短缺、地緣政治和供應鏈重構，將共同推動能源行業重新進入黃金時代。"
+    },
     {
       "id": "4898791",
       "time": "2026-05-25 20:03:35",
@@ -144270,99 +144317,6 @@
         "其他"
       ],
       "text": "市場訊息：加利利高地地區傳出爆炸聲。"
-    },
-    {
-      "id": "te:markets:551589",
-      "time": "2026-05-18 20:08:55",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Lithium Eases from 2-Year High — Lithium carbonate prices in China were at CNY 191,000 per tonne, easing from the over two-year high of CNY 200,500 from May 13th as the surge in prices drove producers to restart mining activity. Mineral Resources will restart its Bald Hill lithium mine following an 18-month suspension, partially making up for lower output elsewhere. Zimbabwe had announced export quotas for lithium concentrates and a full export ban to start next year. Africa's top producer stated exports would be allowed for processed lithium to stimulate the investment in local processing. On the demand front, New data in top consumer China showed that new energy vehicles output, the top source of lithium demand due to their batteries, rose by 5.5% annually to 1.32 million units, while sales rose by 9.7% to 1.34 million units. Demand also remained supported by Chinese investment in power infrastructure, recently consolidated with Beijing stating it would double national EV charging capacity to 180 gigawatts by 2027."
-    },
-    {
-      "id": "4885939",
-      "time": "2026-05-18 20:08:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "【富嶺股份：持股5%以上股東擬減持不超3%股份】富嶺股份公告稱，持股10.92%的股東穀風投資有限公司，計劃自公告披露之日起15個交易日後的3個月內（即2026年6月9日至9月8日），透過集中競價和大宗交易方式減持不超17,679,600股，即不超總股本的3%。其中，集中競價不超5,893,200股（1%），大宗交易不超11,786,400股（2%）。本次減持因自身資金需求，減持計劃實施存在不確定性。"
-    },
-    {
-      "id": "4885938",
-      "time": "2026-05-18 20:08:06",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "博瑞生物醫藥（蘇州）股份有限公司向港交所提交上市申請書，獨家保薦人為華泰國際。"
-    },
-    {
-      "id": "4885937",
-      "time": "2026-05-18 20:07:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：斯泰蘭蒂斯與埃森哲將啟動戰略合作伙伴關係，攜手英偉達共同推動人工智慧驅動的工業生產。"
-    },
-    {
-      "id": "4885935",
-      "time": "2026-05-18 20:07:07",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根士丹利：將英偉達(NVDA.O)目標股價從260美元上調至285美元，新架構的推進和投入成本上升可能帶來毛利率壓力，但強勁的供應可見性和持續的AI需求動能將對此形成對沖。"
-    },
-    {
-      "id": "4885934",
-      "time": "2026-05-18 20:06:55",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【合肥城建：公司在國聯基金中的份額較小，不對國聯基金的投資決策產生重大影響】合肥城建釋出異動公告，公司股票交易價格連續3個交易日收盤價格漲幅偏離值累計超過20%。根據《深圳證券交易所股票交易規則》相關規定，屬於股票交易異常波動的情況。公司近期關注到網路媒體存在大量將公司與長鑫科技關聯的報道與傳聞，如“公司作為長鑫儲存直接加間接大股東”等。公司於2023年9月28日召開第七屆董事會第四十六次會議和第七屆監事會第三十三次會議，審議透過了《關於投資參與合肥市國資國企創新發展基金暨關聯交易的議案》。2024年4月，國聯基金實繳資金總計66,020萬元，其中，公司及全資子公司工業科技總計實繳6,000萬元，實繳佔比約9.09%，公司在國聯基金中的份額較小，不對國聯基金的投資決策產生重大影響；國聯基金透過產投壹號間接投資長鑫科技4.5億元，公司間接投資產投壹號的比例較低，間接投資金額較小。公司目前主營業務為地產開發與銷售，不涉及半導體、晶片及儲存等相關領域，短期內也無轉型計劃。"
-    },
-    {
-      "id": "4885933",
-      "time": "2026-05-18 20:06:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴基斯坦總理：對在伊斯蘭堡舉行美伊新一輪會談感到樂觀。"
-    },
-    {
-      "id": "4885932",
-      "time": "2026-05-18 20:06:10",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根士丹利：目前預計在AI資料中心需求以及Blackwell和Rubin產品週期的推動下，英偉達(NVDA.O)的業績增長將加快。"
-    },
-    {
-      "id": "4885931",
-      "time": "2026-05-18 20:06:07",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根士丹利：預計英偉達(NVDA.O)將再次迎來一個“超預期並上調指引”的季度，預計營收比預期高出約30億美元，業績指引上調40億美元。"
-    },
-    {
-      "id": "4885930",
-      "time": "2026-05-18 20:05:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【匯通能源：擬轉讓全資子公司綠都商業100%股權】匯通能源公告，公司擬轉讓其全資子公司鄭州綠都商業管理有限公司100%股權。按照綠都商業的全部權益評估值2394.85萬元減去擬分紅金額1852.7萬元後的金額542.15萬元作為總交易對價。本次交易完成後，鄭州綠坤置業有限公司持有綠都商業85%股權，鄭州綠鑫置業有限公司持有綠都商業15%股權。公司不再持有綠都商業的股權，綠都商業將不再納入公司合併報表範圍。"
-    },
-    {
-      "id": "4885929",
-      "time": "2026-05-18 20:05:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "聯黎部隊：'聯黎部隊維和人員繼續支援南部被迫離家的家庭，無論是在任務區內還是區外，向有需要的人提供食品、水、衛生包和其他必需物資。"
     }
   ]
 }
