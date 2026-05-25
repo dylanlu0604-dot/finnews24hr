@@ -1,7 +1,101 @@
 {
-  "updated": "2026-05-25 19:33:32",
-  "count": 16123,
+  "updated": "2026-05-25 19:37:33",
+  "count": 16128,
   "items": [
+    {
+      "id": "te:markets:553458",
+      "time": "2026-05-25 19:36:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Prices Fall Sharply — Brent crude futures tumbled nearly 6% to below $98 a barrel on Monday, as optimism grew that the US and Iran could soon reach an agreement to end the conflict and reopen the Strait of Hormuz. Still, uncertainty remains high, with officials on both sides signaling that key issues are yet to be resolved and continuing to send mixed messages on the progress of negotiations. US President Trump said that “the deal with Iran will either be a great and meaningful one, or there will be no deal,” while an Iranian Foreign Ministry spokesman noted that “a consensus was reached on many of the topics discussed, but no one can claim that the signing of an agreement is imminent”. Despite the lingering uncertainty, ship-tracking data indicated a gradual easing in regional disruptions, with three liquefied natural gas tankers recently passing through the Strait of Hormuz en route to Pakistan, China, and India."
+    },
+    {
+      "id": "4898748",
+      "time": "2026-05-25 19:35:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華鼎股份：為子公司提供7701萬元融資擔保】華鼎股份公告稱，為滿足全資子公司浙江亞特新材料有限公司經營發展需要，公司就其銀行授信事項與中國銀行義烏市分行簽署《最高額保證合同》，以連帶責任保證方式提供最高額7701萬元的保證擔保，擔保期限為2026年5月25日起至2028年5月25日。本次擔保在年度擔保授權額度內，無需另行審議。截至公告披露日，公司對控股子公司實際擔保餘額25750萬元，佔2025年度經審計淨資產的6.38%，無逾期擔保情況。"
+    },
+    {
+      "id": "4898747",
+      "time": "2026-05-25 19:35:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "世衛組織總幹事：疫情發現滯後，如今只能倉促追趕防控進度。"
+    },
+    {
+      "id": "4898746",
+      "time": "2026-05-25 19:35:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【開普檢測：大股東、董事長姚致清減持3%公司股份】開普檢測公告稱，大股東、董事長姚致清因個人資金需求，於2026年3月5日至5月22日透過集中競價和大宗交易合計減持312萬股，佔公司總股本的3%，減持計劃實施完成。減持後，姚致清持股降至1328.12萬股，佔總股本12.77%。本次減持符合相關規定，未違反承諾，不會導致公司控制權變更，不影響公司治理結構及持續經營。"
+    },
+    {
+      "id": "mkt:019e5eea-9931-711d-be5b-72897fb2f43d",
+      "time": "2026-05-25 19:34:45",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DAX",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "US10Y",
+        "Impact mixed"
+      ],
+      "text": "Germany 10Y Bund Yield Falls To 2.943%; Lowest Since Apr 8, -9bps"
+    },
+    {
+      "id": "mkt:019e5eea-4df8-711d-be5b-6f73289765db",
+      "time": "2026-05-25 19:34:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "WHO Director-General TEDROS: Suspected Ebola Deaths Hit 220"
+    },
+    {
+      "id": "4898745",
+      "time": "2026-05-25 19:34:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【步長製藥：擬0.75-1.50億元回購股份用於激勵等用途】步長製藥公告稱，公司擬以0.75-1.50億元回購股份，回購價格不超21元/股，預計回購357.14-714.29萬股，佔總股本0.34%-0.68%。資金來源為自有資金（不低於10%）及金融機構回購專項借款（不超90%），已獲民生銀行菏澤分行1億元貸款承諾。回購股份擬用於股權激勵、員工持股計劃、轉換可轉債。回購期限自董事會審議透過起不超12個月。相關主體暫無減持計劃，本次回購不會對公司產生重大不利影響，但存在多種實施風險。"
+    },
+    {
+      "id": "4898744",
+      "time": "2026-05-25 19:34:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "世衛組織總幹事：本輪埃博拉疫情疑似死亡病例達220例。"
+    },
+    {
+      "id": "te:markets:553457",
+      "time": "2026-05-25 19:33:27",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Stocks in Italy Hit All-time High — IT40 increased to an all-time high of 50114.00 Index Points. Over the past 4 weeks, Italy Stock Market Index (IT40) gained 5.04%, and in the last 12 months, it increased 25.23%."
+    },
+    {
+      "id": "4898743",
+      "time": "2026-05-25 19:33:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "德國10年期國債收益率跌至4月8日以來低點2.943%，當日累計下跌9個基點。"
+    },
     {
       "id": "4898742",
       "time": "2026-05-25 19:32:35",
@@ -144348,47 +144442,6 @@
         "公司"
       ],
       "text": "【力量鑽石：多名股東擬減持公司股份】力量鑽石公告，商丘匯力金剛石科技服務中心（有限合夥）擬自披露後15個交易日屆滿起3個月內以集中競價減持不超54000股，佔0.02%；董事張存升、陳傳勳擬分別減持不超27.9萬股、36000股，分別佔0.11%、0.01%；高管周智華、王曉君擬分別減持不超22.5萬股、72000股，分別佔0.09%、0.03%。本次合計擬減持66.6萬股，佔0.26%，減持價不低於發行價。"
-    },
-    {
-      "id": "4885872",
-      "time": "2026-05-18 19:36:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "【分析人士：夏季高需求加重供應壓力 全球能源危機或進一步加深】在中東衝突持續的背景下，分析人士警告，全球能源市場可能迎來新一輪壓力測試，其造成的影響正從大宗商品市場，逐步傳導到普通消費者身上。隨著夏季即將到來，空調的用電需求以及假日的出行需求將進一步加重包括原油、汽油、柴油和航空燃油等供應壓力，全球的能源危機可能會步入新的階段。 (央視財經)"
-    },
-    {
-      "id": "4885871",
-      "time": "2026-05-18 19:36:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "【農業農村部、工業和資訊化部聯合召開農機裝備補短板暨加快丘陵山區農業機械化工作推進會】5月18日，農業農村部、工業和資訊化部在浙江省永康市聯合召開農機裝備補短板暨加快丘陵山區農業機械化工作推進會。會議指出，要深刻認識加快推進丘陵山區農業機械化的重要性和緊迫性，堅持需求牽引、問題導向，堅持智慧化、綠色化方向，加力研發攻關，加強機藝融合，加快中試熟化和推廣應用，不斷壯大農機社會化服務組織和隊伍，推動丘陵山區農機加快“填空補短”、迭代升級，加快提升丘陵山區農作物綜合機械化水平。會議強調，要加強優質企業和產業叢集培育，強化企業創新主體地位，深化產業鏈上下游協同攻關，突出產業化導向，加快研製一批丘陵山區適用農機裝備標誌性產品。要重視中試熟化，突出抓好規模化熟化應用，佈局建設一批農機中試驗證平臺和熟化應用試驗場，加強農機鑑定與中試熟化的協同，縮短農機定型量產週期。要充分發揮各級農機鑑定推廣機構作用，推動鑑定推廣機構全程參與農機研發中試熟化。要深入實施“優機優補”，嚴控產品質量，加快丘陵山區在用裝備持續最佳化。要加強組織領導、強化工作協同、加大政策支援，努力形成破解丘陵山區農業機械化難題合力。(工信微報)"
-    },
-    {
-      "id": "4885870",
-      "time": "2026-05-18 19:36:00",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "NextEra Energy Inc. 同意以約 670 億美元的股票收購 Dominion Energy Inc.，這是有史以來規模最大的電力收購案，打造了一個從佛羅里達州延伸到弗吉尼亞州資料中心聚集區的巨型公用事業公司。該交易將使 NextEra 成為美國部分地區（該地區正努力滿足新建人工智慧設施帶來的電力需求激增）的主導公用事業公司。"
-    },
-    {
-      "id": "4885869",
-      "time": "2026-05-18 19:35:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "黎巴嫩總統：我的責任是盡一切可能，儘量以更低的成本來阻止戰爭對我的人民和國家的影響。黎巴嫩的談判框架包括以色列撤軍、停火、軍隊在邊界的部署、難民的迴歸以及對黎巴嫩的經濟或財政援助。"
-    },
-    {
-      "id": "4885868",
-      "time": "2026-05-18 19:33:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "波士頓科學向MiRus投資15億美元，並獲得收購其心臟瓣膜業務的選擇權。"
     }
   ]
 }
