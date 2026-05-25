@@ -1,7 +1,67 @@
 {
-  "updated": "2026-05-25 13:12:56",
+  "updated": "2026-05-25 13:16:53",
   "count": 16251,
   "items": [
+    {
+      "id": "4897975",
+      "time": "2026-05-25 13:15:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美銀：下調力拓及必和必拓評級至“中性”，指其估值偏高】美銀將力拓和必和必拓的評級由“買入”下調至“中性”，理由是估值偏高以及中東衝突加劇所帶來的宏觀風險上升；維持目標價分別為每股69澳元和每股9300便士不變，指出當前的風險回報比已不足以支撐看漲立場。"
+    },
+    {
+      "id": "te:economy:553332",
+      "time": "2026-05-25 13:15:24",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Finland",
+        "Producer Prices Change",
+        "Importance 1"
+      ],
+      "text": "Finland Producer Prices Rise the Most Since 2023 — Producer prices in Finland rose by 4.6% year-on-year in April 2026 from 2.6% in the previous month. The latest figure marked the highest reading since February 2023, mainly due to higher prices in manufactured products (4.7% vs 3.5% in March), particularly in wearing apparel (2.6% vs 1.7%), rubber and plastic products (1.1% vs 0.8%), electrical equipment (3.7% vs 3%), furniture (4.2% vs 3.8%), and other manufactured goods (0.9% vs 0.8%). Additionally, costs increased in mining and quarrying (9.3% vs 8%) and water supply, sewerage, waste management, and remediation services (6.6% vs 4.5%), while prices recovered sharply in electricity, gas, steam, and air-conditioning supply (1% vs -8.3%). On a monthly basis, producer prices grew by 1.2% in April, rebounding from a 1.4% drop in the preceding period."
+    },
+    {
+      "id": "te:markets:553331",
+      "time": "2026-05-25 13:15:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Swedish Krona Increases by 0.87% — Top currency gainers are Swedish Krona (0.87%), Australian Dollar (0.56%), South Korean Won (0.55%), British Pound (0.39%), Euro (0.35%) and Japanese Yen (0.21%). Biggest loser is Dollar Index (-0.25%)."
+    },
+    {
+      "id": "4897974",
+      "time": "2026-05-25 13:14:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "【綠的諧波股價創歷史新高】綠的諧波盤中股價創歷史新高，現漲4.91%，報358.80元，總市值為632.67億元。"
+    },
+    {
+      "id": "mkt:019e5d8e-3d4f-711d-be56-b2246897fc33",
+      "time": "2026-05-25 13:14:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "688981.SS",
+        "Impact bullish"
+      ],
+      "text": "SMIC surges nearly 18%, hits record high of 155 yuan per share"
+    },
+    {
+      "id": "4897973",
+      "time": "2026-05-25 13:14:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "民航機場板塊盤中震盪走強，華夏航空漲停，中國東航、春秋航空、南方航空、吉祥航空、中國國航漲幅靠前。"
+    },
     {
       "id": "4897972",
       "time": "2026-05-25 13:11:57",
@@ -145533,65 +145593,6 @@
         "國際"
       ],
       "text": "印度5年期隔夜指數互換利率升至6.90%，創下2023年10月9日以來的最高水平。"
-    },
-    {
-      "id": "4884982",
-      "time": "2026-05-18 13:16:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網正式測定：05月18日13時09分在新疆阿克蘇地區庫車市（北緯41.37度，東經83.92度）發生4.1級地震，震源深度15千米。"
-    },
-    {
-      "id": "4884981",
-      "time": "2026-05-18 13:15:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家統計局：我國高技術產品受到國內外市場廣泛歡迎】國家統計局新聞發言人、總經濟師、國民經濟綜合統計司司長付凌暉5月18日在國新辦新聞釋出會上表示，我國高技術產品憑藉高品質和高價效比，受到了國內外市場的廣泛歡迎。從國內市場看，智慧、綠色、健康等新型消費需求加速釋放，一季度重點平臺監測情況顯示，智慧眼鏡銷售額成倍增長，一級能效洗衣機、智慧血糖儀銷售額增長均超過20%。數字消費和線下場景加速融合，無人機配送城市加速落地。國際市場方面，1-4月份，我國高技術產品的出口額同比增長27.6%，明顯快於全部出口額，佔出口總額的比重達到了27.9%。以電動汽車、鋰電池、太陽能電池為代表的“新三樣”產品出口高速增長。"
-    },
-    {
-      "id": "te:markets:551450",
-      "time": "2026-05-18 13:15:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: South Korean Won Drops by 0.42% — Top currency losers are South Korean Won (-0.42%), Australian Dollar (-0.34%), Japanese Yen (-0.16%), British Pound (-0.07%) and Euro (-0.06%). Gains are led by Brazilian Real (0.37%). Meanwhile Dollar Index was little changed."
-    },
-    {
-      "id": "4884980",
-      "time": "2026-05-18 13:13:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "【融通基金楊泠楓： 算力進入稀缺時代 供需缺口催生三大投資主線】近期，以光模組、國產算力為代表的科技賽道再度成為資金焦點。融通科技臻選基金經理楊泠楓認為，人工智慧（AI）大模型應用場景的持續拓寬正帶動Token消耗量大幅攀升，行業算力供給已進入偏緊格局。AI產業鏈的高景氣具備堅實的產業基礎，其成長邏輯清晰可見。在他看來，AI產業包含算力、模型（演算法）與應用三個緊密關聯的環節。從產業端觀察，AI目前仍處於投入期，算力需求旺盛，而應用的落地與業績兌現節奏已是歷史最快。楊泠楓分析道，模型廠商早期在訓練算力上的投入較高，後續投入增長相對穩健。隨著AI滲透率快速提升，推理算力呈現指數級增長。根據英偉達測算，2024年推理算力需求佔總算力需求的比例已達40%，預計2025年推理算力將正式超過訓練算力。"
-    },
-    {
-      "id": "mkt:019e3980-c446-7dd6-8893-b4b6b609584a",
-      "time": "2026-05-18 13:13:20",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "Treasury Yields",
-        "DXY",
-        "Impact bullish",
-        "USDJPY",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "U.S. TREASURY YIELDS RISE ACROSS THE BOARD IN ASIAN TRADE - TRADEWEB DATA U.S. TWO-YEAR TREASURY YIELD RISES TO 4.103%, HIGHEST SINCE FEBRUARY 2025 U.S. 10-YEAR TREASURY YIELD RISES TO 4.631%, HIGHEST SINCE JANUARY 2025 U.S. 30-YEAR YIELD RISES TO 5.159%, HIGHEST SINCE MAY 2025"
-    },
-    {
-      "id": "4884979",
-      "time": "2026-05-18 13:13:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【融通基金楊泠楓： 算力進入稀缺時代 供需缺口催生三大投資主線】近期，以光模組、國產算力為代表的科技賽道再度成為資金焦點。融通科技臻選基金經理楊泠楓認為，人工智慧（AI）大模型應用場景的持續拓寬正帶動Token消耗量大幅攀升，行業算力供給已進入偏緊格局。AI產業鏈的高景氣具備堅實的產業基礎，其成長邏輯清晰可見。在他看來，AI產業包含算力、模型（演算法）與應用三個緊密關聯的環節。從產業端觀察，AI目前仍處於投入期，算力需求旺盛，而應用的落地與業績兌現節奏已是歷史最快。楊泠楓分析道，模型廠商早期在訓練算力上的投入較高，後續投入增長相對穩健。隨著AI滲透率快速提升，推理算力呈現指數級增長。根據英偉達測算，2024年推理算力需求佔總算力需求的比例已達40%，預計2025年推理算力將正式超過訓練算力。"
     }
   ]
 }
