@@ -1,7 +1,116 @@
 {
-  "updated": "2026-05-25 08:00:00",
-  "count": 16465,
+  "updated": "2026-05-25 08:03:44",
+  "count": 16468,
   "items": [
+    {
+      "id": "4897557",
+      "time": "2026-05-25 08:02:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "鎧俠股價上漲3.2%；標普將其評級上調至投資級。"
+    },
+    {
+      "id": "4897556",
+      "time": "2026-05-25 08:01:23",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日經指數開盤上漲0.5%，報63658.95點，汽車、電子板塊個股領漲。韓國股市今日休市。"
+    },
+    {
+      "id": "te:markets:553227",
+      "time": "2026-05-25 08:01:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Stocks in Japan Hit All-time High — JP225 increased to an all-time high of 64040.00 Index Points. Over the past 4 weeks, Japan Stock Market Index (JP225) gained 4.63%, and in the last 12 months, it increased 68.76%."
+    },
+    {
+      "id": "4897555",
+      "time": "2026-05-25 08:00:59",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本10年期國債收益率下跌3個基點，至2.730%。"
+    },
+    {
+      "id": "mkt:019e5c6f-48c3-7882-93e8-caa714e92bf4",
+      "time": "2026-05-25 08:00:57",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Singapore | GDP (YoY) (Q1) | actual 6% | consensus 5.1% | previous 4.60%"
+    },
+    {
+      "id": "mkt:019e5c6f-264c-7882-93e8-c15c73955438",
+      "time": "2026-05-25 08:00:48",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Singapore | GDP (QoQ) (Q1) | actual 1% | consensus 0.1% | previous -0.30%"
+    },
+    {
+      "id": "te:markets:553226",
+      "time": "2026-05-25 08:00:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Australian Dollar Gains Ground — The Australian dollar strengthened to above $0.71 on Monday, reaching a one-week high as global risk sentiment improved after the US and Iran moved closer to a deal. The proposed agreement would reopen the Strait of Hormuz, bring an end to the hostilities, unfreeze some Iranian assets, and pave the way for further negotiations aimed at limiting Tehran’s nuclear program. Still, President Trump said Washington would maintain its blockade of the Strait of Hormuz until an agreement is finalized and he wouldn’t “rush” into a deal. In Australia, expectations of further monetary tightening by the Reserve Bank weakened after a surprise rise in the jobless rate. The unemployment rate unexpectedly rose to 4.5% in April from 4.3% in March, the highest level in about four and a half years. The probability of a rate hike at the next meeting dropped to just 3%, from 13% following the release, according to financial market pricing provided by Westpac."
+    },
+    {
+      "id": "te:economy:553225",
+      "time": "2026-05-25 08:00:21",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Australia 10Y Bond Yield Hits 6-week Low — Australia 10 Year Government Bond Yield decreased to 4.89%, the lowest since April 2026. Over the past 4 weeks, Australia 10Y Bond Yield lost 12.00 basis points, and in the last 12 months, it increased 43.60 basis points."
+    },
+    {
+      "id": "4897554",
+      "time": "2026-05-25 08:00:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "新加坡第一季度GDP同比增長6.0%，預估5.2%。"
+    },
+    {
+      "id": "4897553",
+      "time": "2026-05-25 08:00:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "新加坡第一季度GDP環比增長1.0%，預估為0.2%。"
+    },
+    {
+      "id": "te:markets:553224",
+      "time": "2026-05-25 08:00:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Gasoline Hits 4-week Low — Gasoline decreased to 3.31 USD/Gal, the lowest since April 2026. Over the past 4 weeks, Gasoline lost 1.7%, and in the last 12 months, it increased 56.68%."
+    },
     {
       "id": "4897552",
       "time": "2026-05-25 07:58:46",
@@ -147613,80 +147722,6 @@
         "公司"
       ],
       "text": "埃利奧特增持生命科學工具供應商BIO-RAD股份。"
-    },
-    {
-      "id": "4884411",
-      "time": "2026-05-18 08:03:27",
-      "tags": [
-        "市場"
-      ],
-      "text": "【全球最大的白銀ETF iShares Silver Trust持倉量較前日持平】截至2026年05月15日，全球最大的白銀ETF iShares Silver Trust持倉量為15222.81噸，較前一個交易日持平。"
-    },
-    {
-      "id": "te:markets:551344",
-      "time": "2026-05-18 08:03:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Silver Holds Decline on Inflation Worries — Silver traded below $77 an ounce on Monday after plunging more than 13% over the previous two sessions, as growing signs that the Middle East-driven energy price shock is spilling over into broader inflation trends reinforced expectations for tighter central bank policy. The metal also faced pressure from a stronger US dollar and rising Treasury yields after hotter-than-expected US inflation data prompted investors to rule out any Federal Reserve rate cuts this year, while also increasing bets that policymakers could still deliver a rate hike before year-end. Further weighing on sentiment, UBS strategists sharply lowered their full-year silver investment demand forecast to 300 million ounces from more than 400 million ounces, citing softer industrial demand and rising mine supply. The bank also projected the global silver market deficit to narrow significantly to around 60–70 million ounces, compared with an earlier estimate of roughly 300 million ounces."
-    },
-    {
-      "id": "4884410",
-      "time": "2026-05-18 08:02:58",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數（KOSPI）下跌2%，至7342.22。"
-    },
-    {
-      "id": "4884408",
-      "time": "2026-05-18 08:01:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "【公安部公佈10起非法破解無人機飛行控制系統違法犯罪典型案例】近年來，一些人員非法破解無人機飛行控制系統，解除無人機禁飛區、限飛區、飛行高度等安全限制，實施“黑飛”行為時有發生，嚴重擾亂空中秩序，給公共安全和國家安全帶來潛在風險隱患。公安機關網安部門圍繞無人機“黑飛”行為，特別是對非法破解無人機飛行控制系統的駭客行為，始終保持嚴打高壓態勢，全面遏制非法活動蔓延。今日，公安部公佈10起非法破解無人機飛行控制系統違法犯罪典型案例。私自為無人機所有者提供解除禁飛區域、限高等限制服務，逃避安全監管，屬違法犯罪行為。解除限高的無人機侵入民航航線航路，易發生碰撞造成嚴重後果；解除飛行區域限制的無人機飛入軍事管理區等禁飛區域，可能洩露國家秘密；改變載重等出廠效能引數的無人機在飛行過程中極易發生失控墜落，將直接侵害人民群眾生命財產安全。空域不是法外之地，飛行不能隨心所欲！公安機關將持續依法嚴厲打擊非法破解無人機飛行控制系統和實施“黑飛”等違規違法行為。"
-    },
-    {
-      "id": "4884407",
-      "time": "2026-05-18 08:01:34",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "鎧俠控股股票暫未交易，預計將上漲；公司第一季度營業利潤預測超出市場預期。"
-    },
-    {
-      "id": "4884406",
-      "time": "2026-05-18 08:00:39",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數（KOSPI）開盤下跌0.7%，至7443.29點。"
-    },
-    {
-      "id": "4884405",
-      "time": "2026-05-18 08:00:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經225指數上午開盤報61299.87點，跌幅0.18%。"
-    },
-    {
-      "id": "te:markets:551343",
-      "time": "2026-05-18 08:00:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "currency",
-        "Importance 1"
-      ],
-      "text": "Dollar Index Hits 5-week High — DXY increased to 99.35, the highest since April 2026. Over the past 4 weeks, Dollar Index gained 1.24%, and in the last 12 months, it decreased 1.49%."
     }
   ]
 }
