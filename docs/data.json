@@ -1,7 +1,18 @@
 {
-  "updated": "2026-05-26 06:14:27",
-  "count": 15576,
+  "updated": "2026-05-26 06:18:33",
+  "count": 15575,
   "items": [
+    {
+      "id": "te:markets:553514",
+      "time": "2026-05-26 06:15:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Swedish Krona Rises by 0.96% — Top currency gainers are Swedish Krona (0.96%), Brazilian Real (0.63%), Australian Dollar (0.60%), British Pound (0.52%), Euro (0.33%) and Japanese Yen (0.17%). Biggest losers are Turkish Lira (-0.43%) and Dollar Index (-0.25%)."
+    },
     {
       "id": "4899149",
       "time": "2026-05-26 06:05:04",
@@ -139334,25 +139345,6 @@
         "其他"
       ],
       "text": "五角大樓首席發言人肖恩·帕內爾表示，第二批不明飛行物相關檔案正加緊整理，預計很快對外公佈。"
-    },
-    {
-      "id": "4886659",
-      "time": "2026-05-19 06:16:12",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經期貨報61595點，現貨收盤報60815點。"
-    },
-    {
-      "id": "te:markets:551701",
-      "time": "2026-05-19 06:15:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: Brazilian Real Rises by 1.68% — Top currency gainers are Brazilian Real (1.68%), British Pound (0.80%), Norwegian Krone (0.74%) and Euro (0.29%). Biggest loser is Dollar Index (-0.33%). Meanwhile Japanese Yen was little changed."
     }
   ]
 }
