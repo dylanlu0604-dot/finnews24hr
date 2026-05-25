@@ -1,7 +1,51 @@
 {
-  "updated": "2026-05-25 10:07:24",
-  "count": 16333,
+  "updated": "2026-05-25 10:11:16",
+  "count": 16323,
   "items": [
+    {
+      "id": "mkt:019e5ce5-8f31-7882-93e9-b1434609adc8",
+      "time": "2026-05-25 10:10:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "TAIWAN STOCKS EXTEND GAINS TO MORE THAN 3%"
+    },
+    {
+      "id": "4897744",
+      "time": "2026-05-25 10:09:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：華爾街量化巨頭簡街或將尋求新加坡途徑解決與印度的稅務糾紛。"
+    },
+    {
+      "id": "4897743",
+      "time": "2026-05-25 10:08:56",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內跌6%，現報3872.00元。"
+    },
+    {
+      "id": "4897742",
+      "time": "2026-05-25 10:08:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【“華為具身大腦一號位”帶隊創業 具腦磐石完成新一輪融資】近日，具腦磐石完成新一輪億元級融資，本輪融資由具備深厚類腦與具身產業背景的頂尖產業資本領投，老股東及多家頂尖基金復投和跟投，多維資本擔任獨家財務顧問。同時，另一輪新融資也在同步交割中。公司由“華為具身大腦一號位”朱森華創立並擔任CEO，他長期從事 AI與腦認知交叉研究，曾任華為雲AI演算法創新Lab主任、在華為體系內主導類腦智慧與具身智慧相關AI架構設計和系統級專案落地。"
+    },
+    {
+      "id": "4897741",
+      "time": "2026-05-25 10:08:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【六維力感測器企業藍點觸控再獲億元融資，上汽金控、尚頎資本領投】近日國內六維力感測器企業藍點觸控完成C++輪數億元人民幣融資。六維力感測器是機器人的重要零部件之一，為其提供力覺反饋，實現精密裝配、柔順控制與穩定行走等智慧互動能力。本輪融資由上汽金控、尚頎資本領投，由中芯聚源、正大機器人以及厚為資本跟投。據瞭解，此次融資距上一輪C+輪融資僅一個月，藍點觸控半年完成了三輪億元級融資，股東陣容目前包括紅杉中國、寧德時代旗下溥泉資本、智元機器人、銀河通用、上汽系資本、中芯產業資本等。（第一財經）"
+    },
     {
       "id": "4897740",
       "time": "2026-05-25 10:06:44",
@@ -146231,146 +146275,6 @@
         "LI.O"
       ],
       "text": "HANG SENG TECH INDEX WEAKENS, FALLS OVER 2%; LI AUTO DROPS OVER 10% TO LEAD DECLINERS. HANG SENG INDEX DOWN 1.37%"
-    },
-    {
-      "id": "4884693",
-      "time": "2026-05-18 10:11:11",
-      "tags": [],
-      "text": "恒生科技指數跌超2％，理想汽車跌超10％領跌成分股，恒指現跌1.3％。"
-    },
-    {
-      "id": "4884692",
-      "time": "2026-05-18 10:10:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【五糧液：著力將五糧液1618、39度五糧液和五糧春打造成百億級大單品】5月18日，五糧液(000858)召開2026年第一次臨時股東會，五糧液副董事長、總經理華濤表示，公司將立足長線思維，積極推動消費主權下的營銷破局，聚焦核心品牌、做強核心單品，不斷提升市場動銷和市場份額。五糧液將在持續鞏固核心大單品第八代五糧液千元價位段領軍地位的同時，著力將五糧液1618、39度五糧液和五糧春打造成百億級大單品。"
-    },
-    {
-      "id": "4884691",
-      "time": "2026-05-18 10:10:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本內閣官房長官木原稔：日美領導人通話重申了堅定的聯盟關係。"
-    },
-    {
-      "id": "mkt:019e38d9-7a87-7dd6-8891-fb2c56ca8f71",
-      "time": "2026-05-18 10:10:37",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "CHINA'S APRIL OIL THROUGHPUT HIT THE LOWEST LEVEL SINCE AUGUST 2022"
-    },
-    {
-      "id": "4884690",
-      "time": "2026-05-18 10:09:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家統計局：4月份，規上工業原油產量1794萬噸，同比增長1.2%】4月份，規模以上工業（以下簡稱規上工業）原煤生產保持較高水平，原油、電力生產增速加快，天然氣生產平穩增長。 原煤生產保持較高水平。4月份，規上工業原煤產量3.9億噸，同比下降1.0%，3月份為同比持平；日均產量1285萬噸。 1—4月份，規上工業原煤產量15.8億噸，同比下降0.1%。 原油生產增速加快。4月份，規上工業原油產量1794萬噸，同比增長1.2%，增速比3月份加快1.0個百分點；日均產量59.8萬噸。 1—4月份，規上工業原油產量7274萬噸，同比增長1.3%。 原油加工降幅擴大。4月份，規上工業原油加工量5465萬噸，同比下降5.8%，降幅比3月份擴大3.6個百分點；日均加工量182.2萬噸。 1—4月份，規上工業原油加工量23895萬噸，同比下降0.5%。 規上工業電力生產增速加快。4月份，規上工業發電量7440億千瓦時，同比增長2.6%，增速比3月份加快1.2個百分點；日均發電248.0億千瓦時。1—4月份，規上工業發電量31237億千瓦時，同比增長3.3%。"
-    },
-    {
-      "id": "4884689",
-      "time": "2026-05-18 10:09:53",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "PTA連續主力合約日內漲2%，現報6510.00元。"
-    },
-    {
-      "id": "te:economy:551386",
-      "time": "2026-05-18 10:09:43",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Kyrgyzstan",
-        "Industrial Production",
-        "Importance 1"
-      ],
-      "text": "Kyrgyzstan Industrial Output Expands at Softer Pace — Industrial production in Kyrgyzstan rose 16.8% year-on-year in April 2026, easing slightly from 17.4% in the previous month. Manufacturing growth softened (20.7% vs. 22.3% in March), mainly due to slower output in basic metals (15.2% vs. 22.2%) and rubber and plastics products (12.1% vs. 19.2%). Growth in mining and quarrying also moderated (7% vs. 10.2%). Meanwhile, output rebounded for electricity, gas, steam, and air conditioning supply (3.6% vs. -4.1%), while water supply growth accelerated (9.5% vs. 7.3%). In the first four months of the year, industrial activity expanded 14.7%, slightly higher than the 14.2% growth recorded in the same period a year earlier."
-    },
-    {
-      "id": "te:economy:551385",
-      "time": "2026-05-18 10:09:41",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "China",
-        "Retail Sales YoY",
-        "Importance 2"
-      ],
-      "text": "China Retail Sales Growth Hits Over 4-Year Low — China’s retail sales rose 0.2% year-on-year in April 2026, broadly slowing from a 1.7% increase in March, and well below market expectations of a 2% gain. This marks the slowest growth since a decline in December 2022.The slowdown was driven by broad weakness in big-ticket purchases, with automobile sales plunging 15.3%, while home appliances (-15.1%), building materials (-13.8%), and furniture (-10.4%) also posted steep declines."
-    },
-    {
-      "id": "mkt:019e38d8-7321-7dd6-8891-f75b66e8212c",
-      "time": "2026-05-18 10:09:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China Urban Jobless Rate Averaged 5.3% in Jan–Apr】China’s urban surveyed unemployment rate averaged 5.3% in the first four months of 2026, the National Bureau of Statistics said. In April, the rate stood at 5.2%, down 0.2 percentage point from March. Local household-registered unemployment was 5.3%, while migrant workers’ rate was 5.0%, including 5.0% for rural migrant workers. The jobless rate in 31 major cities was 5.2%, down 0.1 percentage point from the prior month. Average weekly working hours for employed workers stood at 48.0 hours."
-    },
-    {
-      "id": "4884688",
-      "time": "2026-05-18 10:09:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "【智動力成立科技新公司 含貴金屬冶煉業務】 企查查APP顯示，近日，深圳智聖光銦科技有限公司成立，註冊資本1000萬元，經營範圍包含常用有色金屬冶煉；稀有稀土金屬冶煉；貴金屬冶煉；有色金屬鑄造等。企查查股權穿透顯示，該公司由智動力全資持股。"
-    },
-    {
-      "id": "4884687",
-      "time": "2026-05-18 10:08:50",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "恒生科技指數跌超2%，現報4842.110點；恒生指數現跌1.453%。"
-    },
-    {
-      "id": "4884686",
-      "time": "2026-05-18 10:08:34",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "日本電產：公司預計還將終止與斯泰蘭蒂斯的電動汽車電機合資專案。"
-    },
-    {
-      "id": "te:economy:551384",
-      "time": "2026-05-18 10:08:23",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "US 10-Year Yield Hits 16-Month High — The yield on the US 10-year Treasury note climbed to around 4.63% on Monday, reaching its highest level since January 2025 as mounting inflationary pressures tied to the Middle East conflict fueled expectations of a Federal Reserve interest rate hike later this year. In the latest developments, President Donald Trump warned Iran to “get moving” or face consequences after departing China without securing meaningful trade breakthroughs or concrete progress toward ending the conflict and reopening the Strait of Hormuz. The latest US CPI and PPI reports released last week indicated that the energy price shock is feeding into broader US inflation, prompting traders to completely rule out any Federal Reserve rate cuts this year while increasing bets on a potential rate hike before year-end. Investors are now focused on the upcoming FOMC meeting minutes and flash US PMI data for further signals on the direction of monetary policy and the broader economic outlook."
-    },
-    {
-      "id": "4884685",
-      "time": "2026-05-18 10:08:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家統計局：2026年1—4月份全國房地產市場基本情況】1—4月份，全國房地產開發投資23969億元，同比下降13.7%（按可比口徑計算，詳見附註5）；其中，住宅投資18464億元，下降13.1%。 1—4月份，新建商品房銷售面積25258萬平方米，同比下降10.2%，降幅比1—3月份收窄0.2個百分點；其中住宅銷售面積下降12.2%。新建商品房銷售額23000億元，下降14.6%，降幅收窄2.1個百分點；其中住宅銷售額下降15.7%。 1—4月份，房地產開發企業到位資金26697億元，同比下降18.4%。其中，國內貸款4199億元，下降25.9%；自籌資金9838億元，下降10.5%；定金及預收款7975億元，下降17.6%；個人按揭貸款3087億元，下降31.7%。"
-    },
-    {
-      "id": "te:markets:551382",
-      "time": "2026-05-18 10:07:55",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "European Gas Prices Hit Near 6-Week High — European natural gas futures climbed to €51.1 per MWh, their highest in nearly six weeks, amid persistent uncertainty surrounding the Strait of Hormuz. US-Iran peace negotiations remain stalled as both sides maintain firm positions, leaving the strait largely closed. President Donald Trump warned Iran of potential consequences if it failed to swiftly reach a deal, saying his patience was growing thin. A drone attack that caused a fire at a UAE nuclear facility over the weekend also reinforced concerns over the fragility of the ceasefire. Meanwhile, Trump and Chinese President Xi both agreed the key waterway should be open but made no concrete progress toward restoring normal shipping conditions. LNG flows to Europe have been disrupted since the conflict began in late February, particularly after hostilities expanded to key production assets in Qatar. This has raised serious concerns for Europe, particularly as the region needs to rebuild gas stocks ahead of winter."
     }
   ]
 }
