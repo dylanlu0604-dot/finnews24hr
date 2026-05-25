@@ -1,7 +1,35 @@
 {
-  "updated": "2026-05-25 13:28:50",
-  "count": 16254,
+  "updated": "2026-05-25 13:32:47",
+  "count": 16250,
   "items": [
+    {
+      "id": "4897992",
+      "time": "2026-05-25 13:31:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "【電力板塊震盪走高，華能蒙電漲停】電力板塊震盪走高，華能蒙電漲停，長源電力、京能電力此前封板，晉控電力、華電遼能、大唐發電、華銀電力、建投能源等跟漲。"
+    },
+    {
+      "id": "4897991",
+      "time": "2026-05-25 13:30:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海已試行計程車限制名單措施】從上海市交通委獲悉，為壓實企業主體責任、強化行業自律約束、提升樞紐場站服務質量，經場站管理單位、行業協會、出租汽車企業共同商定，建立樞紐場站限制名單機制。上海浦東國際機場、虹橋國際機場、鐵路上海虹橋站已試行樞紐場站限制名單措施。在上述樞紐場站開展運營的巡遊計程車及駕駛員涉及拒載、議價、中途拋客、計價器舞弊、違規獲取短途快捷通道資格等行為被納入限制名單。首次違規，限制其車輛及駕駛員進入樞紐場站3個月；第二次違規，限制期延長至6個月；第三次違規，將永久禁止進入上述樞紐場站開展運營。"
+    },
+    {
+      "id": "te:markets:553334",
+      "time": "2026-05-25 13:29:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Fragile Sentiment Keeps Rupiah Under Pressure — The Indonesian rupiah hovered around IDR 17,720 per U.S. dollar on Monday, extending losses for a third session despite the dollar index easing from six-week highs. Hopes for a U.S.–Iran deal tempered oil-driven inflation risks and reduced expectations of further Fed hikes, weighing on the safe-haven dollar. Sentiment toward Indonesian assets stayed precarious amid persistent global headwinds, including rising U.S. yields, elevated crude prices, and unabating capital outflows. Pressure also lingered after the current account deficit in Q1 2026 widened to its deepest level in over six years, underscoring external balance concerns. Markets largely dismissed Finance Minister Purbaya Yudhi’s remarks that the rupiah could strengthen sharply to around IDR 15,000 under new rules requiring resource exporters to retain proceeds in local banks for 12 months. Year-to-date, the rupiah has fallen about 6.1% against the dollar, ranking among Asia’s worst performers alongside the Indian rupee."
+    },
     {
       "id": "4897990",
       "time": "2026-05-25 13:26:34",
@@ -145567,68 +145595,6 @@
         "國際"
       ],
       "text": "【世界鉑金投資協會：伊朗局勢使第一季鉑金市場供過於求，為六個季度以來首見】世界鉑金投資協會(WPIC)表示，受伊朗戰爭影響，第一季鉑金市場出現了六季度以來的首次過剩，原因是投資需求下降，且高企的能源價格增加了通脹和利率上升的可能性。在2025年暴漲127%之後，現貨鉑金於今年1月觸及每金衡盎司2,919美元的紀錄高位。隨後，隨著黃金領漲的行情勢頭減弱，加之2月底中東衝突爆發，投資者為應對保證金追繳而拋售貴金屬，鉑金價格回落至約2,000美元。第一季鉑金市場錄得26.8萬盎司過剩，較2025年同期65.8萬盎司缺口形成對比。需求同比下降31%至150萬盎司，因淨投資流出達22.5萬盎司，以及汽車和珠寶消費走弱所致。"
-    },
-    {
-      "id": "4885002",
-      "time": "2026-05-18 13:31:12",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "低硫燃料油連續主力合約日內漲8%，現報5341.00元。"
-    },
-    {
-      "id": "4885001",
-      "time": "2026-05-18 13:31:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "【內塔尼亞胡再次要求取消涉貪腐案聽證會】總檯記者當地時間5月18日獲悉，以色列總理內塔尼亞胡的律師已向法院提出申請，要求取消當天的涉腐敗案聽證會出庭。該聽證會原定於當天上午9時30分開始，內塔尼亞胡的律師以“外交和安全原因”為由要求取消，這種情況在此前已多次發生。截至目前，該案法官尚未就是否接受該請求作出裁決。（央視新聞）"
-    },
-    {
-      "id": "mkt:019e3990-9d4d-7dd6-8893-c86b01ea69e2",
-      "time": "2026-05-18 13:30:39",
-      "tags": [
-        "MKT News",
-        "MAERSK-B.CO",
-        "Impact bullish"
-      ],
-      "text": "MAERSK: CITIGROUP RAISES TARGET PRICE TO DKK 16,444 FROM DKK 15,350"
-    },
-    {
-      "id": "4885000",
-      "time": "2026-05-18 13:30:06",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "花旗集團將馬士基目標股價從15350丹麥克朗上調至16440丹麥克朗。"
-    },
-    {
-      "id": "4884999",
-      "time": "2026-05-18 13:29:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【數字認證：公司產品和服務在體育彩票等領域已有應用】數字認證在互動平臺表示，公司產品和服務在體育彩票等領域已有應用。"
-    },
-    {
-      "id": "4884998",
-      "time": "2026-05-18 13:29:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿斯利康與羅氏診斷亞太區達成合作，共同助力加速構建乳腺肺癌先進病理領域的可持續生態體系。"
-    },
-    {
-      "id": "mkt:019e398f-a63b-7dd6-8893-c2fde5eb8ab4",
-      "time": "2026-05-18 13:29:35",
-      "tags": [
-        "MKT News",
-        "005930.KS",
-        "Impact bullish"
-      ],
-      "text": "【Samsung Strike in Doubt After Court Ruling】A South Korean court has granted Samsung Electronics an injunction restricting planned industrial action, ruling that staffing levels for safety, maintenance and product quality must remain normal during a proposed 18-day strike set to begin Thursday. The Suwon District Court also barred unions from blocking facilities or obstructing workers, with fines of up to Won100mn per day for violations. The decision weakens the strike threat and comes as Samsung held last-minute talks with unions, amid government warnings that a walkout could severely damage the economy. Workers are demanding an end to bonus caps and a profit-linked bonus system. Samsung shares rose more than 4% following the ruling and have more than doubled this year."
     }
   ]
 }
