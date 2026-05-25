@@ -1,7 +1,15 @@
 {
-  "updated": "2026-05-26 03:57:19",
-  "count": 15691,
+  "updated": "2026-05-26 04:01:20",
+  "count": 15681,
   "items": [
+    {
+      "id": "4899108",
+      "time": "2026-05-26 03:58:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄外長告知美方對烏打擊計劃】俄羅斯外交部網站25日釋出通告說，俄外交部長拉夫羅夫當天同美國國務卿魯比奧通電話，按照俄總統普京指示，向美方告知，俄方開始對烏克蘭首都基輔的軍事設施發起系統性打擊。拉夫羅夫表示，為回應烏方持續襲擊俄方平民和民用設施，俄軍正在對位於基輔、服務於烏克蘭武裝部隊的設施進行系統性和持續性打擊。他提醒美方注意俄外交部當天發表的宣告，建議美方外交人員及其公民從基輔撤離。通告還說，雙方就霍爾木茲海峽、古巴局勢交換意見。此外，雙方均表示要加大力度，促進彼此外交使團工作正常化。（新華社）"
+    },
     {
       "id": "4899107",
       "time": "2026-05-26 03:50:02",
@@ -140284,123 +140292,6 @@
         "公司"
       ],
       "text": "【多重動因致城投公司頻繁終止評級合作】近日，武漢高科官宣終止與中誠信國際、中證鵬元、大公國際三家機構的評級合作，這一舉措並非個例。證券時報記者根據Wind資料梳理，截至5月11日，2026年以來已有182家公司終止評級機構的評級服務。其中，多數系因債券到期，評級隨之終止；但亦有不少公司在債務承壓、經營承壓等因素影響下，主動選擇終止評級。在主動終止評級的公司中，城投公司的身影頻頻出現。（證券時報）"
-    },
-    {
-      "id": "mkt:019e3cad-865c-7dd6-889f-bf04680fdc46",
-      "time": "2026-05-19 04:01:02",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "CHINA'S U.S. TREASURY SECURITIES HOLDINGS 652 BLN DLRS IN MARCH VS 693 BLN IN FEB"
-    },
-    {
-      "id": "mkt:019e3cad-8604-7dd6-889f-b4a9252b8310",
-      "time": "2026-05-19 04:01:00",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US10Y",
-        "Impact bearish",
-        "USDJPY",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "JAPAN'S U.S. TREASURY HOLDINGS 1.192 TRLN DLRS IN MARCH VS 1.239 TRLN IN FEB"
-    },
-    {
-      "id": "mkt:019e3cad-8161-7dd6-889f-ab208c68c88c",
-      "time": "2026-05-19 04:00:47",
-      "tags": [
-        "MKT News",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "UNITED KINGDOM'S U.S. TREASURY HOLDINGS 927 BLN DLRS IN MARCH VS 897 BLN IN FEB"
-    },
-    {
-      "id": "4886539",
-      "time": "2026-05-19 04:00:45",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股收盤：三大股指集體漲跌不一】道指漲0.32%，標普500指數跌0.07%，納指跌0.53%。再生元製藥跌9.87%，Lumentum Holdings Inc. Common Stock When Issued跌8.83%，VRT跌8.41%，高知特漲9.93%，道明尼資源漲9.43%。“七姐妹”方面：微軟漲0.39%，亞馬遜漲0.25%，谷歌跌0.06%，Meta Platforms跌0.48%，蘋果跌0.81%，英偉達跌1.35%，特斯拉跌2.90%。"
-    },
-    {
-      "id": "mkt:019e3cad-3e63-7dd6-889f-a22bf710955d",
-      "time": "2026-05-19 04:00:17",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "Dow",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "Nasdaq100"
-      ],
-      "text": "DOW CLOSED +0.32%, S&P500 -0.07%, NASDAQ -0.51%"
-    },
-    {
-      "id": "4886538",
-      "time": "2026-05-19 04:00:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【納斯達克中國金龍指數收跌0.75%】小牛電動跌15.14%，搜狐跌10.23%，理想汽車跌9.83%，再鼎醫藥跌8.33%，中比能源跌6.14%。"
-    },
-    {
-      "id": "mkt:019e3cac-9809-7dd6-889f-9bf4a1ab0843",
-      "time": "2026-05-19 04:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Net Foreign Purchases of Treasury Securities (Mar) | actual 13500000000B | previous 2000000000B"
-    },
-    {
-      "id": "mkt:019e3cac-9800-7dd6-889f-973c8001ba76",
-      "time": "2026-05-19 04:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Net LongTerm TIC Flows (Mar) | actual 81300000000B | previous 58600000000B"
-    },
-    {
-      "id": "mkt:019e3cac-889a-7dd6-889f-8f8e3ba878d2",
-      "time": "2026-05-19 04:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Net LongTerm International Capital Flows (Mar) | actual 150700000000B | previous 184500000000B"
-    },
-    {
-      "id": "4886537",
-      "time": "2026-05-19 03:59:43",
-      "tags": [
-        "市場"
-      ],
-      "text": "貝克休斯股價隨成交量放量上漲，最新上漲3.2%。"
-    },
-    {
-      "id": "4886536",
-      "time": "2026-05-19 03:58:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國證券交易委員會表示，其已撤銷一項關於執法行動中拒絕和解的政策。"
     }
   ]
 }
