@@ -1,7 +1,26 @@
 {
-  "updated": "2026-05-26 02:14:57",
-  "count": 15805,
+  "updated": "2026-05-26 02:18:49",
+  "count": 15801,
   "items": [
+    {
+      "id": "4899089",
+      "time": "2026-05-26 02:18:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列北部靠近黎巴嫩邊境一帶遭遇無人機襲擊，目前暫無人員死亡報告。"
+    },
+    {
+      "id": "te:markets:553505",
+      "time": "2026-05-26 02:15:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Brent Crude Oil Plunges by 6.76% — Top commodity losers are Brent Crude Oil (-6.76%), Natural Gas EU (-6.47%) and Crude Oil WTI (-6.47%). Gains are led by Coking Coal (4.66%)."
+    },
     {
       "id": "4899088",
       "time": "2026-05-26 02:11:26",
@@ -141401,63 +141420,6 @@
         "國際"
       ],
       "text": "【美國宣佈對古巴實施新一輪制裁】當地時間18日，美國財政部宣佈對古巴實施新一輪制裁。（央視新聞）"
-    },
-    {
-      "id": "4886444",
-      "time": "2026-05-19 02:18:20",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國國務院批准擬向比利時出售 AGM-184 聯合攻擊導彈及相關配套裝備，預估交易金額 2.36 億美元。"
-    },
-    {
-      "id": "mkt:019e3c4f-60a7-7dd6-889e-52f360d909be",
-      "time": "2026-05-19 02:18:15",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "U.S. STATE DEPARTMENT APPROVES POSSIBLE SALE TO BELGIUM FOR ITS PURCHASE OF FOR AGM- 184 JOINT STRIKE MISSILES AND RELATED EQUIPMENT FOR AN ESTIMATED COST OF $236 MILLION"
-    },
-    {
-      "id": "4886443",
-      "time": "2026-05-19 02:17:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI 代理律師就其與馬斯克訴訟案表態，己方立場信心十足，即便對方提起上訴也毫不畏懼。"
-    },
-    {
-      "id": "mkt:019e3c4e-317d-7dd6-889e-491130c616a9",
-      "time": "2026-05-19 02:16:57",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "OPENAI ATTORNEY ON OPENAI-MUSK TRIAL: VERY, VERY CONFIDENT IN OUR POSITION, SHOULD THERE BE AN APPEAL- CNBC INTERVIEW"
-    },
-    {
-      "id": "4886442",
-      "time": "2026-05-19 02:16:21",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國財政部：將古巴能源部長納入制裁名單。"
-    },
-    {
-      "id": "te:markets:551686",
-      "time": "2026-05-19 02:15:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Crude Oil WTI Gains by 2.34% — Top commodity gainers are Crude Oil WTI (2.34%), Natural gas (2.32%) and Brent Crude Oil (2.01%). Biggest loser is Coking Coal (-0.63%)."
     }
   ]
 }
