@@ -1,7 +1,27 @@
 {
-  "updated": "2026-05-26 06:38:52",
-  "count": 15586,
+  "updated": "2026-05-26 06:42:56",
+  "count": 15587,
   "items": [
+    {
+      "id": "te:markets:553517",
+      "time": "2026-05-26 06:40:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Orange Juice Falls by 2.71% — Top commodity losers are Orange Juice (-2.71%), Rapeseed (-2.14%) and Canola (-1.82%). Gains are led by Cocoa (0.58%)."
+    },
+    {
+      "id": "4899161",
+      "time": "2026-05-26 06:38:37",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【多家半導體上市公司，披露重要股東減持計劃】近期，多家半導體行業上市公司釋出重要股東減持計劃，引發市場關注。以中微公司為代表的部分上市公司公告，多位重要股東擬減持公司股份。Wind資料顯示，截至5月25日收盤，Wind半導體指數報8636.24點，年內累計漲幅達到62.1%，5月以來累計漲幅達到27.87%。（中證報）"
+    },
     {
       "id": "4899160",
       "time": "2026-05-26 06:38:03",
@@ -139442,17 +139462,6 @@
         "公司"
       ],
       "text": "英特爾執行長談及14A晶片時表示，將在2028年實現量產，2029年進入大規模量產。"
-    },
-    {
-      "id": "te:markets:551704",
-      "time": "2026-05-19 06:40:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Cocoa Slumps by 5.84% — Top commodity losers are Cocoa (-5.84%) and Orange Juice (-5.07%). Gains are led by Corn (4.66%), Wheat (4.52%) and Cotton (4.20%)."
     }
   ]
 }
