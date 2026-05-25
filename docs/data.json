@@ -1,7 +1,65 @@
 {
-  "updated": "2026-05-25 09:59:40",
-  "count": 16383,
+  "updated": "2026-05-25 10:03:31",
+  "count": 16343,
   "items": [
+    {
+      "id": "4897736",
+      "time": "2026-05-25 10:02:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "【算力租賃概念震盪調整 三人行、恆為科技雙雙跌停】算力租賃概念盤中震盪下挫，三人行、恆為科技雙雙跌停，行雲科技一度跌超19%，中貝通訊、揚電科技、優刻得、奧瑞德、宏景科技跟跌。"
+    },
+    {
+      "id": "4897735",
+      "time": "2026-05-25 10:02:04",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國務院國資委舉辦中央企業新材料領域青年科技領軍人才特訓班】日前，國務院國資委舉辦中央企業新材料領域青年科技領軍人才特訓班，國務院國資委黨委委員、副主任譚作鈞出席開班式並講話。譚作鈞強調，要深入學習貫徹習近平總書記關於新材料產業發展的重要指示批示精神，貫徹落實黨中央、國務院決策部署，切實增強責任感緊迫感，加快推動適應AI的組織進步，加快培養一批懂專業、通AI、有前瞻、善創新的複合型人才。要緊扣國家重大戰略需求，突出AI賦能，透過24天跨專業、跨單位、跨領域的學習交流研討，全方位構建新材料產業的完整知識體系和能力結構，在把握新材料產業重點發展方向上有新認知，在推動底層技術和原始創新上有新突破，在提升跨領域協同創新上有新進展，特別是在重構基於AI的新材料研發體系上有新思考，切實推動AI體系嵌入材料設計、製備、驗證、應用全過程。本次特訓班是國務院國資委2026年戰略性新興產業和未來產業急需緊缺人才特訓的第2個班，由中國石油、中國石化、中國鋼研、中國建材承辦，邀請11名院士在內的46名頂尖專家授課，40家企業的159名學員參訓。國務院國資委有關廳局負責同志、有關中央企業分管負責同志參加開班式。"
+    },
+    {
+      "id": "4897734",
+      "time": "2026-05-25 10:01:40",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼股市基準指數上漲1%至6222.91點。"
+    },
+    {
+      "id": "4897733",
+      "time": "2026-05-25 10:01:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中國與俄羅斯簽署反壟斷執法和競爭政策領域諒解備忘錄】5月20日，國家市場監督管理總局局長羅文與俄羅斯聯邦反壟斷局局長馬克西姆·沙斯科利斯基簽署《中華人民共和國國家市場監督管理總局與俄羅斯聯邦反壟斷局諒解備忘錄（2026—2027）》。 該備忘錄旨在落實中俄政府間反壟斷執法和競爭政策領域合作協定，約定了雙方交流反壟斷和反不正當競爭、廣告領域資訊，開展具體案件執法交流協作與邊境合作等，以促進兩國經濟健康有序發展。"
+    },
+    {
+      "id": "4897732",
+      "time": "2026-05-25 10:00:33",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "30年期日本政府債券（JGB）收益率<JP30YTN=JBTC>下跌5.5個基點，至3.955%。"
+    },
+    {
+      "id": "4897731",
+      "time": "2026-05-25 10:00:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國海油等成立油田開發新公司】企查查APP顯示，近日，中海油（錦州）油田開發有限公司成立，經營範圍包含：海洋石油開採；海洋天然氣開採；深海海底區域資源勘探開發；海洋工程關鍵配套系統開發等。企查查股權穿透顯示，該公司由中國海油全資子公司中海石油（中國）有限公司等共同持股。"
+    },
+    {
+      "id": "4897730",
+      "time": "2026-05-25 09:59:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【最高法作出決定命名全國100個“楓橋式人民法庭”】為了樹立堅持和發展新時代“楓橋經驗”的示範標杆，進一步激發內生動力，推動人民法庭全面建設再上新臺階，經全面建立、逐級推薦、評估驗收和社會公示，最高人民法院決定，命名北京市朝陽區人民法院亞運村人民法庭等100個人民法庭為首批“楓橋式人民法庭”。（央視新聞）"
+    },
     {
       "id": "4897729",
       "time": "2026-05-25 09:58:23",
@@ -146404,483 +146462,6 @@
         "中國"
       ],
       "text": "【國家統計局：1—4月份全國房地產開發投資23969億元 同比下降13.7%】據國家統計局資料，1—4月份，全國房地產開發投資23969億元，同比下降13.7%（按可比口徑計算）；其中，住宅投資18464億元，下降13.1%。1—4月份，房地產開發企業房屋施工面積545116萬平方米，同比下降12.1%。其中，住宅施工面積378005萬平方米，下降12.5%。房屋新開工面積13900萬平方米，下降22.0%。其中，住宅新開工面積10057萬平方米，下降23.6%。房屋竣工面積11886萬平方米，下降24.0%。其中，住宅竣工面積8473萬平方米，下降25.8%。"
-    },
-    {
-      "id": "4884677",
-      "time": "2026-05-18 10:03:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國法院作出禁令：工會行動不得導致生產原料品質下降。"
-    },
-    {
-      "id": "mkt:019e38d2-ce7e-7663-82fe-e8e9f57fd542",
-      "time": "2026-05-18 10:03:12",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "China | Retail Sales (MoM) (Apr) | actual -0.48% | previous 0.14%"
-    },
-    {
-      "id": "te:economy:551380",
-      "time": "2026-05-18 10:03:10",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "China",
-        "Industrial Production",
-        "Importance 3"
-      ],
-      "text": "China Industrial Output Growth Lowest Since 2023 — China’s industrial production expanded 4.1% year-on-year in April 2026, slowing from a 5.7% rise in March and below market expectations of 5.9%. It marked the softest growth in industrial production since July 2023, as fallout from the Iran war dampened momentum in China’s economy."
-    },
-    {
-      "id": "te:markets:551379",
-      "time": "2026-05-18 10:03:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Yen Extends Decline to Sixth Straight Session — The Japanese yen weakened toward 159 per dollar on Monday, marking its sixth consecutive session of losses as the US dollar continued to strengthen amid rising expectations that the Federal Reserve may need to raise interest rates this year to contain inflation. US inflation accelerated due to an energy price shock stemming from the Middle East conflict, with the US and Iran still failing to secure a peace agreement or make progress toward reopening the Strait of Hormuz. The yen is also edging closer to the key 160-per-dollar threshold that previously triggered intervention by Tokyo authorities in late April to support the currency. Market participants remain alert for another possible intervention, especially after some Japanese officials suggested there are no limits on how frequently authorities can step into the foreign exchange market. Adding to the focus, US Treasury Secretary Scott Bessent expressed support for Japan’s recent efforts to stabilize the yen."
-    },
-    {
-      "id": "mkt:019e38d2-cab7-7663-82fe-e2660fd21543",
-      "time": "2026-05-18 10:02:58",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "CHINA JAN-APRIL POWER GENERATION UP 3.3% ON YR AT 3.12 TRLN KWH - STATS BUREAU CHINA APRIL POWER GENERATION FROM INDUSTRIAL ENTERPRISES ABOVE THE DESIGNATED SIZE UP 2.6% ON YR AT 744.0 BLN KWH - STATS BUREAU"
-    },
-    {
-      "id": "em:jjsj_zgsj:202605183740037536",
-      "time": "2026-05-18 10:02:58",
-      "tags": [
-        "經濟數據",
-        "中國"
-      ],
-      "text": "【國家統計局：4月份規上工業原煤產量3.9億噸 同比下降1.0%】國家統計局資料顯示，原煤生產保持較高水平。4月份，規上工業原煤產量3.9億噸，同比下降1.0%，3月份為同比持平；日均產量1285萬噸。1—4月份，規上工業原煤產量15.8億噸，同比下降0.1%。"
-    },
-    {
-      "id": "4884676",
-      "time": "2026-05-18 10:02:54",
-      "tags": [
-        "市場"
-      ],
-      "text": "【煤炭開採加工板塊短線拉昇，遼寧能源漲停】煤炭開採加工板塊短線拉昇，遼寧能源漲停，鄭州煤電、兗礦能源、蘭花科創、晉控煤業、昊華能源等跟漲。相關ETF方面，煤炭ETF國泰（515220）成交額2.6億元。"
-    },
-    {
-      "id": "mkt:019e38d2-92eb-7663-82fe-db70c2713c1a",
-      "time": "2026-05-18 10:02:52",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "CHINA JAN-APRIL NATURAL GAS PRODUCTION UP 2.7 % ON YEAR AT 90.0 BCM – STATS BUREAU CHINA APRIL NATURAL GAS PRODUCTION UP 1.9 % ON YEAR AT 21.9 BCM – STATS BUREAU"
-    },
-    {
-      "id": "mkt:019e38d2-737f-7663-82fe-d09e9ebf6499",
-      "time": "2026-05-18 10:02:41",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "CHINA JAN-APRIL CRUDE OIL RUNS DOWN 0.5% ON YR AT 238.95 MLN METRIC TONS - STATS BUREAU"
-    },
-    {
-      "id": "mkt:019e38d2-5bcc-7663-82fe-cb2989417125",
-      "time": "2026-05-18 10:02:37",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "CHINA JAN-APRIL CRUDE OIL OUTPUT UP 1.3 % ON YEAR AT 72.74 MILLION METRIC TONS – STATS BUREAU"
-    },
-    {
-      "id": "mkt:019e38d2-5b16-7663-82fe-c55760b0cee2",
-      "time": "2026-05-18 10:02:34",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "CHINA APRIL CRUDE OIL RUNS DOWN 5.8% ON YR AT 54.65 MLN METRIC TONS - STATS BUREAU"
-    },
-    {
-      "id": "4884675",
-      "time": "2026-05-18 10:02:32",
-      "tags": [
-        "市場"
-      ],
-      "text": "【“港股輕工業全品類機器人第一股”翼菲科技盤中漲超90%】“港股輕工業全品類機器人第一股”翼菲科技盤中漲超90%，現報55.65港元。"
-    },
-    {
-      "id": "mkt:019e38d2-13b4-7663-82fe-bf11aa4c87da",
-      "time": "2026-05-18 10:02:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CHINA APRIL CRUDE OIL OUTPUT UP 1.2 % ON YEAR AT 17.94 MILLION METRIC TONS – STATS BUREAU"
-    },
-    {
-      "id": "mkt:019e38d2-12c0-7663-82fe-b2929f095ae3",
-      "time": "2026-05-18 10:02:24",
-      "tags": [
-        "MKT News",
-        "CNH",
-        "Impact bullish",
-        "Copper",
-        "CSI300"
-      ],
-      "text": "CHINA APRIL INDUSTRIAL OUTPUT UP 4.1% Y/Y"
-    },
-    {
-      "id": "mkt:019e38d2-0da0-7663-82fe-a983764f2099",
-      "time": "2026-05-18 10:02:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CHINA APRIL CRUDE STEEL OUTPUT DOWN 2.8% ON YR AT 83.63 MLN METRIC TONS - STATS BUREAU"
-    },
-    {
-      "id": "4884674",
-      "time": "2026-05-18 10:02:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "印尼基準股指日內跌幅擴大至1.4%。"
-    },
-    {
-      "id": "mkt:019e38d1-f75e-7663-82fe-a541b6edc064",
-      "time": "2026-05-18 10:02:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CHINA JAN-APRIL ALUMINIUM PRODUCTION UP 3.5 % ON YEAR TO 15.33 MLN METRIC TONS – STATS BUREAU"
-    },
-    {
-      "id": "mkt:019e38d1-cd11-7663-82fe-9da34d0e0945",
-      "time": "2026-05-18 10:02:12",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "China | Industrial Output (MoM) (Apr) | actual 0.05% | previous 0.28%"
-    },
-    {
-      "id": "4884673",
-      "time": "2026-05-18 10:02:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "國家統計局：總的來看，1—4月份國民經濟保持穩中有進發展態勢，高質量發展紮實推進。但也要看到，外部形勢複雜多變，國內供強需弱仍較突出，部分企業經營困難，經濟穩中向好的基礎還需鞏固。下階段，要堅持以習近平新時代中國特色社會主義思想為指導，堅持穩中求進工作總基調，完整準確全面貫徹新發展理念，加快構建新發展格局，精準有效實施更加積極的財政政策和適度寬鬆的貨幣政策，持續擴大內需、最佳化供給，做優增量、盤活存量，增強經濟發展內生動力，進一步做強國內大迴圈，做優國內國際雙迴圈，促進經濟持續健康發展。"
-    },
-    {
-      "id": "mkt:019e38d1-cb7e-7663-82fe-956493fdf3c4",
-      "time": "2026-05-18 10:02:03",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Copper",
-        "Impact bearish"
-      ],
-      "text": "CHINA APRIL ALUMINIUM PRODUCTION UP 3.1 % ON YEAR TO 3.87 MLN METRIC TONS – STATS BUREAU CHINA JAN-APRIL COAL OUTPUT DOWN 0.1 % ON YEAR AT 1.58 BILLION METRIC TONS – STATS BUREAU CHINA JAN-APRIL NONFERROUS OUTPUT UP 3.3 % AT 27.45 MILLION METRIC TONS – STATS BUREAU"
-    },
-    {
-      "id": "4884672",
-      "time": "2026-05-18 10:01:53",
-      "tags": [
-        "資料",
-        "市場"
-      ],
-      "text": "【國家統計局： 居民消費價格溫和回升，工業生產者價格漲幅擴大 】1—4月份，全國居民消費價格（CPI）同比上漲0.9%。分類別看，食品菸酒及在外餐飲價格同比上漲0.2%，衣著價格上漲1.7%，居住價格下降0.2%，生活用品及服務價格上漲2.0%，交通通訊價格上漲0.3%，教育文化娛樂價格上漲1.1%，醫療保健價格上漲1.9%，其他用品及服務價格上漲13.3%。在食品菸酒及在外餐飲價格中，豬肉價格下降12.2%，糧食價格下降0.3%，鮮果價格上漲3.0%，鮮菜價格上漲5.7%。扣除食品和能源價格後的核心CPI同比上漲1.2%。4月份，全國居民消費價格同比上漲1.2%，漲幅比上月擴大0.2個百分點；環比上漲0.3%。 1—4月份，全國工業生產者出廠價格同比上漲0.2%。其中，4月份同比上漲2.8%，漲幅比上月擴大2.3個百分點；環比上漲1.7%。1—4月份，全國工業生產者購進價格同比上漲0.5%。其中，4月份同比上漲3.5%，漲幅比上月擴大2.7個百分點；環比上漲2.1%。"
-    },
-    {
-      "id": "4884670",
-      "time": "2026-05-18 10:01:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家統計局：就業形勢總體穩定，城鎮調查失業率下降 】1—4月份，全國城鎮調查失業率平均值為5.3%。4月份，全國城鎮調查失業率為5.2%，比上月下降0.2個百分點。本地戶籍勞動力調查失業率為5.3%；外來戶籍勞動力調查失業率為5.0%，其中外來農業戶籍勞動力調查失業率為5.0%。31個大城市城鎮調查失業率為5.2%，比上月下降0.1個百分點。全國企業就業人員周平均工作時間為48.0小時。"
-    },
-    {
-      "id": "mkt:019e38d1-ca7f-7663-82fe-8f0edc8cded5",
-      "time": "2026-05-18 10:01:41",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish",
-        "CNH",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "CHINA JAN-APRIL PROPERTY INVESTMENT -13.7% Y/Y"
-    },
-    {
-      "id": "mkt:019e38d1-ca7e-7663-82fe-81fd773d29a9",
-      "time": "2026-05-18 10:01:35",
-      "tags": [
-        "MKT News",
-        "CNH",
-        "Impact bearish",
-        "Copper",
-        "CSI300"
-      ],
-      "text": "CHINA JAN-APR FIXED-ASSET INVESTMENT -1.6% Y/Y"
-    },
-    {
-      "id": "mkt:019e38d1-ca4c-7663-82fe-7ae21d5693ea",
-      "time": "2026-05-18 10:01:29",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish",
-        "Hang Seng Index",
-        "CNH"
-      ],
-      "text": "CHINA JAN-APR FUND RAISED BY CHINESE REAL ESTATE DEVELOPERS -18.4% Y/Y"
-    },
-    {
-      "id": "4884669",
-      "time": "2026-05-18 10:01:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家統計局：貨物進出口較快增長，貿易結構繼續最佳化 】1—4月份，貨物進出口總額162252億元，同比增長14.9%。其中，出口93280億元，增長11.3%；進口68972億元，增長20.0%。一般貿易進出口同比增長8.5%。對共建“一帶一路”國家進出口增長13.5%。民營企業進出口增長15.9%。機電產品出口增長17.6%。4月份，貨物進出口總額43778億元，同比增長14.2%。其中，出口24817億元，增長9.8%；進口18960億元，增長20.6%。"
-    },
-    {
-      "id": "mkt:019e38d1-ca43-7663-82fe-74098ddb9c58",
-      "time": "2026-05-18 10:01:22",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bearish",
-        "Copper",
-        "CSI300"
-      ],
-      "text": "CHINA APRIL RETAIL SALES +0.2 % Y/Y"
-    },
-    {
-      "id": "4884668",
-      "time": "2026-05-18 10:01:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家統計局： 固定資產投資同比下降，高技術產業投資增長較快 】1—4月份，全國固定資產投資（不含農戶）141293億元，同比下降1.6%；扣除房地產開發投資，全國固定資產投資增長1.3%。其中，智慧財產權產品投資同比增長8.9%。分領域看，基礎設施投資同比增長4.3%，製造業投資增長1.2%，房地產開發投資下降13.7%。全國新建商品房銷售面積25258萬平方米，同比下降10.2%；新建商品房銷售額23000億元，下降14.6%。分產業看，第一產業投資同比增長10.1%，第二產業投資增長2.5%，第三產業投資下降4.2%。民間投資同比下降5.2%；扣除房地產開發投資，民間投資下降1.9%。高技術產業投資同比增長6.1%，其中航空、航天器及裝置製造業，計算機及辦公裝置製造業，資訊服務業投資分別增長17.9%、13.9%、18.1%。4月份，固定資產投資（不含農戶）環比下降2.36%。"
-    },
-    {
-      "id": "mkt:019e38d1-ca30-7663-82fe-6ef99e45431a",
-      "time": "2026-05-18 10:01:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CHINA APRIL SURVEY-BASED JOBLESS RATE IN 31 MAJOR CITIES AT 5.2%"
-    },
-    {
-      "id": "mkt:019e38d1-c9d9-7663-82fe-664025ffc892",
-      "time": "2026-05-18 10:01:10",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish",
-        "Hang Seng Index",
-        "Copper"
-      ],
-      "text": "CHINA JAN-APR PROPERTY SALES BY FLOOR AREA -10.2% Y/Y"
-    },
-    {
-      "id": "4884667",
-      "time": "2026-05-18 10:01:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家統計局：市場銷售規模擴大，服務零售增長加快 】1—4月份，社會消費品零售總額164941億元，同比增長1.9％。按經營單位所在地分，城鎮消費品零售額142921億元，同比增長1.8％；鄉村消費品零售額22020億元，增長2.8％。按消費型別分，商品零售額146058億元，增長1.7％；餐飲收入18883億元，增長3.8％。基本生活類和部分升級類商品銷售增長較快，限額以上單位糧油食品類、服裝鞋帽針紡織品類、通訊器材類商品零售額同比分別增長8.6％、8.1％、17.7％。4月份，社會消費品零售總額同比增長0.2％，環比下降0.48％。1—4月份，服務零售額同比增長5.6％，增速比1—3月份加快0.1個百分點。其中，通訊資訊服務類、旅遊諮詢租賃服務類、文體休閒服務類、交通出行服務類零售額較快增長。1—4月份，全國網上商品和服務零售額65308億元，同比增長6.6％。其中，網上商品零售額41185億元，增長5.7％，佔社會消費品零售總額的比重為25.0％；網上服務零售額24123億元，增長8.3％。"
-    },
-    {
-      "id": "4884666",
-      "time": "2026-05-18 10:01:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "國家統計局：總的來看，1—4月份國民經濟保持穩中有進發展態勢，高質量發展紮實推進。但也要看到，外部形勢複雜多變，國內供強需弱仍較突出，部分企業經營困難，經濟穩中向好的基礎還需鞏固。下階段，要堅持以習近平新時代中國特色社會主義思想為指導，堅持穩中求進工作總基調，完整準確全面貫徹新發展理念，加快構建新發展格局，精準有效實施更加積極的財政政策和適度寬鬆的貨幣政策，持續擴大內需、最佳化供給，做優增量、盤活存量，增強經濟發展內生動力，進一步做強國內大迴圈，做優國內國際雙迴圈，促進經濟持續健康發展。"
-    },
-    {
-      "id": "4884665",
-      "time": "2026-05-18 10:00:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "【我國專家牽頭主導！合格評定領域基礎性通用國標釋出】記者今天瞭解到，國際標準化組織合格評定委員會修訂的《合格評定 合格評定用規範性檔案的編寫指南》近日正式釋出。該標準由我國專家牽頭主導，聯合全球46位專家研製，是合格評定領域基礎性通用國際標準。該標準契合首屆全國服務業大會關於強化檢驗檢測認證支撐、推動服務業標準化國際化的要求，在2009版基礎上全面升級，立足五大核心編制原則，覆蓋全領域合格評定物件，實現術語對標、原則完善、結構最佳化，權威性與可操作性顯著增強，為全球合格評定檔案編制提供統一權威指引，將進一步規範檢驗檢測認證機構管理，提升合格評定服務公信力，為國際貿易暢通提供有力支撐，有力推動全球檢驗檢測認證認可機構規範化、專業化、國際化發展。（央視新聞）"
-    },
-    {
-      "id": "mkt:019e38d1-c9ca-7663-82fe-5f109df59702",
-      "time": "2026-05-18 10:00:53",
-      "tags": [
-        "MKT News",
-        "Important",
-        "CSI300",
-        "Impact bearish",
-        "Copper",
-        "CNH"
-      ],
-      "text": "CHINA JAN-APR NEW CONSTRUCTION STARTS -22.0% Y/Y"
-    },
-    {
-      "id": "em:jjsj_zgsj:202605183740035011",
-      "time": "2026-05-18 10:00:52",
-      "tags": [
-        "經濟數據",
-        "中國"
-      ],
-      "text": "【國家統計局：1—4月份國民經濟保持穩中有進發展態勢】1—4月份，全國規模以上工業增加值同比增長5.6%。服務業平穩增長，現代服務業發展向好，1—4月份，全國服務業生產指數同比增長4.9%。市場銷售規模擴大，服務零售增長加快，1—4月份，社會消費品零售總額164941億元，同比增長1.9%。貨物進出口較快增長，貿易結構繼續最佳化，1—4月份，貨物進出口總額162252億元，同比增長14.9%。"
-    },
-    {
-      "id": "4884664",
-      "time": "2026-05-18 10:00:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家統計局：服務業平穩增長，現代服務業發展向好 】1—4月份，全國服務業生產指數同比增長4.9%。分行業看，資訊傳輸、軟體和資訊科技服務業，租賃和商務服務業，金融業生產指數同比分別增長10.9%、9.3%、6.7%。4月份，全國服務業生產指數同比增長4.3%。1—3月份，規模以上服務業企業營業收入同比增長6.5%。4月份，服務業商務活動指數為49.6%；服務業業務活動預期指數為55.4%，比上月上升0.6個百分點。其中，鐵路運輸、郵政、電信廣播電視及衛星傳輸服務等行業商務活動指數位於55.0%以上較高景氣區間。"
-    },
-    {
-      "id": "4884663",
-      "time": "2026-05-18 10:00:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國家統計局：1—4月份國民經濟保持穩中有進發展態勢】1—4月份，全國規模以上工業增加值同比增長5.6%。分三大門類看，採礦業增加值同比增長5.5%，製造業增長5.8%，電力、熱力、燃氣及水生產和供應業增長4.5%。裝備製造業增加值同比增長8.7%，高技術製造業增加值增長12.6%，分別快於全部規模以上工業增加值3.1和7.0個百分點。分經濟型別看，國有控股企業增加值同比增長4.4%；股份制企業增長6.0%，外商及港澳臺投資企業增長3.9%；私營企業增長5.2%。分產品看，3D列印裝置、鋰離子電池、工業機器人產品產量同比分別增長50.9%、36.0%、25.7%。4月份，全國規模以上工業增加值同比增長4.1%，環比增長0.05%。4月份，製造業採購經理指數為50.3%；企業生產經營活動預期指數為54.5%，比上月上升1.1個百分點。1—3月份，全國規模以上工業企業實現利潤總額16960億元，同比增長15.5%。"
-    },
-    {
-      "id": "mkt:019e38d1-7feb-7663-82fe-5478550411aa",
-      "time": "2026-05-18 10:00:27",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bullish",
-        "CSI300",
-        "Impact mixed",
-        "Copper"
-      ],
-      "text": "CHINA JAN-APR PROPERTY INVESTMENT -13.7% Y/Y CHINA JAN-APR INFRASTRUCTURE INVESTMENT +4.3% Y/Y CHINA STATS BUREAU SPOKESPERSON: JANUARY TO APRIL ECONOMY MAINTAIN STEADY UPWARDS MOMENTUM"
-    },
-    {
-      "id": "4884662",
-      "time": "2026-05-18 10:00:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國4月規模以上工業增加值同比 4.1%，預期5.9%，前值5.70%。"
-    },
-    {
-      "id": "4884661",
-      "time": "2026-05-18 10:00:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國4月社會消費品零售總額同比 0.2%，預期2.00%，前值1.70%。"
-    },
-    {
-      "id": "4884660",
-      "time": "2026-05-18 10:00:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "受地震影響 廣西柳州部分道路實施臨時交通管制。"
-    },
-    {
-      "id": "te:markets:551378",
-      "time": "2026-05-18 10:00:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Hong Kong",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Stocks in Hong Kong Hit 5-week Low — HK50 decreased to 25601.00 Index Points, the lowest since April 2026. Over the past 4 weeks, Hong Kong Stock Market Index (HK50) lost 2.78%, and in the last 12 months, it increased 9.84%."
-    },
-    {
-      "id": "mkt:019e38cf-c3ec-7663-82fe-4b7c18caa2f3",
-      "time": "2026-05-18 10:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "China | Urban Survey Unemployment Rate (Apr) | actual 5.2% | consensus 5.30% | previous 5.40%"
-    },
-    {
-      "id": "mkt:019e38cf-c3eb-7663-82fe-473c65e88afc",
-      "time": "2026-05-18 10:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "China | Retail Sales (YoY) (Apr) | actual 0.2% | consensus 2.00% | previous 1.70%"
-    },
-    {
-      "id": "mkt:019e38cf-c349-7663-82fe-343e0092b6fc",
-      "time": "2026-05-18 10:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "China | Fixed Asset Investment YTD (YoY) (Apr) | actual -1.6% | consensus 1.6% | previous 1.70%"
-    },
-    {
-      "id": "mkt:019e38cf-c34c-7663-82fe-3850941e11fb",
-      "time": "2026-05-18 10:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "China | Industrial Output (YoY) (Apr) | actual 4.1% | consensus 5.9% | previous 5.70%"
-    },
-    {
-      "id": "4884659",
-      "time": "2026-05-18 09:59:45",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超1萬億元，較上日此時縮量761億元。"
     }
   ]
 }
