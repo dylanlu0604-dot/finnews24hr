@@ -1,7 +1,27 @@
 {
-  "updated": "2026-05-25 08:11:11",
-  "count": 16463,
+  "updated": "2026-05-25 08:14:55",
+  "count": 16458,
   "items": [
+    {
+      "id": "4897565",
+      "time": "2026-05-25 08:13:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "【新加坡維持2026年GDP增長2.0%至4.0%的預測】新加坡維持了2026年經濟增長預測，該國第一季度經濟表現強於預期，但警告稱中東衝突帶來了日益加劇的風險。週一公佈的修正後資料顯示，今年第一季度國內生產總值(GDP)同比增長6.0%，超出了初步預估值。4月份釋出的初步預估資料顯示，增速為4.6%，慢於第四季度錄得的5.7%的增速。新加坡貿易及工業部(MTI)表示，第一季度GDP的增長得益於批發貿易、製造業以及金融和保險業的強勁表現。該部維持新加坡今年2.0%至4.0%的增長預測。該部曾在2月份將增長預測從1.0%-3.0%上調至2.0%-4.0%。貿易及工業部表示，自那時以來，隨著美-以-伊衝突的爆發，全球經濟前景已經惡化。該部補充稱，霍爾木茲海峽的封鎖導致能源供應以及化肥、鋁等其他關鍵投入品供應受阻，這已引發全球能源及其他投入成本的飆升。經季節性調整後，新加坡第一季度GDP環比增長1.0%，而此前的初步預估為萎縮0.3%，第四季度為環比增長1.3%。"
+    },
+    {
+      "id": "te:economy:553228",
+      "time": "2026-05-25 08:12:42",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Australia 10Y Yield Hits 6-Week Low — Australia’s 10-year government bond yield fell to below 4.9%, hitting a six-week low as optimism over a potential US-Iran deal lowered oil prices and tempered inflation concerns. The proposed agreement would reopen the Strait of Hormuz, end hostilities, release some frozen Iranian assets, and lay the groundwork for additional negotiations aimed at restricting Tehran’s nuclear program. However, President Donald Trump said the US would keep its blockade of the Strait of Hormuz in place until a formal agreement is finalized. In Australia, expectations of further monetary tightening by the Reserve Bank weakened after a surprise rise in the jobless rate. The unemployment rate unexpectedly rose to 4.5% in April from 4.3% in March, the highest level in about four and a half years. The probability of a rate hike at the next meeting dropped to just 3%, from 13%. Pricing for August pared to 40% from 60%. Markets now await key inflation numbers this week for further clues on the policy outlook."
+    },
     {
       "id": "4897564",
       "time": "2026-05-25 08:08:56",
@@ -147619,69 +147639,6 @@
         "國際"
       ],
       "text": "【中信證券：AI對全球宏觀經濟的影響力正在提升】中信證券研報稱，2026年開年以來，AI Agent的規模化部署與Token需求的指數級增長推動全球AI產業鏈進入新一輪擴張週期。核心結論如下：1）AI對美國經濟影響主要體現在絕對體量上的資本開支擴張與資產溢價引發的K型經濟重塑。2）AI對高外向依賴度的韓國經濟影響最大，主要體現為出口與裝置投資雙雙高增，遠高於對日本和中國的影響。3）AI對中國經濟的影響力正在快速提升，主要體現在外貿和工業品價格兩大領域，2025年7月至今中國的“PPI再通脹”程序中AI貢獻卓越，對固定資產投資產生的影響或仍相對有限。"
-    },
-    {
-      "id": "4884429",
-      "time": "2026-05-18 08:14:47",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數（KOSPI）下跌4%，至7190.48點。"
-    },
-    {
-      "id": "te:economy:551345",
-      "time": "2026-05-18 08:14:23",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Japan 10Y Bond Yield Hits Near 29-year High — Japan 10 Year Government Bond Yield increased to 2.78%, the highest since May 1997. Over the past 4 weeks, Japan 10Y Bond Yield gained 30.62 basis points, and in the last 12 months, it increased 121.71 basis points."
-    },
-    {
-      "id": "4884428",
-      "time": "2026-05-18 08:14:22",
-      "tags": [
-        "觀點",
-        "國際"
-      ],
-      "text": "【中信證券：AI+能化預計是今年更合適的結構】中信證券研報稱，此輪結構性行情的資金驅動力主要來源於存量調倉和融資盤流入，TMT成交佔比階段性見頂後，我們估計全A換手率會逐步回落至1.8%以下。特朗普訪華確立了中美關係回到“競爭但不衝突”的框架，不過市場情緒可能是階段性高位，一旦情緒回落，全球流動性收緊預期在投資者決策中的影響權重會開始上升。降溫後，市場結構的多元化特徵料將會有所迴歸，重返槓鈴結構的必要性在增加，預計AI+能化是今年更合適的結構。"
-    },
-    {
-      "id": "4884427",
-      "time": "2026-05-18 08:12:56",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "三星電子股價下跌3%。"
-    },
-    {
-      "id": "4884426",
-      "time": "2026-05-18 08:12:35",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【國金證券：AI應用加速落地，PCB與光纖產業鏈迎結構性高增長】國金證券研報表示，AI應用加速落地，PCB與光纖產業鏈迎結構性高增長。AI伺服器推動PCB向高多層、HDI方向演進，光纖行業受益於資料中心架構升級，超低損耗及特種光纖需求提升。光纖擴產帶動上游四氯化矽需求，當前價格處於歷史低位，有望底部回暖。建議關注具備規模技術優勢的PCB化學品企業及高純四氯化矽產能企業。"
-    },
-    {
-      "id": "4884425",
-      "time": "2026-05-18 08:12:23",
-      "tags": [
-        "資料"
-      ],
-      "text": "【中國銀河證券：中期上行趨勢不變，繼續強調聚焦主線機會】據中國銀河證券研報稱，在A股市場震盪上行、創業板指重新整理歷史新高後，不排除部分資金獲利了結、投資者分歧加大的可能，短期大機率會切換為“震盪消化、慢牛走高、結構牛市”的全新節奏。中期來看，上行趨勢並未改變。這一輪創業板創新高，核心是產業週期與業績兌現雙驅動。這一輪行情最大的特點是高景氣兌現，基本面支撐強。當前A股資金持續從金融、地產、傳統週期等存量低增長行業集中流向高研發、高壁壘、高增量的硬科技成長賽道。隨著盈利持續釋放、估值穩步抬升、增量資金持續入場，中期上行趨勢不變，繼續強調聚焦主線機會。配置機會：關注一：堅守科技景氣核心主線，TMT與中游製造是修復的主攻方向，半導體、其他電子、通訊裝置、航海裝備、電池等板塊表現較優，但需要注意的是，隨著部分熱點高位分化，內部輪動特徵或將顯現，商業航天、人形機器人等相對滯漲板塊獲得資金關注。關注二：修復動能向資源品和部分消費服務擴散，包括受益於PPI回升與漲價邏輯的基礎化工、有色金屬、建築材料、鋼鐵等板塊，同時消費細分領域受益於景氣修復與政策支援。同時，重視防禦性底倉的配置價值，關注煤炭、金融、公用事業等。"
-    },
-    {
-      "id": "4884424",
-      "time": "2026-05-18 08:11:29",
-      "tags": [
-        "市場"
-      ],
-      "text": "澳大利亞標普/澳證200指數早盤下跌0.7%，報8571.20點。"
     }
   ]
 }
