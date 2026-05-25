@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-26 06:42:56",
-  "count": 15587,
+  "updated": "2026-05-26 06:47:02",
+  "count": 15580,
   "items": [
     {
       "id": "te:markets:553517",
@@ -139402,66 +139402,6 @@
         "Important"
       ],
       "text": "New Zealand | Output PPI (YoY) (Q1) | actual 2.2% | previous 3.5%"
-    },
-    {
-      "id": "4886674",
-      "time": "2026-05-19 06:45:31",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐西蘭4月電子卡零售銷量實際值同比上漲2.0%。"
-    },
-    {
-      "id": "4886673",
-      "time": "2026-05-19 06:45:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "紐西蘭經季節調整後的電子卡零售額4月較上月下降1.3%。"
-    },
-    {
-      "id": "4886672",
-      "time": "2026-05-19 06:45:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐西蘭第一季度生產者價格指數投入環比上漲1.4%。"
-    },
-    {
-      "id": "4886671",
-      "time": "2026-05-19 06:45:13",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐西蘭第一季度生產者產出價格環比上漲0.8%。"
-    },
-    {
-      "id": "mkt:019e3d43-9a31-7dd6-88a0-73c0de01e1f3",
-      "time": "2026-05-19 06:45:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "New Zealand | Input PPI (QoQ) (Q1) | actual 1.4% | previous -0.50%"
-    },
-    {
-      "id": "mkt:019e3d43-9a23-7dd6-88a0-6da7c0b3df86",
-      "time": "2026-05-19 06:45:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "New Zealand | Output PPI (QoQ) (Q1) | actual 0.8% | previous 0.10%"
-    },
-    {
-      "id": "4886670",
-      "time": "2026-05-19 06:44:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "英特爾執行長談及14A晶片時表示，將在2028年實現量產，2029年進入大規模量產。"
     }
   ]
 }
