@@ -1,7 +1,45 @@
 {
-  "updated": "2026-05-27 04:16:05",
-  "count": 14941,
+  "updated": "2026-05-27 04:20:00",
+  "count": 14944,
   "items": [
+    {
+      "id": "te:markets:553845",
+      "time": "2026-05-27 04:19:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Pulls Back Amid Renewed US-Iran Tensions — The S&P/TSX Composite Index fell 0.5% to close at 34,654 on Tuesday after reaching a record high in the previous session, as hopes for a resolution to the Middle East conflict faded following fresh US military strikes in Iran. The latest attacks renewed uncertainty over when the Strait of Hormuz could reopen, reviving concerns about prolonged inflation and higher-for-longer interest rates. Banks traded lower, with Royal Bank of Canada down 0.7% and TD Bank losing 0.7%. Canada’s largest lenders are set to report quarterly earnings this week, with profits expected to rise despite trade tensions, the Middle East conflict, and broader macroeconomic uncertainty, though risks tied to weaker consumer finances and a softer housing market remain elevated. Heavyweight mining stocks also declined as gold prices slipped, with Barrick down 0.9%, Wheaton Precious Metals losing 2.4%, and Agnico Eagle shedding 1.7%."
+    },
+    {
+      "id": "mkt:019e65ef-a509-7332-8106-34d852ba7cee",
+      "time": "2026-05-27 04:17:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SpaceX Seen Eligible For FTSE Russell Fast-Track Inclusion Into FTSE US, FTSE Global Equity Index Series"
+    },
+    {
+      "id": "4900981",
+      "time": "2026-05-27 04:16:16",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "富時羅素：根據快速納入規則，太空探索技術公司（SpaceX）似乎符合納入羅素美國股票指數以及富時全球股票指數系列（FTSE GEIS）的條件。"
+    },
+    {
+      "id": "4900980",
+      "time": "2026-05-27 04:15:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表格里爾談及關稅：特朗普無意推行豁免相關方案。"
+    },
     {
       "id": "mkt:019e65ed-552e-7332-8106-2d98530c3c62",
       "time": "2026-05-27 04:15:13",
@@ -133729,14 +133767,6 @@
         "MKT News"
       ],
       "text": "US PLANS TO SHRINK FORCES AVAILABLE TO NATO DURING CRISES, SOURCES SAY"
-    },
-    {
-      "id": "4888861",
-      "time": "2026-05-20 04:19:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國擬削減危機期間可供北約動用的兵力， 美國本週將向北約盟友通報撤軍相關計劃。"
     }
   ]
 }
