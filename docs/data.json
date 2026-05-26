@@ -1,7 +1,68 @@
 {
-  "updated": "2026-05-26 14:57:12",
-  "count": 15507,
+  "updated": "2026-05-26 15:01:34",
+  "count": 15494,
   "items": [
+    {
+      "id": "te:economy:553657",
+      "time": "2026-05-26 15:00:12",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "UK 10Y Bond Yield Hits 4-week Low — UK 10 Year Government Bond Yield decreased to 4.86%, the lowest since April 2026. Over the past 4 weeks, United Kingdom 10Y Bond Yield lost 11.20 basis points, and in the last 12 months, it increased 19.33 basis points."
+    },
+    {
+      "id": "4899785",
+      "time": "2026-05-26 15:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨收盤】焦煤連續漲5.09%，氧化鋁連續漲5.01%，碳酸鋰連續跌4.00%，苯乙烯連續跌3.55%，上海原油連續跌3.12%。"
+    },
+    {
+      "id": "4899784",
+      "time": "2026-05-26 15:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨午盤收盤】 中證1000指數期貨連續跌0.89%， 滬深300指數期貨連續漲0.89%， 中證500指數期貨連續跌0.19%， 上證50指數期貨連續漲0.43%。"
+    },
+    {
+      "id": "4899783",
+      "time": "2026-05-26 15:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐股開盤普漲，德國DAX指數漲2.01%，英國富時100指數漲0.22%，法國CAC40指數漲1.76%，歐洲斯托克50指數漲1.95%，義大利富時MIB指數漲1.43%。"
+    },
+    {
+      "id": "4899782",
+      "time": "2026-05-26 14:58:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【盛新鋰能旗下盛屯鋰業公司增資至29.5億 增幅約64%】天眼查App顯示，近日，四川盛屯鋰業有限公司發生工商變更，註冊資本由18億人民幣增至29.5億人民幣，增幅約64%。 該公司成立於2007年11月，法定代表人為劉偉新，經營範圍包括金屬礦石銷售、貨物進出口、化工產品銷售等，由盛新鋰能（002240）全資持股。"
+    },
+    {
+      "id": "4899781",
+      "time": "2026-05-26 14:56:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國首爾一高架橋拆除過程中部分垮塌 已致1人死亡】當地時間5月26日下午，韓國首爾西大門區一高架橋在拆除過程中發生部分橋體垮塌事故。截至目前，事故已造成1人死亡，另有數人受傷。現場救援工作正在持續進行中。（央視新聞）"
+    },
+    {
+      "id": "4899780",
+      "time": "2026-05-26 14:56:36",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "斯里蘭卡央行行長：將採取進一步舉措應對需求拉動型通脹。"
+    },
     {
       "id": "4899779",
       "time": "2026-05-26 14:56:15",
@@ -138559,194 +138620,6 @@
         "國際"
       ],
       "text": "【ETF收評：半導體裝置ETF領漲6.06%，中韓半導體ETF領跌5.99%】ETF收盤漲跌不一，半導體裝置ETF（561980）領漲6.06%，半導體ETF（159582）漲5.37%，半導體裝置ETF（159558）漲5.31%，中韓半導體ETF（513310）領跌5.99%，標普油氣ETF（513350）跌4.28%，標普油氣ETF（159518）跌4.05%。"
-    },
-    {
-      "id": "4887386",
-      "time": "2026-05-19 15:01:30",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【ETF兩市成交額4673.11億元】截至收盤，ETF兩市成交額報4673.11億元，分型別來看，股票型ETF成交額1679億元，債券型ETF成交額1801.57億元，貨幣型ETF成交額220.36億元，商品型ETF成交額63.13億元，QDII型ETF成交額646.34億元。其中，成交額最高的非貨幣型ETF分別是中韓半導體ETF（513310）、科創50ETF（588000）、中證500ETF（510500），成交額分別為：197.05億元、68.69億元、61.07億元。"
-    },
-    {
-      "id": "te:markets:551853",
-      "time": "2026-05-19 15:01:26",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Deutsche Telekom Stock Price Hits 4-week High — Deutsche Telekom shares increased to 28.90 EUR, the highest since April 2026. Over the past 4 weeks, Deutsche Telekom lost 2.91%, and in the last 12 months, it decreased 14.81%."
-    },
-    {
-      "id": "4887385",
-      "time": "2026-05-19 15:01:20",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【A股收評：科創50指數探底回升漲近4%，半導體產業鏈午後持續拉昇】A股三大指數今日漲跌不一，截至收盤，上證指數漲0.92%，深證成指漲0.26%，創業板指跌0.16%，北證50漲0.58%，科創50指數漲3.81%。全市場成交額29090億元，較上日成交額縮量81億元，全市場超3600只個股上漲。板塊題材上，電力、半導體、雲端計算、超級電容、腦機介面、電網裝置板塊漲幅居前；能源金屬、小金屬、磷化工、化學纖維、油氣開採及服務、氟化工概念股跌幅居前。盤面上，政策與產業共振驅動電力板塊持續上漲，上海電力、涪陵電力、京能電力等近10股漲停。午後半導體產業鏈集體走高，滬矽產業20cm漲停，芯原股份盤中創歷史新高，立昂微、利揚晶片、寒武紀漲幅居前。此外，電網裝置、雲端計算、超級電容概念股亦有表現。另一方面，有色金屬板塊延續調整，豫光金鉛、鋅業股份、株冶集團領跌板塊。化工股同樣表現欠佳，興發集團、粵桂股份、金正大等股下挫。"
-    },
-    {
-      "id": "mkt:019e3f0a-f9e9-7aa9-b724-341013a51eb1",
-      "time": "2026-05-19 15:01:20",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Crypto Concepts",
-        "Bitcoin",
-        "Impact mixed",
-        "Ethereum",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "【Top Crypto Stories of PAST 24 Hours - MKTNews】 Crypto Markets / ETFs - Spot bitcoin ETFs recorded $649M in net outflows, the largest since January. - Bitcoin treasury firm Strategy bought another 24,869 BTC for $2B, pushing holdings above 4% of total bitcoin supply. - Bitmine increased ether treasury holdings to 5.28M ETH, exceeding $12B in value. - French bitcoin treasury firm Capital B bought $15M in BTC following a capital raise. Regulation / Policy - Minnesota signed a law allowing banks and credit unions to offer crypto custody services. - SEC innovation exemption for tokenized stocks could arrive as early as this week. - Bank of England and FCA launched consultation on tokenized UK wholesale markets. - Zerohash secured the first EMI license under MiCA for stablecoin and brokerage services in Europe. - Galaxy obtained a New York BitLicense to offer digital asset services. Stablecoins / Tokenization - Standard Chartered projects tokenized assets will reach $4T by end-2028, with DeFi protocols as key beneficiaries. - Bernstein says Clarity Act yield compromise strengthens Circle’s competitive position amid record stablecoin supply. - Tether invested in remittance fintech LemFi to expand USDT settlement across Africa and Asia. - Iran-linked report says Hormuz Safe bitcoin-settled insurance platform targets $10B generation. Industry / Corporate - Kraken co-CEO says revenue rose 3% to $507M, reflecting a “more resilient” business mix. Revolut unveiled its first physical crypto card. - Standard Chartered to absorb Zodia Custody’s crypto business into its own operations. - HIVE stock surged 35% after unveiling a 320MW AI gigafactory project in Toronto. - Bitcoin Depot filed for Chapter 11 to wind down operations. Technology / Security - BTCFi protocol Echo exploited, targeting the eBTC market on Monad. - Ethereum conviction strengthened as staked ETH continued rising despite weaker price performance. - Ostium’s onchain perpetuals exchange to use Nasdaq market data. - Two more Ethereum Foundation researchers resigned amid ongoing departures. - AEON raised $8M led by YZi Labs to build a settlement layer for AI agents. Legal / Crime - Ohio man sentenced to nine years for operating a $10M crypto Ponzi scheme."
-    },
-    {
-      "id": "4887384",
-      "time": "2026-05-19 15:01:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗副外長公佈伊對美協議草案提議 包括美軍從周邊地區撤離】綜合伊通社及路透社19日釋出的訊息，伊朗外交部副部長加里巴巴迪在一場國家會議上通報了當前與美國的談判程序以及伊朗對美方協議草案的回應。加里巴巴迪表示，伊朗在近期的提議中，明確強調了伊朗和平利用核能的權利、要求結束包括黎巴嫩在內的所有戰線的戰爭、解除美國對伊朗的海上封鎖、歸還和解凍伊朗遭凍結資產、要求美國提供發動戰爭造成伊方損失及重建所需的賠償、終止所有單邊制裁以及美軍撤離伊朗周邊地區。（央視新聞）"
-    },
-    {
-      "id": "4887383",
-      "time": "2026-05-19 15:01:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國總統：需與盟友開展合作並保持溝通。"
-    },
-    {
-      "id": "4887382",
-      "time": "2026-05-19 15:01:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "A股收盤，上證指數漲0.92%，深證成指漲0.26%，創業板指跌0.16%。"
-    },
-    {
-      "id": "4887381",
-      "time": "2026-05-19 15:00:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "【第三輪第六批中央生態環境保護督察公佈四省區典型案例】第三輪第六批中央生態環境保護督察今天（5月19日）集中公佈遼寧、吉林、黑龍江和廣西四省區典型案例。（央視新聞）"
-    },
-    {
-      "id": "4887380",
-      "time": "2026-05-19 15:00:09",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "菲律賓股市收盤下跌0.8%，至5896.80點。"
-    },
-    {
-      "id": "4887379",
-      "time": "2026-05-19 15:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【股指期貨午盤收盤】 中證1000指數期貨連續漲1.45%， 滬深300指數期貨連續漲0.62%， 中證500指數期貨連續漲1.09%， 上證50指數期貨連續漲0.63%。"
-    },
-    {
-      "id": "4887378",
-      "time": "2026-05-19 15:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "歐股開盤漲跌不一，德國DAX指數漲1.49%，英國富時100指數漲1.26%，法國CAC40指數漲0.44%，歐洲斯托克50指數漲0.36%，義大利富時MIB指數跌0.91%。"
-    },
-    {
-      "id": "4887377",
-      "time": "2026-05-19 15:00:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "【商品期貨收盤】碳酸鋰連續跌3.71%，豆二連續漲3.05%，菜油連續漲2.62%，菜粕連續漲2.15%，集運指數歐線期貨連續漲2.07%，鎳連續漲2.06%。"
-    },
-    {
-      "id": "4887376",
-      "time": "2026-05-19 14:59:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "據報道，美國官員表示，特朗普暫緩對伊朗採取軍事行動或為聲東擊西之舉，其依舊有可能發起打擊行動。"
-    },
-    {
-      "id": "4887375",
-      "time": "2026-05-19 14:58:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "泰國修訂公共債務計劃，擬新增借貸 2210 億泰銖。"
-    },
-    {
-      "id": "mkt:019e3f06-f3b6-7aa9-b724-2c1d686f8cac",
-      "time": "2026-05-19 14:58:00",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "UKRAINE'S NAFTOGAZ SAYS RUSSIA ATTACKED ITS GAS INFRASTRUCTURE FACILITIES IN NORTHERN CHERNIHIV REGION, ATTACKS CONTINUE THIRD DAY IN A ROW"
-    },
-    {
-      "id": "4887374",
-      "time": "2026-05-19 14:57:57",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "烏克蘭石油天然氣公司稱，俄羅斯襲擊了該公司位於切爾尼戈夫北部地區的天然氣基礎設施，這已是襲擊連續第三天持續。"
-    },
-    {
-      "id": "4887373",
-      "time": "2026-05-19 14:57:54",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【報告：逾七成韓國人認為中東戰事影響消費】韓國言論振興財團媒體研究中心19日釋出的一份報告顯示，大多數韓國人因中東戰火長期持續而在經濟方面感到不安，同時因物價上漲而減少在外就餐和旅遊等消費。媒體研究中心上月對20~60多歲的1000人進行調查，並基於調查結果釋出上述報告。據報告，77.8%的受訪者在接觸中東衝突相關資訊後曾感到不安，其原因包括“油價及物價恐上漲”（96.6%）、“經濟會更低迷”（94.2%）等。與此相比，對韓國國防及安全域性勢感到不安的受訪者（67.4%）相對較少。這說明多數韓國人將中東戰事視為與經濟和生活息息相關的問題，而非軍事問題。"
-    },
-    {
-      "id": "4887372",
-      "time": "2026-05-19 14:57:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【奇瑞汽車在安徽成立新智造科技公司 註冊資本5000萬】天眼查App顯示，近日，安徽速瑞智造科技有限公司成立，法定代表人為胡傳林，註冊資本5000萬人民幣，經營範圍包括技術服務、技術開發、技術諮詢、技術交流、技術轉讓、技術推廣等，由奇瑞汽車旗下安徽速美達科技有限公司全資持股。"
-    },
-    {
-      "id": "te:markets:551851",
-      "time": "2026-05-19 14:57:39",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Steel Extends Decline on Demand Worries — Steel rebar futures fell to around CNY 3,170 per ton, reaching their lowest levels in nearly three weeks as signs of slowing economic activity in top consumer China weighed on the outlook for steel demand. Data released earlier this week showed that China’s retail sales and industrial production both missed expectations, while fixed asset investment unexpectedly contracted amid the impact of the global energy crisis on businesses and consumers worldwide. Domestic steel consumption in China also remained under pressure from sluggish construction activity, while demand for Chinese steel exports weakened as overseas buyers showed limited appetite for purchases at elevated prices. Meanwhile, Mysteel’s latest monthly industry report indicated that long steel output is likely to increase as improved profit margins encourage domestic steelmakers to ramp up production, potentially creating additional downward pressure later this month as end-user demand softens."
-    },
-    {
-      "id": "4887371",
-      "time": "2026-05-19 14:57:23",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印尼股市基準指數下跌4%至6334.14美元。"
     }
   ]
 }
