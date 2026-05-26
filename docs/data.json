@@ -1,7 +1,29 @@
 {
-  "updated": "2026-05-27 02:23:25",
-  "count": 14984,
+  "updated": "2026-05-27 02:27:25",
+  "count": 14980,
   "items": [
+    {
+      "id": "mkt:019e6589-8454-7332-8105-86f744bd0d15",
+      "time": "2026-05-27 02:26:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "MU.O",
+        "Impact bullish"
+      ],
+      "text": "Micron Technology (MU.O) Surges >20%, Biggest One-Day Gain Since 2011"
+    },
+    {
+      "id": "te:markets:553838",
+      "time": "2026-05-27 02:25:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Cocoa Rallies by 9.38% — Top commodity gainers are Cocoa (9.38%), Canola (1.96%) and Rapeseed (1.84%). Biggest losers are Wheat (-1.70%), Corn (-1.23%) and Sugar (-1.16%)."
+    },
     {
       "id": "mkt:019e6586-6f42-7332-8105-7a86a60961d4",
       "time": "2026-05-27 02:22:49",
@@ -134075,62 +134097,6 @@
         "國際"
       ],
       "text": "美國副總統萬斯：特朗普本人並未進行股票交易。"
-    },
-    {
-      "id": "mkt:019e417d-0f15-7228-9aff-2aaeb59cc445",
-      "time": "2026-05-20 02:26:11",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "VANCE: REGARDLESS OF WHAT TRUMP DECIDES ON IRAN, IT WILL NOT LAST FOREVER"
-    },
-    {
-      "id": "mkt:019e417c-db06-7228-9aff-268caa81397f",
-      "time": "2026-05-20 02:26:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【U.S. Seizes Iran-Linked Oil Tanker in Indian Ocean Amid Pressure on Tehran】The U.S. seized the sanctioned oil tanker Skywave in the Indian Ocean, according to three U.S. officials, as the Trump administration maintains pressure on Iran over its nuclear program. The vessel, sanctioned in March for transporting Iranian oil, was likely carrying more than 1 million barrels of crude loaded at Iran’s Kharg Island in February, according to brokers and Lloyds List Intelligence data. The seizure marks at least the third U.S. action against Iran-linked shadow-fleet tankers, following the April seizures of the Majestic X and Tifani. President Donald Trump said he had been “an hour away” from ordering new strikes on Iran before delaying action at the request of Gulf allies."
-    },
-    {
-      "id": "te:markets:552027",
-      "time": "2026-05-20 02:25:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Cocoa Gains by 3.11% — Top commodity gainers are Cocoa (3.11%), Canola (2.61%) and Coffee (2.12%). Biggest losers are Cotton (-1.75%) and Orange Juice (-1.75%)."
-    },
-    {
-      "id": "4888786",
-      "time": "2026-05-20 02:24:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "【英國部分放開“第三國加工俄原油”成品油進口】英國政府19日釋出一項通用貿易許可證，正式允許進口由第三國使用俄羅斯原油加工製成的柴油和航空燃油。這項許可由英國商業貿易部頒發，適用物件為俄羅斯境外以俄原油為原料煉製的特定柴油、航空燃油產品，同時許可與這類油品進口相關的配套服務及相關業務操作。（新華社）"
-    },
-    {
-      "id": "mkt:019e417b-59b2-7228-9aff-1ac6ed9e48ff",
-      "time": "2026-05-20 02:24:23",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "U.S. SEIZES IRAN-LINKED SHIP AS PRESIDENT TRUMP THREATENS TO RESUME STRIKES -- WSJ IRAN-LINKED OIL TANKER SKYWAVE WAS CARRYING OVER 1M BARRELS OF CRUDE"
-    },
-    {
-      "id": "4888785",
-      "time": "2026-05-20 02:23:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯：我們要麼和伊朗達成協議，要麼談不成。"
     }
   ]
 }
