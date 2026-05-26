@@ -1,7 +1,15 @@
 {
-  "updated": "2026-05-27 07:20:26",
-  "count": 14993,
+  "updated": "2026-05-27 07:24:13",
+  "count": 14990,
   "items": [
+    {
+      "id": "4901099",
+      "time": "2026-05-27 07:22:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【英國石油遭解任董事長馬尼福德否認相關不當指控】媒體援引阿爾伯特・馬尼福德（Albert Manifold）的宣告報道，這位被英國石油解任的董事長駁斥外界圍繞其離職形成的所謂 “不實說法”。英國石油董事會於週二罷免馬尼福德一職，並對其治理水準、監管履職及個人行為提出嚴重質疑。受此影響，公司股價一度大跌 10%。馬尼福德在郵件宣告中表態稱：“我在未收到任何預警、也未得到合理解釋的情況下遭解任。我完全否認針對我個人行為的相關指責，絕不會任由不實言論肆意傳播。”"
+    },
     {
       "id": "4901098",
       "time": "2026-05-27 07:18:23",
@@ -134180,44 +134188,6 @@
         "公司"
       ],
       "text": "【中通快遞-W(02057)：許迪辭任非執行董事】中通快遞-W(02057)釋出公告，鑑於本公司、本公司創始人及阿里巴巴集團控股有限公司若干子公司於2018年6月訂立的投資者權利協議已於近日終止，許迪女士已辭任本公司非執行董事，自2026年5月20日起生效。"
-    },
-    {
-      "id": "4888954",
-      "time": "2026-05-20 07:21:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "保爾森：我沒看出聯邦公開市場委員會宣告中存在溝通問題。"
-    },
-    {
-      "id": "4888953",
-      "time": "2026-05-20 07:21:24",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲保爾森表示，收益率波動是由實際利率驅動的，而非通脹。"
-    },
-    {
-      "id": "4888952",
-      "time": "2026-05-20 07:20:48",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲保爾森：若經濟增速升至潛在水平上方，或出現其他通脹風險，或將考慮適當加息。"
-    },
-    {
-      "id": "te:economy:552043",
-      "time": "2026-05-20 07:20:40",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "News",
-        "Importance 1"
-      ],
-      "text": "UN Cuts Global Growth Forecast for 2026 to 2.5% — The United Nations (UN) on Tuesday cut its forecast for global economic growth to 2.5% in 2026, compared with an estimated 3.0% in 2025, marking a downgrade of 0.2 percentage points from its January projection and remaining well below pre-pandemic growth rates due to inflationary pressures amid the Middle East conflict. In a U.N. press release summarizing the mid-year update to the global body's World Economic Situation and Prospects, the agency said solid labor markets, resilient consumer demand, and AI-driven trade and investment are expected to provide support, though the downgrade underscores further weakness in the already subdued global outlook. The surge in energy prices has delivered windfall gains for energy companies but intensified cost pressures for households and businesses. The US economy is expected to remain comparatively resilient, with growth projected at 2.0% in 2026, supported by strong household demand and continued investment in technology."
     }
   ]
 }
