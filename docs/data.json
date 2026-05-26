@@ -1,7 +1,309 @@
 {
-  "updated": "2026-05-27 01:29:08",
-  "count": 15057,
+  "updated": "2026-05-27 02:23:25",
+  "count": 14984,
   "items": [
+    {
+      "id": "mkt:019e6586-6f42-7332-8105-7a86a60961d4",
+      "time": "2026-05-27 02:22:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mexico Stocks Rise >1%"
+    },
+    {
+      "id": "mkt:019e6586-62f7-7332-8105-75183e29b9aa",
+      "time": "2026-05-27 02:22:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "TASNIM NEWS: IRGC Navy Says 25 Tankers, Container & Commercial Vessels Transited Strait Of Hormuz With Iranian Permission In Past 24 Hours"
+    },
+    {
+      "id": "4900933",
+      "time": "2026-05-27 02:22:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥主要股指漲幅超1%。"
+    },
+    {
+      "id": "4900932",
+      "time": "2026-05-27 02:21:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗最近一天允許25艘船隻透過霍爾木茲海峽。（伊朗媒體Tasnim）"
+    },
+    {
+      "id": "4900931",
+      "time": "2026-05-27 02:20:55",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美光股價漲幅擴大至超 20%，創 2011 年以來最大漲幅。"
+    },
+    {
+      "id": "te:markets:553837",
+      "time": "2026-05-27 02:20:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Silver Falls by 2.61% — Top commodity losers are Silver (-2.61%), Lithium Carbonate (-1.77%) and Gold (-1.74%)."
+    },
+    {
+      "id": "mkt:019e6582-efea-7332-8105-6c9f84eadb00",
+      "time": "2026-05-27 02:19:00",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【IDF Strikes Hezbollah Infrastructure, Kills Several Fighters】Israel Defense Forces Airstrike Hits Hezbollah Rocket-Launch Sites In Lebanon, Kills Several Militants"
+    },
+    {
+      "id": "4900930",
+      "time": "2026-05-27 02:18:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍空襲黎真主黨基礎設施 打死多名武裝人員】當地時間5月26日晚，以色列國防軍稱，以軍對黎真主黨的火箭彈發射場及基礎設施發動了空襲，並打死了數名真主黨武裝人員。黎真主黨對此暫無回應。（央視新聞）"
+    },
+    {
+      "id": "4900929",
+      "time": "2026-05-27 02:17:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "NASA:  藍色起源計劃於 2026 年秋季開展無人登月任務。"
+    },
+    {
+      "id": "4900928",
+      "time": "2026-05-27 02:16:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家運輸安全委員會指出存在安全隱患，敦促聯邦航空管理局調整強降雨天氣下的跑道狀況評估方式。"
+    },
+    {
+      "id": "te:markets:553836",
+      "time": "2026-05-27 02:15:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Gasoline Slumps by 6.40% — Top commodity losers are Gasoline (-6.40%), Heating Oil (-4.13%), Brent Crude Oil (-3.73%) and Crude Oil WTI (-2.84%). Gains are led by Germany Natural Gas THE (4.65%), Natural Gas EU (3.41%) and Natural gas (0.85%)."
+    },
+    {
+      "id": "mkt:019e657d-2278-7332-8105-651caf90a899",
+      "time": "2026-05-27 02:12:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "NETANYAHU: Israel Strikes New Hamas Armed Faction Chief In Gaza"
+    },
+    {
+      "id": "4900927",
+      "time": "2026-05-27 02:11:49",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "內塔尼亞胡：以色列對加沙地帶哈馬斯新任武裝分支負責人實施了打擊。"
+    },
+    {
+      "id": "4900926",
+      "time": "2026-05-27 02:10:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "D-Wave Quantum：“量子霸權”研究成果依然成立。有關“推翻 D-Wave 研究成果”的言論是不準確的。"
+    },
+    {
+      "id": "4900925",
+      "time": "2026-05-27 02:07:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美媒：緊要關頭 特朗普擬在戴維營召開內閣會議】據美國媒體26日報道，美國同伊朗談判進入關鍵時刻之際，美總統特朗普27日將罕見地在馬里蘭州總統度假地戴維營舉行全體內閣會議。美國有線電視新聞網說，這是自3月26日以來特朗普首次召開內閣會議。據《紐約郵報》援引一名白宮官員的話報道，包括即將卸任的國家情報總監加巴德在內，所有內閣成員都將參會。該官員稱，會議將討論“本屆政府近期取得的成就，包括在經濟和小企業領域取得的勝利、‘消除欺詐工作組’的成果，以及外交政策方面的最新進展”。但據《紐約郵報》報道，美伊協議或是會議主要議題。報道還說，受惡劣天氣影響，會議地點可能發生變動。特朗普通常搭乘直升機前往戴維營，但華盛頓特區近日持續強降雨，可能導致此次行程被迫取消。據美媒報道，自特朗普2025年1月開始第二個任期以來，只去過一次戴維營，便是在同年6月美國轟炸伊朗核設施的幾天前。（新華社）"
+    },
+    {
+      "id": "4900924",
+      "time": "2026-05-27 02:04:30",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國聯邦航空管理局（FAA）對阿拉斯加航空公司罰款1.65億美元，該公司涉嫌允許醉酒旅客登機。"
+    },
+    {
+      "id": "4900923",
+      "time": "2026-05-27 02:02:22",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4490美元/盎司，日內跌1.80%。"
+    },
+    {
+      "id": "4900922",
+      "time": "2026-05-27 02:02:18",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4520美元/盎司，日內跌0.83%。"
+    },
+    {
+      "id": "mkt:019e6572-8056-7332-8105-5edf17f6d523",
+      "time": "2026-05-27 02:01:03",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "【Spot Gold Falls Below $4,490/oz; Down 1.77% Intraday】Spot gold falls below $4,490/oz, down 1.77% intraday"
+    },
+    {
+      "id": "mkt:019e6571-54e0-7332-8105-54a1c1ffd7a4",
+      "time": "2026-05-27 01:59:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran President Says Unwavering On Territory, Sovereignty】Iran President PEZESHKIAN Extends 'Brotherly' Hand To Islamic States; Pledges Unwavering Defense Of Territory, Sovereignty"
+    },
+    {
+      "id": "4900921",
+      "time": "2026-05-27 01:59:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗總統：毫不動搖捍衛領土與國家主權】當地時間5月26日，伊朗總統佩澤希齊揚發表講話時表示，伊朗向伊斯蘭國家伸出了“兄弟般的友誼之手”。與此同時，伊朗在捍衛自身領土和國家主權上沒有絲毫動搖。（央視新聞）"
+    },
+    {
+      "id": "mkt:019e656f-5483-7332-8105-4b2932a22fff",
+      "time": "2026-05-27 01:57:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SoftBank Hires GOLDMAN SACHS, JPMORGAN, MIZUHO, MORGAN STANLEY to Advise ROZE Robotics IPO"
+    },
+    {
+      "id": "4900919",
+      "time": "2026-05-27 01:56:00",
+      "tags": [
+        "觀點"
+      ],
+      "text": "訊息人士：軟銀聘請高盛、摩根大通、瑞穗證券和摩根士丹利，擔任機器人企業 ROZE 的 IPO 承銷商。"
+    },
+    {
+      "id": "4900918",
+      "time": "2026-05-27 01:55:01",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "沃爾沃汽車在美國獲得特殊授權，可以繼續在美國推進其發展計劃。"
+    },
+    {
+      "id": "4900917",
+      "time": "2026-05-27 01:53:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：無人機製造商錯誤地利用了星鏈。"
+    },
+    {
+      "id": "4900916",
+      "time": "2026-05-27 01:49:25",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【做空大佬Left特出庭作證，堅稱其交易與公開言論始終一致】Andrew Left在美國法庭上向陪審團表示，他針對相關公司發表的公開言論從未與其在這些股票中建立的做空或做多倉位產生過矛盾，以此全力反駁了政府刑事指控中的核心要點。本場審判的核心在於界定“表達個人觀點”何時會演變為“操縱市場”。檢方堅稱，Left的私下通訊記錄足以證明，他在向公眾表達其交易意圖時存在“表裡不一”的欺詐行為。 檢方指控Left在2018年10月透過唱多特斯拉的做多倉位來誤導投資者，隨後又迅速拋售持股以牟取暴利；但Left辯稱，減持多頭倉位與反手做空該股票絕非同一概念。"
+    },
+    {
+      "id": "4900915",
+      "time": "2026-05-27 01:47:24",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "沃爾沃ADR股價升至盤中高點，漲幅高達3.4%。"
+    },
+    {
+      "id": "4900914",
+      "time": "2026-05-27 01:42:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國疾控中心召集員工志願參與機場埃博拉篩查】隨著剛果民主共和國和烏干達的致命病毒疫情持續加劇，美國疾病控制與預防中心（CDC）正向其內部員工徵集志願者，以協助在國內機場開展埃博拉病毒篩查。美國CDC意在擴大針對國際旅客的篩查能力，並已將“CDC準備就緒應急響應者”（CDCReady Responders）列為此次機場篩查的優先動員物件。篩查流程將包括對乘客進行簡短的問卷調查和體溫檢測，出現症狀的人員將接受進一步評估，以判定其所患疾病是否可能為埃博拉。"
+    },
+    {
+      "id": "4900913",
+      "time": "2026-05-27 01:36:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4530美元/盎司，日內跌0.61%。"
+    },
+    {
+      "id": "4900912",
+      "time": "2026-05-27 01:35:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "據AL MAYADEEN：伊朗伊斯蘭議會議長卡利巴夫的顧問稱，若美方玩弄文字遊戲，伊朗將退出相關談判。"
+    },
+    {
+      "id": "mkt:019e655a-d669-7332-8105-475f2f56cad2",
+      "time": "2026-05-27 01:35:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Iran Parliament Speaker Ghalibaf Says Tehran Will Walk Away From Talks If U.S. 'Plays Word Games'"
+    },
+    {
+      "id": "4900911",
+      "time": "2026-05-27 01:30:52",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4500美元/盎司，日內跌1.55%。"
+    },
+    {
+      "id": "4900910",
+      "time": "2026-05-27 01:30:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "比特幣跌破76000美元，日內跌1.84%。"
+    },
     {
       "id": "4900909",
       "time": "2026-05-27 01:27:27",
@@ -133829,932 +134131,6 @@
         "國際"
       ],
       "text": "美國副總統萬斯：我們要麼和伊朗達成協議，要麼談不成。"
-    },
-    {
-      "id": "4888784",
-      "time": "2026-05-20 02:23:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國在印度洋扣押了一艘與伊朗有關的油輪。"
-    },
-    {
-      "id": "4888783",
-      "time": "2026-05-20 02:21:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯：我們理順中東事務後，物價將會回落。"
-    },
-    {
-      "id": "4888782",
-      "time": "2026-05-20 02:20:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯：無論特朗普對伊朗做出何種決定，都不會永遠持續下去。"
-    },
-    {
-      "id": "te:markets:552026",
-      "time": "2026-05-20 02:20:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Silver Falls by 4.23% — Top commodity losers are Silver (-4.23%), Lithium Carbonate (-2.61%), Platinum (-1.90%) and Gold (-1.46%)."
-    },
-    {
-      "id": "4888781",
-      "time": "2026-05-20 02:16:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國內政部長稱限制美國石油出口“從各方面看都不是好事”】儘管全球依賴美國原油來填補伊朗戰爭造成的供應缺口，導致外界對美國國內庫存不斷下降的擔憂加劇，特朗普政府官員仍堅決反對限制美國石油和汽油出口。“從經濟、地緣政治和可負擔性來看，這從各方面看都不是好事，”美國內政部長道格·伯格姆在接受採訪時表示。"
-    },
-    {
-      "id": "4888780",
-      "time": "2026-05-20 02:16:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普聽取對伊朗軍事行動方案】據美國“阿克西奧斯新聞網（Axios）”當地時間5月19日報道，美國總統特朗普已於當地時間5月18日晚召集國家安全團隊開會，聽取了針對伊朗的軍事行動方案簡報。報道援引兩名美國官員訊息稱，會議重點討論了對伊朗戰事的下一步方向、外交談判進展，以及美國可能採取的軍事行動。據稱，此次簡報會顯示出特朗普“正認真考慮恢復對伊朗軍事行動”。出席會議的包括副總統萬斯、國務卿魯比奧、總統特使威特科夫、國防部長赫格塞思、參謀長聯席會議主席凱恩、中央情報局局長拉特克利夫等人。 報道援引知情人士訊息稱，部分主張對伊朗採取強硬立場的相關人士認為，特朗普目前“有種想狠狠一擊、迫使伊朗在談判中讓步的情緒”。 報道稱，美國認為伊朗最新反饋的談判提案“並未顯示重大進展”，而地區調停方正試圖促使伊朗提出更靈活的方案，以回應美國在核問題上的要求。（CCTV國際時訊）"
-    },
-    {
-      "id": "4888779",
-      "time": "2026-05-20 02:15:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "【谷歌推出代為打理個人事務的新款Gemini AI智慧體】谷歌正全面升級其Gemini人工智慧模型，意在智慧體化AI時代搶佔競爭先機。該公司已開始推出名為Gemini Spark的個人智慧體。據谷歌介紹，這款智慧體能夠遊刃有餘地穿梭於使用者的數字生活，並代為執行各項操作。Gemini Spark將全面接入谷歌旗下的多款產品，並在該公司的雲基礎設施上執行。谷歌母公司Alphabet執行長表示：“一段時間以來，我們一直在向開發者和企業提供智慧體。我們正全力以赴，將智慧體這種前沿能力安全可靠地帶給消費者，讓其惠及每一個人。”谷歌此前一直在小範圍測試Spark，並計劃於下週向AI Ultra付費使用者開放。AI Ultra是谷歌新推出的訂閱服務，每月收費100美元。"
-    },
-    {
-      "id": "te:markets:552025",
-      "time": "2026-05-20 02:15:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Methanol Plunges by 7.17% — Top commodity losers are Methanol (-7.17%), Gasoline (-2.69%), Brent Crude Oil (-1.60%) and Crude Oil WTI (-1.23%). Gains are led by Natural Gas EU (3.15%), Natural Gas UK (2.81%) and Natural gas (2.79%)."
-    },
-    {
-      "id": "4888778",
-      "time": "2026-05-20 02:14:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯：停火協議並非總是完美無缺的。"
-    },
-    {
-      "id": "4888777",
-      "time": "2026-05-20 02:14:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯談及歐洲：這輩子我總聽到歐洲媒體對美國諸事百般挑剔，說美國這裡不行、那裡欠缺。他們指責我們醫療投入不足，卻無視美國高額國防開支的部分原因，是我們在歐洲部署了數萬駐軍。在我看來，倘若歐洲媒體想要抨擊美國總統，理應先自省其身。"
-    },
-    {
-      "id": "4888776",
-      "time": "2026-05-20 02:13:02",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "【秘魯發生6.1級地震 首都震感明顯】據秘魯地球物理研究所公佈的資料，當地時間5月19日12時57分，秘魯伊卡以南41公里處發生6.1級地震，震源深度81公里。在首都利馬震感明顯，震動持續20多秒。"
-    },
-    {
-      "id": "4888775",
-      "time": "2026-05-20 02:12:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯：特朗普在伊朗談判中關注國家安全問題。"
-    },
-    {
-      "id": "4888774",
-      "time": "2026-05-20 02:12:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "路透社與益普索聯合民調：47% 共和黨人認可特朗普應對生活成本問題的舉措，46% 表示不認同。"
-    },
-    {
-      "id": "4888773",
-      "time": "2026-05-20 02:12:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "路透社與益普索民調顯示：特朗普在共和黨陣營內支援率跌至 79%。"
-    },
-    {
-      "id": "mkt:019e4170-bfc4-7228-9aff-11d17933fdd4",
-      "time": "2026-05-20 02:12:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TRUMP APPROVAL AMONG REPUBLICANS FALLS TO 79%, REUTERS/IPSOS POLL FINDS TRUMP APPROVAL FALLS TO 35%, NEAR LOWEST LEVEL OF HIS TERM, ACCORDING TO REUTERS/IPSOS POLL 47% OF REPUBLICANS APPROVE OF TRUMP’S HANDLING OF COST OF LIVING WHILE 46% DISAPPROVE, REUTERS/IPSOS POLL FINDS"
-    },
-    {
-      "id": "4888772",
-      "time": "2026-05-20 02:12:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "路透社與益普索民調：特朗普整體支援率降至 35%，逼近其任期內最低水平。"
-    },
-    {
-      "id": "4888771",
-      "time": "2026-05-20 02:10:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌：透過技術授權協議從AI初創公司Contextual招聘核心團隊。"
-    },
-    {
-      "id": "4888770",
-      "time": "2026-05-20 02:09:45",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "谷歌：通用購物車（Universal Cart）將於今年夏季在美國上線。"
-    },
-    {
-      "id": "4888769",
-      "time": "2026-05-20 02:09:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯：說我們正在撤軍並不準確。"
-    },
-    {
-      "id": "mkt:019e416d-57fa-7228-9aff-08f3a0f2a44b",
-      "time": "2026-05-20 02:09:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. VICE PRESIDENT VANCE: HAVEN'T MADE DETERMINATION ON WHERE THOSE TROOPS WILL GO"
-    },
-    {
-      "id": "4888768",
-      "time": "2026-05-20 02:08:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯：尚未確定這些部隊將部署至何處。"
-    },
-    {
-      "id": "4888767",
-      "time": "2026-05-20 02:08:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯：在確保烏克蘭挺過俄烏衝突這件事上，沒有任何一位總統做得位元朗普更多。"
-    },
-    {
-      "id": "4888766",
-      "time": "2026-05-20 02:08:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯：美軍推遲進駐波蘭並非撤軍縮減。"
-    },
-    {
-      "id": "mkt:019e416c-00ac-7228-9aff-0607cb27a05a",
-      "time": "2026-05-20 02:07:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. VICE PRESIDENT VANCE: DELAY OF U.S. TROOP DEPLOYMENT TO POLAND IS NOT A REDUCTION"
-    },
-    {
-      "id": "4888765",
-      "time": "2026-05-20 02:06:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌將於下週推出Gemini Spark公測版。"
-    },
-    {
-      "id": "4888764",
-      "time": "2026-05-20 02:06:31",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "谷歌面向美國地區AI Ultra訂閱使用者，推出Gemini Spark公測版本。"
-    },
-    {
-      "id": "4888763",
-      "time": "2026-05-20 02:06:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "【SpaceX上市 創始者基金與維勒資本各自或將斬獲超600億美元回報】估值達1.75萬億美元的SpaceX上市，將為早期投資方創下風投史上最高回報；維勒股權合夥公司與創始者基金各自有望從本次上市獲利超600億美元；後期入局的紅杉資本預計可獲利約20億美元。"
-    },
-    {
-      "id": "mkt:019e416a-dd2b-7228-9afe-ff45bb694708",
-      "time": "2026-05-20 02:05:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "THIEL'S FOUNDERS FUND HAS ABOUT 3.5% STAKE IN SPACEX: INFORMATION"
-    },
-    {
-      "id": "mkt:019e416a-833b-7228-9afe-f3b5da90d415",
-      "time": "2026-05-20 02:05:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "VALOR EQUITY PARTNERS OWNS ABOUT 4% OF SPACEX: INFORMATION"
-    },
-    {
-      "id": "mkt:019e4169-e6fb-7228-9afe-eb87e0fd7bb0",
-      "time": "2026-05-20 02:05:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "EARTHQUAKE OF MAGNITUDE 5.93 STRIKES NEAR COAST OF PERU - GFZ"
-    },
-    {
-      "id": "mkt:019e4168-08ce-7228-9afe-e4a86192edb3",
-      "time": "2026-05-20 02:03:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "SEQUOIA, A LATER INVESTOR, STANDS TO NET ABOUT $2 BILLION FROM SPACEX IPO - THE INFORMATION"
-    },
-    {
-      "id": "4888762",
-      "time": "2026-05-20 02:02:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "【聯合國：中東衝突拖累全球經濟 發展中國家承受最沉重衝擊】當地時間5月19日，聯合國釋出《2026年中世界經濟形勢與展望》報告指出，中東危機再次衝擊全球經濟，導致經濟增長放緩、通脹壓力重新升溫，並加劇全球不確定性。目前，2026年全球經濟增長預計為2.5%，較今年1月的預測下調0.2個百分點，也明顯低於疫情前水平。預計2027年全球經濟將溫和回升至2.8%。穩健的勞動力市場、具有韌性的消費需求，以及部分經濟體由人工智慧驅動的貿易與投資，將提供一定支撐，但此次下調也反映出全球經濟原本已疲弱的前景進一步惡化。聯合國主管經濟和社會事務副秘書長李軍華表示：“中東危機正在加劇發展中經濟體的壓力。借貸成本上升以及資本外流壓力捲土重來，可能進一步加深債務脆弱性，並在這一關鍵時刻限制可持續發展所需資源。”（央視新聞）"
-    },
-    {
-      "id": "4888761",
-      "time": "2026-05-20 02:02:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌：在郵箱、文件、備忘錄上線對話式語音功能。"
-    },
-    {
-      "id": "4888760",
-      "time": "2026-05-20 02:01:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌：上線Google Pics影象創作與編輯應用。"
-    },
-    {
-      "id": "4888759",
-      "time": "2026-05-20 02:01:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌：在搜尋、Gemini、Chrome、Pixel及雲服務中擴充內容透明度與資訊核驗工具。"
-    },
-    {
-      "id": "4888758",
-      "time": "2026-05-20 01:59:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌：在辦公套件中推出含Gemini Spark在內的全新AI功能。"
-    },
-    {
-      "id": "mkt:019e4164-8fa2-7228-9afe-dede47ff8e23",
-      "time": "2026-05-20 01:59:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "T-MOBILE: FOUNDED NON-PROFIT C2 ISAC TO BOOST CYBERSECURITY PARTNERSHIP WITH 7 OTHER FIRMS INCLUDING AT&T, CHARTER, VERIZON, COMCAST"
-    },
-    {
-      "id": "4888757",
-      "time": "2026-05-20 01:59:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌搜尋將根據使用者檢索需求，匹配推送定製化專屬應用。"
-    },
-    {
-      "id": "4888756",
-      "time": "2026-05-20 01:58:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌推出科研專用Gemini模型，上線各類科學領域智慧功能。"
-    },
-    {
-      "id": "4888755",
-      "time": "2026-05-20 01:57:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯：特朗普希望美國支援創新，並在人工智慧競賽中獲勝。"
-    },
-    {
-      "id": "4888754",
-      "time": "2026-05-20 01:57:34",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "T-Mobile攜手包括美國電話電報公司（AT&T）、查特通訊（Charter）、威瑞森（Verizon）、康卡斯特（Comcast）在內的其他7家企業，成立非營利性質的通訊行業網路安全資訊共享分析中心（C2 ISAC），旨在強化網路安全領域協作。"
-    },
-    {
-      "id": "mkt:019e4162-6848-7228-9afe-d0d351ef9e44",
-      "time": "2026-05-20 01:57:07",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "GOOGL.O",
-        "Impact bullish",
-        "Nasdaq100"
-      ],
-      "text": "GOOGLE: AI MODE QUERIES HAVE MORE THAN DOUBLED EVERY QUARTER SINCE LAUNCH"
-    },
-    {
-      "id": "4888753",
-      "time": "2026-05-20 01:56:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯：（被問及芬太尼相關問題）目前已取得諸多進展。"
-    },
-    {
-      "id": "4888752",
-      "time": "2026-05-20 01:55:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "約旦因埃博拉疫情暫停允許來自剛果（金）和烏干達的旅客入境。"
-    },
-    {
-      "id": "4888751",
-      "time": "2026-05-20 01:55:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "奈飛：公司正向親子家庭等全新領域拓展業務，同時佈局玩具與糖果賽道，實現產品品類多元化發展。"
-    },
-    {
-      "id": "mkt:019e4161-0e7f-7228-9afe-c9390f213b92",
-      "time": "2026-05-20 01:55:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "VANCE: NO PLAN FOR RUSSIA TO TAKE ENRICHED URANIUM"
-    },
-    {
-      "id": "mkt:019e4160-c02e-7228-9afe-c1528429187e",
-      "time": "2026-05-20 01:55:20",
-      "tags": [
-        "MKT News",
-        "NFLX.O",
-        "Impact bullish"
-      ],
-      "text": "NETFLIX: EXPANDING INTO NEW SEGMENTS LIKE KIDS & FAMILY AND DIVERSIFYING PRODUCT CATEGORIES WITH MAJOR MOVES INTO TOYS AND CONFECTIONS - WEBSITE"
-    },
-    {
-      "id": "4888750",
-      "time": "2026-05-20 01:55:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌：Gemini Spark個性化智慧代理搭載3.5 Flash模型。"
-    },
-    {
-      "id": "4888749",
-      "time": "2026-05-20 01:54:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌：搜尋AI模式全球月活使用者突破10億。"
-    },
-    {
-      "id": "4888748",
-      "time": "2026-05-20 01:54:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌：搜尋AI模式上線以來，季度使用者查詢量實現翻倍增長。"
-    },
-    {
-      "id": "4888747",
-      "time": "2026-05-20 01:54:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯：暫無讓俄羅斯獲取（伊朗）濃縮鈾的相關計劃。"
-    },
-    {
-      "id": "4888746",
-      "time": "2026-05-20 01:53:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌：Gemini 3.5 Flash現已成為Gemini應用預設模型。"
-    },
-    {
-      "id": "4888745",
-      "time": "2026-05-20 01:53:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌：搜尋AI模式預設採用Gemini 3.5 Flash模型。"
-    },
-    {
-      "id": "4888744",
-      "time": "2026-05-20 01:52:34",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "沃比·帕克股價上漲2.7%，此前該公司與谷歌及三星達成合作，聯手開發智慧眼鏡。"
-    },
-    {
-      "id": "4888743",
-      "time": "2026-05-20 01:52:19",
-      "tags": [
-        "公司",
-        "焦點",
-        "國際"
-      ],
-      "text": "耐克：美國消費者將可直接透過谷歌搜尋的Gemini應用及人工智慧模式購買耐克產品。"
-    },
-    {
-      "id": "mkt:019e415d-f21f-7228-9afe-bd7bb079bfcf",
-      "time": "2026-05-20 01:52:10",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "VANCE: WON'T SAY WITH CONFIDENCE THAT WE'LL GET A DEAL WITH IRAN"
-    },
-    {
-      "id": "mkt:019e415d-9fb7-7228-9afe-b45043290c0b",
-      "time": "2026-05-20 01:51:50",
-      "tags": [
-        "MKT News",
-        "NKE.O",
-        "Impact bullish"
-      ],
-      "text": "NIKE INC - CONSUMERS IN U.S. WILL BE ABLE TO DISCOVER & PURCHASE NIKE PRODUCTS DIRECTLY FROM NIKE IN GEMINI APP & AI MODE IN GOOGLE SEARCH"
-    },
-    {
-      "id": "4888742",
-      "time": "2026-05-20 01:51:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯：17億美元司法訴訟專項基金旨在糾正不公正的起訴。"
-    },
-    {
-      "id": "mkt:019e415d-81b9-7228-9afe-a97c38463abf",
-      "time": "2026-05-20 01:51:47",
-      "tags": [
-        "MKT News",
-        "WRBY.O",
-        "Impact bullish"
-      ],
-      "text": "WARBY PARKER SHARES RISE 2.7% AFTER CO PARTNERS WITH GOOGLE AND SAMSUNG ON INTELLIGENT EYEWEAR"
-    },
-    {
-      "id": "mkt:019e415d-6b8e-7228-9afe-a5a5fe02f522",
-      "time": "2026-05-20 01:51:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CANVA: GEMINI USERS CAN NOW GENERATE & EDIT CANVA DESIGNS, TURN NANO BANANA IMAGES INTO LAYERED, EDITABLE DESIGNS TO REFINE & PUBLISH IN CANVA"
-    },
-    {
-      "id": "mkt:019e415d-5a86-7228-9afe-9d08b40f272d",
-      "time": "2026-05-20 01:51:37",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "OPENAI: TAKING MULTI-LAYERED APPROACH AND INCORPORATING WATERMARKING THROUGH GOOGLE DEEPMIND’S SYNTHID FOR IMAGES"
-    },
-    {
-      "id": "mkt:019e415d-2981-7228-9afe-9209e85bb9b0",
-      "time": "2026-05-20 01:51:24",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "NKE.O",
-        "Impact bullish"
-      ],
-      "text": "NIKE INC - EXPANDING VISION TO ELEVATE AND INTEGRATE THE MARKETPLACE WITH A NEW AI-POWERED SHOPPING EXPERIENCE - WEBSITE"
-    },
-    {
-      "id": "4888741",
-      "time": "2026-05-20 01:51:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "耐克：拓展發展佈局，依託全新人工智慧購物體驗，升級並整合消費市場生態。"
-    },
-    {
-      "id": "4888740",
-      "time": "2026-05-20 01:50:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "OpenAI：採取多層防護策略，引入谷歌深度思維的SynthID技術為影象新增水印標識。"
-    },
-    {
-      "id": "4888739",
-      "time": "2026-05-20 01:49:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯：（談及特朗普設立的17億美元司法訴訟專項基金）倘若亨特·拜登（前總統拜登之子）有意申請這筆資金，完全可以自行申請，所有申請都將走常規稽核流程，接受全面資質審查。"
-    },
-    {
-      "id": "4888738",
-      "time": "2026-05-20 01:48:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國抵押貸款利率升至6.75%，創七月以來新高】美國30年期房貸利率漲至6.75%，創下七月以來最高水平，單日上行7個基點，十日累計走高33個基點。此前受局勢動盪影響，利率在三月一度逼近6.6%，如今已從低位反彈，較四月低點高出46個基點。該媒體撰稿人馬修·格雷厄姆表示，債券市場走勢釋放訊號，政策制定者亟需平息衝突，否則經濟壓力將進一步加劇。利率上行使得中端價位住宅的月供增加約167美元，住房購房壓力再度加大。"
-    },
-    {
-      "id": "4888737",
-      "time": "2026-05-20 01:47:28",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "谷歌：藉助Gemini 3.5模型升級搜尋引擎。"
-    },
-    {
-      "id": "mkt:019e4159-21a9-7228-9afe-8a20694347d8",
-      "time": "2026-05-20 01:47:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "VANCE ASKED ABOUT IRAN: IT'S A VERY COMPLICATED COUNTRY"
-    },
-    {
-      "id": "mkt:019e4159-042e-7228-9afe-830a85a8f2ab",
-      "time": "2026-05-20 01:46:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "VANCE: IT'S NOT TOTALLY CLEAR WHAT IRAN WANTS TO ACCOMPLISH"
-    },
-    {
-      "id": "4888736",
-      "time": "2026-05-20 01:46:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯：我不能自信地說我們能與伊朗達成協議。"
-    },
-    {
-      "id": "4888735",
-      "time": "2026-05-20 01:46:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯：伊朗必須接受相關方案，承諾不再重啟核武器研發工作。"
-    },
-    {
-      "id": "mkt:019e4158-d015-7228-9afe-7e476667b872",
-      "time": "2026-05-20 01:46:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "VANCE: I THINK IRAN WANTS TO MAKE A DEAL BUT WE WON'T KNOW UNTIL WE SIGN DEAL"
-    },
-    {
-      "id": "4888734",
-      "time": "2026-05-20 01:46:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯：我認為伊朗有意達成協議，但在協議簽署之前我們無法確認。"
-    },
-    {
-      "id": "4888733",
-      "time": "2026-05-20 01:46:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "沃比帕克公司（Warby Parker Inc）與谷歌和三星合作開發智慧眼鏡。"
-    },
-    {
-      "id": "4888732",
-      "time": "2026-05-20 01:45:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯：伊朗不能擁有核武器。"
-    },
-    {
-      "id": "4888731",
-      "time": "2026-05-20 01:45:07",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國副總統萬斯：伊朗想要達成什麼目標，目前還不完全清楚。"
-    },
-    {
-      "id": "4888730",
-      "time": "2026-05-20 01:44:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯：伊朗是一個非常複雜的國家。"
-    },
-    {
-      "id": "4888729",
-      "time": "2026-05-20 01:42:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯：帕克斯頓在得克薩斯州參議院選舉中贏得了特朗普的支援。"
-    },
-    {
-      "id": "4888728",
-      "time": "2026-05-20 01:42:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯：帕克斯頓將成為德克薩斯州一位優秀的參議員。"
-    },
-    {
-      "id": "mkt:019e4155-4df0-7228-9afe-72e55d2be866",
-      "time": "2026-05-20 01:42:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. VICE PRESIDENT VANCE: PAXTON EARNED TRUMP'S ENDORSEMENT IN TEXAS SENATE ELECTION"
-    },
-    {
-      "id": "4888727",
-      "time": "2026-05-20 01:42:27",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "谷歌在開發者大會宣佈將每月250美元的AI超級套餐下調至200美元，並新增100美元檔位。"
-    },
-    {
-      "id": "mkt:019e4154-ffa2-7228-9afe-6bcd1791fbe1",
-      "time": "2026-05-20 01:42:08",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "GOOGL.O",
-        "Impact mixed"
-      ],
-      "text": "GOOGLE ANNOUNCES LOWERS $250/MONTH AI ULTRA PLAN TO $200, ADDS $100 TIER - CONFERENCE"
-    },
-    {
-      "id": "4888726",
-      "time": "2026-05-20 01:41:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯：我們不希望達成任何讓伊朗擁有核武器的協議。"
-    },
-    {
-      "id": "4888725",
-      "time": "2026-05-20 01:41:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【谷歌稱Gemini 3.5 Flash可助客戶年省超10億美元】谷歌表示，Gemini 3.5 Flash是其面向大規模生產環境的模型。目前，頂級谷歌雲客戶每天處理約1萬億個token。如果這些客戶將80%的工作負載從其他前沿模型遷移到3.5 Flash，每年可節省超過10億美元。這些是真實的成本節約，可以重新投入到企業發展中。"
-    },
-    {
-      "id": "4888724",
-      "time": "2026-05-20 01:41:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯：方案B是重啟對伊朗的軍事行動，特朗普不想在伊朗問題上採取B方案。"
-    },
-    {
-      "id": "mkt:019e4154-1567-7228-9afe-654e524202f9",
-      "time": "2026-05-20 01:40:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. VICE PRESIDENT VANCE: BUT THAT'S NOT WHAT TRUMP OR IRAN WANTS"
-    },
-    {
-      "id": "mkt:019e4153-c74e-7228-9afe-5f4ba768913f",
-      "time": "2026-05-20 01:40:51",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "U.S. VICE PRESIDENT VANCE: WE'VE MADE A LOT OF PROGRESS ON IRAN U.S. VICE PRESIDENT VANCE: WE CAN RESTART MILITARY CAMPAIGN"
-    },
-    {
-      "id": "4888723",
-      "time": "2026-05-20 01:40:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯：我們可以重啟軍事行動。"
-    },
-    {
-      "id": "4888722",
-      "time": "2026-05-20 01:40:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯：我們認為在與伊朗的關係上取得了很大進展。"
-    },
-    {
-      "id": "4888721",
-      "time": "2026-05-20 01:40:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯：特朗普指示我們積極與伊朗談判。"
-    },
-    {
-      "id": "mkt:019e4152-393b-7228-9afe-56c05ef121a2",
-      "time": "2026-05-20 01:39:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US VP VANCE: JUST SPOKE WITH TRUMP ABOUT IRAN, WE HAVE TWO PATHS WE CAN GO DOWN WITH IRAN"
-    },
-    {
-      "id": "4888720",
-      "time": "2026-05-20 01:39:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯：我們與伊朗的關係有兩條路可以走。"
-    },
-    {
-      "id": "mkt:019e4151-e54c-7228-9afe-4fdd0f1d04bc",
-      "time": "2026-05-20 01:39:06",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "Star Stocks",
-        "Alphabet",
-        "GOOGL.O",
-        "Impact bullish"
-      ],
-      "text": "GOOGLE INTRODUCES NEW PERSONALIZED AI AGENT CALLED GEMINI SPARK - CONFERENCE"
-    },
-    {
-      "id": "4888719",
-      "time": "2026-05-20 01:39:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯：剛剛和特朗普談了伊朗問題。"
-    },
-    {
-      "id": "mkt:019e4151-b848-7228-9afe-43ab9eaa75ae",
-      "time": "2026-05-20 01:38:55",
-      "tags": [
-        "MKT News",
-        "LULU.O",
-        "Impact bearish"
-      ],
-      "text": "WSJ SAYS LULULEMON-WILSON TALKS COLLAPSE"
-    },
-    {
-      "id": "4888718",
-      "time": "2026-05-20 01:38:41",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【俄羅斯總統普京抵達北京開啟訪華行程】應國家主席習近平邀請，俄羅斯總統普京19日晚間乘坐專機抵達北京，開啟對中國的國事訪問行程。19日晚間11點12分，俄羅斯總統普京乘坐專機飛抵北京首都國際機場。這也是普京總統第25次到訪中國。中共中央政治局委員、外交部長王毅前往機場迎接。訪問期間，中俄兩國元首將就雙邊關係、各領域合作以及共同關心的國際地區問題交換意見。對於普京總統此訪，中國外交部發言人表示，近年來，在習近平主席和普京總統戰略引領下，中俄新時代全面戰略協作夥伴關係健康穩定深入發展，各領域合作不斷拓展，為兩國和兩國人民帶來實實在在的利益，也為維護全球戰略穩定和國際公平正義作出重要貢獻。今年是中俄戰略協作夥伴關係建立30週年、《中俄睦鄰友好合作條約》簽署25週年，也是“中俄教育年”啟動之年。雙方將以此為契機，繼續推動中俄關系向更深層次、更高水平發展，為世界注入更多穩定性和正能量。（央視新聞）"
-    },
-    {
-      "id": "4888717",
-      "time": "2026-05-20 01:37:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌在開發者大會推出全新個性化智慧體“Gemini Spark”。"
-    },
-    {
-      "id": "4888716",
-      "time": "2026-05-20 01:36:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯：下週將在空軍學院的儀式上發表講話。"
-    },
-    {
-      "id": "4888715",
-      "time": "2026-05-20 01:36:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌執行長：新款 Gemini 3.5 Flash 模型成本僅為競品模型的一半。"
-    },
-    {
-      "id": "4888714",
-      "time": "2026-05-20 01:36:16",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "谷歌執行長：Gemini 3.5 Pro將於下月推出。"
-    },
-    {
-      "id": "mkt:019e414f-51f0-7228-9afe-3b40cba8569e",
-      "time": "2026-05-20 01:36:02",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "Star Stocks",
-        "Alphabet",
-        "GOOGL.O",
-        "Impact bullish"
-      ],
-      "text": "GOOGLE CEO: NEW GEMINI 3.5 FLASH TWICE AS CHEAP AS RIVAL MODELS - CONFERENCE"
-    },
-    {
-      "id": "mkt:019e414f-03c3-7228-9afe-300437f248cc",
-      "time": "2026-05-20 01:35:57",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "GOOGL.O",
-        "Impact bullish"
-      ],
-      "text": "GOOGLE CEO: GEMINI 3.5 PRO COMING NEXT MONTH - CONFERENCE"
-    },
-    {
-      "id": "4888713",
-      "time": "2026-05-20 01:33:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以色列軍方已進入最高階別戒備狀態】鑑於未來幾天美國可能對伊朗採取軍事行動，以色列軍方已進入最高階別戒備狀態。美國總統特朗普宣佈推遲原定對伊朗的打擊計劃，以色列對此感到意外，並且是在最後一刻才接到這一決定的通知。以色列空軍正在為一種情景做準備：特朗普可能最快於未來幾天下令對伊朗發動打擊。據悉，以色列與美國已完成對最新一輪戰事的聯合空軍評估；雙方正採取措施，確保未來任何打擊都將具有重大殺傷力，包括採取措施保持空中優勢。"
-    },
-    {
-      "id": "4888712",
-      "time": "2026-05-20 01:32:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "委內瑞拉國家石油公司副董事長：將恪守油氣相關合同，並呼籲引入外資。"
-    },
-    {
-      "id": "mkt:019e414b-7f7b-7228-9afe-2dbd9b36279e",
-      "time": "2026-05-20 01:32:07",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "VICE PRESIDENT OF VENEZUELA'S STATE-RUN PDVSA SAYS OIL, GAS CONTRACTS WILL BE HONORED, CALLS FOR FOREIGN INVESTMENT"
-    },
-    {
-      "id": "em:qqyh_mlc:202605203742418811",
-      "time": "2026-05-20 01:29:17",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "週二（5月19日），美聯儲隔夜逆回購協議（RRP）使用規模為129.11億美元。"
     }
   ]
 }
