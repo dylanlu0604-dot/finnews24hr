@@ -1,7 +1,44 @@
 {
-  "updated": "2026-05-26 14:06:02",
-  "count": 15538,
+  "updated": "2026-05-26 14:09:59",
+  "count": 15528,
   "items": [
+    {
+      "id": "mkt:019e62e6-b342-7ff6-adfb-b3e3845833e1",
+      "time": "2026-05-26 14:09:06",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "005930.KS",
+        "Impact bearish"
+      ],
+      "text": "【Samsung Bonus Deal Seen Adding to Korea Inflation, Housing Risks】Bonus agreements at Samsung Electronics Co. and SK Hynix Inc. risk turning South Korea’s AI-driven chip boom into a source of inflation and housing-market pressure, according to media. Economist Hyosung Kwon said chip-sector bonuses are increasingly feeding into household liquidity, asset prices and wage growth, adding to financial stability and inflation risks for the Bank of Korea. Kwon said the trend supports the case for a hawkish shift in the third quarter and leaves room for at least 100 basis points of tightening by the first half of 2027."
+    },
+    {
+      "id": "4899695",
+      "time": "2026-05-26 14:08:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【文科股份：子公司聯合中標峨勝水泥九里廠區分散式光伏專案一期】據文科股份訊息，近日，公司全資子公司深圳文科綠色工程有限公司聯合廣東永光新能源設計諮詢有限公司，成功中標峨勝水泥九里廠區分散式光伏專案一期，中標金額達3350.75萬元，是目前公司承接的單體容量最大的工商業光伏專案。"
+    },
+    {
+      "id": "4899694",
+      "time": "2026-05-26 14:06:12",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【德商銀行：德國國債收益率預計將部分收復週一跌幅】德國商業銀行的Erik Liem和Rainer Guntermann在一份報告中表示，美國最新的打擊行動使剛剛出現的與伊朗達成協議的希望面臨考驗，德國國債收益率料將部分收復週一的大幅跌幅。這些利率策略師寫道：“在希望依然存在的情況下，未來幾天似乎可能會出現一些反覆。“週二歐元區政府債券供應的重頭戲是義大利債券拍賣，將發行2028年2月到期的義大利國債以及兩隻通脹掛鉤債券，即2031年8月到期的BTPei和2046年2月到期的BTPei。"
+    },
+    {
+      "id": "4899693",
+      "time": "2026-05-26 14:05:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "據韓國YTN電視臺26日報道，韓國首爾市內一座高架橋拆除現場發生坍塌事故，人員傷亡情況正在確認中。（新華社）"
+    },
     {
       "id": "mkt:019e62e2-6814-7ff6-adfb-aa3bc4e65fd4",
       "time": "2026-05-26 14:04:25",
@@ -138930,126 +138967,6 @@
         "Importance 2"
       ],
       "text": "UK Wage Growth Slows to Over 5-Year Low — Regular pay in the UK, excluding bonuses, rose 3.4% year-on-year to GBP 693 per week in the three months to March 2026, easing from a 3.6% growth in the previous period and matching market expectations. It was the weakest increase since the three months to October 2020, with private sector wages slowing to 3.0% from 3.2%, the lowest since the three months to October 2020. Also, public sector pay moderated to 4.8% from the prior 5.2%, the softest since late 2024. By industry, annual gains were seen in wholesale, retail, hotels, and restaurants (3.6%), manufacturing (3.2%), services (3.6%), and finance and business services (2.4%), but declined for construction (-0.6%). Adjusted for inflation, real wages edged up 0.1% in the three months to March, after a 0.2% gain in the previous period, the lowest since mid-2023."
-    },
-    {
-      "id": "4887275",
-      "time": "2026-05-19 14:09:43",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗副外長表示，解除制裁、解凍凍結資金、結束封鎖均被納入伊朗近期向美方提交的提案。"
-    },
-    {
-      "id": "4887274",
-      "time": "2026-05-19 14:08:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "【Situational Awareness披露一季度持倉：市值升至137億美元，重倉半導體看跌期權】當地時間5月18日，華爾街新秀利奧波德·阿申布倫納（Leopold Aschenbrenner）所管理的投資機構“態勢感知（Situational Awareness）”披露2026年一季度美股持倉資料。13F報告顯示，該機構一季度美股持倉總市值達到137億美元，較上一季度的55.2億美元大幅增長。從持倉明細來看，態勢感知在一季度密集配置了半導體及科技巨頭的看跌期權。其中，前五大持倉全部為看跌期權，分別為：VanEck半導體ETF看跌期權、英偉達看跌期權、甲骨文看跌期權、博通看跌期權以及超威半導體看跌期權。"
-    },
-    {
-      "id": "4887273",
-      "time": "2026-05-19 14:08:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "美銀調查顯示，40%的受訪者認為第二輪通脹是最大的尾部風險。"
-    },
-    {
-      "id": "4887272",
-      "time": "2026-05-19 14:08:32",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美銀調查顯示，62%受訪者預期30年期美國國債收益率將達到6%，20%受訪者預期目標水平為4%。"
-    },
-    {
-      "id": "4887271",
-      "time": "2026-05-19 14:08:29",
-      "tags": [
-        "市場",
-        "其他",
-        "焦點"
-      ],
-      "text": "美銀調查顯示，5月全球基金經理股票配置比例創紀錄漲幅。"
-    },
-    {
-      "id": "4887270",
-      "time": "2026-05-19 14:08:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "美銀調查顯示，僅4%的基金經理預計經濟將“硬著陸”。"
-    },
-    {
-      "id": "4887269",
-      "time": "2026-05-19 14:08:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國銀行調查顯示，66%的受訪者預計供應鏈瓶頸將在未來幾個月內消除。"
-    },
-    {
-      "id": "4887268",
-      "time": "2026-05-19 14:08:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "美銀調查顯示：現金持倉比例從4.3%降至3.9%，為2024年2月以來最大單月降幅。"
-    },
-    {
-      "id": "4887267",
-      "time": "2026-05-19 14:07:49",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【日本國債收益率再度上漲 反映債券市場進一步走弱】10年期和30年期日本國債收益率延續升勢，反映在全球債市大跌導致一些收益率升至歷史高位後，債券市場進一步走弱。10年期收益率和30年期收益率分別上漲5.5個基點，至2.795%和4.155%。"
-    },
-    {
-      "id": "4887266",
-      "time": "2026-05-19 14:07:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "【德商銀行：特朗普推遲對伊朗打擊之際，債券市場目前看似穩定】德國商業銀行的Christoph Rieger在一份報告中表示，來自中東的充滿希望的訊息已經阻止了債券的拋售，在收益率創下歷史新高後，市場正在企穩。美國總統特朗普表示，應海灣阿拉伯國家的要求，他推遲了原定於今天對伊朗進行的打擊。這位利率和信用研究主管表示，至於歐元區政府債券收益率，德國商業銀行認為它們“在目前的環境下具有投資價值”，但需要監測溢位風險，並且在大多數情況下收益率曲線可能會再次變陡。"
-    },
-    {
-      "id": "4887265",
-      "time": "2026-05-19 14:06:58",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒生科技指數午後再度轉漲，恒指現漲0.38%。"
-    },
-    {
-      "id": "4887264",
-      "time": "2026-05-19 14:06:57",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本 20 年期國債收益率上行 6.5 個基點，報 3.78%。"
-    },
-    {
-      "id": "4887263",
-      "time": "2026-05-19 14:06:44",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【大和證券：日本出口面臨霍爾木茲海峽關閉和旅遊業放緩的阻力】大和證券經濟學家Kento Minami表示，儘管週二公佈的日本增長資料顯示，1-3月期間出口穩步增長，但預計該出口未來將面臨下行壓力。他說：“由於霍爾木茲海峽關閉，對中東出口的直接下行壓力將持續存在，而源於國內供應限制的減產預計將拖累整體商品出口。”他補充說，入境旅遊（GDP資料中出口的組成部分）已經出現放緩，並且可能會進一步走弱，這反映了燃油附加費的上漲。"
-    },
-    {
-      "id": "4887262",
-      "time": "2026-05-19 14:06:20",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【半導體裝置板塊持續走強 耐科裝備20cm漲停創歷史新高】午後半導體裝置板塊持續走強，耐科裝備20cm漲停，中科飛測、中微公司漲超7%，均創歷史新高，此前聖暉整合漲停，長川科技、拓荊科技、盛美上海等跟漲。"
     }
   ]
 }
