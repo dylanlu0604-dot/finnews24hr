@@ -1,12 +1,12 @@
 {
-  "updated": "2026-05-26 11:32:05",
+  "updated": "2026-05-26 12:03:47",
   "items": [
     {
       "id": "2026052008",
       "date": "2026-05-20",
       "run_hour": 8,
-      "started_at": "2026-05-26 11:31:27",
-      "finished_at": "2026-05-26 11:32:05",
+      "started_at": "2026-05-26 12:03:35",
+      "finished_at": "2026-05-26 12:03:47",
       "status": "PARTIAL",
       "total_sources": 12,
       "success_count": 1,
@@ -101,12 +101,12 @@
         {
           "source": "fx678",
           "ok": false,
-          "status": "NETWORK_ERROR",
-          "reason": "網路或 HTTP 請求失敗：HTTPSConnectionPool(host='news.fx678.com', port=443): Read timed out. (read timeout=30)",
+          "status": "DATE_MISMATCH",
+          "reason": "fx678 日期不符：頁面最新日期是 2025-05-26，預期日期是 2026-05-20",
           "title": "",
           "url": "",
           "expected_date": "2026-05-20",
-          "actual_date": ""
+          "actual_date": "2025-05-26"
         },
         {
           "source": "investrade",
@@ -154,8 +154,8 @@
       "id": "2026052108",
       "date": "2026-05-21",
       "run_hour": 8,
-      "started_at": "2026-05-26 11:31:19",
-      "finished_at": "2026-05-26 11:31:27",
+      "started_at": "2026-05-26 12:03:24",
+      "finished_at": "2026-05-26 12:03:35",
       "status": "PARTIAL",
       "total_sources": 12,
       "success_count": 1,
@@ -303,8 +303,8 @@
       "id": "2026052208",
       "date": "2026-05-22",
       "run_hour": 8,
-      "started_at": "2026-05-26 11:30:39",
-      "finished_at": "2026-05-26 11:31:18",
+      "started_at": "2026-05-26 12:03:12",
+      "finished_at": "2026-05-26 12:03:23",
       "status": "PARTIAL",
       "total_sources": 12,
       "success_count": 1,
@@ -399,12 +399,12 @@
         {
           "source": "fx678",
           "ok": false,
-          "status": "NETWORK_ERROR",
-          "reason": "網路或 HTTP 請求失敗：HTTPSConnectionPool(host='news.fx678.com', port=443): Read timed out. (read timeout=30)",
+          "status": "DATE_MISMATCH",
+          "reason": "fx678 日期不符：頁面最新日期是 2025-05-26，預期日期是 2026-05-22",
           "title": "",
           "url": "",
           "expected_date": "2026-05-22",
-          "actual_date": ""
+          "actual_date": "2025-05-26"
         },
         {
           "source": "investrade",
@@ -452,8 +452,8 @@
       "id": "2026052308",
       "date": "2026-05-23",
       "run_hour": 8,
-      "started_at": "2026-05-26 11:29:59",
-      "finished_at": "2026-05-26 11:30:39",
+      "started_at": "2026-05-26 12:02:59",
+      "finished_at": "2026-05-26 12:03:07",
       "status": "PARTIAL",
       "total_sources": 12,
       "success_count": 3,
@@ -548,12 +548,12 @@
         {
           "source": "fx678",
           "ok": false,
-          "status": "NETWORK_ERROR",
-          "reason": "網路或 HTTP 請求失敗：HTTPSConnectionPool(host='news.fx678.com', port=443): Read timed out. (read timeout=30)",
+          "status": "DATE_MISMATCH",
+          "reason": "fx678 日期不符：頁面最新日期是 2025-05-26，預期日期是 2026-05-23",
           "title": "",
           "url": "",
           "expected_date": "2026-05-23",
-          "actual_date": ""
+          "actual_date": "2025-05-26"
         },
         {
           "source": "investrade",
@@ -601,16 +601,17 @@
       "id": "2026052608",
       "date": "2026-05-26",
       "run_hour": 8,
-      "started_at": "2026-05-26 11:29:08",
-      "finished_at": "2026-05-26 11:29:59",
+      "started_at": "2026-05-26 12:02:34",
+      "finished_at": "2026-05-26 12:02:51",
       "status": "PARTIAL",
       "total_sources": 12,
-      "success_count": 6,
-      "failure_count": 6,
+      "success_count": 7,
+      "failure_count": 5,
       "success_sources": [
         "taishin",
         "nomura",
         "jin10",
+        "fx678",
         "westpac",
         "uob",
         "mizuho"
@@ -620,7 +621,6 @@
         "cathay",
         "edwardjones",
         "factset",
-        "fx678",
         "investrade"
       ],
       "sources": [
@@ -696,13 +696,13 @@
         },
         {
           "source": "fx678",
-          "ok": false,
-          "status": "NETWORK_ERROR",
-          "reason": "網路或 HTTP 請求失敗：HTTPSConnectionPool(host='news.fx678.com', port=443): Read timed out. (read timeout=30)",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
           "title": "",
-          "url": "",
+          "url": "https://news.fx678.com/202605260529332469.shtml",
           "expected_date": "2026-05-26",
-          "actual_date": ""
+          "actual_date": "2026-05-26"
         },
         {
           "source": "investrade",

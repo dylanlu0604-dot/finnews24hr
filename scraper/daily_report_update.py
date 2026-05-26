@@ -207,22 +207,23 @@ def run_daily_update(target_date: dt.date, sources: list[str], run_hour: int | N
             summary_error = str(exc)
             print(f"[ERROR] Daily summary failed: {summary_error}")
 
-    news_item = {
-        "id": run_id,
-        "date": target_date.isoformat(),
-        "run_hour": hour,
-        "generated_at": now_tw().strftime("%Y-%m-%d %H:%M:%S"),
-        "model": OPENAI_SUMMARY_MODEL,
-        "status": "SUMMARY_READY" if summary_text else "SUMMARY_SKIPPED",
-        "summary_error": summary_error,
-        "source_count": len(results),
-        "success_count": len(success_results),
-        "failure_count": len(failed_results),
-        "success_sources": [result.source for result in success_results],
-        "failed_sources": [result.source for result in failed_results],
-        "content": summary_text,
-    }
-    update_daily_news(news_item)
+    if summary_text:
+        news_item = {
+            "id": run_id,
+            "date": target_date.isoformat(),
+            "run_hour": hour,
+            "generated_at": now_tw().strftime("%Y-%m-%d %H:%M:%S"),
+            "model": OPENAI_SUMMARY_MODEL,
+            "status": "SUMMARY_READY",
+            "summary_error": "",
+            "source_count": len(results),
+            "success_count": len(success_results),
+            "failure_count": len(failed_results),
+            "success_sources": [result.source for result in success_results],
+            "failed_sources": [result.source for result in failed_results],
+            "content": summary_text,
+        }
+        update_daily_news(news_item)
     print(f"[DAILY] Log saved. success={len(success_results)} failure={len(failed_results)}")
     if summary_text:
         print(f"[DAILY] Summary saved with model {OPENAI_SUMMARY_MODEL}")
