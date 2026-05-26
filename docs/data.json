@@ -1,7 +1,47 @@
 {
-  "updated": "2026-05-26 13:10:36",
-  "count": 15568,
+  "updated": "2026-05-26 13:14:39",
+  "count": 15570,
   "items": [
+    {
+      "id": "4899650",
+      "time": "2026-05-26 13:13:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：四方會談將在港口基礎設施上成為夥伴；啟動關鍵礦產框架。"
+    },
+    {
+      "id": "4899649",
+      "time": "2026-05-26 13:13:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【港股大模型概念股智譜漲5.07%，報1347.00港元】港股大模型概念股智譜漲5.07%，報1347.00港元；MINIMAX-W現跌2%，此前跌超10%。"
+    },
+    {
+      "id": "4899648",
+      "time": "2026-05-26 13:12:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "體育概念逆勢活躍，粵傳媒封漲停，金陵體育、中體產業、舒華體育、共創草坪等跟漲。"
+    },
+    {
+      "id": "4899647",
+      "time": "2026-05-26 13:12:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧在印度出席四方會談部長級會議時發表講話：啟動印太海上監測計劃；將宣佈四方安全對話關於印太能源安全的倡議。"
+    },
+    {
+      "id": "4899646",
+      "time": "2026-05-26 13:09:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄羅斯一民宅發生火災致6人死亡 】俄羅斯鄂木斯克州一處民宅26日發生火災，造成包括4名兒童在內的6人死亡。 鄂木斯克州偵查部門當天在社交平臺發文說，火災發生在該州尤里耶夫卡村的一處民宅。目前，相關部門人員正在現場展開事故原因調查工作。"
+    },
     {
       "id": "4899645",
       "time": "2026-05-26 13:08:20",
@@ -5107,6 +5147,34 @@
         "Importance 0"
       ],
       "text": "Norwegian Krone Hits 4-year High — The Norwegian Krone touched 9.13 against the USD, the highest since April 2022. Over the past 4 weeks, US Dollar Norwegian Krone lost 0.82%, and in the last 12 months, it decreased 8.7%."
+    },
+    {
+      "id": "mkt:019e62b2-f7f9-7ff6-adfb-6ce71867bbfc",
+      "time": "2026-05-26 05:12:36",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Rubio Announces Quad Initiative On Indo-Pacific Energy Security"
+    },
+    {
+      "id": "mkt:019e62b2-5b59-7ff6-adfb-60d4aab244df",
+      "time": "2026-05-26 05:11:56",
+      "tags": [
+        "MKT News",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "Rubio Announces Quad Critical Minerals Framework"
+    },
+    {
+      "id": "mkt:019e62b1-3e27-7ff6-adfb-5bbc05f6091c",
+      "time": "2026-05-26 05:10:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Secretary Rubio Launches Quad Indo-Pacific Maritime Monitoring Initiative"
     },
     {
       "id": "mkt:019e62af-4e2b-7ff6-adfb-54b8ea0be190",
@@ -139273,72 +139341,6 @@
         "Importance 1"
       ],
       "text": "FX Updates: South Korean Won Drops by 1.07% — Top currency losers are South Korean Won (-1.07%), Australian Dollar (-0.50%), New Zealand Dollar (-0.37%), British Pound (-0.20%), Euro (-0.16%) and Japanese Yen (-0.10%). Gains are led by Dollar Index (0.14%)."
-    },
-    {
-      "id": "4887197",
-      "time": "2026-05-19 13:14:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "【澳大利亞北領地通報兩例墨累河谷腦炎死亡病例】澳大利亞方面19日訊息，北領地衛生部門發言人通報，過去兩個月，當地有兩人死於墨累河谷腦炎。該疾病主要透過攜帶該病毒的蚊子傳播，症狀包括劇烈頭痛、發燒、噁心嘔吐、肌肉痠痛、意識混亂等。由於今年降雨量顯著，容易滋生蚊蟲，北領地衛生部門已將風險區域擴大到整個地區。"
-    },
-    {
-      "id": "mkt:019e3ea8-1d53-7aa9-b722-fea3eb05ebf8",
-      "time": "2026-05-19 13:14:25",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Hot",
-        "Policy",
-        "Breaking News 24h",
-        "005930.KS",
-        "Impact bullish"
-      ],
-      "text": "ACCORDING TO MEDIA REPORTS CITING A LABOUR OFFICIAL, SAMSUNG’S SOUTH KOREAN UNION HAS EASED ITS POSITION, OPENING THE DOOR TO A DEAL"
-    },
-    {
-      "id": "4887196",
-      "time": "2026-05-19 13:14:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國地震局啟動中南五省區聯防聯建機制】記者19日獲悉，針對廣西柳州市柳南區5.2級地震，中國地震局啟動中南五省區聯防聯建機制。5月18日，廣西柳州市柳南區發生兩次5.2級地震。中國地震局調派廣西、廣東、湖北、湖南、海南等省級地震部門，以及中國地震臺網中心、中國地震災害防禦中心等專家共85人組成現場工作隊，攜帶流動觀測、無人機、衛星通訊等專業裝置緊急趕赴震區，開展現場應急流動加密監測、災害調查、烈度評定等工作。目前，完成16個調查點烈度調查工作，佈設7個流動觀測站點和49套節點地震儀，震區監測能力達到1.0級左右。據悉，中國地震局已組織中國地震臺網中心、地震預測研究所和廣西、廣東、海南等省級地震局開展3次緊急會商，研判震情趨勢。"
-    },
-    {
-      "id": "mkt:019e3ea6-da56-7aa9-b722-f32a706156c4",
-      "time": "2026-05-19 13:13:02",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Chip Wars",
-        "The Trump Trade",
-        "Magnificent 7",
-        "CSI300",
-        "Impact bullish",
-        "NVDA.O",
-        "Impact bearish",
-        "CNH"
-      ],
-      "text": "【Trump–Xi Summit Seen Easing Investor Concerns Despite Limited Breakthroughs: Julius Baer】The Trump–Xi summit last week is expected to help ease investor concerns over U.S.–China relations, even without major positive surprises, Julius Baer says. Analyst Richard Tang says the meeting effectively extended the trade truce by establishing a negotiation framework with shared objectives, though progress in other areas remains limited. China’s decision not to approve purchases of Nvidia H200 chips has also reassured investors favoring domestic tech, with Chinese semiconductor stocks supported by Beijing’s push for self-reliance. In the near term, Julius Baer expects continued gains in AI infrastructure equities and sees humanoid robotics stocks rebounding on improving shipment expectations."
-    },
-    {
-      "id": "4887195",
-      "time": "2026-05-19 13:11:42",
-      "tags": [
-        "市場"
-      ],
-      "text": "電力板塊午後持續拉昇，豫能控股、浙能電力雙雙漲停，上海電力、涪陵電力、京能熱力、京能電力此前封板。"
-    },
-    {
-      "id": "4887194",
-      "time": "2026-05-19 13:11:31",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "據韓媒引述勞工官員訊息，三星韓國工會已做出一定讓步，雙方存在達成協議的可能性。"
     }
   ]
 }
