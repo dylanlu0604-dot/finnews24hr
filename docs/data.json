@@ -1,7 +1,31 @@
 {
-  "updated": "2026-05-26 10:22:22",
-  "count": 15565,
+  "updated": "2026-05-26 10:26:16",
+  "count": 15563,
   "items": [
+    {
+      "id": "4899469",
+      "time": "2026-05-26 10:25:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金百澤：相關能力可應用於半導體產業鏈相關環節 但現階段處於產品研發迭代階段】金百澤近日在業績說明會上表示，公司專注電子互連及封裝技術，聚焦PCB、IPDM及相關中試與工程服務能力建設，業務覆蓋人工智慧、資訊科技、工業控制、汽車電子、醫療裝置等領域。公司並不直接從事半導體、儲存器或儲存晶片的設計製造業務，相關佈局主要是依託電子互連、封裝基板、PCB設計、模擬分析、樣板及小批次製造等能力，為客戶研發、中試和工程化階段提供配套服務。在上述方向上，公司持續推進封裝載板等高階特色產品的技術研發和產品能力建設，並開展儲存、射頻等晶片封裝基板、多層超高密度互連類載板等的技術研究和產品開發，已實現樣板和小批次交付。相關能力可應用於半導體及高速通訊等產業鏈相關環節，但現階段處於產品研發迭代和客戶拓展階段，目前對公司整體收入和經營業績影響較小。"
+    },
+    {
+      "id": "4899468",
+      "time": "2026-05-26 10:24:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "據問界汽車訊息，問界M6交付突破2萬臺。"
+    },
+    {
+      "id": "4899467",
+      "time": "2026-05-26 10:22:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【商務部：中國是跨國公司面向未來佈局的必選地】在今天國新辦釋出會上，商務部副部長鄢東表示，今年1-4月，全國新設立外商投資企業超過2萬家，同比增長6.8%，其中有3000餘家外資企業追加投資。他指出，中國不僅是全球經濟的穩定器，更是跨國公司面向未來佈局的必選地。（中國經營報）"
+    },
     {
       "id": "4899466",
       "time": "2026-05-26 10:21:31",
@@ -3710,6 +3734,16 @@
       "text": "以色列軍方表示，正在襲擊黎巴嫩貝卡谷地及其他多個區域的真主黨基礎設施。"
     },
     {
+      "id": "mkt:019e6219-fc40-7dd8-b21d-bc4ef6e0d80a",
+      "time": "2026-05-26 02:25:30",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Indonesia's Sovereign Wealth Fund Boosts AI Data Center Investment】Indonesia Investment Authority (INA) Deploys IDR 74.5trn (USD 4.2bln); ~30% Into Digital Infrastructure; AUM >USD 8bln; Data-Center Capacity 74MW 100% Leased; INA Caps Digital Allocation At 30% Annually; MOODY'S Sees >=USD 3trn Data-Center-Related Flows Over Next 5 Years"
+    },
+    {
       "id": "te:markets:553507",
       "time": "2026-05-26 02:25:00",
       "tags": [
@@ -3719,6 +3753,36 @@
         "Importance 1"
       ],
       "text": "Agricultural Commodities Updates: Orange Juice Drops by 2.70% — Top commodity losers are Orange Juice (-2.70%), Rapeseed (-2.18%) and Canola (-1.79%). Gains are led by Cocoa (0.58%)."
+    },
+    {
+      "id": "mkt:019e6218-6ac3-7dd8-b21d-b767cfcf80a0",
+      "time": "2026-05-26 02:23:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Rubio: No Active Or Scheduled US-Ukraine Talks"
+    },
+    {
+      "id": "mkt:019e6217-7dac-7dd8-b21d-a9604d63b86a",
+      "time": "2026-05-26 02:22:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "U.S. Secretary Of State Rubio, On U.S. Strike Today: The Straits Have To Be Open, They'Re Going To Be Open One Way Or The Other"
+    },
+    {
+      "id": "mkt:019e6217-3470-7dd8-b21d-a6d412474799",
+      "time": "2026-05-26 02:22:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Rubio: Iran-Deal Wording Talks May Take Several More Days"
     },
     {
       "id": "mkt:019e6216-102f-7dd8-b21d-9f9b5be6829e",
@@ -139172,88 +139236,6 @@
         "Impact bearish"
       ],
       "text": "CHINA'S CSI RARE EARTH INDEX DOWN 3%"
-    },
-    {
-      "id": "4886989",
-      "time": "2026-05-19 10:25:51",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【產能將激增 前三星晶片負責人預測明年下半年記憶體將顯著降價】週二，韓國國家工程院第285屆NAEK論壇上，三星電子裝置解決方案部門常任顧問、三星半導體（DS）部門前總裁慶桂顯（Kye-hyun Kyung）表示，中國企業正在積極擴大產能，隨著儲存晶片供應量的激增，市場格局可能會在明年下半年或2028年上半年發生轉變。他補充稱，如果大型科技公司的資本支出回報率下降，就有可能削減投資。這樣，不僅價格會下降，記憶體需求本身在2028年後也可能萎縮。"
-    },
-    {
-      "id": "4886988",
-      "time": "2026-05-19 10:25:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "【擎朗智慧劉斐：2030年服務機器人將在萬億機器人市場中佔據過半的份額】5月19日，在2026(第三屆)高工人形機器人技術應用峰會上，擎朗智慧戰略技術官劉斐表示，2030年全球機器人將以20%的複合增長率達到1.12萬億人民幣的規模，其中專業服務機器人將以最高24.6%的增速達到6300億的規模，屆時將成為機器人市場最大的細分賽道。"
-    },
-    {
-      "id": "4886987",
-      "time": "2026-05-19 10:25:16",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【晶片公司Analog Devices據悉接近達成交易以15億美元收購Empower】5月19日訊息，據報道，晶片公司Analog Devices就以15億美元現金收購非上市公司Empower Semiconductor進行深入談判，最終協議尚未達成，細節可能會發生變化，談判也可能最終無果而終。Analog Devices設計、製造和銷售用於工業和通訊裝置、消費電子產品和汽車等領域的晶片，股價今年已上漲54%，市值達到2040億美元。"
-    },
-    {
-      "id": "te:markets:551768",
-      "time": "2026-05-19 10:25:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "China Stocks on 4-Session Decline — The Shanghai Composite fell 0.4% to 4,115 on Monday, while the Shenzhen Component dropped 0.8% to 15,402, with both benchmarks marking their fourth consecutive session of decline, dragged down by significant losses in tech shares. Hygon Information Technology (-2.9%), Zhongji Innolight (-2.1%), Eoptolink Technology (-1.9%), and Victory Giant Technology (-1.8%) were notable laggards as investors locked in profits from the recent surge in tech shares and gearing up for Nvidia's quarterly reports this week. In a similar vein, Nvidia CEO Jensen Huang stated that China will eventually permit the import of AI processors from the US. The recent remarks were made following the high-stakes conference between Presidents Donald Trump and Xi Jinping, during which Xi met Huang and other US corporate executives. On the monetary policy front, investors will be anticipating Wednesday's decision on the one-year and five-year loan prime rates, which are expected to remain at 3% and 3.5%, respectively."
-    },
-    {
-      "id": "mkt:019e3e0c-bd8d-7aa9-b722-0270ac7b5fe0",
-      "time": "2026-05-19 10:24:40",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bearish"
-      ],
-      "text": "JAPAN'S NIKKEI SHARE AVERAGE EXTENDS LOSS, LAST DOWN 0.6%"
-    },
-    {
-      "id": "4886986",
-      "time": "2026-05-19 10:24:34",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【國家金融與發展實驗室理事長李揚：抓好“六張網”投資建設】中國社會科學院學部委員、國家金融與發展實驗室理事長李揚5月19日在金融街·金城坊論壇會上表示，當前，擴張性宏觀調控政策仍須加力。具體看，要大力發展資本市場，尤其要完善股票市場的各種制度，注重併購重組。在繼續促進消費的同時，要重視投資的重要性，尤其抓好水網、新型電網等“六張網”投資建設。此外，要加強貨幣政策和財政政策協調配合。 (新華財經)"
-    },
-    {
-      "id": "4886984",
-      "time": "2026-05-19 10:24:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "【銅價小幅走高 企業仍持謹慎態度】亞洲早盤交易中銅價小幅走高，價格繼續波動。南華期貨在一份報告中表示，由於價格高企，中國企業對採購仍持謹慎態度。該機構補充稱，進口銅持續抵達上海市場，推高了整體庫存水平。三個月期 LME 銅合約上漲 0.2%，至每噸 13,613.50 美元。"
-    },
-    {
-      "id": "4886983",
-      "time": "2026-05-19 10:23:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "日經225指數跌幅擴大，最新報跌0.6%。"
-    },
-    {
-      "id": "4886982",
-      "time": "2026-05-19 10:22:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "大金重工啟動7億美元香港上市預路演。"
     }
   ]
 }
