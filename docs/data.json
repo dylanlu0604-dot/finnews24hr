@@ -1,7 +1,67 @@
 {
-  "updated": "2026-05-26 10:14:34",
-  "count": 15560,
+  "updated": "2026-05-26 10:18:27",
+  "count": 15556,
   "items": [
+    {
+      "id": "4899455",
+      "time": "2026-05-26 10:17:19",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼股市基準指數上漲1%至6268.63點。"
+    },
+    {
+      "id": "4899454",
+      "time": "2026-05-26 10:17:10",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "菲律賓股市指數下跌1%至5948.27點。"
+    },
+    {
+      "id": "te:economy:553568",
+      "time": "2026-05-26 10:16:48",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "US 10-Year Yield Declines in Catch-Up Trade — The yield on the US 10-year Treasury note fell about 5 basis points to 4.5% on Tuesday as bond markets reopened following a holiday-extended weekend, with investors assessing the latest developments in the Middle East. President Donald Trump said talks with Tehran were progressing well, though he warned that further attacks could follow if negotiations collapsed. Meanwhile, the US military targeted missile launch sites and vessels suspected of attempting to deploy mines in southern Iran, with US Central Command saying the operations were intended to protect American troops in the region. Despite the ongoing tensions, oil prices have dropped sharply over the past week amid renewed optimism that the US and Iran could reach an agreement to end the conflict and reopen the Strait of Hormuz, easing concerns about inflation and interest rate hikes. Investors are now awaiting upcoming PCE inflation data for fresh clues on the Federal Reserve’s policy outlook."
+    },
+    {
+      "id": "4899453",
+      "time": "2026-05-26 10:15:45",
+      "tags": [
+        "公司",
+        "市場",
+        "國際",
+        "原創"
+      ],
+      "text": "【SMBC日興證券上調軟銀集團目標股價至8500日元】SMBC日興證券將軟銀集團目標股價從 5,200 日元上調至 8,500 日元，以反映其持有的ARM Holdings近期股價上漲，軟銀持有ARM Holdings約90%的股份。SMBC日興證券分析師表示，OpenAI的IPO也將有助於縮小這家日本公司長期以來的估值折讓。"
+    },
+    {
+      "id": "4899452",
+      "time": "2026-05-26 10:15:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨上漲1%。"
+    },
+    {
+      "id": "te:markets:553567",
+      "time": "2026-05-26 10:15:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Asia FX Updates: New Zealand Dollar Drops by 0.34% — Top currency loser is New Zealand Dollar (-0.34%). Gains are led by South Korean Won (0.29%). Meanwhile, Chinese Yuan and Japanese Yen were little changed."
+    },
     {
       "id": "te:economy:553566",
       "time": "2026-05-26 10:12:53",
@@ -3595,6 +3655,23 @@
         "國際"
       ],
       "text": "以色列北部靠近黎巴嫩邊境一帶遭遇無人機襲擊，目前暫無人員死亡報告。"
+    },
+    {
+      "id": "mkt:019e6212-7125-7dd8-b21d-8c6bffdbaae1",
+      "time": "2026-05-26 02:17:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Market Themes",
+        "AI Revolution",
+        "Nikkei 225",
+        "Impact bearish",
+        "9984.T",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Profit-Taking, Oil Rebound Pressure JAPAN'S NIKKEI INDEX Off Highs】JAPAN'S NIKKEI INDEX Retreats From Record; Prior Session +2.87% To 65,158.19; 3-Day Gain +8.95% Largest In >6 Years; AI Optimism Fueled Rally; Profit-Taking, Oil Price Rebound Weigh; Advantest -5%, Tokyo Electron -2.26%, Kioxia -5.45%; SoftBank Group +7% Supports Index; Kawasaki Heavy Industries, IHI ~+8%"
     },
     {
       "id": "te:markets:553505",
@@ -139107,106 +139184,6 @@
         "Importance 1"
       ],
       "text": "Hong Kong Stocks Climbs on Tech Rally — The Hang Seng Index edged higher 84 points, or 0.3%, to 25,760 on Tuesday, rebounding from the previous session as lower oil prices and easing fears of supply disruptions in the Middle East supported risk appetite. Sentiment improved after President Donald Trump said he had called off a planned strike on Iran, although he warned that military forces remain on standby if no agreement is reached. In Hong Kong, tech stocks advanced broadly, with the technology services sector leading gains, rising 10.5%, while financial shares also advanced. Among notable gainers were Tencent Holdings (2.1%), Meituan Class (0.7%), AIA Group (0.8%), Xiaomi Corporation (0.7%), and PICC Property and Casualty Corporation (0.5%). In contrast, Semiconductor Manufacturing International Corporation and Li Auto declined 2.8% and 3.5%, respectively."
-    },
-    {
-      "id": "4886978",
-      "time": "2026-05-19 10:18:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "【港股科網股逆勢上揚，騰訊控股漲幅擴大至3%】港股科網股逆勢上揚，騰訊控股漲幅擴大至3%，報463港元。阿里巴巴-W漲超1.5%，網易-S、百度集團-SW漲超2%。"
-    },
-    {
-      "id": "4886977",
-      "time": "2026-05-19 10:18:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "【阿根廷與美國啟動全球公共資源保護計劃】美國駐阿根廷大使館18日確認兩國正式啟動全球公共資源保護計劃，以加強南大西洋海域安全。美國駐阿根廷大使館當天透過社交媒體表示，該計劃為期5年。美國海軍將首先向阿根廷海軍的一架巡邏機交付一套專用攝像系統，隨後雙方將在裝備更新、人員培訓和攔截與應對海上威脅等方面進一步展開合作。（新華社）"
-    },
-    {
-      "id": "4886976",
-      "time": "2026-05-19 10:18:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "【CPO概念持續下挫 天孚通訊等多股跌超9%】CPO概念盤中持續下挫，天孚通訊、聯特科技、聯訊儀器、炬光科技、德科立跌超9%，騰景科技、長芯博創、東山精密、中際旭創跌幅靠前。"
-    },
-    {
-      "id": "te:economy:551762",
-      "time": "2026-05-19 10:17:39",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Interest Rate",
-        "Importance 1"
-      ],
-      "text": "RBA Sees Inflation Above Target Until 2027: May Minutes — Policymakers in Australia remained concerned about persistently high inflation, which had already been running well above target before the Middle East conflict began, minutes from the Reserve Bank's May meeting showed. The war’s impact on fuel costs further clouded the outlook, lifting headline inflation in March and likely again in the June quarter. Staff projected underlying inflation above 3% until late 2027, returning to the midpoint only by mid-2028. Board members weighed a 25bp hike against holding steady. Arguments for tightening stressed strong capacity pressures, and that financial conditions were “not sufficiently restrictive”. Concerns also centered on inflation expectations becoming “de-anchored” if elevated prices persisted. The case for pausing pointed to risks that conditions were already tight and that prolonged conflict could sap growth and labor demand. Most members judged inflation risks had risen, concluding the 4.1% cash rate might not be enough to contain them."
-    },
-    {
-      "id": "4886975",
-      "time": "2026-05-19 10:17:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "【小米YU7 GT重新整理紐北SUV圈速紀錄】5月19日，小米汽車宣佈，小米YU7 GT以7分34秒931的圈速，重新整理紐北SUV圈速紀錄。"
-    },
-    {
-      "id": "4886974",
-      "time": "2026-05-19 10:15:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "【貴州黔東南州暴雨預警升級為紅色 需防範山洪等次生災害】從貴州省氣象臺瞭解到，從5月18日6時至19日6時，貴州省黔東南州麻江縣、黔南州的惠水、貴定、都勻、龍里5縣域出現特大暴雨。其中降雨最大的是都勻市綠茵湖街道斗篷山，降雨量為310.4毫米。另有20縣域內的125個觀測站出現大暴雨。5月19日6時15分，黔東南州氣象臺將暴雨橙色預警升級為暴雨紅色預警：預計19日白天凱里、雷山、天柱、錦屏、黎平、榕江、臺江、劍河、從江、黃平、三穗等縣（市）部分鄉鎮有暴雨，局地大暴雨，最大小時降雨量60～80mm。請注意防範局地強降雨和持續降雨可能引發的中小河流洪水、山洪、城鎮暴雨積澇及滑坡、塌方等次生災害。"
-    },
-    {
-      "id": "4886973",
-      "time": "2026-05-19 10:15:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "【福建：支援光電裝備企業參與高世代及Micro LED高階顯示產線裝置國產化替代程序】近日，《福建省“十五五”光電產業叢集高質量發展行動方案（徵求意見稿）》公開徵求意見。其中提到，持續壯大光電關鍵材料品類和規模，加快發展超高純電子氣體、濺射靶材、試劑、光刻膠，高精度偏光片、掩膜版及高階封裝材料。持續鞏固提升鐳射晶體、非線性光學晶體、磁光晶體、聲光晶體等高效能光學晶體及磷化銦（InP）、GaAs、氮化鎵（GaN）等化合物半導體材料既有技術優勢及產業規模；加快發展精密鍍膜裝置、光源系統、光電檢測、光子探測、高溫退火等核心裝備及零部件，推動實現批次化生產和市場應用。支援省內光電裝備企業積極參與高世代及Micro LED高階顯示產線裝置國產化替代程序。加快推進光刻膠塗布裝置、巨量轉移裝置等海內外先進顯示裝備專案引進和落地，提升核心裝備自主保障能力。"
-    },
-    {
-      "id": "te:markets:551761",
-      "time": "2026-05-19 10:15:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Asia FX Updates: South Korean Won Drops by 0.89% — Top currency losers are South Korean Won (-0.89%), Australian Dollar (-0.39%), New Zealand Dollar (-0.38%) and Japanese Yen (-0.10%)."
-    },
-    {
-      "id": "4886972",
-      "time": "2026-05-19 10:14:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "【順為資本領投RoboParty蘿博派對天使+輪融資】5月19日，據光源資本訊息，“RoboParty蘿博派對”完成數千萬美元天使+輪融資，由順為資本領投，小米戰投追加投資。本輪融資距上一輪完成不到一個月，光源資本擔任孵化方和獨家財務顧問。"
-    },
-    {
-      "id": "4886971",
-      "time": "2026-05-19 10:14:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "【問界M7累計交付達45萬臺】5月19日，鴻蒙智行宣佈，問界M7累計交付達45萬臺。"
-    },
-    {
-      "id": "mkt:019e3e03-fa8a-7aa9-b721-f8ffdd54beef",
-      "time": "2026-05-19 10:14:55",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bearish"
-      ],
-      "text": "HONG KONG SEMICONDUCTOR SHARES EXTEND LOSSES, ILUVATAR COREX DOWN OVER 9%, INNOSCIENCE DOWN OVER 8%"
     }
   ]
 }
