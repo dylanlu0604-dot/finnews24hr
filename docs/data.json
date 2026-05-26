@@ -1,7 +1,138 @@
 {
-  "updated": "2026-05-27 05:17:36",
-  "count": 14978,
+  "updated": "2026-05-27 05:28:10",
+  "count": 14990,
   "items": [
+    {
+      "id": "mkt:019e662f-bf8e-7332-8106-eced167c48b1",
+      "time": "2026-05-27 05:27:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "LEBANESE HEALTH MINISTRY: recent Israeli airstrikes kill 31, injure 40"
+    },
+    {
+      "id": "mkt:019e662f-41cd-7332-8106-e683ce8ffd43",
+      "time": "2026-05-27 05:27:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Cuba FM Bruno Rodríguez Parrilla Denounces US 'Collective Punishment' Over Oil Embargo】Cuba FM Bruno Rodríguez Parrilla Tells UN Security Council US Energy Sanctions Violate International Law, Amount To Naval Blockade And 'Collective Punishment' (May 26)"
+    },
+    {
+      "id": "mkt:019e662e-7e94-7332-8106-df7e7cc80dcb",
+      "time": "2026-05-27 05:26:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "USTR GREER Sends Team To India Next Week To Finalize Framework Trade Deal"
+    },
+    {
+      "id": "4901036",
+      "time": "2026-05-27 05:25:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗最高領袖穆傑塔巴：懇請各位朝聖者也為我祈福。"
+    },
+    {
+      "id": "4901035",
+      "time": "2026-05-27 05:25:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：這（比特幣及加密貨幣產業）是一大支柱產業，我們必須對其加以保護。"
+    },
+    {
+      "id": "4901034",
+      "time": "2026-05-27 05:23:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：CFTC主席做得非常出色。"
+    },
+    {
+      "id": "4901033",
+      "time": "2026-05-27 05:23:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談預測市場：我們希望保持領先地位。"
+    },
+    {
+      "id": "4901032",
+      "time": "2026-05-27 05:22:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "蘋果和谷歌警告稱，加拿大一項法案將威脅加密服務安全。"
+    },
+    {
+      "id": "mkt:019e662a-854e-7332-8106-d7b6535ee36b",
+      "time": "2026-05-27 05:22:03",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact mixed",
+        "Nasdaq100"
+      ],
+      "text": "【Insiders: Musk Discussed Merging SpaceX With Tesla】Musk Discussed Merging SpaceX, Tesla; SpaceX To Start Nasdaq Trading In ~2 Weeks; SpaceX Valued At USD 1.25trln After Earlier XAI Merger; Tesla Market Cap ~USD 1.6trln; Firms Share Resources, Employees Expect Deal"
+    },
+    {
+      "id": "4901031",
+      "time": "2026-05-27 05:21:17",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：要守住全球加密貨幣與比特幣產業中心地位，抵禦境外競爭衝擊。"
+    },
+    {
+      "id": "4901030",
+      "time": "2026-05-27 05:20:38",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：必須保留美國商品期貨交易委員會對預測市場的專屬管轄權。"
+    },
+    {
+      "id": "4901029",
+      "time": "2026-05-27 05:19:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織（IMF）：孟加拉國當局已申請一項新的IMF支援規劃，IMF工作人員正與孟方就其改革議程及政策優先事項展開討論。"
+    },
+    {
+      "id": "te:economy:553849",
+      "time": "2026-05-27 05:18:19",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Korea",
+        "Business Confidence",
+        "Importance 1"
+      ],
+      "text": "South Korea Business Confidence Nears 4-Year High — South Korea’s Business Survey Index for the manufacturing sector rose to 80 in May 2026 from 74 in the previous month, marking the highest reading since August 2022. The production index increased to 90 from 88, while the new orders index climbed to 87 from 85. Meanwhile, the inventories index rose to 100 from 97, and the financial conditions index improved to 79 from 76. The Economic Sentiment Index, which combines the Business Survey Index and the Consumer Survey Index, increased by 5.8 points to 97.5 in May."
+    },
+    {
+      "id": "mkt:019e6626-6850-7332-8106-cb55e48ec59b",
+      "time": "2026-05-27 05:17:33",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O"
+      ],
+      "text": "ELON MUSK Weighs Tesla‑SpaceX Merger, CNBC"
+    },
     {
       "id": "4901028",
       "time": "2026-05-27 05:17:03",
@@ -134032,22 +134163,6 @@
         "其他"
       ],
       "text": "派拉蒙天空之舞： 預計完成收購華納兄弟探索交易後首年，可實現超 60 億美元預期協同效益中的約 30%。"
-    },
-    {
-      "id": "4888881",
-      "time": "2026-05-20 05:27:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "派拉蒙天空之舞：擬出價收購 24 億美元華納兄弟探索發行債券，並置換 128 億美元同類債券。"
-    },
-    {
-      "id": "4888880",
-      "time": "2026-05-20 05:22:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "【印度部分地區19日氣溫一度超45攝氏度】高溫熱浪正在影響印度多地。據印度氣象局當地時間19日下午釋出的資料，德里地區當天氣溫一度超過45攝氏度。印度氣象局已釋出“高溫黃色預警”，提醒當地居民採取一切必要預防措施，並密切關注天氣變化情況。印度氣象局當天還表示，本週印度西北部、中部等地區可能將持續出現高溫熱浪天氣。"
     }
   ]
 }
