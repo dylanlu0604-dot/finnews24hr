@@ -1,7 +1,35 @@
 {
-  "updated": "2026-05-26 13:22:36",
-  "count": 15564,
+  "updated": "2026-05-26 13:26:32",
+  "count": 15563,
   "items": [
+    {
+      "id": "te:markets:553628",
+      "time": "2026-05-26 13:24:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Rupiah Nears Record Low as Markets Await Key Data — The Indonesian rupiah slipped toward IDR 17,800 per U.S. dollar on Tuesday, extending losses for a fourth session and approaching its record low of IDR 17,830. Pressure stemmed from a firmer dollar as investors stayed cautious over inflation risks tied to Middle East uncertainty. Locally, worries over Indonesia’s external balance deepened after Q1 current account deficit hit the largest in over six years. Markets also braced for key data due next week, including May inflation and April trade. While April inflation was relatively mild, risks of renewed price pressures have grown amid escalating geopolitical tensions. March’s trade surplus was driven by weaker imports rather than export strength, underscoring fragility. Traders assessed new rules requiring export proceeds to remain in the domestic financial system, a measure seen as offering some support. Year-to-date, the rupiah has fallen about 6.4%, ranking among Asia’s worst performers alongside the Indian rupee and Philippine peso."
+    },
+    {
+      "id": "4899659",
+      "time": "2026-05-26 13:23:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "【魯比奧：美國與印太盟國達成關鍵礦產的框架協議】美國國務卿馬爾科·魯比奧表示，美國、日本、印度和澳洲將宣佈一項關鍵礦產框架協議。魯比奧補充說，該框架將指導各國“利用經濟政策工具和協調投資，加強關鍵礦產供應鏈，包括採礦、加工和關鍵礦產回收利用”。魯比奧表示，這四個國家還將宣佈一項關於印太地區能源安全的倡議，將有助於加強區域能源韌性。"
+    },
+    {
+      "id": "4899658",
+      "time": "2026-05-26 13:22:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【地平線徐健：拆分成立機器人公司，實現汽車“母生態”溢位效應】“我們希望從汽車出發通向一切，即汽車‘母生態’實現溢位效應。”日前，地平線首席生態官徐健在2026中國汽車論壇同濟大學專場上向等媒體記者透露，地平線已拆分成立“地瓜機器人”公司。 記者獲悉，地瓜機器人明確不做機器人本體，而是定位為機器人軟硬體通用底座提供商——為各類機器人提供晶片、演算法和軟體開發平臺。 2026年4月，地瓜機器人宣佈完成1.5億美元B2輪融資，B輪累計融資額達2.7億美元。公開資料顯示，地瓜機器人迄今總計推出超百款機器人產品。2025年，地瓜機器人年出貨量同比大幅增長180%，客戶數量同比增長200%，頭部客戶實現了從成熟消費級品類到前沿具身智慧機器人的全領域覆蓋。（中國經營報）"
+    },
     {
       "id": "4899657",
       "time": "2026-05-26 13:20:14",
@@ -139250,44 +139278,6 @@
         "市場"
       ],
       "text": "納斯達克期貨跌幅擴大，下跌0.63%；標普500指數期貨下跌0.4%。"
-    },
-    {
-      "id": "4887211",
-      "time": "2026-05-19 13:26:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "【武漢通報一村被曝62人患癌】湖北武漢市聯合調查組5月19日釋出情況通報： 針對媒體反映新洲區李集街張信村黃土坡灣昌盛泡花鹼廠相關環境問題，武漢市委、市政府高度重視，第一時間成立聯合調查組，圍繞村民健康、環境生態、生產關停等問題開展全面深入調查，調查情況將及時向社會公佈。感謝媒體和社會的監督。 據報道，湖北省武漢市新洲區李集街道張信村黃土坡自然村——這個戶籍人口僅585人的村莊，先後有62人罹患癌症和白血病，絕大多數為50歲以下青壯年，僅2015年以來就有34人確診，其中19人已去世，15人仍在治療。村民們懷疑，這一切與村頭一家泡花鹼廠有關。"
-    },
-    {
-      "id": "4887210",
-      "time": "2026-05-19 13:24:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "【曹操出行回應：涉事車輛在多家平臺派車，並非自有司機，4月已完成處理】近日，上海一名乘客在虹橋機場搭乘曹操出行網約車時，遭遇人車不符、強制線下交易、言語威脅等多重侵害，引發關注。曹操出行對介面新聞回應稱，此次事件在4月份已經完成閉環處理，且涉事車輛同時在多家網約車平臺上線派車，並非為曹操出行的自有司機。"
-    },
-    {
-      "id": "4887209",
-      "time": "2026-05-19 13:23:44",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內跌1%，現報1406.50美元/盎司。"
-    },
-    {
-      "id": "mkt:019e3eaf-f0a3-7aa9-b723-115ad99e6885",
-      "time": "2026-05-19 13:22:58",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "GOOGL.O"
-      ],
-      "text": "PROXY ADVISOR ISS RECOMMENDS ALPHABET SHAREHOLDERS VOTE FOR CO'S PROPOSAL TO REPORT ON IMPROPER USAGE OF EXTERNAL DATA TO DEVELOP AI PRODUCTS"
     }
   ]
 }
