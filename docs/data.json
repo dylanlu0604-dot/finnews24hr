@@ -1,7 +1,39 @@
 {
-  "updated": "2026-05-27 04:12:16",
-  "count": 14940,
+  "updated": "2026-05-27 04:16:05",
+  "count": 14941,
   "items": [
+    {
+      "id": "mkt:019e65ed-552e-7332-8106-2d98530c3c62",
+      "time": "2026-05-27 04:15:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "USTR GREER Says Proposed Section 301 Measures To Seek Public Comment At CFR Event"
+    },
+    {
+      "id": "mkt:019e65ec-5c0b-7332-8106-26fde23c8359",
+      "time": "2026-05-27 04:14:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US Releases Moon Base Construction Roadmap】NASA Details Three-Phase Moon-Base Roadmap For Long-Term Lunar South Pole Habitation"
+    },
+    {
+      "id": "4900979",
+      "time": "2026-05-27 04:13:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表格里爾：301條款調查將就擬採取的措施徵求公眾意見。"
+    },
+    {
+      "id": "4900978",
+      "time": "2026-05-27 04:13:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國公佈月球基地建設路線圖】美國國家航空航天局（NASA）26日公佈月球基地建設三階段路線圖，進一步細化未來在月球南極地區建設長期駐留設施的發展目標和實施路徑。 (新華社)"
+    },
     {
       "id": "te:markets:553844",
       "time": "2026-05-27 04:09:58",
@@ -133705,32 +133737,6 @@
         "國際"
       ],
       "text": "市場訊息：美國擬削減危機期間可供北約動用的兵力， 美國本週將向北約盟友通報撤軍相關計劃。"
-    },
-    {
-      "id": "4888860",
-      "time": "2026-05-20 04:16:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "惠普公司宣佈每股派發現金股息 0.3 美元。"
-    },
-    {
-      "id": "mkt:019e41e1-15eb-7228-9b00-3497d6057de3",
-      "time": "2026-05-20 04:15:30",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "TRUMP-IRS SETTLEMENT 'FOREVER' BARS AUDITS INTO TAX CLAIMS FOR TRUMP AND HIS FAMILY"
-    },
-    {
-      "id": "4888859",
-      "time": "2026-05-20 04:13:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "據Semafor：特朗普將指派貝森特向銀行下達移民相關指導意見。"
     }
   ]
 }
