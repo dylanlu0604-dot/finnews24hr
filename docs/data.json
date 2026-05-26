@@ -1,7 +1,98 @@
 {
-  "updated": "2026-05-26 10:18:27",
-  "count": 15556,
+  "updated": "2026-05-26 10:22:22",
+  "count": 15565,
   "items": [
+    {
+      "id": "4899466",
+      "time": "2026-05-26 10:21:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧就美國今日的打擊行動發表講話稱：海峽必須保持開放，無論如何最終都會開放。"
+    },
+    {
+      "id": "4899465",
+      "time": "2026-05-26 10:21:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【魯比奧稱伊朗談判將持續幾天】美國國務卿魯比奧在印度告訴記者，與伊朗的談判仍在進行中。魯比奧表示，他認為目前“雙方還在就初始檔案中的具體措辭進行很多來回討論，所以還需要幾天時間”。他說他相信特朗普要麼會達成一項好的協議，要麼就什麼都不達成。他補充說，霍爾木茲海峽正在發生的事情令人無法接受。"
+    },
+    {
+      "id": "4899464",
+      "time": "2026-05-26 10:20:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧談及伊朗問題：認為目前各方不過是就初始檔案中的具體措辭來回拉扯爭論罷了。"
+    },
+    {
+      "id": "4899463",
+      "time": "2026-05-26 10:20:50",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超1.5萬億元，較上日此時放量425億元。"
+    },
+    {
+      "id": "4899462",
+      "time": "2026-05-26 10:20:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：目前並未與烏克蘭開展任何正在進行的、既定安排的談判。"
+    },
+    {
+      "id": "4899461",
+      "time": "2026-05-26 10:20:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國盛證券：AI浪潮下被動元器件開啟超級新週期 MLCC廠商及產業鏈相關公司將持續受益】國盛證券釋出研報稱，功耗增長推動AI伺服器供電架構迭代，電感行業有望隨AI浪潮量價齊升。TrendForce預計，年底人工智慧伺服器專案將加大對高階MLCC的需求，從而推高價格。國產電感廠商已在AI相關應用有積極佈局，有望直接受益於此次伺服器供電架構改革帶來的新機遇。高階MLCC供需緊張將隨AI浪潮持續，國內MLCC廠商及產業鏈相關公司將持續受益。"
+    },
+    {
+      "id": "4899460",
+      "time": "2026-05-26 10:19:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：今日在卡達進行了若干會談。"
+    },
+    {
+      "id": "4899459",
+      "time": "2026-05-26 10:19:02",
+      "tags": [
+        "宏觀",
+        "公司"
+      ],
+      "text": "國務院新聞辦公室今天舉行新聞釋出會，商務部有關負責人介紹，第七屆跨國公司領導人青島峰會將於6月15日至17日在青島舉行。"
+    },
+    {
+      "id": "4899458",
+      "time": "2026-05-26 10:18:44",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "三星電機股價上漲19%，至160萬韓元。"
+    },
+    {
+      "id": "4899457",
+      "time": "2026-05-26 10:18:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【李成鋼會見東盟秘書長高金洪】5月22日，李成鋼國際貿易談判代表兼副部長在蘇州市會見來華出席亞太經合組織（APEC）貿易部長會議相關活動的東盟秘書長高金洪，雙方就深化中國—東盟經貿合作等交換意見。"
+    },
+    {
+      "id": "4899456",
+      "time": "2026-05-26 10:18:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【陳果：今年相對更像2015年而非2021年，指數看不到明顯泡沫和風險】東方財富研究所副所長、首席策略官陳果稱，今年和2015不同的是：整體槓桿資金/總市值佔比要低很多，雖然結構有抱團極致化跡象，但從估值位置看，指數看不到明顯泡沫和風險。"
+    },
     {
       "id": "4899455",
       "time": "2026-05-26 10:17:19",
@@ -3628,6 +3719,22 @@
         "Importance 1"
       ],
       "text": "Agricultural Commodities Updates: Orange Juice Drops by 2.70% — Top commodity losers are Orange Juice (-2.70%), Rapeseed (-2.18%) and Canola (-1.79%). Gains are led by Cocoa (0.58%)."
+    },
+    {
+      "id": "mkt:019e6216-102f-7dd8-b21d-9f9b5be6829e",
+      "time": "2026-05-26 02:21:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Rubio: Extensive Back-and-Forth Over Iran Draft Wording"
+    },
+    {
+      "id": "mkt:019e6215-a170-7dd8-b21d-92e5af818266",
+      "time": "2026-05-26 02:20:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Rubio Holds Talks in Qatar on Iran Today"
     },
     {
       "id": "te:markets:553506",
@@ -139147,43 +139254,6 @@
         "其他"
       ],
       "text": "大金重工啟動7億美元香港上市預路演。"
-    },
-    {
-      "id": "4886981",
-      "time": "2026-05-19 10:21:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "【數字產品影響孩子視力、注意力等 教育部緊急叫停“電子帶娃”】今天（19日），教育部啟動2026年全國學前教育宣傳月，主題是“共同守護數字時代的童年”，呼籲各地幼兒園“以遊戲為基本活動”，不能以伴讀、聊天、互動遊戲等兒童數字產品替代圖畫書、玩具，不能用數字產品直接生成兒童觀察記錄、評價幼兒等。引導廣大家長樹立“多陪伴、多遊戲、多運動、多親近自然”的育兒理念，自覺識別並抵制早教類App等商業宣傳誤導，防範“電子帶娃”。"
-    },
-    {
-      "id": "4886980",
-      "time": "2026-05-19 10:21:06",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【商業航天板塊震盪下探，中國衛星觸及跌停】商業航天板塊震盪下探，中國衛星觸及跌停，巨力索具此前跌停，理工導航、上海港灣、神劍股份跟跌。"
-    },
-    {
-      "id": "4886979",
-      "time": "2026-05-19 10:21:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "【比亞迪高管回應閃充傷電池】比亞迪電池事業群 CTO 孫華軍在接受採訪時，談到了“閃充傷電池”擔憂。 孫華軍坦言，大電流充電必然產生更高溫度，一般的熱管理技術已經無法匹配閃充的產熱速率，這是物理現實。但他同時指出，“不能簡單說閃充傷電池”—— 從 1C 到 2C 再到 4C、5C，每一代充電速度提升時都曾被質疑“傷電池”，而技術每一次都在進步。 談到電池工作溫度上限，孫華軍說，70℃ 只是過去的認知邊界，正如幾年前行業還認為磷酸鐵鋰電池高溫上限是 60℃ 一樣，“不能簡單地用自己過往經驗習慣，用慣性思維來看待新的技術”，而是透過各種創新，不停地去突破物理極限。 針對同行高管“25 萬元以上車型用鐵鋰電池是變相減配”的言論，孫華軍回應稱：電池廠沒有定義高階的權利。 “到底誰來定義高階？是電池供應商畫一條能量密度的線，還是消費者透過底盤操控、駕駛舒適性、補能速度、長期使用安全性來定義？”他認為，如果由一家電池供應商來定義什麼叫高階，“那既不尊重主機廠的工程能力，也不尊重使用者的真實判斷。” 孫華軍承認磷酸鐵鋰的技術邊界，但認為，仍有提升空間。他表示，比亞迪有信心在數年內，將鐵鋰體系的系統能量密度進一步提升。"
-    },
-    {
-      "id": "te:markets:551766",
-      "time": "2026-05-19 10:20:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Hong Kong",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Hong Kong Stocks Climbs on Tech Rally — The Hang Seng Index edged higher 84 points, or 0.3%, to 25,760 on Tuesday, rebounding from the previous session as lower oil prices and easing fears of supply disruptions in the Middle East supported risk appetite. Sentiment improved after President Donald Trump said he had called off a planned strike on Iran, although he warned that military forces remain on standby if no agreement is reached. In Hong Kong, tech stocks advanced broadly, with the technology services sector leading gains, rising 10.5%, while financial shares also advanced. Among notable gainers were Tencent Holdings (2.1%), Meituan Class (0.7%), AIA Group (0.8%), Xiaomi Corporation (0.7%), and PICC Property and Casualty Corporation (0.5%). In contrast, Semiconductor Manufacturing International Corporation and Li Auto declined 2.8% and 3.5%, respectively."
     }
   ]
 }
