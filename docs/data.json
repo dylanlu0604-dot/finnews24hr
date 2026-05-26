@@ -1,7 +1,31 @@
 {
-  "updated": "2026-05-27 01:05:36",
-  "count": 15082,
+  "updated": "2026-05-27 01:09:33",
+  "count": 15076,
   "items": [
+    {
+      "id": "4900901",
+      "time": "2026-05-27 01:08:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "NYMEX汽油期貨跌5%，創五週盤中新低。"
+    },
+    {
+      "id": "4900900",
+      "time": "2026-05-27 01:07:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "【倫敦鋁價創逾四年新高，受供應擔憂推動】LME期鋁漲0.8%，報3677.50美元/噸，此前曾漲至3,707.50美元，創下自2022年3月24日以來的最高水平。LME期銅跌0.3%，報13618.50美元。LME期鋅跌跌0.3%至3,532美元，期鉛漲0.2%至2,014美元，期錫漲0.9%至54,600美元，期鎳上漲0.3%至18,975美元。日內稍早，LME銅、鋅和錫觸及5月中旬以來的最高點，而鉛則觸及1月下旬以來最高。"
+    },
+    {
+      "id": "4900899",
+      "time": "2026-05-27 01:05:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "據知情人士透露，加拿大與德國SEFE接近達成液化天然氣（LNG）採購協議。"
+    },
     {
       "id": "4900898",
       "time": "2026-05-27 01:02:33",
@@ -134914,98 +134938,6 @@
         "MKT News"
       ],
       "text": "US GAS EXPORTERS SEEK DELAY TO EU METHANE IMPORT RULES UNTIL 2028, INDUSTRY GROUP SAYS"
-    },
-    {
-      "id": "mkt:019e4136-b058-7228-9afd-d6afd5da7049",
-      "time": "2026-05-20 01:09:23",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "EU METHANE LAW COULD DELAY LONG-TERM CONTRACTS, US INDUSTRY GROUP SAYS"
-    },
-    {
-      "id": "4888693",
-      "time": "2026-05-20 01:09:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "迪士尼：迪士尼+向部分訂閱使用者開放Hulu個人資料關聯功能。"
-    },
-    {
-      "id": "4888692",
-      "time": "2026-05-20 01:09:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國非洲司令部：5月18日，美國和奈及利亞對ISIS武裝分子發動了協同打擊。沒有美軍或奈及利亞軍隊人員傷亡。"
-    },
-    {
-      "id": "4888691",
-      "time": "2026-05-20 01:08:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌執行長：Gemini應用月活使用者一年內翻倍，現已突破9億。"
-    },
-    {
-      "id": "4888690",
-      "time": "2026-05-20 01:07:41",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "谷歌執行長：Gemini月活使用者已達9億。"
-    },
-    {
-      "id": "te:markets:552021",
-      "time": "2026-05-20 01:07:28",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Russia",
-        "Currency",
-        "Importance 0"
-      ],
-      "text": "Russian Ruble Rises to Over 3-Year High — The Russian ruble strengthened to 71 per USD in May, its highest in over three years, as higher energy prices increased the influx of foreign exchange in the Russian financial system. Oil and gas prices surged since the start of March after the outbreak of war in the Middle East suspended energy exports from the region, lifted prices of key commodities, and drove major energy consumers to turn to Russia for supply alternatives. The jump in exports was consolidated by the Russian trade surplus rising to its highest in two years in March. Consequently, foreign currency sales under the government's fiscal rule from energy sales tripled to $7.3 billion in April. On top of that, the series of sanctions and the slowdown in the Russian economy limited domestic demand for foreign goods, hampering the purchases of foreign currency that further strengthened the ruble. Meanwhile, the Bank of Russia signaled it may be done cutting rates as pro-inflationary risks remain."
-    },
-    {
-      "id": "mkt:019e4135-3285-7228-9afd-ccaa6c2b9098",
-      "time": "2026-05-20 01:07:28",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "GOOGL.O",
-        "Impact bullish"
-      ],
-      "text": "GOOGLE CEO: GEMINI HAS 900 MILLION MONTHLY USERS - CONFERENCE"
-    },
-    {
-      "id": "mkt:019e4134-e456-7228-9afd-c7c044900569",
-      "time": "2026-05-20 01:07:25",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7",
-        "GOOGL.O",
-        "Impact bullish"
-      ],
-      "text": "GOOGLE CEO: AI OVERVIEWS HAS 2.5 BLN MONTHLY USERS, AI MODE AT 1 BLN - CONFERENCE"
-    },
-    {
-      "id": "4888689",
-      "time": "2026-05-20 01:07:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌執行長：AI概覽功能月活使用者達25億，AI搜尋模式月活使用者達10億。"
     }
   ]
 }
