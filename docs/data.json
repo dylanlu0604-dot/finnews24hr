@@ -1,7 +1,30 @@
 {
-  "updated": "2026-05-27 05:51:30",
+  "updated": "2026-05-27 05:55:26",
   "count": 14998,
   "items": [
+    {
+      "id": "mkt:019e6647-0f8f-7332-8107-07d9df3c37b3",
+      "time": "2026-05-27 05:53:13",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "【USTR GREER Says 10% Global Tariff Could Be Reimposed After July Expiry】USTR GREER Says Trump's 10% Global Tariff Under Trade Act Sec.122 Could Be Reimposed After July Expiry; 150-Day Limit, Regs Silent On Restart; GREER Declines To Say If Admin Will Seek Extension; GREER Says Unlikely Congress Would Restrict Sec.122 To One Term"
+    },
+    {
+      "id": "4901052",
+      "time": "2026-05-27 05:51:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴西參議員博索納羅：我告訴特朗普，如果我當選，我們將達成貿易協議。"
+    },
     {
       "id": "4901051",
       "time": "2026-05-27 05:48:40",
@@ -134219,22 +134242,6 @@
         "國際"
       ],
       "text": "【歐洲央行管委Kocher：如果伊朗戰爭局勢沒有改善 6月可能不得不加息】歐洲央行管委會成員Martin Kocher表示，除非中東衝突有所緩和、能源價格回落，否則歐洲央行可能會在6月份下次會議上加息。Kocher對奧地利公共廣播機構ORF表示：“我不能代表管委會發言，屆時會進行討論，但我認為，如果這種情況持續更久，將別無選擇，只能加息。”上述言論與Kocher此前發出的資訊一致。他曾表示，任何決定最終都將取決於6月11日決議時可獲得的資料。Kocher表示，若要避免屆時加息，就必須很明確霍爾木茲海峽可以以某種形式通航，並且必須有更多石油、化肥和其他產品從該地區進入全球市場。"
-    },
-    {
-      "id": "4888892",
-      "time": "2026-05-20 05:55:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗駁斥美方“米納卜市遭襲小學位於導彈基地內”說法】當地時間19日，針對美方稱伊朗南部米納卜市此前遭空襲的小學位於伊朗一處現役巡航導彈基地內的說法，伊朗外交部發言人巴加埃當晚回應稱該說法“毫無根據”。巴加埃表示，美軍在學校上課期間襲擊伊朗境內的教育機構，嚴重違反了國際人道主義法，構成戰爭罪，該地點的民用性質無法被美方技術上的虛假陳述所掩蓋。負責下令和執行此次空襲的美國軍事指揮官和美當局必須根據國際法承擔全部責任。（央視新聞）"
-    },
-    {
-      "id": "4888891",
-      "time": "2026-05-20 05:52:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：SpaceX計劃在初創企業 Cursor 完成上市 30 天后將其收購，若收購 Cursor 交易告吹， SpaceX將支付 100 億美元現金違約金。"
     }
   ]
 }
