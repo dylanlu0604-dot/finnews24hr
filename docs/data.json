@@ -1,7 +1,33 @@
 {
-  "updated": "2026-05-26 08:28:52",
-  "count": 15557,
+  "updated": "2026-05-26 08:32:55",
+  "count": 15552,
   "items": [
+    {
+      "id": "4899274",
+      "time": "2026-05-26 08:30:58",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【臺積電持續走強 臺股市值超越印度】受全球最大晶片製造商臺積電股價大幅上漲推動，中國臺灣地區股市總市值已反超印度。資料顯示，截至週一，臺股總市值達 4.95 萬億美元，印度股市市值則降至 4.92 萬億美元。臺股市值排名攀升主要依靠臺積電拉動，該股在當地基準指數中的權重佔比已超 42%，市場集中度極高。受益於人工智慧產業熱潮，臺積電今年股價累計上漲 49%，其晶片產品在相關領域佔據絕對主導地位。"
+    },
+    {
+      "id": "4899273",
+      "time": "2026-05-26 08:28:34",
+      "tags": [
+        "宏觀",
+        "觀點"
+      ],
+      "text": "【中信證券：繼續看好公募REITs逐步成長併成為“固收+”策略的適配資產】中信證券指出，今年以來，公募REITs市場供給顯著放量，同時二級市場流動性匱乏的問題也再度凸顯。在此背景下，投資端政策陸續出臺，二級債基、指數基金等產品有望提振市場情緒，預計將在一定程度上改善二級市場流動性。展望後續，我們繼續看好公募REITs逐步成長併成為“固收+”策略的適配資產。策略方面，供給放量環境下，我們建議重視部分一二級市場價差較厚、底層資產質量優良專案的打新和戰配機會，同時也需警惕一二級市場價差較薄專案或面臨發行後的波動。二級市場方面則需要把握交易節奏，一是建議反覆博弈優質標的的超跌機會，二是重視次新券超額分紅、部分戰配限售份額解禁時點帶來的配置視窗期，三是關注增量資金的入市節奏。"
+    },
+    {
+      "id": "4899272",
+      "time": "2026-05-26 08:28:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【銀河證券：詞元成為智慧時代的價值錨點 建議圍繞核心AI產業受益方向佈局】銀河證券研報表示，詞元已經成為智慧時代的價值錨點，其廣泛用於AI行業的結算單位。從需求側來看，全球詞元的呼叫量高速增長，推動AI產業從模型迭代走向商業化落地，這將有望從底層重構傳媒行業的生產要素、產業邏輯和商業模式。詞元經濟賦能傳統內容生產行業，在AIGC工具加持下，向著無限供給不斷邁進，有望實現內容行業的繁榮。建議圍繞核心AI產業受益方向佈局，重點關注：AI綜合佈局加碼的網際網路大廠；AI影片工具產品力領先的廠商；受益於AI應用的細分領域頭部公司；技術迭代不斷推進的大模型廠商。"
+    },
     {
       "id": "4899271",
       "time": "2026-05-26 08:27:46",
@@ -139106,80 +139132,6 @@
         "Importance 0"
       ],
       "text": "Silver Rises for Second Straight Session — Silver climbed above $78 an ounce on Tuesday, building on the previous session’s advance as optimism grew that the US and Iran could return to negotiations, helping ease some inflation worries. President Trump said he called off a planned strike on Iran scheduled for Tuesday after appeals from Saudi Arabia, Qatar, and the UAE, adding that the Gulf nations believed a deal with Tehran acceptable to Washington was still within reach. Precious metals have been under pressure since the start of the Middle East conflict, as soaring oil prices fueled inflation concerns and reinforced expectations for further central bank rate hikes. Stronger US inflation has also led traders to further reduce expectations for Federal Reserve rate cuts this year, while boosting speculation that the Fed could still deliver a rate hike before year-end. Investors are now focused on the latest FOMC minutes and flash US PMI data for additional clues on the outlook for monetary policy and economic activity."
-    },
-    {
-      "id": "mkt:019e3da7-74b8-7dd6-88a0-b35a5afd6001",
-      "time": "2026-05-19 08:32:53",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Australia | Westpac/Melbourne Institute Consumer Sentiment Index (MoM) (May) | actual 3.5% | previous -12.50%"
-    },
-    {
-      "id": "mkt:019e3da7-3269-7dd6-88a0-af31934635db",
-      "time": "2026-05-19 08:32:48",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Australia | Westpac/Melbourne Institute Consumer Sentiment Index (May) | actual 83 | previous 80.1"
-    },
-    {
-      "id": "4886795",
-      "time": "2026-05-19 08:32:04",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【我國建立白名單制度規範醫保個人賬戶使用】國家醫保局辦公室、財政部辦公廳5月19日釋出《關於進一步加強定點零售藥店職工基本醫療保險個人賬戶使用監督管理的通知》，明確建立定點零售藥店職工醫保個人賬戶支付白名單制度，白名單內的，個人賬戶在定點零售藥店可以支付；白名單外的，不予支付。通知明確，列入白名單的，應是經藥監部門正式批准註冊或備案，可以在零售藥店銷售，並且與治療密切相關、醫療屬性強、價格適宜的藥品、醫療器械和醫用耗材。對於保健品、日常生活用品等非醫療用品，牙膏牙刷牙線、面膜化妝品、隱形眼鏡以及生活功能為主、醫療附加值較低的器械耗材，不得納入白名單。 此次檔案還明確，允許使用職工醫保個人賬戶支付在定點醫療機構發生的流感疫苗費用。（央視）"
-    },
-    {
-      "id": "te:markets:551725",
-      "time": "2026-05-19 08:31:58",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "Japanese Shares Climb After Robust GDP Growth — The Nikkei 225 Index advanced 0.6% to above 61,000, while the broader Topix Index gained 1% to 3,864 on Tuesday, as both benchmarks rebounded from a three-day losing streak following stronger-than-expected economic growth data that improved the corporate outlook. Japan’s economy expanded 0.5% quarter-on-quarter in the first quarter, accelerating from 0.2% in Q4 and exceeding market expectations of 0.4%. Still, the outlook remains uncertain amid ongoing Middle East tensions, with the broader economic effects of the conflict yet to be fully reflected in the data. Investor sentiment also improved on hopes that the US and Iran may return to negotiations after President Donald Trump said he halted a planned strike on Iran for Tuesday following appeals from Gulf allies. Financial stocks led the rally, with Mitsubishi UFJ rising 2.8%, Sumitomo Mitsui jumping 3.9%, and Mizuho Financial climbing 4.5%."
-    },
-    {
-      "id": "4886794",
-      "time": "2026-05-19 08:31:04",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "【紐約市長曼達尼在摩根大通新總部與摩根大通執行長戴蒙會面】當地時間週一，紐約市長曼達尼（Zohran Mamdani）在摩根大通的新總部會見了該公司執行長戴蒙。此前幾周，這位紐約市長因計劃對富人徵稅而引發強烈反對。馬姆達尼的辦公室在一份宣告中表示，這位去年競選美國金融之都紐約市長的人士，在帕克大道270號與戴蒙進行了首次會面。宣告補充稱，雙方的會談涉及削減政府浪費和減少繁文縟節等問題。摩根大通的一位發言人表示，此次會面“富有建設性，氣氛友好”。"
-    },
-    {
-      "id": "4886793",
-      "time": "2026-05-19 08:30:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "【“中國建造”再出海 阿聯酋航空機場維修機庫專案啟動】當地時間18日上午，由中國企業承建的全球最大民航維修機庫專案之一——阿聯酋航空機場維修機庫專案正式啟動。阿聯酋航空機場維修機庫專案位於阿聯酋迪拜世界中心的機場核心區域，總投資超過50億美元、約合340億元人民幣，計劃於2030年完工。專案包括8座大型維修機庫、2座專業噴漆機庫及相關配套設施，建成後可同時為28架寬體飛機提供機身檢修、發動機維護、飛機噴漆等全流程服務，為阿聯酋航空的航線運營提供更多支撐。近年來，隨著中國與阿聯酋合作持續深化，中國企業積極參與中東基礎設施建設。（央視新聞）"
-    },
-    {
-      "id": "4886792",
-      "time": "2026-05-19 08:30:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本首相高市早苗：我想在包括中東在內的國際形勢下，探討日韓合作。"
-    },
-    {
-      "id": "4886791",
-      "time": "2026-05-19 08:29:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本首相高市早苗：將在今天的峰會上與韓國總統李在明討論具體的能源合作措施。"
     }
   ]
 }
