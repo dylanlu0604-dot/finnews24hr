@@ -1,7 +1,16 @@
 {
-  "updated": "2026-05-27 01:09:33",
-  "count": 15076,
+  "updated": "2026-05-27 01:13:26",
+  "count": 15071,
   "items": [
+    {
+      "id": "4900902",
+      "time": "2026-05-27 01:11:32",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國兩年期國債收益率在標售後延續跌勢，最新下跌 6.1 個基點，報 4.066%。"
+    },
     {
       "id": "4900901",
       "time": "2026-05-27 01:08:33",
@@ -25,6 +34,15 @@
         "其他"
       ],
       "text": "據知情人士透露，加拿大與德國SEFE接近達成液化天然氣（LNG）採購協議。"
+    },
+    {
+      "id": "em:qqyh_mlc:202605273750076211",
+      "time": "2026-05-27 01:05:22",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美國2年期國債中標利率為4.071%，與發行前預交易的當發收益率一致。"
     },
     {
       "id": "4900898",
@@ -134874,70 +134892,6 @@
         "國際"
       ],
       "text": "以色列媒體：以方官員研判，打擊伊朗並非是否可行的問題，只是時機早晚問題。"
-    },
-    {
-      "id": "te:markets:552022",
-      "time": "2026-05-20 01:12:45",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Rice Hits 40-week High — Rice increased to 12.95 USD/cwt, the highest since August 2025. Over the past 4 weeks, Rice gained 16.69%, and in the last 12 months, it increased 1.4%."
-    },
-    {
-      "id": "4888697",
-      "time": "2026-05-20 01:12:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國各大銀行已籌備就緒，為派拉蒙收購華納兄弟安排490億美元債務融資發行事宜。"
-    },
-    {
-      "id": "mkt:019e4139-68d3-7228-9afd-e0d987445316",
-      "time": "2026-05-20 01:12:21",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "U.S. STATE DEPT: RUBIO AND UN'S GUTERRES SPOKE TUESDAY ABOUT U.S. EFFORTS TO STOP IRAN'S MINING AND TOLLING OF STRAIT OF HORMUZ"
-    },
-    {
-      "id": "4888696",
-      "time": "2026-05-20 01:11:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧今天與聯合國秘書長古特雷斯進行了通話。"
-    },
-    {
-      "id": "4888695",
-      "time": "2026-05-20 01:10:36",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "谷歌執行長：今夏將在美國上線YouTube智慧問答搜尋功能。"
-    },
-    {
-      "id": "4888694",
-      "time": "2026-05-20 01:09:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國行業組織：美國天然氣出口商呼籲將歐盟甲烷進口相關新規延後至2028年正式實施。"
-    },
-    {
-      "id": "mkt:019e4136-d705-7228-9afd-dbdd9129746e",
-      "time": "2026-05-20 01:09:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US GAS EXPORTERS SEEK DELAY TO EU METHANE IMPORT RULES UNTIL 2028, INDUSTRY GROUP SAYS"
     }
   ]
 }
