@@ -1,7 +1,43 @@
 {
-  "updated": "2026-05-26 13:58:12",
-  "count": 15556,
+  "updated": "2026-05-26 14:02:06",
+  "count": 15545,
   "items": [
+    {
+      "id": "4899692",
+      "time": "2026-05-26 14:01:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "阿斯利康：DATROWAY獲美國食品藥品監督管理局批准，該審批基於三期臨床試驗資料，並完成了優先審評程式。"
+    },
+    {
+      "id": "te:markets:553634",
+      "time": "2026-05-26 14:01:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Hits Two-Week High, Closes 0.8% Higher — The NZX 50 rose 99 points, or 0.8%, to close at 13,070 on Tuesday, halting losses from the previous session and hitting its highest level since May 12, mainly boosted by healthcare and tech stocks. Healthcare stocks surged 6.2%, with Fisher & Paykel Healthcare, a heavyweight stock, jumping 9.1% after posting a 24% increase in net profit for the 12 months ended March. Meanwhile, Ryman Healthcare rose 1.4% after reporting narrowing losses in the year to March. However, rising oil prices capped the gains after fresh US military strikes in Iran clouded the outlook for a US-Iran deal to reopen the Strait of Hormuz. Traders also remained cautious ahead of the RBNZ’s monetary policy decision on Wednesday, with markets expecting the central bank to keep interest rates unchanged while anticipating the release of the government’s 2026 budget. Other top gainers included Summerset Group Holdings (4.3%), ANZ Group Holdings (3.8%), Gentrack Group (3.2%), and Westpac Banking Corp. (2.0%)."
+    },
+    {
+      "id": "4899691",
+      "time": "2026-05-26 14:00:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鹽城國資成立黃海物流股權投資合夥企業，出資額20億元】企查查APP顯示，近日，鹽城市黃海物流股權投資合夥企業（有限合夥）成立，出資額20億元，經營範圍包含：以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該企業由鹽城盛州投資控股集團有限公司等共同出資。"
+    },
+    {
+      "id": "4899690",
+      "time": "2026-05-26 14:00:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本4月機床訂單終值同比增長45.1%。"
+    },
     {
       "id": "4899689",
       "time": "2026-05-26 13:56:28",
@@ -139072,143 +139108,6 @@
         "其他"
       ],
       "text": "香港天文臺：取消黃色暴雨警告訊號。"
-    },
-    {
-      "id": "4887253",
-      "time": "2026-05-19 14:02:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "斯特蘭蒂斯：預計將於2028年正式下線投產。"
-    },
-    {
-      "id": "4887252",
-      "time": "2026-05-19 14:01:54",
-      "tags": [
-        "宏觀",
-        "公司"
-      ],
-      "text": "法國財政部長萊斯屈爾：七國集團達成共識，國際貨幣基金組織與世界銀行需加大力度援助脆弱國家。"
-    },
-    {
-      "id": "4887251",
-      "time": "2026-05-19 14:01:43",
-      "tags": [
-        "市場"
-      ],
-      "text": "英國資料公佈後，英鎊兌美元匯率維持跌勢，下跌0.2%至1.3413。"
-    },
-    {
-      "id": "mkt:019e3ed3-c622-7aa9-b723-87577545c1ec",
-      "time": "2026-05-19 14:01:28",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "RUSSIAN DEFENCE MINISTRY: FROM 19 TO 21 MAY, THE RUSSIAN ARMED FORCES ARE CONDUCTING AN EXERCISE TO PREPARE FOR AND DEPLOY NUCLEAR FORCES - RIA"
-    },
-    {
-      "id": "em:jjsj_ygsj:202605193741818532",
-      "time": "2026-05-19 14:01:27",
-      "tags": [
-        "經濟數據",
-        "英國"
-      ],
-      "text": "英國4月失業金申請人數2.65萬人，前值由2.68萬人修正為0.49萬人。"
-    },
-    {
-      "id": "4887250",
-      "time": "2026-05-19 14:00:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國機器人初創企業靈心巧手（Linkerbot）據悉考慮香港上市。"
-    },
-    {
-      "id": "mkt:019e3ed3-c566-7aa9-b723-7f98721c9a1e",
-      "time": "2026-05-19 14:00:34",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United Kingdom | Unemployment Rate (Apr) | actual 4.42% | previous 4.40%"
-    },
-    {
-      "id": "4887249",
-      "time": "2026-05-19 14:00:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國3月三個月ILO就業人數 14.8萬人，預期10.4萬人，前值2.4萬人。"
-    },
-    {
-      "id": "4887248",
-      "time": "2026-05-19 14:00:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國4月失業金申請人數 2.65萬人，前值由2.68萬人修正為0.49萬人。"
-    },
-    {
-      "id": "mkt:019e3ed2-d4a8-7aa9-b723-75b5abefc5da",
-      "time": "2026-05-19 14:00:03",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United Kingdom | Average Earnings Excluding Bonus in 3 Months (YoY) (Mar) | actual 3.4% | consensus 3.4% | previous 3.60%"
-    },
-    {
-      "id": "mkt:019e3ed2-78d1-7aa9-b723-6bbd65ee01e8",
-      "time": "2026-05-19 14:00:03",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United Kingdom | ILO Unemployment Rate 3M (Mar) | actual 148000K | consensus 104000K | previous 24000K"
-    },
-    {
-      "id": "mkt:019e3ed2-78cf-7aa9-b723-6134ec4817ec",
-      "time": "2026-05-19 14:00:03",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United Kingdom | Average Earnings Including Bonus in 3 Months (YoY) (Mar) | actual 4.1% | consensus 3.8% | previous 3.80%"
-    },
-    {
-      "id": "mkt:019e3ed1-f652-7aa9-b723-5374fc848371",
-      "time": "2026-05-19 14:00:03",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United Kingdom | ILO Unemployment Rate 3M/3M (Mar) | actual 5% | consensus 4.9% | previous 4.90%"
-    },
-    {
-      "id": "mkt:019e3ed1-e1da-7aa9-b723-4830cb11bf42",
-      "time": "2026-05-19 14:00:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United Kingdom | Jobless Claims Count (Apr) | actual 26500K | previous 26800K"
-    },
-    {
-      "id": "4887247",
-      "time": "2026-05-19 13:58:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "【至正股份成立半導體新材料科技公司】企查查APP顯示，近日，深圳市領先半導體新材料科技有限公司成立，經營範圍包含：企業管理諮詢；以自有資金從事投資活動；半導體器件專用裝置製造；半導體器件專用裝置銷售等。企查查股權穿透顯示，該公司由至正股份全資持股。"
     }
   ]
 }
