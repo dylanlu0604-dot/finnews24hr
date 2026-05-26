@@ -1,7 +1,88 @@
 {
-  "updated": "2026-05-26 14:29:42",
-  "count": 15508,
+  "updated": "2026-05-26 14:33:43",
+  "count": 15503,
   "items": [
+    {
+      "id": "4899728",
+      "time": "2026-05-26 14:32:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國中煤、中國電建在綏化成立新能源公司】企查查APP顯示，近日，中煤資源（綏化）新能源有限公司成立，註冊資本2.8億元，經營範圍包含：風力發電技術服務；太陽能發電技術服務；生物質能技術服務等。企查查股權穿透顯示，該公司由中國中煤能源集團有限公司、中國電建間接共同持股。"
+    },
+    {
+      "id": "mkt:019e62fb-8e1d-7ff6-adfb-fde5c9d65d13",
+      "time": "2026-05-26 14:31:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "KOSPI INDEX CLOSED UP 2.55%, AT 8047.51"
+    },
+    {
+      "id": "mkt:019e62fb-6aed-7ff6-adfb-f3f37ad3fcde",
+      "time": "2026-05-26 14:31:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225"
+      ],
+      "text": "NIKKEI 225 CLOSED DOWN 0.25%, AT 64996.09"
+    },
+    {
+      "id": "4899727",
+      "time": "2026-05-26 14:31:16",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【日韓股市收盤漲跌互現】日經225指數收跌0.25%，報64996.09點。韓國綜指收漲2.55%，報8047.51點。"
+    },
+    {
+      "id": "4899726",
+      "time": "2026-05-26 14:31:07",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "【人福醫藥與招商局創投及被投企業開展協同交流活動】據人福醫藥訊息，近日，招商局創投與5家被投企業到人福醫藥開展協同交流活動。各方圍繞智慧裝備和AI技術在醫藥研發、生產、物流、園區服務等環節的應用進行探討。"
+    },
+    {
+      "id": "te:markets:553649",
+      "time": "2026-05-26 14:30:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Nikkei 225 Index Closes 0.35% Lower — The Nikkei 225 Index fell 229 points or 0.35 percent on Tuesday to close at 64930 points. Leading the losses are Hino Motors (-7.69%), Chugai Pharma (-6.58%) and Advantest (-5.89%). Top gainers were Softbank (11.07%), Taiyo Yuden (9.48%) and AGC (6.37%)."
+    },
+    {
+      "id": "4899725",
+      "time": "2026-05-26 14:30:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兆易創新成交額達300億元】兆易創新成交額達300億元，現漲1.84%。"
+    },
+    {
+      "id": "4899724",
+      "time": "2026-05-26 14:30:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【5月26日：“農產品批發價格200指數”比昨天上升0.15個點】據農業農村部監測，5月26日“農產品批發價格200指數”為113.22，比昨天上升0.15個點，“菜籃子”產品批發價格指數為113.28，比昨天上升0.16個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為14.86元/公斤，比昨天上升0.5%；牛肉66.73元/公斤，比昨天上升0.2%；羊肉63.88元/公斤，比昨天下降0.5%；雞蛋9.73元/公斤，比昨天上升1.4%；白條雞17.13元/公斤，比昨天上升2.7%。重點監測的28種蔬菜平均價格為4.11元/公斤，比昨天上升0.7%；重點監測的6種水果平均價格為7.84元/公斤，比昨天上升0.6%。鯽魚20.23元/公斤，比昨天下降0.5%；鯉魚15.03元/公斤，比昨天下降1.0%；白鰱魚10.07元/公斤，比昨天上升0.8%；大帶魚41.63元/公斤，比昨天下降0.2%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與昨天相比價格升幅前五名的是西瓜、白條雞、萵筍、大蔥和豆角，幅度分別為3.2%、2.7%、2.6%、2.1%和2.1%；價格降幅前五名的是茄子、蔥頭、蒜薹、花鰱魚和洋白菜，幅度分別為4.2%、3.4%、2.9%、2.6%和2.3%。"
+    },
+    {
+      "id": "4899723",
+      "time": "2026-05-26 14:29:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【巴基斯坦防長：不會加入任何與以色列關係正常化的協議】當地時間5月26日，巴基斯坦國防部部長阿西夫表示，巴基斯坦不會加入任何與以色列關係正常化的協議，並稱巴方不會接受任何與其“基本理念相沖突”的協議。此前，美國總統特朗普在社交媒體發文，呼籲參與斡旋美伊談判的沙特、卡達、埃及、約旦、土耳其和巴基斯坦“立即”加入“亞伯拉罕協議”，否則，上述國家不應參與美伊協議斡旋。特朗普還說，如果美伊達成協議，伊朗也應該加入“亞伯拉罕協議”。（央視新聞）"
+    },
     {
       "id": "4899722",
       "time": "2026-05-26 14:27:30",
@@ -138651,133 +138732,6 @@
         "市場"
       ],
       "text": "【A股三大指數震盪回升，深成指尾盤翻紅】A股三大指數震盪回升，深成指尾盤翻紅，創業板指跌幅收窄，滬指現漲近0.7%。"
-    },
-    {
-      "id": "4887326",
-      "time": "2026-05-19 14:33:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "經合組織科爾曼：存在第二輪連鎖傳導效應風險。"
-    },
-    {
-      "id": "mkt:019e3ef0-8511-7aa9-b723-e2a22b2bb801",
-      "time": "2026-05-19 14:33:29",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Moonshot AI to Overhaul Structure to Win Nod for Hong Kong IPO】Moonshot AI has told investors it will revamp its corporate structure to prepare for a Hong Kong IPO, aligning with Beijing’s tighter rules for overseas listings. The Beijing-based startup plans to dismantle its red-chip structure, in which offshore entities control mainland assets and operations. The move reflects Beijing’s push to strengthen oversight, simplify compliance and curb capital-flight risks tied to Hong Kong IPOs, with authorities encouraging firms to reorganize under mainland incorporation before listing."
-    },
-    {
-      "id": "4887325",
-      "time": "2026-05-19 14:33:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "經合組織科爾曼：經濟下行風險顯著。"
-    },
-    {
-      "id": "4887324",
-      "time": "2026-05-19 14:32:31",
-      "tags": [
-        "市場"
-      ],
-      "text": "韓元兌美元貶值1%，創下4月7日以來的最低水平。"
-    },
-    {
-      "id": "4887323",
-      "time": "2026-05-19 14:32:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "【5月19日：“農產品批發價格200指數”比昨天下降0.24個點】據農業農村部監測，5月19日“農產品批發價格200指數”為114.37，比昨天下降0.24個點，“菜籃子”產品批發價格指數為114.66，比昨天下降0.28個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為14.70元/公斤，比昨天下降0.5%；牛肉66.25元/公斤，比昨天下降0.3%；羊肉63.71元/公斤，比昨天下降0.3%；雞蛋9.29元/公斤，與昨天持平；白條雞16.92元/公斤，比昨天上升1.5%。重點監測的28種蔬菜平均價格為4.12元/公斤，比昨天下降1.0%；重點監測的6種水果平均價格為7.81元/公斤，比昨天下降0.1%。鯽魚20.12元/公斤，比昨天下降0.9%；鯉魚15.02元/公斤，比昨天下降0.1%；白鰱魚10.08元/公斤，比昨天下降0.7%；大帶魚40.45元/公斤，比昨天下降3.2%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與昨天相比價格升幅前五名的是鴨梨、蔥頭、白條雞、菠蘿和菠菜，幅度分別為1.9%、1.7%、1.5%、0.9%和0.7%；價格降幅前五名的是萵筍、大帶魚、白蘿蔔、茄子和西紅柿，幅度分別為3.8%、3.2%、3.2%、3.1%和3.1%。"
-    },
-    {
-      "id": "mkt:019e3eef-28de-7aa9-b723-daffbc501d48",
-      "time": "2026-05-19 14:32:01",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "KOSPI INDEX CLOSED DOWN 3.25%"
-    },
-    {
-      "id": "mkt:019e3eef-0390-7aa9-b723-d3ed32351c92",
-      "time": "2026-05-19 14:31:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "NIKKEI 225 CLOSED DOWN 0.44%"
-    },
-    {
-      "id": "4887322",
-      "time": "2026-05-19 14:31:46",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "中證1000股指期貨（IM）主力合約站上8700點，日內漲1.23%。"
-    },
-    {
-      "id": "4887321",
-      "time": "2026-05-19 14:31:26",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日經指數收盤下跌 0.4%，報 60550.59 點； 日本東證指數收盤上漲 0.6%，報 3850.67 點。"
-    },
-    {
-      "id": "4887320",
-      "time": "2026-05-19 14:31:06",
-      "tags": [
-        "觀點",
-        "其他"
-      ],
-      "text": "巴克萊分析師在一份研究報告中表示，人形機器人的價格可能將繼續下降。"
-    },
-    {
-      "id": "4887319",
-      "time": "2026-05-19 14:30:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "【報道：特朗普暫緩打擊部分原因是伊朗已逐漸適應美方空中打擊】據報道，特朗普暫緩發動新一輪打擊，部分原因是美國國防部官員警告稱，伊朗已逐漸適應美方空中打擊行動。伊朗軍方將領研判美軍戰機與轟炸機的飛行作戰規律，使得美軍行動愈發容易預判，也大幅提升了伊朗防空體系的作戰效能。相關官員表示，F-15E戰機遭擊落、F-35戰機受損，均印證美軍戰機面臨的作戰風險正持續攀升。"
-    },
-    {
-      "id": "te:markets:551833",
-      "time": "2026-05-19 14:30:19",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Nikkei 225 Index Closes 0.65% Lower — The Nikkei 225 Index decreased 394 points or 0.65 percent on Tuesday to close at 60422 points. The decline was led by Fujikura (-16.43%), Furukawa Electric (-8.84%) and Dowa (-6.88%). On the upside, the strongest performers were Konami (8.57%), Recruit Holdings (8.23%) and Bandai Namco Holdings (8.17%)."
-    },
-    {
-      "id": "te:economy:551832",
-      "time": "2026-05-19 14:30:05",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United Kingdom",
-        "Employment Change",
-        "Importance 0"
-      ],
-      "text": "UK Employment Rises Most in 8 Months — The number of employed people in the United Kingdom rose by 148 thousand to 34.392 million in the three months to March 2026, following a downwardly revised 24 thousand increase in the previous period. The reading also topped expectations of a 107 thousand gain and marked the largest job increase since July last year, driven by growth in both full-time and part-time work among employees and the self-employed, with full-time roles contributing most to the overall rise. Compared with a year earlier, employment increased by 416 thousand. Despite this, the employment rate for those aged 16 to 64 edged up by just 0.1 percentage points to 75.0%, remaining broadly stable over the year. Meanwhile, the number of people holding second jobs declined to 1.273 million, accounting for 3.7% of those in employment."
-    },
-    {
-      "id": "4887318",
-      "time": "2026-05-19 14:29:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "【格羅方德推出矽光子共封裝先進光引擎方案】5月19日，據格羅方德訊息，該公司日前推出其用於共封裝光學（Co-Packaged Optics，CPO）的SCALE™光學模組解決方案。格羅方德的SCALE解決方案，即矽光子共封裝先進光引擎方案，是其首個支援光學計算互連多源協議（OCI MSA）的平臺。"
     }
   ]
 }
