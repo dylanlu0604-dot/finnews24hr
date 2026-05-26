@@ -1,7 +1,19 @@
 {
-  "updated": "2026-05-27 00:22:08",
-  "count": 15086,
+  "updated": "2026-05-27 00:26:10",
+  "count": 15082,
   "items": [
+    {
+      "id": "mkt:019e6517-9abf-7332-8104-c51297245678",
+      "time": "2026-05-27 00:21:46",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Iran President PEZESHKIAN Ready To Reach 'Dignified' Framework Agreement; Qatar Pledges Support】Iran President PEZESHKIAN Says Iran Ready To Reach 'Dignified' Framework Agreement To End Regional Wars And Tensions; Qatar Emir Tamim Pledges To Spare No Effort For Regional Peace And Stability"
+    },
     {
       "id": "4900879",
       "time": "2026-05-27 00:20:16",
@@ -134970,49 +134982,6 @@
         "美聯儲"
       ],
       "text": "【紐約聯儲Perli稱美聯儲國庫券月度購買規模可上調也可下調】紐約聯邦儲備銀行的RobertoPerli表示，美聯儲的國庫券月度購買規模並非按預設路徑推進，可根據市場狀況進行調整。負責管理美聯儲系統公開市場賬戶(SOMA)的Perli表示，他和SOMA團隊的同事們“隨時準備”在必要時上調或下調準備金管理性購買的步伐，以維持準備金處於充裕區間。"
-    },
-    {
-      "id": "4888659",
-      "time": "2026-05-20 00:25:20",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【紐約聯儲Perli稱美聯儲國庫券月度購買規模可上調也可下調】紐約聯邦儲備銀行的Roberto Perli表示，美聯儲的國庫券月度購買規模並非按預設路徑推進，可根據市場狀況進行調整。負責管理美聯儲系統公開市場賬戶(SOMA)的Perli表示，他和SOMA團隊的同事們“隨時準備”在必要時上調或下調準備金管理性購買的步伐，以維持準備金處於充裕區間。"
-    },
-    {
-      "id": "4888658",
-      "time": "2026-05-20 00:24:43",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "剛果埃博拉疫情已造成131人死亡，巴里克黃金公司加大基巴利金礦的埃博拉病毒篩查力度。"
-    },
-    {
-      "id": "4888657",
-      "time": "2026-05-20 00:23:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "泛歐交易所執行長在電話會議上表示：目前，各地證券交易所走合併整合路線的意願有限。"
-    },
-    {
-      "id": "mkt:019e410c-8b29-7228-9afd-94d7d7ee7cb8",
-      "time": "2026-05-20 00:23:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "WARSH DISCLOSURE DOES NOT LIST SIZE OF SALES OR WHO PURCHASED ASSETS"
-    },
-    {
-      "id": "4888656",
-      "time": "2026-05-20 00:22:57",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什披露檔案未列出售交易規模及資產買家資訊。"
     }
   ]
 }
