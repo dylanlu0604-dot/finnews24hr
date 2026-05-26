@@ -1,7 +1,57 @@
 {
-  "updated": "2026-05-27 04:46:53",
-  "count": 14946,
+  "updated": "2026-05-27 04:50:39",
+  "count": 14950,
   "items": [
+    {
+      "id": "4900997",
+      "time": "2026-05-27 04:49:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表格里爾表示：美國有意修訂《非洲增長與機遇法案》，以更好地惠及本國，並拉近非洲經濟體與美國的經濟聯絡。"
+    },
+    {
+      "id": "4900996",
+      "time": "2026-05-27 04:49:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大政府針對埃博拉疫情推出臨時邊境管控措施。"
+    },
+    {
+      "id": "4900995",
+      "time": "2026-05-27 04:48:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：將推遲內閣成員前往戴維營的行程。"
+    },
+    {
+      "id": "4900994",
+      "time": "2026-05-27 04:48:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們將在白宮召開內閣會議。"
+    },
+    {
+      "id": "mkt:019e660b-f457-7332-8106-94eabb3551da",
+      "time": "2026-05-27 04:48:39",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "TRUMP Moves Cabinet Meeting To WHITE HOUSE, Postpones Camp David Trip Over Weather Risk"
+    },
+    {
+      "id": "mkt:019e660b-9ec4-7332-8106-8a388a42b998",
+      "time": "2026-05-27 04:48:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "GREER Seeks AGOA Overhaul To Better Benefit U.S., Tie African Economies Closer To U.S."
+    },
     {
       "id": "4900993",
       "time": "2026-05-27 04:36:59",
@@ -133766,22 +133816,6 @@
         "市場"
       ],
       "text": "AMC院線美股盤後漲6%，該公司CEO買入股票。"
-    },
-    {
-      "id": "4888872",
-      "time": "2026-05-20 04:48:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐洲地中海地震中心：烏茲別克西部地區發生 5.5 級地震。"
-    },
-    {
-      "id": "mkt:019e41fe-b912-7228-9b00-9eacfb09d267",
-      "time": "2026-05-20 04:47:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "MAGNITUDE 5.5 EARTHQUAKE STRIKES WESTERN UZBEKISTAN REGION - EMSC"
     }
   ]
 }
