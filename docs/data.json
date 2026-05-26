@@ -1,7 +1,95 @@
 {
-  "updated": "2026-05-27 01:01:38",
-  "count": 15081,
+  "updated": "2026-05-27 01:05:36",
+  "count": 15082,
   "items": [
+    {
+      "id": "4900898",
+      "time": "2026-05-27 01:02:33",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣六週期國債，得標利率3.620%，投標倍數2.71。"
+    },
+    {
+      "id": "4900897",
+      "time": "2026-05-27 01:02:23",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣690億美元兩年期國債，得標利率4.071%，投標倍數2.64。"
+    },
+    {
+      "id": "mkt:019e653c-b497-7332-8105-29696b0d2e0d",
+      "time": "2026-05-27 01:02:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "US 2Y Bond Auction Allocation At Awarded Yield 42.14% Vs 4.28% Prior"
+    },
+    {
+      "id": "mkt:019e653c-b439-7332-8105-21fb473246dd",
+      "time": "2026-05-27 01:02:11",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "EURUSD"
+      ],
+      "text": "US 2Y Treasury Auction Stop-Out Yield 4.071% vs 3.81% Prior"
+    },
+    {
+      "id": "mkt:019e653c-b39a-7332-8105-1eb72ca482bb",
+      "time": "2026-05-27 01:02:10",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "US 2Y Treasury Auction BID-COVER RATIO 2.64; Prev 2.65"
+    },
+    {
+      "id": "mkt:019e653c-79ca-7332-8105-16904527138a",
+      "time": "2026-05-27 01:02:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 2-Year Note Auction Bid/Cover Ratio (May.26) | actual 2.64 | previous 2.65"
+    },
+    {
+      "id": "mkt:019e653c-7981-7332-8105-0d85981575fa",
+      "time": "2026-05-27 01:02:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 2-Year Note Auction Accepted at High (May.26) | actual 42.14% | previous 4.28%"
+    },
+    {
+      "id": "mkt:019e653c-7972-7332-8105-0207aede1a58",
+      "time": "2026-05-27 01:02:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 2-Year Note Auction High Yield Rate (May.26) | actual 4.071% | previous 3.81%"
+    },
     {
       "id": "mkt:019e653b-976c-7332-8104-f928cdebb400",
       "time": "2026-05-27 01:01:04",
@@ -134918,63 +135006,6 @@
         "公司"
       ],
       "text": "谷歌執行長：AI概覽功能月活使用者達25億，AI搜尋模式月活使用者達10億。"
-    },
-    {
-      "id": "4888688",
-      "time": "2026-05-20 01:05:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國聯邦貿易委員會：聯邦法院裁定支付處理商Cliq違反聯邦貿易委員會命令、藐視法庭，處以650萬美元罰款。"
-    },
-    {
-      "id": "4888687",
-      "time": "2026-05-20 01:04:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大總理卡尼稱，魁北克石墨礦專案是加拿大加快專案推進力度的明證。"
-    },
-    {
-      "id": "4888686",
-      "time": "2026-05-20 01:03:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "戴爾：馬自達計劃採用戴爾PowerScale搭建資料庫，支撐人工智慧業務執行。"
-    },
-    {
-      "id": "4888685",
-      "time": "2026-05-20 01:02:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "戴爾釋出PowerStore Elite儲存產品，2026年7月全球開售。"
-    },
-    {
-      "id": "4888684",
-      "time": "2026-05-20 01:02:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "戴爾：適用於PowerStore的戴爾網路安全檢測功能將於2026年第三季度上線。"
-    },
-    {
-      "id": "4888683",
-      "time": "2026-05-20 01:02:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "戴爾推出新一代儲存、算力、網路抗風險及自動化創新產品，賦能現代化資料中心。"
-    },
-    {
-      "id": "4888682",
-      "time": "2026-05-20 01:02:04",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國國務院：魯比奧將商討北約同盟增加國防投入、分擔防務責任相關事宜。"
     }
   ]
 }
