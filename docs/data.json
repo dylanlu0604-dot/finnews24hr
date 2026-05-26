@@ -1,7 +1,33 @@
 {
-  "updated": "2026-05-27 01:17:23",
-  "count": 15071,
+  "updated": "2026-05-27 01:21:15",
+  "count": 15067,
   "items": [
+    {
+      "id": "mkt:019e654d-3ad0-7332-8105-3e2fd6ca96d1",
+      "time": "2026-05-27 01:20:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Russia Says U.S. Denied Visa To Deputy Foreign Minister Alimov For UN Security Council Meeting】Russia's UN Ambassador Vassily Nebenzia said on May 26 the U.S. refused a visa for Deputy Foreign Minister Alexander Alimov to attend a UN Security Council meeting, breaching the UN‑U.S. Headquarters Agreement; Alimov had planned to attend."
+    },
+    {
+      "id": "4900906",
+      "time": "2026-05-27 01:19:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄稱美未向俄官員發放出席安理會會議的簽證】當地時間5月26日，俄羅斯常駐聯合國代表瓦西里·涅邊賈表示，美國沒有向俄副外長亞歷山大·阿利莫夫發放出席聯合國安理會會議的簽證，此舉違反了《聯合國和美國關於聯合國總部的協定》。涅邊賈表示，阿利莫夫原本打算出席會議。（央視新聞）"
+    },
+    {
+      "id": "mkt:019e654b-a421-7332-8105-37ece7e8f87a",
+      "time": "2026-05-27 01:18:36",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Accepts $1.787 bln From Six Counterparties In Fixed-Rate RRP"
+    },
     {
       "id": "4900905",
       "time": "2026-05-27 01:16:35",
@@ -134828,69 +134854,6 @@
         "國際"
       ],
       "text": "伊朗官員：特朗普只聽得懂強權話語。"
-    },
-    {
-      "id": "mkt:019e4140-d99f-7228-9afe-0d2bfa83956e",
-      "time": "2026-05-20 01:20:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "PENTAGON OFFICIAL DOESN'T SAY IF ADMIN WILL SEEK CONGRESSIONAL APPROVAL TO RESTART STRIKES - CNN"
-    },
-    {
-      "id": "4888702",
-      "time": "2026-05-20 01:18:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "訊息人士稱，5月17日遭烏克蘭無人機襲擊後，莫斯科一座煉油廠已停止運營。"
-    },
-    {
-      "id": "mkt:019e413e-ff82-7228-9afe-02397387c094",
-      "time": "2026-05-20 01:18:17",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "MOSCOW OIL REFINERY HALTED OPERATIONS AFTER UKRAINIAN DRONE ATTACK ON MAY 17, SOURCES SAY"
-    },
-    {
-      "id": "mkt:019e413e-b15c-7228-9afd-fabf4f597e48",
-      "time": "2026-05-20 01:18:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "GOOGLE ANNOUNCES GEMINI OMNI MODEL FOR VIDEO GENERATION AND EDITING - CONFERENCE"
-    },
-    {
-      "id": "4888701",
-      "time": "2026-05-20 01:18:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌在釋出會上推出可用於影片生成與編輯的Gemini Omni模型。"
-    },
-    {
-      "id": "4888700",
-      "time": "2026-05-20 01:17:50",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "週二（5月19日），美聯儲隔夜逆回購協議（RRP）使用規模為129.11億美元（交易對手22家），上個交易日報71.93億美元。"
-    },
-    {
-      "id": "mkt:019e413e-463e-7228-9afd-f3830cc3c1cf",
-      "time": "2026-05-20 01:17:40",
-      "tags": [
-        "MKT News",
-        "Macro & Rates"
-      ],
-      "text": "NEW YORK FED ACCEPTS $12.911 BLN OF $12.911 BLN SUBMITTED TO REVERSE REPO FACILITY ON MAY 19"
     }
   ]
 }
