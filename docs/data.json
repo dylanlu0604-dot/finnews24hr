@@ -1,7 +1,29 @@
 {
-  "updated": "2026-05-27 06:29:53",
-  "count": 15004,
+  "updated": "2026-05-27 06:33:38",
+  "count": 15002,
   "items": [
+    {
+      "id": "4901071",
+      "time": "2026-05-27 06:31:00",
+      "tags": [
+        "資料",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【週三重要財經資訊提醒（以下均為北京時間）】\n① 08:00 日本央行行長植田和男在日本央行主辦的貨幣政策會議上講話；\n② 08:20 美國明尼阿波利斯聯儲主席卡什卡利（Neel Kashkari）在日本央行講話；\n③ 09:30 中國1至4月規模以上工業企業利潤；\n④ 10:00 紐西蘭聯儲釋出官方現金利率（OCR）；\n⑤ 11:00 紐西蘭聯儲主席Anna Breman舉行新聞釋出會；\n⑥ 16:00 歐洲央行釋出金融穩定性報告，美國達拉斯聯儲主席Lorie Logan（2026年FOMC票委）在日本央行一個關於貨幣政策的會議上講話；\n⑦ 港股收盤之後 拼多多釋出業績報告；\n⑧ 19:00 歐洲央行管委Alvaro Santos Pereira在里斯本談論金融穩定性；\n⑨ 次日01:00 Meta 2026年度股東大會；\n⑩ 次日03:55 美聯儲理事庫克在斯坦福經濟政策研究機構（SIEPR）談論人工智慧（AI）、經濟、金融系統；\n美股盤後 Salesforce、新思科技、惠普（HPQ）、邁威爾科技、Snowflake釋出業績報告。"
+    },
+    {
+      "id": "te:markets:553851",
+      "time": "2026-05-27 06:30:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Gasoline Plunges by 6.76% — Top commodity losers are Gasoline (-6.76%), Naphtha (-4.90%), Heating Oil (-4.53%), Brent Crude Oil (-3.77%) and Crude Oil WTI (-3.02%). Gains are led by Germany Natural Gas THE (4.65%), Propane (3.98%) and Natural Gas EU (3.24%)."
+    },
     {
       "id": "te:markets:553850",
       "time": "2026-05-27 06:15:17",
@@ -134275,46 +134297,6 @@
         "Importance 1"
       ],
       "text": "Metals Commodities Updates: Silver Falls by 4.76% — Top commodity losers are Silver (-4.76%), Lithium Carbonate (-2.61%), Platinum (-2.33%) and Gold (-1.82%)."
-    },
-    {
-      "id": "4888912",
-      "time": "2026-05-20 06:32:27",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【華爾街警惕人工智慧基建舉債過猛 或埋下信用衝擊隱患】隨著投資者愈發擔心融資擴張速度過快會為下一輪市場衝擊埋下隱患，與人工智慧(AI)資料中心投資熱潮相關的借貸正迅速升至華爾街潛在信用風險清單的前列。根據美國銀行本月早些時候對全球基金經理的調查，約34%的受訪者認為，AI“超級雲廠商”的資本開支最可能引發未來的系統性信用事件，這一比例較4月翻了一番。42%的受訪者認為美國私募信貸仍是首要擔憂，但低於上月的57%。這項調查結果凸顯出投資者對市場最大信用威脅的判斷正在迅速變化。自去年年初以來，科技公司已向美國投資者借入逾3000億美元，用於AI相關投資。市場擔心，這些企業正以前所未有的規模加槓桿建設AI基礎設施，而相關回報仍存在不確定性。"
-    },
-    {
-      "id": "4888911",
-      "time": "2026-05-20 06:32:03",
-      "tags": [
-        "資料",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【週三重要財經資訊提醒（以下均為北京時間）】\n① 07:00 美國費城聯儲主席Anna Paulson（2026年FOMC票委）談論美國經濟前景；\n② 09:00 中國5月一年期/五年期貸款市場報價利率（LPR）；\n③ 時間待定 千問：5月20日阿里雲峰會將有“重量級新朋友”亮相，第四屆中國能源周——AI算力與數字能源論壇開幕；\n④ 14:00 英國4月CPI；\n⑤ 15:00 法國總統的央行行長提名人Emmanuel Moulin在參議院金融委員會講話；\n⑥ 15:20 印尼央行公佈利率決議；\n⑦ 17:00 歐元區4月CPI終值；\n⑧ 21:15 美聯儲理事Barr（曾擔任過負責金融監管事務的美聯儲副主席）談論消費者財務健康問題，英國央行行長貝利和貨幣政策委員會（MPC）成員們對議員們講話；\n⑨ 22:30 美國能源資訊署（EIA）釋出政府版原油庫存週報；\n⑩ 次日02:00 美聯儲釋出4月底FOMC貨幣政策會議的紀要檔案；\n⑪ 次日02:10 歐洲央行管委Olaf Sleijpen講話；\n⑫ 美股盤後 英偉達釋出業績報告。"
-    },
-    {
-      "id": "4888910",
-      "time": "2026-05-20 06:31:09",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【摩根大通：AI掀起產業變革正全方位考驗管理層的領導力】摩根大通全球資訊長Lori Beer指出，隨著人工智慧（AI）在為銀行斬獲顯著生產力紅利的同時，也帶來了全新的複雜風險，這正使母公司面臨前所未有的管理挑戰。第一代早期AI工具目前已成功使生產力飆升，而即將到來的“智慧體AI”（Agentic AI）預計將兌現更強勁的增長潛力。與此同時，摩根大通也正全力破解網路安全漏洞並致力於維護客戶信任。Beer警告稱，AI技術的發展同樣在推高網路安全風險，駭客們如今正裝備著全方位強化的“超級AI武器”，全力圍攻摩根大通同樣由AI加持的防禦系統。"
-    },
-    {
-      "id": "te:markets:552038",
-      "time": "2026-05-20 06:30:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Methanol Plunges by 8.47% — Top commodity losers are Methanol (-8.47%), Gasoline (-2.21%), Naphtha (-0.97%), Brent Crude Oil (-0.92%) and Crude Oil WTI (-0.15%). Gains are led by Liquefied Natural Gas Japan Korea (3.45%), Natural Gas EU (3.38%) and Natural gas (2.89%)."
     }
   ]
 }
