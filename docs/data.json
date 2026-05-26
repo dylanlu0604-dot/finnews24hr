@@ -1,7 +1,15 @@
 {
-  "updated": "2026-05-27 01:21:15",
-  "count": 15067,
+  "updated": "2026-05-27 01:25:13",
+  "count": 15060,
   "items": [
+    {
+      "id": "4900907",
+      "time": "2026-05-27 01:23:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "太空算力初創公司StarCloud與SpaceX簽署合同，計劃部署超50臺星鏈迷你鐳射終端，用於超25個衛星軌道資料中心，首批硬體一年內入軌。"
+    },
     {
       "id": "mkt:019e654d-3ad0-7332-8105-3e2fd6ca96d1",
       "time": "2026-05-27 01:20:20",
@@ -134774,86 +134782,6 @@
         "公司"
       ],
       "text": "谷歌正式推出Gemini 3.5系列模型，首發版本為Gemini 3.5 Flash。"
-    },
-    {
-      "id": "4888707",
-      "time": "2026-05-20 01:24:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "【谷歌I/O大會直擊：Gemini月活逼近9億，AI搜尋橫掃25億使用者】在剛開幕的谷歌I/O大會上，谷歌CEO皮查伊向全球開發者展示了谷歌在AI時代交出的一份極其亮眼的成績單。 皮查伊在演講中宣佈，作為谷歌核心的AI產品，GeminiApp的月活躍使用者數在過去一年內迎來了爆發式增長，從2025年5月的4億一路飆升，截至2026年4月已突破9億大關。同時，AI技術與谷歌核心搜尋業務的融合也取得了史無前例的成功：搜尋中的“AI模式”（AIMode）月活躍使用者已突破10億，而廣受歡迎的“AI概述”（AIOverviews）月活躍使用者更是席捲了全球超過25億人。（新浪科技）"
-    },
-    {
-      "id": "mkt:019e4144-5245-7228-9afe-1c846fdb8b2e",
-      "time": "2026-05-20 01:24:16",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "Star Stocks",
-        "Alphabet",
-        "GOOGL.O",
-        "Impact bullish"
-      ],
-      "text": "GOOGLE DEBUTS GEMINI 3.5 MODEL FAMILY, STARTING WITH GEMINI 3.5 FLASH - CONFERENCE"
-    },
-    {
-      "id": "4888706",
-      "time": "2026-05-20 01:23:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國共和黨參議員科寧：特朗普兩屆任期期間，我一直與他密切共事。我99%以上的投票都和特朗普的立場一致。"
-    },
-    {
-      "id": "4888705",
-      "time": "2026-05-20 01:22:42",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "美國天然氣期貨漲超3.00%，現報3.115美元/百萬英熱。"
-    },
-    {
-      "id": "4888704",
-      "time": "2026-05-20 01:21:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際原子能機構：機構國際專家小組確認，薩爾瓦多在搭建相關配套體系方面取得顯著進展，足以支撐該國就引入核電專案作出理性決策。"
-    },
-    {
-      "id": "te:markets:552024",
-      "time": "2026-05-20 01:21:49",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Bank Of Montreal Stock Price Hits All-time High — Bank Of Montreal shares increased to an all-time high of 212.74 CAD. Over the past 4 weeks, Bank Of Montreal gained 1.48%, and in the last 12 months, it increased 47.6%."
-    },
-    {
-      "id": "mkt:019e4142-072d-7228-9afe-114c261858c0",
-      "time": "2026-05-20 01:21:46",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "【Pentagon Official Declines to Rule Out Iran Operations Without Congressional Approval】A senior Pentagon official declined to say whether the Trump administration would seek congressional authorization before restarting military operations against Iran or whether deploying US ground forces remains under consideration. Daniel Zimmerman, assistant secretary of defense for international security affairs, told lawmakers President Donald Trump “retains the options at his disposal” and said decisions on offensive combat operations are “the president’s to make.” Zimmerman added that negotiations are underway “to try to achieve a long-term solution.” Trump said earlier that renewed military operations against Iran were “an hour away” before he halted them after talks with Gulf leaders."
-    },
-    {
-      "id": "4888703",
-      "time": "2026-05-20 01:21:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗官員：特朗普只聽得懂強權話語。"
     }
   ]
 }
