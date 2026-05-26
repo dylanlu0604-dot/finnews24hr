@@ -1,7 +1,53 @@
 {
-  "updated": "2026-05-27 04:23:52",
-  "count": 14949,
+  "updated": "2026-05-27 04:27:45",
+  "count": 14951,
   "items": [
+    {
+      "id": "mkt:019e65f6-1d3b-7332-8106-5ce388f9f4f2",
+      "time": "2026-05-27 04:24:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "FTSE Russell To Independently Review SpaceX For Index Inclusion"
+    },
+    {
+      "id": "mkt:019e65f5-ef07-7332-8106-51981d0c3c0b",
+      "time": "2026-05-27 04:24:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "FTSE Russell: IPOs With Investable Market Cap Above Adjusted Threshold For Russell US Top 500 Eligible For Fast Inclusion"
+    },
+    {
+      "id": "mkt:019e65f5-b6ab-7332-8106-4cfc38a6aaf3",
+      "time": "2026-05-27 04:24:22",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "FTSE Russell To Include Eligible Fast-Track China A-Share IPOs After Close Of 5th Trading Day Post-Listing"
+    },
+    {
+      "id": "te:markets:553846",
+      "time": "2026-05-27 04:23:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Falls on Renewed US-Iran Tensions — The Ibovespa lost 0.7% to close at 176,589 on Tuesday after new US attacks on Iran reduced expectations that a peace agreement could be reached soon. The latest strikes renewed uncertainty over when the Strait of Hormuz might reopen, reviving concerns about prolonged inflation and higher-for-longer interest rates, lifting bond yields and pressuring equities. Major banks posted losses, with Itaú down 0.8%, Banco do Brasil shedding 2.4%, and Bradesco losing 1.5%. Utilities also traded lower, with Axia down 2%. Vale fell 0.8% as iron ore prices tumbled. Elsewhere, Rede D'Or gained 1.1% after signing an investment agreement with Atlântica, a group formed by two indirect subsidiaries of Bradesco Saúde, related to the future construction and operation of a hospital in Rio de Janeiro. São Martinho lost 1.5% despite reporting EBITDA above forecasts in Q1 2026."
+    },
+    {
+      "id": "4900985",
+      "time": "2026-05-27 04:23:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數26日上漲】美元指數26日上漲。衡量美元對六種主要貨幣的美元指數當天上漲0.2%，在匯市尾市收於99.169。截至紐約匯市尾市，1歐元兌換1.1629美元，低於前一交易日的1.1644美元；1英鎊兌換1.3445美元，低於前一交易日的1.3507美元。1美元兌換159.33日元，高於前一交易日的158.90日元；1美元兌換0.7857瑞士法郎，高於前一交易日的0.7826瑞士法郎；1美元兌換1.3813加元，高於前一交易日的1.3804加元；1美元兌換9.3198瑞典克朗，高於前一交易日的9.2864瑞典克朗。"
+    },
     {
       "id": "4900984",
       "time": "2026-05-27 04:23:19",
@@ -133783,32 +133829,6 @@
         "國際"
       ],
       "text": "【德國將接收一名美籍埃博拉病毒感染者】德國衛生部19日表示，應美國方面請求，一名在剛果（金）感染埃博拉病毒的美國人將被送往德國柏林接受治療。"
-    },
-    {
-      "id": "mkt:019e41ec-47d0-7228-9b00-44c947999c77",
-      "time": "2026-05-20 04:27:44",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "【US to Reduce NATO Crisis-Response Force Commitments】The Trump administration plans to tell NATO allies this week that the US will reduce the military capabilities it makes available under the NATO Force Model during major crises or war, according to sources familiar with the matter. The move is expected to be communicated at a Friday meeting in Brussels. The Pentagon is expected to maintain the US nuclear umbrella for NATO members while shifting greater responsibility for conventional defense to Europe. The alliance faces rising strain amid concerns in Europe about a broader US pullback, following plans to cut about 5,000 US troops from Europe and cancel an Army brigade deployment to Poland."
-    },
-    {
-      "id": "4888862",
-      "time": "2026-05-20 04:26:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿森納自 2004 年以來再度奪得英格蘭英超聯賽冠軍。"
-    },
-    {
-      "id": "mkt:019e41ea-16f3-7228-9b00-3d53c8f4f13e",
-      "time": "2026-05-20 04:25:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US PLANS TO SHRINK FORCES AVAILABLE TO NATO DURING CRISES, SOURCES SAY"
     }
   ]
 }
