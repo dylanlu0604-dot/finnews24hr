@@ -1,7 +1,37 @@
 {
-  "updated": "2026-05-27 04:35:26",
-  "count": 14955,
+  "updated": "2026-05-27 04:39:15",
+  "count": 14951,
   "items": [
+    {
+      "id": "4900993",
+      "time": "2026-05-27 04:36:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表格里爾：美國與加拿大存在貿易分歧，在特朗普關稅政策下，加拿大采取了反制措施。"
+    },
+    {
+      "id": "mkt:019e6600-81ed-7332-8106-831834fa5e77",
+      "time": "2026-05-27 04:36:09",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "GREER: U.S.-Canada Trade Dispute; Canada Retaliates Against Trump Tariffs"
+    },
+    {
+      "id": "te:markets:553848",
+      "time": "2026-05-27 04:35:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.23% Lower — The Dow Jones Index fell 117 points or 0.23 percent on Tuesday to close at 50463 points. Leading the losses are Chevron (-3.48%), UnitedHealth (-2.85%) and Merck (-2.20%). Top gainers were Caterpillar (3.26%), Honeywell International (1.61%) and 3M (1.08%)."
+    },
     {
       "id": "4900992",
       "time": "2026-05-27 04:33:11",
@@ -133800,75 +133830,6 @@
         "國際"
       ],
       "text": "【萬斯稱美軍部署波蘭計劃取消是“例行輪換推遲”】美國副總統萬斯19日在白宮記者會上說，關於媒體報道美國最近取消本月向波蘭部署一支4000多人美軍部隊的計劃，“不是削減，而是一次例行輪換推遲”。萬斯說，他認為這對歐洲而言“並非壞事”，實際上是“鼓勵歐洲承擔起更多的自主責任”。他說，美國不能充當“世界警察”，“且歐洲必須更多地依靠自身力量站穩腳跟。這將繼續是我們的對歐政策”。萬斯還說，這些美軍人員可能會被派往歐洲其他地區，有關美國正在“大規模撤軍”的說法並不準確，他認為許多歐洲媒體對此事反應“有些過度了”。"
-    },
-    {
-      "id": "4888867",
-      "time": "2026-05-20 04:37:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國電網運營商PJM Interconnection LLC.釋出最大化發電應急/負荷管理警告。"
-    },
-    {
-      "id": "mkt:019e41f4-bf12-7228-9b00-89678d917792",
-      "time": "2026-05-20 04:36:57",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Alphabet",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish",
-        "GOOGL.O"
-      ],
-      "text": "NVIDIA CORP - NVIDIA AND GOOGLE CLOUD EMPOWER NEXT WAVE OF AI BUILDERS"
-    },
-    {
-      "id": "4888866",
-      "time": "2026-05-20 04:36:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "英偉達：英偉達攜手谷歌雲，賦能新一代人工智慧開發者。"
-    },
-    {
-      "id": "mkt:019e41f3-c650-7228-9b00-87d613e22966",
-      "time": "2026-05-20 04:35:52",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | API Weekly Crude Oil Runs (May.15) | actual -78000M | previous 188000M"
-    },
-    {
-      "id": "mkt:019e41f3-a651-7228-9b00-7895ebb641f8",
-      "time": "2026-05-20 04:35:44",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | API Weekly Petroleum Products Imports Change (May.15) | actual 282000M | previous -317000M"
-    },
-    {
-      "id": "mkt:019e41f3-9632-7228-9b00-759df346880b",
-      "time": "2026-05-20 04:35:35",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | API Weekly Crude Oil Imports Change (May.15) | actual -88000M | previous 337000M"
-    },
-    {
-      "id": "mkt:019e41f3-5ed7-7228-9b00-6aab996c72d6",
-      "time": "2026-05-20 04:35:26",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | API Weekly Heating Oil Stocks Change (May.15) | actual 180000M | previous -116000M"
     }
   ]
 }
