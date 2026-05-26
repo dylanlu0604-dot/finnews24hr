@@ -1,7 +1,32 @@
 {
-  "updated": "2026-05-26 11:43:23",
-  "count": 15580,
+  "updated": "2026-05-26 11:47:20",
+  "count": 15577,
   "items": [
+    {
+      "id": "4899573",
+      "time": "2026-05-26 11:46:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【何氏眼科：密切跟蹤包括芬蘭IXI在內的全球前沿技術】何氏眼科(301103)在互動平臺表示，關於芬蘭IXI自動對焦液晶鏡片技術，公司已關注到相關進展。綜合公開資訊瞭解，該技術主要面向老花眼合併近視/遠視的中老年人群，並非直接替代近視矯正鏡片；其落地還需面臨臨床驗證、監管審批等影響。IXI這類智慧鏡片即便未來成熟，也更多是補充而非替代。同時，公司也在積極探索前沿技術領域，如再生醫療等，透過對外投資實現技術資源整合與升級。公司認為技術迭代是機遇而非利空。我們將保持開放心態，密切跟蹤包括芬蘭IXI在內的全球前沿技術，堅持醫療為本、技術賦能、服務為核，持續夯實視光業務壁壘。"
+    },
+    {
+      "id": "4899572",
+      "time": "2026-05-26 11:45:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【阿里千問3.7程式設計能力躋身全球前二】5月26日凌晨，全球權威三方程式設計榜單Code Arena放榜，阿里最新旗艦模型Qwen3.7-Max得分1541，超越GPT-5.5、Gemini-3.5-Flash、GLM-5.1、Kimi-K2.6等一眾模型，僅次於Claude系列，在大模型廠商中排名全球第二，這也標誌著在程式碼理解與生成領域，千問3.7躋身全球程式設計模型第一梯隊。"
+    },
+    {
+      "id": "4899571",
+      "time": "2026-05-26 11:43:45",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "斯里蘭卡盧比在該國央行大幅加息後上漲1%。"
+    },
     {
       "id": "4899570",
       "time": "2026-05-26 11:42:38",
@@ -4542,6 +4567,14 @@
         "MKT News"
       ],
       "text": "IDF: STRUCK MORE THAN 70 HEZBOLLAH SITES ACROSS LEBANON"
+    },
+    {
+      "id": "mkt:019e6262-7ec9-7dd8-b21e-174ac8cefa28",
+      "time": "2026-05-26 03:44:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【IDF Says Killed Key Hamas Weapons-Production Figure Mohammed Abu Malouh】IDF Says Oct 24 Precision Strike In Central Gaza Killed Hamas Weapons-Production Core Mohammed Abu Malouh; Used Aerial Recon, Precision-Guided Munitions; Claimed He Continued Arms Production During Ceasefire"
     },
     {
       "id": "mkt:019e625a-937b-7dd8-b21e-0e94f1ed5b4b",
@@ -139332,71 +139365,6 @@
         "國際"
       ],
       "text": "【印尼等10國外長強烈譴責以色列再次襲擊“全球堅韌船隊” 】印度尼西亞等10國外長18日發表聯合宣告，對以色列再次襲擊“全球堅韌船隊”的行為予以“最強烈譴責”。 根據印尼外交部當天在社交媒體釋出的宣告，土耳其、孟加拉國、巴西、哥倫比亞、印度尼西亞、約旦、利比亞、馬爾地夫、巴基斯坦和西班牙等國外長嚴重關切以色列此前在國際水域對類似船隊的干預行為，並譴責持續針對民用船隻和人道主義活動人士的敵對行為。 宣告說，此類襲擊，包括對船隻的攻擊和對活動人士的任意拘留，公然違反了國際法和國際人道法。宣告對船隊平民參與者的安全狀況表示嚴重擔憂，呼籲立即釋放所有被拘押人員，並充分尊重其權利和尊嚴。"
-    },
-    {
-      "id": "4887086",
-      "time": "2026-05-19 11:46:40",
-      "tags": [
-        "市場"
-      ],
-      "text": "【中國AI雲市場大爆發，阿里雲增至38.1%，AI IaaS和MaaS均第一】國際權威市場調研機構英富曼（Omdia）釋出最新的《中國AI雲市場份額2025》報告，2025年中國AI雲市場總規模達567億元人民幣，其中，阿里雲在AI IaaS和MaaS兩大領域均位列第一，總份額從上半年的35.8%上漲至38.1%，整體穩居第一，超過二到四名總和。"
-    },
-    {
-      "id": "4887084",
-      "time": "2026-05-19 11:45:20",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印尼股市基準指數下跌1%至6532.55點。"
-    },
-    {
-      "id": "mkt:019e3e55-7b0f-7aa9-b722-660b6423cd76",
-      "time": "2026-05-19 11:44:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TAIWAN'S BENCHMARK STOCK INDEX FALLS AS MUCH AS 1.5% TO 40,300.51 POINTS"
-    },
-    {
-      "id": "4887083",
-      "time": "2026-05-19 11:44:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "臺灣基準股票指數跌幅達1.5%，至40300.51點。"
-    },
-    {
-      "id": "mkt:019e3e55-5e2e-7aa9-b722-5de9accb6dee",
-      "time": "2026-05-19 11:44:02",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "CSI300",
-        "Impact bearish",
-        "Hang Seng Index",
-        "Copper"
-      ],
-      "text": "【Iron Ore Falls to Two-Week Low on China Steel Demand Concerns】Iron ore fell for a fourth straight session in Singapore, the longest losing streak in nearly three months, amid concerns over weakening Chinese demand. Prices slipped near $107 a ton after data showed China’s economy slowed broadly in April, with investment resuming declines as the global energy crisis weighed on factories and consumers. GF Futures Co. said recent steel price gains had outpaced demand, while high prices were also hurting Chinese steel exports and overseas consumption."
-    },
-    {
-      "id": "4887082",
-      "time": "2026-05-19 11:43:52",
-      "tags": [
-        "公司",
-        "市場",
-        "原創"
-      ],
-      "text": "【5月19日午間漲停分析】創業板指半日跌超1%，電力股逆勢走強。利仁科技7連板，威龍股份、京能電力均5連板，一圖看懂>>"
-    },
-    {
-      "id": "4887081",
-      "time": "2026-05-19 11:43:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【東山精密：已與外部矽光企業開展合作並佈局自研矽光模組產品】東山精密(002384)5月19日在互動平臺表示，公司200G EML已實現量產，1.6T產品客戶端相關工作正按計劃有序推進，3.2T產品將依託索爾思自有光晶片優勢優先以400G EML為核心開展布局。公司具備矽光CW鐳射晶片研發能力，目前已與外部矽光企業開展合作並佈局自研矽光模組產品，後續技術方案堅持EML與矽光並行，多元佈局應對光互聯技術迭代，持續夯實技術競爭力。"
     }
   ]
 }
