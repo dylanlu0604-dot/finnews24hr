@@ -1,7 +1,60 @@
 {
-  "updated": "2026-05-27 00:26:10",
-  "count": 15082,
+  "updated": "2026-05-27 00:30:12",
+  "count": 15085,
   "items": [
+    {
+      "id": "4900881",
+      "time": "2026-05-27 00:29:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：近期有媒體報道稱，美國海軍已重啟護航行動，為行經霍爾木茲海峽的商船提供協助。該說法不實。“自由行動” 護航計劃並未重啟，目前美軍並未在霍爾木茲海峽為商船提供護航。"
+    },
+    {
+      "id": "mkt:019e651d-f622-7332-8104-d219377b4425",
+      "time": "2026-05-27 00:28:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Nikkei: TAKAICHI, LULA Meeting Being Arranged At Mid-June G7 Summit"
+    },
+    {
+      "id": "te:markets:553833",
+      "time": "2026-05-27 00:26:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "DAX Finishes Lower — Frankfurt's DAX 40 closed about 0.8% down at 25,184 on Tuesday, halting a two-day advance, amid profit-taking and renewed caution over developments in the Gulf. Hopes for progress on a US–Iran deal eased after fresh US strikes on Iran and threats from Tehran, which pushed oil prices higher. Meanwhile, ongoing optimism around AI helped cushion the decline. Top losers were MTU Aero Engines (-3.5%), Deutsche Bank (-2.1%), Fresenius SE & Co (-2%) and SAP (-2%).On the flip side, Zalando (2.3%), Infineon Technologies (0.8%), E.ON (0.7%), and Continental (0.6%).posted the biggest gains."
+    },
+    {
+      "id": "mkt:019e651b-ee2a-7332-8104-cb95bff81795",
+      "time": "2026-05-27 00:26:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Japan To Open Trade Talks With Mercosur, Seeks Oil And Auto Exports - Nikkei"
+    },
+    {
+      "id": "4900880",
+      "time": "2026-05-27 00:26:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "據日經新聞：日本即將啟動與南方共同市場的貿易談判，以求獲取石油並擴大汽車出口。"
+    },
     {
       "id": "mkt:019e6517-9abf-7332-8104-c51297245678",
       "time": "2026-05-27 00:21:46",
@@ -134963,25 +135016,6 @@
         "Importance 0"
       ],
       "text": "European Stocks Close Flat for 2nd Session — European stocks closed mixed on Tuesday as markets continued to monitor risks to inflation from higher energy prices and a generally strong earnings projections signaled in the first-quarter results. The Eurozone's STOXX 50 closed flat at 5,851 and the pan-European STOXX 600 closed 0.2% higher at 611. Crude oil and natural gas prices remained elevated amid low expectations of an incoming agreement between Iran and the US to restore energy supplies in the Middle East. Sovereign yields in the Eurozone rose further, denting credit-sensitive banks with UniCredit, BBVA, and Intesa Sanpaolo dropping around 1%. Industrial giants also pulled back with Siemens and Schneider falling 1.5% and 2%, respectively. On the other hand, SAP soared 6% after launching a new platform in partnership with US AI giants."
-    },
-    {
-      "id": "4888660",
-      "time": "2026-05-20 00:28:16",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【通脹擔憂拖累市場，美國債券拋售潮進一步加劇】受油價上漲與通脹憂慮影響，美股走低，國債拋售行情持續發酵，十年期美債收益率攀升至2025年2月以來新高。儘管特朗普表態暫緩對伊朗採取軍事行動，但市場依舊擔憂中東局勢長期緊張會推高能源成本。投資者本週還將緊盯英偉達等企業重磅財報，同時關注太空探索技術公司即將遞交的首次公開募股招股書。"
-    },
-    {
-      "id": "em:qqyh_mlc:202605203742412172",
-      "time": "2026-05-20 00:26:17",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【紐約聯儲Perli稱美聯儲國庫券月度購買規模可上調也可下調】紐約聯邦儲備銀行的RobertoPerli表示，美聯儲的國庫券月度購買規模並非按預設路徑推進，可根據市場狀況進行調整。負責管理美聯儲系統公開市場賬戶(SOMA)的Perli表示，他和SOMA團隊的同事們“隨時準備”在必要時上調或下調準備金管理性購買的步伐，以維持準備金處於充裕區間。"
     }
   ]
 }
