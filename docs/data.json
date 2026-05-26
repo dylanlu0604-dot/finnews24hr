@@ -1,7 +1,47 @@
 {
-  "updated": "2026-05-26 14:25:48",
-  "count": 15514,
+  "updated": "2026-05-26 14:29:42",
+  "count": 15508,
   "items": [
+    {
+      "id": "4899722",
+      "time": "2026-05-26 14:27:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【段永平回應王寧像喬布斯，此前已開始佈局泡泡瑪特】5月25日晚，有網友問段永平：怎麼看王寧，他是像喬布斯一樣，既是報時人又是造鐘人嗎？段永平今日給出回覆：我覺得王寧對自己產品的理解以及追求和Jobs是一個級別的，至少未來會是的。王寧對商業的理解好像比Jobs還要強一點點。今年4月，段永平發文稱“我的泡泡瑪特保險公司正式開張了”，正式確認已開始佈局泡泡瑪特，相關發言引發市場關注。(21世紀經濟報道)"
+    },
+    {
+      "id": "mkt:019e62f6-9766-7ff6-adfb-e965a23e46ca",
+      "time": "2026-05-26 14:26:28",
+      "tags": [
+        "MKT News",
+        "005930.KS",
+        "Impact bullish"
+      ],
+      "text": "SOUTH KOREA COURT DISMISSES INJUCTION SEEKING TO SUSPEND SAMSUNG'S MAJOR UNION FROM NEGOTIATIONS - YONHAP"
+    },
+    {
+      "id": "te:markets:553647",
+      "time": "2026-05-26 14:26:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "ASX 200 Drops Slightly at Finish — Australian shares slipped on Tuesday, with the ASX 200 down 30 points, or 0.3%, to close at 8,662, snapping a two-day advance and pulling back from a two-week peak, as traders secured profits ahead of April CPI data due Wednesday. Headline inflation is expected to ease to 4.4% from March’s 2-1/2-year high of 4.6%, though still above the Reserve Bank’s 2–3% target. Meanwhile, the trimmed mean is seen edging up to 3.4% from 3.3%. Still, a surge in U.S. futures helped cap losses after U.S. forces reportedly carried out “self-defense” strikes in southern Iran. Selling pressure hit logistics, consumer non-durables, consumer services, and energy minerals, partly offset by gains in consumer durables and industrial services. ASX Ltd. tumbled 12%, its steepest fall in over a decade, on tech-driven cost warnings. Two of the big four banks fell between 0.2%–0.5% while other notable losers included Aristocrat Leisure (-3.4%), Insurance Australia Group (-2.1%), and Challenger Ltd. (-4.8%)."
+    },
+    {
+      "id": "4899721",
+      "time": "2026-05-26 14:26:04",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "市場訊息：韓國法院駁回請求暫停三星主要工會進行談判的禁令申請。"
+    },
     {
       "id": "4899720",
       "time": "2026-05-26 14:22:19",
@@ -138738,98 +138778,6 @@
         "公司"
       ],
       "text": "【格羅方德推出矽光子共封裝先進光引擎方案】5月19日，據格羅方德訊息，該公司日前推出其用於共封裝光學（Co-Packaged Optics，CPO）的SCALE™光學模組解決方案。格羅方德的SCALE解決方案，即矽光子共封裝先進光引擎方案，是其首個支援光學計算互連多源協議（OCI MSA）的平臺。"
-    },
-    {
-      "id": "4887317",
-      "time": "2026-05-19 14:29:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "【英特爾：PC正在進化為智慧體驗入口】AI時代，使用者對PC智慧化產生迫切需求。5月18日，英特爾在第三代英特爾酷睿處理器新品會上表示，PC（個人計算機）正從工具進化為智慧體驗的入口。英特爾副總裁、中國區軟體工程和客戶端產品事業部總經理高嵩表示，主流PC總給人以廉價但厚重的印象，效能與續航能力也有限，首款支援端雲混合AI的第三代英特爾酷睿處理器將以往侷限於高階產品的能力擴充套件到主流PC平臺上。據悉，端雲混合AI的“本地輔腦+雲端主腦”混合架構能夠高效分配任務，實現效能、隱私保護、成本與響應速度的平衡。“輔腦”能力由PC端的本地AI和中小模型構成，“主腦”則協作遠端AI和大模型。（澎湃）"
-    },
-    {
-      "id": "mkt:019e3eec-caf5-7aa9-b723-cb8b7190902d",
-      "time": "2026-05-19 14:29:08",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "000001.SS",
-        "399001.SZ"
-      ],
-      "text": "TURNOVER ON SSE AND SZSE EXCEEDS RMB 2.5 TRLN, DOWN RMB 82 BLN FROM SAME TIME PREVIOUS SESSION"
-    },
-    {
-      "id": "4887316",
-      "time": "2026-05-19 14:28:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華光環能成立科技公司，含AI相關業務】企查查APP顯示，近日，無錫華煦科技有限公司成立，法定代表人為譚東林，經營範圍包含：環保諮詢服務；人工智慧行業應用系統整合服務；人工智慧應用軟體開發；智慧水務系統開發等。企查查股權穿透顯示，該公司由華光環能旗下華昕設計集團有限公司全資持股。"
-    },
-    {
-      "id": "4887314",
-      "time": "2026-05-19 14:27:45",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【信託理財合作現新“花活”：券商投顧放棄浮動報酬以回補淨值】記者5月19日從業內獲悉，部分信託公司在與銀行理財公司合作中，出現一種新的淨值“潤滑”操作：信託產品在聘請券商擔任投顧時，約定固定和浮動投顧報酬，信託公司透過“打分”機制讓券商主動放棄已計提的浮動報酬，將資金回補至信託資產，從而修復當日淨值。“券商之所以願意放棄浮動報酬，核心訴求是保規模、賺固定費用等。”某信託公司人士向記者表示。近年來，從信託平滑機制、收盤價估值到自建估值模型，理財機構對產品估值採取的一系列平滑舉措受到監管部門關注。但在理財資金需求旺盛的背景下，銀行理財與信託的委外合作仍是資管行業重要的業務模式。(中證金牛座)"
-    },
-    {
-      "id": "te:markets:551828",
-      "time": "2026-05-19 14:27:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "European Stocks Poised for Higher Open — European equity markets were set to open modestly higher on Tuesday as easing oil prices boosted sentiment amid renewed hopes for a peace agreement between the US and Iran. President Donald Trump said he canceled a planned strike on Iran after appeals from Gulf allies, adding that serious negotiations were now taking place. Meanwhile, G7 finance ministers and central bank governors are concluding their meeting in Paris today, where officials acknowledged growing concerns over rising public debt levels and volatility in bond markets. Elsewhere, Russian President Vladimir Putin is scheduled to arrive in Beijing on Tuesday for a two-day summit with Chinese President Xi Jinping. In corporate developments, the German government announced plans to re-privatize energy company Uniper, which was nationalized during the 2022 European energy crisis. In premarket trading, Euro Stoxx 50 futures gained 0.2%, while Stoxx 600 futures advanced 0.3%."
-    },
-    {
-      "id": "4887313",
-      "time": "2026-05-19 14:26:28",
-      "tags": [
-        "資料",
-        "國際"
-      ],
-      "text": "【大和證券：日本4-6月經濟增長率可能接近零】大和證券經濟學家Kento Minami表示，按年率計算，預計日本4-6月季度的實際國內生產總值(GDP)增長率將放緩至0%區間的低端。週二公佈的政府資料顯示，第一季度該國經濟按年率計算增長了2.1%。他說：“完全擾亂實物商品供應的產量衝擊，有導致經濟活動直接停滯的風險，尤其是在難以找到合適替代品的情況下。”他補充說，在討論補充預算時，政府應重點關注消除物流瓶頸，並向受中東衝突打擊最嚴重的特定行業提供有針對性的支援。"
-    },
-    {
-      "id": "4887312",
-      "time": "2026-05-19 14:26:26",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超2.5萬億元，較上日此時縮量820億元。"
-    },
-    {
-      "id": "4887311",
-      "time": "2026-05-19 14:26:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "【Stellantis宣佈啟動“E-Car”專案：主打經濟型定位，首批新車預計2028年下線】5月19日，Stellantis宣佈啟動緊湊型經濟電動汽車“E-Car”專案，該專案首批車型預計將於2028年正式下線。Stellantis表示，“E-Car”是一款創新且價格實惠的純電動汽車。該專案的推進旨在應對近年來歐洲緊湊型經濟汽車市場前所未有的萎縮現狀。"
-    },
-    {
-      "id": "4887310",
-      "time": "2026-05-19 14:26:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以色列科技界人士期待與中國加強智慧出行合作】多名以色列科技界人士日前接受新華社記者採訪時表示，中國在智慧出行、電動汽車、無人機和城市交通創新等領域發展迅速，期待與中國加強技術合作。第九屆“薩姆森國際智慧出行峰會”17日至18日在以色列特拉維夫舉行。智慧交通是本屆峰會的關注重點之一。新華社記者在會場瞭解到，當前智慧出行技術正加速向自動駕駛、車輛感知和城市交通管理等場景延伸。(新華社)"
-    },
-    {
-      "id": "4887309",
-      "time": "2026-05-19 14:25:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "【金融街：4月和5月至今的銷售簽約金額、簽約面積較一季度有所提升】金融街(000402)5月18日在業績說明會上表示，4月和5月至今公司實現的銷售簽約金額、簽約面積較一季度有所提升，環比均有所增長。公司對二季度整體簽約目標沒有調整。"
     }
   ]
 }
