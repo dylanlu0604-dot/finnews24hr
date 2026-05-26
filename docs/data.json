@@ -1,7 +1,31 @@
 {
-  "updated": "2026-05-27 05:06:06",
-  "count": 14965,
+  "updated": "2026-05-27 05:09:56",
+  "count": 14967,
   "items": [
+    {
+      "id": "4901017",
+      "time": "2026-05-27 05:09:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【初步評估顯示哈馬斯新任軍事領導人被打死】當地時間26日晚，以色列方面援引訊息人士的話稱，初步評估顯示，巴勒斯坦伊斯蘭抵抗運動（哈馬斯）新任軍事領導人穆罕默德·奧達在以軍當晚對加沙城的空襲中被打死。以官方尚未證實這一訊息，哈馬斯也尚未對奧達遇襲事件發表評論。以色列總理內塔尼亞胡和國防部長卡茨此前宣佈，以色列國防軍發動了針對哈馬斯新任軍事領導人的襲擊行動。（央視新聞）"
+    },
+    {
+      "id": "4901016",
+      "time": "2026-05-27 05:06:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國防部：防長赫格塞思還將與新加坡國防部長會面。"
+    },
+    {
+      "id": "4901015",
+      "time": "2026-05-27 05:06:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國防部：防長赫格塞思與新加坡總理會面。"
+    },
     {
       "id": "mkt:019e661a-e054-7332-8106-b44cf736acd6",
       "time": "2026-05-27 05:04:57",
@@ -133927,18 +133951,6 @@
         "國際"
       ],
       "text": "伊朗稱美方所謂遭襲伊朗學校位於巡航導彈基地內的說法毫無依據。"
-    },
-    {
-      "id": "te:markets:552036",
-      "time": "2026-05-20 05:07:21",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Ibovespa Falls on Rising Yields and Political Tension — The Ibovespa fell 1.5% to close at 174,279 on Tuesday as investors reacted to a new election poll and persistent inflation concerns. An Atlas survey for Bloomberg showed Senator Flávio Bolsonaro losing support for October’s presidential election following reports linking him to former banker Daniel Vorcaro, who was charged with fraud. Meanwhile, oil prices remained elevated as markets looked past President Donald Trump’s decision to postpone attacks on Iran, keeping stagflation fears in focus. Brazil’s 10-year bond yield also moved higher, pressuring financial stocks. Banco do Brasil fell 0.93%, Bradesco lost 1.53%, Itaú Unibanco dropped 2.12%, and Santander Brasil slipped 0.37%. B3 plunged 4.96% after appointing Christian Egan as its new CEO, replacing Gilson Finkelsztain. Vale declined 1% on weaker iron ore prices in China, while Petrobras lost 0.75% as oil prices edged lower, though still above $100 per barrel."
     }
   ]
 }
