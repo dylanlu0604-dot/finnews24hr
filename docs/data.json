@@ -1,7 +1,24 @@
 {
-  "updated": "2026-05-27 03:26:00",
-  "count": 14957,
+  "updated": "2026-05-27 03:29:51",
+  "count": 14956,
   "items": [
+    {
+      "id": "mkt:019e65c0-9baf-7332-8105-eb0ed1cf4743",
+      "time": "2026-05-27 03:26:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Moscow Arbitration Court Makes Euroclear Bank's €200bln Judgment Against Bank Of Russia Immediately Enforceable】Moscow Arbitration Court Approved Bank Of Russia Request To Convert May 15 €200bln Judgment Against Euroclear Bank Into Immediate Execution, Bypassing Appeal Period; Frozen Bank Of Russia Assets Remain Under EU Sanctions, Recovery Depends On EU Stance"
+    },
+    {
+      "id": "4900960",
+      "time": "2026-05-27 03:25:37",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【俄法院裁定歐洲清算銀行立即向俄央行賠償約2000億歐元】當地時間5月26日，俄羅斯莫斯科仲裁法院批准俄央行的申請，將對歐洲清算銀行約2000億歐元的追償判決轉為“立即執行”。該法院已於5月15日作出一審判決，裁定歐洲清算銀行須向俄央行支付上述款項。（央視新聞）"
+    },
     {
       "id": "mkt:019e65bd-3030-7332-8105-e785bd53f349",
       "time": "2026-05-27 03:22:37",
@@ -133874,30 +133891,6 @@
         "市場"
       ],
       "text": "【國際油價19日下跌】截至當天收盤，紐約商品交易所6月交貨的輕質原油期貨價格下跌89美分，收於每桶107.77美元，跌幅為0.82%；7月交貨的倫敦布倫特原油期貨價格下跌82美分，收於每桶111.28美元，跌幅為0.73%。"
-    },
-    {
-      "id": "4888832",
-      "time": "2026-05-20 03:29:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國常務副國務卿蘭道：剛與玻利維亞總統通完話，對該國當前局勢深表擔憂。"
-    },
-    {
-      "id": "4888831",
-      "time": "2026-05-20 03:27:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "據《華爾街日報》：儘管特朗普取消了原定的打擊行動，美伊談判進展有限。"
-    },
-    {
-      "id": "4888830",
-      "time": "2026-05-20 03:26:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國中央司令部： 美軍中央司令部部隊持續全面執行美國對伊朗封鎖措施，阻斷伊朗港口進出口商貿往來，已勒令 89 艘商船改道以確保禁令落實。"
     }
   ]
 }
