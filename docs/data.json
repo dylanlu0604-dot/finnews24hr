@@ -1,7 +1,31 @@
 {
-  "updated": "2026-05-27 03:22:03",
-  "count": 14959,
+  "updated": "2026-05-27 03:26:00",
+  "count": 14957,
   "items": [
+    {
+      "id": "mkt:019e65bd-3030-7332-8105-e785bd53f349",
+      "time": "2026-05-27 03:22:37",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【NETANYAHU Says IDF Seizing Strategic Sites In Lebanon】NETANYAHU Orders Intensified IDF Strikes, Deep Operations In Lebanon; IDF Deploys Large Forces To Secure Strategic Sites, Consolidate Northern Israel Buffer Zone; Israel Developing Nationwide Drone Countermeasures"
+    },
+    {
+      "id": "mkt:019e65bc-a48e-7332-8105-dfd3b115779c",
+      "time": "2026-05-27 03:22:02",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【Israel Says Killed Hamas New Military Leader Muhammad Oda】NETANYAHU, Defense Minister Katz Say IDF Struck Hamas New Military Leader Muhammad Oda In Gaza; Oda Alleged Oct. 7, 2023 Raid Planner, Former Hamas Intelligence Head; Replaced Izdin Haddad After Assassination Last Week"
+    },
     {
       "id": "mkt:019e65b9-7b32-7332-8105-d1e4e5d6bfc3",
       "time": "2026-05-27 03:18:34",
@@ -133874,40 +133898,6 @@
         "國際"
       ],
       "text": "美國中央司令部： 美軍中央司令部部隊持續全面執行美國對伊朗封鎖措施，阻斷伊朗港口進出口商貿往來，已勒令 89 艘商船改道以確保禁令落實。"
-    },
-    {
-      "id": "mkt:019e41b3-9b1c-7228-9aff-bb699637dc10",
-      "time": "2026-05-20 03:25:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. STATE DEPARTMENT'S LANDAU SAYS HE JUST SPOKE WITH BOLIVIA'S PRESIDENT PAZ AND IS VERY CONCERNED ABOUT SITUATION THERE"
-    },
-    {
-      "id": "4888828",
-      "time": "2026-05-20 03:25:44",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美元指數19日上漲】衡量美元對六種主要貨幣的美元指數當天上漲0.14%，在匯市尾市收於99.326。截至紐約匯市尾市，1歐元兌換1.1604美元，低於前一交易日的1.1637美元；1英鎊兌換1.3397美元，低於前一交易日的1.3411美元。1美元兌換159.06日元，高於前一交易日的159.01日元；1美元兌換0.7892瑞士法郎，高於前一交易日的0.7856瑞士法郎；1美元兌換1.3750加元，高於前一交易日的1.3749加元；1美元兌換9.4055瑞典克朗，低於前一交易日的9.4093瑞典克朗。"
-    },
-    {
-      "id": "4888827",
-      "time": "2026-05-20 03:25:25",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【日本財相：必要時將採取果斷行動應對日元疲軟】日本財務大臣片山皋月暗示決心在必要時干預外匯市場以支撐日元，她指出G7其他成員國財長對日本的這一立場表示理解。日本得到了G7同行的“理解”，片山週二在巴黎與G7財長會面後對記者表示，“如有必要，我們將採取果斷行動。”這是自上月底日本疑似實施一系列旨在支撐日元的干預措施以來舉行的首次G7會議。G7公報重申了長期承諾，包括不以匯率為政策目標，匯率的過度波動可能會對經濟產生不利影響，這些措辭表達了對日本立場的支援。在片山發表上述言論後，日元兌美元匯率走強至158.82附近。此前，日元匯率曾一度跌至4月30日以來的最低水平，當時日本政府進行了2024年以來的首次匯率干預。"
-    },
-    {
-      "id": "4888826",
-      "time": "2026-05-20 03:22:50",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【谷歌I/O大會要點總結】\n1、核心搜尋升級：谷歌揭曉了其標誌性搜尋框二十多年來最大規模的一次顛覆性改版，全新的搜尋體驗針對 AI 與 Gemini 進行了全方位深度最佳化。\n2、大模型全家桶：伴隨全球 Token 使用量的持續瘋狂飆升，谷歌一口氣推出了多款全新模型，其中包括備受矚目的 Gemini 3.5 Flash。\n3、智慧體黑科技：谷歌推出 Gemini Spark，即使在使用者的膝上型電腦蓋上閉合的狀態下，它依然能夠在後臺自主替使用者執行復雜的智慧體任務（Agentic tasks）。\n 4、價格策略調整：谷歌將面向個人及企業的 AI Ultra 計劃月費從 250 美元下調至 200 美元，並同步推出了一款針對開發者、每月 100 美元的全新 Ultra 開發者版套餐。\n5、內容合規與反偽：針對日趨逼真、幾乎難辨真偽的 AI 生成內容（AIGC），谷歌正在全力擴充套件其專屬工具鏈，以加強對由 Gemini 建立的圖片及影片的水印標記與真偽檢測。\n6、生態深度融合：“詢問 YouTube”（Ask YouTube）與“文件Live”（Docs Live）功能持續向外界展示了谷歌將 AI 核心能力無縫織入、深度錨定其原生核心服務生態的超強實力。\n7、移動端體驗顛覆：經過全面推倒重構的 Gemini 移動端應用程式現已正式登陸 Android 和 iOS 平臺，其最大亮點是用更結構化、資訊量更豐富且極具 Scannability（易讀性）的互動回答，徹底告別了以往密密麻麻的“大段文字牆”（Wall-of-text）式死板回覆。\n8：可穿戴硬體前瞻：谷歌首次對外預演了其首款智慧音訊眼鏡，該產品由合作伙伴三星（Samsung）、Warby Parker 和 Gentle Monster 聯合打造，並將於今年秋季正式批次出貨。"
     }
   ]
 }
