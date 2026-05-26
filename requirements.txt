@@ -2,3 +2,7 @@ requests>=2.31.0
 opencc-python-reimplemented>=0.1.7
 yfinance>=0.2.40
 python-dotenv>=1.0.0
+beautifulsoup4>=4.12
+pdfplumber>=0.11
+scrapetube>=2.5
+youtube-transcript-api>=1.0

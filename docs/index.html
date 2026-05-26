@@ -254,7 +254,9 @@ function initLanguageSelect() {
     border-bottom: 1px solid var(--border);
     background: var(--bg);
     flex-shrink: 0;
+    overflow-x: auto;
   }
+  .center-tabs::-webkit-scrollbar { display: none; }
   .c-tab {
     font-family: 'DM Mono', monospace;
     font-size: .68rem; letter-spacing: .08em;
@@ -466,6 +468,35 @@ function initLanguageSelect() {
   .cb-detail-list li { margin: .34rem 0; padding-left: .08rem; }
   .cb-detail-list strong { color: #d5c16c; font-weight: 650; }
 
+  /* ── 每日新聞與爬取紀錄 ── */
+  .daily-scroll { flex: 1; min-height: 0; overflow-y: auto; padding: .85rem .95rem 1.4rem; }
+  .daily-scroll::-webkit-scrollbar { width: 3px; }
+  .daily-scroll::-webkit-scrollbar-track { background: #0b0b14; }
+  .daily-scroll::-webkit-scrollbar-thumb { background: var(--border-bright); }
+  .daily-head { display: flex; align-items: center; gap: .55rem; flex-wrap: wrap; padding: .65rem .9rem; background: rgba(8,8,16,.65); border-bottom: 1px solid var(--border-bright); flex-shrink: 0; }
+  .daily-meta { margin-left: auto; font-family: 'DM Mono', monospace; font-size: .55rem; color: var(--muted); white-space: nowrap; }
+  .daily-run-tabs { display: flex; gap: .45rem; padding: .55rem .9rem; background: rgba(6,6,12,.52); border-bottom: 1px solid var(--border); overflow-x: auto; flex-shrink: 0; }
+  .daily-run-btn { flex-shrink: 0; font-family: 'DM Mono', monospace; font-size: .62rem; padding: .32rem .55rem; border: 1px solid var(--border-bright); border-radius: 6px; background: transparent; color: var(--muted); cursor: pointer; }
+  .daily-run-btn:hover { color: var(--text); border-color: var(--gold-dim); }
+  .daily-run-btn.active { background: var(--gold); color: #080810; border-color: var(--gold); font-weight: 600; }
+  .daily-stats { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1px; background: var(--border); border: 1px solid var(--border); margin-bottom: .85rem; }
+  .daily-stat { background: var(--surface); padding: .62rem .72rem; }
+  .daily-stat span { display: block; font-family: 'DM Mono', monospace; font-size: .52rem; color: var(--muted); letter-spacing: .08em; text-transform: uppercase; }
+  .daily-stat strong { display: block; color: var(--gold); font-family: 'DM Mono', monospace; font-size: 1rem; margin-top: .22rem; }
+  .daily-article { color: #c8c5bd; line-height: 1.82; font-size: .78rem; }
+  .daily-article h3 { color: var(--gold); font-size: .96rem; line-height: 1.45; margin: 1rem 0 .38rem; font-weight: 650; }
+  .daily-article h3:first-child { margin-top: 0; }
+  .daily-article p { margin: .45rem 0; }
+  .log-card { padding: .85rem 0; border-bottom: 1px solid var(--border); }
+  .log-card-head { display: flex; gap: .75rem; align-items: baseline; margin-bottom: .6rem; }
+  .log-title { color: var(--gold); font-family: 'DM Mono', monospace; font-size: .72rem; letter-spacing: .08em; }
+  .log-status { margin-left: auto; font-family: 'DM Mono', monospace; font-size: .56rem; color: var(--muted); }
+  .log-source { display: grid; grid-template-columns: 90px 88px 1fr; gap: .6rem; padding: .32rem 0; border-top: 1px solid rgba(28,28,46,.55); font-size: .68rem; line-height: 1.55; }
+  .log-source-name { color: var(--text); font-family: 'DM Mono', monospace; }
+  .log-ok { color: var(--green); font-family: 'DM Mono', monospace; }
+  .log-fail { color: var(--red); font-family: 'DM Mono', monospace; }
+  .log-reason { color: #aaa79f; }
+
   /* ── 即時快訊 ── */
   .filter-wrap { display: flex; flex-wrap: wrap; gap: .3rem; align-items: center; padding: .45rem .9rem; background: rgba(8,8,16,.95); border-bottom: 1px solid var(--border); flex-shrink: 0; }
   .cat-btn { font-family: 'DM Mono', monospace; font-size: .6rem; letter-spacing: .04em; padding: .24rem .6rem; border: 1px solid var(--border-bright); border-radius: 2px; background: transparent; color: var(--muted); cursor: pointer; transition: all .12s; }
@@ -597,8 +628,10 @@ function initLanguageSelect() {
     <!-- 頁籤 -->
     <div class="center-tabs">
       <button class="c-tab active" data-view="ai">AI 摘要分析</button>
+      <button class="c-tab" data-view="daily-news">每日新聞</button>
       <button class="c-tab" data-view="news">即時快訊</button>
       <button class="c-tab" data-view="central-bank">央行摘要</button>
+      <button class="c-tab" data-view="scrape-log">爬取 Log</button>
       <div class="center-tab-updated" id="aiUpdated">載入中</div>
     </div>
 
@@ -615,6 +648,20 @@ function initLanguageSelect() {
       <div id="aiSummaryList" class="ai-pills"></div>
       <div class="ai-body">
         <div id="aiSummaryDetail" class="ai-detail"><div class="ai-empty">載入 AI 摘要中…</div></div>
+      </div>
+    </div>
+
+    <!-- 每日新聞摘要面板 -->
+    <div class="center-view" id="view-daily-news">
+      <div class="daily-head">
+        <span class="ai-pills-label">摘要日期</span>
+        <select id="dailyDateSelect" class="ai-period-select" aria-label="選擇每日新聞日期"></select>
+        <span id="dailyCount" class="ai-period-count"></span>
+        <span id="dailyUpdated" class="daily-meta">每日 07/08/09 更新</span>
+      </div>
+      <div id="dailyRunTabs" class="daily-run-tabs"></div>
+      <div class="daily-scroll">
+        <div id="dailyNewsDetail"><div class="ai-empty">載入每日新聞摘要中…</div></div>
       </div>
     </div>
 
@@ -658,6 +705,19 @@ function initLanguageSelect() {
       </div>
       <div class="cb-scroll">
         <div id="centralBankList"><div class="ai-empty">載入中…</div></div>
+      </div>
+    </div>
+
+    <!-- 爬取 Log 面板 -->
+    <div class="center-view" id="view-scrape-log">
+      <div class="daily-head">
+        <span class="ai-pills-label">Log 日期</span>
+        <select id="logDateSelect" class="ai-period-select" aria-label="選擇爬取紀錄日期"></select>
+        <span id="logCount" class="ai-period-count"></span>
+        <span id="logUpdated" class="daily-meta">每日 07/08/09 更新</span>
+      </div>
+      <div class="daily-scroll">
+        <div id="scrapeLogList"><div class="ai-empty">載入爬取紀錄中…</div></div>
       </div>
     </div>
 
@@ -726,6 +786,8 @@ const DATA_URL   = './data.json';
 const MARKET_URL = './market.json';
 const AI_SUMMARY_URL = './ai_summaries.json';
 const CENTRAL_BANK_SUMMARY_URL = './central_bank_summaries.json';
+const DAILY_NEWS_URL = './daily_news.json';
+const DAILY_LOG_URL = './daily_scrape_logs.json';
 const MAX_RENDER_ITEMS = 500;
 const TAG_ORDER = [
   '全部',
@@ -1138,6 +1200,8 @@ document.querySelectorAll('.m-tab').forEach(tab => {
 ════════════════════════════════ */
 let aiSummaries = [], activeAiId = '', activeAiMonth = '', activeAiDate = '';
 let centralBankSummaries = [], activeCbDate = '';
+let dailyNewsItems = [], activeDailyDate = '', activeDailyId = '';
+let dailyLogItems = [], activeLogDate = '';
 
 function aiDateKey(item) {
   return (item.slot_start || item.slot_end || '').slice(0, 10);
@@ -1172,6 +1236,126 @@ function formatRecentAiSlot(item) {
 
 function formatAiDateOption(dateKey) {
   return dateKey ? dateKey.replaceAll('-', '.') : '—';
+}
+
+function dailyDateOption(dateKey) {
+  return dateKey ? dateKey.replaceAll('-', '.') : '—';
+}
+
+function markdownToDailyHtml(markdown) {
+  const lines = String(markdown || '').split(/\n+/).map(line => line.trim()).filter(Boolean);
+  if (!lines.length) return '<div class="ai-empty">這個時段尚未產生摘要。</div>';
+  return lines.map(line => {
+    const heading = line.match(/^###\s+(.+)$/);
+    if (heading) return `<h3>${attrEscape(heading[1])}</h3>`;
+    return `<p>${attrEscape(line)}</p>`;
+  }).join('');
+}
+
+function renderDailyNewsDetail(item) {
+  const root = document.getElementById('dailyNewsDetail');
+  if (!root) return;
+  if (!item) {
+    root.innerHTML = '<div class="ai-empty">尚無每日新聞摘要。</div>';
+    return;
+  }
+  const failed = (item.failed_sources || []).join(', ') || '無';
+  const sourceText = `${item.success_count || 0}/${item.source_count || 0}`;
+  root.innerHTML = `
+    <div class="daily-stats">
+      <div class="daily-stat"><span>Run</span><strong>${String(item.run_hour).padStart(2, '0')}:00</strong></div>
+      <div class="daily-stat"><span>Sources</span><strong>${sourceText}</strong></div>
+      <div class="daily-stat"><span>Model</span><strong>${attrEscape(item.model || '—')}</strong></div>
+    </div>
+    ${item.summary_error ? `<div class="ai-empty">摘要狀態：${attrEscape(item.summary_error)}</div>` : ''}
+    <article class="daily-article">${markdownToDailyHtml(item.content)}</article>
+    <div class="ai-event-impact">FAILED ${attrEscape(failed)}</div>
+  `;
+}
+
+function renderDailyNews() {
+  const dateSelect = document.getElementById('dailyDateSelect');
+  const tabs = document.getElementById('dailyRunTabs');
+  const count = document.getElementById('dailyCount');
+  const updated = document.getElementById('dailyUpdated');
+  if (!dateSelect || !tabs || !count || !updated) return;
+  updated.textContent = dailyNewsItems.length ? `更新 ${dailyNewsItems[0].generated_at || '—'}` : '每日 07/08/09 更新';
+  const dates = [...new Set(dailyNewsItems.map(item => item.date).filter(Boolean))].sort().reverse();
+  if (!activeDailyDate || !dates.includes(activeDailyDate)) activeDailyDate = dates[0] || '';
+  dateSelect.innerHTML = dates.map(date => `<option value="${attrEscape(date)}" ${date === activeDailyDate ? 'selected' : ''}>${attrEscape(dailyDateOption(date))}</option>`).join('');
+  const dayItems = dailyNewsItems.filter(item => item.date === activeDailyDate).sort((a, b) => Number(a.run_hour || 0) - Number(b.run_hour || 0));
+  count.textContent = dayItems.length ? `${dayItems.length} runs` : '';
+  if (!activeDailyId || !dayItems.some(item => item.id === activeDailyId)) activeDailyId = dayItems[dayItems.length - 1]?.id || '';
+  tabs.innerHTML = dayItems.map(item => {
+    const active = item.id === activeDailyId;
+    return `<button class="daily-run-btn ${active ? 'active' : ''}" data-daily-id="${attrEscape(item.id)}">${String(item.run_hour).padStart(2, '0')}:00 · ${item.success_count || 0}/${item.source_count || 0}</button>`;
+  }).join('');
+  renderDailyNewsDetail(dayItems.find(item => item.id === activeDailyId) || dayItems[0]);
+}
+
+async function loadDailyNews() {
+  try {
+    const data = await (await fetch(DAILY_NEWS_URL + '?t=' + Date.now())).json();
+    dailyNewsItems = data.items || [];
+    renderDailyNews();
+  } catch (e) {
+    document.getElementById('dailyUpdated').textContent = '載入失敗';
+    document.getElementById('dailyNewsDetail').innerHTML =
+      `<div class="ai-empty">無法載入每日新聞摘要<br>${attrEscape(e.message)}</div>`;
+  }
+}
+
+function renderScrapeLog() {
+  const root = document.getElementById('scrapeLogList');
+  const dateSelect = document.getElementById('logDateSelect');
+  const count = document.getElementById('logCount');
+  const updated = document.getElementById('logUpdated');
+  if (!root || !dateSelect || !count || !updated) return;
+  updated.textContent = dailyLogItems.length ? `更新 ${dailyLogItems[0].finished_at || '—'}` : '每日 07/08/09 更新';
+  const dates = [...new Set(dailyLogItems.map(item => item.date).filter(Boolean))].sort().reverse();
+  if (!activeLogDate || !dates.includes(activeLogDate)) activeLogDate = dates[0] || '';
+  dateSelect.innerHTML = dates.map(date => `<option value="${attrEscape(date)}" ${date === activeLogDate ? 'selected' : ''}>${attrEscape(dailyDateOption(date))}</option>`).join('');
+  const dayItems = dailyLogItems.filter(item => item.date === activeLogDate).sort((a, b) => Number(a.run_hour || 0) - Number(b.run_hour || 0));
+  count.textContent = dayItems.length ? `${dayItems.reduce((sum, item) => sum + Number(item.success_count || 0), 0)} successes / ${dayItems.reduce((sum, item) => sum + Number(item.failure_count || 0), 0)} failures` : '';
+  if (!dayItems.length) {
+    root.innerHTML = '<div class="ai-empty">尚無爬取紀錄。</div>';
+    return;
+  }
+  root.innerHTML = dayItems.map(run => {
+    const sources = (run.sources || []).map(source => `
+      <div class="log-source">
+        <div class="log-source-name">${attrEscape(source.source || '')}</div>
+        <div class="${source.ok ? 'log-ok' : 'log-fail'}">${source.ok ? 'SUCCESS' : attrEscape(source.status || 'FAILED')}</div>
+        <div class="log-reason">${source.ok ? attrEscape(source.url || source.title || '') : attrEscape(source.reason || 'No reason provided')}</div>
+      </div>
+    `).join('');
+    return `
+      <article class="log-card">
+        <div class="log-card-head">
+          <div class="log-title">${String(run.run_hour).padStart(2, '0')}:00 TST</div>
+          <div class="log-status">${attrEscape(run.status || '')} · ${run.success_count || 0}/${run.total_sources || 0} success</div>
+        </div>
+        <div class="daily-stats">
+          <div class="daily-stat"><span>Total</span><strong>${run.total_sources || 0}</strong></div>
+          <div class="daily-stat"><span>Success</span><strong>${run.success_count || 0}</strong></div>
+          <div class="daily-stat"><span>Failed</span><strong>${run.failure_count || 0}</strong></div>
+        </div>
+        ${sources}
+      </article>
+    `;
+  }).join('');
+}
+
+async function loadScrapeLogs() {
+  try {
+    const data = await (await fetch(DAILY_LOG_URL + '?t=' + Date.now())).json();
+    dailyLogItems = data.items || [];
+    renderScrapeLog();
+  } catch (e) {
+    document.getElementById('logUpdated').textContent = '載入失敗';
+    document.getElementById('scrapeLogList').innerHTML =
+      `<div class="ai-empty">無法載入爬取紀錄<br>${attrEscape(e.message)}</div>`;
+  }
 }
 
 function scoreNum(value) {
@@ -1546,12 +1730,34 @@ document.getElementById('cbDateSelect').addEventListener('change', e => {
   renderCentralBankSummary(centralBankSummaries.find(item => item.date === activeCbDate));
 });
 
+document.getElementById('dailyDateSelect').addEventListener('change', e => {
+  activeDailyDate = e.target.value;
+  activeDailyId = '';
+  renderDailyNews();
+});
+
+document.getElementById('dailyRunTabs').addEventListener('click', e => {
+  const item = e.target.closest('.daily-run-btn');
+  if (!item) return;
+  activeDailyId = item.dataset.dailyId;
+  renderDailyNews();
+});
+
+document.getElementById('logDateSelect').addEventListener('change', e => {
+  activeLogDate = e.target.value;
+  renderScrapeLog();
+});
+
 loadMarket();
 setInterval(loadMarket, 5 * 60 * 1000);
 loadAiSummaries();
 setInterval(loadAiSummaries, 5 * 60 * 1000);
 loadCentralBankSummaries();
 setInterval(loadCentralBankSummaries, 10 * 60 * 1000);
+loadDailyNews();
+setInterval(loadDailyNews, 10 * 60 * 1000);
+loadScrapeLogs();
+setInterval(loadScrapeLogs, 10 * 60 * 1000);
 </script>
 </body>
 </html>

@@ -73,6 +73,21 @@ git push -u origin main
 OPENAI_SUMMARY_MODEL=gpt-4.1-mini
 ```
 
+### 9. 每日新聞摘要與爬取紀錄
+
+`Daily Market Report` workflow 會在台灣時間 07:00、08:00、09:00 執行，方便比較三個時段可取得的晨報資料是否完整。每次執行會：
+
+- 爬取 `scraper/daily_reports.py` 內定義的每日報告來源。
+- 使用既有 `OPENAI_SUMMARY_MODEL` 與 `OPENAI_API_KEY` 產生四段式每日財經新聞。
+- 輸出 `docs/daily_news.json` 給前端「每日新聞」頁籤。
+- 輸出 `docs/daily_scrape_logs.json` 給前端「爬取 Log」頁籤，記錄每個來源成功/失敗、失敗原因與數量統計。
+
+手動測試：
+
+```bash
+python scraper/daily_report_update.py --date 2026-05-26 --run-hour 8
+```
+
 ---
 
 ## 本機測試
