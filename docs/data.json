@@ -1,7 +1,27 @@
 {
-  "updated": "2026-05-27 02:38:59",
-  "count": 14976,
+  "updated": "2026-05-27 02:42:49",
+  "count": 14977,
   "items": [
+    {
+      "id": "te:economy:553840",
+      "time": "2026-05-27 02:41:13",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "El Salvador",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "El Salvador Trade Deficit Widens in April — El Salvador’s trade deficit widened to $932.45 million in April 2026 from $914.08 million in the same month a year earlier. Imports increased 4.7% year-on-year to $1.52 billion, driven by an 8.6% rise in purchases from Central America and a 4.1% increase in imports from outside the region. Meanwhile, exports grew 9.3% to $584.39 million, supported by a 235.1% surge in sugar shipments and an 11.6% increase in coffee exports."
+    },
+    {
+      "id": "4900942",
+      "time": "2026-05-27 02:41:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "NASA:  螢火蟲航空的 Elytra 航天器將向月球投放首批無人機。"
+    },
     {
       "id": "mkt:019e6593-23bb-7332-8105-ab27314e2f34",
       "time": "2026-05-27 02:36:42",
@@ -134051,14 +134071,6 @@
         "焦點"
       ],
       "text": "谷歌首款音訊眼鏡將於秋季釋出。"
-    },
-    {
-      "id": "4888797",
-      "time": "2026-05-20 02:41:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "調停方表示，美伊談判幾乎未取得實質性突破。伊朗依舊要求美方終止敵對行動、解除金融制裁、支付戰爭賠款，並謀求參與霍爾木茲海峽監管事務；雙方在伊朗核問題相關訴求上仍存在嚴重分歧。"
     }
   ]
 }
