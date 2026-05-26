@@ -1,7 +1,16 @@
 {
-  "updated": "2026-05-27 00:30:12",
-  "count": 15085,
+  "updated": "2026-05-27 00:34:07",
+  "count": 15081,
   "items": [
+    {
+      "id": "4900882",
+      "time": "2026-05-27 00:31:46",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【交易員尋獵AI贏家，目光投向日本調味品巨頭】加拿大的百浪多資產管理公司（Brompton Funds）首席投資官Laura Lau買入味之素（Ajinomoto Co.）的股票，該股在2026年年內至今已漲61%。這家日本公司不僅是家喻戶曉的調味品巨頭，更是半導體核心絕緣薄膜的絕對壟斷者。眼下，投資者正將目光投向科技行業之外，竭力尋找人工智慧基礎設施建設浪潮中的潛在受益者，包括水務公司、歐洲線纜企業以及天然氣管道運營商等領域均已進入投資者視野。"
+    },
     {
       "id": "4900881",
       "time": "2026-05-27 00:29:16",
@@ -134970,52 +134979,6 @@
         "國際"
       ],
       "text": "市場資訊：美國參議院多數黨領袖圖恩並不看好美國司法部設立的反政治工具化專項基金。"
-    },
-    {
-      "id": "4888663",
-      "time": "2026-05-20 00:33:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國郵政署：加州西米谷桑迪山火災或對郵件及包裹的分揀、運輸與派送工作造成影響。"
-    },
-    {
-      "id": "4888662",
-      "time": "2026-05-20 00:33:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿迪達斯宣佈發行5億歐元債券。"
-    },
-    {
-      "id": "4888661",
-      "time": "2026-05-20 00:32:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普在得克薩斯州共和黨參議院初選決選中力挺帕克斯頓。"
-    },
-    {
-      "id": "mkt:019e4114-0059-7228-9afd-9dd1447067d1",
-      "time": "2026-05-20 00:31:30",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "TRUMP ENDORSES KEN PAXTON IN REPUBLICAN TEXAS U.S. SENATE PRIMARY"
-    },
-    {
-      "id": "te:markets:552020",
-      "time": "2026-05-20 00:31:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "European Stocks Close Flat for 2nd Session — European stocks closed mixed on Tuesday as markets continued to monitor risks to inflation from higher energy prices and a generally strong earnings projections signaled in the first-quarter results. The Eurozone's STOXX 50 closed flat at 5,851 and the pan-European STOXX 600 closed 0.2% higher at 611. Crude oil and natural gas prices remained elevated amid low expectations of an incoming agreement between Iran and the US to restore energy supplies in the Middle East. Sovereign yields in the Eurozone rose further, denting credit-sensitive banks with UniCredit, BBVA, and Intesa Sanpaolo dropping around 1%. Industrial giants also pulled back with Siemens and Schneider falling 1.5% and 2%, respectively. On the other hand, SAP soared 6% after launching a new platform in partnership with US AI giants."
     }
   ]
 }
