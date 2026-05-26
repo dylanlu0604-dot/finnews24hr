@@ -1,7 +1,33 @@
 {
-  "updated": "2026-05-27 00:41:59",
-  "count": 15079,
+  "updated": "2026-05-27 00:45:59",
+  "count": 15078,
   "items": [
+    {
+      "id": "4900886",
+      "time": "2026-05-27 00:44:44",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【城堡證券：美聯儲應儘快轉向加息 否則可能落後於形勢】城堡證券表示，隨著消費者價格上漲成為經濟面臨的主要威脅，美聯儲應進一步轉向加息立場。城堡證券歐洲、中東和非洲(EMEA)固定收益銷售主管Nohshad Shah表示：“相比勞動力市場，通脹才是更大的風險。美聯儲應注意到這一點並儘快調整立場，以免落後於形勢。”他表示，在人工智慧(AI)變革推動下，美國股市上漲，金融條件趨於寬鬆。圍繞AI的大規模投資支出也在進一步推動經濟增長。城堡證券的模型顯示，美聯儲當前利率已接近既不刺激經濟、也不抑制經濟增長的中性水平。他表示，這一立場與市場價格反映的對經濟將穩健增長的預估“不一致”。"
+    },
+    {
+      "id": "mkt:019e652a-93a9-7332-8104-de72c4786ef8",
+      "time": "2026-05-27 00:42:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TRUMP Completes Six-Month Physical At Walter Reed National Military Medical Center; All Tests Perfect"
+    },
+    {
+      "id": "4900885",
+      "time": "2026-05-27 00:41:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我剛在沃爾特里德軍事醫療中心完成為期半年一次的體檢，所有檢查結果都一切正常。"
+    },
     {
       "id": "4900884",
       "time": "2026-05-27 00:38:33",
@@ -134919,51 +134945,6 @@
         "Impact bullish"
       ],
       "text": "UN CUTS 2026 GLOBAL ECONOMIC GROWTH FORECAST TO 2.5% FROM 2.7% ON MIDDLE EAST CONFLICT UN SEES GLOBAL GROWTH SLOWING TO 2.1% IF ENERGY DISRUPTION IS MORE SEVERE UN RAISES 2026 GLOBAL INFLATION FORECAST TO 3.9% FROM 3.1% UN LOWERS 2027 GLOBAL ECONOMIC GROWTH FORECAST TO 2.8% FROM 2.9%"
-    },
-    {
-      "id": "mkt:019e411f-8397-7228-9afd-a817ab93f895",
-      "time": "2026-05-20 00:44:04",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "UK GOVERNMENT: PERMITS THE PROVISION OF CERTAIN SERVICES AND ACTIONS RELATED TO THE IMPORT OF DIESEL AND JET FUEL PROCESSED IN THIRD COUNTRIES FROM RUSSIAN CRUDE OIL"
-    },
-    {
-      "id": "4888671",
-      "time": "2026-05-20 00:43:35",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "英國政府：准許開展部分相關服務及業務，允許進口以俄羅斯原油為原料、在第三國煉製而成的柴油與航空燃油。"
-    },
-    {
-      "id": "4888670",
-      "time": "2026-05-20 00:42:23",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行行長植田和男：將與日本政府密切協作，共同應對日本國債市場局勢。"
-    },
-    {
-      "id": "mkt:019e411d-e1b2-7228-9afd-a1d95a5a99a0",
-      "time": "2026-05-20 00:42:17",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "UEDA: WILL CLOSELY WORK WITH THE GOVERNMENT ON JGB MARKET SITUATION"
     }
   ]
 }
