@@ -1,7 +1,51 @@
 {
-  "updated": "2026-05-27 04:54:33",
-  "count": 14956,
+  "updated": "2026-05-27 04:58:23",
+  "count": 14959,
   "items": [
+    {
+      "id": "4901007",
+      "time": "2026-05-27 04:57:45",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "巴林外交大臣：伊朗封鎖霍爾木茲海峽擾亂了全球能源市場與貿易秩序，造成重大經濟損失，多個國家已出臺應急措施以保障民眾權益。"
+    },
+    {
+      "id": "4901006",
+      "time": "2026-05-27 04:56:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "Coinbase與渣打銀行達成合作，助力Coinbase拓展全球業務。"
+    },
+    {
+      "id": "mkt:019e6613-0f51-7332-8106-a2f250c7ff8b",
+      "time": "2026-05-27 04:56:25",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "【Russia Deputy FM Ryabkov Says No Preconditions For U.S. Strategic Stability Talks】Ryabkov: Current Global Conditions Preclude Strategic Stability/Arms-Control Talks; Only Clear U.S. Policy Shift Would Prompt Consideration; No Signs Of Improvement"
+    },
+    {
+      "id": "4901005",
+      "time": "2026-05-27 04:55:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯常駐聯合國代表涅本賈： 我並非認為戰爭是好事，也絕不樂見戰事延續。 但區別在於，我們從不會蓄意針對平民。"
+    },
+    {
+      "id": "4901004",
+      "time": "2026-05-27 04:54:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯常駐聯合國代表涅本賈就伊朗問題向海灣國家表態：我想告訴你們，你們如今成了美國中東政策的人質。我們早就有言在先，一旦局勢演變到這一步，無論願不願意，你們都難免被捲入這場危機。"
+    },
     {
       "id": "mkt:019e6610-da5d-7332-8106-996159576b8e",
       "time": "2026-05-27 04:54:00",
@@ -133844,26 +133888,6 @@
         "國際"
       ],
       "text": "【三星與工會談判15小時暫無果 週三繼續】韓國國家勞動關係委員會表示，三星電子及其韓國工會將於週三恢復談判，雙方正朝著達成協議的方向邁進，以避免一場破壞性且曠日持久的罷工。當被問及為何週二長達15小時的談判未能達成協議時，該委員會主席表示：“管理層和工會在一項問題上尚未達成共識。三星與工會計劃於週三當地時間上午10點恢復談判，且談判很可能在週三上午結束，因為工會需要讓成員就與三星達成的任何初步協議進行投票。”雙方在週二的談判原定於晚上7點結束。該委員會表示，談判最終持續了近15小時，於週三凌晨12點30分結束。工會領袖表示，他計劃在談判現場過夜，以便參加週三的談判。工會計劃從週四起進行為期18天的罷工。"
-    },
-    {
-      "id": "4888874",
-      "time": "2026-05-20 04:56:52",
-      "tags": [
-        "市場"
-      ],
-      "text": "週二（5月19日）紐約尾盤，現貨黃金下跌1.83%，報4482.85美元/盎司，全天持續走低，北京時間20:59出現一波加速下跌行情，整體交投區間為4589.22-4464.95美元。COMEX黃金期貨跌1.57%，報4486.30美元/盎司，日內交投於4593.20-4467.10美元，逼近3月30日盤中低點4444.70美元、3月23日底部4128.50美元，彭博資料顯示，200日均線已經上移至4415.83美元，5月7日左右，50日均線已經跌穿100日均線（目前分別報4719.72美元、4828.61美元）。"
-    },
-    {
-      "id": "te:markets:552035",
-      "time": "2026-05-20 04:55:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Falls as Mining Losses Weigh — The TSX fell 0.3% to close at 33,741 on Tuesday, pressured by losses in heavyweight mining stocks as gold prices declined. Agnico Eagle dropped 3.8%, Barrick lost 2.8%, and Wheaton Precious Metals shed 4.8%. Gold prices weakened as uncertainty surrounding the Middle East conflict and persistent inflation concerns continued to weigh on sentiment. Meanwhile, Canada’s annual inflation rate accelerated to 2.8% in April from 2.4% in March, largely driven by higher gasoline prices, though the reading came in below forecasts of 3.1%. Core inflation measures slowed more than expected to their lowest levels in five years, supporting the Bank of Canada’s view that energy-driven inflation pressures may eventually fade and easing concerns over further rate hikes. Most major banks traded higher, with BMO gaining 0.9%. Energy producers also advanced as oil prices remained elevated, with Canadian Natural up 2.8% and Suncor adding 1.9%."
     }
   ]
 }
