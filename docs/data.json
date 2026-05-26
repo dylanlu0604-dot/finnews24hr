@@ -1,7 +1,55 @@
 {
-  "updated": "2026-05-27 03:02:44",
-  "count": 14964,
+  "updated": "2026-05-27 03:06:34",
+  "count": 14961,
   "items": [
+    {
+      "id": "mkt:019e65ad-d638-7332-8105-c2f98b9f81b6",
+      "time": "2026-05-27 03:05:51",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "KASHKARI Says Protracted Iran War Could Prompt US Rate-Hike Series"
+    },
+    {
+      "id": "4900950",
+      "time": "2026-05-27 03:04:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "一名土耳其政府高階官員透露，北約盟國內部正逐漸形成共識，將邀請日本、韓國、澳大利亞、紐西蘭出席北約峰會。"
+    },
+    {
+      "id": "4900949",
+      "time": "2026-05-27 03:04:19",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲卡什卡利：曠日持久的伊朗戰爭可能引發美國“一系列”加息。"
+    },
+    {
+      "id": "4900948",
+      "time": "2026-05-27 03:03:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家航空航天局：藍色起源簽約交付月球車，每臺造價2.34億美元。"
+    },
+    {
+      "id": "4900947",
+      "time": "2026-05-27 03:03:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "北約擬邀請印太夥伴出席7月峰會。"
+    },
     {
       "id": "4900946",
       "time": "2026-05-27 03:00:03",
@@ -198,6 +246,14 @@
         "市場"
       ],
       "text": "上期所原油期貨夜盤收漲0.81%，報609.50元人民幣/桶。滬金夜盤收跌1.15%，滬銀收跌1.38%。"
+    },
+    {
+      "id": "4900934",
+      "time": "2026-05-27 02:29:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "據美聯社：華盛頓州一化學品儲罐發生內爆，造成人員遇難。"
     },
     {
       "id": "mkt:019e6589-8454-7332-8105-86f744bd0d15",
@@ -133865,92 +133921,6 @@
         "Wall Street (US)"
       ],
       "text": "WALL STREET WATCHDOGS PAUSE SOME CYBER EXAMS AFTER MYTHOS SHOCK"
-    },
-    {
-      "id": "4888817",
-      "time": "2026-05-20 03:05:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國疾控中心官員：基因檢測證實，現有診斷試劑可有效檢出此次埃博拉毒株。"
-    },
-    {
-      "id": "4888816",
-      "time": "2026-05-20 03:04:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國疾控中心官員：六名高風險人員正敲定前往歐洲的出行轉運方案。"
-    },
-    {
-      "id": "4888815",
-      "time": "2026-05-20 03:04:28",
-      "tags": [
-        "觀點"
-      ],
-      "text": "花旗銀行：預測 2026 年原油需求日均增量為負 60 萬桶，二、三、四季度同比降幅分別為 24 萬桶 / 日、8 萬桶 / 日、3 萬桶 / 日。"
-    },
-    {
-      "id": "mkt:019e419f-fcf9-7228-9aff-9c8e3afc02f0",
-      "time": "2026-05-20 03:04:24",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "CITI SAYS ITS FORECAST FOR DEMAND GROWTH IN 2026 IS -0.6MB/D, WITH Y/Y DECLINES OF -2.4, -0.8, -0.3, IN 2Q, 3Q, 4Q"
-    },
-    {
-      "id": "4888814",
-      "time": "2026-05-20 03:04:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國疾控中心官員：一名美國人在前往德國就醫途中，埃博拉病毒檢測結果呈陽性。"
-    },
-    {
-      "id": "4888813",
-      "time": "2026-05-20 03:03:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "受 Mythos 事件衝擊，華爾街監管機構暫停部分網路安全審查工作。"
-    },
-    {
-      "id": "mkt:019e419f-0d5e-7228-9aff-9739e3a4c135",
-      "time": "2026-05-20 03:03:23",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish"
-      ],
-      "text": "CITI'S BULL CASE SCENARIO (MULTIPLE PATHS TO GET THERE) IS FOR BRENT PRICES TO REACH $150/BBL"
-    },
-    {
-      "id": "mkt:019e419e-eca2-7228-9aff-8bf0f24d85e0",
-      "time": "2026-05-20 03:03:14",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "CITI SAYS 2027 OUTLOOK FOR OIL IS EXTREMELY DIFFICULT TO PREDICT, BUT HAVING SAID THIS THEIR CENTRAL CASE IS FOR $80-90/BBL OIL"
-    },
-    {
-      "id": "mkt:019e419e-c314-7228-9aff-81f1a64011aa",
-      "time": "2026-05-20 03:03:04",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "CITI SAYS THAT FOR A RERUN OF 1970S OIL SHOCK STRAIT OF HORMUZ MAY NEED TO REMAIN CLOSED EARLY 2027"
     }
   ]
 }
