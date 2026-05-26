@@ -1,7 +1,32 @@
 {
-  "updated": "2026-05-27 06:14:37",
-  "count": 15011,
+  "updated": "2026-05-27 06:18:31",
+  "count": 15010,
   "items": [
+    {
+      "id": "te:markets:553850",
+      "time": "2026-05-27 06:15:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: New Zealand Dollar Drops by 0.60% — Top currency losers are New Zealand Dollar (-0.60%), Turkish Lira (-0.51%), British Pound (-0.43%), Japanese Yen (-0.24%), Dollar Index (-0.10%) and Euro (-0.10%). Gains are led by South Korean Won (0.26%)."
+    },
+    {
+      "id": "mkt:019e665a-ba3d-7332-8107-2a5179957e46",
+      "time": "2026-05-27 06:14:42",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【IRGC Navy Deputy Commander Says Energy Dependence Puts US In 'Request' Position】IRGC Navy Deputy Commander Mohammad Akbarzadeh Says US, Europe Energy Dependence Raises Vulnerability; Puts US In 'Request' Position To Strike Deal With Iran; Says US Hegemony Waning, Cannot Guarantee Allies' Security"
+    },
     {
       "id": "mkt:019e665a-15d9-7332-8107-259cf98d0b54",
       "time": "2026-05-27 06:14:00",
@@ -134338,33 +134363,6 @@
         "國際"
       ],
       "text": "美國：將駐歐旅級戰鬥隊數量由 4 個縮減至 3 個。"
-    },
-    {
-      "id": "4888903",
-      "time": "2026-05-20 06:18:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯斯塔夫羅波爾邊疆區州長證實，該地區遭遇無人機襲擊。"
-    },
-    {
-      "id": "4888902",
-      "time": "2026-05-20 06:16:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "【FTU首次參與認購上海自貿離岸債，兩萬億元中資離岸債市場迎來關鍵突破】近日，交通銀行成功落地全球首單引入自貿區分賬核算單元（FTU單元）投資者的上海自貿離岸債，標誌著FTU資金首次以合規路徑參與自貿離岸債一級市場認購。多位業內人士認為，FTU資金的入場，不僅拓寬了自貿離岸債投資者渠道，也為上海發展離岸人民幣債券市場、強化全球人民幣資產配置功能提供了新的實踐樣本。隨著投資者結構進一步豐富，自貿離岸債市場擴容有望迎來新的突破口。（上證報）"
-    },
-    {
-      "id": "te:markets:552037",
-      "time": "2026-05-20 06:15:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: South Korean Won Drops by 1.25% — Top currency losers are South Korean Won (-1.25%), Australian Dollar (-0.86%), Mexican Peso (-0.72%), Euro (-0.43%), British Pound (-0.28%) and Japanese Yen (-0.15%). Gains are led by Dollar Index (0.11%)."
     }
   ]
 }
