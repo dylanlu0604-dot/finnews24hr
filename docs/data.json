@@ -1,7 +1,93 @@
 {
-  "updated": "2026-05-27 07:39:33",
-  "count": 14977,
+  "updated": "2026-05-27 07:43:22",
+  "count": 14984,
   "items": [
+    {
+      "id": "4901120",
+      "time": "2026-05-27 07:42:01",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【國際油價“過山車” 供需缺口託底下行空間或有限】近期，國際原油市場上演“過山車”式行情：此前受中東地緣衝突影響衝高的國際油價驟然“變臉”，NYMEX WTI原油期貨和布倫特原油期貨價格均出現高位跳水，自5月18日高點以來，累計最大跌幅均超過14個百分點；截至5月26日記者發稿時，兩者日內價格漲幅均超1%。業內人士表示，短期內中東地緣局勢變化仍是國際原油價格的核心主導因素。當前全球原油市場供應端斷崖式縮水，庫存持續下降，需求降幅有限，供需失衡問題愈發突出，強勁的基本面從中長期角度為油價築牢底部支撐，短期內油價下跌空間或受限，後續仍需關注中東地緣局勢變化與霍爾木茲海峽的通航情況。（中國證券報）"
+    },
+    {
+      "id": "4901119",
+      "time": "2026-05-27 07:41:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【奇富科技：一季度淨利潤8.8億元，同比下降51%】5月27日，奇富科技在港交所公告，第一季度淨收入總額為39.09億元，而2025年同期則為46.91億元；淨利潤8.8億元，上年同期17.97億元，同比下降51%。"
+    },
+    {
+      "id": "te:markets:553859",
+      "time": "2026-05-27 07:41:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Steadies Amid Ongoing US-Iran Uncertainty — Brent crude futures hovered above $99 per barrel on Wednesday, stabilizing after recent losses as investors assessed signs of potential progress toward a US-Iran peace agreement alongside renewed tensions and lingering uncertainty surrounding the strategic Strait of Hormuz. US Secretary of State Marco Rubio said any deal could still take several days to complete, with unresolved issues including Tehran’s frozen assets and its hesitation to guarantee unrestricted passage through Hormuz. At the same time, the US military said it carried out self-defense strikes in southern Iran, while Iran’s Revolutionary Guard claimed it targeted an F-35 fighter jet and several drones after they allegedly entered Iranian airspace. Regional powers including Saudi Arabia, Qatar and the United Arab Emirates are also pressing President Donald Trump to pursue diplomacy, amid concerns that further military escalation could prompt Iran to retaliate against neighboring states."
+    },
+    {
+      "id": "4901118",
+      "time": "2026-05-27 07:41:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4550美元/盎司，日內漲0.35%。"
+    },
+    {
+      "id": "4901117",
+      "time": "2026-05-27 07:40:59",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【中信建投：機器人是AI最好的物理載體之一，看好板塊行情演繹】中信建投研報認為，機器人是AI最好的物理載體之一，看好板塊行情演繹。物理AI是人工智慧的下一波浪潮，機器人是AI最好的物理載體之一，未來將有數十億個自主系統和機器人系統在物理世界中執行。近期機器人板塊情緒回暖明顯，物理AI的敘事是切實推進的產業趨勢，值得高度重視。Optimus量產漸行漸近，近期大客戶對供應鏈量產量綱指引逐步清晰，產業走向量產放量的節奏逐步得以驗證，後續V3產品釋出、量產推進仍然值得密切關注。此外，國產機器人公司IPO持續推進，有望帶來本體估值重估，板塊催化不斷，看好行情演繹。"
+    },
+    {
+      "id": "4901116",
+      "time": "2026-05-27 07:40:48",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【中信建投：缺電仍是全年主線，繼續看好燃機產業鏈】中信建投研報認為，近期國產燃機出海訂單頻出，以東方電氣、中國動力、航發動力等為代表，產業鏈漲價也在持續落地，繼3月GEV等公司燃機漲價後，傑瑞訂單也持續漲價，國產燃機也有漲價趨勢，盈利能力有望進一步提升。缺電仍是全年主線，繼續看好燃機產業鏈。根據中信建投測算，2028年全球燃機需求將超150GW，預計全球燃機供給不到100GW，缺口持續擴大，繼續看好燃機產業鏈以及船改燃等趨勢。"
+    },
+    {
+      "id": "4901115",
+      "time": "2026-05-27 07:40:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "新加坡交易所日經期貨開盤上漲495點，報65620點。"
+    },
+    {
+      "id": "te:markets:553858",
+      "time": "2026-05-27 07:40:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Steadies Amid Ongoing US-Iran Uncertainty — WTI crude futures hovered above $93 per barrel on Wednesday, stabilizing after recent losses as investors assessed signs of potential progress toward a US-Iran peace agreement alongside renewed tensions and lingering uncertainty surrounding the strategic Strait of Hormuz. US Secretary of State Marco Rubio said any deal could still take several days to complete, with unresolved issues including Tehran’s frozen assets and its hesitation to guarantee unrestricted passage through Hormuz. At the same time, the US military said it carried out self-defense strikes in southern Iran, while Iran’s Revolutionary Guard claimed it targeted an F-35 fighter jet and several drones after they allegedly entered Iranian airspace. Regional powers including Saudi Arabia, Qatar and the United Arab Emirates are also pressing President Donald Trump to pursue diplomacy, amid concerns that further military escalation could prompt Iran to retaliate against neighboring states."
+    },
+    {
+      "id": "mkt:019e66a9-1e6a-7332-8107-64faa1558296",
+      "time": "2026-05-27 07:40:19",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "SQM.O",
+        "Impact bullish"
+      ],
+      "text": "Codelco, SQM Budget $3 Bln For New Extraction Tech At Atacama Lithium JV"
+    },
     {
       "id": "4901114",
       "time": "2026-05-27 07:38:53",
@@ -134054,24 +134140,6 @@
         "國際"
       ],
       "text": "【META為佈局人工智慧開啟裁員 全力提質增效】META正通知數千名員工將被裁撤。該公司大舉押注人工智慧業務，此次裁員是其最佳化架構、提升效率、削減成本的重組舉措之一。據內部備忘錄顯示，週三上午，部分亞洲區受影響員工已收到裁員通知，美國地區員工也將於當地時間今早陸續接到訊息。公司計劃在全球範圍內裁減約8000個崗位，同時建議員工居家辦公。知情人士透露，本輪裁員重點波及工程與產品團隊，年內後續或還將推出新一輪裁員計劃，相關訊息尚未正式對外公佈。週一流傳的內部檔案顯示，已有約7000名員工被調派至全新組建的人工智慧專項團隊，負責研發相關產品與智慧助手業務。今年元平臺已敲定超千億美元人工智慧領域資本開支；在人員調動與裁員實施前，其三月底員工總數接近八萬人。媒體獲取的這份備忘錄中，META人力主管珍妮爾・蓋爾表示：“目前多數業務部門可採用更精簡扁平化架構，組建小型專項小組，以此提升執行效率、強化權責自主。我們相信此舉既能提高整體產能，也能讓員工工作更具價值感。”"
-    },
-    {
-      "id": "4888982",
-      "time": "2026-05-20 07:41:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：在人工智慧驅動下，META公司開始裁員數千人，以提高效率。裁員預計將涉及產品和工程團隊。"
-    },
-    {
-      "id": "4888981",
-      "time": "2026-05-20 07:39:34",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "摩根士丹利日本區執行長兼總裁Alberto Tamura：日本宏觀環境穩健。"
     }
   ]
 }
