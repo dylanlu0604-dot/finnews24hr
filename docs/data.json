@@ -1,7 +1,53 @@
 {
-  "updated": "2026-05-26 08:16:39",
+  "updated": "2026-05-26 08:20:43",
   "count": 15547,
   "items": [
+    {
+      "id": "4899259",
+      "time": "2026-05-26 08:19:04",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【日經指數下跌0.4% 受制藥商和商社拖累】在可能達成的美伊和平協議存在不確定性，以及該基準股指週一升至創紀錄高位的情況下，日本股市走低。製藥商和商社領跌。中外製藥下跌3.7%，三菱商事下跌2.6%。在結束與伊朗戰爭的協議進展放緩後，投資者正密切關注中東局勢的發展。日經指數下跌0.4%，至64,900.92點。"
+    },
+    {
+      "id": "4899258",
+      "time": "2026-05-26 08:19:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌1%，現報77.17美元/盎司。"
+    },
+    {
+      "id": "te:markets:553531",
+      "time": "2026-05-26 08:17:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Holds Advance as US-Iran Talks Progress — Silver traded above $77 an ounce on Tuesday after rising nearly 4% in the previous session, supported by indications that the US and Iran were moving closer to an agreement that could end the conflict and reopen the Strait of Hormuz. Negotiations between Washington and Tehran have reportedly centered on extending the ceasefire for roughly two months, during which the US would lift its blockade while Iran would allow shipping through Hormuz to resume. However, major obstacles remain, particularly over Iran’s nuclear program and its insistence on retaining control over maritime traffic in the strategic passage. Meanwhile, oil prices declined sharply, easing worries about inflationary pressures and the prospect of further interest rate hikes. Despite the recent rebound, silver prices are still down roughly 17% since the conflict began, as fears of an energy-driven inflation shock strengthened expectations that central banks could keep monetary policy tighter for longer."
+    },
+    {
+      "id": "4899257",
+      "time": "2026-05-26 08:17:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【AI工具不斷推出 澳大利亞最大銀行的CEO敲響工作崗位流失警鐘】澳大利亞聯邦銀行執行長Matt Comyn表示，人工智慧將奪走各行各業的工作崗位，企業有責任幫助員工為不斷變化的未來做好規劃。“在澳大利亞聯邦銀行，和許多大型機構一樣，一些工作將由更小的團隊完成，”Comyn說。“與此同時，隨著人們更快地利用AI承擔更復雜的工作，一些職業路徑將變得更為陡峭。這將為許多人創造機會，但對每個人都有很高的要求。”澳大利亞聯邦銀行是澳大利亞最大的銀行，擁有超過5萬名員工。他表示，未來幾個月，該行將向零售和企業客戶推出新的基於AI的服務。當前，世界各地的銀行都在努力將新技術整合進工作流程和客戶服務。他表示，雖然工作崗位減少是個很可能的現實，但許多現有員工將利用這項技術找到新的機會，而且可能會出現新的崗位。"
+    },
+    {
+      "id": "4899256",
+      "time": "2026-05-26 08:16:42",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【韓國綜指節後復市創歷史新高】韓國綜合股價指數節後復市，最大漲幅達3.2%，重新整理歷史高位。此前休市期間，受美伊有望達成協議的利好提振，全球股市普遍走高。韓國綜合股價指數突破8000點大關，有望創下收盤新高。SK海力士、三星電子及三星電機成為主要推漲力量。因個股槓桿型交易所交易基金將於週三上市，SK海力士與三星電子股價上漲。韓國Kosdaq小盤指數最大漲幅達3%，MSCI亞太指數上漲幅度高達0.4%。"
+    },
     {
       "id": "4899255",
       "time": "2026-05-26 08:14:49",
@@ -139055,47 +139101,6 @@
         "Importance 2"
       ],
       "text": "US Futures Flat After Two-Day Slide — US stock futures were little changed on Tuesday after the major indexes posted a second consecutive session of losses, pressured mainly by weakness in technology shares. During Monday’s regular session, the S&P 500 and Nasdaq Composite slipped 0.07% and 0.51%, respectively, as a selloff in memory chip makers dragged both benchmarks lower for a second straight day. The decline followed a nearly 7% drop in Seagate shares after CEO Dave Mosley said at a JPMorgan conference that building new factories would “take too long,” fueling concerns the company could struggle to keep up with rapidly rising AI-related demand. Peer Micron Technology also fell around 6%. Investors are now turning their attention to a fresh batch of corporate earnings due Tuesday, including results from Home Depot, Keysight Technologies, and Toll Brothers, while also monitoring April pending home sales data for further insight into the US economy."
-    },
-    {
-      "id": "4886789",
-      "time": "2026-05-19 08:20:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "【普京說俄中關係達到前所未有高度】今天（5月19日），俄羅斯總統普京在對中國進行正式訪問前夕，向中國人民發表影片講話。普京表示，希望俄中兩國人民關係更加緊密、彼此更加理解。普京指出，得益於友好交往，俄中兩國在各重要領域共同推進重大合作。緊密的俄中新時代全面戰略協作夥伴關係在世界舞臺上發揮著重要的穩定作用。 普京強調：“我相信，我們將繼續盡一切努力深化俄中夥伴關係和睦鄰友好，推動兩國蓬勃發展、造福兩國人民，維護全球安全與穩定。”"
-    },
-    {
-      "id": "4886788",
-      "time": "2026-05-19 08:19:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "【英國青年失業危機加劇 研究顯示僅一半年輕人有付薪工作】財政研究所(IFS)的分析顯示，截至去年年底，英國16至24歲人群中僅一半有付薪工作，凸顯該國不斷加劇的青年失業危機的嚴重程度。對行政資料進行的研究發現，這一比例已從2022年底的54.9%降至50.6%，降幅與新冠疫情和2008年金融危機時期相似。IFS將這一危機歸咎於就業成本飆升、心理健康狀況惡化以及人工智慧的興起。"
-    },
-    {
-      "id": "4886787",
-      "time": "2026-05-19 08:18:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【渣打集團計劃裁減後臺崗位 藉助人工智慧提升回報】渣打集團計劃裁減逾15%的支援崗位，並上調未來四年的回報目標，顯示越來越多的銀行正在藉助人工智慧來提升效率。渣打週二宣佈，將透過裁員增效實現員工人均收入到2028年提高約20%，並計劃到2030年削減公司職能崗位逾15%。這些崗位主要是後臺支援崗位。渣打還提出新的回報目標，其中包括到2028年把有形股本回報率提高3個百分點至15%，到2030年進一步提高至18%。渣打還力爭在2028年把成本收入比降低至57%。渣打表示，裁員將藉助於擴大自動化、先進分析和人工智慧的大規模實際應用，以簡化流程、改進決策，並提升客戶服務與內部效率。"
-    },
-    {
-      "id": "em:qqyh_mlc:202605193741161251",
-      "time": "2026-05-19 08:17:30",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【特朗普主持！沃什週五宣誓就任美聯儲主席 挑戰已近在眼前】美國白宮官員週一表示，凱文·沃什（KevinWarsh）將於週五由美國總統特朗普主持宣誓就職，正式出任美聯儲主席。這一安排直接彰顯特朗普對新美聯儲主席的厚望，然而隨著通脹壓力升溫及美債新一輪拋售加劇，上任伊始沃什就面臨著兩難選擇。"
-    },
-    {
-      "id": "4886786",
-      "time": "2026-05-19 08:16:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "【普京訪華前發表影片講話：將共同努力深化俄中夥伴關係和睦鄰友好】當地時間5月19日，俄羅斯總統普京在對中國進行正式訪問前夕發表影片講話。普京表示，俄羅斯希望俄中兩國人民關係更加緊密、彼此更加理解。普京強調：“我相信，我們將共同繼續盡一切努力深化俄中夥伴關係和睦鄰友好，推動兩國蓬勃發展、造福兩國人民，維護全球安全與穩定。”俄羅斯總統普京將於5月19日至20日對中國進行國事訪問。這將是普京總統第25次到訪中國。（央視）"
     }
   ]
 }
