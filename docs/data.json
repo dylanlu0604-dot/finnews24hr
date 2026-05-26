@@ -1,7 +1,42 @@
 {
-  "updated": "2026-05-27 05:02:15",
-  "count": 14963,
+  "updated": "2026-05-27 05:06:06",
+  "count": 14965,
   "items": [
+    {
+      "id": "mkt:019e661a-e054-7332-8106-b44cf736acd6",
+      "time": "2026-05-27 05:04:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EMSC Reports 4.8-M Quake Off Fiji"
+    },
+    {
+      "id": "4901014",
+      "time": "2026-05-27 05:04:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國防部：防長赫格塞思明日將前往新加坡。"
+    },
+    {
+      "id": "mkt:019e6619-83f4-7332-8106-aee944e2072c",
+      "time": "2026-05-27 05:03:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazilian Senator Flavio Bolsonaro Confirms Tuesday Meeting With TRUMP At WHITE HOUSE"
+    },
+    {
+      "id": "4901013",
+      "time": "2026-05-27 05:02:46",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【5月27日美股成交額前20：美光市值突破1萬億美元】週二美股成交額第1名美光科技收漲19.29%，成交656.58億美元。美光科技股價飆升，市值一舉突破1萬億美元大關。華爾街分析師普遍看好該股前景，其中瑞銀尤為樂觀，認為其長期協議帶來的利好將推動股價有超過100%的上行空間。另據報道，美國總統特朗普5月22日在紐約薩弗恩舉行的大型集會上，公開點名讚揚美光科技，稱其“真的很棒”。值得注意的是，就在集會開始前數小時，期權市場已湧現多筆針對美光的鉅額買單。"
+    },
     {
       "id": "4901012",
       "time": "2026-05-27 05:01:11",
@@ -133904,22 +133939,6 @@
         "Importance 1"
       ],
       "text": "Ibovespa Falls on Rising Yields and Political Tension — The Ibovespa fell 1.5% to close at 174,279 on Tuesday as investors reacted to a new election poll and persistent inflation concerns. An Atlas survey for Bloomberg showed Senator Flávio Bolsonaro losing support for October’s presidential election following reports linking him to former banker Daniel Vorcaro, who was charged with fraud. Meanwhile, oil prices remained elevated as markets looked past President Donald Trump’s decision to postpone attacks on Iran, keeping stagflation fears in focus. Brazil’s 10-year bond yield also moved higher, pressuring financial stocks. Banco do Brasil fell 0.93%, Bradesco lost 1.53%, Itaú Unibanco dropped 2.12%, and Santander Brasil slipped 0.37%. B3 plunged 4.96% after appointing Christian Egan as its new CEO, replacing Gilson Finkelsztain. Vale declined 1% on weaker iron ore prices in China, while Petrobras lost 0.75% as oil prices edged lower, though still above $100 per barrel."
-    },
-    {
-      "id": "4888877",
-      "time": "2026-05-20 05:05:57",
-      "tags": [
-        "市場"
-      ],
-      "text": "週二（5月19日）紐約尾盤（週三北京時間04:59），離岸人民幣（CNH）兌美元報6.8169元，較週一紐約尾盤跌176點，日內整體交投於6.7961-6.82元區間，週一、週二呈現出衝高回落走勢。"
-    },
-    {
-      "id": "4888876",
-      "time": "2026-05-20 05:03:34",
-      "tags": [
-        "市場"
-      ],
-      "text": "【現貨白銀跌超5%，一度逼近73美元】週二（5月19日）紐約尾盤，現貨白銀跌5.13%，報73.7275美元/盎司，整體持續走低，交投區間為78.8980-73.0977美元。COMEX白銀期貨跌4.37%，報74.060美元/盎司，北京時間21:00出現一波加速下跌行情，日線圖上，紐約期銀下探3月23日以來上行通道的下端，逼近200日均線（彭博資料顯示該技術指標目前已經上移至65.798美元），50日均線已經在4月底跌穿100日均線（目前分別報77.073美元、81.775美元）。COMEX銅期貨跌1.95%，報6.1925美元/磅，持續撤離5月13日頂部6.7160美元。現貨鉑金跌3%，報1924.42美元/盎司；現貨鈀金跌4.12%，報1363.01美元/盎司。"
     }
   ]
 }
