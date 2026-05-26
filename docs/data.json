@@ -1,7 +1,35 @@
 {
-  "updated": "2026-05-27 05:28:10",
-  "count": 14990,
+  "updated": "2026-05-27 05:32:10",
+  "count": 14989,
   "items": [
+    {
+      "id": "4901038",
+      "time": "2026-05-27 05:31:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "黎巴嫩：以色列對泰爾地區發動六起新一輪襲擊，對邁爾季歐雲地區多個城鎮實施四起打擊。"
+    },
+    {
+      "id": "4901037",
+      "time": "2026-05-27 05:30:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達官網顯示，在最新的Phoronix基準測試中，Vera CPU在為代理式AI提供的效能和記憶體表現方面取得了領先成果。"
+    },
+    {
+      "id": "mkt:019e6630-2cfb-7332-8106-f2d67a5b1347",
+      "time": "2026-05-27 05:28:13",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "【TRUMP Moves Cabinet Meeting From Camp David To WHITE HOUSE】TRUMP Moves Cabinet Meeting From Camp David To WHITE HOUSE After Forecast Of Poor Weather; Trip To Camp David Postponed; All Cabinet Members Including Outgoing DNI Gabbard To Attend; Iran Talks Likely Main Topic"
+    },
     {
       "id": "mkt:019e662f-bf8e-7332-8106-eced167c48b1",
       "time": "2026-05-27 05:27:45",
@@ -134131,38 +134159,6 @@
         "國際"
       ],
       "text": "白宮：特朗普簽署行政令，旨在精簡監管規定，推動金融科技企業開展創新與合作。"
-    },
-    {
-      "id": "4888885",
-      "time": "2026-05-20 05:31:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際原子能機構總幹事格羅西談及阿聯酋巴拉卡核電站：輻射水平維持正常，場外電力已恢復，但局勢仍令人高度擔憂。"
-    },
-    {
-      "id": "4888884",
-      "time": "2026-05-20 05:30:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "白宮：美國總統特朗普今天簽署關於銀行業的命令。"
-    },
-    {
-      "id": "4888883",
-      "time": "2026-05-20 05:30:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "派拉蒙天空之舞：預計完成對華納兄弟探索收購交易後的第二年，可實現該類協同效應的約 70%。"
-    },
-    {
-      "id": "4888882",
-      "time": "2026-05-20 05:30:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "派拉蒙天空之舞： 預計完成收購華納兄弟探索交易後首年，可實現超 60 億美元預期協同效益中的約 30%。"
     }
   ]
 }
