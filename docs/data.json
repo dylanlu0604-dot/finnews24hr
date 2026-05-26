@@ -1,7 +1,39 @@
 {
-  "updated": "2026-05-26 13:06:25",
-  "count": 15569,
+  "updated": "2026-05-26 13:10:36",
+  "count": 15568,
   "items": [
+    {
+      "id": "4899645",
+      "time": "2026-05-26 13:08:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【螞蟻靈波與簡智機器人達成戰略合作】5月26日，螞蟻靈波宣佈，公司與簡智新創（北京）機器人科技有限公司近日達成深度戰略合作。根據合作規劃，雙方將圍繞螞蟻靈波全系具身智慧模型矩陣展開資料協同，雙方還將聯合研發專屬數採裝置，持續提升人類資料精度與維度，加速高質量物理真實資料的scale up。"
+    },
+    {
+      "id": "te:economy:553620",
+      "time": "2026-05-26 13:07:53",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Coincident Index",
+        "Importance 1"
+      ],
+      "text": "Japan Coincident Index Revised Slightly Lower — Japan’s coincident economic index, which tracks activity in areas such as factory output, employment, and retail sales, stood at 116.4 in March 2026, slightly less than final data of 116.5. The reading marked a modest improvement in the economy, with mounting risks from the Middle East conflict and lingering uncertainty surrounding U.S. trade policies. Domestic demand remained resilient, amid continued gains in private consumption and business investment. However, exports and industrial production were flat, reflecting weaker foreign demand and cautious business sentiment. On the monetary policy front, the Bank of Japan kept its short-term interest rate at 0.75% in March. However, policymakers signaled more room for another rate hike if economic output and inflation come in line with the central bank’s projections."
+    },
+    {
+      "id": "te:economy:553619",
+      "time": "2026-05-26 13:07:33",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Leading Economic Index",
+        "Importance 1"
+      ],
+      "text": "Japan Leading Index Revised Downward — Japan’s leading economic index, which gauges the outlook for the months ahead using indicators such as job offers and consumer sentiment, was revised lower to 114.0 in March 2026 from 114.5 in the preliminary estimate. However, the latest reading was higher than February’s 113.2 and remained the highest level since August 2021, underscoring a gradual improvement in the economic outlook. Tokyo’s large-scale stimulus program, designed to bolster household spending and stabilize growth, helped lift the index compared to February despite intensifying cost pressures caused by rising fuel prices linked to the war in Iran."
+    },
     {
       "id": "4899644",
       "time": "2026-05-26 13:05:13",
@@ -5075,6 +5107,50 @@
         "Importance 0"
       ],
       "text": "Norwegian Krone Hits 4-year High — The Norwegian Krone touched 9.13 against the USD, the highest since April 2022. Over the past 4 weeks, US Dollar Norwegian Krone lost 0.82%, and in the last 12 months, it decreased 8.7%."
+    },
+    {
+      "id": "mkt:019e62af-4e2b-7ff6-adfb-54b8ea0be190",
+      "time": "2026-05-26 05:08:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "Japan FM MOTEGI: Quad Agrees To Oppose Unilateral Use Of Force Or Coercion To Alter Status Quo"
+    },
+    {
+      "id": "mkt:019e62ad-95f1-7ff6-adfb-485e2f5a9ca3",
+      "time": "2026-05-26 05:06:43",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【SCHNABEL Says ECB Should Hike In June Even If US‑Iran Reach Deal】SCHNABEL: ECB Needs June Hike Even If US‑Iran Deal; Prolonged Conflict, High Energy Prices Driving Inf >2%; Energy Infrastructure, Global Supply Chains Damaged; Second‑Round Effects Emerging"
+    },
+    {
+      "id": "mkt:019e62ac-ebbe-7dd8-b21f-3e4154bec747",
+      "time": "2026-05-26 05:05:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia FM Seeks Deeper Cooperation With Southeast Asia On Anti-Scam Centers"
+    },
+    {
+      "id": "mkt:019e62ac-c308-7dd8-b21f-331b385f1d27",
+      "time": "2026-05-26 05:05:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia FM Launches Port Cooperation With Quad Nations"
     },
     {
       "id": "mkt:019e62ac-4aff-7dd8-b21f-28a0c4f2333b",
@@ -139263,82 +139339,6 @@
         "國際"
       ],
       "text": "據韓媒引述勞工官員訊息，三星韓國工會已做出一定讓步，雙方存在達成協議的可能性。"
-    },
-    {
-      "id": "4887193",
-      "time": "2026-05-19 13:10:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "【新易盛：預計2026年矽光產品的佔比將進一步提升】新易盛5月19日在互動平臺表示，公司目前已推出400G和800G ZR/ZR+相干光模組產品；矽光產品已有批次出貨，預計2026年矽光產品的佔比將進一步提升，具體的放量進度取決於市場及客戶的需求情況。"
-    },
-    {
-      "id": "mkt:019e3ea4-d043-7aa9-b722-eecf4232738b",
-      "time": "2026-05-19 13:10:09",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China EV Leaders",
-        "Hang Seng Index",
-        "Impact bearish",
-        "NIO.O",
-        "XPEV.O"
-      ],
-      "text": "HK AUTO STOCKS WEAKEN: NIO-SW DOWN OVER 5%, LI AUTO DOWN OVER 4%, XPENG, LEAPMOTOR ALSO DECLINE"
-    },
-    {
-      "id": "4887192",
-      "time": "2026-05-19 13:09:34",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "日本公正交易委員會對9家涉嫌鐵路招標串通的公司進行調查。（日經新聞）"
-    },
-    {
-      "id": "4887191",
-      "time": "2026-05-19 13:08:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "【1—4月廈門進出口破3000億元 連續4個月保持兩位數增長】據廈門海關統計，1—4月，廈門進出口值突破3000億元，達3318.3億元，創歷史同期新高，同比增長13.2%，佔同期全省進出口總值的51.3%。據統計，1—4月，廈門出口、進口值均突破1500億元，出口達1732.5億元，創歷史同期新高，同比增長9.5%，佔同期全省出口總值的47.2%；進口達1585.8億元，同比增長17.4%，佔同期全省進口總值的56.8%。其中，4月當月廈門進出口872.5億元，同比增長12.9%，增速連續4個月保持兩位數增長。"
-    },
-    {
-      "id": "4887190",
-      "time": "2026-05-19 13:08:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "【蔚來-SW港股跌超5%】蔚來-SW港股跌5.01%，報45.16港元。"
-    },
-    {
-      "id": "mkt:019e3ea2-1c02-7aa9-b722-e2e2dae7631d",
-      "time": "2026-05-19 13:07:51",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bullish"
-      ],
-      "text": "【China Draws Foreign Inflows After Brief Iran War-Led Outflow】China recorded a net $61.9bn cross-border inflow in April, reversing a $32.1bn outflow in March and marking six inflow months in seven, according to official bank data. The rebound was driven by both current and capital accounts, with goods trade inflows rising 47% month-on-month to $74.4bn, in line with strong exports. Securities investment also swung to a $13.6bn inflow, the highest since September 2024, reversing a large March outflow. Foreign exchange settlement by corporates extended its inflow streak to 14 months, while the yuan rose 2.8% this year. However, foreign holdings of yuan bonds fell to 3.12 trillion yuan, the lowest since November 2020."
-    },
-    {
-      "id": "4887189",
-      "time": "2026-05-19 13:07:38",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【受中東戰事影響 澳大利亞等主要小麥出口國或減產】主要受霍爾木茲海峽航運嚴重受阻影響，澳大利亞、阿根廷、加拿大等傳統小麥出口國的農民因生產成本上漲減少小麥種植，今年小麥減產幾乎難以避免。分析人士警告，減產將導致全球小麥供應趨緊，消耗庫存並推高價格。據路透社19日報道，澳大利亞是世界第三大小麥出口國。埃弗裡特等澳大利亞農民的決定意味著，該國小麥出口量可能減少1000萬噸，這一數字大約相當於全球年度出口量的5%。2月底美以對伊朗發動軍事打擊以來，澳大利亞是全球首個進行小麥播種的主要穀物出口國。（新華社）"
-    },
-    {
-      "id": "4887188",
-      "time": "2026-05-19 13:06:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "松下控股：收購英國 HIVE MEDIA CONTROL 公司 100% 的股份。"
     }
   ]
 }
