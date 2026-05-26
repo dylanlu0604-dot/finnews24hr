@@ -1,7 +1,57 @@
 {
-  "updated": "2026-05-26 21:45:01",
-  "count": 15260,
+  "updated": "2026-05-26 21:49:50",
+  "count": 15254,
   "items": [
+    {
+      "id": "te:markets:553794",
+      "time": "2026-05-26 21:47:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Ireland",
+        "stocks",
+        "Importance 0"
+      ],
+      "text": "Seagate Technology Stock Price Hits All-time High — Seagate Technology shares increased to an all-time high of 842.00 USD. Over the past 4 weeks, Seagate Technology gained 41.08%, and in the last 12 months, it increased 617.43%."
+    },
+    {
+      "id": "4900717",
+      "time": "2026-05-26 21:47:01",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國鈾業公司：地浸鈾礦專案取得初步鑽探成果。"
+    },
+    {
+      "id": "4900716",
+      "time": "2026-05-26 21:45:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華洋賽車擬發行股份購買重慶峻馳49%股權，完善產品矩陣】5月26日，北交所上市公司華洋賽車釋出發行股份購買資產預案，擬透過發行股份的方式購買控股子公司重慶峻馳摩托車有限公司（簡稱“重慶峻馳”）少數股東持有的重慶峻馳49%股權，預計本次交易總價將不超過6000萬元。本次交易完成後，重慶峻馳將成為華洋賽車全資子公司，標誌著雙方戰略整合邁入新階段。（中國證券報）"
+    },
+    {
+      "id": "4900715",
+      "time": "2026-05-26 21:45:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納指漲1.00%，現報26608.487點；道指漲0.32%，現報50742.309點；標普500指數漲0.67%，現報7523.820點。"
+    },
+    {
+      "id": "te:economy:553793",
+      "time": "2026-05-26 21:44:08",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Bosnia and Herzegovina",
+        "Inflation Rate",
+        "Importance 0"
+      ],
+      "text": "Bosnia and Herzegovina Inflation at 2023-Highs — The annual inflation rate in Bosnia and Herzegovina accelerated to 6.8% in April 2026, up from 5.1% in March. This marks the highest level since May 2023, as transportation costs surged by 25.9% from 11.1% in the previous month. Additional upward price pressures came from housing and utilities (11% versus 9.4%), furnishings (2.8% versus 2.4%) and communication (3.2% versus 1.5%). In contrasts, inflation slowed for food (2.6% versus 3.3%), alcoholic beverages and tobacco (3.4% versus 4.1%), health (5.7% versus 6.3%), recreation and culture (4.4% versus 4.6%) and restaurants and hotels (6.2% versus 6.5%). Meanwhile, deflation eased for clothing and footwear (-6.3% versus -6.8%), while inflation stood for education (3.6%). On a monthly basis, consumer prices rose 1.9%, accelerating from 1.7% in the previous month."
+    },
     {
       "id": "mkt:019e6485-9c17-7330-84b4-7d9ced03ee0d",
       "time": "2026-05-26 21:42:18",
@@ -136473,108 +136523,6 @@
         "其他"
       ],
       "text": "【湖南啟動地質災害四級應急響應】記者5月19日從湖南省應急管理廳獲悉，根據當前汛情和地質災害風險研判，湖南省應急委員會發布通知，決定自19日18時起，啟動地質災害四級應急響應。通知指出，本次強降雨過程影響範圍廣、累計雨量大，地質災害致災風險高。通知要求，各地各成員單位按照應急響應要求，做好值班值守、監測預警、巡查排查、避險轉移、資訊報送、應急處置和搶險救援等工作。此前，湖南省氣象臺於19日16時釋出暴雨橙色預警：預計19日20時至20日20時，湘中、湘南部分地區將出現暴雨，其中邵陽南部、株洲北部、永州北部局地大暴雨，並伴有短時強降水、雷雨大風等強對流天氣。（新華社）"
-    },
-    {
-      "id": "4888383",
-      "time": "2026-05-19 21:49:10",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美銀全球研究美國波士頓港公司目標股價從49美元上調至51美元。"
-    },
-    {
-      "id": "4888382",
-      "time": "2026-05-19 21:48:53",
-      "tags": [
-        "市場"
-      ],
-      "text": "X-Energy股價上漲3.8%，多家券商在該股4月登陸納斯達克後首次對其展開覆蓋研究。"
-    },
-    {
-      "id": "4888381",
-      "time": "2026-05-19 21:48:45",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納斯達克中國金龍指數漲超0.5%，貝殼漲7.81%，能鏈智電漲3.69%，萬物新生漲3.11%，阿里巴巴漲2.09%，信也科技漲2.07%。"
-    },
-    {
-      "id": "4888380",
-      "time": "2026-05-19 21:48:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "【聯想新品搭載匯頂科技多元創新方案】5月19日，聯想moto首款大摺疊razr fold、聯想拯救者手機Y70新一代等多款新品釋出，搭載匯頂科技主動筆驅動晶片、觸控晶片、音訊、光感、指紋、低功耗藍芽SoC等多元創新方案。"
-    },
-    {
-      "id": "4888379",
-      "time": "2026-05-19 21:48:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "委內瑞拉石油部長葆拉·埃納奧表示，該國同意透過外國法院解決合同糾紛。"
-    },
-    {
-      "id": "4888378",
-      "time": "2026-05-19 21:47:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中芯國際：每個季度特殊儲存的佔比都高於上一季度】5月15日，中芯國際在業績說明會表示，目前沒有看到儲存市場鬆動，可能因為AI產業的發展速度超過公司上個季度的預測，也有可能儲存中間商手中的存貨至今沒有釋放，可能在進一步增加庫存，但這是猜測，沒有特別多的資料支援。公司所處的整個市場中，專用儲存器產能被擠壓了，許多原本生產專用儲存器的IDM廠商已不再生產，導致通用和專用市場都供應緊張。“中芯國際正在建設相關產能。我們的特點在於靈活性，即開發專用儲存器產能時，約90%的裝置與工藝可與現有的邏輯電路相容，僅需增加約10%的專用裝置，即可將整條產線切換過來。當前面臨的問題是，現有邏輯電路、MCU等產線本身也已滿載，無法直接切換產能。因此，我們只能在總產能擴大的基礎上逐步切換一部分去做特殊儲存。這項工作正在穩步推進，基本上每個季度特殊儲存的佔比都高於上一季度，但仍處於供不應求狀態。”中芯國際相關負責人表示。"
-    },
-    {
-      "id": "te:markets:551964",
-      "time": "2026-05-19 21:46:25",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Intuit Stock Price Hits 6-week High — Intuit shares increased to 419.08 USD, the highest since April 2026. Over the past 4 weeks, Intuit gained 3.29%, and in the last 12 months, it decreased 37.67%."
-    },
-    {
-      "id": "4888377",
-      "time": "2026-05-19 21:45:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "【長江防總啟動Ⅳ級應急響應】鑑於當前防汛形勢，長江防汛抗旱總指揮部、水利部長江水利委員會於19日針對湖北、湖南、江西、貴州分別啟動防汛Ⅳ級應急響應和洪水防禦Ⅳ級應急響應，要求高度重視強降雨過程防範，壓緊壓實防汛責任，落細落實各項防禦措施，全力保障人民群眾生命財產安全。長江防總會商後指出，雖然當前長江干流和主要支流汛情總體平穩，但局地強降雨引發山洪災害、中小河流洪水、城市內澇，造成人員傷亡和財產損失。據水文氣象預報，未來10天，長江流域還將發生3輪強降雨過程，降雨強度大，間隔時間短，降雨落區重疊，防汛工作面臨嚴峻考驗。長江防總強調，各有關部門和單位要提高思想認識，針對極端天氣情況檢視前期預報精度和處置預案實效，及時最佳化完善預案，提高預報精度；要加強滾動預報預警，密切監視雨情水情變化，嚴格執行24小時值班和領導帶班制度。按照水利部工作部署，長江委已於18日派出工作組赴湖北省指導暴雨洪水防禦工作。（新華社）"
-    },
-    {
-      "id": "4888376",
-      "time": "2026-05-19 21:45:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華為金志國：F5G-A全光網是支撐AI普及落地的最優網路底座】在5月18日至20日舉辦的武漢光博會上，華為光產品線副總裁金志國表示，行業AI應用的快速發展，對網路提出了更高要求。基於F5G-A技術的全光網，已成為支撐AI應用普及的最佳網路方案。F5G-A與AI技術相結合，將為行業構建通訊、感知、計算、管控一體的數智底座，是光產業發展的重點方向。（上證報）"
-    },
-    {
-      "id": "4888375",
-      "time": "2026-05-19 21:45:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：通用電氣航空斬獲美國空軍合同，推進適配自主協同作戰平臺的 GE426 發動機研發。"
-    },
-    {
-      "id": "mkt:019e407b-d5ae-7aa9-b729-e695f691d66b",
-      "time": "2026-05-19 21:45:17",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "YIELD ON 10-YR U.S. TREASURY NOTES RISES TO 4.663%, HIGHEST SINCE JANUARY 2025"
     }
   ]
 }
