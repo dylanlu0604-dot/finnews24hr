@@ -1,7 +1,63 @@
 {
-  "updated": "2026-05-27 04:31:34",
-  "count": 14956,
+  "updated": "2026-05-27 04:35:26",
+  "count": 14955,
   "items": [
+    {
+      "id": "4900992",
+      "time": "2026-05-27 04:33:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表格里爾：本區域內國家將獲得優惠待遇。"
+    },
+    {
+      "id": "mkt:019e65fd-4be5-7332-8106-7f37d606d40b",
+      "time": "2026-05-27 04:32:38",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "GREER: US To Impose Tariffs On Mexican Goods While Trade Deficit Persists"
+    },
+    {
+      "id": "4900991",
+      "time": "2026-05-27 04:32:34",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國貿易代表格里爾：只要美國對墨西哥仍存在鉅額貿易逆差，美國就會一直對墨西哥商品加徵關稅。"
+    },
+    {
+      "id": "4900990",
+      "time": "2026-05-27 04:31:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表格里爾：在美墨加協定談判中，將討論修改原產地規則以提高美國本土成分佔比。"
+    },
+    {
+      "id": "mkt:019e65fc-7702-7332-8106-701a769f1cd5",
+      "time": "2026-05-27 04:31:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "GREER To Discuss Amending Rules-Of-Origin In USMCA Talks To Boost US Content"
+    },
+    {
+      "id": "4900989",
+      "time": "2026-05-27 04:31:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國與亞美尼亞宣佈達成框架協議。"
+    },
     {
       "id": "te:economy:553847",
       "time": "2026-05-27 04:31:00",
@@ -133813,75 +133869,6 @@
         "Economic Calendar"
       ],
       "text": "United States | API Weekly Heating Oil Stocks Change (May.15) | actual 180000M | previous -116000M"
-    },
-    {
-      "id": "4888865",
-      "time": "2026-05-20 04:35:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "【奈及利亞軍方：尼美聯手打死175名“伊斯蘭國”武裝人員】奈及利亞軍方19日釋出宣告說，奈及利亞與美國兩國部隊近日在尼東北部開展聯合反恐行動，共打死175名極端組織“伊斯蘭國”武裝人員，包括數名高階指揮官。（新華社）"
-    },
-    {
-      "id": "mkt:019e41f3-30aa-7228-9b00-66e396b166da",
-      "time": "2026-05-20 04:35:16",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | API Weekly Cushing Crude Oil Stocks Change (May.15) | actual -1428000M | previous -1755000M"
-    },
-    {
-      "id": "te:markets:552032",
-      "time": "2026-05-20 04:35:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Closes 0.63% Lower — The Dow Jones Index dropped 315 points or 0.63 percent on Tuesday to close at 49372 points. Losses were led by Cisco Systems (-3.04%), Boeing (-2.62%) and 3M (-2.08%). Offsetting the fall, top gainers were Verizon (2.18%), Amgen (1.97%) and Merck (1.52%)."
-    },
-    {
-      "id": "mkt:019e41f2-f49d-7228-9b00-5a2fbc5da2fc",
-      "time": "2026-05-20 04:35:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | API Weekly Distillate Stocks Change (May.15) | actual -1047000M | consensus -1252000M | previous -319000M"
-    },
-    {
-      "id": "mkt:019e41f2-9aa4-7228-9b00-5300e26842f7",
-      "time": "2026-05-20 04:34:37",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | API Weekly Gasoline Stocks Change (May.15) | actual -5795000M | consensus -2110000M | previous 502000M"
-    },
-    {
-      "id": "4888864",
-      "time": "2026-05-20 04:34:29",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國至5月15日當週API原油庫存 -911萬桶，預期-336.1萬桶，前值-218.8萬桶。"
-    },
-    {
-      "id": "mkt:019e41f2-5553-7228-9b00-496ff43d652c",
-      "time": "2026-05-20 04:34:21",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | API Weekly Crude Oil Stocks Change (May.15) | actual -9110000M | consensus -3361000M | previous -2188000M"
     }
   ]
 }
