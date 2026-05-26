@@ -1,7 +1,85 @@
 {
-  "updated": "2026-05-26 09:02:07",
-  "count": 15550,
+  "updated": "2026-05-26 09:06:13",
+  "count": 15548,
   "items": [
+    {
+      "id": "4899326",
+      "time": "2026-05-26 09:03:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣證交所加權股價指數上漲1%至44,090.41點。"
+    },
+    {
+      "id": "4899325",
+      "time": "2026-05-26 09:03:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲2%，現報95.37美元/桶。"
+    },
+    {
+      "id": "4899324",
+      "time": "2026-05-26 09:03:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破92美元/桶，日內跌4.75%。"
+    },
+    {
+      "id": "4899323",
+      "time": "2026-05-26 09:03:27",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "氧化鋁連續主力合約日內漲5%，現報2853.00元。"
+    },
+    {
+      "id": "4899322",
+      "time": "2026-05-26 09:03:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【方大特鋼：旗下企業方大長力屋面分散式光伏發電專案衝刺6月併網】據方大特鋼訊息，方大特鋼旗下企業方大長力屋面分散式光伏發電專案自2026年3月17日開工以來，已進入光伏元件安裝的衝刺階段，預計於6月上旬實現併網發電。該專案投運後，年發電量將超過200萬千瓦時。"
+    },
+    {
+      "id": "4899321",
+      "time": "2026-05-26 09:02:51",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【港股股票回購一覽：68只個股獲公司回購】Wind資料顯示，5月22日，共68只港股獲公司回購，13只個股回購金額超千萬港元。其中，騰訊控股、中國儒意、友邦保險回購金額最大，分別獲公司回購5.01億港元、7548.94萬港元、5299.9萬港元。截至5月22日，今年已有211只港股獲公司回購，48只個股年內累計回購金額超億港元。其中，萬國黃金集團、騰訊控股、小米集團-W年內累計回購金額最大，分別獲公司回購490.66億港元、126.61億港元、84.12億港元。"
+    },
+    {
+      "id": "4899319",
+      "time": "2026-05-26 09:01:38",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行副行長冰見野良三將出席參議院金融委員會會議，會議於當地時間上午10點18分開始。"
+    },
+    {
+      "id": "4899318",
+      "time": "2026-05-26 09:01:09",
+      "tags": [],
+      "text": "國內期貨主力合約漲跌不一。SC原油、純苯、苯乙烯（EB）、瀝青、燃料油跌超2％，低硫燃料油（LU）、燒鹼跌近2％。漲幅方面，焦煤漲超9％，焦炭漲超5％，氧化鋁漲超4％，滬銀漲近1％。"
+    },
+    {
+      "id": "te:markets:553547",
+      "time": "2026-05-26 09:00:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Japanese Shares Retreat from Record Levels — ThJapan’s Nikkei 225 Index fell 0.5% to below 65,000, while the broader Topix Index slipped 0.1% to 3,938 on Tuesday, with both benchmarks easing from record highs as investors continued to track diplomatic efforts aimed at ending the US-Iran conflict. President Donald Trump said negotiations were progressing well, although he warned that fresh attacks could follow if talks failed, while a Pakistani mediator reportedly told China that an agreement was nearing. A full reopening of the Strait of Hormuz would also ease pressure on major Asian economies that rely heavily on Middle Eastern oil imports. Technology and artificial intelligence-related shares retreated after driving Monday’s rally, led by declines in Kioxia Holdings (-3.5%), Fujikura (-4%), and Advantest (-4.9%). In contrast, SoftBank Group surged another 6% and is now up nearly 50% in four sessions following reports that two of its portfolio companies, OpenAI and SB Energy, are moving closer to US initial public offerings."
+    },
     {
       "id": "4899317",
       "time": "2026-05-26 09:00:21",
@@ -138984,107 +139062,6 @@
         "國際"
       ],
       "text": "據媒體報道，韓國三星工會與管理層縮小了部分分歧。"
-    },
-    {
-      "id": "4886840",
-      "time": "2026-05-19 09:06:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "黑石集團：谷歌將為新合資企業供應硬體、軟體及服務。"
-    },
-    {
-      "id": "mkt:019e3dc4-b30f-7aa9-b721-08afa14d713d",
-      "time": "2026-05-19 09:06:00",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7",
-        "GOOGL.O",
-        "Impact bullish"
-      ],
-      "text": "BLACKSTONE - GOOGLE TO SUPPLY HARDWARE, SOFTWARE, AND SERVICES TO NEW JOINT VENTURE"
-    },
-    {
-      "id": "mkt:019e3dc4-94f7-7aa9-b721-0001e70a6fff",
-      "time": "2026-05-19 09:05:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "SOUTH KOREA KOSPI FALLS 3% INTRADAY"
-    },
-    {
-      "id": "4886839",
-      "time": "2026-05-19 09:05:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "黑石集團：黑石集團已任命本傑明·特雷納·斯洛斯拉斯為新公司執行長。"
-    },
-    {
-      "id": "4886838",
-      "time": "2026-05-19 09:05:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "據訊息人士透露，一名曾因操縱政府債券價格而被野村證券解僱的前交易員，已重返英國一家資產管理公司工作。"
-    },
-    {
-      "id": "4886837",
-      "time": "2026-05-19 09:05:21",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數（KOSPI）下跌3%，至7289.99點。"
-    },
-    {
-      "id": "mkt:019e3dc4-0afd-7aa9-b720-f802aa8dd256",
-      "time": "2026-05-19 09:05:18",
-      "tags": [
-        "MKT News",
-        "005930.KS",
-        "Impact bullish"
-      ],
-      "text": "SAMSUNG'S SOUTH KOREAN UNION, MANAGEMENT NARROWED SOME OF THEIR DIFFERENCES - MEDIA"
-    },
-    {
-      "id": "4886836",
-      "time": "2026-05-19 09:05:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【我國商業航天首款可展開星載傘天線下線】銀河航天（北京）科技集團股份有限公司自主研製的大口徑可展開的傘天線近日下線。這是國內首款由商業航天公司研製完成的高效能星載“傘天線”，可應用於有高收納比需求的衛星平臺。（科技日報）"
-    },
-    {
-      "id": "4886835",
-      "time": "2026-05-19 09:05:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "【北京搭建領跑智慧科研平臺體系】科學智慧（AI for science）是人工智慧與基礎研究深度融合的全新科研模式。本市已搭建起全國領先的智慧科研平臺體系，在生物醫藥、新材料、高階裝備、能源化工等重點領域實現技術突破。一批科學智慧成果加速落地應用。 從築牢科研底座、突破技術壁壘，到賦能產業落地，本市科學智慧體系已形成完整鏈路閉環。昨天，市科委、中關村管委會表示，將持續深化模型、資料、算力、智慧體、平臺、自主實驗室、應用等全鏈條佈局，最佳化政策生態、加速成果轉化，持續領跑全國科學智慧新賽道。（北京日報）"
-    },
-    {
-      "id": "4886834",
-      "time": "2026-05-19 09:03:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "【港股股票回購一覽：71只個股獲公司回購】Wind資料顯示，5月18日，共71只港股獲公司回購，19只個股回購金額超千萬港元。其中，騰訊控股、友邦保險、小米集團-W回購金額最大，分別獲公司回購5.01億港元、2.76億港元、9999.97萬港元。截至5月18日，今年已有208只港股獲公司回購，41只個股年內累計回購金額超億港元。其中，騰訊控股、小米集團-W、友邦保險年內累計回購金額最大，分別獲公司回購106.58億港元、81.12億港元、66.32億港元。"
-    },
-    {
-      "id": "mkt:019e3dc2-3079-7aa9-b720-f0642f403e9a",
-      "time": "2026-05-19 09:03:16",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "【China Futures Open Mixed; Silver Up Nearly 2%】China’s most active futures contracts open mixed, with silver up nearly 2%, while eggs, tin, soybean No.2 and soybean meal rise over 1%. On the downside, low-sulfur fuel oil (LU) falls nearly 2%, while coke and ferrosilicon decline over 1%."
     }
   ]
 }
