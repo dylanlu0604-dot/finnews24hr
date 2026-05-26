@@ -1,7 +1,67 @@
 {
-  "updated": "2026-05-26 15:19:39",
-  "count": 15490,
+  "updated": "2026-05-26 15:23:36",
+  "count": 15492,
   "items": [
+    {
+      "id": "4899822",
+      "time": "2026-05-26 15:21:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【正業科技：公司目前暫無MLCC檢測裝置訂單】正業科技(300410)5月26日在互動平臺回覆稱，公司目前暫無MLCC檢測裝置訂單。"
+    },
+    {
+      "id": "4899821",
+      "time": "2026-05-26 15:20:47",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【儘管中東持續存在不確定性，金價仍小幅走高】儘管在美國對伊朗發動新一輪襲擊後油價反彈，且市場對通貨膨脹和利率將在更長時間內維持高位的擔憂持續存在，但金價依然上漲。在早盤交易中，紐約期金上漲0.2%，報每盎司4,532.30美元。原油價格高企可能會加劇通貨膨脹，並強化利率將在更長時間內保持高位的預期。雖然黃金被廣泛視為對沖通貨膨脹的工具，但較高的借貸成本往往會拖累這種無收益資產。市場目前首次完全反映了美聯儲到12月加息25個基點的預期。"
+    },
+    {
+      "id": "mkt:019e6328-36c3-7ff6-adfc-985c789afdec",
+      "time": "2026-05-26 15:20:40",
+      "tags": [
+        "MKT News",
+        "FUTU.O",
+        "Impact bearish"
+      ],
+      "text": "S&PGRBULLETIN:FUTU'S BUSINESS FACES REGULATORY CRACKDOWN TEST"
+    },
+    {
+      "id": "te:economy:553675",
+      "time": "2026-05-26 15:19:31",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Spain",
+        "Producer Prices Change",
+        "Importance 1"
+      ],
+      "text": "Spain Producer Inflation Hits 2022-Peak — Producer price inflation in Spain spiked to 8.3% year-on-year in April 2026, the steepest since December 2022, from a downwardly revised 3.1% in the prior month. The main upward pressure came from energy prices (22.3% vs 7.1% in March), reflecting higher oil refining prices. Compared with the previous month, the PPI rose by 1.7%, decelerating from a revised 6.2% jump in the month before."
+    },
+    {
+      "id": "mkt:019e6326-d49d-7ff6-adfc-90ea7248e5f4",
+      "time": "2026-05-26 15:19:09",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Crypto Concepts",
+        "Bitcoin",
+        "Impact mixed"
+      ],
+      "text": "【Crypto Market, Regulation & Infrastructure Highlights – Past 24 Hours】 Regulation & Policy - Indonesia blocks Polymarket amid crackdown on online betting - Tether plans GELT stablecoin launch with support from Georgian government Market & Trading - 'Institutional bid hasn't disappeared': Analysts say bitcoin cooldown, spot ETF outflows signal rotation, not exit - Satoshi-era bitcoin whale moves over $200 million in BTC to FalconX, Cumberland: Onchain Lens - Hyperliquid rolls out validator-governed prediction markets for real-world events Infrastructure & Products - OKX X Layer launches Exchange OS, allowing users to create custom crypto markets Security & Exploits - 'We don't know who deployed this': Squid distances itself from $3.2 million third-party module exploit People - Nathan Allman, founder and CEO of Ondo Finance, dies unexpectedly"
+    },
+    {
+      "id": "4899820",
+      "time": "2026-05-26 15:18:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Token消耗將迎來指數級增長，2030年預計消耗量增長超300倍】支付寶今日舉行AI支付生態大會。會上，螞蟻集團研究院院長莊蹯表示：“Token、資料和工具等數字資源成為最重要的生產要素，Token、資料與工具是智慧體必不可少的燃料、感官和四肢。”他預測：“Token消耗將迎來指數級增長，2030年預計Token消耗量將增長超300倍，擁有22億的活躍智慧體，年執行任務可達400萬億次”。（新浪科技）"
+    },
     {
       "id": "4899819",
       "time": "2026-05-26 15:18:22",
@@ -138585,44 +138645,6 @@
         "公司"
       ],
       "text": "【上交所終止新芯股份科創板上市稽核】上交所公告，日前新芯股份和保薦人國泰海通、華源證券提交申請撤回公司發行上市申請檔案。根據《上海證券交易所股票發行上市稽核規則》第六十三條的有關規定，交易所決定終止對新芯股份首次公開發行股票並在科創板上市的稽核。"
-    },
-    {
-      "id": "4887434",
-      "time": "2026-05-19 15:22:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "西班牙最高法院：前首相薩帕特羅因以權謀私及相關犯罪被調查，其辦公室正在被搜查。"
-    },
-    {
-      "id": "4887433",
-      "time": "2026-05-19 15:21:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "【福特汽車宣佈新的歐洲戰略，三年內將推出五款全新乘用車】福特汽車5月18日宣佈，將在未來三年內於歐洲推出一項全面的產品與技術戰略。根據這項新戰略，其Ford Pro部門將從單純的汽車製造商轉型為生產力合作伙伴，利用軟體和服務來實現回報最大化。福特計劃到2029年底在歐洲推出五款全新乘用車，全部在歐洲製造。"
-    },
-    {
-      "id": "mkt:019e3f1b-9077-7aa9-b724-84d43bccdcea",
-      "time": "2026-05-19 15:20:31",
-      "tags": [
-        "MKT News",
-        "Important",
-        "005930.KS",
-        "Impact bullish"
-      ],
-      "text": "SOUTH KOREA'S LABOUR COMMISSION OFFICIAL: SAMSUNG, UNION NARROWING DIFFERENCES"
-    },
-    {
-      "id": "4887432",
-      "time": "2026-05-19 15:20:04",
-      "tags": [
-        "資料",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【A500ETF南方（159352）探底回升漲0.6%，機構稱A股中期上行趨勢不變，仍然看好科技方向】5月19日，A500ETF南方（159352）探底回升，截至收盤漲0.6%，成交額40.62億元。資金流向方面，昨日獲得淨申購3224萬元，最新規模308億元。招商證券表示，對於A股來說，仍然看好科技方向，不認為會發生風格切換：第一，國內通脹水平不足以引發政策轉向，而美聯儲對於通脹仍需要一定觀察時間；第二，本輪PPI快速回升主要由石油漲價驅動，內需仍偏弱，國內經濟呈現出顯著的K型復甦特徵；第三，科技方向EPS不斷上修，是本輪市場上行階段的主要推手。後續仍然圍繞高景氣、高增長的方向佈局，產業趨勢方面中期確定性較強的是海外算力基礎設施，而業績高增的方向主要集中在：AI需求高景氣領域；出口優勢製造領域；漲價資源品領域。銀河證券認為，中期來看，上行趨勢並未改變。這一輪創業板創新高，核心是產業週期與業績兌現雙驅動。這一輪行情最大的特點是高景氣兌現，基本面支撐強。當前A股資金持續從金融、地產、傳統週期等存量低增長行業集中流向高研發、高壁壘、高增量的硬科技成長賽道。隨著盈利持續釋放、估值穩步抬升、增量資金持續入場，中期上行趨勢不變，繼續強調聚焦主線機會。資料顯示，A500ETF南方（159352）緊密跟蹤的中證A500指數覆蓋A股大中盤優質龍頭企業，重點佈局新質生產力，憑藉規模、流動性等方面優勢，或是助力資金佈局後市機會的有力工具。投資者可借道A500ETF南方（159352）及其聯接基金（A類022434；C類022435）一鍵佈局。"
     }
   ]
 }
