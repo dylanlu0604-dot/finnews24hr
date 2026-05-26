@@ -1,7 +1,56 @@
 {
-  "updated": "2026-05-27 07:16:35",
-  "count": 14995,
+  "updated": "2026-05-27 07:20:26",
+  "count": 14993,
   "items": [
+    {
+      "id": "4901098",
+      "time": "2026-05-27 07:18:23",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【中東戰火，引燃“工業領域麵粉”】針對隔夜的油價走勢，有市場人士提醒，短期的價格波動並不等於供應風險已經完全解除。隨著衝突持續，全球石油庫存仍在下降，而供應壓力也已經開始從原油市場，傳導到亞洲的石化產業鏈。而在亞洲，供應壓力不僅體現在原油市場，也正在傳導到原油煉化後的關鍵原料：也就是石腦油。石腦油是很多化工產品的基礎原料，因此也有人類比，將它稱為是工業領域的“麵粉”或者“大米”。英國諮詢機構牛津經濟研究院指出：日本和韓國是受當前供應短缺影響最大的國家。在韓國，石腦油短缺已經開始向石化產業鏈傳導。《紐約時報》的報道指出，部分韓國的石化巨頭被迫大幅下調開工率；一些化工生產商也因原料不足，無法按約向大型汽車和電子製造商交貨，並宣佈相關出貨受到“不可抗力”影響。另外還有分析稱韓國的半導體產業也受到了石腦油短缺影響。在因中東戰事和霍爾木茲海峽航運持續“梗阻”導致的石腦油短缺最為嚴重的國家之一——日本，影響已蔓延至多個行業。石腦油短缺正不斷推高塑膠包裝材料和印刷油墨價格。在日本一家魚肉製品加工店，原本單個約15日元的真空包裝袋，進價目前已上漲至18日元左右。由於包裝材料價格上漲，日本6月起或再現食品“漲價潮”。（央視財經）"
+    },
+    {
+      "id": "4901097",
+      "time": "2026-05-27 07:18:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【小米MiMo-V2.5系列API永久降價】5月27日，小米旗下MiMo大模型釋出公告稱，MiMo-V2.5系列API永久降價，相比原始API定價，新定價最高降幅可達99%，且不再區分上下文視窗長度；同時最佳化TokenPlan計費體系，同等價格下用量提升至原來的5-8倍。本次調價於北京時間5月27日0:00正式生效，全球同步調整。"
+    },
+    {
+      "id": "mkt:019e6694-b683-7332-8107-51c505ff449f",
+      "time": "2026-05-27 07:18:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran Urges Iraq To Prevent Territory, Airspace Being Used To Threaten Iran】Iran Deputy NSC Sec. Ali Bagheri-Kani Meets Iraqi NSA Qassim Al-Araji At 14th Moscow Security Conference; Urges Baghdad To Remove Sources Of Threat, Prevent Iraqi Territory And Airspace From Being Used To Attack Iran"
+    },
+    {
+      "id": "4901096",
+      "time": "2026-05-27 07:17:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "傑夫·貝佐斯旗下藍色起源獲得美國國家航空航天局月球基地專案共計4.68億美元合同。"
+    },
+    {
+      "id": "4901095",
+      "time": "2026-05-27 07:13:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【京東否認競購英國電商平臺The Very Group】近日有訊息稱京東正在評估以約20億英鎊的價格，收購英國老牌線上零售平臺 The Very Group。接近京東人士向記者表示，公司沒有競購The Very Group的計劃。"
+    },
+    {
+      "id": "4901094",
+      "time": "2026-05-27 07:12:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "新世界集團擬以10億港元出售香港商業用地。（香港經濟日報）"
+    },
     {
       "id": "4901093",
       "time": "2026-05-27 07:11:50",
@@ -134169,71 +134218,6 @@
         "Importance 1"
       ],
       "text": "UN Cuts Global Growth Forecast for 2026 to 2.5% — The United Nations (UN) on Tuesday cut its forecast for global economic growth to 2.5% in 2026, compared with an estimated 3.0% in 2025, marking a downgrade of 0.2 percentage points from its January projection and remaining well below pre-pandemic growth rates due to inflationary pressures amid the Middle East conflict. In a U.N. press release summarizing the mid-year update to the global body's World Economic Situation and Prospects, the agency said solid labor markets, resilient consumer demand, and AI-driven trade and investment are expected to provide support, though the downgrade underscores further weakness in the already subdued global outlook. The surge in energy prices has delivered windfall gains for energy companies but intensified cost pressures for households and businesses. The US economy is expected to remain comparatively resilient, with growth projected at 2.0% in 2026, supported by strong household demand and continued investment in technology."
-    },
-    {
-      "id": "4888951",
-      "time": "2026-05-20 07:20:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【主動權益基金髮行市場持續回暖】今年以來，主動權益基金髮行市場持續回暖，多隻新發產品募集規模超50億元，引發市場廣泛關注。Wind資料顯示，截至5月19日，以基金發行日期統計，今年以來已有155只權益類基金髮行，發行總規模達1346.65億元。對比2024年同期的337.99億元、2025年同期的246.28億元，今年權益類基金髮行規模實現明顯增長。（證券日報）"
-    },
-    {
-      "id": "4888950",
-      "time": "2026-05-20 07:19:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【正規化智慧：與歡喜傳媒訂立戰略合作框架協議，擬利用AI技術完成影視內容聯合制作】根據公告，歡喜傳媒將提供用於影視領域AI解決方案及模型訓練的相關資料，雙方將推進影視領域大模型和代理的研發，在新文娛領域探索AI解決方案落地，利用AI技術完成影視內容的聯合制作，以及相關智慧財產權的衍生開發，開展數位人演員開發及演員經紀、AI模擬人劇集、互動影遊等。歡喜傳媒意向使用公司平臺上大模型API的許可權，並根據Token消耗量向公司支付費用，自框架協議生效後三年內，按Token消耗量向公司支付費用的總目標服務金額預計不低於2億美元。"
-    },
-    {
-      "id": "4888949",
-      "time": "2026-05-20 07:19:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國參議院的程式性投票顯示對伊朗戰爭的反對聲音增強】由共和黨控制的美國參議院週二在一次程式性投票中，對繼續進行伊朗戰爭表現出越來越強的反對意見，這反映出人們對這場給美國人造成經濟損失對外衝突的政治不安情緒日益加深。來自路易斯安那州的參議員Bill Cassidy與其他三位共和黨籍參議員一起投票支援一項停止敵對行動的決議，使其得以進入最終投票階段。這是Cassidy首次支援這項決議。50比47的投票結果清楚地表明，在特朗普考慮對伊朗發動新一輪軍事行動之際，對軍事行動的支援正在減弱。目前尚不清楚該決議最終能否在參議院獲得透過。"
-    },
-    {
-      "id": "4888948",
-      "time": "2026-05-20 07:19:10",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4490美元/盎司，日內跌0.47%。"
-    },
-    {
-      "id": "4888947",
-      "time": "2026-05-20 07:18:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "AI模型開發商Zyphra以50億估值籌5億美元，AMD承諾參與。"
-    },
-    {
-      "id": "4888946",
-      "time": "2026-05-20 07:17:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【打新熱情高漲 今年以來港股IPO募資額超1500億港元】今年以來，港股市場IPO募資總額超1500億港元，位居全球各交易所前列。大族數控、瀾起科技、勝宏科技等一批A股市值超過千億元的龍頭企業相繼登陸港交所。打新熱情高漲，翼菲科技香港發售申購倍數超1.4萬倍，創歷史新高。截至5月19日記者發稿時，今年以來共有19家A股上市公司成功登陸港股市場，130家A股上市公司已在港交所排隊。從市值構成上看，在已排隊港交所的A股上市公司中，不乏立訊精密、東山精密、陽光電源、天孚通訊、匯川技術等千億市值龍頭公司。分析人士認為，今年港股IPO市場有望加速回暖，A+H模式正進入新一輪上行週期。港股市場長期價值正在積蓄，硬科技企業叢集形成產業鏈協同效應，港股正從金融地產主導轉向科技驅動。（中國證券報）"
-    },
-    {
-      "id": "4888945",
-      "time": "2026-05-20 07:17:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "【超10家主流車企部分車型漲價，新能源車市轉向價值競爭新階段】5月以來，新能源汽車市場的風向悄然發生變化——包括比亞迪、長安啟源在內，超10家主流車企的部分車型漲價，單車漲幅在2000元至10000元不等。在原材料成本上行、行業利潤承壓的背景下，車市低價內卷難以為繼，本輪漲價呈現出“以成本倒逼為主導、結構性分化明顯、調價手段更多元”等特徵。業內普遍認為，新能源車市正從“以價換量”的粗放式價格博弈，轉向以技術、產品與服務為核心的價值競爭新階段。"
-    },
-    {
-      "id": "4888944",
-      "time": "2026-05-20 07:16:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "【通用汽車將開始在墨西哥組裝雪佛蘭Groove和Aveo】通用汽車週二表示，將開始在墨西哥組裝雪佛蘭Groove和Aveo車型以供當地市場銷售。該專案是通用汽車此前宣佈的對墨西哥10億美元投資計劃的一部分，是在與墨西哥總統克勞迪婭·謝因鮑姆共同出席的一場活動中宣佈的。通用汽車將於2027年在其拉莫斯·阿里茲佩工廠啟動本地組裝，面向墨西哥市場銷售，目標是在2030年前實現年產8萬輛。愛唯歐（Aveo）是墨西哥最暢銷的車型之一，也是通用汽車在墨西哥銷量最高的車型。2025年，通用汽車在墨西哥售出超過6萬輛愛唯歐，今年銷量有望再創紀錄。"
     }
   ]
 }
