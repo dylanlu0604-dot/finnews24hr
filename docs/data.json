@@ -1,7 +1,132 @@
 {
-  "updated": "2026-05-26 22:22:43",
-  "count": 15234,
+  "updated": "2026-05-26 22:26:51",
+  "count": 15237,
   "items": [
+    {
+      "id": "4900778",
+      "time": "2026-05-26 22:25:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：土耳其將繼續在磋商中提供支援。"
+    },
+    {
+      "id": "4900777",
+      "time": "2026-05-26 22:25:31",
+      "tags": [
+        "資料",
+        "市場",
+        "國際"
+      ],
+      "text": "【隨著通脹擔憂加劇，美國消費者信心有所減弱】5月份，美國消費者信心小幅下滑；受伊朗戰爭引發物價上漲的影響，消費者對當前經濟狀況的看法有所回落。美國5月諮商會消費者信心指數下跌0.7點，至93.1。衡量當前狀況的指標在5月份下降3.2點至121.2，而衡量未來六個月預期的指標則上升至74.4。這份報告進一步印證了美國消費者對高昂生活成本日益增長的焦慮。儘管勞動力市場總體穩定，且鮮有大規模裁員跡象，但近期燃油價格的飆升對低收入家庭而言尤其具有挑戰性。"
+    },
+    {
+      "id": "4900776",
+      "time": "2026-05-26 22:25:27",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "【高盛：油價波動下資本支出增長仍具韌性】高盛上調 2026 年美國資本支出增速預期至 7.8%，稱油價走高難以拖累企業投資勢頭。該行表示，人工智慧相關基建投入及稅收優惠將持續發力，抵消關稅與製造業面臨的不利因素，同時預計美國全年國內生產總值增速為 2.1%。"
+    },
+    {
+      "id": "4900775",
+      "time": "2026-05-26 22:24:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "美光科技漲超15%，AppLovin漲9.3%，西部資料漲8.8%，閃迪漲7.2%，領跑納斯達克100指數成分股，指數目前漲超1.6%；半導體指數漲超4.9%。"
+    },
+    {
+      "id": "4900774",
+      "time": "2026-05-26 22:24:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "富途控股股價上漲15.2%，從週五的拋盤中反彈回升。"
+    },
+    {
+      "id": "4900773",
+      "time": "2026-05-26 22:24:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗副總統證實，在經歷數月網路封禁後，伊朗當局正放寬網際網路使用限制。他在社交媒體上稱：“我們已邁出實現自由且合規網路訪問的第一步。”"
+    },
+    {
+      "id": "mkt:019e64ab-f3c4-7330-84b5-3cd1dee3aaee",
+      "time": "2026-05-26 22:24:11",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "WTI",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "【US Consumer Confidence Slips As Inf Worries Rise】Conference Board May Consumer Confidence -0.7 To 93.1; Present Conditions -3.2 To 121.2; Expectations Up To 74.4; Fuel-Price Spike After Iran Conflict Weighs On Low-Income Households"
+    },
+    {
+      "id": "4900772",
+      "time": "2026-05-26 22:24:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所倫敦可可期貨<CCc1>大漲近10%，至每噸3140英鎊。"
+    },
+    {
+      "id": "4900771",
+      "time": "2026-05-26 22:24:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其方面表示，埃爾多安與伊朗總統在通話中就戰事展開磋商。"
+    },
+    {
+      "id": "mkt:019e64ab-b97c-7330-84b5-3729282237c6",
+      "time": "2026-05-26 22:23:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Court Delays Ex-FBI Dir. James Comey Trial Over Alleged Threats To Trump To Oct. 21"
+    },
+    {
+      "id": "4900770",
+      "time": "2026-05-26 22:23:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "據美國法庭命令，前聯邦調查局局長涉嫌威脅特朗普一案的庭審已推遲至10月21日。"
+    },
+    {
+      "id": "4900769",
+      "time": "2026-05-26 22:23:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "博通股價上漲4%，報430.7美元/股，總市值報2.04萬億美元。"
+    },
+    {
+      "id": "4900768",
+      "time": "2026-05-26 22:23:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：土耳其總統埃爾多安與伊朗總統通電話。"
+    },
+    {
+      "id": "te:markets:553803",
+      "time": "2026-05-26 22:23:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Arabica Coffee Futures Hover Near 2024-Lows — Arabica coffee futures traded around $2.7 per pound, hovering near the lowest since November 2024, amid expectations of a bumper harvest in top producer Brazil. Prices have already fallen by more than 20% this year, mainly due to improved expectations regarding Brazilian production. Despite a reportedly slow harvest pace in some producing areas, the crop is progressing without major issues and could deliver a record output this season, helping replenish global coffee supplies. Brazil’s National Supply Company, Conab, recently raised its forecast for Brazil’s 2026/27 coffee production to a record 66.7 million bags from 66.2 million in February, representing a 18% increase compared to the previous season. Arabica output is forecast at 45.8 million bags, up 28% year on year and the third-largest in the historical series, supported by a positive biennial cycle and favorable weather conditions."
+    },
     {
       "id": "4900767",
       "time": "2026-05-26 22:21:37",
@@ -136234,95 +136359,6 @@
         "其他"
       ],
       "text": "巴西全國穀物出口商協會（ANEC）預測，巴西5月豆粕出口量將達到280萬噸，此前一週的預測值為290萬噸。"
-    },
-    {
-      "id": "mkt:019e40a1-eba5-7aa9-b72a-87998b64d049",
-      "time": "2026-05-19 22:26:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "DONALD TRUMP VISITS WHITE HOUSE BALLROOM CONSTRUCTION"
-    },
-    {
-      "id": "4888460",
-      "time": "2026-05-19 22:26:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "彭博美元指數持續走高，創 4 月 8 日以來最強走勢。"
-    },
-    {
-      "id": "4888459",
-      "time": "2026-05-19 22:25:57",
-      "tags": [
-        "市場"
-      ],
-      "text": "歐元兌美元EUR/USD日內跌超0.50%，現報1.1597。"
-    },
-    {
-      "id": "4888457",
-      "time": "2026-05-19 22:25:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：特朗普向記者展示了白宮宴會廳的建設情況。"
-    },
-    {
-      "id": "4888456",
-      "time": "2026-05-19 22:24:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本多地集會抗議高市政權危險動向】大批日本民眾今天（5月19日）傍晚在位於東京的國會議事堂前舉行集會，強烈抗議高市早苗政府解禁殺傷性武器出口、大幅增加防衛費、著手修改“安保三檔案”等破壞和平憲法的動向。據瞭解，除東京外，日本全國今晚還有上百處地點舉行了聯動集會，抗議高市政權加速推進。（CCTV國際時訊）"
-    },
-    {
-      "id": "4888455",
-      "time": "2026-05-19 22:24:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "北歐高階官員：預計美國長期將進一步從歐洲調整駐軍部署。"
-    },
-    {
-      "id": "4888454",
-      "time": "2026-05-19 22:23:47",
-      "tags": [
-        "市場"
-      ],
-      "text": "南非蘭特對美元匯率下跌1%。"
-    },
-    {
-      "id": "4888453",
-      "time": "2026-05-19 22:23:34",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國5年期和7年期國債收益率當日上漲10個基點。"
-    },
-    {
-      "id": "4888452",
-      "time": "2026-05-19 22:23:26",
-      "tags": [
-        "市場"
-      ],
-      "text": "【AMD、英特爾股價均大跌超5%】超威半導體（AMD）股價下跌6.39%，報394.077美元/股。英特爾股價下跌5.18%，報102.570美元/股。"
-    },
-    {
-      "id": "4888451",
-      "time": "2026-05-19 22:23:17",
-      "tags": [
-        "市場"
-      ],
-      "text": "家得寶股價轉漲，扭轉了此前3.6%的跌幅。"
-    },
-    {
-      "id": "4888450",
-      "time": "2026-05-19 22:22:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "【電氣裝備領域垂類大模型“電擎”釋出】記者從中國電氣裝備集團獲悉，電氣裝備領域垂類大模型“電擎”日前正式釋出。這一大模型聚焦新型能源體系建設，構建覆蓋輸配電裝備全生命週期的智慧化能力體系，實現產品的全鏈條智慧驅動。（新華社）"
     }
   ]
 }
