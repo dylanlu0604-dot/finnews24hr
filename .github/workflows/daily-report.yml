@@ -2,8 +2,10 @@ name: 📰 Daily Market Report
 
 on:
   schedule:
-    # Taiwan time 07:00, 08:00, 09:00.
-    - cron: "0 23,0,1 * * *"
+    # Taiwan time Tue-Sat 07:00. GitHub cron is UTC, so this is Mon-Fri 23:00 UTC.
+    - cron: "0 23 * * 1-5"
+    # Taiwan time Tue-Sat 08:00 and 09:00.
+    - cron: "0 0,1 * * 2-6"
   workflow_dispatch:
     inputs:
       date:
@@ -70,8 +72,8 @@ jobs:
           git clone "https://x-access-token:${GH_PAT}@github.com/dylanlu0604-dot/finnews24hr-page.git" /tmp/page-repo
           git -C /tmp/page-repo config user.name  "github-actions[bot]"
           git -C /tmp/page-repo config user.email "github-actions[bot]@users.noreply.github.com"
-          cp docs/index.html docs/daily_news.json docs/daily_scrape_logs.json /tmp/page-repo/
-          git -C /tmp/page-repo add index.html daily_news.json daily_scrape_logs.json
+          cp docs/index.html docs/daily_news.json /tmp/page-repo/
+          git -C /tmp/page-repo add index.html daily_news.json
           if git -C /tmp/page-repo diff --cached --quiet; then
             echo "No page changes."
           else

@@ -631,7 +631,6 @@ function initLanguageSelect() {
       <button class="c-tab" data-view="daily-news">每日新聞</button>
       <button class="c-tab" data-view="news">即時快訊</button>
       <button class="c-tab" data-view="central-bank">央行摘要</button>
-      <button class="c-tab" data-view="scrape-log">爬取 Log</button>
       <div class="center-tab-updated" id="aiUpdated">載入中</div>
     </div>
 
@@ -708,19 +707,6 @@ function initLanguageSelect() {
       </div>
     </div>
 
-    <!-- 爬取 Log 面板 -->
-    <div class="center-view" id="view-scrape-log">
-      <div class="daily-head">
-        <span class="ai-pills-label">Log 日期</span>
-        <select id="logDateSelect" class="ai-period-select" aria-label="選擇爬取紀錄日期"></select>
-        <span id="logCount" class="ai-period-count"></span>
-        <span id="logUpdated" class="daily-meta">每日 07/08/09 更新</span>
-      </div>
-      <div class="daily-scroll">
-        <div id="scrapeLogList"><div class="ai-empty">載入爬取紀錄中…</div></div>
-      </div>
-    </div>
-
   </div>
 
   <!-- ══ RIGHT: CHARTS ══ -->
@@ -787,7 +773,6 @@ const MARKET_URL = './market.json';
 const AI_SUMMARY_URL = './ai_summaries.json';
 const CENTRAL_BANK_SUMMARY_URL = './central_bank_summaries.json';
 const DAILY_NEWS_URL = './daily_news.json';
-const DAILY_LOG_URL = './daily_scrape_logs.json';
 const MAX_RENDER_ITEMS = 500;
 const TAG_ORDER = [
   '全部',
@@ -1201,7 +1186,6 @@ document.querySelectorAll('.m-tab').forEach(tab => {
 let aiSummaries = [], activeAiId = '', activeAiMonth = '', activeAiDate = '';
 let centralBankSummaries = [], activeCbDate = '';
 let dailyNewsItems = [], activeDailyDate = '', activeDailyId = '';
-let dailyLogItems = [], activeLogDate = '';
 
 function aiDateKey(item) {
   return (item.slot_start || item.slot_end || '').slice(0, 10);
@@ -1302,59 +1286,6 @@ async function loadDailyNews() {
     document.getElementById('dailyUpdated').textContent = '載入失敗';
     document.getElementById('dailyNewsDetail').innerHTML =
       `<div class="ai-empty">無法載入每日新聞摘要<br>${attrEscape(e.message)}</div>`;
-  }
-}
-
-function renderScrapeLog() {
-  const root = document.getElementById('scrapeLogList');
-  const dateSelect = document.getElementById('logDateSelect');
-  const count = document.getElementById('logCount');
-  const updated = document.getElementById('logUpdated');
-  if (!root || !dateSelect || !count || !updated) return;
-  updated.textContent = dailyLogItems.length ? `更新 ${dailyLogItems[0].finished_at || '—'}` : '每日 07/08/09 更新';
-  const dates = [...new Set(dailyLogItems.map(item => item.date).filter(Boolean))].sort().reverse();
-  if (!activeLogDate || !dates.includes(activeLogDate)) activeLogDate = dates[0] || '';
-  dateSelect.innerHTML = dates.map(date => `<option value="${attrEscape(date)}" ${date === activeLogDate ? 'selected' : ''}>${attrEscape(dailyDateOption(date))}</option>`).join('');
-  const dayItems = dailyLogItems.filter(item => item.date === activeLogDate).sort((a, b) => Number(a.run_hour || 0) - Number(b.run_hour || 0));
-  count.textContent = dayItems.length ? `${dayItems.reduce((sum, item) => sum + Number(item.success_count || 0), 0)} successes / ${dayItems.reduce((sum, item) => sum + Number(item.failure_count || 0), 0)} failures` : '';
-  if (!dayItems.length) {
-    root.innerHTML = '<div class="ai-empty">尚無爬取紀錄。</div>';
-    return;
-  }
-  root.innerHTML = dayItems.map(run => {
-    const sources = (run.sources || []).map(source => `
-      <div class="log-source">
-        <div class="log-source-name">${attrEscape(source.source || '')}</div>
-        <div class="${source.ok ? 'log-ok' : 'log-fail'}">${source.ok ? 'SUCCESS' : attrEscape(source.status || 'FAILED')}</div>
-        <div class="log-reason">${source.ok ? attrEscape(source.url || source.title || '') : attrEscape(source.reason || 'No reason provided')}</div>
-      </div>
-    `).join('');
-    return `
-      <article class="log-card">
-        <div class="log-card-head">
-          <div class="log-title">${String(run.run_hour).padStart(2, '0')}:00 TST</div>
-          <div class="log-status">${attrEscape(run.status || '')} · ${run.success_count || 0}/${run.total_sources || 0} success</div>
-        </div>
-        <div class="daily-stats">
-          <div class="daily-stat"><span>Total</span><strong>${run.total_sources || 0}</strong></div>
-          <div class="daily-stat"><span>Success</span><strong>${run.success_count || 0}</strong></div>
-          <div class="daily-stat"><span>Failed</span><strong>${run.failure_count || 0}</strong></div>
-        </div>
-        ${sources}
-      </article>
-    `;
-  }).join('');
-}
-
-async function loadScrapeLogs() {
-  try {
-    const data = await (await fetch(DAILY_LOG_URL + '?t=' + Date.now())).json();
-    dailyLogItems = data.items || [];
-    renderScrapeLog();
-  } catch (e) {
-    document.getElementById('logUpdated').textContent = '載入失敗';
-    document.getElementById('scrapeLogList').innerHTML =
-      `<div class="ai-empty">無法載入爬取紀錄<br>${attrEscape(e.message)}</div>`;
   }
 }
 
@@ -1743,11 +1674,6 @@ document.getElementById('dailyRunTabs').addEventListener('click', e => {
   renderDailyNews();
 });
 
-document.getElementById('logDateSelect').addEventListener('change', e => {
-  activeLogDate = e.target.value;
-  renderScrapeLog();
-});
-
 loadMarket();
 setInterval(loadMarket, 5 * 60 * 1000);
 loadAiSummaries();
@@ -1756,8 +1682,6 @@ loadCentralBankSummaries();
 setInterval(loadCentralBankSummaries, 10 * 60 * 1000);
 loadDailyNews();
 setInterval(loadDailyNews, 10 * 60 * 1000);
-loadScrapeLogs();
-setInterval(loadScrapeLogs, 10 * 60 * 1000);
 </script>
 </body>
 </html>

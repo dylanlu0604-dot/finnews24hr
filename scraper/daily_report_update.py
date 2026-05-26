@@ -30,6 +30,7 @@ DAILY_LOG_PATH = DOCS_DIR / "daily_scrape_logs.json"
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "").strip()
 OPENAI_SUMMARY_MODEL = os.getenv("OPENAI_SUMMARY_MODEL", "gpt-5.4-nano").strip()
 MAX_REPORT_CHARS = 12000
+ALLOWED_GENERATION_WEEKDAYS = {1, 2, 3, 4, 5}  # Tue-Sat in Python's Monday=0 convention.
 
 
 SYSTEM_PROMPT = """你是一位專業的財經研究分析師，負責把當天多個來源的市場報告，彙整成一份精煉的繁體中文「AI 每日財經新聞」。
@@ -155,6 +156,10 @@ def update_daily_log(item: dict) -> None:
 
 
 def run_daily_update(target_date: dt.date, sources: list[str], run_hour: int | None) -> int:
+    if target_date.weekday() not in ALLOWED_GENERATION_WEEKDAYS:
+        print(f"[SKIP] {target_date.isoformat()} is Sunday/Monday in Asia/Taipei scope; daily report is not generated.")
+        return 0
+
     started_at = now_tw()
     ctx = daily_reports.build_context(target_date)
     results: list[daily_reports.ScrapeResult] = []
