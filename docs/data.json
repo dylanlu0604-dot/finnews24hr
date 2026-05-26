@@ -1,7 +1,85 @@
 {
-  "updated": "2026-05-26 22:02:04",
-  "count": 15262,
+  "updated": "2026-05-26 22:06:20",
+  "count": 15254,
   "items": [
+    {
+      "id": "4900748",
+      "time": "2026-05-26 22:05:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：普京將於 5 月 28 日在哈薩克經濟論壇上發表講話。"
+    },
+    {
+      "id": "mkt:019e6499-7fbd-7330-84b5-0a006953a2ab",
+      "time": "2026-05-26 22:04:01",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "TASS: Russia, Kazakhstan To Discuss Boosting Oil Transport Capacity"
+    },
+    {
+      "id": "4900747",
+      "time": "2026-05-26 22:03:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "【網際網路上機器使用的流量已超人類 智慧體成使用網際網路主角】資料顯示，2025年至2030年中國智慧體市場規模預計將從804億元增長至6968億元，年均複合增長率達到54%。當前，智慧體正逐漸成為人工智慧形成現實生產力的主要途徑。但在產業加速跑的同時，技術架構不統一、互動協議不相容等問題也日益凸顯。專家表示，面對這一新興產業，急需加快標準化工作，打破技術壁壘。專家指出，隨著智慧體成為直接使用網際網路的主角，網際網路本身也正在從“資訊交換的網”邁向“能力協同的網”。中國信通院人工智慧研究所所長：“2025年網際網路上來自機器的自動化流量佔比已經突破了53%，超過人類上網的流量。其中來自智慧體的流量更是在過去一年上漲了78倍。智慧體未來一定會成為直接使用網際網路的主角。”（央視財經）"
+    },
+    {
+      "id": "4900746",
+      "time": "2026-05-26 22:03:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：俄羅斯與哈薩克將商討擴大石油運輸通道運力。"
+    },
+    {
+      "id": "4900745",
+      "time": "2026-05-26 22:02:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外籍人士在美等綠卡或不再可行？美國最新移民政策調整引爭議，科技行業最受傷】“這個週末我接了好幾個身邊朋友的電話，都對這個政策非常擔心。它的打擊面非常廣。”美國陸律師事務所（Law Office of Lu & Associates）的管理律師陸穎26日告訴記者。 陸穎所說的政策指的是美國公民及移民服務局（USCIS）於當地時間5月22日釋出的一項新的移民政策備忘錄，其中要求除非特殊情況，身處美國境內、有意申請合法永久居留身份（綠卡）的外籍人士，必須返回本國遞交申請。 這一政策變化立刻引起了相關移民群體的關注甚至恐慌。USCIS新聞發言人扎克·卡勒（Zach Kahler）隨後澄清稱，這項新政策並不會適用於所有型別的移民，能夠“帶來經濟利益或符合國家利益”的申請者仍有可能沿用先前路徑推進申請，而其他型別的申請者則可能根據具體情況被要求在境外提出申請。 儘管如此，陸穎告訴第一財經，無論是備忘錄本身還是發言人的澄清都沒有明確說明，究竟哪些人、具備怎樣的條件，才能證明自己對美國具有“經濟利益”或符合“國家利益”。目前也不清楚正在審理中的身份調整申請是否會適用新政策。 （第一財經）"
+    },
+    {
+      "id": "4900744",
+      "time": "2026-05-26 22:02:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美媒：隨著美國空襲引發伊朗局勢緊張升級，特朗普將罕見造訪戴維營】隨著與伊朗的和平談判臨近關鍵時刻，美國總統特朗普將於週三罕見地造訪戴維營，並在那裡舉行內閣會議。預計所有內閣成員都將前往位於馬里蘭州鄉村地區的這座總統休養地，與特朗普會合。受惡劣天氣影響，會議地點可能會發生變動。據一位白宮官員透露，與會官員將討論“本屆政府近期取得的各項成就，其中包括經濟發展與小企業領域的成果、‘消除欺詐工作組’的重點工作亮點，以及外交政策方面的最新動態”。然而，鑑於美國此前對伊朗南部的目標實施了空襲，且隨後伊朗最高領袖穆傑塔巴發出了針對美國在中東軍事基地的威脅，伊朗問題極有可能成為此次會議的主導議題。"
+    },
+    {
+      "id": "mkt:019e6497-eed0-7330-84b5-0203040f3000",
+      "time": "2026-05-26 22:02:12",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【TRUMP To Make Rare Camp David Visit As US Airstrike Escalates Iran Tensions】NY Post: TRUMP To Visit Camp David Wednesday For Cabinet Meeting; All Cabinet Expected To Attend; Venue Rural Maryland, Weather Could Force Change; WHITE HOUSE Official Lists Agenda: Economic And Small-Business Wins, Anti-Fraud Task Force Highlights, Foreign-Policy Updates; Iran Likely Dominant Topic After US Strike On Southern Iran, Iran's Supreme Leader Mujtaba Threatens US Middle East Bases"
+    },
+    {
+      "id": "4900743",
+      "time": "2026-05-26 22:01:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：俄羅斯與哈薩克將簽署核電站相關協議。"
+    },
+    {
+      "id": "4900742",
+      "time": "2026-05-26 22:01:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "納斯達克100指數漲幅擴大至1.5%。"
+    },
     {
       "id": "4900741",
       "time": "2026-05-26 22:00:55",
@@ -68,6 +146,15 @@
         "國際"
       ],
       "text": "美國5月諮商會消費者信心指數 93.1，預期92，前值92.8。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202605263749991720",
+      "time": "2026-05-26 22:00:19",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國5月諮商會消費者信心指數93.1，預期92，前值92.8。"
     },
     {
       "id": "4900739",
@@ -136448,185 +136535,6 @@
         "Impact mixed"
       ],
       "text": "US TREASURY'S BESSENT SAYS TRUMP ADMINISTRATION NOT IN A HURRY TO EXTEND CHINA TRADE TRUCE DUE TO EXPIRE IN NOVEMBER BESSENT: WILL HAVE A MEETING WITH CHINESE VICE PREMIER HE LIFENG PRIOR TO XI'S SEPTEMBER VISIT TO WHITE HOUSE TO WORK OUT MORE DETAILS ON TRADE ARRANGEMENTS BESSENT: NEW SECTION 301 TARIFFS WON'T BE A PROBLEM FOR CHINA AS LONG AS THEY DO NOT EXCEED PRIOR LEVELS AGREED LAST NOVEMBER"
-    },
-    {
-      "id": "4888417",
-      "time": "2026-05-19 22:06:18",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納指跌1.01%，現報25827.422點；道指跌0.34%，現報49515.609點；標普500指數跌0.54%，現報7362.720點。"
-    },
-    {
-      "id": "4888416",
-      "time": "2026-05-19 22:06:09",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "訊息人士稱，沙特胡邁恩集團聘請高盛為其數十億美元規模的資料中心融資專案提供諮詢服務。"
-    },
-    {
-      "id": "4888415",
-      "time": "2026-05-19 22:06:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "【據港交所檔案：Xiaoe Inc.向港交所提交上市申請書】據港交所檔案：Xiaoe Inc.向港交所提交上市申請書。"
-    },
-    {
-      "id": "4888414",
-      "time": "2026-05-19 22:05:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "【張柱與荷蘭糧食安全、漁業及園藝大臣 埃爾肯斯共同主持召開中荷農業 高階別工作組第二十一次會議】5月19日，農業農村部部長張柱在京與荷蘭糧食安全、漁業及園藝大臣埃爾肯斯共同主持召開中荷農業高階別工作組第二十一次會議。 張柱表示，中荷是開放務實的全面合作伙伴，雙方農業高階別工作組機制執行順暢，雙邊農業貿易投資穩步發展，種業、設施農業、畜牧養殖、園藝業等領域務實合作日益密切，成果豐碩。中方願秉持開放發展、互利共贏原則，與荷方共同營造穩定、透明、可預期的合作環境，推進農業貿易、農業新質生產力、農業可持續發展合作不斷邁上新臺階。 埃爾肯斯表示，荷方高度重視對華農業合作，贊同中方關於深化雙邊農業交流合作的有關建議，希與中方繼續加強對話溝通，深化畜牧獸醫、農業科技、鹽鹼地改良、農業生物多樣性等領域合作。 農業農村部副部長張治禮、總農藝師潘文博參加會議。（中國政府網）"
-    },
-    {
-      "id": "mkt:019e408f-5b65-7aa9-b72a-46e6c9830449",
-      "time": "2026-05-19 22:05:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TOP NATO COMMANDER: US DECISION TO REDEPLOY AN ARMOURED BRIGADE FROM EUROPE WILL NOT IMPACT THE EXECUTABILITY OF NATO'S DEFENCE PLANS"
-    },
-    {
-      "id": "mkt:019e408f-5a0f-7aa9-b72a-3c3bfd75dd7d",
-      "time": "2026-05-19 22:05:29",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Hot",
-        "Policy",
-        "Breaking News 24h",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "US SANCTIONS SOME ENTITIES IN DUBAI, PANAMA, CHINA"
-    },
-    {
-      "id": "mkt:019e408f-4c11-700b-8fca-5aeeb84544df",
-      "time": "2026-05-19 22:05:19",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "NATO TO CONSIDER HORMUZ DEPLOYMENT IF STRAIT NOT OPEN BY JULY"
-    },
-    {
-      "id": "4888413",
-      "time": "2026-05-19 22:04:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗副外長：美國聲稱暫停打擊是為談判讓路，但這與持續發出的“大規模攻擊”威脅自相矛盾，這其實是變相的脅迫。投降不是伊朗的選擇。"
-    },
-    {
-      "id": "te:economy:551980",
-      "time": "2026-05-19 22:04:53",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Pending Home Sales MoM",
-        "Importance 2"
-      ],
-      "text": "US Pending Home Sales Rise for Third Straight Month — US pending home sales increased 1.4% month-over-month in April 2026, following an upwardly revised 1.7% gain in March and surpassing market expectations of 1%. This marks the third consecutive month of growth, with rises in the Northeast (6.6%), Midwest (3.0%), and West (0.4%). Year-over-year, pending sales climbed 3.2%. NAR Chief Economist Dr. Lawrence Yun noted, “Buyers are returning with cautious optimism despite economic uncertainty and a slight rise in mortgage rates. Demand would be even stronger if mortgage rates returned to earlier 2026 levels.” He added that historically low foreclosure sales mean minimal price discounts, with most markets seeing higher prices than a year ago. Yun warned, “Unless supply increases significantly, home price growth could outpace wage growth, further reducing homeownership rates. All efforts must focus on boosting housing supply.”"
-    },
-    {
-      "id": "4888412",
-      "time": "2026-05-19 22:04:44",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "如果霍爾木茲海峽在7月之前仍未開放，北約將考慮部署霍爾木茲號導彈系統。"
-    },
-    {
-      "id": "mkt:019e408e-1309-7aa9-b72a-2a1ab0aea400",
-      "time": "2026-05-19 22:04:04",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "NOVAK: RUSSIA TO BOOST OIL SUPPLIES TO CHINA VIA KAZAKHSTAN:IFX"
-    },
-    {
-      "id": "mkt:019e408d-5368-7aa9-b72a-20e7d6d80be7",
-      "time": "2026-05-19 22:03:49",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "U.S. ISSUES FRESH IRAN-RELATED SANCTIONS -TREASURY DEPT WEBSITE"
-    },
-    {
-      "id": "4888411",
-      "time": "2026-05-19 22:03:45",
-      "tags": [
-        "宏觀",
-        "焦點",
-        "國際"
-      ],
-      "text": "美國財政部官網：美國出臺新一輪涉伊朗制裁措施。"
-    },
-    {
-      "id": "4888410",
-      "time": "2026-05-19 22:03:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "科博達：向不特定物件發行可轉換公司債券申請獲得中國證券監督管理委員會同意。"
-    },
-    {
-      "id": "4888409",
-      "time": "2026-05-19 22:02:44",
-      "tags": [
-        "宏觀",
-        "公司",
-        "國際"
-      ],
-      "text": "【美財長呼籲進一步打擊伊朗的金融網路，並將審查美國的制裁名單】美國財長貝森特週二呼籲盟友加大對伊朗金融網路的打擊力度，並表示財政部將從制裁名單中刪除過時的認定內容，以便金融機構更容易揪出複雜的恐怖主義融資計劃。在七國集團財政領導人於巴黎舉行會議後的發言中，貝森特表示，與會者需要“全力與我們站在一起”，堅決反對伊朗。貝森特說：“這將要求，例如，我們的歐洲夥伴與美國一道對伊朗採取行動，包括將伊朗的資金提供者列入制裁名單、揭露其空殼公司和幌子公司、關閉其銀行分支機構，以及瓦解其代理機構。這也將要求中東和亞洲的各國幫助徹底剷除伊朗的影子銀行網路。”"
-    },
-    {
-      "id": "mkt:019e408b-ce6d-7aa9-b72a-1d0d569a8234",
-      "time": "2026-05-19 22:02:30",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "IRAN'S DEPUTY FOREIGN MINISTER SAYS IRAN PREPARED TO CONFRONT ANY MILITARY AGGRESSION"
-    },
-    {
-      "id": "4888408",
-      "time": "2026-05-19 22:02:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗副外長表示，伊朗已做好應對任何軍事侵略的準備。"
-    },
-    {
-      "id": "4888407",
-      "time": "2026-05-19 22:02:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：紅杉資本與 Stripe 聯合創始人聯合領投 Sendcut，融資規模達 1.1 億美元。"
     }
   ]
 }
