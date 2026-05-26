@@ -1,7 +1,64 @@
 {
-  "updated": "2026-05-27 04:50:39",
-  "count": 14950,
+  "updated": "2026-05-27 04:54:33",
+  "count": 14956,
   "items": [
+    {
+      "id": "mkt:019e6610-da5d-7332-8106-996159576b8e",
+      "time": "2026-05-27 04:54:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada Public Health Agency Suspends Immigration Documents From High/Very-High Ebola-Risk Countries For 90 Days"
+    },
+    {
+      "id": "4901003",
+      "time": "2026-05-27 04:53:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "週二（5月26日）紐約尾盤，現貨黃金跌1.45%，報4504.35美元/盎司，整體持續走低，北京時間02:05重新整理日低至4482.79美元。COMEX黃金期跌0.30%，報4542.50美元/盎司，亞太盤初漲至4615.60美元重新整理日高，隨後赤足走低，02:05也重新整理日低至4512.80美元。"
+    },
+    {
+      "id": "4901002",
+      "time": "2026-05-27 04:53:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯常駐聯合國代表涅本賈談及烏克蘭： 在達成任何協議之前，必須先消除整件事爆發的根源。 根源包括烏克蘭謀求加入北約、烏克蘭對俄羅斯構成的安全威脅、烏政權的新納粹屬性，以及當地俄語族群遭受迫害等問題。"
+    },
+    {
+      "id": "4901001",
+      "time": "2026-05-27 04:51:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大公共衛生局：過去21天內去過受影響地區且未出現症狀的人員，需進行21天隔離。"
+    },
+    {
+      "id": "4901000",
+      "time": "2026-05-27 04:51:27",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "瑞銀將美國航空集團的目標股價從每股16.00美元上調至每股18.00美元，維持美國航空集團買入評級。"
+    },
+    {
+      "id": "4900999",
+      "time": "2026-05-27 04:50:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大公共衛生局：將對來自埃博拉暴發高風險/極高風險國家的居民暫停簽發移民檔案，為期90天。"
+    },
+    {
+      "id": "4900998",
+      "time": "2026-05-27 04:50:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大公共衛生局：目前打算暫停為剛果（金）、烏干達、南蘇丹居民簽發移民檔案。"
+    },
     {
       "id": "4900997",
       "time": "2026-05-27 04:49:29",
@@ -133807,15 +133864,6 @@
         "Importance 1"
       ],
       "text": "TSX Falls as Mining Losses Weigh — The TSX fell 0.3% to close at 33,741 on Tuesday, pressured by losses in heavyweight mining stocks as gold prices declined. Agnico Eagle dropped 3.8%, Barrick lost 2.8%, and Wheaton Precious Metals shed 4.8%. Gold prices weakened as uncertainty surrounding the Middle East conflict and persistent inflation concerns continued to weigh on sentiment. Meanwhile, Canada’s annual inflation rate accelerated to 2.8% in April from 2.4% in March, largely driven by higher gasoline prices, though the reading came in below forecasts of 3.1%. Core inflation measures slowed more than expected to their lowest levels in five years, supporting the Bank of Canada’s view that energy-driven inflation pressures may eventually fade and easing concerns over further rate hikes. Most major banks traded higher, with BMO gaining 0.9%. Energy producers also advanced as oil prices remained elevated, with Canadian Natural up 2.8% and Suncor adding 1.9%."
-    },
-    {
-      "id": "4888873",
-      "time": "2026-05-20 04:51:10",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "AMC院線美股盤後漲6%，該公司CEO買入股票。"
     }
   ]
 }
