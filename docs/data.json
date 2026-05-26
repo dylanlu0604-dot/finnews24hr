@@ -1,7 +1,19 @@
 {
-  "updated": "2026-05-27 04:08:22",
-  "count": 14944,
+  "updated": "2026-05-27 04:12:16",
+  "count": 14940,
   "items": [
+    {
+      "id": "te:markets:553844",
+      "time": "2026-05-27 04:09:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "S&P and Nasdaq Close at Record Levels — The S&P 500 gained 0.6% on Tuesday and the Nasdaq climbed 1.2% to fresh record highs while the Dow Jones finished 118 points lower as investors returned from the long weekend with continued focus on developments in the Middle East. Markets remained cautiously optimistic that the US and Iran could still reach an agreement, with traders viewing the two sides as closer than ever to a deal despite mixed signals and further strikes. Technology, industrials, and materials led the market higher, while energy and consumer staples stocks posted the steepest declines. Among individual movers, Micron Technology surged 19.3%, pushing its market capitalization above $1 trillion for the first time after UBS raised its price target and said the stock could more than double. Alphabet rose 1.4%, Broadcom advanced 1.9%, and Tesla gained 1.8%. On the downside, Nvidia slipped 0.2%, while Microsoft and Amazon fell 0.6% and 0.4%, respectively. Exxon Mobil also declined 3.3% and Walmart was down 1.4%."
+    },
     {
       "id": "4900977",
       "time": "2026-05-27 04:05:19",
@@ -133719,57 +133731,6 @@
         "國際"
       ],
       "text": "據Semafor：特朗普將指派貝森特向銀行下達移民相關指導意見。"
-    },
-    {
-      "id": "mkt:019e41de-0c1b-7228-9b00-2cde06ca14fe",
-      "time": "2026-05-20 04:12:11",
-      "tags": [
-        "MKT News",
-        "Important",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "ECB'S KOCHER SEES JUNE RATE HIKE IF NO IMPROVEMENT IN IRAN WAR"
-    },
-    {
-      "id": "4888858",
-      "time": "2026-05-20 04:11:44",
-      "tags": [
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "歐洲央行官員KOCHER：若伊朗戰爭局勢沒有改善，6月可能加息。"
-    },
-    {
-      "id": "4888857",
-      "time": "2026-05-20 04:11:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "據Semafor：特朗普放棄要求銀行收集公民身份資訊的相關舉措。"
-    },
-    {
-      "id": "te:markets:552030",
-      "time": "2026-05-20 04:10:23",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Keysight Technologies earnings above expectations at 2.87 USD — Keysight Technologies (KEYS) released earnings per share at 2.87 USD, compared to market expectations of 2.31 USD."
-    },
-    {
-      "id": "4888856",
-      "time": "2026-05-20 04:10:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "【科學家棄用最糟氣候情景預測，引發特朗普發文嘲諷】美國總統特朗普在社交媒體上聲稱，聯合國已承認其名為RCP8.5的氣候預測模型是錯誤的。然而科學家對此反駁稱，棄用該情景是因為近期關於碳排放路徑的最新研究表明其已不再切合實際。 氣候模擬專家Detlef van Vuuren指出，RCP8.5的退役實際上是全球各國推行氣候政策以及清潔能源產業蓬勃發展的結果，這使得舊有的“最壞情況”失去了發生的可能性。科學家們強調，此次修正並不會否定過去使用RCP8.5進行的科學研究；同時，地球目前的實際碳排放軌跡依然明顯高於中等排放路徑，未來的氣候形勢仍然相當嚴峻。"
     }
   ]
 }
