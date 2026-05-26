@@ -1,7 +1,83 @@
 {
-  "updated": "2026-05-26 10:26:16",
+  "updated": "2026-05-26 10:30:12",
   "count": 15563,
   "items": [
+    {
+      "id": "4899477",
+      "time": "2026-05-26 10:29:02",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【廣州5月以來房地產市場活躍度不斷提升】5月26日，廣州市召開《關於進一步促進房地產市場平穩健康發展的實施意見》系列配套檔案新聞釋出會。廣州市政府副秘書長黃光烈介紹，4月30日，廣州市出臺《關於進一步促進房地產市場平穩健康發展的實施意見》（即“穗八條”），隨著政策效應持續釋放，市場活躍度不斷提升。5月以來，全市重點一手樓盤周到訪量、認購量、網籤量分別環比提高26.9%、36.9%和11.4%；二手住宅周簽約量環比提高9.3%，新增掛牌量同比減少16.7%。住房公積金新政落地見效，共受理貸款4484筆、金額47.46億元，同比分別增長47.05%和56.43%。"
+    },
+    {
+      "id": "4899476",
+      "time": "2026-05-26 10:28:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【勝宏科技港股漲超8%】勝宏科技港股漲8.03%，報435.80港元。"
+    },
+    {
+      "id": "4899475",
+      "time": "2026-05-26 10:28:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "【貴金屬板塊短線拉昇，招金黃金漲停】貴金屬板塊短線拉昇，招金黃金漲停，西部黃金、山金國際、紫金礦業、赤峰黃金、曉程科技跟漲。"
+    },
+    {
+      "id": "4899474",
+      "time": "2026-05-26 10:27:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【投毒殺人者、 三體公司原CEO許垚被執行死刑】2026年5月21日，備受關注的投毒殺人者、三體宇宙（上海）文化發展有限公司原CEO（即“執行長”）許垚，被執行死刑。2026年5月22日至26日，多位訊息人士向記者證實了上述訊息。5月21日當天，許垚投毒案中的一位受害者，在社交媒體上留言感慨：“正義，雖遲但到。”（經濟觀察報）"
+    },
+    {
+      "id": "te:economy:553573",
+      "time": "2026-05-26 10:27:36",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Australia 10Y Yield Rises Ahead of CPI — Australia’s 10-year government bond yield rose above 4.9%, attempting to recover from a six-week low as fresh US strikes on Iran dampened hopes for a peace deal, while markets awaited key domestic inflation data. April CPI due this week is expected to show consumer prices rising 0.6% month-on-month, with annual inflation easing slightly to 4.4% from 4.6%, largely due to a government fuel tax break. However, the RBA’s preferred trimmed mean measure is forecast to accelerate to 3.4% annually from 3.3%, reflecting rising transport and logistics costs across a broad range of industries. A stronger inflation reading could strengthen the case for further policy tightening, although markets currently assign only a 10–12% chance of a 25-bp rate hike in June, while the odds of an August increase stand near 50%. Elsewhere, oil prices advanced after reports of fresh military strikes in Iran clouded prospects for an interim agreement between Tehran and Washington to reopen the Strait of Hormuz."
+    },
+    {
+      "id": "4899473",
+      "time": "2026-05-26 10:27:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "深證成指轉漲，此前一度跌超1%；滬指跌幅收窄至0.38%，創業板指現漲0.6%。"
+    },
+    {
+      "id": "4899472",
+      "time": "2026-05-26 10:27:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "【廣州二手住宅掛牌量連續7個月回落】5月26日，廣州市召開《關於進一步促進房地產市場平穩健康發展的實施意見》系列配套檔案新聞釋出會。廣州市政府副秘書長黃光烈介紹，今年以來，廣州市房地產市場總體呈現“量價回穩、結構最佳化、庫存減少”的向好特徵。1-4月，全市一手商品房網籤面積315.4萬平方米，同比增長9.2%；一、二手住宅房價指數均連續兩個月環比上漲，房價走勢趨於穩健；二手住宅掛牌量連續7個月回落，存量市場供需關係持續改善。"
+    },
+    {
+      "id": "4899471",
+      "time": "2026-05-26 10:26:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼盾對美元匯率創下歷史新低，跌至17,765。"
+    },
+    {
+      "id": "4899470",
+      "time": "2026-05-26 10:26:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【病毒防治概念表現活躍 之江生物漲超10%】病毒防治概念表現活躍，之江生物漲超10%，達安基因、新產業、萬孚生物跟漲。"
+    },
     {
       "id": "4899469",
       "time": "2026-05-26 10:25:31",
@@ -3732,6 +3808,18 @@
         "國際"
       ],
       "text": "以色列軍方表示，正在襲擊黎巴嫩貝卡谷地及其他多個區域的真主黨基礎設施。"
+    },
+    {
+      "id": "mkt:019e621b-d4e7-7dd8-b21d-c4f0a5b37536",
+      "time": "2026-05-26 02:27:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Indonesia Rupiah Drops To Record Low 17,765/USD"
     },
     {
       "id": "mkt:019e6219-fc40-7dd8-b21d-bc4ef6e0d80a",
@@ -139145,97 +139233,6 @@
         "其他"
       ],
       "text": "【廈門象嶼太平灣植物蛋白加工專案主體綜合樓封頂 預計年底試生產】據廈門象嶼訊息，近日，廈門象嶼太平灣植物蛋白加工專案（簡稱“太平灣專案”）主體綜合樓順利封頂，並正加速從土建施工向裝置安裝階段過渡。該專案位於太平灣合作創新區糧油供應鏈產業園，總投資約10億元，佔地面積130.31畝。太平灣專案集植物蛋白加工、倉儲、貿易、物流於一體，全面建成投產後，預計年營業收入超60億元，年大豆加工能力達180萬噸，將顯著提升東北地區蛋白飼料及食用油脂的保供能力。按計劃，專案將於12月底正式進入試生產階段。"
-    },
-    {
-      "id": "4886996",
-      "time": "2026-05-19 10:30:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時中國A50指數期貨下跌1%。"
-    },
-    {
-      "id": "4886995",
-      "time": "2026-05-19 10:29:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2026年全民數字素養與技能提升月啟動】以“文明網路空間 昂揚奮進力量”為主題的2026年中國網路文明大會，5月19日在廣西壯族自治區南寧市開幕，大會上舉行了2026年全民數字素養與技能提升月啟動儀式。本次提升月以“數智賦能 全民共享”為主題，將舉辦全民數字素養與技能提升論壇、全民共享美好數字生活宣傳活動等系列活動，以更加貼近群眾、貼近生活的內容和更具知識性、趣味性、互動性的形式，營造全民參與、全民提升的良好氛圍。"
-    },
-    {
-      "id": "te:economy:551770",
-      "time": "2026-05-19 10:29:24",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "US 10-Year Yield Holds Steady — The yield on the US 10-year Treasury note hovered around 4.6% on Tuesday, pausing its recent climb as renewed optimism surrounding a potential US-Iran agreement eased concerns about inflation and further interest rate hikes. President Donald Trump said he suspended a planned strike on Iran scheduled for Tuesday after appeals from Saudi Arabia, Qatar, and the UAE, adding that the Gulf nations believed a deal with Tehran acceptable to Washington could still be achieved. Even so, the benchmark yield remained near its highest levels in more than a year as elevated oil prices linked to the Middle East conflict and accelerating US inflation led traders to rule out Federal Reserve rate cuts this year, while also boosting speculation that the Fed could still raise rates before year-end. Investors are now awaiting the latest FOMC minutes and flash US PMI data for additional clues on the outlook for monetary policy and economic activity."
-    },
-    {
-      "id": "4886994",
-      "time": "2026-05-19 10:28:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【大眾汽車將發行30億元熊貓債】5月19日，大眾汽車國際金融股份公司釋出公告，公司2026年度第一期中期票據（債券通）申購啟動。本期債券的本金總額為不超過人民幣30億元，其中品種一的初始發行規模為人民幣20億元，期限為三年，申購利率區間為1.70%-2.50%；品種二的初始發行規模為人民幣10億元，期限為五年，申購利率區間為1.85%-2.65%。"
-    },
-    {
-      "id": "4886993",
-      "time": "2026-05-19 10:28:32",
-      "tags": [
-        "市場"
-      ],
-      "text": "【電力板塊持續走強 上海電力等多股漲停】電力板塊持續走強，上海電力、華能蒙電、廣西能源漲停，涪陵電力、京能電力等股跟漲。"
-    },
-    {
-      "id": "mkt:019e3e0f-fcfa-7aa9-b722-13eaac89734f",
-      "time": "2026-05-19 10:28:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TRUMP POSTS WHITE HOUSE NOTICE SAYING EPA TERMINATED ITS ENVIRONMENTAL JUSTICE DEPT"
-    },
-    {
-      "id": "4886992",
-      "time": "2026-05-19 10:27:33",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "特朗普釋出白宮公告稱，美國環境保護署已撤銷其環境正義部門。"
-    },
-    {
-      "id": "4886991",
-      "time": "2026-05-19 10:27:11",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期銀失守77美元/盎司，日內跌0.58%。"
-    },
-    {
-      "id": "4886990",
-      "time": "2026-05-19 10:26:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度4月份液化天然氣進口量同比下降29.7%，產量下降4.2%。"
-    },
-    {
-      "id": "mkt:019e3e0e-929c-7aa9-b722-0f593af2e40c",
-      "time": "2026-05-19 10:26:42",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish"
-      ],
-      "text": "CHINA'S CSI RARE EARTH INDEX DOWN 3%"
     }
   ]
 }
