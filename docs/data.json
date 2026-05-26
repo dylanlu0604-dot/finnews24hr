@@ -1,7 +1,15 @@
 {
-  "updated": "2026-05-26 12:43:15",
-  "count": 15550,
+  "updated": "2026-05-26 12:47:08",
+  "count": 15547,
   "items": [
+    {
+      "id": "4899624",
+      "time": "2026-05-26 12:43:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【四川省與鞍鋼集團簽署戰略合作框架協議】5月25日，四川省人民政府與鞍鋼集團有限公司在成都簽署戰略合作框架協議。 根據協議，雙方將聚焦推進釩鈦戰略資源綠色高效開發、打造世界級釩鈦新材料產業叢集、推動鋼鐵產業轉型升級與協同發展、深化科技創新與人才高地建設、加快智改數轉與數字經濟融合等領域開展全方位合作，促進創新鏈、產業鏈、資金鍊、人才鏈深度融合，實現共同發展。"
+    },
     {
       "id": "4899623",
       "time": "2026-05-26 12:41:17",
@@ -4880,12 +4888,33 @@
       "text": "【半島電視臺：美伊就資產解凍問題達成諒解】卡達半島電視臺25日報道，一名瞭解伊朗高階代表團在多哈會談情況的訊息人士表示，在卡達斡旋下，美國與伊朗已就伊朗被凍結金融資產問題達成一項諒解。該訊息人士說，由於被凍結金融資產問題對伊朗至關重要，美伊雙方“很有可能”於明天宣佈達成協議。卡達外交部一名官員當天告訴新華社記者，一個伊朗高階代表團正在多哈參加會談，代表團成員包括伊朗伊斯蘭議會議長卡利巴夫和外交部長阿拉格齊。此次會談旨在討論美伊間達成協議、結束戰爭的可能性，將重點討論霍爾木茲海峽、伊朗高濃縮鈾庫存、伊朗海外被凍結資金等問題。伊朗央行行長在代表團中負責討論最終協議可能涉及的金融相關事項。（新華社）"
     },
     {
+      "id": "mkt:019e629a-5672-7dd8-b21e-794b12d71b57",
+      "time": "2026-05-26 04:45:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot Gold Falls 1.00% Intraday to $4,524.84/oz"
+    },
+    {
       "id": "4899120",
       "time": "2026-05-26 04:44:47",
       "tags": [
         "公司"
       ],
       "text": "【智利國家銅業公司即將卸任的主席同時辭去鋰業合資公司職務】智利國營的智利國家銅業公司（Codelco）主席Maximo Pacheco宣佈卸任，同時也將辭去Nova Andino Litio公司的董事會職務。該公司是Codelco與智利化工礦業公司（SQM）成立的鋰業合資企業。在寫給Codelco新任主席Bernardo Fontaine的信中，Pacheco坦言，他的辭職是因為某些部門和階層此前一直在施壓、企圖迫使其離開公司。Pacheco此番徹底離職之際，Codelco正面臨著外界高度審視。上週，該公司在一項內部審計後宣佈，已解僱一名高管並處分了其他相關人員，原因是他們錯誤地彙報了2025年的銅產量。"
+    },
+    {
+      "id": "mkt:019e6298-4bd1-7dd8-b21e-743024971791",
+      "time": "2026-05-26 04:43:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia PM Meets UAE Minister Reem Al Hashimy; Discusses Security Cooperation, Thanks Support For Australians"
     },
     {
       "id": "4899119",
@@ -139075,59 +139104,6 @@
         "國際"
       ],
       "text": "印尼股市基準指數擴大跌幅至3%，報6403.80點。"
-    },
-    {
-      "id": "4887166",
-      "time": "2026-05-19 12:46:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "【阿里千問大模型Qwen3.7 Max預覽版即將釋出】阿里千問大模型Qwen3.7 Max預覽版和 Qwen3.7 Plus預覽版即將釋出。Arena（前大模型競技場）的評測中，Qwen3.7-Max-Preview在文字領域排名第13，同時也是國產排名第一的模型。在視覺領域，Qwen3.7-Plus-Preview排名第16，同樣是排行榜上國產排名第一的模型。"
-    },
-    {
-      "id": "4887165",
-      "time": "2026-05-19 12:46:20",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "泰國財政部：內閣已批准民生消費補貼方案。"
-    },
-    {
-      "id": "4887164",
-      "time": "2026-05-19 12:46:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "【渣打CEO直言不諱地表示人工智慧將取代“低價值人力資本”】渣打執行長溫拓思就員工隊伍前景發表了直言不諱的言論，警告稱隨著這家銀行以技術取代“低價值人力資本”，人工智慧(AI)的推進將導致數以千計的崗位遭淘汰。該行週二公佈了一項計劃，擬透過擴大人工智慧應用來精簡運營結構，在2030年前裁減超過15%的支援類崗位。截至去年底，這類崗位員工約為5.2萬人。溫拓思在香港的簡報會上表示：“這並不是簡單的降成本，而是在某些情況下，用我們投入的金融資本和投資資本替代低價值的人力資本。”他補充稱，受影響員工將提前獲得“明確充分的通知”。他說：“我們不是減少工作，但確實減少了崗位數量，以讓位給機器，這一趨勢隨著人工智慧的推進將不斷加速。”"
-    },
-    {
-      "id": "4887163",
-      "time": "2026-05-19 12:45:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【惠譽：亞太保險公司的私募信貸敞口料可控】惠譽國際評級在一份報告中表示，鑑於保險公司投資組合中的配置有限，亞太地區主要保險公司的私募信貸敞口料將可控。惠譽表示，儘管過去幾年保險公司為提高收益率和投資組合多樣性而增加了對該資產類別的配置，但2025年該資產類別的配置通常低於保險公司總資產的5%。惠譽表示，即使私募信貸在亞太地區保險公司的投資戰略中變得更加成熟，其投資組合的風險狀況也沒有發生重大變化。該評級公司補充稱，保險公司應該能夠透過跨地域分散投資和保守的行業選擇等控制措施來應對私募信貸風險。惠譽補充稱，不過，由於私募信貸缺乏流動性且透明度較低，監控估值、違約和其他領域仍然很重要。"
-    },
-    {
-      "id": "4887162",
-      "time": "2026-05-19 12:44:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "德國政府啟動能源巨頭尤尼珀（Uniper）私有化程序，德國政府表示，優尼珀的選項包括併購和IPO。"
-    },
-    {
-      "id": "te:economy:551805",
-      "time": "2026-05-19 12:43:20",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Industrial Production Mom",
-        "Importance 1"
-      ],
-      "text": "Japan Industrial Output Falls Less than Initially Thought — Japan’s industrial production dropped 0.4% mom in March 2026, compared with the flash figure of a 0.5% decline. It was the second straight month of contraction, as external headwinds continued to weigh on the sector. Lower output was recorded for inorganic and organic chemicals (-8.6% vs -3.5% in February), general-purpose and business-oriented machinery (-4.3% vs -0.3%), and petroleum and coal products (-7.7% vs -4.1%). In contrast, production grew for transport equipment, excluding motor vehicles (13.4% vs -7.3%), production machinery (1.4% vs -1.7%), and electronic parts and devices (1.7% vs -3.5%). On an annual basis, output increased 2.4%, picking up from a 0.4% rise in February and marking the fastest pace since June 2025."
     }
   ]
 }
