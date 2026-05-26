@@ -1,7 +1,30 @@
 {
-  "updated": "2026-05-26 14:02:06",
-  "count": 15545,
+  "updated": "2026-05-26 14:06:02",
+  "count": 15538,
   "items": [
+    {
+      "id": "mkt:019e62e2-6814-7ff6-adfb-aa3bc4e65fd4",
+      "time": "2026-05-26 14:04:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China Defense Minister Expected to Skip Shangri-La Dialogue Again】Dong Jun is expected to miss the Shangri-La Dialogue in Singapore for a second consecutive year, according to people familiar with the matter. China is instead expected to send a lower-profile delegation from the People’s Liberation Army National Defense University. The reason for Dong’s expected absence was not disclosed, and the plans could still change before the forum begins this weekend."
+    },
+    {
+      "id": "mkt:019e62e1-68a9-7ff6-adfb-a12ce8627d5c",
+      "time": "2026-05-26 14:03:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bearish",
+        "FTSE100",
+        "Impact bullish"
+      ],
+      "text": "EUROSTOXX 50 FUTURES DOWN 0.36%, DAX FUTURES DOWN 0.39%, FTSE FUTURES UP 0.16%"
+    },
     {
       "id": "4899692",
       "time": "2026-05-26 14:01:14",
@@ -139027,87 +139050,6 @@
         "市場"
       ],
       "text": "【半導體裝置板塊持續走強 耐科裝備20cm漲停創歷史新高】午後半導體裝置板塊持續走強，耐科裝備20cm漲停，中科飛測、中微公司漲超7%，均創歷史新高，此前聖暉整合漲停，長川科技、拓荊科技、盛美上海等跟漲。"
-    },
-    {
-      "id": "4887261",
-      "time": "2026-05-19 14:05:27",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【中韓半導體ETF再提示溢價風險 年內已提示140次】今天下午，中韓半導體ETF華泰柏瑞再發公告提示溢價風險。 截至5月18日，該ETF年內累計釋出溢價風險提示公告140次，實施停牌64次，其中包含3次盤中臨時停牌，這也意味著。從5月13日到5月19日，再增加5次風險提示。截至發稿前，該ETF今天盤中跌3.36%；溢價23.7%，較前一日的25.73%有所回落。"
-    },
-    {
-      "id": "4887260",
-      "time": "2026-05-19 14:05:03",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "印尼國會副議長將在印尼證交所相關事宜後到訪央行。"
-    },
-    {
-      "id": "te:markets:551814",
-      "time": "2026-05-19 14:04:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "NZX 50 Snaps 5-Day Losing Streak, Ends 1.7% Higher — The NZX 50 increased 211 points, or 1.7%, to 12,974 on Tuesday, snapping a five-session losing streak, as traders took profits after the index hit its lowest level since March 30 a day earlier. The broader index rose, with almost all sectors trading in the green, led by energy stocks amid easing US-Iran tensions after President Trump postponed a planned strike on Iran. Fresh data also lifted sentiment, with New Zealand’s input and output prices rising by 1.4% and 0.8%, respectively, in Q1, both surpassing market expectations. However, traders remained cautious ahead of the PBOC’s interest rate decision due Wednesday, following disappointing Chinese economic data released on Monday. Fisher & Paykel Healthcare jumped 4.0%, Mainfreight soared 3.4%, Contact Energy and Freightways surged 2.7% each, Summerset Group Holdings soared 4.2%, South Port New Zealand increased 3.4%, while Westpac Banking Corporation and ANZ Group rose 1.7% and 1.6%, respectively."
-    },
-    {
-      "id": "4887259",
-      "time": "2026-05-19 14:04:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "貴州發行7年期一般債地方債，規模249.8287億元，發行利率1.6700%，邊際倍數2.04倍，倍數預期1.67。"
-    },
-    {
-      "id": "4887258",
-      "time": "2026-05-19 14:04:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "英鎊在英國就業資料公佈後小幅走低，最新下跌0.19%，報1.3407美元。"
-    },
-    {
-      "id": "4887257",
-      "time": "2026-05-19 14:03:50",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【波蘭前司法部長赴美“避難” 美國務院“二把手”被曝“開綠燈”】多名知情人士向媒體披露，美國國務院常務副國務卿克里斯托弗·蘭多下令給波蘭前司法部長茲比格涅夫·焦布羅發放簽證，從而使後者得以進入美國“避難”。焦布羅現年55歲，目前在波蘭面臨26項指控，波蘭檢方正尋求起訴他。其中一項指控為挪用幫助犯罪受害者的基金謀取政治利益，包括採購“飛馬”間諜軟體。該軟體據稱曾被用於監控國內政敵。焦布羅否認全部指控，稱遭到現任親歐盟執政聯盟的政治打壓。（新華社）"
-    },
-    {
-      "id": "4887256",
-      "time": "2026-05-19 14:02:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "斯特蘭蒂斯集團：確定義大利波米利亞諾工廠負責電動汽車生產。"
-    },
-    {
-      "id": "4887255",
-      "time": "2026-05-19 14:02:10",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【金融港股走勢分歧 中國人保和招商證券漲超6%】金融港股午後走勢分歧。截至發稿，中國人民保險集團(01339.HK)漲6%，盤中一度漲近9%；招商證券(06099.HK)漲6%；中國人壽(02628.HK)跌3%。"
-    },
-    {
-      "id": "4887254",
-      "time": "2026-05-19 14:02:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "香港天文臺：取消黃色暴雨警告訊號。"
     }
   ]
 }
