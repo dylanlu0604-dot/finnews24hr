@@ -1,7 +1,172 @@
 {
-  "updated": "2026-05-26 21:57:56",
-  "count": 15261,
+  "updated": "2026-05-26 22:02:04",
+  "count": 15262,
   "items": [
+    {
+      "id": "4900741",
+      "time": "2026-05-26 22:00:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國5月諮商會消費者現況指數 121.2，前值123.8。\n美國5月諮商會消費者預期指數 74.4，前值72.2。"
+    },
+    {
+      "id": "mkt:019e6496-c7f1-7330-84b4-fbb9e47e4a18",
+      "time": "2026-05-26 22:00:55",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "U.S. Conference Board Consumer Expectations 74.4 May; Prior 72.2"
+    },
+    {
+      "id": "mkt:019e6496-811c-7330-84b4-f6e0a06757cf",
+      "time": "2026-05-26 22:00:43",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "US Conference Board Present Situation Index Falls To 121.2 In May From 123.8"
+    },
+    {
+      "id": "mkt:019e6496-80c3-7330-84b4-ec7b1cdc3d0f",
+      "time": "2026-05-26 22:00:42",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Conference Board Expectations Index (May) | actual 74.4 | previous 72.2"
+    },
+    {
+      "id": "mkt:019e6496-7ec0-7330-84b4-e1d875eb2cde",
+      "time": "2026-05-26 22:00:33",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Conference Board Current Conditions Index (May) | actual 121.2 | previous 123.8"
+    },
+    {
+      "id": "4900740",
+      "time": "2026-05-26 22:00:20",
+      "tags": [
+        "資料",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國5月諮商會消費者信心指數 93.1，預期92，前值92.8。"
+    },
+    {
+      "id": "4900739",
+      "time": "2026-05-26 22:00:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以色列空襲加沙地帶中部致5人死亡】巴勒斯坦加沙地帶安全和醫療部門訊息人士26日告訴新華社記者，以軍當天對加沙地帶中部邁加齊難民營發動空襲，造成5人死亡。加沙地帶安全部門訊息人士和目擊者稱，以色列無人機當天上午襲擊了一群巴勒斯坦人。加沙地帶醫療部門訊息人士稱，以色列空襲後，5名遇難者遺體和多名傷者被送往醫院。以色列軍方尚未就此次空襲發表宣告。加沙地帶衛生部門26日釋出的報告顯示，自2025年10月10日停火協議生效以來，已有900多名巴勒斯坦人在以方軍事行動中死亡、2000多人受傷。（新華社）"
+    },
+    {
+      "id": "mkt:019e6496-0591-7330-84b4-dbbfbf6a439c",
+      "time": "2026-05-26 22:00:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "S&P500",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "US Conference Board Consumer Confidence Index May 93.1, Est 92, Apr 92.8"
+    },
+    {
+      "id": "mkt:019e6495-f2e7-7330-84b4-d014eab06410",
+      "time": "2026-05-26 22:00:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RCN TV: Colombia Electoral Interference Investigation Committee To Probe President Gustavo Petro"
+    },
+    {
+      "id": "mkt:019e6495-d243-7330-84b4-cd16559a44db",
+      "time": "2026-05-26 22:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Conference Board Consumer Confidence Index (May) | actual 93.1 | consensus 92 | previous 92.8"
+    },
+    {
+      "id": "te:markets:553797",
+      "time": "2026-05-26 21:59:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "GSCI Hits 4-week Low — GSCI decreased to 710.55 Index Points, the lowest since April 2026. Over the past 4 weeks, GSCI Commodity Index lost 2.38%, and in the last 12 months, it increased 35.72%."
+    },
+    {
+      "id": "4900738",
+      "time": "2026-05-26 21:59:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：哥倫比亞成立專項小組，調查哥倫比亞總統佩特羅涉嫌干預選舉一事。"
+    },
+    {
+      "id": "4900737",
+      "time": "2026-05-26 21:58:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【水利部：推動建立水預算管理制度 “像管錢一樣管水”】記者26日從水利部在寧夏銀川市召開的水預算管理試點建設現場會上獲悉，水利部將推動水預算管理制度加快建立落地，力爭在“十五五”期間實現水預算管理全覆蓋，相關制度政策標準體系基本完善，節水基礎設施短板基本補齊，水資源精細化管理水平明顯提升。水預算管理，核心就是將財政預算理念融入水資源全週期管理，“像管錢一樣管水”，實現水資源精細化管理和高效配置。自2024年全國水預算管理試點工作啟動以來，水利部統籌推動全國20個、省級78個試點建設，形成一批可複製可推廣的經驗做法。 (新華社)"
+    },
+    {
+      "id": "4900736",
+      "time": "2026-05-26 21:58:08",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【雞蛋期貨上演“淡季逆襲” 上市公司稱直接影響有限】在現貨供應偏緊、庫存極低與資金湧入的共同推動下，雞蛋期貨主力2607合約強勢突破，創下上市以來新高，上演了一波凌厲的“淡季逆襲”行情。曉鳴股份表示，農產品單邊上漲行情通常難以持續，需關注行業螺旋式發展中的波動性。禽業龍頭聖農發展認為，此輪蛋價上漲源於其自身週期反彈，與肉雞行業無關。此外，由於缺乏對應的期貨工具，公司也無法利用雞蛋或生豬期貨來對沖肉雞業務的價格風險。 (每經網)"
+    },
+    {
+      "id": "te:markets:553796",
+      "time": "2026-05-26 21:57:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Western Digital Stock Price Hits All-time High — Western Digital shares increased to an all-time high of 525.24 USD. Over the past 4 weeks, Western Digital gained 30.8%, and in the last 12 months, it increased 911.5%."
+    },
+    {
+      "id": "4900735",
+      "time": "2026-05-26 21:57:29",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【陳剛韋韜會見中國黃金集團周洲殷長波 共同見證雙方簽署戰略合作框架協議】5月26日，廣西壯族自治區黨委書記、自治區人大常委會主任陳剛，自治區主席韋韜在南寧會見中國黃金集團有限公司董事長周洲、總經理殷長波一行，共同見證自治區政府與中國黃金集團簽署戰略合作框架協議。陳剛、韋韜代表自治區黨委、政府對中國黃金集團長期以來給予廣西發展的大力支援表示感謝。陳剛表示，廣西深入貫徹落實習近平總書記關於廣西工作論述的重要要求，搶抓高水平共建西部陸海新通道等重大機遇，持續擴大對內對外開放，加快打造製造業十大現代化支柱產業，全力推進有色金屬產業特別是關鍵金屬產業高階化、智慧化、綠色化、規模化、園區化發展，因地制宜發展新質生產力，加快推動高質量發展。廣西是中國有色金屬之鄉，礦產資源豐富，區位優勢獨特，雙方合作潛力巨大。希望中國黃金集團進一步加大在桂投資佈局力度，共同落實好戰略合作框架協議，在礦權整合、科技創新、產業鏈延伸等方面深化合作，攜手推動廣西礦業“走出去”，共同打造國家級關鍵金屬產業叢集，實現互利共贏、共同發展。（廣西釋出）"
+    },
     {
       "id": "mkt:019e6493-5110-7330-84b4-c19423873fad",
       "time": "2026-05-26 21:57:16",
@@ -136462,147 +136627,6 @@
         "其他"
       ],
       "text": "市場訊息：紅杉資本與 Stripe 聯合創始人聯合領投 Sendcut，融資規模達 1.1 億美元。"
-    },
-    {
-      "id": "4888406",
-      "time": "2026-05-19 22:01:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗副外長表示，美國正將“威脅”包裝成“和平機遇”進行兜售。"
-    },
-    {
-      "id": "mkt:019e408b-2be0-7aa9-b72a-16c66823e0b2",
-      "time": "2026-05-19 22:01:58",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "IRAN'S DEPUTY FOREIGN MINISTER SAYS U.S. IS PRESENTING 'THREAT' AS 'OPPORTUNITY FOR PEACE'"
-    },
-    {
-      "id": "4888405",
-      "time": "2026-05-19 22:01:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國金融業監管局將審查高風險結構性金融產品。"
-    },
-    {
-      "id": "4888404",
-      "time": "2026-05-19 22:01:27",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【藍帆醫療：PVC手套業務從第二季度開始將明確盈利】藍帆醫療5月19日在業績說明會上表示，丁腈手套價格自2026年一季度末起已實現顯著上漲，近期訂單價格較年初水平接近翻倍，目前接單價格仍維持在近期高位水平。從一季度情況看，丁腈手套單支盈利已明顯回升，且成本仍有進一步改善預期，有望進一步與國內領先競對縮小差距；PVC手套也實現微利。進入二季度，公司因提前儲備低價原輔材料、持續技術改造及熱電聯產進一步升級，綜合成本有望處於領先位置。丁腈手套的單支利潤彈性更大，PVC手套業務從第二季度開始也將明確盈利。預計全年將在一季度已實現開門紅的基礎上，釋放較高利潤彈性。"
-    },
-    {
-      "id": "4888403",
-      "time": "2026-05-19 22:01:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "GIPHY：GIPHY庫將繼續為Meta旗下所有應用提供GIF動圖與表情包支援。"
-    },
-    {
-      "id": "4888402",
-      "time": "2026-05-19 22:01:14",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【5月19日增減持彙總】據統計，5月19日盤後，通用電梯、岱勒新材、隆揚電子、富祥股份、錦富技術、強瑞技術、安孚科技、肯特催化、海星股份、壹石通、江蘇北人、興福電子、菱電電控、正帆科技14家上市公司披露擬減持情況。當日暫無A股公司披露增持情況。"
-    },
-    {
-      "id": "4888401",
-      "time": "2026-05-19 22:00:52",
-      "tags": [
-        "資料",
-        "國際"
-      ],
-      "text": "美國4月未季調成屋簽約銷售指數年率 3.3%，前值1.80%。"
-    },
-    {
-      "id": "4888400",
-      "time": "2026-05-19 22:00:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【鼎龍股份：CMP拋光硬墊月產能已提升至5萬片】鼎龍股份(300054.SZ)釋出投資者關係活動記錄表公告，截至2026年一季度末，武漢本部CMP拋光硬墊月產能已提升至5萬片（年產約60萬片），較上年同期穩步擴容，產能利用率隨核心客戶訂單飽滿持續走高，充分匹配下游頭部晶圓廠擴產節奏。公司產能建設節奏與下游頭部晶圓廠擴產週期、耗材需求增量精準匹配，能夠充分滿足頭部客戶短期增量訂單及中長期持續放量的供貨需求。同時，公司具備完善的供應鏈保障、原材料自主製備及彈性產能調配能力，可靈活適配不同製程、不同規格拋光墊的批次交付需求。"
-    },
-    {
-      "id": "mkt:019e4089-e7ca-7aa9-b72a-0ac4094b8c6f",
-      "time": "2026-05-19 22:00:37",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Existing Home Sales (YoY) (Apr) | actual 3.3% | previous 1.80%"
-    },
-    {
-      "id": "em:jjsj_mgsj:202605193742317653",
-      "time": "2026-05-19 22:00:28",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "美國4月份二手房簽約量環比增長1.4%，預估為1.0%。"
-    },
-    {
-      "id": "4888399",
-      "time": "2026-05-19 22:00:19",
-      "tags": [
-        "資料",
-        "國際"
-      ],
-      "text": "美國4月成屋簽約銷售指數月率 1.4%，預期1%，前值由1.50%修正為1.7%。美國4月成屋簽約銷售指數 74.8，前值由73.7修正為73.8。"
-    },
-    {
-      "id": "mkt:019e4089-8de0-7aa9-b72a-015f5c25a659",
-      "time": "2026-05-19 22:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Existing Home Sales (Apr) | actual 74.8 | previous 73.7"
-    },
-    {
-      "id": "mkt:019e4089-4c56-7aa9-b729-fcac180eb4bb",
-      "time": "2026-05-19 22:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Existing Home Sales (MoM) (Apr) | actual 1.4% | consensus 1% | previous 1.50%"
-    },
-    {
-      "id": "4888398",
-      "time": "2026-05-19 21:58:24",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【歐洲央行管委Nagel：面對戰爭帶來的衝擊 可能“必須採取行動”】歐洲央行管委會成員Joachim Nagel表示，歐洲央行可能不得不應對中東衝突帶來的經濟挑戰。這位德國央行行長週二接受彭博電視採訪時表示：“這次能源供應衝擊更具持續性，因此我們正在偏離基線情境。”他說：“這意味著我們或許必須採取行動。”當被問及這是否可能意味著在6月份的貨幣政策會議上提高借款成本時，Nagel表示，他和同事將根據資料作出決定，但價格壓力擴散的可能性正在上升。“我們看到通脹在各處加劇的可能性正在上升，”他說，“這是我們必須考慮的事情，我們將在下次會議上這樣做。”歐洲央行已發出將考慮加息的訊號，因為戰爭引發的能源成本飆升推動通脹進一步高於其2%的目標。但一些官員仍敦促保持謹慎，因為油氣價格上漲會拖累經濟活動，從而降低出現第二輪效應的風險。"
-    },
-    {
-      "id": "te:economy:551976",
-      "time": "2026-05-19 21:58:24",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Government Bond 10Y",
-        "Importance 3"
-      ],
-      "text": "Long-term Yields Surge — Long-term US Treasury yields surged, with that on the 10-year note rising to a 16-month high of 4.7% on Tuesday, and that on the 30-year bond reaching a 18-year high of 5.2%, amid an increasingly inflationary outlook. Oil and fuel prices remained elevated as the prolonged standstill between the US and Iran prevented plans to restore supply from the Middle East. The surge in energy prices triggered an immediate response in higher consumer inflation, which rose to a three year high in April, while producer inflation soared past expectations to their highest since December 2022. On top of that, a robust growth and labor market backdrop added leeway for the Federal Reserve to raise interest rates this year. The latest jobs report pointed to ample job growth and the leading ADP report backed the momentum into May, while the control group for retail sales rose more than expected."
     }
   ]
 }
