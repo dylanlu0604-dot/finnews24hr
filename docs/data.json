@@ -1,7 +1,39 @@
 {
-  "updated": "2026-05-26 08:20:43",
-  "count": 15547,
+  "updated": "2026-05-26 08:24:50",
+  "count": 15549,
   "items": [
+    {
+      "id": "4899264",
+      "time": "2026-05-26 08:23:48",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信證券：證券行業有望迎來投資價值重塑契機】中信證券研報指出，證券行業優質機構2026年業績有望持續高增，15家上市券商26Q1單季度盈利突破25Q3行業單季度峰值水平。圍繞下半年政策端利好落實以及流動性支援功能性兌現，行業有望迎來投資價值重塑契機。行業分化有望成為證券行業佈局核心主線，大財富、大投行、大機構業務以及行業併購重組將持續驅動行業集中度提升。關注前十大券商，以及中型券商東興證券。"
+    },
+    {
+      "id": "4899263",
+      "time": "2026-05-26 08:21:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【SK海力士釋出控溫散熱儲存技術“iHBM”】SK海力士26日宣佈，公司釋出“iHBM”技術。該技術透過在HBM封裝內整合一體化冷卻元件“ICE*”，顯著降低產品執行時的發熱量。SK海力士計劃將iHBM技術應用於HBM5等下一代產品，以滿足高效能運算（HPC）、AI資料中心等超高度整合、高頻寬應用場景的嚴苛散熱管控需求，進一步提升整體系統的穩定性與執行效率。"
+    },
+    {
+      "id": "4899261",
+      "time": "2026-05-26 08:21:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗外交部發言人用鼠貓形容敵我】當地時間今天（5月26日）凌晨，伊朗外交部發言人巴加埃在社交媒體平臺發帖，引用《沙姆斯丁·大不里士詩集》中段落稱，“十萬鼠輩雖喧囂而至，卻無膽量向那雄獅般的貓投去一瞥。貓的凜然威儀，早已粉碎了它們的集結之勢。須知，貓之本體，本就是渾然天成的統一。”帖文中還配發將伊朗地圖描繪為波斯貓形態的圖片。 這一帖文被伊朗媒體轉發，並指出，伊朗擁有內在的凝聚力與不可撼動的意志，而外部的敵人雖然數量眾多，但在精神層面和戰略威懾上無法與之匹敵，終將潰散。"
+    },
+    {
+      "id": "4899260",
+      "time": "2026-05-26 08:20:53",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信證券：華為提出“韜定律” 關注半導體工藝發展新方向】中信證券研報指出，華為透過“韜定律”的指導原則，充分發揮了國內在3D整合、先進封裝、晶片設計製造協同最佳化、光通訊等領域的技術能力，以系統拓撲結構的最佳化和迭代彌補短期製程節點的差距，中國半導體產業有望迎來換道加速發展機會。從“韜定律”的指導原則延伸開來，未來五年左右半導體產業重要的變化可能包括以下幾方面：1）超細間距混合鍵合工藝和TSV工藝成為實現3D方向上“邏輯摺疊”的底層技術基礎，重點關注佈局相關領域的半導體制造企業；2）多層邏輯堆疊將帶來晶圓需求的成倍提升，關注國內晶圓廠；3）混合鍵合和先進封裝產線擴產，帶動鍵合、電鍍、清洗、CMP、刻蝕、薄膜沉積等裝置需求；4）近封裝光學引擎和基於微凸塊及標準間距混合鍵合工藝的3D堆疊，關注國內先進封裝企業。"
+    },
     {
       "id": "4899259",
       "time": "2026-05-26 08:19:04",
@@ -139079,28 +139111,6 @@
         "國際"
       ],
       "text": "日本首相高市早苗：將在今天的峰會上與韓國總統李在明討論具體的能源合作措施。"
-    },
-    {
-      "id": "4886790",
-      "time": "2026-05-19 08:23:15",
-      "tags": [
-        "宏觀",
-        "公司",
-        "國際"
-      ],
-      "text": "【阿達尼企業與美國財政部達成2.75億美元和解協議】美國財政部當地時間5月18日宣佈，阿達尼企業有限公司同意就美國外國資產控制辦公室的一項調查支付2.75億美元，這一和解協議涉及該公司從一家迪拜交易商購買液化石油氣。"
-    },
-    {
-      "id": "te:markets:551720",
-      "time": "2026-05-19 08:21:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Futures Flat After Two-Day Slide — US stock futures were little changed on Tuesday after the major indexes posted a second consecutive session of losses, pressured mainly by weakness in technology shares. During Monday’s regular session, the S&P 500 and Nasdaq Composite slipped 0.07% and 0.51%, respectively, as a selloff in memory chip makers dragged both benchmarks lower for a second straight day. The decline followed a nearly 7% drop in Seagate shares after CEO Dave Mosley said at a JPMorgan conference that building new factories would “take too long,” fueling concerns the company could struggle to keep up with rapidly rising AI-related demand. Peer Micron Technology also fell around 6%. Investors are now turning their attention to a fresh batch of corporate earnings due Tuesday, including results from Home Depot, Keysight Technologies, and Toll Brothers, while also monitoring April pending home sales data for further insight into the US economy."
     }
   ]
 }
