@@ -1,7 +1,27 @@
 {
-  "updated": "2026-05-27 05:47:41",
-  "count": 14996,
+  "updated": "2026-05-27 05:51:30",
+  "count": 14998,
   "items": [
+    {
+      "id": "4901051",
+      "time": "2026-05-27 05:48:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：英國將與波蘭簽署一項新的防務與安全協議，以遏制俄羅斯構成的威脅。"
+    },
+    {
+      "id": "mkt:019e6642-9a0e-7332-8106-fb3d8c5754c0",
+      "time": "2026-05-27 05:48:21",
+      "tags": [
+        "MKT News",
+        "LMT.O",
+        "Impact bullish",
+        "RTX.O",
+        "NOC.O"
+      ],
+      "text": "【UK, Poland To Sign Defense-Security Pact To Deter Russia】UK, Poland To Sign Defense-Security Pact In London; Starmer, TUSK To Finalize Wed; Pact To Co-Produce Next-Gen Medium-Range Air-Defence Missiles, Hold Large Joint Exercises, Accelerate Counter-Hybrid Ops (arson, cargo fires, cyberattacks, espionage)"
+    },
     {
       "id": "4901050",
       "time": "2026-05-27 05:46:13",
