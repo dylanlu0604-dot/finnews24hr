@@ -1,7 +1,39 @@
 {
-  "updated": "2026-05-27 03:18:08",
-  "count": 14958,
+  "updated": "2026-05-27 03:22:03",
+  "count": 14959,
   "items": [
+    {
+      "id": "mkt:019e65b9-7b32-7332-8105-d1e4e5d6bfc3",
+      "time": "2026-05-27 03:18:34",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【KASHKARI Says Prolonged Iran War Could Trigger U.S. Series Of Rate Hikes】KASHKARI: Prolonged Iran war could trigger U.S. series of rate hikes; Fed Held Rates At Late‑April FOMC; Kashkari Opposed Dovish Wording In Statement; Next Move Could Be Hike Or Cut, Depends On Inf Trend And Strait Of Hormuz Reopening; Warns Long‑Run Inf Expectations Could Get Out Of Control; Says FOMC Likely To Respond Forcefully"
+    },
+    {
+      "id": "4900959",
+      "time": "2026-05-27 03:18:11",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "月球前哨公司：美國國家航空航天局選定本公司，成為月球地形車服務合同項下高可行性任務訂單的兩家合作供應商之一。"
+    },
+    {
+      "id": "4900958",
+      "time": "2026-05-27 03:17:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統：（中東）地區各國已然明白，若繼續接納美軍基地，自身將蒙受巨大損害。"
+    },
     {
       "id": "4900956",
       "time": "2026-05-27 03:14:11",
@@ -133876,22 +133908,6 @@
         "國際"
       ],
       "text": "【谷歌I/O大會要點總結】\n1、核心搜尋升級：谷歌揭曉了其標誌性搜尋框二十多年來最大規模的一次顛覆性改版，全新的搜尋體驗針對 AI 與 Gemini 進行了全方位深度最佳化。\n2、大模型全家桶：伴隨全球 Token 使用量的持續瘋狂飆升，谷歌一口氣推出了多款全新模型，其中包括備受矚目的 Gemini 3.5 Flash。\n3、智慧體黑科技：谷歌推出 Gemini Spark，即使在使用者的膝上型電腦蓋上閉合的狀態下，它依然能夠在後臺自主替使用者執行復雜的智慧體任務（Agentic tasks）。\n 4、價格策略調整：谷歌將面向個人及企業的 AI Ultra 計劃月費從 250 美元下調至 200 美元，並同步推出了一款針對開發者、每月 100 美元的全新 Ultra 開發者版套餐。\n5、內容合規與反偽：針對日趨逼真、幾乎難辨真偽的 AI 生成內容（AIGC），谷歌正在全力擴充套件其專屬工具鏈，以加強對由 Gemini 建立的圖片及影片的水印標記與真偽檢測。\n6、生態深度融合：“詢問 YouTube”（Ask YouTube）與“文件Live”（Docs Live）功能持續向外界展示了谷歌將 AI 核心能力無縫織入、深度錨定其原生核心服務生態的超強實力。\n7、移動端體驗顛覆：經過全面推倒重構的 Gemini 移動端應用程式現已正式登陸 Android 和 iOS 平臺，其最大亮點是用更結構化、資訊量更豐富且極具 Scannability（易讀性）的互動回答，徹底告別了以往密密麻麻的“大段文字牆”（Wall-of-text）式死板回覆。\n8：可穿戴硬體前瞻：谷歌首次對外預演了其首款智慧音訊眼鏡，該產品由合作伙伴三星（Samsung）、Warby Parker 和 Gentle Monster 聯合打造，並將於今年秋季正式批次出貨。"
-    },
-    {
-      "id": "4888825",
-      "time": "2026-05-20 03:21:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "據Axios： 美國總統特朗普當地時間週一晚間召集核心國家安全團隊召開伊朗局勢會議，會議通報了各類軍事應對方案。此次會議召開於其宣佈暫緩對伊朗採取軍事打擊行動四小時後。"
-    },
-    {
-      "id": "mkt:019e41af-1969-7228-9aff-b1643c688de2",
-      "time": "2026-05-20 03:20:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. JUSTICE DEPARTMENT SAYS FOUR OF THE WORLD’S LARGEST CONTAINER MANUFACTURING COMPANIES AND SEVEN OF THEIR EXECUTIVES INDICTED FOR A GLOBAL CONSPIRACY AFFECTING BILLIONS OF DOLLARS OF COMMERCE"
     }
   ]
 }
