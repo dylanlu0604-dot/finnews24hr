@@ -1,7 +1,71 @@
 {
-  "updated": "2026-05-26 22:14:34",
-  "count": 15239,
+  "updated": "2026-05-26 22:18:34",
+  "count": 15240,
   "items": [
+    {
+      "id": "te:markets:553800",
+      "time": "2026-05-26 22:17:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Luxembourg",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "Stocks in Luxembourg Hit Near 18-year High — LuxX increased to 2278.00 Index Points, the highest since June 2008. Over the past 4 weeks, Luxembourg Stock Exchange gained 11.67%, and in the last 12 months, it increased 49.54%."
+    },
+    {
+      "id": "4900763",
+      "time": "2026-05-26 22:17:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會主席馮德萊恩：目前波羅的海國家面臨無人機侵擾、網路威脅、虛假資訊等安全挑戰，這些問題未來也可能蔓延至歐洲其他地區。歐洲亟需提升防務能力、應急備戰水平與協同協作能力，以應對當前局勢。"
+    },
+    {
+      "id": "4900762",
+      "time": "2026-05-26 22:16:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【海關總署署長孫梅君會見哥倫比亞農業和農村發展部部長卡瓦哈利諾】5月26日下午，海關總署署長孫梅君在署會見哥倫比亞農業和農村發展部部長卡瓦哈利諾一行。雙方就落實中哥兩國元首重要共識、促進農食產品貿易安全和便利、推動“一帶一路”框架下海關食品安全和檢驗檢疫合作、推進特色優質商品輸華等議題深入交換意見。哥倫比亞駐華大使卡夫雷拉參加會見。"
+    },
+    {
+      "id": "mkt:019e64a3-e73e-7330-84b5-22468fc5d01e",
+      "time": "2026-05-26 22:15:23",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "GUTERRES Deeply Concerned Over Russia Plan To Attack Kyiv"
+    },
+    {
+      "id": "4900761",
+      "time": "2026-05-26 22:15:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "聯合國秘書長古特雷斯：對俄羅斯宣佈計劃打擊基輔深表關切。"
+    },
+    {
+      "id": "4900760",
+      "time": "2026-05-26 22:14:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【溜溜梅股份有限公司透過港交所上市聆訊】溜溜梅股份有限公司更新聆訊後資料集，意味著該公司港交所IPO透過聆訊。"
+    },
+    {
+      "id": "4900759",
+      "time": "2026-05-26 22:14:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國聯邦法院裁定阿拉巴馬州不得使用2023年國會選區地圖，該地圖原本會取消兩個黑人佔多數選區中的一個。"
+    },
     {
       "id": "4900758",
       "time": "2026-05-26 22:12:44",
@@ -136303,61 +136367,6 @@
         "公司"
       ],
       "text": "【金祿電子：公司PCB產品有應用於物理AI 相關領域收入佔比較低】金祿電子在互動平臺表示，公司PCB產品有應用於物理AI，但目前相關領域收入佔比較低，尚未對公司業績構成重大影響。"
-    },
-    {
-      "id": "4888438",
-      "time": "2026-05-19 22:18:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "北約高階官員：正與波羅的海國家及波蘭協商兵力換防事宜。"
-    },
-    {
-      "id": "4888437",
-      "time": "2026-05-19 22:17:40",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【阿聯酋、沙特和卡達股市收高，此前特朗普稱取消對伊朗的打擊】阿聯酋、沙烏地阿拉伯和卡達市場的股票收盤走高，此前總統特朗普表示，應海灣國家領導人的要求，他取消了原計劃對伊朗的打擊。總部位於科威特的Kamco Invest的Junaid Ansari表示，特朗普的言論有助於平息人們對爆發第二輪戰爭的一些直接擔憂。週二，迪拜金融市場基準指數上漲0.9%；阿布扎比證券交易所綜合指數上漲0.9%；沙特Tadawul全股指數上漲0.2%；卡達證券交易所基準指數上漲0.5%。"
-    },
-    {
-      "id": "te:markets:551989",
-      "time": "2026-05-19 22:17:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Chubb Stock Price Hits 4-week High — Chubb shares increased to 333.02 USD, the highest since April 2026. Over the past 4 weeks, Chubb gained 0.81%, and in the last 12 months, it increased 13.94%."
-    },
-    {
-      "id": "4888436",
-      "time": "2026-05-19 22:16:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "思科將跌幅擴大至3%。"
-    },
-    {
-      "id": "mkt:019e4098-47f0-7aa9-b72a-77ab5ed35a1b",
-      "time": "2026-05-19 22:16:11",
-      "tags": [
-        "MKT News",
-        "CSCO.O",
-        "Impact bearish"
-      ],
-      "text": "CISCO EXTENDS DROP TO 3% AS MGMT PRESENTS AT CONFERENCE"
-    },
-    {
-      "id": "4888435",
-      "time": "2026-05-19 22:15:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "澳元兌美元AUD/USD日內下跌1%，現報0.7098。"
     }
   ]
 }
