@@ -1,7 +1,45 @@
 {
-  "updated": "2026-05-27 00:13:36",
-  "count": 15102,
+  "updated": "2026-05-27 00:18:11",
+  "count": 15092,
   "items": [
+    {
+      "id": "mkt:019e6510-a78c-7332-8104-bad0f60ace9a",
+      "time": "2026-05-27 00:14:10",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Interfax: Russia Weighs Diesel, Kerosene Export Limits; No Decision Yet"
+    },
+    {
+      "id": "4900878",
+      "time": "2026-05-27 00:13:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "【德國兩年期國債收益率漲超5個基點】週二（5月26日）歐市尾盤，德國10年期國債收益率漲3.3個基點，報2.979%，日內交投於2.958%-2.986%區間，整體呈現出N形走勢。兩年期德債收益率漲5.3個基點，報2.589%，日內交投於2.554%-2.599%區間；30年期德債收益率漲1.5個基點，報3.516%。2/10年期德債收益率利差跌1.978個基點，報38.398個基點。"
+    },
+    {
+      "id": "4900877",
+      "time": "2026-05-27 00:13:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：俄羅斯有關部門正考慮限制柴油和煤油出口，目前尚未作出最終決定。"
+    },
+    {
+      "id": "te:markets:553831",
+      "time": "2026-05-27 00:12:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 0.64% Lower — The FTSE MIB Index fell 321 points or 0.64 percent on Tuesday to close at 49899 points. Leading the losses are Ferrari NV (-7.71%), Brunello Cucinelli (-2.93%) and Nexi (-2.19%). Top gainers were STMicroelectronics (3.19%), Avio (2.71%) and Leonardo SpA (1.54%)."
+    },
     {
       "id": "te:markets:553830",
       "time": "2026-05-27 00:11:03",
@@ -135032,134 +135070,6 @@
         "USDJPY"
       ],
       "text": "KATAYAMA SAYS G-7 NATIONS GRASP JAPAN'S FOREIGN EXCHANGE POSITION"
-    },
-    {
-      "id": "4888650",
-      "time": "2026-05-20 00:18:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國疾控中心：5月18日，18名近期從“洪迪厄斯”號郵輪遣返的美國乘客確認要求在內布拉斯加州隔離設施隔離至5月31日。"
-    },
-    {
-      "id": "4888649",
-      "time": "2026-05-20 00:17:47",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "T-Mobile在全美範圍內拓展新一代911緊急呼叫及簡訊報警服務。"
-    },
-    {
-      "id": "mkt:019e4107-27b0-7228-9afd-797f3bc45a0f",
-      "time": "2026-05-20 00:17:28",
-      "tags": [
-        "MKT News",
-        "Macro & Rates"
-      ],
-      "text": "UEDA: WILL TAKE APPROPRIATE MONETARY POLICY TO ACHIEVE INFLATION TARGET"
-    },
-    {
-      "id": "4888648",
-      "time": "2026-05-20 00:17:26",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行行長植田和男：將實施適宜貨幣政策以達成通脹目標。"
-    },
-    {
-      "id": "4888647",
-      "time": "2026-05-20 00:17:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：世界衛生組織發現埃博拉疫情時的行動略顯遲緩。"
-    },
-    {
-      "id": "4888646",
-      "time": "2026-05-20 00:16:25",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "日本財務大臣片山皋月：七國集團理解日本的外匯政策立場。"
-    },
-    {
-      "id": "4888645",
-      "time": "2026-05-20 00:16:17",
-      "tags": [
-        "宏觀",
-        "公司",
-        "國際"
-      ],
-      "text": "【美國公佈新一輪對伊朗制裁名單】美國財政部外國資產控制辦公室19日公佈了新一輪針對伊朗的制裁名單，以此對伊朗進一步極限施壓。根據美國財政部外國資產控制辦公室釋出的公告，制裁名單中有12名來自多個國家和地區的個人被列入“特別指定國民清單”。此外，制裁名單中還包括19艘石油、液化石油氣和化學品運輸船，以及29個貿易和航運類企業。其中，伊朗從事外匯交易的阿明交易所以及相關個人與企業均受到制裁。(新華社)"
-    },
-    {
-      "id": "em:qqyh_rbyh:202605203742409663",
-      "time": "2026-05-20 00:16:05",
-      "tags": [
-        "央行",
-        "日本央行"
-      ],
-      "text": "日本央行行長表示，長期債券收益率在快速上升。"
-    },
-    {
-      "id": "4888644",
-      "time": "2026-05-20 00:16:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度民航部：印度民航總局已責令飛機原廠在其監管人員在場情況下，對印度航空客機燃油控制開關開展檢查。"
-    },
-    {
-      "id": "mkt:019e4105-281b-7228-9afd-7500554ea177",
-      "time": "2026-05-20 00:15:17",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "KATAYAMA: JAPAN WILL TAKE BOLD ACTION ON FX WHEN NEEDED"
-    },
-    {
-      "id": "4888643",
-      "time": "2026-05-20 00:14:59",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行行長植田和男：將與日本政府協同緊盯債券市場走勢。"
-    },
-    {
-      "id": "4888642",
-      "time": "2026-05-20 00:14:35",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行行長植田和男：（針對有關日本央行縮減購債計劃的提問）將評估市場形勢與市場功能。"
-    },
-    {
-      "id": "mkt:019e4104-743d-7228-9afd-696c3b9caf32",
-      "time": "2026-05-20 00:14:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UEDA, WHEN ASKED ABOUT BOJ TAPERING PLANS: WILL ASSESS MARKET SITUATION, FUNCTIONALITY"
-    },
-    {
-      "id": "te:markets:552018",
-      "time": "2026-05-20 00:13:55",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "FTSE 100 Little Changed on Tuesday — The FTSE 100 gave up earlier gains to finish broadly flat on Tuesday as inflation concerns, political uncertainty and ongoing tensions involving Iran weighed on sentiment through the session. Mining stocks were among the weakest performers, with Fresnillo falling more than 4.5%, Endeavour Mining down over 3% and Antofagasta also losing more than 3%, alongside declines in Anglo American, Rio Tinto and Glencore. In contrast, defence names provided support, with BAE Systems rising 1.7%, Rolls-Royce adding 0.7% and Babcock also advancing. Utilities were firmer, as National Grid gained 1.2%, Severn Trent climbed 2.2%, United Utilities added 1.5% and Centrica rose 0.7%. Labour market data pointed to continued weakness, with elevated unemployment particularly among younger workers and slowing wage growth. The figures may strengthen the argument for the BoE to hold rates steady, although markets now look ahead to Wednesday’s CPI inflation reading for further guidance on the policy outlook."
     }
   ]
 }
