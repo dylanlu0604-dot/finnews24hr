@@ -1,7 +1,35 @@
 {
-  "updated": "2026-05-27 02:27:25",
-  "count": 14980,
+  "updated": "2026-05-27 02:31:18",
+  "count": 14970,
   "items": [
+    {
+      "id": "4900936",
+      "time": "2026-05-27 02:30:11",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【廉價SOFR期權大買家現身，意在對沖美聯儲加息溢價】5月26日長週末歸來，有擔保隔夜融資利率（SOFR）期權市場出現顯著資金流向，其中最引人注目的是買家透過大手筆買入廉價的“12月看漲期權蝶式組合”，來大舉押注看漲空間。該頭寸的核心目標，是瞄準市場目前計價的、截止到今年年底的美聯儲緊縮（加息）幅度的回落。"
+    },
+    {
+      "id": "te:markets:553839",
+      "time": "2026-05-27 02:30:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Ether Drops by 1.85% — Top crypto losers are Ether (-1.85%), Bitcoin (-1.69%) and XRP (-1.10%)."
+    },
+    {
+      "id": "4900935",
+      "time": "2026-05-27 02:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收漲0.81%，報609.50元人民幣/桶。滬金夜盤收跌1.15%，滬銀收跌1.38%。"
+    },
     {
       "id": "mkt:019e6589-8454-7332-8105-86f744bd0d15",
       "time": "2026-05-27 02:26:11",
@@ -133976,127 +134004,6 @@
         "XAUUSD"
       ],
       "text": "【Iran-U.S. Talks Show Little Progress as Trump Revives Strike Threat】Regional mediators and U.S. officials said Iran and the U.S. remain far apart in negotiations to end the conflict, despite President Donald Trump pausing planned strikes on Iran. Mediators said Tehran continues to demand an end to hostilities, financial relief, war reparations and a role overseeing the Strait of Hormuz, while rejecting U.S. demands to close or suspend its nuclear program long term. Trump later warned the U.S. “may have to give them another big hit.” Vice President JD Vance said Iran appears willing to negotiate but cautioned no deal is certain until signed. Officials said the U.S. and Israel had prepared additional strikes that could still occur within days. Iran has continued attacks across the Gulf region, while the UAE said drones launched from Iraq struck near the Barakah Nuclear Energy Plant without causing radiation leaks."
-    },
-    {
-      "id": "mkt:019e4181-5cd4-7228-9aff-4b05e6d74c34",
-      "time": "2026-05-20 02:30:57",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "U.S. CRUDE OIL FUTURES SETTLE AT $107.77/BBL, DOWN 89 CENTS, 0.82 PCT"
-    },
-    {
-      "id": "4888793",
-      "time": "2026-05-20 02:30:52",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國原油期貨結算價報每桶107.77美元，下跌89美分，跌幅0.82%。"
-    },
-    {
-      "id": "te:markets:552029",
-      "time": "2026-05-20 02:30:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Heating Oil Hits 6-week High — Heating Oil increased to 4.18 USD/Gal, the highest since April 2026. Over the past 4 weeks, Heating Oil gained 17.58%, and in the last 12 months, it increased 93.24%."
-    },
-    {
-      "id": "mkt:019e4180-a9df-7228-9aff-40c7ce190d40",
-      "time": "2026-05-20 02:30:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "MEDIATORS SEE LITTLE PROGRESS IN IRAN-U.S. TALKS: WSJ"
-    },
-    {
-      "id": "te:markets:552028",
-      "time": "2026-05-20 02:30:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: XRP Depreciates by 1.98% — Today's cryptos market is characterized by modest daily movements, with XRP standing out as the frontrunner with a -1.98% decrease."
-    },
-    {
-      "id": "4888792",
-      "time": "2026-05-20 02:30:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "上期所原油期貨夜盤收漲2.40%，報690.00元人民幣/桶。滬金夜盤收跌1.09%，滬銀收跌3.44%。"
-    },
-    {
-      "id": "mkt:019e4180-5c23-7228-9aff-3d7b8d03d2e8",
-      "time": "2026-05-20 02:29:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "DEMOCRATIC SENATOR WARNER SAYS TRUMP MOBILE PHONE MAKING MISLEADING CLAIMS, QUESTIONS BUSINESS PRACTICES -- LETTER"
-    },
-    {
-      "id": "4888791",
-      "time": "2026-05-20 02:29:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國民主黨參議員沃納稱特朗普手機品牌釋出誤導性宣告，並就其商業行為提出質疑。"
-    },
-    {
-      "id": "4888790",
-      "time": "2026-05-20 02:29:23",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "特朗普下令鼓勵美聯儲擴大金融科技准入。"
-    },
-    {
-      "id": "mkt:019e417f-af41-7228-9aff-36da4a4a7327",
-      "time": "2026-05-20 02:29:07",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "VANCE: TRUMP IS NOT MAKING STOCK TRADES HIMSELF"
-    },
-    {
-      "id": "4888789",
-      "time": "2026-05-20 02:29:01",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普將簽署行政令，要求銀行收集客戶公民身份資訊。"
-    },
-    {
-      "id": "4888788",
-      "time": "2026-05-20 02:28:44",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國副總統萬斯：我與特朗普支援禁止國會議員進行股票交易。"
-    },
-    {
-      "id": "4888787",
-      "time": "2026-05-20 02:28:15",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國副總統萬斯：特朗普本人並未進行股票交易。"
     }
   ]
 }
