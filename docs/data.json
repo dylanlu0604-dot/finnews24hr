@@ -1,7 +1,210 @@
 {
-  "updated": "2026-05-26 22:31:01",
-  "count": 15227,
+  "updated": "2026-05-26 22:35:09",
+  "count": 15222,
   "items": [
+    {
+      "id": "4900787",
+      "time": "2026-05-26 22:34:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【巴克萊分析師：增長放緩之際，奢侈品公司應重新思考戰略】巴克萊分析師在一份研究報告中表示，在增長率放緩的環境下，奢侈品公司需要重新思考其戰略。在疫情後的高峰期過後，該行業一直在應對高階商品需求長達數年的低迷。“近期的放緩突顯了消費者行為的轉變，並要求重新思考既定的戰略手冊，“他們寫道。這些分析師表示，這些公司應專注於其核心業務，減少對非奢侈品活動的敞口。他們補充說，這可能需要進行資產剝離，例如開雲集團出售其美容業務。他們表示，目前的格局需要不斷的創新和新產品，以及更本地化的產品供應，以應對區域客戶的差異。“成功將取決於品牌在保持質量、傳統和工藝的同時，適應不斷變化的消費者群體的能力，“巴克萊表示。"
+    },
+    {
+      "id": "4900786",
+      "time": "2026-05-26 22:33:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈薩克首次發行熊貓債券，發行規模 34 億元人民幣，票面利率 1.9%。"
+    },
+    {
+      "id": "4900785",
+      "time": "2026-05-26 22:33:01",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美國5月達拉斯聯儲製成品價格指數 18.9，前值27.6。\n美國5月達拉斯聯儲製造業就業指數 0.2，前值-0.9。\n美國5月達拉斯聯儲製造業裝船指數 7.4，前值15。\n美國5月達拉斯聯儲製造業原材料支付價格指數 42.7，前值37。"
+    },
+    {
+      "id": "mkt:019e64b4-0685-7330-84b5-b22508e54c8d",
+      "time": "2026-05-26 22:32:49",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "US Dallas Fed May Manufacturing Raw-Materials Prices Paid Index Climbs To 42.7 From 37"
+    },
+    {
+      "id": "mkt:019e64b3-ef13-7330-84b5-acd9b32a217c",
+      "time": "2026-05-26 22:32:42",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bearish",
+        "WTI",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "US Dallas Fed Manufacturing Shipments Index Falls To 7.4 In May From 15"
+    },
+    {
+      "id": "mkt:019e64b3-c116-7330-84b5-a248235938fc",
+      "time": "2026-05-26 22:32:40",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Dallas Fed Prices Paid for Raw Materials (May) | actual 42.7 | previous 37"
+    },
+    {
+      "id": "mkt:019e64b3-ac5e-7330-84b5-9a7b9307c54e",
+      "time": "2026-05-26 22:32:32",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "US Dallas Fed Manufacturing Employment Index May 0.2; Apr -0.9"
+    },
+    {
+      "id": "mkt:019e64b3-ac06-7330-84b5-9689b96190d0",
+      "time": "2026-05-26 22:32:31",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Dallas Fed Shipments Index (May) | actual 7.4 | previous 15"
+    },
+    {
+      "id": "mkt:019e64b3-a284-7330-84b5-8e422a1e6297",
+      "time": "2026-05-26 22:32:29",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "US10Y",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "US Dallas Fed Manufactured Products Price Index Drops To 18.9 In May From 27.6"
+    },
+    {
+      "id": "mkt:019e64b3-821f-7330-84b5-816f210c78bd",
+      "time": "2026-05-26 22:32:24",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Dallas Fed Employment Index (May) | actual 0.2 | previous -0.9"
+    },
+    {
+      "id": "4900784",
+      "time": "2026-05-26 22:32:16",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美國5月達拉斯聯儲製造業產出指數 9.4，前值19。\n美國5月達拉斯聯儲新訂單指數 6.4，前值9.9。"
+    },
+    {
+      "id": "mkt:019e64b3-6c97-7330-84b5-7e88c0354fb3",
+      "time": "2026-05-26 22:32:15",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Dallas Fed Prices Received for Finished Goods (May) | actual 18.9 | previous 27.6"
+    },
+    {
+      "id": "mkt:019e64b3-4679-7330-84b5-7438132abd9a",
+      "time": "2026-05-26 22:32:10",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "US Dallas Fed May New Orders Index 6.4; Apr 9.9"
+    },
+    {
+      "id": "mkt:019e64b3-2c42-7330-84b5-6d623086c598",
+      "time": "2026-05-26 22:31:59",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Dallas Fed New Orders Index (May) | actual 6.4 | previous 9.9"
+    },
+    {
+      "id": "mkt:019e64b3-2968-7330-84b5-66da96e11cf6",
+      "time": "2026-05-26 22:31:58",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "U.S. Dallas Fed Manufacturing Production Index May 9.4, Prior 19"
+    },
+    {
+      "id": "mkt:019e64b2-f920-7330-84b5-5c16d46c4d5a",
+      "time": "2026-05-26 22:31:49",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Dallas Fed Production Index (May) | actual 9.4 | previous 19"
+    },
+    {
+      "id": "mkt:019e64b2-c193-7330-84b5-5313b31f3ab7",
+      "time": "2026-05-26 22:31:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Copper"
+      ],
+      "text": "US Dallas Fed Business Activity Index Rises To 0.4 In May From -2.3"
+    },
+    {
+      "id": "4900783",
+      "time": "2026-05-26 22:31:29",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美國5月達拉斯聯儲製造業指數為0.4，預期值為0.0，前值-2.3。"
+    },
+    {
+      "id": "mkt:019e64b2-7d9b-7330-84b5-4f5fb7eeef02",
+      "time": "2026-05-26 22:31:19",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Dallas Fed Business Activity Index (May) | actual 0.4 | previous -2.3"
+    },
     {
       "id": "4900782",
       "time": "2026-05-26 22:30:08",
@@ -136051,224 +136254,6 @@
         "國際"
       ],
       "text": "美國總統特朗普：白宮舞廳是我送給美國的禮物。"
-    },
-    {
-      "id": "4888486",
-      "time": "2026-05-19 22:35:07",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "市場訊息：美國財政部制裁伊朗外匯兌換機構。"
-    },
-    {
-      "id": "mkt:019e40a9-9530-7aa9-b72a-d82133b62b45",
-      "time": "2026-05-19 22:34:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "BESSENT ALERTS FINANCIAL INSTITUTIONS TO IRAN'S MANIPULATION"
-    },
-    {
-      "id": "em:qqyh_mlc:202605193742356421",
-      "time": "2026-05-19 22:34:51",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "利率互換市場顯示，美聯儲到2026年底加息機率超過80%。"
-    },
-    {
-      "id": "4888485",
-      "time": "2026-05-19 22:34:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特提醒金融機構注意伊朗的操縱行為。"
-    },
-    {
-      "id": "mkt:019e40a9-4c16-7aa9-b72a-d109b3b71f74",
-      "time": "2026-05-19 22:34:47",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "TREASURY SANCTIONS IRANIAN FOREIGN CURRENCY EXCHANGE HOUSE"
-    },
-    {
-      "id": "4888484",
-      "time": "2026-05-19 22:34:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國中央司令部司令：由於美國軍方對伊朗的行動，美國無疑變得更加安全。"
-    },
-    {
-      "id": "te:economy:551997",
-      "time": "2026-05-19 22:34:34",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Government Bond 10Y",
-        "Importance 0"
-      ],
-      "text": "Japan’s 10-Year Bond Yield Hits 30-Year High — Japan’s 10-year government bond yield rose to above 2.8% on Tuesday, reaching the highest level since September 1996 after stronger-than-expected economic growth data reinforced expectations for further policy tightening. Japan’s economy expanded 0.5% quarter-on-quarter in the first quarter, accelerating from 0.2% in Q4, exceeding market forecasts of 0.4%, and marking the fastest pace of growth since Q3 2024. Adding to hawkish sentiment, stalled US-Iran peace talks and the continued closure of the Strait of Hormuz have driven oil prices higher, raising fears of a global supply shock and severe economic fallout. BOJ board member Kazuyuki Masu last week urged policymakers to raise rates as soon as possible, citing increasingly persistent inflation risks linked to the Middle East conflict. Investors are now focused on upcoming trade and inflation reports later this week for further insight into the strength of the Japanese economy."
-    },
-    {
-      "id": "mkt:019e40a8-fb7b-7aa9-b72a-cb9beed0a04d",
-      "time": "2026-05-19 22:34:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TREASURY DEPT TARGETS ENTITIES IN IRANIAN SHADOW BANKING SYSTEM"
-    },
-    {
-      "id": "4888483",
-      "time": "2026-05-19 22:34:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "北約最高指揮官：隨著北約歐洲支柱實力增強，美國可縮減在歐洲的駐軍規模，僅保留提供盟友目前尚無法自主構建的關鍵能力。"
-    },
-    {
-      "id": "4888482",
-      "time": "2026-05-19 22:34:26",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "市場訊息：美國財政部將目標對準伊朗影子銀行體系中的實體。"
-    },
-    {
-      "id": "4888481",
-      "time": "2026-05-19 22:34:09",
-      "tags": [
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "利率互換市場顯示，美聯儲到2026年底加息機率超過80%。"
-    },
-    {
-      "id": "4888480",
-      "time": "2026-05-19 22:34:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣西釋出山洪災害氣象預警】廣西水利廳和廣西氣象局於5月19日16時聯合釋出山洪災害氣象預警：預計，5月19日20時至5月20日20時，田林縣、融水苗族自治縣發生山洪災害可能性很大（紅色預警），羅城仫佬族自治縣、融安縣發生山洪災害可能性大（橙色預警），凌雲縣發生山洪災害可能性較大（黃色預警），天峨縣、南丹縣可能發生山洪災害。預警區域要密切關注降雨情況，注意做好監測、巡查、預警和轉移避險。一旦發現危險徵兆，立即報告市、縣（市、區）防汛抗旱指揮部，提前提醒鄉鎮、村屯相關責任人。其他地區也可能因局地短歷時強降雨引發山洪災害，請注意防範。（央視新聞）"
-    },
-    {
-      "id": "mkt:019e40a8-a264-7aa9-b72a-c4da39ec795f",
-      "time": "2026-05-19 22:34:01",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "SWAPS IMPLY OVER 80% CHANCE OF FED RATE HIKE BY END-2026"
-    },
-    {
-      "id": "4888479",
-      "time": "2026-05-19 22:33:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【北交所：完善發行上市機制 增強稽核精準性有效性】《中國證券報》19日刊發文章《北交所：完善發行上市機制 增強稽核精準性有效性》。文章稱，北交所董事長魯頌賓5月18日在2026北京上市公司高質量發展大會上表示，北交所積極探索資本市場支援中小企業創新發展的特色制度和服務體系，市場呈現向好向新發展態勢。接下來，將完善發行上市機制，增強稽核精準性有效性，推動更多資源向新興產業、未來產業聚集，支援傳統產業轉型升級。（新華社）"
-    },
-    {
-      "id": "mkt:019e40a8-275e-7aa9-b72a-b87e93cd3f51",
-      "time": "2026-05-19 22:33:42",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "BESSENT: TREASURY WILL CONTINUE TO SEVER HAMAS' GLOBAL FINANCIAL SUPPORT NETWORKS"
-    },
-    {
-      "id": "mkt:019e40a8-1094-7aa9-b72a-b7b77192f5f6",
-      "time": "2026-05-19 22:33:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "BESSENT: FLOTILLA ATTEMPTING TO REACH GAZA IS A LUDICROUS ATTEMPT TO UNDERMINE TRUMP'S PROGRESS"
-    },
-    {
-      "id": "4888477",
-      "time": "2026-05-19 22:33:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "巴西國家石油公司高管赴墨西哥石油公司探討潛在合作的代表團將於6月到訪巴西。"
-    },
-    {
-      "id": "4888476",
-      "time": "2026-05-19 22:33:01",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國財長貝森特：這支意圖前往加沙地帶的親恐怖主義船隊，妄圖破壞特朗普總統為促成該地區持久和平所取得的積極成果，此舉實屬荒唐。美國財政部將持續斬斷哈馬斯遍佈全球的資金支援網路，無論其藏身何處。"
-    },
-    {
-      "id": "mkt:019e40a7-64af-7aa9-b72a-aadaac27722f",
-      "time": "2026-05-19 22:32:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. UNQUESTIONABLY SAFER AS A RESULT OF U.S. MILITARY ACTIONS AGAINST IRAN, U.S. COMMANDER SAYS"
-    },
-    {
-      "id": "4888475",
-      "time": "2026-05-19 22:32:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "德國方面證實，一名感染埃博拉病毒的美國患者正在柏林一家診所接受治療。"
-    },
-    {
-      "id": "4888474",
-      "time": "2026-05-19 22:31:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國參議院多數黨領袖圖恩預計參議院今年將推進人工智慧監管框架立法程序。"
-    },
-    {
-      "id": "mkt:019e40a6-3f89-7aa9-b72a-a494b1032dcf",
-      "time": "2026-05-19 22:31:37",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "THUNE EXPECTS SENATE TO ADVANCE AI FRAMEWORK THIS YEAR"
-    },
-    {
-      "id": "4888473",
-      "time": "2026-05-19 22:31:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大182天期國庫券平均收益率為2.456%，364天期平均收益率為2.750%。"
-    },
-    {
-      "id": "4888472",
-      "time": "2026-05-19 22:31:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "匈牙利總理毛焦爾表示，率先前往克拉科夫是我個人的決定。"
     }
   ]
 }
