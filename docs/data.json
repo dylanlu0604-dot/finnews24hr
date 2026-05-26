@@ -1,7 +1,68 @@
 {
-  "updated": "2026-05-27 04:27:45",
-  "count": 14951,
+  "updated": "2026-05-27 04:31:34",
+  "count": 14956,
   "items": [
+    {
+      "id": "te:economy:553847",
+      "time": "2026-05-27 04:31:00",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Uruguay",
+        "Interest Rate",
+        "Importance 1"
+      ],
+      "text": "Uruguay's Central Bank Holds Key Interest Rate at 5.75% — The Central Bank of Uruguay kept its benchmark interest rate unchanged at 5.75% at its May 2026 meeting, aiming to ensure inflation converges to the 4.5% target and to keep expectations anchored. Annual inflation stood at 3.16% in April, while core inflation reached 3.45%, continuing the convergence process toward the target. Two-year inflation expectations from analysts and financial markets remained anchored at 4.5%, while companies’ expectations stood at 5%, bringing the overall average to 4.67%. Globally, persistent conflict in the Middle East continued to keep energy prices elevated and volatile, while higher long-term interest rates created a less favorable environment for emerging markets. Domestically, available indicators pointed to a recovery in economic activity and employment in the first quarter, with moderate growth expected for the rest of the year. Still, the central bank noted that inflation risks had shifted slightly to the upside due to persistently high oil prices."
+    },
+    {
+      "id": "mkt:019e65fb-bf9a-7332-8106-6857cac53571",
+      "time": "2026-05-27 04:30:57",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "GREER Says TRUMP Worried About US-Mexico Trade Deficit"
+    },
+    {
+      "id": "4900988",
+      "time": "2026-05-27 04:30:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表格里爾：特朗普關注美國對墨西哥的貿易逆差。"
+    },
+    {
+      "id": "4900987",
+      "time": "2026-05-27 04:29:08",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "【富時羅素批准IPO快速納入規則修訂】富時羅素表示，針對IPO快速上市納入規則、指數最低准入門檻調整的市場徵詢工作，已獲得業界廣泛支援。公司治理委員會已批准相關編制規則修訂，新規即刻生效，具體內容如下：\n1. 若首次公開募股（IPO）的可投資市值，高於羅素大盤500指數上一次成分股調整設定的市場總市值臨界值，即可申請快速納入指數。半年一次成分股調整劃定的市值臨界值，每季度將根據市場情況重新校準。\n2. 可投資市值以IPO發行時的流通股數量，以及首個交易日收盤股價作為計算依據。\n3. 受股份鎖定期限制，流通股比例或投票權不足5%的IPO標的，若自納入指數之日起12個月內，鎖定期解除後相關指標達標，仍可認定為符合准入條件。\n4. 符合快速納入標準的IPO標的，將在掛牌上市後第五個交易日收盤後正式納入指數。"
+    },
+    {
+      "id": "4900986",
+      "time": "2026-05-27 04:28:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "訊息人士透露，露露樂蒙即將達成協議，平息與創始人奇普·威爾遜的代理權之爭。"
+    },
+    {
+      "id": "mkt:019e65f9-9485-7332-8106-626785f9cb14",
+      "time": "2026-05-27 04:28:35",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "【Dollar Index Up 0.2% To 99.169】Dollar Index +0.2% to 99.169; EUR/USD 1.1629 (-0.0015), GBP/USD 1.3445 (-0.0062); USD/JPY 159.33 (+0.43), USD/CHF 0.7857 (+0.0031), USD/CAD 1.3813 (+0.0009), USD/SEK 9.3198 (+0.0334)"
+    },
     {
       "id": "mkt:019e65f6-1d3b-7332-8106-5ce388f9f4f2",
       "time": "2026-05-27 04:24:48",
@@ -133821,14 +133882,6 @@
         "Important"
       ],
       "text": "United States | API Weekly Crude Oil Stocks Change (May.15) | actual -9110000M | consensus -3361000M | previous -2188000M"
-    },
-    {
-      "id": "4888863",
-      "time": "2026-05-20 04:29:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "【德國將接收一名美籍埃博拉病毒感染者】德國衛生部19日表示，應美國方面請求，一名在剛果（金）感染埃博拉病毒的美國人將被送往德國柏林接受治療。"
     }
   ]
 }
