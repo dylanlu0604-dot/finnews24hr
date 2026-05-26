@@ -1,7 +1,26 @@
 {
-  "updated": "2026-05-27 06:37:27",
+  "updated": "2026-05-27 06:41:20",
   "count": 15003,
   "items": [
+    {
+      "id": "te:markets:553853",
+      "time": "2026-05-27 06:40:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Cocoa Surges by 9.35% — Top commodity gainers are Cocoa (9.35%), Canola (1.95%) and Rapeseed (1.85%). Biggest losers are Wheat (-1.66%), Corn (-1.24%) and Sugar (-1.22%)."
+    },
+    {
+      "id": "4901075",
+      "time": "2026-05-27 06:39:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國內抗議活動持續升級，玻利維亞總統稱將與民眾共渡難關】作為對國家承諾的一部分，我與各位部長已共同決定，將我們的薪資削減50%。”玻利維亞總統帕斯25日在蘇克雷出席活動時表示，政府將與全國民眾攜手努力、共渡難關。玻利維亞《時代報》25日報道稱，上述宣告發表之際，該國大規模抗議活動已持續到第25天。（環球網）"
+    },
     {
       "id": "mkt:019e666d-e881-7332-8107-36db6ef2ef8a",
       "time": "2026-05-27 06:35:39",
@@ -134291,25 +134310,6 @@
         "市場"
       ],
       "text": "澳大利亞10年期國債收益率漲3.07個基點，在悉尼盤初報5.0905%。30年期澳債收益率漲2.49個基點，報5.5146%。三年期澳債稅率漲超2.60個基點，報4.7014%。"
-    },
-    {
-      "id": "te:markets:552040",
-      "time": "2026-05-20 06:40:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Cocoa Rises by 3.12% — Top commodity gainers are Cocoa (3.12%), Canola (2.61%) and Coffee (2.10%). Biggest losers are Orange Juice (-2.96%) and Cotton (-1.75%)."
-    },
-    {
-      "id": "4888916",
-      "time": "2026-05-20 06:39:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中國代表呼籲避免海灣局勢進一步升級 】中國常駐聯合國代表傅聰19日在安理會中東問題緊急公開會上發言，敦促各方保持克制、避免海灣緊張局勢進一步升級。傅聰說，阿聯酋巴拉卡核電站相關設施日前遭到無人機襲擊，這一危險和不負責任的行動給國際社會拉響了警報。中方對事件深表關切。只要武裝衝突不停息，其對地區核設施的安全風險就始終存在。當前中東戰事的源起是美國和以色列對伊朗的非法武力襲擊。這場戰事本不該發生。早一點找到解決出路，對美伊雙方有利，也對地區各國乃至整個世界有利。（新華社）"
     }
   ]
 }
