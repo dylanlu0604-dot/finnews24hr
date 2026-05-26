@@ -1,7 +1,84 @@
 {
-  "updated": "2026-05-27 02:31:18",
-  "count": 14970,
+  "updated": "2026-05-27 02:35:08",
+  "count": 14976,
   "items": [
+    {
+      "id": "mkt:019e6591-1137-7332-8105-a08bf193be5d",
+      "time": "2026-05-27 02:34:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel Defense Forces Say Enemy Aircraft Incursion Triggers Sirens In Bar'am"
+    },
+    {
+      "id": "4900940",
+      "time": "2026-05-27 02:33:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊聲稱正在對霍爾木茲海峽實施“智慧控制”，並警告稱，任何在該水道的侵略行為將遭到“毀滅性”回應，進一步強化了德黑蘭在維護該戰略要道主權上的立場。"
+    },
+    {
+      "id": "mkt:019e6590-7d9a-7332-8105-9b1bcb34f411",
+      "time": "2026-05-27 02:33:48",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "China: Shanghai Gold Exchange Gold T+D Falls 0.97% To 984.5 Yuan/Gram; Silver T+D Falls 0.6% To 18,554 Yuan/Kg — May 26 PM Close"
+    },
+    {
+      "id": "mkt:019e6590-7c0d-7332-8105-962dfc349ed7",
+      "time": "2026-05-27 02:33:48",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bearish",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "【SHFE Night Session Main Contracts Close】02:30 Beijing Close — SHFE Gold Main Down 1.15% To CNY988/g; SHFE Silver Main Down 1.38% To CNY18,601/kg; SC Crude Main Up 0.81% To CNY610/bbl"
+    },
+    {
+      "id": "mkt:019e6590-6dbe-7332-8105-8961418bf887",
+      "time": "2026-05-27 02:33:44",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's IRGC Imposes 'Smart Control' Over Strait Of Hormuz, Warns 'Devastating' Response To Any Aggression"
+    },
+    {
+      "id": "4900939",
+      "time": "2026-05-27 02:32:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍：巴阿姆地區拉響防空警報，偵測到敵方飛行器入侵。"
+    },
+    {
+      "id": "4900938",
+      "time": "2026-05-27 02:31:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI 7月原油期貨收報93.89美元/桶。NYMEX 6月天然氣期貨收報2.8940美元/百萬英熱單位。NYMEX 6月汽油期貨收報3.2205美元/加侖，NYMEX 6月取暖油期貨收報3.7146美元/加侖。"
+    },
+    {
+      "id": "4900937",
+      "time": "2026-05-27 02:30:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "NASA:  藍色起源將交付首輛月球地形車。"
+    },
     {
       "id": "4900936",
       "time": "2026-05-27 02:30:11",
@@ -133980,30 +134057,6 @@
         "國際"
       ],
       "text": "【萬斯稱特朗普本人並未親自進行股票交易】針對有關特朗普股票交易的相關提問，美國副總統萬斯回應表示，特朗普本人並未親自操作這些股票交易。萬斯在白宮向媒體記者作出上述表態。他表示：“特朗普擁有獨立的財富顧問團隊代為打理個人資產。”萬斯還指出：“任何人都不應利用公職身份獲取內幕資訊，藉此進行股票買賣交易。”"
-    },
-    {
-      "id": "4888794",
-      "time": "2026-05-20 02:33:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "美伊問題調解方：伊朗堅持核心訴求不變，美伊談判幾乎進展甚微。"
-    },
-    {
-      "id": "mkt:019e4182-7cd8-7228-9aff-5299618ef758",
-      "time": "2026-05-20 02:32:11",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Hot",
-        "Policy",
-        "Breaking News 24h",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Iran-U.S. Talks Show Little Progress as Trump Revives Strike Threat】Regional mediators and U.S. officials said Iran and the U.S. remain far apart in negotiations to end the conflict, despite President Donald Trump pausing planned strikes on Iran. Mediators said Tehran continues to demand an end to hostilities, financial relief, war reparations and a role overseeing the Strait of Hormuz, while rejecting U.S. demands to close or suspend its nuclear program long term. Trump later warned the U.S. “may have to give them another big hit.” Vice President JD Vance said Iran appears willing to negotiate but cautioned no deal is certain until signed. Officials said the U.S. and Israel had prepared additional strikes that could still occur within days. Iran has continued attacks across the Gulf region, while the UAE said drones launched from Iraq struck near the Barakah Nuclear Energy Plant without causing radiation leaks."
     }
   ]
 }
