@@ -1,7 +1,16 @@
 {
-  "updated": "2026-05-27 02:46:41",
-  "count": 14977,
+  "updated": "2026-05-27 02:50:28",
+  "count": 14974,
   "items": [
+    {
+      "id": "4900943",
+      "time": "2026-05-27 02:48:35",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美華盛頓州一日資企業發生化學爆炸，多人死亡】美國西北部華盛頓州朗維尤市消防局26日說，日本製紙集團旗下企業位於當地的工廠當天早晨發生“重大化學爆炸”，已造成多人死亡。（新華社）"
+    },
     {
       "id": "te:economy:553840",
       "time": "2026-05-27 02:41:13",
@@ -134031,46 +134040,6 @@
         "Impact bearish"
       ],
       "text": "BRENT CRUDE FUTURES SETTLE AT $111.28/BBL, DOWN 82 CENTS, 0.73 PCT"
-    },
-    {
-      "id": "mkt:019e4191-9c9a-7228-9aff-610469791cca",
-      "time": "2026-05-20 02:48:42",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "GOOGL.O"
-      ],
-      "text": "GOOGLE AI CHIEF ANNOUNCES RESEARCH-ORIENTED GEMINI FOR SCIENCE - CONFERENCE"
-    },
-    {
-      "id": "4888799",
-      "time": "2026-05-20 02:47:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本擬鼓勵初創企業尋求併購退出，而非上市融資。"
-    },
-    {
-      "id": "mkt:019e4190-65b3-7228-9aff-58cadd532cb3",
-      "time": "2026-05-20 02:47:22",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7"
-      ],
-      "text": "GOOGLE'S FIRST AUDIO GLASSES WILL ARRIVE IN FALL - CONFERENCE"
-    },
-    {
-      "id": "4888798",
-      "time": "2026-05-20 02:46:45",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "谷歌首款音訊眼鏡將於秋季釋出。"
     }
   ]
 }
