@@ -1,7 +1,63 @@
 {
-  "updated": "2026-05-27 11:42:34",
-  "count": 15150,
+  "updated": "2026-05-27 11:46:25",
+  "count": 15147,
   "items": [
+    {
+      "id": "4901594",
+      "time": "2026-05-27 11:45:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【武契奇到訪浙江嘉興敏實未來工廠】5月27日，正在對中國進行國事訪問的塞爾維亞總統武契奇到訪浙江嘉興的敏實集團未來工廠，深入瞭解人形機器人等創新領域的發展。"
+    },
+    {
+      "id": "4901593",
+      "time": "2026-05-27 11:45:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海：依託市級算力排程平臺加強對服務業數智化專案的算力支援】上海市人民政府釋出關於推進服務業擴能提質的實施意見。其中提出，推動服務業數智化創新專案與“模塑申城”“人工智慧+”“資料要素×”等市級行動協同實施。建強國家區塊鏈網路上海樞紐，提升共性服務能力，加快航貿數字化重點場景擴圍提質放量，支援在金融、航運、貿易等重點資料領域打造可信資料空間。鼓勵科技服務、專業服務等知識密集領域建設高質量資料集和專業語料庫，開發行業智慧體。依託市級算力排程平臺加強對服務業數智化專案的算力支援，最佳化算力券、模型券等用券支援方式。"
+    },
+    {
+      "id": "mkt:019e6789-2ff9-7ddb-92cf-1b079cebc5b6",
+      "time": "2026-05-27 11:44:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Russian and Iranian Diplomats Blocked From U.N. Security Council Meeting】Russia says U.S. denied visa to Deputy Foreign Minister Alexander Alimov, preventing his attendance at U.N. Security Council meeting in New York, U.N. Ambassador Vasily Nebenzia said on May 26; Iran said on May 25 its Foreign Minister Abbas Araghchi was also unable to attend same meeting due to visa issues."
+    },
+    {
+      "id": "4901592",
+      "time": "2026-05-27 11:43:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄、伊外交官赴聯合國參會遇阻】俄羅斯常駐聯合國代表瓦西里·涅邊賈26日說，俄外交部副部長亞歷山大·阿利莫夫原定出席在美國紐約舉行的聯合國安理會會議，但美方拒不發放簽證，俄方譴責美國此舉違背其作為聯合國總部東道國的義務。另據伊朗外交部25日說，伊朗外長阿巴斯·阿拉格齊也因“簽證問題”無法參加同一場安理會會議。（新華社）"
+    },
+    {
+      "id": "4901591",
+      "time": "2026-05-27 11:43:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐西蘭儲備銀行行長佈雷曼：預計今年房價增長將保持平穩。"
+    },
+    {
+      "id": "mkt:019e6786-edc8-7ddb-92cf-10f7f012f84d",
+      "time": "2026-05-27 11:42:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US Media: BIDEN Sues DOJ to Block Release of Interview Recordings and Transcripts】BIDEN sues DOJ in U.S. District Court for the District of Columbia to block officials from disclosing recordings and transcripts of interviews for his memoir; lawyers say DOJ's legal position conflicts with prior FOIA exemption practice and disclosure would unreasonably invade BIDEN's privacy, Bloomberg and ABC report."
+    },
+    {
+      "id": "4901590",
+      "time": "2026-05-27 11:42:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海：推動AI+廣告全鏈路應用 培育一批擁有核心技術和國際化能力的本土廣告品牌企業】上海市人民政府釋出關於推進服務業擴能提質的實施意見。其中提出，推動AI+廣告全鏈路應用，加快人工智慧生成內容（AIGC）創意生成、多模態內容生產等技術融合賦能，培育一批擁有核心技術和國際化能力的本土廣告品牌企業。拓展人力資源管理諮詢、高階人才尋訪等高附加值業態，開發招聘大模型、智慧面試等新產品。支援諮詢服務機構拓展健康諮詢、環境社會治理（ESG）諮詢等新業務，發展訂閱制、解決方案授權制等新模式。支援會計審計服務機構發展非鑑證類業務，建立各類企業與本土機構“走出去”常態化對接機制。"
+    },
     {
       "id": "4901589",
       "time": "2026-05-27 11:41:26",
@@ -135487,115 +135543,6 @@
         "Impact bullish"
       ],
       "text": "CHINA COMMERCE MINISTRY: BOTH SIDES SET GUIDING TARGETS FOR EXPANDING TWO-WAY TRADE IN AGRICULTURAL PRODUCTS"
-    },
-    {
-      "id": "te:markets:552097",
-      "time": "2026-05-20 11:46:20",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Indonesia",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Rupiah Stays Fragile Ahead of Rate Decision — The Indonesian rupiah hovered around IDR 17,700 per U.S. dollar on Wednesday, staying close to record lows as the dollar index held at a six-week high. Sentiment remained vulnerable amid escalating U.S.–Iran tensions, stoking inflation fears and reinforcing views that U.S. interest rates could stay higher for longer. Caution also prevailed ahead of Bank Indonesia’s policy decision later today, with markets widely anticipating a 25bps hike to 5.0%, the first rise since October. Pressure on the rupiah has intensified from persistent capital outflows, fiscal strains, and inflation risks from the Middle East conflict. Also, vigilance rose before Q1 current account data after Q4 swung into deficit on a wider oil gap. Markets largely discounted the finance ministry’s plan, starting from this week, to inject IDR 2 trillion daily into bonds to stabilise the rupiah and stem foreign selling. Meanwhile, the government is marketing U.S. dollar- and euro-denominated bonds, local media said."
-    },
-    {
-      "id": "te:markets:552096",
-      "time": "2026-05-20 11:45:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "India",
-        "stocks",
-        "Importance 0"
-      ],
-      "text": "ICICI Bank Stock Price Hits 6-week Low — ICICI Bank shares decreased to 1223.00 INR, the lowest since April 2026. Over the past 4 weeks, ICICI Bank lost 8.51%, and in the last 12 months, it decreased 13.73%."
-    },
-    {
-      "id": "4889350",
-      "time": "2026-05-20 11:44:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "印尼總統：政府認為所有自然資源都必須造福所有印尼人民。"
-    },
-    {
-      "id": "4889349",
-      "time": "2026-05-20 11:44:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "安科生物公告，聘任袁春為公司聯席CEO兼首席商務官。"
-    },
-    {
-      "id": "4889348",
-      "time": "2026-05-20 11:44:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "【西點藥業：子公司維生素B6注射液獲得藥品註冊證書】西點藥業公告，控股子公司吉林省雙勝豐藥業有限責任公司於近日收到國家藥品監督管理局簽發的維生素B6注射液《藥品註冊證書》。該產品適用於維生素B6缺乏的預防和治療；防治異煙肼中毒。也可用於妊娠、放射病及抗癌藥所致的嘔吐，脂溢性皮炎等；全胃腸道外營養及因攝入不足所致營養不良、進行性體重下降時維生素B6的補充；新生兒遺傳性維生素 B6依賴綜合徵。"
-    },
-    {
-      "id": "mkt:019e437b-8df9-7cc9-b8d4-cfacb3243084",
-      "time": "2026-05-20 11:43:44",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "CHINA'S XI, TO PUTIN: THE WORLD IS IN DANGER OF REVERSING INTO THE LAW OF THE JUNGLE - CHINESE STATE MEDIA"
-    },
-    {
-      "id": "4889347",
-      "time": "2026-05-20 11:43:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "印尼總統：如果按照憲法進行管理，印尼的自然資源足以保障所有印尼人民的福祉。"
-    },
-    {
-      "id": "mkt:019e437a-f799-7cc9-b8d4-c2972988b1c3",
-      "time": "2026-05-20 11:43:02",
-      "tags": [
-        "MKT News",
-        "Important",
-        "CNH",
-        "Impact bullish",
-        "Copper",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "CHINA COMMERCE MINISTRY: FOR PRODUCTS OF MUTUAL CONCERN AGREED UPON BY BOTH SIDES, MOST-FAVORED-NATION TARIFF RATES OR EVEN LOWER ARE EXPECTED"
-    },
-    {
-      "id": "4889346",
-      "time": "2026-05-20 11:42:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "【平頭哥AI晶片真武M890首次亮相 效能提升至3倍】在2026阿里雲峰會上，平頭哥新一代訓推一體AI晶片真武M890首次亮相，該晶片內建144GB視訊記憶體，片間互聯頻寬達到800GB/s，效能是真武810E的3倍，原生支援FP32到FP4等多種資料精度，可應用於高精度訓練、低精度和超低精度推理的全場景。配合自研ICN Switch1.0晶片，可實現64卡全頻寬互聯，提升大規模智算叢集計算的效率與穩定性。這是面向Agentic時代全面升級的重要部分，當天阿里雲推出了全新“芯-雲-模型-推理”技術體系。"
-    },
-    {
-      "id": "mkt:019e437a-a977-7cc9-b8d4-ba703101d55d",
-      "time": "2026-05-20 11:42:52",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "CHINA COMMERCE MINISTRY: BOTH SIDES AGREED IN PRINCIPLE TO DISCUSS FRAMEWORK ARRANGEMENT FOR RECIPROCAL TARIFF REDUCTIONS ON PRODUCTS OF EQUAL SIZE UNDER THE TRADE COUNCIL"
     }
   ]
 }
