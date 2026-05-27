@@ -1,7 +1,88 @@
 {
-  "updated": "2026-05-28 00:39:10",
-  "count": 14900,
+  "updated": "2026-05-28 00:43:14",
+  "count": 14909,
   "items": [
+    {
+      "id": "mkt:019e6a50-a1d7-7223-8ed6-e0683d203752",
+      "time": "2026-05-28 00:42:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Defense Minister Hegseth said Iran's economy is suffering severe damage."
+    },
+    {
+      "id": "4903022",
+      "time": "2026-05-28 00:42:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國防長赫格塞思：全球範圍內所有伊朗油輪都不再安全。"
+    },
+    {
+      "id": "4903021",
+      "time": "2026-05-28 00:41:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "一份宣告顯示，匈牙利總理毛焦爾將於週五在布魯塞爾會見歐盟委員會主席馮德萊恩。"
+    },
+    {
+      "id": "mkt:019e6a50-5427-7223-8ed6-d999d845dfe6",
+      "time": "2026-05-28 00:41:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hungarian Prime Minister magyar said he will meet European Commission President VON DER LEYEN in Brussels on Friday."
+    },
+    {
+      "id": "mkt:019e6a50-3d13-7223-8ed6-d5926d712385",
+      "time": "2026-05-28 00:41:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Defense Minister Hegseth said Iran cannot produce more missiles, tanks or warships."
+    },
+    {
+      "id": "4903020",
+      "time": "2026-05-28 00:41:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國防長赫格塞思：伊朗現在既造不出無人機，也造不出艦船。"
+    },
+    {
+      "id": "4903019",
+      "time": "2026-05-28 00:41:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "標普500指數轉正，抹去了此前高達0.2%的跌幅。"
+    },
+    {
+      "id": "4903018",
+      "time": "2026-05-28 00:39:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "派拉蒙執行長埃利森重申影片將採用院線上映的計劃。"
+    },
+    {
+      "id": "4903017",
+      "time": "2026-05-28 00:39:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國國務卿：未來幾個小時或幾天內將揭示伊朗局勢是否有進展】美國國務卿魯比奧在內閣會議上表示：“未來數小時和數天內，我們將觀察談判是否能夠取得進展。”他表示，美國將繼續推動與伊朗的外交努力。他稱，美國正給予外交手段“一切成功的機會”。魯比奧透露，美國中東問題特使威特科夫、庫什納以及副總統萬斯“都深度參與了”伊朗相關事務。"
+    },
+    {
+      "id": "4903016",
+      "time": "2026-05-28 00:38:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "派拉蒙執行長埃利森於週二與監管機構進行了會面。"
+    },
     {
       "id": "4903015",
       "time": "2026-05-28 00:38:22",
@@ -133592,18 +133673,6 @@
         "國際"
       ],
       "text": "伊朗外交部發言人：雙方透過巴基斯坦中介繼續交換資訊。"
-    },
-    {
-      "id": "te:economy:552393",
-      "time": "2026-05-21 00:42:57",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Ghana",
-        "Interest Rate",
-        "Importance 0"
-      ],
-      "text": "Ghana Pauses Easing Cycle — The Bank of Ghana left its benchmark interest unchanged at 14% in its May 2026 meeting, pausing after five consecutive rate cuts. Policymakers said the decision reflected a cautious but supportive stance designed to anchor inflation expectations while also supporting economic activity. Ghana’s annual inflation rate inched up to a three-month high of 3.4% in April, from 3.2% in March, but remained subdued overall."
     }
   ]
 }
