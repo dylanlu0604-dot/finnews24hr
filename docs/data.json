@@ -1,7 +1,93 @@
 {
-  "updated": "2026-05-27 12:06:50",
-  "count": 15131,
+  "updated": "2026-05-27 12:10:44",
+  "count": 15144,
   "items": [
+    {
+      "id": "4901626",
+      "time": "2026-05-27 12:08:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "石藥集團：一季度收入總額同比降7.8%。"
+    },
+    {
+      "id": "4901625",
+      "time": "2026-05-27 12:08:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "石藥集團第一季度營收64.7億元人民幣，銷售及分銷開支16.6億元人民幣，研發支出14.0億元人民幣。"
+    },
+    {
+      "id": "4901624",
+      "time": "2026-05-27 12:07:54",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【機構：2026年第一季度全球DRAM營收逼近千億美元】據Counterpoint諮詢統計，在強勁市場需求與儲存價格雙雙走強的推動下，全球DRAM營收於2026年第一季度環比增長80%，創下歷史新高。高頻寬記憶體（HBM）以及AI資料中心基礎設施中LPDDR5應用佔比提升，也成為推動這一增長的重要因素。其中，三星儲存業務持續保持領先地位，SK海力士與美光分列第二、第三位。預計2026年第二季度價格將繼續環比增長50%（包括HBM及標準型DRAM），預示市場將迎來又一個表現強勁的季度。"
+    },
+    {
+      "id": "4901623",
+      "time": "2026-05-27 12:07:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【江西宜春釋出暴雨紅色預警訊號】江西宜春市氣象臺2026年5月27日9時1分變更暴雨紅色預警訊號：過去3小時，宜春市萬載縣仙源鄉的區域性地區累計雨量已達100毫米以上，萬載縣西北部的部分地區累計雨量達60毫米以上，預計未來3小時內，萬載縣西北部仍有20-30毫米降水，並伴有短時強降水、雷電等強對流天氣，請注意防範強降雨可能引發的城鄉內澇、中小河流洪水、山洪和地質災害等次生災害。"
+    },
+    {
+      "id": "4901622",
+      "time": "2026-05-27 12:07:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【保時捷融資租賃公司增資至10億 增幅約23%】天眼查App顯示，近日，保時捷融資租賃有限公司發生工商變更，註冊資本由約8.2億人民幣增至10億人民幣，增幅約23%。該公司成立於2020年9月，法定代表人為汪濤，經營範圍包括融資租賃業務、租賃業務、向國內外購買租賃財產等。"
+    },
+    {
+      "id": "mkt:019e679d-588f-7ddb-92cf-913ae6b37cf5",
+      "time": "2026-05-27 12:06:56",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "【Japan 40-Year Govt Bond Auction Sees Above-Average Demand】Japan 40-year govt bond auction draws strong demand; BID-COVER RATIO 2.70 vs 2.54 prior and 12-month avg 2.47; winning yield 3.84% vs 3.6% prior; 40-year yield 4.09%, below this month's 4.355% peak. TAKAICHI says government will fund supplementary budget without increasing calendar-year govt bond issuance, easing supply concerns. KATAYAMA says about $3.2 bln of contingency funds will be used this fiscal year to subsidize utility spending."
+    },
+    {
+      "id": "4901621",
+      "time": "2026-05-27 12:06:51",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【廖岷會見環球銀行金融電信協會首席企業官羅斯瑪麗·斯通】2026年5月26日，財政部副部長廖岷在北京會見環球銀行金融電信協會（Swift）首席企業官羅斯瑪麗·斯通，就Swift內部治理、跨境支付、業務安全性、技術創新影響等問題進行了交流。（財政部）"
+    },
+    {
+      "id": "4901620",
+      "time": "2026-05-27 12:06:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗民航組織宣佈全國10個機場將實現24小時運營】伊朗民航組織26日宣佈，全國10個機場將延長運營時間並實施全天候24小時執行。其中包括德黑蘭伊瑪目霍梅尼國際機場和梅赫拉巴德機場，以及薩里、比爾詹德、戈爾甘、博伊努爾德、克爾曼、扎黑丹、薩布澤瓦爾和馬什哈德機場。（央視）"
+    },
+    {
+      "id": "4901619",
+      "time": "2026-05-27 12:06:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄、伊外交官赴聯合國參會遇阻 】俄羅斯常駐聯合國代表瓦西里·涅邊賈26日說，俄外交部副部長亞歷山大·阿利莫夫原定出席在美國紐約舉行的聯合國安理會會議，但美方拒不發放簽證，俄方譴責美國此舉違背其作為聯合國總部東道國的義務。 涅邊賈表示，俄方曾多番勸說美方為阿利莫夫發放簽證，卻最終無果。涅邊賈說，按照現有協定，紐約聯合國總部“理應對所有聯合國會員國官員開放，不得排除任何人”。另據伊朗外交部25日說，伊朗外長阿巴斯·阿拉格齊也因“簽證問題”無法參加同一場安理會會議。"
+    },
+    {
+      "id": "4901618",
+      "time": "2026-05-27 12:05:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中鎢高新與新銳股份舉行工作會談】據新銳股份訊息，5月26日，中鎢高新董事、總經理沈慧明一行到訪新銳股份，與新銳股份董事長吳何洪等人舉行工作會談。會談期間，雙方圍繞鎢行業當前的發展態勢、市場價格波動趨勢以及產業鏈健康生態的構建等共同關切的話題展開了充分探討。雙方達成共識：鎢作為國家戰略金屬，我國鎢行業企業應從維護國家戰略安全的高度出發，積極爭取並共同維護中國在國際市場上的話語權和定價權；同時，保持鎢價相對平穩，對於促進全產業鏈的良性、可持續發展具有重要意義。"
+    },
     {
       "id": "4901617",
       "time": "2026-05-27 12:04:26",
@@ -12,12 +98,49 @@
       "text": "【特斯拉歐洲月度銷量錄得強勁增長】特斯拉(Tesla) 4月份在歐洲的銷量強勁增長，這表明埃隆·馬斯克的這家電動汽車製造商在經歷了持續一年多的低迷後，正繼續在該地區重拾增長勢頭。行業組織歐洲汽車製造商協會(European Automobile Manufacturers' Association, 簡稱ACEA)的資料顯示，上月特斯拉車型在歐盟、英國、冰島、列支敦斯登、挪威和瑞士的新車註冊量（該資料反映了銷量）同比增長46.5%，至10,654輛。僅在歐盟，其銷量就同比增長超過67%，至9,169輛。這些資料顯示，特斯拉在該地區的銷量正在回升，且增長勢頭增強。4月份是其連續第三個月實現增長，此前3月份增幅超過84%，2月份增幅接近12%。2月份是該集團自2024年12月以來新車註冊量首次錄得增長。"
     },
     {
+      "id": "mkt:019e679b-0e96-7ddb-92cf-8dcb386b1428",
+      "time": "2026-05-27 12:04:24",
+      "tags": [
+        "MKT News",
+        "PARA.O",
+        "Impact bullish",
+        "WBD.O"
+      ],
+      "text": "【Paramount CEO Pledges to Preserve Theatrical Releases; U.S. DOJ May Approve Paramount's $110 bln Takeover of Warner Bros. Discovery】Paramount CEO pledges to preserve theatrical releases after two-hour meeting with U.S. DOJ; antitrust staff appear ready to clear Paramount's $110 bln takeover of Warner Bros. Discovery, sources tell Semafor"
+    },
+    {
+      "id": "mkt:019e679a-604e-7ddb-92cf-87c7647ffd5a",
+      "time": "2026-05-27 12:03:42",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Regions",
+        "Europe & UK",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bullish"
+      ],
+      "text": "【ACEA: Tesla April EU New Car Registrations Up 67%】ACEA says Tesla (TSLA.O) April EU new car registrations rose 67%"
+    },
+    {
       "id": "4901616",
       "time": "2026-05-27 12:03:21",
       "tags": [
         "公司"
       ],
       "text": "【網新軟體中標金華市大病保險數智諮詢服務平臺專案】據浙大網新訊息，近日，浙大網新旗下子公司網新軟體中標“金華市大病保險數智諮詢服務平臺服務專案”。專案圍繞智慧語音、線上客服、人工坐席、駐點諮詢、數字看板與運維監控六大板塊，建設統一規範、安全高效的大病保險公共服務體系。"
+    },
+    {
+      "id": "mkt:019e6799-e304-7ddb-92cf-7cfdf51dea5a",
+      "time": "2026-05-27 12:03:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【ACEA Apr EV Share Of New Car Registrations In EU, UK, EFTA 68.86%】ACEA Apr EV share of new car registrations in EU, UK and EFTA 68.86%"
     },
     {
       "id": "4901615",
@@ -27,6 +150,95 @@
         "國際"
       ],
       "text": "【歐盟4月份新車註冊量同比增長5.1%，達到97.2萬輛】根據歐洲汽車製造商協會 (ACEA) 的資料，歐洲（歐盟+歐洲自由貿易聯盟+英國）乘用車新註冊量較上年增長 7.0%，達到 115.2 萬輛。大眾集團銷量同比增長3.5%；年初至今增長2.1%。Stellantis銷售額同比增長6.7%；年初至今同比增長7.1%。雷諾集團銷量同比下降3.6%；年初至今同比下降6.5%。寶馬集團銷量同比增長2.4%；年初至今增長3.1%。福特汽車銷量同比下降13.2%；年初至今累計下降14.3%。梅賽德斯-賓士銷量同比增長7.0%；年初至今增長3.4%。豐田集團銷量同比下降0.8%；年初至今同比下降2.3%。日產汽車銷量同比下降9.8%；年初至今累計下降10.3%。特斯拉銷量同比增長46.5%；年初至今累計增長45.8%。比亞迪銷量同比增長114.5%；年初至今同比增長143.9%。"
+    },
+    {
+      "id": "mkt:019e6799-954a-7ddb-92cf-74642ba6e691",
+      "time": "2026-05-27 12:02:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "STLA.N",
+        "Impact bullish"
+      ],
+      "text": "ACEA: Stellantis (STLA.N) EU new car registrations +5.5% in April"
+    },
+    {
+      "id": "mkt:019e6799-5d54-7ddb-92cf-6b7222bc83d1",
+      "time": "2026-05-27 12:02:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DAX",
+        "FTSE100"
+      ],
+      "text": "ACEA: EU new car registrations +4.2% Jan-Apr to 3,794,280 units"
+    },
+    {
+      "id": "mkt:019e6799-053e-7ddb-92cf-6787c0681893",
+      "time": "2026-05-27 12:02:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "ACEA: April passenger car registrations in EU, UK and EFTA +7% YoY; YTD +4.8%."
+    },
+    {
+      "id": "mkt:019e6798-a98a-7ddb-92cf-5dd53c940b5a",
+      "time": "2026-05-27 12:01:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "VOW3.DE",
+        "Impact bullish"
+      ],
+      "text": "ACEA says Volkswagen April EU new car registrations +3.2%."
+    },
+    {
+      "id": "mkt:019e6798-6fc7-7ddb-92cf-552b1260723b",
+      "time": "2026-05-27 12:01:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "TM.O",
+        "Impact bearish"
+      ],
+      "text": "ACEA: Toyota EU new car registrations down 1.8% in April"
+    },
+    {
+      "id": "mkt:019e6798-4ab4-7ddb-92cf-4f5738929174",
+      "time": "2026-05-27 12:01:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "RNO.PA",
+        "Impact bearish"
+      ],
+      "text": "ACEA says Renault EU new car registrations down 4.3% in Apr"
+    },
+    {
+      "id": "mkt:019e6798-35a2-7ddb-92cf-44cc947d2167",
+      "time": "2026-05-27 12:01:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "TSLA.O",
+        "Impact bearish",
+        "1211.HK",
+        "Impact bullish"
+      ],
+      "text": "ACEA says April market share in EU, UK and EFTA: Tesla (TSLA.O) 0.9%, Chinese BYD 2.3%; Tesla BEV 4.17%."
     },
     {
       "id": "4901614",
@@ -135303,79 +135515,6 @@
         "國際"
       ],
       "text": "印度尼西亞總統：政府今日頒佈一項關於自然資源出口管理的規定。"
-    },
-    {
-      "id": "mkt:019e4393-cab9-7cc9-b8d5-3e0f3df94a5b",
-      "time": "2026-05-20 12:10:19",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact mixed"
-      ],
-      "text": "INDONESIA PRESIDENT: I HAVE ASKED THE CABINET TO ENSURE PRICES OF OUR COMMODITIES, SUCH AS NICKEL, GOLD, BE DETERMINED BY OURSELVES"
-    },
-    {
-      "id": "4889385",
-      "time": "2026-05-20 12:10:03",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【摩根大通：中國股市今年仍有可觀上行空間 因流動性充裕和業績向好】摩根大通中國股票策略師張曉寧表示，中國股市今年仍具有可觀的上行空間，因受益於流動性充裕和業績預期向好。基礎情形下，今年對MSCI中國指數的目標點位在100點，滬深300指數的目標點位在5200點。配置上聚焦高質量成長，包括人工智慧生態系統、機器人和能源安全。消費重點關注貼合年輕群體對於精神和身體健康訴求帶來的投資機會，把握新消費趨勢，同時關注地產一線城市核心區域的開發商，受益於行業K型復甦。"
-    },
-    {
-      "id": "mkt:019e4393-836d-7cc9-b8d5-36cc15a77ba5",
-      "time": "2026-05-20 12:10:01",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "NVIDIA TO LAUNCH SINGAPORE RESEARCH HUB AS CITY-STATE BOOSTS AI PLANS - CNBC"
-    },
-    {
-      "id": "4889384",
-      "time": "2026-05-20 12:09:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "英偉達將在新加坡設立研究中心，助力這個城邦國家推進人工智慧發展計劃。"
-    },
-    {
-      "id": "4889383",
-      "time": "2026-05-20 12:09:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度尼西亞總統：若迴歸憲法框架，我們就能防範出口欺詐與低價開票行為。"
-    },
-    {
-      "id": "4889382",
-      "time": "2026-05-20 12:07:51",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【受暴雨洪澇影響，黃果樹、雲臺山等多個景區釋出臨時閉園公告】受持續強降雨及洪澇災害的影響，多個景區因水位上漲、山體落石風險加大等原因，釋出了臨時閉園公告。5月19日晚間，湖南省懷化市鶴城區文化旅遊廣電體育局釋出《懷化大峽谷、白馬景區汛期臨時閉園公告》公告稱，受當前強降雨影響，通往景區的楊黃公路山體落石、塌方風險加大，通行安全存在隱患。為確保遊客安全與遊覽品質，懷化大峽谷景區和白馬景區於5月19 日至5月21日臨時閉園，預計5月22日恢復正常開園。貴州多個景區在5月19日也採取了管控措施。5月19日，黃果樹景區釋出公告稱，受強降雨影響，安順旅遊集團旗下部分景區水位上漲，為保障遊客遊覽安全，19日，黃果樹景區的大瀑布水簾洞、下層觀景臺及陡坡塘護欄橋景點即日起實施臨時管控，暫停對外開放，其他景點正常遊覽；龍宮景區的一進龍宮、二進龍宮及通漩河乘船點實施封閉管理，乘船服務暫停，景區當日暫停售票，並實行全園閉園管理。"
-    },
-    {
-      "id": "te:economy:552105",
-      "time": "2026-05-20 12:07:41",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Malaysia",
-        "Balance of Trade",
-        "Importance 1"
-      ],
-      "text": "Malaysia Trade Surplus Largest in Near 3 Years — Malaysia’s trade surplus surged to MYR 28.8 billion in April 2026 from MYR 5.1 billion in the same month last year, surpassing market expectations of MYR 16.6 billion. It was the largest trade surplus since June 2023, as exports grew faster than imports. Exports jumped 36.9% year-on-year to a three-month high of MYR 182.7 billion, while imports rose at a slower pace of 20% to MYR 154.0 billion."
     }
   ]
 }
