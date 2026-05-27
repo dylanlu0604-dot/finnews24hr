@@ -1,7 +1,68 @@
 {
-  "updated": "2026-05-27 12:30:29",
-  "count": 15146,
+  "updated": "2026-05-27 12:34:21",
+  "count": 15149,
   "items": [
+    {
+      "id": "4901660",
+      "time": "2026-05-27 12:33:22",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【成本壓力引發盈利下調 澳交所股價創下十年新低】受成本攀升影響，多家券商下調這家處境艱難的澳大利亞交易所運營商的盈利預期，澳交所股價跌至近十年低位。該股週三最大跌幅達8.6%，創下2016年11月以來新低，前一交易日該股已暴跌13%，創下歷史最大單日跌幅。澳交所週二公佈，技術升級相關支出增幅超出市場預期。受此影響，巴倫喬伊市場公司、瑞銀集團、麥格理集團等多家券商紛紛下調其盈利預測。成本高企讓新任執行長安東尼・阿蒂亞（Anthony Attia）面臨更大挑戰。此前監管調查發現公司存在治理與風險管理漏洞，他上任後需重塑市場信任。這位來自歐洲泛歐交易所的高管將於9月1日正式履職。"
+    },
+    {
+      "id": "4901659",
+      "time": "2026-05-27 12:32:22",
+      "tags": [
+        "央行"
+      ],
+      "text": "中國央行在香港招標發行的三個月央票中標利率為1.13%（上次為1.53%）。中國央行在香港招標發行的一年期央票中標利率為1.32%（上次為1.47%）。"
+    },
+    {
+      "id": "te:markets:553946",
+      "time": "2026-05-27 12:32:21",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Copper Rises on US-Iran Deal Optimism — Copper futures climbed to around $6.4 per pound on Wednesday, extending recent gains as markets cautiously priced in the possibility of a US-Iran peace agreement despite ongoing hostilities in the Middle East. President Donald Trump said negotiations to extend a ceasefire and reopen the Strait of Hormuz are still in progress, while US Secretary of State Marco Rubio cautioned that reaching a final deal could still take several days. Copper was also underpinned by the continued strength in AI-linked technology equities, which has reinforced expectations for stronger industrial demand driven by electrification trends and data center expansion, particularly in wiring and power infrastructure. On the supply side, lingering concerns tied to the Middle East conflict, including potential disruptions to sulfur availability used in copper smelting, added further support to prices."
+    },
+    {
+      "id": "mkt:019e67b4-37fe-700e-adbc-6a48b9f754c2",
+      "time": "2026-05-27 12:32:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【India Tests Financial and Government Critical Systems Against MYTHOS Risk】India testing sensitive financial and government systems for vulnerabilities to ANTHROPIC MYTHOS; Infosys and TCS running secure tests using ANTHROPIC Claude OPUS 4.7; CERT-In testing Aadhaar national ID and government login systems; Reserve Bank of India repeatedly convened banks to warn on MYTHOS risk"
+    },
+    {
+      "id": "4901658",
+      "time": "2026-05-27 12:31:57",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信證券李春波：中國資本市場韌性和抗風險能力明顯增強】中信證券2026年資本市場論壇在上海舉行，中信證券執行委員、中信證券國際董事長李春波致辭稱，在“韌鏈強基”夯實安全底座、“科創自立”開啟發展空間的共同驅動下，資本市場服務新質生產力的功能定位將更加突出，價值投資的新機遇將加速形成。“韌鏈強基，科創自立”的產業與政策格局，將深刻重塑資本市場生態，成為資本市場踐行金融強國的關鍵抓手。資本市場執行的積極動能正在不斷積累，市場韌性和抗風險能力也在明顯增強。"
+    },
+    {
+      "id": "4901657",
+      "time": "2026-05-27 12:30:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【協鑫能科：持續探索“電力+算力”協同發展新方向，為中國電信等提供算力租賃支援】協鑫能科5月27日在互動平臺表示，根據2025年年報披露，公司持續探索“電力+算力”協同發展新方向，為中國電信等提供算力租賃支援，服務城市政務雲、醫療雲、教育雲等民生業務數智化升級和滿足部分科技型企業的算力需求。目前階段公司算力相關收入佔總營收比重較低，歸入其他業務分類營收中。"
+    },
+    {
+      "id": "4901656",
+      "time": "2026-05-27 12:29:57",
+      "tags": [
+        "市場",
+        "央行"
+      ],
+      "text": "【機構：澳大利亞企業可能並未轉嫁更高成本】澳新銀行經濟學家表示，澳大利亞通脹資料表明，企業可能發現很難將更高的成本迅速轉嫁給消費者。在4月份整體通脹率上升0.35%、低於預期的背景下，這些經濟學家幾乎沒有看到澳大利亞國民銀行最近的一項企業調查所顯示的採購價格急劇上升的證據。他們確實預計未來幾個月更多支出類別的價格將上漲，但對整體情況仍相對樂觀。他們指出，截尾均值通脹僅略高於澳大利亞央行目標區間的上限，並仍預計隔夜拆款利率將維持在4.35%不變。"
+    },
     {
       "id": "4901655",
       "time": "2026-05-27 12:28:25",
@@ -135507,39 +135568,6 @@
         "國際"
       ],
       "text": "【印尼出臺出口管控新規 股市跌幅擴大至2.4%】印尼總統普拉博沃・蘇比安託在國會預算演講中宣佈收緊大宗商品出口國家管控後，印尼股市跌幅進一步擴大。雅加達綜合指數回吐此前1.4%的漲幅，最大跌幅達2.4%。普拉博沃表示：“此次監管改革是強化大宗商品出口及自然資源銷售管理的戰略性舉措。”印尼政府同時提出，計劃將2027年財政赤字佔國內生產總值比重控制在1.8%至2.4%區間。大盤股指中，基礎原材料板塊領跌，其中此類股票的本地指標下跌5.9%。印尼盾此前一度跌至歷史低位，目前匯率企穩，報1美元兌17700印尼盾。"
-    },
-    {
-      "id": "4889421",
-      "time": "2026-05-20 12:33:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "受出口管理規則影響，印尼股市跌幅擴大至2.4%，抹去了此前1.4%的漲幅。"
-    },
-    {
-      "id": "4889420",
-      "time": "2026-05-20 12:33:18",
-      "tags": [
-        "市場"
-      ],
-      "text": "巴基斯坦KSE-100指數開盤上漲0.2%，至163,484.40點。"
-    },
-    {
-      "id": "4889419",
-      "time": "2026-05-20 12:32:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "越南總理：越南堅決打擊侵犯智慧財產權行為。"
-    },
-    {
-      "id": "4889418",
-      "time": "2026-05-20 12:31:14",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "馬來西亞基準毛棕櫚油期貨上漲2.01%，報每噸4677令吉。"
     }
   ]
 }
