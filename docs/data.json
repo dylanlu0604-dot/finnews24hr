@@ -1,7 +1,82 @@
 {
-  "updated": "2026-05-27 15:10:45",
-  "count": 15112,
+  "updated": "2026-05-27 15:14:38",
+  "count": 15114,
   "items": [
+    {
+      "id": "mkt:019e6848-43b6-733d-96ba-27aea7ff01f9",
+      "time": "2026-05-27 15:13:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Kazakhstan Plane Crash Kills One】Kazakhstan's Ministry of Transport says An-2 aircraft crashed on May 27 local time, 1 dead"
+    },
+    {
+      "id": "4901895",
+      "time": "2026-05-27 15:13:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【哈薩克一架飛機墜毀 致1人死亡】總檯記者獲悉，當地時間5月27日，哈薩克交通運輸部發布通報稱，一架安-2飛機在該國境內墜毀，造成1人死亡。（央視新聞）"
+    },
+    {
+      "id": "mkt:019e6847-3dd8-733d-96ba-1ade638ec426",
+      "time": "2026-05-27 15:12:37",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "KYODO: Japan government to submit supplementary budget to Diet on June 3"
+    },
+    {
+      "id": "4901894",
+      "time": "2026-05-27 15:11:57",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【惠康科技：目前有製冷裝置出口到印度，收入佔比較小】惠康科技5月27日在互動平臺表示，公司目前有製冷裝置出口到印度，出口印度的收入佔比較小。"
+    },
+    {
+      "id": "mkt:019e6846-834a-733d-96ba-17f0cb1c0f22",
+      "time": "2026-05-27 15:11:52",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China Tech Giants",
+        "Star Stocks",
+        "Tencent",
+        "0700.HK"
+      ],
+      "text": "【Tencent Meeting Launches “Sound Chain” Audio Feature】Tencent Cloud says Tencent Meeting launches “Sound Chain” feature, enabling multiple speakers in same meeting room without audio feedback and with automatic speaker identification."
+    },
+    {
+      "id": "4901893",
+      "time": "2026-05-27 15:11:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本政府將於6月3日向國會提交補充預算案。"
+    },
+    {
+      "id": "4901892",
+      "time": "2026-05-27 15:11:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【深圳佳兆業金沙灣大酒店再次被拍賣：56折 已有1人報名】位於深圳市龍崗區大鵬新區大鵬街道的佳兆業金沙灣大酒店01不動產，今日再次被拍賣。不動產登記資訊查詢結果顯示，被拍標的物宗地面積34449平方米，建築面積41081平方米，土地用途為旅館業用地，房屋用途為酒店，權利人為深圳市金沙灣大酒店有限公司。查詢歷史資料可以發現，前述標的物於2025年11月6日曾被拍賣，當時的起拍價為6.92億元，因無人出價而流拍。該標的物本次起拍價5.53億元，較9.88億元的評估價，相當於打了56折。另據企查查股權結構圖，佳兆業集團透過全資子公司佳兆業（深圳）有限公司持有深圳佳兆業酒店管理有限公司100%股權，而深圳市金沙灣大酒店有限公司為深圳佳兆業酒店管理有限公司全資子公司。至記者截稿，本次拍賣已有1人報名，暫無出價記錄。"
+    },
+    {
+      "id": "te:markets:553983",
+      "time": "2026-05-27 15:10:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "US Natgas Prices At Over 1-Week Low — US natural gas futures held at an over one-week low around $2.99 per MMBtu as forecasts for below-normal weather pointed to weaker demand. Forecasts for below-average temperatures across California through May 30 and in the eastern half of the US between May 31 and June 4 are likely to reduce demand from electricity providers for air-conditioning. Still, further declines were limited by a drop in production and improving LNG export activity. Gas output in the Lower 48 states averaged 109.4 billion cubic feet per day so far in May, slightly below April’s 109.8 billion. At the same time, gas flows to LNG export plants increased to an estimated 18.4 billion cubic feet per day on Tuesday, nearly 9% higher than the previous week, as several facilities resumed operations after seasonal maintenance had temporarily shifted supply back into the local market."
+    },
     {
       "id": "4901891",
       "time": "2026-05-27 15:08:54",
@@ -135241,60 +135316,6 @@
         "其他"
       ],
       "text": "【格爾軟體與海光資訊簽署戰略合作協議】5月19日，格爾軟體與海光資訊正式簽署戰略合作協議。雙方將深化晶片內生安全與商用密碼技術融合，推進抗量子密碼遷移方案落地應用。"
-    },
-    {
-      "id": "4889664",
-      "time": "2026-05-20 15:13:20",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【大商所釋出黃大豆1號、豆油系列期權掛牌引數】大商所公告：黃大豆1號系列期權的合約月份為1、3、5、7、9、11月，豆油系列期權的合約月份為3、5、7、11月。首批掛牌以A2611、Y2611期貨合約為標的的系列期權合約。後續系列期權合約將於標的期貨合約交割月份前5個月的第一個交易日掛牌交易，標的期貨合約在該交易日之前無成交的，系列期權合約於標的期貨合約成交後的下一交易日掛牌交易。"
-    },
-    {
-      "id": "4889663",
-      "time": "2026-05-20 15:13:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "保加利亞總理： 已就美軍戰機進駐索非亞一事同特朗普、赫格塞思展開會談。"
-    },
-    {
-      "id": "4889662",
-      "time": "2026-05-20 15:12:22",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【Stellantis與東風集團擬在歐洲成立合資企業，將負責嵐圖銷售業務】5月20日，Stellantis集團宣佈，已與東風汽車集團股份有限公司（下稱“東風集團”）簽署一項非約束性諒解備忘錄。根據初步商討的擬議方案，雙方有意向成立一家總部位於歐洲且由Stellantis集團主導的合資企業，Stellantis集團與東風集團在該合資企業的持股比例為51%:49%。該合資企業預期將負責東風集團嵐圖品牌高階新能源車型在歐洲約定市場的銷售和分銷業務，還將承載聯合採購和工程研發專案。"
-    },
-    {
-      "id": "4889661",
-      "time": "2026-05-20 15:11:59",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【習近平同俄羅斯總統普京會談】5月20日上午，國家主席習近平在北京人民大會堂同來華進行國事訪問的俄羅斯總統普京舉行會談。兩國元首一致同意《中俄睦鄰友好合作條約》繼續延期。\n\n兩國元首先後舉行小範圍、大範圍會談。\n\n習近平指出，今年是中俄戰略協作夥伴關係建立30週年和《中俄睦鄰友好合作條約》簽署25週年。中俄兩國簽署睦鄰友好合作條約，以法律形式確立了長期睦鄰友好、全面戰略協作的制度基礎，中俄關系由此實現跨越式發展。中俄關系一步一個腳印走到今天這個高度，是因為雙方以“千磨萬擊還堅勁”的毅力不斷深化政治互信和戰略協作，以“更上一層樓”的精神拓展各領域合作，以“亂雲飛渡仍從容”的勇氣捍衛國際公道正義、推動構建人類命運共同體。當前國際形勢下，作為聯合國安理會常任理事國和世界重要大國，中俄兩國要著眼戰略長遠，以更高質量的全面戰略協作助力各自國家發展振興，推動構建更加公正合理的全球治理體系。\n\n習近平指出，中俄兩國堅持在平等相待、相互尊重、重信守義、合作共贏的基礎上發展新時代全面戰略協作夥伴關係，政治互信不斷深化，經貿、投資、能源、科技、人文、地方等合作持續推進，民心相通更加牢固。中俄關系進入更有作為、更快發展的新階段。堅定不移推動中俄關系長期、健康、穩定、高質量發展，是雙方著眼兩國根本利益和世界發展大勢作出的戰略選擇。兩國各部門要全力落實好我和普京總統達成的重要共識，充分把握歷史機遇，推動兩國的互信根基越扎越牢、合作成色越來越足、友誼之路越走越寬。\n\n習近平強調，雙方要聚焦兩國發展振興目標，充分發揮中俄合作機制全面、完備的特點，加強對全方位合作的統籌設計，推動經貿投資、能源資源、交通運輸、科技創新等務實合作提質升級，積極佈局前沿領域合作，以新質生產力打造增長新引擎；要立足賡續世代友好，加強教育、文化、電影、旅遊、體育等人文交流合作，夯實兩國友好的社會民意基礎；要深化多邊協作，進一步密切在聯合國、上海合作組織、金磚國家、亞太經合組織等多邊平臺的協調和配合，堅定不移維護戰後國際秩序和國際法權威，團結全球南方，引領全球治理體系改革的正確方向。（央視新聞）"
-    },
-    {
-      "id": "4889660",
-      "time": "2026-05-20 15:11:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "【商絡電子：長鑫科技是公司重要的合作原廠，公司目前暫未持有其股權】商絡電子5月20日在互動平臺表示，長鑫科技是公司重要的合作原廠，公司目前暫未持有其股權。雙方長期保持穩定向好的合作關係。"
-    },
-    {
-      "id": "mkt:019e4439-83fb-7cc9-95db-b8ee5615e209",
-      "time": "2026-05-20 15:11:17",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "CHINA'S FOREIGN MINISTRY, ON RUSSIA TIES: CHINA EXTENDS VISA FREE POLICY FOR RUSSIA UNTIL DEC 31 2027"
     }
   ]
 }
