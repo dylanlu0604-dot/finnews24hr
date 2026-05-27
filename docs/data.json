@@ -1,7 +1,67 @@
 {
-  "updated": "2026-05-28 03:58:19",
-  "count": 14893,
+  "updated": "2026-05-28 04:02:16",
+  "count": 14889,
   "items": [
+    {
+      "id": "4903172",
+      "time": "2026-05-28 04:01:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "Salesforce一季度營收111.3億美元，分析師預期110.5億美元。"
+    },
+    {
+      "id": "4903171",
+      "time": "2026-05-28 04:01:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "SALESFORCE 預計第二季度營收介於 112.7 億至 113.5 億美元，市場預期為 113.6 億美元。"
+    },
+    {
+      "id": "4903170",
+      "time": "2026-05-28 04:00:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體收漲】道指漲0.36%，標普500指數漲0.02%，納指漲0.08%。APP AppLovin漲10.42%，美高梅漲9.06%，聯合大陸航空漲6.33%，挪威郵輪漲6.23%，通用汽車漲5.44%，Aptiv PLC漲5.39%。“七姐妹”方面：Meta Platforms漲3.76%，亞馬遜漲2.47%，特斯拉漲1.56%，蘋果漲0.82%，谷歌跌0.02%，微軟跌0.82%，英偉達跌1.04%。"
+    },
+    {
+      "id": "4903169",
+      "time": "2026-05-28 04:00:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "APPLOVIN股價上漲10%，創2月9日以來最大漲幅。"
+    },
+    {
+      "id": "mkt:019e6b06-6987-7223-8ed9-915c801293f8",
+      "time": "2026-05-28 04:00:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "MU.O",
+        "Impact bullish",
+        "TSLA.O",
+        "QCOM.O",
+        "Impact bearish"
+      ],
+      "text": "【U.S. Stocks Close: Major Indexes Tick Up Slightly; Tech Stocks Diverge】At the U.S. close, the Dow Jones Industrial Average rose 0.36%, the S&P 500 gained 0.02% and the Nasdaq Composite was up 0.07%. Technology stocks diverged: Micron Technology (MU.O) +3.63%, Tesla (TSLA.O) +1.66%, Qualcomm (QCOM.O) down more than 6%, Intel (INTC.O) down 1.4%."
+    },
+    {
+      "id": "4903168",
+      "time": "2026-05-28 04:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收漲1.02%】360數科漲25.14%，聲網漲12.20%，信也科技漲10.71%，小贏科技漲10.41%，樂信漲9.42%。"
+    },
     {
       "id": "4903167",
       "time": "2026-05-28 03:57:05",
@@ -133402,106 +133462,6 @@
         "Europe & UK"
       ],
       "text": "UK PM OFFICE: STARMER AND ZELENSKIY REITERATED NEED TO KEEP UP THIS PRESSURE ON RUSSIA AND WELCOMED STRENGTH OF UK-UKRAINE RELATIONSHIP"
-    },
-    {
-      "id": "4891190",
-      "time": "2026-05-21 04:02:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "英國首相府：首相今晚與烏克蘭總統澤連斯基通電話。"
-    },
-    {
-      "id": "mkt:019e46fa-ff2d-7bb5-8188-739384120249",
-      "time": "2026-05-21 04:01:50",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "UK PM OFFICE: PRIME MINISTER SPOKE WITH PRESIDENT VOLODYMYR ZELENSKYY OF UKRAINE THIS EVENING"
-    },
-    {
-      "id": "4891189",
-      "time": "2026-05-21 04:01:48",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "高盛股價上漲5.8%，創歷史新高，為2025年4月以來最大漲幅。"
-    },
-    {
-      "id": "mkt:019e46fa-e1f4-7bb5-8188-6d61c482a4df",
-      "time": "2026-05-21 04:01:47",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Wall Street (US)",
-        "Nasdaq100",
-        "Impact bullish",
-        "Dow",
-        "S&P500"
-      ],
-      "text": "NASDAQ CLOSED +1.54%, DOW +1.31%, S&P 500 +1.08%"
-    },
-    {
-      "id": "mkt:019e46fa-58c5-7bb5-8188-6181110d0d15",
-      "time": "2026-05-21 04:01:12",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "US FEDERAL RESERVE PROPOSES TO ESTABLISH LIMITED 'PAYMENT ACCOUNT' FOR SOME INSTITUTIONS PROPOSAL WOULD NOT EXPAND OR CHANGE LEGAL ELIGIBILITY FOR FED ACCOUNT ACCESS NEW PAYMENT ACCOUNT HOLDERS WOULD NOT HAVE ACCESS TO INTRADAY CREDIT OR FED'S DISCOUNT WINDOW, WOULD NOT EARN INTEREST ON FED RESERVES"
-    },
-    {
-      "id": "mkt:019e46fa-1e18-7bb5-8188-5f648ce8b611",
-      "time": "2026-05-21 04:00:57",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "FED SAYS IT IS ALSO ENCOURAGING FED RESERVE BANKS TO PAUSE DECISIONS ON GRANTING NONTRADITIONAL ACCOUNTS UNTIL IT HAS COMPLETED WORK ON NEW POLICY"
-    },
-    {
-      "id": "4891188",
-      "time": "2026-05-21 04:00:45",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股收盤：三大股指集體收漲】道指漲1.31%，標普500指數漲1.08%，納指漲1.53%。Arm Holdings漲14.99%，聯合大陸航空漲9.99%，超微電腦漲9.55%，達美航空漲9.39%，嘉年華漲8.98%，挪威郵輪漲8.42%，NRG能源漲8.31%。“七姐妹”方面：特斯拉漲3.25%，亞馬遜漲2.20%，英偉達漲1.32%，蘋果漲1.07%，微軟漲0.87%，Meta Platforms漲0.39%，谷歌跌0.02%。"
-    },
-    {
-      "id": "4891187",
-      "time": "2026-05-21 04:00:11",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗“波斯灣海峽管理局”：伊朗已就霍爾木茲海峽的監管管轄範圍作出如下界定，管控海域東界線為海峽東入口處，連線伊朗庫赫 - 穆巴拉克與阿聯酋富查伊拉南部的連線；管控海域西界線為海峽西入口處，連線伊朗格什姆島頂端與阿聯酋烏姆蓋萬的連線。任何以穿越霍爾木茲海峽為目的、途經該管控海域的船舶，均需與波斯灣海峽管理局協調並獲得其授權。"
-    },
-    {
-      "id": "4891186",
-      "time": "2026-05-21 04:00:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【納斯達克中國金龍指數收跌0.47%】萬國資料跌9.21%，嗶哩嗶哩跌8.60%，逸仙電商跌6.01%，新氧跌5.36%，金山雲跌4.28%。"
-    },
-    {
-      "id": "mkt:019e46f9-1b32-7bb5-8188-56d5338d0789",
-      "time": "2026-05-21 03:59:50",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "THE AUTHORITY SETS THE ZONE AS LINE CONNECTING KUH-E MUBARAK IN IRAN TO SOUTH OF UAE'S FUJAIRAH AT EASTERN ENTRANCE OF STRAIT TO THE LINE CONNECTING TIP OF QESHM ISLAND TO UMM AL-QUWAIN AT THE WESTERN ENTRANCE TRANSIT THROUGH THIS AREA FOR PURPOSE OF PASSING THROUGH HORMUZ STRAIT REQUIRES COORDINATION WITH AND AUTHORIZATION FROM THE AUTHORITY -POST ON X"
     }
   ]
 }
