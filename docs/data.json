@@ -1,7 +1,34 @@
 {
-  "updated": "2026-05-28 06:42:16",
-  "count": 14837,
+  "updated": "2026-05-28 06:46:06",
+  "count": 14835,
   "items": [
+    {
+      "id": "4903264",
+      "time": "2026-05-28 06:45:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：如今美國已然成為全球加密產業中心，從業者與創業者紛紛迴歸故土。 在我的領導下，我們將以立法形式確立一套長效穩固的數字資產市場規則體系，杜絕反對者隨意推翻。金融新賽道正在美國崛起，特朗普絕不會辜負加密行業！"
+    },
+    {
+      "id": "te:markets:554191",
+      "time": "2026-05-28 06:45:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Ether Drops by 2.07% — Top crypto losers are Ether (-2.07%), Bitcoin (-1.73%) and Binance (-1.09%)."
+    },
+    {
+      "id": "4903263",
+      "time": "2026-05-28 06:43:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：將立法確立具備長遠適配性的數字資產市場架構。"
+    },
     {
       "id": "mkt:019e6b99-8cba-722a-b522-87aefac40d55",
       "time": "2026-05-28 06:41:25",
@@ -133055,49 +133082,6 @@
         "國際"
       ],
       "text": "美國解除對聯合國專家弗朗西斯卡·阿爾巴內塞的制裁。"
-    },
-    {
-      "id": "4891356",
-      "time": "2026-05-21 06:45:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "紐西蘭4月份貿易順差為19.2億紐西蘭元。"
-    },
-    {
-      "id": "4891355",
-      "time": "2026-05-21 06:45:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "紐西蘭4月份進口額為67億紐西蘭元。"
-    },
-    {
-      "id": "4891354",
-      "time": "2026-05-21 06:45:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "紐西蘭4月份公佈的12個月累計貿易逆差為27.64億紐西蘭元。"
-    },
-    {
-      "id": "4891353",
-      "time": "2026-05-21 06:45:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "紐西蘭4月份出口額為86.2億紐西蘭元。"
-    },
-    {
-      "id": "te:markets:552433",
-      "time": "2026-05-21 06:44:59",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: Binance Appreciates by 1.26% — Today's cryptos market is characterized by modest daily movements, with Binance standing out as the frontrunner with a 1.26% increase."
     }
   ]
 }
