@@ -1,7 +1,86 @@
 {
-  "updated": "2026-05-27 14:18:50",
-  "count": 15115,
+  "updated": "2026-05-27 14:22:54",
+  "count": 15112,
   "items": [
+    {
+      "id": "4901793",
+      "time": "2026-05-27 14:21:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【小米公佈車主遭網路攻擊援助成果】5月27日，小米法務部發文：自2025年9月26日釋出小米車主遭網路攻擊專項援助資訊收集以來，截至今年5月27日，已有21,983人參與，3,201人提供相關證據資訊，目前已幫助73位車主向法院成功立案，相關維權工作仍在持續推進中。 截至今日，首批民事訴訟案件已取得五份一審勝訴判決。法院依法認定被告構成侵權，判令各案被告立即停止侵權、刪除侵權言論，並向車主賠禮道歉。同時，每案均判決侵權人向車主支付經濟賠償。"
+    },
+    {
+      "id": "4901792",
+      "time": "2026-05-27 14:21:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內跌3%，現報18292.00元。"
+    },
+    {
+      "id": "mkt:019e6818-0d11-700e-adbd-a5e180f28063",
+      "time": "2026-05-27 14:21:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Australia S&P/ASX200 up 43.50 pts, +0.50% to 8,701.30 at close on May 27 (Wed)"
+    },
+    {
+      "id": "mkt:019e6816-69de-700e-adbd-9956b85c3974",
+      "time": "2026-05-27 14:19:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot silver down 2.00% intraday at $75.38/oz; spot gold down 0.39% intraday at $4,490/oz"
+    },
+    {
+      "id": "4901791",
+      "time": "2026-05-27 14:18:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌2%，現報75.37美元/盎司。"
+    },
+    {
+      "id": "4901790",
+      "time": "2026-05-27 14:18:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4520美元/盎司，日內跌0.34%。"
+    },
+    {
+      "id": "4901789",
+      "time": "2026-05-27 14:18:39",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4490美元/盎司，日內跌0.39%。"
+    },
+    {
+      "id": "4901788",
+      "time": "2026-05-27 14:18:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌1%，現報75.81美元/盎司。"
+    },
     {
       "id": "4901787",
       "time": "2026-05-27 14:17:09",
@@ -135206,99 +135285,6 @@
         "焦點"
       ],
       "text": "WTI原油失守103美元/桶，日內跌1.10%。"
-    },
-    {
-      "id": "4889577",
-      "time": "2026-05-20 14:22:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內跌1%，現報103.06美元/桶。"
-    },
-    {
-      "id": "4889576",
-      "time": "2026-05-20 14:22:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "【武漢天源中標雲南省師宗縣竹基風電場專案】據武漢天源訊息，5月19日，雲南省公共資源交易資訊平臺釋出中標公告，確認武漢天源旗下武漢天源能源有限公司成功中標雲南省師宗縣竹基風電場專案。該專案總裝機容量48MW，總投資約2.1億元，是當地最佳化能源結構、助推綠色低碳轉型的重點新能源專案。"
-    },
-    {
-      "id": "4889575",
-      "time": "2026-05-20 14:22:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯國防部：演習期間，核部隊確保了核彈藥運送至導彈旅野戰儲存設施。"
-    },
-    {
-      "id": "4889574",
-      "time": "2026-05-20 14:21:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯國防部：核力量演習期間演練了提升部隊編隊至最高戰備等級的流程。"
-    },
-    {
-      "id": "mkt:019e440b-f1df-7cc9-95da-55409e98b0e6",
-      "time": "2026-05-20 14:21:33",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "RUSSIAN DEFENCE MINISTRY: DURING NUCLEAR FORCES EXERCISES, PROCEDURES WERE PRACTISED TO RAISE UNITS AND FORMATIONS TO THE HIGHEST LEVELS OF COMBAT READINESS - IFX"
-    },
-    {
-      "id": "4889573",
-      "time": "2026-05-20 14:21:27",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "倫克集團股價在法蘭克福早盤交易中下跌2%，此前進行了二次增發。"
-    },
-    {
-      "id": "mkt:019e440b-c8a1-7cc9-95da-4e8c9552bdcf",
-      "time": "2026-05-20 14:21:23",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "【South Africa Plans Steel-Duty Hikes to Stem Industry ‘Emergency’】South Africa’s trade authorities proposed broad tariff increases on steel imports to protect the domestic industry from what they called an “unprecedented emergency.” The measures target low-priced imports from countries including China and India, as well as customs fraud and duty circumvention. Proposals include 10% tariffs on nearly 20 steel products, raising duties on pipes and related goods to 15%, and imposing 20% tariffs on certain tools and knives. Authorities also plan tighter import controls and a surveillance system to combat fraud and under-invoicing."
-    },
-    {
-      "id": "4889572",
-      "time": "2026-05-20 14:19:58",
-      "tags": [
-        "市場"
-      ],
-      "text": "信實工業<RELI.NS>股價漲幅擴大，最新上漲2%。"
-    },
-    {
-      "id": "4889571",
-      "time": "2026-05-20 14:19:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "菲律賓法院駁回德拉羅薩參議員阻止被捕的申請。"
-    },
-    {
-      "id": "4889570",
-      "time": "2026-05-20 14:19:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網正式測定：05月20日14時00分在土耳其（北緯38.25度，東經38.60度）發生5.5級地震，震源深度10千米。"
-    },
-    {
-      "id": "4889569",
-      "time": "2026-05-20 14:18:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "卡達能源公司：根據協議，卡達能源公司已收購OFF-4區塊18%的權益，運營商APA集團保留剩餘50%的權益。"
     }
   ]
 }
