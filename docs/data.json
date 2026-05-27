@@ -1,7 +1,61 @@
 {
-  "updated": "2026-05-28 04:33:30",
-  "count": 14883,
+  "updated": "2026-05-28 04:37:39",
+  "count": 14884,
   "items": [
+    {
+      "id": "4903191",
+      "time": "2026-05-28 04:35:53",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美一日資工廠化學儲罐爆炸汙染河流】日本製紙集團旗下企業位於美國華盛頓州的造紙廠5月26日發生化學儲罐內爆事故。據美國媒體當地時間5月27日報道，事故已造成至少2人死亡、多人受傷，另有9人下落不明。據當地消防部門當天通報稱，經檢測證實，這一化學品儲罐內爆破裂後，汙染物已流入附近的哥倫比亞河。不過據稱對當地供水“暫無危險”。（CCTV國際時訊）"
+    },
+    {
+      "id": "4903190",
+      "time": "2026-05-28 04:35:03",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國至5月22日當週API原油庫存 -281.9萬桶，預期-436.7萬桶，前值-911萬桶。"
+    },
+    {
+      "id": "te:markets:554180",
+      "time": "2026-05-28 04:35:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.37% Higher — The Dow Jones Index went up by 188 points or 0.37 percent on Wednesday to close at 50649 points. The rise was led by P&G (3.22%), Boeing (2.49%) and Amazon (2.47%). On the downside, the weakerst performers were JPMorgan (-2.46%), Travelers Companies (-1.58%) and Chevron (-1.34%)."
+    },
+    {
+      "id": "4903189",
+      "time": "2026-05-28 04:34:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "富國銀行CEO：當前居民消費狀況較數週前有所回暖。"
+    },
+    {
+      "id": "4903188",
+      "time": "2026-05-28 04:34:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "恆天然公佈 2026/27 產季牧場原奶收購價初始預期價為每公斤 9.75 紐西蘭元，價格區間為每公斤 8.00 至 11.00 紐西蘭元。"
+    },
+    {
+      "id": "4903187",
+      "time": "2026-05-28 04:33:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "恆天然：2025/26 產季原奶收購價預期區間收窄，每公斤 9.60 至 9.80 紐西蘭元。"
+    },
     {
       "id": "4903186",
       "time": "2026-05-28 04:31:00",
@@ -133365,54 +133419,6 @@
         "其他"
       ],
       "text": "穆迪：財政錨不斷弱化與政策目標衝突損害墨西哥政策可信度。"
-    },
-    {
-      "id": "4891221",
-      "time": "2026-05-21 04:37:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "穆迪：財政整合步伐放緩與對墨西哥國家石油公司的持續支援將推遲墨西哥債務企穩程序。"
-    },
-    {
-      "id": "4891220",
-      "time": "2026-05-21 04:36:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "穆迪點評墨西哥評級下調：本次下調反映出財政實力持續走弱，這一態勢在2024年加速，我們預計其還將持續。"
-    },
-    {
-      "id": "4891219",
-      "time": "2026-05-21 04:35:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "穆迪將墨西哥的主權信用評級從BAA2下調至BAA3，評級展望調整為穩定。"
-    },
-    {
-      "id": "te:markets:552421",
-      "time": "2026-05-21 04:35:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Closes 1.26% Higher — The Dow Jones Index rose 621 points or 1.26 percent on Wednesday to close at 49985 points. Leading the gains are Goldman Sachs (5.74%), Nike (4.17%) and Boeing (3.34%)."
-    },
-    {
-      "id": "te:markets:552420",
-      "time": "2026-05-21 04:34:49",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 3"
-      ],
-      "text": "Nvidia Whipsaws After Earnings Beat — US stocks remained higher in after-hour trading on Wednesday after Nvidia posted results that topped estimates. Nvidia shares pared immediate losses after the release of results to trade over 0.5% higher, following a near 2% gain in the regular Wednesday session. Revenues for the April quarter topped $81 billion, as expected, but the forecast of $91 billion in revenues for the July quarter fell short of expectations by select analysts, contrasting slightly with the usual comfortable beats in outlooks. The company also refrained from forecasting any sales to China, despite CEO Jensen Huang's visit to Beijing earlier this month. The S&P 500 added 1% on the Wednesday session while the Dow and Nasdaq 100 gained 1.2%. Three supertankers left the Strait of Hormuz with full cargoes as President Trump stated a deal with Iran could come soon, taming concerns of energy inflation. Meanwhile, TJX and Target gained sharply after posting their results."
     }
   ]
 }
