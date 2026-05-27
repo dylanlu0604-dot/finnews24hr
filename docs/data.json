@@ -1,7 +1,62 @@
 {
-  "updated": "2026-05-27 12:14:42",
+  "updated": "2026-05-27 12:18:42",
   "count": 15146,
   "items": [
+    {
+      "id": "mkt:019e67a7-49d4-700f-9791-21ed6fdc6db1",
+      "time": "2026-05-27 12:17:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "000660.KS",
+        "Impact bullish"
+      ],
+      "text": "SK Hynix shares extend gains to 14%"
+    },
+    {
+      "id": "4901636",
+      "time": "2026-05-27 12:16:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外媒：美國貿易代表稱將繼續對墨西哥和加拿大徵收關稅，美加存在“重大”貿易問題】 據路透社、加拿大通訊社等媒體報道，美國貿易代表賈米森·格里爾當地時間5月26日在華盛頓出席美國外交關係協會的一場活動時表示，美國政府計劃繼續維持對來自墨西哥和加拿大的進口商品的關稅。他還稱美國與加拿大之間存在“重大”貿易問題。“美國將繼續徵收關稅。”格里爾說，“我的意思是，即便是像墨西哥這樣的國家，或者其他與我們同屬一個半球的國家，只要我們存在鉅額貿易逆差，我們就會徵收關稅。”報道稱，格里爾稱美墨加協定將不再是一個“零關稅貿易協定”的表態，與他上個月私下對墨西哥行業高管發表的言論一致——即在新版美墨加協定框架下，汽車和鋼鐵關稅仍將保留。（環球網）"
+    },
+    {
+      "id": "4901635",
+      "time": "2026-05-27 12:15:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "SK海力士股價漲幅擴大至14%。"
+    },
+    {
+      "id": "4901634",
+      "time": "2026-05-27 12:15:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "標普全球：日本車企押注混動技術恐難奏效。"
+    },
+    {
+      "id": "te:economy:553940",
+      "time": "2026-05-27 12:15:18",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "European Union",
+        "Car Registrations",
+        "Importance 1"
+      ],
+      "text": "EU Car Registrations Rise 5.1% in April — EU passenger car registrations rose 5.1% year-on-year to 972,314 units in April 2026, marking the third consecutive month of growth but slowing from a 12.5% increase in March. The market continued to benefit from strong consumer demand for electrified vehicles, supported by new and revised tax incentives and subsidy schemes across major European countries. Among the bloc’s four largest markets, registrations increased in Germany (2.7%), Italy (11.6%), and Spain (8.4%), while France recorded a slight decline of 0.3%. Over the January–April period, new EU car registrations rose 4.2%, despite ongoing geopolitical tensions that continue to heighten uncertainty and downside risks. Meanwhile, battery-electric vehicles (BEVs) accounted for 19.7% of the EU market year-to-date, up from 15.3% a year earlier, highlighting continued momentum in the shift toward electric vehicles."
+    },
+    {
+      "id": "4901633",
+      "time": "2026-05-27 12:14:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【東方證券：四月熱泵出口提速 海外市場持續增長】東方證券釋出研報稱，中東衝突升級導致歐洲能源價格中樞抬升，疊加歐洲長期能源戰略轉型考慮，官方持續補貼經濟性突出的熱泵冷暖裝置，相關出口鏈標的迎來戰略發展期。主線一：中國熱泵整機出口多為代工，自主品牌出口較為稀缺，歐洲熱泵滲透率加速期有望迎來估值抬升。主線二：熱泵上游涉及壓縮機、電機和金屬加工業務，相關配件訂單彈性預計較大。"
+    },
     {
       "id": "4901632",
       "time": "2026-05-27 12:13:41",
@@ -135490,55 +135545,6 @@
         "其他"
       ],
       "text": "【千尋智慧與地瓜機器人達成戰略合作】5月20日，千尋智慧宣佈與地瓜機器人正式達成戰略合作。雙方已完成千尋智慧開源具身模型Spirit v1.5與地瓜機器人旭日S600具身大算力平臺的深度適配，聚力打造高效能、可量產的軟硬一體化解決方案，推動具身智慧技術從實驗室高效落地真實應用場景。"
-    },
-    {
-      "id": "4889397",
-      "time": "2026-05-20 12:18:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【阿里雲釋出為Agent而生的全新AI產品官網“千問雲”，模型服務全面Skill、CLI化】在2026阿里雲峰會上，阿里雲釋出為Agent而生的全新AI產品官網“千問雲”（www.qianwenai.com），提供Qwen、GLM、Kimi、DeepSeek、Wan、HappyHorse等150多款主流模型API，並將模型服務的核心能力封裝為Skills和CLI工具，可讓Agent工具高效地用模型和開發AI應用。這是面向Agentic時代全面升級的重要部分，當天阿里雲推出了全新“芯-雲-模型-推理”技術體系。"
-    },
-    {
-      "id": "4889396",
-      "time": "2026-05-20 12:18:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "【一週六班 下月起海口至雅加達航線加密】據央視新聞，記者近日從海口美蘭國際機場獲悉，2026年6月6日起，海口⇌雅加達航線將加密至一週六班，進一步助力中國-東盟區域互聯互通，提升海南自貿港與印度尼西亞商務往來、旅遊出行便捷性。"
-    },
-    {
-      "id": "4889395",
-      "time": "2026-05-20 12:17:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "印尼總統：印尼政府如今推行的舉措並非特殊政策，其他國家也曾施行過同類做法。"
-    },
-    {
-      "id": "4889394",
-      "time": "2026-05-20 12:16:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中俄職業教育合作新標杆：全球首家引入5G技術的魯班工坊】今年是中俄戰略協作夥伴關係建立30週年、《中俄睦鄰友好合作條約》簽署25週年，也是“中俄教育年”啟動之年。職業教育合作是中俄教育領域合作的重點方向之一。2025年，中俄高校共建的魯班工坊在莫斯科揭牌執行，這是全球首家在專業建設中引入5G技術的魯班工坊，也標誌著中俄職業教育合作邁入數字賦能、標準互通的新階段。"
-    },
-    {
-      "id": "4889393",
-      "time": "2026-05-20 12:16:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "【北約盟友敦促美方明確歐洲撤軍事宜】外交官透露，自週四起，北約將在赫爾辛堡召開外長會議，歐洲各國擬於會上向美國務卿魯比奧施壓，要求美方就撤軍計劃作出明確表態。（英國金融時報）"
-    },
-    {
-      "id": "4889392",
-      "time": "2026-05-20 12:14:57",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "據媒體報道，韓國青瓦臺表示，三星薪資談判破裂一事令人遺憾。"
     }
   ]
 }
