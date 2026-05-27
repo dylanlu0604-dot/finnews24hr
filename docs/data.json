@@ -1,7 +1,30 @@
 {
-  "updated": "2026-05-28 02:53:15",
-  "count": 14887,
+  "updated": "2026-05-28 02:57:08",
+  "count": 14885,
   "items": [
+    {
+      "id": "4903134",
+      "time": "2026-05-28 02:54:28",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【傑米·戴蒙正在尋找摩根大通的“下一個大交易”機會】摩根大通執行長傑米·戴蒙正在尋找下一筆大型交易。戴蒙週三在Bernstein Strategic Decisions Conference上表示：“我確實認為，未來幾年可能會有機會動用100億至200億美元收購某些資產”。其表示，摩根大通正在“留意機會”。"
+    },
+    {
+      "id": "mkt:019e6ac9-a43c-7223-8ed8-deddda929c50",
+      "time": "2026-05-28 02:54:20",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact bullish"
+      ],
+      "text": "【Meta To Offer AI Chatbot Subscriptions To Offset Several Trillion Dollars In AI Investment】Meta Platforms (META.O) has launched its first consumer subscription service for its Meta AI chatbot to help offset the company's several trillion dollars of AI investment. The offering has two tiers: Meta One Plus at $7.99 per month and Meta One Premium at $19.99 per month. Meta is initially rolling out the Meta AI subscription in Singapore, Guatemala and Bolivia and says it will expand to additional countries. Users can continue to use Meta's AI chatbot for image and video generation for free, but will encounter usage caps as usage increases. Meta declined to disclose the per-tier usage limits, saying only that Premium members receive materially higher usage allowances than the lower tier."
+    },
     {
       "id": "mkt:019e6ac7-6abf-7223-8ed8-d6e626e8bb74",
       "time": "2026-05-28 02:51:54",
@@ -133351,38 +133374,6 @@
         "國際"
       ],
       "text": "美國 10 年期國債收益率跌至 4.565%，逼近日內低點。"
-    },
-    {
-      "id": "4891144",
-      "time": "2026-05-21 02:54:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國參議院多數黨領袖圖恩：法案受阻原因還包括東翼翻新改造專案，該專案擬為白宮宴會廳建設籌措資金。"
-    },
-    {
-      "id": "mkt:019e46bc-9676-7bb5-8188-118e78f8a7f7",
-      "time": "2026-05-21 02:53:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "THUNE: HOLDUP INCLUDES 'EAST WING MODERNIZATION PROJECT' THAT WOULD FINANCE WHITE HOUSE BALLROOM"
-    },
-    {
-      "id": "mkt:019e46bc-6c1e-7bb5-8188-0b79cba8aee1",
-      "time": "2026-05-21 02:53:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. SENATE MAJORITY LEADER THUNE SAYS 'A COUPLE SNAGS' HOLDING UP REPUBLICAN BILL FOR IMMIGRATION ENFORCEMENT FUNDING"
-    },
-    {
-      "id": "4891143",
-      "time": "2026-05-21 02:53:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國參議院多數黨領袖圖恩：共和黨移民執法資金相關法案因幾處阻礙推進受阻。"
     }
   ]
 }
