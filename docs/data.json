@@ -1,7 +1,35 @@
 {
-  "updated": "2026-05-28 02:49:29",
-  "count": 14888,
+  "updated": "2026-05-28 02:53:15",
+  "count": 14887,
   "items": [
+    {
+      "id": "mkt:019e6ac7-6abf-7223-8ed8-d6e626e8bb74",
+      "time": "2026-05-28 02:51:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "In its first-quarter report, the Bank of Mexico said that, looking ahead, the BOARD considers maintaining the policy rate at its current level appropriate."
+    },
+    {
+      "id": "4903133",
+      "time": "2026-05-28 02:51:46",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "墨西哥央行第一季度報告：展望未來，央行管委會認為將利率維持在當前水平是適當之舉。"
+    },
+    {
+      "id": "mkt:019e6ac5-f4ab-7223-8ed8-c810399e7108",
+      "time": "2026-05-28 02:50:18",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "MACRON: Norway has agreed to join France's nuclear umbrella."
+    },
     {
       "id": "4903132",
       "time": "2026-05-28 02:41:52",
@@ -133355,54 +133383,6 @@
         "國際"
       ],
       "text": "美國參議院多數黨領袖圖恩：共和黨移民執法資金相關法案因幾處阻礙推進受阻。"
-    },
-    {
-      "id": "mkt:019e46ba-c509-7bb5-8188-01e094827bcb",
-      "time": "2026-05-21 02:51:45",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Brent"
-      ],
-      "text": "U.S. DEPARTMENT OF THE INTERIOR SAYS IT GENERATED OVER $4 BILLION IN TOTAL RECEIPTS FROM A BUREAU OF LAND MANAGEMENT OIL AND GAS LEASE SALE IN NEW MEXICO AND TEXAS"
-    },
-    {
-      "id": "4891142",
-      "time": "2026-05-21 02:51:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國內政部表示，其下屬土地管理局在新墨西哥州與得克薩斯州舉辦的油氣租賃權拍賣會，總營收超 40 億美元。"
-    },
-    {
-      "id": "mkt:019e46ba-4fcf-7bb5-8187-fbcf723cdbc5",
-      "time": "2026-05-21 02:51:15",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "FEDERAL BUDGET DEFICIT PROJECTED TO HIT USD2 TLN THIS FISCAL YEAR, RANKING AMONG LARGEST IN US HISTORY - FOX BUSINESS"
-    },
-    {
-      "id": "mkt:019e46ba-0135-7bb5-8187-f334b196ab4f",
-      "time": "2026-05-21 02:50:55",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "BRENT CRUDE FUTURES SETTLE AT $105.02/BBL, DOWN $6.26, 5.63 PCT"
     }
   ]
 }
