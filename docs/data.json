@@ -1,7 +1,93 @@
 {
-  "updated": "2026-05-28 04:29:36",
-  "count": 14881,
+  "updated": "2026-05-28 04:33:30",
+  "count": 14883,
   "items": [
+    {
+      "id": "4903186",
+      "time": "2026-05-28 04:31:00",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "蘇利南國家石油公司（Staatsolie）總經理Annand Jagesar：馬來西亞國家石油公司（Petronas）正在蘇利南近海的52號區塊進行石油勘探。預計將在未來18個月內宣佈52號區塊石油的商業可行性。"
+    },
+    {
+      "id": "mkt:019e6b21-b724-799f-bbe6-ec5ba0dc7cda",
+      "time": "2026-05-28 04:30:29",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "Fed Governor COOK said the Fed is also closely monitoring downside risks to the labor market."
+    },
+    {
+      "id": "mkt:019e6b20-de69-799f-bbe6-e0281ac41b84",
+      "time": "2026-05-28 04:29:36",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "COOK, Federal Reserve governor, said if oil prices move in the wrong direction, it would create problems."
+    },
+    {
+      "id": "4903185",
+      "time": "2026-05-28 04:29:34",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事庫克：若油價走勢偏離預期，將會帶來問題。"
+    },
+    {
+      "id": "4903184",
+      "time": "2026-05-28 04:29:20",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事庫克：也在關注油價走勢。"
+    },
+    {
+      "id": "mkt:019e6b20-9dec-799f-bbe6-d88d85d1d376",
+      "time": "2026-05-28 04:29:20",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "COOK said she is still watching oil prices."
+    },
+    {
+      "id": "mkt:019e6b20-93f8-799f-bbe6-d74fbac46804",
+      "time": "2026-05-28 04:29:17",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "XAUUSD",
+        "Impact mixed"
+      ],
+      "text": "COOK: Very concerned about inf expectations."
+    },
+    {
+      "id": "4903183",
+      "time": "2026-05-28 04:29:10",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事庫克：對通脹預期保持高度關注。"
+    },
     {
       "id": "te:markets:554179",
       "time": "2026-05-28 04:26:50",
@@ -133327,77 +133413,6 @@
         "Importance 3"
       ],
       "text": "Nvidia Whipsaws After Earnings Beat — US stocks remained higher in after-hour trading on Wednesday after Nvidia posted results that topped estimates. Nvidia shares pared immediate losses after the release of results to trade over 0.5% higher, following a near 2% gain in the regular Wednesday session. Revenues for the April quarter topped $81 billion, as expected, but the forecast of $91 billion in revenues for the July quarter fell short of expectations by select analysts, contrasting slightly with the usual comfortable beats in outlooks. The company also refrained from forecasting any sales to China, despite CEO Jensen Huang's visit to Beijing earlier this month. The S&P 500 added 1% on the Wednesday session while the Dow and Nasdaq 100 gained 1.2%. Three supertankers left the Strait of Hormuz with full cargoes as President Trump stated a deal with Iran could come soon, taming concerns of energy inflation. Meanwhile, TJX and Target gained sharply after posting their results."
-    },
-    {
-      "id": "mkt:019e4716-3c49-7bb5-8188-d0bd0e64c815",
-      "time": "2026-05-21 04:31:37",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【Nvidia Forecast Misses Loftiest Estimates as AI Chip Competition Intensifies】Nvidia forecast July-quarter revenue of $91 billion, above analysts’ $87 billion average estimate but below projections as high as $96 billion, disappointing investors accustomed to stronger beats. Shares fell about 3% in late trading. Competition in AI accelerators is increasing as rivals including Advanced Micro Devices, Broadcom and Alphabet expand their offerings. CEO Jensen Huang maintained that Nvidia can continue delivering unprecedented growth as AI demand remains strong. Wall Street expects Nvidia to generate more than one-third of global semiconductor industry revenue this year."
-    },
-    {
-      "id": "4891218",
-      "time": "2026-05-21 04:31:32",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【英偉達營收展望未能震撼市場 股價盤後下挫3%後反彈轉漲】公司英偉達的最新營收預期令投資者失望，加劇了市場對AI晶片行業競爭加劇的擔憂。該公司週三在宣告中表示，截至7月的三個月營收預計達到910億美元。儘管分析師平均預期為870億美元，部分預測高達960億美元。這一業績指引令習慣於英偉達不斷大超預期的投資者感到失望。與此同時，英偉達在AI計算領域的主導地位也首次面臨重大挑戰，多家晶片廠商正試圖分食這一市場。財報公佈後，英偉達股價盤後下跌約3%後反彈轉漲。該股今年以來上漲20%，跑贏標普500指數，但落後於多數主要晶片同行。"
-    },
-    {
-      "id": "mkt:019e4715-72b6-7bb5-8188-ca705cd035b4",
-      "time": "2026-05-21 04:30:48",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "NVIDIA BOOSTS QTRLY CASH DIV TO 25C/SHR FROM 1C/SHR"
-    },
-    {
-      "id": "mkt:019e4715-5a15-7bb5-8188-c3565e67bd08",
-      "time": "2026-05-21 04:30:42",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Regions",
-        "Greater China",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bearish"
-      ],
-      "text": "NVIDIA: NO SHIPMENTS HOPPER PRODUCTS TO CHINA IN 1Q"
-    },
-    {
-      "id": "mkt:019e4715-3bf3-7bb5-8188-b9c646ee8168",
-      "time": "2026-05-21 04:30:34",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "NVIDIA SHARES TICK POSITIVE AHEAD OF CONFERENCE CALL AFTER DECLINING AS MUCH AS 3.3%"
-    },
-    {
-      "id": "4891217",
-      "time": "2026-05-21 04:30:13",
-      "tags": [
-        "市場"
-      ],
-      "text": "英偉達公佈業績後，其股價在盤後交易中翻紅，最新上漲0.5%，報每股224.64美元。"
     }
   ]
 }
