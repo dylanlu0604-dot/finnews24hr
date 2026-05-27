@@ -1,7 +1,83 @@
 {
-  "updated": "2026-05-27 13:15:02",
-  "count": 15109,
+  "updated": "2026-05-27 13:19:00",
+  "count": 15110,
   "items": [
+    {
+      "id": "4901699",
+      "time": "2026-05-27 13:16:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "聯電首席財務官劉啟東：今年下半年展開選擇性漲價，2027年將更全面與客戶就價格調整進行商議。"
+    },
+    {
+      "id": "4901698",
+      "time": "2026-05-27 13:16:16",
+      "tags": [
+        "資料",
+        "市場",
+        "觀點"
+      ],
+      "text": "【中信證券明明：AI發展、大宗商品上漲是市場定價重要主線】中信證券首席經濟學家、FICC首席分析師明明在中信證券2026年資本市場論壇演講稱，預計2026年GDP或將保持4.7%左右的增速，CPI同比增0.8%，財政支出總量預計超30萬億，溫和通脹訴求下，降息緊迫性降低。就A股而言，AI產業發展和大宗商品價格的上漲是今年市場定價的重要主線。"
+    },
+    {
+      "id": "mkt:019e67dc-4b4c-700e-adbc-be528d68b1e7",
+      "time": "2026-05-27 13:15:50",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "【MORGAN STANLEY: Equity-Bond Correlation Near Historical Highs】MORGAN STANLEY: rising global bond yields push developed-market equity-bond correlation near historical highs; historically when U.S. Treasury yields exceed ~4-5% and European government bond yields exceed ~3-3.5% higher yields start to weigh on stock valuations; strong earnings may let risk assets tolerate higher rates, but bond volatility is a medium-term risk and a larger driver of equity valuations over 6-12 months."
+    },
+    {
+      "id": "4901697",
+      "time": "2026-05-27 13:15:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【均勝電子等成立新能源公司 註冊資本1億元】企查查APP顯示，近日，寧波均恩新能源有限公司成立，法定代表人為華慕文，註冊資本為1億元，經營範圍包含：電池製造；電池銷售。企查查股權穿透顯示，該公司由均勝電子全資子公司寧波均智汽車科技有限公司、北京恩力動力技術有限公司共同持股。"
+    },
+    {
+      "id": "4901696",
+      "time": "2026-05-27 13:15:30",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生指數跌超1%，現報25340.520點；恒生科技指數現跌0.438%。"
+    },
+    {
+      "id": "te:markets:553957",
+      "time": "2026-05-27 13:15:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: New Zealand Dollar Rises by 0.76% — Top currency gainers are New Zealand Dollar (0.76%), South Korean Won (0.56%), Euro (0.10%) and British Pound (0.07%). Biggest loser is Dollar Index (-0.08%). Meanwhile Japanese Yen was little changed."
+    },
+    {
+      "id": "4901695",
+      "time": "2026-05-27 13:15:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【類腦智慧兩項研究成果釋出 產業生態共建計劃啟動】據中國信通院訊息，5月24日，浦江創新論壇——2026類腦智慧產業創新發展大會期間，類腦智慧產業創新發展聯盟在上海市楊浦區釋出《類腦智慧產業圖譜研究報告》《類腦智慧標準體系建設指南研究報告》兩項成果，楊浦區攜手中國信通院等機構啟動類腦智慧產業生態共建計劃。"
+    },
+    {
+      "id": "4901694",
+      "time": "2026-05-27 13:14:56",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "超級電容概念持續走強，艾華集團、凱恩股份漲停，此前江海股份一字漲停，海星股份走出8天4板，元力股份、法拉電子、火炬電子、新疆眾和跟漲。"
+    },
     {
       "id": "4901693",
       "time": "2026-05-27 13:14:05",
@@ -135148,73 +135224,6 @@
         "公司"
       ],
       "text": "【機器人概念午後異動 上緯新材漲超10%創歷史新高】午後機器人概念區域性異動，上緯新材漲超10%，創歷史新高，總市值超700億元，浙江榮泰、偉創電氣、奧比中光、智微智慧、勝藍股份跟漲。"
-    },
-    {
-      "id": "4889487",
-      "time": "2026-05-20 13:18:33",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "ST海龍盤中漲停，上演“地天板”，現報2.4元，成交額3.37億元。"
-    },
-    {
-      "id": "mkt:019e43d1-9d8f-7cc9-b8d6-1cb4f373b287",
-      "time": "2026-05-20 13:17:49",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "Impact bearish"
-      ],
-      "text": "JAPAN PETROLEUM ASSOCIATION PRESIDENT: US CRUDE EXPECTED TO BECOME MAIN SUBSTITUTE FOR MIDDLE EASTERN OIL"
-    },
-    {
-      "id": "4889486",
-      "time": "2026-05-20 13:17:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "中芯國際成交額達200億元，現漲10.25%。"
-    },
-    {
-      "id": "4889485",
-      "time": "2026-05-20 13:15:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國總統李在明：部分工會可爭取自身權益，但行事必須恪守底線、嚴守界限。"
-    },
-    {
-      "id": "mkt:019e43cf-a2d1-7cc9-b8d6-1582b4ec365c",
-      "time": "2026-05-20 13:15:27",
-      "tags": [
-        "MKT News",
-        "Important",
-        "688981.SS",
-        "Impact bullish"
-      ],
-      "text": "SEMICONDUCTOR MANUFACTURING INTERNATIONAL CORPORATION RISES OVER 10% ON A-SHARES GIGADEVICE SEMICONDUCTOR INC. UP 9.02% ON A-SHARES"
-    },
-    {
-      "id": "4889484",
-      "time": "2026-05-20 13:15:19",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達60億港元。"
-    },
-    {
-      "id": "4889483",
-      "time": "2026-05-20 13:15:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：義大利總理梅洛尼在羅馬會見了印度總理納倫德拉·莫迪。"
     }
   ]
 }
