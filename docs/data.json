@@ -1,7 +1,24 @@
 {
-  "updated": "2026-05-28 00:47:15",
-  "count": 14909,
+  "updated": "2026-05-28 00:51:16",
+  "count": 14904,
   "items": [
+    {
+      "id": "4903028",
+      "time": "2026-05-28 00:50:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：過去四個季度實際GDP增長了2.7%。"
+    },
+    {
+      "id": "4903027",
+      "time": "2026-05-28 00:47:04",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【FDIC：美國銀行業一季度關鍵指標改善 但賬面損失略增】美國聯邦存款保險公司(FDIC)報告稱，儘管面臨中東戰爭和利率上升，美國銀行業的關鍵指標在第一季度有所改善，不過行業的賬面損失出現小幅增加。根據FDIC對全美4278家受保銀行進行的季度評估，銀行業第一季度的淨利潤環比增長3.6%，達到805億美元。貸款和租賃總餘額較上一季度增長1.6%，較上年同期增長7.1%，創下2023年第二季度以來的最快年度增速。FDIC表示，季度盈利增長主要受到大型銀行非利息收入增長的推動。"
+    },
     {
       "id": "4903026",
       "time": "2026-05-28 00:46:19",
@@ -133615,66 +133632,6 @@
         "MKT News"
       ],
       "text": "CME GROUP : CME DIRECT DISCONNECT ISSUE IS RESOLVED- WEBSITE"
-    },
-    {
-      "id": "4891037",
-      "time": "2026-05-21 00:50:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "據半島電視臺：伊朗外交部表示，我方正秉持誠意開展談判，美方需拿出實際行動證明其談判誠意。"
-    },
-    {
-      "id": "4891036",
-      "time": "2026-05-21 00:49:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部發言人：巴基斯坦內政部長已抵達伊朗，助力雙方傳遞往來訊息。"
-    },
-    {
-      "id": "mkt:019e464b-2eee-7bb5-8185-b9b1a510effb",
-      "time": "2026-05-21 00:49:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IRAN'S FOREIGN MINISTRY SPOKESPERSON SAYS PAKISTAN'S INTERIOR MINISTER IS IN IRAN TO FACILITATE THE EXCHANGE OF MESSAGES - IRANIAN MEDIA"
-    },
-    {
-      "id": "mkt:019e4649-e880-7bb5-8185-b3ec6162e565",
-      "time": "2026-05-21 00:48:29",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bearish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "IRANIAN FOREIGN MINISTRY: WE ARE CURRENTLY FOCUSING ON ENDING THE WAR ON ALL FRONTS, ESPECIALLY LEBANON"
-    },
-    {
-      "id": "4891035",
-      "time": "2026-05-21 00:48:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部：我方目前致力於全面結束各戰線戰事，尤其重點推動黎巴嫩地區停戰。"
-    },
-    {
-      "id": "4891034",
-      "time": "2026-05-21 00:48:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "據伊朗法爾斯通訊社： 伊朗外交部發言人稱，伊美雙方依據十四點方案持續開展訊息溝通。"
-    },
-    {
-      "id": "mkt:019e4648-e7ef-7bb5-8185-a91761d52f57",
-      "time": "2026-05-21 00:47:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IRAN FOREIGN MINISTRY SPOX: IRAN-US MESSAGE EXCHANGE CONTINUES BASED ON 14-POINT TEXT - FARS"
     }
   ]
 }
