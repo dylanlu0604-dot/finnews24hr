@@ -1,7 +1,31 @@
 {
-  "updated": "2026-05-28 05:08:57",
-  "count": 14847,
+  "updated": "2026-05-28 05:14:00",
+  "count": 14837,
   "items": [
+    {
+      "id": "4903212",
+      "time": "2026-05-28 05:09:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "Salesforce：公司一季度拿下 98 筆年度合同價值超百萬美元的新訂單。"
+    },
+    {
+      "id": "4903211",
+      "time": "2026-05-28 05:09:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "Snowflake： 隨著客戶加速遷移業務負載，人工智慧正推動其核心平臺的資源使用量大幅增長。"
+    },
+    {
+      "id": "4903210",
+      "time": "2026-05-28 05:08:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "週三（5月27日）紐約尾盤（週四北京時間04:59），離岸人民幣（CNH）兌美元報6.7790元，較週二紐約尾盤漲62點，日內整體交投於6.7867-6.7757元區間。"
+    },
     {
       "id": "mkt:019e6b41-9dee-722a-b522-25ee05190bc1",
       "time": "2026-05-28 05:05:22",
@@ -133034,115 +133058,6 @@
         "其他"
       ],
       "text": "英偉達首席財務官：Anthropic與OpenAI的模型層增長正獲得尤為強勁的發展動能。"
-    },
-    {
-      "id": "4891289",
-      "time": "2026-05-21 05:13:46",
-      "tags": [
-        "市場"
-      ],
-      "text": "英偉達首席財務官：年初至今H100 GPU租賃價格已上漲20%。"
-    },
-    {
-      "id": "4891288",
-      "time": "2026-05-21 05:13:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "英偉達首席財務官：原生人工智慧產品及服務的普及正迎來拐點。"
-    },
-    {
-      "id": "4891287",
-      "time": "2026-05-21 05:13:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "英偉達首席財務官：如今人工智慧已成為提升生產力的必備要素。"
-    },
-    {
-      "id": "4891286",
-      "time": "2026-05-21 05:13:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX：計提5.3億美元預計訴訟損失準備金。"
-    },
-    {
-      "id": "4891285",
-      "time": "2026-05-21 05:11:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX首席財務官佈雷特·約翰遜2025年總薪酬980萬美元。"
-    },
-    {
-      "id": "4891284",
-      "time": "2026-05-21 05:11:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX：短期內暫無派息計劃。"
-    },
-    {
-      "id": "4891283",
-      "time": "2026-05-21 05:11:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "英偉達：全球年度人工智慧支出規模將達3至4萬億美元。"
-    },
-    {
-      "id": "4891282",
-      "time": "2026-05-21 05:10:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX營運長格溫妮·肖特韋爾2025年總薪酬達8580萬美元。"
-    },
-    {
-      "id": "4891280",
-      "time": "2026-05-21 05:10:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "英偉達首席財務官：市場需求正持續攀升。"
-    },
-    {
-      "id": "4891279",
-      "time": "2026-05-21 05:09:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "SpaceX：2025年約五分之一營收來自美國政府業務。"
-    },
-    {
-      "id": "4891278",
-      "time": "2026-05-21 05:09:38",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "英偉達股價在財報電話會議期間下跌，跌幅達1.8%。"
-    },
-    {
-      "id": "4891277",
-      "time": "2026-05-21 05:09:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX在全球擁有超過2.2萬全職員工。"
-    },
-    {
-      "id": "te:markets:552424",
-      "time": "2026-05-21 05:09:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Ibovespa Posts Biggest Daily Gain Since April — The Ibovespa jumped 1.8% to close at 177,356 on Wednesday, marking the benchmark’s biggest daily gain since early April, as easing oil prices and lower bond yields boosted risk appetite. Oil prices retreated after some ships managed to cross the Strait of Hormuz following 80 days of disruption, raising hopes that global supply conditions could gradually normalize. The pullback in crude prices helped ease inflation concerns and pushed bond yields lower, supporting financial stocks and the broader index. Itaú rose 2.3%, Bradesco gained 2.4%, and Itaúsa advanced 2.7%. Utilities also posted strong gains, with Auren Energia up 2.2%, Sabesp adding 2.1%, and Eneva climbing 4.1%. Other notable performers included Ambev (+2.6%) and Rede D'Or (+2.6%). In contrast, Petrobras fell 3.2% as oil prices declined."
     }
   ]
 }
