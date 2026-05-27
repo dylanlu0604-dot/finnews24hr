@@ -1,7 +1,57 @@
 {
-  "updated": "2026-05-27 14:50:29",
-  "count": 15112,
+  "updated": "2026-05-27 14:54:22",
+  "count": 15109,
   "items": [
+    {
+      "id": "mkt:019e6834-48d6-700e-adbe-669964da698b",
+      "time": "2026-05-27 14:51:53",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【French Consumer Confidence Falls To Three-Year Low】France May consumer confidence index 82 vs 84 in Apr, lowest since Mar 2023; Insee cites Iran war uncertainty and rising energy prices, big-ticket purchase intent falls; share expecting faster price rises next 12 months slips but remains well above long-run average; risk of inf spiral limited"
+    },
+    {
+      "id": "4901851",
+      "time": "2026-05-27 14:51:30",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【新股長進光子尾盤繼續拉昇漲超1570%】新股長進光子尾盤繼續拉昇漲超1570%。"
+    },
+    {
+      "id": "mkt:019e6833-a5dd-700e-adbe-5c02ee289520",
+      "time": "2026-05-27 14:51:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【WHO: 'Hondius' Cruise Reports 13 Hantavirus Cases】TEDROS says Spain reported a quarantined 'Hondius' cruise passenger infected with hantavirus; total cases 13, deaths 3, no new deaths reported since May 2."
+    },
+    {
+      "id": "4901850",
+      "time": "2026-05-27 14:50:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【世衛組織：“洪迪厄斯”號郵輪共報告13例漢坦病毒感染病例】世衛組織總幹事譚德塞27日表示，西班牙報告一名正在隔離的“洪迪厄斯”號郵輪乘客感染漢坦病毒，這使得本次漢坦病毒疫情感染病例總數達到13例。自5月2日以來沒有報告新的死亡病例，死亡總數仍為3例。（央視新聞）"
+    },
+    {
+      "id": "te:economy:553974",
+      "time": "2026-05-27 14:50:11",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "France",
+        "Consumer Confidence",
+        "Importance 2"
+      ],
+      "text": "France Consumer Confidence Hits 3-Year Low — The consumer confidence indicator in France fell to 82 in May 2026 from 84 in April, below expectations of 83, marking its lowest level since March 2023 and moving further below its long-term average of 100. Households grew more pessimistic about their financial situation, with views on both past (-29 vs -26 in April) and expected finances (-20 vs -19) deteriorating further. Assessments of living standards in France also weakened, both past (-81 vs -75) and future (-70 vs -69). Major purchase intentions declined sharply to -40 from -35, while unemployment expectations remained elevated at 54, despite easing slightly from 56. Meanwhile, households’ perceptions of past price increases continued to rise (27 vs 25), while future inflation expectations eased (2 vs 10). Saving intentions edged higher to 40 from 39, while both current and expected saving capacity remained unchanged at 18 and 14, respectively."
+    },
     {
       "id": "mkt:019e6832-64cd-700e-adbe-524ff7dc4c51",
       "time": "2026-05-27 14:49:53",
@@ -135201,83 +135251,6 @@
         "公司"
       ],
       "text": "【南方電網“算電協同服務專區”正式上線】據中國電力報，5月18日，南方電網使用者生態運營公司在“南網線上”平臺推出“算電協同服務專區”，為智算中心、超算中心、資料中心等算力供給側主體，以及廣大算力需求方提供“一站式”服務。這標誌著南方電網在落實國家“算電協同”戰略上邁出里程碑式一步。"
-    },
-    {
-      "id": "4889629",
-      "time": "2026-05-20 14:54:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "法國國防部長：無法確定霍爾木茲海峽已佈設水雷。"
-    },
-    {
-      "id": "4889628",
-      "time": "2026-05-20 14:53:42",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【特朗普政府計劃上調難民接納上限 為這一群體新增1萬名額】在本週遞交給美國國會的“緊急申請提案”中，特朗普政府提議在未來數月內，將獲准進入美國的所謂南非白人“難民”人數增加1萬人。在這份提案報告中，美國國務院提議將7500人的難民接納上限上調至17500人；其中新增的1萬個名額將專門留給所謂南非白人“難民”。報告估算，為接納這新增的1萬名難民，聯邦政府將耗資約1億美元。（第一財經）"
-    },
-    {
-      "id": "mkt:019e4428-734d-7cc9-95db-50705f3f228e",
-      "time": "2026-05-20 14:52:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "SPOT SILVER RISES 2% INTRADAY"
-    },
-    {
-      "id": "mkt:019e4428-466c-7cc9-95db-4ed88faea2c5",
-      "time": "2026-05-20 14:52:11",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "PUTIN: WE HAVE BIG POTENTIAL IN JOINT RENEWABLE ENERGY PROJECTS"
-    },
-    {
-      "id": "mkt:019e4427-9b5f-7cc9-95db-42295021499a",
-      "time": "2026-05-20 14:51:34",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "PUTIN: WE ARE READY TO CONTINUE SUPPLYING CHINA WITH ENERGY"
-    },
-    {
-      "id": "mkt:019e4427-40e6-7cc9-95db-3d4c193b2252",
-      "time": "2026-05-20 14:51:21",
-      "tags": [
-        "MKT News",
-        "CNH",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "PUTIN: ALMOST ALL RUSSIA-CHINA TRADE SETTLEMETS ARE IN ROUBLE-YUAN"
-    },
-    {
-      "id": "4889626",
-      "time": "2026-05-20 14:50:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "【英國格倫費爾大樓火災近十年後 預計數十人將受刑事指控】英國警方19日說，將提請檢方就2017年格倫費爾大樓火災對57人和20家機構提起刑事指控。這場英國自二戰以來最嚴重的火災造成72人遇難，相關調查歷時近十年仍在繼續，堪稱倫敦警方史上規模最大、最複雜的調查。倫敦警察局表示，警方將在9月底前向檢方移交全部證據卷宗，預計檢方會在明年6月14日火災十週年之前作出指控決定。（央視新聞）"
-    },
-    {
-      "id": "4889625",
-      "time": "2026-05-20 14:50:32",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內漲2%，現報75.17美元/盎司。"
     }
   ]
 }
