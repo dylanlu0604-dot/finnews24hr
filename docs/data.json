@@ -1,7 +1,61 @@
 {
-  "updated": "2026-05-27 21:52:42",
-  "count": 14917,
+  "updated": "2026-05-27 21:56:51",
+  "count": 14911,
   "items": [
+    {
+      "id": "te:markets:554125",
+      "time": "2026-05-27 21:55:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Muted as Mid-Month Inflation Tops Forecasts — The Ibovespa traded little changed above the 176,000 mark on Wednesday as investors assessed Brazil’s latest inflation data and monitored developments in the Middle East. Brazil’s mid-month inflation rate rose to 4.64% in May from 4.37% in April, above forecasts of 4.55%, reinforcing expectations that the central bank may keep interest rates elevated for longer. Meanwhile, oil prices moved lower on optimism that the US and Iran could eventually reach a peace agreement despite renewed hostilities and uncertainty surrounding the Strait of Hormuz. Easing energy-driven inflation concerns supported banks, with Itaú and Bradesco rising more than 1.5%. WEG also advanced, while Ambev gained 1% after Brazil’s industrial confidence rebounded to the highest level in one year. Vale added 1% despite lower iron ore prices, while Petrobras lost nearly 2% on falling crude prices."
+    },
+    {
+      "id": "mkt:019e69b7-a46f-7223-8ed3-f1ed0fd2f78f",
+      "time": "2026-05-27 21:55:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mehr News Agency reported that a fire broke out in the administrative building at Imam Khomeini Airport near Tehran, Iran's capital."
+    },
+    {
+      "id": "4902788",
+      "time": "2026-05-27 21:54:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗首都德黑蘭附近伊瑪目霍梅尼國際機場的行政大樓發生火災。"
+    },
+    {
+      "id": "4902787",
+      "time": "2026-05-27 21:53:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "最新分析顯示，美國需耗時數年才能補充在伊朗相關衝突中消耗的先進武器儲備。"
+    },
+    {
+      "id": "4902786",
+      "time": "2026-05-27 21:52:36",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "萊茵金屬：美國萊茵金屬公司與Harbiger已達成合作伙伴關係，為美國國防部開發並部署系列機器人與無人地面車輛。"
+    },
+    {
+      "id": "4902785",
+      "time": "2026-05-27 21:52:10",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【機構：AI資本支出競賽無視利率，削弱美聯儲偏緊縮立場】Apollo的託斯滕·斯洛克寫道，美國的借款成本可能仍會走高，因為對美聯儲偏緊縮的預期並沒有像教科書所預測的那樣令該國經濟和通貨膨脹放緩。他表示，這要歸咎於對AI的投資。“事實上，儘管近幾個月利率走高，但對2027年資本支出的平均預期仍在繼續上升……換言之，沒有跡象表明市場預計明年AI資本支出會放緩。“斯洛克表示，超大規模雲服務提供商非常害怕錯失資料中心爭奪戰，以至於他們似乎並不介意更高的利率。“超大規模雲服務提供商中存在錯失恐懼症(FOMO)，“他說。"
+    },
     {
       "id": "4902784",
       "time": "2026-05-27 21:50:56",
@@ -133744,107 +133798,6 @@
         "Importance 1"
       ],
       "text": "Dollar Near 6-Week Highs — The dollar index was little changed at 99.4 on Wednesday, hovering close to high levels not seen since early April, supported by concerns about rising inflation and high interest rates. The Strait of Hormuz remains largely closed, keeping oil prices roughly 50% above pre-war levels and fueling concerns over sustained inflationary pressures. Higher energy costs are expected to continue to add upward pressure to consumer prices, likely forcing central banks to maintain tighter monetary policy or even resume interest rate hikes, while also complicating fiscal conditions. The Fed is still expected to keep the federal funds rate unchanged for the remainder of the year, although market-implied odds of a rate hike in December currently stand at around 50%. Investors are now awaiting the release of the latest FOMC minutes later in the day for further insight into policymakers’ outlook on inflation and interest rates. The greenback was little changed against major currencies"
-    },
-    {
-      "id": "4890796",
-      "time": "2026-05-20 21:56:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國總統特朗普：白宮的舞廳正在建設中。這其實是一個非常“軍事化”的綜合體。屋頂實際上是一個無人機港口。這也是我們人民的一個強大軍事陣地。"
-    },
-    {
-      "id": "4890795",
-      "time": "2026-05-20 21:56:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "三星工會負責人：已就盈利資金向虧損業務板塊的調配方案達成一致。"
-    },
-    {
-      "id": "mkt:019e45ab-e394-7cc9-95e1-11f79ef18152",
-      "time": "2026-05-20 21:55:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "PAKISTAN INTERIOR MINISTER MEETS IRGC COMMANDER IN TEHRAN - AL HADATH"
-    },
-    {
-      "id": "4890794",
-      "time": "2026-05-20 21:55:39",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "市場訊息：巴基斯坦內政部長在德黑蘭會見伊朗革命衛隊指揮官。"
-    },
-    {
-      "id": "4890793",
-      "time": "2026-05-20 21:55:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防軍參謀長：當前以軍已進入最高戒備狀態，嚴陣以待應對一切突發局勢。"
-    },
-    {
-      "id": "mkt:019e45ab-49c3-7cc9-95e1-0da3aad41d2a",
-      "time": "2026-05-20 21:55:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "SAMSUNG UNION LEADER: AGREED ON HOW TO DISTRIBUTE PROFIT TO LOSS-MAKING BUSINESSES"
-    },
-    {
-      "id": "4890792",
-      "time": "2026-05-20 21:54:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國總統特朗普：（談到自己時）你們最終會說，我將是有史以來最偉大的美國總統。"
-    },
-    {
-      "id": "mkt:019e45aa-ce17-7cc9-95e1-0039d59a27c5",
-      "time": "2026-05-20 21:54:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TRUMP ON IRAN: I’M IN NO HURRY. EVERYONE IS SAYING, “THE MIDTERMS.” I’M IN NO HURRY"
-    },
-    {
-      "id": "4890789",
-      "time": "2026-05-20 21:53:51",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "韓國勞工部長：工會與三星已在利潤分配方案上達成共識。"
-    },
-    {
-      "id": "mkt:019e45a9-d90a-7cc9-95e0-f95ecf1cdf91",
-      "time": "2026-05-20 21:53:39",
-      "tags": [
-        "MKT News",
-        "005930.KS"
-      ],
-      "text": "SOUTH KOREA LABOUR MINISTER: UNION, SAMSUNG FOUND COMMON GROUND ON HOW TO DISTRIBUTE PROFITS"
-    },
-    {
-      "id": "4890788",
-      "time": "2026-05-20 21:53:29",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【韓國三星電子大罷工暫緩】最新訊息：今天（5月20日）晚上，於今天下午再度重啟的韓國三星電子勞資談判結束，雙方達成勞資談判協議暫定方案。三星電子工會一方表示，原定於明天（5月21日）開始的大罷工暫緩，工會內部將對協議暫定方案進行投票，後續行動將視投票結果決定。（CCTV國際時訊）"
-    },
-    {
-      "id": "4890787",
-      "time": "2026-05-20 21:52:54",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國總統特朗普：很多人提醒我注意中期選舉，但我一點也不著急。"
     }
   ]
 }
