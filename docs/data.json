@@ -1,7 +1,51 @@
 {
-  "updated": "2026-05-28 04:53:14",
-  "count": 14861,
+  "updated": "2026-05-28 04:57:08",
+  "count": 14854,
   "items": [
+    {
+      "id": "4903205",
+      "time": "2026-05-28 04:55:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "邁威爾科技：預計第二季度資料中心業務營收環比增速將加快，升至中高雙位數區間。"
+    },
+    {
+      "id": "mkt:019e6b37-dadb-722a-b521-f17bb48fedb0",
+      "time": "2026-05-28 04:54:43",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "RBNZ Governor Breman: The Board considers that inf pressures will intensify in the future, and the cash rate needs to be raised further."
+    },
+    {
+      "id": "4903204",
+      "time": "2026-05-28 04:54:34",
+      "tags": [
+        "央行"
+      ],
+      "text": "紐西蘭聯儲主席佈雷曼： 委員會認為通脹壓力仍將持續，一致同意後續需上調基準利率。"
+    },
+    {
+      "id": "4903203",
+      "time": "2026-05-28 04:53:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "週三（5月27日）紐約尾盤，現貨黃金跌1.18%，報4455.00美元/盎司，北京時間21:28重新整理日低至4401.67美元。COMEX黃金期貨跌1.11%，報44814.70美元/盎司，北京時間14:00之前大致持穩於4540美元附近，18:30以來主要持穩於4480美元附近、21:28重新整理日低至4431美元。"
+    },
+    {
+      "id": "4903202",
+      "time": "2026-05-28 04:53:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "邁威爾科技： 預計公司互聯業務同比增幅將超 70%，預計 2028 財年營收將達到約 165 億美元。"
+    },
     {
       "id": "4903201",
       "time": "2026-05-28 04:51:22",
@@ -133152,108 +133196,6 @@
         "其他"
       ],
       "text": "SpaceX：簽署價值20億美元的渦輪機採購協議。"
-    },
-    {
-      "id": "4891261",
-      "time": "2026-05-21 04:56:43",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "SpaceX：首次公開募股承銷商包括高盛、摩根士丹利、美國銀行證券、花旗集團以及摩根大通。"
-    },
-    {
-      "id": "4891260",
-      "time": "2026-05-21 04:55:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX：2025年AI業務資本支出127.3億美元。"
-    },
-    {
-      "id": "4891259",
-      "time": "2026-05-21 04:55:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "SpaceX：人工智慧公司Anthropic將在2029年5月前每月向我方支付12.5億美元，2026年5月至6月的容量爬坡階段將按優惠費率計費。"
-    },
-    {
-      "id": "4891258",
-      "time": "2026-05-21 04:55:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX：預計最早將於2028年開始部署我們的軌道人工智慧計算衛星。"
-    },
-    {
-      "id": "4891257",
-      "time": "2026-05-21 04:54:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "SpaceX：截至3月31日，公司已在近地軌道部署約9600顆星鏈（Starlink）寬頻及移動衛星。"
-    },
-    {
-      "id": "4891256",
-      "time": "2026-05-21 04:54:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX：預計太空開發活動將“促成突破性變革，重塑地球產業，並在月球、火星及更遠區域催生規模達數萬億美元的新市場”。"
-    },
-    {
-      "id": "4891255",
-      "time": "2026-05-21 04:54:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX：第一季度資本支出101.1億美元。"
-    },
-    {
-      "id": "4891254",
-      "time": "2026-05-21 04:54:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX：計劃在月球與火星建造製造基礎設施。"
-    },
-    {
-      "id": "4891253",
-      "time": "2026-05-21 04:53:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "SpaceX：5月已與Anthropic公司簽署雲服務協議。"
-    },
-    {
-      "id": "4891252",
-      "time": "2026-05-21 04:53:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX：Cursor有權根據期權協議獲得15億美元終止費，以及根據計算協議獲得85億美元延期服務費。"
-    },
-    {
-      "id": "4891251",
-      "time": "2026-05-21 04:53:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX：計劃開展小行星採礦作業，從近地小行星及主帶小行星中開採金屬及其他關鍵資源。"
-    },
-    {
-      "id": "te:markets:552422",
-      "time": "2026-05-21 04:53:20",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Posts Biggest Gain in Nearly Three Weeks — The S&P/TSX Composite Index gained 1.2% to close at 34,162 on Wednesday, posting its biggest advance in nearly three weeks as mining, banking, and technology shares led gains. A pullback in oil prices eased pressure on long-term borrowing costs, supporting heavyweight financial stocks. Royal Bank of Canada rose 1.9%, while TD Bank gained 1.4%, and both BMO and Brookfield advanced 2.3%. Mining stocks also moved higher, with Agnico Eagle adding 2.7% and Barrick rising 3.6% as gold prices increased alongside a decline in Treasury yields. The move followed signs of incoming energy supply from the Middle East, which helped temper expectations of further inflation pressure. In the technology sector, Shopify climbed 3.8% ahead of Nvidia’s earnings release, which investors viewed as a key test of the strength of the AI-driven market rally. Nvidia is expected to report its fastest sales growth in more than a year."
     }
   ]
 }
