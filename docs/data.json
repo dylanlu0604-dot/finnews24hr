@@ -1,7 +1,71 @@
 {
-  "updated": "2026-05-28 04:02:16",
+  "updated": "2026-05-28 04:06:12",
   "count": 14889,
   "items": [
+    {
+      "id": "4903174",
+      "time": "2026-05-28 04:05:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "Snowflake：承諾未來五年內，在亞馬遜雲服務（AWS）上投入 60 億美元，用於 Graviton 算力及人工智慧相關建設。"
+    },
+    {
+      "id": "te:markets:554176",
+      "time": "2026-05-28 04:05:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Salesforce earnings above expectations at 3.88 USD — Salesforce (CRM) released earnings per share at 3.88 USD, compared to market expectations of 3.12 USD."
+    },
+    {
+      "id": "mkt:019e6b08-dd8d-799f-bbe6-69381dd8a8f4",
+      "time": "2026-05-28 04:03:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bullish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "On May 27 (Wednesday) the Dow Jones Industrial Average closed up 182.60 points (+0.36%) at 50,644.28; the S&P 500 Index closed up 1.24 points (+0.02%) at 7,520.36; the Nasdaq Composite Index closed up 18.55 points (+0.07%) at 26,674.73."
+    },
+    {
+      "id": "mkt:019e6b08-be68-7223-8ed9-a749cb4292d7",
+      "time": "2026-05-28 04:03:15",
+      "tags": [
+        "MKT News",
+        "Dow",
+        "Impact bullish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "Dow Jones Index Closed Up 182.60 Points, Rose 0.36%, At 50644.28 On Wednesday, 27 May.. S&P 500 Index Closed Up 1.24 Points, Rose 0.02%, At 7520.36 On Wednesday, 27 May.. NASDAQ Index Closed Up 18.55 Points, Rose 0.07%, At 26674.73 On Wednesday, 27 May.."
+    },
+    {
+      "id": "mkt:019e6b08-a3e0-799f-bbe6-5aa1949f77ba",
+      "time": "2026-05-28 04:03:08",
+      "tags": [
+        "MKT News",
+        "CRM.N",
+        "Impact bullish"
+      ],
+      "text": "Salesforce (CRM.N) reported Q1 revenue of $11.13 bln, versus analysts' $11.05 bln consensus."
+    },
+    {
+      "id": "4903173",
+      "time": "2026-05-28 04:02:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta收漲3.7%，創4月14日以來最大單日漲幅。"
+    },
     {
       "id": "4903172",
       "time": "2026-05-28 04:01:46",
@@ -133394,74 +133458,6 @@
         "國際"
       ],
       "text": "【美聯儲推出新型清算結算支付賬戶方案】美國聯邦儲備委員會公佈一項提案，擬設立一類全新支付賬戶，可供部分金融機構用於資金清算與結算業務。美聯儲於週三釋出宣告稱，該新設賬戶方案目前面向公眾徵求意見，既適配行業創新發展需求，同時也能有效降低聯邦儲備銀行及支付體系面臨的重大風險。此前，隨著加密貨幣企業與金融科技公司紛紛謀求直接接入美聯儲支付系統，美聯儲便已醞釀推出這類新型賬戶。此後堪薩斯城聯邦儲備銀行向加密交易平臺克拉肯發放專用受限賬戶資質，使其成為首家直接接入美國主流支付基礎設施的數字資產機構。美聯儲明確，此類賬戶使用者無法獲得日間信貸及貼現視窗融資許可權，存放於儲備銀行的賬戶餘額不計付利息，且僅可使用配備自動防透支管控機制的支付服務。"
-    },
-    {
-      "id": "te:markets:552412",
-      "time": "2026-05-21 04:05:25",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Intuit earnings above expectations at 12.80 USD — Intuit (INTU) released earnings per share at 12.80 USD, compared to market expectations of 12.57 USD."
-    },
-    {
-      "id": "mkt:019e46fc-d9c8-7bb5-8188-898120fde396",
-      "time": "2026-05-21 04:03:56",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Regions",
-        "Wall Street (US)",
-        "Market Themes",
-        "Magnificent 7",
-        "S&P500",
-        "Impact bullish",
-        "Nasdaq100",
-        "NVDA.O",
-        "Impact mixed"
-      ],
-      "text": "【US Stocks Rally as Oil Falls Ahead of Nvidia Earnings】U.S. stocks rose sharply Wednesday as oil prices declined and Treasury yields retreated ahead of earnings from Nvidia. The S&P 500 gained more than 1%, the Nasdaq climbed 1.5%, and the Dow added about 600 points. Markets rebounded after a recent bond selloff driven by concerns persistent inflation could push the Federal Reserve toward rate hikes. Oil posted its biggest one-day drop in a month after Donald Trump said the U.S. was nearing an agreement with Iran. Investors are expecting a roughly 5.5% post-earnings move in Nvidia shares, according to Bloomberg."
-    },
-    {
-      "id": "4891192",
-      "time": "2026-05-21 04:03:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "英國首相府：斯塔默和澤連斯基重申需要繼續對俄羅斯施壓，並對英烏關係的牢固表示歡迎。"
-    },
-    {
-      "id": "4891191",
-      "time": "2026-05-21 04:02:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "英國首相府：首相重申英國對烏克蘭的堅定支援。"
-    },
-    {
-      "id": "mkt:019e46fb-ecf9-7bb5-8188-825d9d0e6524",
-      "time": "2026-05-21 04:02:51",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "UK DOWNING STREET: PRIME MINISTER REAFFIRMED UK'S STEADFAST SUPPORT FOR UKRAINE"
-    },
-    {
-      "id": "mkt:019e46fb-c8d3-7bb5-8188-7eb8860f90b9",
-      "time": "2026-05-21 04:02:46",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "UK PM OFFICE: STARMER AND ZELENSKIY REITERATED NEED TO KEEP UP THIS PRESSURE ON RUSSIA AND WELCOMED STRENGTH OF UK-UKRAINE RELATIONSHIP"
     }
   ]
 }
