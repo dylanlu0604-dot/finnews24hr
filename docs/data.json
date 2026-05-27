@@ -1,7 +1,55 @@
 {
-  "updated": "2026-05-28 04:45:25",
-  "count": 14888,
+  "updated": "2026-05-28 04:49:21",
+  "count": 14868,
   "items": [
+    {
+      "id": "4903199",
+      "time": "2026-05-28 04:47:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "據半島電視臺：以色列襲擊加沙城造成的死亡人數上升至7人，受傷人數升至15人。"
+    },
+    {
+      "id": "mkt:019e6b31-6f58-722a-b521-efc8cd84c5fd",
+      "time": "2026-05-28 04:47:42",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Al Jazeera reported Israeli strikes on Gaza City raised the death toll to 7 and the number of wounded to 15."
+    },
+    {
+      "id": "te:markets:554181",
+      "time": "2026-05-28 04:46:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Falls on Inflation and Geopolitical Risks — The Ibovespa lost 0.5% to close at 175,744 on Wednesday as investors assessed Brazil’s latest inflation data and monitored developments in the Middle East. Brazil’s mid-month inflation rose to 4.64% in May from 4.37% in April, above forecasts of 4.55%, reinforcing expectations that the central bank may keep interest rates elevated for longer. Meanwhile, prospects for a US-Iran deal to end the war and restore energy flows through the Strait of Hormuz remained uncertain. The US denied an Iranian media report on a draft interim agreement stating that traffic through Hormuz could return to normal within a month after the deal takes effect. Still, oil prices declined, weighing on Petrobras, which fell 1.4%. Utilities also traded lower, with Axia down 1.8%. Other notable laggards included B3 (-2.7%) and Rede D'Or (-1.7%). Major banks helped limit losses, with Bradesco up 0.9% and Itaú gaining 0.6%. Embraer rose 1.5% after Bradesco BBI reiterated its buy recommendation on the stock."
+    },
+    {
+      "id": "mkt:019e6b2f-ec86-722a-b521-e7f2adb692b0",
+      "time": "2026-05-28 04:46:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBNZ Governor Breman said he had heard export-focused firms were performing well but remained worried about the uncertain environment."
+    },
+    {
+      "id": "4903198",
+      "time": "2026-05-28 04:45:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "富國銀行CEO：預計第二季度金融市場與投行業務收入將實現中雙位數百分比增長。"
+    },
     {
       "id": "mkt:019e6b2e-9aea-722a-b521-df952ed90df2",
       "time": "2026-05-28 04:44:36",
@@ -133262,220 +133310,6 @@
         "公司"
       ],
       "text": "SpaceX：首次公開募股（IPO）後將擁有“受控公司”地位，無需要求董事會多數席位由獨立董事構成。\n注：此處“受控公司”為美股證券監管術語，指某一主體持股多數表決權股份的公司，可豁免董事會多數成員為獨立人士的監管要求。"
-    },
-    {
-      "id": "4891241",
-      "time": "2026-05-21 04:49:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX：計劃在本世紀20年代末部署首批模組化軌道人工智慧計算艙，並開始透過出售人工智慧軟體與人工智慧算力實現產能變現。"
-    },
-    {
-      "id": "4891240",
-      "time": "2026-05-21 04:49:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "SpaceX：完成首次公開募股後，埃隆·馬斯克將同時擔任執行長、技術長以及董事長三項職務。"
-    },
-    {
-      "id": "mkt:019e4726-61d2-7bb5-8189-ab241585b4e7",
-      "time": "2026-05-21 04:49:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "SPACEX: WITH RESPECT TO LAUNCH FREQUENCY, EXPECT TO BE ABLE TO SCALE TO THOUSANDS OF LAUNCHES PER YEAR"
-    },
-    {
-      "id": "mkt:019e4726-60fb-7bb5-8189-a6ade51f6526",
-      "time": "2026-05-21 04:49:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "SPACEX Q1 SPACEX Q1 NET LOSS $4,276 MLN"
-    },
-    {
-      "id": "mkt:019e4725-dd8b-7bb5-8189-997fd6e3adf5",
-      "time": "2026-05-21 04:48:37",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "SPACEX: INTEGRATED AI PLATFORMS ACROSS GROK AND X HAVE OVER 1.3B SUPPORTED ACCOUNTS ACTIVE IN LAST TWELVE MONTHS ENDED MARCH 31"
-    },
-    {
-      "id": "4891239",
-      "time": "2026-05-21 04:48:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "SpaceX：埃隆·馬斯克持有該公司12.3%的A類股份，以及93.6%的B類股份。"
-    },
-    {
-      "id": "4891238",
-      "time": "2026-05-21 04:48:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX：持股5%及以上股東為埃隆·馬斯克。"
-    },
-    {
-      "id": "mkt:019e4725-9091-7bb5-8189-9117ba08c914",
-      "time": "2026-05-21 04:48:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "SPACEX: MUSK CAN ELECT, REMOVE, OR FILL VACANCY AMONG CLASS B DIRECTORS"
-    },
-    {
-      "id": "mkt:019e4725-67f3-7bb5-8189-8f38c6669854",
-      "time": "2026-05-21 04:48:12",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "SPACEX: BY END OF DECADE, INTEND TO DEPLOY FIRST MODULAR ORBITAL AI COMPUTE SHELLS & BEGIN MONETIZING CAPACITY THROUGH SALE OF AI SOFTWARE & AI COMPUTE"
-    },
-    {
-      "id": "mkt:019e4725-638b-7bb5-8189-87c038f25f6e",
-      "time": "2026-05-21 04:48:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "SPACEX: AFTER IPO, MUSK WILL BE CEO, CTO AND CHAIRMAN OF BOARD"
-    },
-    {
-      "id": "mkt:019e4725-250e-7bb5-8189-79c1d11a4b9a",
-      "time": "2026-05-21 04:47:50",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Crypto Concepts",
-        "Bitcoin"
-      ],
-      "text": "SPACEX FILES FOR IPO, DISCLOSES 18,712 BTC HOLDING AT COST BASIS OF $35K: FILING"
-    },
-    {
-      "id": "mkt:019e4724-bdcd-7bb5-8189-73fb0acfbc36",
-      "time": "2026-05-21 04:47:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "SPACEX: 5% OR GREATER SHAREHOLDERS INCLUDE ELON MUSK"
-    },
-    {
-      "id": "mkt:019e4724-774b-7bb5-8189-6cda21bc0144",
-      "time": "2026-05-21 04:47:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "SPACEX: ELON MUSK OWNS 12.3% OF CLASS A SHARES, 93.6% OF CLASS B SHARES"
-    },
-    {
-      "id": "mkt:019e4724-6181-7bb5-8189-65e793571181",
-      "time": "2026-05-21 04:47:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "SPACEX: DOES NOT EXPECT TO DECLARE OR PAY DIVIDENDS TO HOLDERS OF CLASS A STOCK IN THE FORESEEABLE FUTURE"
-    },
-    {
-      "id": "mkt:019e4724-4e91-7bb5-8189-5ab939dd7864",
-      "time": "2026-05-21 04:46:59",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "SPACEX Q1 AI SEGMENT REVENUE $818 MILLION"
-    },
-    {
-      "id": "4891237",
-      "time": "2026-05-21 04:46:57",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "SpaceX：馬斯克合計持有85.1%的投票權。"
-    },
-    {
-      "id": "mkt:019e4724-2023-7bb5-8189-5747ae6bed65",
-      "time": "2026-05-21 04:46:49",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "SPACEX: ELON MUSK HAS COMBINED VOTING POWER OF 85.1%"
-    },
-    {
-      "id": "4891236",
-      "time": "2026-05-21 04:46:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX第一季度航天業務部門營收為6.19億美元。"
-    },
-    {
-      "id": "mkt:019e4723-9df3-7bb5-8189-4dd947b55b6c",
-      "time": "2026-05-21 04:46:16",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "SPACEX Q1 CONNECTIVITY SEGMENT REVENUE $3,257 MILLION"
-    },
-    {
-      "id": "4891235",
-      "time": "2026-05-21 04:46:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX第一季度連線業務部門營收為32.57億美元。"
-    },
-    {
-      "id": "4891234",
-      "time": "2026-05-21 04:46:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX：可預見的未來內，預計不會宣派或支付A類股普通股股東股息。"
-    },
-    {
-      "id": "mkt:019e4723-36be-7bb5-8189-4130a8dee4f8",
-      "time": "2026-05-21 04:45:50",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "SPACEX: MUSK WILL HAVE POWER TO CONTROL OUTCOME OF MATTERS THAT NEED SHAREHOLDER APPROVAL"
-    },
-    {
-      "id": "4891233",
-      "time": "2026-05-21 04:45:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX第一季度營收46.9億美元。"
-    },
-    {
-      "id": "mkt:019e4723-0c5f-7bb5-8189-3ddedd78a759",
-      "time": "2026-05-21 04:45:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "SPACEX: WILL HAVE \"CONTROLLED COMPANY\" STATUS AFTER IPO, DOES NOT NEED MAJORITY OF BOARD TO BE INDEPENDENT"
-    },
-    {
-      "id": "4891232",
-      "time": "2026-05-21 04:45:28",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "SpaceX：馬斯克將有權控制需要股東批准事項的表決結果。"
     }
   ]
 }
