@@ -1,7 +1,27 @@
 {
-  "updated": "2026-05-28 05:40:03",
+  "updated": "2026-05-28 05:43:55",
   "count": 14820,
   "items": [
+    {
+      "id": "4903221",
+      "time": "2026-05-28 05:41:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "【報道：美軍已部署到位，可隨時進攻古巴】五角大樓數月來已部署好進攻古巴所需兵力，只待美國總統特朗普批准。在經經濟與外交施壓未果後，特朗普曾提出入侵古巴。目前美海軍在該地區集結的力量——全球除中東外最大——使美軍可立即行動。5月27日，美國國務卿魯比奧在內閣會議上稱，古巴“處境非常困難”，距美僅90英里的“失敗國家”威脅美國安全。（Politico）"
+    },
+    {
+      "id": "te:economy:554184",
+      "time": "2026-05-28 05:41:13",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "API Crude Oil Stock Change",
+        "Importance 2"
+      ],
+      "text": "US Crude Inventories Extend Decline — US crude oil inventories fell by 2.8 million barrels in the week ending May 22, 2026, according to the American Petroleum Institute, following a 9.1 million-barrel draw in the previous week. Inventories in the US Strategic Petroleum Reserve continued to decline as authorities sought to ease pressure on oil prices. Gasoline inventories dropped by 3.2 million barrels after falling 5.8 million barrels in the prior week. At Cushing, Oklahoma, the WTI delivery hub, inventories declined by 2.9 million barrels, extending the previous week’s 1.4 million-barrel draw. Meanwhile, distillate inventories rose by 1.1 million barrels after a 1 million-barrel decline in the previous period. Despite recent draws, US crude inventories have increased by 22 million barrels so far this year, according to API data."
+    },
     {
       "id": "4903220",
       "time": "2026-05-28 05:37:51",
@@ -132910,22 +132930,6 @@
         "國際"
       ],
       "text": "【美聯儲擬推精簡版支付賬戶，向金融科技公司開放其支付系統】美聯儲週三提議推出一種新型、範圍更有限的支付賬戶，該賬戶將允許金融科技公司等企業透過美聯儲的支付系統進行資金轉移，但無法享受傳統銀行所享有的所有保障。美聯儲在一份宣告中表示，擬議的賬戶將無法獲得日間信貸或使用美聯儲的貼現視窗，企業存放在美聯儲的準備金也不會產生利息。該提案源於美聯儲此前對精簡版賬戶的研究工作。目前美聯儲正尋求在兩者之間取得平衡：一方面讓更多企業接入其支付基礎設施，另一方面避免給金融體系帶來不必要的風險。"
-    },
-    {
-      "id": "4891318",
-      "time": "2026-05-21 05:42:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "英偉達CEO黃仁勳：預計包括自家產品在內的基於靜態隨機存取儲存器的人工智慧晶片，短期內仍將屬於小眾品類。"
-    },
-    {
-      "id": "4891316",
-      "time": "2026-05-21 05:40:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【從“建算力”到“織算網”我國算力建設將轉向新階段】隨著人工智慧驅動科學研究成為全球科技競爭的新制高點，從千億引數模型訓練到氣象預報、新材料研發，科學智慧的每一個突破，都需要強大的算力支撐。作為當前科研投入的重要基礎設施，一張智慧排程的算力網正在加速建設。國家超算網際網路已經匯聚了超過30家智算和超算中心，形成統一的一張網。包括超過300萬個CPU核，以及20萬張GPU卡。目前，我國已初步實現八大國家算力樞紐節點20毫秒時延圈，也就是說，從一個樞紐抵達其他節點的時延不到人類眨眼時間的十分之一，其中最快的成渝樞紐至全國各節點網內時延12.4毫秒；部分割槽域時延僅1毫秒，真正實現算力“在身邊、秒觸達”。工信部表示，當前我國正加快建設樞紐、區域、邊緣三級算力節點和通訊網、電力網兩張保障網路，“中國算力平臺”到今年年底將全面實現算力資料自動化監測，“算力超市”“算力銀行”等創新業務也在系統性降低算力使用門檻。 (央視新聞)"
     }
   ]
 }
