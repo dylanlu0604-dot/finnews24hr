@@ -1,7 +1,107 @@
 {
-  "updated": "2026-05-27 22:13:19",
-  "count": 14927,
+  "updated": "2026-05-27 22:17:25",
+  "count": 14923,
   "items": [
+    {
+      "id": "mkt:019e69cb-31b9-7223-8ed4-a16a5bc5be02",
+      "time": "2026-05-27 22:16:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to Iranian state media, an accident occurred at the largest petrochemical complex in Asaluyeh on Iran’s southern Persian Gulf coast, killing at least one person and injuring two."
+    },
+    {
+      "id": "4902825",
+      "time": "2026-05-27 22:16:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【東風著陸場完成最後一次全系統綜合演練 準備就緒迎神二十一航天員回家】神舟二十一號航天員乘組將於近日乘神舟二十二號載人飛船返回地球。東風著陸場於27日晚完成第二次全系統綜合演練，全面檢驗搜救回收任務組織指揮、協同配合以及應急保障等能力。這是神二十一航天員返回前，東風著陸場進行的最後一次全系統綜合演練。此前，東風著陸場已組織完成搜救分隊通訊聯調、空地協同搜救訓練等。（央視新聞）"
+    },
+    {
+      "id": "4902824",
+      "time": "2026-05-27 22:15:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "波音執行長表示，公司計劃在未來將 737 機型月產量提升至 63 架。"
+    },
+    {
+      "id": "4902823",
+      "time": "2026-05-27 22:15:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "波音執行長表示，自2025年初恢復生產以來，公司已將穩定737MAX產量列為優先事項。"
+    },
+    {
+      "id": "4902822",
+      "time": "2026-05-27 22:15:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗波斯灣海岸阿薩盧耶最大石化綜合體發生不明事故，造成至少1人死亡、2人受傷。"
+    },
+    {
+      "id": "te:economy:554130",
+      "time": "2026-05-27 22:15:00",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Richmond Fed Manufacturing Index",
+        "Importance 1"
+      ],
+      "text": "5th District Manufacturing Rises Most Since 2021 — The Federal Reserve's Fifth District manufacturing index jumped by 10 points from the previous month to 13 in May of 2026, the highest since 2021, and well ahead of market expectations of 4. The result was aligned with broader signals of strength from manufacturing surveys in the US, despite the rise in energy prices and borrowing costs since March due to the war in the Middle East. The index measuring new orders surged (17 vs 8 in April), driving a rebound in shipments (16 vs -2). Meanwhile, prices paid rose at a slower magnitude (5.96 vs 6.4), driving firms to ease the increase on their charges (4.21 vs 4.73). Looking ahead, improvements are expected both for shipments (35 vs 21) and new orders (36 vs 26)."
+    },
+    {
+      "id": "4902821",
+      "time": "2026-05-27 22:14:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "波音股價上漲3%。"
+    },
+    {
+      "id": "4902820",
+      "time": "2026-05-27 22:14:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "巴西國家石油公司執行長稱，將在烏魯庫石油樞紐鑽探 22 口新油井。"
+    },
+    {
+      "id": "4902819",
+      "time": "2026-05-27 22:13:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "墨西哥經濟部長：墨西哥與美國貿易代表辦公室敲定第三輪談判於 7 月 20 日舉行。"
+    },
+    {
+      "id": "4902818",
+      "time": "2026-05-27 22:13:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【非洲開發銀行預計2026年非洲經濟增長4.2%】非洲開發銀行26日在剛果（布）首都布拉柴維爾釋出《2026年非洲經濟展望》報告顯示，儘管受到地緣政治緊張局勢加劇和全球供應衝擊影響，2026年非洲各國平均國內生產總值增長率預計仍將達到4.2%，略低於2025年的4.4%。報告指出，雖然非洲經濟展現出強大韌性，但各區域經濟增長存在明顯差異。2026年，東非預計將以5.9%的經濟增速領跑，西非預計增長4.7%，中部非洲預計增長3.8%；南部非洲受礦業產量下降和能源成本上升影響，預計增速為2.1%。（新華社）"
+    },
+    {
+      "id": "mkt:019e69c8-4c07-7223-8ed4-9fe3ac6e809b",
+      "time": "2026-05-27 22:13:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EBRARD, Mexico's economy minister, said Mexico and the Office of the U.S. Trade Representative will hold third-round talks on July 20."
+    },
+    {
+      "id": "4902817",
+      "time": "2026-05-27 22:12:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【波蘭一工廠發生火災 暫無人員受傷資訊】當地時間5月27日，位於波蘭大波蘭省奧博爾尼基市的一處工廠發生嚴重火災，目前已有約40支消防隊參與滅火行動。現場濃煙滾滾，火勢仍在持續，消防部門正在全力控制火情。當地消防部門發言人指出，目前“火勢很大”，消防員現階段的重點是儘快控制火情。“我們同時也在保護周邊其他建築，因為事故地點附近還有其他工廠。目前暫時沒有人員受傷的資訊。更多救援力量正在趕赴現場，包括來自波茲南的化學救援隊，以及鄰近縣市的消防車輛。”奧博爾尼基消防部門公佈的照片顯示，現場升起巨大濃煙，在很遠距離外都能看到。消防人員同時呼籲民眾“不要靠近火災現場”。（央視新聞）"
+    },
     {
       "id": "mkt:019e69c7-a50c-7223-8ed4-91a20e52445e",
       "time": "2026-05-27 22:12:32",
@@ -133826,144 +133926,6 @@
         "其他"
       ],
       "text": "英國央行布里登：各項資料表明薪資壓力有所緩解。"
-    },
-    {
-      "id": "4890836",
-      "time": "2026-05-20 22:17:18",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "低硫燃料油連續主力合約日內跌4%，現報5004.00元。"
-    },
-    {
-      "id": "4890835",
-      "time": "2026-05-20 22:17:05",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內跌4%，現報99.92美元/桶。"
-    },
-    {
-      "id": "4890834",
-      "time": "2026-05-20 22:17:05",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油失守100美元/桶，日內跌4.06%。"
-    },
-    {
-      "id": "4890833",
-      "time": "2026-05-20 22:17:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內跌4%，現報106.77美元/桶。"
-    },
-    {
-      "id": "te:markets:552351",
-      "time": "2026-05-20 22:17:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Crude Oil WTI is down by 4.1% — Crude Oil WTI decreased 4.1% to 99.877 USD/Bbl"
-    },
-    {
-      "id": "mkt:019e45bf-37e9-7cc9-95e1-54b9c34f4f94",
-      "time": "2026-05-20 22:16:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "THE PAKISTANI ARMY LEADER MAY VISIT IRAN TOMORROW TO ANNOUNCE THE FINAL VERSION OF THE AGREEMENT TEXT - AL HADATH, CITING SOURCES"
-    },
-    {
-      "id": "4890832",
-      "time": "2026-05-20 22:16:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防軍稱，第 401 裝甲旅旅長上校在黎巴嫩南部遭遇爆炸無人機襲擊，身負重傷。同起事件中，一名預備役作戰軍官受中度傷，一名預備役士兵受輕傷。"
-    },
-    {
-      "id": "4890831",
-      "time": "2026-05-20 22:16:54",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油失守107美元/桶，日內跌3.90%。"
-    },
-    {
-      "id": "4890830",
-      "time": "2026-05-20 22:16:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際鉛鋅研究小組（ILZSG）：3月份全球鉛市轉為短缺。"
-    },
-    {
-      "id": "4890829",
-      "time": "2026-05-20 22:16:08",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行行長：資料顯示勞動力市場已出現寬鬆態勢。"
-    },
-    {
-      "id": "mkt:019e45be-50ea-7cc9-95e1-4bb944de26f2",
-      "time": "2026-05-20 22:16:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UKRAINE TO EASE PROCEDURES OF ISSUING DEFENCE EXPORT LICENSES, SENIOR SECURITY OFFICIAL SAYS UKRAINE IS FINALISING FIRST DEFENCE EXPORT CONTRACTS UNDER DRONE DEALS, SENIOR SECURITY OFFICIAL SAYS"
-    },
-    {
-      "id": "mkt:019e45be-16c6-7cc9-95e1-414de6243be4",
-      "time": "2026-05-20 22:15:45",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "RUSSIAN PRESIDENT PUTIN CONCLUDES STATE VISIT TO CHINA, TO DEPART BEIJING BY SPECIAL PLANE - CCTV"
-    },
-    {
-      "id": "4890828",
-      "time": "2026-05-20 22:15:11",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "5月20日晚，俄羅斯總統普京結束對中國的國事訪問，將乘專機離開北京。（CCTV國際時訊）"
-    },
-    {
-      "id": "4890827",
-      "time": "2026-05-20 22:14:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "【習近平同俄羅斯總統普京茶敘】\n5月20日晚，國家主席習近平在北京人民大會堂同俄羅斯總統普京舉行茶敘。\n\n習近平指出，多年來，我同普京總統保持頻密交往，共同引領中俄新時代全面戰略協作夥伴關係持續走深走實，推動兩國睦鄰友好更加深入人心，開創了相互尊重、公平正義、合作共贏的新型大國關係正規化，為變亂交織的世界持續注入寶貴的穩定性。今天我同普京總統又就推進中俄全面戰略協作夥伴關係達成新的重要共識。為者常成，行者常至。相信在雙方不懈努力下，中俄關系一定會延續高質量發展態勢，竿頭日進，更上層樓。\n\n普京表示，此訪務實高效、成果豐碩。我同習近平主席共同回顧了俄中關係的發展歷程，就廣泛議題深入交換意見，明確了下一步兩國合作方向，有利於確保俄中關係始終保持蓬勃發展勢頭。俄方期待繼續同中方保持密切溝通，加強戰略協調，以俄中關係的確定性、穩定性為世界和平繁榮作出新貢獻。\n\n兩國元首還就烏克蘭危機等問題交換了意見。（央視新聞）"
-    },
-    {
-      "id": "4890826",
-      "time": "2026-05-20 22:13:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭高階安全官員：烏克蘭正在敲定首批無人機交易下的防務出口合同。"
-    },
-    {
-      "id": "4890825",
-      "time": "2026-05-20 22:13:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以總理稱已指示有關部門驅逐“全球堅韌船隊”成員】當地時間20日，以色列總理辦公室發表宣告稱，總理內塔尼亞胡稱，以色列完全有權阻止“全球堅韌船隊”進入以色列領海並抵達加沙，已經指示有關部門驅逐該船隊成員。（央視新聞）"
     }
   ]
 }
