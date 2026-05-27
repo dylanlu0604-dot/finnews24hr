@@ -1,7 +1,63 @@
 {
-  "updated": "2026-05-27 14:02:55",
+  "updated": "2026-05-27 14:06:50",
   "count": 15114,
   "items": [
+    {
+      "id": "4901767",
+      "time": "2026-05-27 14:06:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【騰訊自研“滄海晶片”V2版本即將量產】從騰訊方面瞭解到，騰訊自研影片編解碼晶片“滄海”V2已經成功點亮，在編解碼、極速高畫質與渲染三大能力全面升級，將在2026年下半年開始提供全面線上服務。據瞭解，滄海晶片從2019年開始研發，2023年量產並大規模應用。目前，滄海V1在騰訊雲以及騰訊自有場景中規模部署超10萬片。"
+    },
+    {
+      "id": "4901764",
+      "time": "2026-05-27 14:04:56",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【富時中國A50指數期貨跌1%】富時中國A50指數期貨跌幅擴大至1%。"
+    },
+    {
+      "id": "4901763",
+      "time": "2026-05-27 14:03:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭常駐代表：國際貨幣基金組織工作組已在烏開展工作。"
+    },
+    {
+      "id": "4901762",
+      "time": "2026-05-27 14:03:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國能源監管機構（OFGEM）：自7月起，同時使用電力和天然氣的普通家庭的能源價格上限將每月上調18英鎊。"
+    },
+    {
+      "id": "mkt:019e6807-93f4-700e-adbd-795bd85b098a",
+      "time": "2026-05-27 14:03:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "CNH"
+      ],
+      "text": "【China Launches Campaign Targeting ‘Involution-Style’ Competition】China State Administration for Market Regulation launches May-Dec campaign targeting \"involution-style\" competition, says to use credit supervision tools and swiftly punish major illegal and dishonest competition cases."
+    },
+    {
+      "id": "mkt:019e6806-f6c3-700e-adbd-745b960f9464",
+      "time": "2026-05-27 14:02:27",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Ofgem says from July UK electricity price rises will lag gas price increases, unlike during energy crisis"
+    },
     {
       "id": "mkt:019e6806-a661-700e-adbd-69d6ca930949",
       "time": "2026-05-27 14:02:04",
@@ -135235,58 +135291,6 @@
         "公司"
       ],
       "text": "【峰飛航空獲哈薩克AAAG訂單，簽署協議深度合作】5月19日，峰飛航空科技自主研發的2噸級eVTOL（電動垂直起降航空器）在哈薩克阿拉木圖完成演示飛行，在中亞地區首次實現大型eVTOL先進空中交通飛行，標誌著中國高階eVTOL技術與中亞地區低空產業的首次深度對接。本次飛行由峰飛航空與阿拉套先鋒航空集團（Alatau Advance Air Group Ltd.簡稱AAAG）合作推進。此前AAAG已向峰飛航空採購大型eVTOL航空器並支付貨款。飛行儀式現場，雙方簽署合作備忘錄（MOU），AAAG將再向峰飛航空採購50架V2000/V5000系列大型eVTOL機型，用於哈薩克及中亞其他地區的低空交通網路建設；峰飛航空則為AAAG提供涵蓋eVTOL交付、執行培訓、售後維護及市場營銷在內支援。"
-    },
-    {
-      "id": "4889548",
-      "time": "2026-05-20 14:06:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "高市早苗：目前還不方便評論額外預算的規模。"
-    },
-    {
-      "id": "mkt:019e43fe-3f26-7cc9-95da-3a3e765b5e26",
-      "time": "2026-05-20 14:06:36",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "JAPAN PM TAKAICHI: POSSIBLE EXTRA BUDGET AIMED MAINLY AT RESPONDING TO MIDDLE EAST SITUATION"
-    },
-    {
-      "id": "em:jjsj_ygsj:202605203743334712",
-      "time": "2026-05-20 14:06:27",
-      "tags": [
-        "經濟數據",
-        "英國"
-      ],
-      "text": "【英國4月CPI同比上漲2.8%】英國國家統計局5月20日釋出資料顯示，英國4月CPI同比上漲2.8%，環比上漲0.7%。"
-    },
-    {
-      "id": "4889547",
-      "time": "2026-05-20 14:05:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "瑪莎百貨計劃在2023年至2028年間削減6億英鎊的成本。"
-    },
-    {
-      "id": "4889546",
-      "time": "2026-05-20 14:05:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "【菲律賓一架輕型飛機墜毀】據菲律賓媒體報道，20日上午，一架輕型飛機在菲律賓呂宋島本格特省墜毀，機上載有兩人。目前，救援隊伍已經找到飛機位置，救援工作正在進行中。(新華社)"
-    },
-    {
-      "id": "4889545",
-      "time": "2026-05-20 14:03:51",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "印尼主權財富基金丹塔拉執行長：國內企業盈利能力將提升，因為如今企業全部利潤都將在本土核算留存，不會再有轉讓定價行為。"
     }
   ]
 }
