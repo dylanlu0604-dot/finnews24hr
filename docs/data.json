@@ -1,7 +1,68 @@
 {
-  "updated": "2026-05-28 07:14:22",
-  "count": 14822,
+  "updated": "2026-05-28 07:18:17",
+  "count": 14823,
   "items": [
+    {
+      "id": "4903289",
+      "time": "2026-05-28 07:17:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：一名美國官員透露，美軍已對一處伊朗軍事設施發動新襲擊；該設施對美國駐軍以及霍爾木茲海峽的通航商船構成了威脅。"
+    },
+    {
+      "id": "4903288",
+      "time": "2026-05-28 07:17:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國官員稱，美軍還攔截並擊落了多架對美軍及商業航運構成威脅的伊朗無人機。"
+    },
+    {
+      "id": "4903287",
+      "time": "2026-05-28 07:16:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "LG新能源：與美國DTE能源簽署16億美元儲能系統電池供應協議。"
+    },
+    {
+      "id": "4903286",
+      "time": "2026-05-28 07:16:18",
+      "tags": [
+        "資料",
+        "市場"
+      ],
+      "text": "【英國5月消費服務業信心指數跌至一年多來最低點】英國工業聯盟(CBI)週四釋出的一項調查顯示，本月英國面向消費者的服務業企業的信心指數下跌至2025年2月以來最低點，而商業服務業近期出現的信心回升勢頭，也出現了逆轉。“利潤正在急劇下降，企業被迫縮減投資並裁減員工，”CBI經濟調查與資料經理Charlotte Dendy表示。她補充道：“隨著未來幾個月通脹率預計將上升，消費者將更加謹慎，這將給本已低迷的需求環境帶來進一步壓力。”由於成本上漲速度超過了企業提價能力，消費服務企業的整體盈利能力以2020年8月以來最快的速度下滑。消費服務行業的樂觀指數從2月的負45下降至5月的負49，創下2025年2月以來的最低水平。商業及專業服務行業的樂觀指數從2月的負3下降至5月的負46，創2025年11月以來新低。"
+    },
+    {
+      "id": "4903285",
+      "time": "2026-05-28 07:14:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "必和必拓集團：必和必拓與因吉班迪能源公司簽署諒解備忘錄，合作開發皮爾巴拉地區大規模能源解決方案。非約束性協議將推動各方合作評估發電及其他領域的可選方案。"
+    },
+    {
+      "id": "te:economy:554193",
+      "time": "2026-05-28 07:14:35",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Car Production",
+        "Importance 1"
+      ],
+      "text": "UK Car Production Falls 0.7% in April — UK car production dropped 0.7% year-on-year to 56,135 units in April 2026, following a 0.8% decline in the previous month, while car exports shrank 8.2%. The EU remained the largest destination, accounting for 53.2% of exports, with shipments rising 6.9% to 23,103 units."
+    },
+    {
+      "id": "4903284",
+      "time": "2026-05-28 07:14:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞審慎監管局（APRA）：在高度不確定性環境下維持現行宏觀審慎政策框架不變。"
+    },
     {
       "id": "4903283",
       "time": "2026-05-28 07:13:30",
@@ -132900,59 +132961,6 @@
         "其他"
       ],
       "text": "【多家券商密集處置旗下房產 盤活存量資產推動戰略聚焦】今年以來，多家券商密集處置旗下房產，引發市場關注。證券時報記者梳理發現，中原證券、招商證券、國泰海通、紅塔證券等紛紛掛牌出售位於鄭州、深圳、上海、北京等地的非核心房產，總價值數億元。業內人士表示，在當前市場環境下，出售非核心房產並非簡單的“變現求生”，更多是出於戰略聚焦、盤活閒置資產、最佳化淨資本結構、提升資金使用效率的主動選擇。"
-    },
-    {
-      "id": "4891387",
-      "time": "2026-05-21 07:17:45",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "市場訊息：聯邦法院被告知，X公司承認未遵守澳大利亞監管機構提出的提供兒童保護資訊的要求。"
-    },
-    {
-      "id": "4891386",
-      "time": "2026-05-21 07:17:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "【SpaceX的風險因素之一：馬斯克本人】在SpaceX的IPO檔案中，篇幅頗長的風險因素章節指出，埃隆.馬斯克(Elon Musk)對公司至關重要，這種高度依賴可能會給投資者帶來風險。該檔案稱，SpaceX並未為馬斯克購買關鍵人物人壽保險。此外，雖然馬斯克在SpaceX投入了大量時間，但鑑於他在特斯拉、Neuralink和The Boring Company擔任的職務，他在SpaceX並沒有投入全部的時間和精力。該檔案還承認，馬斯克及其言行經常引發公眾的極大關注和嚴密審視，這可能會對SpaceX的業務產生正面或負面影響。"
-    },
-    {
-      "id": "4891385",
-      "time": "2026-05-21 07:16:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【馬斯克稱SpaceX正洽談向其他公司提供AI計算服務】埃隆·馬斯克在X上發帖表示，SpaceX正向Anthropic公司提供大規模人工智慧AI計算服務，並正在與其他公司洽談提供類似服務。馬斯克稱，隨著時間推移，尤其是隨著在軌資料中心的建設，我們預計將以極高規模為AI提供服務。"
-    },
-    {
-      "id": "4891384",
-      "time": "2026-05-21 07:15:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【SpaceX總裁肖特韋爾身家預計將因IPO而大幅攀升】隨著公司啟動IPO，擔任SpaceX總裁多年的格溫.肖特韋爾(Gwynne Shotwell)淨資產料將大幅增長。《福布斯》此前已估計，肖特韋爾早已躋身億萬富翁行列；她現居得克薩斯州，住處緊鄰SpaceX位於麥格雷戈(McGregor)的測試設施。提交的檔案顯示，她共計持有約1,260萬股A類和B類股票。"
-    },
-    {
-      "id": "4891383",
-      "time": "2026-05-21 07:15:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國房地產投資信託基金AvalonBay和Equity Residential即將合併。"
-    },
-    {
-      "id": "te:economy:552441",
-      "time": "2026-05-21 07:14:37",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Services PMI",
-        "Importance 1"
-      ],
-      "text": "Australia Services Sector Marks Second Drop in Three Months — The S&P Global Australia Services PMI Business Activity Index dropped to 47.7 in May 2026 from a final 50.7 in the prior month, a preliminary reading showed. It was the second time of drop in three months for the service sector amid disruptions cause by the Middle East conflict."
     }
   ]
 }
