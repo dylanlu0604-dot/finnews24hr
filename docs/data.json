@@ -1,7 +1,74 @@
 {
-  "updated": "2026-05-28 01:07:06",
-  "count": 14911,
+  "updated": "2026-05-28 01:11:12",
+  "count": 14916,
   "items": [
+    {
+      "id": "4903059",
+      "time": "2026-05-28 01:10:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談燃油稅減免：這或許值得我們討論。"
+    },
+    {
+      "id": "mkt:019e6a6a-5e43-7ccc-b815-e4acd21d7b1c",
+      "time": "2026-05-28 01:10:16",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "U.S. equity indices dipped briefly; the S&P 500 turned negative, while the Dollar Index DXY ticked up modestly intraday."
+    },
+    {
+      "id": "4903058",
+      "time": "2026-05-28 01:09:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "標準普爾500指數轉跌，最新下跌0.21%。"
+    },
+    {
+      "id": "mkt:019e6a68-cde3-7223-8ed7-a06e68ef2720",
+      "time": "2026-05-28 01:08:33",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "TRUMP: We can end a war with Iran quickly and may even have to do so, but I do not think we need to."
+    },
+    {
+      "id": "mkt:019e6a68-7fbf-7223-8ed7-9db7369aee21",
+      "time": "2026-05-28 01:08:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TRUMP (on Iran): I think we have done very well."
+    },
+    {
+      "id": "mkt:019e6a68-63ae-7ccc-b815-cf06803937b4",
+      "time": "2026-05-28 01:08:06",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "TRUMP, speaking on Iran, said when Iran behaves well we will allow them to reclaim their funds."
+    },
+    {
+      "id": "4903057",
+      "time": "2026-05-28 01:07:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們能迅速結束與伊朗的戰事，或許也不得不這麼做。不過我認為目前尚無必要。"
+    },
     {
       "id": "4903056",
       "time": "2026-05-28 01:05:32",
@@ -133684,27 +133751,6 @@
         "Importance 2"
       ],
       "text": "US Stocks Extend Gains — US stocks rose further on Thursday with support from lower energy prices ahead of Nvidia's earnings results, due to update the state of the AI economy that has supported the stock market this year. The S&P 500, Dow, and Nasdaq 100 were around 1% higher. Satellite data showed three supertankers leaving the Strait of Hormuz with full cargoes as President Trump stated a deal with Iran could come soon, taming concerns of energy inflation. Nvidia gained 2% as it is likely to confirm sharp growth in earnings and orders, but the tone of its guidance is due to impact the whole tech sector in a period where AI spending has carried the US investment last quarter and underpin productivity growth and infrastructure expenditure in coming years. The AI sector was also supported by reports that OpenAI is preparing to file for an IPO as soon as September, paving the way for more AI spending. Meanwhile, TJX and Target were both higher following their results."
-    },
-    {
-      "id": "4891061",
-      "time": "2026-05-21 01:09:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "據以色列廣播管理局：內塔尼亞胡正試圖說服特朗普批准重啟對伊朗戰事。"
-    },
-    {
-      "id": "mkt:019e465c-2467-7bb5-8186-5f74e87e9fd0",
-      "time": "2026-05-21 01:08:24",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Crypto Concepts",
-        "Bitcoin",
-        "Impact bullish",
-        "Ethereum"
-      ],
-      "text": "VARIATIONAL: FUNDING LED BY DRAGONFLY WITH SUPPORT FROM BAIN CAPITAL CRYPTO, COINBASE VENTURES, AND OTHER STRATEGIC INVESTORS"
     }
   ]
 }
