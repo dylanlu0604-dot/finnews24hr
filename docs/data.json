@@ -1,7 +1,75 @@
 {
-  "updated": "2026-05-27 22:37:43",
-  "count": 14889,
+  "updated": "2026-05-27 22:41:52",
+  "count": 14891,
   "items": [
+    {
+      "id": "mkt:019e69e1-a1e3-7223-8ed4-ce36e0f5f614",
+      "time": "2026-05-27 22:40:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to Iranian media outlet Fars News, an administrative building at Imam Khomeini Airport near Tehran caught fire; firefighters have extinguished the blaze."
+    },
+    {
+      "id": "4902875",
+      "time": "2026-05-27 22:40:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度政府：印度國有燃油零售商目前以低於市場的價格銷售燃油，每日因此承擔約55億盧比的虧損。"
+    },
+    {
+      "id": "4902874",
+      "time": "2026-05-27 22:40:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "波音執行長稱，今年將推進更多星際客機相關發射任務。"
+    },
+    {
+      "id": "mkt:019e69e1-54c7-7223-8ed4-c252abc6fbef",
+      "time": "2026-05-27 22:40:35",
+      "tags": [
+        "MKT News",
+        "BA.N"
+      ],
+      "text": "Boeing (BA.N) CEO: Boeing's chief executive said the company will carry out one more \"Starliner\" launch this year."
+    },
+    {
+      "id": "mkt:019e69e0-6c98-7223-8ed4-b80c568be5e9",
+      "time": "2026-05-27 22:39:35",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【WHITE HOUSE Indirectly Denies Iranian State TV Report On Draft Memorandum Of Understanding】Tim Miller, current host of The Bulwark Podcast, reposted on social media the preliminary, informal text published by Iranian state TV purporting to be a draft US-Iran memorandum of understanding. The WHITE HOUSE official account \"Fast Response 47\" reposted Miller’s post and said he \"suffers from an extremely severe 'Trump Derangement Syndrome' to the point that his 'peanut-sized' brain has been warped, he has begun taking Iranian state media reports as fact and disseminating false information for them. Maybe Tim should register under the Foreign Agents Registration Act (FARA) as an agent of a foreign government.\""
+    },
+    {
+      "id": "4902873",
+      "time": "2026-05-27 22:39:24",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "印度政府：國營石油營銷公司未將國際油價的全部漲幅傳導至零售端。"
+    },
+    {
+      "id": "4902872",
+      "time": "2026-05-27 22:38:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "波音執行長表示，今年軍工業務的增長前景比我去年預期的更為強勁。"
+    },
+    {
+      "id": "4902871",
+      "time": "2026-05-27 22:37:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐約州與新澤西州總檢察長表示，已向國際足聯發出傳票，就其票務運營行為展開調查。"
+    },
     {
       "id": "4902870",
       "time": "2026-05-27 22:36:54",
@@ -133549,56 +133617,6 @@
         "國際"
       ],
       "text": "美國能源資訊署：美國原油庫存（包括戰略石油儲備）創歷史最大降幅。"
-    },
-    {
-      "id": "4890896",
-      "time": "2026-05-20 22:41:16",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "中華人民共和國和俄羅斯聯邦關於進一步加強全面戰略協作、深化睦鄰友好合作的聯合宣告。（新華社）"
-    },
-    {
-      "id": "4890895",
-      "time": "2026-05-20 22:40:52",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【詹姆斯·默多克將收購Vox Media旗下三大業務部門】數字媒體平臺Vox Media週三表示，詹姆斯·默多克正在收購該公司旗下三個主要業務部門，其中包括《紐約雜誌》和播客網路，這些業務合計覆蓋 數千萬受眾。 該交易由默多克旗下的投資公司Lupa Systems負責執行，這使他在 數字出版商紛紛尋求新增長途徑之際，掌握了這一最具知名度的雜誌品牌之一以及規模可觀的播客業務。 交易還包括Vox新聞平臺，該平臺製作多種格式的內容，包括影片、文字以及《今日解析》（Today， Explained）和《真實的美國》（America， Actually）等播客節目。 “此次收購既體現了我們對文化前沿的關注，也彰顯了我們對有抱負的新聞事業的堅定承諾，”媒體大亨魯珀特·默多克的次子詹姆斯·默多克表示。"
-    },
-    {
-      "id": "4890894",
-      "time": "2026-05-20 22:39:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國紅十字會總會向湖北、廣西調撥物資】記者從中國紅十字會總會獲悉，今天，中國紅十字會總會緊急向湖北受災地區調撥賑濟家庭包3680件，中國紅十字基金會調撥賑濟家庭包1000件、急救包1000個，用於支援災區做好群眾轉移安置和生活保障工作。同時，中國紅十字會總會今天向廣西受災地區追加調撥摺疊床400張，用於支援災區做好安置點建設和生活保障工作。（央視新聞）"
-    },
-    {
-      "id": "4890893",
-      "time": "2026-05-20 22:39:26",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【招商策略：流動性衝擊再現，融資資金持續淨流入】招商策略指出，上週二級市場ETF持續淨流出，融資資金淨流入，整體來看可跟蹤資金淨流出。近期流動性衝擊再現，但我們認為衝擊仍停留在情緒層面，未出現系統性惡化。對於A股來說，依然看好成長風格，當前尚不具備向價值切換的環境條件。後續仍然圍繞高景氣、高增長的方向佈局。"
-    },
-    {
-      "id": "4890892",
-      "time": "2026-05-20 22:37:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普說在伊朗問題上內塔尼亞胡“聽我的”】美國總統特朗普20日對媒體稱，自己和以色列總理內塔尼亞胡在伊朗問題上立場一致，“內塔尼亞胡將按照我跟他說的去處理伊朗問題”。特朗普還稱，自己並不急於結束與伊朗的衝突，“實現任務目標比設定結束時間表更重要”。另據以色列第12頻道20日報道，特朗普同內塔尼亞胡當天通話討論了地區局勢及相關安全議題，該通話“長時間且戲劇性”。以方訊息人士稱，會談內容涉及伊朗問題及未來可能採取的行動，但雙方尚未正式公佈通話細節。此前，特朗普4月20日在社交媒體上發帖辯稱，美方對伊朗發動軍事行動不是以色列遊說的結果，“以色列從未說服我與伊朗開戰”。 (新華社)"
-    },
-    {
-      "id": "4890891",
-      "time": "2026-05-20 22:37:47",
-      "tags": [
-        "市場"
-      ],
-      "text": "ARM股價大漲15%，創歷史新高。"
     }
   ]
 }
