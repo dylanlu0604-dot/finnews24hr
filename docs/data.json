@@ -1,7 +1,66 @@
 {
-  "updated": "2026-05-27 13:30:58",
-  "count": 15102,
+  "updated": "2026-05-27 13:34:59",
+  "count": 15104,
   "items": [
+    {
+      "id": "4901711",
+      "time": "2026-05-27 13:34:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【名雕股份成立科技新公司，含AI相關業務】企查查APP顯示，近日，深圳市鯨躍雲科科技有限公司成立，註冊資本1200萬元，經營範圍包含：人工智慧應用軟體開發；網路與資訊保安軟體開發；網際網路資料服務；數字技術服務；人工智慧基礎軟體開發等。企查查股權穿透顯示，該公司由名雕股份全資持股。"
+    },
+    {
+      "id": "mkt:019e67ec-9fbc-700e-adbc-e41e17e31f3c",
+      "time": "2026-05-27 13:33:41",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver down 1.00% intraday at $76.15/oz"
+    },
+    {
+      "id": "4901710",
+      "time": "2026-05-27 13:33:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌1%，現報76.09美元/盎司。"
+    },
+    {
+      "id": "4901709",
+      "time": "2026-05-27 13:32:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度稱疑似埃博拉感染者病毒檢測結果呈陰性。"
+    },
+    {
+      "id": "4901708",
+      "time": "2026-05-27 13:31:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【公司有意於阿布扎比進行第二上市？英矽智慧回應】英矽智慧5月27日在港交所公告，公司董事會注意到近期部分媒體報道，內容有關公司有意於阿布扎比進行第二上市。謹此知會股東及投資者，本公司不時考慮及評估上市後的各項資本運作，包括於其他資本市場進行第二上市之可行性。然而，公司目前尚無任何第二上市確實計劃。公司將於有任何重大進展時，根據《香港聯合交易所有限公司證券上市規則》適時作出進一步公告。"
+    },
+    {
+      "id": "mkt:019e67e9-eec1-700e-adbc-dbc6887a1a82",
+      "time": "2026-05-27 13:30:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian authorities say drone debris sparked fire at Tuapse seaport"
+    },
+    {
+      "id": "4901707",
+      "time": "2026-05-27 13:30:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度總理莫迪：印度各地氣溫飆升，隨之而來的是各種挑戰。這樣的高溫天氣對我們所有人來說都是一種煎熬，我呼籲大家儘可能採取各種預防措施。"
+    },
     {
       "id": "4901706",
       "time": "2026-05-27 13:29:06",
@@ -135129,56 +135188,6 @@
         "國際"
       ],
       "text": "印尼主權財富基金Danantara執行長澄清：過渡期為三個月，但可延長至2026年底。"
-    },
-    {
-      "id": "te:economy:552134",
-      "time": "2026-05-20 13:34:53",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Estonia",
-        "Producer Prices Change",
-        "Importance 1"
-      ],
-      "text": "Estonia Producer Prices Rise in April — Estonian producer prices rose by 1.8% year-on-year in April 2026, picking up from 0.7% in the previous month. Costs increased at a faster pace in the manufacturing sector (3.0% vs 2.3% in March), supported by sharply higher prices in the manufacture of coke and refined petroleum (45.8% vs 31.2%), wearing apparel (4.9% vs 2.8%), leather and related products (3.2% vs 2.1%), wood and wood products (4.4% vs 4.3%), paper and paper products (2.9% vs 0.3%), basic pharmaceutical products and preparations (8.0% vs 5.9%), electrical equipment (2.6% vs 1.9%), and motor vehicles, trailers and semi-trailers (2.6% vs 0.9%). Additionally, deflation in electricity, gas, steam and air-conditioning supply eased (-14.7% vs -20.1%), while prices remained steady in water supply, sewerage, waste management and remediation activities (4.1%). In contrast, price growth slowed in mining and quarrying (4.3% vs 7.7%). On a monthly basis, producer prices were unchanged after a 3.6% decline in March."
-    },
-    {
-      "id": "4889510",
-      "time": "2026-05-20 13:34:01",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "印尼主權財富基金Danantara執行長：6月至12月，執行規定要求所有出口都必須申報。"
-    },
-    {
-      "id": "4889509",
-      "time": "2026-05-20 13:33:45",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "印尼主權財富基金Danantara執行長：該政策的主要目的是提高交易透明度，Danantara資源有限公司是獲委任的實體。"
-    },
-    {
-      "id": "mkt:019e43df-ef1b-7cc9-b8d6-29bfe404b478",
-      "time": "2026-05-20 13:33:29",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "PAJ PRESIDENT: PROCURING US CRUDE IS EXPECTED TO SIGNIFICANTLY INCREASE COSTS DUE TO LONGER SHIPPING ROUTE"
-    },
-    {
-      "id": "4889508",
-      "time": "2026-05-20 13:32:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本石油協會會長：由於運輸航程更長，採購美國原油預計將大幅推高成本。"
     }
   ]
 }
