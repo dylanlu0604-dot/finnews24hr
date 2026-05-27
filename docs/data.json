@@ -1,7 +1,28 @@
 {
-  "updated": "2026-05-28 00:31:17",
-  "count": 14895,
+  "updated": "2026-05-28 00:35:12",
+  "count": 14896,
   "items": [
+    {
+      "id": "4903010",
+      "time": "2026-05-28 00:34:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗：過去24小時內共有23艘船隻透過霍爾木茲海峽】伊朗革命衛隊海軍公共關係部宣佈： 過去24小時內，包括油輪、集裝箱船和其他商船在內的23艘船隻，在獲得許可後，經革命衛隊海軍協調並提供安全保障，安全透過了霍爾木茲海峽。波斯灣是地區國家穆斯林的水域，而美國軍隊的侵略與破壞是導致該地區近期不安全的主要原因。我方正堅定不移且權威地持續對霍爾木茲海峽實施智慧化管控。"
+    },
+    {
+      "id": "mkt:019e6a47-72d3-7223-8ed6-be2e83cdbaee",
+      "time": "2026-05-28 00:32:07",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "TRUMP said he is working to reopen California's oil reserves."
+    },
     {
       "id": "4903009",
       "time": "2026-05-28 00:30:04",
@@ -133547,18 +133568,6 @@
         "國際"
       ],
       "text": "週三（5月20日）歐市尾盤，ICE英國天然氣期貨跌5.25%，報120.000便士/千卡，北京時間22:14開啟加速下跌行情。TTF基準荷蘭天然氣期貨跌5.63%，報49.065歐元/兆瓦時。ICE歐盟碳排放交易許可（期貨價格）漲1.10%，報74.76歐元/噸。"
-    },
-    {
-      "id": "te:markets:552390",
-      "time": "2026-05-21 00:31:28",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "DAX Closes at 2-Week High — Frankfurt's DAX 40 gained ground to close about 1.4% firmer at 24,737 on Wednesday, the highest since May 6, in line with other European peers. Renewed optimism over a possible agreement to end the war in Iran boosted market sentiment. US President Trump said that talks with Iran were close to a conclusion, which could restore energy flows through the Straight of Hormuz. In equities, Infineon Technologies was the top performer, rising 5%, on AI enthusiasm ahead of Nvidia's earnings release. Other notable gainers included Deutsche Bank (4.3%), MTU Aero Engines (4.1%) and Siemens Energy (3.9%)."
     }
   ]
 }
