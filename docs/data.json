@@ -1,7 +1,55 @@
 {
-  "updated": "2026-05-27 13:07:13",
-  "count": 15112,
+  "updated": "2026-05-27 13:11:10",
+  "count": 15109,
   "items": [
+    {
+      "id": "4901688",
+      "time": "2026-05-27 13:09:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "宣告顯示，澳大利亞養老基金AustralianSuper任命肖恩·曼紐爾（Shaun Manuell）為下一任首席投資官。"
+    },
+    {
+      "id": "4901687",
+      "time": "2026-05-27 13:09:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【申請20萬顆衛星的無線電創新院最新招標公示】企查查APP顯示，近日，無線電頻譜開發利用和技術創新研究院釋出展廳布展專案成交結果公告，中標單位為杭州火炬展示工程有限公司，中標金額185.5萬元。企查查資訊顯示，無線電頻譜開發利用和技術創新研究院開辦資金100萬元，宗旨為從事無線電頻譜開發利用和技術創新工作及相關領域公益事業。此前，據國際電信聯盟（ITU），2025年12月中國提交新增20.3萬顆衛星的頻率與軌道資源申請，其中申請了19.3萬顆衛星資源的 “無線電創新院”引發關注。"
+    },
+    {
+      "id": "te:economy:553953",
+      "time": "2026-05-27 13:09:15",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Finland",
+        "Business Confidence",
+        "Importance 1"
+      ],
+      "text": "Finnish Industry Mood Hits 3-Month High — Finland’s manufacturing confidence indicator edged up to 3 in May 2026 from an upwardly revised 2 in the previous month, reaching its highest level since February. Manufacturers’ expectations for production over the next three months strengthened to 25 from 20 in April. Meanwhile, assessments of order books deteriorated further to -14 from -12, while views on finished goods inventories softened to 1 from 4. Spare capacity also remained evident across the sector, with only 62% of firms reporting that they were operating at full capacity in May, down slightly from 64% in the previous month. In April, manufacturing confidence in Finland was stronger than the EU average."
+    },
+    {
+      "id": "4901686",
+      "time": "2026-05-27 13:09:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "富士通與ANTHROPIC簽署戰略合作協議。"
+    },
+    {
+      "id": "te:economy:553951",
+      "time": "2026-05-27 13:08:26",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Finland",
+        "Consumer Confidence",
+        "Importance 1"
+      ],
+      "text": "Finnish Consumer Confidence Remains Weak — Finland’s consumer confidence indicator rose to -10.5 in May 2026 from -12.5 in April, though it remained well below the long-term average of -2.9. Consumers became less pessimistic about their current financial situation (-3.0 vs -6.7 in April) and their finances over the next 12 months (4.6 vs 0.7), while expectations for Finland’s economy also improved slightly (-21.9 vs -23.2). However, views on both personal finances and the broader economy remained weak overall. Consumers continued to regard the timing for purchasing durable goods as highly unfavorable (-16.8 vs -21.5), while spending intentions stayed subdued. Plans to buy a dwelling (9.1 vs 9.5) were the lowest level on record since 1998, and intentions to raise a loan (14.6% vs 17.0%) and buy a car (12.5% vs 13.6%) also declined. Meanwhile, labor market sentiment remained gloomy and inflation expectations elevated, with expected inflation holding at 4.4% over the next 12 months."
+    },
     {
       "id": "4901685",
       "time": "2026-05-27 13:06:19",
@@ -135164,87 +135212,6 @@
         "市場"
       ],
       "text": "【光纖概念股午後繼續拉昇，法爾勝、特發資訊漲停】光纖概念股午後繼續拉昇，法爾勝、特發資訊漲停，三孚股份、杭電股份此前封板，太辰光、通鼎互聯跟漲。"
-    },
-    {
-      "id": "4889475",
-      "time": "2026-05-20 13:10:56",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "英國財政部：擬議核心內容將允許議會指定並批准最重要清潔能源專案為“具有國家重大戰略意義”專案。"
-    },
-    {
-      "id": "mkt:019e43ca-0642-7cc9-b8d6-080bedef87e2",
-      "time": "2026-05-20 13:09:33",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "TURNOVER ON SSE AND SZSE EXCEEDS RMB 2 TRLN, UP RMB 112 BLN FROM SAME TIME PREVIOUS SESSION."
-    },
-    {
-      "id": "4889474",
-      "time": "2026-05-20 13:09:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【雷軍：小米YU7GT為時代精英設計 肯定會有點小貴】5月20日，@雷軍 發影片回應小米YU7GT相關問題。他表示，這款車為時代精英設計，價格肯定會有點小貴。"
-    },
-    {
-      "id": "mkt:019e43c9-6630-7cc9-b8d6-04eadfe0d703",
-      "time": "2026-05-20 13:08:52",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "CHINA'S STAR 50 INDEX UP 3.06%"
-    },
-    {
-      "id": "mkt:019e43c9-1374-7cc9-b8d5-fda976bb3c27",
-      "time": "2026-05-20 13:08:28",
-      "tags": [
-        "MKT News",
-        "Important",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite",
-        "SZSE Component"
-      ],
-      "text": "A-SHARE THREE MAJOR INDICES TURN POSITIVE"
-    },
-    {
-      "id": "4889473",
-      "time": "2026-05-20 13:08:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "午後鋰礦概念午後拉昇，國城礦業漲近9%，大中礦業、盛新鋰能、科達製造、天華新能等跟漲。"
-    },
-    {
-      "id": "mkt:019e43c8-2bc7-7cc9-b8d5-f66fada37335",
-      "time": "2026-05-20 13:07:31",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "【South Korean, Chinese Supertankers Attempt Strait of Hormuz Exit】A South Korean-flagged supertanker is reportedly attempting to transit the Strait of Hormuz, which would mark the first such crossing by a vessel from the country if successful. The HMM-owned Universal Winner, carrying Kuwaiti crude, began signaling Wednesday morning in waters south of Iran’s Larak Island along an approved transit route. The vessel lists Ulsan as its destination. It follows two Chinese supertankers also attempting passage through Hormuz the same day. HMM did not immediately comment."
-    },
-    {
-      "id": "4889472",
-      "time": "2026-05-20 13:07:30",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內漲幅達3.06%，成分股中，中科飛測漲17.54%，拓荊科技漲11.19%，中芯國際漲11.05%，翱捷科技漲8.86%。"
     }
   ]
 }
