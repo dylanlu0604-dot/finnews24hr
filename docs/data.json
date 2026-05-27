@@ -1,7 +1,26 @@
 {
-  "updated": "2026-05-28 02:18:18",
-  "count": 14924,
+  "updated": "2026-05-28 02:22:14",
+  "count": 14922,
   "items": [
+    {
+      "id": "te:markets:554172",
+      "time": "2026-05-28 02:20:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Silver Falls by 2.97% — Top commodity losers are Silver (-2.97%), Lithium Carbonate (-1.67%) and Gold (-1.29%)."
+    },
+    {
+      "id": "4903114",
+      "time": "2026-05-28 02:19:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "被問及伊朗相關談判時，特朗普稱自己“並不在意中期選舉”。"
+    },
     {
       "id": "mkt:019e6aa6-e0e4-7223-8ed8-8707628839c0",
       "time": "2026-05-28 02:16:21",
@@ -133689,41 +133708,6 @@
         "國際"
       ],
       "text": "花旗集團執行長：美國消費信貸整體韌性強勁。"
-    },
-    {
-      "id": "4891105",
-      "time": "2026-05-21 02:22:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗總統會見巴內政部長 討論伊美間接談判等議題】當地時間20日，伊朗總統佩澤希齊揚會見了到訪的巴基斯坦內政部長穆赫辛·納克維。雙方就地區局勢、雙邊關係及外交談判進展舉行會談，並重點評估當前伊美間接談判的最新情況及相關外交磋商程序。會談中，雙方圍繞地區形勢變化及雙邊合作交換意見。巴基斯坦方面轉達了對當前地區動態的看法，並強調繼續推進對話與相互理解的重要性。佩澤希齊揚在會見中對巴基斯坦在維護地區穩定、安全與合作方面所發揮的作用表示感謝，並強調進一步深化德黑蘭與巴基斯坦之間關係的重要性。佩澤希齊揚指出，伊朗與巴基斯坦擁有深厚的歷史、文化與宗教聯絡，加強兩國在政治、經濟、邊境與安全領域的合作，將有助於促進地區穩定，並符合兩國共同利益。（央視新聞）"
-    },
-    {
-      "id": "mkt:019e469f-846d-7bb5-8187-2b1270cbd0ee",
-      "time": "2026-05-21 02:21:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TURKEY'S ERDOGAN HELD PHONE CALL WITH U.S. PRESIDENT TRUMP, TURKISH PRESIDENCY SAYS"
-    },
-    {
-      "id": "4891104",
-      "time": "2026-05-21 02:21:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "土耳其總統府訊息：土耳其總統埃爾多安與美國總統特朗普通電話。"
-    },
-    {
-      "id": "te:markets:552404",
-      "time": "2026-05-21 02:20:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Lithium Carbonate Falls by 4.02% — Top commodity loser is Lithium Carbonate (-4.02%). Gains are led by Silver (3.34%), Copper (2.15%) and Gold (1.05%)."
     }
   ]
 }
