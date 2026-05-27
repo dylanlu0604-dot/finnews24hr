@@ -1,7 +1,62 @@
 {
-  "updated": "2026-05-28 06:53:55",
-  "count": 14828,
+  "updated": "2026-05-28 06:57:48",
+  "count": 14831,
   "items": [
+    {
+      "id": "4903270",
+      "time": "2026-05-28 06:56:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：白宮記者協會的新晚宴日期已確定。"
+    },
+    {
+      "id": "mkt:019e6ba7-1720-722a-b522-93457588a373",
+      "time": "2026-05-28 06:56:04",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "TRUMP: Shortly, the United States and Armenia will jointly launch the Trump Route for International Peace and Prosperity, which will change the South Caucasus and help our outstanding US energy companies secure a corridor running directly from Central Asia to the United States."
+    },
+    {
+      "id": "4903269",
+      "time": "2026-05-28 06:55:57",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：\n1、國家水網建設全面提速，一季度完成水利建設投資2070億元 各級水網協同建 開啟投資新空間（經濟新方位·精準發力建好“六張網”）\n2、去年我國已建成四十二個萬卡級智算叢集 數十個能源行業專用大模型落地\n3、前4月跨區域人員流動量超232億人次\n4、上海加快推進AI賦能微短劇\n5、光伏元件兩項強制性國家標準釋出\n6、前四月工業企業利潤增長加快 企業效益持續改善 彰顯工業強大韌性\n7、從量身定製到散件組裝 中國農機駛向海外市場（中國品牌圈粉海外）\n8、在法治軌道上加速成長（感言·發展壯大民營經濟）\n9、第二艘國產大型郵輪完成海上試航\n10、2026世界智慧產業博覽會本月28日至31日在天津舉行——以智慧科技賦能高質量發展\n11、天津經開區著力推動前沿技術轉化 全力培育具身智慧產業生態\n12、新工業革命夥伴城市網路正式啟動運作\n13、面臨“高通脹、低增長”雙重挑戰，推出新財年聯邦預算案——澳大利亞聚焦應對通脹和提升經濟韌性。"
+    },
+    {
+      "id": "4903268",
+      "time": "2026-05-28 06:55:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：魯比奧推進了亞美尼亞和美國的幾項協議。"
+    },
+    {
+      "id": "4903267",
+      "time": "2026-05-28 06:55:46",
+      "tags": [
+        "宏觀",
+        "焦點"
+      ],
+      "text": "今天《人民日報》頭版的主要內容有：\n1、“必須深刻把握中國式現代化對教育、科技、人才的需求”（總書記的人民情懷）\n2、中央軍委印發《關於加強軍隊高階幹部教育管理監督的若干措施》\n3、山東加快建設綠色低碳高質量發展先行區（“十五五”開好局起好步）\n4、李強在浙江舟山寧波調研時強調 加快建設大宗商品資源配置樞紐 為統籌發展和安全提供可靠保障\n5、趙樂際對哈薩克進行正式友好訪問\n6、前4月規上工業企業利潤同比增長18.2% 高技術製造業引領作用明顯。"
+    },
+    {
+      "id": "mkt:019e6ba5-2eaf-722a-b522-89cc1a506fc8",
+      "time": "2026-05-28 06:54:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed"
+      ],
+      "text": "【US-Iran Dispute Keeps Pressure, WTI Opens Slightly Higher】WTI crude opened slightly higher as the US and Iran remain at odds over how to reopen the Strait of Hormuz. President Trump said he was \"not satisfied\" with the talks. The White House denied an Iranian report that a draft agreement would have Iran and Oman oversee shipping through the strait. Despite the difficulties, oil prices remain on track to slip for a second straight week amid optimism that the two sides could at least reach a temporary deal. The protracted negotiations hinge on Iran's desire to retain control over the Strait of Hormuz and the fate of its nuclear program. RABOBANK global energy strategist Joe DeLaura said: \"For now the oil market is too 'comfortable.' Releases from strategic petroleum reserves are helping to offset some of the supply losses caused by the war.\""
+    },
     {
       "id": "te:markets:554192",
       "time": "2026-05-28 06:53:02",
@@ -132986,34 +133041,6 @@
         "Importance 1"
       ],
       "text": "New Zealand Imports Rise 3.4% in April — Imports to New Zealand increased 3.4% year-on-year to NZD 6.7 billion in April 2026. Import growth was driven by higher purchases of mechanical machinery and equipment (10%), electrical machinery and equipment (22%), vehicles, parts, and accessories (16%), and precious metals, jewellery, and coins (76%)."
-    },
-    {
-      "id": "te:economy:552435",
-      "time": "2026-05-21 06:56:54",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "New Zealand",
-        "Exports",
-        "Importance 1"
-      ],
-      "text": "New Zealand Exports Hit Record Peak — New Zealand’s exports grew 12% year-on-year to a record high of NZD 8.6 billion in April 2026. Export growth was driven by higher sales of precious metals, jewellery, and coins (149%); meat and edible offal (26%); milk powder, butter, and cheese (7.0%); and crude oil (388%)."
-    },
-    {
-      "id": "4891363",
-      "time": "2026-05-21 06:55:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "德國政府與軍方於週三開展模擬演習，推演應對類似9·11事件的襲擊場景，模擬遭劫持客機被當作武器發動襲擊的突發狀況。"
-    },
-    {
-      "id": "4891362",
-      "time": "2026-05-21 06:54:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "【煤企損毀明長城被停業整頓 4人涉嫌損毀文物被採取刑事強制措施】近日，網傳山西明長城遭煤礦企業損毀一事引發全網廣泛關注與熱議。5月20日晚間，山西寧武縣官方釋出情況通報。 通報稱，針對媒體曝光神達朝凱煤業相關違規問題，寧武縣已成立工作專班對有關情況進行全面核查。 根據階段性核查結果，已依法責令涉事企業停產整頓，對4名相關責任人以涉嫌非法採礦罪、損毀文物罪採取刑事強制措施，進一步固定完善證據後將按程式移送檢察機關審查起訴。 此外，針對調查發現的監管部門履職不力等問題，紀檢監察部門正對相關工作人員進行調查，將依規依紀依法從嚴處理。 下一步，寧武縣將從嚴從快調查取證，依法依規深挖徹查，加快推進神達朝凱煤業相關問題查清查實、處罰到位、整改到位。（央視新聞）"
     }
   ]
 }
