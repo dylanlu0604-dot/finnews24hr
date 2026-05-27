@@ -1,7 +1,50 @@
 {
-  "updated": "2026-05-28 03:02:01",
+  "updated": "2026-05-28 03:05:55",
   "count": 14882,
   "items": [
+    {
+      "id": "4903139",
+      "time": "2026-05-28 03:05:18",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "墨西哥央行行長：核心外通脹受農產品價格影響。"
+    },
+    {
+      "id": "mkt:019e6ad3-af6b-7223-8ed8-ee01b0bce8de",
+      "time": "2026-05-28 03:05:18",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【TRUMP: If Oman Sides With Iran On Strait Issue, 'We'll Bomb Oman'】On Wednesday local time US President TRUMP commented on reports that Iran and Oman would jointly control the Strait of Hormuz, saying Oman \"will behave\" and rejecting any such mechanism, \"otherwise we will have to bomb them.\" Iranian authorities proposed cooperating with Oman to control and regulate maritime traffic in the Strait of Hormuz; Iran also considered a joint toll mechanism with Oman, a proposal the United States opposed. Speaking to reporters after a cabinet meeting, TRUMP said \"no one can control the strait. The strait will be open to everyone,\" and that the US would \"watch it very closely.\" He added, \"Oman will act like other countries, otherwise we'll have to bomb them. They understand that, so there will be no problem.\""
+    },
+    {
+      "id": "mkt:019e6ad0-004c-7223-8ed8-e654d14b9485",
+      "time": "2026-05-28 03:01:16",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "USDJPY"
+      ],
+      "text": "Bank of Mexico (Banxico) said in its first-quarter report it expects investment to remain weak until at least H2 2026, reflecting uncertainty in trade relations with the United States and the upcoming review of the United States-Mexico-Canada Agreement (USMCA)."
+    },
+    {
+      "id": "4903138",
+      "time": "2026-05-28 03:00:56",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "墨西哥央行一季度報告：受墨美貿易關係不確定性以及《美墨加協定》即將迎來複審影響，投資態勢預計至少在 2026 年下半年前持續疲軟。"
+    },
     {
       "id": "4903137",
       "time": "2026-05-28 03:00:02",
@@ -133310,38 +133353,6 @@
         "公司"
       ],
       "text": "【銀行業一季度不良率資料大起底 資產質量總體穩健區域性風險持續出清】今年一季度，全國多數區域銀行業總體保持資產質量穩健，部分割槽域資料則呈現一定波動。 梳理國家金融監督管理總局網站資料發現，在已公佈2026年一季度末資料的25個地區（含省、自治區、直轄市和計劃單列市）中，超半數區域不良貸款率較年初上升，但多數地區指標仍低於全國平均水平，風險總體可控。 分機構型別看，國有大行與股份行資產質量保持穩健，城商行、農商行及民營銀行不良率明顯反彈；從上市銀行一季報看，多數銀行不良率持平或下降，但零售領域尤其是信用卡和個人經營貸的資產質量壓力仍需持續關注。（證券時報）"
-    },
-    {
-      "id": "4891153",
-      "time": "2026-05-21 03:05:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國新證券四千萬股股份七折起拍 元道通訊財務造假後遺症待解】近日，阿里司法拍賣平臺資訊顯示，深圳市科銘實業有限公司（下稱“科銘實業”）名下持有的國新證券（原名華融證券）4000萬股股份，將於6月11日開拍，起拍價為8652萬元，相對評估價約打了七折。 值得一提的是，該筆股權存在質押情形。上海正策律師事務所金融律師董毅智對證券時報記者表示，對於競拍人而言，這可能存在隱形債務、股權價值折損等風險，建議開展完整盡調以評估質押債務狀況。 對於國新證券而言，上述股權拍賣料將不會影響其股權結構的穩定性。當前更令市場關注的是，因元道通訊欺詐發行，國新證券正面臨著一場頗為嚴峻的考驗。（證券時報）"
-    },
-    {
-      "id": "4891152",
-      "time": "2026-05-21 03:05:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【GP主導型S交易嶄露頭角 估值定價機制仍待解】被視為私募股權市場退出緩衝帶的我國S交易（私募股權二手份額交易）市場，正迎來結構變化，普通合夥人（GP）主導型的交易逐步嶄露頭角。不過，證券時報記者採訪獲悉，估值定價仍是制約S交易發展的主要因素。 探索建立一套被各方認可的S交易定價機制，成為推動市場發展的關鍵。記者獲悉，上海目前正透過搭建基金份額估值系統、定期釋出S基金交易資料等措施，試圖構建S交易的公開、透明定價基準。（證券時報）"
-    },
-    {
-      "id": "4891151",
-      "time": "2026-05-21 03:04:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "【券商密集處置非核心房產 最佳化資本結構聚焦主業】今年以來，多家券商密集處置旗下房產，引發市場關注。證券時報記者梳理發現，中原證券、招商證券、國泰海通、紅塔證券等紛紛掛牌出售位於鄭州、深圳、上海、北京等地的非核心房產，總價值數億元。 業內人士表示，在當前市場環境下，出售非核心房產並非簡單的“變現求生”，更多是出於戰略聚焦、盤活閒置資產、最佳化淨資本結構、提升資金使用效率的主動選擇。（證券時報）"
-    },
-    {
-      "id": "4891150",
-      "time": "2026-05-21 03:03:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國南方司令部：尼米茲號航母打擊群已抵達加勒比地區。"
     }
   ]
 }
