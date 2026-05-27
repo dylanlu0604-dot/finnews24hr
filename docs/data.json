@@ -1,7 +1,175 @@
 {
-  "updated": "2026-05-28 01:11:12",
-  "count": 14916,
+  "updated": "2026-05-28 01:15:07",
+  "count": 14929,
   "items": [
+    {
+      "id": "mkt:019e6a6e-5921-7223-8ed7-e5fa729d2da2",
+      "time": "2026-05-28 01:14:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TRUMP: If the Abraham Accords cannot be implemented, I am not sure whether we will still reach an agreement with Iran. If Gulf states do not sign the Abraham Accords, I do not think we should reach an agreement with Iran."
+    },
+    {
+      "id": "4903070",
+      "time": "2026-05-28 01:14:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗新領導人團隊更加理性。"
+    },
+    {
+      "id": "mkt:019e6a6e-07c7-7223-8ed7-df8874b38bef",
+      "time": "2026-05-28 01:14:16",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "TRUMP: I think we are making good progress on negotiations."
+    },
+    {
+      "id": "4903069",
+      "time": "2026-05-28 01:14:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及伊朗：此舉實質就是要促成政權更迭。"
+    },
+    {
+      "id": "4903068",
+      "time": "2026-05-28 01:14:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們目前已與伊朗就相關事宜達成共識。"
+    },
+    {
+      "id": "mkt:019e6a6d-cbcc-7223-8ed7-d2e164b20724",
+      "time": "2026-05-28 01:14:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President TRUMP: We now have an understanding of the situation in Iran."
+    },
+    {
+      "id": "mkt:019e6a6d-a3ec-7223-8ed7-cfca076cfab3",
+      "time": "2026-05-28 01:13:45",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "TRUMP: Everything I do is aimed at avoiding a bad deal; any deal must be perfect."
+    },
+    {
+      "id": "4903067",
+      "time": "2026-05-28 01:13:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及足球：我習慣稱它為soccer。這麼叫更省事，畢竟我們有橄欖球，而海外也把這項運動叫作football，容易混淆。"
+    },
+    {
+      "id": "mkt:019e6a6d-2bfd-7223-8ed7-c6f92c0e6e56",
+      "time": "2026-05-28 01:13:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【TRUMP: No Country Can Control Strait of Hormuz】On Wednesday local time, TRUMP said the Strait of Hormuz will be open to all and will not be controlled by any country, regardless of any agreement with Iran. TRUMP said, \"We will oversee it, but no one will directly control it. This is part of our negotiation process.\""
+    },
+    {
+      "id": "4903066",
+      "time": "2026-05-28 01:12:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：如果海灣國家不簽署《亞伯拉罕協議》，我認為我們就不該和伊朗達成協議。"
+    },
+    {
+      "id": "4903065",
+      "time": "2026-05-28 01:12:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：若《亞伯拉罕協議》無法落實，我不確定是否還要與伊朗達成協議。"
+    },
+    {
+      "id": "mkt:019e6a6c-0ad2-7223-8ed7-ba561854519c",
+      "time": "2026-05-28 01:12:04",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "TRUMP: Agreement must be perfect."
+    },
+    {
+      "id": "4903064",
+      "time": "2026-05-28 01:11:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：協議必須盡善盡美。"
+    },
+    {
+      "id": "4903063",
+      "time": "2026-05-28 01:11:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及伊朗問題：我絕不會達成一份糟糕的協議。"
+    },
+    {
+      "id": "4903062",
+      "time": "2026-05-28 01:11:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：與伊朗達成框架協議後，霍爾木茲海峽將立即開放通航。"
+    },
+    {
+      "id": "mkt:019e6a6b-b609-7ccc-b815-efa6794e5a83",
+      "time": "2026-05-28 01:11:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "TRUMP: After a framework agreement is reached with Iran, the Strait of Hormuz will be opened immediately."
+    },
+    {
+      "id": "mkt:019e6a6b-73ad-7223-8ed7-afdc14e80424",
+      "time": "2026-05-28 01:11:27",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "TRUMP said we may discuss ending fuel tax relief."
+    },
+    {
+      "id": "4903061",
+      "time": "2026-05-28 01:11:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "優步增持Delivery Hero股權，對後者估值為120億歐元。"
+    },
+    {
+      "id": "4903060",
+      "time": "2026-05-28 01:10:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談可能暫停徵收燃油稅：我們拭目以待。"
+    },
     {
       "id": "4903059",
       "time": "2026-05-28 01:10:18",
@@ -133688,69 +133856,6 @@
         "國際"
       ],
       "text": "【美法院大陪審團同意起訴勞爾·卡】美國佛羅里達州南區聯邦地區法院一個大陪審團20日同意起訴古巴革命領袖勞爾·卡斯特羅。這一訴訟被認為是美國對古巴施壓措施的一部分。（新華社）"
-    },
-    {
-      "id": "4891063",
-      "time": "2026-05-21 01:14:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部發言人：伊朗願與其他沿岸國家協作，制定海上安全航運通行相關規程。"
-    },
-    {
-      "id": "mkt:019e4661-48ce-7bb5-8186-77654ba074b0",
-      "time": "2026-05-21 01:14:01",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "IRAN'S FOREIGN MINISTRY SPOKESPERSON SAYS IRAN READY TO DEVELOP PROTOCOLS FOR SAFE SHIPPING TRAFFIC IN COOPERATION WITH OTHER COASTAL STATES"
-    },
-    {
-      "id": "4891062",
-      "time": "2026-05-21 01:12:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部發言人：伊朗擬聯合阿曼，並協同各專業國際機構，建立保障霍爾木茲海峽持久安全的相關機制。"
-    },
-    {
-      "id": "mkt:019e4660-0c61-7bb5-8186-6eadc01e6cb8",
-      "time": "2026-05-21 01:12:40",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "IRAN'S FOREIGN MINISTRY SPOKESPERSON SAYS SEEKING TO ESTABLISH WITH OMAN, AND IN COORDINATION WITH 'SPECIALIZED INTERNATIONAL BODIES', A MECHANISM TO ENSURE SUSTAINABLE SECURITY IN STRAIT OF HORMUZ"
-    },
-    {
-      "id": "mkt:019e465f-d1f4-7bb9-852e-064f8ce73b71",
-      "time": "2026-05-21 01:12:25",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY",
-        "Impact mixed"
-      ],
-      "text": "ISRAELI BROADCASTING AUTHORITY: NETANYAHU IS TRYING TO CONVINCE TRUMP TO GIVE THE GREEN LIGHT TO RESUME THE WAR ON IRAN"
-    },
-    {
-      "id": "te:markets:552398",
-      "time": "2026-05-21 01:12:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stocks Extend Gains — US stocks rose further on Thursday with support from lower energy prices ahead of Nvidia's earnings results, due to update the state of the AI economy that has supported the stock market this year. The S&P 500, Dow, and Nasdaq 100 were around 1% higher. Satellite data showed three supertankers leaving the Strait of Hormuz with full cargoes as President Trump stated a deal with Iran could come soon, taming concerns of energy inflation. Nvidia gained 2% as it is likely to confirm sharp growth in earnings and orders, but the tone of its guidance is due to impact the whole tech sector in a period where AI spending has carried the US investment last quarter and underpin productivity growth and infrastructure expenditure in coming years. The AI sector was also supported by reports that OpenAI is preparing to file for an IPO as soon as September, paving the way for more AI spending. Meanwhile, TJX and Target were both higher following their results."
     }
   ]
 }
