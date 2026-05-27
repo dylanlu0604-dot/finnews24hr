@@ -1,7 +1,97 @@
 {
-  "updated": "2026-05-28 00:15:18",
-  "count": 14891,
+  "updated": "2026-05-28 00:19:18",
+  "count": 14896,
   "items": [
+    {
+      "id": "4902996",
+      "time": "2026-05-28 00:18:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "據監管檔案顯示，截至5月25日，優步持有Delivery Hero對應股份附帶的24.99%投票權，此前這一比例為19.5%。"
+    },
+    {
+      "id": "mkt:019e6a3a-dd14-7223-8ed6-4532fb34159c",
+      "time": "2026-05-28 00:18:22",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "TRUMP: People understand that Iran cannot possess nuclear weapons. I did this for the whole world, not just for us."
+    },
+    {
+      "id": "4902995",
+      "time": "2026-05-28 00:18:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯：我們預計有數萬人透過欺詐手段申領國家補貼資金。"
+    },
+    {
+      "id": "mkt:019e6a39-e2ee-7223-8ed6-3e31ca636402",
+      "time": "2026-05-28 00:17:18",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【TRUMP Says U.S. Not Yet Satisfied With Deal With Iran】TRUMP told reporters at a WHITE HOUSE Cabinet meeting on Wednesday that Iran is very eager to reach an agreement, but the United States is not yet satisfied. TRUMP said: \"Iran is very eager to make a deal, but it hasn't been reached yet... We're not satisfied with it at the moment, but we will ultimately get a result we are satisfied with. If we can't reach a deal, we may have to go back and finish the job.\""
+    },
+    {
+      "id": "4902994",
+      "time": "2026-05-28 00:17:15",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【華爾街基金或開始減倉迎接SpaceX上市】華爾街大型共同基金與被動指數基金正為將SpaceX和OpenAI等重磅IPO納入投資組合做準備，可能減持其他大型股持倉。高盛集團全球銀行及市場部美洲股票執行服務主管John Flood在給客戶釋出的報告中表示，對於被動型基金而言，新上市公司的潛在納入，可能迫使他們減持其他大型股票。先前納斯達克100指數和標普500指數推出新規，加快納入新上市超大市值公司的速度，可能適用於SpaceX、OpenAI等。"
+    },
+    {
+      "id": "te:markets:554164",
+      "time": "2026-05-28 00:16:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Copper Eases from $6.4 — Copper futures eased to $6.34 per pound on Wednesday from the one-week high of $6.4 in the previous session amid cautious optimism of resorted trade through the Persian Gulf. Iran claimed it has an unofficial draft on an agreement with the US that would halt their naval blockade on vessels exiting the Strait of Hormuz, although the claims were rejected by Washington. Still, the outlook of restated flows of sulfur and sulfuric acid from GCC economies, a major supply hub, improved expectations on that copper producers will regain access to inputs on the production process. The tight supply for the commodity, which is used by refiners through heap leaching and purifying copper to produce anodes, drove China to suspend exports. Consequently, the shortage in top copper producer Chile forced major refiners to cut capacity and lower supply. Meanwhile, supply from Codelco risked a pullback as the company is targeting roughly $2 billion in cost reductions."
+    },
+    {
+      "id": "4902993",
+      "time": "2026-05-28 00:16:07",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普聲稱：伊朗眼下顯然希望達成協議。該國經濟正急劇下滑，通脹率達到250%，貨幣大幅貶值，整個經濟體系已然崩潰。"
+    },
+    {
+      "id": "4902992",
+      "time": "2026-05-28 00:15:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：赫格塞思這位國防部長，完全是該職位的典型人選。他熱衷戰事，我也說不清緣由。"
+    },
+    {
+      "id": "4902991",
+      "time": "2026-05-28 00:15:13",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美國天然氣期貨漲超4.00%，現報3.013美元/百萬英熱。"
+    },
+    {
+      "id": "4902990",
+      "time": "2026-05-28 00:14:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家航空航天局：具備向月球表面投送大量載荷的充足能力。"
+    },
     {
       "id": "4902989",
       "time": "2026-05-28 00:13:19",
@@ -133515,51 +133605,6 @@
         "國際"
       ],
       "text": "特朗普：不會讓伊朗擁有核武器。"
-    },
-    {
-      "id": "mkt:019e462d-ac75-7bb5-8185-3c8201bbb6c1",
-      "time": "2026-05-21 00:17:38",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "TRUMP ANNOUNCED A PLAN FOR A FLEET OF 55 ICEBREAKERS SOON"
-    },
-    {
-      "id": "mkt:019e462d-5c55-7bb5-8185-33cfac4773af",
-      "time": "2026-05-21 00:17:18",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "TRUMP EXPRESSES GRATITUDE TO FINLAND FOR PROVIDING ICEBREAKER SHIPS"
-    },
-    {
-      "id": "4891011",
-      "time": "2026-05-21 00:16:16",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "埃克森美孚：公司已與埃及簽署諒解備忘錄。"
-    },
-    {
-      "id": "mkt:019e462c-3e4e-7bb5-8185-2bf2af8f40e0",
-      "time": "2026-05-21 00:16:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "EXXON MOBIL SPOKESPERSON SAYS COMPANY HAS SIGNED MEMORANDUM OF UNDERSTANDING WITH EGYPT"
-    },
-    {
-      "id": "4891010",
-      "time": "2026-05-21 00:15:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：短期內將擁有55艘破冰船。"
     }
   ]
 }
