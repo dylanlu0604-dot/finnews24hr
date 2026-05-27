@@ -1,7 +1,103 @@
 {
-  "updated": "2026-05-28 00:23:12",
-  "count": 14892,
+  "updated": "2026-05-28 00:27:11",
+  "count": 14898,
   "items": [
+    {
+      "id": "mkt:019e6a42-3514-7223-8ed6-8c0b0ad5b857",
+      "time": "2026-05-28 00:26:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Rubio: Cuba faces a serious crisis."
+    },
+    {
+      "id": "mkt:019e6a42-1cff-7223-8ed6-8627ae113ea0",
+      "time": "2026-05-28 00:26:18",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Rubio said more than 10 mln barrels of oil have already been shipped from Venezuela to the United States."
+    },
+    {
+      "id": "mkt:019e6a41-aecc-7223-8ed6-7e1a94c011b5",
+      "time": "2026-05-28 00:25:49",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "U.S. Secretary of State Rubio said the U.S. will do everything possible to create all conditions necessary for negotiations with Iran and to carry out diplomatic exchanges."
+    },
+    {
+      "id": "mkt:019e6a41-a002-7223-8ed6-70501e727079",
+      "time": "2026-05-28 00:25:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Secretary of State Rubio said Venezuela's stabilization, recovery and transition process remains ongoing."
+    },
+    {
+      "id": "4903003",
+      "time": "2026-05-28 00:25:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧談及委內瑞拉問題：該國的穩定、復甦與過渡程序將繼續推進。"
+    },
+    {
+      "id": "mkt:019e6a41-16af-7223-8ed6-69e3728464c4",
+      "time": "2026-05-28 00:25:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Rubio: We cannot allow Ebola cases to enter the United States."
+    },
+    {
+      "id": "4903002",
+      "time": "2026-05-28 00:25:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧談及埃博拉疫情：我們絕不會允許感染病例進入美國，正全力以赴，將危機控制在爆發地。"
+    },
+    {
+      "id": "mkt:019e6a40-e301-7223-8ed6-65291ec423fe",
+      "time": "2026-05-28 00:24:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Rubio, U.S. Secretary of State, on Iran: If diplomatic measures are ineffective, there are \"other options\"; diplomacy is the \"preferred solution\"."
+    },
+    {
+      "id": "mkt:019e6a3f-ac02-7223-8ed6-5c8bd4999396",
+      "time": "2026-05-28 00:23:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Rubio said he believes progress has been made toward reaching an agreement and that further progress will be seen over the next several hours and days."
+    },
+    {
+      "id": "4903001",
+      "time": "2026-05-28 00:23:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：我們正給予外交途徑一切成功的機會，以解決伊朗問題。"
+    },
+    {
+      "id": "4903000",
+      "time": "2026-05-28 00:22:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：關於伊朗問題（談判）的進展，我們在接下來的幾個小時或幾天內就會看到結果。"
+    },
     {
       "id": "mkt:019e6a3e-a60d-7223-8ed6-55cb3affc391",
       "time": "2026-05-28 00:22:31",
@@ -133511,61 +133607,6 @@
         "MKT News"
       ],
       "text": "TRUMP STATED THAT XI JINPING SAID THE US MILITARY IS EXCEPTIONAL"
-    },
-    {
-      "id": "4891021",
-      "time": "2026-05-21 00:26:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普稱讚與委內瑞拉達成的 “優質合資合作專案”。"
-    },
-    {
-      "id": "4891020",
-      "time": "2026-05-21 00:25:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "路透社調查顯示，美國能源資訊署週四釋出報告預計，上週美國天然氣庫存增加 950 億立方英尺。"
-    },
-    {
-      "id": "mkt:019e4634-e07e-7bb5-8185-666eb0975882",
-      "time": "2026-05-21 00:25:30",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Hot",
-        "Policy",
-        "Breaking News 24h",
-        "Nasdaq100",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "【OpenAI Plans Confidential IPO Filing With Major Banks】OpenAI is preparing to file confidential IPO paperwork in the coming days or weeks, working with Goldman Sachs and Morgan Stanley, according to people familiar with the matter. The filing could come as early as Friday, with a potential listing targeted for September, though timing may change. The company recently won a legal dispute with co-founder Elon Musk. It still faces concerns over revenue generation, heavy infrastructure spending, and competition from Anthropic."
-    },
-    {
-      "id": "mkt:019e4634-6b54-7bb5-8185-5c59ad436b93",
-      "time": "2026-05-21 00:25:00",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "Hang Seng Index"
-      ],
-      "text": "TRUMP: CHINA'S XI RESPECTS U.S. MILITARY"
-    },
-    {
-      "id": "4891019",
-      "time": "2026-05-21 00:23:41",
-      "tags": [
-        "公司",
-        "其他",
-        "焦點",
-        "國際"
-      ],
-      "text": "報道：OpenAI準備未來數日、或數週遞交IPO申請。"
     }
   ]
 }
