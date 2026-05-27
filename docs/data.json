@@ -1,7 +1,46 @@
 {
-  "updated": "2026-05-28 06:34:38",
+  "updated": "2026-05-28 06:38:26",
   "count": 14836,
   "items": [
+    {
+      "id": "mkt:019e6b96-2f32-722a-b522-79ab34bd6de6",
+      "time": "2026-05-28 06:37:32",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Sources at Iran's Bandar Abbas port said they heard three to four distant explosions, which sounded as if they came from the same direction as the blasts that occurred on a night a few days ago."
+    },
+    {
+      "id": "4903260",
+      "time": "2026-05-28 06:36:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：05月28日06時29分在青海玉樹州玉樹市（北緯33.06度，東經96.19度）發生3.6級地震，震源深度10千米。"
+    },
+    {
+      "id": "te:markets:554189",
+      "time": "2026-05-28 06:35:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Silver Drops by 2.98% — Top commodity losers are Silver (-2.98%), Lithium Carbonate (-1.67%) and Gold (-1.21%)."
+    },
+    {
+      "id": "mkt:019e6b93-8215-722a-b522-70574905661b",
+      "time": "2026-05-28 06:34:49",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Local sources said explosions were heard at Iran's southern Bandar Abbas port."
+    },
     {
       "id": "4903259",
       "time": "2026-05-28 06:32:22",
@@ -133046,41 +133085,6 @@
         "公司"
       ],
       "text": "馬斯克：我們正與其他公司洽談，擬推出人工智慧算力即服務業務."
-    },
-    {
-      "id": "4891350",
-      "time": "2026-05-21 06:37:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "【希臘譴責以色列對“全球堅韌船隊”活動人士的處置方式】當地時間5月20日，希臘外交部譴責以色列國家安全部長本-格維爾在攔截“全球堅韌船隊”事件中對被拘留希臘公民的處置方式，稱其“令人無法接受，絕對應受譴責”。希臘外交部表示，外交部長喬治·耶拉彼得裡蒂斯已指示有關官員向以色列提出正式外交抗議，要求以色列充分尊重國際人道主義法和人權，呼籲以色列當局加快所有程式，立即釋放被拘留的希臘公民。（央視新聞）"
-    },
-    {
-      "id": "4891349",
-      "time": "2026-05-21 06:37:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "馬斯克：我們正與其他公司就開展同樣合作進行磋商。"
-    },
-    {
-      "id": "4891348",
-      "time": "2026-05-21 06:36:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "馬斯克：正如近期與Anthropic人工智慧公司深化合作所印證的那樣，SpaceX正大規模提供人工智慧算力服務。"
-    },
-    {
-      "id": "te:markets:552431",
-      "time": "2026-05-21 06:35:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Lithium Carbonate Falls by 4.02% — Top commodity loser is Lithium Carbonate (-4.02%). Gains are led by Silver (2.96%), Copper (1.87%) and Gold (1.16%)."
     }
   ]
 }
