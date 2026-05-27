@@ -1,7 +1,322 @@
 {
-  "updated": "2026-05-28 03:33:05",
-  "count": 14880,
+  "updated": "2026-05-28 03:58:19",
+  "count": 14893,
   "items": [
+    {
+      "id": "4903167",
+      "time": "2026-05-28 03:57:05",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事庫克：未來幾個月利率應維持不變。"
+    },
+    {
+      "id": "4903166",
+      "time": "2026-05-28 03:56:39",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲理事庫克： 若通脹回落未能如期顯現，準備加息。人工智慧或可增強金融穩定，人工智慧對網路安全的影響尚不明確。"
+    },
+    {
+      "id": "mkt:019e6b02-d65d-7223-8ed9-88beb30ad0f1",
+      "time": "2026-05-28 03:56:39",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Governor COOK said current risks to the Federal Reserve's dual mandate are elevated on both fronts."
+    },
+    {
+      "id": "mkt:019e6b02-a1a9-7223-8ed9-860fb396c0f1",
+      "time": "2026-05-28 03:56:32",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "COOK said risks tilt toward higher inf; inf is clearly moving in the wrong direction."
+    },
+    {
+      "id": "mkt:019e6b02-865e-7223-8ed9-7f8a9c0d568a",
+      "time": "2026-05-28 03:56:27",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "Fed Governor COOK said the correct action at present is to keep policy interest rates steady."
+    },
+    {
+      "id": "mkt:019e6b02-7e72-7223-8ed9-750ea69d38da",
+      "time": "2026-05-28 03:56:23",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "Federal Reserve Governor COOK said in theory an increase in inf caused by shocks should be temporary."
+    },
+    {
+      "id": "mkt:019e6b02-511c-7223-8ed9-6a932d5cf7d5",
+      "time": "2026-05-28 03:56:11",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "COOK: Even short-term shocks may push up inf in the medium term."
+    },
+    {
+      "id": "4903165",
+      "time": "2026-05-28 03:56:09",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事庫克：若勞動力市場惡化，將準備好降息。"
+    },
+    {
+      "id": "mkt:019e6b02-2448-7223-8ed9-65e9108ac92c",
+      "time": "2026-05-28 03:56:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Federal Reserve Governor COOK said he would be prepared to cut interest rates if the labor market deteriorates."
+    },
+    {
+      "id": "mkt:019e6b02-1a44-7223-8ed9-589790d032f2",
+      "time": "2026-05-28 03:56:00",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Federal Reserve Governor COOK said AI may enhance financial stability, but its impact on cybersecurity remains unclear."
+    },
+    {
+      "id": "4903164",
+      "time": "2026-05-28 03:55:59",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事庫克：即使是暫時性衝擊，也可能推高中期通脹水平。"
+    },
+    {
+      "id": "mkt:019e6b02-0df2-7223-8ed9-5554045c3deb",
+      "time": "2026-05-28 03:55:57",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fed Governor COOK: Labor market \"basically stable\", but downside risks are rising."
+    },
+    {
+      "id": "4903163",
+      "time": "2026-05-28 03:55:48",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "庫美聯儲理事庫克：從理論上講，推高通脹的衝擊應當是暫時性的。"
+    },
+    {
+      "id": "mkt:019e6b01-df2e-7223-8ed9-4d299d82eea7",
+      "time": "2026-05-28 03:55:45",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "COOK said he is optimistic about economic growth and expects AI to boost productivity."
+    },
+    {
+      "id": "4903162",
+      "time": "2026-05-28 03:55:41",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事庫克：人工智慧造成的崗位流失或先於其帶來的崗位增長。"
+    },
+    {
+      "id": "mkt:019e6b01-ccab-7223-8ed9-43f2aba1f4a9",
+      "time": "2026-05-28 03:55:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Fed Governor COOK said he is prepared to raise rates if the expected DISINFLATION does not materialize in a timely manner."
+    },
+    {
+      "id": "mkt:019e6b01-aeaf-7223-8ed9-3cd2b80729b6",
+      "time": "2026-05-28 03:55:32",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Governor COOK said AI-driven job losses may precede job gains from AI."
+    },
+    {
+      "id": "4903161",
+      "time": "2026-05-28 03:55:29",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事庫克：對經濟增長持樂觀態度，預計人工智慧將推動生產率提升。"
+    },
+    {
+      "id": "4903160",
+      "time": "2026-05-28 03:55:18",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事庫克：勞動力市場“大體穩定”，但下行風險已有所上升。"
+    },
+    {
+      "id": "mkt:019e6af9-f897-7223-8ed9-363e9eb303da",
+      "time": "2026-05-28 03:47:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Tracking data show the oil tanker \"環球號 (Universal)\", originally bound for Cuba, has altered course."
+    },
+    {
+      "id": "mkt:019e6af8-1d53-7223-8ed9-2a50e71ee3ac",
+      "time": "2026-05-28 03:45:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Governor Lisa Cook is scheduled to speak in ten minutes."
+    },
+    {
+      "id": "4903159",
+      "time": "2026-05-28 03:44:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "追蹤資料顯示，原定駛往古巴的油輪 “環球號” 已改變航線。"
+    },
+    {
+      "id": "4903158",
+      "time": "2026-05-28 03:44:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國總統馬克龍：挪威同意在核威懾領域深化合作。"
+    },
+    {
+      "id": "4903157",
+      "time": "2026-05-28 03:40:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價27日大幅下跌】截至當天收盤，紐約商品交易所7月交貨的輕質原油期貨價格下跌5.21美元，收於每桶88.68美元，跌幅為5.55%；7月交貨的倫敦布倫特原油期貨價格下跌5.29美元，收於每桶94.29美元，跌幅為5.31%。"
+    },
+    {
+      "id": "mkt:019e6af1-7acc-7223-8ed9-2731e50c7cee",
+      "time": "2026-05-28 03:37:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A Palestinian Health Ministry official said air strikes on Gaza City killed at least four people."
+    },
+    {
+      "id": "4903156",
+      "time": "2026-05-28 03:36:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "衛生部門訊息：以色列襲擊加沙城，造成至少四人死亡。"
+    },
+    {
+      "id": "4903155",
+      "time": "2026-05-28 03:36:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數27日上漲】衡量美元對六種主要貨幣的美元指數當天上漲0.04%，在匯市尾市收於99.206。截至紐約匯市尾市，1歐元兌換1.1629美元，與前一交易日基本持平；1英鎊兌換1.3430美元，低於前一交易日的1.3445美元。1美元兌換159.51日元，高於前一交易日的159.33日元；1美元兌換0.7868瑞士法郎，高於前一交易日的0.7857瑞士法郎；1美元兌換1.3835加元，高於前一交易日的1.3813加元；1美元兌換9.2972瑞典克朗，低於前一交易日的9.3198瑞典克朗。"
+    },
+    {
+      "id": "4903154",
+      "time": "2026-05-28 03:35:14",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美債收益率大致持穩】週三（5月27日）紐約尾盤，美國10年期國債收益率跌0.39個基點，報4.48%，在一波短線跳水行情中、北京時間20:22重新整理日低至4.4453%。兩年期美債收益率漲0.32個基點，報4.0349%；30年期美債收益率跌0.71個基點，報5.0110%。2/10年期美債收益率利差跌0.482個基點，報+44.386個基點。10年期通脹保值國債（TIPS）收益率跌0.36個基點，至2.0618%；兩年期TIPS收益率漲0.87個基點，至1.4059%；30年期TIPS收益率跌0.36個基點，至2.7287%。"
+    },
+    {
+      "id": "mkt:019e6aee-8f6f-7223-8ed9-1fe5bcc33362",
+      "time": "2026-05-28 03:34:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Secretary of State Rubio will testify before the Senate Appropriations Committee on June 3."
+    },
+    {
+      "id": "4903153",
+      "time": "2026-05-28 03:33:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "魯比奧將於6月3日出席參議院撥款委員會聽證會。"
+    },
+    {
+      "id": "mkt:019e6aed-3210-7223-8ed9-14df6b02e1ca",
+      "time": "2026-05-28 03:33:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "cenc officially determined that at 03:22 on May 28 a M3.0 earthquake occurred in Hejing County, Bayingolin Prefecture, Xinjiang, China; hypocenter depth 41 km."
+    },
     {
       "id": "mkt:019e6aeb-9937-7223-8ed9-0e01a44e9b88",
       "time": "2026-05-28 03:31:25",
@@ -133187,163 +133502,6 @@
         "Brent"
       ],
       "text": "THE AUTHORITY SETS THE ZONE AS LINE CONNECTING KUH-E MUBARAK IN IRAN TO SOUTH OF UAE'S FUJAIRAH AT EASTERN ENTRANCE OF STRAIT TO THE LINE CONNECTING TIP OF QESHM ISLAND TO UMM AL-QUWAIN AT THE WESTERN ENTRANCE TRANSIT THROUGH THIS AREA FOR PURPOSE OF PASSING THROUGH HORMUZ STRAIT REQUIRES COORDINATION WITH AND AUTHORIZATION FROM THE AUTHORITY -POST ON X"
-    },
-    {
-      "id": "4891185",
-      "time": "2026-05-21 03:57:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗“波斯灣海峽管理局”公佈霍爾木茲海峽管控海區。"
-    },
-    {
-      "id": "4891184",
-      "time": "2026-05-21 03:56:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談土耳其總統埃爾多安：我和埃爾多安總統進行了一次十分愉快的通話，我們之間關係融洽。我能和一眾強硬派人物交好，這難道不是一件好事嗎？他作風強硬，但我和他有著旁人無法企及的深厚交情。事實上他執政表現出色，在我看來更是十足的盟友。有些人對此心存質疑，但我堅信他是可靠的盟友，也深受本國民眾的擁戴。"
-    },
-    {
-      "id": "mkt:019e46f6-534b-7bb5-8188-4c358538d9b1",
-      "time": "2026-05-21 03:56:48",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "IRAN'S 'PERSIAN GULF STRAIT AUTHORITY' REVEALS CONTROLLED MARITIME ZONE IN THE STRAIT OF HORMUZ - POST ON X"
-    },
-    {
-      "id": "4891183",
-      "time": "2026-05-21 03:55:51",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【國際油價20日大幅下跌】國際油價20日大幅下跌。截至當天收盤，紐約商品交易所7月交貨的輕質原油期貨價格下跌5.89美元，收於每桶98.26美元，跌幅為5.66%；7月交貨的倫敦布倫特原油期貨價格下跌6.26美元，收於每桶105.02美元，跌幅為5.63%。"
-    },
-    {
-      "id": "4891182",
-      "time": "2026-05-21 03:54:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國特使：美方認為如今是重新確立美國在格陵蘭影響力的時機。"
-    },
-    {
-      "id": "4891181",
-      "time": "2026-05-21 03:52:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "【繼續施壓古巴 美國起訴古革命領袖勞爾·卡斯特羅】美國佛羅里達州南區聯邦地區法院20日公佈的法庭檔案顯示，該法院一個大陪審團同意起訴古巴革命領袖勞爾·卡斯特羅及其他5人。這一訴訟被認為是美國對古巴施壓措施的一部分。美國聯邦檢方指控勞爾·卡斯特羅等人在1996年古巴流亡分子飛機被擊落事件中，涉嫌謀殺4人和破壞飛機等罪行。勞爾·卡斯特羅在上述事件發生時擔任古巴革命武裝力量部部長。古巴國家主席迪亞斯-卡內爾20日在社交媒體表示，美國政府針對勞爾·卡斯特羅提出所謂“指控”完全出於政治動機。（新華社）"
-    },
-    {
-      "id": "4891180",
-      "time": "2026-05-21 03:50:13",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美元指數20日下跌】美元指數20日下跌。衡量美元對六種主要貨幣的美元指數當天下跌0.24%，在匯市尾市收於99.090。截至紐約匯市尾市，1歐元兌換1.1631美元，高於前一交易日的1.1604美元；1英鎊兌換1.3442美元，高於前一交易日的1.3397美元。1美元兌換158.84日元，低於前一交易日的159.06日元；1美元兌換0.7868瑞士法郎，低於前一交易日的0.7892瑞士法郎；1美元兌換1.3749加元，低於前一交易日的1.3750加元；1美元兌換9.3324瑞典克朗，低於前一交易日的9.4055瑞典克朗。"
-    },
-    {
-      "id": "4891179",
-      "time": "2026-05-21 03:48:47",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲會議紀要顯示，更多決策者對加息持開放態度】上月，美聯儲官員對伊朗戰爭推高通脹的擔憂加劇，越來越多的官員開始接受可能需要加息的可能性，這表明即將上任的主席沃什將接手一支日益鷹派的央行官員團隊。週三公佈的會議紀要顯示，在4月28日至29日的會議上，多數美聯儲決策者認為，如果通脹持續高於央行2%的目標，\"採取一些政策收緊措施可能變得合適\"。會議紀要稱：“為應對這一可能性，許多與會者表示，他們更希望從會後宣告中刪除那些暗示委員會未來利率決策可能傾向於寬鬆的措辭。”在美聯儲的嚴謹術語中，“許多”一詞雖未達到“多數”的標準，但暗示在關於維持宣告不變的決定上投反對票的三位聯儲主席，至少獲得了同等數量的非投票成員的支援。 修改宣告可能會被視為對新任美聯儲主席的束縛，因為該主席至少在伊朗戰爭爆發前曾表示支援降息。"
-    },
-    {
-      "id": "4891178",
-      "time": "2026-05-21 03:48:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國衛生與公眾服務部發言人：抗體療法的實驗室資料顯示，該療法有望對本迪布焦埃博拉病毒有效。"
-    },
-    {
-      "id": "4891177",
-      "time": "2026-05-21 03:45:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國衛生與公眾服務部表示，作為埃博拉病毒防疫備戰工作的一環，藥企邁普生物已運送相關藥劑，以備高危人群應急使用。"
-    },
-    {
-      "id": "4891175",
-      "time": "2026-05-21 03:37:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "【美尼米茲號航母打擊群進入加勒比海】美軍南方司令部當地時間5月20日在社交媒體發文證實，美軍“尼米茲”號航母打擊群已進入加勒比海。據稱該打擊群包括“尼米茲”號航母及其搭載的第17艦載機聯隊，以及“格里德利”號驅逐艦、“帕圖森特”號補給艦。"
-    },
-    {
-      "id": "mkt:019e46e2-ea33-7bb5-8188-46f8ba8d7beb",
-      "time": "2026-05-21 03:35:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US TREASURY SECRETARY BESSENT: DISCUSSED IRAN WITH QATAR FINANCE MINISTER IN PARIS"
-    },
-    {
-      "id": "4891174",
-      "time": "2026-05-21 03:35:26",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國財政部長貝森特：在巴黎會見卡達財政大臣阿里·本·艾哈邁德·庫瓦里。雙方談及卡達在伊朗戰爭期間展現出的強大抗壓能力，同時一致認為盟友需持續對伊朗施壓，迫使其停止各類威脅行徑。"
-    },
-    {
-      "id": "4891173",
-      "time": "2026-05-21 03:34:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "【古巴國家主席：美國所謂“指控”出於政治動機 愈加暴露其挫敗感】古巴國家主席迪亞斯-卡內爾20日在社交媒體表示，美國政府當天宣佈針對古巴革命領袖勞爾·卡斯特羅提出所謂“指控”完全出於政治動機，進一步暴露美方的傲慢與挫敗感。迪亞斯-卡內爾指出，美國無法接受古巴革命堅定不移的立場，以及古巴領導層的團結和強大精神力量。美方舉動完全出於政治動機，毫無法律依據，唯一目的就是為美方炮製的案卷再添內容，為其妄圖對古巴發動軍事侵略這一荒唐行徑尋找藉口。（新華社）"
-    },
-    {
-      "id": "mkt:019e46e0-e624-7bb5-8188-3f95f1929d3c",
-      "time": "2026-05-21 03:33:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "GOOGLE: ESTABLISHING A $20 MLN ENERGY IMPACT FUND - BLOG"
-    },
-    {
-      "id": "4891172",
-      "time": "2026-05-21 03:33:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌：透過與阿莫林電力達成產能承諾框架協議，助力新增超500兆瓦電力產能專案落地。"
-    },
-    {
-      "id": "4891171",
-      "time": "2026-05-21 03:33:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌宣佈設立2000萬美元能源影響力基金。"
-    },
-    {
-      "id": "mkt:019e46e0-b40e-7bb5-8188-351ce1a2e184",
-      "time": "2026-05-21 03:33:11",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7",
-        "GOOGL.O",
-        "Impact bullish"
-      ],
-      "text": "GOOGLE: NEW $15 BILLION INVESTMENT IN BUILDING INFRASTRUCTURE IN MISSOURI, INCLUDING A NEW DATA CENTER IN NEW FLORENCE, MONTGOMERY COUNT"
     }
   ]
 }
