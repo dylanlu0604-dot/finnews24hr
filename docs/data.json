@@ -1,7 +1,23 @@
 {
-  "updated": "2026-05-28 04:49:21",
-  "count": 14868,
+  "updated": "2026-05-28 04:53:14",
+  "count": 14861,
   "items": [
+    {
+      "id": "4903201",
+      "time": "2026-05-28 04:51:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "邁威爾科技： 目前預計本財年資料中心業務營收同比增長約 50%。"
+    },
+    {
+      "id": "4903200",
+      "time": "2026-05-28 04:50:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "邁威爾科技：預計2027財年銷售115億美元。"
+    },
     {
       "id": "4903199",
       "time": "2026-05-28 04:47:43",
@@ -133238,78 +133254,6 @@
         "Importance 1"
       ],
       "text": "TSX Posts Biggest Gain in Nearly Three Weeks — The S&P/TSX Composite Index gained 1.2% to close at 34,162 on Wednesday, posting its biggest advance in nearly three weeks as mining, banking, and technology shares led gains. A pullback in oil prices eased pressure on long-term borrowing costs, supporting heavyweight financial stocks. Royal Bank of Canada rose 1.9%, while TD Bank gained 1.4%, and both BMO and Brookfield advanced 2.3%. Mining stocks also moved higher, with Agnico Eagle adding 2.7% and Barrick rising 3.6% as gold prices increased alongside a decline in Treasury yields. The move followed signs of incoming energy supply from the Middle East, which helped temper expectations of further inflation pressure. In the technology sector, Shopify climbed 3.8% ahead of Nvidia’s earnings release, which investors viewed as a key test of the strength of the AI-driven market rally. Nvidia is expected to report its fastest sales growth in more than a year."
-    },
-    {
-      "id": "4891250",
-      "time": "2026-05-21 04:53:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX：計劃透過Terafab專案深化與特斯拉及英特爾的戰略協作。"
-    },
-    {
-      "id": "4891249",
-      "time": "2026-05-21 04:52:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "SpaceX：截至5月1日，特斯拉持有該公司18,990,195股A類普通股。"
-    },
-    {
-      "id": "4891248",
-      "time": "2026-05-21 04:52:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX：計劃公開推出一款金融產品，該產品將提供支付、銀行服務及其他金融服務功能。"
-    },
-    {
-      "id": "4891247",
-      "time": "2026-05-21 04:52:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX：截至3月31日的過去十二個月，整合了Grok與X的人工智慧平臺，共有超過13億個活躍支援賬戶。"
-    },
-    {
-      "id": "4891246",
-      "time": "2026-05-21 04:51:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX：馬斯克可對B類董事進行選舉、罷免，或填補該類別董事的空缺職位。"
-    },
-    {
-      "id": "4891245",
-      "time": "2026-05-21 04:51:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX：2025年營業利潤為44.2億美元。"
-    },
-    {
-      "id": "4891244",
-      "time": "2026-05-21 04:50:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX：2025年收入為113.9億美元。"
-    },
-    {
-      "id": "4891243",
-      "time": "2026-05-21 04:50:24",
-      "tags": [
-        "市場"
-      ],
-      "text": "特斯拉股價盤後下跌0.3%。"
-    },
-    {
-      "id": "4891242",
-      "time": "2026-05-21 04:49:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "SpaceX：首次公開募股（IPO）後將擁有“受控公司”地位，無需要求董事會多數席位由獨立董事構成。\n注：此處“受控公司”為美股證券監管術語，指某一主體持股多數表決權股份的公司，可豁免董事會多數成員為獨立人士的監管要求。"
     }
   ]
 }
