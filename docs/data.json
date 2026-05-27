@@ -1,7 +1,99 @@
 {
-  "updated": "2026-05-27 14:06:50",
-  "count": 15114,
+  "updated": "2026-05-27 14:10:50",
+  "count": 15115,
   "items": [
+    {
+      "id": "mkt:019e680d-4a26-700e-adbd-935f58e9fbc7",
+      "time": "2026-05-27 14:09:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "WTI and Brent crude fall more than 2.00% intraday; now $94.27/bbl and $94.57/bbl respectively."
+    },
+    {
+      "id": "4901775",
+      "time": "2026-05-27 14:08:52",
+      "tags": [
+        "行業"
+      ],
+      "text": "【機構：1Q26全球新能源車銷量年減2%，特斯拉重回純電車銷售冠軍】根據TrendForce集邦諮詢最新統計，2026年第一季全球純電動車（BEV）、插電混合式電動車（PHEV）和氫燃料電池車等新能源車合計銷量達394萬輛，年減2%，佔第一季全球汽車銷售的19%。中國新能源車市場步入調整期；同時，西歐地區市場出現復甦跡象，日本和韓國的純電車銷量也有顯著成長。"
+    },
+    {
+      "id": "4901774",
+      "time": "2026-05-27 14:08:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌2%，現報94.72美元/桶。"
+    },
+    {
+      "id": "mkt:019e680c-3723-700e-adbd-8b76d9f981cb",
+      "time": "2026-05-27 14:08:11",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Ofgem says monthly price cap for direct-debit gas and electricity households is £1,641; typical household bill £1,862 from July"
+    },
+    {
+      "id": "4901773",
+      "time": "2026-05-27 14:08:09",
+      "tags": [
+        "市場",
+        "A股"
+      ],
+      "text": "【兆易創新A股成交額超300億元】5月27日下午，兆易創新A股成交額超300億元，現跌2.28%。"
+    },
+    {
+      "id": "4901772",
+      "time": "2026-05-27 14:08:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "義大利競爭監管機構對渤健公司啟動調查。"
+    },
+    {
+      "id": "4901770",
+      "time": "2026-05-27 14:07:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國天然氣電力市場辦公室（OFGEM）：自7月1日起，資料將更新以反映家庭能源使用量較此前減少——與上一次評估相比，用電量減少約7%，用氣量減少約17%。"
+    },
+    {
+      "id": "4901769",
+      "time": "2026-05-27 14:07:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【網傳“四川育兒補貼延長至6歲”？四川省衛健委：不實】5月27日，四川省衛健委釋出訊息，近日，有人在抖音等網路平臺散佈“四川省目前僅部分割槽縣試點將育兒補貼延長至6歲（全省統一政策僅覆蓋0-3歲，每孩每年3600元），3-6歲地方補貼需孩子戶籍在對應區縣，2026年5月起陸續發放，標準多為每月200-500元，部分多孩加碼”，此為不實資訊。目前，四川各地育兒補貼物件均為符合法律法規規定生育的3週歲以下嬰幼兒，補貼均發放至其年滿3週歲。除攀枝花市外，四川其餘市州（含其下轄縣市區）現階段育兒補貼標準均執行國家基礎標準，即每孩每年3600元。(四川新聞網)"
+    },
+    {
+      "id": "4901768",
+      "time": "2026-05-27 14:07:33",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "【央行：今天在香港成功發行兩期共計300億元央票】中國人民銀行於本週三（5月27日）透過香港金融管理局債務工具中央結算系統（CMU）債券投標平臺，以利率招標方式發行了2026年第四期和第五期央行票據。2026年第四期央行票據（香港）的發行量為150億元人民幣，期限為91天，中標利率為1.13%。2026年第五期央行票據（香港）的發行量為150億元人民幣，期限為1年，中標利率為1.32%"
+    },
+    {
+      "id": "mkt:019e680b-1358-700e-adbd-8125756a3a72",
+      "time": "2026-05-27 14:06:56",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【China Publishes 51 AI-Energy Application Scenarios】China National Energy Administration releases 51 high-value \"AI+\" energy application scenarios spanning power grids, renewables, hydropower and thermal power sectors."
+    },
     {
       "id": "4901767",
       "time": "2026-05-27 14:06:07",
@@ -9,6 +101,14 @@
         "其他"
       ],
       "text": "【騰訊自研“滄海晶片”V2版本即將量產】從騰訊方面瞭解到，騰訊自研影片編解碼晶片“滄海”V2已經成功點亮，在編解碼、極速高畫質與渲染三大能力全面升級，將在2026年下半年開始提供全面線上服務。據瞭解，滄海晶片從2019年開始研發，2023年量產並大規模應用。目前，滄海V1在騰訊雲以及騰訊自有場景中規模部署超10萬片。"
+    },
+    {
+      "id": "4901766",
+      "time": "2026-05-27 14:05:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蜂鳥即配旗下必贏資訊科技公司增資至59.9億】天眼查App顯示，近日，上海蜂鳥必贏資訊科技有限公司發生工商變更，註冊資本由29.9億人民幣增至59.9億人民幣。該公司成立於2022年11月，法定代表人為王向平，經營範圍包括計算機系統服務、資訊系統整合服務、廣告製作等，由上海蜂鳥即配資訊科技有限公司全資持股。"
     },
     {
       "id": "4901764",
@@ -135192,105 +135292,6 @@
         "國際"
       ],
       "text": "【習近平同俄羅斯總統普京大範圍會談結束】5月20日，國家主席習近平在北京人民大會堂同來華進行國事訪問的俄羅斯總統普京大範圍會談結束。（央視新聞）"
-    },
-    {
-      "id": "te:economy:552142",
-      "time": "2026-05-20 14:10:35",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United Kingdom",
-        "Producer Prices Change",
-        "Importance 1"
-      ],
-      "text": "UK Producer Inflation Beats Forecasts — Factory gate prices for UK-manufactured goods increased 4.0% year-on-year in April 2026, more than market expectations of a 2.8% rise and accelerating from an upwardly revised 3.0% growth in March. This marked the highest reading since May 2023, driven by price increases across all 10 product groups, led by a surge in prices of coke and refined petroleum products (52.6% vs 23.7% in March) amid higher energy costs. Inflation also picked up for other manufacturing outputs (2.7% vs 2.6%) while remained steady for basic metals, fabricated metal products, and machinery (at 3.7%). Meanwhile, price growth slowed mainly for food products (0.5% vs 1.7%) and motor vehicles and other transport equipment (2.1% vs 2.4%). On a monthly basis, factory gate prices rose 1.4%, matching the pace recorded in March and topping market forecasts of a 1.0% increase."
-    },
-    {
-      "id": "te:economy:552141",
-      "time": "2026-05-20 14:10:10",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United Kingdom",
-        "Core Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "UK Core Inflation Lowest in Near 5 Years — The UK’s annual core inflation rate eased to 2.5% in April 2026 from 3.1% in the prior month, slightly below market expectations of 2.6%. It marked the lowest reading since July 2021, largely due to a sharp slowdown in core services inflation, which cooled to 3.2% from 4.5% in the previous month. Meanwhile, goods inflation accelerated to 2.4% from 2.1%, indicating persistent price pressures in consumer goods. On a monthly basis, core consumer prices rose 0.7%, easing short of forecasts for a 0.8% increase but picking up from March’s 0.6% gain. The latest figure marked the third straight monthly rise and the fastest monthly pace in a year."
-    },
-    {
-      "id": "4889554",
-      "time": "2026-05-20 14:10:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "據INTERTEK統計，馬來西亞5月1日至20日棕櫚油出口量為761,517噸。"
-    },
-    {
-      "id": "te:economy:552140",
-      "time": "2026-05-20 14:10:04",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Germany",
-        "Producer Prices Change",
-        "Importance 1"
-      ],
-      "text": "German Producer Inflation Hits Nearly 3-Year High — Producer prices in Germany rose 1.7% year-on-year in April 2026, recovering from a 0.2% decline in March and marking the first increase since February last year. The reading came in above market forecasts of 1.5% and represented the highest producer inflation since May 2023, mainly driven by higher intermediate goods prices (2.6%) and energy (2.0%). On a monthly basis, producer prices climbed 1.2%, easing from a 2.5% rise in March, which was the largest increase since August 2022 and above the expected 1.0% gain, marking the second straight month of increase."
-    },
-    {
-      "id": "4889553",
-      "time": "2026-05-20 14:09:46",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "印度巴拉特石油公司高管表示，該公司現有原油庫存可滿足約27天的需求。"
-    },
-    {
-      "id": "te:economy:552139",
-      "time": "2026-05-20 14:09:14",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United Kingdom",
-        "Inflation Rate",
-        "Importance 2"
-      ],
-      "text": "UK Inflation Rate Hits 13-Month Low — The annual inflation rate in the UK fell to 2.8% in April 2026, more than the expected easing to 3.0% and down from 3.3% in March. This marked the lowest reading since March last year, mainly driven by slower inflation for housing and household services (1.4% vs 5.3% in March), following the introduction of an energy price cap by the UK’s energy regulator on April 1. Transport costs also increased at a softer pace (4.5% vs 4.7%)."
-    },
-    {
-      "id": "4889552",
-      "time": "2026-05-20 14:08:56",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【中東戰火致日本納豆漲價停售】中東緊張局勢導致霍爾木茲海峽航運受阻，高度依賴進口能源的日本因石腦油這一石油衍生品供應短缺而頭疼不已。日本建築、食品加工、日用品生產等行業都已感受到石腦油短缺帶來的衝擊，石腦油短缺問題正以多種形式在日本呈現。石腦油的短缺已經導致日本新建住房面臨延遲交付的窘境。三菱地所的子公司等開發商開始就有關情況向簽約客戶等方面發出通知。在日本福岡，一座房子建造的進度已經落後於計劃，原因是石腦油供應短缺，導致建築材料漲價，甚至無法按時供貨。日本多家食品企業近日宣佈，將更改包裝，減少彩色印刷。同時，因包裝材料和大豆的價格上漲，日本味滋康公司19種納豆產品將自6月起提價6%至20%，另有4種納豆產品本月早些時候已停售。日本大王制紙公司也計劃8月起漲價至少15%，所涉產品包括面巾紙、手紙、廚房用紙、尿布和清潔用品。（央視財經）"
-    },
-    {
-      "id": "4889551",
-      "time": "2026-05-20 14:08:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本首相高市早苗：可能的額外預算主要旨在應對中東局勢。"
-    },
-    {
-      "id": "4889550",
-      "time": "2026-05-20 14:07:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "萊昂納多公司與Edge集團旗下子公司簽訂科威特海軍“多拉”專案海軍系統合同。該交易預估價值約為3.2億歐元。"
-    },
-    {
-      "id": "4889549",
-      "time": "2026-05-20 14:07:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "【峰飛航空獲哈薩克AAAG訂單，簽署協議深度合作】5月19日，峰飛航空科技自主研發的2噸級eVTOL（電動垂直起降航空器）在哈薩克阿拉木圖完成演示飛行，在中亞地區首次實現大型eVTOL先進空中交通飛行，標誌著中國高階eVTOL技術與中亞地區低空產業的首次深度對接。本次飛行由峰飛航空與阿拉套先鋒航空集團（Alatau Advance Air Group Ltd.簡稱AAAG）合作推進。此前AAAG已向峰飛航空採購大型eVTOL航空器並支付貨款。飛行儀式現場，雙方簽署合作備忘錄（MOU），AAAG將再向峰飛航空採購50架V2000/V5000系列大型eVTOL機型，用於哈薩克及中亞其他地區的低空交通網路建設；峰飛航空則為AAAG提供涵蓋eVTOL交付、執行培訓、售後維護及市場營銷在內支援。"
     }
   ]
 }
