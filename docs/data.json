@@ -1,7 +1,27 @@
 {
-  "updated": "2026-05-28 01:19:01",
-  "count": 14928,
+  "updated": "2026-05-28 01:22:57",
+  "count": 14930,
   "items": [
+    {
+      "id": "4903073",
+      "time": "2026-05-28 01:20:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "OpenAI在美國中期選舉前部署網路安全及虛假資訊防禦措施。"
+    },
+    {
+      "id": "mkt:019e6a72-7818-7223-8ed7-f951fb272d4f",
+      "time": "2026-05-28 01:19:07",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "U.S. President TRUMP said Iran has undergone a regime change because the country is now governed by a new leadership."
+    },
     {
       "id": "mkt:019e6a71-796a-7223-8ed7-f76e954d9218",
       "time": "2026-05-28 01:18:01",
