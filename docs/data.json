@@ -1,7 +1,53 @@
 {
-  "updated": "2026-05-28 04:06:12",
-  "count": 14889,
+  "updated": "2026-05-28 04:10:08",
+  "count": 14891,
   "items": [
+    {
+      "id": "mkt:019e6b0d-737c-799f-bbe6-80a0c0bcfa4d",
+      "time": "2026-05-28 04:08:24",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "SNOW.N",
+        "Impact bullish"
+      ],
+      "text": "Snowflake (SNOW.N): Customers including Fetch and Hex are using Snowflake's platform on Amazon Web Services (AWS) to deploy AI applications on governed data."
+    },
+    {
+      "id": "4903175",
+      "time": "2026-05-28 04:07:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "新思科技第二財季營收22.8億美元，同比增長42%。第二財季調整後每股收益（EPS）為3.35美元，上年同期3.67美元。任命Jesse Cohn為董事。預計全年營收96.3億-97.1億美元，公司原本預計95.6億-96.6億美元。預計全年調整後EPS為14.70-14.80美元，公司原本預計14.38-14.46美元。預計第三財季營收24.1億-24.6億美元，分析師預期23.9億美元。預計第三財季調整後EPSWie3.63-3.69美元，分析師預期3.62美元。"
+    },
+    {
+      "id": "mkt:019e6b0c-afcb-799f-bbe6-7a07e69a7f8d",
+      "time": "2026-05-28 04:07:33",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "SNOW.N",
+        "Impact bullish"
+      ],
+      "text": "According to the Wall Street Journal, Snowflake (SNOW.N) has committed to invest $6.0 bln on Amazon Web Services (AWS) over the next five years for Graviton compute and AI-related spending."
+    },
+    {
+      "id": "mkt:019e6b0c-4300-7223-8ed9-b737e3219b08",
+      "time": "2026-05-28 04:07:06",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Market Themes",
+        "Chip Wars",
+        "AMZN.O",
+        "Impact bullish",
+        "SNOW.N"
+      ],
+      "text": "According to the Wall Street Journal, Amazon (AMZN.O) and Snowflake (SNOW.N) reached a $6.0 billion agreement to procure Graviton smart-compute chips."
+    },
     {
       "id": "4903174",
       "time": "2026-05-28 04:05:27",
@@ -133440,24 +133486,6 @@
         "Importance 1"
       ],
       "text": "Argentina Trade Surplus Hits Record High in April — Argentina’s trade surplus widened to $2.71 billion in April 2026, increasing 15.1% year-on-year to a record high, well above forecasts of $1.76 billion. Exports surged 33.6% to a record $8.91 billion, with all major categories posting annual gains. Fuels and energy exports jumped 85.9%, mainly driven by higher crude oil and fuel shipments. Industrial manufactured goods rose 43.3%, supported by stronger exports of precious stones and metals, transport equipment, and chemical products. Primary product exports increased 25%, with cereals contributing the most to the rise. Meanwhile, imports fell 4% to $6.20 billion, led by a 45.4% decline in fuels and lubricants. Imports of parts and accessories for capital goods also dropped 17.4%."
-    },
-    {
-      "id": "4891194",
-      "time": "2026-05-21 04:08:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "【全球船東訂單湧來 我國拿下90%超大型油輪新訂單】今年以來，我國造船業新接訂單不斷，拿下全球超九成的超大型油輪新船訂單，在全球市場佔據主導地位。"
-    },
-    {
-      "id": "4891193",
-      "time": "2026-05-21 04:06:30",
-      "tags": [
-        "公司",
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲推出新型清算結算支付賬戶方案】美國聯邦儲備委員會公佈一項提案，擬設立一類全新支付賬戶，可供部分金融機構用於資金清算與結算業務。美聯儲於週三釋出宣告稱，該新設賬戶方案目前面向公眾徵求意見，既適配行業創新發展需求，同時也能有效降低聯邦儲備銀行及支付體系面臨的重大風險。此前，隨著加密貨幣企業與金融科技公司紛紛謀求直接接入美聯儲支付系統，美聯儲便已醞釀推出這類新型賬戶。此後堪薩斯城聯邦儲備銀行向加密交易平臺克拉肯發放專用受限賬戶資質，使其成為首家直接接入美國主流支付基礎設施的數字資產機構。美聯儲明確，此類賬戶使用者無法獲得日間信貸及貼現視窗融資許可權，存放於儲備銀行的賬戶餘額不計付利息，且僅可使用配備自動防透支管控機制的支付服務。"
     }
   ]
 }
