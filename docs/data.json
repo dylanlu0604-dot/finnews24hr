@@ -1,7 +1,157 @@
 {
-  "updated": "2026-05-28 00:59:10",
+  "updated": "2026-05-28 01:03:08",
   "count": 14896,
   "items": [
+    {
+      "id": "mkt:019e6a63-1e6c-7223-8ed7-675e203313dc",
+      "time": "2026-05-28 01:02:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. 5-Year Bond Auction on May 27 — Stop-Out Yield 4.182%, prior 3.96%."
+    },
+    {
+      "id": "4903043",
+      "time": "2026-05-28 01:02:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗：不談放鬆制裁。"
+    },
+    {
+      "id": "mkt:019e6a63-1c83-7223-8ed7-5c22adbd3dfe",
+      "time": "2026-05-28 01:02:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US 5-year Bond auction as of May 27 — BID-COVER RATIO 2.34; prior 2.33."
+    },
+    {
+      "id": "mkt:019e6a63-17b2-7223-8ed7-56ccd6736ab6",
+      "time": "2026-05-28 01:02:15",
+      "tags": [
+        "MKT News",
+        "US10Y"
+      ],
+      "text": "U.S. 5-year Bond / Govt auction as of May 27 — share of allotment at the winning yield 75.22%, previous 61.04%."
+    },
+    {
+      "id": "mkt:019e6a62-da02-7223-8ed7-43cdf027b242",
+      "time": "2026-05-28 01:02:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 5-Year Note Auction Bid/Cover Ratio (May.27) | actual 2.34 | previous 2.33"
+    },
+    {
+      "id": "mkt:019e6a62-da03-7223-8ed7-4c63d924c407",
+      "time": "2026-05-28 01:02:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 5-Year Note Auction Accepted at High (May.27) | actual 75.22% | previous 61.04%"
+    },
+    {
+      "id": "mkt:019e6a62-d9ac-7223-8ed7-3b6972b9065b",
+      "time": "2026-05-28 01:02:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 5-Year Note Auction High Yield Rate (May.27) | actual 4.182% | previous 3.96%"
+    },
+    {
+      "id": "4903042",
+      "time": "2026-05-28 01:01:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：汽油價格會像以前一樣下降。"
+    },
+    {
+      "id": "mkt:019e6a62-3c47-7223-8ed7-312c27507bdb",
+      "time": "2026-05-28 01:01:23",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "TRUMP: Gasoline prices will fall as they did before."
+    },
+    {
+      "id": "mkt:019e6a61-ac3f-7223-8ed7-2c1fcf3a6c87",
+      "time": "2026-05-28 01:00:46",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "U.S. President TRUMP: We will release vessels from the strait at an appropriate time. Control of the strait will no longer be held by anyone."
+    },
+    {
+      "id": "mkt:019e6a61-2c5f-7223-8ed7-278af2810651",
+      "time": "2026-05-28 01:00:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TRUMP said Oman must behave, otherwise we will have to take tough measures."
+    },
+    {
+      "id": "4903041",
+      "time": "2026-05-28 01:00:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】國際銅夜盤收跌0.98%，滬銅收跌0.90%，滬鋁收跌1.24%，滬鋅收跌0.48%，滬鉛收跌0.81%，滬鎳收跌0.48%，滬錫收跌0.64%。氧化鋁夜盤收漲0.17%，鋁合金收跌1.02%。不鏽鋼夜盤收漲0.23%。"
+    },
+    {
+      "id": "4903040",
+      "time": "2026-05-28 01:00:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普表示：我們會在恰當的時候放行霍爾木茲海峽的船隻。"
+    },
+    {
+      "id": "mkt:019e6a60-9f11-7223-8ed7-1c12f06bd4e9",
+      "time": "2026-05-28 00:59:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TRUMP: Our relationship with Venezuela is very good."
+    },
+    {
+      "id": "mkt:019e6a60-6457-7223-8ed7-1388eef106bc",
+      "time": "2026-05-28 00:59:22",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "U.S. President TRUMP said the Strait of Hormuz is international waters."
+    },
+    {
+      "id": "4903039",
+      "time": "2026-05-28 00:58:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：沒人能控制霍爾木茲海峽，美國會監視它。"
+    },
+    {
+      "id": "4903038",
+      "time": "2026-05-28 00:58:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談霍爾木茲海峽控制權：這是談判的一部分。"
+    },
     {
       "id": "mkt:019e6a5f-7ee4-7223-8ed7-0f2d4e883253",
       "time": "2026-05-28 00:58:23",
@@ -133422,161 +133572,6 @@
         "US10Y"
       ],
       "text": "20-YR U.S. TREASURY BOND YIELD FLAT AFTER AUCTION, LAST AT 5.126%"
-    },
-    {
-      "id": "4891059",
-      "time": "2026-05-21 01:03:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "據伊朗國家電視臺：伊朗稱美國的威脅不會影響德黑蘭的決定。"
-    },
-    {
-      "id": "4891058",
-      "time": "2026-05-21 01:02:29",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "美國財政部拍賣160億美元20年期國債，得標利率5.122%（4月22日為4.883%），投標倍數2.55（前次為2.68）。"
-    },
-    {
-      "id": "4891057",
-      "time": "2026-05-21 01:02:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "美軍：美軍部隊完成搜查後已放行該船隻，並勒令船員調整航行路線。"
-    },
-    {
-      "id": "mkt:019e4656-5c53-7bb5-8186-3dcc0c2dafc2",
-      "time": "2026-05-21 01:02:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. MILITARY: AMERICAN FORCES RELEASED THE VESSEL AFTER SEARCHING AND DIRECTING THE SHIP’S CREW TO ALTER COURSE"
-    },
-    {
-      "id": "mkt:019e4656-5991-7bb5-8186-32fbdc9bc945",
-      "time": "2026-05-21 01:02:04",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 20-Year Bond Auction Bid/Cover Ratio (May.20) | actual 2.55 | previous 2.68"
-    },
-    {
-      "id": "mkt:019e4656-5951-7bb5-8186-2a0aa43fa4a4",
-      "time": "2026-05-21 01:02:04",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 20-Year Bond Auction Accepted at High (May.20) | actual 1.67% | previous 56.28%"
-    },
-    {
-      "id": "mkt:019e4656-5949-7bb5-8186-23b7f797dbda",
-      "time": "2026-05-21 01:02:04",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 20-Year Bond Auction High Yield Rate (May.20) | actual 5.122% | previous 4.88%"
-    },
-    {
-      "id": "4891056",
-      "time": "2026-05-21 01:01:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "美軍：這艘懸掛伊朗國旗的商用油輪涉嫌企圖違反美國封鎖禁令。"
-    },
-    {
-      "id": "te:markets:552396",
-      "time": "2026-05-21 01:01:46",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "US 10-Year Yield Pulls Back — The yield on the 10-year US Treasury note fell to 4.60% on Wednesday from the 16-month high of 4.7% in the previous session as Washington signaled it is close to signing an agreement with Iran to end their conflict, taming pro-inflationary risks. President Trump stated the US was on the final stages of talks with Tehran, driving oil and fuel prices to retreat. The surge in energy inflation this year had already shown signs of spreading to core areas of the economy, resulting in hawkish dissents in the last Fed rate decision. Minutes from said decision are due shortly, set to unveil insights on how other FOMC members see risks of inflation rising further and whether the Fed has room for a lower balance sheet. The Fed is still expected to keep the federal funds rate unchanged for the remainder of the year, although market-implied odds of a rate hike in December currently stand at around 50%."
-    },
-    {
-      "id": "mkt:019e4655-be1d-7bb5-8186-1cf2b25afbe9",
-      "time": "2026-05-21 01:01:24",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "U.S. MILITARY: IRANIAN-FLAGGED COMMERCIAL OIL TANKER SUSPECTED OF ATTEMPTING TO VIOLATE THE U.S. BLOCKADE"
-    },
-    {
-      "id": "4891055",
-      "time": "2026-05-21 01:01:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "美軍方面訊息：美國海軍陸戰隊於週三登上一艘懸掛伊朗國旗的商用油輪。"
-    },
-    {
-      "id": "mkt:019e4655-96a3-7bb5-8186-12347e8bf210",
-      "time": "2026-05-21 01:01:12",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "U.S. MILITARY: U.S. MARINES BOARDED AN IRANIAN-FLAGGED COMMERCIAL OIL TANKER ON WEDNESDAY"
-    },
-    {
-      "id": "4891054",
-      "time": "2026-05-21 01:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【夜盤期貨收盤】國際銅夜盤收漲1.45%，滬銅收漲1.49%，滬鋁收漲0.37%，滬鋅收漲1.38%，滬鉛收漲1.06%，滬鎳收漲0.27%，滬錫收漲3.93%。氧化鋁夜盤收漲0.07%，鋁合金收漲0.24%。不鏽鋼夜盤收漲0.51%。"
-    },
-    {
-      "id": "4891053",
-      "time": "2026-05-21 01:00:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國貿易代表辦公室：歐盟還須解決聯合宣告中列明的非關稅壁壘及監管相關問題。"
-    },
-    {
-      "id": "mkt:019e4654-4c80-7bb5-8186-0c53952d56b3",
-      "time": "2026-05-21 00:59:50",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "USTR: THE EU MUST ALSO ADDRESS NON-TARIFF BARRIERS AND REGULATORY MATTERS IDENTIFIED IN THE JOINT STATEMENT"
-    },
-    {
-      "id": "mkt:019e4654-183a-7bb5-8186-03572c100211",
-      "time": "2026-05-21 00:59:36",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "USTR: U.S. WILL CONTINUE TO REVIEW CERTAIN LIMITING AMENDMENTS INCLUDED IN EU’S CURRENT LEGISLATION"
-    },
-    {
-      "id": "4891052",
-      "time": "2026-05-21 00:59:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國貿易代表辦公室：美方將持續審議歐盟現行法案中部分限制性修訂條款。"
     }
   ]
 }
