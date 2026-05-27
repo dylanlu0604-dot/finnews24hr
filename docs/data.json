@@ -1,7 +1,94 @@
 {
-  "updated": "2026-05-27 21:56:51",
-  "count": 14911,
+  "updated": "2026-05-27 22:01:03",
+  "count": 14910,
   "items": [
+    {
+      "id": "4902792",
+      "time": "2026-05-27 21:59:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：DartPoints 收購肯塔基州資料中心園區，交易條款未公開。"
+    },
+    {
+      "id": "4902791",
+      "time": "2026-05-27 21:59:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "據俄羅斯媒體27日報道，俄羅斯莫斯科州多爾戈普魯德內的一倉庫發生火災，現場升起滾滾黑煙，火災規模情況不明。（新華社）"
+    },
+    {
+      "id": "mkt:019e69ba-f9e0-7223-8ed4-120dc15222c8",
+      "time": "2026-05-27 21:58:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "【Strategist Rejects US Stock Bubble Claims, Says 'FEMO' Could Drive S&P 500 To 10,000】Ed Yardeni, senior market strategist at Yardeni Research, dismissed concerns that US stocks are in a bubble, saying the current rebound is driven by \"Fabulous Earnings Momentum\" (FEMO) rather than speculation. He said if the US economy can avoid a recession over the next few years, the S&P 500's current forward P/E of about 20–22x looks reasonable. Yardeni coined the term FEMO to distinguish the present advance from \"FOMO\" (fear of missing out), which he described as hope- and speculation-driven rather than fundamentals-driven. He conceded that outsized recent gains in some semiconductor names give the market a \"melt-up\" feel. Under a \"roaring 2020s\" scenario, he expects the S&P 500 could reach 10,000 before 2030, implying roughly a 33% rise from current levels. Year-to-date he has observed only one notable sell-off, in March, and he said another similar sell-off is unlikely before year-end. His FEMO thesis also underpins his 2026 S&P 500 target of 8,250, which ranks highest among analysts tracked by Bloomberg."
+    },
+    {
+      "id": "mkt:019e69ba-90ee-7223-8ed4-0c89ea8d0662",
+      "time": "2026-05-27 21:58:14",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "TRUMP said Russia launched two Iskander medium-range ballistic missiles at Ukraine in its latest strike."
+    },
+    {
+      "id": "4902790",
+      "time": "2026-05-27 21:58:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基在致特朗普的信中稱：俄羅斯在最新打擊中向烏克蘭發射了兩枚“榛樹”中程彈道導彈。"
+    },
+    {
+      "id": "mkt:019e69ba-7014-7223-8ed4-0107a3591563",
+      "time": "2026-05-27 21:58:06",
+      "tags": [
+        "MKT News",
+        "RTX.O",
+        "Impact bearish"
+      ],
+      "text": "TRUMP: Missile deliveries under the \"Ukraine Priority Request List\" (PURL) program have already fallen behind schedule."
+    },
+    {
+      "id": "mkt:019e69ba-3394-7223-8ed3-fd36d10986a1",
+      "time": "2026-05-27 21:57:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TRUMP: Ukraine is almost entirely dependent on the US to intercept Russian ballistic missiles."
+    },
+    {
+      "id": "4902789",
+      "time": "2026-05-27 21:57:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "美股航空股普漲，聯合大陸航空漲近7%，墨西哥航空 、阿拉斯加航空 、達美航空 、西南航空漲超4%。"
+    },
+    {
+      "id": "te:markets:554126",
+      "time": "2026-05-27 21:56:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Charles Schwab Stock Price Hits 12-month Low — Charles Schwab shares decreased to 85.56 USD, the lowest since May 2025. Over the past 4 weeks, Charles Schwab lost 5.52%, and in the last 12 months, it decreased 3.25%."
+    },
     {
       "id": "te:markets:554125",
       "time": "2026-05-27 21:55:29",
@@ -133705,99 +133792,6 @@
         "國際"
       ],
       "text": "伊朗議會議長卡利巴夫：我們必須讓敵人感到絕望，以便在談判中迫使他們接受我們人民的正當要求。"
-    },
-    {
-      "id": "4890802",
-      "time": "2026-05-20 22:00:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "ARCFIELD獲授7500萬美元后續合同，繼續參與美國海軍作戰控制系統專案。"
-    },
-    {
-      "id": "4890801",
-      "time": "2026-05-20 22:00:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "三星工會負責人：一小時內將在官網公佈初步協議詳細內容。"
-    },
-    {
-      "id": "4890800",
-      "time": "2026-05-20 22:00:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "官方通報福建漳州“泡藥楊梅”事件，5人被刑拘，540公斤問題楊梅被追回。（新華社）"
-    },
-    {
-      "id": "mkt:019e45af-aad9-7cc9-95e1-1d45f332bec8",
-      "time": "2026-05-20 22:00:00",
-      "tags": [
-        "MKT News",
-        "005930.KS",
-        "Impact bullish"
-      ],
-      "text": "SAMSUNG UNION LEADER: TO DISCLOSE DETAILS OF TENTATIVE DEAL ON WEBSITE IN ONE HOUR"
-    },
-    {
-      "id": "te:markets:552344",
-      "time": "2026-05-20 21:58:26",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Gains on Easing Oil Prices — The S&P/TSX Composite Index gained 0.5% on Wednesday as progress in US-Iran negotiations helped offset lingering inflation concerns that continued to keep bond yields elevated. In the latest diplomatic effort, Pakistan’s interior minister arrived in Tehran, with Pakistan acting as a mediator after hosting peace talks last month. Oil prices retreated, although they remained above $100 per barrel. Canada’s April inflation data released yesterday came in below forecasts despite higher energy costs pushing headline inflation higher. The recent pullback in oil prices eased some pressure on banking stocks and the broader index, with TD Bank and BMO both gaining more than 0.5%. Meanwhile, gold prices edged higher, supporting mining shares, with Barrick and Wheaton Precious Metals both rising over 0.5%. Investors also awaited Nvidia’s earnings results later in the day, which were expected to influence sentiment toward Canadian tech stocks. Shopify fell 1%, while Constellation Software lost 3%."
-    },
-    {
-      "id": "4890799",
-      "time": "2026-05-20 21:58:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "荷蘭 FNV 工會宣佈將於 6 月 24 日舉行公共交通行業罷工。"
-    },
-    {
-      "id": "te:markets:552343",
-      "time": "2026-05-20 21:57:46",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Cocoa Futures at Near 3-Week Low — Cocoa futures traded around $3,800 per tonne, holding close to the lowest since early May, amid improved production prospects in top grower Ivory Coast and still weak global demand. On May 14, the country raised its cocoa delivery estimate to between 2.1 and 2.2 MMT for the 2025/26 season, up from a previous projection of 1.8-1.9 MMT, citing favorable weather. At the same time, the latest data showed ICE cocoa inventories rose to a 1.75-year high of 2,668,548 bags, indicating ample availability in the short term. However, fertilizer shortages and climate risks, including a potential El Niño event, continue to cloud the outlook for West African production. Concerns also persisted over unsold stockpiles in the Ivory Coast, as farmers remain unpaid for beans sold during the main crop, fuelling protests and discouragement that could weigh on the next harvest."
-    },
-    {
-      "id": "4890798",
-      "time": "2026-05-20 21:57:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "法國外長：法國就加沙船隊人員遭對待一事召見以色列大使。"
-    },
-    {
-      "id": "4890797",
-      "time": "2026-05-20 21:57:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：義大利聯合聖保羅銀行正競標收購西班牙私人銀行辛格拉。"
-    },
-    {
-      "id": "te:markets:552342",
-      "time": "2026-05-20 21:57:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Dollar Near 6-Week Highs — The dollar index was little changed at 99.4 on Wednesday, hovering close to high levels not seen since early April, supported by concerns about rising inflation and high interest rates. The Strait of Hormuz remains largely closed, keeping oil prices roughly 50% above pre-war levels and fueling concerns over sustained inflationary pressures. Higher energy costs are expected to continue to add upward pressure to consumer prices, likely forcing central banks to maintain tighter monetary policy or even resume interest rate hikes, while also complicating fiscal conditions. The Fed is still expected to keep the federal funds rate unchanged for the remainder of the year, although market-implied odds of a rate hike in December currently stand at around 50%. Investors are now awaiting the release of the latest FOMC minutes later in the day for further insight into policymakers’ outlook on inflation and interest rates. The greenback was little changed against major currencies"
     }
   ]
 }
