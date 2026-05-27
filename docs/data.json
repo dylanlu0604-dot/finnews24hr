@@ -1,7 +1,73 @@
 {
-  "updated": "2026-05-27 19:06:17",
-  "count": 15002,
+  "updated": "2026-05-27 19:10:09",
+  "count": 14998,
   "items": [
+    {
+      "id": "4902453",
+      "time": "2026-05-27 19:08:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "玻利維亞總統廢除了簡化緊急狀態宣佈程式的法律。"
+    },
+    {
+      "id": "4902452",
+      "time": "2026-05-27 19:07:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國泰集團與空中客車簽署確認訂單，增購兩架A350F貨機】5月27日，據空中客車訊息，國泰集團與空中客車簽署確認訂單，增購兩架A350F貨機，該筆訂單將使該公司訂購的這款新一代貨機總數達到8架。未來，A350F貨機將由該公司旗下的貨運部門國泰貨運（Cathay Cargo）運營。"
+    },
+    {
+      "id": "mkt:019e691e-5271-7223-8ed1-789352391176",
+      "time": "2026-05-27 19:07:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Indian government: US delegation visit aims to finalise temporary agreement details and advance talks on broader bilateral trade deal"
+    },
+    {
+      "id": "4902451",
+      "time": "2026-05-27 19:07:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天津市與宇樹科技簽署戰略合作框架協議，陳敏爾張工與王興興一行座談並見證簽約】5月27日，天津市人民政府與宇樹科技股份有限公司簽署戰略合作框架協議。市委書記陳敏爾，市委副書記、市長張工與宇樹科技創始人、董事長王興興一行座談並見證簽約。 陳敏爾、張工代表市委、市政府對王興興一行來津出席2026世界智慧產業博覽會並深化合作表示歡迎。"
+    },
+    {
+      "id": "4902450",
+      "time": "2026-05-27 19:06:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度政府：已提議美國代表團來訪，以敲定臨時協議的細節，並推進更廣泛雙邊貿易協定框架下的談判。"
+    },
+    {
+      "id": "4902449",
+      "time": "2026-05-27 19:06:30",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【*ST美麗：股價異常波動 目前經營正常且無應披露未披露事項】*ST美麗公告稱，公司股票於2026年5月25日-5月27日連續三個交易日收盤價格跌幅偏離值累計超12%，屬異常波動。經自查，公司未發現公共媒體報道可能影響股價的未公開重大資訊，目前經營正常，無應披露而未披露事項，董事及高管在此期間無買賣公司股票情況。此外，公司庭外重組工作正在推進，2025年度營收6.34億元，淨虧損3456.44萬元；2026年一季度營收1.06億元，淨利潤2707.12萬元。"
+    },
+    {
+      "id": "4902448",
+      "time": "2026-05-27 19:06:17",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【新潔能：股票交易異常波動 扣非淨利潤連續下滑】新潔能公告稱，公司股票於2026年5月25 - 27日連續三個交易日內收盤價格漲幅偏離值累計超20%，屬異常波動。經自查，公司生產經營正常，無應披露未披露重大事項。2025年度扣非淨利潤3.48億元，同比降14.12%；2026年一季度扣非淨利潤0.89億元，同比降14.84%。3個交易日累計換手率31.61%，截至5月27日，收盤價68.70元/股，滾動市盈率75.11倍，高於行業平均。公司提醒投資者注意風險。"
+    },
+    {
+      "id": "mkt:019e691c-f13d-7223-8ed1-7046aaddf188",
+      "time": "2026-05-27 19:06:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Indian government: US delegation to discuss bilateral trade agreement in Delhi June 1-4, 2026"
+    },
     {
       "id": "4902447",
       "time": "2026-05-27 19:05:40",
@@ -9,6 +75,14 @@
         "國際"
       ],
       "text": "印度政府：美國代表團將於2026年6月1日至4日在德里訪問，就雙邊貿易協定展開磋商。"
+    },
+    {
+      "id": "4902446",
+      "time": "2026-05-27 19:05:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中央軍委印發《關於加強軍隊高階幹部教育管理監督的若干措施》】中央軍委日前印發《關於加強軍隊高階幹部教育管理監督的若干措施》（以下簡稱《若干措施》）。《若干措施》堅持以習近平新時代中國特色社會主義思想為指導，深入貫徹習近平強軍思想，全面貫徹新時代政治建軍方略，總結運用新時代全面從嚴治黨、全面從嚴治軍的實踐經驗和制度成果，落實開展思想整風、深化政治整訓部署要求，切實立起從嚴教育、從嚴管理、從嚴監督的鐵規矩。（新華社）"
     },
     {
       "id": "4902445",
@@ -134280,123 +134354,6 @@
         "其他"
       ],
       "text": "【今天降雨覆蓋華南至華東多地 今明廣西廣東等地暴雨大暴雨持續】強降雨還未結束，今天夜間到明天，廣西、廣東等地部分地區降雨較強，暴雨、大暴雨仍線上。預計，湖南南部、江西中南部、福建西部、廣西中北部和東南部、廣東北部和西南部以及陝西西部等地部分地區有大到暴雨，其中，廣西東北部和東南部、廣東北部和西南部等地部分地區有大暴雨。（央視新聞）"
-    },
-    {
-      "id": "4890342",
-      "time": "2026-05-20 19:09:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "【擎天租完成A輪及A+輪數億元融資】5月20日，擎天租宣佈，已於近期完成A輪及A+輪融資，融資金額達數億元。本輪融資完成後，擎天租估值達到70億元，正式躋身獨角獸企業行列。與上一階段主要圍繞文旅、商演、展會、商業營銷等展示型和互動型場景不同，本輪融資後，擎天租將進一步把業務重心推向更高頻、更剛需的產業場景。擎天租方面表示，本輪融資將重點用於RaaS（Robot as a Service，機器人即服務）體系建設和工業等場景拓展，推動機器人從“活動現場用起來”，進入工業製造、園區運營、倉儲物流、商業服務等更接近生產與運營一線的真實場景。"
-    },
-    {
-      "id": "4890341",
-      "time": "2026-05-20 19:09:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "【*ST新研：申請撤銷股票退市風險警示處於補充材料階段】*ST新研公告稱，公司已向深交所提交撤銷股票交易退市風險警示的申請，截至公告披露日，該申請處於補充材料階段，補充材料期間不計入深交所作出有關決定的期限。申請最終能否獲深交所核准尚不確定，公司將及時披露進展，提醒投資者注意風險。"
-    },
-    {
-      "id": "4890340",
-      "time": "2026-05-20 19:09:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "【德龍匯能：陽新燃氣與夢潤科技簽署《加油站合作經營協議》】德龍匯能公告，公司於2026年5月20日召開董事會，審議透過了子公司陽新燃氣與湖北省夢潤科技有限公司簽署《加油站合作經營協議》的議案。陽新燃氣將向夢潤科技出租現有加油站建設場地及部分營業用房，由夢潤科技負責投資和建設。加油站承包經營期限為12年，陽新燃氣年度固定收益不低於81萬元（含稅），自第二承包經營年度起，還可按該年度營業收入的5%獲得收益分成。"
-    },
-    {
-      "id": "4890339",
-      "time": "2026-05-20 19:08:36",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【莫迪送糖引爆“烏龍行情” 印度一隻股票意外大漲】印度總理納倫德拉·莫迪送給義大利總理梅洛尼的一包焦糖太妃糖，週三意外推動一家小型軟體公司的股價大漲。Parle Industries Ltd股價上漲5%，創下兩個月來最大漲幅。原因似乎是投資者誤將該公司當成了Parle Products Pvt，後者是印度Melody糖果及知名Parle-G餅乾生產商。這場“烏龍”源於梅洛尼釋出的一段影片。影片中，莫迪送給她一包Melody糖果，也讓長期流傳於社交媒體上的“Melodi”梗再次走紅。“Melodi”一詞由Modi和Meloni兩人的名字組合而成。"
-    },
-    {
-      "id": "mkt:019e4512-56fc-7cc9-95de-90969ec7d3f5",
-      "time": "2026-05-20 19:08:10",
-      "tags": [
-        "MKT News",
-        "GBPUSD"
-      ],
-      "text": "【UK Extends Fuel Duty Freeze, Scraps Planned 5p Rise】UK Prime Minister Keir Starmer said the government will extend the freeze on fuel duty for the rest of the year, cancelling a planned 5p increase scheduled for September. “We are backing drivers by extending the freeze in fuel duty for the rest of the year,” Starmer told MPs. He added: “We’re now extending the freeze because of events in the Middle East.” The decision maintains the current fuel duty level amid ongoing geopolitical tensions affecting energy markets and household cost pressures."
-    },
-    {
-      "id": "4890338",
-      "time": "2026-05-20 19:07:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "瑞幸咖啡宣佈董事會人事變動。"
-    },
-    {
-      "id": "4890337",
-      "time": "2026-05-20 19:07:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【德方奈米：擬與曲靖市沾益區人民政府簽訂《德方奈米鋰電新材料一體化專案投資協議》】德方奈米：擬與曲靖市沾益區人民政府簽訂《德方奈米鋰電新材料一體化專案投資協議》，公司擬在曲靖高新技術產業開發區投資新建“德方奈米鋰電新材料一體化專案”，專案主要建設20萬噸/年磷酸鹽新材料生產線，配套建設消防、環保、研發、辦公等公輔設施，專案預計總投資約人民幣24億元。"
-    },
-    {
-      "id": "te:economy:552307",
-      "time": "2026-05-20 19:07:20",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Mortgage Rate",
-        "Importance 2"
-      ],
-      "text": "Mortgage Rates in the US Continue to Rise: MBA — The average US 30-year fixed mortgage rate for conforming loans of $806,500 or less jumped by 10bps to 6.56% in the week ending May 15th, 2026, from 6.46% the previous period and reaching its highest level in seven weeks, according to the Mortgage Bankers Association’s Weekly Mortgage Applications Survey. Mortgage rates went up for a fourth consecutive week, tracking Treasury yields higher amid “ongoing concerns around inflation from higher fuel costs combined with rising concerns over global public debt” said Joel Kan, an MBA economist. As a result, mortgage applications declined 2.3%, reversing a 1.7% rise in the previous period, with applications to purchase a home slumping 4.1% and those to refinance a home loan edging down 0.1%. “Overall applications were down to the lowest level in five weeks as purchase borrowers pulled back across conventional and government loan types,” added Kan."
-    },
-    {
-      "id": "4890336",
-      "time": "2026-05-20 19:07:10",
-      "tags": [
-        "公司",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【凱投宏觀：伊朗衝突對歐元區造成的通脹衝擊料將擴大】凱投宏觀的Jack Allen-Reynolds表示，源於中東衝突的歐元區通脹效應可能很快就會擴大。他在一份報告中表示：“在石油市場接近臨界點之際，通脹的上行風險正在上升。”Allen-Reynolds說，儘管到目前為止電力和天然氣價格的漲幅有限，但這些行業公司的銷售價格預期已經上升。與此同時，受能源和化肥成本上升的推動，下半年食品通脹可能會加劇。他指出：“我們將這份最新報告中強調的所有關係定性為能源價格上漲的‘間接’影響，而不是歐洲央行決策者會更擔心的‘第二輪’效應。”"
-    },
-    {
-      "id": "4890335",
-      "time": "2026-05-20 19:06:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國首相斯塔默：這絕不是要放鬆現有任何制裁的問題。"
-    },
-    {
-      "id": "4890334",
-      "time": "2026-05-20 19:06:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "MEDLINE 股東遞交申請，擬發售 6000 萬股股份。"
-    },
-    {
-      "id": "mkt:019e4511-1b1a-7cc9-95de-8aa12c89c661",
-      "time": "2026-05-20 19:06:32",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "UK PM STARMER: ON SANCTIONS ON RUSSIAN OIL, TARGETED SHORT TERM SANCTIONS ARE TO PHASE THE NEW SANCTIONS IN AND PROTECT CONSUMERS"
-    },
-    {
-      "id": "4890333",
-      "time": "2026-05-20 19:06:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國首相斯塔默：分階段實施定向短期新制裁，目的在於保護消費者。"
     }
   ]
 }
