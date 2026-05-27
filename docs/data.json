@@ -1,7 +1,468 @@
 {
-  "updated": "2026-05-27 14:22:54",
-  "count": 15112,
+  "updated": "2026-05-27 14:42:31",
+  "count": 15102,
   "items": [
+    {
+      "id": "mkt:019e682a-e35b-700e-adbd-fe0babede3a6",
+      "time": "2026-05-27 14:41:39",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Fed's KASHKARI says US inf risk currently higher than labor-market deterioration risk; both must be monitored"
+    },
+    {
+      "id": "mkt:019e682a-932e-700e-adbd-f3a9bbdceb7d",
+      "time": "2026-05-27 14:41:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "KASHKARI says Fed should maintain neutral policy outlook"
+    },
+    {
+      "id": "4901834",
+      "time": "2026-05-27 14:41:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超3萬億元，較上日此時縮量95億元。"
+    },
+    {
+      "id": "mkt:019e682a-531d-700e-adbd-edfdf945b2cb",
+      "time": "2026-05-27 14:41:01",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "KASHKARI says too early to predict timing of next Fed action when asked about market pricing for an October rate hike"
+    },
+    {
+      "id": "4901833",
+      "time": "2026-05-27 14:40:39",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲卡什卡利（在被問及市場押注美聯儲10月加息一事時）表示，現在就預測美聯儲下次行動的時機還為時過早。"
+    },
+    {
+      "id": "4901832",
+      "time": "2026-05-27 14:40:28",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲卡什卡利：對全球通脹逐步傳導至債券市場感到擔憂。"
+    },
+    {
+      "id": "4901831",
+      "time": "2026-05-27 14:40:23",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲卡什卡利：美聯儲未來應保持中性政策立場。"
+    },
+    {
+      "id": "mkt:019e6829-a11c-700e-adbd-e4df53dc5788",
+      "time": "2026-05-27 14:40:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Poland PM TUSK Says Poland-UK Treaty Should Focus on Defense Against Russia】Poland PM TUSK says Poland-UK treaty should focus on defense against Russia"
+    },
+    {
+      "id": "4901830",
+      "time": "2026-05-27 14:40:15",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲卡什卡利：中東戰爭引發的全球通脹衝擊波可能持續。"
+    },
+    {
+      "id": "mkt:019e6829-947d-700e-adbd-dad5e5bafa8f",
+      "time": "2026-05-27 14:40:15",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【IRGC Official Rejects US Pressure, Warns of Retaliation Over Hormuz Claims】Iran IRGC Navy official says U.S. failed to reopen Strait of Hormuz after blockade, says Tehran rejects U.S. \"threat language\" and warns of \"severe retaliation\" against hostile forces."
+    },
+    {
+      "id": "4901829",
+      "time": "2026-05-27 14:40:05",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲卡什卡利：自我4月投下反對票以來，美國公佈的大多數經濟資料都顯示，通脹風險正在上升，而非下降。"
+    },
+    {
+      "id": "mkt:019e6829-616e-700e-adbd-d70dd4bd5f1d",
+      "time": "2026-05-27 14:40:02",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "TTE.PA"
+      ],
+      "text": "France's economy and finance minister welcomes TotalEnergies' move to keep fuel prices stable in June"
+    },
+    {
+      "id": "te:economy:553971",
+      "time": "2026-05-27 14:40:01",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "China 10Y Bond Yield Hits 4-week Low — China 10 Year Government Bond Yield decreased to 1.74%, the lowest since April 2026. Over the past 4 weeks, China 10Y Bond Yield lost 2.50 basis points, and in the last 12 months, it increased 2.80 basis points."
+    },
+    {
+      "id": "mkt:019e6828-bc7e-700e-adbd-ccd78dc85f76",
+      "time": "2026-05-27 14:39:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Polish PM TUSK says Poland wants to raise Poland-UK ties to highest possible level, focus on defence"
+    },
+    {
+      "id": "mkt:019e6828-7a3c-700e-adbd-c6e57c45954d",
+      "time": "2026-05-27 14:39:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Harmony Intelligent Mobility Alliance Deliveries Reach 1.39 Million, Richard Yu Says】Huawei executive Richard Yu says Harmony Intelligent Mobility Alliance cumulative vehicle deliveries reached 1.39 mln units; 2026 deliveries total 190,000 units, up 27% YoY."
+    },
+    {
+      "id": "4901828",
+      "time": "2026-05-27 14:38:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "波蘭總理圖斯克：波英條約的制定應聚焦於對俄防禦。"
+    },
+    {
+      "id": "4901827",
+      "time": "2026-05-27 14:37:24",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【三星、海力士槓桿ETF上市首日 投資者培訓網站伺服器被擠癱瘓】27日，三星電子和SK海力士的個股槓桿產品在韓國首次上市，金融投資教育院的伺服器伴隨著投資熱潮陷入癱瘓。由於投資者蜂擁完成產品交易所需的強制培訓，該網站首頁實際上已經“崩了”。與此同時，個股槓桿產品漲幅約20%。 據韓國金融投資協會金融投資教育院訊息，當天下午2點網站使用者數激增，伺服器無法訪問。 早盤開盤前，上午8點前已出現連線延遲，之後網站徹底無法訪問。前一天，同時線上使用者數接近9000人，導致連線暫時中斷。 韓國金融投資協會一位相關人士解釋說：“從早上開始，同時線上使用者數就達到了6000至7000人的水平，導致連線延遲。”"
+    },
+    {
+      "id": "4901826",
+      "time": "2026-05-27 14:36:44",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗伊斯蘭革命衛隊海軍稱將對“侵略者”實施嚴厲報復】當地時間27日，伊朗伊斯蘭革命衛隊海軍政治副主任表示，美國試圖以威脅和施壓方式同伊朗打交道，但伊朗人民不會接受“威脅語言”。他稱，在所謂“後戰爭時期”，伊朗已向世界展示了新的國家形象，事實證明“敵人並不像其宣傳的那樣強大”。該官員還表示，美國在“重新開放霍爾木茲海峽”問題上遭遇“戰略失敗”。他稱，美方曾聲稱能夠恢復霍爾木茲海峽通航，但在海峽被封鎖後，“未能實現目標”。此外，該官員稱，伊朗武裝部隊已做好準備，並警告稱“從恰巴哈爾到馬赫沙赫爾都將成為侵略者的墳場”，還表示將對“敵對勢力”實施“嚴厲報復”。（央視新聞）"
+    },
+    {
+      "id": "4901824",
+      "time": "2026-05-27 14:36:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "波蘭總理圖斯克表示，希望將波英關係提升至儘可能最高水平，雙方合作將聚焦防務領域。"
+    },
+    {
+      "id": "4901823",
+      "time": "2026-05-27 14:36:27",
+      "tags": [
+        "宏觀",
+        "公司"
+      ],
+      "text": "法國財政部長萊斯屈爾對道達爾能源公司決定繼續在6月實施燃油價格上限舉措表示歡迎。"
+    },
+    {
+      "id": "4901822",
+      "time": "2026-05-27 14:35:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【鴻蒙智行累計交付139萬輛車】在今日舉行的鴻蒙智行釋出會上，華為終端BG董事長餘承東透露，截至目前，鴻蒙智行累計交付139萬輛車，2026年累計交付19萬輛，同比增長27%。"
+    },
+    {
+      "id": "4901820",
+      "time": "2026-05-27 14:35:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "【大族數控股價創歷史新高】大族數控盤中股價創歷史新高，現漲4.96%，報299.50元，總市值為1352.80億元。"
+    },
+    {
+      "id": "4901819",
+      "time": "2026-05-27 14:35:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍：以色列空軍戰機偵測到一架飛行中的無人機。該無人機落地後，一名真主黨人員試圖取回裝置。以軍戰機迅速採取防禦行動，發動打擊並將其擊斃。"
+    },
+    {
+      "id": "4901818",
+      "time": "2026-05-27 14:34:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【“洪迪厄斯”號波蘭籍船長回國後開始隔離】據波蘭方面訊息，26日，出現漢坦病毒疫情的“洪迪厄斯”號郵輪波蘭籍船長已在波蘭開始隔離，將隔離至6月21日。波蘭國家公共衛生研究所對他進行了檢測，檢測結果仍為陰性。此前，他已接受了三次檢測，結果均為陰性。目前，也沒有出現任何感染症狀。（央視新聞）"
+    },
+    {
+      "id": "4901817",
+      "time": "2026-05-27 14:33:34",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "SK海力士股價收盤上漲9.31%，創史上最高收盤價。"
+    },
+    {
+      "id": "4901816",
+      "time": "2026-05-27 14:33:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中貝通訊等成立新公司，含智慧機器人業務】企查查APP顯示，近日，北京礦智雲科資訊科技有限公司成立，經營範圍包含：礦山機械銷售；機械裝置銷售；智慧機器人銷售；工業機器人銷售等。企查查股權穿透顯示，該公司由中貝通訊等共同持股。"
+    },
+    {
+      "id": "4901815",
+      "time": "2026-05-27 14:33:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【海協會第四屆理事會第四次會議在京召開】海峽兩岸關係協會第四屆理事會第四次會議27日在京召開。會議圍繞落實黨中央對臺工作決策部署，分析當前臺海形勢，總結一年來海協會工作並對下一階段工作作出規劃。 會議要求，面對複雜嚴峻的臺海形勢，海協會要深入學習貫徹習近平總書記關於對臺工作的重要論述和新時代黨解決臺灣問題的總體方略，堅持實幹為要，發揚鬥爭精神，積極有力發揮職能作用，以正確政績觀引領各項工作取得實效，為實現民族復興和祖國統一貢獻更大力量。（新華社）"
+    },
+    {
+      "id": "4901814",
+      "time": "2026-05-27 14:32:54",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "三星電子股價收盤上漲2.68%，創歷史最高收盤價。"
+    },
+    {
+      "id": "mkt:019e6822-7cb1-700e-adbd-b8925194159e",
+      "time": "2026-05-27 14:32:31",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【South Korean Stocks Rally; KOSPI Closes Up 2.25%】KOSPI closed May 27 in Seoul up 181.19 pts, +2.25%, at 8228.7."
+    },
+    {
+      "id": "4901813",
+      "time": "2026-05-27 14:32:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【應急管理大學劉德權教授到訪曠視 共探AI+安全生產落地實踐】據曠視訊息，近日，應急管理大學劉德權教授一行到曠視參觀交流。雙方圍繞“AI如何深度應用安全生產隱患排查”的主題，深入探討了AI及曠視的技術在消防、礦山、煙花爆竹等高危行業的智慧化應用前景。"
+    },
+    {
+      "id": "4901812",
+      "time": "2026-05-27 14:32:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度國家證券交易所（NSE）與SUFI簽署諒解備忘錄，雙方將開展合作，共同開發印度鋼鐵及大宗商品衍生品生態體系。"
+    },
+    {
+      "id": "4901811",
+      "time": "2026-05-27 14:31:36",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【深科技回應股價“搶跑”質疑：一直有擴產計劃，不是突然放出來的利好訊息】5月27日，深科技開盤逼近漲停後回落，此前其公告子公司擬14.7億元擴充高階儲存晶片封測產能。公告前一日尾盤股價異動引發“訊息洩露”猜測，公司回應稱擴產計劃已釋放三四個月，且26日儲存板塊整體上漲，公司漲幅剋制。當前儲存產業景氣，但行業週期性強，深科技擴產或面臨產能過剩風險，且資金壓力增大。 對此，5月27日上午，記者致電深科技證券部，相關工作人員回應稱：“對於擴產計劃，公司已持續（釋放）三四個月的時間，擴產是一直有計劃的，不是突然放出來的利好訊息。”  （每經）"
+    },
+    {
+      "id": "4901810",
+      "time": "2026-05-27 14:31:25",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【日韓股市集體收漲】日經225指數收漲0.01%，報64999.41點。韓國綜指收漲2.25%，報8228.70點，創下歷史最高收盤點位。"
+    },
+    {
+      "id": "4901809",
+      "time": "2026-05-27 14:31:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀失守75美元/盎司，日內跌2.13%。"
+    },
+    {
+      "id": "4901808",
+      "time": "2026-05-27 14:31:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌2%，現報75.06美元/盎司。"
+    },
+    {
+      "id": "4901807",
+      "time": "2026-05-27 14:30:53",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "ST得潤盤中跌停，上演“天地板”，現報7.51元，成交額9.27億元。"
+    },
+    {
+      "id": "4901806",
+      "time": "2026-05-27 14:30:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外媒緊盯華為：這份破局方案讓美國坐不住了】華為此次釋出的“韜定律”，在全球引發了熱議，美媒甚至預測，韜定律如果能夠得到大規模應用，將會對全球晶片生態系統產生深遠影響。《華爾街日報》則形容，華為25日公佈的是一份“中國晶片破局方案”。美媒稱，如果華為能夠採用新技術大規模生產高階晶片，將顛覆業內普遍存在的一種觀念，即“製造頂級晶片必須依賴先進製程技術和機器”。這將為中國與美國展開科技競爭掃除一大障礙。（央視網）"
+    },
+    {
+      "id": "mkt:019e6820-f511-700e-adbd-b7620a42501f",
+      "time": "2026-05-27 14:30:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225"
+      ],
+      "text": "JAPAN'S NIKKEI INDEX May 27 (Wed) close up 3.32 pts, +0.01% at 64,999.41"
+    },
+    {
+      "id": "te:markets:553970",
+      "time": "2026-05-27 14:30:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Nikkei 225 Index Closes 0.51% Higher — The Nikkei 225 Index went up by 330 points or 0.51 percent on Wednesday to close at 65326 points. The rise was led by Shin-etsu Chemical (5.20%), Konami (5.15%) and Screen Holdings (4.67%). On the downside, the weakerst performers were Furukawa Electric (-7.37%), Softbank (-6.87%) and Sumitomo Realty & Development (-6.17%)."
+    },
+    {
+      "id": "4901805",
+      "time": "2026-05-27 14:29:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【5月27日：“農產品批發價格200指數”比昨天上升0.02個點】據農業農村部監測，5月27日“農產品批發價格200指數”為113.24，比昨天上升0.02個點，“菜籃子”產品批發價格指數為113.31，比昨天上升0.03個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為14.75元/公斤，比昨天下降0.7%；牛肉66.40元/公斤，比昨天下降0.5%；羊肉63.82元/公斤，比昨天下降0.1%；雞蛋9.66元/公斤，比昨天下降0.7%；白條雞17.04元/公斤，比昨天下降0.5%。重點監測的28種蔬菜平均價格為4.14元/公斤，比昨天上升0.7%；重點監測的6種水果平均價格為7.67元/公斤，比昨天下降2.2%。鯽魚20.22元/公斤，與昨天持平；鯉魚14.94元/公斤，比昨天下降0.6%；白鰱魚10.57元/公斤，比昨天上升5.0%；大帶魚40.58元/公斤，比昨天下降2.5%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與昨天相比價格升幅前五名的是白鰱魚、花鰱魚、大蔥、蒜薹和白蘿蔔，幅度分別為5.0%、4.2%、3.2%、2.7%和2.3%；價格降幅前五名的是巨峰葡萄、大黃花魚、大帶魚、青椒和鴨梨，幅度分別為4.3%、2.7%、2.5%、2.2%和2.0%。"
+    },
+    {
+      "id": "mkt:019e681e-ece5-700e-adbd-ac11d278300e",
+      "time": "2026-05-27 14:28:37",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver down $2.00 intraday to $74.92/oz, -2.60%."
+    },
+    {
+      "id": "4901804",
+      "time": "2026-05-27 14:28:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【最高獎200萬元，山西沁水開展煤礦違法行為有獎舉報】山西晉城“沁水融媒”訊息，5月27日，為鼓勵全社會舉報煤礦安全生產領域嚴重違法行為，有效防範事故發生，沁水縣決定在全市煤礦事故隱患專項排查整治百日行動期間，開展煤礦安全專項有獎舉報活動。沁水縣應急管理局釋出了沁水縣煤礦安全違法行為舉報獎勵公告。舉報內容包括，各煤礦安全生產領域存在的可能造成人員傷亡或者重大財產損失的違法行為，具體包括隱蔽工作面、監控系統造假、違規轉包分包、下井人員不帶定位卡、兩個“四位一體”綜合防突措施不到位等。根據舉報資訊，經核查屬實後對舉報人給予獎勵：存在隱蔽工作面的獎勵200萬元；監控系統造假的獎勵50萬元；違規轉包分包的獎勵50萬元；下井人員不帶定位卡的獎勵30萬元；兩個“四位一體”綜合防突措施執行不到位的獎勵50萬元。(澎湃新聞)"
+    },
+    {
+      "id": "4901803",
+      "time": "2026-05-27 14:28:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度航空發言人：（航班）調整是受高油價對整體運營造成的持續影響驅動。"
+    },
+    {
+      "id": "4901802",
+      "time": "2026-05-27 14:27:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度航空發言人表示：已於2026年6月至8月期間對部分國內航線的運營進行臨時調整，削減了部分選定航線的航班頻率。"
+    },
+    {
+      "id": "4901801",
+      "time": "2026-05-27 14:27:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "香港交易所：證券市場市價總值於2026年4月底為48.0萬億元，較去年同期的38.8萬億元上升24%。2026年4月的平均每日成交金額為2,535億元。"
+    },
+    {
+      "id": "4901800",
+      "time": "2026-05-27 14:26:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【多點數智聯合靈心巧手成立靈美智慧】天眼查App顯示，近日，靈美智慧數核（北京）科技有限公司成立，法定代表人為張峰，註冊資本3000萬人民幣，經營範圍包括人工智慧應用軟體開發、智慧機器人銷售、智慧機器人的研發等。股東資訊顯示，該公司由多點（深圳）數字科技有限公司、靈心巧手（北京）科技股份有限公司、深圳泰億企業管理中心（有限合夥）共同持股。公開資料顯示，多點數智於2024年12月在香港交易所掛牌上市。近期，該公司在人工智慧領域連續推出多項舉措，正加速推進AI智慧體與零售場景的深度融合，此舉或寓意多點數智圍繞“AI+零售”的戰略佈局已進入實質性落地階段。"
+    },
+    {
+      "id": "4901799",
+      "time": "2026-05-27 14:25:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【天孚通訊成交額達200億元】天孚通訊成交額達200億元，現漲6.65%。"
+    },
+    {
+      "id": "4901797",
+      "time": "2026-05-27 14:23:51",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【韓國半導體產業人員成婚戀市場寵兒】韓國半導體產業近來發展勢頭強勁，其從業人員不僅收入水漲船高，還有個額外收穫——成為婚戀市場寵兒。據韓國《中央日報》26日報道，鑑於有鉅額獎金預期，婚介公司紛紛上調晶片製造巨頭的員工在婚戀市場的吸引力評分。韓國老牌婚介公司Sunoo將三星電子員工的“配偶吸引力指數”從84分提高至87分。Sunoo公司說：“這一排名歷年來幾乎不變。所以，3分增幅非常罕見。”（新華社）"
+    },
+    {
+      "id": "4901796",
+      "time": "2026-05-27 14:23:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【拉脫維亞候任總理公佈新內閣名單】拉脫維亞候任總理安德里斯·庫爾貝格斯26日公佈新內閣名單。庫爾貝格斯當天在新聞釋出會上宣佈，他已完成新內閣的組建，由政黨聯盟“聯合名單”、民族聯盟、新統一黨以及“綠黨”和農民聯盟組成的新執政聯盟也已完成施政綱領的起草工作。28日議會將對新內閣名單和施政綱領進行信任表決。（新華社）"
+    },
+    {
+      "id": "4901795",
+      "time": "2026-05-27 14:22:27",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【王毅會見阿根廷外長基爾諾】當地時間2026年5月26日，中共中央政治局委員、外交部長王毅在紐約主持聯合國安理會高階別會議期間會見阿根廷外長基爾諾。王毅歡迎基爾諾出席此次高階別會議，表示當前形勢下，聯合國作用只應加強，不能削弱，中阿應共同支援和重振聯合國，推動改革完善全球治理體系。中阿關係傳統友好，發展前景廣闊。中方願同阿方一道落實好兩國元首共識，推動中阿全面戰略伙伴關係長期穩定發展。雙方要夯實政治互信，在涉及彼此核心利益問題上相互支援。中方讚賞阿方堅持一箇中國原則。中阿經濟高度互補，雙邊貿易大幅增長且更趨平衡，雙方要持續拓展各領域務實合作。雙方要妥善管控干擾因素，中方無意搞地緣爭奪，也不要求別國選邊站隊。中阿合作不針對第三方，體現的是雙方互利共贏。"
+    },
+    {
+      "id": "4901794",
+      "time": "2026-05-27 14:22:20",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀失守75美元/盎司，日內跌2.53%。"
+    },
     {
       "id": "4901793",
       "time": "2026-05-27 14:21:58",
@@ -134719,572 +135180,6 @@
         "Important"
       ],
       "text": "CHINA'S XI: WILL CLOSELY MAINTAIN STRATEGIC COMMUNICATION AND ALL-LEVEL EXCHANGE"
-    },
-    {
-      "id": "4889617",
-      "time": "2026-05-20 14:42:19",
-      "tags": [
-        "行業",
-        "公司",
-        "焦點"
-      ],
-      "text": "【保險資管新規來了！“四個支柱”監管要求出爐】金融監管總局資管司明確對保險資管公司的監管導向和監管重點。“主要是圍繞著‘四個支柱、四專案標、16項核心要素’提出的監管要求。”一位保險資管業人士稱。券商中國記者從多位業內人士瞭解到，四個支柱的監管內容涉及受託責任和投資者保護、系統性風險防範、市場效率與穩定性、金融穩定與宏觀審慎。其中，第一支柱是受託責任和投資者保護。規範保險資管公司和投資者之間的關係，主要目標是解決資訊不對稱和代理問題，重點關注的四個核心要素包括規範履職盡責、強化資訊披露、防範利益衝突、加強投資者教育。第二支柱是防範系統性風險。規範保險資管公司與金融市場之間的關係，主要目標是防止引發或放大整個金融系統的風險。重點關注控制風險敞口、清理通道業務、合法合規性審查等要素。第三支柱是市場效率和穩定性。規範保險資管與金融同業的關係，主要目標是營造公平、透明、有效的發展環境。重點包括統一監管規則、加強自律管理、規範市場秩序、強化分類監管等要素。第四支柱是金融穩定與宏觀審慎。主要規範保險資管與實體經濟、社會治理之間的關係，主要目標是管控資管機構集體行為對宏觀經濟社會穩定的影響。核心包括引導迴歸本源、強化風險防控、開展壓力測試、加強逆週期調節。(券商中國)"
-    },
-    {
-      "id": "mkt:019e441e-f322-7cc9-95da-e290ec78e81e",
-      "time": "2026-05-20 14:42:19",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "CHINA'S XI: CHINA RUSSIA RELATIONS HAVE TAKEN ON NEW STARTING POINT"
-    },
-    {
-      "id": "mkt:019e441e-e5a6-7cc9-95da-df74952b2bcb",
-      "time": "2026-05-20 14:42:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CHINA'S XI, TO THE PRESS: CHINA, RUSSIA HAVE TREATED EACH OTHER AS EQUALS, WITH MUTUAL RESPECT"
-    },
-    {
-      "id": "mkt:019e441e-cc97-7cc9-95da-d1f621244514",
-      "time": "2026-05-20 14:42:09",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "CHINA'S XI, TO THE PRESS: RELATIONS BETWEEN BOTH COUNTRIES HAVE CONTINUED TO IMPROVE, ACHIEVING THE HIGHEST LEVEL OF COMPREHENSIVE STRATEGIC PARTNERSHIP"
-    },
-    {
-      "id": "4889616",
-      "time": "2026-05-20 14:42:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "【阿里雲全面開放百鍊平臺 智譜、Minimax、Kimi等首批上架】在2026阿里雲峰會上，阿里雲宣佈百鍊平臺全面開放，與月之暗面、Minimax、智譜、階躍星辰、愛詩科技、生數科技等達成合作，GLM-5.1、MiniMax M2.7、Kimi K2.6、Pixverse-v6-it2v、Kling-v3-omni-video-generation、Vidu Q3-Pro、Tripo-H3.1、mimo-v2.5-pro等模型已上架百鍊，並透過千問雲官網全面售賣。"
-    },
-    {
-      "id": "te:economy:552163",
-      "time": "2026-05-20 14:41:17",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Denmark",
-        "GDP Growth Rate",
-        "Importance 1"
-      ],
-      "text": "Danish GDP Growth Accelerates in Q1 — Denmark’s economy expanded 1.9% quarter-on-quarter in the first quarter of 2026 from a revised 0.5% in the previous period, according to preliminary estimates. The growth was driven by a strong improvement in the manufacturing sector, particularly supported by the pharmaceutical industry. Net external demand contributed positively as both exports (3.8% vs -0.3% in Q4) and imports (0.3% vs -0.7%) recovered. Private consumption also strengthened, with household spending rising (1.2% vs 0.7%) and total private consumption increasing (1.1% vs 0.7%). In contrast, government spending declined (-3.8% vs 5.1%), as well as for fixed investment (-3.5% vs 1.2%), weighed down by other building and construction (-6.4% vs 0.2%), and machinery (-3.6% vs 6.3%). On a yearly basis, GDP grew 5.9% in Q1 from 3.1% in the preceding period, marking the highest level since Q4 2021."
-    },
-    {
-      "id": "4889615",
-      "time": "2026-05-20 14:39:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "【華工科技成交額達200億元】5月20日下午，華工科技成交額達200億元，現漲3.28%。"
-    },
-    {
-      "id": "4889614",
-      "time": "2026-05-20 14:39:37",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【英國通脹資料公佈後英鎊波動不大】英鎊波動不大，儘管資料顯示英國4月份通脹放緩幅度超出預期。4月份同比通脹率較3月份的3.3%降至2.8%，反映了政府為降低家庭能源賬單而採取的措施。接受調查的經濟學家此前預計通脹率將降至3.0%。Aberdeen經濟學家Luke Bartholomew在一份報告中表示，這將進一步減輕英國央行在短期內加息的壓力。“但就伊朗衝突對通脹的影響而言，我們肯定還沒有走出困境，“他說。英鎊平盤報1.3390美元。歐元平盤報0.8661英鎊。"
-    },
-    {
-      "id": "4889613",
-      "time": "2026-05-20 14:39:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "5月20日下午，國家主席習近平和俄羅斯總統普京將在北京人民大會堂共同出席“中俄教育年”開幕式並致辭。（新華社）"
-    },
-    {
-      "id": "mkt:019e441c-1c13-7cc9-95da-cba4ce518919",
-      "time": "2026-05-20 14:38:35",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "CHINA'S XI, PUTIN MEET PRESS"
-    },
-    {
-      "id": "4889612",
-      "time": "2026-05-20 14:38:21",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【三星勞資談判破裂 威剛董事長稱DRAM、NAND恐再掀漲價潮】三星電子的勞資談判再度宣告破裂，明天起將舉行大罷工。威剛董事長陳立白表示，倘若罷工時長拉長，或將進一步衝擊全球DRAM與NAND Flash供貨，推動行業價格上行。陳立白稱，當前三大儲存原廠2026年絕大部分產能早已提前訂滿售出，不少客戶已經開始洽談2027年及更長期的供貨合約。 (臺灣工商時報)"
-    },
-    {
-      "id": "mkt:019e441b-25c7-7cc9-95da-c2af4c1e477f",
-      "time": "2026-05-20 14:37:57",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "CHINA, RUSSIA COOPERATION DOCUMENTS INCLUDE ENERGY DEAL"
-    },
-    {
-      "id": "mkt:019e441a-d79f-7cc9-95da-b99ab13b0115",
-      "time": "2026-05-20 14:37:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CHINA, RUSSIA JOINTLY ANNOUNCE INITIATIVE TO PROMOTE MULTI-POLAR WORLD"
-    },
-    {
-      "id": "4889611",
-      "time": "2026-05-20 14:37:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "【習近平同俄羅斯總統普京共同會見記者】5月20日，國家主席習近平同俄羅斯總統普京在北京人民大會堂共同會見記者。（新華社）"
-    },
-    {
-      "id": "te:markets:552162",
-      "time": "2026-05-20 14:37:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "ASX 200 Slips 1.3% at Close — The S&P/ASX 200 dipped 108 points, or 1.3%, to finish at 8,497 on Wednesday, erasing prior gains as U.S. equity futures retreated amid renewed Middle East tensions and inflation worries. Local caution deepened after the central bank projected underlying inflation above 3% until late 2027, easing to the midpoint only by mid-2028. Still, losses were tempered by China's decision to hold key lending rates at record lows for a 12th straight month, with policymakers pledging “supportive” and “moderately loose” settings after Q1 GDP grew 5%, hitting the top of the government’s 4.5–5% target. Sector weakness was broad, led by non-energy minerals, transport, financials, and process industries. Among notable laggards were Evolution Mining (-5.2%), Brambles Ltd. (-4.8%), REA Group (-2.2%), and Origin Energy (-2.0%). The four big banks dropped between 0.7% to 2.5%. Traders now brace for Australia's PMI readings for May and April job data, set to be released on Thursday."
-    },
-    {
-      "id": "4889610",
-      "time": "2026-05-20 14:37:02",
-      "tags": [
-        "其他",
-        "焦點",
-        "國際"
-      ],
-      "text": "中俄將共同發表關於倡導世界多極化和新型國際關係的聯合宣告。(新華社)"
-    },
-    {
-      "id": "4889609",
-      "time": "2026-05-20 14:36:24",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "【美債持續攀升 亞洲股市承壓 市場關注盤後英偉達財報】全球債券市場拋售潮持續，投資者押注美聯儲今年或需加息。 基準10年期美債收益率隔夜升至4.687%，創16個月新高；30年期收益率攀升至5.198%，為2007年以來未見的水平。摩根士丹利資本國際（MSCI）除日本外亞太股指週三下跌0.7%，連續第四個交易日收低；日本日經指數跌1.5%，為連續第五日下行。 韓國綜合股價指數下跌1.7%。三星電子股價回落1.4%，此前其工會宣佈將於週四起舉行為期18天的罷工，威脅全球半導體供應鏈穩定。 IG集團分析師Tony Sycamore表示：“目前來看，在經歷一輪異常強勁的反彈後，市場出現回撥仍屬我的基本判斷。美債收益率飆升顯然在市場引發波動，如今已成為市場焦點。 “英偉達財報或許會大幅超出預期……但我對此存疑。我認為英偉達已難以像過往那樣驚豔市場、震撼全場，這類高光表現恐難再現。” 晶片巨頭英偉達將於週三美股收盤後公佈一季度財報，市場預期一如既往地極高。倫敦證券交易所集團（LSEG）分析師調查的中位預測顯示，其營收預計增長近80%，接近790億美元。"
-    },
-    {
-      "id": "mkt:019e4419-702a-7cc9-95da-b184d9313007",
-      "time": "2026-05-20 14:36:18",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "CHINA’S TAIWAN AFFAIRS OFFICE: LAI'S SPEECH TODAY IS FILLED WITH LIES AND DECEPTION, HOSTILITY AND CONFRONTATION"
-    },
-    {
-      "id": "4889608",
-      "time": "2026-05-20 14:34:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：三星與工會將於下午四點（北京時間三點）恢復談判。"
-    },
-    {
-      "id": "mkt:019e4417-dcbf-7cc9-95da-a9e281ad914a",
-      "time": "2026-05-20 14:34:34",
-      "tags": [
-        "MKT News",
-        "Important",
-        "005930.KS"
-      ],
-      "text": "SAMSUNG, UNION TALKS TO BE RESUMED AT 4 PM - MEDIA"
-    },
-    {
-      "id": "mkt:019e4417-c9a4-7cc9-95da-a61126018776",
-      "time": "2026-05-20 14:34:30",
-      "tags": [
-        "MKT News",
-        "Important",
-        "005930.KS",
-        "Impact bullish"
-      ],
-      "text": "SOUTH KOREA LABOUR MINISTRY TO MEDIATE SAMSUNG ELEC AND UNION - MEDIA"
-    },
-    {
-      "id": "4889607",
-      "time": "2026-05-20 14:34:24",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "市場訊息： 韓國勞動部長將牽頭主持三星集團與工會的談判。"
-    },
-    {
-      "id": "em:qqyh_ygyh:202605203743362056",
-      "time": "2026-05-20 14:34:06",
-      "tags": [
-        "央行",
-        "英國央行"
-      ],
-      "text": "交易員減少對英國央行加息的押注，預計2026年之前加息幅度將達到54個基點。"
-    },
-    {
-      "id": "4889606",
-      "time": "2026-05-20 14:33:44",
-      "tags": [
-        "央行",
-        "市場"
-      ],
-      "text": "英國利率期貨顯示，截至12月英國央行累計政策緊縮幅度約為52個基點，週二該預期約為60個基點。"
-    },
-    {
-      "id": "4889604",
-      "time": "2026-05-20 14:33:38",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【國務院臺辦發言人就臺灣地區領導人“5·20”講話表態】國務院臺辦發言人陳斌華20日就臺灣地區領導人“5·20”講話及答記者問中有關兩岸關係內容表示，賴清德今天的講話充斥謊言與欺騙、敵意與對抗，頑固堅持“臺獨”錯誤立場，宣揚所謂“主權獨立”“互不隸屬”謬論，渲染“大陸威脅”，升高兩岸對立對抗，蓄意“以武謀獨”“倚外謀獨”，破壞臺海和平穩定，再次坐實其是不折不扣的“兩岸和平破壞者”“臺海危機製造者”。其一邊繼續鼓吹“臺獨”分裂、操弄“反中抗中”，一邊假惺惺宣稱推動兩岸對話交流，妄圖矇蔽臺灣民眾、欺騙國際輿論。這些慣用伎倆已被越來越多臺灣民眾看穿看透，其欺騙行為和挑釁行徑必將遭到兩岸同胞和國際社會的堅決反對，註定失敗。(新華社)"
-    },
-    {
-      "id": "4889603",
-      "time": "2026-05-20 14:33:32",
-      "tags": [
-        "行業",
-        "國際",
-        "原創"
-      ],
-      "text": "【中東衝突推動歐洲電動汽車需求激增，4月銷量同比增長34%】由於中東衝突導致燃油價格高企，歐洲市場對電動汽車的需求激增。研究機構New Automotive和行業組織E-Mobility Europe分享的資料顯示，4月份歐洲新電動汽車註冊量同比增長34%。該資料涵蓋了16個市場，這些市場佔歐盟和歐洲自由貿易聯盟汽車銷量的80%以上。線上市場對全新和二手電動汽車的搜尋量也大幅增長，其中中國品牌憑藉其價格更親民的車型，搜尋量增幅尤為顯著。德國汽車交易平臺Carwow稱，其網站上比亞迪的購車諮詢量在第一季度激增25000%，而零跑汽車的諮詢量增長436%，小鵬汽車的諮詢量增長153%。"
-    },
-    {
-      "id": "4889602",
-      "time": "2026-05-20 14:32:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "微軟與比利時PROXIMUS集團深化比荷盧地區雲解決方案合作。"
-    },
-    {
-      "id": "4889601",
-      "time": "2026-05-20 14:32:46",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "集運指數歐線期貨連續主力合約日內漲7%，現報2809.00點。"
-    },
-    {
-      "id": "4889599",
-      "time": "2026-05-20 14:32:30",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "瑞典央行揚松：春季以來，更嚴峻通脹情景的風險有所上升。"
-    },
-    {
-      "id": "4889598",
-      "time": "2026-05-20 14:32:26",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "瑞典央行揚松：我當然不打算宣佈風險已經完全解除。"
-    },
-    {
-      "id": "4889597",
-      "time": "2026-05-20 14:32:21",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "交易員減少對英國央行加息的押注，預計2026年之前加息幅度將達到54個基點。"
-    },
-    {
-      "id": "4889596",
-      "time": "2026-05-20 14:32:05",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "瑞典央行揚松：我仍未放棄希望，認為（此次衝擊的）影響可能相對有限，在瑞典尤其如此。"
-    },
-    {
-      "id": "4889595",
-      "time": "2026-05-20 14:31:47",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "瑞典央行揚松：所有貨幣政策制定者都在努力探尋中東衝突後供應衝擊的影響範圍究竟有多廣。"
-    },
-    {
-      "id": "mkt:019e4415-5bcb-7cc9-95da-9f221220a477",
-      "time": "2026-05-20 14:31:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "KOSPI INDEX CLOSED DOWN 0.86%"
-    },
-    {
-      "id": "4889594",
-      "time": "2026-05-20 14:31:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "法國民主勞工聯盟：斯特蘭蒂斯將與東風汽車在雷恩工廠展開合作。"
-    },
-    {
-      "id": "mkt:019e4415-0d78-7cc9-95da-9387c00e09bd",
-      "time": "2026-05-20 14:31:30",
-      "tags": [
-        "MKT News",
-        "Nikkei 225",
-        "Impact bearish",
-        "USDJPY",
-        "S&P500"
-      ],
-      "text": "NIKKEI 225 CLOSED DOWN 1.23%"
-    },
-    {
-      "id": "te:markets:552152",
-      "time": "2026-05-20 14:31:25",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "European Stocks Set for Lower Open — European equity markets were headed for a weaker open on Wednesday, pressured by surging global bond yields amid mounting concerns about an energy-driven inflation shock. Investor sentiment was also pressured by escalating geopolitical tensions after President Donald Trump warned that the US could resume strikes on Iran within “two or three days” if Tehran failed to agree to Washington’s peace terms. Meanwhile, reports indicated that NATO is considering escorting commercial ships through the Strait of Hormuz if the key shipping route remains closed beyond early July. In Europe, fresh data showed the UK’s inflation rate eased to 2.8% in April from 3.3% in March, with price pressures partly contained by the energy price cap introduced on April 1. On the corporate side, investors will be monitoring earnings results from Experian and British Land, among others. In premarket trading, futures tied to the Euro Stoxx 50 and the Stoxx Europe 600 were down 0.5% and 0.4%, respectively."
-    },
-    {
-      "id": "mkt:019e4414-e931-7cc9-95da-880581c5fcd1",
-      "time": "2026-05-20 14:31:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "KREMLIN: THERE IS AN AGREEMENT ABOUT SOMETHING IMPORTANT ON ENERGY"
-    },
-    {
-      "id": "4889593",
-      "time": "2026-05-20 14:31:11",
-      "tags": [
-        "市場"
-      ],
-      "text": "【日韓股市集體收跌】日經225指數收跌1.23%，報59804.41點。韓國綜指收跌0.86%，報7208.95點。"
-    },
-    {
-      "id": "4889592",
-      "time": "2026-05-20 14:30:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "高市早苗：無需大規模發行債券即可獲得資金。。"
-    },
-    {
-      "id": "te:markets:552151",
-      "time": "2026-05-20 14:30:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Nikkei 225 Index Closes 1.33% Lower — The Nikkei 225 Index fell 807 points or 1.33 percent on Wednesday to close at 59744 points. Leading the losses are Okuma (-9.32%), Fujikura (-8.54%) and Mitsui Engineering & Shipbuilding (-6.55%)."
-    },
-    {
-      "id": "4889591",
-      "time": "2026-05-20 14:29:40",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【明晰主體責任 網路食品銷售新規施行】國家市場監督管理總局出臺的《網路食品銷售經營者落實食品安全主體責任監督管理規定》20日起施行。新規從平臺提供者、入網食品銷售者、監管部門三方面入手，圍繞“責任”“協同”“執法”三個關鍵詞，進一步壓緊壓實食品安全主體責任。\n\n規定要求，平臺提供者應當對入網食品銷售者進行實名登記。登記資訊包括入網食品銷售者的名稱（姓名）、統一社會信用程式碼（身份證件號碼）、實際經營地址、法定代表人或者負責人、聯絡方式、食品生產經營許可、僅銷售預包裝食品備案等。平臺提供者應當至少每六個月核驗更新一次，保證上述資訊與實際情況相符。\n\n按照規定，入網食品銷售者應當在其主頁面顯著位置，依法持續公示真實、有效的食品生產經營許可、僅銷售預包裝食品備案等資訊。入網食品銷售者銷售有溫度、溼度等特殊要求的食品，應當採取相應措施，保證貯存、運輸、配送等條件符合食品安全要求。\n\n此外，規定還強化嚴懲重處，重點加大對平臺提供者違法違規行為的處罰力度。明確違法行為發生在平臺提供者住所地以外區域的，可以由違法行為發生地的省級市場監管部門實施管轄，著力解決平臺外溢性和屬地監管侷限性的矛盾。（新華社）"
-    },
-    {
-      "id": "4889590",
-      "time": "2026-05-20 14:29:13",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "*ST高科盤中跌停，上演“天地板”，現報12.83元，成交額6.3億元。"
-    },
-    {
-      "id": "4889589",
-      "time": "2026-05-20 14:29:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國財政大臣裡夫斯：經濟增速超預期，借貸規模下降，如今通脹回落幅度也超出預想。 本屆工黨政府的經濟政策行之有效。"
-    },
-    {
-      "id": "4889588",
-      "time": "2026-05-20 14:29:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "【5月20日：“農產品批發價格200指數”比昨天下降0.23個點】據農業農村部監測，5月20日“農產品批發價格200指數”為114.14，比昨天下降0.23個點，“菜籃子”產品批發價格指數為114.40，比昨天下降0.26個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為14.79元/公斤，比昨天上升0.6%；牛肉66.65元/公斤，比昨天上升0.6%；羊肉64.04元/公斤，比昨天上升0.5%；雞蛋9.33元/公斤，比昨天上升0.4%；白條雞16.79元/公斤，比昨天下降0.8%。重點監測的28種蔬菜平均價格為4.12元/公斤，與昨天持平；重點監測的6種水果平均價格為7.76元/公斤，比昨天下降0.6%。鯽魚20.13元/公斤，與昨天持平；鯉魚14.99元/公斤，比昨天下降0.2%；白鰱魚9.93元/公斤，比昨天下降1.5%；大帶魚41.08元/公斤，比昨天上升1.6%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與昨天相比價格升幅前五名的是大蔥、菠菜、大白菜、大帶魚和香蕉，幅度分別為2.8%、2.8%、2.2%、1.6%和1.4%；價格降幅前五名的是菠蘿、菜花、南瓜、洋白菜和茄子，幅度分別為2.7%、2.3%、2.1%、1.7%和1.7%。"
-    },
-    {
-      "id": "mkt:019e4412-babf-7cc9-95da-8679ed324b1f",
-      "time": "2026-05-20 14:28:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CHINA, RUSSIA SIGN 20 COOPERATION DOCUMENTS"
-    },
-    {
-      "id": "4889587",
-      "time": "2026-05-20 14:27:05",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "日本首相高市早苗：將在儘可能限制赤字融資債券發行的同時，出臺保障民眾生命與企業經營的計劃。"
-    },
-    {
-      "id": "mkt:019e4411-c3c5-7cc9-95da-7ff2a74c2fc0",
-      "time": "2026-05-20 14:27:05",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "CHINA'S XI, PUTIN SIGN JOINT STATEMENT FOR COMPREHENSIVE STRATEGIC COORDINATION"
-    },
-    {
-      "id": "mkt:019e4411-29b8-7cc9-95da-70814ab07c9e",
-      "time": "2026-05-20 14:26:58",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "JAPAN PM TAKAICHI: PLAN TO PROTECT PEOPLE'S LIVES AND BUSINESSES WHILE CURBING ISSUANCE OF DEFICIT-FINANCING BONDS AS MUCH AS POSSIBLE"
-    },
-    {
-      "id": "mkt:019e4410-cd78-7cc9-95da-6c38d10d449f",
-      "time": "2026-05-20 14:26:52",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "KREMLIN: MANY ISSUES WERE DISCUSSED, INCLUDING ENERGY PROJECTS"
-    },
-    {
-      "id": "4889586",
-      "time": "2026-05-20 14:26:42",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "以色列航空公司表示，與伊朗衝突造成的損失總計1.45億美元，其中第一季度損失9000萬美元，第二季度損失5500萬美元。"
-    },
-    {
-      "id": "4889585",
-      "time": "2026-05-20 14:26:32",
-      "tags": [
-        "其他",
-        "焦點",
-        "國際"
-      ],
-      "text": "中俄元首簽署兩國關於進一步加強全面戰略協作、深化睦鄰友好合作的聯合宣告。（新華社）"
-    },
-    {
-      "id": "4889584",
-      "time": "2026-05-20 14:25:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "【遼寧：“十五五”時期將高水平建設東北海陸大通道 突出抓好“跨境電商＋產業帶”建設】據遼寧日報，5月20日，“開局起步‘十五五’”遼寧省專題新聞釋出會在瀋陽舉行，解讀省“十五五”規劃《綱要》，介紹經濟社會發展目標和重點任務。遼寧省委副書記、省長王新偉作主釋出並回答記者提問。王新偉指出，“十五五”時期，我們將聚力建設以先進製造業為骨幹的現代化產業體系，以“智改數轉”最佳化提升傳統產業，培育壯大新興支柱產業，加快佈局未來產業，舉全省之力發展人工智慧核心產業，促進服務業擴能提質，把農業建成現代化大產業。聚力全面提升科技創新效能，支援瀋陽渾南科技城、大連英歌石科學城、沈撫科創園集聚創新要素、強化創新策源功能，加強基礎研究，高標準建設遼寧實驗室，構建“技術創新—中試轉化—產業應用”全鏈條體系，推進科技成果在遼寧轉化為現實生產力、新質生產力。聚力擴大高水平對外開放，深度融入高質量共建“一帶一路”，高水平建設東北海陸大通道，突出抓好“跨境電商＋產業帶”建設，深入實施自貿試驗區提升戰略，全力打造對外開放新前沿。"
-    },
-    {
-      "id": "mkt:019e440f-d853-7cc9-95da-600399223ff8",
-      "time": "2026-05-20 14:25:23",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "CHINA'S XI, PUTIN AT SIGNING CEREMONY - XINHUA"
-    },
-    {
-      "id": "mkt:019e440f-8a2a-7cc9-95da-5fdf8aeee671",
-      "time": "2026-05-20 14:25:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "KREMLIN CALLS PUTIN-XI TALKS POSITIVE"
-    },
-    {
-      "id": "4889583",
-      "time": "2026-05-20 14:24:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "【習近平同俄羅斯總統普京共同出席合作檔案簽字儀式】5月20日，國家主席習近平同俄羅斯總統普京在北京人民大會堂共同出席合作檔案簽字儀式。 （新華社）"
-    },
-    {
-      "id": "4889582",
-      "time": "2026-05-20 14:24:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "高市早苗：我方嚴肅看待民進黨提出的汽油補貼相關提案。"
-    },
-    {
-      "id": "4889581",
-      "time": "2026-05-20 14:23:46",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【英偉達業績釋出在即 期權定價6.5%的漲跌波動】週三美股盤後，英偉達將公佈2027財年第一季度財報。期權市場暗示，在英偉達公佈業績後次日（即週四），其股價可能會出現約6.5%的漲跌波動，這將轉化為約3500億美元的市值震盪，這一數字超過了標普500指數中約90%單一成分股的市值。這表明市場在依舊看多該AI巨頭的同時，也急於保護既有收益。"
-    },
-    {
-      "id": "4889580",
-      "time": "2026-05-20 14:22:59",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內跌1%，現報110.12美元/桶。"
-    },
-    {
-      "id": "4889579",
-      "time": "2026-05-20 14:22:56",
-      "tags": [
-        "公司",
-        "國際",
-        "原創"
-      ],
-      "text": "【中東衝突推高油價，韓國4月純電動汽車銷量暴增】韓國產業通商資源部週三公佈的資料顯示，受中東危機的影響，韓國4月份汽車出口同比下降超過5%，其中對中東地區的出口大幅下降。但與此同時，由於中東危機導致油價上漲，韓國國內電動汽車銷量大幅增長。上月環保型汽車銷量達9.125萬輛，同比增長31%，其中純電動汽車銷量飆升139.7%，達到3.8927萬輛。在電動汽車熱潮的推動下，特斯拉4月份在韓國的銷量同比增長811.5%，達到13190輛。比亞迪的銷量也增長了272.6%，達到2023輛。"
-    },
-    {
-      "id": "4889578",
-      "time": "2026-05-20 14:22:55",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油失守103美元/桶，日內跌1.10%。"
     }
   ]
 }
