@@ -1,7 +1,85 @@
 {
-  "updated": "2026-05-28 04:57:08",
-  "count": 14854,
+  "updated": "2026-05-28 05:01:08",
+  "count": 14856,
   "items": [
+    {
+      "id": "4903208",
+      "time": "2026-05-28 04:59:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "邁威爾科技：預計未來幾個季度，TIAS 及驅動器業務季度營收年化規模將突破 10 億美元。"
+    },
+    {
+      "id": "te:markets:554182",
+      "time": "2026-05-28 04:59:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "S&P 500, Dow Close at Record Highs — US equities closed mixed on Wednesday as gains for traditional economic sectors clashed against a pullback for chip producers and AI hyperscalers. The S&P 500 gained 0.2% and the Dow jumped 220 points, both at their record highs. Iran said it has a draft for a peace agreement that would restore trade through the Persian Gulf within a month of being signed, momentarily stoking risk-on moves in before US authorities claimed the document was a complete fabrication. Meta and Amazon rebounded from early session losses and closed sharply higher. Also, Eli Lilly gained 2% and P&G surged nearly 4% to set the pace for defensive sectors. In turn, companies in the AI space trimmed gains from the week as markets assessed the sustainability of their rally, pressuring the Nasdaq 100 to a 0.2% loss. Nvidia fell 1$ and Qualcomm dropped 6%. On the other hand, Micron jumped 3.5% to extend the 19% surge from last session after being upgraded by UBS. In afterhours, Salesforce fell 2% after earnings."
+    },
+    {
+      "id": "mkt:019e6b3c-059b-722a-b522-126168df9b19",
+      "time": "2026-05-28 04:59:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBNZ Chair Bu Leiman said supply-chain issues and oil prices will have a larger-than-expected impact on the New Zealand government's budget."
+    },
+    {
+      "id": "4903207",
+      "time": "2026-05-28 04:58:46",
+      "tags": [
+        "央行"
+      ],
+      "text": "紐西蘭聯儲主席佈雷曼：供應鏈與油價的影響將大於政府預算政策的作用。"
+    },
+    {
+      "id": "mkt:019e6b3b-89f4-722a-b522-0feb452d0d0a",
+      "time": "2026-05-28 04:58:44",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "WFC.N",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "Wells Fargo (WFC.N) CEO said consumer spending has improved in recent weeks; although firms remain cautious, their financial condition is sound."
+    },
+    {
+      "id": "mkt:019e6b3a-fd4d-722a-b522-041014ad8bca",
+      "time": "2026-05-28 04:58:08",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Ebrahim Aziz, chairman of Iran's Parliament National Security Committee, said: Everyone now knows US President TRUMP, in order to escape this strategic impasse, uses threats as a tool today and begs for an agreement tomorrow."
+    },
+    {
+      "id": "4903206",
+      "time": "2026-05-28 04:57:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗議會國家安全委員會主席易卜拉欣·阿齊茲：伊朗不會因特朗普的言論施壓而退讓底線，其紅線包括：擁有鈾濃縮及相關物資的權利、掌控霍爾木茲海峽，以及解除制裁。"
+    },
+    {
+      "id": "mkt:019e6b3a-c99e-722a-b521-f946d95f036f",
+      "time": "2026-05-28 04:57:55",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iran's Parliament National Security Committee chairman Ebrahim Aziz said Iran will not yield its red lines in the face of TRUMP's rhetoric, citing the right to enrich uranium, enriched uranium itself, management of the Strait of Hormuz and the lifting of sanctions."
+    },
     {
       "id": "4903205",
       "time": "2026-05-28 04:55:08",
@@ -133137,65 +133215,6 @@
         "國際"
       ],
       "text": "SpaceX：因被指其人工智慧被用於生成非自願露骨影象，以及將兒童刻畫成性化場景的相關內容，目前正受到美國及其他國家的調查。"
-    },
-    {
-      "id": "mkt:019e4731-0dcc-7ff0-9b6b-bd0278ae4b8d",
-      "time": "2026-05-21 05:00:57",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Hot",
-        "Policy",
-        "Breaking News 24h",
-        "SPCX.O",
-        "Impact mixed"
-      ],
-      "text": "【SpaceX Files Publicly for Nasdaq IPO Under Ticker SPCX】SpaceX filed publicly for an initial public offering on Nasdaq under the ticker SPCX, advancing what could become the world’s largest-ever IPO. The company is targeting as much as $75 billion in the offering at a valuation above $2 trillion, according to people familiar with the matter, surpassing Saudi Aramco’s record $29.4 billion IPO in 2019. Led by Elon Musk, SpaceX generates revenue from rocket launches and its Starlink satellite business. Goldman Sachs and Morgan Stanley are leading the offering, with marketing expected to begin in June."
-    },
-    {
-      "id": "mkt:019e4730-9870-7ff0-9b6b-b164d65c8b16",
-      "time": "2026-05-21 05:00:27",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "South Korea | PPI (YoY) (Apr) | actual 6.9% | previous 4.10%"
-    },
-    {
-      "id": "mkt:019e4730-2eb0-7ff0-9b6b-ac01c9d78e19",
-      "time": "2026-05-21 05:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "South Korea | PPI (MoM) (Apr) | actual 2.5% | previous 1.6%"
-    },
-    {
-      "id": "4891264",
-      "time": "2026-05-21 04:59:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX：發行前馬斯克投票權為85.1%。"
-    },
-    {
-      "id": "4891263",
-      "time": "2026-05-21 04:58:38",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【英偉達第一財季銷售額達816億美元，超出預期】英偉達釋出財報，截至4月的財季，該公司銷售額達到816億美元，較上年同期增長85%，比FactSet調查的分析師預測的789億美元高出3.4%。當季淨利潤為583億美元，達到上年同期的三倍多，比分析師預測的429億美元高出36.5%。該公司曾在2月份預計利潤率為75%，與截至1月份的第四財季持平。英偉達週三公佈的毛利率正是75%，符合其自身和分析師預期。英偉達還上調了當前財季的展望，稱目前預計銷售額將達到910億美元，毛利率為75%。在盤後交易中，該公司股價基本持平。"
-    },
-    {
-      "id": "4891262",
-      "time": "2026-05-21 04:57:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX：簽署價值20億美元的渦輪機採購協議。"
     }
   ]
 }
