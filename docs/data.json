@@ -1,7 +1,36 @@
 {
-  "updated": "2026-05-28 06:46:06",
-  "count": 14835,
+  "updated": "2026-05-28 06:53:55",
+  "count": 14828,
   "items": [
+    {
+      "id": "te:markets:554192",
+      "time": "2026-05-28 06:53:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Extends Gains in Morning Trade — The NZX 50 rose 41 points, or 0.3%, to 13,269 in Thursday morning trade, extending gains from the previous session and tracking a rally in the S&P and Dow Jones on Wall Street overnight amid hopes of a US-Iran peace deal. Decelerating oil prices also lifted sentiment by easing inflation fears, as New Zealand heavily relies on imported fuel. A statement from a top central banker today that how high interest rates will go depends on how much weaker demand from higher energy costs would hold back other price increases also supported sentiment, after the RBNZ kept interest rates unchanged on Wednesday. The governor of the RBNZ, Anna Breman, told Morning Report that the official cash rate is expected to rise to 3% or 3.25% in the future. Industrials, healthcare, and tech sectors mainly drove the index, with notable gains from Mainfreight (7.4%), Gentrack Group (2.4%), South Port NZ (1.7%), Ebos Group (0.8%), Henderson Far East (0.8%), and ANZ Group (0.4%)."
+    },
+    {
+      "id": "4903266",
+      "time": "2026-05-28 06:52:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國紐約州議會在州預算中透過“第二套房稅”】美國紐約州立法者批准了一項財政收入方案，其中包括對該市昂貴的第二套房徵收一項新的附加稅，即著名的“潛規則/常備離岸住所稅（pied-à-terre tax，即非主自住房稅）”，但未包含此前一項對全現金購房徵稅的提案。該稅種預計將於今年7月1日起生效，並將分兩個階段徵收：獨立單戶住宅的稅率在0.8%-1.3%之間；合作公寓（coops）和獨立產權公寓（condominiums）的稅率在4%-6.5%之間。"
+    },
+    {
+      "id": "4903265",
+      "time": "2026-05-28 06:45:33",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗阿巴斯港附近傳出爆炸聲】據伊朗法爾斯通訊社28日報道，當地時間當天1時30分左右，伊朗南部城市阿巴斯港以東傳出三聲爆炸聲，具體方位和原因不明。 (新華社)"
+    },
     {
       "id": "4903264",
       "time": "2026-05-28 06:45:10",
@@ -132985,103 +133014,6 @@
         "其他"
       ],
       "text": "【煤企損毀明長城被停業整頓 4人涉嫌損毀文物被採取刑事強制措施】近日，網傳山西明長城遭煤礦企業損毀一事引發全網廣泛關注與熱議。5月20日晚間，山西寧武縣官方釋出情況通報。 通報稱，針對媒體曝光神達朝凱煤業相關違規問題，寧武縣已成立工作專班對有關情況進行全面核查。 根據階段性核查結果，已依法責令涉事企業停產整頓，對4名相關責任人以涉嫌非法採礦罪、損毀文物罪採取刑事強制措施，進一步固定完善證據後將按程式移送檢察機關審查起訴。 此外，針對調查發現的監管部門履職不力等問題，紀檢監察部門正對相關工作人員進行調查，將依規依紀依法從嚴處理。 下一步，寧武縣將從嚴從快調查取證，依法依規深挖徹查，加快推進神達朝凱煤業相關問題查清查實、處罰到位、整改到位。（央視新聞）"
-    },
-    {
-      "id": "4891361",
-      "time": "2026-05-21 06:53:33",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：\n1、李強簽署國務院令 公佈《中華人民共和國礦產資源法實施條例》\n2、劉國中在中國醫科院、中國農科院調研時強調 加強“三農”和衛生健康領域基礎研究 全面提升原始創新能力和科技水平\n3、地球系統資料平臺體系發展建設總體工作方案出臺 到2035年，地球系統資料應用場景深度融入數字中國建設\n4、前4月快遞業務量累計完成超645億件 中西部地區佔比提升\n5、商務部美大司負責人解讀中美經貿磋商初步成果\n6、賽事經濟助城市消費升級（中國消費向新而行）\n7、充分釋放場景賦能的乘數效應（感言）\n8、前四月全國一般公共預算收入增長百分之三點五 支出進度為近五年同期最快\n9、《2026年數字經濟發展工作要點》印發 提出8個方面重點任務\n10、前4月長三角區域進出口總值6.14萬億元 規模創歷史同期新高\n11、新疆多部門聯合打造“疆品鮮遞”助農品牌 讓更多優質農產品走向更大市場\n12、廣州港南沙港區五期工程全面開工\n13、民營經濟促進法施行滿一年，最高檢近日釋出典型案例——加強法律監督 保護企業合法權益（法治聚焦）\n14、國家發展改革委、最高法充分發揮以案釋法作用 推動構建公平誠信營商環境\n15、粵港澳大灣區資料特區創新合作中心啟動 促進三地民生融合、政務協同和產業融通\n16、公安部通報打擊防範經濟犯罪工作情況——侵害民營經濟合法利益違法犯罪呈現3個新特點\n17、技能培訓消費投訴集中在七領域 平均涉訴金額超過七千元\n18、臨床主流產品普遍中選 國家組織冠脈支架第二輪接續採購開標\n19、對涉事機構和相關責任人依法從嚴追究責任 國家中醫藥局通報兩起違法違規問題\n20、從觀展熱看文化消費升級（商海觀潮）。"
-    },
-    {
-      "id": "4891360",
-      "time": "2026-05-21 06:53:19",
-      "tags": [
-        "宏觀",
-        "焦點"
-      ],
-      "text": "今天《人民日報》頭版的主要內容有：\n1、習近平同俄羅斯總統普京會談\n2、習近平同俄羅斯總統普京共同會見記者\n3、習近平同俄羅斯總統普京共同出席“中俄教育年”開幕式並致辭\n4、習近平同俄羅斯總統普京茶敘。"
-    },
-    {
-      "id": "te:economy:552434",
-      "time": "2026-05-21 06:53:16",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "New Zealand",
-        "Balance of Trade",
-        "Importance 2"
-      ],
-      "text": "New Zealand Posts Largest Trade Surplus on Record — New Zealand's trade surplus widened to NZD 1.92 billion in April 2026, up from NZD 1.20 billion in the same month a year earlier, beating estimates of a NZD 0.98 billion surplus. It marked the largest trade surplus on record, as exports rose more than imports. Exports increased 7.3% year-on-year to NZD 8.6 billion, while imports rose 3.4% to NZD 6.7 billion."
-    },
-    {
-      "id": "4891359",
-      "time": "2026-05-21 06:52:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【巴西頒佈兩項法令加強平臺監督 提升網路安全】當地時間5月20日，巴西總統盧拉簽署兩項法令，旨在加強對數字平臺的監管。第一項法令規定大型科技公司若拒絕根據司法命令刪除相關內容，則需承擔法律責任。法令規定大型科技公司必須建立犯罪報告渠道，立即刪除非法內容，並儲存資料以支援對違法者的起訴。該法令還授權巴西國家資料保護機構調查這些案件。第二項法令確立了數字環境中對婦女保護的指導方針，規定平臺必須採取預防措施，防止嚴重犯罪，包括恐怖主義、兒童性剝削、人口販賣、煽動自殘和針對女性的暴力。（央視新聞）"
-    },
-    {
-      "id": "4891358",
-      "time": "2026-05-21 06:50:55",
-      "tags": [
-        "公司",
-        "資料",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【週四重要財經資訊提醒（以下均為北京時間）】 \n① 07:50 日本3月核心機械訂單，3月進出口、商品貿易帳；\n② 08:00 韓國5月進出口20天；\n③ 08:30 日本5月製造業、服務業、綜合PMI初值；\n④ 時間待定 2026世界無人機大會開幕；\n⑤ 09:30 澳大利亞4月就業報告（含就業人數、失業率）；\n⑥ 13:00 印度5月製造業、服務業、綜合PMI初值；\n⑦ 15:15 法國5月製造業、服務業、綜合PMI初值；\n⑧ 15:30 德國5月製造業、服務業、綜合PMI初值；\n⑨ 16:00 歐元區5月製造業、服務業、綜合PMI初值；\n⑩ 時間待定 國內成品油將開啟新一輪調價視窗；\n⑪ 港股收盤之後 網易釋出業績報告；\n⑫ 16:30 英國5月製造業、服務業、綜合PMI初值；\n⑬ 17:00 法國央行行長Villeroy講話；\n⑭ 美股盤前 沃爾瑪釋出業績報告；\n⑮ 20:00 英國央行貨幣政策委員會（MPC）成員Alan Taylor講話；\n⑯ 20:30 美國4月新屋開工、營建許可，5月16日當週首次申請失業救濟人數；\n⑰ 21:45 美國5月標普全球服務業、製造業、綜合PMI初值；\n⑱ 23:00 英國央行行長貝利講話；\n⑲ 23:20 美國芝加哥聯儲主席Goolsbee（2027年FOMC票委）接受“芝加哥電臺”的採訪；\n23:30 歐洲央行執委Frank Elderson講話；\n次日00:20 美國里士滿聯儲主席Barkin（2027年FOMC票委）談論經濟；\n美股盤後 羅斯百貨、Workday、遊戲公司TTWO等釋出業績報告。"
-    },
-    {
-      "id": "mkt:019e4793-569d-7ff0-9b6b-da603d6e5bff",
-      "time": "2026-05-21 06:48:03",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "New Zealand | Trade Balance (Apr) | actual 1920000000B | previous 698000000B"
-    },
-    {
-      "id": "mkt:019e4793-0a08-7ff0-9b6b-d0af45cbe85c",
-      "time": "2026-05-21 06:47:58",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "New Zealand | Imports (Apr) | actual 6700000000B | previous 7250000000B"
-    },
-    {
-      "id": "mkt:019e4793-08de-7ff0-9b6b-c96ac9235cbc",
-      "time": "2026-05-21 06:47:54",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "New Zealand | 12-Month Trade Balance (Apr) | actual -2764000000B | previous -3191000000B"
-    },
-    {
-      "id": "mkt:019e4792-dacf-7ff0-9b6b-c56379813284",
-      "time": "2026-05-21 06:47:47",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "New Zealand | Exports (Apr) | actual 8620000000B | previous 7940000000.000001B"
-    },
-    {
-      "id": "4891357",
-      "time": "2026-05-21 06:47:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國解除對聯合國專家弗朗西斯卡·阿爾巴內塞的制裁。"
     }
   ]
 }
