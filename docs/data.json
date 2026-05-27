@@ -1,7 +1,82 @@
 {
-  "updated": "2026-05-28 02:33:56",
-  "count": 14920,
+  "updated": "2026-05-28 02:37:50",
+  "count": 14927,
   "items": [
+    {
+      "id": "4903131",
+      "time": "2026-05-28 02:36:54",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "墨西哥央行預計，2026年第四季度年平均核心通脹率為3.4%，與此前預測值一致。"
+    },
+    {
+      "id": "mkt:019e6ab9-a193-7223-8ed8-b6c847c0fbd2",
+      "time": "2026-05-28 02:36:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to the Iranian Students' News Agency (ISNA), Isfahan International Airport will fully resume operations after an 80-day suspension."
+    },
+    {
+      "id": "4903130",
+      "time": "2026-05-28 02:36:42",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "墨西哥央行預計，2026年第四季度年平均核心通脹率為3.4%，與此前預測值一致。"
+    },
+    {
+      "id": "4903129",
+      "time": "2026-05-28 02:36:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍在黎巴嫩大幅擴大“戰區”】以色列國防軍發言人27日晚在社交平臺發文稱，以軍將對黎巴嫩真主黨展開“強力打擊”，宰赫拉尼河以南所有區域均被視為“戰區”。以軍發言人呼籲黎南部所有居民遠離真主黨武裝人員、相關設施和裝備，並建議黎南部居民撤離至宰赫拉尼河以北地區。"
+    },
+    {
+      "id": "4903128",
+      "time": "2026-05-28 02:36:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【挪威將接受法國“核保護傘”】挪威首相斯特勒27日表示，挪威將加入法國總統馬克龍提出的“前沿威懾”計劃，但不會改變有關核武器的基本政策。挪威媒體分析，這意味著挪威將被納入法國“核保護傘”框架。"
+    },
+    {
+      "id": "4903127",
+      "time": "2026-05-28 02:35:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國前司法部長帕姆・邦迪稱其確診甲狀腺癌，術後正在接受治療。醫生稱絕大多數甲狀腺癌治癒率極高，存活率超98%。邦迪還定於週五就愛潑斯坦相關檔案爭議事宜出庭作證。"
+    },
+    {
+      "id": "4903126",
+      "time": "2026-05-28 02:35:26",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "墨西哥央行預測2026年國內生產總值增速為1.1%，低於上一份季度報告中預測的1.6%。"
+    },
+    {
+      "id": "4903125",
+      "time": "2026-05-28 02:34:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊斯法罕國際機場停運80天后全面恢復運營。"
+    },
+    {
+      "id": "4903124",
+      "time": "2026-05-28 02:33:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普表示，他計劃出席一場NBA總決賽，觀看家鄉球隊紐約尼克斯隊衝擊數十年來的首個總冠軍。"
+    },
     {
       "id": "mkt:019e6ab5-132b-7223-8ed8-aec66d2d0bd8",
       "time": "2026-05-28 02:31:52",
@@ -133679,25 +133754,6 @@
         "MKT News"
       ],
       "text": "TRUMP ADMINISTRATION TO PROVIDE ANOTHER $200 MILLION TO HELP BREAK GROUND ON REVAMPED NEW YORK PENN STATION NEXT YEAR"
-    },
-    {
-      "id": "4891119",
-      "time": "2026-05-21 02:36:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "西班牙首相桑切斯：以色列官員羞辱加沙船隊人員的畫面令人無法接受。"
-    },
-    {
-      "id": "te:markets:552408",
-      "time": "2026-05-21 02:34:22",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Gold Rebounds from Near 2-Month Low — Gold rose to above $4,530 per ounce on Wednesday, halting the drop that bottomed at a two-month low of $4,490 last session, and tracking the respite for Treasuries as signs of incoming energy supply from the Middle East tamed expectations of higher inflation. President Trump stated the US was close to an agreement to end the conflict with Iran, while three supertankers exited the Persian Gulf with cargoes to Asia. The developments supported the possibility that inflation could rise less than feared, dimming the risks of a hawkish Federal Reserve. Evidence of high inflation had led multiple policymakers to dissent against the easing bias in the Fed's last rate hold. On top of that, fresh minutes from the meeting indicated that a majority of members noted it may be appropriate to raise interest rates this year if inflation remains above the 2% threshold. Markets are split on whether the central bank may deliver a rate hike by December or whether rates will stay put."
     }
   ]
 }
