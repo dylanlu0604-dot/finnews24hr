@@ -1,7 +1,486 @@
 {
-  "updated": "2026-05-28 01:26:50",
-  "count": 14931,
+  "updated": "2026-05-28 02:18:18",
+  "count": 14924,
   "items": [
+    {
+      "id": "mkt:019e6aa6-e0e4-7223-8ed8-8707628839c0",
+      "time": "2026-05-28 02:16:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to the Wall Street Journal, an app for accounts tied to Donald Trump's children is scheduled to go live on Thursday."
+    },
+    {
+      "id": "te:markets:554171",
+      "time": "2026-05-28 02:15:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Crude Oil WTI Falls by 4.82% — Top commodity losers are Crude Oil WTI (-4.82%), Brent Crude Oil (-4.66%) and Natural Gas EU (-3.06%). Gains are led by Natural gas (3.90%)."
+    },
+    {
+      "id": "4903113",
+      "time": "2026-05-28 02:14:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "一款可讓數百萬美國人為子女管理全新特朗普賬戶的應用程式定於週四上線。"
+    },
+    {
+      "id": "4903112",
+      "time": "2026-05-28 02:11:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta現漲0.9%。"
+    },
+    {
+      "id": "mkt:019e6aa1-c6b9-7223-8ed8-792d758a9e6a",
+      "time": "2026-05-28 02:10:47",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "The minister of NATURAL RESOURCES CANADA said other European buyers have expressed interest in Canadian LNG."
+    },
+    {
+      "id": "mkt:019e6aa0-64a0-7223-8ed8-769ba264a95c",
+      "time": "2026-05-28 02:09:16",
+      "tags": [
+        "MKT News",
+        "BA.O",
+        "Impact bullish"
+      ],
+      "text": "U.S. Federal Aviation Administration (FAA) Administrator expects Boeing to continue increasing 737 MAX production rates over the next 90 days."
+    },
+    {
+      "id": "4903111",
+      "time": "2026-05-28 02:09:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "美聯航執行長表示，就其本人可見的可預見未來而言，美聯航至少短期內不會參與任何行業整合。"
+    },
+    {
+      "id": "4903110",
+      "time": "2026-05-28 02:09:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大自然資源部長：其他歐洲買家已對加拿大液化天然氣表示興趣。"
+    },
+    {
+      "id": "4903109",
+      "time": "2026-05-28 02:07:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta：訂閱Instagram Plus（每月3.99美元）、Facebook Plus（每月3.99美元）以及WhatsApp Plus（每月2.99美元）的使用者將可使用額外功能。"
+    },
+    {
+      "id": "mkt:019e6a9e-6e32-7223-8ed8-68d3ef990d19",
+      "time": "2026-05-28 02:07:08",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "META.O",
+        "Impact bullish"
+      ],
+      "text": "According to TECHCRUNCH, Meta launched subscription services for Instagram, Facebook and WhatsApp and will roll out additional subscription offerings in future, including AI initiatives."
+    },
+    {
+      "id": "4903108",
+      "time": "2026-05-28 02:06:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦航空管理局局長表示，認為波音737 MAX 7機型將在今年夏季獲得認證，尺寸更大的MAX 10機型將在年底前獲得認證。"
+    },
+    {
+      "id": "4903107",
+      "time": "2026-05-28 02:04:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦航空管理局局長貝德福德預計，波音將在未來90天內繼續提升737 MAX的產能。"
+    },
+    {
+      "id": "4903106",
+      "time": "2026-05-28 02:04:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta推出Instagram、Facebook與WhatsApp訂閱服務，後續還將推出更多服務，包括人工智慧相關計劃。"
+    },
+    {
+      "id": "mkt:019e6a9b-f6cd-7223-8ed8-66832d8aa1f3",
+      "time": "2026-05-28 02:04:26",
+      "tags": [
+        "MKT News",
+        "BA.O",
+        "Impact bullish"
+      ],
+      "text": "US Federal Aviation Administration (FAA) Administrator: The FAA supports increasing the production rate of the Boeing 737 MAX."
+    },
+    {
+      "id": "mkt:019e6a9b-36a4-7223-8ed8-58af9a4bbd43",
+      "time": "2026-05-28 02:03:37",
+      "tags": [
+        "MKT News",
+        "UAL.O",
+        "Impact bearish",
+        "BA.N"
+      ],
+      "text": "United Airlines CEO says global aircraft supply will be constrained by an engine shortage."
+    },
+    {
+      "id": "mkt:019e6a9a-c553-7223-8ed8-51219146059a",
+      "time": "2026-05-28 02:03:08",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "UAL.O",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【United Airlines CEO Sees Pre-Tax Margins Reaching Double Digits Next Year】United Airlines CEO Scott Kirby said on Wednesday at the BERSTEIN investor conference that with oil prices retreating and demand proving resilient, the carrier is gradually recouping the hit from elevated fuel costs and he is increasingly confident United can achieve double-digit pre-tax margins next year. Kirby said the airline had been on track to post double-digit margins this year before the Iran situation pushed fuel prices higher. He added that lower oil prices have reduced the revenue threshold needed to fully offset the fuel-cost shock and that the process of reaching 100% recovery is likely progressing."
+    },
+    {
+      "id": "4903104",
+      "time": "2026-05-28 02:01:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列官員正與美國舉行會談，商討擴大在黎巴嫩的軍事行動。"
+    },
+    {
+      "id": "4903103",
+      "time": "2026-05-28 02:01:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦航空管理局局長表示，該局支援波音737 MAX提高產量。"
+    },
+    {
+      "id": "4903102",
+      "time": "2026-05-28 02:01:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "聯合航空公司執行長表示，由於發動機供應不足，全球飛機供應都將面臨短缺。"
+    },
+    {
+      "id": "mkt:019e6a98-028f-7223-8ed8-4e30cf4a90f9",
+      "time": "2026-05-28 02:00:07",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "The Lebanese military said one soldier was killed in Israeli airstrikes on southern Lebanon."
+    },
+    {
+      "id": "mkt:019e6a97-37be-7223-8ed8-4426de3e82e6",
+      "time": "2026-05-28 01:59:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Uganda Closes Border With DR Congo, Tightens Ebola Controls】Uganda's Ministry of Health said on the 27th that, citing an escalating Ebola outbreak in neighboring DR Congo and rising importation risk from cross-border movement, Uganda has decided to temporarily close its border with DR Congo with immediate effect and will implement a series of measures to strengthen epidemic prevention and control."
+    },
+    {
+      "id": "4903101",
+      "time": "2026-05-28 01:58:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "路透社調查顯示，美國能源資訊署(EIA)週四公佈的報告預計上週美國天然氣庫存增加950億立方英尺。"
+    },
+    {
+      "id": "4903100",
+      "time": "2026-05-28 01:58:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美國天然氣期貨漲超5.00%，現報3.042美元/百萬英熱。"
+    },
+    {
+      "id": "4903099",
+      "time": "2026-05-28 01:55:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "黎巴嫩軍方：以軍在卡法爾馬納至哈爾達利公路發動空襲，造成一名黎軍士兵陣亡。"
+    },
+    {
+      "id": "mkt:019e6a90-db73-7223-8ed8-3bd17c335b47",
+      "time": "2026-05-28 01:52:18",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Saudi Arabia will supply Yemen with $150 million worth of petroleum derivatives."
+    },
+    {
+      "id": "mkt:019e6a90-2160-7223-8ed8-34a42e3507e8",
+      "time": "2026-05-28 01:51:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Representative of the Supreme Leader to the Islamic Revolutionary Guard Corps (IRGC): We have consistently required the negotiation team to strictly follow the guidelines set by the Supreme Leader in carrying out its work."
+    },
+    {
+      "id": "4903098",
+      "time": "2026-05-28 01:51:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙烏地阿拉伯將向葉門提供價值1.5億美元的石油衍生產品。"
+    },
+    {
+      "id": "4903097",
+      "time": "2026-05-28 01:51:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國食品藥品監督管理局（FDA）：截至5月27日，美國36個州共報告119例感染病例，感染者所感染的為本次暴發疫情中的鼠傷寒沙門氏菌或紐波特沙門氏菌毒株。"
+    },
+    {
+      "id": "4903096",
+      "time": "2026-05-28 01:50:45",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國聯合航空公司執行長表示，為整個機隊100%配備星鏈將是我們相較所有其他航空公司的最大差異化競爭優勢。"
+    },
+    {
+      "id": "mkt:019e6a8d-4a46-7223-8ed8-2c7c70f1d4f7",
+      "time": "2026-05-28 01:48:24",
+      "tags": [
+        "MKT News",
+        "UAL.O",
+        "Impact bullish"
+      ],
+      "text": "United Airlines CEO says he is increasingly confident of achieving a double-digit pre-tax profit margin in 2027."
+    },
+    {
+      "id": "mkt:019e6a8c-d7ec-7223-8ed8-27bd45673560",
+      "time": "2026-05-28 01:47:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "United Airlines CEO says entire fleet will be equipped with Starlink by next year."
+    },
+    {
+      "id": "4903095",
+      "time": "2026-05-28 01:46:44",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國聯合航空公司執行長表示，隨著油價回落，實現100%燃油成本轉嫁的門檻也隨之降低。"
+    },
+    {
+      "id": "4903094",
+      "time": "2026-05-28 01:44:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國防長赫格塞思談及伊朗：伊朗目前雖手握導彈，但已無法繼續量產導彈、無人機和艦船。他們最終選擇服軟，主動前來進行談判。"
+    },
+    {
+      "id": "4903093",
+      "time": "2026-05-28 01:44:00",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗最高領袖派駐革命衛隊代表：我方始終要求談判團隊嚴格遵循最高領袖制定的方針開展工作。"
+    },
+    {
+      "id": "4903092",
+      "time": "2026-05-28 01:42:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國航空：預計2026年盈利水平將與2025年持平。"
+    },
+    {
+      "id": "4903091",
+      "time": "2026-05-28 01:42:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "聯合航空執行長表示，愈發有信心在2027年實現兩位數的稅前利潤率。"
+    },
+    {
+      "id": "4903090",
+      "time": "2026-05-28 01:39:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【烏干達關閉與剛果（金）邊境 升級埃博拉疫情防控】烏干達衛生部27日釋出宣告說，鑑於鄰國剛果（金）埃博拉疫情持續升級以及兩國跨境人員流動帶來的輸入風險上升，烏干達決定自即日起臨時關閉與剛果（金）的邊境，並採取一系列措施強化疫情防控。"
+    },
+    {
+      "id": "4903089",
+      "time": "2026-05-28 01:39:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "聯合航空執行長表示，明年年底前整個機隊都將配備星鏈。"
+    },
+    {
+      "id": "4903088",
+      "time": "2026-05-28 01:36:54",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "OpenAI：很高興與社交媒體公司開展合作，這些公司正考慮藉助來源標識採取措施保障選舉安全。"
+    },
+    {
+      "id": "4903087",
+      "time": "2026-05-28 01:36:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我打算去麥迪遜廣場花園觀看紐約尼克斯隊的比賽。"
+    },
+    {
+      "id": "4903086",
+      "time": "2026-05-28 01:35:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：本次選舉週期內，不允許廣告商在我們的平臺投放政治廣告。"
+    },
+    {
+      "id": "4903085",
+      "time": "2026-05-28 01:34:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "OpenAI：已向美國已註冊投票系統生產商提供Codex安全產品及TAC訪問許可權。"
+    },
+    {
+      "id": "mkt:019e6a80-5471-7223-8ed8-1ce95c956892",
+      "time": "2026-05-28 01:34:14",
+      "tags": [
+        "MKT News",
+        "UAL.O",
+        "Impact bullish"
+      ],
+      "text": "United Airlines CEO said demand remains strong and he is optimistic about the near-term outlook."
+    },
+    {
+      "id": "4903084",
+      "time": "2026-05-28 01:34:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "OpenAI：公司投資了多層資訊溯源方法，幫助使用者驗證其所瀏覽內容是否由人工智慧生成或經人工智慧修改。"
+    },
+    {
+      "id": "mkt:019e6a7f-8439-7223-8ed8-175414f4fa24",
+      "time": "2026-05-28 01:33:22",
+      "tags": [
+        "MKT News",
+        "UAL.O",
+        "Impact bullish"
+      ],
+      "text": "United Airlines CEO says demand remains strong."
+    },
+    {
+      "id": "mkt:019e6a7f-5cbb-7223-8ed8-0f8ce310be1e",
+      "time": "2026-05-28 01:33:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "OpenAI is deploying cybersecurity and misinformation defenses ahead of the U.S. midterm elections."
+    },
+    {
+      "id": "4903083",
+      "time": "2026-05-28 01:32:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：公開驗證工具預覽版已推出，該工具可讓使用者在平臺外檢測所接觸到的圖片是否由OpenAI工具生成。"
+    },
+    {
+      "id": "4903082",
+      "time": "2026-05-28 01:32:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：正與合作伙伴合作，引導使用者獲取可靠的投票資訊。"
+    },
+    {
+      "id": "4903081",
+      "time": "2026-05-28 01:32:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：全球大選來臨之際，我們正助力民眾獲取資訊、為網路防禦人員提供支援，並提升人工智慧的透明度。"
+    },
+    {
+      "id": "4903080",
+      "time": "2026-05-28 01:31:04",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "巴西央行：上週巴西資金流動淨流出總額為36.48億美元。"
+    },
+    {
+      "id": "4903079",
+      "time": "2026-05-28 01:31:00",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "巴西央行：截至5月22日本月累計資金淨流入為負20.62億美元。"
+    },
+    {
+      "id": "4903078",
+      "time": "2026-05-28 01:30:56",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "巴西財政部：4月聯邦公共債務總額達8.798萬億雷亞爾。"
+    },
+    {
+      "id": "4903077",
+      "time": "2026-05-28 01:29:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "【是否與俄直接對話 歐盟內部分歧顯著】為期兩天的歐盟外長非正式會議27日開始在塞普勒斯舉行，是否設立“與俄羅斯直接對話特使”成為會議討論焦點。然而，據目前各方釋放的訊息來看，各成員國外長在這一問題上分歧明顯，歐盟內部在俄烏問題上的立場差異進一步顯現。多國外長都強調，在與俄羅斯展開接觸之前，歐洲必須首先統一立場，明確與俄對話的先決條件以及烏克蘭問題解決方案的底線。但問題在於，歐盟要統一立場實在不容易。（央視新聞）"
+    },
+    {
+      "id": "mkt:019e6a7b-a0c0-7223-8ed8-03af208b3de5",
+      "time": "2026-05-28 01:29:07",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "【TRUMP May Discuss Pausing Federal Gasoline Tax With Congress】On Wednesday local time, TRUMP said his administration may discuss with Congress the possibility of passing legislation to temporarily suspend collection of the federal gasoline tax. \"This is something we may discuss. Let's see what happens over the next week or two,\" TRUMP told reporters during a meeting with cabinet members at the WHITE HOUSE."
+    },
     {
       "id": "4903076",
       "time": "2026-05-28 01:25:07",
@@ -133245,635 +133724,6 @@
         "Importance 1"
       ],
       "text": "Metals Commodities Updates: Lithium Carbonate Falls by 4.02% — Top commodity loser is Lithium Carbonate (-4.02%). Gains are led by Silver (3.34%), Copper (2.15%) and Gold (1.05%)."
-    },
-    {
-      "id": "4891103",
-      "time": "2026-05-21 02:18:04",
-      "tags": [
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "【“美聯儲傳聲筒”：降息討論幾近終結 美聯儲開始認真討論加息可能性】“美聯儲傳聲筒”Nick Timiraos表示，美聯儲官員幾乎已不再討論過去兩年主導政策辯論的問題，即是否應該降息，而是在上月會議上開始更認真地考慮相反方向：是否需要加息。4月政策會議紀要顯示：“多數與會者強調，如果通脹繼續持續高於2%，進一步收緊政策可能將變得合適。”4月會議是鮑威爾擔任美聯儲主席的最後一次會議，其紀要凸顯出，中東衝突如何重塑了利率決策委員會的前景。沃什將在週五於白宮宣誓就任後接掌該委員會。"
-    },
-    {
-      "id": "mkt:019e469b-8641-7bb5-8187-27261ca4d29a",
-      "time": "2026-05-21 02:17:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IRAN'S PRESIDENT: FORCING IRAN TO SURRENDER THROUGH 'COERCION' IS NOTHING BUT AN ILLUSION"
-    },
-    {
-      "id": "mkt:019e469a-ca27-7bb5-8187-1e8252ff407b",
-      "time": "2026-05-21 02:16:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IRAN'S PRESIDENT: IRAN HAS CONSISTENTLY HONORED ITS COMMITMENTS AND EXPLORED EVERY AVENUE TO AVERT WAR; ALL PATHS REMAIN OPEN FROM OUR SIDE."
-    },
-    {
-      "id": "4891102",
-      "time": "2026-05-21 02:16:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗總統佩澤希齊揚： 伊朗始終恪守自身承諾，窮盡一切途徑避免戰爭，我方仍持一切協商解決的開放態度。妄圖以脅迫手段逼迫伊朗妥協純屬空想。外交層面秉持相互尊重，遠比戰爭更明智、穩妥且長久可行。"
-    },
-    {
-      "id": "te:markets:552403",
-      "time": "2026-05-21 02:15:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Methanol Rallies by 7.79% — Top commodity gainer is Methanol (7.79%). Biggest losers are Natural Gas EU (-6.25%), Brent Crude Oil (-5.72%), Gasoline (-5.70%) and Crude Oil WTI (-5.55%)."
-    },
-    {
-      "id": "4891101",
-      "time": "2026-05-21 02:15:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "美媒報道：因出席人數不足，美國眾議院共和黨人取消對伊朗開戰相關投票。"
-    },
-    {
-      "id": "mkt:019e4698-8c8c-7bb5-8187-110e9f039469",
-      "time": "2026-05-21 02:14:23",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "【Fed Minutes Show Growing Support for Potential Rate Hikes】Federal Reserve officials signaled increasing concern that persistent inflation could require higher interest rates, according to minutes from the April 28-29 FOMC meeting. A majority said further policy tightening may become necessary if inflation remains above the Fed’s 2% target, while many favored removing language implying an easing bias. Policymakers cited inflation risks tied to the Iran war, elevated bond yields and stronger-than-expected economic data. The Fed kept rates unchanged at 3.5%-3.75%, though three officials dissented over guidance suggesting future rate cuts. Markets are now pricing in possible tightening by year-end."
-    },
-    {
-      "id": "4891100",
-      "time": "2026-05-21 02:13:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "德國官員：德國計劃在坦克製造商 KNDS 上市後收購其 40% 股份。"
-    },
-    {
-      "id": "te:economy:552402",
-      "time": "2026-05-21 02:13:17",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "US 10-Year Yield Holds Decline — The yield on the 10-year US Treasury note fell to 4.60% on Wednesday from the 16-month high of 4.7% in the previous session after Washington signaled it is close to signing an agreement with Iran to end their conflict, taming pro-inflationary risks. President Trump stated the US was on the final stages of talks with Tehran and three supertankers crossed the Strait of Hormuz with full cargoes, driving oil and fuel prices to retreat. The surge in energy inflation this year had already shown signs of spreading to core areas of the economy, resulting in hawkish dissents in the last Fed rate decision. Minutes from said decision added that a majority of FOMC members noted that it may be appropriate to raise rates to tame inflation this year if underlying inflation gauges remain above 2%. The Fed is still expected to keep the federal funds rate unchanged for the remainder of the year, although market-implied odds of a rate hike in December currently stand at around 50%."
-    },
-    {
-      "id": "4891099",
-      "time": "2026-05-21 02:12:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網正式測定：05月21日01時43分在東太平洋海嶺南部（南緯55.90度，西經122.20度）發生6.4級地震，震源深度10千米。"
-    },
-    {
-      "id": "4891098",
-      "time": "2026-05-21 02:08:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國代理司法部長布蘭奇將美國是否可能對古巴採取軍事行動的相關問題交由特朗普政府及美國國防部作答。"
-    },
-    {
-      "id": "te:economy:552400",
-      "time": "2026-05-21 02:08:24",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Interest Rate",
-        "Importance 3"
-      ],
-      "text": "Fed Policymakers Suggest Rates May Need to Rise — A majority of Fed officials highlighted that some policy firming would likely become appropriate if inflation were to continue to run persistently above 2%, minutes from the FOMC meeting in April 2026 showed. To address the possibility of rate hikes, \"many participants indicated that they would have preferred removing the language from the post-meeting statement that suggested an easing bias regarding the likely direction of the Committee’s future interest rate decisions“. However, several participants highlighted that it would likely be appropriate to lower interest rates once there are clear indications that disinflation is firmly back on track or if solid signs emerge of greater weakness in the labor market. The Fed kept the fed funds rate unchanged at the 3.5%–3.75% target range for a third consecutive meeting in April. The decision was not unanimous, and the 8-4 vote marked the first time since October 1992 that four officials dissented against a FOMC decision."
-    },
-    {
-      "id": "4891097",
-      "time": "2026-05-21 02:06:11",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "美國天然氣期貨跌超4.00%，現報2.988美元/百萬英熱。"
-    },
-    {
-      "id": "4891096",
-      "time": "2026-05-21 02:04:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國疾控中心官員：目前正將其他高危美國公民從剛果（金）轉移至德國與捷克。"
-    },
-    {
-      "id": "4891095",
-      "time": "2026-05-21 02:04:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國疾控中心官員：美國埃博拉確診患者已抵達德國。"
-    },
-    {
-      "id": "4891094",
-      "time": "2026-05-21 02:03:19",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲會議紀要公佈後，標普500指數和納斯達克100指數持穩。"
-    },
-    {
-      "id": "em:qqyh_mlc:202605213743931390",
-      "time": "2026-05-21 02:02:53",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【FOMC會議紀要：與會者普遍認為中東衝突可能對風險平衡和適當政策路徑產生重大影響】美聯儲貨幣政策會議紀要顯示，部分與會者對高企的能源價格和關稅可能導致通脹壓力更廣泛地固化的情景表示擔憂。與會者普遍認為中東衝突可能對風險平衡和適當政策路徑產生重大影響。幾位與會者表示，如果衝突儘快解決且通脹壓力減輕，今年晚些時候將有必要降息。"
-    },
-    {
-      "id": "4891093",
-      "time": "2026-05-21 02:02:17",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲會議紀要：多數與會官員稱，若通脹持續高於 2%，適時收緊貨幣政策或將成為合理選擇。"
-    },
-    {
-      "id": "4891092",
-      "time": "2026-05-21 02:02:07",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲會議紀要：與會官員普遍認為，通脹持續高企疊加中東局勢不確定性，或需比預期更久地維持現行貨幣政策立場。"
-    },
-    {
-      "id": "mkt:019e468d-512a-7bb5-8187-0eb553f71a84",
-      "time": "2026-05-21 02:02:04",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "SPOT GOLD HOLDS GAINS AFTER US FED MINUTES, LAST UP 1.1% AT $4,530.05/OZ"
-    },
-    {
-      "id": "4891091",
-      "time": "2026-05-21 02:02:02",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲會議紀要：少數官員認為，若出現通脹回落重回正軌的明確訊號，下調聯邦基金利率將是合適之舉。"
-    },
-    {
-      "id": "mkt:019e468d-2953-7bb5-8187-07c77caeb0bd",
-      "time": "2026-05-21 02:01:56",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "FED STAFF ECONOMIC OUTLOOK PROJECTION WAS SLIGHTLY STRONGER THAN FOR MARCH MEETING"
-    },
-    {
-      "id": "4891090",
-      "time": "2026-05-21 02:01:52",
-      "tags": [
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "美聯儲會議紀要：幾乎所有與會官員均支援本次會議維持聯邦基金利率目標區間不變。"
-    },
-    {
-      "id": "mkt:019e468d-1994-7bb5-8186-fff6961d8636",
-      "time": "2026-05-21 02:01:52",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "FED MINUTES: ALMOST ALL PARTICIPANTS SUPPORTED MAINTAINING FED FUNDS TARGET RANGE AT THIS MEETING"
-    },
-    {
-      "id": "4891089",
-      "time": "2026-05-21 02:01:47",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲會議紀要：與會官員普遍認為，中東局勢衝突或將顯著改變風險平衡格局，進而影響貨幣政策合理走向。"
-    },
-    {
-      "id": "mkt:019e468c-ea57-7bb5-8186-f091a3fc8d7f",
-      "time": "2026-05-21 02:01:40",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "XAUUSD",
-        "Impact mixed"
-      ],
-      "text": "FED MINUTES: PARTICIPANTS GENERALLY OBSERVED MIDDLE EAST CONFLICT COULD HAVE SIGNIFICANT IMPLICATIONS FOR BALANCE OF RISKS AND APPROPRIATE POLICY PATH"
-    },
-    {
-      "id": "mkt:019e468c-e235-7bb5-8186-ebdf752fc123",
-      "time": "2026-05-21 02:01:36",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "US10Y"
-      ],
-      "text": "FED MINUTES: SEVERAL PARTICIPANTS INDICATED RATE CUTS WOULD BE WARRANTED LATER THIS YEAR IN A SCENARIO IN WHICH CONFLICT WAS RESOLVED SOON AND INFLATION PRESSURES DISSIPATED"
-    },
-    {
-      "id": "4891088",
-      "time": "2026-05-21 02:01:33",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲會議紀要：數位官員表示，若衝突迅速平息、通脹壓力消退，今年晚些時候降息具備合理性。"
-    },
-    {
-      "id": "4891087",
-      "time": "2026-05-21 02:01:30",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲會議紀要：部分與會官員擔憂，能源價格走高與關稅因素，或將導致通脹壓力大範圍根深蒂固。"
-    },
-    {
-      "id": "mkt:019e468c-991f-7bb5-8186-e4143d2edfb2",
-      "time": "2026-05-21 02:01:19",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "FED MINUTES: A FEWER NUMBER OF PARTICIPANTS JUDGED IT WOULD BE APPROPRIATE TO LOWER FED FUNDS RATE ON CLEAR INDICATIONS DISINFLATION BACK ON TRACK"
-    },
-    {
-      "id": "4891086",
-      "time": "2026-05-21 02:01:18",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲會議紀要：部分與會官員擔憂，能源價格高企疊加關稅因素，或致使通脹壓力全面固化。"
-    },
-    {
-      "id": "4891085",
-      "time": "2026-05-21 02:01:01",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲工作人員經濟前景預期較 3 月會議時略有上調。"
-    },
-    {
-      "id": "mkt:019e468c-5164-7bb5-8186-dc08d978dc4c",
-      "time": "2026-05-21 02:01:01",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "FED MINUTES: 'MAJORITY' OF OFFICIALS THOUGHT HIKES MAY BE NEEDED IF INFLATION PERSISTS"
-    },
-    {
-      "id": "4891084",
-      "time": "2026-05-21 02:00:56",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲會議紀要：僅有少數官員認為後續進一步降息具備合理性。"
-    },
-    {
-      "id": "mkt:019e468c-1e8e-7bb5-8186-d3adb421a0a1",
-      "time": "2026-05-21 02:00:48",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "APRIL FED MINUTES: ONLY 'SEVERAL' FED OFFICIALS SAW FURTHER RATE CUTS AHEAD AS LIKELY APPROPRIATE"
-    },
-    {
-      "id": "em:qqyh_mlc:202605213743931281",
-      "time": "2026-05-21 02:00:45",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【FOMC會議紀要：許多決策者更傾向於在政策宣告中去除寬鬆偏向】美聯儲貨幣政策會議紀要顯示，許多決策者更傾向於在政策宣告中去除寬鬆偏向。多數人認為，如果通脹持續存在，上調利率很可能是必要的。與會者普遍認為，持續的高通脹以及對中東局勢的不確定性，可能需要將當前的政策立場維持的時間比預期更長。"
-    },
-    {
-      "id": "4891083",
-      "time": "2026-05-21 02:00:43",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲會議紀要：多數官員認為若通脹持續，或有必要加息。"
-    },
-    {
-      "id": "mkt:019e468c-0aeb-7bb5-8186-c8143fe53408",
-      "time": "2026-05-21 02:00:43",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "FED MINUTES: SOME PARTICIPANTS WERE CONCERNED ABOUT A SCENARIO IN WHICH ELEVATED ENERGY PRICES AND TARIFFS COULD RESULT IN INFLATION PRESSURES BECOMING EMBEDDED MORE BROADLY"
-    },
-    {
-      "id": "mkt:019e468b-f744-7bb5-8186-c547e6ce99e8",
-      "time": "2026-05-21 02:00:38",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "FED MINUTES: MAJORITY OF PARTICIPANTS SAID SOME POLICY FIRMING WOULD LIKELY BECOME APPROPRIATE IF INFLATION WERE TO CONTINUE RUNNING PERSISTENTLY ABOVE 2%"
-    },
-    {
-      "id": "4891082",
-      "time": "2026-05-21 02:00:33",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲會議紀要：官員普遍認為利率暫停週期將長於此前預期。"
-    },
-    {
-      "id": "mkt:019e468b-df88-7bb5-8186-be98c9fa4c75",
-      "time": "2026-05-21 02:00:32",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "MINUTES FROM FED'S APRIL 28-29 MEETING SHOW MANY POLICYMAKERS WOULD HAVE PREFERRED TO REMOVE EASING BIAS FROM POLICY STATEMENT"
-    },
-    {
-      "id": "mkt:019e468b-bd29-7bb5-8186-b32af38f1f3b",
-      "time": "2026-05-21 02:00:23",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "FED MINUTES: PARTICIPANTS GENERALLY JUDGED CONTINUED ELEVATED INFLATION AND UNCERTAINTY OVER MIDDLE EAST COULD NECESSITATE KEEPING CURRENT POLICY STANCE FOR LONGER THAN ANTICIPATED"
-    },
-    {
-      "id": "4891081",
-      "time": "2026-05-21 02:00:12",
-      "tags": [
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "美聯儲：多名官員傾向於刪除政策宣告中的寬鬆傾向表述。"
-    },
-    {
-      "id": "4891080",
-      "time": "2026-05-21 01:58:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗提出與阿曼合作建設霍爾木茲海峽長期安全機制】伊朗外交部發言人巴加埃當地時間20日晚間表示，伊朗正與阿曼合作，並協調相關國際專業機構，推動制定一套安全機制，以確保霍爾木茲海峽長期穩定安全，防止任何威脅國家利益的行為發生。他表示，伊朗始終是霍爾木茲海峽安全航行的維護者，並願與其他沿岸國家合作，制定保障國際航運安全通行的相關協議和機制。他還強調，新的安全機制除涉及航運安全問題外，還應考慮海上安全成本，以及美國及其盟友在海灣地區軍事行動對生態環境造成的嚴重破壞。（央視新聞）"
-    },
-    {
-      "id": "4891079",
-      "time": "2026-05-21 01:56:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "古巴總統：美國起訴勞爾・卡斯特羅純屬政治手段，毫無任何法律依據。"
-    },
-    {
-      "id": "mkt:019e4688-5a29-7bb5-8186-ab6c118021e6",
-      "time": "2026-05-21 01:56:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CUBA PRESIDENT: INDICMENT AGAINST RAUL CASTRO BY U.S. IS A \"POLITICAL MANEUVER, DEVOID OF ANY LEGAL FOUNDATION\""
-    },
-    {
-      "id": "4891078",
-      "time": "2026-05-21 01:55:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "玻利維亞總統：我方將進行內閣改組。"
-    },
-    {
-      "id": "4891077",
-      "time": "2026-05-21 01:55:13",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "市場訊息：受美國本土成本上漲影響，百事公司將上調小包裝薯片售價。"
-    },
-    {
-      "id": "4891076",
-      "time": "2026-05-21 01:54:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "【古巴外長駁斥美方“顛倒是非”及偽善言論】古巴外交部長羅德里格斯20日在社交媒體上駁斥美國國務卿魯比奧涉古言論。他指出，魯比奧試圖將美國政府對古巴人民造成的傷害歸咎於古方，純屬顛倒是非。羅德里格斯表示，針對美方反覆聲稱的“古巴拒絕接受一億美元援助”一事，羅德里格斯指出，美國長期實施的經濟和能源封鎖對古巴造成毀滅性打擊，在此背景下，美方提出的所謂援助充滿虛偽色彩，其用心昭然若揭。5月20日是古巴獨立日。羅德里格斯指出，美方刻意選擇在這一天發表上述言論，企圖讓古巴重新依附於美國。羅德里格斯強調，新殖民主義時期的古巴及《普拉特修正案》早已成為歷史，獨立與主權才是古巴的現在與未來。（新華社）"
-    },
-    {
-      "id": "mkt:019e4686-03d9-7bb5-8186-a5fe15253e5c",
-      "time": "2026-05-21 01:54:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "EARTHQUAKE OF MAGNITUDE 6.11 STRIKES SOUTHERN EAST PACIFIC RISE - GFZ"
-    },
-    {
-      "id": "4891075",
-      "time": "2026-05-21 01:50:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "【受累於成本及作品陣容縮水，育碧預測新財年淨預訂額將出現下滑】鑑於新財年遊戲發行陣容縮水以及持續存在的重組成本壓力，法國遊戲巨頭育碧娛樂公司（Ubisoft Entertainment SA）預測其新財年的銷售額將出現下滑。育碧預計全年的淨預訂額將出現“高個位數百分比”的同比下滑，但其同時期望在下一個財年迎來更強勁的產品線。育碧目前正處於對其遊戲製作管線進行全面顛覆性轉型的陣痛期。公司正將其產品組合重組為五個核心業務單元或稱“創意工作室（Creative houses）”，以期從長遠來看讓公司立於更穩固的根基之上。"
-    },
-    {
-      "id": "4891074",
-      "time": "2026-05-21 01:48:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "【報道：新版伊朗和平方案引發特朗普與內塔尼亞胡激烈通話】據Axios報道稱，週二晚間，特朗普與內塔尼亞胡進行了這場耗時許久且氣氛僵硬的通話。熟悉通話內容的美方訊息人士稱，特朗普告知內塔尼亞胡，各方斡旋方正在擬定一份意向協議書，美伊雙方若簽署該檔案，將正式結束戰事，並開啟為期三十天的談判週期，磋商議題涵蓋伊朗核計劃、霍爾木茲海峽通航等核心問題。 兩名以色列知情人士證實，兩國領導人在後續處置方案上產生嚴重分歧，美方訊息人士更是直言通話結束後內塔尼亞胡極為惱怒。有訊息稱以色列駐美大使已向美國議員透露內塔尼亞胡對此番通話心存不滿，以色列使館發言人對此予以否認，並稱大使不會對外談及私人通話內容。多名人士提及，即便此前多輪和談均以失敗告終，內塔尼亞胡自始至終都對和談程序充滿憂慮，相關情緒由來已久。 以色列訊息人士透露，內塔尼亞胡計劃在未來數週內前往華盛頓，與特朗普舉行面對面會晤。"
-    },
-    {
-      "id": "mkt:019e467f-e636-7bb5-8186-99d2bfacb716",
-      "time": "2026-05-21 01:47:27",
-      "tags": [
-        "MKT News",
-        "PEP.N",
-        "Impact bullish"
-      ],
-      "text": "PEPSICO TO RAISE PRICES ON SMALL CHIP BAGS OVER HIGHER US COSTS"
-    },
-    {
-      "id": "4891073",
-      "time": "2026-05-21 01:43:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗東南部發生針對安全人員襲擊事件，致死一人】據伊朗媒體報道，伊朗東南部錫斯坦-俾路支斯坦省薩拉萬地區近日發生一起針對安全人員的武裝襲擊事件，造成一名安全人員死亡。報道稱，一夥武裝人員乘坐車輛，在當地一條交通幹道上向安全人員開火。當地警方表示正在追捕襲擊者，並已啟動應對方案。（新華社）"
-    },
-    {
-      "id": "4891072",
-      "time": "2026-05-21 01:43:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國移動在全國上線詞元套餐 價格最低為5元月包】中國移動宣佈在全國上線詞元（Token）套餐。此次中國移動創新推出統一算力量綱，其將不同模型、不同規格的詞元消耗統一封裝為標準積分，旨在解決多模型量綱不統一的問題。據中國移動相關負責人介紹，該套餐價格最低為5元月包，包含一定數量的詞元，適合輕度體驗使用者。中國移動的詞元套餐已實現全國使用者全覆蓋。除了基礎算力套餐，中國移動還將詞元和雲電腦、雲手機等產品深度融合，使用者購買詞元套餐，可直接在類似騰訊WorkBuddy等AI應用上使用。"
-    },
-    {
-      "id": "4891071",
-      "time": "2026-05-21 01:39:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "據以色列第 12 頻道：美國總統特朗普與以色列總理內塔尼亞胡就伊朗政策進行了一次氣氛緊張的通話。特朗普宣佈將簽署一份意向書，旨在停止戰爭並與伊朗展開談判；而內塔尼亞胡對此表示質疑，主張繼續對伊朗領導層施加軍事壓力。卡達及多個阿拉伯國家正力推一份協議草案，旨在避免戰事再起。美方訊息人士稱，內塔尼亞胡在與特朗普通話後情緒極為不滿。"
-    },
-    {
-      "id": "mkt:019e4676-bddf-7bb5-8186-970342d0b939",
-      "time": "2026-05-21 01:37:27",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "【Trump, Netanyahu Clash Over Iran Talks and War Exit Proposal】U.S. President Donald Trump and Israeli Prime Minister Benjamin Netanyahu held a tense call focused on a proposed framework aimed at preventing renewed conflict with Iran, according to sources cited by Israel’s Channel 12. Trump reportedly discussed a potential “letter of intent” involving the U.S. and Iran that could lead to ending the war and launching 30 days of additional negotiations on issues including the Strait of Hormuz and Iran’s nuclear program. Netanyahu reportedly expressed skepticism and urged continued military pressure on Iran. Arab mediators including Qatar, Pakistan, Saudi Arabia, Turkey and Egypt are said to be promoting a revised draft proposal, though sources said it remains unclear whether Iran would accept the terms."
-    },
-    {
-      "id": "mkt:019e4675-f084-7bb5-8186-88b135a3d0e9",
-      "time": "2026-05-21 01:36:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "PREPARATIONS UNDERWAY FOR ARAGHCHI’S US TRIP FOR UN MEETING: TV"
-    },
-    {
-      "id": "mkt:019e4674-a726-7bb5-8186-870aa7b450a4",
-      "time": "2026-05-21 01:35:10",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "TRUMP, NETANYAHU HELD TENSE CALL OVER IRAN POLICY - N12"
-    },
-    {
-      "id": "4891070",
-      "time": "2026-05-21 01:31:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伍德麥肯茲：若伊朗衝突持續 油價恐將升至200美元】伍德麥肯茲(Wood Mackenzie)表示，在霍爾木茲海峽長期停擺的最壞情景下，布倫特原油麵臨飆升至每桶200美元的風險。該機構指出，目前波斯灣地區已有超過1100萬桶/日的原油和凝析油供應處於中斷狀態。"
-    },
-    {
-      "id": "4891069",
-      "time": "2026-05-21 01:30:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "電視報道：阿拉格齊赴美參加聯合國會議的準備工作正在進行中。"
     }
   ]
 }
