@@ -1,7 +1,60 @@
 {
-  "updated": "2026-05-28 00:19:18",
-  "count": 14896,
+  "updated": "2026-05-28 00:23:12",
+  "count": 14892,
   "items": [
+    {
+      "id": "mkt:019e6a3e-a60d-7223-8ed6-55cb3affc391",
+      "time": "2026-05-28 00:22:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Secretary of State Rubio said Iran will never possess nuclear weapons."
+    },
+    {
+      "id": "mkt:019e6a3e-9c0f-7223-8ed6-480a23a8a9fe",
+      "time": "2026-05-28 00:22:28",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "U.S. Secretary of State Rubio said U.S. President TRUMP is more inclined to negotiate with Iran."
+    },
+    {
+      "id": "4902999",
+      "time": "2026-05-28 00:22:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：我們將繼續推進對伊朗的外交工作。"
+    },
+    {
+      "id": "4902998",
+      "time": "2026-05-28 00:20:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國前首相布萊爾呼籲工黨應聚焦於政策主張，而非個人形象。"
+    },
+    {
+      "id": "4902997",
+      "time": "2026-05-28 00:19:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "據監管檔案顯示，截至5月25日，Aspex持有Delivery Hero附投票權股份的7.56%投票權，此前這一比例為14.55%。"
+    },
+    {
+      "id": "te:markets:554165",
+      "time": "2026-05-28 00:18:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "DAX Finishes on Cautious Note — Frankfurt's DAX 40 pared gains to close virtually unchanged at 25,178 on Wednesday, amid cautious optimism about a US-Iran potential deal, amid conflicting signals from both sides. Iranian state media reported details of an unofficial draft peace framework with the US, outlining an end to the US naval blockade and Iran’s commitment to reopen the Strait of Hormuz within 30 days. Energy prices fell even though Washington denied the information. Consumer discretionary stocks were the standout performers. Adidas led gains among stocks, surging 5.3%. Airline Lufthansa advanced 3.3%. Auto stocks also advanced strongly, buoyed by positive EU monthly car sales data."
+    },
     {
       "id": "4902996",
       "time": "2026-05-28 00:18:34",
@@ -133513,98 +133566,6 @@
         "國際"
       ],
       "text": "報道：OpenAI準備未來數日、或數週遞交IPO申請。"
-    },
-    {
-      "id": "4891018",
-      "time": "2026-05-21 00:22:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普宣揚美國實施的封鎖舉措。"
-    },
-    {
-      "id": "mkt:019e4631-fa58-7bb5-8185-5198cd88e454",
-      "time": "2026-05-21 00:22:20",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "OPENAI PREPARING TO FILE FOR IPO VERY SOON, SOURCES SAY -- WSJ BANKERS AT GOLDMAN SACHS, MORGAN STANLEY WORKING ON OPENAI'S IPO PAPERWORK, SOURCES SAY -- WSJ"
-    },
-    {
-      "id": "4891017",
-      "time": "2026-05-21 00:21:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普重申將阻止毒品陸路入境。"
-    },
-    {
-      "id": "4891016",
-      "time": "2026-05-21 00:20:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：絕不會任由伊朗攻打以色列、擾亂中東局勢。"
-    },
-    {
-      "id": "4891015",
-      "time": "2026-05-21 00:20:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：或許需要對伊朗採取更強硬打擊，也或許不必如此。"
-    },
-    {
-      "id": "4891014",
-      "time": "2026-05-21 00:20:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊朗迫切希望達成協議。"
-    },
-    {
-      "id": "mkt:019e4630-08a4-7bb5-8185-4d5adee69de2",
-      "time": "2026-05-21 00:20:13",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "TRUMP: WE MAY HAVE TO HIT IRAN EVEN HARDER, BUT MAYBE NOT"
-    },
-    {
-      "id": "4891013",
-      "time": "2026-05-21 00:20:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及伊朗局勢：我們獲得廣泛支援。"
-    },
-    {
-      "id": "mkt:019e462f-89d7-7bb5-8185-42cecc2e7d96",
-      "time": "2026-05-21 00:19:41",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bearish",
-        "FTSE100"
-      ],
-      "text": "UK'S CHANCELLOR REEVES DROPS THE PUSH FOR A FOOD PRICE CAP - FT"
-    },
-    {
-      "id": "4891012",
-      "time": "2026-05-21 00:19:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：不會讓伊朗擁有核武器。"
     }
   ]
 }
