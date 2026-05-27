@@ -1,7 +1,57 @@
 {
-  "updated": "2026-05-28 04:17:56",
-  "count": 14896,
+  "updated": "2026-05-28 04:21:50",
+  "count": 14889,
   "items": [
+    {
+      "id": "mkt:019e6b18-3e06-799f-bbe6-b3987e3db127",
+      "time": "2026-05-28 04:20:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "U.S. API weekly crude oil stocks for the week to May 22 will be released in 10 minutes."
+    },
+    {
+      "id": "mkt:019e6b18-37fa-799f-bbe6-aac0dcfe9c0a",
+      "time": "2026-05-28 04:20:09",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【TRUMP Warns Gulf Ally Oman At WHITE HOUSE Cabinet Meeting: Strait Of Hormuz Is International Waters, 'We'll Blow Them Up' If They Break Rules】TRUMP said at a WHITE HOUSE cabinet meeting on the 27th that the Strait of Hormuz is international waters, open to all and not under any country's control, and warned Gulf ally Oman that if it 'doesn't follow the rules' it will be 'blown up'. When asked whether he would accept a short-term agreement under joint Iran-Oman control of the strait, TRUMP reiterated the waterway is international and should remain open to everyone. He said the United States will maintain order in the strait but 'no one will control it, this is also part of our (negotiations with Iran)'. He added Oman will follow the rules like other countries and said 'if they don't follow the rules, we'll have to blow them up. They know that, so they'll behave.'"
+    },
+    {
+      "id": "4903180",
+      "time": "2026-05-28 04:18:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普警告盟友阿曼：不守規矩會被炸飛】美國總統特朗普27日在白宮舉行的內閣會議上說，霍爾木茲海峽不歸任何人管轄，並就此警告海灣盟友阿曼，如果“不守規矩”，就會被“炸飛”。被問及是否願意接受一份由伊朗和阿曼共同控制霍爾木茲海峽的短期協議時，特朗普說，這一海峽是國際水域，應對所有人開放，不歸任何人管轄。他表示，美方將維護海峽秩序，但“不會有人控制它，這也是我們（與伊朗）談判的一部分”。特朗普還說，阿曼也會像其他國家一樣遵守規則，並稱“如果他們不守規矩，我們就只能把他們炸飛。他們很清楚這一點，所以會安分守己”。（新華社）"
+    },
+    {
+      "id": "mkt:019e6b16-56e3-799f-bbe6-a16573d1387e",
+      "time": "2026-05-28 04:18:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBNZ Governor Breman said certain parts of the New Zealand economy remain in good shape, including agriculture and parts of manufacturing."
+    },
+    {
+      "id": "mkt:019e6b16-0a9b-799f-bbe6-9e2cf9a145ab",
+      "time": "2026-05-28 04:17:47",
+      "tags": [
+        "MKT News",
+        "HPQ.N",
+        "Impact bullish"
+      ],
+      "text": "After releasing its earnings report, HP Inc. (HPQ.N) rallied in after-hours trading and is now up 13.7%."
+    },
     {
       "id": "4903179",
       "time": "2026-05-28 04:16:50",
@@ -133408,135 +133458,6 @@
         "其他"
       ],
       "text": "英偉達第一季度營業利潤為535億美元。"
-    },
-    {
-      "id": "mkt:019e470d-3b0b-7bb5-8188-b2e1236e109d",
-      "time": "2026-05-21 04:21:49",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bearish"
-      ],
-      "text": "NVIDIA SHARES EDGE LOWER IN EXTENDED TRADE FOLLOWING RESULTS, LAST DOWN 0.6% AT $222.18"
-    },
-    {
-      "id": "mkt:019e470d-1cc7-7bb5-8188-ae27a808e88b",
-      "time": "2026-05-21 04:21:42",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "NVIDIA 1Q ADJ GROSS MARGIN 75% NVIDIA REPORTS $80.0B ADDED SHARE BUYBACK AUTHORIZATION NVIDIA MOVING TO A NEW REPORTING FRAMEWORK WITH TWO PLATFORMS"
-    },
-    {
-      "id": "4891203",
-      "time": "2026-05-21 04:21:32",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "英偉達宣佈新增800億美元股票回購授權，並將季度股息上調至每股0.25美元。"
-    },
-    {
-      "id": "mkt:019e470c-b1a6-7bb5-8188-a77421cde5d1",
-      "time": "2026-05-21 04:21:14",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bearish"
-      ],
-      "text": "NVIDIA SEES 2Q ADJ. OPERATING EXPENSES ABOUT $8.3B, EST. $7.93B"
-    },
-    {
-      "id": "4891202",
-      "time": "2026-05-21 04:21:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "英偉達：預計第二季度GAAP（公認會計准則）毛利率和非GAAP毛利率將分別為74.9%和75.0%，上下浮動幅度為50個基點。"
-    },
-    {
-      "id": "4891201",
-      "time": "2026-05-21 04:21:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "英偉達：將過渡至一套能更好反映公司當前及未來增長動力的全新報告框架。"
-    },
-    {
-      "id": "mkt:019e470c-67fa-7bb5-8188-9c581debc959",
-      "time": "2026-05-21 04:20:55",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "NVIDIA 1Q ADJ EPS $1.87 NVIDIA SEES 2Q REV. $89.18B TO $92.82B, EST. $87.36B"
-    },
-    {
-      "id": "4891200",
-      "time": "2026-05-21 04:20:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "英偉達將整合為兩大市場平臺：資料中心與邊緣計算。"
-    },
-    {
-      "id": "4891199",
-      "time": "2026-05-21 04:20:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "英偉達：將季度現金股息上調至每股0.25美元，將於2026年6月26日派息。"
-    },
-    {
-      "id": "4891198",
-      "time": "2026-05-21 04:20:34",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "英偉達：2027財年Q1營收816億美元，市場預期為786.72億美元，上年同期為440.62億美元。"
-    },
-    {
-      "id": "mkt:019e470b-f23f-7bb5-8188-916ac45f5d82",
-      "time": "2026-05-21 04:20:25",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "NVDA.O",
-        "Impact bullish",
-        "Nasdaq100"
-      ],
-      "text": "NVIDIA 1Q DATA CENTER REVENUE $75.2B, EST. $73.48B NVIDIA 1Q REV. $81.62B, EST. $79.19B"
-    },
-    {
-      "id": "4891197",
-      "time": "2026-05-21 04:20:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "英偉達：預計第二季度營收為910億美元，上下浮動2%。"
     }
   ]
 }
