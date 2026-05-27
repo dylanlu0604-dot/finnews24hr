@@ -1,7 +1,234 @@
 {
-  "updated": "2026-05-27 08:06:27",
-  "count": 15009,
+  "updated": "2026-05-27 08:10:16",
+  "count": 15026,
   "items": [
+    {
+      "id": "mkt:019e66c4-1cfd-7332-8108-04ce59148db3",
+      "time": "2026-05-27 08:09:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UEDA Says Temporary Shocks That Change Wages, Expectations, Pricing May Become Persistent"
+    },
+    {
+      "id": "mkt:019e66c4-14a6-7332-8107-ffcfc59ed442",
+      "time": "2026-05-27 08:09:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China Foreign Minister Wang Yi Meets Bahrain FM Al Zayani In New York】At UN Security Council high-level meeting, China Foreign Minister Wang Yi meets Bahrain FM Al Zayani; urges immediate comprehensive and lasting ceasefire, cites President Xi Jinping's four-point proposal; backs Pakistan mediation; pledges close UNSC coordination with Bahrain to pursue political solution"
+    },
+    {
+      "id": "mkt:019e66c3-ee6d-7332-8107-f2de01588f64",
+      "time": "2026-05-27 08:09:36",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "UEDA Says Large Cost Shock May Not Push Underlying Inf Higher If Expectations Very Low, Wages Stagnant"
+    },
+    {
+      "id": "mkt:019e66c3-ed14-7332-8107-ece3a0b56674",
+      "time": "2026-05-27 08:09:36",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "【BOJ Governor UEDA Says Line Between Transitory And Persistent inf Not Mechanical】BOJ Governor UEDA: Line Between Transitory, Persistent inf Not Mechanical"
+    },
+    {
+      "id": "mkt:019e66c3-c311-7332-8107-e2c71cbdc548",
+      "time": "2026-05-27 08:09:25",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "UEDA Warns High Inf Expectations, Accelerating Wages Heighten Second-Round Inf Risk"
+    },
+    {
+      "id": "4901170",
+      "time": "2026-05-27 08:09:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞標普/澳證200指數早盤上漲0.1%，報8666.00點。"
+    },
+    {
+      "id": "mkt:019e66c3-92b3-7332-8107-d9d259ac58a4",
+      "time": "2026-05-27 08:09:13",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact mixed",
+        "WTI",
+        "Nikkei 225"
+      ],
+      "text": "UEDA: Japan Oil-Price Shock Tests Entire inf Framework"
+    },
+    {
+      "id": "4901169",
+      "time": "2026-05-27 08:09:12",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：世界正面臨第五次油價衝擊。"
+    },
+    {
+      "id": "4901168",
+      "time": "2026-05-27 08:08:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌1%，現報92.95美元/桶。"
+    },
+    {
+      "id": "4901167",
+      "time": "2026-05-27 08:08:26",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【中信證券：三代製冷劑長期漲價邏輯不改】中信證券研報稱，三代製冷劑長期漲價邏輯不改，中期邏輯進一步強化；同時順應行業發展趨勢，手握三代製冷劑配額的同時具有第四代製冷劑乃至混配製冷劑自主生產能力的企業屆時有望進一步鞏固行業地位；重點推薦巨化股份。"
+    },
+    {
+      "id": "4901166",
+      "time": "2026-05-27 08:08:24",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：日本過去遭遇油價衝擊的經驗表明，這類衝擊從來都不單純是油價衝擊，而是對整體通脹機制的考驗。"
+    },
+    {
+      "id": "te:markets:553864",
+      "time": "2026-05-27 08:08:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Xiaomi earnings below expectations at 0.18 CNY — Xiaomi (XMGP) released earnings per share at 0.18 CNY, compared to market expectations of 0.31 CNY."
+    },
+    {
+      "id": "te:markets:553863",
+      "time": "2026-05-27 08:08:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Oil & Natural Gas Corporation earnings above expectations at 8.60 INR — Oil & Natural Gas Corporation (ONGC) released earnings per share at 8.60 INR, compared to market expectations of 7.81 INR."
+    },
+    {
+      "id": "4901165",
+      "time": "2026-05-27 08:08:08",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：相反，如果這些傳導渠道不啟動，大型衝擊就仍將是暫時性的。"
+    },
+    {
+      "id": "4901164",
+      "time": "2026-05-27 08:08:04",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：如果暫時性衝擊改變了工資、通脹預期以及定價行為，它就可能演變為持續性影響。"
+    },
+    {
+      "id": "4901163",
+      "time": "2026-05-27 08:08:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【日產量超2800噸 我國海上最大規模淺層巖性油田專案全面投產】今天（5月27日），記者從中國海油獲悉，我國海上最大規模淺層巖性油田——墾利10-2油田群一期開發專案全面投產，油田原油日產量超2800噸，為全國第一大原油生產基地——渤海油田持續穩產上產提供重要支撐保障。墾利10-2油田位於渤海南部海域，區域平均水深約20米，已探明地質儲量超1億噸。"
+    },
+    {
+      "id": "4901162",
+      "time": "2026-05-27 08:07:20",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：若通脹預期已經處於高位且薪資漲勢加速，那麼第二輪通脹效應的風險將顯著升高。"
+    },
+    {
+      "id": "4901161",
+      "time": "2026-05-27 08:07:18",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男表示：各國央行不應孤立地看待油價。供給衝擊備受各方關注，這類情況並非新現象，但發生頻率已有所上升。同樣幅度的油價上漲，所產生的影響會因薪資水平、通脹預期、需求狀況以及匯率水平的不同而存在很大差異。"
+    },
+    {
+      "id": "mkt:019e66c1-8cbf-7332-8107-d4f841cc54a0",
+      "time": "2026-05-27 08:07:00",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent",
+        "DXY"
+      ],
+      "text": "UEDA Says Same Oil-Price Rise May Vary By Wages, Expectations, Demand, FX"
+    },
+    {
+      "id": "mkt:019e66c1-6fb3-7332-8107-ccd2ecbb37c0",
+      "time": "2026-05-27 08:06:53",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "XAUUSD",
+        "Impact bearish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "【China Foreign Minister Wang Yi Urges Ceasefire, Backs US‑Iran Talks】CHINA FOREIGN MINISTER WANG YI Urges Immediate Ceasefire In Iran Stalemate; Backs US‑Iran Talks As Key To Resolution; Supports Pakistan Mediation; Calls To Respect Sovereignty, Protect Civilians And Non‑Military Targets; Demands Security Of Shipping And Energy Infrastructure; Urges Compliance With Nuclear Non‑Proliferation; Cites Xi’s Four‑Point Peace Proposal"
+    },
+    {
+      "id": "mkt:019e66c1-512a-7332-8107-c324e727e41e",
+      "time": "2026-05-27 08:06:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UEDA: BOJ Shouldn't Treat Oil Prices In Isolation"
+    },
+    {
+      "id": "4901160",
+      "time": "2026-05-27 08:06:26",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "韓國交易所啟動SIDECAR機制，暫停KOSPI程式化交易5分鐘。"
+    },
+    {
+      "id": "4901159",
+      "time": "2026-05-27 08:05:58",
+      "tags": [
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【中信證券：維持美股好於美債、美元指數有支撐的觀點】中信證券研報指出，全球經濟的韌性正面臨中東衝突考驗，霍爾木茲海峽重現通航曙光。美國經濟年內可能繼續不均衡地溫和增長，歐盟經濟弱復甦的節奏正被推遲，日本民間需求難免受到能源短缺的擾動。高油價已在推升全球通脹，歐美的總體通脹率或會在年內高位震盪，日本表觀通脹率則可能延續溫和表現。美聯儲今年可能全年不降息，歐日央行的潛在加息則近在咫尺，日本和歐洲政壇“不剋制”的財政立場可能構成年內市場風險來源。我們維持美股好於美債、美元指數有支撐的觀點，金價料將隨通脹尾部風險解除而走出困局。"
+    },
     {
       "id": "4901158",
       "time": "2026-05-27 08:05:51",
@@ -134323,65 +134550,6 @@
         "國際"
       ],
       "text": "日本30年期國債收益率下跌1個基點，至4.145%。"
-    },
-    {
-      "id": "4889010",
-      "time": "2026-05-20 08:10:09",
-      "tags": [
-        "宏觀",
-        "公司",
-        "市場",
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "【摩根士丹利日本區負責人：日本央行加息是提振日元匯率的關鍵】摩根士丹利日本區CEO Alberto Tamura表示，他預計日元兌美元匯率有望走強至140附近，而日本央行的政策舉措是實現這一目標的核心因素。Tamura在採訪中稱，若日本央行6月未能加息，此舉將對債市與匯市造成衝擊。他並未給出具體時間節點，僅表示後續局勢走向未定，日元匯率存在兩大走向：既可能跌至170，也有望回升至140。“不少投資者認為日本央行政策行動滯後，因此率先出臺加息舉措至關重要。若全球經濟局勢趨於穩定，日元也將迎來走強契機。”他表示，日本官方並不希望日元在當前價位基礎上大幅走弱，且目前日本宏觀經濟整體態勢向好。"
-    },
-    {
-      "id": "te:economy:552048",
-      "time": "2026-05-20 08:10:06",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Reuters Tankan Index",
-        "Importance 2"
-      ],
-      "text": "Japan Manufacturer's Mood Slightly Improves — The Reuters Tankan index for Japanese manufacturers edged up to 8.0 in May 2026 from 7.0 in April, as commodity-related industries recovered from the sharp deterioration caused by the Iran war. Improvements were seen in chemicals, steel, and nonferrous metals, supported by front-loaded demand and a rebound in materials sectors. However, the recovery in overall factory sentiment remained limited, as confidence among transport machinery firms, including automakers and suppliers, weakened further amid supply constraints linked to disruptions in the Strait of Hormuz. Food processors and textile-related industries also remained deeply pessimistic due to rising raw material costs and the impact of the weak yen."
-    },
-    {
-      "id": "4889009",
-      "time": "2026-05-20 08:09:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "【羅欣藥業：控股子公司產品注射用阿奇黴素被判定為“劣藥” 對公司生產經營不構成重大影響】羅欣藥業(002793)5月20日早間公告，公司控股子公司山東羅欣收到山東省藥品監督管理局出具的《行政處罰決定書》，山東羅欣生產銷售的注射用阿奇黴素，在2025年黑龍江省藥品監督抽檢中檢查項“有關物質”不符合相關規定，判定為“劣藥”。經公司自查，生產及留樣環節均符合規範，推測問題可能源於流通儲運環節受極端高溫影響。雖未引發任何用藥安全事故。山東省藥品監督管理局依法對山東羅欣作出行政處罰，罰沒款合計186.84萬元。本次處罰屬於偶發獨立事件，處罰裁量已體現從輕情節，處罰型別為經濟性罰沒，未採取限制、暫停生產經營等影響山東羅欣持續經營的重大措施。山東羅欣生產的注射用阿奇黴素2024年度營業收入2263萬元，佔公司2024年度營業收入的0.85%；2025年度營業收入236.28萬元，佔公司2025年度營業收入的0.1%。該產品營業收入佔公司整體營業收入比例較低，對公司生產經營不構成重大影響。"
-    },
-    {
-      "id": "4889008",
-      "time": "2026-05-20 08:09:03",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本10年期國債收益率下跌0.5個基點，報2.795%."
-    },
-    {
-      "id": "4889007",
-      "time": "2026-05-20 08:08:16",
-      "tags": [
-        "市場"
-      ],
-      "text": "早盤交易中，澳大利亞標普/澳證200指數下跌0.5%，報8562.50點。"
-    },
-    {
-      "id": "4889006",
-      "time": "2026-05-20 08:06:46",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數下跌1.1%，至7194.32。"
     }
   ]
 }
