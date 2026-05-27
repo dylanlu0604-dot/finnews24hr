@@ -1,7 +1,113 @@
 {
-  "updated": "2026-05-27 13:42:54",
-  "count": 15112,
+  "updated": "2026-05-27 13:46:55",
+  "count": 15119,
   "items": [
+    {
+      "id": "4901734",
+      "time": "2026-05-27 13:45:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【獨家 | 小鵬機器人進入量產衝刺階段】新浪科技獲悉，小鵬集團近日召開機器人量產動員大會，汽車、動力、製造、測試、通用智慧等多箇中心近千名員工參會，何小鵬、副總裁顧捷、機器人中心負責人LC Mi三位核心高管出席，動員大會標誌著小鵬機器人業務正式進入量產衝刺階段。 會上，何小鵬明確了關鍵時間節點：2026年底實現人形機器人量產、預計2027年一季度進入小鵬線下門店擔任導購。他同時強調，小鵬機器人從晶片到作業系統、從關節到靈巧手全線自研，是國內唯一全棧自研的機器人公司，前期高投入，將帶來更高品質、更高顏值與更全面的能力。 何小鵬表示，“我們今天這個階段，相當於8年前的小鵬汽車。”那時小鵬剛完成了第一款車G3的釋出和量產交付。如今，機器人團隊正復刻這一路徑。 在產能建設方面，小鵬人形機器人量產基地已於今年2月在廣州天河區廣棠科創城動工，佔地約11萬平方米，為全鏈條規模化生產提供支撐。"
+    },
+    {
+      "id": "mkt:019e67f7-83c9-700e-adbd-1d86642c15fe",
+      "time": "2026-05-27 13:45:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "China polysilicon most-active contract down 3.25% intraday to CNY36,525/mt; China lithium carbonate most-active contract down 2.88% to CNY173,500/mt"
+    },
+    {
+      "id": "mkt:019e67f7-7be6-700e-adbd-14b7651cfb61",
+      "time": "2026-05-27 13:45:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Wang Yi Meets Guterres, Reaffirms China Support for UN System】China Foreign Minister Wang Yi meets UN Secretary-General Antonio Guterres in New York, says China firmly supports UN-centered international system and backs cooperation on climate change, AI and global economic governance; invites Guterres to visit China this year."
+    },
+    {
+      "id": "4901733",
+      "time": "2026-05-27 13:45:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中科第五紀完成數億元A輪融資】今日，中科第五紀宣佈完成數億元A輪融資。本輪資金將用於自研端到端超少樣本大模型、世界模型的迭代升級，強化學習技術的工程化落地，機器人產品量產及核心人才引進，以及加速該公司技術產品化與全球商業化程序。"
+    },
+    {
+      "id": "mkt:019e67f6-6c54-700e-adbd-0859cc486f3b",
+      "time": "2026-05-27 13:44:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "Shanghai and Shenzhen turnover exceeds CNY2.5 trln for 23rd straight trading session"
+    },
+    {
+      "id": "mkt:019e67f6-3e4a-700e-adbd-0379d87b4721",
+      "time": "2026-05-27 13:44:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bearish"
+      ],
+      "text": "Shenzhen Component Index falls over 1% after earlier rising more than 1%"
+    },
+    {
+      "id": "4901732",
+      "time": "2026-05-27 13:44:10",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【王毅會見聯合國秘書長古特雷斯】當地時間26日，中共中央政治局委員、外交部長王毅在紐約主持聯合國安理會高階別會議期間會見聯合國秘書長古特雷斯。王毅表示，今年是新中國恢復聯合國合法席位55週年。中方高度讚賞秘書處堅定奉行一箇中國原則，恪守聯大第2758號決議。作為聯合國事業的堅定支持者，中方願繼續高舉多邊主義旗幟，堅定維護以聯合國為核心的國際體系，不斷深化同聯合國在推進南南合作、改革國際經濟金融體系、應對氣候變化、人工智慧、地區熱點等領域合作，以實際行動支援聯合國，重振聯合國，壯大聯合國，不斷以中國之治賦能全球治理，為推動構建人類命運共同體注入更強動力。王毅表示，古特雷斯秘書長就任以來，堅守多邊理念，為和平奔走，為正義發聲，得到國際社會認可，中方對此表示讚賞並邀請古特雷斯年內訪華。（新華社）"
+    },
+    {
+      "id": "mkt:019e67f5-b927-700e-adbc-fb197f5c4eed",
+      "time": "2026-05-27 13:43:37",
+      "tags": [
+        "MKT News",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component",
+        "CSI300"
+      ],
+      "text": "China A-shares turn lower, with all three major indexes in the red; ChiNext Index pares gains after rising over 2%, nearly 4,500 stocks decline market-wide"
+    },
+    {
+      "id": "4901731",
+      "time": "2026-05-27 13:43:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【四川衛健委：網傳“育兒補貼延長至6歲”等資訊不實】5月27日，四川省衛生健康委員會發布關於網上散佈四川省育兒補貼政策不實資訊的說明：近日，有人在抖音等網路平臺散佈“四川省目前僅部分割槽縣試點將育兒補貼延長至6歲（全省統一政策僅覆蓋0-3歲，每孩每年3600元），3-6歲地方補貼需孩子戶籍在對應區縣，2026年5月起陸續發放，標準多為每月200-500元，部分多孩加碼”，此為不實資訊。現就我省育兒補貼政策說明如下。一、關於補貼物件。我省各地育兒補貼物件均為符合法律法規規定生育的3週歲以下嬰幼兒，補貼均發放至其年滿3週歲。二、關於補貼標準。除攀枝花市外，我省其餘市州（含其下轄縣市區）現階段育兒補貼標準均執行國家基礎標準，即每孩每年3600元。"
+    },
+    {
+      "id": "4901730",
+      "time": "2026-05-27 13:43:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌1%，現報1394.54美元/盎司。"
+    },
+    {
+      "id": "4901729",
+      "time": "2026-05-27 13:42:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超2.5萬億元，較上日此時縮量342億元。"
+    },
     {
       "id": "4901728",
       "time": "2026-05-27 13:42:15",
@@ -135210,46 +135316,6 @@
         "國際"
       ],
       "text": "韓國總統李在明：以色列在違反國際法的不公正情況下綁架了一名韓國公民。"
-    },
-    {
-      "id": "4889520",
-      "time": "2026-05-20 13:46:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯下諾夫哥羅德州州長稱，該州兩處工業場地遭無人機襲擊後起火。"
-    },
-    {
-      "id": "mkt:019e43ea-82f7-7cc9-b8d6-4ce5d64ec284",
-      "time": "2026-05-20 13:45:02",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "Market Regions",
-        "Greater China",
-        "0981.HK",
-        "Impact bullish"
-      ],
-      "text": "SMIC SHARES EXTEND GAINS, UP 13% IN HONG KONG"
-    },
-    {
-      "id": "4889519",
-      "time": "2026-05-20 13:44:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄羅斯擬將今年鈾礦勘探支出增加近一倍】俄羅斯聯邦礦產資源局負責人Oleg Kazanov表示，俄羅斯今年將在國家地質勘探方面投入104億盧布（1.46億美元），高於2025年的71億；其中鈾礦勘探資金將幾乎增長一倍，從11億增至21億盧布（2,950萬美元）。"
-    },
-    {
-      "id": "4889518",
-      "time": "2026-05-20 13:43:33",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "印度巴拉特石油公司高管表示，莫三比克液化天然氣專案首批貨物預計將於2028年中期交付。"
     }
   ]
 }
