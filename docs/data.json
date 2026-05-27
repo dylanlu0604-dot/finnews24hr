@@ -1,7 +1,160 @@
 {
-  "updated": "2026-05-27 09:35:42",
-  "count": 15058,
+  "updated": "2026-05-27 09:39:36",
+  "count": 15060,
   "items": [
+    {
+      "id": "4901315",
+      "time": "2026-05-27 09:38:41",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超5000億元，較上日此時縮量225億元。"
+    },
+    {
+      "id": "mkt:019e6715-841e-700b-904a-dd3711a7c6ad",
+      "time": "2026-05-27 09:38:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Australia S&P/ASX 200 Up 0.1% To 8,663.20 After Apr Inf Print"
+    },
+    {
+      "id": "4901314",
+      "time": "2026-05-27 09:38:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【阿維塔：已籌備重新遞交招股書 IPO程序不受影響】針對公司於2025年11月27日遞交的港股招股書因滿6個月進入失效狀態，阿維塔科技相關人士今日透露，此次失效為IPO過程中常見技術性流程，公司正根據要求更新招股書，將盡快重新遞交，整體上市推進節奏不受影響。"
+    },
+    {
+      "id": "4901313",
+      "time": "2026-05-27 09:37:36",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【儲能概念盤初活躍 固德威、首航新能雙雙漲超10%】早盤儲能概念活躍，固德威、首航新能漲超10%，錦浪科技、德業股份、陽光電源、艾羅能源跟漲。"
+    },
+    {
+      "id": "4901312",
+      "time": "2026-05-27 09:36:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【節能風電等成立儲能科技新公司】企查查APP顯示，近日，中節能（懷安）儲能科技有限公司成立，經營範圍包含：風力發電技術服務；發電技術服務；儲能技術服務等。企查查股權穿透顯示，該公司由節能風電等共同持股。"
+    },
+    {
+      "id": "mkt:019e6713-af7e-700b-904a-d238a873a52d",
+      "time": "2026-05-27 09:36:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China Money-Management 7-Day Yields】Tencent Licaitong (Huoqi+) 7-Day Annualized Yield: High 2760%, Low 0.8060%; WeChat Lingqian Tong 7-Day Annualized Yield: High 1.0390%, Low 0.0020%; Alipay Yu'e Bao 7-Day Annualized Yield: High 1.0420%, Low 1.0000%"
+    },
+    {
+      "id": "4901311",
+      "time": "2026-05-27 09:36:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞標普/ASX 200指數在4月通脹資料公佈後上漲0.1%，報8663.20點。"
+    },
+    {
+      "id": "4901310",
+      "time": "2026-05-27 09:36:22",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數漲超1%，現報4997.580點；恒生指數現漲0.076%。"
+    },
+    {
+      "id": "4901309",
+      "time": "2026-05-27 09:36:18",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【培育鑽石板塊盤初下挫，恆林股份、博雲新材觸及跌停】培育鑽石板塊盤初下挫，恆林股份、博雲新材觸及跌停，惠豐鑽石、力量鑽石、四方達、沃爾德、國機精工跟跌。"
+    },
+    {
+      "id": "mkt:019e6713-2165-700b-904a-cf836c3306b1",
+      "time": "2026-05-27 09:36:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "CNH",
+        "Copper"
+      ],
+      "text": "CHINA APRIL INDUSTRIAL PROFITS GROWTH FOR MAJOR FIRMS POSTS FASTEST PACE SINCE NOVEMBER 2023"
+    },
+    {
+      "id": "4901308",
+      "time": "2026-05-27 09:36:02",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "光伏板塊集體走強，TCL中環漲停，帝爾鐳射、固德威、首航新能漲超10%，陽光電源、德業股份、艾羅能源跟漲。"
+    },
+    {
+      "id": "4901307",
+      "time": "2026-05-27 09:35:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【鄭州“十五五”規劃綱要：全力推進微短劇出海 打造“微短劇創作之都”】鄭州市國民經濟和社會發展第十五個五年規劃綱要釋出，其中提到，推進文化和科技融合，培育文化產業新業態、新應用、新載體。推動“文創+”跨界融合，大力支援文創潮牌和標杆企業發展，創新文創產品開發，以CCD為重點帶動中心城區文創科創一體發展。著力培育壯大網路遊戲、網路表演、數字動漫等新業態，推動微短劇鏈式叢集發展，建設網路視聽產業園，全力推進微短劇出海，叫響鄭州“豎店”品牌，打造“微短劇創作之都”。實施文旅精英集聚計劃，支援企業設立技能大師工作與實訓基地，健全從業人員常態化培訓體系，培育形成規模可觀、結構合理、銳意創新的高水平文旅人才隊伍。深化文化體制機制改革，完善文化管理體制和生產經營機制，探索文化領域行政審批制度改革，完善國有文化資本監管體制機制，支援民營文化企業發展。"
+    },
+    {
+      "id": "mkt:019e6712-f46b-700b-904a-c5f6f0374759",
+      "time": "2026-05-27 09:35:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "005930.KS",
+        "Impact bullish"
+      ],
+      "text": "Samsung Electronics Shares Jump 7.2%"
+    },
+    {
+      "id": "4901306",
+      "time": "2026-05-27 09:35:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【嘉澤新能在寧夏成立智慧能源公司】企查查APP顯示，近日，寧夏嘉澤智慧能源有限公司成立，經營範圍包含：太陽能發電技術服務；風力發電技術服務；生物質能技術服務；合同能源管理等。企查查股權穿透顯示，該公司由嘉澤新能全資持股。"
+    },
+    {
+      "id": "4901305",
+      "time": "2026-05-27 09:35:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈薩克發行34億元人民幣熊貓債，發行利率1.9%。"
+    },
+    {
+      "id": "4901304",
+      "time": "2026-05-27 09:35:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "【N長進盤中漲超1500%】N長進盤中漲超1500%，股價突破680元。"
+    },
+    {
+      "id": "4901303",
+      "time": "2026-05-27 09:35:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【天孚通訊股價創歷史新高】天孚通訊盤中股價創歷史新高，現漲1.44%，報412.61元，總市值為3169.31億元。"
+    },
     {
       "id": "4901302",
       "time": "2026-05-27 09:35:00",
@@ -103,6 +256,15 @@
         "其他"
       ],
       "text": "【2026年1—4月份全國規模以上工業企業利潤增長18.2%】1—4月份，主要行業利潤情況如下：有色金屬冶煉和壓延加工業利潤同比增長1.2倍，計算機、通訊和其他電子裝置製造業增長1.1倍，化學原料和化學制品製造業增長73.4%，煤炭開採和洗選業增長21.0%，紡織業增長11.2%，石油和天然氣開採業增長8.1%，石油、煤炭及其他燃料加工業由虧轉盈，通用裝置製造業下降0.6%，電力、熱力生產和供應業下降2.5%，專用裝置製造業下降7.2%，電氣機械和器材製造業下降11.4%，農副食品加工業下降11.8%，汽車製造業下降16.8%，非金屬礦物製品業下降50.7%，黑色金屬冶煉和壓延加工業下降51.5%。1—4月份，規模以上工業企業實現營業收入44.89萬億元，同比增長5.2%；發生營業成本38.13萬億元，增長4.5%；營業收入利潤率為5.43%，同比提高0.60個百分點。4月末，規模以上工業企業資產總計192.07萬億元，同比增長5.5%；負債合計111.39萬億元，增長5.9%；所有者權益合計80.69萬億元，增長5.1%；資產負債率為58.0%，同比上升0.2個百分點。4月末，規模以上工業企業應收賬款27.44萬億元，同比增長7.2%；產成品存貨6.95萬億元，增長6.7%。1—4月份，規模以上工業企業每百元營業收入中的成本為84.94元，同比減少0.55元；每百元營業收入中的費用為8.39元，同比增加0.01元。4月末，規模以上工業企業每百元資產實現的營業收入為70.8元，同比減少0.2元；人均營業收入為186.8萬元，同比增加11.1萬元；產成品存貨週轉天數為21.4天，同比增加0.4天；應收賬款平均回收期為72.2天，同比增加1.3天。4月份，規模以上工業企業利潤同比增長24.7%。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202605273750578770",
+      "time": "2026-05-27 09:33:45",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【國家統計局：1—4月份半導體相關產業快速發展帶動電子專用材料製造、光纖製造、光電子器件製造行業利潤分別增長601.7%、347.6%、51.0%】國家統計局資料顯示，1—4月份，規模以上高技術製造業利潤同比增長44.8%，拉動全部規模以上工業企業利潤增長7.8個百分點，引領作用持續凸顯。從行業看，半導體相關產業快速發展，帶動電子專用材料製造、光纖製造、光電子器件製造行業利潤分別增長601.7%、347.6%、51.0%。"
     },
     {
       "id": "4901294",
@@ -134685,150 +134847,6 @@
         "焦點"
       ],
       "text": "滬深兩市成交額超5000億元，較上日此時放量166億元。"
-    },
-    {
-      "id": "4889144",
-      "time": "2026-05-20 09:39:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "【農商銀行密集下調存款利率】近日，多地農村商業銀行開啟新的一波存款利率調降潮。進入5月份以來，山西、廣東、內蒙古等多地農商銀行下調存款利率，此次調整存款產品的期限覆蓋面廣，下調幅度高達35個基點，調降後多家銀行一年期、二年期、三年期等期限的存款利率基本進入“1”字頭。 (經濟日報)"
-    },
-    {
-      "id": "4889143",
-      "time": "2026-05-20 09:39:26",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達10億港元。"
-    },
-    {
-      "id": "4889142",
-      "time": "2026-05-20 09:39:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美軍縮減駐歐旅級戰鬥隊】美國國防部19日發表宣告說，已將美軍駐歐洲的旅級戰鬥隊總數從4個縮減至3個，這使得美軍駐歐洲旅級戰鬥隊規模回到2021年的水平。宣告說：“這一決定是對美國在歐洲軍事部署態勢進行全面、多層次評估後作出的。受此影響，美軍向波蘭的兵力部署將出現臨時推遲。”宣告說，依據對美國戰略及作戰需求的進一步分析，並結合盟友為歐洲防務貢獻兵力的能力，國防部將最終確定上述部隊及其他駐歐美軍的後續部署安排。開展此項分析旨在推動美國總統特朗普在歐洲及其他戰區實施的“美國優先”議程，具體舉措包括“激勵並協助北約盟友承擔起歐洲常規防務的主要責任”。美國陸軍代理參謀長克里斯托弗·拉尼夫15日在國會聽證會上說，國防部長赫格塞思下令取消陸軍第一騎兵師第二裝甲旅戰鬥隊原定為期9個月在波蘭的輪換部署。特朗普2日接受採訪時表示，美國計劃大幅削減駐德國的美軍部隊，撤軍人數將“大大超過”五角大樓1日宣佈的5000人。一些批評者認為，撤軍意在報復那些沒有加入美國對伊朗軍事行動的北約盟友。"
-    },
-    {
-      "id": "4889141",
-      "time": "2026-05-20 09:38:22",
-      "tags": [
-        "市場"
-      ],
-      "text": "【燃氣板塊盤初上揚，貴州燃氣漲停】燃氣板塊盤初上揚，貴州燃氣漲停，重慶燃氣、大眾公用、凱添燃氣、美能能源、德龍匯能跟漲。"
-    },
-    {
-      "id": "4889140",
-      "time": "2026-05-20 09:37:35",
-      "tags": [
-        "市場"
-      ],
-      "text": "大盤主力淨流出超100億。"
-    },
-    {
-      "id": "te:markets:552069",
-      "time": "2026-05-20 09:37:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "South Korea",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "South Korean Shares Fall on Risk-Off Sentiment — The benchmark KOSPI fell nearly 2% to around 7,130 on Wednesday, extending losses from the previous session, amid broad risk-off sentiment and semiconductor concerns. US Treasury yields rose as escalating Middle East tensions pressured global equities, with fears of resurging inflation triggering a bond selloff after US President Donald Trump warned that Washington could resume strikes on Iran within days if no agreement is reached. Local tech shares also came under pressure on worries over a potential strike at Samsung Electronics tied to ongoing wage talks with its labor union. Losses were led by Samsung Electronics (-0.4%), SK Hynix (-1.4%), Hyundai Motor (-3.8%), LG Energy Solution (-2.4%), and Doosan Enerbility (-4.8%). Still, sentiment was partly supported after South Korea’s finance minister and central bank governor pledged to cooperate in stabilizing domestic financial markets, while Seoul and Tokyo agreed to strengthen cooperation on supply chains and energy procurement."
-    },
-    {
-      "id": "4889139",
-      "time": "2026-05-20 09:37:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "三大通訊運營商盤初下挫，中國電信跌超5%，中國聯通跌近3%，中國移動跌超2%。"
-    },
-    {
-      "id": "4889138",
-      "time": "2026-05-20 09:37:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內漲幅達1.06%，成分股中，中科飛測漲14.08%，拓荊科技漲5.46%，華海清科漲5.26%，翱捷科技漲4.55%。"
-    },
-    {
-      "id": "4889137",
-      "time": "2026-05-20 09:37:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "【養殖ETF華安於5月20日開啟發行】養殖ETF華安於5月20日開啟發行，該ETF跟蹤中證畜牧養殖產業指數，為投資者佈局畜牧養殖產業鏈龍頭提供便捷工具。華安基金表示，豬週期是指生豬價格呈現週期性波動的經濟現象，當前市場對豬週期關注度較高，豬價下行疊加飼料價格上行，使得產能去化幅度更深。"
-    },
-    {
-      "id": "4889136",
-      "time": "2026-05-20 09:36:56",
-      "tags": [
-        "市場"
-      ],
-      "text": "【創新藥概念表現活躍 奧賽康漲停】創新藥概念表現活躍，奧賽康漲停，津藥藥業、前沿生物、澤璟製藥、維康藥業跟漲。"
-    },
-    {
-      "id": "4889135",
-      "time": "2026-05-20 09:36:36",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4460美元/盎司，日內跌0.53%。"
-    },
-    {
-      "id": "4889134",
-      "time": "2026-05-20 09:36:31",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4460美元/盎司，日內跌1.15%。"
-    },
-    {
-      "id": "4889133",
-      "time": "2026-05-20 09:36:09",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4470美元/盎司，日內跌0.97%。"
-    },
-    {
-      "id": "mkt:019e4306-a842-7228-9b01-9cc00daebb46",
-      "time": "2026-05-20 09:35:55",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Chinese Junk Bond Investors Are Getting Lost in Disclosure Maze】Chinese investors are increasingly frustrated by fragmented disclosure practices among risky borrowers, complicating distressed debt investing. Some China Vanke bondholders missed an April early repayment deadline after failing to locate reminder notices, while two rural banks disclosed deferred coupon payments only via email. Though not rule violations, such practices highlight transparency challenges in China’s credit market despite Beijing’s push to unify disclosure standards, particularly as developer defaults rise."
-    },
-    {
-      "id": "4889132",
-      "time": "2026-05-20 09:35:47",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【光伏裝置板塊盤初拉昇，歐晶科技漲停】光伏裝置板塊盤初拉昇，歐晶科技漲停，聯泓新科、雙良節能、德業股份、晶盛機電、鈞達股份跟漲。"
-    },
-    {
-      "id": "mkt:019e4306-466d-7228-9b01-9021f0a2a5a5",
-      "time": "2026-05-20 09:35:45",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "9626.HK",
-        "Impact bearish"
-      ],
-      "text": "BILIBILI FALLS 4% IN HONG KONG AFTER REPORTING Q1 ADJUSTED NET PROFIT UP 62% Y/Y"
     }
   ]
 }
