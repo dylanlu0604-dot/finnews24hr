@@ -1,7 +1,82 @@
 {
-  "updated": "2026-05-27 13:38:55",
-  "count": 15107,
+  "updated": "2026-05-27 13:42:54",
+  "count": 15112,
   "items": [
+    {
+      "id": "4901728",
+      "time": "2026-05-27 13:42:15",
+      "tags": [],
+      "text": "A股三大指數午後集體翻綠，創業板指一度漲超2％，全市場下跌個股近4500只。"
+    },
+    {
+      "id": "4901727",
+      "time": "2026-05-27 13:41:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深證成指跌1.01%，現報15716.415點；上證指數跌1.20%，現報4095.551點；創業板指跌0.34%，現報4029.126點。"
+    },
+    {
+      "id": "4901726",
+      "time": "2026-05-27 13:41:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍稱已打死哈馬斯新任軍事領導人】以色列國防軍和以色列安全域性27日宣佈，巴勒斯坦伊斯蘭抵抗運動（哈馬斯）新任軍事領導人穆罕默德·奧達26日在對加沙地帶的一次空襲中被打死。（新華社）"
+    },
+    {
+      "id": "4901725",
+      "time": "2026-05-27 13:40:33",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "據報道，埃尼集團將獲得150億歐元融資，用於其與馬來西亞國家石油公司（PETRONAS）的天然氣合資專案。"
+    },
+    {
+      "id": "4901724",
+      "time": "2026-05-27 13:40:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達2.07%，成分股中，拓荊科技跌9.21%，盛美上海跌6.93%，海光資訊跌5.42%，中控技術跌5.00%。"
+    },
+    {
+      "id": "4901723",
+      "time": "2026-05-27 13:40:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "貴州茅臺午後漲超2%，成交額超67億元。"
+    },
+    {
+      "id": "4901722",
+      "time": "2026-05-27 13:39:29",
+      "tags": [
+        "市場",
+        "其他"
+      ],
+      "text": "三大指數午後集體翻綠，滬指跌1.11%。"
+    },
+    {
+      "id": "4901721",
+      "time": "2026-05-27 13:39:22",
+      "tags": [
+        "觀點"
+      ],
+      "text": "高盛：預計配售於2026年5月29日完成。"
+    },
+    {
+      "id": "4901720",
+      "time": "2026-05-27 13:39:05",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "高盛代表Rioja收購公司完成約11.08%的Naturgy股份配售，價格為每股28.55歐元。此次配售毛收入總額達30.7億歐元。"
+    },
     {
       "id": "4901719",
       "time": "2026-05-27 13:37:22",
@@ -135175,42 +135250,6 @@
         "國際"
       ],
       "text": "印度巴拉特石油公司高管表示，莫三比克液化天然氣專案首批貨物預計將於2028年中期交付。"
-    },
-    {
-      "id": "4889517",
-      "time": "2026-05-20 13:42:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "【智象未來超兩千億引數影象大模型HiDream-O1-Image-Pro釋出】5月19日，智象未來舉辦首屆開放日，並正式釋出基於新一代原生全模態模型架構Unified Transformer（UiT）打造的影象大模型HiDream-O1-Image-Pro。這一超兩千億引數的原生全模態影象大模型，標誌著智象未來正向影象、影片、文字、音訊等多模態統一建模的“原生全模態”階段邁進。同時，智象未來宣佈完成新一輪億級融資，深創投、金浦投資、財鑫資本、復聚資本等多家機構參與。這是智象未來半個月內再次完成融資。"
-    },
-    {
-      "id": "te:markets:552135",
-      "time": "2026-05-20 13:42:21",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "NZX 50 Closes at More Than 7-Week Low — The NZX 50 dropped 213 points, or 1.6%, to close at 12,761 on Wednesday, halting gains from the previous session and marking its lowest level since March 30, as it tracked declines on Wall Street overnight due to rising US Treasury yields amid escalating US-Iran tensions. Traders assessed the PBOC’s decision to hold interest rates steady following disappointing Chinese economic data released on Monday, as they looked for guidance on China’s economic outlook, given that the country is New Zealand’s top trading partner. Caution was also built ahead of the release of New Zealand's retail sales data on Friday, with the market expecting quarterly retail sales growth to ease in Q1. Almost all sectors traded in the red, with the biggest losses coming from consumer staples, communication services, industrials, and materials. Summerset Group plunged 5.5%, A2 Milk slumped 4.5%, Auckland International Airport fell 3.4%, Mainfreight dropped 3.1%, and ANZ Group declined 2.6%."
-    },
-    {
-      "id": "4889516",
-      "time": "2026-05-20 13:39:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【越疆成立通用機器人新公司】企查查APP顯示，近日，深圳市越疆通用機器人有限公司成立，註冊資本5000萬元，經營範圍包含智慧機器人的研發；服務消費機器人銷售；智慧機器人銷售；人工智慧理論與演算法軟體開發；人工智慧基礎軟體開發；人工智慧應用軟體開發等。企查查股權穿透顯示，該公司由越疆全資持股。"
-    },
-    {
-      "id": "mkt:019e43e5-4b8d-7cc9-b8d6-400b8f16d921",
-      "time": "2026-05-20 13:38:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TAIWAN'S WEIGHTED INDEX CLOSED DOWN 0.39%"
     }
   ]
 }
