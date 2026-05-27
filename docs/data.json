@@ -1,7 +1,101 @@
 {
-  "updated": "2026-05-27 21:40:26",
-  "count": 14955,
+  "updated": "2026-05-27 21:44:30",
+  "count": 14943,
   "items": [
+    {
+      "id": "te:markets:554123",
+      "time": "2026-05-27 21:42:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "US Natgas Prices Rise on Wednesday — US natural gas futures rose around 2% to $3.07 per MMBtu as producers reduced output and more domestic supply was redirected to LNG export terminals along the Gulf Coast. Estimated gas flows to LNG facilities reached about 18.2 billion cubic feet per day on Tuesday, up 8% from the previous week, as several export plants returned from seasonal maintenance that had temporarily redirected supply into the domestic market. Average gas production in the Lower 48 states slipped to 109.4 billion cubic feet per day so far in May, down from 109.8 billion in April. Lower output and firmer demand in recent weeks likely reduced the storage surplus to around 6% above normal, compared with roughly 7% the week before. However, below-average temperatures are expected across California through May 30 and in the Eastern US from May 31 to June 4, potentially reducing air conditioning demand and allowing more gas to flow into storage."
+    },
+    {
+      "id": "4902775",
+      "time": "2026-05-27 21:42:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "標普500指數轉跌。"
+    },
+    {
+      "id": "4902774",
+      "time": "2026-05-27 21:42:25",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通股價跌幅擴大至2.3%。"
+    },
+    {
+      "id": "4902773",
+      "time": "2026-05-27 21:42:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【寧德時代旗下公司與張雪機車高層正式開始接洽合作】5月27日，有知情人士向介面新聞透露，新能安與張雪機車已就具體合作方案展開接洽。張雪機車創始人張雪以及新能安微型車事業部總裁林曉靜等出席了這一次方案的洽談和交流。此前，新能安曾釋出一則“張雪機車×新能安”主題影片，引發業內對雙方可能展開合作的廣泛猜測。作為寧德時代與ATL合資設立的鋰電池企業，新能安專注能源儲存、短途出行、電動工具、無人機、清潔工具及泛機器人領域。(介面新聞)"
+    },
+    {
+      "id": "4902772",
+      "time": "2026-05-27 21:41:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "【中國工商銀行助力哈薩克共和國成功發行首筆主權熊貓債】5月26日，中國工商銀行作為聯席主承銷商、聯席簿記管理人和賬戶管理行，協助哈薩克共和國在中國銀行間債券市場成功發行34億元主權熊貓債，期限3年。本次發行為哈薩克共和國首次亮相熊貓債市場，對深化中哈金融領域合作具有重要意義。（中國工商銀行）"
+    },
+    {
+      "id": "4902771",
+      "time": "2026-05-27 21:41:19",
+      "tags": [
+        "資料",
+        "市場",
+        "國際"
+      ],
+      "text": "【美債收益率下跌，市場等待美國指標】隨著市場對達成全面重新開放霍爾木茲海峽的協議抱有希望，且一批美國指標釋出在即，美債收益率下跌。油價大跌5%，西得州中質油跌破每桶90美元。華爾街日報美元指數下跌0.1%。今日沒有重要的美國資料公佈。明天，接受《華爾街日報》調查的經濟學家預計，年度個人消費支出(PCE)通脹將加速，第一季度摺合年率的GDP增長率第二次估值將維持在2.0%，首次申請失業救濟人數將小幅上升。10年期國債收益率報4.465%，低於昨日的4.490%。兩年期國債收益率從4.045%跌至4.029%。"
+    },
+    {
+      "id": "4902770",
+      "time": "2026-05-27 21:40:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【黑莓：軟體是物理AI推廣的關鍵制約因素】黑莓表示，目前部署更多具備AI功能的自主機器的主要瓶頸是軟體，而不是硬體。該公司提供實時作業系統的QNX部門釋出了自己的研究報告，該報告稱，89%的機器人開發者表示物理AI已明確列入他們的路線圖，然而91%的開發者仍在通用作業系統上執行實時或對安全性要求極高的工作負載。黑莓表示，隨著機器人進入人類環境，這種錯位正變得更加緊迫，在這些環境中，對可靠性和認證的要求至關重要。該公司表示，三分之二的團隊報告了與認證過程相關的延誤，並且只有29%的團隊對其在現實環境中做出安全、可預測決策的能力感到“非常有信心“。"
+    },
+    {
+      "id": "te:markets:554122",
+      "time": "2026-05-27 21:40:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Trade Muted — US equities were muted on Wednesday, stalling their strong momentum near their record highs amid uncertainty on the sustainability of chip producers and cautious optimism around an agreement with Ukraine. The S&P 500 and Dow were above the flatline at a historic peak, while Nasdaq 100 inched lower. State media in Iran showed an unofficial draft of a peace deal with the US that pledged tanker flows through the Strait of Hormuz to be restored within one month of an agreement, pressuring energy prices and Treasury yields in the session. The improved backdrop supported the Dow following yesterday's underperformance, with P&G adding 2.5% to support consumer defensive companies. In turn, Micron added 2% following its 19% surge yesterday after UBS tripled its price target on the company. On the other hand, software was lower with Microsoft, Amazon, and Alphabet down more than 1%, while Salesforce inched higher ahead of its earnings after the bell."
+    },
+    {
+      "id": "te:markets:554121",
+      "time": "2026-05-27 21:40:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Opens 0.28% Higher — The Dow Jones Index is up by 141 points or 0.28 percent on Wednesday. Top gainers are Nike (2.91%), P&G (2.77%) and Home Depot (2.46%). Biggest losses came from JPMorgan (-1.77%), Caterpillar (-1.53%) and Chevron (-1.45%)."
+    },
+    {
+      "id": "4902769",
+      "time": "2026-05-27 21:39:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蔚來ES9上市：整車購買49.8萬元起，5月28日開啟交付】5月27日晚間訊息，在今日的蔚來ES9上市釋出會上，蔚來創始人、董事長、CEO李斌發表演講。釋出會上，蔚來ES9正式上市。售價方面，行政豪華版整車購買49.8萬元起，採用BaaS電池租用方式購買39萬元起；行政簽名版整車購買55.8萬元起，採用BaaS電池租用方式購買45萬元起；地平線特別版整車購買售價62.8萬元起，採用BaaS電池租用方式購買，售價52萬元起。交付方面，中島佈局版本5月28日開啟交付，通道佈局版本7月中旬開啟交付。（新浪科技）"
+    },
     {
       "id": "4902768",
       "time": "2026-05-27 21:39:35",
@@ -133984,201 +134078,6 @@
         "國際"
       ],
       "text": "美國總統特朗普：在與伊朗的戰爭中，我們只損失了13人。我們需要重新開放霍爾木茲海峽。"
-    },
-    {
-      "id": "mkt:019e45a1-7739-7cc9-95e0-aad1f6b9f1b2",
-      "time": "2026-05-20 21:44:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TRUMP: KASH PATEL IS DOING A VERY GOOD JOB"
-    },
-    {
-      "id": "4890757",
-      "time": "2026-05-20 21:44:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中環新能源聯手黑冕光電，進軍太空光伏賽道】中環新能源於5月20日釋出公告，與蘇州黑冕光電簽署合作協議。雙方將成立合資公司，依託南京航空航天大學郭萬林院士團隊的技術成果，共同研發應用於太空領域的鈣鈦礦/晶矽疊層光伏電池。該技術理論效率可突破43%，功率重量比達1.77瓦/克，且在大幅降低航天製造成本的同時，能有效解決太空極端環境下的元件穩定性難題。"
-    },
-    {
-      "id": "4890756",
-      "time": "2026-05-20 21:44:20",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行貝利：薪資議價水平持續走低。"
-    },
-    {
-      "id": "4890755",
-      "time": "2026-05-20 21:44:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國總統特朗普：今天在伊朗有很多憤怒，因為生活水平很差。"
-    },
-    {
-      "id": "4890752",
-      "time": "2026-05-20 21:43:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "【廣東鴻圖：機器人關節模組相關業務是公司未來重點培育的新興業務領域之一】廣東鴻圖在互動平臺表示，機器人關節模組相關業務是公司未來重點培育的新興業務領域之一。公司積極與行業主流主機廠、科研機構等開展技術交流與合作洽談，目前各項合作均在有序推進中，業務落地進度仍存在一定不確定性，公司將持續推動核心技術研發與市場佈局。"
-    },
-    {
-      "id": "mkt:019e45a1-0875-7cc9-95e0-a5fd733bc6e0",
-      "time": "2026-05-20 21:43:57",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "TRUMP TOUTS INVESTMENTS IN THE US"
-    },
-    {
-      "id": "4890751",
-      "time": "2026-05-20 21:43:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普吹噓在美國的投資。"
-    },
-    {
-      "id": "mkt:019e45a0-a6e3-7cc9-95e0-9b181748efd9",
-      "time": "2026-05-20 21:43:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TRUMP: IRAN IS DECIMATED"
-    },
-    {
-      "id": "4890750",
-      "time": "2026-05-20 21:43:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "英格蘭銀行行長貝利：我們觀察到私營部門工資協議水平正持續逐步回落。"
-    },
-    {
-      "id": "4890749",
-      "time": "2026-05-20 21:43:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊朗已被摧毀。"
-    },
-    {
-      "id": "4890748",
-      "time": "2026-05-20 21:42:59",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根大通預計人工智慧不會影響初級銀行員工的招聘。"
-    },
-    {
-      "id": "mkt:019e459f-f3d2-7cc9-95e0-9725b755b33f",
-      "time": "2026-05-20 21:42:50",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "TRUMP: WE NEED TO REOPEN THE STRAIT OF HORMUZ, AND I’M IN NO RUSH"
-    },
-    {
-      "id": "4890747",
-      "time": "2026-05-20 21:42:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗革命衛隊稱過去24小時內有26艘船隻透過霍爾木茲海峽】伊朗伊斯蘭革命衛隊海軍20日在社交媒體發文稱，在過去24小時內，共有包括油輪、集裝箱船及其他商船在內的26艘船隻在革命衛隊海軍的“協調與安全保障下”透過霍爾木茲海峽。革命衛隊海軍稱，霍爾木茲海峽的通行正透過“獲取許可並與革命衛隊海軍協調”的方式進行。（新華社）"
-    },
-    {
-      "id": "4890746",
-      "time": "2026-05-20 21:42:34",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行行長貝利：我認為通脹預期並未失控。"
-    },
-    {
-      "id": "mkt:019e459f-5f1d-7cc9-95e0-8e27d19acd21",
-      "time": "2026-05-20 21:42:11",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "TRUMP ON IRAN: WE'RE GOING TO GIVE THIS ONE SHOT, AM IN NO HURRY"
-    },
-    {
-      "id": "4890745",
-      "time": "2026-05-20 21:41:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及伊朗局勢：我並不急於行動。"
-    },
-    {
-      "id": "mkt:019e459e-bb66-7cc9-95e0-8459595bc6fc",
-      "time": "2026-05-20 21:41:30",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "TRUMP ON IRAN: I'M IN NO HURRY"
-    },
-    {
-      "id": "4890744",
-      "time": "2026-05-20 21:41:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "據港交所檔案：臨工重機股份有限公司向港交所提交上市申請書。"
-    },
-    {
-      "id": "mkt:019e459e-8d4d-7cc9-95e0-7f0be11c68a3",
-      "time": "2026-05-20 21:41:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TRUMP: GOOD PUTIN, XI MEETING"
-    },
-    {
-      "id": "mkt:019e459e-4f3b-7cc9-95e0-708fc7faa57a",
-      "time": "2026-05-20 21:41:01",
-      "tags": [
-        "MKT News",
-        "005930.KS",
-        "Impact mixed"
-      ],
-      "text": "SAMSUNG ELEC UNION WEBSITE: TO VOTE ON TENTATIVE PAY DEAL FROM MAY 23-MAY 28"
-    },
-    {
-      "id": "4890740",
-      "time": "2026-05-20 21:40:37",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【伊朗議會議長：已關注到物價上漲問題 會努力解決】當地時間20日，伊朗議會議長卡利巴夫在向伊朗民眾釋出的音訊講話中表示，伊朗政府已注意到近期部分基本商品價格上漲以及民眾生活成本增加的問題。卡利巴夫表示，伊朗人民在過去約80天中持續應對來自美國和以色列的壓力，同時近期還面臨日常生活中的經濟困難。他稱，部分基本商品價格上漲、生活成本增加、購買力下降以及部分就業機會減少，正成為民眾當前面臨的問題。他表示，已關注到包括大米、雞肉、雞蛋和肉類在內的部分食品價格上漲情況。卡利巴夫稱，伊朗“敵人”的誤判之一，是認為經濟壓力會削弱伊朗社會凝聚力。但他表示，伊朗民眾近期依然保持團結，並繼續“站在對抗敵人的前線”。卡利巴夫還表示，伊朗相關機構及官員應以同樣的精神和決心投入服務工作，努力解決民眾民生問題。（央視新聞）"
-    },
-    {
-      "id": "4890739",
-      "time": "2026-05-20 21:40:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "【最高檢生態環境部聯合召開服務保障長江經濟帶高質量發展研討會】5月20日，最高人民檢察院與生態環境部聯合在四川宜賓召開檢察機關服務保障長江經濟帶高質量發展研討會。近年來，檢察機關深入學習貫徹習近平總書記關於推動長江經濟帶發展重要論述精神，依法全面履行檢察職能，持續落實服務保障長江經濟帶發展十項檢察措施，部署開展打擊長江流域非法捕撈等系列專項行動，立案辦理長江船舶汙染治理公益訴訟專案，加強與生態環境等部門協同協作，攜手各方推進“共抓大保護”取得新成效。（最高人民檢察院）"
     }
   ]
 }
