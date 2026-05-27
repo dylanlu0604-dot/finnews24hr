@@ -1,7 +1,35 @@
 {
-  "updated": "2026-05-28 04:25:45",
-  "count": 14883,
+  "updated": "2026-05-28 04:29:36",
+  "count": 14881,
   "items": [
+    {
+      "id": "te:markets:554179",
+      "time": "2026-05-28 04:26:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Slides on Mining and Energy Losses — The S&P/TSX Composite Index fell 0.7% to close at 34,412 on Wednesday as investors assessed mixed signals regarding prospects for a US-Iran deal to end the war and restore energy flows through the Strait of Hormuz. The US denied an Iranian media report on a draft interim agreement stating that traffic through Hormuz could return to normal within a month after the deal takes effect. Miners led losses as gold prices declined, with Agnico Eagle down 3%, Barrick losing 1.7%, and WPM shedding 2.4%. The energy sector also weakened as oil prices fell below $90 per barrel, with Canadian Natural and Suncor down 2.2%, while Imperial Oil lost 3.4%. Financials traded mixed despite positive earnings from three of Canada’s six largest lenders. BMO rose 0.8%, BNS added 0.5%, and NBC fell 4% after reporting second-quarter profits that beat estimates on strong domestic and capital markets income. Meanwhile, RBC, TD Bank, and CIBC traded lower ahead of earnings due on Thursday."
+    },
+    {
+      "id": "4903182",
+      "time": "2026-05-28 04:26:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "消防部門官員稱，華盛頓州一處化學品儲罐發生破裂，當地供水系統未受到威脅。"
+    },
+    {
+      "id": "mkt:019e6b1d-be9b-799f-bbe6-cc703b55c61e",
+      "time": "2026-05-28 04:26:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New York Stock Exchange: As of May 15, New York Stock Exchange Group's current total short positions stood at 21,554,077,204 shares, up from the prior reading of 20,799,838,113 shares."
+    },
     {
       "id": "4903181",
       "time": "2026-05-28 04:24:59",
@@ -133370,46 +133398,6 @@
         "市場"
       ],
       "text": "英偉達公佈業績後，其股價在盤後交易中翻紅，最新上漲0.5%，報每股224.64美元。"
-    },
-    {
-      "id": "4891216",
-      "time": "2026-05-21 04:29:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "英偉達第一季度邊緣計算收入達63.7億美元。"
-    },
-    {
-      "id": "4891215",
-      "time": "2026-05-21 04:29:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "英偉達：Vera Rubin相關業務進展順利，定於今年下半年（三季度起）正式落地。"
-    },
-    {
-      "id": "4891214",
-      "time": "2026-05-21 04:27:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "英偉達：將推出資料中心與邊緣計算市場平臺。"
-    },
-    {
-      "id": "4891213",
-      "time": "2026-05-21 04:27:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "英偉達：第一財季超大規模雲服務商客戶收入環比增長。"
-    },
-    {
-      "id": "4891212",
-      "time": "2026-05-21 04:26:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "英偉達：一季度超大規模業務營收環比增長。"
     }
   ]
 }
