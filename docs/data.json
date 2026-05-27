@@ -1,7 +1,37 @@
 {
-  "updated": "2026-05-28 04:21:50",
-  "count": 14889,
+  "updated": "2026-05-28 04:25:45",
+  "count": 14883,
   "items": [
+    {
+      "id": "4903181",
+      "time": "2026-05-28 04:24:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "Perella Weinberg（佩雷拉·溫伯格）將裁員10%，其中包括合夥人。"
+    },
+    {
+      "id": "mkt:019e6b1a-665c-799f-bbe6-c34a25afc175",
+      "time": "2026-05-28 04:22:32",
+      "tags": [
+        "MKT News",
+        "HPQ.N",
+        "Impact bearish"
+      ],
+      "text": "HP (HPQ.N) retreated sharply in after-hours trading and is now trading lower after earlier gains of nearly 14%."
+    },
+    {
+      "id": "mkt:019e6b19-d75b-799f-bbe6-bab9d99750e5",
+      "time": "2026-05-28 04:21:56",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Nasdaq100",
+        "Impact bearish"
+      ],
+      "text": "Nasdaq: As of May 15, short interest in Nasdaq Global Market securities totaled 17,000,786,423 shares, up from 16,707,836,595 shares on the prior settlement date of April 30."
+    },
     {
       "id": "mkt:019e6b18-3e06-799f-bbe6-b3987e3db127",
       "time": "2026-05-28 04:20:10",
@@ -133380,84 +133410,6 @@
         "其他"
       ],
       "text": "英偉達：一季度超大規模業務營收環比增長。"
-    },
-    {
-      "id": "4891211",
-      "time": "2026-05-21 04:25:34",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "英偉達股價在下跌3.2%後轉漲。"
-    },
-    {
-      "id": "te:markets:552419",
-      "time": "2026-05-21 04:25:27",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Nvidia earnings above expectations at 1.87 USD — Nvidia (NVDA) released earnings per share at 1.87 USD, compared to market expectations of 1.77 USD."
-    },
-    {
-      "id": "4891210",
-      "time": "2026-05-21 04:24:57",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "英偉達財報釋出後，美股半導體ETF下跌1.2%。"
-    },
-    {
-      "id": "4891209",
-      "time": "2026-05-21 04:24:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "英偉達第一財季調整後每股收益1.87美元，市場預估為1.77美元。"
-    },
-    {
-      "id": "4891208",
-      "time": "2026-05-21 04:23:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "英偉達預計第二財季營收891.8億至928.2億美元。"
-    },
-    {
-      "id": "4891207",
-      "time": "2026-05-21 04:23:07",
-      "tags": [
-        "市場"
-      ],
-      "text": "英偉達美股盤後跌超3%。"
-    },
-    {
-      "id": "4891206",
-      "time": "2026-05-21 04:22:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "英偉達第一季度資料中心業務營收為752億美元。"
-    },
-    {
-      "id": "4891205",
-      "time": "2026-05-21 04:22:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "英偉達第一季度淨利潤為583億美元。"
-    },
-    {
-      "id": "4891204",
-      "time": "2026-05-21 04:21:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "英偉達第一季度營業利潤為535億美元。"
     }
   ]
 }
