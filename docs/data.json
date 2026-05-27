@@ -1,7 +1,133 @@
 {
-  "updated": "2026-05-28 07:49:10",
-  "count": 14825,
+  "updated": "2026-05-28 07:53:19",
+  "count": 14820,
   "items": [
+    {
+      "id": "4903321",
+      "time": "2026-05-28 07:51:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本5月22日當週外資淨買進日本股票 10804億日元，前值 9496億日元。日本5月22日當週淨買進國外債券 103億日元，前值 7587億日元。日本5月22日當週外資淨買進日本債券 13460億日元，前值 -10334億日元。日本5月22日當週淨買進國外股票 -3587億日元，前值 414億日元。"
+    },
+    {
+      "id": "mkt:019e6bda-1bc7-722a-b523-0ad000659854",
+      "time": "2026-05-28 07:50:53",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Japan's net purchases of foreign equities in the week through May 22 were -358.7 bln yen; previous week +41.4 bln yen."
+    },
+    {
+      "id": "mkt:019e6bda-1bbd-722a-b523-00fecd4babb6",
+      "time": "2026-05-28 07:50:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "In the week to May 22, foreign investors were net buyers of Japanese government bonds (JGBs) JPY 1,346 bln; prior week net flow was -JPY 1,033.4 bln."
+    },
+    {
+      "id": "4903320",
+      "time": "2026-05-28 07:50:47",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【人民日報對話華為公司董事、半導體業務部總裁何庭波：一直往前走，終歸可以找到橋和路】人民日報釋出對華為公司董事、半導體業務部總裁何庭波的專訪。何庭波表示，在“韜定律”下，晶片的演進可以有“加速度”的發展。今年秋季，華為要釋出新的麒麟手機晶片，這是第一個完整的“韜晶片”。從效能、整合度、電晶體密度等方面看，相比去年的提升是“跳躍性”的。未來5年到10年，我們有信心在“韜定律”下穩步前進。這個“加速度”可以跟另外一條路徑相比，不會越來越遠，只會越來越好。"
+    },
+    {
+      "id": "mkt:019e6bda-1bb7-722a-b522-fe40d53f45ee",
+      "time": "2026-05-28 07:50:43",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Weekly Foreign Stocks Buying (May.22) | actual -358700000000B | previous 41400000000B"
+    },
+    {
+      "id": "mkt:019e6bd9-f9c5-722a-b522-f6bf3b4400a9",
+      "time": "2026-05-28 07:50:31",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Weekly Foreign investment in Japanese Bonds (May.22) | actual 1346000000000B | previous -1033400000000B"
+    },
+    {
+      "id": "mkt:019e6bd9-ac09-722a-b522-ef71ac5d1fdf",
+      "time": "2026-05-28 07:50:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Foreign investors bought Japanese equities ¥1.0804 tln in the week to May 22; the prior amount was revised from ¥949.6 bln to ¥948.4 bln."
+    },
+    {
+      "id": "mkt:019e6bd9-0b9e-722a-b522-e2a73de4f100",
+      "time": "2026-05-28 07:50:10",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "Japan bought foreign bonds worth ¥10.3 bln in the week to May 22; the previous figure was revised from ¥758.7 bln to ¥762.1 bln."
+    },
+    {
+      "id": "te:markets:554202",
+      "time": "2026-05-28 07:50:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Rises on US-Iran Deal Uncertainties — Brent crude futures climbed toward $96 per barrel on Thursday, recovering some losses from the previous session as negotiations between the US and Iran remained deadlocked over several key issues tied to ending the conflict. Among the main obstacles are Tehran’s demands to maintain control of the Strait of Hormuz and preserve its nuclear program. President Donald Trump also reiterated that Washington would not accept what he described as a bad deal, while rejecting any sanctions relief despite Iran’s calls for an end to attacks and economic concessions. Meanwhile, Iranian state television reported the existence of an unofficial draft agreement aimed at halting the war, though the White House dismissed the claim as “a complete fabrication.” Even so, oil prices remain on track for a second straight weekly decline amid expectations that both sides could eventually secure a peace agreement and reopen the Strait of Hormuz."
+    },
+    {
+      "id": "mkt:019e6bd8-58b0-722a-b522-deeb0aaa8b78",
+      "time": "2026-05-28 07:50:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Weekly Foreign investment in Japanese Stocks (May.22) | actual 1080400000000B | previous 949600000000B"
+    },
+    {
+      "id": "mkt:019e6bd8-58a5-722a-b522-d57973fe57fd",
+      "time": "2026-05-28 07:50:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Weekly Foreign Bonds Buying (May.22) | actual 10300000000B | previous 758700000000B"
+    },
+    {
+      "id": "te:markets:554201",
+      "time": "2026-05-28 07:49:27",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Rises on US-Iran Deal Uncertainties — WTI crude futures climbed toward $90 per barrel on Thursday, recovering some losses from the previous session as negotiations between the US and Iran remained deadlocked over several key issues tied to ending the conflict. Among the main obstacles are Tehran’s demands to maintain control of the Strait of Hormuz and preserve its nuclear program. President Donald Trump also reiterated that Washington would not accept what he described as a bad deal, while rejecting any sanctions relief despite Iran’s calls for an end to attacks and economic concessions. Meanwhile, Iranian state television reported the existence of an unofficial draft agreement aimed at halting the war, though the White House dismissed the claim as “a complete fabrication.” Even so, oil prices remain on track for a second straight weekly decline amid expectations that both sides could eventually secure a peace agreement and reopen the Strait of Hormuz."
+    },
     {
       "id": "4903319",
       "time": "2026-05-28 07:48:33",
@@ -132841,169 +132967,6 @@
         "日本"
       ],
       "text": "日本3月份核心機械訂單環比下降9.4%，預估為下降8.4%。"
-    },
-    {
-      "id": "4891423",
-      "time": "2026-05-21 07:52:56",
-      "tags": [
-        "央行",
-        "宏觀",
-        "公司",
-        "國際"
-      ],
-      "text": "【美國財長貝森特稱高債券收益率與高能源價格屬暫時性因素，伊朗戰事結束後將回落】伊朗局勢引發的能源衝擊、通脹擔憂加劇以及降息預期降溫，令債券投資者與各國央行官員倍感緊張。但美國財政部長斯科特・貝森特表示，他認為當前偏高的債券收益率與整體通脹均為暫時性現象，待相關衝突平息後便會逐步回落。貝森特本週接受媒體採訪時稱，在巴黎舉行的七國集團財長會議上，與會各國央行官員對通脹問題及債券市場拋售潮的擔憂情緒，遠比他更為強烈。“身為央行官員，表態表達擔憂本就是分內之事，” 貝森特說道，“措辭表態越是強硬，實際採取調控舉措的必要性反而越低。”他提及，加拿大央行行長蒂夫・麥克勒姆坦言當前局勢嚴峻，央行或被迫加息，若後續市場需求走弱，又可迅速轉向降息。“而我無需刻意放出強硬言論，眼下這些波動都只是暫時的，” 貝森特表示，“衝突終有落幕之日，航運航道恢復暢通後，能源價格也將回歸常態。”"
-    },
-    {
-      "id": "mkt:019e47cd-bfe7-777e-a127-1f898aa9e96a",
-      "time": "2026-05-21 07:51:41",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Adjusted Merchandise Trade Balance (Apr) | actual 236400000000B | consensus -200200000000B | previous 90700000000B"
-    },
-    {
-      "id": "4891422",
-      "time": "2026-05-21 07:51:39",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【SpaceX招股書披露：“星艦”研發已投入超150億美元】當地時間5月20日，SpaceX向美國證券交易委員會（SEC）提交的上市申請檔案披露，公司在研發巨型“星艦”（Starship）火箭專案上已累計投入超過150億美元。這一數字超出了執行長埃隆·馬斯克在2018年做出的20億至100億美元的研發成本預測。檔案顯示，SpaceX對“星艦”的研發投入正呈加速趨勢：2025年該專案的研發支出約為30億美元，而2024年的支出則為18.4億美元。目前，“星艦”的製造和發射均在得克薩斯州南部的星際基地進行。"
-    },
-    {
-      "id": "4891421",
-      "time": "2026-05-21 07:51:16",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本至5月15日當週買進外國債券 7587億日元，前值由16407億日元修正為16443億日元。日本至5月15日當週外資買進日股 9496億日元，前值由14375億日元修正為13935億日元。日本至5月15日當週買進外國股票 414億日元，前值-5936億日元。日本至5月15日當週外資買進日債 -10334億日元，前值1062億日元。"
-    },
-    {
-      "id": "em:jjsj_rbsj:202605213744133671",
-      "time": "2026-05-21 07:51:14",
-      "tags": [
-        "經濟數據",
-        "日本"
-      ],
-      "text": "日本4月份出口同比增長14.8%，預估為9.2%。日本4月份進口同比增長9.7%，預估為8.5%。"
-    },
-    {
-      "id": "4891420",
-      "time": "2026-05-21 07:51:02",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【華泰證券：矽光技術有望成為全新增長極 關注半導體代工企業發展機會】華泰證券研報透過對16家全球主要半導體代工及封測企業2026年一季度業績的分析，注意到為了滿足快速增長的AI晶片需求，臺積電、三星、海力士、美光等頭部半導體制造企業一方面加大自身的裝置投資，另一方面積極調整供應鏈戰略，加大與產業鏈企業在成熟工藝代工和先進封裝上的合作力度，“矽光”有望成為代工企業的新增長點。光互連是解決AI叢集內部高速資料傳輸瓶頸的關鍵，正推動矽光從匯入期邁向規模量產。華泰證券預計2026年全球半導體企業資本開支同比或增長32%到2272億美元，WFE（晶圓製造裝置）收入同比或增長27%到1650億美元。"
-    },
-    {
-      "id": "4891419",
-      "time": "2026-05-21 07:50:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本3月核心機械訂單較上年同期增加5.9%(調查預估為增加4.5%)；日本3月核心機械訂單較前月減少9.4%(調查預估為減少8.1%)。"
-    },
-    {
-      "id": "mkt:019e47cc-d757-777e-a127-1223f967dd2b",
-      "time": "2026-05-21 07:50:33",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Weekly Foreign investment in Japanese Bonds (May.15) | actual -1033400000000B | previous 106200000000B"
-    },
-    {
-      "id": "mkt:019e47cc-4a1f-777e-a127-09c894b56b70",
-      "time": "2026-05-21 07:50:25",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Weekly Foreign Stocks Buying (May.15) | actual 41400000000B | previous -593600000000B"
-    },
-    {
-      "id": "4891418",
-      "time": "2026-05-21 07:50:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本4月份進口同比增長9.7%，預估為8.5%。日本4月份出口同比增長14.8%，預估為9.2%。"
-    },
-    {
-      "id": "mkt:019e47cc-0d8d-777e-a127-0460ceb50fb6",
-      "time": "2026-05-21 07:50:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Weekly Foreign investment in Japanese Stocks (May.15) | actual 949600000000B | previous 1437500000000B"
-    },
-    {
-      "id": "mkt:019e47cb-d476-777e-a126-f8556c3620f2",
-      "time": "2026-05-21 07:50:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Weekly Foreign Bonds Buying (May.15) | actual 758700000000B | previous 1640700000000B"
-    },
-    {
-      "id": "mkt:019e47cb-d3a9-777e-a126-f0cddfdde9bd",
-      "time": "2026-05-21 07:50:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Core Machinery Orders (YoY) (Mar) | actual 5.9% | consensus 4.5% | previous 24.70%"
-    },
-    {
-      "id": "mkt:019e47cb-d3a8-777e-a126-ec121e95807e",
-      "time": "2026-05-21 07:50:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Core Machinery Orders (MoM) (Mar) | actual -9.4% | consensus -8.10% | previous 13.60%"
-    },
-    {
-      "id": "mkt:019e47cb-d2d2-777e-a126-e6ec4b1cca84",
-      "time": "2026-05-21 07:50:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Unadjusted Merchandise Trade Balance (Apr) | actual 301900000000B | consensus -44500000000B | previous 667000000000B"
-    },
-    {
-      "id": "mkt:019e47cb-d1e8-777e-a126-d9d048441a4a",
-      "time": "2026-05-21 07:50:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Annualized Adjusted Merchandise Trade Imports (Apr) | actual 9.7% | consensus 8.3% | previous 10.90%"
-    },
-    {
-      "id": "mkt:019e47cb-d1d9-777e-a126-d6e12d0194cd",
-      "time": "2026-05-21 07:50:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Annualized Adjusted Merchandise Trade Exports (Apr) | actual 14.8% | consensus 9.3% | previous 11.70%"
     }
   ]
 }
