@@ -1,7 +1,96 @@
 {
-  "updated": "2026-05-27 14:46:36",
-  "count": 15111,
+  "updated": "2026-05-27 14:50:29",
+  "count": 15112,
   "items": [
+    {
+      "id": "mkt:019e6832-64cd-700e-adbe-524ff7dc4c51",
+      "time": "2026-05-27 14:49:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "France's finance minister says no risk of fuel shortages over next two months"
+    },
+    {
+      "id": "4901849",
+      "time": "2026-05-27 14:49:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超3.1萬億元，較上日此時縮量25億元。"
+    },
+    {
+      "id": "mkt:019e6831-c75f-700e-adbe-4d30c8099f54",
+      "time": "2026-05-27 14:49:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【UK and Poland to Sign 'Historic' Defence and Security Agreement】UK government says it will sign a new defence and security pact with Poland during TUSK's visit on the 27th; announcement made on the 26th; pact aims to counter \"modern security threats\", bolster border security, fight organised crime and deepen EU defence cooperation; UK previously reached similar pacts with France and Germany"
+    },
+    {
+      "id": "4901848",
+      "time": "2026-05-27 14:49:10",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【歐洲央行官員斯圖納拉斯：6月可能加息】歐洲央行管理委員會成員Yannis Stournaras對希臘媒體Kathimerini表示，鑑於中東衝突及其引發的能源價格上漲持續時間可能更長，央行6月加息是最有可能的情況。“最有可能的結果是6月加息，”同時擔任希臘央行行長的Stournaras表示。“如果通脹率出現顯著但暫時的超標，應對措施應該保持平衡，”並補充說，“謹慎地調整貨幣政策，使其向更緊縮的方向發展，能夠在不過度影響經濟活動的情況下，限制繼發效應的強度。”歐洲央行管理委員會成員、拉脫維亞央行行長Martins Kazaks也對Kathimerini表示，戰爭導致能源價格持續高位的時間比預期更長，因此加息的可能性很大。"
+    },
+    {
+      "id": "4901847",
+      "time": "2026-05-27 14:48:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "挪威競爭管理局開始對銀行展開調查。"
+    },
+    {
+      "id": "mkt:019e6830-a339-700e-adbe-466974078ff3",
+      "time": "2026-05-27 14:47:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Hang Seng Tech Index falls over 1% after earlier rising more than 1%"
+    },
+    {
+      "id": "4901846",
+      "time": "2026-05-27 14:47:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國財長：法國未來兩個月內不會出現燃料短缺風險。"
+    },
+    {
+      "id": "4901845",
+      "time": "2026-05-27 14:46:56",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生指數跌超1%，現報25305.529點；恒生科技指數現跌1.004%。"
+    },
+    {
+      "id": "4901844",
+      "time": "2026-05-27 14:46:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【野村：新加坡強勁的經濟增長料將持續】野村研究分析師在一份報告中寫道，新加坡強勁的增長可能具有可持續性。他們表示，在服務業和製造業的推動下，新加坡貿工部大幅上調了第一季度GDP增速，這表明該國面對外部不利因素繼續保持韌性。他們補充說，儘管發生了伊朗戰爭，多重增長引擎將保持完好，部分原因是全球科技和不斷擴大的AI相關需求繼續提振電子產品產量。野村將其對2026年GDP增長的預測從3.7%上調至4.6%，並將2027年的預測從之前的2.6%上調至3.0%。他們表示，面向國內的行業的增長也可能保持強勁，強勁的製造業將溢位到服務業。"
+    },
+    {
+      "id": "mkt:019e682f-89ef-700e-adbe-388cfe99d398",
+      "time": "2026-05-27 14:46:43",
+      "tags": [
+        "MKT News",
+        "600519.SS",
+        "Impact bullish"
+      ],
+      "text": "Kweichow Moutai late-session turnover exceeds CNY10 bln, stock up 1.87%"
+    },
     {
       "id": "4901843",
       "time": "2026-05-27 14:45:43",
@@ -102,6 +191,15 @@
         "其他"
       ],
       "text": "法國財長：政府將提交不增稅的預算案。"
+    },
+    {
+      "id": "4901835",
+      "time": "2026-05-27 14:43:47",
+      "tags": [
+        "宏觀",
+        "兩會"
+      ],
+      "text": "【全國人大常委會法工委：立法規劃實施成效顯著】全國人大常委會法工委副主任黃薇在國務院新聞辦新聞釋出會上表示，截至目前，十四屆全國人大常委會立法規劃推進順利，任期內擬提請審議的79件第一類專案已完成58件，完成率為73.4%，其他專案有序推動。（新華社）"
     },
     {
       "id": "mkt:019e682c-9aff-700e-adbe-1816299d0789",
@@ -135180,96 +135278,6 @@
         "市場"
       ],
       "text": "現貨白銀日內漲2%，現報75.17美元/盎司。"
-    },
-    {
-      "id": "4889624",
-      "time": "2026-05-20 14:50:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "挪威 4 月石油產量較挪威石油理事會預期高出 7.5%。"
-    },
-    {
-      "id": "mkt:019e4426-1457-7cc9-95db-30b4a592fc2d",
-      "time": "2026-05-20 14:50:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "PUTIN: SIGNED DOCUMENTS AIM FOR CONTINUATION OF ECONOMIC COOPERATION"
-    },
-    {
-      "id": "mkt:019e4425-c610-7cc9-95db-28941f1bb007",
-      "time": "2026-05-20 14:49:46",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "PUTIN: TODAY'S TALKS WERE FRIENDLY, WARM AND CONSTRCUTIVE"
-    },
-    {
-      "id": "4889623",
-      "time": "2026-05-20 14:49:45",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨白銀突破75美元/盎司，日內漲1.81%。"
-    },
-    {
-      "id": "4889622",
-      "time": "2026-05-20 14:49:44",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【美伊衝突美國人多掏3064億油費 美國工資增幅3年首次跑輸通脹】美伊談判陷入僵局，全球油價持續飆升。最新資料顯示，戰爭期間美國人在汽油上的累計開銷同比激增約450億美元（約合3064億元人民幣），吞噬了中低收入家庭的大量薪水。《華爾街日報》指出，汽油價格高企，也導致美國人的薪資增幅在三年來首次跑輸通脹。“美國人的加薪幅度已跟不上日益上漲的生活成本。”加油站也感受到了這種影響。紐約聯邦儲備銀行研究顯示，隨著3月份以來油價飆升，年收入低於12.5萬美元（約合人民幣85萬元）的家庭減少了總體的加油量。"
-    },
-    {
-      "id": "4889621",
-      "time": "2026-05-20 14:49:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "【高德紅綠燈倒計時宣佈出海，將覆蓋更多國家和地區】5月20日，高德紅綠燈倒計時宣佈出海，將在全球更多國家和地區逐步落地。紅綠燈倒計時是阿里巴巴旗下高德於2022年5月推出的產品功能，基於AI技術，能夠對路口訊號燈變化進行實時模擬與計算。截至目前，高德紅綠燈倒計時已在中國大陸及港澳臺地區全面落地，覆蓋紅綠燈路口近50萬個。"
-    },
-    {
-      "id": "4889620",
-      "time": "2026-05-20 14:48:48",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【英偉達向邁威爾投資20億美元 擬將其AI晶片接入資料中心】英偉達將向矽谷晶片製造商邁威爾（Marvell）投資20億美元，旨在強化網路技術，將其AI晶片接入規模更龐大的資料中心。 兩家半導體企業週二表示，將合作研發矽光子技術，藉助光學技術升級資料中心網路系統，提升資料傳輸速率。 英偉達與邁威爾的交易，還將助力科技巨頭將自研定製AI晶片接入英偉達的資料中心繫統。 邁威爾為亞馬遜等美國科技巨頭設計專用AI加速晶片，可替代英偉達的通用圖形處理器（GPU）。 兩家公司稱，此次合作將實現此類定製AI晶片與英偉達GPU、網路及儲存系統的無縫整合。"
-    },
-    {
-      "id": "mkt:019e4425-4c61-7cc9-95db-257bba67cb07",
-      "time": "2026-05-20 14:48:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "PUTIN: RUSSIA-CHINA RELATIONS REACHED UNPRECEDENTED LEVEL AND CONTINUE TO DEVELOP"
-    },
-    {
-      "id": "mkt:019e4424-f114-7cc9-95db-1a062ae57f17",
-      "time": "2026-05-20 14:48:37",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "PUTIN: THANKS XI FOR WARM WELCOME"
-    },
-    {
-      "id": "mkt:019e4424-a2e9-7cc9-95db-155b33f07dc7",
-      "time": "2026-05-20 14:48:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CHINA'S XI: CHINA RUSSIA SHOULD OPPOSE \"ALL UNILATERAL BULLYING AND ACTIONS THAT REVERSE HISTORY\""
     }
   ]
 }
