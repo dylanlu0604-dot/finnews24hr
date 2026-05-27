@@ -1,7 +1,31 @@
 {
-  "updated": "2026-05-28 03:29:13",
-  "count": 14879,
+  "updated": "2026-05-28 03:33:05",
+  "count": 14880,
   "items": [
+    {
+      "id": "mkt:019e6aeb-9937-7223-8ed9-0e01a44e9b88",
+      "time": "2026-05-28 03:31:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IMF says Sri Lanka faces downside risks from the Middle East war and the aftermath of Cyclone Ditewa, but expects the economy to remain resilient."
+    },
+    {
+      "id": "4903152",
+      "time": "2026-05-28 03:30:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：05月28日03時22分在新疆巴音郭楞州和靜縣（北緯42.35度，東經84.78度）發生3.0級地震，震源深度41千米。"
+    },
+    {
+      "id": "4903151",
+      "time": "2026-05-28 03:30:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "國際貨幣基金組織就斯里蘭卡經濟表態：中東局勢衝突及迪特瓦氣旋後續影響構成下行風險，但該國經濟料將保持韌性。"
+    },
     {
       "id": "mkt:019e6ae5-c312-7223-8ed9-015ba6039145",
       "time": "2026-05-28 03:25:02",
@@ -133320,22 +133344,6 @@
         "Impact bullish"
       ],
       "text": "GOOGLE: NEW $15 BILLION INVESTMENT IN BUILDING INFRASTRUCTURE IN MISSOURI, INCLUDING A NEW DATA CENTER IN NEW FLORENCE, MONTGOMERY COUNT"
-    },
-    {
-      "id": "4891170",
-      "time": "2026-05-21 03:32:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌：將在密蘇里州投資150億美元新建基建，其中包括在蒙哥馬利縣新佛羅倫薩新建一座資料中心。"
-    },
-    {
-      "id": "4891169",
-      "time": "2026-05-21 03:31:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "預計本財年美國聯邦財政赤字將達2萬億美元。"
     }
   ]
 }
