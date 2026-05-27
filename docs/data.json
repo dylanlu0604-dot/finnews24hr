@@ -1,7 +1,81 @@
 {
-  "updated": "2026-05-27 09:55:04",
-  "count": 15076,
+  "updated": "2026-05-27 09:59:03",
+  "count": 15074,
   "items": [
+    {
+      "id": "4901357",
+      "time": "2026-05-27 09:58:08",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【聲網母公司2026年一季度實現淨利潤111萬美元】5月27日，聲網母公司Agora, Inc.( NASDAQ：API ) 公佈了2026年第一季度財報。財報顯示，第一季度Agora, Inc.總營收3775萬美元，同比增長13.5%。該公司指引二季度營收區間為3900萬至4000萬美元，同比增長13.7%—16.6%。在美國通用會計準則（GAAP）下，Agora, Inc. 第一季度淨利潤為111萬美元，淨利潤率2.9%，同比增長172%，繼2024年第四季度同比扭虧為盈後，連續六個季度實現GAAP盈利。"
+    },
+    {
+      "id": "4901356",
+      "time": "2026-05-27 09:57:25",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超1萬億元，較上日此時縮量1107億元。"
+    },
+    {
+      "id": "4901355",
+      "time": "2026-05-27 09:57:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "港股晶片股延續漲勢，新股雲英谷科技漲幅擴大至41%，納芯微漲超11%，兆易創新漲近8%，瀾起科技、華虹半導體漲超6%，中芯國際漲超4%。"
+    },
+    {
+      "id": "4901354",
+      "time": "2026-05-27 09:56:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣西壯族自治區政府與智慧機器人企業簽署戰略合作協議】據廣西壯族自治區人民政府入口網站訊息，5月26日，廣西壯族自治區政府與智元創新（上海）科技股份有限公司、廣西階段者機器人有限公司在南寧簽署戰略合作協議。根據協議，三方將依託中國—東盟國家人工智慧應用合作中心等平臺優勢，共同推動數字經濟發展，努力構建立足廣西、輻射東盟的具身智慧機器人應用樞紐。"
+    },
+    {
+      "id": "te:economy:553886",
+      "time": "2026-05-27 09:56:15",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Corporate Profits",
+        "Importance 1"
+      ],
+      "text": "China Industrial Profits Jump 18.2% In Jan-Apr — China’s industrial profits jumped 18.2% year-on-year in the January–April 2026 period, following a 15.5% rise in the first quarter. The strong growth came despite external headwinds from persistent tensions in the Middle East, which have heightened uncertainty over global demand and supply chains. State-owned enterprises posted solid growth, with profits rising 17.1% to CNY 827.15 billion. Joint-stock companies also reported a 24.0% jump in profits to CNY 1,883.44 billion. Private firms remained a key driver, although profit growth eased to 23.7% from 25.4%, reaching CNY 651.14 billion. By sector, manufacturing continued to lead gains, with profits climbing 20.4%, followed by mining at 26.0%, while utilities profits fell 1.9%. Among industries, notable increases were recorded in computer, communication, and other electronic equipment manufacturing (107.7%) and non-ferrous metal smelting and rolling processing (117.8%). In April alone, industrial profits grew 24.7% from a year ago."
+    },
+    {
+      "id": "mkt:019e6724-ec07-700b-904b-0f696594a489",
+      "time": "2026-05-27 09:55:33",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "【Australia Apr Trimmed-Mean Inflation Above RBA Upper Target】Australia Apr Trimmed-Mean Inflation 3.4% YoY Above RBA 2%-3% Target Upper Bound; Swap Market Prices ~50% Chance Of Aug RBA Hike (Pre-Print 64%); Unemployment Rises To 4.5-yr High; ~1/3 Firms Report Revenue Drop Past 4 Weeks, 50% Report Higher Operating Costs; Markets Expect RBA To Keep Cash Rate At 4.35% In June; Auto Fuel Prices 23.5% Above Pre-Mideast-Conflict Levels"
+    },
+    {
+      "id": "4901353",
+      "time": "2026-05-27 09:55:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "大盤主力淨流出超100億。"
+    },
+    {
+      "id": "4901352",
+      "time": "2026-05-27 09:54:58",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【Omdia：Q1中東智慧手機市場出貨量下滑6% 三星、榮耀、傳音位列前三】據分析機構Omdia資料顯示，2026年第一季度中東地區智慧手機市場中，三星、榮耀、傳音、蘋果、小米位列前五。其中，三星以34%的市場份額位列第一，出貨量同比增長1%；榮耀以18%的市場份額位列第二，出貨量同比增長73%。"
+    },
     {
       "id": "4901351",
       "time": "2026-05-27 09:53:50",
@@ -134886,98 +134960,6 @@
         "市場"
       ],
       "text": "【光纖、CPO等算力硬體股震盪上揚，杭電股份等股創新高】光纖、CPO等算力硬體股震盪上揚，杭電股份、三孚股份、長盈通盤中創新高，石英股份、光電股份、凌雲光跟漲。"
-    },
-    {
-      "id": "mkt:019e431b-79ba-7228-9b02-0b2ef1a5c77b",
-      "time": "2026-05-20 09:58:54",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Tesla",
-        "Market Themes",
-        "China EV Leaders",
-        "Magnificent 7",
-        "TSLA.O",
-        "Impact bullish"
-      ],
-      "text": "【Tesla China FSD Rollout Signals Strengthen; Hiring Spans 9 Cities】Tesla China posts multiple autonomous driving test roles across Beijing, Shanghai, Guangzhou, Shenzhen, Suzhou and Wuhan, fueling speculation of accelerating FSD (Full Self-Driving) rollout in China. Company customer service says approval process for OTA deployment of advanced driver-assist features is under regulatory review, with updates to be pushed once approved. (Daily Economic News)"
-    },
-    {
-      "id": "4889177",
-      "time": "2026-05-20 09:58:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "【浙皖閩贛省際交界地區發展行動方案公佈 合力爭取浙贛運河等專案納入國家相關規劃】近日，《浙皖閩贛（衢黃南饒）省際交界地區協同發展行動方案（2026—2028年）》公佈。其中提出，加快跨區域交通物流互聯互通。共同推動省際重大基礎設施互聯互通，推動甬金衢上高速、杭淳開上高速、上饒至浦城高速等專案加快建設。加快跨區域交通基礎設施謀劃推進，合力爭取衢南鐵路、衢黃鐵路、浙贛運河等重大專案納入國家相關規劃（方案）。提升大宗商品轉運功能，加快推進多式聯運，探索區域物流“一證通”。支援建設跨省際綠色低碳走廊。協同佈局新能源充換電設施。探索跨省域低空飛行協同管理工作機制，佈局核心起降點，謀劃跨省試點航線。"
-    },
-    {
-      "id": "4889176",
-      "time": "2026-05-20 09:58:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華誼兄弟被列為失信被執行人】企查查APP顯示，近日，華誼兄弟傳媒股份有限公司因有履行能力而拒不履行生效法律文書確定義務被列為失信被執行人（老賴），疑似申請執行人為京凱力諮詢顧問（北京）有限公司，涉案金額60.84萬元，履行情況為全部未履行，執行法院北京市朝陽區人民法院。此前，華誼兄弟及王忠軍已因此案被限制高消費。該公司成立於2004年11月，法定代表人王忠軍，註冊資本約27.75億元，經營範圍包含製作、複製、發行：專題、專欄、綜藝、動畫片、廣播劇、電視劇等，由王忠軍、王忠磊等共同持股。風險資訊顯示，該公司名下現存多條被執行人、限高資訊。"
-    },
-    {
-      "id": "4889175",
-      "time": "2026-05-20 09:58:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "【五礦商會會長江輝：碳成本正內化為實際貿成本，鋁業成本競爭格局生變】5月20日，在第三屆中國綠色鋁業峰會上，中國五礦化工進出口商會會長江輝表示，碳排放相關措施正將碳從外部因素轉變為鋁業直接貿易成本。江輝指出，鋁的碳排放強度因生產方式不同差異巨大，碳定價機制正在打破原有的成本競爭格局。低碳鋁將獲得額外的成本優勢，而高碳鋁則面臨市場折價。"
-    },
-    {
-      "id": "mkt:019e431a-6711-7228-9b02-01f67a191dd7",
-      "time": "2026-05-20 09:57:44",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "CHINA STATE PLANNER: ALLOCATED 30 MILLION YUAN FROM CENTRAL BUDGET TO SUPPORT GUIZHOU FLOOD RELIEF"
-    },
-    {
-      "id": "4889174",
-      "time": "2026-05-20 09:57:18",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【銀河期貨：雙焦底部有支撐，可關注逢低做多機會】銀河期貨稱，盤面雙焦震盪執行，近期基本面矛盾不突出，盤面波動主要來自資金、情緒的變化。焦煤整體供需較為平衡，國內產量穩中有增，16日甘其毛都口岸連日降雨影響通關，18日已恢復至較高位。當前基本面矛盾不突出，無論是期貨還是現貨，近期依然受資金、宏觀、市場情緒等影響較大。中期看，海外地緣局勢持續動盪，全球能源品價格中樞較中東衝突爆發前已有顯著上移，外圍溢價持續存在。當前焦煤品種估值相對合理，下方存在支撐，價格深跌空間被鎖住。需要關注基本面改善力度、市場情緒及交易邏輯的切換。從風險收益比角度考慮，可等待逢低做多機會。行情反覆波動特徵較強，需靈活把握節奏，以波段操作為主。"
-    },
-    {
-      "id": "mkt:019e4319-f008-7228-9b01-f94915ab2f65",
-      "time": "2026-05-20 09:57:13",
-      "tags": [
-        "MKT News",
-        "005930.KS",
-        "Impact bullish"
-      ],
-      "text": "SAMSUNG ELECTRONICS REVERSES EARLIER LOSSES, RISES 0.5%"
-    },
-    {
-      "id": "4889173",
-      "time": "2026-05-20 09:56:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【文化傳媒板塊回撥 北投科技跌超9%】文化傳媒板塊回撥，北投科技跌超9%，粵傳媒、利歐股份、藍色游標等股跟跌。"
-    },
-    {
-      "id": "4889172",
-      "time": "2026-05-20 09:56:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【FSD入華訊號增強？特斯拉九城急招智駕測試技師 官方客服：正積極推進審批】日前，特斯拉中國發布多個與智慧駕駛測試相關的招聘崗位，引發行業對FSD（Full Self-Driving，完全自動駕駛）即將真正落地中國市場的相關猜測。根據招聘資訊，此次開放的崗位包括智駕測試（實車測試）技師、智駕測試工程師、智駕場地測試專員等，辦公地點覆蓋北京、上海、廣州、深圳、蘇州、武漢等9個城市。記者以消費者身份諮詢官方客服，詢問購買6.4萬元智慧輔助駕駛功能後能否透過OTA（空中升級）使用，對方回覆稱：“您的車輛暫不適配該功能，我們正根據國家相關法規要求積極推進審批工作，一旦審批就緒便會盡快推送給國內客戶。”（每經）"
-    },
-    {
-      "id": "4889171",
-      "time": "2026-05-20 09:56:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "【Shopee確認參展2026寧波出口跨境電商博覽會】5月27日至5月29日，2026寧波出口跨境電商博覽會將在寧波國際會展中心、餘姚中塑國際會展中心同期舉辦。東南亞頭部及巴西領航電商平臺Shopee確認參展，並將在寧波國際會展中心主會場設定平臺生態專區，圍繞海外消費趨勢、入駐激勵、運營模式等，與現場商家展開交流，並提供一對一出海諮詢服務。據瞭解，本屆寧波跨博會主推“跨境電商+產業帶”模式，聚焦跨境電商全產業鏈生態。隨著產業帶加速出海，東南亞及拉美等新興市場正成為越來越多中國賣家關注的重要增長方向。"
     }
   ]
 }
