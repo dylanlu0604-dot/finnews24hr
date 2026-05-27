@@ -1,7 +1,47 @@
 {
-  "updated": "2026-05-28 06:38:26",
-  "count": 14836,
+  "updated": "2026-05-28 06:42:16",
+  "count": 14837,
   "items": [
+    {
+      "id": "mkt:019e6b99-8cba-722a-b522-87aefac40d55",
+      "time": "2026-05-28 06:41:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's Fars News Agency reported three explosions were heard east of Bandar Abbas port and air-defense systems were activated for several minutes."
+    },
+    {
+      "id": "4903262",
+      "time": "2026-05-28 06:40:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗法爾斯通訊社：阿巴斯港東部傳來三聲爆炸聲，防空系統已啟動數分鐘。"
+    },
+    {
+      "id": "te:markets:554190",
+      "time": "2026-05-28 06:40:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Orange Juice Tumbles by 5.64% — Top commodity losers are Orange Juice (-5.64%), Sugar (-2.81%) and Wheat (-2.05%). Gains are led by Canola (0.82%)."
+    },
+    {
+      "id": "4903261",
+      "time": "2026-05-28 06:37:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【Meta擬成立新部門 為企業客戶定製AI服務】The Information援引Meta高管Naomi Gleit的內部備忘錄報道稱，Meta計劃成立一個新部門，為企業客戶定製人工智慧服務。新組織將被命名為Enterprise Solutions，由產品經理和工程師組成。Meta發言人表示，該部門將專注於幫助企業客戶順利整合Meta的AI工具，並“在此過程中建立可複用的操作方案和工具，以便相關工作能夠隨著時間推移實現規模化”。"
+    },
     {
       "id": "mkt:019e6b96-2f32-722a-b522-79ab34bd6de6",
       "time": "2026-05-28 06:37:32",
@@ -133058,33 +133098,6 @@
         "Importance 1"
       ],
       "text": "Crypto Updates: Binance Appreciates by 1.26% — Today's cryptos market is characterized by modest daily movements, with Binance standing out as the frontrunner with a 1.26% increase."
-    },
-    {
-      "id": "4891352",
-      "time": "2026-05-21 06:40:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗重申其對霍爾木茲海峽“管理監督範圍”】伊朗管理霍爾木茲海峽的新機構“波斯灣海峽管理局”20日深夜在社交媒體發表宣告，重申伊方涉該海峽的“管理監督範圍”，強調船隻在相關水域通行需與伊方協調並取得許可。根據宣告，伊方管理範圍“東起伊朗穆巴拉克山與阿聯酋富查伊拉南部之間的連線，西至伊朗格什姆島最西端與阿聯酋烏姆蓋萬之間的連線”。宣告說，在上述範圍內，所有透過霍爾木茲海峽的船隻的航行活動，均需與“波斯灣海峽管理局”進行協調並獲得許可。（新華社）"
-    },
-    {
-      "id": "te:markets:552432",
-      "time": "2026-05-21 06:39:59",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Oat Drops by 4.73% — Top commodity losers are Oat (-4.73%), Corn (-2%) and Sugar (-1.73%). Gains are led by Orange Juice (3.67%), Barley (0.83%) and Sunflower Oil (0.57%)."
-    },
-    {
-      "id": "4891351",
-      "time": "2026-05-21 06:38:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "馬斯克：我們正與其他公司洽談，擬推出人工智慧算力即服務業務."
     }
   ]
 }
