@@ -1,7 +1,105 @@
 {
-  "updated": "2026-05-28 00:11:15",
-  "count": 14885,
+  "updated": "2026-05-28 00:15:18",
+  "count": 14891,
   "items": [
+    {
+      "id": "4902989",
+      "time": "2026-05-28 00:13:19",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國國家航空航天局聲稱，太空探索技術公司堪稱其合作的頂尖商業航天企業。"
+    },
+    {
+      "id": "te:markets:554163",
+      "time": "2026-05-28 00:12:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Intuitive Surgical Stock Price Hits 22-month Low — Intuitive Surgical shares decreased to 417.51 USD, the lowest since July 2024. Over the past 4 weeks, Intuitive Surgical lost 10.26%, and in the last 12 months, it decreased 24.19%."
+    },
+    {
+      "id": "te:markets:554162",
+      "time": "2026-05-28 00:12:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 0.64% Lower — The FTSE MIB Index decreased 321 points or 0.64 percent on Wednesday to close at 49579 points. The decline was led by Saipem (-4.51%), Tenaris (-3.24%) and STMicroelectronics (-3.19%). On the upside, the strongest performers were Moncler (4.98%), Avio (4.91%) and Stellantis N.V. (4.64%)."
+    },
+    {
+      "id": "4902988",
+      "time": "2026-05-28 00:11:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟：最佳化網路兒童性虐待影像（NCII）全球上報流程，升級表單介面、細化危害描述選項，同時支援區分實拍影像與AI生成影像。"
+    },
+    {
+      "id": "te:markets:554161",
+      "time": "2026-05-28 00:11:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 0.03% Lower — The DAX Index fell 7 points or 0.03 percent on Wednesday to close at 25178 points. Leading the losses are Siemens Energy (-3.83%), RWE (-2.95%) and Fresenius (-2.28%). Top gainers were Adidas (5.38%), Continental (4.00%) and HeidelbergCement (3.81%)."
+    },
+    {
+      "id": "4902987",
+      "time": "2026-05-28 00:10:30",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "摩根大通CEO傑米·戴蒙表示，摩根大通可為一項新收購投入最高200億美元。"
+    },
+    {
+      "id": "4902986",
+      "time": "2026-05-28 00:10:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "挪威首相：挪威將受到法國核保護傘的保護。"
+    },
+    {
+      "id": "te:markets:554160",
+      "time": "2026-05-28 00:10:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 0.43% Higher — The CAC 40 Index gained 35 points or 0.43 percent on Wednesday to close at 8208 points. Gains were led by Stellantis NV (4.46%), L'Oréal (4.43%) and Renault (4.12%). Biggest losers were STMicroelectronics (-4.28%), TP (-3.74%) and Capgemini (-3.50%)."
+    },
+    {
+      "id": "mkt:019e6a33-4b24-7223-8ed6-3214ee5a3f5f",
+      "time": "2026-05-28 00:10:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to NTB, Norway's prime minister said Norway will receive protection under France's nuclear umbrella."
+    },
+    {
+      "id": "4902985",
+      "time": "2026-05-28 00:09:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "杜克能源推出新專案，助力南卡羅來納州非居民使用者降低成本，同時支撐電網擴容發展。"
+    },
     {
       "id": "mkt:019e6a32-b871-7223-8ed6-2d8a5815e698",
       "time": "2026-05-28 00:09:29",
@@ -133462,42 +133560,6 @@
         "國際"
       ],
       "text": "特朗普：短期內將擁有55艘破冰船。"
-    },
-    {
-      "id": "4891009",
-      "time": "2026-05-21 00:13:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普感謝芬蘭提供破冰船。"
-    },
-    {
-      "id": "4891008",
-      "time": "2026-05-21 00:13:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【英國國債收益率跌超12個基點】週三（5月20日）歐市尾盤，英國10年期國債收益率跌14.1個基點，報4.988%，全天持續下跌，北京時間23:17重新整理日低至4.963%。兩年期英債收益率跌14.3個基點，報4.366%。30年期英債收益率跌12.9個基點，50年期英債收益率跌12.3個基點。2/10年期英債收益率利差漲0.299個基點，報+62.120個基點。"
-    },
-    {
-      "id": "te:markets:552386",
-      "time": "2026-05-21 00:12:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE MIB Index Closes 1.71% Higher — The FTSE MIB Index rose 827 points or 1.71 percent on Wednesday to close at 49182 points. Leading the gains are STMicroelectronics (6.08%), Avio (4.16%) and Intesa Sanpaolo (2.64%)."
-    },
-    {
-      "id": "4891007",
-      "time": "2026-05-21 00:11:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國財政大臣Reeves放棄推動食品價格上限的方案。她不會在週四講話中提及志願（實施）上限構想。（英國金融時報）"
     }
   ]
 }
