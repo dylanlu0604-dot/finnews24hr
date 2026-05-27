@@ -1,7 +1,54 @@
 {
-  "updated": "2026-05-28 02:22:14",
-  "count": 14922,
+  "updated": "2026-05-28 02:26:06",
+  "count": 14920,
   "items": [
+    {
+      "id": "te:markets:554174",
+      "time": "2026-05-28 02:25:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Orange Juice Plunges by 5.65% — Top commodity losers are Orange Juice (-5.65%), Sugar (-2.82%) and Wheat (-2.25%). Gains are led by Oat (2.52%) and Canola (0.78%)."
+    },
+    {
+      "id": "4903117",
+      "time": "2026-05-28 02:23:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會主席馮德萊恩：已與烏克蘭澤連斯基通電話，在俄羅斯加碼之際，重申歐洲對烏克蘭的全力支援。"
+    },
+    {
+      "id": "4903116",
+      "time": "2026-05-28 02:23:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會主席馮德萊恩：未來數週對推動烏克蘭入盟程序邁出決定性步伐至關重要。"
+    },
+    {
+      "id": "te:markets:554173",
+      "time": "2026-05-28 02:22:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Meta Stock Price Hits 4-week High — Meta shares increased to 625.82 USD, the highest since April 2026. Over the past 4 weeks, Meta Platforms, Inc. lost 7.37%, and in the last 12 months, it decreased 3.38%."
+    },
+    {
+      "id": "4903115",
+      "time": "2026-05-28 02:22:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "美墨加協定不確定性上升，加元跌至六週低點。"
+    },
     {
       "id": "te:markets:554172",
       "time": "2026-05-28 02:20:09",
@@ -133639,75 +133686,6 @@
         "Importance 1"
       ],
       "text": "Dollar Lower on US-Iran Deal Hopes — The dollar index held lower around 99.1 on Wednesday, pulling back from the early-April highs reached in the previous session, as optimism grew that the US and Iran could soon reach a deal. According to a White House pool report, President Trump said negotiations with Iran are in their final stages, helping drive oil prices lower for a 2nd straight session. Even so, crude prices remain nearly 50% above pre-war levels. Investors remain concerned that elevated energy costs could fuel inflationary pressures and potentially force central banks to tighten monetary policy further. Minutes from the FOMC’s April meeting showed that a majority of policymakers believe additional rate hikes may be warranted if inflation stays persistently above the Fed’s 2% target. Markets still broadly expect the Federal Reserve to leave interest rates unchanged for the rest of the year, though traders currently assign roughly a 50% probability to a rate increase in December."
-    },
-    {
-      "id": "4891110",
-      "time": "2026-05-21 02:25:32",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "花旗集團執行長： 中東局勢演變仍對全球經濟構成顯著下行風險。"
-    },
-    {
-      "id": "te:markets:552405",
-      "time": "2026-05-21 02:25:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Oat Drops by 4.49% — Top commodity losers are Oat (-4.49%), Corn (-1.99%) and Sugar (-1.73%). Gains are led by Orange Juice (4.09%), Barley (0.83%) and Sunflower Oil (0.57%)."
-    },
-    {
-      "id": "mkt:019e46a1-f008-7bb5-8187-36554187bd09",
-      "time": "2026-05-21 02:24:38",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "ERDOGAN TOLD TRUMP EXTENSION OF CEASEFIRE WITH IRAN IS POSITIVE, BELIEVES CONTESTED ISSUES CAN BE RESOLVED, TURKISH PRESIDENCY SAYS"
-    },
-    {
-      "id": "4891109",
-      "time": "2026-05-21 02:24:31",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "花旗集團執行長： 亞洲經濟體面對高燃油價格時抗風險能力更弱、脆弱性更高。"
-    },
-    {
-      "id": "4891108",
-      "time": "2026-05-21 02:23:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "土耳其總統府：埃爾多安告知特朗普，延長與伊朗停火協議具有積極意義，且雙方存在爭議的問題有望得到解決。"
-    },
-    {
-      "id": "4891107",
-      "time": "2026-05-21 02:23:41",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "高盛：債券收益率目前“難以”下跌。"
-    },
-    {
-      "id": "4891106",
-      "time": "2026-05-21 02:23:30",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "花旗集團執行長：美國消費信貸整體韌性強勁。"
     }
   ]
 }
