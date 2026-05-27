@@ -1,7 +1,129 @@
 {
-  "updated": "2026-05-27 09:39:36",
-  "count": 15060,
+  "updated": "2026-05-27 09:43:29",
+  "count": 15065,
   "items": [
+    {
+      "id": "4901324",
+      "time": "2026-05-27 09:42:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "聯想股價在香港一度上漲6.9%，現漲5.2%。"
+    },
+    {
+      "id": "4901323",
+      "time": "2026-05-27 09:42:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "創業板指數擴大漲幅，最新上漲1.6%，報4109.15點。"
+    },
+    {
+      "id": "te:markets:553879",
+      "time": "2026-05-27 09:41:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "South Korean Shares Hit New Record on Chip Rally — The benchmark KOSPI surged nearly 4% to around 8,360 on Wednesday, hitting a record high as a global AI-driven semiconductor rally boosted investor appetite for Korean technology shares. Strong overnight gains on Wall Street fueled heavy buying in Samsung Electronics (6.4%) and SK hynix (9.9%), with SK hynix joining rivals Samsung Electronics and Micron Technology in the $1 trillion market capitalization club. Other notable gainers included SK Square (10.2%), LG Innotek (4.0%), and HD Hyundai Co. (3.3%). Additional support came from improving business sentiment, which climbed to its highest level in more than three years, alongside optimism over South Korea’s semiconductor-driven economic outlook. Meanwhile, investors continued to monitor developments in the Middle East as renewed US military action against Iran tempered optimism surrounding ongoing ceasefire and peace negotiations, keeping concerns over energy prices and inflation risks in focus."
+    },
+    {
+      "id": "4901322",
+      "time": "2026-05-27 09:41:53",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【碳化矽概念再度走強 揚傑科技漲超10%創歷史新高】早盤碳化矽概念再度走強，揚傑科技漲超10%，股價創歷史新高，天嶽先進、英諾鐳射、捷捷微電、新潔能、晶升股份、時代電氣跟漲。"
+    },
+    {
+      "id": "te:economy:553878",
+      "time": "2026-05-27 09:41:48",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Inflation Rate",
+        "Importance 2"
+      ],
+      "text": "Australia Inflation Slows More Than Expected — The annual inflation rate in Australia eased to 4.2% in April 2026 from 4.6% in March, coming in below expectations for a slowdown to 4.4%, but still remaining above the central bank’s 2–3% target range. Goods inflation moderated to 4.7% from 5.5%, with transport costs rising at a slower pace of 6.6% (vs 8.9% in March), as automotive fuel prices eased following the halving of the fuel excise on April 1. Services inflation also edged lower to 3.5% from 3.6%. On a monthly basis, consumer prices increased 0.4%, slowing sharply from a 1.1% gain in March."
+    },
+    {
+      "id": "4901321",
+      "time": "2026-05-27 09:41:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鋰礦概念走高 紅星發展2連板】鋰礦概念走高，紅星發展2連板，爭光股份、川恆股份、雲圖控股、億緯鋰能等漲幅居前。"
+    },
+    {
+      "id": "4901320",
+      "time": "2026-05-27 09:41:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【寧德時代A股港股均漲超6%】寧德時代A股港股均漲超6%，訊息面上，寧德時代與東歐企業Solarpro Holding合作建設的601MWh大型儲能專案在保加利亞成功併網。"
+    },
+    {
+      "id": "mkt:019e6717-49d0-7cce-aa64-a17c6c16155b",
+      "time": "2026-05-27 09:40:39",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "LME Tin Up >1% Intraday to $55,322.20/mt"
+    },
+    {
+      "id": "mkt:019e6717-3eec-7cce-aa64-99c768e53c02",
+      "time": "2026-05-27 09:40:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "TURNOVER ON SSE AND SZSE EXCEEDED 500 BILLION YUAN, DOWN 22.5 BILLION YUAN FROM SAME TIME PREVIOUS SESSION"
+    },
+    {
+      "id": "4901319",
+      "time": "2026-05-27 09:40:27",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【中金黃金等在和田成立礦產開發新公司】企查查APP顯示，近日，中金（和田）礦產開發有限公司成立，法定代表人為屈海浪，註冊資本2億元，經營範圍包括礦產資源勘查、選礦、非煤礦山礦產資源開採等。企查查股權穿透顯示，該公司由中金黃金、中國黃金集團地質有限公司等共同持股。"
+    },
+    {
+      "id": "4901318",
+      "time": "2026-05-27 09:40:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【冠中生態與四川省生態發展集團達成戰略合作意向】據冠中生態訊息，5月22日，四川省生態發展集團正式揭牌成立。儀式現場，冠中生態與四川省生態發展集團達成戰略合作意向，願攜手助力四川生態保護修復與綠色高質量發展。"
+    },
+    {
+      "id": "4901317",
+      "time": "2026-05-27 09:39:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "小米港股上漲3%。"
+    },
+    {
+      "id": "4901316",
+      "time": "2026-05-27 09:39:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國家統計局：1—4月份新興產業快速發展 帶動鋁、銅、金、鋰等有色金屬需求大幅增長】國家統計局工業司首席統計師於衛寧解讀2026年1—4月份工業企業利潤資料時表示，原材料製造業利潤繼續加快。1—4月份，規模以上原材料製造業利潤同比增長88.1%，較1—3月份加快10.2個百分點，拉動全部規模以上工業企業利潤增長10.3個百分點。從行業看，國際原油價格上行帶動相關產業鏈條產品價格上漲，石油加工行業同比扭虧為盈，實現利潤總額404.2億元，化工行業利潤增長73.4%，較1—3月份加快18.9個百分點；新能源、人工智慧、新一代資訊科技等新興產業快速發展，帶動鋁、銅、金、鋰等有色金屬需求大幅增長，推動有色行業利潤增長117.8%，加快1.1個百分點。"
+    },
     {
       "id": "4901315",
       "time": "2026-05-27 09:38:41",
@@ -94,6 +216,15 @@
         "Copper"
       ],
       "text": "CHINA APRIL INDUSTRIAL PROFITS GROWTH FOR MAJOR FIRMS POSTS FASTEST PACE SINCE NOVEMBER 2023"
+    },
+    {
+      "id": "em:jjsj_zgsj:202605273750602692",
+      "time": "2026-05-27 09:36:04",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【國家統計局：1—4月份規模以上原材料製造業利潤同比增長88.1%】國家統計局資料顯示，1—4月份，規模以上原材料製造業利潤同比增長88.1%，較1—3月份加快10.2個百分點，拉動全部規模以上工業企業利潤增長10.3個百分點。"
     },
     {
       "id": "4901308",
@@ -134768,85 +134899,6 @@
         "XAUUSD"
       ],
       "text": "HONG KONG-LISTED GOLD STOCKS FALL; EVEREST GOLD DOWN OVER 6%"
-    },
-    {
-      "id": "mkt:019e430d-5645-7228-9b01-aa886e311bac",
-      "time": "2026-05-20 09:43:27",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "A-SHARE SEMICONDUCTOR SHARES RISE, SKYVERSE TECHNOLOGY UP OVER 15%"
-    },
-    {
-      "id": "4889151",
-      "time": "2026-05-20 09:42:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "北證50日內跌幅達1.05%，成分股中，鼎智科技跌4.29%，安達科技跌4.11%，星圖測控跌3.62%，豐光精密跌3.59%。"
-    },
-    {
-      "id": "4889150",
-      "time": "2026-05-20 09:42:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "【港股黃金股走低 珠峰黃金跌超6%】截至發稿，珠峰黃金(01815.HK)跌6.52%，潼關黃金(00340.HK)跌4.55%，靈寶黃金(03330.HK)跌3.17%。"
-    },
-    {
-      "id": "mkt:019e430c-4e80-7228-9b01-a464eb1dfafd",
-      "time": "2026-05-20 09:41:58",
-      "tags": [
-        "MKT News",
-        "SSE Composite",
-        "SZSE Component"
-      ],
-      "text": "TURNOVER ON SSE AND SZSE EXCEEDED 500 BILLION YUAN"
-    },
-    {
-      "id": "4889149",
-      "time": "2026-05-20 09:41:55",
-      "tags": [
-        "市場"
-      ],
-      "text": "北證50指數跌幅擴大至1%，現報1350.84點。"
-    },
-    {
-      "id": "4889148",
-      "time": "2026-05-20 09:41:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "【矽片概念反覆活躍 上海合晶漲超10%】矽片概念反覆活躍，上海合晶漲超10%，神工股份、晶盛機電、立昂微、西安奕材等跟漲。"
-    },
-    {
-      "id": "4889147",
-      "time": "2026-05-20 09:41:13",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【半導體板塊盤初走強 中科飛測漲超15%】半導體板塊盤初走強，中科飛測漲超15%，上海合晶、神工股份、晶方科技、華亞智慧等股大漲。"
-    },
-    {
-      "id": "4889146",
-      "time": "2026-05-20 09:40:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "【電力板塊盤初調整，京能電力跌超8%】電力板塊盤初調整，京能電力跌超8%，華電遼能、浙能電力、大唐發電、深南電A跌超7%。"
-    },
-    {
-      "id": "4889145",
-      "time": "2026-05-20 09:40:08",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超5000億元，較上日此時放量166億元。"
     }
   ]
 }
