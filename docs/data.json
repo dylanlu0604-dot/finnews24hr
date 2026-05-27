@@ -1,7 +1,36 @@
 {
-  "updated": "2026-05-28 04:10:08",
-  "count": 14891,
+  "updated": "2026-05-28 04:14:02",
+  "count": 14892,
   "items": [
+    {
+      "id": "4903177",
+      "time": "2026-05-28 04:13:04",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "Snowflake 股價大漲 30%，受其與亞馬遜深化合作訊息提振。"
+    },
+    {
+      "id": "4903176",
+      "time": "2026-05-28 04:10:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "邁威爾科技一季度淨營收24.2億美元，分析師預期24.1億美元。預計二季度淨營收25.7億-28.4億美元，分析師預期26.1億美元。"
+    },
+    {
+      "id": "te:markets:554177",
+      "time": "2026-05-28 04:10:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Bermuda",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Marvell Technology earnings above expectations at 0.80 USD — Marvell Technology (MRVL) released earnings per share at 0.80 USD, compared to market expectations of 0.79 USD."
+    },
     {
       "id": "mkt:019e6b0d-737c-799f-bbe6-80a0c0bcfa4d",
       "time": "2026-05-28 04:08:24",
@@ -133465,27 +133494,6 @@
         "國際"
       ],
       "text": "歐盟外交與安全政策高階代表卡拉斯：以色列部長本・格維爾的所作所為，完全不符合民主國家公職人員應有的行事風範。全球蘇穆德援助船隊活動人士（其中包含歐盟公民）所遭受的對待有辱人格且實屬不當。"
-    },
-    {
-      "id": "4891195",
-      "time": "2026-05-21 04:11:01",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "摩根士丹利比特幣信託：羅希特·戈恩卡於2026年5月11日辭去摩根士丹利投資管理公司首席財務官一職，2026年5月14日任命薩莉·迪夫利出任首席財務官。"
-    },
-    {
-      "id": "te:economy:552416",
-      "time": "2026-05-21 04:10:55",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Argentina",
-        "Balance of Trade",
-        "Importance 1"
-      ],
-      "text": "Argentina Trade Surplus Hits Record High in April — Argentina’s trade surplus widened to $2.71 billion in April 2026, increasing 15.1% year-on-year to a record high, well above forecasts of $1.76 billion. Exports surged 33.6% to a record $8.91 billion, with all major categories posting annual gains. Fuels and energy exports jumped 85.9%, mainly driven by higher crude oil and fuel shipments. Industrial manufactured goods rose 43.3%, supported by stronger exports of precious stones and metals, transport equipment, and chemical products. Primary product exports increased 25%, with cereals contributing the most to the rise. Meanwhile, imports fell 4% to $6.20 billion, led by a 45.4% decline in fuels and lubricants. Imports of parts and accessories for capital goods also dropped 17.4%."
     }
   ]
 }
