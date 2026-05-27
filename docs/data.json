@@ -1,7 +1,58 @@
 {
-  "updated": "2026-05-28 04:14:02",
-  "count": 14892,
+  "updated": "2026-05-28 04:17:56",
+  "count": 14896,
   "items": [
+    {
+      "id": "4903179",
+      "time": "2026-05-28 04:16:50",
+      "tags": [
+        "市場",
+        "央行"
+      ],
+      "text": "紐西蘭聯儲主席佈雷曼： 正密切關注成本攀升、通脹高企導致需求走弱，會在多大程度上抑制其他物價上漲。"
+    },
+    {
+      "id": "mkt:019e6b14-deea-799f-bbe6-921248d09b91",
+      "time": "2026-05-28 04:16:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBNZ Governor Breman said he is monitoring the degree to which higher costs and inf will weaken demand and thereby curb other price increases."
+    },
+    {
+      "id": "4903178",
+      "time": "2026-05-28 04:15:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "惠普公司預計第三季度調整後每股收益為 0.61 至 0.71 美元，市場預期為 0.64 美元。"
+    },
+    {
+      "id": "te:markets:554178",
+      "time": "2026-05-28 04:15:25",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Synopsys earnings above expectations at 3.35 USD — Synopsys (SNPS) released earnings per share at 3.35 USD, compared to market expectations of 3.15 USD."
+    },
+    {
+      "id": "mkt:019e6b12-d8e0-799f-bbe6-8c4729ad83c4",
+      "time": "2026-05-28 04:14:17",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "SNOW.N",
+        "Impact bullish"
+      ],
+      "text": "Snowflake (SNOW.N) shares jumped 30% in after-hours trading after the company announced it was expanding its partnership with Amazon.com Inc. (AMZN.O)."
+    },
     {
       "id": "4903177",
       "time": "2026-05-28 04:13:04",
@@ -133486,14 +133537,6 @@
         "其他"
       ],
       "text": "英偉達：預計第二季度營收為910億美元，上下浮動2%。"
-    },
-    {
-      "id": "4891196",
-      "time": "2026-05-21 04:15:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟外交與安全政策高階代表卡拉斯：以色列部長本・格維爾的所作所為，完全不符合民主國家公職人員應有的行事風範。全球蘇穆德援助船隊活動人士（其中包含歐盟公民）所遭受的對待有辱人格且實屬不當。"
     }
   ]
 }
