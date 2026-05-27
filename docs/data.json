@@ -1,7 +1,132 @@
 {
-  "updated": "2026-05-27 22:09:17",
-  "count": 14924,
+  "updated": "2026-05-27 22:13:19",
+  "count": 14927,
   "items": [
+    {
+      "id": "mkt:019e69c7-a50c-7223-8ed4-91a20e52445e",
+      "time": "2026-05-27 22:12:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EBRARD, Mexico's economy minister, said negotiations with the U.S. Trade Representative are scheduled for June 16-17 in Washington."
+    },
+    {
+      "id": "4902816",
+      "time": "2026-05-27 22:12:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "墨西哥經濟部長：與美國貿易代表辦公室的談判定於 6 月 16 日至 17 日在華盛頓舉行。"
+    },
+    {
+      "id": "mkt:019e69c7-574e-7223-8ed4-8fa79d4bb1dc",
+      "time": "2026-05-27 22:12:12",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Mexico Economy Minister EBRARD said Mexico and the U.S. Trade Representative reached consensus on a new round of negotiations under the United States-Mexico-Canada Agreement (USMCA)."
+    },
+    {
+      "id": "4902815",
+      "time": "2026-05-27 22:12:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "墨西哥經濟部長：墨西哥與美國貿易代表辦公室商定舉行新一輪《美墨加協定》談判。"
+    },
+    {
+      "id": "te:economy:554128",
+      "time": "2026-05-27 22:11:58",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Richmond Fed Services Index",
+        "Importance 1"
+      ],
+      "text": "US 5th District Service Sector Expands Faster in May — The Fifth District Service Sector Survey revealed strong improvement in May 2026, with the revenues index rising to 14 from 9, its highest since December 2024, according to the Federal Reserve Bank of Richmond. The demand index also increased to 15 from 10. The indexes for future revenues and demand remained firmly in positive territory. The local business conditions index improved to 0 in May from -6 in April, while the future index rose to 12. The current employment index fell to -1 from 6, while the forward-looking employment index was broadly unchanged at 24. Both current and future wages indexes stayed in positive territory."
+    },
+    {
+      "id": "4902814",
+      "time": "2026-05-27 22:11:20",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "波音執行長：目前尚未收到任何因伊朗戰事要求調整或推遲飛機交付的請求。"
+    },
+    {
+      "id": "4902813",
+      "time": "2026-05-27 22:11:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "波音執行長：未來數月 737 機型月產量將達到 47 架。"
+    },
+    {
+      "id": "4902812",
+      "time": "2026-05-27 22:10:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【我國首個專業貨運樞紐機場光伏發電突破1億千瓦時】國網湖北省電力有限公司鄂州供電公司電網智慧監控平臺顯示，截至5月27日12時，鄂州花湖國際機場光伏發電量累計突破1億千瓦時。 鄂州花湖國際機場是我國首個專業貨運樞紐機場，自2022年投運以來，貨運業務高速增長，目前已開通貨運航線119條，樞紐貨量從投運初期的不足1萬噸攀升至2025年147.81萬噸。伴隨業務擴張，機場用電峰值也突破2萬千瓦。（新華社）"
+    },
+    {
+      "id": "te:markets:554127",
+      "time": "2026-05-27 22:10:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Falls as Middle East Peace Remains Uncertain — The S&P/TSX Composite Index fell nearly 0.5% to trade near 34,500 on Wednesday as investors monitored developments in the Middle East and assessed earnings from major banks. An unofficial draft of a US-Iran interim peace deal stated that maritime traffic through the Strait of Hormuz could return to normal within a month of the agreement being finalized, although it remains unclear whether the US has agreed to the terms. Oil prices fell, driving Canadian Natural and Suncor down 2%. Gold prices also declined, with Agnico Eagle and WPM both losing 1%. In finance, BMO rose 0.4% after posting a jump in profit driven by strong capital markets performance, while Scotiabank gained 1% on higher trading revenue amid volatile markets. NBC fell 2% ahead of results due later in the day, while RBC, TD Bank, and CIBC also traded lower before reporting on Thursday."
+    },
+    {
+      "id": "4902811",
+      "time": "2026-05-27 22:10:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "英國BAE系統公司：將為美軍戰鬥車輛提供主動防護系統。"
+    },
+    {
+      "id": "4902810",
+      "time": "2026-05-27 22:09:53",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國銀行執行長：今年的GDP增速預測處於相當強勁的水平。"
+    },
+    {
+      "id": "4902809",
+      "time": "2026-05-27 22:09:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【國際刑事法院確定杜特爾特案正式開庭日期】位於荷蘭海牙的國際刑事法院27日宣佈，將從今年11月30日起正式開庭審理菲律賓前總統杜特爾特案。 (新華社)"
+    },
+    {
+      "id": "4902808",
+      "time": "2026-05-27 22:09:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "波音執行長：波音目前尚未收到航空公司提出的延期交付申請。"
+    },
+    {
+      "id": "4902807",
+      "time": "2026-05-27 22:08:31",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國銀行執行長：5月份消費者支出資料與強勁的經濟一致。"
+    },
     {
       "id": "mkt:019e69c3-efa6-7223-8ed4-81502092844d",
       "time": "2026-05-27 22:08:28",
@@ -133839,103 +133964,6 @@
         "國際"
       ],
       "text": "【以總理稱已指示有關部門驅逐“全球堅韌船隊”成員】當地時間20日，以色列總理辦公室發表宣告稱，總理內塔尼亞胡稱，以色列完全有權阻止“全球堅韌船隊”進入以色列領海並抵達加沙，已經指示有關部門驅逐該船隊成員。（央視新聞）"
-    },
-    {
-      "id": "4890824",
-      "time": "2026-05-20 22:13:11",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【美錦能源：近期化工產品價格呈現一定上漲態勢，對公司整體有積極影響】美錦能源5月20日在機構調研時表示，公司目前乙二醇產能30萬噸/年、尿素產能30萬噸/年、LNG產能約40萬噸/年。近期化工產品價格呈現一定上漲態勢，對公司經營業績整體具有積極影響。"
-    },
-    {
-      "id": "mkt:019e45bb-9c74-7cc9-95e1-3aa1e7937620",
-      "time": "2026-05-20 22:13:03",
-      "tags": [
-        "MKT News",
-        "SNDK.O",
-        "Impact bearish"
-      ],
-      "text": "SANDISK SHARES TURN NEGATIVE"
-    },
-    {
-      "id": "4890823",
-      "time": "2026-05-20 22:12:52",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行行長貝利：民眾傾向留守現有崗位，跳槽意願走低。"
-    },
-    {
-      "id": "4890822",
-      "time": "2026-05-20 22:12:33",
-      "tags": [
-        "市場"
-      ],
-      "text": "土耳其銀行業主要指數下跌2%。"
-    },
-    {
-      "id": "4890821",
-      "time": "2026-05-20 22:12:08",
-      "tags": [
-        "市場"
-      ],
-      "text": "SANDISK股價轉跌。"
-    },
-    {
-      "id": "4890820",
-      "time": "2026-05-20 22:11:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美中央司令部司令就伊朗小學遭襲接受質詢】2月28日，美以對伊朗發起軍事行動首日，伊朗南部一所小學遭襲，造成160多名兒童遇難。此前有訊息說，美軍方一項正在進行的調查初步認定，伊朗小學遭襲是美軍“目標定位錯誤”，美方應承擔責任。但美國國防部始終未對外承認任何初步調查結論。當地時間19日，美國中央司令部司令布拉德·庫珀在出席美國國會眾議院聽證會時辯稱，遭襲學校地處伊朗一處現役巡航導彈基地範圍內，遭民主黨議員質疑。伊朗外交部發言人也回應說美方的說法“毫無根據”。（央視新聞）"
-    },
-    {
-      "id": "4890819",
-      "time": "2026-05-20 22:11:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國食品藥品監督管理局（FDA）：已向八家零售商發出警告信，原因是這些零售商銷售尼古丁袋、可溶菸草產品等未經授權的菸草產品。"
-    },
-    {
-      "id": "mkt:019e45b9-5f24-7cc9-95e1-379d30bf2a35",
-      "time": "2026-05-20 22:10:36",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "INTC.O",
-        "Impact bullish"
-      ],
-      "text": "INTEL EXTENDS EARLY GAINS, NOW UP OVER 10%"
-    },
-    {
-      "id": "4890818",
-      "time": "2026-05-20 22:10:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "【天齊鋰業：公司鋰精礦和鋰鹽庫存處於合理水平】天齊鋰業5月20日在股東會表示，截至目前，公司鋰精礦和鋰鹽庫存處於合理水平，鋰精礦庫存足以滿足公司自有鋰鹽加工廠日常生產所需，公司各鋰化工產品生產基地使用的化學級鋰精礦成本基本貼近最新採購價格。"
-    },
-    {
-      "id": "4890817",
-      "time": "2026-05-20 22:10:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "英特爾漲超10%。"
-    },
-    {
-      "id": "4890816",
-      "time": "2026-05-20 22:09:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "SANDISK管理層在會議上宣佈，公司收益率從4.3%下調至1%。"
     }
   ]
 }
