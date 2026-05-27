@@ -1,7 +1,38 @@
 {
-  "updated": "2026-05-27 13:26:55",
-  "count": 15101,
+  "updated": "2026-05-27 13:30:58",
+  "count": 15102,
   "items": [
+    {
+      "id": "4901706",
+      "time": "2026-05-27 13:29:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【江西鷹潭一村莊出現稻田汙染、井水發黃等情況，當地多部門聯合介入調查】5月27日，有網民反映江西鷹潭餘江區錦江鎮九亭村“稻田汙染、井水發黃”等問題。27日中午，當地釋出情況通報回應輿情：鷹潭市、餘江區兩級高度重視，迅速成立由生態環境、農業農村、水利等部門組成的聯合調查組，已到現場開展全面調查。後續將根據調查結果依法依規處理，並及時公佈相關情況。"
+    },
+    {
+      "id": "mkt:019e67e6-2551-700e-adbc-d678b63cc56e",
+      "time": "2026-05-27 13:26:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "005930.KS",
+        "Impact bullish",
+        "000660.KS"
+      ],
+      "text": "【South Korea KOSPI Index Nearly Doubles YTD On Structural Shift In Memory Chip Demand】KOSPI up nearly 100% YTD, surged from 5,000 to 8,300 in months as SK Hynix and Samsung Electronics rally; index rose as much as 5.1% intraday Wednesday amid structural shift to sustained memory-chip demand"
+    },
+    {
+      "id": "4901705",
+      "time": "2026-05-27 13:26:16",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度最高法院駁回了對亞馬遜處以20億印度盧比的反壟斷罰款的決定。"
+    },
     {
       "id": "te:economy:553960",
       "time": "2026-05-27 13:24:56",
@@ -135148,23 +135179,6 @@
         "國際"
       ],
       "text": "日本石油協會會長：由於運輸航程更長，採購美國原油預計將大幅推高成本。"
-    },
-    {
-      "id": "4889507",
-      "time": "2026-05-20 13:29:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "印尼經濟部長：過渡期後，所有出口將由指定的國有企業完成。"
-    },
-    {
-      "id": "4889506",
-      "time": "2026-05-20 13:28:25",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達70億港元。"
     }
   ]
 }
