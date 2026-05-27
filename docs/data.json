@@ -1,7 +1,78 @@
 {
-  "updated": "2026-05-27 19:10:09",
+  "updated": "2026-05-27 19:14:01",
   "count": 14998,
   "items": [
+    {
+      "id": "4902458",
+      "time": "2026-05-27 19:12:17",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行桑托斯·佩雷拉：中東衝突預計將對價格走勢產生重大影響。"
+    },
+    {
+      "id": "4902457",
+      "time": "2026-05-27 19:12:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "景順長城全球晶片LOF(501225)：5月28日開市起至當日10:30停牌，停牌期間本基金贖回業務照常辦理。"
+    },
+    {
+      "id": "te:economy:554074",
+      "time": "2026-05-27 19:11:54",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Mortgage Rate",
+        "Importance 2"
+      ],
+      "text": "US 30-Year Mortgage Rates Jump to Nine-Month High — The average US 30-year fixed mortgage rate for conforming loans of $806,500 or less rose to 6.65% in the week ending May 22, 2026, from 6.56% the prior week, the highest level since August 2025, according to the Mortgage Bankers Association’s Weekly Mortgage Applications Survey. Rates increased for the fifth consecutive week, tracking higher Treasury yields amid persistent inflation concerns from elevated fuel costs and rising global public debt, prompting investors to rule out Fed rate cuts and price in a potential hike by year-end. Consequently, mortgage applications dropped 8.5%, extending last week's 2.3% drop, with refinance applications plummeting 18.1% and purchase applications slipping 0.4%."
+    },
+    {
+      "id": "4902456",
+      "time": "2026-05-27 19:11:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【康龍化成：計劃投資30億元建設年產200噸醫藥中間體及API專案】康龍化成公告，公司計劃透過全資子公司康龍化成（紹興）新藥生產有限公司，在紹興市上虞區杭州灣上虞經濟技術開發區內建設年產200噸醫藥中間體及API專案。專案總投資人民幣30億元，預計一期工程將於2028年投入使用，二期工程預計將於2030年投入使用。專案旨在擴大高階醫藥中間體及原料藥的產能規模，強化綠色製造技術的應用能力，提升從臨床前到商業化全週期的CDMO服務能力。專案的實施預計對公司2026年度的財務狀況和經營成果不構成重大影響；對未來年度經營業績的影響視專案建設進度和公司訂單情況而定。"
+    },
+    {
+      "id": "te:economy:554073",
+      "time": "2026-05-27 19:10:25",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Mortgage Applications",
+        "Importance 1"
+      ],
+      "text": "US Mortgage Applications Fall Most in 2 Months — Mortgage applications in the US sank by 8.3% in the third week of May, extending the 2.3% drop in the previous period for the sharpest decline in nearly two months, according to data compiled by the Mortgage Bankers Association. The drop was aligned with a fresh increase in mortgage rates, with the benchmark 30-year rate rising to a nine-month high of 6.65% as pro-inflationary risks from the war in the Middle East drove some long-term Treasury bond yields to peak at their highest since 2007. Applications for a loan to refinance an existing mortgage, which are more sensitive to short-term changes in interest rates, plunged by 18.1% from the previous week. Meanwhile, applications for a mortgage to purchase a home inched lower by 0.4%."
+    },
+    {
+      "id": "mkt:019e6920-dab5-7223-8ed1-83c22b9f8ad3",
+      "time": "2026-05-27 19:10:21",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Pereira says Middle East conflict likely to have significant impact on prices"
+    },
+    {
+      "id": "4902454",
+      "time": "2026-05-27 19:09:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【警惕！間諜偽裝智慧駕駛研究採集測繪資料】境外間諜的竊視手段之豐富、工具之先進、方式之隱蔽、覆蓋之廣泛，遠超常人想象。有間諜以“智慧駕駛研究”作為掩護，在汽車上加裝高精度雷達GPS光學鏡頭，快速採集大量測繪資料，並實時轉移出境。（央視新聞）"
+    },
     {
       "id": "4902453",
       "time": "2026-05-27 19:08:11",
@@ -134298,62 +134369,6 @@
         "Importance 1"
       ],
       "text": "US Mortgage Applications Retreat — Mortgage applications in the US fell by 2.3% in the second week of May, erasing the 1.7% increase in the previous period to mark the third week of decline in the last four, according to data compiled by the Mortgage Bankers Association. The drop was aligned with the surge in long-term Treasury yields due to increasing inflation expectations, lifting the benchmark 30-year mortgage rate by 10bps during the period. Applications for a mortgage to purchase a home fell by 4%. In turn, applications for a contract to refinance a mortgage were broadly unchanged. Concerns of higher interest rates in the future lifted the share of adjustable-mortgage-rate contracts to nearly 10% of total applications, the highest since October of 2025."
-    },
-    {
-      "id": "4890349",
-      "time": "2026-05-20 19:13:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿聯酋表示伊拉克應無條件制止各類襲擊行為。"
-    },
-    {
-      "id": "4890348",
-      "time": "2026-05-20 19:12:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國首相斯塔默：英國將扶持現有北海油氣田開發運營。"
-    },
-    {
-      "id": "4890347",
-      "time": "2026-05-20 19:12:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿聯酋在週日巴拉卡核電站遇襲後發表宣告，敦促伊拉克防止從其境內發起敵對行動。"
-    },
-    {
-      "id": "4890346",
-      "time": "2026-05-20 19:11:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "德意志銀行將信諾集團目標股價從303美元下調至302美元。"
-    },
-    {
-      "id": "4890345",
-      "time": "2026-05-20 19:11:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "5月20日晚，國家主席習近平在北京人民大會堂為俄羅斯總統普京舉行歡迎宴會。（央視新聞）"
-    },
-    {
-      "id": "4890344",
-      "time": "2026-05-20 19:11:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "【崇達技術：控股子公司普諾威將調入創新層】崇達技術(002815)5月20日公告，全國中小企業股份轉讓系統有限責任公司釋出《關於釋出2026年第二批創新層進層決定的公告》，公司控股子公司江蘇普諾威電子股份有限公司（簡稱“普諾威”）將調入創新層，自5月21日起生效。"
-    },
-    {
-      "id": "4890343",
-      "time": "2026-05-20 19:10:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "【今天降雨覆蓋華南至華東多地 今明廣西廣東等地暴雨大暴雨持續】強降雨還未結束，今天夜間到明天，廣西、廣東等地部分地區降雨較強，暴雨、大暴雨仍線上。預計，湖南南部、江西中南部、福建西部、廣西中北部和東南部、廣東北部和西南部以及陝西西部等地部分地區有大到暴雨，其中，廣西東北部和東南部、廣東北部和西南部等地部分地區有大暴雨。（央視新聞）"
     }
   ]
 }
