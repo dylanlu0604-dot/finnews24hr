@@ -1,7 +1,61 @@
 {
-  "updated": "2026-05-28 02:30:01",
-  "count": 14923,
+  "updated": "2026-05-28 02:33:56",
+  "count": 14920,
   "items": [
+    {
+      "id": "mkt:019e6ab5-132b-7223-8ed8-aec66d2d0bd8",
+      "time": "2026-05-28 02:31:52",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "【Night Session Main Contracts Close】As of the 02:30 close, Shanghai gold (SHFE) main contract fell 1.26% to 977 yuan/gram, Shanghai silver (SHFE) main contract fell 2.28% to 18,168 yuan/kg, and SC crude oil main contract fell 3.22% to 585 yuan/barrel."
+    },
+    {
+      "id": "mkt:019e6ab4-f580-7223-8ed8-a39188732eeb",
+      "time": "2026-05-28 02:31:44",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Gold Exchange Gold T+D closed down 1.05% at 973.82 yuan/gram in the evening session on May 27 (Wednesday). Shanghai Gold Exchange Silver T+D closed down 2.12% at 18,105.0 yuan/kg in the evening session on May 27 (Wednesday)."
+    },
+    {
+      "id": "4903123",
+      "time": "2026-05-28 02:31:09",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國原油期貨結算價報每桶88.68美元，下跌5.21美元，跌幅5.55%。"
+    },
+    {
+      "id": "te:markets:554175",
+      "time": "2026-05-28 02:30:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Bitcoin Depreciates by 1.41% — Top crypto losers are Bitcoin (-1.41%) and Ether (-1.12%)."
+    },
+    {
+      "id": "4903122",
+      "time": "2026-05-28 02:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收跌3.22%，報585.40元人民幣/桶。滬金夜盤收跌1.26%，滬銀收跌2.28%。"
+    },
     {
       "id": "4903121",
       "time": "2026-05-28 02:29:24",
@@ -133644,77 +133698,6 @@
         "Importance 1"
       ],
       "text": "Gold Rebounds from Near 2-Month Low — Gold rose to above $4,530 per ounce on Wednesday, halting the drop that bottomed at a two-month low of $4,490 last session, and tracking the respite for Treasuries as signs of incoming energy supply from the Middle East tamed expectations of higher inflation. President Trump stated the US was close to an agreement to end the conflict with Iran, while three supertankers exited the Persian Gulf with cargoes to Asia. The developments supported the possibility that inflation could rise less than feared, dimming the risks of a hawkish Federal Reserve. Evidence of high inflation had led multiple policymakers to dissent against the easing bias in the Fed's last rate hold. On top of that, fresh minutes from the meeting indicated that a majority of members noted it may be appropriate to raise interest rates this year if inflation remains above the 2% threshold. Markets are split on whether the central bank may deliver a rate hike by December or whether rates will stay put."
-    },
-    {
-      "id": "mkt:019e46aa-44c4-7bb5-8187-552b90c2dbf7",
-      "time": "2026-05-21 02:33:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "SENATOR KENNEDY SAYS THERE WAS NOT ENOUGH SUPPORT IN SENATE TO PASS TRUMP BALLROOM FUNDING"
-    },
-    {
-      "id": "4891118",
-      "time": "2026-05-21 02:31:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "【哥倫比亞總統反對玻利維亞驅逐哥大使 】哥倫比亞總統佩特羅20日在接受媒體採訪時，對玻利維亞政府驅逐哥倫比亞駐玻大使伊麗莎白·加西亞的決定表示反對。佩特羅在接受蝸牛電視臺採訪時說，他此前發表的言論被玻方解讀為對玻內政的不當干涉，但自己只是希望在玻利維亞當前複雜社會局勢中充當調解人。佩特羅表示，目前玻利維亞政府受到民眾質疑，該國需要開啟一場廣泛的全國對話。（新華社）"
-    },
-    {
-      "id": "mkt:019e46a8-4707-7bb5-8187-4b3ec477db30",
-      "time": "2026-05-21 02:31:33",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "U.S. CRUDE OIL FUTURES SETTLE AT $98.26/BBL, DOWN $5.89, 5.66 PCT"
-    },
-    {
-      "id": "4891117",
-      "time": "2026-05-21 02:31:15",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI 6月原油期貨收跌5.89美元，跌幅5.66%，報98.26美元/桶。NYMEX 6月天然氣期貨收報3.0040美元/百萬英熱單位。NYMEX 6月汽油期貨收報3.4874美元/加侖，NYMEX 6月取暖油期貨收報3.9471美元/加侖。"
-    },
-    {
-      "id": "4891116",
-      "time": "2026-05-21 02:31:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國共和黨參議員肯尼迪稱，其獲悉用於特朗普宴會廳及安保專案的 10 億美元資金，不會納入移民執法撥款法案之中。"
-    },
-    {
-      "id": "mkt:019e46a7-8544-7bb5-8187-457d160d5f41",
-      "time": "2026-05-21 02:30:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. REPUBLICAN SENATOR KENNEDY SAYS HE WAS TOLD $1 BLN FOR TRUMP BALLROOM AND SECURITY WILL NOT BE INCLUDED IN IMMIGRATION ENFORCEMENT FUNDING BILL"
-    },
-    {
-      "id": "te:markets:552407",
-      "time": "2026-05-21 02:30:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: Binance Rises by 1.29% — Top crypto gainers are Binance (1.29%), Ether (1.13%) and Bitcoin (0.89%)."
-    },
-    {
-      "id": "4891115",
-      "time": "2026-05-21 02:30:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "上期所原油期貨夜盤收跌5.24%，報647.00元人民幣/桶。滬金夜盤收漲0.90%，滬銀收漲2.70%。"
     }
   ]
 }
