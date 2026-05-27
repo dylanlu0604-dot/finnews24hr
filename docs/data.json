@@ -1,7 +1,55 @@
 {
-  "updated": "2026-05-28 06:26:59",
-  "count": 14832,
+  "updated": "2026-05-28 06:30:48",
+  "count": 14834,
   "items": [
+    {
+      "id": "te:markets:554188",
+      "time": "2026-05-28 06:30:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Naphtha Slumps by 5.84% — Top commodity losers are Naphtha (-5.84%), Crude Oil WTI (-4.39%) and Brent Crude Oil (-4.29%). Gains are led by Natural gas (2.33%)."
+    },
+    {
+      "id": "4903256",
+      "time": "2026-05-28 06:29:23",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信證券：“AI+能化”構成今年槓鈴配置結構】5月27日，中信證券2026年資本市場論壇在上海舉行。對於下半年配置，中信證券首席A股策略師裘翔明確表示，“AI+能化”將構成今年新的槓鈴結構，其本質是在K型分化加劇的全球環境中，真正具備可持續供需缺口和超預期利潤的領域並不多，而AI和能化恰好分別從需求端和供給端提供了這種稀缺性。長期來看，A股投資的底層邏輯依然是中國優勢製造業定價權的重估。（上證報）"
+    },
+    {
+      "id": "4903255",
+      "time": "2026-05-28 06:29:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "據報道，伊朗南部城市阿巴斯港發生多起爆炸事件。"
+    },
+    {
+      "id": "4903254",
+      "time": "2026-05-28 06:27:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "惠普首席財務官：樹脂成本上漲整體可控，相關影響已納入業績預期。"
+    },
+    {
+      "id": "mkt:019e6b8c-1d6b-722a-b522-6bd92b12320a",
+      "time": "2026-05-28 06:26:32",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O"
+      ],
+      "text": "Wall Street Journal reports a Google (GOOG.O) employee has been indicted on insider-trading charges for trades on prediction market Polymarket."
+    },
     {
       "id": "4903253",
       "time": "2026-05-28 06:26:09",
@@ -133015,33 +133063,6 @@
         "國際"
       ],
       "text": "美國國家航空航天局將於5月26日舉行線上新聞釋出會，公佈月球基地相關訊息及月球探測規劃。"
-    },
-    {
-      "id": "te:markets:552430",
-      "time": "2026-05-21 06:30:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Methanol Spikes by 7.33% — Top commodity gainer is Methanol (7.33%). Biggest losers are Naphtha (-7.08%), Gasoline (-5.39%), Natural Gas EU (-5.37%), Brent Crude Oil (-5.16%) and Crude Oil WTI (-4.77%)."
-    },
-    {
-      "id": "4891346",
-      "time": "2026-05-21 06:27:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際貨幣基金組織（IMF）：有關巴基斯坦2027財年預算的討論將在未來幾日繼續進行。"
-    },
-    {
-      "id": "4891345",
-      "time": "2026-05-21 06:27:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際貨幣基金組織談巴基斯坦：計劃包含第四條磋商、擴充套件基金機制安排與減貧與增長信託貸款安排審查的下一次代表團訪問預計將於2026年下半年進行。"
     }
   ]
 }
