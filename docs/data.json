@@ -1,7 +1,71 @@
 {
-  "updated": "2026-05-27 14:54:22",
-  "count": 15109,
+  "updated": "2026-05-27 14:58:19",
+  "count": 15108,
   "items": [
+    {
+      "id": "4901858",
+      "time": "2026-05-27 14:56:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超3.2萬億元，較上日此時縮量142億元。"
+    },
+    {
+      "id": "mkt:019e6838-74e3-733d-96b9-df3dc282f987",
+      "time": "2026-05-27 14:56:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Xiaomi",
+        "1810.HK",
+        "Impact bearish"
+      ],
+      "text": "Xiaomi shares in Hong Kong drop over 4%, turnover exceeds HK$6.1 bln"
+    },
+    {
+      "id": "4901857",
+      "time": "2026-05-27 14:55:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【今年第6號颱風“薔薇”已生成 強度逐漸增強】中央氣象臺預報顯示，今年第6號颱風“薔薇”今天上午已在西北太平洋洋麵生成，目前“薔薇”位於菲律賓馬尼拉東偏南方向，將以每小時20公里左右的速度向偏北方向移動，強度逐漸增強，並向臺灣島以東洋麵靠近。（央視新聞）"
+    },
+    {
+      "id": "4901856",
+      "time": "2026-05-27 14:55:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣州數字科技集團增資至約10.8億】天眼查App顯示，近日，廣州數字科技集團有限公司發生工商變更，註冊資本由10億人民幣增至約10.8億人民幣，增幅約8%。該公司成立於1981年2月，法定代表人為黃躍珍，經營範圍包括以自有資金從事投資活動、非居住房地產租賃、住房租賃等。"
+    },
+    {
+      "id": "4901855",
+      "time": "2026-05-27 14:54:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【小米集團-W港股跌近4%】小米集團-W港股跌近4%，報28.60港元。訊息面上，今天凌晨，小米宣佈永久下調 Xiaomi MiMo-V2.5 系列模型 API 價格，並調整Token Plan套餐計費體系。"
+    },
+    {
+      "id": "4901854",
+      "time": "2026-05-27 14:54:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【長電科技成交額達300億元，現跌1.59%】5月27日下午，長電科技成交額達300億元，現跌1.59%。"
+    },
+    {
+      "id": "4901852",
+      "time": "2026-05-27 14:53:09",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【SpaceX上市訊息引燃太空相關股票，特斯拉與SpaceX合併討論升溫】美國太空探索技術公司SpaceX上週向美國證券交易委員會提交檔案計劃上市交易，點燃了市場對整個行業的熱情。5月26日，美國股市太空相關股票大漲，其中，美國商業航天公司Momentus漲超109%，太空基礎設施公司Redwire盤中一度大漲31%。美國銀行編制的一籃子美國太空產業相關股票今年以來已累計上漲61%。有分析師表示，SpaceX的IPO正吸引更多投資者關注太空行業中已處於有利地位的公司。另據美國媒體26日報道，在SpaceX上市前夕，關於馬斯克的目標——將特斯拉與SpaceX合併的討論也在升溫。有法律專家表示，兩家公司的合併可能不會引發反壟斷問題，但會引起各自股東的擔憂，哪家公司將成為母公司、如何進行股票置換等問題都是會面臨的挑戰。（央視財經）"
+    },
     {
       "id": "mkt:019e6834-48d6-700e-adbe-669964da698b",
       "time": "2026-05-27 14:51:53",
@@ -135180,77 +135244,6 @@
         "公司"
       ],
       "text": "德國商業銀行執行長：我們一貫表示，我們對與裕信銀行展開談判持開放態度；這些條款包含給予股東的溢價，也是對我們商業模式優勢的認可；我們的訴求必須得到重視。"
-    },
-    {
-      "id": "mkt:019e442d-2496-7cc9-95db-8f18dd526d0d",
-      "time": "2026-05-20 14:57:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UN GUTERRES: I WILL INSIST THAT THE US PAY ITS DEBTS TO THE UN"
-    },
-    {
-      "id": "mkt:019e442d-233f-7cc9-95db-82479ae49e95",
-      "time": "2026-05-20 14:57:27",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "PUTIN: RUSSIA AND CHINA PLAY STABILISING ROLE ON INTERNATIONAL STAGE"
-    },
-    {
-      "id": "mkt:019e442d-21e5-7cc9-95db-7d32d45693e3",
-      "time": "2026-05-20 14:57:22",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "CHINA'S XI: CHINA, RUSSIA TO LEVERAGE THE ROLE OF ENERGY AND RESOURCE CONNECTIVITY FOR COOPERATION"
-    },
-    {
-      "id": "mkt:019e442d-208f-7cc9-95db-7283460da4c8",
-      "time": "2026-05-20 14:57:17",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "KREMLIN DOES NOT EXCLUDE PUTIN-TRUMP MEETING AT APEC SUMMIT IN CHINA - IFX"
-    },
-    {
-      "id": "mkt:019e442d-1f36-7cc9-95db-6d76108bd248",
-      "time": "2026-05-20 14:57:09",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "UN GUTERRES PRESIDENT: TRUMP'S VISIT TO CHINA ACHIEVED NO MAJOR BREAKTHROUGHS"
-    },
-    {
-      "id": "mkt:019e442c-68db-7cc9-95db-676f69d30474",
-      "time": "2026-05-20 14:56:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "PUTIN: RUSSIA AND CHINA ARE COMMITTED TO INDEPENDENT FOREIGN POLICY"
-    },
-    {
-      "id": "mkt:019e442c-1ab1-7cc9-95db-5feaba7436e2",
-      "time": "2026-05-20 14:56:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CHINA'S XI: KEY ENERGY CHINA-RUSSIA RELATIONS HAVE REACHED A NEW STARTING POINT"
-    },
-    {
-      "id": "4889630",
-      "time": "2026-05-20 14:55:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "【南方電網“算電協同服務專區”正式上線】據中國電力報，5月18日，南方電網使用者生態運營公司在“南網線上”平臺推出“算電協同服務專區”，為智算中心、超算中心、資料中心等算力供給側主體，以及廣大算力需求方提供“一站式”服務。這標誌著南方電網在落實國家“算電協同”戰略上邁出里程碑式一步。"
     }
   ]
 }
