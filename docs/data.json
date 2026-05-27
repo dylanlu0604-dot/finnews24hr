@@ -1,7 +1,15 @@
 {
-  "updated": "2026-05-28 05:05:02",
-  "count": 14853,
+  "updated": "2026-05-28 05:08:57",
+  "count": 14847,
   "items": [
+    {
+      "id": "mkt:019e6b41-9dee-722a-b522-25ee05190bc1",
+      "time": "2026-05-28 05:05:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazilian Senator Flávio Bolsonaro met with U.S. Secretary of State Rubio on Wednesday local time."
+    },
     {
       "id": "mkt:019e6b3e-6056-722a-b522-1a71c4fd98c4",
       "time": "2026-05-28 05:01:50",
@@ -133135,63 +133143,6 @@
         "Importance 1"
       ],
       "text": "Ibovespa Posts Biggest Daily Gain Since April — The Ibovespa jumped 1.8% to close at 177,356 on Wednesday, marking the benchmark’s biggest daily gain since early April, as easing oil prices and lower bond yields boosted risk appetite. Oil prices retreated after some ships managed to cross the Strait of Hormuz following 80 days of disruption, raising hopes that global supply conditions could gradually normalize. The pullback in crude prices helped ease inflation concerns and pushed bond yields lower, supporting financial stocks and the broader index. Itaú rose 2.3%, Bradesco gained 2.4%, and Itaúsa advanced 2.7%. Utilities also posted strong gains, with Auren Energia up 2.2%, Sabesp adding 2.1%, and Eneva climbing 4.1%. Other notable performers included Ambev (+2.6%) and Rede D'Or (+2.6%). In contrast, Petrobras fell 3.2% as oil prices declined."
-    },
-    {
-      "id": "4891276",
-      "time": "2026-05-21 05:08:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX：星艦預計將於下半年開始執行入軌載荷運送任務。"
-    },
-    {
-      "id": "4891275",
-      "time": "2026-05-21 05:08:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "SpaceX：5月份公司的信貸安排已作出修訂，將借款額度提升至最高50億美元。"
-    },
-    {
-      "id": "4891274",
-      "time": "2026-05-21 05:07:46",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【5月21日美股成交額前20：英偉達營收和業績指引均超預期】週三美股成交額第1名英偉達收高1.30%，成交350.79億美元。英偉達週三盤後公佈了2027財年第一季度財報，營收和利潤均超出分析師預期。第二季度業績展望方面，英偉達預計營收將在891億至928億美元之間，而華爾街此前預期為873億美元。第一季度，英偉達實現每股收益（EPS）1.87美元，營收816.2億美元，高於分析師預期的每股1.77美元和營收791.8億美元。公司還將季度股息提高至每股0.25美元。英偉達資料中心業務貢獻了大部分營收，達到752億美元，高於華爾街分析師預期的734.7億美元，也遠超去年同期的391.1億美元。"
-    },
-    {
-      "id": "4891273",
-      "time": "2026-05-21 05:06:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "SpaceX：馬斯克所持股份需達成火星聚居地居住人口至少達百萬的目標方可解鎖。"
-    },
-    {
-      "id": "4891272",
-      "time": "2026-05-21 05:06:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "SpaceX：馬斯克所持股份還與在火星建立永久性人類聚居地的目標掛鉤。"
-    },
-    {
-      "id": "4891271",
-      "time": "2026-05-21 05:05:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "SpaceX：公司願景是實現人類多星球生存。"
-    },
-    {
-      "id": "4891270",
-      "time": "2026-05-21 05:05:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX：馬斯克2025年總薪酬為54080美元。"
     }
   ]
 }
