@@ -1,7 +1,31 @@
 {
-  "updated": "2026-05-27 13:22:52",
-  "count": 15106,
+  "updated": "2026-05-27 13:26:55",
+  "count": 15101,
   "items": [
+    {
+      "id": "te:economy:553960",
+      "time": "2026-05-27 13:24:56",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Finland",
+        "Unemployment Rate",
+        "Importance 1"
+      ],
+      "text": "Finnish Jobless Rate Nears 11-Year High — Finland’s unemployment rate rose to 11.6% in April 2026 from 10.0% in the same month a year earlier, marking its highest level since May 2015. The number of unemployed increased by 48,000 year-on-year to 336,000, comprising 199,000 men and 136,000 women. By gender, male unemployment climbed to 13.3%, 1.9 percentage points higher than a year earlier, while the female rate increased to 9.8%, up 1.3 percentage points. Among younger workers aged 15–24, the jobless rate also rose to 28.0%, an increase of 0.8 percentage points year-on-year. Meanwhile, employment declined by 31,000 to 2.559 million, even as the labour force participation rate edged up to 69.5% from 69.1% a year earlier. The employment rate for those aged 20–64 also slipped, falling to 74.7% from 76.2%."
+    },
+    {
+      "id": "te:markets:553958",
+      "time": "2026-05-27 13:22:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Ends Sharply Higher — The NZX 50 climbed 158 points, or 1.2% to close at 13,228 on Wednesday, hitting nearly a three-week high after the central bank kept interest rates unchanged for a third consecutive meeting. While the Reserve Bank of New Zealand left the official cash rate at 2.25%, the decision revealed a more hawkish tone than markets had anticipated, with policymakers evenly split on whether rates should be raised. The bank also signaled that borrowing costs may need to rise sooner and by a greater extent than previously expected, citing mounting inflation risks from higher energy prices. Meanwhile, sentiment remained supported by hopes of a breakthrough in ongoing US-Iran peace talks, despite recent US military action in Tehran. Sector-wise, healthcare stocks led the advance, with heavyweights Fisher & Paykel and Ryman up 2.3% and 3.6%, respectively. Infratil, an infrastructure investment company, also surged 5.8% after posting a net surplus for the fiscal year."
+    },
     {
       "id": "mkt:019e67e1-b443-700e-adbc-cb0d656d2a11",
       "time": "2026-05-27 13:21:45",
@@ -135141,65 +135165,6 @@
         "焦點"
       ],
       "text": "南向資金淨買入額達70億港元。"
-    },
-    {
-      "id": "4889505",
-      "time": "2026-05-20 13:26:37",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國西南航空公司在印度海得拉巴開設全球創新中心。"
-    },
-    {
-      "id": "4889503",
-      "time": "2026-05-20 13:26:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本石油協會會長：我們可以在夏季確保替代原油供應。"
-    },
-    {
-      "id": "4889502",
-      "time": "2026-05-20 13:25:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "【寒武紀成交額達200億元】寒武紀成交額達200億元，現漲2.34%。"
-    },
-    {
-      "id": "4889501",
-      "time": "2026-05-20 13:23:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "印尼經濟部長：出口收入新規將於6月1日生效。"
-    },
-    {
-      "id": "4889500",
-      "time": "2026-05-20 13:23:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "【習近平將同俄羅斯總統普京共同會見記者】據央視新聞，5月20日，國家主席習近平將在北京人民大會堂同俄羅斯總統普京會談後共同會見記者。"
-    },
-    {
-      "id": "mkt:019e43d6-9232-7cc9-b8d6-20a4ca63c546",
-      "time": "2026-05-20 13:23:16",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "PAJ PRESIDENT: MUST CONSIDER MEASURES TO REDUCE OUR DEPENDENCE ON MIDDLE EASTERN CRUDE IN MEDIUM TO LONG TERM"
-    },
-    {
-      "id": "4889499",
-      "time": "2026-05-20 13:22:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本石油協會會長：必須考慮採取措施，在中長期內減少我們對中東原油的依賴。"
     }
   ]
 }
