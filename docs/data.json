@@ -1,7 +1,26 @@
 {
-  "updated": "2026-05-29 06:37:54",
+  "updated": "2026-05-29 06:41:44",
   "count": 15300,
   "items": [
+    {
+      "id": "te:markets:554620",
+      "time": "2026-05-29 06:40:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Wool Rises by 2.87% — Top commodity gainers are Wool (2.87%), Coffee (1.47%) and Canola (1.39%). Biggest losers are Cocoa (-1.67%) and Sugar (-1.62%)."
+    },
+    {
+      "id": "4905628",
+      "time": "2026-05-29 06:38:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【AI算力需求增加，多家公司加速佈局高階電子電路銅箔領域】隨著AI算力需求增加，產業鏈上游的高階電子電路銅箔正在經歷前所未有的技術迭代和升級。為了搶佔這一市場高地，多家A股上市公司已斥重資佈局，以HVLP（極低輪廓銅箔）、RTF（反轉銅箔）為代表的高階銅箔建設程序正全面加速。（中證報）"
+    },
     {
       "id": "mkt:019e70bb-1106-7eef-a304-29b64b8016d8",
       "time": "2026-05-29 06:36:08",
@@ -137745,25 +137764,6 @@
         "市場"
       ],
       "text": "【A股科技行情調整，業內人士：整體風險或相對可控】5月21日，此前持續走強的A股半導體板塊迎來調整，算力板塊也同步出現回撥，多隻“雙創”相關ETF尾盤成交額顯著放量。對於此番科技行情調整，業內機構認為，海外利率走高與美元走強壓制估值端，風險資產進入再定價階段，由於盈利、AI敘事、資金偏好等因素，短期市場呈現高位震盪的態勢。值得注意的是，AI產業趨勢未被證偽，盈利、流動性、風險偏好三要素均未出現系統性惡化，市場風險或相對可控。（中證報）"
-    },
-    {
-      "id": "te:markets:552868",
-      "time": "2026-05-22 06:40:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Orange Juice Soars by 6.38% — Top commodity gainers are Orange Juice (6.38%), Coffee (1.51%) and Sugar (1.22%). Biggest losers are Cotton (-4.32%), Cocoa (-3.80%) and Palm Oil (-2.73%)."
-    },
-    {
-      "id": "4893676",
-      "time": "2026-05-22 06:38:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗媒體：伊美在巴基斯坦調解下繼續對話】據伊朗學生通訊社22日凌晨報道，在巴基斯坦方面調解下，伊朗與美國之間的訊息和文字交換仍在繼續，目標是達成協議框架。報道援引巴基斯坦方面訊息人士的話說，若伊美雙方達成預期框架，巴基斯坦陸軍參謀長穆尼爾將到訪伊朗。（新華社）"
     }
   ]
 }
