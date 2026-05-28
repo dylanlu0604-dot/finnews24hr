@@ -1,7 +1,185 @@
 {
-  "updated": "2026-05-28 11:21:15",
-  "count": 15054,
+  "updated": "2026-05-28 11:28:23",
+  "count": 15061,
   "items": [
+    {
+      "id": "mkt:019e6c9f-47bc-7ff1-8684-03605ddf69b1",
+      "time": "2026-05-28 11:26:28",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "South Korea's KOSPI index fell as much as 2.00% intraday."
+    },
+    {
+      "id": "mkt:019e6c9e-8121-7ff1-8683-f8742fb359ee",
+      "time": "2026-05-28 11:26:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Ukraine's parliament website posted that President ZELENSKIY submitted a draft law to approve a loan agreement between Ukraine and the European Union."
+    },
+    {
+      "id": "4903761",
+      "time": "2026-05-28 11:26:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "MSCI亞太指數下跌1%至272.15點。"
+    },
+    {
+      "id": "4903760",
+      "time": "2026-05-28 11:25:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭議會網站顯示，烏克蘭總統澤連斯基已提交烏克蘭與歐盟貸款協定的批准草案。"
+    },
+    {
+      "id": "mkt:019e6c9d-decd-700d-8f67-19cab51de262",
+      "time": "2026-05-28 11:25:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "US10Y"
+      ],
+      "text": "【Japan Plans Transition Bonds To Finance Sanae Takaichi Investment Plan】Japan Cabinet Secretary KIHARA said on Thursday Japan plans to use transition bonds to finance Sanae Takaichi's investment plan. KIHARA said, \"Japan has in the past used transition bonds backed by future revenues to implement multi-year budget measures.\" He added that a similar mechanism had previously been used to fund corporate green-technology transitions and said the government will \"further expand such measures and push for a stronger economy.\" Transition bonds are intended to fill temporary funding gaps on the premise of future-secured revenue streams; the Finance Ministry classifies them separately from deficit-covering bonds. The proposal comes as Japanese bond-market concern over the fiscal outlook continues to mount. Earlier this month, 10-year JGB yields rose to their highest level since 1996 amid market worries that a Takaichi government would favour an expansionary fiscal stance. The transition-bond plan appears aimed at avoiding further market concern over large-scale issuance of deficit-financing bonds, but market doubts about its repayment scheme could still pressure the bond market."
+    },
+    {
+      "id": "4903759",
+      "time": "2026-05-28 11:25:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國綜指跌幅擴大至2%，現報8064.33點。"
+    },
+    {
+      "id": "4903758",
+      "time": "2026-05-28 11:25:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【京東方減資至約370.4億】天眼查App顯示，近日，京東方科技集團股份有限公司發生工商變更，註冊資本由約374.1億人民幣減至約370.4億人民幣。 該公司成立於1993年4月，法定代表人為陳炎順，經營範圍包括製造電子計算機軟硬體、經營電信業務、計算機資料處理等，由北京國有資本運營管理有限公司、香港中央結算有限公司、北京京東方投資發展有限公司等共同持股。"
+    },
+    {
+      "id": "4903757",
+      "time": "2026-05-28 11:24:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本擬向紐西蘭出口護衛艦】據訊息人士稱，日本防衛大臣小泉進次郎預計於月底與紐西蘭和澳大利亞兩國防長舉行三邊會談，討論有關日本出口“最上”級護衛艦的事宜。上個月，日本已與澳大利亞簽署備忘錄，將基於日本升級版“最上”級護衛艦共同開發澳大利亞海軍新型艦艇。總檯軍事觀察員魏東旭：日本此舉不僅要做大軍火生意，而且要為日本自衛隊走向海外尋找更多落腳點。 （央視軍事）"
+    },
+    {
+      "id": "4903755",
+      "time": "2026-05-28 11:23:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【儲存晶片概念走高 商絡電子漲超18%】儲存晶片概念走高，商絡電子漲超18%，西安奕材、阿石創、有研新材、深科達等漲幅居前。"
+    },
+    {
+      "id": "mkt:019e6c9b-6943-700e-a856-ab1ff2f58e7c",
+      "time": "2026-05-28 11:22:58",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "U.S. 10-year Bond / Govt yield edged up to 4.5182% (latest); 2-year Bond / Govt yield was 4.0698%."
+    },
+    {
+      "id": "4903754",
+      "time": "2026-05-28 11:22:40",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "兩年期美國國債收益率<US2YT=RR>報4.0698%。"
+    },
+    {
+      "id": "mkt:019e6c9b-63de-700e-a856-a2c70d4e5e6b",
+      "time": "2026-05-28 11:22:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "PRECIOUS metals futures most-active contracts extended losses: Shanghai silver fell more than 5%, platinum declined over 4%, palladium dropped nearly 4% and Shanghai gold slipped nearly 3%."
+    },
+    {
+      "id": "4903753",
+      "time": "2026-05-28 11:22:35",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期美國國債收益率<US10YT=RR>小幅上揚，最新報4.5182%。"
+    },
+    {
+      "id": "mkt:019e6c9b-54e9-700e-a856-9b481ff39be9",
+      "time": "2026-05-28 11:22:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Qunar Travel Says Children's Day Scenic Ticket Bookings Rise 70%】This year's Children's Day falls on Monday; some schools in Beijing, Shanghai, Guangzhou, Wuhan and Fuzhou have officially announced a one-day holiday for compulsory education students and kindergarten children. Qunar Travel said bookings for attraction tickets on its platform for travel during May 30–June 1 rose 70% sequentially; the platform's three most-booked attractions were Shanghai Disneyland Resort, Universal Beijing Resort and Shanghai LEGOLAND."
+    },
+    {
+      "id": "4903752",
+      "time": "2026-05-28 11:22:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "【去哪兒旅行：六一景區門票預訂量漲七成】今年六一兒童節適逢週一，北京、上海、廣州、武漢、福州等地部分學校已官宣義務教育階段學生、幼兒園兒童放假一天。去哪兒旅行資料顯示，平臺上5月30日至6月1日三天出行的景區門票預訂量環比大漲七成；平臺最熱門景區TOP3分別是上海迪士尼度假區、北京環球度假區以及上海樂高樂園。"
+    },
+    {
+      "id": "4903751",
+      "time": "2026-05-28 11:22:13",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【光纖概念表現活躍 長盈通漲近10%】光纖概念表現活躍，長盈通漲近10%，此前新能泰山漲停，杭電股份、通光線纜、通鼎互聯、鼎通科技跟漲。"
+    },
+    {
+      "id": "4903750",
+      "time": "2026-05-28 11:21:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀<XAG=>跌幅近3%，報每盎司72.40美元。"
+    },
+    {
+      "id": "4903749",
+      "time": "2026-05-28 11:21:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳元兌美元下跌0.39%，報0.71140，創一週新低。"
+    },
+    {
+      "id": "mkt:019e6c99-ed44-700d-8f67-14ff22f56bc0",
+      "time": "2026-05-28 11:21:19",
+      "tags": [
+        "MKT News",
+        "Copper",
+        "Impact mixed"
+      ],
+      "text": "【Boston Dynamics: Robotics Technology May Soon Be Affected By Geopolitics】Brendan Schulman, vice president for policy and government affairs at Boston Dynamics, said at the Tokyo Humanoid Robot Summit that to date robotics technology has been only lightly affected by geopolitical pressure, but that could change soon. He said Washington policymakers are beginning to focus on robotics. He added that general government policies (for example, tariffs on metals) also affect robots because they affect supply chains."
+    },
     {
       "id": "4903748",
       "time": "2026-05-28 11:20:13",
@@ -135083,117 +135261,6 @@
         "國際"
       ],
       "text": "【第八屆西洽會在重慶開幕 集中籤約專案合同額超1000億元】5月21日，第八屆中國西部國際投資貿易洽談會（以下簡稱“西洽會”）在重慶開幕。本屆西洽會以“新西部、新制造、新服務”為主題，邀請英國擔任主賓國，四川省為常設主賓省，韓國京畿道擔任主賓城，來自50個國家和地區的近1400家企業參展參會，會期將持續到5月24日。聚焦新質生產力培育，推動高質量發展，本屆西洽會共設綜合形象、生產性服務業、產業融合發展、國際和區域合作四大主題展區，展覽面積達15萬平方米。期間將舉辦開幕式、主題活動、投資貿易對接、消費促進等近40場活動。作為西部地區對外開放的重要視窗，前七屆西洽會碩果累累，累計簽約專案超1400個、投資總額突破2萬億元。這場發端於西部的經貿盛會，既深化國內區域產業協作，也不斷擴容國際“朋友圈”，正成為聯通東西、融匯中外的全球性經貿合作平臺。"
-    },
-    {
-      "id": "4891756",
-      "time": "2026-05-21 11:28:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國鐵建成立新智綠能公司】企查查APP顯示，近日，中鐵建重慶投資集團新智綠能有限公司成立，法定代表人為王茂盛，註冊資本為2000萬元，經營範圍包含發電業務、輸電業務、供（配）電業務；電動汽車充電基礎設施運營；集中式快速充電站等。企查查股權穿透顯示，該公司由中國鐵建間接全資持股。"
-    },
-    {
-      "id": "4891755",
-      "time": "2026-05-21 11:27:46",
-      "tags": [
-        "市場"
-      ],
-      "text": "瀾起科技A股成交額達200億元，現漲6.1%。"
-    },
-    {
-      "id": "4891754",
-      "time": "2026-05-21 11:27:29",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "上期所歐線集運主力合約大漲8%，報2970點。"
-    },
-    {
-      "id": "4891753",
-      "time": "2026-05-21 11:27:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "【生態環境部：2025年以來紮實開展規範涉企生態環境執法專項行動 推動實現“兩個轉變”】國新辦就規範涉企行政執法專項行動有關情況舉行新聞釋出會，生態環境部生態環境執法局負責人史慶敏表示，2025年以來，紮實開展規範涉企生態環境執法專項行動，切實糾治了一批不規範的問題，提升了執法質效，推動實現“兩個轉變”。第一個轉變是執法理念從“單一監管”向“監管+服務”轉變。2025年，全國生態環境系統共辦理輕微違法依法不予處罰案件8947件，給企業適度的容錯空間。第二個轉變是執法手段從“人防為主”向“技防優先”轉變。透過應用衛星遙感、紅外成像、無人機、無人船等智慧裝備手段，綜合研判分析排汙許可、自動監測、用電工況等多源資料，將感測技術、資訊科技和人工智慧深度融合，針對不同的違法情形搭建了相應的應用場景，構建了涉嫌環境違法問題線索的識別模型，問題發現能力顯著增強。現場檢查實現了“帶著線索去，瞄著問題查”。2025年，全國生態環境現場檢查次數下降了近40%，問題發現的比例提高了10到25個百分點。"
-    },
-    {
-      "id": "4891752",
-      "time": "2026-05-21 11:27:02",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美元/印度盧比1個月期無本金交割遠期合約從早前的97.07跌至96.72。"
-    },
-    {
-      "id": "4891751",
-      "time": "2026-05-21 11:26:59",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "集運指數歐線期貨連續主力合約日內漲7%，現報2966.00點。"
-    },
-    {
-      "id": "te:markets:552539",
-      "time": "2026-05-21 11:26:20",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Indonesia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Indonesia Stocks Under Pressure After Export Controls — Indonesian shares tumbled 136 points or 2.2% to 6,185 in early Thursday trade, extending losses for an eighth straight session and lingering at their weakest level in 13 months. A Wall Street rally overnight failed to lift sentiment as investors shunned risk after President Prabowo tightened export rules on key commodities, including palm oil, coal, and ferroalloys, mandating shipments through a single state-owned exporter. Caution also mounted ahead of the Q1 current account data due Friday, following a Q4 deficit driven by a wider oil gap. Still, losses were capped by Bank Indonesia’s 50bps hike to 5.25% on Wednesday, aimed at stabilizing the rupiah after repeated record lows since April. The government, meanwhile, projected 2027 growth at 5.8% to 6.5%, keeping its 8% target for 2029. Declines were broad, led by transport, energy, and industrials, with Barito Pacific (-9.9%), Medco Energi (-8.7%), Darma Henwa (-7.7%), and Amman Mineral Intl. (-5.7%) among the steepest laggards."
-    },
-    {
-      "id": "4891750",
-      "time": "2026-05-21 11:23:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "【騰訊推出作業系統層級AI助手“馬維斯”】騰訊宣佈旗下作業系統層級AI助手Marvis（馬維斯）正式上線，官網（Marvis.qq.com)開放下載，無需邀請碼使用。據介紹，Marvis將終端系統、檔案、應用、算力和跨端連線納入同一個AI中間層，出廠預置6個協同Agent。Marvis提供效率模式與隱私模式：隱私模式採用端側大模型，所有資料解析、圖片識別與對話均在本地完成、完全不上雲，斷網亦可使用，可滿足財務、法務、HR等高敏感場景，並在涉及隱私、安全和支付等關鍵環節時交回給使用者確認。"
-    },
-    {
-      "id": "te:markets:552538",
-      "time": "2026-05-21 11:23:38",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "China Construction Bank Stock Price Hits 4-week Low — China Construction Bank shares decreased to 8.69 HKD, the lowest since April 2026. Over the past 4 weeks, China Construction Bank lost 0.68%, and in the last 12 months, it increased 24.96%."
-    },
-    {
-      "id": "4891749",
-      "time": "2026-05-21 11:23:02",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印度盧比因銀行間同業訂單匹配系統出現大額買盤大幅反彈。"
-    },
-    {
-      "id": "4891748",
-      "time": "2026-05-21 11:22:50",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "交易員稱，印度央行大機率在早盤開盤前大規模拋售美元以支撐盧比匯率。"
-    },
-    {
-      "id": "4891747",
-      "time": "2026-05-21 11:22:30",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美團無人機低空配送超過90萬商業化訂單】美團副總裁、無人機負責人毛一年透露，截至今日，美團無人機低空配送已經實現了超過90萬的商業化訂單，這個數字大概是全球第二。公開資料顯示，美國Zipline目前有超過200萬單商業化訂單。"
     }
   ]
 }
