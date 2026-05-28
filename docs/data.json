@@ -1,7 +1,96 @@
 {
-  "updated": "2026-05-29 06:57:02",
-  "count": 15294,
+  "updated": "2026-05-29 07:08:36",
+  "count": 15296,
   "items": [
+    {
+      "id": "mkt:019e70d1-11d6-7eef-a304-61d96ea2335d",
+      "time": "2026-05-29 07:00:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea April seasonally adjusted industrial production m/m -0.7% vs expected +0.4%; prior revised to +0.6% from +0.3%."
+    },
+    {
+      "id": "mkt:019e70d1-1168-7eef-a304-5edded36ccb1",
+      "time": "2026-05-29 07:00:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea April industrial production YoY +1.5% vs 2.5% expected; prior reading revised up to 3.9% from 3.6%."
+    },
+    {
+      "id": "mkt:019e70d1-0fe1-7eef-a304-550dd27ec662",
+      "time": "2026-05-29 07:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "South Korea | Industrial Production (YoY) (Apr) | actual 1.5% | consensus 2.50% | previous 3.60%"
+    },
+    {
+      "id": "mkt:019e70d0-ebd3-7eef-a304-4da41c830044",
+      "time": "2026-05-29 07:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "South Korea | Industrial Production (MoM) (Apr) | actual -0.7% | consensus 0.40% | previous 0.30%"
+    },
+    {
+      "id": "4905636",
+      "time": "2026-05-29 06:59:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐西蘭儲備銀行貨幣政策委員會成員海莉・古爾利：利率大機率將很快上調，但加息的節奏與幅度將取決於後續經濟資料。"
+    },
+    {
+      "id": "te:markets:554622",
+      "time": "2026-05-29 06:58:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "New Zealand Stocks Poised to End Month on High Note — The NZX 50 rose 11 points, or 0.1%, to 13,217 in Friday morning trade, erasing losses from the previous session, as a rally on Wall Street overnight lifted sentiment, buoyed by the extended US-Iran ceasefire. Consumer confidence data for May also supported sentiment, as consumer mood improved from a near three-year low in April. However, traders continued to assess a statement from Anna Breman, who told Morning Report that the official cash rate is expected to rise to 3% or 3.25% in the future. Caution also prevailed ahead of the release of the May business outlook survey, after the indicator fell into negative territory in April for the first time since August 2023. Real estate, industrials, and consumer discretionary stocks mainly drove the index, with notable gains from Summerset Group (2.5%), Ebos Group (0.9%), Freightways Group (0.5%), and Contact Energy (0.5%). For the month, the index is heading for a 2.4% gain after being flat in the previous month."
+    },
+    {
+      "id": "mkt:019e70cf-c321-7eef-a304-402c5d12059b",
+      "time": "2026-05-29 06:58:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBNZ external member Hayley said rates \"are more likely to be raised sooner rather than later\", but the timing, pace and size of any hikes will depend on incoming data."
+    },
+    {
+      "id": "4905635",
+      "time": "2026-05-29 06:58:43",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：\n1、張國清在全國“安全生產月”活動啟動儀式上強調 提高隱患排查整治質效 牢牢守住安全發展底線\n2、諶貽琴在山東調研時強調 堅定不移實施就業優先戰略 多措並舉做好穩就業促就業工作\n3、網際網路企業雲端招聘月活動將開展\n4、我國首家產銷破億輛車企產生\n5、“十五五”時期投資5萬億元以上，推動西電東送規模超4.2億千瓦 新型電網 更強更綠更智慧（經濟新方位·精準發力建好“六張網”）\n6、浙江嘉興南湖機場首條國際貨運航線正式開通\n7、五位民營企業家和新的社會階層人士代表與中外記者交流 民營經濟發展前景廣闊、大有可為（權威釋出）\n8、一季度旅行服務出口同比增長32.3% 三個視角看入境遊新變化（大資料觀察·中國服務）\n9、世界智慧產業博覽會在津開幕\n10、金融強國建設蹄疾步穩（“十五五”開好局起好步）\n11、分子手術刀迭代升級 應用場景日益豐富 基因編輯，邁向精準醫療新階段（國際科技前沿）\n12、德國政府釋出“高科技議程”路線圖\n13、從南非蘋果進入中國餐桌說起（每週經濟評論）。"
+    },
+    {
+      "id": "4905634",
+      "time": "2026-05-29 06:58:32",
+      "tags": [
+        "宏觀",
+        "焦點"
+      ],
+      "text": "今天《人民日報》頭版的主要內容有：\n1、習近平復信參加“共航蔚藍：中美青年友誼行”活動的兩國學生\n2、習近平同奧地利總統範德貝倫就中奧建交55週年互致賀電\n3、習近平同蘇利南總統西蒙斯就中蘇建交50週年互致賀電\n4、金融強國建設蹄疾步穩（“十五五”開好局起好步）\n5、王滬寧會見英國跨黨派議員代表團\n6、國務院印發《城市更新“十五五”規劃》\n7、“三夏”大規模小麥機收全面展開 全國將投入各類農機具超1700萬臺（套）\n8、“校園餐”如何吃得更安心（政策問答·回應關切）。"
+    },
+    {
+      "id": "mkt:019e70cf-2434-7eef-a304-3de794d3f834",
+      "time": "2026-05-29 06:58:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trust-channel fees quietly rise as top firms trim volumes, smaller players rush in】Trust-channel fee rates have risen as leading trust companies proactively cut channel volumes and lift fees. Market participants say multiple counterparties are competing at single wealth managers for outsourced-mandate access as top trusts reduce their channel capacity, freeing business for mid- and small-sized trusts to capture. Several major trusts have already raised channel fees and scaled back business; industry sources say the market share ceded by leaders represents meaningful growth space for smaller firms. China Securities Journal."
+    },
     {
       "id": "mkt:019e70c9-3b52-7eef-a304-3005e9d03517",
       "time": "2026-05-29 06:51:36",
@@ -137642,76 +137731,6 @@
         "其他"
       ],
       "text": "國際貨幣基金組織與多哥就延長信貸安排下第三次和第四次聯合審查達成工作人員級協議。"
-    },
-    {
-      "id": "4893690",
-      "time": "2026-05-22 07:08:15",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "【證券經紀人數量跌破2萬 職業轉型路徑受關注】2026年尚未過半，證券行業已減員逾5500人，超過去年全年流失規模。其中，證券經紀人流失數量佔比逾八成。東方財富Choice資料顯示，截至5月20日，全行業證券經紀人數量已跌破2萬大關。曾經遍佈營業部、靠人海戰術撐起券商經紀業務半壁江山的群體，正在加速謝幕。不少券商對這一崗位相繼“清零”——繼中金財富證券後，招商證券上半年完成“清零”，華泰證券的證券經紀人數量也已為個位數。當曾經站在時代浪尖的從業者陸續離場時，他們的轉型之路成為市場持續關注的焦點。"
-    },
-    {
-      "id": "4893689",
-      "time": "2026-05-22 07:02:32",
-      "tags": [
-        "宏觀",
-        "市場"
-      ],
-      "text": "【今年首期注資特別國債發行】根據財政部發行安排，今年首期中央金融機構注資特別國債於5月22日發行。這意味著，繼2025年首批5000億元特別國債注資中國銀行、建設銀行、交通銀行、郵儲銀行後，國有大行第二輪特別國債注資即將落地。 (中證報)"
-    },
-    {
-      "id": "em:jjsj_ygsj:202605223745691464",
-      "time": "2026-05-22 07:01:28",
-      "tags": [
-        "經濟數據",
-        "英國"
-      ],
-      "text": "英國5月Gfk消費者信心指數為-23，預期-28，前值-25。"
-    },
-    {
-      "id": "4893688",
-      "time": "2026-05-22 07:01:07",
-      "tags": [
-        "資料"
-      ],
-      "text": "英國5月GfK消費者信心指數 -23，預期 -28，前值 -25。"
-    },
-    {
-      "id": "mkt:019e4cc5-51a9-7aa1-9581-eb26acc62d41",
-      "time": "2026-05-22 07:01:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United Kingdom | GfK Consumer Confidence Index (May) | actual -23 | consensus -28 | previous -25"
-    },
-    {
-      "id": "4893687",
-      "time": "2026-05-22 06:57:35",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：\n1、第二十二屆文博會開幕 集中展現我國文化產業高質量發展成果\n2、“2026·全國文化企業30強”“2026·全國成長性文化企業30強”釋出\n3、前4月網上服務零售額超2.4萬億元 同比增長8.3%，明顯高於商品零售額增速\n4、規範涉企行政執法專項行動取得明顯成效（權威釋出）全國共查糾突出問題案件線索六點六萬多件\n5、長三角一體化發展實事專案清單釋出\n6、第八屆中國西部國際投資貿易洽談會開幕\n7、廣西南寧資料領域國際合作試點啟動\n8、最高檢釋出白皮書顯示——長江經濟帶檢察機關五年辦理環境資源案件二十七點四萬件\n9、一季度全國光伏新增併網4119萬千瓦\n10、福建漳州通報“泡藥楊梅”問題\n11、貴州出臺意見 治理牟利性職業索賠與職業舉報行為\n12、今年四月汽車銷量同比增長一倍多——巴基斯坦汽車市場加速擴容\n13、報告顯示去年中國成為德國最大外資專案來源國\n14、截至去年底，累計實際使用外資超一千七百億美元 開放的蘇州成外企發展沃土\n15、構建互利共贏的亞太工商界夥伴關係 亞太工商界夥伴關係對話會暨2026蘇州全球招商大會舉行\n16、蘇州吳江區以全週期服務助力外企發展 “從初次接觸到正式簽約，只用22天”\n17、近千家外資企業在蘇州張家港市深耕發展 “從製造落地到技術紮根，合作更密切”。"
-    },
-    {
-      "id": "4893686",
-      "time": "2026-05-22 06:57:19",
-      "tags": [
-        "宏觀",
-        "焦點"
-      ],
-      "text": "今天《人民日報》頭版的主要內容有：\n1、雲南做強做優做大資源型產業（“十五五”開好局起好步）\n2、習近平同巴基斯坦總統扎爾達里就中巴建交75週年互致賀電 李強同巴基斯坦總理夏巴茲互致賀電\n3、李強主持召開國務院常務會議 研究推進全國統一大市場建設有關工作，審議透過《現代化應急體系建設“十五五”規劃》，討論《中華人民共和國中國人民銀行法（修訂草案）》\n4、各地區各部門各單位深入開展學習教育——完善制度機制 更好造福於民（樹立和踐行正確政績觀）\n5、法治護航 民企揚帆——民營經濟促進法施行一年來\n6、4月民航旅客運輸量超6100萬人次\n7、一季度我國海洋生產總值2.6萬億元。"
-    },
-    {
-      "id": "4893685",
-      "time": "2026-05-22 06:57:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國總統特朗普：今日能源與商務委員會就一項法案舉行表決，結果 48 票贊成、1 票反對。法案包含《陽光保護法案》，旨在永久實行夏令時。每年個人、城市及各州因反覆調時耗費數億美元成本。不少時鐘安裝於塔樓，每年兩次動用重型裝置調校，開銷十分高昂。眾議院擬將該法案併入公路法案。"
     }
   ]
 }
