@@ -1,7 +1,194 @@
 {
-  "updated": "2026-05-29 05:52:00",
-  "count": 15289,
+  "updated": "2026-05-29 06:10:59",
+  "count": 15294,
   "items": [
+    {
+      "id": "mkt:019e70a3-376f-7eef-a304-150158c0d266",
+      "time": "2026-05-29 06:10:05",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Vance said the U.S. could still inflict a major setback on Tehran's nuclear program."
+    },
+    {
+      "id": "mkt:019e70a3-2359-7eef-a304-08197c4ab481",
+      "time": "2026-05-29 06:09:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【CHINA FOREIGN MINISTER says Friends of Global Governance group coalesces five consensuses】CHINA FOREIGN MINISTER told the Friends of Global Governance meeting at UN headquarters in New York on the 28th that members have coalesced around five consensuses: advance democratization of international relations so all states, regardless of size or wealth, may choose systems and development paths and participate, decide and benefit equally in global governance; uphold the UN Charter and ensure equal, uniform application of international law and rules, opposing double standards and imposition; defend the UN’s central role by practising multilateralism, strengthening multilateral mechanisms and opposing unilateralism and power politics; reform and improve global governance to narrow the North‑South gap, share development gains and leave no country behind; and focus on practical problems, delivering concrete, visible outcomes to let global governance withstand scrutiny over time."
+    },
+    {
+      "id": "mkt:019e709f-971d-7eef-a304-077f90844d45",
+      "time": "2026-05-29 06:06:07",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Al Jazeera reported an Israeli drone strike on a security checkpoint in southern Gaza that killed three people."
+    },
+    {
+      "id": "4905617",
+      "time": "2026-05-29 06:05:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【五角大樓信函曝光，美軍人員正淪為利用位置資料襲擊的目標】根據軍方官員收到的報告，部署在交戰區的美國軍隊正成為利用商用位置資料進行襲擊的目標。這生動地表明瞭全球監視經濟正在如何改變著戰場面貌。在美國俄勒岡州民主黨參議員Ron Wyden提供一封信函中，美國中央司令部（Centcom）表示，它已經“收到了多份威脅報告，內容涉及對手利用商業位置資料在戰區內針對或監視美軍人員”。這封傳送於4月14日的郵件並未提供更多具體細節，但中央司令部的管轄範圍包括海灣地區，而在該地區，美軍正因霍爾木茲海峽問題與伊朗軍隊展開對峙。"
+    },
+    {
+      "id": "4905616",
+      "time": "2026-05-29 06:05:08",
+      "tags": [
+        "資料"
+      ],
+      "text": "澳新銀行：紐西蘭 5 月消費者信心指數環比上升 7.7%。"
+    },
+    {
+      "id": "mkt:019e709d-85b3-7eef-a303-fc7993c86e92",
+      "time": "2026-05-29 06:03:51",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish",
+        "Gold"
+      ],
+      "text": "U.S. officials say no U.S. aircraft were shot down near Bushehr, Iran, despite claims by Iranian state TV."
+    },
+    {
+      "id": "4905615",
+      "time": "2026-05-29 06:02:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員：儘管伊朗國家電視臺宣稱有美軍戰機在布什爾附近被擊落，但實際並無美軍軍機遭擊落。"
+    },
+    {
+      "id": "4905614",
+      "time": "2026-05-29 06:01:02",
+      "tags": [
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "萬斯：美伊雙方正就部分措辭細節展開磋商。"
+    },
+    {
+      "id": "4905613",
+      "time": "2026-05-29 06:00:52",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4500美元/盎司，日內漲0.09%。"
+    },
+    {
+      "id": "4905612",
+      "time": "2026-05-29 06:00:11",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲6月維持利率不變的機率為99.4%】據CME“美聯儲觀察”：美聯儲到6月維持利率不變的機率為99.4%，累計加息25個基點的機率為0.6%。美聯儲到7月維持利率不變的機率為93%，累計加息25個基點的機率6.9%。"
+    },
+    {
+      "id": "4905611",
+      "time": "2026-05-29 06:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4530美元/盎司，日內跌0.07%。"
+    },
+    {
+      "id": "4905610",
+      "time": "2026-05-29 06:00:01",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美石油巨頭：未來數週原油庫存將跌至低位 油價或暴漲】埃克森美孚週四預警，未來數週原油庫存將跌至歷史低位，進而推動油價暴漲、抑制市場需求。 埃克森美孚高階副總裁尼爾・查普曼在伯恩斯坦公司於紐約舉辦的會議上表示：“原油庫存正逼近前所未有的水平。” 他警示道：“庫存會降到極低的位置。至於這一極端低位會在兩週還是三週到來，尚存討論空間。但一旦抵達該節點，油價就會大幅飆升。” 這位高管稱，待未來幾周庫存觸頂歷史新低，現貨布倫特原油價格將漲至每桶150至160美元。“當油價攀升至一定水平，需求回落會重新讓市場迴歸平衡。” 國際能源署表示，伊朗封鎖霍爾木茲海峽至今，已造成市場原油供應缺口超10億桶，為史上最嚴重的原油供應中斷事件。查普曼稱，目前庫存暫時緩衝了衝擊，但這種局面難以為繼。"
+    },
+    {
+      "id": "4905609",
+      "time": "2026-05-29 05:59:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "萬斯：伊朗正秉持誠意開展談判。"
+    },
+    {
+      "id": "mkt:019e7097-e8e0-7eef-a303-f01be982a0a8",
+      "time": "2026-05-29 05:57:43",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Interfax, citing the regional governor, reported Ukrainian drones struck energy infrastructure in Russia's Volgograd region."
+    },
+    {
+      "id": "4905607",
+      "time": "2026-05-29 05:56:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta 宣佈派發季度現金股息， 每股派發 0.53 美元季度現金股息，派息日為 2026 年 6 月 25 日。"
+    },
+    {
+      "id": "mkt:019e7096-b8fd-7eef-a303-ead596032768",
+      "time": "2026-05-29 05:56:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TASS, citing the regional governor, reported a drone attack in Russia's Volgograd region struck a residential building; no casualties reported."
+    },
+    {
+      "id": "4905606",
+      "time": "2026-05-29 05:56:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "塔斯社援引州長訊息：俄羅斯伏爾加格勒州遭無人機襲擊，一棟居民樓被擊中，暫無人員傷亡。"
+    },
+    {
+      "id": "4905605",
+      "time": "2026-05-29 05:53:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "麥格理：上調小鵬ADR評級至跑贏大盤，之前持中性評級。"
+    },
+    {
+      "id": "mkt:019e7093-83fd-7eef-a303-e6c27102c290",
+      "time": "2026-05-29 05:52:56",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. Vice President Vance on Iran said no agreement has been reached yet but one is very close."
+    },
+    {
+      "id": "4905604",
+      "time": "2026-05-29 05:51:47",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "萬斯談伊朗問題：尚未達成協議，但我們已非常接近。"
+    },
     {
       "id": "4905603",
       "time": "2026-05-29 05:50:24",
@@ -137516,132 +137703,6 @@
         "Importance 1"
       ],
       "text": "FX Updates: Indian Rupee Increases by 0.53% — Top currency gainers are Indian Rupee (0.53%), Brazilian Real (0.32%), Norwegian Krone (0.25%) and Dollar Index (0.11%). Biggest losers are South Korean Won (-0.37%), Turkish Lira (-0.28%) and Euro (-0.06%). Meanwhile, Japanese Yen and British Pound were little changed."
-    },
-    {
-      "id": "4893668",
-      "time": "2026-05-22 06:09:12",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "巴西財政部長： 我方將採取舉措遏制開支攀升。"
-    },
-    {
-      "id": "4893667",
-      "time": "2026-05-22 06:08:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "Alphabet旗下Waymo因暴風雨暫停在達拉斯、休斯頓提供Robotaxi服務。"
-    },
-    {
-      "id": "4893666",
-      "time": "2026-05-22 06:07:38",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "巴西財政部長： 當前利率水平下債務續借，令我方倍感壓力。"
-    },
-    {
-      "id": "4893665",
-      "time": "2026-05-22 06:05:18",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【國內債市無懼海外擾動 “以我為主”韌性凸顯】近期，海外債券市場調整壓力加大。10年期美債收益率上行至4.6%一線，日債、歐債收益率同步抬升，全球長端利率波動引發市場關注。相比之下，國內債市雖一度受到情緒擾動，但總體表現平穩，收益率上行幅度有限，並較快回到自身執行軌道。多位業內人士認為，當前海外債市主要交易地緣衝突、輸入型通脹和美聯儲暫緩降息節奏，而國內債市定價主線仍是流動性寬鬆、基本面修復斜率偏弱和資產欠配壓力。海內外債市定價邏輯明顯不同，國內債市“以我為主”特徵更加突出。（上證報）"
-    },
-    {
-      "id": "4893664",
-      "time": "2026-05-22 06:04:43",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "【多家外資巨頭一季度大舉增持中概股】最新披露的美國13F檔案顯示，多家外資巨頭今年一季度對部分中國股票進行大手筆加倉。其中：城堡諮詢、德意志銀行等機構對阿里巴巴的持股增幅超過500%；摩根大通、瑞銀等機構顯著增持百度；Point72和美國銀行大舉買入京東。業內人士認為，盈利復甦、雲業務等新增長點被重新定價，而估值仍未充分反映這些積極變化，是外資加倉的核心原因。與此同時，摩根大通、花旗等機構也上調了相關公司股票目標價，看好其後續表現。（上證報）"
-    },
-    {
-      "id": "4893663",
-      "time": "2026-05-22 06:04:02",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "巴西財政部長： 預計明日宣佈擴大預算支出凍結規模。"
-    },
-    {
-      "id": "4893662",
-      "time": "2026-05-22 06:03:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "【古巴國家主席：古巴不會容忍對其歷史的侮辱 】古巴國家主席迪亞斯-卡內爾21日在社交媒體發文，譴責美國政府起訴古巴革命領袖勞爾·卡斯特羅，強調古巴人民不會容忍對其歷史和民族英雄的侮辱。迪亞斯-卡內爾說，古巴人民在日常生活中頑強克服了由封鎖造成的困難與匱乏。他表示，美國政府起訴勞爾·卡斯特羅進一步團結了古巴人民，提升了古巴的民族自豪感和反帝情懷。（新華社）"
-    },
-    {
-      "id": "4893661",
-      "time": "2026-05-22 06:03:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "【萬億巨頭激增 行業盈利“探底” 信託業轉型走到“十字路口”】隨著2025年信託公司年報披露完畢，信託業深度分化的真實圖景已然顯現：一方面，在本源業務加速放量的過程中，全行業受託資產規模突破34萬億元大關，管理資產規模超過萬億元的頭部公司增至9家，幾乎是2024年末的兩倍；另一方面，全行業盈利水平仍在低位“探底”狀態，淨利潤平均數同比下降10.54%，半數信託公司利潤下滑或虧損擴大。種種資料表明，中國信託業正面臨著從同質化規模擴張向差異化高質量發展跨越的考驗。接下來，究竟是堅持規模導向先做大再做強，還是破釜沉舟提高主動管理能力，不少信託公司站在了“十字路口”。（上證報）"
-    },
-    {
-      "id": "4893660",
-      "time": "2026-05-22 06:02:40",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "巴西財政部長： 財政因素是利率高企的原因之一，但並非主因。"
-    },
-    {
-      "id": "4893659",
-      "time": "2026-05-22 06:01:46",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "巴西財政部長：貨幣政策承壓源於伊朗戰事，而非巴西財政狀況。"
-    },
-    {
-      "id": "4893658",
-      "time": "2026-05-22 06:00:44",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期銀失守76美元/盎司，日內漲0.34%。"
-    },
-    {
-      "id": "4893657",
-      "time": "2026-05-22 06:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內漲1%，現報97.82美元/桶。"
-    },
-    {
-      "id": "4893656",
-      "time": "2026-05-22 05:59:59",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲6月維持利率不變的機率為96.8%】據CME“美聯儲觀察”：美聯儲到6月維持利率不變的機率為96.8%，累計加息25個基點的機率為3.2%。美聯儲到7月維持利率不變的機率為85.4%，累計加息25個基點的機率14.2%，累計加息50個基點的機率為0.4%。"
-    },
-    {
-      "id": "4893655",
-      "time": "2026-05-22 05:58:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "SpaceX：星艦發射時間現調整為美國中部時間下午6:30。"
-    },
-    {
-      "id": "4893654",
-      "time": "2026-05-22 05:54:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "墨西哥總統辛鮑姆與美國國土安全部部長穆林達成共識，同意在尊重主權前提下開展合作。"
     }
   ]
 }
