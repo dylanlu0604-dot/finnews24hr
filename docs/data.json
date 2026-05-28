@@ -1,7 +1,48 @@
 {
-  "updated": "2026-05-29 02:51:32",
+  "updated": "2026-05-29 02:55:26",
   "count": 15251,
   "items": [
+    {
+      "id": "4905513",
+      "time": "2026-05-29 02:54:31",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【城堡證券：美股陷入“緊張式看漲” 預計行情仍有上行空間】城堡證券的Scott Rubner表示，儘管美國股市過去兩個月已上漲超過10%，但可能還會繼續走高。這位城堡證券股票及股票衍生品策略主管表示，隨著地緣政治情緒改善、市場波動率維持低位，以及大型科技股持續領漲，那些在此前大部分反彈過程中保持謹慎的投資者被迫重新考慮倉位。Rubner週四在致客戶報告中寫道：“市場討論的焦點，越來越從下行保護轉向場外還有多少現金、下一批增量買家會來自哪裡，以及系統性資金流是否還能繼續推動這輪上漲。”"
+    },
+    {
+      "id": "mkt:019e6fee-479f-7eef-a302-59e81141ca3b",
+      "time": "2026-05-29 02:52:27",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Bessent: Sanctions Relief Depends On Iran's Nuclear Concessions】Bessent said any U.S. easing of sanctions or asset unfreezing for Iran would depend on whether Tehran meets core conditions set by the Trump administration. He called U.S.-Iran talks a “multi-layered agreement” and said nothing would be put on the table until Iran made explicit commitments. Any sanctions relief would be calibrated to Iranian concessions on nuclear issues, including whether Iran hands over highly enriched uranium. He did not directly say whether the U.S. would unfreeze assets or provide cash. Bessent added the Trump administration is tightening restrictions on Iran's aviation sector, calling Iranian airlines illegal entities and saying the U.S. will not allow them to operate normally."
+    },
+    {
+      "id": "4905512",
+      "time": "2026-05-29 02:51:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：在這款紀念建國 250 週年的 250 美元紙幣上印上現任美國總統肖像，我認為此舉並無不妥。"
+    },
+    {
+      "id": "mkt:019e6fed-1d8e-7eef-a302-51850dd38827",
+      "time": "2026-05-29 02:51:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【US Treasury Secretary Bessent Says TRUMP Will Not Accept 'Bad Iran Deal'】US Treasury Secretary Bessent said on May 28 that US and Iranian negotiating teams remain in talks, but TRUMP has set multiple \"red lines\" and will not accept a \"bad deal.\" Bessent said TRUMP prefers a peaceful settlement and that current US actions are \"defensive,\" but the administration will act if a peaceful agreement cannot be reached. TRUMP demands Iran hand over highly enriched uranium, forswear nuclear-weapon development, and restore free navigation through the Strait of Hormuz; Bessent said Oman told him it will not charge passage fees and warned countries that try to restrict navigation could face US sanctions."
+    },
     {
       "id": "4905511",
       "time": "2026-05-29 02:50:31",
@@ -137203,40 +137244,6 @@
         "市場"
       ],
       "text": "恒指期貨夜盤收漲0.73%，報25453.45點，高水66.93點。"
-    },
-    {
-      "id": "4893576",
-      "time": "2026-05-22 02:55:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：星巴克停用旨在解決產品短缺問題的人工智慧專案。"
-    },
-    {
-      "id": "4893575",
-      "time": "2026-05-22 02:54:52",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "據沙特媒體：高階外交訊息人士透露，巴基斯坦軍隊司令今晚不會前往德黑蘭。"
-    },
-    {
-      "id": "mkt:019e4be3-d9cd-7aa1-9581-10eaffc466a5",
-      "time": "2026-05-22 02:54:44",
-      "tags": [
-        "MKT News",
-        "SBUX.O"
-      ],
-      "text": "STARBUCKS RETIRES AI PROGRAM INTENDED TO FIX PRODUCT SHORTAGES - INTERNAL NEWSLETTER, SOURCES"
-    },
-    {
-      "id": "mkt:019e4be3-0712-7aa1-9581-0d46049ecc4b",
-      "time": "2026-05-22 02:53:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "HIGH-LEVEL SOURCE FOR AL ARABIYA: THE PAKISTANI ARMY CHIEF WILL NOT HEAD TO TEHRAN TONIGHT"
     }
   ]
 }
