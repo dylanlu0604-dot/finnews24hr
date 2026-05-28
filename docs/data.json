@@ -1,7 +1,24 @@
 {
-  "updated": "2026-05-29 03:11:29",
-  "count": 15250,
+  "updated": "2026-05-29 03:15:27",
+  "count": 15251,
   "items": [
+    {
+      "id": "mkt:019e7000-b78a-7eef-a302-71a6740c30d1",
+      "time": "2026-05-29 03:12:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【UN Spokesperson Says Secretary-General's Office Remains Open To Israeli Delegation】After the UN recently added Israeli entities to a list of parties responsible for sexual violence in conflict, Israel's UN ambassador Danny Danon said on the 28th that Israel would \"no longer be in contact\" with the Secretary-General's office and cancelled planned visits by UN officials. At a regular briefing, Secretary-General spokesman Stephane Dujarric said the Secretary-General's office remains open to Israeli representatives."
+    },
+    {
+      "id": "4905522",
+      "time": "2026-05-29 03:12:17",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲巴爾金：  企業盈利向好，裁員意願不強。"
+    },
     {
       "id": "4905521",
       "time": "2026-05-29 03:10:33",
@@ -137223,18 +137240,6 @@
         "國際"
       ],
       "text": "惠譽確認美國銀行評級為“AA-”，展望穩定。"
-    },
-    {
-      "id": "mkt:019e4bf4-6c8d-7aa1-9581-3603fd3789a2",
-      "time": "2026-05-22 03:12:50",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "SENIOR WH OFFICIAL: IRAN TALKS’ KEY STICKING POINTS REMAIN NO NUCLEAR WEAPONS, KEEPING STRAIT OF HORMUZ OPEN WITH NO TOLLS OR IRANIAN STRIKES - POLITICO"
     }
   ]
 }
