@@ -1,7 +1,108 @@
 {
-  "updated": "2026-05-28 10:38:53",
-  "count": 15004,
+  "updated": "2026-05-28 10:42:41",
+  "count": 15010,
   "items": [
+    {
+      "id": "4903672",
+      "time": "2026-05-28 10:42:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "申鉉松：國內債券市場遠未陷入危機。"
+    },
+    {
+      "id": "4903671",
+      "time": "2026-05-28 10:41:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "三艘石油和液化天然氣運輸船關閉應答器駛出霍爾木茲海峽。"
+    },
+    {
+      "id": "te:markets:554258",
+      "time": "2026-05-28 10:41:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Corn Prices Hit 5-Week Low — Corn futures fell to around $4.5 per bushel, hitting a five-week low as uncertainty over global trade and geopolitical developments weighed on prices. A potential US–Iran peace deal that could reopen the Strait of Hormuz and restore flows of fuel and fertilizers critical for crop production is seen as supportive for agricultural supply, potentially boosting global grain output. However, crude oil prices rebounded on reports of fresh US strikes in southern Iran, reinforcing biofuel-related demand. Elsewhere, doubts over a US–China trade agreement added pressure. While the US administration said China had agreed to purchase at least $17 billion in US agricultural goods annually through 2028 following Trump–Xi talks in Beijing, China’s Commerce Ministry described the arrangement only as a “guiding target” to expand trade, without confirming the figure. USDA data indicates that a recovery in Chinese corn imports would mark a notable shift after nearly two years of subdued buying."
+    },
+    {
+      "id": "4903670",
+      "time": "2026-05-28 10:41:42",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【證監會：各類境外投資者持有A股流通市值超過4萬億元】新浪財經訊，5月28日，深交所2026全球投資者大會舉行，中國證監會副主席劉浩凌表示，截至目前，各類境外投資者持有A股流通市值超過4萬億元，已成為中國資本市場的重要參與者。"
+    },
+    {
+      "id": "mkt:019e6c75-789d-7666-9cf2-2fe51d01882e",
+      "time": "2026-05-28 10:41:37",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Kuwait's state news agency KUNA reported alarms sounded nationwide."
+    },
+    {
+      "id": "4903669",
+      "time": "2026-05-28 10:41:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "科威特國家通訊社稱，全國範圍內已響起警報。"
+    },
+    {
+      "id": "mkt:019e6c75-4657-7666-9cf2-2446dc683e45",
+      "time": "2026-05-28 10:41:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "cenc's automated system detected a roughly magnitude-4.0 earthquake at 10:37 on May 28 near Yushu City, Yushu Prefecture, Qinghai (33.06N, 96.20E). Final results are subject to the official rapid bulletin."
+    },
+    {
+      "id": "4903668",
+      "time": "2026-05-28 10:41:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "科威特：應對敵對導彈和無人機威脅。"
+    },
+    {
+      "id": "4903667",
+      "time": "2026-05-28 10:40:50",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【證監會副主席劉浩凌：資本市場高水平制度型開放步伐穩健，國際投資者信心明顯提升】新浪財經訊，5月28日，深交所2026全球投資者大會舉行，中國證監會副主席劉浩凌表示，資本市場全方位的改革舉措推動改善投資生態，一大批對外開放舉措落地見效，有力增強了長期配置型投資者投資中國的信心。"
+    },
+    {
+      "id": "4903666",
+      "time": "2026-05-28 10:39:47",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【滬電股份股價創歷史新高】滬電股份盤中股價創歷史新高，現漲5.41%，報135.23元，總市值為2551.32億元。"
+    },
+    {
+      "id": "4903665",
+      "time": "2026-05-28 10:39:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "申鉉松：晶片驅動的增長升級被認為是持久的，而非暫時的。"
+    },
+    {
+      "id": "mkt:019e6c73-98e9-7666-9cf2-193b0bdb509a",
+      "time": "2026-05-28 10:39:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BANK OF KOREA GOVERNOR SHIN said he expects South Korea's GDP output gap to turn positive in 2027."
+    },
     {
       "id": "4903664",
       "time": "2026-05-28 10:38:25",
@@ -134671,56 +134772,6 @@
         "公司"
       ],
       "text": "【智譜AI開闢AutoClaw新入口，推出APP版本】智譜AI於近日推出了AutoClaw APP版本，目前只登陸了AppStore。這是繼PC端之後，智譜AI為AutoClaw開闢的新入口。 與PC端相比，APP對於Agent和群聊的建立與管理規則均未發生改變，可實現移動端和PC端賬號資訊實時同步，能夠隨時編輯資料或登出不再需要的Agent，支援建立群聊讓多個 Agent 協作完成複雜任務。（Tech星球）"
-    },
-    {
-      "id": "4891692",
-      "time": "2026-05-21 10:42:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "【人形機器人概念反覆活躍 上緯新材漲近10%】人形機器人概念反覆活躍，上緯新材漲近10%，斯菱智驅、北特科技、德馬科技、浙江榮泰、五洲新春、奧比中光、東方精工跟漲。"
-    },
-    {
-      "id": "4891691",
-      "time": "2026-05-21 10:42:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "【英偉達中國參保人數8年漲近3倍】據媒體報道，5月21日，英偉達2027財年Q1營收816億美元，同比增長85%；Q1淨利潤583億美元，同比增長211%，相關話題引發關注。天眼查App顯示，英偉達半導體科技（上海）有限公司成立於2004年7月，法定代表人為MARK STEVEN HOOSE，註冊資本900萬美元，經營範圍包括企業總部管理、軟體開發、積體電路設計等，由NVIDIA SEMICONDUCTOR HOLDING COMPANY（模里西斯）全資持股。參保人數資訊顯示，該公司參保人數從2016年的562人增至2024年的2227人。此外，英偉達在中國還關聯有NVIDIA技術服務（北京）有限公司、英偉達半導體（深圳）有限公司、英偉達半導體技術服務（上海）有限公司等公司。"
-    },
-    {
-      "id": "4891690",
-      "time": "2026-05-21 10:42:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "阿達尼港口公司：將收購傑伊化肥工業有限公司，交易價值為150億盧比。"
-    },
-    {
-      "id": "4891689",
-      "time": "2026-05-21 10:41:22",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "玻璃連續主力合約日內漲2%，現報1038.00元。"
-    },
-    {
-      "id": "4891688",
-      "time": "2026-05-21 10:40:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "【小金屬板塊走高，中鎢高新、東方鉭業漲超8%】小金屬板塊走高，中鎢高新、東方鉭業漲超8%，金鉬股份，章源鎢業等跟漲。"
-    },
-    {
-      "id": "4891687",
-      "time": "2026-05-21 10:39:55",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "摩根大通亞太區CEO：投資者已重新將目光轉向中國。"
     }
   ]
 }
