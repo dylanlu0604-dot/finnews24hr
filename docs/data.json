@@ -1,7 +1,113 @@
 {
-  "updated": "2026-05-28 11:36:20",
-  "count": 15076,
+  "updated": "2026-05-28 11:40:15",
+  "count": 15083,
   "items": [
+    {
+      "id": "4903784",
+      "time": "2026-05-28 11:39:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天和防務：子公司生產的低膨脹介質膠膜可用於半導體封裝領域】天和防務(300397)在互動平臺表示，公司子公司天和嘉膜生產的低膨脹介質膠膜可用於半導體封裝領域。"
+    },
+    {
+      "id": "4903783",
+      "time": "2026-05-28 11:39:04",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數下跌3.1%，至7975.62點。"
+    },
+    {
+      "id": "4903782",
+      "time": "2026-05-28 11:38:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數期貨日內跌幅擴大至0.7%。"
+    },
+    {
+      "id": "4903781",
+      "time": "2026-05-28 11:38:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "日經225指數日內跌幅達1.00%。"
+    },
+    {
+      "id": "mkt:019e6ca8-abdb-7777-9192-407bb5102532",
+      "time": "2026-05-28 11:37:33",
+      "tags": [
+        "MKT News",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "JAPAN'S NIKKEI INDEX fell as much as 1.00% intraday."
+    },
+    {
+      "id": "mkt:019e6ca8-944f-7777-9192-3db0afd10f67",
+      "time": "2026-05-28 11:37:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver was down 3.00% intraday, trading at $72.38 per ounce."
+    },
+    {
+      "id": "4903780",
+      "time": "2026-05-28 11:37:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達80億港元。"
+    },
+    {
+      "id": "mkt:019e6ca8-55d7-7ff1-8684-3b97bc238832",
+      "time": "2026-05-28 11:37:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component"
+      ],
+      "text": "【A-Share Midday: ChiNext Rebounds 0.21%; Lab-Grown Diamonds, Supercapacitors Lead Gains】China's three major A-share indices opened lower and fell in early trade before rebounding into the midday session; as of the midday close the Shanghai Composite was down 0.14%, the Shenzhen Composite Index down 0.26% and the ChiNext Index up 0.21%. Turnover across Shanghai and Shenzhen stood at 1.78 trillion yuan in the half-day, down 285.4 billion yuan from the previous trading day. More than 2,000 stocks advanced. The lab-grown diamond sector remained active: Sifangda and Huanghe Xuanfeng hit the daily limit, with Huifeng Diamond, Liliang Diamond, Hengsheng Energy and Wolder also rising. Supercapacitor names strengthened, with Huafeng Co., Jinshi Technology, Torch Electronics, Fenghua High‑Tech, Jianghai and Beijing Kerui seeing multiple stocks hit daily limits. The storage‑chip sector recovered from earlier losses; Huahong surged about 15% intraday and its stock set fresh record highs, while Shangluo Electronics, Xi'an Yicai, Ashichuang and Yachuang Electronics rose more than 10%. Concepts linked to rent‑sale parity, fiber optics and rare‑earth permanent magnets were among top gainers. The baijiu sector led declines, with Jinzhongzi, Weilong and Huangtai falling over 5%. Gold‑related names cooled, with Hebai Group down more than 9%. Pork, dairy and innovative‑drug stocks were also among the larger losers."
+    },
+    {
+      "id": "mkt:019e6ca8-4d41-7777-9192-3289e3ef680f",
+      "time": "2026-05-28 11:37:09",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "Nikkei 225",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "South Korea's KOSPI fell below 8,000 points, down 2.83% intraday."
+    },
+    {
+      "id": "4903779",
+      "time": "2026-05-28 11:36:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌3%，現報72.35美元/盎司。"
+    },
+    {
+      "id": "4903778",
+      "time": "2026-05-28 11:36:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【雲南掛牌督辦一起致4人死亡道路交通事故查處】從雲南省應急管理廳瞭解到，雲南省安全生產委員會日前決定對一起發生於2026年4月28日致4人死亡的道路交通事故查處進行掛牌督辦。 據介紹，2026年4月28日，銀昆高速昆明市尋甸縣境內發生一起涉12類車輛的道路交通事故，造成4人死亡。根據較大事故查處掛牌督辦辦法，雲南省安全生產委員會決定對該起事故查處進行掛牌督辦。 雲南省安全生產委員會要求有關方面依照生產安全事故報告和調查處理條例等有關法律法規規定，組成事故調查組，抓緊開展事故調查，儘快查明事故原因。（新華社）"
+    },
     {
       "id": "mkt:019e6ca6-adb3-7777-9192-2c82a5e8558a",
       "time": "2026-05-28 11:35:23",
@@ -135378,40 +135484,6 @@
         "公司"
       ],
       "text": "【迦南科技：變更部分募集資金用途並用於永久補充流動資金】迦南科技公告，同意公司變更“製藥配液系統生產中心建設專案”及“醫藥研發服務平臺升級擴建專案”，並將專案尚未使用的募集資金（包括剩餘募集資金、累計收到的銀行存款利息及扣除銀行手續費後的淨額，實際金額以轉出及銷戶當日募集資金專戶中的餘額為準）永久補充流動資金，用於公司日常生產經營。"
-    },
-    {
-      "id": "4891770",
-      "time": "2026-05-21 11:39:42",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "印度據悉正在考慮各種提振盧比的選項，包括加息。"
-    },
-    {
-      "id": "4891769",
-      "time": "2026-05-21 11:39:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "【印尼高地巴布亞省8名礦工遭武裝分子殺害】當地時間5月21日，據印尼軍方訊息，8名礦工20日在高地巴布亞省遭當地武裝分子殺害。涉事武裝組織隨後聲稱對事件負責，並懷疑這8名礦工為便衣警察。對此，印尼軍方予以否認，強調遇害者均為平民，並譴責針對平民的暴力行為。印尼軍方表示，針對肇事武裝分子的追捕行動正在進行。軍方指出，殺害平民的行為已構成對法律和人權的嚴重侵犯，相關責任人將被依法追究。"
-    },
-    {
-      "id": "4891768",
-      "time": "2026-05-21 11:37:57",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印度Nifty 50指數盤前交易上漲0.72%。"
-    },
-    {
-      "id": "4891767",
-      "time": "2026-05-21 11:37:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "【阿里股東信釋放訊號 即時零售已成為淘寶天貓核心戰略支柱】阿里巴巴集團主席蔡崇信與執行長吳泳銘5月20日聯合釋出致股東信。信中稱，即時零售已成為淘寶和天貓平臺升級的核心戰略支柱。“我們看到即時零售在利用AI驅動獲取新使用者、增強使用者粘性、滿足多元消費需求、提升交易量和商業化水平的戰略意義。”"
     }
   ]
 }
