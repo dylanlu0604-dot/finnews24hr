@@ -1,7 +1,91 @@
 {
-  "updated": "2026-05-28 14:53:34",
-  "count": 15158,
+  "updated": "2026-05-28 14:57:31",
+  "count": 15159,
   "items": [
+    {
+      "id": "te:economy:554342",
+      "time": "2026-05-28 14:56:50",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "France",
+        "Producer Price Inflation MoM",
+        "Importance 2"
+      ],
+      "text": "French Producer Prices Post Biggest Drop in a Year — French domestic producer prices fell 2.1% month-on-month in April 2026, reversing a revised 1.9% increase in March and marking the steepest decline since April last year. The drop was largely driven by a sharp decline in prices for mining, quarrying, energy, and water (-10.9% vs 0.7% in March), mainly due to a steep fall in electricity prices (-22.1% vs -0.2%) amid lower wholesale market prices, stronger renewable energy production, and weaker demand linked to mild temperatures. This was partially offset by a pickup in gas prices (6.5% vs 2.4%), linked to the conflict in the Middle East. Meanwhile, price growth for manufactured products slowed sharply (0.7% vs 2.3%), as food products, beverages, and tobacco declined (-0.3% vs 0.2%). Prices for coke and refined petroleum products also decelerated markedly (4.1% vs 53.1%), as oil prices eased in April following the March spike. On an annual basis, domestic producer prices rose 2.1%, after being flat in March."
+    },
+    {
+      "id": "mkt:019e6d5e-4eae-777a-9a14-dd3cd5a267d2",
+      "time": "2026-05-28 14:55:57",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact mixed"
+      ],
+      "text": "【MORGAN STANLEY: Cooling Australian Housing Market Could Ease inf Concerns】MORGAN STANLEY economist Chris Read said a broad slowdown in Australia’s housing market could partly offset concerns that construction costs and rents will continue to push up inf. Read, who also serves as the bank’s equity strategist and Australia economist, said housing inflation is a key worry given the country’s core inf rate remains above the RESERVE BANK OF AUSTRALIA’s target. In a report he wrote that over the coming months the BUZZ will be the extent to which rising energy costs feed into broader inf pressures, and to look to demand indicators for signs of how much firms can pass through costs."
+    },
+    {
+      "id": "4904074",
+      "time": "2026-05-28 14:55:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【國際能源署：中東衝突影響各國佈局 能源安全再成焦點】當地時間5月28日，國際能源署（IEA）釋出的《2026年世界能源投資報告》指出，中東衝突帶來的深遠影響，正促使各國政府和企業重新審視能源投資戰略。在霍爾木茲海峽運輸受阻背景下，各方對能源安全以及全球貿易流通可靠性的擔憂顯著上升。報告稱，由霍爾木茲海峽事實上關閉所引發的當前能源危機，正在改變市場對風險的認知，並推動各國進一步尋求能源和運輸路線多元化。這場危機距離2022年俄烏衝突引發的能源危機僅過去數年，預計將對未來全球能源投資重點產生長期影響，尤其是在亞洲和中東地區。上述地區受到霍爾木茲海峽航運中斷影響最為明顯。國際能源署執行幹事法提赫·比羅爾表示：“我們正處於世界有史以來最大規模的能源安全危機之中。我認為，這將重塑全球能源投資戰略，類似於20世紀70年代石油危機後能源行業經歷的重大變化。”（央視新聞）"
+    },
+    {
+      "id": "te:economy:554340",
+      "time": "2026-05-28 14:55:44",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Hungary",
+        "Unemployment Rate",
+        "Importance 1"
+      ],
+      "text": "Hungary Jobless Rate at 4.5% in February-April — The unemployment rate in Hungary edged up to 4.5% in February–April 2026 from 4.4% in the corresponding period a year ago. The number of unemployed individuals rose by 1.9 thousand year-on-year to 226.4 thousand. Of the total unemployed, 116.1 thousand were men, with an unemployment rate of 4.5%, while 102.5 thousand were women, at 4.5%. Moreover, the average time spent looking for a job was 13.1 months. Among unemployed individuals, 33.3% had been seeking work for less than three months, while 30.6% had been looking for work for 4–11 months. The proportion of those searching for work for more than a year increased by 2.4 percentage points to 36.1%. Meanwhile, the number of employed persons decreased by 55 thousand year-on-year to 4.618 million. Employment among men fell by 18 thousand to 2.464 million, while employment among women declined by 36.9 thousand to 2.154 million."
+    },
+    {
+      "id": "mkt:019e6d5e-0767-777a-9a14-d1ba48544f63",
+      "time": "2026-05-28 14:55:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "02723.HK",
+        "Impact bullish"
+      ],
+      "text": "Shenyan Intelligent (02723.HK) rose more than 70% on its second trading day, pushing the share price above HK$350. On its Hong Kong debut yesterday the stock closed up 265%."
+    },
+    {
+      "id": "mkt:019e6d5d-f777-777a-9a14-cefcc2fd4637",
+      "time": "2026-05-28 14:55:35",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alibaba",
+        "BABA.N"
+      ],
+      "text": "【Alibaba Qoder Launches Cloud Agents】Alibaba Cloud said on May 28 that Alibaba Qoder has launched Cloud Agents, a fully managed AI-agent runtime platform providing an agent foundation, model services and runtime environment to deliver full-stack agent capabilities. Enterprises can invoke the Agents directly via API to give applications and business systems a “brain” and “hands”, and Alibaba Cloud said agent go-live time has been shortened from one month to one day."
+    },
+    {
+      "id": "4904073",
+      "time": "2026-05-28 14:55:31",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "深演智慧(02723.HK)上市翌日漲超70%，股價站上350港元，昨日上市首日收漲265%。"
+    },
+    {
+      "id": "4904071",
+      "time": "2026-05-28 14:55:13",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【隨著美伊衝突抑制風險偏好，比特幣下跌】隨著美國和伊朗之間的新一輪軍事打擊抑制了風險偏好，比特幣跌至六週低點。在德黑蘭向霍爾木茲海峽的商船發射無人機後，美軍於週三對伊朗進行了新的打擊。美國總統特朗普表示，他不會倉促達成和平協議，並駁斥了伊朗國家電視臺關於達成恢復透過該海峽航運協議的報道。倫敦證券交易所集團資料顯示，比特幣下跌2.8%，最低觸及72,667美元。"
+    },
     {
       "id": "4904070",
       "time": "2026-05-28 14:52:28",
@@ -136023,67 +136107,6 @@
         "其他"
       ],
       "text": "【瀾起科技成交額達300億元】5月21日下午，瀾起科技成交額達300億元，現漲1.87%。"
-    },
-    {
-      "id": "te:markets:552589",
-      "time": "2026-05-21 14:57:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "Japanese Stocks Surge as SoftBank Jumps 20% — The Nikkei 5225 Index rallied 3.14% to close at 61,684 while the broader Topix Index gained 1.64% to 3,854 on Thursday, as Japanese equities rebounded from earlier weekly losses amid renewed optimism surrounding artificial intelligence-related demand. Strong earnings from Nidia boosted sentiment across global technology markets, while news that Samsung Electronics had averted a potential labor strike further supported semiconductor-linked shares. In Japan, SoftBank Group led the rally, soaring nearly 20% following reports that OpenAI is preparing for a public listing. Other technology-related stocks also posted strong gains, including Kioxia Holdings (7.9%), Fujikura (4.8%), Advantest (4.4%), Ibiden (14.3%) and Tokyo Electron (5.9%). On the geopolitical front, President Donald Trump said the US was in the final stages of negotiations with Iran, fueling hopes that the strategically important Strait of Hormuz could soon reopen."
-    },
-    {
-      "id": "4892044",
-      "time": "2026-05-21 14:57:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度Sensex指數回吐日內漲幅，現跌0.01%。"
-    },
-    {
-      "id": "4892043",
-      "time": "2026-05-21 14:55:25",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超3.4萬億元，較上日此時放量5004億元。"
-    },
-    {
-      "id": "4892042",
-      "time": "2026-05-21 14:55:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【立訊精密等成立新材料公司】企查查APP顯示，近日，南京訊瑞新材料有限公司成立，法定代表人為李帥君，註冊資本為1000萬元，經營範圍包含新材料技術研發；新型金屬功能材料銷售；民用航空材料銷售；電子專用材料製造；電子專用材料銷售等。企查查股權穿透顯示，該公司由立訊精密旗下立訊熱傳科技（惠州）有限公司等共同持股。"
-    },
-    {
-      "id": "4892041",
-      "time": "2026-05-21 14:55:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗伊斯蘭共和國通訊社證實，伊朗革命衛隊總司令艾哈邁德・瓦希迪並未會見巴基斯坦內政部長，並稱阿拉伯電視臺的相關報道不實。"
-    },
-    {
-      "id": "4892040",
-      "time": "2026-05-21 14:54:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "【快手電商：大促啟動當天單日GMV實現破峰 大碼女裝、運動服等增長突出】5月21日，快手電商資料顯示，大促啟動當天單日GMV實現破峰，重新整理去年二季度峰值。重點品類中，大碼女裝GMV同比增長208%，運動服GMV同比增長90%，防曬類GMV同比增長88%。"
-    },
-    {
-      "id": "4892039",
-      "time": "2026-05-21 14:54:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "福克斯新聞援引一名反恐分析師訊息稱，伊朗最高領袖穆傑塔巴・哈梅內伊效仿奧薩馬・本・拉登的行事模式，淡出公眾視野以求自保。"
     }
   ]
 }
