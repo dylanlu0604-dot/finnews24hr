@@ -1,7 +1,42 @@
 {
-  "updated": "2026-05-29 01:08:52",
-  "count": 15185,
+  "updated": "2026-05-29 01:12:44",
+  "count": 15186,
   "items": [
+    {
+      "id": "te:markets:554590",
+      "time": "2026-05-29 01:10:26",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gasoline Drops to 1-Month Low — US gasoline future were at $3.15 per gallon in late May, their lowest in over one month, on expectations of respite in supply following reports that Iran and the US agreed to a truce in their conflict. The reports pointed to a 60-day memorandum that would extend the current ceasefire and pave the way to restore exports of crude oil and refined products through the Strait of Hormuz within a month of the agreement. Energy exports from the key region have been at a standstill since the first week of March, driving global oil inventories to drop at a record pace, per the IEA. Likewise, gasoline stocks in the US sank for the 15th consecutive week in May, as refineries have been operating at full capacity with feedstock from the SPR. Refinery capacity was also lower for motor gasoline as refiners switched to distillates in an attempt to prevent diesel and jet fuel shortages."
+    },
+    {
+      "id": "4905370",
+      "time": "2026-05-29 01:09:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐盟擬提振本土半導體 包括專攻人工智慧晶片及先進3奈米制程晶片】草案檔案顯示，歐盟正推出新版《晶片法案》，再度發力提振陷入低迷的本土半導體產業。該計劃預計到2035年，合計吸納1200 億歐元（合 1400 億美元）公私領域投資。2023年版《晶片法案》未能提升歐盟晶片市場份額，即將落地的2.0版本轉而聚焦務實舉措，拉動本土對歐洲產晶片的需求。草案提及一項重點戰略專案：規劃總投資300億歐元的晶圓廠，專攻人工智慧晶片及先進3奈米制程晶片。專案資金將由歐盟委員會、各成員國及私營企業共同籌措。檔案還指出，歐盟委員會將牽頭對接電信、國防、汽車等行業企業與晶片供應商，定製適配各領域需求的晶片技術。"
+    },
+    {
+      "id": "4905369",
+      "time": "2026-05-29 01:08:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統：伊朗不會以屈辱的方式進行外交。"
+    },
+    {
+      "id": "4905368",
+      "time": "2026-05-29 01:08:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統：以色列是地區動盪的根源。"
+    },
     {
       "id": "4905367",
       "time": "2026-05-29 01:06:25",
@@ -136637,35 +136672,6 @@
         "國際"
       ],
       "text": "歐盟外交與安全政策高階代表卡拉斯：墨西哥與歐盟謀求貿易多元化發展。"
-    },
-    {
-      "id": "4893496",
-      "time": "2026-05-22 01:12:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "【黑龍江：加快推動高質量振興發展、建設現代化強省】記者從21日舉辦的“開局起步‘十五五’黑龍江省專題新聞釋出會”上獲悉，“十五五”時期，黑龍江省將把國家“十五五”規劃綱要細化為黑龍江的施工圖、任務書，加快推動高質量振興發展、建設現代化強省。黑龍江省委副書記、省長梁惠玲表示，黑龍江“十五五”規劃綱要編制過程中，堅持三個“牢牢把握”。一是牢牢把握在國家發展大局中的戰略定位。堅決扛起維護國家“五大安全”重大政治責任，建好建強“三基地一屏障一高地”，在服務國家發展大局中貢獻“龍江”力量、體現“龍江”擔當。二是牢牢把握承前啟後的歷史方位。錨定2035年與全國同步基本實現社會主義現代化目標，搶抓新一輪科技革命和產業變革機遇，加快揚優勢補短板、轉方式調結構、提質量增效益，推動綜合實力邁上新臺階。三是牢牢把握造福人民的根本價值取向。將群眾所思所想所盼轉化為一系列可感可及的民生實事，更好滿足人民美好生活需要。（新華社）"
-    },
-    {
-      "id": "te:markets:552843",
-      "time": "2026-05-22 01:10:45",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Stocks in Canada Hit 4-week High — TSX increased to 34337.00 Index Points, the highest since April 2026. Over the past 4 weeks, Canada Stock Market Index (TSX) gained 1.05%, and in the last 12 months, it increased 32.71%."
-    },
-    {
-      "id": "4893495",
-      "time": "2026-05-22 01:08:56",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國財政部：今日將九名隸屬真主黨的官員列入制裁名單。"
     }
   ]
 }
