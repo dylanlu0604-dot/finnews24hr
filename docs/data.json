@@ -1,7 +1,57 @@
 {
-  "updated": "2026-05-28 22:55:47",
-  "count": 15180,
+  "updated": "2026-05-28 22:59:54",
+  "count": 15177,
   "items": [
+    {
+      "id": "4905184",
+      "time": "2026-05-28 22:58:11",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【機構：儲蓄率下降引發對消費者韌性的擔憂】伊朗戰爭導致的能源價格上漲使4月份個人消費支出價格指數(PCE)保持高位，這表明在收入停滯之際，消費者可能更多地依賴了他們的儲蓄。美國商務部表示，個人儲蓄率為2.6%，觸及自2022年以來未曾見過的水平。與此同時，收入增長較上月放緩。“收入增長放緩加上儲蓄率下降，引發了對未來消費者韌性的擔憂，尤其是低收入家庭，”Raymond James首席經濟學家Eugenio Aleman寫道。"
+    },
+    {
+      "id": "4905183",
+      "time": "2026-05-28 22:58:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【報道：IBM與紅帽宣佈投入50億美元，推出人工智慧驅動的開源安全計劃】據報道，IBM與紅帽公司承諾投入50億美元，打造全新開源軟體模式，助力企業保障軟體供應鏈安全。 兩家企業於週四公佈，該專案命名為Project Lightwell。專案將集結全球兩萬名工程師，並依託先進人工智慧技術，搭建可信企業資訊交換中心。 該中心將充當安全協調樞紐，藉助前沿人工智慧技術，對海量開原始碼開展安全漏洞排查、檢測與修復工作。 相關服務將透過商業訂閱模式對外開放。企業可藉此上報開源框架中的漏洞，並獲取經過驗證、可直接投入生產的補丁程式，無縫對接自身軟體供應鏈。"
+    },
+    {
+      "id": "te:economy:554555",
+      "time": "2026-05-28 22:57:51",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "UK Gilt Yields Fall as Inflation Pressures Ease on US–Iran Deal Hopes — UK 10-year gilt yields reversed early gains to slip back toward 4.8%, their lowest level since April 17, as renewed optimism over a potential US–Iran agreement helped ease inflation concerns and supported fixed-income markets. The rally in UK government bonds extended to a seventh consecutive session, marking the longest winning streak since just before tensions escalated in the Iran conflict in late February. Sentiment has also been underpinned by recent domestic data showing a cooling labor market, softer-than-expected inflation, and signs of slowing economic activity, prompting traders to scale back expectations for a Bank of England rate hike. According to Axios, US and Iranian negotiators have reached a memorandum of understanding aimed at extending a ceasefire by 60 days and initiating talks on Iran’s nuclear program, though final approval from US President Donald Trump is still pending."
+    },
+    {
+      "id": "4905182",
+      "time": "2026-05-28 22:57:18",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美國天然氣期貨在庫存資料公佈後上漲】美國能源情報署報告稱，上週美國天然氣庫存增幅略低於往常，將較五年平均水平的盈餘從前一週的1,490億立方英尺降至1,440億立方英尺。庫存淨注入量為920億立方英尺，使庫存達到24,830億立方英尺，較2021-2025年平均水平高出6.2%。接受媒體調查的分析師此前預計上週庫存將增加960億立方英尺。在該報告發布後，紐約商交所7月交割的天然氣期貨上漲3.3%，報每百萬英熱單位3.197美元。"
+    },
+    {
+      "id": "te:markets:554554",
+      "time": "2026-05-28 22:57:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Oracle Stock Price Hits 19-week High — Oracle shares increased to 200.80 USD, the highest since January 2026. Over the past 4 weeks, Oracle gained 22.35%, and in the last 12 months, it increased 23.04%."
+    },
     {
       "id": "mkt:019e6f14-fcfa-7554-9184-c636ccfa7c34",
       "time": "2026-05-28 22:55:06",
@@ -136577,77 +136627,6 @@
         "市場"
       ],
       "text": "【夜盤期貨收盤】焦煤連續跌2.86%，低硫燃料油連續漲2.15%，棕櫚油連續跌1.98%，焦炭連續跌1.53%，20號膠連續跌1.52%。"
-    },
-    {
-      "id": "4893347",
-      "time": "2026-05-21 22:59:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "【凱投宏觀：歐元區消費者信心疲軟表明經濟可能萎縮】凱投宏觀的Jack Allen-Reynolds在一份報告中表示，歐盟委員會消費者信心指標的小幅上升，並未改變該指標自2月份以來跌至極低水平的整體局面。他說，5月份歐元區這一晴雨表從4月份的負19.0升至負20.6，仍處於全球金融危機和歐元區主權債務危機期間觸底時的水平附近。這表明，有關第二季度消費將出現小幅擴張的預測可能過於樂觀。他說，事實上，自伊朗戰爭爆發以來消費者信心的下降，此外還有商業調查的疲軟，表明該地經濟可能在第二季度萎縮。"
-    },
-    {
-      "id": "mkt:019e4b0c-64e7-7bb7-824c-436c885e18bb",
-      "time": "2026-05-21 22:59:23",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "US ATLANTA FED GDPNOW Q2: 4.3% (PREV 4.0%)"
-    },
-    {
-      "id": "4893346",
-      "time": "2026-05-21 22:59:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【低空配送成本每年下降40%，美團無人機“攻入”多城】近期多家企業在低空物流佈局上有了新進展。 美團在5月21日公開了最新的低空物流解決方案，包括自研的美團第四代無人機長程索降版 M-Drone 4L Winch、美團智慧接駁機場M-Port 3，以及美團無人機雲樞M-DaaS 3等。 美團無人機服務範圍也逐步擴大。2021年初，美團無人機在深圳完成了首個面向真實使用者的訂單配送任務。美團無人機2022年12月在上海市開通了常態化航線。截至2025年底，美團無人機已在深圳、北京、上海、廣州、香港、迪拜等城市開通70條航線，並累計完成訂單超78萬。 低空配送成本一直受到關注。美團副總裁、無人機業務負責人毛一年透露過去五年每年的單均執行成本都在下降，幅度在40%至50%。他對記者表示，從結構看，多方面的成本在最佳化。一是裝置成本的下降。二是單量持續提升，在夜間、雨中等場景開放接單後單量增長，最早一個點位一天僅有10單，目前一個點位一天最多有400單。三是在單量規模提升後，電池、能源以及場地租用成本攤銷進一步下降。四是飛行員效率在提升。（第一財經）"
-    },
-    {
-      "id": "4893345",
-      "time": "2026-05-21 22:58:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "【經濟學家：AI或有助於抵消人口老齡化的影響】決策者和經濟學家已經就AI如何能夠抵消美國經濟中人口老齡化的影響發表了評論。LPL Financial首席經濟學家Jeffrey Roach在一份報告中表示：“AI被視為填補這一缺口的一種方式，它透過提高每個工人的產出，而不是依賴更龐大的勞動力隊伍。它可以使重複性任務自動化，加強決策，並允許更小的團隊產生相同或更大的產出。”他說，這種動態對政府也可能很重要，因為勞動力增長放緩會給稅收帶來壓力，而醫療健康和退休金方面的支出卻在增加。"
-    },
-    {
-      "id": "4893344",
-      "time": "2026-05-21 22:58:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "SpaceX在昨日提交的IPO檔案中表示，該公司估計其潛在市場總額為28.5萬億美元。然而，SpaceX認為其市場的大頭在AI領域，該公司表示，其在AI領域的潛在市場總額為26.5萬億美元。"
-    },
-    {
-      "id": "4893343",
-      "time": "2026-05-21 22:57:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防軍：在加沙中部擊斃一名哈馬斯精銳突擊隊員。"
-    },
-    {
-      "id": "4893342",
-      "time": "2026-05-21 22:56:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防軍：哈馬斯違反停火協議。"
-    },
-    {
-      "id": "4893341",
-      "time": "2026-05-21 22:56:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "深交所：5月25日（星期一）不提供港股通服務，5月26日（星期二）起照常開通港股通服務。"
     }
   ]
 }
