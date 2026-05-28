@@ -1,7 +1,52 @@
 {
-  "updated": "2026-05-28 09:18:18",
-  "count": 14906,
+  "updated": "2026-05-28 09:22:11",
+  "count": 14903,
   "items": [
+    {
+      "id": "4903472",
+      "time": "2026-05-28 09:20:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【美軍稱在東太平洋打擊“販毒船”致2人死亡】美軍南方司令部27日發表宣告說，美軍當天在東太平洋對一艘“販毒船”發動打擊，船上2人身亡。宣告說，根據美軍南方司令部司令弗朗西斯·多諾萬的命令，美軍“南方之矛”聯合特遣部隊27日對一艘由“被認定的恐怖組織”運營的船隻實施打擊，打死船上2名男性。"
+    },
+    {
+      "id": "mkt:019e6c2a-2f4c-788f-b183-f8accef27ae3",
+      "time": "2026-05-28 09:19:24",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【SEMI Predicts Glass Substrates Will Enter Early Production Around 2028】The global semiconductor industry association SEMI said in its latest forecast that, driven by rising demand from artificial intelligence (AI) and high-performance computing (HPC), glass substrates are expected to enter early production around 2028. SEMI said initial production will target specific high-performance applications and only later expand into broader, more complex semiconductor packaging structures. The association projects the glass substrate market to grow at a 67.2% CAGR from 2028 through 2040."
+    },
+    {
+      "id": "4903470",
+      "time": "2026-05-28 09:18:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【機構：預計玻璃基板2028年進入早期生產階段】國際半導體產業協會SEMI最新預測，隨著人工智慧和高效能運算(HPC)需求的增長，玻璃基板的初始生產可能在2028年左右開始。根據該報告，玻璃基板預計將於2028年左右進入早期生產階段，用於特定的高效能應用，之後才會擴充套件到更廣泛、更復雜的半導體封裝結構中。2028年至2040年間，預計玻璃基板市場的複合年增長率(CAGR)將達到67.2%。"
+    },
+    {
+      "id": "mkt:019e6c28-dc37-788f-b183-f358a918fa37",
+      "time": "2026-05-28 09:17:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver fell 1.00% intraday, trading at $73.89/oz."
+    },
+    {
+      "id": "4903469",
+      "time": "2026-05-28 09:17:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【剛果（金）埃博拉疫情疑似病例數破千】剛果（金）衛生部27日釋出的報告顯示，截至26日，該國已累計發現1077例埃博拉疑似病例，疫情仍在東部多省擴散。根據這份報告，剛果（金）的埃博拉確診病例已升至121例，已死亡的疑似病例達到238例。目前，疫情波及東部伊圖裡省、北基伍省和南基伍省的多個地區，伊圖裡省仍是本輪疫情“震中”。"
+    },
     {
       "id": "mkt:019e6c28-8231-788f-b183-ec1b591b97ac",
       "time": "2026-05-28 09:17:34",
@@ -21,6 +66,14 @@
         "市場"
       ],
       "text": "現貨白銀日內跌1%，現報73.81美元/盎司。"
+    },
+    {
+      "id": "4903467",
+      "time": "2026-05-28 09:17:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【晨光生物：預計三季度甜菊糖生產線改造完成後產能提升近一倍】晨光生物(300138)在互動平臺表示，公司現建有年產能2000噸的甜菊糖自動化生產線。為支援甜菊糖業務的快速發展，公司決定對甜菊糖生產線進行擴能改造，預計三季度改造完成後產能提升近一倍。除了正常外部採購外，近年來公司在河北總部周邊發展甜葉菊種植基地，帶動當地農戶增收的同時豐富了甜菊糖業務的原材料來源，以保障優質原料穩定供應。"
     },
     {
       "id": "4903466",
@@ -133764,88 +133817,6 @@
         "市場"
       ],
       "text": "【英偉達CEO黃仁勳：AI 原生雲未來將超越超大規模雲廠商 成長為英偉達增長主力】美東時間週三盤後，英偉達CEO黃仁勳在財報電話會上表示，英偉達資料中心業務的一大核心板塊是為AI 原生（AI-native）雲，這類資料中心客戶傾向採購完整系統、直接運營，無需自行設計搭建，市場規模龐大、增長迅猛。目前，僅有英偉達具備服務這類市場的能力，全棧平臺解決方案是核心優勢。長期來看，這一板塊覆蓋全球50 萬億至80萬億美元經濟規模，未來將成為公司業務增長主力。"
-    },
-    {
-      "id": "4891546",
-      "time": "2026-05-21 09:21:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【流金科技等成立影視傳媒新公司 含多項AI業務】企查查APP顯示，近日，北京鈞承視界影視傳媒有限公司成立，經營範圍包含人工智慧雙創服務平臺；人工智慧公共資料平臺；人工智慧應用軟體開發；電影製片等。企查查股權穿透顯示，該公司由流金科技等共同持股。"
-    },
-    {
-      "id": "em:qqyh_zgyh:202605213744359336",
-      "time": "2026-05-21 09:21:54",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "央行今日開展1000億元7天逆回購操作，操作利率為1.40%，與此前持平。因今日有5億元7天期逆回購到期，實現淨投放995億元。"
-    },
-    {
-      "id": "4891545",
-      "time": "2026-05-21 09:21:44",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "央行公開市場今日淨投放995.0億元人民幣。"
-    },
-    {
-      "id": "4891544",
-      "time": "2026-05-21 09:21:19",
-      "tags": [],
-      "text": "港股恒指高開漲0.71％，國企指數漲0.55％，科指開漲1.04%，半導體、AI應用板塊多股高開。"
-    },
-    {
-      "id": "mkt:019e481f-600a-7aa9-8523-116b11800b66",
-      "time": "2026-05-21 09:21:16",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bullish"
-      ],
-      "text": "HONG KONG STOCKS OPEN HIGHER, HANG SENG +0.71%, TECH INDEX +1.04%"
-    },
-    {
-      "id": "4891543",
-      "time": "2026-05-21 09:21:02",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "央行今日開展1000億元7天逆回購操作，投標量1000億元，中標量1000億元，操作利率為1.40%，與此前持平。"
-    },
-    {
-      "id": "mkt:019e481e-fc09-7aa9-8523-0a7c6833007e",
-      "time": "2026-05-21 09:20:47",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH"
-      ],
-      "text": "CHINA C.BANK INJECTS 100 BLN YUAN VIA 7-DAY REVERSE REPOS AT 1.40% VS PRIOR 1.40% - STATEMENT"
-    },
-    {
-      "id": "4891542",
-      "time": "2026-05-21 09:20:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "小鵬汽車：小鵬GX上市12小時大定24863臺。"
-    },
-    {
-      "id": "4891541",
-      "time": "2026-05-21 09:19:22",
-      "tags": [
-        "公司",
-        "其他"
-      ],
-      "text": "【特斯拉監督版FSD入華】特斯拉官推今早發文公佈了監督版 FSD 的最新佈局，其中提到監督版 FSD 可以在中國使用。"
     }
   ]
 }
