@@ -1,7 +1,97 @@
 {
-  "updated": "2026-05-28 18:30:20",
-  "count": 15186,
+  "updated": "2026-05-28 18:34:05",
+  "count": 15181,
   "items": [
+    {
+      "id": "4904635",
+      "time": "2026-05-28 18:33:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中科曙光：向不特定物件發行可轉債申請獲上交所稽核透過】中科曙光公告稱，上海證券交易所上市稽核委員會於2026年5月28日召開會議，審議透過公司向不特定物件發行可轉換公司債券的申請。該申請符合發行、上市條件和資訊披露要求，但尚需獲中國證監會同意註冊後方可實施，最終能否獲批及時間存在不確定性。公司將及時披露進展，提醒投資者注意風險。"
+    },
+    {
+      "id": "4904634",
+      "time": "2026-05-28 18:33:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【重藥控股：參股子公司獲GR1803產品許可 最高支付6億元】重藥控股公告稱，2026年5月28日，參股子公司藥友製藥與智翔金泰簽訂《許可協議》，獲GR1803產品於中國境內及港澳臺地區臨床開發、商業化的獨佔權利，以及生產工藝研究、生產的排他權利，並作為該產品的上市許可持有人。藥友製藥將支付至多6億元的首付款、上市里程碑及技轉里程碑款項，還需支付銷售里程碑款項和銷售提成。不過，產品註冊、生產、商業化需獲監管機構批准，且上市後銷售情況受多種因素影響，均存在不確定性。"
+    },
+    {
+      "id": "4904633",
+      "time": "2026-05-28 18:32:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國核建：股東中國信達擬減持不超1%股份】中國核建(601611.SH)公告稱，股東中國信達資產管理股份有限公司計劃自2026年6月23日至2026年9月22日，以集中競價方式減持公司股份不超過30,138,342股，佔公司總股本的1%。減持原因為公司經營需要。"
+    },
+    {
+      "id": "te:economy:554458",
+      "time": "2026-05-28 18:31:43",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Italy",
+        "Producer Prices Change",
+        "Importance 1"
+      ],
+      "text": "Italian Producer Prices Rise the Most Since Early 2023 — Italy’s producer prices surged 6.8% year-over-year in April 2026, the steepest increase since February 2023, driven by soaring energy prices linked to the Iran conflict. Domestic prices climbed 8.8%, up from 5.4% in March, while core inflation (excluding energy) accelerated to 2.0% from 1.5%. In foreign markets, prices rose 0.6% (0.9% in the euro area, 0.3% outside it). By sector, domestic prices saw the sharpest gains in coke and refined petroleum products (+79.1%), followed by chemicals and metallurgy (+5.6%). Abroad, coke and refined petroleum products led non-euro area growth (+32.2%), while other manufacturing and transportation equipment posted notable increases in both the euro area (+6.2%) and non-euro area (+11.6%). Month-over-month, producer prices rose 0.3% after a 4.4% surge in March."
+    },
+    {
+      "id": "4904632",
+      "time": "2026-05-28 18:31:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【亞康股份：祥遠至鴻擬協議轉讓434萬股股份】亞康股份公告，祥遠至鴻與富德產險簽署了《股份轉讓協議（一）》，祥遠至鴻將其持有的公司434萬股股份（佔公司總股本的5.00%，佔剔除回購專戶後總股本比例5.04%）轉讓給富德產險，轉讓價款為2.59億元。同時，祥遠至鴻與富德科技簽署了《股份轉讓協議（二）》，轉讓相同的股份數量和比例，轉讓價款相同。轉讓完成後，富德產險和富德科技將成為公司持股5%以上股東。"
+    },
+    {
+      "id": "mkt:019e6e23-93a9-733d-92b4-e4360c69192c",
+      "time": "2026-05-28 18:31:25",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【SAMR and NDRC Issue 2026 Guideline for AI Metrology System And Capability Building】China's State Administration for Market Regulation (SAMR) and National Development and Reform Commission (NDRC) jointly issued the 2026 Guideline on AI Metrology System and Capability Building, outlining a six-part framework covering basic support, general and core technologies, metrology technical standards, the metrology services industry and intelligence-enabled metrology to link lab innovation with industry deployment. The Guideline prioritizes reducing measurement uncertainty and improving AI trustworthiness, targeting algorithmic black boxes and weak decision explainability by directing R&D into internal-state monitoring and representation of AI systems and promoting metrology standards to make AI performance measurable, comparable and traceable."
+    },
+    {
+      "id": "mkt:019e6e23-8afd-733d-92b4-dc2ada1fbcb9",
+      "time": "2026-05-28 18:31:23",
+      "tags": [
+        "MKT News",
+        "MRVL.O",
+        "Impact bullish"
+      ],
+      "text": "MORGAN STANLEY raised its PT for MARVELL (MRVL.O) to $195.00 from $172.00."
+    },
+    {
+      "id": "4904630",
+      "time": "2026-05-28 18:30:28",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【兩部門聯手 系統佈局人工智慧計量能力建設】記者今天瞭解到，市場監管總局、國家發展改革委聯合印發《人工智慧計量體系和能力建設指引（2026版）》，系統佈局人工智慧計量能力建設。《指引》圍繞基礎支撐、通用技術、核心技術、計量技術規範、計量服務產業、智慧賦能計量等六大部分系統佈局，打通實驗室創新與行業應用“最後一公里”。聚焦“測不準”難題，讓人工智慧更可信。針對演算法“黑箱”、決策可解釋性差等痛點，《指引》部署AI系統內部狀態監測與表徵等關鍵技術攻關，推動建立人工智慧可靠、安全、可信計量標準，實現AI技術效能“可測量、可比較、可追溯”。聚焦“度量衡”基準，讓人工智慧更精準。“十五五”規劃綱要提出推進量子計量、原位計量等新型計量校準儀器儀表攻關，《指引》明確提出支援構建國家級計量技術研發應用中心，研製一批具有自主智慧財產權人工智慧計量標準裝置，加快形成覆蓋演算法模型、算力效率、資料質量全鏈條計量能力，為人工智慧產品提供統一“度量衡”。聚焦“全產業”賦能，讓智慧經濟更惠民。《指引》推動計量技術深度融入智慧製造、智慧醫療、智慧交通等14個重點領域，圍繞AI診斷演算法可靠性等關鍵引數開展計量技術研究，助力解決產業數字化轉型中質量評估難題，切實增強人民群眾對人工智慧應用的安全感、獲得感。聚焦“資料荒”難題，讓人工智慧有“糧”可依。“十五五”規劃提出建設高質量資料集、深化資料資源開發利用。《指引》明確提出構建具有最高計量特性資料集、標準參考資料集和測試資料集，建立基礎資源共享機制，打破行業資料壁壘，實現資料安全共享，為人工智慧演算法訓練和評測提供精準“糧草”。下一步，市場監管總局將建設一批人工智慧計量技術研發應用中心，在智慧監管、智慧醫療等重點領域先行先試，形成可複製推廣的“人工智慧+計量”應用場景，加快構建與人工智慧先導產業發展相匹配的計量支撐體系，為我國人工智慧產業高質量發展、培育新質生產力貢獻計量力量。（央視新聞）"
+    },
+    {
+      "id": "4904629",
+      "time": "2026-05-28 18:30:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天域生物：變更豬場合作模式 新租賃費用1000萬元/年】天域生物公告稱，為化解訴訟糾紛，公司控股子公司與沐園晟達成變更豬場合作模式方案，原股權合作終止，轉為租賃合作，租賃費用1000萬元/年，期限7年，每3年調整價格。控股子公司天乾食品為武漢天乾特定金錢給付義務擔責。本次交易涉及武漢天乾減資，減資協議未籤，存在不確定性。新租賃關係自減資完成沐園晟取得豬場所有權生效，效力追溯至2026年1月1日。"
+    },
+    {
+      "id": "4904628",
+      "time": "2026-05-28 18:29:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【創識科技：控股股東、實際控制人解除留置並變更為責令候查】創識科技公告稱，公司控股股東、實際控制人張更生曾於2025年12月22日被立案調查並採取留置措施。近日，相關監察機關已解除對張更生的留置措施，變更為責令候查措施。公司提醒投資者注意投資風險，理性投資。"
+    },
     {
       "id": "4904627",
       "time": "2026-05-28 18:29:49",
@@ -136315,143 +136405,6 @@
         "市場"
       ],
       "text": "【沃格光電：股票交易異常波動 目前經營正常】沃格光電公告稱，公司股票於2026年5月19日-5月21日連續3個交易日內收盤價格漲幅偏離值累計超20%，屬於異常波動。經自查，公司目前生產經營正常，內外部經營環境未發生重大變化。公司在泛半導體領域業務尚處早期，未量產、營收佔比低且相關主體虧損。2025年度及2026年第一季度淨利潤分別為-1.58億元、-0.51億元，同比分別降29.45%、112.07%。提醒投資者注意交易及業績風險。"
-    },
-    {
-      "id": "4892678",
-      "time": "2026-05-21 18:33:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "克里姆林宮認為打擊不會引發燃油短缺風險。"
-    },
-    {
-      "id": "4892677",
-      "time": "2026-05-21 18:33:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "瑞穗將英偉達公司目標股價從275美元上調至300美元。"
-    },
-    {
-      "id": "4892676",
-      "time": "2026-05-21 18:33:08",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "歐洲斯托克600指數逆轉漲幅，下跌0.2%。"
-    },
-    {
-      "id": "4892675",
-      "time": "2026-05-21 18:32:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "【泰山石油：完成回購334.84萬股】泰山石油公告，截至本公告披露日，公司本次回購股份方案已實施完成。公司以集中競價交易方式累計回購公司股份數量為334.84萬股，佔公司總股本的0.70%，回購均價為7.57元/股，成交總金額為2536.37萬元（不含交易費用）。本次用於回購的資金總額已達到回購股份方案中的回購資金總額下限，且不超過回購股份方案中的回購資金總額上限，符合相關法律法規的要求，本次回購股份方案已實施完畢。"
-    },
-    {
-      "id": "4892674",
-      "time": "2026-05-21 18:32:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "【湖北：加快建設武漢具有全國影響力的科技創新中心】據“湖北釋出”，5月21日，湖北省委書記、省人大常委會主任王忠林主持召開加快建設武漢具有全國影響力的科技創新中心工作推進會。王忠林強調，要強化研發創新，切實提升創新輻射引領力。加強基礎研究和應用基礎研究，滾動實施“61020”全鏈條攻關，充分發揮武漢大學、華中科技大學等高校院所和科研平臺支撐作用，建立創新聯盟，推動跨界融合，力爭取得更多原創性突破性基礎研究成果、攻克更多“卡脖子”關鍵核心技術、形成更多國內外“首創首發”標誌性產品。加強國際交流合作，積極引進一流科技服務機構，主動融入全球創新網路。加強區域協同，大力推進省域協同創新和長江中游城市群科技創新共同體建設，不斷增強創新整體效能。"
-    },
-    {
-      "id": "4892673",
-      "time": "2026-05-21 18:32:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "【外資加速佈局中國賽道】2026年APEC貿易部長會議將於5月22日至23日在江蘇蘇州舉辦，本次會議將有21個APEC經濟體和國際組織等代表共約700人參會。完備的產業鏈供應鏈、超大規模市場和創新活力，這些都吸引著眾多外資企業加速佈局中國產業新賽道。商務部資料顯示，今年一季度，我國高技術產業實際使用外資同比增長30.7%，佔全國實際使用外資的41.2%，較去年同期大幅提升12個百分點。其中，研發與設計服務實際使用外資增幅最大，同比增長127.8%。來自挪威的佐敦集團剛剛投資3.3億美元，擴建新的研發中心和生產基地，針對新能源汽車電池開發高效能塗料，這也將成為這家跨國企業在海外最大的研發機構。（央視財經）"
-    },
-    {
-      "id": "4892672",
-      "time": "2026-05-21 18:32:18",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "布倫特原油、美國西德克薩斯中質原油（WTI）期貨轉為上漲，在路透社援引訊息人士報道伊朗最高領袖下令伊朗必須保留近武器級鈾後，兩個合約漲幅均達1%。"
-    },
-    {
-      "id": "4892670",
-      "time": "2026-05-21 18:32:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "【全國首張綜合性司機服務地圖釋出】今天，中國交通運輸協會等機構共同釋出全國首張綜合性司機服務地圖。這張地圖把近年來各地建成的司機驛站、補能設施等資訊首次集納於一張數字地圖，為全國數千萬司機群體提供一站式服務指引。（央視新聞）"
-    },
-    {
-      "id": "4892669",
-      "time": "2026-05-21 18:31:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "【阿富汗多省遭遇強風暴 已致6死11傷】當地時間21日，阿富汗國家災害管理局發言人優素福表示，在過去24小時內，包括坎大哈省、赫拉特省、古爾省和塔哈爾省在內，阿富汗多省遭遇雷擊、強風暴和洪水，已造成6人死亡、11人受傷。"
-    },
-    {
-      "id": "4892668",
-      "time": "2026-05-21 18:31:31",
-      "tags": [
-        "資料",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【策略師：疲軟的歐元區PMI資料或將拖累歐元】Monex Europe策略師Barry van der Laan在一份報告中表示，週四弱於預期的歐元區採購經理人調查可能會削弱對歐洲央行加息的預期，並限制歐元的上漲潛力。市場在很大程度上仍反映了6月份加息的預期，但可能會“很快提出疑問，即在經濟萎縮、供應鏈狀況惡化以及官方調查評論中出現衰退措辭的背景下，歐洲央行實際上能實現多少次加息。”他表示，上述情況應該會限制歐元的任何漲幅，並保持適當的中性偏好，而6月份的會議現在是關鍵時刻。5月份歐元區綜合採購經理人指數(PMI)降至47.5的31個月低點。歐元持平於1.1629美元。"
-    },
-    {
-      "id": "4892667",
-      "time": "2026-05-21 18:31:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4510美元/盎司，日內跌0.75%。"
-    },
-    {
-      "id": "4892666",
-      "time": "2026-05-21 18:31:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4510美元/盎司，日內跌0.57%。"
-    },
-    {
-      "id": "4892665",
-      "time": "2026-05-21 18:30:57",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內漲2%，現報100.23美元/桶。"
-    },
-    {
-      "id": "mkt:019e4a16-631a-799b-b5d5-30a23a1d4bc2",
-      "time": "2026-05-21 18:30:41",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD",
-        "Impact mixed"
-      ],
-      "text": "KREMLIN: UKRAINE WAS DISCUSSED WITH XI, CHINA IS READY TO HELP EFFORTS FOR PEACE KREMLIN ON REPORT RUSSIANS WERE COVERTLY TRAINED BY CHINA: THIS IS FALSE KREMLIN ON NUCLEAR EXERCISES: ANY SUCH DRILLS ARE A SIGNAL KREMLIN: PROGRESS WAS MADE IN CHINA ON MANY KEY DETAILS OF POWER OF SIBERIA 2 PLANS KREMLIN ON POWER OF SIBERIA 2: A NUMBER OF NUANCES NEED TO BE ADDRESSED, WE ARE CONFIDENT OF RESULTS IN THE NEAR FUTURE KREMLIN ON REPORT THAT OIL REFINING WAS AT A STANDSTILL IN CENTRAL RUSSIA DUE TO DRONE ATTACKS: WE DO NOT SEE RISKS TO FUEL SUPPLY"
-    },
-    {
-      "id": "4892664",
-      "time": "2026-05-21 18:30:39",
-      "tags": [
-        "公司",
-        "央行",
-        "國際"
-      ],
-      "text": "【荷蘭國際：美元對美伊和平協議預期表現出抗跌性】荷蘭國際集團的Francesco Pesole在一份報告中表示，美元對任何暗示伊朗戰爭降溫前景的訊息都表現出抗跌性。“隨著總統特朗普聲稱談判已進入最後階段，外匯市場在交易降溫預期時比兩週前謹慎得多。”他說，對美聯儲將加息的預期也使得做空美元變得更加困難。如果達成協議，美元對特朗普言論的有限反應為美元走弱留下了更大空間。不過，他也表示，這也證實了市場耐心正在耗盡，即使沒有新的軍事行動，另一段談判停滯期也可能將DXY美元指數推高至99.50上方。DXY美元指數微升至99.151。"
     }
   ]
 }
