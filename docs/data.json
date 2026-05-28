@@ -1,7 +1,79 @@
 {
-  "updated": "2026-05-28 09:06:39",
-  "count": 14901,
+  "updated": "2026-05-28 09:10:32",
+  "count": 14906,
   "items": [
+    {
+      "id": "mkt:019e6c21-2b77-788f-b183-c08cb83dc489",
+      "time": "2026-05-28 09:09:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iranian Media Says U.S. Tanker Forced To Turn Back After IRGCN Fired In Strait Of Hormuz】Iranian media on the 28th, citing a military source, said a few hours earlier a U.S. oil tanker attempted to transit the Strait of Hormuz with its radar turned off but was forced to stop and turn back after the Islamic Revolutionary Guard Corps Navy (IRGCN) acted swiftly and decisively and fired shots at it."
+    },
+    {
+      "id": "4903450",
+      "time": "2026-05-28 09:09:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗媒體稱一艘試圖穿越霍爾木茲海峽的美國油輪被迫折返】伊朗塔斯尼姆通訊社28日援引一名軍方訊息人士的話稱，幾小時前，一艘美國油輪試圖關閉雷達系統穿越霍爾木茲海峽，但由於伊朗伊斯蘭革命衛隊海軍部隊迅速果斷行動，向其開火射擊，油輪被迫停下並折返。（新華社）"
+    },
+    {
+      "id": "4903449",
+      "time": "2026-05-28 09:09:04",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "美股無人機概念股夜盤直線拉昇，Unusual Machines現漲超11%，Red Cat Holdings漲超7%，Ondas漲超3%。訊息面，據知情人士透露，特朗普政府正在洽談為美國無人機公司提供資金。特朗普政府正與多家無人機企業洽談融資合作，以此推動這類戰略價值日益凸顯的裝備實現本土量產、降低採購成本。五角大樓已將一些公司列入可能獲得資金支援的名單。"
+    },
+    {
+      "id": "4903448",
+      "time": "2026-05-28 09:08:38",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內跌3%，現報18033.00元。"
+    },
+    {
+      "id": "te:markets:554218",
+      "time": "2026-05-28 09:08:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Holds Losses on US-Iran Deadlock — Silver traded near $74 an ounce on Thursday after a sharp decline in the previous session, as ongoing uncertainty surrounding US-Iran peace negotiations kept concerns over inflation and prolonged high interest rates firmly in focus. Key disagreements remain unresolved, including Tehran’s insistence on maintaining control of the Strait of Hormuz and preserving its nuclear program. President Donald Trump also reiterated that the US would not agree to what he called a bad deal and rejected easing sanctions on Iran despite Tehran’s demands for financial relief and an end to attacks. Even if both sides move closer to a deal, elevated energy prices are still expected to fuel inflationary pressures and encourage central banks to keep interest rates higher for longer, rather than proceed with the rate cuts. Silver is currently down about 20% since the conflict began."
+    },
+    {
+      "id": "4903447",
+      "time": "2026-05-28 09:06:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【麥迪科技與柏視醫療簽署戰略合作協議】5月26日，蘇州麥迪斯頓醫療科技股份有限公司（簡稱“麥迪科技”）與廣州柏視醫療科技有限公司（簡稱“柏視醫療”）簽署戰略合作協議。未來，雙方將充分發揮各自核心優勢，推動場景+技術、渠道+產品、資料+算力全方位融合，在聯合研發、產品迭代、市場共享、標準制定、生態共建等多維度深化協作，聯手打造全鏈條智慧醫療解決方案，推動AI精準診療技術規模化落地各級醫療機構。"
+    },
+    {
+      "id": "4903446",
+      "time": "2026-05-28 09:06:10",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【韓國央行維持基準利率不變 政策前景仍存不確定性】韓國央行週四維持基準利率不變，在政策制定者權衡油價上漲帶來的通脹壓力與更廣泛經濟前景的不確定性之際，繼續保持審慎立場。韓國央行將7天回購利率維持在2.5%，延續了自去年7月以來的按兵不動態勢 —— 此前在2024年10月至2025年5月期間，該行曾四次降息。這一決定符合媒體調查的23位經濟學家中22人的預期，其餘1人則預測將加息25個基點。此次會議是行長申鉉松主持的首場政策會議，也是新任理事Kim Jinill首次參與的會議。Kim Jinill曾任美聯儲經濟學家，市場普遍認為其立場比前任Shin Sung Hwan更為鷹派。申行長計劃於週四晚些時候向記者通報情況，預計將詳細闡述政策前景，以及理事會對半導體行業和國內住房市場狀況的評估。"
+    },
+    {
+      "id": "4903445",
+      "time": "2026-05-28 09:06:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天津市人民政府與四家央企分別簽署戰略合作協議】據天津日報，5月27日，天津市人民政府與中國聯合網路通訊集團有限公司、中國行動通訊集團有限公司、中國汽車技術研究中心有限公司、中國檢驗認證（集團）有限公司分別簽署戰略合作協議。其中，天津市與中國聯通將協同佈局新型基礎設施建設與智算基地，重點培育多維度AI行業應用場景，拓展資料流通場景，全面賦能產業數智轉型，深化數字政府建設合作，推動科教醫衛領域數智升級。天津市與中國中檢簽署的戰略合作協議將圍繞產業升級、口岸建設、綠色低碳、城市安全、人才培育等多領域開展，助力天津打造檢驗檢測服務高地。"
+    },
     {
       "id": "4903444",
       "time": "2026-05-28 09:05:29",
@@ -133771,34 +133843,6 @@
         "公司"
       ],
       "text": "【中礦資源集團與秘魯金達礦業簽署秘魯拉赫亞銅礦礦權合作協議】5月20日，中礦資源與秘魯金達礦業有限公司（簡稱“秘魯金達礦業”）在中礦資源總部就秘魯拉赫亞銅礦專案簽署合作協議，標誌著中礦資源經過多年研究摸索，正式開啟了佈局南美洲礦業的第一步。根據協議，秘魯金達礦業承諾將旗下位於秘魯境內的拉赫亞銅礦礦權重新登記至雙方共同設立、中礦資源控股的合資公司名下，併發揮其本地化優勢；中礦資源將提供資金、技術及產業鏈資源支援，共同推動該銅礦資源的開發。專案初期將開展第一期勘查工作，進一步查清礦區範圍內角礫岩筒型銅礦資源情況；在此基礎上編制勘查設計方案，同步推進鑽探工作。"
-    },
-    {
-      "id": "4891522",
-      "time": "2026-05-21 09:10:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "白銀連續主力合約日內漲3%，現報18717.00元。"
-    },
-    {
-      "id": "mkt:019e4812-61df-7aa9-8522-e404e727bb94",
-      "time": "2026-05-21 09:07:04",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Trump Set to Sign AI Cybersecurity Directive as Soon as Thursday】President Donald Trump is expected to sign an executive order as soon as Thursday to strengthen AI cybersecurity, according to people familiar with the matter. The order would expand existing cybersecurity information-sharing programs to include AI companies while avoiding mandatory federal approval of advanced models. Instead, it would promote voluntary government testing of frontier AI systems to identify and address vulnerabilities across US government networks and critical infrastructure. Tech industry leaders have been invited to a White House signing event."
-    },
-    {
-      "id": "4891521",
-      "time": "2026-05-21 09:06:52",
-      "tags": [
-        "市場"
-      ],
-      "text": "臺灣證交所加權股價指數上漲3%至41,225.32點。"
     }
   ]
 }
