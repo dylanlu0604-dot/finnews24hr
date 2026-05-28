@@ -1,7 +1,43 @@
 {
-  "updated": "2026-05-29 03:15:27",
-  "count": 15251,
+  "updated": "2026-05-29 03:19:22",
+  "count": 15253,
   "items": [
+    {
+      "id": "mkt:019e7005-d8b9-7eef-a302-8489713591c4",
+      "time": "2026-05-29 03:18:11",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "【MUSALEM Says He Favored Dropping 'Easing Bias' From Fed Policy Statement】MUSALEM said on Thursday that, like several Federal Reserve policymakers last month, he favored removing the 'easing bias' phrase from the post-meeting statement to preserve scope for rate increases. He said he supported this rate decision but that the 'easing bias' no longer fits the economic outlook and risk balance."
+    },
+    {
+      "id": "4905523",
+      "time": "2026-05-29 03:17:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "在岸人民幣兌美元（CNY）北京時間03:00收報6.7753元，較週三夜盤收盤漲40點。成交量395.49億美元。"
+    },
+    {
+      "id": "mkt:019e7003-2421-7eef-a302-7f277f0d6d6c",
+      "time": "2026-05-29 03:15:14",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "BARKIN (Federal Reserve) said strong corporate earnings reduce incentives for layoffs."
+    },
     {
       "id": "mkt:019e7000-b78a-7eef-a302-71a6740c30d1",
       "time": "2026-05-29 03:12:35",
@@ -137232,14 +137268,6 @@
         "Energy"
       ],
       "text": "SPACEX AIMS TO BUILD 10-GIGAWATT SOLAR FACTORY NEAR AUSTIN"
-    },
-    {
-      "id": "4893586",
-      "time": "2026-05-22 03:17:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "惠譽確認美國銀行評級為“AA-”，展望穩定。"
     }
   ]
 }
