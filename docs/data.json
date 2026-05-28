@@ -1,7 +1,93 @@
 {
-  "updated": "2026-05-28 07:57:08",
-  "count": 14826,
+  "updated": "2026-05-28 08:01:03",
+  "count": 14829,
   "items": [
+    {
+      "id": "te:markets:554204",
+      "time": "2026-05-28 08:00:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "currency",
+        "Importance 1"
+      ],
+      "text": "Japanese Yen Hits 4-week Low — The Japanese Yen touched 159.59 against the USD, the lowest since April 2026. Over the past 4 weeks, US Dollar Japanese Yen lost 0.03%, and in the last 12 months, it increased 10.17%."
+    },
+    {
+      "id": "4903333",
+      "time": "2026-05-28 08:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲1%，現報93.61美元/桶。"
+    },
+    {
+      "id": "4903332",
+      "time": "2026-05-28 07:59:46",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國指控谷歌工程師在Polymarket平臺進行內幕交易。谷歌在一份宣告中表示，公司正配合執法部門調查，並稱利用機密資訊進行投注嚴重違反公司政策。據谷歌發言人透露，當事人斯帕尼烏洛已被停職。"
+    },
+    {
+      "id": "4903331",
+      "time": "2026-05-28 07:58:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本執政黨提案草案：政府應建立新的投資框架，其資金來源獨立於常規政府支出。政府可發行過渡債券為部分支出提供融資，這類債券可不計入政府債務佔GDP比重及基礎財政收支計算。注：此前據日經新聞報道，日本計劃發行過渡債券，為政府重點專案提供資金，相關專案旨在加大對增長領域與經濟安全領域的投資。"
+    },
+    {
+      "id": "4903330",
+      "time": "2026-05-28 07:58:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【制定推廣路線圖 我國加快推進車用再生材料應用】日前，由中國汽車戰略與政策研究中心和中國迴圈經濟協會牽頭制定的《車用再生材料應用推廣路線圖（2026—2030）》編制工作在北京正式啟動。中國汽車戰略與政策研究中心副主任劉斌表示，希望透過這份路線圖，把車用再生材料在汽車行業裡“怎麼用、誰來用、用多少、怎麼推廣”進一步梳理清楚，推動形成統一的共識目標、技術要求和應用路徑，帶動上下游企業協同發力，讓再生材料真正從“點狀嘗試”走向規模化應用。（央視新聞）"
+    },
+    {
+      "id": "mkt:019e6bdf-534a-722a-b523-1a702ade35bf",
+      "time": "2026-05-28 07:57:37",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "Nikkei 225",
+        "Impact mixed"
+      ],
+      "text": "Ruling-party draft proposal: Japan's government may issue transition bonds to finance certain expenditures; those expenditures may be excluded from calculations of government debt-to-GDP and the primary fiscal balance."
+    },
+    {
+      "id": "mkt:019e6bdf-0a03-722a-b523-14888bd603df",
+      "time": "2026-05-28 07:57:19",
+      "tags": [
+        "MKT News",
+        "Nikkei 225",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "Draft from Japan's ruling party proposes the government establish a new investment framework and segregate the funds from regular government expenditures."
+    },
+    {
+      "id": "4903329",
+      "time": "2026-05-28 07:57:11",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【何庭波：外部環境限制給我們設立了很苛刻的約束條件，但也給了我們更純粹的工作動力】人民日報釋出對華為公司董事、半導體業務部總裁何庭波的專訪。何庭波表示，面對各種困難，我們沒有後退，竭盡全力地奮鬥。我們引以為傲的就是笨信念、笨功夫。只要方向是對的，慢一點也沒關係，一直往前走，終歸可以找到橋和路。結果就是依靠對基礎理論研究的堅持和實踐，我們不僅打通了路，而且建了高速公路。我們是一家以工程師為主的公司，工程師的工作就是解決各種問題。外部環境限制給我們設立了很苛刻的約束條件，但也給了我們更純粹的工作動力。大部分時間，團隊都是堅定、安靜，而且是冷靜地工作。因為只有在冷靜、專注、排除干擾的情況下，真誠、開放、深刻地探討問題，才能找到解決問題的路徑。"
+    },
+    {
+      "id": "4903328",
+      "time": "2026-05-28 07:56:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英方軟體中標綠城中國備份系統採購專案】據英方軟體訊息，英方軟體中標綠城中國備份系統採購專案。"
+    },
     {
       "id": "4903327",
       "time": "2026-05-28 07:55:53",
@@ -132968,63 +133054,6 @@
         "國際"
       ],
       "text": "日本日經平均股價上漲1.03%，報60421.47點。"
-    },
-    {
-      "id": "4891430",
-      "time": "2026-05-21 08:00:43",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數（KOSPI）開盤上漲3.8%，至7486.37點。"
-    },
-    {
-      "id": "4891429",
-      "time": "2026-05-21 08:00:17",
-      "tags": [
-        "市場"
-      ],
-      "text": "【日韓股市開盤】日經225指數上午開盤報60374.84點，漲幅0.95％。韓國綜合股價指數（KOSPI）開盤上漲3.8％，至7486.37點。"
-    },
-    {
-      "id": "4891428",
-      "time": "2026-05-21 08:00:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國5月進口20天同比 29.3%，前值 17.7%。韓國5月出口20天同比 64.8%，前值 49.4%。"
-    },
-    {
-      "id": "4891427",
-      "time": "2026-05-21 07:59:57",
-      "tags": [
-        "公司",
-        "國際",
-        "原創"
-      ],
-      "text": "【貝索斯呼籲對美國低收入半數人群免稅，馬斯克贊同】亞馬遜創始人傑夫·貝索斯週三在一次電視採訪中呼籲對美國收入最低的一半人群免徵聯邦所得稅。他隨後在社交平臺X上回應網友的評論稱：“重要的是免除低收入半數群體的全部稅負。讓人們增加收入最直接的辦法，就是從一開始就不徵收這筆錢。底層半數人群繳納的稅款僅佔稅收總額的3%，但對他們自身而言意義重大，應該徹底免除。”馬斯克回應稱：“同意。”"
-    },
-    {
-      "id": "4891426",
-      "time": "2026-05-21 07:57:26",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【受對AI的持續熱情提振，日經指數或將上漲】隨著對不斷增長的AI相關需求的熱情持續，日本股市或將上漲。新加坡交易所日經指數期貨上漲2.1%，報61170點。晶片公司英偉達週三公佈了創紀錄的銷售額和利潤。對美伊潛在和平協議的希望也可能支撐市場。投資者仍關注中東局勢的發展。日經指數週三下跌1.2%，至59804.41點。"
-    },
-    {
-      "id": "te:economy:552453",
-      "time": "2026-05-21 07:57:18",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Machinery Orders",
-        "Importance 2"
-      ],
-      "text": "Japan Machinery Orders Fall the Most in 4 Months — Japan’s core machinery orders, which exclude volatile sectors such as ships and electric power, dropped 9.4% month-over-month in March 2026, reversing sharply from a 13.6% rise in the prior month and worse than market expectations for an 8.1% decline. It was the steepest decline in machinery orders since last November. On an annual basis, core machinery orders rose 5.9%, easing sharply from a 24.7% surge previously, marking the softest growth since last November, when machinery orders fell by 6.4%, though the reading beat forecasts of 4.5%."
     }
   ]
 }
