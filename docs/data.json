@@ -1,7 +1,35 @@
 {
-  "updated": "2026-05-29 05:48:14",
-  "count": 15286,
+  "updated": "2026-05-29 05:52:00",
+  "count": 15289,
   "items": [
+    {
+      "id": "4905603",
+      "time": "2026-05-29 05:50:24",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【美國芝商所下調黃金與白銀期貨合約保證金】美國芝加哥商業交易所集團（CME Group）在週四的一份宣告中表示，在進行了“對市場波動的常規審查以確保充足的抵押品覆蓋率”後，已下調了其黃金和白銀期貨合約的保證金。黃金期貨的非高風險特徵（non-heightened risk profile）保證金將從6%下調至5%。黃金期貨的高風險特徵（HRP）初始保證金將從6.6%降至5.5%。白銀期貨的非高風險特徵（non-HRP）保證金將從11%下調至10%。白銀期貨的高風險特徵（HRP）初始保證金將從12.1%降至11%。鉑金（白金）和鈀金的保證金同樣有所下調。上述調整將於週五收盤後正式生效。"
+    },
+    {
+      "id": "4905602",
+      "time": "2026-05-29 05:48:48",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "美國芝加哥商業交易所集團（CME Group）：下調黃金期貨保證金。"
+    },
+    {
+      "id": "mkt:019e708f-7fc1-7eef-a303-d91839cb6c89",
+      "time": "2026-05-29 05:48:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Secretary of State Rubio said the State Department has designated Brazil's Red Command and First Capital Command as Specially Designated Global Terrorists, effective June 5."
+    },
     {
       "id": "mkt:019e708a-ea11-7eef-a303-d62841eeb0aa",
       "time": "2026-05-29 05:43:32",
