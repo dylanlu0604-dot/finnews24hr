@@ -1,7 +1,119 @@
 {
-  "updated": "2026-05-28 08:42:16",
-  "count": 14872,
+  "updated": "2026-05-28 08:46:07",
+  "count": 14878,
   "items": [
+    {
+      "id": "4903407",
+      "time": "2026-05-28 08:45:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞總檢察長：索賠金額逾20億澳元。"
+    },
+    {
+      "id": "mkt:019e6c0a-d1c1-7993-b622-c47f04a87693",
+      "time": "2026-05-28 08:45:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【C919 Carries Over 5 Million Passenger Trips Since Commercial Service Began】COMAC said the domestically produced C919 has, in the three years since entering commercial service, safely carried over 5 mln passenger trips and now serves 23 cities."
+    },
+    {
+      "id": "4903406",
+      "time": "2026-05-28 08:44:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "澳大利亞總檢察長：此次訴訟針對的是（被告）涉嫌隱瞞資訊，並就3M公司生產的含全氟和多氟烷基物質（PFAS）消防泡沫長期使用對環境造成的影響作出虛假陳述一事。"
+    },
+    {
+      "id": "4903405",
+      "time": "2026-05-28 08:44:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "澳大利亞總檢察長：已對3M公司及3M澳大利亞分公司提起訴訟。"
+    },
+    {
+      "id": "4903404",
+      "time": "2026-05-28 08:44:03",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【貝森特將於美東時間週四下午2點在白宮舉行新聞釋出會】根據白宮官方日程安排，財政部長斯科特·貝森特將於美東時間週四14:00舉行新聞釋出會。特朗普將於10:00參加預錄採訪，以及14:00的“簽署時間”。"
+    },
+    {
+      "id": "mkt:019e6c09-8190-7993-b622-bc4dcf076f6a",
+      "time": "2026-05-28 08:43:35",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "UEDA: We have already seen supply shocks in food and energy; even if each is a price-level shock, the large number of such shocks could raise average inf."
+    },
+    {
+      "id": "4903403",
+      "time": "2026-05-28 08:43:11",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：我們已經看到食品與能源領域出現供給衝擊，儘管每一類衝擊都只是價格水平衝擊，但由於「這類衝擊為數不少」，因此可能推升平均通脹率。"
+    },
+    {
+      "id": "4903402",
+      "time": "2026-05-28 08:43:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "【暑期檔將至點燃影視院線板塊！3股獲機構扎堆評級】5月27日，A股影視院線板塊上漲，截至收盤，百納千成和歡瑞世紀漲停。訊息面上，暑期檔（6月至8月）即將開始。在日前的第二十九屆全國影片推介會上，近30家行業頭部電影企業攜160餘部國內外新片亮相推介會。據證券時報·資料寶統計，A股中屬於影視院線板塊的個股共有19只，5月以來平均下跌0.75%。從機構關注度來看，9隻影視院線股獲機構評級，儒意電影、光線傳媒、華策影視機構評級家數居前，分別為9家、8家、6家。"
+    },
+    {
+      "id": "4903401",
+      "time": "2026-05-28 08:42:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【菲律賓坎拉翁火山發生噴發 灰柱高度達1200米】據菲律賓火山地震研究所訊息，當地時間5月28日6時左右，菲律賓坎拉翁火山發生噴發，灰柱高度達1200米。坎拉翁火山目前仍然維持2級警戒。菲律賓的火山警戒級別分為0到5級，0級為無警戒，5級最高。"
+    },
+    {
+      "id": "4903400",
+      "time": "2026-05-28 08:42:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【C919旅客超500萬人次】記者從中國商飛獲悉：國產大飛機C919正式投入商業運營三年來，安全運送旅客超500萬人次，通航城市達到23個。"
+    },
+    {
+      "id": "te:markets:554208",
+      "time": "2026-05-28 08:42:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Flat Ahead of Key PCE Inflation Data — US stock futures traded little changed on Thursday as investors awaited the latest PCE price index report, the Federal Reserve’s preferred inflation measure, for further clues on how the Middle East conflict is affecting price pressures. Markets are also watching for fresh data on weekly jobless claims, new home sales, and personal income. On the corporate side, investors are preparing for earnings releases from Dell Technologies, Autodesk, Dollar Tree, MongoDB, and Gap, among others. In after-hours trading, Snowflake surged 37.5% after the cloud-data firm announced plans to spend $6 billion on Amazon Web Services over the next five years while also posting better-than-expected first-quarter earnings and revenue. During Wednesday’s regular session, the Dow gained 0.36%, while the S&P 500 and Nasdaq Composite edged up 0.02% and 0.07%, respectively."
+    },
+    {
+      "id": "mkt:019e6c08-39fa-7993-b622-b4025e38f173",
+      "time": "2026-05-28 08:42:16",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Huatai Securities: AI Chain And Energy Continue To Drive Industrial Corporate Profit Upswing】Huatai Securities said in a research note that April industrial enterprise profit growth accelerated to 24.7% from March's 15.8%, driven by improved price indicators that supported profit repair, and that the rebound in inf showed higher elasticity. It warned that mid- and downstream firms outside the AI chain saw marginal profit weakening, signaling intensifying cost-side pressure. April oil price gains continued to lift petroleum processing and chemical product profits, while strong global AI investment demand kept the electronic computer sector leading profit and revenue growth; other mid-/downstream sectors' profit growth remained weak. Both volume and price contributed to the overall profit recovery: revenue growth rose to 5.8% in April from 4.5% in March, and seasonally adjusted profit margin edged up to 5.8% from 5.7% in March. Sector divergence widened: upstream industries' contribution to aggregate profit growth increased by 2.1 ppts from March's 3.8 ppts to 5.9 ppts. Within mid-/downstream, computer and communications contributed 6.8 ppts, non-ferrous smelting 4.7 ppts and chemical products 6.1 ppts; the three together contributed roughly 17.5 ppts. Other industries—especially domestic-demand-oriented downstream manufacturers such as cement products, food & beverages, recreational goods and furniture—continued to show weak profit growth."
+    },
     {
       "id": "4903399",
       "time": "2026-05-28 08:41:10",
@@ -133462,62 +133574,6 @@
         "其他"
       ],
       "text": "【兩市融資餘額較上日增加65.78億元】截至5月20日，上交所融資餘額報14703.02億元，較前一交易日增加50.24億元；深交所融資餘額報14043.31億元，較前一交易日增加15.54億元；兩市合計28746.33億元，較前一交易日增加65.78億元。"
-    },
-    {
-      "id": "4891489",
-      "time": "2026-05-21 08:46:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "智利國有銅礦企業智利國家銅業公司（CODELCO）表示，在完成一項針對2025年銅產量申報可能存在違規問題的內部審計後，該公司已解僱一名高管，並對其他相關人員作出紀律處分。"
-    },
-    {
-      "id": "4891488",
-      "time": "2026-05-21 08:45:17",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "【中信建投：汽車板塊有望迎持續上漲 物理AI（智駕及機器人）板塊已具配置價效比】中信建投證券研報稱，5月1—10日，全國乘用車零售40.7萬輛（同比-21%，環比+36%）；新能源汽車零售22.6萬輛（同比-13%，環比+27%），滲透率達55.5%，假期影響銷量但環比仍呈現修復態勢，高油價推動新能源汽車滲透率維持高位。中信建投認為當前需積極佈局兩類行情：1.新能源乘用車整車出口是強α，一季報後內需疲軟及原材料價格上漲預期有望築底，大量新車上市內需環比改善疊加出口高景氣，高階化及智駕、機器人等新進展支撐估值中樞，整車板塊低估值下有望迎來更具持續性的上漲行情；2.物理AI（智駕及機器人）板塊當前已具備配置價效比，年初至今調整幅度較大，年中附近是特斯拉等相關密集催化時點，包括特斯拉Optimus V3釋出及量產、Robotaxi規模運營、宇樹上市等。此外，風偏及流動性改善有望進一步強化向上行情。"
-    },
-    {
-      "id": "4891487",
-      "time": "2026-05-21 08:45:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "【抵制偽科普！2026網路文明大會打擊整治網路謠言】2026年中國網路文明大會19日-20日在廣西南寧舉行。此次大會設定“網路闢謠分論壇”，中央網信辦違法和不良資訊舉報中心有關負責人介紹了相關工作成效。記者在現場瞭解到，中央網信辦違法和不良資訊舉報中心將抵制偽科普作為謠言治理的重中之重，並開設專門舉報渠道，受理網民資訊舉報。（央視）"
-    },
-    {
-      "id": "4891486",
-      "time": "2026-05-21 08:43:50",
-      "tags": [
-        "公司",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【債券收益率飆升之際 日本央行將就縮減購債的步伐徵詢市場意見】對支出和通脹的擔憂推動收益率飆升至多年高位之際，日本央行本週將就縮減購債規模的步伐徵詢市場參與者意見。日本央行將於週四和週五分別與銀行、證券公司和機構投資者舉行會議。反饋意見將為央行在6月15日至16日的政策會議上審議購債計劃提供參考。相關討論正值全球債券市場普遍遭拋售，中東衝突引發的油價上漲推高了通脹預期。鑑於東京市場的波動往往會波及歐洲債券和美國國債交易，日本國債收益率的急劇攀升尤其令全球市場擔憂。"
-    },
-    {
-      "id": "4891485",
-      "time": "2026-05-21 08:43:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "深交所港股通標的證券名單調入華勤技術，5月21日起生效。"
-    },
-    {
-      "id": "te:markets:552479",
-      "time": "2026-05-21 08:42:55",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "Japanese Stocks Rally on Optimism Over Iran Deal — The Nikkei 225 Index jumped 3% to above 61,600 while the broader Topix Index gained 1.6% to 3,850 on Thursday, recovering losses from earlier in the week and tracking gains on Wall Street overnight amid hopes for an imminent peace deal between the US and Iran. President Donald Trump said the US was in the final stages of negotiations with Iran, fueling hopes that the strategically important Strait of Hormuz could soon reopen. The prospect of resumed shipping traffic triggered a sharp decline in oil prices, easing pressure on Japan’s import-dependent economy. On the domestic front, data showed Japanese exports rose 14.8% in April, surpassing expectations on the back of solid demand from China, the US, ASEAN nations and the European Union. Financial and technology shares spearheaded the rally, with gains from Mitsubishi UFJ (3.6%), Sumitomo Mitsui (4.2%), Mizuho Financial (4.7%), Advantest (4.1%) and Tokyo Electron (5%)."
     }
   ]
 }
