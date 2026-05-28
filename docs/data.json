@@ -1,7 +1,471 @@
 {
-  "updated": "2026-05-29 07:31:51",
-  "count": 15315,
+  "updated": "2026-05-29 07:53:50",
+  "count": 15332,
   "items": [
+    {
+      "id": "mkt:019e7101-ab8d-7ee0-99dd-e3baf0696a50",
+      "time": "2026-05-29 07:53:14",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "Japan's finance minister Katayama said, when asked about FX intervention, that authorities could take decisive action to counter market volatility."
+    },
+    {
+      "id": "4905695",
+      "time": "2026-05-29 07:53:13",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信建投：資本市場改革深化下 券商“科創屬性”價值重估】中信建投證券研報稱，2025年以來科創板“1+6”改革、創業板深化改革相繼落地，兩大板塊錯位發展格局形成，成為A股科創企業融資核心陣地。券商科創屬性主要來自投行保薦承銷、雙創IPO跟投及直投、私募業務，截至2026年5月26日，頭部及特色券商跟投累計浮盈達90.91億元。當前非銀板塊估值處於歷史偏低區間，改革紅利持續釋放疊加科創業務業績兌現，板塊配置價值凸顯，建議關注頭部券商及科創特色鮮明的中型券商。"
+    },
+    {
+      "id": "4905694",
+      "time": "2026-05-29 07:52:58",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信建投家電2026年中期投資策略：白電板塊當前股息率處於歷史高位 配置價值凸顯】中信建投證券家電2026年中期投資策略指出，國補政策帶來的景氣錯期正為白電投資提供“擊球區”，白電板塊當前股息率處於歷史高位，配置價值顯著凸顯。短期行業景氣受國補退坡、高基數效應、海外需求結構分化等因素階段性壓制，但上述擾動均非長期結構性矛盾，伴隨基數回落、龍頭份額持續提升、新興市場韌性顯現，行業景氣有望逐步修復。在充沛現金流、高分紅與回購支撐下，白電龍頭具備穩定股東回報與估值修復空間，是當前市場中兼具防禦性與彈性的優質配置方向。"
+    },
+    {
+      "id": "4905693",
+      "time": "2026-05-29 07:51:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山：不對是否已實施干預置評。"
+    },
+    {
+      "id": "mkt:019e70ff-fa4d-700c-b35c-2807fb775b55",
+      "time": "2026-05-29 07:51:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan retail sales, April: ¥13.217 trillion, down from ¥14.306 trillion in the prior month."
+    },
+    {
+      "id": "4905692",
+      "time": "2026-05-29 07:51:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山皋月在被問及外匯干預問題時表示，我們已表示可在市場波動時採取果斷行動。"
+    },
+    {
+      "id": "mkt:019e70ff-f04e-700c-b35c-276724684e38",
+      "time": "2026-05-29 07:51:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Retail Sales (Apr) | actual 13217000000000T | previous 14306000000000T"
+    },
+    {
+      "id": "em:jjsj_rbsj:202605293753361910",
+      "time": "2026-05-29 07:50:53",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本4月份工業產值同比增長2.3%，預估0.7%。"
+    },
+    {
+      "id": "mkt:019e70ff-8ad5-700c-b35c-1b93cc714381",
+      "time": "2026-05-29 07:50:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan April inventories MoM -0.2% (prior -1.8%)."
+    },
+    {
+      "id": "te:markets:554639",
+      "time": "2026-05-29 07:50:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Set for Steep Monthly Loss — Brent crude futures fell toward $93 per barrel on Friday and remained on track for a sharp monthly loss after reports indicated that the US and Iran had tentatively agreed to extend their ceasefire by 60 days and possibly permit unrestricted shipping through the Strait of Hormuz. The report also stated that Iran would clear all mines from the waterway within 30 days. Still, it noted that President Donald Trump has not yet approved the proposed terms, while Vice President JD Vance cautioned that it remains uncertain whether or when an agreement with Iran could be finalized. The international oil benchmark has dropped nearly 15% so far this month as optimism grew that some form of deal could eventually be reached, though major obstacles remain, including Tehran’s nuclear ambitions, control of the Hormuz passage and sanctions relief."
+    },
+    {
+      "id": "mkt:019e70ff-8977-700c-b35c-12f53de6eef8",
+      "time": "2026-05-29 07:50:42",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Inventory (MoM) (Apr) | actual -0.2% | previous -1.8%"
+    },
+    {
+      "id": "mkt:019e70ff-76a7-700c-b35c-09118156c935",
+      "time": "2026-05-29 07:50:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan April seasonally adjusted retail sales MoM 1.3% vs expected 0.4%; March revised to 1.0% from 1.3%."
+    },
+    {
+      "id": "4905691",
+      "time": "2026-05-29 07:50:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本4月零售銷售同比 2.1%，預期 1.3%，前值 1.7%。日本4月零售銷售環比 1.3%，預期 0.4%，前值 1.3%。"
+    },
+    {
+      "id": "mkt:019e70ff-2827-700c-b35c-05a41b1717ae",
+      "time": "2026-05-29 07:50:26",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Japan April industrial production YoY preliminary 2.3% (exp 0.7%, prev 2.4%)."
+    },
+    {
+      "id": "mkt:019e70ff-1868-700c-b35b-fe39cecf77a9",
+      "time": "2026-05-29 07:50:25",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Retail Sales SA (MoM) (Apr) | actual 1.3% | consensus 0.40% | previous 1.30%"
+    },
+    {
+      "id": "4905690",
+      "time": "2026-05-29 07:50:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本4月工業產出同比初值 2.3%，預期 0.7%，前值 2.4%。日本4月工業產出環比初值 0.8%，預期 -0.6%，前值 -0.4%。"
+    },
+    {
+      "id": "mkt:019e70ff-16a7-700c-b35b-f73888fed54e",
+      "time": "2026-05-29 07:50:19",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Industrial Production Flash (YoY) (Apr) | actual 2.3% | consensus 0.70% | previous 2.40%"
+    },
+    {
+      "id": "mkt:019e70fe-f802-700c-b35b-e8a8f8dca522",
+      "time": "2026-05-29 07:50:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Japan April industrial production preliminary MoM +0.8% vs -0.6% expected; prior -0.4%."
+    },
+    {
+      "id": "mkt:019e70fe-f7c0-700c-b35b-e6cd69318574",
+      "time": "2026-05-29 07:50:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan April retail sales YoY 2.1% vs expected 1.3%; March revised to 1.4% from 1.7%."
+    },
+    {
+      "id": "mkt:019e70fe-dbdd-700c-b35b-dffa3280688c",
+      "time": "2026-05-29 07:50:07",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Industrial Production Flash (MoM) (Apr) | actual 0.8% | consensus -0.60% | previous -0.40%"
+    },
+    {
+      "id": "mkt:019e70fe-caa7-700c-b35b-d6e6ac4b95df",
+      "time": "2026-05-29 07:50:06",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Retail sales (YoY) (Apr) | actual 2.1% | consensus 1.30% | previous 1.70%"
+    },
+    {
+      "id": "te:markets:554638",
+      "time": "2026-05-29 07:49:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Set for Steep Monthly Loss — WTI crude futures fell toward $88 per barrel on Friday and remained on track for a sharp monthly loss after reports indicated that the US and Iran had tentatively agreed to extend their ceasefire by 60 days and possibly permit unrestricted shipping through the Strait of Hormuz. The report also stated that Iran would clear all mines from the waterway within 30 days. Still, it noted that President Donald Trump has not yet approved the proposed terms, while Vice President JD Vance cautioned that it remains uncertain whether or when an agreement with Iran could be finalized. The US oil benchmark has dropped more than 12% so far this month as optimism grew that some form of deal could eventually be reached, though major obstacles remain, including Tehran’s nuclear ambitions, control of the Hormuz passage and sanctions relief."
+    },
+    {
+      "id": "4905689",
+      "time": "2026-05-29 07:47:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "【颱風“薔薇”強度逐漸增強 向臺灣以東洋麵靠近】今年第6號颱風“薔薇”（熱帶風暴級）的中心5月29日早晨5點位於菲律賓馬尼拉偏東方向約1440公里的洋麵上，即北緯14.6度、東經134.4度，中心附近最大風力有8級（20米/秒），中心最低氣壓為995百帕，七級風圈半徑為200至400公里。預計，“薔薇”將以每小時20至25公里的速度向西北方向移動，強度逐漸增強，並向臺灣以東洋麵靠近。"
+    },
+    {
+      "id": "4905688",
+      "time": "2026-05-29 07:46:41",
+      "tags": [
+        "資料",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【東京通脹再度放緩 日本央行加息之路遇阻】東京核心通脹指標意外降至四年新低，讓日本央行決策者陷入兩難，即便計劃最早於下月加息，也難以找到充分依據。日本總務省週五公佈資料，5 月東京地區不含生鮮食品的核心消費者物價指數（CPI）同比上漲 1.3%，該資料已連續六個月回落，且低於媒體經濟學家調查中的絕大多數預期。與此同時，剔除生鮮食品與能源的核心核心 CPI（日本央行重點關注的潛在通脹指標）同比上漲 1.6%。這一指標剔除了補貼政策帶來的干擾，以及去年物價大幅波動造成的基數偏差，能更客觀地反映真實物價走勢。東京整體 CPI 同比上漲 1.4%。東京物價資料被視作日本全國通脹走勢的先行風向標。加工食品價格同比漲幅收窄，加之水費大幅下調，拖累整體消費者物價指數（CPI）走低。受首相高市早苗推出的汽油補貼政策影響，能源價格持續回落。高市早苗計劃很快向國會提交追加預算，以延續該項補貼措施。"
+    },
+    {
+      "id": "4905687",
+      "time": "2026-05-29 07:46:03",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "指標10年期日本國債期貨早盤上漲0.29點。"
+    },
+    {
+      "id": "4905686",
+      "time": "2026-05-29 07:45:35",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經平均指數期貨在早盤交易中上漲1.9%。"
+    },
+    {
+      "id": "4905685",
+      "time": "2026-05-29 07:45:00",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "【日經指數或因美伊和平協議希望而上漲】得益於對美伊和平協議的持續希望，日本股市可能會上漲。美國財政部長斯科特·貝森特週四表示，兩國即將達成平息戰爭的協議。新加坡交易所的日經指數期貨上漲1.9%，至65770點。投資者正關注中東局勢的發展及其對能源價格的影響。日經指數週四下跌0.5%，至64693.12點。"
+    },
+    {
+      "id": "mkt:019e70f9-6923-700c-b35b-cb9bf87eadbe",
+      "time": "2026-05-29 07:44:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold slipped below $4,490/oz, down 0.14% intraday."
+    },
+    {
+      "id": "4905684",
+      "time": "2026-05-29 07:44:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【老年旅客淡季火車票優惠今起實施】在5月29日至6月30日期間，年滿60週歲及以上的旅客，在每週一中午到週五中午時段出行，可以享受動車組列車執行票價九折的優惠，以及普通常旅客會員3倍積分優惠。"
+    },
+    {
+      "id": "4905683",
+      "time": "2026-05-29 07:41:30",
+      "tags": [
+        "宏觀",
+        "資料",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【東京消費者通脹仍低於日本央行目標 中東局勢影響未能改變這一態勢】受中東衝突推高油價影響，日本政府出臺能源補貼政策對沖物價壓力，東京都市圈居民通脹率依舊低於央行設定的2%目標。日本政府週五公佈資料顯示，5月東京核心CPI（不含生鮮食品）同比上漲1.3%。該資料低於4月1.5%的同比漲幅，也低於資訊機構Quick對經濟學家調查得出的1.5%預期值。東京物價資料被視作日本全國物價走勢的先行指標。日本東京地區5月核心-核心CPI同比上升1.6%，創2024年9月以來最低增速。儘管目前各項政策舉措有效抑制了通脹，但日本政策制定者愈發擔憂，油價走高或進一步推升國核心心通脹水平。業內人士表示，長期通脹環境下，日本企業對漲價的接受度提升，或將逐步把上漲的成本轉嫁給消費者。部分經濟學家預測，日本央行將在6月的下次議息會議上，把政策利率從當前的0.75%上調至1.0%。"
+    },
+    {
+      "id": "4905682",
+      "time": "2026-05-29 07:38:48",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【城堡證券：美股陷入“緊張式看漲”，預計行情仍有上行空間】據報道，城堡證券股票及股票衍生品策略主管Scott Rubner表示，儘管美國股市過去兩個月已上漲超過10%，但可能還會繼續走高。Rubner稱，隨著地緣政治情緒改善、市場波動率維持低位，以及大型科技股持續領漲，那些在此前大部分反彈過程中保持謹慎的投資者被迫重新考慮倉位。"
+    },
+    {
+      "id": "4905681",
+      "time": "2026-05-29 07:38:40",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【中證報：銀行持續拓展積存金業務並不意味相關風險消散】延長夜盤交易時間、推出“0費率”階段性優惠、與網際網路機構展開合作……近期，國際金價震盪下跌，市場投資情緒有所降溫。在此背景下，部分銀行開始對積存金業務進行調整，透過降低費率、最佳化服務來提高客戶活躍度。銀行持續拓展積存金業務並不意味著相關風險消散。一些追高入場的投資者遭遇較大幅度虧損。有投資者表示，自己分批購入的積存金已虧損超過10%。工商銀行、興業銀行、招商銀行等多家銀行在釋出積存金業務調整公告時強調，黃金價格可能因突發政策、市場情緒變化或國際事件等因素出現短期劇烈波動，進而導致黃金賬戶持倉市值快速變化。投資者應結合自身財務狀況及風險承受能力，合理控制倉位，提高風險防範意識。"
+    },
+    {
+      "id": "te:economy:554633",
+      "time": "2026-05-29 07:37:30",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Unemployment Rate",
+        "Importance 1"
+      ],
+      "text": "Japan Jobless Rate Unexpectedly Eases — Japan’s unemployment rate fell to 2.5% in April 2026, below both market expectations and March’s 2.7% reading. The figure marked the lowest jobless rate since July 2025, as the number of unemployed decreased by 70 thousand to an eight-month low of 1.79 million. Meantime, employment jumped by 610 thousand to a record high of 68.76 million, while the labor force increased 53 thousand to a record 70.55 million. The number of people outside the labor force declined by 540 thousand to a record low of 39.00 million. On a non-seasonally adjusted basis, the labor force participation rate was up to 64.4% from 63.6% in March and 63.7% a year earlier. Simultaneously, the jobs-to-applicants ratio held steady at 1.18, in line with forecasts."
+    },
+    {
+      "id": "mkt:019e70f1-a1a8-700c-b35b-c169c33ad0c3",
+      "time": "2026-05-29 07:35:44",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "RBNZ Deputy Governor Silk said high-frequency data since the July decision suggest the committee is inclined to deliver rate increases at upcoming meetings."
+    },
+    {
+      "id": "mkt:019e70f1-8211-700c-b35b-bd176bc9e682",
+      "time": "2026-05-29 07:35:33",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "RBNZ Assistant Governor Silk said the bank does not need to wait for quarterly CPI data to act and must be more forward-looking."
+    },
+    {
+      "id": "mkt:019e70f1-52ca-700c-b35b-b5a01738623c",
+      "time": "2026-05-29 07:35:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBNZ Assistant Governor Silk said even if the Middle East conflict ends quickly, some damage has already occurred."
+    },
+    {
+      "id": "4905680",
+      "time": "2026-05-29 07:35:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "頓涅茨克地區遭襲致三人死亡。（新華社）"
+    },
+    {
+      "id": "mkt:019e70f1-38a7-700c-b35b-af16a45d3ff5",
+      "time": "2026-05-29 07:35:17",
+      "tags": [
+        "MKT News",
+        "NZDUSD",
+        "Impact mixed"
+      ],
+      "text": "RBNZ Deputy Governor Silk said the bank does not yet see a need to raise interest rates, but short-term inf pressures are building."
+    },
+    {
+      "id": "4905679",
+      "time": "2026-05-29 07:35:01",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國將把巴西兩大販毒集團列為恐怖組織】美國將把巴西兩大有組織犯罪集團列為恐怖組織，此舉很可能再次點燃美國總統唐納德·特朗普與巴西總統盧拉之間的緊張關係。美國國務卿馬爾科·魯比奧週四宣佈，美國將把該標籤用於“首都第一司令部”(PCC)和“紅色司令部”(CV)。魯比奧在宣告中表示：“特朗普政府將繼續利用一切可用手段來保護我們的國家和國家安全利益，讓非法毒品遠離我們的街道，並切斷資助暴力毒品恐怖分子的收入來源。”PCC是一個洗錢大戶，已經滲透到燃料分銷網路和金融科技公司中；而CV則是里約熱內盧的一個犯罪集團，是巴西警方去年10月史上最致命行動的打擊目標。巴西政府一直認為，貼上恐怖主義標籤可能會適得其反，對該國的金融體系和主權都構成風險。"
+    },
+    {
+      "id": "te:economy:554632",
+      "time": "2026-05-29 07:34:52",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Tokyo Core CPI",
+        "Importance 1"
+      ],
+      "text": "Japan Tokyo Core Inflation Lowest in Over 4 Years — Core consumer prices in Tokyo’s central wards rose 1.3% year-on-year in May 2026, slowing from 1.5% in the previous month and coming in softer than market expectations of 1.5%. The reading marked the slowest pace since March 2022, indicating further moderation in price momentum. Inflation remained below the Bank of Japan’s 2% target for a fourth consecutive month, as fuel subsidies and favorable base effects helped limit the impact of higher raw material costs linked to the Middle East conflict."
+    },
+    {
+      "id": "4905678",
+      "time": "2026-05-29 07:34:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "【AI算力驅動需求爆發 國產光通訊產品出海熱銷】眼下，國產光通訊產品訂單火爆，走俏國際市場，呈現量價齊升的景氣態勢，多家企業出口訂單已排到2028年。A股市場上，今年以來光纖和光模組概念持續升溫，截至5月28日收盤，萬得光模組（CPO）概念指數、萬得光纖概念指數年內漲幅均超過了100%，分別為104.76%、108.48%。（經濟參考報）"
+    },
+    {
+      "id": "em:qqyh_mlc:202605293753247572",
+      "time": "2026-05-29 07:34:13",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美財長會晤美聯儲主席 稱相信沃什將平衡通脹與增長】據報道，美國財長貝森特5月28日表示，他當日與美聯儲主席凱文·沃什共進早餐，並稱“我相信他會做正確的事以平衡通脹與增長”。"
+    },
+    {
+      "id": "4905677",
+      "time": "2026-05-29 07:34:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【多家A股公司佈局固態變壓器賽道】在AI算力和電力需求的催化下，SST（固態變壓器）技術正悄然成為電力裝置領域的新風口。記者注意到，近期，已有多家上市公司宣佈入局SST賽道。SST作為一種中高壓直掛的電力電子裝置，區別於傳統工頻變壓器“鐵芯+繞組”的電磁感應路徑，其利用功率半導體器件，直接在中壓側與直流低壓側之間構建起高頻“電力直通橋”。這一架構省去了笨重的工頻變壓器、多級整流器及濾波裝置，將複雜的變電環節濃縮於方寸之間。今年以來，人工智慧資料中心（AIDC）的持續火爆，將SST這種高度整合化的電力電子解決方案推向了臺前。（證券日報）"
+    },
+    {
+      "id": "mkt:019e70f0-0028-7eef-a305-061560a21f99",
+      "time": "2026-05-29 07:33:46",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "Tokyo (Japan) unadjusted CPI, May month-on-month +0.3% vs +0.6% prior."
+    },
+    {
+      "id": "mkt:019e70ef-fb27-7eef-a304-fdabb7583054",
+      "time": "2026-05-29 07:33:36",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Tokyo CPI (MoM) (May) | actual 0.3% | previous 0.6%"
+    },
+    {
+      "id": "4905676",
+      "time": "2026-05-29 07:31:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "賽富時（Salesforce）宣佈季度現金股息為每股0.44美元。"
+    },
+    {
+      "id": "4905675",
+      "time": "2026-05-29 07:31:38",
+      "tags": [
+        "資料"
+      ],
+      "text": "東京地區5月核心核心CPI漲幅為2024年9月以來最低增速。"
+    },
     {
       "id": "4905674",
       "time": "2026-05-29 07:31:02",
@@ -9,6 +473,15 @@
         "國際"
       ],
       "text": "日本政府公佈資料顯示，經季節調整後，日本4月失業率為2.5%，調查預估值為2.7%。"
+    },
+    {
+      "id": "em:jjsj_rbsj:202605293753233386",
+      "time": "2026-05-29 07:30:56",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本4月失業率為2.5%，預期2.70%，前值2.70%。"
     },
     {
       "id": "4905673",
@@ -29,6 +502,44 @@
       "text": "日本東京地區5月整體消費者物價指數(CPI)較上年同期上升1.4%。"
     },
     {
+      "id": "mkt:019e70ec-e72a-7eef-a304-f6433107e905",
+      "time": "2026-05-29 07:30:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "Impact mixed"
+      ],
+      "text": "Japan April unemployment rate 2.5% vs consensus 2.7%, prior 2.7%."
+    },
+    {
+      "id": "mkt:019e70ec-8a85-7eef-a304-ecd5ca545b25",
+      "time": "2026-05-29 07:30:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan May Tokyo core CPI YoY 1.3% vs 1.5% expected; prior 1.5%."
+    },
+    {
+      "id": "mkt:019e70ec-89e1-7eef-a304-e7285e12cd06",
+      "time": "2026-05-29 07:30:09",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Japan's Tokyo CPI YoY May 1.4% vs 1.6% expected; April 1.5%."
+    },
+    {
       "id": "4905671",
       "time": "2026-05-29 07:30:08",
       "tags": [
@@ -37,12 +548,73 @@
       "text": "紐西蘭儲備銀行助理行長西爾克：根據影響7月決策的高頻資料，偏向於未來幾次會議將會加息。"
     },
     {
+      "id": "mkt:019e70ec-89d5-7eef-a304-dbd55ecabaf9",
+      "time": "2026-05-29 07:30:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan April jobs-to-applicants ratio 1.18; actual 1.18, expected 1.18, prior 1.18."
+    },
+    {
+      "id": "mkt:019e70ec-7403-7eef-a304-d29585689907",
+      "time": "2026-05-29 07:30:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Unemployment rate (Apr) | actual 2.5% | consensus 2.70% | previous 2.70%"
+    },
+    {
+      "id": "mkt:019e70ec-738b-7eef-a304-c8be0b4ea550",
+      "time": "2026-05-29 07:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Tokyo CPI (YoY) (May) | actual 1.4% | consensus 1.60% | previous 1.50%"
+    },
+    {
+      "id": "mkt:019e70ec-733b-7eef-a304-c14438f2eafc",
+      "time": "2026-05-29 07:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Tokyo core CPI (YoY) (May) | actual 1.3% | consensus 1.50% | previous 1.50%"
+    },
+    {
+      "id": "mkt:019e70ec-629a-7eef-a304-bb73800b5ad8",
+      "time": "2026-05-29 07:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Job-to-applicant ratio (Apr) | actual 1.18 | consensus 1.18 | previous 1.18"
+    },
+    {
       "id": "4905670",
       "time": "2026-05-29 07:28:35",
       "tags": [
         "國際"
       ],
       "text": "紐西蘭儲備銀行助理行長西爾克：即使中東衝突很快結束，一些損害也已經造成。"
+    },
+    {
+      "id": "mkt:019e70ea-58bb-7eef-a304-b42e85d494e8",
+      "time": "2026-05-29 07:27:46",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "600585.SS",
+        "Impact bullish",
+        "600801.SS"
+      ],
+      "text": "【Zhongtai Securities: Cement profitability at short-term bottom; strong price-up intent】Zhongtai Securities says China’s cement sector is at a short-term profitability trough as demand is weakened by slower new property starts; sector capacity utilization fell below 50% in 2025. Supply-side players are accelerating capacity replacement to meet production targets and prepare to run at design capacity. The sector posted 2025 net profit of 29.0 bln yuan (vs 26.0 bln yuan in 2024) but prices and margins softened again in 2026 Q1; insufficient demand and weak enforcement of staggered production in core markets such as the Yangtze River Delta and Hubei have kept prices rangebound at low levels. Market leaders are diverging: Anhui Conch’s share rose to 15.65% (from 12.79% in 2021–25), while Huaxin, supported by overseas business, was the only firm to register revenue and pre-impairment net-profit growth in 2025 and 2026 Q1. Outlook: Zhongtai sees current profitability at the bottom and strong industry intent to raise prices, with a likely low-to-high price/profit trend this year; longer term, production curbs and China’s dual‑carbon constraints should accelerate supply clearance and materially improve sector margins as supply and demand rebalance."
     },
     {
       "id": "4905669",
@@ -137543,361 +138115,6 @@
         "其他"
       ],
       "text": "【江西景德鎮釋出暴雨紅色預警 注意防範】江西省景德鎮市氣象臺5月22日6時25分變更暴雨紅色預警訊號：目前樂平市共庫3小時降水量已達102.8毫米，預計未來3小時內，樂平東北部強降水仍將持續，請注意防範強降雨可能引發的城鄉內澇、中小河流洪水、山洪和地質災害等次生災害。"
-    },
-    {
-      "id": "4893752",
-      "time": "2026-05-22 07:53:34",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【華泰證券：688號文推動多使用者綠電直連落地】華泰證券研報稱，近日，國家發展改革委和國家能源局印發《關於有序推動多使用者綠電直連發展有關事項的通知》（以下簡稱“688號文”），繼650號文（《關於有序推動綠電直連發展有關事項的通知》）釋出近一年後進一步明確了多使用者綠電直連的方式，適用範圍從650號文的一對一拓寬至一對多，在適用範圍、投資模式、分配機制等方面賦予更多靈活空間，為零碳園區等多主體使用者場景提供綠電直連政策託底，拉動產業向源網荷儲協同發展。華泰證券認為688號文有望降低綠電直連開發商面臨的客戶風險、加速專案落地，並拉動電網裝置和儲能需求。"
-    },
-    {
-      "id": "4893751",
-      "time": "2026-05-22 07:53:12",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【日經指數或將上漲 受對美伊潛在協議的持續希望提振】得益於對美伊潛在和平協議的持續希望，日本股市可能高開。新加坡交易所的日經指數期貨上漲1.0%，至62,115點。投資者正關注中東局勢的發展及其對能源和債券價格的影響。日經指數週四上漲3.1%，至61,684.14點。"
-    },
-    {
-      "id": "4893750",
-      "time": "2026-05-22 07:52:31",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【日本4月核心通脹降至四年低位】週五公佈的資料顯示，日本4月核心居民消費價格同比上漲1.4%，創下四年新低，主要受政府學費補貼政策影響。不過分析師預計，未來數月通脹將再度回升。國際油價居高不下，加之中東衝突引發供應鏈紊亂，或將推動各類商品普遍漲價。核心消費者物價指數剔除波動較大的生鮮食品價格，本次漲幅低於市場預估中值1.7%，較3月1.8%的同比漲幅有所回落，為2022年3月以來最低水平。另一項剔除生鮮食品與燃油價格的核心核心通脹指標，更能反映需求端物價變動，也是日本央行重點觀測資料，4月同比上漲1.9%，低於3月2.4%的增幅。該資料將成為日本央行下月貨幣政策會議的重要研判依據，市場普遍預計央行會將短期政策利率從0.75%上調至1%。受局勢影響，原油及化工產品價格攀升，4月批發物價通脹創下三年新高。作為消費物價的先行指標，該資料進一步為短期加息提供支撐。"
-    },
-    {
-      "id": "4893749",
-      "time": "2026-05-22 07:51:09",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【金利華電：公司股價短期波動幅度較大，存在較高的炒作風險】金利華電5月22日早間公告，公司股票交易連續3個交易日內日收盤價格漲幅偏離值累計超過30%，屬於股票交易異常波動情形。公司於2026年5月20日披露的《金利華電氣股份有限公司發行股份及支付現金購買資產並募集配套資金暨關聯交易預案》中對本次重組標的公司未經審計的主要財務資料進行了披露，標的公司最近兩年營業收入與淨利潤規模均較小且波動較大。未來，衛星銷售訂單獲取不及預期或交付進度出現延遲、遙感資訊服務業務未得到有效拓展、自持衛星數量增加導致折舊成本上升以及研發投入大幅增長等因素，均可能對標的公司經營業績造成重大不利影響，標的公司未來業績增長存在不確定性、業績波動風險較高。根據中證指數有限公司的最新資料，截至2026年5月20日，公司所屬中上協行業分類“C38電氣機械和器材製造業”對應的市淨率為3.61倍，公司的市淨率為15.75倍，公司目前處於虧損中，公司的市盈率和市淨率與同行業相比均有較大差異。公司股價短期波動幅度較大，已明顯偏離市場走勢，存在較高的炒作風險，嚴重偏離上市公司基本面，未來存在快速下跌的風險。敬請廣大投資者理性決策，審慎投資，注意二級市場交易風險。"
-    },
-    {
-      "id": "4893748",
-      "time": "2026-05-22 07:50:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【A股股票回購一覽：21家公司披露回購進展】Wind資料顯示，5月22日，21家公司共釋出22個股票回購相關進展。其中，1家公司股東提議回購公司股份，3家公司首次披露股票回購預案，5家公司回購方案獲股東大會透過，3家公司披露股票回購實施進展，9家公司回購方案已實施完畢。從股東提議回購方案來看，當日共1家公司股東提議回購金額超千萬。晨光股份股東提議回購金額最高，提議回購不超10.0億元。從首次披露回購預案來看，當日共2家公司股票回購預案金額超千萬。南山鋁業、熱景生物、盛劍科技回購預案金額最高，分別擬回購不超6.0億元、1.0億元、868.09萬元。從股東大會透過回購預案來看，當日共1家公司回購預案超千萬。姚記科技、格爾軟體、拱東醫療回購金額最高，分別擬回購不超5000.0萬元、829.76萬元、752.7萬元。從回購實施進展來看，天壕能源、大博醫療、ST信安回購金額最高，分別回購5411.25萬元、831.28萬元、445.8萬元。從已完成回購來看，當日共8家公司回購金額超千萬。藏格礦業、深天馬A、山金國際已完成回購金額最高，分別回購4.0億元、2.0億元、1.01億元。截至5月22日，今年以來已有452個回購方案已實施完畢，涉及390家公司，其中122家公司已完成回購金額超億元。其中寧德時代、徐工機械、美的集團回購金額居前，分別已完成回購43.86億元、30.71億元、30.27億元。"
-    },
-    {
-      "id": "4893747",
-      "time": "2026-05-22 07:49:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "馬斯克談星艦發射：固定發射塔擺臂的液壓銷未能回縮。如果該故障能在今晚修復，明天美國中部時間5:30將再次嘗試發射。"
-    },
-    {
-      "id": "4893746",
-      "time": "2026-05-22 07:49:40",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【A股限售股解禁一覽：119.6億元市值限售股今日解禁】Wind資料顯示，週五（5月22日），共有15家公司限售股解禁，合計解禁量為1.49億股，按最新收盤價計算，合計解禁市值為119.6億元。從解禁量來看，3家公司解禁股數超千萬股。長青科技、鼎泰高科、矩陣股份解禁量居前，解禁股數分別為5634.64萬股、2642.4萬股、1965.44萬股。從解禁市值來看，3家公司解禁市值超億元。鼎泰高科、長青科技、新易盛解禁市值居前，解禁市值分別為68.4億元、11.24億元、10.69億元。從解禁股數佔總股本比例來看，3家公司解禁比例超10%。長青科技、創達新材、矩陣股份解禁比例居前，解禁比例分別為40.83%、12.22%、10.92%。"
-    },
-    {
-      "id": "4893745",
-      "time": "2026-05-22 07:49:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家林草局公佈野生動植物最新家底 我國珍稀物種數量持續回升】今天（22日）是國際生物多樣性日。記者從國家林草局瞭解到，我國珍稀物種野外種群數量持續回升，全國200多種珍稀瀕危野生動物進入恢復性增長階段，100餘種瀕危野生植物得到搶救性保護，國家重點保護陸生野生動物和野生植物種數保護率達到80%以上。"
-    },
-    {
-      "id": "4893744",
-      "time": "2026-05-22 07:48:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "【A股定增一覽：6家公司披露定增進展】Wind資料顯示，5月22日，A股共6家公司釋出定增相關公告。其中5家定增預案獲股東大會透過，1家定增方案停止實施。今年以來，已有72家公司公告定增方案已完成，23家公司定增金額超10億元。具體來看，中國神華、中國能建、北汽藍谷定增募資金額最高，募資總額分別為200.0億元、65.0億元、60.0億元。"
-    },
-    {
-      "id": "4893743",
-      "time": "2026-05-22 07:48:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【A股分紅派息轉增一覽：40股今日股權登記】Wind資料顯示，根據上市公司權益分配方案梳理統計，40只A股今日股權登記。其中，33股擬派息，2股擬轉增，5股派息、轉增或送股同時實施。分紅派息方面，33只個股分紅派息的股權登記日為5月22日。東阿阿膠、敷爾佳、先惠技術分紅力度最大，每10股分別派息14.35元、8.00元、7.00元。轉增股本方面，2只個股轉增股本的股權登記日為5月22日。華豐股份、安博通轉增股數最多，每10股分別轉增4股、4股。5股派息、轉增或送股同時實施，股權登記日為5月22日。銳捷網路、新澳股份、榮旗科技分紅力度最大，每10股分別派息5.25元、3.50元、3.50元。"
-    },
-    {
-      "id": "4893742",
-      "time": "2026-05-22 07:46:46",
-      "tags": [
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "【中信建投：地緣影響供給疊加需求高增 氦、溴面臨短缺】中信建投研報表示，地緣政治風險難抑半導體需求高增趨勢SEMI表示，儘管受中東危機、貿易不確定性及原材料短缺影響，半導體需求高增勢頭仍將持續。受AI資料中心推動，今年全球半導體銷售額預計達1萬億美元，2035年將翻倍至2萬億美元。地緣政治風險今年難抑行業繁榮，但原材料短缺可能影響長期前景，各國正解決關鍵礦物及溴、氦等關鍵氣體的短缺問題，其中氦氣因中東局勢3月價格大幅上漲，溴也面臨短缺風險。"
-    },
-    {
-      "id": "4893741",
-      "time": "2026-05-22 07:46:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿根廷總統米萊宣佈，該國將把小麥出口稅從目前的7.5%下調至5.5%。"
-    },
-    {
-      "id": "4893740",
-      "time": "2026-05-22 07:46:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國鋁業：擬投資建設120萬噸氧化鋁專案】中國鋁業公告，公司全資子公司中國鋁業香港有限公司擬在幾內亞投資建設120萬噸氧化鋁專案。專案公司負責建設年產能120萬噸氧化鋁的生產設施、港口設施及其他相關配套設施，總投資額預計約10億美元。同時，礦業公司逐步實施為氧化鋁專案供礦並對出口礦規模進行適當提升的活動。專案後續進展如有需披露的重大事項，公司將及時履行資訊披露義務。"
-    },
-    {
-      "id": "4893739",
-      "time": "2026-05-22 07:45:51",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "指標10年期日本國債期貨早盤持平。"
-    },
-    {
-      "id": "4893738",
-      "time": "2026-05-22 07:45:47",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本日經平均指數期貨早盤上漲1%。"
-    },
-    {
-      "id": "4893737",
-      "time": "2026-05-22 07:45:38",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【得克薩斯州就加密隱私問題起訴Meta和WhatsApp】美國得克薩斯州總檢察長辦公室週四起訴了WhatsApp及其母公司Meta Platforms Inc，指控其就WhatsApp加密措施的強度和範圍誤導消費者，Meta的一位發言人對此予以否認。提交至哈里森縣法院的訴訟稱，儘管WhatsApp和Meta能夠訪問該即時通訊應用上“幾乎所有”的私人通訊內容，卻仍向使用者虛假保證WhatsApp訊息已加密。“WhatsApp將其服務宣傳為安全且加密的，但並未兌現這些承諾，”得克薩斯州總檢察長肯·帕克斯頓在一份宣告中表示。Meta發言人安迪·斯通在社交媒體上表示，訴訟中的指控不實，WhatsApp無法訪問使用者的加密通訊內容。該訴訟要求法院下令禁止Meta和WhatsApp在未經使用者同意的情況下訪問得州使用者的WhatsApp訊息，並尋求經濟處罰。"
-    },
-    {
-      "id": "4893736",
-      "time": "2026-05-22 07:44:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國鋁業：中鋁香港等與幾內亞政府訂立礦業協議修訂與重述版】中國鋁業：中鋁香港、礦業公司、港口公司與幾內亞政府訂立附帶生效條款的礦業協議修訂與重述版。內容有關（其中包括）設立專案公司以建設運營幾內亞氧化鋁專案，並涉及幾內亞方獲得向專案公司額外參股選擇權之交易。"
-    },
-    {
-      "id": "4893735",
-      "time": "2026-05-22 07:44:14",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【日本核心通脹超預期放緩 高市政府採取措施緩解生活成本壓力】日本4月份核心消費物價漲幅超預期放緩，高市政府採取措施緩解生活成本壓力，抵消了日元疲軟和能源價格高企的影響。日本政府週五公佈的資料顯示，4月剔除生鮮食品的核心消費者價格同比上漲1.4%，低於接受媒體調查的所有經濟學家的預期。"
-    },
-    {
-      "id": "4893734",
-      "time": "2026-05-22 07:43:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX：星艦發射將於週五再次嘗試。"
-    },
-    {
-      "id": "te:economy:552878",
-      "time": "2026-05-22 07:42:32",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Core Inflation Rate",
-        "Importance 2"
-      ],
-      "text": "Japan Core Inflation Rate Lowest since 2022 — Japan’s core consumer price index, which excludes fresh food but includes energy, rose 1.4% year-on-year in April 2026, easing from 1.8% in the previous month and coming in softer than market forecasts of 1.7%. The latest reading marked the lowest level since March 2022."
-    },
-    {
-      "id": "4893733",
-      "time": "2026-05-22 07:41:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX：取消今日飛行測試。"
-    },
-    {
-      "id": "te:economy:552877",
-      "time": "2026-05-22 07:41:57",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Food Inflation",
-        "Importance 1"
-      ],
-      "text": "Japan Food Prices Rise the Least in 18 Months — Food prices in Japan increased 3.5% year-on-year in April 2026, following a 3.6% gain in the prior month and marking the mildest pace since October 2024."
-    },
-    {
-      "id": "4893732",
-      "time": "2026-05-22 07:41:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX在排除故障後推遲了星艦V3的發射。"
-    },
-    {
-      "id": "4893731",
-      "time": "2026-05-22 07:40:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美眾議院委員會透過夏令時永久化法案】當地時間5月21日，美國總統特朗普在社交平臺發文稱，美國眾議院能源與商業委員會當天以48票贊成、1票反對的投票結果，透過包含《陽光保護法案》（Sunshine Protection Act）在內的相關法案，該法案旨在永久實施夏令時。特朗普表示，每年頻繁調整時鐘讓個人、城市與州政府花費“數億美元”，尤其是高塔時鐘需要動用重型裝置進行調整，成本十分高昂。他說，眾議院計劃將《陽光保護法案》附加至“公路法案”（Highway Bill）中推進立法，並稱自己將“非常努力”推動該法案最終簽署成為法律。（央視）"
-    },
-    {
-      "id": "te:economy:552876",
-      "time": "2026-05-22 07:38:58",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Inflation Rate",
-        "Importance 3"
-      ],
-      "text": "Japan Inflation Rate Eases — Japan’s annual inflation edged down to 1.4% in April 2026 from 1.5% in the previous month. Core inflation also slowed to 1.4% from 1.8% in March, remaining below the central bank’s 2% target for a third consecutive month. On a monthly basis, consumer prices rose 0.1%, slowing from a 0.4% increase in March."
-    },
-    {
-      "id": "4893730",
-      "time": "2026-05-22 07:37:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "【剛果（金）埃博拉疫情持續擴散 戰亂與人口流動加大防控難度】當地時間5月21日，聯合國人道主義事務協調廳表示，剛果（金）埃博拉疫情持續擴散，人道主義形勢進一步惡化。截至5月19日，剛果（金）累計報告埃博拉確診病例51例、死亡病例4例，另有575例疑似病例、148例疑似相關死亡病例。疫情集中於東北部伊圖裡省，18日單日新增確診20例，目前疫情已蔓延至北基伍省、南基伍省等周邊區域，跨區域傳播風險顯著上升。受病例確診滯後影響，感染者流動範圍廣，進一步加劇了全國擴散隱患。"
-    },
-    {
-      "id": "4893729",
-      "time": "2026-05-22 07:37:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "中國鋁業股份有限公司：將就幾內亞氧化鋁專案投資及建設等事宜提交相關議案。"
-    },
-    {
-      "id": "4893728",
-      "time": "2026-05-22 07:36:57",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【中國生物製藥：M701「CD3/EpCAM雙特異性抗體」於2026 ASCO公佈兩項臨床資料】中國生物製藥公告，集團附屬公司正大天晴藥業集團股份有限公司聯合開發的國家1類創新藥M701「CD3/EpCAM雙特異性抗體」於2026年美國臨床腫瘤學會(ASCO)大會上公佈兩項臨床資料：針對惡性腹水(MA)的III期註冊臨床研究、針對非小細胞肺癌(NSCLC)相關惡性胸水(MPE)的II期臨床研究。"
-    },
-    {
-      "id": "4893727",
-      "time": "2026-05-22 07:36:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "【聯想集團：第四財季收入216億美元創歷史新高】5月22日早間，聯想集團在港交所公告，2025/26年財政年度，集團全年收入同比增長20%，創831億美元新高。剔除一次性重組費用、認股權證的非現金公允值收益、可換股債券的名義利息及其他非現金專案的影響後，經調整權益持有人應占溢利同比增長42%至20億美元。於第四財季，收入達到216億美元的歷史新高，同比增長27%，創下過去五年來最高增速。人工智慧相關收入同比增長84%，佔集團總收入的38%。"
-    },
-    {
-      "id": "4893726",
-      "time": "2026-05-22 07:36:00",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國能源部發布緊急命令，允許塔倫能源公司運營瓦格納發電廠4號機組。"
-    },
-    {
-      "id": "4893725",
-      "time": "2026-05-22 07:35:35",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【市場情緒好壞參半之際金價小幅走低】在市場情緒好壞參半之際，金價在亞洲早盤交易中小幅走低。現貨黃金下跌0.1%，報每盎司4,537.45美元。InTouch Capital Markets的分析師團隊在評論中表示：“風險情緒時好時壞。“該團隊指出，據伊朗媒體報道，美國最新的14點框架已經“縮小了分歧“，而且美國國務卿盧比奧告訴《金融時報》，出現了一些“好跡象“。然而，該團隊補充道：“隨著伊朗最高領袖釋出指令：接近武器級的鈾不得運往國外，樂觀情緒迅速瓦解。“"
-    },
-    {
-      "id": "4893724",
-      "time": "2026-05-22 07:34:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "聯想集團第四季度淨利潤5.21億美元，預估3.195億美元。"
-    },
-    {
-      "id": "4893723",
-      "time": "2026-05-22 07:34:37",
-      "tags": [
-        "資料",
-        "國際"
-      ],
-      "text": "日本4月核心CPI漲幅為2022年3月以來最低。日本4月核心-核心CPI漲幅為2022年9月以來最低。"
-    },
-    {
-      "id": "4893722",
-      "time": "2026-05-22 07:34:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "【雲頂新耀：主要股東康橋資本增持60.05萬股公司股份】5月22日早間，雲頂新耀在港交所公告，獲非執行董事、董事會榮譽主席兼公司主要股東傅唯告知，自2026年5月20日至2026年5月21日期間，康橋資本（作為公司主要股東）於市場購入60.05萬股公司普通股，總代價約為1920萬港元，平均價格約為每股股份31.91港元。自2025年12月以來，康橋資本及董事已於市場購入超過306.20萬股股份，總代價超過1.138億港元。"
-    },
-    {
-      "id": "4893721",
-      "time": "2026-05-22 07:33:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "聯想集團全年每股末期股息0.337港元。"
-    },
-    {
-      "id": "4893720",
-      "time": "2026-05-22 07:33:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "聯想集團全年營收830.7億美元，預估805.2億美元。聯想集團全年營收830.7億美元，預估805.2億美元。"
-    },
-    {
-      "id": "te:markets:552875",
-      "time": "2026-05-22 07:33:20",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Set for Weekly Decline — Brent crude futures climbed above $104 per barrel on Friday after reports indicated that Iran’s Supreme Leader ordered the country’s enriched uranium reserves to remain inside Iran, complicating ongoing peace negotiations as dismantling Tehran’s nuclear program remains a central US demand. Iran is also reportedly working with Oman on a framework for a permanent toll system that would formalize its control over maritime traffic through the Strait of Hormuz. However, President Donald Trump rejected the proposal, insisting the waterway should remain open, free, and without toll charges. Despite Friday’s gains, Brent futures were still down more than 4% for the week amid optimism that the conflicting parties could eventually reach an agreement. US Secretary of State Marco Rubio said there were “some encouraging signs” surrounding a possible deal with Iran, adding that Pakistani mediators are expected to visit Tehran as Iranian officials review Washington’s latest proposal."
-    },
-    {
-      "id": "4893719",
-      "time": "2026-05-22 07:33:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "【訊息人士：美國可能暫停在“庇護城市”機場的移民和海關處理工作】訊息人士向路透透露，國土安全部部長穆林（Markwayne Mullin）私下警告稱，當局可能會停止在那些拒絕配合特朗普政府移民嚴打行動的“庇護城市”內主要美國機場對國際旅客和貨物的通關處理。穆林曾在4月因國土安全部撥款爭議公開發出過這一威脅，上週他私下向旅遊業高管透露，該部門可能會選擇停止在 丹佛、費城、芝加哥、洛杉磯、紐約、紐瓦克、西雅圖和舊金山等城市的機場對國際旅客進行海關和移民檢查 。有媒體此前曾報道了穆林對旅遊業高管的言論，並援引訊息人士 稱，此舉很可能在7月美國舉辦的國際足聯世界盃結束後 實施 。美國國土安全部拒絕置評。"
-    },
-    {
-      "id": "te:markets:552874",
-      "time": "2026-05-22 07:32:21",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Oil Set for Weekly Decline — WTI crude futures climbed toward $98 per barrel on Friday after reports indicated that Iran’s Supreme Leader ordered the country’s enriched uranium reserves to remain inside Iran, complicating ongoing peace negotiations as dismantling Tehran’s nuclear program remains a central US demand. Iran is also reportedly working with Oman on a framework for a permanent toll system that would formalize its control over maritime traffic through the Strait of Hormuz. However, President Donald Trump rejected the proposal, insisting the waterway should remain open, free, and without toll charges. Despite Friday’s gains, WTI futures were still down more than 3% for the week amid optimism that the conflicting parties could eventually reach an agreement. US Secretary of State Marco Rubio said there were “some encouraging signs” surrounding a possible deal with Iran, adding that Pakistani mediators are expected to visit Tehran as Iranian officials review Washington’s latest proposal."
-    },
-    {
-      "id": "mkt:019e4ce1-ccbf-7aa1-9582-002fce4ade70",
-      "time": "2026-05-22 07:32:06",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | CPI (MoM) (Apr) | actual 0.3% | previous 0.4%"
     }
   ]
 }
