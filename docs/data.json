@@ -1,7 +1,32 @@
 {
-  "updated": "2026-05-29 05:32:48",
-  "count": 15282,
+  "updated": "2026-05-29 05:36:39",
+  "count": 15284,
   "items": [
+    {
+      "id": "mkt:019e7084-3692-7eef-a303-ca49796e3d46",
+      "time": "2026-05-29 05:36:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China foreign minister meets Pakistan deputy prime minister and foreign minister Dar in New York】China foreign minister met Pakistan’s deputy prime minister and foreign minister Dar in New York on the 28th. Beijing described bilateral ties as comprehensive and all‑weather and said the two countries remain mutually trusting and supportive at bilateral, regional and international levels. China said it will follow leaders’ consensus to maintain high‑level contact, deepen political mutual trust, expand practical cooperation, strengthen Pakistan’s capacity for autonomous development and accelerate building a closer China‑Pakistan community of shared future."
+    },
+    {
+      "id": "4905599",
+      "time": "2026-05-29 05:35:59",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【王毅會見巴基斯坦副總理兼外長達爾】當地時間28日，中共中央政治局委員、外交部長王毅在紐約會見巴基斯坦副總理兼外長達爾。王毅表示，夏巴茲總理成功訪華，兩國領導人達成新的重要共識，將中巴命運共同體建設推上新水平。巴方積極參加此次安理會高階別會議和“全球治理之友小組”會議，同各方發出重振聯合國權威和核心地位、改革完善全球治理的共同聲音。巴方作為安理會非常任理事國，承擔起維護國際和平與安全的責任，中方對此表示讚賞。（新華社）"
+    },
+    {
+      "id": "4905598",
+      "time": "2026-05-29 05:32:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【亞馬遜員工刷AI資料致算力成本激增 公司關閉使用量排行榜】亞馬遜近日關閉了一項內部AI使用量排行榜。此前員工為衝排名、刻意刷高AI呼叫量，導致公司算力成本激增。 據兩位知情人士透露，這家市值2.9萬億美元的科技巨頭本週通知員工，其內部服務“Kirorank”已下線。該工具原本用於給開發者平臺Kiro的使用者打分，分數完全基於其AI活動量。 下線原因是：部分員工為衝榜，濫用AI智慧體（可代使用者執行任務的自動程式），讓其執行大量無意義操作。亞馬遜高階副總裁戴夫・特雷韋爾本週對內稱，該排行榜初衷“良好”，但結果適得其反——員工瘋狂“刷token”、刻意誇大token消耗量，導致亞馬遜額外支出鉅額算力成本。 他告誡員工：“不要為了用AI而用AI。”"
+    },
     {
       "id": "4905597",
       "time": "2026-05-29 05:31:08",
@@ -137568,14 +137593,6 @@
         "國際"
       ],
       "text": "據伊朗伊斯蘭共和國通訊社：巴基斯坦從中斡旋，伊朗與美國仍在互通訊息。"
-    },
-    {
-      "id": "4893650",
-      "time": "2026-05-22 05:34:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "訊息人士稱：美國國土安全部長穆林向航空業高管警示，特朗普政府或暫停部分庇護城市機場的國際旅客出入境辦理業務。"
     }
   ]
 }
