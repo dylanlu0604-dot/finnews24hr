@@ -1,7 +1,76 @@
 {
-  "updated": "2026-05-28 12:12:19",
-  "count": 15124,
+  "updated": "2026-05-28 12:16:11",
+  "count": 15127,
   "items": [
+    {
+      "id": "4903844",
+      "time": "2026-05-28 12:14:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "深交所理事長沙雁在“深交所2026全球投資者大會”表示，將深入落實“十五五”規劃要求，持續深化資本市場投融資綜合改革，更好適配新興產業和未來產業的發展需要，更好服務科技創新和新質生產力發展。（新浪財經）"
+    },
+    {
+      "id": "4903843",
+      "time": "2026-05-28 12:14:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "深交所理事長沙雁在“深交所2026全球投資者大會”表示，“深化創業板改革意見”特別注重投資者權益保護，加強全過程、各環節、各參與主體的監管力度。目前，深交所已受理改革落地後的首批優質創新企業IPO申請，爭取儘快形成一批典型案例，確保創業板改革取得紮紮實實的成效。（新浪財經）"
+    },
+    {
+      "id": "mkt:019e6cc9-e86a-722b-8ac9-1f7b0c11de39",
+      "time": "2026-05-28 12:13:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "JAPAN'S NIKKEI INDEX fell back below 64,000 points, down 1.60% intraday; South Korea's KOSPI index broke below 7,900 points, down 4.02% intraday."
+    },
+    {
+      "id": "mkt:019e6cc9-b25a-722b-8ac9-104ea0cbd5b2",
+      "time": "2026-05-28 12:13:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Israel Defense Forces said soldiers, acting on intelligence from the Israeli Security Agency (Shin Bet), conducted three targeted counterterrorism operations in the Judea and Samaria area over the past two days and arrested five terrorists."
+    },
+    {
+      "id": "4903842",
+      "time": "2026-05-28 12:13:37",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數下跌4%，至7897.60。"
+    },
+    {
+      "id": "4903841",
+      "time": "2026-05-28 12:13:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "凱易國際律師事務所（Kirkland & Ellis）計劃斥資5億美元自研人工智慧技術。"
+    },
+    {
+      "id": "4903840",
+      "time": "2026-05-28 12:12:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "肯亞首都調頻電臺：納庫魯一所寄宿學校發生火災，造成至少10名學生死亡。"
+    },
+    {
+      "id": "4903839",
+      "time": "2026-05-28 12:11:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【週六福被罰】近日，深圳市市場監督管理局公佈一則行政處罰書，處罰資訊顯示，週六福珠寶股份有限公司因生產經營抽檢不合格的足銀手鐲被深圳市市場監督管理局羅湖監管局罰款739.75元、沒收違法所得231.17元。"
+    },
     {
       "id": "4903838",
       "time": "2026-05-28 12:11:25",
@@ -135829,50 +135898,6 @@
         "國際"
       ],
       "text": "【全球股市上漲，科技股迎來六週以來最佳漲勢】全球股市連續第二日走高，投資者重新湧入人工智慧相關交易，加之一批即將登場的新股上市，持續提振市場對科技板塊的投資熱情。 MSCI全球所有國家指數上漲0.5%，亞洲股市大漲2.7%。其中作為人工智慧產業建設上游受益標的，區域內科技股創下六週最大漲幅。韓國綜合股指一度衝高7.8%，創下四月初以來最大單日漲幅。英偉達執行長黃仁勳稱實體人工智慧與機器人領域或將迎來更大發展，受此言論帶動，首爾市場上LG電子、現代摩比斯股價均大漲超10%；三星電子順利化解罷工風波，股價大漲近8%。即便英偉達財報業績超出市場預期，盤後交易中其股價仍下跌1.3%，未能搭上本輪市場上漲行情。科技領域股權融資訊息也持續吸引市場目光。有訊息稱OpenAI籌備遞交上市申請，軟銀集團東京股價應聲暴漲20%，太空探索技術公司SpaceX同樣啟動上市申報流程。"
-    },
-    {
-      "id": "4891810",
-      "time": "2026-05-21 12:15:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "【東誠藥業：雲克藥業釔90核素已開展定製化生產】東誠藥業(002675)5月21日在互動平臺表示，雲克藥業的釔90核素已開展定製化生產，目前整體收入相對較小。"
-    },
-    {
-      "id": "4891809",
-      "time": "2026-05-21 12:14:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【宜通世紀等成立科技公司 含多項AI業務】企查查APP顯示，近日，廣東智律星法智科技有限公司成立，法定代表人為劉錦旭，經營範圍包含人工智慧基礎軟體開發；人工智慧應用軟體開發；資料處理和儲存支援服務；網際網路資料服務等。企查查股權穿透顯示，該公司由宜通世紀全資子公司廣東宜通聯雲智慧資訊有限公司、惠州市曉文科技有限公司等共同持股。"
-    },
-    {
-      "id": "4891808",
-      "time": "2026-05-21 12:14:34",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【受人工智慧及伊朗和談的最新樂觀情緒提振 日本日經指數大漲】週四日本日經指數大漲超3.7%，站上62000點，創下兩週最大漲幅，科技股再度受到市場追捧，疊加伊朗局勢地緣緊張局勢有所緩和，帶動股指上行。若當前漲勢延續，該指數將創下5月7日以來最大單日漲幅。"
-    },
-    {
-      "id": "te:markets:552549",
-      "time": "2026-05-21 12:14:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Copper Strengthens as Risk Appetite Returns — Copper futures traded around $6.28 per pound on Thursday after rising 2% in the previous session, supported by improving global risk appetite amid renewed optimism over a potential peace agreement between the US and Iran. President Trump said the US was in the final stages of negotiations with Iran, fueling hopes that the Strait of Hormuz could soon reopen. The prospect of restored shipping flows triggered a sharp decline in oil prices, helping ease inflationary pressures and reducing concerns about further interest rate hikes. Copper prices also drew support from a rally in artificial intelligence-related technology stocks, which strengthened expectations for demand tied to data infrastructure development. In corporate news, Codelco is targeting roughly $2 billion in cost reductions and additional revenue through the integration of operations across three copper mines, as the company seeks to counter the effects of stagnant production and rising debt levels."
-    },
-    {
-      "id": "4891807",
-      "time": "2026-05-21 12:12:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "【菲律賓參議院將於7月6日正式審理副總統莎拉彈劾案】記者5月21日獲悉，菲律賓多名參議員稱，對副總統莎拉·杜特爾特的彈劾案審理將於7月6日正式開始。在7月27日之前，該彈劾案審理將於每週一到週三進行。7月27日總統發表國情諮文報告之後，彈劾案審理將改為每週二到週四進行。"
     }
   ]
 }
