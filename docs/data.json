@@ -1,7 +1,129 @@
 {
-  "updated": "2026-05-28 22:18:58",
+  "updated": "2026-05-28 22:22:57",
   "count": 15177,
   "items": [
+    {
+      "id": "mkt:019e6ef6-9a20-7cc0-9db0-2b1699932e6f",
+      "time": "2026-05-28 22:21:55",
+      "tags": [
+        "MKT News",
+        "Copper",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Baltic Dry Index Rises To About Two-And-A-Half-Year High】The Baltic Dry Index (BDI) rose 102 points, or 3.3%, to 3,226 on Thursday, its highest level since December 2023, driven by freight gains across all vessel segments. The Capesize index (BCI) climbed 245 points, or 4.7%, to 5,517 — also a December 2023 high — lifting Capesize average daily earnings by $2,224 to $46,538. The Panamax index (BPI) gained 39 points, or 1.7%, to 2,331, with Panamax daily earnings up $349 to $20,978; the Supramax index (BSI) rose 7 points (0.5%) to 1,569 and the Handysize index (BHSI) added 3 points to 847."
+    },
+    {
+      "id": "4905133",
+      "time": "2026-05-28 22:21:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【香港已修復堆填區中規模最大太陽能發電設施啟用】香港將軍澳新界東南堆填區太陽能發電場28日正式啟用。這是香港已修復的堆填區中規模最大的太陽能發電設施，也是香港首個加入上網電價計劃的堆填區太陽能發電場。（新華社）"
+    },
+    {
+      "id": "4905132",
+      "time": "2026-05-28 22:21:22",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國股市轉漲；標普500指數上漲0.3%，納斯達克指數上漲0.4%，道瓊斯指數上漲0.1%。"
+    },
+    {
+      "id": "mkt:019e6ef5-9eec-7cc0-9db0-27b51837930f",
+      "time": "2026-05-28 22:20:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Eurozone bond yields fell sharply; German 10-year government bond yield dropped 4 bps to 2.9469%."
+    },
+    {
+      "id": "4905131",
+      "time": "2026-05-28 22:20:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "拉脫維亞議會批准成立新政府。"
+    },
+    {
+      "id": "mkt:019e6ef4-f7ad-7cc0-9db0-1bcf6cb0ca2f",
+      "time": "2026-05-28 22:20:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "US EIA weekly natural gas inventories for the week ended May 22 due in ten minutes."
+    },
+    {
+      "id": "4905130",
+      "time": "2026-05-28 22:19:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "在美伊達成協議的相關訊息公佈後，歐元兌美元漲幅進一步擴大，歐元目前上漲0.21%，報1.1648美元。"
+    },
+    {
+      "id": "4905129",
+      "time": "2026-05-28 22:19:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "美伊達成協議的訊息公佈後，美元指數下跌，最新下跌0.258%，報99.036。"
+    },
+    {
+      "id": "4905128",
+      "time": "2026-05-28 22:19:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "受美伊達成協議的報道影響，美元兌日元<JPY=>下跌，最新下跌0.15%，報159.26日元。"
+    },
+    {
+      "id": "4905127",
+      "time": "2026-05-28 22:19:20",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4470美元/盎司，日內漲0.36%。"
+    },
+    {
+      "id": "4905126",
+      "time": "2026-05-28 22:18:54",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4500美元/盎司，日內漲0.42%。"
+    },
+    {
+      "id": "4905125",
+      "time": "2026-05-28 22:18:49",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金轉漲，最新上漲0.2%，報每盎司4464.09美元。"
+    },
+    {
+      "id": "mkt:019e6ef3-4b95-7cc0-9db0-1259f8b911b4",
+      "time": "2026-05-28 22:18:09",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "U.S. Treasuries extended gains; 10-year yield fell 5 bps to 4.43%."
+    },
     {
       "id": "mkt:019e6ef2-e22b-7cc0-9db0-0a73dbd3dbbd",
       "time": "2026-05-28 22:17:49",
@@ -136391,119 +136513,6 @@
         "MKT News"
       ],
       "text": "CORRECTED-U.S. SENATE MAJORITY LEADER THUNE SAYS SENATE REPUBLICANS TO MEET WITH ACTING ATTORNEY GENERAL BLANCHE FOR EXPLANATION OF HOW TRUMP IRS SETTLEMENT FUND WOULD WORK (REMOVES QUOTATION MARKS)"
-    },
-    {
-      "id": "4893264",
-      "time": "2026-05-21 22:22:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "通用電氣航空斬獲英國波音防務三年期合同。"
-    },
-    {
-      "id": "4893263",
-      "time": "2026-05-21 22:22:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "莫德納 mRNA 流感疫苗將迎來 FDA 罕見專家諮詢聽證會。"
-    },
-    {
-      "id": "4893262",
-      "time": "2026-05-21 22:22:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "Spotify聯合執行長：2021年至2025年，全球單訂閱使用者流媒體收聽時長增長了10%。"
-    },
-    {
-      "id": "4893261",
-      "time": "2026-05-21 22:21:56",
-      "tags": [
-        "市場"
-      ],
-      "text": "土耳其主要股指下跌 2.5%，跌至 4 月 9 日以來最低點。"
-    },
-    {
-      "id": "4893260",
-      "time": "2026-05-21 22:21:52",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數和納斯達克100指數擴大跌幅。"
-    },
-    {
-      "id": "4893259",
-      "time": "2026-05-21 22:21:30",
-      "tags": [
-        "市場"
-      ],
-      "text": "納斯達克100指數跌至盤中低點，跌0.8%。"
-    },
-    {
-      "id": "4893258",
-      "time": "2026-05-21 22:20:55",
-      "tags": [
-        "市場"
-      ],
-      "text": "英偉達股價跌幅擴大至2%，此前一度上漲1.5%。"
-    },
-    {
-      "id": "4893257",
-      "time": "2026-05-21 22:20:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【專業人士：香港為內地企業出海提供關鍵支撐】“我們的業務涉及海外40餘個國家，始終選擇香港，作為(企業)出海最有力的平臺支撐。”金風國際控股(香港)有限公司(以下簡稱“金風國際”)副總經理隋曉雯21日在北京表示。 香港特區政府投資推廣署投資推廣總監王晴在這場分享會中介紹，去年啟動“內地企業出海專班”以來，特區政府整合各界資源、打造“走出去”方案。 王晴說，理想汽車以香港為戰略據點，統籌研發、智慧財產權管理及國際供應鏈的全球化佈局，泡泡瑪特藉助香港國際智慧財產權交易中心等優勢加速國際化，“香港正成為越來越多內地企業走向全球的關鍵支點”。（中新網）"
-    },
-    {
-      "id": "4893256",
-      "time": "2026-05-21 22:20:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【為何執著紐北刷圈？小米胡崢楠：紐北是高效能車試煉場，要被國際使用者認可、同行尊重，紐北必須要做】在YU7 GT小米人車家全生態新品釋出會後，小米集團董事長、CEO雷軍，小米集團副總裁、汽車部CTO胡崢楠，小米汽車部副總裁宋鋼，小米汽車首席測試車手任周燦與媒體對話。被問及為何小米汽車要執著於紐北刷圈，小米集團副總裁、汽車部CTO胡崢楠表示，去紐北不是為了證明什麼，是方法而不是目標。剛開始提出去紐北，工程團隊是反對的，因為內部沒有經驗，求穩為主。後來還是堅定的去做，雷總給了很多鼓勵，說成績不重要。（新浪科技）"
-    },
-    {
-      "id": "mkt:019e4ae8-c30b-7bb7-824b-da2ce25ba20a",
-      "time": "2026-05-21 22:20:28",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bearish",
-        "Nasdaq100"
-      ],
-      "text": "NVIDIA DOWN OVER 2%"
-    },
-    {
-      "id": "4893255",
-      "time": "2026-05-21 22:20:16",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "迪爾公司高管：我們在美國的關稅敞口基本保持不變；扣除2.72億美元的退稅款後，預計2026年關稅敞口約為9億美元。"
-    },
-    {
-      "id": "4893254",
-      "time": "2026-05-21 22:19:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "恐懼與貪婪指數報60/100。"
-    },
-    {
-      "id": "4893253",
-      "time": "2026-05-21 22:19:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "【MLC NAND快閃記憶體一年漲價三倍】在三星、鎧俠、美光等國際大廠集體退出MLC（Multi-Level Cell，多層單元）NAND快閃記憶體市場的背景下，這一曾經不起眼的“老兵”，產品價格近期暴漲300%。由此造成的供應缺口，正對汽車電子、工業控制、醫療裝置等產業造成潛在影響。NAND行業的發展規律是透過縱向堆疊來進行擴容，MLC正如其名，一般採用二維平面堆疊方式，也就是2D NAND。目前行業主流已經迭代到TLC（Triple-Level Cell，三層單元）和QLC（Quad-Level Cell，四層單元）階段，也就是進入3D NAND維度。因此不難發現，上游儲存供應商決定將MLC逐漸停產，有基於產品自身迭代的因素考量，也有將更多產能留給更高利潤空間的考慮。隨著海外大廠陸續停產，也為國內產業鏈廠商帶來一定發展機會。（21財經）"
     }
   ]
 }
