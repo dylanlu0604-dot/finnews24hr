@@ -1,7 +1,50 @@
 {
-  "updated": "2026-05-28 08:18:47",
-  "count": 14837,
+  "updated": "2026-05-28 08:22:44",
+  "count": 14838,
   "items": [
+    {
+      "id": "4903359",
+      "time": "2026-05-28 08:20:05",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期日本國債收益率上漲3個基點，至2.720%。"
+    },
+    {
+      "id": "mkt:019e6bf4-9153-7993-b622-0846007951be",
+      "time": "2026-05-28 08:19:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225"
+      ],
+      "text": "Japan 10-year govt bond yield rose 3 bps to 2.720%."
+    },
+    {
+      "id": "mkt:019e6bf4-4300-7993-b622-0472257b21f3",
+      "time": "2026-05-28 08:19:52",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Fed Vice Chair JEFFERSON: I want to emphasize that energy shocks are very harmful to people's daily lives."
+    },
+    {
+      "id": "4903358",
+      "time": "2026-05-28 08:19:05",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲副主席傑斐遜稱關注能源價格飆升帶來的通脹風險】美聯儲副主席菲利普·傑斐遜表示，隨著關稅和能源成本上漲的影響逐漸消退，預計今年晚些時候通脹將會降溫；但他警告稱，通脹風險仍然偏向上行。傑斐遜計劃週四上午在東京由日本央行主辦的會議上發表講話。他在講話稿中表示，他正在密切關注伊朗戰爭導致的能源成本上漲是否會抑制消費者支出。他還警告說，他持續看到勞動力市場疲軟的跡象。傑斐遜重申了他的觀點，即美聯儲目前的政策立場能夠很好地應對任何事態發展。“我相信，這一政策立場使我們能夠根據根據最新資料、不斷變化的經濟前景和風險平衡，很好地應對經濟動態。”傑斐遜說，“我沒有預先判斷下次會議，期待與同事們探討實現我們雙重使命目標所需的政策。”"
+    },
     {
       "id": "mkt:019e6bf1-37c6-7993-b621-fb455f0d4196",
       "time": "2026-05-28 08:17:10",
@@ -81,6 +124,15 @@
         "國際"
       ],
       "text": "歐洲央行萊恩表示：即便伊朗戰事能達成某種解決方案，這場衝突已持續瞭如此之久，投資者可能會重新調整最優多元化配置策略的資產佈局。"
+    },
+    {
+      "id": "em:qqyh_ozyh:202605283751965438",
+      "time": "2026-05-28 08:14:44",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "歐洲央行首席經濟學家連恩稱，即使最初的能源衝擊開始逆轉，第二輪衝擊仍將持續一段時間。"
     },
     {
       "id": "4903352",
@@ -133149,44 +133201,6 @@
         "國際"
       ],
       "text": "韓國交易所啟動SIDECAR機制，暫停KOSPI程式化交易5分鐘。"
-    },
-    {
-      "id": "4891466",
-      "time": "2026-05-21 08:22:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "【海博思創與SMA簽署全球戰略合作協議 深化全球儲能合作】據海博思創訊息，近日，海博思創與全球知名的光伏與儲能解決方案企業SMA Solar Technology AG正式簽署全球戰略合作協議。根據協議，雙方將在既有良好合作基礎上，在全球市場進一步推進大型儲能專案合作。"
-    },
-    {
-      "id": "4891465",
-      "time": "2026-05-21 08:21:39",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【韓國Kospi指數走高 三星與工會達成初步協議後股價大漲】韓國股市基準指數Kospi一度上漲4.8%，三星電子與工會達成初步協議，避免了罷工。三星、SK海力士對該指數的貢獻最大。三星一度上漲7%。工會證實暫停原定於5月21日至6月7日舉行的罷工計劃。“從減少不確定性的角度來看，勞資雙方達成的初步協議是個利好，”Eugene Asset Management的投資總監Ha SeokKeun表示，“投資者的關注點可能會重新轉向三星的基本面。由於對潛在罷工的擔憂，三星相對於SK海力士的估值被嚴重低估，我們預計三星股價將強勁反彈”。韓國小型股Kosdaq指數一度上漲4.2%。"
-    },
-    {
-      "id": "4891464",
-      "time": "2026-05-21 08:19:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本財務省官員表示，日本4月原油進口量同比降幅為1980年以來最大。"
-    },
-    {
-      "id": "te:economy:552470",
-      "time": "2026-05-21 08:19:16",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Imports YoY",
-        "Importance 1"
-      ],
-      "text": "Japan Imports Rise the Least in 3 Months — Japan's imports rose 9.7% year-on-year to JPY 10,205.4 billion in April 2026, easing slightly from a 10.9% increase in the previous month but still surpassing market expectations of 8.3%. Domestic demand remained resilient, partly supported by the Japanese government’s sizeable stimulus measures introduced in late 2025. The latest reading marked the third consecutive month of import growth, although it was the softest pace in the current streak."
     }
   ]
 }
