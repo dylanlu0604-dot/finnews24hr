@@ -1,7 +1,60 @@
 {
-  "updated": "2026-05-29 02:43:34",
-  "count": 15244,
+  "updated": "2026-05-29 02:47:38",
+  "count": 15249,
   "items": [
+    {
+      "id": "4905506",
+      "time": "2026-05-29 02:45:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：俄羅斯油輪 “環球號” 載有 24.2 萬桶柴油，原定駛往古巴，目前已調轉航向，疑似改駛南美。"
+    },
+    {
+      "id": "mkt:019e6fe7-1765-7eef-a302-405387525c11",
+      "time": "2026-05-29 02:44:35",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Asked whether he had asked Fed chair WARSH at breakfast to cut rates, US Treasury Secretary BESSENT declined to answer, saying only that he has never asked Powell to do so."
+    },
+    {
+      "id": "4905505",
+      "time": "2026-05-29 02:44:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：特朗普總統始終傾向於達成和平協議。因此我們目前採取的所有行動均為防禦性質。但倘若總統認為無法促成和平協議，那麼軍事行動將會重啟。"
+    },
+    {
+      "id": "4905504",
+      "time": "2026-05-29 02:44:03",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美國財長貝森特：在與前美聯儲主席鮑威爾的41次早餐中，從未要求鮑威爾降低利率。相信新主席沃什會採取正確措施，以平衡通脹與增長。"
+    },
+    {
+      "id": "mkt:019e6fe6-342c-7eef-a302-3c40649d2b44",
+      "time": "2026-05-29 02:43:38",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "BESSENT said he never asked POWELL to lower interest rates during 41 breakfasts with him."
+    },
+    {
+      "id": "4905503",
+      "time": "2026-05-29 02:43:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "【黎巴嫩衛生部：以色列襲擊已造成3324人死亡】黎巴嫩衛生部28日通報，自3月2日以色列襲擊黎巴嫩以來，衝突已經導致3324人喪生，10027人受傷。（央視新聞）"
+    },
     {
       "id": "mkt:019e6fe5-79f6-7eef-a302-36a913c96b2a",
       "time": "2026-05-29 02:42:50",
@@ -137169,18 +137222,6 @@
         "國際"
       ],
       "text": "市場訊息：近期伊朗相關衝突中，美軍發射的先進攔截導彈數量遠超以色列。美國共發射了200多枚“末段高空區域防禦系統”（THAAD）攔截彈，約佔五角大樓總庫存的一半；此外，還從東地中海的海軍艦艇發射了100多枚“標準導彈-3”（SM-3）和“標準導彈-6”（SM-6）攔截彈。"
-    },
-    {
-      "id": "mkt:019e4bdb-20c7-7aa1-9580-f84ea9b3f4e8",
-      "time": "2026-05-22 02:45:12",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bearish"
-      ],
-      "text": "BRENT CRUDE FUTURES SETTLE AT $102.58/BBL, DOWN $2.44, 2.32 PCT"
     }
   ]
 }
