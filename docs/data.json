@@ -1,7 +1,133 @@
 {
-  "updated": "2026-05-29 01:12:44",
-  "count": 15186,
+  "updated": "2026-05-29 01:16:38",
+  "count": 15194,
   "items": [
+    {
+      "id": "4905380",
+      "time": "2026-05-29 01:15:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "雷克薩斯LF-ZC概念轎車的量產版本開發工作將暫停。"
+    },
+    {
+      "id": "4905379",
+      "time": "2026-05-29 01:15:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "加拿大APOTEX HEALTH公司遞交 IPO 申請。"
+    },
+    {
+      "id": "4905378",
+      "time": "2026-05-29 01:15:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【閃迪CTO：AI競賽正變成“拼記憶體” HBF成套產品明年推出】閃迪（Sandisk）技術長表示，AI大模型、KV快取和專家混合模型等技術趨勢，正使全球AI競賽日益“以記憶體為中心”，客戶搶籤長期採購協議的力度前所未見。與此同時，閃迪披露其新型AI記憶體HBF（堆疊式快閃記憶體）將在年底送樣，配備控制器的完整產品預計於明年正式推出。"
+    },
+    {
+      "id": "4905377",
+      "time": "2026-05-29 01:14:22",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲穆薩萊姆：美聯儲政策當前處於長期中性利率水平或該水平之下。美聯儲是否有必要加息、降息或維持利率不變，將取決於經濟走勢。"
+    },
+    {
+      "id": "mkt:019e6f94-7ce3-733b-b43f-96689e69ebc2",
+      "time": "2026-05-29 01:14:21",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "MUSALEM (Federal Reserve): Fed policy appears at or below its long-run neutral level."
+    },
+    {
+      "id": "mkt:019e6f94-2a6e-733b-b43f-8b8a8ef0fd9c",
+      "time": "2026-05-29 01:14:01",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "MUSALEM of the Fed said in April he believed the policy statement's dovish tilt was no longer consistent."
+    },
+    {
+      "id": "4905376",
+      "time": "2026-05-29 01:14:00",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲穆薩萊姆：認為放寬風險管控已與當前風險形勢不符。"
+    },
+    {
+      "id": "4905375",
+      "time": "2026-05-29 01:13:46",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲穆薩萊姆：美聯儲的政策似乎處於或低於長期中性水平。"
+    },
+    {
+      "id": "mkt:019e6f93-d7ec-7eef-a301-1a084f48e75b",
+      "time": "2026-05-29 01:13:40",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed official MUSALEM said whether to raise, cut or maintain policy rates will depend on how the economy evolves."
+    },
+    {
+      "id": "4905374",
+      "time": "2026-05-29 01:13:37",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲穆薩萊姆：認為寬鬆傾向與風險不再相符。"
+    },
+    {
+      "id": "4905373",
+      "time": "2026-05-29 01:12:59",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲Musalem：FOMC貨幣政策似乎處於、或略微低於長期中性利率。"
+    },
+    {
+      "id": "4905372",
+      "time": "2026-05-29 01:12:53",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲官員穆薩萊姆：在四月份就認為，政策宣告中的寬鬆傾向已不再適用。"
+    },
+    {
+      "id": "4905371",
+      "time": "2026-05-29 01:12:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "截至目前，多家媒體記者現已證實AXIOS率先曝出的美伊協議訊息，並均提到同一前提：該協議尚待特朗普總統最終批准。"
+    },
     {
       "id": "te:markets:554590",
       "time": "2026-05-29 01:10:26",
@@ -136624,54 +136750,6 @@
         "國際"
       ],
       "text": "太平洋投資管理公司（PIMCO）的CIO Daniel Ivascyn：鑑於美債收益率飆漲，美聯儲將針對美國通脹問題採取行動。"
-    },
-    {
-      "id": "4893499",
-      "time": "2026-05-22 01:16:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟外交與安全政策高階代表卡拉斯：墨西哥與歐盟力求消除供應鏈各類風險。"
-    },
-    {
-      "id": "4893498",
-      "time": "2026-05-22 01:16:00",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "週四（5月21日），美聯儲隔夜逆回購協議（RRP）使用規模為32.81億美元（交易對手9家），上個交易日報248.67億美元。"
-    },
-    {
-      "id": "mkt:019e4b89-4a6b-7aa1-957f-ec948286f1b9",
-      "time": "2026-05-22 01:15:49",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "NEW YORK FED ACCEPTS $3.281 BLN OF $3.281 BLN SUBMITTED TO REVERSE REPO FACILITY ON MAY 21"
-    },
-    {
-      "id": "mkt:019e4b88-88a9-7aa1-957f-e0c7aace157f",
-      "time": "2026-05-22 01:14:59",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "US-IRAN DRAFT AGREEMENT REACHED VIA PAKISTAN MEDIATION, EXPECTED TO BE ANNOUNCED IN NEXT FEW HOURS - IRNA"
-    },
-    {
-      "id": "4893497",
-      "time": "2026-05-22 01:14:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟外交與安全政策高階代表卡拉斯：墨西哥與歐盟謀求貿易多元化發展。"
     }
   ]
 }
