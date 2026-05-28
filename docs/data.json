@@ -1,7 +1,26 @@
 {
-  "updated": "2026-05-29 06:45:31",
-  "count": 15296,
+  "updated": "2026-05-29 06:49:23",
+  "count": 15295,
   "items": [
+    {
+      "id": "4905630",
+      "time": "2026-05-29 06:48:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "信達生物：與輝瑞達成全球戰略合作，合作專案涵蓋 12 個腫瘤領域管線。將收取6.5 億美元首付款，本次交易總金額最高可達105 億美元。獲批產品銷售額可收取兩位數比例的特許權使用費。"
+    },
+    {
+      "id": "te:markets:554621",
+      "time": "2026-05-29 06:45:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Binance Depreciates by 1.37% — Top crypto losers are Binance (-1.37%), Bitcoin (-1.28%) and Ether (-0.92%)."
+    },
     {
       "id": "4905629",
       "time": "2026-05-29 06:43:06",
@@ -137697,34 +137716,6 @@
         "市場"
       ],
       "text": "【區域性過熱存風險隱憂，私募尋找策略新座標】近期，A股市場在相對高位展開震盪，內部結構的分化逐步擴大。以AI為核心的科技板塊總體吸金，與非科技板塊之間的“剪刀差”拉大。記者日前採訪了多家知名私募機構，受訪私募普遍認為，當前市場的結構性分化既有堅實的產業邏輯支撐，也暗含著區域性過熱的風險隱憂，而對這一分化的不同認知，正在催生從“聚焦進攻”到“攻守平衡”再到“逆向佈局”的策略分化，一場圍繞風險與機會的激辯正在股票私募領域悄然展開。（中證報）"
-    },
-    {
-      "id": "te:economy:552870",
-      "time": "2026-05-22 06:47:53",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "New Zealand",
-        "Retail Sales MoM",
-        "Importance 1"
-      ],
-      "text": "New Zealand Retail Sales Rise More than Expected — Retail sales in New Zealand rose 0.9% quarter-on-quarter in Q1 2026, matching the pace recorded in the previous quarter and surpassing market expectations of 0.5%. The latest result marked the sixth consecutive quarterly increase, with figures adjusted for inflation and seasonal effects. On an annual basis, retail turnover increased 4.5%, following a 4.4% rise in Q4, marking the sixth straight quarter of growth."
-    },
-    {
-      "id": "4893680",
-      "time": "2026-05-22 06:45:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "紐西蘭一季度零售銷售季環比 0.9%，預期 0.5%，前值 0.9%。"
-    },
-    {
-      "id": "4893679",
-      "time": "2026-05-22 06:45:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國中期選舉前共和黨籌款金額接近10億美元 遠超民主黨】美國總統唐納德·特朗普及其共和黨盟友在11月中期選舉前已籌集9.39億美元競選資金，是民主黨募資規模的三倍以上，為其在艱難維持國會控制權的戰鬥中提供了有力支撐。美國聯邦選舉委員會最新申報檔案顯示，儘管政治風向對民主黨較為有利，但其籌資金額僅為2.67億美元。不過，在任總統所在的政黨通常會在中期選舉中失去眾議院席位。共和黨目前僅以微弱優勢控制眾議院，並需在庫克政治報告認定的18個搖擺選區中保住14個。再考慮到選民的倦怠情緒，共和黨面臨的局面較為不利。"
     }
   ]
 }
