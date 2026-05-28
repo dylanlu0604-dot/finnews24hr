@@ -1,7 +1,234 @@
 {
-  "updated": "2026-05-28 22:14:48",
-  "count": 15169,
+  "updated": "2026-05-28 22:18:58",
+  "count": 15177,
   "items": [
+    {
+      "id": "mkt:019e6ef2-e22b-7cc0-9db0-0a73dbd3dbbd",
+      "time": "2026-05-28 22:17:49",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【U.S. Officials Say 60-Day U.S.-Iran Memorandum Agreed, Pending Trump Approval】Two U.S. officials told Axios negotiators have agreed on a 60-day memorandum of understanding to extend a ceasefire and open talks on Iran’s nuclear program, but the pact requires Trump’s final approval. The MoU would declare shipping through the Strait of Hormuz \"unrestricted\"—no transit fees or harassment—and require Iran to clear all SEA MINES from the strait within 30 days. Officials described signing the MoU as the most significant diplomatic breakthrough since the war began, while noting a final deal to meet Trump’s nuclear demands would need further intensive negotiations."
+    },
+    {
+      "id": "4905124",
+      "time": "2026-05-28 22:17:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐元區債券收益率大幅下跌，德國10年期國債收益率下跌4個基點，至2.9469%。"
+    },
+    {
+      "id": "4905123",
+      "time": "2026-05-28 22:17:14",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國國債價格延續漲勢；10年期國債收益率下跌5個基點至4.43%。"
+    },
+    {
+      "id": "4905122",
+      "time": "2026-05-28 22:17:08",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【美方官員：美伊已達成協議，尚待特朗普最終批准】兩名美國官員透露，美國與伊朗談判代表已達成一份為期60天的諒解備忘錄。該備忘錄旨在延長停火狀態，並就伊朗核問題展開談判，不過特朗普總統尚未對此作出最終批准。 這份諒解備忘錄的簽署，將是衝突爆發以來最重大的外交突破。但想要達成滿足特朗普核問題訴求的最終協議，雙方仍需開展多輪密集談判。 美國官員表示，協議條款在本週二就已基本敲定，但當時雙方均需報請高層審批。 美方官員稱，伊朗方面隨後反饋已完成內部審批、準備簽署協議，不過伊朗官方尚未對此予以證實。 美方談判代表已向特朗普彙報最終協議的全部細節，特朗普表示需要數日時間斟酌。 一名美國官員表示：“總統已告知斡旋方，他希望留出幾天時間考慮此事。”"
+    },
+    {
+      "id": "4905121",
+      "time": "2026-05-28 22:17:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "郵輪股上漲，維京郵輪上漲1.1%，皇家加勒比郵輪上漲2.3%。"
+    },
+    {
+      "id": "4905120",
+      "time": "2026-05-28 22:17:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗必須在30天內清除霍爾木茲海峽的地雷。"
+    },
+    {
+      "id": "mkt:019e6ef1-8224-7cc0-9db0-02d1375a3755",
+      "time": "2026-05-28 22:16:21",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Federal Reserve's MUSALEM: inf significantly above target and inf expectations are rising."
+    },
+    {
+      "id": "4905119",
+      "time": "2026-05-28 22:16:17",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "聯合航空股價上漲3%，美國航空股價上漲1.2%。"
+    },
+    {
+      "id": "mkt:019e6ef1-5777-7cc0-9daf-f8bf87b909fc",
+      "time": "2026-05-28 22:16:10",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Federal Reserve policymaker MUSALEM said a better policy is to restrain demand and inf."
+    },
+    {
+      "id": "mkt:019e6ef1-479d-7cc0-9daf-f59d02800ccf",
+      "time": "2026-05-28 22:16:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "MUSALEM (Federal Reserve) said higher real interest rates should be addressed via policy rate hikes."
+    },
+    {
+      "id": "4905117",
+      "time": "2026-05-28 22:15:57",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲官員穆薩勒姆：人工智慧對生產率影響的資料尚無定論，需求壓力真實存在。"
+    },
+    {
+      "id": "mkt:019e6ef1-2284-7cc0-9daf-ecf0033c57af",
+      "time": "2026-05-28 22:15:57",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "MUSALEM: The Fed cannot rely on productivity to solve inf."
+    },
+    {
+      "id": "4905116",
+      "time": "2026-05-28 22:15:47",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲官員：必須持續保持警惕，致力於讓通脹回落至美聯儲2%的目標水平。"
+    },
+    {
+      "id": "4905115",
+      "time": "2026-05-28 22:15:30",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "受美國與伊朗達成協議的訊息影響，油價轉跌。"
+    },
+    {
+      "id": "mkt:019e6ef0-99ad-7cc0-9daf-e6add2a38e98",
+      "time": "2026-05-28 22:15:22",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "MUSALEM said he currently cannot determine whether the US is in a period of elevated productivity growth."
+    },
+    {
+      "id": "4905114",
+      "time": "2026-05-28 22:15:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內漲1%，現報18123.00元。"
+    },
+    {
+      "id": "4905113",
+      "time": "2026-05-28 22:14:48",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "市場訊息：美國和伊朗就延長停火達成60天諒解備忘錄協議。"
+    },
+    {
+      "id": "mkt:019e6eef-fe3d-7cc0-9daf-df57536c1b07",
+      "time": "2026-05-28 22:14:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "Axios reports two U.S. officials said U.S. and Iranian negotiators have agreed on a 60-day memorandum of understanding to extend a ceasefire and begin talks on Iran's nuclear program, but President Trump has not yet given final approval."
+    },
+    {
+      "id": "te:economy:554536",
+      "time": "2026-05-28 22:14:41",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "New Home Sales",
+        "Importance 1"
+      ],
+      "text": "US New Home Sales Drops More than Expected — Sales of new single-family homes in the US fell by 6.2% from the previous month to an annualized rate of 622 thousand units in April of 2026, below market expectations of 670,000 units sold to reflect the lowest level in three months. Sales fell sharply in the south (-9.8% to 370,000), the Midwest (-25% to 66,000), and the Northeast (-12.9% to 27,000). Conversely, sales rose in the West (18.7% to 159,000). Housing supply stood at 489,000 units, equivalent to 9.4 months of supply at the last sales rate. Also, the median sales price of homes were at $422,500."
+    },
+    {
+      "id": "mkt:019e6eef-9a6b-7cc0-9daf-d2991ffe86d9",
+      "time": "2026-05-28 22:14:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold rose $30 to $4,462/oz."
+    },
+    {
+      "id": "4905112",
+      "time": "2026-05-28 22:14:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：官員稱美國與伊朗已達成協議，尚待特朗普最終批准。"
+    },
     {
       "id": "te:markets:554535",
       "time": "2026-05-28 22:14:05",
@@ -136277,129 +136504,6 @@
         "公司"
       ],
       "text": "【MLC NAND快閃記憶體一年漲價三倍】在三星、鎧俠、美光等國際大廠集體退出MLC（Multi-Level Cell，多層單元）NAND快閃記憶體市場的背景下，這一曾經不起眼的“老兵”，產品價格近期暴漲300%。由此造成的供應缺口，正對汽車電子、工業控制、醫療裝置等產業造成潛在影響。NAND行業的發展規律是透過縱向堆疊來進行擴容，MLC正如其名，一般採用二維平面堆疊方式，也就是2D NAND。目前行業主流已經迭代到TLC（Triple-Level Cell，三層單元）和QLC（Quad-Level Cell，四層單元）階段，也就是進入3D NAND維度。因此不難發現，上游儲存供應商決定將MLC逐漸停產，有基於產品自身迭代的因素考量，也有將更多產能留給更高利潤空間的考慮。隨著海外大廠陸續停產，也為國內產業鏈廠商帶來一定發展機會。（21財經）"
-    },
-    {
-      "id": "4893252",
-      "time": "2026-05-21 22:18:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國參議院多數黨領袖圖恩稱，參議院共和黨議員將與代理司法部長布蘭奇會面，就特朗普國稅局和解基金的“運作方式”聽取說明。"
-    },
-    {
-      "id": "mkt:019e4ae7-2563-7bb7-824b-d180c475b877",
-      "time": "2026-05-21 22:18:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. SENATE MAJORITY LEADER THUNE SAYS SENATE REPUBLICANS TO MEET WITH ACTING ATTORNEY GENERAL BLANCHE FOR EXPLANATION OF HOW TRUMP IRS SETTLEMENT FUND 'WOULD WORK'"
-    },
-    {
-      "id": "mkt:019e4ae6-9119-7bb7-824b-cfe463bb62c7",
-      "time": "2026-05-21 22:18:04",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Wall Street (US)",
-        "S&P500",
-        "Impact bearish",
-        "Nasdaq100"
-      ],
-      "text": "S&P 500, NASDAQ 100 EXTEND DECLINE"
-    },
-    {
-      "id": "mkt:019e4ae6-665f-7bb7-824b-c713417ac0f9",
-      "time": "2026-05-21 22:17:52",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "OPENING STRAIT WILL ENTAIL COUNTRIES PAYING: AMIN-NEJAD"
-    },
-    {
-      "id": "te:markets:552807",
-      "time": "2026-05-21 22:17:37",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Luxembourg",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "Stocks in Luxembourg Hit Near 18-year High — LuxX increased to 2170.00 Index Points, the highest since June 2008. Over the past 4 weeks, Luxembourg Stock Exchange gained 5.43%, and in the last 12 months, it increased 43.43%."
-    },
-    {
-      "id": "4893251",
-      "time": "2026-05-21 22:17:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "據港交所檔案：北京首鋼朗澤科技股份有限公司透過港交所上市聆訊。"
-    },
-    {
-      "id": "4893250",
-      "time": "2026-05-21 22:16:33",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【伊朗正與阿曼商議建立常設通行收費機制】伊朗正與阿曼商議建立常設通行收費機制，以此正式掌控霍爾木茲海峽海上航運。伊朗駐法國大使穆罕默德・阿米內賈德週三在巴黎接受採訪時表示，伊阿兩國需調動全部資源，妥善開展安保服務與航道管控工作。此次採訪於 2026 年 5 月 20 日在該大使巴黎官邸進行。阿米內賈德經由翻譯以波斯語表態，相關機制運作必然產生成本，享受航道通行權益的各方理應分攤費用，且整套收費體系將保持公開透明。他還稱，若各方希望局勢好轉，就必須從根源著手找尋解決辦法。"
-    },
-    {
-      "id": "4893249",
-      "time": "2026-05-21 22:16:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數和納斯達克100指數延續下跌。"
-    },
-    {
-      "id": "4893248",
-      "time": "2026-05-21 22:16:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "白俄羅斯抗議立陶宛境內放飛的無人機侵犯領空。"
-    },
-    {
-      "id": "mkt:019e4ae4-cbc0-7bb7-824b-bb0a57ebedc9",
-      "time": "2026-05-21 22:16:08",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "BAHRAIN KING GETS WRITTEN MESSAGE FROM TRUMP ON TIES: BNA"
-    },
-    {
-      "id": "mkt:019e4ae4-b635-7bb7-824b-b3f18a3b06af",
-      "time": "2026-05-21 22:16:03",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "IRAN AND OMAN DISCUSSING A PERMANENT HORMUZ TOLL: IRANIAN ENVOY"
-    },
-    {
-      "id": "4893247",
-      "time": "2026-05-21 22:15:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗駐法國大使： 重啟海峽通行相關事宜需各國承擔相應代價。"
-    },
-    {
-      "id": "4893246",
-      "time": "2026-05-21 22:14:58",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗和阿曼正在討論在霍爾木茲海峽設立永久性收費站。"
     }
   ]
 }
