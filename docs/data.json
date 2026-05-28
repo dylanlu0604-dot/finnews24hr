@@ -1,7 +1,45 @@
 {
-  "updated": "2026-05-29 03:23:16",
-  "count": 15254,
+  "updated": "2026-05-29 03:27:12",
+  "count": 15258,
   "items": [
+    {
+      "id": "mkt:019e700d-b01f-7eef-a302-90d1992ffee3",
+      "time": "2026-05-29 03:26:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BARKIN: Some AI-related sectors are showing inf pressures."
+    },
+    {
+      "id": "4905527",
+      "time": "2026-05-29 03:25:31",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲巴爾金：人工智慧領域投資正對中性利率形成壓力。"
+    },
+    {
+      "id": "mkt:019e700c-7662-7eef-a302-8a0787b6f125",
+      "time": "2026-05-29 03:25:25",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "SHOIGU told Russian media on the 28th that Russian armed forces' strike operations targeting Kyiv may be launched at any time."
+    },
+    {
+      "id": "4905526",
+      "time": "2026-05-29 03:24:29",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲巴爾金：部分人工智慧相關領域顯現通脹壓力。"
+    },
     {
       "id": "4905525",
       "time": "2026-05-29 03:20:52",
