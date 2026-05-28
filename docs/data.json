@@ -1,7 +1,98 @@
 {
-  "updated": "2026-05-28 13:33:12",
+  "updated": "2026-05-28 13:37:09",
   "count": 15184,
   "items": [
+    {
+      "id": "mkt:019e6d14-edb5-722b-8aca-60a3867dcc8f",
+      "time": "2026-05-28 13:35:48",
+      "tags": [
+        "MKT News",
+        "02513.HK",
+        "Impact bullish"
+      ],
+      "text": "Zhipu (02513.HK) extended gains to 8%, with turnover near HK$1.3 billion."
+    },
+    {
+      "id": "4903947",
+      "time": "2026-05-28 13:35:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "培育鑽石板塊震盪走高，惠豐鑽石觸達30CM漲停，四方達、黃河旋風此前漲停，中兵紅箭漲超8%，國機精工、國力電子、英諾鐳射等個股跟漲。"
+    },
+    {
+      "id": "mkt:019e6d14-bbcf-722b-8aca-5903f44ec1e8",
+      "time": "2026-05-28 13:35:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component",
+        "SSE Composite"
+      ],
+      "text": "A-share lab-grown diamond sector rose in choppy trading. Huifeng Diamond touched a 30CM limit-up; Sifangda and Huanghe Xuanfeng earlier hit the daily limit. Zhongbing Hongjian gained more than 8%, while Guoji Jinggong, Guoli Electronics and Yingnuo Laser also climbed."
+    },
+    {
+      "id": "mkt:019e6d14-b296-722b-8aca-55c21236383d",
+      "time": "2026-05-28 13:35:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "TAIEX",
+        "Impact bearish"
+      ],
+      "text": "Taiwan Weighted Index (TAIEX) closed down 620.36 points, or 1.4%, at 43,636.44 points on Thursday, May 28."
+    },
+    {
+      "id": "te:economy:554308",
+      "time": "2026-05-28 13:34:30",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Kosovo",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Kosovo Trade Gap at 9-Month High — Kosovo’s trade deficit widened sharply to EUR 576.4 million from EUR 492.3 million in the same month a year earlier. This marked the largest trade gap since July 2025, as imports advanced 19.2% year-on-year to EUR 674.8 million, lifted by higher purchases of organic chemicals (59%), pharmaceutical products (50.3%), and plastic and plastic products (28.1%). Kosovo’s main import partners were Germany (17.5%), Albania (16%), and Poland (59.9%). Meanwhile, exports jumped 33.3% to EUR 98.4 million, lifted by increased shipments of ceramic products (22.2%), iron and steel products (193.6%), and plastic and plastic products (21%). Export growth was mainly driven by key markets including Italy (126.6%), Switzerland (54%), and Macedonia (48%)."
+    },
+    {
+      "id": "4903946",
+      "time": "2026-05-28 13:33:57",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【有色板塊探底回升 貴研鉑業等漲停】有色板塊探底回升，貴研鉑業、眾源新材、金鉬股份漲停，雲南鍺業此前漲停，海亮股份、中鎢高新、東方鋯業等漲幅居前。"
+    },
+    {
+      "id": "mkt:019e6d13-2be5-722b-8aca-4b15383234c3",
+      "time": "2026-05-28 13:33:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Iranian president said Iranian and Pakistani leaders discussed diplomatic efforts aimed at ending the war. He said the Pakistani side hopes the current diplomatic effort can soon achieve a final result."
+    },
+    {
+      "id": "4903945",
+      "time": "2026-05-28 13:33:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "港股大模型股震盪走強，智譜盤中漲超8%。"
+    },
+    {
+      "id": "4903944",
+      "time": "2026-05-28 13:33:13",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達90億港元。"
+    },
     {
       "id": "4903943",
       "time": "2026-05-28 13:32:24",
@@ -136291,88 +136382,6 @@
         "其他"
       ],
       "text": "AMD：搭載“威尼斯”和AMD Instinct MI450X GPU的Helios機架式平臺有望於2026年下半年開始實現多千兆瓦部署。"
-    },
-    {
-      "id": "4891887",
-      "time": "2026-05-21 13:36:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "AMD：與日月光半導體和SPIL公司合作開發2.5D橋接互連技術。"
-    },
-    {
-      "id": "mkt:019e4908-e309-7ee7-b68e-3e2a3a8807ff",
-      "time": "2026-05-21 13:36:19",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "US10Y",
-        "Impact bearish",
-        "S&P500",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "【Jamie Dimon Says Interest Rates Could Be Much Higher From Here】Jamie Dimon warned interest rates could rise much higher from current levels, citing a shift from a global savings glut to insufficient savings. He said concerns over higher oil prices, persistent inflation, government spending in the US, Japan and the UK, and AI-driven economic growth are pressuring long-term bonds. Dimon warned investors may eventually demand significantly higher compensation to hold long-duration debt."
-    },
-    {
-      "id": "4891886",
-      "time": "2026-05-21 13:36:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中汽協：1-4月銷量排名前十位的MPV生產企業共銷售24.3萬輛】據中國汽車工業協會統計分析，2026年1-4月，銷量排名前十位的MPV生產企業共銷售24.3萬輛，佔MPV銷售總量的80.8%。在上述十家企業中，與去年同期相比，長城汽車、東風公司和小鵬汽車銷量呈不同程度增長，其他企業銷量呈不同程度下降。"
-    },
-    {
-      "id": "mkt:019e4908-c8d0-7ee7-b68e-33ff4b235ab7",
-      "time": "2026-05-21 13:36:12",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "TAIWAN'S WEIGHTED INDEX CLOSED UP 3.37%"
-    },
-    {
-      "id": "4891885",
-      "time": "2026-05-21 13:36:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "豆粕連續主力合約日內跌1%，現報2999.00元。"
-    },
-    {
-      "id": "4891884",
-      "time": "2026-05-21 13:36:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "【銀行板塊震盪走高，重慶銀行漲超3%】銀行板塊震盪走高，重慶銀行漲超3%，建設銀行、中國銀行、青島銀行漲超2%。"
-    },
-    {
-      "id": "4891883",
-      "time": "2026-05-21 13:35:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "AMD宣佈將在中國臺灣地區投入超100億美元產業生態投資，以加速人工智慧基礎設施建設。"
-    },
-    {
-      "id": "4891882",
-      "time": "2026-05-21 13:35:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "臺灣證交所加權股價指數收高3.4%報41,368.21。"
-    },
-    {
-      "id": "4891881",
-      "time": "2026-05-21 13:33:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【何小鵬稱鐳射雷達已不是必需】在小鵬GX上市釋出會後，小鵬集團董事長、CEO何小鵬，小鵬集團通用智慧中心負責人劉先明，小鵬集團產品矩陣總經理吳安飛與媒體對話。 有資料稱，15萬以上車型配備鐳射雷達的比例越來越高。被問及採用純視覺路線的小鵬是否會有壓力，何小鵬回應稱，“我們沒有壓力。鐳射雷達是個好東西，但是我認為在汽車這個領域，它不需要了，所以小鵬非常的堅定。但是在很多其它行業還是需要，這是我的看法。” 小鵬集團通用智慧中心負責人劉先明則補充稱，鐳射雷達是否必要，取決於企業技術棧，沒有絕對答案。對使用者而言，自動駕駛核心看實際使用效果，而非感測器配置。小鵬堅持無鐳射雷達路線，核心看第二代VLA的實際表現，極端天氣、黑夜、複雜工況下，靠大算力、大模型、高密度感測器也能實現好效果。"
     }
   ]
 }
