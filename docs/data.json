@@ -1,7 +1,28 @@
 {
-  "updated": "2026-05-29 06:14:50",
+  "updated": "2026-05-29 06:18:44",
   "count": 15296,
   "items": [
+    {
+      "id": "4905620",
+      "time": "2026-05-29 06:15:35",
+      "tags": [
+        "公司",
+        "其他",
+        "國際"
+      ],
+      "text": "哥倫比亞礦業組織釋出宣告稱，紫金礦業旗下武裡蒂卡金礦遭遇致命襲擊。"
+    },
+    {
+      "id": "te:markets:554616",
+      "time": "2026-05-29 06:15:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Brazilian Real Rises by 0.70% — Top currency gainers are Brazilian Real (0.70%), South Korean Won (0.58%), New Zealand Dollar (0.49%), Euro (0.22%), Japanese Yen (0.18%) and British Pound (0.13%). Biggest loser is Dollar Index (-0.22%)."
+    },
     {
       "id": "4905619",
       "time": "2026-05-29 06:13:30",
@@ -137703,25 +137724,6 @@
         "國際"
       ],
       "text": "市場訊息：OpenAI 執行長奧爾特曼週三表態，公司即便提交上市申請，也可能暫緩實際掛牌上市。"
-    },
-    {
-      "id": "4893669",
-      "time": "2026-05-22 06:16:39",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內漲1%，現報1429.95美元/盎司。"
-    },
-    {
-      "id": "te:markets:552865",
-      "time": "2026-05-22 06:15:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: Indian Rupee Increases by 0.53% — Top currency gainers are Indian Rupee (0.53%), Brazilian Real (0.32%), Norwegian Krone (0.25%) and Dollar Index (0.11%). Biggest losers are South Korean Won (-0.37%), Turkish Lira (-0.28%) and Euro (-0.06%). Meanwhile, Japanese Yen and British Pound were little changed."
     }
   ]
 }
