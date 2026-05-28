@@ -1,7 +1,32 @@
 {
-  "updated": "2026-05-29 05:05:35",
-  "count": 15278,
+  "updated": "2026-05-29 05:09:29",
+  "count": 15280,
   "items": [
+    {
+      "id": "4905587",
+      "time": "2026-05-29 05:08:37",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "開市客：受中東衝突推高油價影響，公司第三財季最後五週的銷量躋身歷史前五。"
+    },
+    {
+      "id": "4905586",
+      "time": "2026-05-29 05:06:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "週四（5月28日）紐約尾盤（週五北京時間04:59），離岸人民幣（CNH）兌美元報6.7731元，較週三紐約尾盤漲59點，日內整體交投於6.7883-6.7711元區間。日線圖上，離岸人民幣逼近2023年2月2日頂部6.7057元、當年1月16日頂部6.6975元、以及2022年7月8日頂部6.6838元。"
+    },
+    {
+      "id": "4905585",
+      "time": "2026-05-29 05:06:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "開市客：公司已申請依據《國際緊急經濟權力法》退還關稅，預計兩至三個月內開始收到退款。"
+    },
     {
       "id": "4905584",
       "time": "2026-05-29 05:04:46",
@@ -137528,18 +137553,6 @@
         "其他"
       ],
       "text": "市場訊息：IMAX探索出售。"
-    },
-    {
-      "id": "te:economy:552861",
-      "time": "2026-05-22 05:08:05",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "South Korea",
-        "Consumer Confidence",
-        "Importance 2"
-      ],
-      "text": "South Korea Consumer Confidence Rises in May — South Korea’s Composite Consumer Sentiment Index rose by 6.9 points to 106.1 in May 2026, as households grew more optimistic about economic conditions and income prospects. Sentiment regarding current living standards increased to 93 from 91, while expectations for future living standards rose five points to 97. Consumer sentiment for future household income edged up to 100, and expectations for future household spending increased to 110. Confidence in current domestic economic conditions jumped 15 points to 83, while expectations for future economic conditions rose 14 points to 93. Meanwhile, inflation expectations remained stable, with the one-year ahead expected inflation rate at 2.8%, while three-year and five-year ahead expectations both stood at 2.6%."
     }
   ]
 }
