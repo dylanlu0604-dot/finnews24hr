@@ -1,7 +1,41 @@
 {
-  "updated": "2026-05-29 04:42:12",
-  "count": 15272,
+  "updated": "2026-05-29 04:46:04",
+  "count": 15274,
   "items": [
+    {
+      "id": "mkt:019e7054-f6ad-7eef-a303-75a3ec8ff8a1",
+      "time": "2026-05-29 04:44:33",
+      "tags": [
+        "MKT News",
+        "DELL.N",
+        "Impact bullish"
+      ],
+      "text": "Dell (DELL.N) COO Jeff Clarke said the company has more than 5,000 AI Factory customers, with growth across new cloud providers, sovereign customers and enterprise clients."
+    },
+    {
+      "id": "mkt:019e7054-830b-7eef-a303-6c841bb7a327",
+      "time": "2026-05-29 04:44:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada's minister of intergovernmental affairs, Dominic LeBlanc, said he and colleagues have met with industry representatives and provincial and territorial officials in recent months to secure an agreement in the best interests of Canadian businesses and workers."
+    },
+    {
+      "id": "mkt:019e7054-58de-7eef-a303-654194a73634",
+      "time": "2026-05-29 04:43:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada's minister of intergovernmental affairs Dominic LeBlanc said Ottawa is determined to continue negotiating with US and Mexican partners in the upcoming joint review of the United States-Mexico-Canada Agreement (USMCA)."
+    },
+    {
+      "id": "4905572",
+      "time": "2026-05-29 04:42:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "戴爾營運長： 公司 AI 工廠的客戶數量已突破 5000 家，新興雲服務商、主權機構及企業客戶均實現增長。"
+    },
     {
       "id": "4905571",
       "time": "2026-05-29 04:41:34",
@@ -137472,23 +137506,6 @@
         "其他"
       ],
       "text": "Meta：將應訴德克薩斯州針對Meta和WhatsApp的訴訟。"
-    },
-    {
-      "id": "4893629",
-      "time": "2026-05-22 04:44:50",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【Take-Two 官宣：俠盜獵車手6將於11月正式發售】遊戲巨頭Take-Two Interactive Software Inc.正式確認，備受矚目的《俠盜獵車手6》（Grand Theft Auto VI，簡稱GTA 6）將於11月19日全球發售。該作被公認為有史以來規模最宏大的電子遊戲史詩鉅作之一。Take-Two執行長Strauss Zelnick透露，《俠盜獵車手6》的全球宣發營銷攻勢將於今年夏季全面打響。屆時，玩家們也可以期待官方公佈該作的具體定價以及預售相關的核心資訊。 針對近期由於全球晶片短缺導致主機硬體廠商紛紛上調主機售價的行業現狀，Zelnick直言這“確實不是什麼好訊息”，但他強調，自己並不認為在《俠盜獵車手6》正式上市前，整個遊戲行業會面臨任何足以顛覆局面的嚴峻挑戰。"
-    },
-    {
-      "id": "4893628",
-      "time": "2026-05-22 04:43:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "Take-Two高管：除《GTA VI》外，公司計劃在2027財年推出6款遊戲作品。"
     }
   ]
 }
