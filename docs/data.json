@@ -1,7 +1,493 @@
 {
-  "updated": "2026-05-29 03:58:15",
-  "count": 15249,
+  "updated": "2026-05-29 04:38:11",
+  "count": 15270,
   "items": [
+    {
+      "id": "mkt:019e704d-0438-7eef-a303-4d3903962128",
+      "time": "2026-05-29 04:35:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian state media said explosion sounds in Bushehr were caused by air-defence systems engaging aircraft."
+    },
+    {
+      "id": "te:markets:554609",
+      "time": "2026-05-29 04:35:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Rises on US-Iran Peace Hopes — The S&P/TSX Composite Index rose 0.3% to close at 34,517 on Thursday amid hopes of a US-Iran peace deal. Reports indicated that the two countries reached a preliminary agreement to extend their ceasefire, pending approval from US President Trump. The development followed Iran’s strike on a US air base in response to earlier US attacks on an alleged Iranian drone operation. Bond yields declined as prospects for easing tensions improved. Mining stocks rebounded as gold prices pared losses, with Agnico Eagle up 1.4%, Wheaton Precious Metals gaining 2.0%, and Barrick adding 0.8%. Tech shares also advanced, led by Shopify (+7.4%) and Constellation Software (+4.0%), tracking gains in US technology stocks. UBS reiterated its neutral rating on Shopify and maintained its $130 target price. Meanwhile, major banks traded mixed despite solid quarterly results from RBC (-0.4%) and TD Bank (+0.7%)."
+    },
+    {
+      "id": "4905568",
+      "time": "2026-05-29 04:35:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗國家媒體： 爆炸聲源於防空部隊對空中目標實施攔截。"
+    },
+    {
+      "id": "te:markets:554608",
+      "time": "2026-05-29 04:35:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.07% Higher — The Dow Jones Index went up by 36 points or 0.07 percent on Thursday to close at 50680 points. The rise was led by IBM (3.54%), Microsoft (3.48%) and Nike (3.02%). On the downside, the weakerst performers were Caterpillar (-2.50%), Travelers Companies (-1.82%) and Sherwin-Williams (-1.61%)."
+    },
+    {
+      "id": "4905567",
+      "time": "2026-05-29 04:34:21",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "戴爾： 一季度 AI 伺服器積壓訂單達 513 億美元，此前預估為 453.3 億美元。"
+    },
+    {
+      "id": "4905566",
+      "time": "2026-05-29 04:33:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "據金融時報： 亞馬遜高階副總裁本週早些時候告知員工，該榜單設立初衷本是好的。"
+    },
+    {
+      "id": "mkt:019e704a-6026-7eef-a303-43ba6e0322d7",
+      "time": "2026-05-29 04:33:01",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O"
+      ],
+      "text": "Financial Times reports Amazon (AMZN.O) has scrapped an internal AI leaderboard to discourage employees from chasing usage scores."
+    },
+    {
+      "id": "4905565",
+      "time": "2026-05-29 04:32:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "據金融時報：亞馬遜下架 AI 榜單，避免員工一味追求使用量評分。"
+    },
+    {
+      "id": "mkt:019e7049-09e8-7eef-a303-3da7c8748cba",
+      "time": "2026-05-29 04:31:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "Iranian state media reported explosions were heard in Bushehr."
+    },
+    {
+      "id": "4905564",
+      "time": "2026-05-29 04:31:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗官方媒體稱，布什赫爾地區傳出爆炸聲。"
+    },
+    {
+      "id": "mkt:019e7048-9c95-7eef-a303-3044b8ba98fc",
+      "time": "2026-05-29 04:31:03",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Foreign central banks net bought $12.829 bln of US bonds in the week to May 22, reversing net sales of $20.238 bln in the prior week."
+    },
+    {
+      "id": "4905563",
+      "time": "2026-05-29 04:30:57",
+      "tags": [
+        "央行",
+        "市場",
+        "國際"
+      ],
+      "text": "美國至5月22日當週外國央行持有美國國債 128.29億美元，前值-202.38億美元。"
+    },
+    {
+      "id": "mkt:019e7048-4067-7eef-a303-28eb868113df",
+      "time": "2026-05-29 04:30:43",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | US Treasuries held by Foreign Central Banks (May.22) | actual 12829000000B | previous -20238000000B"
+    },
+    {
+      "id": "4905562",
+      "time": "2026-05-29 04:25:57",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "MongoDB Inc.（MDB）美股盤後V形反轉，目前漲14.09%。業績報告顯示，該公司預計全年營收29.2億-29.6億美元，原本預計28.6億-29億美元。"
+    },
+    {
+      "id": "mkt:019e7041-e912-7eef-a303-2182b2ef63ab",
+      "time": "2026-05-29 04:23:48",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "TRUMP, commenting on the Iran conflict, said we hold all the cards and that Iran has been defeated militarily."
+    },
+    {
+      "id": "4905561",
+      "time": "2026-05-29 04:22:55",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【美國高盛集團測算顯示全球原油庫存逼近“百日警戒線”】近日有訊息披露，美國高盛集團測算顯示，全球原油庫存最早可能於5月底跌破相當於全球100天需求量的水平。高盛集團測算顯示，截至4月底，全球原油庫存約相當於全球101天需求量，預計5月底將降至98天。其中，透過衛星等手段可觀測的“可視庫存”預計僅剩73天需求量。訊息稱，目前每天只有少數船隻能夠透過霍爾木茲海峽，導致全球每天原油供應損失超1000萬桶。 (央視新聞)"
+    },
+    {
+      "id": "4905560",
+      "time": "2026-05-29 04:22:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗：我們掌握所有牌，伊朗在軍事上已被擊敗。"
+    },
+    {
+      "id": "mkt:019e7040-5f65-7eef-a303-1ec43971c86d",
+      "time": "2026-05-29 04:22:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Attack in Donetsk Kills Three】Russia-appointed Donetsk leader Pushilin said on social media on the 28th that Ukrainian armed forces struck vehicles carrying a water utility maintenance crew, killing three and seriously wounding one; doctors are attempting to save the wounded worker."
+    },
+    {
+      "id": "te:markets:554601",
+      "time": "2026-05-29 04:21:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Set New Records — US stocks closed at record highs on Thursday, with the S&P 500 rising 0.6% and the Nasdaq Composite gaining 0.9%, while the Dow Jones edged up 0.1%. A reported agreement between US and Iranian negotiators to extend the ceasefire and gradually restore energy flows from the Persian Gulf helped temper gains in oil prices. At the same time, tech stocks rallied on the heels of Snowflake's strong earnings outlook and an AI compute deal with Amazon. Shares of the software maker jumped 36% in its best day ever, lifting other software names. ServiceNow rose 6.5%, Palantir surged more than 8%, and Oracle gained over 6%, while Microsoft, Palo Alto Networks, and Atlassian each advanced at least 3%. Salesforce, however, edged lower (-0.8%) after issuing weak guidance."
+    },
+    {
+      "id": "4905559",
+      "time": "2026-05-29 04:17:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "Gap一季度淨銷售35億美元，分析師預期35.2億美元。\n預計全年淨銷售將增長1%-2%，公司原本預計會增長2%-3%。\n預計全年調整後每股收益（EPS）大約為2.30-2.40美元，公司原本預計大約2.20-2.35美元。\n蓋普（GPS）美股盤後跌9.8。"
+    },
+    {
+      "id": "4905558",
+      "time": "2026-05-29 04:16:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "開市客第三季度每股收益4.93美元，上年同期4.28美元，預估4.91美元。\n每股收益4.93美元，上年同期4.28美元，預估4.91美元。\n總營收705.3億美元，同比+12%，預估696.2億美元。\n銷售淨額691.5億美元，同比+12%，預估683.4億美元。"
+    },
+    {
+      "id": "mkt:019e7039-d46e-7eef-a303-1187534af756",
+      "time": "2026-05-29 04:14:58",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "DELL.O",
+        "Impact bullish"
+      ],
+      "text": "【Q1 Sales Surge 88% on AI Demand; Dell Raises Fiscal-Year Outlook】Driven by AI product demand, Dell reported Q1 revenue up 88% to $43.84bn and raised its full-year guidance. The company now expects fiscal-year revenue of $165bn–$169bn, up from $138bn–$142bn, and lifted the midpoint of adjusted EPS guidance from $12.90 to $17.90. Dell posted Q1 GAAP profit of $3.44bn, or $5.24 per share, versus $965m, or $1.37, a year earlier. Adjusted EPS was $4.86, beating the FactSet estimate of $2.96. Revenue was driven by the Infrastructure Solutions Group, which nearly doubled to $29.0bn on strength in AI-optimized and traditional servers. Dell guided Q2 revenue of $44.0bn–$45.0bn with an adjusted EPS midpoint of $4.80; FactSet consensus had forecast $35.1bn revenue and $2.99 adjusted EPS. Shares rallied in after-hours trading, rising more than 12%."
+    },
+    {
+      "id": "mkt:019e7037-a6cd-7eef-a303-0de12fa8ea5e",
+      "time": "2026-05-29 04:12:35",
+      "tags": [
+        "MKT News",
+        "DELL.N",
+        "Impact bullish"
+      ],
+      "text": "Dell Technologies Inc (DELL.N) rose more than 9% in after-hours trading after reporting earnings."
+    },
+    {
+      "id": "4905556",
+      "time": "2026-05-29 04:12:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗塔斯尼姆通訊社：海面上傳來的聲響是因向霍爾木茲海峽內的船隻發出警告而進行交火所致。"
+    },
+    {
+      "id": "mkt:019e7037-16a3-7eef-a303-03cc5f3ffc26",
+      "time": "2026-05-29 04:11:58",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "TASNIM NEWS reported sounds heard at sea were caused by warning-fire exchanges directed at vessels inside the Strait of Hormuz."
+    },
+    {
+      "id": "mkt:019e7036-b43a-7eef-a302-f800dce32ae4",
+      "time": "2026-05-29 04:11:33",
+      "tags": [
+        "MKT News",
+        "DELL.O"
+      ],
+      "text": "Dell (DELL.N) expects fiscal 2027 second-quarter revenue of $44.0–45.0 billion."
+    },
+    {
+      "id": "mkt:019e7035-afc9-7eef-a302-f3f2233ab887",
+      "time": "2026-05-29 04:10:27",
+      "tags": [
+        "MKT News",
+        "DELL.N",
+        "Impact bullish"
+      ],
+      "text": "Dell Technologies (DELL.N) FY2027 Q1 revenue $43.84 bln; year-ago $23.378 bln; market expected $35.408 bln."
+    },
+    {
+      "id": "te:markets:554600",
+      "time": "2026-05-29 04:10:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Dell Technologies earnings above expectations at 4.86 USD — Dell Technologies (DELL) released earnings per share at 4.86 USD, compared to market expectations of 2.86 USD."
+    },
+    {
+      "id": "mkt:019e7034-00d1-7eef-a302-ebd052b408a7",
+      "time": "2026-05-29 04:08:36",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "An i24 News senior Middle East correspondent reported that Iran’s non-official media said the IRGC Navy fired warning shots at four \"unauthorized vessels\" that attempted to transit the Strait of Hormuz without coordination."
+    },
+    {
+      "id": "4905554",
+      "time": "2026-05-29 04:05:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "戴爾美股盤後漲超10%。"
+    },
+    {
+      "id": "te:markets:554599",
+      "time": "2026-05-29 04:05:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Autodesk earnings above expectations at 2.99 USD — Autodesk (ADSK) released earnings per share at 2.99 USD, compared to market expectations of 2.84 USD."
+    },
+    {
+      "id": "4905553",
+      "time": "2026-05-29 04:05:12",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "戴爾科技一季度總體淨營收438.4億美元，分析師預期355.2億美元。\n一季度調整後運營利潤42.4億美元，分析師預期27.7億美元。\n上調2027財年AI伺服器營收預期至大約600億美元，之前預計大約500億美元。\n預計全年營收1650億-1690億美元，公司原本預計1380億-1420億美元。"
+    },
+    {
+      "id": "mkt:019e7030-a0c6-7eef-a302-e2fdbbfc2727",
+      "time": "2026-05-29 04:04:55",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "【Dollar Index Falls 0.19% to 99.020 on 28th】The dollar index, which measures the U.S. dollar against six major currencies, fell 0.19% to 99.020 at the New York close. EUR/USD 1.1648 (prior 1.1629); GBP/USD 1.3440 (1.3430); USD/JPY 159.26 (159.51); USD/CHF 0.7841 (0.7868); USD/CAD 1.3784 (1.3835); USD/SEK 9.2551 (9.2972)."
+    },
+    {
+      "id": "mkt:019e702f-cc91-7eef-a302-dd5c2bcbf94b",
+      "time": "2026-05-29 04:04:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bullish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "On Thursday, May 28, the Dow Jones Industrial Average closed up 24.69 points, or 0.05%, at 50,668.97. The S&P 500 closed up 43.31 points, or 0.58%, at 7,563.67. The Nasdaq Composite closed up 242.74 points, or 0.91%, at 26,917.47."
+    },
+    {
+      "id": "4905552",
+      "time": "2026-05-29 04:03:55",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "美國網存美股盤後上漲18%，此前該公司釋出2027年營收預期超出預期。"
+    },
+    {
+      "id": "4905551",
+      "time": "2026-05-29 04:03:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "百思買收漲16%，創2020年以來最大單日漲幅。"
+    },
+    {
+      "id": "4905550",
+      "time": "2026-05-29 04:03:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "Autodesk將按大約36億美元現金收購Maintainx。"
+    },
+    {
+      "id": "4905549",
+      "time": "2026-05-29 04:03:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數28日下跌】衡量美元對六種主要貨幣的美元指數當天下跌0.19%，在匯市尾市收於99.020。截至紐約匯市尾市，1歐元兌換1.1648美元，高於前一交易日的1.1629美元；1英鎊兌換1.3440美元，高於前一交易日的1.3430美元。1美元兌換159.26日元，低於前一交易日的159.51日元；1美元兌換0.7841瑞士法郎，低於前一交易日的0.7868瑞士法郎；1美元兌換1.3784加元，低於前一交易日的1.3835加元；1美元兌換9.2551瑞典克朗，低於前一交易日的9.2972瑞典克朗。"
+    },
+    {
+      "id": "mkt:019e702e-2bc0-7eef-a302-d315f468272c",
+      "time": "2026-05-29 04:02:13",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "TASNIM NEWS reported Iran launched missiles from its southern region, reportedly firing warning shots at an enemy warship."
+    },
+    {
+      "id": "4905548",
+      "time": "2026-05-29 04:02:10",
+      "tags": [
+        "公司",
+        "其他",
+        "國際"
+      ],
+      "text": "Okta一季度調整後每股收益（EPS）為0.91美元，分析師預期0.85美元。\n預計全年營收31.9億-32.1億美元，公司原本預計31.7億-31.9億美元。\n預計全年調整後EPS為3.79-3.87美元，公司原本預計3.74-3.82美元。\n預計二季度營收7.90億-7.94億美元，分析師預期7.915億美元。\n預計二季度調整後EPS為0.95-0.97美元，分析師預期0.96美元。"
+    },
+    {
+      "id": "4905547",
+      "time": "2026-05-29 04:01:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "新思科技股價收盤下跌8.6%，創2025年10月以來最大跌幅。"
+    },
+    {
+      "id": "4905546",
+      "time": "2026-05-29 04:00:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體收漲】道指漲0.05%，標普500指數漲0.58%，納指漲0.91%。美元樹漲17.87%，安捷倫科技漲16.90%，百思買漲15.80%，荷美爾漲12.55%，Axon Enterprise漲12.27%，羅賓漢漲11.36%。“七姐妹”方面：微軟漲3.46%，英偉達漲0.78%，亞馬遜漲0.77%，蘋果漲0.53%，特斯拉漲0.40%，谷歌漲0.34%，Meta Platforms跌0.02%。"
+    },
+    {
+      "id": "mkt:019e702c-e548-7eef-a302-cbe8d156273b",
+      "time": "2026-05-29 04:00:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "【US Stocks Close: Major Indexes Up; Micron Slightly Pulls Back】U.S. equities closed higher: Dow +0.05%, S&P 500 +0.58%, Nasdaq +0.91%. Notable movers: Qualcomm (QCOM.O) +4.24%, Microsoft (MSFT.O) +3.47%, IBM (IBM.N) +3.53%, U.S. Rare Earths (USAR.O) +5.58%; Micron Technology (MU.O) -0.53%, Li Auto (LI.O) -1.52%."
+    },
+    {
+      "id": "mkt:019e702c-b8cb-7eef-a302-c3f74d67a143",
+      "time": "2026-05-29 04:00:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian outlet Fars News reports the missile's exact destination remains unclear."
+    },
+    {
+      "id": "4905544",
+      "time": "2026-05-29 04:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收跌0.38%】樂信跌9.59%，金生遊樂跌7.01%，復朗集團跌5.62%，信也科技跌5.36%，新氧跌4.39%。"
+    },
+    {
+      "id": "mkt:019e702b-a3b3-7eef-a302-bcbd04cbf8e4",
+      "time": "2026-05-29 03:59:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iranian media Fars News reported that Iran's armed forces launched missile strikes from the country's southern region against specific targets."
+    },
+    {
+      "id": "4905543",
+      "time": "2026-05-29 03:59:14",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "據伊朗法爾斯通訊社：伊朗武裝部隊從該國南部地區向指定目標實施導彈發射行動，導彈確切打擊目標目前尚不明確。"
+    },
+    {
+      "id": "4905542",
+      "time": "2026-05-29 03:58:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗勞工新聞社（ILNA）報道，伊朗海軍早些時候向四艘試圖穿越霍爾木茲海峽的船隻發射了警告射擊。"
+    },
     {
       "id": "4905541",
       "time": "2026-05-29 03:57:35",
@@ -136981,256 +137467,6 @@
         "國際"
       ],
       "text": "【特朗普稱將向波蘭增派5000名美軍】當地時間5月21日，美國總統特朗普在其社交平臺“真實社交”發文稱，美國將向波蘭額外增派5000名美軍。當地時間15日，五角大樓取消本月向波蘭部署一支4000多人美軍部隊的計劃。訊息人士表示，此舉是美方在歐洲削減駐軍計劃的一部分，該計劃最初主要針對德國。美國副總統萬斯19日在白宮記者會上說，關於美國最近取消本月向波蘭部署一支4000多人美軍部隊的計劃的訊息，“不是削減，而是一次例行輪換推遲”。（央視新聞）"
-    },
-    {
-      "id": "te:markets:552859",
-      "time": "2026-05-22 04:35:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Closes 0.55% Higher — The Dow Jones Index went up by 275 points or 0.55 percent on Thursday to close at 50284 points. The rise was led by IBM (12.55%), Cisco Systems (3.44%) and Honeywell International (2.96%). On the downside, the weakerst performers were Walmart (-7.21%), Salesforce (-2.10%) and Nvidia (-1.78%)."
-    },
-    {
-      "id": "mkt:019e4c3c-44ed-7aa1-9581-b27686dbe468",
-      "time": "2026-05-22 04:31:18",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | US Treasuries held by Foreign Central Banks (May.15) | actual -20238000000B | previous -39239000000B"
-    },
-    {
-      "id": "mkt:019e4c3b-e2fb-7aa1-9581-a8f9819874e0",
-      "time": "2026-05-22 04:30:53",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "TRUMP: UNITED STATES WILL BE SENDING AN ADDITIONAL 5,000 TROOPS TO POLAND"
-    },
-    {
-      "id": "4893624",
-      "time": "2026-05-22 04:29:36",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "土耳其主要反對派領導人稱，法院裁決出爐後半小時內，央行外匯儲備消耗約 100 億美元。"
-    },
-    {
-      "id": "4893623",
-      "time": "2026-05-22 04:28:38",
-      "tags": [
-        "觀點"
-      ],
-      "text": "市場訊息： 摩根大通將華納兄弟貸款額度增至 100 億美元，用於派拉蒙合併前債務重組。"
-    },
-    {
-      "id": "4893622",
-      "time": "2026-05-22 04:26:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：向波蘭增派5000名士兵。"
-    },
-    {
-      "id": "4893621",
-      "time": "2026-05-22 04:22:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "美聯社援引該國警方發言人訊息：宏都拉斯北部牧場發生槍擊案，10 名工作人員遇難。"
-    },
-    {
-      "id": "mkt:019e4c2f-750e-7aa1-9581-a139889ab592",
-      "time": "2026-05-22 04:17:18",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【Al Arabiya Denies Iran Reports on US-Iran Deal】Al Arabiya said Iranian media falsely attributed reports to it claiming a US-Iran agreement had been reached. It denied issuing or circulating any such reports and said the claims are fabricated. It added that unverified attribution by Iranian outlets constitutes a journalistic error."
-    },
-    {
-      "id": "4893620",
-      "time": "2026-05-22 04:13:10",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【阿拉伯電視臺駁斥伊媒援引其關於“美伊達成協議”的報道】沙烏地阿拉伯電視臺稱，伊朗媒體報道稱美伊協議已達成並將此訊息源歸於本臺的說法是捏造的。伊朗媒體在未經核實的情況下將相關報道歸於本臺的行為屬於新聞失實。"
-    },
-    {
-      "id": "4893618",
-      "time": "2026-05-22 04:12:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "Take-Two：第四財季淨預定15.8億美元，分析師預期15.7億美元。預計2027財年淨預定80億-82億美元，分析師預期91.1億美元。預計第一財季淨預定13.2億-13.7億美元，分析師預期15.7億美元。"
-    },
-    {
-      "id": "4893617",
-      "time": "2026-05-22 04:12:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：以色列襲擊黎巴嫩一家醫院，致九人受傷。"
-    },
-    {
-      "id": "te:markets:552858",
-      "time": "2026-05-22 04:11:30",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stocks Close Higher, Dow Hits New High — US stocks finished higher on Thursday after a volatile trading session, as renewed hopes for a potential US-Iran agreement to end the conflict pushed oil prices lower for a third consecutive day. The S&P 500 gained 0.2%, the Nasdaq edged up 0.1%, and the Dow Jones rose 276 points to close at a fresh record high. Reports indicated that Iran said the latest US proposal had partly narrowed the gap between the two sides, while Secretary of State Marco Rubio pointed to “some good signs” that a deal could be reached. The decline in oil prices supported broader market sentiment. Utilities led the gains, followed by consumer discretionary and materials, while consumer staples and energy lagged behind. Investors also digested earnings results from NVIDIA (-1.8%), which failed to impress the market. Meanwhile, Walmart fell more than 7% after warning that persistently higher fuel costs could weigh on its business. In contrast, Apple rose 0.9%, Amazon gained 1.3%, and Eli Lilly advanced 2.2%."
-    },
-    {
-      "id": "4893616",
-      "time": "2026-05-22 04:11:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普再威脅伊朗交出濃縮鈾 稱到手後或銷燬 】美國總統特朗普21日在白宮對媒體說，伊朗必須交出其擁有的高丰度濃縮鈾，美國拿到後很可能會將其銷燬。特朗普回答記者提問時說：“我們會拿到那些高濃縮鈾的。我們不需要，也不想要。我們拿到後很可能會將其銷燬，我們不會讓他們擁有。”他還說，美伊正在進行談判，結果如何尚待觀察。特朗普此前多次威脅伊朗交出濃縮鈾。據美國媒體10日報道，特朗普稱，美國一直在對掩埋在廢墟下的伊朗濃縮鈾進行監控，美國太空軍負責此事。（新華社）"
-    },
-    {
-      "id": "4893615",
-      "time": "2026-05-22 04:07:45",
-      "tags": [
-        "市場"
-      ],
-      "text": "雅詩蘭黛美股盤後漲超13%。"
-    },
-    {
-      "id": "4893614",
-      "time": "2026-05-22 04:06:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "雅詩蘭黛與Puig結束合併磋商。"
-    },
-    {
-      "id": "4893613",
-      "time": "2026-05-22 04:05:23",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國際油價21日下跌】截至當天收盤，紐約商品交易所7月交貨的輕質原油期貨價格下跌1.91美元，收於每桶96.35美元，跌幅為1.94%；7月交貨的倫敦布倫特原油期貨價格下跌2.44美元，收於每桶102.58美元，跌幅為2.32%。"
-    },
-    {
-      "id": "te:markets:552857",
-      "time": "2026-05-22 04:05:21",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Ross Stores earnings above expectations at 2.02 USD — Ross Stores (ROST) released earnings per share at 2.02 USD, compared to market expectations of 1.63 USD."
-    },
-    {
-      "id": "4893612",
-      "time": "2026-05-22 04:04:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "【Rapidan稱霍爾木茲海峽若關閉至8月 恐引發堪比2008年的經濟衰退】Rapidan Energy Group稱，若霍爾木茲海峽關閉持續到8月，經濟下行風險將上升，嚴重程度可能接近2008年大衰退時期。這家諮詢公司的基本預測情景假設該水道將在7月重新開放，在這一情境下，石油日均需求將減少260萬桶，基準布倫特原油現貨價格夏季將在接近每桶130美元的水平見頂。不過，如果中斷持續到7月之後，就需要更大幅度的需求萎縮來抵消8月和9月的供應衝擊，幅度可能足以導致2026年全球石油消費出現年度下降。該公司稱，若延遲到8月，第三季度供應缺口將擴大至每天約600萬桶，屆時庫存也將接近運營上較難應對的水平。Rapidan表示，即便8月初重新開放，在任何緩解顯現之前，市場供需仍會進一步趨緊，因為在阿拉伯灣產量逐步回升、貨物開始抵達目的地之際，原油庫存下降將持續到9月。"
-    },
-    {
-      "id": "mkt:019e4c23-7a85-7aa1-9581-9a48c38cdc99",
-      "time": "2026-05-22 04:04:13",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Dow",
-        "Impact bullish",
-        "Brent",
-        "Impact bearish",
-        "NVDA.O",
-        "Impact mixed"
-      ],
-      "text": "【US stocks rise, Dow hits record on Iran peace hopes; oil slips below key levels】US stocks edged higher Thursday, with Dow Jones Industrial Average closing at a record high, S&P 500 up 0.2% and Nasdaq up 0.1%, as investors tracked reports of a US-Iran agreement mediated by Pakistan and comments from Secretary of State Marco Rubio citing “some good signs” of a deal. Oil prices eased, with Brent near $104 and WTI below $100, amid conflicting signals on Iran talks. Nvidia earnings beat estimates but outlook tempered demand optimism."
-    },
-    {
-      "id": "4893611",
-      "time": "2026-05-22 04:03:35",
-      "tags": [
-        "市場"
-      ],
-      "text": "IBM股價收盤上漲12%，創2025年1月以來最佳單日表現。"
-    },
-    {
-      "id": "4893610",
-      "time": "2026-05-22 04:03:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "Workday一季度營收25.4億美元，分析師預期25.2億美元。維持全年訂閱營收預期在99.3億-99.5億美元不變。預計二季度訂閱營收24.6億美元，分析師預期24.56美元。"
-    },
-    {
-      "id": "4893609",
-      "time": "2026-05-22 04:02:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "沃爾瑪收跌7%，創2023年以來最大單日跌幅，受累於偏高的燃料成本。"
-    },
-    {
-      "id": "4893608",
-      "time": "2026-05-22 04:01:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "羅斯百貨一季度銷售60億美元，分析師預期56.1億美元。"
-    },
-    {
-      "id": "4893607",
-      "time": "2026-05-22 04:00:45",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股收盤：三大股指集體收漲】道指漲0.55%，標普500指數漲0.17%，納指漲0.10%。Arm Holdings漲16.15%，拉夫勞倫漲13.84%，IBM漲12.43%，Lumentum Holdings Inc. Common Stock When Issued漲11.07%，閃迪漲10.75%，希捷漲7.91%。“七姐妹”方面：亞馬遜漲1.30%，蘋果漲0.88%，Meta Platforms漲0.36%，特斯拉漲0.14%，微軟跌0.28%，谷歌跌0.37%，英偉達跌1.78%。"
-    },
-    {
-      "id": "mkt:019e4c20-2d5c-7aa1-9581-914354793c8e",
-      "time": "2026-05-22 04:00:34",
-      "tags": [
-        "MKT News",
-        "Dow",
-        "Impact bullish",
-        "S&P500",
-        "Nasdaq100"
-      ],
-      "text": "DOW CLOSED +0.55%, S&P 500 +0.17%, NASDAQ +0.09%"
-    },
-    {
-      "id": "4893606",
-      "time": "2026-05-22 04:00:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【納斯達克中國金龍指數收跌1.43%】網易有道跌6.69%，貝殼跌6.50%，陸金所控股跌6.15%，萬物新生跌5.12%，新東方跌4.69%。"
-    },
-    {
-      "id": "mkt:019e4c1f-6842-7aa1-9581-8de32fe31548",
-      "time": "2026-05-22 03:59:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "STELLANTIS CEO: WE DON'T ANTICIPATE PRODUCTS FROM CHINESE JVS WILL BE SOLD IN THE U.S. IN THE NEAR OR MID-TERM"
     }
   ]
 }
