@@ -1,7 +1,82 @@
 {
-  "updated": "2026-05-28 13:49:11",
-  "count": 15180,
+  "updated": "2026-05-28 13:53:16",
+  "count": 15173,
   "items": [
+    {
+      "id": "4903970",
+      "time": "2026-05-28 13:51:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星電機股價暴漲15%。"
+    },
+    {
+      "id": "4903969",
+      "time": "2026-05-28 13:51:51",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根士丹利將英飛凌目標股價從63歐元上調至91歐元。"
+    },
+    {
+      "id": "4903968",
+      "time": "2026-05-28 13:51:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "大摩將空客目標股價從230歐元下調至227歐元。"
+    },
+    {
+      "id": "mkt:019e6d23-35b4-722b-8aca-b761f70dd475",
+      "time": "2026-05-28 13:51:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish"
+      ],
+      "text": "Beijing Stock Exchange 50 Index rose 2.00%; Sci‑Tech Innovation Board 50 Index rose 1.56%."
+    },
+    {
+      "id": "mkt:019e6d22-a606-722b-8aca-ab8c0abdae80",
+      "time": "2026-05-28 13:50:47",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Zhongfu Information said it recently won a bid to build an industrial control systems security construction project for a unit of an unnamed specialized industrial group."
+    },
+    {
+      "id": "4903967",
+      "time": "2026-05-28 13:49:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中孚資訊中標某特種工業單位工控安全建設專案】據中孚資訊訊息，近日，中孚資訊成功中標某特種工業集團單位工控安全建設專案。"
+    },
+    {
+      "id": "4903966",
+      "time": "2026-05-28 13:49:22",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【機器人板塊短線拉昇】機器人板塊短線拉昇，江蘇北人漲超10%，巨能股份、機科股份、雷賽智慧、拓斯達、凱爾達等跟漲。"
+    },
+    {
+      "id": "mkt:019e6d21-550f-722b-8aca-a3fd2dac37d4",
+      "time": "2026-05-28 13:49:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China A-share robotics sector staged a short-term rally; Jiangsu Beiren rose more than 10%, and Juneng Co., Jike Co., Leisai Intelligent, Tuosida and Kairda also advanced."
+    },
     {
       "id": "4903965",
       "time": "2026-05-28 13:47:31",
@@ -136196,157 +136271,6 @@
         "國際"
       ],
       "text": "小枝淳子：中東局勢持續的可能性正在上升  。"
-    },
-    {
-      "id": "4891917",
-      "time": "2026-05-21 13:52:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙烏地阿拉伯政府資料顯示，3月份沙特非石油出口（包括轉口出口）同比下降17.3%。"
-    },
-    {
-      "id": "mkt:019e4917-e85a-7ee7-b68e-9abf327cc23c",
-      "time": "2026-05-21 13:52:42",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "SAUDI MERCHANDISE EXPORTS INCREASED BY 21.5% IN MARCH 2026 COMPARED TO MARCH 2025, AND OIL EXPORTS INCREASED BY 37.4% - GOVT DATA"
-    },
-    {
-      "id": "4891916",
-      "time": "2026-05-21 13:52:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙烏地阿拉伯政府資料顯示，2026年3月沙特商品出口額同比增長21.5%，石油出口額增長37.4%。"
-    },
-    {
-      "id": "mkt:019e4917-a646-7ee7-b68e-94cc62c20f24",
-      "time": "2026-05-21 13:52:27",
-      "tags": [
-        "MKT News",
-        "Important",
-        "BIDU.O",
-        "Impact bearish"
-      ],
-      "text": "BAIDU DOWN OVER 5%"
-    },
-    {
-      "id": "4891915",
-      "time": "2026-05-21 13:52:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【降低傳輸時延 南寧啟動面向東盟區域資料領域國際合作試點】從國家資料局瞭解到，廣西南寧面向東盟區域的資料領域國際合作試點已正式啟動，成為國家首批資料領域國際合作試點城市之一。國家資料局表示，支援南寧開展面向東盟區域的資料領域國際合作試點，希望廣西充分發揮面向東盟開放合作的區位優勢，在打造互聯互通的資料基礎設施、培育普惠高效的跨境服務生態、拓展多元賦能的數字合作場景等方面大膽探索，形成一批可複製、可推廣的制度成果和實踐案例，為全國資料領域國際合作提供示範借鑑。"
-    },
-    {
-      "id": "4891914",
-      "time": "2026-05-21 13:51:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "【沙特阿美擬投資土耳其軍隊養老基金旗下能源公司，已就入股事宜展開談判】當地時間5月20日，土耳其軍隊養老基金（Oyak）旗下能源部門GuzelEnerji主席烏古爾·多安（Ugur Dogan）表態稱，該基金目前正與沙特阿美進行談判，以探討在土耳其開展合作和投資的可能性。多安透露，沙特阿美可能會購買GuzelEnerji的股份或與其建立合作伙伴關係。"
-    },
-    {
-      "id": "mkt:019e4916-839e-7ee7-b68e-8a7a0f2cdad9",
-      "time": "2026-05-21 13:51:12",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "AMD.O",
-        "Impact bullish",
-        "TSM.O"
-      ],
-      "text": "AMD ALSO PLANS TO EXTEND TSMC 2NM PROCESS TECH ACROSS DATA CENTER CPU ROADMAP"
-    },
-    {
-      "id": "mkt:019e4916-67f8-7ee7-b68e-854a66b09cce",
-      "time": "2026-05-21 13:51:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "AMD TO EXPAND STRATEGIC PARTNERSHIPS, SCALE ADVANCED PACKAGING CAPABILITIES"
-    },
-    {
-      "id": "mkt:019e4916-4796-7ee7-b68e-7885150dd1cf",
-      "time": "2026-05-21 13:50:57",
-      "tags": [
-        "MKT News",
-        "Important",
-        "AMD.O",
-        "Impact bullish"
-      ],
-      "text": "AMD ANNOUNCES OVER $10B INVESTMENT IN TAIWAN ECOSYSTEM TO ACCELERATE AI INFRASTRUCTURE"
-    },
-    {
-      "id": "mkt:019e4916-00c4-7ee7-b68e-72b7ec357aa6",
-      "time": "2026-05-21 13:50:39",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "ADNOC - WHILE ADNOC CAN RAMP UP ITS OIL PRODUCTION IN A MATTER OF WEEKS, IT WILL TAKE 4 MONTHS FOR OIL FLOWS THROUGH HORMUZ TO RETURN TO 80 % OF PRE-CONFLICT LEVELS"
-    },
-    {
-      "id": "mkt:019e4915-d7dd-7ee7-b68e-6a19aab46a70",
-      "time": "2026-05-21 13:50:28",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "AMD.O",
-        "Impact bullish",
-        "TSM.O"
-      ],
-      "text": "AMD RAMPING 'VENICE' PRODUCTION IN TAIWAN ON TSMC'S ADVANCED 2NM PROCESS TECHNOLOGY AMD: HAS FUTURE PLANS TO RAMP PRODUCTION AT TSMC'S ARIZONA FAB"
-    },
-    {
-      "id": "4891913",
-      "time": "2026-05-21 13:50:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【港股科網股午後多數下挫，嗶哩嗶哩-W跌超7%】港股科網股午後多數下挫，嗶哩嗶哩-W跌超7%，百度集團-SW跌近5%，阿里巴巴-W跌超4%，騰訊控股跌超3%。"
-    },
-    {
-      "id": "4891912",
-      "time": "2026-05-21 13:50:05",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行小枝淳子：與以往相比，日本央行在運用貨幣政策應對通脹方面必須發揮更強的作用。"
-    },
-    {
-      "id": "mkt:019e4915-79ac-7ee7-b68e-61841c9668a5",
-      "time": "2026-05-21 13:50:04",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "AMD.O",
-        "Impact bullish",
-        "TSM.O"
-      ],
-      "text": "AMD WORKING WITH TSMC TO RAMP UP PRODUCTION OF NEXT-GENERATION CPU"
-    },
-    {
-      "id": "4891911",
-      "time": "2026-05-21 13:49:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "AMD還計劃將臺積電2奈米工藝技術推廣至其資料中心CPU全產品線。"
     }
   ]
 }
