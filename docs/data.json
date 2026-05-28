@@ -1,7 +1,84 @@
 {
-  "updated": "2026-05-28 13:45:10",
-  "count": 15183,
+  "updated": "2026-05-28 13:49:11",
+  "count": 15180,
   "items": [
+    {
+      "id": "4903965",
+      "time": "2026-05-28 13:47:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內漲幅達2.05%，成分股中，諾思蘭德漲10.16%，奧迪威漲7.77%，矽烷科技漲7.35%，天馬新材漲5.76%。"
+    },
+    {
+      "id": "4903964",
+      "time": "2026-05-28 13:47:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "【北證50指數漲幅擴大至2%】北證50指數漲幅擴大至2%，現報1278.98點。"
+    },
+    {
+      "id": "mkt:019e6d1e-c1ee-722b-8aca-9aae2372c2da",
+      "time": "2026-05-28 13:46:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "000063.SZ",
+        "Impact bullish",
+        "00763.HK"
+      ],
+      "text": "ZTE Corp A-shares hit the daily trading limit in mainland China; the company’s H-shares (00763.HK) rose more than 11% in Hong Kong."
+    },
+    {
+      "id": "4903963",
+      "time": "2026-05-28 13:46:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "【中興通訊觸及漲停】中興通訊觸及漲停，成交額62.74億元。"
+    },
+    {
+      "id": "4903962",
+      "time": "2026-05-28 13:45:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【智譜港股漲超10%】智譜港股漲10.74%，報1577.00港元。"
+    },
+    {
+      "id": "4903961",
+      "time": "2026-05-28 13:45:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【KKR將開設米蘭辦事處】5月28日，據報道，KKR計劃在米蘭開設辦事處，以便與當地企業和投資者開展更緊密的合作。"
+    },
+    {
+      "id": "mkt:019e6d1d-549f-722b-8aca-92deaf41e035",
+      "time": "2026-05-28 13:44:59",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "Copper"
+      ],
+      "text": "【CHINA FOREIGN MINISTER WANG YI Holds Talks With U.S. Strategic and Business Figures】On the 27th local time in New York, CHINA FOREIGN MINISTER WANG YI met with U.S. strategic and business figures while presiding over a UN Security Council high‑level meeting. Wang said the China‑U.S. leaders held a historic meeting in Beijing and engaged in candid, deep, constructive and strategic communications on major issues affecting China‑U.S. relations and world peace and development, reaching a series of important understandings. Both sides agreed to position a \"China‑U.S. constructive strategic stability relationship\" as the new orientation of bilateral ties and to work toward a relationship centered on cooperation, measured competition, controllable differences and prospective peace, jointly exploring how major powers should properly coexist in the new era. Wang stressed that \"Taiwan independence\" and peace and stability in the Taiwan Strait are mutually incompatible, and said only by upholding the One‑China principle and the spirit of the three China‑U.S. Joint Communiqués can peace in the Taiwan Strait be guaranteed and conflict avoided. He said China is willing to work with the U.S. to implement the important consensus between the two heads of state and to take concrete actions to bring the \"constructive strategic stability relationship\" into effect as soon as possible, and expressed hope that attendees would make active efforts and help build broader social consensus."
+    },
+    {
+      "id": "4903960",
+      "time": "2026-05-28 13:44:26",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【王毅同美國各界人士座談】當地時間27日，中共中央政治局委員、外交部長王毅在紐約主持聯合國安理會高階別會議期間同美國戰略和工商界人士舉行座談。王毅表示，此次來紐約主持安理會高階別會議，與會各方的一致呼聲就是重溫憲章初心，重振聯合國權威，踐行多邊主義。重振聯合國首要是重振安理會，關鍵是常任理事國之間能夠協調合作，其中中美關係的走向至關重要。事實證明，中美關係超越雙邊範疇，影響世界和平，關乎人類命運。實現中美關係健康、穩定、可持續發展，是國際社會的共同期待，也是中美兩國應當承擔的使命。(新華社)"
+    },
     {
       "id": "mkt:019e6d1b-b623-722b-8aca-89c9c5f1e666",
       "time": "2026-05-28 13:43:10",
@@ -136270,114 +136347,6 @@
         "其他"
       ],
       "text": "AMD還計劃將臺積電2奈米工藝技術推廣至其資料中心CPU全產品線。"
-    },
-    {
-      "id": "4891910",
-      "time": "2026-05-21 13:49:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內跌1%，現報1361.66美元/盎司。"
-    },
-    {
-      "id": "4891909",
-      "time": "2026-05-21 13:48:52",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4520美元/盎司，日內跌0.52%。"
-    },
-    {
-      "id": "4891908",
-      "time": "2026-05-21 13:47:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "阿布扎比國家石油公司（ADNOC）：上游投資每年約為4000億美元，勉強能夠抵消自然遞減率。"
-    },
-    {
-      "id": "4891907",
-      "time": "2026-05-21 13:47:23",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超2.5萬億元，較上日此時放量1310億元。"
-    },
-    {
-      "id": "4891906",
-      "time": "2026-05-21 13:46:56",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行小枝在被問及6月份關於縮減債券購買規模的決定時表示，希望考慮金融參與者的意見。"
-    },
-    {
-      "id": "4891905",
-      "time": "2026-05-21 13:46:30",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "小枝淳子：日本央行需要繼續推進資產負債表正常化。"
-    },
-    {
-      "id": "em:qqyh_rbyh:202605213744829680",
-      "time": "2026-05-21 13:46:00",
-      "tags": [
-        "央行",
-        "日本央行"
-      ],
-      "text": "日本央行審議委員小枝淳子稱，價格風險大於經濟下行風險。以合適的速度加息是適宜之舉。"
-    },
-    {
-      "id": "mkt:019e4911-7258-7ee7-b68e-5e782a7fd1cb",
-      "time": "2026-05-21 13:45:40",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "ADNOC - WITH OIL DEMAND SET TO REMAIN ABOVE 100 MLN BPD, OPPORTUNITIES EXIST FOR UAE TO SUPPLY LOW-COST, LOW-CARBON ENERGY IN NEW MARKETS FOLLOWING OPEC EXIT"
-    },
-    {
-      "id": "mkt:019e4911-5a50-7ee7-b68e-54eb74fef5b7",
-      "time": "2026-05-21 13:45:34",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "ADNOC - ADNOC IS INVESTING $150BN TO POWER GLOBAL ENERGY DEMAND, INCLUDING DOMESTIC GROWTH IN AI, ADVANCED MANUFACTURING, LOGISTICS AND INDUSTRY"
-    },
-    {
-      "id": "mkt:019e4911-3f18-7ee7-b68e-4cef1447bc6b",
-      "time": "2026-05-21 13:45:27",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bearish"
-      ],
-      "text": "HANG SENG TECH INDEX DOWN OVER 1%"
-    },
-    {
-      "id": "4891904",
-      "time": "2026-05-21 13:45:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "阿布扎比國家石油公司（ADNOC）：將投資1500億美元，以滿足全球能源需求，同時推動人工智慧、先進製造、物流與工業領域的國內增長。"
     }
   ]
 }
