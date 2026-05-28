@@ -1,7 +1,127 @@
 {
-  "updated": "2026-05-28 10:27:30",
-  "count": 14998,
+  "updated": "2026-05-28 10:31:21",
+  "count": 15000,
   "items": [
+    {
+      "id": "mkt:019e6c6b-893b-7666-9cf1-fefcd063658c",
+      "time": "2026-05-28 10:30:47",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Futu, Changqiao Close Accounts Opened With Falsified Documents And Zero-Asset Dormant Accounts】Recently, Futu and Changqiao carried out a cleanup of accounts opened using falsified supporting documents and of empty accounts with no assets or positions, and closed both categories of accounts. At the same time, the Futu NiuNiu app added an \"Update Identity Information\" quick-access entry under the \"Account\" tab and issued an accompanying \"About Updating Identity Information\" notice, advising clients that if they hold qualifying overseas identity documents, once the information update is completed their account trading, funds deposits and withdrawals and other services and functions will not be affected."
+    },
+    {
+      "id": "4903652",
+      "time": "2026-05-28 10:30:45",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【液冷伺服器概念震盪走強 奕東電子20cm漲停】液冷伺服器概念盤中震盪走強，奕東電子20cm漲停，此前大元泵業、冰山冷熱漲停，光弘科技、鼎通科技、冰輪環境、博傑股份跟漲。"
+    },
+    {
+      "id": "4903651",
+      "time": "2026-05-28 10:29:49",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【雙匯致歉】5月28日，河南雙匯投資發展股份有限公司釋出致歉宣告稱：近日，黑龍江省市場監督管理局公示望奎雙匯北大荒食品有限公司豬後鞧肉林可需素殘留超標。對於此次事件給廣大消費者和社會公眾帶來的困擾，我們深表歉意！公司第一時間成立專項工作組，趕赴望奎雙匯北大荒食品有限公司，配合政府部門進行全面排查。“下一步，公司將在雙匯發展下屬各個生豬屠宰廠加強源頭控制，加大檢測頻次，完善全鏈條溯源管理，歡迎社會各界監督。”"
+    },
+    {
+      "id": "4903650",
+      "time": "2026-05-28 10:29:25",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "芝加哥聯儲行長古爾斯比：對未來生產率增長的預期越高，美國及其他國家可能就越需要提高利率。"
+    },
+    {
+      "id": "4903649",
+      "time": "2026-05-28 10:29:07",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【小摩：上調聯邦快遞目標價至460美元，近期有兩大催化劑】摩根大通將聯邦快遞的目標價從432美元上調至460美元，評級由“中性”上調至“增持”。分析師Brian Ossenbeck指出，聯邦快遞計劃於6月1日分拆旗下貨運業務，以及定於6月23日公佈的第四財季業績，是兩大近期催化劑。該行對公司持續推進的重組工作愈發充滿信心。"
+    },
+    {
+      "id": "mkt:019e6c6a-36a9-7666-9cf1-f072d0dae46b",
+      "time": "2026-05-28 10:28:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BOK GOV SHIN said the expanded range of the dot plot reflects heightened uncertainty."
+    },
+    {
+      "id": "4903648",
+      "time": "2026-05-28 10:28:26",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "申鉉松：韓國央行點陣圖區間擴大反映不確定性處於高位。"
+    },
+    {
+      "id": "4903647",
+      "time": "2026-05-28 10:28:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "木原稔：過渡性債券一直被用於專案投資。"
+    },
+    {
+      "id": "4903646",
+      "time": "2026-05-28 10:27:35",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【富途、長橋清理虛假證明材料開戶和空賬戶】在中國證監會封堵非法跨境證券業務後，記者獲悉，近日富途、長橋均已對使用虛假證明材料開戶的賬戶、無資產和持倉的空賬戶開展清理，對兩類賬戶進行銷戶處理。同時，記者注意到，富途牛牛APP在“賬戶”欄新增了一項“更新身份資訊”快捷入口，並配套一份“關於更新身份資訊的說明”，提示客戶若持有符合要求的境外身份證明，資訊更新完成後，賬戶交易、資金存取等各項業務與功能均不受任何影響。(第一財經)"
+    },
+    {
+      "id": "4903645",
+      "time": "2026-05-28 10:27:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【煤炭板塊震盪走高 昊華能源漲超7%】煤炭板塊震盪走高，昊華能源漲超7%，新集能源、雲煤能源、潞安環能、盤江股份等漲幅居前。"
+    },
+    {
+      "id": "4903644",
+      "time": "2026-05-28 10:27:15",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "受韓國央行行長講話影響，韓國3年期國債期貨小幅走低。"
+    },
+    {
+      "id": "mkt:019e6c68-fc55-7666-9cf1-eac670c43ef0",
+      "time": "2026-05-28 10:26:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BOK GOV SHIN said that, taking into account the exchange rate, economic growth and inf, the policy path is very clear and will tighten going forward."
+    },
+    {
+      "id": "mkt:019e6c68-ade0-7666-9cf1-e3ced3445206",
+      "time": "2026-05-28 10:26:39",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Market Regions",
+        "Greater China",
+        "03690.HK",
+        "Impact bearish",
+        "00020.HK",
+        "00700.HK"
+      ],
+      "text": "Hong Kong technology and internet stocks fell, with Meituan (03690.HK) down 5.6%, SenseTime (00020.HK) down more than 4%, Baidu (09888.HK) and Bilibili (09626.HK) down 3%, Alibaba (09988.HK) down 2.8%, and Tencent Holdings (00700.HK) and JD.com (09618.HK) down more than 2%."
+    },
     {
       "id": "4903643",
       "time": "2026-05-28 10:26:19",
@@ -134566,117 +134686,6 @@
         "市場"
       ],
       "text": "日經225指數早盤收盤上漲3.6%，至61945.34點。"
-    },
-    {
-      "id": "mkt:019e485f-6b70-777f-8614-f3717a2306e8",
-      "time": "2026-05-21 10:31:13",
-      "tags": [
-        "MKT News",
-        "SSE Composite",
-        "SZSE Component"
-      ],
-      "text": "TURNOVER ON SSE AND SZSE EXCEEDED RMB 1.5 TRLN, UP RMB 99 BLN FROM SAME TIME PREVIOUS SESSION"
-    },
-    {
-      "id": "te:economy:552523",
-      "time": "2026-05-21 10:30:26",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Inflation Expectations",
-        "Importance 1"
-      ],
-      "text": "Australia Inflation Expectations Ease Slightly — Australia’s consumer inflation expectations fell to 5.6% in May 2026 from April’s more than three-year high of 5.9%. Still, concerns over stubborn price pressures persisted after a Reserve Bank official warned that the recent surge in oil prices amid the Iran conflict posed a challenge and risked lifting inflation expectations further. Meanwhile, minutes from the RBA’s May meeting showed policymakers expect underlying inflation to remain above 3% until late 2027, only returning to the midpoint of the 2–3% target range by mid-2028. Earlier data also highlighted lingering inflationary pressures, with Australia’s annual inflation rate accelerating to 4.6% in March, the highest since September 2023 and well above the central bank’s target band. The RBA in May delivered the third rate hikes, bringing borrowing costs to 4.35%, the highest level since January 2025."
-    },
-    {
-      "id": "4891677",
-      "time": "2026-05-21 10:30:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "【司法部：對食品藥品、安全生產等領域堅持最嚴的標準和要求】5月21日，司法部副部長鬍衛列在國新辦新聞釋出會上表示，在規範涉企行政執法專項行動過程當中，司法部始終強調：規範涉企檢查，規範的是亂檢查，而不是要求檢查越少越好，更不是不檢查，而是要嚴格依法檢查。對食品藥品、安全生產等與群眾生命健康、財產安全密切相關的領域，要堅持最嚴的標準和要求，實行最有力的監管。"
-    },
-    {
-      "id": "4891676",
-      "time": "2026-05-21 10:30:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【美銀證券：上調招商證券目標價至16.6港元 評級升至“買入” 】美銀證券釋出研報稱，將招商證券(06099)評級由“跑輸大市”升兩級至“買入”，以反映A股交投上升帶來盈利上行空間，以及第二至第四季潛在 IPO 相關的投資收益。該行對招商證券的H股目標價由15.3港元升至16.6港元，以反映2026年每股盈利預測上調16%至1.68元人民幣，以及中期股本回報率預期由8%升至8.8%，並認為近期管理層變動及長鑫儲存 IPO 訊息將是短期催化劑，而自第一季末以來“國家隊”的資金流出放緩亦應有助股價上行。"
-    },
-    {
-      "id": "4891675",
-      "time": "2026-05-21 10:29:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超1.5萬億元，較上日此時放量990億元。"
-    },
-    {
-      "id": "mkt:019e485d-ac8e-777f-8614-e8568dd6babd",
-      "time": "2026-05-21 10:29:19",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite",
-        "Hang Seng Index"
-      ],
-      "text": "CHINA'S STAR 50 INDEX UP OVER 3%"
-    },
-    {
-      "id": "4891674",
-      "time": "2026-05-21 10:29:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "澳元兌美元延續跌勢，最新下跌0.58%，報0.7111。"
-    },
-    {
-      "id": "te:markets:552522",
-      "time": "2026-05-21 10:29:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "New Zealand Dollar Holds Gains — The New Zealand dollar held its recent advance at around $0.586 after President Donald Trump again said that the conflict with Iran would conclude “very quickly,” reviving hopes for a peace deal. Further supporting the currency, data released today showed New Zealand’s trade surplus widened to a record high in April, well above expectations, driven by strong export growth. This signaled resilient external demand despite ongoing geopolitical uncertainty. However, recent indicators point to a softening in domestic economic momentum. The Reserve Bank of New Zealand has maintained a cautious stance on policy tightening, given the economy has only recently emerged from recession and still has significant spare capacity. Still, market pricing suggests around a 30% chance of a rate increase later this month and a 90% probability in July, amid inflation concerns due to elevated oil prices."
-    },
-    {
-      "id": "4891673",
-      "time": "2026-05-21 10:28:55",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【光刻機板塊短線拉昇】光刻機板塊短線拉昇，美迪凱漲超10%，波長光電、洪田股份、富樂德、百傲化學、茂萊光學等跟漲。"
-    },
-    {
-      "id": "4891672",
-      "time": "2026-05-21 10:28:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "【德國政府釋出“高科技議程”路線圖】德國政府20日正式釋出“德國高科技議程”詳細路線圖，明確了關乎德國經濟實力、競爭力和技術主權的關鍵技術發展方向。本次釋出的路線圖為六大關鍵技術設定了具體發展路徑和目標。例如，在量子技術領域，德國計劃到2030年研發出兩臺達到歐洲頂尖水平的糾錯量子計算機；在生物技術領域，目標是到2028年批准首個mRNA癌症免疫療法；在人工智慧領域，德國計劃到2030年實現本國10%的經濟產出基於人工智慧。根據該議程，德國還計劃持續加大在航空航天、健康、安全與國防等五大戰略研究領域的投入。"
-    },
-    {
-      "id": "te:economy:552521",
-      "time": "2026-05-21 10:27:55",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "US 10-Year Yield Holds Decline — The yield on the 10-year US Treasury note remained below 4.6% on Thursday after falling sharply in the previous session, as hopes for an imminent peace agreement between the US and Iran allayed inflation and rate hike fears. President Donald Trump said the US was in the final stages of negotiations with Iran, fueling hopes that the strategically important Strait of Hormuz could soon reopen. The prospect of renewed shipping flows triggered a steep decline in oil prices, helping to moderate inflationary pressures and lowering expectations that central banks will need to tighten monetary policy further. Still, minutes from the Federal Reserve’s latest policy meeting showed that most policymakers believe another rate increase this year could remain appropriate if inflation stays above the Fed’s 2% target. Markets continue to broadly expect the Fed to keep rates unchanged through the rest of the year, although traders currently see roughly a 50% chance of a rate hike in December."
     }
   ]
 }
