@@ -1,7 +1,100 @@
 {
-  "updated": "2026-05-28 11:32:29",
-  "count": 15068,
+  "updated": "2026-05-28 11:36:20",
+  "count": 15076,
   "items": [
+    {
+      "id": "mkt:019e6ca6-adb3-7777-9192-2c82a5e8558a",
+      "time": "2026-05-28 11:35:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "New York silver futures fell 3.00% intraday and were trading at $72.63 per troy ounce."
+    },
+    {
+      "id": "4903777",
+      "time": "2026-05-28 11:35:20",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4380美元/盎司，日內跌1.74%。"
+    },
+    {
+      "id": "4903776",
+      "time": "2026-05-28 11:35:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破92美元/桶，日內漲3.74%。"
+    },
+    {
+      "id": "4903775",
+      "time": "2026-05-28 11:34:59",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4410美元/盎司，日內跌1.61%。"
+    },
+    {
+      "id": "4903774",
+      "time": "2026-05-28 11:34:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【惠康科技：醫用製冰機產品進入小批次試製階段】惠康科技5月28日在互動平臺表示，公司正積極開發醫用製冰機產品並已進入小批次試製階段。"
+    },
+    {
+      "id": "4903773",
+      "time": "2026-05-28 11:33:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "【午評：創業板指探底回升漲0.21%，MLCC、培育鑽石、玻纖等概念走強】5月28日，A股三大指數早盤漲跌不一，截至午間收盤，上證指數跌0.14%，深證成指跌0.26%，創業板指漲0.21%；北證50漲0.35%。滬深兩市成交額約17842.15億元，較前一個交易日縮量約2853.73億元。截至午盤，全市場2082只股票上漲、3287只股票下跌，其中85只漲停、9只跌停。"
+    },
+    {
+      "id": "te:markets:554279",
+      "time": "2026-05-28 11:32:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "European Gas Prices Rise — European natural gas futures rose to around €47.1 per megawatt hour, recouping part of the previous session’s losses amid continued lack of any concrete resolution to the Middle East conflict despite recent optimism. Iranian media reported progress on a draft deal aimed at ending the war, though the White House later dismissed the claim as “a complete fabrication.” An agreement between the two sides could pave the way for the reopening of the Strait of Hormuz, which has remained largely closed for three months now. Continued disruption has heightened concerns that Europe may face difficulties replenishing inventories ahead of winter, with current storage levels at around 38%, well below the five-year average of more than 50% for this period. Adding to demand-side pressures, Europe is experiencing its first major heatwave of the season, with record temperatures forecast in cities such as London, Paris, and Madrid."
+    },
+    {
+      "id": "4903772",
+      "time": "2026-05-28 11:32:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "韓元跌幅擴大至0.7%，領跌新興市場亞洲貨幣。"
+    },
+    {
+      "id": "mkt:019e6ca3-efb4-7ff1-8684-257443a0ca7a",
+      "time": "2026-05-28 11:32:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "JAPAN'S NIKKEI INDEX extended losses, last at 64,571.54, down 0.66%."
+    },
+    {
+      "id": "4903771",
+      "time": "2026-05-28 11:31:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【福布斯2026全球最佳創投人：中國投資人上榜10人，沈南鵬全球第二】5月27日，《福布斯》雜誌公佈2026年全球最佳創投人榜單（Midas List）。在今年上榜的投資人中，有中國背景或長期在中國投資的華人投資人有10位。紅杉中國創始及執行合夥人沈南鵬位列全球第二；前50名中，還有Monolith礪思資本的曹曦（38名）、真格基金的方愛之（41名）和順為資本的許達來（48名）。"
+    },
     {
       "id": "mkt:019e6ca3-56ad-700d-8f67-4bd06164db63",
       "time": "2026-05-28 11:31:43",
@@ -135319,23 +135412,6 @@
         "公司"
       ],
       "text": "【阿里股東信釋放訊號 即時零售已成為淘寶天貓核心戰略支柱】阿里巴巴集團主席蔡崇信與執行長吳泳銘5月20日聯合釋出致股東信。信中稱，即時零售已成為淘寶和天貓平臺升級的核心戰略支柱。“我們看到即時零售在利用AI驅動獲取新使用者、增強使用者粘性、滿足多元消費需求、提升交易量和商業化水平的戰略意義。”"
-    },
-    {
-      "id": "4891766",
-      "time": "2026-05-21 11:35:00",
-      "tags": [
-        "焦點"
-      ],
-      "text": "【國家能源局：截至4月底我國電動汽車充電基礎設施（槍）總數達到2195.5萬個 同比增長47.4%】5月21日，國家能源局釋出2026年4月全國電動汽車充電設施資料。根據國家充電設施監測服務平臺資料，截至2026年4月底，我國電動汽車充電基礎設施（槍）總數達到2195.5萬個，同比增長47.4%。其中，公共充電設施（槍）490.7萬個，同比增長29.6%，公共充電樁額定總功率達到2.37億千瓦，平均功率約為48.38千瓦；私人充電設施（槍）1704.8萬個，同比增長53.5%，私人充電設施報裝用電容量達到1.49億千伏安。"
-    },
-    {
-      "id": "4891765",
-      "time": "2026-05-21 11:34:23",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印度10年期國債收益率下跌5個基點至7.03%。"
     }
   ]
 }
