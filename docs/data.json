@@ -1,7 +1,27 @@
 {
-  "updated": "2026-05-29 01:32:42",
-  "count": 15202,
+  "updated": "2026-05-29 01:36:32",
+  "count": 15201,
   "items": [
+    {
+      "id": "te:markets:554591",
+      "time": "2026-05-29 01:34:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Danaher Stock Price Hits 4-week High — Danaher shares increased to 179.93 USD, the highest since April 2026. Over the past 4 weeks, Danaher gained 0.51%, and in the last 12 months, it decreased 5.64%."
+    },
+    {
+      "id": "4905403",
+      "time": "2026-05-29 01:34:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "薩克拉門託發起宣傳活動，爭取美國職業棒球大聯盟擴軍落戶。"
+    },
     {
       "id": "4905402",
       "time": "2026-05-29 01:31:12",
@@ -136805,33 +136825,6 @@
         "USDJPY"
       ],
       "text": "US DOLLAR INDEX PARES EARLIER GAINS ON RUMORS OF FINAL DRAFT US IRAN AGREEMENT, LAST UP 0.08% AT 99.22 STERLING FLAT AT $1.3434 EURO DOWN 0.09% AT $1.1614 DOLLAR/YEN UP 0.05% AT 158.99"
-    },
-    {
-      "id": "4893521",
-      "time": "2026-05-22 01:36:31",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "受伊朗最終核協議的市場報道影響，美國30年期國債收益率<US30YT=RR>走低，最新報5.101%。"
-    },
-    {
-      "id": "4893520",
-      "time": "2026-05-22 01:36:18",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "受伊朗最終核協議的市場報道影響，10年期美國國債收益率走低，最新報4.569%。"
-    },
-    {
-      "id": "4893519",
-      "time": "2026-05-22 01:36:08",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "受伊朗最終協議草案相關報道影響，兩年期美國國債收益率逼近盤中低點，最新報4.061%。"
     }
   ]
 }
