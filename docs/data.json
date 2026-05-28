@@ -1,7 +1,189 @@
 {
-  "updated": "2026-05-28 09:30:00",
-  "count": 14921,
+  "updated": "2026-05-28 09:33:52",
+  "count": 14910,
   "items": [
+    {
+      "id": "4903505",
+      "time": "2026-05-28 09:32:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "【兆易創新盤中跌超5%】兆易創新盤中跌5.29%，現報489.89元。"
+    },
+    {
+      "id": "4903504",
+      "time": "2026-05-28 09:32:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "【電力板塊短線拉昇，粵電力A漲停】電力板塊短線拉昇，粵電力A漲停，甘肅能源、華能蒙電、穗恆運A、長源電力、華能國際等紛紛走高。"
+    },
+    {
+      "id": "4903503",
+      "time": "2026-05-28 09:32:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "長和<0001.HK>股價漲幅超3%。"
+    },
+    {
+      "id": "4903502",
+      "time": "2026-05-28 09:32:36",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行：有必要繼續關注匯率高波動問題。"
+    },
+    {
+      "id": "4903501",
+      "time": "2026-05-28 09:32:27",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行：將評估通脹壓力上升幅度、國內經濟改善趨勢以及金融穩定狀況。"
+    },
+    {
+      "id": "mkt:019e6c36-696f-788f-b184-7c2491bbd9c0",
+      "time": "2026-05-28 09:32:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BOK: Monetary Policy Board member Chang Yong-Sung dissented on Thursday's interest-rate decision."
+    },
+    {
+      "id": "4903500",
+      "time": "2026-05-28 09:31:59",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行：加息時機將由貨幣政策委員會決定。"
+    },
+    {
+      "id": "4903499",
+      "time": "2026-05-28 09:31:52",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行：預計六個月內將政策利率上調兩次至3.25%。"
+    },
+    {
+      "id": "mkt:019e6c35-cabc-788f-b184-72fe5d6e188d",
+      "time": "2026-05-28 09:31:52",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "BOK BOARD member Ryoo Sang-Dai dissented on Thursday's interest-rate decision."
+    },
+    {
+      "id": "4903498",
+      "time": "2026-05-28 09:31:45",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行：7名成員中有2人支援加息。"
+    },
+    {
+      "id": "4903497",
+      "time": "2026-05-28 09:31:24",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行委員會成員對未來六個月政策利率的21個預測值中，有2個預期為2.50%"
+    },
+    {
+      "id": "4903496",
+      "time": "2026-05-28 09:31:15",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行貨幣政策委員會委員給出的21個未來六個月政策利率預測中，有10個預測值為3.00%。"
+    },
+    {
+      "id": "4903495",
+      "time": "2026-05-28 09:30:59",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行：委員柳相燾對週四的利率決定持異議。"
+    },
+    {
+      "id": "4903494",
+      "time": "2026-05-28 09:30:55",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行：今天的利率決議並非一致透過。"
+    },
+    {
+      "id": "mkt:019e6c34-8f39-788f-b184-6c4568259960",
+      "time": "2026-05-28 09:30:38",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact bullish"
+      ],
+      "text": "Australia Q1 private new capital expenditure rose 6.5% QoQ; expected +1.0%, prior +0.40%."
+    },
+    {
+      "id": "4903493",
+      "time": "2026-05-28 09:30:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞4月份家庭支出同比增長4.9%，環比下降1.1%。"
+    },
+    {
+      "id": "mkt:019e6c34-4e9b-788f-b184-63b71e9c1f9f",
+      "time": "2026-05-28 09:30:27",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | Private New Capital Expenditure (QoQ) (Q1) | actual 6.5% | consensus 1% | previous 0.40%"
+    },
+    {
+      "id": "4903492",
+      "time": "2026-05-28 09:30:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞一季度私人新增資本支出季環比 6.5%，預期 1%，前值 0.4%。"
+    },
+    {
+      "id": "4903491",
+      "time": "2026-05-28 09:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨開盤】 30年期主力合約漲0.14%， 10年期主力合約漲0.06%， 5年期主力合約漲0.05%， 2年期主力合約漲0.01%。"
+    },
+    {
+      "id": "4903490",
+      "time": "2026-05-28 09:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續漲0.17%， 滬深300指數期貨連續跌0.07%， 中證500指數期貨連續跌0.02%， 上證50指數期貨連續跌0.14%。"
+    },
+    {
+      "id": "4903489",
+      "time": "2026-05-28 09:29:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國政府當地時間27日將伊朗新設立的“波斯灣海峽管理局”列入制裁名單。（新華社）"
+    },
     {
       "id": "4903488",
       "time": "2026-05-28 09:28:49",
@@ -133688,316 +133870,6 @@
         "MKT News"
       ],
       "text": "BOJ KOEDA: IF REAL INTEREST RATES CONTINUE TO DEVIATE MARKEDLY IN A NEGATIVE DIRECTION FROM THE NATURAL RATE OF INTEREST, UNINTENDED DISTORTIONS COULD ARISE IN FUTURE RESOURCE ALLOCATION"
-    },
-    {
-      "id": "mkt:019e482a-e88d-7aa9-8523-8c256c224382",
-      "time": "2026-05-21 09:33:47",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish",
-        "Nikkei 225"
-      ],
-      "text": "BOJ KOEDA: IT IS REASONABLE FOR BOJ TO RAISE THE POLICY INTEREST RATE AT AN APPROPRIATE PACE TO ADDRESS HIGH INFLATION WHILE ALSO CONSIDERING THE TRADE-OFFS FOR THE ECONOMY"
-    },
-    {
-      "id": "mkt:019e482a-c281-7aa9-8523-844b1190d073",
-      "time": "2026-05-21 09:33:41",
-      "tags": [
-        "MKT News",
-        "Macro & Rates"
-      ],
-      "text": "BOJ KOEDA: BOJ NEEDS TO CONTINUE EXAMINING THE EXTENT TO WHICH UNDERLYING INFLATION IS ANCHORED"
-    },
-    {
-      "id": "4891575",
-      "time": "2026-05-21 09:33:39",
-      "tags": [
-        "市場"
-      ],
-      "text": "【證券板塊盤初拉昇，華安證券漲超9%】證券板塊盤初拉昇，華安證券漲超9%，國元證券漲超5%，招商證券、廣發證券等跟漲。"
-    },
-    {
-      "id": "4891574",
-      "time": "2026-05-21 09:33:32",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行審議委員小枝淳子：日本央行以適當的速度提高政策利率以應對高通脹是合理的，同時也要考慮到對經濟的權衡取捨。"
-    },
-    {
-      "id": "4891573",
-      "time": "2026-05-21 09:33:15",
-      "tags": [
-        "市場"
-      ],
-      "text": "【CPU概念盤初活躍 禾盛新材漲停】CPU概念盤初活躍，禾盛新材漲停，中國長城、瀾起科技、萬通發展、海光資訊、龍芯中科跟漲。"
-    },
-    {
-      "id": "mkt:019e482a-576c-7aa9-8523-7ff48f364e4f",
-      "time": "2026-05-21 09:33:02",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish",
-        "SZSE Component",
-        "Hang Seng Index"
-      ],
-      "text": "CHINA STAR 50 INDEX EXTENDS GAINS TO 2%"
-    },
-    {
-      "id": "mkt:019e482a-4726-7aa9-8523-73c973489be8",
-      "time": "2026-05-21 09:32:54",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish",
-        "DXY",
-        "Nikkei 225",
-        "Impact mixed"
-      ],
-      "text": "BOJ KOEDA: BOTH SURVEY- AND MARKET-BASED INDICATORS OF LONG-TERM INFLATION EXPECTATIONS HAVE ALREADY INCREASED SLIGHTLY, WHICH WARRANTS ATTENTION"
-    },
-    {
-      "id": "4891572",
-      "time": "2026-05-21 09:32:41",
-      "tags": [
-        "市場"
-      ],
-      "text": "澳大利亞3年期國債收益率下跌13個基點。"
-    },
-    {
-      "id": "mkt:019e4829-d3ca-7aa9-8523-6fa4b231cc71",
-      "time": "2026-05-21 09:32:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "BOJ KOEDA: CONSIDERING SUCH SUPPLY AND DEMAND CONTEXTS, PRICES COULD CONTINUE TO INCREASE ACROSS A WIDER RANGE OF ITEMS DOWN THE ROAD"
-    },
-    {
-      "id": "4891571",
-      "time": "2026-05-21 09:32:23",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行審議委員：過去一兩個月的走勢可能提升了高油價持續這一風險情景發生的機率。"
-    },
-    {
-      "id": "mkt:019e4829-a2a9-7aa9-8523-613bb08fe6ec",
-      "time": "2026-05-21 09:32:19",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "DXY",
-        "USDJPY"
-      ],
-      "text": "BOJ KOEDA: DEVELOPMENTS OVER THE PAST MONTH OR TWO MAY HAVE INCREASED THE LIKELIHOOD OF A RISK SCENARIO IN WHICH HIGH CRUDE OIL PRICES PERSIST"
-    },
-    {
-      "id": "te:markets:552496",
-      "time": "2026-05-21 09:32:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "South Korea",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "South Korean Shares Rebound on US-Iran Deal Hopes — The benchmark KOSPI surged over 6% to around 7,680 on Thursday, rebounding sharply from the previous session as investor sentiment improved on easing geopolitical concerns and strong momentum in the semiconductor sector. US President Donald Trump said negotiations with Iran were in the “final stages,” helping ease concerns over disruptions in the Middle East and cooling oil prices from recent highs. At the same time, technology shares led the rally amid sustained optimism surrounding AI-related chip demand and robust export growth. Heavyweight Samsung Electronics jumped 6.0%, while SK Hynix advanced 7.9%. Samsung Electronics also reached a tentative wage agreement with its labor union, averting a planned strike that had raised concerns over disruptions to global chip supply chains. Notable gains were also seen in Hyundai Motor (7.3%), SK Square (8.1%), LG Energy Solution (3.6%), Samsung Electro-Mechanics (10.3%), Doosan Enerbility (6.8%), and Kia Corporation (9.5%)."
-    },
-    {
-      "id": "4891570",
-      "time": "2026-05-21 09:32:07",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達10億港元。"
-    },
-    {
-      "id": "4891569",
-      "time": "2026-05-21 09:32:03",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行審議委員小枝淳子：日本央行需要根據經濟活動、物價走勢以及金融形勢繼續上調政策利率。"
-    },
-    {
-      "id": "mkt:019e4829-5687-7aa9-8523-5ff79bf728d3",
-      "time": "2026-05-21 09:31:50",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "DXY",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "BANK OF JAPAN BOARD MEMBER KOEDA: UNDERLYING INFLATION IS ALREADY AROUND 2% BOJ KOEDA: BOJ NEEDS TO CONTINUE TO RAISE THE POLICY INTEREST RATE IN RESPONSE TO DEVELOPMENTS IN ECONOMIC ACTIVITY AND PRICES AS WELL AS FINANCIAL CONDITIONS"
-    },
-    {
-      "id": "4891568",
-      "time": "2026-05-21 09:31:33",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行審議委員小枝淳子：核心通脹已經處於2%左右水平。"
-    },
-    {
-      "id": "4891567",
-      "time": "2026-05-21 09:31:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內漲幅達2.04%，成分股中，XD思特威漲9.89%，瀾起科技漲6.72%，海光資訊漲5.03%，滬矽產業漲4.54%。"
-    },
-    {
-      "id": "4891566",
-      "time": "2026-05-21 09:30:40",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4570美元/盎司，日內漲0.77%。"
-    },
-    {
-      "id": "4891565",
-      "time": "2026-05-21 09:30:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "【科創50指數漲幅擴大至2%】科創50指數漲幅擴大至2%，現報1869.24點。"
-    },
-    {
-      "id": "mkt:019e4828-1763-7aa9-8523-5615d0940919",
-      "time": "2026-05-21 09:30:34",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Australia | Part-Time Employment (Apr) | actual -7900K | previous -34600K"
-    },
-    {
-      "id": "4891564",
-      "time": "2026-05-21 09:30:33",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "北證50日內漲幅達1.45%，成分股中，戈碧迦漲20.94%，民士達漲2.82%，天馬新材漲2.53%，華嶺股份漲2.32%。"
-    },
-    {
-      "id": "mkt:019e4827-f3d9-7aa9-8523-4cd65744af35",
-      "time": "2026-05-21 09:30:31",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "SZSE Component",
-        "Impact bullish"
-      ],
-      "text": "SHENZHEN COMPONENT INDEX UP OVER 1%"
-    },
-    {
-      "id": "4891563",
-      "time": "2026-05-21 09:30:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "澳大利亞4月季調後失業率 4.5%，預期4.30%，前值4.30%。"
-    },
-    {
-      "id": "4891562",
-      "time": "2026-05-21 09:30:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "澳大利亞4月份就業人數下降18,600人；預估15,000。"
-    },
-    {
-      "id": "4891561",
-      "time": "2026-05-21 09:30:05",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "深證成指漲1.01%，現報15727.540點；上證指數漲0.34%，現報4176.246點；創業板指漲1.04%，現報3962.630點。"
-    },
-    {
-      "id": "4891560",
-      "time": "2026-05-21 09:30:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續漲0.95%， 滬深300指數期貨連續漲0.70%， 中證500指數期貨連續漲1.10%， 上證50指數期貨連續漲0.57%。"
-    },
-    {
-      "id": "4891559",
-      "time": "2026-05-21 09:30:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國債期貨開盤】 30年期主力合約漲0.10%， 10年期主力合約漲0.02%， 5年期主力合約基本持平， 2年期主力合約基本持平。"
-    },
-    {
-      "id": "4891558",
-      "time": "2026-05-21 09:30:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內漲幅達1.87%，成分股中，XD思特威漲13.44%，瀾起科技漲6.80%，海光資訊漲5.23%，龍芯中科漲3.86%。"
-    },
-    {
-      "id": "mkt:019e4827-61b2-7aa9-8523-4559f0a68219",
-      "time": "2026-05-21 09:30:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Australia | Labour Force Participation Rate SA (Apr) | actual 66.7% | consensus 66.80% | previous 66.80%"
-    },
-    {
-      "id": "mkt:019e4827-6127-7aa9-8523-33791e95fd64",
-      "time": "2026-05-21 09:30:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Australia | Unemployment Rate SA (Apr) | actual 4.5% | consensus 4.30% | previous 4.30%"
-    },
-    {
-      "id": "mkt:019e4827-614e-7aa9-8523-3ec1e2cae165",
-      "time": "2026-05-21 09:30:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Australia | Full-Time Employment (Apr) | actual -10700K | previous 52500K"
-    },
-    {
-      "id": "mkt:019e4827-6117-7aa9-8523-2d5fe36dd70c",
-      "time": "2026-05-21 09:30:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Australia | Employment (Apr) | actual -18600K | consensus 15000K | previous 17900K"
     }
   ]
 }
