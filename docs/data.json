@@ -1,7 +1,224 @@
 {
-  "updated": "2026-05-28 09:22:11",
-  "count": 14903,
+  "updated": "2026-05-28 09:26:07",
+  "count": 14919,
   "items": [
+    {
+      "id": "4903483",
+      "time": "2026-05-28 09:25:14",
+      "tags": [
+        "焦點"
+      ],
+      "text": "三大股指低開，滬指跌0.33％，深成指跌0.29％，創業板跌0.09％。"
+    },
+    {
+      "id": "4903482",
+      "time": "2026-05-28 09:24:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "據韓聯社訊息，韓國前總統尹錫悅涉嫌在前國務總理韓德洙涉內亂案件庭審中作偽證一案28日一審被判無罪。（新華社）"
+    },
+    {
+      "id": "mkt:019e6c2e-375f-788f-b184-424ac83d10b3",
+      "time": "2026-05-28 09:23:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "The US Treasury Department's website said the United States has imposed a new round of Iran-related sanctions, adding the Persian Gulf Strait Administration to the Specially Designated Nationals and Blocked Persons (SDN) list."
+    },
+    {
+      "id": "mkt:019e6c2e-2303-788f-b184-3a7dd0c9a8ae",
+      "time": "2026-05-28 09:23:41",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH"
+      ],
+      "text": "【PBOC 7-Day Reverse Repo Nets 1.3 Billion Yuan Today】The PBOC conducted 101.3 bln yuan of 7-day reverse repo operations today; because 100.0 bln yuan of 7-day reverse repos matured today, the net injection was 1.3 bln yuan. To view open-market funding flows, see Database - PBOC Data."
+    },
+    {
+      "id": "mkt:019e6c2d-fd80-788f-b184-320efaf7de62",
+      "time": "2026-05-28 09:23:30",
+      "tags": [
+        "MKT News",
+        "09992.HK",
+        "Impact bullish"
+      ],
+      "text": "Pop Mart International Group (09992.HK) opened up 3.76% at the Hong Kong open after reports that Duan Yongping and H&H International Investment LLC simultaneously increased their holdings. As persons acting in concert, their combined stake reached 5.69%, triggering mandatory disclosure requirements."
+    },
+    {
+      "id": "4903481",
+      "time": "2026-05-28 09:23:21",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本40年期國債收益率下跌5個基點至3.75%。"
+    },
+    {
+      "id": "mkt:019e6c2d-cdeb-788f-b184-2c66a851e20f",
+      "time": "2026-05-28 09:23:21",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Jiangsu Standing Committee Member, Suzhou Party Secretary Fan Bo Meets UK-China Trade Association Chairman Wu Sitian】According to Suzhou Daily, on May 27 Jiangsu Provincial Party Standing Committee member and Suzhou Municipal Party Secretary Fan Bo met with UK-China Trade Association chairman Wu Sitian and his delegation. Fan said Suzhou and the UK have deep economic and trade ties and urged the UK-China Trade Association to act as a bridge to actively promote more British investment in Suzhou, jointly raise the capability of open platforms such as the China‑UK Economic and Trade Cooperation Innovation Port, deepen exchanges and cooperation in areas including artificial intelligence and services, and work together to expand new space for two‑way investment cooperation."
+    },
+    {
+      "id": "4903480",
+      "time": "2026-05-28 09:23:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4430美元/盎司，日內跌0.61%。"
+    },
+    {
+      "id": "4903479",
+      "time": "2026-05-28 09:23:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【江蘇省委常委、蘇州市委書記範波會見英中貿易協會主席吳思田一行】據蘇州日報，5月27日，江蘇省委常委、蘇州市委書記範波會見了英中貿易協會主席吳思田一行。範波表示，蘇州與英國經貿合作淵源深厚，希望英中貿易協會充分發揮橋樑紐帶作用，積極推動更多英資企業在蘇投資佈局，合力提升中英經貿合作創新港等開放平臺能級，並圍繞人工智慧、服務業等領域深化交流合作，攜手拓展雙向投資合作新空間。吳思田說，蘇州擁有悠久的歷史、燦爛的文化、繁榮的經濟，是英國企業投資中國的重要目的地。英中貿易協會將積極推動雙方進一步深化貿易投資、科技創新、人才交流等方面務實合作，引導更多英國企業投資蘇州，助力更多中國企業走向世界，實現更高水平互利共贏。"
+    },
+    {
+      "id": "mkt:019e6c2d-8476-788f-b184-27aa531894fe",
+      "time": "2026-05-28 09:23:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Shanghai silver main contract plunged 4.00% intraday to 17,840.00 yuan/kg."
+    },
+    {
+      "id": "4903478",
+      "time": "2026-05-28 09:22:55",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4460美元/盎司，日內跌0.48%。"
+    },
+    {
+      "id": "4903477",
+      "time": "2026-05-28 09:22:44",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內跌4%，現報17840.00元。"
+    },
+    {
+      "id": "4903476",
+      "time": "2026-05-28 09:22:41",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行公開市場今日淨投放13.0億元人民幣。"
+    },
+    {
+      "id": "em:qqyh_zgyh:202605283752175047",
+      "time": "2026-05-28 09:22:20",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "央行今日開展1013億元7天逆回購操作，操作利率為1.40%，與此前持平。"
+    },
+    {
+      "id": "4903475",
+      "time": "2026-05-28 09:22:15",
+      "tags": [
+        "焦點"
+      ],
+      "text": "港股恒指低開跌0.39％，國企指數跌0.29％，科指開跌0.25%。"
+    },
+    {
+      "id": "mkt:019e6c2c-bf4c-788f-b184-1a9581f67299",
+      "time": "2026-05-28 09:22:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH"
+      ],
+      "text": "PBOC conducted a 7‑day reverse repo operation today totaling 101.3 bln yuan; bids were 101.3 bln yuan and the full 101.3 bln yuan was allotted at an operation rate of 1.40%, unchanged from the prior operation."
+    },
+    {
+      "id": "mkt:019e6c2c-b9a1-788f-b184-169cbb00961a",
+      "time": "2026-05-28 09:22:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "China EV Leaders",
+        "Hang Seng Index",
+        "Impact bearish",
+        "Hang Seng Tech Index",
+        "09866.HK",
+        "Impact bullish"
+      ],
+      "text": "At the Hong Kong open the Hang Seng Index opened down 0.39% and the Hang Seng TECH Index opened down 0.25%; NIO-SW (09866.HK) rose 7.2% and NIO launched the ES9."
+    },
+    {
+      "id": "4903474",
+      "time": "2026-05-28 09:22:00",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "據美國財政部網站：美國出臺新的伊朗相關制裁，將霍爾木茲海峽管理機構列入特別指定國民清單。"
+    },
+    {
+      "id": "mkt:019e6c2c-933b-788f-b184-0da217c407c7",
+      "time": "2026-05-28 09:22:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish",
+        "Hang Seng Tech Index",
+        "HSCEI"
+      ],
+      "text": "At the open on May 28 (Thu), Hong Kong HSI was down 97.65 pts (-0.39%) at 25,230.58; Hang Seng Tech Index was down 12.29 pts (-0.25%) at 4,895.28; HSCEI (Hang Seng China Enterprises Index) was down 24.84 pts (-0.29%) at 8,438.18; Red‑Chip Index was down 23.28 pts (-0.53%) at 4,368.76."
+    },
+    {
+      "id": "4903473",
+      "time": "2026-05-28 09:21:45",
+      "tags": [
+        "央行",
+        "公司"
+      ],
+      "text": "央行公告稱，透過1.40%利率的7天期逆回購操作投放1013億元人民幣，此前操作利率同樣為1.40%。"
+    },
+    {
+      "id": "mkt:019e6c2c-5841-788f-b184-03f1aac1ee6b",
+      "time": "2026-05-28 09:21:45",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Market Themes",
+        "AI Revolution",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "【ANZ: AI Demand Boosts Copper; Middle East Tensions And Tariff Risk Cap Base Metals】Copper rose in Asian early trade, with LME three-month copper up 0.2% to $13,554/ton. ANZ research analysts said in a report that the global AI-driven demand surge has shifted market expectations for demand more positively, benefiting copper. They highlighted rising copper use in Australian power infrastructure — including transmission lines and electrical equipment — as reinforcing the bullish case for copper. Overall base metals were mixed as signs of difficult US-Iran peace talks damped sentiment and suggested the Middle East conflict may not end soon. ANZ also noted increased US copper imports ahead of potential tariff measures, which has raised concerns about tightening global supply."
+    },
     {
       "id": "4903472",
       "time": "2026-05-28 09:20:57",
@@ -133769,54 +133986,6 @@
         "市場"
       ],
       "text": "【玻璃基板概念大幅高開 京東方等多股一字漲停】早盤玻璃基板概念大幅高開，京東方A、彩虹股份、五方光電一字漲停，戈碧迦、帝爾鐳射、天承科技、力諾藥包等漲幅靠前。"
-    },
-    {
-      "id": "mkt:019e4823-b3fa-7aa9-8523-1da07fe468db",
-      "time": "2026-05-21 09:25:59",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bullish",
-        "SZSE Component"
-      ],
-      "text": "A-SHARE OPEN HIGHER, SHANGHAI COMPOSITE +0.29%, SHENZHEN COMPONENT +0.89%, CHINEXT +1.03%"
-    },
-    {
-      "id": "4891550",
-      "time": "2026-05-21 09:25:47",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【京東方A開盤一字漲停】京東方A開盤一字漲停，訊息面上，京東方A與全球材料巨頭康寧公司加深合作。"
-    },
-    {
-      "id": "4891549",
-      "time": "2026-05-21 09:25:43",
-      "tags": [
-        "市場"
-      ],
-      "text": "【港股AI次新股走強 智譜漲近8%】截至發稿，智譜(02513.HK)漲7.84%，瀾起科技(06809.HK)漲6.80%，MINIMAX-W(00100.HK)漲5.09%。"
-    },
-    {
-      "id": "4891548",
-      "time": "2026-05-21 09:25:15",
-      "tags": [
-        "焦點"
-      ],
-      "text": "三大股指高開，滬指漲0.29％，深成指漲0.89％，創業板漲1.03％。"
-    },
-    {
-      "id": "4891547",
-      "time": "2026-05-21 09:23:49",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【英偉達CEO黃仁勳：AI 原生雲未來將超越超大規模雲廠商 成長為英偉達增長主力】美東時間週三盤後，英偉達CEO黃仁勳在財報電話會上表示，英偉達資料中心業務的一大核心板塊是為AI 原生（AI-native）雲，這類資料中心客戶傾向採購完整系統、直接運營，無需自行設計搭建，市場規模龐大、增長迅猛。目前，僅有英偉達具備服務這類市場的能力，全棧平臺解決方案是核心優勢。長期來看，這一板塊覆蓋全球50 萬億至80萬億美元經濟規模，未來將成為公司業務增長主力。"
     }
   ]
 }
