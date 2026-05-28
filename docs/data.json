@@ -1,7 +1,102 @@
 {
-  "updated": "2026-05-28 22:27:02",
-  "count": 15178,
+  "updated": "2026-05-28 22:31:22",
+  "count": 15169,
   "items": [
+    {
+      "id": "mkt:019e6efe-6f90-7cc0-9db0-5de2e0e44968",
+      "time": "2026-05-28 22:30:26",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【EIA Weekly Natural Gas Storage Up 92 Bcf; Inventory 2,483 Bcf, 6.2% Above 5-Year Avg】EIA: For the week ended May 22, U.S. natural gas storage totaled 2,483 Bcf, up 92 Bcf from the prior week and up 21 Bcf YoY (+0.9%). Inventories were 144 Bcf (6.2%) above the five‑year average."
+    },
+    {
+      "id": "mkt:019e6efe-5b46-7cc0-9db0-54000b5fec54",
+      "time": "2026-05-28 22:30:18",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "US EIA natural gas storage for week to May 22: 92 bcf; est. 95 bcf; prior 101 bcf."
+    },
+    {
+      "id": "4905146",
+      "time": "2026-05-28 22:30:10",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國至5月22日當週EIA天然氣庫存 920億立方英尺，預期950億立方英尺，前值1010億立方英尺。"
+    },
+    {
+      "id": "mkt:019e6efe-1a10-7cc0-9db0-4b3918ed7149",
+      "time": "2026-05-28 22:30:02",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Tankers Attacked By Drones Off Turkey's Black Sea Coast】A local port agent said three sanctioned crude tankers linked to Russia's \"shadow fleet\" were struck by drone attacks overnight off Turkey's Black Sea coast. The agent said Turkish-managed tankers Altura and Velora were attacked during ship-to-ship transfer operations; vessel-tracking shows both arrived in the area on May 24. Local reports said Altura was previously attacked in March while carrying about 1 mln barrels of Russian Urals crude."
+    },
+    {
+      "id": "mkt:019e6efe-0439-7cc0-9db0-429adb2233c7",
+      "time": "2026-05-28 22:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | EIA Weekly Natural Gas Storage Change (May.22) | actual 92000000000B | consensus 95000000000B | previous 101000000000B"
+    },
+    {
+      "id": "4905145",
+      "time": "2026-05-28 22:29:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【油輪在土耳其黑海沿岸遭遇無人機襲擊】據當地一名港口代理透露，三艘因隸屬於俄羅斯“影子船隊”而遭到制裁的原油油輪，於昨夜在土耳其黑海沿岸海域遭遇了無人機襲擊。據港口代理報告顯示，由土耳其方面管理的“Altura”號（Altura）和“Velora”號（Velora）油輪在進行船對船貨物轉運作業時遭到了攻擊。船舶追蹤資料顯示，這兩艘船於5月24日抵達該海域。據當地媒體此前在3月份的報道，當時滿載約100萬桶俄羅斯烏拉爾原油的“Altura”號就曾遭遇過襲擊。"
+    },
+    {
+      "id": "4905144",
+      "time": "2026-05-28 22:28:26",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲官員穆薩萊姆：通脹壓力持續，政策需保持謹慎】面對通脹上行壓力，當下理應保持審慎。寄望依靠生產率提升來化解當前通脹問題存在風險。人工智慧對生產率的提振效果尚無定論，但需求端帶來的通脹壓力切實存在。美聯儲實際政策利率低於長期中性利率。長期通脹預期正逐步走高。勞動力市場整體保持穩定。若有明確證據顯示生產率提升有望緩解通脹壓力，我們將隨時調整政策立場。"
+    },
+    {
+      "id": "4905143",
+      "time": "2026-05-28 22:27:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "原油日內漲幅悉數回吐，WTI原油期貨跌至87美元附近。"
+    },
+    {
+      "id": "te:economy:554540",
+      "time": "2026-05-28 22:26:45",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Africa",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "South Africa 10-Year Bond Yield at 1-Month Low — South Africa’s 10-year bond yield was around 8.40%, the lowest since April 20, as traders weighed lingering geopolitical uncertainty, while also assessing the latest monetary policy decision. Mixed signals continued from both the US and Iran on progress in negotiations to end the Middle East war and restore energy flows through the Strait of Hormuz. Meanwhile, the South African Reserve Bank decided to increase the policy rate by 25 basis points, to 7%, reflecting ongoing efforts to contain inflation as geopolitical tensions persist."
+    },
+    {
+      "id": "4905142",
+      "time": "2026-05-28 22:26:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "禮來股價漲幅擴大至5.3%，盤中創歷史新高。"
+    },
     {
       "id": "4905141",
       "time": "2026-05-28 22:25:26",
@@ -136375,173 +136470,6 @@
         "Energy"
       ],
       "text": "U.S. NATURAL GAS FUTURES PARE GAINS, UP 0.1%, AFTER EIA REPORTS BIGGER-THAN-EXPECTED STORAGE BUILD"
-    },
-    {
-      "id": "4893290",
-      "time": "2026-05-21 22:31:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "土耳其 BIST 銀行指數跌幅擴大，盤中跌至 4.6%。"
-    },
-    {
-      "id": "4893289",
-      "time": "2026-05-21 22:31:05",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國能源資訊署（EIA）公佈天然氣庫存增幅高於預期後，美國天然氣期貨回落漲幅，僅上漲0.1%。"
-    },
-    {
-      "id": "4893288",
-      "time": "2026-05-21 22:31:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中法應對氣候和環境挑戰工作組首次會議在中國北京舉行】根據2025年12月5日《中華人民共和國和法蘭西共和國關於合作應對全球氣候和環境挑戰的聯合宣告》和2025年3月27日《中華人民共和國和法蘭西共和國在〈巴黎協定〉達成十週年之際關於氣候變化的聯合宣告》，中法應對氣候和環境挑戰工作組於2026年5月20日在中國北京舉行首次會議。(新華社)"
-    },
-    {
-      "id": "mkt:019e4af2-39ba-7bb7-824c-022be15ac81b",
-      "time": "2026-05-21 22:30:47",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "EIA-U.S. SOUTH CENTRAL NATGAS STOCKS +31 BCF EIA-U.S. MIDWEST NATGAS STOCKS +29 BCF EIA-NET FLOW OF U.S. WEEKLY NATURAL GAS RESERVES +101 BCF IN WEEK TO MAY 15 EIA-U.S. PACIFIC NATGAS STOCKS +7 BCF"
-    },
-    {
-      "id": "4893286",
-      "time": "2026-05-21 22:30:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國至5月15日當週EIA天然氣庫存 1010億立方英尺，預期960億立方英尺，前值850億立方英尺。截至5月15日當週，美國天然氣庫存總量為23910億立方英尺，較此前一週增加1010億立方英尺，較去年同期增加330億立方英尺，同比增幅1.4%，同時較5年均值高1490億立方英尺，增幅6.6%。"
-    },
-    {
-      "id": "4893285",
-      "time": "2026-05-21 22:30:08",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "土耳其法院裁定罷免主要反對派領導層。"
-    },
-    {
-      "id": "mkt:019e4af1-923b-7bb7-824b-fdc73102ca78",
-      "time": "2026-05-21 22:30:04",
-      "tags": [
-        "MKT News",
-        "GS.O",
-        "Impact bearish"
-      ],
-      "text": "GOLDMAN SACHS TO PAY $500M TO SETTLE 1MDB-LINKED CASE"
-    },
-    {
-      "id": "mkt:019e4af1-803a-7bb7-824b-f0193ca1bbee",
-      "time": "2026-05-21 22:30:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | EIA Weekly Natural Gas Storage Change (May.15) | actual 101000000000B | consensus 96000000000B | previous 85000000000B"
-    },
-    {
-      "id": "4893284",
-      "time": "2026-05-21 22:29:57",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "高盛將支付 5 億美元了結一馬公司相關案件。"
-    },
-    {
-      "id": "mkt:019e4af1-500b-7bb7-824b-eb0ac8dd1697",
-      "time": "2026-05-21 22:29:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TURKEY'S MAIN BORSA ISTANBUL 100 INDEX EXTENDS DROP TO 3%"
-    },
-    {
-      "id": "4893283",
-      "time": "2026-05-21 22:29:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "【邁瑞醫療：公司從未向經銷商強制壓貨 經銷採購完全基於終端需求與自身庫存決策】有投資者在互動平臺提問邁瑞醫療：最近市場上流傳公司經銷商壓貨問題，並且不進行退貨更換，請問是否屬實？邁瑞醫療回覆稱，公司從未向經銷商強制壓貨，經銷採購完全基於終端需求與自身庫存決策。公司市場部門根據市場需求的變化並結合公司的銷售目標，定期制定銷售預測，生產供應部門則根據銷售預測、客戶訂單、庫存數量情況制定出可行的生產計劃。此外，公司還會生產一定數量的通用半成品或標準配置的成品作為庫存，以確保在客戶訂單突然增加時，能快速生產出客戶需要的產品，縮短產品交付週期，為客戶提供優質服務。"
-    },
-    {
-      "id": "4893282",
-      "time": "2026-05-21 22:29:19",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【LME鉛主力合約漲超1%】LME鉛主力合約漲超1%，現報1997.5美元/噸。"
-    },
-    {
-      "id": "4893281",
-      "time": "2026-05-21 22:29:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "土耳其主要股指伊斯坦布林100指數跌幅擴大至3%。"
-    },
-    {
-      "id": "4893280",
-      "time": "2026-05-21 22:28:54",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "通用電氣航空集團獲得正式訂單，為美國海軍“探索者”級海洋監視船提供動力裝置。"
-    },
-    {
-      "id": "4893279",
-      "time": "2026-05-21 22:28:50",
-      "tags": [
-        "資料",
-        "央行",
-        "國際"
-      ],
-      "text": "【分析：PMI顯示疲軟後，歐洲央行不應急於加息】荷蘭銀行投資解決方案部的克里斯托夫·布切爾表示，歐元區經濟的疲軟表明，歐洲央行不應急於進行連續且激進的加息。他在一份報告中稱，鑑於通貨膨脹出現第二輪效應的證據仍然有限，結合加息和隨後觀望做法的策略可能是最佳解決方案。布切爾表示，資料顯示5月份綜合採購經理人指數(PMI)進一步陷入萎縮，製造業的任何韌性都可能是由於企業因衝突而建立庫存所致。但隨著供應鏈緊張局勢日益明顯，這種效應正在消退。他表示，儘管歐洲央行將把重點放在通貨膨脹上，但金融狀況的收緊料將嚴重阻礙歐洲經濟的復甦。"
-    },
-    {
-      "id": "4893278",
-      "time": "2026-05-21 22:28:35",
-      "tags": [
-        "市場"
-      ],
-      "text": "SPOTIFY股價上漲5.3%。"
-    },
-    {
-      "id": "4893277",
-      "time": "2026-05-21 22:28:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "【恆工精密業績說明會：一季度的淨利率提升是否有持續性？目前有無投資機器人供應鏈企業計劃？】5月21日晚，去年股價漲超150%的恆工精密（301261.SZ，股價98.54元，市值86.61億元）披露整理後的2025年度暨2026年一季度業績說明會互動內容。對於2026年一季度業績增長是否源於機器人業務的問題，公司明確表示，第一季度營業收入增長主要是因為產品產銷量增長以及新增人形機器人本體業務。但是，人形機器人本體業務尚處於起步發展階段，請廣大投資者理性投資，注意投資風險。針對投資者關注的具身智慧客戶拓展情況，公司還回應稱：“2025年度智慧機器人本體出貨較少。” 關於“一季度的淨利率提升是否可持續”的問題，恆工精密明確表示，當期淨利潤同比增長主要系投資收益較上年同期增長所致，而投資標的估值增長暫不可預測。"
-    },
-    {
-      "id": "4893276",
-      "time": "2026-05-21 22:28:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "法官裁定，郵輪公司需為哈瓦那碼頭糾紛承擔相應責任。"
-    },
-    {
-      "id": "em:jjsj_mgsj:202605213745570559",
-      "time": "2026-05-21 22:27:54",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "【美國製造業活動擴張幅度創四年來最大 企業趕在漲價前囤貨】美國5月製造業活動擴張幅度為四年來最大，因客戶試圖趕在伊朗戰爭推高價格壓力之前囤貨。S&P Global週四釋出的5月製造業採購經理指數初值上升0.8點至55.3。讀數高於50表示擴張。投入品支付價格指數飆升逾11點，至2022年6月以來最高水平。"
     }
   ]
 }
