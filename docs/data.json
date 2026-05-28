@@ -1,7 +1,144 @@
 {
-  "updated": "2026-05-28 10:08:23",
-  "count": 14966,
+  "updated": "2026-05-28 10:12:15",
+  "count": 14977,
   "items": [
+    {
+      "id": "4903611",
+      "time": "2026-05-28 10:11:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐西蘭航空與新加坡航空擴容聯合航線網路，提升紐西蘭與新加坡之間的運能與通航連通性。"
+    },
+    {
+      "id": "4903610",
+      "time": "2026-05-28 10:10:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【自然資源部：力爭到2030年海洋創新藥產業增加值突破1300億元】5月28日，自然資源部召開5月例行新聞釋出會，釋出並解讀《關於加快海洋藥物和功能製品高質量發展的指導意見》。《指導意見》的工作目標是，力爭到2030年，多項海洋創新藥上市，產業增加值突破1300億元，創新能力和集聚水平顯著提升，綜合實力進入國際前列。"
+    },
+    {
+      "id": "4903609",
+      "time": "2026-05-28 10:10:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超1萬億元，較上日此時縮量1841億元。"
+    },
+    {
+      "id": "4903608",
+      "time": "2026-05-28 10:10:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國科學家破解甘蔗增糖關鍵基因】中國熱帶農業科學院熱帶生物技術研究所聯合相關科研單位，透過構建面向多倍體作物的遺傳基礎解析框架，破解了甘蔗莖稈薄壁細胞的高糖儲存密碼。5月27日，相關論文成果在國際學術期刊《自然》線上發表。（新華社）"
+    },
+    {
+      "id": "4903607",
+      "time": "2026-05-28 10:10:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達40億港元。"
+    },
+    {
+      "id": "4903606",
+      "time": "2026-05-28 10:10:07",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【奇瑞汽車在安徽成立犀電能源科技公司，註冊資本5億】天眼查App顯示，近日，安徽犀電能源科技有限公司成立，法定代表人為李中兵，註冊資本5億人民幣，經營範圍包括電池製造、電池銷售、儲能技術服務等，由奇瑞汽車股份有限公司全資持股。"
+    },
+    {
+      "id": "4903605",
+      "time": "2026-05-28 10:09:30",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【光刻機、光刻膠概念震盪走強 怡達股份等漲停】光刻機、光刻膠概念震盪走強，怡達股份漲停，康達新材、國風新材此前漲停，中船特氣、格林達、沃格光電、八億時空、新萊應材等漲幅居前。"
+    },
+    {
+      "id": "mkt:019e6c58-b82b-7117-bd5e-939d04d6fccb",
+      "time": "2026-05-28 10:09:14",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "GOOLSBEE warned that Asia is facing a conventional stagflation shock."
+    },
+    {
+      "id": "4903604",
+      "time": "2026-05-28 10:08:57",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比警告稱，亞洲面臨老式滯脹衝擊。"
+    },
+    {
+      "id": "mkt:019e6c58-0b85-7117-bd5e-8fcfbb8b1ec7",
+      "time": "2026-05-28 10:08:46",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "Fed's GOOLSBEE said energy inf is more persistent than expected."
+    },
+    {
+      "id": "mkt:019e6c57-bd00-7117-bd5e-82d5cb0d79d9",
+      "time": "2026-05-28 10:08:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【ITC Opens Section 337 Probe Into Certain Coated Candies and Components】China Trade Remedy Information Network reported that on May 27 the U.S. International Trade Commission (ITC) voted to institute a Section 337 investigation into certain coated candies and components thereof (Investigation No. 337-TA-1501)."
+    },
+    {
+      "id": "4903603",
+      "time": "2026-05-28 10:08:39",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比表示：能源通脹的持續性強於預期。"
+    },
+    {
+      "id": "te:markets:554242",
+      "time": "2026-05-28 10:08:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "China Stocks Remain Under Pressure — The Shanghai Composite fell 0.3% to 4,080 on Thursday, marking its third straight decline, while the Shenzhen Component dropped 0.6% to 15,644 for a second consecutive session, as lingering uncertainty over a potential US-Iran deal continued to dampen sentiment. The US confirmed defensive airstrikes on an Iranian military site, while key issues in US-Iran negotiations such as Tehran's control of the Strait of Hormuz and its nuclear program remain unresolved. Domestically, concerns over weakening Chinese fuel demand resurfaced as disruptions to oil flows through the Strait of Hormuz added pressure to energy markets. According to London-based consultancy Energy Aspects Ltd., China’s crude oil imports are on track to average 10.9 million barrels per day this year, the lowest since 2022. Technology stocks led the decline, with Hygon Information Technology (-7.1%), Cambricon Technologies (-5%), NAURA Technology (-3.5%), and Victory Giant Technology (-3.5%) posting sharp losses."
+    },
+    {
+      "id": "mkt:019e6c56-d2bc-7eea-83d1-a4a999e62e27",
+      "time": "2026-05-28 10:08:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SSE Composite",
+        "Impact bullish"
+      ],
+      "text": "The STAR 50 Index rebounded from intraday lows to gain over 1%, after earlier at one point falling nearly 1%."
+    },
     {
       "id": "4903602",
       "time": "2026-05-28 10:07:35",
@@ -134335,35 +134472,6 @@
         "中國"
       ],
       "text": "【浙江：4月份規模以上工業增加值同比增長7.3%】5月21日，浙江省統計局釋出2026年4月份浙江經濟執行情況。4月份，規模以上工業增加值同比增長7.3%。37個工業大類行業中，27個行業增加值正增長，增長面為73.0%，其中，汽車、計算機通訊電子、通用裝置、紡織和電力等行業增加值分別增長27.1%、19.6%、8.2%、7.3%和7.1%，合計拉動規模以上工業增加值增長5.5個百分點。"
-    },
-    {
-      "id": "4891649",
-      "time": "2026-05-21 10:11:39",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【原油變化率由負轉正，成品油價格將迎年內第八次上漲】5月21日24時將上調汽柴油限價，每噸汽油上調75、柴油上調70元，摺合每升89#0.05、92#0.06、95#0.06、0#0.06元。本輪調價週期原油綜合變化率以負向開局，但最終轉入正向區間，最終對應成品油為上調。週期內變化率最高為第十個工作日的1.61%，最低為第二個工作日的-5.75%。最終調價視窗開啟時、汽油和柴油對應上調幅度分別為75和70元/噸，也是2026年以來的第八次上調。展望後市，美伊和談進入最後階段，但能實現最終全面停火還是美國重啟對伊朗軍事行動仍具有較大不確定性，多空博弈姿態展現，市場反覆權衡局勢進展。整體來看，預計下一輪成品油調價擱淺的機率較大。（隆眾資訊）"
-    },
-    {
-      "id": "te:economy:552517",
-      "time": "2026-05-21 10:10:38",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Employment Change",
-        "Importance 1"
-      ],
-      "text": "Australia Employment Unexpectedly Drops — Employment in Australia fell by 18,600 to a 14.74 million in March 2026, reversing an upwardly revised 23,300 increase in the previous month and missing market expectations for a 17,500 gain. It was the first decline since November, as full-time employment shrank by 10,700 to 10.16 million and part-time employment slid 7,900 to 4.58 million. The employment-to-population ratio remained was down to 63.7% from the prior 63.9, marking the fifth straight month of decline. Meanwhile, the participation rate edged down to 66.7% from the prior 66.8%. On an annual basis, total employment rose by 128,900, or 0.9%."
-    },
-    {
-      "id": "4891648",
-      "time": "2026-05-21 10:09:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "【浙江：4月份規模以上工業增加值同比增長7.3%】5月21日，浙江省統計局釋出2026年4月份浙江經濟執行情況。4月份，規模以上工業增加值同比增長7.3%。37個工業大類行業中，27個行業增加值正增長，增長面為73.0%，其中，汽車、計算機通訊電子、通用裝置、紡織和電力等行業增加值分別增長27.1%、19.6%、8.2%、7.3%和7.1%，合計拉動規模以上工業增加值增長5.5個百分點。新興產業引領增長，規模以上高技術製造業、數字經濟核心產業製造業、裝備製造業增加值分別增長17.5%、15.1%和12.2%，分別拉動規模以上工業增加值增長3.0、2.7和6.3個百分點。1—4月，規模以上工業增加值增長8.0%。"
     }
   ]
 }
