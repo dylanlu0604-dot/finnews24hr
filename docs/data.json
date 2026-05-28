@@ -1,7 +1,88 @@
 {
-  "updated": "2026-05-29 01:16:38",
-  "count": 15194,
+  "updated": "2026-05-29 01:20:26",
+  "count": 15196,
   "items": [
+    {
+      "id": "4905385",
+      "time": "2026-05-29 01:19:06",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲穆薩萊姆：美債收益率漲幅的四分之一大機率來自期限溢價。"
+    },
+    {
+      "id": "mkt:019e6f98-bb00-7eef-a301-3a53a1cc2ae2",
+      "time": "2026-05-29 01:19:00",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Fed MUSALEM said recent bond-market volatility largely reflects expectations of a higher neutral rate."
+    },
+    {
+      "id": "mkt:019e6f98-9660-7eef-a301-34692cba6d91",
+      "time": "2026-05-29 01:18:51",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "MUSALEM: Bond market signals economic resilience and rising inf expectations."
+    },
+    {
+      "id": "4905384",
+      "time": "2026-05-29 01:18:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "穆薩萊姆：近期債券市場的走勢大多由中性利率預期上行推動。"
+    },
+    {
+      "id": "4905383",
+      "time": "2026-05-29 01:18:45",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲穆薩萊姆：收益率上行幅度中，四分之三源於市場上調長期中性利率預期。"
+    },
+    {
+      "id": "4905382",
+      "time": "2026-05-29 01:18:19",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲穆薩萊姆：債券市場當前反映出經濟韌性強勁，通脹預期上行。"
+    },
+    {
+      "id": "4905381",
+      "time": "2026-05-29 01:16:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐約聯邦儲備銀行5月28日接受了提交至逆回購工具的全部11.63億美元申請額度。"
+    },
+    {
+      "id": "mkt:019e6f96-8086-7eee-b1e9-8850980d32ac",
+      "time": "2026-05-29 01:16:34",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "WDC.O",
+        "Impact bullish"
+      ],
+      "text": "SanDisk CTO says new AI memory HBF will enter sampling by year-end; full controller-equipped product expected to launch next year."
+    },
     {
       "id": "4905380",
       "time": "2026-05-29 01:15:58",
@@ -136694,62 +136775,6 @@
         "市場"
       ],
       "text": "彭博美元指數收窄盤中漲幅。"
-    },
-    {
-      "id": "4893504",
-      "time": "2026-05-22 01:20:18",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【魯比奧：美伊談判有進展 難保協議定達成】美國國務卿魯比奧21日說，美國同伊朗的談判目前取得一些進展，但他無法保證協議一定能達成。他同時表示，如果無法達成一份“好協議”，“所有人清楚”美國有哪些其他選項。\n魯比奧當天從佛羅里達州邁阿密市前往瑞典出席北約外長會。他在機場對媒體說，美國總統特朗普的首要意願是達成一份“好協議”，美方“將竭盡全力爭取實現這一目標”，“不過，總統也已明確表示，如果無法達成一份好協議，他還有其他備選方案”。\n魯比奧說，目前雖已出現一些積極跡象，但他不希望表現得過於樂觀。“所以，讓我們看看接下來幾天會發生什麼。”\n魯比奧證實，巴基斯坦官員當天將前往伊朗首都德黑蘭，希望此行進一步推動談判程序。據伊朗學生通訊社21日報道，巴基斯坦陸軍參謀長穆尼爾當天將赴德黑蘭磋商，旨在進一步推動伊美談判。\n魯比奧還批評北約在美國對伊朗戰事中沒有采取“任何實質行動”，西班牙還拒絕美國使用當地的軍事基地，美方對此非常不滿。“北約對美國究竟有何益處”，這正是他希望在此次北約外長會上著力推動解決的議題。（新華社）"
-    },
-    {
-      "id": "mkt:019e4b8d-294b-7aa1-957f-f7bbc6dbe456",
-      "time": "2026-05-22 01:20:02",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【IRNA Cites Al Arabiya Claiming U.S.-Iran Draft Deal Reached】Iran’s IRNA, citing Al Arabiya television, reported that a final draft agreement between the U.S. and Iran has been reached through Pakistani mediation and could be announced within hours. The reported draft includes an immediate and comprehensive ceasefire across all fronts, mutual commitments to avoid targeting infrastructure, and guarantees for freedom of navigation in the Gulf and Strait of Hormuz under a joint monitoring mechanism. It also outlines a gradual lifting of sanctions in exchange for Iran’s compliance, with talks on unresolved issues set to begin within seven days."
-    },
-    {
-      "id": "4893503",
-      "time": "2026-05-22 01:18:54",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "據伊朗伊斯蘭共和國通訊社（IRNA）援引阿拉伯衛星電視臺訊息，在巴基斯坦斡旋下，美伊協議的最終草案已經達成，預計將在未來數小時內公佈。"
-    },
-    {
-      "id": "4893502",
-      "time": "2026-05-22 01:18:22",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油漲幅收窄，現價跌破每桶105美元。"
-    },
-    {
-      "id": "4893501",
-      "time": "2026-05-22 01:18:08",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數和納斯達克100指數迅速轉漲。"
-    },
-    {
-      "id": "4893500",
-      "time": "2026-05-22 01:16:51",
-      "tags": [
-        "公司",
-        "央行",
-        "國際"
-      ],
-      "text": "太平洋投資管理公司（PIMCO）的CIO Daniel Ivascyn：鑑於美債收益率飆漲，美聯儲將針對美國通脹問題採取行動。"
     }
   ]
 }
