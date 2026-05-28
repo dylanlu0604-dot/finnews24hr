@@ -1,7 +1,25 @@
 {
-  "updated": "2026-05-29 03:34:59",
-  "count": 15256,
+  "updated": "2026-05-29 03:38:50",
+  "count": 15254,
   "items": [
+    {
+      "id": "4905532",
+      "time": "2026-05-29 03:36:46",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部發放與俄羅斯相關的通用許可證。"
+    },
+    {
+      "id": "4905531",
+      "time": "2026-05-29 03:35:52",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部更新與伊朗相關的制裁名單。"
+    },
     {
       "id": "4905530",
       "time": "2026-05-29 03:34:14",
@@ -137258,44 +137276,6 @@
         "公司"
       ],
       "text": "【星巴克在北美全線叫停AI庫存檔點工具】在北美門店全線推廣僅九個月後，星巴克本週正式關停了該款用於自動化庫存檔點的人工智慧（AI）工具。此前瞭解到，這款AI工具在實際操作中頻頻算錯數量，導致庫存管理錯漏百出。該工具曾是執行長Brian Niccol旨在解決產品頻繁缺貨這一核心頑疾的標誌性舉措，他此前一直痛批缺貨嚴重拖累了公司業績。"
-    },
-    {
-      "id": "4893592",
-      "time": "2026-05-22 03:38:05",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國投資公司協會資料：貨幣基金資產規模增至 7.77 萬億美元。"
-    },
-    {
-      "id": "4893591",
-      "time": "2026-05-22 03:35:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "挪威天然氣運營公司 Gassco 調整 5 月 21 日至 22 日天然氣檢修減產規模，由原先 4300 萬立方米下調至 3300 萬立方米。"
-    },
-    {
-      "id": "mkt:019e4c08-d586-7aa1-9581-5df4479ef66a",
-      "time": "2026-05-22 03:35:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TEMPORARY REMOVAL OF FRANCESCA ALBANESE FROM U.S. TREASURY'S SDN LIST DOES NOT REFLECT A CHANGE IN POLICY - STATE DEPT SPOKESPERSON"
-    },
-    {
-      "id": "mkt:019e4c08-b7db-7aa1-9581-568464228656",
-      "time": "2026-05-22 03:35:00",
-      "tags": [
-        "MKT News",
-        "AUDUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "U.S. GOVERNMENT HAS APPEALED TO COURT ORDER AND WILL PUT BACK U.S. SANCTIONS ON ALBANESE IF COURT OVERTURNS ORDER - STATE DEPT SPOKESPERSON"
     }
   ]
 }
