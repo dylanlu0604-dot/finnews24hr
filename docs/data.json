@@ -1,7 +1,115 @@
 {
-  "updated": "2026-05-28 11:09:32",
-  "count": 15029,
+  "updated": "2026-05-28 11:13:30",
+  "count": 15033,
   "items": [
+    {
+      "id": "mkt:019e6c91-d501-700e-a856-5ace5258066b",
+      "time": "2026-05-28 11:12:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. (WTI) and Brent crude extended intraday gains to 2.00%, trading at $93.90/bbl and $94.65/bbl respectively."
+    },
+    {
+      "id": "4903727",
+      "time": "2026-05-28 11:12:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達70億港元。"
+    },
+    {
+      "id": "4903726",
+      "time": "2026-05-28 11:12:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭革命衛隊稱，襲擊美國空軍基地是為了報復阿巴斯港機場附近發生的襲擊事件。"
+    },
+    {
+      "id": "4903725",
+      "time": "2026-05-28 11:12:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌2%，現報1391.50美元/盎司。"
+    },
+    {
+      "id": "4903724",
+      "time": "2026-05-28 11:11:51",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破95美元/桶，日內漲3.02%。"
+    },
+    {
+      "id": "4903723",
+      "time": "2026-05-28 11:11:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲3%，現報95.04美元/桶。"
+    },
+    {
+      "id": "4903722",
+      "time": "2026-05-28 11:11:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲3%，現報91.35美元/桶。"
+    },
+    {
+      "id": "te:markets:554273",
+      "time": "2026-05-28 11:11:21",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Taiwan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Taiwan Shares Extend Rally to New Peak — The TAIEX, Taiwan’s benchmark stock index, rose 225 points, or 0.5%, to 44,482 in Thursday morning trading, extending gains from the previous session and mainly buoyed by electronic technology stocks. The broader index hit a new record high and surpassed the 44,000 level for a second straight day amid optimism over AI demand. Traders attempted to maintain the upward momentum, supported by the electronic technology sector, which rose 0.9%. Taiwan Semiconductor Manufacturing Company (TSMC), which accounts for more than 40% of the market’s total value, advanced 2.0%, while Hon Hai Precision Industry gained 2.1%. The broader index first touched the 44,000 level on Wednesday and closed at 44,257, mainly supported by a surge in electronic technology stocks. The index also tracked a rally in the S&P and Dow Jones on Wall Street overnight amid hopes of a US-Iran peace deal."
+    },
+    {
+      "id": "4903721",
+      "time": "2026-05-28 11:10:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【阿里語音大模型登頂Speech Arena國產第一，全球第五】在全球權威AI評測平臺Artificial Analysis的語音排行榜（Speech Arena）上，阿里巴巴語音大模型Fun-Realtime-TTS-Preview 以1190分的Elo評分位列全球第五、國產第一。在ASR（將語音轉為文字）、Chat（端到端的語音理解與對話）以及TTS（將文字轉為語音）三個賽道，均斬獲全國第一。"
+    },
+    {
+      "id": "mkt:019e6c8f-1c02-7666-9cf2-aa400b0ec6a0",
+      "time": "2026-05-28 11:09:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ISRAELI MILITARY said one soldier was killed and two were wounded during operations in northern Israel."
+    },
+    {
+      "id": "4903720",
+      "time": "2026-05-28 11:09:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列軍方表示，一名士兵在以色列北部的軍事行動中身亡，另有兩名士兵受傷。"
+    },
+    {
+      "id": "4903719",
+      "time": "2026-05-28 11:09:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "*ST聯翔盤中漲停，上演“地天板”，成交額1.95億元。"
+    },
     {
       "id": "4903718",
       "time": "2026-05-28 11:08:30",
@@ -134878,72 +134986,6 @@
         "公司"
       ],
       "text": "【愛計算與矽基流動簽署算力聯合運營合作協議 共建高效“Token工廠”】近日，武漢光谷愛計算有限公司（簡稱“愛計算”）與北京矽基流動科技有限公司（簡稱“矽基流動”）正式簽署算力聯合運營合作協議。雙方將依託武漢算力雙中心規劃轉型契機，以昇騰910B國產智算算力為核心底座，共同探索AI算力聯合運營模式，打造高效“Token工廠”標杆，賦能中國MaaS產業高質量發展。"
-    },
-    {
-      "id": "4891737",
-      "time": "2026-05-21 11:13:10",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "摩根大通CEO戴蒙：將招聘更多人工智慧人才，減少銀行家招聘數量。"
-    },
-    {
-      "id": "4891736",
-      "time": "2026-05-21 11:12:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "【三協電機、穩正資產等成立智慧產業投資合夥企業】企查查APP顯示，近日，常州嘲風智慧產業投資合夥企業（有限合夥）成立，出資額7000萬元，經營範圍包含創業投資（限投資未上市企業）；以自有資金從事投資活動。企查查股權穿透顯示，該公司由三協電機、深圳市穩正資產管理有限公司等共同持股。"
-    },
-    {
-      "id": "4891735",
-      "time": "2026-05-21 11:11:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【貝塔無限連續完成種子輪、種子+輪數億元融資】近日，聚焦消費級通用具身智慧的企業貝塔無限Beta Infinity宣佈，公司已先後完成種子輪、種子+輪數億元融資。種子輪由洪泰基金、正景基金、銀杏谷資本、水木清華校友種子基金、粵科金融等投資機構聯合投資，種子+輪由世紀華通參與的盛趣泰和基金與和利資本聯合領投，毅達資本、南山戰新投等機構跟投，義柏資本擔任財務顧問。兩輪資金將主要用於核心技術研發、產品試製等。"
-    },
-    {
-      "id": "4891734",
-      "time": "2026-05-21 11:11:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "【天合光能與浙江力博新能源簽訂12臺Potentia藍海2工商業儲能一體櫃合作協議】據天合光能訊息，近日，天合光能與浙江力博新能源開發有限公司正式達成戰略合作，成功簽訂12臺Potentia藍海2工商業儲能一體櫃合作協議。"
-    },
-    {
-      "id": "4891733",
-      "time": "2026-05-21 11:10:33",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "*ST海華盤中漲停，上演“地天板”，現報4.1元，成交額8765.47萬元。"
-    },
-    {
-      "id": "4891732",
-      "time": "2026-05-21 11:10:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "東方財富成交額超100億元，現漲超5%。"
-    },
-    {
-      "id": "4891731",
-      "time": "2026-05-21 11:10:16",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【生態環境部：2025年共辦理輕微違法不予處罰案件8947件】從國務院新聞辦今天（5月21日）舉行的新聞釋出會上瞭解到：2025年，生態環境部共辦理輕微違法不予處罰案件8947件，推動執法理念從“單一監管”向“監管+服務”轉變，給予企業適度容錯空間。推動執法手段從“人防為主”向“技防優先”轉變。透過應用衛星遙感、紅外成像、無人機、無人船等智慧裝備手段，綜合研判分析排汙許可、自動監測、用電工況等資料，將感測技術、資訊科技和人工智慧深度融合，問題發現能力顯著增強，實現“帶著線索去，瞄著問題查”。2025年，全國生態環境現場檢查次數下降近40%，問題發現率卻提高10到25個百分點。"
-    },
-    {
-      "id": "4891730",
-      "time": "2026-05-21 11:09:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗外交部稱“正在評估”美方最新談判意見】伊朗外交部發言人巴加埃表示，伊方“正在評估”美方透過巴基斯坦轉交的最新談判意見。巴加埃在談及巴基斯坦內政部長穆赫辛·納克維20日再次訪問德黑蘭時說，基於伊朗就結束戰爭提出的14點文字，伊美雙方已透過巴基斯坦進行了多次意見交換，“我們已收到美方的（最新）談判意見，目前正在進行評估”。（新華社）"
     }
   ]
 }
