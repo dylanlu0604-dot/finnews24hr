@@ -1,7 +1,123 @@
 {
-  "updated": "2026-05-28 14:57:31",
-  "count": 15159,
+  "updated": "2026-05-28 15:01:57",
+  "count": 15152,
   "items": [
+    {
+      "id": "4904087",
+      "time": "2026-05-28 15:00:28",
+      "tags": [
+        "資料"
+      ],
+      "text": "瑞典國民經濟研究所：5月瑞典製造業信心指數為100.5點；5月瑞典整體信心指數為99.3點。"
+    },
+    {
+      "id": "4904086",
+      "time": "2026-05-28 15:00:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯外貿銀行（VTB）表示，4月淨利潤為302億盧布，同比增長24.3%。"
+    },
+    {
+      "id": "4904085",
+      "time": "2026-05-28 15:00:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【聚焦新型毒品等熱點問題 最高檢釋出10起涉未成年人典型案例】最高人民檢察院今天（28日）釋出10件未成年人權益保護和犯罪預防治理典型案例。這批案例聚焦新型毒品、網路犯罪、強制報告等當前社會關注的涉未成年人保護熱點難點問題，集中體現了檢察機關秉持“預防就是保護、懲治也是挽救”的理念，在依法懲治、精準幫教、權益保護、數智賦能、協同治理等方面的有益實踐，為高質效辦好每一個涉未成年人案件提供實踐範本。（央視新聞）"
+    },
+    {
+      "id": "4904084",
+      "time": "2026-05-28 15:00:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐股開盤漲跌不一，德國DAX指數跌0.03%，英國富時100指數漲0.13%，法國CAC40指數漲0.43%，歐洲斯托克50指數漲0.11%，義大利富時MIB指數跌0.64%。"
+    },
+    {
+      "id": "4904083",
+      "time": "2026-05-28 15:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨收盤】白銀連續跌4.31%，20號膠連續漲3.17%，黃金連續跌2.84%，鉑連續跌2.59%，PTA連續漲2.52%，對二甲苯連續漲2.41%，集運指數歐線期貨連續漲2.37%，短纖連續漲2.29%，瓶片連續漲2.29%，菜油連續漲2.23%。"
+    },
+    {
+      "id": "4904082",
+      "time": "2026-05-28 15:00:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨午盤收盤】 中證1000指數期貨連續漲1.12%， 滬深300指數期貨連續基本持平， 中證500指數期貨連續漲0.47%， 上證50指數期貨連續跌0.70%。"
+    },
+    {
+      "id": "4904081",
+      "time": "2026-05-28 14:59:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍：敵對飛行器入侵曼納拉和馬加利特空域為誤報。"
+    },
+    {
+      "id": "te:economy:554345",
+      "time": "2026-05-28 14:59:46",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Switzerland",
+        "Non Farm Payrolls",
+        "Importance 1"
+      ],
+      "text": "Swiss Non-Farm Payrolls Up 0.5% in Q1 — Switzerland’s non–farm payrolls rose by 0.5% year-on-year to 5.537 million in Q1 2026, accelerating from a 0.2% gain in the previous quarter. The increase was primarily driven by the services sector, rising 0.6% to 4.409 million, supported by higher employment in administrative and support service activities (2.5% vs 2.3%), public administration (1.7% vs 2.6%), and arts, entertainment and recreation (1.6% vs 1.1%). Declines were seen in publishing, audiovisual and broadcasting activities (-5% vs -9.3%), telecommunications (-2.3% vs -4.9%), and finance and assurance (-1.5% vs -1.9%). Meanwhile, employment in the industrial sector recovered by 0.1% to 1.129 million, after a 0.1% fall in Q4, driven by increases in mining and quarrying (3.3% vs 4.4%), electricity, gas, steam and air conditioning (2.9% vs 3.6%), construction (1.3% vs 1.1%), which offset declines in manufacturing (-0.7% vs -1%) and water supply, waste management (-0.8% vs 1.9%)."
+    },
+    {
+      "id": "mkt:019e6d61-57a3-722b-8acb-a8d64be9d13f",
+      "time": "2026-05-28 14:59:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【WAKATABE: Economic Capacity To Withstand Tightening More Important Than Timing Of BOJ Hike】Former BOJ deputy governor WAKATABE said on Thursday that the appropriateness of timing a potential rate rise is far less important than whether the economy can tolerate monetary tightening. WAKATABE said: \"Whether the BOJ will raise rates in June is not the essential issue. The truly important thing is whether the economy is in a state where the BOJ is able to raise rates.\" He is a member of the government's key economic advisory body, the Council on Economic and Fiscal Policy."
+    },
+    {
+      "id": "4904080",
+      "time": "2026-05-28 14:58:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "【深交所理事長沙雁：讓優質創新企業“進得來” 讓創新價值“成長快” 讓投資創新“共贏多”】新浪財經訊，5月28日，深交所2026全球投資者大會舉行，深圳證券交易所理事長沙雁致辭。沙雁指出表示，我們堅信，包容創新的上市環境能讓優質創新企業“進得來”，全鏈條監管服務體系能讓創新價值“成長快”，持續向好的市場生態能讓投資創新“共贏多”。"
+    },
+    {
+      "id": "4904078",
+      "time": "2026-05-28 14:57:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【甘浙特高壓受端換流站接入浙江電網】從國網浙江電力獲悉，5月27日23時左右，“西電東送”重點工程——甘肅—浙江±800千伏特高壓直流輸電工程受端越州換流站交流系統正式投運，標誌著該工程在浙江一端接入浙江500千伏主網，越州換流站進入帶電執行階段。 (新華社)"
+    },
+    {
+      "id": "4904077",
+      "time": "2026-05-28 14:57:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【德方奈米成立科技新公司，含電子專用材料業務】企查查APP顯示，近日，昆明德方奈米科技有限公司成立，註冊資本2億元，經營範圍包含：電子專用材料製造；電子專用材料銷售；電子專用材料研發；新材料技術研發等。企查查股權穿透顯示，該公司由德方奈米全資持股。"
+    },
+    {
+      "id": "4904076",
+      "time": "2026-05-28 14:57:09",
+      "tags": [
+        "資料"
+      ],
+      "text": "【渤海銀行FT賬戶體系上線】近日，渤海銀行正式上線自由貿易賬戶（FT賬戶）體系，成為天津市首家完成FT賬戶體系上線的屬地法人銀行，標誌著在完善金融服務、深度融入天津自貿試驗區金融改革創新方面邁出了關鍵一步。"
+    },
+    {
+      "id": "4904075",
+      "time": "2026-05-28 14:57:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鼎和財產保險增資至60億 增幅約29%】天眼查App顯示，近日，鼎和財產保險股份有限公司發生工商變更，註冊資本由約46.4億人民幣增至60億人民幣，增幅約29%。 該公司成立於2008年5月，法定代表人為鄭添，經營範圍包括財產損失保險、責任保險、信用保險和保證保險等，由中國南方電網有限責任公司、廣州開發區投資集團有限公司、中國長江電力股份有限公司等共同持股。"
+    },
     {
       "id": "te:economy:554342",
       "time": "2026-05-28 14:56:50",
@@ -135911,202 +136027,6 @@
         "其他"
       ],
       "text": "海關總署：允許符合相關要求的非洲建交國家咖啡豆進口。"
-    },
-    {
-      "id": "4892061",
-      "time": "2026-05-21 15:01:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "全國平均來看，92號汽油、95號汽油和0號柴油每升均上調0.06元。記者給您算了一筆賬，用92號汽油加滿50升的油箱將多花3元。（央視財經）"
-    },
-    {
-      "id": "4892060",
-      "time": "2026-05-21 15:01:40",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【ETF收評：中韓半導體ETF領漲4.52%，科創半導體裝置ETF領跌7.38%】ETF收盤漲跌不一，中韓半導體ETF（513310）領漲4.52%，巴西ETF（520870）漲2.92%，汽車零部件ETF（159565）漲2.89%，科創半導體裝置ETF（589020）領跌7.38%，科創半導體ETF（588170）跌6.8%，科創100增強ETF（588500）跌5.65%。"
-    },
-    {
-      "id": "4892059",
-      "time": "2026-05-21 15:01:18",
-      "tags": [
-        "公司",
-        "市場",
-        "焦點",
-        "A股"
-      ],
-      "text": "【收評：科創50指數衝高回落跌3.7%，半導體、CPO等算力硬體股尾盤殺跌】A股三大指數今日集體下跌，截至收盤，上證指數跌2.04%，深證成指跌2.07%，創業板指跌2.35%，北證50跌1.89%，科創50指數跌3.7%。全市場成交額35073億元，較上日成交額放量5308億元，全市場超4700只個股下跌。板塊題材上，半導體、通訊裝置、油氣開採及服務、電子化學品、光纖概念、CPO板塊跌幅居前；機場航運、證券、銀行表現相對積極。盤面上，半導體板塊受外圍大漲刺激，早盤一度衝高，但午後快速回落，上海合晶、東芯股份、利揚晶片跌幅居前。人形機器人、無人駕駛、證券等板塊早盤一度衝高，午後受大盤影響，出現不同程度回落。銀行板塊相對積極，重慶銀行、建設銀行等股上漲。總的來講，個股普遍呈現衝高回落態勢，臨近尾盤跌幅有所擴大。"
-    },
-    {
-      "id": "4892058",
-      "time": "2026-05-21 15:01:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "工信部公開徵求《無線終端空間射頻輻射功率和接收機效能測量方法 第11部分：輕量化（Redcap）無線終端》等116項通訊行業標準報批意見。"
-    },
-    {
-      "id": "4892057",
-      "time": "2026-05-21 15:01:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "A股收盤，上證指數跌2.04%，深證成指跌2.07%，創業板指跌2.35%。"
-    },
-    {
-      "id": "4892056",
-      "time": "2026-05-21 15:00:55",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【ETF兩市成交額5140.76億元】截至收盤，ETF兩市成交額報5140.76億元，分型別來看，股票型ETF成交額2107億元，債券型ETF成交額1808.21億元，貨幣型ETF成交額185.42億元，商品型ETF成交額76.73億元，QDII型ETF成交額619.17億元。其中，成交額最高的非貨幣型ETF分別是中韓半導體ETF（513310）、香港證券ETF（513090）、科創50ETF（588000），成交額分別為：138.75億元、90.94億元、84.73億元。"
-    },
-    {
-      "id": "4892055",
-      "time": "2026-05-21 15:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "歐股開盤普漲，德國DAX指數漲1.38%，英國富時100指數漲0.99%，法國CAC40指數漲1.7%，歐洲斯托克50指數漲2.13%，義大利富時MIB指數漲1.71%。"
-    },
-    {
-      "id": "4892054",
-      "time": "2026-05-21 15:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【股指期貨午盤收盤】 中證1000指數期貨連續跌2.81%， 滬深300指數期貨連續跌1.30%， 中證500指數期貨連續跌2.69%， 上證50指數期貨連續跌1.00%。"
-    },
-    {
-      "id": "4892053",
-      "time": "2026-05-21 15:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【商品期貨收盤】集運指數歐線期貨連續漲10.41%，上海原油連續跌3.93%，丁二烯橡膠連續跌3.35%，低硫燃料油連續跌3.28%，液化石油氣連續跌3.22%。"
-    },
-    {
-      "id": "4892052",
-      "time": "2026-05-21 14:59:52",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【中國貿促會副會長李慶霜出席美國B20主席視訊會議】5月20日，中國貿促會副會長李慶霜線上出席美國二十國集團工商界活動（B20）主席視訊會議併發言。李慶霜表示，中國工商界將積極參與美國B20程序，願與各國工商界一道，秉持相互尊重、合作共贏、協商一致原則，在推進貿易和投資自由化便利化、保障產業鏈供應鏈安全穩定暢通等重要議題上加強立場協調，共同推進創新、貿易、能源等領域務實合作，加強與G20成員政府政策對話，為推動包容可持續的全球經濟增長貢獻智慧與力量。美國B20主席、美國商會會長蘇珊·克拉克主持會議並介紹本屆B20工作進展情況。G20成員相關商協會負責人以影片方式出席會議。"
-    },
-    {
-      "id": "4892051",
-      "time": "2026-05-21 14:59:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "【四川：4月乙類傳染病共報告發病26799例，死亡375人】四川衛健委日前通報，4月，全省無甲類傳染病報告。乙類傳染病共報告19種，發病26799例，死亡375人；發病數居前5位的病種依次為：病毒性肝炎、梅毒、肺結核、艾滋病、淋病；死亡數居前3位的病種依次為：艾滋病、病毒性肝炎、肺結核。丙類傳染病共報告10種，發病37270例，無死亡病例報告；發病數居前3位的病種依次為：流行性感冒、其他感染性腹瀉病、手足口病。"
-    },
-    {
-      "id": "mkt:019e4954-cce5-7ee7-b68f-91c2e4b2d0c2",
-      "time": "2026-05-21 14:59:14",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "CHINA RAISES GAS, DIESEL PRICES BY 75 YUAN AND 70 YUAN PER TON RESPECTIVELY FROM MAY 22"
-    },
-    {
-      "id": "4892050",
-      "time": "2026-05-21 14:59:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "【開創社會捐建公立醫院新模式，上海六院福建醫院和敏院區進入竣工籌備階段】上海市第六人民醫院福建醫院（和敏院區）由安踏集團和敏基金會全資捐建，2026年5月將正式進入竣工籌備階段。該醫院是集醫療、教學、科研、預防、康復等多項功能於一體的現代化、高水平、骨科特色突出的國家創傷區域醫療中心，規劃床位1000張，建築面積約24萬平方米，由8棟建築組成。上海六院將品牌、管理、技術成體系平移至晉江，未來泉州、晉江百姓在家門口享受到的不僅是上海專家的定期坐診，更是一整套與上海同質的診療規範、管理流程和技術體系。（新華社）"
-    },
-    {
-      "id": "4892049",
-      "time": "2026-05-21 14:58:53",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【中東供應鏈中斷致聚乙烯漲價 陶氏化學股價半年大漲77%】霍爾木茲海峽持續封航的風險，對絕大多數工業股而言堪稱宏觀層面的利空訊號，但對於陶氏化學（DOW）來說，這一局勢已推動其股價在過去六個月大漲77%，若航運受限局面長期延續，還將持續成為其股價上漲的利好催化劑。 據悉，全球大量聚乙烯（包裝、管材等各類產品通用塑膠原料）產自中東地區，且生產依賴石油基原料。 中東地區供應鏈中斷會收緊全球供給、推高產品售價。與此同時，油價上漲也抬高了全球各地以石腦油為原料的同業廠商生產成本。而陶氏化學則坐擁差異化優勢，依託美國本土低成本乙烷原料生產聚乙烯。 在全球售價走高、同行生產成本激增的大環境下，陶氏化學可順勢上調產品售價，無需調整經營策略，便能直接實現利潤率擴張。"
-    },
-    {
-      "id": "4892048",
-      "time": "2026-05-21 14:58:49",
-      "tags": [
-        "宏觀",
-        "焦點"
-      ],
-      "text": "【國家發改委：自5月21日24時起，國內汽、柴油（標準品）價格每噸分別上調75元、70元】5月8日國內成品油價格調整以來，國際市場原油價格震盪上行後有所回落，本次調價的前10個工作日平均價格高於上次調價前10個工作日平均價格。根據國際市場油價變化情況，自5月21日24時起，國內汽、柴油（標準品）價格每噸分別上調75元、70元。 中石油、中石化、中海油公司及其他原油加工企業要組織好成品油生產和調運，確保市場穩定供應，嚴格執行國家價格政策。各地相關部門要加大市場監督檢查力度，嚴厲查處不執行國家價格政策的行為，維護正常市場秩序。"
-    },
-    {
-      "id": "mkt:019e4953-e2a6-7ee7-b68f-8e2b5f50f659",
-      "time": "2026-05-21 14:58:14",
-      "tags": [
-        "MKT News",
-        "688981.SS",
-        "Impact bearish"
-      ],
-      "text": "A-SHARE SMIC TURNOVER HITS RMB 20 BLN, SHARES DOWN 4.6%"
-    },
-    {
-      "id": "4892047",
-      "time": "2026-05-21 14:57:59",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印度Nifty 50指數<.NSEI>回吐全部漲幅，最新下跌0.03%。"
-    },
-    {
-      "id": "4892046",
-      "time": "2026-05-21 14:57:56",
-      "tags": [
-        "市場"
-      ],
-      "text": "【中芯國際A股成交額達200億元，現跌4.6%】5月21日下午，中芯國際A股成交額達200億元，現跌4.6%。"
-    },
-    {
-      "id": "te:economy:552592",
-      "time": "2026-05-21 14:57:54",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Sweden",
-        "Unemployment Rate",
-        "Importance 1"
-      ],
-      "text": "Swedish Jobless Rate Falls to 8.7% — Sweden’s unemployment rate fell to 8.7% in April 2026 from 8.9% in the same month a year earlier. The total number of unemployed people decreased by 12,400 compared to April 2025, reaching 500,100, including 227,000 women and 273,200 men, corresponding to unemployment rates of 8.3% and 9.2% respectively. Among young people aged 15-24, 179,000 were unemployed, corresponding to a youth unemployment rate of 26.5%, of whom 141,000 were full-time students. Meanwhile, employment among people aged 15-74 fell by 35,000 to 5.23 million, including 2.514 million women and 2.712 million men. The number of long-term unemployed, defined as those jobless for at least 27 weeks, reached 181,000, with 80,000 women and 101,000 men. The average total number of hours worked per week was 155.9 million. On a seasonally adjusted basis, the unemployment rate was 8.6%, while youth unemployment stood at 24.4%."
-    },
-    {
-      "id": "mkt:019e4953-5db8-7ee7-b68f-87beb32777fa",
-      "time": "2026-05-21 14:57:40",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact mixed",
-        "SZSE Component"
-      ],
-      "text": "TURNOVER ON SSE AND SZSE EXCEEDED RMB 3.4 TRLN, UP RMB 500 BLN FROM SAME TIME PREVIOUS SESSION"
-    },
-    {
-      "id": "4892045",
-      "time": "2026-05-21 14:57:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "【瀾起科技成交額達300億元】5月21日下午，瀾起科技成交額達300億元，現漲1.87%。"
     }
   ]
 }
