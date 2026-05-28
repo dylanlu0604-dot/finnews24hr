@@ -1,7 +1,31 @@
 {
-  "updated": "2026-05-29 05:17:13",
+  "updated": "2026-05-29 05:21:09",
   "count": 15278,
   "items": [
+    {
+      "id": "mkt:019e7074-b780-7eef-a303-b038f4d9fd7e",
+      "time": "2026-05-29 05:19:17",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iranian armed forces fire warning shots at four vessels near Strait of Hormuz】On May 28 local time, Iranian armed forces fired warning shots at four non-compliant vessels near the Strait of Hormuz. Iranian sources say forces later that evening launched missiles from southern Iran at “specific targets”; the targets and operational details have not been released. Other sources report possible exchanges of fire in the Persian Gulf, but those reports remain unconfirmed."
+    },
+    {
+      "id": "4905590",
+      "time": "2026-05-29 05:16:42",
+      "tags": [
+        "公司",
+        "資料",
+        "市場",
+        "觀點",
+        "其他"
+      ],
+      "text": "【5月29日美股成交額前20：微軟將於下週推出多款自研AI模型】週四美股成交額第3名微軟收高3.47%，成交193.03億美元。微軟將於下週在Build開發者大會上推出多款自研AI模型，重點包括一款程式碼專用模型，以提升GitHub Copilot的競爭力。目前該工具市場份額正被Cursor和Claude Code蠶食。此外，微軟還將釋出專攻語音轉寫、推理、影象生成等場景的模型。"
+    },
     {
       "id": "mkt:019e7072-4e12-7eef-a303-ab8aa9dc933f",
       "time": "2026-05-29 05:16:39",
@@ -102,6 +126,14 @@
         "國際"
       ],
       "text": "美國聯邦通訊委員會將美國廣播公司旗下電視臺牌照的到期日提前至 5 月 28 日。"
+    },
+    {
+      "id": "4905578",
+      "time": "2026-05-29 04:55:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊媒：伊朗自南部地區向“特定目標”發射導彈】據伊朗媒體28日報道，伊朗武裝部隊當天晚間從該國南部地區向“特定目標”發射導彈，相關目標和行動細節目前尚未公佈。據報道，部分訊息源稱，波斯灣海域可能發生交火，但尚未得到正式確認。報道還稱，28日凌晨，在敵方襲擊阿巴斯港東部地區後，伊朗武裝部隊對發動襲擊的基地實施了打擊。（新華社）"
     },
     {
       "id": "mkt:019e705d-2699-7eef-a303-a617b3e5bcac",
@@ -137515,30 +137547,6 @@
         "Importance 0"
       ],
       "text": "TSX Rises on Middle East Peace Hopes — he S&P/TSX Composite Index rose 0.7% to close at 34,409 on Thursday as lower oil prices eased concerns over a war-driven inflation shock. Crude prices retreated amid signs of a possible diplomatic breakthrough in the Middle East conflict. Reports indicated that the US and Iran had reached an agreement through Pakistani mediation, while US Secretary of State Marco Rubio said there were “some good signs” that a deal to end the war in Iran could be in sight. Financial stocks advanced as easing energy pressures supported sentiment, with Royal Bank of Canada up 1.3% and TD Bank gaining 1.8%. In tech, Constellation Software added 2.6% following strong quarterly results from NVIDIA, which reported profit and revenue above expectations. Meanwhile, Shopify was little changed as investors continued to assess whether the company’s shift toward AI will drive growth or create new challenges."
-    },
-    {
-      "id": "4893646",
-      "time": "2026-05-22 05:19:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "標普：因資訊不足，撤回精神航空有限責任公司的信用評級。"
-    },
-    {
-      "id": "4893645",
-      "time": "2026-05-22 05:18:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國疾控中心：目前美國境內暫無疑似、疑似臨床及確診埃博拉病例，民眾感染風險仍處於較低水平。"
-    },
-    {
-      "id": "4893644",
-      "time": "2026-05-22 05:17:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國疾控中心：對近期曾到訪剛果（金）、烏干達、南蘇丹的部分人員實施臨時入境限制。"
     }
   ]
 }
