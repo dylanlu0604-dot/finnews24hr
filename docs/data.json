@@ -1,7 +1,44 @@
 {
-  "updated": "2026-05-28 13:09:06",
-  "count": 15170,
+  "updated": "2026-05-28 13:13:01",
+  "count": 15167,
   "items": [
+    {
+      "id": "te:markets:554302",
+      "time": "2026-05-28 13:11:27",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Indonesia Rupiah Hits New Low amid Thin Trading — The Indonesian rupiah weakened to a fresh record low of near IDR 17,900 per U.S. dollar in thin holiday trading on Thursday, extending losses for a sixth straight session. The decline came as the U.S. dollar index rose toward a seven-week high after reports of new U.S. strikes on an Iranian military site dimmed prospects for a peace deal, stoking inflation fears and global rate concerns. Caution also built ahead of next week’s release of May inflation and April trade data. While April inflation stayed contained, rising energy costs threaten renewed price pressures. Trade momentum remains fragile, with March exports falling and imports sluggish. The rupiah is set for a ninth straight weekly decline, down about 0.4% this week so far and 6.4% year-to-date, ranking among Asia’s weakest alongside the Indian rupee and Philippine peso. Persistent fiscal strains and capital outflows continue to weigh, despite Bank Indonesia’s larger-than-expected rate hike in mid-May."
+    },
+    {
+      "id": "4903914",
+      "time": "2026-05-28 13:09:58",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "花旗集團將巴斯夫股份公司目標價從61歐元下調至58歐元。"
+    },
+    {
+      "id": "4903913",
+      "time": "2026-05-28 13:08:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【小米集團-W港股跌超3%】小米集團-W港股跌3.03%，報27.54港元。"
+    },
+    {
+      "id": "4903912",
+      "time": "2026-05-28 13:08:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "港股黃金股下跌，山東黃金下跌8.4%，中國黃金國際跌8.7%。"
+    },
     {
       "id": "4903911",
       "time": "2026-05-28 13:06:42",
@@ -136180,71 +136217,6 @@
         "公司"
       ],
       "text": "【特斯拉陶琳：最後一批Model S/X車型下線，工廠將轉為人型機器人生產線】5月21日，特斯拉公司副總裁陶琳 發文稱，剛剛在加州弗裡蒙特工廠，馬斯克和ModelS/X簽名版的車主們共同見證了這兩款車型的最後一次下線，這條產線將很快改造為特斯拉人形機器人的產線。（介面新聞）"
-    },
-    {
-      "id": "4891858",
-      "time": "2026-05-21 13:12:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "【山東：佈局建設“中國算谷”人工智慧公共服務平臺】山東省工業和資訊化廳等部門近日印發《山東省“人工智慧+製造”行動方案（2026—2028年）》，方案提出，提升平臺載體能級。佈局建設“中國算谷”人工智慧公共服務平臺，爭創制造領域國家人工智慧應用中試基地，培育一批“萬兆+AI”園區、齊魯“模力空間”等載體，加速技術成果轉化應用，每年打造5個左右區域級、20個左右行業級、100個左右企業級人工智慧能力中心。打造一批省級人工智慧創新實驗室、產業創新中心等高能級研發平臺，對建成後透過驗收的人工智慧領域省級實驗室和重點實驗室按規定給予支援。"
-    },
-    {
-      "id": "te:economy:552566",
-      "time": "2026-05-21 13:11:45",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "India",
-        "Manufacturing PMI",
-        "Importance 1"
-      ],
-      "text": "India Manufacturing Growth Slows in May — India’s HSBC Manufacturing PMI fell to 54.3 in May 2026 from 54.7 in April, marking the second-weakest improvement in factory conditions in nearly four years, ahead only of the level seen in March. Output growth eased to the second-softest expansion since mid-2022, while new orders rose at a slower pace as firms cited competitive pressures, softer demand conditions, travel disruptions, and the ongoing war in the Middle East as factors weighing on sales. Export demand also weakened, with international sales recording the second-slowest increase since September 2024. Meanwhile, input cost inflation accelerated to its highest level since July 2022, driven by higher prices for energy, fuel, metals, plastics, rubber, and transportation. However, manufacturers raised selling prices at a slower pace as firms cautiously passed on higher costs to clients. Hiring growth softened from April but remained solid, while firms continued to build inventories and increase purchasing activity."
-    },
-    {
-      "id": "4891857",
-      "time": "2026-05-21 13:11:16",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達20億港元。"
-    },
-    {
-      "id": "4891856",
-      "time": "2026-05-21 13:11:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "【半導體裝置板塊持續走低】半導體裝置板塊持續走低，恆運昌跌超9%，富創精密、華峰測控、微導奈米、強一股份等跟跌。"
-    },
-    {
-      "id": "mkt:019e48f1-8d94-7ee7-b68e-1be0416443f5",
-      "time": "2026-05-21 13:10:50",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "RUSSIAN DEFENCE MINISTRY SAYS NUCLEAR MUNITIONS HAVE BEEN DELIVERED TO FIELD STORAGE FACILITIES IN BELARUS AS PART OF NUCLEAR DRILLS"
-    },
-    {
-      "id": "4891855",
-      "time": "2026-05-21 13:10:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "【機構：中東風險給日本出口前景蒙上陰影】日本4月份出口增長加速，但隨著中東衝突引發的高油價可能拖累全球經濟，未來幾個月需求可能會減弱。牛津經濟研究院的Norihiro Yamaguchi表示，人工智慧(AI)的持續繁榮可能會在短期內支撐對日本出口的需求。然而，在能源價格高企可能拖累全球經濟的背景下，該經濟學家預計對日本產品的需求將減弱，尤其是非人工智慧相關的資本貨物。日本4月份出口較上年同期增長14.8%，3月份為增長11.5%。"
-    },
-    {
-      "id": "4891854",
-      "time": "2026-05-21 13:09:56",
-      "tags": [
-        "市場"
-      ],
-      "text": "【成品油：今日24時零售限價將小幅上調】受地緣局勢反覆主導，本週期原油均價水平環比上漲，國內參考的原油變化率由負轉正，今日（5月21日）24時，成品油零售限價將遇上調。汽、柴油零售限價每噸分別上調75和70元，折升價92#汽油、95#汽油、0#柴油均上調0.06元。（卓創資訊）"
     }
   ]
 }
