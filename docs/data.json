@@ -1,7 +1,141 @@
 {
-  "updated": "2026-05-28 22:31:22",
-  "count": 15169,
+  "updated": "2026-05-28 22:35:27",
+  "count": 15170,
   "items": [
+    {
+      "id": "te:markets:554545",
+      "time": "2026-05-28 22:34:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Rebounds as Middle East Ceasefire Hopes Offset Hawkish Fed Tone — Silver climbed back above $74 an ounce on Thursday after briefly hitting a four-week low, as investors balanced renewed hopes of progress in Middle East peace talks against lingering inflation pressures and a cautious Federal Reserve outlook. According to Axios, US and Iranian negotiators have reportedly agreed on a 60-day memorandum of understanding to extend a ceasefire and open negotiations on Iran’s nuclear program, though final approval from President Trump is still pending. Despite the tentative diplomatic progress, tensions remain high, with continued US–Iran exchanges and Israel resuming strikes on Hezbollah targets in Lebanon amid a fragile ceasefire. Meanwhile, elevated energy prices sustain inflation risks and dampen expectations for near-term rate cuts. Fed officials maintained a cautious stance, with Lisa Cook supporting steady rates for now but signaling openness to hikes if inflation accelerates, while John Williams warned inflation could rise toward 4% in the near term."
+    },
+    {
+      "id": "mkt:019e6f01-cf40-7cc0-9db0-7fd2ecf4a3fc",
+      "time": "2026-05-28 22:34:09",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "0700.HK"
+      ],
+      "text": "【Tencent Hunyuan Launches Hy-Memory】Tencent's Hunyuan announced the launch of Hy-Memory, a memory plugin designed for long-term collaborative agents such as Openclaw; Hunyuan says it can serve as an agent's \"second brain\"."
+    },
+    {
+      "id": "te:markets:554544",
+      "time": "2026-05-28 22:33:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Natural gas Hits 10-week High — Natural gas increased to 3.21 USD/MMBtu, the highest since March 2026. Over the past 4 weeks, Natural gas gained 20.69%, and in the last 12 months, it decreased 9.3%."
+    },
+    {
+      "id": "4905151",
+      "time": "2026-05-28 22:33:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗負責法律與國際事務的副外長加里巴巴迪 ：伊斯蘭革命衛隊已對美方 “挑釁行為” 作出回應，全軍嚴陣以待。 若相關舉措持續下去，伊朗伊斯蘭共和國必將作出相應回應。"
+    },
+    {
+      "id": "mkt:019e6f00-f025-7cc0-9db0-74b9c3ae09ea",
+      "time": "2026-05-28 22:33:12",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. natural gas futures extended gains, up more than 3% intraday after an EIA report showed storage increases slightly below expectations."
+    },
+    {
+      "id": "te:economy:554543",
+      "time": "2026-05-28 22:33:05",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Colombia",
+        "Business Confidence",
+        "Importance 1"
+      ],
+      "text": "Colombia Industrial Confidence Improves in April — Colombia’s industrial confidence indicator rose by 0.4 percentage points to 1.9% in April 2026 from the previous month. The increase was mainly driven by a 4.2 pp rise in production expectations for the next quarter to 19.6%. This was partially offset by a 3.0 pp decline in current order volume to -27.7% and a slight increase in stock levels to -2.5%. Compared with the same month of 2025, the industrial confidence indicator fell by 1.6 percentage points."
+    },
+    {
+      "id": "mkt:019e6f00-9bd9-7cc0-9db0-6dd027399c83",
+      "time": "2026-05-28 22:32:48",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "S&P500",
+        "WTI"
+      ],
+      "text": "The dollar index (DXY) briefly fell to 99, down 0.23% on the day."
+    },
+    {
+      "id": "4905150",
+      "time": "2026-05-28 22:32:40",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國能源資訊署（EIA）公佈天然氣庫存增幅略低於預期後，美國天然氣期貨延續漲勢，漲幅達3.1%。"
+    },
+    {
+      "id": "mkt:019e6f00-16f5-7cc0-9db0-63894a278026",
+      "time": "2026-05-28 22:32:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "【Fed MUSALEM: Cannot Rely On AI Boom To Solve Inf】MUSALEM said policymakers cannot rely on an AI-driven productivity boom to alleviate persistent inf, calling that approach risky. He said the Iran conflict has renewed upward price pressure and prompted more officials to warn that sustained high inf could require further rate hikes. MUSALEM warned the Fed's policy rate, after adjusting for inf, remains below the so-called neutral level — i.e., neither restrictive nor accommodative. He added the labor market remains firm, inf is well above the 2% target, and longer-run inflation expectations are gradually rising."
+    },
+    {
+      "id": "4905149",
+      "time": "2026-05-28 22:31:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【騰訊混元釋出Hy-Memory】5月28日，騰訊混元宣佈正式推出Hy-Memory。據介紹，這是一個專門為Openclaw這類長期協作型Agent設計的記憶外掛，能真正成為Agent的\"第二大腦\"。"
+    },
+    {
+      "id": "te:markets:554541",
+      "time": "2026-05-28 22:31:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gold Trim Losses on Middle East Ceasefire Hopes — Gold prices trimmed earlier losses to hover near the flat line around $4,450 an ounce on Thursday, as markets weighed hopes of progress in Middle East peace talks against persistent inflation worries. According to Axios, US and Iranian negotiators have reached a 60-day memorandum of understanding to extend a ceasefire and begin talks on Iran’s nuclear program, though final approval from President Trump is still pending. Tensions remain elevated, with continued exchanges between the US and Iran, while Israel has also resumed strikes on Hezbollah targets in Lebanon despite a fragile ceasefire. At the same time, gold remains close to a two-month low as higher energy prices fuel inflation concerns and reduce expectations for near-term rate cuts. Fed officials maintained a cautious tone, with Lisa Cook backing steady rates for now but leaving room for hikes if inflation accelerates, while John Williams warned inflation could rise toward 4% headline and 3% core in the near term."
+    },
+    {
+      "id": "4905148",
+      "time": "2026-05-28 22:31:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國交建：2026年計劃發起設立基金不超過123.1億元】中國交建(601800.SH)公告稱，公司2026年度計劃發起設立基金不超過123.1億元，認繳基金份額不超過65.2億元；附屬公司計劃開展金融資產投資不超過60億元。"
+    },
+    {
+      "id": "4905147",
+      "time": "2026-05-28 22:30:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "EIA天然氣報告：截至5月22日當週，美國天然氣庫存總量為24830億立方英尺，較此前一週增加920億立方英尺，較去年同期增加210億立方英尺，同比增幅0.9%，同時較5年均值高1440億立方英尺，增幅6.2%。"
+    },
     {
       "id": "mkt:019e6efe-6f90-7cc0-9db0-5de2e0e44968",
       "time": "2026-05-28 22:30:26",
@@ -136355,121 +136489,6 @@
         "其他"
       ],
       "text": "萬事達卡：萬事達卡阿聯酋燈塔計劃旨在彌合初創企業生態系統與金融機構落地、規模化創新能力之間的差距。"
-    },
-    {
-      "id": "4893298",
-      "time": "2026-05-21 22:35:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "ATOM COMPUTING與美國商務部簽署意向書，獲得1億美元資金，用於加快容錯、公用規模量子計算的研發程序。"
-    },
-    {
-      "id": "4893297",
-      "time": "2026-05-21 22:35:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "【一汽解放與寧德時代開展技術交流】5月21日，寧德時代技術長高煥一行到訪一汽解放，雙方圍繞新能源商用車產品、技術及生態合作開展深度交流。會後，雙方領導對一汽解放“J6Pro”&寧德時代“泰山”電池車型聯合評審，並共同策劃後續推廣節奏。"
-    },
-    {
-      "id": "4893296",
-      "time": "2026-05-21 22:34:54",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【中馬港口聯盟擴容 增強區域供應鏈韌性】中馬港口聯盟第七次聯席會議21日在南寧舉辦，吸納安徽省港航集團、遼寧港口集團、廣州港集團加入聯盟，豐富中馬港航合作主體，啟用全域協作新動能。 中馬港口聯盟是中國與馬來西亞於2015年建立的政府間港口合作機制。本次大會以“人工智慧與數字化賦能，深化港航互聯，共築中馬合作新通道”為主題，吸引中馬兩國26家聯盟成員單位、21家觀察員單位參會。（中新網）"
-    },
-    {
-      "id": "4893295",
-      "time": "2026-05-21 22:34:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "萬事達卡推出創業對接與加速計劃，助力人工智慧與金融科技新銳企業對接生態系統合作伙伴及投資方。"
-    },
-    {
-      "id": "4893294",
-      "time": "2026-05-21 22:34:13",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "俄羅斯央行週四上調本國銀行業 2026 年利潤預期，至 3.4 萬億至 3.9 萬億盧布，摺合 477.5 億至 547.8 億美元，此前預估為 3.3 萬億至 3.8 萬億盧布。"
-    },
-    {
-      "id": "4893293",
-      "time": "2026-05-21 22:33:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "萬事達卡（Mastercard）在阿聯酋推出其初創企業參與及孵化專案“萬事達燈塔2026”（Mastercard Lighthouse 2026）。"
-    },
-    {
-      "id": "4893292",
-      "time": "2026-05-21 22:33:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "尼達姆將拉夫勞倫目標股價從400美元上調至405美元。"
-    },
-    {
-      "id": "te:markets:552815",
-      "time": "2026-05-21 22:33:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Copper Holds Retreat from Record High — Copper futures were at $6.2 per pound, sustaining the pullback from the record high of $6.65 on May 13th as skepticism over a peace agreement in the Middle East maintained energy prices elevated, squeezing demand for manufacturing inputs. Energy prices regained traction as momentary optimism over an agreement between the US and Iran waned, pressuring industrial metals. Still, prices drew support from a rally in artificial intelligence-related technology stocks since the start of May, which strengthened expectations for demand tied to electrification wiring in data centers. Meanwhile, supply from Codelco risked a pullback as the company is targeting roughly $2 billion in cost reductions and additional revenue through the integration of operations across three copper mines, as the company seeks to counter the effects of stagnant production and rising debt levels."
-    },
-    {
-      "id": "te:markets:552814",
-      "time": "2026-05-21 22:31:51",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Baltic Dry Index Falls to Over 2-Week Low — The Baltic Exchange's dry bulk freight index, which monitors rates for ships carrying dry bulk commodities, extended its decline into a fifth day on Thursday, falling about 1.4% to its lowest since May 5 at 2,964 points, pressured by the larger vessel segments. The panamax index, which usually carries 60,000 to 70,000 tons of coal or grain, slipped 4.1% to 2,276 points; and the capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, fell 0.9% to an over two-week low of 4,834 points. Conversely, the supramax index went up 0.3% to 1,571 points."
-    },
-    {
-      "id": "mkt:019e4af3-03a3-7bb7-824c-103bc42173ae",
-      "time": "2026-05-21 22:31:40",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "OPEC+ LIKELY TO AGREE OIL OUTPUT QUOTA HIKE OF 188,000 BPD AT JUNE 7 MEETING, SOURCES SAY"
-    },
-    {
-      "id": "4893291",
-      "time": "2026-05-21 22:31:35",
-      "tags": [
-        "其他",
-        "焦點",
-        "國際"
-      ],
-      "text": "訊息人士稱，石油輸出國組織與夥伴國（OPEC+）大機率會在6月7日的會議上同意將石油產量配額每日上調18.8萬桶。"
-    },
-    {
-      "id": "mkt:019e4af2-e2d6-7bb7-824c-0efe4344fa14",
-      "time": "2026-05-21 22:31:32",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "U.S. NATURAL GAS FUTURES PARE GAINS, UP 0.1%, AFTER EIA REPORTS BIGGER-THAN-EXPECTED STORAGE BUILD"
     }
   ]
 }
