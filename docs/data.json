@@ -1,7 +1,40 @@
 {
-  "updated": "2026-05-28 12:31:58",
-  "count": 15153,
+  "updated": "2026-05-28 12:35:57",
+  "count": 15152,
   "items": [
+    {
+      "id": "4903874",
+      "time": "2026-05-28 12:34:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "以太坊下跌4.5%，報1968.05美元，創3月30日以來新低。"
+    },
+    {
+      "id": "4903873",
+      "time": "2026-05-28 12:34:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "比特幣下跌3.2%，至4月13日以來最低點72732.08美元。"
+    },
+    {
+      "id": "4903872",
+      "time": "2026-05-28 12:33:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "豐田4月份對中東地區的汽車出口量同比暴跌 92%，僅售出 2418 輛。"
+    },
+    {
+      "id": "4903871",
+      "time": "2026-05-28 12:32:19",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【受中東衝突影響 豐田汽車銷量連續三月下滑】受中東衝突引發的供應鏈擾動波及，豐田汽車全球銷量連續第三個月同比走低，其對該地區的出口量銳減超九成。豐田週四公佈，4月含子公司大發汽車在內的全球銷量為902015輛，同比下降3.7%；同期產量則同比增長3.4%，達933685輛。相較於其他車企，豐田受此次衝突衝擊較小。儘管霍爾木茲海峽航運受阻，旗下工廠仍維持運轉。但若供應緊張局面持續、零部件出現短缺，豐田的抗風險能力將迎來考驗，也會凸顯全球車企對海灣地區零部件、原材料及能源供應的高度依賴。"
+    },
     {
       "id": "mkt:019e6cd9-d6df-722b-8ac9-6f26d03886ac",
       "time": "2026-05-28 12:31:09",
@@ -136068,59 +136101,6 @@
         "Importance 1"
       ],
       "text": "China Fiscal Spending Rises 1.3% in Jan-April — China’s fiscal spending climbed 1.3% year-on-year to CNY 9.48 trillion (USD 1.09 trillion) in the first four months of 2026. Spending execution reached 31.6% of the annual budget target, the fastest pace for the January–April period in five years, signaling that fiscal policy is being front-loaded to support economic stabilization. Central government spending rose 5.1%, while local government outlays increased 0.7%, official data showed. During the period, fiscal revenue increased 3.5% to CNY 8.34 trillion (USD 1.23 trillion), sharply accelerating from a 1.1% rise in the first quarter, highlighting an improvement in fiscal revenue. The country’s tax revenue grew 3.9% year-on-year to CNY 6.81 trillion, higher than the 1.7% increase recorded in the first quarter. Meanwhile, non-tax revenue rose 1.6% to CNY 1.53 trillion."
-    },
-    {
-      "id": "te:markets:552551",
-      "time": "2026-05-21 12:34:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "India",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Sensex Holds Gains for Second Day — India’s BSE Sensex opened about 0.3% higher at 75,569 on Thursday, following modest gains from the previous session as traders bet on a possible US-Iran deal and an end to the Middle East conflict, which pushed crude oil prices lower. Shipping data also showed that two Chinese oil tankers exited the Strait of Hormuz on Wednesday, a tentative sign of easing pressure in the Gulf. Investors also await India’s HSBC composite, manufacturing, and services PMI flash readings for May later in the day, which could provide fresh cues on the strength of economic activity and influence market sentiment. Protean shares surged 20% after the company posted a sharp year-on-year increase in profit and announced a final dividend along with new board appointments, while Sansera jumped 12.5% as its revenue and profit rose strongly from a year earlier, also accompanied by a final dividend and new director appointments. Other top performers included Samaan (+9.8%), Triveni Turbine (+5.9%), and Paras (+6%)."
-    },
-    {
-      "id": "te:markets:552550",
-      "time": "2026-05-21 12:33:56",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Palm Oil Extends Subdued Momentum — Malaysian palm oil futures slipped about 1% to below MYR 4,600 per tonne, sustaining a muted trend as weaker edible oil prices on the Dalian and Chicago exchanges weighed on sentiment. Weak exports added pressure, with cargo surveyors estimating shipments during May 1–20 fell 13.9%–20.5% from the prior month. Demand worries deepened after April imports from top buyer India plunged 26% in April from March to a four-month low, reflecting softer institutional buying and a narrowing discount versus rival oils. Still, losses were cushioned by firmer crude oil, which bolstered biodiesel demand expectations and underscored global supply risks. Support also came from Indonesia’s plan to centralize commodity exports from the world's largest producer, including palm oil, raising concerns over supply disruptions. Jakarta will also lift its biodiesel mandate to B50 from B40 in July, while Malaysia is set to raise its blending requirement to B15 from B10 in June."
-    },
-    {
-      "id": "4891822",
-      "time": "2026-05-21 12:33:18",
-      "tags": [
-        "市場"
-      ],
-      "text": "巴基斯坦KSE-100指數開盤後上漲1.2%，至167,069.80點。"
-    },
-    {
-      "id": "4891821",
-      "time": "2026-05-21 12:32:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【西雙版納：金版納·尚城開發商5年未補繳8000萬土地出讓金，自然資源部門已申請恢復執行】景洪工業和資訊化產業集聚區嘎灑片區管理委員會5月21日通報，西雙版納自然資源部門起訴開發商金版納·尚城公司，要求補繳8000萬土地出讓金。因該公司未按合同約定補繳，自然資源部門已提起訴訟，法院依法查封房產並啟動拍賣程式。目前，主管部門已申請恢復執行，法院正依法啟動司法拍賣流程。"
-    },
-    {
-      "id": "mkt:019e48ce-5017-7ee7-b68e-034cacc74b07",
-      "time": "2026-05-21 12:32:20",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "NVIDIA CORP: JP MORGAN RAISES TARGET PRICE TO $280 FROM $265"
     }
   ]
 }
