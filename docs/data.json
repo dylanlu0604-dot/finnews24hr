@@ -1,7 +1,48 @@
 {
-  "updated": "2026-05-29 06:49:23",
-  "count": 15295,
+  "updated": "2026-05-29 06:53:12",
+  "count": 15297,
   "items": [
+    {
+      "id": "mkt:019e70c9-3b52-7eef-a304-3005e9d03517",
+      "time": "2026-05-29 06:51:36",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "CENTCOM said Iranian state TV’s claim that Iranian forces shot down a US aircraft near Bushehr is false. No US aircraft were downed and all US aerial assets remain intact."
+    },
+    {
+      "id": "4905633",
+      "time": "2026-05-29 06:51:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "美軍中央司令部：伊朗國家電視臺稱，伊朗軍方在布什爾附近擊落一架美軍戰機。該訊息不實。事實上並無美軍軍機被擊落，美軍所有空中裝備均已核實到位。"
+    },
+    {
+      "id": "4905632",
+      "time": "2026-05-29 06:50:07",
+      "tags": [
+        "宏觀",
+        "公司",
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【5月29日隔夜要聞一覽】\n1、美股週四收高，三大股指均再創歷史新高。\n2、美國總統特朗普談及與伊朗的談判時表示：“歸根結底，我們掌握著所有籌碼，因為我們已經在軍事上擊敗了他們。”\n3、根據白宮記者團報道，美國副總統JD·萬斯表示，現在判斷與伊朗的協議“何時或是否”能夠達成還為時過早。\n4、美國財政部長斯科特·貝森特表示，特朗普提出的與德黑蘭達成協議的三個條件是：伊朗開放霍爾木茲海峽，交出其濃縮鈾，並且不追求核武器。\n5、據四名現任及前工作人員透露，特朗普政府官員已督促美國印鈔機構設計一款印有總統肖像的250美元面額紙幣。\n6、人工智慧公司Anthropic PBC在新一輪融資中募資650億美元，投後估值達到9650億美元，首次超過競爭對手OpenAI。\n7、戴爾科技股價盤後漲逾30%，此前這家硬體製造商給出的年度銷售展望遠超分析師預期，得益於人工智慧（AI）伺服器需求推動。\n8、亞馬遜近日關閉了一項內部AI使用量排行榜。此前員工為衝排名、刻意刷高AI呼叫量，導致公司算力成本激增。\n9、聖路易斯聯邦儲備銀行行長阿爾伯託·穆薩萊姆表示，政策制定者不能指望人工智慧可能帶來的生產率激增來緩解高企的通脹。"
+    },
+    {
+      "id": "4905631",
+      "time": "2026-05-29 06:49:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【A股進入2025年年度分紅密集實施期】目前，A股已進入上市公司2025年年度分紅密集實施期。同花順iFinD資料顯示，截至5月28日發稿，已有1353家A股上市公司釋出2025年年度權益分派實施公告。從實施進展來看，截至5月27日，已經有725家上市公司完成分紅。值得注意的是，上市公司分紅力度進一步加大。部分上市公司在落地2025年度分紅的同時，還披露了2026年季度分紅方案。（證券日報）"
+    },
     {
       "id": "4905630",
       "time": "2026-05-29 06:48:04",
@@ -137700,22 +137741,6 @@
         "Importance 1"
       ],
       "text": "NZX 50 Rises but Eyes 2nd Consecutive Weekly Los — The NZX 50 climbed 40 points, or 0.3%, to 12,918 in Friday morning trade, rising for a second straight session and tracking overnight gains on Wall Street as oil prices eased amid hopes of a US-Iran deal to end the war. Fresh data also lifted sentiment, as New Zealand’s retail sales grew more than expected in Q1, following Thursday’s data showing the trade surplus reached a record high, with exports climbing to an all-time high. However, traders remained focused on the RBNZ’s interest rate decision, as well as the first estimate of US GDP and the PCE price index due next week. Healthcare, consumer discretionary, industrials, and materials stocks drove the index higher, with notable gains from Fisher & Paykel (1.6%), Auckland International Airport (0.9%), Henderson Far East Income (1.0%), Summerset Group (0.8%), and Hallenstein Glasson (0.5%). For the week, the index fell 0.4%, marking what would be its second straight weekly decline, amid uncertainty surrounding US-Iran talks."
-    },
-    {
-      "id": "4893682",
-      "time": "2026-05-22 06:51:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯雅羅斯拉夫爾州遭無人機襲擊，當地州長證實此事。"
-    },
-    {
-      "id": "4893681",
-      "time": "2026-05-22 06:50:52",
-      "tags": [
-        "市場"
-      ],
-      "text": "【區域性過熱存風險隱憂，私募尋找策略新座標】近期，A股市場在相對高位展開震盪，內部結構的分化逐步擴大。以AI為核心的科技板塊總體吸金，與非科技板塊之間的“剪刀差”拉大。記者日前採訪了多家知名私募機構，受訪私募普遍認為，當前市場的結構性分化既有堅實的產業邏輯支撐，也暗含著區域性過熱的風險隱憂，而對這一分化的不同認知，正在催生從“聚焦進攻”到“攻守平衡”再到“逆向佈局”的策略分化，一場圍繞風險與機會的激辯正在股票私募領域悄然展開。（中證報）"
     }
   ]
 }
