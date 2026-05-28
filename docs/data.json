@@ -1,7 +1,47 @@
 {
-  "updated": "2026-05-28 22:35:27",
-  "count": 15170,
+  "updated": "2026-05-28 22:39:36",
+  "count": 15164,
   "items": [
+    {
+      "id": "4905153",
+      "time": "2026-05-28 22:37:10",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【機構：4月PCE報告發布後比特幣跌勢加劇】CoinMarketCap的資料顯示，比特幣下跌超過3%，一個多月來首次跌破73,000美元。引發拋售的是今早釋出的4月份個人消費支出價格指數(PCE)報告，該報告顯示通脹率同比升至3.8%。通脹走高的跡象，以及美聯儲未來潛在的加息，正使得加密貨幣對投資者的吸引力下降。CoinGlass的資料顯示，這在比特幣的多頭頭寸中得到了反映，過去24小時內有3.225億美元的多頭頭寸被清算。其中超過一半發生在過去12小時內。其他主要加密貨幣也走低，bitcoin cash大跌13.7%，至296.26美元，solana下跌4.4%，至80.08美元，以太幣下跌4.4%，至1,973美元。"
+    },
+    {
+      "id": "te:markets:554547",
+      "time": "2026-05-28 22:36:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Oil Swings as US and Iran Near Hormuz Deal — Brent crude oil futures fluctuated between gains and losses around $95 per barrel on Wednesday following reports that the US and Iran reached a preliminary agreement to extend their ceasefire and begin negotiations on Iran’s nuclear program. According to Axios, the proposed 60-day memorandum of understanding would guarantee unrestricted shipping through the Strait of Hormuz, though the deal still requires approval from President Donald Trump. The report also said Iran would remove all mines from the strait within 30 days. Earlier in the session, oil prices rose about 2% after the US said it destroyed several attack drones near Hormuz, while Kuwait reported intercepting a missile fired toward the country. Iran’s Revolutionary Guard also said several ships attempted unauthorized entry into the Persian Gulf, warning it would respond strongly to any disruption in the waterway."
+    },
+    {
+      "id": "te:markets:554546",
+      "time": "2026-05-28 22:35:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "WTI Swings as US and Iran Near Hormuz Deal — WTI crude oil futures fluctuated between gains and losses around $89 per barrel on Wednesday following reports that the US and Iran reached a preliminary agreement to extend their ceasefire and begin negotiations on Iran’s nuclear program. According to Axios, the proposed 60 day memorandum of understanding would guarantee unrestricted shipping through the Strait of Hormuz, though the deal still requires approval from President Donald Trump. The report also said Iran would remove all mines from the strait within 30 days. Earlier in the session, oil prices rose about 2% after the US said it destroyed several attack drones near Hormuz, while Kuwait reported intercepting a missile fired toward the country. Iran’s Revolutionary Guard also said several ships attempted unauthorized entry into the Persian Gulf, warning it would respond strongly to any disruption in the waterway."
+    },
+    {
+      "id": "4905152",
+      "time": "2026-05-28 22:34:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "INDRA：英國國家空中交通服務公司（NATS）與英德拉將成立合資企業IQONAIR，開發機場數字化塔臺系統。"
+    },
     {
       "id": "te:markets:554545",
       "time": "2026-05-28 22:34:40",
@@ -136405,90 +136445,6 @@
         "國際"
       ],
       "text": "【訊息人士：儘管霍爾木茲海峽航行受阻 歐佩克+仍計劃提高7月石油產量目標】四位訊息人士稱，七個主要的歐佩克+產油國在6月7日舉行會議時，很可能會同意將7月份的產量目標小幅上調，儘管其中幾個國家的供應仍因伊朗戰爭而受阻。訊息人士稱，這七個歐佩克+核心成員國設定的月度產量目標預計將上調約18.8萬桶/日。2026年第一季度，歐佩克+維持了產量不變，但自4月以來，儘管戰爭仍在持續，該組織仍每月上調產量目標。但自5月阿聯酋退出該組織以來，每月增產幅度有所縮減。分析人士和代表們認為，阿聯酋的退出雖然削弱了該組織對市場的影響力，但可能增強其內部凝聚力。此外，訊息人士稱，定於6月7日舉行的另外兩個歐佩克+會議預計不會做出任何政策調整。"
-    },
-    {
-      "id": "4893308",
-      "time": "2026-05-21 22:39:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "土耳其裁決為KEMAL KILICDAROGLU 出任共和人民黨領袖掃清障礙。"
-    },
-    {
-      "id": "4893307",
-      "time": "2026-05-21 22:39:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "土耳其主要股指BIST 100指數<.XU100>下跌5%，銀行指數<.XBANK>下跌5.2%，此前法院就主要反對黨領導層作出裁決。"
-    },
-    {
-      "id": "4893306",
-      "time": "2026-05-21 22:38:57",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【諮詢機構稱全球石油供應捉襟見肘 美國部分地區成品油庫存正迅速見底】能源研究與諮詢公司Energy Aspects的Amrita Sen表示，霍爾木茲海峽需要在6月底前重新開放，否則隨著原油庫存耗盡，油價可能大幅上漲。“我們現在看到的是創紀錄水平的去庫存，”該公司創始人兼市場情報主管Sen週四表示。“眼下我們實際上是在靠消耗這些庫存勉強維持供應。”她說，一旦煉油商不得不重返市場採購，“價格的上漲將是實質性的”。她指的是實物原油市場，而非石油金融期貨市場。“看看美國的成品油庫存，”Sen說。“美國部分地區正迅速見底。”她表示，一旦出現這種情況，實物原油市場價格“可能會升至前期高點”。"
-    },
-    {
-      "id": "4893305",
-      "time": "2026-05-21 22:38:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "【摩洛哥北部一樓房倒塌 致4人死亡】據摩洛哥方面21日訊息，該國北部非斯市一棟樓房倒塌，造成至少4人死亡、6人受傷。據悉，事故發生在該市南郊人口稠密區。目前傷者已被送往醫院，搜救行動仍在繼續。事故原因正在調查中。（央視新聞）"
-    },
-    {
-      "id": "4893304",
-      "time": "2026-05-21 22:37:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "【土耳其一法院裁決罷免主要反對黨領袖】土耳其一家法院作出標誌性裁決，罷免該國主要反對黨領袖。此舉或將鞏固埃爾多安總統的執政地位，同時也可能引發政局動盪，並再度衝擊市場。土耳其共和人民黨副主席Gul Ciftci週四向證實，安卡拉上訴法院宣佈作廢該黨2023年代表大會選舉結果。該裁決認定Ozgur Ozel的黨主席選舉無效，土耳其共和人民黨作為本土核心反對勢力，其格局或將徹底改寫。"
-    },
-    {
-      "id": "4893303",
-      "time": "2026-05-21 22:37:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "【義大利請求歐盟制裁以色列國家安全部長】義大利副總理兼外長塔亞尼21日在社交媒體上表示，他已請求歐盟對以色列國家安全部長本-格維爾實施制裁。塔亞尼稱，以方“在國際水域扣押活動人士，並對他們施加騷擾與羞辱”，相關行為“不可接受”，且“侵犯最基本的人權”。（央視新聞）"
-    },
-    {
-      "id": "4893302",
-      "time": "2026-05-21 22:36:20",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【禮來新一代減肥藥Retatrutide試驗資料公佈後，諾和諾德股價一度下跌1.8%】隨著禮來公司新一代減重注射劑 Retatrutide 的後期臨床試驗資料公佈，其競爭對手諾和諾德的股價應聲下跌，跌幅一度達1.8%。禮來表示，在長達一年半的試驗中，能夠耐受Retatrutide最高劑量的患者，其體重平均減輕了 28.3%。分析師表示，在胃腸道副作用方面，該藥似乎與諾和諾德的Wegovy（根據 STEP-1 研究）相當；不過，與禮來和諾和諾德目前已上市的GLP-1注射劑相比，Retatrutide在最高劑量下的患者停藥率（退賽率）似乎偏高。"
-    },
-    {
-      "id": "4893301",
-      "time": "2026-05-21 22:35:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "康菲石油加拿大公司總裁表示，加拿大阿爾伯塔省能源協議改善了加拿大油氣投資的風險狀況。"
-    },
-    {
-      "id": "4893300",
-      "time": "2026-05-21 22:35:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "【多家船廠訂單排到2030年】2026年一季度，我國造船業三大指標——造船完工量、新接訂單量和手持訂單量繼續領跑全球，多家船廠訂單排到了2030年。4月28日，在廣州市南沙區，全球首艘10800車LNG雙燃料汽車運輸船正式命名交付，重新整理全球同類船舶運力的新紀錄。在廣州南沙一個造船廠，2個40萬噸級的船塢裡擺滿了各種正在建造的大船，造船訂單已經排到2030年，大部分都是出口海外，國際訂單金額近千億元。2026年第一季度，工信部最新資料顯示，中國造船業新接訂單量佔全球總量的84.9%，完工量佔比57.3%，手持訂單量佔比69.8%，連續16年保持世界第一。（央視財經）"
-    },
-    {
-      "id": "4893299",
-      "time": "2026-05-21 22:35:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "萬事達卡：萬事達卡阿聯酋燈塔計劃旨在彌合初創企業生態系統與金融機構落地、規模化創新能力之間的差距。"
     }
   ]
 }
