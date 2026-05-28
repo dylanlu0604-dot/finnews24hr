@@ -1,7 +1,184 @@
 {
-  "updated": "2026-05-28 19:33:45",
-  "count": 15155,
+  "updated": "2026-05-28 19:37:42",
+  "count": 15163,
   "items": [
+    {
+      "id": "mkt:019e6e5f-9838-733d-92b7-186ec1edbc68",
+      "time": "2026-05-28 19:36:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ECB ACCOUNTS: Several members said the decision at this meeting was a \"difficult choice\"."
+    },
+    {
+      "id": "mkt:019e6e5f-6464-733d-92b7-1105fae6b4f0",
+      "time": "2026-05-28 19:36:44",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "ECB ACCOUNTS: Taking an 'ignoring (inf)' stance and refraining from any monetary-policy action is increasingly unlikely to be appropriate."
+    },
+    {
+      "id": "4904789",
+      "time": "2026-05-28 19:35:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【王傳福：比亞迪是中國自建充電站最多的車企，累計建成閃充站超6100座】在今日的比亞迪智慧化戰略釋出會上，比亞迪集團董事長兼總裁王傳福發表演講。他表示，比亞迪是中國自建充電站最多的車企，截至今年5月27日，累計建成閃充站6100+座。（新浪科技）"
+    },
+    {
+      "id": "4904788",
+      "time": "2026-05-28 19:35:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所（ICE）資料顯示，英國近月批發天然氣價格上漲5.1%，至每千卡118.78便士。"
+    },
+    {
+      "id": "mkt:019e6e5e-2346-733d-92b7-0f42d8ff9052",
+      "time": "2026-05-28 19:35:18",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "1211.HK",
+        "Impact bullish"
+      ],
+      "text": "China's BYD Chairman Wang Chuanfu said the company has built more than 6,100 fast-charging stations."
+    },
+    {
+      "id": "4904786",
+      "time": "2026-05-28 19:35:10",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行會議紀要：若就結束戰爭達成最終協議，通脹面臨的風險也不會迅速逆轉。"
+    },
+    {
+      "id": "4904785",
+      "time": "2026-05-28 19:34:48",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行會議紀要：與會者普遍認為，目前尚無證據表明已出現顯著的第二輪效應。"
+    },
+    {
+      "id": "4904784",
+      "time": "2026-05-28 19:34:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄獸植局：自5月30日起限制從亞美尼亞進口果蔬產品】總檯記者獲悉，當地時間5月28日，俄羅斯聯邦獸醫和植物檢疫監督局釋出通報稱，自5月30日起，俄羅斯將限制從亞美尼亞進口果蔬類農產品。該限制措施將持續有效，直至制定出確保運輸產品安全的相應機制為止。（央視新聞）"
+    },
+    {
+      "id": "4904783",
+      "time": "2026-05-28 19:34:06",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行會議紀要：有觀點認為，通脹預期脫錨風險已重新顯現。"
+    },
+    {
+      "id": "mkt:019e6e5c-f16c-733d-92b7-046a0e0095e1",
+      "time": "2026-05-28 19:34:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB ACCOUNTS: Several members were not opposed to interest-rate hikes."
+    },
+    {
+      "id": "mkt:019e6e5c-d97a-733d-92b6-ffeba672e76c",
+      "time": "2026-05-28 19:33:53",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "EURUSD",
+        "Impact bearish",
+        "DAX",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "ECB ACCOUNTS: More information on the impact of the energy shock will be released by June."
+    },
+    {
+      "id": "mkt:019e6e5c-d8c8-733d-92b6-f20f555c7f05",
+      "time": "2026-05-28 19:33:50",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact mixed",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "ECB ACCOUNTS: The energy price shock is now clear to be both large and increasingly persistent, raising the risk of spillovers to broader inf dynamics."
+    },
+    {
+      "id": "4904782",
+      "time": "2026-05-28 19:33:37",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行官員：焦點已轉向加息的最適當時機。"
+    },
+    {
+      "id": "4904781",
+      "time": "2026-05-28 19:33:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "比亞迪董事長表示，比亞迪已建成超6100座快充站。"
+    },
+    {
+      "id": "4904780",
+      "time": "2026-05-28 19:33:19",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行會議紀要：多位委員指出，此次決策屬於艱難抉擇。"
+    },
+    {
+      "id": "4904779",
+      "time": "2026-05-28 19:33:10",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行會議紀要：不採取任何貨幣政策行動、僅作觀望的做法愈發不恰當。"
+    },
+    {
+      "id": "em:qqyh_ozyh:202605283752938253",
+      "time": "2026-05-28 19:33:10",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "【歐洲央行會議紀要：通脹上行風險和經濟增長下行風險加劇】歐洲央行會議紀要顯示，通脹上行風險和經濟增長下行風險加劇；疲軟的增長可能會在衝突結束後持續很長時間。幾乎沒有證據表明能源價格的上漲正在產生二次效應；當前經典的負面供給衝擊的情況與2022年的情況不同。"
+    },
+    {
+      "id": "4904778",
+      "time": "2026-05-28 19:33:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中科曙光scaleX已完成6萬卡級叢集部署，亮相2026世界智慧產業博覽會】2026世界智慧產業博覽會在天津開幕，中科曙光攜scaleX萬卡超叢集真機參展。scaleX融合了超節點、高速網際網路絡、相變浸沒液冷等技術，可支撐高精度科學計算與低精度智慧計算協同執行，面向AI for Science（AI4S）場景。從中科曙光方面獲悉，scaleX已完成6萬卡級AI4S計算叢集部署，採用開放架構。"
+    },
     {
       "id": "mkt:019e6e5b-fc8e-733d-92b6-e8b7d19258b6",
       "time": "2026-05-28 19:33:02",
@@ -136065,92 +136242,6 @@
         "市場"
       ],
       "text": "融信中國4月合約銷售額3.234億元人民幣。"
-    },
-    {
-      "id": "4892877",
-      "time": "2026-05-21 19:36:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "斯泰蘭蒂斯：該平臺應覆蓋30款車型、200萬輛產能，通用零部件佔比最高可達70%。"
-    },
-    {
-      "id": "4892876",
-      "time": "2026-05-21 19:36:32",
-      "tags": [
-        "市場"
-      ],
-      "text": "斯泰蘭蒂斯米蘭上市股票在下跌3.5%後觸發自動停牌。"
-    },
-    {
-      "id": "te:markets:552750",
-      "time": "2026-05-21 19:36:20",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Sterling Flat as UK Business Activity Shrinks — The pound held at $1.343 as investors assessed S&P Global flash PMI data and Middle East developments. The survey revealed the UK economy contracted in May, ending a 12-month streak of growth, amid rising political uncertainty and the growing impact of the Middle East conflict. Businesses reported falling output, surging inflation, supply shortages, and job cuts. The weak PMI followed earlier data showing April inflation undershot expectations and the jobs market unexpectedly softened, complicating the Bank of England’s task as it is expected to raise interest rates at least twice this year. At the same time, Brent crude prices held near four-year highs amid concerns over a deadlock in Iran nuclear talks. In the UK, Chancellor Rachel Reeves announced a cost-of-living package, including the suspension of tariffs on over 100 supermarket foods and temporary VAT cuts on summer attractions."
-    },
-    {
-      "id": "4892875",
-      "time": "2026-05-21 19:36:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "【高豐集團控股：2026年上半財年由盈轉虧 預計2026年上半年淨虧損150萬港元】高豐集團控股公告，根據對集團截至2026年3月31日止六個月的未經稽核綜合管理賬目所作初步審閱及目前可得資料，集團預期2026年期間將錄得淨虧損約150萬港元，而2025年同期錄得淨溢利約620萬港元。董事會認為從2025年期間淨利轉為2026年期間淨虧損的主要原因在於收入下降，因為新專案仍處於初期階段，因此這些專案的大部分收入及因此產生的利潤尚未入賬，以及由於資本市場波動導致金融資產公允價值變動的淨虧損增加約160萬港元。"
-    },
-    {
-      "id": "4892874",
-      "time": "2026-05-21 19:36:12",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "納維奧斯海事合夥公司：預計伊朗衝突將對貿易產生長期影響。"
-    },
-    {
-      "id": "4892873",
-      "time": "2026-05-21 19:36:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "小米：小米YU7上市10個月，累計交付23.2萬臺。2026年1月，YU7銷量37869臺，成為月度銷量冠軍。"
-    },
-    {
-      "id": "4892872",
-      "time": "2026-05-21 19:35:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "斯泰蘭蒂斯：其模組化平臺在設計上可支援多種動力系統與多個車輛細分市場，目標是到2035年年產量突破200萬輛。"
-    },
-    {
-      "id": "4892871",
-      "time": "2026-05-21 19:35:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "斯特蘭蒂斯：STLA ONE全球模組化汽車架構將於2027年推出。"
-    },
-    {
-      "id": "4892870",
-      "time": "2026-05-21 19:34:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "【惠康科技：3708.79萬股股票上市交易】惠康科技公告，公司首次公開發行的3708.79萬股人民幣普通股股票全部為新股發行，不涉及股東公開發售股份的情形。其中，3485.6萬股人民幣普通股股票自2026年5月22日起可在深圳證券交易所上市交易。其餘股票的可上市交易時間按照有關法律法規、規章、深圳證券交易所業務規則及公司相關股東的承諾執行。"
-    },
-    {
-      "id": "4892869",
-      "time": "2026-05-21 19:34:41",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "摩根士丹利將英偉達公司目標價從285.00美元上調至288.00美元。"
     }
   ]
 }
