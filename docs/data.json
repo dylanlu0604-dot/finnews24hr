@@ -1,7 +1,32 @@
 {
-  "updated": "2026-05-29 04:57:50",
-  "count": 15279,
+  "updated": "2026-05-29 05:01:41",
+  "count": 15277,
   "items": [
+    {
+      "id": "4905581",
+      "time": "2026-05-29 04:58:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "戴爾美股盤後漲超22%。"
+    },
+    {
+      "id": "4905580",
+      "time": "2026-05-29 04:57:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "戴爾營運長：目前訂單儲備增速已超過歷史水平，這也讓我們有信心將本年度營收預期上調 270 億美元。"
+    },
+    {
+      "id": "4905579",
+      "time": "2026-05-29 04:57:31",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國聯邦通訊委員會將美國廣播公司旗下電視臺牌照的到期日提前至 5 月 28 日。"
+    },
     {
       "id": "mkt:019e705d-2699-7eef-a303-a617b3e5bcac",
       "time": "2026-05-29 04:53:33",
@@ -137507,55 +137532,6 @@
         "其他"
       ],
       "text": "英偉達宣佈即將面向金融界舉辦的活動。"
-    },
-    {
-      "id": "te:economy:552860",
-      "time": "2026-05-22 05:01:33",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Argentina",
-        "Monthly GDP YoY",
-        "Importance 0"
-      ],
-      "text": "Argentina Economic Activity Growth Hits 9-Month High — Argentina’s economic activity rose 5.5% year-on-year in March 2026, accelerating from a 2.1% increase in February and marking the strongest growth since June 2025. Fourteen of the fifteen sectors surveyed posted annual gains during the month. The strongest expansions were recorded in fishing (30.9%) and agriculture, livestock, hunting and forestry (17.9%). Mining and quarrying also grew strongly, up 16.3%, while manufacturing activity increased 4.6%. In contrast, public administration and defense; compulsory social security plans (-1.2%) was the only sector to contract. On a monthly basis, the economic activity indicator advanced 3.5%."
-    },
-    {
-      "id": "4893636",
-      "time": "2026-05-22 05:00:43",
-      "tags": [
-        "資料",
-        "央行",
-        "國際"
-      ],
-      "text": "韓國央行：5 月消費者信心指數為 106.1，4 月數值 99.2。"
-    },
-    {
-      "id": "4893635",
-      "time": "2026-05-22 05:00:30",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "韓國央行：5 月消費者 12 個月通脹預期中值 2.8%，4 月為 2.9%。"
-    },
-    {
-      "id": "mkt:019e4c56-8af5-7aa1-9581-d5259215acf8",
-      "time": "2026-05-22 05:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "South Korea | Consumer Confidence Index (May) | actual 106.1 | previous 99.2"
-    },
-    {
-      "id": "4893634",
-      "time": "2026-05-22 04:59:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "【“海上巨無霸”排隊出海 我國造船業領跑全球市場】2026年一季度，我國造船業三大指標——造船完工量‌、‌新接訂單量‌和‌手持訂單量繼續領跑全球。其中，新接訂單量同比增長195.2%，手持訂單量‌同比增長43.6%，訂單量佔世界總量近70%，多家船廠的訂單排到2030年。（央視財經）"
     }
   ]
 }
