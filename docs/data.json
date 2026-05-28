@@ -1,7 +1,91 @@
 {
-  "updated": "2026-05-28 12:27:58",
-  "count": 15146,
+  "updated": "2026-05-28 12:31:58",
+  "count": 15153,
   "items": [
+    {
+      "id": "mkt:019e6cd9-d6df-722b-8ac9-6f26d03886ac",
+      "time": "2026-05-28 12:31:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "JPMORGAN raised HP (HPQ.N) PT to $26 from $22."
+    },
+    {
+      "id": "4903870",
+      "time": "2026-05-28 12:30:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "豐田汽車4月份對中東的出口量下降超過90%。"
+    },
+    {
+      "id": "4903869",
+      "time": "2026-05-28 12:30:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "豐田集團4月份全球銷量下降3.7%至902,015輛。"
+    },
+    {
+      "id": "4903868",
+      "time": "2026-05-28 12:30:16",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "摩根大通將惠普公司目標股價從22美元上調至26美元。"
+    },
+    {
+      "id": "4903867",
+      "time": "2026-05-28 12:29:04",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【中東局勢推高運費 美國液化氣買家取消船貨訂單】受中東衝突影響，海運運費大幅飆升，部分美國液化石油氣買家取消了原本發往亞洲的貨運訂單。據不願具名的知情人士透露，已有至少兩批原定下月從美國墨西哥灣沿岸出口碼頭裝船的貨物被取消，還有部分買家正商議取消更多訂單。這些人士因無權對外發聲，故而選擇匿名。中東局勢導致霍爾木茲海峽近乎停運，波斯灣地區的供氣通道受阻，亞洲液化石油氣買家此前不得不緊急增購美國貨源。衡量美國液化氣出口東亞利潤的核心指標 —— 遠東指數 - 蒙特貝爾維尤價差持續收窄，疊加運費大漲，貿易商原本可觀的收益已被完全吞噬。"
+    },
+    {
+      "id": "mkt:019e6cd7-15eb-722b-8ac9-62558f7c8ba6",
+      "time": "2026-05-28 12:28:14",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot palladium fell 2.00% intraday to $1,357.64/oz."
+    },
+    {
+      "id": "mkt:019e6cd7-03f4-722b-8ac9-5f5a38285f29",
+      "time": "2026-05-28 12:28:05",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver touched a low of $72/oz, down 3.54% intraday."
+    },
+    {
+      "id": "mkt:019e6cd7-03eb-722b-8ac9-553782b8d4d1",
+      "time": "2026-05-28 12:28:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "WTI crude oil rose to $95/bbl, up 3.23% intraday; Brent crude jumped 3.00% intraday and is trading at $95.63/bbl."
+    },
+    {
+      "id": "mkt:019e6cd6-d3be-722b-8ac9-4a4796d094ac",
+      "time": "2026-05-28 12:27:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Ministry Of Industry And Information Technology Expediting Draft Of 15th Five-Year Plan For Pharmaceutical Industry】On May 28, at its regular monthly press briefing the Ministry of Natural Resources released and explained the Guiding Opinions on Accelerating High-Quality Development of Marine Drugs and Functional Products. Wang Xiaoyang, deputy director of the Department of Consumer Goods Industry at the Ministry of Industry and Information Technology, said MIIT is expediting preparation of the \"15th Five-Year Plan for Pharmaceutical Industry\" and is arranging to accelerate the development of \"innovative medicines\", \"inclusive medicines\", \"digital-intelligence medicines\" and \"open medicines\". The plan will designate marine drugs and functional products as priority development areas and, through improving top-level design, will further clarify development direction, specify development tasks, and provide clear guidance for the industry's high-quality development."
+    },
     {
       "id": "4903866",
       "time": "2026-05-28 12:27:12",
@@ -136037,28 +136121,6 @@
         "Impact bullish"
       ],
       "text": "NVIDIA CORP: JP MORGAN RAISES TARGET PRICE TO $280 FROM $265"
-    },
-    {
-      "id": "4891820",
-      "time": "2026-05-21 12:30:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣東34個鎮街出現特大暴雨 江西吉安釋出紅色預警】5月20日白天到21日早晨，廣東陽江、江門、中山、深圳、惠州、汕尾和揭陽普遍出現了暴雨到大暴雨區域性特大暴雨，茂名、湛江東部、汕頭、潮州、廣州、東莞、韶關、清遠和河源普遍出現了大雨到暴雨區域性大暴雨，其餘市縣出現了中到大雨區域性暴雨。據氣象水文監測，20日08時到21日08時，廣東全省平均雨量48.5毫米，562個鎮街大雨佔全省總鎮街數的75.4%，34個鎮街特大暴雨，188個鎮街大暴雨，473個鎮街暴雨。江西省吉安市氣象臺2026年5月21日11時23分變更暴雨紅色預警訊號：過去3小時，新幹縣金川鎮、神政橋鄉兩個站點達到100毫米以上，預計未來3小時內，以上鄉鎮的部分地區降水仍將持續，並伴有短時強降水、雷電等強對流天氣，請注意防範強降雨可能引發的城鄉內澇、中小河流洪水、山洪和地質災害等次生災害。"
-    },
-    {
-      "id": "mkt:019e48cb-599f-7ee7-b68d-ff16d147a420",
-      "time": "2026-05-21 12:29:06",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Copper",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "【Base Metals Drift as US and Iran Trade Threats on Peace Deal】Copper fluctuated between gains and losses after President Donald Trump said the US was nearing a deal with Iran, while both sides continued exchanging threats of further escalation. Copper later fell 0.2% to $13,631 a ton in Shanghai as a firmer dollar pressured metals. Markets remain cautious amid the prolonged standoff, with traders awaiting new catalysts after copper hit a record closing price last week on optimism over AI, clean technology and strategic demand."
     }
   ]
 }
