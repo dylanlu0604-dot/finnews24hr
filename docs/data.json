@@ -1,7 +1,42 @@
 {
-  "updated": "2026-05-29 06:34:06",
-  "count": 15298,
+  "updated": "2026-05-29 06:37:54",
+  "count": 15300,
   "items": [
+    {
+      "id": "mkt:019e70bb-1106-7eef-a304-29b64b8016d8",
+      "time": "2026-05-29 06:36:08",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Impact mixed"
+      ],
+      "text": "【Vance: US and Iran have not reached deal but are close】US Vice President Vance said on Thursday the US and Iran have not reached an agreement but are close, and that the US currently has the ability to significantly delay Iran’s nuclear program. Earlier reports said Washington and Tehran had agreed to extend a ceasefire and lift Strait of Hormuz shipping restrictions, subject to President Trump’s approval. Vance said key sticking points include Iran’s enriched uranium stockpile and enrichment activity; he warned it is difficult to say when or if a memorandum of understanding will be signed, that wording remains under negotiation, and he could not guarantee a deal though he felt fairly optimistic."
+    },
+    {
+      "id": "te:markets:554619",
+      "time": "2026-05-29 06:35:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Silver Rises by 1.83% — Top commodity gainers are Silver (1.83%), Copper (1.27%) and Gold (0.85%). Biggest loser is Lithium Carbonate (-0.85%)."
+    },
+    {
+      "id": "te:economy:554618",
+      "time": "2026-05-29 06:33:45",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "ANZ Roy Morgan Consumer Confidence Index",
+        "Importance 1"
+      ],
+      "text": "New Zealand Consumer Mood Rises from Near 3-Year Low — The ANZ-Roy Morgan Consumer Confidence increased to 86.5 in May 2026 from 80.3 in April, which was the lowest level since May 2023. The index has risen 6 points over the previous month but is still down 21 points from its January peak. The share of households seeing it as a good time to buy a major household item, a key retail indicator, gained 5 points to -20. Two-year inflation expectations eased to 5.6% from 6.6%, while house price expectations dropped 0.7 percentage points to 2.6%."
+    },
     {
       "id": "4905627",
       "time": "2026-05-29 06:33:23",
@@ -137729,17 +137764,6 @@
         "國際"
       ],
       "text": "【伊朗媒體：伊美在巴基斯坦調解下繼續對話】據伊朗學生通訊社22日凌晨報道，在巴基斯坦方面調解下，伊朗與美國之間的訊息和文字交換仍在繼續，目標是達成協議框架。報道援引巴基斯坦方面訊息人士的話說，若伊美雙方達成預期框架，巴基斯坦陸軍參謀長穆尼爾將到訪伊朗。（新華社）"
-    },
-    {
-      "id": "te:markets:552867",
-      "time": "2026-05-22 06:35:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Iron Ore CNY Spikes by 105.88% — Top commodity gainers are Iron Ore CNY (105.88%), Lithium Carbonate (1.68%) and Silver (1.03%). Biggest loser is Steel Rebar (-0.53%). Meanwhile Gold was little changed."
     }
   ]
 }
