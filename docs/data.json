@@ -1,7 +1,31 @@
 {
-  "updated": "2026-05-29 05:01:41",
-  "count": 15277,
+  "updated": "2026-05-29 05:05:35",
+  "count": 15278,
   "items": [
+    {
+      "id": "4905584",
+      "time": "2026-05-29 05:04:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "戴爾營運長：公司目前與客戶開展的長期合作洽談，均為多年期合作性質。"
+    },
+    {
+      "id": "4905583",
+      "time": "2026-05-29 05:03:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "惠與（HPE）美股盤後漲9%。"
+    },
+    {
+      "id": "4905582",
+      "time": "2026-05-29 05:02:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "戴爾營運長： 公司下半年將面臨供應短缺問題，並非市場需求不足。"
+    },
     {
       "id": "4905581",
       "time": "2026-05-29 04:58:27",
@@ -137516,22 +137540,6 @@
         "Importance 2"
       ],
       "text": "South Korea Consumer Confidence Rises in May — South Korea’s Composite Consumer Sentiment Index rose by 6.9 points to 106.1 in May 2026, as households grew more optimistic about economic conditions and income prospects. Sentiment regarding current living standards increased to 93 from 91, while expectations for future living standards rose five points to 97. Consumer sentiment for future household income edged up to 100, and expectations for future household spending increased to 110. Confidence in current domestic economic conditions jumped 15 points to 83, while expectations for future economic conditions rose 14 points to 93. Meanwhile, inflation expectations remained stable, with the one-year ahead expected inflation rate at 2.8%, while three-year and five-year ahead expectations both stood at 2.6%."
-    },
-    {
-      "id": "4893638",
-      "time": "2026-05-22 05:04:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "週四（5月21日）紐約尾盤（週五北京時間04:59），離岸人民幣（CNH）兌美元報6.8001元，較週三紐約尾盤漲21點，日內整體交投於6.8083-6.7963元區間。"
-    },
-    {
-      "id": "4893637",
-      "time": "2026-05-22 05:02:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "英偉達宣佈即將面向金融界舉辦的活動。"
     }
   ]
 }
