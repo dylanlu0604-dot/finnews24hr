@@ -1,7 +1,153 @@
 {
-  "updated": "2026-05-28 11:28:23",
-  "count": 15061,
+  "updated": "2026-05-28 11:32:29",
+  "count": 15068,
   "items": [
+    {
+      "id": "mkt:019e6ca3-56ad-700d-8f67-4bd06164db63",
+      "time": "2026-05-28 11:31:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China Government Bond Futures Morning Close】At the morning close, main contracts of China government bond futures were higher: 2-year TS up 0.01%, 5-year TF up 0.06%, 10-year T up 0.06%, and 30-year TL up 0.21%."
+    },
+    {
+      "id": "mkt:019e6ca3-48f4-7ff1-8684-1d718a23b0ca",
+      "time": "2026-05-28 11:31:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "【Stock Index Futures Morning Session Close】At the morning-session close, China's CSI 300 index futures (IF) most-active contract fell 0.45%, SSE 50 index futures (IH) most-active contract fell 0.54%, CSI 500 index futures (IC) most-active contract rose 0.06%, and CSI 1000 index futures (IM) most-active contract rose 0.47%."
+    },
+    {
+      "id": "mkt:019e6ca3-0bfa-700d-8f67-438c78ec60cc",
+      "time": "2026-05-28 11:31:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "Industrial Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "At the close of the morning session, China’s domestic futures most-active contracts were mixed: Shanghai silver (SHFE) fell more than 4%, platinum fell nearly 4%, palladium fell over 3% and Shanghai gold fell nearly 3%; urea, Shanghai aluminum, Shanghai nickel and Shanghai tin each lost more than 1%. On the upside, PTA gained nearly 3%; p-xylene, coke, short fiber and coking coal rose more than 2%; bottle-grade PET chips, PVC and rapeseed oil rose nearly 2%."
+    },
+    {
+      "id": "4903770",
+      "time": "2026-05-28 11:31:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蔚來關聯公司在海南成立新公司】天眼查App顯示，近日，蔚啟（海南）投資有限公司成立，法定代表人為王志娟，註冊資本1000萬人民幣，經營範圍為以自有資金從事投資活動，由蔚來關聯公司蔚然（南京）動力科技有限公司全資持股。"
+    },
+    {
+      "id": "4903769",
+      "time": "2026-05-28 11:30:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "日經225指數最新報64571.54點，跌幅0.66%。"
+    },
+    {
+      "id": "4903768",
+      "time": "2026-05-28 11:30:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【長鑫科技參保人數3年暴漲216倍 實際控制超10家企業】據媒體報道，5月27日，上交所官網顯示，長鑫科技科創板IPO申請已透過上交所上市委審議，並在同日提交註冊，正式步入註冊程式。此次公司擬募資295億元，有望成為2026年以來A股最大IPO。天眼查App顯示，長鑫科技集團股份有限公司成立於2016年6月，法定代表人為趙綸，註冊資本約601.9億人民幣，經營範圍包括積體電路設計、製造、加工等，由合肥清輝集電企業管理合夥企業（有限合夥）、合肥長鑫積體電路有限責任公司、國家積體電路產業投資基金二期股份有限公司等共同持股。參保人數資訊顯示，該公司參保人數從2021年的25人增至2024年的5418人。控制企業資訊顯示，該公司實際控制超10家企業，包括長鑫儲存技術有限公司、長鑫儲存產品（合肥）有限公司等。"
+    },
+    {
+      "id": "mkt:019e6ca2-0639-700d-8f67-389e2b73ea19",
+      "time": "2026-05-28 11:30:18",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "2454.TW",
+        "Impact bullish"
+      ],
+      "text": "【MediaTek To Showcase 6G And Optical Communications Technologies At Computex 2026】MediaTek will exhibit at Computex 2026 co‑packaged optics (CPO) technology supporting 400 Gbps per fiber, and MicroLED optical technology for active optical cables (AOC) used in data‑center interconnects; the MicroLED solution can be monolithically integrated into CMOS transceivers compatible with existing data‑center equipment, offers copper‑like reliability and can reduce power consumption by 50%. MediaTek will also present two new 6G technology concepts — '6G wireless access interoperability' and '6G device collaborative multi‑antenna' — the latter allowing phones or wearables to aggregate signals from other indoor 6G devices and increasing network downlink throughput by more than 60%."
+    },
+    {
+      "id": "4903767",
+      "time": "2026-05-28 11:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤收盤】 中證1000指數期貨連續漲0.47%， 滬深300指數期貨連續跌0.45%， 中證500指數期貨連續漲0.06%， 上證50指數期貨連續跌0.54%。"
+    },
+    {
+      "id": "4903766",
+      "time": "2026-05-28 11:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨早盤收盤】 30年期主力合約漲0.21%， 10年期主力合約漲0.06%， 5年期主力合約漲0.06%， 2年期主力合約漲0.01%。"
+    },
+    {
+      "id": "4903765",
+      "time": "2026-05-28 11:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨早盤收盤】白銀連續跌4.97%，鉑連續跌3.78%，鈀連續跌3.75%，PTA連續漲2.96%，黃金連續跌2.75%。"
+    },
+    {
+      "id": "4903764",
+      "time": "2026-05-28 11:29:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京建成18家標準化零工市場】經過兩年多的系統建設與迭代升級，北京已建成18家標準化零工市場，搭建起線上線下互通、服務閉環完善的靈活就業服務矩陣，讓零工求職從“路邊碰運氣”變為“進場穩就業”。昨日，記者從北京市人社局獲悉，今年前四個月，全市零工市場累計撮合就業近18萬人次，發放勞動報酬超5600萬元，同比分別增加119.8%、147.8%。（北青報）"
+    },
+    {
+      "id": "4903763",
+      "time": "2026-05-28 11:29:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【聯發科將於Computex 2026展示6G、光通訊等技術佈局】聯發科（MediaTek）將於Computex 2026展出400Gbps/fiber頻寬速率的共封裝光學（CPO）技術，以及可應用於資料中心互連有源光纜（AOC）的MicroLED光學技術應用，可單晶整合至與現有資料中心裝置相容的CMOS收發器中，擁有銅線的可靠性並可降低50%功耗。同時，聯發科還展出兩項新的6G技術概念，包括“6G無線接取互通性”和“6G裝置協作多天線”技術，後者可讓手機或穿戴裝置聚合室內其他6G裝置的訊號，網路下行吞吐量提升超過60%。"
+    },
+    {
+      "id": "mkt:019e6ca1-0741-7ff1-8684-11642b537719",
+      "time": "2026-05-28 11:28:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component"
+      ],
+      "text": "ChiNext Index moved into positive territory approaching the midday break after earlier dropping as much as 1.8%; Shenzhen Composite Index's loss narrowed to 0.36%, while the Shanghai Composite fell 0.21%."
+    },
+    {
+      "id": "4903762",
+      "time": "2026-05-28 11:28:21",
+      "tags": [
+        "焦點"
+      ],
+      "text": "創業板指探底回升翻紅。"
+    },
+    {
+      "id": "mkt:019e6ca0-1053-7ff1-8684-0e24da5e5bae",
+      "time": "2026-05-28 11:26:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish",
+        "Hang Seng Index",
+        "CSI300"
+      ],
+      "text": "MSCI Asia-Pacific Index fell 1%."
+    },
     {
       "id": "mkt:019e6c9f-47bc-7ff1-8684-03605ddf69b1",
       "time": "2026-05-28 11:26:28",
@@ -135190,77 +135336,6 @@
         "國際"
       ],
       "text": "印度10年期國債收益率下跌5個基點至7.03%。"
-    },
-    {
-      "id": "4891764",
-      "time": "2026-05-21 11:31:43",
-      "tags": [
-        "公司",
-        "市場",
-        "焦點"
-      ],
-      "text": "【午評：創業板指衝高回落半日漲0.52%，光學光電子、證券板塊漲幅居前】A股三大指數早盤衝高回落，截至午盤，上證指數平收，深證成指漲0.59%，創業板指漲0.52%，北證50漲0.90%，科創50指數跌0.06%。全市場成交額21178億元，較上日放量1953億元，全市場超2300只個股上漲。板塊題材上，光學光電子、證券、人形機器人、無人駕駛板塊漲幅居前，油氣開採及服務、通訊服務、半導體制造板塊跌幅居前。盤面上，光學光電子板塊早盤大漲，京東方A一字漲停，深天馬A、彩虹股份等股封板，此前京東A與康寧公司達成合作。證券板塊開盤衝高，華安證券收穫漲停，國元證券、招商證券漲幅居前。人形機器人概念股盤中拉昇，上緯新材、昊志機電領漲板塊，另有北特科技等多股漲停。跌幅方面，油氣股早盤下挫，通源石油、中油工程領跌板塊，半導體板塊內部分化，上海合晶跌超10%，東芯股份、利揚晶片紛紛下挫。"
-    },
-    {
-      "id": "4891763",
-      "time": "2026-05-21 11:31:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【小鵬劉先明稱特斯拉FSD入華是好事，小鵬在本地化場景、資料、算力上有優勢】今日，特斯拉官推發文公佈了監督版FSD的最新佈局，其中提到監督版FSD可以在中國使用。 談及此事，小鵬集團通用智慧中心負責人劉先明表示，FSD進入中國是好事，能形成良性競爭，推動行業進步，小鵬歡迎這種高水平對比。與特斯拉FSD相比，小鵬的優勢在於中國本地化場景適配、本土資料積累、本地算力最佳化，能解決中國特有的路況問題；特斯拉在部分技術上有優勢，雙方會在競爭中互相促進，和國內同行一起推動行業發展。"
-    },
-    {
-      "id": "mkt:019e4895-534f-777f-8615-45805dcfb996",
-      "time": "2026-05-21 11:30:06",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "INDIAN CENTRAL BANK LIKELY SOLD U.S. DOLLARS HEAVILY PRE-MARKET OPEN TO SHORE UP RUPEE - TRADERS"
-    },
-    {
-      "id": "4891761",
-      "time": "2026-05-21 11:30:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【股指期貨早盤收盤】 中證1000指數期貨連續跌0.08%， 滬深300指數期貨連續漲0.63%， 中證500指數期貨連續漲0.41%， 上證50指數期貨連續漲0.52%。"
-    },
-    {
-      "id": "4891760",
-      "time": "2026-05-21 11:30:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國債期貨早盤收盤】 30年期主力合約跌0.19%， 10年期主力合約跌0.10%， 5年期主力合約跌0.07%， 2年期主力合約跌0.03%。"
-    },
-    {
-      "id": "4891759",
-      "time": "2026-05-21 11:30:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【商品期貨早盤收盤】集運指數歐線期貨連續漲7.68%，上海原油連續跌4.39%，低硫燃料油連續跌4.04%，液化石油氣連續跌3.27%，錫連續漲3.25%。"
-    },
-    {
-      "id": "4891758",
-      "time": "2026-05-21 11:29:20",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "澳大利亞國民銀行將澳聯儲加息預期時間從6月推遲至8月。"
-    },
-    {
-      "id": "4891757",
-      "time": "2026-05-21 11:28:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "【第八屆西洽會在重慶開幕 集中籤約專案合同額超1000億元】5月21日，第八屆中國西部國際投資貿易洽談會（以下簡稱“西洽會”）在重慶開幕。本屆西洽會以“新西部、新制造、新服務”為主題，邀請英國擔任主賓國，四川省為常設主賓省，韓國京畿道擔任主賓城，來自50個國家和地區的近1400家企業參展參會，會期將持續到5月24日。聚焦新質生產力培育，推動高質量發展，本屆西洽會共設綜合形象、生產性服務業、產業融合發展、國際和區域合作四大主題展區，展覽面積達15萬平方米。期間將舉辦開幕式、主題活動、投資貿易對接、消費促進等近40場活動。作為西部地區對外開放的重要視窗，前七屆西洽會碩果累累，累計簽約專案超1400個、投資總額突破2萬億元。這場發端於西部的經貿盛會，既深化國內區域產業協作，也不斷擴容國際“朋友圈”，正成為聯通東西、融匯中外的全球性經貿合作平臺。"
     }
   ]
 }
