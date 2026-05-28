@@ -1,7 +1,95 @@
 {
-  "updated": "2026-05-28 14:09:13",
-  "count": 15176,
+  "updated": "2026-05-28 14:13:19",
+  "count": 15181,
   "items": [
+    {
+      "id": "4904000",
+      "time": "2026-05-28 14:12:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "道達爾能源公司申請諾曼底外海1.5吉瓦海上風電場開發許可。"
+    },
+    {
+      "id": "mkt:019e6d35-7c9e-722b-8aca-d92268038f47",
+      "time": "2026-05-28 14:11:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "02513.HK",
+        "Impact bullish"
+      ],
+      "text": "Zhipu (02513.HK) rose more than 15% on turnover exceeding HK$1.6 bln, lifting market capitalization above HK$720 bln."
+    },
+    {
+      "id": "4903999",
+      "time": "2026-05-28 14:11:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【杭州豪宅驗資門檻最高升至8000萬元，二手平臺1888元就能“代驗資看房”】杭州“頂豪六小龍”受市場關注，濱江望天際因參觀人數過多，將506平方米戶型驗資標準提至8000萬元，且每日限40組參觀。儘管看房門檻極高，但購房者熱情不減。二手平臺上“代驗資、帶看房”生意興起，收費998元到1888元不等，看最大戶型需額外加錢。專家稱，這反映了市場對高階產品銷售的承接力，也催生了此類“奇怪”服務。（每經）"
+    },
+    {
+      "id": "4903998",
+      "time": "2026-05-28 14:10:40",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【算力硬體概念持續拉昇 聯特科技觸及20cm漲停】午後算力硬體概念漲勢擴大，光通訊、PCB方向領漲，聯特科技觸及20cm漲停，銅冠銅箔逼近20cm漲停，此前天通股份、寶鼎科技、宏和科技、金安國紀等漲停，德福科技、芯碁微裝、國際復材、日聯科技等多股漲超10%。"
+    },
+    {
+      "id": "te:markets:554314",
+      "time": "2026-05-28 14:10:26",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Poised for Lower Open — European equity markets were set for a weaker open on Thursday as renewed hostilities between the US and Iran reduced hopes for a near-term peace agreement that could end the conflict and reopen the Strait of Hormuz. The two sides also remained deadlocked over several key issues, including Tehran’s insistence on retaining control of Hormuz and preserving its nuclear program. In Europe, investors will focus on upcoming Eurozone business and consumer confidence data, while the corporate calendar remains quiet with no major earnings releases scheduled. In premarket trading, Euro Stoxx 50 and Stoxx 600 futures were both down around 0.8%."
+    },
+    {
+      "id": "4903997",
+      "time": "2026-05-28 14:10:24",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點"
+      ],
+      "text": "【智譜港股漲超15%】智譜港股漲15.02%，報1639.00港元。"
+    },
+    {
+      "id": "4903996",
+      "time": "2026-05-28 14:09:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "小鵬集團(09868.HK)漲7%，何小鵬稱L4自動駕駛兩年內實現。"
+    },
+    {
+      "id": "4903995",
+      "time": "2026-05-28 14:09:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "據燈塔專業版，截至5月28日，大麥娛樂參與出品的影片《給阿嬤的情書》票房突破12億。"
+    },
+    {
+      "id": "mkt:019e6d33-830e-722b-8aca-d78c3ceb8712",
+      "time": "2026-05-28 14:09:12",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "09868.HK",
+        "Impact bullish"
+      ],
+      "text": "XPeng Inc (09868.HK) shares rose 7% after He Xiaopeng said L4 autonomous driving would be realized within two years."
+    },
     {
       "id": "4903994",
       "time": "2026-05-28 14:07:11",
@@ -136267,42 +136355,6 @@
         "市場"
       ],
       "text": "【光纖概念持續走弱 匯源通訊跌停】午後光纖概念持續走弱，匯源通訊跌停，特發資訊、通光線纜、唯科科技、通鼎互聯、長盈通、亨通光電、中天科技均跌超5%。"
-    },
-    {
-      "id": "4891945",
-      "time": "2026-05-21 14:13:13",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "【高盛：共同基金難以追上不斷走高的基準股指】高盛分析師表示，大型共同基金雖然帶來了正收益，但難以跟上不斷上漲的基準股票指數。今年迄今，納斯達克指數上漲13%，標普500指數上漲8.6%。包括Ryan Hammond在內的團隊指出，年迄今，僅有29%的基金跑贏了其標的指數，遠低於37%的歷史平均水平。今年以來，流入美國股票型共同基金和ETF的資金已加速，達1,660億美元共同基金繼續加大對半導體行業的配置，並減持軟體股，目前對後者的持倉比例已降至至少自2012年以來的最低水平。基金繼續低配美國科技巨頭，主要由於投資組合多元化限制所致。基金積極減持所有所謂“七巨頭”股票的淨持股比例，其中Alphabet的減持幅度最大。"
-    },
-    {
-      "id": "4891944",
-      "time": "2026-05-21 14:11:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "【菲司法部稱已執行對參議員德拉羅薩的逮捕令】據菲律賓媒體21日報道，菲司法部已指示國家警察及國家調查局執行國際刑事法院針對參議員羅納德·德拉羅薩發出的逮捕令。國際刑事法院本月11日發表宣告，公開了去年11月秘密簽發的針對德拉羅薩的逮捕令，理由是他參與了菲前總統杜特爾特領導的打擊毒品犯罪行動。德拉羅薩隨即請求菲最高法院立即阻止政府逮捕他本人或將他移交給國際刑事法院。菲最高法院20日宣佈駁回上述請求。（新華社）"
-    },
-    {
-      "id": "4891943",
-      "time": "2026-05-21 14:10:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "【楊梅商家普遍與漳州劃清界限 有商家稱楊梅銷量較往年跌9成】楊梅違規“泡藥”事件持續發酵，負面影響已蔓延至整個楊梅產業。第一財經記者實地探訪深圳水果市場瞭解到，商家普遍主動與漳州貨源劃清界限，目前在售楊梅貨源主要來自雲南、浙江等地，但影響仍未能倖免。有商家向記者表示，今年楊梅銷量明顯下滑，單日出貨量僅在十餘箱，僅僅是往年的約十分之一。同時，散裝和箱裝楊梅價格均較去年有所降低。商家表示，消費者和商家們看到新聞後普遍對購買楊梅持觀望態度，產地不是漳州的也一樣受到影響。 （第一財經）"
-    },
-    {
-      "id": "4891942",
-      "time": "2026-05-21 14:10:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內跌幅達1.09%，成分股中，天嶽先進跌6.99%，晶合整合跌5.55%，翱捷科技跌5.47%，華潤微跌5.03%。"
     }
   ]
 }
