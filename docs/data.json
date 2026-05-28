@@ -1,7 +1,32 @@
 {
-  "updated": "2026-05-29 05:28:55",
-  "count": 15281,
+  "updated": "2026-05-29 05:32:48",
+  "count": 15282,
   "items": [
+    {
+      "id": "4905597",
+      "time": "2026-05-29 05:31:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧今日與肯亞總統通電話，討論了埃博拉疫情。"
+    },
+    {
+      "id": "mkt:019e707f-13f2-7eef-a303-c205390d385d",
+      "time": "2026-05-29 05:30:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US State Department says the US government plans to commit $13.5 mln to support Ebola prevention efforts in Kenya."
+    },
+    {
+      "id": "4905596",
+      "time": "2026-05-29 05:30:12",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院：美國政府計劃出資 1350 萬美元，用於支援肯亞開展埃博拉疫情防範工作。"
+    },
     {
       "id": "4905595",
       "time": "2026-05-29 05:27:20",
@@ -137551,27 +137576,6 @@
         "國際"
       ],
       "text": "訊息人士稱：美國國土安全部長穆林向航空業高管警示，特朗普政府或暫停部分庇護城市機場的國際旅客出入境辦理業務。"
-    },
-    {
-      "id": "4893649",
-      "time": "2026-05-22 05:31:57",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【兩年期美債收益率漲2.8個基點】週四（5月21日）紐約尾盤，美國10年期國債收益率跌1.59個基點，報4.5696%，北京時間18:25短線拉昇，21:44重新整理日高至4.6314%，01:09短線跳水。兩年期美債收益率漲2.80個基點，報4.0830%；30年期美債收益率跌3.11個基點，報5.0919%。2/10年期美債收益率利差跌4.382個基點，報+48.448個基點，整體持續走低。10年期通脹保值國債（TIPS）收益率漲0.55個基點，至2.1350%，18:25也曾短線拉昇；兩年期TIPS收益率漲4.60個基點，至1.3292%；30年期TIPS收益率跌2.31個基點，至2.8077%。"
-    },
-    {
-      "id": "te:markets:552864",
-      "time": "2026-05-22 05:30:54",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "Ibovespa Edges Up on Mideast Peace Prospects — The Ibovespa gained 0.2% to close at 177,650 on Thursday on hopes of an Iran-US peace deal. Oil prices retreated amid signs of a possible diplomatic breakthrough in the Middle East conflict. Reports indicated that the US and Iran had reached an agreement through Pakistani mediation, while US Secretary of State Marco Rubio said there were “some good signs” that a deal to end the war in Iran could be in sight. Financial stocks advanced as easing energy pressures supported sentiment, with Itaú up 1.1% and Bradesco adding 0.5%. Vale rose 0.8%, reversing earlier losses despite lower iron ore prices. Petrobras gained 0.8% even as oil prices moved lower abroad, after the company joined the federal government’s subsidy program for petroleum-based fuel producers and importers. Steelmakers also outperformed, with CSN rising 3.4% on a stronger industry outlook and Usiminas up 2% after a Goldman Sachs upgrade. In contrast, Minerva dropped 5.4% after Itaú BBA downgraded the stock."
     }
   ]
 }
