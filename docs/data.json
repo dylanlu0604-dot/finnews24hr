@@ -1,7 +1,62 @@
 {
-  "updated": "2026-05-28 13:41:10",
-  "count": 15186,
+  "updated": "2026-05-28 13:45:10",
+  "count": 15183,
   "items": [
+    {
+      "id": "mkt:019e6d1b-b623-722b-8aca-89c9c5f1e666",
+      "time": "2026-05-28 13:43:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "China A-share communications equipment sector continued to rally, with ZTE up more than 8%; Dingtong Technology and Changyingtong hit intraday record highs; Guangku Technology and Liante Technology rose over 10%."
+    },
+    {
+      "id": "4903959",
+      "time": "2026-05-28 13:42:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "【通訊裝置板塊持續拉昇，中興通訊漲超8%】通訊裝置板塊持續拉昇，中興通訊漲超8%，鼎通科技、長盈通盤中創新高，光庫科技、聯特科技漲超10%。"
+    },
+    {
+      "id": "mkt:019e6d1a-8f1f-722b-8aca-8682731d9362",
+      "time": "2026-05-28 13:41:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China Aero‑Engine Corporation Unveils System Airborne Industry Technology And Capability Center In Wuxi】According to Wuxi Daily, on May 27 China Aero‑Engine Corporation (AECC) unveiled its System Airborne Industry Common Technology and Capability Center in Wuxi. Wuxi Party Secretary Du Xiaogang and MAYOR Jiang Feng held talks with AECC Chairman Zhang Yujin and Vice General Manager Deng Zhiwei and jointly witnessed the Wuxi municipal government and the AECC Control System Research Institute signing a strategic cooperation agreement. The new center will act as AECC’s lead and enabling institution for expanding incremental business in the system airborne industry. Under the strategic pact, Wuxi city and the AECC research institute will deepen cooperation on industrial layout, ecosystem building, platform construction and talent attraction and development to help establish a civil aviation airborne and propulsion systems industry hub with significant influence."
+    },
+    {
+      "id": "4903958",
+      "time": "2026-05-28 13:41:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "【北證50指數漲幅擴大至1%】北證50指數漲幅擴大至1%，現報1266.43點。"
+    },
+    {
+      "id": "4903957",
+      "time": "2026-05-28 13:41:30",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內漲幅達1.03%，成分股中，諾思蘭德漲9.24%，矽烷科技漲6.58%，奧迪威漲6.31%，同惠電子漲4.25%。"
+    },
+    {
+      "id": "4903956",
+      "time": "2026-05-28 13:41:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "截止13:41，兩市100只個股漲停。"
+    },
     {
       "id": "mkt:019e6d19-390a-722b-8aca-7d232ef771cb",
       "time": "2026-05-28 13:40:29",
@@ -136323,86 +136378,6 @@
         "公司"
       ],
       "text": "阿布扎比國家石油公司（ADNOC）：將投資1500億美元，以滿足全球能源需求，同時推動人工智慧、先進製造、物流與工業領域的國內增長。"
-    },
-    {
-      "id": "4891903",
-      "time": "2026-05-21 13:45:06",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "恒生科技指數跌超1%，現報4823.640點；恒生指數現跌0.439%。"
-    },
-    {
-      "id": "4891902",
-      "time": "2026-05-21 13:44:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "小枝淳子：中性利率下限高於1% 。"
-    },
-    {
-      "id": "4891901",
-      "time": "2026-05-21 13:43:55",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "小枝淳子：關注中東危機導致的價格上漲的速度和幅度。"
-    },
-    {
-      "id": "4891900",
-      "time": "2026-05-21 13:43:25",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "國債期貨午後跌幅擴大，30年期主力合約跌0.31%，10年期主力合約跌0.16%，5年期主力合約跌0.10%，2年期主力合約跌0.02%。"
-    },
-    {
-      "id": "4891899",
-      "time": "2026-05-21 13:43:12",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "受美伊談判不確定性及美國原油庫存下降影響，布倫特原油期貨反彈1.06美元至每桶106.08美元。"
-    },
-    {
-      "id": "4891898",
-      "time": "2026-05-21 13:42:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "【小米申請註冊MiMo Claw商標】天眼查智慧財產權資訊顯示，近日，小米科技有限責任公司申請註冊“XIAOMIMIMOORBIT”“XIAOMIMIMOCLAW”商標，國際分類涉及科學儀器、網站服務，當前商標狀態均為等待實質審查。"
-    },
-    {
-      "id": "te:markets:552572",
-      "time": "2026-05-21 13:42:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "New Zealand Stocks Rebound, End Up 0.9% — The NZX 50 rose 117 points, or 0.9%, to close at 12,878 on Thursday, reversing morning weakness and snapping losses from the previous session after hitting its lowest level since March 30 a day earlier. The broader index tracked gains on Wall Street overnight as inflation concerns eased after US President Trump stated that a deal with Iran could come soon, while Nvidia recorded earnings above expectations. Fresh data also lifted sentiment, as New Zealand's trade surplus reached a record high, with exports climbing to an all-time high. However, traders remained cautious ahead of the release of New Zealand's retail sales data on Friday, with the market expecting quarterly retail sales growth to ease in Q1. Financials, industrials, and technology drove the index higher, with notable gains from AFT Pharmaceuticals (7.7%), Infratil (4.0%), Port of Tauranga (3.4%), Fletcher Building (2.7%), Freightways Group (2.1%), ANZ Group (1.6%), Westpac Banking Corp. (1.3%), and Fisher & Paykel (1.0%)."
-    },
-    {
-      "id": "4891897",
-      "time": "2026-05-21 13:41:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "小枝淳子：通脹擔憂推高全球長期收益率。"
-    },
-    {
-      "id": "4891896",
-      "time": "2026-05-21 13:41:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "小枝淳子：以合適的速度加息是適宜之舉。"
     }
   ]
 }
