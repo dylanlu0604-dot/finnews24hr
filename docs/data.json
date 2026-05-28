@@ -1,7 +1,88 @@
 {
-  "updated": "2026-05-28 10:16:03",
-  "count": 14984,
+  "updated": "2026-05-28 10:19:48",
+  "count": 14987,
   "items": [
+    {
+      "id": "te:economy:554248",
+      "time": "2026-05-28 10:18:16",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Korea",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "South Korea’s 10Y Yield Rises After BoK Decision — South Korea’s 10-year government bond yield rose to around 4.16% in late May, moving back toward its highest level since November 2023, after the central bank held rates steady but signaled a more hawkish tilt. The Bank of Korea raised its inflation outlook for this year to 2.7%, up from 2.2% in February, citing higher energy costs following disruptions linked to the Iran conflict. It also lifted its 2026 growth forecast to 2.6% from 2%, reflecting a stronger-than-expected Q1 rebound driven by booming global demand tied to artificial intelligence. Against this backdrop, the central bank’s dot plot for policy rates six months ahead showed a clear hawkish shift, with two members projecting rates as high as 3.25% in risk scenarios. Most projections clustered around 3%, pointing to expectations of roughly two additional rate hikes over the coming half year."
+    },
+    {
+      "id": "mkt:019e6c5f-c034-7666-9cf1-925a88906cca",
+      "time": "2026-05-28 10:17:54",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China Tech Giants"
+      ],
+      "text": "【HarmonyOS Ecosystem Devices Exceed 1.3 Billion】At the OpenHarmony Developer Conference 2026 on May 28, Xie Shaofeng, chairman of the OpenAtom Open Source Foundation, said the OpenHarmony community’s codebase has surpassed 140 million lines and contributors exceed 13,000, supporting form factors including phones, tablets, PCs, TVs, wearables and industry intelligent terminals. A Huawei representative at the conference said cumulative HarmonyOS smart-hardware ecosystem device count has exceeded 1.3 billion units."
+    },
+    {
+      "id": "mkt:019e6c5f-93ca-7666-9cf1-8dc3f87aeff6",
+      "time": "2026-05-28 10:17:43",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "META.O",
+        "Impact bullish"
+      ],
+      "text": "According to the Wall Street Journal, Meta Platforms (META.O) has begun rolling out subscription plans for Facebook, Instagram and WhatsApp, and is testing a new subscription service for users of its AI chatbot."
+    },
+    {
+      "id": "4903626",
+      "time": "2026-05-28 10:17:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【玻璃基板概念震盪回升 沃格光電3天2板續創歷史新高】玻璃基板概念日內震盪回升，沃格光電走出3天2板，續創歷史新高，三超新材、紅星發展、金瑞礦業、五方光電、安彩高科跟漲。"
+    },
+    {
+      "id": "te:markets:554247",
+      "time": "2026-05-28 10:17:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Palladium Trades Below $1,400 — Palladium futures fell below $1,400 per ounce, easing after a brief period of stabilization as investors assessed the inflationary impact of rising energy prices and growing expectations that interest rates may remain elevated for longer. Renewed US military strikes on Iranian targets near the Strait of Hormuz deepened concerns over global energy supply disruptions, pushing Brent crude up 2% to $96.15 per barrel and reinforcing expectations that major central banks may delay monetary easing. A stronger US dollar and higher Treasury yield outlook also weighed on sentiment toward non-yielding precious metals. Still, palladium continued to draw support from tight supply conditions, as ongoing production challenges in South Africa and uncertainty surrounding Russian exports kept supply concerns elevated. Despite recent weakness, palladium prices remain 42.87% higher than a year ago, although they have fallen 6.19% over the past month."
+    },
+    {
+      "id": "4903625",
+      "time": "2026-05-28 10:17:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【德龍匯能：全資子公司深圳大有芯聯已完成工商登記註冊】德龍匯能(000593)透過互動易平臺表示，深圳大有芯聯投資有限公司系公司基於戰略規劃及未來經營發展需要而設立的全資子公司，已於2026年2月10日完成該子公司的工商登記註冊，註冊資本5000萬元。目前，該子公司尚處於設立後的初期階段。"
+    },
+    {
+      "id": "4903624",
+      "time": "2026-05-28 10:15:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【鴻蒙生態裝置超13億臺】5月28日，在開源鴻蒙開發者大會2026上，開放原子開源基金會理事長謝少鋒表示，目前開源鴻蒙社群程式碼量突破1.4億行，貢獻者超過13000名，支援手機、平板、電腦、電視、穿戴及行業智慧終端等形態。此外，華為相關負責人在會上表示，鴻蒙智慧硬體生態裝置累計數已超過13億臺。"
+    },
+    {
+      "id": "4903623",
+      "time": "2026-05-28 10:15:39",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行行長：半導體熱潮推動韓國經濟增長擴張。"
+    },
     {
       "id": "te:markets:554243",
       "time": "2026-05-28 10:15:11",
@@ -134493,48 +134574,6 @@
         "Nikkei 225"
       ],
       "text": "JAPAN CONSIDERING EXTRA BUDGET PROPOSAL OF ABOUT 3 TRLN YEN, JNN REPORTS"
-    },
-    {
-      "id": "4891659",
-      "time": "2026-05-21 10:19:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "據報道，日本政府追加預算預計將在3萬億日元左右。"
-    },
-    {
-      "id": "4891658",
-      "time": "2026-05-21 10:18:14",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【《海關支援粵港澳大灣區建設若干措施》為大灣區經濟注入新動能】海關總署今天（21日）在廣州舉行新聞釋出會，有關負責人就近日出臺的《海關支援粵港澳大灣區建設若干措施》做出解讀。作為我國開放程度最高、經濟活力最強的區域之一，大灣區外貿發展韌性強勁、勢頭良好。2025年大灣區內地9市進出口總值突破9萬億大關，“十五五”開局之年，在高基數高增速基礎上今年前4個月又創同期歷史新高，達3.4萬億元，同比增長18.4%，貢獻了全國四分之一的外貿增量，彰顯了大灣區經濟發展的強勁活力。"
-    },
-    {
-      "id": "4891657",
-      "time": "2026-05-21 10:17:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "智利經濟和礦業部長：智利國家銅業公司“失控”。"
-    },
-    {
-      "id": "4891656",
-      "time": "2026-05-21 10:16:53",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印尼股指下跌1%至6255.78點。"
-    },
-    {
-      "id": "4891655",
-      "time": "2026-05-21 10:16:33",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【汽車整車板塊震盪反彈 賽力斯觸及漲停】汽車整車板塊盤中震盪反彈，賽力斯觸及漲停，此前曙光股份漲停，千里科技、北汽藍谷、金龍汽車、比亞迪跟漲。"
     }
   ]
 }
