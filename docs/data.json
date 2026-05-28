@@ -1,7 +1,36 @@
 {
-  "updated": "2026-05-29 03:46:35",
-  "count": 15253,
+  "updated": "2026-05-29 03:50:29",
+  "count": 15252,
   "items": [
+    {
+      "id": "4905538",
+      "time": "2026-05-29 03:49:04",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "尼康 CEO： 公司正與美國、亞洲多家主流晶片廠商洽談主力 ARF 光刻裝置的新訂單。"
+    },
+    {
+      "id": "mkt:019e7021-41dd-7eef-a302-b1ac04f8cbd9",
+      "time": "2026-05-29 03:48:08",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【U.S. Adds Some Iran-Linked Oil Tankers To Sanctions List】The U.S. added some oil tankers linked to Iran to its sanctions list."
+    },
+    {
+      "id": "4905537",
+      "time": "2026-05-29 03:47:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：尼康 CEO 稱，將憑藉平價半導體制造裝置挑戰阿斯麥。"
+    },
     {
       "id": "4905536",
       "time": "2026-05-29 03:45:15",
@@ -137232,43 +137261,6 @@
         "國際"
       ],
       "text": "【被以方扣押的“全球堅韌船隊”比利時籍人員抵達土耳其】當地時間21日獲悉，此前被以色列軍方扣押的7名乘坐“全球堅韌船隊”的比利時籍人員已被轉移至土耳其。該船隊比利時分部證實，7名比利時籍活動人士已安全抵達土耳其伊斯坦布林，後續將接受體檢後返回比利時。（央視新聞）"
-    },
-    {
-      "id": "4893600",
-      "time": "2026-05-22 03:49:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "【創紀錄高溫逼迫美國新英格蘭地區燒油發電來維持電網執行】在5月份創紀錄的極端高溫烘烤下，美國新英格蘭地區正被迫大量燃燒重油/燃油作為電力來源。這再次凸顯出該地區脆弱的能源結構在極端天氣頻發時，反而可能進一步加劇環境汙染。5月20日早些時候，該地區發電廠透過燒油產生的電力超過了700兆瓦，足以為約50萬戶家庭供電。就在幾個小時前，當地電網運營商新英格蘭獨立系統運營商（ISO New England）剛剛宣佈電網進入“異常狀態（Abnormal conditions）”，緊急警告各發電廠商立即暫停一切可能導致發電量削減的例行裝置維護工作。 負責從加拿大輸送清潔水電的“新英格蘭清潔能源連線線（NECEC）”自5月19日下午起突發持續近20小時的長週期停運，讓本就吃緊的電網雪上加霜。"
-    },
-    {
-      "id": "4893599",
-      "time": "2026-05-22 03:49:14",
-      "tags": [
-        "市場"
-      ],
-      "text": "匈牙利國家銀行行長： 福林走強助力緩解通脹壓力。"
-    },
-    {
-      "id": "mkt:019e4c14-9633-7aa1-9581-7f309fce65f4",
-      "time": "2026-05-22 03:47:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "GOP MIDTERMS CASH NEARS $1 BILLION, MORE THAN TRIPLE DEMOCRATS’"
-    },
-    {
-      "id": "mkt:019e4c14-29ba-7aa1-9581-74c933f8a59e",
-      "time": "2026-05-22 03:47:30",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "【Hormuz Closure Risk Seen Triggering Deep Global Recession, Rapidan Says】A closure of the Strait of Hormuz through August could trigger an economic downturn approaching the scale of 2008, according to Rapidan Energy Group. The firm’s base case assumes reopening in July, with oil demand down 2.6 million barrels a day and Brent peaking near $130 this summer. A longer disruption could deepen supply deficits, potentially driving a rare global oil demand contraction in 2026. Rapidan said oil prices have nearly doubled since late February amid war-related disruptions, warning that further spikes could amplify macroeconomic vulnerabilities despite less oil-intensive economies and stronger monetary policy frameworks."
     }
   ]
 }
