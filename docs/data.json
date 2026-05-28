@@ -1,7 +1,68 @@
 {
-  "updated": "2026-05-29 07:16:19",
-  "count": 15312,
+  "updated": "2026-05-29 07:20:10",
+  "count": 15314,
   "items": [
+    {
+      "id": "4905659",
+      "time": "2026-05-29 07:18:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Apollo尋求投資者參與360億美元債務交易 為Anthropic採購AI晶片】阿波羅全球管理公司和黑石集團正尋求為一項約360億美元的債務融資交易引入更多投資者，以幫助Anthropic PBC構建其人工智慧(AI)基礎設施。知情人士稱，這筆債務融資將用於購買谷歌的定製晶片TPU，即張量處理單元，Anthropic隨後將租用這些晶片。因資訊未公開而不願具名的知情人士稱，協助谷歌開發這些晶片的博通為交易中規模最大的部分付款提供支援。這將成為有史以來規模最大的私募信貸交易之一，也將是規模最大的晶片融資債務交易。該交易旨在利用博通的信用資質，為估值剛剛超越競爭對手OpenAI的Anthropic提供算力獲取渠道。"
+    },
+    {
+      "id": "4905658",
+      "time": "2026-05-29 07:18:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【海外光晶片供給持續緊缺 國內廠商正實現群體性突破】算力需求持續井噴，推動資料中心光模組不斷向更高速率演進。光通訊行業獨立研究機構LightCounting於5月28日釋出的2025年全球光模組供應商TOP10榜單顯示，共有7家中國廠商入圍。與製造封裝環節的高份額相比，上游核心物料之一的高速率光晶片國產化率仍在低位徘徊。如今，隨著海外光晶片供給持續緊缺、國內技術實現群體性突破，這一核心物料正迎來國產替代視窗期。如何將視窗期紅利轉化為規模化落地的長期優勢，成為行業當前面臨的核心考驗。"
+    },
+    {
+      "id": "4905657",
+      "time": "2026-05-29 07:17:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三星電子向全球客戶發貨HBM4E晶片樣品】三星電子週五表示，已開始出貨其最新款高頻寬記憶體(HBM) 晶片（即12層HBM4E）的樣品，稱這是全球首例此類產品的出貨。隨著AI伺服器和處理器對先進記憶體晶片的需求激增，三星的客戶包括AMD、英偉達和谷歌等主要AI企業。"
+    },
+    {
+      "id": "mkt:019e70e0-a7d0-7eef-a304-903eb6b7fe84",
+      "time": "2026-05-29 07:17:11",
+      "tags": [
+        "MKT News",
+        "PFE.O",
+        "Impact bullish",
+        "1801.HK"
+      ],
+      "text": "【Pfizer and Innovent Biologics sign up to $10.5bn oncology development deal】Pfizer has signed a global oncology development agreement with Innovent Biologics, Innovent said in a Hong Kong Stock Exchange filing. The deal includes a $650m upfront payment and up to $9.85bn in potential milestone payments, totaling as much as $10.5bn."
+    },
+    {
+      "id": "4905656",
+      "time": "2026-05-29 07:16:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【星塵智慧釋出繩驅AI機器人T1 售價8.99萬元起】近日，繩驅AI機器人公司星塵智慧釋出新一代機器人T1，售價8.99萬元起，將於6月1日開始發貨。星塵智慧表示，T1主打一機多用，聚焦家庭、商業、科研、文娛與工業等五大場景，也支援海量場景的任務開發與部署。"
+    },
+    {
+      "id": "mkt:019e70e0-1ae4-7eef-a304-899d41f6b97b",
+      "time": "2026-05-29 07:16:35",
+      "tags": [
+        "MKT News",
+        "005930.KS",
+        "Impact bullish"
+      ],
+      "text": "【Samsung begins shipping industry-first 12-layer HBM4E samples】Samsung Electronics said it has begun shipping the industry’s first 12-layer HBM4E samples to major global customers, advancing its next-generation HBM roadmap. The move follows Samsung’s earlier HBM4 mass production and commercial shipments this year and is targeted at AI compute and hyperscale infrastructure demand, reinforcing its leadership in high-bandwidth memory."
+    },
+    {
+      "id": "4905655",
+      "time": "2026-05-29 07:16:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【投入變收入 網際網路大廠AI戰略商業兌現嚐到甜頭】2026年財報季，國內頭部科技企業迎來關鍵轉折。聯想、阿里、百度等網際網路及科技企業紛紛將AI（人工智慧）業務作為獨立營收口徑公開披露，讓長期停留在戰略、概念層面的AI業務，正式擁有可核算、可對比、可驗證的量化業績標準。從這些公司公佈的業績資料來看，AI業務成為驅動公司增長的核心引擎，網際網路科技公司正在從“AI投入”轉向“AI收入”，從“概念探索”轉向“商業兌現”。（證券時報）"
+    },
     {
       "id": "4905654",
       "time": "2026-05-29 07:15:18",
@@ -137829,51 +137890,6 @@
         "國際"
       ],
       "text": "【利空共振銀價急跌，機構認為短期上行阻力較大】5月以來，國內外白銀市場行情波動加劇，整體呈現先漲後跌走勢，倫敦現貨白銀與滬銀期貨主力合約均經歷衝高後快速回落的過程，其中後者在連續上漲並突破22000元/千克後，一度跌破18000元/千克，市場情緒也從盲目樂觀轉向恐慌。業內人士表示，此次銀價回撥是宏觀政策、地緣局勢、供需關係等多重利空因素共同作用的結果。後市行情仍面臨較大不確定性，短期銀價上行阻力較大，震盪下跌的機率相對更大。（中證報）"
-    },
-    {
-      "id": "4893703",
-      "time": "2026-05-22 07:19:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中俄博覽會助力雙邊經貿合作提質升級】中國商務部的資料顯示，2025年，中俄貿易額達2279億美元，連續三年突破2000億美元，中國連續16年保持俄第一大貿易伙伴國地位。中國商務部歐亞司副司長馬馳介紹，中俄雙邊貿易結構持續最佳化，機電產品、高新技術產品的佔比不斷提升，汽車、家電、機械裝置等中方優勢產品對俄出口保持旺盛勢頭，能源、礦產、農產品等俄方優勢產品對華供應穩定，跨境電商等外貿新模式蓬勃發展也為雙邊貿易增添了新動能。“務實合作是中俄關系穩定發展的內生動力。”黑龍江當代中俄區域經濟研究院院長宋魁說，中俄博覽會正在成為集貿易促進、產業對接、政策協調、人文交流等功能於一體的綜合載體，助推中俄新時代全面戰略協作夥伴關係行穩致遠。（新華社）"
-    },
-    {
-      "id": "4893702",
-      "time": "2026-05-22 07:18:45",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【特朗普週五主持美聯儲主席沃什宣誓就職儀式】美國政府週四表示，總統特朗普週五將在白宮主持美聯儲主席沃什宣誓就職儀式。美國參議院5月13日表決確認沃什的任命案，他將接替鮑威爾擔任美聯儲主席，不過鮑威爾將繼續擔任美聯儲理事直至2028年。現年56歲的沃什將展開四年的美聯儲主席任期及14年的美聯儲理事任期。特朗普選擇他作為抵禦進一步加息的堡壘。沃什長期以來一直表示希望在削減美聯儲資產負債表的同時降低利率。目前一些美聯儲決策官員正考慮加息以抑制伊朗戰爭所引發的通脹。根據週三公佈的會議記錄，在4月28日至29日的會議上，多數美聯儲決策者認為，如果通脹持續高於2%的目標，\"採取一些政策收緊措施可能變得合適\"。"
-    },
-    {
-      "id": "te:economy:552873",
-      "time": "2026-05-22 07:17:55",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United Kingdom",
-        "Consumer Confidence",
-        "Importance 2"
-      ],
-      "text": "UK Consumer Sentiment Improves Slightly, Recovery Doubtful — The UK GfK Consumer Confidence Index edged up to -23 in May 2026 from -25 in the previous month, which had marked the lowest reading since October 2023 amid worries about the Iran war. The result defied market estimates of -28, suggesting households were slightly less pessimistic. Even so, GfK consumer insights director Neil Bellamy cautioned that the uptick was unlikely to mark a sustained recovery in sentiment. The savings measure dropped sharply, down 10 points, indicating many households are dipping into reserves to meet everyday expenses as living costs remain high. Meanwhile, the gauge tracking major purchase intentions slipped two points to -20, its lowest since January 2025, with lower-income groups especially reluctant to commit to big-ticket spending. Bellamy added that while inflation eased in April, price pressures are expected to re-emerge, and uncertainty over interest rates continues to weigh on confidence and spending plans."
-    },
-    {
-      "id": "4893701",
-      "time": "2026-05-22 07:17:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "【阿根廷總統米萊宣佈降低糧食出口稅】當地報紙《國民報》援引其在一次活動上的講話報道，阿根廷總統哈維爾·米萊說，政府將降低農產品出口稅。米萊表示，從2026年6月起，小麥和大麥的出口稅將從7.5%降至5.5%。據報道，米萊還宣佈從1月開始降低大豆的出口稅。"
-    },
-    {
-      "id": "4893700",
-      "time": "2026-05-22 07:16:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "【今日起廣東整體降雨明顯減弱，各地開始升溫】連日的雨水終於要停歇，從今日開始廣東將進入升溫程序。在21日白天，粵北北部市縣、湛江北部、茂名北部、陽江北部、珠三角南部的部分市縣出現了大到暴雨區域性大暴雨，其中陽江陽春出現了暴雨到大暴雨局地特大暴雨。21日8時到21日17時，陽江陽春市河口鎮錄得全省最大雨量416毫米。氣溫方面，肇慶封開錄得全省最高氣溫33.8℃，梅州大埔錄得全省最低氣溫22.4℃。省氣象臺預計，22日起降雨明顯減弱，各地氣溫升高。"
     }
   ]
 }
