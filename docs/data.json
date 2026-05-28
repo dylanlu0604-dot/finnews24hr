@@ -1,7 +1,72 @@
 {
-  "updated": "2026-05-29 00:49:11",
-  "count": 15162,
+  "updated": "2026-05-29 00:53:09",
+  "count": 15168,
   "items": [
+    {
+      "id": "mkt:019e6f80-595c-733b-b43f-383fc804a973",
+      "time": "2026-05-29 00:52:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Lloyd's List Intelligence said on Thursday its data showed the share of vessels transiting the Strait of Hormuz that were not Iranian-owned has risen."
+    },
+    {
+      "id": "4905348",
+      "time": "2026-05-29 00:52:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員表示，在肯亞接受隔離的美國患者接下來將被轉移至第三國，而非送回美國。"
+    },
+    {
+      "id": "4905347",
+      "time": "2026-05-29 00:51:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4540美元/盎司，日內漲1.31%。"
+    },
+    {
+      "id": "4905346",
+      "time": "2026-05-29 00:50:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic：Claude Opus4.8快速模式定價為每百萬輸入令牌10美元，每百萬輸出令牌50美元。"
+    },
+    {
+      "id": "4905345",
+      "time": "2026-05-29 00:50:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic：Claude Opus 4.8常規使用定價與Opus 4.7保持一致：輸入令牌每百萬單位定價5美元，輸出令牌每百萬單位定價25美元。"
+    },
+    {
+      "id": "4905344",
+      "time": "2026-05-29 00:50:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic：正式推出Claude Opus 4.8 版本。"
+    },
+    {
+      "id": "4905343",
+      "time": "2026-05-29 00:49:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國平等就業機會委員會擬廢除沿用數十年的平權法案相關規定。"
+    },
+    {
+      "id": "4905342",
+      "time": "2026-05-29 00:49:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "一名官員表示，美國已獲得肯亞政府的全面批准，可在肯設立基地。"
+    },
     {
       "id": "4905341",
       "time": "2026-05-29 00:48:35",
@@ -136447,25 +136512,6 @@
         "MKT News"
       ],
       "text": "GEMINI: STARTING TODAY, OFFERS NEW ADDITIONS TO STABLECOIN & DIGITAL ASSET ECOSYSTEM: USAT (ETHEREUM), XAUT (ETHEREUM), USDT0 TRANSFERS (ARBITRUM)"
-    },
-    {
-      "id": "mkt:019e4b72-9f4a-7aa1-957f-ba29fd49dca4",
-      "time": "2026-05-22 00:51:03",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "BARKIN: DO NOT BELIEVE THE NET IMPACT OF AI ON JOBS WILL BE NEGATIVE, BUT THE TRANSITION COULD BE DIFFICULT"
-    },
-    {
-      "id": "4893487",
-      "time": "2026-05-22 00:50:57",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲巴爾金：我認為人工智慧對就業的淨影響不會是負面的，但轉型過程可能會很艱難。"
     }
   ]
 }
