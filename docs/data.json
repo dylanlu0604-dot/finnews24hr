@@ -1,7 +1,52 @@
 {
-  "updated": "2026-05-29 05:21:09",
-  "count": 15278,
+  "updated": "2026-05-29 05:24:59",
+  "count": 15281,
   "items": [
+    {
+      "id": "4905594",
+      "time": "2026-05-29 05:23:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國消費者保護監管機構召回全國所有員工至華盛頓總部】一封電子郵件顯示，美國政府負責消費者金融保護的最高監管機構週三表示，將在今年晚些時候把全國幾乎所有員工重新分配到其華盛頓總部。這是特朗普政府在無法直接取締該機構的情況下，試圖對其進行弱化乃至實質性消減的最新舉措。 這一決定涉及約450名原本駐紮在消費者金融保護局（CFPB）前舊金山、亞特蘭大、芝加哥和紐約區域辦公室附近的員工。由於同時將取消遠端辦公安排，此舉很可能會加速該機構近期本已嚴峻的辭職潮。一年多來，總統特朗普領導的政府一直在法庭上進行訴訟，以期獲得解僱該機構絕大多數員工的授權，但迄今為止其計劃一直遭到阻職。"
+    },
+    {
+      "id": "4905593",
+      "time": "2026-05-29 05:23:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【發行主體明顯增多 熊貓債年內發行規模突破1200億元】熊貓債是指境外機構在中國境內發行的、以人民幣計價的債券。今年以來，熊貓債市場快速擴容。Wind資料顯示，截至5月26日，2026年年內熊貓債發行規模已突破1200億元，發行主體覆蓋主權機構、多邊開發機構、跨國企業與科創企業。其中，一季度共新發45筆熊貓債、合計規模882.35億元，創下單季發行規模新高。（上證報）"
+    },
+    {
+      "id": "4905592",
+      "time": "2026-05-29 05:22:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "【“中國資產值得長期持有” 外資機構增配A股或迎來“黃金期”】隨著科技革命與產業變革加速演進，中國由於經濟韌性足、抗風險能力強、向新動能足，吸引外資機構持續增配中國資產。5月28日，在深交所舉辦的2026全球投資者大會上，與會嘉賓表示，中國經濟具有獨一無二的執行週期，中國市場在應對外部衝擊時表現出較強的穩定性，產生了持久吸引力。（上證報）"
+    },
+    {
+      "id": "4905591",
+      "time": "2026-05-29 05:22:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國外交部：韓美將於6月2日至3日舉行高階別安全會談。"
+    },
+    {
+      "id": "mkt:019e7077-3ddf-7eef-a303-ba85a66b6317",
+      "time": "2026-05-29 05:22:03",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "South Korea and the United States will hold high-level security talks on June 2-3, the South Korean foreign ministry said."
+    },
     {
       "id": "mkt:019e7074-b780-7eef-a303-b038f4d9fd7e",
       "time": "2026-05-29 05:19:17",
@@ -137527,26 +137572,6 @@
         "國際"
       ],
       "text": "SpaceX：星艦發射時間現調整為美國中部時間下午6點。"
-    },
-    {
-      "id": "4893647",
-      "time": "2026-05-22 05:24:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：黎巴嫩南部哈納維耶地區遭空襲。"
-    },
-    {
-      "id": "te:markets:552862",
-      "time": "2026-05-22 05:21:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "TSX Rises on Middle East Peace Hopes — he S&P/TSX Composite Index rose 0.7% to close at 34,409 on Thursday as lower oil prices eased concerns over a war-driven inflation shock. Crude prices retreated amid signs of a possible diplomatic breakthrough in the Middle East conflict. Reports indicated that the US and Iran had reached an agreement through Pakistani mediation, while US Secretary of State Marco Rubio said there were “some good signs” that a deal to end the war in Iran could be in sight. Financial stocks advanced as easing energy pressures supported sentiment, with Royal Bank of Canada up 1.3% and TD Bank gaining 1.8%. In tech, Constellation Software added 2.6% following strong quarterly results from NVIDIA, which reported profit and revenue above expectations. Meanwhile, Shopify was little changed as investors continued to assess whether the company’s shift toward AI will drive growth or create new challenges."
     }
   ]
 }
