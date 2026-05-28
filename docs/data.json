@@ -1,7 +1,165 @@
 {
-  "updated": "2026-05-28 17:40:24",
-  "count": 15183,
+  "updated": "2026-05-28 17:44:11",
+  "count": 15189,
   "items": [
+    {
+      "id": "te:economy:554448",
+      "time": "2026-05-28 17:43:38",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Belgium",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Belgium Inflation Rate Edges Up in May — Belgium’s annual inflation edged up to 4.08% in May 2026, from 4.01% in April, marking the highest reading since January 2025. Energy prices increased by 11.2%, following a surge of 10.58% last month, while natural gas inflation edged down to 10.1% from 11.4%. Upward price pressures came mainly from housing and utilities (3.63% vs 3.02%) and transports (7.9% vs 7.8%), followed by restaurantes and hotels (5.85% vs 4.78%) and recreation and culture (8.07% versus 6.85%). In contrast, inflation eased for food (1.19% versus 1.89%), followed by clothing and footwear (2.26% vs 3%), alcoholic beverages and tobacco (2.14% vs 2.46%), comunication (1.86% vs 3.49%) and furnishings (0.38% vs 0.95%). Meanwhile, inflation remained steady for education (2.4%) and health (6.6%). On a monthly basis, consumer prices declined 0.08%, reversing a 1.47% increase in April."
+    },
+    {
+      "id": "4904515",
+      "time": "2026-05-28 17:43:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【泡泡瑪特CEO王寧：泡泡瑪特城市樂園可能某些部分會用到AI】泡泡瑪特(09992.HK)國際集團創始人、董事長兼執行長王寧今日接受採訪時表示：“泡泡瑪特城市樂園可能某些部分會用到AI，也許等有一天，AI可以跟我們結合，有一個非常不一樣的體驗時，我們可能會考慮。”"
+    },
+    {
+      "id": "mkt:019e6df7-729b-7993-9090-1b32fb7a1c89",
+      "time": "2026-05-28 17:43:12",
+      "tags": [
+        "MKT News",
+        "02331.HK",
+        "Impact bullish"
+      ],
+      "text": "HKEX: BLACKROCK's long stake in Li Ning (02331.HK) rose to 7.51% on May 25 from 6.84%."
+    },
+    {
+      "id": "mkt:019e6df7-728c-7993-9090-119a2873b950",
+      "time": "2026-05-28 17:43:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Pop Mart CEO Says AI May Be Used In Parts Of City Park】Pop Mart (09992.HK) founder, chairman and CEO Wang Ning said in an interview the company’s City Park project may incorporate AI in some elements, and the firm would consider integration if AI can deliver a materially different experience."
+    },
+    {
+      "id": "mkt:019e6df7-61c5-7993-9090-093f888cb724",
+      "time": "2026-05-28 17:43:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【U.S. Judge Allows TRUMP Order Tightening Mail Voting; Democrats Suffer Setback】A U.S. judge on Thursday refused to block an executive order signed by TRUMP on March 31 that tightens mail-in voting rules, a legal setback for Democrats whose lawyers had argued the order could disenfranchise millions of voters. The order directs federal agencies to compile a confirmed-citizen list identifying state-eligible voters, instructs agencies to use federal data to help state election officials verify voter eligibility, directs the U.S. Postal Service to deliver ballots only to voters on state-approved mail-ballot lists, and requires states to retain election-related records for five years. The ruling comes as Republicans contest fiercely to retain control of both chambers of Congress in the November midterm elections; TRUMP has long alleged widespread fraud in the 2020 election and criticized mail voting."
+    },
+    {
+      "id": "4904514",
+      "time": "2026-05-28 17:42:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國法官允許特朗普收緊郵寄投票 民主黨遭遇挫敗】週四，一名美國法官拒絕阻止美國總統特朗普簽署的旨在收緊郵寄投票規則的行政令。這對民主黨而言是一次挫敗，該黨的律師此前辯稱，這項行政令可能導致數百萬選民被剝奪投票權。做出這一裁決之際，特朗普所在的共和黨正面臨一場激烈的選戰，力爭在11月的中期選舉中保住對美國國會參眾兩院的控制權。多年來，特朗普一直抱怨他在2020年大選中敗選是由於普遍存在的選票欺詐所致，他也一直對郵寄投票持批評態度。特朗普於3月31日簽署的這項行政令指示其政府部門編制一份已確認的美國公民名單，列出各州符合投票資格的人員；並要求利用聯邦資料協助各州選舉官員核實選民的投票資格。該行政令還要求美國郵政局僅向各州批准的郵寄選票名單上的選民投遞選票，並要求各州將與選舉相關的記錄儲存五年。"
+    },
+    {
+      "id": "4904513",
+      "time": "2026-05-28 17:42:54",
+      "tags": [
+        "宏觀",
+        "公司"
+      ],
+      "text": "【農發行已先期安排1500億元備戰夏糧收購】記者28日從中國農業發展銀行獲悉，隨著夏糧旺季收購即將啟動，農發行已先期安排夏糧收購資金1500億元，後續將根據收購需求隨時調配資金，全力保障夏收資金供應，確保農民“糧出手、錢到手”。據介紹，農發行積極對接國家糧儲局、中儲糧集團等機構，提前組織夏糧生產與市場摸底、研判市場資金需求，積極籌措夏糧收購信貸資金，充分發揮糧食收儲資金供應主渠道地位。同時，農發行及時出臺有關配套政策，對糧油市場化購銷貸款實行減費讓利，給予定價優惠支援；提供差異化信貸政策，滿足客戶多元化需求。此外，農發行派出多個調研組至河南、湖北等夏糧省開展調研，充分了解各省本年新形勢新情況，結合當地市場行情做好最低收購價預案啟動或不啟動兩手安排；對易因災情等原因出現區域性賣糧難問題的地區，做好配合地方政府出臺收購應急預案的工作準備。（新華社）"
+    },
+    {
+      "id": "mkt:019e6df7-1390-7993-9090-0251f07b3217",
+      "time": "2026-05-28 17:42:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "00300.HK",
+        "Impact bearish"
+      ],
+      "text": "HKEX said HSBC's long position in Midea Group (00300.HK) fell to 8.21% on May 21 from 10.86% previously."
+    },
+    {
+      "id": "4904512",
+      "time": "2026-05-28 17:42:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "港交所：5月21日，滙豐控股所持美的集團H股的多頭倉位從10.86%降至8.21%。"
+    },
+    {
+      "id": "4904511",
+      "time": "2026-05-28 17:42:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：英偉達黃仁勳將於下週訪問韓國。"
+    },
+    {
+      "id": "mkt:019e6df6-a597-7993-908f-fbdc3157de42",
+      "time": "2026-05-28 17:42:21",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O"
+      ],
+      "text": "YONHAP reports NVIDIA (NVDA.O) CEO Jensen Huang will visit South Korea next week."
+    },
+    {
+      "id": "4904510",
+      "time": "2026-05-28 17:42:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【第六屆超越國際科技創新博覽會在澳門舉行】第六屆超越國際科技創新博覽會27日晚在澳門開幕。本屆博覽會由澳門科技總會主辦，以“AI：數實共生”為主題，聚焦人工智慧從數字系統走向物理世界的產業程序，集中展示全球科技創新的最新成果與發展趨勢。據介紹，本屆博覽會將持續到5月30日。展會將圍繞技術展示、產業交流、跨區域合作、投融資對接、創新專案展示等內容開展多元活動，持續深化國際經貿科技交流與合作。"
+    },
+    {
+      "id": "4904509",
+      "time": "2026-05-28 17:41:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【伊利集團與千味央廚簽署戰略合作協議】5月27日，伊利集團與千味央廚在伊利現代智慧健康谷正式簽署戰略合作協議，雙方將建立全方位、多層次、常態化的戰略合作機制，充分發揮各自在品牌、產品、渠道、供應鏈、研發創新及市場洞察等方面的資源優勢，攜手共創、優勢互補，共同探索乳製品與餐飲供應鏈深度融合的全新路徑。"
+    },
+    {
+      "id": "mkt:019e6df6-0a32-7993-908f-f16795864fa1",
+      "time": "2026-05-28 17:41:41",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "【Ukraine Parliament Approves Law To Receive €90 Billion EU Loan】On the 28th Ukraine's Verkhovna Rada approved a law creating the legal framework to receive a €90 billion EU loan, finance minister Marchenko said. The package allocates €60 billion to strengthen Ukraine's defence-industrial capacity and €30 billion for budget support; Marchenko said Ukraine will only repay the loan if Russia pays war reparations, with principal and interest to be offset against any Russian payments."
+    },
+    {
+      "id": "4904508",
+      "time": "2026-05-28 17:41:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【秦安股份：登出568.1萬股回購股份並減少註冊資本】秦安股份公告稱，公司於2026年5月11日和5月28日分別召開董事會和股東會，審議透過將原定用於員工持股計劃或股權激勵的5,681,000股回購股份變更用途為登出並減少註冊資本。登出完成後，公司總股本將由438,797,049股減至433,116,049股，註冊資本相應減少。債權人自接到通知起30日內、未接到通知者自公告披露之日起45日內，有權要求公司清償債務或提供擔保。債權申報時間為2026年5月29日 - 7月12日。"
+    },
+    {
+      "id": "4904507",
+      "time": "2026-05-28 17:41:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "據港交所披露：5月25日，貝萊德在李寧的多頭持倉佔比從6.84%提升至7.51%。"
+    },
+    {
+      "id": "4904506",
+      "time": "2026-05-28 17:40:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【南向資金今日淨買入76.09億港元】港股通（滬）方面，泡泡瑪特、美團-W分別獲淨買入8.30億港元、6.00億港元；阿里巴巴-W淨賣出額居首，金額為6.78億港元；港股通（深）方面，中芯國際、華虹半導體分別獲淨買入39.48億港元、9.46億港元；阿里巴巴-W淨賣出額居首，金額為6.25億港元。"
+    },
     {
       "id": "4904505",
       "time": "2026-05-28 17:39:54",
@@ -136336,103 +136494,6 @@
         "公司"
       ],
       "text": "【君實生物：特瑞普利單抗一線治療HER2表達的尿路上皮癌的新適應症上市申請獲批准】君實生物公告，近日，公司收到國家藥品監督管理局核准簽發的《藥品註冊證書》，特瑞普利單抗聯合榮昌生物製藥（煙臺）股份有限公司自主研發的抗體偶聯藥物維迪西妥單抗用於HER2表達的區域性晚期或轉移性尿路上皮癌患者的新適應症上市申請獲得批准。這是特瑞普利單抗注射液在中國內地獲批的第13項適應症。"
-    },
-    {
-      "id": "4892534",
-      "time": "2026-05-21 17:43:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【順豐控股斥資2.03億元回購569.38萬股A股】5月21日，順豐控股(06936.HK)釋出公告，於2026年5月21日斥資2.03億元回購569.38萬股A股。"
-    },
-    {
-      "id": "4892533",
-      "time": "2026-05-21 17:43:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度政府：因非洲疫情形勢不斷變化，印非論壇峰會推遲舉辦。"
-    },
-    {
-      "id": "4892532",
-      "time": "2026-05-21 17:43:27",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【荷蘭國際：油價在波動交易中下跌，市場對美伊訊息依然敏感】油價在波動的交易中下跌，布倫特原油下跌0.2%，至每桶104.76美元，西得州中質油期貨下跌0.1%，至每桶98.11美元。這兩大基準原油在盤初均曾上漲超過1%。荷蘭國際集團的分析師表示：“石油市場對與伊朗相關的訊息依然過度敏感，參與者繼續對美伊談判取得進展的報道寄予厚望。”“我們之前曾多次處於這種情況，最終都令人失望。“市場觀察人士表示，雖然和平協議和霍爾木茲海峽的重新開放最初可能會引發已裝載並等待出發的油輪供應激增，但由於物流受阻、航運供應改道以及庫存耗盡，全面恢復正常可能需要數月時間。"
-    },
-    {
-      "id": "4892531",
-      "time": "2026-05-21 17:42:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【建元信託：選舉馬峻為公司第十屆董事會職工董事】建元信託公告稱，公司於2026年5月21日召開職工代表大會，經民主程式，馬峻當選為公司第十屆董事會職工董事，任期與公司股東會後續選舉產生的第十屆董事會一致。馬峻的任職資格尚需國家金融監督管理總局上海監管局核准。馬峻現任公司黨委副書記、紀委書記、工會主席，截至公告披露日，其未持有公司股份，與公司董監高及持股5%以上股東無關聯關係。"
-    },
-    {
-      "id": "4892530",
-      "time": "2026-05-21 17:42:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "港交所公告：騰訊於2025年5月21日耗資5.006億港元回購110萬股，股份將予以登出。"
-    },
-    {
-      "id": "mkt:019e49e9-f758-799b-b5d4-595a2e44ff31",
-      "time": "2026-05-21 17:42:07",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Tencent",
-        "0700.HK",
-        "Impact bullish"
-      ],
-      "text": "TENCENT REPURCHASES 1.1 MLN SHARES FOR CANCELLATION FOR HKD500.6 MLN ON MAY 21 2026 - HKEX"
-    },
-    {
-      "id": "mkt:019e49e9-e0b2-799b-b5d4-55f0b80f02c3",
-      "time": "2026-05-21 17:42:04",
-      "tags": [
-        "MKT News",
-        "1772.HK",
-        "Impact bullish"
-      ],
-      "text": "BLACKROCK'S LONG POSITION IN H-SHARES OF GANFENG LITHIUM INCREASES TO 7.77% ON MAY 15 FROM 6.84% - HKEX"
-    },
-    {
-      "id": "4892529",
-      "time": "2026-05-21 17:41:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "據香港交易所披露，5月15日，貝萊德持有的贛鋒鋰業H股多頭持倉佔比從6.84%提升至7.77%。"
-    },
-    {
-      "id": "4892528",
-      "time": "2026-05-21 17:40:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "【*ST賽隆：子公司獲注射用磷酸特地唑胺藥品註冊證書】*ST賽隆公告稱，公司全資子公司湖南賽隆藥業有限公司近日獲得國家藥監局核准簽發的注射用磷酸特地唑胺《藥品註冊證書》。該藥品劑型為注射劑，規格200mg，註冊分類為化學藥品4類，批准文號有效期至2031年05月18日，用於治療急性細菌性皮膚及皮膚軟組織感染。獲批豐富了公司製劑品種，但銷售情況存在不確定性。"
-    },
-    {
-      "id": "4892527",
-      "time": "2026-05-21 17:40:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【天際股份：持股5%以上股東減持股份超1%】天際股份公告稱，持股5%以上股東常熟市新華化工有限公司於2025年9月29日至2026年5月21日，透過集中競價及大宗交易累計減持499萬股。權益變動後，其持股降至3064.601萬股，佔總股本比例由7.11%降至6.11%，佔剔除回購股份後總股本比例由7.25%降至6.23%，權益變動超1%。"
-    },
-    {
-      "id": "4892526",
-      "time": "2026-05-21 17:40:26",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【雙良節能：不存在應披露而未披露的重大事項】雙良節能釋出異動公告，公司股票連續三個交易日內收盤價格漲幅偏離值累計達到20%，屬於股票交易異常波動。經公司自查和問詢控股股東、實際控制人，公司、控股股東和實際控制人不存在其他應披露而未披露的重大事項，包括但不限於重大資產重組、發行股份、上市公司收購、債務重組、業務重組、資產剝離和資產注入等重大事項。"
     }
   ]
 }
