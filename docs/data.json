@@ -1,7 +1,83 @@
 {
-  "updated": "2026-05-28 13:25:09",
-  "count": 15168,
+  "updated": "2026-05-28 13:29:09",
+  "count": 15173,
   "items": [
+    {
+      "id": "mkt:019e6d0d-9c66-722b-8aca-285d8b4c2ea3",
+      "time": "2026-05-28 13:27:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SZSE Component",
+        "Impact bullish",
+        "SSE Composite",
+        "Impact bearish"
+      ],
+      "text": "China's ChiNext Index rose 1%, after earlier falling as much as 1.8%; the Shenzhen Composite Index turned positive while the Shanghai Composite Index fell 0.23%. The lab-grown diamond and supercapacitor sectors led gains."
+    },
+    {
+      "id": "4903932",
+      "time": "2026-05-28 13:27:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗和巴基斯坦領導人討論旨在結束戰爭的外交努力。"
+    },
+    {
+      "id": "4903931",
+      "time": "2026-05-28 13:27:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指漲1.00%，現報4086.275點；上證指數跌0.26%，現報4083.060點；深證成指漲0.03%，現報15741.471點。"
+    },
+    {
+      "id": "4903930",
+      "time": "2026-05-28 13:27:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統稱他與巴基斯坦總理通了電話。"
+    },
+    {
+      "id": "mkt:019e6d0b-7bfe-722b-8aca-213fb2211ecf",
+      "time": "2026-05-28 13:25:29",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "Dahua Technology said on its interactive platform on May 28 that it continues to focus on its core smart IoT business and currently has no chip-design-related operations."
+    },
+    {
+      "id": "4903929",
+      "time": "2026-05-28 13:25:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【大華股份：目前無晶片設計相關業務】大華股份5月28日在互動平臺表示，公司持續聚焦於智慧物聯的主航道，目前無晶片設計相關業務。"
+    },
+    {
+      "id": "mkt:019e6d0a-ef44-722b-8aca-1accb4847d70",
+      "time": "2026-05-28 13:24:51",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "China A-share PET copper-foil sector rose in choppy trade, with Tongguan Copper Foil up more than 15%, Nuode hit the daily price limit, A-Shichuang up over 10%; Dadongnan, Hangdian, Hailiang, Oulai New Materials and Yuxing also gained."
+    },
+    {
+      "id": "4903928",
+      "time": "2026-05-28 13:24:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【亞馬遜任命Roy Schoenberg為健康服務業務新負責人】當地時間5月27日，亞馬遜宣佈Roy Schoenberg將於7月1日加入亞馬遜，出任健康服務部門的新負責人。與此同時，Neil Lindsay將卸任現有職務，將以顧問身份留任至2026年底。"
+    },
     {
       "id": "4903927",
       "time": "2026-05-28 13:23:54",
@@ -136197,31 +136273,6 @@
         "市場"
       ],
       "text": "紐約期銀日內跌1%，現報75.37美元/盎司。"
-    },
-    {
-      "id": "4891875",
-      "time": "2026-05-21 13:28:47",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【機器人概念再度走強 模塑科技漲停】午後機器人概念再度走強，模塑科技漲停，此前北特科技、埃斯頓、美湖股份漲停，昊志機電、三協電機、上緯新材、奧比中光均漲超10%。"
-    },
-    {
-      "id": "4891874",
-      "time": "2026-05-21 13:27:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "【陽光電源中標阿聯酋7.5GWh儲能訂單，專案預計2027年併網】陽光電源中標阿聯酋7.5GWh儲能訂單，與國際可再生能源公司Masdar合作，為阿聯酋RTC 1 Plant（North）專案供應7.5GWh PowerTitan3.0液冷儲能系統及2.6GW逆變器。該專案是全球最大規模684Ah疊片電芯應用專案，預計2027年併網。"
-    },
-    {
-      "id": "4891873",
-      "time": "2026-05-21 13:26:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "兆易創新成交額達200億元，現漲1%。"
     }
   ]
 }
