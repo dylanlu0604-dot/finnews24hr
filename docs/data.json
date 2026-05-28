@@ -1,7 +1,236 @@
 {
-  "updated": "2026-05-28 18:18:59",
-  "count": 15185,
+  "updated": "2026-05-28 18:22:49",
+  "count": 15193,
   "items": [
+    {
+      "id": "te:economy:554456",
+      "time": "2026-05-28 18:22:10",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Ireland",
+        "Retail Sales MoM",
+        "Importance 1"
+      ],
+      "text": "Ireland Retail Activity Falls 0.2% in April — Retail sales in Ireland fell by 0.2% month-on-month in April 2026, following a downwardly revised 0.5% decline in the previous month. The largest volume decreases were recorded in clothing, footwear, and textiles (-2.9%), fuel (-2.3%), department stores (-2%), and electrical goods (-2%). Meanwhile, the overall decline was partly offset by stronger gains in books, newspapers, and stationery (+4.6%), food, beverages, and tobacco in specialised stores (+3.9%), pharmaceuticals, medical and cosmetic articles (+3.6%), and bars (+1.8%). On an annual basis, retail activity declined by 0.5% in April, reversing a downwardly revised 0.9% increase recorded in the preceding month."
+    },
+    {
+      "id": "mkt:019e6e1b-38bc-7993-9091-2b512bc093ad",
+      "time": "2026-05-28 18:22:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Polish Prime Minister TUSK says work has begun with Italy to draft a defense treaty."
+    },
+    {
+      "id": "4904612",
+      "time": "2026-05-28 18:21:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "波蘭總理圖斯克：我們已啟動與義大利締結防務條約的相關工作。"
+    },
+    {
+      "id": "4904611",
+      "time": "2026-05-28 18:21:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "IBM斥資50億美元人工智慧技術應對網路威脅。"
+    },
+    {
+      "id": "mkt:019e6e1a-c5e0-7993-9091-26c3a19d5dde",
+      "time": "2026-05-28 18:21:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【NHSA Says Time Ripe To Issue National Basic Medical Insurance Service Items Catalog; Pilot To Start With Cross‑Province Patients】China's National Healthcare Security Administration (NHSA) said the timing is ripe to issue a National Basic Medical Insurance Medical Service Items Catalog. With the national medical service pricing project guidelines being established and implemented, names and definitions of chargeable medical service items are being standardized and 29 provinces have aligned their provincial medical service payment scopes. To strengthen a unified national market, improve insurance fund efficiency and enhance fairness, the NHSA plans to draft the national catalog and will first implement it for patients receiving care outside their home province, then progressively extend it nationwide, noting existing inter‑provincial differences in payment scope."
+    },
+    {
+      "id": "mkt:019e6e1a-b1ab-7993-9091-1e002ad67241",
+      "time": "2026-05-28 18:21:40",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "IBM.N",
+        "Impact bullish"
+      ],
+      "text": "Axios reports IBM (IBM.N) will invest $5 bln in AI technology to combat cyber threats."
+    },
+    {
+      "id": "4904610",
+      "time": "2026-05-28 18:21:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍：過去24小時內，打擊了135個真主黨目標。"
+    },
+    {
+      "id": "mkt:019e6e1a-0b6e-7993-9091-174166ccba8a",
+      "time": "2026-05-28 18:20:58",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Israel Defense Forces said it struck 135 Hezbollah targets in the past 24 hours."
+    },
+    {
+      "id": "4904609",
+      "time": "2026-05-28 18:20:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "匈牙利總理毛焦爾：將在週五敲定關於歐盟資金的未決問題。"
+    },
+    {
+      "id": "4904608",
+      "time": "2026-05-28 18:20:14",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "《國家基本醫療保險醫療服務專案目錄（第一批）制定工作方案》公開徵求意見。（國家醫保局）"
+    },
+    {
+      "id": "mkt:019e6e19-4cf8-7993-9091-0c78cdbdf8dc",
+      "time": "2026-05-28 18:20:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CSI300",
+        "Impact mixed"
+      ],
+      "text": "China has opened public consultation on the draft work plan to compile the first batch of the National Basic Medical Insurance Medical Service Items Catalog."
+    },
+    {
+      "id": "4904607",
+      "time": "2026-05-28 18:20:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國交建：附屬公司擬參與設立10億元交通訊息科技基金】中國交建(601800.SH)公告稱，公司附屬公司中交資本及中交鼎信擬與工銀資本作為雙GP，共同發起設立中交工融交通訊息科技(重慶)創業投資基金，基金規模10億元。其中，公司附屬公司合計認購2億元，關聯方信科集團認購2億元，工銀系合計認購3億元，重慶產業母基金認購3億元。基金主要投資智慧交通、智慧建造、低空經濟等領域，不納入公司合併報表。本次交易構成關聯交易，金額約2億元，已獲董事會審議透過。"
+    },
+    {
+      "id": "4904606",
+      "time": "2026-05-28 18:19:55",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【迅雷第一季度總營收9860萬美元】5月28日，迅雷釋出了截至2026年3月31日第一季度未經審計的財報。財報顯示，公司本季度實現總營收9860萬美元，同比增長54.1%。其中會員業務營收為4500萬美元，同比增長26.2%，直播及其他服務營收為5360萬美元，同比增長89.3%。非美國會計準則下，來自持續經營業務的淨利潤410萬美元。"
+    },
+    {
+      "id": "te:economy:554455",
+      "time": "2026-05-28 18:19:55",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Macedonia",
+        "Producer Prices Change",
+        "Importance 1"
+      ],
+      "text": "Macedonia Producer Inflation at 10-Month High — The annual producer inflation rate in North Macedonia rose by 5.1% in April 2026 from 4.4% in the previous month, reaching its highest level since June 2025. Producer prices continued to rise for capital goods (11.1% vs 7.8% in March), consumer goods (3.1% vs 2.5%), and non-durable goods (3% vs 2.3%). Meanwhile, inflation eased slightly for energy (10.1% vs 10.3%) and durable goods (5.2% vs 5.9%). By sectors and divisions, manufacturing prices increased further (4.4% vs 3.6%), driven mainly by higher prices for wearing apparel, leather and related products, chemicals and chemical products, computer, electronic and optical products, and machinery and equipment. In contrast, price growth slowed in mining and quarrying (14.9% vs 15.7%) and electricity, gas, steam and air-conditioning supply (10.5% vs 10.7%), while it remained unchanged for water collection, treatment and supply at 6.4%. On a monthly basis, producer prices edged up 0.6% in April, following a 0.5% increase in March."
+    },
+    {
+      "id": "mkt:019e6e18-fc07-7993-9091-00eea2f074ba",
+      "time": "2026-05-28 18:19:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "02518.HK",
+        "Impact bearish"
+      ],
+      "text": "Autohome (02518.HK) reported net profit attributable to ordinary shareholders of RMB 44.3 mln in Q1 2026, versus RMB 341 mln in Q1 2025."
+    },
+    {
+      "id": "mkt:019e6e18-dfe8-7993-9090-fdd898d55db1",
+      "time": "2026-05-28 18:19:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hungary's prime minister magyar said he will finalize outstanding issues over EU funds on Friday."
+    },
+    {
+      "id": "mkt:019e6e18-80dc-7993-9090-f682e1697033",
+      "time": "2026-05-28 18:19:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Philippine President MARCOS said the Philippines and Japan have signed a double taxation avoidance agreement."
+    },
+    {
+      "id": "4904605",
+      "time": "2026-05-28 18:19:18",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "加拿大皇家銀行：預計英國央行和歐洲央行將適度加息；預計美聯儲和加拿大將在2026年維持利率不變。大多數發達經濟體的增長將保持積極。"
+    },
+    {
+      "id": "mkt:019e6e18-693a-7993-9090-effa44c9e45d",
+      "time": "2026-05-28 18:19:09",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "GBPUSD",
+        "Impact bullish",
+        "EURUSD",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "RBC expects the Bank of England and ECB to deliver modest rate hikes, and expects the Federal Reserve and Bank of Canada to keep rates unchanged in 2026."
+    },
+    {
+      "id": "4904604",
+      "time": "2026-05-28 18:18:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "匈牙利總理毛焦爾：歐盟資金將擴大財政靈活性。"
+    },
+    {
+      "id": "4904603",
+      "time": "2026-05-28 18:18:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【黃果在清華大學調研醫藥基礎研究和成果轉化工作】5月27日，國家藥監局黨組書記、局長黃果帶隊，在清華大學調研醫藥基礎研究和成果轉化工作。黃果強調，要深入貫徹落實習近平總書記在加強基礎研究座談會上的重要講話精神，夯實醫藥基礎研究的根基，打通基礎研究、應用開發、成果轉化的創新鏈條，研發出更多適合中國人生命基因傳承和身體素質特點的“中國藥”，加快補齊我國高階醫療裝備短板。國家藥監局將持續深化監管改革，探索“服務+審評審批”新模式，提高審評審批質量效率，集中資源支援新機制、新靶點、新技術研究成果轉化，助力臨床急需的藥品醫療器械加快上市，讓實驗室裡的科學發現和更多更好創新成果惠及人民健康。（國家藥監局）"
+    },
+    {
+      "id": "mkt:019e6e18-2ca2-7993-9090-e69870ef1c6f",
+      "time": "2026-05-28 18:18:58",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "RBC: Growth in most advanced economies will remain positive."
+    },
+    {
+      "id": "4904602",
+      "time": "2026-05-28 18:18:39",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國家體育總局辦公廳 工業和資訊化部辦公廳關於徵集2026年度智慧體育典型案例的通知】為深入貫徹落實黨中央、國務院關於大力提振消費的決策部署，加快推進體育產業高質量發展，提升體育產品和服務數字化、智慧化水平。現組織開展2026年度智慧體育典型案例徵集工作，並對其中具有代表性的案例進行展示和宣傳。(工信部)"
+    },
+    {
+      "id": "4904601",
+      "time": "2026-05-28 18:18:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海和藥物科創板IPO稽核獲受理】上海海和藥物研究開發股份有限公司科創板IPO稽核狀態變更為“已受理”，公司擬融資金額29 億元。"
+    },
     {
       "id": "mkt:019e6e17-9dd8-7993-9090-de25a567a844",
       "time": "2026-05-28 18:18:21",
@@ -136290,141 +136519,6 @@
         "公司"
       ],
       "text": "【*ST建藝：撤銷退市風險警示申請處於補充材料階段】*ST建藝公告稱，公司於2026年4月28日向深交所申請撤銷公司股票退市風險警示並繼續實施其他風險警示。截至公告披露日，該申請處於補充材料階段，補充材料期間不計入深交所作出有關決定的期限。申請能否獲批存在不確定性，公司將及時披露進展。"
-    },
-    {
-      "id": "4892642",
-      "time": "2026-05-21 18:22:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "【光弘科技：控股股東因定增持股比例被動稀釋至46.06%】光弘科技公告稱，公司向特定物件發行4165.48萬股於2026年5月15日上市，總股本由7.67億股增至8.09億股。控股股東光弘投資非認購物件，持股數量未變，持股比例從48.56%被動稀釋至46.06%，觸及1%整數倍。本次權益變動不涉及持股數量變化、要約收購，不會導致控股股東及實控人變更，不影響公司治理結構和持續經營。"
-    },
-    {
-      "id": "4892641",
-      "time": "2026-05-21 18:22:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "【瑞豐高材：公司當前工程塑膠助劑產能1萬噸，處於滿產狀態】瑞豐高材在特定物件調研時表示，今年以來，公司經營健康穩定，受原材料價格提高的影響，產品價格也有所提高，一季度業績增幅明顯，預計今年仍保持健康穩定發展態勢。公司當前工程塑膠助劑產能1萬噸，處於滿產狀態，產能瓶頸較嚴重，故規劃6萬噸產能新建專案。一期2萬噸在建，二期4萬噸計劃2027年適時啟動。公司控股資子公司瑞豐玥能的噸級中試裝置除錯工作已經完成，已經小批次投料，但達到預期正常穩定執行狀態的目標，可能仍尚需多次投料試驗。"
-    },
-    {
-      "id": "4892640",
-      "time": "2026-05-21 18:21:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "訊息稱霍爾木茲甘省發生 4.6 級地震。"
-    },
-    {
-      "id": "4892639",
-      "time": "2026-05-21 18:21:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中鋁國際中勘院中標西藏華泰龍果朗溝尾礦庫岩土工程勘察專案】據中鋁國際訊息，中鋁國際中勘院工程勘察研究院中標西藏華泰龍礦業開發有限公司果朗溝尾礦庫（4369m～4382m標高執行階段）岩土工程勘察專案。"
-    },
-    {
-      "id": "4892638",
-      "time": "2026-05-21 18:21:33",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【上海期貨交易所：對部分客戶採取限制開倉監管措施】5月21日，上海期貨交易所釋出關於對部分客戶採取限制開倉監管措施的公告。公告顯示，2026年5月21日，1組實際控制關係賬戶在相關合約上自成交第3次達到交易所處理標準。上述客戶交易行為違反《上海期貨交易所異常交易行為管理辦法》第12條、15條之規定，交易所決定對相關客戶在相應品種上採取限制開倉的監管措施。2026年5月21日，3組實際控制關係賬戶在相關合約上賬戶組日內開倉交易量超限達到交易所處理標準。上述客戶交易行為違反《上海期貨交易所異常交易行為管理辦法》第16條之規定，交易所決定對相關客戶在相應品種上採取限制開倉的監管措施。"
-    },
-    {
-      "id": "4892637",
-      "time": "2026-05-21 18:21:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列北部拉響紅色警報及無人機入侵預警。"
-    },
-    {
-      "id": "4892636",
-      "time": "2026-05-21 18:20:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "【力源資訊：今年將是碳化矽應用的大年】5月20日，力源資訊(300184)在機構調研時表示，公司代理的碳化矽產品主要有ON（安森美）、ST（意法）、ROHM（羅姆）、華為海思等品牌的。前兩年還與ON（安森美）成立了碳化矽聯合實驗室，重點推進碳化矽的市場應用。從未來發展來看，隨著碳化矽產品價格的下降，今年將是碳化矽應用的大年，在汽車、儲能、AI電源上會廣泛應用，碳化矽市場將會是公司未來重點深耕的市場。"
-    },
-    {
-      "id": "4892635",
-      "time": "2026-05-21 18:20:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "【航天資訊：福建航信中標三明市多家專科醫院資訊化專案】據航天資訊訊息，近日，福建航天資訊科技有限公司中標福建省三明市多家市直專科醫院資訊化專案。"
-    },
-    {
-      "id": "4892634",
-      "time": "2026-05-21 18:20:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本石油聯盟會長就原油稱必須減少依賴中東】日本石油聯盟會長木藤俊一（出光興產董事長）20日出席記者會，就超過9成的原油進口依賴中東的現狀強調：“必須探索降低佔比。”著眼於伊朗局勢平息之後，他表示：“比方說降到7成或者5成，我們將與政府討論。” 木藤透露稱，雖然已有2艘日本相關大型油輪透過了霍爾木茲海峽，但仍有7艘滯留在波斯灣內。"
-    },
-    {
-      "id": "4892633",
-      "time": "2026-05-21 18:19:46",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【上海國際能源交易中心：對部分客戶採取限制開倉監管措施】上海國際能源交易中心5月21日釋出關於對部分客戶採取限制開倉監管措施的公告。公告稱，2026年5月21日，2組實際控制關係賬戶在相關合約上賬戶組日內開倉交易量超限達到上海國際能源交易中心處理標準。上述客戶交易行為違反《上海國際能源交易中心異常交易行為管理細則》第16條之規定，上期能源決定對相關客戶在相應品種上採取限制開倉的監管措施。"
-    },
-    {
-      "id": "4892632",
-      "time": "2026-05-21 18:19:39",
-      "tags": [
-        "市場"
-      ],
-      "text": "IBM股票在盤前交易中上漲8%。"
-    },
-    {
-      "id": "4892631",
-      "time": "2026-05-21 18:19:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【大普微：2026年以來儲存行業各領域的需求增長仍超出供應的滿足度，目前未見本質的改變】大普微在業績說明會上表示，公司PCIe6.0代際主控晶片與SSD產品在按研發計劃進度正常推進中。公司的PCIE4.0/5.0企業級SSD均已量產，搭載自研PCIE5.0主控晶片的企業級SSD也已量產。公司與上游NAND廠商保持長期的良好合作關係，合作穩固。產品的價格波動是供應和需求缺口或滿足度狀況的最直接反應，2026年以來儲存行業各領域的需求增長仍超出供應的滿足度，目前未見本質的改變。企業級SSD作為先進存力的載體、是AI基礎設施的重要組成部分，相關算力網建設的推進有望為企業級SSD市場帶來新的需求。"
-    },
-    {
-      "id": "4892630",
-      "time": "2026-05-21 18:19:25",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "在美國政府將撥款扶持的訊息曝出後，量子計算概念股盤前普漲，D-Wave量子計算公司股價上漲11.4%，裡蓋蒂計算公司股價攀升14.4%，Inflektion股價上漲20%。"
-    },
-    {
-      "id": "mkt:019e4a0b-f6dc-799b-b5d5-13451661afd2",
-      "time": "2026-05-21 18:19:18",
-      "tags": [
-        "MKT News",
-        "Important",
-        "RIGT.O",
-        "Impact bullish"
-      ],
-      "text": "QUANTUM COMPUTING STOCKS JUMP PREMARKET AFTER REPORT US GOVERNMENT TO AWARD FUNDS QUANTUM COMPUTING SHARES UP 11% D-WAVE QUANTUM UP 11.4%, RIGETTI COMPUTING CLIMBS 14.4%, INFLEQTION SHARES CLIMB 20%"
-    },
-    {
-      "id": "4892629",
-      "time": "2026-05-21 18:19:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【巴基斯坦官員：巴中關係樹立國際合作典範】巴基斯坦規劃、發展與特別專案部長阿赫桑·伊克巴爾日前表示，當今世界變亂交織、百年變局加速演進，巴中始終堅持相互尊重、互利共贏，為世界樹立了國際合作強有力的典範，雙方正攜手譜寫南南合作新篇章。為慶祝巴中建交75週年，由巴基斯坦新聞與廣播部主辦的“巴基斯坦—中國文化之夜”活動日前在巴首都伊斯蘭堡舉辦。伊克巴爾在現場致辭說，巴中是全天候戰略合作伙伴，兩國關係是歷史的選擇。75年來，雙方相互理解、相互支援，巴中友誼持續深化，歷久彌堅。（新華社）"
-    },
-    {
-      "id": "4892628",
-      "time": "2026-05-21 18:19:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "【司法部發布規範涉企行政執法專項行動為民辦實事典型案例】司法部5月21日釋出第四批規範涉企行政執法專項行動為民辦實事典型案例。8件典型案例涉及智慧財產權保護、企業破產重組、交通執法治理等多方面，體現各地在推動執法監管與助企服務深度融合、剛性執法與柔性服務有機統一的生動實踐。"
     }
   ]
 }
