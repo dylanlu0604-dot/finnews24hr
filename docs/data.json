@@ -1,7 +1,56 @@
 {
-  "updated": "2026-05-28 22:47:43",
-  "count": 15181,
+  "updated": "2026-05-28 22:51:46",
+  "count": 15175,
   "items": [
+    {
+      "id": "4905175",
+      "time": "2026-05-28 22:50:17",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "市場訊息：伊朗最高領袖穆傑塔巴・哈梅內伊並未批准該協議。"
+    },
+    {
+      "id": "mkt:019e6f0f-bba2-7cc0-9db0-f2471bbed94c",
+      "time": "2026-05-28 22:49:22",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Xiaomi",
+        "1810.HK"
+      ],
+      "text": "【Xiaomi Auto To Begin YU7 GT Deliveries Tomorrow】Xiaomi Auto's official Weibo account announced YU7 GT deliveries will begin tomorrow. The company also scheduled a 10:30 a.m. livestream in which Lei Jun and actress Shu Qi will hand over cars, discuss the YU7 and tour the factory."
+    },
+    {
+      "id": "te:markets:554551",
+      "time": "2026-05-28 22:48:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Waver — US stocks wavered following reports that the US and Iran reached a deal to halt their conflict. The S&P 500 swung higher to a new record high, while the Dow was flat and the Nasdaq cut losses to hover only marginally below the flatline. New reports stated that Washington and Tehran agreed to a 60-day memorandum to extend the ceasefire and gradually restore energy exports from the Persian Gulf. Bond yields eased as energy prices pared their rebound, despite data that favors a hawkish Federal Reserve. Jobless claims and consumer spending remained robust, while PCE inflation rose to a three-year high. AI software and infrastructure patrons were sharply higher, with Microsoft, Oracle, and Palantir gaining between 3% and 4%. On the other hand, chip producers fell with Nvidia dropping 1%. Snowflake surged 30% on a strong outlook, although the result did not spread to other software companies. Salesforce fell 2% after its earnings report."
+    },
+    {
+      "id": "4905174",
+      "time": "2026-05-28 22:47:37",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【港股IPO：蘇州天瞳威視電子科技股份有限公司遞表港交所】蘇州天瞳威視電子科技股份有限公司向港交所提交上市申請書，聯席保薦人為滙豐、華泰國際。"
+    },
+    {
+      "id": "4905173",
+      "time": "2026-05-28 22:47:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美媒披露美伊諒解備忘錄內容】更新：據美國媒體“阿克西奧斯新聞網（Axios）”今天（5月28日）援引兩名美國官員訊息報道，美國與伊朗已就一份為期60天的諒解備忘錄達成一致。該備忘錄旨在延長停火期限，並啟動伊朗核問題談判。但目前仍需等待美國總統特朗普的批准，而特朗普“需要幾天時間考慮”。伊朗方面目前並未證實美媒這一報道。#美媒稱美伊設定60天談判期##美媒稱美伊達成諒解備忘錄# 報道稱，該諒解備忘錄相關條款在5月26日前已“基本敲定”，需獲得雙方高層批准。美方稱“伊朗表示已獲得必要授權並準備簽署”。但伊朗方面尚未予以證實。 在具體內容方面，據報道，該備忘錄擬規定霍爾木茲海峽航運“無限制通行”，同時要求伊朗“在30天內清除海峽內所有水雷”。美方則將“逐步解除海上封鎖”。 據稱，該備忘錄還將包含“伊朗承諾不發展核武器”的內容，並規定60天談判期內“優先討論伊朗高濃縮鈾處置方式及鈾濃縮問題”。美方則承諾在談判中討論對伊朗制裁減免及解凍資金問題，並討論建立機制幫助伊朗獲取物資及人道援助。（CCTV國際時訊）"
+    },
     {
       "id": "4905172",
       "time": "2026-05-28 22:46:33",
@@ -136542,115 +136591,6 @@
         "其他"
       ],
       "text": "白宮能源主管：霍爾木茲海峽通航恢復後，油價將快速回落。"
-    },
-    {
-      "id": "mkt:019e4b04-4041-7bb7-824c-3863263f7244",
-      "time": "2026-05-21 22:50:30",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "981.HK",
-        "Impact mixed"
-      ],
-      "text": "SMIC GETS CSRC'S NOD TO BUY 49% STAKE OF UNIT VIA SHARE ISSUE"
-    },
-    {
-      "id": "mkt:019e4b04-10ec-7bb7-824c-37e28bdfcc97",
-      "time": "2026-05-21 22:50:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "LEBANON'S FINANCE MINISTER JABER: LEBANESE ECONOMY EXPECTED TO SHRINK BY 7%-10% THIS YEAR DUE TO ISRAEL-HEZBOLLAH WAR LEBANON'S JABER: WAR DAMAGE IN THE COUNTRY ESTIMATED AT UP TO $20 BILLION"
-    },
-    {
-      "id": "4893332",
-      "time": "2026-05-21 22:49:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "受以色列與真主黨衝突影響，今年黎巴嫩經濟預計將萎縮7%-10%。該國戰爭損失估計最高達200億美元。"
-    },
-    {
-      "id": "mkt:019e4b03-3fcb-7bb7-824c-2d853236643f",
-      "time": "2026-05-21 22:49:24",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "GAS PRICES WILL GO DOWN QUICKLY ONCE HORMUZ OPENS: NED'S AGEN"
-    },
-    {
-      "id": "4893331",
-      "time": "2026-05-21 22:49:13",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納斯達克中國金龍指數跌超3%，貝殼跌7.42%，網易有道跌6.33%，網易跌6.03%，金山雲跌5.95%，萬國資料跌5.73%。"
-    },
-    {
-      "id": "4893330",
-      "time": "2026-05-21 22:49:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國衛生與公眾服務部：新舉措要求各州及受資助方就衛生與公眾服務部資助專案中長期存在的審計失責問題負責。"
-    },
-    {
-      "id": "4893329",
-      "time": "2026-05-21 22:49:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "克里姆林宮針對美國對勞爾·卡斯特羅的指控表態：禁止使用近乎暴力的手段對付現任及前任領導人，俄羅斯反對美方對古巴施加施壓。"
-    },
-    {
-      "id": "mkt:019e4b02-45d0-7bb7-824c-24df45059849",
-      "time": "2026-05-21 22:48:20",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "31 SHIPS PASSED THROUGH THE STRAIT OF HORMUZ WITH IRGC COORDINATION - IRAN TV"
-    },
-    {
-      "id": "4893328",
-      "time": "2026-05-21 22:48:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國衛生與公眾服務部：對多年來未受管控的審計發現問題展開專項整治。"
-    },
-    {
-      "id": "mkt:019e4b01-ff0d-7bb7-824c-1a370e4cb497",
-      "time": "2026-05-21 22:48:02",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "KREMLIN SAYS PUTIN AND XI DISCUSSED IRAN: IFX"
-    },
-    {
-      "id": "te:economy:552817",
-      "time": "2026-05-21 22:47:58",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Natural Gas Stocks Change",
-        "Importance 1"
-      ],
-      "text": "US Natural Gas Stocks Extend Build — US energy firms injected 101 billion cubic feet of natural gas into storage to 2.29 trillion cubic feet on the week that ended May 15th, slightly above market expectations of a 95 bcf build. The elevated sharp build took place despite strong demand for US liquified natural gas from consumers in Europe and Asia, as the US and Iran conflict blockaded LNG tankers from leaving the Persian Gulf with cargoes. Stocks were 1.4% above comparable periods of the previous year, and 6.6% above the current five-year average."
     }
   ]
 }
