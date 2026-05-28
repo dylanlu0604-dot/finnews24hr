@@ -1,7 +1,74 @@
 {
-  "updated": "2026-05-29 00:53:09",
-  "count": 15168,
+  "updated": "2026-05-29 00:57:01",
+  "count": 15174,
   "items": [
+    {
+      "id": "4905352",
+      "time": "2026-05-29 00:56:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "最近24小時，MarketVectorTM數字資產100小盤指數跌5.25%，暫報2631.0點，北京時間04:00-12:00持續下挫，之後持續交投於2600點附近，日線圖上，指數自2月份以來持續窄幅震盪於3000-2300點趨近。MarketVectorTM數字資產100中盤指數跌4.58%，報2869.46點。MarketVector數字資產100指數跌2.60，報14472.31點。目前，Solana跌2.36%，狗狗幣跌2.59%，XRP暫時持平。比特幣跌2.17%，暫報73265.71美元；以太坊跌2.16%，暫報2009.17美元。"
+    },
+    {
+      "id": "mkt:019e6f83-d3f5-733b-b43f-50a749d6d3b8",
+      "time": "2026-05-29 00:56:06",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Iranian President PEZESHKIAN said Iran is not seeking nuclear weapons."
+    },
+    {
+      "id": "mkt:019e6f83-09b8-733b-b43f-4fc150a5805f",
+      "time": "2026-05-29 00:55:19",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact mixed",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Iran Deputy Foreign Minister Says Will Not Sign MoU Contrary To National Interest】May 28 local time — Iran Deputy Foreign Minister Gharibabadi said Iran would respond firmly to any violations of the ceasefire and will not sign any memorandum of understanding that contravenes national interests. Earlier, US officials said US‑Iran negotiators had agreed a memorandum of understanding, subject to final approval by US President TRUMP."
+    },
+    {
+      "id": "4905351",
+      "time": "2026-05-29 00:54:42",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗總統：我們不尋求核武器。"
+    },
+    {
+      "id": "mkt:019e6f82-4aaa-733b-b43f-408c597fb835",
+      "time": "2026-05-29 00:54:30",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "ANTHROPIC has released Claude OPUS 4.8. Regular-use pricing is unchanged from OPUS 4.7: $5 per MLN input tokens and $25 per MLN output tokens. Fast mode is priced at $10 per MLN input tokens and $50 per MLN output tokens."
+    },
+    {
+      "id": "4905350",
+      "time": "2026-05-29 00:53:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "LME期銅收漲170美元，報13702美元/噸。LME期鋁收漲24美元，報3660美元/噸。LME期鋅收漲38美元，報3551美元/噸。"
+    },
+    {
+      "id": "4905349",
+      "time": "2026-05-29 00:52:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗副外長稱伊方不會簽署任何不符合國家利益的諒解協議】當地時間5月28日，伊朗外交部副部長加里布阿巴迪稱，伊朗將對任何違反停火協議的行為予以堅決回應。並稱，伊朗不會簽署任何不符合國家利益的諒解協議。當日稍早前，美國官員稱，美伊談判代表已就諒解備忘錄達成一致，有待美國總統特朗普最終批准。（央視新聞）"
+    },
     {
       "id": "mkt:019e6f80-595c-733b-b43f-383fc804a973",
       "time": "2026-05-29 00:52:22",
@@ -136504,14 +136571,6 @@
         "國際"
       ],
       "text": "伊朗外交部：伊朗外長與奧地利外長於本週四下午通電話，雙方就外交局勢最新動態及雙邊關係相關事宜交換意見。"
-    },
-    {
-      "id": "mkt:019e4b75-c060-7aa1-957f-c608e44c8865",
-      "time": "2026-05-22 00:54:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "GEMINI: STARTING TODAY, OFFERS NEW ADDITIONS TO STABLECOIN & DIGITAL ASSET ECOSYSTEM: USAT (ETHEREUM), XAUT (ETHEREUM), USDT0 TRANSFERS (ARBITRUM)"
     }
   ]
 }
