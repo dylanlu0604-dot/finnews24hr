@@ -1,7 +1,89 @@
 {
-  "updated": "2026-05-28 18:07:36",
-  "count": 15184,
+  "updated": "2026-05-28 18:11:21",
+  "count": 15186,
   "items": [
+    {
+      "id": "4904582",
+      "time": "2026-05-28 18:10:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【騰訊ima宣佈接入WorkBuddy】5月28日，騰訊ima宣佈接入WorkBuddy。此前，ima自身Copilot已經讓使用者沉澱的知識進入ima內部的Agent工作流，本輪接入後，ima成為更多Agent產品可呼叫的知識上下文。"
+    },
+    {
+      "id": "4904581",
+      "time": "2026-05-28 18:10:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "小鵬汽車美股上市股票盤前上漲回落到3.4%，此前公佈一季度業績。"
+    },
+    {
+      "id": "4904580",
+      "time": "2026-05-28 18:10:14",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【歐洲央行首席經濟學家：伊朗戰爭將對通脹產生持久影響】歐洲央行首席經濟學家萊恩週四表示，即使中東衝突能迅速解決，由此引發的能源衝擊仍可能對通脹產生持久影響。雖然歷史上油價在經歷一輪飆升後往往會回落至原有水平，但當前的情況可能有所不同，因為各國正在補充庫存或調整能源結構，能源成本可能會持續處於高位。（新華財經）"
+    },
+    {
+      "id": "4904578",
+      "time": "2026-05-28 18:09:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【美格智慧：子公司擬2.85億元收購慧欣物業100%股權購置辦公樓】美格智慧公告稱，2026年5月28日，其全資子公司眾格智慧與Minhang Investment簽訂協議，擬不超2.85億元收購慧欣物業100%股權，獲取其名下15,369.58平方米辦公樓所有權。交易總價包括8599.49萬元股權交易對價和1.99億元貸款償還金額。資金由公司自有或自籌。交易不構成關聯及重大資產重組，尚需股東會批准，完成後慧欣物業將成公司全資孫公司。"
+    },
+    {
+      "id": "mkt:019e6e0f-2334-7993-9090-ad8b60d8c840",
+      "time": "2026-05-28 18:09:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Hisense Says Talks With LG Over TV Unit Are Routine; Sale Speculation Unconfirmed】An industry insider close to Hisense said recent coordination talks between LG Electronics and Hisense executives over business restructuring — including the reported possibility of LG selling its TV division — were routine exchanges and that other reports are speculative. In late March TCL Electronics signed an agreement with Sony to form a joint venture that will take over Sony’s TV and home-audio hardware business, with TCL Electronics as majority owner. Hisense previously acquired Toshiba’s TV operations. Analysts expect Chinese firms to further increase their share of the global TV market. Omdia consumer-electronics analyst Zhang Bing said a Hisense acquisition of LG’s TV unit is unlikely, noting LG ranked second by industry revenue in 2025 (behind Samsung) and was fourth by TV shipments last year after Samsung, TCL and Hisense, but he did not rule out resource-sharing or cooperation between LG and Chinese OEMs/brands in the TV supply chain."
+    },
+    {
+      "id": "4904577",
+      "time": "2026-05-28 18:09:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【LG要找海信買下電視業務？業內人士：交流正常、其他屬猜測】針對LG電子高管近日與海信高管就業務重組計劃進行協調磋商、其中包括出售LG電視業務部門可能性的傳聞，一位接近海信的業內人士表示，企業之間的交流很正常，其他都屬於猜測。今年3月底，TCL電子與索尼簽約將設立合資公司，來承接索尼電視、音響等家庭娛樂電子硬體業務，並將由TCL電子控股。此前，海信已收購了東芝電視業務。業內預測，中國企業今後在全球電視市場的份額還將進一步提升。Omdia消費電子分析師張兵分析認為，海信收購LG電視業務的可能性不大，因為LG電子2025年在全球彩電行業的營收排第二位、僅次於三星；LG電視去年出貨量排第四位，在三星、TCL、海信之後。“不排除LG電子在電視供應鏈上，與中國的代工廠、品牌廠商進行資源共享和合作的可能性。”（一財）"
+    },
+    {
+      "id": "4904576",
+      "time": "2026-05-28 18:08:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家公路交通安全管理局（NHTSA）對114,922輛在美國銷售的Rivian車輛啟動初步評估，原因為車輛行駛過程中後輪束角連桿可能斷裂，導致車輛偏離車道。"
+    },
+    {
+      "id": "4904575",
+      "time": "2026-05-28 18:08:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【上海建工集團股份有限公司原副總裁張惠忠接受紀律審查和監察調查】據上海市紀委監委訊息：上海建工集團股份有限公司原副總裁張惠忠涉嫌嚴重違紀違法，目前正接受上海市紀委監委紀律審查和監察調查。"
+    },
+    {
+      "id": "4904574",
+      "time": "2026-05-28 18:07:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣西能源：普通代表人訴訟二審判決 駁回上訴維持原判】廣西能源公告稱，2024年7月，王曉東、姚靖等10名自然人投資者以證券虛假陳述責任糾紛為由，起訴廣西能源等8名被告，要求廣西能源賠償損失14.23萬元，其他7名被告承擔連帶責任。一審法院駁回原告訴訟請求，8名投資者不服上訴。近日，廣西自治區高院作出二審判決，駁回上訴，維持原判，一審、二審案件受理費分別由10名和8名投資者負擔。本次判決為終審判決，不會對公司經營與損益產生不利影響。"
+    },
+    {
+      "id": "4904573",
+      "time": "2026-05-28 18:07:14",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【德國記者團走進巴蜀大地 感受中國發展與文明魅力】5月25日至28日，由中國駐慕尼黑總領館、中央廣播電視總檯歐洲拉美地區語言節目中心、總檯四川總站聯合主辦的“德國記者中國行”四川站媒體活動在成都啟動。來自德國電視二臺、巴伐利亞廣播電視臺、上巴伐利亞人民報、新團結報等多個德國媒體的11位記者深入四川多地開展采訪報道。本次媒體活動以“文旅發展及文化遺產利用保護”為主題，11名德國記者走進成都、德陽、樂山等地，實地參訪成都大熊貓繁育研究基地、成都國際鐵路港、都江堰水利工程、三星堆博物館、天府長島數字文創園等特色點位，全方位瞭解四川在高質量發展、文化遺產保護、文旅產業升級、對外開放合作、數字文創創新等方面的生動實踐，用鏡頭與筆觸記錄真實、立體、全面的中國，展現四川的人文底蘊與發展活力，講述中德友好交流故事。（央視新聞）"
+    },
     {
       "id": "4904572",
       "time": "2026-05-28 18:06:46",
@@ -136357,80 +136439,6 @@
         "其他"
       ],
       "text": "沙特公共投資基金擬整合資產，組建大型物流巨頭。"
-    },
-    {
-      "id": "4892604",
-      "time": "2026-05-21 18:11:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "【凌激副部長兼國際貿易談判副代表會見芬蘭外交部副部長肅海嵐】5月19日，凌激副部長兼國際貿易談判副代表會見芬蘭外交部副部長肅海嵐。（商務部）"
-    },
-    {
-      "id": "4892603",
-      "time": "2026-05-21 18:10:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "【大連商品交易所召開2026年會員大會】2026年5月21日，大連商品交易所（以下簡稱大商所）2026年會員大會（以下簡稱大會）在大連隆重召開，本次大會由大商所第四屆理事會召集，160名會員單位代表現場參會。會議審議批准了《大連商品交易所2025年理事會工作報告》《大連商品交易所2025年總經理工作報告》，選舉產生了大商所第五屆理事會會員理事13名。中國證監會委派熊軍、嚴紹明、郭俊為大商所第五屆理事會非會員理事。熊軍當選第五屆理事會理事長。大會指出，“十五五”時期是我國基本實現社會主義現代化夯實基礎、全面發力的關鍵時期，也是大商所加快建設世界一流期貨交易所的重要機遇期。當前，我國正加快構建新發展格局，著力建設現代化產業體系、金融強國和全國統一大市場，為期貨市場服務實體經濟、服務國家戰略提供廣闊空間。大商所必須牢牢把握戰略主動，緊緊圍繞世界一流期貨交易所建設目標，銳意進取、改革創新，加快自身高質量發展，努力為我國社會主義現代化建設做出貢獻。（大商所釋出）"
-    },
-    {
-      "id": "te:markets:552710",
-      "time": "2026-05-21 18:10:24",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Deere & Company earnings above expectations at 6.55 USD — Deere & Company (DE) released earnings per share at 6.55 USD, compared to market expectations of 5.65 USD."
-    },
-    {
-      "id": "4892602",
-      "time": "2026-05-21 18:09:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國政府：正對英國警方針對安德魯·蒙巴頓-溫莎以及公職人員涉嫌不當行為展開的調查提供全面配合。"
-    },
-    {
-      "id": "4892601",
-      "time": "2026-05-21 18:09:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國政府：我們未發現任何證據表明（相關方）開展過正式盡職調查或審查程式。"
-    },
-    {
-      "id": "4892600",
-      "time": "2026-05-21 18:08:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國政府：我們已對檔案進行刪改，移除了若公開將會損害國際關係的資訊。"
-    },
-    {
-      "id": "mkt:019e4a01-f83a-799b-b5d4-f6c1e15cc957",
-      "time": "2026-05-21 18:08:23",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "China EV Leaders",
-        "NIO.O",
-        "Impact bullish"
-      ],
-      "text": "【Nio Q1 operating profit RMB 66.8 mln, second consecutive quarterly profit】NIO reported first-quarter 2026 operating profit of 66.8 million yuan, marking a second consecutive quarter of profitability. Revenue rose 112.2% year-on-year to 25.53 billion yuan, while gross profit increased 428.4% to 4.86 billion yuan. Overall gross margin reached 19.0%, the highest in four years, with vehicle margin at 18.8%, extending four straight quarters of sequential gains. Cash reserves rose to 48.2 billion yuan, and the company generated positive operating cash flow for a third consecutive quarter."
-    },
-    {
-      "id": "4892599",
-      "time": "2026-05-21 18:08:20",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【多重利好助推下 黃仁勳描繪的“實體AI”願景引爆亞洲科技股】英偉達最新財報或許沒能完全滿足投資者更高的期待，但卻提振了亞洲科技股大範圍上漲。在執行長黃仁勳再次強化人工智慧前景之後，彭博亞洲晶片股指數一度上漲5.5%。黃仁勳指出，AI需求來源正在增加，應用場景也在不斷擴充套件。他還特別強調了所謂“實體AI”的潛力，即人形機器人和自動駕駛汽車日益普及所帶來的機會。與此同時，多項利好訊息同步出現：三星電子與工會在最後時刻達成協議，避免了一場罷工；OpenAI正在籌備上市；Anthropic PBC在收入激增後，有望迎來首個盈利季度。"
     }
   ]
 }
