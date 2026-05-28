@@ -1,7 +1,78 @@
 {
-  "updated": "2026-05-29 00:41:26",
-  "count": 15145,
+  "updated": "2026-05-29 00:45:22",
+  "count": 15153,
   "items": [
+    {
+      "id": "mkt:019e6f78-e84a-733b-b43f-17c8fe80b073",
+      "time": "2026-05-29 00:44:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CARNEY says Canada will maintain robust defence spending."
+    },
+    {
+      "id": "mkt:019e6f78-df9f-733b-b43f-0d70dc43fce1",
+      "time": "2026-05-29 00:44:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "CARNEY said Russian forces in Ukraine are incurring casualties at a rate that exceeds their ability to replace them, and that the military balance is shifting in Ukraine's favor."
+    },
+    {
+      "id": "4905336",
+      "time": "2026-05-29 00:43:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度外交部週四宣佈，緬甸總統將於 5 月 30 日至 6 月 3 日對印度進行正式訪問，並定於 6 月 1 日與印度總理舉行會談。"
+    },
+    {
+      "id": "te:markets:554589",
+      "time": "2026-05-29 00:43:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "European Stocks Edge Lower — European stocks closed a choppy session slightly lower on Thursday, well above session lows on signs of a potential agreement between US and Iran. The Euro STOXX 50 fell 0.3% to 6,055 and the STOXX Europe 600 fell 0.5% to 625. Reports indicated the US and Iran were close to agreeing on a 60-day memorandum that extends the ongoing ceasefire and gradually restores the flow of vessels and tankers through the Strait of Hormuz. Energy commodities and sovereign yields pulled back. Still, banks and insurers extended the losses from yesterday with Santander, Allianz, and AXA dropping around 2%. Industrials were also down with Siemens and Schneider dropping around 1% each. Still, stocks of AI infrastructure companies were higher with ASML adding 1% and Infineon jumping 4.5%. Also, Rheinmetall soared 5% after Ukraine ratified a $105 billion EU loan deal."
+    },
+    {
+      "id": "4905335",
+      "time": "2026-05-29 00:42:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大總理卡尼：力量平衡正朝著有利於烏克蘭的方向傾斜。"
+    },
+    {
+      "id": "te:markets:554588",
+      "time": "2026-05-29 00:41:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Thermo Fisher Scientific Stock Price Hits 5-week High — Thermo Fisher Scientific shares increased to 481.88 USD, the highest since April 2026. Over the past 4 weeks, Thermo Fisher Scientific gained 3.25%, and in the last 12 months, it increased 19.23%."
+    },
+    {
+      "id": "mkt:019e6f75-f86c-733b-b43f-00f5028a897a",
+      "time": "2026-05-29 00:41:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Trade Representative GREER said Germany's streaming quotas would violate trade agreements."
+    },
     {
       "id": "4905334",
       "time": "2026-05-29 00:39:37",
@@ -17,6 +88,14 @@
         "國際"
       ],
       "text": "美國貿易代表格里爾稱德國針對流媒體平臺的配額規定違反貿易協定。"
+    },
+    {
+      "id": "4905332",
+      "time": "2026-05-29 00:39:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "【挪威將接受法國“核保護傘” 專家：歐洲嘗試戰略自主 但仍面臨困難】法國總統馬克龍27日在巴黎會見到訪的挪威首相斯特勒，雙方簽署新的防務協議，承諾在必要時相互提供軍事支援。擁有獨立核力量一直是法國維持大國地位、執行獨立外交決策的重要基石。英國“脫歐”後，法國更是成為歐盟內唯一的擁核國家。斯特勒當天宣佈，挪威將加入法國提出的“前沿威懾”計劃，但不會改變有關核武器的基本政策。挪威方面有分析稱，這意味著挪威將被納入法國“核保護傘”框架。中國現代國際關係研究院歐洲研究所研究員楊芳表示：但是需要注意的是，挪威方面強調將恪守長期以來的核政策，北約仍然是挪威的首要安全支柱。而法國總統馬克龍也重申了，核力量的最終使用權完全由法國掌握。因此無論是從各方的表述，還是包括法國在內的歐洲實際戰略威懾能力來說，目前乃至中短期內，並不存在法國核能力覆蓋更多歐洲國家的問題。這是歐洲戰略自主從願景到行動的體現，但真正實現還面臨很多的困難。（央視新聞）"
     },
     {
       "id": "4905331",
