@@ -1,7 +1,85 @@
 {
-  "updated": "2026-05-29 07:53:50",
-  "count": 15332,
+  "updated": "2026-05-29 07:57:41",
+  "count": 15339,
   "items": [
+    {
+      "id": "4905699",
+      "time": "2026-05-29 07:56:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山皋月：我無法回答有關擬議對食品徵收1%消費稅的假設性問題。"
+    },
+    {
+      "id": "4905698",
+      "time": "2026-05-29 07:55:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "片山皋月：應對匯市走勢的立場沒有改變。"
+    },
+    {
+      "id": "te:economy:554641",
+      "time": "2026-05-29 07:55:03",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Retail Sales YoY",
+        "Importance 2"
+      ],
+      "text": "Japan Retail Sales Growth Hits 1-Year Peak — Retail sales in Japan grew 2.1% year-on-year in April 2026, following a downwardly revised 1.4% rise in the previous month and surpassing market expectations for a 1.3% gain. It was the fastest increase since April 2025, supported by government efforts, including a stimulus package aimed at boosting consumption and easing price pressures."
+    },
+    {
+      "id": "mkt:019e7103-3fc7-7ee0-99dd-f0533097072b",
+      "time": "2026-05-29 07:54:58",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "【Treasury says $250 Trump note designed; issuance needs congressional approval】U.S. Treasury Secretary Bessent told reporters at the WHITE HOUSE the Treasury has completed the design for a $250 note bearing President Trump’s portrait, but issuance requires Congress to amend a law that currently prohibits living persons on U.S. currency; the Treasury is prepared pending legislative authorization."
+    },
+    {
+      "id": "4905697",
+      "time": "2026-05-29 07:54:37",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【特朗普肖像紀念鈔已設計完成 只等國會“放行” 】美國財政部長貝森特28日表示，美財政部就發行印有總統特朗普肖像、面值250美元的紀念鈔已做好準備，包括完成了紙幣設計工作，但該紀念鈔最終能否發行取決於國會授權。貝森特在白宮回答記者提問時說，美國現行法律禁止貨幣上印製在世人士頭像，因此需國會眾議院透過一項法案以修改此規定，“以便讓在世人士，比如特朗普，能夠出現在250美元的鈔票上”。他說，“這一切都取決於國會”，但財政部必須預先做好準備，“我們已經設計出了這款紙幣”。當天早些時候，《華盛頓郵報》報道說，財政部司庫布蘭登·比奇敦促隸屬該部的“印鈔廠”美國印刷局加快印製一款有特朗普肖像、面值250美元的紙幣。報道還稱，印刷局前局長帕特里夏·索利梅內因拒絕加快該款新幣發行程序而被調離崗位。"
+    },
+    {
+      "id": "4905696",
+      "time": "2026-05-29 07:53:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山皋月：若匯率出現投機性波動，可以採取大膽行動。"
+    },
+    {
+      "id": "te:economy:554640",
+      "time": "2026-05-29 07:53:49",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Industrial Production Mom",
+        "Importance 1"
+      ],
+      "text": "Japan Industrial Output Unexpectedly Rises — Japan’s industrial production rose 0.8% mom in April 2026, reversing a 0.4% drop in the prior month and defying market forecasts for a 0.9% decline. It was the first rise since January, amid resilient overseas demand and a recovery in domestic manufacturing activity, although escalating Middle East tensions continued to pose risks to supply chains and energy costs."
+    },
+    {
+      "id": "mkt:019e7101-ef74-7ee0-99dd-eaa3f9078370",
+      "time": "2026-05-29 07:53:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY"
+      ],
+      "text": "Japan's finance minister Katayama declined to comment on whether authorities have intervened."
+    },
     {
       "id": "mkt:019e7101-ab8d-7ee0-99dd-e3baf0696a50",
       "time": "2026-05-29 07:53:14",
@@ -35,6 +113,15 @@
         "國際"
       ],
       "text": "日本財務大臣片山：不對是否已實施干預置評。"
+    },
+    {
+      "id": "em:jjsj_rbsj:202605293753383784",
+      "time": "2026-05-29 07:51:11",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本4月份零售額同比增長2.1%，預估為1.3%。"
     },
     {
       "id": "mkt:019e70ff-fa4d-700c-b35c-2807fb775b55",
@@ -138099,22 +138186,6 @@
         "國際"
       ],
       "text": "【韓國否認媒體關於國民養老金本土持股比例的相關報道】韓國保健福祉部駁斥韓國《每日經濟新聞》報道，否認當局擬將國民養老金本土股票配置目標上調 5 個百分點，稱該訊息不實。該部門釋出宣告表示，中期資產配置屬於中長期投資規劃，旨在提升基金收益與穩健性，需劃定未來五年各類資產配置目標占比，且相關方案須經基金管理委員會審議表決後方可確定。"
-    },
-    {
-      "id": "4893754",
-      "time": "2026-05-22 07:57:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "【SpaceX發現故障 推遲星艦火箭發射】當地時間週四，SpaceX在發射前夕排查出多項問題，隨即推遲了巨型星艦火箭的關鍵測試任務。本次原計劃在公司位於得克薩斯州南部的星港發射場，執行星艦第十二次大型飛行任務。此次發射原定日期，恰逢埃隆・馬斯克執掌的太空探索技術公司正式遞交期盼已久的首次公開募股申請。公司計劃募資最高750億美元，用於研發登月火星運載星艦、星鏈太空網際網路專案，以及新興人工智慧業務。"
-    },
-    {
-      "id": "4893753",
-      "time": "2026-05-22 07:55:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "【江西景德鎮釋出暴雨紅色預警 注意防範】江西省景德鎮市氣象臺5月22日6時25分變更暴雨紅色預警訊號：目前樂平市共庫3小時降水量已達102.8毫米，預計未來3小時內，樂平東北部強降水仍將持續，請注意防範強降雨可能引發的城鄉內澇、中小河流洪水、山洪和地質災害等次生災害。"
     }
   ]
 }
