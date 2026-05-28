@@ -1,7 +1,34 @@
 {
-  "updated": "2026-05-29 03:42:42",
+  "updated": "2026-05-29 03:46:35",
   "count": 15253,
   "items": [
+    {
+      "id": "4905536",
+      "time": "2026-05-29 03:45:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國將部分與伊朗有關的油輪列入制裁名單。"
+    },
+    {
+      "id": "4905535",
+      "time": "2026-05-29 03:44:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【資產管理機構另闢蹊徑 AI熱潮意外助推主動型新興市場ETF崛起】大型資產管理公司正在推出一批主動管理型新興市場ETF，並將它們定位為AI概念股主導的基準指數的替代品進行推介。包括瑞士百達資產管理、普徠仕和Baron Capital Group在內的多家機構，今年相繼推出了投資大宗商品生產商和技術供應商等企業的基金。他們認為，這些企業在目前被廣泛追蹤的指數中代表性不足。這些新產品的問世標誌著一種策略上的轉變，即從此前緊盯MSCI新興市場指數的被動投資策略中脫離出來。目前該指數正日益由少數幾隻科技股驅動，這種集中度與美股市場如出一轍。在這些指數之外“還存在著一個充滿機遇的廣闊天地”，百達的新興市場股票高階投資經理Mark Boulton表示，如果投資於被動型基金，“你買入的資產中可能有高達40%都集中在幾隻超大型科技股上。” 百達已於4月下旬推出了程式碼為RISE的新興市場ETF。儘管目前尚難斷言這些新推出的基金能否跑贏競品，但這一趨勢已反映出投資者對新興市場看法的更廣泛轉變。新興市場這一資產類別曾被很大程度上視為一種與中國經濟、大宗商品及美元走勢掛鉤的宏觀交易，如今內部結構已呈現出更為多元化的特徵，越來越多的投資者正尋求更具針對性的押注。"
+    },
+    {
+      "id": "mkt:019e701c-66ac-7eef-a302-ae9d4935fb9c",
+      "time": "2026-05-29 03:42:49",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "US issues general license permitting negotiations and execution of interim contracts for the sale of Lukoil International."
+    },
     {
       "id": "4905534",
       "time": "2026-05-29 03:40:43",
@@ -137242,32 +137269,6 @@
         "WTI"
       ],
       "text": "【Hormuz Closure Risk Seen Triggering Deep Global Recession, Rapidan Says】A closure of the Strait of Hormuz through August could trigger an economic downturn approaching the scale of 2008, according to Rapidan Energy Group. The firm’s base case assumes reopening in July, with oil demand down 2.6 million barrels a day and Brent peaking near $130 this summer. A longer disruption could deepen supply deficits, potentially driving a rare global oil demand contraction in 2026. Rapidan said oil prices have nearly doubled since late February amid war-related disruptions, warning that further spikes could amplify macroeconomic vulnerabilities despite less oil-intensive economies and stronger monetary policy frameworks."
-    },
-    {
-      "id": "4893598",
-      "time": "2026-05-22 03:45:43",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "美國資源公司 (AREC)  股價迅速轉跌，下跌5%。"
-    },
-    {
-      "id": "4893597",
-      "time": "2026-05-22 03:43:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "【巴基斯坦官員：美伊談判正朝著正確的方向發展】當地時間5月21日獲悉，一名巴基斯坦參議員在接受媒體採訪時表示，伊朗與巴基斯坦之間以及巴基斯坦與美國之間的談判仍在進行中，巴基斯坦盡一切努力促使各方回到談判桌前，減少分歧，達成協議，結束戰爭。他還表示，美伊談判正朝著正確的方向發展。伊朗和美國之間的談判已經取得進展，並對此持樂觀態度。（央視新聞）"
-    },
-    {
-      "id": "4893596",
-      "time": "2026-05-22 03:43:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：Meta和WhatsApp因隱私保護問題被德克薩斯州起訴。"
     }
   ]
 }
