@@ -1,7 +1,113 @@
 {
-  "updated": "2026-05-28 10:58:04",
-  "count": 15021,
+  "updated": "2026-05-28 11:01:58",
+  "count": 15026,
   "items": [
+    {
+      "id": "mkt:019e6c87-5ba4-7aad-b830-35d7853abfe9",
+      "time": "2026-05-28 11:01:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BOK GOV SHIN said the Bank needs to closely monitor growth in leveraged investment in domestic equities."
+    },
+    {
+      "id": "4903704",
+      "time": "2026-05-28 11:00:41",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破91美元/桶，日內漲2.62%。"
+    },
+    {
+      "id": "4903703",
+      "time": "2026-05-28 11:00:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "申鉉松：需重點監控國內股票投資領域槓桿投資是否出現增長。"
+    },
+    {
+      "id": "mkt:019e6c86-d47e-7666-9cf2-a0c156e11a91",
+      "time": "2026-05-28 11:00:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel Defense Forces said a preliminary report showed alarms warning of enemy aircraft intrusion sounded in the Ma'ayan Baruch and Kfar Yuval areas. Specifics of the incident are being verified."
+    },
+    {
+      "id": "4903702",
+      "time": "2026-05-28 11:00:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "申鉉松：明年將看到晶片熱潮更廣泛的溢位效應。"
+    },
+    {
+      "id": "mkt:019e6c85-e9d1-7666-9cf2-99659fbb6fc9",
+      "time": "2026-05-28 10:59:31",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "BOK GOV SHIN said that as chip industry revenues surge, once related tax revenues are collected the chip boom’s trickle-down effects will be manifested through fiscal spending."
+    },
+    {
+      "id": "4903701",
+      "time": "2026-05-28 10:59:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "申鉉松：強勁的晶片利潤有望提振稅收收入。"
+    },
+    {
+      "id": "4903700",
+      "time": "2026-05-28 10:58:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "申鉉松：我不同意晶片熱潮沒有更廣泛的益處。"
+    },
+    {
+      "id": "4903699",
+      "time": "2026-05-28 10:58:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "申鉉松：晶片業繁榮的涓滴效應將透過財政支出傳導，晶片行業從業者收入激增帶來的稅收將最終進入財政迴圈。"
+    },
+    {
+      "id": "mkt:019e6c84-db4e-7666-9cf2-96216e22c2ed",
+      "time": "2026-05-28 10:58:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Meituan",
+        "Hang Seng Index",
+        "Impact bearish",
+        "03690.HK",
+        "03692.HK"
+      ],
+      "text": "Hong Kong stocks continued to slide, with the Hang Seng Index down 2.00% and the Hang Seng TECH Index off 1.23%. Tech and internet names were weak and the innovative drug sector declined; Meituan (03690.HK) slid nearly 6% and Hansoh Pharmaceutical (03692.HK) fell 4.8%."
+    },
+    {
+      "id": "4903698",
+      "time": "2026-05-28 10:57:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【聯想新視界新增股東，註冊資本增至1.51億元】企查查APP顯示，近日，聯想新視界（北京）科技有限公司發生工商變更，新增湖州金興股權投資合夥企業（有限合夥）、北京市石景山區現代創新產業發展基金有限公司為股東，同時註冊資本增至1.51億元。據其官網，聯想新視界依託聯想集團全產業鏈資源優勢與技術積澱，以具身智慧技術為核心，聚焦產業實際痛點，致力於成為具身智慧行業場景應用的引領者與全棧解決方案提供商。"
+    },
+    {
+      "id": "4903697",
+      "time": "2026-05-28 10:57:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "科威特報告應對無人機和導彈，油價升至盤中高位。"
+    },
     {
       "id": "4903696",
       "time": "2026-05-28 10:57:15",
@@ -9,6 +115,18 @@
         "宏觀"
       ],
       "text": "【證監會副主席劉浩凌：外資配置中國優質資產意願不斷提升】5月28日，由深交所主辦的2026全球投資者大會在深圳舉行。證監會副主席劉浩凌發表致辭時表示，中國資本市場投融資綜合改革舉措步伐穩健、持續見效，市場整體估值處於合理區間，外資配置中國優質資產意願不斷提升。"
+    },
+    {
+      "id": "mkt:019e6c84-2d74-7666-9cf2-89d9811c6438",
+      "time": "2026-05-28 10:57:08",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "ISRAELI MILITARY said it has begun striking Hezbollah infrastructure in Tyre in southern Lebanon."
     },
     {
       "id": "mkt:019e6c83-a8e3-7666-9cf2-86fa24bf8724",
@@ -134794,78 +134912,6 @@
         "市場"
       ],
       "text": "據TrendForce集邦諮詢旗下顯示器研究中心最新調研資料，2026年5月，電視、筆電面板價格持穩，顯示器面板價格微幅上漲。"
-    },
-    {
-      "id": "mkt:019e487b-4a2e-777f-8615-2f7d29a10f12",
-      "time": "2026-05-21 11:01:39",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions"
-      ],
-      "text": "SOUTH KOREA IS SET TO INTRODUCE 24-HOUR TRADING IN ITS DOLLAR-WON SPOT MARKET FROM JULY 6, ACCORDING TO THE FINANCE MINISTRY"
-    },
-    {
-      "id": "4891717",
-      "time": "2026-05-21 11:01:03",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "韓國財政部宣告：韓國將於7月6日起首次實行美元兌韓元現貨市場24小時交易。"
-    },
-    {
-      "id": "te:economy:552534",
-      "time": "2026-05-21 11:00:55",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Mexico",
-        "Credit Rating",
-        "Importance 1"
-      ],
-      "text": "Moody’s Downgrades Mexico’s Ratings to Baa3 — Moody’s Ratings on Wednesday downgraded Mexico’s credit rating to “Baa3” from “Baa2” and revised its outlook to stable from negative, saying weaker fiscal conditions and conflicting policy priorities were undermining its policy credibility. The agency cited a sustained weakening in fiscal strength that accelerated in 2024 and is expected to persist, pointing to “rigid” spending, a “narrow” revenue base, and support for the state-run oil firm Petróleos Mexicanos. The economy is expected to remain subdued, as vulnerability to fiscal shocks increases, while GDP is projected to gradually return to around 2% growth. Mexico’s central bank, in its latest quarterly report, forecast economic growth of 1.6% this year and 2% by 2027, while the government has projected up to 2.9% growth next year. Standard & Poor’s credit rating for Mexico stands at BBB with a negative outlook, while DBRS’s rating for Mexico was last reported at BBB with a stable outlook."
-    },
-    {
-      "id": "4891716",
-      "time": "2026-05-21 11:00:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部發言人：巴基斯坦一直在根據伊朗最初提出的14點框架，繼續在德黑蘭和華盛頓之間進行資訊交流。"
-    },
-    {
-      "id": "4891715",
-      "time": "2026-05-21 10:59:41",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【液冷伺服器概念震盪調整 大元泵業跌停】液冷伺服器概念震盪調整，大元泵業跌停，飛龍股份跌超7%，新朋股份、英維克、淳中科技、川環科技、佳力圖紛紛下挫。"
-    },
-    {
-      "id": "4891714",
-      "time": "2026-05-21 10:59:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "【司法部：健全完善罰沒收入異常增長的常態化監測機制】5月21日，司法部副部長鬍衛列在國新辦新聞釋出會上表示，健全規範涉企執法的長效機制，不是臨時性、階段性的工作安排，而是立足全域性、著眼長遠的一項重大決策部部署。下一步，司法部將強化行政執法監督機制和能力的建設。各地各部門要結合實際，抓緊制定修訂完善相關的執法監督制度，做到監督工作有章可循。要強化行政執法監督的糾錯功能，健全完善罰沒收入異常增長的常態化監測機制、行政執法訴求的快速響應機制，及時發現和糾正違法和不當的行政行為。"
-    },
-    {
-      "id": "4891713",
-      "time": "2026-05-21 10:59:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "【昂利康成立電子商貿公司】企查查APP顯示，近日，杭州米利諾電子商貿有限公司成立，法定代表人為姜立嘉，經營範圍包含網際網路銷售（除銷售需要許可的商品）；廣告製作；品牌管理；市場營銷策劃等。企查查股權穿透顯示，該公司由昂利康旗下湖南科瑞生物製藥股份有限公司全資持股。"
-    },
-    {
-      "id": "4891712",
-      "time": "2026-05-21 10:58:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "【半導體板塊短線走低，上海合晶跌超10%】半導體板塊短線走低，上海合晶跌超10%，東芯股份跌超8%，賽微電子、利揚晶片、大為股份紛紛下挫。"
     }
   ]
 }
