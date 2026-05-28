@@ -1,7 +1,195 @@
 {
-  "updated": "2026-05-28 22:43:38",
-  "count": 15175,
+  "updated": "2026-05-28 22:47:43",
+  "count": 15181,
   "items": [
+    {
+      "id": "4905172",
+      "time": "2026-05-28 22:46:33",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "小米汽車： 明天，小米YU7 GT正式開啟交付。"
+    },
+    {
+      "id": "4905171",
+      "time": "2026-05-28 22:46:25",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4510美元/盎司，日內漲0.65%。"
+    },
+    {
+      "id": "4905170",
+      "time": "2026-05-28 22:46:04",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部：美國將76個名字從制裁黑名單中移除，此舉旨在增強對高風險目標的關注。"
+    },
+    {
+      "id": "mkt:019e6f0c-b00f-7cc0-9db0-e9e8a17dbf4c",
+      "time": "2026-05-28 22:45:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Treasury said it removed 76 names from its sanctions blacklist to sharpen focus on higher-risk targets."
+    },
+    {
+      "id": "4905169",
+      "time": "2026-05-28 22:45:12",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲穆薩萊姆：在下半年，我們也可能看到經濟增長放緩的情景。目前風險更傾向於通脹一側。"
+    },
+    {
+      "id": "4905168",
+      "time": "2026-05-28 22:44:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【報道：兩家無人機企業Quantum和Destinus正物色投行，籌備2027年IPO】據知情人士透露，無人機製造商Quantum Systems和Destinus正與相關方面展開洽談，以物色潛在最快於2027年初進行首次公開募股（IPO）的顧問團隊。目前，這兩家公司正致力於滿足對無人防禦資產日益飆升的市場需求。Quantum在IPO中尋求至少100億歐元的估值，而Destinus則在考慮將阿姆斯特丹作為潛在的上市地點。相關籌備工作仍在進行中，目前尚未就兩家公司潛在IPO的規模、時間或地點做出最終決定。"
+    },
+    {
+      "id": "4905167",
+      "time": "2026-05-28 22:44:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗官員：不會允許美國“破壞霍爾木茲海峽的主權”】在美軍最新一輪空襲之後，伊朗副外長卡齊姆加倍強調伊朗對霍爾木茲海峽的控制權。據伊朗半官方的塔斯尼姆通訊社報道，卡齊姆在紀念革命衛隊總司令的儀式上發表講話，指責美國違反停火協議，並表示伊朗對該水道的主權“現已確立”。他說：“我們絕不允許他們透過這些軍事行動來破壞伊朗對霍爾木茲海峽的主權。”"
+    },
+    {
+      "id": "4905166",
+      "time": "2026-05-28 22:44:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "據美國阿克西奧斯新聞網站28日援引美國官員的話報道，美伊談判代表已就諒解備忘錄達成一致，但仍需美國總統特朗普最終批准。 美國官員表示，諒解備忘錄條款已於26日基本達成一致，但雙方仍需獲得高層領導批准。伊方表示已獲得必要批准，並準備簽署。美國談判代表向特朗普彙報了諒解備忘錄的細節。“總統向調解人表示，他希望用幾天時間來考慮此事。”（新華社）"
+    },
+    {
+      "id": "mkt:019e6f0b-32b5-7cc0-9db0-e6ea3c139312",
+      "time": "2026-05-28 22:44:14",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Federal Reserve's MUSALEM: Risks currently skew toward the inf side."
+    },
+    {
+      "id": "mkt:019e6f0a-fda9-7cc0-9db0-d9dad6ccafb8",
+      "time": "2026-05-28 22:44:09",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "MUSALEM said if those scenarios materialize and inf falls, rate cuts could be considered."
+    },
+    {
+      "id": "mkt:019e6f0a-d63f-7cc0-9db0-d424dde15aa6",
+      "time": "2026-05-28 22:44:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "03588.HK",
+        "Impact bullish"
+      ],
+      "text": "【Futu Holdings Q1 2026 AUM HKD 1,784 Trillion; Brokerage Turnover HKD 4.15 Trln】Futu Holdings (03588.HK) said at its Q1 2026 results briefing that brokerage total turnover reached HKD 4.15 trillion in Q1, up 29% YoY and 4% QoQ; US stock turnover was HKD 3 trillion. Assets under management stood at HKD 1,784 trillion at end-Q1, up 28% YoY. Management said it maintains over 50% market share among Hong Kong retail clients. Overseas, its independent brand moomoo delivered strong YoY revenue growth, with Japan, Canada, Australia, the US and Malaysia each recording >100% YoY increases. Asset clients exceed 2.0 million, with average AUM per client about USD 18,000."
+    },
+    {
+      "id": "4905165",
+      "time": "2026-05-28 22:43:51",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲官員穆薩萊姆：如果上述情況發生且通脹下降，那麼可以考慮降息。"
+    },
+    {
+      "id": "4905164",
+      "time": "2026-05-28 22:43:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日菲加速防務捆綁引發民眾擔憂】日本首相高市早苗今天（5月28日）與菲律賓總統馬科斯舉行會談。共同社稱，日菲雙方同意正式啟動《軍事情報保護協定》相關談判，邁入情報互通的深度捆綁階段。該協定落地後，日菲兩國在聯合演習、海上巡邏、應對突發事件時，不再需要透過美國中轉情報，徹底打通情報共享渠道。這也是日本首次將此類情報合作延伸至東南亞地區。 日菲兩國民眾擔憂，此舉將加劇地區風險。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:019e6f0a-3ac0-7cc0-9db0-cfe80789d843",
+      "time": "2026-05-28 22:43:20",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bearish",
+        "DXY",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Federal Reserve's MUSALEM said economic growth could slow in H2."
+    },
+    {
+      "id": "mkt:019e6f0a-134d-7cc0-9db0-c5a9a98cd2a3",
+      "time": "2026-05-28 22:43:11",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran Says It Will Not Allow US To Undermine Sovereignty Over Strait Of Hormuz】After recent US airstrikes, Iran’s deputy foreign minister said Tehran will not allow the United States to “use these military actions to undermine Iran’s sovereignty over the Strait of Hormuz,” accusing Washington of violating a ceasefire and saying Iranian sovereignty over the waterway “is now established,” Tasnim reported."
+    },
+    {
+      "id": "mkt:019e6f0a-1345-7cc0-9db0-b8e013139efe",
+      "time": "2026-05-28 22:43:11",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Fed's MUSALEM said he would be concerned if inf does not retreat over the next 1-2 quarters."
+    },
+    {
+      "id": "te:economy:554549",
+      "time": "2026-05-28 22:43:07",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Germany",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Bund Yields Slip Toward April Lows on Middle East Ceasefire Hopes — German 10-year Bund yields reversed earlier gains to fall back toward 2.96%, nearing their lowest level since April 8, as easing oil prices helped soften inflation concerns amid renewed optimism over Middle East diplomacy. According to Axios, US and Iranian negotiators have reportedly agreed on a 60-day memorandum of understanding to extend a ceasefire and begin talks on Iran’s nuclear program, although final approval from President Trump has yet to be secured. While the news lent some support to broader risk sentiment, geopolitical tensions remain elevated. Meanwhile, investors focused on the latest European Central Bank minutes, which revealed that several policymakers viewed the April decision to keep rates unchanged as a close call, with some suggesting they would have supported a hike if it had been on the table. Money markets are now nearly fully pricing in a 25-basis-point rate hike on June 11, with at least one additional increase expected by year-end."
+    },
+    {
+      "id": "4905163",
+      "time": "2026-05-28 22:43:06",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲官員穆薩萊姆：通脹預期上行也令我感到擔憂。"
+    },
     {
       "id": "mkt:019e6f09-e1ac-7cc0-9db0-b2e271224d2d",
       "time": "2026-05-28 22:42:58",
@@ -9,6 +197,15 @@
         "MKT News"
       ],
       "text": "MUSALEM of the Federal Reserve said scenarios exist in which the economy may require rate hikes."
+    },
+    {
+      "id": "em:qqyh_mlc:202605283753119432",
+      "time": "2026-05-28 22:42:57",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美聯儲官員Musalem表示，基本預期是，美國通脹回落至目標需要耗費更長時間。"
     },
     {
       "id": "4905162",
@@ -136454,113 +136651,6 @@
         "Importance 1"
       ],
       "text": "US Natural Gas Stocks Extend Build — US energy firms injected 101 billion cubic feet of natural gas into storage to 2.29 trillion cubic feet on the week that ended May 15th, slightly above market expectations of a 95 bcf build. The elevated sharp build took place despite strong demand for US liquified natural gas from consumers in Europe and Asia, as the US and Iran conflict blockaded LNG tankers from leaving the Persian Gulf with cargoes. Stocks were 1.4% above comparable periods of the previous year, and 6.6% above the current five-year average."
-    },
-    {
-      "id": "4893327",
-      "time": "2026-05-21 22:47:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "【應對強降雨 廣東提前轉移超23000人】總檯記者從廣東省應急管理廳獲悉，截至5月21日19時，廣東全省累計提前轉移23008人，其中：陽江13503人、江門5325人、韶關2845人、茂名380人、珠海357人、中山181人、汕尾34人、清遠331人、廣州9人、惠州43人。（央視新聞）"
-    },
-    {
-      "id": "4893326",
-      "time": "2026-05-21 22:47:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中芯國際：擬向國家積體電路基金等5名中芯北方股東發行股份購買其所持有的標的公司49.00%股權】中芯國際公告，公司擬向國家積體電路產業投資基金股份有限公司等五方發行股份購買其所合計持有的中芯北方積體電路製造（北京）有限公司49%的股權。2026年5月21日，公司收到中國證監會出具的批覆，同意公司向國家積體電路產業投資基金股份有限公司發行3.57億股股份、向北京積體電路製造和裝備股權投資中心（有限合夥）發行1.01億股股份、向北京亦莊國際投資發展有限公司發行6421.01萬股股份、向中關村發展集團股份有限公司發行1256.29萬股股份、向北京工業發展投資管理有限公司發行1256.29萬股股份購買相關資產的註冊申請。"
-    },
-    {
-      "id": "4893325",
-      "time": "2026-05-21 22:46:40",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "莫德納股價下跌2.9%，此前美國食品藥品監督管理局將召開專家委員會會議，稽核莫德納的流感疫苗。"
-    },
-    {
-      "id": "4893324",
-      "time": "2026-05-21 22:46:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中芯國際：發行股份購買資產事項獲證監會同意註冊】中芯國際公告，公司擬向國家積體電路產業投資基金股份有限公司等五方發行股份購買其所合計持有的中芯北方積體電路製造（北京）有限公司49%的股權。2026年5月21日，公司收到中國證監會出具的批覆，同意公司向國家積體電路產業投資基金股份有限公司發行3.57億股股份、向北京積體電路製造和裝備股權投資中心（有限合夥）發行1.01億股股份、向北京亦莊國際投資發展有限公司發行6421.01萬股股份、向中關村發展集團股份有限公司發行1256.29萬股股份、向北京工業發展投資管理有限公司發行1256.29萬股股份購買相關資產的註冊申請。"
-    },
-    {
-      "id": "4893323",
-      "time": "2026-05-21 22:46:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "LIV高爾夫向球員提供重組後聯賽股權。"
-    },
-    {
-      "id": "4893322",
-      "time": "2026-05-21 22:45:54",
-      "tags": [
-        "市場"
-      ],
-      "text": "【主力資金連續5日淨流入70股】據資料寶，截至5月21日收盤，深滬北共70只個股連續5日或5日以上主力資金淨流入。青島銀行連續18日主力資金淨流入，排名第一；四川雙馬連續12日主力資金淨流入，位列第二。從主力資金淨流入總規模來看，陽光電源主力資金淨流入金額最大，連續5天累計淨流入62.44億元，北方華創緊隨其後，5天累計淨流入26.28億元。從主力資金淨流入佔成交額的比例來看，興蓉環境佔比排名居首，該股近9日下跌2.82%。"
-    },
-    {
-      "id": "4893321",
-      "time": "2026-05-21 22:45:51",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "焦煤連續主力合約日內跌3%，現報1170.50元。"
-    },
-    {
-      "id": "4893320",
-      "time": "2026-05-21 22:45:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列襲擊加沙一處巴勒斯坦流離民眾帳篷，造成一人死亡、數人受傷。"
-    },
-    {
-      "id": "4893319",
-      "time": "2026-05-21 22:45:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "【蔚來李斌：汽車行業材料成本壓力非常大，會保持價格穩定與合理增長】5月21日，蔚來創始人、董事長、CEO李斌在2026年一季度財報電話會上表示，今年整個原材料漲價，晶片，記憶體，特別是記憶體晶片的漲價，對整個行業還是非常大壓力。蔚來每輛車平均下來有一萬以上的成本壓力。蔚來會保持價格穩定，保持產品、服務的綜合競爭力。不會把量作為最主要的經營策略，會保持合理的量的增長。"
-    },
-    {
-      "id": "4893318",
-      "time": "2026-05-21 22:45:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "【工業和資訊化部印發指南推動工業網際網路與油氣儲執行業融合應用】工業和資訊化部21日公佈《工業網際網路與油氣儲執行業融合應用參考指南（2026年）》，旨在推動工業網際網路在油氣運輸、油氣倉儲、裝備製造、工程施工、產品銷售等環節廣泛應用，加快油氣儲執行業數字化、智慧化、綠色化轉型。 油氣儲運是國民經濟的重要支柱產業，連線著上游勘探開發和下游煉化銷售。透過強化工業網際網路賦能，加快行業特色工業網際網路平臺培育，推進行業標準體系建設，深化新一代資訊科技融合應用等方式，推動行業數智化轉型，是提高全要素生產率、打造競爭新優勢、築牢綠色安全底線的必然選擇。 指南系統梳理了工業網際網路與油氣儲執行業融合創新實踐成果，總結了平臺化設計、智慧化生產、數字化管理、網路化協同、服務化延伸、個性化定製、精細化投融及視覺化治理等八大應用模式，覆蓋36類應用領域，初步形成91項具體場景應用。 此外，指南還歸納了具有行業屬性的基礎設施建設、工業網際網路產品、場景解決方案商、標準化檔案、公共服務平臺等供給保障，為油氣儲執行業企業開展工業網際網路建設與數智化轉型提供了“場景圖”“資源庫”。 指南明確，當前工業網際網路與油氣儲執行業融合應用已進入由起步探索向規模化發展的新階段，有關方面對實施路徑的研究也還是初步和階段性的，後續將根據實踐情況和來自各界的反饋意見適時修訂更新，充分發揮工業網際網路的賦能作用，推動油氣儲執行業高質量發展。(新華社)"
-    },
-    {
-      "id": "4893317",
-      "time": "2026-05-21 22:44:26",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【大連市委書記熊茂平會見世界經濟論壇代理總裁兼執行長阿洛伊斯·茨溫吉】據大連發布，5月21日，大連市委書記熊茂平在大連會見世界經濟論壇代理總裁兼執行長阿洛伊斯·茨溫吉一行。熊茂平說，夏季達沃斯論壇是觀察全球經濟脈動和產業變革浪潮的重要視窗，今年6月23日至25日，第17屆夏季達沃斯論壇將在大連舉辦。我們著力提升服務能級，豐富特色活動，嚴密安保措施，各項籌備工作有序推進。希望雙方繼續保持密切溝通，精益求精做好各項籌備工作，攜手加強海內外宣傳推廣，共同將論壇辦成精彩的國際盛會。"
-    },
-    {
-      "id": "4893316",
-      "time": "2026-05-21 22:44:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "據港交所檔案：溜溜梅股份有限公司向港交所提交上市申請書。"
-    },
-    {
-      "id": "4893315",
-      "time": "2026-05-21 22:43:56",
-      "tags": [
-        "市場"
-      ],
-      "text": "SPOTIFY股價漲幅擴大至6.6%，創下盤中新高。"
     }
   ]
 }
