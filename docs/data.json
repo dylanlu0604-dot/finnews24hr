@@ -1,7 +1,85 @@
 {
-  "updated": "2026-05-28 11:44:11",
-  "count": 15088,
+  "updated": "2026-05-28 11:48:06",
+  "count": 15094,
   "items": [
+    {
+      "id": "4903796",
+      "time": "2026-05-28 11:47:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【盛達資源：鴻林礦業取得菜園子銅金礦採礦區安全生產許可證】盛達資源(000603)5月28日午間公告，公司控股子公司四川鴻林礦業有限公司（簡稱“鴻林礦業”）菜園子銅金礦採礦區工程由四川省應急管理廳組織相關單位及專家進行了現場檢查，於近日收到四川省應急管理廳頒發的《安全生產許可證》。本次鴻林礦業取得菜園子銅金礦採礦區《安全生產許可證》後可開展採礦工作，井下將進入全面開採狀態。"
+    },
+    {
+      "id": "4903795",
+      "time": "2026-05-28 11:46:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "美元指上漲0.207%，報99.501。"
+    },
+    {
+      "id": "4903794",
+      "time": "2026-05-28 11:46:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數跌幅擴大，最新下跌1.28%。"
+    },
+    {
+      "id": "4903793",
+      "time": "2026-05-28 11:46:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【何小鵬判斷2027年是機器人量產元年】小鵬集團董事長何小鵬在訪談中表示，高等級人形機器人的商業化量產元年很可能在2027年。他認為，機器人是“物理AI”的核心載體，其軟體價值天然很高，一旦能力突破，規模化速度可能遠超汽車。小鵬選擇了最像人的通用人形機器人這條艱難道路，併為此重組了團隊，聚焦於用AI而非傳統軟體工程來驅動機器人的大腦和運動控制。何小鵬預測，從2027年開始，物理AI將像數字AI一樣，開始對眾多崗位產生巨大幫助甚至一定程度的取代。"
+    },
+    {
+      "id": "te:markets:554280",
+      "time": "2026-05-28 11:45:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "South Korean Won Weakens on Risk-Off Flows — The South Korean won weakened to around 1,510 per dollar, reversing gains from the previous session, pressured by a firmer US dollar as geopolitical uncertainty and rising oil prices. Market sentiment was weighed by ongoing volatility around US-Iran negotiations, with President Donald Trump saying Washington remained “not satisfied” with talks, while conflicting reports on a possible reopening of the Strait of Hormuz added to uncertainty. Brent crude’s move back toward $96 per barrel further pressured the won, given Korea’s high energy import dependence and sensitivity to external price shocks. Meanwhile, domestic policy signals offered only partial offset, as the Bank of Korea kept its policy rate unchanged at 2.5% for an eighth straight meeting. While the central bank upgraded its growth outlook on stronger semiconductor exports, it also flagged persistent inflation and currency weakness risks, reinforcing expectations for a cautious policy stance going forward."
+    },
+    {
+      "id": "4903792",
+      "time": "2026-05-28 11:44:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蔚來CEO稱當前重點仍在國內市場】蔚來汽車CEO李斌接受採訪時表示，蔚來當前的重點仍在中國本土市場。他表示，中國仍是投資純電動汽車效率最高的地區，並指出在海外投入同等規模的資本將耗時更長，且回報更不確定。他補充道，相比之下，插電式混合動力車和內燃機汽車更適合全球市場。"
+    },
+    {
+      "id": "mkt:019e6caf-503d-722b-8ac8-6360cf8d1746",
+      "time": "2026-05-28 11:44:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China's Tianhe Defense said on its interactive platform that its subsidiary Tianhe Jiamo manufactures a low-expansion dielectric adhesive film that can be used in semiconductor packaging."
+    },
+    {
+      "id": "mkt:019e6caf-4420-722b-8ac8-59af13097ae4",
+      "time": "2026-05-28 11:44:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Australian health minister said Australia will extend the quarantine period to 42 days for returning cruise passengers linked to hantavirus cases."
+    },
+    {
+      "id": "mkt:019e6cae-df82-722b-8ac8-5644d13ae842",
+      "time": "2026-05-28 11:44:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Jiemei Technology Says MLCC Release Films Focused On Mid-To-High-End Segment】On May 28, Jiemei Technology said on its investor interactive platform that its MLCC release films are currently focused on the mid-to-high-end segment."
+    },
     {
       "id": "4903791",
       "time": "2026-05-28 11:43:33",
@@ -135497,37 +135575,6 @@
         "公司"
       ],
       "text": "【北新建材：對石膏板產品價格進行了部分調整 價格已有所改善】北新建材(000786)5月20日在投資者關係活動中表示，公司石膏板產品一季度銷量下滑，公司根據市場情況，對產品價格進行了部分調整，價格已有所改善。國內石膏板行業短期內可能處於下滑態勢，由於建設專案的新建、舊改更新的品質效能提升以及“好房子”政策引導，當前預期行業需求降幅逐漸收窄，2026年國內行業需求持續趨穩築底，推動整體石膏板行業進一步維持穩定，個別區域及品種可能實現持平及回暖。"
-    },
-    {
-      "id": "4891776",
-      "time": "2026-05-21 11:45:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "金螳螂在互動平臺表示，目前公司與“長鑫”暫無直接業務合作。"
-    },
-    {
-      "id": "mkt:019e48a3-0e1b-777f-8615-4964ad971171",
-      "time": "2026-05-21 11:45:05",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish",
-        "EURUSD",
-        "Impact bullish",
-        "USDJPY"
-      ],
-      "text": "INDIA SAYS TO CONSIDER MULTIPLE MEASURES TO SUPPORT RUPEE, INCLUDING INTEREST RATE HIKES"
-    },
-    {
-      "id": "4891775",
-      "time": "2026-05-21 11:44:37",
-      "tags": [
-        "公司",
-        "國際",
-        "原創"
-      ],
-      "text": "【摩根大通CEO稱將招聘更多人工智慧人才，減少銀行家招聘】摩根大通CEO傑米·戴蒙表示，隨著人工智慧技術的普及，這家華爾街巨頭可能會僱用更多人工智慧專家，減少傳統銀行家的招聘。“我認為這從長遠來看會減少我們的工作崗位，”戴蒙週四在一次採訪中表示，“未來會出現各種型別的工作，我認為我們會招聘更多人工智慧人才，減少某些類別的銀行家，這將使他們的工作效率更高。”"
     }
   ]
 }
