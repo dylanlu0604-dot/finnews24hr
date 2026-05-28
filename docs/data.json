@@ -1,7 +1,98 @@
 {
-  "updated": "2026-05-28 15:09:51",
-  "count": 15169,
+  "updated": "2026-05-28 15:13:42",
+  "count": 15170,
   "items": [
+    {
+      "id": "4904117",
+      "time": "2026-05-28 15:12:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "萊茵金屬、倫克、亨索爾特、蒂森克虜伯海洋系統股價上漲1.7%至4.4%不等。"
+    },
+    {
+      "id": "te:economy:554350",
+      "time": "2026-05-28 15:12:09",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Sweden",
+        "Business Confidence",
+        "Importance 1"
+      ],
+      "text": "Sweden Business Confidence Holds Firm in May — Sweden’s business confidence indicator was broadly unchanged at 103.3 in May 2026 from 103.5 in April, remaining above the 100 mark and continuing to signal stronger-than-normal business sentiment. Demand conditions remained weak, with the indicator slipping to -24 from -23, staying below historical norms. Employment trends were largely stable, as firms reported only a slight decline in staffing over the past three months (-1 vs -2), while hiring expectations for the next three months eased to 1 from 3, pointing to a broadly unchanged workforce outlook. Construction was the only sector expecting employment growth ahead. Meanwhile, pricing intentions strengthened notably, with expected sales prices over the next three months rising sharply to 23 from 16, the highest among the surveyed indicators. The increase was particularly evident in the grocery trade, partly reflecting adjustments following the VAT reduction on food introduced in April."
+    },
+    {
+      "id": "mkt:019e6d6c-8b1b-722b-8acc-1b1c73ede4ab",
+      "time": "2026-05-28 15:11:30",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "LAGARDE, ECB President: The Federal Reserve's independence is not \"set in stone.\""
+    },
+    {
+      "id": "mkt:019e6d6c-25d7-722b-8acc-147004680b1a",
+      "time": "2026-05-28 15:11:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH",
+        "Impact bullish",
+        "S&P500",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "MOFCOM on progress of China-US tariff negotiations: both sides' economic and trade teams will agree on specific arrangements and push to implement them as soon as possible, Xinhua."
+    },
+    {
+      "id": "mkt:019e6d6c-1ce4-722b-8acc-0fb253be8b3f",
+      "time": "2026-05-28 15:11:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Shen Tianma A Denies Online Rumors That BOE Is In Talks On M&A】In response to an investor question about online reports that \"BOE is in talks to merge with or acquire Shen Tianma,\" Shen Tianma A said on its investor-interactive platform that the reports are not true."
+    },
+    {
+      "id": "4904116",
+      "time": "2026-05-28 15:11:01",
+      "tags": [
+        "宏觀",
+        "焦點",
+        "國際"
+      ],
+      "text": "【商務部回應中美關稅談判進展：雙方經貿團隊將商定具體安排並儘快推動實施】商務部新聞發言人何亞東28日在例行新聞釋出會上回應關於中美關稅談判進展的提問時表示，關稅一直是中美經貿關係中的關鍵問題之一。在兩國元首戰略引領下，中美經貿團隊圍繞關稅問題深入溝通，就有關雙邊關稅做出安排。我想重申，希望美方信守承諾，為雙方拓展經貿合作創造積極條件。同時，雙方原則同意在貿易理事會項下討論同等規模產品對等降稅框架安排，規模各為300億美元或更多。雙方經貿團隊將保持密切溝通，商定具體安排並儘快推動實施。（新華社）"
+    },
+    {
+      "id": "4904115",
+      "time": "2026-05-28 15:10:35",
+      "tags": [
+        "宏觀",
+        "公司"
+      ],
+      "text": "【工信部公告 《電器電子產品有害物質限制使用達標管理目錄（2026年版）》和《達標管理目錄限用物質應用例外清單（2026年版）》】為貫徹落實《生態環境法典》，按照《電器電子產品有害物質限制使用管理辦法》（工業和資訊化部令 2016年第32號）要求，加強電器電子產品有害物質的源頭減量和替代，工業和資訊化部會同國家發展改革委、財政部、生態環境部、商務部、海關總署、市場監管總局、國家疾控局組織編制了《電器電子產品有害物質限制使用達標管理目錄（2026年版）》（以下簡稱《達標管理目錄》）和《達標管理目錄限用物質應用例外清單（2026年版）》（以下簡稱《例外清單》），現予以公告。"
+    },
+    {
+      "id": "4904114",
+      "time": "2026-05-28 15:09:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士稱，SK能源透過招標採購7-10月裝船的中東原油和凝析油。"
+    },
+    {
+      "id": "4904113",
+      "time": "2026-05-28 15:09:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【深天馬Ａ回應“京東方恰談兼併收購傳聞”：相關說法不屬實】5月28日訊息，針對投資者關於“ 網傳京東方正在恰談兼併收購深天馬事宜，請問是否屬實？ ”的提問，深天馬Ａ在互動平臺回應，相關說法不屬實。"
+    },
     {
       "id": "4904112",
       "time": "2026-05-28 15:08:29",
@@ -136124,79 +136215,6 @@
         "國際"
       ],
       "text": "【渣打銀行預計印度 6 月加息以提振市場情緒】渣打銀行預計印度將於 6 月上調基準利率，以此支撐盧比匯率，並遏制通脹產生的次生影響。該行經濟學家阿努布提・薩海與蘇拉夫・阿南德在研報中調整逆回購利率預期，放棄此前維持利率不變的判斷，預計本財年累計加息 50 個基點，利率升至 5.75%。此番調整源於機構上調本財年通脹預期，同時印度盧比貶值壓力持續加大。50 個基點加息將均分至 6 月與 8 月落地；若 6 月暫緩加息，則 8 月一次性加息 50 個基點。若大宗商品價格持續承壓、盧比走弱導致通脹超預期，2027 財年存在額外加息 25 至 50 個基點的風險。"
-    },
-    {
-      "id": "4892082",
-      "time": "2026-05-21 15:12:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "【瑞銀：三星電子目標價看高至40萬韓元，未來有四大利好因素】瑞銀認為，隨著工會談判告一段落，三星電子前景相當明朗，將目標價調高45%至40萬韓元，評級“買入”，未來有四大利好因素：(1)人工智慧(AI)持續發展將推高記憶體需求，預測記憶體供應短缺的情況將持續到2028年第二季；(2)三星較大多數其他同業更能受益於修訂後的長期協議(LTV)，因三星能更快地部署更多新增產能；(3)隨公司執行力提升，最新預測三星將在2027年與SK海力士在HBM市場達到相同的市佔率，分佔40%；(4)預期三星在2026年將產生233萬億韓元的自由現金流，2027年將產生428萬億韓元的自由現金流，若達成50%的自由現金流回饋股東的目標，將為股東帶來顯著的額外回報。瑞銀指，三星電子2027至2030年平均預測市盈率約4.3倍，尚未完全反映上述四大利好因素，因此將其納入亞太區重點關注股份名單。按照最新長期協議估算，該行將三星電子2026及2027年經營溢利預測分別上調12%及14%，2028年至2030年經營溢利預測平均上調69%；將2026及2027年每股盈利預測分別調高11%及14%，2028至2030年每股盈利預測平均調高66%。"
-    },
-    {
-      "id": "te:markets:552601",
-      "time": "2026-05-21 15:11:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "European Stocks Edge Lower — European stocks edged lower on Thursday, with the STOXX 50 and STOXX 600 slipping 0.3% and 0.2%, respectively, as investors continued to monitor the latest developments in the Middle East. Earlier optimism, sparked by President Trump’s remarks that Washington was in the “final stages” of negotiations with Iran, failed to carry over into European trading, leaving sentiment subdued."
-    },
-    {
-      "id": "4892081",
-      "time": "2026-05-21 15:11:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "伯恩斯坦：將英偉達目標價從300美元上調至315美元。"
-    },
-    {
-      "id": "4892080",
-      "time": "2026-05-21 15:10:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度貿易部長：預計美國貿易官員將於下月訪問印度，繼續推進貿易談判。"
-    },
-    {
-      "id": "4892079",
-      "time": "2026-05-21 15:10:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "2026文化強國建設高峰論壇開幕。（新華社）"
-    },
-    {
-      "id": "mkt:019e495f-4637-7ee7-b68f-c1d1671044e0",
-      "time": "2026-05-21 15:10:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "INDIA TRADE MINISTER: EXPECT U.S. TRADE OFFICIALS TO VISIT INDIA NEXT MONTH TO PURSUE TALKS"
-    },
-    {
-      "id": "4892078",
-      "time": "2026-05-21 15:10:21",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【商務部：如歐方執意對中國企業或產品採取歧視性限制措施 中方將堅決反制】有記者問，近日有媒體報道，歐委會正在抓緊制定一項新貿易工具，以應對中國“產能過剩”問題。請問中方對此有何評論？商務部新聞發言人何亞東表示，如果因為存在貿易順差，就貼上“產能過剩”的標籤，那歐盟出口的汽車、藥品、葡萄酒、化妝品是不是都存在“產能過剩”？我們關注到，有關國家正在調查歐盟的“產能過剩”問題，歐盟更不應在此種情況下采取雙重標準。我們敦促歐方正視現實，回到對話磋商的正確軌道上，做真正有益於中歐經貿關係發展的事。如歐方執意推動出臺所謂新工具並對中國企業或產品採取歧視性限制措施，中方將堅決反制。"
-    },
-    {
-      "id": "te:economy:552600",
-      "time": "2026-05-21 15:10:02",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Slovakia",
-        "Current Account",
-        "Importance 1"
-      ],
-      "text": "Slovakia Current Account Deficit Narrows — Slovakia’s current account deficit narrowed to EUR 166 million in March 2026 from EUR 340.7 million in the same month a year earlier. It marked the smallest gap since October 2025, mainly driven by a sharp increase in the goods account surplus, which rose to EUR 285.3 million from EUR 26.5 million a year earlier. Meanwhile, the services account surplus fell to EUR 14.4 million from EUR 26.4 million in March 2025. At the same time, the primary income deficit widened to EUR 335.7 million from EUR 330 million, while the secondary income shortfall more than doubled to EUR 130 million from EUR 63.6 million."
     }
   ]
 }
