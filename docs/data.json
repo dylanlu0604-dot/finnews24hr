@@ -1,7 +1,174 @@
 {
-  "updated": "2026-05-29 14:33:14",
-  "count": 15544,
+  "updated": "2026-05-29 14:43:43",
+  "count": 15549,
   "items": [
+    {
+      "id": "mkt:019e7277-0101-711c-8b40-d718af23b14a",
+      "time": "2026-05-29 14:41:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【IATA: Global air passenger demand down 3.4% in April 2026】IATA reported April 2026 global air passenger demand (RPKs) fell 3.4% YoY. Excluding the Middle East, demand rose 1.2% YoY. Available seat kilometres (ASKs) fell 2.9% YoY. Load factor was 83.1%, down 0.4 percentage points versus April 2025."
+    },
+    {
+      "id": "4906338",
+      "time": "2026-05-29 14:40:37",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "三麗鷗株式會社：本公司一名董事總經理因兼任美國子公司執行長，從該美國子公司獲取多項收益，具體為獨立於本公司既定薪酬之外另行支付的收益。"
+    },
+    {
+      "id": "mkt:019e7276-9aad-711c-8b40-ce60344a20f9",
+      "time": "2026-05-29 14:40:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【5.1-magnitude earthquake offshore southern Peru - USGS】USGS reported a 5.1-magnitude earthquake offshore southern Peru at local time May 29 00:32. Epicenter 18.416°S, 71.460°W, about 86 km south of Ilo province, Moquegua region; depth 10 km. No casualties or damage reported."
+    },
+    {
+      "id": "4906337",
+      "time": "2026-05-29 14:40:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "哈薩克：4月份黃金儲備增至1139萬盎司，庫存價值為526.9億美元，而截至3月底為517.7億美元。"
+    },
+    {
+      "id": "4906336",
+      "time": "2026-05-29 14:40:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【網紅陳震成立馳創文化傳媒公司】天眼查App顯示，近日，北京馳創文化傳媒有限公司成立，法定代表人為李逸晢，註冊資本100萬人民幣，經營範圍包括組織文化藝術交流活動、網際網路銷售、廣告發布等，由北京格銳馳廣告傳媒有限公司全資持股，後者由網紅陳震持股54%。"
+    },
+    {
+      "id": "4906335",
+      "time": "2026-05-29 14:39:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【5月29日：“農產品批發價格200指數”比昨天下降0.02個點】據農業農村部監測，5月29日“農產品批發價格200指數”為113.20，比昨天下降0.02個點，“菜籃子”產品批發價格指數為113.25，比昨天下降0.03個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為14.86元/公斤，比昨天下降0.1%；牛肉66.60元/公斤，與昨天持平；羊肉64.05元/公斤，比昨天下降0.1%；雞蛋9.84元/公斤，比昨天上升0.7%；白條雞16.89元/公斤，比昨天下降0.9%。重點監測的28種蔬菜平均價格為4.18元/公斤，比昨天上升1.5%；重點監測的6種水果平均價格為7.68元/公斤，比昨天下降0.9%。鯽魚20.10元/公斤，比昨天上升0.1%；鯉魚14.75元/公斤，比昨天下降1.3%；白鰱魚10.48元/公斤，比昨天上升0.4%；大帶魚40.37元/公斤，比昨天下降0.5%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與昨天相比價格升幅前五名的是蔥頭、黃瓜、萵筍、西瓜和西葫蘆，幅度分別為4.3%、4.1%、4.0%、3.3%和3.1%；價格降幅前五名的是巨峰葡萄、鯉魚、南瓜、花鰱魚和鴨梨，幅度分別為3.7%、1.3%、1.1%、1.0%和0.9%。"
+    },
+    {
+      "id": "4906334",
+      "time": "2026-05-29 14:39:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "【秘魯南部附近海域發生5.1級地震】據美國地質調查局報告，當地時間5月29日0時32分，秘魯南部附近海域發生5.1級地震，震中位於南緯18.416度、西經71.460度，距莫克瓜大區伊洛省以南約86公里，震源深度10公里。目前暫無人員傷亡和財產損失報告。（央視新聞）"
+    },
+    {
+      "id": "4906333",
+      "time": "2026-05-29 14:38:52",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【國際航協：今年4月航空客運需求下降3.4%】國際航協今日釋出2026年4月全球航空客運需求定期資料，航空客運總需求（按照RPK收入客公里計算）同比下降3.4%。剔除中東地區後，需求增長1.2%。總運力（按照ASK可用座公里計算）同比下降2.9%。4月載客率83.1%，同比2025年4月下降0.4個百分點。國際航協理事長威利·沃爾什（Willie Walsh）表示：“受地區戰事衝擊，中東航空公司需求暴跌46.6%，並拖累整體需求下降3.4%。航空運輸形勢仍在劇烈波動中。4月航空燃油價格翻了一倍以上，推動機票價格上漲。遠期排班資料顯示未來數月運力供給將縮減，表明航空公司正在平衡高燃油成本與疲軟需求之間的關係。”"
+    },
+    {
+      "id": "4906332",
+      "time": "2026-05-29 14:37:30",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超3萬億元，較上日此時放量2919億元。"
+    },
+    {
+      "id": "mkt:019e7273-6460-711c-8b40-c73e00ab6f16",
+      "time": "2026-05-29 14:37:05",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "Led by chip stocks, South Korea's KOSPI has risen 28% month-to-date."
+    },
+    {
+      "id": "4906331",
+      "time": "2026-05-29 14:36:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "【中芯國際A股成交額達200億元】5月29日下午，中芯國際A股成交額達200億元，現跌8.43%。"
+    },
+    {
+      "id": "mkt:019e7272-7618-711c-8b40-bb53d60cb4cf",
+      "time": "2026-05-29 14:36:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "French foreign minister said France has asked prosecutors to investigate the treatment of French nationals aboard the recent Gaza flotilla."
+    },
+    {
+      "id": "4906329",
+      "time": "2026-05-29 14:35:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣汽高域工廠首機下線】5月29日，廣汽高域在廣州市黃埔區的工廠正式落成，新一款多旋翼產品首臺下線。這標誌著該機型脫離原型機研發階段，邁入了工業化量產、適航取證與商業化落地並行的新週期。 第一財經記者在工廠現場瞭解到，該工廠的產線復材車間採用航空10萬級潔淨度標準，實現碳纖維零部件精密製造；總裝車間創新引入工業化生產的“脈動式生產線”，定位精度達±0.1mm（毫米），柔性產線可快速擴充套件提升產能。產線融合航空安全標準與汽車生產工藝，設計年產能達100臺，搭建起零部件配套、整機裝配、效能檢測、成品交付的全流程智慧製造體系。（第一財經）"
+    },
+    {
+      "id": "mkt:019e7271-fe1d-711c-8b40-b172a407b61d",
+      "time": "2026-05-29 14:35:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "【Japan says it underestimated rice supply-demand and failed to deploy reserves as prices surge】Japan approved its 2025 agricultural white paper on May 29, saying the government underestimated domestic rice supply-demand and did not promptly release reserve rice, contributing to a price surge that began in summer 2024. The paper said officials assumed population decline would lower rice demand and therefore did not actively monitor market circulation. Panic buying over earthquake risk and heat-related poor harvests also helped push prices higher. Rice commodity prices rose 67.5% in 2024, the largest increase since comparable data began in 1971; average supermarket 5 kg retail prices exceeded 4,000 yen (about 170 yuan)."
+    },
+    {
+      "id": "mkt:019e7271-8f0f-711c-8b40-a95098c81b77",
+      "time": "2026-05-29 14:35:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact mixed"
+      ],
+      "text": "France Q1 final annualized GDP and May preliminary CPI (MoM) due in 10 minutes."
+    },
+    {
+      "id": "4906328",
+      "time": "2026-05-29 14:34:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海格通訊與巴基斯坦國家電信公司簽署合作備忘錄】據海格通訊訊息，5月24日，中國—巴基斯坦B2B投資峰會在杭州舉行。海格通訊(002465)受邀參會，並與巴基斯坦國家電信公司（NTC）成功簽署諒解備忘錄（MOU）。"
+    },
+    {
+      "id": "4906327",
+      "time": "2026-05-29 14:34:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國外交部長表示，法國已要求檢察官調查近期加沙船隊事件中法國公民所受待遇。"
+    },
+    {
+      "id": "mkt:019e7270-ceea-711c-8b40-a4decc30a5a1",
+      "time": "2026-05-29 14:34:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Romanian president says he will not accept any spillover from Russia's military operations in Ukraine affecting Romanian citizens."
+    },
+    {
+      "id": "4906326",
+      "time": "2026-05-29 14:33:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "豐田工業公司將於6月1日從東京證券交易所主市場摘牌。"
+    },
     {
       "id": "mkt:019e726f-306f-711c-8b40-9d42a4e8318a",
       "time": "2026-05-29 14:32:29",
@@ -140133,131 +140300,6 @@
         "A股"
       ],
       "text": "【中際旭創成交額達200億元】5月22日下午，中際旭創成交額達200億元，現漲4.45%。"
-    },
-    {
-      "id": "4894372",
-      "time": "2026-05-22 14:43:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "【連續10年 北京文化產業發展指數全國第一】昨天（5月21日），“2025中國省市文化產業發展指數”在第二十二屆深圳文博會上釋出，北京連續十年保持全國第一。 該指數由中國人民大學文化產業研究院釋出。結果顯示，北京、浙江、廣東、上海、江蘇、山東、湖北、福建、四川、河南位列綜合指數前十名。 （北京日報）"
-    },
-    {
-      "id": "4894371",
-      "time": "2026-05-22 14:43:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "國泰海通：首次覆蓋群核科技給予“增持”評級，目標價24.90港元。"
-    },
-    {
-      "id": "4894370",
-      "time": "2026-05-22 14:42:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "【私募信貸圈昔日的不可思議如今成真 Apollo、KKR據悉積極交易貸款】在經歷多年爆炸性增長後，全球私募信貸市場迎來首次壓力測試。業者越來越轉向一種以往不可思議的做法：積極交易貸款，藉此拋售問題資產並伺機撿便宜。知情人士透露，隨著外界日益擔憂AI技術可能對軟體公司商業模式造成顛覆性衝擊，一些商業發展公司(BDC)近期尋求降低對軟體業的曝險。同時，也有部分投資機構反向操作，開始大舉買進過去鮮少流通、價格已出現折讓的私募貸款。"
-    },
-    {
-      "id": "4894369",
-      "time": "2026-05-22 14:40:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：以色列情報官員警示，伊朗或計劃對以色列及波斯灣國家發動導彈與無人機突襲。"
-    },
-    {
-      "id": "4894368",
-      "time": "2026-05-22 14:40:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "【嚴打破壞野生動植物資源犯罪 5起典型案例公佈】2025年以來，按照公安部黨委部署要求，全國公安機關深入開展“平安原野—2025”等專項行動，依法嚴厲打擊危害鳥類、毒害古樹名木等破壞野生動植物資源犯罪活動，全力維護生物多樣性和生態安全。截至目前，公安機關共立破壞野生動植物資源刑事案件3.7萬起，公安部對吉林敦化徐某闊等人盜伐林木案等59起案件進行掛牌督辦。5月22日是國際生物多樣性日，公安部公佈了5起典型案例。（央視新聞）"
-    },
-    {
-      "id": "4894367",
-      "time": "2026-05-22 14:39:49",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【悉尼房產拍賣遇冷，房地產市場降溫加劇】房地產分析公司Cotality表示，澳大利亞各首府城市的拍賣數量較前一週下降11.1%，為1939場。在作為風向標的悉尼市場，拍賣清盤率暴跌至49.2%，創下疫情以來最低水平。Cotality本月釋出的另一組資料顯示，悉尼房價持續下跌，而4月份全國房價漲幅為2025年初以來最慢水平。"
-    },
-    {
-      "id": "4894366",
-      "time": "2026-05-22 14:39:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "【法國巴黎發生球迷騷亂事件 致6人受傷】據法國警方訊息，巴黎市中心21日晚發生球迷騷亂事件，已造成6人受傷，其中1人傷勢嚴重，另有65人被警方拘留。據悉，這次騷亂髮生在法國杯決賽舉行前夕。當晚，約100名尼斯足球俱樂部支持者與路人發生衝突，並爆發大規模鬥毆。警方隨後出動大量警力控制局勢。（央視新聞）"
-    },
-    {
-      "id": "4894365",
-      "time": "2026-05-22 14:38:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "【TenPay Global：計劃在入境重點城市推動離境退稅服務 稅款可直接退至境外電子錢包】在第十屆絲綢之路國際博覽會金融專場上，騰訊旗下跨境支付平臺TenPay Global宣佈，正與境內退稅代理機構展開合作，計劃在陝西省等入境重點省市推動上線離境退稅便利化服務。相較於以往主要依賴現金、國際信用卡等退稅接收方式，該服務落地後，境外電子錢包使用者將可以選擇把退稅款直接退回至其常用的本地境外錢包中，退稅款數分鐘內即可到賬。"
-    },
-    {
-      "id": "te:economy:552983",
-      "time": "2026-05-22 14:37:53",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United Kingdom",
-        "Government Budget Value",
-        "Importance 1"
-      ],
-      "text": "UK Public Borrowing Above Expectations — UK public sector net borrowing (excluding public sector banks) widened to £24.3 billion in April 2026 from £19.5 billion a year earlier, above market expectations of £20.9 billion. It was the second-highest April borrowing on record, underlining pressure on the public finances. The reading contrasts with March forecasts that borrowing would fall to 3.6% of GDP in the 2026/27 tax year, its lowest level since before the COVID-19 era. However, the war involving Iran has increased the risk of an economic slowdown, threatening tax revenues while adding pressure on Chancellor Rachel Reeves to support households and businesses facing higher energy costs. Public sector spending rose by £7.6 billion, driven by higher welfare costs, increased investment, public service spending, and record April debt interest payments. Meanwhile, public sector receipts increased by £2.7 billion. Public sector net debt stood at 94.2% of GDP at the end of April, up 0.5 percentage points from a year earlier."
-    },
-    {
-      "id": "te:markets:552981",
-      "time": "2026-05-22 14:37:31",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "European Stocks Poised for Higher Open — European equity markets were set for a stronger open on Friday as investors prepared for a fresh batch of regional economic data while continuing to monitor ongoing negotiations between the US and Iran. Key releases scheduled for the day include Germany’s consumer confidence and business climate indicators, UK retail sales data, and French business confidence figures. No major corporate earnings reports are expected. Meanwhile, Iran said the latest US proposal had partially narrowed differences between the two sides, though remarks from Iran’s Supreme Leader regarding the country’s uranium stockpile, along with disagreements over tolls in the Strait of Hormuz, continued to cloud hopes for a breakthrough agreement. In corporate developments, Estée Lauder and Puig announced on Thursday that they had ended merger discussions. In premarket trading, Euro Stoxx 50 futures rose 0.8%, while Stoxx 600 futures gained 0.7%."
-    },
-    {
-      "id": "4894364",
-      "time": "2026-05-22 14:36:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄白舉行大規模核演習，試射具備核打擊能力的高超音速導彈】俄羅斯與白俄羅斯舉行大規模核力量演習。據參考訊息網21日報道，俄羅斯國防部發布訊息稱，5月19日至21日，俄羅斯武裝部隊將舉行在侵略威脅條件下準備和使用核力量的演習。戰略導彈部隊和遠端航空兵將參加此次演習。《今日印度》5月21日報道稱，這次大規模聯合核演習，動用可攜帶核彈頭的導彈、戰略轟炸機、核潛艇及軍艦等裝備，演習規模為俄烏衝突爆發以來最大之一。俄羅斯總統普京與白俄羅斯總統盧卡申科共同觀摩了演習的最後階段。此次為期三天的聯合核演習於5月19日啟動，在陸地、海洋和空中同時展開。俄羅斯國防部稱，此次演習共出動6.4萬名士兵、200多套導彈發射裝置、140多架飛機、73艘軍艦和13艘潛艇。其中8艘潛艇配備了可攜帶核彈頭的洲際彈道導彈。演習期間，俄方還試射了具備核打擊能力的高超音速導彈。（澎湃新聞）"
-    },
-    {
-      "id": "mkt:019e4e66-375e-7cc0-a021-deda4fa5a185",
-      "time": "2026-05-22 14:36:22",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Hot",
-        "Policy",
-        "Breaking News 24h"
-      ],
-      "text": "KOSPI RISES 4.7% FOR THE WEEK; SHIPBUILDING, DEFENSE STOCKS ADVANCE"
-    },
-    {
-      "id": "4894363",
-      "time": "2026-05-22 14:33:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "【法國推出新一輪補助措施應對燃料價格上漲】法國政府21日宣佈推出新一輪補助措施，以減輕燃料價格上漲給民眾和相關行業帶來的經濟負擔，相關措施總成本預計為7.1億歐元。根據方案，對漁業和農業部門的援助將延長三個月，低收入長途駕車通勤者補貼上限將由50歐元提高至100歐元，企業為員工發放燃油補貼的免稅額度將由每年300歐元提高至600歐元。（央視新聞）"
-    },
-    {
-      "id": "4894362",
-      "time": "2026-05-22 14:33:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "【聖邦股份成立新公司 含積體電路晶片業務】企查查APP顯示，近日，西安聖邦微電子有限公司成立，經營範圍包含積體電路設計；積體電路晶片設計及服務；積體電路銷售；積體電路晶片及產品銷售等。企查查股權穿透顯示，該公司由聖邦股份全資持股。"
     }
   ]
 }
