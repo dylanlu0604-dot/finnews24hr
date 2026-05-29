@@ -1,7 +1,67 @@
 {
-  "updated": "2026-05-29 10:21:09",
-  "count": 15387,
+  "updated": "2026-05-29 10:25:01",
+  "count": 15383,
   "items": [
+    {
+      "id": "mkt:019e718b-c710-7ee0-99e1-2992b306e2d1",
+      "time": "2026-05-29 10:24:05",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "CNH",
+        "Impact bearish"
+      ],
+      "text": "Indonesian rupiah fell 0.5% against the US dollar to 17,860 per US$1, hitting a record low."
+    },
+    {
+      "id": "4905956",
+      "time": "2026-05-29 10:23:19",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼盾兌美元匯率下跌約0.5%，至17,860的歷史新低。"
+    },
+    {
+      "id": "4905955",
+      "time": "2026-05-29 10:23:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超1.5萬億元，較上日此時放量2651億元。"
+    },
+    {
+      "id": "4905954",
+      "time": "2026-05-29 10:22:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英特爾擴產EMIB封裝產能 推進大規模材料、零部件、裝置採購訂單】英特爾正大規模投資先進半導體封裝，加速其晶圓代工業務復興。據28日業界訊息，英特爾目前正面向全球供應鏈合作伙伴推進大規模“材料、零部件、裝置”採購訂單，多項供應合同已簽訂完成。一位熟悉內情的業內人士表示，“目前先進封裝裝置投資規模達數萬億韓元。”此次投資重點聚焦於擴大“EMIB（Embedded Multi-die Interconnect Bridge，嵌入式多晶片互連橋）”產能。英特爾目前還在推進EMIB技術升級，包括在橋接結構中引入矽通孔（TSV）技術的“EMIB-T”，以及融合玻璃基板的封裝方案等。 (ETNews)"
+    },
+    {
+      "id": "te:markets:554693",
+      "time": "2026-05-29 10:21:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Korean Won Remains Under Pressure — The South Korean won weakened to around 1,500 per dollar on Friday, reversing gains from the previous session. Investors continued to weigh South Korea’s slowing domestic economy and persistent capital outflows despite improving global risk sentiment tied to easing Middle East tensions. Market optimism strengthened after reports indicated that the United States and Iran were moving toward extending their ceasefire arrangement for 60 days while resuming negotiations over Tehran’s nuclear program. Oil prices also eased, with Brent crude falling about 0.4% to near $93 per barrel. At the same time, the US dollar weakened broadly against major developed-market currencies, while Treasury yields declined across the curve during the previous session. Markets also monitored the government’s new reshoring initiative aimed at encouraging overseas Korean firms to return home through broader incentives and more flexible subsidy support for strategic industries."
+    },
+    {
+      "id": "4905953",
+      "time": "2026-05-29 10:21:11",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼股市基準指數上漲1%至6191.40點。"
+    },
     {
       "id": "4905952",
       "time": "2026-05-29 10:20:08",
@@ -138588,99 +138648,6 @@
         "CNH"
       ],
       "text": "CHINA NDRC: NEXT FIVE-YEAR PLAN TO SEE OVER 5 TRLN YUAN INVESTED IN NEW POWER GRID CONSTRUCTION"
-    },
-    {
-      "id": "mkt:019e4d7f-782f-7aa1-9584-1a473c43140e",
-      "time": "2026-05-22 10:24:17",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "CHINA NDRC SPOX: FOREIGN INVESTMENT MUST COMPLY WITH LAWS, NOT HARM NATIONAL SECURITY, INTERESTS"
-    },
-    {
-      "id": "4894018",
-      "time": "2026-05-22 10:23:56",
-      "tags": [
-        "宏觀",
-        "焦點"
-      ],
-      "text": "【國家發改委：“十五五”時期，預計投資超過5萬億元用於新型電網建設】中央政治局會議提出加強水網、新型電網、算力網、新一代通訊網、城市地下管網、物流網等“六張網”的規劃建設。 5月22日，國家發展改革委召開新聞釋出會。會上，國家發展改革委政策研究室副主任李超表示，“十五五”時期，預計投資超過5萬億元規劃建設一批輸電通道和省間電力供給工程，分層分割槽最佳化超高壓、特高壓交流網路，實施一批城市配電網更新工程、薄弱區域電網改造工程、農網頻繁停電治理工程。"
-    },
-    {
-      "id": "mkt:019e4d7f-1b82-7aa1-9584-109bd75e71e9",
-      "time": "2026-05-22 10:23:56",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "CHINA NDRC SPOX: HAS NEVER BARRED DOMESTIC TECH FIRMS FROM RECEIVING FOREIGN INVESTMENT"
-    },
-    {
-      "id": "te:markets:552923",
-      "time": "2026-05-22 10:23:46",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "China Stocks Set for Weekly Decline — The Shanghai Composite Index rose 0.4% to 4,092 on Friday, while the Shenzhen Component Index advanced 1.1% to 15,419, though both benchmarks remain on track for weekly declines as uncertainty over US–Iran peace negotiations continues to weigh on sentiment. While Tehran indicated that the latest US proposal had helped narrow differences between the two sides, reports suggested that key sticking points continue to cloud hopes for a near-term resolution. These include Iran’s position on retaining its uranium stockpile and disagreements over proposed arrangements affecting shipping tolls in the Strait of Hormuz. On the domestic front, investors are turning their attention to upcoming PMI releases next week for clearer signals on China’s economic trajectory, after recent data pointed to a slowdown in industrial output and retail sales. Among individual movers, Zijin Mining Group rose 1%, CMOC Group added 1.6%, Zhongji Innolight climbed 3.4% and Luxshare Precision Industry surged 5.2%."
-    },
-    {
-      "id": "mkt:019e4d7e-d2eb-7aa1-9584-08e141d12f75",
-      "time": "2026-05-22 10:23:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CHINA NDRC: TO STABILIZE FERTILIZER SUPPLY, PRICES AMID GLOBAL MARKET FLUCTUATIONS"
-    },
-    {
-      "id": "4894017",
-      "time": "2026-05-22 10:23:06",
-      "tags": [
-        "市場"
-      ],
-      "text": "【生物科技板塊震盪下跌 熱景生物跌超6%】生物科技板塊震盪下跌，熱景生物跌超6%，昭衍新藥、榮昌生物、三生國健等股跟跌。"
-    },
-    {
-      "id": "4894016",
-      "time": "2026-05-22 10:22:52",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【國家發改委：將持續關注農業生產形勢和糧食價格走勢 統籌做好化肥保供穩價工作】國家發展改革委政策研究室副主任李超在新聞釋出會上表示，受外部因素影響，今年春耕用肥高峰期間，國際化肥市場大幅波動。我們會同有關方面，壓實重點企業保供責任、提前投放儲備、保障口岸接卸和國內集疏運暢通、保障磷肥生產所需硫資源供應、加強市場預期引導，有力保障春耕期間主要化肥品種供應充足、價格基本穩定，比如國內尿素價格比國際市場每噸低3500元左右，有效滿足了國內高峰用肥需求。下一步，我們將持續關注農業生產形勢和糧食價格走勢，統籌做好化肥保供穩價工作，為廣大農民和農業經營主體提供更多便利。"
-    },
-    {
-      "id": "4894015",
-      "time": "2026-05-22 10:22:45",
-      "tags": [
-        "市場"
-      ],
-      "text": "【嘉德利盤中漲超625%，觸及臨停】A股嘉德利盤中漲625.89%，現報114.40元，觸及臨停。"
-    },
-    {
-      "id": "mkt:019e4d7d-80c0-7aa1-9584-0082150931fc",
-      "time": "2026-05-22 10:22:11",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "CNH",
-        "Copper"
-      ],
-      "text": "CHINA NDRC SPOX: TO COORDINATE GOVT FUNDS, POLICY FINANCIAL TOOLS TO BOOST PRIVATE INVESTMENT"
-    },
-    {
-      "id": "4894014",
-      "time": "2026-05-22 10:21:59",
-      "tags": [
-        "市場"
-      ],
-      "text": "【電力板塊短線拉昇，恆盛能源此前漲停】電力板塊短線拉昇，恆盛能源此前漲停，京能熱力、杭州熱電、華光環能、寧波能源、大連熱電等跟漲。"
     }
   ]
 }
