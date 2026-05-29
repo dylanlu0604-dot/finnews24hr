@@ -1,7 +1,156 @@
 {
-  "updated": "2026-05-29 14:17:34",
-  "count": 15548,
+  "updated": "2026-05-29 14:21:29",
+  "count": 15551,
   "items": [
+    {
+      "id": "mkt:019e7264-60af-711c-8b40-3fbefcf1fa12",
+      "time": "2026-05-29 14:20:35",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Federal Reserve's Kashkari said data still makes him more concerned about inflation risks."
+    },
+    {
+      "id": "mkt:019e7264-19d4-711c-8b40-34dac1287a72",
+      "time": "2026-05-29 14:20:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Israeli Defense Forces said the Israeli Air Force intercepted a suspicious aerial object after alarms sounded earlier in the Misgav Am and Margaliot areas. The alarms were triggered under standard procedures."
+    },
+    {
+      "id": "4906306",
+      "time": "2026-05-29 14:19:39",
+      "tags": [
+        "宏觀",
+        "公司"
+      ],
+      "text": "【國家發改委價格成本和認證中心赴瑞達國際開展新能源調研】5月20日，國家發改委價格成本和認證中心副主任成鋼同志帶隊赴湖南衡陽瑞達國際集團有限公司調研，雙方圍繞固態鉛儲能專案建設運營情況進行了交流。湖南省發展和改革委員會、湖南省能源局、國鐵新能源發展（北京）有限公司相關負責同志及中心新能源價格成本處有關同志參加調研。"
+    },
+    {
+      "id": "mkt:019e7263-4087-711c-8b40-28e82e42c9c7",
+      "time": "2026-05-29 14:19:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component"
+      ],
+      "text": "China A-shares continued to slide: Shanghai Composite Index down 1%, Shenzhen Composite Index down over 2%, ChiNext Index down 2.44%; more than 3,900 stocks fell."
+    },
+    {
+      "id": "4906305",
+      "time": "2026-05-29 14:19:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【新易盛成交額超200億元】5月29日下午，新易盛成交額超200億元，現跌1.3%。"
+    },
+    {
+      "id": "4906304",
+      "time": "2026-05-29 14:19:02",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲卡什卡利：仍需進一步關注通脹風險。"
+    },
+    {
+      "id": "mkt:019e7262-8977-711c-8b40-213fb257b0e1",
+      "time": "2026-05-29 14:18:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "Fed's Kashkari said it's too early to conclude April PCE inflation readings mean an immediate rate hike is needed."
+    },
+    {
+      "id": "4906303",
+      "time": "2026-05-29 14:18:17",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲卡什卡利：僅憑4月個人消費支出（PCE）通脹資料就斷定我們需要在當下立刻加息，還為時尚早。"
+    },
+    {
+      "id": "mkt:019e7261-f9e5-711c-8b40-18d10fad2101",
+      "time": "2026-05-29 14:18:03",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Finland’s president condemned a Russian drone strike on an apartment building in Romania, saying Russia has once again crossed a line in its military campaign against Ukraine. He said Finland stands with ally Romania, will continue to support Ukraine’s self-defence, and that the alliance is discussing the situation."
+    },
+    {
+      "id": "te:markets:554771",
+      "time": "2026-05-29 14:18:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Poised for Higher Open — European equity markets were set to open higher on Friday after reports indicated that the US and Iran had reached a tentative agreement to extend their ceasefire by 60 days, begin negotiations over Tehran’s nuclear program and potentially restore unrestricted shipping through the Strait of Hormuz. Investor sentiment also received support from a strong outlook issued by Dell Technologies, which reinforced optimism surrounding artificial intelligence-driven demand. In Europe, market participants will closely monitor inflation and labor market data from across the region for clues on the future path of monetary policy from the European Central Bank. Meanwhile, no major corporate earnings releases are scheduled for Friday. In premarket trading, futures tied to the Euro Stoxx 50 and Stoxx 600 indexes were both up around 0.2%."
+    },
+    {
+      "id": "mkt:019e7261-f107-711c-8b40-11cfdc31f568",
+      "time": "2026-05-29 14:18:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "CSI 1000 index futures (IM) front-month contract fell below 8,300 points, down 2.82% intraday. CSI 500 index futures (IC) front-month contract was at 8,235 points, down 2.85% intraday."
+    },
+    {
+      "id": "4906302",
+      "time": "2026-05-29 14:17:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【智利國家銅業公司新掌門強調利潤優先與治理整頓 或放慢擴產步伐】智利國家銅業公司(Codelco)新任董事長在執掌這家國有銅業巨頭後的首次董事會會議上表明，公司將從以產量為導向轉向更加重視盈利能力。“我們的職責不是為了生產而生產，而是以安全、高效且盈利的方式進行生產，”董事長Bernardo Fontaine週四在宣告中表示。在週四會議上，董事們同意在避免進一步推高已接近歷史高位的債務的同時，儘可能提高對國家的貢獻。這一表態顯示出戰略重心的轉變。前任董事長Máximo Pacheco致力於在老礦改造專案屢遭挫折後恢復產量增長。如今，加強對投資決策的審查，可能會抑制擴張計劃；在能源轉型和資料中心建設推動銅需求上升的背景下，這也可能有助於維持全球銅市場的供應緊張。"
+    },
+    {
+      "id": "4906301",
+      "time": "2026-05-29 14:17:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內跌幅達3.00%，成分股中，諾思蘭德跌23.37%，戈碧迦跌11.99%，天力複合跌7.52%，連城數控跌6.80%。"
+    },
+    {
+      "id": "4906300",
+      "time": "2026-05-29 14:16:57",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上證指數跌1.00%，現報4057.649點；深證成指跌2.05%，現報15537.132點；創業板指跌2.46%，現報4023.654點。"
+    },
     {
       "id": "4906299",
       "time": "2026-05-29 14:16:35",
@@ -140154,108 +140303,6 @@
         "國際"
       ],
       "text": "【油價基準遭質疑 摩科瑞、道達爾接連起訴波羅的海交易所】道達爾能源正考慮對波羅的海交易所採取法律行動，此前摩科瑞（Mercuria）已提起類似訴訟。當前，法律糾紛正威脅著要撕裂關係緊密的石油航運世界。 霍爾木茲海峽事實上被封鎖，已給航運業用於對沖全球油輪運價波動的基準指數和衍生品合約帶來了混亂——航運業高管警告稱，商業糾紛可能會持續“數年”。 其中最引人注目的是瑞士貿易商摩科瑞於4月30日在倫敦高等法院對波羅的海交易所提起的訴訟。據知情人士透露，道達爾能源的石油貿易部門Totsa也在考慮就該交易所的決定採取法律行動。該交易所負責評估併發布運價，這些運價為許多航運合同提供了定價依據。 伊朗戰爭的影響已波及航運和能源市場。海峽運輸中斷導致大量石油貨物被取消或推遲交付，從而引發了石油買賣雙方之間的訴訟激增。 一批中東石油的未交付，可能會因其在供應商與終端使用者之間的一系列交易合同中的連鎖反應而導致多起訴訟。"
-    },
-    {
-      "id": "4894330",
-      "time": "2026-05-22 14:21:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普宣佈向波蘭增兵5000 “我們關係很好”】美國總統特朗普21日在社交媒體發文說，美國將向波蘭增派5000名士兵。特朗普寫道：“鑑於我曾自豪地支援、如今已是波蘭總統的卡羅爾·納夫羅茨基成功贏得選舉，以及我們與他的關係，我很高興宣佈，美國將向波蘭增派5000名士兵。”特朗普在文中未說明增兵詳情。不清楚這是否關聯美國最近宣佈取消一支美軍部隊在波蘭部署計劃或計劃從德國撤軍。美國陸軍代理參謀長克里斯托弗·拉尼夫15日在一場國會聽證會上說，國防部長赫格塞思下令取消陸軍第一騎兵師第二裝甲旅戰鬥隊原定為期9個月在波蘭的輪換部署。美國副總統萬斯19日在白宮記者會上說，這“不是削減，而是一次例行輪換推遲”。(新華社)"
-    },
-    {
-      "id": "4894329",
-      "time": "2026-05-22 14:20:49",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "歷峰集團董事長：中東業務不會決定集團資產負債表或利潤的好壞。"
-    },
-    {
-      "id": "4894328",
-      "time": "2026-05-22 14:20:41",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超2.5萬億元，較上日此時縮量3342億元。"
-    },
-    {
-      "id": "4894327",
-      "time": "2026-05-22 14:20:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "據洛圖科技報告顯示，2026年4月，中國大陸電競顯示器線上全渠道市場的銷量為55萬臺，同比下滑3.3%；銷額為6.4億元，同比下滑5.7%。"
-    },
-    {
-      "id": "4894326",
-      "time": "2026-05-22 14:19:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "歷峰集團董事長：關稅敞口約為3億歐元。"
-    },
-    {
-      "id": "4894325",
-      "time": "2026-05-22 14:19:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "歷峰集團董事長：需求大幅超出供給，對未來走勢抱有相當信心。"
-    },
-    {
-      "id": "mkt:019e4e56-9e50-7cc0-a021-90f855406a31",
-      "time": "2026-05-22 14:19:19",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "AUSTRALIA S&P/ASX 200 INDEX CLOSES UP 0.4% AT 8,657"
-    },
-    {
-      "id": "4894324",
-      "time": "2026-05-22 14:18:59",
-      "tags": [
-        "市場"
-      ],
-      "text": "【大普微短線拉昇漲超10%，早盤一度跌超12%】大普微短線拉昇漲超10%，早盤一度跌超12%。"
-    },
-    {
-      "id": "mkt:019e4e55-f7ed-7cc0-a021-8d65dfa57319",
-      "time": "2026-05-22 14:18:37",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "SI.O",
-        "Impact bullish",
-        "HSI"
-      ],
-      "text": "HK H-SHARE SEMICONDUCTOR SECTOR RALLIES AFTERNOON; GIGADEVICE JUMPS AS MUCH AS 10% TO FRESH ALL-TIME HIGH, MONTAGE TECHNOLOGY RISES OVER 6%, ILUVATAR, SMART-CORE, SMIC GAIN NEARLY 6%"
-    },
-    {
-      "id": "te:economy:552971",
-      "time": "2026-05-22 14:18:01",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Denmark",
-        "Retail Sales YoY",
-        "Importance 1"
-      ],
-      "text": "Danish Retail Sales Hit 10-Month Low — Retail sales in Denmark rose by 1.3% year-on-year in April 2026, reversing a from a downwardly revised 7.0% increase in the prior month. This marked the slowest growth since the contraction in June 2025, as sales slipped for both liquid fuel filling station (-13.4% vs -7.2% in March) and supermarkets, department stores and specialized grocery stores (-2.3% vs 4.2%). In addition, sales moderated for consumer electronics (14.9% vs 19.0%), household equipment, furniture, and building materials (2.6% vs 10.4%), pharmacies and personal care products (3.5% vs 9.7%), and second-hand goods (16.6% vs 19.1%). On a seasonally adjusted monthly basis, retail activity fell by 1.8% in April, reversing an upwardly revised 2.8% rise in the previous month."
-    },
-    {
-      "id": "4894323",
-      "time": "2026-05-22 14:17:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【深南電A等投資成立能源科技新公司】企查查APP顯示，近日，深南電正邁能源科技（深圳）有限公司成立，經營範圍包含熱力生產和供應；光伏裝置及元器件銷售；光伏裝置及元器件製造等。企查查股權穿透顯示，該公司由深南電A等共同持股。"
     }
   ]
 }
