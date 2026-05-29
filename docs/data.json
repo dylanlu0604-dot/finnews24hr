@@ -1,7 +1,123 @@
 {
-  "updated": "2026-05-29 09:34:08",
-  "count": 15403,
+  "updated": "2026-05-29 09:37:59",
+  "count": 15396,
   "items": [
+    {
+      "id": "4905863",
+      "time": "2026-05-29 09:36:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【高雲半導體啟動IPO輔導】證監會網站披露，廣東高雲半導體科技股份有限公司（簡稱“高雲半導體”）於2026年5月28日在廣東證監局辦理輔導備案登記，擬首次公開發行股票並上市，輔導券商為國泰海通證券。"
+    },
+    {
+      "id": "4905862",
+      "time": "2026-05-29 09:36:33",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【新型城鎮化概念盤初走強 青龍管業漲停】早盤新型城鎮化概念活躍，青龍管業漲停，傑創智慧漲超10%，威派格、深水規院、華建集團、亞廈股份、海螺新材等跟漲。"
+    },
+    {
+      "id": "4905861",
+      "time": "2026-05-29 09:36:25",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【超級電容概念延續強勢 華鋒股份漲停】超級電容概念延續強勢，華鋒股份漲停，江海股份、瑞泰新材、風華高科、火炬電子、金時科技等漲幅居前。"
+    },
+    {
+      "id": "4905860",
+      "time": "2026-05-29 09:35:53",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "地產股開盤拉昇，陽光股份3天2板，光大嘉寶逼近漲停，城建發展、榮盛發展、金融街、榮安地產跟漲。"
+    },
+    {
+      "id": "mkt:019e715f-2037-7ee0-99e0-0c03166dfaa8",
+      "time": "2026-05-29 09:35:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mainland A-share underground pipeline sector jumped in morning trade; Chengbang Co. and Qinglong Pipe hit the daily trading limit, while Hanjian Heshan, Litong Technology, Huajian Group, Guotong Co. and Hangyu Micro advanced."
+    },
+    {
+      "id": "4905859",
+      "time": "2026-05-29 09:34:49",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【地下管網板塊早盤衝高，青龍管業漲停】地下管網板塊早盤衝高，誠邦股份、青龍管業漲停，韓建河山、利通科技、華建集團、國統股份、航宇微跟漲。"
+    },
+    {
+      "id": "mkt:019e715e-9ecd-7ee0-99e0-01471665a159",
+      "time": "2026-05-29 09:34:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution",
+        "00992.HK",
+        "Impact bullish",
+        "03396.HK"
+      ],
+      "text": "Lenovo Group (00992.HK) surged over 30% intraday and Legend Holdings (03396.HK) climbed more than 15% after reports Lenovo signed an agreement with Tianjin to build next‑generation AI infrastructure."
+    },
+    {
+      "id": "4905858",
+      "time": "2026-05-29 09:34:42",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "聯想集團(00992.HK)盤中漲超30%，聯想控股(03396.HK)漲超15%，訊息面上，聯想集團跟天津簽署了建設新一代AI基礎設施的協議。"
+    },
+    {
+      "id": "mkt:019e715e-6736-7ee0-99df-fbb1adcb8f49",
+      "time": "2026-05-29 09:34:32",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "【Bond futures morning open】2-year bond futures (TS) most-active contract down 0.01%; 5-year (TF) down 0.03%; 10-year (T) down 0.03%; 30-year (TL) down 0.29%."
+    },
+    {
+      "id": "4905857",
+      "time": "2026-05-29 09:34:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "【電力板塊再度走強 粵電力A3連板】早盤電力板塊再度走強，粵電力A走出3連板，華電能源觸及漲停，太陽能、建投能源、浙江新能、晉控電力跟漲。"
+    },
+    {
+      "id": "mkt:019e715e-3bba-7ee0-99df-f3f90a60338a",
+      "time": "2026-05-29 09:34:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "【A-share index futures open higher】A-share index futures opened higher in the morning session: CSI 300 main contract (IF) +0.43%; SSE 50 main contract (IH) +0.18%; CSI 500 main contract (IC) +0.22%; CSI 1000 main contract (IM) +0.32%."
+    },
+    {
+      "id": "4905856",
+      "time": "2026-05-29 09:34:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【堯唐生物完成近五億元人民幣C輪融資】5月29日，堯唐生物（YolTech Therapeutics）宣佈完成近五億元人民幣C輪融資。本輪融資由正心谷資本領投，上海國投先導、閔金投、德嶽投資等知名機構參與投資，老股東險峰淇雲、遠翼投資、天創資本加碼跟投。"
+    },
     {
       "id": "4905855",
       "time": "2026-05-29 09:33:26",
@@ -138649,201 +138765,6 @@
         "國際"
       ],
       "text": "POLYMARKET據悉正尋求獲得日本市場批准，以推進其全球擴張計劃。"
-    },
-    {
-      "id": "4893906",
-      "time": "2026-05-22 09:37:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "港股半導體板塊盤初衝高，兆易創新(03986.HK)漲近6%，瀾起科技(06809.HK)漲超5%，中芯國際(00981.HK)等跟漲。"
-    },
-    {
-      "id": "4893905",
-      "time": "2026-05-22 09:37:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "【港股聯想集團盤初漲超9%，最高報14.44港元】港股聯想集團盤初漲超9%，最高報14.44港元。訊息面上，公司財報顯示Q4業績增長創紀錄，AI收入佔比提升至近四成。"
-    },
-    {
-      "id": "4893904",
-      "time": "2026-05-22 09:37:16",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "PTA連續主力合約日內跌3%，現報6182.00元。"
-    },
-    {
-      "id": "mkt:019e4d54-5593-7aa1-9583-0a1bdcbbd6eb",
-      "time": "2026-05-22 09:37:10",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "AMD.O",
-        "Impact bullish",
-        "Nasdaq100"
-      ],
-      "text": "AMD CEO LISA SU: WE ARE ASKING OUR PARTNERS TO RAMP FASTER"
-    },
-    {
-      "id": "te:markets:552906",
-      "time": "2026-05-22 09:37:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Stocks in China Hit 4-week Low — SHANGHAI 50 decreased to 2919.00 Index Points, the lowest since April 2026. Over the past 4 weeks, Shanghai 50 lost 0.26%, and in the last 12 months, it increased 6.93%."
-    },
-    {
-      "id": "mkt:019e4d54-4e16-7aa1-9583-005f8eeaf7c0",
-      "time": "2026-05-22 09:37:05",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "Market Regions",
-        "Greater China",
-        "AMD.O",
-        "Impact bullish"
-      ],
-      "text": "AMD CEO LISA SU: THIS IS THE TIME WE NEED TO INVESTMENT (IN TAIWAN) BECAUSE WE NEED ENOUGH CAPACITY FOR THE NEXT 1, 2, 3 YEARS"
-    },
-    {
-      "id": "4893903",
-      "time": "2026-05-22 09:36:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "片山皋月：美國財長貝森特表示日本將獲得Mythos的訪問許可權。"
-    },
-    {
-      "id": "4893902",
-      "time": "2026-05-22 09:36:39",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "乙二醇連續主力合約日內跌3%，現報4556.00元。"
-    },
-    {
-      "id": "mkt:019e4d53-4ab5-7aa1-9582-fcfe528fde08",
-      "time": "2026-05-22 09:36:01",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish"
-      ],
-      "text": "CHINA CSI LIQUOR INDEX FALLS OVER 1% IN MORNING TRADE TO HIT OVER SIX-YEAR LOW"
-    },
-    {
-      "id": "mkt:019e4d53-2471-7aa1-9582-f72fabf1fc00",
-      "time": "2026-05-22 09:35:53",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China EV Leaders",
-        "Market Regions",
-        "Greater China",
-        "9866.HK",
-        "Impact bullish"
-      ],
-      "text": "NIO'S SHARES RISE 2.65% IN HONG KONG AFTER 1Q EARNINGS"
-    },
-    {
-      "id": "4893901",
-      "time": "2026-05-22 09:35:51",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "菲律賓股市指數上漲1%至5980.01點。"
-    },
-    {
-      "id": "mkt:019e4d52-e32f-7aa1-9582-e878429ba371",
-      "time": "2026-05-22 09:35:38",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH"
-      ],
-      "text": "CHINA CENBANK: TO AUCTION 15 BLN YUAN 1-YEAR BILLS MAY 27 IN HONG KONG"
-    },
-    {
-      "id": "4893900",
-      "time": "2026-05-22 09:35:34",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "菲律賓央行行長：我們面臨滯後於曲線的風險。"
-    },
-    {
-      "id": "mkt:019e4d52-cfbe-7aa1-9582-e516fc5e5184",
-      "time": "2026-05-22 09:35:31",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "SZSE Component",
-        "Impact bullish"
-      ],
-      "text": "SHENZHEN COMPOSITE, CHINEXT INDEXES BOTH RISE OVER 1%"
-    },
-    {
-      "id": "4893899",
-      "time": "2026-05-22 09:35:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "【MLCC概念反覆活躍 昀冢科技、三環集團雙雙漲超10%】近期MLCC概念反覆活躍，昀冢科技、三環集團漲超10%，風華高科、博遷新材、國瓷材料、宏明電子漲幅靠前。"
-    },
-    {
-      "id": "4893898",
-      "time": "2026-05-22 09:35:07",
-      "tags": [
-        "央行",
-        "市場",
-        "觀點"
-      ],
-      "text": "【摩根大通期貨潘鳳：已有境外機構啟動國債期貨投資計劃與套保報備】摩根大通期貨董事長兼總經理潘鳳接受證券時報記者採訪時表示，QFII獲准參與國債期貨是金融期貨國際化的關鍵一步，海外央行、主權基金、養老金等長線資金對國債期貨配置意願強烈，將其視為安全穩定的資產配置與對沖工具，目前已有多家境外機構啟動投資計劃與套保報備，同時她呼籲加快推進境外經紀業務試點。"
-    },
-    {
-      "id": "4893897",
-      "time": "2026-05-22 09:34:46",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "菲律賓央行行長：通脹形勢更為棘手，正面臨嚴重供給衝擊。"
-    },
-    {
-      "id": "4893896",
-      "time": "2026-05-22 09:34:39",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "菲律賓央行行長：即便財政層面將推出大量政策，我們的重心仍將放在通脹。"
-    },
-    {
-      "id": "4893895",
-      "time": "2026-05-22 09:34:13",
-      "tags": [
-        "央行",
-        "宏觀",
-        "國際"
-      ],
-      "text": "菲律賓央行行長：財政部門正全力履行自身職責。"
     }
   ]
 }
