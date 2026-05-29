@@ -1,7 +1,76 @@
 {
-  "updated": "2026-05-29 13:22:03",
-  "count": 15491,
+  "updated": "2026-05-29 13:25:59",
+  "count": 15492,
   "items": [
+    {
+      "id": "4906209",
+      "time": "2026-05-29 13:24:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "【PCB概念午後回暖 興森科技封漲停】午後PCB概念表現回暖，興森科技封漲停，中富電路漲超10%，德福科技、明陽電路、寶鼎科技、生益科技漲幅靠前。"
+    },
+    {
+      "id": "4906208",
+      "time": "2026-05-29 13:24:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【政企聯動發放多重補貼 重慶購車利好再“加碼”】據重慶日報，日前，2026購在中國·愛尚重慶——“心動渝悅·樂購山城”消費嘉年華啟動，聚焦購物、餐飲、汽車、親子娛樂等多元消費領域，推出系列惠民促消費舉措。其中，汽車消費板塊加碼，圍繞報廢更新、置換更新、購新車、買二手車推出多層級購新補貼。同時疊加車企、平臺禮遇，全方位釋放汽車消費潛力。據悉，今年重慶市針對個人消費者推出汽車報廢更新、置換更新及新車、二手車購新補貼。報廢舊車併購買新能源乘用車，按新車價12%補貼，最高2萬元；置換更新購買新能源車，按8%補貼，最高1.5萬元。購買新車按車價分檔補貼，最高8000元；購買二手乘用車按發票金額1.5%補貼，最高4000元。"
+    },
+    {
+      "id": "mkt:019e7230-4e17-711c-8b3e-531fb692d9af",
+      "time": "2026-05-29 13:23:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "CSI 300 index futures (IF) main contract rose to 4,900, up 0.78% intraday."
+    },
+    {
+      "id": "mkt:019e7230-2645-711c-8b3e-485b0f497ac6",
+      "time": "2026-05-29 13:23:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "02513.HK",
+        "Impact bullish"
+      ],
+      "text": "Zhipu (02513.HK) rose over 17% to HK$1,900, hitting a market value of HK$847 billion."
+    },
+    {
+      "id": "4906207",
+      "time": "2026-05-29 13:22:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "三菱汽車執行長表示：目前暫無調整股權結構的重大計劃，我們與日產保持著良好的合作關係。"
+    },
+    {
+      "id": "4906206",
+      "time": "2026-05-29 13:22:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股大模型概念股持續拉昇，智譜漲超17%】港股大模型概念股持續拉昇，智譜漲超17%，MINIMAX-W漲超6%。"
+    },
+    {
+      "id": "te:economy:554744",
+      "time": "2026-05-29 13:22:31",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Finland",
+        "GDP Growth Rate",
+        "Importance 1"
+      ],
+      "text": "Finnish Q1 GDP Growth Strongest Since 2021 — Finland’s economy expanded by 0.9% quarter-on-quarter in the first quarter of 2026, matching preliminary estimates and accelerating from a downwardly revised 0.3% growth in the previous quarter. The latest reading marked the strongest quarterly expansion since Q3 2021, largely supported by a sharp 30.8% increase (vs 2% in Q4 2025) in government spending, linked to defense investments, as deliveries of state-purchased fighter jets began. Net external demand also contributed positively to the GDP, as exports (3.2% vs -3.3%) grew more than imports (2.2% vs -0.9%). Additionally, household expenditures (0.9% vs 0.2%) rose at a faster pace. On the other hand, growth in private investments slowed to 0.4% from 2% in the prior period. On a yearly basis, the economy grew by 1.1% in Q1, the fastest rise since Q4 2024, after a 0.1% expansion in the preceding period."
+    },
     {
       "id": "4906205",
       "time": "2026-05-29 13:19:42",
@@ -139592,54 +139661,6 @@
         "國際"
       ],
       "text": "印度外交部：四方安全對話外長會議將於2026 年 5 月 26 日舉行。"
-    },
-    {
-      "id": "4894243",
-      "time": "2026-05-22 13:25:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "川崎重工：將藉助微軟的雲與人工智慧平臺能力，加快實體人工智慧業務的落地佈局。"
-    },
-    {
-      "id": "4894242",
-      "time": "2026-05-22 13:23:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【液冷伺服器概念午後活躍 川潤股份5天4板】液冷伺服器概念午後活躍，川潤股份5天4板，大元泵業、冰輪環境、飛龍股份、歐陸通跟漲。"
-    },
-    {
-      "id": "4894241",
-      "time": "2026-05-22 13:22:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "【坤泰股份：目前兩大海外基地已順利鎖定多家核心海外客戶意向及定點訂單】坤泰股份(001260)5月21日在投資者關係活動中表示，目前兩大海外基地已順利鎖定多家核心海外客戶意向及定點訂單，後續公司將持續推進海外主流車企供應商准入與定點開發工作，依託落地產能深化海外市場佈局，根據海外訂單增量情況審慎最佳化產能佈局，全面提升公司全球化配套服務能力與海外市場營收規模。"
-    },
-    {
-      "id": "4894240",
-      "time": "2026-05-22 13:22:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴基斯坦內政部長再次會晤伊朗外長阿拉格齊，就解決與美國爭端的相關提案進行磋商。（塔斯尼姆通訊社）"
-    },
-    {
-      "id": "mkt:019e4e22-9091-7aa1-9585-77eaabbc2fad",
-      "time": "2026-05-22 13:22:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "PAKISTAN'S INTERIOR MINISTER MEETS IRANIAN FOREIGN MINISTER ARAQCHI AGAIN TO REVIEW PROPOSALS FOR RESOLVING DISPUTES WITH U.S - TASNIM"
-    },
-    {
-      "id": "4894239",
-      "time": "2026-05-22 13:22:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "川崎重工：醫療健康領域是與英偉達開展服務合作的切入點。"
     }
   ]
 }
