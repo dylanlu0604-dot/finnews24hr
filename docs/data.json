@@ -1,7 +1,111 @@
 {
-  "updated": "2026-05-29 09:53:38",
-  "count": 15380,
+  "updated": "2026-05-29 09:57:30",
+  "count": 15378,
   "items": [
+    {
+      "id": "mkt:019e7172-ee88-7ee0-99e0-b7a0a6349545",
+      "time": "2026-05-29 09:56:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hong Kong AI-application stocks rallied: 02723.HK rose over 30%, 02513.HK rose more than 10%, and MINIMAX-W (00100.HK) gained about 6%."
+    },
+    {
+      "id": "te:markets:554680",
+      "time": "2026-05-29 09:56:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "South Korean Shares Surge to Fresh Peak — The benchmark KOSPI jumped 2.22% to around 8,367 on Friday, reaching fresh record highs after briefly retreating as investor appetite improved on easing geopolitical tensions in the Middle East. Optimism grew after reports said the United States and Iran agreed to extend their ceasefire framework and resume talks on Tehran’s nuclear program. Support also came from Wall Street, where major US indexes closed at record highs overnight, led by gains in the S&P 500 and Nasdaq. Gains in Seoul were driven largely by technology and automobile stocks, with heavyweight shares such as Samsung Electronics (+4.17%), SK Hynix (+2.10%), Hyundai Motor (+5.61%), and Kia Corp (+1.83%) advancing strongly. Separately, Investors also monitored fresh economic data, as South Korea’s industrial production unexpectedly fell 0.7% in April while retail sales slumped 3.6%, marking the steepest decline since July 2020."
+    },
+    {
+      "id": "4905905",
+      "time": "2026-05-29 09:56:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超1萬億元，較上日此時放量1547億元。"
+    },
+    {
+      "id": "mkt:019e7171-f9d7-7ee0-99e0-aa9b9565f20b",
+      "time": "2026-05-29 09:55:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "06030.HK",
+        "Impact bullish"
+      ],
+      "text": "CITIC Securities (06030.HK) rose more than 8% intraday after saying it will issue H-shares to CITIC Financial Holdings to raise 16.0 billion yuan; CITIC Financial will fully subscribe in cash at HK$23.13 per share."
+    },
+    {
+      "id": "4905904",
+      "time": "2026-05-29 09:55:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "港股大模型概念股拉昇，智譜漲超10%，MINIMAX-W漲超6%。"
+    },
+    {
+      "id": "4905903",
+      "time": "2026-05-29 09:55:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【南方電網電力負荷連續四天創新高 ，季節性規律被打破】來自南方電網的資料顯示，5月25日-28日，南方電網電力負荷連續四天創出新高，最高達2.75億千瓦。 5月28日，廣東電網創年內第二次新高，達1.7億千瓦，廣州、深圳用電負荷今年首創新高。27日，廣西電網電力負荷年內第五次創新高。 今年以來，南方電網全網及廣東、廣西、雲南、貴州、海南五省（區）電力負荷超20次創新高，打破2020年至2025年年度峰值集中在六、七月的季節性規律。目前，南方電網經營區域電力供應平穩有序。 本輪負荷新高呈現“時間提前、晚峰衝高”的鮮明特徵。中國南方電力排程控制中心運營策劃處經理李智勇分析，今年華南高溫天氣前置，提前啟用全域製冷負荷，疊加工業生產穩產滿產、民生消費持續旺盛，多重因素共振推動用電負荷提前突破極值。（一財）"
+    },
+    {
+      "id": "te:economy:554679",
+      "time": "2026-05-29 09:54:51",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "Business Confidence",
+        "Importance 1"
+      ],
+      "text": "New Zealand Business Confidence Improves — New Zealand’s ANZ Business Outlook Index climbed to 10.0 in May from -10.0 in the previous month, marking a notable rebound in confidence, though still subdued compared with pre-conflict levels. Firms’ own activity outlook strengthened (25.6 vs 19.6), while past activity eased slightly (14.8 vs 16.9). Forward indicators improved: export intentions surged (11.5 vs 1.1), profit expectations turned positive (2.0 vs -13.3), investment intentions picked up (5.8 vs 3.3), and employment intentions returned to positive territory (3.4 vs -2.7). Wage growth expectations were steady (2.48% vs 2.41%). Pricing intentions (56.7 vs 57.7) and cost pressures (90.4 unchanged) suggested inflation pressures remained high. Credit availability improved modestly (-17.5 vs -21.5), while inflation expectations eased (3.63% vs 3.81%). Sector sentiment was mixed, with residential construction flat (11.8) but commercial construction weakening sharply (13.5 vs 27.0)."
+    },
+    {
+      "id": "4905902",
+      "time": "2026-05-29 09:54:42",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【港股證券股拉昇，中信證券一度漲超8%】港股證券股拉昇，中信證券一度漲超8%，中信建投證券漲超6%，弘業期貨、國泰海通、中州證券跟漲。"
+    },
+    {
+      "id": "4905901",
+      "time": "2026-05-29 09:54:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【農尚環境等成立科技公司，含AI及積體電路晶片業務】企查查APP顯示，近日，廣州芯策道源科技有限公司成立，經營範圍包含：人工智慧行業應用系統整合服務；人工智慧通用應用系統；人工智慧基礎資源與技術平臺；積體電路晶片及產品銷售。企查查股權穿透顯示，該公司由農尚環境等共同持股。"
+    },
+    {
+      "id": "4905900",
+      "time": "2026-05-29 09:54:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "小鵬汽車股價下跌2.9%，報64.40港元，"
+    },
+    {
+      "id": "4905899",
+      "time": "2026-05-29 09:53:37",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "【商業連鎖板塊走強 寧波中百等漲停】商業連鎖板塊走強，寧波中百、茂業商業、中央商場漲停，步步高、東百集團、百大集團等漲幅居前。"
+    },
     {
       "id": "mkt:019e716f-2878-7ee0-99e0-a1e2faca8fc1",
       "time": "2026-05-29 09:52:45",
@@ -138487,126 +138591,6 @@
         "公司"
       ],
       "text": "【寧夏國運集團將重組整合寧夏國投集團】記者從寧夏國資委獲悉，5月20日，寧夏國資委召開寧夏國運集團重組整合寧夏國投集團推進會，傳達自治區黨委、政府印發的兩家企業重組整合方案，安排部署有關工作。會議指出，自治區黨委、政府高度重視國資國企改革，寧夏國運集團重組整合寧夏國投集團是經過通盤考慮、深入研究作出的重大決策，是貫徹落實黨中央、國務院深化國資國企改革決策部署的關鍵一步，是加快國有經濟佈局最佳化和結構調整的戰略舉措。會議要求，深入推進產融結合，高效整合相關業務和資源，著力構建“以產帶融、以融促產”發展格局，提升寧夏國運集團資本運作和產業培育能力，增強核心功能，打造區屬國有企業產融結合樣板。"
-    },
-    {
-      "id": "4893969",
-      "time": "2026-05-22 09:57:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "聯想執行長：智慧體AI帶來的強勁算力需求將惠及公司AI伺服器業務。"
-    },
-    {
-      "id": "4893968",
-      "time": "2026-05-22 09:56:28",
-      "tags": [
-        "公司",
-        "國際",
-        "原創"
-      ],
-      "text": "【美國北卡羅來納州就電動汽車專案延誤起訴越南Vinfast】美國北卡羅來納州總檢察長傑夫·傑克遜在一份宣告中表示，該州已起訴越南電動汽車製造商Vinfast，指控其未能履行在該州建設電動汽車和電池工廠的承諾。根據當地時間週四釋出的宣告，Vinfast已停工逾一年。宣告稱，Vinfast此前已獲得建設該工廠的許可，並承諾在北卡羅來納州創造7,500個就業崗位，投資超過30億美元。宣告稱：“Vinfast已違約，且其持續不作為幾乎註定將導致進一步違約。”"
-    },
-    {
-      "id": "mkt:019e4d65-4139-7aa1-9583-9295c9354f3c",
-      "time": "2026-05-22 09:55:41",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish",
-        "SZSE Component"
-      ],
-      "text": "CHINEXT INDEX EXTENDS GAINS TO RISE OVER 2%; LAB-GROWN DIAMONDS, PCB SECTORS LEAD RALLY"
-    },
-    {
-      "id": "4893967",
-      "time": "2026-05-22 09:55:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國北卡羅來納州起訴越南Vinfast，因其電動汽車專案逾期未推進。"
-    },
-    {
-      "id": "4893966",
-      "time": "2026-05-22 09:55:19",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【港股PCB概念股走強 建滔積層板漲近10%】截至發稿，建滔積層板(01888.HK)漲9.77%，廣合科技(01989.HK)漲7.45%，勝宏科技(02476.HK)漲7.16%，建滔集團(00148.HK)漲5.42%。"
-    },
-    {
-      "id": "4893965",
-      "time": "2026-05-22 09:54:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "蘇姿豐表示：人工智慧個人電腦（AI PC）領域將實現兩位數的顯著增長。"
-    },
-    {
-      "id": "4893964",
-      "time": "2026-05-22 09:54:26",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "創業板指漲2.01%，現報3906.907點；上證指數漲0.43%，現報4094.799點；深證成指漲1.48%，現報15473.251點。"
-    },
-    {
-      "id": "4893963",
-      "time": "2026-05-22 09:54:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "蘇姿豐：下一大浪潮是實體人工智慧，其中包括機器人技術。"
-    },
-    {
-      "id": "mkt:019e4d63-f1fb-7aa1-9583-895365735b77",
-      "time": "2026-05-22 09:54:11",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "AMD.O",
-        "Impact bullish"
-      ],
-      "text": "AMD CEO LISA SU: THE NEXT BIG WAVE IS PHYSICAL AI, INCLUDING ROBOTICS"
-    },
-    {
-      "id": "4893962",
-      "time": "2026-05-22 09:53:54",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "丁二烯橡膠連續主力合約日內跌4%，現報14790.00元。"
-    },
-    {
-      "id": "4893961",
-      "time": "2026-05-22 09:53:50",
-      "tags": [
-        "市場"
-      ],
-      "text": "聯想延續早盤漲勢；最新上漲12%，報14.67港元。"
-    },
-    {
-      "id": "te:markets:552917",
-      "time": "2026-05-22 09:53:46",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Australian Stocks Positioned for Weekly Gain — Australian shares rose 41 points or 0.5% to 8,662 in early Friday trade, extending gains from the prior session as U.S. futures firmed after the Dow Jones hit a record close overnight on renewed hopes of a Washington–Tehran deal to end the Middle East conflict. Local markets are on track to log a modest weekly rise, up about 0.3% so far, after sharp declines last week, lifted by speculation that April’s surprise drop in employment could prompt the central bank to pause its tightening cycle following three hikes this year. However, caution lingered ahead of April CPI data due next week, after March inflation surged 4.6% yoy, the fastest since September 2023, driven by higher fuel costs. Sector gains were broad, led by consumer, producer manufacturing, and logistics. The big four banks advanced between 0.4% to 1%, while standouts included BHP Group (1.1%), Evolution Mining (3.0%), SGH Ltd. (2.0%), and ALS Ltd. (1.4%)."
-    },
-    {
-      "id": "4893960",
-      "time": "2026-05-22 09:53:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "【阿里雲百鍊上線Qwen3.7-Max，支援API與Token Plan呼叫】5月22日，阿里雲宣佈，Qwen3.7-Max已登陸阿里雲百鍊平臺，使用者可直接呼叫API。模型輸入價格每百萬Tokens 12元，輸出價格每百萬Tokens 36元。此外，阿里雲百鍊Token Plan訂閱服務也已上線Qwen3.7-Max，訂閱使用者可直接使用該模型。"
     }
   ]
 }
