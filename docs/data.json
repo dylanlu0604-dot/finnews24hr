@@ -1,7 +1,96 @@
 {
-  "updated": "2026-05-29 12:21:41",
-  "count": 15462,
+  "updated": "2026-05-29 12:25:38",
+  "count": 15468,
   "items": [
+    {
+      "id": "mkt:019e71fa-10ef-7ee0-99e3-908c97f2f0c2",
+      "time": "2026-05-29 12:24:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's president says Iran is committed to pursuing diplomatic channels."
+    },
+    {
+      "id": "4906147",
+      "time": "2026-05-29 12:23:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印尼塞梅魯火山發生噴發 火山灰柱高約1000米】據印尼火山地質減災中心訊息，當地時間5月29日9時43分，位於東爪哇省的塞梅魯火山發生噴發，火山灰柱高約1000米，持續時間為110秒。"
+    },
+    {
+      "id": "mkt:019e71f9-0c6a-7ee0-99e3-8facde44b261",
+      "time": "2026-05-29 12:23:27",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders"
+      ],
+      "text": "【NIO chair Li Bin: lagging brands, technologies will be cleared faster】May 29 — NIO chair Li Bin told the 2026 Future Auto Pioneers Conference that competition over the next one to two years will be severe and that lagging brands and technologies will be cleared faster. He said price wars are fading but the market remains ruthless even without them. With technological convergence and growing product homogeneity, consumers are shifting from choosing specs to choosing brands, and industry competition is moving from single-point battles to system-level rivalry across the long automotive supply chain."
+    },
+    {
+      "id": "mkt:019e71f8-ec5d-7ee0-99e3-8054caaf23fb",
+      "time": "2026-05-29 12:23:19",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【OpenAI to deploy latest models via Asian cloud provider Datasection】OpenAI’s Asia‑Pacific arm said it will deploy and commercialize its latest models on Asian cloud provider Datasection. This is the first public instance since OpenAI ended its exclusive partnership with Microsoft of placing model inference and compute infrastructure on a third‑party cloud platform."
+    },
+    {
+      "id": "mkt:019e71f8-cdcf-7ee0-99e3-79a3e184b05c",
+      "time": "2026-05-29 12:23:11",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Russian Defence Ministry said it shot down 208 Ukrainian drones overnight."
+    },
+    {
+      "id": "4906146",
+      "time": "2026-05-29 12:23:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "國際文傳電訊社援引俄羅斯國防部訊息稱，俄羅斯昨夜擊落208架烏克蘭無人機。"
+    },
+    {
+      "id": "mkt:019e71f7-e9bb-7ee0-99e3-748eab4976b2",
+      "time": "2026-05-29 12:22:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "The regional governor said a fuel storage facility in Russia's Yaroslavl region caught fire after a drone strike."
+    },
+    {
+      "id": "4906145",
+      "time": "2026-05-29 12:22:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯雅羅斯拉夫爾州州長稱，該州境內一處儲油設施遭無人機襲擊後起火。"
+    },
+    {
+      "id": "mkt:019e71f7-06d1-7ee0-99e3-6b93d593c816",
+      "time": "2026-05-29 12:21:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The regional governor said drones attacked fuel storage facilities in Russia's Yaroslavl region."
+    },
+    {
+      "id": "4906144",
+      "time": "2026-05-29 12:21:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯州長稱，無人機襲擊了俄羅斯雅羅斯拉夫爾州的儲油設施。"
+    },
     {
       "id": "4906143",
       "time": "2026-05-29 12:20:56",
@@ -139329,40 +139418,6 @@
         "其他"
       ],
       "text": "【傳泡泡瑪特8.8億元北京買樓作為總部大廈 ，官方不予置評】近日有訊息稱，“泡泡瑪特以8.8億元購入北京太古坊二期(原頤堤港二期)整棟寫字樓，建築面積約4.4萬m²，地上16層，或將作為總部大廈。”針對上述傳聞，泡泡瑪特官方不予置評。（新浪科技）"
-    },
-    {
-      "id": "4894171",
-      "time": "2026-05-22 12:25:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "【我國中東部降雨持續 部分國省幹線路段封閉】據瞭解，本輪降雨過程影響範圍廣、局地強度大，山區道路、低窪路段通行風險顯著升高。記者從交通運輸部路網中心最新資料瞭解到，截至今早9時，受降雨影響，陝西省國省幹線共有5個路段採取主動封閉管控措施。中央氣象臺釋出的全國強降雨落區預報圖顯示，今天8時到明天早8時，大到暴雨的區域，目前，降雨主要集中在北京、江西、湖南、福建等地。 今天5時至8時，北京全市平均降雨量10.5毫米，城區平均14.1毫米，最大降雨區域出現在北京房山區。受降雨影響，北京城市路網車流量較大。降雨路面溼滑，提醒來往司機謹慎駕駛。  （央視）"
-    },
-    {
-      "id": "4894170",
-      "time": "2026-05-22 12:23:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "理想汽車：易車實測，全新理想L9純電續航超460km。全新理想L9在汽車純電續航測試中， 實測純電續航里程460.9km， 續航達成率 109.7%。"
-    },
-    {
-      "id": "4894169",
-      "time": "2026-05-22 12:22:06",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【訊息人士：印度央行不支援透過加息來捍衛盧比，將通脹管控列為優先事項】三位訊息人士稱，印度央行並不認為加息是保衛承壓盧比的最優手段，該立場與市場預期相悖，也表明借貸成本政策將以通脹而非匯率為核心依據。熟知印度央行思路的知情人士表示，該行仍持有尚未動用的調控工具。媒體此前披露，相關舉措包括推出印僑美元存款計劃、調整債券投資者相關稅收等。一名訊息人士補充，所有備選方案均在考量範圍內，且央行正與政府協同研判。其表示，央行暫無迫切加息的必要性。"
-    },
-    {
-      "id": "4894168",
-      "time": "2026-05-22 12:21:53",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "交易員稱，印度央行大機率拋售美元以支撐盧比匯率。"
     }
   ]
 }
