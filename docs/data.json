@@ -1,7 +1,593 @@
 {
-  "updated": "2026-05-29 09:08:01",
-  "count": 15385,
+  "updated": "2026-05-29 09:26:20",
+  "count": 15410,
   "items": [
+    {
+      "id": "mkt:019e7156-0acf-7ee0-99df-adb3f0d0f9ef",
+      "time": "2026-05-29 09:25:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component",
+        "CSI300"
+      ],
+      "text": "A-shares opened higher: Shanghai Composite up 0.29%, Shenzhen Composite up 0.60%, ChiNext up 0.41%. Lab-grown diamonds, supercapacitors and NVIDIA-concept stocks led gains."
+    },
+    {
+      "id": "4905837",
+      "time": "2026-05-29 09:25:23",
+      "tags": [
+        "焦點",
+        "A股"
+      ],
+      "text": "三大股指高開，滬指漲0.29％，深成指漲0.6％，創業板漲0.41％。"
+    },
+    {
+      "id": "4905836",
+      "time": "2026-05-29 09:25:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【我國首艘貨艙系統全國產低溫閥LNG運輸船交付】今天（29日），由中船集團滬東中華建造的17.4萬立方米大型LNG運輸船正式交付，這艘船也是我國首艘實現貨艙圍護系統全譜系裝配國產超低溫閥的大型LNG運輸船，標誌著我國構建了一條從材料、設計到配套裝置的大型LNG運輸船完整產業鏈。"
+    },
+    {
+      "id": "4905835",
+      "time": "2026-05-29 09:24:08",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【小鵬集團-W低開超3%】小鵬集團-W低開超3%，訊息面上，小鵬一季度實現總收入130.3億元，其中汽車銷售收入110.0億元，服務及其他收入20.3億元，後者實現41.2%的同比增長。"
+    },
+    {
+      "id": "4905834",
+      "time": "2026-05-29 09:23:34",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【新易盛：1.6T光模組訂單情況良好 預計今年出貨量將處於增長趨勢】新易盛(300502)在互動平臺表示，1.6T光模組是公司今年交付的主要產品之一，目前訂單情況良好，預計今年出貨量將處於增長趨勢。預計2026年行業仍將保持高景氣度和高增長趨勢，公司將持續擴充產能以滿足訂單交付。另外，泰國工廠二期自2025年初建成以來持續進行擴產，今年擴產節奏進一步提速以滿足訂單交付需求。"
+    },
+    {
+      "id": "mkt:019e7153-6f55-7ee0-99df-a6b37e70affe",
+      "time": "2026-05-29 09:22:33",
+      "tags": [
+        "MKT News",
+        "USDJPY"
+      ],
+      "text": "Japan 10-year bond yield fell 5.5 bps to 2.640%; 5-year yield fell 3.0 bps to 1.875%."
+    },
+    {
+      "id": "4905833",
+      "time": "2026-05-29 09:22:30",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行公開市場今日淨回籠300.0億元人民幣。"
+    },
+    {
+      "id": "4905832",
+      "time": "2026-05-29 09:22:21",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行進行 1,230 億元 7 天期逆回購操作 操作利率 1.4%。"
+    },
+    {
+      "id": "mkt:019e7153-2181-7ee0-99df-9f24f655c572",
+      "time": "2026-05-29 09:22:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "01801.HK",
+        "Impact bullish"
+      ],
+      "text": "Hong Kong-listed Innovent Biologics (01801.HK) opened 6.88% higher after signing an oncology drug development agreement with Pfizer valued at up to $10.5 billion."
+    },
+    {
+      "id": "em:qqyh_zgyh:202605293753647465",
+      "time": "2026-05-29 09:22:10",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "央行今日開展1230億元7天逆回購操作，操作利率為1.40%，與此前持平。"
+    },
+    {
+      "id": "4905831",
+      "time": "2026-05-29 09:22:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【重慶9區縣暴雨 57條中小河流出現1至5米漲水過程】據重慶市水文總站監測，5月28日8時至5月29日8時，重慶大部地區小到中雨、局地大到暴雨。墊江縣、梁平區、萬州區、開州區、城口縣、雲陽縣、奉節縣、巫溪縣、萬盛經開區等9個區縣出現暴雨，最大日降雨量出現在梁平區和林鎮平都山村，為71毫米。受降雨影響，重慶江津區綦江、南川區黑溪河等2條河流一度超警。其餘城口縣任河、梁平區龍溪河等57條中小河流出現1至5米漲水過程，最高水位均未超過警戒水位。水利部門預計，5月29日8時—6月1日8時，重慶中小河流水勢基本平穩，無明顯漲水過程。（央視新聞）"
+    },
+    {
+      "id": "mkt:019e7152-eb96-7ee0-99df-93e50f8b862d",
+      "time": "2026-05-29 09:21:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH"
+      ],
+      "text": "PBOC conducted 123 bln yuan of 7-day reverse repo operations today; bids and allotment both 123 bln yuan, rate 1.40% unchanged."
+    },
+    {
+      "id": "4905830",
+      "time": "2026-05-29 09:21:47",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4520美元/盎司，日內漲0.54%。"
+    },
+    {
+      "id": "4905829",
+      "time": "2026-05-29 09:21:43",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "SPACEX據悉將IPO估值目標下調至至少1.8萬億美元。"
+    },
+    {
+      "id": "mkt:019e7152-9d4b-7bb6-a80d-817ba65abc5a",
+      "time": "2026-05-29 09:21:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish",
+        "Hang Seng Tech Index",
+        "HSCEI"
+      ],
+      "text": "May 29 — HSI opened 155.36 points higher (+0.62%) at 25,161.52. Hang Seng Tech opened 51.33 points higher (+1.05%) at 4,939.91. HSCEI (H‑shares index) opened 41.97 points higher (+0.50%) at 8,406.38. Red Chip Index opened 2.61 points higher (+0.06%) at 4,338.67."
+    },
+    {
+      "id": "mkt:019e7152-9639-7bb6-a80d-797a039487c1",
+      "time": "2026-05-29 09:21:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish",
+        "03388.HK",
+        "00992.HK"
+      ],
+      "text": "Hong Kong stocks opened higher: Hang Seng Index +0.62%, Hang Seng TECH Index +1.05%. Chuangxiang 3D (03388.HK) jumped about 80% on its listing debut; Lenovo Group (00992.HK) rose nearly 15%; Legend Holdings (03396.HK) gained over 10%."
+    },
+    {
+      "id": "4905828",
+      "time": "2026-05-29 09:21:35",
+      "tags": [
+        "焦點"
+      ],
+      "text": "港股恒指高開漲0.62％，國企指數漲0.5％。"
+    },
+    {
+      "id": "te:markets:554668",
+      "time": "2026-05-29 09:21:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Australia Shares Track Muted May Finish — Australian shares rose 61 points, or 0.7%, to 8,654 on Friday morning deals, reversing a sharp drop in the prior session following overnight Wall Street gains amid reports the U.S. and Iran had reached a tentative 60-day ceasefire extension and agreed to resume nuclear talks. Broad sector strength underpinned the upturn, led by non-energy minerals, commercial services, producer manufacturing, and consumer durables. BHP Group advanced 1.6%, while Northern Star Resources and Evolution Mining each jumped 4.9%. The big four banks posted modest gains of 0.2% to 0.5%. However, the local market is set to end May slightly lower, down around 0.1% so far, following April’s solid rise, as lingering concerns over the impact of three central bank rate hikes since the start of 2026 have weighed on household spending. Traders now await Australia's private sector credit data for April due later today, along with key releases next week, including Q1 current account and GDP figures."
+    },
+    {
+      "id": "4905827",
+      "time": "2026-05-29 09:21:21",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "5年期日本國債<JP5YTN=JBTC>收益率下跌3個基點至1.875%。"
+    },
+    {
+      "id": "4905826",
+      "time": "2026-05-29 09:20:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【平安人壽第三次舉牌中國人壽H股】5月28日，平安人壽公告，平安資管受託平安人壽資金，投資於中國人壽H股股票，於2026年5月20日達到中國人壽H股股本的15%，根據香港市場規則，觸發平安人壽舉牌。據瞭解，這是平安人壽第三次舉牌中國人壽H股。"
+    },
+    {
+      "id": "mkt:019e7150-1724-7ee0-99df-89127b59b2c2",
+      "time": "2026-05-29 09:18:54",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Shenzhen grid load hits record high】Southern Power Grid’s Shenzhen Supply Bureau said at 17:10 on May 28 Shenzhen’s grid load reached a record 24.3019 million kW (24.302 GW), the second consecutive year above 24 million kW; the peak was 1.21% higher than last year’s 24.0112 million kW and occurred 40 days earlier."
+    },
+    {
+      "id": "te:economy:554666",
+      "time": "2026-05-29 09:18:49",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Philippines",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Philippines Trade Gap Widens to 3½-Year High — The Philippines’ trade deficit widened to USD 6.0 billion in April 2026 from USD 4.0 billion in the same period a year earlier. This marks the largest trade gap since August 2022, as imports jumped 22.4%, the fastest pace in more than three and a half years, to USD 13.2 billion, driven by a surge in purchases of electronic products (+78.2%), mainly semiconductors (+104.6%). Imports of mineral fuels, lubricants, and related materials also rose sharply (+105.6%). China accounted for the largest share of imports (29.7%), followed by South Korea (11.8%) and Japan (7.3%). Meanwhile, exports grew at a softer pace of 6.3%, the slowest in eight months, reaching USD 7.2 billion, as shipments of electronic products increased modestly (+1.2%). A surge in consumer electronics exports (+206.3%) offset the decline in semiconductors (-4.7%). Exports also rose for coconut oil (+69.3%), other mineral products (+55.4%), and gold (+73.7%)."
+    },
+    {
+      "id": "4905825",
+      "time": "2026-05-29 09:18:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4550美元/盎司，日內漲0.41%。"
+    },
+    {
+      "id": "4905824",
+      "time": "2026-05-29 09:18:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【深圳電網用電負荷創新高】從南方電網深圳供電局獲悉，5月28日17時10分，深圳電網用電負荷創歷史新高，達2430.19萬千瓦，連續兩年突破2400萬千瓦，較去年最高負荷（2401.12萬千瓦）增長1.21%，本次負荷創新高較去年提前40天。"
+    },
+    {
+      "id": "4905823",
+      "time": "2026-05-29 09:17:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【天津算電協同產業聯盟成立】據天津日報，昨天，在2026世界智慧產業博覽會舉辦期間，天津算電協同產業聯盟正式成立。該聯盟將統籌綠電供給、算力基建、網路排程、技術創新與場景應用，積極打通算力與電力產業壁壘，構建“算力—電力—資料—應用”一體化產業生態，助力天津市打造全國算電協同產業創新高地。"
+    },
+    {
+      "id": "4905822",
+      "time": "2026-05-29 09:17:04",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本10年期國債收益率下跌5.5個基點至2.64%。"
+    },
+    {
+      "id": "mkt:019e714e-0f7e-7bb6-a80d-69322320e7a0",
+      "time": "2026-05-29 09:16:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver rose 1.00% intraday to $76.42/oz; New York silver futures rose 1.00% intraday to $76.68/oz."
+    },
+    {
+      "id": "4905821",
+      "time": "2026-05-29 09:16:24",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【日本市場復甦加劇銀行間競爭 瑞銀再招募一名高盛老將】瑞銀集團在東京又招募了一位前高盛集團老將，尋求抓住日本市場復甦帶來的機遇。據媒體看到的內部備忘錄並經一位發言人證實，真鍋俊於週五加入這家瑞士銀行的日本券商部門，擔任全球市場日本區聯席主管，與Sean McCarthy共擔職責。真鍋俊此前是高盛日本固定收益和大宗商品銷售副主管。真鍋俊至少是八個月來第三位加入瑞銀證券日本的高盛老將。他擁有超過20年的銷售和交易經驗，曾擔任高盛的董事總經理，還在摩根士丹利工作過。發言人表示，他在瑞銀也將是一名董事總經理。"
+    },
+    {
+      "id": "mkt:019e714d-52bf-7bb6-a80d-647921cd3509",
+      "time": "2026-05-29 09:15:53",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Hang Seng Index futures opened the day session up 0.62% at 24,998, trading 8 points below spot."
+    },
+    {
+      "id": "4905820",
+      "time": "2026-05-29 09:15:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "【人民幣兌美元中間價報6.8176，較上日調高64點】人民幣兌美元中間價報6.8176，較上日調高64點。"
+    },
+    {
+      "id": "4905819",
+      "time": "2026-05-29 09:15:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "人民幣兌美元中間價報6.8176元。"
+    },
+    {
+      "id": "4905818",
+      "time": "2026-05-29 09:15:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "英飛凌加入英偉達MGX™人工智慧工廠生態系統，打造下一代人工智慧伺服器機架的全新配電架構。"
+    },
+    {
+      "id": "te:economy:554665",
+      "time": "2026-05-29 09:15:17",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Philippines",
+        "Imports YoY",
+        "Importance 1"
+      ],
+      "text": "Philippine Imports Rise the Most Since 2022 — Philippine imports climbed by 22.4% year-on-year to USD 13.2 billion in April 2026, accelerating from an upwardly revised 17% rise in the previous month. This marked the strongest growth in imports since August 2022, largely driven by a 78.2% surge in electronic products, mainly semiconductor components (+104.6%), followed by medical/industrial instrumentation (+38.4%), control and instrumentation (+36.2%), and communication/radar (+30.7%). Arrivals also rose sharply for mineral fuels, lubricants and related materials (+105.6%), partially offset by declines in transport equipment (-41%) and cereals and cereal preparations (-15.9%). Among the country’s largest trading partners, China remained the top supplier, accounting for 28.8% of total imports, with purchases rising 25.1%. Inbound shipments also increased from South Korea (+11.6%), Japan (+8.2%), Malaysia (+5%), and Indonesia (+6.7%). For the January -April period, total imports grew by 13.5% to USD 49.2 billion."
+    },
+    {
+      "id": "4905817",
+      "time": "2026-05-29 09:15:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【四川省成立調查指導組督導稻城亞丁景區擺渡車問題整改】四川省文化和旅遊廳等有關部門已組成省級調查指導組，要求甘孜藏族自治州人民政府督促稻城亞丁景區暫停收取擺渡車、電瓶車費用，同時如常提供優質服務，迅速啟動調查及後續相關整改工作。近日，稻城亞丁景區擺渡車收費不合理、省道設卡等問題引發社會各界廣泛關注。甘孜州政府將嚴格按照省級調查指導組的要求，針對文化和旅遊部提出的整改意見，及社會關注的主要問題，逐項核查、逐條整改，主動接受社會公眾和媒體監督，切實維護四川旅遊市場秩序。（新華社）"
+    },
+    {
+      "id": "4905816",
+      "time": "2026-05-29 09:15:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨日盤開盤漲0.61%，報24996.84點，低水9.32點。"
+    },
+    {
+      "id": "4905815",
+      "time": "2026-05-29 09:14:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【聯想在天津投建新一代AI算力研發製造中心】據天津日報，日前，聯想集團與天津市政府簽署建設新一代AI（人工智慧）基礎設施協議。根據協議，聯想集團將在聯想（天津）智慧創新服務產業園內投資建設新一代AI算力產品研發製造中心，搶佔產業競爭制高點。新產線計劃於2027年金秋量產。"
+    },
+    {
+      "id": "mkt:019e714b-f289-7ee0-99df-768c2b1f86cd",
+      "time": "2026-05-29 09:14:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【CCPIT urges Zhongkuang Resources to join national supply‑chain expo, offers legal support for international expansion】May 27 — China Council for the Promotion of International Trade (CCPIT) delegation led by Ren Hongbin visited Zhongkuang Resources Group and offered CCPIT support for the company’s internationalisation. CCPIT said it will deploy its commercial legal‑service system and the China International Supply Chain Expo — the national-level supply‑chain trade fair — to help firms expand international cooperation and integrate into global industrial and supply chains, and encouraged Zhongkuang Resources to participate."
+    },
+    {
+      "id": "4905814",
+      "time": "2026-05-29 09:14:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐西蘭元上漲0.32%，報0.59535美元，創5月13日以來新高。"
+    },
+    {
+      "id": "mkt:019e714b-9cf3-7ee0-99df-68ee77f13cea",
+      "time": "2026-05-29 09:14:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Precious metals futures front-month contracts rose across the board: Shanghai silver extended gains to 3.01% at 18,483 yuan/kg, Shanghai gold climbed over 2.0% to 987.76 yuan/g. Platinum futures gained nearly 2%, palladium rose more than 1%."
+    },
+    {
+      "id": "4905813",
+      "time": "2026-05-29 09:13:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國貿促會會長任鴻斌一行到訪中礦資源集團】據中礦資源訊息，5月27日下午，中國貿促會會長任鴻斌一行到訪中礦資源集團總部。任鴻斌指出，中國貿促會作為聯通政企、融通內外、暢通供需的重要平臺，將充分發揮自身優勢，依託商事法律服務（商法）體系，為企業國際化發展提供支援；藉助中國國際供應鏈促進博覽會（鏈博會）這一全球首個以供應鏈為主題的國家級展會，助力企業拓展國際合作渠道、融入全球產業鏈、供應鏈，鼓勵中礦資源積極參與鏈博會，共享發展機遇。此次到訪座談，進一步密切了政企聯絡，為中礦資源藉助貿促平臺優勢、深化國際合作、拓展發展空間奠定了堅實基礎。"
+    },
+    {
+      "id": "4905812",
+      "time": "2026-05-29 09:13:36",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【摩根大通基於盈利增長前景下調茅臺、五糧液評級】摩根大通將中國白酒製造商貴州茅臺的評級從“增持”下調至“中性”，理由是其盈利低於預期，且缺乏2026財年的業績指引。分析師Jessie Xu表示，由於五糧液進行了重大會計重述，削弱了投資者信任，並引發了對盈利質量和渠道庫存可持續性的質疑，該券商將五糧液的評級從“中性”下調至“減持”。摩根大通將貴州茅臺目標價由1930元下調至1420元；五糧液目標價由130元下調至74元；將瀘州老窖評級同樣從增持下調至中性，目標價由155元下調至105元。儘管如此，摩根大通認為該行業復甦指日可待，並已出現企穩的早期跡象；但預計復甦過程將更為緩慢。"
+    },
+    {
+      "id": "4905811",
+      "time": "2026-05-29 09:12:59",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【國泰君安期貨：近期鉑鈀單邊價格受黃金白銀價格牽引較多】昨日鉑鈀跟隨黃金白銀給到了不小的回撤，鉑金日中測試周度級別框定的區間下沿1880美元/盎司。同時昨日為廣期所鉑鈀06合約交割前倒數第二個交易日，市場出現集中移倉換月與反向平倉，PT2606、PD2606單日持倉分別減少1209手、648手，內外盤價差倒掛進一步加劇，鉑金內盤折價外盤10元/克，鈀金倒掛超20元/克，同時跨期無風險套利視窗再度走闊，結合我們昨日釋出的鉑鈀交割前專題報告裡對於跨期策略成本的詳細測算，鈀金套利空間達4元/克、鉑金3元/克。短期資金以調倉和套利為主，單邊行情不論是向上或是向下都缺乏明確的驅動路徑，故近期單邊價格受黃金白銀價格牽引較多。結合技術形態來看，周度與月度維度鉑鈀整體維持震盪偏弱走勢，鉑金短期支撐依然看向1880美元/盎司，強支撐1800美元/盎司，上方短期若未突破阻力1980美元/盎司(MA5）行情很難擺脫陰霾；鈀金短期支撐位於1320美元/盎司，下檔強支撐1250-1280美元/盎司，上方短期阻力1380美元/盎司，中期阻力1430美元/盎司，鈀金在技術面維度更弱，下行壓力大於鉑金，疊加內盤鈀金廣期所庫存充裕，將持續壓制鈀金價格。故我們強調鉑鈀比價在季度級別仍有配置價值，關注進場點位的擇時。（國泰君安期貨）"
+    },
+    {
+      "id": "4905810",
+      "time": "2026-05-29 09:10:46",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4510美元/盎司，日內漲0.33%。"
+    },
+    {
+      "id": "4905809",
+      "time": "2026-05-29 09:10:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4540美元/盎司，日內漲0.17%。"
+    },
+    {
+      "id": "mkt:019e7147-d046-7ee0-99df-6759fb680c4d",
+      "time": "2026-05-29 09:09:51",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Local authorities said drones struck the Izmail port area in Ukraine's Odesa region."
+    },
+    {
+      "id": "te:economy:554664",
+      "time": "2026-05-29 09:09:45",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Philippines",
+        "Producer Prices Change",
+        "Importance 1"
+      ],
+      "text": "Philippines Producer Inflation Eases Slightly in April — Producer prices in the Philippines rose by 2.4% year-on-year in April 2026, easing slightly from an upwardly revised 2.6% increase in March, which marked the highest reading in three years. Price growth slowed for coke and refined petroleum products (5.3% vs 8.2% in March), which accounted for 62.7% of the annual growth in manufacturing PPI during the month. Downward pressure also came from a slowdown in prices of computer, electronic, and optical products (4.3% vs 4.9%) and basic metals (3.8% vs 4.9%). On a monthly basis, producer prices edged down by 0.1%, after an upwardly revised 1.2% rise in the previous month."
+    },
+    {
+      "id": "mkt:019e7147-a924-7ee0-99df-5c14de47b39d",
+      "time": "2026-05-29 09:09:41",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "RBNZ governor Breman said the official cash rate may be raised sooner and by more than previously signalled."
+    },
+    {
+      "id": "mkt:019e7147-a8d2-7ee0-99df-54d8d631818c",
+      "time": "2026-05-29 09:09:39",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tencent",
+        "Market Themes",
+        "China Tech Giants",
+        "0700.HK"
+      ],
+      "text": "【Tencent takes stake in brain–computer interface and neurobio‑chip developer Nuanxin Jia】Corporate filings show Hangzhou Nuanxin Jia Electronic Technology Co. recently added Shanghai Qishan Investment Co., a Tencent unit, and other investors as shareholders and raised registered capital to 16.8853 mln yuan. Founded in 2014, the firm’s licensed scope includes integrated circuit design, electronic and biomedical device tech development and services; public records identify its core business as R&D, manufacturing and sales of brain‑computer interfaces and neurobiological chips."
+    },
+    {
+      "id": "4905808",
+      "time": "2026-05-29 09:09:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內漲3%，現報18483.00元。"
+    },
+    {
+      "id": "mkt:019e7147-5969-7ee0-99df-4932671e2c0f",
+      "time": "2026-05-29 09:09:19",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "RBNZ chair Breman said expectations of higher costs could keep inf elevated."
+    },
+    {
+      "id": "4905807",
+      "time": "2026-05-29 09:09:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【騰訊入股腦機介面與神經生物晶片研發商暖芯迦】企查查APP顯示，近日，杭州暖芯迦電子科技有限公司發生工商變更，新增騰訊旗下上海啟善投資有限公司等為股東，同時註冊資本增至1688.53萬元。企查查資訊顯示，該公司成立於2014年，經營範圍包含：積體電路設計開發，電子產品、生物醫療裝置的技術開發、技術服務和諮詢等。公開資訊顯示，該公司專注於腦機介面以及神經生物晶片研發、生產與銷售。"
+    },
+    {
+      "id": "mkt:019e7147-02ac-7ee0-99df-437d479e0f7b",
+      "time": "2026-05-29 09:08:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Romanian Defence Ministry says drones have caused subsequent fires."
+    },
+    {
+      "id": "4905806",
+      "time": "2026-05-29 09:08:56",
+      "tags": [
+        "資料"
+      ],
+      "text": "紐西蘭儲備銀行行長佈雷曼：官方現金利率（OCR）上調時點很可能早於此前指引，上調幅度也將更大。"
+    },
+    {
+      "id": "4905805",
+      "time": "2026-05-29 09:08:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐西蘭儲備銀行行長佈雷曼：成本上行預期或令通脹持續居高不下。"
+    },
+    {
+      "id": "mkt:019e7146-a840-7ee0-99df-3ecb8a08a691",
+      "time": "2026-05-29 09:08:36",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "RBNZ chair Breman said New Zealand and its trading partners could see slower growth and short-term upward pressure on inf from the Middle East conflict."
+    },
+    {
+      "id": "4905804",
+      "time": "2026-05-29 09:08:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "羅馬尼亞國防部：無人機撞擊引發火災。"
+    },
+    {
+      "id": "mkt:019e7146-7931-7ee0-99df-33cdb59f7d6e",
+      "time": "2026-05-29 09:08:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Brent"
+      ],
+      "text": "Romanian Defence Ministry said a Russian drone entered Romanian airspace over the Galați region and crashed onto the roof of an apartment building."
+    },
+    {
+      "id": "4905803",
+      "time": "2026-05-29 09:08:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中東地區漁業、農業及水環境部代表團到威勝資訊考察交流】據威勝資訊訊息，近日，中東地區漁業、農業及水環境部代表團一行到威勝資訊考察交流，雙方就漁業監管技術升級、產品落地及平臺最佳化達成多項重要共識，成功落地國家級漁船衛星監測系統專案。"
+    },
+    {
+      "id": "4905802",
+      "time": "2026-05-29 09:07:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "羅馬尼亞國防部：一架俄羅斯無人機進入羅馬尼亞加拉茨地區領空，墜毀在一棟公寓樓的樓頂。"
+    },
+    {
+      "id": "mkt:019e7145-d403-7ee0-99df-2fc963a90c11",
+      "time": "2026-05-29 09:07:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBNZ Governor Breman said the global economic backdrop remains uncertain, with supply-chain disruptions and higher input costs weighing on the outlook."
+    },
     {
       "id": "4905801",
       "time": "2026-05-29 09:07:06",
@@ -138310,332 +138896,6 @@
         "市場"
       ],
       "text": "【量子科技概念股高開，格爾軟體漲停價開盤】量子科技概念股高開，格爾軟體漲停價開盤。科大國創漲超13%，神州資訊、國盾量子、富士達紛紛高開。"
-    },
-    {
-      "id": "4893870",
-      "time": "2026-05-22 09:26:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "川崎重工確認在物理人工智慧領域與英偉達合作的訊息。"
-    },
-    {
-      "id": "mkt:019e4d49-e3e8-7aa1-9582-9ce24154ffc7",
-      "time": "2026-05-22 09:25:48",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Hot",
-        "Market Regions",
-        "Greater China",
-        "Policy",
-        "Chinese Policy & Markets",
-        "SSE Composite",
-        "Impact bullish",
-        "SZSE Component",
-        "CSI300"
-      ],
-      "text": "CHINA'S THREE MAIN STOCK INDEXES OPEN HIGHER; SHANGHAI COMPOSITE UP 0.46%, SHENZHEN COMPOSITE UP 0.89%, CHINEXT UP 1.2%"
-    },
-    {
-      "id": "4893869",
-      "time": "2026-05-22 09:25:11",
-      "tags": [
-        "焦點",
-        "A股"
-      ],
-      "text": "三大股指高開，滬指漲0.46％，深成指漲0.89％，創業板漲1.2％。"
-    },
-    {
-      "id": "4893868",
-      "time": "2026-05-22 09:24:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "【塔牌集團：高分紅情況預計可以持續】5月21日，塔牌集團在接待機構調研時表示，今年4月底，公司已實施2025年年度分紅方案，每10股派發現金紅利4.80元（含稅），分紅比例高達89%，回應了廣大投資者對長期穩定回報的關切。我們的分紅規劃（2024-2026年）今年到期，結合當前經營形勢及公司未來資本開支不大等情況，預計後續仍會繼續推出類似有吸引力的分紅規劃。適當提高分紅比例可以提高公司股票的股息率，增強公司股票吸引力，吸引耐心資本持股，基於公司資本開支不大、現金流充裕等情況以及當前監管對現金分紅要求趨嚴，不僅關注分紅比例，還要求提高分紅頻次，未來可能需增加中期分紅，高分紅情況預計可以持續。"
-    },
-    {
-      "id": "4893867",
-      "time": "2026-05-22 09:23:28",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "三星電子韓國工會將就薪酬協議啟動投票，投票將持續到當地時間5月27日上午10點。"
-    },
-    {
-      "id": "mkt:019e4d47-1b35-7aa1-9582-94976977e093",
-      "time": "2026-05-22 09:22:46",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "981.HK",
-        "Impact bullish"
-      ],
-      "text": "SMIC HK SHARES OPEN UP 3.6% AFTER CSRC APPROVES SHARE-ISSUE ASSET ACQUISITION PLAN"
-    },
-    {
-      "id": "mkt:019e4d46-708e-7aa1-9582-8936117fdba2",
-      "time": "2026-05-22 09:22:02",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bullish",
-        "NTES.HK",
-        "0992.HK"
-      ],
-      "text": "HANG SENG INDEX OPENS UP 1.01%, TECH INDEX RISES 1.57% HONG KONG SHARES OF NETEASE SET TO OPEN UP 3.5% SHAERS OF LENOVO SET TO OPEN UP 4.9%"
-    },
-    {
-      "id": "4893866",
-      "time": "2026-05-22 09:22:01",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "央行公開市場今日淨投放1,525.0億元人民幣。"
-    },
-    {
-      "id": "em:qqyh_zgyh:202605223746115612",
-      "time": "2026-05-22 09:21:53",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "央行今日開展1530億元7天逆回購操作，操作利率為1.40%，與此前持平。"
-    },
-    {
-      "id": "4893865",
-      "time": "2026-05-22 09:21:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄外交部：伊朗擁有和平發展核能的固有權利】俄羅斯外交部發言人扎哈羅娃21日表示，伊朗擁有依據《不擴散核武器條約》和平發展核能的固有權利，如何在鈾濃縮和處理現有核材料等方面行使這一權利，只能由伊朗人民決定。據俄外交部網站訊息，扎哈羅娃當天在例行記者會上說，俄羅斯願向伊朗和美國提供必要支援，以落實其在談判中可能達成的解決方案。俄方相信，伊核問題只能依據國際法，在對伊朗合法權益予以應有考量的情況下，透過政治和外交途徑解決。扎哈羅娃說，軍事打擊伊朗違反國際法和國際關係基本準則，嚴重破壞中東地區穩定，並對國際諸多領域產生極為負面的影響。她表示，衝突各方須儘快恢復對話和談判以防衝突區域擴大，國際社會應保持客觀公正立場，推動緊張局勢降級，共同維護國際關係基本準則。"
-    },
-    {
-      "id": "4893864",
-      "time": "2026-05-22 09:21:25",
-      "tags": [
-        "焦點"
-      ],
-      "text": "港股恒指高開漲1.01％，國企指數漲1.01％，科指開漲1.57%。"
-    },
-    {
-      "id": "mkt:019e4d45-cadb-7aa1-9582-847dcf5f5448",
-      "time": "2026-05-22 09:21:19",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "CNH",
-        "Impact bullish",
-        "CSI300",
-        "Hang Seng Index"
-      ],
-      "text": "CHINA C.BANK INJECTS 153 BLN YUAN VIA 7-DAY REVERSE REPOS AT 1.40% VS PRIOR 1.40% - STATEMENT"
-    },
-    {
-      "id": "4893863",
-      "time": "2026-05-22 09:21:14",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "央行進行 1,530 億元 7 天期逆回購操作 操作利率 1.4%。"
-    },
-    {
-      "id": "mkt:019e4d45-6471-7aa1-9582-79c8e79bba24",
-      "time": "2026-05-22 09:20:53",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bullish"
-      ],
-      "text": "SHARES OF TENNOR THERAPEUTICS SET TO OPEN AT HK$150 EACH IN HONG KONG DEBUT VS OFFER PRICE OF HK$75.70 APIECE"
-    },
-    {
-      "id": "4893862",
-      "time": "2026-05-22 09:18:18",
-      "tags": [
-        "市場"
-      ],
-      "text": "【酒價內參5月22日價格釋出：洋河夢之藍M6+領跌 總價回落至近九日低位】新浪財經“酒價內參”過去24小時收集的資料顯示，中國白酒市場主要大單品的終端零售均價5月22日整體繼續下行。如果主要單品各取一瓶整體打包售賣，今日總售價為9957元，較昨日下跌11元，創下近九天以來最低。市場在跌破萬元關口後延續整理態勢，終端交投情緒偏冷，核心單品漲跌分化依然顯著。今日白酒市場11大單品三漲七跌一平，輸家佔據絕對優勢。上漲方面，青花郎漲幅居前，上漲5元/瓶，重返710元關口，平月內最高價紀錄；五糧液普五八代上漲2元/瓶；五糧液1618小幅上漲1元/瓶。下跌方面，洋河夢之藍M6+跌幅居前，下跌6元/瓶，回吐前一日全部漲幅；國窖1573下跌4元/瓶，連續四日回落，價格進一步遠離900元關口，回撥至月內低位；飛天茅臺、精品茅臺、古井貢古20與水晶劍南春均下跌2元/瓶；古20遭遇四連陰，價格下探至月內新低；水晶劍南春平近一個月最低價紀錄；習酒君品小幅下跌1元/瓶，價格再度回落至月內次低位。青花汾20的價格環比保持不變，平月內最低價紀錄。"
-    },
-    {
-      "id": "4893861",
-      "time": "2026-05-22 09:18:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "【民爆光電等成立超硬塗層科技公司】企查查APP顯示，近日，廈門市伊戈爾超硬塗層科技有限公司成立，經營範圍包含金屬表面處理及熱處理加工；磁性材料生產；機械裝置銷售；金屬工具銷售等。企查查股權穿透顯示，該公司由民爆光電等共同持股。"
-    },
-    {
-      "id": "4893860",
-      "time": "2026-05-22 09:18:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華綠生物：南川二期專案已經實現投產，目前處於產能爬坡階段】華綠生物5月22日在互動平臺表示，南川二期專案已經實現投產，目前處於產能爬坡階段。"
-    },
-    {
-      "id": "4893859",
-      "time": "2026-05-22 09:17:26",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內漲2%，現報98.30美元/桶。"
-    },
-    {
-      "id": "mkt:019e4d41-8923-7aa1-9582-767a7880a698",
-      "time": "2026-05-22 09:16:40",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bullish"
-      ],
-      "text": "HANG SENG INDEX FUTURES OPEN UP 0.89% AT 25,615"
-    },
-    {
-      "id": "4893858",
-      "time": "2026-05-22 09:16:34",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "瓶片連續主力合約日內跌4%，現報8012.00元。"
-    },
-    {
-      "id": "4893857",
-      "time": "2026-05-22 09:15:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "【印尼北蘇拉威西省附近海域發生5.8級地震】據印尼氣象、氣候和地球物理局釋出的報告，當地時間5月22日8時05分，印尼北蘇拉威西省東南124公里海域發生5.8級地震，震源深度26公里。預計不會有海嘯風險。"
-    },
-    {
-      "id": "mkt:019e4d40-a491-7aa1-9582-6bf762cffc8a",
-      "time": "2026-05-22 09:15:42",
-      "tags": [
-        "MKT News",
-        "CNH",
-        "Impact bearish"
-      ],
-      "text": "PBOC SETS MIDPOINT FOR USD/CNY AT 6.8373, UP 24 PIPS"
-    },
-    {
-      "id": "4893856",
-      "time": "2026-05-22 09:15:29",
-      "tags": [
-        "市場"
-      ],
-      "text": "【人民幣兌美元中間價報6.8373，較上日調低24點】人民幣兌美元中間價報6.8373，較上日調低24點。"
-    },
-    {
-      "id": "4893855",
-      "time": "2026-05-22 09:15:23",
-      "tags": [
-        "市場"
-      ],
-      "text": "人民幣兌美元中間價報6.8373元。"
-    },
-    {
-      "id": "4893854",
-      "time": "2026-05-22 09:15:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒指期貨日盤開盤漲0.90%，報25497.06點，高水110.54點。"
-    },
-    {
-      "id": "4893853",
-      "time": "2026-05-22 09:14:52",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【兩部門： 健全資源環境要素市場化配置體系  推進碳排放權、用水權、排汙權、碳匯權益等市場化交易】國家發展改革委、財政部印發《推進生態綜合補償實施方案》，方案提出，健全資源環境要素市場化配置體系。健全自然資源資產產權制度，推廣應用數智化技術，推動統一確權登記。推進碳排放權、用水權、排汙權、碳匯權益等市場化交易。引導金融機構在依法合規、風險可控、商業可持續的前提下，開發與資源環境要素相關的綠色信貸、綠色保險、綠色債券等金融產品和服務，按照市場化法治化原則為符合條件的各類生態產業專案提供融資支援。"
-    },
-    {
-      "id": "4893852",
-      "time": "2026-05-22 09:14:01",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【兩部門：培育壯大生態產業經營主體 集中培育一批知名度高的生態產業品牌】國家發展改革委、財政部印發《推進生態綜合補償實施方案》，方案提出，培育壯大生態產業經營主體。支援發展就業容量大的生態產業，壯大一批縣域支柱性生態產業相關企業。實施生態品牌精品培育計劃，集中培育一批知名度高的生態產業品牌，提升企業產品設計、品牌營銷水平，帶動本地區生態資源整體性利用、規模化經營。鼓勵高校畢業生回鄉創業、創客等在鄉村生活就業，充實生態產業人才儲備。引導企業、農民合作社、家庭農場與農戶等緊密合作，強化保底分紅、入股參股、服務帶動，讓農民更多分享產業增值收益。"
-    },
-    {
-      "id": "4893851",
-      "time": "2026-05-22 09:13:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【粵萬年青、宏景科技成立智算科技公司】企查查APP顯示，近日，萬宏智算（深圳）科技有限公司成立，註冊資本5000萬元，經營範圍包含雲端計算裝備技術服務；雲端計算裝置銷售；人工智慧行業應用系統整合服務等。企查查股權穿透顯示，該公司由粵萬年青、宏景科技旗下廣州位元縱橫數字科技有限公司共同持股。"
-    },
-    {
-      "id": "4893850",
-      "time": "2026-05-22 09:11:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國能建董事長倪真與國家電網董事長張智剛會談】5月21日，中國能建黨委書記、董事長倪真在京與國家電網董事長、黨組書記張智剛會談。雙方就共同踐行能源強國戰略，加快建設新型電力系統和新型能源體系，推動能源電力行業高質量發展進行深入交流，並達成廣泛共識。"
-    },
-    {
-      "id": "4893849",
-      "time": "2026-05-22 09:10:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "【香港財政司長展開瑞士訪問行程稱：歡迎金融機構及家族辦公室擴大在港投資】香港財政司司長陳茂波抵達瑞士蘇黎世，展開訪問行程。陳茂波與多家銀行、資產管理機構及家族辦公室舉行圓桌會議，介紹香港及粵港澳大灣區在金融、創新、貿易及先進製造業等領域的優勢與發展新機遇。他歡迎瑞士金融機構及家族辦公室擴大在港投資及業務規模，將更多資產配置於香港和內地市場。"
-    },
-    {
-      "id": "mkt:019e4d3b-1a64-7aa1-9582-62d94db33818",
-      "time": "2026-05-22 09:09:39",
-      "tags": [
-        "MKT News",
-        "Commodities"
-      ],
-      "text": "CHINA ZHENGZHOU COMMODITY EXCHANGE OPENS POLYESTER FUTURES, OPTIONS TO OVERSEAS TRADERS"
-    },
-    {
-      "id": "4893848",
-      "time": "2026-05-22 09:09:26",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油突破105美元/桶，日內漲2.36%。"
-    },
-    {
-      "id": "4893847",
-      "time": "2026-05-22 09:09:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【杭州掛牌兩宗涉宅用地，起始總價約23.1億元】5月22日，杭州市規劃和自然資源局釋出杭州市國有建設用地使用權掛牌出讓公告，將採用掛牌方式出讓兩宗地塊，起始總價23.1382億元，地塊用途均為住宅（設配套公建）用地，將於2026年6月13日正式掛牌出讓。此次出讓的兩宗地塊分別位於蕭山區和餘杭區，地塊實行自由競價，按照價高者得的原則確定競得人。"
-    },
-    {
-      "id": "4893846",
-      "time": "2026-05-22 09:08:49",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "【中金財富期貨：油價並未失控顯著減輕了黃金市場的壓力】中金財富期貨觀點稱，美以伊衝突以來，霍爾木茲海峽受阻、通脹承壓，油市卻未失控。市場對布倫特原油未來12個月均價預計鎖定在81至100美元區間，因為需求破壞充當“天然減震器”，市場正從追逐上行轉向管理波動。油價並未失控顯著減輕了黃金市場的壓力，目前黃金依然跟隨美股波動，也受油價影響，無趨勢性行情。"
-    },
-    {
-      "id": "4893845",
-      "time": "2026-05-22 09:08:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【高樂股份成立智辰科技公司 含AI及半導體相關業務】企查查APP顯示，近日，哈爾濱智辰科技有限公司成立，經營範圍包含人工智慧基礎軟體開發；軟體銷售；半導體分立器件銷售；積體電路銷售；光電子器件銷售等。企查查股權穿透顯示，該公司由高樂股份全資持股。"
     }
   ]
 }
