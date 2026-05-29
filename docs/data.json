@@ -1,7 +1,88 @@
 {
-  "updated": "2026-05-29 15:21:52",
-  "count": 15592,
+  "updated": "2026-05-29 15:25:44",
+  "count": 15584,
   "items": [
+    {
+      "id": "4906425",
+      "time": "2026-05-29 15:24:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山皋月：與OpenAI首席戰略官舉行了會面。"
+    },
+    {
+      "id": "4906424",
+      "time": "2026-05-29 15:24:30",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "【英國國債收益率小幅走高，隨著美伊和平協議仍存不確定性】在對中東衝突潛在解決方案的謹慎樂觀與持續不確定性交織之際，英國國債收益率小幅走高。美國財政部長斯科特·貝森特週四對記者表示，美國和伊朗接近達成一項協議。然而，總統特朗普尚未簽字批准，且任何協議都必須滿足關鍵條件。Tradeweb資料顯示，週四晚間有關達成協議的報道推動10年期英國國債收益率降至五個多星期以來的最低水平4.791%。德意志銀行分析師表示，英國國債表現優於其他國債，因為自中東戰爭爆發以來，英國國債最容易受到波動的影響。10年期英國國債收益率上升0.6個基點，至4.822%。"
+    },
+    {
+      "id": "4906423",
+      "time": "2026-05-29 15:23:50",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數轉跌，此前一度漲超1.8%。"
+    },
+    {
+      "id": "4906422",
+      "time": "2026-05-29 15:23:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【河南低保老人“被貸款”20萬元，當地通報：成立聯合調查組】河南南陽唐河縣聯合調查組5月29日通報：近日，針對媒體反映唐河縣少拜寺鎮有群眾名下出現不明貸款記錄的問題。我縣迅速成立由縣紀委監委、縣人民法院、縣公安局、唐河金融監管支局等單位組成的聯合調查組，全面開展核查工作。聯合調查組將徹查問題原委，依法依規釐清責任，對查實的違規違紀違法行為嚴肅追責問責，切實維護群眾合法權益。後續調查處理結果將及時向社會公佈。"
+    },
+    {
+      "id": "mkt:019e729d-350e-7aa7-a782-c561934d416e",
+      "time": "2026-05-29 15:22:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "magyar said Hungary has expressed support for Romania after a Russian drone attack and that European and NATO unity is more important than ever."
+    },
+    {
+      "id": "4906421",
+      "time": "2026-05-29 15:22:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "匈牙利總理：歐洲與北約的團結在當下比以往任何時候都更為重要。"
+    },
+    {
+      "id": "te:economy:554820",
+      "time": "2026-05-29 15:22:21",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Czech Republic",
+        "GDP Growth Rate",
+        "Importance 1"
+      ],
+      "text": "Czech GDP Grows 0.2% in Q1 2026 — The Czech Republic’s gross domestic product grew by 0.2% quarter-on-quarter in the first quarter of 2026, easing from a 0.7% expansion in Q4 2025 and matching preliminary estimates, according to second estimates. The slowdown was primarily driven by domestic demand, with household consumption slowing to 0.6% from 1.2%, government spending declining 0.3% after stagnating, and gross fixed capital formation easing to 2% from 2.8%. Meanwhile, growth was supported by the trade, transportation, accommodation, and catering sector (+0.4%), finance and insurance (+4.3%), and professional, scientific, technical, and administrative activities (+0.9%). Construction (+0.2%) and real estate activities (+0.4%) also performed well."
+    },
+    {
+      "id": "4906420",
+      "time": "2026-05-29 15:21:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "匈牙利總理表示，在俄羅斯發動無人機襲擊後，匈牙利對羅馬尼亞表達聲援。"
+    },
+    {
+      "id": "mkt:019e729c-4013-7aa7-a782-baa3f9ee48a4",
+      "time": "2026-05-29 15:21:42",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Central China energy regulator convenes meeting on supporting power-source construction for Yahu and Jinyong HVDC projects】Central China Energy Regulatory Bureau and the Sichuan Energy Regulatory Office jointly convened a meeting on construction of supporting power sources for the Yahu and Jinyong HVDC transmission projects. Sichuan Provincial Energy Bureau and hydropower developers Yalong River Basin Hydropower Development Co. and Huadian Jinsha River Upper Hydropower Development Co. attended. The meeting said the Yahu and Jinyong DC projects are key components of the national West‑to‑East electricity transmission strategy and important for optimizing national power flows and enhancing cross‑regional dispatch capacity. Participants were instructed to coordinate and accelerate construction of supporting generation: power producers must assume primary responsibility for project delivery; industry authorities must strengthen overall coordination and secure necessary inputs; regulators must set up tracking and supervision mechanisms and implement requirements from the national power‑flow optimization layout promotion meeting."
+    },
     {
       "id": "4906419",
       "time": "2026-05-29 15:21:08",
@@ -140635,155 +140716,6 @@
         "其他"
       ],
       "text": "【大和：古茗目標價下降至32港元 重申“買入”評級】大和釋出研報稱，古茗（01364）股價在第二季至今累跌約18%，主要受兩大因素影響，一是補貼戰高基期下同店銷售增長放緩的憂慮，二是新店開業速度低於預期。該行下調2026至28年每股盈利預測4%至5%，並將目標價由36港元下調至32港元，重申“買入”評級。根據“窄門餐眼”資料，古茗今年前四個月新開590家門店，開店速度明顯慢於市場預期的2026年淨增3345家。"
-    },
-    {
-      "id": "mkt:019e4e93-53b9-7cc0-a022-bbdf8332d869",
-      "time": "2026-05-22 15:25:38",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Chinese Regulators Scrutinize Companies and Funds Amid AI-Fueled Market Frenzy】The Shanghai and Shenzhen stock exchanges, alongside Chinese regulators, have launched a scrutiny campaign into recent stock rallies driven by artificial intelligence optimism. Regulators have ordered several listed companies to clarify their actual business links to AI and ensure clear investor disclosure, while also asking ETF and fund managers with heavy AI exposure to justify their valuation methodologies and risk management plans. The regulatory clampdown follows a massive trading frenzy that pushed the tech-heavy Star 50 Index to a record high, lifting companies with little to no AI connection. State media has similarly warned against the \"hidden risks\" of inflated valuations and AI meme stocks, prompting more than 20 firms—including winemaker Wei Long Grape Wine Co.—to issue formal clarification statements to cool the retail-buying frenzy."
-    },
-    {
-      "id": "4894455",
-      "time": "2026-05-22 15:25:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【海通國際：古茗目標價上升至31.7港元 維持“優於大市”評級】海通國際釋出研報稱，古茗（01364）近期舉辦了2026夥伴大會，認為公司短期高基數壓力正逐步顯現，但中長期增長思路明確，路徑清晰，拓展空間仍大。維持公司2026年20倍PE估值，對應合理目標市值736億港元，目標價由30.8港元升至31.7港元，維持“優於大市”評級。"
-    },
-    {
-      "id": "4894454",
-      "time": "2026-05-22 15:25:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "【優刻得與貴州移動達成戰略合作】記者獲悉，優刻得與中國行動通訊集團貴州有限公司（簡稱“貴州移動”）正式簽署戰略合作協議。雙方將圍繞通訊服務、智算中心建設、Token工廠、雲網融合、信創雲底座、政務雲及行業數字化等方向展開深度合作，共同推動貴州數字經濟高質量發展。"
-    },
-    {
-      "id": "4894453",
-      "time": "2026-05-22 15:24:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國銀河證券：維持嗶哩嗶哩-W“推薦”評級 關注年內新游上線進度】中國銀河證券釋出研報稱，預計嗶哩嗶哩-W(09626)後續毛利率和調整後淨利率仍有增長空間，考慮到公司2026年將部分增量利潤用於AI投入，據此預計公司2026-2028年經調整後淨利潤分別為30.72/ 33.89/ 38.04億元，對應PE分別為19x/17x/15x，維持“推薦”評級。"
-    },
-    {
-      "id": "mkt:019e4e92-2e5a-7cc0-a022-b173471ce07a",
-      "time": "2026-05-22 15:24:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CORRECTED-CHINA FOREIGN MINISTRY: FOREIGN MINISTER WANG YI WILL CHAIR UNSC MEETING IN NEW YORK ON MAY 26 (NOT MAY 28)"
-    },
-    {
-      "id": "4894450",
-      "time": "2026-05-22 15:24:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "【財通證券：快遞業反內卷持續 各品牌單票收入明顯增長】財通證券釋出研報稱，在快遞行業反內卷的持續推進下，快遞公司業績有望修復，建議關注估值底部，A股龍頭圓通速遞(600233.SH)，港股龍頭中通快遞-W(02057)，以及反內卷高彈性的申通快遞(002468.SZ)及韻達股份(002120.SZ)。鑑於快遞行業多條主線均存在佈局機會，維持快遞行業“看好”評級。"
-    },
-    {
-      "id": "4894449",
-      "time": "2026-05-22 15:23:32",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【摩根士丹利：亞洲的資本支出與工業超級週期將繼續提振非科技類出口】摩根士丹利在近日釋出的一份亞洲經濟報告中指出，過去六個月，亞洲非科技類出口的顯著增長在很大程度上未受到關注。預計非科技類出口的強勁勢頭將持續，這將有助於推動亞洲的復甦從出口擴充套件到資本支出，進而延伸至消費領域。"
-    },
-    {
-      "id": "4894448",
-      "time": "2026-05-22 15:23:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "波蘭外交部長西科爾斯基：美軍部署細節尚未公佈。"
-    },
-    {
-      "id": "mkt:019e4e91-339b-7cc0-a022-aacaf07ed1cf",
-      "time": "2026-05-22 15:23:17",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "POLISH FOREIGN MINISTER SIKORSKI: DETAILS OF US TROOP DEPLOYMENT NOT YET KNOWN"
-    },
-    {
-      "id": "mkt:019e4e91-247e-7cc0-a022-a66ab8e00809",
-      "time": "2026-05-22 15:23:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UKMTO SAYS VESSEL FIRED WARNING SHOTS AT THE SMALL CRAFT WHICH FORCED THEM TO ALTER COURSE"
-    },
-    {
-      "id": "4894447",
-      "time": "2026-05-22 15:23:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國海上貿易組織稱，涉事船隻證實遭一艘載有五人的小型船隻靠近。"
-    },
-    {
-      "id": "4894446",
-      "time": "2026-05-22 15:22:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國聯合海事貿易辦公室（UKMTO）表示，其收到報告稱，葉門索科特拉島以北98海里處發生一起安全事件。"
-    },
-    {
-      "id": "mkt:019e4e90-9cb8-7cc0-a022-9898182721ed",
-      "time": "2026-05-22 15:22:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UKMTO SAYS VESSEL CONFIRMED IT WAS APPROACHED BY A SMALL CRAFT WITH FIVE PERSONS ONBOARD"
-    },
-    {
-      "id": "mkt:019e4e90-4cd1-7cc0-a022-927ac921494b",
-      "time": "2026-05-22 15:22:20",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "UKMTO SAYS IT RECEIVED A REPORT OF AN INCIDENT 98NM NORTH OF YEMEN'S SOCOTRA"
-    },
-    {
-      "id": "4894445",
-      "time": "2026-05-22 15:22:14",
-      "tags": [
-        "央行",
-        "市場",
-        "國際"
-      ],
-      "text": "【巴克萊：若美元持續走強 亞洲外匯儲備可能下降6700億美元】巴克萊銀行稱，如果美元走強至2022年9月高位，且油價繼續上漲，亞洲外匯儲備可能會下降6700億美元。分析師Mitul Kotecha和Audrey Ong在一份研報中寫道，受影響最大的貨幣將是印度盧比、印尼盾、菲律賓比索和馬來西亞林吉特。該地區外匯儲備相對充足，尚未重拾昔日大舉干預外匯市場的做法。如果美元進一步大幅上漲，情況可能會發生變化；美元每上漲1%會導致亞洲外匯儲備下降0.63%。鑑於上述風險，亞洲央行試圖限制外儲消耗也就不足為奇了，不過它們並未採取大力度措施。除遠期合約/NDF外，一些央行還在利用其他手段捍衛本幣，包括監管措施。“除非霍爾木茲海峽很快完全開放，而油價隨之下跌，否則亞洲貨幣短期內難有喘息之機，這兩者目前看來都遙遙無期”。"
-    },
-    {
-      "id": "te:economy:553009",
-      "time": "2026-05-22 15:22:07",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Turkey",
-        "Balance of Trade",
-        "Importance 1"
-      ],
-      "text": "Turkey Trade Gap Narrows in April — Turkey’s trade deficit narrowed to $8.5 billion in April 2026 from $12.1 billion in the same month last year, confirming preliminary estimates. This marks the smallest trade gap since January, driven by strong export growth that far outpaced the rise in imports. Exports surged 22.3% year-on-year to $25.4 billion, driven by sharp increases in all sectors, particularly manufacturing (22.0%). Germany remained the top export destination (8.3%), followed by the US (6.3%), the UK (5.7%), Italy (5.3%), and Spain (4.1%). Imports rose 3.1% to $33.9 billion due to higher imports of intermediate goods (5.6%) and capital goods (1.6%), which offset a 6.8% drop in consumption goods imports. China remained the largest source of imports (13.2%), followed by Russia (13.0%), Germany (7.0%), the US (5.5%), and Italy (4.0%). In the first four months of the year, the country's trade gap widened to $37.1 billion from $34.6 billion last year, with imports (3.0%) rising more than exports (4.3%)."
-    },
-    {
-      "id": "4894444",
-      "time": "2026-05-22 15:21:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國聯合海事貿易辦公室（UKMTO）表示，其收到報告稱，葉門索科特拉島以北98海里處發生一起安全事件。"
     }
   ]
 }
