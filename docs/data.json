@@ -1,7 +1,47 @@
 {
-  "updated": "2026-05-29 12:53:44",
-  "count": 15479,
+  "updated": "2026-05-29 12:57:36",
+  "count": 15481,
   "items": [
+    {
+      "id": "4906175",
+      "time": "2026-05-29 12:55:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【生態環境部：昆明生物多樣性基金進入全面執行階段】5月29日，生態環境部召開5月例行新聞釋出會，生態環境部自然生態保護司司長張玉軍表示，目前，昆明生物多樣性基金已成立理事會，組建了秘書處和技術諮詢小組，標誌著治理架構和規則制度日趨完善，基金進入全面執行階段。在專案落地方面，已經批准實施了兩批共31個專案，惠及全球45個發展中國家。這些專案不僅為發展中國家生物多樣性保護提供了實質性的幫助，也贏得了國際社會的廣泛讚譽。"
+    },
+    {
+      "id": "mkt:019e7216-45a1-7aad-9010-d708461bcca2",
+      "time": "2026-05-29 12:55:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Romania's foreign ministry called the drone incident a serious and irresponsible provocation by Russia."
+    },
+    {
+      "id": "mkt:019e7216-172a-7aad-9010-c875f12151ac",
+      "time": "2026-05-29 12:55:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Romania's foreign ministry has asked NATO to accelerate delivery of counter-UAV capabilities to Romania."
+    },
+    {
+      "id": "4906174",
+      "time": "2026-05-29 12:54:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏克蘭：俄羅斯隔夜對一艘土耳其船隻發動了無人機襲擊】烏克蘭稱，俄羅斯隔夜對一艘土耳其船隻發動了無人機襲擊。這艘貨船當時懸掛萬那杜國旗，從敖德薩地區駛往土耳其。烏克蘭海軍表示，兩名受傷船員已被烏克蘭海軍撤離，火情已迅速撲滅。"
+    },
+    {
+      "id": "mkt:019e7214-86d0-7aad-9010-c6bbf91fb1a5",
+      "time": "2026-05-29 12:53:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine's navy said two injured sailors were evacuated and the fire was quickly extinguished."
+    },
     {
       "id": "4906173",
       "time": "2026-05-29 12:52:26",
@@ -139497,33 +139537,6 @@
         "國際"
       ],
       "text": "馬來西亞通訊監管機構：新措施要求線上服務供應商設定安全防護機制，限制16歲以下使用者註冊及持有賬戶。"
-    },
-    {
-      "id": "4894204",
-      "time": "2026-05-22 12:57:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "馬來西亞通訊監管機構推出新規，以保障兒童安全並管控線上平臺上的有害內容。"
-    },
-    {
-      "id": "4894203",
-      "time": "2026-05-22 12:57:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美眾議院推遲表決限制特朗普對伊動武法案】美國眾議院共和黨領導層21日決定，推遲表決一項限制總統特朗普對伊朗動武權力的法案，引發民主黨抗議。美媒報道說，共和黨領導層考慮到本黨部分議員缺席，加之個別議員倒戈，可能難以否決民主黨提出的這項法案，因此臨時決定將原定當天的表決推遲到6月舉行。此舉引發民主黨不滿。民主黨眾議員格雷戈裡·米克斯說：“我們毫無疑問已經拿到了足夠票數，他們也知道這一點，所以他們現在是在玩政治遊戲。”共和黨方面則宣稱，推遲投票是為了給當天缺席的議員保留投票機會。美國國會參議院19日表決一項旨在限制特朗普動武權力的法案，要求特朗普結束對伊朗的軍事行動，並在今後對伊朗採取任何軍事行動前必須獲得國會授權。當天的投票結果為50票贊成、47票反對。共和黨參議員中有4人投了贊成票，另有3名共和黨參議員缺席投票。此前，民主黨人已7次在參議院提交旨在限制特朗普在伊朗問題上動武權力的法案。由於共和黨佔據參議院多數席位，法案均未獲得透過。（新華社）"
-    },
-    {
-      "id": "mkt:019e4e0a-661d-7aa1-9585-434bfc8bd185",
-      "time": "2026-05-22 12:56:04",
-      "tags": [
-        "MKT News",
-        "0700.HK",
-        "Impact bullish",
-        "Hang Seng Index"
-      ],
-      "text": "【DeepSeek Pursues AGI and Open-Source Models Over Monetization Amid $10 Billion Funding Round】DeepSeek’s founder Liang Wenfeng has informed potential investors in the startup’s ongoing 70 billion yuan ($10 billion) funding round that the company will prioritize groundbreaking research toward artificial general intelligence (AGI) over short-term commercialization. Liang pledged to maintain the development of open-source models rather than focusing on monetization, contrasting with global peers shifting toward revenue generation. The funding round, which is in its final stages, could value the Chinese AI firm at approximately $45 billion to $50 billion. Prominent potential participants include Tencent Holdings, IDG Capital, Monolith Capital, and Beijing's state-backed National Artificial Intelligence Industry Investment Fund, the latter of which is in talks to invest 10 billion yuan."
     }
   ]
 }
