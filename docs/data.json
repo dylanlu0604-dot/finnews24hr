@@ -1,7 +1,53 @@
 {
-  "updated": "2026-05-29 08:40:11",
-  "count": 15365,
+  "updated": "2026-05-29 08:44:02",
+  "count": 15369,
   "items": [
+    {
+      "id": "4905760",
+      "time": "2026-05-29 08:41:44",
+      "tags": [
+        "資料",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【市場分析：東京通脹放緩料難改變日本央行加息方向】東京核心通脹指標意外跌至四年低位，雖令央行表態陷入兩難，但大機率不會打亂其下月啟動加息的計劃。日本總務省週五資料顯示，5月東京不含生鮮食品的核心CPI同比上漲1.3%，該指標已連續六個月回落。日本央行官員擔憂伊朗局勢會推高物價，這也為其在6月15日至16日的下一輪議息會議上加息提供了空間。據隔夜指數掉期資料，截至週五早盤，交易市場預計此次會議加息機率約為77%。"
+    },
+    {
+      "id": "mkt:019e712d-be00-7ee0-99de-b4f16444cc2d",
+      "time": "2026-05-29 08:41:23",
+      "tags": [
+        "MKT News",
+        "066570.KS",
+        "Impact bullish"
+      ],
+      "text": "LG Electronics shares surged 24%."
+    },
+    {
+      "id": "4905759",
+      "time": "2026-05-29 08:41:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "弘陽服務集團有限公司在香港暫停交易。"
+    },
+    {
+      "id": "mkt:019e712d-8494-7ee0-99de-ad305df4b249",
+      "time": "2026-05-29 08:41:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【USHAKOV says US unlikely to immediately approve Ukraine request for additional air-defence systems and missiles】USHAKOV said on the 28th the United States is unlikely to immediately accede to Ukraine's request for additional air-defence systems and missiles; he added it remains doubtful the US will \"immediately satisfy\" Zelenskiy's weapons request and that Zelenskiy has likely written to Washington several times. Separately, the US State Department on the 21st approved a $108.1m sale of equipment to support operation of Hawk air-defence missile systems."
+    },
+    {
+      "id": "em:jjsj_rbsj:202605293753448813",
+      "time": "2026-05-29 08:41:00",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "【普查顯示日本人口過去五年中減少了2.5%】據日本總務省釋出的人口普查結果，截至2025年10月1日，日本人口約為1.231億，比2020年減少2.5%。人口減少約310萬。東京和沖繩是僅有的兩個人口增長的都道府縣，分別增長了1.4%和0.1%。"
+    },
     {
       "id": "4905758",
       "time": "2026-05-29 08:39:07",
@@ -138440,14 +138486,6 @@
         "觀點"
       ],
       "text": "【摩根大通亞太區投行業務主管：摩根大通在全球投行業務中引入AI工具】摩根大通亞太區投行業務主管週四表示，該行正在其全球投資銀行業務中引入人工智慧(AI)工具，成為業內首批大規模採用該技術的機構之一。全球各大銀行正不斷加大對AI的投入，這一趨勢正在重塑員工結構，並推動崗位職能變化。摩根大通亞太區投行業務主管Paul Uren表示：“我們在全球投行業務中採用AI工具尚處於初期階段，但對相關進展感到振奮。”這家華爾街銀行是少數獲初創公司Anthropic許可，在其受控的“Project Glasswing”專案框架下使用強大網路安全模型Mythos的機構之一。“我們的AI工具使我們能夠獲取更多資訊，並在不依賴內部系統的情況下快速加以整合，”Uren表示，但他並未具體說明正在使用哪些AI工具。"
-    },
-    {
-      "id": "4893807",
-      "time": "2026-05-22 08:43:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本財務大臣片山皋月：日本政府和金融機構將獲准使用“Mythos”。"
     }
   ]
 }
