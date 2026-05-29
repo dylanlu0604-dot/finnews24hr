@@ -1,7 +1,94 @@
 {
-  "updated": "2026-05-29 09:57:30",
-  "count": 15378,
+  "updated": "2026-05-29 10:01:24",
+  "count": 15373,
   "items": [
+    {
+      "id": "4905914",
+      "time": "2026-05-29 10:00:25",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【零售板塊漲幅擴大，步步高漲停】零售板塊漲幅擴大，香江控股5連板，步步高、中央商場、東百集團、茂業商業、寧波中百漲停，德必集團、百大集團、三江購物、中國中免、王府井跟漲。"
+    },
+    {
+      "id": "4905913",
+      "time": "2026-05-29 10:00:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "新加坡4月M1貨幣供應量同比增長9.172%。"
+    },
+    {
+      "id": "mkt:019e7176-0918-7ee0-99e0-b8f1410d4df3",
+      "time": "2026-05-29 10:00:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【China publishes technical standard for procurement intelligent agents】China published a technical standard for procurement intelligent agents (AIIA/T 0299-2026), titled Enterprise Management Software Intelligence Technology and Application Requirements — Part 1: Procurement Intelligent Agent. The spec was jointly led by the China AI Industry Development Alliance (AIIA) Software Intelligence C.BANK, the China Academy of Information and Communications Technology (CAICT) and China Electronics Cloud Computing Technology Co., with drafting participation from Unicom Software Research Institute, iFlytek, Xingyun Digital Technology, China Southern Airlines Digital & Intelligence, Kunlun Bank, China Mobile, China Railway Materials and the China Electric Power Research Institute. The standard seeks to規範 capability building and accelerate deployment of AI agents in bidding and tendering processes."
+    },
+    {
+      "id": "4905912",
+      "time": "2026-05-29 10:00:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "新加坡4月M2貨幣供應量同比增長5.465%。"
+    },
+    {
+      "id": "4905911",
+      "time": "2026-05-29 09:59:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【招採智慧體技術規範正式釋出】為規範招採智慧體的能力建設，加速其在招標投標領域的應用落地，推動該領域健康有序發展，依託中國人工智慧產業發展聯盟（AIIA）軟體智慧化委員會，中國信通院和中電雲端計算技術有限公司聯合牽頭，聯通軟體研究院、科大訊飛、興雲數科、南航數智、崑崙銀行、中國移動、國鐵物資、中國電力科學研究院等各行業頭部企業參與，共同編制的《企業管理軟體智慧化技術和應用要求 第1部分：招採智慧體》（技術規範編號AIIA/T 0299-2026），現正式釋出。"
+    },
+    {
+      "id": "4905910",
+      "time": "2026-05-29 09:59:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國加州州長加文·紐森：在全國範圍內，我們絕對需要對億萬富翁徵收更多稅。"
+    },
+    {
+      "id": "4905909",
+      "time": "2026-05-29 09:58:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "食品、乳業、白酒等消費股集體拉昇，西部牧業大漲12%，酒鬼酒漲超7%，騎士乳業、有友食品、今世緣、歡樂家跟漲。"
+    },
+    {
+      "id": "4905908",
+      "time": "2026-05-29 09:58:27",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【AI營銷概念活躍 天地線上、引力傳媒漲停】AI營銷概念活躍，天地線上漲停，引力傳媒此前漲停，視覺中國、易點天下、藍色游標、元隆雅圖、天龍集團等漲幅居前。"
+    },
+    {
+      "id": "4905907",
+      "time": "2026-05-29 09:58:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美一公寓爆炸起火已致3死5傷】據美國媒體報道，當地時間5月28日下午1點左右，美國得克薩斯州達拉斯市一棟公寓樓發生爆炸並引發大規模火災，目前已造成3人死亡、5人受傷，死者中包括2名成年女性和1名兒童#美國達拉斯一公寓樓爆炸起火# 消防部門稱，搜救工作仍在繼續，不排除死亡人數進一步上升的可能。目前僅完成約35%至40%的廢墟搜尋，救援人員正調集重型機械協助清理現場。"
+    },
+    {
+      "id": "4905906",
+      "time": "2026-05-29 09:57:16",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "券商股集體走強，中信建投大漲9%，錦龍股份、中信證券、廣發證券、國金證券、中原證券跟漲。"
+    },
     {
       "id": "mkt:019e7172-ee88-7ee0-99e0-b7a0a6349545",
       "time": "2026-05-29 09:56:57",
@@ -138455,142 +138542,6 @@
         "其他"
       ],
       "text": "【河南省商丘市人大常委會副主任張團結接受審查調查】中央紀委國家監委網站5月22日通報， 據河南省紀委監委訊息：河南省商丘市人大常委會副主任張團結涉嫌嚴重違紀違法，目前正接受河南省紀委監委紀律審查和監察調查。"
-    },
-    {
-      "id": "4893981",
-      "time": "2026-05-22 10:01:15",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【元件板塊持續走高】元件板塊持續走高，風華高科、寶鼎科技、景旺電子漲停, 三環集團、強達電路漲超10%，勝業電氣、逸豪新材、明陽電路、本川智慧、博敏電子等跟漲。"
-    },
-    {
-      "id": "4893980",
-      "time": "2026-05-22 10:00:56",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國國務院：已批准向烏克蘭潛在出售“霍克”導彈系統維護專案，預估金額為1814萬美元。"
-    },
-    {
-      "id": "mkt:019e4d69-fa74-7aa1-9583-a97aa220c9cd",
-      "time": "2026-05-22 10:00:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. STATE DEPT: APPROVED POTENTIAL SALE OF HAWK MISSILE SYSTEM SUSTAINMENT TO UKRAINE FOR AN ESTIMATED $18.14 MLN"
-    },
-    {
-      "id": "4893979",
-      "time": "2026-05-22 10:00:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "聯想執行長稱，聯想將探索包括可穿戴裝置在內的更多形態人工智慧裝置。"
-    },
-    {
-      "id": "mkt:019e4d69-8608-7aa1-9583-a1eb404d8b4d",
-      "time": "2026-05-22 10:00:21",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Hot",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "Policy",
-        "Chinese Policy & Markets",
-        "NVDA.O",
-        "Impact bullish",
-        "0992.HK"
-      ],
-      "text": "LENOVO CEO:WE HAVE GOOD RELATIONSHIP WITH NVIDIA AND WE CAN GET CHIP ALLOCATION WE SHOULD GET"
-    },
-    {
-      "id": "mkt:019e4d69-7038-7aa1-9583-9e336d118165",
-      "time": "2026-05-22 10:00:16",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "【Polymarket Seeks Regulatory Approval in Japan by 2030 in Global Expansion Push】According to sources familiar with the matter, global prediction market platform Polymarket has appointed Mike Eidlin to lead its efforts in Japan as it prepares to lobby for government authorization by 2030. The New York-headquartered firm currently blocks Japan-based users due to strict domestic gambling laws, but it sees the country as a major untapped business opportunity. While Japan's Penal Code strictly punishes unauthorized gambling, exceptions exist for government-regulated markets, and the country plans to open its first legal casino resort in 2030. Ahead of formal approval, Polymarket plans to grow its local presence organically via social media, where its Japanese X account already has over 53,000 followers."
-    },
-    {
-      "id": "4893978",
-      "time": "2026-05-22 10:00:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "聯想集團執行長：戰略支柱包括擴大在裝置領域的領先地位、擴大服務業務規模。"
-    },
-    {
-      "id": "4893977",
-      "time": "2026-05-22 09:59:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "聯想執行長表示：我們與英偉達保持著良好合作關係，因此能夠獲得我們應得的晶片配額。"
-    },
-    {
-      "id": "4893976",
-      "time": "2026-05-22 09:59:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "【集安組織成員國舉行資訊保安保障演習】俄羅斯外交部21日說，集體安全條約組織（集安組織）成員國及其夥伴方的團隊，日前舉行了多場抗擊電腦網路攻擊的資訊保安保障演習。據俄外交部網站21日釋出的新聞公報，在集安組織輪值主席國俄羅斯的倡議下，來自該組織成員國及其夥伴方的20多個團隊19日舉行了數場演習，旨在改善資訊保安領域合作，加強互信，協調行動並共同對抗電腦網路攻擊。"
-    },
-    {
-      "id": "4893975",
-      "time": "2026-05-22 09:59:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【京東推出複合商業空間JD SPACE，將陸續在宿遷、北京等地落成】5月22日，京東宣佈推出複合商業空間——JD SPACE京東天地。2026年9月開始，JD SPACE將陸續在宿遷、北京、深圳、上海等地落成。JD SPACE將聚合京東101HOME、京東全球購、京東醫美等自營店，並落成全球首家京東美妝集合店、京東戶外運動集合店、京東酒世界超級體驗店、京東高階音訊相機遊戲集合店和京東樂器旗艦店。同時，JD SPACE面向全品類品牌開放，引入品牌概念店、旗艦店等特色首店。"
-    },
-    {
-      "id": "4893974",
-      "time": "2026-05-22 09:58:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "聯想執行長：將憑藉“三大支柱”戰略在未來兩年內實現年營收千億美元。"
-    },
-    {
-      "id": "4893973",
-      "time": "2026-05-22 09:58:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "聯想執行長：近期重組及人工智慧需求也將助力基礎設施方案業務集團維持盈利能力。"
-    },
-    {
-      "id": "4893972",
-      "time": "2026-05-22 09:58:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "聯想執行長：更廣泛的客戶基礎與更強勁的業務模式將推動基礎設施方案業務集團實現盈利。"
-    },
-    {
-      "id": "4893971",
-      "time": "2026-05-22 09:58:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "聯想執行長認為基礎設施業務部門將實現可持續盈利。"
-    },
-    {
-      "id": "4893970",
-      "time": "2026-05-22 09:57:51",
-      "tags": [
-        "宏觀",
-        "公司"
-      ],
-      "text": "【寧夏國運集團將重組整合寧夏國投集團】記者從寧夏國資委獲悉，5月20日，寧夏國資委召開寧夏國運集團重組整合寧夏國投集團推進會，傳達自治區黨委、政府印發的兩家企業重組整合方案，安排部署有關工作。會議指出，自治區黨委、政府高度重視國資國企改革，寧夏國運集團重組整合寧夏國投集團是經過通盤考慮、深入研究作出的重大決策，是貫徹落實黨中央、國務院深化國資國企改革決策部署的關鍵一步，是加快國有經濟佈局最佳化和結構調整的戰略舉措。會議要求，深入推進產融結合，高效整合相關業務和資源，著力構建“以產帶融、以融促產”發展格局，提升寧夏國運集團資本運作和產業培育能力，增強核心功能，打造區屬國有企業產融結合樣板。"
     }
   ]
 }
