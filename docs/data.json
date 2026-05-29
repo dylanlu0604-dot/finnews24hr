@@ -1,7 +1,106 @@
 {
-  "updated": "2026-05-29 13:49:57",
-  "count": 15518,
+  "updated": "2026-05-29 13:53:53",
+  "count": 15522,
   "items": [
+    {
+      "id": "4906255",
+      "time": "2026-05-29 13:53:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "寒武紀跌超5%，成交額超130億元。"
+    },
+    {
+      "id": "mkt:019e724b-2065-711c-8b3e-f21cee974552",
+      "time": "2026-05-29 13:53:06",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Romanian military said that after an April drone incident it has redeployed radars and ground air-defense systems near Galati, but Friday's defenses did not perform effectively."
+    },
+    {
+      "id": "mkt:019e724b-1f05-711c-8b3e-ec5d80f0256b",
+      "time": "2026-05-29 13:53:06",
+      "tags": [
+        "MKT News",
+        "688256.SS",
+        "Impact bearish"
+      ],
+      "text": "Cambricon fell over 5% as turnover exceeded 13.0 billion yuan."
+    },
+    {
+      "id": "4906254",
+      "time": "2026-05-29 13:51:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "羅馬尼亞軍方：四月無人機事件後，雷達和陸基防空系統已部署至加拉茨附近，但它們週五並未發揮效用。"
+    },
+    {
+      "id": "mkt:019e7249-dec0-711c-8b3e-e401612a7603",
+      "time": "2026-05-29 13:51:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Romanian General Maksim said a drone remained in Romania for four minutes."
+    },
+    {
+      "id": "mkt:019e7248-699c-711c-8b3e-d9417fb5a07b",
+      "time": "2026-05-29 13:50:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "2026 FOMC voting member and Minneapolis Fed President Neel Kashkari will speak at Korea University in ten minutes."
+    },
+    {
+      "id": "mkt:019e7247-d851-711c-8b3e-d43d87b24871",
+      "time": "2026-05-29 13:49:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "DXY",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan April construction orders YoY -32.3% vs -14.4% prior."
+    },
+    {
+      "id": "mkt:019e7247-cc27-711c-8b3e-cd36c0a1388a",
+      "time": "2026-05-29 13:49:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel Defense Forces (IDF) said preliminary reports indicate air‑raid sirens sounded in the Misgav Am area; details are being verified."
+    },
+    {
+      "id": "4906253",
+      "time": "2026-05-29 13:49:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度儲備銀行：其雲服務已於25日/26日以試點模式上線，目前已有9家機構完成接入。"
+    },
+    {
+      "id": "mkt:019e7247-b479-711c-8b3e-c601a14b3a72",
+      "time": "2026-05-29 13:49:22",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Construction Orders (YoY) (Apr) | actual -32.3% | previous -14.4%"
+    },
     {
       "id": "mkt:019e7246-c4f1-711c-8b3e-bb80a89ca5c9",
       "time": "2026-05-29 13:48:20",
@@ -139869,58 +139968,6 @@
         "Impact bullish"
       ],
       "text": "HK H-SHARE NONFERROUS METALS SECTOR RALLIES AFTERNOON; CMOC UP OVER 7%, MMG GAINS OVER 5%, ZIJIN AND CHALCO FOLLOW SUIT"
-    },
-    {
-      "id": "mkt:019e4e3e-718a-7aa1-9585-d517b13e4726",
-      "time": "2026-05-22 13:52:55",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "INDONESIA TO EXEMPT NICKEL PIG IRON, SOME PALM OIL DERIVATIVES FROM CENTRALIZED EXPORT POLICY"
-    },
-    {
-      "id": "4894280",
-      "time": "2026-05-22 13:52:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時中國A50指數期貨上漲1%。"
-    },
-    {
-      "id": "4894279",
-      "time": "2026-05-22 13:51:12",
-      "tags": [
-        "市場"
-      ],
-      "text": "【玻璃基板概念再度拉昇 京東方A 2連板】午後玻璃基板概念再度拉昇，京東方A 2連板，此前天承科技、金瑞礦業漲停，美迪凱、力諾藥包漲超10%，藍特光學、紅星發展、三超新材、路維光電等跟漲。"
-    },
-    {
-      "id": "4894278",
-      "time": "2026-05-22 13:50:46",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "富時中國A50指數期貨午後漲超1%。"
-    },
-    {
-      "id": "mkt:019e4e3c-3724-7aa1-9585-c87f8d7bbcf6",
-      "time": "2026-05-22 13:50:29",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "HK AI APPLICATION SHARES EXTEND GAINS; ZHIPU RALLIES OVER 30%, MINIMAX-W SURGES OVER 20%"
-    },
-    {
-      "id": "4894277",
-      "time": "2026-05-22 13:50:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "【先聲藥業：恩維達NSCLC新輔助/輔助治療Ⅲ期臨床研究完成所有受試者入組】5月22日，先聲藥業旗下抗腫瘤創新藥公司先聲再明宣佈，與思路迪醫藥、康寧傑瑞生物製藥合作的恩沃利單抗注射液（恩維達®）用於可切除非小細胞肺癌（NSCLC）新輔助/輔助治療的隨機、對照、雙盲、多中心Ⅲ期臨床研究已完成所有受試者入組。"
     }
   ]
 }
