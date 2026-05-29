@@ -1,7 +1,127 @@
 {
-  "updated": "2026-05-29 22:31:03",
-  "count": 15830,
+  "updated": "2026-05-29 22:35:15",
+  "count": 15837,
   "items": [
+    {
+      "id": "mkt:019e7427-f03e-7eef-a0f1-3a27974e3087",
+      "time": "2026-05-29 22:33:54",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Iran supreme leader military adviser says Iran will force US to end maritime blockade】Mohsen Rezaei, military adviser to Iran's supreme leader, said on May 29 local time that Iran will force the United States to end a maritime blockade — by negotiation or, if resisted, by direct action. He added that despite pressure Iran's economic future is bright and hopeful."
+    },
+    {
+      "id": "mkt:019e7427-9ead-7eef-a0f1-3517ef8d8ba5",
+      "time": "2026-05-29 22:33:33",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "Wall Street Journal reports the U.S. government has proposed in talks with Mexico to revise the USMCA by raising the required U.S.-content threshold above the current 75%."
+    },
+    {
+      "id": "4907509",
+      "time": "2026-05-29 22:33:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【受伊朗戰事波及的大型油輪中，已有四分之一成功駛出海峽】在伊朗戰事爆發之初滯留在波斯灣內的非伊朗籍大型油輪中，已有約有四分之一的油輪透過緩慢且隱秘的方式逐漸脫困，成功駛離該海域。據媒體彙編的航運資料顯示，在2月28日衝突爆發、霍爾木茲海峽實際上處於封閉狀態後，共有109艘大型船隻（即載運能力在70萬桶及以上的船隻）受困；如今，其中已有29艘成功穿越了這一戰略咽喉要道。儘管這些已流出的貨物僅佔海灣內仍滯留的原油及成品油總量的極小一部分，但在全球市場庫存緩衝正以創紀錄的速度縮減的大背景下，這些貨物一經流出便迅速被市場搶購一空。此外，鑑於許多船隻為規避風險而關閉了位置廣播裝置，實際成功撤離的船隻數量很可能還要高於上述統計數字。"
+    },
+    {
+      "id": "mkt:019e7427-7f7a-7eef-a0f1-2c122363c97c",
+      "time": "2026-05-29 22:33:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "【About a quarter of large tankers stranded by Iran conflict have exited the Strait of Hormuz】Bloomberg shipping data show that of 109 large tankers (>=700,000 barrels) trapped in the Persian Gulf after the Feb. 28 outbreak and the effective closure of the Strait of Hormuz, 29 — roughly one quarter — have since made slow, covert departures and transited the strait. Those cargoes account for only a small portion of oil and refined products still held in the Gulf, but were rapidly bought up as global inventory buffers are shrinking at a record pace. Many vessels have been operating with AIS transponders off, so the true number of successful evacuations is likely higher."
+    },
+    {
+      "id": "4907508",
+      "time": "2026-05-29 22:32:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國政府這項涉及美墨加協定重構談判、與墨西哥磋商的提案，還將尋求把美國本土增加值佔比從現行北美原產地規則要求的75%進一步提高。"
+    },
+    {
+      "id": "mkt:019e7425-7b49-7eef-a0f1-227af02f855f",
+      "time": "2026-05-29 22:31:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "SHFE silver 2608 reversed intraday gains to losses, now down 0.75% at 18,063 yuan/kg."
+    },
+    {
+      "id": "mkt:019e7425-711f-7eef-a0f1-1e2eebf28ebf",
+      "time": "2026-05-29 22:31:10",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "JP Morgan expects LME zinc to trade in a high range of $3,400–3,500 per tonne for the remainder of 2026."
+    },
+    {
+      "id": "mkt:019e7425-1e78-7eef-a0f1-17b676c28b16",
+      "time": "2026-05-29 22:30:50",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "WSJ reports the Trump administration seeks a USMCA rule requiring at least 50% of vehicles produced under the pact to be manufactured in the United States."
+    },
+    {
+      "id": "4907507",
+      "time": "2026-05-29 22:30:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "IBM股價大漲9%，創3個月新高，本月累計大漲25%。"
+    },
+    {
+      "id": "mkt:019e7424-ab9a-7eef-a0f1-0dd331347159",
+      "time": "2026-05-29 22:30:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【Russia's Ural Federal District activates first-ever 'missile danger' mode】On May 29 local time the Russian president's envoy to the Ural Federal District announced the district had activated 'missile danger' mode for the first time. Emergency services and civil-defense units have been placed on high alert."
+    },
+    {
+      "id": "4907506",
+      "time": "2026-05-29 22:30:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國要求，依據《美墨加協定》生產的汽車，其零部件美國本土佔比至少達 50%。"
+    },
     {
       "id": "4907505",
       "time": "2026-05-29 22:29:43",
@@ -143272,40 +143392,6 @@
         "公司"
       ],
       "text": "匈牙利油氣集團：匈牙利的燃料供應安全未受影響。"
-    },
-    {
-      "id": "4895487",
-      "time": "2026-05-22 22:34:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "【普京稱烏襲擊盧甘斯克學校6死39傷】俄羅斯總統普京今天（5月22日）表示，今天凌晨，烏克蘭使用16架無人機分三波襲擊了盧甘斯克地區的一所學校，已導致6人死亡，另有39人受傷，還有15人失蹤。普京強調，沒有證據表明這些無人機是因為被擊落或偏離航線才擊中學校宿舍樓的。他已責成俄羅斯國防部拿出報復性打擊方案。 據俄方此前提供的資訊，襲擊發生時，建築內共有86名年齡在14至18歲之間的青少年。 烏克蘭方面暫未作出回應。 （CCTV國際時訊）"
-    },
-    {
-      "id": "4895486",
-      "time": "2026-05-22 22:32:23",
-      "tags": [
-        "市場"
-      ],
-      "text": "福特股價上漲6%，連續第四個交易日走高。"
-    },
-    {
-      "id": "mkt:019e5019-b300-7224-83c0-58798563afbc",
-      "time": "2026-05-22 22:32:01",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "SPOT PLATINUM FALLS NEARLY 3% TO $1,907.30/OZ"
-    },
-    {
-      "id": "4895485",
-      "time": "2026-05-22 22:31:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "【香港國際機場二號客運大樓即將啟用 】香港國際機場二號客運大樓開幕典禮22日晚在港舉行。香港機場管理局宣佈，斥資129億港元擴建的二號客運大樓離港設施將於本月27日正式啟用。香港機管局主席林天福在致辭中表示，香港國際機場不僅是迎接全球旅客的重要門戶，也是展現香港多元文化魅力的獨特平臺。隨著二號客運大樓的啟用，這一平臺將注入全新活力。機管局將攜手機場同業，全力推動香港國際機場由城市機場向“機場城市”轉型升級，為香港經濟發展注入新動能。（新華社）"
     }
   ]
 }
