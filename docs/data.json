@@ -1,7 +1,94 @@
 {
-  "updated": "2026-05-29 08:05:23",
-  "count": 15341,
+  "updated": "2026-05-29 08:09:13",
+  "count": 15346,
   "items": [
+    {
+      "id": "4905717",
+      "time": "2026-05-29 08:08:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "早盤交易中，澳大利亞標普/澳證200指數上漲0.8%，報8661.0點。"
+    },
+    {
+      "id": "mkt:019e710f-c226-7ee0-99de-35f9a438b012",
+      "time": "2026-05-29 08:08:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【CITIC Securities: Deposit growth expected to outpace loans】CITIC Securities says the current easing is mainly deposit-driven — a “self‑generated” easing: FX settlement inflows and household deposit shifts have boosted non‑bank deposits and loosened liquidity, while weaker corporate lending has left liquidity pooling in the interbank market. It expects deposit growth to continue outpacing loan growth and, with the PBOC conducting moderate liquidity management, overall funding is likely to remain relatively loose."
+    },
+    {
+      "id": "4905716",
+      "time": "2026-05-29 08:08:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【野村高管上財年薪酬平均上調40%，約為前一財年漲幅的兩倍】根據一份關於下月年度股東會的通知，在截至3月31日的財年中，野村控股八位高管平均獲得9.21億日元（約580萬美元）的薪酬，去年同期為6.57億日元。上述高管的總薪酬達到創紀錄的74億日元，比前一年增長60%。該公司高管上財年薪酬平均上調40%，約為前一財年漲幅的兩倍。"
+    },
+    {
+      "id": "4905715",
+      "time": "2026-05-29 08:08:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美財長稱美伊協議取決於特朗普 】美國財長貝森特當地時間5月28日主持白宮例行記者會。對美國媒體當天報道稱“美國和伊朗談判代表已就諒解備忘錄條款基本達成一致，有待美國總統特朗普最終批准”，貝森特沒有直接回答相關提問，只是稱“雙方團隊一直在進行往來磋商”，並強調“一切都取決於（特朗普）總統想要怎麼做”。貝森特稱，特朗普有幾條明確的“紅線”，即“伊朗必須交出其高濃縮鈾”、“伊朗不能發展核武器”，以及“霍爾木茲海峽必須保持開放”。 （ CCTV國際時訊 ）"
+    },
+    {
+      "id": "mkt:019e710f-578d-7ee0-99de-2bf8288a8207",
+      "time": "2026-05-29 08:08:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Secretary of State Rubio to meet Pakistan’s deputy prime minister and foreign minister on Friday."
+    },
+    {
+      "id": "4905714",
+      "time": "2026-05-29 08:06:46",
+      "tags": [
+        "央行",
+        "市場",
+        "觀點"
+      ],
+      "text": "【中信證券：預計存款增長強於貸款的趨勢將維持】中信證券研報指出，我們認為，本輪資金寬鬆主要是存款高增與信貸偏弱驅動的“自發式寬鬆”，一方面結匯迴流疊加居民存款搬家共同推升非銀存款與流動性寬鬆，另一方面實體貸款投放走弱，導致部分流動性“淤積”在銀行間市場。展望未來，我們預計存款增長強於貸款的趨勢將維持，在央行適度調控流動性的背景下，資金有望維持相對寬鬆狀態。"
+    },
+    {
+      "id": "mkt:019e710d-e8a8-7ee0-99de-261532437de3",
+      "time": "2026-05-29 08:06:37",
+      "tags": [
+        "MKT News",
+        "9984.T",
+        "Impact bullish"
+      ],
+      "text": "SoftBank Group shares rose 6.5%."
+    },
+    {
+      "id": "4905713",
+      "time": "2026-05-29 08:06:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【瑞士火車站持刀襲擊定性恐襲 嫌疑人更多細節披露 】瑞士蘇黎世州安全主管馬里奧·費爾28日在新聞釋出會上說，當天早些時候在蘇黎世附近的溫特圖爾火車站發生的持刀襲擊事件是“恐怖主義行為”。同時，警方公佈了嫌疑人身份更多細節。據警方最新訊息，襲擊已造成3人受傷，其中一人重傷。襲擊發生後，嫌疑人隨即被捕。警方表示，嫌疑人1994年出生於瑞士，擁有瑞士和土耳其雙重國籍。他於2024年移居土耳其，並於2026年5月返回瑞士。他此前已被警方記錄在案，曾因違反涉極端組織“伊斯蘭國”的法令而被指控。"
+    },
+    {
+      "id": "te:markets:554646",
+      "time": "2026-05-29 08:04:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Gold Holds Gains Amid US-Iran Peace Optimism — Gold steadied near $4,500 an ounce on Friday after recovering in the previous session, as reports of a preliminary agreement between the US and Iran eased concerns over inflation and interest rate. Washington and Tehran are reportedly set to extend their ceasefire by 60 days and begin talks over Iran’s nuclear program, while also considering unrestricted shipping through the Strait of Hormuz. Still, the report noted that President Donald Trump has not yet approved the proposed terms, while Vice President JD Vance said it remains too early to determine whether or when a deal with Iran could be finalized. Gold has faced strong selling pressure since late February as the surge in oil prices triggered by the Iran conflict fueled inflation worries and strengthened expectations for tighter monetary policy. Meanwhile, the US Federal Reserve is widely expected to keep interest rates unchanged this year, although policymakers continue to warn about persistent inflation risks."
+    },
+    {
+      "id": "4905712",
+      "time": "2026-05-29 08:04:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國國務卿魯比奧將於週五會見巴基斯坦副總理和外交部長。"
+    },
     {
       "id": "mkt:019e710b-d28c-7ee0-99de-1c0bbd659a2a",
       "time": "2026-05-29 08:04:20",
@@ -138174,48 +138261,6 @@
         "其他"
       ],
       "text": "【日經225指數漲幅擴大至1%】日經225指數漲幅擴大至1%，現報62357.38點。"
-    },
-    {
-      "id": "4893773",
-      "time": "2026-05-22 08:07:59",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信證券：上海加碼太空算力，全球產業正提速】中信證券研報稱，太空算力產業發展研討會近日在上海召開，建立“高校+科研院所+科技企業”創新體系；SpaceX規劃百萬顆級別太空算力星座，自建晶片工廠加碼產業佈局，全球太空算力產業趨勢進一步強化。儘管由於商業火箭客觀特點，可回收等發射節奏時有波動，但更需看到可回收技術突破後產業實現指數級別增長的潛力，以及太空算力更廣闊的產業空間，聚焦“核心資產”及“通脹環節”。"
-    },
-    {
-      "id": "4893772",
-      "time": "2026-05-22 08:07:29",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【中信證券：大眾品調整接近尾聲、龍頭彰顯韌性，配置視窗開啟】中信證券研報稱，過去三年業績下行期中，大眾品企業削減資本開支減少產能投放、計提減值推動資產負債表質量提升、提升分紅回購比例增加股東回報，短期財報顯示大眾品行業需求築底、競爭緩和，基本面調整接近尾聲。同時在行業下行期過程中，龍頭公司競爭力依然強大，實現份額穩中有升，調味品、速凍、肉製品等細分板塊過去幾年CR2實現提升，而乳製品、零食行業CR2基本保持穩定。我們看好大眾品2026年基本面溫和上行以及板塊底部配置的寶貴機會。重點推薦順週期屬性較強的餐供和乳品板塊；推薦獨立成長性強的量販零食龍頭公司、保健品龍頭公司以及飲料龍頭；推薦部分估值便宜或者短期殺跌較多的飲料企業和零食企業。"
-    },
-    {
-      "id": "4893771",
-      "time": "2026-05-22 08:07:01",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【中信證券：把握紡織服裝上游漲價機遇，佈局品牌及製造復甦】中信證券研報稱，2025年，紡織服裝行業受貿易政策及匯率波動、渠道結構及折扣壓力影響，整體利潤端有所承壓。1Q26受益春節旺季拉動，品牌服飾板塊率先實現業績回暖，但紡織製造公司中，代工行業受匯率、原材料漲價影響，業績仍存在一定壓力。展望未來，我們推薦以下投資主線：①上游棉紡、毛紡、化纖等產品漲價，有望帶動庫存利潤彈性釋放；②OEM板塊在行業下行期往往伴隨龍頭進一步提升份額，同時伴隨當前股價和預期反映逆風因素，很多代工廠逐漸進入價值區間，板塊有望在2H26~1H27進入配置視窗；③品牌服飾板塊中，參考海外龍頭品牌公司走出2008年金融危機的經驗，透過低谷期修煉內功，本土品牌有望抓住零售復甦帶來的經營改善機遇；④紡織服裝行業高分紅、高股息標的眾多，主因板塊龍頭公司持續創造穩定現金流的能力以及健康的資產狀況支撐，其中家紡、頭部品牌及經銷商以及優質製造公司具備穩健且較高的股息率水平，建議積極配置。此外，推薦紡服板塊中主業穩健、積極拓展新業務佈局的細分賽道公司。"
-    },
-    {
-      "id": "4893770",
-      "time": "2026-05-22 08:06:35",
-      "tags": [
-        "市場"
-      ],
-      "text": "早盤交易中，澳大利亞標普/澳證200指數上漲0.5%，報8667點。"
-    },
-    {
-      "id": "4893769",
-      "time": "2026-05-22 08:06:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "【香港超級豪宅印花稅上調至6.5% 預計每年增收10億港元】5月20日，香港特區立法會三讀透過《2026年印花稅（修訂）條例草案》，正式將價值超過1億港元的住宅物業交易印花稅稅率從4.25%大幅調高至6.5%。該新稅率適用於2026年2月26日或之後籤立的文書。據香港特區政府預測，此舉秉持“能者多付”原則，預計每年將為特區政府增加約10億港元收入。"
     }
   ]
 }
