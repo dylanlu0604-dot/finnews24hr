@@ -1,7 +1,40 @@
 {
-  "updated": "2026-05-30 04:15:53",
-  "count": 15843,
+  "updated": "2026-05-30 04:19:43",
+  "count": 15838,
   "items": [
+    {
+      "id": "4907800",
+      "time": "2026-05-30 04:18:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "根據SEC檔案：Meta股東否決針對H-1B簽證專案反美歧視風險的提案。"
+    },
+    {
+      "id": "4907799",
+      "time": "2026-05-30 04:18:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "根據SEC檔案：Meta公司股東否決了要求釋出人工智慧資料使用監督報告的提案。"
+    },
+    {
+      "id": "4907798",
+      "time": "2026-05-30 04:18:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "根據SEC檔案：Meta股東否決關於雙層股權結構的提案。"
+    },
+    {
+      "id": "4907797",
+      "time": "2026-05-30 04:16:21",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲：美國上週銀行存款19.285萬億美元，之前一週19.279萬億美元。"
+    },
     {
       "id": "4907796",
       "time": "2026-05-30 04:10:57",
@@ -143377,88 +143410,6 @@
         "國際"
       ],
       "text": "特朗普：我們看好電動汽車。"
-    },
-    {
-      "id": "4895771",
-      "time": "2026-05-23 04:19:28",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲：華爾街銀行生前遺願不存在問題。"
-    },
-    {
-      "id": "4895770",
-      "time": "2026-05-23 04:19:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普稱讚通用汽車、美光科技等的投資舉措。"
-    },
-    {
-      "id": "4895769",
-      "time": "2026-05-23 04:18:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國縮減駐歐兵力 促使德國加速推進防務自主】美國國防部近日宣佈調整駐歐軍事部署，將駐歐洲旅級戰鬥部隊數量從四個縮減至三個。此前，美國還宣佈將從德國撤走約五千名士兵。這一調整加劇了德國對美國安全承諾的疑慮，也促使德國加快推進防務自主。（央視新聞）"
-    },
-    {
-      "id": "te:markets:553194",
-      "time": "2026-05-23 04:18:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Edges Higher on Iran-US Talks — The S&P/TSX Composite Index edged up 0.2% to close at 34,471 on Friday, supported by a strong session in US equities and cautious signs of progress in negotiations between Iran and the US. Iran’s foreign minister met with Pakistan’s interior minister to discuss proposals aimed at narrowing differences between Tehran and Washington, according to Iranian media reports. Financial stocks advanced, with Royal Bank of Canada up 0.5% and TD Bank gaining 0.9%. Consumer discretionary shares also supported the index, led by a 2.5% rally in Magna International. Meanwhile, lower gold prices pressured mining stocks as elevated oil prices sustained lingering inflation concerns and expectations of a possible US interest rate hike later this year. Agnico Eagle fell 0.9% and Barrick lost 1.2%."
-    },
-    {
-      "id": "4895768",
-      "time": "2026-05-23 04:18:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "標普：預計科威特石油產量將在2027年恢復至戰前水平，即每日250萬至260萬桶。"
-    },
-    {
-      "id": "4895767",
-      "time": "2026-05-23 04:16:48",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國際油價22日微漲】截至當天收盤，紐約商品交易所7月交貨的輕質原油期貨價格上漲25美分，收於每桶96.60美元，漲幅為0.26%；7月交貨的倫敦布倫特原油期貨價格上漲96美分，收於每桶103.54美元，漲幅為0.94%。"
-    },
-    {
-      "id": "mkt:019e5154-f4b8-7aae-9ae1-419b51f37107",
-      "time": "2026-05-23 04:16:22",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "IRAN OFFICIAL: LIFTING SANCTIONS ON OIL NOT PART OF PEACE NEGOTIATIONS - AL JAZEERA"
-    },
-    {
-      "id": "4895766",
-      "time": "2026-05-23 04:16:15",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲：沃什宣誓就任美聯儲理事會主席。"
-    },
-    {
-      "id": "4895765",
-      "time": "2026-05-23 04:16:01",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲：公開市場委員會一致推選沃什擔任主席。"
     }
   ]
 }
