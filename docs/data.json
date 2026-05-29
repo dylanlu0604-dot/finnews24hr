@@ -1,7 +1,171 @@
 {
-  "updated": "2026-05-29 17:09:48",
-  "count": 15675,
+  "updated": "2026-05-29 17:13:46",
+  "count": 15676,
   "items": [
+    {
+      "id": "4906790",
+      "time": "2026-05-29 17:13:02",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【摩根大通（JPMorgan）對九龍倉集團的多頭持倉比例降至4.8%】據香港交易所披露，摩根大通（JPMorgan）對領展房地產投資信託基金的多頭持倉比例於2026年5月26日從5.0%降至4.8%。"
+    },
+    {
+      "id": "4906789",
+      "time": "2026-05-29 17:12:59",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【高盛對嗶哩嗶哩-W的多頭持倉比例增至6.05%】據香港交易所披露，高盛對嗶哩嗶哩股份有限公司 - W的多頭持倉比例於2026年5月25日從5.97%增至6.05%。"
+    },
+    {
+      "id": "4906788",
+      "time": "2026-05-29 17:12:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST海欽：持股5%以上股東協議轉讓1311萬股股份完成過戶】*ST海欽公告稱，2026年3月27日，持股5%以上股東福建瑞善與何珠興簽署《股份轉讓協議》，擬以11.5235元/股轉讓1311萬股（佔總股本5.69%）。該事項已透過上交所合規確認，5月29日取得中證登《證券過戶登記確認書》，過戶日期為5月28日。過戶後，福建瑞善持股降至4.9119%，何珠興升至5.6952%。本次權益變動不影響控股權，不觸及要約收購。何珠興承諾12個月內不減持，福建瑞善將遵守減持規則。"
+    },
+    {
+      "id": "mkt:019e7302-0833-7dd6-96ca-8fec12d7ec48",
+      "time": "2026-05-29 17:12:51",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact mixed"
+      ],
+      "text": "Bank of England Governor Bailey said the economy has already been affected."
+    },
+    {
+      "id": "te:economy:554902",
+      "time": "2026-05-29 17:12:37",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Italy",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Italy Inflation Rate Rises to Over 2-Year High — The Italian headline inflation rate rose to 3.2% in May of 2026 from 2.7% in the previous month, aligning with the market consensus to mark the highest inflation rate since September of 2023. The increase was consistent with that from other large Eurozone economies as tight oil an gas supply since the outbreak of war in the Middle East lifted price growth across energy importers. Prices accelerated for both non-regulated energy (12.6% vs 9.6% in April) and regulated energy prices (5.8% vs 5.3%). Likewise, inflation was higher for transportation services (1.8% vs 0.6%) and recreational and cultural services (3% vs 2.6%). Core inflation, which excludes food and energy prices, rose to 1.8% from 1.6% in the earlier period. From the previous month, the Italian CPI rose by 0.4%, slowing from the 1.1% increase in April."
+    },
+    {
+      "id": "mkt:019e7301-b496-7dd6-96ca-8442968344a1",
+      "time": "2026-05-29 17:12:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "Bank of England Governor Bailey said that with markets already ruling out expected rate cuts, the Bank has substantially tightened policy to offset the shock to market expectations."
+    },
+    {
+      "id": "4906786",
+      "time": "2026-05-29 17:12:13",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行貝利：這已經開始對經濟產生影響。"
+    },
+    {
+      "id": "te:economy:554901",
+      "time": "2026-05-29 17:11:51",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Croatia",
+        "Retail Sales YoY",
+        "Importance 1"
+      ],
+      "text": "Croatia Retail Sales Growth Eases in April — Retail sales in Croatia rose by 2.0% year-on-year in April 2026, easing from a 3.3% increase in the previous month. This marked the softest growth since November last year, as sales increased at a slower pace for food, beverages, and tobacco (2.6% vs 3.2% in March) and for non-food products excluding automotive fuels and lubricants (2.8% vs 8.0%). At the same time, sales of automotive fuels and lubricants declined sharply (-15.1% vs -5.0%), while retail sales via the internet or mail order turned negative (-3.6% vs 3.7%). Meanwhile, retail trade excluding automotive fuels and lubricants in specialised stores rose 3.9%, following a 4.6% increase in March. On a monthly basis, retail trade fell 0.2%, after a 0.9% rise in March. For the January–April period, retail sales went up by 2.8% compared with the same period a year earlier."
+    },
+    {
+      "id": "4906785",
+      "time": "2026-05-29 17:11:49",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行貝利：我們目前已經將預期降息排除出了近期考量，相對於市場此前的預期而言，我們已經針對這一衝擊大幅收緊了貨幣政策。"
+    },
+    {
+      "id": "te:economy:554900",
+      "time": "2026-05-29 17:11:38",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Croatia",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "Croatia Industrial Output Declines in April — Croatia’s industrial production dropped by 2.1% year-on-year in April 2026, reversing a 0.8% increase in the previous month. This was the sharpest fall since November 2024 due to lower output in manufacturing (-1.5% vs 1.8% in March), mining and quarrying (-0.7% vs 3.3%), and electricity, gas, steam and air-conditioning supply (-11.3% vs -6.2%). Within the manufacturing sector, notable declines were recorded in other transport equipment (-28.3% vs 27.2%), textiles (-16.0% vs 3.0%), wearing apparel (-14.3% vs 3.7%), leather and related products (-16.2% vs 6.4%), and other non-metallic mineral products (-14.9% vs 7.4%). On a seasonally adjusted monthly basis, industrial production decreased by 0.6%, following a revised 1.1% decline in March."
+    },
+    {
+      "id": "4906784",
+      "time": "2026-05-29 17:11:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "英格蘭銀行行長貝利表示：我們必須密切監控中東局勢及其對英國經濟和通脹的影響，並根據需要調整政策。"
+    },
+    {
+      "id": "mkt:019e7300-d292-7dd6-96ca-79b0f1dc3b1e",
+      "time": "2026-05-29 17:11:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "Bank of England Governor Bailey said the Bank must closely monitor developments in the Middle East and their impact on the UK economy and inflation, and adjust policy as needed."
+    },
+    {
+      "id": "4906783",
+      "time": "2026-05-29 17:11:05",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【科創50指數更換4只樣本】科創50指數樣本調入華虹公司、源傑科技、摩爾執行緒、沐曦股份，於2026年6月12日收市後生效。"
+    },
+    {
+      "id": "4906782",
+      "time": "2026-05-29 17:10:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST海欽：控股子公司完成停產檢修】*ST海欽公告，公司控股子公司浙江亞蘭特新材料製造有限公司已完成停產檢修工作，將於2026年6月1日全面恢復改性塑膠生產線生產執行。"
+    },
+    {
+      "id": "4906781",
+      "time": "2026-05-29 17:10:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【陽光諾和：擬以自有資金認繳出資人民幣500萬元參與設立投資基金】陽光諾和公告，公司擬以自有資金認繳出資人民幣500萬元，參與設立杭州啟真智康股權投資合夥企業（有限合夥），擔任有限合夥人，佔合夥企業總認繳出資額的18.87%。該基金專項投資於杭州翊聖生物科技有限公司，聚焦慢性炎症與重大慢病新藥研發。"
+    },
+    {
+      "id": "4906780",
+      "time": "2026-05-29 17:10:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【葉門前總統哈迪去世】葉門方面訊息稱，葉門前總統阿卜杜拉布·曼蘇爾·哈迪28日在位於沙烏地阿拉伯首都利雅得的住所內去世，終年80歲。葉門總統領導委員會同日發表宣告說，將舉行為期3天的哀悼活動，下半旗誌哀。（央視新聞）"
+    },
+    {
+      "id": "4906779",
+      "time": "2026-05-29 17:09:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍中央司令部轄區人員位置外洩被“敵方”利用】伊朗戰事延宕之際，美軍中央司令部任務轄區發生多起商用定位資料外洩導致美軍人員位置暴露並被“敵方”利用事件。據路透社28日報道，國會共和、民主兩黨多名議員當天致信五角大樓，就這類事件表達憂慮。信中稱，美軍中央司令部曾說“多次收到威脅報告，內容涉及敵方利用商用位置資料打擊或監視戰區內美軍人員”。美軍中央司令部這一資訊釋出日期為4月14日，沒有披露具體細節。該司令部任務轄區包括伊朗及周邊地區。（新華社）"
+    },
     {
       "id": "4906778",
       "time": "2026-05-29 17:09:00",
@@ -141437,149 +141601,6 @@
         "公司"
       ],
       "text": "【溫州市具身智慧科技有限公司成立，註冊資本7000萬】天眼查App顯示，5月22日，溫州市具身智慧科技有限公司成立，法定代表人為餘仰望，註冊資本7000萬人民幣，經營範圍包括軟體開發、智慧機器人的研發、特殊作業機器人制造、服務消費機器人制造等。股東資訊顯示，該公司由深圳市優必選科技股份有限公司、溫州市資料集團有限公司、溫州國投股權投資基金有限公司等共同持股。"
-    },
-    {
-      "id": "4894795",
-      "time": "2026-05-22 17:13:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣西水利廳終止洪水防禦四級應急響應】記者從廣西水利廳獲悉，鑑於本輪影響廣西的降雨系統已經減弱，全區各江河水位均在警戒水位以下，水情形勢明朗，按照廣西水利廳洪水防禦工作預案，決定於5月22日15時終止洪水防禦四級應急響應。"
-    },
-    {
-      "id": "4894794",
-      "time": "2026-05-22 17:13:34",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【潔美科技：高階MLCC用離型膜已實現客戶端薄層、高容產品的穩定應用 4月份離型膜出貨量超過2700萬平方米】潔美科技(002859.SZ)釋出投資者關係活動記錄表公告，公司核心產品電子封裝材料處於滿產滿銷狀態，電子級薄膜材料產能利用率快速提升。MLCC用途離型膜產品已在國巨、華新科、風華高科、三環集團、微容電子、信維通訊等主要客戶端穩定批次供貨，並在宇陽科技、昀冢科技等客戶端批次供貨；同時也順利完成了韓日系大客戶（三星、村田）的驗證和批次供貨，其中韓系客戶海外基地也開始批次供貨。對於長期被國外企業壟斷的高階MLCC用離型膜也取得了突破，目前已實現客戶端薄層、高容產品的穩定應用。偏光片用離型膜已向主要偏光片生產企業穩定批次供貨，與多家客戶簽訂了產品供應戰略協議。四月份離型膜出貨量已超過2700萬平方米。近期已陸續有客戶對部分產品進行提價。控股子公司柔震科技的HVLP銅箔已向韓國斗山、華正新材送樣。"
-    },
-    {
-      "id": "4894793",
-      "time": "2026-05-22 17:13:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯國防部：俄軍攻佔烏克蘭扎波羅熱州上捷爾薩。"
-    },
-    {
-      "id": "4894792",
-      "time": "2026-05-22 17:13:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "【神舟二十三號發射在即 各系統準備就緒】今天（5月22日），神舟二十三號載人飛船發射任務組織全區合練。目前，發射任務各系統已完成相關功能檢查，並做好發射前各項準備工作。早上8時30分許，在北京航天飛行控制中心的統一排程下，酒泉衛星發射中心、西安衛星測控中心以及任務各測控站點實施聯調聯控，全面模擬發射準備、發射以及飛行過程中的各種技術狀態和工作過程。（央視新聞）"
-    },
-    {
-      "id": "te:economy:553071",
-      "time": "2026-05-22 17:13:16",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Iceland",
-        "Producer Prices Change",
-        "Importance 1"
-      ],
-      "text": "Iceland Producer Prices Rise the Most In Over 3 Years — Iceland’s producer prices jumped 12% year-on-year in April 2026 from a thirteen-month high of 8.6% in the previous month. The latest figure marked the highest reading since September 2022, mainly due to higher costs for metal products (16.9% vs 6.1% in March), exported products (15.8% vs 10.4%), and exported products excluding marine products (13.6% vs 4.6%). On the other hand, price growth moderated in marine products (19.9% vs 21.1%), food production (6.1% vs 7.4%), and products sold domestically (3.9% vs 4.7%). On a monthly basis, producer prices advanced by 2.3% in April, following a 1.9% gain in the preceding period, marking the highest level since November 2025."
-    },
-    {
-      "id": "4894791",
-      "time": "2026-05-22 17:12:47",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時中國A50指數期貨跌幅擴大至0.5%。"
-    },
-    {
-      "id": "4894790",
-      "time": "2026-05-22 17:12:23",
-      "tags": [
-        "公司",
-        "市場",
-        "焦點"
-      ],
-      "text": "【長橋證券回應：尚未收到正式監管通知，使用者資產受到完整保障】5月22日，長橋證券官方號在長橋證券APP社群內回應稱：“我們已關注到相關的新聞動態，公司尚未接收到正式的監管通知。如果有進一步資訊，隨時和大家溝通。大家的賬戶與資產受到完:整保障，服務持續正常運作。”當日，中國證監會發布訊息。近日，證監會依法對TigerBrokers(NZ)Limited（以下簡稱老虎）、富途證券國際（香港）有限公司（以下簡稱富途）、長橋證券（香港）有限公司（以下簡稱長橋）境內外相關主體在境內非法經營證券業務等行為立案調查並作出行政處罰事先告知。老虎、富途、長橋境內外相關主體未經我會核准，未取得經營證券經紀業務許可、經營證券融資融券業務許可，在境內開展證券交易營銷推廣、處理交易指令等相關證券業務服務並獲取相關收益，上述非法跨境展業行為，違反了我國證券基金期貨法律法規，破壞了市場秩序，必須堅決予以打擊。證監會擬決定沒收老虎、富途、長橋境內外相關主體全部違法所得，並依法嚴厲處罰。擬對當事人實施的行政處罰，當事人享有陳述、申辯及要求聽證的權利，我會將充分聽取當事人意見後，依法作出行政處罰決定。"
-    },
-    {
-      "id": "4894789",
-      "time": "2026-05-22 17:12:19",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行拉加德：若偏離臨時性、針對性的刺激政策，貨幣政策立場將發生改變。"
-    },
-    {
-      "id": "4894788",
-      "time": "2026-05-22 17:11:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【金誠信：擬增加Alacran銅金銀礦專案建設投資1.79億美元】金誠信公告，公司擬根據股權比例變化相應增加Alacran銅金銀礦專案建設投資1.79億美元，累計出資金額約4.1億美元。"
-    },
-    {
-      "id": "4894787",
-      "time": "2026-05-22 17:11:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "拉加德：高度警惕潛在的通脹二次傳導效應， 將依據資料逐次會議研判政策。"
-    },
-    {
-      "id": "4894785",
-      "time": "2026-05-22 17:11:23",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【摩根士丹利對藥明康德的多頭持倉比例增至7.21%】據香港交易所披露，摩根士丹利對無錫藥明康德新藥開發股份有限公司 - H股的多頭持倉比例於2026年5月18日從6.66%增至7.21%。"
-    },
-    {
-      "id": "4894784",
-      "time": "2026-05-22 17:11:20",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行行長會見了日本首相。"
-    },
-    {
-      "id": "mkt:019e4ef3-725c-777d-b240-76b309f1ef81",
-      "time": "2026-05-22 17:10:37",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "ECB'S LAGARDE: LONG-TERM INFLATION EXPECTATIONS BROADLY WELL ANCHORED"
-    },
-    {
-      "id": "4894782",
-      "time": "2026-05-22 17:10:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "拉加德：長期通脹預期整體保持穩定。"
-    },
-    {
-      "id": "4894781",
-      "time": "2026-05-22 17:10:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟專員東布羅夫斯基斯：必須警惕維護公共財政穩健。"
-    },
-    {
-      "id": "4894780",
-      "time": "2026-05-22 17:09:54",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "拉加德：歐洲央行堅定致力於物價穩定。"
     }
   ]
 }
