@@ -1,7 +1,42 @@
 {
-  "updated": "2026-05-30 02:18:04",
-  "count": 15809,
+  "updated": "2026-05-30 02:21:55",
+  "count": 15810,
   "items": [
+    {
+      "id": "4907690",
+      "time": "2026-05-30 02:20:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國內政部長伯格姆：石油市場相信特朗普將促成一份有利協議。"
+    },
+    {
+      "id": "te:markets:555052",
+      "time": "2026-05-30 02:20:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Gold Gains by 1.40% — Top commodity gainers are Gold (1.40%) and Lithium Carbonate (1.14%). Biggest loser is Copper (-0.52%)."
+    },
+    {
+      "id": "4907689",
+      "time": "2026-05-30 02:19:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國內政部長伯格姆：特朗普此次會面或將傳出重大訊息。"
+    },
+    {
+      "id": "4907688",
+      "time": "2026-05-30 02:19:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國內政部長伯格姆：即將與特朗普會面。"
+    },
     {
       "id": "te:markets:555051",
       "time": "2026-05-30 02:15:02",
@@ -143139,35 +143174,6 @@
         "Importance 1"
       ],
       "text": "Agricultural Commodities Updates: Sugar Falls by 1.43% — Top commodity losers are Sugar (-1.43%), Coffee (-0.71%) and Cotton (-0.69%). Gains are led by Cocoa (1.35%), Oat (1.17%) and Palm Oil (0.63%)."
-    },
-    {
-      "id": "mkt:019e50eb-1c88-788e-b251-be6efbc57085",
-      "time": "2026-05-23 02:20:45",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "BRITAIN ‘WILL BOW TO EUROPEAN COURT RULES’ IF LABOUR REVERSES BREXIT – TELEGRAPH"
-    },
-    {
-      "id": "te:markets:553188",
-      "time": "2026-05-23 02:19:59",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Lithium Carbonate Drops by 2.20% — Top commodity losers are Lithium Carbonate (-2.20%), Platinum (-1.44%), Silver (-0.86%) and Gold (-0.61%). Gains are led by Copper (1.76%)."
-    },
-    {
-      "id": "4895679",
-      "time": "2026-05-23 02:19:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西官員：稅務部門統籌的油價異動收入，我方劃撥預算時態度偏保守。"
     }
   ]
 }
