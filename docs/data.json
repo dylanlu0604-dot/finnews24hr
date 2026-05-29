@@ -1,7 +1,32 @@
 {
-  "updated": "2026-05-30 02:48:40",
-  "count": 15824,
+  "updated": "2026-05-30 02:52:30",
+  "count": 15827,
   "items": [
+    {
+      "id": "mkt:019e7513-a2e1-7bb7-9965-8262e23f7749",
+      "time": "2026-05-30 02:51:21",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【US media: Trump has not decided on any new agreement with Iran】The New York Times reports senior US officials said Trump's roughly two-hour situation-room meeting produced no decision on a new agreement with Iran. The Trump administration says a deal is near but key issues remain under discussion, including the unfreezing of Iranian funds."
+    },
+    {
+      "id": "4907703",
+      "time": "2026-05-30 02:50:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "據紐約時報：據一位不願具名的美國政府高階官員透露，特朗普尚未就與伊朗達成新協議作出任何決定。"
+    },
+    {
+      "id": "4907702",
+      "time": "2026-05-30 02:48:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "法院裁定：美國法官下令特朗普政府移除肯尼迪中心建築上特朗普的姓名。"
+    },
     {
       "id": "4907701",
       "time": "2026-05-30 02:47:32",
