@@ -1,7 +1,25 @@
 {
-  "updated": "2026-05-30 02:41:04",
-  "count": 15820,
+  "updated": "2026-05-30 02:44:51",
+  "count": 15821,
   "items": [
+    {
+      "id": "4907700",
+      "time": "2026-05-30 02:41:49",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "據華盛頓郵報：美國官員稱，特朗普在戰情室關於伊朗諒解備忘錄的會議已經結束。"
+    },
+    {
+      "id": "mkt:019e750a-df2c-7bb7-9965-705957e21445",
+      "time": "2026-05-30 02:41:47",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Washington Post reports US officials said Trump has ended a Situation Room meeting on an Iran memorandum of understanding."
+    },
     {
       "id": "mkt:019e7507-8475-7bb7-9965-69ea3a8f21e1",
       "time": "2026-05-30 02:38:07",
@@ -143263,14 +143281,6 @@
         "國際"
       ],
       "text": "【U17國足亞洲盃亞軍】在剛剛結束的2026年U17男足亞洲盃決賽中，中國隊2:3不敵日本隊，收穫亞軍。"
-    },
-    {
-      "id": "4895684",
-      "time": "2026-05-23 02:41:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "據PUNCHBOWL：美國國務卿魯比奧將於 6 月 2 日出席參議院小組聽證會作證。"
     }
   ]
 }
