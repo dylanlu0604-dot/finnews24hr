@@ -1,7 +1,94 @@
 {
-  "updated": "2026-05-30 01:01:01",
-  "count": 15829,
+  "updated": "2026-05-30 01:05:01",
+  "count": 15830,
   "items": [
+    {
+      "id": "mkt:019e74b0-12d0-7bb7-9964-99dfe8993a62",
+      "time": "2026-05-30 01:02:29",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Baker Hughes oilfield services said U.S. drillers added oil and gas rigs for a sixth consecutive week."
+    },
+    {
+      "id": "mkt:019e74af-d9b8-7bb7-9964-915d73a48531",
+      "time": "2026-05-30 01:02:16",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "US total rig count for week ending May 29: 562 rigs, up from 558 the prior week."
+    },
+    {
+      "id": "mkt:019e74af-af71-7bb7-9964-8a122eddd1da",
+      "time": "2026-05-30 01:02:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Weekly Total Rig Count (May.29) | actual 562 | previous 558"
+    },
+    {
+      "id": "mkt:019e74af-6ea2-7bb7-9964-80176a6161c7",
+      "time": "2026-05-30 01:01:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "US total oil rigs 429 in the week to May 29, vs. 425 the prior week."
+    },
+    {
+      "id": "4907655",
+      "time": "2026-05-30 01:01:48",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國5月29日當週總鑽井數 562，前值 558。\n美國5月29日當週天然氣鑽井數 125，前值 125。\n美國5月29日當週石油鑽井數 429，前值 425。"
+    },
+    {
+      "id": "mkt:019e74af-4a50-7bb7-9964-7c09fda6e0af",
+      "time": "2026-05-30 01:01:42",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Weekly Total Oil Rig Count (May.29) | actual 429 | previous 425"
+    },
+    {
+      "id": "mkt:019e74af-1ceb-7bb7-9964-755c4be9c434",
+      "time": "2026-05-30 01:01:30",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "US natural gas rig count for the week to May 29: 125 rigs, unchanged from the prior week."
+    },
+    {
+      "id": "mkt:019e74ae-cdf8-7bb7-9964-6bc3ef2ac351",
+      "time": "2026-05-30 01:01:13",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Weekly Total Natural Gas Rig Count (May.29) | actual 125 | previous 125"
+    },
     {
       "id": "4907654",
       "time": "2026-05-30 01:00:02",
@@ -143239,69 +143326,6 @@
         "焦點"
       ],
       "text": "美國天然氣期貨跌超4.00%，現報2.896美元/百萬英熱。"
-    },
-    {
-      "id": "mkt:019e50a4-6e0d-7443-baf7-d61d3d0457db",
-      "time": "2026-05-23 01:03:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TULSI GABBARD RESIGNS FROM TRUMP CABINET: FOX"
-    },
-    {
-      "id": "4895634",
-      "time": "2026-05-23 01:03:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：英國財政大臣裡夫斯擬對存款利息徵收 22% 稅費。"
-    },
-    {
-      "id": "mkt:019e50a2-fe09-7443-baf7-ce7a36635420",
-      "time": "2026-05-23 01:01:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "AL HADATH SOURCE: A MEETING BRINGING TOGETHER THE PAKISTANI ARMY CHIEF AND THE IRGC COMMANDER WILL TAKE PLACE TOMORROW IN TEHRAN"
-    },
-    {
-      "id": "mkt:019e50a2-dd4a-7443-baf7-c2a148101249",
-      "time": "2026-05-23 01:01:49",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Weekly Total Natural Gas Rig Count (May.22) | actual 125 | previous 128"
-    },
-    {
-      "id": "mkt:019e50a2-c9d9-7443-baf7-bbb45624649d",
-      "time": "2026-05-23 01:01:46",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Weekly Total Rig Count (May.22) | actual 558 | previous 551"
-    },
-    {
-      "id": "mkt:019e50a2-b4c4-7443-baf7-b549a5954f18",
-      "time": "2026-05-23 01:01:40",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Weekly Total Oil Rig Count (May.22) | actual 425 | previous 415"
-    },
-    {
-      "id": "4895633",
-      "time": "2026-05-23 01:01:19",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國5月22日當週總鑽井數 558，前值 551。\n美國5月22日當週石油鑽井數 425，前值 415。\n美國5月22日當週天然氣鑽井數 125，前值 128。"
     }
   ]
 }
