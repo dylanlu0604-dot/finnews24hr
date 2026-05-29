@@ -1,7 +1,81 @@
 {
-  "updated": "2026-05-30 04:04:01",
-  "count": 15853,
+  "updated": "2026-05-30 04:08:02",
+  "count": 15857,
   "items": [
+    {
+      "id": "4907793",
+      "time": "2026-05-30 04:06:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普確認拉脫維亞“A/A-1”評級；展望穩定。"
+    },
+    {
+      "id": "4907792",
+      "time": "2026-05-30 04:06:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【科技行業ETF收漲超2.2%，領跑美股行業ETF，5月半導體ETF累漲超66%】週五（5月29日），科技行業ETF收漲2.23%，全球科技股指數ETF、網路股指數ETF至少漲1.61%，半導體ETF則收跌0.15%，可選消費ETF跌0.97%，能源業ETF跌1.11%。1-5月，半導體ETF累漲66.31%，全球科技股指數ETF、科技行業ETF、能源業ETF至少漲26.79%，醫療業ETF則累跌3.05%，金融業ETF跌5.34%。"
+    },
+    {
+      "id": "mkt:019e7557-45c0-7bb7-9966-95fbf1583d94",
+      "time": "2026-05-30 04:05:14",
+      "tags": [
+        "MKT News",
+        "DELL.N",
+        "Impact bullish"
+      ],
+      "text": "Dell (DELL.N) shares closed up nearly 33%."
+    },
+    {
+      "id": "4907791",
+      "time": "2026-05-30 04:05:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普：確認南非外幣評級“BB”，本幣評級“BB+”；展望維持正面。"
+    },
+    {
+      "id": "4907790",
+      "time": "2026-05-30 04:04:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普確認南非評級；展望正面。"
+    },
+    {
+      "id": "mkt:019e7556-a31e-7bb7-9966-8d7e150ddcf4",
+      "time": "2026-05-30 04:04:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bullish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "May 29 (Friday) — U.S. equities closed higher: the Dow Jones Industrial Average rose 363.49 points (+0.72%) to 51,032.46; the S&P 500 gained 16.45 points (+0.22%) to 7,580.08; the Nasdaq Composite added 55.15 points (+0.20%) to 26,972.62."
+    },
+    {
+      "id": "mkt:019e7556-6dc1-7bb7-9966-87fb531e31da",
+      "time": "2026-05-30 04:04:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "S&P affirms Hungary's BBB-/A-3 sovereign ratings; outlook negative. S&P affirms Lithuania's A/A-1 sovereign ratings; outlook stable."
+    },
+    {
+      "id": "4907789",
+      "time": "2026-05-30 04:03:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普確認立陶宛“A/A-1”評級；展望穩定。"
+    },
     {
       "id": "te:markets:555057",
       "time": "2026-05-30 04:03:05",
@@ -143507,45 +143581,6 @@
         "MKT News"
       ],
       "text": "MILIBAND HELD SECRET TALKS WITH STREETING – TELEGRAPH"
-    },
-    {
-      "id": "4895750",
-      "time": "2026-05-23 04:07:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "標普確認烏茲別克“BB/B”評級；展望穩定。"
-    },
-    {
-      "id": "4895749",
-      "time": "2026-05-23 04:06:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "標普：負面展望反映我們的觀點，即波斯尼亞和黑塞哥維那聯邦新政府或無法在2027-2028年期間整合預算。"
-    },
-    {
-      "id": "4895748",
-      "time": "2026-05-23 04:05:45",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數連續第八週上漲，是自2023年12月結束的九周連漲以來的最長紀錄。"
-    },
-    {
-      "id": "mkt:019e514b-0cb8-7aae-9ae1-2ad390bb9dfc",
-      "time": "2026-05-23 04:05:33",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Wall Street (US)",
-        "S&P500",
-        "Impact bullish",
-        "Dow",
-        "Nasdaq100"
-      ],
-      "text": "【S&P 500 Posts Longest Weekly Winning Streak Since 2023 as Dow Hits Record】US stocks advanced Friday, with the S&P 500 rising 0.4% to secure its eighth straight weekly gain, the longest winning streak since 2023, while the Dow Jones Industrial Average climbed 0.6% after reaching a record high a day earlier. The Nasdaq Composite added 0.2%. Markets rebounded after midweek optimism over potential US-Iran progress eased concerns about inflation and energy prices, though uncertainty remained over Iran’s uranium stockpile and the Strait of Hormuz. Separately, consumer sentiment fell to a record low in May, according to the University of Michigan, as inflation expectations increased."
     }
   ]
 }
