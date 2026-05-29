@@ -1,7 +1,82 @@
 {
-  "updated": "2026-05-29 23:51:06",
-  "count": 15889,
+  "updated": "2026-05-29 23:55:21",
+  "count": 15882,
   "items": [
+    {
+      "id": "mkt:019e7470-c663-7bb7-9963-cbb69285ca84",
+      "time": "2026-05-29 23:53:28",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "EIA: U.S. gasoline demand in March rose 1.0% YoY to 8.853 mln b/d; February was down 1.1% YoY."
+    },
+    {
+      "id": "mkt:019e746f-ceb4-7bb7-9963-c781efdc9021",
+      "time": "2026-05-29 23:52:24",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "EIA: U.S. distillate fuel demand in March rose 0.3% YoY to 3.904 mln b/d, following a 5.4% YoY increase in February."
+    },
+    {
+      "id": "te:markets:555040",
+      "time": "2026-05-29 23:52:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Gains on US-Iran Ceasefire Optimism — The FTSE MIB added 0.4% to close at 50,037 on Friday, supported by optimism over an extended ceasefire agreement between the US and Iran, although US President Donald Trump has yet to formally approve the deal. The development pushed oil prices lower, weighing on bond yields and supporting financials and the broader index. UniCredit gained 1.8%, while Intesa Sanpaolo and Generali added 1%. Luxury stocks also traded higher amid improved risk appetite, with Ferrari up 0.5% and Moncler advancing 0.9%. Other notable gainers included Poste Italiane (+1.4%) and TIM (+1.2%). In contrast, energy-related stocks retreated on lower oil prices, with Eni down 0.5% and Prysmian losing 1.5%. On the data front, the Italian headline inflation rate rose to 3.2% in May from 2.7% in April, aligning with forecasts. The unemployment rate edged down to 5.1% in April, below expectations of 5.3%. GDP expanded by 0.8% from the previous year in the first quarter of 2026, revised from estimates of 0.7%."
+    },
+    {
+      "id": "4907616",
+      "time": "2026-05-29 23:52:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗方面駁斥特朗普關於可能與伊朗達成協議的說法】據伊朗媒體Fars News：知情人士駁斥了特朗普關於可能與伊朗達成協議的最新說法，稱其言論“真假參半”，旨在炮製一場虛假的勝利。如今幾乎所有人都已看清，特朗普的這些說法根本站不住腳。據相關報道，這份以“對等承諾”形式起草的協議文字，目前正處於伊朗國內批准程式的最後階段，尚未做出最終決定。與此形成鮮明對比的是，特朗普卻丟擲了一些與協議文字條款相悖的議題。與此同時，他卻宣稱將立即解除封鎖。 特朗普對協議核心內容的歪曲包括：1.特朗普聲稱，伊朗有義務在不收取任何費用的前提下開放霍爾木茲海峽；然而，協議文字中根本不存在此類條款。2.特朗普聲稱，伊朗將拆除或銷燬其核材料。知情人士強調指出，不僅諒解備忘錄中毫無此類內容，特朗普的這一說法更是徹頭徹尾的無稽之談。 特朗普刻意迴避的協議關鍵條款：1.特朗普隻字未提、卻至關重要的一項內容，即關於立即解凍並向伊朗支付120億美元被凍結資產的先決條件。2.黎巴嫩停火。3.伊朗官員亦強調，最終協議將以伊朗伊斯蘭共和國的原則與“紅線”為基礎。"
+    },
+    {
+      "id": "mkt:019e746f-6b7a-7bb7-9963-bd321f1a9870",
+      "time": "2026-05-29 23:51:59",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "EIA: U.S. oil demand in March rose 2.2% YoY to 20.383 mln b/d, compared with a 4.5% YoY increase in February."
+    },
+    {
+      "id": "4907615",
+      "time": "2026-05-29 23:51:27",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國能源資訊署（EIA）：3 月美國汽油需求同比增長 1%，日需求量增加 8.8 萬桶，達 885.3 萬桶 / 日；2 月該資料曾同比下降 1.1%。\n3 月美國石油總需求同比上升 2.2%，日需求量增加 43.3 萬桶，至 2038.3 萬桶 / 日；2 月同比增幅為 4.5%。\n3 月美國餾分油需求同比微增 0.3%，日需求量增加 1 萬桶，達 390.4 萬桶 / 日；2 月該資料同比上漲 5.4%。"
+    },
+    {
+      "id": "4907614",
+      "time": "2026-05-29 23:50:21",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【特朗普稱對伊朗的海上封鎖“即將被解除”】美國總統特朗普29日說，對伊朗的海上封鎖“即將被解除”，被困在霍爾木茲海峽的船只可以開始“返航”了。（新華社）"
+    },
     {
       "id": "4907613",
       "time": "2026-05-29 23:49:13",
@@ -143785,148 +143860,6 @@
         "The Trump Trade"
       ],
       "text": "TRUMP SAYS HE WANTS WARSH TO BE INDEPENENT, DO A GREAT JOB"
-    },
-    {
-      "id": "mkt:019e5065-e3a6-7224-83c1-b01ea8bebc1c",
-      "time": "2026-05-22 23:55:15",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "TRUMP TELLS WARSH, DON'T LOOK AT ME, DO YOUR OWN THING"
-    },
-    {
-      "id": "mkt:019e5065-cd34-7224-83c1-a9a51b35bd29",
-      "time": "2026-05-22 23:55:09",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "TRUMP: WANT KEVIN TO BE TOTALLY INDEPENDENT"
-    },
-    {
-      "id": "4895573",
-      "time": "2026-05-22 23:55:04",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "特朗普：美聯儲是全球金融體系的支柱。"
-    },
-    {
-      "id": "mkt:019e5065-a8db-7224-83c1-a17789a27fab",
-      "time": "2026-05-22 23:55:00",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "TRUMP: FED IS PILLAR OF GLOBAL FINANCIAL SYSTEM"
-    },
-    {
-      "id": "mkt:019e5065-980f-7224-83c1-9e147be3b872",
-      "time": "2026-05-22 23:54:55",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "TRUMP: WARSH TO LEAD FED STARTING TODAY"
-    },
-    {
-      "id": "4895572",
-      "time": "2026-05-22 23:54:50",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "特朗普：沃什將於今日起領導美聯儲。"
-    },
-    {
-      "id": "4895571",
-      "time": "2026-05-22 23:54:41",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "特朗普：沃什對美聯儲懷有最深的敬意。"
-    },
-    {
-      "id": "mkt:019e5065-3491-7224-83c1-979d819ca15f",
-      "time": "2026-05-22 23:54:30",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "TRUMP: WARSH HAS DEEPEST RESPECT FOR THE FED"
-    },
-    {
-      "id": "4895570",
-      "time": "2026-05-22 23:54:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：京東研究對THE VERY GROUP的潛在收購。"
-    },
-    {
-      "id": "mkt:019e5064-b4c4-7224-83c1-8d21f0127225",
-      "time": "2026-05-22 23:53:57",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "US10Y",
-        "S&P500"
-      ],
-      "text": "TRUMP: NOBODY BETTER PREPARED TO LEAD FED THAN WARSH"
-    },
-    {
-      "id": "4895569",
-      "time": "2026-05-22 23:53:34",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "特朗普：沒有人比沃什更適合領導美聯儲。"
-    },
-    {
-      "id": "mkt:019e5063-1975-7224-83c1-84d5dec20cb4",
-      "time": "2026-05-22 23:52:12",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "ICE U.K. NAT GAS JUNE FUTURES SETTLE AT 118.47 PENCE/THERM"
-    },
-    {
-      "id": "mkt:019e5062-b066-7224-83c1-7c246f4a2ad3",
-      "time": "2026-05-22 23:51:45",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Europe & UK"
-      ],
-      "text": "JD.COM WEIGHS £2BN BID FOR ONLINE SHOPPING PLATFORM THE VERY GROUP - SKY NEWS"
-    },
-    {
-      "id": "mkt:019e5062-2c69-7224-83c1-77950f26c672",
-      "time": "2026-05-22 23:51:10",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "JD.com"
-      ],
-      "text": "JD.COM STUDIES POTENTIAL BID FOR THE VERY GROUP: SKY"
     }
   ]
 }
