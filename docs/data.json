@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-30 02:56:18",
-  "count": 15826,
+  "updated": "2026-05-30 03:00:51",
+  "count": 15823,
   "items": [
     {
       "id": "mkt:019e7516-ead1-7bb7-9965-908f14a6b116",
@@ -143284,41 +143284,6 @@
         "市場"
       ],
       "text": "恒生指數主連夜盤收跌0.49%，報25430點。恒生科技指數主連夜盤收跌0.74%，報4824點。"
-    },
-    {
-      "id": "mkt:019e510f-c261-788e-b251-efd5f876356c",
-      "time": "2026-05-23 03:00:47",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "INVESTMENT FUNDS IN LATEST BIWEEKLY REPORTING PERIOD BUY $41.636 BLN 3-YEAR NOTE DUE 05/15/2029 VS $42.810 BLN PRIOR MONTH - U.S. TREASURY"
-    },
-    {
-      "id": "mkt:019e510f-b645-788e-b251-e17a8d5b5ef2",
-      "time": "2026-05-23 03:00:44",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "FOREIGN INVESTORS IN LATEST BIWEEKLY REPORTING PERIOD BUY $2.767 BLN 30-YEAR BOND DUE 05/15/2056 VS $2.313 BLN PRIOR MONTH - U.S. TREASURY FOREIGN INVESTORS IN LATEST BIWEEKLY REPORTING PERIOD BUY $6.230 BLN 10-YEAR NOTE DUE 05/15/2036 VS $5.789 BLN PRIOR MONTH - U.S. TREASURY"
-    },
-    {
-      "id": "4895686",
-      "time": "2026-05-23 03:00:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒指期貨夜盤收跌0.37%，報25324.91點，低水281.12點。"
     }
   ]
 }
