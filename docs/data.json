@@ -1,7 +1,35 @@
 {
-  "updated": "2026-05-30 02:37:17",
-  "count": 15818,
+  "updated": "2026-05-30 02:41:04",
+  "count": 15820,
   "items": [
+    {
+      "id": "mkt:019e7507-8475-7bb7-9965-69ea3a8f21e1",
+      "time": "2026-05-30 02:38:07",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "WTO: If shipping through the Strait of Hormuz does not return to normal, falling oil inventories would pose risks to fuel security, market conditions and economic resilience."
+    },
+    {
+      "id": "mkt:019e7507-5a17-7bb7-9965-604aef5653f0",
+      "time": "2026-05-30 02:37:56",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Tasnim News Agency reported Iran's air-defence systems shot down U.S. and Israeli small drones near Qeshm Island."
+    },
+    {
+      "id": "4907699",
+      "time": "2026-05-30 02:37:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "世界貿易組織：若航運無法恢復正常，石油庫存持續消耗將給燃料安全、市場形勢及經濟韌性帶來風險。"
+    },
     {
       "id": "4907698",
       "time": "2026-05-30 02:36:40",
@@ -143243,14 +143271,6 @@
         "國際"
       ],
       "text": "據PUNCHBOWL：美國國務卿魯比奧將於 6 月 2 日出席參議院小組聽證會作證。"
-    },
-    {
-      "id": "4895683",
-      "time": "2026-05-23 02:39:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "Datafolha民調顯示： 盧拉將以 48% 的得票率贏得巴西總統大選第二輪投票，米歇爾・博索納羅得票率為 43%。"
     }
   ]
 }
