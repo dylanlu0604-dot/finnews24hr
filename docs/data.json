@@ -1,7 +1,26 @@
 {
-  "updated": "2026-05-30 06:15:15",
+  "updated": "2026-05-30 06:19:01",
   "count": 15830,
   "items": [
+    {
+      "id": "te:markets:555067",
+      "time": "2026-05-30 06:15:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Indian Rupee Increases by 0.99% — Top currency gainers are Indian Rupee (0.99%), New Zealand Dollar (0.91%), Swiss Franc (0.38%) and Euro (0.07%). Biggest losers are South Korean Won (-0.74%), Mexican Peso (-0.25%) and Dollar Index (-0.05%). Meanwhile, British Pound and Japanese Yen were little changed."
+    },
+    {
+      "id": "4907902",
+      "time": "2026-05-30 06:14:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國太空軍在火箭爆炸事件後仍繼續支援藍色起源。"
+    },
     {
       "id": "4907901",
       "time": "2026-05-30 06:14:28",
@@ -143286,22 +143305,6 @@
         "國際"
       ],
       "text": "以色列南部傳出爆炸聲，當地民眾聽見巨響，以色列國防軍正展開調查。"
-    },
-    {
-      "id": "4895863",
-      "time": "2026-05-23 06:15:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際貨幣基金組織（IMF）發言人：確認IMF將於6月派遣專家團隊前往塞內加爾首都達喀爾進行技術性談判。目前，IMF正與塞內加爾官方通力合作，以期“在宏觀經濟展望、融資需求以及改革優先事項上達成共識”。"
-    },
-    {
-      "id": "4895862",
-      "time": "2026-05-23 06:15:37",
-      "tags": [
-        "市場"
-      ],
-      "text": "Tradeweb運營資料顯示，受國際貨幣基金組織（IMF）積極表態的刺激，塞內加爾2033年到期的美元主權債券上漲0.5美分，買盤報價略高於面值的53%（53美分/1美元），重新整理了5月月中以來的最高水平。"
     }
   ]
 }
