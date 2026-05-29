@@ -1,7 +1,125 @@
 {
-  "updated": "2026-05-29 21:40:38",
-  "count": 15848,
+  "updated": "2026-05-29 21:44:57",
+  "count": 15841,
   "items": [
+    {
+      "id": "mkt:019e73fa-697e-7995-81dd-e6fb09a2fe59",
+      "time": "2026-05-29 21:44:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【ECB governing council member radev says ECB should avoid delayed action on Iran war shock】ECB governing council member radev said the ECB should avoid prolonged delay in responding to fallout from the Iran war, warning inf expectations could become unanchored and that the cost of inaction may exceed earlier intervention. He said the current trade-off is asymmetric. The Middle East conflict has driven inf well above the ECB's 2% target and policymakers appear close to the first rate hike since 2023, though some officials favour waiting to assess spillovers while others cite growth risks."
+    },
+    {
+      "id": "4907430",
+      "time": "2026-05-29 21:43:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國旅遊協會發出警告稱，關閉紐瓦克機場的國際航線業務每年或將造成80億美元損失。"
+    },
+    {
+      "id": "4907429",
+      "time": "2026-05-29 21:43:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮稱，歐亞經濟聯盟成員國表示，他們呼籲亞美尼亞就加入歐盟舉行全民公投。"
+    },
+    {
+      "id": "4907428",
+      "time": "2026-05-29 21:43:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股半導體、儲存晶片、伺服器、應用軟體全線爆發 多股再創歷史新高】美股半導體、儲存晶片、伺服器、應用軟體全線爆發，超威電腦漲超13%，甲骨文漲超5%，高通漲5.3%，英特爾漲近4%，博通漲3.2%，逼近歷史新高，美光科技漲3.5%，續刷歷史新高；微軟漲超3%。ARM漲近5%，再創歷史新高。此前戴爾盤初飆升35%，創下自2024年以來的最大漲。"
+    },
+    {
+      "id": "4907427",
+      "time": "2026-05-29 21:43:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華健未來(成都)科技股份有限公司 - B透過港交所上市聆訊】據港交所檔案：華健未來(成都)科技股份有限公司 - B透過港交所上市聆訊。"
+    },
+    {
+      "id": "mkt:019e73f9-5626-7995-81dd-def6a57c4050",
+      "time": "2026-05-29 21:43:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "S&P 500 technology sector hit a record high, trading up 1.7%."
+    },
+    {
+      "id": "4907426",
+      "time": "2026-05-29 21:42:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "北歐油輪有限公司：無論霍爾木茲海峽關閉還是開放，都不會對本公司的經營狀況產生影響。"
+    },
+    {
+      "id": "te:markets:554999",
+      "time": "2026-05-29 21:42:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "ConocoPhillips Stock Price Hits 6-week Low — ConocoPhillips shares decreased to 113.59 USD, the lowest since April 2026. Over the past 4 weeks, ConocoPhillips lost 11.36%, and in the last 12 months, it increased 32.8%."
+    },
+    {
+      "id": "4907425",
+      "time": "2026-05-29 21:42:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數科技板塊創歷史新高，最新上漲1.7%。"
+    },
+    {
+      "id": "mkt:019e73f7-80fd-7eef-a0f0-1e547da14fb9",
+      "time": "2026-05-29 21:41:00",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "S&P 500 Software & Services index hits four-month high, up 2.7%."
+    },
+    {
+      "id": "4907424",
+      "time": "2026-05-29 21:40:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500軟體與服務指數創四個月新高，最新上漲2.7%。"
+    },
+    {
+      "id": "te:markets:554997",
+      "time": "2026-05-29 21:40:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Opens 0.40% Higher — The Dow Jones Index is picking up 205 points or 0.40 percent on Friday. Gains are led by IBM (4.72%), Salesforce (4.19%) and Microsoft (2.92%). Biggest losers are Nike (-0.97%), P&G (-0.86%) and American Express (-0.70%)."
+    },
+    {
+      "id": "4907423",
+      "time": "2026-05-29 21:40:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "標普將ASM INTL N.V評級上調至投資級。"
+    },
     {
       "id": "4907422",
       "time": "2026-05-29 21:39:32",
@@ -143281,187 +143399,6 @@
         "市場"
       ],
       "text": "【全年AI收入同比翻番，楊元慶：未來兩年整體營收要超千億美元】5月22日，受第四財季營收和利潤超預期的提振，聯想集團（0992.HK）股價大漲20%。楊元慶表示，新的一年內，AI PC會佔到整個聯想PC銷量的50%以上，AI伺服器也會是一個強勁的增長動力；另外，AI解決方案和服務，尤其是按需定製的解決方案和服務增長會非常快。財報顯示：AI也正在成為聯想增長最快的新引擎，全年AI收入同比增長105%。三大業務集團之所以能夠實現超預期增長，與混合式AI戰略的持續深入密不可分。“我們很有信心利用最多兩年的時間，把公司整體的營收規模提升到1000億美元以上，而且能進一步改善盈利。”楊元慶表示。（澎湃）"
-    },
-    {
-      "id": "4895399",
-      "time": "2026-05-22 21:44:18",
-      "tags": [
-        "市場"
-      ],
-      "text": "道瓊斯指數漲0.64%，報50608.77點，升破2月高點創下歷史新高。"
-    },
-    {
-      "id": "4895398",
-      "time": "2026-05-22 21:43:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【錦富技術：預計本年度天馬化工盈利能力將有所改善】錦富技術5月22日在業績說明會上表示，國內膠黏劑行業整體行情持續上行，作為原材料的加氫石油樹脂產品價格步入快速上升通道，從2025年最低8000元/噸漲至2026年3月底的14000-16000元/噸，市場整體呈現供不應求的態勢。天馬化工今年3月和4月銷量合計約2300噸，4月已實現單月扭虧為盈。受國內國際多種因素影響，目前無法準確預計加氫石油樹脂產品的市場需求及價格走勢，但公司預計本年度天馬化工相關業務較以前年度整體向好，產能利用率和產品毛利率顯著提升，盈利能力也將有所改善。"
-    },
-    {
-      "id": "4895397",
-      "time": "2026-05-22 21:43:42",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "魯比奧：特朗普有擔憂，可能無法與伊朗達成協議。"
-    },
-    {
-      "id": "4895396",
-      "time": "2026-05-22 21:43:31",
-      "tags": [
-        "市場"
-      ],
-      "text": "【老虎富途盤前股價暴跌超35%】受監管重拳出擊影響，截至北京時間今晚8點，美股老虎證券和富途控股，盤前股價紛紛跌超35%。華夏基金首席策略分析師軒偉表示：“老虎、富途、長橋境內外相關主體未經核准，未取得經營證券經紀業務許可、經營證券融資融券業務許可，在境內開展證券交易營銷推廣、處理交易指令等相關證券業務並獲得相關收益，違反證券法規定，構成非法經營證券業務。此外，三家機構境內外相關主體還違反了相關法律規定，構成非法從事公募基金銷售業務、非法從事期貨經紀業務。”中國銀河證券首席策略分析師楊超稱：“上述非法跨境展業行為，違反了我國證券基金期貨法律法規，破壞了市場秩序，必須堅決予以打擊。”（央視財經）"
-    },
-    {
-      "id": "4895395",
-      "time": "2026-05-22 21:43:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "XMAX宣佈簽署新增人工智慧服務協議，預計年營收最高可達約360萬美元。"
-    },
-    {
-      "id": "4895394",
-      "time": "2026-05-22 21:43:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：可能在北極舉行領導人級會晤。如果俄烏衝突的局勢發生變化，我們將做好準備。"
-    },
-    {
-      "id": "mkt:019e4fec-e9ec-7113-afb5-1757703bd471",
-      "time": "2026-05-22 21:43:04",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "RUBIO ON IRAN DEAL: \"WE'RE NOT THERE YET\""
-    },
-    {
-      "id": "4895393",
-      "time": "2026-05-22 21:43:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "魯比奧：與伊朗的談判已取得一定進展，但不應誇大其成果。"
-    },
-    {
-      "id": "4895392",
-      "time": "2026-05-22 21:42:55",
-      "tags": [
-        "其他",
-        "焦點",
-        "國際"
-      ],
-      "text": "魯比奧談伊核協議：“我們尚未達成一致”。"
-    },
-    {
-      "id": "4895391",
-      "time": "2026-05-22 21:42:48",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "法國巴黎銀行預計英國央行將在7月加息25個基點，此前該行預測加息時點為6月。"
-    },
-    {
-      "id": "4895390",
-      "time": "2026-05-22 21:42:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "【巴基斯坦外交部稱 “未獲悉” 陸軍參謀長擬訪伊朗一事】巴基斯坦外交部發言人塔希爾・安德拉比周五表示，針對伊朗官方媒體自週四起報道的、作為美伊關鍵斡旋方的陸軍參謀長賽義德・阿西姆・穆尼爾元帥將赴德黑蘭的訊息，他目前未獲悉相關訪問計劃。 他稱：“若確有安排，相關訊息定會適時公佈。我目前對此既無法證實，也不能否認。” 安德拉比補充道：“關於任何協議的具體內容，我方一貫立場是不透露細節。作為斡旋方與協調方，不公開各方立場、不透露談判程序、不對進展快慢定性，是我方職責的核心原則。我將堅持這一立場。”"
-    },
-    {
-      "id": "mkt:019e4fec-4ce3-7113-afb5-0cecc1071796",
-      "time": "2026-05-22 21:42:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "RUBIO: THERE HAS BEEN SOME PROGRESS WITH IRAN, BUT WOULD NOT EXAGGERATE IT"
-    },
-    {
-      "id": "4895389",
-      "time": "2026-05-22 21:42:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "【美股費城半導體指數盤初漲1.6%】美股費城半導體指數盤初漲1.6%，AMD漲超6%再創新高，Astera Labs、高通漲超5%，德州儀器、恩智浦、阿斯麥漲近3%，邁威爾科技漲超2%。"
-    },
-    {
-      "id": "mkt:019e4feb-ee19-7113-afb5-0156c8851792",
-      "time": "2026-05-22 21:42:02",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Europe & UK",
-        "DAX",
-        "Impact bullish",
-        "EURUSD",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "STOXX 50 EUROPEAN BLUE CHIP INDEX HITS HIGHEST SINCE MARCH 2, LAST UP 0.9% ON DAY"
-    },
-    {
-      "id": "4895388",
-      "time": "2026-05-22 21:41:53",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "歐洲斯托克50藍籌指數觸及3月2日以來新高，日內最新上漲0.9%。"
-    },
-    {
-      "id": "te:markets:553133",
-      "time": "2026-05-22 21:41:44",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Ibovespa Falls Amid Middle East Uncertainty — The Ibovespa lost nearly 1% to trade below 176,500 on Friday amid heightened uncertainty surrounding peace negotiations between the US and Iran. Iran’s foreign minister met with Pakistan’s interior minister to discuss proposals aimed at ending the conflict. US Secretary of State Marco Rubio said on Thursday that there had been “some positive signs” in negotiations, although disagreements remained over Tehran’s uranium stockpile and control of the Strait of Hormuz. Investors remained concerned about disruptions around the strait, which have driven oil prices sharply higher since the start of the conflict and shifted global interest rate expectations amid inflation concerns. However, Petrobras fell nearly 2% as oil prices retreated from recent peaks. Utilities also traded lower, with Axia and Sabesp down more than 1%. Other laggards included Ambev (-1%) and Rede D'Or (-1%). In contrast, Vale rose 0.4% as iron ore prices edged higher."
-    },
-    {
-      "id": "4895387",
-      "time": "2026-05-22 21:41:40",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "巴基斯坦外交部表示，並未獲悉陸軍參謀長有出訪伊朗的相關計劃。"
-    },
-    {
-      "id": "4895386",
-      "time": "2026-05-22 21:41:23",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "特朗普：科爾伯特被CBS解僱，標誌著那些沒天賦、嘴欠、薪水虛高、不好笑且收視率慘淡的深夜電視脫口秀主持人們迎來了“ 末日的開端  ”。"
-    },
-    {
-      "id": "4895385",
-      "time": "2026-05-22 21:41:07",
-      "tags": [
-        "宏觀",
-        "公司"
-      ],
-      "text": "【上海復旦：第一大股東擬變更獲財政部批覆，涉及1.07億股A股】上海復旦公告，公司於2026年5月21日收到復芯凡高轉發的財政部批覆函件，同意復芯凡高以非公開協議轉讓方式，向國盛投資轉讓本公司1.07億股A股股份。國盛投資已履行完畢本次股份轉讓所需的決策審批流程。後續雙方將依據股份轉讓協議約定完成相關手續，並在取得上海證券交易所關於本次股份轉讓的合規性確認後，向中國證券登記結算有限責任公司上海分公司申辦股份過戶登記。"
-    },
-    {
-      "id": "4895384",
-      "time": "2026-05-22 21:40:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗任命伊美談判代表團發言人】據伊朗伊斯蘭共和國廣播電視臺22日報道，伊朗伊斯蘭議會議長卡利巴夫任命伊朗外交部發言人巴加埃擔任伊美談判伊朗代表團發言人。報道說，卡利巴夫作為伊朗談判代表團負責人，已正式簽署相關任命令。（新華社）"
     }
   ]
 }
