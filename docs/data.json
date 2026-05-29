@@ -1,7 +1,34 @@
 {
-  "updated": "2026-05-29 23:55:21",
-  "count": 15882,
+  "updated": "2026-05-29 23:59:22",
+  "count": 15857,
   "items": [
+    {
+      "id": "4907618",
+      "time": "2026-05-29 23:58:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗法爾斯通訊社29日援引知情人士的話說，與美國的協議文字正處於伊朗國內審批的最後階段，伊方尚未作出最終決定。（新華社）"
+    },
+    {
+      "id": "4907617",
+      "time": "2026-05-29 23:56:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【奈及利亞將首都和9個州列為埃博拉應對高風險地區 】奈及利亞疾病預防控制中心日前發表宣告說，該國首都阿布賈和9個州被列為埃博拉疫情應對高風險地區。"
+    },
+    {
+      "id": "te:markets:555041",
+      "time": "2026-05-29 23:55:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Baltic Dry Index Edges Down, But Climbs 20% in May — The Baltic Exchange dry bulk index, which measures shipping rates for vessels carrying dry commodities, slipped 0.1% to 3,224 on Friday. The capesize index, covering ships that typically transport 150,000 ton cargoes such as iron ore and coal, fell 0.3% to 5,503. In contrast, the panamax index, which tracks vessels carrying around 60,000 to 70,000 tons of coal or grain, rose 0.5% to 2,343. The supramax index was unchanged at 1,569. Despite the decline, the broader Baltic index gained 20% over the month of May."
+    },
     {
       "id": "mkt:019e7470-c663-7bb7-9963-cbb69285ca84",
       "time": "2026-05-29 23:53:28",
@@ -143586,280 +143613,6 @@
         "The Trump Trade"
       ],
       "text": "TRUMP: WARSH TO ACT ON FORWARD GUIDANCE"
-    },
-    {
-      "id": "mkt:019e5069-a522-7224-83c2-3469b628d66d",
-      "time": "2026-05-22 23:59:08",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "TRUMP: WARSH WILL HAVE FULL SUPPORT OF ADMINISTRATION"
-    },
-    {
-      "id": "4895584",
-      "time": "2026-05-22 23:59:04",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "特朗普：沃什將推進美聯儲現代化改革。"
-    },
-    {
-      "id": "4895583",
-      "time": "2026-05-22 23:58:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我們將依靠經濟增長化解債務。"
-    },
-    {
-      "id": "mkt:019e5068-f13f-7224-83c2-2ccad5afe29e",
-      "time": "2026-05-22 23:58:27",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "TRUMP: WARSH TO BRING REFORM TO FED TRUMP: WARSH WILL BRING MODERNIZATION TO FED"
-    },
-    {
-      "id": "4895582",
-      "time": "2026-05-22 23:58:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我們有部分債務亟待處置。"
-    },
-    {
-      "id": "mkt:019e5068-b424-7224-83c2-2499daf6e047",
-      "time": "2026-05-22 23:58:14",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "TRUMP: ECONOMIC GROWTH DOESN'T MEAN INFLATION"
-    },
-    {
-      "id": "4895581",
-      "time": "2026-05-22 23:58:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：想要遏制通脹。"
-    },
-    {
-      "id": "mkt:019e5068-942f-7224-83c2-1a2b6271824c",
-      "time": "2026-05-22 23:58:01",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "TRUMP: DON'T WANT TO STOP ECONOMIC GROWTH"
-    },
-    {
-      "id": "mkt:019e5068-7812-7224-83c2-13b79af77166",
-      "time": "2026-05-22 23:57:56",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "TRUMP: WANT TO STOP INFLATION, BUT NOT STOP GREATNESS"
-    },
-    {
-      "id": "4895580",
-      "time": "2026-05-22 23:57:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：沃什明白，經濟形勢好的時候，就應該讓它繁榮發展。"
-    },
-    {
-      "id": "mkt:019e5068-5b28-7224-83c2-0ff8792984d0",
-      "time": "2026-05-22 23:57:50",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "TRUMP: WE WILL GROW OUR WAY OUT OF DEBT"
-    },
-    {
-      "id": "mkt:019e5068-515d-7224-83c2-06d0bc6a8677",
-      "time": "2026-05-22 23:57:44",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "TRUMP: WE HAVE SOME DEBT WE WANT TO TAKE CARE OF"
-    },
-    {
-      "id": "4895579",
-      "time": "2026-05-22 23:57:43",
-      "tags": [
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：美聯儲將自行做出決策。"
-    },
-    {
-      "id": "mkt:019e5068-2801-7224-83c1-fa16a8d69401",
-      "time": "2026-05-22 23:57:41",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "TRUMP: WARSH KNOWS THAT WHEN ECONOMY IS BOOMING, THAT'S GOOD"
-    },
-    {
-      "id": "4895578",
-      "time": "2026-05-22 23:57:37",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "特朗普：沃什將維護美聯儲公信力。"
-    },
-    {
-      "id": "mkt:019e5068-0e89-7224-83c1-f094e6f564a8",
-      "time": "2026-05-22 23:57:32",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "TRUMP: WARSH UNDERSTANDS WHEN ECONOMY IS GOOD, LET IT BOOM"
-    },
-    {
-      "id": "4895577",
-      "time": "2026-05-22 23:57:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：全世界的人都會關注沃什。"
-    },
-    {
-      "id": "mkt:019e5067-be74-7224-83c1-ed3b66d8cb95",
-      "time": "2026-05-22 23:57:14",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "TRUMP: FED WILL MAKE ITS OWN DECISIONS"
-    },
-    {
-      "id": "mkt:019e5067-acd0-7224-83c1-e7beb005e68c",
-      "time": "2026-05-22 23:57:09",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "TRUMP: WARSH WILL SAFEGUARD FED INTEGRITY"
-    },
-    {
-      "id": "mkt:019e5067-abd4-7224-83c1-d894a9d6f574",
-      "time": "2026-05-22 23:57:03",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "TRUMP: PEOPLE ALL OVER WORLD WILL BE LOOKING AT WARSH"
-    },
-    {
-      "id": "mkt:019e5067-8003-7224-83c1-d5c8543fbb52",
-      "time": "2026-05-22 23:56:56",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "TRUMP: WARSH WILL RESTORE CONFIDENCE IN THE FED"
-    },
-    {
-      "id": "4895576",
-      "time": "2026-05-22 23:56:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "【古巴國家主席批評美國捏造“古巴威脅”以圖軍事侵略】古巴國家主席迪亞斯-卡內爾22日在社交媒體上駁斥美國部分官員將古巴視為威脅的論調，強調古巴不威脅、不挑戰、不挑釁美國或任何其他國家，是熱愛和平的國家。（新華社）"
-    },
-    {
-      "id": "4895575",
-      "time": "2026-05-22 23:56:20",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "特朗普：  沃什談及重塑美聯儲公信力的必要性。"
-    },
-    {
-      "id": "mkt:019e5066-aeff-7224-83c1-c83a1df4fdea",
-      "time": "2026-05-22 23:56:06",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "TRUMP: WARSH SPOKE ABOUT NEED OF RESTORING FED INTEGRITY"
-    },
-    {
-      "id": "te:markets:553170",
-      "time": "2026-05-22 23:55:46",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "CAC 40 Rebounds on Industrials' Gains — The CAC 40 rose 0.4% to close at 8,116 on Friday, rebounding from the previous session as heavyweight industrial stocks led gains and investors assessed fresh domestic economic data. Airbus advanced 2.1%, while Safran gained 1.9%. Chipmaker STMicroelectronics also climbed 5.2%, extending momentum in the global tech sector after Nvidia reported stronger-than-expected first-quarter sales. On the economic front, France’s overall business climate index held steady at 94 in May, in line with expectations but still below its long-term average of 100. Weakness in services and retail offset stronger industrial confidence, highlighting continued pressure on domestic demand from the economic fallout of the Iran war. Meanwhile, the manufacturing business climate index rose to a four-month high of 102 from 100 in April."
-    },
-    {
-      "id": "mkt:019e5066-4cec-7224-83c1-c113c8c28113",
-      "time": "2026-05-22 23:55:36",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "TRUMP: FED GOT REMOVED FROM CORE MISSION"
-    },
-    {
-      "id": "4895574",
-      "time": "2026-05-22 23:55:31",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：希望沃什保持獨立，並出色地完成工作。"
-    },
-    {
-      "id": "mkt:019e5066-3208-7224-83c1-baffbc89be71",
-      "time": "2026-05-22 23:55:30",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "TRUMP SAYS HE WANTS WARSH TO BE INDEPENENT, DO A GREAT JOB"
     }
   ]
 }
