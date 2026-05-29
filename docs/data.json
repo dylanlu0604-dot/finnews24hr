@@ -1,7 +1,24 @@
 {
-  "updated": "2026-05-30 04:43:21",
-  "count": 15829,
+  "updated": "2026-05-30 04:47:18",
+  "count": 15820,
   "items": [
+    {
+      "id": "4907838",
+      "time": "2026-05-30 04:45:57",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "Kraken即將推出首個受美國商品期貨交易委員會（CFTC）監管、面向美國交易者的永續期貨產品。"
+    },
+    {
+      "id": "4907837",
+      "time": "2026-05-30 04:43:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美財長貝森特暗示對伊制裁可能調整 取決於談判進展】美國財長斯科特·貝森特暗示，特朗普政府可以移除對伊朗的部分制裁，取決於當前與德黑蘭方面對峙局勢的進展情況。當被問及美國是否會維持對伊朗的金融和經濟封鎖時，貝森特回答說：“我們拭目以待。”他週五在加州Simi Valley舉行的里根國家經濟論壇發表演講後的問答環節中表示。貝森特表示：“任何措施的解除都將循序漸進”。他補充稱，任何包含放鬆制裁的協議都將包含“伊朗政權必須達到的里程碑”。他還表示，如果不能很快達成協議，政府可能加大制裁。"
+    },
     {
       "id": "4907836",
       "time": "2026-05-30 04:40:59",
@@ -143213,112 +143230,6 @@
         "國際"
       ],
       "text": "美國芝加哥商業交易所集團（CME Group）批准印度Hindalco Industries Ltd.兩個品牌的銅產品為COMEX交割品種。"
-    },
-    {
-      "id": "4895811",
-      "time": "2026-05-23 04:46:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "【頂風停擺 巴西宣佈取消今年鹽下石油區塊拍賣計劃】巴西計劃部長Bruno Moretti在一場新聞釋出會上公開證實，巴西聯邦政府已拍板決定，取消原定於今年舉行的未簽約近海鹽下石油區塊的招標拍賣工作。Bruno Moretti坦言，這一變故直接倒逼政府在最新編制的修正案預算報告中，全額扣減了這筆曾被寄予厚望的310億雷亞爾（約合61.8億美元）的潛在財政收入。 但他同時向市場安撫道：“我們未來肯定會重新審視這一議題，重新最佳化該拍賣的底層結構。在未來的某一個財政年度裡，它無疑將扮演關鍵角色，協助我們達成基本的財政平衡目標。”據悉，該筆流產的拍賣原本主要涵蓋一批已經進入實質性開採階段、但尚未簽署最終權益合同的成熟油田。競投成功的中資或跨國能源巨頭，本質上將獲得源自這批油田增產部分的直接分成與獲利權。作為參照，巴西政府在去年也曾舉行過一次類似的鹽下油田拍賣，但最終僅勉強為國庫募集到78億雷亞爾，其結果大幅低於華爾街及巴西官方的最初預期。"
-    },
-    {
-      "id": "mkt:019e516f-d13b-7aae-9ae1-c4774dae1421",
-      "time": "2026-05-23 04:45:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "MOODY'S: STABLE OUTLOOK REFLECTS EXPECTATION THAT SAUDI ARABIA'S CREDIT PROFILE WILL REMAIN RESILIENT MOODY'S: EXPECT SAUDI ARABIA'S NON-OIL ECONOMY TO REMAIN RELATIVELY RESILIENT, SUPPORTED BY SUSTAINED GOVERNMENT SPENDING"
-    },
-    {
-      "id": "mkt:019e516f-31b0-7aae-9ae1-b9603c22d03c",
-      "time": "2026-05-23 04:45:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "MOODY'S RATINGS AFFIRMS SAUDI ARABIA'S AA3 RATING, MAINTAINS STABLE OUTLOOK"
-    },
-    {
-      "id": "mkt:019e516e-ef72-7aae-9ae1-b3e1f221782c",
-      "time": "2026-05-23 04:44:39",
-      "tags": [
-        "MKT News",
-        "CNH",
-        "Impact bullish",
-        "Hang Seng Index"
-      ],
-      "text": "SCOPE AFFIRMS THE PEOPLE’S REPUBLIC OF CHINA’S RATING AT A, MAINTAINS A STABLE OUTLOOK"
-    },
-    {
-      "id": "mkt:019e516e-6fb1-7aae-9ae1-a8bf906da4d6",
-      "time": "2026-05-23 04:44:12",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "TRUMP: WE'RE GOING TO GET INTEREST RATES DOWN QUICKLY"
-    },
-    {
-      "id": "mkt:019e516e-5a95-7aae-9ae1-a1a1412e6830",
-      "time": "2026-05-23 04:44:06",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "TRUMP: HOUSING IS ABOUT INTEREST RATES, MORE THAN LEGISLATION"
-    },
-    {
-      "id": "mkt:019e516e-4306-7aae-9ae1-9a27110333da",
-      "time": "2026-05-23 04:44:01",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "TRUMP: I NOW HAVE A GREAT HEAD OF THE FED IN WARSH"
-    },
-    {
-      "id": "mkt:019e516e-3cfc-7aae-9ae1-92b773452199",
-      "time": "2026-05-23 04:43:59",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "TRUMP: RATES ARE COMING DOWN WITH ENERGY"
-    },
-    {
-      "id": "4895810",
-      "time": "2026-05-23 04:43:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "墨西哥總統：協議惠及墨西哥、歐洲與美國三方。"
-    },
-    {
-      "id": "4895809",
-      "time": "2026-05-23 04:43:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "墨西哥總統：歐盟貿易協議不會與美方利益產生衝突。"
-    },
-    {
-      "id": "mkt:019e516d-a6e4-7aae-9ae1-8d2f56c634b2",
-      "time": "2026-05-23 04:43:21",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "Brent"
-      ],
-      "text": "【Trump Weighs New Iran Strikes After Security Meeting】President Donald Trump met senior national security advisers on Friday as he considered possible new strikes on Iran amid stalled negotiations, according to U.S. officials cited by Axios. Vice President JD Vance, Defense Secretary Pete Hegseth and CIA Director John Ratcliffe attended the meeting. Pakistan’s Field Marshal Asim Munir and a Qatari delegation traveled to Tehran in parallel mediation efforts. Axios reported that Trump had grown increasingly frustrated with the talks and was “leaning toward ordering a strike” by Thursday night, though officials said no final decision had been made."
     }
   ]
 }
