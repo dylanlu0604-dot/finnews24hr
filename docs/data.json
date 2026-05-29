@@ -1,7 +1,26 @@
 {
-  "updated": "2026-05-30 00:52:59",
-  "count": 15829,
+  "updated": "2026-05-30 00:56:57",
+  "count": 15831,
   "items": [
+    {
+      "id": "te:markets:555048",
+      "time": "2026-05-30 00:54:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Corn Hits 6-week Low — Corn decreased to 446.75 USd/BU, the lowest since April 2026. Over the past 4 weeks, Corn lost 3.84%, and in the last 12 months, it increased 0.66%."
+    },
+    {
+      "id": "4907653",
+      "time": "2026-05-30 00:53:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "LME期銅收跌66美元，報13636美元/噸。LME期鋁收漲7美元，報3666美元/噸。LME期鋅收跌11美元，報3540美元/噸。LME期鉛收跌2美元，報2016美元/噸。LME期鎳收跌39美元，報19062美元/噸。LME期錫收漲339美元，報55418美元/噸。LME期鈷收平，報56290美元/噸。"
+    },
     {
       "id": "mkt:019e74a6-ccfd-7bb7-9964-60e6c34b7761",
       "time": "2026-05-30 00:52:28",
