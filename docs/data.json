@@ -1,7 +1,142 @@
 {
-  "updated": "2026-05-29 22:05:44",
-  "count": 15831,
+  "updated": "2026-05-29 22:10:00",
+  "count": 15836,
   "items": [
+    {
+      "id": "4907475",
+      "time": "2026-05-29 22:08:50",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4550美元/盎司，日內漲1.21%。"
+    },
+    {
+      "id": "4907474",
+      "time": "2026-05-29 22:08:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【vivo S60系列釋出】5月29日晚，vivo S60系列正式釋出，其中，S60搭載第三代驍龍8s處理器、5000萬索尼雲臺級防抖主攝和5000萬索尼大底潛望長焦，S60元氣版搭載天璣7500處理器，全系搭載超聲波指紋 、VC液冷散熱、7200mAh電池。"
+    },
+    {
+      "id": "mkt:019e7410-8d2a-7eef-a0f0-c6ed33de213e",
+      "time": "2026-05-29 22:08:22",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Refinitiv calculations show Russia's diesel output fell about 10% in May versus April following Ukrainian drone attacks."
+    },
+    {
+      "id": "4907473",
+      "time": "2026-05-29 22:08:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "黎巴嫩總統府：總統奧恩已告知魯比奧，“任何步驟的推進都以停火為條件。”"
+    },
+    {
+      "id": "mkt:019e7410-4bda-7eef-a0f0-b9db50f7974d",
+      "time": "2026-05-29 22:08:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Lebanese presidential office said President Aoun told Rubio any steps forward would be conditional on a ceasefire."
+    },
+    {
+      "id": "4907472",
+      "time": "2026-05-29 22:07:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "路透社計算顯示，受烏克蘭無人機襲擊影響，俄羅斯5月柴油產量較4月下降約10%。"
+    },
+    {
+      "id": "te:economy:555007",
+      "time": "2026-05-29 22:07:07",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Chicago PMI",
+        "Importance 1"
+      ],
+      "text": "Chicago PMI Surges to Over 4-Year High — The Chicago Business Barometer surged to 62.7 in May of 2026 from 49.2 in the previous month, the highest in over four years. The sharp recovery in the index reflected fresh traction in business activity, after the tight supply of energy due to the war in the Middle East lifted energy prices and dented consumers' purchasing power at the start of the second quarter."
+    },
+    {
+      "id": "mkt:019e740f-657d-7eef-a0f0-b5b691f38a42",
+      "time": "2026-05-29 22:07:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold touched $4,550/oz, up 1.20% on the day."
+    },
+    {
+      "id": "mkt:019e740f-63ea-7eef-a0f0-ac6598a95ad4",
+      "time": "2026-05-29 22:07:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pul Pervogo, linked to the Belarus presidential press office, says President Lukashenko will meet a delegation from French President Macron; the delegation is expected to visit next week."
+    },
+    {
+      "id": "te:markets:555006",
+      "time": "2026-05-29 22:06:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Canola Hits 32-month High — Canola increased to 769.90 CAD/T, the highest since September 2023. Over the past 4 weeks, Canola gained 0.67%, and in the last 12 months, it increased 8.18%."
+    },
+    {
+      "id": "4907471",
+      "time": "2026-05-29 22:05:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭4月份經常賬戶赤字為48.61億美元。"
+    },
+    {
+      "id": "4907470",
+      "time": "2026-05-29 22:05:47",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數漲超0.5%，億咖通科技漲10.48%，新氧漲5.90%，Tims中國漲5.41%，名創優品漲4.93%，嘉楠科技漲3.62%。"
+    },
+    {
+      "id": "4907469",
+      "time": "2026-05-29 22:05:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息： 白俄羅斯總統盧卡申科將與馬克龍特使舉行會談。"
+    },
+    {
+      "id": "te:markets:555005",
+      "time": "2026-05-29 22:05:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Union Pacific Stock Price Hits 5-week Low — Union Pacific shares decreased to 260.98 USD, the lowest since April 2026. Over the past 4 weeks, Union Pacific lost 1.33%, and in the last 12 months, it increased 17.42%."
+    },
     {
       "id": "4907468",
       "time": "2026-05-29 22:03:44",
@@ -143229,84 +143364,6 @@
         "XAUUSD"
       ],
       "text": "TWO-YR U.S. TREASURY YIELD NEAR SESSION HIGH AFTER DATA, LAST AT 4.123%"
-    },
-    {
-      "id": "4895452",
-      "time": "2026-05-22 22:09:22",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "兩年期美國國債收益率<US2YT=RR>在經濟資料出爐後接近盤中高點，最新報4.123%。"
-    },
-    {
-      "id": "4895451",
-      "time": "2026-05-22 22:08:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【脫胎華為系，算力巨頭攜53名股東衝刺IPO】深交所官網5月22日披露，算力巨頭超聚變數字技術股份有限公司（簡稱“超聚變”）創業板IPO獲受理，預計融資金額80億元，本次擬公開發行不低於9781.345萬股且不高於22008.0262萬股A股普通股股票，佔發行後總股本的比例不低於10%且不高於20%。超聚變表示，公司本次申請首次公開發行股票並在A股上市，旨在抓住人工智慧從“技術工具”向“智慧體”演進的歷史性機遇，透過資本市場賦能，構建“算力+演算法+資料+應用”產業生態。"
-    },
-    {
-      "id": "4895450",
-      "time": "2026-05-22 22:08:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "【萬潤科技：目前公司在合肥沒有生產基地】萬潤科技5月22日在業績說明會上表示，目前公司在合肥沒有生產基地。"
-    },
-    {
-      "id": "4895449",
-      "time": "2026-05-22 22:07:48",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【老虎回應遭證監會立案：誠懇接受、全力配合】老虎證券（UP Fintech Holding Limited）5月22日公告稱，本公司的若干子公司收到了中國證券監督管理委員會北京監管局發出的通知。通知指出，北京證監局已對上述子公司涉嫌非法從事證券、基金及期貨業務的行為啟動了調查，並認定這些子公司在中國內地開展了無牌照跨境證券業務，以及涉及基金和期貨業務的非法活動。基於上述調查結果，北京證監局對相關子公司處以合計約人民幣3.081億元的行政罰款，並沒收合計約人民幣1.031億元的違法所得。本公司的董事、執行長巫天華亦收到警告，並被處以人民幣125萬元的罰款。截至2025年末，本公司合併報表範圍內的中國內地零售客戶資產約佔本公司客戶資產總額的10%。本公司誠懇接受上述處罰決定。本公司正全力配合監管機構的工作，並將嚴格落實監管機構所要求的各項整改措施。本公司將一如既往地致力於履行作為一家線上經紀機構的各項義務，並嚴格遵守各項適用的法律法規。"
-    },
-    {
-      "id": "mkt:019e5003-7d59-7113-afb5-a22263857299",
-      "time": "2026-05-22 22:07:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "PAKISTAN ISI CHIEF LT. GEN. ASIM MALIK HAS ALSO TRAVELED TO TEHRAN: AL HADATH"
-    },
-    {
-      "id": "4895448",
-      "time": "2026-05-22 22:07:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "愛沙尼亞外交部：作為北約盟國，我們團結一致保衛聯盟的領土與領空，並完全恪守北約第五條規定的集體防禦義務。"
-    },
-    {
-      "id": "4895447",
-      "time": "2026-05-22 22:06:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "據沙特媒體哈達斯Alhadath：巴基斯坦情報局局長Asim Malik中將也已前往德黑蘭。"
-    },
-    {
-      "id": "4895446",
-      "time": "2026-05-22 22:06:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "【加沙人道工作者聯合國發出求救】當地時間5月21日，在聯合國安理會巴以問題公開會上，巴勒斯坦紅新月會加沙地帶人道主義專案主任拉米·希朱透過影片連線發言說，儘管去年10月加沙停火協議達成，但對巴勒斯坦人來說，安全依然是他們“負擔不起的奢侈品”。希朱在發言中一一舉例自己的家人、同事、鄰居等在加沙地帶巴勒斯坦人的悲慘遭遇，在安理會會議上發出絕望的求救。安理會輪值主席、中國常駐聯合國代表傅聰大使表示，希朱的發言令人動容。（CCTV國際時訊）"
-    },
-    {
-      "id": "te:economy:553145",
-      "time": "2026-05-22 22:06:04",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Consumer Confidence",
-        "Importance 2"
-      ],
-      "text": "US Consumer Sentiment Revised Lower to New Record Low — The University of Michigan’s Consumer Sentiment Index plunged to a record low of 44.8 in May 2026, revised down from a preliminary 48.2 and marking the third straight monthly decline, as Strait of Hormuz supply disruptions continued to push gasoline prices higher. The cost of living remained the top concern, with 57% of consumers spontaneously citing high prices as eroding their personal finances. Lower-income consumers and those without college degrees posted the steepest declines, as these groups are more sensitive to rising gas and essentials costs. Politically, Independents and Republicans saw sentiment fall to the lowest levels of the current administration, while Democrats’ sentiment showed little change. Critically, consumers grew increasingly worried that inflation would spread beyond fuel prices in the long term. Year-ahead inflation expectations edged up to 4.8% from 4.7%, while long-run expectations climbed to 3.9% from 3.5%."
     }
   ]
 }
