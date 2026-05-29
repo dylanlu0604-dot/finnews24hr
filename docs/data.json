@@ -1,7 +1,32 @@
 {
-  "updated": "2026-05-30 04:08:02",
-  "count": 15857,
+  "updated": "2026-05-30 04:11:57",
+  "count": 15852,
   "items": [
+    {
+      "id": "4907796",
+      "time": "2026-05-30 04:10:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數的11個板塊普遍收跌，日用消費品板塊收跌2%，電信板塊跌1.7%，能源板塊跌1.07%，可選消費板塊跌1.05%，金融板塊則收漲0.56%，資訊科技/科技板塊漲1.87%。"
+    },
+    {
+      "id": "4907795",
+      "time": "2026-05-30 04:10:46",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "城堡集團針對美國證券交易委員會批准某交易平臺的異議申訴失敗。"
+    },
+    {
+      "id": "4907794",
+      "time": "2026-05-30 04:07:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗官員向半島電視臺表示，美方談判人員毫無道德底線，且不斷變更訴求。"
+    },
     {
       "id": "4907793",
       "time": "2026-05-30 04:06:58",
@@ -143513,74 +143538,6 @@
         "國際"
       ],
       "text": "標普：中東戰爭正導致巴林航運流量與基礎設施陷入中斷。"
-    },
-    {
-      "id": "4895756",
-      "time": "2026-05-23 04:11:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "標普：預計巴林仍將受益於海灣阿拉伯國家合作委員會（海合會GCC）的區域支援。"
-    },
-    {
-      "id": "4895755",
-      "time": "2026-05-23 04:11:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "標普確認科威特“AA-/A-1+”評級；展望穩定。"
-    },
-    {
-      "id": "4895754",
-      "time": "2026-05-23 04:11:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "【“堤豐”中導系統將再次用於美日聯合演習】日本防衛省統合幕僚監部當地時間22日宣佈，日本自衛隊將於6月22日至7月1日參加由美軍主導的“勇敢之盾”聯合演習。在本次演習中，美軍將在日本鹿兒島縣鹿屋航空基地部署“堤豐”中導系統以及高機動性火箭炮系統“海馬斯”。該基地還將用於計劃在9月舉行的日本陸上自衛隊與美澳軍隊的“東方之盾”聯合演習。日本防衛省稱，在這一系列演習結束後，相關裝備將從鹿屋航空基地撤離至駐日美軍基地。（央視新聞）"
-    },
-    {
-      "id": "te:markets:553191",
-      "time": "2026-05-23 04:09:57",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stocks Rise on Middle East Optimism — US stocks advanced on Friday, buoyed by signs of progress in Middle East peace talks and a strong corporate earnings season. The S&P 500 gained 0.4%, extending its winning streak to eight consecutive weeks, the longest since December 2023, while the Dow Jones added 294 points, touching an intraday record high and booking its third positive week in four. The Nasdaq rose 0.5%, its seventh weekly advance in the past eight weeks. Secretary of State Marco Rubio noted that the US had made some progress toward a deal with Iran, though more work remains, while Iran’s foreign ministry spokesman stated that differences between the two sides remained deep. Gains were led by semiconductor stocks, while US computer makers surged after strong results from China’s Lenovo Group. Dell hit a record high and HP Inc. climbed over 15%. Estée Lauder rose 12% after the cosmetic maker and Spanish perfumery Puig ended merger talks, while Workday advanced 5% after beating first-quarter earnings estimates."
-    },
-    {
-      "id": "4895753",
-      "time": "2026-05-23 04:09:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊朗迫切希望達成和解。"
-    },
-    {
-      "id": "4895752",
-      "time": "2026-05-23 04:08:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "標普預估，烏茲別克受中東戰事外溢影響整體可控。"
-    },
-    {
-      "id": "4895751",
-      "time": "2026-05-23 04:08:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "標普確認巴林“B/B”評級，展望維持穩定。"
-    },
-    {
-      "id": "mkt:019e514d-b98a-7aae-9ae1-368acb8ee6d7",
-      "time": "2026-05-23 04:08:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "MILIBAND HELD SECRET TALKS WITH STREETING – TELEGRAPH"
     }
   ]
 }
