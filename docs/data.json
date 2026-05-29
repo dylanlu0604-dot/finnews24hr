@@ -1,7 +1,81 @@
 {
-  "updated": "2026-05-29 11:53:41",
-  "count": 15436,
+  "updated": "2026-05-29 11:57:38",
+  "count": 15439,
   "items": [
+    {
+      "id": "4906094",
+      "time": "2026-05-29 11:56:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達70億港元。"
+    },
+    {
+      "id": "mkt:019e71e0-2ca8-7ee0-99e3-1ed6a5434066",
+      "time": "2026-05-29 11:56:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index",
+        "CNH"
+      ],
+      "text": "【HKEX CEO Chen Yiting: Two factors drawing foreign institutional investors to Chinese assets】At the Shenzhen Stock Exchange’s 2026 Global Investors Conference on May 29, HKEX CEO Chen Yiting said international institutional investors cite two main attractions to Chinese assets: low correlation with US assets, which supports portfolio diversification; and China’s economic resilience and growth potential—particularly leadership in AI, new energy, energy storage and biotech—creating material investment opportunities."
+    },
+    {
+      "id": "4906093",
+      "time": "2026-05-29 11:56:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【易啟未來完成A輪數千萬融資】5月29日，杭州易啟未來智慧科技有限公司宣佈完成A輪數千萬融資。本輪融資由同創偉業、優山資本、杭州資本旗下“潤苗基金”等聯合投資，天使股東網易繼續提供資源支援。本輪資金將重點投入於核心技術的深度攻堅與下一代創新型產品的全棧研發。"
+    },
+    {
+      "id": "4906092",
+      "time": "2026-05-29 11:55:50",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【港交所行政總裁陳翊庭：中國資產有兩大亮點格外吸引外資機構】5月29日，在深交所2026全球投資者大會上，香港交易所集團行政總裁陳翊庭表示，在與國際機構投資者交流時發現，中國資產對國際投資者有兩大吸引力：一是與美國資產相關性低，有利於投資組合分散風險；二是中國經濟韌性強、潛力大，尤其是在人工智慧、新能源、儲能、生物科技等新興領域領先全球，蘊含著激動人心的機遇。"
+    },
+    {
+      "id": "4906091",
+      "time": "2026-05-29 11:55:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【武契奇喊話小米：來歐洲，第一站請選塞爾維亞】訪華期間，塞爾維亞總統武契奇參觀小米工廠，並表示“如果小米進入歐洲，第一站應該是塞爾維亞”。塞爾維亞工商會駐華代表處主任耶琳娜·斯特凡諾維奇（Jelena Grubor Stefanović）指出，中國已在新能源汽車與智慧製造領域積累大量實踐經驗，而塞爾維亞則擁有成熟汽車零部件產業和工程人才儲備。她表示，對塞爾維亞而言，這不僅是引進中國品牌，更是藉助中國技術與產業鏈，向未來智慧出行生態轉型的一次戰略機遇。（CGTN）"
+    },
+    {
+      "id": "mkt:019e71de-3620-7ee0-99e3-17ad01cf0c34",
+      "time": "2026-05-29 11:54:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Japan sends JSDF personnel to NATO to \"learn lessons\" from Russia-Ukraine conflict】Japan's Defense Ministry said on May 29 it will dispatch four JSDF personnel to a NATO command in Germany that coordinates training and equipment support for Ukraine. The team — two from the Ground Self-Defense Force, one each from the Maritime and Air Self-Defense Forces — will begin duties on June 1 and be posted for one year at a US base in Wiesbaden. The personnel will focus on planning and coordination of Ukraine assistance, not combat operations. Japan's defense minister Koizumi said the deployment aims to study new operational methods from the Russia-Ukraine battlefield to bolster Japan's defense posture."
+    },
+    {
+      "id": "4906090",
+      "time": "2026-05-29 11:54:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：加拿大貿易代表團將於今年晚些時候訪問印度。"
+    },
+    {
+      "id": "4906089",
+      "time": "2026-05-29 11:53:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鴻海董事長劉揚偉：公司對AI帶動的增長動能“充滿信心”】全球最大電子代工製造商鴻海董事長劉揚偉週五表示，由於人工智慧(AI)需求激增，公司對增長動能“充滿信心”。劉揚偉在新北市舉行的年度股東大會上表示，科技供應商在以往年中會出現的季節性低迷已不復存在，並補充說他對下半年非常樂觀。“除非發生極其嚴重的‘黑天鵝’事件——但我尚未看到，目前也沒有任何跡象——根據我們目前的觀察，下半年前景非常樂觀。”他指出，主要雲服務提供商在AI領域的鉅額投資今年已超過7,000億美元。“他們的資本支出就是我們的市場。這一數字已達7,000億美元，預計明年可能達到1萬億美元。這讓我們對未來的成長動能充滿信心，”他表示。"
+    },
     {
       "id": "4906088",
       "time": "2026-05-29 11:52:22",
@@ -139097,49 +139171,6 @@
         "國際"
       ],
       "text": "【遭總統李在明痛批 韓媒就涉華假新聞道歉】韓國首爾經濟TV電視臺21日晚就其釋出的“中國人大量購入首爾江南區公寓”節目內容以全體員工名義發表道歉宣告。此前，韓國總統李在明批評該節目內容，稱其為“故意捏造的虛假新聞”，“煽動厭華情緒”。首爾經濟TV電視臺日前釋出報道稱，“中國人突襲購買首爾江南區公寓944套，橫掃市場房源”。該臺在道歉宣告中說，“在製作過程中過度關注收視率和關注度”，再加上“內部稽核機制存在缺陷”，導致未能有效過濾掉虛假內容，“對由此給許多人帶來的不適和困惑表示真誠歉意”。李在明21日在社交媒體上發文說，經核實，今年1月至4月，中國人在江南區購買“集合建築”的案例僅有5例，該節目使用“煽動厭華情緒的內容”，可以推定為“故意捏造的虛假新聞”。（新華社）"
-    },
-    {
-      "id": "4894136",
-      "time": "2026-05-22 11:56:00",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "WeWork印度管理公司股價上漲5.1%；季度財報釋出後漲幅進一步擴大。"
-    },
-    {
-      "id": "4894135",
-      "time": "2026-05-22 11:55:42",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【日本財務大臣稱補充預算案規模可能在190億美元左右】日本財務大臣片山皋月表示，日本的補充預算案規模可能在190億美元左右，同時淡化這筆額外支出可能對政府財政產生的影響。“數字差不太多，”片山週五被記者問及當地媒體有關補充預算規模約3萬億日元（189億美元）的報道時說。她稱，首相高市早苗將於週一公佈更多細節。片山表示，去年年度預算賬戶中的部分發債計劃被取消，將減少為補充預算發行新政府債券的需要。日本目前正在對上一財年的收支情況進行核查，為6月份的決算做準備。市場對大規模財政支出保持警惕。在戰爭引發的通脹擔憂推動全球收益率普遍上升的背景下，這也加劇了日本國債的拋售。“我奉命應對風險，”片山說。“這些應對措施當然包括與市場溝通。”"
-    },
-    {
-      "id": "4894134",
-      "time": "2026-05-22 11:54:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "【貝殼控股第二季度展望好於預期，獲看多】貝殼控股第二季度展望好於大華繼顯的潘夢遙的預期，促使該分析師對該股更加看多。該分析師在一份報告中稱，這家中國房地產平臺預計第二季度收入約為人民幣240億元，意味著下降7.0%。該分析師補充說，該公司指出市場復甦趨勢完好且市場份額增加，同時其整體成本和費用率繼續下降。潘夢遙將其對2026年收入和盈利的預測分別上調2%和22%，預計收入將下降5%，而調整後淨利潤將增加63%。大華繼顯將其評級從持有上調至買入，並將其目標價從41.00港元上調至53.00港元。"
-    },
-    {
-      "id": "4894133",
-      "time": "2026-05-22 11:53:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【東華軟體：SmartBuddy慧助手已在多類行業使用者的實際業務場景中開展試點試用】東華軟體(002065)5月22日在互動平臺表示，SmartX智慧體平臺，是公司自主研發、安全可控、可落地可執行的AI智慧體一站式開發運營平臺。SmartBuddy慧助手依託該平臺原生打造，秉持信創原生適配、全域安全防護、超強任務執行、全場景智慧賦能四大核心能力，全新定義新一代企業級AI工作搭子，推動AI從傳統輔助工具，升級為可信賴、能實幹、守合規、有底線的常態化業務協同夥伴。目前，SmartBuddy慧助手已在多類行業使用者的實際業務場景中開展試點試用，相關商務流程正有序推進。"
-    },
-    {
-      "id": "4894132",
-      "time": "2026-05-22 11:53:45",
-      "tags": [
-        "市場"
-      ],
-      "text": "【5月22日午間漲停分析】創業板指高開高走漲1.91%，PCB等算力硬體股集體走強。四環生物、龍星科技、大眾交通、金利華電均3連板，一圖看懂>>"
     }
   ]
 }
