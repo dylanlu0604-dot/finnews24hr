@@ -1,7 +1,55 @@
 {
-  "updated": "2026-05-29 08:51:44",
-  "count": 15378,
+  "updated": "2026-05-29 08:55:39",
+  "count": 15379,
   "items": [
+    {
+      "id": "te:markets:554659",
+      "time": "2026-05-29 08:54:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Heating Oil Hovers Near 5-Week Low — US heating oil futures traded around $3.50 per gallon, hovering near their lowest level in more than five weeks, on expectations of easing supply constraints after reports indicated that Iran and the US had agreed to a truce. The two sides reportedly reached a 60-day memorandum that would extend the existing ceasefire and support the resumption of crude oil and refined product exports through the Strait of Hormuz within a month. Distillate product exports from the region have been heavily disrupted since the conflict erupted in March, putting pressure on refinery operations and driving heating oil futures to a record high of $4.60 per gallon that month. Reflecting tight supply conditions, US distillate inventories, including diesel and heating oil, fell by 2.107 million barrels in the week ending May 22, a larger-than-expected draw compared with forecasts of a 1 million barrel decline. For the month, heating oil futures were headed for an about 13% decline."
+    },
+    {
+      "id": "4905780",
+      "time": "2026-05-29 08:54:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中兵紅箭：目前金剛石熱沉材料的應用只是少數企業樣機驗證階段】中兵紅箭(000519)在互動平臺表示，目前金剛石熱沉材料在半導體功率器件、Al算力晶片等領域的應用只是少數企業樣機驗證階段，受技術成熟度、生產成本等多重因素影響，距市場化批次應用還需要攻克較多技術難關。中南鑽石依託HPHT（高溫高壓）及CVD（化學氣象沉積）雙技術路線優勢，在關鍵技術攻關及生產成本控制等方面有一定優勢。目前，公司正積極圍繞有關關鍵核心技術攻關，與國內科研院所共同開展技術合作，為以後低成本市場化產業佈局做技術準備。"
+    },
+    {
+      "id": "mkt:019e7138-e242-7ee0-99de-cc057b97a1c5",
+      "time": "2026-05-29 08:53:33",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "TRUMP said the United States would avoid striking all Iranian military leaders to prevent a repeat of the Iraq war."
+    },
+    {
+      "id": "4905779",
+      "time": "2026-05-29 08:52:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【寶麗迪：公司COFs產品在某些吸附除酸領域確實有噸級驗證訂單】寶麗迪5月29日在互動平臺表示，公司COFs產品在某些吸附除酸領域確實有噸級驗證訂單，專案驗證本身就需要一定的量，但整個專案目前僅處於商業化初期，未來還存在一定的不確定風險。"
+    },
+    {
+      "id": "em:qqyh_mlc:202605293753234331",
+      "time": "2026-05-29 08:52:32",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美國PCE創3年新高！消費者儲蓄見底 美聯儲下一步會怎麼辦】美國商務部週四公佈資料顯示，美聯儲青睞的月度通脹指標創下三年新高，主因是美伊衝突推高能源價格。資料進一步強化了美聯儲難以轉向寬鬆的預期，直至本輪通脹壓力消退。不過，消費者面臨的支出壓力可能給經濟和物價帶來潛在拐點，或觸發降息條件。"
+    },
     {
       "id": "4905778",
       "time": "2026-05-29 08:51:07",
@@ -138521,53 +138569,6 @@
         "公司"
       ],
       "text": "【中鐵裝配：目前在東非、中亞地區有部分業務落地】中鐵裝配(300374)5月22日在互動平臺表示，公司重視並積極推動佈局海外市場，目前在東非、中亞地區有部分業務落地。未來公司將不斷完善海外營銷網路佈局，持續增強市場競爭力。"
-    },
-    {
-      "id": "4893822",
-      "time": "2026-05-22 08:54:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "SpaceX：星艦（Starship）第十二次飛行測試擬於5月22日週五發射，90分鐘的發射視窗將於美國中部時間17:30（北京時間次日06:30）開啟。"
-    },
-    {
-      "id": "mkt:019e4d2c-1885-7aa1-9582-28a38c556c9f",
-      "time": "2026-05-22 08:52:59",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "SPACEX: TWELFTH FLIGHT TEST OF STARSHIP IS PREPARING TO LAUNCH FRIDAY, MAY 22, THE 90-MINUTE LAUNCH WINDOW WILL OPEN AT 5:30 P.M. CT."
-    },
-    {
-      "id": "mkt:019e4d2b-ca97-7aa1-9582-21088ae8a770",
-      "time": "2026-05-22 08:52:55",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "Brent",
-        "Impact bearish",
-        "WTI",
-        "Dow",
-        "Impact bullish"
-      ],
-      "text": "【Key Points of PAST 24 Hours - MKTNews】 Iran Conflict & Geopolitics: - Fake News Sparks Oil & Bond Moves: Conflicting reports heavily whipsawed markets. Iran's ILNA (citing Al Arabiya) falsely reported a Pakistani-mediated \"U.S.-Iran draft agreement\" involving an immediate ceasefire and the reopening of the Strait of Hormuz. Al Arabiya, U.S., and senior Iranian sources quickly denied the report, calling it \"mere speculation.\" - Hormuz Toll Disagreements: Secretary of State Marco Rubio stated that a proposed \"tolling system\" in the Strait of Hormuz by Iran and Oman is \"unacceptable\" and would make a diplomatic deal unfeasible. - Severe Economic Risks Cited: Rapidan Energy Group warned that a closure of the Strait of Hormuz through August could trigger a deep global recession approaching the scale of 2008, potentially driving a rare contraction in global oil demand in 2026. - U.S. Strategic Inventory Depletion: The U.S. military has expended roughly half of its THAAD interceptor inventory, alongside over 100 SM-3/SM-6 missiles, defending Israel during hostilities with Iran, raising serious Pentagon concerns regarding U.S. combat readiness in Asia. - U.S. Drone Losses: Iran has reportedly destroyed 24 to 30 U.S. MQ-9 Reaper drones since hostilities began on Feb. 28, wiping out 20% of the Pentagon’s prewar inventory at a cost of nearly $1 billion. Markets & Equities: - Wall Street Gains on Peace Rumors: U.S. stocks edged higher following the geopolitical rumors and Rubio's comments on \"good signs\" of a deal. The Dow Jones Industrial Average (+0.55%) closed at a record high, while the S&P 500 rose 0.17% and the Nasdaq edged up 0.09%. - Crude Oil Settlement: Front-month crude futures posted losses before the later denials took hold. Brent crude settled down 2.32% at $102.58/bbl, and WTI crude fell 1.94% to settle at $96.35/bbl. - Treasury Yields Slide: U.S. Treasury yields hit session lows on the afternoon's intense diplomatic rumors, with the 10-year yield dropping to 4.555% and the 30-year yield hitting 5.089%. Corporate & Technology: - GenAI Revenue Wars: OpenAI maintained a $1 billion revenue lead over Anthropic in Q1, generating $5.7 billion. However, Anthropic projects its Q2 revenue to double to $11 billion (with a $600M profit), pushed by an annualized revenue run rate nearing $45 billion, which surpasses OpenAI's current $25 billion run rate. -SpaceX IPO Details & Financials: SpaceX is maintaining its target for a June 11 pricing and June 12 -Nasdaq debut. However, recent IPO filings revealed mounting losses and heavy debt following a cash-intensive acquisition and multi-billion-dollar investments into AI data centers and Mars rockets. -Nvidia Cooperations: Nvidia CEO Jensen Huang declared AI a \"multitrillion-dollar industry\" with clear ROI. Nvidia partnered with Kawasaki Heavy Industries to apply its physical AI and simulation technology to robotics, opening a joint U.S. center. U.S.-China Relations & Trade: - Tech Giants Seek Beijing Relief: Elon Musk, Tim Cook, and Jensen Huang joined Donald Trump on his China trip to lobby against Beijing-imposed restrictions. Tesla is attempting to clear Chinese export curbs on solar manufacturing gear (including a planned $3B equipment purchase from Suzhou Maxwell), while Nvidia awaits approval for its H200 chips. Energy & Commodities: - OPEC+ Output Increase Looming: OPEC+ is likely to agree to an oil output quota hike of 188,000 barrels per day at its upcoming June 7 meeting, according to sources. - U.S. Macro Data: U.S. Manufacturing PMI Flash data for May surprised to the upside at 55.3 (vs. 53.8 forecast), highlighting resilient domestic industrial demand despite ongoing energy shocks."
-    },
-    {
-      "id": "4893821",
-      "time": "2026-05-22 08:52:36",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【市場分析：智譜和MiniMax有望加入香港科技股指數 進而吸引更多追逐AI的資金】中國最熱門的人工智慧AI股票可能成為香港股票指數成分股候選物件，這將開啟互聯互通交易的渠道，並可能引發數十億美元的資金流入。恒生指數公司週五將進行季度檢討，分析師表示，在市值大幅上漲之後，智譜和MiniMax被視為納入恒生科技和綜合指數的的有力競爭者。自1月上市以來，這兩支股票的漲幅均至少達到300%。根據快速納入規則，若加入指數，智譜可能最早6月8日符合港股通交易資格。而鑑於對擁有加權投票權公司的要求更為嚴格，MiniMax可能要到8月才能符合要求。彭博行業研究估計，智譜可能吸引510億港元（65億美元）至920億港元的南向資金流入，而MiniMax則可能吸引高達470億港元的資金流入。瑞穗證券分析師Willer Chen表示，百濟神州、貝殼、招金礦業和百勝中國有望被納入恒生指數。他說，康方生物可能加入恒生中國企業指數，而舜宇光學可能會被剔除。"
     }
   ]
 }
