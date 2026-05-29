@@ -1,7 +1,126 @@
 {
-  "updated": "2026-05-30 05:18:45",
-  "count": 15825,
+  "updated": "2026-05-30 05:44:11",
+  "count": 15826,
   "items": [
+    {
+      "id": "4907879",
+      "time": "2026-05-30 05:41:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "【巴西資產大跌拖累拉美市場，美伊和平談判成焦點】5月29日，大多數拉丁美洲資產走勢趨緩。投資者目前正死死盯住潛在的美伊和平協議，在由巴西領跌的拉美本土市場頹勢背景下，艱難權衡著地緣政治帶來的謹慎樂觀情緒。MSCI拉美貨幣指數基本持平，但全月有望錄得微幅上漲。相比之下，更廣泛的拉美股票指數則邁向2024年底以來最慘烈的單月下挫。巴西雷亞爾兌美元匯率基本持平，但全月表現已註定創下今年以來最差的單月成績。巴西基準股指（Bovespa）當日同樣下滑0.7%，為其鎖定2023年2月以來最陡峭的單月暴跌。"
+    },
+    {
+      "id": "4907878",
+      "time": "2026-05-30 05:36:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家航空航天局（NASA）簽署約翰遜航天中心基礎設施建設合同。"
+    },
+    {
+      "id": "4907877",
+      "time": "2026-05-30 05:36:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "英國石油董事長在罷免事件前與董事兼前執行長發生爭執。"
+    },
+    {
+      "id": "4907876",
+      "time": "2026-05-30 05:34:41",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "各大航空公司呼籲特朗普政府不要限制國際航班。"
+    },
+    {
+      "id": "4907875",
+      "time": "2026-05-30 05:34:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥4月份預算赤字為2208億墨西哥比索。"
+    },
+    {
+      "id": "4907874",
+      "time": "2026-05-30 05:33:52",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【NBC：美國尚未證實伊朗在霍爾木茲海峽佈雷 】據美國全國廣播公司(NBC)援引兩名美國官員和一名知情人士報道，經過持續搜尋，美國軍方尚未證實伊朗在霍爾木茲海峽佈雷。知情人士表示，軍方搜查發現了一些可能為水雷的物體，但尚未有任何被確認。該知情人士說：“如果說有什麼的話，威脅遠低於我們此前的擔憂。”"
+    },
+    {
+      "id": "4907873",
+      "time": "2026-05-30 05:29:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：在我們不久前介入之前，肯尼迪中心這些年來已經虧損了數億美元。"
+    },
+    {
+      "id": "4907872",
+      "time": "2026-05-30 05:28:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國軍方：與古巴軍方高階領導人的會面僅就作戰安全事務進行了簡短交流。"
+    },
+    {
+      "id": "4907871",
+      "time": "2026-05-30 05:28:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國軍方：美軍指揮官多諾萬將軍週五與古巴軍方高階領導人舉行了會晤。"
+    },
+    {
+      "id": "4907870",
+      "time": "2026-05-30 05:26:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "委內瑞拉代總統：啟用油氣資料中心，旨在提升石油產量。"
+    },
+    {
+      "id": "4907869",
+      "time": "2026-05-30 05:24:26",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【韓國鉅額AI獎金引發科技財富分配大論戰】三星電子超級工廠所在地韓國平澤市（二線港口城市）發生的一起勞資糾紛，凸顯了全球日益關注的核心議題：在人工智慧（AI）熱潮席捲全球的背景下，各方應如何分配其帶來的巨大利益。此前，由於員工威脅要舉行罷工，全球供應鏈一度面臨被切斷的風險。為了化解這場危機，這家晶片巨頭最終決定向其儲存晶片部門的部分全職員工發放高達40萬美元（約合三星平均年薪的四倍）的鉅額獎金。但是，這種分級的支付體系卻引發了新一輪的矛盾，導致部分員工產生了強烈的被剝奪感。這一事件也是全球關於AI對就業市場衝擊及如何公平分配技術紅利的大辯論縮影；目前，韓國及其他國家的政策制定者正在探索諸如“公民紅利”或主權財富基金等解決方案。"
+    },
+    {
+      "id": "te:markets:555066",
+      "time": "2026-05-30 05:23:34",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Canadian Dollar Weakens on Soft GDP Data — The Canadian dollar weakened past 1.378 per USD in late May as weak economic data reinforced expectations of a dovish Bank of Canada. Canada's economy unexpectedly contracted in the first quarter of 2026 from a year earlier, marking a second consecutive quarter of annual decline and highlighting slowing domestic momentum. The data strengthened expectations that the BoC will keep interest rates unchanged, with markets broadly anticipating a hold at the June 10 meeting. Meanwhile, the Bank of Canada’s preferred core inflation measures slowed more than expected to their lowest levels in five years, signaling easing underlying price pressures outside the energy sector. The figures reinforced the central bank’s view that energy-driven inflation may prove temporary and further reduced the likelihood of additional rate hikes, weighing on the loonie."
+    },
+    {
+      "id": "4907868",
+      "time": "2026-05-30 05:23:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：已指示商務部與國會作出必要安排，允許該機構完成全面徹底的交接。"
+    },
+    {
+      "id": "4907867",
+      "time": "2026-05-30 05:22:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：將與國會合作，把肯尼迪中心交還國會管理。"
+    },
     {
       "id": "te:economy:555065",
       "time": "2026-05-30 05:17:47",
@@ -106,6 +225,15 @@
         "國際"
       ],
       "text": "美國國防部長赫格塞斯會見了泰國國防部長。"
+    },
+    {
+      "id": "4907856",
+      "time": "2026-05-30 05:06:15",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "巴塔哥尼亞黃金公司：2026年第一季度，Cap Oeste殘礦運營共產出390盎司黃金當量，售出432盎司黃金當量。"
     },
     {
       "id": "te:markets:555062",
@@ -143149,133 +143277,6 @@
         "國際"
       ],
       "text": "【風電審批遭遇全面“停擺”，危及美國500億美元能源專案】據一家權威行業貿易協會透露，特朗普政府近期全面叫停了針對新型陸上風電專案的行政審批，此舉直接導致高達500億美元的風電投資陷入風雨飄搖的危險境地。美國國防部（五角大樓）在一項行政審查程式中，強行按下了約130個規劃中風電專案的“暫停鍵”。國防部方面堅稱，針對風力發電場的審查機制旨在確保這些龐然大物不會干擾軍方的日常軍事演練與國防雷達運作；然而，美國清潔能源協會則公開炮轟，怒斥國防部的此番作風本質上是對全美風電專案實施的一刀切式“全面封殺”。"
-    },
-    {
-      "id": "4895845",
-      "time": "2026-05-23 05:42:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "【報道：伊朗軍方準備好應對美方任何行動】據伊朗媒體援引“軍方訊息人士”報道稱，伊朗武裝力量已準備新的應對方案，以回應美國的任何行動。報道稱，伊朗新的戰爭策略將包括新裝備、作戰戰術以及新的地區戰線。"
-    },
-    {
-      "id": "te:markets:553200",
-      "time": "2026-05-23 05:36:21",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Mexico",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Mexican Peso Holds Near 17.3 per USD — The Mexican peso traded near 17.3 per USD in late May as markets monitored developments in peace negotiations between the US and Iran while digesting key domestic economic data. With Pakistan acting as mediator, the US and Iran moved somewhat closer to a potential agreement to end the conflict, although disagreements over Tehran’s uranium stockpiles and control of the Strait of Hormuz continued to prevent a final deal. Domestically, investors assessed revised GDP data showing Mexico’s economy contracted 0.6% quarter-on-quarter in Q1 while expanding just 0.2% from a year earlier. Inflation also slowed more than expected in the first half of May, though it remained above the central bank’s target, with annual CPI easing to 4.1%. The developments followed Moody’s downgrade of Mexico’s sovereign rating to “Baa3,” the lowest investment-grade level, and S&P Global Ratings’ decision to revise the outlook on the country’s “BBB” rating to negative."
-    },
-    {
-      "id": "4895844",
-      "time": "2026-05-23 05:35:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "【匈牙利宣佈禁止進口烏克蘭農產品】當地時間22日，匈牙利總理毛焦爾在社交媒體發文表示，政府禁止進口來自烏克蘭的農產品。據悉，匈牙利政府頒佈的一項最新法令禁止從烏克蘭進口包括小麥、玉米、肉類、雞蛋、蜂蜜、葵花籽在內的多種農產品。過境貨物需遵守嚴格的規定，必須加蓋官方封條，且必須在15天內離境。當地時間5月14日，匈牙利解除“戰爭緊急狀態”，該國對烏克蘭穀物及其他產品的進口禁令也隨之失效。（央視新聞）"
-    },
-    {
-      "id": "4895843",
-      "time": "2026-05-23 05:33:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿根廷經濟部長：豆油與豆粕出口稅將“按比例下調”。"
-    },
-    {
-      "id": "4895842",
-      "time": "2026-05-23 05:33:12",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油失守101美元/桶，日內漲1.23%。"
-    },
-    {
-      "id": "4895841",
-      "time": "2026-05-23 05:32:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "【古巴民眾集會反對美國起訴古巴革命領袖勞爾·卡斯特羅】當天，大批古巴民眾聚集在反帝廣場，集會反對美國起訴古巴革命領袖勞爾·卡斯特羅，表明捍衛國家主權和堅持社會主義的堅定意志。（新華社）"
-    },
-    {
-      "id": "4895840",
-      "time": "2026-05-23 05:30:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國衛生部（HHS）尋求禁止美國綠卡持有者與埃博拉疫情地區相關的旅行。"
-    },
-    {
-      "id": "4895839",
-      "time": "2026-05-23 05:29:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國批准向多個間諜部門的90億美元撥款，用於利用人工智慧（AI）技術。"
-    },
-    {
-      "id": "te:markets:553199",
-      "time": "2026-05-23 05:29:30",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Brazilian Real Weakens on Hawkish Fed and Political Concerns — he Brazilian real weakened to 5.02 per USD in late May, broadly in line with other emerging-market currencies, amid a more hawkish stance from the US Federal Reserve. Rising geopolitical uncertainty in the Middle East also fueled risk aversion and supported the US dollar. Additional pressure came from comments by Federal Reserve Governor Christopher Waller, which reinforced expectations that US interest rates could remain elevated for longer. Domestically, the weakening political position of Senator Flávio Bolsonaro continued to weigh on the real, as markets had expected the opposition to remain competitive in this year’s presidential election."
-    },
-    {
-      "id": "4895838",
-      "time": "2026-05-23 05:29:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "玻利維亞政府：軍警將於週六開設人道主義通道，保障物資突破封鎖通行。"
-    },
-    {
-      "id": "4895837",
-      "time": "2026-05-23 05:26:22",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "週五（5月22日）紐約尾盤，美國10年期基準國債收益率跌1.18個基點，報4.5578%，美聯儲理事沃勒講話之前，在北京時間21:16重新整理日低至4.5241%，沃什講話後繼續反彈，22:50重新整理日高至4.5837%，凱文·沃什在00:00宣誓就任美聯儲主席的前後高位企穩，本週累計下跌3.55個基點，整體交投於4.6853%-4.5241%。兩年期美債收益率漲3.79個基點，報4.1210%，也在美股開盤之前重新整理日低至4.0505%，沃什講話後持續走高，沃什宣誓就職之際、在00:05重新整理日高至4.1423%，本週累漲5.22個基點，5月20日23:00曾跳水至4.0085%。"
-    },
-    {
-      "id": "te:economy:553198",
-      "time": "2026-05-23 05:20:47",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Paraguay",
-        "Interest Rate",
-        "Importance 0"
-      ],
-      "text": "Paraguay Central Bank Holds Rate at 5.50% — The Central Bank of Paraguay kept its benchmark interest rate unchanged at 5.50% during its May 2026 meeting. Policymakers noted that markets expect the US Federal Reserve to raise interest rates early next year. In commodity markets, oil prices remained highly volatile amid geopolitical tensions in the Middle East, while soybean, corn, and wheat prices increased due to adverse weather, higher production costs, and stronger global demand. Domestically, Paraguay’s Monthly Economic Activity Indicator grew 8.2% year-on-year in March, supported by services, manufacturing, and the primary sector. The Business Turnover Estimate also rose 9.2%, reflecting stronger sales across several categories. Meanwhile, consumer prices increased 0.8% in April, mainly driven by higher fuel prices, lifting annual inflation to 2.3%. Inflation expectations remained anchored at 3.5% for both the next 12 months and the monetary policy horizon."
-    },
-    {
-      "id": "4895836",
-      "time": "2026-05-23 05:19:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿根廷經濟部長：阿根廷玉米出口稅將從當前的8.5%逐步下調，到2027年底降至7.5%，2028年底降至5.5%。"
-    },
-    {
-      "id": "4895835",
-      "time": "2026-05-23 05:19:09",
-      "tags": [
-        "市場"
-      ],
-      "text": "週五（5月22日）紐約尾盤，標普500股指期貨最終漲0.29%，道指期貨漲0.51%，納斯達克100股指期貨漲0.30%。羅素2000股指期貨漲0.69%。"
     }
   ]
 }
