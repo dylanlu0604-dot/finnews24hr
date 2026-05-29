@@ -1,7 +1,50 @@
 {
-  "updated": "2026-05-30 00:32:39",
+  "updated": "2026-05-30 00:36:37",
   "count": 15837,
   "items": [
+    {
+      "id": "4907648",
+      "time": "2026-05-30 00:34:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗高階訊息人士：美國總統特朗普關於伊朗高度濃縮鈾庫存的說法不屬實。德黑蘭與華盛頓之間可能的諒解備忘錄不涉及任何與核相關的問題。伊朗與美國之間已達成政治共識，但尚未最終確定。"
+    },
+    {
+      "id": "mkt:019e7495-ca7f-7bb7-9964-528d493ec12d",
+      "time": "2026-05-30 00:33:52",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "WTI and Brent crude briefly slipped about $0.60 a barrel."
+    },
+    {
+      "id": "4907647",
+      "time": "2026-05-30 00:33:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以色列國防軍稱打死4名哈馬斯成員】當地時間5月29日，以色列國防軍稱，在28日對加沙地帶的空襲中，打死了4名伊斯蘭抵抗組織（哈馬斯）成員。以軍稱，這4名哈馬斯成員對以軍構成直接威脅，故採取有針對性的方式將其打死，以消除威脅。（央視新聞）"
+    },
+    {
+      "id": "mkt:019e7495-1199-7bb7-9964-49ec47370d15",
+      "time": "2026-05-30 00:33:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "DXY",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "Senior Iranian source says Iran and the United States have reached a political consensus, but it is not yet final."
+    },
     {
       "id": "4907646",
       "time": "2026-05-30 00:31:47",
@@ -143337,50 +143380,6 @@
         "XAUUSD"
       ],
       "text": "【Mediators Seek Iran Deal to Prevent New U.S., Israeli Strikes】Regional mediators including Pakistan and Qatar are working to secure a temporary framework agreement between Iran and the United States to extend the cease-fire and avert possible U.S. and Israeli strikes within days. Washington wants limits on Iran’s uranium enrichment, while Tehran seeks an end to the conflict, financial relief and reopening of the Strait of Hormuz without immediate nuclear concessions. Secretary of State Marco Rubio said there had been “some slight progress” in the talks."
-    },
-    {
-      "id": "mkt:019e508b-646c-7443-baf7-8c26f74b573e",
-      "time": "2026-05-23 00:36:12",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "IRAN MEDIATORS RACE FOR DEAL TO HEAD OFF LOOMING U.S., ISRAELI STRIKES - WSJ"
-    },
-    {
-      "id": "4895619",
-      "time": "2026-05-23 00:35:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：結束富有成效的北約會議，現已離開瑞典。我們的目標是打造強大的北約，盟友實力越強，北約整體力量就越穩固。"
-    },
-    {
-      "id": "mkt:019e5088-c7fa-7443-baf7-83a476a8bbd6",
-      "time": "2026-05-23 00:33:21",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "UBER.N",
-        "Impact bearish",
-        "DHER.DE",
-        "Impact bullish"
-      ],
-      "text": "UBER SHARES DOWN 2.1% AFTER REPORT CO TO STUDY FULL TAKEOVER OF EUROPEAN RIVAL DELIVERY HERO"
-    },
-    {
-      "id": "mkt:019e5088-81d7-7443-baf7-7ef2af5038fe",
-      "time": "2026-05-23 00:33:03",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "US TREASURY SECRETARY BESSENT: WARSH SHOULD ACT RESPONSIBLY FOR INFLATION AND GROWTH"
     }
   ]
 }
