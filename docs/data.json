@@ -1,7 +1,98 @@
 {
-  "updated": "2026-05-29 21:49:08",
-  "count": 15856,
+  "updated": "2026-05-29 21:53:16",
+  "count": 15854,
   "items": [
+    {
+      "id": "4907449",
+      "time": "2026-05-29 21:51:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗外長與阿曼外長討論了霍爾木茲海峽問題。"
+    },
+    {
+      "id": "te:markets:555001",
+      "time": "2026-05-29 21:50:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Slides on Hawkish BCB Prospects — The Ibovespa shed nearly 1% to trade below 174,000 on Friday as robust GDP data reinforced the outlook of a hawkish BCB. Brazil’s economy grew 1.1% in the first quarter of 2026 from the previous quarter, the fastest pace in one year, fueling expectations that Central Bank of Brazil will leave rates higher for longer to tackle the high level of inflation. Banks posted led losses, with Itaú, Bradesco, and Santander down around 1%. Utilities also posted sharp declines, with Axia and Sabesp losing nearly 2%. Meanwhile, Petrobras fell over 1% as oil prices retreated on renewed hopes for a US-Iran peace deal after both sides agreed on a framework pending approval from US President Donald Trump. Other notable laggards included Ambev (-1.2%) and WEG (-1%)."
+    },
+    {
+      "id": "4907448",
+      "time": "2026-05-29 21:50:48",
+      "tags": [
+        "兩會"
+      ],
+      "text": "【彭清華會見出席第五屆萬壽國際安全研討會的外方代表】5月29日，全國人大常委會副委員長、中國人民爭取和平與裁軍協會會長彭清華在京會見出席第五屆萬壽國際安全研討會的外方代表，宣介四大全球倡議和中國重大主場外交成果，就國際和地區熱點問題闡述立場。（新華社）"
+    },
+    {
+      "id": "4907447",
+      "time": "2026-05-29 21:50:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "福特股價上漲6%，連續第八個交易日走高。"
+    },
+    {
+      "id": "4907446",
+      "time": "2026-05-29 21:50:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "【澳大利亞電氣工人威脅在必和必拓鐵礦石港口舉行罷工】一個工會組織週五表示，位於西澳大利亞州必和必拓黑德蘭港（Port Hedland）散貨出口碼頭的電氣工人，可能會在6月30日（即本財年結束之際）採取罷工行動。“必和必拓必須引起重視，蒂姆·戴也必須意識到，他需要與我們進行談判，”工會領袖亞當·伍德奇說道。他所指的蒂姆·戴，正是這家礦業巨頭在西澳大利亞地區的鐵礦石業務負責人。"
+    },
+    {
+      "id": "mkt:019e73ff-f6bb-7ddb-bad6-4fdfef87ee43",
+      "time": "2026-05-29 21:50:14",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "BHP.AX",
+        "Impact bearish"
+      ],
+      "text": "【Electricians threaten strike at BHP Port Hedland iron-ore export terminal】Electricians at BHP’s bulk iron-ore export terminal in Port Hedland, Western Australia, could strike on June 30 at the fiscal-year end, the union said, risking disruption to shipments. The union said BHP and Tim Day, head of BHP’s WA iron ore operations, must enter negotiations."
+    },
+    {
+      "id": "4907445",
+      "time": "2026-05-29 21:49:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "黎巴嫩衛生部：自 3 月 2 日以來，以色列對黎巴嫩發動的襲擊已造成 3355 人遇難、10095 人受傷。"
+    },
+    {
+      "id": "4907444",
+      "time": "2026-05-29 21:49:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【美股費城半導體指數漲近2%】截至發稿，費城半導體指數漲近2%。成分股中，高通、ARM漲逾5%；美光科技漲逾4%，續刷歷史新高。"
+    },
+    {
+      "id": "mkt:019e73ff-08be-7ddb-bad6-42c95cd8f8ec",
+      "time": "2026-05-29 21:49:14",
+      "tags": [
+        "MKT News",
+        "IGV",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "US-listed iShares technology software ETF rose 2.4% to a four-month high."
+    },
+    {
+      "id": "4907443",
+      "time": "2026-05-29 21:49:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "iShares擴充套件科技軟體板塊交易型開放式指數基金上漲2.4%，觸及四個月高位。"
+    },
     {
       "id": "te:markets:555000",
       "time": "2026-05-29 21:48:08",
@@ -143443,110 +143534,6 @@
         "MKT News"
       ],
       "text": "TRUMP ON TRUTH SOCIAL: I COULD HAVE SETTLED MY CASE FOR AN ABSOLUTE FORTUNE; INSTEAD, I'M HELPING OTHERS, WHO WERE SO BADLY ABUSED BY AN EVIL, CORRUPT AND WEAPONIZED BIDEN ADMINISTRATION"
-    },
-    {
-      "id": "4895412",
-      "time": "2026-05-22 21:52:43",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【週末在即，美國天然氣期貨下跌】在陣亡將士紀念日週末到來前，美國天然氣期貨回落至關鍵的3美元水平下方。EBW Analytics的Eli Rubin在一份報告中表示，週四公佈的庫存增幅大於預期、部分製冷需求流失，以及進入長週末現貨市場可能走弱，這些因素正拖累紐約商交所近月合約。他補充說，圍繞假期的交易員頭寸佈局以及下週6月期權和期貨的到期，將影響近期的價格走勢。紐約商交所天然氣期貨下跌1.9%，報每百萬英熱單位2.96美元。"
-    },
-    {
-      "id": "4895411",
-      "time": "2026-05-22 21:52:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2026年5月票房破20億】據燈塔專業版，截至5月22日，2026年5月票房（含預售）突破20億，《給阿嬤的情書》領跑5月票房榜。"
-    },
-    {
-      "id": "te:markets:553137",
-      "time": "2026-05-22 21:52:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Finland",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "Stocks in Finland Hit All-time High — Helsinki 25 increased to an all-time high of 6464.00 Index Points. Over the past 4 weeks, Finland Stock Market Index (Helsinki 25) gained 2.31%, and in the last 12 months, it increased 37.05%."
-    },
-    {
-      "id": "mkt:019e4ff5-54b7-7113-afb5-1f72c9a35a52",
-      "time": "2026-05-22 21:52:18",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "TRUMP ON TRUTH SOCIAL: I GAVE UP A LOT OF MONEY IN ALLOWING THE JUST ANNOUNCED ANTI-WEAPONIZATION FUND TO GO FORWARD"
-    },
-    {
-      "id": "4895410",
-      "time": "2026-05-22 21:52:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西4月份粗鋼產量同比增長1.1%。"
-    },
-    {
-      "id": "4895409",
-      "time": "2026-05-22 21:52:07",
-      "tags": [
-        "市場"
-      ],
-      "text": "【巴克萊：在對美伊談判持謹慎態度之際，原油期貨漲跌互現】在陣亡將士紀念日長週末前夕，以及對美伊談判存在不確定性之際，原油期貨在小幅漲跌之間波動。巴克萊的Amarpreet Singh在一份報告中表示：“原油市場繼續在達成結束這場戰爭的潛在協議的希望與新一輪衝突的威脅之間搖擺。”他表示，與此同時，庫存正在快速下降，並有望測試2020年的最低水平。“我們認為原油市場已經反映了最佳情境預期，並且認為我們對2026年布倫特原油每桶100美元的預測面臨上行風險。“西得州中質油下跌0.4%，報每桶95.99美元；布倫特原油上漲0.2%，報102.83美元。"
-    },
-    {
-      "id": "4895408",
-      "time": "2026-05-22 21:51:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "【瑞豐動力：全資附屬公司與北京匯智國科科技有限公司訂立戰略合作協議】瑞豐動力公告，於2026年5月22日，其全資附屬公司河北瑞豐科技有限公司與北京匯智國科科技有限公司訂立了一份戰略合作協議。雙方同意在智慧水下清潔與檢測機器人的研發、製造和全球銷售等領域開展戰略合作。"
-    },
-    {
-      "id": "4895407",
-      "time": "2026-05-22 21:51:13",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【復宏漢霖：斯魯利單抗獲CHMP推薦，EC2個月內決定】復宏漢霖公告，公司自主研發的斯魯利單抗注射液（中國境內商品名：漢斯狀 ；歐盟商品名：HETRONIFLY ）近日獲歐洲藥品管理局(EMA)人用醫藥產品委員會(CHMP)積極審評意見，推薦批准其聯合卡鉑和白蛋白紫杉醇用於不可手術切除的區域性晚期或轉移性鱗狀非小細胞肺癌(sqNSCLC)成人患者的一線治療。該意見已遞交至歐盟委員會(EC)，EC將在未來2個月內做出最終審查決定。此外，公告顯示2025年度全球靶向PD-1單抗銷售金額約為508.71億美元。"
-    },
-    {
-      "id": "4895406",
-      "time": "2026-05-22 21:50:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "【北約外長會美國喊話“很失望” 美歐重大分歧暴露無遺】北約外長會5月21日至22日在瑞典赫爾辛堡舉行。美國國務卿魯比奧5月22日抵達赫爾辛堡參會。啟程前，魯比奧接受媒體採訪時稱，美國總統特朗普對北約感到非常失望，因為北約盟友拒絕在對伊朗的戰事上做任何事情，西班牙還拒絕美國使用當地的軍事基地。據英國《衛報》5月22日報道，魯比奧在赫爾辛堡會上直言，特朗普總統對北約的“失望”將在7月舉行的安卡拉北約峰會上討論。報道稱，從魯比奧透露的特朗普對北約失望的言論，以及安卡拉峰會必須就此展開討論來看，很明顯未來幾周內將能聽到很多關於此事的訊息。而所謂“北約歷史上最重要峰會之一”的說法，聽起來幾乎像是一種警告。（央視）"
-    },
-    {
-      "id": "4895405",
-      "time": "2026-05-22 21:50:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "【京東首次線上拍賣仿生機器人，成交價11.08萬元】5月22日晚8點，京東商城首次上線仿生機器人拍賣，產品為松延動力仿生機器人“小月”，起拍價1元，市場價9.9萬元。平臺資料顯示，產品經過49次出價，“小月”最終以11.08萬元被拍下。產品介紹頁面展示，該款機器人為年輕女性形象，妝容精緻，整機重量7.5千克，具備24個自由度，包括眼部、眉部、嘴部、頸部的自由度。透過高緊湊型驅動設計，產品整體尺寸縮減30%。機器人具備語音互動、多模態表達、表情理解與模仿等核心功能，並支援二次開發，可以進行表情隨動和語音互動。此前，松延動力仿生機器人產品曾以小品演員蔡明的形象亮相2026年春晚。松延動力相關負責人表示，此次拍賣的意義在於讓機器人產品真正與普通消費者建立聯絡，同時加速仿生機器人從實驗室向家庭、接待等場景滲透。（中證金牛座）"
-    },
-    {
-      "id": "4895404",
-      "time": "2026-05-22 21:50:08",
-      "tags": [
-        "市場"
-      ],
-      "text": "TAKE-TWO公佈季度業績後股價下跌4%。"
-    },
-    {
-      "id": "4895403",
-      "time": "2026-05-22 21:49:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "【魯比奧：北約已開始推演伊朗拒絕開放霍爾木茲海峽的最壞局面】美國國務卿魯比奧表示，北約盟友已開始推演伊朗拒絕開放霍爾木茲海峽的最壞局面。“我們都希望能與伊朗達成協議，保障海峽通航暢通，同時令其放棄核相關訴求等。但我們也必須備好備選方案。”“我們需要預判，倘若數週後伊朗執意封鎖海峽，對不聽從指令、未繳納相關費用的船隻實施打擊，屆時各方必須採取應對舉措。”"
     }
   ]
 }
