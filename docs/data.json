@@ -1,7 +1,47 @@
 {
-  "updated": "2026-05-30 00:24:39",
-  "count": 15838,
+  "updated": "2026-05-30 00:28:41",
+  "count": 15836,
   "items": [
+    {
+      "id": "4907643",
+      "time": "2026-05-30 00:27:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京：俄羅斯擁有一切手段，足以擊潰任何膽敢進犯的勢力。"
+    },
+    {
+      "id": "4907642",
+      "time": "2026-05-30 00:26:43",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【MiniMax Group Inc.啟動上市輔導】據證監會官網顯示，MiniMax Group Inc.於2026年5月29日正式啟動上市輔導，中信證券擔任輔導機構。"
+    },
+    {
+      "id": "mkt:019e748d-9fe4-7bb7-9964-30aaf081c20a",
+      "time": "2026-05-30 00:24:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A NATO military headquarters spokesman said the alliance is assessing how to strengthen Romania's and NATO's defenses against drone threats."
+    },
+    {
+      "id": "4907641",
+      "time": "2026-05-30 00:24:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "北約發言人表示，北約正評估如何強化羅馬尼亞及北約整體針對無人機威脅的防禦能力。"
+    },
+    {
+      "id": "mkt:019e748c-f773-7bb7-9964-2b3219456ee4",
+      "time": "2026-05-30 00:24:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Putin said Russia is prepared to continue negotiations on Ukraine."
+    },
     {
       "id": "mkt:019e748c-bf4e-7bb7-9964-20785677749a",
       "time": "2026-05-30 00:24:00",
@@ -143337,69 +143377,6 @@
         "Importance 1"
       ],
       "text": "DAX Finishes at Over 2-Week High — Frankfurt's DAX 40 rose further to close about 1.2% firmer at 24,889 on Friday, the highest in over two weeks, driven largely by tech momentum and some hopes for a breakthrough in US-Iran talks. On the data front, German consumer sentiment improved slightly heading into June, defying expectations of a further decline, as did business sentiment, despite remaining near multi-year lows. Infineon Technologies led gains among stocks, surging over 7%. Deutsche Post (+3.9%) also saw strong buying after Deutsche Bank upgraded the stock to “buy” from “hold.”."
-    },
-    {
-      "id": "4895616",
-      "time": "2026-05-23 00:27:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴基斯坦軍方：陸軍參謀長抵達德黑蘭，此行旨在開展斡旋工作。"
-    },
-    {
-      "id": "mkt:019e5083-8959-7443-baf7-6833df63d89e",
-      "time": "2026-05-23 00:27:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "PAKISTAN MILITARY: ASIM MUNIR, CHIEF OF ARMY STAFF, ARRIVED IN TEHRAN AS PART OF ONGOING MEDIATION EFFORTS"
-    },
-    {
-      "id": "4895615",
-      "time": "2026-05-23 00:27:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "優步（uber）股價跌幅擴大至3.1%。"
-    },
-    {
-      "id": "mkt:019e5082-7981-7443-baf7-657d56c2de30",
-      "time": "2026-05-23 00:26:28",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields"
-      ],
-      "text": "US TREASURY SECRETARY BESSENT, WHEN ASKED IF WARSH WOULD CUT RATES: HE WILL DO THE RIGHT THING"
-    },
-    {
-      "id": "4895614",
-      "time": "2026-05-23 00:25:23",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國財長貝森特被問及沃什是否會降息時回答說：他會做正確的事。"
-    },
-    {
-      "id": "mkt:019e5081-6761-7443-baf7-59869ef57803",
-      "time": "2026-05-23 00:25:18",
-      "tags": [
-        "MKT News",
-        "UBER.O",
-        "Impact bullish",
-        "DHER.DE",
-        "Impact bearish"
-      ],
-      "text": "UBER SAID TO STUDY OPTIONS FOR FULL TAKEOVER OF DELIVERY HERO"
-    },
-    {
-      "id": "4895613",
-      "time": "2026-05-23 00:24:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：優步（uber）與顧問們研究進一步持股歐洲配送競爭對手Delivery Hero的方式。"
     }
   ]
 }
