@@ -1,7 +1,33 @@
 {
-  "updated": "2026-05-30 02:52:30",
-  "count": 15827,
+  "updated": "2026-05-30 02:56:18",
+  "count": 15826,
   "items": [
+    {
+      "id": "mkt:019e7516-ead1-7bb7-9965-908f14a6b116",
+      "time": "2026-05-30 02:54:51",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "US Treasury Secretary Bessent said the US has recognized the necessity of increasing production capacity."
+    },
+    {
+      "id": "4907704",
+      "time": "2026-05-30 02:53:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：“美國已然醒悟”，認識到提升產能的必要性。"
+    },
+    {
+      "id": "mkt:019e7515-e840-7bb7-9965-8c1454e29990",
+      "time": "2026-05-30 02:53:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pakistan's foreign ministry said the United States and Pakistan agreed to elevate and strengthen economic and trade ties, cultural cooperation and their partnership on counterterrorism and security."
+    },
     {
       "id": "mkt:019e7513-a2e1-7bb7-9965-8262e23f7749",
       "time": "2026-05-30 02:51:21",
@@ -143293,52 +143319,6 @@
         "市場"
       ],
       "text": "恒指期貨夜盤收跌0.37%，報25324.91點，低水281.12點。"
-    },
-    {
-      "id": "mkt:019e510a-d85b-788e-b251-dbdfcd4d2a36",
-      "time": "2026-05-23 02:55:25",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Crypto Concepts",
-        "Bitcoin",
-        "Impact bullish",
-        "Ethereum"
-      ],
-      "text": "SEC DELAYS PLAN ALLOWING FOR CRYPTO VERSIONS OF US STOCKS"
-    },
-    {
-      "id": "mkt:019e510a-a2ff-788e-b251-d4aab74087a9",
-      "time": "2026-05-23 02:55:12",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish"
-      ],
-      "text": "BRENT CRUDE FUTURES SETTLE AT $103.54/BBL, UP 96 CENTS, 0.94 PCT"
-    },
-    {
-      "id": "mkt:019e510a-9af0-788e-b251-cb7782b8ba08",
-      "time": "2026-05-23 02:55:09",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "U.S. CRUDE OIL FUTURES SETTLE AT $96.60/BBL, UP 25 CENTS, 0.26 PCT"
-    },
-    {
-      "id": "4895685",
-      "time": "2026-05-23 02:54:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "【U17國足亞洲盃亞軍】在剛剛結束的2026年U17男足亞洲盃決賽中，中國隊2:3不敵日本隊，收穫亞軍。"
     }
   ]
 }
