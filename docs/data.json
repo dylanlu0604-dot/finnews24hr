@@ -1,7 +1,149 @@
 {
-  "updated": "2026-05-29 20:03:18",
-  "count": 15834,
+  "updated": "2026-05-29 20:07:28",
+  "count": 15852,
   "items": [
+    {
+      "id": "4907217",
+      "time": "2026-05-29 20:06:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西第一季度GDP環比增長1.1%，高於預期的1.0%。"
+    },
+    {
+      "id": "mkt:019e73a0-d00b-7dd3-937d-3bc8c5011567",
+      "time": "2026-05-29 20:06:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "European Commission President Von der Leyen said Hungary's government acted swiftly."
+    },
+    {
+      "id": "mkt:019e73a0-ce97-7dd3-937d-3768c644c617",
+      "time": "2026-05-29 20:06:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Germany’s finance ministry said the plan is a key step toward achieving a Capital Markets Union."
+    },
+    {
+      "id": "4907216",
+      "time": "2026-05-29 20:05:57",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "德國財政部：該方案是邁向資本市場聯盟的關鍵一步。"
+    },
+    {
+      "id": "4907215",
+      "time": "2026-05-29 20:05:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "【SoFi Technologies美股盤前漲超10%】SoFi Technologies美股盤前漲超10%，現報18.71美元。"
+    },
+    {
+      "id": "mkt:019e73a0-2867-7dd3-937d-2d0d64bb95fd",
+      "time": "2026-05-29 20:05:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "German Finance Ministry: finance ministers of the six largest EU economies agreed a common position on market integration and regulatory proposals."
+    },
+    {
+      "id": "4907214",
+      "time": "2026-05-29 20:05:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【山高環能：擬5000萬元收購衡陽桑德65%股權】山高環能公告，公司擬透過下屬公司山高十方以現金方式向山東淄建購買衡陽桑德凱天再生資源科技有限公司65%股權，交易價格為5000萬元。此前公司參與該股權司法拍賣，山東淄建以5531.57萬元競得，後經協商確定本次交易價格。目標公司2025年度營業收入2799.84萬元，淨利潤998.68萬元。本次收購尚需經衡陽市城市管理局報備同意。"
+    },
+    {
+      "id": "mkt:019e739f-fc58-7dd3-937d-20b909f7a78b",
+      "time": "2026-05-29 20:05:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "European Commission President Ursula von der Leyen said she had felt a strong wind of change in Hungary."
+    },
+    {
+      "id": "4907213",
+      "time": "2026-05-29 20:05:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會主席馮德萊恩：感受到匈牙利變革的強勁之風。"
+    },
+    {
+      "id": "4907212",
+      "time": "2026-05-29 20:04:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST創興：收到股票終止上市決定，退市整理期6月8日起】*ST創興公告，公司於2026年5月29日收到上海證券交易所《關於上海創興資源開發股份有限公司股票終止上市的決定》，上交所決定終止公司股票上市。公司股票進入退市整理期的起始日為2026年6月8日，交易期限為15個交易日，預計最後交易日期為2026年6月29日。退市整理期間股票繼續在風險警示板交易，首個交易日無漲跌幅限制，其他交易日漲跌幅限制為10%。公司股票終止上市後將轉入全國中小企業股份轉讓系統進行股份轉讓。"
+    },
+    {
+      "id": "4907211",
+      "time": "2026-05-29 20:04:47",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "德國財政部：歐盟六大最強經濟體財長就市場一體化與監管一攬子方案達成共同立場。"
+    },
+    {
+      "id": "4907210",
+      "time": "2026-05-29 20:03:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【飛船返回艙主降落傘開啟 正在著陸】今天，神舟二十一號航天員乘組乘坐神舟二十二號載人飛船返回地球。神舟二十二號載人飛船返回艙主降落傘已開啟，正在著陸。"
+    },
+    {
+      "id": "4907209",
+      "time": "2026-05-29 20:03:12",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "浙江中國小商品城集團股份有限公司向港交所提交上市申請書，聯席保薦人為滙豐、中信證券。"
+    },
+    {
+      "id": "4907208",
+      "time": "2026-05-29 20:03:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三利譜：持股5%以上股東擬減持不超5萬股】三利譜公告稱，持股5%以上股東湯際瑜持有公司股份874.41萬股（佔總股本比例5.03%），計劃自2026年6月23日至9月22日，以集中競價交易方式減持不超5萬股（佔總股本比例0.03%）。減持原因為個人資金需求，股份源於首次公開發行前及資本公積轉增。本次減持計劃實施具不確定性，不會導致公司控制權變更。"
+    },
+    {
+      "id": "mkt:5016f350-a69b-4037-af47-b91062b4f144",
+      "time": "2026-05-29 20:02:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "HESAI.HK",
+        "Impact bullish"
+      ],
+      "text": "【Hesai Technology among seven stocks added to HKEX Technology 100 Index】HKEX said its semi-annual review of the HKEX Technology 100 Index will add seven tech names, including Yangtze Optical Fibre and Cable, Dipu Technology, Huiju Technology and Hesai Technology, and will remove seven existing components. The component changes will be implemented after market close on June 12 and take effect from June 15."
+    },
+    {
+      "id": "mkt:ae8e77d6-e620-4282-9d08-814e7fdd4b4a",
+      "time": "2026-05-29 20:02:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TASNIM NEWS reported that the agreement will be formally announced once its drafting is complete."
+    },
     {
       "id": "4907206",
       "time": "2026-05-29 20:02:07",
@@ -35,6 +177,14 @@
       "text": "【江波龍：重新遞交H股發行並上市申請】江波龍(301308.SZ)公告稱，公司已於2026年5月29日向香港聯交所重新遞交境外上市外資股(H股)發行並上市申請，並於同日在香港聯交所網站刊登申請材料。"
     },
     {
+      "id": "mkt:019e739c-ab22-7224-98da-627432bfd9a0",
+      "time": "2026-05-29 20:01:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK police say a man has been charged with assisting a foreign intelligence agency; the country linked to the allegation is believed to be Iran."
+    },
+    {
       "id": "4907202",
       "time": "2026-05-29 20:01:13",
       "tags": [
@@ -51,6 +201,18 @@
       "text": "【行雲科技：全資子公司擬出資800萬元設立合資公司 杭州智冷成為孫公司並納入並表】行雲科技公告，公司全資子公司行雲智冷（深圳）科技有限公司擬出資800萬元與關聯方深圳市行雲智冷資本投資合夥企業（有限合夥）、江蘇亦馳科技有限公司共同出資設立合資公司杭州行雲科技智冷有限公司。本次設立後，杭州智冷將成為公司控股孫公司並納入公司合併報表範圍。"
     },
     {
+      "id": "mkt:019e739c-608e-7224-98da-5edf5b533d55",
+      "time": "2026-05-29 20:01:08",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【23rd Shangri-La Dialogue opens in Singapore】The 23rd Shangri‑La Dialogue opened in Singapore on the evening of the 29th, drawing more than 550 officials, defense ministers and experts from over 40 countries and territories. Attendees include Chinese Communist Party General Secretary and President Su Lin, East Timor President Orta and U.S. Defense Secretary Pete Hegseth. Delegates are focusing on regional peace and security, with the Middle East’s impact on Asian energy and security highlighted as a key agenda item. A People’s Liberation Army academic delegation, led by National Defense University Professor Meng Xiangqing and including experts from the National Defense University, Academy of Military Sciences and the navy, will participate and speak at the first parallel session, How to Manage Threats to Strategic Stability, on the 30th."
+    },
+    {
       "id": "4907200",
       "time": "2026-05-29 20:00:17",
       "tags": [
@@ -60,12 +222,109 @@
       "text": "德國初步資料顯示，協調消費者物價指數（CPI）同比上漲2.7%；預期上漲2.8%。"
     },
     {
+      "id": "mkt:019e739b-6e84-7224-98da-51f9961600e1",
+      "time": "2026-05-29 20:00:16",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Germany harmonized CPI (HICP) preliminary for May: m/m -0.1% (exp +0.1%; April +0.5%)."
+    },
+    {
+      "id": "mkt:019e739b-6a87-7224-98da-49de03b3833a",
+      "time": "2026-05-29 20:00:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "DAX",
+        "Impact mixed"
+      ],
+      "text": "Germany May CPI preliminary MoM -0.2% vs +0.1% expected; April +0.6%."
+    },
+    {
+      "id": "mkt:019e739b-6a86-7224-98da-41e4de2377c5",
+      "time": "2026-05-29 20:00:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "Germany May harmonized CPI (HICP) preliminary YoY 2.7% vs 2.8% expected, 2.9% prior."
+    },
+    {
+      "id": "mkt:019e739b-6a85-7224-98da-3ce51093320a",
+      "time": "2026-05-29 20:00:11",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DAX",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Germany May CPI preliminary YoY 2.6% (consensus 2.9%; April 2.9%)."
+    },
+    {
       "id": "4907199",
       "time": "2026-05-29 20:00:08",
       "tags": [
         "國際"
       ],
       "text": "【三一：百噸級礦挖交付歐洲市場】5月27日，三一在歐洲市場迎來突破——首臺SY1250H大型礦用挖掘機正式交付客戶，即將投入當地露天煤礦現場作業。這標誌著三一100噸級以上礦挖產品成功叩開了歐洲高階市場大門。SY1250H此前已進入拉美、亞太等全球礦區。"
+    },
+    {
+      "id": "mkt:019e739b-109a-7224-98da-22d4c8fe7c82",
+      "time": "2026-05-29 20:00:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | Harmonized CPI Flash (MoM) (May) | actual -0.1% | consensus 0.1% | previous 0.50%"
+    },
+    {
+      "id": "mkt:019e739b-116e-7224-98da-29a07d19a57c",
+      "time": "2026-05-29 20:00:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | Harmonized CPI Flash (YoY) (May) | actual 2.7% | consensus 2.80% | previous 2.90%"
+    },
+    {
+      "id": "mkt:019e739b-1235-7224-98da-36ca9f9c6e9b",
+      "time": "2026-05-29 20:00:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | CPI Flash (MoM) (May) | actual -0.2% | consensus 0.10% | previous 0.60%"
+    },
+    {
+      "id": "mkt:019e739b-0f0b-7224-98da-180b05cf7036",
+      "time": "2026-05-29 20:00:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | CPI Flash (YoY) (May) | actual 2.6% | consensus 2.90% | previous 2.90%"
     },
     {
       "id": "4907198",
@@ -83,6 +342,15 @@
         "焦點"
       ],
       "text": "【5月29日《新聞聯播》主要內容】今天《新聞聯播》主要內容有：1.應習近平邀請 寮國人革黨中央總書記、國家主席通倫將訪華； 2.【新思想引領新徵程】擴能提質 開創服務業高質量發展新局面； 3.【“十五五”開好局起好步】廣東奮力在推進中國式現代化建設中走在前列 在中國式現代化程序中展現貴州新風采； 4.神舟二十二號載人飛船撤離空間站組合體 神舟二十一號航天員乘組踏上回家之旅； 5.今年前四個月我國物流需求保持韌性增長； 6.2025年中央企業基礎研究投入首破千億元； 7.2025年全國城市聲環境質量總體良好； 8.【一線調研】700公里搶收路背後的夏收保障網； 9.第10屆中國—南亞博覽會將於6月11日至16日在昆明舉行； 10.國內聯播快訊： （1）中央宣傳部 中國科協聯合釋出“最美科技工作者”先進事蹟； （2）1—4月全國電力市場交易電量同比增長25.6%； （3）中國農業發展銀行先期安排1500億元助力夏糧收購； （4）幼兒園集中用餐新規今天釋出 6月1日起實施； （5）京津冀簽署深化教育協同發展合作協議； （6）我國首艘貨艙系統全國產低溫閥LNG船交付； （7）江西昌九高鐵今天全線鋪軌貫通； （8）G95首都地區環線高速公路天津段今開工建設； （9）今年5月全國平均降水量為近10年同期最多； （10）《高階訪談》今晚播出對塞爾維亞總統武契奇的專訪； 11.“全球治理之友小組”會議呼籲維護聯合國權威 完善全球治理； 12.俄外交部表示日本允許美在日部署中導系統威脅亞太穩定安全 俄聯邦安全會議秘書表示日本“再軍事化”令人擔憂； 13.國際聯播快訊： （1）美媒稱美伊就備忘錄達成一致 伊朗否認； （2）以稱將把對加沙地帶控制範圍擴至70%； （3）世界經濟論壇報告稱中東戰事拖累增長； （4）法國民議會透過廢除《黑人法典》法案。"
+    },
+    {
+      "id": "mkt:019e739a-26eb-7224-98da-15b9bec496a7",
+      "time": "2026-05-29 19:59:02",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Iranian agency says Iran-US memorandum text changed in recent days, not finalized】An Iranian news agency, citing sources, said the text of a memorandum of understanding between Iran and the United States has changed in recent days and is not final, and that Western media versions of the text are inaccurate."
     },
     {
       "id": "em:qqyh_mlc:202605293754630283",
@@ -143157,84 +143425,6 @@
         "公司"
       ],
       "text": "【中國核建：擬定增募資不超過40億元用於核電工程及償還銀行借款】中國核建公告，公司2026年度向特定物件發行股票預案，擬發行不超過9.04億股，募集資金總額不超過40億元，扣除發行費用後用於江蘇徐圩核能供熱發電廠一期工程1、2號機組核島及其配套BOP土建工程（擬投入13億元）、浙江金七門核電廠1、2號機組核島及其配套土建及安裝工程（擬投入15億元）及償還銀行借款（12億元）。發行物件為不超過35名特定物件，採取競價發行方式，定價基準日為發行期首日，發行價格不低於前20個交易日均價的80%。本次發行尚需經國務院國資委批覆、股東會審議透過、上交所稽核透過及中國證監會同意註冊。"
-    },
-    {
-      "id": "4895175",
-      "time": "2026-05-22 20:07:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國科大環境科學與工程系更名為中國科大環境學院】5月22日，中國科學技術大學環境學院釋出更名公告：根據中國科學技術大學《關於環境科學與工程系更名為環境學院的通知》（校字〔2026〕106號）檔案精神，為進一步拓寬學科發展方向，最佳化辦學佈局，自2026年5月22日起，中國科學技術大學環境科學與工程系正式更名為中國科學技術大學環境學院。"
-    },
-    {
-      "id": "4895174",
-      "time": "2026-05-22 20:06:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國城礦業：擬現金收購國城實業40%股權，交易作價23.68億元】國城礦業公告，公司擬透過支付現金方式購買中信信託（代表中信信託·信華57號權益類信託計劃）持有的國城實業40%股權，交易作價23.68億元。本次交易前，公司已持有國城實業60%股權，交易完成後國城實業將成為公司全資子公司。標的公司100%股權評估值為60.03億元，評估增值率207.63%。本次交易構成關聯交易，不構成重組上市。"
-    },
-    {
-      "id": "mkt:019e4f94-e54b-777d-b241-d4d7cb0b45ec",
-      "time": "2026-05-22 20:06:58",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "RUBIO SIGNS MOU ON TECHNOLOGY COOPERATION WITH SWEDEN"
-    },
-    {
-      "id": "4895173",
-      "time": "2026-05-22 20:06:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：魯比奧與瑞典簽署技術合作諒解備忘錄。"
-    },
-    {
-      "id": "4895172",
-      "time": "2026-05-22 20:06:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度儲備銀行：4 月國內經濟執行展現韌性。"
-    },
-    {
-      "id": "te:economy:553105",
-      "time": "2026-05-22 20:06:01",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Mexico",
-        "GDP Growth Rate",
-        "Importance 1"
-      ],
-      "text": "Mexican GDP Revised Higher — The Mexican GDP contracted by 0.6% from the previous quarter in the first quarter of 2026, trimming te 0.9% expansion from the final quarter of last year. The result was revised from the preliminary estimate of a 0.8% contraction, but maintained the undershot of market expectations of a 0.5% contraction. The pressure in the GDP was in line with projections by the Bank of Mexico, that resumed their interest rate cutting cycle despite the aggressive rebound in inflation from March. Output contracted 1.7% for primary activities despite the surge in silver and energy prices. Meanwhile, production fell 1.0% for the secondary sector as manufacturers continued to adjust to tariffs from the US, cutting a key source of demand for auto producers. In turn, services output fell by 0.4%. The GDP inched higher by 0.2% from the previous year."
-    },
-    {
-      "id": "4895171",
-      "time": "2026-05-22 20:05:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國防部發布第二批不明飛行物檔案。"
-    },
-    {
-      "id": "4895170",
-      "time": "2026-05-22 20:03:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭外交部長表示，歐盟參與或可重啟已陷入僵局的美國斡旋和談。"
-    },
-    {
-      "id": "mkt:019e4f91-a6b4-777d-b241-c9d0494de3dd",
-      "time": "2026-05-22 20:03:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "BALTIC DRY INDEX RISES 0.91% TO 2,991"
     }
   ]
 }
