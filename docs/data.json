@@ -1,7 +1,100 @@
 {
-  "updated": "2026-05-29 18:22:00",
-  "count": 15746,
+  "updated": "2026-05-29 18:25:51",
+  "count": 15749,
   "items": [
+    {
+      "id": "mkt:019e7343-4fa7-7337-a6f4-4835dcd7f2fd",
+      "time": "2026-05-29 18:24:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "European Commission met with ANTHROPIC on Thursday."
+    },
+    {
+      "id": "4906983",
+      "time": "2026-05-29 18:23:51",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通將富途目標股價從100美元上調至112美元。"
+    },
+    {
+      "id": "4906982",
+      "time": "2026-05-29 18:23:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "【高通美股盤前持續走高現漲超5%】高通美股盤前持續走高現漲超5%，現報255.55美元。"
+    },
+    {
+      "id": "te:economy:554923",
+      "time": "2026-05-29 18:23:30",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Italy",
+        "GDP Growth Rate",
+        "Importance 1"
+      ],
+      "text": "Italy GDP Growth Revised Higher — The Italian GDP expanded by 0.3% in the first quarter of 2026, maintaining the pace of growth from the earlier period and revised above the 0.2% increase penned in the preliminary estimate, further beating expectations of a 0.1% growth rate. The GDP was carried by a 0.4% expansion in domestic expenditure, with household consumption rising 0.5% while public expenditure stalled. In the meantime, gross fixed investment expanded by 0.7%, as a 2.7% drop in residential development was offset by a 1.3% increase in non-residential investments. Meanwhile, net foreign demand contributed to a 0.9 percentage point increase in the GDP growth figure, as exports grew by 2.2% in the period while imports fell by 0.7%. This offset a 1.1 percentage point drag on the GDP growth figure from negative changes to inventory. From the previous year, the first quarter GDP expanded by 0.8%."
+    },
+    {
+      "id": "4906981",
+      "time": "2026-05-29 18:23:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國巨石：巨石集團與巨石香港對巨石淮安增資8億元】中國巨石公告，巨石集團與巨石香港擬共同向巨石淮安增資8億元。其中，巨石集團增資4.8億元，持股60%；巨石香港增資3.2億元，持股40%。增資後，巨石淮安註冊資本將由20億元變更為28億元。本次增資已於2026年5月29日經公司董事會審議透過，不構成重大資產重組和關聯交易，不會改變公司合併報表範圍。增資旨在加快巨石淮安電子級玻纖專案建設，提升產能規模和盈利能力。"
+    },
+    {
+      "id": "4906980",
+      "time": "2026-05-29 18:23:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中遠海運港口：獲授塔拉戈納港口特許權】中遠海運港口公告，公司非全資附屬公司納港投資有限公司與PTP IB RICA S.A.（PTP）組成聯合體，就西班牙塔拉戈納港口安達盧西亞碼頭旁的多式聯運多用途海運貨物碼頭特許權專案投標。2026年5月28日，塔拉戈納港務局批准向由納港投資及PTP成立的專案公司授出特許權。特許權期限50年，涵蓋總面積約51.06萬平方米。預計總投資額約1.45億歐元，納港投資及PTP將分別持有專案公司51%及49%股權。專案公司註冊成立及特許權協議訂立尚待港務局設定之若干條件達成及最終條款釐定。"
+    },
+    {
+      "id": "4906979",
+      "time": "2026-05-29 18:23:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國總理默茨發言人：流媒體配額符合歐美貿易協定相關規定。"
+    },
+    {
+      "id": "mkt:019e7342-0673-7337-a6f4-408084d1e94d",
+      "time": "2026-05-29 18:22:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "MERZ spokesperson: streaming quotas comply with the EU-US trade agreement."
+    },
+    {
+      "id": "4906978",
+      "time": "2026-05-29 18:22:35",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "港交所披露：5月26日，美國銀行對中遠海運能源運輸股份有限公司H股的多頭持倉從5.91%降至3.52%"
+    },
+    {
+      "id": "4906976",
+      "time": "2026-05-29 18:22:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "【上期所對部分客戶採取限制開倉監管措施】2026年5月29日，1組實際控制關係賬戶在相關合約上賬戶組日內開倉交易量超限達到交易所處理標準。上述客戶交易行為違反《上海期貨交易所異常交易行為管理辦法》第16條之規定，交易所決定對相關客戶在相應品種上採取限制開倉的監管措施。"
+    },
+    {
+      "id": "4906975",
+      "time": "2026-05-29 18:21:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【上海四批次5宗宅地110.45億元成交】5月29日，上海四批次土拍歷時兩日收官，5宗宅地總成交金額110.45億元。其中，4宗宅地溢價、1宗底價成交。從拿地房企來看，保利發展斬獲青浦區、虹口區共2宗宅地，大華集團斬獲1宗閔行區宅地，上海城投斬獲1宗虹口區宅地，保利置業斬獲1宗浦東新區宅地。"
+    },
     {
       "id": "mkt:019e733f-a25d-744e-9d25-66b3d94fc757",
       "time": "2026-05-29 18:20:10",
@@ -142286,76 +142379,6 @@
         "宏觀"
       ],
       "text": "塞內加爾財政部長表示：若石油危機持續，該國燃油補貼支出或將超出2026年預算1.15萬億西非法郎（合20億美元）。"
-    },
-    {
-      "id": "4894973",
-      "time": "2026-05-22 18:25:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "【英唐智控：OCS整體需求量逐步增加，128/256等大通道產品有望在2026年逐步推向市場】英唐智控在特定物件調研時表示，光隆整合主要從事光開關等無源光器件和相關模組、裝置的研發、生產和銷售，客戶涵蓋傳統光模組廠商、光通訊裝置廠商、電信運營商以及系統級供應商等。目前光隆整合小通道的OCS產品已經進入市場，128/256等大通道產品有望在2026年逐步推向市場。從下游客戶的詢單反饋來看，OCS整體需求量逐步增加，對於通道數的要求也在提升，市場潛力逐步釋放。"
-    },
-    {
-      "id": "4894972",
-      "time": "2026-05-22 18:24:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗議會國家安全委員會委員： 數十年來，伊朗與古巴始終保持良好雙邊關係。當下伊朗外交部及政府需全方位深化兩國合作，為這個抵禦外部施壓的革命國家提供必要支援。"
-    },
-    {
-      "id": "4894971",
-      "time": "2026-05-22 18:24:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "【立方製藥：向全體股東每10股派發現金人民幣3元，共計派發現金股利為5705.47萬元】立方製藥公告，2025年度利潤分配及資本公積金轉增股本方案為：以公司當前總股本1.9億股為基數，向全體股東每10股派發現金人民幣3元（含稅），共計派發現金股利為5705.47萬元（含稅），不送紅股；同時以公司當前總股本1.9億股為基數，以資本公積金向全體股東每10股轉增2股，合計轉增3803.64萬股，轉增後公司總股本為2.28億股。"
-    },
-    {
-      "id": "4894970",
-      "time": "2026-05-22 18:24:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "【宇信科技：2023年員工持股計劃所持股票已全部出售完畢】宇信科技公告，公司2023年員工持股計劃所持有的327萬股公司股票已全部出售完畢，佔公司總股本的0.46%。"
-    },
-    {
-      "id": "4894969",
-      "time": "2026-05-22 18:24:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗議會國家安全委員會委員： 美軍將尼米茲號航母部署至加勒比海南部海域，恰逢古巴前領導人遭起訴之際，此舉是妄圖逼迫主權國家屈服的絕望行徑。"
-    },
-    {
-      "id": "4894968",
-      "time": "2026-05-22 18:23:22",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【10秒能爬五層樓 菜鳥ZeeBot年內全球落地】這是菜鳥首款自研攀爬機器人，名為ZeeBot。今年1月立項，3月底正式投產，一個多月前（4月15日），菜鳥集團在美國亞特蘭大舉行的MODEX 2026國際物流展上正式對外發布。根據菜鳥官方資料，相較於其他自動化倉庫，攀爬機器人移動速度更快，平面上達到每秒4米；向上攀爬時，10秒鐘可至5層樓高的貨架。它的儲存密度更高，儲存空間利用率提升40%；模組化設計、部署效率提升，使倉庫具備更強的拓展彈性。菜鳥集團副總裁、物流科技事業部總經理畢江華對記者透露，ZeeBot將優先在菜鳥自營物流場景打磨產品，今年，不僅將在國內及荷蘭、西班牙等地落地多個大型專案，同步也會拓展中國出海品牌以及海外跨境物流企業客戶。（每經）"
-    },
-    {
-      "id": "te:economy:553082",
-      "time": "2026-05-22 18:23:11",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Ireland",
-        "Producer Prices Change",
-        "Importance 1"
-      ],
-      "text": "Ireland Wholesale Prices Rise in April — Wholesale prices in Ireland rose 1.4% year-on-year in April 2026, rebounding from a 0.2% decline in the previous month and marking the first increase after fourteen straight months of contraction. Prices rose across several categories, led by chemicals and chemical products (11.9%), fabricated metal products excluding machinery and equipment (5.0%), pulp, paper and paper products (4.1%), other non-metallic mineral products (3.6%), and printing and reproduction of recorded media (2.7%). Food products also rose 1%, driven mainly by higher prices for fish and fish products (8.6%). Moreover, costs for all energy fuels surged 42.3%, and electricity prices climbed 18%, while manufacturing prices increased 1.4% and construction product prices rose 2%. On a monthly basis, wholesale prices edged up 0.2% in April, easing from a 3.1% increase in the previous month."
-    },
-    {
-      "id": "4894967",
-      "time": "2026-05-22 18:22:51",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【日本央行行長稱高市早苗希望日本央行採取適當政策】日本央行行長植田和男表示，首相高市早苗在週五的會談中告訴他，希望日本央行採取適當政策，考慮到政府的價格措施。植田和男在東京首相官邸與高市早苗會談後對記者表示，這是兩人之間的一次例行會晤，沒有討論貨幣政策的具體細節。"
     }
   ]
 }
