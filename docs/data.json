@@ -1,7 +1,50 @@
 {
-  "updated": "2026-05-30 02:29:36",
-  "count": 15813,
+  "updated": "2026-05-30 02:33:29",
+  "count": 15812,
   "items": [
+    {
+      "id": "mkt:019e7501-cdbe-7bb7-9965-5419df3f0d96",
+      "time": "2026-05-30 02:31:52",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "【Night session main contracts close】As of the 02:30 close, Shanghai gold main contract rose 1.61% to 996 yuan/gram, Shanghai silver main contract rose 0.64% to 18,323 yuan/kg, and SC crude oil main contract fell 1.61% to 580 yuan/barrel."
+    },
+    {
+      "id": "4907693",
+      "time": "2026-05-30 02:31:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI 7月原油期貨收跌1.54美元，跌幅1.73%，報87.36美元/桶。NYMEX 6月天然氣期貨收報3.29美元/百萬英熱單位。NYMEX 6月汽油期貨收報3.1267美元/加侖，NYMEX 6月取暖油期貨收報3.5373美元/加侖。"
+    },
+    {
+      "id": "mkt:019e7501-03f6-7bb7-9965-491ab2f54c1c",
+      "time": "2026-05-30 02:31:01",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "U.S. crude futures settled at $87.36 a barrel, down $1.54, or 1.73%."
+    },
+    {
+      "id": "4907692",
+      "time": "2026-05-30 02:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收跌1.61%，報580.30元人民幣/桶。滬金夜盤收漲1.61%，滬銀收漲0.64%。"
+    },
     {
       "id": "mkt:019e74ff-4265-7bb7-9965-4639ff06cf92",
       "time": "2026-05-30 02:29:06",
@@ -143155,53 +143198,6 @@
         "其他"
       ],
       "text": "Datafolha民調顯示： 盧拉將以 48% 的得票率贏得巴西總統大選第二輪投票，米歇爾・博索納羅得票率為 43%。"
-    },
-    {
-      "id": "4895682",
-      "time": "2026-05-23 02:31:14",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI 6月原油期貨收漲0.25美元，漲幅0.26%，報96.60美元/桶。NYMEX 6月天然氣期貨收報2.9070美元/百萬英熱單位。NYMEX 6月汽油期貨收報3.4539美元/加侖，NYMEX 6月取暖油期貨收報3.8878美元/加侖。"
-    },
-    {
-      "id": "mkt:019e50f4-854f-788e-b251-c623b145627e",
-      "time": "2026-05-23 02:31:02",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "REPUBLICAN SENATOR ROGER WICKER ON FRIDAY URGED PRESIDENT DONALD TRUMP TO ABANDON TALKS WITH TEHRAN AND LET US FORCES “FINISH THE DESTRUCTION” OF IRAN’S MILITARY CAPABILITIES AND REOPEN THE STRAIT OF HORMUZ."
-    },
-    {
-      "id": "4895681",
-      "time": "2026-05-23 02:30:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "上期所原油期貨夜盤收跌1.88%，報638.40元人民幣/桶。滬金夜盤收跌0.08%，滬銀收漲0.51%。"
-    },
-    {
-      "id": "te:markets:553190",
-      "time": "2026-05-23 02:30:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: XRP Depreciates by 1.48% — Top crypto losers are XRP (-1.48%), Bitcoin (-1.06%) and Ether (-0.72%)."
-    },
-    {
-      "id": "4895680",
-      "time": "2026-05-23 02:29:50",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【物流巨頭敦促歐盟逐步推行低價包裹關稅新規】週五，全球物流巨頭 DHL、聯邦快遞（FedEx）以及聯合包裹（UPS）聯合向歐盟成員國財政部長髮出緊急呼籲，敦促其逐步分階段推行針對低價包裹的關稅新規。這些巨頭嚴厲警告稱，倉促上馬新規恐將引發供應鏈全面梗阻，甚至直接危及部分核心醫療物資的供應安全。"
     }
   ]
 }
