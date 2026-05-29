@@ -1,7 +1,59 @@
 {
-  "updated": "2026-05-30 04:47:18",
-  "count": 15820,
+  "updated": "2026-05-30 04:51:17",
+  "count": 15821,
   "items": [
+    {
+      "id": "4907843",
+      "time": "2026-05-30 04:50:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表辦公室： 《美墨加協定》 相關談判將於6月16日至17日在華盛頓繼續舉行；第三輪談判將於7月20日當週在墨西哥城舉辦。"
+    },
+    {
+      "id": "4907842",
+      "time": "2026-05-30 04:48:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大蒙特利爾銀行（BMO）從瑞銀（UBS）挖來戴維·德斯科託，領導其資本市場與商業銀行部門的美國併購團隊。"
+    },
+    {
+      "id": "4907841",
+      "time": "2026-05-30 04:48:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表辦公室：談判代表就汽車原產地規則、鋼鐵鋁以及經濟安全相關優先議題展開了討論。"
+    },
+    {
+      "id": "4907840",
+      "time": "2026-05-30 04:48:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國尚未證實伊朗在霍爾木茲海峽佈雷。"
+    },
+    {
+      "id": "4907839",
+      "time": "2026-05-30 04:47:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表辦公室：美國與墨西哥完成《美墨加協定》聯合審議首輪雙邊談判。"
+    },
+    {
+      "id": "te:markets:555061",
+      "time": "2026-05-30 04:46:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Falls as Strong GDP Boosts Hawkish BCB Bets — The Ibovespa lost 0.7% to close at 173,787 on Friday as stronger-than-expected GDP data reinforced the view that the current cycle of Selic rate cuts may be limited. Brazil’s economy grew 1.1% in the first quarter from the previous three months, accelerating from a 0.3% expansion in Q4 2025 and marking the strongest quarterly growth since Q1 2025. The data strengthened expectations of a hawkish BCB, pushing bond yields higher and weighing on equities. Banks led losses, with Bradesco down 1.1% and Banco do Brasil shedding 1.5%. Petrobras fell 1.2% as oil prices retreated after a deal to extend the US-Iran ceasefire renewed hopes for an end to the Middle East conflict. Vale also lost 1.4% despite higher iron ore prices."
+    },
     {
       "id": "4907838",
       "time": "2026-05-30 04:45:57",
@@ -143185,51 +143237,6 @@
         "國際"
       ],
       "text": "墨西哥總統：歐盟與墨西哥協議將簡化歐洲對墨西哥的投資流程。"
-    },
-    {
-      "id": "4895815",
-      "time": "2026-05-23 04:51:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "訊息人士：美國稅務機構或將在稅務表格中增設公民身份相關問詢項。"
-    },
-    {
-      "id": "te:markets:553196",
-      "time": "2026-05-23 04:50:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Ibovespa Falls on Banking and Energy Losses — The Ibovespa fell 1% to close at 176,210 on Friday, pressured by losses in major banks and energy producers. The banking sector continued to weaken after months of strong gains in the stock market. Aside from Banco do Brasil, which rose 0.6%, major lenders closed sharply lower, with Bradesco down 1.6%, Itaú Unibanco losing 1.7%, and Santander Brasil falling 1.8%. Weakness in financials also weighed on B3, which dropped 2.1%. Petrobras shed 1% amid volatile oil prices, while junior oil companies traded mixed, with Prio up 0.6% and Brava Energia down 1.8%. Vale gained 0.6% despite iron ore posting a weekly loss. Investors also assessed a new election poll showing President Lula opening a nine-point lead in the first round following controversy involving Flávio Bolsonaro and former Banco Master owner Daniel Vorcaro, who faces fraud charges. Markets now await next week’s key economic releases, including Brazil’s first-quarter GDP data."
-    },
-    {
-      "id": "4895814",
-      "time": "2026-05-23 04:48:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟委員會主席馮德萊恩：歐盟將向墨西哥投資50億歐元。"
-    },
-    {
-      "id": "4895813",
-      "time": "2026-05-23 04:48:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "【報道：特朗普週五與國家安全高階顧問會面】據相關媒體報道，美國官員透露，特朗普週五與國家安全高階顧問會面，考量是否對伊朗發動新一輪打擊。特朗普正認真考慮採取軍事行動，除非談判局勢出現轉機，但目前暫無跡象表明其已決定重啟戰事。一名美方官員稱談判程序僵持焦灼，相關草案每日反覆磋商，實質性進展寥寥。"
-    },
-    {
-      "id": "4895812",
-      "time": "2026-05-23 04:48:17",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國芝加哥商業交易所集團（CME Group）批准印度Hindalco Industries Ltd.兩個品牌的銅產品為COMEX交割品種。"
     }
   ]
 }
