@@ -1,7 +1,146 @@
 {
-  "updated": "2026-05-29 14:29:18",
-  "count": 15543,
+  "updated": "2026-05-29 14:33:14",
+  "count": 15544,
   "items": [
+    {
+      "id": "mkt:019e726f-306f-711c-8b40-9d42a4e8318a",
+      "time": "2026-05-29 14:32:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【ISO approves China-led revisions to ISO 20022 Parts 5 and 7 (2026)】May 29 — ISO has approved and published China-led revisions to the international payment messaging standard: ISO 20022-5:2026 (Conceptual interoperability and reverse engineering) and ISO 20022-7:2026 (Registration). The updates, developed with input from experts across 17 countries and six international financial institutions (over 50 experts), are intended to improve financial services efficiency and facilitate cross-border transactions, providing technical support for a more open international financial system."
+    },
+    {
+      "id": "mkt:019e726f-2e5d-711c-8b40-917996f61ec3",
+      "time": "2026-05-29 14:32:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "【Japan, South Korea stocks rally; Japan's Nikkei posts record closing high】Japan's Nikkei 225 closed May 29 up 1,669.55 points (+2.58%) at 66,362.67, a record closing high. South Korea's KOSPI closed up 289.64 points (+3.54%) at 8,474.93."
+    },
+    {
+      "id": "mkt:019e726e-b10b-711c-8b40-880eddc6fd3b",
+      "time": "2026-05-29 14:31:57",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "IFX.DE",
+        "Impact bullish"
+      ],
+      "text": "【Infineon to raise prices again in July】Infineon told customers and partners it will increase prices on select power-semiconductor products effective July 1. This is the company's second price rise this year, after an initial increase in April 2026. Infineon cited higher value-chain costs—energy, raw materials, transport and services—linked to geopolitical tensions, and demand for its product mix running faster than it expected several months ago."
+    },
+    {
+      "id": "4906325",
+      "time": "2026-05-29 14:31:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日韓股市集體收漲】日經225指數收漲2.53%，報66329.50點。韓國綜指收漲3.54%，報8474.93點。"
+    },
+    {
+      "id": "4906324",
+      "time": "2026-05-29 14:31:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【英飛凌將於7月再度提價】近日，全球功率半導體廠商英飛凌向客戶與合作伙伴表示，將自7月1日起調整部分產品價格。這是繼2026年4月首輪提價之後，該公司年內的第二次價格上調。對於本次調價的理由，英飛凌解釋主要有兩點：一方面源自地緣政治緊張局勢所帶來的影響。這正導致整體價值鏈中的各項成本不斷上升，涵蓋能源、原材料、運輸及服務等領域。另一方面，公司產品組合的需求正快速攀升，且增長幅度遠超數月前的預期水平。"
+    },
+    {
+      "id": "4906323",
+      "time": "2026-05-29 14:31:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "【羅馬尼亞稱俄無人機在該國墜毀致兩人受傷】羅馬尼亞國防部29日釋出新聞公報稱，一架俄羅斯無人機在羅馬尼亞一棟公寓樓墜毀並引發火災，致兩人受傷。羅國防部稱，28日晚至29日凌晨，俄羅斯對烏克蘭發動了無人機襲擊，事發地點靠近羅馬尼亞邊境。一架無人機侵入了羅馬尼亞領空，被雷達系統一直追蹤至加拉茨市南部區域。隨後，該無人機墜毀在一棟公寓樓的屋頂上並引發火災。（新華社）"
+    },
+    {
+      "id": "mkt:019e726d-ac25-711c-8b40-8751ff14cd8f",
+      "time": "2026-05-29 14:30:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "CSI300",
+        "Copper"
+      ],
+      "text": "【Guangdong Jan–Apr industrial output of enterprises above designated size +3.9% YoY】Industrial output of Guangdong enterprises above designated size rose 3.9% YoY in Jan–Apr. By sector, mining +16.3% YoY, manufacturing +3.3%, and electricity/heat/gas/water production and supply +6.0%; power and heat production and supply expanded 10.1% YoY, 0.7 ppt faster than Q1. By industry, computer, communications and other electronic equipment manufacturing +12.7%; electrical machinery and equipment +3.4% (battery manufacturing +12.8%); special-purpose equipment +8.1%; chemical raw materials and chemical products +5.3%. High‑tech product output led gains: industrial robots +32.3%, 3D printers +57.0%, integrated circuits +30.8%, memory/storage chips +50.8%. Selected consumer durables: household refrigerators +19.5%, washing machines +14.8%."
+    },
+    {
+      "id": "mkt:019e726d-975d-711c-8b40-7ec2d9380c6a",
+      "time": "2026-05-29 14:30:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Romanian president has asked the foreign ministry to immediately propose a package of measures on relations with Russia to respond to an extremely serious situation."
+    },
+    {
+      "id": "4906322",
+      "time": "2026-05-29 14:30:39",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲卡什卡利：現在就斷定美聯儲短期內需要升息還為時過早。"
+    },
+    {
+      "id": "4906321",
+      "time": "2026-05-29 14:30:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國牽頭修訂的金融業通用報文方案國際標準正式釋出】記者今天（5月29日）瞭解到，我國牽頭修訂的國際標準《金融服務 金融業通用報文方案 第5部分：概念互操作性和反向工程》（ISO 20022-5:2026）和《金融服務 金融業通用報文方案 第7部分：註冊》（ISO 20022-7:2026）經國際標準化組織（ISO）批准釋出。（央視新聞）"
+    },
+    {
+      "id": "te:markets:554779",
+      "time": "2026-05-29 14:30:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Nikkei 225 Index Closes 2.68% Higher — The Nikkei 225 Index gained 1731 points or 2.68 percent on Friday to close at 66424 points. Gains were led by Sumco (19.95%), Murata Manufacturing (16.70%) and Taiyo Yuden (14.45%)."
+    },
+    {
+      "id": "4906320",
+      "time": "2026-05-29 14:30:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中際旭創成交額達300億元】中際旭創成交額達300億元，現跌3.38%。"
+    },
+    {
+      "id": "4906319",
+      "time": "2026-05-29 14:29:57",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "羅馬尼亞總統表示，他已要求外交部立即出臺一系列對俄關係相關措施，措施力度需與當前極為嚴峻的局勢相稱。"
+    },
+    {
+      "id": "mkt:019e726c-ba64-711c-8b40-753d96b62640",
+      "time": "2026-05-29 14:29:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Romanian prime minister said the country will sign a contract within hours to acquire an anti-drone defense system under the \"European Security Action\" plan."
+    },
+    {
+      "id": "4906318",
+      "time": "2026-05-29 14:29:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "【報告：紐商所黃金期貨可能正上演逆勢反彈】RHB Retail Research的Aiman Kamil Bin Ahmad Shauqi在一份研究報告中表示，從日線圖來看，紐商所黃金期貨可能正上演逆勢反彈。該分析師指出，該期貨週四暫停了下跌趨勢，且拋售壓力已經減弱。不過該分析師表示，該期貨的交易價格仍低於20日和50日簡單移動平均線，且相對強弱指標仍低於50%的臨界值。基於看跌的技術形態，該大宗商品的反彈可能是短暫的，隨後將出現下行價格走勢。該分析師補充說，第一阻力位定在每盎司4,650美元，而初步支撐位在每盎司4,400美元。現貨黃金上漲0.5%，報每盎司4,519.46美元。"
+    },
     {
       "id": "4906317",
       "time": "2026-05-29 14:28:37",
@@ -140119,133 +140258,6 @@
         "公司"
       ],
       "text": "【聖邦股份成立新公司 含積體電路晶片業務】企查查APP顯示，近日，西安聖邦微電子有限公司成立，經營範圍包含積體電路設計；積體電路晶片設計及服務；積體電路銷售；積體電路晶片及產品銷售等。企查查股權穿透顯示，該公司由聖邦股份全資持股。"
-    },
-    {
-      "id": "4894361",
-      "time": "2026-05-22 14:33:12",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【日本將迎來戰事爆發後首艘駛出霍爾木茲海峽的油輪】作為中東能源主要進口大國之一，日本即將迎來伊朗戰事爆發後，首艘途經局勢緊張的霍爾木茲海峽駛離波斯灣的原油運輸船。日本經濟產業省表示，超大型油輪 “出光丸” 4 月末穿越該海峽，最快將於週一靠港。這艘貨輪運載 200 萬桶沙特原油，預計停靠至出光興產公司愛知煉油廠。"
-    },
-    {
-      "id": "4894360",
-      "time": "2026-05-22 14:33:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "歷峰集團董事長魯珀特：若出現合適的收購機會，我們有能力也有意向推進收購。"
-    },
-    {
-      "id": "4894359",
-      "time": "2026-05-22 14:31:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "【錯峰綠電交易破解能源供需“時空差”】記者從國網內蒙古東部電力有限公司獲悉，截至目前，內蒙古東部電網累計簽訂錯峰綠電交易合同電量已超30億千瓦時，其中已執行電量達20.37億千瓦時。錯峰綠電交易，簡單來說就是利用不同地區、不同時段的“用電需求”與“新能源發電出力”之間的空間差和時間差，透過市場化手段，把一地富餘的綠電送到另一地正好需要用電的地方。（新華社）"
-    },
-    {
-      "id": "mkt:019e4e62-2f2b-7cc0-a021-d3e40246d905",
-      "time": "2026-05-22 14:31:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "KOSPI INDEX CLOSED UP 0.41%, AT 7847.71"
-    },
-    {
-      "id": "4894358",
-      "time": "2026-05-22 14:31:39",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "法國財政部長：利潤格外豐厚的行業可能面臨額外徵稅。"
-    },
-    {
-      "id": "mkt:019e4e61-c94d-7cc0-a021-ccd166f5d8cc",
-      "time": "2026-05-22 14:31:31",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "NIKKEI STOCK AVERAGE CLOSES 2.7% HIGHER AT 63339.07, LED BY TECH, ELECTRONICS STOCKS"
-    },
-    {
-      "id": "4894357",
-      "time": "2026-05-22 14:31:10",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經225指數收盤上漲2.7%，報63339.07點。"
-    },
-    {
-      "id": "mkt:019e4e61-140f-7cc0-a021-c574de315912",
-      "time": "2026-05-22 14:30:45",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "JAPAN'S NIKKEI CLOSING LEVEL IS HIGHEST EVER"
-    },
-    {
-      "id": "mkt:019e4e61-0465-7cc0-a021-bda87f1103cb",
-      "time": "2026-05-22 14:30:41",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "FRENCH FINANCE MINISTER LESCURE: SECTORS WITH PARTICULARLY HIGH PROFITS MAY FACE ADDITIONAL TAXES"
-    },
-    {
-      "id": "4894356",
-      "time": "2026-05-22 14:30:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國與巴布亞紐幾內亞簽署《提升經濟夥伴關係框架協定》並發表聯合宣告】5月21日，在亞太經合組織貿易部長會議期間，商務部部長王文濤與巴布亞紐幾內亞國際貿易和投資部長馬魯共同簽署《提升經濟夥伴關係框架協定》（簡稱《框架協定》）並發表聯合宣告。根據《框架協定》，雙方同意圍繞具體議題開展靈活務實的談判，商籤制度性安排，進一步擴大雙邊貿易，並支援巴布亞紐幾內亞吸引投資，加快實現工業化和農業現代化，深度參與全球產業鏈供應鏈合作。雙方將盡快啟動後續模組談判，以期達成互利共贏成果。（商務部）"
-    },
-    {
-      "id": "4894355",
-      "time": "2026-05-22 14:30:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國長三角完成首單省級林業碳票跨省交易】安徽省池州市石臺縣國有林場500噸省級林業碳票日前被上海五星銅業股份有限公司認購，價值5萬元人民幣，這是中國長三角地區首單省級林業碳票跨省交易。這片約11萬畝的山林，正透過一種全新方式釋放“綠色”活力。（新華社）"
-    },
-    {
-      "id": "te:markets:552977",
-      "time": "2026-05-22 14:30:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Nikkei 225 Index Closes 2.77% Higher — The Nikkei 225 Index gained 1709 points or 2.77 percent on Friday to close at 63393 points. Gains were led by Taiyo Yuden (13.46%), Softbank (11.23%) and Sumitomo Electric (10.16%)."
-    },
-    {
-      "id": "4894354",
-      "time": "2026-05-22 14:29:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "【小象超市在江西成立新公司，註冊資本1000萬】天眼查App顯示，5月18日，江西象鮮科技有限公司成立，法定代表人為劉東偉，註冊資本1000萬人民幣，經營範圍包括食品銷售、餐飲服務、藥品零售等，由小象超市關聯公司北京象鮮科技有限公司全資持股。"
-    },
-    {
-      "id": "mkt:019e4e5f-d87c-7cc0-a021-b6517c42b5dc",
-      "time": "2026-05-22 14:29:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ESTONIAN FOREIGN MINISTER: IT IS UP TO THE US TO DECIDE HOW MANY TROOPS THEY HAVE IN EUROPE, BUT IT IS CLEAR THAT EUROPE MUST STEP UP"
     }
   ]
 }
