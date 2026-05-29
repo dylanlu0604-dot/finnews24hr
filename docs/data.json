@@ -1,7 +1,61 @@
 {
-  "updated": "2026-05-29 22:22:28",
-  "count": 15829,
+  "updated": "2026-05-29 22:26:44",
+  "count": 15825,
   "items": [
+    {
+      "id": "mkt:019e741e-aff0-7eef-a0f0-f2b84ea6ccfd",
+      "time": "2026-05-29 22:23:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "Russell 2000 falls more than 1%."
+    },
+    {
+      "id": "4907496",
+      "time": "2026-05-29 22:23:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "羅素2000指數下跌1.1%。"
+    },
+    {
+      "id": "mkt:019e741e-021d-7eef-a0f0-e939b45a7b4e",
+      "time": "2026-05-29 22:23:04",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Magnificent 7",
+        "Star Stocks",
+        "Alphabet",
+        "AVGO.O",
+        "Impact bullish",
+        "GOOGL.O"
+      ],
+      "text": "【Apollo, Blackstone lining up roughly $36bln debt for ANTHROPIC to buy Google TPUs】Apollo Global Management and Blackstone are bringing in investors for about $36 billion of debt financing to fund acquisition of Google-customized TPU (tensor processing unit) chips for ANTHROPIC, sources said. Broadcom, which helped develop the chips for Google, will guarantee most of the proceeds; the chips would be bought and then leased to ANTHROPIC. The structure aims to use Broadcom’s credit profile to back compute financing and, if completed, would be among the largest private-credit transactions and the biggest chip-financing debt deals to date."
+    },
+    {
+      "id": "4907495",
+      "time": "2026-05-29 22:22:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【谷歌TPU或迎空前大單 私募巨頭正為Anthropic籌劃鉅額晶片融資】最新訊息顯示，私募巨頭阿波羅全球管理（Apollo Global Management）與黑石集團正在為一項規模約360億美元的債務融資交易引入更多投資者，以幫助Anthropic構建其人工智慧基礎設施。知情人士透露，這筆債務融資將用於購買谷歌定製的TPU（張量處理單元）晶片，隨後由Anthropic進行租賃使用。協助谷歌開發該晶片的博通，將為這筆交易的大部分款項提供擔保。此舉有望成為史上規模最大的私募信貸交易之一，同時也可能是迄今最大的一筆晶片融資債務交易。該方案旨在藉助博通的信用資質，為Anthropic提供算力支援。"
+    },
+    {
+      "id": "4907494",
+      "time": "2026-05-29 22:22:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗最高領袖軍事顧問：伊朗將迫使美國結束海上封鎖】當地時間5月29日，伊朗最高領袖軍事顧問穆赫辛·雷扎伊在接受採訪時表示，伊朗將迫使美國結束海上封鎖；可以透過談判，如果對方抵抗，則透過直接行動。他還表示，儘管面臨壓力，伊朗經濟的未來是光明和充滿希望的。（央視新聞）"
+    },
     {
       "id": "4907493",
       "time": "2026-05-29 22:21:16",
@@ -143204,88 +143258,6 @@
         "美國"
       ],
       "text": "【伊朗戰爭推高通脹擔憂 美國消費者信心指數跌至紀錄低點】受伊朗戰爭影響，美國5月消費者信心指數跌至紀錄低點，長期通脹預期顯著惡化。密歇根大學週五公佈的5月終值顯示，消費者信心指數從4月的49.8降至44.8。該資料不僅低於所有市場預期，也低於初值48.2。"
-    },
-    {
-      "id": "mkt:019e5013-fff4-7224-83c0-525719ae240a",
-      "time": "2026-05-22 22:25:48",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Wall Street (US)",
-        "S&P500",
-        "Impact bearish",
-        "Nasdaq100"
-      ],
-      "text": "S&P 500 PARES GAIN TO SESSION-LOW 0.2% FROM 0.7% EARLIER NASDAQ 100 IS ALSO AT A SESSION LOW"
-    },
-    {
-      "id": "4895479",
-      "time": "2026-05-22 22:25:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "高通股價漲幅擴大至9%。"
-    },
-    {
-      "id": "4895478",
-      "time": "2026-05-22 22:25:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "【古巴國家主席駁斥美方指控 強調該國享有合法自衛權】當地時間22日，古巴國家主席迪亞斯-卡內爾發文表示，所謂“古巴對美國構成威脅”的論調，只存在於美國現政府部分官員的“錯誤認知”中。他表示，這些人“控制著對古政策”，透過公然謊言向美國民眾和國際社會製造輿論，為發動一場可能帶來巨大人員傷亡的戰爭尋找藉口。迪亞斯-卡內爾表示，自革命勝利以來，古巴始終致力於和平共處。然而，恰恰是歷屆美國政府，一次又一次地威脅並侵犯了這一權利。如今，美國將威脅推向了極端，不僅將荒謬的謊言與軍事恐嚇相結合，更剝奪了古巴人民賴以生存的最基本資源與服務。迪亞斯-卡內爾說，美國長期庇護從事反古巴活動的“恐怖分子”，並在沒有提供任何證據的情況下，將古巴列為“支援恐怖主義國家”，這一做法遭到國際社會廣泛反對。迪亞斯-卡內爾強調，古巴既不威脅、也不挑戰、更不會挑釁美國或世界其他國家，古巴是一個熱愛和平的國家。迪亞斯-卡內爾表示，古巴享有國際法賦予的正當防衛權。他同時表示，古巴仍希望透過理性、對話與和平解決分歧。（央視新聞）"
-    },
-    {
-      "id": "mkt:019e5013-57b6-7224-83c0-4bb6f2aa0ebd",
-      "time": "2026-05-22 22:25:05",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "SPOT SILVER FALLS BELOW $75/OZ, DOWN 2.17% INTRADAY"
-    },
-    {
-      "id": "4895477",
-      "time": "2026-05-22 22:24:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西鋼鐵協會（ACO Brasil）表示，巴西4月份鋼鐵進口量同比下降33%。"
-    },
-    {
-      "id": "4895476",
-      "time": "2026-05-22 22:24:06",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨白銀失守75美元/盎司，日內跌2.13%。"
-    },
-    {
-      "id": "4895475",
-      "time": "2026-05-22 22:23:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "普京：已責成國防部擬定對烏克蘭的反擊方案。"
-    },
-    {
-      "id": "4895474",
-      "time": "2026-05-22 22:23:45",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內跌2%，現報75.08美元/盎司。"
-    },
-    {
-      "id": "4895473",
-      "time": "2026-05-22 22:22:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "普京否認了有關烏克蘭武裝部隊襲擊斯塔羅比爾斯克一所學院的無人機可能是防空或電子戰行動所致的說法。"
     }
   ]
 }
