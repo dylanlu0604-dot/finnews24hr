@@ -1,7 +1,245 @@
 {
-  "updated": "2026-05-29 21:28:09",
-  "count": 15846,
+  "updated": "2026-05-29 21:32:13",
+  "count": 15847,
   "items": [
+    {
+      "id": "mkt:019e73ee-cca0-7eef-a0ef-c7ffd16b6314",
+      "time": "2026-05-29 21:31:29",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fed's Paulson said a market shift toward a tighter monetary policy outlook is healthy."
+    },
+    {
+      "id": "4907404",
+      "time": "2026-05-29 21:31:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "戴爾股價開盤飆升33%，創下2024年以來最大單日漲幅。"
+    },
+    {
+      "id": "te:markets:554991",
+      "time": "2026-05-29 21:31:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Chubb Stock Price Hits 16-week Low — Chubb shares decreased to 314.96 USD, the lowest since February 2026. Over the past 4 weeks, Chubb lost 3.24%, and in the last 12 months, it increased 7.15%."
+    },
+    {
+      "id": "4907403",
+      "time": "2026-05-29 21:31:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "路透社調查：預計到2026年底通脹中位數為5.5%，與上一輪調查結果一致。"
+    },
+    {
+      "id": "4907402",
+      "time": "2026-05-29 21:30:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股開盤：三大股指齊漲】道指漲0.09%，標普500指數漲0.14%，納指漲0.10%。戴爾漲32.34%，美國網存漲23.60%，慧與漲11.15%，超微電腦漲8.81%，惠普漲8.72%，現在服務漲8.40%，IBM漲5.57%。“七姐妹”方面：微軟漲1.94%，蘋果漲0.12%，英偉達漲0.03%，Meta Platforms跌0.28%，亞馬遜跌0.36%，特斯拉跌1.08%，谷歌跌1.77%。"
+    },
+    {
+      "id": "4907401",
+      "time": "2026-05-29 21:30:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "路透調查：預計盧布12個月後對美元匯率為83.85（前次調查預期為89）。"
+    },
+    {
+      "id": "mkt:019e73ed-ef7c-7eef-a0ef-bcdb52d8e39a",
+      "time": "2026-05-29 21:30:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DELL.N",
+        "Impact bullish",
+        "SMCI.O",
+        "HPQ.N"
+      ],
+      "text": "U.S. stocks opened slightly higher: Dow Jones +0.18%, S&P 500 +0.09%, Nasdaq +0.16%. Dell (DELL.N) jumped over 30% after first-quarter results topped expectations. AI server-related names rallied: Super Micro Computer (SMCI.O) +7%+, HP Inc (HPQ.N) +6%+."
+    },
+    {
+      "id": "4907400",
+      "time": "2026-05-29 21:30:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "路透調查：預計2026年俄羅斯GDP增速為0.8%，前次調查預期為1%。"
+    },
+    {
+      "id": "4907399",
+      "time": "2026-05-29 21:30:24",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "路透調查：分析師預計俄羅斯央行將在2026年第四季度將關鍵利率從當前的14.5%下調至12%。"
+    },
+    {
+      "id": "te:markets:554990",
+      "time": "2026-05-29 21:30:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Alphabet Stock Price Hits 4-week Low — Alphabet shares decreased to 379.45 USD, the lowest since May 2026. Over the past 4 weeks, Alphabet gained 11.5%, and in the last 12 months, it increased 127.03%."
+    },
+    {
+      "id": "te:markets:554989",
+      "time": "2026-05-29 21:30:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Microsoft Stock Price Hits 5-week High — Microsoft shares increased to 433.32 USD, the highest since April 2026. Over the past 4 weeks, Microsoft gained 0.61%, and in the last 12 months, it decreased 6.9%."
+    },
+    {
+      "id": "4907398",
+      "time": "2026-05-29 21:30:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國法官根據法院令暫時叫停特朗普政府18億美元“反武器化基金”的設立。"
+    },
+    {
+      "id": "4907397",
+      "time": "2026-05-29 21:29:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【凱撒旅業：開展股東回饋活動，開放演唱會專屬優惠購票通道】凱撒旅業5月29日公告，公司開展股東回饋活動，截至2026年5月13日登記在冊的股東可參與。活動包括“CAISSA一聲有你”演唱會(2026年6月20日青島)專屬優惠購票通道，個人股東限購2張，機構股東限購6張。演唱會票根可抵扣年內10月20日青島啟航的愛達·地中海號郵輪船票等價金額，並享受機場貴賓室、大鮑島歷史街區商鋪、小港灣海釣專案等多型別產品禮遇。活動時間自公告之日起至2026年6月13日11:00。"
+    },
+    {
+      "id": "4907396",
+      "time": "2026-05-29 21:29:39",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲官員保爾森：消費者仍在支出，但增速已放緩。失業率水平基本處於充分就業區間。基本情景是就業市場保持穩定。"
+    },
+    {
+      "id": "4907395",
+      "time": "2026-05-29 21:29:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美媒透露美伊談判新細節：為伊朗設立3000億美元基金，並停止黎巴嫩境內的戰鬥】據以色列媒體引述美國媒體報道，美國與伊朗正在商討的一份諒解草案的最新細節。該報道描述了一個廣泛且複雜的框架，這一框架可能重塑地區緊張局勢，但同時也面臨著巨大的不確定性。知情官員透露，擬議的安排核心在於暫時緩和敵對行動，並輔以平行的政治和經濟承諾，旨在為達成一項長期協議鋪平道路。該提案的某些版本內容更為深入，其措辭將這一安排定性為涵蓋多個戰線的、更為廣泛的“結束戰爭”宣言，其中包括停止黎巴嫩境內的戰鬥。該草案中最引人注目的內容之一，是其中包含了一項可能為伊朗設立的國際“投資基金”；一些參與者將其描述為一種戰後重建機制。據討論，該基金的估值約為3000億美元，儘管並非所有調解方都證實了這一具體數字。伊朗官員將這一構想定位為一項可在最終協議達成後啟動的重建計劃；而據此前報道，伊朗早先提出的索賠要求中，針對過去遭受襲擊所致損失的賠償估算金額要遠高於這一數字。"
+    },
+    {
+      "id": "mkt:019e73ec-7223-7eef-a0ef-b39bbd17b630",
+      "time": "2026-05-29 21:28:55",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【US media: US-Iran draft would create $300 bln fund, halt fighting in Lebanon】US media (i24News citing the New York Times) report a U.S.-Iran draft understanding under negotiation that would temporarily ease hostilities and pair parallel political and economic commitments to pave the way for a long-term deal. Some draft versions frame the package as a multi-front \"end of war\" declaration that would include halting fighting in Lebanon. A notable proposal is an international investment fund for Iran valued at roughly $300 billion; mediators have not universally confirmed the figure. Iranian officials describe the fund as a post-agreement reconstruction vehicle, while Tehran’s earlier compensation claims for past attack losses were reportedly much larger. The proposal remains a draft with significant uncertainty."
+    },
+    {
+      "id": "4907394",
+      "time": "2026-05-29 21:28:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理：今日我與指揮官及將士一同駐守北部邊境，我們將持續打擊真主黨，直至完成任務。"
+    },
+    {
+      "id": "4907393",
+      "time": "2026-05-29 21:28:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "【博通美股盤前漲超2%】博通美股盤前漲超2%，現報435.25美元。"
+    },
+    {
+      "id": "mkt:019e73eb-ef5f-7eef-a0ef-af3fcba459c8",
+      "time": "2026-05-29 21:28:22",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said Israel will continue striking Hezbollah until the mission is complete."
+    },
+    {
+      "id": "mkt:019e73eb-e854-7eef-a0ef-a2a0dff81a07",
+      "time": "2026-05-29 21:28:16",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "Federal Reserve's Paulson said holding rates unchanged gives the Fed room to assess incoming data."
+    },
+    {
+      "id": "4907392",
+      "time": "2026-05-29 21:28:01",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲保爾森：市場向更緊縮的貨幣政策前景轉向是“健康的”。"
+    },
+    {
+      "id": "4907391",
+      "time": "2026-05-29 21:27:44",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲保爾森：維持利率不變為美聯儲留出權衡資料的空間。"
+    },
+    {
+      "id": "4907390",
+      "time": "2026-05-29 21:27:29",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲副主席鮑曼：現在判斷伊朗戰爭對通脹的影響還為時過早】負責監管事務的美聯儲理事鮑曼表示，現在判斷伊朗戰爭對通脹的影響還為時過早，決策者需要忽略暫時性的價格衝擊。鮑曼週五在闡述其貨幣政策理念的演講中表示，她支援官員們上個月在政策會議後的宣告中保留暗示仍有可能進一步降息的措辭。這使她有別於越來越多的其他美聯儲決策者，後者希望美聯儲發出訊號表明下一步行動是加息還是降息的可能性相當Bowman為在冰島舉行的一場央行會議準備的講話中表示：“在我思考貨幣政策的未來路徑時，我希望更清楚地瞭解中東衝突對經濟的影響以及這些影響的永續性。”她表示：“只要我們在實現通脹目標的承諾上保持可信度，忽略主要由能源價格上漲導致的暫時性通脹升高就是適宜的。”"
+    },
+    {
+      "id": "em:qqyh_mlc:202605293754701635",
+      "time": "2026-05-29 21:27:18",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲保爾森：長期通脹預期處於良好水平】美聯儲保爾森稱，長期通脹預期處於良好水平，當前美聯儲政策有助於抑制高通脹，經濟活動的步伐對通脹壓力沒有實質性影響。"
+    },
     {
       "id": "mkt:019e73ea-7789-7eef-a0ef-9b90eaf57e46",
       "time": "2026-05-29 21:26:45",
@@ -9,6 +247,15 @@
         "MKT News"
       ],
       "text": "Federal Reserve's Paulson: monetary policy is well positioned for the current outlook."
+    },
+    {
+      "id": "4907389",
+      "time": "2026-05-29 21:26:37",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【張玉卓任中國工程院黨組書記】5月29日下午，中央組織部有關負責同志出席中國工程院領導幹部會議，宣佈中央決定：張玉卓同志任中國工程院黨組書記，免去李曉紅同志的中國工程院黨組書記職務。"
     },
     {
       "id": "4907388",
@@ -147,6 +394,14 @@
       "text": "【法國一季度GDP環比下降0.1%】法國國家統計和經濟研究所29日釋出的最終資料顯示，今年第一季度法國國內生產總值(GDP) 環比下降0.1%，低於該機構此前預估的零增長。資料顯示，一季度，法國家庭消費環比下降0.2%；受能源消費減少影響，商品消費下降0.7%。扣除庫存因素後，最終國內需求對GDP增長的貢獻為負0.2個百分點。"
     },
     {
+      "id": "4907379",
+      "time": "2026-05-29 21:22:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【中指研究院：TOP100房企拿地總額降幅持續收窄】中指研究院最新發布的《2026年1—5月全國房地產企業拿地TOP100排行榜》顯示，2026年1—5月，TOP100企業拿地總額2411.6億元，同比下降40.5%，降幅較上月收窄6.2個百分點。5月，北京、上海、杭州等核心城市陸續進行土拍，多宗地塊竟拍出高溢價。從拿地企業來看，央國企仍然是主力，華潤置地、越秀地產、保利發展、中國金茂等大型央國企拿地金額位居前列。"
+    },
+    {
       "id": "mkt:019e73e6-1f7d-7eef-a0ef-76b8f4991a49",
       "time": "2026-05-29 21:22:00",
       "tags": [
@@ -243,6 +498,14 @@
         "國際"
       ],
       "text": "美聯儲保爾森：不確定性下家庭與企業對經濟前景持謹慎態度。"
+    },
+    {
+      "id": "4907375",
+      "time": "2026-05-29 21:18:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國向東帝汶捐贈藥械】中國－東帝汶兩國藥械捐贈儀式29日在位於東帝汶首都帝力的國立醫院舉行。此次捐贈物品涵蓋臨床藥品及醫療裝置，將有效緩解國立醫院部分醫療物資短缺問題，進一步提升醫院診療能力和醫療服務水平。（新華社）"
     },
     {
       "id": "mkt:019e73e2-7626-7eef-a0ef-47e8ba9e53f4",
@@ -143202,263 +143465,6 @@
         "國際"
       ],
       "text": "TRACE獲得18.1億美元合同，為美國特種作戰司令部EAGLE-I專案提供支援。"
-    },
-    {
-      "id": "4895362",
-      "time": "2026-05-22 21:31:59",
-      "tags": [
-        "市場"
-      ],
-      "text": "納斯達克金龍中國指數下跌幅度高達2.3%。"
-    },
-    {
-      "id": "4895361",
-      "time": "2026-05-22 21:31:55",
-      "tags": [
-        "市場"
-      ],
-      "text": "IMAX股價上漲14%，創2月以來最大漲幅。"
-    },
-    {
-      "id": "mkt:019e4fe2-a9d8-7113-afb4-dc73bce40d27",
-      "time": "2026-05-22 21:31:47",
-      "tags": [
-        "MKT News",
-        "PTON.O",
-        "Impact bullish"
-      ],
-      "text": "PELOTON SHARES RISE 6.3% AS CO SET TO JOIN S&P SMALLCAP 600 INDEX"
-    },
-    {
-      "id": "mkt:019e4fe2-a708-7113-afb4-d0d928011b0a",
-      "time": "2026-05-22 21:31:44",
-      "tags": [
-        "MKT News",
-        "ZM.O",
-        "Impact bullish"
-      ],
-      "text": "ZOOM COMMUNICATIONS SHARES CLIMB 14% AFTER CO RAISES ANNUAL REVENUE AND PROFIT FORECASTS"
-    },
-    {
-      "id": "4895360",
-      "time": "2026-05-22 21:31:43",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "Zoom通訊股價上漲14%，此前該公司上調了年度營收和利潤預期。"
-    },
-    {
-      "id": "4895359",
-      "time": "2026-05-22 21:31:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "魯比奧：（美國）並未明確要求北約協助霍爾木茲海峽事務。"
-    },
-    {
-      "id": "mkt:019e4fe2-6275-7113-afb4-c97636074212",
-      "time": "2026-05-22 21:31:36",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "Nasdaq100",
-        "Impact bearish"
-      ],
-      "text": "NASDAQ GOLDEN DRAGON CHINA INDEX FALLS AS MUCH AS 2.3%"
-    },
-    {
-      "id": "mkt:019e4fe2-5127-7113-afb4-c79a74a43747",
-      "time": "2026-05-22 21:31:32",
-      "tags": [
-        "MKT News",
-        "EL.O",
-        "Impact bullish"
-      ],
-      "text": "ESTEE LAUDER SHARES CLIMB 13%, MOST INTRADAY SINCE APRIL 2025"
-    },
-    {
-      "id": "4895358",
-      "time": "2026-05-22 21:31:30",
-      "tags": [
-        "公司",
-        "觀點",
-        "焦點"
-      ],
-      "text": "摩根大通將富途控股目標價從300美元降至87美元。"
-    },
-    {
-      "id": "mkt:019e4fe2-3f77-7113-afb4-bbd38b1977b8",
-      "time": "2026-05-22 21:31:27",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "RUBIO: THERE WAS NO CONCRETE ASK OF NATO HELP ON HORMUZ STRAIT"
-    },
-    {
-      "id": "mkt:019e4fe2-2afd-7113-afb4-b6f648ae13ff",
-      "time": "2026-05-22 21:31:22",
-      "tags": [
-        "MKT News",
-        "IMAX.O",
-        "Impact bullish"
-      ],
-      "text": "IMAX RISES 12% AFTER WSJ REPORTS CO IS EXPLORING SALE"
-    },
-    {
-      "id": "4895357",
-      "time": "2026-05-22 21:31:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "雅詩蘭黛股價上漲13%，創2025年4月以來最大單日漲幅。"
-    },
-    {
-      "id": "mkt:019e4fe2-1415-7113-afb4-ae680c643978",
-      "time": "2026-05-22 21:31:16",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "FUTU.O",
-        "Impact bearish",
-        "TIGR.O"
-      ],
-      "text": "U.S.-LISTED SHARES OF CHINESE ONLINE BROKERAGES DROP AFTER CHINA TO CRACK DOWN ON ILLEGAL CROSS-BORDER SECURITIES ACTIVITIES FUTU HOLDINGS DROPS 34%, UP FINTECH SLIDES 29%"
-    },
-    {
-      "id": "mkt:019e4fe1-efa3-7113-afb4-a485448d74f6",
-      "time": "2026-05-22 21:31:07",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Wall Street (US)",
-        "Dow",
-        "Impact bullish",
-        "S&P500",
-        "Nasdaq100"
-      ],
-      "text": "U.S. STOCKS OPEN HIGHER, DOW +0.58%, S&P 500 +0.41%, NASDAQ +0.37%"
-    },
-    {
-      "id": "4895356",
-      "time": "2026-05-22 21:31:05",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "向上融科美股跌32%，富途控股開跌35%。"
-    },
-    {
-      "id": "4895355",
-      "time": "2026-05-22 21:30:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "【黎以戰火重燃以來 黎巴嫩已有超3100人死亡】當地時間22日，黎巴嫩衛生部發表宣告稱，自今年3月2日黎以戰火重燃以來，以色列對黎巴嫩的軍事行動已造成3111名黎巴嫩民眾死亡，9432人受傷。（央視新聞）"
-    },
-    {
-      "id": "4895354",
-      "time": "2026-05-22 21:30:45",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股開盤：三大股指齊漲】道指漲0.71%，標普500指數漲0.46%，納指漲0.46%。雅詩蘭黛漲11.43%，工時公司漲6.23%，羅斯百貨有限公司漲6.14%，戴爾漲5.69%，AMD漲5.37%。“七姐妹”方面：特斯拉漲1.55%，蘋果漲0.75%，Meta Platforms漲0.65%，微軟漲0.38%，英偉達漲0.25%，亞馬遜漲0.07%，谷歌跌0.26%。"
-    },
-    {
-      "id": "te:markets:553125",
-      "time": "2026-05-22 21:30:35",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Advanced Micro Devices Stock Price Hits All-time High — Advanced Micro Devices shares increased to an all-time high of 473.91 USD. Over the past 4 weeks, Advanced Micro Devices gained 55.47%, and in the last 12 months, it increased 326.15%."
-    },
-    {
-      "id": "te:markets:553124",
-      "time": "2026-05-22 21:30:33",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "J&J Stock Price Hits 4-week High — J&J shares increased to 233.29 USD, the highest since April 2026. Over the past 4 weeks, Johnson & Johnson gained 2.49%, and in the last 12 months, it increased 51.84%."
-    },
-    {
-      "id": "4895353",
-      "time": "2026-05-22 21:30:30",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納斯達克中國金龍指數跌超2%，老虎證券跌29.79%，萬物新生跌7.91%，新氧跌8.20%，樂信跌6.22%，蔚來跌7.34%。"
-    },
-    {
-      "id": "mkt:019e4fe0-5df7-7113-afb4-9b2668c3bbad",
-      "time": "2026-05-22 21:29:22",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "U.S. SECRETARY OF STATE RUBIO ON IRAN: WE ALL WOULD LOVE TO SEE AGREEMENT WITH IRAN RUBIO: THERE NEEDS TO BE A PLAN B IF IRAN REFUSES TO REOPEN STRAIT OF HORMUZ"
-    },
-    {
-      "id": "4895352",
-      "time": "2026-05-22 21:29:17",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "魯比奧：若伊朗拒絕重新開放霍爾木茲海峽，就需要有備用方案。"
-    },
-    {
-      "id": "4895351",
-      "time": "2026-05-22 21:28:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧談及伊朗問題：我們所有人都樂見與伊朗達成協議。"
-    },
-    {
-      "id": "4895350",
-      "time": "2026-05-22 21:28:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "法國達飛海運集團將負責管理並運營位於大馬士革郊區阿德拉自由區以及阿勒頗自由區的兩個無水港。"
-    },
-    {
-      "id": "4895349",
-      "time": "2026-05-22 21:28:18",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "法國航運集團達飛海運於5月19日與敘利亞邊境與海關總管理局簽署了一項新協議。"
-    },
-    {
-      "id": "mkt:019e4fdf-67cb-7113-afb4-926445d37e9b",
-      "time": "2026-05-22 21:28:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "RUBIO: GOAL IS TO HAVE A STRONGER NATO"
     }
   ]
 }
