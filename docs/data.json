@@ -1,7 +1,68 @@
 {
-  "updated": "2026-05-29 16:22:15",
-  "count": 15646,
+  "updated": "2026-05-29 16:26:06",
+  "count": 15639,
   "items": [
+    {
+      "id": "4906630",
+      "time": "2026-05-29 16:25:09",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "交易員稱，印度央行在外匯市場拋售美元以支撐盧比。"
+    },
+    {
+      "id": "4906629",
+      "time": "2026-05-29 16:24:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國CAC40指數日內漲幅達1%。"
+    },
+    {
+      "id": "4906628",
+      "time": "2026-05-29 16:24:44",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【京能電力：擬申請發行不超230億元公司債券及債務融資工具】京能電力公告稱，公司於2026年5月29日召開董事會會議，審議透過申請發行不超130億元公司債券和不超100億元多品種債務融資工具的議案。公司債券擬用於專案建設投資等，債務融資工具用於償還有息債務等。兩項發行方案尚需股東會審議，並分別經中國證監會、中國銀行間市場交易商協會批准。"
+    },
+    {
+      "id": "4906627",
+      "time": "2026-05-29 16:24:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "【颱風“薔薇”最新訊息】29日14時，今年第6號颱風“薔薇”中心位於距離菲律賓馬尼拉偏東方向約1260公里的洋麵上，也就是 北緯15.6度、東經132.7度，中心附近最大風力9級（ 23米/秒，約83公里/小時，熱帶風暴級），中心最低氣壓為990百帕。“薔薇”將以每小時15-20公里的速度向西北方向移動，強度逐漸增強。預計對廣州無直接影響。"
+    },
+    {
+      "id": "4906626",
+      "time": "2026-05-29 16:23:32",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【金徽股份：擬2.88億元現金收購德源礦業100%股權】金徽股份公告稱，公司擬以現金2.88億元收購德源礦業100%股權，以擴大業務規模，拓展黃金資源儲備。本次交易已透過公司第二屆董事會第二十三次會議審議，無需提交股東會。目前，標的公司兩宗礦權登記在第三方名下，交易對方已競拍取得礦權但未支付轉讓價款，礦權權屬變更及相關審批整改存在不確定性。公司將分四筆支付交易款，過渡期損益按協議分配，雙方按規定承擔稅費。"
+    },
+    {
+      "id": "4906625",
+      "time": "2026-05-29 16:22:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞典金屬工會（IF Metall）將組織特斯拉的部分罷工行動。"
+    },
+    {
+      "id": "mkt:019e72d4-2f01-7bb6-bfda-2dec8d74a2f8",
+      "time": "2026-05-29 16:22:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "France's CAC 40 index rose 1.00% intraday."
+    },
     {
       "id": "4906624",
       "time": "2026-05-29 16:21:36",
@@ -141183,149 +141244,6 @@
         "國際"
       ],
       "text": "【安聯研究稱歐洲需協同推進人工智慧發展，避免對外依賴】安聯研究表示，歐洲需協同推進人工智慧應用，規避對境外基礎設施服務商的依賴。報告提出，可調動主權財富基金與開發銀行資金，並搭建統一規範體系。法國、瑞典推出的Mistral AI及國家算力建設雖規模有限，但具備制衡價值。報告警示，若未能出臺有力舉措，歐洲不僅會丟失市場份額，還將喪失經濟數字基礎設施層面的戰略自主權。"
-    },
-    {
-      "id": "mkt:019e4eca-315c-7226-bf79-fc7fba5e391d",
-      "time": "2026-05-22 16:25:30",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "CNH",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "Hang Seng Index"
-      ],
-      "text": "FITCH RATINGS: LARGE CONTINGENT LIABILITIES MAKE SOME APAC SOVEREIGNS MORE VULNERABLE"
-    },
-    {
-      "id": "4894637",
-      "time": "2026-05-22 16:25:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "INTERTEK資料顯示，印尼4月份棕櫚油出口量增至201.2萬噸。"
-    },
-    {
-      "id": "4894636",
-      "time": "2026-05-22 16:24:53",
-      "tags": [
-        "市場"
-      ],
-      "text": "【深南電路今日漲10.00%，3家機構專用席位淨買入6.81億元，有4家機構專用席位淨賣出1.54億元】深南電路今日漲10.00%，成交額55.85億元，換手率2.25%，盤後龍虎榜資料顯示，深股通專用席位買入5.62億元並賣出6.09億元，3家機構專用席位淨買入6.81億元，有4家機構專用席位淨賣出1.54億元。"
-    },
-    {
-      "id": "mkt:019e4ec9-8787-7226-bf79-f3889cc645c1",
-      "time": "2026-05-22 16:24:50",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "LME AVAILABLE COPPER STOCKS AT 275,525 T, LOWEST SINCE MARCH 13, AFTER 53,325 T OF FRESH CANCELLATIONS, LME DAILY DATA SHOWS"
-    },
-    {
-      "id": "4894635",
-      "time": "2026-05-22 16:24:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【抖音闢謠要付費才不限流，宣發基礎是建立在版權授權後】今日，抖音黑板報發文闢謠付費才不限流：這是不實資訊，請不要傳播謠言，根本不存在要付費才不限流的情況。原發宣告說的很清楚了，宣發的基礎是建立在版權授權後，有了授權就可以正常傳播。"
-    },
-    {
-      "id": "te:markets:553054",
-      "time": "2026-05-22 16:24:27",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "India",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Indian Rupee Rebounds from Record Low — The Indian rupee strengthened to 95.9 per dollar from the record-low of 97.15 on May 19th after the Reserve Bank of India continued to intervene on currency markets and support the currency from it's slide this year. The central bank sold dollars to state banks through the third week of the month. This outweighed the outflows of foreign exchange, initially stemming from energy importers following the surge in oil prices due to the war in the Middle East, then magnified by selling from Indian equity and bond investors that wanted to reduce rupee positions. Besides selling dollars, officials from the RBI reportedly considered hiking interest rates, as soon as next meeting, to prevent further deprecation and risks to the foreign currency reserves. However, a group of policymakers also advocated against raising rates, opting instead for more currency interventions and policy to stimulate dollar inflows."
-    },
-    {
-      "id": "4894634",
-      "time": "2026-05-22 16:24:24",
-      "tags": [
-        "市場",
-        "其他",
-        "焦點"
-      ],
-      "text": "倫敦金屬交易所每日資料顯示，在新增53,325噸登出倉單後，LME可用銅庫存為275,525噸，創下自3月13日以來的最低水平。"
-    },
-    {
-      "id": "4894633",
-      "time": "2026-05-22 16:24:01",
-      "tags": [
-        "公司",
-        "市場",
-        "焦點"
-      ],
-      "text": "【富途控股美股盤前跌超10%】富途控股美股盤前跌超10%，現報111.266美元。"
-    },
-    {
-      "id": "mkt:019e4ec8-ab13-7226-bf79-ea4c693180a5",
-      "time": "2026-05-22 16:23:54",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "TIGR.O",
-        "Impact bearish",
-        "FUTU.O"
-      ],
-      "text": "CHINA CSRC: ILLEGAL CROSS-BORDER OPERATIONS BY TIGER BROKERS, FUTU HOLDINGS, AND LONGBRIDGE VIOLATE CHINESE SECURITIES, FUND, AND FUTURES LAWS AND REGULATIONS, DISRUPTING MARKET ORDER AND MUST BE RESOLUTELY CRACKED DOWN UPON"
-    },
-    {
-      "id": "4894632",
-      "time": "2026-05-22 16:23:45",
-      "tags": [],
-      "text": "【老虎、富途、長橋將被罰 2年集中整治如何影響跨境炒股投資者】中國證監會5月22日宣佈，Tiger Brokers（NZ）Limited、富途證券國際（香港）有限公司、長橋證券（香港）有限公司的非法跨境展業行為，違反了我國證券基金期貨法律法規，破壞了市場秩序，必須堅決予以打擊。依據相關規定，證監會擬決定沒收老虎、富途、長橋境內外相關主體全部違法所得，並依法嚴厲處罰。記者5月22日從中國證監會獲悉，近日，經國務院同意，中國證監會等8部門聯合印發《綜合整治非法跨境證券期貨基金經營活動實施方案》，明確經過2年集中整治全面取締境外證券期貨基金經營機構非法跨境經營活動。根據方案，設定2年集中整治期清理非法存量業務，集中整治期內，禁止境外機構為存量投資者在境內非法提供買入交易、轉入資金等服務，只允許單向賣出交易並轉出資金。集中整治期滿後，境外機構要全面關停境內網站、交易軟體及配套伺服器，禁止為存量投資者在境內非法提供交易等服務。前些年，一些境外證券期貨基金經營機構未經批准，利用境內關聯或合作主體在境內招攬客戶，並透過網站、App向境內投資者提供境外股票等開戶、交易服務，嚴重擾亂我國金融市場秩序。實際上，2022年12月30日，中國證監會就曾明確此類活動的非法性，依法開展對富途證券、老虎證券等境外券商非法跨境經營的整治工作，取締增量非法業務活動，禁止其招攬境內投資者及發展境內新客戶、開立新賬戶。對於本次整治，各方十分關注存量投資者合法權益如何保護。對此，方案強調，投資者的財產安全不受整治影響。證監會有關部門負責人說，方案明確了諸多保障存量投資者合法權益的措施。例如，設定2年集中整治期分階段停止境外機構相關境內服務。要求境外機構做好與在境內受整治措施影響的投資者的溝通聯絡及其賬戶處置安排，保障客戶財產安全等。此外，投資者可能還會有疑問：整治工作是否會切斷投資者投資港股等境外市場股票的渠道?市場人士認為，本次整治針對的是境外機構非法跨境展業活動，並不會影響現有的合法渠道，投資者仍可以透過港股通、合格境內機構投資者(QDII)及跨境理財通等合法渠道開展境外投資。同時，方案採取分階段停止境內服務的方式引導投資者處理存量賬戶和資產，並未限制境外機構向位於境外的境內投資者提供交易服務，對境外市場的影響總體可控。（新華社）"
-    },
-    {
-      "id": "mkt:019e4ec8-7fb0-7226-bf79-e4fe99f10d11",
-      "time": "2026-05-22 16:23:43",
-      "tags": [
-        "MKT News",
-        "Important",
-        "TIGR.O",
-        "Impact bearish",
-        "FUTU.O"
-      ],
-      "text": "US-LISTED TIGER BROKERS (TIGR.O) TUMBLE OVER 10%, FUTU HOLDINGS (FUTU.O) DROP MORE THAN 5% IN PRE-MARKET TRADING"
-    },
-    {
-      "id": "4894631",
-      "time": "2026-05-22 16:23:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "世界鋼鐵協會：2026年4月全球粗鋼產量較2025年4月下降1.9%，至1.534億噸。"
-    },
-    {
-      "id": "4894630",
-      "time": "2026-05-22 16:23:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "【航天環宇：3.10億股首發限售股6月2日上市流通】航天環宇公告稱，本次上市流通的限售股為首次公開發行限售股，數量為310,364,063股，佔公司股本總數的76.2790%，限售期為36個月。5名限售股股東均作出相關承諾，如36個月內不轉讓股份等。本次限售股將於2026年6月2日上市流通。"
-    },
-    {
-      "id": "te:markets:553050",
-      "time": "2026-05-22 16:22:40",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Euro Remains Weak Amid Mixed Data, Iran Talks — The euro traded at $1.16, near its weakest level since early April, as investors weighed mixed economic data and monitored US-Iran negotiations. German consumer sentiment improved heading into June, defying expectations of a further decline, driven by a rebound in income expectations. Business confidence also edged higher in May, recovering from April’s six-year low, while a separate report confirmed 0.3% GDP growth in Q1 2026. However, Thursday’s PMI revealed the euro area economy unexpectedly contracted in May at the fastest pace since late 2023, amid a war-driven surge in living costs. S&P Global warned the data points to inflation nearing 4% in the coming months. Money markets are pricing in at least two ECB rate hikes before year-end. Meanwhile, investors grew more optimistic about progress in US-Iran peace negotiations after US Senator Marco Rubio noted \"some good signs\" in Iran talks, though Tehran’s uranium stockpile and control over the Strait of Hormuz remain key obstacles."
     }
   ]
 }
