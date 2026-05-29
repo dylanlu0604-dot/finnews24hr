@@ -1,7 +1,60 @@
 {
-  "updated": "2026-05-29 12:49:43",
-  "count": 15475,
+  "updated": "2026-05-29 12:53:44",
+  "count": 15479,
   "items": [
+    {
+      "id": "4906173",
+      "time": "2026-05-29 12:52:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【賽力斯張正萍：華為乾崑智駕能夠達到“不只是人眼可以看到”的狀態 哪個智駕系統好用要交給市場回答】5月29日，賽力斯汽車董事長張正萍在第四屆未來先行者大會上談及華為乾崑智駕與特斯拉FSD的對比時表示：“哪個智駕系統好用還是要交給市場來回答。全新一代問界M9搭載了6顆鐳射雷達，這方面不輸給FSD。另外，FSD模擬的是人類視覺駕駛邏輯，而華為乾崑智駕能夠達到‘不只是人眼可以看到’的狀態。”"
+    },
+    {
+      "id": "4906172",
+      "time": "2026-05-29 12:52:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【深圳全鏈奔赴“新一代世界一流汽車城”】2026粵港澳大灣區車展今日在深圳國際會展中心啟幕，鴻蒙智行、比亞迪集團、華為乾崑等本土企業各設專屬展館，奧迪等國際知名品牌也紛紛搭載華為智駕技術同臺亮相。這既是深圳新能源汽車產業的一場“主場秀”，也是這座城市聚力打造新一代世界一流汽車城的生動縮影。深圳已構建起電池、電機、電控至整車製造的完整產業鏈閉環，集聚相關企業超2400家。其中，鴻蒙智行全系車型累計交付量突破139萬輛，比亞迪新能源汽車總產量突破1600萬輛。從上游碳化矽襯底材料，到下游全域補能網路，深圳實現了新能源汽車全生命週期產業佈局。（深圳特區報）"
+    },
+    {
+      "id": "mkt:019e7212-afc3-7aad-9010-bb45cace3218",
+      "time": "2026-05-29 12:51:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine's navy said the vessel was flying the Vanuatu flag and was en route from the Odesa region to Turkey."
+    },
+    {
+      "id": "mkt:019e7212-13ec-7aad-9010-b4bf1c50dc53",
+      "time": "2026-05-29 12:50:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's KOSPI index hit a fresh intraday high."
+    },
+    {
+      "id": "4906171",
+      "time": "2026-05-29 12:50:05",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）盤中創歷史新高。"
+    },
+    {
+      "id": "mkt:019e7210-d78b-7aad-9010-ae633dbeb5ba",
+      "time": "2026-05-29 12:49:26",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Ukraine said Russia carried out an overnight drone attack on a Turkish vessel."
+    },
     {
       "id": "4906170",
       "time": "2026-05-29 12:48:55",
@@ -139471,27 +139524,6 @@
         "Hang Seng Index"
       ],
       "text": "【DeepSeek Pursues AGI and Open-Source Models Over Monetization Amid $10 Billion Funding Round】DeepSeek’s founder Liang Wenfeng has informed potential investors in the startup’s ongoing 70 billion yuan ($10 billion) funding round that the company will prioritize groundbreaking research toward artificial general intelligence (AGI) over short-term commercialization. Liang pledged to maintain the development of open-source models rather than focusing on monetization, contrasting with global peers shifting toward revenue generation. The funding round, which is in its final stages, could value the Chinese AI firm at approximately $45 billion to $50 billion. Prominent potential participants include Tencent Holdings, IDG Capital, Monolith Capital, and Beijing's state-backed National Artificial Intelligence Industry Investment Fund, the latter of which is in talks to invest 10 billion yuan."
-    },
-    {
-      "id": "4894202",
-      "time": "2026-05-22 12:53:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "印尼盾維持跌勢，此前印尼經常賬戶赤字創 2019 年以來新高。"
-    },
-    {
-      "id": "mkt:019e4e06-04d0-7aa1-9585-3bfed4061b6d",
-      "time": "2026-05-22 12:51:17",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "【UBS: A-Shares to Replace Property as China’s Wealth Engine】A-shares are positioning themselves as the primary vehicle for Chinese household wealth, serving as a long-term alternative to real estate, according to UBS. Broad tech remains the dominant near-term growth theme, Meng Lei, China equity strategist at UBS Securities, wrote in a note. Earnings growth and sustained capital inflows could drive further upside. While favoring growth stocks in a \"slow bull\" environment, UBS also prefers cyclical sectors benefiting from recovering PPI and industrial profits, and remains positive on small-caps amid ample liquidity."
     }
   ]
 }
