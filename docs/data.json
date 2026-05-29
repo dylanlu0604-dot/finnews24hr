@@ -1,7 +1,18 @@
 {
-  "updated": "2026-05-30 02:14:14",
+  "updated": "2026-05-30 02:18:04",
   "count": 15809,
   "items": [
+    {
+      "id": "te:markets:555051",
+      "time": "2026-05-30 02:15:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Germany Natural Gas THE Drops by 2.29% — Top commodity losers are Germany Natural Gas THE (-2.29%), Crude Oil WTI (-1.80%), Natural Gas EU (-1.77%) and Brent Crude Oil (-1.60%)."
+    },
     {
       "id": "mkt:019e74ef-d907-7bb7-9965-31d0d23cb9f6",
       "time": "2026-05-30 02:12:16",
@@ -143157,17 +143168,6 @@
         "其他"
       ],
       "text": "巴西官員：稅務部門統籌的油價異動收入，我方劃撥預算時態度偏保守。"
-    },
-    {
-      "id": "te:markets:553187",
-      "time": "2026-05-23 02:15:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Natural gas Drops by 3.95% — Top commodity losers are Natural gas (-3.95%), Natural Gas UK (-3.16%) and Natural Gas EU (-2.40%). Gains are led by Gasoline (1.79%), Heating Oil (1.62%), Brent Crude Oil (0.61%) and Crude Oil WTI (0.13%)."
     }
   ]
 }
