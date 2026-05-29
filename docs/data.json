@@ -1,7 +1,97 @@
 {
-  "updated": "2026-05-29 13:17:58",
+  "updated": "2026-05-29 13:22:03",
   "count": 15491,
   "items": [
+    {
+      "id": "4906205",
+      "time": "2026-05-29 13:19:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "三菱汽車執行長表示：目前仍在考慮與本田開展潛在合作，合作範圍並不侷限於北美地區。"
+    },
+    {
+      "id": "te:economy:554743",
+      "time": "2026-05-29 13:19:24",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Estonia",
+        "GDP Annual Growth Rate",
+        "Importance 1"
+      ],
+      "text": "Estonia Q1 GDP Strongest Since 2021 — The economy of Estonia expanded by 2.4% year-on-year in Q1 2026, accelerating sharply from 0.7% growth in Q4 2025. It marked the strongest economic expansion since Q4 2021, as household spending rebounded notably (4.2% vs -0.1% in Q4 2025), while government spending accelerated further (4.8% vs 3.1%). Moreover, gross fixed capital formation strengthened (6.9% vs 4.3%). On the external front, exports of goods and services slowed sharply (0.6% vs 5.0% in Q4 2025), while imports also eased (1.6% vs 3.5%). On the production side, the largest positive contributions came from the manufacturing (7.9%), energy (21.5%), and real estate (4.4%) sectors. On a seasonally adjusted quarterly basis, GDP grew by 1.1%, up from an upwardly revised 0.3% increase in Q4, marking the strongest quarterly growth since Q4 2021."
+    },
+    {
+      "id": "4906204",
+      "time": "2026-05-29 13:19:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "新加坡和越南承諾保持貿易暢通無阻。"
+    },
+    {
+      "id": "mkt:019e722b-dd04-7eef-8cff-a7571ef1e58d",
+      "time": "2026-05-29 13:18:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "NATO spokesman said in response to a Russian drone strike on a building in Romania that NATO will continue to strengthen defenses against all threats, including drones, and condemned Russia's reckless behavior."
+    },
+    {
+      "id": "4906203",
+      "time": "2026-05-29 13:18:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "北約發言人就俄羅斯無人機擊中羅馬尼亞建築一事表態：我們譴責俄羅斯的魯莽行為。"
+    },
+    {
+      "id": "4906202",
+      "time": "2026-05-29 13:18:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "北約發言人就羅馬尼亞建築遭俄羅斯無人機擊中發表表態：北約將繼續加強我們針對所有威脅的防禦，其中包括無人機威脅。"
+    },
+    {
+      "id": "4906201",
+      "time": "2026-05-29 13:18:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "新加坡和越南承諾迅速落實大米貿易協定。"
+    },
+    {
+      "id": "4906200",
+      "time": "2026-05-29 13:18:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "北約秘書長呂特就俄羅斯無人機問題與羅馬尼亞政府取得聯絡。"
+    },
+    {
+      "id": "4906199",
+      "time": "2026-05-29 13:17:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【全球最大儲能實證平臺落地廈門】5月28日，由廈門市政府與寧德時代共建的廈門實證儲能科技研究院正式啟動。這是目前全球規模最大、檢測能力最完整的儲能系統全場景一站式檢測與實證平臺。據瞭解，該研究院佔地150畝，計劃總投資約30億元，下設五大創新實驗室，創下多項全球第一。其中，電網併網實驗室是全球首個站域級執行檢測與實證實驗室，可同時為10臺以上大型儲能集裝箱開展涉網測試；高壓安全實驗室能在極端高壓環境下追溯裝置起火爆炸的真實機理；熱安全與燃燒實驗室是全球首個配備20MW量熱儀的大型室內燃燒設施；電磁相容實驗室具備全球唯一可支援40尺集裝箱整機入艙的測試條件；環境適應性實驗室可對整機儲能集裝箱進行極端溫度、高海拔氣壓及全等級防塵防水等系統級驗證。目前，研究院已與TüV南德、TüV萊茵、CSA、鑑衡等全球主流認證機構達成合作，將全面向行業開放，持續輸出整站級儲能實證標準，推動儲能行業進入可信、可持續的實證型時代。"
+    },
+    {
+      "id": "4906198",
+      "time": "2026-05-29 13:17:25",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達80億港元。"
+    },
     {
       "id": "te:economy:554741",
       "time": "2026-05-29 13:16:46",
@@ -139550,96 +139640,6 @@
         "其他"
       ],
       "text": "川崎重工：醫療健康領域是與英偉達開展服務合作的切入點。"
-    },
-    {
-      "id": "4894238",
-      "time": "2026-05-22 13:21:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "川崎重工：將透過新設中心推進與英偉達、微軟等企業的合作；目標是與英偉達合作打造融合人工智慧與機器人技術的跨領域服務。"
-    },
-    {
-      "id": "4894237",
-      "time": "2026-05-22 13:21:11",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超2萬億元，較上日此時縮量3013億元。"
-    },
-    {
-      "id": "4894236",
-      "time": "2026-05-22 13:20:57",
-      "tags": [
-        "市場"
-      ],
-      "text": "【電子元器件板塊再度拉昇 昀冢科技等十餘股漲停】電子元器件板塊午後再度拉昇，昀冢科技、生益科技等十餘股漲停，N嘉德漲超710%。"
-    },
-    {
-      "id": "4894235",
-      "time": "2026-05-22 13:20:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "【Stellantis計劃強化瑪莎拉蒂品牌，將新增兩款E級車型】5月21日，Stellantis集團釋出“FaSTLAne 2030”戰略規劃，這是一項為期五年、總額達600億歐元的發展規劃。其中，該公司計劃強化瑪莎拉蒂品牌的未來，將新增兩款E級車型。瑪莎拉蒂品牌的詳細發展路線圖將於2026年12月在義大利摩德納宣佈。Stellantis集團執行長安東尼奧·菲洛薩（Antonio Filosa）表示：“Stellantis集團旗下的每一個品牌，都將在實現FaSTLAne 2030戰略規劃的目標承諾中發揮明確作用。”"
-    },
-    {
-      "id": "mkt:019e4e20-de67-7aa1-9585-6eb253f7ab32",
-      "time": "2026-05-22 13:20:37",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "BARCLAYS ON OIL: INVENTORIES ARE ON TRACK TO TEST LOWEST LEVELS SINCE 2020 EVEN IN THE MOST OPTIMISTIC SCENARIO"
-    },
-    {
-      "id": "4894234",
-      "time": "2026-05-22 13:19:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴克萊表示維持2026年布倫特油價每桶100美元的預測，風險偏向上行。"
-    },
-    {
-      "id": "mkt:019e4e20-0374-7aa1-9585-63da10bddd1c",
-      "time": "2026-05-22 13:19:41",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish"
-      ],
-      "text": "BARCLAYS SAYS THEY MAINTAIN $100/B BRENT FORECAST FOR 2026 WITH RISKS SKEWED HIGHER"
-    },
-    {
-      "id": "4894233",
-      "time": "2026-05-22 13:19:33",
-      "tags": [
-        "市場"
-      ],
-      "text": "【京東方A漲超6% 成交額超170億元】京東方A午後異動拉昇，成交額超170億元，現漲超6%。"
-    },
-    {
-      "id": "4894232",
-      "time": "2026-05-22 13:19:30",
-      "tags": [
-        "市場"
-      ],
-      "text": "截止13:19，兩市100只個股漲停。"
-    },
-    {
-      "id": "4894231",
-      "time": "2026-05-22 13:19:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本經濟產業省：出光油輪最快將於5月25日抵達日本。"
     }
   ]
 }
