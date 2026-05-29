@@ -1,7 +1,90 @@
 {
-  "updated": "2026-05-29 15:17:59",
-  "count": 15586,
+  "updated": "2026-05-29 15:21:52",
+  "count": 15592,
   "items": [
+    {
+      "id": "4906419",
+      "time": "2026-05-29 15:21:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "保加利亞總統：保加利亞遭歐盟啟動過度赤字處罰程式。"
+    },
+    {
+      "id": "te:markets:554815",
+      "time": "2026-05-29 15:21:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Taiwan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Taiwan Stocks Mark 2nd Monthly Gain, End at Record High — The TAIEX, Taiwan’s benchmark stock index, climbed 1,097 points, or 2.5%, to close at 44,733 on Friday, erasing losses from the previous session, primarily supported by gains in electronic technology and technology services stocks. The broader index hit a new record high, surpassing the 44,000 level for the second time after closing at 44,257 on Wednesday, amid optimism over AI demand. A rally on Wall Street overnight also lifted sentiment, buoyed by the extended US-Iran ceasefire. Electronic technology stocks rose 2.7%, while technology services stocks surged 5.9%. Taiwan Semiconductor Manufacturing Company (TSMC), the world’s largest contract chipmaker, which accounts for more than 40% of the market’s total value, advanced 2.6%, while Delta Electronics and Hon Hai Precision Industry climbed 2.3% and 9.0%, respectively. For the month, the index jumped 5.8%, marking its second straight monthly gain, supported by strong AI demand."
+    },
+    {
+      "id": "4906418",
+      "time": "2026-05-29 15:20:46",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國國家公路交通安全管理局週五表示，克萊斯勒母公司斯泰蘭蒂斯因側面安全氣囊可能無法正常彈出，將在美國召回419,035輛汽車。"
+    },
+    {
+      "id": "4906417",
+      "time": "2026-05-29 15:20:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "國泰人壽：目前避險比例35.6% 五年內維持在約30%以上。"
+    },
+    {
+      "id": "4906416",
+      "time": "2026-05-29 15:20:32",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "國泰金控：旗下證券與期貨子公司正規劃增資。"
+    },
+    {
+      "id": "4906415",
+      "time": "2026-05-29 15:20:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "國泰金控：沒有因為人工智慧(AI)的運用而計劃裁員。"
+    },
+    {
+      "id": "4906414",
+      "time": "2026-05-29 15:19:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯暫停銷售亞美尼亞傑爾穆克礦泉水。"
+    },
+    {
+      "id": "4906413",
+      "time": "2026-05-29 15:18:37",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【受對伊朗樂觀情緒提振，歐洲股指上漲】歐洲藍籌股指上漲，因市場重新燃起對重新開放霍爾木茲海峽的協議接近達成的樂觀情緒。航空和旅遊股領漲，同時整個歐洲大陸的銀行股也走高。歐洲斯托克600指數上漲0.3%。德國能源密集型的DAX微升0.2%。德國商業銀行上漲1.2%，不過與AI基礎設施相關的西門子能源下跌2.1%。在巴黎，法國CAC 40指數上漲0.5%，其中法國興業銀行領漲，漲幅為1.9%。該指數中的汽車製造商也上漲，其中Stellantis上漲1.8%。隨著石油巨頭股價下跌拖累礦業和工業股的漲幅，英國富時100指數微漲0.1%。銀行股推動義大利富時MIB指數和西班牙IBEX 35指數分別上漲0.5%和0.9%。"
+    },
+    {
+      "id": "te:economy:554812",
+      "time": "2026-05-29 15:17:56",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Switzerland",
+        "Business Confidence",
+        "Importance 1"
+      ],
+      "text": "Swiss KOF Economic Barometer Little-Changed in May — Switzerland’s KOF Economic Barometer came in at 98.0 in May 2026, slightly up from a revised 97.8 and matching market expectations. The reading signals a subdued economic outlook. On the production side, manufacturing indicators face pressure, partly offset by positive trends in financial and insurance services. On the demand side, foreign demand shows improvement, while private consumption indicators decline."
+    },
     {
       "id": "mkt:019e7297-e681-7aa7-a782-b64e2658fe85",
       "time": "2026-05-29 15:16:57",
@@ -140701,35 +140784,6 @@
         "其他"
       ],
       "text": "英國聯合海事貿易辦公室（UKMTO）表示，其收到報告稱，葉門索科特拉島以北98海里處發生一起安全事件。"
-    },
-    {
-      "id": "mkt:019e4e8f-3132-7cc0-a022-8cab05128a7d",
-      "time": "2026-05-22 15:21:07",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "POLISH FOREIGN MINISTER SIKORSKI: I WANT TO THANK PRESIDENT TRUMP FOR HIS ANNOUNCEMENT THAT TROOP NUMBERS WILL BE KEPT MORE OR LESS AT PREVIOUS LEVELS"
-    },
-    {
-      "id": "4894442",
-      "time": "2026-05-22 15:21:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "波蘭外長： 感謝特朗普的駐軍相關決議。"
-    },
-    {
-      "id": "4894441",
-      "time": "2026-05-22 15:18:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "立陶宛官員：援烏事宜需各國分攤負擔。"
     }
   ]
 }
