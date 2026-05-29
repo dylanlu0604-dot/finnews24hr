@@ -1,7 +1,99 @@
 {
-  "updated": "2026-05-29 21:57:21",
-  "count": 15854,
+  "updated": "2026-05-29 22:01:30",
+  "count": 15843,
   "items": [
+    {
+      "id": "4907464",
+      "time": "2026-05-29 21:59:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "道達爾能源執行長：我們已主動選擇對法國加油站的油價設定價格上限，在這種情況下，我們賣得越多，虧損就越多。"
+    },
+    {
+      "id": "4907463",
+      "time": "2026-05-29 21:58:59",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "道達爾能源執行長表示：從油價上漲中獲利最多的是產油國，這些國家直接對石油徵稅。"
+    },
+    {
+      "id": "mkt:019e7407-e37b-7eef-a0f0-91d1f4dde90a",
+      "time": "2026-05-29 21:58:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Lebanon's president held a phone call with US Secretary of State Rubio to discuss recent developments."
+    },
+    {
+      "id": "4907462",
+      "time": "2026-05-29 21:58:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "道達爾能源執行長：法國民眾在一項調查中已明確表示，比起徵收超額利潤稅，他們更偏好加油站油價設定上限，這正是政府改變態度的原因。"
+    },
+    {
+      "id": "mkt:019e7407-db07-7eef-a0f0-8d08701cb183",
+      "time": "2026-05-29 21:58:49",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Iran, Oman discuss future management of Strait of Hormuz】Iranian Foreign Minister Araghchi said in a productive call with Omani Foreign Minister Badr that Iran and Oman are 'united in the face of any threat', discussed the Strait of Hormuz's future management and how to fulfill their sovereign responsibilities under international law, and welcomed consultations with all neighbors. Earlier, U.S. President Trump warned the Strait 'belongs to no one' and warned Gulf ally Oman it would be 'blown up' if it did not 'behave'."
+    },
+    {
+      "id": "4907461",
+      "time": "2026-05-29 21:58:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "黎巴嫩總統與魯比奧通電話，就局勢進展展開磋商。"
+    },
+    {
+      "id": "4907460",
+      "time": "2026-05-29 21:58:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "墨西哥主要股指下跌1%。"
+    },
+    {
+      "id": "4907459",
+      "time": "2026-05-29 21:57:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：白俄羅斯總統盧卡申科與俄羅斯總統普京舉行會晤。"
+    },
+    {
+      "id": "mkt:019e7406-e04b-7eef-a0f0-80fac9e8cfb6",
+      "time": "2026-05-29 21:57:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Belarus President Lukashenko met with Russian President Putin."
+    },
+    {
+      "id": "4907458",
+      "time": "2026-05-29 21:57:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮：關於亞美尼亞退出歐亞經濟聯盟後果的報告將於12月釋出。亞美尼亞籌備加入歐盟，對歐亞經濟聯盟成員國的經濟安全構成重大風險。"
+    },
+    {
+      "id": "mkt:019e7406-000d-7eef-a0f0-7d071825ff12",
+      "time": "2026-05-29 21:56:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "HKEX filings show Zhejiang Liji Storage Technology Co., Ltd. has filed a listing application with the exchange."
+    },
     {
       "id": "mkt:019e7405-b6d8-7eef-a0f0-73496d9e3678",
       "time": "2026-05-29 21:56:31",
@@ -143320,221 +143412,6 @@
         "美國"
       ],
       "text": "密西根大學5月美國消費者一年通脹預期終值為4.8%。"
-    },
-    {
-      "id": "mkt:019e4ffd-a90f-7113-afb5-7f29a7c72bfd",
-      "time": "2026-05-22 22:01:16",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "FED'S WALLER SUPPORTS REMOVING EASING BIAS FROM FOMC STATEMENT"
-    },
-    {
-      "id": "mkt:019e4ffd-a853-7113-afb5-763774dcfdbf",
-      "time": "2026-05-22 22:01:15",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Conference Board Lagging Indicator (MoM) (Apr) | actual 0.4% | previous 0.3%"
-    },
-    {
-      "id": "mkt:019e4ffd-a37a-7113-afb5-6f7dab99c604",
-      "time": "2026-05-22 22:01:07",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "US10Y",
-        "Impact mixed",
-        "S&P500",
-        "DXY"
-      ],
-      "text": "WALLER: CURRENT POSITION IS TO HOLD RATES STEADY IN NEAR TERM WALLER: HIKES ESPECIALLY NEEDED IF INFL. EXPECATIONS UNANCHOR WALLER: INFLATION TO BE DRIVING FORCE IN POLICY DECISIONS AHEAD"
-    },
-    {
-      "id": "mkt:019e4ffd-a20b-7113-afb5-63d8af329539",
-      "time": "2026-05-22 22:01:03",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Conference Board Coincident Indicator (MoM) (Apr) | actual 0.3% | previous 0.3%"
-    },
-    {
-      "id": "em:jjsj_mgsj:202605223747054983",
-      "time": "2026-05-22 22:00:50",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "【美國5月密歇根大學消費者預期指數終值44.1 預期48.5】美國5月密歇根大學消費者預期指數終值44.1，預期48.5，初值48.5。"
-    },
-    {
-      "id": "4895428",
-      "time": "2026-05-22 22:00:41",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "沃勒：美聯儲下一步降息的可能性並不比加息更大。"
-    },
-    {
-      "id": "mkt:019e4ffd-1ba5-7113-afb5-5d63bad0df5c",
-      "time": "2026-05-22 22:00:37",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Conference Board Leading Indicator (Apr) | actual 97.4 | previous 97.3"
-    },
-    {
-      "id": "4895427",
-      "time": "2026-05-22 22:00:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "沃勒：目前的立場是短期內維持利率穩定。"
-    },
-    {
-      "id": "4895426",
-      "time": "2026-05-22 22:00:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "沃勒：如果通脹短期內不能緩解，就不能排除加息的可能性。"
-    },
-    {
-      "id": "em:jjsj_mgsj:202605223747054748",
-      "time": "2026-05-22 22:00:28",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "【美國5月密歇根大學消費者現況指數終值45.8 預期48】美國5月密歇根大學消費者現況指數終值45.8，預期48，初值47.8。"
-    },
-    {
-      "id": "4895425",
-      "time": "2026-05-22 22:00:22",
-      "tags": [
-        "資料",
-        "國際"
-      ],
-      "text": "美國5月密歇根大學消費者信心指數終值 44.8，預期48.2，前值48.2。美國5月密歇根大學現況指數終值 45.8，預期47.9，前值47.8。美國5月密歇根大學預期指數終值 44.1，預期48.4，前值48.5。"
-    },
-    {
-      "id": "mkt:019e4ffc-c88d-7113-afb5-57d56bce5542",
-      "time": "2026-05-22 22:00:16",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Conference Board Leading Indicator (MoM) (Apr) | actual 0.1% | consensus -0.2% | previous -0.6%"
-    },
-    {
-      "id": "4895424",
-      "time": "2026-05-22 22:00:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國5月一年期通脹率預期終值 4.8%，前值4.50%。美國5月五至十年期通脹率預期終值 3.9%，預期3.40%，前值3.40%。"
-    },
-    {
-      "id": "4895423",
-      "time": "2026-05-22 22:00:07",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃勒支援從聯邦公開市場委員會（FOMC）宣告中消除寬鬆傾向。"
-    },
-    {
-      "id": "mkt:019e4ffc-613c-7113-afb5-3e183983c07b",
-      "time": "2026-05-22 22:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | University of Michigan Consumer Expectations Index Final (May) | actual 44.1 | consensus 48.4 | previous 48.5"
-    },
-    {
-      "id": "mkt:019e4ffc-613b-7113-afb5-351d6b9b8087",
-      "time": "2026-05-22 22:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | University of Michigan Current Conditions Index Final (May) | actual 45.8 | consensus 47.9 | previous 47.8"
-    },
-    {
-      "id": "mkt:019e4ffc-614f-7113-afb5-446ddd964329",
-      "time": "2026-05-22 22:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | University of Michigan Consumer Sentiment Index Final (May) | actual 44.8 | consensus 48.2 | previous 48.2"
-    },
-    {
-      "id": "4895422",
-      "time": "2026-05-22 21:59:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "【德國在昔日煤礦區建造“世界最高”風力發電機】在德國東部勃蘭登堡州舊煤礦產區盧薩蒂亞，一座設計高度達365米、超過巴黎埃菲爾鐵塔的風力發電機正在加速建造中。今年底前建成後，它將成為“世界最高風機”。作為歐盟最大經濟體，德國近年來一直努力實現能源轉型，包括放棄核電、逐步淘汰煤電、補貼扶持可再生能源產業等。去年，可再生能源發電量佔德國總發電量的近59%，其中約一半來自風電。（新華社）"
-    },
-    {
-      "id": "te:markets:553142",
-      "time": "2026-05-22 21:59:49",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Edges Higher Amid Iran Diplomacy Uncertainty — The S&P/TSX Composite Index edged up to trade above 34,500 on Friday, benefiting from a strong session in the US amid cautious signs of progress between Iran and US in their conflict. US Secretary of State Marco Rubio said there had been “some good signs” in negotiations to end the nearly three-month-old conflict involving the US, Israel, and Iran, though major disagreements remained over Tehran’s uranium stockpile and control of the Strait of Hormuz. Banks traded higher, with BMO up 0.5% and TD Bank gaining nearly 1%. Meanwhile, lower gold prices pressured mining shares as inflation fears reinforced expectations of a possible US interest rate hike later this year. Agnico Eagle shed more than 1% and Barrick lost over 1.5%. Investors also awaited quarterly earnings from major Canadian banks due next week."
-    },
-    {
-      "id": "4895421",
-      "time": "2026-05-22 21:59:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧談及北約：核心議題始終如一，衝突當下各方能作出何種承諾。 各國都需不斷重新審視自身訴求、全球防務承諾，併合理統籌佈局。"
-    },
-    {
-      "id": "4895420",
-      "time": "2026-05-22 21:58:07",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【施小琳在四川省經濟形勢分析專題會上強調：錨定目標、保持定力、精準發力，確保上半年實現“時間過半、任務過半”】5月22日，四川省政府召開1—4月全省經濟形勢分析專題會。省委副書記、省長施小琳出席並講話，強調要認真貫徹黨中央、國務院部署和省委要求，錨定目標、保持定力、精準發力，高質量抓專案、促改革、優環境、保安全，奮力攻堅二季度，確保上半年實現“時間過半、任務過半”，為完成全年目標任務和“十五五”良好開局打牢基礎、多作貢獻。施小琳指出，今年以來，經過全省上下共同努力，我省經濟承壓前行、穩中有進。但外部環境複雜多變，供強需弱矛盾依然突出，存量政策邊際效應持續減弱，自然災害風險形勢嚴峻，穩增長面臨更大考驗。二季度是承上啟下、決勝全年的關鍵期。要堅定發展信心，善於化危為機，按照正確政績觀要求從實際出發、按規律辦事，細化工作顆粒度，做到監測分析準、對策措施準、向上爭取準、協同發力準，推動經濟發展持續平穩向好、量質齊升。（四川釋出）"
-    },
-    {
-      "id": "te:markets:553139",
-      "time": "2026-05-22 21:57:21",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Sugar Futures at Over 3-Week Low — US sugar futures fell to around 14.6 US cents, the lowest since late April, weighed down by the dollar's strength and increased supply from top producer Brazil. Ongoing sugarcane crushing in the Center-South region is further boosting physical availability and pressuring prices. Meanwhile, the International Sugar Organization (ISO) raised its estimate of the 2025/26 global surplus, projecting record production of 182 million tons, up 3.5% from the previous season, and a surplus of 2.2 million tons versus a prior forecast of 1.22 million, reversing a 3.46 million-ton deficit in 2024/25.The outlook for 2026/27 is tighter, with production forecast to decline 1.15% to 180 million tons and a potential 262,000-ton deficit, partly due to potential El Niño impacts on key producers India and Thailand. The brokerage firm Czarnikow, however, sees a modest 1.4 million-ton surplus, driven by stronger Chinese production."
     }
   ]
 }
