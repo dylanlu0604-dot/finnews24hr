@@ -1,7 +1,96 @@
 {
-  "updated": "2026-05-29 10:17:13",
+  "updated": "2026-05-29 10:21:09",
   "count": 15387,
   "items": [
+    {
+      "id": "4905952",
+      "time": "2026-05-29 10:20:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【阿里速賣通與巴西郵政簽署MOU，加速本地物流網路建設】5月28日，阿里旗下跨境電商平臺速賣通AliExpress與巴西郵政正式簽署諒解備忘錄（MOU），在巴西市場展開更深度的戰略合作，包括偏遠地區配送拓展、末端配送能力提升、消費者體驗最佳化等。"
+    },
+    {
+      "id": "te:markets:554690",
+      "time": "2026-05-29 10:19:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Dollar Holds Decline on US-Iran Deal — The dollar index hovered around 99 on Friday after weakening in the previous session, as reports that the US and Iran had reached a tentative peace agreement eased concerns over inflation and future interest rate hikes. Washington and Tehran are reportedly set to extend their ceasefire by 60 days and begin negotiations on Iran’s nuclear program, while also considering unrestricted shipments through the Strait of Hormuz. However, the report noted that President Donald Trump has not yet approved the proposed terms. Meanwhile, the latest US PCE price index data showed softer-than-expected inflation readings, helping calm fears that the recent energy shock would significantly worsen the inflation outlook. Even so, markets continue to expect the Federal Reserve to keep interest rates unchanged well into next year."
+    },
+    {
+      "id": "mkt:019e7187-1636-7ee0-99e1-27fcd9b65914",
+      "time": "2026-05-29 10:18:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Jeff Bezos said all personnel involved in the Blue Origin incident have been confirmed safe."
+    },
+    {
+      "id": "mkt:019e7186-bd8e-7ee0-99e1-1fb060c31f8c",
+      "time": "2026-05-29 10:18:36",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "Amazon founder Jeff Bezos, commenting on the Blue Origin incident, said the company will rebuild all necessary components and resume flights."
+    },
+    {
+      "id": "mkt:019e7186-98a3-7ee0-99e1-177884d96b01",
+      "time": "2026-05-29 10:18:26",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "Amazon founder Jeff Bezos said of the Blue Origin incident that it is too early to determine the root cause but teams are working to identify it."
+    },
+    {
+      "id": "mkt:019e7186-0742-7ee0-99e1-0afc6fd1316b",
+      "time": "2026-05-29 10:17:49",
+      "tags": [
+        "MKT News",
+        "2330.TW",
+        "Impact bullish",
+        "2317.TW"
+      ],
+      "text": "Taiwan Weighted Index extended opening gains, rising 2.3% to 44,648.69. TSMC advanced 3.05%; Hon Hai gained 5.7%."
+    },
+    {
+      "id": "4905951",
+      "time": "2026-05-29 10:17:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "貝索斯談藍色起源事故：凡是需要重建的我們都會重建，之後恢復飛行試驗。"
+    },
+    {
+      "id": "4905950",
+      "time": "2026-05-29 10:16:45",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【大消費板塊持續走強 交大昂立等多股漲停】大消費板塊盤中持續走強，零售、食品飲料、服裝等方向均表現不俗，交大昂立、百大集團、九牧王、東百集團、寧波中百、步步高等多股漲停，西部牧業、中國中免、一致魔芋、酒鬼酒等漲逾5%。"
+    },
+    {
+      "id": "4905949",
+      "time": "2026-05-29 10:16:37",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【歐盟或將與Anthropic洽談獲取Mythos模型訪問許可權】據報道，歐盟委員會官員正計劃與Anthropic會面，以獲取有關該公司Mythos模型的更多資訊。自Anthropic透露該模型極度擅長尋找網路漏洞並可能構成重大網路安全風險以來，歐盟一直在推動獲取Mythos的訪問許可權。據知情人士透露，歐盟獲取Mythos訪問許可權的任何最終決定，可能都需要獲得美國政府的批准。"
+    },
     {
       "id": "4905948",
       "time": "2026-05-29 10:15:57",
@@ -138592,90 +138681,6 @@
         "市場"
       ],
       "text": "【電力板塊短線拉昇，恆盛能源此前漲停】電力板塊短線拉昇，恆盛能源此前漲停，京能熱力、杭州熱電、華光環能、寧波能源、大連熱電等跟漲。"
-    },
-    {
-      "id": "4894013",
-      "time": "2026-05-22 10:20:50",
-      "tags": [
-        "市場"
-      ],
-      "text": "【港股人工智慧概念股走強 智譜漲超18%】截至發稿，智譜(02513.HK)漲18.02%，滴普科技(01384.HK)漲17.40%，五一視界(066651.HK)漲8.55%。"
-    },
-    {
-      "id": "mkt:019e4d7b-f074-7aa1-9583-fc793f546a7c",
-      "time": "2026-05-22 10:20:28",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "CHINA NDRC: PEAK POWER LOAD FORECAST TO HIT 1.6 BLN KW THIS SUMMER, UP ~90 MLN KW YOY"
-    },
-    {
-      "id": "4894012",
-      "time": "2026-05-22 10:19:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "京東方Ａ成交額達100億元，現跌1.92%。"
-    },
-    {
-      "id": "4894011",
-      "time": "2026-05-22 10:18:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "【“夏季達沃斯論壇”將於6月23日—25日在大連舉辦】從國家發展改革委舉行的新聞釋出會上瞭解到，世界經濟論壇第十七屆新領軍者年會，也就是“夏季達沃斯論壇”，將於今年6月23日—25日在遼寧省大連市舉辦。本屆年會的主題為“規模化創新”，預計將有超過50個國家和地區的約1500位政界、商界、學術界以及國際組織人員出席本次年會。"
-    },
-    {
-      "id": "4894010",
-      "time": "2026-05-22 10:17:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "【復宏漢霖在南京投資成立生物技術公司】企查查APP顯示，近日，復星漢霖（南京）生物技術有限公司成立，法定代表人為餘誠，註冊資本5000萬元，經營範圍為技術服務、技術開發、技術諮詢、技術交流、技術轉讓、技術推廣。企查查股權穿透顯示，該公司由復宏漢霖全資持股。"
-    },
-    {
-      "id": "4894009",
-      "time": "2026-05-22 10:17:40",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【國家發改委：綜合研判今年夏天全國最高用電負荷將達到約16億千瓦】5月22日，國家發展改革委召開新聞釋出會。會上，國家發展改革委政策研究室副主任李超表示，綜合研判今年夏天全國最高用電負荷將達到約16億千瓦，比去年增加9000萬千瓦左右，相當於多出了一個河南省的用電負荷。國家發展改革委將會同有關方面紮實做好能源電力保供的各項準備工作。一是大力推進電源建設投產。今年1—4月份，全國新增發電裝機容量約為1億千瓦；二是加強電煤儲備和水電儲能；三是推動電力、電煤中長期合同高比例簽約和有效履約，夯實能源中長期合同保供穩價的壓艙石作用；四是做好跨省跨區的電力排程工作，必要的時候要做好應急排程，透過全國統一電力市場，加強供需調節；五是紮實做好應急預案。針對部分供需偏緊的省份，將“一省一策”做好應急預案。"
-    },
-    {
-      "id": "4894008",
-      "time": "2026-05-22 10:17:33",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經225指數最新上漲2.3%。"
-    },
-    {
-      "id": "mkt:019e4d79-0ca0-7aa1-9583-f5cb1c0fb33f",
-      "time": "2026-05-22 10:17:19",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "JAPAN'S NIKKEI SHARE AVERAGE EXTENDS GAIN, LAST UP 2.3%"
-    },
-    {
-      "id": "mkt:019e4d78-f950-7aa1-9583-e86c4c508712",
-      "time": "2026-05-22 10:17:14",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "CHINA AI FIRM ZHIPU SPIKES UP TO 19.8% IN EARLY HK TRADING"
     }
   ]
 }
