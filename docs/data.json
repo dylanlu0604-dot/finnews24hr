@@ -1,7 +1,214 @@
 {
-  "updated": "2026-05-29 15:29:46",
-  "count": 15592,
+  "updated": "2026-05-29 15:33:47",
+  "count": 15596,
   "items": [
+    {
+      "id": "te:markets:554826",
+      "time": "2026-05-29 15:33:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Euro Steady Amid Fresh Inflation Data — The euro held steady at $1.165 on Friday, on track for a 0.4% weekly gain against the USD, as investors analyzed fresh inflation data from Europe’s largest economies for clues on the ECB’s policy direction, while monitoring developments in US-Iran peace talks. Geopolitical tensions also influenced sentiment after reports of a drone incursion in Romania, which Romanian authorities blamed on Russia. France responded by summoning the Russian ambassador, highlighting escalating diplomatic strains. Flash data revealed France’s EU-harmonized inflation rate climbed to 2.8% in May, the highest since February 2024, while Spain’s rate rose to 3.6%, the highest since June 2024. Meanwhile, France’s Q1 2026 GDP was revised down to a 0.1% contraction. The latest ECB meeting minutes indicated some policymakers would have backed an April rate hike if proposed, reinforcing expectations of a 25-basis-point increase at the June 11 meeting."
+    },
+    {
+      "id": "mkt:019e72a6-73f2-7aa7-a783-2d01023c5f72",
+      "time": "2026-05-29 15:32:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Riksbank's Financial Stability Report says Sweden retains favorable starting conditions but structural risks persist in the banking system."
+    },
+    {
+      "id": "mkt:019e72a6-2839-7aa7-a783-231613f9e23f",
+      "time": "2026-05-29 15:32:31",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Sweden's Riksbank said in its Financial Stability Report that a prolonged war raises the risk of simultaneous rises in inf and interest rates while the economy weakens."
+    },
+    {
+      "id": "4906448",
+      "time": "2026-05-29 15:32:26",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "瑞典央行金融穩定報告：逆週期緩衝資本率維持不變，保持在2%的正向中性水平。"
+    },
+    {
+      "id": "te:markets:554825",
+      "time": "2026-05-29 15:32:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Opens 0.09% Higher — The FTSE 100 Index is gaining 10 points or 0.09 percent on Friday. Leading the gains are Endeavour (1.70%), Unite Group (1.66%) and Rolls-Royce (1.61%). Top losers are B&M European Value (-2.51%), British American Tobacco (-1.81%) and Pearson (-1.49%)."
+    },
+    {
+      "id": "mkt:019e72a5-cddc-7aa7-a783-1997f78e737b",
+      "time": "2026-05-29 15:32:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Seven departments promote factory tours, urge aerospace, shipbuilding, auto and robotics makers to open sites】Seven departments including the Ministry of Culture and Tourism issued guidance to develop industrial tourism and industrial heritage sites, explicitly promoting factory tours. The notice encourages aerospace, shipbuilding, automotive, robotics and other equipment manufacturers, plus textile/apparel, arts & crafts, food processing and e-commerce logistics firms, to innovate visitor offerings—production-process viewing, simulated operations, hands-on experiences, product customization and themed visitor factories—provided production safety and confidentiality requirements are met. It also calls to expand smart industrial tourism by deploying BeiDou, AI, ultra‑HD video, virtual reality, autonomous driving and other digital technologies to create immersive, intelligent visitor experiences."
+    },
+    {
+      "id": "mkt:019e72a5-936b-7aa7-a783-16c9c18e8319",
+      "time": "2026-05-29 15:31:53",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Riksbank financial stability report says Middle East war poses a risk to financial stability."
+    },
+    {
+      "id": "4906447",
+      "time": "2026-05-29 15:31:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "初步計劃顯示，7月份奈及利亞四種主要原油品級的出口量預計平均為84.7萬桶/日，而6月份為82.7萬桶/日。"
+    },
+    {
+      "id": "4906446",
+      "time": "2026-05-29 15:31:40",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "瑞典央行金融穩定報告：金融體系執行良好，但不確定性高企。"
+    },
+    {
+      "id": "4906445",
+      "time": "2026-05-29 15:31:38",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "泰國央行：截至5月22日泰國淨遠期頭寸為223億美元，截至5月15日為221億美元。"
+    },
+    {
+      "id": "4906444",
+      "time": "2026-05-29 15:31:29",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "瑞典央行金融穩定報告：瑞典初始態勢向好，但銀行體系存在結構性風險。"
+    },
+    {
+      "id": "4906443",
+      "time": "2026-05-29 15:31:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外交部：嚴正告誡日本右翼勢力傾聽正義呼聲】5月28日至29日，上海交通大學與侵華日軍南京大屠殺遇難同胞紀念館舉辦紀念東京審判開庭80週年國際研討會。對此，外交部發言人毛寧29日在例行記者會上答問時表示，東京審判審的是人類良知，判的是歷史公正。面對當前日本“新型軍國主義”成勢為患，重溫東京審判的背景結論和原則更具現實意義。“我們願同全世界愛好和平的國家和人民一道，堅決抵制任何企圖為侵略翻案的行徑，嚴正告誡日本右翼勢力傾聽正義呼聲，不要在‘新型軍國主義’的窮途末路上狂奔。殷鑑不遠，破壞和平，挑戰公理良知，必將再次遭到歷史的清算和正義的審判。”（新華社）"
+    },
+    {
+      "id": "te:markets:554824",
+      "time": "2026-05-29 15:31:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Opens 0.13% Lower — The DAX Index is losing 33 points. Losses were led by Siemens Energy (-2.36%), Bayer (-0.85%) and Deutsche Boerse (-0.60%). Offsetting the fall, top gainers were Zalando (2.68%), Airbus (2.01%) and Deutsche Bank (1.35%)."
+    },
+    {
+      "id": "4906442",
+      "time": "2026-05-29 15:31:07",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "瑞典央行金融穩定報告：戰爭持續時間越久，通脹、利率上升與經濟走弱同時發生的風險就越大。"
+    },
+    {
+      "id": "mkt:019e72a4-cb4b-7aa7-a783-09c369715f86",
+      "time": "2026-05-29 15:31:02",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Preliminary schedules indicate Nigeria's exports of its four main crude grades are projected to average 847,000 b/d in July, up from 827,000 b/d in June."
+    },
+    {
+      "id": "4906441",
+      "time": "2026-05-29 15:30:54",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "瑞典央行金融穩定報告：中東局勢衝突給金融穩定帶來風險。"
+    },
+    {
+      "id": "4906440",
+      "time": "2026-05-29 15:30:48",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【文旅部等7部門：大力發展“工廠遊” 鼓勵航空航天、船舶、汽車、機器人等裝備製造】文化和旅遊部辦公廳、中央宣傳部辦公廳、工業和資訊化部辦公廳、教育部辦公廳、國務院國資委辦公廳、國家文物局辦公室、全國總工會辦公廳釋出《關於弘揚工業文化 保護工業遺產 發展工業旅遊的通知》。其中提到，豐富工業旅遊產品供給。積極發展工業遺產遊，鼓勵以創意設計、業態植入、風貌改造等方式活化利用工業遺址，發展工業旅遊新場景新業態新模式。大力發展“工廠遊”，鼓勵航空航天、船舶、汽車、機器人等裝備製造，紡織服裝、工藝美術、食品加工等消費品工業，電商物流等領域企業在確保安全生產和保密要求前提下，創新推出生產流程觀摩、模擬操作、手作體驗、產品定製等專案，打造主題鮮明的觀光工廠。有序拓展工業智慧遊，支援運用北斗、人工智慧、超高畫質影片、虛擬現實、自動駕駛等數字技術和裝置，打造沉浸式、智慧化工業旅遊體驗。支援工業旅遊場所發展主題商業、沉浸式體驗、特色市集等業態，打造“工業旅遊+”消費場景。鼓勵各地推出一批具有地域和行業特色的優質工業旅遊線路和品牌。鼓勵工業企業透過工業旅遊加強產品宣傳，擴大產品銷售，做強企業品牌。"
+    },
+    {
+      "id": "mkt:019e72a4-1c5b-7aa7-a783-0461e0e227e3",
+      "time": "2026-05-29 15:30:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "【China responds to reports of Canadian warship in Taiwan Strait】Asked about reports that a Canadian warship had been dispatched to the Taiwan Strait, CHINA said it respects states' navigation rights under international law but firmly opposes any country invoking freedom of navigation to undermine China’s sovereignty and security."
+    },
+    {
+      "id": "te:markets:554823",
+      "time": "2026-05-29 15:30:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Opens 0.58% Higher — The CAC 40 Index is up by 48 points or 0.58 percent on Friday. Top gainers are Airbus (2.04%), Societe Generale (1.61%) and Safran (1.52%). Biggest losses came from Capgemini (-0.40%), ENGIE (-0.19%) and STMicroelectronics (-0.15%)."
+    },
+    {
+      "id": "4906439",
+      "time": "2026-05-29 15:29:37",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【外交部回應加拿大軍艦派至臺灣海峽】今日，外交部發言人毛寧主持例行記者會。有記者問：有報道稱一艘加拿大軍艦被派遣至臺灣海峽執行任務。外交部能否對此予以確認？毛寧表示，中方尊重各國依據國際法享有的航行權利，同時堅決反對任何國家以航行自由為名，損害中國的主權和安全。（央視新聞）"
+    },
+    {
+      "id": "4906438",
+      "time": "2026-05-29 15:29:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山皋月：日本和美國仍在安排Mythos的獲取事宜。"
+    },
     {
       "id": "4906437",
       "time": "2026-05-29 15:28:52",
@@ -31,6 +238,14 @@
         "USDJPY"
       ],
       "text": "【China says Japan's military‑industrial complex reactivated and rapidly rising, warrants vigilance】China's Foreign Ministry said it is highly concerned after Japanese government data showed Defense Ministry orders have tripled over the past five years and now account for about half of FY2025 government public procurement orders. The ministry called the reactivation and rapid rise of Japan's military‑industrial complex a sign of accelerated re‑militarization, warned civilian budgets and industrial capacity are being diverted to military production, and said the development is prompting broad domestic and international concern."
+    },
+    {
+      "id": "4906436",
+      "time": "2026-05-29 15:28:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國家能源局：預計“十五五”時期全國算力用電量年均新增1000億千瓦時以上】國家能源局方面表示，2025年，我國已建成42個萬卡級智算叢集，全國算力中心總用電量達1700億千瓦時，佔全社會用電量的1.6%。全國一體化算力網路8大樞紐節點算力用電成為增量主力，近3年平均增長率約為39.5%，遠高於全社會用電量的平均增速。預計“十五五”時期全國算力用電量年均新增1000億千瓦時以上，到2030年預計達8000億千瓦時，佔全社會用電量6%左右。"
     },
     {
       "id": "4906435",
@@ -140642,181 +140857,6 @@
         "公司"
       ],
       "text": "【海金格終止北交所IPO】5月22日，據北交所網站披露，因北京海金格醫藥科技股份有限公司向北交所提交了《北京海金格醫藥科技股份有限公司關於撤回向不特定合格投資者公開發行股票並在北京證券交易所上市申請檔案的申請》，北交所決定終止其首次公開發行股票並在北交所上市的稽核。"
-    },
-    {
-      "id": "4894477",
-      "time": "2026-05-22 15:33:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "【太極集團：地高辛注射液透過仿製藥一致性評價】太極集團公告，控股子公司西南藥業地高辛注射液透過仿製藥質量和療效一致性評價。地高辛注射液（規格：2ml:0.5mg）可用於治療成人輕度至中度心力衰竭、可增加心力衰竭兒童患者的心肌收縮力、可用於控制伴有快速心室率的心房顫動、心房撲動患者的心室率及室上性心動過速。地高辛注射液是國家醫保目錄（2025 年版）甲類品種，並被列入 2026版國家基藥目錄。"
-    },
-    {
-      "id": "4894476",
-      "time": "2026-05-22 15:33:42",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【洪都航空：回應股價波動及業務經營等投資者關切問題】洪都航空公告稱，在2026年江西轄區上市公司投資者網上集體接待日活動中，就投資者提問作出回應。針對股價下跌，稱受市場情緒、短期資金調倉影響，公司生產經營正常，基本面未變；表示若有重大事項會及時披露，外貿業務是重要發展方向；隨著生產規模釋放和成本控制，主營產品毛利率、淨利率有望修復上行；公司透過參股洪都商飛參與大飛機戰略，C919批產配套有序爬坡；公司科研生產與經營正常，現金流穩定、訂單充足、外貿形勢好。"
-    },
-    {
-      "id": "4894475",
-      "time": "2026-05-22 15:33:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【亞寶藥業：全資子公司取得依折麥布片藥品註冊證書】亞寶藥業公告，近日全資子公司北京亞寶生物藥業有限公司收到了國家藥品監督管理局核准簽發的依折麥布片《藥品註冊證書》。依折麥布是一種選擇性膽固醇吸收抑制劑，主要適用於原發性高膽固醇血癥、純合子家族性高膽固醇血癥和純合子谷甾醇血癥。依折麥布片由默沙東研發，2006年在中國大陸獲批上市，商品名為“益適純®”。根據米內網資料，2024年依折麥布片在國內的銷售資料為15.61億元人民幣，其中，公立醫院的銷售金額為12.7億元人民幣，零售藥店的銷售金額為2.91億元人民幣。"
-    },
-    {
-      "id": "4894474",
-      "time": "2026-05-22 15:33:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣東4宗中型水庫超汛限，清遠英德西牛航運樞紐已開閘門敞洩】從廣東省水利廳獲悉，受強降雨影響，廣東4宗中型水庫超汛限，最大的為清遠英德市西牛航運樞紐，為迎接洪峰過境，目前閘門已全部開啟敞洩。對於超汛限水庫，廣東水利部門已電話督促責任人上崗到位，加強巡查防守，採取措施儘快降低水位。當前，廣東省內大型水庫均在汛限水位以下。（澎湃新聞）"
-    },
-    {
-      "id": "4894473",
-      "time": "2026-05-22 15:32:29",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中金：網易-S維持跑贏行業評級 目標價為265港元】中金髮布研報稱，考慮經營利潤率向好，上調網易-S（09999）26/27年Non-GAAP淨利潤均3%至422/467億元。現價對應港股11/10x、美股12/11x 26/27年Non-GAAP P/E。維持跑贏行業評級及目標價265港元/171美元（考慮行業估值中樞下行，對應港股17.5/15.5x、美股17.5/15.6x 26/27年Non-GAAP P/E），港/美上行空間54%/46%。"
-    },
-    {
-      "id": "te:markets:553016",
-      "time": "2026-05-22 15:32:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE 100 Index Opens 0.41% Higher — The FTSE 100 Index is gaining 42 points or 0.41 percent on Friday. Leading the gains are BT (2.78%), 3i (2.53%) and Compass (2.25%). Top losers are Convatec Group (-1.08%), Barratt Redrow (-0.95%) and BP (-0.94%)."
-    },
-    {
-      "id": "4894472",
-      "time": "2026-05-22 15:32:08",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美國加州政府因溢價公開抵制雪佛龍】加利福尼亞州州長加文·紐森（Gavin Newsom）及其辦公室因油價飆升問題，公開呼籲居民在假期週末避免前往雪佛龍（Chevron）加油站加油。加州州長辦公室透過社交媒體平臺釋出宣告稱，無品牌加油站的燃油與知名品牌產品源自相同的煉油廠、儲油罐和管道，且符合相同的加州清潔標準。宣告指責大型石油公司透過地緣政治衝突獲取暴利，並呼籲消費者不要為品牌溢價過度買單。作為反擊，雪佛龍公司近期在加州各加油站張貼告示，將高油價歸咎於加州政府實施的碳減排和氣候政策。"
-    },
-    {
-      "id": "4894471",
-      "time": "2026-05-22 15:31:51",
-      "tags": [
-        "市場"
-      ],
-      "text": "【5月22日滬深兩市漲停分析】創業板指縮量上漲2.84%，算力硬體股掀漲停潮。四環生物、龍星科技、大眾交通、金利華電均3連板，一圖看懂>>"
-    },
-    {
-      "id": "mkt:019e4e98-e8d3-7cc0-a022-d1c6b09a065f",
-      "time": "2026-05-22 15:31:44",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O"
-      ],
-      "text": "CHINA MOFA ON REFERRED TAIWAN INVESTIGATION INTO THREE PEOPLE OVER SMUGGLING NVIDIA CHIPS TO MAINLAND: \"THIS IS NOT A DIPLOMATIC ISSUE, AND I AM NOT AWARE OF THE RELEVANT SITUATION.\""
-    },
-    {
-      "id": "4894470",
-      "time": "2026-05-22 15:31:40",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【比特幣下跌，投資者權衡有關伊朗戰爭的矛盾訊息】在有關伊朗戰爭的矛盾訊息傳出後，投資者保持謹慎，比特幣小幅走低。路透報道稱，伊朗最高領袖下令將接近武器級的鈾留在國內，不過其他媒體隨後報道了否認的訊息。美國國務卿魯比奧表示，有一些“好跡象“表明美國可以與伊朗達成協議。然而，伊朗總統佩澤希齊揚表示，在談判中“我們絕不會退縮“。倫敦證券交易所集團資料顯示，比特幣下跌0.4%，至77,310美元。"
-    },
-    {
-      "id": "4894469",
-      "time": "2026-05-22 15:31:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "【智元西南具身智慧產業基地首批200臺機器人正式下線】據“成都發布”，5月22日，智元西南具身智慧產業基地、1+N分散式資料採集及訓練場在郫都高新區正式啟用，現場首批成都造新一代人形機器人遠征A3、A2、靈犀X2等200臺機器人正式下線。作為西南首個具身智慧全鏈條標杆專案，智元以“量產基地+算力中樞”的雙核模式，破解了技術從實驗室走向市場的核心難題。"
-    },
-    {
-      "id": "te:markets:553015",
-      "time": "2026-05-22 15:31:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The DAX Index Opens 0.52% Higher — The DAX Index is picking up 127 points or 0.52 percent on Friday. Gains are led by Deutsche Post (4.20%), Infineon (4.15%) and Symrise (2.45%). Biggest losers are Vonovia (-4.71%), Fresenius (-0.86%) and Brenntag (-0.81%)."
-    },
-    {
-      "id": "4894468",
-      "time": "2026-05-22 15:31:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "芬蘭外交部長：我們今日將會聽到美國國務卿魯比奧（Marco Rubio）作出美國致力於北約事務的承諾。"
-    },
-    {
-      "id": "mkt:019e4e98-51d4-7cc0-a022-cebc622d540a",
-      "time": "2026-05-22 15:31:05",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact mixed",
-        "XAUUSD"
-      ],
-      "text": "FINNISH FOREIGN MINISTER: WE WILL BE HEARING US FOREIGN SECRETARY RUBIO TODAY COMMITTING THE UNITED STATES TO NATO"
-    },
-    {
-      "id": "4894467",
-      "time": "2026-05-22 15:31:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：匈牙利MOL能源工廠發生爆炸，造成1人死亡，多人重傷。"
-    },
-    {
-      "id": "te:markets:553014",
-      "time": "2026-05-22 15:30:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The CAC 40 Index Opens 0.64% Higher — The CAC 40 Index is up by 52 points or 0.64 percent on Friday. Top gainers are STMicroelectronics (3.11%), Stellantis NV (2.89%) and Dassault Systemes (1.48%). Biggest losses came from TotalEnergies SE (-0.93%), Orange (-0.35%) and ENGIE (-0.28%)."
-    },
-    {
-      "id": "4894466",
-      "time": "2026-05-22 15:29:52",
-      "tags": [
-        "行業",
-        "公司",
-        "焦點",
-        "國際"
-      ],
-      "text": "【外媒稱臺當局正調查將英偉達晶片走私到大陸的三人，外交部回應】5月22日，外交部發言人郭嘉昆主持例行記者會。 法新社記者提問，據報道，臺灣當局正在調查三個人，他們將英偉達晶片走私到大陸，違反了“出口禁令”，外交部對此有何評論？ “這不是一個外交問題，我不瞭解相關情況。”郭嘉昆說。 （北京日報）"
-    },
-    {
-      "id": "te:economy:553012",
-      "time": "2026-05-22 15:29:47",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United Kingdom",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "UK 10-Year Gilts Slide Toward 4.9% — UK 10-year gilt yields edged lower toward 4.9% at the end of a week dominated by weak economic data and lingering uncertainty over US-Iran peace talks. April retail sales plummeted 1.3%, nearly double the forecasted 0.6% decline, driven by a sharp drop in fuel sales amid rising prices, while consumer confidence showed a slight improvement in May, beating expectations. The UK’s budget deficit swelled to £24.3 billion in April, surpassing the £20.9 billion estimate and marking the highest April shortfall since 2020. These figures followed earlier reports of softer-than-expected April inflation, an unexpected cooling in the labor market, and May PMI data signaling a contraction in private sector activity, complicating the Bank of England’s policy outlook as markets anticipate two interest rate hikes this year. Meanwhile, US Senator Marco Rubio noted \"some good signs\" in Iran negotiations, though Tehran’s uranium stockpile and control over the Strait of Hormuz remain major obstacles."
     }
   ]
 }
