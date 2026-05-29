@@ -1,7 +1,90 @@
 {
-  "updated": "2026-05-30 00:04:16",
-  "count": 15848,
+  "updated": "2026-05-30 00:08:20",
+  "count": 15851,
   "items": [
+    {
+      "id": "te:markets:555043",
+      "time": "2026-05-30 00:06:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 0.08% Higher — The FTSE 100 Index gained 8 points or 0.08 percent on Friday to close at 10434 points. Gains were led by Easyjet Plc (4.79%), Auto Trader (4.71%) and Endeavour (3.58%). Biggest losers were British American Tobacco (-2.83%), SSE (-2.25%) and Tesco (-2.23%)."
+    },
+    {
+      "id": "4907626",
+      "time": "2026-05-30 00:06:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：與巴基斯坦副總理兼外交部長會面，並感謝他為巴基斯坦在推動中東和平程序中持續發揮的作用。我們一致認為，共同努力進一步加強兩國之間有意義的夥伴關係，以實現更好的安全和更大的繁榮的重要性。"
+    },
+    {
+      "id": "4907625",
+      "time": "2026-05-30 00:05:22",
+      "tags": [
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "城堡證券斬獲 43 億美元交易收益，創下歷史新高。"
+    },
+    {
+      "id": "4907624",
+      "time": "2026-05-30 00:04:59",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【丹麥養老基金“拉黑”SpaceX 批評其災難性的公司治理結構】一家管理著250億美元資產的丹麥養老基金今年早些時候因拋售美國國債而受到關注，當時唐納德·特朗普曾威脅要奪取格陵蘭島。如今，該基金表示不會投資SpaceX。AkademikerPension首席投資官Anders Schelde表示，SpaceX不僅被“嚴重高估”，而且還存在“災難性的公司治理結構”。SpaceX當前對首次公開募股(IPO)的目標估值至少為1.8萬億美元。行業研究認為，SpaceX的上市檔案暴露出明顯的公司治理問題，其中包括馬斯克對公司擁有“近乎絕對的控制權”。Schelde表示，即使SpaceX的估值合理，AkademikerPension仍會將其列入投資黑名單。他指出，馬斯克預計將掌握約80%的投票權，同時兼任執行長、技術長和董事會主席等多個關鍵職務。"
+    },
+    {
+      "id": "te:markets:555042",
+      "time": "2026-05-30 00:04:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "CAC 40 Ends Near Flat as Inflation Offsets Ceasefire Hopes — The CAC 40 closed nearly flat at 8,183 on Friday as investors weighed domestic economic data and prospects for peace in the Middle East. France’s economy contracted 0.1% quarter-on-quarter in Q1 2026, reversing a 0.2% expansion in the previous quarter and marking the first contraction since Q2 2020. Preliminary data also showed annual inflation accelerated to 2.4% in May from 2.2% in April, the highest level since February 2024, largely driven by higher energy prices amid ongoing Middle East tensions. Meanwhile, markets assessed the likelihood of an extension to the US-Iran ceasefire after reports that both sides had agreed to a framework deal pending approval from US President Donald Trump. Luxury stocks weighed on the index, with LVMH down 1.6% and L'Oréal losing 1%, while industrials advanced, with Airbus up 1.1% and Safran gaining 0.9%."
+    },
+    {
+      "id": "mkt:019e747a-f381-7bb7-9963-df7395b27c00",
+      "time": "2026-05-30 00:04:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "【Putin: Russia will investigate Romanian drone incident if objective data emerges】Russian President Putin said on May 29 he could not determine the drone's origin without forensic analysis and that Russia would open an investigation if objective data emerged. He added the drone that crashed in Romania could be Ukrainian. Romania's Defence Ministry said on May 29 a Russian drone crashed into an apartment building, ignited a fire and injured two people."
+    },
+    {
+      "id": "4907623",
+      "time": "2026-05-30 00:04:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗知情人士：特朗普言論“真假參半”】據伊朗法爾斯通訊社29日報道，伊朗知情人士駁斥了美國總統特朗普關於可能與伊朗達成協議的言論，稱其“真假參半”，試圖描繪一場捏造的勝利。“幾乎所有人都已清楚，這些說法缺乏可信度。”（新華社）"
+    },
+    {
+      "id": "4907622",
+      "time": "2026-05-30 00:02:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【普京：若獲得客觀資料 俄方將調查羅馬尼亞無人機事件】俄羅斯總統普京5月29日在哈薩克出席歐亞經濟聯盟框架內系列活動後，於結束訪哈行程前召開記者會。普京就羅馬尼亞無人機事件評論稱，在完成必要的專業鑑定之前，無人能斷定這架無人機的來源。如獲得關於無人機在羅馬尼亞墜毀事件的客觀資料，俄方將進行客觀調查。普京表示，在羅馬尼亞墜毀的無人機，可能是烏克蘭的。羅馬尼亞國防部當地時間29日釋出新聞公報稱，一架俄羅斯無人機在羅馬尼亞一棟公寓樓墜毀並引發火災，致兩人受傷（央視新聞）"
+    },
     {
       "id": "4907621",
       "time": "2026-05-30 00:01:19",
@@ -143462,56 +143545,6 @@
         "國際"
       ],
       "text": "特朗普：沃什執掌美聯儲，美國未來前景無限。"
-    },
-    {
-      "id": "4895594",
-      "time": "2026-05-23 00:08:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我們擁有全球最強軍隊，計劃將國防預算提升至 1.5 萬億美元。"
-    },
-    {
-      "id": "te:markets:553174",
-      "time": "2026-05-23 00:07:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE 100 Index Closes 0.30% Higher — The FTSE 100 Index gained 31 points or 0.30 percent on Friday to close at 10474 points. Gains were led by Rightmove (7.22%), Croda International (5.44%) and Easyjet Plc (4.34%). Biggest losers were BP (-2.73%), Convatec Group (-2.36%) and Fresnillo (-2.12%)."
-    },
-    {
-      "id": "4895593",
-      "time": "2026-05-23 00:07:11",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "特朗普表揚禮來公司。"
-    },
-    {
-      "id": "4895592",
-      "time": "2026-05-23 00:06:58",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "特朗普讚揚輝瑞公司在美國建廠。"
-    },
-    {
-      "id": "te:markets:553173",
-      "time": "2026-05-23 00:04:45",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "FTSE MIB Rises on Hopes of Progress in US-Iran Talks — he FTSE MIB gained 0.7% to close at 49,510 on Friday amid cautious signs of progress in negotiations surrounding the US-Iran conflict. US Secretary of State Marco Rubio said there were some encouraging signs toward a potential agreement. Italian bond yields moved lower and the BTP-Bund spread narrowed, supporting sentiment toward financial stocks. UniCredit rose 2%, Generali gained 0.9%, and MPS advanced 1.7%. Chipmaker STMicroelectronics climbed 5.2%, extending gains in the global tech sector after Nvidia reported stronger-than-expected first-quarter sales. Stellantis also rebounded 3.2% after unveiling its €60 billion FaSTLAne 2030 strategic plan in the previous session. On the downside, Eni fell 2.1%."
     }
   ]
 }
