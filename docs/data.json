@@ -1,7 +1,144 @@
 {
-  "updated": "2026-05-29 17:34:03",
-  "count": 15690,
+  "updated": "2026-05-29 17:37:52",
+  "count": 15687,
   "items": [
+    {
+      "id": "mkt:019e7318-58d9-7ccc-b655-c6069834ebb1",
+      "time": "2026-05-29 17:37:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Vanke shareholders' meeting: systematic value plan in place but valuation recovery will not be immediate】At today's Vanke shareholders' meeting, management said it has implemented a market-value management system and a Valuation Enhancement Plan in 2025 to drive systematic value improvement tied to operations and long-term strategy. Management warned valuation repair will not be achieved overnight and requires a comprehensive risk-mitigation program, ongoing asset-liability optimization and restoration of normal profitability. On capital operations, Vanke will continue to divest non-core and low-efficiency businesses and assets and optimize cash flow and the balance sheet to underpin long-term value recovery."
+    },
+    {
+      "id": "mkt:019e7318-2480-7ccc-b655-baeca7b52a9c",
+      "time": "2026-05-29 17:37:02",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Commerzbank says oil prices will not return to pre-war levels for the foreseeable future."
+    },
+    {
+      "id": "4906858",
+      "time": "2026-05-29 17:36:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國商業銀行表示，其預計油價在可預見的未來不會回到戰前水平。"
+    },
+    {
+      "id": "4906857",
+      "time": "2026-05-29 17:36:11",
+      "tags": [
+        "央行",
+        "市場",
+        "國際"
+      ],
+      "text": "英國央行貝利：英國債券市場收益率曲線的回落趨勢有望延續，但走勢取決於中東地區事態發展。"
+    },
+    {
+      "id": "4906856",
+      "time": "2026-05-29 17:35:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【埃夫特：發行股份及支付現金購買資產獲蕪湖市國資委批覆】埃夫特公告稱，公司擬透過發行股份及支付現金方式購買上海盛普流體裝置股份有限公司100%股份，本次交易構成重大資產重組。2026年5月21日相關議案獲審議透過。近日，公司收到蕪湖市國資委批覆，原則同意本次交易方案。截至公告披露日，本次交易尚需公司股東會審議、上交所稽核及中國證監會註冊批覆，能否透過審批及獲批時間均不確定。"
+    },
+    {
+      "id": "mkt:019e7316-e29b-7ccc-b655-b659abf3bbb5",
+      "time": "2026-05-29 17:35:40",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish",
+        "FTSE100",
+        "Impact mixed"
+      ],
+      "text": "Bank of England Governor Bailey said bond-market tightening has bought the Bank of England time."
+    },
+    {
+      "id": "4906855",
+      "time": "2026-05-29 17:35:30",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行貝利：此前預判的戰前降息計劃現已擱置。"
+    },
+    {
+      "id": "mkt:019e7316-b0ac-7ccc-b655-ae50f54a6e88",
+      "time": "2026-05-29 17:35:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Bank of England Governor Bailey said firms report finding it difficult to raise prices."
+    },
+    {
+      "id": "4906854",
+      "time": "2026-05-29 17:35:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新五豐：擬終止會同縣楊家渡村2400頭父系養豬場建設專案】新五豐(600975)5月29日公告，鑑於當前生豬行業處於產能調控週期，市場供需與行業環境發生較大變化，公司擬終止湖南天心種業股份有限公司會同縣楊家渡村2400頭父系養豬場建設專案。截至2025年12月31日，上述擬終止募投專案實際投入募集資金金額5.40萬元，投資進度0.04%，剩餘募集資金1.49億元及募集資金存放期間利息淨額將繼續留存於募集資金專用賬戶。"
+    },
+    {
+      "id": "4906853",
+      "time": "2026-05-29 17:35:07",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行貝利：債券市場收緊為政策爭取了緩衝空間。"
+    },
+    {
+      "id": "4906852",
+      "time": "2026-05-29 17:34:59",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "芯聯整合：公司在智慧電網方向，4500V超高壓IGBT產品已在國家電網試點掛網驗證透過，進入大範圍推廣和大規模量產階段。"
+    },
+    {
+      "id": "mkt:019e7315-dd66-7ccc-b655-a59dfdc69440",
+      "time": "2026-05-29 17:34:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Xinlian Integration said its 4,500V ultra-high-voltage IGBT for smart-grid applications has passed State Grid on‑grid pilot validation and is entering broad rollout and mass production."
+    },
+    {
+      "id": "4906851",
+      "time": "2026-05-29 17:34:06",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度Nifty 50指數跌幅擴大，最新下跌1.3%。"
+    },
+    {
+      "id": "4906850",
+      "time": "2026-05-29 17:33:47",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行貝利：2022 年遺留影響仍作用於通脹預期。"
+    },
     {
       "id": "mkt:019e7314-c3c7-7ccc-b655-9b8a226a6e90",
       "time": "2026-05-29 17:33:21",
@@ -141610,155 +141747,6 @@
         "其他"
       ],
       "text": "【鄭州新鄭國際機場容量調整獲中國民航局批覆】5月22日，河南據省發展改革委訊息，鄭州新鄭國際機場（以下簡稱“鄭州機場”）容量調整獲得批覆，基於容量評估結果與良好的安全執行記錄，中國民航局同意將鄭州機場高峰小時容量標準由49架次/小時調整為53架次/小時。"
-    },
-    {
-      "id": "4894867",
-      "time": "2026-05-22 17:37:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯人權事務專員蘭特拉託娃22日在社交媒體發文稱，當天凌晨烏軍使用無人機襲擊了盧甘斯克地區一所學校的教學樓和學生宿舍，已導致4名學生遇難，另有35名學生受傷。蘭特拉託娃說，襲擊發生時，建築內共有86名年齡在14至18歲之間的青少年。救援人員仍在清理坍塌處，目前仍有多人被困。（新華社）"
-    },
-    {
-      "id": "4894866",
-      "time": "2026-05-22 17:37:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "【西上海：延長上海海通煥新私募投資基金存續期至7年】西上海公告稱，為滿足經營發展需要，全體合夥人一致同意將上海海通煥新私募投資基金合夥企業存續期從5年延長至7年，並簽署補充協議對原《合夥協議》進行修訂。2022年11月，公司作為有限合夥人以3000萬元自有資金認繳該基金3%份額。本次調整預計不會對基金後續運營及公司財務狀況和經營成果產生重大影響。截至目前，公司與私募基金合作投資實繳金額合計1億元。"
-    },
-    {
-      "id": "4894865",
-      "time": "2026-05-22 17:37:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華盛雷達科創板IPO暫緩審議】上海證券交易所上市稽核委員會2026年第24次審議會議於2026年5月22日召開，審議結果為“暫緩審議”。在上市委會議現場，上市委要求發行人進一步說明報告期各期12月確認收入所涉專案，是否存在跨期確認收入的情況；結合最新招投標情況、在手訂單及履約週期等，說明公司是否具有較強成長性，業績是否具有可持續性。招股說明書顯示，浙江華盛雷達股份有限公司深耕氣象精細化探測及短臨預警預報業務，是國內先進的相控陣氣象雷達和短時臨近預警預報平臺提供商。"
-    },
-    {
-      "id": "4894864",
-      "time": "2026-05-22 17:37:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "【報告：在能源成本高企之際英國消費者削減支出】Pantheon Macroeconomics的Rob Wood在一份報告中表示，隨著高昂的能源成本和圍繞美伊衝突的不確定性導致消費者限制支出，英國4月份零售額出現萎縮。4月份零售額環比萎縮1.3%，3月份為增長0.6%。4月份零售額同比持平，3月份為增長1.7%。"
-    },
-    {
-      "id": "4894863",
-      "time": "2026-05-22 17:36:27",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【上汽集團今日大宗交易平價成交680.74萬股，成交額8495.68萬元】5月22日，上汽集團大宗交易成交680.74萬股，成交額8495.68萬元，佔當日總成交額的15.48%，成交價12.48元，較市場收盤價12.48元持平。"
-    },
-    {
-      "id": "4894862",
-      "time": "2026-05-22 17:36:24",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "【中信證券今日大宗交易溢價成交217萬股，成交額5689.74萬元】5月22日，中信證券大宗交易成交217萬股，成交額5689.74萬元，佔當日總成交額的1.53%，成交價26.22元，較市場收盤價25.87元溢價1.35%。"
-    },
-    {
-      "id": "em:qqyh_ozyh:202605223746832668",
-      "time": "2026-05-22 17:36:19",
-      "tags": [
-        "央行",
-        "歐洲央行"
-      ],
-      "text": "【歐洲央行行長拉加德：長期通脹預期仍基本符合目標】5月22日，歐洲央行行長拉加德表示，儘管伊朗戰爭帶來的影響不斷加深，長期通脹預期仍大體符合2%的目標。她表示，“儘管能源危機正在推高通脹並拖累經濟，但長期通脹預期整體上仍保持良好錨定。”"
-    },
-    {
-      "id": "4894861",
-      "time": "2026-05-22 17:36:16",
-      "tags": [
-        "市場"
-      ],
-      "text": "美股盤前，美股儲存晶片概念股走低，美光跌約1.8%，閃迪跌超2%。"
-    },
-    {
-      "id": "4894860",
-      "time": "2026-05-22 17:36:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【天華新能今年第二次擴產碳酸鋰 天宜鋰業新增年產2.65萬噸碳酸鋰產線公司】四川江安經濟開發區管理委員會發布《宜賓市天宜鋰業科創有限公司年產2.65萬噸電池級碳酸鋰技改專案環境影響評價第一次公示》，該專案計劃利用一期成品庫區域改建為碳酸鋰生產線，設計能力為2.65萬噸/年。這是繼四川天華時代二期專案後，天華新能今年第二次擴產碳酸鋰。"
-    },
-    {
-      "id": "4894859",
-      "time": "2026-05-22 17:35:56",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【疲軟的德國經濟研究所資料公佈後，德國國債收益率延續跌勢】德國政府債券（即德國國債）收益率小幅延續跌勢，此前德國經濟研究所商業景氣度資料好於預期，但依然疲軟。景氣度從低位回升，且這一升幅不足以緩解人們對高油價和中東緊張局勢造成經濟破壞的擔憂。德國經濟研究所5月份商業景氣指數攀升至84.9，好於84.1的平均預期，但並未高出4月份的84.5太多——後者是自2020年5月以來的最低水平。鑑於這些資料是在週四疲軟的採購經理人調查之後釋出的，歐洲央行可能會對加息保持謹慎。Tradeweb資料顯示，資料公佈後，10年期德國國債收益率下跌4.5個基點，至3.053%的一週低點。"
-    },
-    {
-      "id": "mkt:019e4f0a-3ece-777d-b240-b6b24bb95560",
-      "time": "2026-05-22 17:35:31",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Tencent",
-        "0700.HK",
-        "Impact bullish"
-      ],
-      "text": "TENCENT BOUGHT BACK 1.1 MLN SHARES FOR HK$500.6 MLN ON MAY 22 - HKEX FILING"
-    },
-    {
-      "id": "4894858",
-      "time": "2026-05-22 17:35:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【王府井：未涉及算力租賃領域的投資計劃或業務拓展安排】王府井（600859.SH）5月22日在投資者互動平臺表示，公司當前主業聚焦於深耕商業服務業市場，充分發揮自身資源稟賦優勢，持續推動百貨、購物中心、奧特萊斯及免稅等業態的融合發展，未涉及算力租賃領域的投資計劃或業務拓展安排。"
-    },
-    {
-      "id": "4894857",
-      "time": "2026-05-22 17:35:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "據港交所檔案顯示，騰訊於5月22日回購110萬股股份，總金額為5.006億港元。"
-    },
-    {
-      "id": "4894856",
-      "time": "2026-05-22 17:34:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【固德威：因產品責任糾紛提起訴訟，訴訟金額4億元及律師費、訴訟費用】固德威(688390)5月22日公告，公司近日收到江蘇省蘇州市中級人民法院送達的關於公司以產品責任糾紛為由起訴深圳南山安森美半導體有限公司（簡稱“被告一”）、SemiconductorComponents Industries, LLC.（簡稱“被告二”，與被告一合稱“被告”）的《受理案件通知書》等相關材料，訴訟金額為4億元及律師費、訴訟費用。自2018年至2024年，公司陸續透過經銷商採購被告生產的4種型號的IGBT模組（簡稱“涉案模組”），用於MT機型及HT機型逆變器的生產。在後續使用過程中，公司發現使用涉案模組生產的兩種型號的逆變器出現異常問題，透過長期的售後及技術分析，原因應為涉案模組PIN針脫落導致模組失效，進而引發涉案逆變器出現異常問題。相關故障產品已按售後服務政策維修或換貨處理，不會對公司經營方面產生重大不利影響。目前案件尚未開庭審理，該訴訟事項對公司本期利潤或期後利潤的具體影響尚存在不確定性。"
-    },
-    {
-      "id": "4894855",
-      "time": "2026-05-22 17:34:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華立股份：股東提前終止減持計劃 累計減持0.99%股份】華立股份公告稱，公司股東盧旭球原擬自2026年3月23日至6月22日，透過集中競價減持不超268.68萬股，佔總股本1.00%。截至5月22日，其已透過集中競價減持267萬股，佔總股本0.99%，減持價格區間為16.23 - 17.17元/股，減持總金額4491.56萬元。盧旭球決定提前終止減持計劃，剩餘1.68萬股在原計劃期限內不再減持。減持後，盧旭球持股降至1033萬股，佔總股本3.84%。"
-    },
-    {
-      "id": "4894854",
-      "time": "2026-05-22 17:34:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "【古巴啟動防空演習，美國航母已部署加勒比海】美國在加勒比海部署核動力航母后，古巴啟動防空演習。據環球時報5月22日援引美國《紐約時報》報道，美司法部20日宣佈對古巴前領導人勞爾·卡斯特羅等人提起訴訟，此舉標誌著華盛頓對哈瓦那多層面施壓行動的一次“重大升級”。"
-    },
-    {
-      "id": "te:economy:553076",
-      "time": "2026-05-22 17:34:15",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Croatia",
-        "Unemployment Rate",
-        "Importance 1"
-      ],
-      "text": "Croatia Jobless Rate Falls to 10-Month Low — Croatia’s registered unemployment rate fell to 3.8% in April 2026 from 4.3% in the previous month, marking the lowest rate since June 2025. The number of unemployed persons dropped 11.1% from a month earlier to a record low of 67.5 thousand, of whom 35.7 thousand were women. Employment rose 0.3% to 1.702 million, while the labor force declined 0.2% to 1.770 million. Meanwhile, paid employment in legal entities declined 0.2%, with the sharpest decreases recorded in mining and quarrying (-0.7%), manufacturing (-0.8%), water supply, sewerage, waste management and remediation activities (-1.4%), construction (-1.2%), and professional, scientific and technical activities (-1.4%). In contrast, employment increased in agriculture, forestry, and fishing (0.8%), electricity, gas, steam, and air conditioning supply (0.2%), accommodation and food service activities (4.5%), publishing, broadcasting, and content production and distribution (0.6%), and education (0.2%)."
     }
   ]
 }
