@@ -1,7 +1,92 @@
 {
-  "updated": "2026-05-29 18:14:06",
-  "count": 15740,
+  "updated": "2026-05-29 18:17:59",
+  "count": 15743,
   "items": [
+    {
+      "id": "mkt:019e733c-d83a-744e-9d25-5650c6c3f9d9",
+      "time": "2026-05-29 18:17:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "【Japan confirms 11.7 tln yen FX intervention April 28-May 27】Japan's Ministry of Finance said on Friday it spent 11.7 tln yen (about $73bn) between April 28 and May 27 to support the yen. The disclosure confirms market suspicions of sell-USD/buy-JPY intervention around late April–early May Golden Week; authorities said the action aimed to curb yen weakness and help keep inflation in check. BOJ data had previously implied roughly 4 tln yen on April 30 and about 4.5 tln yen between May 1-6."
+    },
+    {
+      "id": "4906966",
+      "time": "2026-05-29 18:16:40",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通對嗶哩嗶哩的多頭持倉於5月26日從14.52%降至11.90%。"
+    },
+    {
+      "id": "te:economy:554919",
+      "time": "2026-05-29 18:15:57",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Latvia",
+        "GDP Annual Growth Rate",
+        "Importance 1"
+      ],
+      "text": "Latvia Q1 GDP Growth Eases to 2.5% — The economy of Latvia grew by 2.5% year-on-year in the first quarter of 2026, easing from a 2.9% expansion in the previous quarter. The slowdown was mainly driven by a weaker performances in manufacturing (1.1% vs 6.8%), construction (2.8% vs 10%), human health and social work activities (2.1% vs 4.4%), and arts, entertainment, and recreation (2.7% vs 3.3%). Additionally, accommodation and food services (-1.8% vs 0.4%), information and communication (-2.4% vs 7.4%), and public administration and defence (-0.9% vs 0.9%) recorded declines, while activity declined further in transportation (-8.3% vs -5.7%). In contrast, performances strengthened in trade (5.5% vs 2.6%), real estate (3.7% vs 0.5%), and other industries (21.6% vs 2.3%). On a seasonally adjusted quarterly basis, GDP expanded 0.6% in Q1, following an upwardly revised 0.7% growth in the preceding period."
+    },
+    {
+      "id": "4906965",
+      "time": "2026-05-29 18:15:55",
+      "tags": [
+        "公司",
+        "資料",
+        "市場",
+        "國際"
+      ],
+      "text": "【機構：美國國債收益率持穩，美元小幅走高】大多數期限的美國國債收益率幾乎沒有變化，同時美元小幅走高。市場繼續在對美伊短期內達成協議的希望與協議進一步推遲的風險之間搖擺。Hola Prime執行長Somesh Kapuria在一份報告中表示：“鑑於最近幾個月談判的不可預測性，如果談判受挫，市場可能仍面臨逆轉的風險。“他表示，地緣政治事態發展可能仍是主要的市場驅動因素，但注意力也將轉向下週的採購經理人指數(PMI)調查和勞動力市場資料，這些是未來貨幣政策路徑的關鍵輸入因素。根據Tradeweb的資料，10年期國債收益率微跌至4.449%。DXY美元指數上漲0.1%，至99.113。"
+    },
+    {
+      "id": "4906964",
+      "time": "2026-05-29 18:15:17",
+      "tags": [
+        "宏觀",
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【英鎊下跌，受伊朗戰爭和英國政治風險影響】隨著圍繞伊朗戰爭和英國首相基爾·斯塔默命運的持續風險帶來壓力，英鎊下跌。財政部長斯科特·貝森特表示，在有報道稱雙方談判代表達成延長停火的協議後，美國和伊朗“具備達成協議的條件“。然而，副總統JD·萬斯表示，美國與伊朗“還沒到那一步“。在近期糟糕的選舉結果之後，斯塔默面臨潛在的領導權挑戰。Monex Europe分析師在一份報告中表示，美伊訊息面將繼續驅動英鎊兌美元走勢，但英國政治不確定性和疲軟的國內資料表明，英鎊兌其他貨幣的表現將繼續落後。英鎊下跌0.3%，至1.3409美元。倫敦證券交易所集團資料顯示，歐元上漲0.1%，至10天高點0.8676英鎊。"
+    },
+    {
+      "id": "te:economy:554918",
+      "time": "2026-05-29 18:15:16",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Luxembourg",
+        "Producer Prices Change",
+        "Importance 1"
+      ],
+      "text": "Luxembourg Producer Prices Fall at Softer Pace — Producer prices in Luxembourg declined 5.4% year-on-year in April 2026, easing from a revised 7.8% drop in the previous month and marking the ninth consecutive month of contraction. The slower pace of decline reflected easing deflation across key categories, including consumer goods (-13.5% vs -15.9% in March), energy goods (-8.3% vs -19.1%), and intermediate goods (-3.8% vs -4.1%). Conversely, inflation for capital goods increased (1.7% vs 1.3%). On a monthly basis, producer prices rose 1.2% in April, following a 0.8% increase in the prior month."
+    },
+    {
+      "id": "4906963",
+      "time": "2026-05-29 18:14:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新諾威：控股子公司收到阿斯利康4.2億美元首付款】新諾威公告，公司控股子公司石藥集團巨石生物製藥有限公司於2026年5月29日收到阿斯利康支付的4.2億美元首付款。該筆款項的到賬，有效充實巨石生物的現金儲備，有利於推進管線研發及整體戰略佈局。本次收款預計將對公司業績以及財務狀況產生積極影響，具體金額以審計資料為準。"
+    },
+    {
+      "id": "4906961",
+      "time": "2026-05-29 18:14:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【美盈森：控股子公司金之彩公司涉及名譽權糾紛案二審受理】美盈森公告，公司收購的控股子公司深圳市金之彩文化創意有限公司涉及名譽權糾紛案，一審判決後，西藏新天地投資合夥企業（有限合夥）、歐陽宣不服判決上訴，法院已受理。公司為被上訴人之一。案件為名譽權糾紛，不涉及具體訴訟金額。因案件尚未審理，對公司本期利潤或期後利潤可能產生的影響存在不確定性。公司將督促金之彩公司積極應訴，並及時披露案件進展情況。"
+    },
     {
       "id": "4906960",
       "time": "2026-05-29 18:13:00",
@@ -142240,50 +142325,6 @@
         "觀點"
       ],
       "text": "花旗集團恢復對聯邦快遞覆蓋，給予買入評級，目標價443美元。"
-    },
-    {
-      "id": "mkt:019e4f30-d931-777d-b241-09cfd20ab6bf",
-      "time": "2026-05-22 18:17:41",
-      "tags": [
-        "MKT News",
-        "FDX.O",
-        "Impact bullish"
-      ],
-      "text": "FEDEX : CITIGROUP RESUMES COVERAGE WITH BUY RATING; PRICE TARGET $443"
-    },
-    {
-      "id": "4894958",
-      "time": "2026-05-22 18:17:18",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "上交所：2026年5月18日至2026年5月22日，上交所對360起拉抬打壓、虛假申報等證券異常交易行為採取了自律監管措施，對中韓半導體ETF、全球晶片LOF等溢價較高的基金，長盈通等嚴重異常波動股票、*ST正平等異常波動退市風險警示股票以及退市觀典進行重點監控，對21起上市公司重大事項等進行專項核查，向證監會上報涉嫌違法違規案件線索1起。"
-    },
-    {
-      "id": "4894957",
-      "time": "2026-05-22 18:17:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "上交所：2026年5月18日至2026年5月22日，上交所公司監管部門共傳送監管函件11份，其中監管工作函9份，問詢函2份；透過事中事後監管，要求上市公司披露補充、更正類公告13份。同時，加大資訊披露和股價異常的聯動監管，針對公司披露敏感資訊或股價發生明顯異常的，提請啟動內幕交易、異常交易核查18單。"
-    },
-    {
-      "id": "4894956",
-      "time": "2026-05-22 18:16:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "【北京君正：擬將1497.99萬元節餘募集資金永久補充流動資金】北京君正公告，公司擬將“合肥君正研發中心專案”節餘募集資金1497.99萬元（含利息收入，具體金額以資金轉出當日銀行結算餘額為準）永久補充流動資金，用於公司日常生產經營活動。該募投專案已按計劃完成建設，結項後，剩餘資金將提高資金使用效率，不會對公司正常生產經營造成重大不利影響。此議案尚需提交公司股東會審議。"
-    },
-    {
-      "id": "4894955",
-      "time": "2026-05-22 18:14:26",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【沙特媒體稱獲悉美伊協議草案 內容包括在所有戰線實現停火】據沙烏地阿拉伯阿拉比亞電視臺22日報道，該媒體獨家獲悉的美國和伊朗“接近達成”的協議草案內容包括，在所有戰線立即、全面和無條件地實現停火。報道稱，該草案內容還包括承諾不以軍事、民用或經濟基礎設施為攻擊目標；停止軍事行動並停止媒體戰；尊重主權和領土完整以及不干涉內政；保障海灣、霍爾木茲海峽和阿曼灣航行自由；建立聯合監督和衝突解決機制等。（新華社）"
     }
   ]
 }
