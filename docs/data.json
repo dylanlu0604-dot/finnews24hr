@@ -1,7 +1,149 @@
 {
-  "updated": "2026-05-29 10:01:24",
-  "count": 15373,
+  "updated": "2026-05-29 10:05:25",
+  "count": 15379,
   "items": [
+    {
+      "id": "mkt:019e7179-a2d5-7ee0-99e0-e6e292d9a85b",
+      "time": "2026-05-29 10:04:17",
+      "tags": [
+        "MKT News",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component"
+      ],
+      "text": "ChiNext Index fell 1.00%, Shenzhen Composite Index fell 0.61% and Shanghai Composite Index fell 0.07%; more than 3,100 stocks declined across the market."
+    },
+    {
+      "id": "mkt:019e7179-78a0-7ee0-99e0-dbb6b9fc6f70",
+      "time": "2026-05-29 10:04:06",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Beijing space computing industry innovation center to be established; Guodian Gaoke to unveil 'Tianqi Constellation' plan】The Satellite IoT Industry Development Conference will be held June 1 in Haidian District, Beijing; organizers will formally announce the establishment of the Beijing Space Computing Industry Innovation Center. Beijing Guodian Gaoke Technology will present the current construction status and future plan for its \"Tianqi Constellation\" and hold a concentrated signing session. Guodian Gaoke previously secured China’s first satellite IoT commercial trial qualification. The conference also invited participants to the Global Space Computing Industry Innovation Conference on June 29-30."
+    },
+    {
+      "id": "te:markets:554684",
+      "time": "2026-05-29 10:04:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Hong Kong Stocks Rise on Ceasefire Hopes — The Hang Seng Index rose 137 points, or 0.5%, to 25,140 on Friday, recovering losses from the previous session as improved risk sentiment followed a tentative agreement between the US and Iran to extend their ceasefire by 60 days, easing concerns over potential supply disruptions in the Middle East. Improved sentiment boosted risk appetite, while oil prices edged lower on expectations that shipments through the Strait of Hormuz could resume more smoothly. In the region, gains were broad-based, led by finance, producer manufacturing, and technology shares with Lenovo jumping 19.4% as optimism surrounding AI-driven demand and strong earnings momentum continued to support the stock. Among other notable movers were Tencent Holdings (0.4%), AIA Group (2.3%), Pop Mart International (5.8%), Meituan Class (0.6%), and Innovent Biologics (6.1%). Meanwhile, Semiconductor Manufacturing International Corporation and Xiaomi fell 1.7% and 2.4%, respectively."
+    },
+    {
+      "id": "4905923",
+      "time": "2026-05-29 10:03:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油跌破90美元/桶，日內跌1.17%。"
+    },
+    {
+      "id": "mkt:019e7178-e5ec-7ee0-99e0-d120d7b38f0f",
+      "time": "2026-05-29 10:03:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "WTI crude fell below $90/bbl, down 1.17% intraday."
+    },
+    {
+      "id": "4905922",
+      "time": "2026-05-29 10:03:27",
+      "tags": [
+        "焦點"
+      ],
+      "text": "【滬指早間橫盤震盪，深成指、創業板指下行翻綠】房地產、白酒、零售、煤炭等板塊集體走強，半導體、光伏裝置、軍工、機器人等板塊下挫，個股跌多漲少，滬深京三市約3100股飄綠，開盤半小時成交1.12萬億，較上日此時放量超1700億。"
+    },
+    {
+      "id": "4905921",
+      "time": "2026-05-29 10:03:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "新加坡4月份非居民存款降至6506億新元。"
+    },
+    {
+      "id": "4905920",
+      "time": "2026-05-29 10:03:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京太空算力產業創新中心即將成立 國電高科將釋出“天啟星座”未來規劃】當前商業航天加速迭代，依託北京產業發展優勢，北京國電高科科技此前成功獲批國內首家衛星物聯網業務商用試驗資質。記者獲悉，北京市衛星物聯網行業發展大會將於6月1日在北京市海淀區舉行。會上，國電高科將釋出“天啟星座”建設現狀及未來規劃，並進行“天啟星座”集中籤約環節。另外，大會將官宣北京市太空算力產業創新中心正式設立，並同步邀約各界參與6月29-30日舉辦的全球太空算力產業創新大會。"
+    },
+    {
+      "id": "4905919",
+      "time": "2026-05-29 10:03:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指跌1.01%，現報4083.228點；上證指數跌0.14%，現報4093.069點；深證成指跌0.73%，現報15745.315點。"
+    },
+    {
+      "id": "4905918",
+      "time": "2026-05-29 10:02:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【交銀金融科技有限公司副總裁王浩接受審查調查】據中央紀委國家監委駐交通銀行紀檢監察組、遼寧省紀委監委訊息：交銀金融科技有限公司副總裁王浩涉嫌嚴重違紀違法，目前正接受中央紀委國家監委駐交通銀行紀檢監察組紀律審查和遼寧省鞍山市監察委員會監察調查。"
+    },
+    {
+      "id": "mkt:019e7177-3505-7ee0-99e0-cb8cabf8877b",
+      "time": "2026-05-29 10:01:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Laos' People's Revolutionary Party general secretary and state president Thongloun to visit China."
+    },
+    {
+      "id": "4905917",
+      "time": "2026-05-29 10:01:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達30億港元。"
+    },
+    {
+      "id": "mkt:019e7176-d88e-7ee0-99e0-c43e359788e9",
+      "time": "2026-05-29 10:01:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "A-share retail sector extended gains. Xiangjiang Holdings logged a fifth consecutive daily limit-up. Bubugao, Central Department Store, Dongbai Group, Maoye Commercial and Ningbo Zhongbai hit daily limit-ups. Debi Group, Baida Group, Sanjiang Shopping, China CDF and Wangfujing also advanced."
+    },
+    {
+      "id": "4905916",
+      "time": "2026-05-29 10:01:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【晶泰科技：收到DoveTree第二筆1900萬美元付款，首個腫瘤專案推進至IND-enabling研究階段】5月29日，晶泰科技宣佈，與DoveTree Medicines Unus Inc.的戰略合作取得進展並收到第二筆付款。去年6月雙方達成總價值最高可達59.9億美元的合作協議。此前5100萬美元首付款所涉管線的相關專利已全部轉讓至DoveTree。其中一個臨床前候選分子（Pre-clinical candidate, PCC）已率先推進至臨床申請前準備（IND-enabling）研究階段。根據協議，晶泰科技已收到第二筆1900萬美元付款。雙方未來將圍繞既定重點方向進一步深化藥物發現合作，並持續加速專案從早期發現向臨床開發的轉化。"
+    },
+    {
+      "id": "4905915",
+      "time": "2026-05-29 10:00:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【寮國人革黨中央總書記、國家主席通倫將訪華】中共中央對外聯絡部發言人胡兆明5月29日宣佈：應中共中央總書記、國家主席習近平邀請，寮國人革黨中央總書記、國家主席通倫將於6月2日至6日對中國進行國事訪問。（新華社）"
+    },
     {
       "id": "4905914",
       "time": "2026-05-29 10:00:25",
@@ -138464,84 +138606,6 @@
         "焦點"
       ],
       "text": "南向資金淨賣出額達20億港元。"
-    },
-    {
-      "id": "4893988",
-      "time": "2026-05-22 10:05:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "【港股大模型概念股衝高，智譜漲超9%，MINIMAX-W漲超3%】港股大模型概念股衝高，智譜漲超9%，MINIMAX-W漲超3%。"
-    },
-    {
-      "id": "4893987",
-      "time": "2026-05-22 10:04:46",
-      "tags": [
-        "市場"
-      ],
-      "text": "【多隻半導體ETF、中證1000ETF資金逆勢淨流入】昨日市場行情回撥之際，非貨ETF單日合計淨流出71.62億元，卻見半導體、中證1000等熱門ETF吸引資金流入。Wind資料顯示，中證1000ETF華夏單日吸金最多，淨流入14.85億元；科創半導體ETF華夏也單日淨流入13.91億元，中證1000ETF南方淨流入13.06億元。另外，中證500ETF南方，A500ETF華泰柏瑞、中證1000ETF易方達、中證A500ETF國泰等單日淨流入均超過5億元。另一方面，滬深300ETF、黃金ETF、券商ETF淨流出居前，僅跟蹤滬深300的ETF合計單日即流出89.22億元。"
-    },
-    {
-      "id": "4893986",
-      "time": "2026-05-22 10:04:24",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超1萬億元，較上日此時縮量1570億元。"
-    },
-    {
-      "id": "mkt:019e4d6c-add8-7aa1-9583-be86a7065ff2",
-      "time": "2026-05-22 10:03:48",
-      "tags": [
-        "MKT News",
-        "RTX.O",
-        "Impact bullish"
-      ],
-      "text": "CORRECTED-U.S. STATE DEPT: APPROVED POTENTIAL SALE OF HAWK MISSILE SYSTEM SUSTAINMENT TO UKRAINE FOR AN ESTIMATED $108.1 MLN (NOT $18.14 MLN)"
-    },
-    {
-      "id": "4893985",
-      "time": "2026-05-22 10:03:13",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美一空軍基地高爆炸藥研發設施發生事故 2人受傷】位於美國東南部佛羅里達州的埃格林空軍基地21日釋出公告說，該基地高爆炸藥研發設施當天下午發生事故，導致2名人員受傷。"
-    },
-    {
-      "id": "4893984",
-      "time": "2026-05-22 10:02:19",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印尼股指下跌2%至5974.61點。"
-    },
-    {
-      "id": "4893983",
-      "time": "2026-05-22 10:01:52",
-      "tags": [
-        "國際",
-        "兩會"
-      ],
-      "text": "【趙樂際將訪問哈薩克、俄羅斯並在俄出席中俄議會合作委員會第十一次會議】應哈薩克議會下院議長科沙諾夫和俄羅斯聯邦委員會主席馬特維延科、國家杜馬主席沃洛金邀請，全國人大常委會委員長趙樂際將於5月25日至30日對哈薩克、俄羅斯進行正式友好訪問，並在俄出席中俄議會合作委員會第十一次會議。（新華社）"
-    },
-    {
-      "id": "mkt:019e4d6a-e9fa-7aa1-9583-b14c25828cc4",
-      "time": "2026-05-22 10:01:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CHINA'S TOP LAWMAKER ZHAO LEJI TO VISIT KAZAKHSTAN, RUSSIA FROM MAY 25-30 - XINHUA"
-    },
-    {
-      "id": "4893982",
-      "time": "2026-05-22 10:01:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "【河南省商丘市人大常委會副主任張團結接受審查調查】中央紀委國家監委網站5月22日通報， 據河南省紀委監委訊息：河南省商丘市人大常委會副主任張團結涉嫌嚴重違紀違法，目前正接受河南省紀委監委紀律審查和監察調查。"
     }
   ]
 }
