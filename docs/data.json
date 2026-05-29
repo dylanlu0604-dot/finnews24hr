@@ -1,7 +1,39 @@
 {
-  "updated": "2026-05-29 23:59:22",
-  "count": 15857,
+  "updated": "2026-05-30 00:04:16",
+  "count": 15848,
   "items": [
+    {
+      "id": "4907621",
+      "time": "2026-05-30 00:01:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國際貿易委員會（USITC）稱，俄羅斯未加工鈀金未對美國相關產業造成損害。"
+    },
+    {
+      "id": "mkt:019e7477-f7e1-7bb7-9963-d01ca5306170",
+      "time": "2026-05-30 00:01:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. International Trade Commission found that unprocessed palladium from Russia did not injure U.S. industry."
+    },
+    {
+      "id": "4907620",
+      "time": "2026-05-30 00:00:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "【因伊朗戰爭受困的大型油輪中已有四分之一駛出海峽】在伊朗戰爭爆發時被困於波斯灣內的非伊朗大型油輪中，目前已有約四分之一透過緩慢而隱秘的方式駛離。彭博彙編的航運資料顯示，在2月28日衝突爆發導致霍爾木茲海峽基本陷入停擺後，滯留灣內的109艘運載能力在70萬桶以上的大型油輪中有29艘已透過這一咽喉要道。儘管這僅佔仍被困在波斯灣內原油和油品的一小部分，但隨著全球庫存以前所未有速度下降，這些貨物迅速被市場消化。由於許多船隻關閉了廣播自身位置的裝置，實際駛離的船隻數量可能更高。"
+    },
+    {
+      "id": "4907619",
+      "time": "2026-05-29 23:59:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "受AI伺服器需求激增與戴爾股價大漲推動，Michael Dell身家飆升至2430億美元，正式反超Mark Zuckerberg的2151億美元，躍居全球富豪榜前六。"
+    },
     {
       "id": "4907618",
       "time": "2026-05-29 23:58:32",
@@ -143480,139 +143512,6 @@
         "Importance 0"
       ],
       "text": "FTSE MIB Rises on Hopes of Progress in US-Iran Talks — he FTSE MIB gained 0.7% to close at 49,510 on Friday amid cautious signs of progress in negotiations surrounding the US-Iran conflict. US Secretary of State Marco Rubio said there were some encouraging signs toward a potential agreement. Italian bond yields moved lower and the BTP-Bund spread narrowed, supporting sentiment toward financial stocks. UniCredit rose 2%, Generali gained 0.9%, and MPS advanced 1.7%. Chipmaker STMicroelectronics climbed 5.2%, extending gains in the global tech sector after Nvidia reported stronger-than-expected first-quarter sales. Stellantis also rebounded 3.2% after unveiling its €60 billion FaSTLAne 2030 strategic plan in the previous session. On the downside, Eni fell 2.1%."
-    },
-    {
-      "id": "4895591",
-      "time": "2026-05-23 00:02:47",
-      "tags": [
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "【特朗普主持沃什就任美聯儲主席儀式】5月22日，美國總統特朗普在白宮主持凱文·沃什就任美國聯邦儲備委員會主席的宣誓儀式。據美媒報道，此次儀式並未按照慣例在美聯儲總部舉行，而是改在白宮。（CCTV國際時訊）"
-    },
-    {
-      "id": "te:markets:553172",
-      "time": "2026-05-23 00:02:40",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "European Stocks Close Sharply Higher — European equities closed firmly higher on Friday with support from the strong momentum for North American equities and a pullback in bond yields, improving the macroeconomic backdrop for the corporate sector. The Eurozone's STOXX 50 gained 3% to 6,025 and the pan-European STOXX 60 advanced 1.9% to 626, both testing their highest level since before the start of the war in Iran at the last session of February. AI infrastructure companies rallied as markets continued to gauge how much room there is for the sector to extend its strong momentum. Nokia surged 10.6% after announcing projects with AMD, Lenovo, and Supermicro. In turn, ASML jumped nearly 5%. Banks and industrial companies were also sharply higher, with Schneider, Airbus, Santander, and UniCredit adding over 2% each."
-    },
-    {
-      "id": "mkt:019e506b-cada-7224-83c2-66d78838bab3",
-      "time": "2026-05-23 00:01:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TRUMP: IRAN DYING TO MAKE A DEAL, WE'LL SEE WHAT HAPPENS"
-    },
-    {
-      "id": "4895589",
-      "time": "2026-05-23 00:01:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊朗渴望達成協議，我們拭目以待。"
-    },
-    {
-      "id": "mkt:019e506b-7869-7224-83c2-5bcd36b49bf9",
-      "time": "2026-05-23 00:01:16",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "WTI",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "TRUMP: IRAN IS DYING TO MAKE A DEAL"
-    },
-    {
-      "id": "mkt:019e506b-71b8-7224-83c2-55e9d3ef930f",
-      "time": "2026-05-23 00:01:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TRUMP: TOLD XI US HAS GREATEST MILITARY IN THE WORLD"
-    },
-    {
-      "id": "4895588",
-      "time": "2026-05-23 00:00:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：股市仍有大幅上行空間，相信沃什能夠做到 。"
-    },
-    {
-      "id": "mkt:019e506a-c6a1-7224-83c2-4b5c92aa83be",
-      "time": "2026-05-23 00:00:26",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "S&P500",
-        "Impact bullish",
-        "Nasdaq100",
-        "Dow"
-      ],
-      "text": "TRUMP: STOCK MARKET CAN DO MUCH BETTER, THINK WARSH WILL DO"
-    },
-    {
-      "id": "4895587",
-      "time": "2026-05-23 00:00:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：股市表現向好，說明沃什廣受認可。"
-    },
-    {
-      "id": "4895586",
-      "time": "2026-05-22 23:59:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：沃什將得到政府的全力支援。"
-    },
-    {
-      "id": "mkt:019e5069-f30d-7224-83c2-478c54876e05",
-      "time": "2026-05-22 23:59:25",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "S&P500",
-        "Impact bullish",
-        "Nasdaq100",
-        "Dow"
-      ],
-      "text": "TRUMP: STOCK MARKET IS UP, THAT MEANS THEY LIKE WARSH"
-    },
-    {
-      "id": "4895585",
-      "time": "2026-05-22 23:59:22",
-      "tags": [
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：沃什將縮減美聯儲前瞻性指引相關操作。"
-    },
-    {
-      "id": "mkt:019e5069-ef93-7224-83c2-3fa9223802ad",
-      "time": "2026-05-22 23:59:22",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "TRUMP: WARSH TO ACT ON FORWARD GUIDANCE"
     }
   ]
 }
