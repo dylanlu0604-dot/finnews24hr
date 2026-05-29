@@ -1,7 +1,188 @@
 {
-  "updated": "2026-05-29 08:59:36",
-  "count": 15376,
+  "updated": "2026-05-29 09:04:11",
+  "count": 15377,
   "items": [
+    {
+      "id": "4905794",
+      "time": "2026-05-29 09:02:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "菲律賓4月進口額較上年同期增長22.4%，出口額較上年同期增長6.3%。"
+    },
+    {
+      "id": "mkt:019e7141-18fb-7ee0-99df-0dd0a0911b39",
+      "time": "2026-05-29 09:02:32",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【VANCE: US, Iran close to preliminary understanding; details remain】Reports said U.S. and Iranian negotiators reached a preliminary understanding to extend a ceasefire by 60 days and begin talks on Iran’s nuclear file, but the memorandum awaits approval from President TRUMP. U.S. Vice President VANCE told media on May 28 negotiations are progressing but many details remain to be worked out. “Not done, but very close,” he said, adding any agreement must include verification mechanisms to ensure Iranian compliance."
+    },
+    {
+      "id": "mkt:019e7140-e77d-7ee0-99df-06d1dc312688",
+      "time": "2026-05-29 09:02:19",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bullish",
+        "Copper",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "【China Federation of Logistics & Purchasing: Jan–Apr instant retail transaction value +29.2% YoY】China Federation of Logistics & Purchasing reported Jan–Apr logistics data showing total logistics volume for enterprises and household goods rose 4.8% YoY. E‑commerce and online retail logistics demand continued to consolidate; instant retail and on‑demand delivery expanded rapidly, with instant retail transaction value up 29.2% YoY. Rapid digital consumption is lifting logistics demand for smart‑home systems and service robots. Logistics volume for imported goods rose 5.0% YoY in Jan–Apr; import flows show structural divergence, with staples and items for emerging industries strengthening supply‑chain support. Agricultural product import logistics grew strongly, helping to stabilise domestic market supply."
+    },
+    {
+      "id": "4905793",
+      "time": "2026-05-29 09:01:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國際物流需求穩步回暖，供應鏈保障能力持續增強】1—4月份，進口貨物物流總額同比增長5.0%，年內總體延續增長態勢。從貨類結構看，進口物流量呈現明顯的結構性分化，民生基礎和新興產業相關商品進口物流需求，對供應鏈的支撐作用進一步鞏固：農產品進口物流保持高速增長，有效保障國內市場供應穩定。"
+    },
+    {
+      "id": "4905792",
+      "time": "2026-05-29 09:01:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【諾誠健華奧布替尼治療原發免疫性血小板減少症的上市申請在中國獲受理】5月29日，諾誠健華宣佈，中國國家藥品監督管理局（NMPA）藥品審評中心（CDE）已受理布魯頓酪氨酸激酶（BTK）抑制劑奧布替尼用於治療原發免疫性血小板減少症（ITP）患者的上市申請（NDA）。這是奧布替尼首個自身免疫性疾病適應症上市申請獲受理。"
+    },
+    {
+      "id": "mkt:019e713f-eac5-7ee0-99de-fae253862de6",
+      "time": "2026-05-29 09:01:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Taiwan Weighted Index opened up 994.92 points (+2.28%) to 44,631.36 at the open on Friday, May 29."
+    },
+    {
+      "id": "mkt:019e713f-e682-7ee0-99de-f6e4dafadca4",
+      "time": "2026-05-29 09:01:12",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D opened 2.02% higher at 982.5 yuan/gram and silver T+D opened 3.21% higher at 18,332.0 yuan/kg in the morning session on Friday, May 29."
+    },
+    {
+      "id": "4905791",
+      "time": "2026-05-29 09:01:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【5月28日586股獲融資買入超億元 中際旭創穫買入55.99億元居首】5月28日共有3469只個股獲融資資金買入，有586股買入金額超億元。其中，中際旭創、兆易創新、中芯國際融資買入金額排名前三，分別獲買入55.99億元、50.32億元、37.15億元。"
+    },
+    {
+      "id": "mkt:019e713f-cd0d-7ee0-99de-efaf5840c1dd",
+      "time": "2026-05-29 09:01:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "FTSE China A50 futures opened 0.09% higher."
+    },
+    {
+      "id": "mkt:019e713f-be06-7ee0-99de-e265fd91130c",
+      "time": "2026-05-29 09:01:03",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Copper",
+        "Impact bullish",
+        "CNH",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "【China's social logistics volume tops 121 trillion yuan in Jan-Apr】China Federation of Logistics & Purchasing data show national social logistics volume was 121.7 trillion yuan in Jan-Apr, up 5.5% YoY. Industrial-goods logistics rose 5.6% YoY and accounted for 74% of the aggregate increase, remaining the sector's stabilizing core. Consumption-related logistics momentum improved and international logistics continued to recover. High-tech manufacturing-related logistics demand grew above 10% YoY."
+    },
+    {
+      "id": "4905790",
+      "time": "2026-05-29 09:00:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣證交所加權股價指數上漲2.1%至44,543.37點。"
+    },
+    {
+      "id": "mkt:019e713f-389c-7ee0-99de-d9dc970675fe",
+      "time": "2026-05-29 09:00:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "Industrial Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bullish",
+        "Copper",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "At the morning open, China’s main futures contracts were mostly higher: SHFE silver and tin rose more than 2%; 20# rubber, lithium carbonate and SHFE gold were up about 2%; PET chips, SHFE copper and LME copper gained over 1%. SC crude oil and low‑sulfur fuel oil (LU) fell more than 1%."
+    },
+    {
+      "id": "4905789",
+      "time": "2026-05-29 09:00:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣證交所加權股價指數開高0.4%報43,815.48。"
+    },
+    {
+      "id": "4905788",
+      "time": "2026-05-29 09:00:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【韌性增長、結構最佳化 今年前4個月我國社會物流總額超120萬億元】中國物流與採購聯合會今天（29日）公佈今年1—4月份物流執行資料。資料顯示，今年1—4月份，我國物流需求保持韌性增長，結構不斷最佳化。各細分領域均保持穩定增長，形成工業物流穩固託底、消費物流活力提升、國際物流持續回暖的協同發展格局。1—4月份，全國社會物流總額為121.7萬億元，同比增長5.5%。"
+    },
+    {
+      "id": "te:markets:554660",
+      "time": "2026-05-29 09:00:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "New Zealand Dollar Extends Gains — The New Zealand dollar climbed further to $0.594 on Friday, its highest level in over two weeks, supported by growing expectations of tighter monetary policy. Following a hawkish signal from the Reserve Bank of New Zealand, markets are now pricing in a 75% chance of a rate hike in July, with the cash rate expected to reach 3.0% by year-end. RBNZ Governor Anna Breman indicated that interest rates may need to increase as inflationary pressures build. On the data front, New Zealand’s consumer confidence improved in May, recovering partially from April's lows, although sentiment remains below the highs seen earlier in the year as households continue to face higher fuel costs and geopolitical uncertainty. The kiwi also benefited from improved risk appetite after reports that the US and Iran had reached a tentative agreement to extend a ceasefire. The currency has gained about 1.6% this week and is up roughly 0.7% for the month, on track for a second consecutive monthly advance."
+    },
+    {
+      "id": "4905787",
+      "time": "2026-05-29 09:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨開盤】錫連續漲2.38%，白銀連續漲2.29%，20號膠連續漲1.94%，碳酸鋰連續漲1.70%，黃金連續漲1.68%。"
+    },
+    {
+      "id": "4905786",
+      "time": "2026-05-29 09:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨開盤上漲0.06%。"
+    },
+    {
+      "id": "4905785",
+      "time": "2026-05-29 08:59:09",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【高盛：今年全球併購交易規模有望接近2021年的紀錄高位】高盛總裁沃爾德倫(John Waldron)週四表示，在企業活動推動下，今年併購交易規模有望接近2021年的紀錄水平。“我們有望接近、甚至打破2021年的紀錄。我們的待辦專案情況良好，交易活動依然強勁，”沃爾德倫在紐約的一場金融會議上表示。“有意思的是，這基本上是一個由企業主導的市場。”沃爾德倫表示，該行對首次公開發行(IPO)市場持樂觀態度，並稱一些大型IPO專案成功的可能性或將帶動更多交易。"
+    },
     {
       "id": "4905784",
       "time": "2026-05-29 08:58:35",
@@ -138383,166 +138564,6 @@
         "國際"
       ],
       "text": "菲律賓比索小幅上漲，據稱菲律賓央行正在考慮加息。"
-    },
-    {
-      "id": "4893843",
-      "time": "2026-05-22 09:04:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國國務卿魯比奧將於當地時間上午9:30在瑞典會見北約秘書長呂特；於當地時間下午1點30分會見瑞典首相。"
-    },
-    {
-      "id": "te:markets:552902",
-      "time": "2026-05-22 09:01:49",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Silver Holds Steady Amid US-Iran Uncertainty — Silver held above $76 an ounce on Friday and was on track to finish the week little changed, as conflicting signals surrounding US-Iran peace negotiations kept investors cautious over inflation risks and the outlook for interest rates. Tehran stated that the latest US proposal had partially bridged the gap between the two sides. However, reports that Iran’s Supreme Leader ordered the country’s enriched uranium stockpile to remain within its borders complicated negotiations, as dismantling Iran’s nuclear program remains a key US objective. Iran is also reportedly in talks with Oman on establishing a permanent toll system that would formalize its control over shipping traffic through the Strait of Hormuz, though President Donald Trump rejected the idea. Despite the recent stability, silver prices remain nearly 20% lower since the conflict began, amid concerns that an energy-driven inflation shock could prompt central banks to tighten monetary policy."
-    },
-    {
-      "id": "4893841",
-      "time": "2026-05-22 09:01:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【張江融資租賃首單業務落地】據浦東釋出，日前，上海張江融資租賃有限公司（下稱“張江租賃”）揭牌並實現首單業務落地，上海傅利葉智慧科技股份有限公司、上海仙工智慧科技股份有限公司、上海磐諾科學儀器有限公司三家硬科技企業，作為首批合作伙伴，正式向張江租賃交付首單裝置。此次“首單”聚焦具身智慧場景，三家企業各有明確應用方向：傅利葉專注於主動式互動智慧機器人技術的研發與商業化應用，其人形機器人後續將重點應用於康復場景，為醫療健康領域提供智慧化服務；仙工智慧聚焦“移動+輕操作”的工業和物流真實應用場景，產品後續將廣泛投入工業智慧化場景，助力製造業與倉儲業智慧化升級；磐諾儀器深耕高階科學儀器國產替代，將在實驗室的應用場景中，繼續加深與仙工智慧的合作，在實驗室試劑耗材、危化樣品轉運的場景中賦能更多行業客戶。"
-    },
-    {
-      "id": "4893840",
-      "time": "2026-05-22 09:01:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "【聚酯期貨板塊正式引入境外交易者 助力國內企業擴大出口  】經中國證監會批准，今天（5月22日），鄭州商品交易所聚酯期貨板塊全面引入境外交易者，涵蓋瓶片、對二甲苯、短纖期貨及期權、精對苯二甲酸期權等境內特定品種。 聚酯是石油化工、紡織服裝、飲料包裝等行業的重要原材料，與百姓的衣食住行和民生保障緊密相關。我國是全球聚酯產銷第一大國，此次對外開放將更好幫助國內相關企業擴大出口，同時，有效推動“中國價格”成為全球聚酯貿易的重要定價基準。"
-    },
-    {
-      "id": "4893839",
-      "time": "2026-05-22 09:01:07",
-      "tags": [],
-      "text": "國內期貨主力合約多數下跌。跌幅方面，合成橡膠跌超3％，棕櫚油、瓶片、多晶矽、焦煤跌超2％，PVC、20號膠、碳酸鋰、焦炭、原油跌超1％。漲幅方面，歐線集運漲超4％，生豬、鈀漲超1％。"
-    },
-    {
-      "id": "4893838",
-      "time": "2026-05-22 09:00:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄外交部：伊朗擁有和平發展核能的固有權利】俄羅斯外交部發言人扎哈羅娃21日表示，伊朗擁有依據《不擴散核武器條約》和平發展核能的固有權利，如何在鈾濃縮和處理現有核材料等方面行使這一權利，只能由伊朗人民決定。 據俄外交部網站訊息，扎哈羅娃當天在例行記者會上說，俄羅斯願向伊朗和美國提供必要支援，以落實其在談判中可能達成的解決方案。俄方相信，伊核問題只能依據國際法，在對伊朗合法權益予以應有考量的情況下，透過政治和外交途徑解決。 扎哈羅娃說，軍事打擊伊朗違反國際法和國際關係基本準則，嚴重破壞中東地區穩定，並對國際諸多領域產生極為負面的影響。她表示，衝突各方須儘快恢復對話和談判以防衝突區域擴大，國際社會應保持客觀公正立場，推動緊張局勢降級，共同維護國際關係基本準則。 美國總統特朗普21日在白宮對媒體說，伊朗必須交出其擁有的高丰度濃縮鈾，美國拿到後很可能會將其銷燬。據外媒21日援引伊朗訊息人士的話報道，伊朗最高領袖穆傑塔巴·哈梅內伊已下達指令，要求該國濃縮鈾庫存不得運往國外。(新華社)"
-    },
-    {
-      "id": "mkt:019e4d33-2164-7aa1-9582-407ae5511de1",
-      "time": "2026-05-22 09:00:56",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "CNH",
-        "Hang Seng Index"
-      ],
-      "text": "FTSE CHINA A50 FUTURES OPEN UP 0.74%"
-    },
-    {
-      "id": "4893837",
-      "time": "2026-05-22 09:00:37",
-      "tags": [
-        "市場"
-      ],
-      "text": "臺灣證交所加權股價指數上漲1.1%至41,836.98點。"
-    },
-    {
-      "id": "4893836",
-      "time": "2026-05-22 09:00:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "臺灣證交所加權股價指數開高0.2%報41,447.92。"
-    },
-    {
-      "id": "4893835",
-      "time": "2026-05-22 09:00:24",
-      "tags": [
-        "市場"
-      ],
-      "text": "聚酯期貨板塊正式引入境外交易者，助力國內企業擴大出口 。"
-    },
-    {
-      "id": "mkt:019e4d32-8982-7aa1-9582-3a0ef1f515ee",
-      "time": "2026-05-22 09:00:18",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact mixed",
-        "DXY"
-      ],
-      "text": "YIELD ON 40-YEAR JGB FALLS 3 BPS TO 4.21%"
-    },
-    {
-      "id": "4893834",
-      "time": "2026-05-22 09:00:15",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "集運指數歐線期貨連續主力合約日內漲6%，現報3078.00點。"
-    },
-    {
-      "id": "4893833",
-      "time": "2026-05-22 09:00:14",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "集運指數歐線期貨連續主力合約日內漲5%，現報3065.50點。"
-    },
-    {
-      "id": "mkt:019e4d32-6139-7aa1-9582-348059b3e95e",
-      "time": "2026-05-22 09:00:07",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Hot",
-        "Market Regions",
-        "Greater China",
-        "Policy",
-        "Chinese Policy & Markets",
-        "CSI300",
-        "Impact bearish"
-      ],
-      "text": "【China’s \"National Team\" Poised to Cut Domestic ETF Stakes by 90% in 1H 2026】China’s \"National Team\" of state-backed investors is poised to cut its domestic equity ETF holdings by about 90% in the first half of 2026, according to calculation. Led by Central Huijin Investment Ltd., the group has already offloaded around $170 billion worth of these ETFs this year, which includes $30 billion sold since the beginning of April. This continued selling activity is aimed at tempering perceived market froth, and while it has placed downward pressure on the benchmark CSI 300 Index, the sales have successfully reduced the group's stakes in multiple ETFs below the 20% disclosure threshold. Analysts note this reduction minimizes future selling pressure and keeps their actions hidden from upcoming 1H filings. Despite the massive ETF redemptions, broader market liquidity and resilience remain strong, buoyed by an influx of retail investor account openings, increased non-bank institutional deposits, and net buying from overseas investors."
-    },
-    {
-      "id": "4893832",
-      "time": "2026-05-22 09:00:06",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "集運指數歐線期貨連續主力合約日內漲4%，現報3018.50點。"
-    },
-    {
-      "id": "4893831",
-      "time": "2026-05-22 09:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時中國A50指數期貨開盤上漲0.78%。"
-    },
-    {
-      "id": "4893830",
-      "time": "2026-05-22 09:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【商品期貨開盤】集運指數歐線期貨連續漲4.31%，丁二烯橡膠連續跌2.92%，焦煤連續跌2.90%，瓶片連續跌2.80%，纖維板連續漲2.53%。"
     }
   ]
 }
