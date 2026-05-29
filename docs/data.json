@@ -1,7 +1,42 @@
 {
-  "updated": "2026-05-30 03:00:51",
-  "count": 15823,
+  "updated": "2026-05-30 03:04:32",
+  "count": 15824,
   "items": [
+    {
+      "id": "mkt:019e751f-4525-7bb7-9965-9d44613cd8aa",
+      "time": "2026-05-30 03:04:03",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Hang Seng Index futures rose 0.44% in the night session to 25,098, closing at an 84-point discount to the cash index."
+    },
+    {
+      "id": "4907707",
+      "time": "2026-05-30 03:03:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大總理辦公室釋出總理與利奧教皇通話紀要。"
+    },
+    {
+      "id": "4907706",
+      "time": "2026-05-30 03:01:05",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國農業部資料：4 月農業投入品價格同比上漲 9.8%；農產品銷售價格同比下降 1.8%。"
+    },
+    {
+      "id": "4907705",
+      "time": "2026-05-30 03:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收漲0.48%，報25109.88點，低水72.51點。"
+    },
     {
       "id": "mkt:019e7516-ead1-7bb7-9965-908f14a6b116",
       "time": "2026-05-30 02:54:51",
@@ -143258,32 +143293,6 @@
         "DXY"
       ],
       "text": "US SOURCE TO CHANNEL 12 NEWS: TRUMP IS FRUSTRATED, HE MAY MAKE A DECISION ON \"DECISIVE ACTION\" AGAINST IRAN"
-    },
-    {
-      "id": "4895688",
-      "time": "2026-05-23 03:04:11",
-      "tags": [
-        "市場"
-      ],
-      "text": "在岸人民幣兌美元（CNY）北京時間03:00收報6.7978元，較週四夜盤收盤跌18點。成交量466.56億美元。"
-    },
-    {
-      "id": "mkt:019e510f-e7de-788e-b251-f1019d9075f7",
-      "time": "2026-05-23 03:00:57",
-      "tags": [
-        "MKT News",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "FOREIGN INVESTORS IN LATEST BIWEEKLY REPORTING PERIOD BUY $5.629 BLN 3-YEAR NOTE DUE 05/15/2029 VS $6.834 BLN PRIOR MONTH - U.S. TREASURY INVESTMENT FUNDS IN LATEST BIWEEKLY REPORTING PERIOD BUY $18.340 BLN 30-YEAR BOND DUE 05/15/2056 VS $16.415 BLN PRIOR MONTH - U.S. TREASURY INVESTMENT FUNDS IN LATEST BIWEEKLY REPORTING PERIOD BUY $29.332 BLN 10-YEAR NOTE DUE 05/15/2036 VS $28.103 BLN PRIOR MONTH - U.S. TREASURY"
-    },
-    {
-      "id": "4895687",
-      "time": "2026-05-23 03:00:51",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒生指數主連夜盤收跌0.49%，報25430點。恒生科技指數主連夜盤收跌0.74%，報4824點。"
     }
   ]
 }
