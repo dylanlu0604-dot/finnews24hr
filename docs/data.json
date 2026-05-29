@@ -1,7 +1,69 @@
 {
-  "updated": "2026-05-29 08:24:45",
-  "count": 15358,
+  "updated": "2026-05-29 08:28:34",
+  "count": 15360,
   "items": [
+    {
+      "id": "mkt:019e7121-3fe6-7ee0-99de-8d6ee85eb567",
+      "time": "2026-05-29 08:27:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "WTI and Brent crude both fell more than 1% intraday, trading at $90.13/bbl and $91.47/bbl respectively."
+    },
+    {
+      "id": "te:markets:554656",
+      "time": "2026-05-29 08:26:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Japan Signals Readiness to Act Against Yen Volatility — Japan’s Finance Minister Satsuki Katayama said Friday that authorities are prepared to act against excessive volatility in the foreign exchange market, reaffirming the government’s readiness to intervene if needed as the yen weakened toward the closely watched 160-per-dollar level. “As I have said for quite some time, when there is volatility or speculative movement, we can take decisive action,” Katayama told a regular press conference. Markets are also awaiting fresh intervention data from Japan’s finance ministry, due later Friday, which will cover currency operations conducted since late April."
+    },
+    {
+      "id": "4905743",
+      "time": "2026-05-29 08:25:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "羅馬尼亞廣播電臺稱，該公寓樓受損嚴重，有兩人受輕傷。"
+    },
+    {
+      "id": "4905742",
+      "time": "2026-05-29 08:25:28",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【三星電子率先交付HBM4E樣品 在AI儲存晶片競爭中搶佔先機】三星電子稱已開始向客戶交付業內最先進的12層HBM4E樣品，在人工智慧(AI)儲存晶片競爭中搶佔先機。這家韓國最大企業表示，這款12層HBM4E為48GB容量型，較上一代產品提升超過30%。三星今年2月啟動HBM4量產，這一里程碑凸顯出高頻寬記憶體市場的開發進度之快。HBM晶片透過將多層DRAM垂直堆疊，在顯著提升資料傳輸速度的同時降低功耗，已成為AI處理器的關鍵元件。隨著AI基礎設施投資快速增加，市場對速度更快、能效更高的儲存晶片需求持續激增，各大記憶體廠商正在競相爭取未來AI系統的訂單。三星率先推進12層HBM4，可能有助於增強其對SK海力士等競爭對手的優勢。SK海力士4月表示，目標是在2027年實現HBM4E量產，並於今年下半年向客戶提供HBM4E樣品。"
+    },
+    {
+      "id": "mkt:019e711f-10fa-7ee0-99de-83cbdefb57ad",
+      "time": "2026-05-29 08:25:21",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Chair of an Iranian parliamentary committee said Iran has established permanent control over shipping activity in the Strait of Hormuz, not a temporary measure."
+    },
+    {
+      "id": "4905741",
+      "time": "2026-05-29 08:24:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "【全球最大的白銀ETF iShares Silver Trust持倉量較前日持平】截至2026年05月28日，全球最大的白銀ETF iShares Silver Trust持倉量為15177.78噸，較前一個交易日持平。"
+    },
     {
       "id": "4905740",
       "time": "2026-05-29 08:22:53",
@@ -138341,40 +138403,6 @@
         "觀點"
       ],
       "text": "【花旗銀行預測：小米YU7 GT車型月銷量可能破萬】花旗集團表示，小米新款 YU7 GT 機型具有“極具吸引力的價值主張”，月銷量很容易超過 1 萬臺。花旗集團分析師Jeff Chung 寫道：“如果沒有產能限制，我們相信整個YU7+YU7 GT系列產品每月銷量有望達到約4萬臺。” 隨著七月起產能逐步提升，市場對小米電動車業務的關注點，或將從需求端轉向供給產能瓶頸問題。"
-    },
-    {
-      "id": "4893796",
-      "time": "2026-05-22 08:26:59",
-      "tags": [
-        "觀點"
-      ],
-      "text": "花旗：小米YU7 GT車型月銷量有望破萬。"
-    },
-    {
-      "id": "4893795",
-      "time": "2026-05-22 08:26:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【機構：谷歌Android XR智慧眼鏡今年銷量有望達200萬臺】據Smart Analytics Global機構測算，谷歌即將推出的Android XR眼鏡，包含Warby Parker和Gentle Monster兩大品牌聯名款式，2026年銷量有望達到200萬臺。"
-    },
-    {
-      "id": "4893794",
-      "time": "2026-05-22 08:26:26",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油突破98美元/桶，日內漲1.71%。"
-    },
-    {
-      "id": "4893793",
-      "time": "2026-05-22 08:24:56",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【摩根士丹利：IPO熱潮與成交放量有望重塑中國券商估值】摩根士丹利表示，隨著A股IPO募資回暖、市場成交額走高，國內券商板塊估值具備重估空間。分析師ChiyaoHuang等在研報中指出，未來6至12個月，A股IPO市場有望迎來強勢復甦，預計12個月內募資規模可達2500億至3000億元。儲存、晶片、新能源及機器人行業新股，預計將獲得二級市場資金青睞。該機構預測2026年A股日均成交額將達2.25萬億元，並維持對中金公司H股、中信證券A股的增持評級。"
     }
   ]
 }
