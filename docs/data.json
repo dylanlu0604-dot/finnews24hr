@@ -1,7 +1,119 @@
 {
-  "updated": "2026-05-29 09:04:11",
-  "count": 15377,
+  "updated": "2026-05-29 09:08:01",
+  "count": 15385,
   "items": [
+    {
+      "id": "4905801",
+      "time": "2026-05-29 09:07:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐西蘭儲備銀行行長佈雷曼：全球經濟前景仍不確定，供應鏈中斷與投入成本高企正對經濟展望構成壓力。"
+    },
+    {
+      "id": "4905800",
+      "time": "2026-05-29 09:06:21",
+      "tags": [
+        "資料"
+      ],
+      "text": "紐西蘭儲備銀行行長佈雷曼：總體而言，官方現金利率可能會上升。"
+    },
+    {
+      "id": "4905799",
+      "time": "2026-05-29 09:06:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐西蘭儲備銀行行長佈雷曼：通脹前景仍存在不確定性。"
+    },
+    {
+      "id": "mkt:019e7143-efdf-7ee0-99df-25d0a9e2fa4e",
+      "time": "2026-05-29 09:05:38",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China Tech Giants",
+        "AI Revolution"
+      ],
+      "text": "【Huawei launches Xinghe AI data‑centre network; says token throughput up 2–5x, bandwidth 8x】Huawei unveiled its Xinghe AI data‑centre network solution, saying NPU-to-storage direct paths and coordinated compute-storage-network design boost transmission bandwidth eightfold and token throughput 2–5×. The company also released token‑centric commercial and distribution solutions and 45 new Kunling networking products."
+    },
+    {
+      "id": "te:markets:554662",
+      "time": "2026-05-29 09:05:37",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Holds Rebound — Silver steadied near $76 an ounce on Friday after recovering in the previous session, as reports of a preliminary agreement between the US and Iran eased concerns over inflation and interest rates. Washington and Tehran are reportedly set to extend their ceasefire by 60 days and begin talks over Iran’s nuclear program, while also considering unrestricted shipping through the Strait of Hormuz. Still, the report noted that President Donald Trump has not yet approved the proposed terms, while Vice President JD Vance said it remains too early to determine whether or when a deal with Iran could be finalized. Silver has faced strong selling pressure since late February as the surge in oil prices triggered by the Iran conflict fueled inflation worries and strengthened expectations for tighter monetary policy. Meanwhile, the US Federal Reserve is widely expected to keep interest rates unchanged this year, although policymakers continue to warn about persistent inflation risks."
+    },
+    {
+      "id": "mkt:019e7143-8759-7ee0-99df-1a0c83654ea0",
+      "time": "2026-05-29 09:05:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The regional governor said Russia's Yaroslavl region was hit by a drone attack."
+    },
+    {
+      "id": "4905798",
+      "time": "2026-05-29 09:05:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯雅羅斯拉夫爾州州長稱該地區遭無人機襲擊。"
+    },
+    {
+      "id": "4905797",
+      "time": "2026-05-29 09:04:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【華為推出星河AI資料中心網路方案 Token生產效率提升2~5倍】華為推出星河AI資料中心網路方案，依託網算存協同能力，NPU與儲存直通使傳輸頻寬提升8倍，Token生產效率提升2~5倍。此外，華為還面向商業與分銷市場釋出以Token為中心的系列解決方案及45款華為坤靈數通新品。"
+    },
+    {
+      "id": "4905796",
+      "time": "2026-05-29 09:04:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美墨啟動USMCA修訂談判，美國尋求強化汽車和鋼鐵原產地規則】美國和墨西哥談判代表週四啟動修訂北美貿易協定的正式談判。華盛頓方面要求實施更嚴格的區域原產地規則，其中包括對在墨西哥生產的汽車和卡車設定美國特定最低含量標準。兩位瞭解美國談判立場的訊息人士稱，這一新標準已被寫入擬議的《美墨加協定》(USMCA)修訂文字中。雖然美國貿易代表辦公室要求的美國汽車零部件含量具體比例尚未立即公佈，但與現行《美墨加協定》中關於享受北美市場優惠准入的含量要求相比，這一調整變化較大。美國貿易代表辦公室週三表示，美國和墨西哥將加拿大排除在當前談判之外，計劃在7月底前舉行三輪雙邊磋商，其中包括在墨西哥城舉行、將於週五結束的本輪談判。"
+    },
+    {
+      "id": "mkt:019e7142-6463-7ee0-99df-131b8960b3f3",
+      "time": "2026-05-29 09:03:51",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "ANET.O",
+        "Impact bullish",
+        "CSCO.O",
+        "HPE.O"
+      ],
+      "text": "【GF Securities: Liquid-cooled switches and optical modules to see strong incremental demand from network layer】GF Securities says the liquid-cooling market is expanding and concentrating among market leaders. Data centers remain the primary deployment; rapid growth in AI/compute centers is driving significant incremental demand for liquid-cooled switches and liquid-cooled optical modules in the network-transmission layer. Recommend monitoring two pockets of exposure: integrated system/server OEMs offering end-to-end solutions and suppliers of core equipment and components."
+    },
+    {
+      "id": "te:markets:554661",
+      "time": "2026-05-29 09:03:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Japanese Shares Rise on US-Iran Optimism — The Nikkei 225 Index surged 1.6% to above 65,700 while the broader Topix Index climbed 1% to 3,942 on Friday, as Japanese equities resumed their rally toward fresh record highs after reports that the US and Iran had reached a temporary agreement to extend their ceasefire by 60 days and begin negotiations over Tehran’s nuclear program. The report also pointed to a possible resumption of unrestricted shipments through the Strait of Hormuz, driving energy prices lower and easing concerns for oil-importing economies such as Japan. On the domestic front, data showed Japan’s retail sales expanded at the fastest pace in a year, while industrial production unexpectedly increased. Among notable gainers, Kioxia rose 2%, SoftBank Group jumped 6.2%, Murata Manufacturing advanced 6.9%, Taiyo Yuden gained 5.8%, and Ibiden Co climbed 4.2%. The Nikkei and Topix indexes remain on track to post monthly gains of more than 10% and 5%, respectively."
+    },
+    {
+      "id": "4905795",
+      "time": "2026-05-29 09:03:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣發證券：網路傳輸環節的液冷交換機、液冷光模組迎來大量新增需求】廣發證券研報認為，液冷行業整體規模持續擴容，應用場景不斷拓寬，市場份額也逐步向頭部企業集中。資料中心是液冷最主要的落地場景，伴隨智算中心快速發展，網路傳輸環節的液冷交換機、液冷光模組也迎來大量新增需求。後續建議關注兩大方向：整線方案/伺服器整機供應商和關鍵裝置核心供應商。"
+    },
     {
       "id": "4905794",
       "time": "2026-05-29 09:02:35",
@@ -138524,46 +138636,6 @@
         "公司"
       ],
       "text": "【高樂股份成立智辰科技公司 含AI及半導體相關業務】企查查APP顯示，近日，哈爾濱智辰科技有限公司成立，經營範圍包含人工智慧基礎軟體開發；軟體銷售；半導體分立器件銷售；積體電路銷售；光電子器件銷售等。企查查股權穿透顯示，該公司由高樂股份全資持股。"
-    },
-    {
-      "id": "mkt:019e4d39-35e4-7aa1-9582-5d171be12660",
-      "time": "2026-05-22 09:07:35",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "NIKKEI 225 INDEX EXTENDS GAINS TO 2.0%"
-    },
-    {
-      "id": "mkt:019e4d38-b7bf-7aa1-9582-563a2c95a51c",
-      "time": "2026-05-22 09:07:03",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "JAPAN FOREIGN MINISTER MOTEGI TO ATTEND QUAD FOREIGN MINISTERS MEETING IN INDIA ON MAY 26, JAPAN GOVERNMENT SAYS"
-    },
-    {
-      "id": "mkt:019e4d38-95a6-7aa1-9582-4dc1fbc56a5c",
-      "time": "2026-05-22 09:06:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CHINA'S MOST ACTIVE COKING COAL FUTURES FELL OVER 3%"
-    },
-    {
-      "id": "4893844",
-      "time": "2026-05-22 09:05:05",
-      "tags": [
-        "央行",
-        "市場",
-        "國際"
-      ],
-      "text": "菲律賓比索小幅上漲，據稱菲律賓央行正在考慮加息。"
     }
   ]
 }
