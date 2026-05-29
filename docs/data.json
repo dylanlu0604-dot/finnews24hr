@@ -1,7 +1,229 @@
 {
-  "updated": "2026-05-29 14:43:43",
-  "count": 15549,
+  "updated": "2026-05-29 14:48:02",
+  "count": 15564,
   "items": [
+    {
+      "id": "mkt:019e727c-5947-711c-8b41-387c0347b368",
+      "time": "2026-05-29 14:46:43",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "France | GDP Rate Final (YoY) (Q1) | actual 0.9% | consensus 1.10% | previous 1.10%"
+    },
+    {
+      "id": "mkt:019e727c-56f2-711c-8b41-2bba7e2eaff9",
+      "time": "2026-05-29 14:46:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "France May preliminary CPI YoY 2.4% vs 2.5% expected; prior 2.2%."
+    },
+    {
+      "id": "mkt:019e727c-550e-711c-8b41-269432a35d75",
+      "time": "2026-05-29 14:46:36",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "France May CPI preliminary MoM +0.1% (consensus +0.3%), prior +1.0%."
+    },
+    {
+      "id": "4906347",
+      "time": "2026-05-29 14:46:29",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "玻璃連續主力合約日內漲2%，現報1059.00元。"
+    },
+    {
+      "id": "4906346",
+      "time": "2026-05-29 14:46:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【I.T 集團拿下潮牌Off-White中國大陸及港澳臺地區獨家經銷權】香港時尚零售商I.T 集團獲 Off-White官方授權，自 2026 春夏系列起，成為該品牌在中國大陸及港澳臺地區的獨家經銷商，全面負責其在該區域的業務發展及運營管理。Off-White由曾任路易威登男裝創意總監的Virgil Abloh創立，曾在LVMH集團的支援下快速發展，後因創始人去世及品牌戰略調整，於2022年被LVMH集團出售。I.T 集團為買手製零售商，Off-White已進入其線上線下的集合店銷售。I.T 集團還為Off-White開設獨立品牌門店，最新一家日前在香港利園Lee Gardens開業。"
+    },
+    {
+      "id": "4906345",
+      "time": "2026-05-29 14:46:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超3.1萬億元，較上日此時放量3016億元。"
+    },
+    {
+      "id": "mkt:019e727b-e1bf-711c-8b41-1eb94deca219",
+      "time": "2026-05-29 14:46:14",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "【Former BOJ board member says June rate hike crucial or policy will lag inflation】Former Bank of Japan policy board member Sakurai, who served 2016–21, said the BOJ is likely to raise rates next month and that the meeting will determine whether policymakers avoid falling behind inflation. He warned that failing to hike risks missing a tightening window and, given sustained uncertainty from the Iran conflict, could force an indefinite delay of further increases. The yen is trading near levels seen during last month’s official intervention, raising the risk that higher import costs will push inflation up. Tokyo CPI, a BOJ focus, rose 1.3% YoY in May—below forecasts and the smallest gain in four years—largely due to a temporary Tokyo water-bill cut; Sakurai called the print a technical distortion and said core inflation could reaccelerate later this year. Political risk remains: Sanae Takaichi is viewed as a potential restraint on tightening, but Sakurai said Bessent’s recent visit, which signaled broad support for further hikes, may allow political actors to defer to the BOJ’s judgment."
+    },
+    {
+      "id": "4906344",
+      "time": "2026-05-29 14:46:12",
+      "tags": [
+        "資料",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【能源成本加劇，法國通脹率升至逾兩年高點】受伊朗戰事影響，能源價格持續上漲，導致法國本月通脹率攀升至兩年多來的最高水平，這讓歐洲央行料將在6月會議上進行自2023年以來的首次加息。去年底之前，歐元區幾大主要經濟體的同比通脹率一直呈下降趨勢，法國1月份的同比通脹率曾降至0.4%。然而，在霍爾木茲海峽被關閉導致石油和天然氣價格走高後，3月份通脹率大幅攀升。根據法國國家統計及經濟研究局(Insee)週五公佈的歐盟調和資料，法國5月份消費者物價同比上漲2.8%，同比通脹率較4月份的2.5%有所加快。這是自2024年2月以來的最高水平，使其進一步偏離歐洲央行2%的目標。Insee表示，同比能源通脹率從4月份的14.3%升至16.8%，同時服務價格漲幅略有加快。在物價加速上漲之前，Insee的消費者信心指數在5月份降至三年低點，法國的商業景氣度也出現下滑。"
+    },
+    {
+      "id": "mkt:019e727b-7d1f-711c-8b41-1599585e712f",
+      "time": "2026-05-29 14:45:47",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "France April household consumption expenditure YoY -0.4% (est -0.3%; prior 0.5%)."
+    },
+    {
+      "id": "mkt:019e727b-54bd-711c-8b41-0fb6e6e903e8",
+      "time": "2026-05-29 14:45:39",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "France | Household Consumption Spending (YoY) (Apr) | actual -0.4% | consensus -0.30% | previous 0.50%"
+    },
+    {
+      "id": "4906343",
+      "time": "2026-05-29 14:45:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【第六次參加智博會，楊元慶：聯想算是地道“天津人”】5月28日下午訊息，於天津舉辦的2026世界智慧產業博覽會（簡稱：智博會）上，聯想第六次參加智博會，聯想集團董事長兼CEO楊元慶出席開幕式並分享指出，“聯想算是地道的天津人，驀然回首在這已經落地發展超過10週年，2015年在京津冀協同發展的戰略指引下，聯想將天津確立為北京之外的重要戰略支點，我們制定了一個總部、兩個園區、四個中心的發展戰略，十年間聯想在天津的發展連續登上了新臺階，已經實現了三個‘千人百億’計劃，且每次都提前超額達成。”（新浪科技）"
+    },
+    {
+      "id": "te:economy:554787",
+      "time": "2026-05-29 14:45:21",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Hungary",
+        "Producer Prices Change",
+        "Importance 1"
+      ],
+      "text": "Hungary Producer Inflation Slows in April — Producer prices in Hungary increased by 0.3% year-on-year in April 2026, easing from a 1.2% rise in the previous month. Prices declined in non-domestic output (-0.5% vs 1.3% in March), while domestic output prices rose (2.2% vs 1.2%). By sector, manufacturing costs fell further (-1.1% vs -0.2%), particularly in transport equipment, machinery and equipment, electrical equipment, and food products, beverages and tobacco products. Costs also moderated in electricity, gas, steam and air conditioning supply (8% vs 8.4%), as well as in water collection, treatment, and supply (2.2% vs 4.1%). In contrast, price growth continued in mining and quarrying (1.4% vs 0.1%). On a monthly basis, producer prices declined by 1.3% in April after a 3.9% increase in the prior period."
+    },
+    {
+      "id": "4906342",
+      "time": "2026-05-29 14:45:10",
+      "tags": [
+        "資料"
+      ],
+      "text": "法國4月家庭消費支出月率 -0.5%，預期-0.1%，前值由0.70%修正為0.9%。法國第一季度GDP季率終值 -0.1%，預期0.00%，前值0.00%。法國5月調和CPI年率初值 2.8%，預期2.90%，前值2.50%。"
+    },
+    {
+      "id": "mkt:019e727a-e70d-711c-8b41-0626fdb53084",
+      "time": "2026-05-29 14:45:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "France April household consumption expenditure MoM -0.5% (expected -0.1%); March revised to 0.9% from 0.7%."
+    },
+    {
+      "id": "mkt:019e727a-e702-711c-8b40-fd4cf41097b3",
+      "time": "2026-05-29 14:45:08",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "France Q1 GDP final QoQ -0.1% vs expected 0.0%; previously 0.0%."
+    },
+    {
+      "id": "mkt:019e727a-e702-711c-8b40-f0691901fb65",
+      "time": "2026-05-29 14:45:08",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "France May harmonized CPI (HICP) preliminary YoY 2.8% vs 2.9% expected; April 2.5%."
+    },
+    {
+      "id": "4906341",
+      "time": "2026-05-29 14:45:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達6.03%，成分股中，芯聯整合跌11.25%，滬矽產業跌10.88%，天嶽先進跌10.72%，中芯國際跌9.42%。"
+    },
+    {
+      "id": "mkt:019e727a-b73a-711c-8b40-ee456e5ae75d",
+      "time": "2026-05-29 14:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "France | GDP Rate Final (QoQ) (Q1) | actual -0.1% | consensus 0.00% | previous 0.00%"
+    },
+    {
+      "id": "mkt:019e727a-a4bc-711c-8b40-e248f74c6cfa",
+      "time": "2026-05-29 14:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "France | Household Consumption Spending (MoM) (Apr) | actual -0.5% | consensus -0.1% | previous 0.70%"
+    },
+    {
+      "id": "mkt:019e727a-8471-711c-8b40-dcb1beec861a",
+      "time": "2026-05-29 14:44:52",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "601238.SS",
+        "Impact bullish"
+      ],
+      "text": "【QiJing launches pre-sale for first model GT7】May 29 — QiJing opened pre-sales for its first model, the GT7. The car, produced through deep technical integration between Huawei’s QianKun unit and GAC, is equipped with Huawei’s next‑generation dual‑optical‑path image‑grade lidar, QianKun ADS 5 intelligent driving system, a HarmonyOS cockpit, and the QianKun Chitu platform."
+    },
+    {
+      "id": "4906340",
+      "time": "2026-05-29 14:44:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【啟境品牌首款車型啟境GT7正式開啟預售】5月29日，啟境品牌首款車型啟境GT7正式開啟預售，該車為華為乾崑與廣汽全棧技術深度融合的產品，搭載華為新一代雙光路影象級鐳射雷達、華為乾崑智駕ADS 5、鴻蒙座艙體系、華為乾崑赤兔平臺等。"
+    },
+    {
+      "id": "4906339",
+      "time": "2026-05-29 14:43:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【智利等五國計劃合作打擊跨國有組織犯罪】智利、阿根廷、秘魯、玻利維亞和厄瓜多五國政府代表28日在智利首都聖地亞哥出席由智外交部主辦的高階別安全會議，並共同簽署一份檔案，約定加強地區協同，合作打擊跨國有組織犯罪。當天簽署的檔名為《聖地亞哥打擊跨國有組織犯罪區域承諾書》。根據智外交部發布的承諾書文字，各方決定成立由相關主管機構組成的工作組，制定聯合行動計劃，重點推進安全、金融與稅務情報、移民與邊境管控等領域合作。（新華社）"
+    },
     {
       "id": "mkt:019e7277-0101-711c-8b40-d718af23b14a",
       "time": "2026-05-29 14:41:02",
@@ -140234,72 +140456,6 @@
         "公司"
       ],
       "text": "【罕見病明星藥因死亡病例或遭美國撤市，安進中國回應：國內尚未商業化，未有患者接受治療】近期，因肝損傷相關死亡病例，美國安進公司的罕見病治療藥物阿伐可泮膠囊（中文商品名：特福尼，英文商品名：Tavneos）被美國監管部門提議撤銷上市批准，而該藥此前也在中國市場獲批。5月22日，安進中國表示，在中國，阿伐可泮膠囊已於2024年11月獲得中國國家藥品監督管理局（NMPA）批准，但尚未商業化上市，截至目前中國尚無患者接受特福尼治療。（澎湃新聞）"
-    },
-    {
-      "id": "4894376",
-      "time": "2026-05-22 14:47:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：俄羅斯聯邦安全域性（FSB）表示，挫敗了烏克蘭特工針對克拉斯諾達爾地區一處能源設施發動的“恐怖襲擊”。"
-    },
-    {
-      "id": "mkt:019e4e70-62ba-7cc0-a021-f294b63f6bff",
-      "time": "2026-05-22 14:47:28",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "RUSSIA'S FSB SAYS IT THWARTED \"TERRORIST ATTACK\" BY UKRAINIAN AGENT ON ENERGY FACILITY IN KRASNODAR REGION - RIA"
-    },
-    {
-      "id": "4894375",
-      "time": "2026-05-22 14:45:20",
-      "tags": [
-        "公司",
-        "其他"
-      ],
-      "text": "【匯宇製藥等新設生物醫療創投基金】企查查APP顯示，近日，成都匯宇曉池生物醫療創業投資合夥企業（有限合夥）成立，經營範圍包含以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該企業由匯宇製藥等共同出資。"
-    },
-    {
-      "id": "4894374",
-      "time": "2026-05-22 14:45:12",
-      "tags": [
-        "資料"
-      ],
-      "text": "法國5月INSEE商業信心指數 94，預期 94，前值 94。\n法國5月INSEE製造業信心指數 102，預期 99，前值 100。"
-    },
-    {
-      "id": "mkt:019e4e6e-1f85-7cc0-a021-e769d101c30c",
-      "time": "2026-05-22 14:45:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "France | INSEE Manufacturing Confidence Index (May) | actual 102 | consensus 100 | previous 100"
-    },
-    {
-      "id": "mkt:019e4e6e-1f86-7cc0-a021-e9093f9fc995",
-      "time": "2026-05-22 14:45:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "France | INSEE Business Confidence (May) | actual 94 | consensus 94 | previous 94"
-    },
-    {
-      "id": "4894373",
-      "time": "2026-05-22 14:43:47",
-      "tags": [
-        "其他",
-        "焦點",
-        "A股"
-      ],
-      "text": "【中際旭創成交額達200億元】5月22日下午，中際旭創成交額達200億元，現漲4.45%。"
     }
   ]
 }
