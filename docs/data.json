@@ -1,7 +1,111 @@
 {
-  "updated": "2026-05-29 10:09:20",
-  "count": 15382,
+  "updated": "2026-05-29 10:13:19",
+  "count": 15384,
   "items": [
+    {
+      "id": "4905940",
+      "time": "2026-05-29 10:12:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山：將繼續執行適當的債務管理政策。"
+    },
+    {
+      "id": "4905939",
+      "time": "2026-05-29 10:12:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "【電力板塊持續走高，華能蒙電漲停】電力板塊持續走高，華能蒙電、晉控電力、深南電A漲停，華電遼能、廣西能源、大唐發電、浙能電力跟漲。"
+    },
+    {
+      "id": "4905938",
+      "time": "2026-05-29 10:11:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內跌幅達2.07%，成分股中，諾思蘭德跌14.23%，戈碧迦跌7.85%，奧迪威跌4.73%，天力複合跌4.58%。"
+    },
+    {
+      "id": "te:economy:554687",
+      "time": "2026-05-29 10:11:26",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Singapore",
+        "Loans to Private Sector",
+        "Importance 1"
+      ],
+      "text": "Singapore Bank Lending Hits Fresh Record High — Singapore’s bank loans increased to a new record high of SGD 908.4 billion in April 2026 from SGD 902.3 billion in the previous month. Loans to businesses advanced to SGD 551.3 billion from SGD 547.6 billion, while consumer loans rose to SGD 357.1 billion from SGD 354.7 billion in March, mainly driven by higher housing and bridging loans (SGD 249.9 billion vs. SGD 248.3 billion), other personal loans (SGD 79.4 billion vs. SGD 78.7 billion), car loans (SGD 9.8 billion vs. SGD 9.7 billion), and share financing (SGD 0.7 billion vs. SGD 0.6 billion). In contrast, credit card lending edged down to SGD 17.3 billion from SGD 17.4 billion."
+    },
+    {
+      "id": "4905937",
+      "time": "2026-05-29 10:11:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山：擁有廣泛的債券投資者基礎至關重要。"
+    },
+    {
+      "id": "mkt:019e717f-8aa9-7ee0-99e1-02863b2c235b",
+      "time": "2026-05-29 10:10:44",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Xiaomi",
+        "02015.HK",
+        "Impact bearish",
+        "09866.HK",
+        "09868.HK"
+      ],
+      "text": "Hong Kong-listed new-energy vehicle shares slipped: Li Auto (02015.HK) down over 4%, NIO-SW (09866.HK) down over 3%, SERES (09927.HK) and Xiaomi Group (01810.HK) down over 2%, XPeng (09868.HK) down 1.5%."
+    },
+    {
+      "id": "4905936",
+      "time": "2026-05-29 10:10:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山：對未來債券到期暫不予置評。"
+    },
+    {
+      "id": "mkt:019e717e-c0bb-7ee0-99e0-fa702c0bf841",
+      "time": "2026-05-29 10:09:46",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "CSI300",
+        "Impact bearish",
+        "SZSE Component"
+      ],
+      "text": "China A-share storage chip sector extended its decline; Huada Jiutian slid over 10%, Naike Equipment, Guoxin Technology and Runxin Technology fell more than 8%. Fudan Microelectronics, Shanghai Sinyang and Liyang Chip also declined."
+    },
+    {
+      "id": "4905935",
+      "time": "2026-05-29 10:09:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際能源署：預計石油投資將連續第三年下降 2026年跌破5000億美元】國際能源署在週四釋出的《2026年世界能源投資》中展望，全球能源投資將在今年達到3.4萬億美元，但石油投資將連續第三年下降，跌破5000億美元。該機構認為，今年的大部分能源投資（2.2萬億美元）將集中在電網、儲能、低排放燃料、核能、可再生能源、能效提升和電氣化領域，約有1.2萬億美元將投資於石油、天然氣和煤炭。雖然油價上漲，但是高油價持續時間的不確定性，石油鑽探專案的長週期以及供應鏈受限等原因將促使石油生產商繼續謹慎投資。與此同時，受一系列新的液化天然氣出口專案的推動，天然氣投資預計將增至3300億美元，達到十年來的最高水平。"
+    },
+    {
+      "id": "4905934",
+      "time": "2026-05-29 10:09:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【奧精醫療科研團隊參與完成的一項再生修復材料相關研究發表】據奧精醫療訊息，近日，由首都醫科大學附屬北京友誼醫院骨科牽頭，奧精醫療科研團隊參與完成的一項再生修復材料相關研究發表於國際期刊Materials Today Communications。該研究圍繞一種鍶摻雜硫酸鈣-磷酸鈣複合骨水泥材料展開，關注其在骨修復場景中的應用潛力，奧精醫療研發部主導了該項研究工作。"
+    },
+    {
+      "id": "4905933",
+      "time": "2026-05-29 10:08:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山：就債券管理與市場展開對話。"
+    },
     {
       "id": "4905932",
       "time": "2026-05-29 10:08:16",
@@ -138553,97 +138657,6 @@
         "市場"
       ],
       "text": "【陳茂波：香港金融市場持續活躍 新股集資額位居全球首位】香港財政司司長陳茂波昨日(蘇黎世時間5月21日)抵達瑞士蘇黎世，展開訪問行程。他指出，香港經濟過去兩年多保持穩步增長，金融市場持續活躍。在國家支援內地企業出海的背景下，更多企業來港上市集資拓展海外業務；去年及今年以來，香港新股集資額均位居全球首位，吸引眾多海內外投資者。他強調，在地緣政治格局下，不少國際投資者視香港為資金安全港及進入內地市場的跳板，港股表現亮麗。陳茂波表示，特區政府正積極推動股票市場改革，擴大與各地資本市場的互聯互通，提升流動性及投資選擇。固定收益、貨幣市場、資產財富管理及綠色金融等領域持續創新，市場規模不斷擴大。香港亦正積極發展黃金及大宗商品交易市場，豐富國際金融中心內涵。在金融創新方面，香港採取積極開放態度，在穩慎監管與促進發展並重下推動數字資產應用。"
-    },
-    {
-      "id": "4894002",
-      "time": "2026-05-22 10:12:59",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【PCB概念漲勢擴大 近十隻成分股漲停】PCB概念漲勢擴大，銅箔、玻纖等方向均表現突出，強達電路、方邦股份20cm漲停，此前鵬鼎控股、景旺電子、寶鼎科技、宏和科技等多股漲停，鼎泰高科、南亞新材、歐科億均漲超10%。"
-    },
-    {
-      "id": "mkt:019e4d74-f207-7aa1-9583-d59fa2b90c56",
-      "time": "2026-05-22 10:12:50",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "CHINA NDRC SPOX: DOMESTIC SUPPLY-DEMAND IMBALANCES PERSIST, THOUGH MACRO ECONOMY REMAINS STABLE OVERALL"
-    },
-    {
-      "id": "4894001",
-      "time": "2026-05-22 10:12:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "光學光電子板塊短線走低，緯達光電跌超14%，聯建光電、戈碧迦、龍騰光電、華燦光電等跟跌。"
-    },
-    {
-      "id": "4894000",
-      "time": "2026-05-22 10:12:32",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "歐洲股指期貨上漲；斯托克50股指期貨<STXEc1>與德國DAX股指期貨<FDXc1>均上漲0.8%。"
-    },
-    {
-      "id": "4893999",
-      "time": "2026-05-22 10:12:22",
-      "tags": [
-        "央行",
-        "國際",
-        "原創"
-      ],
-      "text": "【菲律賓央行行長表示正考慮在例行週期外加息】菲律賓央行行長雷莫洛納(Eli Remolona)週五表示，該行正考慮在例行週期外進行一次加息。雷莫洛納接受採訪時表示，該央行4月的加息“似乎還不夠”，並指出政策制定者正面對巨大且持續的供給衝擊。菲律賓央行下次例行政策會議定於6月18日舉行。"
-    },
-    {
-      "id": "mkt:019e4d74-2eb6-7aa1-9583-cd995ac882a6",
-      "time": "2026-05-22 10:12:00",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "0992.HK",
-        "Impact bullish"
-      ],
-      "text": "LENOVO CEO: DIVERSIFIED SUPPLY OF MEMORY CHIPS IS DEFINITELY HELPFUL"
-    },
-    {
-      "id": "mkt:019e4d74-0eac-7aa1-9583-c0b027b93f15",
-      "time": "2026-05-22 10:11:51",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "AMD.O",
-        "Impact bullish",
-        "TSM.O"
-      ],
-      "text": "AMD CEO LISA SU: WE MADE TWO BETS. ONE WAS TSMC. THAT TURNED OUT TO BE A GREAT BET FOR US. THE SECOND WAS ADVANCED PACKAGING. NOW THE ENTIRE INDUSTRY IS USING THIS"
-    },
-    {
-      "id": "4893998",
-      "time": "2026-05-22 10:11:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "【遼寧省首個積體電路產業創新中心落地運營】自瀋陽市國資委獲悉，遼寧省首個積體電路產業創新中心日前正式落地運營。該中心是產投集團在瀋陽市政府國資委大力支援下，歷經四年跟進對接、系統謀劃，與國內積體電路龍頭企業拓荊科技共同牽頭，遴選11家薄膜裝置、零部件供應商及合作伙伴投資設立。"
-    },
-    {
-      "id": "te:markets:552921",
-      "time": "2026-05-22 10:10:27",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Hong Kong",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Hong Kong Shares Advance on US-Iran Optimism — The Hang Seng Index climbed 160 points, or 0.6%, to 25,540 on Friday, recovering from the previous session’s losses and tracking overnight gains on Wall Street and boosted sentiment amid hopes for a potential US-Iran agreement to end the conflict. Reports indicated that Iran viewed the latest US proposal as helping to narrow differences between the two sides, reinforcing hopes for progress in negotiations. On the data front, investor sentiment was also supported after Hong Kong’s inflation rate held steady at 1.7% in April, unchanged from the previous month, signaling stable underlying price pressures. In Hong Kong, technology services surged 12.6%, led by strong gains in SMIC and Lenovo, which rose 1.7% and 9.5%, respectively, while financial stocks also contributed to the rally as investors rotated into the sector amid improving risk appetite. Other notable movers included Tencent Holdings (1.1%), AIA Group (0.4%), Sunny Optical Technology (1.5%), Xiaomi Corporation (1.1%)."
     }
   ]
 }
