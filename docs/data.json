@@ -1,7 +1,120 @@
 {
-  "updated": "2026-05-29 10:05:25",
-  "count": 15379,
+  "updated": "2026-05-29 10:09:20",
+  "count": 15382,
   "items": [
+    {
+      "id": "4905932",
+      "time": "2026-05-29 10:08:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【階躍釋出並開源Step 3.7 Flash】5月29日，基礎大模型創業公司階躍星辰（StepFun）釋出並開源Step 3.7 Flash模型。根據階躍星辰官方公眾號介紹，這是一款專為生產級Agent打造的Flash 模型，Step 3.7 Flash採用稀疏 MoE 架構，總引數196B+1.8B（ViT）、啟用引數僅11B ，最高生成速度可達400 Tokens/s。"
+    },
+    {
+      "id": "4905931",
+      "time": "2026-05-29 10:08:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深證成指跌1.01%，現報15702.111點；上證指數跌0.30%，現報4086.464點；創業板指跌1.36%，現報4068.902點。"
+    },
+    {
+      "id": "mkt:019e717d-00ed-7ee0-99e0-f48686f512c6",
+      "time": "2026-05-29 10:07:57",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "【Heshun Technology: Global high-end MLCC capacity tightness creates domestic substitution opportunity】At a CITIC Securities Shanghai strategy meeting on May 28, Heshun Technology said global high-end MLCC capacity is tight and cannot absorb a surge in downstream demand. To reduce supply‑chain risk, domestic and foreign buyers are bringing in onshore suppliers. Heshun, which focuses on high‑end functional film materials, says its technology direction aligns with industry trends and it is seeing an opportunity for domestic substitution. The company cautioned high‑end supporting film materials require complex processes and very high quality and stability, plus deep supply‑chain coordination, and that it must continue to optimize production and processes and improve product compatibility."
+    },
+    {
+      "id": "4905930",
+      "time": "2026-05-29 10:07:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【創想三維正式登陸港交所主機板，成為消費級3D列印第一股】5月29日，深圳市創想三維科技股份有限公司正式在香港聯合交易所主機板掛牌上市，股份代號：03388.HK，發售價為每股18.80港元，成為港股消費級3D列印第一股。"
+    },
+    {
+      "id": "4905929",
+      "time": "2026-05-29 10:07:17",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【和順科技：全球高階MLCC產能緊缺 公司迎來國產化替代機遇】和順科技(301237)5月28日參加中信證券上海策略會時表示，目前全球高階MLCC產能緊缺，難以滿足下游激增的市場需求。為規避供應鏈風險，海內外客戶紛紛引入國產供應鏈，公司專注高階功能性膜材，技術方向契合行業發展趨勢，迎來難得的國產化替代機遇。與此同時，高階配套膜材工藝複雜，對產品品質、穩定性要求極高，還需要產業鏈各環節深度協同，公司仍需持續最佳化生產與工藝，提升產品適配能力。"
+    },
+    {
+      "id": "4905928",
+      "time": "2026-05-29 10:07:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【晶片產業鏈震盪調整 派瑞股份跌超10%】晶片產業鏈震盪調整，派瑞股份跌超10%，士蘭微、捷捷微電、利揚晶片、國芯科技、斯達半導、復旦微電、滬矽產業、中芯國際紛紛下挫。"
+    },
+    {
+      "id": "te:markets:554685",
+      "time": "2026-05-29 10:06:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "China Stocks Eye Mixed Finish for May — The Shanghai Composite rose 0.3% to 4,111 on Friday, while the Shenzhen Component was little changed at around 15,865, as investor sentiment was cautiously optimistic over an extended ceasefire agreement between the US and Iran. The White House confirmed that both sides had agreed to prolong the truce for 60 days to facilitate formal negotiations and further discussions over Iran’s nuclear program, though US President Donald Trump has yet to formally approve the deal. On the corporate front, BYD jumped 3.2% after unveiling a series of technological breakthroughs, including China’s first automotive-grade 4-nanometer chip designed for autonomous driving systems. Over the month, the Shanghai Composite and Shenzhen Component are set to finish May mixed, as investors navigated sharp swings in sentiment driven by developments in the Iran conflict, while also assessing progress on the Trump-Xi meeting earlier this month and continued strength in technology shares."
+    },
+    {
+      "id": "4905927",
+      "time": "2026-05-29 10:06:46",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【曦諾未來Xynova完成數億元A輪融資】5月29日訊息，通用靈巧操作全棧方案商曦諾未來Xynova正式完成數億元A輪融資，本輪由理想戰投、中信建投資本、中信建投投資聯合領投，長三角數文集團、源珈基金跟投，財通資本、小米戰投、電科基金等老股東持續超額加碼，光源資本擔任獨家財務顧問。"
+    },
+    {
+      "id": "mkt:019e717b-93cb-7ee0-99e0-e9d002bcb0f5",
+      "time": "2026-05-29 10:06:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component",
+        "CSI300"
+      ],
+      "text": "STAR 50 Index down more than 3%; Beijing Stock Exchange 50 Index down 1.85%."
+    },
+    {
+      "id": "4905926",
+      "time": "2026-05-29 10:06:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山：發行債券時將考慮成本風險平衡。"
+    },
+    {
+      "id": "4905925",
+      "time": "2026-05-29 10:06:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達3.04%，成分股中，天嶽先進跌7.98%，芯聯整合跌7.57%，滬矽產業跌6.57%，中科飛測跌6.46%。"
+    },
+    {
+      "id": "4905924",
+      "time": "2026-05-29 10:05:56",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼盾兌美元下跌0.3%，創歷史新低。"
+    },
     {
       "id": "mkt:019e7179-a2d5-7ee0-99e0-e6e292d9a85b",
       "time": "2026-05-29 10:04:17",
@@ -138531,81 +138644,6 @@
         "Importance 1"
       ],
       "text": "Hong Kong Shares Advance on US-Iran Optimism — The Hang Seng Index climbed 160 points, or 0.6%, to 25,540 on Friday, recovering from the previous session’s losses and tracking overnight gains on Wall Street and boosted sentiment amid hopes for a potential US-Iran agreement to end the conflict. Reports indicated that Iran viewed the latest US proposal as helping to narrow differences between the two sides, reinforcing hopes for progress in negotiations. On the data front, investor sentiment was also supported after Hong Kong’s inflation rate held steady at 1.7% in April, unchanged from the previous month, signaling stable underlying price pressures. In Hong Kong, technology services surged 12.6%, led by strong gains in SMIC and Lenovo, which rose 1.7% and 9.5%, respectively, while financial stocks also contributed to the rally as investors rotated into the sector amid improving risk appetite. Other notable movers included Tencent Holdings (1.1%), AIA Group (0.4%), Sunny Optical Technology (1.5%), Xiaomi Corporation (1.1%)."
-    },
-    {
-      "id": "4893997",
-      "time": "2026-05-22 10:08:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "蘇姿豐表示：“我們下了兩注，第一注押的是臺積電，事實證明這對我們來說是一筆極為成功的投資；第二注押的是先進封裝。現在整個行業都在採用這項技術。”"
-    },
-    {
-      "id": "4893996",
-      "time": "2026-05-22 10:08:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【浙江榮泰新設子公司 含市場營銷策劃業務】企查查APP顯示，近日，浙江榮泰企業管理有限公司成立，法定代表人為曹梅盛，註冊資本為1200萬元，經營範圍包含企業管理；企業管理諮詢；自有資金投資的資產管理服務；社會經濟諮詢服務；市場營銷策劃等。企查查股權穿透顯示，該公司由浙江榮泰全資持股。"
-    },
-    {
-      "id": "4893995",
-      "time": "2026-05-22 10:08:06",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印尼盾兌美元在早盤交易中跌至17700。"
-    },
-    {
-      "id": "4893994",
-      "time": "2026-05-22 10:07:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "【外交部副部長華春瑩出席第32次中國—東盟高官磋商】據外交部網站，2026年5月21日，第32次中國—東盟高官磋商在馬來西亞吉隆坡舉行。外交部副部長華春瑩和馬來西亞外交部秘書長阿姆蘭共同主持，東盟其他國家高官或代表及東盟副秘書長與會。華春瑩表示，今年是中國“十五五”開局之年，作為全球經濟“穩定錨”和“動力源”，中國的發展將首先惠及周邊，帶來更多機遇。中方願同東盟一道，落實好雙方領導人重要共識，以中國東盟建立全面戰略伙伴關係5週年為契機，深化利益融合，聚力新興產業，拓展海洋合作，厚植人文紐帶，維護共同安全，推動構建更為緊密的中國—東盟命運共同體，助力亞洲繼續成為發展繁榮高地。東盟國家高度評價中國發展巨大成就，樂見更加強大和繁榮的中國，讚賞中方支援東盟團結和共同體建設。表示中國是同東盟務實合作成果最豐碩的對話夥伴，雙方合作給地區人民帶來福祉，對維護地區穩定、促進發展繁榮至關重要，願共同辦好全面戰略伙伴關係5週年紀念活動，深化各領域合作，攜手應對挑戰，實現共同發展。"
-    },
-    {
-      "id": "4893993",
-      "time": "2026-05-22 10:07:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "【智譜港股漲超15%】智譜港股漲15.64%，報1168.00港元。"
-    },
-    {
-      "id": "4893992",
-      "time": "2026-05-22 10:06:34",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【PCB板塊持續走高，滬電股份觸及漲停】PCB板塊持續走高，滬電股份觸及漲停，勝宏科技漲超10%，方邦股份、天承科技20cm漲停，科強股份、國際復材漲幅居前。"
-    },
-    {
-      "id": "4893991",
-      "time": "2026-05-22 10:05:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "聯想集團執行長：儲存晶片供應多元化絕對有益。"
-    },
-    {
-      "id": "4893990",
-      "time": "2026-05-22 10:05:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "【最高人民法院 最高人民檢察院關於適用刑事缺席審判程式若干問題的規定】《最高人民法院、最高人民檢察院關於適用刑事缺席審判程式若干問題的規定》已於2025年12月4日由最高人民法院審判委員會第1960次會議、2025年12月19日由最高人民檢察院第十四屆檢察委員會第六十六次會議透過，現予公佈，自2026年5月22日起施行。"
-    },
-    {
-      "id": "4893989",
-      "time": "2026-05-22 10:05:25",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨賣出額達20億港元。"
     }
   ]
 }
