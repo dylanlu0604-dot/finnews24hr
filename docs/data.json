@@ -1,7 +1,189 @@
 {
-  "updated": "2026-05-29 17:53:22",
-  "count": 15690,
+  "updated": "2026-05-29 17:57:19",
+  "count": 15700,
   "items": [
+    {
+      "id": "mkt:019e732a-18b7-7ccc-b656-479251a87a22",
+      "time": "2026-05-29 17:56:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Dahu Co. said it does not hold any shares in Changxin Technology. Company operations are normal and there are no undisclosed matters requiring disclosure."
+    },
+    {
+      "id": "4906909",
+      "time": "2026-05-29 17:56:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "騰訊 5 月 29 日斥資 5.01 億港元回購股份。"
+    },
+    {
+      "id": "4906908",
+      "time": "2026-05-29 17:56:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣西梧州電網日供電量及最大負荷接連雙創新高】近日，受持續高溫天氣以及全市工業生產高位執行雙重影響，南方電網廣西梧州供電局經營範圍內日供電量與最大負荷連續創下歷史新高。"
+    },
+    {
+      "id": "mkt:019e7329-c6b3-7ccc-b656-3a4abc6e8134",
+      "time": "2026-05-29 17:56:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Germany's Foreign Ministry spokesman said the government expressed concern over reports that Israel plans to further occupy Gaza."
+    },
+    {
+      "id": "mkt:019e7329-956d-7ccc-b656-32ee120fe533",
+      "time": "2026-05-29 17:56:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "ECB Governing Council member Simkus said the central bank should collect data after June rather than take immediate action."
+    },
+    {
+      "id": "mkt:019e7329-5b3a-7ccc-b656-2ac20bf532ea",
+      "time": "2026-05-29 17:55:47",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB Governing Council member SIMKUS said scenarios that would lead him to oppose a rate hike are unlikely to occur."
+    },
+    {
+      "id": "4906907",
+      "time": "2026-05-29 17:55:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國外交部發言人：德國政府對有關以色列計劃佔領加沙更多領土的報道表示關切。"
+    },
+    {
+      "id": "mkt:019e7329-3e3e-7ccc-b656-234c56ebaae3",
+      "time": "2026-05-29 17:55:37",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB Governing Council member SIMKUS said he supports a June rate hike and that the likelihood of a second hike \"has become higher.\""
+    },
+    {
+      "id": "4906906",
+      "time": "2026-05-29 17:55:17",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委西姆庫斯淡化了2026年期間25個基點甚至50個基點加息的經濟影響。"
+    },
+    {
+      "id": "4906905",
+      "time": "2026-05-29 17:55:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【74個轉基因玉米、大豆品種擬透過國審初審 涉及多家種業上市公司】據農業農村部種業管理司公告，73個轉基因玉米品種和1個轉基因大豆品種擬透過國審初審，涉及敦煌種業、康農種業、隆平高科、豐樂種業、登海種業等多家上市公司。（農業農村部）"
+    },
+    {
+      "id": "mkt:019e7328-b0fa-7ccc-b656-1ebec1a800ca",
+      "time": "2026-05-29 17:55:06",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB Governing Council member Simkus downplayed the economic impact of 25bp or even 50bp rate hikes in 2026."
+    },
+    {
+      "id": "mkt:019e7328-82b8-7ccc-b656-14359cc7a52e",
+      "time": "2026-05-29 17:54:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "ECB Governing Council member Simkus said the ECB will publish new economic assessment projections in September."
+    },
+    {
+      "id": "4906903",
+      "time": "2026-05-29 17:54:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天弘基金：5月30日起終止與中證金牛基金銷售業務合作】天弘基金公告稱，經協商一致，公司決定自2026年5月30日起終止與中證金牛的全部基金銷售業務合作，含旗下基金認購、申購等業務。已透過中證金牛持有旗下基金的投資者，需於2026年5月29日15:00前自行辦理基金份額轉託管或贖回，未辦理的，公司將直接轉至直銷平臺。投資者可撥打400 - 986 - 8888或登入www.thfund.com.cn諮詢詳情。"
+    },
+    {
+      "id": "4906902",
+      "time": "2026-05-29 17:54:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST航圖：對募投專案重新論證 繼續實施“互動式全息專案”】*ST航圖公告稱，公司於2026年5月29日召開董事會，審議透過對“互動式全息智慧地球產業數字化轉型專案”重新論證並繼續實施的議案。該專案2022年備案，截至公告披露日投入進度35.04%。因技術和市場變化，公司此前已兩次延期該專案。目前繼續實施該專案既順應市場趨勢，也與公司戰略協同。不過，公司經營資金週轉困難，部分募集資金專戶被司法凍結，或影響專案後續資金撥付。"
+    },
+    {
+      "id": "4906901",
+      "time": "2026-05-29 17:54:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本欲以菲為跳板加速突破軍事禁區】日本、菲律賓加速防務捆綁，可能對亞太地區構成哪些系統性威脅？是否揭示了日本右翼勢力想要借菲律賓，重新軍事擴張的歷史邏輯？中國國際問題研究院亞太研究所特聘研究員項昊宇分析指出，這本質上是一種以鄰為壑的陣營對抗思維在驅動，日、菲勾連不僅將打破亞太地區長期以來的戰略安全平衡，也可能成為美國打造亞太軍事同盟網路的一個關鍵環節，淪為域外勢力攪局地區的工具。這完全暴露出日本右翼的軍事擴張野心。日本欲以菲律賓為“跳板”，加快突破軍事禁區，這種激進的“再軍事化”蘊含著很大的風險，也為亞太地區的長治久安埋下了重大隱患。（CCTV國際時訊）"
+    },
+    {
+      "id": "4906900",
+      "time": "2026-05-29 17:53:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【賽力斯：正積極佈局海外市場，問界堅定高階出海】賽力斯5月29日在互動平臺表示，公司密切關注國際市場動態，正在積極佈局海外市場。問界堅定高階出海，在電動化、智慧化、體系化服務能力等方面打造競爭力。"
+    },
+    {
+      "id": "4906899",
+      "time": "2026-05-29 17:53:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海爾智家：公司產品正穩步從陪伴、清潔產品向更復雜的家務場景拓展】海爾智家5月29日在互動平臺表示，公司自2022年起經過4年發展，已形成清晰的戰略路徑，並佈局陪伴類、清潔類等產品，依託全球4億家庭的資料積累、千家三翼鳥門店的訓練場、親和的“海爾兄弟”品牌形象以及全流程供應鏈優勢，公司的產品正穩步從陪伴、清潔產品向更復雜的家務場景拓展。2026年公司將繼續推進在陪伴類、清潔類以及家庭場景類產品的研發和商業化落地。"
+    },
+    {
+      "id": "mkt:019e7327-5b7b-7ccc-b656-09aa83cce988",
+      "time": "2026-05-29 17:53:39",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders"
+      ],
+      "text": "SERES said it is closely monitoring international market dynamics and actively expanding overseas. The AITO brand is committed to high-end overseas expansion, aiming to build competitiveness in electrification, smart features and integrated service capabilities."
+    },
+    {
+      "id": "4906898",
+      "time": "2026-05-29 17:52:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【工信部：前4個月我國軟體業務收入46686億元 同比增長10.9%】工信部資料顯示，前4個月，我國軟體業務收入46686億元，同比增長10.9%。軟體業利潤總額5304億元，同比增長2.2%。軟體業務出口206.5億美元，同比增長13.0%。 資訊科技服務收入保持兩位數增長。前4個月，資訊科技服務收入31332億元，同比增長12.0%，佔全行業收入的67.1%。其中，雲端計算、大資料服務共實現收入5344億元，同比增長12.6%，佔資訊科技服務收入的17.1%；積體電路設計收入1428億元，同比增長18.3%；電子商務平臺技術服務收入3633億元，同比增長7.8%。"
+    },
     {
       "id": "te:economy:554915",
       "time": "2026-05-29 17:51:34",
@@ -141721,87 +141903,6 @@
         "國際"
       ],
       "text": "植田和男：高市早苗表示希望政策合理施行。 日本央行與政府將繼續緊密協調。"
-    },
-    {
-      "id": "4894918",
-      "time": "2026-05-22 17:56:41",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "【下週一港股、美股休市 金銀油交易將提前結束】受陣亡將士紀念日假期影響，美國股市將於5月25日（下週一）休市一日；芝商所（CME）旗下貴金屬、美油期貨合約交易於北京時間26日02:30提前結束，美股、美債期貨合約交易於北京時間26日01:00提前結束。受佛誕節假期影響，中國香港股市將於5月25日（下週一）休市一日，南、北向交易關閉；韓國股市同日休市一日。此外，受春季銀行假日影響，英國股市將於5月25日（下週一）休市一日；洲際交易所（ICE）旗下布倫特原油期貨合約交易於北京時間26日01:30提前結束。敬請各位投資者留意。"
-    },
-    {
-      "id": "4894917",
-      "time": "2026-05-22 17:56:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "【哈森股份：擬發行股份購買蘇州郎克斯45%股權】哈森股份公告，公司擬透過發行股份方式購買周澤臣、王永富、黃永強3名股東持有的蘇州郎克斯45%股權；同時，擬向不超過35名符合條件的特定物件發行股票募集配套資金，募集配套資金總額不超過發行股份購買資產交易價格的100%。本次交易中，上市公司將新增發行2292.45萬股用於向交易對方支付股份對價，佔發行後上市公司總股本的比例為9.46%（不考慮募集配套資金）。"
-    },
-    {
-      "id": "4894916",
-      "time": "2026-05-22 17:56:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "植田和男：首相併未提出具體要求。"
-    },
-    {
-      "id": "mkt:019e4f1c-e14d-777d-b240-ee8ed6795ed5",
-      "time": "2026-05-22 17:55:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "BOJ GOV UEDA: EXPLAINED OUR MONETARY POLICY THINKING TO PM"
-    },
-    {
-      "id": "mkt:019e4f1c-ce09-777d-b240-e23f0db21789",
-      "time": "2026-05-22 17:55:48",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "DXY"
-      ],
-      "text": "BOJ GOV UEDA: DIDN'T DISCUSS SPECIFICS, WHEN ASKED ABOUT MARKET PROSPECTS OF JUNE RATE HIKE"
-    },
-    {
-      "id": "4894915",
-      "time": "2026-05-22 17:55:43",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行行長植田和男：被問及6月加息的市場預期時，稱未討論具體內容。"
-    },
-    {
-      "id": "4894914",
-      "time": "2026-05-22 17:55:19",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行行長植田和男：已向首相闡明我們對貨幣政策的思路。"
-    },
-    {
-      "id": "4894913",
-      "time": "2026-05-22 17:55:03",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行植田和男：與高市早苗商討經濟及市場相關議題。"
-    },
-    {
-      "id": "4894912",
-      "time": "2026-05-22 17:53:22",
-      "tags": [
-        "市場"
-      ],
-      "text": "【報告：當前全球具身智慧專利累計數量已達近20萬件】5月22日， AI原生平臺企業智慧芽旗下的智慧芽創新研究中心釋出《2026年具身智慧技術發展報告》。報告顯示，當前全球具身智慧專利累計數量已達近20萬件，正式進入創新爆發期，其中，中國已成為全球具身智慧技術創新主力，累計申請約10.3萬件專利，貢獻了全球過半的相關專利。從技術上來看，報告指出，具身智慧創新重心正從“機械進化”轉向“智慧進化”，2025年，大腦層與小腦層專利數量合計佔比已達76.5%。"
     }
   ]
 }
