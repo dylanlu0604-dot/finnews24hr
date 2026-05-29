@@ -1,7 +1,91 @@
 {
-  "updated": "2026-05-29 21:53:16",
+  "updated": "2026-05-29 21:57:21",
   "count": 15854,
   "items": [
+    {
+      "id": "mkt:019e7405-b6d8-7eef-a0f0-73496d9e3678",
+      "time": "2026-05-29 21:56:31",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Kremlin says Armenia's preparations to join the EU constitute a significant risk to the economic security of Eurasian Economic Union (EAEU) countries."
+    },
+    {
+      "id": "mkt:019e7405-a1e3-7eef-a0f0-6d7aa81d2f46",
+      "time": "2026-05-29 21:56:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kremlin says a report on the consequences of Armenia's withdrawal from the Eurasian Economic Union will be published in December."
+    },
+    {
+      "id": "te:economy:555002",
+      "time": "2026-05-29 21:56:03",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "US 10-Year Treasury Yield Holds Near 4.45%, Still Higher for May — The yield on the US 10-year Treasury note hovered around 4.45% on Friday, remaining near three-week lows, though still up roughly 7 bps for the month, as investors continued to monitor developments in the Middle East. Signs have emerged that the US and Iran may be closer than ever to reaching an agreement, with recent reports indicating that both countries have reached a preliminary understanding to extend a ceasefire by 60 days and begin discussions over the future of Tehran’s nuclear program, although President Trump has yet to formally endorse the terms. Oil prices have declined, helping to ease inflationary pressures. Data released on Thursday showed that both headline and core PCE monthly inflation came in below expectations although annual readings remained well above the Fed’s target at 3.8% and 3.3%. Investors currently expect the Fed to keep the federal funds rate unchanged through year-end, though markets still assign roughly a 46% probability to a rate hike in December."
+    },
+    {
+      "id": "4907457",
+      "time": "2026-05-29 21:55:37",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【港股IPO：浙江力積儲存遞表港交所】浙江力積儲存科技股份有限公司向港交所提交上市申請書，獨家保薦人為中信證券。"
+    },
+    {
+      "id": "4907454",
+      "time": "2026-05-29 21:54:41",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【西紅柿價格飆升折射美國生活成本壓力】美國西紅柿價格近期大幅上漲，成為美國民眾生活成本攀升的新縮影。據美聯社29日報道，美國最新消費者價格指數顯示，當前西紅柿價格比一年前上漲約40%，漲幅超過咖啡、烤牛肉、冷凍水產等品類。28日釋出的一項通脹資料顯示，美國4月整體物價同比上漲3.8%，創下近三年新高。分析人士認為，伊朗戰事以及美國政府關稅政策等多重因素共同推高西紅柿價格。（新華社）"
+    },
+    {
+      "id": "4907453",
+      "time": "2026-05-29 21:53:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國佛教協會就釋永信案判決結果發聲】中國佛教協會5月29日發表宣告：今日，河南省新鄉市中級人民法院公佈了少林寺原住持釋永信（劉應成）案的判決結果。我們認為，少林寺原住持釋永信（劉應成）因犯職務侵佔罪、挪用資金罪、非國家工作人員受賄罪、行賄罪而被判處有期徒刑二十四年，完全是咎由自取。這一判決結果體現了法律面前人人平等的原則，對佛教界人士是一次有力的警示警醒。作為佛教界人士，我們應牢固樹立國家意識、公民意識、法律意識，深刻認識沒有法外之教、法外之地、法外之人。我會將繼續深入開展“學法規、守戒律、重修為、樹形象”教育活動，認真落實崇儉戒奢、正信正行“七條倡議”，引導佛教界人士自覺守法遵規、持重善律，堅決維護佛教清淨莊嚴形象。"
+    },
+    {
+      "id": "4907452",
+      "time": "2026-05-29 21:53:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部長阿拉格齊表示：我們已依據伊朗的主權職責與國際法，就霍爾木茲海峽及其未來管轄安排展開了討論。"
+    },
+    {
+      "id": "4907450",
+      "time": "2026-05-29 21:53:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部長阿拉格齊在X平臺發文稱，他與阿曼外交部長進行了富有成效的通話，並表示伊朗在阿曼面臨任何威脅時都與阿曼站在一起。"
+    },
+    {
+      "id": "mkt:019e7402-88ec-7eef-a0f0-6518a12f75db",
+      "time": "2026-05-29 21:53:03",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iranian Foreign Minister Araghchi told Oman’s foreign minister in a direct call that Iran would support Oman against any threats and the two discussed the Strait of Hormuz and its future management."
+    },
     {
       "id": "4907449",
       "time": "2026-05-29 21:51:13",
@@ -488,6 +572,14 @@
         "焦點"
       ],
       "text": "納斯達克中國金龍指數跌超0.5%，金山雲跌4.28%，理想汽車跌3.25%，蔚來跌2.88%，聲網跌3.06%，再鼎醫藥跌2.76%。"
+    },
+    {
+      "id": "4907412",
+      "time": "2026-05-29 21:34:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【南非發生計程車與貨車相撞事故 已致9人死亡】當地時間5月29日，總檯記者獲悉，南非西北省發生一起交通事故，一輛小型計程車與一輛貨車相撞，目前已造成9人死亡。根據警方和應急部門初步通報，事發時這輛小型計程車正從波切夫斯特魯姆駛往帕里斯，途中與貨車發生碰撞。事故具體原因目前仍在調查中。（央視新聞）"
     },
     {
       "id": "4907411",
@@ -143443,97 +143535,6 @@
         "Importance 1"
       ],
       "text": "Sugar Futures at Over 3-Week Low — US sugar futures fell to around 14.6 US cents, the lowest since late April, weighed down by the dollar's strength and increased supply from top producer Brazil. Ongoing sugarcane crushing in the Center-South region is further boosting physical availability and pressuring prices. Meanwhile, the International Sugar Organization (ISO) raised its estimate of the 2025/26 global surplus, projecting record production of 182 million tons, up 3.5% from the previous season, and a surplus of 2.2 million tons versus a prior forecast of 1.22 million, reversing a 3.46 million-ton deficit in 2024/25.The outlook for 2026/27 is tighter, with production forecast to decline 1.15% to 180 million tons and a potential 262,000-ton deficit, partly due to potential El Niño impacts on key producers India and Thailand. The brokerage firm Czarnikow, however, sees a modest 1.4 million-ton surplus, driven by stronger Chinese production."
-    },
-    {
-      "id": "4895419",
-      "time": "2026-05-22 21:57:15",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【機構：標普500指數有望創下自2021年以來最強勁的盈利增長】隨著增長動能從人工智慧驅動的漲幅擴充套件至美國大多數企業，標普500指數有望實現五年來最強勁的盈利增長。據機構統計的資料，該基準指數中約93%的企業已公佈財報，其中83%的公司業績超出分析師預期。這一比例是自2021年以來的最高水平。資料顯示，各行業均呈現增長態勢，但醫療保健板塊除外。總體而言，能源和科技板塊的強勁表現抵消了因伊朗戰爭導致油價上漲而引發的消費者信心疲軟。此外，通訊服務和非必需消費品板塊表現最為亮眼，材料和工業板塊也超出了預期。"
-    },
-    {
-      "id": "4895418",
-      "time": "2026-05-22 21:56:28",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【老虎證券：香港實體獨立營運】5月22日，針對中國證監會發布的關於非法跨境證券期貨基金經營活動整治及相關處罰事項，老虎證券（香港）環球有限公司營運長王珊回應記者稱，已知悉中國證券監督管理委員會（CSRC）釋出的相關通知。該公司表示，相關通知並不直接適用於其香港實體，公司為持有香港證券及期貨事務監察委員會（SFC）發出的牌照、獨立營運並受其監管的持牌法團。王珊表示，目前公司在香港的各項業務運作如常，客戶賬戶及服務未受影響。她強調，合規經營始終是營運核心，後續也將持續與相關監管機構保持密切溝通。對於後續安排及進一步資訊，將以老虎證券（香港）環球有限公司釋出的正式公告為準。（21財經）"
-    },
-    {
-      "id": "te:markets:553138",
-      "time": "2026-05-22 21:56:21",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Currency",
-        "Importance 0"
-      ],
-      "text": "Dollar Little Changed on Friday — The dollar index traded little changed around 99.3 on Friday and was also on track to end the week broadly flat, as traders continued to monitor developments in the Middle East. Although the situation remains fragile and uncertain, a series of mixed signals from both sides has strengthened investor optimism that a diplomatic agreement could eventually be reached. Even so, oil prices remain roughly 50% above pre-conflict levels, continuing to fuel inflationary pressures and reinforcing a cautious stance among major central banks. Minutes from the latest Federal Open Market Committee meeting showed that most policymakers still see the possibility of additional rate hikes if inflation remains persistently above the Federal Reserve’s 2% target. Markets have also increasingly priced in the likelihood of a 25-basis-point rate hike by the end of the year."
-    },
-    {
-      "id": "mkt:019e4ff8-cce3-7113-afb5-2918dceaeab8",
-      "time": "2026-05-22 21:56:05",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "TIGR.O",
-        "Impact bearish"
-      ],
-      "text": "UP FINTECH GETS NOTICES FROM CSRC UP FINTECH: CSRC BEIJING INITIATED INVESTIGATION UP FINTECH: CSRC IMPOSED PENALTIES OF ABOUT RMB308.1M UP FINTECH: CSRC CONFISCATION OF ILLEGAL INCOME OF ~RMB1O3.1M"
-    },
-    {
-      "id": "4895417",
-      "time": "2026-05-22 21:55:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2026年5月票房破20億】據燈塔專業版，截至5月22日，2026年5月票房（含預售）突破20億，《給阿嬤的情書》領跑5月票房榜。"
-    },
-    {
-      "id": "4895416",
-      "time": "2026-05-22 21:55:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "據港交所檔案：北京神州細胞生物技術集團股份公司向港交所提交上市申請書。"
-    },
-    {
-      "id": "4895415",
-      "time": "2026-05-22 21:54:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭武裝部隊：已打擊敵方彈藥庫、防空系統、指揮所及有生力量。"
-    },
-    {
-      "id": "4895414",
-      "time": "2026-05-22 21:54:10",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美股AI應用軟體股盤初走強】美股AI應用軟體股盤初走強，Zoom通訊漲近15%，Workday漲超9%，Braze、Spotify漲超7%，Figma Inc漲近6%，The Trade Desk漲超4%。"
-    },
-    {
-      "id": "4895413",
-      "time": "2026-05-22 21:53:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普在Truth Social社交平臺發文：我本可以拿出一大筆錢和解我的案件；但我選擇不這麼做，我要幫助那些被邪惡腐敗、工具化的拜登政府嚴重迫害的人們。"
-    },
-    {
-      "id": "mkt:019e4ff6-6c41-7113-afb5-20c0beaed40b",
-      "time": "2026-05-22 21:53:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TRUMP ON TRUTH SOCIAL: I COULD HAVE SETTLED MY CASE FOR AN ABSOLUTE FORTUNE; INSTEAD, I'M HELPING OTHERS, WHO WERE SO BADLY ABUSED BY AN EVIL, CORRUPT AND WEAPONIZED BIDEN ADMINISTRATION"
     }
   ]
 }
