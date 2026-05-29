@@ -1,7 +1,70 @@
 {
-  "updated": "2026-05-29 22:43:30",
-  "count": 15841,
+  "updated": "2026-05-29 22:47:33",
+  "count": 15834,
   "items": [
+    {
+      "id": "mkt:019e7433-7e94-7eef-a0f1-59fd9376bea8",
+      "time": "2026-05-29 22:46:32",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact bearish"
+      ],
+      "text": "The Nasdaq-100 index turned negative intraday after earlier rising 0.8%."
+    },
+    {
+      "id": "4907528",
+      "time": "2026-05-29 22:46:27",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【法國連續七年成為外國直接投資在歐洲的首選地】國際諮詢企業安永公司近日釋出的《2026年歐洲投資吸引力調查報告》顯示，法國2025年連續第七年成為外國直接投資在歐洲的首選目的地。 報告說，法國2025年共吸引852個外國投資專案，領先於英國的730個和德國的548個。其中，工業投資專案354個，佔比42%，顯示法國繼續保持歐洲製造業投資領先地位。軟體及資訊科技服務、國防和低碳能源等行業成為支撐法國投資吸引力的重要領域。 不過，歐洲整體投資吸引力仍承壓。報告指出，2025年歐洲吸引的外國直接投資專案數量下降7%，成為全球國際投資降幅最大的地區之一。 另據法國商務投資署此前釋出的報告，2025年中國進一步鞏固了作為法國重要經濟合作伙伴的地位，在對法投資來源國中位居前列，在亞洲國家中保持首位。從投資專案數量及創造或維持就業崗位數量看，中國投資均表現突出。(新華社)"
+    },
+    {
+      "id": "4907527",
+      "time": "2026-05-29 22:46:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "現行《美墨加協定》要求，北美乘用車40%的核心零部件必須產自美國或加拿大，皮卡的這一比例要求為45%。"
+    },
+    {
+      "id": "4907526",
+      "time": "2026-05-29 22:45:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數轉跌，抹去了此前0.8%的漲幅。"
+    },
+    {
+      "id": "te:markets:555017",
+      "time": "2026-05-29 22:45:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Dips Below $75 but Set for Near 1% Monthly Gain — Silver fell below $75 an ounce on Friday but remained on track for a near 1% monthly gain, as investors balanced reports of a potential US-Iran ceasefire extension against persistent inflation concerns and expectations of prolonged higher interest rates. Negotiations to end the three-month war continued, with reports of a tentative 60-day ceasefire extension awaiting President Trump’s approval. However, disruptions to shipping and energy infrastructure could keep oil prices elevated, maintaining the Federal Reserve’s cautious stance. US inflation data this month showed the fastest rise in three years in April, reinforcing expectations that the Fed will keep rates unchanged well into 2027. UBS recently revised down its silver supply deficit forecast to 60–70 million ounces from 300 million ounces and cut its full-year investment demand outlook to 300 million ounces from over 400 million ounces."
+    },
+    {
+      "id": "4907525",
+      "time": "2026-05-29 22:45:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國新增 31 例麻疹確診病例，今年累計達 1983 例。"
+    },
+    {
+      "id": "4907524",
+      "time": "2026-05-29 22:43:08",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "利歐集團股份有限公司再次向港交所提交上市申請書，聯席保薦人為華泰國際、中國銀河國際。"
+    },
     {
       "id": "4907523",
       "time": "2026-05-29 22:42:35",
@@ -143304,139 +143367,6 @@
         "國際"
       ],
       "text": "美聯儲沃勒：就近期資料來看，現在就討論近期降息簡直不合情理。"
-    },
-    {
-      "id": "4895514",
-      "time": "2026-05-22 22:47:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "土耳其基準股票指數漲幅擴大至5.2%。"
-    },
-    {
-      "id": "4895513",
-      "time": "2026-05-22 22:47:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "法國巴黎銀行將沃爾瑪目標股價從每股147.00美元下調至每股146.00美元。"
-    },
-    {
-      "id": "4895512",
-      "time": "2026-05-22 22:46:54",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲沃勒：尚未與沃什談及貨幣政策相關事宜。"
-    },
-    {
-      "id": "mkt:019e5027-381c-7224-83c0-7987801de476",
-      "time": "2026-05-22 22:46:47",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "FED'S WALLER: HAVE NOT SPOKEN TO WARSH ABOUT POLICY"
-    },
-    {
-      "id": "4895511",
-      "time": "2026-05-22 22:46:32",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲沃勒：我們可以將美聯儲的資產負債表減少3000億至5000億美元。"
-    },
-    {
-      "id": "mkt:019e5026-c4de-7224-83c0-74667f94184c",
-      "time": "2026-05-22 22:46:18",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "FED'S WALLER: COULD REDUCE FED'S BALANCE SHEET BY $300BN-$500BN"
-    },
-    {
-      "id": "4895510",
-      "time": "2026-05-22 22:46:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：日本與菲律賓計劃在菲律賓總統費迪南德·馬科斯訪日期間簽署新的雙邊稅收協定。"
-    },
-    {
-      "id": "4895509",
-      "time": "2026-05-22 22:45:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國城礦業擬現金23.68億元購買國城實業40%股權】5月22日晚，國城礦業公告稱，公司擬透過支付現金方式購買中信信託（代表中信信託・信華57號權益類信託計劃）持有的內蒙古國城實業有限公司（簡稱“國城實業”）40%的股權。目前，國城礦業持有國城實業60%股權；交易完成後，國城實業將成為國城礦業的全資子公司。"
-    },
-    {
-      "id": "4895508",
-      "time": "2026-05-22 22:44:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西薩弗拉斯與市場（Safras & Mercado）資料顯示，巴西2026/27年度咖啡收割進度已達9%，去年同期該進度為13%。"
-    },
-    {
-      "id": "mkt:019e5025-4033-7224-83c0-6a575f0c69f7",
-      "time": "2026-05-22 22:44:38",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish",
-        "DXY",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "TWO-YR U.S. TREASURY YIELD HITS SESSION HIGH, LAST AT 4.135%"
-    },
-    {
-      "id": "4895507",
-      "time": "2026-05-22 22:44:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "【歐洲多國領導人敦促以色列停止擴大定居點】義大利、法國、英國和德國四國領導人22日發表聯合宣告，敦促以色列政府立即停止在約旦河西岸擴大定居點，並對定居者日益加劇的暴力行為表示強烈譴責。"
-    },
-    {
-      "id": "mkt:019e5025-0c81-7224-83c0-647078239f1f",
-      "time": "2026-05-22 22:44:25",
-      "tags": [
-        "MKT News",
-        "QCOM.O",
-        "Impact bullish"
-      ],
-      "text": "SHARES OF QUALCOMM UP 12.5%"
-    },
-    {
-      "id": "4895506",
-      "time": "2026-05-22 22:43:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "智利銅業委員會：修訂後的智利國家銅業公司產量將為1997年以來最低水平。"
-    },
-    {
-      "id": "4895505",
-      "time": "2026-05-22 22:43:35",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【巴基斯坦軍方訊息人士：巴三軍情報局局長已前往伊朗】巴基斯坦軍方訊息人士22日告訴新華社記者，巴三軍情報局局長馬利克當天已前往伊朗。此前，伊朗媒體報道稱，巴陸軍參謀長穆尼爾已前往伊朗，將與伊朗高階官員會面，推動伊美談判。（新華社）"
     }
   ]
 }
