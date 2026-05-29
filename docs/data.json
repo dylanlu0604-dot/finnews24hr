@@ -1,7 +1,114 @@
 {
-  "updated": "2026-05-29 18:29:59",
-  "count": 15753,
+  "updated": "2026-05-29 18:33:56",
+  "count": 15771,
   "items": [
+    {
+      "id": "mkt:019e734b-917a-7994-b8b4-de208b2c1996",
+      "time": "2026-05-29 18:33:12",
+      "tags": [
+        "MKT News",
+        "DELL.N",
+        "Impact bullish"
+      ],
+      "text": "UBS raised its PT on Dell (DELL.N) to $440 from $243."
+    },
+    {
+      "id": "mkt:019e734b-691f-7994-b8b4-d3201878e8ac",
+      "time": "2026-05-29 18:33:00",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "A spokesman for Germany's Economy Ministry said gas storage has risen further since last Wednesday to 31%, driven by market forces and not requiring state intervention."
+    },
+    {
+      "id": "mkt:019e734b-502a-7994-b8b4-cead4edb9b8e",
+      "time": "2026-05-29 18:32:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Chuanyi Technology plans private A-share placement to raise up to 871 mln yuan for smart manufacturing expansion】Chuanyi Technology disclosed a 2026 proposal for a private placement of A-shares to specific investors seeking up to 871 mln yuan to fund the Gaoyou intelligent production line expansion, capacity expansion at a Chongqing smart manufacturing center, and to replenish working capital."
+    },
+    {
+      "id": "4907001",
+      "time": "2026-05-29 18:32:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國經濟部發言人：自上週三以來，天然氣儲存量進一步上升，目前已達31%；當前這一市場化流程無需國家介入。"
+    },
+    {
+      "id": "4907000",
+      "time": "2026-05-29 18:32:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【陽光電源：員工持股計劃已買入公司股票721.33萬股】陽光電源公告，截至本公告披露之日，本員工持股計劃已透過二級市場以集中競價交易方式累計買入公司股票721.33萬股，佔公司總股本的0.35%，成交均價為138.61元/股，成交總金額為10億元（不含交易費用）。"
+    },
+    {
+      "id": "4906999",
+      "time": "2026-05-29 18:31:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞銀將戴爾目標股價從243美元上調至440美元。"
+    },
+    {
+      "id": "4906998",
+      "time": "2026-05-29 18:31:22",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國家郵政局召開快遞員座談交流會】趙衝久強調，廣大行業從業者要認真學習、深刻領會習近平總書記重要指示批示精神，深刻領悟“兩個確立”的決定性意義，增強“四個意識”、堅定“四個自信”、做到“兩個維護”，始終在思想上政治上行動上同以習近平同志為核心的黨中央保持高度一致，堅定不移聽黨話、跟黨走，將習近平總書記的關心關愛轉化為奮進新徵程、建功新時代的強大動力。要堅決貫徹落實黨中央、國務院決策部署，堅持和加強黨的全面領導，加強思想政治引領，暢通快遞員訴求收集反饋渠道，著眼快遞員群體工作生活學習中的“急難愁盼”，把解決思想問題與解決實際困難結合起來，切實維護好快遞員群體合法權益，增強凝聚服務工作實效。要宣傳好、學習好“十佳快遞員”的先進事蹟，發揮先進典型示範引領作用，在全行業推動形成崇尚先進、學習先進、爭當先進的濃厚氛圍，著力提升快遞員群體的職業榮譽感和社會認同感。"
+    },
+    {
+      "id": "4906997",
+      "time": "2026-05-29 18:30:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【電投綠能：投資6.11億元建設風電專案】電投綠能公告，全資子公司貴州電投綠能新能源有限公司投資建設貴州畢節納雍縣居仁桃園 10 萬千瓦風電場專案，該專案總投資 6.11億元。專案位於貴州省畢節市納雍縣，建設容量100.56兆瓦，安裝 19臺單機容量 5兆瓦、1臺單機容量 5.56兆瓦風力發電機組，塔筒採用混塔形式，輪轂高度 160米。計劃工期 18個月。年利用小時數 1990.32小時,專案資本金財務內部收益率 6.62%，投資回收期 13.97年。專案資本金比例不低於總投資 20%，根據工程進展情況逐步注入，其餘建設資金透過長期貸款方式解決。"
+    },
+    {
+      "id": "4906996",
+      "time": "2026-05-29 18:30:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【電投綠能：投資12.42億元建設納雍縣水東金子20萬千瓦風電專案】電投綠能公告，全資子公司貴州電投綠能新能源有限公司投資建設貴州畢節納雍縣水東金子20萬千瓦風電場專案，該專案總投資12.42億元。專案位於貴州省畢節市納雍縣，建設風機容量201.12兆瓦，安裝33臺單機容量5兆瓦、4臺單機容量6.25兆瓦、2臺單機容量5.56兆瓦風力發電機組，塔筒形式為混塔、輪轂高度160米。專案計劃動態總投資12.42億元，計劃工期18個月。年利用小時數2022.54小時,專案資本金財務內部收益率6.66%，投資回收期13.96年。"
+    },
+    {
+      "id": "te:markets:554925",
+      "time": "2026-05-29 18:30:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The SENSEX Index Closes 1.46% Lower — The SENSEX Index decreased 1109 points or 1.46 percent on Friday to close at 74759 points. The decline was led by Power Grid (-4.55%), NTPC (-2.61%) and Reliance Industries (-2.39%)."
+    },
+    {
+      "id": "4906995",
+      "time": "2026-05-29 18:29:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST天璣：回購股份比例達2.13% 已使用資金4933.58萬元】ST天璣公告稱，公司於2026年4月29日審議透過回購股份方案，擬以5000萬元-10000萬元回購，價格不超16元/股。截至5月29日，公司以集中競價交易方式回購6508742股，佔總股本2.13%，最高成交價8.36元/股，最低6.44元/股，已使用資金4933.58萬元。公司後續將繼續實施回購計劃並及時披露資訊。"
+    },
+    {
+      "id": "4906994",
+      "time": "2026-05-29 18:29:31",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲施密德：主要關注點在將通脹恢復至2%的目標。就業市場保持平衡，部分受醫療行業招聘的推動。飆升的油價正在壓制消費能力。"
+    },
     {
       "id": "4906993",
       "time": "2026-05-29 18:29:04",
@@ -19,6 +126,14 @@
       "text": "【康華生物：納美信RSV疫苗啟動Ⅱ期臨床試驗】康華生物公告，公司擬收購的納美信自主研發的凍幹呼吸道合胞病毒mRNA疫苗（RSV疫苗）已正式啟動Ⅱ期臨床試驗。納美信是一家專注於mRNA領域新型疫苗與藥物研發的生物科技企業，公司計劃透過三期投資最終持有納美信100%股權。RSV疫苗適用於預防呼吸道合胞病毒感染引起的下呼吸道疾病，採用凍幹mRNA疫苗工藝，預期可在2℃~8℃穩定儲存。I期臨床試驗免後30天安全性資料顯示，短期安全性良好。此次Ⅱ期臨床試驗為評價RSV疫苗在60週歲及以上人群中接種的免疫原性及安全性的隨機、盲法、安慰劑對照試驗，於2026年5月29日在廣西壯族自治區正式啟動。"
     },
     {
+      "id": "mkt:019e7347-aaf2-7337-a6f4-c194f2b33913",
+      "time": "2026-05-29 18:28:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Defense Secretary Hegseth said he will explore US-Thai defense industrial cooperation."
+    },
+    {
       "id": "4906991",
       "time": "2026-05-29 18:28:36",
       "tags": [
@@ -27,12 +142,53 @@
       "text": "美國國防部長赫格塞思：與泰國國防部長舉行首次會晤，會談氛圍良好。"
     },
     {
+      "id": "mkt:019e7347-4621-7337-a6f4-bf19822f6fb2",
+      "time": "2026-05-29 18:28:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Defense Secretary Hegseth said his first meeting with Thailand's minister was very successful."
+    },
+    {
       "id": "4906990",
       "time": "2026-05-29 18:28:23",
       "tags": [
         "國際"
       ],
       "text": "美國國防部長赫格塞思：推進美泰國防工業合作相關磋商。"
+    },
+    {
+      "id": "mkt:019e7347-4416-7337-a6f4-b1d4f930fb24",
+      "time": "2026-05-29 18:28:20",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Ukraine President Zelenskiy said Russia has again carried out a \"brutal attack\" on civilian infrastructure."
+    },
+    {
+      "id": "mkt:019e7347-0f13-7337-a6f4-a9bd9d5692be",
+      "time": "2026-05-29 18:28:07",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Ukraine's President Zelenskiy said he is prepared to support Romania by any necessary means."
+    },
+    {
+      "id": "mkt:019e7346-f83d-7337-a6f4-a2ef119d0f86",
+      "time": "2026-05-29 18:28:04",
+      "tags": [
+        "MKT News",
+        "00300.HK",
+        "Impact bullish"
+      ],
+      "text": "HKEX data show Morgan Stanley's long position in Midea Group (00300.HK) rose to 5.00% from 3.39% on May 26."
     },
     {
       "id": "4906989",
@@ -52,12 +208,66 @@
       "text": "【美國、丹麥和格陵蘭島三方代表在華盛頓舉行新一輪談判】總檯記者當地時間5月29日獲悉，美國、丹麥和格陵蘭島代表28日在美國華盛頓舉行新一輪秘密談判，就三方未來關係、北極安全及資源合作等議題展開磋商。據悉，27日，丹麥外交大臣率丹麥代表團抵達華盛頓，並於28日與格陵蘭島代表舉行會談。美國方面則由總統國家安全事務副助理邁克爾·尼德姆負責談判事務。當前三方討論主要圍繞未來防務合作、北約在北極地區角色以及格陵蘭島礦產資源開發等問題展開。此前，美國總統特朗普曾多次公開表示，希望格陵蘭島成為美國的一部分，引發丹麥和格陵蘭島方面強烈關注。據訊息人士透露，丹麥和格陵蘭島代表已明確向美方表態，不會在主權問題上作出讓步。即便未來達成協議，格陵蘭島土地所有權也不會轉移給美國。訊息人士表示，目前談判整體仍保持謹慎樂觀，但由於特朗普本人在相關問題上立場強硬，協議前景仍存在較大不確定性。有與會人士指出，如果特朗普認為協議無法體現“美國利益”或難以向美國國內展示為“重大勝利”，相關談判可能隨時陷入停滯。（央視新聞）"
     },
     {
+      "id": "mkt:019e7346-9b2a-7337-a6f4-9834e299ce00",
+      "time": "2026-05-29 18:27:43",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "Fed's Schmid said surging oil prices are suppressing consumer purchasing power."
+    },
+    {
+      "id": "mkt:019e7346-7601-7337-a6f4-93a5797645f2",
+      "time": "2026-05-29 18:27:35",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve's Schmid said the labor market remains balanced, partly driven by hiring in the healthcare sector."
+    },
+    {
       "id": "4906987",
       "time": "2026-05-29 18:27:22",
       "tags": [
         "國際"
       ],
       "text": "澤連斯基：已準備好以任何必要方式支援羅馬尼亞。"
+    },
+    {
+      "id": "mkt:019e7346-4b99-7337-a6f4-8a93905e2227",
+      "time": "2026-05-29 18:27:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Schmid of the Federal Reserve said the primary focus is restoring inf to the 2% target."
+    },
+    {
+      "id": "mkt:019e7346-1842-7337-a6f4-822b627b94b8",
+      "time": "2026-05-29 18:27:11",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fed official Schmid said his chief concern is inf and that inf is currently overheated."
     },
     {
       "id": "4906986",
@@ -80,6 +290,15 @@
       "text": "Ireland Harmonised Inflation Edged Down to 3.5% — The EU-standard Harmonised Index of Consumer Prices (HICP) in Ireland rose by 3.5% year-on-year in May 2026, easing slightly from a 3.6% rise in March, according to preliminary estimates. Energy prices are estimated to have eased to 11.9% from 15.5% in the previous month. Food inflation also softened, slowing to 1.4% from 2.0%. In contrast, services inflation accelerated to 3.7% from 3.3%. Excluding energy and unprocessed food inflation is is estimated to have edged up to 2.7% from 2.6% in April. On a monthly basis, harmonised consumer prices fell 0.1% in May, reversing the 0.4% increase in the previous month."
     },
     {
+      "id": "em:qqyh_mlc:202605293754577921",
+      "time": "2026-05-29 18:26:28",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲施密德：美聯儲必須表明降低通脹的決心】美聯儲施密德稱，美聯儲必須表明降低通脹的決心，大多數資料指向經濟持續增長；不太認同近期通脹上升是暫時的看法。並表示，有證據表明，人工智慧正在抑制招聘，但並未導致裁員。"
+    },
+    {
       "id": "4906985",
       "time": "2026-05-29 18:26:24",
       "tags": [
@@ -89,6 +308,36 @@
       "text": "美聯儲施密德：有證據表明，人工智慧正在抑制招聘，但並未導致裁員。與過去相比，美國經濟對能源衝擊的暴露程度降低。美聯儲必須表明降低通脹的決心。大多數資料指向經濟持續增長。我不太認同近期通脹上升是暫時的看法。截至目前，美國能源生產商尚未增加投資以擴大生產。"
     },
     {
+      "id": "mkt:019e7345-61a9-7337-a6f4-7b2f6d3c85f3",
+      "time": "2026-05-29 18:26:24",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Fed's Schmid said that, as of now, US energy producers have not increased investment to expand production."
+    },
+    {
+      "id": "mkt:019e7345-3d26-7337-a6f4-728ec8abe237",
+      "time": "2026-05-29 18:26:12",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "Fed's Schmid said he does not agree that the recent rise in inflation is transitory."
+    },
+    {
       "id": "4906984",
       "time": "2026-05-29 18:25:50",
       "tags": [
@@ -96,6 +345,53 @@
         "觀點"
       ],
       "text": "據港交所披露：5月26日，摩根士丹利持有的美的集團H股多頭倉位從3.39%提升至5.00%。"
+    },
+    {
+      "id": "mkt:019e7344-baef-7337-a6f4-6c6dcc4520ec",
+      "time": "2026-05-29 18:25:44",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "USDJPY"
+      ],
+      "text": "Federal Reserve's Schmid said most data point to continued economic growth."
+    },
+    {
+      "id": "mkt:019e7344-aea2-7337-a6f4-61e6fb538d2f",
+      "time": "2026-05-29 18:25:41",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Schmid of the Federal Reserve said the Fed must demonstrate its determination to reduce inf."
+    },
+    {
+      "id": "mkt:019e7344-9f41-7337-a6f4-5989e9d2f57b",
+      "time": "2026-05-29 18:25:37",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "Fed's Schmid said the US economy is less exposed to energy shocks now than in the past."
+    },
+    {
+      "id": "mkt:019e7344-7d40-7337-a6f4-52674867c5cd",
+      "time": "2026-05-29 18:25:28",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Federal Reserve's Schmid said evidence indicates AI is suppressing hiring but has not caused layoffs."
     },
     {
       "id": "mkt:019e7343-4fa7-7337-a6f4-4835dcd7f2fd",
@@ -142319,101 +142615,6 @@
         "公司"
       ],
       "text": "【紫光國微：擬發行股份及支付現金方式購買瑞能半導100%股權】紫光國微公告，擬以發行股份及支付現金方式購買瑞能半導100%股權，交易價格為19億元。其中，現金對價為3.8億元，股份對價為15.2億元。同時，擬向不超過35名特定投資者募集配套資金，募集金額不超過3.96億元，全部用於支付本次交易現金對價、中介機構費用、交易稅費等併購整合費用。"
-    },
-    {
-      "id": "4894988",
-      "time": "2026-05-22 18:33:51",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國股指期貨走低：納斯達克100股指期貨持平，標普500電子迷你股指期貨上漲0.1%，道瓊斯股指期貨上漲0.2%。"
-    },
-    {
-      "id": "mkt:019e4f3f-4cc6-777d-b241-183939ecee30",
-      "time": "2026-05-22 18:33:28",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "Nasdaq100",
-        "Dow"
-      ],
-      "text": "U.S. STOCK INDEX FUTURES DRIFT LOWER; NASDAQ 100 FUTURES FLAT, S&P 500 E-MINI FUTURES UP 0.1%, DOW FUTURES UP 0.2%"
-    },
-    {
-      "id": "4894987",
-      "time": "2026-05-22 18:32:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國光電器：收到廣東監管局行政監管措施決定書】國光電器公告，公司收到廣東監管局下發的《關於對國光電器股份有限公司、陸宏達、何偉成、肖慶、王婕採取出具警示函措施的決定》。決定書指出，公司存在未及時披露大額投資收益、未完整披露公司控制權結構、未如實披露員工持股計劃資金來源及代持情況、賬外收付資金、核算收入費用、未及時披露關聯方交易等違規問題。廣東監管局決定對公司及相關人員採取出具警示函的行政監管措施。"
-    },
-    {
-      "id": "4894986",
-      "time": "2026-05-22 18:32:07",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信建投：半導體裝置及零部件產業鏈投資機遇】中信建投釋出研報稱，隨著國產零部件供應商的持續研發突破與放量，認為當前時間點對於零部件板塊的投資更多聚焦於細分品類的賽道投資：一方面，關注對低國產化率賽道的投資，期待相關品類研發-送樣-小批次的持續突破，如EFEM、機械手、真空泵/分子泵、閥門、靜電卡盤、射頻電源、MFC、光刻機相關零部件（雙工件臺/浸液系統、光學類零部件等）；另一方面，關注國產化進展順暢、業績逐步釋放的品類投資，如機械大類金屬零部件、氣體輸送子系統GAS BOX等。"
-    },
-    {
-      "id": "te:economy:553086",
-      "time": "2026-05-22 18:32:02",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Latvia",
-        "Unemployment Rate",
-        "Importance 1"
-      ],
-      "text": "Latvia Unemployment Rate at 1-Year High — Latvia’s unemployment rate rose to 7.1% in the first quarter of 2026 from 6.7% in the previous quarter, but was down from 7.4% in the same period last year. This marked the highest reading since the first quarter of 2025, as the number of unemployed persons increased by 2.6 thousand quarter-on-quarter to 66.4 thousand. The jobless rate for men fell to 7.2% from 7.6%, with the number of unemployed men at 32.9 thousand, while the rate for women rose to 7% from 5.9%, with unemployed women totaling 33.4 thousand. Meanwhile, total employment dropped by 11.6 thousand to 871.2 thousand, bringing the employment rate to 63.8%, down 1 percentage point from the fourth quarter. The youth unemployment rate (ages 15–24) fell to 9.4%, equivalent to 6.2 thousand people, decreasing by 4.1 percentage points from Q4. At the same time, 16.6% of the population aged 20–64, or 173.6 thousand people, remained economically inactive, down by 5.6 thousand from the corresponding period a year earlier."
-    },
-    {
-      "id": "4894985",
-      "time": "2026-05-22 18:31:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【魚躍醫療：擬以2億元至4億元回購股份並登出】魚躍醫療(002223.SZ)公告稱，公司擬以自有資金回購股份，用於登出並減少註冊資本。回購資金總額不低於2億元且不超過4億元，回購價格不超過40元/股。按回購上限測算，預計可回購約1000萬股，佔總股本1%。"
-    },
-    {
-      "id": "4894984",
-      "time": "2026-05-22 18:31:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "【愛克股份：控股股東謝明武解除質押3.04%，新質押0.76%】愛克股份公告，公司控股股東謝明武解除質押股份670萬股，佔其持股10.56%、佔總股本3.04%，質押期限2026/02/06至2026/05/20，質權人為浙江銀通典當有限責任公司；並新質押167.51萬股，佔其持股2.64%、佔總股本0.76%，質押起始日2026/5/21，質權人為廣東省粵普小額再貸款股份有限公司，用途為個人資金需求；本次後其已質押股份2754.67萬股，佔其持股43.40%、佔公司總股本12.51%。"
-    },
-    {
-      "id": "4894983",
-      "time": "2026-05-22 18:30:58",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "印度央行轉移盈餘後，印度10年期基準國債收益率上漲3個基點，至7.10%。"
-    },
-    {
-      "id": "4894982",
-      "time": "2026-05-22 18:30:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "【魯比奧說北約必須“對所有成員有利”】美國國務卿魯比奧22日在瑞典赫爾辛堡說，北約“必須對所有成員有利”。據瑞典通訊社報道，魯比奧當天在赫爾辛堡出席北約外長會前接受媒體採訪時說，像任何聯盟一樣，北約必須“對所有成員有利”，各方必須清楚瞭解彼此的期待。此次會議將討論一些盟友在美國對伊朗軍事行動中缺乏配合的問題。魯比奧21日從美國前往瑞典出席北約外長會。啟程前，他批評北約在美國對伊朗軍事行動中沒有采取“任何實質行動”，西班牙還拒絕美國使用當地軍事基地。他希望在即將舉行的北約外長會上著力解決“北約對美國究竟有何益處”的議題。北約秘書長呂特22日在赫爾辛堡表示，隨著歐洲和北約增強自身能力，北約將繼續朝著減少對單一盟友依賴的方向發展。（新華社）"
-    },
-    {
-      "id": "te:markets:553084",
-      "time": "2026-05-22 18:30:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "India",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The SENSEX Index Closes 0.31% Higher — The SENSEX Index went up by 232 points or 0.31 percent on Friday to close at 75415 points. The rise was led by Axis Bank (2.68%), ICICI Bank (1.96%) and Asian Paints (1.46%). On the downside, the weakerst performers were Sun Pharmaceuticals (-2.71%), ITC (-1.96%) and Power Grid (-1.80%)."
     }
   ]
 }
