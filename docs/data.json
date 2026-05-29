@@ -1,7 +1,118 @@
 {
-  "updated": "2026-05-29 15:14:02",
-  "count": 15585,
+  "updated": "2026-05-29 15:17:59",
+  "count": 15586,
   "items": [
+    {
+      "id": "mkt:019e7297-e681-7aa7-a782-b64e2658fe85",
+      "time": "2026-05-29 15:16:57",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Japan's Chief Cabinet Secretary Kihara Minoru said the government’s position remains to take appropriate action on the exchange rate."
+    },
+    {
+      "id": "te:economy:554811",
+      "time": "2026-05-29 15:16:37",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Austria",
+        "Producer Prices Change",
+        "Importance 1"
+      ],
+      "text": "Austria Producer Prices Rise at Fastest Pace in Nearly 3 Years — Producer prices in Austria increased 1.9% year-on-year in April 2026, after a flat reading in March. This was the highest reading since May 2023, driven mainly by a sharp rise in intermediate goods prices (3.8% vs 1.2% in March). Energy costs rose 2.0%, rebounding from a 1.7% drop in the previous month and marking the first increase in nearly three years. Prices for capital goods increased 0.4%, following a 0.2% rise, while consumer goods prices rose 0.6%, slowing from a 0.8% advance. On a monthly basis, the PPI rose 0.9%, easing from a 1.4% increase in March, as higher prices in the manufacture of chemicals and chemical products (11.3%) and basic metals (3.5%) were partly offset by declines in electricity, gas, steam and air conditioning supply (-1.7%) and in the manufacture of computer, electronic and optical products (-0.1%)."
+    },
+    {
+      "id": "4906412",
+      "time": "2026-05-29 15:16:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華中能源監管局組織召開雅湖、金永直流輸電工程配套電源建設工作座談會】華中能源監管局會同四川能源監管辦強化協同監管，共同組織召開雅湖、金永直流輸電工程配套電源建設工作座談會，四川省能源局和雅礱江流域水電開發有限公司、華電金沙江上游水電開發有限公司參加會議。會議指出，雅湖直流和金永直流是國家“西電東送”戰略的重要組成部分，是最佳化全國電力流向、提升跨區域電力調配能力的關鍵舉措。會議強調，各有關單位要發揮合力、協同推進配套電源建設。發電企業要落實電源建設主體責任，行業主管部門要加強統籌協調和要素保障，監管機構要健全跟蹤督導機制，進一步落實全國電力流向最佳化佈局推進會部署要求。"
+    },
+    {
+      "id": "mkt:019e7297-6d8d-7aa7-a782-af99516f1841",
+      "time": "2026-05-29 15:16:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China bond futures midday close】2-year bond futures (TS) main contract up 0.01% at midday close; 5-year (TF) +0.07%, 10-year (T) +0.09%, 30-year (TL) +0.20%."
+    },
+    {
+      "id": "te:markets:554810",
+      "time": "2026-05-29 15:16:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Shangai Composite Index Closes 0.64% Lower — The Shangai Composite Index fell 26 points or 0.64 percent on Friday to close at 4072 points. Leading the losses are Sanan Optoelectron (-7.24%), Avic Aviation Engine (-5.64%) and Shanghai Electric (-4.74%). Top gainers were Huaneng (10.05%), China International (9.02%) and Datang Intl (7.25%)."
+    },
+    {
+      "id": "4906411",
+      "time": "2026-05-29 15:15:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本內閣官房長官：政府的立場始終是針對外匯走勢採取適當行動。"
+    },
+    {
+      "id": "4906410",
+      "time": "2026-05-29 15:15:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨收盤】 30年期主力合約漲0.20%， 10年期主力合約漲0.09%， 5年期主力合約漲0.07%， 2年期主力合約漲0.01%。"
+    },
+    {
+      "id": "mkt:019e7295-116f-7aa7-a782-a0ed372d3b68",
+      "time": "2026-05-29 15:13:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan Chief Cabinet Secretary Kihara Minoru said he is deeply concerned about speculative FX volatility."
+    },
+    {
+      "id": "te:economy:554807",
+      "time": "2026-05-29 15:13:46",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Spain",
+        "Inflation Rate",
+        "Importance 2"
+      ],
+      "text": "Spain Inflation Rate Unexpectedly Holds Steady at 3.2% — Spain’s annual inflation rate stood at 3.2% in May 2026, matching April's reading and below the expected 3.4%, preliminary data showed. Transport and recreational, sporting and cultural activities generated upward pressure on prices, but this was offset by declines in clothing and footwear and stable food and non-alcoholic beverages prices relative to the same period last year. The core inflation rate, which excludes volatile items such as food and energy, ticked higher to 2.9% from 2.8% in the prior month. Meanwhile, the EU-harmonized annual rate rose further to 3.6%, a new high since June 2024, up from 3.5% in April and in line with expectations."
+    },
+    {
+      "id": "te:economy:554806",
+      "time": "2026-05-29 15:13:44",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Georgia",
+        "Monthly GDP YoY",
+        "Importance 1"
+      ],
+      "text": "Georgia GDP Growth Slows to 6-Month Low — Georgia’s economy expanded by 6.2% year-on-year in April 2026, easing from 10.7% growth recorded in the previous month. This marked the softest economic growth since last October, but remained supported by solid activity across several key sectors. Manufacturing, information and communication, transportation and storage, wholesale and retail trade, and financial and insurance activities were the main contributors to growth. In contrast, declines were registered in construction as well as mining and quarrying activities. Over the first four months of 2026, economic activity averaged at 8.3%. External trade trends remained favorable, with exports rising 21.1% year-on-year to $2.44 billion in January-April, while imports declined 4.9% to $5.69 billion."
+    },
+    {
+      "id": "mkt:019e7294-b61c-7aa7-a782-98bc2eff0f88",
+      "time": "2026-05-29 15:13:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan's Chief Cabinet Secretary Kihara declined to comment on the level of the exchange rate or on intervention."
+    },
     {
       "id": "4906409",
       "time": "2026-05-29 15:13:08",
@@ -17,6 +128,15 @@
         "國際"
       ],
       "text": "日本內閣官房長官：不會就匯率水平、干預事宜置評。"
+    },
+    {
+      "id": "4906407",
+      "time": "2026-05-29 15:12:16",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【諾和諾德：印度批准維格維用於青少年群體】諾和諾德印度公司回應稱，印度中央藥品標準管控局已批准爆款減肥藥Wegovy上市，適用人群為12週歲及以上、體重超60公斤（132磅）的青少年。該企業表示，兒童肥胖問題日益嚴峻，已成為一大公共健康難題，且會帶來長期健康隱患；該藥物的使用須由醫護人員評估判定。藥企同時指出，這款藥物針對青少年的用藥劑量與售價將和成人版本保持一致。"
     },
     {
       "id": "mkt:019e7292-c6bd-7aa7-a782-976a9d1a36fb",
@@ -140610,110 +140730,6 @@
         "其他"
       ],
       "text": "立陶宛官員：援烏事宜需各國分攤負擔。"
-    },
-    {
-      "id": "4894440",
-      "time": "2026-05-22 15:17:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "上海航運交易所資料顯示，截至5月22日，上海出口集裝箱運價指數（綜合指數）報2218.15點，與上期相比上漲77.49點。中國出口集裝箱運價綜合指數報1317.36點，與上期相比漲2.9%。"
-    },
-    {
-      "id": "te:markets:553004",
-      "time": "2026-05-22 15:17:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "ASX 200 Rises Modestly This Week — Australia’s S&P/ASX 200 rose 35 points, or 0.4%, to close at 8,657 on Friday, extending gains for a second straight session as stronger U.S. stock futures lifted sentiment after the Dow Jones ended at a record high Thursday, with hopes for a potential easing in Middle East tensions supporting risk appetite. Local markets gained 0.3% for the week, recovering from sharp losses in the prior period, with an unexpected fall in April employment reinforcing views that the Reserve Bank could pause its tightening path after delivering three rate hikes this year. Most sectors ended higher, led by industrials, mining, and logistics. However, gains were capped by inflation concerns ahead of next week’s April CPI release. In March, figures accelerated to 4.6%, the steepest pace since September 2023, partly driven by higher fuel prices. Among top gainers were South32 Ltd. (5.1%), Evolution Mining (3.1%), and PLS Group (2.9%). The big four major lenders rose between 0.5% to 0.9%"
-    },
-    {
-      "id": "4894439",
-      "time": "2026-05-22 15:16:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "與雅詩蘭黛的合作談判失敗後，PUIG股價暴跌13.8%。"
-    },
-    {
-      "id": "4894438",
-      "time": "2026-05-22 15:16:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "【創新藥械商保“買單”超150億】根據中再壽險與鎂信健康近日聯合編寫的《中國創新藥械多元支付白皮書（2026）》（下稱“白皮書”），2025年創新藥市場銷售規模預計達1950億元，較去年實現顯著增長。其中基本醫保支出金額約905億元，仍是國內創新藥械支付的主要來源。而商保的支付角色亦有所提升。2025年，商業健康險對創新藥械支付規模已達152億元，同比增長23%，其中醫療保險支付82億元、重疾險支付70億元。（第一財經）"
-    },
-    {
-      "id": "te:markets:553003",
-      "time": "2026-05-22 15:16:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Shangai Composite Index Closes 0.87% Higher — The Shangai Composite Index rose 36 points or 0.87 percent on Friday to close at 4113 points. Leading the gains are China Molybdenum (4.65%), Sanan Optoelectron (3.31%) and Zijin Mining (3.07%). Top losers were China Coal (-4.48%), Huatai Securities (-2.68%) and Hengli Petrochemical (-2.32%)."
-    },
-    {
-      "id": "4894437",
-      "time": "2026-05-22 15:15:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "【第64屆高博會吸引1500餘所高校和6000餘家企業參會】22日，第64屆高等教育博覽會和第二屆建設教育強國·高等教育改革發展論壇在江西南昌開幕，吸引1500餘所高校和6000餘家企業參會。本屆高博會展覽面積達14萬平方米，設江西、科創、人才、高階儀器及企業五大展區。其中，江西展區展示江西高等教育服務區域發展的成效，南昌大學碳化矽單晶技術、金黃光LED等標誌性成果亮相。科創專區邀請北京大學、清華大學等25所高校，聚焦戰略性新興產業與未來產業，帶來科技成果轉化前沿專案。企業專區匯聚世界500強、科技領軍企業，匯聚智慧教育、產教融合等7個領域的成果。（新華社）"
-    },
-    {
-      "id": "4894436",
-      "time": "2026-05-22 15:15:38",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "【聯想集團港股漲超20%】聯想集團港股漲20.15%，報15.79港元。"
-    },
-    {
-      "id": "4894435",
-      "time": "2026-05-22 15:15:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【創業板改革政策宣講暨全省推動上市公司高質量發展活動在瀋陽舉行】為深入宣傳落實創業板改革政策，引導企業用好資本市場資源配置功能，實現高質量發展，近日，創業板改革政策宣講暨全省推動上市公司高質量發展活動在瀋陽舉行。本次活動邀請了深圳證券交易所專家面向重點擬上市企業、券商機構、各市政府及相關省（中）直單位人員進行政策宣介；組織對重點上市後備企業走訪調研，幫助企業準確把握改革要點，夯實培育與申報工作基礎，促進創業板改革政策在遼寧加快落地見效；同時，活動還包含了債券融資座談、地方政府IPO資訊推送培訓、上市公司高質量發展動員部署等系列內容。下一步，遼寧證監局將持續深化與各方協作聯動，推動創業板改革舉措在轄區落實落地，為遼寧發展新質生產力、實現經濟高質量發展提供堅實的金融力量。（證監會）"
-    },
-    {
-      "id": "4894434",
-      "time": "2026-05-22 15:15:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國債期貨收盤】 30年期主力合約漲0.22%， 10年期主力合約跌0.04%， 5年期主力合約跌0.03%， 2年期主力合約跌0.01%。"
-    },
-    {
-      "id": "mkt:019e4e89-5164-7cc0-a022-80738f414d76",
-      "time": "2026-05-22 15:14:42",
-      "tags": [
-        "MKT News",
-        "Important",
-        "0992.HK",
-        "Impact bullish"
-      ],
-      "text": "SHAERS OF LENOVO GROUP UP NEARLY 20%"
-    },
-    {
-      "id": "te:economy:553002",
-      "time": "2026-05-22 15:14:36",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Turkey",
-        "Capacity Utilization",
-        "Importance 1"
-      ],
-      "text": "Turkey Factory Capacity Usage at 5-Month High — The manufacturing industry in Turkey operated at 74.2% of its production capacity in May 2026, the highest level since December 2025, from 73.8% in the previous month. Capacity utilization increased across several categories, including durable consumer goods, which rose to 70.6% from 68.9% in April, and non-durable consumer goods, which edged up to 73.1% from 72%. Consumer goods overall also increased to 72.7% from 71.5%. Intermediate goods inched higher to 75.2% from 74.9%, while food and beverages rose to 73.2% from 72.4%. Meanwhile, capacity utilization in investment goods remained unchanged at 70.3%."
     }
   ]
 }
