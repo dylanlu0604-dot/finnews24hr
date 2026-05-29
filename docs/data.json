@@ -1,7 +1,51 @@
 {
-  "updated": "2026-05-29 08:55:39",
-  "count": 15379,
+  "updated": "2026-05-29 08:59:36",
+  "count": 15376,
   "items": [
+    {
+      "id": "4905784",
+      "time": "2026-05-29 08:58:35",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【多種電子氣體供應緊張 這些上市公司佈局電子級氯氣】隨著全球半導體產業快速復甦、AI晶片與先進製程需求集中爆發，疊加中東地緣局勢持續緊張，今年以來電子級氣體供應緊張的訊息不斷。近期，六氟化鎢和電子級氟化氫兩種氣體出現供應缺口。電子級氯氣方面，資料寶根據公開資料梳理，多家上市公司已佈局相關業務。濱化股份5月18日的調研紀要顯示，公司電子級氯氣中試專案透過專家驗收，將加快6N級電子級氯氣、電子級鹽酸和電子級氟化氫研發落地及商業化。聯泓新科2025年年報顯示，公司電子級高純特氣裝置主要產品超高純電子級氯化氫、 電子級氯氣質量優異，供應臺積電、上海新昇等行業領先企業。湖北宜化在5月18日的調研紀要中表示，在電子化學品方面，公司重點發展電子級氫氟酸、磷酸、硫酸、雙氧水等溼電子化學品和電子級氯氣、氯化氫、矽烷等電子特氣。和遠氣體2025年年報顯示，公司潛江電子特氣產業園的“電子級超純氨、高純氫、電子級氯化氫、電子級氯氣、電子級甲烷、電子級一氧化碳、高純羰基硫等電子特氣及電子化學品”等產品已經全部投產。此外，中巨芯、金宏氣體、華特氣體均是電子級氯氣相關生產企業。從工業氣體概念股表現來看，受供應緊張影響，相關概念股年內大幅上漲。其中，中船特氣年內股價漲幅超330%，公司是國內六氟化鎢龍頭；華特氣體、三孚股份、廣鋼氣體等年內股價翻番，其中華特氣體是國內電子特氣國產龍頭。"
+    },
+    {
+      "id": "4905783",
+      "time": "2026-05-29 08:57:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【萬通發展等成立科技公司，含多項AI業務】企查查APP顯示，近日，北京萬通數雲科技有限公司成立，註冊資本1億元，經營範圍包含：人工智慧行業應用系統整合服務；人工智慧基礎軟體開發；人工智慧公共服務平臺技術諮詢服務等。企查查股權穿透顯示，該公司由萬通發展等共同持股。"
+    },
+    {
+      "id": "4905782",
+      "time": "2026-05-29 08:55:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普表示，美國九個月前對伊朗的打擊阻止了德黑蘭獲得核武器。"
+    },
+    {
+      "id": "mkt:019e713a-f92b-7ee0-99de-d38fd4163a73",
+      "time": "2026-05-29 08:55:50",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "【CITIC Securities: Insurance sector valuations offer high margin of safety】CITIC Securities says current insurance-sector valuations carry a high margin of safety. Deposit migration and 'anti-involution' policies should sustain faster liability-side growth, while an equity-market rebound since April should bolster profits. Life insurers: tightened 'reporting-and-bank-unified' supervision of bancassurance and likely lower dividend demonstration rates support both volume and pricing on life liabilities; NBV is expected to grow rapidly. P&C insurers: unified reporting should help non-auto expense ratios, and falling claim rates — including for new-energy vehicle cover — should reduce loss ratios; if natural-disaster losses remain stable, underwriting profits are likely to continue rising. On the asset side, the CSI 300 INDEX has risen 10.59% since April 2026 (through May 25 close); it rose 1.25% in Q2 2025, supporting stronger listed insurers' Q2 profit growth."
+    },
+    {
+      "id": "4905781",
+      "time": "2026-05-29 08:55:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普在接受福克斯新聞採訪時表示，華盛頓傾向於與伊朗達成協議，所有選項仍可行。美國避免打擊伊朗的所有軍事領導層，以免重蹈伊拉克的覆轍。伊朗海軍被完全擊沉，該國空軍被摧毀。"
+    },
     {
       "id": "te:markets:554659",
       "time": "2026-05-29 08:54:24",
@@ -138499,76 +138543,6 @@
         "市場"
       ],
       "text": "【商品期貨開盤】集運指數歐線期貨連續漲4.31%，丁二烯橡膠連續跌2.92%，焦煤連續跌2.90%，瓶片連續跌2.80%，纖維板連續漲2.53%。"
-    },
-    {
-      "id": "te:markets:552901",
-      "time": "2026-05-22 08:59:33",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "Japanese Shares Advance as SoftBank Extends Surge — The Nikkei 225 Index jumped 1.7% to above 62,700, while the broader Topix Index rose 0.7% to 3,880 on Friday, building on gains from the previous session amid renewed optimism surrounding technology and artificial intelligence-related stocks. SoftBank Group surged more than 10%, extending the previous day’s nearly 20% rally, after reports indicated that two of its portfolio companies, OpenAI and SB Energy, are progressing toward US initial public offerings. Other major technology shares also moved higher, including Kioxia Holdings (+3%), Fujikura (+6.2%), and Ibiden Co (+3.9%). On the geopolitical front, Tehran said the latest US proposal had partly narrowed differences between the conflicting sides. However, remarks from Iran’s Supreme Leader about retaining the country’s uranium stockpile, along with disagreements over proposed tolls in the Strait of Hormuz, continued to cloud prospects for a breakthrough agreement."
-    },
-    {
-      "id": "4893829",
-      "time": "2026-05-22 08:59:14",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "【中金財富期貨：油價並未失控顯著減輕了黃金市場的壓力】美伊戰爭爆發逾三個月，霍爾木茲海峽受阻、通脹承壓，油市卻未失控。市場對布倫特原油未來12個月均價料鎖定在81至100美元區間，因為需求破壞充當\"天然減震器\"，市場正從追逐上行轉向管理波動。油價並未失控顯著減輕了黃金市場的壓力，目前黃金依然跟隨美股波動，也受油價影響，無趨勢性行情。（中金財富期貨）"
-    },
-    {
-      "id": "4893828",
-      "time": "2026-05-22 08:58:27",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "國家發展改革委、財政部印發《推進生態綜合補償實施方案》。到 2030 年，生態綜合補償機制更加完善，生態保護主體獲得感有效提升，重點區域綠色可持續發展能力持續增強，為加快經濟社會發展全面綠色轉型、建設美麗中國提供有力保障。"
-    },
-    {
-      "id": "4893827",
-      "time": "2026-05-22 08:56:40",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本東證指數上漲1%，至3892.51。"
-    },
-    {
-      "id": "4893826",
-      "time": "2026-05-22 08:56:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "【迦南智慧子公司浙江迦辰預中標京東超充站專案】據迦南智慧訊息，公司子公司浙江迦辰預中標京東華中2026湖北區陽邏“亞洲一號”園區超充站建設及運營服務專案。"
-    },
-    {
-      "id": "4893825",
-      "time": "2026-05-22 08:56:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【日經225指數漲幅擴大至2%】日經225指數漲幅擴大至2%，現報62892.74點。"
-    },
-    {
-      "id": "4893824",
-      "time": "2026-05-22 08:55:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "【5月21日729股獲融資買入超億元 瀾起科技獲買入40.77億元居首】5月21日共有3466只個股獲融資資金買入，有729股買入金額超億元。其中，瀾起科技、兆易創新、中際旭創融資買入金額排名前三，分別獲買入40.77億元、40.06億元、39.94億元。"
-    },
-    {
-      "id": "4893823",
-      "time": "2026-05-22 08:55:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中鐵裝配：目前在東非、中亞地區有部分業務落地】中鐵裝配(300374)5月22日在互動平臺表示，公司重視並積極推動佈局海外市場，目前在東非、中亞地區有部分業務落地。未來公司將不斷完善海外營銷網路佈局，持續增強市場競爭力。"
     }
   ]
 }
