@@ -1,7 +1,93 @@
 {
-  "updated": "2026-05-29 08:28:34",
-  "count": 15360,
+  "updated": "2026-05-29 08:32:26",
+  "count": 15366,
   "items": [
+    {
+      "id": "4905751",
+      "time": "2026-05-29 08:31:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "五年期日本國債收益率下跌1.5個基點，至1.890%。"
+    },
+    {
+      "id": "4905750",
+      "time": "2026-05-29 08:30:53",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【歐盟制裁以色列定居者和哈馬斯】歐盟理事會當地時間5月28日發表宣告說，決定對4個以色列相關實體和3名個人實施制裁，理由是他們應對被以色列佔領的約旦河西岸地區巴勒斯坦人遭受的嚴重侵犯人權行為負責。被列入制裁的實體和個人涉及以色列極端主義定居者組織、支援定居者的組織及相關負責人。 歐盟理事會當天還決定擴大針對哈馬斯和傑哈德的限制性措施適用範圍，將10名哈馬斯政治局成員列入制裁名單。"
+    },
+    {
+      "id": "4905749",
+      "time": "2026-05-29 08:30:18",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "【油價下跌，受對美伊可能達成協議的樂觀情緒影響】亞洲早盤油價下跌，受對美伊可能達成協議的樂觀情緒影響，該協議可能會緩解對供應中斷的擔憂。美國財政部長貝森特週四表示，兩國已接近達成一項平息衝突的協議，不過總統特朗普尚未簽字批准。此前一名美國官員表示，兩國接近達成一項為期60天的協議，包括在頭30天內相互解除在霍爾木茲海峽的封鎖。該海峽是一條關鍵水道，全球五分之一的石油通常經由該水道運輸。美、布兩油日內均跌超1%，現分別報90.13美元/桶和91.47美元/桶。"
+    },
+    {
+      "id": "mkt:019e7122-a941-7ee0-99de-9bfecf8b42f9",
+      "time": "2026-05-29 08:29:17",
+      "tags": [
+        "MKT News",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "【CITIC Securities: lower volumes, higher prices accelerate profit and revenue growth】CITIC Securities says April industrial firms posted new highs in both profit and revenue growth. Price gains and margin improvement—anchored by a stronger-than-expected PPI recovery—are the main drivers, while a weak volume recovery is dragging. State-owned and joint-stock firms led profit gains; foreign-funded firms’ profit growth slowed marginally. By sector, upstream profits surged, midstream profit share rose and downstream profits ticked up; coal, nonferrous metals, computer & communications and chemical raw materials outperformed, with coal showing marked margin recovery. Firms’ inventory restocking intentions are rising, but the report flags risks from shifts in external demand and from raw-material price increases weighing on production expansion and medium-to-long-term profits."
+    },
+    {
+      "id": "4905748",
+      "time": "2026-05-29 08:29:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "韓華海洋株式會社：獲得3760億韓元訂單。"
+    },
+    {
+      "id": "mkt:019e7122-87f0-7ee0-99de-924e7c9106da",
+      "time": "2026-05-29 08:29:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan 10-year bond yield fell 3.5 bps to 2.66%."
+    },
+    {
+      "id": "4905747",
+      "time": "2026-05-29 08:29:00",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本10年期國債收益率下跌3.5個基點，至2.66%。"
+    },
+    {
+      "id": "4905746",
+      "time": "2026-05-29 08:28:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天奧電子：公司時頻裝置未涉及時間微縮技術】天奧電子5月29日在互動平臺表示，公司時頻裝置未涉及時間微縮技術。"
+    },
+    {
+      "id": "4905745",
+      "time": "2026-05-29 08:28:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【德國紐倫堡市市長率團訪蓉，聚焦生物醫藥與醫療機器人合作】據成都商報，5月28日，德國紐倫堡市市長馬庫斯·柯尼希（Marcus König）率團訪問成都。當天下午，代表團參訪成都天府國際生物城文化中心，並與成都博恩思醫學機器人有限公司相關負責人進行座談，圍繞生物醫藥、醫療機器人及產業合作等內容展開交流。其間，柯尼希市長現場操作體驗博恩思醫學機器人，雙方還互贈禮物。據瞭解，代表團此次訪蓉時間為5月28日至31日。這也是柯尼希市長首次正式訪華。"
+    },
+    {
+      "id": "4905744",
+      "time": "2026-05-29 08:28:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "博泰車聯稱與英偉達在美國舉行了戰略合作簽約儀式及相關交流活動。"
+    },
     {
       "id": "mkt:019e7121-3fe6-7ee0-99de-8d6ee85eb567",
       "time": "2026-05-29 08:27:44",
@@ -138366,43 +138452,6 @@
         "其他"
       ],
       "text": "【生態環境部部長黃潤秋在《人民日報》發表署名文章《繪就美麗中國新畫卷 共建地球生命共同體》】文章稱，持續深入推進生態系統最佳化。堅持山水林田湖草沙一體化保護和系統治理，統籌推進重要生態系統保護和修復重大工程。嚴守生態保護紅線，建立健全自然保護地體系，落實分級管理和分割槽管控，開展全國生態狀況變化調查評估。加強重要江河湖庫系統治理和生態保護，完善多元化生態補償機制，因地制宜拓展生態產品價值實現渠道。 不斷加強生物多樣性保護。持續推進“綠盾”重要生態空間生態環境問題專項排查，嚴厲打擊非法捕獵、交易野生動物行為。實施好長江十年禁漁。加強種質資源系統保護與可持續利用，加快建立生物遺傳資源獲取與惠益分享管理制度，守護好國家生物遺傳資源寶庫。強化外來入侵物種監測管控，堅決守住國家生物安全底線。持續引領全球生物多樣性治理，推進昆明基金全球專案遴選，推動實現“昆蒙框架”目標。 強化生態保護與修復統一監管。加強對生態和環境的統籌協調和監督管理。以生態環境法典實施為契機，持續完善生物多樣性保護政策與制度，健全調查、監測、評估體系，建立監督性評估機制。開展生態保護與修復成效評估，推動最佳化生態保護與修復方案。強化科技支撐賦能，持續開展形式多樣的宣傳教育活動，不斷凝聚全社會合力，穩步提升生物多樣性保護效能。"
-    },
-    {
-      "id": "4893800",
-      "time": "2026-05-22 08:32:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【聚焦四大重點領域 2026年APEC貿易部長會議今天開幕】2026年APEC貿易部長會議將於今天上午在江蘇蘇州正式拉開帷幕。今年是中國第三次擔任亞太經合組織（APEC）東道主。作為每個“APEC年”中固定舉行的重要機制性會議，本次APEC貿易部長會議將聚焦亞太自貿區建設、維護多邊貿易體制、數字合作和綠色經濟四個重點領域。"
-    },
-    {
-      "id": "4893799",
-      "time": "2026-05-22 08:31:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "【商務部部長王文濤就舉辦亞太經合組織貿易部長會議接受採訪】商務部部長王文濤日前就舉辦亞太經合組織（APEC）貿易部長會議接受採訪。王文濤表示，習近平主席指出，亞太經合組織因應經濟全球化浪潮而創立，以促進貿易和投資自由化便利化、支援經濟增長和繁榮為目標宗旨。作為“APEC年”年中固定舉行的重要機制性會議，貿易部長會議主要討論亞太地區和全球重大經貿問題，承擔著為領導人會議貢獻成果的重要任務，也是亞太乃至全球經貿政策的“風向標”。本次貿易部長會議將於5月下旬在江蘇蘇州舉辦，各方將圍繞APEC“中國年”合作主題“建設亞太共同體，促進共同繁榮”，聚焦經貿合作開展討論。(新華社)"
-    },
-    {
-      "id": "te:markets:552894",
-      "time": "2026-05-22 08:30:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "US Futures Rise Following Two-Day Rally — US stock futures edged higher on Friday after the major averages climbed for two straight sessions, as oil prices moved lower on renewed hopes for a potential US-Iran agreement to end the conflict. Reports suggested that Iran viewed the latest US proposal as partially narrowing differences between the two sides, while Secretary of State Marco Rubio said there were “some good signs” that an agreement could eventually be reached. In regular trading on Thursday, the Dow advanced 0.55%, the S&P 500 gained 0.17%, and the Nasdaq Composite added 0.09%, marking a second straight day of gains for all three benchmarks. Eight of the 11 S&P sectors closed in positive territory, led by utilities, consumer discretionary, and materials stocks. The major indexes are also headed for weekly gains despite volatility earlier in the week, with the Dow up 1.53%, the S&P 500 higher by 0.5%, and the Nasdaq Composite advancing 0.26% so far."
-    },
-    {
-      "id": "4893797",
-      "time": "2026-05-22 08:28:45",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【花旗銀行預測：小米YU7 GT車型月銷量可能破萬】花旗集團表示，小米新款 YU7 GT 機型具有“極具吸引力的價值主張”，月銷量很容易超過 1 萬臺。花旗集團分析師Jeff Chung 寫道：“如果沒有產能限制，我們相信整個YU7+YU7 GT系列產品每月銷量有望達到約4萬臺。” 隨著七月起產能逐步提升，市場對小米電動車業務的關注點，或將從需求端轉向供給產能瓶頸問題。"
     }
   ]
 }
