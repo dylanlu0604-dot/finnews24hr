@@ -1,7 +1,98 @@
 {
-  "updated": "2026-05-29 13:53:53",
-  "count": 15522,
+  "updated": "2026-05-29 13:57:45",
+  "count": 15528,
   "items": [
+    {
+      "id": "4906262",
+      "time": "2026-05-29 13:57:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【聯想集團將在天津投建新一代AI算力產品研發製造中心】5月28日，由天津市人民政府、重慶市人民政府共同舉辦的“2026世界智慧產業博覽會”在天津國家會展中心開幕。大會期間，聯想集團跟天津簽署了建設新一代AI基礎設施的協議。根據協議，聯想集團將在聯想（天津）智慧創新服務產業園內投資建設新一代AI算力產品研發製造中心，搶佔產業競爭制高點，新產線計劃於2027年金秋量產。今年9月，聯想投資的通用伺服器產線(包括CPU伺服器和GPU伺服器)也將在天津實現量產。"
+    },
+    {
+      "id": "4906261",
+      "time": "2026-05-29 13:57:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達5.09%，成分股中，芯聯整合跌9.91%，天嶽先進跌9.10%，中芯國際跌8.93%，滬矽產業跌8.92%。"
+    },
+    {
+      "id": "4906260",
+      "time": "2026-05-29 13:56:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "聯發科：將投資共封裝光學領域，合作方包括Ayar Labs。"
+    },
+    {
+      "id": "4906259",
+      "time": "2026-05-29 13:56:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "聯發科：已基於臺積電的A14工藝開發出多款測試晶片。"
+    },
+    {
+      "id": "mkt:019e724c-de34-711c-8b3f-0c3e70edb766",
+      "time": "2026-05-29 13:54:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "Chinese A-share bank stocks extended gains: Chongqing Bank rose more than 4%, Ningbo Bank climbed over 3%, with Changsha Bank, Qingdao Bank and Industrial Bank also advancing."
+    },
+    {
+      "id": "4906258",
+      "time": "2026-05-29 13:54:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "聯發科：預計其資料中心業務將實現強勁增長，到2027年該業務的市場份額將達10%至15%。"
+    },
+    {
+      "id": "mkt:019e724c-12c4-711c-8b3f-07715d51bf05",
+      "time": "2026-05-29 13:54:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Romanian military said drones briefly penetrated airspace and flew at altitudes below radar detection capability."
+    },
+    {
+      "id": "4906257",
+      "time": "2026-05-29 13:54:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "聯發科：將依客戶需求，支援臺積電的CoWos封裝解決方案與英特爾的EMIB封裝解決方案。"
+    },
+    {
+      "id": "mkt:019e724b-ac58-711c-8b3e-ff9f48299eab",
+      "time": "2026-05-29 13:53:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite",
+        "Hang Seng Index"
+      ],
+      "text": "CSI 500 index futures (IC) main contract fell below 8,300 points, down 2.07% intraday."
+    },
+    {
+      "id": "4906256",
+      "time": "2026-05-29 13:53:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "聯發科：目標2027年從AI晶片業務獲得至多120億美元營收。"
+    },
     {
       "id": "4906255",
       "time": "2026-05-29 13:53:06",
@@ -139928,46 +140019,6 @@
         "焦點"
       ],
       "text": "紐約期金失守4510美元/盎司，日內跌0.72%。"
-    },
-    {
-      "id": "4894282",
-      "time": "2026-05-22 13:57:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "【2026年中國政府援孟培訓專案啟動儀式在達卡舉行】2026年中國政府援孟培訓專案啟動儀式21日在孟加拉國首都達卡舉行。中國駐孟加拉國大使姚文表示，2026年，中方擬邀請孟方人員參加在華舉辦的23個雙邊培訓專案和30個多邊培訓專案，預計約600名孟方人員赴華參訓。（新華社）"
-    },
-    {
-      "id": "te:markets:552965",
-      "time": "2026-05-22 13:55:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "NZX 50 Ends Up 0.9%, Snaps Weekly Decline — The NZX 50 rose 113 points, or 0.9%, to 12,991 on Friday, rising for a second straight session and reaching its highest level since May 14, while tracking gains in US futures as oil prices eased amid hopes of a US-Iran deal to end the war. Fresh data also lifted sentiment, as New Zealand’s retail sales grew more than expected in Q1, following Thursday’s data showing the trade surplus reached a record high, with exports climbing to an all-time high. However, traders remained focused on the RBNZ’s monetary policy decision due next week, with markets expecting the central bank to keep interest rates unchanged. Almost all sectors traded in the green, led by energy, followed by industrials and healthcare. Among the top performers were Ryman Healthcare (6.3%), Summerset Group (5.3%), Mainfreight (4.3%), Westpac Banking Corp (2.0%), Freightways (1.2%), and ANZ Group (0.9%). For the week, the index rose 0.2% after declining in the previous week."
-    },
-    {
-      "id": "4894281",
-      "time": "2026-05-22 13:55:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "【大和證券：上調蔚來今明兩年盈利預測，維持買入評級】大和證券分析師在一份報告中表示，憑藉多元化的產品線，蔚來汽車(NIO.US)正準備進入新的車型週期。蔚來將於5月27日推出ES9，並在下半年推出新的五座版ES8。他們表示，該公司計劃在未來幾年推出三至五款新車型，同時還計劃今年建設1000座換電站。在蔚來公佈強勁的一季度業績後，大和上調了其2026年和2027年的盈利預測。該機構維持對蔚來汽車的買入評級。"
-    },
-    {
-      "id": "mkt:019e4e3f-78db-7aa1-9585-ddcf70983166",
-      "time": "2026-05-22 13:54:02",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "HK H-SHARE NONFERROUS METALS SECTOR RALLIES AFTERNOON; CMOC UP OVER 7%, MMG GAINS OVER 5%, ZIJIN AND CHALCO FOLLOW SUIT"
     }
   ]
 }
