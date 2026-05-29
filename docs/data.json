@@ -1,7 +1,36 @@
 {
-  "updated": "2026-05-30 05:10:52",
-  "count": 15827,
+  "updated": "2026-05-30 05:14:49",
+  "count": 15826,
   "items": [
+    {
+      "id": "te:economy:555064",
+      "time": "2026-05-30 05:13:27",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brazil",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Brazil 10-Year Yield Eases as Oil Prices Retreat — The yield on Brazil’s 10-year government bond eased slightly to 14.13% at the end of May as oil prices fell to their lowest level in roughly six weeks, easing lingering energy-driven stagflation concerns. Signs emerged that the US and Iran may be moving closer to a formal agreement, with reports indicating that both sides have reached a preliminary understanding, although US President Donald Trump has yet to endorse the terms. The prospect of restored oil flows through the Strait of Hormuz helped ease global inflation concerns and pressured bond yields lower worldwide. On the other hand, stronger-than-expected domestic GDP data enforced expectations that the BCB will take a hawkish stance."
+    },
+    {
+      "id": "4907864",
+      "time": "2026-05-30 05:12:59",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "百勝餐飲集團盤後股價上漲3%，此前有報道稱其正就出售必勝客進行談判。"
+    },
+    {
+      "id": "4907863",
+      "time": "2026-05-30 05:10:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國白宮管理與預算辦公室簽署函件，白宮更新《A-136 通告》。"
+    },
     {
       "id": "4907862",
       "time": "2026-05-30 05:10:18",
@@ -143251,43 +143280,6 @@
         "其他"
       ],
       "text": "阿根廷經濟部長：大豆出口稅目前為24%，將於2027年底降至21%，2028年底降至15%。"
-    },
-    {
-      "id": "4895830",
-      "time": "2026-05-23 05:14:34",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "土耳其央行對某些貸款下調八週增長限制。"
-    },
-    {
-      "id": "4895829",
-      "time": "2026-05-23 05:14:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "【世界銀行緊急馳援埃博拉疫情，正醞釀更大規模資金支援計劃】世界銀行目前已緊急向剛果民主共和國（剛果（金））東部前線派遣了專家團隊並調撥了應急資源，以全力抗擊肆虐的埃博拉疫情。同時，世行正在緊鑼密鼓地制定一項龐大的融資方案，以確保更多抗疫資金能夠以最快速度精準下撥。 世界銀行全球衛生部門負責人Monique Vledder坦言，除了深陷泥潭的剛果（金）本土，世行目前對周邊的南蘇丹和蒲隆地也感到極度焦慮，這兩個國家的醫療衛生應急響應體系極為脆弱。儘管已經錄得2例確診病例的鄰國烏干達擁有相對健全的公共衛生網路，但其當前同樣暴露出不小的防疫資金窟窿。在未來的幾個月裡，全球抗疫主戰場對資金的需求量毫無疑問將呈爆發式增長。"
-    },
-    {
-      "id": "te:economy:553197",
-      "time": "2026-05-23 05:13:15",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Argentina",
-        "Retail Sales YoY",
-        "Importance 0"
-      ],
-      "text": "Argentina Retail Sales Growth Slows Sharply — Argentina’s retail sales rose 3.6% year-on-year in March 2026 to ARS 552.97 billion, slowing sharply from an 18% jump in February. At current prices, the strongest gains were recorded in perfumery and pharmacies (21.6%), furniture, home décor and household textiles (16.5%), sportswear and sporting goods (15.2%), food courts, food and kiosks (10.7%), and books and stationery (10.1%). In contrast, sales of electronics, home appliances and computers fell 7.8%, while toys declined 6%. In the City of Buenos Aires, total sales at current prices reached ARS 171.13 billion, up 13.3%, while sales in the 24 districts of Greater Buenos Aires fell 5.2% to ARS 172.43 billion. At constant prices, retail sales declined 13.3%."
-    },
-    {
-      "id": "4895828",
-      "time": "2026-05-23 05:12:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿根廷經濟部長：2027年至2028年，阿根廷將逐月下調大豆出口稅。"
     }
   ]
 }
