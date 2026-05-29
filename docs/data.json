@@ -1,7 +1,172 @@
 {
-  "updated": "2026-05-29 13:57:45",
-  "count": 15528,
+  "updated": "2026-05-29 14:01:49",
+  "count": 15522,
   "items": [
+    {
+      "id": "4906267",
+      "time": "2026-05-29 14:00:16",
+      "tags": [
+        "資料"
+      ],
+      "text": "德國4月進口物價指數月率 1.2%，預期1.10%，前值3.60%。德國4月進口物價指數年率 5.3%，預期5.30%，前值2.30%。"
+    },
+    {
+      "id": "mkt:019e7251-cefe-711c-8b3f-59197f1cc647",
+      "time": "2026-05-29 14:00:12",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Germany April import prices MoM +1.2% vs +1.1% expected; prior +3.6%."
+    },
+    {
+      "id": "mkt:019e7251-ce90-711c-8b3f-50655779b97a",
+      "time": "2026-05-29 14:00:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Germany April import price index YoY 5.3% vs consensus 5.3%; prior 2.3%."
+    },
+    {
+      "id": "mkt:019e7251-a41d-711c-8b3f-4fcf8463b7b2",
+      "time": "2026-05-29 14:00:10",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AI Revolution",
+        "2454.TW",
+        "Impact bullish"
+      ],
+      "text": "MediaTek targets $2.0bn in AI-chip revenue in 2026 and up to $12.0bn in 2027."
+    },
+    {
+      "id": "mkt:019e7251-88b0-711c-8b3f-4720e41716bc",
+      "time": "2026-05-29 14:00:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | Import Price Index (YoY) (Apr) | actual 5.3% | consensus 5.30% | previous 2.30%"
+    },
+    {
+      "id": "mkt:019e7251-88ad-711c-8b3f-3918143d38f2",
+      "time": "2026-05-29 14:00:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | Import Price Index (MoM) (Apr) | actual 1.2% | consensus 1.10% | previous 3.60%"
+    },
+    {
+      "id": "4906266",
+      "time": "2026-05-29 13:59:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯法警對歐洲清算銀行發起58項執行程式，以追回近280億盧布。"
+    },
+    {
+      "id": "mkt:019e7250-f2cd-711c-8b3f-35b4a0463ead",
+      "time": "2026-05-29 13:59:28",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "TSM.N",
+        "Impact bullish",
+        "2454.TW"
+      ],
+      "text": "MediaTek said it has test-produced multiple chips using TSMC's A14 process."
+    },
+    {
+      "id": "mkt:019e7250-d457-711c-8b3f-2927fe5cd2ba",
+      "time": "2026-05-29 13:59:20",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "2454.TW",
+        "Impact bullish"
+      ],
+      "text": "MediaTek will invest in co-packaged optics (CPO), including a collaboration with Ayar Labs."
+    },
+    {
+      "id": "4906265",
+      "time": "2026-05-29 13:58:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【康師傅與海康威視簽署戰略合作協議】據海康威視訊息，5月27日，康師傅控股有限公司與海康威視在康師傅可持續發展生態大會上簽署戰略合作協議。康師傅將依託在快消行業的豐富經驗，海康威視將輸出物聯感知、人工智慧、大資料等核心技術，合力推動康師傅在智慧園區、智慧消防、智慧製造與ESG等方面的建設，助力其實現數字化轉型升級。"
+    },
+    {
+      "id": "4906264",
+      "time": "2026-05-29 13:58:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "羅馬尼亞軍方：美國“MEROPS”反無人機系統已投入執行，但尚未納入國防體系。"
+    },
+    {
+      "id": "mkt:019e724f-894a-711c-8b3f-27a2649ca126",
+      "time": "2026-05-29 13:57:55",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "TSM.N",
+        "Impact bullish",
+        "INTC.O"
+      ],
+      "text": "MediaTek said it will support TSMC's CoWoS and Intel's EMIB packaging solutions based on customer demand."
+    },
+    {
+      "id": "mkt:019e724f-10d1-711c-8b3f-1ab4727079af",
+      "time": "2026-05-29 13:57:24",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "2454.TW",
+        "Impact bullish"
+      ],
+      "text": "MediaTek expects its data center business to grow strongly and to capture 10-15% market share by 2027."
+    },
+    {
+      "id": "mkt:019e724e-f955-711c-8b3f-121305b16c52",
+      "time": "2026-05-29 13:57:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "CSI300",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "STAR 50 Index fell over 5%; among constituents, Xinlian Jicheng dropped nearly 10% and SMIC fell about 9%."
+    },
+    {
+      "id": "4906263",
+      "time": "2026-05-29 13:57:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "【銀行板塊逆勢拉昇 重慶銀行漲超4%創歷史新高】午後銀行板塊逆勢拉昇，重慶銀行漲超4%，創歷史新高，寧波銀行、興業銀行、招商銀行、工商銀行、平安銀行等漲超2%。"
+    },
     {
       "id": "4906262",
       "time": "2026-05-29 13:57:05",
@@ -139827,198 +139992,6 @@
         "國際"
       ],
       "text": "【日本核心CPI連續56個月同比上漲】日本總務省22日公佈的資料顯示，剔除生鮮食品後，日本4月核心消費價格指數（CPI）升至112.5，同比上升1.4%。至此，日本核心CPI已連續56個月同比上漲。資料顯示，食品價格漲幅依然明顯。剔除生鮮食品後的食品價格同比上漲4.1%。其中，咖啡豆、巧克力和金槍魚價格分別上漲46.8%、21.6%和13.6%。此外，房屋修繕、通訊費、酒店住宿等價格均同比上漲。(新華社)"
-    },
-    {
-      "id": "4894293",
-      "time": "2026-05-22 14:01:48",
-      "tags": [
-        "市場"
-      ],
-      "text": "新臺幣兌美元上漲0.3%至31.500。"
-    },
-    {
-      "id": "4894292",
-      "time": "2026-05-22 14:01:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "【傑華特等新設股權投資合夥企業】企查查APP顯示，近日，揚州傑智股權投資合夥企業（有限合夥）成立，經營範圍包含股權投資；創業投資（限投資未上市企業）。企查查股權穿透顯示，該企業由傑華特等共同出資。"
-    },
-    {
-      "id": "4894291",
-      "time": "2026-05-22 14:01:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣西財政國庫再向柳州排程抗震救災資金3000萬元】記者從廣西壯族自治區財政廳獲悉，5月21日，國家防災減災救災委員會針對柳州市柳南區連續發生5.2級地震啟動國家四級救災應急響應。廣西壯族自治區財政國庫再次向柳州市緊急排程應急救災資金3000萬元，累計專項排程資金5000萬元，支援柳州市統籌做好轉移安置受災人員、排危除險等應急處置工作，開展次生災害隱患排查、倒損民房修復和受災群眾救助等工作，全力保障人民群眾生命財產安全。（央視新聞）"
-    },
-    {
-      "id": "mkt:019e4e46-600d-7aa1-9586-3b5d70712743",
-      "time": "2026-05-22 14:00:58",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United Kingdom | Public Sector Net Borrowing (Apr) | actual 24343000000B | consensus 20900000000B | previous 12605000000B"
-    },
-    {
-      "id": "4894290",
-      "time": "2026-05-22 14:00:28",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "集運指數歐線期貨連續主力合約日內漲7%，現報3107.50點。"
-    },
-    {
-      "id": "4894289",
-      "time": "2026-05-22 14:00:19",
-      "tags": [
-        "資料"
-      ],
-      "text": "德國第一季度未季調GDP年率終值 0.5%，預期0.50%，前值0.50%。"
-    },
-    {
-      "id": "4894288",
-      "time": "2026-05-22 14:00:13",
-      "tags": [
-        "資料"
-      ],
-      "text": "德國6月Gfk消費者信心指數 -29.8，預期-34，前值由-33.3修正為-33.1。"
-    },
-    {
-      "id": "4894287",
-      "time": "2026-05-22 14:00:10",
-      "tags": [
-        "資料"
-      ],
-      "text": "英國4月季調後零售銷售月率 -1.3%，預期-0.60%，前值由0.70%修正為0.6%。"
-    },
-    {
-      "id": "mkt:019e4e45-c153-7aa1-9586-288a9e797789",
-      "time": "2026-05-22 14:00:04",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Germany | GDP Unadjusted Final (YoY) (Q1) | actual 0.5% | consensus 0.50% | previous 0.50%"
-    },
-    {
-      "id": "mkt:019e4e45-c150-7aa1-9586-23aefa713d1a",
-      "time": "2026-05-22 14:00:04",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Germany | GDP WDA Final (YoY) (Q1) | actual 0.4% | consensus 0.30% | previous 0.30%"
-    },
-    {
-      "id": "mkt:019e4e45-c108-7aa1-9586-1b83b037c318",
-      "time": "2026-05-22 14:00:04",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Germany | GDP Final (QoQ) (Q1) | actual 0.3% | consensus 0.30% | previous 0.30%"
-    },
-    {
-      "id": "mkt:019e4e45-bd39-7aa1-9586-128cda0267e1",
-      "time": "2026-05-22 14:00:02",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United Kingdom | Public Sector Net Borrowing (Apr) | actual 9547000000B | previous 28519000000B"
-    },
-    {
-      "id": "mkt:019e4e45-b3e0-7aa1-9585-fe4459858897",
-      "time": "2026-05-22 14:00:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United Kingdom | Core Retail Sales (YoY) (Apr) | actual 1.1% | consensus 1.5% | previous 1.70%"
-    },
-    {
-      "id": "mkt:019e4e45-b5af-7aa1-9586-0555ce2bfe0a",
-      "time": "2026-05-22 14:00:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United Kingdom | Core Retail Sales (MoM) (Apr) | actual -0.4% | consensus -0.30% | previous 0.20%"
-    },
-    {
-      "id": "mkt:019e4e45-b0c5-7aa1-9585-f5bd48b82ebf",
-      "time": "2026-05-22 14:00:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United Kingdom | Retail Sales (YoY) (Apr) | actual 0% | consensus 1.30% | previous 1.70%"
-    },
-    {
-      "id": "mkt:019e4e45-0d7a-7aa1-9585-e9f23c63279b",
-      "time": "2026-05-22 14:00:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United Kingdom | Retail Sales (MoM) (Apr) | actual -1.3% | consensus -0.60% | previous 0.70%"
-    },
-    {
-      "id": "mkt:019e4e44-ed98-7aa1-9585-e040f6d0e4d4",
-      "time": "2026-05-22 14:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Germany | Gfk Consumer Confidence Survey (Jun) | actual -29.8 | consensus -34 | previous -33.3"
-    },
-    {
-      "id": "4894286",
-      "time": "2026-05-22 13:59:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "兆易創新成交額超200億元，現漲超4%。"
-    },
-    {
-      "id": "4894285",
-      "time": "2026-05-22 13:58:35",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【造紙板塊短線拉昇，森林包裝漲停】造紙板塊短線拉昇，森林包裝漲停，凱恩股份、民豐特紙、山鷹國際、恆豐紙業、民士達跟漲。"
-    },
-    {
-      "id": "4894284",
-      "time": "2026-05-22 13:58:31",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4510美元/盎司，日內跌0.78%。"
-    },
-    {
-      "id": "4894283",
-      "time": "2026-05-22 13:58:23",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4510美元/盎司，日內跌0.72%。"
     }
   ]
 }
