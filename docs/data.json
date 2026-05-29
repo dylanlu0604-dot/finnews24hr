@@ -1,7 +1,75 @@
 {
-  "updated": "2026-05-30 00:16:34",
-  "count": 15830,
+  "updated": "2026-05-30 00:20:34",
+  "count": 15834,
   "items": [
+    {
+      "id": "mkt:019e7488-e1bf-7bb7-9964-0b976bd5a350",
+      "time": "2026-05-30 00:19:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Putin said claims that Russia is preparing to go to war with Europe are lies."
+    },
+    {
+      "id": "mkt:019e7488-a474-7bb7-9964-0048b2f5aeb4",
+      "time": "2026-05-30 00:19:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian President Putin said that, given the battlefield situation, Russia has the right to speak and the situation will soon end."
+    },
+    {
+      "id": "4907635",
+      "time": "2026-05-30 00:19:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京：有關俄羅斯準備與歐洲開戰的說法純屬謊言。"
+    },
+    {
+      "id": "mkt:019e7488-2eef-7bb7-9963-ff0117267f55",
+      "time": "2026-05-30 00:19:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian President Putin said Western media reports alleging an attack on Starobilsk in the Luhansk region are false and that the outlets should be ashamed."
+    },
+    {
+      "id": "4907634",
+      "time": "2026-05-30 00:18:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京：結合戰場態勢，我們有理由認為局勢即將走向尾聲。"
+    },
+    {
+      "id": "4907633",
+      "time": "2026-05-30 00:17:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京： 西方媒體對盧甘斯克州斯塔羅別利斯克遇襲事件的報道失實，他們應當感到羞愧。"
+    },
+    {
+      "id": "mkt:019e7486-70cc-7bb7-9963-f59d7f42c9ed",
+      "time": "2026-05-30 00:17:08",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Russian President Putin said he would not give a specific timeline for his earlier remark that the Ukraine conflict would soon end, adding he had analyzed the battlefield when he made the comment and that Russian forces are advancing daily."
+    },
+    {
+      "id": "4907632",
+      "time": "2026-05-30 00:16:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京： 俄軍每日都在向前推進。"
+    },
     {
       "id": "4907631",
       "time": "2026-05-30 00:15:01",
@@ -143305,40 +143373,6 @@
         "Chinese Policy & Markets"
       ],
       "text": "US ACTING NAVY SECRETARY: US TEMPORARILY PAUSES TAIWAN WEAPONS SALES DUE TO IRAN WAR - FOX NEWS"
-    },
-    {
-      "id": "4895610",
-      "time": "2026-05-23 00:19:53",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "新任美聯儲主席沃什已完成宣誓儀式並結束髮言。"
-    },
-    {
-      "id": "em:qqyh_mlc:202605233747093725",
-      "time": "2026-05-23 00:17:32",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "美聯儲主席沃什稱，將領導一個以改革為導向的美聯儲。"
-    },
-    {
-      "id": "mkt:019e5079-a210-7443-baf7-3e3aa892bffb",
-      "time": "2026-05-23 00:16:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "WARSH: HONOR OF A LIFETIME TO RE-ENTER PUBLIC SERVICE"
-    },
-    {
-      "id": "mkt:019e5079-70ff-7443-baf7-31a14bf4c536",
-      "time": "2026-05-23 00:16:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "SECRETARY OF STATE RUBIO IS HEADED TO INDIA AHEAD OF THE UPCOMING QUAD SUMMIT NEXT WEEK - NYT"
     }
   ]
 }
