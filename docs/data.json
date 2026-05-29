@@ -1,7 +1,801 @@
 {
-  "updated": "2026-05-30 03:27:17",
-  "count": 15836,
+  "updated": "2026-05-30 04:04:01",
+  "count": 15853,
   "items": [
+    {
+      "id": "te:markets:555057",
+      "time": "2026-05-30 04:03:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Post Strong Monthly Gains — US equities rose to record highs on Friday as markets gauged the sustainability of the AI rally and assessed the outlook of oil supply from the Middle East and its impact on inflation. The S&P 500 and Nasdaq each rose 0.2%, while the Dow Jones gained 0.8%. On a monthly basis, the Nasdaq jumped around 8%, the S&P 500 advanced 5%, and the Dow rose 2%. Reports indicated yesterday that the US and Iran have agreed to a 60-day memorandum that would extend the ongoing ceasefire and start the progress of restoring vessel flows through the Strait of Hormuz, although President Trump has not yet signed-off on the deal. Energy prices and bond yields retreated to deliver broad, although muted, support to the stock market. The financial and consumer defensive sectors were cautiously higher. Microsoft gained 5.4% and Oracle rose over 10%, with AI software supported by a new investment round in Anthropic. Also, Dell surged over 30% as its AI server business boosted its latest guidance."
+    },
+    {
+      "id": "4907788",
+      "time": "2026-05-30 04:02:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普：確認匈牙利“BBB-/A-3”評級；展望負面。"
+    },
+    {
+      "id": "4907787",
+      "time": "2026-05-30 04:02:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "AST SPACEMOBILE 股票下跌 15%，創下自 2 月 12 日以來最大單日跌幅。"
+    },
+    {
+      "id": "mkt:019e7554-c84c-7bb7-9966-7891031c24c3",
+      "time": "2026-05-30 04:02:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "Star Stocks",
+        "Alibaba",
+        "S&P500",
+        "Impact bullish",
+        "Dow",
+        "IBM.N"
+      ],
+      "text": "【US close: S&P 500 posts ninth straight weekly gain; major indexes tick higher】US stocks closed modestly higher on Friday: Dow Jones Industrial Average +0.72% (preliminary), S&P 500 +0.22%, Nasdaq Composite +0.20%. IBM (IBM.N) rose more than 12%, Oracle (ORCL.N) gained over 10% and Qualcomm (QCOM.O) climbed over 3%. The Nasdaq Golden Dragon China Index was flat; Baidu (BIDU.O) +2.4%, Alibaba (BABA.N) -1.5%. For the month the S&P 500 advanced 5.15%, the Nasdaq 8.36% and the Dow 2.78%. The S&P 500 extended its weekly winning streak to nine weeks, the longest run since December 2023."
+    },
+    {
+      "id": "4907786",
+      "time": "2026-05-30 04:02:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "蓋璞股價收跌16%，創近一年來最大跌幅，此前該公司下調了業績預期。"
+    },
+    {
+      "id": "4907785",
+      "time": "2026-05-30 04:01:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數錄得連續第九週上漲，為2023年12月以來最長連漲週期。"
+    },
+    {
+      "id": "4907784",
+      "time": "2026-05-30 04:01:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "REPLIMUNE股價收盤上漲86%，創2025年10月以來最大漲幅。"
+    },
+    {
+      "id": "4907783",
+      "time": "2026-05-30 04:00:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體收漲】道指漲0.72%，標普500指數漲0.22%，納指漲0.25%。戴爾漲32.64%，美國網存漲22.26%，Atlassian漲15.47%，現在服務漲14.60%，IBM漲12.91%，慧與漲12.80%。“七姐妹”方面：微軟漲5.39%，蘋果跌0.12%，Meta Platforms跌0.40%，英偉達跌1.14%，亞馬遜跌1.20%，特斯拉跌1.48%，谷歌跌2.52%。"
+    },
+    {
+      "id": "4907782",
+      "time": "2026-05-30 04:00:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "5月份，標普累漲約5.3%，道指累漲2.7%，納指累漲8.3%。"
+    },
+    {
+      "id": "4907781",
+      "time": "2026-05-30 04:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收漲0.01%】億咖通科技漲13.33%，Tims中國漲7.57%，海天網路漲7.21%，360數科漲4.49%，名創優品漲3.18%。"
+    },
+    {
+      "id": "te:markets:555056",
+      "time": "2026-05-30 03:59:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Falls on Friday, Logs Monthly Loss — WTI crude oil futures fell 1.1% to below $88 per barrel on Friday, the lowest in roughly six weeks, ending May down 16.2%. The move followed reports that the US and Iran have reached a preliminary agreement to extend a ceasefire and ease restrictions on shipping through the Strait of Hormuz, although President Donald Trump has not yet approved the deal and Iranian state media said it has not been finalized. The potential agreement has raised expectations of an eventual end to the US-Israeli war in Iran and a reopening of the Strait of Hormuz, a critical route for about one-fifth of global oil and LNG flows. Analysts warn that any recovery in flows would likely be slow, as mines would need clearing, damaged infrastructure repaired and shut-in production restarted, with tanker delays also limiting supply restoration."
+    },
+    {
+      "id": "mkt:019e7551-5e87-7bb7-9966-74ba49fcbe0e",
+      "time": "2026-05-30 03:58:47",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact mixed",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "【US media: Qatar-held funds a final sticking point in US-Iran interim deal】New York Post reports one of the remaining obstacles to a US-Iran interim peace agreement is whether $6bn held in escrow by Qatar can be released in phases. It remains unclear when the US and Iran will sign a final memorandum of understanding; a government official said talks are at their closest point to an agreement."
+    },
+    {
+      "id": "4907780",
+      "time": "2026-05-30 03:56:01",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【白宮就美伊協議前景釋放矛盾訊號 市場聚焦特朗普週末有何動作】白宮一直就與伊朗達成協議的前景發出相互矛盾的訊號，凸顯出美國總統唐納德·特朗普難以找到途徑結束這場已進入第四個月的衝突。週五這一模式仍在延續。特朗普週五在社交媒體發帖稱，他準備就延長脆弱停火的初步協議做出“最終決定”。然而幾小時後，據報道，特朗普結束了戰情室會議，但未做出任何決定。不過，投資者仍面臨預期因特朗普再度轉向而落空的風險。位於華盛頓的諮詢公司ClearView Energy Partners董事總經理Kevin Book表示，目前存在一種“不確定性折價”，市場正面臨“步入週末不知道總統又會作何發言”的挑戰。"
+    },
+    {
+      "id": "4907779",
+      "time": "2026-05-30 03:53:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【報道：美伊協議的最終癥結之一是卡達代管資金能否分階段解凍】據報道，一項美伊臨時和平協議的最終癥結之一，是卡達代管的資金能否分階段解凍。該備忘錄旨在重新開放霍爾木茲海峽供國際航運通行，同時為第二輪談判留出更多時間，以解決約1000 磅高濃縮鈾的去向問題。相關資金不會直接交付給伊朗，而是用於採購食品與醫療物資，再送往這個飽受制裁與動盪困擾的國家。資金將分批釋放，前提是伊朗滿足一系列關鍵條件，包括開放海峽並清除水雷。據悉，卡達目前代管著 60 億美元。目前尚不清楚美伊雙方何時能敲定這份諒解備忘錄，但一名政府官員表示，兩國如今的談判進展已是有史以來最接近達成協議的階段。"
+    },
+    {
+      "id": "4907778",
+      "time": "2026-05-30 03:52:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "英特爾股價跌至盤中低點，英偉達股價轉跌。"
+    },
+    {
+      "id": "mkt:019e754b-cfb6-7bb7-9966-6d4073323aee",
+      "time": "2026-05-30 03:52:43",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "New York Post reports this is the closest the US and Iran have yet come to finalizing a memorandum of understanding."
+    },
+    {
+      "id": "te:economy:555055",
+      "time": "2026-05-30 03:52:14",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Uruguay",
+        "Balance of Trade",
+        "Importance 0"
+      ],
+      "text": "Uruguay Trade Deficit Widens Sharply in April — Uruguay’s trade deficit widened to $430.8 million in April 2026 from $130.2 million a year earlier. Imports rose 5.5% year-on-year to $1.15 billion, driven by an 11.3% increase in consumer goods purchases, including a 20.4% jump in vehicle imports. Imports of intermediate goods rose 4.8%, led by a 12.8% increase in food and beverage products. In contrast, capital goods imports fell 7.1%, weighed down by a 19.5% decline in transport equipment purchases. Meanwhile, exports increased 8.2% to $719.8 million, supported by a 14.1% rise in primary product shipments and a 6.1% increase in manufacturing exports. Sales of utilities, however, plunged 47.8%."
+    },
+    {
+      "id": "mkt:019e754a-b352-7bb7-9966-679b202d1011",
+      "time": "2026-05-30 03:51:30",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "The New York Times reports timing for a US-Iran memorandum of understanding remains unclear."
+    },
+    {
+      "id": "4907777",
+      "time": "2026-05-30 03:50:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐約郵報：這是美伊兩國迄今為止最接近最終敲定諒解備忘錄的一次。"
+    },
+    {
+      "id": "4907776",
+      "time": "2026-05-30 03:50:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "芬蘭國防部表示，芬蘭將向烏克蘭提供新一輪防務援助，總價值約 1.28 億歐元，這也是芬蘭對烏克蘭防務的又一筆大額支援。"
+    },
+    {
+      "id": "4907775",
+      "time": "2026-05-30 03:50:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "據報道，尚不清楚美國和伊朗何時最終敲定諒解備忘錄。"
+    },
+    {
+      "id": "4907774",
+      "time": "2026-05-30 03:49:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐約郵報： 卡達所持資金問題成為最後幾大分歧點之一。"
+    },
+    {
+      "id": "mkt:019e7548-5349-7bb7-9966-5b1d8e3f4b3b",
+      "time": "2026-05-30 03:48:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iranian forces shoot down hostile small drone near Qeshm Island】On the evening of May 29 local time, Iran’s army air defense units detected and engaged a hostile small unmanned aerial vehicle near Qeshm Island, successfully shooting it down and destroying it."
+    },
+    {
+      "id": "4907773",
+      "time": "2026-05-30 03:48:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "洲際交易所歐洲分部：截至5月26日，羅布斯塔咖啡投機者將淨多頭頭寸削減2350手至13447手；可可投機商將淨空頭頭寸削減1477手，至2021手。"
+    },
+    {
+      "id": "4907772",
+      "time": "2026-05-30 03:48:39",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "洲際交易所歐洲期貨分部：截至5月26日，飼料小麥投機商將淨多頭頭寸增加90手，至476手；截至5月26日，原糖投機者將淨多頭頭寸增加364手，至23685手。"
+    },
+    {
+      "id": "4907771",
+      "time": "2026-05-30 03:48:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗軍方在格什姆島附近擊落敵對小型無人機】總檯記者當地時間5月29日晚自伊朗方面獲悉，伊朗陸軍防空部隊在監測到敵方小型無人機後，在格什姆島附近立即實施打擊併成功將其擊落摧毀。（央視新聞）"
+    },
+    {
+      "id": "mkt:019e7547-a596-7bb7-9966-537801959e2d",
+      "time": "2026-05-30 03:48:10",
+      "tags": [
+        "MKT News",
+        "JPM.O",
+        "Impact bullish",
+        "C.O"
+      ],
+      "text": "Sources say OpenAI has held talks with multiple banks, including Citigroup and JP Morgan, about an upcoming IPO."
+    },
+    {
+      "id": "4907770",
+      "time": "2026-05-30 03:45:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "德文能源股價隨成交量激增上揚，最新上漲0.9%，突破44美元。"
+    },
+    {
+      "id": "4907769",
+      "time": "2026-05-30 03:44:38",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【特朗普推遲就伊朗相關協議作最終決定】據美國《紐約時報》29日援引一名不願透露姓名的政府高階官員的話報道，美國總統特朗普當天在白宮戰情室同其助手們的會議持續約兩個小時，但並未就與伊朗的協議作出“最終決定”。 (新華社)"
+    },
+    {
+      "id": "mkt:019e7544-34b0-7bb7-9966-4e16a231d6e1",
+      "time": "2026-05-30 03:44:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Shenzhou-21 crew arrive safely in Beijing】The crew that completed the Shenzhou-21 manned flight mission arrived safely in Beijing by plane on May 30, 2026, Beijing time, the China Manned Space Engineering Office said."
+    },
+    {
+      "id": "4907768",
+      "time": "2026-05-30 03:44:01",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【戴蒙在愈演愈烈的加密法案爭端中猛烈抨擊Coinbase的CEO】摩根大通CEO戴蒙痛斥Coinbase Global Inc.執行長Brian Armstrong在“胡扯”（full of sh-t），並誓言將對正在國會推進的數字資產立法予以反擊。爭論的核心在於加密貨幣交易所是否可以對穩定幣支付利息。加密貨幣公司正尋求提供收益率，而銀行則辯稱，這會使穩定幣類似於高收益存款，卻缺乏傳統的監管保障。銀行機構“絕不接受”目前版本的所謂《清晰度法案》（Clarity Act），該法案此前一直是銀行業與加密貨幣行業之間爭端的焦點。"
+    },
+    {
+      "id": "4907767",
+      "time": "2026-05-30 03:43:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗方面表示，該國格什姆島防空系統已啟動，應對來襲無人機。"
+    },
+    {
+      "id": "mkt:019e7542-b7c4-7bb7-9966-4126c1fe90d6",
+      "time": "2026-05-30 03:42:43",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "CFTC: In the week to May 26, speculators cut net short positions in U.S. 2-year Treasury futures by 305,000 contracts to 1,255,246 and cut net shorts in U.S. 10-year Treasury futures by 60,098 contracts to 787,954."
+    },
+    {
+      "id": "mkt:019e7541-99ad-7bb7-9966-3caae874f24d",
+      "time": "2026-05-30 03:41:30",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "The CFTC said speculators increased net short positions in U.S. Treasury futures by 20,577 contracts to 199,251 in the week to May 26."
+    },
+    {
+      "id": "mkt:019e7541-1c4f-7bb7-9966-33ae432db413",
+      "time": "2026-05-30 03:40:59",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bearish"
+      ],
+      "text": "CFTC: For the week to May 26, speculative net long positions in COMEX copper futures fell by 3,025 contracts to 71,974 contracts."
+    },
+    {
+      "id": "mkt:019e7540-a27b-7bb7-9966-2d343a9d7353",
+      "time": "2026-05-30 03:40:30",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "CFTC: Speculative net-short positions in natural gas on NYMEX and ICE rose by 39,397 contracts in the week to May 26, to 41,422 contracts."
+    },
+    {
+      "id": "mkt:019e7540-3e34-7bb7-9966-205bf96b3780",
+      "time": "2026-05-30 03:40:04",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "CFTC: COMEX silver speculative net long positions fell 1,517 contracts to 10,244 in the week ended May 26."
+    },
+    {
+      "id": "4907766",
+      "time": "2026-05-30 03:39:50",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "知情人士稱，斯通裡奇對德文能源馬塞勒斯資產的收購要約將採用美國油氣領域有史以來規模最大的資產支援證券融資來提供資金。德文能源收到了資產管理公司斯通裡奇發出的收購要約，對方擬以約80億美元收購其所持馬塞勒斯頁岩區資產。"
+    },
+    {
+      "id": "mkt:019e753f-f6e9-7bb7-9966-18100c80a103",
+      "time": "2026-05-30 03:39:46",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "U.S. Commodity Futures Trading Commission (CFTC) data: For the week ended May 26, speculative net long positions in COMEX gold rose by 2,544 contracts to 96,931."
+    },
+    {
+      "id": "mkt:019e753f-8d29-7bb7-9966-111f8f6f2b03",
+      "time": "2026-05-30 03:39:18",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "US Commodity Futures Trading Commission (CFTC): for the week to May 26 crude oil speculators cut WTI net-long positions by 19,186 contracts to 91,163."
+    },
+    {
+      "id": "4907765",
+      "time": "2026-05-30 03:39:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價29日下跌】截至當天收盤，紐約商品交易所7月交貨的輕質原油期貨價格下跌1.54美元，收於每桶87.36美元，跌幅為1.73%；7月交貨的倫敦布倫特原油期貨價格下跌1.66美元，收於每桶92.05美元，跌幅為1.77%。"
+    },
+    {
+      "id": "4907764",
+      "time": "2026-05-30 03:38:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "根據SEC檔案顯示，埃克森美孚股東以71.2%的贊成票批准公司遷址註冊至得克薩斯州。"
+    },
+    {
+      "id": "mkt:019e753e-8f96-7bb7-9966-0e02d98c4cc6",
+      "time": "2026-05-30 03:38:14",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said if necessary the U.S. has further options to act on Iran."
+    },
+    {
+      "id": "mkt:019e753e-5c9b-7bb7-9966-02b09e82c9fa",
+      "time": "2026-05-30 03:38:01",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "When asked about a blockade on Iran, U.S. Treasury Secretary Bessent said any lifting of measures would be phased. He outlined three scenarios for Iran: reaching an agreement, failing to reach an agreement, or military action."
+    },
+    {
+      "id": "4907763",
+      "time": "2026-05-30 03:37:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【神舟二十一號航天員乘組平安抵京】據中國載人航天工程辦公室訊息，圓滿完成神舟二十一號載人飛行任務的航天員乘組，於北京時間2026年5月30日乘坐飛機平安抵達北京。空間站應用與發展階段飛行任務總指揮部有關領導及成員到機場迎接。3名航天員抵京後將進入隔離恢復期，接受全面的醫學檢查和健康評估，並安排休養。之後，將在京與新聞媒體集體見面。（央視新聞）"
+    },
+    {
+      "id": "mkt:019e753d-9e3a-7bb7-9965-fa76fc73dae2",
+      "time": "2026-05-30 03:37:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury Secretary Bessent, asked how to maintain the U.S. dollar's reserve-currency status, said the situation has not changed."
+    },
+    {
+      "id": "4907762",
+      "time": "2026-05-30 03:36:54",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【庫存見底 現貨升水飆升 鋁市場供應短缺日益加重】由於霍爾木茲海峽關閉導致供應受阻，鋁市場短缺現象正日益加劇，導致鋁現貨價格飆升，且交易所庫存大幅下滑。海灣地區佔到全球鋁供應量的近10%，因此伊朗戰爭令全球鋁買家受到嚴重衝擊。儘管圍繞緊張局勢得到解決的樂觀情緒重新升溫，但霍爾木茲海峽長期關閉以及該地區冶煉廠遭到直接襲擊，已促使外界警告鋁行業將面臨數十年來最嚴重的短缺。週五出現了新的供應緊張跡象，倫敦金屬交易所鋁現貨價格較三個月期貨升水飆升至每噸97美元，達到2007年以來最高水平。現貨升水是供應不足以滿足需求的典型跡象，而近期價差飆升之際，倫敦金屬交易所可隨時提取的庫存正接近歷史低位。"
+    },
+    {
+      "id": "mkt:019e753d-2f2c-7bb7-9965-f631cd12b470",
+      "time": "2026-05-30 03:36:44",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "US Treasury Secretary Bessent said he never favored Walsh. Trump has decided to appoint Walsh as Federal Reserve chair."
+    },
+    {
+      "id": "mkt:019e753c-b33e-7bb7-9965-e8db2002db91",
+      "time": "2026-05-30 03:36:12",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said interest rates peaked the day before Fed Chair Kevin Warsh was sworn in."
+    },
+    {
+      "id": "mkt:019e753c-5fdc-7bb7-9965-e3eb0b09d4bf",
+      "time": "2026-05-30 03:35:51",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "US Treasury Secretary Bessent said there is misunderstanding about what a strong dollar implies, and that a strong dollar means doing the right thing for the economy."
+    },
+    {
+      "id": "4907761",
+      "time": "2026-05-30 03:35:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：可推出部分舉措以援助伊朗民眾。"
+    },
+    {
+      "id": "4907760",
+      "time": "2026-05-30 03:35:22",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "花旗集團：花旗銀行北美總行已獲得蓋亞那銀行的監管批准，可在喬治敦設立代表處。"
+    },
+    {
+      "id": "4907759",
+      "time": "2026-05-30 03:35:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：必要情況下，我們還可針對伊朗採取進一步舉措。"
+    },
+    {
+      "id": "4907758",
+      "time": "2026-05-30 03:34:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "被問及對伊朗封鎖的問題時，貝森特表示：任何解除措施都會逐步推進。"
+    },
+    {
+      "id": "4907757",
+      "time": "2026-05-30 03:34:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：伊核協議存在三種可能性——達成協議、談判破裂，或是採取軍事行動。"
+    },
+    {
+      "id": "4907756",
+      "time": "2026-05-30 03:33:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：美方自停火以來採取的所有行動均屬防禦性質。"
+    },
+    {
+      "id": "4907755",
+      "time": "2026-05-30 03:33:16",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）資料顯示，截至5月26日當週，芝加哥期貨交易所（CBOT）小麥投機客將淨空頭持倉增加6772手，至58261手；洲際交易所（ICE）咖啡投機者將淨多頭頭寸削減138手，至8416手；洲際交易所（ICE）原糖投機客將淨空頭頭寸增加13031手，至117144手；洲際交易所（ICE）可可投機者將淨空頭頭寸增加1374手，至26539手；洲際交易所（ICE）棉花市場投機者將淨多頭頭寸削減1143手，至68171手。"
+    },
+    {
+      "id": "4907754",
+      "time": "2026-05-30 03:32:52",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）資料顯示，在截至2026年5月26日的當周，日元淨空頭頭寸為114,667張合約；英鎊淨空頭持倉為61,398手合約；歐元淨多頭頭寸為29,426手合約；瑞郎淨空頭頭寸為-35,140張合約。"
+    },
+    {
+      "id": "4907753",
+      "time": "2026-05-30 03:32:24",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通股價漲幅擴大至0.6%。"
+    },
+    {
+      "id": "4907752",
+      "time": "2026-05-30 03:32:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "針對就美元維持儲備貨幣地位相關問題的提問， 美國財長貝森特表示情況未發生任何變化。"
+    },
+    {
+      "id": "4907751",
+      "time": "2026-05-30 03:31:58",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "摩根大通股價上漲；據稱OPENAI正在考慮將其納入IPO計劃。"
+    },
+    {
+      "id": "4907750",
+      "time": "2026-05-30 03:31:51",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國財長貝森特：美元走強，說明經濟政策行之有效。"
+    },
+    {
+      "id": "4907749",
+      "time": "2026-05-30 03:31:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：人們對強美元的含義存在誤解"
+    },
+    {
+      "id": "4907748",
+      "time": "2026-05-30 03:31:04",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）資料顯示：截至5月26日當週，原油投機者將西得克薩斯中質原油（WTI）淨多頭頭寸削減19186手，至91163手。"
+    },
+    {
+      "id": "4907747",
+      "time": "2026-05-30 03:30:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：利率在沃什宣誓就職前一天達到峰值。"
+    },
+    {
+      "id": "4907746",
+      "time": "2026-05-30 03:30:47",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）資料顯示，截至5月26日當週，投機客將芝加哥期貨交易所（CBOT）美國兩年期國債期貨的淨空頭頭寸削減305591手，至1255246手；投機者在截至5月26日當週將芝加哥期貨交易所（CBOT）美國10年期國債期貨的淨空頭頭寸削減60,098手，至787,954手；投機客將芝加哥期貨交易所（CBOT）美國5年期國債期貨的淨空頭頭寸削減27389手，至1323127手。"
+    },
+    {
+      "id": "4907745",
+      "time": "2026-05-30 03:30:31",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）資料顯示，截至5月26日當週，投機者將芝加哥期貨交易所（CBOT）美國超長期國債期貨淨空頭頭寸增加5378手，至259842手。"
+    },
+    {
+      "id": "4907744",
+      "time": "2026-05-30 03:30:28",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）資料顯示：截至5月26日當週，投機者將芝加哥期貨交易所（CBOT）美國國債期貨淨空頭頭寸增加20577手，至199251手。"
+    },
+    {
+      "id": "4907743",
+      "time": "2026-05-30 03:30:20",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）資料顯示，截至5月26日當週，芝加哥期貨交易所（CBOT）大豆投機者將淨多頭頭寸削減16211手，至91566手。"
+    },
+    {
+      "id": "4907742",
+      "time": "2026-05-30 03:30:15",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "貝森特：特朗普已敲定由沃什出任美聯儲主席。"
+    },
+    {
+      "id": "4907741",
+      "time": "2026-05-30 03:29:57",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）資料顯示，截至5月26日當週，紐約商品交易所（NYMEX）、洲際交易所（ICE）四大主流天然氣市場的投機客將淨空頭頭寸增加39397手，至41422手。"
+    },
+    {
+      "id": "4907740",
+      "time": "2026-05-30 03:29:53",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）資料顯示，截至5月26日當週，紐約商品交易所（COMEX）白銀投機客將淨多頭頭寸削減1517手，至10244手。"
+    },
+    {
+      "id": "4907739",
+      "time": "2026-05-30 03:29:51",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）資料顯示，截至5月26日當週，紐約商品交易所（COMEX）黃金投機客將淨多頭頭寸增加2544手，至96931手。"
+    },
+    {
+      "id": "4907738",
+      "time": "2026-05-30 03:29:48",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）資料顯示，截至5月26日當週，紐約商品交易所（COMEX）銅投機性頭寸將淨多頭頭寸削減3025手，至71974手。"
+    },
+    {
+      "id": "4907737",
+      "time": "2026-05-30 03:29:46",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）資料顯示，截至5月26日當週，股票基金投機客將芝加哥商業交易所（CME）標普500淨空頭頭寸增加63,334手，至447,470手。"
+    },
+    {
+      "id": "4907736",
+      "time": "2026-05-30 03:29:43",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）資料顯示，截至5月26日當週，股票基金經理將芝商所標準普爾500指數淨多頭頭寸增加3488手，至1009014手。"
+    },
+    {
+      "id": "4907735",
+      "time": "2026-05-30 03:29:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：我從未為凱文・沃什暗中偏袒、施加影響。"
+    },
+    {
+      "id": "4907734",
+      "time": "2026-05-30 03:29:30",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "據悉 OpenAI 正商議將花旗集團、摩根大通納入 IPO 承銷團隊。"
+    },
+    {
+      "id": "4907733",
+      "time": "2026-05-30 03:29:26",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "貝森特：將看到美聯儲更加專注、更具信譽。"
+    },
+    {
+      "id": "4907732",
+      "time": "2026-05-30 03:29:07",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "貝森特談美聯儲：我認為美聯儲將進一步聚焦政策可信度，並重塑公信力。"
+    },
+    {
+      "id": "4907731",
+      "time": "2026-05-30 03:29:01",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）資料顯示，在截至2026年5月26日當週，比特幣淨多頭頭寸為2282手合約。"
+    },
+    {
+      "id": "4907730",
+      "time": "2026-05-30 03:28:44",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "貝森特談及美聯儲：我們將回歸問責制的基本原則。"
+    },
+    {
+      "id": "4907729",
+      "time": "2026-05-30 03:28:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：完全贊同沃什取消前瞻性指引的舉措。"
+    },
+    {
+      "id": "4907728",
+      "time": "2026-05-30 03:28:01",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美國財長貝森特：昨日與凱文・沃什在美聯儲共進早餐。"
+    },
+    {
+      "id": "4907727",
+      "time": "2026-05-30 03:27:07",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "神舟二十一號航天員乘組乘飛機平安抵達北京。（新華社）"
+    },
     {
       "id": "4907726",
       "time": "2026-05-30 03:26:20",
@@ -142752,645 +143546,6 @@
         "Nasdaq100"
       ],
       "text": "【S&P 500 Posts Longest Weekly Winning Streak Since 2023 as Dow Hits Record】US stocks advanced Friday, with the S&P 500 rising 0.4% to secure its eighth straight weekly gain, the longest winning streak since 2023, while the Dow Jones Industrial Average climbed 0.6% after reaching a record high a day earlier. The Nasdaq Composite added 0.2%. Markets rebounded after midweek optimism over potential US-Iran progress eased concerns about inflation and energy prices, though uncertainty remained over Iran’s uranium stockpile and the Strait of Hormuz. Separately, consumer sentiment fell to a record low in May, according to the University of Michigan, as inflation expectations increased."
-    },
-    {
-      "id": "4895746",
-      "time": "2026-05-23 04:03:47",
-      "tags": [
-        "市場"
-      ],
-      "text": "戴爾股價收盤上漲17%，創下2月份以來最大單日漲幅。"
-    },
-    {
-      "id": "mkt:019e5148-d2c7-7aae-9ae1-2400ac73b39b",
-      "time": "2026-05-23 04:03:07",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "IRAN'S TASNIM CITING SOURCE CLOSE TO NEGOTIATING TEAM: PROGRESS HAS BEEN MADE ON SOME ISSUES BUT NO AGREEMENT WILL BE REACHED UNTIL ALL DISPUTED MATTERS RESOLVED"
-    },
-    {
-      "id": "mkt:019e5148-712b-7aae-9ae1-1aa84b354ac2",
-      "time": "2026-05-23 04:02:42",
-      "tags": [
-        "MKT News",
-        "Important",
-        "S&P500",
-        "Impact bullish",
-        "Dow",
-        "Nasdaq100"
-      ],
-      "text": "FOR THE WEEK, UNOFFICIALLY, THE S&P ROSE 0.88%, THE DOW ADDED 2.31%, THE NASDAQ GAINED 0.45% S&P 500 LOGGED ITS EIGHTH STRAIGHT WEEKLY GAIN, ITS LONGEST SINCE A NINE-WEEK STREAK ENDED IN DECEMBER 2023"
-    },
-    {
-      "id": "4895745",
-      "time": "2026-05-23 04:02:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "多倫多股票指數.GSPTSE非官方收漲61.87點，漲幅0.18%，報34471.36點。"
-    },
-    {
-      "id": "4895744",
-      "time": "2026-05-23 04:01:50",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "惠普公司股價收盤上漲15%，創下自2024年5月以來最佳單日表現。"
-    },
-    {
-      "id": "mkt:019e5147-a534-7aae-9ae1-13cc6998983f",
-      "time": "2026-05-23 04:01:50",
-      "tags": [
-        "MKT News",
-        "Dow",
-        "Impact bullish",
-        "S&P500",
-        "Nasdaq100"
-      ],
-      "text": "DOW CLOSED +0.58%, S&P 500 +0.37%, NASDAQ +0.19%"
-    },
-    {
-      "id": "4895743",
-      "time": "2026-05-23 04:01:34",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美國加州一公司發生化學品洩漏 部分地區居民被疏散】當地時間5月22日，美官員通報稱，美國加利福尼亞州奧蘭治縣加登格羅夫市的一家航空航天公司21日發生化學品洩漏事件，部分地區已釋出大規模疏散令。（央視新聞）"
-    },
-    {
-      "id": "4895742",
-      "time": "2026-05-23 04:01:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "福特汽車週五收盤上漲9.2%，創下2023年7月以來最高水平。"
-    },
-    {
-      "id": "4895741",
-      "time": "2026-05-23 04:00:57",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "阿根廷央行今日外匯儲備規模達468億美元。"
-    },
-    {
-      "id": "4895740",
-      "time": "2026-05-23 04:00:45",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股收盤：三大股指集體收漲】道指漲0.58%，標普500指數漲0.37%，納指漲0.20%。戴爾漲16.79%，惠普漲15.30%，美國網存漲12.44%，思佳訊漲12.10%，雅詩蘭黛漲11.95%，高通漲11.60%。“七姐妹”方面：特斯拉漲1.95%，蘋果漲1.25%，Meta Platforms漲0.48%，微軟跌0.14%，亞馬遜跌0.80%，谷歌跌1.06%，英偉達跌1.92%。"
-    },
-    {
-      "id": "4895739",
-      "time": "2026-05-23 04:00:22",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "據伊朗塔斯尼姆通訊社援引一名知情人士稱，關於爭議性問題的談判仍在繼續，尚未得出最終結果。該知情人士強調，部分議題已取得進展，但所有分歧事宜未解決前不會達成協議。"
-    },
-    {
-      "id": "4895738",
-      "time": "2026-05-23 04:00:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【納斯達克中國金龍指數收跌2.22%】老虎證券跌25.26%，新氧跌16.10%，小贏科技跌8.58%，水滴公司跌7.32%，蔚來跌7.14%。"
-    },
-    {
-      "id": "4895737",
-      "time": "2026-05-23 03:58:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普稱讚股市表現。"
-    },
-    {
-      "id": "4895736",
-      "time": "2026-05-23 03:58:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗塔斯尼姆通訊社：巴基斯坦仍在伊朗與美國之間斡旋傳遞相關提案。"
-    },
-    {
-      "id": "4895735",
-      "time": "2026-05-23 03:57:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我獲得了執法群體99%的選票，難以置信吧。至今還沒弄清剩下1%的選票花落誰家。"
-    },
-    {
-      "id": "4895734",
-      "time": "2026-05-23 03:57:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：特朗普力推州及地方稅抵扣政策。"
-    },
-    {
-      "id": "4895733",
-      "time": "2026-05-23 03:54:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普向紐約民眾表示，正致力於重振家鄉州榮光。我在紐約州土生土長，心繫此地，深愛這片土地，我們必須扭轉當下局面。這裡素來象徵著卓越風骨與堅韌意志，更是美國夢的縮影。可惜近些年，糟糕的政策、不作為的政客以及激進左翼的荒唐行徑，拖累了本州發展。"
-    },
-    {
-      "id": "mkt:019e513d-9164-7aae-9ae1-09abf2202733",
-      "time": "2026-05-23 03:50:49",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "CNH",
-        "Impact bearish"
-      ],
-      "text": "【Trump-Lai Call Not Yet Arranged as Beijing Warns of Strain on US-China Ties】The US and Taiwan have not made concrete plans for a call between President Donald Trump and Taiwan leader Lai Ching-te, despite Trump repeatedly saying he would speak with him about Taiwan’s defense policies, according to people familiar with the matter. Beijing warned Washington that such contact could damage bilateral ties following Trump’s recent meetings with Chinese President Xi Jinping. Trump also said he has not decided whether to approve a potential $14 billion arms sale to Taiwan, although US officials privately told Taipei to expect no policy change."
-    },
-    {
-      "id": "4895732",
-      "time": "2026-05-23 03:50:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【山西沁源縣一煤礦井下一氧化碳超標 已造成4人死亡16人危重】據山西省沁源縣訊息，當地22日晚9時43分接報，山西省長治市沁源縣通洲煤業集團留神峪煤礦井下一氧化碳感測器發出超限警報，當時井下作業人員共247人。截至23日凌晨3時33分，已有157人升井，其中4人死亡。井下仍有90人，其中16人危重。目前，搶救工作仍在緊張進行中。 (新華社)"
-    },
-    {
-      "id": "4895731",
-      "time": "2026-05-23 03:50:38",
-      "tags": [
-        "市場"
-      ],
-      "text": "黑莓上漲21%，創2025年6月份以來盤中最大漲幅，重新整理2022年以來盤中最高位。"
-    },
-    {
-      "id": "4895730",
-      "time": "2026-05-23 03:49:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "沃爾瑪公司：負責門店運營的執行副總裁即將離開沃爾瑪。"
-    },
-    {
-      "id": "4895729",
-      "time": "2026-05-23 03:49:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國地質調查局：索羅門群島拉塔以西160公里處發生5.4級地震。"
-    },
-    {
-      "id": "4895728",
-      "time": "2026-05-23 03:49:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普重申對郵寄投票的批評態度。"
-    },
-    {
-      "id": "mkt:019e513b-8498-7aae-9ae1-037ae8ed3e87",
-      "time": "2026-05-23 03:48:35",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "TRUMP: NY CAN NEVER BE THE SAME IF IT LOSES ITS TAX BASE"
-    },
-    {
-      "id": "4895727",
-      "time": "2026-05-23 03:46:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：如果紐約失去了稅基，它將永遠無法恢復原狀。"
-    },
-    {
-      "id": "mkt:019e5138-2cba-7aae-9ae0-f9f71e8037b8",
-      "time": "2026-05-23 03:44:56",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "ANTHROPIC TO CLOSE LATEST FUNDING ROUND AS SOON AS NEXT WEEK"
-    },
-    {
-      "id": "mkt:019e5138-1b17-7aae-9ae0-f1db47991b10",
-      "time": "2026-05-23 03:44:51",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "ANTHROPIC'S LATEST ROUND TO BE MORE THAN $30B, PEOPLE SAY"
-    },
-    {
-      "id": "mkt:019e5138-0444-7aae-9ae0-efede7d80059",
-      "time": "2026-05-23 03:44:46",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "ANTHROPIC EXPECTS REVENUE RUN RATE TO TOP $50B NEXT MONTH"
-    },
-    {
-      "id": "mkt:019e5137-d9fe-7aae-9ae0-e7e32ac88923",
-      "time": "2026-05-23 03:44:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ROBINHOOD CRYPTO COO TO STEP DOWN AMID REVENUE SLOWDOWN: COINDESK"
-    },
-    {
-      "id": "4895726",
-      "time": "2026-05-23 03:43:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "訊息人士稱，Anthropic此輪融資規模將超300億美元。"
-    },
-    {
-      "id": "4895725",
-      "time": "2026-05-23 03:42:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic預計下月營收年化規模將突破500億美元。"
-    },
-    {
-      "id": "4895724",
-      "time": "2026-05-23 03:42:30",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "市場訊息：Anthropic最快將於下週完成最新一輪融資。"
-    },
-    {
-      "id": "4895723",
-      "time": "2026-05-23 03:41:59",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會（CFTC）：截至5月19日當週，投機者將CBOT美國2年期國債期貨的淨空頭頭寸減少41,775份合約，降至1,560,837份；將CBOT美國10年期國債期貨的淨空頭頭寸增加66,885份合約，達到848,052份；將CBOT美國超長期國債期貨的淨空頭頭寸增加了15,470份合約，達到254,464份；將CBOT美國5年期國債期貨的淨空頭頭寸減少了11,629份合約，降至1,350,516份。"
-    },
-    {
-      "id": "mkt:019e5134-58e2-7aae-9ae0-d8cf5becc108",
-      "time": "2026-05-23 03:40:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ANTHROPIC WANTS TO MAKE MYTHOS-CLASS MODELS AVAILABLE GENERALLY ANTHROPIC: MYTHOS FOUND VULNERABILITIES IN OPEN SOURCE PROJECTS"
-    },
-    {
-      "id": "4895722",
-      "time": "2026-05-23 03:40:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic：面向Claude企業客戶推出Claude Security公開測試版。"
-    },
-    {
-      "id": "4895721",
-      "time": "2026-05-23 03:35:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國暫停向南蘇丹、剛果、烏干達發放簽證。"
-    },
-    {
-      "id": "4895720",
-      "time": "2026-05-23 03:35:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "Anthropic：我們將與包括美國及盟國政府在內的關鍵合作伙伴展開協作，推進Project Glasswing擴容，吸納更多合作方加入。"
-    },
-    {
-      "id": "mkt:019e512e-ed3d-788e-b252-6fa04f2a0f2a",
-      "time": "2026-05-23 03:34:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ANTHROPIC: WE WILL WORK WITH CRITICAL PARTNERS, INCLUDING US AND ALLIED GOVERNMENTS,TO EXPAND PROJECT GLASSWING TO ADDITIONAL PARTNERS"
-    },
-    {
-      "id": "4895719",
-      "time": "2026-05-23 03:34:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic表示，神話模型檢測出開源專案存在安全漏洞，完成安全防護部署後將擴容神話系列模型。"
-    },
-    {
-      "id": "4895718",
-      "time": "2026-05-23 03:33:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic：計劃全面開放神話級人工智慧模型。"
-    },
-    {
-      "id": "4895717",
-      "time": "2026-05-23 03:32:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic：多數合作方均發現安全漏洞。"
-    },
-    {
-      "id": "4895716",
-      "time": "2026-05-23 03:32:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic將於下週攜手合作方拓展Project Glasssing。"
-    },
-    {
-      "id": "4895715",
-      "time": "2026-05-23 03:31:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic介紹Project Glasssing的最新情況。"
-    },
-    {
-      "id": "4895714",
-      "time": "2026-05-23 03:31:08",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "比特幣跌破76000美元，日內跌2.21%。"
-    },
-    {
-      "id": "mkt:019e512a-ee0d-788e-b252-62eff0f59d3a",
-      "time": "2026-05-23 03:30:27",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "EURUSD"
-      ],
-      "text": "CFTC-SPECULATORS TRIM CBOT US 5-YEAR TREASURY FUTURES NET SHORT POSITION BY 11,629 CONTRACTS TO 1,350,516 IN WEEK ON MAY 19"
-    },
-    {
-      "id": "4895713",
-      "time": "2026-05-23 03:30:26",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會（CFTC）資料顯示，截至5月19日當週，芝加哥期貨交易所（CBOT）玉米投機商將淨多頭頭寸削減14227手，至148531手。"
-    },
-    {
-      "id": "mkt:019e512a-de45-788e-b252-5e8678ed80af",
-      "time": "2026-05-23 03:30:23",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "CFTC-SPECULATORS INCREASE CBOT US ULTRABOND TREASURY FUTURES NET SHORT POSITION BY 15,470 CONTRACTS TO 254,464 IN WEEK ON MAY 19"
-    },
-    {
-      "id": "4895712",
-      "time": "2026-05-23 03:30:20",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會（CFTC）資料顯示，截至5月19日當週，紐約商品交易所（COMEX）白銀投機客將淨多頭頭寸削減4434手，至11761手。"
-    },
-    {
-      "id": "mkt:019e512a-de24-788e-b252-553fe7bd65e2",
-      "time": "2026-05-23 03:30:20",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "CFTC-SPECULATORS INCREASE CBOT US 10-YEAR TREASURY FUTURES NET SHORT POSITION BY 66,885 CONTRACTS TO 848,052 IN WEEK ON MAY 19"
-    },
-    {
-      "id": "mkt:019e512a-dd0a-788e-b252-4a65a3cfa534",
-      "time": "2026-05-23 03:30:17",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "CFTC-SPECULATORS TRIM CBOT US 2-YEAR TREASURY FUTURES NET SHORT POSITION BY 41,775 CONTRACTS TO 1,560,837 IN WEEK ON MAY 19"
-    },
-    {
-      "id": "4895711",
-      "time": "2026-05-23 03:30:16",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會（CFTC）資料顯示，截至5月19日當週，紐約商品交易所（COMEX）黃金投機客將淨多頭頭寸削減6239手，至94388手。"
-    },
-    {
-      "id": "mkt:019e512a-dccc-788e-b252-414a79993e65",
-      "time": "2026-05-23 03:30:14",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "CFTC-SPECULATORS INCREASE CBOT US TREASURY BONDS FUTURES NET SHORT POSITION BY 5,820 CONTRACTS TO 178,674 IN WEEK ON MAY 19"
-    },
-    {
-      "id": "4895710",
-      "time": "2026-05-23 03:30:11",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會（CFTC）資料顯示，截至5月19日當週，紐約商品交易所（COMEX）銅投機客將淨多頭頭寸增加1476手，至74999手。"
-    },
-    {
-      "id": "4895709",
-      "time": "2026-05-23 03:30:06",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會（CFTC）資料顯示，在截至2026年5月19日的當周，日元淨空頭持倉為93,905手合約。"
-    },
-    {
-      "id": "mkt:019e512a-97b6-788e-b252-3c7ad277f736",
-      "time": "2026-05-23 03:30:06",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "CFTC- NATURAL GAS SPECULATORS IN FOUR MAJOR NYMEX, ICE MARKETS TRIM NET SHORT POSITION BY 20,228 CONTRACTS TO 2,026 IN WEEK TO MAY 19"
-    },
-    {
-      "id": "4895708",
-      "time": "2026-05-23 03:30:02",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會（CFTC）資料顯示，在截至2026年5月19日當週，歐元淨多頭頭寸為33,513手合約。"
-    },
-    {
-      "id": "mkt:019e512a-8661-788e-b252-369468077261",
-      "time": "2026-05-23 03:29:59",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "CFTC-COMEX COPPER SPECULATORS RAISE NET LONG POSITION BY 1,476 CONTRACTS TO 74,999 IN WEEK TO MAY 19"
-    },
-    {
-      "id": "4895707",
-      "time": "2026-05-23 03:29:56",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會（CFTC）資料顯示：在2026年5月19日當週，瑞士法郎淨空頭頭寸為-36,937張合約。"
-    },
-    {
-      "id": "mkt:019e512a-74ae-788e-b252-2d0ead2e8c71",
-      "time": "2026-05-23 03:29:55",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "CFTC-COMEX SILVER SPECULATORS CUT NET LONG POSITION BY 4,434 CONTRACTS TO 11,761 IN WEEK TO MAY 19"
-    },
-    {
-      "id": "4895706",
-      "time": "2026-05-23 03:29:51",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會（CFTC）：截至2026年5月19日當週，比特幣淨多頭持倉為2112手合約。"
-    },
-    {
-      "id": "mkt:019e512a-5b00-788e-b252-258434d5c075",
-      "time": "2026-05-23 03:29:50",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "CFTC-COMEX GOLD SPECULATORS CUT NET LONG POSITION BY 6,239 CONTRACTS TO 94,388 IN WEEK TO MAY 19"
-    },
-    {
-      "id": "4895705",
-      "time": "2026-05-23 03:29:45",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會（CFTC）資料顯示，截至5月19日當週，股票基金投機客將芝加哥商品交易所（CME）標普500淨空頭頭寸削減34200手，至384136手。"
-    },
-    {
-      "id": "mkt:019e512a-4118-788e-b252-1cf7905bee3e",
-      "time": "2026-05-23 03:29:44",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "CFTC-OIL SPECULATORS RAISE WTI NET LONG POSITION BY 15,017 CONTRACTS TO 110,348 IN WEEK TO MAY 19"
-    },
-    {
-      "id": "4895704",
-      "time": "2026-05-23 03:29:40",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會（CFTC）資料顯示，在截至5月19日的一週內，股票基金經理將其在芝加哥商業交易所（CME）標普500淨多頭頭寸削減了50929手合約，降至1005526手合約。"
-    },
-    {
-      "id": "mkt:019e512a-3035-788e-b252-148c0bfadf95",
-      "time": "2026-05-23 03:29:39",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bearish"
-      ],
-      "text": "CFTC- BRITISH POUND NET SHORT POSITION IS -64,307 CONTRACTS IN WEEK ENDED MAY 19 2026"
-    },
-    {
-      "id": "mkt:019e512a-24b9-788e-b252-0f9c4ace8342",
-      "time": "2026-05-23 03:29:36",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "CFTC-JAPANESE YEN NET SHORT POSITION IS -93,905 CONTRACTS IN WEEK ENDED MAY 19 2026"
-    },
-    {
-      "id": "mkt:019e512a-088e-788e-b252-00ae27881580",
-      "time": "2026-05-23 03:29:29",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Crypto Concepts",
-        "Bitcoin"
-      ],
-      "text": "CFTC- BITCOIN NET LONG POSITION IS 2,112 CONTRACTS IN WEEK ENDED MAY 19 2026"
-    },
-    {
-      "id": "4895703",
-      "time": "2026-05-23 03:27:26",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【儘管國際油價大漲，美國北達科他州油企對擴大鑽探仍持謹慎態度】美國北達科他州監管機構表示，儘管由伊朗戰爭引爆的國際油價瘋狂暴漲大幅改善了行業的短期基本面，但該州的美國石油運營商們在重開鑽機、拉高產量的行動上依舊步履謹慎。各家能源公司目前普遍處於觀望狀態，以研判當前的牛市高位究竟能維持多久，是否足以支撐起新一輪龐大資本開支的合理性。 北達科他州工業委員會（Industrial Commission）石油天然氣部助理主任博雷爾（Mark Bohrer）指出，該州第二大石油生產商——大陸能源公司（Continental Resources）在今年早些時候曾主動撤下一臺鑽機，而近期該公司已在悄然規劃重新部署該鑽機並全面恢復鑽探作業。他耐人尋味地補充道：“如果高企的國際油價能夠挺得足夠久，其他一些運營商大機率也會按捺不住，開始在個別區塊零星地追加鑽機。”與此同時，康菲石油、EOG Resources、以及響尾蛇能源（Diamondback Energy）等美股上市能源巨頭也正在大舉調撥優勢資源開鑿新井或擴建既有舊井。不過據瞭解，這些巨頭的增產重心目前主要死死錨定在資本回報率更高的二疊紀盆地，以期最大化地榨取當前高油價環境下的暴利紅利。"
     }
   ]
 }
