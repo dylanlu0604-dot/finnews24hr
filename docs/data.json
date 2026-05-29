@@ -1,7 +1,79 @@
 {
-  "updated": "2026-05-30 00:20:34",
-  "count": 15834,
+  "updated": "2026-05-30 00:24:39",
+  "count": 15838,
   "items": [
+    {
+      "id": "mkt:019e748c-bf4e-7bb7-9964-20785677749a",
+      "time": "2026-05-30 00:24:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian President Putin said any location that poses a threat to Russia is a legitimate target for Russian strikes."
+    },
+    {
+      "id": "4907640",
+      "time": "2026-05-30 00:23:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京： 俄方願繼續就烏克蘭問題展開談判。"
+    },
+    {
+      "id": "4907639",
+      "time": "2026-05-30 00:22:54",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美國貨幣市場基金規模創紀錄，類現金資產需求旺盛】由於美聯儲貨幣政策路徑的不確定性刺激對類現金資產的需求，投資者將美國貨幣市場基金的總規模推高至創紀錄的8.281萬億美元。根據Crane Data LLC的最新資料，截至5月28日當週，約有660億美元湧入貨幣市場基金行業。其中約410億美元是週四流入的，投資者在月底前調整投資組合。今年以來，貨幣市場基金累計已吸引約1720億美元資金。根據Crane Data資料，截至5月28日，美國貨幣市場基金7天平均收益率為3.34%。"
+    },
+    {
+      "id": "4907638",
+      "time": "2026-05-30 00:22:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京： 所有對俄羅斯構成威脅的地點，均是俄羅斯的合法打擊目標。"
+    },
+    {
+      "id": "mkt:019e748b-953e-7bb7-9964-186318e95465",
+      "time": "2026-05-30 00:22:45",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "A NATO military headquarters spokesperson said the drone that crashed in Romania originated from Russia."
+    },
+    {
+      "id": "4907637",
+      "time": "2026-05-30 00:22:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京：烏克蘭當前的局面是歐盟的政策所致，俄羅斯並未威脅歐洲。"
+    },
+    {
+      "id": "mkt:019e748a-a4c9-7bb7-9964-1056db25d2f2",
+      "time": "2026-05-30 00:21:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Putin says Russia has not threatened Europe."
+    },
+    {
+      "id": "4907636",
+      "time": "2026-05-30 00:19:57",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "摩根大通CEO戴蒙：希望美國能更加支援烏克蘭（而不是以色列）。"
+    },
     {
       "id": "mkt:019e7488-e1bf-7bb7-9964-0b976bd5a350",
       "time": "2026-05-30 00:19:48",
@@ -143328,51 +143400,6 @@
         "國際"
       ],
       "text": "市場訊息：優步（uber）與顧問們研究進一步持股歐洲配送競爭對手Delivery Hero的方式。"
-    },
-    {
-      "id": "mkt:019e507f-d477-7443-baf7-505b518163cb",
-      "time": "2026-05-23 00:23:35",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "PAKISTAN ARMY CHIEF ASIM MUNIR ARRIVES IN TEHRAN – IRAN'S ISNA"
-    },
-    {
-      "id": "4895611",
-      "time": "2026-05-23 00:22:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "據伊朗伊斯蘭共和國通訊社：巴基斯坦陸軍參謀長抵達德黑蘭。"
-    },
-    {
-      "id": "mkt:019e507e-55a5-7443-baf7-4a6c106c747a",
-      "time": "2026-05-23 00:21:57",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "WTI",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "【Markets Brace for Possible Fed Rate Hikes Under Warsh Despite Trump’s Push for Cuts】Donald Trump appointed Kevin Warsh to lead the Federal Reserve with expectations of lower interest rates, but investors increasingly fear the Fed may instead need to raise rates as inflation, bond yields and energy prices climb. The Iran war, elevated oil prices and strong AI-driven demand have complicated prospects for rate cuts. Treasury Secretary Scott Bessent said current inflation pressures are “transient,” while White House economic adviser Kevin Hassett predicted rate cuts later this year. Analysts remain divided, with BNP Paribas economist James Egelhof saying Trump’s comments broadened expectations toward hikes, while Standard Chartered’s Steve Englander expects rates to remain unchanged through 2027. Joseph Lavorgna of SMBC Americas said the Fed may need to raise rates by about one percentage point due to inflationary pressures linked to the Iran conflict."
-    },
-    {
-      "id": "mkt:019e507d-91b4-7443-baf7-455c2e6707ae",
-      "time": "2026-05-23 00:21:06",
-      "tags": [
-        "MKT News",
-        "Hot",
-        "Market Regions",
-        "Greater China",
-        "Policy",
-        "Chinese Policy & Markets"
-      ],
-      "text": "US ACTING NAVY SECRETARY: US TEMPORARILY PAUSES TAIWAN WEAPONS SALES DUE TO IRAN WAR - FOX NEWS"
     }
   ]
 }
