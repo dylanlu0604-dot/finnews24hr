@@ -1,7 +1,35 @@
 {
-  "updated": "2026-05-30 02:21:55",
-  "count": 15810,
+  "updated": "2026-05-30 02:25:47",
+  "count": 15812,
   "items": [
+    {
+      "id": "te:markets:555053",
+      "time": "2026-05-30 02:25:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Cocoa Drops by 4.83% — Top commodity losers are Cocoa (-4.83%) and Oat (-3.46%). Gains are led by Rubber (2.79%) and Sugar (1%)."
+    },
+    {
+      "id": "4907691",
+      "time": "2026-05-30 02:21:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國內政部長伯格姆：石油市場可以相信特朗普會達成一項很棒的協議。"
+    },
+    {
+      "id": "mkt:019e74f8-7ee1-7bb7-9965-3e98e1aec24d",
+      "time": "2026-05-30 02:21:42",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "US Interior Secretary Bergum said he will meet with Trump; the meeting could yield significant announcements."
+    },
     {
       "id": "4907690",
       "time": "2026-05-30 02:20:16",
@@ -143163,17 +143191,6 @@
         "國際"
       ],
       "text": "【物流巨頭敦促歐盟逐步推行低價包裹關稅新規】週五，全球物流巨頭 DHL、聯邦快遞（FedEx）以及聯合包裹（UPS）聯合向歐盟成員國財政部長髮出緊急呼籲，敦促其逐步分階段推行針對低價包裹的關稅新規。這些巨頭嚴厲警告稱，倉促上馬新規恐將引發供應鏈全面梗阻，甚至直接危及部分核心醫療物資的供應安全。"
-    },
-    {
-      "id": "te:markets:553189",
-      "time": "2026-05-23 02:25:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Sugar Falls by 1.43% — Top commodity losers are Sugar (-1.43%), Coffee (-0.71%) and Cotton (-0.69%). Gains are led by Cocoa (1.35%), Oat (1.17%) and Palm Oil (0.63%)."
     }
   ]
 }
