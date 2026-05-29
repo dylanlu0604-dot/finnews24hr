@@ -1,7 +1,24 @@
 {
-  "updated": "2026-05-30 05:44:11",
-  "count": 15826,
+  "updated": "2026-05-30 05:48:00",
+  "count": 15825,
   "items": [
+    {
+      "id": "4907881",
+      "time": "2026-05-30 05:45:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮：特朗普簽署行政令，取消了准入聯邦土地的過時限制。"
+    },
+    {
+      "id": "4907880",
+      "time": "2026-05-30 05:44:18",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "週五（5月29日）紐約尾盤，美國10年期基準國債收益率跌1.18個基點，報4.4355%，本週（四個交易日）累跌12.23個基點，5月份累計上漲6.48個基點，整體衝高回落、交投於4.3140%-4.6853%區間、5月19日北京時間22:00過後逐步回撤。兩年期美債收益率跌1.64個基點，報4.0041%，本週累跌10.62個基點，5月份累漲13.51個基點，整體交投於3.8220%-4.1423%區間。"
+    },
     {
       "id": "4907879",
       "time": "2026-05-30 05:41:20",
@@ -143249,34 +143266,6 @@
         "其他"
       ],
       "text": "佛羅里達州州長：藍色起源將在本州投資6億美元擴建制造基地，新增500個高薪崗位。"
-    },
-    {
-      "id": "te:economy:553202",
-      "time": "2026-05-23 05:46:07",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Brazil",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Brazil 10-Year Bond Yield Retreats — The yield on Brazil’s 10-year government bond fell to 14.2% in late May, retreating from the highest level in over a year as global bond markets stabilized. Investors continued to monitor developments in peace negotiations between the US and Iran. With Pakistan acting as mediator, both sides moved somewhat closer to a potential agreement, although disagreements over Tehran’s uranium stockpiles and control of the Strait of Hormuz continued to prevent a final deal. Domestically, markets assessed another increase in inflation and Selic rate forecasts in the Focus survey, alongside the March contraction in the IBC-Br economic activity index. Investors also evaluated the implications of US monetary policy after comments from Federal Reserve Governor Christopher Waller reinforced expectations that US interest rates could remain elevated for longer."
-    },
-    {
-      "id": "4895847",
-      "time": "2026-05-23 05:45:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "【紐約一造船廠爆炸起火致16人受傷】美國紐約市斯塔滕島一家造船廠22日發生爆炸起火，當地官員說，造成包括消防員在內16人受傷，其中三人重傷。（新華社）"
-    },
-    {
-      "id": "4895846",
-      "time": "2026-05-23 05:44:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "【風電審批遭遇全面“停擺”，危及美國500億美元能源專案】據一家權威行業貿易協會透露，特朗普政府近期全面叫停了針對新型陸上風電專案的行政審批，此舉直接導致高達500億美元的風電投資陷入風雨飄搖的危險境地。美國國防部（五角大樓）在一項行政審查程式中，強行按下了約130個規劃中風電專案的“暫停鍵”。國防部方面堅稱，針對風力發電場的審查機制旨在確保這些龐然大物不會干擾軍方的日常軍事演練與國防雷達運作；然而，美國清潔能源協會則公開炮轟，怒斥國防部的此番作風本質上是對全美風電專案實施的一刀切式“全面封殺”。"
     }
   ]
 }
