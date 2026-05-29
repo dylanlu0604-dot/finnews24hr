@@ -1,7 +1,181 @@
 {
-  "updated": "2026-05-29 21:44:57",
-  "count": 15841,
+  "updated": "2026-05-29 21:49:08",
+  "count": 15856,
   "items": [
+    {
+      "id": "te:markets:555000",
+      "time": "2026-05-29 21:48:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Southern Stock Price Hits 14-week Low — Southern shares decreased to 91.59 USD, the lowest since February 2026. Over the past 4 weeks, Southern Co. lost 1.91%, and in the last 12 months, it increased 3.35%."
+    },
+    {
+      "id": "4907442",
+      "time": "2026-05-29 21:47:50",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "美國5月芝加哥PMI錄得62.7，為2022年1月以來新高。"
+    },
+    {
+      "id": "4907441",
+      "time": "2026-05-29 21:47:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐約市將在市中心開闢臨時通道，保障世界盃期間交通通行。"
+    },
+    {
+      "id": "mkt:019e73fd-ae5a-7eef-a0f0-5d54ce74db18",
+      "time": "2026-05-29 21:47:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "U.S. Chicago PMI for May rose to 62.7, the highest reading since January 2022."
+    },
+    {
+      "id": "mkt:019e73fd-77a6-7eef-a0f0-559b3fc64b4d",
+      "time": "2026-05-29 21:47:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kremlin: Eurasian Economic Union member states said any future referendum in Armenia should include an option to \"continue to remain in the Russia-led union\"."
+    },
+    {
+      "id": "4907438",
+      "time": "2026-05-29 21:46:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "據美國媒體29日報道，美國弗吉尼亞州警方說，一輛巴士在該州95號州際公路上與多輛汽車相撞，造成5人死亡，34人受傷。（新華社）"
+    },
+    {
+      "id": "mkt:019e73fc-6a8f-7eef-a0f0-492807067f52",
+      "time": "2026-05-29 21:46:07",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "Qinglan Maritime Bureau issued a navigation warning: from 06:00 May 30 to 24:00 May 31 local time parts of the South China Sea will be closed for military exercises; entry is prohibited."
+    },
+    {
+      "id": "4907436",
+      "time": "2026-05-29 21:45:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "清瀾海事局釋出航行警告，5月30日6時至5月31日24時，南海部分海域進行軍事訓練，禁止駛入。 （央視軍事）"
+    },
+    {
+      "id": "em:jjsj_mgsj:202605293754718441",
+      "time": "2026-05-29 21:45:52",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "【美國5月芝加哥PMI為62.7 預期50.5】美國5月芝加哥PMI為62.7，預期50.5，前值49.2。"
+    },
+    {
+      "id": "4907435",
+      "time": "2026-05-29 21:45:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮稱，歐亞經濟聯盟成員國表示，亞美尼亞未來任何全民公投都應增設保留留在俄羅斯主導的這一聯盟的選項。"
+    },
+    {
+      "id": "4907434",
+      "time": "2026-05-29 21:45:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【諾思蘭德：1類創新藥塞多明基注射液獲批上市 國內目前無同型別產品上市】諾思蘭德公告，公司近日收到國家藥監局核准簽發的塞多明基注射液（商品名：華索靈）《藥品註冊證書》，該藥品為治療用生物製品1類基因治療藥物，獲批適應症為治療不適合血運重建手術或手術效果不佳的嚴重下肢缺血導致的肢體潰瘍，系公司首款獲批上市的基因治療藥物，國內目前無同型別產品上市。"
+    },
+    {
+      "id": "mkt:019e73fb-c0a2-7eef-a0f0-447b0f4b5f5c",
+      "time": "2026-05-29 21:45:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "US Chicago PMI for May 62.7, consensus 50.5, prior 49.2."
+    },
+    {
+      "id": "mkt:019e73fb-9f43-7eef-a0f0-3a1879ca082f",
+      "time": "2026-05-29 21:45:30",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Chicago PMI (May) | actual 62.7 | consensus 50.5 | previous 49.2"
+    },
+    {
+      "id": "mkt:019e73fb-7254-7eef-a0f0-34c4b22b4af4",
+      "time": "2026-05-29 21:45:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kremlin says Russia and other Eurasian Economic Union (EAEU) members will study the potential consequences of suspending Armenia's membership."
+    },
+    {
+      "id": "mkt:019e73fb-51e8-7eef-a0f0-2c839e930eee",
+      "time": "2026-05-29 21:45:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China 2026 box office tops 15.5 bln yuan】China's 2026 cumulative box office has surpassed 15.5 bln yuan. Film A Letter to Grandma has earned over 1.27 bln yuan, ranking fourth for the year, and its theatrical run has been extended to June 30."
+    },
+    {
+      "id": "4907433",
+      "time": "2026-05-29 21:45:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國5月份MNI芝加哥商業景氣指數報62.7；預估50.3。"
+    },
+    {
+      "id": "4907432",
+      "time": "2026-05-29 21:44:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮表示，俄羅斯及其他歐亞經濟聯盟成員國將研究暫停亞美尼亞歐亞經濟聯盟成員資格的相關後果。"
+    },
+    {
+      "id": "4907431",
+      "time": "2026-05-29 21:44:16",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【歐洲央行管委拉德夫：應對戰爭衝擊 歐洲央行應避免行動遲緩】歐洲央行管委拉德夫表示，歐洲央行應避免在應對伊朗戰爭所引發的後續影響時拖延過久。這位保加利亞央行行長指出：“鑑於存在通脹預期可能變得不再穩固的風險，現階段的權衡取捨並非對稱的。”他補充道：“行動遲緩所付出的代價，可能會超過更早介入所付出的代價。”在中東衝突導致通脹率遠超2%的目標水平之後，決策者們似乎正處於自2023年以來首次加息的邊緣。然而，部分官員認為，歐洲央行應在介入之前先觀望其溢位效應；另一些官員則對經濟增長面臨的風險感到擔憂。"
+    },
     {
       "id": "mkt:019e73fa-697e-7995-81dd-e6fb09a2fe59",
       "time": "2026-05-29 21:44:11",
@@ -143373,32 +143547,6 @@
         "國際"
       ],
       "text": "【魯比奧：北約已開始推演伊朗拒絕開放霍爾木茲海峽的最壞局面】美國國務卿魯比奧表示，北約盟友已開始推演伊朗拒絕開放霍爾木茲海峽的最壞局面。“我們都希望能與伊朗達成協議，保障海峽通航暢通，同時令其放棄核相關訴求等。但我們也必須備好備選方案。”“我們需要預判，倘若數週後伊朗執意封鎖海峽，對不聽從指令、未繳納相關費用的船隻實施打擊，屆時各方必須採取應對舉措。”"
-    },
-    {
-      "id": "4895402",
-      "time": "2026-05-22 21:48:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "高通漲幅擴大至5%。"
-    },
-    {
-      "id": "4895401",
-      "time": "2026-05-22 21:45:41",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【禮來公司市值時隔3個月重回1萬億美元】禮來股價上漲2.18%，報1064.38美元/股，創2月中旬以來新高，總市值報1.00萬億美元。"
-    },
-    {
-      "id": "4895400",
-      "time": "2026-05-22 21:44:59",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【全年AI收入同比翻番，楊元慶：未來兩年整體營收要超千億美元】5月22日，受第四財季營收和利潤超預期的提振，聯想集團（0992.HK）股價大漲20%。楊元慶表示，新的一年內，AI PC會佔到整個聯想PC銷量的50%以上，AI伺服器也會是一個強勁的增長動力；另外，AI解決方案和服務，尤其是按需定製的解決方案和服務增長會非常快。財報顯示：AI也正在成為聯想增長最快的新引擎，全年AI收入同比增長105%。三大業務集團之所以能夠實現超預期增長，與混合式AI戰略的持續深入密不可分。“我們很有信心利用最多兩年的時間，把公司整體的營收規模提升到1000億美元以上，而且能進一步改善盈利。”楊元慶表示。（澎湃）"
     }
   ]
 }
