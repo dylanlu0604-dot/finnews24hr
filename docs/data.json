@@ -1,7 +1,45 @@
 {
-  "updated": "2026-05-30 08:27:18",
-  "count": 15849,
+  "updated": "2026-05-30 08:31:08",
+  "count": 15852,
   "items": [
+    {
+      "id": "mkt:019e7648-e47a-7bb7-9966-c2554f2d1a4a",
+      "time": "2026-05-30 08:29:08",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【MiniMax begins A-share IPO counseling with CITIC Securities】MiniMax Group Inc. signed a counseling agreement with CITIC Securities on May 29, 2026, formally initiating its A-share IPO process."
+    },
+    {
+      "id": "mkt:019e7648-0503-7bb7-9966-be88e478097e",
+      "time": "2026-05-30 08:28:11",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【Lebanon-Israel talks fail; Israeli forces cross Litani River】Lebanese and Israeli military delegations failed to agree a ceasefire at US-mediated talks in Washington, Lebanese officials said early on the 30th. Prime Minister Netanyahu confirmed a major Israeli force has crossed the Litani River in southern Lebanon. Lebanese officials said their delegation repeatedly pressed for a ceasefire, which the Israeli delegation rejected; Israel also refused to withdraw from territory it occupies in Lebanon and insisted on the disarmament of Hezbollah. The US-mediated trilateral talks began at the Pentagon on the morning of the 29th Eastern Time and ended after more than nine hours."
+    },
+    {
+      "id": "4907962",
+      "time": "2026-05-30 08:27:57",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【12只滯漲算力股獲融資客重倉】受益於科技板塊的走強，今年以來算力概念股整體表現強勢。根據萬得資料以及公開資訊，截至5月29日，74只算力概念股今年以來平均漲幅超過45%，翻倍股有8只。從融資資金來看，74只算力概念股最新（5月28日）融資餘額合計接近2126億元，較去年末增加近38%，民爆光電、光迅科技、潤澤科技等8家公司融資餘額增幅均超過100%。進一步來看，今年以來累計漲幅低於45%（跑輸算力概念股平均漲幅），且5月28日融資餘額較去年末增幅均超過30%的算力概念股有12只，按照融資餘額增幅排序，居前的有超穎電子、龍芯中科、優刻得-W。"
+    },
+    {
+      "id": "4907961",
+      "time": "2026-05-30 08:27:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國前司法部長承認愛潑斯坦案檔案公開過程中存在刪減錯誤】5月29日，美國前司法部長帕姆·邦迪在眾議院監督與問責委員會閉門問詢中表示，司法部在公佈傑弗裡·愛潑斯坦案相關檔案過程中存在“刪減錯誤”。據其所知，司法部已按照《愛潑斯坦檔案透明法》的要求公開所有應公開材料。她表示，自己並未直接負責全部審查工作，而是將監督職責交由時任副司法部長、現代理司法部長託德·布蘭奇負責。司法部始終致力於問責和透明度，如發現與愛潑斯坦及其關聯人員有關的犯罪證據，將依法採取行動。（央視）"
+    },
     {
       "id": "4907960",
       "time": "2026-05-30 08:25:45",
@@ -143455,17 +143493,6 @@
         "其他"
       ],
       "text": "【國泰澳洲抵港航班疑遇氣流，已致5人受傷】據香港電臺報道，香港警方表示，國泰航空由澳洲布里斯班5月23日清晨抵達香港航班疑遇氣流，初步排查發現5人受傷，包括3名乘客及2名機組人員。"
-    },
-    {
-      "id": "4895906",
-      "time": "2026-05-23 08:28:56",
-      "tags": [
-        "央行",
-        "公司",
-        "市場",
-        "觀點"
-      ],
-      "text": "【護航政府債券發行 MLF操作重回淨投放】央行5月22日釋出公告稱，為保持銀行體系流動性充裕，5月25日將以固定數量、利率招標、多重價位中標方式開展6000億元MLF（中期借貸便利）操作，期限為1年期。本次操作為加量續作，淨投放1000億元，超出市場預期。中信證券首席經濟學家明明表示，5月國債供給放量、同業存單到期壓力較大，本次操作體現出對資金面的呵護。今年首期中央金融機構注資特別國債於5月22日發行。“5月中下旬以來政府債券淨融資規模大幅上升。”方金誠首席宏觀分析師王青表示，4月宏觀資料出現一定波動，未來銀行可能加大對基礎設施建設、製造業等領域的信貸投放力度，推動投資止跌回穩。MLF加量續作，體現了貨幣政策、財政政策協同，以及貨幣金融在支援實體經濟方面的精準發力。（上海證券報）"
     }
   ]
 }
