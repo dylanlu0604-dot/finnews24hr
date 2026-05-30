@@ -1,7 +1,55 @@
 {
-  "updated": "2026-05-31 02:38:37",
-  "count": 15924,
+  "updated": "2026-05-31 02:42:28",
+  "count": 15929,
   "items": [
+    {
+      "id": "mkt:019e7a31-77a9-7bb7-996b-0ba0a5ac5742",
+      "time": "2026-05-31 02:42:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Jazeera reported the Israeli Interior Ministry said it will close schools in northern border areas, including Mellon and Nahariya, and impose restrictions on public gatherings."
+    },
+    {
+      "id": "4908441",
+      "time": "2026-05-31 02:41:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "軟銀承諾出資750億歐元，在法國建設人工智慧設施。"
+    },
+    {
+      "id": "4908440",
+      "time": "2026-05-31 02:41:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普將擔任6月24日開幕的美國大型州博覽會主講嘉賓。"
+    },
+    {
+      "id": "mkt:019e7a2f-eaf7-7bb7-996b-0306fa063204",
+      "time": "2026-05-31 02:40:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China launches satellite internet technology test satellite】China launched a satellite internet technology test satellite on May 31 at 02:07 from the Xichang Satellite Launch Center aboard a Long March 2D rocket; the satellite reached its designated orbit and the mission was declared successful. The satellite will test direct-to-device mobile broadband and space-to-ground network integration. The launch was the 646th flight of the Long March series of carrier rockets."
+    },
+    {
+      "id": "4908439",
+      "time": "2026-05-31 02:39:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國成功發射衛星網際網路技術試驗衛星】5月31日02時07分，我國在西昌衛星發射中心使用長征二號丁運載火箭，成功將衛星網際網路技術試驗衛星發射升空，衛星順利進入預定軌道，發射任務取得圓滿成功。 衛星網際網路技術試驗衛星主要用於開展手機寬頻直連衛星、天地網路融合等技術試驗驗證。 這次任務是長征系列運載火箭的第646次飛行。（新華社）"
+    },
+    {
+      "id": "4908438",
+      "time": "2026-05-31 02:38:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "自6月1日起，印度調整燃油出口暴利稅。"
+    },
     {
       "id": "4908437",
       "time": "2026-05-31 02:36:21",
@@ -144300,14 +144348,6 @@
         "國際"
       ],
       "text": "法國總統馬克龍已與海灣多國領導人及美國總統特朗普通電話就中東局勢交換意見。"
-    },
-    {
-      "id": "4896413",
-      "time": "2026-05-24 02:41:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡將於今晚就擬議中的美伊協議與特朗普通話。伊朗表示該草案將開啟為期60天的磋商，以色列則對協議條款表達擔憂。"
     }
   ]
 }
