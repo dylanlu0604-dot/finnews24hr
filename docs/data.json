@@ -1,7 +1,53 @@
 {
-  "updated": "2026-05-30 19:18:39",
-  "count": 15932,
+  "updated": "2026-05-30 19:22:31",
+  "count": 15937,
   "items": [
+    {
+      "id": "mkt:019e789e-086c-7bb7-9969-76aed98af16c",
+      "time": "2026-05-30 19:21:23",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Xiaomi",
+        "Market Themes",
+        "AI Revolution",
+        "1810.HK",
+        "Impact mixed"
+      ],
+      "text": "【Xiaomi details full‑stack inference optimizations for MiMo‑V2.5 models】May 30 — Xiaomi published end‑to‑end inference optimizations for the MiMo‑V2.5 series. The firm said its Hybrid SWA+MoE+multimodal architecture was paired with a systematic rebuild of the inference stack — KVCache management, tiered and prefix caching, scheduling and the prefill/decode pipeline. Xiaomi reported KVCache storage is compressed to roughly 1/7 of comparable solutions, materially lowering inference cost in long‑sequence scenarios and providing the technical basis for the price cut. Xiaomi permanently cut MiMo‑V2.5 API prices on May 27, with discounts up to 99% and no differentiation by input length."
+    },
+    {
+      "id": "4908266",
+      "time": "2026-05-30 19:20:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【10名車主訴特斯拉FSD欺詐案近日開庭，索賠金額數百萬元】近日，一起針對特斯拉FSD（完全自動駕駛）功能的集體訴訟案在北京市大興區人民法院一審開庭。5月29日，記者從原告律師處獲悉，10名中國車主以虛假宣傳、消費欺詐為由，將特斯拉告上法庭，索賠金額合計395萬餘元。特斯拉方對此案暫無回應。據原告律師稱，庭審中雙方聚焦特斯拉FSD功能是否達到其宣傳的“完全自動駕駛能力”舉證辯論。原告方認為，被告明知其宣傳的“完全自動駕駛”功能未獲中國監管部門批准，無法實現其宣傳的核心功能，並隱瞞硬體技術缺陷，進行誤導性宣傳，誘使原告購買，其行為符合欺詐的構成要件。被告特斯拉方則主張FSD功能“現在已經實現”或“部分實現”，並稱後續功能仍在研發中。（新京報）"
+    },
+    {
+      "id": "4908265",
+      "time": "2026-05-30 19:19:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【紫光股份旗下新華三集團與中國通訊服務浙江公司簽署戰略合作協議】5月29日，紫光股份旗下新華三集團與中國通訊服務浙江公司在杭州舉行戰略合作簽約儀式。雙方將圍繞基礎設施服務、智算中心建設、DICT協同發展、低空經濟合作、海外市場拓展、產學研成果轉化等領域開展戰略合作。"
+    },
+    {
+      "id": "4908264",
+      "time": "2026-05-30 19:17:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京太空智算研究院在北京亦莊成立】近日，北京太空智算研究院在北京經濟技術開發區註冊成立。研究院將圍繞星載算力晶片、星間鐳射通訊、太空能源與散熱、天地一體化網路及空間安全標準等方向開展關鍵共性技術攻關，搭建覆蓋技術研發、中試驗證、在軌測試到成果轉化的全鏈條服務體系，並計劃於2028年前完成首發試驗星研製與發射。未來，研究院將進行多顆試驗星組網，實現“天地一體化智算網”試運營。"
+    },
+    {
+      "id": "4908263",
+      "time": "2026-05-30 19:17:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【小米MiMo首次公開模型推理系統全鏈路最佳化技術細節】5月30日，小米正式公開MiMo-V2.5系列模型的推理系統全鏈路最佳化方案。據小米方面介紹，團隊圍繞Hybrid SWA+MoE+多模態的複合架構，系統性重構了從KVCache管理、分級快取、字首快取到排程策略與Prefill/Decode鏈路的完整推理棧，KVCache儲存壓縮至同級方案的約1/7，在長序列場景下推理成本大幅下降——這是本次降價的核心技術基礎。5月27日，MiMo-V2.5系列API完成永久降價，最高降幅達99%，不區分輸入長度。"
+    },
     {
       "id": "4908262",
       "time": "2026-05-30 19:12:21",
