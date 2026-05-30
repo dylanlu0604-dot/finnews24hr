@@ -1,7 +1,15 @@
 {
-  "updated": "2026-05-30 08:11:55",
-  "count": 15849,
+  "updated": "2026-05-30 08:15:44",
+  "count": 15850,
   "items": [
+    {
+      "id": "mkt:019e7639-661a-7bb7-9966-ac25e8b5ecb6",
+      "time": "2026-05-30 08:12:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US Treasury adds Iran-linked individuals, entities to sanctions list】On April 29 the U.S. Treasury said it added multiple Iran-linked individuals and entities to its sanctions list as part of \"Operation Economic Fury\" to step up economic pressure on Tehran. The Treasury’s Office of Foreign Assets Control, coordinating with the Commerce Department and the FBI’s Los Angeles office, targeted an Iran-based procurement network accused of \"using false identities and defrauding U.S. firms\" to procure goods for Iran’s Ministry of Defense and armed forces; OFAC named eight individuals and five entities in the action."
+    },
     {
       "id": "4907955",
       "time": "2026-05-30 08:09:12",
