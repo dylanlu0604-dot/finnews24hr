@@ -1,7 +1,29 @@
 {
-  "updated": "2026-05-30 15:18:17",
+  "updated": "2026-05-30 15:22:19",
   "count": 15889,
   "items": [
+    {
+      "id": "mkt:019e77bf-5bc3-7bb7-9968-55bed7532152",
+      "time": "2026-05-30 15:18:09",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bullish"
+      ],
+      "text": "【CITIC Securities: Firmly bullish on Tesla robot and supply‑chain firms】CITIC Securities says WIPO has published a new batch of Tesla robot patents and identifies a dexterous hand as a recent core upgrade. With appearance and patent details disclosed, the firm judges the V3 design close to finalization and views Tesla as approaching volume production. It cites Tesla’s combination of large‑model AI capabilities and scale manufacturing and is firmly bullish on the Tesla robot and its supply‑chain firms."
+    },
+    {
+      "id": "4908144",
+      "time": "2026-05-30 15:18:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列空襲黎巴嫩南部納巴蒂耶。"
+    },
     {
       "id": "4908143",
       "time": "2026-05-30 15:14:37",
@@ -143827,25 +143849,6 @@
         "國際"
       ],
       "text": "【印尼蘇門答臘島發生大規模停電 數百萬人受影響】印度尼西亞蘇門答臘島22日晚間發生大規模停電事故，數百萬居民陷入斷電狀態，多個省份交通及公共活動受到影響。 印尼國家電力公司證實，當地時間22日18時44分左右，蘇門答臘互聯電網發生故障，導致亞齊省、北蘇門答臘省、西蘇門答臘省、廖內省以及蘇門答臘中部部分地區大面積停電。其中，該公司在北蘇門答臘、廖內、西蘇門答臘和亞齊分別擁有約440萬、260萬、196萬和170萬使用者。 初步調查顯示，事故與一條275千伏輸電線路故障有關，惡劣天氣被認為是導致故障的重要原因。（中新社）"
-    },
-    {
-      "id": "4896101",
-      "time": "2026-05-23 15:20:37",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【機構：中國品牌在歐洲純電汽車市場佔有率首超15%】市場研究機構資料力量公司日前公佈的資料顯示，今年4月，中國汽車品牌在歐洲電動汽車市場銷量佔比首次突破15%，創歷史新高，說明歐洲消費者對中國新能源汽車需求持續旺盛。彭博社22日援引這一機構的資料包道，今年4月，比亞迪、奇瑞等中國品牌純電動車在歐洲銷量達38281輛，同比增長超一倍。除純電動汽車外，中國車企在插電式混合動力車型領域同樣表現強勁，4月銷量佔比接近29%。目前，中國汽車品牌在歐洲汽車市場整體份額已近10%。彭博社分析指出，短短數年，中國電動車在歐洲月銷量已實現跨越式增長。歐洲本土車企高價效比電動車供給不足、技術迭代較慢，而中國車企憑藉電池技術、智慧化及價格優勢，快速獲得當地消費者青睞。報道說，近期多箇中國汽車品牌進入歐洲市場，並相繼推出高階子品牌覆蓋不同消費層級。同時，中國車企正加快在歐洲本地建廠及開展產能合作，不斷深耕歐洲市場。"
-    },
-    {
-      "id": "4896100",
-      "time": "2026-05-23 15:19:20",
-      "tags": [
-        "公司",
-        "國際",
-        "原創"
-      ],
-      "text": "【印尼封禁加密預測平臺Polymarket】印尼當局宣佈正式封鎖加密預測平臺Polymarket，並援引了印尼對禁止線上和線下賭博的嚴格禁令。印尼通訊和數字事務部在一份宣告中表示，即使將平臺包裝成利用區塊鏈技術或加密資產的“預測市場”，提供對特定結果或事件進行金錢投注的平臺仍然被歸類為網路賭博。“像Polymarket這樣的活動包含金錢賭博和對不確定事件的投機成分，這違反了印尼現行法律，”印尼通訊與數字部部長亞歷山大·薩巴爾在宣告中表示。"
     }
   ]
 }
