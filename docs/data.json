@@ -1,7 +1,21 @@
 {
-  "updated": "2026-05-30 12:13:17",
+  "updated": "2026-05-30 12:17:13",
   "count": 15895,
   "items": [
+    {
+      "id": "mkt:019e7717-d192-7bb7-9967-ed7bad0b7a1e",
+      "time": "2026-05-30 12:15:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "CNH"
+      ],
+      "text": "【China auto association rebuts 'overcapacity' accusations, says proposed EU trade tool would harm China-EU trade】The China Association of Automobile Manufacturers rejected recent one-sided claims by some EU member states that the Chinese auto sector has excess capacity, and said proposals to introduce a new 'overcapacity' trade instrument contradict industry facts and would harm China-EU economic and trade cooperation. The association urged both sides to preserve existing cooperation and avoid measures that could disrupt bilateral auto trade."
+    },
     {
       "id": "4908087",
       "time": "2026-05-30 12:07:29",
@@ -143855,15 +143869,6 @@
         "其他"
       ],
       "text": "【本輪強降雨造成湖南754個鄉鎮受災 緊急轉移安置5.8萬人】記者從湖南省應急委員會辦公室獲悉，5月17日8時以來，本輪強降雨過程導致14個市州71個縣市區754個鄉鎮受災，緊急轉移安置5.8萬人。（央視新聞）"
-    },
-    {
-      "id": "4896018",
-      "time": "2026-05-23 12:16:43",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【印度液化石油氣供應面臨約40萬桶/日的缺口】作為全球第三大液化石油氣（LPG）消費國，印度目前面臨約40萬桶/日的LPG供應缺口（與戰前水平相比），其國內產量無法彌補因伊朗戰爭導致的進口下降。能源資料分析公司Kpler的資料顯示，印度4月份液化石油氣進口量為37.762萬桶/日，不足2月份85.187萬桶/日進口量的一半。4月份，印度國內日產量增至53萬桶，較此前增加了約7.5萬桶。Kpler煉油與供應首席分析師蘇米特·裡託利亞表示，更為嚴峻的是，印度LPG的國內產量正接近滿負荷，這意味著只要進口未能完全恢復，供應缺口就可能持續存在。一位黑市賣家稱，“由於成本飆升，注意到4月份客戶需求略有放緩。但人們別無選擇，因為改用其他燃料替代並非易事。”"
     }
   ]
 }
