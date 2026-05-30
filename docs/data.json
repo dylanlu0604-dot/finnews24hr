@@ -1,7 +1,19 @@
 {
-  "updated": "2026-05-31 04:28:25",
-  "count": 15939,
+  "updated": "2026-05-31 04:32:15",
+  "count": 15935,
   "items": [
+    {
+      "id": "mkt:019e7a94-d4f3-7bb7-996b-861b5227a0e9",
+      "time": "2026-05-31 04:30:34",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Iran says it has imposed comprehensive control on Strait of Hormuz shipping】On the 30th, the Hatam al-Anbiya Central Headquarters of Iran's armed forces said Iran has imposed comprehensive control over shipping in the Strait of Hormuz; all commercial vessels, tankers and other civilian ships must follow designated routes and obtain prior permission from the Islamic Revolutionary Guard Corps (IRGC) Navy."
+    },
     {
       "id": "4908461",
       "time": "2026-05-31 04:26:40",
@@ -144419,47 +144431,6 @@
         "國際"
       ],
       "text": "特朗普：協議最終條款目前正在磋商中。"
-    },
-    {
-      "id": "4896528",
-      "time": "2026-05-24 04:32:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：與以色列總理內塔尼亞胡通了電話。"
-    },
-    {
-      "id": "4896527",
-      "time": "2026-05-24 04:31:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：（與伊朗的）協議即將完成。"
-    },
-    {
-      "id": "4896526",
-      "time": "2026-05-24 04:31:20",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗外交部發言人巴加埃：伊朗與美國即將敲定諒解備忘錄。"
-    },
-    {
-      "id": "4896523",
-      "time": "2026-05-24 04:29:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普就伊朗問題與凱恩、赫格塞思、維特科夫、萬斯舉行會談。"
-    },
-    {
-      "id": "4896522",
-      "time": "2026-05-24 04:28:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美官員：美伊協議接近達成 分歧僅在關鍵條款“措辭”】據美國阿克西奧斯新聞網站23日報道，一名美方知情官員說，美國與伊朗正接近達成一份旨在結束戰事的協議，雙方剩餘分歧主要集中在幾個關鍵條款的“措辭”上。不過，這名官員同時強調，美總統特朗普還未作出最終決定，他仍有可能否決這份協議並下令對伊朗發動新的打擊。（新華社）"
     }
   ]
 }
