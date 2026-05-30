@@ -1,7 +1,15 @@
 {
-  "updated": "2026-05-30 13:23:37",
-  "count": 15885,
+  "updated": "2026-05-30 13:27:36",
+  "count": 15886,
   "items": [
+    {
+      "id": "mkt:019e7759-7274-7bb7-9968-1221bdeeaf42",
+      "time": "2026-05-30 13:26:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Over half of French departments set monthly temperature records】Météo‑France said on May 29 that during the recent heatwave more than half of French departments recorded at least one monthly temperature record, an event it described as unprecedented in meteorological history. The agency has issued orange heat warnings for many areas. Since May 23 Paris has repeatedly recorded daily highs above 32°C. May 26 was the warmest May day on record for France, with a national average temperature of 24.9°C."
+    },
     {
       "id": "4908104",
       "time": "2026-05-30 13:21:09",
