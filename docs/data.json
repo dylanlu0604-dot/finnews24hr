@@ -1,7 +1,22 @@
 {
-  "updated": "2026-05-31 05:17:47",
-  "count": 15925,
+  "updated": "2026-05-31 05:21:34",
+  "count": 15926,
   "items": [
+    {
+      "id": "mkt:019e7ac1-f1b6-7bb7-996b-aff3a6d90ac5",
+      "time": "2026-05-31 05:19:51",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "【US May jobs report due next week expected to show solid gains; unemployment to hold at 4.3%】Bloomberg median economists project May unemployment at 4.3% and nonfarm payrolls up 89,000. That would lift the three-month average job gain to the highest in over a year and reignite debate about accelerating hiring. Forecasts point to continued strength in healthcare, a rebound in construction and leisure & hospitality partly aided by warmer weather, and a potential manufacturing jobs uplift as consumers stockpile goods ahead of possible price spikes from an Iran conflict."
+    },
     {
       "id": "4908468",
       "time": "2026-05-31 05:01:17",
