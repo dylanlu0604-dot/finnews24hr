@@ -1,7 +1,51 @@
 {
-  "updated": "2026-05-31 01:04:52",
-  "count": 15914,
+  "updated": "2026-05-31 01:12:13",
+  "count": 15916,
   "items": [
+    {
+      "id": "mkt:019e79de-1367-7bb7-996a-b2675ceb3cd7",
+      "time": "2026-05-31 01:10:57",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Israeli Channel 12 reports Hezbollah has struck Israeli civilian infrastructure for the first time."
+    },
+    {
+      "id": "mkt:019e79dd-872a-7bb7-996a-aa52f7a0829b",
+      "time": "2026-05-31 01:10:21",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Israel's Channel 12 reported Hezbollah launched more than 100 rockets and drones."
+    },
+    {
+      "id": "4908410",
+      "time": "2026-05-31 01:05:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "世界衛生組織通報，剛果（金）與烏干達境內埃博拉疫情已出現134例確診病例、906例疑似病例，總幹事譚德塞正統籌開展應對工作。"
+    },
+    {
+      "id": "mkt:019e79d8-5647-7bb7-996a-a6f6a9cab627",
+      "time": "2026-05-31 01:04:41",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Israel's Channel 13 reports Prime Minister Netanyahu will soon convene a security meeting to consider responses to attacks by Hezbollah."
+    },
     {
       "id": "mkt:019e79d7-cdd3-7bb7-996a-9df44de731d6",
       "time": "2026-05-31 01:04:06",
@@ -144182,23 +144226,6 @@
         "公司"
       ],
       "text": "【山西留神峪煤礦事故搜救仍在進行 救治同步推進】5月22日19時29分，山西通洲集團留神峪煤業有限公司井下發生瓦斯爆炸事故。 事故發生後，應急管理部調派6支國家礦山應急救援隊伍345人攜裝備赴現場參與救援。山西省也調集救援、醫療7支隊伍755人，全力開展應急救援、醫療救治、現場處置工作。 記者現場看到，搜救和救治一直在緊張進行。新華社記者將持續跟進事故救援最新進展和事故原因調查情況。（新華社）"
-    },
-    {
-      "id": "4896381",
-      "time": "2026-05-24 01:11:29",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【特朗普又說美伊“越來越接近”達成協議】美國總統特朗普23日說，美國與伊朗的談判“越來越接近”達成協議。特朗普是在接受美國哥倫比亞廣播公司記者電話採訪時作出上述發言，但他拒絕透露協議具體細節，只是說“情況每天都在變得越來越好”。特朗普表示，他相信最終協議將能阻止伊朗獲取核武器，還將確保伊朗的濃縮鈾得到“令人滿意的處置”，並稱“我只會簽署一份能讓我們得到所有想要內容的協議”。（新華社）"
-    },
-    {
-      "id": "4896380",
-      "time": "2026-05-24 01:05:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴基斯坦安全官員稱，一份諒解備忘錄正敲定，旨在結束美伊戰事。"
     }
   ]
 }
