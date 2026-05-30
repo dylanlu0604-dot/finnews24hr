@@ -1,7 +1,57 @@
 {
-  "updated": "2026-05-31 01:39:21",
-  "count": 15924,
+  "updated": "2026-05-31 01:43:15",
+  "count": 15929,
   "items": [
+    {
+      "id": "mkt:019e79fa-3f57-7bb7-996a-e55af5a86ef6",
+      "time": "2026-05-31 01:41:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli radio reported Prime Minister Netanyahu proposed expanding cabinet control over Gaza, but no decision has been taken."
+    },
+    {
+      "id": "4908422",
+      "time": "2026-05-31 01:40:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列媒體：內塔尼亞胡已在內閣會議上提議擴大對加沙地帶的管控範圍，目前尚未作出最終決議。"
+    },
+    {
+      "id": "mkt:019e79f9-2cd3-7bb7-996a-df8d82755ba1",
+      "time": "2026-05-31 01:40:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Sun reports that if Burnham becomes prime minister, former deputy prime minister Rayner is expected to be brought back into the cabinet."
+    },
+    {
+      "id": "4908421",
+      "time": "2026-05-31 01:39:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場資訊：倘若安迪·伯納姆出任英國首相，前副首相安吉拉·雷納預計將重返內閣。"
+    },
+    {
+      "id": "mkt:019e79f8-57f2-7bb7-996a-d70079ae7f75",
+      "time": "2026-05-31 01:39:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "The Sun reports that if Andy Burnham is elected mayor of Greater Manchester, he is expected to carry out a major cabinet reshuffle."
+    },
+    {
+      "id": "mkt:019e79f7-fa7c-7bb7-996a-c89951a4d774",
+      "time": "2026-05-31 01:39:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Sun reports Greater Manchester Mayor Andy Burnham is considering naming current Home Secretary Shabana Mahmood as his Chancellor of the Exchequer if he becomes prime minister. Burnham and his team have begun drawing up plans for the first month of a potential premiership."
+    },
     {
       "id": "4908420",
       "time": "2026-05-31 01:38:15",
@@ -144286,14 +144336,6 @@
         "國際"
       ],
       "text": "華盛頓時報：美國與伊朗或將在24小時內宣佈達成和平協議。"
-    },
-    {
-      "id": "4896386",
-      "time": "2026-05-24 01:39:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列媒體：鑑於談判恐破裂、戰事或重啟，軍方已進入最高戒備狀態。"
     }
   ]
 }
