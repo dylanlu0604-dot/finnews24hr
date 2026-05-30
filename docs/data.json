@@ -1,7 +1,44 @@
 {
-  "updated": "2026-05-30 15:38:49",
-  "count": 15884,
+  "updated": "2026-05-30 15:42:53",
+  "count": 15887,
   "items": [
+    {
+      "id": "mkt:019e77d4-ac01-7bb7-9968-68a88101f307",
+      "time": "2026-05-30 15:41:26",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "300750.SZ",
+        "Impact bullish"
+      ],
+      "text": "【CATL: Chocolate battery-swap network at 1,650 stations, expects >3,000 by end-2026】CATL said its Chocolate battery-swap network had 1,650 stations across 127 cities as of May 2026. In under six months the network added more than 600 stations and expanded into 82 cities. CATL plans to form an 11-vertical by 9-horizontal expressway swap network by 2027 and expects Chocolate stations to exceed 3,000 and cover nearly 190 cities nationwide by end-2026."
+    },
+    {
+      "id": "4908154",
+      "time": "2026-05-30 15:39:30",
+      "tags": [
+        "宏觀",
+        "公司"
+      ],
+      "text": "【內蒙古呼和浩特一藥店高價銷售集採藥 當地約談主要負責人】從呼和浩特市醫療保障局瞭解到，針對此前報道的內蒙古京遠大藥房有限公司高價銷售集採藥品馬來酸阿伐曲泊帕片的問題，呼和浩特市醫療保障局高度重視，會同市場監管局組成專項工作組，第一時間趕赴現場開展聯合檢查，醫保部門對涉事藥店主要負責人進行約談，市場監管部門行政立案。下一步，醫保部門將聯合市場監管部門深刻剖析問題，舉一反三開展專項檢查，全市範圍徹查新集採藥品價格落地執行情況、藥品進銷存管理等關鍵環節，對執行政策不到位的定點藥店依法依規從嚴處理，確保全部整改到位，對相關責任人予以醫保支付資格記分處理，進一步加強全市定點藥店規範化經營，全力保障消費者的合法權益。醫保部門將持續深化醫保基金監管專項整治行動，聚焦醫保基金濫用、欺詐騙保等各類違法違規問題，常態化開展靶向監管、精準施治，不斷健全醫保藥品全流程監管機制，築牢醫保基金安全防線。（央視新聞）"
+    },
+    {
+      "id": "mkt:019e77d2-34da-7bb7-9968-604cd8f9774c",
+      "time": "2026-05-30 15:38:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【U.S. redistricting battle escalates as Louisiana splits Democratic-held district】Louisiana’s state senate on the 29th approved a new congressional map that splits a Democratic-controlled, majority-Black district; Republican Governor Jeff Landry signed the measure into law. Analysts say redistricting battles between Republicans and Democrats are likely to intensify ahead of the midterm elections."
+    },
+    {
+      "id": "4908153",
+      "time": "2026-05-30 15:38:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【寧德時代：巧克力換電累計落站1650座，2026年預計超3000座】5月30日，據寧德時代訊息，截至2026年5月，巧克力換電站在全國範圍內落1650座，覆蓋127城。不到半年，新增落站超600站、覆蓋82城。高速網路建設方面，計劃2027年將形成“11縱9橫”高速換電網路。根據規劃，2026年底巧克力換電站將突破3000座，全國範圍內覆蓋近190城。"
+    },
     {
       "id": "4908152",
       "time": "2026-05-30 15:36:17",
@@ -143803,14 +143840,6 @@
         "其他"
       ],
       "text": "【巴基斯坦警方及反恐機構開展反恐行動 打死8名恐怖分子】5月23日，據巴基斯坦警方訊息，巴基斯坦開伯爾-普什圖省班努地區的警方與反恐部門開展基於情報的反恐行動。在激烈交火中，8名恐怖分子被擊斃，另有數名恐怖分子受傷。行動期間，行動人員還發現並處置了一枚重10公斤的簡易爆炸裝置，一名警員在行動中犧牲。"
-    },
-    {
-      "id": "4896114",
-      "time": "2026-05-23 15:39:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄稱烏無人機襲擊盧甘斯克學校已致10死38傷】5月23日，俄方任命的盧甘斯克地區行政長官帕謝奇尼克釋出通報稱，烏方襲擊已造成10人死亡，38人受傷，另有11人下落不明。當地時間5月22日早間，帕謝奇尼克稱，烏軍無人機夜間襲擊了斯塔羅比爾斯克職業學院的教學樓和宿舍。襲擊發生時，校內有86名14至18歲的未成年人。同一天，俄羅斯總統普京表示，遇襲學院附近沒有任何軍事設施或特種部門設施。普京強調，沒有證據表明這些無人機是因為被擊落或偏離航線才擊中學校宿舍樓的。他已責成俄羅斯國防部提交報復性打擊方案。"
     }
   ]
 }
