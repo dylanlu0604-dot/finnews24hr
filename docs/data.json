@@ -1,7 +1,15 @@
 {
-  "updated": "2026-05-30 20:53:47",
+  "updated": "2026-05-30 20:57:46",
   "count": 15953,
   "items": [
+    {
+      "id": "mkt:019e78f2-46ac-7bb7-9969-fc6d071a5282",
+      "time": "2026-05-30 20:53:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China National Gold Group general manager Yin Changbo meets JD Group CEO Sandy Ran Xu】On May 28, China National Gold Group party secretary, director and general manager Yin Changbo met at the group's headquarters with JD Group SEC vice‑chair and CEO Sandy Ran Xu and his delegation. Yin said China Gold is willing to deepen strategic coordination with JD in digital centralized procurement and supply‑chain management, gold and jewelry sales and brand marketing, digital transformation and technology enablement, logistics, warehousing and security controls, and employee services and corporate culture. Sandy Ran Xu said JD is willing to pursue full‑scope, deep, high‑level cooperation with China Gold on jewelry retail, centralized procurement, supply‑chain construction, warehousing and logistics, and overseas business."
+    },
     {
       "id": "4908318",
       "time": "2026-05-30 20:48:40",
@@ -144465,14 +144473,6 @@
         "國際"
       ],
       "text": "【俄稱烏無人機襲擊盧甘斯克一學校 死亡人數已升至16人】當地時間5月23日，據俄羅斯緊急情況部通報稱，遭烏方襲擊的斯塔羅比爾斯克職業學院死亡人數升至16人。"
-    },
-    {
-      "id": "4896253",
-      "time": "2026-05-23 20:54:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中越新增一條跨境物流路線】從中國鐵路南寧局集團有限公司獲悉，5月23日下午，一列裝載170噸氫氧化鈣的集裝箱列車從貴港站鳴笛啟程，經由南寧國際鐵路港中轉接駁後運往越南安員站。這是繼“柳州—南寧—越南”鐵路跨境物流通道打通後，新增的一條中越跨境物流新路線，為廣西與越南間經貿往來增添了一條穩定高效的跨境物流新通道。（新華社）"
     }
   ]
 }
