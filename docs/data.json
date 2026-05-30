@@ -1,7 +1,23 @@
 {
-  "updated": "2026-05-30 08:04:17",
+  "updated": "2026-05-30 08:08:06",
   "count": 15848,
   "items": [
+    {
+      "id": "mkt:019e7634-7cd9-7bb7-9966-a14c42efe6d5",
+      "time": "2026-05-30 08:06:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China returns 10th batch of space-station science samples with Shenzhou-22】China returned the 10th batch of space-station science samples aboard Shenzhou-22 on April 29. Early on April 30, part of the payload arrived in Beijing and was handed to scientists. The shipment covers 23 experiments—9 life-science, 12 materials and 2 combustion—weighing about 41 kg. Life-science samples, including artificial embryos and brain organoids, were transferred to the Chinese Academy of Sciences Center for Space Application Engineering and Technology after inspection for follow-up research. Remaining materials and combustion samples will be delivered to Beijing with the Shenzhou-22 reentry capsule."
+    },
+    {
+      "id": "4907954",
+      "time": "2026-05-30 08:04:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國空間站第十批科學實驗樣品返回並交付科學家】5月29日，中國空間站第十批空間科學實驗樣品隨神舟二十二號飛船順利返回。30日凌晨部分實驗樣品運抵北京，並交付科學家開展後續研究。這批返回的科學實驗樣品涉及生命科學類、材料類、燃燒類的23個實驗專案，包括9種生命實驗樣品，12種材料實驗樣品和2種燃燒實驗樣品，總重量約41公斤。目前，人工胚胎、腦類器官等生命類科學實驗樣品已轉運至中國科學院空間應用工程與技術中心。（央視新聞）"
+    },
     {
       "id": "4907953",
       "time": "2026-05-30 08:03:07",
@@ -143442,22 +143458,6 @@
         "國際"
       ],
       "text": "【訊息人士：伊朗革命衛隊恐怖分子密謀刺殺特朗普長女伊萬卡・特朗普】據媒體報道，伊朗伊斯蘭革命衛隊（IRGC）訓練的一名恐怖分子將美國第一女兒伊萬卡・特朗普列為刺殺目標，這一扭曲陰謀旨在為其導師遭時任總統特朗普下令擊殺復仇。訊息人士稱，近日落網的 32 歲男子穆罕默德・巴克爾・薩阿德・達烏德・薩阿迪（Mohammad Baqer Saad Dawood Al-Saadi）曾 “立誓” 殺死伊萬卡，甚至持有她佛羅里達州住宅的藍圖。這名伊拉克籍男子被指將唐納德・特朗普總統的家人作為襲擊目標，以報復六年前伊朗軍事首領卡西姆・蘇萊曼尼（Qasem Soleimani）在巴格達遭美軍無人機空襲身亡一事。"
-    },
-    {
-      "id": "4895897",
-      "time": "2026-05-23 08:05:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度將汽油價格上調0.9%，將柴油價格上調1.0%。"
-    },
-    {
-      "id": "4895896",
-      "time": "2026-05-23 08:04:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度上調汽油、柴油售價。"
     }
   ]
 }
