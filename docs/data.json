@@ -1,7 +1,17 @@
 {
-  "updated": "2026-05-30 22:19:56",
+  "updated": "2026-05-30 22:24:01",
   "count": 15927,
   "items": [
+    {
+      "id": "mkt:019e7942-7f48-7bb7-996a-41372215dd85",
+      "time": "2026-05-30 22:21:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Guangdong solicits public comment on draft Low-Altitude Economy Development Regulations】The Guangdong Development and Reform Commission has opened public consultation on the draft Low-Altitude Economy Development Regulations. The draft targets key bottlenecks constraining the province’s low-altitude economy and sets targeted institutional measures: establish a coordinated low-altitude airspace operation mechanism to improve airspace utilization; mandate planning, operation, management and renovation for low-altitude infrastructure; strengthen supervision of flight activities and assign low-altitude safety responsibilities; and expand classified low-altitude application scenarios with orderly pilots and promotion of new use cases."
+    },
     {
       "id": "4908363",
       "time": "2026-05-30 22:16:52",
@@ -144278,15 +144288,6 @@
         "國際"
       ],
       "text": "【美國務卿稱美伊談判取得“些許進展”】當地時間5月23日，美國國務卿魯比奧在瑞典赫爾辛堡舉行的北約外長會議前表示，美國與伊朗的談判取得“些許進展”。與此同時，巴基斯坦陸軍參謀長前往德黑蘭，試圖推動達成和平協議，而外界對於衝突是否會再次爆發仍存不確定性。魯比奧表示，他不願誇大談判進展，並稱“出現了一點積極變化，這是好事”。近幾周來，各方多次傳出取得進展的訊息，但協議始終未能達成。"
-    },
-    {
-      "id": "4896308",
-      "time": "2026-05-23 22:21:51",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【沙特媒體：伊朗欲以開放霍爾木茲海峽換美國賠償】沙烏地阿拉伯阿拉比亞電視臺23日援引訊息人士的話報道，伊朗已向巴基斯坦調解方提交了兩份方案，提出以開放霍爾木茲海峽換取美國賠償，並要求在簽署任何協議前先就制裁和被凍結資金問題進行討論。阿拉比亞電視臺還援引訊息人士的話說，巴基斯坦陸軍參謀長穆尼爾已向伊朗方面轉達了美方資訊。美方向伊朗傳遞的資訊包括保證“如果伊朗同意達成協議，有爭議的問題可以稍後解決”。如果伊朗拒絕協議，將面臨“負面後果”。（新華社）"
     }
   ]
 }
