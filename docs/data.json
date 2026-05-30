@@ -1,7 +1,15 @@
 {
-  "updated": "2026-05-30 08:51:26",
+  "updated": "2026-05-30 08:55:17",
   "count": 15866,
   "items": [
+    {
+      "id": "mkt:019e765e-3d52-7bb7-9966-ff73abb2b1c5",
+      "time": "2026-05-30 08:52:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Defense Secretary Hegseth said he welcomed South Korea's pragmatic approach and leadership."
+    },
     {
       "id": "mkt:019e765c-d15a-7bb7-9966-f7b2f3fa7bc6",
       "time": "2026-05-30 08:50:54",
@@ -143600,15 +143608,6 @@
         "其他"
       ],
       "text": "哥倫比亞礦業部：哥倫比亞核準15個發電專案，預計總投資額為43.2億美元。"
-    },
-    {
-      "id": "4895913",
-      "time": "2026-05-23 08:52:47",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "據沙烏地阿拉伯阿拉比亞電視臺報道，訊息人士22日透露，美國和伊朗“接近達成”的協議草案預計將在數小時內公佈。（新華社）"
     }
   ]
 }
