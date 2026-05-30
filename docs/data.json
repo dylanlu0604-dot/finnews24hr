@@ -1,7 +1,41 @@
 {
-  "updated": "2026-05-30 15:22:19",
+  "updated": "2026-05-30 15:26:25",
   "count": 15889,
   "items": [
+    {
+      "id": "mkt:019e77c6-0c8c-7bb7-9968-5e6aaa216f83",
+      "time": "2026-05-30 15:25:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Wuhan housing fund expands loan rights for flexible-employment contributors】Wuhan housing provident fund said on May 29 on its official WeChat account that it has fully upgraded contribution and loan rules for flexible‑employment participants, substantially boosting their mortgage rights. Key changes: the loan‑amount multiplier used in the calculation formula is raised from 10x to 20x; the contribution coefficient is aligned with that for unit (employed) staff; flexible‑employment borrowers may use provident‑fund loans to buy a family’s second home and may apply for commercial‑to‑provident‑fund loan conversion under the same rules as unit employees. The basic loan eligibility test is relaxed from “contributions held under agreement for 12 months” to a requirement that at least 12 months elapse between the loan application date and the first contribution after an effective agreement, lowering the loan threshold."
+    },
+    {
+      "id": "4908149",
+      "time": "2026-05-30 15:25:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄官方稱，烏克蘭無人機襲擊了俄羅斯南部一處港口及一座油庫。"
+    },
+    {
+      "id": "4908148",
+      "time": "2026-05-30 15:24:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【邵東一水庫隧洞施工事故致3死】邵東應急管理局釋出：5月29日20時50分左右，資水犬木塘水庫工程邵峰乾渠Ⅱ標土地嶺隧洞出口頂管施工段發生人員被困事故。接報後，消防、應急、水利、衛健等部門和施工單位迅速趕赴現場展開救援。至5月30日2時06分，3名被困人員全部搜救出洞，後經全力搶救無效死亡。目前，善後處置和事故調查工作正在有序進行中。"
+    },
+    {
+      "id": "4908147",
+      "time": "2026-05-30 15:23:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "尚比亞稱兩例疑似埃博拉病例檢測結果均為陰性，目前已加強篩查工作。"
+    },
     {
       "id": "mkt:019e77bf-5bc3-7bb7-9968-55bed7532152",
       "time": "2026-05-30 15:18:09",
@@ -143817,38 +143851,6 @@
         "國際"
       ],
       "text": "【以軍稱襲擊黎巴嫩貝卡谷地的真主黨地下設施】當地時間5月23日，以色列國防軍宣佈當天凌晨襲擊了黎巴嫩貝卡谷地的真主黨地下設施，該設施曾被用於製造武器。以國防軍還宣佈襲擊了位於提爾的真主黨基礎設施。"
-    },
-    {
-      "id": "4896105",
-      "time": "2026-05-23 15:25:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "【訊息人士：伊朗軍方已制定新方案 隨時應對敵方挑釁】據伊朗方面23日訊息，伊朗軍方訊息人士透露，伊朗武裝部隊正在全方位監控局勢，已經制定了新的方案，隨時準備應對美國及其盟友可能採取的挑釁行為。訊息人士警告稱，如果敵方採取魯莽行動，伊朗將以新的作戰模式回應，包括採用新裝備、鎖定新的打擊目標、運用新的戰略戰術；同時，新的域外戰線也將同步發力。（央視新聞）"
-    },
-    {
-      "id": "4896104",
-      "time": "2026-05-23 15:23:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓國一小型飛機墜落 已致2人重傷】當地時間23日下午，韓國南部全羅南道海南郡當天有一架小型飛機發生墜落，已致2人重傷。"
-    },
-    {
-      "id": "4896103",
-      "time": "2026-05-23 15:23:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "CoinGlass資料顯示，24小時內，加密貨幣全網共有12.46萬人爆倉，爆倉總金額超過5億美元。"
-    },
-    {
-      "id": "4896102",
-      "time": "2026-05-23 15:23:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "【印尼蘇門答臘島發生大規模停電 數百萬人受影響】印度尼西亞蘇門答臘島22日晚間發生大規模停電事故，數百萬居民陷入斷電狀態，多個省份交通及公共活動受到影響。 印尼國家電力公司證實，當地時間22日18時44分左右，蘇門答臘互聯電網發生故障，導致亞齊省、北蘇門答臘省、西蘇門答臘省、廖內省以及蘇門答臘中部部分地區大面積停電。其中，該公司在北蘇門答臘、廖內、西蘇門答臘和亞齊分別擁有約440萬、260萬、196萬和170萬使用者。 初步調查顯示，事故與一條275千伏輸電線路故障有關，惡劣天氣被認為是導致故障的重要原因。（中新社）"
     }
   ]
 }
