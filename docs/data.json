@@ -1,7 +1,27 @@
 {
-  "updated": "2026-05-31 04:36:06",
-  "count": 15929,
+  "updated": "2026-05-31 04:39:50",
+  "count": 15928,
   "items": [
+    {
+      "id": "mkt:019e7a9a-e6ab-7bb7-996b-92f3cc6b4206",
+      "time": "2026-05-31 04:37:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The International Atomic Energy Agency said its team at the Zaporizhzhia nuclear plant has requested direct access to the affected turbine building for inspection."
+    },
+    {
+      "id": "mkt:019e7a9a-7036-7bb7-996b-8da4764458c9",
+      "time": "2026-05-31 04:36:42",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "The IAEA said it had been informed that the Zaporizhzhia nuclear plant was struck by a drone today, with the turbine building targeted."
+    },
     {
       "id": "mkt:019e7a94-d4f3-7bb7-996b-861b5227a0e9",
       "time": "2026-05-31 04:30:34",
@@ -144357,32 +144377,6 @@
         "國際"
       ],
       "text": "【特朗普稱美伊協議基本談成】美東時間23日下午，美國總統特朗普在社交媒體發文，稱美國與伊朗已經基本談成一份協議。特朗普表示，協議的最終方面和細節目前正在討論中，並將很快公佈。特朗普還說，除協議中的諸多其他內容外，霍爾木茲海峽也將隨之開放。（央視新聞）"
-    },
-    {
-      "id": "4896548",
-      "time": "2026-05-24 04:38:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普稱即將宣佈與伊朗達成的協議】特朗普在真實社交平臺發文表示：（與伊朗的）協議最終條款與細節目前仍在磋商，相關結果將於不久後公佈。"
-    },
-    {
-      "id": "4896547",
-      "time": "2026-05-24 04:38:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "以太坊升破2100美元，日內漲1.86%。"
-    },
-    {
-      "id": "4896546",
-      "time": "2026-05-24 04:37:39",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【特朗普：與伊朗的協議已基本談妥】特朗普在社交媒體發文稱，與沙特、阿聯酋、卡達、巴基斯坦、土耳其、埃及、約旦、巴林等多國領導人，就伊朗及與和平相關的諒解備忘錄事宜進行了非常順利的通話。目前協議已基本談妥，待美國、伊朗及上述各國完成最終敲定。此外，他還與以色列總理內塔尼亞胡進行了通話，同樣進展順利。協議的最終條款與細節目前正在討論中，很快將對外公佈。除協議的其他多項內容外，霍爾木茲海峽將恢復通航。"
     }
   ]
 }
