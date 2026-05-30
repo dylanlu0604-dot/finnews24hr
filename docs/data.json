@@ -1,7 +1,15 @@
 {
-  "updated": "2026-05-31 03:13:05",
-  "count": 15926,
+  "updated": "2026-05-31 03:16:54",
+  "count": 15927,
   "items": [
+    {
+      "id": "mkt:019e7a50-cd78-7bb7-996b-3e3f9a1116f0",
+      "time": "2026-05-31 03:16:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IDF says preliminary reports indicate alerts were triggered for suspected hostile aircraft penetration near Rosh Hanikra."
+    },
     {
       "id": "mkt:019e7a4b-fd59-7bb7-996b-31123c5745a9",
       "time": "2026-05-31 03:11:00",
