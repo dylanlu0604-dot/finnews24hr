@@ -1,7 +1,23 @@
 {
-  "updated": "2026-05-30 12:01:27",
-  "count": 15893,
+  "updated": "2026-05-30 12:05:21",
+  "count": 15895,
   "items": [
+    {
+      "id": "mkt:019e770e-3441-7bb7-9967-e4929260fd84",
+      "time": "2026-05-30 12:04:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US Marines complete rotation; 1,300 troops deployed to waters off Latin America】On the 29th the US 24th Marine Expeditionary Unit said it has assumed responsibility for U.S. Southern Command’s area of responsibility—waters surrounding Latin America. The unit deployed more than 1,300 marines and sailors and completed a turnover with the 22nd Marine Expeditionary Unit."
+    },
+    {
+      "id": "4908084",
+      "time": "2026-05-30 12:02:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：兩家英國建房互助協會計劃收購數字銀行Atom。"
+    },
     {
       "id": "4908083",
       "time": "2026-05-30 11:59:56",
