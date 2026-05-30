@@ -1,7 +1,19 @@
 {
-  "updated": "2026-05-31 02:42:28",
+  "updated": "2026-05-31 02:46:21",
   "count": 15929,
   "items": [
+    {
+      "id": "mkt:019e7a32-1c37-7bb7-996b-12cb4152d752",
+      "time": "2026-05-31 02:42:44",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iranian state television said Iran has obtained an informal text of a memorandum of understanding with the United States. The text says it would give Iran the right to determine the nature of vessels in the Strait of Hormuz and to set transit routes and fees."
+    },
     {
       "id": "mkt:019e7a31-77a9-7bb7-996b-0ba0a5ac5742",
       "time": "2026-05-31 02:42:02",
@@ -144340,14 +144352,6 @@
         "國際"
       ],
       "text": "【烏稱基輔遭無人機襲擊 俄方暫無回應】當地時間23日，烏克蘭基輔市軍政管理局局長特卡琴科通報，俄羅斯正動用無人機對基輔實施襲擊，並提醒市民前往避難場所避險。此前，基輔市已拉響防空警報，城區內傳出爆炸聲。俄方對此暫無回應。（央視新聞）"
-    },
-    {
-      "id": "4896414",
-      "time": "2026-05-24 02:45:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "法國總統馬克龍已與海灣多國領導人及美國總統特朗普通電話就中東局勢交換意見。"
     }
   ]
 }
