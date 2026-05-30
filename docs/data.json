@@ -1,7 +1,23 @@
 {
-  "updated": "2026-05-31 04:55:10",
+  "updated": "2026-05-31 04:58:55",
   "count": 15928,
   "items": [
+    {
+      "id": "mkt:019e7aae-5436-7bb7-996b-a1cfb890c39e",
+      "time": "2026-05-31 04:58:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran negotiator says proposed US deal not final; includes exit clause】Iranian negotiator Saeed Ajorlou said Tehran has not approved the final draft of a proposed agreement with the US; as of Friday night the text remained unapproved though differences were minimal. He said approval would trigger a 60‑day detailed negotiation phase. The draft contains 14 main clauses, each with annexes requiring further negotiation. Ajorlou said enforcement mechanisms—particularly access to Iranian assets and counterpart compliance—are more important than the text itself. The proposal includes a clause allowing Iran to withdraw if the other side fails to meet commitments; cited triggers include breach of a ceasefire, denial of access to Iranian funds, or failure to lift a maritime blockade. He added Iran could reconsider entering the 60‑day talks if initial commitments are not implemented."
+    },
+    {
+      "id": "4908467",
+      "time": "2026-05-31 04:56:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印度下調汽油、柴油及航空煤油出口關稅】印度政府週六釋出宣告稱，自6月1日起的兩週週期內，該國將下調汽油、柴油及航空煤油的出口關稅。宣告顯示，汽油出口關稅定為每升1.5盧比（約合0.0158美元），柴油出口關稅為每升13.5盧比，航空煤油出口關稅則為每升9.5盧比。出口關稅每兩週調整一次，調整依據為上一輪稽核週期內原油、汽油、柴油及航空煤油的國際均價。面向國內市場銷售的汽油、柴油，現行消費稅稅率維持不變。"
+    },
     {
       "id": "4908466",
       "time": "2026-05-31 04:48:17",
@@ -144363,23 +144379,6 @@
         "國際"
       ],
       "text": "黎巴嫩：以色列再度對黎巴嫩發動空襲，此前襲擊已造成十人遇難，本次打擊目標為敘黎邊境周邊區域。"
-    },
-    {
-      "id": "4896568",
-      "time": "2026-05-24 04:57:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國南方司令部司令弗朗西斯·多諾萬上將到訪委內瑞拉首都加拉加斯。"
-    },
-    {
-      "id": "4896567",
-      "time": "2026-05-24 04:55:54",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "比特幣升破77000美元，日內漲2.01%。"
     }
   ]
 }
