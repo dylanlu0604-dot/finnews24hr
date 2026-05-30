@@ -1,7 +1,26 @@
 {
-  "updated": "2026-05-31 03:35:57",
-  "count": 15936,
+  "updated": "2026-05-31 03:39:44",
+  "count": 15937,
   "items": [
+    {
+      "id": "mkt:019e7a64-0831-7bb7-996b-59448860f3cd",
+      "time": "2026-05-31 03:37:16",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact mixed",
+        "WTI"
+      ],
+      "text": "【Iran official says maritime blockade will eventually end】On May 30 local time, Ebrahim Rezaei, spokesman for Iran's parliamentary National Security and Foreign Policy Committee, said the maritime blockade of Iran \"will eventually end, either through negotiations or military action.\""
+    },
+    {
+      "id": "4908454",
+      "time": "2026-05-31 03:37:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度政府：供國內消費的汽油與柴油現行消費稅率保持不變。"
+    },
     {
       "id": "4908453",
       "time": "2026-05-31 03:35:22",
@@ -144412,14 +144431,6 @@
         "國際"
       ],
       "text": "美國共和黨參議員林賽·格雷厄姆警示，若迫於伊朗仍可威脅霍爾木茲海峽及波斯灣石油設施的顧慮達成停戰協議，會令伊朗成為地區主導力量，久而久之將給以色列埋下巨大隱患。"
-    },
-    {
-      "id": "4896467",
-      "time": "2026-05-24 03:36:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以媒：美伊協議或“非常不利” 內塔尼亞胡緊急開會】以色列媒體23日報道，以總理內塔尼亞胡當晚召集執政聯盟各黨派領導人以及安全部門負責人開會，討論美國與伊朗正在協商中的協議。以方擔心，協議條款“對以色列非常不利”。據《以色列時報》報道，美伊雙方正就一份諒解備忘錄進行談判，如果這一臨時協議達成，將啟動為期60天的終戰談判。（新華社）"
     }
   ]
 }
