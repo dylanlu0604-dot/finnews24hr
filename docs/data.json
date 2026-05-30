@@ -1,7 +1,23 @@
 {
-  "updated": "2026-05-30 17:29:09",
-  "count": 15908,
+  "updated": "2026-05-30 17:32:58",
+  "count": 15909,
   "items": [
+    {
+      "id": "4908207",
+      "time": "2026-05-30 17:29:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗邊防警察局長表示，在伊朗西北部西亞塞拜然省查爾多蘭邊境，伊朗邊防衛兵與被當局描述為“武裝團體”的成員發生衝突，導致兩人死亡。"
+    },
+    {
+      "id": "mkt:019e7836-edf6-7bb7-9969-02ca2350265b",
+      "time": "2026-05-30 17:28:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Euroclear appeals after Moscow arbitration orders immediate ~€200bn payment to Russian central bank】Euroclear has appealed to the Moscow arbitration court against a ruling ordering immediate compensation to the Russian central bank, sources said. A first-instance judgment on May 15 ordered Euroclear to pay about €200 billion to the Russian central bank to compensate for losses from frozen assets; on May 26 the court granted Russia's request to make the judgment immediately enforceable."
+    },
     {
       "id": "4908206",
       "time": "2026-05-30 17:28:08",
@@ -144037,14 +144053,6 @@
         "國際"
       ],
       "text": "澤連斯基稱，烏克蘭軍方打擊了俄羅斯彼爾姆地區的一家大型化工廠。"
-    },
-    {
-      "id": "4896164",
-      "time": "2026-05-23 17:32:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "匈牙利外長表示，匈牙利總理毛焦爾將於下週前往布魯塞爾，與歐盟委員會討論解凍數十億歐盟凍結資金的問題。"
     }
   ]
 }
