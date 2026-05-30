@@ -1,7 +1,33 @@
 {
-  "updated": "2026-05-30 08:34:59",
-  "count": 15854,
+  "updated": "2026-05-30 08:38:48",
+  "count": 15855,
   "items": [
+    {
+      "id": "mkt:019e7650-164c-7bb7-9966-d221a1ec8b22",
+      "time": "2026-05-30 08:37:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Ecuador to cancel 'security tax' on Colombian imports from June 1, President Noboa says】Ecuador President Daniel Noboa said on May 29 the government will cancel the 'security tax' on Colombian products effective June 1. The levy was imposed Jan. 21 at 30% and was later raised to 100%, prompting Colombia to raise duties on Ecuadorian imports to 100% in retaliation. Quito had announced on May 4 it would cut the tax from 100% to 75% from June 1; the May 29 statement cancels the charge instead."
+    },
+    {
+      "id": "mkt:019e764e-3a5e-7bb7-9966-cfcaebca644b",
+      "time": "2026-05-30 08:34:58",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "U.S. MILITARY said it struck a vessel in the eastern Pacific, killing three people."
+    },
+    {
+      "id": "4907966",
+      "time": "2026-05-30 08:34:39",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國軍方：已對東太平洋一艘船隻發動襲擊，造成三人死亡。"
+    },
     {
       "id": "4907965",
       "time": "2026-05-30 08:33:40",
@@ -143493,23 +143519,6 @@
         "其他"
       ],
       "text": "馬斯克：祝賀SpaceX團隊圓滿完成星艦V3首次發射與濺落的壯舉。"
-    },
-    {
-      "id": "4895909",
-      "time": "2026-05-23 08:37:38",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗官方媒體：伊朗軍隊進入最高戒備狀態。"
-    },
-    {
-      "id": "4895908",
-      "time": "2026-05-23 08:36:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "【安理會召開烏克蘭問題公開會 中方譴責任何針對無辜平民的襲擊】當地時間22日，聯合國安理會召開烏克蘭問題緊急公開會。中方代表表示，中方譴責任何針對無辜平民的襲擊。有關各方應加大努力，展現政治意願，體現靈活姿態，重視並妥善解決彼此合理安全關切，爭取早日達成一份全面、持久、有約束力的和平協議。（央視新聞）"
     }
   ]
 }
