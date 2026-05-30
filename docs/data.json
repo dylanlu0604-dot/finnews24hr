@@ -1,7 +1,31 @@
 {
-  "updated": "2026-05-31 01:00:52",
-  "count": 15913,
+  "updated": "2026-05-31 01:04:52",
+  "count": 15914,
   "items": [
+    {
+      "id": "mkt:019e79d7-cdd3-7bb7-996a-9df44de731d6",
+      "time": "2026-05-31 01:04:06",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Israel's Channel 12 reported that air-raid sirens in northern Israel sounded more than 130 times over the past few hours."
+    },
+    {
+      "id": "mkt:019e79d7-8678-7bb7-996a-9600f12cc0e3",
+      "time": "2026-05-31 01:03:48",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Israel's Channel 12 reported HEZBOLLAH launched attacks on nearly 60 towns in northern Israel within 24 hours."
+    },
     {
       "id": "4908409",
       "time": "2026-05-31 00:57:53",
@@ -144175,14 +144199,6 @@
         "其他"
       ],
       "text": "巴基斯坦安全官員稱，一份諒解備忘錄正敲定，旨在結束美伊戰事。"
-    },
-    {
-      "id": "4896378",
-      "time": "2026-05-24 01:02:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外長與沙特外長就伊朗問題通電話。"
     }
   ]
 }
