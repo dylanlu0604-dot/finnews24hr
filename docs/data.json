@@ -1,7 +1,18 @@
 {
-  "updated": "2026-06-01 00:16:56",
-  "count": 15934,
+  "updated": "2026-06-01 00:20:53",
+  "count": 15932,
   "items": [
+    {
+      "id": "mkt:019e7ed5-3f67-700f-a37f-7a9ddc6a42d0",
+      "time": "2026-06-01 00:19:25",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Israel Defense Forces said it intercepted two missiles launched from Lebanon after alerts sounded across multiple areas in northern Israel."
+    },
     {
       "id": "4908989",
       "time": "2026-06-01 00:15:53",
@@ -144769,30 +144780,6 @@
         "其他"
       ],
       "text": "加拿大總理卡尼將在紐約經濟俱樂部發表講話。"
-    },
-    {
-      "id": "4897318",
-      "time": "2026-05-25 00:20:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "加拿大總理卡尼將會見投資者，其中包含多家企業執行長。"
-    },
-    {
-      "id": "4897317",
-      "time": "2026-05-25 00:20:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "加拿大總理卡尼將於5月27日至28日到訪美國紐約市。"
-    },
-    {
-      "id": "4897316",
-      "time": "2026-05-25 00:18:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗最高領袖顧問：若再度遭襲，伊朗將衝破美軍海上封鎖，並退出《不擴散核武器條約》。"
     }
   ]
 }
