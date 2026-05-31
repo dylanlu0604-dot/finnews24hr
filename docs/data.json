@@ -1,7 +1,38 @@
 {
-  "updated": "2026-05-31 15:03:56",
-  "count": 15850,
+  "updated": "2026-05-31 15:07:55",
+  "count": 15848,
   "items": [
+    {
+      "id": "mkt:019e7cd9-fb5a-7bb7-996d-74aa85b6fd62",
+      "time": "2026-05-31 15:05:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【UK foreign secretary Cooper to visit China for 11th China-UK strategic dialogue】China's foreign ministry said that at the invitation of China's foreign minister Wang Yi, UK foreign secretary Cooper will visit China from June 1-3 to hold the 11th China-UK Strategic Dialogue."
+    },
+    {
+      "id": "mkt:019e7cd8-512f-7bb7-996d-6d75902e8d79",
+      "time": "2026-05-31 15:03:31",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China Tech Giants"
+      ],
+      "text": "【Qiushi to publish Xi article on planning and developing future industries】Qiushi magazine (June 1 issue) will publish an article by Chinese Communist Party General Secretary and President Xi Jinping titled \"Forward-looking Layout and Development of Future Industries.\" Xi orders tech innovation to lead, saying the scale of technological breakthroughs largely determines the speed, breadth and depth of future-industry development; he urges leveraging the advantages of a new whole-of-nation system, adhering to \"industry sets the questions, science answers,\" boosting technology support and leadership capacity, stepping up efforts to tackle key core technologies in priority fields, strengthening basic research with strategic, forward-looking and systematic planning, and accelerating commercialization and application of scientific and technological results."
+    },
+    {
+      "id": "4908646",
+      "time": "2026-05-31 15:03:08",
+      "tags": [
+        "宏觀",
+        "焦點",
+        "國際"
+      ],
+      "text": "【英國外交大臣庫珀將訪華並舉行第十一次中英戰略對話】外交部發言人宣佈： 應中共中央政治局委員、外交部長王毅邀請，英國外交大臣庫珀將於6月1日至3日訪華並舉行第十一次中英戰略對話。（外交部）"
+    },
     {
       "id": "4908645",
       "time": "2026-05-31 15:02:23",
@@ -143835,47 +143866,6 @@
         "國際"
       ],
       "text": "印度外長蘇傑生：預計美國貿易團隊不久後到訪。"
-    },
-    {
-      "id": "4896887",
-      "time": "2026-05-24 15:07:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "【武契奇稱此次訪華是最重要的訪問】塞爾維亞總統武契奇今天（5月24日）抵達北京，開始對中國進行國事訪問。武契奇在社交媒體發文，稱“這無疑是我政治生涯中最重要的一次訪問”。他還配發了在北京機場受到歡迎的照片，以及北京道路兩旁的中塞兩國國旗。他表示代表團受到了熱情友好的歡迎，這再次展現了塞中關係的牢固、友好和互信。（CCTV國際時訊）"
-    },
-    {
-      "id": "4896886",
-      "time": "2026-05-24 15:07:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度外長蘇傑生：印美雙方已就中東局勢展開磋商。"
-    },
-    {
-      "id": "4896885",
-      "time": "2026-05-24 15:07:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度外長蘇傑生：印度與美國討論了西亞地區的相關事態發展。"
-    },
-    {
-      "id": "4896884",
-      "time": "2026-05-24 15:06:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度外長蘇傑生：印美兩國為戰略伙伴關係。"
-    },
-    {
-      "id": "4896883",
-      "time": "2026-05-24 15:06:04",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行管委科赫爾： 除非伊朗局勢好轉，否則歐洲央行須果斷採取行動。"
     }
   ]
 }
