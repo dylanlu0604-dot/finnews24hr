@@ -1,7 +1,25 @@
 {
-  "updated": "2026-05-31 14:38:34",
+  "updated": "2026-05-31 14:42:38",
   "count": 15856,
   "items": [
+    {
+      "id": "mkt:019e7cc2-832f-7bb7-996d-5e6aa28dba5e",
+      "time": "2026-05-31 14:39:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "【Japan Maritime Self-Defense Force cancels US F-35B deck-landing training on JS Kaga】Japan's Maritime Self-Defense Force said on May 30 it canceled a planned early-June US Marine Corps F-35B deck-landing exercise aboard escort ship JS Kaga in the western Pacific. The service cited \"unit operational scheduling and expected severe weather\". The exercise was among steps toward the ship's \"de facto aircraft carrier\" capability; earlier reports said Japan's Defense Ministry planned two major refits to enable F-35B operations."
+    },
+    {
+      "id": "4908633",
+      "time": "2026-05-31 14:38:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗方面5月31日訊息，伊朗30日展示了一款最新型的攻擊艇，成為伊朗海軍力量的新象徵。（央視新聞）"
+    },
     {
       "id": "4908632",
       "time": "2026-05-31 14:35:41",
@@ -143902,22 +143920,6 @@
         "國際"
       ],
       "text": "伊朗塔斯尼姆通訊社表示，伊朗方面強調，初步諒解備忘錄生效的前提是至少解凍部分資產，且伊朗可實際支配該筆資金。"
-    },
-    {
-      "id": "4896863",
-      "time": "2026-05-24 14:41:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗塔斯尼姆通訊社：伊美擬議諒解備忘錄要求首輪解凍部分伊朗凍結資產。"
-    },
-    {
-      "id": "4896862",
-      "time": "2026-05-24 14:40:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "【巴基斯坦一客運列車遭爆炸襲擊 已致27人死亡】當地時間5月24日，巴基斯坦西南部俾路支省一列客運列車當天遭爆炸襲擊。奎達市當地警官稱，爆炸造成的死亡人數目前已上升至27人，最終傷亡情況還在進一步統計中。（央視新聞）"
     }
   ]
 }
