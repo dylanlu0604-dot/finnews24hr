@@ -1,7 +1,39 @@
 {
-  "updated": "2026-05-31 17:40:47",
-  "count": 15851,
+  "updated": "2026-05-31 17:44:49",
+  "count": 15855,
   "items": [
+    {
+      "id": "mkt:019e7d6b-1c7c-700f-a37c-e52343dd9d62",
+      "time": "2026-05-31 17:43:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel Today reported a crashed drone was found in an open area in the Akko (Acre) region of northern Israel."
+    },
+    {
+      "id": "mkt:019e7d69-637f-700f-a37c-dcbc148351d8",
+      "time": "2026-05-31 17:41:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Malta's ruling Labour Party, led by Prime Minister Abela, won the parliamentary election, according to multiple Maltese media reports."
+    },
+    {
+      "id": "4908780",
+      "time": "2026-05-31 17:41:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【馬耳他執政黨工黨在議會選舉中獲勝】據馬耳他多家媒體5月31日報道，由馬耳他總理阿貝拉領導的執政黨工黨在議會選舉中勝出。（新華社）"
+    },
+    {
+      "id": "4908779",
+      "time": "2026-05-31 17:41:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：以色列北部響起無人機入侵警報。"
+    },
     {
       "id": "4908778",
       "time": "2026-05-31 17:39:11",
