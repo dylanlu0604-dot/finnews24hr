@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-01 06:35:45",
-  "count": 15918,
+  "updated": "2026-06-01 06:39:34",
+  "count": 15917,
   "items": [
+    {
+      "id": "mkt:019e802f-cee3-700f-a381-416d4343baf8",
+      "time": "2026-06-01 06:37:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【UK to publish communications with former US ambassador; Starmer's premiership faces fresh test】Prime Minister Starmer will on Monday be forced to publish hundreds of private communications between disgraced former UK ambassador to the US Peter Mandelson and government members, disclosures that could further imperil his already precarious premiership. After Mandelson was sacked last year, the Starmer government — under parliamentary pressure — will release texts and emails among ministers, advisers and senior officials related to Mandelson. Starmer appointed Mandelson ambassador to the US in February 2025; Mandelson served seven months before being sacked after revelations of ties to Epstein."
+    },
     {
       "id": "4909117",
       "time": "2026-06-01 06:33:50",
@@ -144632,28 +144640,6 @@
         "國際"
       ],
       "text": "【週一重要財經資訊提醒（以下均為北京時間）】 \n① 全天 中國香港、韓國、美國金融市場因假期休市；\n② 15:00 國家衛生健康委就食品安全與營養健康舉行釋出會；\n③ 19:00 美國芝加哥聯儲主席Goolsbee（2027年FOMC票委）接受訪談。"
-    },
-    {
-      "id": "te:markets:553215",
-      "time": "2026-05-25 06:37:32",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Falls to below $99 — Oil fell at the start of the week as the US and Iran moved closer to a deal. According to MS Now, the proposed deal would reopen the Strait of Hormuz, bring an end to the hostilities, unfreeze some Iranian assets, and pave the way for further negotiations aimed at limiting Tehran’s nuclear program. Still, President Trump said Washington would maintain its blockade of the Strait of Hormuz until an agreement is finalized and he wouldn’t “rush” into a deal. Brent fell by 5% to below $99 a barrel while crude oil was down to $92."
-    },
-    {
-      "id": "te:markets:553214",
-      "time": "2026-05-25 06:35:58",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Crude Oil Falls 5% — Oil fell at the start of the week as the US and Iran moved closer to a deal. According to MS Now, the proposed deal would reopen the Strait of Hormuz, bring an end to the hostilities, unfreeze some Iranian assets, and pave the way for further negotiations aimed at limiting Tehran’s nuclear program. Still, President Trump said Washington would maintain its blockade of the Strait of Hormuz until an agreement is finalized and he wouldn’t “rush” into a deal. Crude oil was down by 5% to $92 after falling more than 5% last week while brent fell to $99 a barrel."
     }
   ]
 }
