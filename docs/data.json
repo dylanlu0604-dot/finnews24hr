@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-01 00:53:02",
-  "count": 15936,
+  "updated": "2026-06-01 00:57:03",
+  "count": 15933,
   "items": [
+    {
+      "id": "4909002",
+      "time": "2026-06-01 00:53:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國華盛頓州化學品儲罐破裂事故的死亡人數已上升至11人，救援隊已找到9名失蹤者的遺體。"
+    },
     {
       "id": "mkt:019e7ef2-2e49-700f-a37f-b12b0fdcd677",
       "time": "2026-06-01 00:50:55",
@@ -144759,53 +144767,6 @@
         "Brent"
       ],
       "text": "Poland FM Says Will Act If Iran Seeks To Control Strait Of Hormuz To Alter Global Order"
-    },
-    {
-      "id": "mkt:019e5aeb-4cf7-7dd0-bb38-eccc122fec53",
-      "time": "2026-05-25 00:56:53",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact mixed",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "【Iran Source On Potential US-Iran Deal: 'Negative Mood Emerging'】Al Jazeera Cites Iran Source: US Retreating On Iran Asset-Unfreeze Mechanism, Lebanon Ceasefire Scope; 'Negative Mood Emerging'"
-    },
-    {
-      "id": "mkt:019e5ae8-470c-7dd0-bb38-e5ed7c103b68",
-      "time": "2026-05-25 00:53:41",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "Poland FM Rejects Iran Nuclear Weapons, Backs Reopening Strait Of Hormuz"
-    },
-    {
-      "id": "mkt:019e5ae8-0e1b-7dd0-bb38-d99608a934c2",
-      "time": "2026-05-25 00:53:30",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Poland Foreign Minister Says US Troop Deployment Changes In Europe Not New"
-    },
-    {
-      "id": "mkt:019e5ae7-de3f-7dd0-bb38-d3fbb642a1ee",
-      "time": "2026-05-25 00:53:13",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "【HEZBOLLAH Leader Urges Lebanon To Reject Direct Talks With Israel】HEZBOLLAH Leader Naim Qassem Urges Lebanese Authorities To Abandon Direct Talks With Israel, Calls Talks 'Completely Unacceptable'; Next Israel-Lebanon Round Scheduled In Washington Early Next Month"
     }
   ]
 }
