@@ -1,7 +1,24 @@
 {
-  "updated": "2026-06-01 01:56:23",
+  "updated": "2026-06-01 02:00:13",
   "count": 15917,
   "items": [
+    {
+      "id": "mkt:019e7f30-1372-700f-a37f-e86ef0524bda",
+      "time": "2026-06-01 01:58:37",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Iranian President PEZESHKIAN submits resignation request to Supreme Leader's office】London-based Iran International TV, citing a source, reported President PEZESHKIAN has submitted a formal resignation request to the Supreme Leader's office. In a letter sent Sunday he said the presidency and government have been excluded from major state decision-making, creating a power vacuum that has allowed hardliners within the Islamic Revolutionary Guard Corps (IRGC) to seize control. He said he cannot manage the government or fulfill his legal duties under these conditions and has asked to resign immediately."
+    },
+    {
+      "id": "4909023",
+      "time": "2026-06-01 01:58:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【澤連斯基力求入冬前推動和談取得進展】烏克蘭總統澤連斯基在週日播出的採訪中表示，鑑於基輔方面當前戰略處境有所改善，希望在冬季來臨前推進俄烏和平談判。由美國斡旋的和平協議相關談判目前已陷入停滯，美方近期將重心轉向伊朗局勢。澤連斯基及烏克蘭其他官員稱，俄軍地面攻勢已然放緩，而烏克蘭則加大了對俄境內的中遠端打擊力度，打擊目標主要集中在俄羅斯石油產業。"
+    },
     {
       "id": "4909022",
       "time": "2026-06-01 01:54:57",
@@ -144612,22 +144629,6 @@
         "WTI"
       ],
       "text": "HEZBOLLAH Claims Suicide-Drone Strike On Israeli Troop Concentration In Rashaf, Southern Lebanon"
-    },
-    {
-      "id": "4897384",
-      "time": "2026-05-25 01:59:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "委內瑞拉宣佈與約旦簽署三項協議議定書，涉及政治磋商、外交協作與農業領域，同時還簽訂一份旨在深化雙邊關係的總體框架協議。"
-    },
-    {
-      "id": "mkt:019e5b21-d663-7dd0-bb39-6876980cad97",
-      "time": "2026-05-25 01:56:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Norwegian Government Contacts ZELENSKIY, Ukraine PM; Pledges Support"
     }
   ]
 }
