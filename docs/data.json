@@ -1,7 +1,39 @@
 {
-  "updated": "2026-06-01 06:24:21",
-  "count": 15915,
+  "updated": "2026-06-01 06:28:07",
+  "count": 15916,
   "items": [
+    {
+      "id": "mkt:019e8024-ce00-700f-a381-2b8fc9fa30f1",
+      "time": "2026-06-01 06:25:55",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【MIIT to accelerate forward-looking deployment and development of future industries】MIIT Minister Li Lecheng said the ministry will accelerate frontier technology breakthroughs and upstream supply for future industries, leveraging a new national coordination model and an 'industry-sets-the-problem, science-provides-the-answer' approach. MIIT will prioritize original, leading R&D to secure key core technology breakthroughs; continue deploying open‑challenge problem‑solving tasks to tackle critical bottleneck technologies; form deep industry–university–research–application innovation consortia by integrating universities, research institutes and leading firms; build proof‑of‑concept centers and pilot production platforms to scale lab results to production; and run large‑scale demonstration deployments to speed commercialization and align innovation and industrial chains."
+    },
+    {
+      "id": "mkt:019e8024-c698-700f-a381-232c6cc37b48",
+      "time": "2026-06-01 06:25:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "Hang Seng Index"
+      ],
+      "text": "【China MIIT urges risk-sharing and funding push for future industries】China’s Ministry of Industry and Information Technology (MIIT) minister Li Lecheng said in a People’s Daily article that Beijing will build mechanisms to boost investment and share risk for “future industries,” citing long incubation cycles and high market risk. He called for exploring funding approaches that encourage innovation and tolerate failure, mobilising government investment funds and national industry–finance cooperation platforms and stepping up financial support. The MIIT urged development of a tech-finance services system and new financing tools to attract social capital into early-stage and patient investments, prioritising early, small-scale backing of hard‑tech. It also reiterated acceleration of manufacturing talent programs, faster cultivation and recruitment of cross-disciplinary and high‑skill personnel, and optimisation of university disciplines to strengthen industry‑tech innovation talent pools."
+    },
+    {
+      "id": "4909114",
+      "time": "2026-06-01 06:24:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "一位伊朗訊息人士表示，德黑蘭將對與華盛頓可能達成的協議文字提出進一步修改。"
+    },
     {
       "id": "4909113",
       "time": "2026-06-01 06:15:48",
@@ -144602,22 +144634,6 @@
         "國際"
       ],
       "text": "訊息人士稱，儘管美伊雙方藉助巴基斯坦斡旋保持間接溝通，但伊朗對美國仍抱有極大疑慮。目前尚未達成最終共識，多項條款依舊存在分歧。"
-    },
-    {
-      "id": "4897480",
-      "time": "2026-05-25 06:25:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以軍總參謀長稱加大對黎真主黨打擊 準備隨時恢復作戰】以色列國防軍當地時間24日表示，以軍總參謀長扎米爾當天訪問了以軍北方司令部以及在黎巴嫩執行任務的以軍部隊總部，並批准了繼續打擊黎巴嫩真主黨的作戰計劃。扎米爾在召開局勢評估會議後表示，以軍繼續在各個層面對黎真主黨實施打擊，並進一步加大打擊力度。他還強調，在繼續監控當前地區局勢之際，以軍將做好準備，以便隨時投入高強度作戰，並進一步削弱伊朗及其軍事能力。（央視新聞）"
-    },
-    {
-      "id": "4897479",
-      "time": "2026-05-25 06:24:32",
-      "tags": [
-        "市場"
-      ],
-      "text": "受市場風險偏好情緒推動，美元下跌0.2%，報158.87日元；歐元上漲0.3%，報1.1636美元。"
     }
   ]
 }
