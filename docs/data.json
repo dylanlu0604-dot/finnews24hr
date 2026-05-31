@@ -1,7 +1,41 @@
 {
-  "updated": "2026-05-31 17:56:42",
+  "updated": "2026-05-31 18:00:59",
   "count": 15861,
   "items": [
+    {
+      "id": "4908788",
+      "time": "2026-05-31 17:57:31",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【中銀證券：資金在高位擁擠賽道與低位確定性板塊之間進行再平衡操作】中銀證券研報表示，本週市場持續高位波動。結構上，前期強勢板塊科技賽道本週持續面臨兌現壓力，資金對高位擁擠賽道與低位確定性板塊之間進行一定再平衡操作。驅動因素上：一方面，油價持續高位執行，海外流動性緊縮預期近期明顯升溫，疊加新任美聯儲主席沃什正式接任，市場對於美國貨幣政策偏鷹預期升溫。當前，市場對於2026年內美聯儲進行加息預期開始明顯升溫。高油價與高利率的雙重夾擊，使全球流動性環境的鬆動空間受到實質性壓縮。產業層面，夏季用電高峰預期催化電力板塊，煤炭供給收縮推動價格持續抬升，在市場震盪加劇、基本面訊號偏淡的視窗期，資金對確定性的股息回報和相對低位的安全邊際給予了更高的定價權重。"
+    },
+    {
+      "id": "mkt:019e7d77-95a8-700f-a37d-0489c4fce6c7",
+      "time": "2026-05-31 17:57:29",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "DXY",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "【Bank of China Securities: funds rebalance from crowded high-fliers to lower-valued, higher-certainty sectors】Bank of China Securities said markets remained volatile at elevated levels this week. Structurally, previously strong technology sectors faced profit-taking as capital rebalanced from crowded high-fliers into lower-valued, higher-certainty sectors. Drivers: oil prices remain elevated; expectations of tighter offshore liquidity have strengthened recently; Kevin Warsh formally assumed the Fed chair and market odds of a hawkish U.S. policy path have risen. Market pricing for a Fed rate increase in 2026 has notably increased. The combination of high oil and higher rates has materially compressed the space for global liquidity easing. On the sector side, anticipated summer peak power demand supports utilities and coal supply tightness is driving prices higher; amid greater market volatility and muted fundamentals, investors are placing higher weight on dividend yields and lower-risk valuation cushions."
+    },
+    {
+      "id": "4908787",
+      "time": "2026-05-31 17:56:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗批准20種農產品及加工產品出口】當地時間5月31日，伊朗貿易發展組織公佈了第十批出口禁令例外清單，涉及20種農產品及加工產品出口。其中包括乾菜、低脂牛奶、罐頭食品和礦泉水等農產品及加工產品。（央視新聞）"
+    },
     {
       "id": "4908786",
       "time": "2026-05-31 17:54:31",
@@ -144011,31 +144045,6 @@
         "其他"
       ],
       "text": "【受暴雨天氣影響 南京站部分列車臨時停運】記者從國鐵上海局南京站瞭解到，因暴雨等強對流天氣影響，為確保鐵路運輸安全和旅客出行安全，鐵路部門計劃對途經南京站的5月25日K1047次、K1555次、K5833次、K849次、K781次、T27次、K463次、K1556次、T33次，5月26日K5834次、K1555次、K1556次等列車採取臨時停運措施。已購買停運列車車票的旅客，可於票面乘車之日起30日內（含當日）在12306網站（含手機App）辦理退票手續，或持購票時所使用的有效身份證件原件到車站退票，均不收取退票費。（央視新聞）"
-    },
-    {
-      "id": "4897044",
-      "time": "2026-05-24 17:58:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "中央氣象臺5月24日18時釋出暴雨橙色預警。"
-    },
-    {
-      "id": "4897043",
-      "time": "2026-05-24 17:58:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "【多國領導人密集訪華】今年以來，全球外交出現了一個引人關注的現象，多國領導人密集來到中國訪問，從西方主要大國到全球南方國家，從山水相連的友鄰到遠道而來的客人，全球掀起了一波波“訪華潮”，不斷重新整理中國外交活動的密度。 （CCTV國際時訊）"
-    },
-    {
-      "id": "4897042",
-      "time": "2026-05-24 17:57:35",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【以媒：特朗普重申除非伊朗核計劃徹底瓦解 否則不會同意任何最終協議】據以色列媒體報道，美國正隨時向以色列通報有關重新開放霍爾木茲海峽的談判以及與伊朗就未解決問題進行磋商的最新情況。在與特朗普的通話中，以色列總理內塔尼亞胡調以色列有權在該地區（包括黎巴嫩）對威脅採取行動，特朗普支援這一立場。特朗普向內塔尼亞胡重申，除非伊朗的核計劃被徹底瓦解，且所有濃縮鈾都被運出該國，否則他不會同意任何最終協議。"
     }
   ]
 }
