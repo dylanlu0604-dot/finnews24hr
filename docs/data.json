@@ -1,7 +1,76 @@
 {
-  "updated": "2026-06-01 00:49:01",
-  "count": 15931,
+  "updated": "2026-06-01 00:53:02",
+  "count": 15936,
   "items": [
+    {
+      "id": "mkt:019e7ef2-2e49-700f-a37f-b12b0fdcd677",
+      "time": "2026-06-01 00:50:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "French President Macron said France will continue to support Lebanese authorities' efforts to restore state sovereignty and maintain territorial integrity."
+    },
+    {
+      "id": "mkt:019e7ef2-004c-700f-a37f-af8100e600b4",
+      "time": "2026-06-01 00:50:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "French President Macron said the recent serious escalation in southern Lebanon is unjustified."
+    },
+    {
+      "id": "mkt:019e7ef1-a617-700f-a37f-a5478463b128",
+      "time": "2026-06-01 00:50:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "French President Macron said regional stability should begin with Lebanon; the most urgent priority is for all weapons to stop firing completely and for a permanent ceasefire."
+    },
+    {
+      "id": "mkt:019e7ef1-04e3-700f-a37f-98350435f726",
+      "time": "2026-06-01 00:49:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "French President Macron said parties should continue talks to reach a comprehensive, durable agreement on remaining issues, notably the nuclear program, ballistic-missile program and regional stability."
+    },
+    {
+      "id": "mkt:019e7ef0-ddd8-700f-a37f-9022f782fe26",
+      "time": "2026-06-01 00:49:35",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "French President Macron said the immediate priority is to reach a ceasefire agreement and to immediately reopen the Strait of Hormuz without preconditions and in accordance with international law."
+    },
+    {
+      "id": "mkt:019e7ef0-6102-700f-a37f-8af46e54839a",
+      "time": "2026-06-01 00:49:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "French President Macron said he spoke with the Saudi crown prince, the Sultan of Oman, the president of the UAE and the president of Egypt, telling them the same message that it is crucial for the U.S. and Iran to reach an agreement quickly and that the opportunity must be seized immediately."
+    },
+    {
+      "id": "4909001",
+      "time": "2026-06-01 00:48:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國總統馬克龍：至於區域穩定，必須從黎巴嫩開始，那裡亟需徹底停止一切槍聲。目前黎巴嫩南部正在發生的嚴重衝突升級沒有任何正當理由。法國將繼續支援黎巴嫩當局為恢復國家主權和領土完整所做的努力。"
+    },
+    {
+      "id": "4909000",
+      "time": "2026-06-01 00:48:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國總統馬克龍：法國隨時準備發揮自身全部作用，包括協助恢復與英國共同建立的獨立多國特派團的海上交通，運用其專業知識和能力支援核問題磋商，並與近幾個月來法國一直協助其保護的夥伴國一道，為建立必要的區域安全框架做出貢獻。"
+    },
     {
       "id": "4908999",
       "time": "2026-06-01 00:48:21",
@@ -144737,36 +144806,6 @@
         "Brent"
       ],
       "text": "【HEZBOLLAH Leader Urges Lebanon To Reject Direct Talks With Israel】HEZBOLLAH Leader Naim Qassem Urges Lebanese Authorities To Abandon Direct Talks With Israel, Calls Talks 'Completely Unacceptable'; Next Israel-Lebanon Round Scheduled In Washington Early Next Month"
-    },
-    {
-      "id": "mkt:019e5ae7-312c-7dd0-bb38-caa723c76e35",
-      "time": "2026-05-25 00:52:31",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "Poland FM Seeks Open Strait Of Hormuz, Demands Freedom Of Navigation For Oil And Gas Tankers"
-    },
-    {
-      "id": "4897344",
-      "time": "2026-05-25 00:51:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "下月上旬第四輪會談將於華盛頓舉行，在此前夕，真主黨領導人納伊姆・卡西姆再度敦促黎巴嫩放棄與以色列直接談判。"
-    },
-    {
-      "id": "mkt:019e5ae4-5d76-7dd0-bb38-c51b866919fd",
-      "time": "2026-05-25 00:49:28",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Poland FM Says Strait Of Hormuz International Waters, Backs Reopening"
     }
   ]
 }
