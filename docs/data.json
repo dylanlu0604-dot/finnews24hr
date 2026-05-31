@@ -1,7 +1,19 @@
 {
-  "updated": "2026-06-01 00:32:53",
+  "updated": "2026-06-01 00:36:45",
   "count": 15930,
   "items": [
+    {
+      "id": "mkt:019e7ee2-755b-700f-a37f-80a60b7acc0d",
+      "time": "2026-06-01 00:33:50",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Israel's Channel 12 reports Prime Minister Netanyahu is convening a security assessment meeting on Lebanon."
+    },
     {
       "id": "4908993",
       "time": "2026-06-01 00:26:50",
@@ -144754,14 +144766,6 @@
         "Europe & UK"
       ],
       "text": "Egypt FM Phones EU HR kallas, Discusses Regional Developments"
-    },
-    {
-      "id": "mkt:019e5ad6-0a70-7dd0-bb38-a8711a603149",
-      "time": "2026-05-25 00:33:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "HEZBOLLAH Leader Seeks Lebanon's Inclusion In Any US-Iran Deal"
     }
   ]
 }
