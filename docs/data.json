@@ -1,7 +1,27 @@
 {
-  "updated": "2026-05-31 15:28:14",
-  "count": 15834,
+  "updated": "2026-05-31 15:32:15",
+  "count": 15831,
   "items": [
+    {
+      "id": "mkt:019e7cf1-95da-7bb7-996d-7c285d325630",
+      "time": "2026-05-31 15:31:07",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "【Katz says seizure of Bofor castle in southern Lebanon a \"strategic victory\"】Israeli Defense Minister Katz said on May 31 that Israeli forces seized the Bofor castle in southern Lebanon, calling the action a \"strategic victory.\" Katz said soldiers re‑raised the Israeli and Golani Brigade flags in the Bofor area for the first time in 44 years and that the operation was conducted on orders from Prime Minister Netanyahu and himself. He said Israel has expanded operations inside Lebanon, crossed the Litani River and \"controls the Bofor ridge,\" describing the site as an important strategic position; the action had been kept secret. Katz said the move sends a clear signal to Israel's enemies and warned those who threaten Israeli civilians will progressively lose strategic assets. He added operations are \"not over\" and that Israel will continue actions aimed at weakening Hezbollah and completing the mission."
+    },
+    {
+      "id": "4908656",
+      "time": "2026-05-31 15:27:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【陳茂波：海內外資金投信任票 香港資管業務成長可觀】香港特區政府財政司司長陳茂波5月31日發表網誌表示，海內外資金對香港投下信任票，香港資管業務成長可觀。 他表示，一家國際顧問公司近日釋出2026年全球財富報告，估算香港去年跨境財富管理資產規模按年增長10.7%至約23萬億港元，超越瑞士成為全球第一的跨境財管中心。預計從現在到2030年，香港管理的跨境財富每年增長約9%，增速也高於瑞士。這是海內外資金對香港的制度和投資環境投下的信任票。 陳茂波提到，根據證監會每年釋出的《資產及財富管理活動調查》，香港的資管業務總值已超35萬億港元，其中54%的資金來自內地及香港以外的投資者，反映香港資管業的國際化持續鞏固。從趨勢看，香港資管業務成長可觀，在2015年至2024年的10年間，資產規模倍增，資管機構數目增加近一倍。 他表示，特區政府過去幾年陸續推出多項支援措施，包括為合資格家族辦公室業務提供稅務寬減等，為行業發展持續注入動力。(新華社）"
+    },
     {
       "id": "4908655",
       "time": "2026-05-31 15:26:03",
@@ -143710,47 +143730,6 @@
         "公司"
       ],
       "text": "【京東方A：公司近期無公共傳媒報道了可能或已經對股票交易價格產生較大影響的未公開重大資訊】京東方A公告，公司近期未發現公共傳媒報道了可能或已經對股票交易價格產生較大影響的未公開重大資訊。"
-    },
-    {
-      "id": "4896915",
-      "time": "2026-05-24 15:31:59",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：伊朗永遠不得擁有核武器。"
-    },
-    {
-      "id": "4896914",
-      "time": "2026-05-24 15:31:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【艾迪藥業：達蘆那韋原料藥獲得上市申請批准通知書】艾迪藥業公告，全資子公司揚州艾迪醫藥科技有限公司收到國家藥品監督管理局核准簽發的《化學原料藥上市申請批准通知書》。原料藥名稱為達蘆那韋(Darunavir)，包裝規格為1kg/桶、5kg/桶、25kg/桶。達蘆那韋是一種HIV-1蛋白酶抑制劑，可與其他抗逆轉錄病毒藥物聯合用於HIV感染患者的治療。公司達蘆那韋片仿製藥已提交ANDA申請，目前正在審評中。"
-    },
-    {
-      "id": "4896913",
-      "time": "2026-05-24 15:31:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：今天可能會公佈更多有關伊朗局勢的訊息。"
-    },
-    {
-      "id": "4896912",
-      "time": "2026-05-24 15:30:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：後續將由特朗普總統釋出（伊朗議題）相關宣告。"
-    },
-    {
-      "id": "4896911",
-      "time": "2026-05-24 15:30:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：伊朗相關議題取得重大進展。"
     }
   ]
 }
