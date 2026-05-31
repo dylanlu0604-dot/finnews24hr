@@ -1,7 +1,40 @@
 {
-  "updated": "2026-06-01 04:54:23",
-  "count": 15915,
+  "updated": "2026-06-01 04:58:13",
+  "count": 15916,
   "items": [
+    {
+      "id": "mkt:019e7fd4-0160-700f-a380-bdad49b4ed84",
+      "time": "2026-06-01 04:57:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【India raises commercial LPG price】Indian Oil has raised the price of 19kg commercial LPG cylinders for industrial customers by INR42 (about $0.44) to INR3,113.50 per cylinder from INR3,071.50, according to its website. Other state fuel retailers typically mirror such adjustments. India is the world’s third-largest LPG consumer and sources over 90% of its imported LPG from the Middle East."
+    },
+    {
+      "id": "4909075",
+      "time": "2026-06-01 04:55:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【過去三週美軍協助約70艘商船穿行霍爾木茲海峽】美國官員稱，儘管局勢緊張加劇、美伊談判陷入停滯，過去三週美軍仍協助約70艘商船穿行霍爾木茲海峽。相關官員表示，不少船隻在途經這條狹窄水道時關閉了船舶應答器。"
+    },
+    {
+      "id": "4909074",
+      "time": "2026-06-01 04:55:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【知情人士：伊朗將按自身立場修訂伊美協議草案】伊朗塔斯尼姆通訊社5月31日援引知情人士的話報道，圍繞伊朗與美國協議草案的文字交換工作仍在繼續，尚無任何內容最終確定，伊方將按自身立場提出修訂建議。（新華社）"
+    },
+    {
+      "id": "4909073",
+      "time": "2026-06-01 04:54:51",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【穆迪：美國家庭平均每月的能源支出增加約450美元】穆迪分析公司的資料顯示，自2月28日衝突爆發以來，美國家庭平均已額外支出447.19美元用於與燃料相關的開支。由於汽油價格和機票價格飆升，美國消費者累計損失近600億美元。"
+    },
     {
       "id": "4909072",
       "time": "2026-06-01 04:52:15",
@@ -144575,36 +144608,6 @@
         "國際"
       ],
       "text": "【伊朗方面稱現階段伊尚未就核問題的細節做出任何承諾】伊朗方面表示，以色列媒體此前關於伊朗在開始轉移濃縮鈾儲備之前不會獲得解除被凍結資金的便利的報道是錯誤的。伊朗方面不願將解凍資產和核材料問題掛鉤，現階段伊朗尚未就核問題的細節做出任何承諾。伊朗方面指出，一旦可能宣佈達成諒解，就應立即解凍部分凍結資產，並確保伊朗能夠完全使用這些資產。根據伊朗方面的訊息，如果被凍結資產得不到解除，就觸及了伊朗的底線之一，雙方將無法達成共識。（央視新聞）"
-    },
-    {
-      "id": "4897431",
-      "time": "2026-05-25 04:55:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國務卿：美伊協議草案獲多國支援】正在印度訪問的美國國務卿魯比奧24日對媒體說，美國與伊朗之間的協議草案已獲多箇中東地區國家支援。魯比奧說，目前地區內已有七到八個國家支援這一草案，美方準備繼續推進。魯比奧還稱，核談判具有高度專業性，“不可能72小時內在餐巾背面（寫寫）就搞定核事務”，但美總統特朗普阻止伊朗獲得核武器的承諾不應受到質疑。 (新華社)"
-    },
-    {
-      "id": "mkt:019e5bc6-043c-7882-93e8-9ba42cfe6a64",
-      "time": "2026-05-25 04:55:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Rubio: US-Iran Draft Gains Multi-Nation Support】Rubio In India: US-Iran Draft Backed By 7-8 Middle East States; US To Push Ahead; Calls Nuclear Talks Highly Technical, Not Solvable In 72 Hours; Trump Says Talks Orderly, Told Reps Not To Rush"
-    },
-    {
-      "id": "mkt:019e5bc4-a4ee-7882-93e8-94a1dc8c5e5e",
-      "time": "2026-05-25 04:54:26",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "LAGARDE: ECB May Revise Inf Outlook In June"
     }
   ]
 }
