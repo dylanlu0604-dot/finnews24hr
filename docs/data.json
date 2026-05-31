@@ -1,7 +1,27 @@
 {
-  "updated": "2026-06-01 02:11:40",
-  "count": 15916,
+  "updated": "2026-06-01 02:15:23",
+  "count": 15917,
   "items": [
+    {
+      "id": "4909025",
+      "time": "2026-06-01 02:13:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國家庭債務創下18.8萬億美元新高，紐約大學斯特恩商學院營銷學教授斯科特・加洛韋和美國合作基金合夥人摩根・豪塞爾警示住房支付能力已出現結構性危機。"
+    },
+    {
+      "id": "mkt:019e7f3d-c968-700f-a37f-f0a6ba3f5dc6",
+      "time": "2026-06-01 02:13:36",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran missile strike on US Kuwait base lightly wounds seven; all returned to duty】A US official said on May 31 local time that Iran launched a ballistic missile attack last week on a US air base in Kuwait, lightly wounding four US service members and three contractors; all seven returned to duty within 24 hours."
+    },
     {
       "id": "4909024",
       "time": "2026-06-01 01:59:51",
@@ -144610,14 +144630,6 @@
         "MKT News"
       ],
       "text": "U.S. Sources: Draft U.S.-Iran Deal Mirrors May 15 Ceasefire, Commits To End Hostilities In Lebanon — Saudi Alhadath"
-    },
-    {
-      "id": "4897386",
-      "time": "2026-05-25 02:14:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國多名共和黨參議員認為美伊協議有損美國利益。"
     }
   ]
 }
