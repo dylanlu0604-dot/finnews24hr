@@ -1,7 +1,32 @@
 {
-  "updated": "2026-06-01 02:56:42",
-  "count": 15919,
+  "updated": "2026-06-01 03:00:54",
+  "count": 15920,
   "items": [
+    {
+      "id": "mkt:019e7f67-8ab0-700f-a380-2b837d9673a4",
+      "time": "2026-06-01 02:59:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Syrian President Shala spoke by phone with Trump; Shala told Trump that lifting remaining US sanctions on Syria is an important step to reviving Syria's economy."
+    },
+    {
+      "id": "mkt:019e7f66-2949-700f-a380-239e5617abec",
+      "time": "2026-06-01 02:57:42",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Iran official denies reports President PEZESHKIAN has resigned】Iran's Government Information Committee chairman Hazrati said President PEZESHKIAN is fully focused on state affairs, rejecting reports he has resigned."
+    },
+    {
+      "id": "4909045",
+      "time": "2026-06-01 02:57:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗外長：談判結果明確前 一切都是猜測】當地時間5月31日，伊朗外交部長阿拉格齊在接受媒體採訪時表示，目前談判和資訊交換仍在進行中，在尚未取得明確結果之前，無法對此作出判斷。阿拉格齊表示，現在外界所說的一切都只是猜測，不應對此過於重視。"
+    },
     {
       "id": "mkt:019e7f5f-e068-700f-a380-1ba0080bbcfb",
       "time": "2026-06-01 02:50:50",
@@ -144634,22 +144659,6 @@
         "其他"
       ],
       "text": "英國聯合法國、義大利、西班牙及加拿大，否決北約一項提案。該提案要求各成員國拿出本國GDP的0.25%，用於對烏軍事援助。因未能在土耳其北約峰會前獲得全體成員國一致認可，北約秘書長呂特撤回了此項提議。"
-    },
-    {
-      "id": "4897401",
-      "time": "2026-05-25 03:00:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "【神舟二十三號載人飛船與空間站組合體完成自主快速交會對接】據中國載人航天工程辦公室訊息，神舟二十三號載人飛船入軌後，於北京時間2026年5月25日2時45分，成功對接於空間站天和核心艙徑向埠，整個對接過程歷時約3.5小時。按任務計劃，3名航天員隨後將從神舟二十三號載人飛船進入空間站天和核心艙。神舟二十一號航天員乘組已做好迎接神舟二十三號航天員乘組進駐各項準備工作。（央視新聞）"
-    },
-    {
-      "id": "4897400",
-      "time": "2026-05-25 02:57:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普期望戰後促成穆斯林國家領導人與以色列謀求達成和平協議，在週六同部分阿拉伯及穆斯林國家領導人通話，並表示將派遣特使跟進《亞伯拉罕協議》相關事務。"
     }
   ]
 }
