@@ -1,7 +1,42 @@
 {
-  "updated": "2026-05-31 11:32:30",
-  "count": 15870,
+  "updated": "2026-05-31 11:36:16",
+  "count": 15872,
   "items": [
+    {
+      "id": "4908575",
+      "time": "2026-05-31 11:35:10",
+      "tags": [
+        "資料",
+        "市場"
+      ],
+      "text": "【5月份鋼鐵PMI為47.9%：淡季特徵有所顯現 鋼鐵行業執行放緩】從中物聯鋼鐵物流專業委員會調查、釋出的鋼鐵行業 PMI 來看，2026年5月份為47.9%，環比下降1.3個百分點，顯示鋼鐵行業執行有所放緩。分項指數顯示，進入5月份後，鋼鐵行業淡季特徵有所顯現，需求端有所趨緩，供給端穩定偏弱，產成品去庫速度有所放緩，原材料和鋼材價格繼續上升。預計6月份，鋼鐵行業仍存下行壓力，需求端呈現淡季執行格局，鋼廠生產收縮壓力加大，原材料價格增勢高位有所放緩，鋼材價格上漲動力也將有所減弱。（中物聯鋼鐵物流專業委員會）"
+    },
+    {
+      "id": "mkt:019e7c18-a738-7bb7-996c-de36887166cd",
+      "time": "2026-05-31 11:34:10",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Market Regions",
+        "XAUUSD",
+        "Impact bullish",
+        "Copper",
+        "Impact bearish",
+        "Hang Seng Index"
+      ],
+      "text": "【May China steel PMI 47.9% — seasonal weakness emerges, industry slows】China steel industry PMI fell to 47.9% in May 2026, down 1.3 percentage points MoM, signaling a slowdown. Subindices show May’s seasonal off‑season: demand softened, supply remained weak, finished‑goods destocking slowed, while raw‑material and steel prices continued to rise. The report expects continued downside pressure in June: demand to remain seasonally weak, mills to face greater production‑contraction pressure, raw‑material price growth at high levels to moderate, and steel price upside to weaken."
+    },
+    {
+      "id": "mkt:019e7c17-cb6d-7bb7-996c-d615d533df37",
+      "time": "2026-05-31 11:33:14",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | Steel Industry PMI (May) | actual 47.9 | previous 49.2"
+    },
     {
       "id": "4908574",
       "time": "2026-05-31 11:21:30",
@@ -143991,14 +144026,6 @@
         "國際"
       ],
       "text": "加拿大總理卡尼：加拿大強烈譴責俄羅斯今晚對基輔民用目標發動大規模導彈和無人機襲擊。"
-    },
-    {
-      "id": "4896771",
-      "time": "2026-05-24 11:34:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "【四川生態集團揭牌成立】近日，四川省自然資源投資集團旗下四川省生態發展集團有限責任公司（以下簡稱“四川生態集團”）在成都正式揭牌成立。據悉，四川生態集團主要開展生態系統保護修復、全域地質安全保障、城鄉生態環境治理、生態領域投資運營、生態產業數智賦能等業務，著力破解以往生態治理碎片化、資源分散等問題，推動生態保護、修復、開發、運營一體化發展。"
     }
   ]
 }
