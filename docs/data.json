@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-01 00:36:45",
-  "count": 15930,
+  "updated": "2026-06-01 00:40:51",
+  "count": 15931,
   "items": [
+    {
+      "id": "4908995",
+      "time": "2026-06-01 00:38:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統：面對重大挑戰，不可能不經歷艱難困苦。唯有依靠全民的共識與協作，才能走完這條充滿起伏的道路。我們必須向民眾闡明現實情況，推動社會各階層共同參與解決問題。共同的痛苦，永遠無法靠各自為戰來治癒。"
+    },
+    {
+      "id": "4908994",
+      "time": "2026-06-01 00:36:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普在真相社交平臺轉發了紐特・金裡奇的帖文，後者稱特朗普即將在伊朗問題上取得歷史性勝利。"
+    },
     {
       "id": "mkt:019e7ee2-755b-700f-a37f-80a60b7acc0d",
       "time": "2026-06-01 00:33:50",
@@ -144756,16 +144772,6 @@
         "DXY"
       ],
       "text": "i24: US-Iran Talks Stall After Israeli Strikes On Hezbollah; Israel Seeks Freedom Of Action"
-    },
-    {
-      "id": "mkt:019e5ada-25d5-7dd0-bb38-b2f746643c52",
-      "time": "2026-05-25 00:38:16",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Egypt FM Phones EU HR kallas, Discusses Regional Developments"
     }
   ]
 }
