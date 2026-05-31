@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-01 05:02:00",
-  "count": 15915,
+  "updated": "2026-06-01 05:05:49",
+  "count": 15914,
   "items": [
     {
       "id": "4909076",
@@ -144588,14 +144588,6 @@
         "Impact bearish"
       ],
       "text": "USD/JPY Breaks Below 159; Down 0.25% Intraday"
-    },
-    {
-      "id": "mkt:019e5bce-72e7-7882-93e8-aa5cd37731e5",
-      "time": "2026-05-25 05:04:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TEDROS: DRC Ebola Surveillance Intensifies; Over 900 Suspected Cases Identified"
     }
   ]
 }
