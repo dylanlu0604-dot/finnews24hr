@@ -1,7 +1,26 @@
 {
-  "updated": "2026-05-31 10:28:40",
+  "updated": "2026-05-31 10:32:38",
   "count": 15890,
   "items": [
+    {
+      "id": "4908563",
+      "time": "2026-05-31 10:31:44",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "市場訊息：美國富裕群體對本國經濟愈發悲觀。股票資產位列前三分之一的美國民眾，消費信心指數已跌至60左右。"
+    },
+    {
+      "id": "mkt:019e7bdf-0a80-7bb7-996c-b6e8cf81f137",
+      "time": "2026-05-31 10:31:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Investigation into high-priced centralized-procurement drug sales: supplier cut price and reimbursed difference but pharmacy continued charging higher price】State media on May 30 reported Hohhot Jingyuan Pharmacy sold the centralized-procurement drug avatrombopag maleate tablets at prices above the procurement level. Hohhot municipal medical insurance and market regulation bureaus opened a joint probe. Inner Mongolia medical security bureau said the pharmacy had bought the drug into inventory before the procurement policy took effect; on March 27 the supplier lowered its price and reimbursed the difference to the pharmacy’s stock, but the pharmacy continued to price sales at its original purchase price until May 15 and did not adjust. After a customer raised the issue on May 22, the pharmacy refunded the price difference at the procurement level. The city medical insurance bureau interviewed the pharmacy’s principal and recorded demerit points against its medical-insurance payment qualification; the market regulator has filed an administrative case and will publish the outcome."
+    },
     {
       "id": "4908562",
       "time": "2026-05-31 10:27:53",
@@ -144135,23 +144154,6 @@
         "其他"
       ],
       "text": "【武漢釋出暴雨紅色預警 注意防範】武漢市氣象臺2026年5月24日10時11分發布暴雨紅色預警訊號：過去1小時蔡甸消泗、經開湘口已出現30~60毫米降水，預計未來3小時，經開、蔡甸、江夏部分街道（鄉鎮）仍將有40~70毫米降水，累計雨量將達到100毫米以上，城鄉積澇、地質災害、中小河流風險極高，請特別加強防範。"
-    },
-    {
-      "id": "4896735",
-      "time": "2026-05-24 10:32:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "中央氣象臺5月24日10時釋出強對流天氣黃色預警。"
-    },
-    {
-      "id": "4896734",
-      "time": "2026-05-24 10:30:00",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "【重慶永川暴雨致17人失聯 1人死亡】記者從重慶永川防汛救援現場指揮部瞭解到，5月23日23時截至24日8時20分許，永川區出現特大暴雨，轄區茶山竹海街道24日2時至4時最大雨量達到296.6毫米、最大小時雨量103.6毫米，因瞬時強降雨導致17人失聯，1人死亡。目前救援處置工作正在全力開展。（央視新聞）"
     }
   ]
 }
