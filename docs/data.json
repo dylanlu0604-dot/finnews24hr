@@ -1,7 +1,115 @@
 {
-  "updated": "2026-05-31 09:29:17",
-  "count": 15869,
+  "updated": "2026-05-31 09:33:19",
+  "count": 15878,
   "items": [
+    {
+      "id": "4908534",
+      "time": "2026-05-31 09:32:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家統計局：5月份，非製造業商務活動指數為50.1%，比上月上升0.7個百分點】5月份，非製造業商務活動指數為50.1%，比上月上升0.7個百分點，非製造業景氣水平回升。 分行業看，建築業商務活動指數為48.8%，比上月上升0.8個百分點；服務業商務活動指數為50.3%，比上月上升0.7個百分點。從服務業行業看，鐵路運輸、電信廣播電視及衛星傳輸服務、保險等行業商務活動指數均位於55.0%以上較高景氣區間；航空運輸、房地產等行業商務活動指數均低於臨界點。"
+    },
+    {
+      "id": "4908533",
+      "time": "2026-05-31 09:31:09",
+      "tags": [
+        "資料",
+        "焦點"
+      ],
+      "text": "【國家統計局：5月份，製造業採購經理指數（PMI）為50.0%，比上月下降0.3個百分點】從企業規模看，大型企業PMI為51.1%，比上月上升0.9個百分點，高於臨界點；中、小型企業PMI分別為48.6%和48.5%，比上月下降1.9個和1.6個百分點，均低於臨界點。 從分類指數看，構成製造業PMI的5個分類指數中，生產指數高於臨界點，新訂單指數、原材料庫存指數、從業人員指數和供應商配送時間指數均低於臨界點。 生產指數為51.2%，比上月下降0.3個百分點，仍高於臨界點，表明製造業生產活動保持擴張。 新訂單指數為49.9%，比上月下降0.7個百分點，表明製造業市場需求景氣水平有所回落。 原材料庫存指數為48.6%，比上月下降0.7個百分點，表明製造業主要原材料庫存量下降。 從業人員指數為48.6%，比上月下降0.2個百分點，表明製造業企業用工景氣水平有所回落。 供應商配送時間指數為49.2%，比上月下降0.3個百分點，表明製造業原材料供應商交貨時間較上月繼續延長。"
+    },
+    {
+      "id": "mkt:019e7ba8-19e5-7bb7-996c-5b790e80372e",
+      "time": "2026-05-31 09:31:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "CSI300",
+        "SSE Composite"
+      ],
+      "text": "China's National Bureau of Statistics said May manufacturing PMI was 50.0%, down 0.3 percentage point MoM, at the 50-point neutral threshold."
+    },
+    {
+      "id": "mkt:019e7ba7-cd9f-7bb7-996c-5281b8f9ef40",
+      "time": "2026-05-31 09:30:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "Hang Seng Index",
+        "CSI300"
+      ],
+      "text": "China composite PMI 50.5 in May, up from 50.1."
+    },
+    {
+      "id": "mkt:019e7ba7-b8d6-7bb7-996c-4ea364eb30d5",
+      "time": "2026-05-31 09:30:44",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | Composite PMI (May) | actual 50.5 | previous 50.1"
+    },
+    {
+      "id": "mkt:019e7ba7-9db6-7bb7-996c-42099751337a",
+      "time": "2026-05-31 09:30:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China's official manufacturing PMI was 50.0 in May, matching the expected 50.0 and down from the prior reading of 50.3."
+    },
+    {
+      "id": "mkt:019e7ba7-9b5f-7bb7-996c-3cefb9bbe9a4",
+      "time": "2026-05-31 09:30:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "CSI300",
+        "Hang Seng Index"
+      ],
+      "text": "China non-manufacturing PMI stood at 50.1 in May, vs consensus 49.5 and April's 49.4."
+    },
+    {
+      "id": "mkt:019e7ba7-6d81-7bb7-996c-32fc96e3b232",
+      "time": "2026-05-31 09:30:28",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | Official Manufacturing PMI (May) | actual 50 | consensus 50 | previous 50.3"
+    },
+    {
+      "id": "mkt:019e7ba7-59e6-7bb7-996c-2f92ed5a679e",
+      "time": "2026-05-31 09:30:25",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | Non-Manufacturing PMI (May) | actual 50.1 | consensus 49.5 | previous 49.4"
+    },
+    {
+      "id": "4908532",
+      "time": "2026-05-31 09:29:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【京東：618開場四小時，百大品牌成交額平均增長超五倍】5月30日晚八點，京東618正式開啟，截至零點，該平臺百大品牌成交額同比平均增長超五倍。今年參加京東618的新商家數量同比增長超62%，開場四小時，首次參加京東618的51個新商家成交額破千萬、1516個新商家成交額破百萬。"
+    },
     {
       "id": "4908531",
       "time": "2026-05-31 09:25:36",
@@ -143924,14 +144032,6 @@
         "公司"
       ],
       "text": "【邱春楊任申萬菱信基金總經理】申萬菱信基金5月23日公告顯示，汪濤因工作需要卸任公司總經理一職，由邱春楊新任公司總經理。 公開資料顯示，邱春楊2001年起從事金融相關工作，曾任職於南方證券有限公司、廣發基金管理有限公司、長城基金管理有限公司，2026年5月加入申萬菱信基金。"
-    },
-    {
-      "id": "4896705",
-      "time": "2026-05-24 09:31:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐洲地中海地震中心（EMSC）： 土耳其中部地區發生 5.2級地震。"
     }
   ]
 }
