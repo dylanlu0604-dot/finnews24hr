@@ -1,7 +1,28 @@
 {
-  "updated": "2026-05-31 19:27:21",
+  "updated": "2026-05-31 19:31:10",
   "count": 15884,
   "items": [
+    {
+      "id": "mkt:019e7dcb-6915-700f-a37d-99423aa6b52e",
+      "time": "2026-05-31 19:29:03",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact mixed",
+        "Hang Seng Index"
+      ],
+      "text": "【China Index Academy: TOP100 developers Jan–May sales CNY1.2293 trillion; YoY drop narrowed】China Index Academy reports TOP100 Chinese developers sold CNY1.2293 trillion in Jan–May 2026, with the YoY decline narrowing 4.7 percentage points versus Jan–Apr and contracting for a third consecutive month. In May, China Overseas, CHINA RES LAND, China Merchants Shekou, C&D Real Estate, Poly Developments, Beijing Urban Construction and Lianfa posted YoY sales growth. The academy attributes May strength to improvement-led demand concentrated in high-end products in some cities and to aggressive marketing that aided rapid post-launch sell-through."
+    },
+    {
+      "id": "4908844",
+      "time": "2026-05-31 19:27:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中指研究院：前5月TOP100房企銷售總額為12292.3億元】中指研究院最新發布《2026年1—5月中國房企銷售業績解析》，2026年1—5月，TOP100房企銷售總額為12292.3億元，同比降幅較1—4月縮小4.7個百分點，連續三個月縮窄。5月，中海地產、華潤置地、招商蛇口、建發房產、保利置業、北京城建、聯發等企業銷售業績同比均有增長。一方面，當前改善型需求主導市場，部分城市高階類產品熱銷；另一方面，積極的營銷策略也為產品入市後快速去化起到了良好作用。"
+    },
     {
       "id": "4908842",
       "time": "2026-05-31 19:18:50",
@@ -144261,22 +144282,6 @@
         "其他"
       ],
       "text": "市場訊息：因擔憂相關協議或將制約己方打擊真主黨的行動空間，以軍正擬定針對黎巴嫩的全新作戰方案。"
-    },
-    {
-      "id": "4897098",
-      "time": "2026-05-24 19:30:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "卡達外交部：卡達國首相強調，應支援當前斡旋工作，以期達成持久和平協議。"
-    },
-    {
-      "id": "4897094",
-      "time": "2026-05-24 19:28:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：土耳其防暴警察發射催淚瓦斯，強行闖入主要反對黨總部，以驅逐被革職的領導層。"
     }
   ]
 }
