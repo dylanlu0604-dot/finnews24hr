@@ -1,7 +1,24 @@
 {
-  "updated": "2026-06-01 06:31:56",
+  "updated": "2026-06-01 06:35:45",
   "count": 15918,
   "items": [
+    {
+      "id": "4909117",
+      "time": "2026-06-01 06:33:50",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "【週一重要財經資訊提醒（以下均為北京時間）】 \n① 09:45 中國5月RatingDog製造業PMI；\n② 11:00 英偉達GTC Taipei 2026大會開幕，黃仁勳發表主題演講；\n③ 14:00 英國5月Nationwide房價指數；\n④ 14:30 瑞士4月實際零售銷售；\n⑤ 15:50 法國5月製造業PMI終值；\n⑥ 15:55 德國5月製造業PMI終值；\n⑦ 16:00 歐元區5月製造業PMI終值；\n⑧ 16:30 英國5月製造業PMI終值；\n⑨ 17:00 歐元區4月失業率；\n⑩ 21:45 美國5月標普全球製造業PMI終值；\n⑪ 22:00 美國5月ISM製造業指數、美國4月營建支出。"
+    },
+    {
+      "id": "4909116",
+      "time": "2026-06-01 06:32:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "製藥企業禮來公司表示，正在測試一款新型試驗藥物，該藥物有望徹底改變高膽固醇的治療格局。"
+    },
     {
       "id": "mkt:019e8029-7c9d-700f-a381-3e5213cb1d52",
       "time": "2026-06-01 06:31:02",
@@ -144637,23 +144654,6 @@
         "Importance 2"
       ],
       "text": "Crude Oil Falls 5% — Oil fell at the start of the week as the US and Iran moved closer to a deal. According to MS Now, the proposed deal would reopen the Strait of Hormuz, bring an end to the hostilities, unfreeze some Iranian assets, and pave the way for further negotiations aimed at limiting Tehran’s nuclear program. Still, President Trump said Washington would maintain its blockade of the Strait of Hormuz until an agreement is finalized and he wouldn’t “rush” into a deal. Crude oil was down by 5% to $92 after falling more than 5% last week while brent fell to $99 a barrel."
-    },
-    {
-      "id": "4897483",
-      "time": "2026-05-25 06:32:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "【象牙海岸阿比讓一在建樓房坍塌致8人死亡】象牙海岸軍事消防部門24日說，經濟首都阿比讓南部一棟在建樓房23日發生坍塌事故，截至目前已造成8人死亡。（新華社）"
-    },
-    {
-      "id": "4897482",
-      "time": "2026-05-25 06:32:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4560美元/盎司，日內漲1.18%。"
     }
   ]
 }
