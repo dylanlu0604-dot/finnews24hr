@@ -1,7 +1,63 @@
 {
-  "updated": "2026-06-01 02:15:23",
-  "count": 15917,
+  "updated": "2026-06-01 02:19:16",
+  "count": 15919,
   "items": [
+    {
+      "id": "mkt:019e7f42-69d0-700f-a380-04f5d2b55645",
+      "time": "2026-06-01 02:18:39",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Qatar's foreign ministry urged the international community to compel Israel to halt its aggression against Lebanon."
+    },
+    {
+      "id": "4909029",
+      "time": "2026-06-01 02:18:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達外交部：我們呼籲國際社會迫使以色列停止對黎巴嫩的侵略。"
+    },
+    {
+      "id": "mkt:019e7f42-2841-700f-a37f-fbe35bea7d94",
+      "time": "2026-06-01 02:18:22",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Qatar's foreign ministry condemned Israel's continued attacks on Lebanon and the expansion of its ground invasion into southern Lebanon."
+    },
+    {
+      "id": "4909028",
+      "time": "2026-06-01 02:17:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：我們認為俄羅斯可能在今晚或明晚使用無人機、巡航導彈和彈道導彈發動大規模襲擊。"
+    },
+    {
+      "id": "4909027",
+      "time": "2026-06-01 02:17:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達外交部：卡達國譴責以色列對黎巴嫩的持續侵略行為，以及對其南部地面的擴大性入侵。"
+    },
+    {
+      "id": "4909026",
+      "time": "2026-06-01 02:16:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡達國務部長與黎巴嫩副總理通電話。"
+    },
     {
       "id": "4909025",
       "time": "2026-06-01 02:13:49",
@@ -144594,42 +144650,6 @@
         "國際"
       ],
       "text": "以色列總理內塔尼亞胡稱，特朗普重申以色列擁有自衛權，該權利同樣適用於黎巴嫩境內行動。"
-    },
-    {
-      "id": "mkt:019e5b36-184d-7dd0-bb39-79f9714dc85f",
-      "time": "2026-05-25 02:18:37",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "【TRUMP: Iran Deal Would Be 'Good And Proper'】TRUMP Says Any Iran Deal Will Be 'Good And Proper' Vs Obama's; Deal Not Finalized, Details Unknown"
-    },
-    {
-      "id": "4897388",
-      "time": "2026-05-25 02:18:31",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【特朗普：如果我和伊朗達成協議，那將是一項不錯的協議】特朗普在社交媒體發文稱：“如果我和伊朗達成協議，那一定是一份完善且合理的協議，絕不會像奧巴馬當年簽署的那份 —— 那份協議給了伊朗鉅額資金，還為其獲取核武器鋪就了一條暢通無阻的道路。我們的協議則完全相反，但目前沒人見過這份協議，也沒人知道它的具體內容。它甚至都還沒有談完。所以別聽那些失敗者的話，他們對自己一無所知的事情妄加批評。不像我之前那些本該在多年前就解決這個問題的人，我從不籤糟糕的協議。”"
-    },
-    {
-      "id": "4897387",
-      "time": "2026-05-25 02:16:58",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：如果我和伊朗達成協議，那將是一項不錯的協議。"
-    },
-    {
-      "id": "mkt:50177413-b437-4dc1-96ef-d7307234030f",
-      "time": "2026-05-25 02:16:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Sources: Draft U.S.-Iran Deal Mirrors May 15 Ceasefire, Commits To End Hostilities In Lebanon — Saudi Alhadath"
     }
   ]
 }
