@@ -1,7 +1,37 @@
 {
-  "updated": "2026-05-31 17:48:50",
-  "count": 15857,
+  "updated": "2026-05-31 17:52:51",
+  "count": 15859,
   "items": [
+    {
+      "id": "mkt:019e7d71-661e-700f-a37c-f367aee8fdb9",
+      "time": "2026-05-31 17:50:44",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "【Guojin Securities: In volatile market, numerator-side remains the focus】Guojin Securities says the A-share market oscillated at highs this week; previously lagging coal, power and consumer sectors staged a clear rebound. In the current AI capex-driven rally, changes on the numerator side—sector and company profit dynamics—are the key drivers of market rotation rather than denominator-side liquidity. Example: the electronics sector saw last quarter turnover concentration at historical highs and its profit share of All-A returned to peak levels; its marginal contribution to 2026Q1 All-A profit growth reached about 15%, making concentrated trading a rational response to marginal signals. Looking ahead, with global financial asset expansion possibly already turning, market rotation will be driven by numerator changes not denominator changes. Implications: 1) tech subsectors lacking cyclical profit-growth support are unlikely rotation targets; 2) for traditional sectors, improving profit expectations remain the basis for a bottoming and recovery."
+    },
+    {
+      "id": "4908784",
+      "time": "2026-05-31 17:49:23",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【國金證券：市場震盪期，分子端仍是關注點】國金證券研報表示，本週A股高位震盪，前期漲幅相對落後的煤炭、電力及消費板塊出現明顯反彈。在本輪以AI資本開支為驅動的行情中，分子端的變化正是決定市場轉換的核心因素，以更能體現本輪硬體行情的電子板塊為例：儘管過去一個季度電子行業成交額集中度處於歷史最高水平，而其利潤佔全 A 的比例同樣回到歷史高位，對2026Q1全A利潤增長的邊際貢獻達到15%，市場過去的交易集中正是對於邊際資訊的集中反饋，因此具有合理性。展望未來，在全球金融資產擴張可能已經出現轉向的背景下，市場輪動的核心在分子端不在分母端：這意味著：第一，同處科技賽道但是缺乏週期性利潤增長支撐的板塊，很難是切換的方向；第二，對於傳統行業而言，利潤改善預期仍然是低位向上的基礎。"
+    },
+    {
+      "id": "4908783",
+      "time": "2026-05-31 17:49:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【隨手投遞就能換錢 北京約七成小區佈設便民回收裝置】本週是第四屆全國城市生活垃圾分類宣傳週。生活垃圾中有30%～40%是可以作為可回收物重複利用的。為提高這些可回收物的利用價值，近年來，各地都做了很多實踐。北京在實現小區垃圾桶全覆蓋的基礎上，大力佈設便民回收裝置，目前已有約70%的居住小區完成佈設，市民隨手一扔就能換錢，讓可回收物真正變廢為寶。（央視新聞）"
+    },
     {
       "id": "4908782",
       "time": "2026-05-31 17:45:37",
@@ -143990,14 +144020,6 @@
         "國際"
       ],
       "text": "市場訊息： 一名以色列外交訊息人士透露，美國總統特朗普已明確表態，將堅持要求徹底拆除伊朗核計劃。"
-    },
-    {
-      "id": "4897040",
-      "time": "2026-05-24 17:51:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國向以色列通報霍爾木茲海峽通航重啟框架及全面伊朗協議的談判進展。以色列總理內塔尼亞胡告知特朗普，以色列將保留應對威脅的行動自主權。特朗普則重申要求瓦解伊朗核計劃。"
     }
   ]
 }
