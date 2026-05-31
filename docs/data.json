@@ -1,7 +1,45 @@
 {
-  "updated": "2026-05-31 22:56:37",
-  "count": 15926,
+  "updated": "2026-05-31 23:00:36",
+  "count": 15928,
   "items": [
+    {
+      "id": "mkt:019e7e8b-8c80-700f-a37e-c819e861199e",
+      "time": "2026-05-31 22:58:55",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "NVDA.O",
+        "Impact bullish",
+        "MSFT.O",
+        "AMZN.O"
+      ],
+      "text": "【Guotai Haitong maintains overweight on overseas AI compute and applications supply chain】Guotai Haitong maintains an overweight rating on the overseas AI compute and applications supply chain. The report says OpenAI and Anthropic’s rapid growth both validates expanding AI model capability and is lifting demand across the AI industry chain. Recommended focuses: (1) hardware suppliers supporting compute expansion — GPU/ASIC, CPU, storage, advanced process nodes and packaging, and semiconductor equipment; (2) cloud providers and infrastructure platforms hosting AI workloads and distributing models; (3) application companies able to deliver full-ecosystem, full-scenario deployments."
+    },
+    {
+      "id": "4908947",
+      "time": "2026-05-31 22:58:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "得州總檢察長帕克斯頓向媒體表示，他本週將與美國參議院多數黨領袖圖恩會面。"
+    },
+    {
+      "id": "mkt:019e7e89-0ffc-700f-a37e-c2afb010bacb",
+      "time": "2026-05-31 22:56:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CBS News reports that as of Sunday morning mediators were still discussing a US–Iran memorandum of understanding."
+    },
+    {
+      "id": "4908946",
+      "time": "2026-05-31 22:56:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國泰海通：維持海外AI算力及應用產業鏈“增持”評級】國泰海通維持海外AI算力及應用產業鏈“增持”評級。其研報指出，OpenAI及Anthropic的超高速增長，一方面驗證了AI模型的能力邊界持續擴張，另一方面帶動了全AI產業鏈的需求上行。建議重點關注三類方向：（1）受益於OpenAI及全球頭部模型廠商算力擴張的 GPU/ASIC、CPU、儲存、先進製程及先進封裝、半導體裝置等硬體供應鏈；（2）承接AI工作負載和模型分發的雲廠商及基礎設施平臺；（3）具備全生態、全場景落地能力的應用公司。"
+    },
     {
       "id": "mkt:019e7e86-288d-700f-a37e-b8cd708d32d9",
       "time": "2026-05-31 22:53:01",
@@ -144650,22 +144688,6 @@
         "國際"
       ],
       "text": "以色列總理內塔尼亞胡：同意特朗普的觀點，伊朗不會擁有核武器。"
-    },
-    {
-      "id": "4897229",
-      "time": "2026-05-24 22:58:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普在社交平臺上轉發伊朗總統佩澤希基關於伊朗承諾不會發展核武器的表態。"
-    },
-    {
-      "id": "4897228",
-      "time": "2026-05-24 22:57:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：阿曼與伊朗官員舉行會晤，依據國際法討論了霍爾木茲海峽航行自由的管轄原則。"
     }
   ]
 }
