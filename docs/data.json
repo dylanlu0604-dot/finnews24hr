@@ -1,7 +1,65 @@
 {
-  "updated": "2026-06-01 02:42:10",
-  "count": 15923,
+  "updated": "2026-06-01 02:56:42",
+  "count": 15919,
   "items": [
+    {
+      "id": "mkt:019e7f5f-e068-700f-a380-1ba0080bbcfb",
+      "time": "2026-06-01 02:50:50",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Israeli Broadcasting Authority, citing sources, reported Israel will not withdraw troops while threats persist in southern Lebanon."
+    },
+    {
+      "id": "4909044",
+      "time": "2026-06-01 02:50:27",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "歐盟正考慮暫時暫停調整對俄石油價格上限機制。眼下各方擔憂，伊朗局勢動盪、霍爾木茲海峽實際通航受阻，或將引發燃油供應短缺。"
+    },
+    {
+      "id": "4909043",
+      "time": "2026-06-01 02:47:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "匈牙利總統表示拒絕總理毛焦爾要求其辭職的訴求。"
+    },
+    {
+      "id": "mkt:019e7f5c-b694-700f-a380-1145c09b5758",
+      "time": "2026-06-01 02:47:22",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "CENTCOM said as of May 31, US forces' blockade operations targeting Iran have forced 118 commercial vessels to alter course."
+    },
+    {
+      "id": "4909042",
+      "time": "2026-06-01 02:45:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "【馬克龍：黎南局勢升級“毫無正當理由”】法國總統馬克龍5月31日在社交媒體發文表示，當前黎巴嫩南部局勢持續升級“毫無正當理由”，當務之急是美國和伊朗儘快達成協議。據法國媒體報道，應法國請求，聯合國安理會定於美東時間6月1日下午就以色列擴大在黎巴嫩軍事行動召開緊急會議。（新華社）"
+    },
+    {
+      "id": "4909041",
+      "time": "2026-06-01 02:44:50",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "據伊朗塔斯尼姆通訊社報道，伊朗官方否認總統佩澤希齊揚辭職的相關訊息，稱總統仍在全力處理國家事務。"
+    },
     {
       "id": "4909040",
       "time": "2026-06-01 02:35:32",
@@ -144592,92 +144650,6 @@
         "國際"
       ],
       "text": "特朗普期望戰後促成穆斯林國家領導人與以色列謀求達成和平協議，在週六同部分阿拉伯及穆斯林國家領導人通話，並表示將派遣特使跟進《亞伯拉罕協議》相關事務。"
-    },
-    {
-      "id": "4897399",
-      "time": "2026-05-25 02:54:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普指示特使跟進《亞伯拉罕協議》相關事宜。"
-    },
-    {
-      "id": "mkt:019e5b57-2916-7882-93e7-eaf22cecd2de",
-      "time": "2026-05-25 02:54:41",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Shenzhou-23 Completes Autonomous Rapid Docking To China Space Station Tianhe Module】China Manned Space Agency: Shenzhou-23 entered orbit and docked at Tianhe core module radial port at 2026-05-25 02:45 Beijing Time; docking sequence lasted ~3.5 hrs; 3 crew to transfer into Tianhe; Shenzhou-21 crew ready to receive."
-    },
-    {
-      "id": "mkt:019e5b54-f5dc-7882-93e7-e31c1861479e",
-      "time": "2026-05-25 02:52:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Trump Urges Muslim Leaders To Join Abraham Accords If Iran War Ends】Axios: On Saturday call Trump told Arab and Muslim leaders he wants them to sign Abraham Accords if Iran war ends; targeting Saudi‑Israel deal; will call NETANYAHU; Kushner, Witkoff to follow up; participants reportedly surprised, brief silence"
-    },
-    {
-      "id": "4897398",
-      "time": "2026-05-25 02:50:34",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "【神23成功對接空間站】神舟二十三號載人飛船成功對接於空間站天和核心艙徑向埠。（新華社）"
-    },
-    {
-      "id": "mkt:019e5b52-f7f7-7882-93e7-dbd601390187",
-      "time": "2026-05-25 02:50:18",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "China Shenzhou-23 Crewed Spacecraft Docks At Tianhe Core Module Radial Port"
-    },
-    {
-      "id": "4897397",
-      "time": "2026-05-25 02:48:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美談判人員認為伊最高領袖已認可協議整體框架】特朗普政府一名高階官員表示，美方談判人員認為伊朗最高領袖已認可和平協議的整體框架。依據該框架，伊朗原則上同意處置高濃縮鈾。這名官員表示：“伊朗將開放海峽，換取我方解除封鎖，同時原則上同意處理高濃縮鈾。”這份協議有望讓歷經數月衝突的霍爾木茲海峽恢復商業通航。目前雙方仍在磋商協議措辭，最終敲定還需數日時間。"
-    },
-    {
-      "id": "mkt:019e5b4e-3911-7882-93e7-d1732dce9372",
-      "time": "2026-05-25 02:45:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US Sec Of State Pledges Full Support To Lebanese Govt"
-    },
-    {
-      "id": "4897396",
-      "time": "2026-05-25 02:44:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美伊協議重點在於“結束地區戰爭”】美國訊息人士稱，美伊協議包含5月15日與停火相關的相同條款，包含結束黎巴嫩敵對行動的承諾。以色列已通知華盛頓，與德黑蘭的任何協議必須保障其在黎巴嫩的行動自由。華盛頓與德黑蘭的協議草案不包含解除黎巴嫩“真主黨”武裝，協議重點在於“結束地區戰爭”，該協議包含重新開放霍爾木茲海峽以及伊朗放棄濃縮鈾。"
-    },
-    {
-      "id": "mkt:019e5b4d-a782-7882-93e7-cc935cabdd7b",
-      "time": "2026-05-25 02:44:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US Secretary Of State Says Lebanon Government Working To Restore, Rebuild, Secure Aid"
-    },
-    {
-      "id": "mkt:019e5b4b-9a96-7882-93e7-c3ddf2201a5f",
-      "time": "2026-05-25 02:42:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Secretary Of State Condemns Hezbollah Call To Oust Lebanon's Elected Government"
     }
   ]
 }
