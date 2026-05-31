@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-01 04:01:41",
-  "count": 15914,
+  "updated": "2026-06-01 04:05:33",
+  "count": 15913,
   "items": [
+    {
+      "id": "4909059",
+      "time": "2026-06-01 04:03:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯官員稱，俄控赫爾松地區發生無人機襲擊事件，造成1名兒童死亡，11人受傷。"
+    },
     {
       "id": "4909058",
       "time": "2026-06-01 03:58:52",
@@ -144564,25 +144572,6 @@
         "其他"
       ],
       "text": "【塞內加爾國民議會議長宣佈辭職】當地時間5月24日，塞內加爾國民議會議長馬利克·恩迪亞耶宣佈辭去國民議會議長職務。恩迪亞耶在辭職宣告中表示，經過深思熟慮，他基於對國家機構、公共責任和國家最高利益的考量，決定辭去這一職務。（央視新聞）"
-    },
-    {
-      "id": "mkt:019e5b95-8c08-7882-93e8-450312baee0d",
-      "time": "2026-05-25 04:02:45",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【HEZBOLLAH Deputy Warns Disarmament Would Trigger Gradual Israeli Occupation Of Lebanon】HEZBOLLAH Deputy Leader Naim Qassem on Al-Manar: any attempt to disarm HEZBOLLAH will lead to its elimination and gradual Israeli occupation; Israel aims to destroy 'resistance' and absorb Lebanon into 'Greater Israel'; HEZBOLLAH will remain on battlefield until Israeli withdrawal; displaced south Lebanon residents to return."
-    },
-    {
-      "id": "4897417",
-      "time": "2026-05-25 04:02:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【黎真主黨：解除武裝將導致黎巴嫩被逐步佔領】黎巴嫩真主黨領導人納伊姆·卡西姆24日在黎真主黨旗下燈塔電視臺發表電視講話表示，任何試圖解除該組織武裝的行為，都將導致真主黨被“消滅”、黎巴嫩被逐步佔領。（新華社）"
     }
   ]
 }
