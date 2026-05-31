@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-01 04:50:31",
+  "updated": "2026-06-01 04:54:23",
   "count": 15915,
   "items": [
+    {
+      "id": "4909072",
+      "time": "2026-06-01 04:52:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "一名官員透露，過去三週，美軍已暗中協助約70艘商船通行霍爾木茲海峽。"
+    },
     {
       "id": "mkt:019e7fc9-f84c-700f-a380-b4954b82fe47",
       "time": "2026-06-01 04:46:43",
@@ -144597,14 +144605,6 @@
         "Impact bearish"
       ],
       "text": "LAGARDE: ECB May Revise Inf Outlook In June"
-    },
-    {
-      "id": "mkt:019e5bc4-8652-7882-93e8-88866cce9246",
-      "time": "2026-05-25 04:54:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iran Denies Tying Release Of Frozen Funds To Transfer Of Enriched Uranium; Key Gaps With US Remain】Iran Denies Link Between Frozen Assets Release And Export Of Enriched Uranium; Demands Immediate Full Access To Partially Frozen Assets Upon Any Deal; No Final Agreement With US, Key Differences Persist After Indirect Talks Via Pakistan; Iran Will Retain Leverage If US Fails To Deliver"
     }
   ]
 }
