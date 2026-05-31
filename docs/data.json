@@ -1,7 +1,47 @@
 {
-  "updated": "2026-05-31 09:10:10",
-  "count": 15866,
+  "updated": "2026-05-31 09:14:01",
+  "count": 15868,
   "items": [
+    {
+      "id": "mkt:019e7b96-f59b-7bb7-996b-f33f9971fb77",
+      "time": "2026-05-31 09:12:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to Fox News, Trump said his sole, fundamental guarantee is to prevent Iran from obtaining nuclear weapons; he said Iranians have agreed not to develop or acquire such weapons."
+    },
+    {
+      "id": "mkt:019e7b96-7725-7bb7-996b-e8cef1d37a52",
+      "time": "2026-05-31 09:11:58",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Fox News: Trump said the best diplomatic option is to sign an agreement, as that would immediately reopen navigation through the Strait of Hormuz."
+    },
+    {
+      "id": "mkt:019e7b96-5c7e-7bb7-996b-e051e883db80",
+      "time": "2026-05-31 09:11:52",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "According to Fox News, Trump said an agreement with Iran is very close and that the United States would use military force again if the deal were unfair."
+    },
+    {
+      "id": "4908526",
+      "time": "2026-05-31 09:11:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：烏克蘭無人機襲擊俄羅斯薩拉托夫煉油廠。"
+    },
     {
       "id": "4908525",
       "time": "2026-05-31 09:07:43",
@@ -143873,22 +143913,6 @@
         "國際"
       ],
       "text": "【烏無人機襲擊扎波羅熱核電站運輸車間 無人傷亡】當地時間23日，扎波羅熱核電站釋出訊息稱，記錄到至少10架烏軍無人機來襲事件，該核電站運輸車間的8輛大巴受損。暫無人員傷亡。對此，烏克蘭方面暫無回應。（央視新聞）"
-    },
-    {
-      "id": "4896695",
-      "time": "2026-05-24 09:11:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "【高鐵行李架上掉下一條蛇？官方：系旅客攜帶的一條鰻魚】南寧客運段5月23日晚通報，近日，該段針對網傳“高鐵行李架上掉下一條蛇”資訊進行了核查，經調看監控影片和問詢相關人員後查明，5月17日，在該段值乘的D195次列車上，9車3B座位上的旅客攜帶的一條鰻魚，因袋子封閉不嚴，在列車執行至義烏至金華區間時，從袋子中爬出並掉到其身上，該旅客迅速將鰻魚放回袋中並密封，後將裝有鰻魚的袋子放置在車廂連線處，在列車抵達衡陽站時，該旅客攜帶袋子下車。期間，未對他人造成影響。"
-    },
-    {
-      "id": "4896694",
-      "time": "2026-05-24 09:11:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "【安徽釋出暴雨黃色預警】安徽省氣象臺2026年05月24日09時00分發布暴雨黃色預警。預計未來24小時，六安、合肥南部、滁州南部、安慶、銅陵、蕪湖、馬鞍山、池州、宣城、黃山等地有暴雨（70-90毫米），局地有大暴雨（150毫米以上），並伴有短時強降水（最大雨強60-80毫米/小時）和雷雨大風等強對流天氣。"
     }
   ]
 }
