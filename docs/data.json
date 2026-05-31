@@ -1,7 +1,61 @@
 {
-  "updated": "2026-06-01 07:52:43",
-  "count": 15939,
+  "updated": "2026-06-01 07:56:31",
+  "count": 15945,
   "items": [
+    {
+      "id": "4909201",
+      "time": "2026-06-01 07:55:51",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【招商證券：判斷6月A股仍處盈利驅動的上行第三階段】招商證券研報稱，判斷6月A股仍處盈利驅動的上行第三階段，一季報驗證的非金融盈利增速觸底回升呈現鮮明的K型分化特徵，景氣彈性集中在上游資源品、TMT半導體及部分出口中高階製造，消費與地產鏈仍在磨底；外部維度美伊衝突緩和推動油價回落，疊加美聯儲新任主席首次議息會議的“鷹派預期”靴子落地，全球流動性壓力邊際鬆動，不構成趨勢擾動；產業端AI已從算力軍備敘事轉向商業化落地提速，DeepSeek V4適配國產算力、海外雲廠資本開支向儲存/互連環節擴散等訊號，支撐主線景氣持續性；資金面雖受ETF持續淨流出等帶來階段性流動性擾動，但融資餘額穩步流入、結構性增量特徵未改，僅推動主線內部優勝劣汰而非趨勢逆轉。"
+    },
+    {
+      "id": "4909200",
+      "time": "2026-06-01 07:55:32",
+      "tags": [
+        "央行"
+      ],
+      "text": "【本週中國央行公開市場將有9089億元逆回購到期】其中，週一至週五分別到期2580億元、2490億元、1776億元、1013億元、1230億元。此外，週五還有8000億元3個月期買斷式逆回購到期。"
+    },
+    {
+      "id": "4909199",
+      "time": "2026-06-01 07:54:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "普雷賽德工作室：喪失Meta合約預計將使其2027財年收入減少約400萬澳元。"
+    },
+    {
+      "id": "4909198",
+      "time": "2026-06-01 07:54:43",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀突破76美元/盎司，日內漲0.17%。"
+    },
+    {
+      "id": "4909197",
+      "time": "2026-06-01 07:54:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞影片遊戲開發商兼發行商普萊賽德工作室：Meta將於2026年7月31日終止與普萊賽德的《Horizon Worlds》相關合作協議。"
+    },
+    {
+      "id": "te:markets:555097",
+      "time": "2026-06-01 07:54:20",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Edge Higher to Start the Month — US stock futures moved modestly higher on Monday as June trading got underway, with the major indexes remaining near record levels. Wall Street wrapped up a strong May performance, with the Dow advancing 2.79%, while the S&P 500 and Nasdaq Composite climbed 5.15% and 8.36%, respectively. Technology shares continued to drive gains, supported by persistent enthusiasm surrounding artificial intelligence-related investments. Market sentiment also benefited from a solid earnings season, with roughly 85% of S&P 500 companies reporting first-quarter results above expectations. Meanwhile, the US and Iran agreed to a 60-day memorandum of understanding to maintain the ceasefire, although negotiations on a broader and more permanent peace agreement are still ongoing. Investors are now focused on the upcoming nonfarm payrolls report, which could provide important clues about labor market conditions and the future direction of Federal Reserve policy."
+    },
     {
       "id": "4909196",
       "time": "2026-06-01 07:51:54",
@@ -21,6 +75,15 @@
         "Impact bullish"
       ],
       "text": "Japan's Ministry of Finance said corporate ordinary profit rose 14.6% YoY in Jan-Mar."
+    },
+    {
+      "id": "em:jjsj_rbsj:202606013755281966",
+      "time": "2026-06-01 07:50:52",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本第一季度資本支出同比持平，預估為4.0%。"
     },
     {
       "id": "mkt:019e8072-5c94-700f-a381-9450031f7874",
@@ -144844,16 +144907,6 @@
         "市場"
       ],
       "text": "按經週期調整後的市盈率衡量，標普500指數當前估值為40.8倍。這一指標由耶魯大學經濟學家羅伯特.席勒(Robert Shiller)推廣開來，他因在資產價格方面的研究於2013年獲得諾貝爾經濟學獎。在席勒長達145年的資料記錄中，該指標唯一一次突破40大關，還是在2000年初網際網路泡沫見頂前後的那幾年。"
-    },
-    {
-      "id": "4897549",
-      "time": "2026-05-25 07:56:04",
-      "tags": [
-        "資料",
-        "市場",
-        "國際"
-      ],
-      "text": "【美國股市迎史上高光時刻 消費者信心卻從未如此低迷】美國人的情緒顯然很糟，但股市明顯不是這樣。通常情況並非如此。回顧歷史，高股價往往與心情愉悅的消費者相伴而生，反之亦然。消費者信心到底有多糟？美國人的情緒剛剛創下某種里程碑。上週五，密歇根大學(University of Michigan)報告稱，其消費者信心指數降至70多年調查歷史上的最低水平。今年年初，消費者信心已然處於低位；2月底伊朗戰爭爆發，導致汽油價格飆升，這一指標隨之大幅下挫。在今年之前，該指數前一個最低點出現在2022年6月，當時通脹率正處於數十年來的最高水平。而週五公佈的消費者信心讀數，甚至比當時的低點還要低出10%。“物價依然極高，勞動力市場在過去四年裡已明顯走弱，而且現在我們正處於一場戰爭之中”，密歇根大學消費者調查主任Joanne Hsu說。“我不認為該指數跌破2022年6月的水平會讓人感到意外。”然而，單看股市表現，同樣在週五，標普500指數實現連續第八週上漲，道瓊斯指數則連續第二個交易日創下收盤歷史新高。"
     }
   ]
 }
