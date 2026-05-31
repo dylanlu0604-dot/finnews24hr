@@ -1,7 +1,31 @@
 {
-  "updated": "2026-06-01 03:04:42",
-  "count": 15919,
+  "updated": "2026-06-01 03:08:31",
+  "count": 15921,
   "items": [
+    {
+      "id": "mkt:019e7f6f-8ade-700f-a380-34bf1181386c",
+      "time": "2026-06-01 03:07:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran may revise draft memorandum, Iranian media say】Iranian media report Tehran may make new revisions to a draft memorandum of understanding. U.S. media had reported Trump proposed further changes to the existing text. A source said text exchanges continue and Iran may submit its own edits; nothing is settled. The source added that Trump’s proposed edits do not imply Iranian acceptance and that Tehran is prepared for potential misunderstandings."
+    },
+    {
+      "id": "4909048",
+      "time": "2026-06-01 03:07:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗塔斯尼姆通訊社援引訊息人士：伊朗將在與美國的會談中對諒解備忘錄草案文字提出新修正條款。"
+    },
+    {
+      "id": "4909047",
+      "time": "2026-06-01 03:05:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍士兵涉嫌偽造理由逮捕巴勒斯坦兒童】據以色列方面5月31日訊息，一段在社交媒體上流傳的影片顯示，以色列士兵涉嫌偽造理由逮捕巴勒斯坦兒童。影片中，幾名以色列士兵涉嫌強迫一名巴勒斯坦男孩舉起巴勒斯坦旗幟，並在一支槍械旁站立。隨後，該男孩被要求面向牆壁舉起雙手接受檢查。影片中可見至少三名士兵，其中一人用手機進行拍攝。媒體報道稱，這顯然是在為逮捕這名兒童製造理由。（央視新聞）"
+    },
     {
       "id": "4909046",
       "time": "2026-06-01 03:01:55",
@@ -144643,14 +144667,6 @@
         "MKT News"
       ],
       "text": "Sky News Arabia: Rubio Says 7-8 Countries Back Negotiation Track, US Ready To Advance"
-    },
-    {
-      "id": "4897404",
-      "time": "2026-05-25 03:05:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美官員：美伊雙方談判已完成“95%” 高濃縮鈾問題是關鍵】特朗普政府一名高階官員稱，除非伊朗放棄其高濃縮鈾，否則美國不會與伊朗簽署任何協議。該官員稱“無核塵，無協議”，這裡的 “核塵” 正是特朗普總統所稱的高濃縮鈾。這名官員表示，美伊雙方談判已完成“95%”，原則上已就涵蓋 “核庫存” 與 “霍爾木茲海峽” 的框架達成一致，但仍在磋商具體措辭。"
     }
   ]
 }
