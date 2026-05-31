@@ -1,7 +1,49 @@
 {
-  "updated": "2026-05-31 22:28:46",
-  "count": 15929,
+  "updated": "2026-05-31 22:32:47",
+  "count": 15932,
   "items": [
+    {
+      "id": "mkt:019e7e71-6738-700f-a37e-b063dde52527",
+      "time": "2026-05-31 22:30:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel Defense Forces (IDF) said that after alarms sounded across northern Israel, several artillery shells were found in open areas of southern Lebanon."
+    },
+    {
+      "id": "4908941",
+      "time": "2026-05-31 22:30:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍通報，以色列北部多個區域拉響敵機入侵防空警報。"
+    },
+    {
+      "id": "4908940",
+      "time": "2026-05-31 22:28:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "【白宮經濟主任呼籲公眾理性看待經濟資料波動】白宮國家經濟委員會主任哈塞特週日表示，媒體對經濟新聞的報道方式往往會讓人們過度關注到某一特定時刻所存在的最嚴重問題。哈塞特在出席電視節目時說：“我在白宮注意到的一點是，只要是某項消費價格資料看起來有點令人失望，我們就只談論這一項。”他就汽油價格及其對通脹影響的問題作出上述表態。哈塞特表示，每個人都應著眼全域性，而不僅僅是能源價格或經濟中某個暫時遇到困難的領域。“你應該做的是從容看待這些漲跌，關注實際工資的變化情況。”他說，“如果你仔細觀察，就會發現由於就業人數增加、股市上漲，企業利潤豐厚，這正在轉化為薪資水平的提高。”"
+    },
+    {
+      "id": "mkt:019e7e6f-a384-700f-a37e-aba11a4df002",
+      "time": "2026-05-31 22:28:25",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "【White House NEC director Hassett urges measured reaction to economic data swings】White House National Economic Council director Hassett told ABC's This Week that media coverage tends to fixate on isolated disappointing consumer-price readings, citing gasoline. He urged markets to focus on the broader picture and changes in real wages, saying employment gains, stock-market strength and healthy corporate profits are translating into higher pay and that short-term price swings should be taken in stride."
+    },
+    {
+      "id": "4908939",
+      "time": "2026-05-31 22:28:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗議會國家安全委員會成員科薩里：伊美之間旨在結束戰事的談判仍在進行，但不會取得任何成果。雙方尚未達成最終協議，我們清楚談判不會有結果。核問題已不再列入伊美談判議程。伊朗目前的談判議題包括避免衝突再起、賠償事宜、美軍撤出該地區以及解除海上封鎖。已有多個國家認可伊朗對該海峽的管控權。"
+    },
     {
       "id": "4908938",
       "time": "2026-05-31 22:27:20",
@@ -144670,22 +144712,6 @@
         "國際"
       ],
       "text": "以色列總理內塔尼亞胡：伊朗永遠無法擁有核武器。"
-    },
-    {
-      "id": "4897213",
-      "time": "2026-05-24 22:30:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "【阿富汗首都喀布林發生槍擊事件 4人死亡】當地時間24日，阿富汗首都喀布林警方發言人哈立德·扎德蘭釋出訊息稱，當天14時左右，喀布林的一家貨幣兌換市場附近發生了一起槍擊事件，造成四人死亡。死者包括阿富汗前議員古爾·穆賈希德的一個兒子、他的一名保鏢以及兩名平民。扎德蘭補充說，目前已有兩人因涉嫌該事件被捕，初步資訊顯示該事件是由個人恩怨引起的，警方的調查目前仍在進行中。（央視新聞）"
-    },
-    {
-      "id": "4897212",
-      "time": "2026-05-24 22:29:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普稱美伊談判有序推進】最新訊息：美國總統特朗普今天（5月24日）在社交媒體平臺上發文稱，目前美國與伊朗的談判正在“有序且富有建設性”地推進。他已告知美方代表“不要急於達成協議”，因為“時間站在美國一邊”。特朗普還表示，在協議達成、獲得認證並簽署之前，對伊朗的封鎖措施將繼續全面生效。特朗普稱，美伊雙方都必須保持耐心，“不能犯任何錯誤”。他還表示，美伊關係正變得“更加專業且更具成效”，但伊朗必須明白，“不能發展或獲取核武器或核彈”。 特朗普還感謝中東各國迄今為止提供的支援與合作。（CCTV國際時訊）"
     }
   ]
 }
