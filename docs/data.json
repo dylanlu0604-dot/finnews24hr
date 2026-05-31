@@ -1,7 +1,27 @@
 {
-  "updated": "2026-05-31 12:20:36",
-  "count": 15880,
+  "updated": "2026-05-31 12:24:37",
+  "count": 15881,
   "items": [
+    {
+      "id": "mkt:019e7c44-c2d7-7bb7-996c-f8ee224e875d",
+      "time": "2026-05-31 12:22:21",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Israel says it has crossed the Litani River, advancing operations to north bank against HEZBOLLAH】On the morning of May 31 local time the Israel Defense Forces said it had crossed the Litani River and pushed military operations against HEZBOLLAH targets to the river's north bank, saying the scope of operations was continuing to expand."
+    },
+    {
+      "id": "4908593",
+      "time": "2026-05-31 12:21:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍稱已渡過利塔尼河 將對黎真主黨軍事行動推進至河北岸區域】當地時間5月31日上午，以色列國防軍在社交媒體上發文稱，以色列國防軍已渡過利塔尼河，將針對黎巴嫩真主黨目標的軍事行動推進至河北岸區域，且行動範圍仍在持續擴大。（央視新聞）"
+    },
     {
       "id": "4908592",
       "time": "2026-05-31 12:16:59",
@@ -144083,14 +144103,6 @@
         "國際"
       ],
       "text": "特朗普：持槍者在白宮大門附近與特勤局人員交火後身亡。"
-    },
-    {
-      "id": "4896785",
-      "time": "2026-05-24 12:22:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國民生銀行闢謠平臺上線】記者日前從中國民生銀行獲悉，該行在中央網信辦違法和不良資訊舉報中心指導下，於近日上線運營官方闢謠微信公眾號“中國民生銀行闢謠平臺”。 記者瞭解到，該官方闢謠公眾號上線後，將重點聚焦銀行業及金融領域的典型謠言，及時釋出權威闢謠資訊與核實指引，切實為金融安全築牢防護屏障。（金融時報客戶端）"
     }
   ]
 }
