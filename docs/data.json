@@ -1,7 +1,19 @@
 {
-  "updated": "2026-06-01 05:05:49",
-  "count": 15914,
+  "updated": "2026-06-01 05:09:31",
+  "count": 15913,
   "items": [
+    {
+      "id": "mkt:019e7fdd-a9b7-700f-a380-c03c42185c81",
+      "time": "2026-06-01 05:08:13",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【US quietly guided about 70 merchant vessels through Strait of Hormuz over three weeks】CENTCOM guided roughly 70 merchant vessels through the Strait of Hormuz over the past three weeks as negotiations to end the Iran war remain stalled, US officials said. To avoid detection most ships operated with AIS transponders switched off. Officials declined to specify vessel types or exact routes but said at least one corridor was routed well away from the Iranian coast; maritime analysts say convoys favored routes nearer Oman. US officials warned vessels approaching Iran without permission are highly likely to be targeted by Iranian drones or missiles."
+    },
     {
       "id": "4909076",
       "time": "2026-06-01 05:01:23",
@@ -144568,26 +144580,6 @@
         "Japan & APAC"
       ],
       "text": "【Japan FSA Urges Firms To Deploy Cash For Growth Not Shareholder Payouts】Japan FSA Senior Official Tatsufumi Shibat Urges Use Of Cash, Cross Holdings And Real Estate To Fund Expansion; PM TAKAICHI Pushes Rechanneling Of Household And Corporate Wealth"
-    },
-    {
-      "id": "4897433",
-      "time": "2026-05-25 05:06:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "世界衛生組織總幹事譚德塞：剛果埃博拉疫情應對工作迄今已發現900多例疑似病例，其中包括101例確診病例。"
-    },
-    {
-      "id": "mkt:019e5bcf-965c-7882-93e8-b43fcae0215a",
-      "time": "2026-05-25 05:06:25",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "USD/JPY Breaks Below 159; Down 0.25% Intraday"
     }
   ]
 }
