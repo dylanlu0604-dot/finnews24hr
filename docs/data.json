@@ -1,7 +1,35 @@
 {
-  "updated": "2026-06-01 06:28:07",
-  "count": 15916,
+  "updated": "2026-06-01 06:31:56",
+  "count": 15918,
   "items": [
+    {
+      "id": "mkt:019e8029-7c9d-700f-a381-3e5213cb1d52",
+      "time": "2026-06-01 06:31:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Colombia to hold presidential runoff】On May 31 local time, Colombia's National Civil Registry said a preliminary tally of 95.12% of ballots showed no candidate secured more than 50% of the vote, triggering a second-round presidential vote."
+    },
+    {
+      "id": "4909115",
+      "time": "2026-06-01 06:30:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【哥倫比亞將舉行總統選舉第二輪投票】當地時間5月31日，哥倫比亞國家民事登記處公佈的對95.12%選票初步計票結果顯示，沒有候選人在31日舉行總統選舉投票中獲得超過半數的選票，總統選舉將舉行第二輪投票。（央視新聞）"
+    },
+    {
+      "id": "mkt:019e8027-d3f7-700f-a381-331125670340",
+      "time": "2026-06-01 06:29:14",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "【Oil rebounds from six-week low as US‑Iran deal prospects remain unclear】Oil pared losses and WTI jumped about 2.0% early Monday to $92.07/bbl as prospects for a US‑Iran peace deal stayed uncertain. Washington and Tehran exchanged messages over the weekend seeking to amend a draft agreement to extend a ceasefire and reopen the Strait of Hormuz, but it was unclear whether substantive progress was made. Earlier optimism that a deal would restore energy flows through the strait had driven crude’s first monthly decline of the year. An economist warned neither side is likely to concede on core, pre‑war issues — nuclear program, control of the Strait of Hormuz, ballistic missiles and sanctions — and said prices will remain sensitive to local developments and leaders’ remarks."
+    },
     {
       "id": "mkt:019e8024-ce00-700f-a381-2b8fc9fa30f1",
       "time": "2026-06-01 06:25:55",
@@ -144626,14 +144654,6 @@
         "焦點"
       ],
       "text": "現貨黃金突破4560美元/盎司，日內漲1.18%。"
-    },
-    {
-      "id": "4897481",
-      "time": "2026-05-25 06:30:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "訊息人士稱，儘管美伊雙方藉助巴基斯坦斡旋保持間接溝通，但伊朗對美國仍抱有極大疑慮。目前尚未達成最終共識，多項條款依舊存在分歧。"
     }
   ]
 }
