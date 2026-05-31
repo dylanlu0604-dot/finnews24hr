@@ -1,7 +1,38 @@
 {
-  "updated": "2026-05-31 09:17:48",
-  "count": 15870,
+  "updated": "2026-05-31 09:21:37",
+  "count": 15871,
   "items": [
+    {
+      "id": "mkt:019e7b9d-db00-7bb7-996c-10b1e71005ed",
+      "time": "2026-05-31 09:20:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact mixed",
+        "CSI300",
+        "Copper"
+      ],
+      "text": "China's official manufacturing PMI for May due in 10 minutes."
+    },
+    {
+      "id": "mkt:019e7b9d-352b-7bb7-996c-0b88336ecb72",
+      "time": "2026-05-31 09:19:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China NHSA issues 2026 drug‑list adjustment plan and related rules】The National Healthcare Security Administration (NHSA) today released the 2026 adjustment work plan for the national basic medical insurance, maternity insurance and work‑injury insurance drug list and for the commercial health insurance innovative drug list. NHSA also published the 2026 application guide for the adjustments, rules for renewal of negotiated drugs, competitive‑bidding rules for non‑exclusive drugs, and a 2026 FAQ to aid stakeholder understanding."
+    },
+    {
+      "id": "4908529",
+      "time": "2026-05-31 09:17:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家醫保局釋出2026年國家醫保目錄調整工作方案】國家醫保局今天釋出《2026年國家基本醫療保險、生育保險和工傷保險藥品目錄及商業健康保險創新藥品目錄調整工作方案》《2026年國家基本醫療保險、生育保險和工傷保險藥品目錄及商業健康保險創新藥品目錄調整申報指南》《談判藥品續約規則》以及《非獨家藥品競價規則》。同時，為幫助社會各界加深對政策的理解，組織編制了《國家基本醫療保險、生育保險和工傷保險藥品目錄及商業健康保險創新藥品目錄調整常用問答（2026年版）》。（央視新聞）"
+    },
     {
       "id": "4908528",
       "time": "2026-05-31 09:15:49",
@@ -143914,22 +143945,6 @@
         "國際"
       ],
       "text": "美國前國務院發言人內德・普萊斯警告那些他口中挑起美伊戰事的幕後推手。他表示，倘若這場衝突最終代價慘重、遺留長久負面影響且收效甚微，主要鼓吹者必須承擔相應責任。"
-    },
-    {
-      "id": "4896699",
-      "time": "2026-05-24 09:21:07",
-      "tags": [
-        "市場"
-      ],
-      "text": "【義大利羅馬上萬人舉行反戰遊行 抗議生活成本上漲】當地時間23日，上萬義大利民眾在首都羅馬走上街頭，舉行反戰抗議示威活動，抗議地區衝突與軍備擴張帶來的能源價格高企、生活成本飆升的困境。據組織遊行的工會組織稱，當天有15000人參與了遊行，抗議人群來自義大利全國各地。遊行民眾表示，地緣緊張局勢帶來的能源價格飆升，收入停滯導致購買力下降，讓很多普通勞動者的生活難以為繼。2025年義大利向北約申報軍費開支佔國內生產總值2%，與2024年的1.54%相比有了顯著增加。對此，遊行組織者表示，在普通民眾生活壓力日益沉重的情況下，政府卻將大量資金投入軍事開支，這一做法令人無法接受。走出危機的關鍵在於將資源投入民生而非軍事，同時推動工資、退休金跟上物價，讓工業真正服務於國家需求。（央視新聞）"
-    },
-    {
-      "id": "4896698",
-      "time": "2026-05-24 09:18:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "【菲律賓一在建酒店坍塌 數十名建築工人被困】總檯記者獲悉，當地時間5月24日凌晨3時左右，菲律賓邦板牙省安赫萊斯市的一處9層在建酒店發生坍塌，據稱，有30到40名建築工人被困。（央視新聞）"
     }
   ]
 }
