@@ -1,7 +1,15 @@
 {
-  "updated": "2026-05-31 08:22:11",
+  "updated": "2026-05-31 08:26:01",
   "count": 15874,
   "items": [
+    {
+      "id": "mkt:019e7b6b-b8ad-7bb7-996b-c6d0a5dc0170",
+      "time": "2026-05-31 08:25:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Shanxi launches tough provincewide coal-mine safety rectification campaign】Shanxi held a provincial safety deployment meeting on May 30; provincial Party deputy secretary and governor Lu Dongliang attended. Authorities ordered an urgent, provincewide special rectification of coal-mine safety risks, insisting on strict implementation of the province’s \"eight hard measures\" for mine safety. The campaign will focus on mines with the most acute risks and adopt a \"zero tolerance\" stance to precisely inspect and crack down on concealed working faces, falsified safety monitoring, illegal private mining beyond layers and boundaries, unlawful subcontracting, and failures to implement major-disaster controls. The province pledged full cooperation with the State Council accident investigation to identify causes and responsibilities of local governments, industry regulators and enterprises, and to remedy weak safety culture, weak legal awareness, failures in \"key-person\" accountability, insufficient regulatory penetration and lax grassroots inspections."
+    },
     {
       "id": "4908509",
       "time": "2026-05-31 08:20:55",
@@ -143939,15 +143947,6 @@
         "國際"
       ],
       "text": "【三星海力士槓桿ETF即將上市 分析師：韓國千萬散戶需求旺盛】本週，全球表現亮眼但波動劇烈的韓國股市，即將迎來首批個股槓桿交易所交易基金。這類金融工具會同步放大投資收益與虧損。 此次推出的槓桿基金標的為三星電子與SK海力士兩隻晶片股，產品目標是實現個股單日漲跌幅兩倍的收益波動，兩家企業均是全球人工智慧產業鏈的核心企業。 分析師預計，韓國超1400萬名散戶投資者將對這類ETF產生旺盛需求。但當前韓國綜合股價指數日內5%的震盪行情愈發頻發，市場狂熱或將進一步加劇波動。 新加坡斐波那契環球資產管理執行長Jung In Yun表示：“這類基金將加劇現存的個股集中風險。股指波動率將持續居高不下，給長線投資者帶來操作難題，也成為韓國市場的結構性隱患。”"
-    },
-    {
-      "id": "4896664",
-      "time": "2026-05-24 08:23:02",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【近一週機構調研個股超1150只 瀾起科技等個股均有100家以上機構評級】近一週（5月15日至21日）機構調研個股超1150只，廈門鎢業調研機構數最多。廈門鎢業有232家機構調研，包括55家基金公司、37家證券公司、22傢俬募、15家保險公司等。瀾起科技、勝宏科技、深南電路等個股均有100家以上機構評級。百家機構調研股中，瀾起科技、深南電路、光力科技等個股近期股價創歷史新高。從市場表現來看，近一週機構調研股平均下跌0.65%，力諾藥包、密封科技、耐科裝備等個股均漲超30%。"
     }
   ]
 }
