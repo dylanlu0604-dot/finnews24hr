@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-01 06:39:34",
-  "count": 15917,
+  "updated": "2026-06-01 06:43:23",
+  "count": 15918,
   "items": [
+    {
+      "id": "4909119",
+      "time": "2026-06-01 06:42:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "舊金山一套標價299.5萬美元的房產，接受以Anthropic或OpenAI的上市前股份作為購房款。"
+    },
+    {
+      "id": "4909118",
+      "time": "2026-06-01 06:41:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "一位伊朗高階環境官員表示，向途經霍爾木茲海峽的船隻收取環境費的計劃在國際海事法中有法律依據，並且可以幫助資助波斯灣環境損害的賠償。"
+    },
     {
       "id": "mkt:019e802f-cee3-700f-a381-416d4343baf8",
       "time": "2026-06-01 06:37:57",
@@ -144631,15 +144647,6 @@
         "Importance 1"
       ],
       "text": "Crypto Updates: Ether Drops by 1.34% — Today's cryptos market is characterized by modest daily movements, with Ether standing out as the frontrunner with a -1.34% decrease."
-    },
-    {
-      "id": "4897484",
-      "time": "2026-05-25 06:42:55",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【週一重要財經資訊提醒（以下均為北京時間）】 \n① 全天 中國香港、韓國、美國金融市場因假期休市；\n② 15:00 國家衛生健康委就食品安全與營養健康舉行釋出會；\n③ 19:00 美國芝加哥聯儲主席Goolsbee（2027年FOMC票委）接受訪談。"
     }
   ]
 }
