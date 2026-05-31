@@ -1,7 +1,81 @@
 {
-  "updated": "2026-05-31 23:56:14",
-  "count": 15926,
+  "updated": "2026-06-01 00:00:47",
+  "count": 15933,
   "items": [
+    {
+      "id": "4908982",
+      "time": "2026-05-31 23:59:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "隨著6月26日交割日臨近，受機構對沖需求推動，比特幣期貨未平倉合約規模達426億美元。"
+    },
+    {
+      "id": "mkt:019e7ec1-fd10-700f-a37f-50b1fe573a97",
+      "time": "2026-05-31 23:58:22",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said economic containment of Iran is a core element of the pressure campaign."
+    },
+    {
+      "id": "mkt:019e7ec1-6ea2-700f-a37f-4ab1025edc92",
+      "time": "2026-05-31 23:57:46",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "US Treasury Secretary Bessent said restoring fee-free passage through the Strait of Hormuz would be the first indicator of Iran's commitment."
+    },
+    {
+      "id": "mkt:019e7ec1-232a-700f-a37f-4607611b8177",
+      "time": "2026-05-31 23:57:27",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "U.S. Treasury secretary said opening the Strait of Hormuz and seizing Iran's nuclear stockpile are among the objectives."
+    },
+    {
+      "id": "mkt:019e7ec0-e724-700f-a37f-3b5f927dca19",
+      "time": "2026-05-31 23:57:11",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said Iran is, for the first time in 47 years, prepared to abandon its nuclear program and that the U.S. will not accept an agreement that cannot ensure Iran is prevented from obtaining nuclear weapons."
+    },
+    {
+      "id": "mkt:019e7ec0-21a8-700f-a37f-33cb220b76ee",
+      "time": "2026-05-31 23:56:21",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said the siege of Iran and efforts to block oil exports from Kharkiv continue."
+    },
+    {
+      "id": "4908981",
+      "time": "2026-05-31 23:56:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙烏地阿拉伯4月份M3貨幣供應量同比增長10%。"
+    },
     {
       "id": "4908980",
       "time": "2026-05-31 23:55:18",
@@ -50,6 +124,14 @@
         "國際"
       ],
       "text": "美國參議員林賽·格雷厄姆：特朗普僅應接受這樣的伊朗協議——徹底終止伊朗核企圖、打通霍爾木茲海峽、遏制其對“恐怖主義”的支援。"
+    },
+    {
+      "id": "4908974",
+      "time": "2026-05-31 23:53:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議員布克預計，共和黨對特朗普立法議程的反對聲音將會加劇。"
     },
     {
       "id": "4908973",
@@ -144692,14 +144774,6 @@
         "國際"
       ],
       "text": "【阿曼與伊朗就霍爾木茲海峽航運等議題舉行磋商】當地時間24日，伊朗副外長加里巴巴迪率領外交和法律代表團訪問阿曼，並同阿曼外交大臣巴德爾舉行會晤。會晤期間，加里巴巴迪向巴德爾轉交伊朗外長阿拉格齊的口信。阿曼外交部通報稱，口信內容涉及正在透過巴基斯坦斡旋進行的伊美談判相關情況。口信還提到，兩國均重視以安全、可持續的方式恢復霍爾木茲海峽的航行自由。會晤結束後，阿曼與伊朗代表團舉行擴大會議，討論依據國際法規範，維護霍爾木茲海峽航行自由的一系列原則。雙方圍繞當前最新局勢交換意見，並探討如何建設和發展相關能力，以保障海運、貿易及供應鏈運輸安全。（央視新聞）"
-    },
-    {
-      "id": "4897295",
-      "time": "2026-05-24 23:58:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "真主黨領導人：解除武裝等同於自取滅亡，我們絕不接受。"
     }
   ]
 }
