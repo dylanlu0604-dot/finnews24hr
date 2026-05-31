@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-01 03:27:26",
-  "count": 15915,
+  "updated": "2026-06-01 03:31:17",
+  "count": 15912,
   "items": [
+    {
+      "id": "mkt:019e7f82-5dca-700f-a380-3a696210e99c",
+      "time": "2026-06-01 03:28:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Russian-appointed Zaporizhzhia governor reports large-scale blackout】On May 31 local time, Russian-appointed Zaporizhzhia governor Balitsky said most of the region experienced emergency power outages. He said key infrastructure remains operational and power restoration is underway."
+    },
     {
       "id": "4909051",
       "time": "2026-06-01 03:25:38",
@@ -144566,42 +144574,6 @@
         "其他"
       ],
       "text": "優步在收購Delivery Hero的提議被拒後，考慮提高報價。"
-    },
-    {
-      "id": "mkt:019e5b78-6288-7882-93e8-18889e21d229",
-      "time": "2026-05-25 03:30:59",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【LEBANESE HEALTH MINISTRY Says Israeli Strikes Kill 3,151】LEBANESE HEALTH MINISTRY: Since Mar 2, 3,151 Dead, 9,571 Injured; Israel's IDF Strikes Hezbollah Targets In Southern Lebanon On Mar 24"
-    },
-    {
-      "id": "4897411",
-      "time": "2026-05-25 03:30:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【塞普勒斯議會選舉計票結束 “民主大會黨”贏得選舉】當地時間5月24日晚，塞普勒斯中央選舉委員會官網實時統計資料顯示，當天舉行的塞普勒斯議會選舉計票工作已完成。本屆議會第一大黨“民主大會黨”鎖定勝局，贏得選舉，得票率為27.1%。緊隨其後的是議會第二大黨“勞動人民進步黨”，得票率為23.9%。在當天的選舉中，符合條件的選民近57萬人，實際參與投票的人數約為38萬，投票率近67%。（央視新聞）"
-    },
-    {
-      "id": "4897410",
-      "time": "2026-05-25 03:28:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "【黎巴嫩衛生部：以色列襲擊已造成3151人喪生】黎巴嫩衛生部24日通報稱，自今年3月2日以色列對黎巴嫩發起軍事行動以來，已有3151人喪生，9571人受傷。"
-    },
-    {
-      "id": "4897409",
-      "time": "2026-05-25 03:28:13",
-      "tags": [
-        "市場"
-      ],
-      "text": "悉尼早盤交易中，美元兌主要貨幣走低。"
     }
   ]
 }
