@@ -1,7 +1,19 @@
 {
-  "updated": "2026-05-31 22:52:38",
-  "count": 15928,
+  "updated": "2026-05-31 22:56:37",
+  "count": 15926,
   "items": [
+    {
+      "id": "mkt:019e7e86-288d-700f-a37e-b8cd708d32d9",
+      "time": "2026-05-31 22:53:01",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【CNN: Trump revisions to proposed Iran deal push U.S.-Iran talks back one week】CNN reported officials said Trump, after a Friday meeting with advisers, requested revisions to a proposed agreement with Iran that will extend negotiations by one week. Officials did not specify the requested changes but said the president is pushing for tougher language on Iran’s nuclear commitments and guarantees that Iran would reopen the Strait of Hormuz. It is unclear how those wording disputes will be resolved. Axios and the New York Times earlier reported Trump had proposed changes."
+    },
     {
       "id": "4908945",
       "time": "2026-05-31 22:51:21",
@@ -144654,31 +144666,6 @@
         "國際"
       ],
       "text": "市場訊息：阿曼與伊朗官員舉行會晤，依據國際法討論了霍爾木茲海峽航行自由的管轄原則。"
-    },
-    {
-      "id": "4897224",
-      "time": "2026-05-24 22:54:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡：我的政策與特朗普總統的政策一樣，始終不變，伊朗絕不能擁有核武器。"
-    },
-    {
-      "id": "4897223",
-      "time": "2026-05-24 22:54:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡：特朗普總統重申，以色列有權在包括黎巴嫩在內的所有戰線抵禦威脅、自衛。"
-    },
-    {
-      "id": "4897222",
-      "time": "2026-05-24 22:53:43",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡：我與特朗普達成共識，任何伊朗最終協議都必須消除核威脅。"
     }
   ]
 }
