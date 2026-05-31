@@ -1,7 +1,73 @@
 {
-  "updated": "2026-06-01 01:12:49",
-  "count": 15924,
+  "updated": "2026-06-01 01:29:44",
+  "count": 15923,
   "items": [
+    {
+      "id": "mkt:019e7f10-f8e8-700f-a37f-d88c81541749",
+      "time": "2026-06-01 01:24:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's foreign minister said speculation should not be given weight."
+    },
+    {
+      "id": "4909012",
+      "time": "2026-06-01 01:20:45",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗外交部長：我們不應理會市場投機傳言。"
+    },
+    {
+      "id": "mkt:019e7f0d-4b97-700f-a37f-d14194802638",
+      "time": "2026-06-01 01:20:38",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Iran's foreign minister said negotiations cannot be judged until a clear outcome is reached."
+    },
+    {
+      "id": "mkt:019e7f0d-03e1-700f-a37f-c9b251b1832f",
+      "time": "2026-06-01 01:20:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's foreign minister said talks and information exchanges with the United States are ongoing."
+    },
+    {
+      "id": "4909011",
+      "time": "2026-06-01 01:20:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部長對官方媒體表示：在取得明確結果之前，我們無法對談判作出評判。"
+    },
+    {
+      "id": "4909010",
+      "time": "2026-06-01 01:20:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部長對官方媒體表示：伊朗與美國仍在進行談判和資訊交換。"
+    },
+    {
+      "id": "4909009",
+      "time": "2026-06-01 01:13:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "黎巴嫩衛生部：以色列空襲黎巴嫩南部城市提爾，造成希拉姆醫院13名工作人員受傷。"
+    },
+    {
+      "id": "4909008",
+      "time": "2026-06-01 01:12:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "滙豐控股執行長：滙豐仍是亞洲地區領先的交易銀行。"
+    },
     {
       "id": "4909007",
       "time": "2026-06-01 01:11:49",
@@ -144612,83 +144678,6 @@
         "國際"
       ],
       "text": "【伊朗於霍爾木茲海峽附近開展軍事演習】伊朗邁赫爾通訊社援引當地訊息稱，週日晚間，伊朗軍方在基什島靶場開展軍事演練，此次演習隸屬於國防安全相關部署。"
-    },
-    {
-      "id": "4897371",
-      "time": "2026-05-25 01:29:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國官員：尚未就協議框架下擬解凍的伊朗資產展開談判。"
-    },
-    {
-      "id": "mkt:019e5b07-36ea-7dd0-bb39-34d0ba681321",
-      "time": "2026-05-25 01:27:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IDF Draws Up Lebanon Plan, Says Iran Deal Could Curb Fight With Hezbollah: Times of Israel"
-    },
-    {
-      "id": "mkt:019e5b06-b649-7dd0-bb39-2a844234816c",
-      "time": "2026-05-25 01:26:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【ECB Calls Banks To Address ANTHROPIC Model Cyber Risks】ECB summons banks Tuesday; urges urgent patching after ANTHROPIC Claude MYTHOS Preview reveals thousands of high-severity vulnerabilities in major OSes and browsers"
-    },
-    {
-      "id": "4897370",
-      "time": "2026-05-25 01:26:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "訊息人士：伊朗基什島將開展軍事演習。"
-    },
-    {
-      "id": "4897369",
-      "time": "2026-05-25 01:25:06",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗在霍爾木茲海峽附近舉行軍事演習。"
-    },
-    {
-      "id": "4897368",
-      "time": "2026-05-25 01:20:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國共和黨參議員林賽·格雷厄姆：特朗普應堅定立場，爭取與伊朗達成有利協議。若此番斡旋化解伊朗衝突後，地區內阿拉伯及伊斯蘭盟友願意加入亞伯拉罕協議，這份協定或將成為中東史上影響力最為深遠的協議之一。"
-    },
-    {
-      "id": "4897367",
-      "time": "2026-05-25 01:17:15",
-      "tags": [
-        "市場"
-      ],
-      "text": "【安哥拉一金礦坍塌造成至少28人死亡】據安哥拉媒體24日報道，該國北部本戈省一處非法金礦日前發生坍塌事故，造成至少28人死亡。安哥拉警方24日在一份宣告中說，事故發生在距首都羅安達約60公里的卡納卡薩拉村。遇難者年齡在18歲至40歲之間，其中包括來自同一家庭的13人，事發時他們正在非法開採黃金。警方表示，傷者已被送往附近醫院，救援人員仍在搜尋失蹤者。（新華社）"
-    },
-    {
-      "id": "4897366",
-      "time": "2026-05-25 01:14:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "八個阿拉伯及伊斯蘭國家表示：以色列國家安全部長本格維爾的挑釁行徑助長極端主義，阻礙和平程序與兩國方案落地，要求追究其責任，並制止其屢次違規行為。"
-    },
-    {
-      "id": "mkt:019e5afa-26fc-7dd0-bb39-2782311048fb",
-      "time": "2026-05-25 01:13:16",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iran Downs Israeli Spy Drone In Hormozgan Province, PressTV"
     }
   ]
 }
