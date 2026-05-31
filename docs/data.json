@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-01 03:38:53",
+  "updated": "2026-06-01 03:42:41",
   "count": 15911,
   "items": [
+    {
+      "id": "4909053",
+      "time": "2026-06-01 03:39:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "【約旦河西岸發生駕車衝撞事件 已致一死兩傷】以色列國防軍5月31日發表宣告稱，一名巴勒斯坦男子當晚在約旦河西岸南部的古什埃齊翁路口實施駕車衝撞襲擊，被以軍士兵當場打死。以色列急救組織說，這一事件造成至少兩人受傷。"
+    },
     {
       "id": "4909052",
       "time": "2026-06-01 03:34:30",
@@ -144549,18 +144557,6 @@
         "國際"
       ],
       "text": "歐洲央行行長拉加德：歐洲央行6月將綜合各項資料評估經濟形勢。"
-    },
-    {
-      "id": "mkt:019e5b7f-e793-7882-93e8-29da3d81018d",
-      "time": "2026-05-25 03:39:20",
-      "tags": [
-        "MKT News",
-        "DHER.DE",
-        "Impact bullish",
-        "UBER.O",
-        "Impact mixed"
-      ],
-      "text": "【Uber Mulls Raising Offer For Delivery Hero After €11.5bln Bid Rejected】Uber Board Met Saturday To Consider Raising Offer; €38/Share Bid To Delivery Hero's Largest Shareholder Rejected; Several Shareholders Seek >€40/Share (~€13bln Valuation)"
     }
   ]
 }
