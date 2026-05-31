@@ -1,7 +1,19 @@
 {
-  "updated": "2026-06-01 03:46:30",
-  "count": 15908,
+  "updated": "2026-06-01 03:50:18",
+  "count": 15909,
   "items": [
+    {
+      "id": "mkt:019e7f94-f101-700f-a380-40d027e0274d",
+      "time": "2026-06-01 03:48:47",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Israel Defense Forces said missiles were fired shortly before from the direction of Lebanon; one landed near IDF soldiers operating in southern Lebanon. The incident has ended and no casualties were reported."
+    },
     {
       "id": "4909054",
       "time": "2026-06-01 03:44:23",
