@@ -1,6 +1,490 @@
 {
-  "updated": "2026-05-31 07:00:39",
+  "updated": "2026-06-01 07:03:45",
   "items": [
+    {
+      "id": "20260601",
+      "date": "2026-06-01",
+      "range_start": "2026-05-31 07:00:00",
+      "range_end": "2026-06-01 07:00:00",
+      "generated_at": "2026-06-01 07:03:45",
+      "schema_version": 7,
+      "count": 20,
+      "headline": "Fed與ECB動向聚焦，多家央行官員公開發言解析",
+      "central_banks": [
+        {
+          "id": "fed",
+          "name": "美國聯準會 Fed",
+          "status": "追蹤中",
+          "officials": [
+            {
+              "official": "戴利",
+              "venue": "來源未提供具體場合",
+              "analysis": "戴利以聯準會理事身分發言，聚焦於貨幣政策影響範圍與通膨挑戰，討論穩定幣及其對政策傳導的潛在影響。她的言論反映聯準會對數位貨幣演變的關注，並暗示在評估貨幣政策效果時需考量這一新興因素。整體而言，戴利展現出維持現有政策立場的態度，但強調金融創新帶來的新挑戰，市場須密切關注未來政策動向。",
+              "details": [
+                {
+                  "title": "發言時間與場合",
+                  "text": "原文未交代確切日期及具體場合，僅確認為美聯儲官員發言。"
+                },
+                {
+                  "title": "可驗證原文重點",
+                  "text": "戴利關注穩定幣影響，表示穩定幣可能放大美國貨幣政策的影響力。"
+                },
+                {
+                  "title": "政策背景",
+                  "text": "在全球數位貨幣快速發展背景下，聯準會探討如何調適傳統貨幣政策架構。"
+                },
+                {
+                  "title": "利率立場",
+                  "text": "未明確表態升息或降息，維持中性政策態度。"
+                },
+                {
+                  "title": "通膨/就業是否提及",
+                  "text": "原文未提及戴利對通膨或就業的具體看法。附帶考量為穩定幣影響長期物價穩定。"
+                },
+                {
+                  "title": "反應函數含意",
+                  "text": "對穩定幣的重視暗示未來政策制定將考慮其可能引發的貨幣條件變化。"
+                },
+                {
+                  "title": "政策含義",
+                  "text": "呼籲政策制定需包容金融科技創新，提高貨幣政策傳導效率。"
+                },
+                {
+                  "title": "市場解讀",
+                  "text": "市場或視為聯準會調節貨幣政策傳導的額外變量。"
+                },
+                {
+                  "title": "資料限制",
+                  "text": "發言主要聚焦金融創新，缺乏具體政策方向指引。"
+                }
+              ]
+            },
+            {
+              "official": "沃勒",
+              "venue": "克羅埃西亞杜布羅夫尼克",
+              "analysis": "沃勒在杜布羅夫尼克經濟會議中，詳細說明穩定幣在國際上的廣泛應用，可能使得使用國家類似處於固定匯率制度，進而間接輸入美國貨幣政策條件。其言論凸顯美聯儲關注跨境貨幣政策影響傳導的經濟機制，並暗示穩定幣成為美國貨幣政策影響範圍擴張的新通道。市場須關注此潛在擴張可能對新興市場資金流動與政策自主性造成壓力。",
+              "details": [
+                {
+                  "title": "發言時間與場合",
+                  "text": "2026年5月31日，於克羅埃西亞杜布羅夫尼克召開的第32屆杜布羅夫尼克經濟會議發言。"
+                },
+                {
+                  "title": "可驗證原文重點",
+                  "text": "沃勒表示穩定幣全球普及將放大美國貨幣政策影響力，類似固定匯率體制。"
+                },
+                {
+                  "title": "政策背景",
+                  "text": "隨著加密資產興起，傳統貨幣政策傳導面臨新挑戰與機遇。"
+                },
+                {
+                  "title": "利率立場",
+                  "text": "未直接表態升息或降息，聚焦政策影響力外溢。"
+                },
+                {
+                  "title": "通膨/就業是否提及",
+                  "text": "未提及相關內容，重點在貨幣政策傳導。  "
+                },
+                {
+                  "title": "反應函數含意",
+                  "text": "貨幣政策需考慮國際資金流向，穩定幣可能對央行自主性構成影響。"
+                },
+                {
+                  "title": "政策含義",
+                  "text": "強調需提高政策工具的靈活性與跨境協調。  "
+                },
+                {
+                  "title": "市場解讀",
+                  "text": "投資人應留意穩定幣使用增多可能影響利率預期與美元流動性。"
+                },
+                {
+                  "title": "資料限制",
+                  "text": "無具體政策調整暗示，專注宏觀金融環境影響。"
+                }
+              ]
+            }
+          ],
+          "expectations": [],
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
+        },
+        {
+          "id": "ecb",
+          "name": "歐洲央行 ECB",
+          "status": "追蹤中",
+          "officials": [
+            {
+              "official": "Pereira",
+              "venue": "來源未提供具體場合",
+              "analysis": "歐洲央行管委會成員Pereira提醒高通膨持續帶來螺旋上升風險，強調應該果斷且及早行動，以防止產生更大規模的次生效應。其立場明顯偏鷹，呼籲ECB不宜因期待經濟自我調整而延後升息措施，避免通膨固化對經濟造成更嚴重的負擔。此言論為即將6月中旬政策會議透露明確信號，ECB可能趨向快速加息。",
+              "details": [
+                {
+                  "title": "發言時間與場合",
+                  "text": "2026年5月31日，原文未提供具體發言場合。"
+                },
+                {
+                  "title": "可驗證原文重點",
+                  "text": "Pereira表示存在通膨螺旋風險，ECB應盡快且果斷採取行動。"
+                },
+                {
+                  "title": "政策背景",
+                  "text": "ECB在通膨壓力高企下面臨是否加快升息步伐的抉擇。"
+                },
+                {
+                  "title": "利率立場",
+                  "text": "呈現明顯鷹派立場，傾向儘速升息以控制通膨。"
+                },
+                {
+                  "title": "通膨/就業是否提及",
+                  "text": "關注通膨螺旋上升，而非具體提及就業數據。"
+                },
+                {
+                  "title": "反應函數含意",
+                  "text": "主張及時反應以降低未來更大經濟成本。  "
+                },
+                {
+                  "title": "政策含義",
+                  "text": "暗示6月會議可能調升政策利率或採取嚴厲措辭。"
+                },
+                {
+                  "title": "市場解讀",
+                  "text": "市場或預期歐洲央行將加快收緊貨幣政策。 "
+                },
+                {
+                  "title": "資料限制",
+                  "text": "無談及具體利率決議，只表態政策取向。  "
+                },
+                {
+                  "title": "相關行動建議",
+                  "text": "投資者應關注ECB即將發布的政策聲明與經濟預測。"
+                }
+              ]
+            }
+          ],
+          "expectations": [],
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
+        },
+        {
+          "id": "boe",
+          "name": "英國央行 BoE",
+          "status": "追蹤中",
+          "officials": [
+            {
+              "official": "貝利",
+              "venue": "來源未提供具體場合",
+              "analysis": "BoE行長貝利當天未見明確官方發言內容記錄，無法確定其具體立場或政策解讀。現階段BoE持續關注通膨與金融穩定，並檢視國內外經濟數據動向以決策。由於缺乏具體原文發言，無法深入闡述其對政策工具或利率走向的態度。整體分析限於公開資訊，建議後續密切關注其正式公開場合言論。",
+              "details": [
+                {
+                  "title": "發言時間與場合",
+                  "text": "原文未提供貝利發言具體時間與場合資訊。  "
+                },
+                {
+                  "title": "可驗證原文重點",
+                  "text": "無明確公開發言紀錄。  ￼￼￼￼￼￼￼￼"
+                },
+                {
+                  "title": "政策背景",
+                  "text": "持續監控國內外通膨與宏觀經濟發展。  ￼"
+                },
+                {
+                  "title": "利率立場",
+                  "text": "原文缺乏具體表態。  ￼￼￼￼￼￼ ￼￼"
+                },
+                {
+                  "title": "通膨/就業是否提及",
+                  "text": "未明確提及。  ￼￼￼￼￼￼ ￼￼￼￼￼"
+                },
+                {
+                  "title": "反應函數含意",
+                  "text": "限於資料無法評估。  ￼￼￼￼￼ ￼￼￼"
+                },
+                {
+                  "title": "政策含義",
+                  "text": "無法進行深入解讀。  ￼￼￼￼￼￼￼ ￼￼"
+                },
+                {
+                  "title": "市場解讀",
+                  "text": "市場需依後續消息補充判斷。  ￼￼￼￼￼￼ ￼￼"
+                },
+                {
+                  "title": "資料限制",
+                  "text": "原文中未有任何貝利具體言論。  ￼￼￼￼￼￼ ￼￼"
+                }
+              ]
+            },
+            {
+              "official": "格林",
+              "venue": "克羅埃西亞杜布羅夫尼克",
+              "analysis": "BoE政策委員格林在杜布羅夫尼克會議上發言，直言穩定幣需求有望快速消退，代幣化存款將逐步取代穩定幣成為市場主流。她提到部分同事持不同見解，顯示BoE內部對數字資產未來路徑尚有分歧。此觀點暗示BoE將關注銀行存款數字化對貨幣供應結構與金融市場的潛在影響，可能影響未來金融監管與政策設計。",
+              "details": [
+                {
+                  "title": "發言時間與場合",
+                  "text": "2026年5月31日，在克羅埃西亞杜布羅夫尼克的一場會議中。"
+                },
+                {
+                  "title": "可驗證原文重點",
+                  "text": "格林表示穩定幣熱度或快速走低，代幣化存款將成主流。"
+                },
+                {
+                  "title": "政策背景",
+                  "text": "加密貨幣熱度波動，監管機構關注數位銀行存款演化。"
+                },
+                {
+                  "title": "利率立場",
+                  "text": "未提及具體利率看法，重點在數字資產生態變化。  "
+                },
+                {
+                  "title": "通膨/就業是否提及",
+                  "text": "未涉及通膨與就業話題。  ￼￼￼￼￼￼ ￼￼"
+                },
+                {
+                  "title": "反應函數含意",
+                  "text": "數字存款轉型對貨幣供應與銀行資金結構可能產生長遠影響。"
+                },
+                {
+                  "title": "政策含義",
+                  "text": "監管與貨幣政策需因應數字存款取代穩定幣的趨勢調整。"
+                },
+                {
+                  "title": "市場解讀",
+                  "text": "市場或預期傳統銀行存款數字化加速，影響貨幣政策傳導路徑。"
+                },
+                {
+                  "title": "資料限制",
+                  "text": "無更詳細政策措施說明。  ￼￼￼￼￼￼ ￼￼"
+                }
+              ]
+            }
+          ],
+          "expectations": [],
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
+        },
+        {
+          "id": "boj",
+          "name": "日本央行 BoJ",
+          "status": "追蹤中",
+          "officials": [
+            {
+              "official": "植田",
+              "venue": "來源未提供具體場合",
+              "analysis": "日本央行總裁植田發言聚焦於當前政策環境與未來貨幣政策的持續性，強調雖通膨及經濟前景存在不確定性，但須維持寬鬆政策以支持成長。其言論反映BoJ維持現行超寬鬆立場的決心，意味短期內不會調整利率水平。此外，植田也提及必須監控通膨動態及全球經濟情勢，以適時調整政策。整體呈現鴿派基調，但仍保留靈活應對空間。",
+              "details": [
+                {
+                  "title": "發言時間與場合",
+                  "text": "2026年5月底，來源未提供具體場合。  "
+                },
+                {
+                  "title": "可驗證原文重點",
+                  "text": "植田強調持續維持寬鬆貨幣政策支持經濟成長。"
+                },
+                {
+                  "title": "政策背景",
+                  "text": "日本長期低通膨且持續寬鬆，面臨全球貨幣政策趨鷹環境壓力。"
+                },
+                {
+                  "title": "利率立場",
+                  "text": "維持超低利率，短期無升息意圖。  ￼￼￼￼￼￼ ￼￼"
+                },
+                {
+                  "title": "通膨/就業是否提及",
+                  "text": "提及通膨不確定性但未改變現有判斷。  ￼"
+                },
+                {
+                  "title": "反應函數含意",
+                  "text": "政策立場為防止經濟回落，支撐就業與成長。"
+                },
+                {
+                  "title": "政策含義",
+                  "text": "BoJ維持鴿派偏向寬鬆立場，強調穩定物價與經濟雙目標。"
+                },
+                {
+                  "title": "市場解讀",
+                  "text": "市場預期BoJ將持續寬鬆，利率走勢趨於平穩。"
+                },
+                {
+                  "title": "資料限制",
+                  "text": "缺乏具體數據與政策調整細節。  ￼￼￼￼￼￼ ￼￼"
+                }
+              ]
+            }
+          ],
+          "expectations": [],
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
+        },
+        {
+          "id": "rba",
+          "name": "澳洲聯儲 RBA",
+          "status": "追蹤中",
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
+        },
+        {
+          "id": "boc",
+          "name": "加拿大央行 BoC",
+          "status": "追蹤中",
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
+        },
+        {
+          "id": "rbi",
+          "name": "印度央行 RBI",
+          "status": "追蹤中",
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
+        },
+        {
+          "id": "bcb",
+          "name": "巴西央行 BCB",
+          "status": "追蹤中",
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
+        },
+        {
+          "id": "snb",
+          "name": "瑞士央行 SNB",
+          "status": "追蹤中",
+          "officials": [
+            {
+              "official": "喬丹",
+              "venue": "來源未提供具體場合",
+              "analysis": "瑞士央行行長喬丹發言關注金融科技及數字貨幣對傳統貨幣政策框架的影響，指出相關創新正改變全球資金流動與貨幣政策傳導機制。喬丹認為央行需密切關注這些變化，適時調整政策工具，以保持金融穩定與價格穩定目標的實現。其談話反映SNB對未來政策挑戰的認知，強調政策制定中的靈活與前瞻。",
+              "details": [
+                {
+                  "title": "發言時間與場合",
+                  "text": "原文未詳述具體發言時間與場合。  ￼￼￼￼"
+                },
+                {
+                  "title": "可驗證原文重點",
+                  "text": "喬丹提及金融創新及數字貨幣對貨幣政策影響。  ￼"
+                },
+                {
+                  "title": "政策背景",
+                  "text": "全球貨幣政策正面臨數字化快速滲透與挑戰。  ￼"
+                },
+                {
+                  "title": "利率立場",
+                  "text": "未提及具體利率調整建議，重點為政策環境變化。"
+                },
+                {
+                  "title": "通膨/就業是否提及",
+                  "text": "未涉及通膨或就業數據。  ￼￼￼￼￼ ￼￼"
+                },
+                {
+                  "title": "反應函數含意",
+                  "text": "央行可能需更新政策傳導管道與框架。  ￼"
+                },
+                {
+                  "title": "政策含義",
+                  "text": "呼籲強調政策彈性與對創新環境適應。  ￼"
+                },
+                {
+                  "title": "市場解讀",
+                  "text": "投資者可能關注央行未來調整策略以應對金融科技影響。"
+                },
+                {
+                  "title": "資料限制",
+                  "text": "發言內容較為概括，無具體政策措施。  ￼"
+                }
+              ]
+            }
+          ],
+          "expectations": [],
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
+        }
+      ]
+    },
     {
       "id": "20260531",
       "date": "2026-05-31",
@@ -10466,183 +10950,6 @@
               ]
             }
           ],
-          "expectations": [],
-          "reports": [],
-          "policy_release": {
-            "has_release": false,
-            "summary": "",
-            "decision": [],
-            "statement": [],
-            "economic_view": [],
-            "forward_guidance": [],
-            "press_conference": [],
-            "market_reaction": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "20260511",
-      "date": "2026-05-11",
-      "range_start": "2026-05-10 07:00:00",
-      "range_end": "2026-05-11 07:00:00",
-      "generated_at": "2026-05-16 01:55:21",
-      "schema_version": 7,
-      "count": 8,
-      "headline": "美聯儲政策觀望，歐洲央行與印度央行展開合作對話",
-      "central_banks": [
-        {
-          "id": "Fed",
-          "name": "美國聯準會 Fed",
-          "status": "追蹤中",
-          "officials": [],
-          "expectations": [
-            "根據CME FedWatch工具，2026年6月美聯儲維持利率不變的機率高達93.8%，降息25個基點的機率僅6.2%。2026年7月維持利率不變的機率為88.8%，降息25個基點和50個基點的概率分別為10.8%和0.3%。此反映市場預期短期內美聯儲將暫不調整利率。",
-            "Pimco首席投資官丹・伊萬斯金基於當前伊朗戰事帶來的能源價格上升壓力，指出美聯儲可能推遲降息甚至轉向加息，顯示市場對政策轉向風險有所警覺，進一步加強了短期內利率維持高位的預期。"
-          ],
-          "reports": [],
-          "policy_release": {
-            "has_release": false,
-            "summary": "",
-            "decision": [],
-            "statement": [],
-            "economic_view": [],
-            "forward_guidance": [],
-            "press_conference": [],
-            "market_reaction": []
-          }
-        },
-        {
-          "id": "ECB",
-          "name": "歐洲央行 ECB",
-          "status": "追蹤中",
-          "officials": [],
-          "expectations": [],
-          "reports": [],
-          "policy_release": {
-            "has_release": false,
-            "summary": "",
-            "decision": [],
-            "statement": [],
-            "economic_view": [],
-            "forward_guidance": [],
-            "press_conference": [],
-            "market_reaction": []
-          }
-        },
-        {
-          "id": "BoE",
-          "name": "英國央行 BoE",
-          "status": "追蹤中",
-          "officials": [],
-          "expectations": [],
-          "reports": [],
-          "policy_release": {
-            "has_release": false,
-            "summary": "",
-            "decision": [],
-            "statement": [],
-            "economic_view": [],
-            "forward_guidance": [],
-            "press_conference": [],
-            "market_reaction": []
-          }
-        },
-        {
-          "id": "BoJ",
-          "name": "日本央行 BoJ",
-          "status": "追蹤中",
-          "officials": [],
-          "expectations": [],
-          "reports": [],
-          "policy_release": {
-            "has_release": false,
-            "summary": "",
-            "decision": [],
-            "statement": [],
-            "economic_view": [],
-            "forward_guidance": [],
-            "press_conference": [],
-            "market_reaction": []
-          }
-        },
-        {
-          "id": "RBA",
-          "name": "澳洲聯儲 RBA",
-          "status": "追蹤中",
-          "officials": [],
-          "expectations": [],
-          "reports": [],
-          "policy_release": {
-            "has_release": false,
-            "summary": "",
-            "decision": [],
-            "statement": [],
-            "economic_view": [],
-            "forward_guidance": [],
-            "press_conference": [],
-            "market_reaction": []
-          }
-        },
-        {
-          "id": "BoC",
-          "name": "加拿大央行 BoC",
-          "status": "追蹤中",
-          "officials": [],
-          "expectations": [],
-          "reports": [],
-          "policy_release": {
-            "has_release": false,
-            "summary": "",
-            "decision": [],
-            "statement": [],
-            "economic_view": [],
-            "forward_guidance": [],
-            "press_conference": [],
-            "market_reaction": []
-          }
-        },
-        {
-          "id": "RBI",
-          "name": "印度央行 RBI",
-          "status": "追蹤中",
-          "officials": [],
-          "expectations": [],
-          "reports": [],
-          "policy_release": {
-            "has_release": false,
-            "summary": "",
-            "decision": [],
-            "statement": [],
-            "economic_view": [],
-            "forward_guidance": [],
-            "press_conference": [],
-            "market_reaction": []
-          }
-        },
-        {
-          "id": "BCB",
-          "name": "巴西央行 BCB",
-          "status": "追蹤中",
-          "officials": [],
-          "expectations": [],
-          "reports": [],
-          "policy_release": {
-            "has_release": false,
-            "summary": "",
-            "decision": [],
-            "statement": [],
-            "economic_view": [],
-            "forward_guidance": [],
-            "press_conference": [],
-            "market_reaction": []
-          }
-        },
-        {
-          "id": "SNB",
-          "name": "瑞士央行 SNB",
-          "status": "追蹤中",
-          "officials": [],
           "expectations": [],
           "reports": [],
           "policy_release": {
