@@ -1,7 +1,51 @@
 {
-  "updated": "2026-06-02 05:21:18",
-  "count": 17106,
+  "updated": "2026-06-02 05:25:13",
+  "count": 17110,
   "items": [
+    {
+      "id": "mkt:019e8512-df35-7993-96fa-55c1391a8985",
+      "time": "2026-06-02 05:24:26",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "In talks with Lebanon's parliament speaker, Iranian parliament speaker Ghalibaf said if Israel continues its crimes in Lebanon, Iran will not only suspend negotiations but will move to confront Israel."
+    },
+    {
+      "id": "4911355",
+      "time": "2026-06-02 05:23:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "Kpler：美國5月原油出口攀升至560萬桶/日，創下歷史新高。"
+    },
+    {
+      "id": "4911354",
+      "time": "2026-06-02 05:21:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "慧與首席財務官：第二財季營收環比增長15%，這反映出伺服器業務平均售價有所提升，漲幅由當前DRAM和NAND快閃記憶體的成本上漲推動。"
+    },
+    {
+      "id": "4911353",
+      "time": "2026-06-02 05:21:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議員沃倫與格拉斯利聯名提出國防承包商透明度法案。"
+    },
+    {
+      "id": "4911352",
+      "time": "2026-06-02 05:20:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【莫斯科交易所測試用於人工智慧代理參與交易的基礎設施】據莫斯科交易所訊息，莫斯科交易所正在測試一套面向代理的基礎設施，未來，人工智慧代理員將在這套基礎設施上與俄羅斯金融市場互動。"
+    },
     {
       "id": "4911351",
       "time": "2026-06-02 05:19:49",
@@ -156134,14 +156178,6 @@
         "CNH"
       ],
       "text": "【Offshore RMB (CNH) HIBOR Largely Stable; 1Y Hits One-Month High】Hong Kong banks' CNH HIBOR: 1Y up to 1.70682% (highest since Apr 27); Overnight +2bps to 1.35841% (highest since May 19); 1W down to 1.40636% (near 1-week low); 2W unchanged at 1.41091%."
-    },
-    {
-      "id": "4899130",
-      "time": "2026-05-26 05:22:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗邁赫爾通訊社表示，阿巴斯港東部發生爆炸後，當地局勢已得到控制，民眾無需擔憂。"
     }
   ]
 }
