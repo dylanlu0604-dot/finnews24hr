@@ -1,7 +1,88 @@
 {
-  "updated": "2026-06-01 20:27:33",
+  "updated": "2026-06-01 20:31:38",
   "count": 16657,
   "items": [
+    {
+      "id": "4910793",
+      "time": "2026-06-01 20:30:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "阿曼外交部訊息：外交大臣當晚與荷蘭外交大臣通電話。雙方探討了兩國友好合作關係及各領域合作進展，同時談及製造業、港口、交通、科技領域日益增多的合作機遇。 兩國外長還就地區局勢、恢復海上航行自由、保障供應鏈與貿易暢通等議題交換意見。雙方一致認為，應加大外交力度緩和緊張局勢，推動各方實現持久和平。"
+    },
+    {
+      "id": "te:economy:555379",
+      "time": "2026-06-01 20:30:33",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Mexico",
+        "Business Confidence",
+        "Importance 1"
+      ],
+      "text": "Mexico Manufacturing Confidence Falls in May — Mexico’s manufacturing business confidence fell 0.4 points to 47.5 in May 2026, marking the 15th consecutive month below the 50-point neutral threshold. Investment willingness posted the sharpest decline, falling 1.8 points to 32.4. Expectations for the national economy slipped 0.3 points to 51.4, while assessments of firms’ current situation edged down 0.1 point to 50.8. Perceptions of current national economic conditions were unchanged at 47.6. Meanwhile, companies remained optimistic about their future outlook, with the indicator for firms’ future economic situation standing at 55.8 points."
+    },
+    {
+      "id": "mkt:019e8329-3a5c-7112-8c90-8ad160f24e6f",
+      "time": "2026-06-01 20:29:37",
+      "tags": [
+        "MKT News",
+        "DAX",
+        "Impact bearish",
+        "EURUSD",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Market sources: Germany is struggling to deploy its €500bn investment fund, intended to revive the economy, into infrastructure projects."
+    },
+    {
+      "id": "4910792",
+      "time": "2026-06-01 20:29:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【有研復材2025年度利潤分配預案：擬10派0.42元】有研復材(688811)6月1日釋出2025年度利潤分配預案的公告，經董事會決議，公司擬定2025年度利潤分配預案如下：公司擬向全體股東每10股派發現金紅利0.42元（含稅）。公司2025年度不送紅股，不進行資本公積轉增股本。"
+    },
+    {
+      "id": "4910791",
+      "time": "2026-06-01 20:28:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國一項規模達 5000 億歐元（摺合 5820 億美元）的投資基金本用於提振經濟，但該國目前難以動用這筆基建資金。"
+    },
+    {
+      "id": "mkt:019e8328-0454-7112-8c90-80b703090ce9",
+      "time": "2026-06-01 20:28:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources say India plans to revise the base year of the wholesale price index (WPI)."
+    },
+    {
+      "id": "4910790",
+      "time": "2026-06-01 20:27:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東土科技：4095萬元參股高威科6.5%股權深化戰略合作】東土科技公告稱，公司計劃以4095萬元參股投資高威科6.5%股權，資金來源為自有資金。本次交易完成後，高威科將成為公司參股公司。雙方自終止重大資產重組後，戰略合作持續深化，已在3C、物流領域實現技術驗證與小批次訂單落地。公司參股旨在加深雙方合作及業務融合，擴大市場覆蓋，完善“模數共振”佈局，到2029年實現高威科收入中雙方自有產品銷售收入6億元目標。但受行業波動等因素影響，未來目標存在無法達成風險。"
+    },
+    {
+      "id": "mkt:019e8327-26fe-7112-8c90-7d2a472fbe30",
+      "time": "2026-06-01 20:27:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Singapore's Ministry of Foreign Affairs said Turkish Foreign Minister Hakan Fidan will make an official visit to Singapore from June 1 to 2, 2026."
+    },
+    {
+      "id": "4910789",
+      "time": "2026-06-01 20:27:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【SpaceX擬預留至多5% IPO股份供員工及高管親友認購】SpaceX在週一提交的更新版招股書中首次明確說明，公司計劃在即將進行的IPO中預留最多5%的A類普通股股份，供部分員工以及公司高管的親友認購。SpaceX此前已於上月披露，列入其所謂“親友名單”的參與者將不受鎖定期限制。定向配售計劃在IPO中較為常見，參與者通常會受到鎖定期約束，無法立即出售股份。SpaceX在檔案中表示，IPO前已發行股份中超過60%將受到366天鎖定期限制，包括馬斯克持有的股份。檔案稱馬斯克已同意接受366天鎖定期安排。"
+    },
     {
       "id": "mkt:019e8326-c3d4-7112-8c90-72e97c59a52d",
       "time": "2026-06-01 20:26:56",
@@ -151741,95 +151822,6 @@
         "國際"
       ],
       "text": "【普京：俄羅斯是全球經濟體系不可分割的一部分】俄羅斯總統普京表示，俄羅斯過去是、現在仍然是全球經濟體系不可分割的一部分。普京強調，俄羅斯願與其他國家一道，繼續在多邊框架下積極開展工作。普京表示，相信第29屆聖彼得堡國際經濟論壇將有助於為能源、數字化、糧食安全等領域的問題找到解決之道，推動國際合作、安全和穩定。（新華社）"
-    },
-    {
-      "id": "4898827",
-      "time": "2026-05-25 20:31:15",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【韓股分紅結構大變 科技造船企業分紅規模激增】韓國股市分紅格局正迎來劇烈變動。長久以來，銀行、保險類金融股始終是分紅主力，如今半導體、造船等出口龍頭企業新晉成為分紅新風向標。疊加企業價值提升相關政策扶持，人工智慧產業帶動業績回暖，也進一步推動分紅規模持續擴容。 金融資訊公司FnGuide 25日資料顯示，2025財年三星電子與SK海力士合計現金分紅約12萬億韓元，佔韓國主機板與科斯達克市場總分紅規模的22%，2026財年預計兩家企業分紅佔比將攀升至36%。整體上市公司分紅總額穩步走高，半導體巨頭的分紅增速更是遠超平均水平。人工智慧半導體超級週期推動業績暴漲，成為企業擴大分紅的核心動因。"
-    },
-    {
-      "id": "mkt:019e5f1e-6850-711d-be5c-25d89cf7d6e0",
-      "time": "2026-05-25 20:31:12",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "WTI",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "【TRUMP Says Iran Talks Progressing; Urges Middle East States To Join Abraham Accords】TRUMP Says Iran Talks Progressing; Warns No-Deal Would Trigger Larger, More Intense War; Calls For Simultaneous Abraham Accords Signing By Saudi, UAE, Qatar, Pakistan, Turkey, Egypt, Jordan, Bahrain; Open To Iran Joining"
-    },
-    {
-      "id": "4898826",
-      "time": "2026-05-25 20:30:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "【三力製藥：擬向控股股東實控企業定增不超1.23億股，佔發行前總股本30%】三力製藥公告，公司擬向控股股東張海先生100%持股的貴州岑禮科技有限公司（擬設立）發行A股股票不超過1.23億股（含本數），不超過發行前總股本4.09億股的30%。本次發行完成後，張海及其一致行動人合計持股比例將由48.73%升至不超過60.56%，公司控股股東、實際控制人仍為張海。張海認購資金來源於自有或自籌資金。本次發行尚需公司股東會審議透過、上交所稽核透過並取得中國證監會同意註冊的批覆後方可實施。"
-    },
-    {
-      "id": "mkt:019e5f1d-1d7a-711d-be5c-1f0a8484ec2e",
-      "time": "2026-05-25 20:29:54",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "TRUMP Says Leaders Will Welcome Iran Into Abraham Accords Once Documents Signed"
-    },
-    {
-      "id": "4898825",
-      "time": "2026-05-25 20:29:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "【三力製藥：擬向特定物件發行股票募資不超7億元】三力製藥公告稱，公司擬向特定物件發行A股股票，募集資金總額不超7億元，扣除發行費用後用於補充流動資金和償還銀行貸款。截至2026年一季度末，公司有息負債合計7.97億元，短期償債壓力較大。本次發行物件為擬設立的貴州岑禮科技有限公司，張海擬持股100%並現金認購。募集資金到位後，將提升公司資本實力與抗風險能力，符合公司及全體股東利益。"
-    },
-    {
-      "id": "mkt:019e5f1b-97e9-711d-be5c-127a40f1df49",
-      "time": "2026-05-25 20:28:24",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "UNITREE ROBOTICS SAYS Q1 NET PROFIT EXCLUDING NON-RECURRING ITEMS FELL 52.55% Y/Y TO 40.25 MILLION YUAN"
-    },
-    {
-      "id": "4898824",
-      "time": "2026-05-25 20:28:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "【星徽股份：子公司星徽創新投資與關聯方謝子慧、非關聯方蘇州正北擬共同投資5000萬元設立合資公司】星徽股份公告，公司子公司星徽創新投資與關聯方謝子慧、非關聯方蘇州正北擬共同投資設立廣東正北星徽散熱科技有限公司，註冊資本5000萬元。其中，蘇州正北出資2550萬元，持股51%；星徽創新投資出資1000萬元，持股20%；謝子慧出資1450萬元，持股29%。"
-    },
-    {
-      "id": "4898823",
-      "time": "2026-05-25 20:28:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中華人民共和國和塞爾維亞共和國關於共同推動落實四大全球倡議的聯合宣告】應中華人民共和國主席習近平的邀請，塞爾維亞共和國總統阿萊克桑達爾·武契奇於2026年5月24日至28日對中國進行國事訪問。其間，兩國元首就共同關心的國際和地區問題深入交換意見，並強調推動落實全球發展倡議、全球安全倡議、全球文明倡議、全球治理倡議的時代價值和世界意義。（新華社）"
-    },
-    {
-      "id": "mkt:019e5f1a-f2bf-711d-be5c-0a3b7dc48071",
-      "time": "2026-05-25 20:27:35",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "TRUMP Urges Countries To Sign Abraham Accords After Saturday Talks"
     }
   ]
 }
