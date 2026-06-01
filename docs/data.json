@@ -1,7 +1,169 @@
 {
-  "updated": "2026-06-01 10:14:43",
-  "count": 16081,
+  "updated": "2026-06-01 10:18:35",
+  "count": 16091,
   "items": [
+    {
+      "id": "mkt:019e80f9-329f-7666-845c-f87e8251f9e4",
+      "time": "2026-06-01 10:17:55",
+      "tags": [
+        "MKT News",
+        "GM.N",
+        "Impact bearish"
+      ],
+      "text": "The United Auto Workers called for a strike at a supplier plant from midnight local time; the plant supplies trucks and SUVs to General Motors (GM.N)."
+    },
+    {
+      "id": "mkt:019e80f9-0b54-7666-845c-f05493ea59c2",
+      "time": "2026-06-01 10:17:45",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "【Shanghai to back multimodal intelligent agents, orderly advance intelligent driving in shared mobility and logistics】Shanghai municipal government issued its Service Industry Development 15th Five-Year Plan, prioritizing expansion of intelligent-technology services. The plan directs large-scale development of AI software and services, with emphasis on generative AI and applications in face/image recognition, AR/VR, intelligent transport, smart logistics, online education and energy, and aims to establish AI software industry clusters. It mandates AI+ R&D focused on biomedicine, new materials and new energy, strengthening technology breakthroughs, data governance and institutional safeguards. The plan supports embodied-intelligence products for home, eldercare, cultural tourism and commercial use to accelerate robots’ shift from task execution to general-intelligence, scenario-based refined services. It calls for beefing up intelligent-compute cloud networks with coordinated compute-storage-network architecture, promoting AI–cloud integration and Model-as-a-Service (MaaS). The plan also targets development of AI+ cloud-platform benchmark scenarios in finance, healthcare and cultural-tourism verticals."
+    },
+    {
+      "id": "4909451",
+      "time": "2026-06-01 10:17:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國汽車工人聯合會要求向通用汽車供應卡車、SUV零部件的供應商工廠於午夜發起罷工。"
+    },
+    {
+      "id": "4909450",
+      "time": "2026-06-01 10:16:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海：鼓勵本土諮詢調查服務機構規模化、品牌化發展 鼓勵機構拓展健康諮詢、環境、社會和治理（ESG）諮詢等新賽道】上海市人民政府辦公廳印發《上海市服務業發展“十五五”規劃》，其中提到，打造一流法律服務高地，最佳化構建律師事務所品牌矩陣，支援法律科技發展，做強涉外法律服務品牌，拓展海外法律服務網路，支援浦東新區深化打造上海國際法律服務中心核心承載區，提升虹橋國際中央法務區建設水平，鼓勵和支援靜安區、徐彙區等加強法律服務高地建設。提高諮詢調查服務水平，鼓勵本土諮詢調查服務機構規模化、品牌化發展，支援科技賦能諮詢服務，鼓勵機構拓展健康諮詢、環境、社會和治理（ESG）諮詢等新賽道，支援建設政產學研用緊密結合的新型智庫。"
+    },
+    {
+      "id": "mkt:019e80f8-0369-7666-845c-eb1fba939b4b",
+      "time": "2026-06-01 10:16:37",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "CNH",
+        "Impact mixed"
+      ],
+      "text": "【Shanghai to implement tiered incentives for large, small and micro firms; promote cross‑border and live‑streaming e‑commerce innovation】Shanghai will boost software R&D and application and introduce tiered incentive policies to cultivate leading firms, strengthen SMEs and support micro enterprises. The plan targets foundational software performance (operating systems, databases, developer tools), strengthens industrial software supply (computer‑aided design, analysis, product‑lifecycle management), advances cloud deployment and encourages development of AI‑native software including R&D assistants, intelligent office and smart entertainment. It aims to expand the online new economy by bolstering consumer internet, social e‑commerce and community video platforms, while upgrading bulk commodity trading, industrial e‑commerce and industrial digital‑transformation service platforms. The city will also push innovation in cross‑border e‑commerce and live‑streaming e‑commerce."
+    },
+    {
+      "id": "4909449",
+      "time": "2026-06-01 10:16:36",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【霍爾木茲海峽重啟仍無進展 國際油價上漲】由於霍爾木茲海峽恢復通航仍缺乏明確進展，國際油價繼續走高。美國總統特朗普30日表示，美伊雙方“接近達成一項非常好的協議”，但同時暗示，如果外交努力失敗，衝突仍有可能重新爆發。巴克萊銀行大宗商品研究分析師阿馬爾普里特·辛格表示，市場參與者希望將霍爾木茲海峽問題最終解決的預期計入價格，但經過七週談判後，促成這一結果的協議仍難以達成。受此影響，當地時間31日，紐約商品交易所7月交割的西得克薩斯中質原油期貨上漲2.1%，報每桶89.2美元；倫敦洲際交易所7月交割的布倫特原油期貨上漲1.7%，報每桶92.66美元。（央視新聞）"
+    },
+    {
+      "id": "4909448",
+      "time": "2026-06-01 10:16:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "越南 VN 指數開盤微幅波動，報 1863.49 點。"
+    },
+    {
+      "id": "4909447",
+      "time": "2026-06-01 10:15:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【奇瑞汽車在宜賓成立新能源科技公司】企查查APP顯示，近日，奇達新能源科技（宜賓）有限公司成立，法定代表人為閆國紅，註冊資本為2000萬元，經營範圍包含：電池製造；電池銷售；汽車零部件及配件製造等。企查查股權穿透顯示，該公司由奇瑞汽車間接全資持股。"
+    },
+    {
+      "id": "mkt:019e80f6-f19b-7666-845c-e73c72df0e0b",
+      "time": "2026-06-01 10:15:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Shanghai to attract international, national shipping bodies to cluster in city】Shanghai municipal government issued a Service Industry \"15th Five-Year\" plan prioritizing transport and shipping hub upgrades and policy support for shipping services. Key measures: complete Shanghai East Station and develop \"aviation+\" multimodal links; enhance Pudong and Hongqiao business-route networks; expand international container and air-freight platforms and smart-waterway infrastructure; accelerate shipping digitalisation and logistics-chain applications. The plan seeks to bolster Shanghai's shipping-insurance operations centre, support shipping finance leasing, develop foreign-related maritime temporary arbitration and a specialised maritime appraisal centre, and attract international and national shipping organisations. It also fast-tracks a green-shipping transition by building international green-fuel bunkering and trading centres, advancing ship energy-efficiency services and green shipping R&D, participating in China’s international sustainable-fuel certification framework, and co-developing green shipping corridors with foreign ports."
+    },
+    {
+      "id": "te:markets:555165",
+      "time": "2026-06-01 10:15:26",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Aussie Dollar Flat to Start the Week — The Australian dollar traded flat at $0.71 on Monday, sitting near a two-week high as markets awaited developments from Middle East peace talks and a slate of key domestic data releases later in the week. Key releases, including the April trade balance, Q1 current account, and GDP figures, are expected to offer insight into the economy’s underlying momentum and help shape expectations for the Reserve Bank's policy outlook. The central bank has already hiked rates three times this year, and recent misses on employment and inflation have led investors to sharply scale back bets of another June rate increase, now priced at just around a 5% probability. Markets still price in 70% chance of one final move to 4.6% in the last quarter of the year. Meanwhile, global oil prices continued to rise and the safe haven US dollar strengthened, as a US-Iran ceasefire deal remains elusive, tensions in the Middle East stay elevated, and efforts to reopen the Strait of Hormuz have shown little progress."
+    },
+    {
+      "id": "mkt:019e80f6-caca-7666-845c-dcbb4f882862",
+      "time": "2026-06-01 10:15:17",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "【U.S. pushes Israel-Lebanon ceasefire proposal calling for Hezbollah to halt first】U.S. Secretary of State Rubio called Lebanon president Aoun and Israeli prime minister Netanyahu in the past 48 hours to advance a ceasefire proposal that would have Hezbollah immediately stop all attacks on Israel in exchange for Israeli restraint in Beirut to enable phased de-escalation. Aoun has tried to broker the deal, but Lebanese parliament speaker Nabih Berri responded evasively and demanded Israel cease fire first despite this round of hostilities being initiated by Hezbollah. A U.S. official said Hezbollah takes direction from Iran, which seeks to prolong the Lebanon fighting to claim credit, and added Washington does not expect Israel to absorb continued attacks on its civilians; the official said the fastest way to de-escalate and protect civilians is for Hezbollah to stop firing."
+    },
+    {
+      "id": "te:markets:555164",
+      "time": "2026-06-01 10:15:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Asia FX Updates: South Korean Won Depreciates by 0.57% — Top currency losers are South Korean Won (-0.57%), New Zealand Dollar (-0.29%) and Japanese Yen (-0.13%). Meanwhile Chinese Yuan was little changed."
+    },
+    {
+      "id": "4909445",
+      "time": "2026-06-01 10:15:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海：實施優質企業培優、中小企業育強、小微企業成長的梯度激勵政策 推動跨境電商、直播電商創新發展】上海市人民政府辦公廳印發《上海市服務業發展“十五五”規劃》，其中提到，提高軟體研發應用水平，實施優質企業培優、中小企業育強、小微企業成長的梯度激勵政策。提高作業系統、資料庫、工具軟體等基礎軟體效能，強化計算機輔助設計、輔助分析、產品生命週期管理等工業軟體供給能力，推進雲化部署，鼓勵佈局研發智慧助手、智慧辦公、智慧娛樂等智慧原生軟體。壯大線上新經濟規模，做強生活性網際網路、社交電商、文化社群影片平臺等優勢業態。提升大宗商品交易、工業品電商、工業數字化轉型服務平臺能級。推動跨境電商、直播電商創新發展。"
+    },
+    {
+      "id": "4909444",
+      "time": "2026-06-01 10:14:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "【全球最大的黃金ETF SPDR Gold Trust持倉較前日減少3.43噸】截至2026年05月29日，全球最大的黃金ETF SPDR Gold Trust持倉量為1029.14噸，較前一個交易日減少3.43噸。"
+    },
+    {
+      "id": "4909443",
+      "time": "2026-06-01 10:14:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【濱化股份等成立北鯤天樞科技公司 含多項AI業務】企查查APP顯示，近日，北鯤天樞（上海）科技有限公司成立，經營範圍包含：人工智慧基礎軟體開發；人工智慧通用應用系統；人工智慧行業應用系統整合服務等。企查查股權穿透顯示，該公司由濱化股份等共同持股。"
+    },
+    {
+      "id": "mkt:019e80f6-0b35-7666-845c-d7170ce74999",
+      "time": "2026-06-01 10:14:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Copper",
+        "Impact bullish",
+        "WTI",
+        "CNH"
+      ],
+      "text": "【Shanghai to cultivate bulk-commodity trading firms with integrated procurement, distribution, processing, storage and delivery capabilities】Shanghai government published its service-sector \"15th Five-Year\" plan, urging firms with international and domestic supply-chain capabilities to set up global supply-chain management centers in the city and to cultivate bulk-commodity trading firms offering integrated procurement, distribution, processing, storage and delivery services. The plan calls for upgrading national foreign-trade transformation bases and import-trade promotion innovation demo zones, accelerating new trade forms—service trade, digital trade, cross-border e‑commerce and offshore trade—and building bonded-zone digital application scenarios and national service-trade innovation demonstration zones. It directs the Oriental Hub international business cooperation zone to pilot service-trade innovation and seeks to boost Shanghai's global resource-allocation capacity by encouraging commodity trading platforms to broaden product suites, expand functions and promote linkage between commodity futures, spot and derivatives markets. The plan also tasks expansion of overseas comprehensive service networks to raise firms' outbound platform capabilities and further upgrades the China (Shanghai) International Trade Single Window with smarter services."
+    },
     {
       "id": "4909442",
       "time": "2026-06-01 10:14:05",
@@ -17,6 +179,15 @@
         "其他"
       ],
       "text": "【郭明錤：英偉達N1X/N1瞄準端側AI重度使用者 出貨量仍取決於Windows】分析師郭明錤在X平臺發文，分析英偉達N1/N1X晶片的市場前景。供應鏈調查顯示，配備N1X/N1晶片的裝置未來兩年出貨量大約為1000萬臺。面向小眾市場，瞄準對端側AI算力有需求的重度使用者。除開售價因素，未來出貨量能否上調，仍取決於Windows是否能提供真正排程端側AI算力的應用與工作流。（科創板日報）"
+    },
+    {
+      "id": "em:jjsj_mgsj:202606013755585588",
+      "time": "2026-06-01 10:12:55",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "【美國白宮經濟主任呼籲公眾理性看待經濟資料波動】美國白宮國家經濟委員會主任哈塞特週日表示，媒體對經濟新聞的報道方式往往會讓人們過度關注到某一特定時刻所存在的最嚴重問題。哈塞特稱，每個人都應著眼全域性，而不僅僅是能源價格或經濟中某個暫時遇到困難的領域，“你應該做的是從容看待這些漲跌，關注實際工資的變化情況”。"
     },
     {
       "id": "4909440",
@@ -146198,66 +146369,6 @@
         "其他"
       ],
       "text": "豐田將減產規模擴大至約83,000輛。"
-    },
-    {
-      "id": "4897759",
-      "time": "2026-05-25 10:17:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "豐田將因中東問題擴大海外減產。"
-    },
-    {
-      "id": "4897758",
-      "time": "2026-05-25 10:16:55",
-      "tags": [
-        "市場"
-      ],
-      "text": "【CPO概念震盪拉昇 羅博特科漲超13%】CPO概念震盪拉昇，羅博特科漲超13%，長盈通、天孚通訊、劍橋科技、仕佳光子跟漲。"
-    },
-    {
-      "id": "4897757",
-      "time": "2026-05-25 10:16:24",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【成功摘帽 雙成藥業盤中漲停】5月25日，“*ST雙成”撤銷退市風險警示，股票變更為“雙成藥業”。當日公司股價開盤上漲7.77%，盤中漲停，報11.61元/股。"
-    },
-    {
-      "id": "4897756",
-      "time": "2026-05-25 10:16:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "【藍點觸控完成數億元C++輪融資，上汽金控、尚頎資本領投】近日，國內六維力感測器龍頭企業藍點觸控（北京）科技有限公司（簡稱“藍點觸控”）完成數億元人民幣的C++輪融資，由上汽金控、尚頎資本領投，中芯聚源、正大機器人及厚為資本跟投。"
-    },
-    {
-      "id": "4897755",
-      "time": "2026-05-25 10:15:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "星展銀行將聯想集團目標價從19港元上調至23.5港元。"
-    },
-    {
-      "id": "te:markets:553284",
-      "time": "2026-05-25 10:15:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Asia FX Updates: South Korean Won Increases by 0.55% — Top currency gainers are South Korean Won (0.55%), Australian Dollar (0.54%), New Zealand Dollar (0.42%), Chinese Yuan (0.24%) and Japanese Yen (0.21%)."
-    },
-    {
-      "id": "4897754",
-      "time": "2026-05-25 10:14:44",
-      "tags": [
-        "市場"
-      ],
-      "text": "【全球最大的黃金ETF SPDR Gold Trust持倉較前日減少2.86噸】截至2026年05月22日，全球最大的黃金ETF SPDR Gold Trust持倉量為1034.85噸，較前一個交易日減少2.86噸。"
     }
   ]
 }
