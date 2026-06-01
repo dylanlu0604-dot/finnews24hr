@@ -1,7 +1,159 @@
 {
-  "updated": "2026-06-01 18:36:46",
-  "count": 16500,
+  "updated": "2026-06-01 18:40:42",
+  "count": 16511,
   "items": [
+    {
+      "id": "4910501",
+      "time": "2026-06-01 18:39:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞穗將Strategy目標股價從320美元下調至265美元。"
+    },
+    {
+      "id": "mkt:019e82c4-b5b1-7112-8c8d-801767d04de1",
+      "time": "2026-06-01 18:39:45",
+      "tags": [
+        "MKT News",
+        "SMCI.O",
+        "Impact bullish"
+      ],
+      "text": "Mizuho raised its PT on Super Micro Computer (SMCI.O) to $44 from $36."
+    },
+    {
+      "id": "mkt:019e82c4-9a1d-7112-8c8d-7d1ec4e6e726",
+      "time": "2026-06-01 18:39:39",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Japanese Prime Minister Takaichi has asked Iranian President Pezeshkian to ensure free and safe navigation through the Strait of Hormuz."
+    },
+    {
+      "id": "4910500",
+      "time": "2026-06-01 18:39:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞穗將超微電腦目標股價從36美元上調至44美元。"
+    },
+    {
+      "id": "mkt:019e82c4-56bd-7112-8c8d-7043f30406c0",
+      "time": "2026-06-01 18:39:25",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "INTC.O",
+        "Impact bullish",
+        "DELL.N"
+      ],
+      "text": "MIZUHO raised its PT on Intel (INTC.O) to $128 from $124 and on Dell (DELL.N) to $500 from $435."
+    },
+    {
+      "id": "4910499",
+      "time": "2026-06-01 18:39:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本首相向伊朗總統要求霍爾木茲海峽實現自由安全通航。"
+    },
+    {
+      "id": "4910498",
+      "time": "2026-06-01 18:39:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞穗將戴爾目標股價從435美元上調至500美元。"
+    },
+    {
+      "id": "4910497",
+      "time": "2026-06-01 18:38:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞穗將ARM目標股價從360美元上調至425美元。"
+    },
+    {
+      "id": "mkt:019e82c3-6300-7112-8c8d-6e7e451cfcf7",
+      "time": "2026-06-01 18:38:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil's finance minister Du Ligan said the US Section 301 probe is more political than technical."
+    },
+    {
+      "id": "mkt:019e82c3-0e6c-7112-8c8d-6645f68a3482",
+      "time": "2026-06-01 18:38:00",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AMD.O",
+        "Impact bullish"
+      ],
+      "text": "Mizuho raised its price target (PT) on AMD (AMD.O) to $615 from $515."
+    },
+    {
+      "id": "4910496",
+      "time": "2026-06-01 18:37:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞穗將AMD目標股價從515美元上調至615美元。"
+    },
+    {
+      "id": "4910495",
+      "time": "2026-06-01 18:37:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "【科威特外交部譴責伊朗對其領土發動襲擊】科威特外交部6月1日在社交媒體上發表宣告，譴責“伊朗針對科威特領土實施的”多次襲擊。宣告說，襲擊構成對科威特安全的直接攻擊，將破壞旨在緩和地區緊張局勢的努力，並可能進一步威脅海灣地區的安全與穩定。科威特有采取一切必要措施維護國家安全和捍衛領土的權利。當地時間6月1日清晨，科威特全國響起警報。科威特武裝部隊總參謀部發表宣告說，科威特防空系統攔截了“敵方”導彈和無人機襲擊。5月28日，科威特也曾稱遭導彈和無人機襲擊。（新華社）"
+    },
+    {
+      "id": "mkt:019e82c2-6e76-7112-8c8d-5a797e0c41b5",
+      "time": "2026-06-01 18:37:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil's finance minister said the government's duty is to protect the nation and financial institutions."
+    },
+    {
+      "id": "mkt:019e82c2-40dd-7112-8c8d-542801ada11f",
+      "time": "2026-06-01 18:37:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil's finance minister Durigan said Brazil responded to the United States with considerable diplomatic skill."
+    },
+    {
+      "id": "4910494",
+      "time": "2026-06-01 18:36:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "象牙海岸2025/26季可可豆截至5月31日到港量達165.9萬噸，上年同期為162.4萬噸。"
+    },
+    {
+      "id": "mkt:019e82c1-8930-7112-8c8d-4d775e1a18c7",
+      "time": "2026-06-01 18:36:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan Prime Minister Takaichi said she held a phone call with the Iranian president."
+    },
+    {
+      "id": "4910493",
+      "time": "2026-06-01 18:36:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本首相高市早苗：已與伊朗總統通電話。"
+    },
     {
       "id": "4910492",
       "time": "2026-06-01 18:35:56",
@@ -150360,55 +150512,6 @@
         "MKT News"
       ],
       "text": "RUSSIAN DEFENCE MINISTRY: Russian Forces Seize Dobropasove, Dnipro Region, Ukraine"
-    },
-    {
-      "id": "4898619",
-      "time": "2026-05-25 18:40:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄稱在一艘液化氣運輸船上發現北約國家制造的水雷】當地時間5月25日，俄羅斯聯邦偵查委員會通報稱，一艘從比利時安特衛普港抵達列寧格勒州烏斯季盧加港的液化氣運輸船上，發現了由某北約國家制造的磁性水雷。相關資訊顯示，該船原計劃在烏斯季盧加港加註燃料後前往土耳其，但抵達時間已延誤數日。俄安全部門人員在該船隻輪機艙附近船體外側發現多枚磁性水雷，俄聯邦安全域性、國防部及國民衛隊已聯合將水雷拆除，每顆水雷內的爆炸物約7公斤。安全專家已經認定，水雷並非在俄羅斯境內被安裝。俄方已按策劃恐怖襲擊和非法販運爆炸裝置立案調查。（央視新聞）"
-    },
-    {
-      "id": "4898618",
-      "time": "2026-05-25 18:39:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯國防部：俄羅斯軍隊在烏克蘭第聶伯羅地區奪取Dobropasove村莊。"
-    },
-    {
-      "id": "4898617",
-      "time": "2026-05-25 18:39:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華立股份：控股子公司訴訟二審敗訴 預計影響淨利潤】華立股份公告稱，控股子公司尚潤資本作為上訴人，在案號為(2026)魯03民終1100號的訴訟中敗訴，二審判決維持原判。涉案金額為5180萬元及逾期利息損失和相關訴訟費用，尚潤資本需對創富一號欠繳基金出資款等債務承擔連帶責任。公司已先期確認部分預計負債，後續將根據判決履行、執行及追償進展計提負債、確認損失。雖相關可追償權益及資產可覆蓋預計損失，但本次訴訟仍預計對公司當期及未來淨利潤產生負面影響。"
-    },
-    {
-      "id": "mkt:019e5eb6-bf82-711d-be5a-fe5b1f2767f4",
-      "time": "2026-05-25 18:38:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran Central Bank Governor To Visit Qatar After Qatari Delegation's Tehran Talks On Frozen Funds"
-    },
-    {
-      "id": "4898616",
-      "time": "2026-05-25 18:37:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "【劉海星會見新加坡人民行動黨中央外事委員會主席、政府外長維文】5月25日，中共中央對外聯絡部部長劉海星在北京會見新加坡人民行動黨中央外事委員會主席、政府外長維文。維文表示，當今世界正經歷深刻複雜變化，人民行動黨願同中國共產黨深化理念交流，加強互學互鑑，推動青年、婦女、黨校等交流合作，增進相互瞭解與信任。新加坡願繼續參與中國式現代化程序，推動新中合作取得更多成果。中聯部副部長孫海燕、新加坡駐華大使陳海泉參加會見。"
-    },
-    {
-      "id": "4898615",
-      "time": "2026-05-25 18:36:47",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "市場訊息：在卡達代表團就凍結資金事宜訪問德黑蘭後，伊朗央行行長將前往卡達。"
     }
   ]
 }
