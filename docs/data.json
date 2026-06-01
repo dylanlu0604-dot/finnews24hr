@@ -1,7 +1,102 @@
 {
-  "updated": "2026-06-01 14:13:34",
-  "count": 16230,
+  "updated": "2026-06-01 14:17:27",
+  "count": 16229,
   "items": [
+    {
+      "id": "mkt:019e81d3-dbf4-799c-966c-b3aded527f9f",
+      "time": "2026-06-01 14:16:45",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Interfax reports Kazakhstan's Tengiz oilfield has entered a production recovery phase following an accident."
+    },
+    {
+      "id": "te:economy:555222",
+      "time": "2026-06-01 14:16:42",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Germany",
+        "Retail Sales MoM",
+        "Importance 2"
+      ],
+      "text": "German Retail Sales Fall Less than Estimated — Germany’s retail sales dropped 0.3% month-on-month in April 2026, matching the pace of a downwardly revised decline in the prior month and outperforming market expectations for a 0.4% fall. The latest reading marked the fourth straight monthly contraction, as heightened uncertainty stemming from the Middle East conflict continued to weigh on consumer sentiment and spending. By category, non-food sales declined 2.2%, while online and mail-order trade shrank 4.7%. In contrast, food sales rose 3.2%, partially offsetting broader weakness. On an annual basis, retail sales slipped 0.2%, following a downwardly revised 0.2% decline in March, indicating that consumer demand remained subdued despite easing inflationary pressures."
+    },
+    {
+      "id": "4909806",
+      "time": "2026-06-01 14:16:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴基斯坦規劃部預計 2027 財年國內生產總值增速目標為 4%。"
+    },
+    {
+      "id": "4909805",
+      "time": "2026-06-01 14:15:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "資料編纂機構Bilstatistik.dk表示，5月特斯拉在丹麥的新車登記量同比增長136.5%。"
+    },
+    {
+      "id": "4909804",
+      "time": "2026-06-01 14:14:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：哈薩克騰吉茲油田事故後已進入產能恢復階段。"
+    },
+    {
+      "id": "4909803",
+      "time": "2026-06-01 14:13:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華磊迅拓：與光模組龍頭中際旭創旗下深度智冷合作 構建柔性製造體系】近日，華磊迅拓與廣東深度智冷科技正式召開MOM專案啟動會，該專案旨在透過匯入華磊迅拓MOM系統，助力深度智冷科技實現製造全流程的數字化、智慧化轉型。廣東深度智冷科技聚焦“AI+液冷”融合創新，由全球光模組龍頭中際旭創與電子新材料及液冷技術領軍企業東陽光股份聯合注資成立，致力於為資料中心算力設施輸出包括3DVC、液冷板、快接頭、Manifold、CDU、冷卻工質等全鏈路散熱產品。雙方將以啟動會為起點，助力深度智冷科技構建精益、敏捷、柔性的製造能力，提高液冷板等產品生產質量和生產效率。"
+    },
+    {
+      "id": "mkt:019e81d0-e7e2-799c-966c-ad9b122c51a0",
+      "time": "2026-06-01 14:13:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Commodities",
+        "Energy",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "A-share coal sector extended gains; Xinjie Energy hit limit-up, Dayou Energy, Zhengzhou Coal & Power, Haohua Energy, Jinkong Coal and Lu'an Environmental Energy had earlier hit limit-up; Shanmei International, Shanxi Coking Coal, Pingmei Co. and China Shenhua also climbed."
+    },
+    {
+      "id": "4909802",
+      "time": "2026-06-01 14:13:27",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "A股煤炭板塊持續走高，新集能源漲停，大有能源、鄭州煤電、昊華能源、晉控煤業、潞安環能此前封板，山煤國際、山西焦煤、平煤股份、中國神華跟漲。"
+    },
+    {
+      "id": "4909801",
+      "time": "2026-06-01 14:13:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數收盤基本持平，報8729.40美元。"
+    },
+    {
+      "id": "4909800",
+      "time": "2026-06-01 14:12:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美提議黎真主黨首先停止攻擊以色列】據美國媒體“阿克西奧斯新聞網（Axios）”當地時間5月31日晚援引美國官員的訊息報道，美國國務卿魯比奧已分別與黎巴嫩總統奧恩、以色列總理內塔尼亞胡進行了通話，試圖推動以黎新停火倡議。報道稱，美方提議“黎巴嫩真主黨首先停止對以色列的所有襲擊”，“作為交換，以色列將避免在貝魯特採取升級行動”。（CCTV國際時訊）"
+    },
     {
       "id": "4909799",
       "time": "2026-06-01 14:11:52",
@@ -147732,116 +147827,6 @@
         "其他"
       ],
       "text": "【巴基斯坦總理夏巴茲向人民英雄紀念碑敬獻花圈】5月25日下午，巴基斯坦總理夏巴茲前往天安門廣場，向人民英雄紀念碑敬獻花圈。（央視新聞）"
-    },
-    {
-      "id": "4898049",
-      "time": "2026-05-25 14:17:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "小米：小米商城新品以舊換新至高補貼1200元。"
-    },
-    {
-      "id": "4898048",
-      "time": "2026-05-25 14:16:57",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【CPO概念反覆活躍 劍橋科技等多股漲停】CPO概念反覆活躍，劍橋科技漲停，光華科技、科瑞技術、華盛昌、博敏電子、快克智慧、意華股份、風華高科、華天科技等此前漲停，德龍鐳射、飛榮達、富信科技、中富電路、華豐科技等漲幅居前。"
-    },
-    {
-      "id": "4898047",
-      "time": "2026-05-25 14:16:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【因材料價格變動 山西代縣600MW/1.2GWh共享儲能專案一期招標終止】全國公共資源交易平臺（山西省）日前釋出公告，山西省代縣600MW/1200MWh電網側新型共享儲能專案（一期200MW/400MWh）EPC總承包專案招標正式終止，終止原因為材料價格變動導致招標計劃有變。該專案於4月30日首次釋出招標公告。一期工程計劃建設200MW/400MWh預製式集裝箱儲能站一座，配套220kV升壓站及對側站擴建間隔等設施，設計年調峰300次、年調頻36.5萬次，計劃工期4個月。"
-    },
-    {
-      "id": "mkt:019e5dc6-6424-711d-be57-8049e4bb9fca",
-      "time": "2026-05-25 14:15:35",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "Money Markets Price ECB Deposit Rate 2.57% By Year-End; Below 2.67% Last Friday Close"
-    },
-    {
-      "id": "mkt:019e5dc6-4dbd-711d-be57-7eb09561b50a",
-      "time": "2026-05-25 14:15:35",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "MONEY MARKETS PRICE IN ECB DEPO RATE AT 2.57% BY YEAR-END, FROM 2.67% LATE FRIDAY"
-    },
-    {
-      "id": "4898046",
-      "time": "2026-05-25 14:15:26",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "貨幣市場定價顯示，到今年年底歐洲央行存款利率將為2.57%，低於上週五尾盤預期的2.67%。"
-    },
-    {
-      "id": "mkt:019e5dc5-8e0f-711d-be57-76b8906935db",
-      "time": "2026-05-25 14:14:38",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "Copper"
-      ],
-      "text": "Italy 10Y Bond Yield Falls 7.3bps To 3.694%; 2Y Falls 4bps To 2.778%"
-    },
-    {
-      "id": "4898045",
-      "time": "2026-05-25 14:14:17",
-      "tags": [
-        "市場"
-      ],
-      "text": "義大利10年期國債收益率下跌7.3個基點，至3.694%；2年期國債收益率下跌4個基點，報2.778%。"
-    },
-    {
-      "id": "mkt:019e5dc5-1c1b-711d-be57-694ff8ad91be",
-      "time": "2026-05-25 14:14:17",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "ASML.AS",
-        "Impact bearish"
-      ],
-      "text": "HUAWEI EXECUTIVE HE TINGBO: HIGH-END EXPENSIVE LITHO TOOLING REQUIRED FOR 7NM AND MORE ADVANCED NODES LOSES COST BENEFITS GRADUALLY"
-    },
-    {
-      "id": "4898044",
-      "time": "2026-05-25 14:14:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "【戰火未熄 伊朗學生被迫長期上網課】美國和以色列2月底對伊朗發動軍事打擊以來，伊朗學校及醫院等民用設施遭到嚴重破壞。學校教學紛紛從線下轉為線上。這種全新的生活模式，徹底打亂了許多家庭的日常。一位38歲的母親莎拉告訴媒體，近三個月來，她幾乎每天下午陪著7歲兒子上網課。這意味著她必須在操持家務的同時，兼顧督促兒子學習。伊朗新聞電視臺4月底援引伊朗教育部長卡澤米的話報道，美國和以色列的襲擊已造成伊朗各地約1300處教學及行政設施受損，數百名學生和教師遇難。截至當時，775所學校修復完畢並投入使用，其餘受損建築仍在修復中。（新華社）"
-    },
-    {
-      "id": "4898043",
-      "time": "2026-05-25 14:13:40",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【中郵證券：聯美控股供熱業務穩健增長，維持“增持”評級】中郵證券研報指出，聯美控股供熱業務穩健增長，傳媒業務整體承壓。2025年公司營收32.4億元，同比-7.7%；歸母淨利潤6.9億元，同比+4.1%；2026Q1公司營收15.8億元，同比-6.8%；歸母淨利潤5.3億元，同比-13.8%。盈利回升，費用率基本穩定。2025年公司的平均供暖面積約7824萬平方米，聯網面積約11002萬平方米。“十五五”期間，公司可以依託瀋陽城市更新、舊城改造市場，新建、改建集中供熱專案，實現供暖及聯網面積的進一步增長。兆訊傳媒經營承壓。2025和2026Q1歸母利潤分別為0.1、0.06億元，同比分別-83.9%、-72.6%；但目前已實現了鐵路傳媒的全國網路化覆蓋，建立了遍佈全國各主要城市高鐵站的數字媒體平臺，深度拓寬數字戶外媒體業務，透過降本增效有望回覆盈利。預測公司2026-2028年營收分別為33.6/33.3/33.8億元，歸母淨利潤分別為7.7/7.9/8.5億元，對應PE分別為20/19/18倍，維持“增持”評級。"
     }
   ]
 }
