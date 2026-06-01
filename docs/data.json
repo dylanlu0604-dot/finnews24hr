@@ -1,7 +1,57 @@
 {
-  "updated": "2026-06-02 04:58:01",
-  "count": 17112,
+  "updated": "2026-06-02 05:01:58",
+  "count": 17111,
   "items": [
+    {
+      "id": "mkt:019e84fd-d115-7993-96fa-4cf2b4a4f740",
+      "time": "2026-06-02 05:01:27",
+      "tags": [
+        "MKT News",
+        "GOOG.O",
+        "Impact bullish"
+      ],
+      "text": "Alphabet (GOOG.O) says AI demand has exceeded its current supply capacity; it is facing strong enterprise and consumer demand for AI solutions."
+    },
+    {
+      "id": "4911335",
+      "time": "2026-06-02 05:00:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國家安全部長本-格維爾：敦促總理內塔尼亞胡拒絕由美國斡旋達成的黎巴嫩停火協議，應持續打擊真主黨，恢復北部地區安全。"
+    },
+    {
+      "id": "4911334",
+      "time": "2026-06-02 04:59:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌母公司Alphabet融資方案敲定，其中300億美元為承銷公開發行，400億美元為市價增發（ATM）。"
+    },
+    {
+      "id": "4911333",
+      "time": "2026-06-02 04:59:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌母公司Alphabet已達成協議，透過私募配售向伯克希爾哈撒韋公司出售100億美元的股票。"
+    },
+    {
+      "id": "4911332",
+      "time": "2026-06-02 04:58:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議員沃倫要求財長盧特尼克就AI晶片管制漏洞出席聽證會作證。"
+    },
+    {
+      "id": "mkt:019e84fa-5a4f-7993-96fa-472342b7f29e",
+      "time": "2026-06-02 04:57:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel Defense Forces said that shortly after an alarm sounded in the Metula area it detected a rocket falling near Israeli troops on duty in southern Lebanon; there are no reports of casualties."
+    },
     {
       "id": "mkt:019e84f9-99b1-7993-96fa-3d20691e310f",
       "time": "2026-06-02 04:56:50",
@@ -156191,69 +156241,6 @@
         "Brent"
       ],
       "text": "ECB Executive Board Member SCHNABEL Says Policy Action Needed Even If Iran War Ends Today; Energy Infrastructure Damage"
-    },
-    {
-      "id": "mkt:019e62a8-eaa6-7dd8-b21e-f251693d38c4",
-      "time": "2026-05-26 05:01:18",
-      "tags": [
-        "MKT News",
-        "USDJPY"
-      ],
-      "text": "USD/JPY Tops 159, Up 0.07% Intraday"
-    },
-    {
-      "id": "mkt:019e62a8-9175-7dd8-b21e-efec294233e3",
-      "time": "2026-05-26 05:01:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Japan Coincident Index Final MoM +0.2% Mar; Prior +0.3%"
-    },
-    {
-      "id": "mkt:019e62a8-8f84-7dd8-b21e-e1b609d9d57f",
-      "time": "2026-05-26 05:00:59",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact mixed"
-      ],
-      "text": "Japan Leading Index Final Mar MoM +0.8% (Prev +1.3%)"
-    },
-    {
-      "id": "mkt:019e62a8-4326-7dd8-b21e-cda1c0dcb476",
-      "time": "2026-05-26 05:00:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Japan Final Coincident Index Mar 116.4 vs Feb 116.5"
-    },
-    {
-      "id": "mkt:019e62a8-402a-7dd8-b21e-b8e405cac883",
-      "time": "2026-05-26 05:00:38",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan Leading Index Final Mar 114.0; Prior 114.5"
-    },
-    {
-      "id": "mkt:019e62a8-10a7-7dd8-b21e-b6109839ff73",
-      "time": "2026-05-26 05:00:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Singapore Apr Industrial Production SA MoM 5.8% vs est 1.5%; Mar revised to 3.5% from 4.7%"
-    },
-    {
-      "id": "mkt:019e62a7-f2c1-7dd8-b21e-ae6ab5be814f",
-      "time": "2026-05-26 05:00:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Singapore Industrial Output YoY 17.6% Apr vs 12.0% Est; Mar Revised To 9.2% From 10.10%"
     }
   ]
 }
