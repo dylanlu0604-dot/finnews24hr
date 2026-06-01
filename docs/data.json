@@ -1,7 +1,72 @@
 {
-  "updated": "2026-06-01 14:05:52",
-  "count": 16238,
+  "updated": "2026-06-01 14:09:42",
+  "count": 16239,
   "items": [
+    {
+      "id": "mkt:019e81cc-01e1-7ff8-9793-2b4bef39e3ff",
+      "time": "2026-06-01 14:08:11",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact mixed"
+      ],
+      "text": "【First batch of public fund benchmark adjustments take effect today; benchmarks changed, not portfolios】China’s CSRC performance-benchmark guidance for public funds, effective March 1, saw its first batch of adjustments implemented June 1. Twelve fund houses adjusted benchmarks for 195 existing funds across equity, hybrid, bond, FOF and QDII products. The guidance requires revised benchmarks to better match product mandates and actual holdings and sets a one-year transition during which firms should “adjust benchmarks as much as possible rather than rebalance portfolios.” Regulators say consumer and healthcare theme funds do not need concentrated sell-offs of technology stocks; de-thematisation plus phased rebalancing should limit forced tech disposals, leaving tech-sector direction dependent on industry trends and earnings."
+    },
+    {
+      "id": "mkt:019e81cb-f572-7ff8-9793-27dbfe3c21bf",
+      "time": "2026-06-01 14:08:04",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "A-share storage chip sector fell, led by Dongxin Co., which slid more than 10%. Tuojing Technology, Jiangbolong, Shannon Xinchuang, Demingli and Baiwei Storage also declined."
+    },
+    {
+      "id": "4909797",
+      "time": "2026-06-01 14:07:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海：將集中力量 重點突破工業軟體、基礎軟體等領域的底層關鍵核心技術】上海市新聞釋出會6月1日召開，介紹《上海市服務業發展“十五五”規劃》相關情況。上海市經濟資訊化委副主任葛東波表示，預計到2030年，上海市軟體和資訊服務業營收規模有望達到3萬億元左右，行業增加值突破1萬億元。上海將集中力量，重點突破工業軟體、基礎軟體等領域的底層關鍵核心技術，加快完成傳統軟體產品的價值重構。同時，加快推動人工智慧全面賦能軟體全生命週期，覆蓋需求分析、程式碼生成、測試驗證等各個關鍵環節，積極培育“智慧體即服務”“結果即服務”等新型業態，探索軟體研發新正規化，培育服務新形態與商業新模式。"
+    },
+    {
+      "id": "4909796",
+      "time": "2026-06-01 14:06:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "【首批公募基準調整今日落地 關鍵詞：是調基準，並非調倉】公募基金業績比較基準調整6月1日迎來首批集中落地。中國證監會發布的《公開募集證券投資基金業績比較基準指引》自3月1日起正式施行後，自6月1日起首批調整落地。據統計，此次12家基金公司共有195只存量基金涉及調整，型別涵蓋股票型、混合型、債券型、FOF和QDII。根據指引，調整後的基準將更加匹配基金產品定位和實際持倉風格，而不是調了基準導致調倉。事實上，監管此前就曾多渠道宣導，首先設定一年過渡期，並在一年過渡期內要指導行業機構以“儘量調整基準而不調倉”原則，做好存量基金的業績基準調整工作。整體結論來看，截至2026年6月1日，新規施行已近3個月，消費/醫藥主題基金並無需集中減倉科技股，透過“去主題化轉型+平滑調倉”，對科技股實質影響有限，可在不集中減持科技股的前提下完成合規。也因此，科技股核心驅動仍看產業趨勢與業績。"
+    },
+    {
+      "id": "te:economy:555216",
+      "time": "2026-06-01 14:06:44",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Nationwide Housing Prices YoY",
+        "Importance 2"
+      ],
+      "text": "UK House Price Growth Slows in May — The UK Nationwide House Price Index rose 1.7% year-on-year in May 2026, easing from a 3.0% increase in April and marking the softest growth in three months. Compared to April, house prices dropped 0.6%, the first decline in five months, following a 0.4% gain, and exceeding expectations for a 0.1% fall. Nationwide Chief Economist Robert Gardner said the slowdown was partly driven by heightened uncertainty stemming from developments in the Middle East, which pushed up energy prices and market interest rates while weighing on consumer confidence and housing demand. Despite the softer momentum, he noted that the UK economy entered the shock on a stronger footing, supported by solid first-quarter growth and easing inflation. Gardner added that household finances remain relatively healthy, backed by low debt levels, sizable savings buffers and improving affordability, suggesting any housing market weakness could prove temporary if energy prices stabilize and geopolitical tensions ease."
+    },
+    {
+      "id": "mkt:019e81c9-c077-799c-966c-81dbe9a2d9d0",
+      "time": "2026-06-01 14:05:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi Central Bank reported net foreign assets at end-April of 1.768 trillion riyals."
+    },
+    {
+      "id": "4909795",
+      "time": "2026-06-01 14:05:14",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "沙特央行公佈，沙特4月央行淨資產為1.768萬億里亞爾。"
+    },
     {
       "id": "te:economy:555215",
       "time": "2026-06-01 14:04:25",
@@ -147852,61 +147917,6 @@
         "國際"
       ],
       "text": "日本關西電力將於 5 月 26 日重啟大飯 4 號核反應堆。"
-    },
-    {
-      "id": "4898032",
-      "time": "2026-05-25 14:09:00",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "哈薩克拒絕執行烏克蘭石油天然氣公司相關裁決。"
-    },
-    {
-      "id": "te:markets:553345",
-      "time": "2026-05-25 14:08:21",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "European Stocks Head for Higher Open — European equity markets were poised for a stronger open on Monday as growing optimism that the US and Iran were nearing a deal to reopen the Strait of Hormuz boosted investor sentiment. Oil prices fell sharply on the developments, easing concerns about inflation and further interest rate hikes, while supporting expectations that equities could resume their climb toward fresh record highs. There are no major economic data releases or corporate earnings reports scheduled in Europe on Monday, though investors are expected to closely monitor inflation readings from across the region later this week for further clues on the monetary policy outlook. In premarket trading, Euro Stoxx 50 and Stoxx 600 futures were both higher by around 1%."
-    },
-    {
-      "id": "4898030",
-      "time": "2026-05-25 14:07:47",
-      "tags": [
-        "宏觀",
-        "公司",
-        "國際"
-      ],
-      "text": "【買家稱美國首次批准對受到制裁的涉伊朗船舶實施報廢拆解】作為船舶及海工資產回收領域的重要買家，GMS表示，已獲得美國頒發的首張許可證，允許購買因伊朗問題受到制裁的運輸船。該公司執行長Anil Sharma稱，這些於4月簽發的許可證允許對四艘集裝箱船進行拆解，分別為Yogi、Timon、Rantanplan和Bigli。上述船舶均曾在美國財政部去年7月釋出的公告中被點名，該公告宣佈對Hossein Shamkhani的船隊及其關聯網路採取“大規模行動”。Shamkhani是一名重要人物，其父曾任前最高領袖阿亞圖拉·哈梅內伊的高階顧問。"
-    },
-    {
-      "id": "4898029",
-      "time": "2026-05-25 14:06:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "【藍色游標與智象未來達成戰略合作】據藍色游標訊息，近日，藍色游標與多模態生成式人工智慧企業智象未來達成戰略合作。雙方將聚焦“AI+內容”核心賽道，圍繞AIGC商業內容生產、行業專有模型共建、多模態營銷及影視場景智慧化應用等方向展開深度協同，共同推動AI在廣告營銷、影視創作、短影片等領域的規模化落地與產業升級。"
-    },
-    {
-      "id": "4898028",
-      "time": "2026-05-25 14:06:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【Seaport：上調德州儀器評級至“買入”，目標價400美元】Seaport Research將德州儀器的評級從“中性”上調至“買入”，並設定400美元的目標價。分析師認為，資料中心電力分配架構的全面革新，將在未來數年內大幅推動電源模擬半導體的需求增長。"
-    },
-    {
-      "id": "4898027",
-      "time": "2026-05-25 14:06:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "【面壁智慧聯合清華正式開源中國首個基於昇騰訓練的1.58-bit端側大模型BitCPM-CANN】5月25日，面壁智慧宣佈聯合清華大學正式開源中國首個基於昇騰訓練的低位元端側大模型BitCPM-CANN，從量化運算元、訓練演算法到全鏈路框架，BitCPM-CANN均在華為昇騰上原生完成。在推理階段釋放約6倍視訊記憶體紅利，同時將模型能力保留率維持在 90%–97.2%。(澎湃新聞)"
     }
   ]
 }
