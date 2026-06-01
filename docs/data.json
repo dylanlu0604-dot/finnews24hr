@@ -1,7 +1,66 @@
 {
-  "updated": "2026-06-01 12:23:40",
-  "count": 16169,
+  "updated": "2026-06-01 12:27:31",
+  "count": 16170,
   "items": [
+    {
+      "id": "4909649",
+      "time": "2026-06-01 12:26:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺積電將採用3奈米工藝生產英偉達RTX SPARK PC晶片。"
+    },
+    {
+      "id": "mkt:019e816e-644d-799c-966a-aafc143ffe62",
+      "time": "2026-06-01 12:25:55",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "MSFT.O"
+      ],
+      "text": "NVIDIA (NVDA.O) CEO Jensen Huang said Microsoft (MSFT.O) and NVIDIA have collaborated for three years to redefine the personal computer."
+    },
+    {
+      "id": "4909648",
+      "time": "2026-06-01 12:25:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達釋出面向 WINDOWS PC 的新款處理器，挑戰英特爾。"
+    },
+    {
+      "id": "4909647",
+      "time": "2026-06-01 12:24:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達執行長：微軟與英偉達耗時三年攜手合作，對個人電腦進行了徹底重塑。"
+    },
+    {
+      "id": "4909646",
+      "time": "2026-06-01 12:24:50",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【美團第一季度盈利能力或持續承壓】美團定於週一公佈第一季度業績。以下是關注要點：根據FactSet調查的分析師的平均預期，這家中國外賣公司料將轉為淨虧損人民幣85.1億元（合12.6億美元）。美團上年同期實現利潤人民幣100.6億元，但該公司已連續兩個季度錄得虧損。據FactSet的資料，截至3月31日的三個月，美團收入預計為人民幣907.6億元，高於上年同期的人民幣855.6億元。受投資者對其盈利前景擔憂的拖累，今年前三個月，該公司在香港上市的股票下跌了約20%。截至週五，該股今年以來累計下跌26%，而同期恒生科技指數的跌幅為11%。"
+    },
+    {
+      "id": "4909645",
+      "time": "2026-06-01 12:23:30",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【高盛上調壁仞科技(06082.HK)目標價至70.7港元 上週暴漲逾26%】近日高盛發表研報，將壁仞科技目標價由61.7港元上調至70.7港元，維持“買入”評級。高盛指出，壁礪166晶片榮獲的安全可靠Ⅰ級認證為其切入政企採購掃清門檻。同時，公司正在經歷產品組合升級帶來的平均售價上升趨勢，疊加國內AI資本開支上行與國產化替代浪潮，令壁仞作為通用GPU交付方更受益。受獲納入恒生綜合指數訊息催化，市場預期公司有望隨之進入港股通可投範圍，上週股價呈現顯著拉昇趨勢，當週累漲逾26%。"
+    },
     {
       "id": "4909644",
       "time": "2026-06-01 12:22:51",
@@ -147147,52 +147206,6 @@
         "公司"
       ],
       "text": "【安永：德國工業銷售回暖但難阻崗位流失 汽車行業首當其衝】諮詢公司安永（EY）週一釋出的一份研究報告顯示，儘管德國工業企業銷售額約三年來首次實現增長，但2026年該行業的裁員仍在持續，其中汽車行業受衝擊最為嚴重。安永表示，截至第一季度末，德國工業企業就業崗位減少127,300個，同比降幅為2.3%。自2019年（即新冠疫情爆發前一年）以來，該行業已裁減341,500個崗位，降幅略超6%，這意味著每17個工業崗位中就有一個消失。安永表示，銷售疲軟是最新一輪裁員的主要原因，不過第一季度資料表明可能出現轉機。在連續10個季度下滑後，工業銷售額同比增長1.7%。安永專家Jan Brorhilker表示，這一改善主要得益於金屬行業，而其他大多數行業仍面臨壓力。“在經歷了三年的持續下滑之後，這種情況正在侵蝕企業的根基，”Brorhilker說道。"
-    },
-    {
-      "id": "4897925",
-      "time": "2026-05-25 12:27:16",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【怡和控股將以24億美元收購澳大利亞診斷成像服務提供商】怡和控股(Jardine Matheson)已同意在一項價值24億美元的交易中收購一家澳大利亞診斷成像服務提供商，此舉將加強該企業集團在防禦性醫療健康行業的業務佈局。怡和控股週一表示，該公司將以全現金交易方式，從私募股權投資公司Permira手中收購I-MED Radiology Network。此次收購還包括該診斷公司在Harrison.ai持有的少數股權。Harrison.ai開發放射學人工智慧(AI)解決方案，包括CT腦部和胸部掃描分析。I-MED在澳大利亞和紐西蘭運營著215家診斷成像診所，每年為患者進行超過700萬次檢查。該公司還在澳大利亞、紐西蘭和美國開展遠端放射業務。該交易預計將於2026年底完成，但需獲得監管部門的批准。"
-    },
-    {
-      "id": "4897924",
-      "time": "2026-05-25 12:25:44",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【全球晶片LOF：將於5月25日下午開市起停牌至當日收市】全球晶片LOF 5月25日公告，本基金將於2026年5月25日下午開市起停牌至當日收市，停牌期間本基金贖回業務照常辦理。若本基金後續二級市場交易價格溢價幅度未有效回落，本基金有權透過向上海證券交易所申請盤中臨時停牌、延長停牌時間及連續停牌等措施，向市場警示風險，具體以屆時公告為準。"
-    },
-    {
-      "id": "te:markets:553321",
-      "time": "2026-05-25 12:24:46",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "India",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Sensex Rises on US-Iran Deal Hopes — India’s BSE Sensex opened about 1.1% higher at 76,252 on Monday, following gains from the previous session and tracking advances across Asian markets, as optimism over a potential US-Iran peace agreement eased concerns about global energy supply disruptions. Investor sentiment improved after reports that Washington and Tehran had largely negotiated a memorandum aimed at reopening the Strait of Hormuz. Meanwhile, FTSE announced that Tata Capital, Lenskart Solutions, LG Electronics India, Meesho, ICICI Prudential Asset Management, and Groww will be added to its FTSE All-World and FTSE All-Cap indexes effective June 22. Among the notable gainers were HFCL (+8.8%), Apollo (+5.8%), Eicher Motors (+5.3%), Sun Pharma (+5.5%), and InterGlobe (+ 2%). On the downside, Hindalco declined 2.1% after the company reported a surprise drop in quarterly profit due to higher expenses linked to disruptions at its US unit Novelis. Other laggards were MTAR (-2.1%), HBL (-2.2%), and Info Edge (-4.2%)."
-    },
-    {
-      "id": "mkt:019e5d60-b2e7-711d-be56-4b284c964fd0",
-      "time": "2026-05-25 12:24:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Malaysia Economy Minister Says Power Demand, Supply No Sudden Imbalance"
-    },
-    {
-      "id": "4897923",
-      "time": "2026-05-25 12:24:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中利集團：公司不涉及海底光纜業務】中利集團(002309)5月25日在互動平臺表示，公司不涉及海底光纜業務。"
     }
   ]
 }
