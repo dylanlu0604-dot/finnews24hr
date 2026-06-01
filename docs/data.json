@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-02 01:45:36",
-  "count": 17043,
+  "updated": "2026-06-02 01:49:25",
+  "count": 17041,
   "items": [
+    {
+      "id": "4911235",
+      "time": "2026-06-02 01:45:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基： 烏軍可打擊所有俄方控制區域內的俄軍後勤設施，在烏克蘭東部和南部，俄軍幾乎沒有安全通行的道路。"
+    },
+    {
+      "id": "4911234",
+      "time": "2026-06-02 01:45:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：烏軍行動已造成克里米亞及其他被佔領地區燃油短缺。"
+    },
     {
       "id": "mkt:019e8449-8783-7993-96f8-566fde3a080d",
       "time": "2026-06-02 01:44:31",
@@ -155559,38 +155575,6 @@
         "Impact bullish"
       ],
       "text": "【Goldman CEO Solomon Rejects AI 'Jobpocalypse,' Says AI To Raise Productivity, Create Jobs】David Solomon in NYT op-ed: AI won't trigger mass unemployment; will boost worker productivity, shift employees to higher‑value tasks; will create roles in AI management, implementation, verification, regulation; acknowledges labor‑market disruption but cites US historical absorption; notes hyperscalers plan $700bn capex this year driving construction jobs; Goldman economists forecast AI could automate 25% of work hours over next decade; biggest hit to banking, law, accounting, software development, customer service"
-    },
-    {
-      "id": "4899078",
-      "time": "2026-05-26 01:49:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基表示，烏美之間有關反導防禦的談判進展寥寥。"
-    },
-    {
-      "id": "4899077",
-      "time": "2026-05-26 01:47:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "以軍猛攻黎巴嫩提爾地區，在納巴蒂耶區造成四人死亡。"
-    },
-    {
-      "id": "mkt:019e61f6-92b6-7001-8a1d-156b3a2b3a4c",
-      "time": "2026-05-26 01:46:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【5.7-Magnitude Quake 125 km SE Of Bitung, North Sulawesi, Indonesia; Depth 22 km, No Tsunami Risk】Indonesia Meteorology, Climatology and Geophysical Agency (BMKG) Reports 5.7-Magnitude Quake 125 km SE Of Bitung At 03:39 Local Time May 26; Hypocenter Depth 22 km; No Tsunami Risk"
-    },
-    {
-      "id": "mkt:019e61f5-bb86-7001-8a1d-097f9c27e2a0",
-      "time": "2026-05-26 01:45:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "GUTERRES Condemns Pakistan Train Bombing, Calls All Terrorism Unacceptable"
     }
   ]
 }
