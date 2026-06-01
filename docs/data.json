@@ -1,7 +1,31 @@
 {
-  "updated": "2026-06-01 23:49:53",
-  "count": 17003,
+  "updated": "2026-06-01 23:53:51",
+  "count": 17001,
   "items": [
+    {
+      "id": "mkt:019e83e2-d9fd-7993-96f6-7a3d8797fd1e",
+      "time": "2026-06-01 23:52:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IDF: Enemy aircraft alerts sounded inside Israel; alerts reported in Rosh Hanikra and Betzet coastal areas."
+    },
+    {
+      "id": "4911160",
+      "time": "2026-06-01 23:51:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗第一副總統：如今事實已十分明朗，美國中央情報局與以色列摩薩德針對伊朗的戰略就是顛覆本國政府。"
+    },
+    {
+      "id": "mkt:019e83e0-fa1a-7993-96f6-724f4b949eef",
+      "time": "2026-06-01 23:50:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Rosatom said it will maintain contact with the IAEA later this week."
+    },
     {
       "id": "4911159",
       "time": "2026-06-01 23:49:04",
@@ -155154,54 +155178,6 @@
         "MKT News"
       ],
       "text": "EBRARD: Mexico, U.S. To Hold Trade Talks May 27-29 In Mexico City"
-    },
-    {
-      "id": "mkt:019e5fd7-d235-711d-be5d-d83a18c04812",
-      "time": "2026-05-25 23:53:39",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "DAX",
-        "Impact bullish"
-      ],
-      "text": "Germany DAX +457.41 pts (+1.83%) to 25385.8; France CAC40 +142.51 pts (+1.76%) to 8258.26; STOXX Europe 50 +112.61 pts (+1.87%) to 6132.06; Spain IBEX35 +394.53 pts (+2.19%) to 18379.83; Italy FTSE MIB +718.53 pts (+1.45%) to 50229.5 — May 25 close"
-    },
-    {
-      "id": "4899017",
-      "time": "2026-05-25 23:52:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普稱伊朗談判正在“順利推進” 協議似乎更近一步】美國總統特朗普表示，美國與伊朗圍繞延長停火和重新開放霍爾木茲海峽的臨時協議所進行的談判正在“順利推進”。特朗普週一在Truth Social上發帖作出上述表態，他在帖文中還敦促沙烏地阿拉伯、卡達等國家加入《亞伯拉罕協議》。這進一步釋放出美國和伊朗正接近達成協議的訊號。"
-    },
-    {
-      "id": "te:markets:553499",
-      "time": "2026-05-25 23:50:56",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "CAC 40 Closes Higher on Hopes of Middle East Breakthrough — The CAC 40 rose 1.8% to close at 8,258 on Monday, reaching its highest level in more than two weeks as investors welcomed signs of a potential diplomatic breakthrough in the Middle East that could end the three-month conflict and reopen the Strait of Hormuz. The prospect of easing tensions triggered a sharp decline in oil prices and reduced concerns over energy-driven inflation. Luxury stocks led gains, with LVMH rising 1.3%, L'Oréal adding 1.9%, Hermès advancing 2.7%, and Kering climbing 2.3%. Financial shares also posted strong gains, including BNP Paribas (+3.1%), Crédit Agricole (+1.5%), and Société Générale (+4.8%). In contrast, TotalEnergies fell 1.5% as lower crude prices weighed on energy producers."
-    },
-    {
-      "id": "4899016",
-      "time": "2026-05-25 23:50:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "墨西哥與美國將於5月27日至29日在墨西哥城舉行貿易會談。"
-    },
-    {
-      "id": "4899015",
-      "time": "2026-05-25 23:50:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以軍稱打死一名哈馬斯核心情報人員】當地時間25日，以色列國防軍在當天發表的一份宣告中稱，在24日針對加沙地帶中部的精準打擊行動中，打死了巴勒斯坦伊斯蘭抵抗運動（哈馬斯）核心情報人員穆罕默德·阿布·馬魯赫。（央視新聞）"
     }
   ]
 }
