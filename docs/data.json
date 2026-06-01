@@ -1,7 +1,80 @@
 {
-  "updated": "2026-06-02 07:51:43",
-  "count": 17161,
+  "updated": "2026-06-02 07:55:30",
+  "count": 17166,
   "items": [
+    {
+      "id": "4911470",
+      "time": "2026-06-02 07:54:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【義大利南部海域發生6.2級地震 多地有震感】義大利國家地球物理與火山研究所2日釋出訊息說，意南部卡拉布里亞大區附近海域當天凌晨發生6.2級地震。目前尚無人員傷亡和重大財產損失報告。據該研究所監測，地震發生於當地時間2日0時12分35秒（北京時間2日6時12分35秒），震中位於卡拉布里亞大區科森扎省西北海岸附近海域，震源深度約250公里。此次地震震感範圍較廣。義大利南部多個地區民眾報告感受到震動，包括卡拉布里亞、西西里、坎帕尼亞和普利亞等大區。部分居民在地震發生後短暫離開住所前往戶外避險。義大利民防部門和地方政府正持續監測震後情況。該研究所表示，將對後續地震活動保持跟蹤，並及時釋出相關資訊。（新華社）"
+    },
+    {
+      "id": "4911469",
+      "time": "2026-06-02 07:54:33",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本10年期國債收益率上漲0.5個基點，至2.685%。"
+    },
+    {
+      "id": "4911468",
+      "time": "2026-06-02 07:53:43",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【應用需求旺盛 年內多種小金屬價格攀升】2026年以來，多種小金屬價格持續攀升。根據上海鋼聯電子商務股份有限公司資料，截至6月1日，鉭錠價格較去年年底上漲157.69%、鍺錠價格較去年年底上漲83.82%、鉬鐵價格較去年年底上漲35.65%。蘇商銀行特約研究員武澤偉在接受記者採訪時表示，鉭、鍺、鉬等小金屬年內價格攀升，核心邏輯均指向供給剛性約束與新興需求擴張的雙重共振。（證券日報）"
+    },
+    {
+      "id": "mkt:019e859b-3881-7993-96fb-8f36a7ffa093",
+      "time": "2026-06-02 07:53:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NASA Administrator Isaacman said Blue Origin's launch pad was damaged in a rocket explosion and may not be restored until 2028."
+    },
+    {
+      "id": "4911467",
+      "time": "2026-06-02 07:52:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：基輔傳出巨大的爆炸聲。"
+    },
+    {
+      "id": "mkt:019e859a-82c6-7993-96fb-8783d59c29b1",
+      "time": "2026-06-02 07:52:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Japan monetary base YoY -12.2% in May; prior -11.3%."
+    },
+    {
+      "id": "mkt:019e859a-63a7-7993-96fb-7c74352ab40e",
+      "time": "2026-06-02 07:52:28",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Base money growth rate (YoY) (May) | actual -12.2% | previous -11.30%"
+    },
+    {
+      "id": "4911466",
+      "time": "2026-06-02 07:52:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家航空航天局局長艾薩克曼表示，藍色起源在火箭爆炸中受損的發射臺，修復完工可能要推遲到2028年。"
+    },
     {
       "id": "4911465",
       "time": "2026-06-02 07:49:33",
@@ -156673,33 +156746,6 @@
         "國際"
       ],
       "text": "【美債關鍵收益率曲線釋放警示訊號 沃什時代利率或在更高水平維持更久】一項關鍵的美債收益率差指標已收窄至一年來的最低水平，交易員加大押注美聯儲可能在新主席凱文·沃什的領導下將利率在較高水平維持更長時間。5年期和30年期國債收益率差已收窄至約81個基點，為2025年5月以來的最低水平。這是一項衡量投資者對持有較長期美債所要求溢價水平的重要指標。這一走勢主要受短端美債遭拋售影響，該品種對美聯儲政策預期變化更為敏感。截至上週五收盤，2年期和30年期收益率差也收窄至7月以來的最低水平。"
-    },
-    {
-      "id": "te:markets:553528",
-      "time": "2026-05-26 07:55:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Gold Holds Gain as US-Iran Talks Progress — Gold traded above $4,550 an ounce on Tuesday after rising about 1% in the previous session, supported by indications that the US and Iran were moving closer to an agreement that could end the conflict and reopen the Strait of Hormuz. Negotiations between Washington and Tehran have reportedly centered on extending the ceasefire for roughly two months, during which the US would lift its blockade while Iran would allow shipping through Hormuz to resume. However, major obstacles remain, particularly over Iran’s nuclear program and its insistence on retaining control over maritime traffic in the strategic passage. Meanwhile, oil prices declined sharply, easing worries about inflationary pressures and the prospect of further interest rate hikes. Despite the recent rebound, gold prices are still down roughly 13% since the conflict began, as fears of an energy-driven inflation shock strengthened expectations that central banks could keep monetary policy tighter for longer."
-    },
-    {
-      "id": "4899223",
-      "time": "2026-05-26 07:54:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本降為世界第三大債權國】據日本財務省週二公佈的資料，截至2025年底，日本的淨外部資產增至561.8萬億日元（3.5萬億美元）。前一年日本已被德國超過，即34年來首次失去最大債權國之位。德國在2025年依然位居榜首，淨外部資產達675.5萬億日元。一國的淨外國資產是用居民擁有的海外資產價值減去外國人持有的該國資產，並經過匯率波動因素調整。該指標大致反映了一段時間內的累計經常賬戶餘額。"
-    },
-    {
-      "id": "4899222",
-      "time": "2026-05-26 07:51:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "【海南省與中信集團舉行工作會談】據海南日報，5月25日，海南省與中信集團在海口舉行工作會談，圍繞深化拓展央地戰略合作進行深入交流。海南省委書記馮飛、省長劉小明，中信集團董事長奚國華、總經理張文武參加。馮飛表示，海南產業發展方向與中信集團業務佈局高度契合，合作空間廣闊。願與中信集團聚焦金融開放、醫療健康、種業科技、低空經濟等領域，開展戰略性、全方位、系統性合作，攜手實現互利共贏發展。海南將全力做好服務保障，為包括中信集團在內的各類企業營造良好發展環境。奚國華表示，願持續加大在海南投資佈局力度，做好自由貿易港建設的“金融顧問”，創新綜合金融服務模式，提供“融智+融資+融產”的一攬子綜合解決方案；深化醫療健康領域務實合作，吸引集聚內外資醫藥企業，聚力打造生命健康產業高地；拓展產業發展新空間，以科技創新賦能海南現代農業高質量發展，探索低空經濟領域合作，啟用新質生產力創新動能；搭建對外開放合作橋樑，積極宣介自由貿易港政策，吸引更多企業落地海南、共謀發展。"
     }
   ]
 }
