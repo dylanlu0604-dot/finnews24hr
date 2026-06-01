@@ -1,7 +1,159 @@
 {
-  "updated": "2026-06-01 21:25:58",
-  "count": 16763,
+  "updated": "2026-06-01 21:29:55",
+  "count": 16775,
   "items": [
+    {
+      "id": "4910937",
+      "time": "2026-06-01 21:29:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "美元兌日元USD/JPY升至一個月高點159.68。"
+    },
+    {
+      "id": "mkt:019e835f-a275-7112-8c92-355c1ab3ce63",
+      "time": "2026-06-01 21:29:02",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "USD/JPY rose to a one-month high of 159.68."
+    },
+    {
+      "id": "4910936",
+      "time": "2026-06-01 21:28:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國政府稱已申請核查曼德爾森的私人手機。"
+    },
+    {
+      "id": "4910935",
+      "time": "2026-06-01 21:28:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "BESI、ASMI、AMS OSRAM、愛思強和Siltronic股價跌幅在2.7%至4.7%之間，而X-FAB和Soitec股價分別下跌6.2%和13.5%。"
+    },
+    {
+      "id": "mkt:019e835e-bbdb-7112-8c92-2a7297dedbf5",
+      "time": "2026-06-01 21:28:03",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【US military confirms Iran-launched missiles intercepted targeting US base in Kuwait; no casualties】US Central Command said on June 1 that at about 23:00 ET on May 31 (11:00 Beijing time on June 1) US forces successfully intercepted two Iran-launched ballistic missiles aimed at US bases in Kuwait. No US personnel were injured."
+    },
+    {
+      "id": "te:markets:555387",
+      "time": "2026-06-01 21:27:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Coffee Hits 18-month Low — Coffee decreased to 262.75 USd/Lbs, the lowest since November 2024. Over the past 4 weeks, Coffee lost 7.82%, and in the last 12 months, it decreased 23.31%."
+    },
+    {
+      "id": "4910934",
+      "time": "2026-06-01 21:27:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍證實駐科威特基地遭伊朗襲擊稱無人員傷亡】美軍中央司令部6月1日在社交媒體發文稱，美國東部時間5月31日23時（北京時間6月1日11時）許，美軍成功攔截兩枚伊朗發射的、目標是駐科威特美軍基地的彈道導彈。此事未造成美軍人員傷亡。 科威特全國6月1日響起警報，科威特軍方隨後稱攔截“敵方”導彈和無人機襲擊。科威特外交部同日在社交媒體上發表宣告，譴責“伊朗針對科威特領土實施的”多次襲擊。 5月28日，科威特稱遭伊朗導彈和無人機襲擊。伊朗當時回應稱，作為對美軍襲擊阿巴斯港的回應，伊朗對發動襲擊的美軍基地進行了打擊。美國媒體5月31日報道稱，伊朗的襲擊造成4名美軍士兵和3名承包商人員輕傷。(新華社)"
+    },
+    {
+      "id": "4910933",
+      "time": "2026-06-01 21:27:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗稱將確保日本船隻更加順暢地透過霍爾木茲海峽】根據在X平臺釋出的訊息，伊朗總統佩澤希齊揚表示，伊朗將確保日本船隻能夠“更加順暢且不受干擾地”透過霍爾木茲海峽。上述表態是在與日本首相通話期間作出的。佩澤希齊揚稱，伊朗已做好充分準備，為海上航運和船舶通行提供便利。他表示，當前面臨的主要問題源於美國對伊朗航運和貿易施加的限制與障礙。"
+    },
+    {
+      "id": "mkt:019e835e-0c19-7112-8c92-25af73b29a2d",
+      "time": "2026-06-01 21:27:16",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude futures jumped 6.00% intraday to $92.61/bbl."
+    },
+    {
+      "id": "mkt:019e835d-d40d-7112-8c92-1fb1734f3a51",
+      "time": "2026-06-01 21:27:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD",
+        "DXY"
+      ],
+      "text": "Market pricing shows expectations of a 25bp ECB rate hike in June are fully priced in, the first time this has been the case since May 4."
+    },
+    {
+      "id": "4910932",
+      "time": "2026-06-01 21:27:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破96美元/桶，日內漲5.36%。"
+    },
+    {
+      "id": "4910931",
+      "time": "2026-06-01 21:26:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "彭博美元現貨指數一度上漲0.3%；紐西蘭元和瑞士法郎領跌G-10貨幣。"
+    },
+    {
+      "id": "4910930",
+      "time": "2026-06-01 21:26:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東陽光：控股子公司簽署100億元至120億元算力服務採購合同】東陽光公告，控股子公司東莞東陽光雲智算科技有限公司與B公司簽署《算力服務採購合同》，合同預計總金額區間為人民幣100億元至120億元。"
+    },
+    {
+      "id": "mkt:019e835d-21b9-7112-8c92-113fade15f94",
+      "time": "2026-06-01 21:26:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "SC Shanghai crude main contract rose 4.00% intraday to 608.20 yuan/barrel."
+    },
+    {
+      "id": "4910929",
+      "time": "2026-06-01 21:26:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內漲4%，現報608.20元。"
+    },
+    {
+      "id": "4910928",
+      "time": "2026-06-01 21:25:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭農業遊說團體UCAB表示，烏克蘭5月農產品出口較4月下降8.6%，至520萬噸。"
+    },
     {
       "id": "4910927",
       "time": "2026-06-01 21:25:16",
@@ -585,6 +737,15 @@
         "市場"
       ],
       "text": "標普500指數期貨轉跌。"
+    },
+    {
+      "id": "4910885",
+      "time": "2026-06-01 21:12:09",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【媒體大鱷巴里·迪勒正籌劃出價收購博彩業巨頭美高梅度假村 估值超180億美元】巴里·迪勒旗下商業集團人物公司（People） 正籌備收購博彩巨頭美高梅度假村，本次交易估值超180億美元。 目前收購方案仍在最終敲定階段，存在延期或終止的可能。若交易落地，這將是迪勒對原IAC集團完成重組後，又一次重大戰略轉向。 人物公司計劃以每股48.30美元的現金價格，收購美高梅度假村剩餘73.9%的股份。 該報價較美高梅度假村上週五收盤價溢價近10.6%，較其過去90日成交量加權平均價高出30%。"
     },
     {
       "id": "4910884",
@@ -152744,57 +152905,6 @@
         "其他"
       ],
       "text": "【航行警告！南海實彈射擊訓練】據中國海事局網站訊息，珠海海事局釋出航行警告，5月26日和28日每天7時至19時，南海部分海域進行實彈射擊，禁止駛入。"
-    },
-    {
-      "id": "4898896",
-      "time": "2026-05-25 21:29:31",
-      "tags": [
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "【卡達確認伊朗高階代表團正在多哈會談】卡達外交部一名官員25日告訴新華社記者，一個伊朗高階代表團正在卡達首都多哈參加會談，代表團成員包括伊朗伊斯蘭議會議長卡利巴夫和外交部長阿拉格齊。此次會談旨在討論美伊間達成協議、結束戰爭的可能性。 這名不願透露姓名的官員表示，會談將重點討論包括霍爾木茲海峽、伊朗高濃縮鈾庫存、伊朗海外被凍結資金等問題。伊朗央行行長在代表團中負責討論最終協議可能涉及的金融相關事項。(新華社)"
-    },
-    {
-      "id": "mkt:019e5f53-bbf1-711d-be5c-966b2271b3c8",
-      "time": "2026-05-25 21:29:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Bank Of Israel Restarts Rate Cuts】Bank Of Israel Cuts Policy Rate To 3.75% (-25bps); 3rd Cut In 6 Months; Shekel Strength, Apr Inf 1.9% Within 1–3% Target; Warns Geopolitical Risk Remains High"
-    },
-    {
-      "id": "te:economy:553470",
-      "time": "2026-05-25 21:28:35",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Israel",
-        "Interest Rate",
-        "Importance 1"
-      ],
-      "text": "Bank of Israel Resumes Easing Cycle as Expected — The Bank of Israel cut its benchmark interest rate by 25 bps to 3.75% during its May 2026 meeting, as widely anticipated, after keeping it unchanged in February and January. The decision was driven by a strong shekel, contained inflation, and prospects of a potential agreement to end the war with Iran, despite still significant geopolitical uncertainty. The central bank noted that “inflation in Israel remains around the midpoint of the target.” The headline inflation stood at 1.9% in April 2026, unchanged from March and staying within the Bank of Israel’s 1%–3% target band for nine consecutive months. Meanwhile, policymakers noted that GDP contracted 3.3% at an annual rate in Q1, reflecting the impact of Operation Roaring Lion, but the decline was smaller than expected and less severe than during Operation Rising Lion in June 2025. Current indicators of economic activity point to a recovery. The central bank said future rates will be guided by both domestic and external factors."
-    },
-    {
-      "id": "4898895",
-      "time": "2026-05-25 21:26:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "【遠翔新材：二氧化矽產品暫未直接應用於人形機器人】遠翔新材5月25日在業績說明會上表示，目前公司的二氧化矽產品暫未直接應用於人形機器人。"
-    },
-    {
-      "id": "mkt:019e5f50-9e67-711d-be5c-89372483491a",
-      "time": "2026-05-25 21:26:03",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish",
-        "EURUSD",
-        "Impact bullish",
-        "USDJPY"
-      ],
-      "text": "【Russian Wheat Export Prices Rise On Strong Ruble, Farmer Withholding】Russia 12.5% protein wheat FOB Jun–Jul $245/mt, +$5 WoW; New‑season Jul $242/mt, +$2 (IKAR); May exports est 3.0–3.3 mln mt (IKAR); Sovecon 12.5% range $242–244/mt vs $240–242 prior week."
     }
   ]
 }
