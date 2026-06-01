@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-02 04:36:48",
-  "count": 17094,
+  "updated": "2026-06-02 04:40:44",
+  "count": 17092,
   "items": [
+    {
+      "id": "mkt:019e84e7-ddd6-7993-96f9-e8d9251002f6",
+      "time": "2026-06-02 04:37:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump to abandon $1.8bn 'anti-weaponization' legal fund after bipartisan backlash】Foreign media, citing a person familiar with the matter, report the Trump administration plans to abandon a controversial $1.8bn legal fund intended to aid people who say they were victims of government 'weaponization'. Lawmakers from both parties criticized the proposal as a slush fund for the president's political allies. The decision marks another political setback for Trump following a court defeat over plans to reform the Kennedy Center and amid ongoing difficulties on efforts to end the Iran conflict."
+    },
     {
       "id": "te:markets:555484",
       "time": "2026-06-02 04:35:19",
@@ -13,6 +21,19 @@
         "Importance 1"
       ],
       "text": "The Dow Jones Index Closes 0.09% Higher — The Dow Jones Index went up by 46 points or 0.09 percent on Monday to close at 51079 points. The rise was led by Salesforce (9.57%), IBM (7.34%) and Nvidia (6.25%). On the downside, the weakerst performers were Amazon (-3.48%), Merck (-2.96%) and Sherwin-Williams (-2.91%)."
+    },
+    {
+      "id": "mkt:019e84e5-174b-7993-96f9-e3a3c03a1357",
+      "time": "2026-06-02 04:34:26",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "【US strategic petroleum reserve may fall to lowest since 1983】The Trump administration is continuing large releases from the US Strategic Petroleum Reserve to ease an energy squeeze from the US-Iran conflict and a threatened Strait of Hormuz closure. DOE data show the SPR fell by 8.0 mln barrels last week; the prior two weeks saw withdrawals of 9.1 mln and a record 9.9 mln barrels. Inventories are 357.1 mln barrels, the lowest since Jan 2024. At the current pace the SPR could drop below the Biden-era low and reach its lowest level since 1983 as early as next week. Since the conflict began the US has released about 58 mln barrels, roughly 14% of the SPR. Analysts say continued releases will weaken US ability to respond to hurricane-season or other sudden supply disruptions."
     },
     {
       "id": "4911311",
@@ -156036,45 +156057,6 @@
         "其他"
       ],
       "text": "古巴公佈 4 月大赦令釋放人員完整名單。"
-    },
-    {
-      "id": "mkt:019e6294-a792-7dd8-b21e-6bfd2bccaec0",
-      "time": "2026-05-26 04:39:29",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets",
-        "DXY",
-        "Impact bullish",
-        "USDJPY",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Rupiah Extends Record Low Vs USD, Hits 17,790"
-    },
-    {
-      "id": "4899118",
-      "time": "2026-05-26 04:39:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "【黎真主黨稱使用無人機襲擊以軍聚集地】黎巴嫩真主黨25日發表宣告稱，其武裝人員於當晚使用攻擊型無人機，襲擊了以色列北部米斯加夫阿姆定居點內的一處以軍人員聚集地。宣告未公佈襲擊造成的人員傷亡或設施損毀情況。稍早前，以軍在對黎巴嫩貝卡谷地以及黎境內其他地區的真主黨基礎設施實施打擊。（央視新聞）"
-    },
-    {
-      "id": "4899117",
-      "time": "2026-05-26 04:38:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗伊斯蘭議會國家安全和外交政策委員會主席易卜拉欣·阿齊茲：美方若不先行採取五項建立互信舉措，雙方談及談判或達成協議便毫無意義。五項舉措具體為：全面停止各戰線戰事，尤其是黎巴嫩境內衝突；解除美國海上封鎖；允許民用船隻依照伊朗方面安排通行霍爾木茲海峽；暫停對伊石油制裁 30 至 60 天；解凍伊朗被凍結資產。"
-    },
-    {
-      "id": "4899116",
-      "time": "2026-05-26 04:37:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗官員：武裝力量處於最高戒備 若敵人犯錯必將回應】當地時間25日晚，伊朗伊斯蘭議會國家安全和外交政策委員會主席易卜拉欣·阿齊茲在提到該委員會與伊朗哈塔姆·安比亞中央司令部司令阿卜杜拉希會晤時表示，“毫無疑問，如果伊朗民族的敵人犯錯，我們處於最高戒備狀態的武裝力量將會作出回應”。（央視新聞）"
     }
   ]
 }
