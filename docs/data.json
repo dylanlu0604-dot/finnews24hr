@@ -1,7 +1,70 @@
 {
-  "updated": "2026-06-01 23:53:51",
-  "count": 17001,
+  "updated": "2026-06-01 23:57:53",
+  "count": 17000,
   "items": [
+    {
+      "id": "4911164",
+      "time": "2026-06-01 23:56:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "葡萄牙汽車協會（ACAP）資料：5 月葡萄牙特斯拉新車上牌量同比大漲 348.8%，1 至 5 月累計同比增幅 58.4%。"
+    },
+    {
+      "id": "mkt:019e83e5-c636-7993-96f6-8a51e4b5e629",
+      "time": "2026-06-01 23:55:34",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Iran military adviser: Iran controls Strait of Hormuz, will not allow maritime blockade to continue; patience limited】On the 1st (local time), Rezaei, military adviser to Iran’s Supreme Leader, said Iran controls the Strait of Hormuz and will not allow any maritime blockade to continue. He added Tehran will not tolerate escalation in Lebanon and that the Iranian armed forces’ patience is limited."
+    },
+    {
+      "id": "4911163",
+      "time": "2026-06-01 23:55:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部：外長同巴基斯坦官員通電話。"
+    },
+    {
+      "id": "mkt:019e83e5-7649-7993-96f6-8653158723c4",
+      "time": "2026-06-01 23:55:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's foreign ministry said Foreign Minister Araghchi held phone talks with Pakistan Deputy Prime Minister and Foreign Minister Muhammad Ishaq Dar and Pakistan Army Chief General Asim Munir to discuss regional developments and trends related to a ceasefire."
+    },
+    {
+      "id": "te:markets:555460",
+      "time": "2026-06-01 23:54:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Falls on Monday — The FTSE 100 fell more than 0.5% on Monday as reports that Iran would halt talks with the US undermined hopes for an extension of the ceasefire and highlighted growing tensions following Israel’s expanded operations in Lebanon. Defence stocks led the declines, with BAE Systems down 5%, Babcock losing 4.5% and Rolls Royce falling 5.5%. Major banking and pharmaceutical shares also came under pressure, weighing on the index. In contrast, oil majors Shell and BP gained 2.7% and 3.1% respectively as crude prices advanced. EasyJet surged more than 7.5% after responding to reports of takeover interest from Castlelake, stating it had not received any approach or proposal. Entain added over 5% following a report that a takeover bid may be in preparation for its US joint venture partner. On the data front, Nationwide reported that UK house prices fell 0.6% in May, marking the largest monthly decline since June 2025 and exceeding economists’ expectations."
+    },
+    {
+      "id": "4911162",
+      "time": "2026-06-01 23:54:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗最高領袖軍事顧問：伊方耐心有限 絕不允許海上封鎖繼續】當地時間1日，伊朗最高領袖軍事顧問雷扎伊表示，霍爾木茲海峽由伊朗控制，伊朗絕不允許海上封鎖繼續下去，也絕不容忍黎巴嫩局勢升級。伊朗武裝部隊的耐心是有限的。（央視新聞）"
+    },
+    {
+      "id": "4911161",
+      "time": "2026-06-01 23:53:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍通報：以色列羅斯哈尼克拉與霍夫貝特澤特地區響起針對敵方飛行器的防空警報。"
+    },
     {
       "id": "mkt:019e83e2-d9fd-7993-96f6-7a3d8797fd1e",
       "time": "2026-06-01 23:52:22",
@@ -155109,75 +155172,6 @@
         "Europe & UK"
       ],
       "text": "【BANK OF RUSSIA Files Second Suit At EU General Court Over Frozen Sovereign Assets】BANK OF RUSSIA Files Second Suit At EU General Court Challenging EU Rule Allowing Use Of Frozen Sovereign Assets To Repay Loans To Ukraine"
-    },
-    {
-      "id": "mkt:019e5fda-d450-711d-be5d-f7a598f5fd2f",
-      "time": "2026-05-25 23:57:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【U.K. Heathrow Hits 33.5°C, Breaks May Daily Heat Record】Heathrow Airport 33.5°C on May 25; Breaks U.K. May Daily Record; Previous May High 32.8°C (1922, 1944)"
-    },
-    {
-      "id": "te:markets:553500",
-      "time": "2026-05-25 23:57:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "FTSE MIB Hits Record High as Oil Prices Slide — Italy’s FTSE MIB climbed 1.4% to a record close of 50,220 on Monday, supported by a sharp drop in oil prices amid growing expectations that the US and Iran were nearing an agreement to reopen the Strait of Hormuz. Crude prices fell below $100 per barrel after senior US officials indicated that both sides were close to restoring the key Middle East shipping route, although final approval could still take several days. Lower oil prices eased inflation concerns and prompted investors to scale back expectations for further interest rate hikes. Financial stocks led gains, with UniCredit rising 2.7% and Intesa Sanpaolo adding 2.2%. Luxury shares also advanced as risk aversion eased, with Ferrari up 2.8% and Moncler gaining 3.1%. Other notable gainers included Stellantis (+2.9%) and Prysmian (+2.1%). Nexi surged 6.5% after state-backed investor CDP Equity announced plans to increase its stake in the payments group to as much as 29.9%. In contrast, Eni fell 1.1% on lower oil prices."
-    },
-    {
-      "id": "mkt:019e5fd9-f110-711d-be5d-ed7a134d6d3a",
-      "time": "2026-05-25 23:56:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Mexico Economy Minister EBRARD To Discuss Auto Rules Of Origin With U.S."
-    },
-    {
-      "id": "4899021",
-      "time": "2026-05-25 23:55:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "【超過33℃ 英國打破“最熱五月天”紀錄】英國氣象局資料顯示，首都倫敦希思羅機場地區當地時間5月25日氣溫達到33.5攝氏度，打破了英國5月單日高溫紀錄。英國有氣象記錄以來，上一個“最熱五月天”氣溫最高為32.8攝氏度，第一次發生於1922年，第二次、也是上一次出現在1944年。近年來，氣候變化導致英國頻繁遭遇異常高溫天氣，2025年剛經歷了史上“最熱一年”。"
-    },
-    {
-      "id": "4899020",
-      "time": "2026-05-25 23:55:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "墨西哥將與美方商討汽車原產地規則相關事宜。"
-    },
-    {
-      "id": "4899019",
-      "time": "2026-05-25 23:54:56",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "俄羅斯央行就凍結資產向歐盟法院提起第二起訴訟。"
-    },
-    {
-      "id": "4899018",
-      "time": "2026-05-25 23:54:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "【北約五國反對將GDP0.25%用於援烏】上週北約外長會舉行期間，北約秘書長呂特認為，一些成員國對烏克蘭軍援力度不夠，提議各成員國將本國國內生產總值（GDP）的0.25%用於對烏克蘭的軍援，但該提案未能獲得成員國一致認可。據英國《每日電訊報》5月24日報道稱，英法等五國提出反對意見。（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:019e5fd8-9a97-711d-be5d-e6351da71f69",
-      "time": "2026-05-25 23:54:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "EBRARD: Mexico, U.S. To Hold Trade Talks May 27-29 In Mexico City"
     }
   ]
 }
