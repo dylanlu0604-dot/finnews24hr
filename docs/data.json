@@ -1,7 +1,93 @@
 {
-  "updated": "2026-06-01 12:27:31",
-  "count": 16170,
+  "updated": "2026-06-01 12:31:29",
+  "count": 16174,
   "items": [
+    {
+      "id": "mkt:019e8172-db49-799c-966a-bf9cba2f6c99",
+      "time": "2026-06-01 12:30:48",
+      "tags": [
+        "MKT News",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA (NVDA.O) launched an intelligent-agent toolkit comprising NemoClaw, Nemotron, OpenShell and CUDA-X."
+    },
+    {
+      "id": "4909655",
+      "time": "2026-06-01 12:30:41",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "國務院任免國家工作人員。任命袁古潔（女）為中央人民政府駐香港特別行政區聯絡辦公室副主任。免去劉光源的中央人民政府駐香港特別行政區聯絡辦公室副主任職務。"
+    },
+    {
+      "id": "4909654",
+      "time": "2026-06-01 12:30:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【京東折扣超市落地淮南，6月底開業】6月1日，記者獲悉，京東折扣超市全國第十一家門店已確定進駐淮南市田家庵區萬達廣場，計劃於6月底正式營業，這也將是淮南市首個硬折扣超市品牌。公開資訊顯示，京東折扣超市自去年8月開出全國首店以來，目前已在北京、河北、江蘇、安徽等多地落地十家門店。"
+    },
+    {
+      "id": "4909653",
+      "time": "2026-06-01 12:30:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【英偉達入局Windows筆記本市場 正面挑戰英特爾與AMD】英偉達正式進軍個人電腦晶片市場，推出全新處理器，意在打破英特爾在該領域的壟斷地位，並推動PC裝置適配人工智慧時代的發展需求。英偉達執行長黃仁勳在臺北國際電腦展上表示，今年秋季起，戴爾、聯想等主流PC品牌將陸續推出搭載RTX Spark超級晶片的筆記本及桌上型電腦。這款由英偉達聯合臺灣聯發科共同研發的產品，整合了處理器與顯示卡，可執行微軟Arm架構版Windows系統。"
+    },
+    {
+      "id": "mkt:019e8171-f434-799c-966a-b65f2a8d700d",
+      "time": "2026-06-01 12:29:49",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "Magnificent 7",
+        "Star Stocks",
+        "NVIDIA",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA (NVDA.O) CEO Jensen Huang unveiled the RTX Spark PC chip developed in collaboration with MediaTek."
+    },
+    {
+      "id": "4909652",
+      "time": "2026-06-01 12:28:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【光力科技：公司國內半導體業務目前處於滿產狀態】光力科技(300480)日前在機構調研時表示，公司國內半導體業務目前處於滿產狀態，公司將儘可能提升現有產能的生產效率，同時全力加緊航空港廠區二期產能擴建專案的建設進度以更好地滿足客戶的交付需求。航空港廠區二期專案預計於2027年一季度全部建成，公司也將根據市場需求變化動態調整產能提升的進度。"
+    },
+    {
+      "id": "4909651",
+      "time": "2026-06-01 12:27:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達推出包含NemoGuard、Nemotron、OpenShell與CUDA-X的智慧體工具包。"
+    },
+    {
+      "id": "te:markets:555206",
+      "time": "2026-06-01 12:27:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Sensex Opens the Week with Modest Gains — India’s BSE Sensex rose about 0.3% to 74,982 on Monday, rebounding from losses in the last three straight sessions, as investors returned after a sharp foreign-led selloff tied largely to MSCI index rebalancing flows. Asian Paints and InterGlobe Industries led the advance, driving much of the benchmark's early gains. Asian Paints rose around 2.1% after beating March-quarter profit expectations on the back of healthy decorative paints volumes, while InterGlobe advanced about 3% as brokerages reiterated positive views, citing improving passenger unit revenue guidance and attractive valuations despite a quarterly loss. Investors are now turning their focus to the RBI’s policy decision later this week, along with key economic indicators including GDP and PMI data. Other notable gainers were NMDC (+14.3%), Wockhardt (+12.1%), Saregama (+10.9%), Aditya (+9.4%), Olectra (+7%), and Apollo (+4.3%). On the downside, JSLL (-20%), JP Power (-7.5%), and NATCO (-6.3%) were the biggest decliners."
+    },
+    {
+      "id": "4909650",
+      "time": "2026-06-01 12:27:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達執行長：公佈與聯發科聯合打造的RTX Spark PC晶片。"
+    },
     {
       "id": "4909649",
       "time": "2026-06-01 12:26:38",
@@ -147165,47 +147251,6 @@
         "公司"
       ],
       "text": "三菱化學集團公司：目標於2028年3月31日結束的財年末前完成分拆實施。"
-    },
-    {
-      "id": "4897930",
-      "time": "2026-05-25 12:30:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "三菱化學集團：開始考慮分拆其石化業務。"
-    },
-    {
-      "id": "4897929",
-      "time": "2026-05-25 12:30:24",
-      "tags": [
-        "市場"
-      ],
-      "text": "巴基斯坦KSE-100指數上漲1.7%，至170,747.30。"
-    },
-    {
-      "id": "4897928",
-      "time": "2026-05-25 12:30:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "【應急管理部啟動2026年油氣儲存企業部級專家指導服務】為深入推進化工和危險化學品安全生產治本攻堅三年行動，應急管理部近日啟動2026年油氣儲存企業部級專家指導服務，從5月底至7月初，5個專家組分兩批次對100家企業開展專家指導服務，並選取30家2025年指導服務企業開展“回頭看”。本次指導服務首次將其他易燃可燃液體企業納入指導服務範圍，延續以往“行前培訓、現場指導、全程服務”經驗做法，嚴格按照專家指導服務管理辦法對專家工作情況和服務質量進行量化考評。透過現場指導排查問題隱患，精準研判企業風險，示範帶動各地應急管理部門、央企紮實開展中小油氣儲存企業安全風險深度評估，持續防控油氣儲存領域重大安全風險。同時，結合“打非治違”工作部署，對《危險化學品安全法》《化工和危險化學品生產經營企業重大生產安全事故隱患判定準則》有關條款進行宣貫，督促企業依法依規組織生產經營。目前，專家組已分赴山東、廣東、重慶等地開展工作。（新華社）"
-    },
-    {
-      "id": "4897927",
-      "time": "2026-05-25 12:29:30",
-      "tags": [
-        "宏觀",
-        "兩會"
-      ],
-      "text": "【人社部召開《穩崗擴容提質行動方案》部署推進會】日前，人力資源社會保障部召開會議，深入學習貫徹中央經濟工作會議精神，落實政府工作報告要求，部署推動落實穩崗擴容提質行動方案。會議強調，實施穩崗擴容提質行動，是對去年就業挖潛擴容的再拓展、再提升，是做好今年穩就業工作的重要內容。要提高思想認識，全力抓好穩崗擴容提質行動各項任務貫徹落實，將黨中央、國務院決策部署執行好，將為民造福的舉措落實好。要明確重點任務，強化組織實施，形成就業穩崗擴容提質的強大合力。中央社會工作部、國家發展改革委等24個部門有關司局同志參會。(人力資源社會保障部)"
-    },
-    {
-      "id": "4897926",
-      "time": "2026-05-25 12:28:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "【安永：德國工業銷售回暖但難阻崗位流失 汽車行業首當其衝】諮詢公司安永（EY）週一釋出的一份研究報告顯示，儘管德國工業企業銷售額約三年來首次實現增長，但2026年該行業的裁員仍在持續，其中汽車行業受衝擊最為嚴重。安永表示，截至第一季度末，德國工業企業就業崗位減少127,300個，同比降幅為2.3%。自2019年（即新冠疫情爆發前一年）以來，該行業已裁減341,500個崗位，降幅略超6%，這意味著每17個工業崗位中就有一個消失。安永表示，銷售疲軟是最新一輪裁員的主要原因，不過第一季度資料表明可能出現轉機。在連續10個季度下滑後，工業銷售額同比增長1.7%。安永專家Jan Brorhilker表示，這一改善主要得益於金屬行業，而其他大多數行業仍面臨壓力。“在經歷了三年的持續下滑之後，這種情況正在侵蝕企業的根基，”Brorhilker說道。"
     }
   ]
 }
