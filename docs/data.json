@@ -1,7 +1,51 @@
 {
-  "updated": "2026-06-01 08:15:40",
-  "count": 15973,
+  "updated": "2026-06-01 08:19:29",
+  "count": 15974,
   "items": [
+    {
+      "id": "4909231",
+      "time": "2026-06-01 08:18:54",
+      "tags": [
+        "觀點"
+      ],
+      "text": "鎧俠股價漲幅擴大至10%，此前高盛上調評級至買入。"
+    },
+    {
+      "id": "4909230",
+      "time": "2026-06-01 08:18:46",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克50期貨下跌0.3%，德國DAX期貨下跌0.2%，英國富時期貨下跌0.6%。"
+    },
+    {
+      "id": "4909229",
+      "time": "2026-06-01 08:17:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【關停三年後，天涯社群今起開放訪問】“天涯社群”暫停運營三年多後，6月1日正式恢復訪問，網址變更為www.tianya.net。"
+    },
+    {
+      "id": "4909228",
+      "time": "2026-06-01 08:17:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天涯社群：6月1日起將分步驟實現資料恢復訪問，爭取在6月逐步恢復互動功能】5月31日，@天涯社群 釋出情況說明，表示目前新天涯聯合工作組已落實了天涯社群資料遷移、平臺最佳化及恢復訪問所必需的專項資金、專業團隊及各項準備。天涯社群公司與中國電信已透過海南國際仲裁院形成了具有法律效力的資料遷移仲裁裁決，歷史資料完整存續取得了重要進展。由於種種原因，tianya.cn域名暫時無法使用。自2026年6月1日起，天涯社群將正式啟用tianya.net域名，分步驟實現天涯社群資料恢復訪問。天涯社群資料遷移仍在等待相關審批流程，根據當前的程序，天涯社群整體資料恢復將在6月份內完成。6月1日零時起，www.tianya.net正式開放訪問，將首先實現部分天涯社群精華帖子的瀏覽功能。天涯社群爭取在6月份逐步恢復互動功能。"
+    },
+    {
+      "id": "te:markets:555107",
+      "time": "2026-06-01 08:15:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Gold Holds Steady Amid Iran Deal Uncertainty — Gold steadied above $4,500 an ounce on Monday following a volatile week, as efforts to secure a longer-term ceasefire agreement between the US and Iran showed limited signs of progress. Over the weekend, Washington and Tehran exchanged proposals seeking amendments to a draft accord that would extend the ceasefire and reopen the Strait of Hormuz, though it remained uncertain whether the negotiations were moving closer to a resolution. President Donald Trump also reiterated his call for Iran to halt its nuclear program and fully restore the strait’s status as an open international waterway. Gold has faced headwinds since late February as the Middle East conflict drove energy prices sharply higher, fueling concerns about inflationary pressures and the prospect of interest rate hikes. Investors are now awaiting the latest US monthly jobs report later this week, which could offer fresh insight into labor market strength and the likely path of Federal Reserve policy."
+    },
     {
       "id": "mkt:019e8088-c55d-7777-bd26-cc9ecb2d335e",
       "time": "2026-06-01 08:15:07",
@@ -145143,44 +145187,6 @@
         "國際"
       ],
       "text": "日本日經指數上漲2%。"
-    },
-    {
-      "id": "4897569",
-      "time": "2026-05-25 08:18:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "【印尼副貿易部長稱政府將很快釋出大宗商品出口新規的更多細節】據印尼貿易部一位官員稱，隨著印尼政府著手製定新的集中出口機構的法律和結構，全球市場和主要貿易伙伴有望在幾周內看到有關印尼商品出口新政策的最新訊息。貿易部副部長Dyah Roro Esti Widya Putri表示，這個名為“Danantara Sumberdaya Indonesia”的新政府實體正從概念階段邁向執行階段。她在週六於蘇州舉行的亞太經合組織會議間隙接受媒體採訪時做出此番表態。Roro表示，“這是個全新的計劃，在立法和實體設立方面仍在推進中。我們將密切關注未來幾周的進展。”"
-    },
-    {
-      "id": "4897568",
-      "time": "2026-05-25 08:17:34",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【新加坡第一季度經濟表現遠超預期 人工智慧熱潮提振電子產品出口】新加坡第一季度經濟表現遠超預期。全球人工智慧熱潮帶動該國製造業和服務業增長，抵消了原油價格上漲帶來的拖累。新加坡貿工部週一公佈，第一季度國內生產總值(GDP)經季節調整後環比增長1%，遠超媒體調查所得0.2%的預估中值。新加坡政府此前預計GDP萎縮0.3%。新加坡電子產品出口得益於人工智慧相關需求，這在一定程度上幫助獅城頂住了伊朗戰爭引發的能源衝擊。新加坡貿工部維持2026年GDP增長2%至4%的預測，與2月公佈的展望一致。相比之下，新加坡去年經濟增長5%。貿工部在宣告中表示，如果全球與人工智慧相關的資本支出持續，將繼續推動電子和精密工程產業的增長。不過，貿工部也提示了多項風險，包括全球能源供應持續受擾、美國再度上調關稅，以及全球人工智慧相關資本支出突然回落。"
-    },
-    {
-      "id": "te:markets:553229",
-      "time": "2026-05-25 08:16:27",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Mitsui Stock Price Hits 11-week Low — Mitsui shares decreased to 5451.00 JPY, the lowest since March 2026. Over the past 4 weeks, Mitsui lost 3.41%, and in the last 12 months, it increased 87.03%."
-    },
-    {
-      "id": "4897567",
-      "time": "2026-05-25 08:15:53",
-      "tags": [
-        "資料",
-        "觀點"
-      ],
-      "text": "【國金證券：太空光伏建議圍繞四大主線佈局】國金證券研報表示，太空光伏已進入通訊奠基、算力啟航的高速增長期，柔性太陽翼滲透率快速提升，航天級輔材成為產業鏈關鍵瓶頸與高盈利環節。建議圍繞四大主線佈局：一是適配低溫與太空環境的導電漿料；二是柔性封裝核心UTG/CPI蓋板與基板材料；三是潛在空間級封裝膠粘材料；四是高可靠性互聯材料。"
     }
   ]
 }
