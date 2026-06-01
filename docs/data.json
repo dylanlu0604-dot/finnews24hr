@@ -1,7 +1,62 @@
 {
-  "updated": "2026-06-02 02:28:02",
-  "count": 17027,
+  "updated": "2026-06-02 02:31:52",
+  "count": 17026,
   "items": [
+    {
+      "id": "mkt:019e8474-6af3-7993-96f8-9c38a4e38e47",
+      "time": "2026-06-02 02:31:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Salesforce stake in Anthropic valued at about $5bn】Salesforce’s stake in Anthropic is valued at roughly $5bn after multiple follow-on investments. The software giant first backed Anthropic in early 2023 with about $50m and continued to invest in later rounds, people familiar with the matter said. Zoom Communications also profited from an early Anthropic investment, netting just over $1bn from its participation in Anthropic’s Series C in early 2023."
+    },
+    {
+      "id": "4911244",
+      "time": "2026-06-02 02:31:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI 7月原油期貨收報92.16美元/桶。NYMEX 7月天然氣期貨收報3.1790美元/百萬英熱單位。NYMEX 7月汽油期貨收報3.0847美元/加侖，NYMEX 7月取暖油期貨收報3.6394美元/加侖。"
+    },
+    {
+      "id": "te:markets:555474",
+      "time": "2026-06-02 02:30:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Bitcoin Drops by 2.96% — Top crypto losers are Bitcoin (-2.96%), XRP (-2.53%), Binance (-2.29%) and Ether (-0.80%)."
+    },
+    {
+      "id": "4911243",
+      "time": "2026-06-02 02:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收漲3.57%，報605.70元人民幣/桶。滬金夜盤收跌1.28%，滬銀收跌0.73%。"
+    },
+    {
+      "id": "mkt:019e8472-7ce4-7993-96f8-907a3ce59128",
+      "time": "2026-06-02 02:29:15",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Putin said Ukraine's attacks in Luhansk and the southern Kherson region indicate Kyiv is opening a \"new chapter\" in a series of attacks."
+    },
+    {
+      "id": "4911242",
+      "time": "2026-06-02 02:28:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京： 烏軍在盧甘斯克、赫爾松南部發起的攻勢，標誌基輔方面在一連串襲擊中掀開了新的階段。"
+    },
     {
       "id": "te:markets:555473",
       "time": "2026-06-02 02:25:07",
@@ -155389,71 +155444,6 @@
         "DXY"
       ],
       "text": "【Rubio: Strait Of Hormuz Must Remain Open; Iran Deal Wording Talks May Take Days】Rubio Says Strait Of Hormuz Must Remain Open After US Airstrike; Iran Agreement Wording Talks May Take Days"
-    },
-    {
-      "id": "4899095",
-      "time": "2026-05-26 02:30:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯外交部：俄羅斯外長拉夫羅夫與魯比奧通電話，告知俄方決定，針對烏克蘭的“恐怖行徑”，對基輔關聯軍事的地點發動打擊。"
-    },
-    {
-      "id": "4899094",
-      "time": "2026-05-26 02:30:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "上期所原油期貨夜盤收跌3.04%，報602.80元人民幣/桶。滬金夜盤收漲0.71%，滬銀收漲1.62%。"
-    },
-    {
-      "id": "te:markets:553509",
-      "time": "2026-05-26 02:30:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: Ether Appreciates by 1.48% — Today's cryptos market is characterized by modest daily movements, with Ether standing out as the frontrunner with a 1.48% increase."
-    },
-    {
-      "id": "te:markets:553508",
-      "time": "2026-05-26 02:29:58",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Copper Hits 8-week Low — Copper decreased to 5.50 USD/Lbs, the lowest since March 2026. Over the past 4 weeks, Copper gained 6.85%, and in the last 12 months, it increased 33.9%."
-    },
-    {
-      "id": "mkt:019e621d-f80c-7dd8-b21d-c9129c12a7fd",
-      "time": "2026-05-26 02:29:51",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【Analyst: RBNZ Likely To Hold But Lean Hawkish】DBS Group FX Strategist Philip Wee Says RBNZ Likely To Hold Wed; Hawkish Tilt, Prioritizes Inf Above Target Over Weak GDP & High Unemployment; Hike Not Ruled Out; NZD/USD May Reclaim Upper Half Of 0.5700-0.6100 Range"
-    },
-    {
-      "id": "4899093",
-      "time": "2026-05-26 02:29:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯外交部：外長拉夫羅夫與美國國務卿魯比奧通電話，就烏克蘭衝突展開磋商，俄方敦促美方撤離駐基輔外交人員及本國公民。"
-    },
-    {
-      "id": "4899092",
-      "time": "2026-05-26 02:28:09",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國加州州長紐森：已就加登格羅夫危險品事故申請並獲批總統緊急狀態公告。"
     }
   ]
 }
