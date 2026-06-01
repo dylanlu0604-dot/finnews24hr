@@ -1,7 +1,47 @@
 {
-  "updated": "2026-06-02 00:42:42",
+  "updated": "2026-06-02 00:46:38",
   "count": 17030,
   "items": [
+    {
+      "id": "mkt:019e8413-c7c7-7993-96f7-33f615850948",
+      "time": "2026-06-02 00:45:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russia's Federal Service for Veterinary and Phytosanitary Surveillance (Rosselkhoznadzor) will restrict imports from Armenia of cherries, sweet cherries, apricots, plums, peaches, nectarines and grapes effective June 2."
+    },
+    {
+      "id": "4911198",
+      "time": "2026-06-02 00:43:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【船東敦促制定明確規則，來恢復霍爾木茲海峽的正常通航】6月1日，在希臘雅典集會的航運業高管們表示，美國和伊朗之間達成的任何和平協議，都需要提供明確的規則，以允許船隻恢復透過霍爾木茲海峽的正常商業往來。船東和海事行業官員在“資本連結”（Capital Link）會議及其他活動上齊聚一堂，拉開了“波塞冬（Posidonia）雙年國際海事展”的序幕，這是一場為期一週的航運業盛會。"
+    },
+    {
+      "id": "4911197",
+      "time": "2026-06-02 00:42:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯聯邦動植物衛生監督局通報，自 6 月 2 日起，俄方將限制從亞美尼亞進口櫻桃、甜櫻桃、杏、李子、桃子、油桃及葡萄。"
+    },
+    {
+      "id": "mkt:019e8410-bd0d-7993-96f7-2a15a10ff850",
+      "time": "2026-06-02 00:42:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pakistan government: Prime Minister briefed the EU High Representative on Pakistan's views on South Asian security and the situation in Afghanistan."
+    },
+    {
+      "id": "mkt:019e8410-929a-7993-96f7-22a8d4159864",
+      "time": "2026-06-02 00:42:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pakistan's prime minister met EU high representative for foreign affairs and security policy kallas and said Pakistan seeks to deepen its multifaceted partnership with the EU. He expressed satisfaction with the 8th EU–Pakistan strategic dialogue and reiterated Pakistan's commitment to strengthen cooperation with the EU on trade and investment, climate change, security, migration, sustainable development and connectivity."
+    },
     {
       "id": "4911196",
       "time": "2026-06-02 00:39:14",
@@ -155420,51 +155460,6 @@
         "焦點"
       ],
       "text": "美伊協議草案規定，霍爾木茲海峽將在30天內恢復通航。"
-    },
-    {
-      "id": "4899043",
-      "time": "2026-05-26 00:45:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美加州故障化學品儲罐爆炸風險排除】美國加利福尼亞州奧蘭治縣官員25日說，當地此前發生洩漏的有毒化學品儲罐的爆炸威脅已排除，“事件已經迎來轉折點”。奧蘭治縣消防局代理局長麥戈文在社交媒體上釋出通報說，應急人員24日夜間進入位於該縣加登格羅夫市的事故現場後確認，該儲罐發生“沸騰液體膨脹蒸氣爆炸”的威脅已排除。（新華社）"
-    },
-    {
-      "id": "4899042",
-      "time": "2026-05-26 00:44:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防軍發言人：以色列北部多個區域於18時22分（北京時間0時22分）拉響敵情警報，監測到敵方飛行器來襲。真主黨武裝發射的一架爆炸型無人機落入以色列境內、黎以邊境附近，本次事件未造成人員傷亡。"
-    },
-    {
-      "id": "mkt:019e61bc-e06d-7eef-b80d-c59af64aa1f4",
-      "time": "2026-05-26 00:43:44",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "China's GECGC Subsidiary Civil Engineering Institute Wins China Telecom Gansu Qingyang Intelligent Computing Center Phase II Civil Works Third-Party Testing Procurement"
-    },
-    {
-      "id": "mkt:019e61bc-9c71-7eef-b80d-b913b8e6bc69",
-      "time": "2026-05-26 00:43:31",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China Tech Giants",
-        "AI Revolution"
-      ],
-      "text": "【China's Yingxi Intelligent Deepens Strategic Cooperation With Wuxi Yituo Pharmaceutical】Yingxi, Wuxi Yituo Expand R&D Tie From Oncology To AI‑Enabled Skin Management; Use AI‑Driven Biology And LLPS Platforms To Accelerate Small‑Molecule Anti‑Aging Drug Clinical Translation And Commercialization"
-    },
-    {
-      "id": "4899041",
-      "time": "2026-05-26 00:42:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "美伊協議草案規定，雙方將繼續開展核問題談判，以期達成長期共識。"
     }
   ]
 }
