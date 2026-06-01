@@ -1,7 +1,76 @@
 {
-  "updated": "2026-06-02 06:57:07",
-  "count": 17140,
+  "updated": "2026-06-02 07:07:37",
+  "count": 17137,
   "items": [
+    {
+      "id": "4911412",
+      "time": "2026-06-02 07:00:22",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點",
+        "焦點",
+        "國際"
+      ],
+      "text": "【6月2日隔夜要聞一覽】\n1、當地時間6月1日，美國總統特朗普表示，他預計將在“未來一週內”與伊朗達成協議，延長當前停火安排並重新開放霍爾木茲海峽。\n2、美國能源部當天公佈的資料顯示，上週戰略石油儲備減少800萬桶原油。此前兩週分別減少910萬桶和創紀錄的990萬桶。截至目前，戰略石油儲備庫存降至3.571億桶，為2024年1月以來最低水平。\n3、以色列總理內塔尼亞胡透過社交媒體發文，證實其當天晚間與美國總統特朗普通電話。他在通話中告訴特朗普，如果黎巴嫩真主黨繼續襲擊以色列城市和民眾，以方將對位於黎巴嫩首都貝魯特的相關目標實施打擊。他表示，“我們的立場不變。與此同時，以色列國防軍將繼續按計劃在黎巴嫩南部開展行動。”\n4、當地時間6月1日，黎巴嫩總統辦公室發表最新宣告。宣告確認，黎巴嫩真主黨已承諾停止對以色列的打擊。此前，美國總統特朗普也宣佈了這一訊息。\n5、當地時間1日，伊朗外交部就美以持續違反停火協議發表宣告。宣告指出，美國對違反伊美停火協議以及以色列違反黎以停火協議負有直接責任，美國應對此局勢的後果承擔全部責任。伊朗將在認為必要時捍衛自身利益。\n6、計算裝置製造商龍頭慧與科技（HPE）股價盤後大漲超35%，公司預計未來18個月伺服器需求將推動其強勁增長。\n7、谷歌母公司Alphabet Inc．正透過股權融資籌集800億美元資金，其中包括與伯克希爾達成的一項投資交易，以支援其雄心勃勃的人工智慧支出計劃。\n8、Anthropic已保密提交IPO註冊檔案草案，力爭最快於今年秋季登陸美股市場。擬發行股份的數量及發行價尚未確定。\n9、根據SpaceX提交的S-1檔案修正案，馬斯克已與承銷商達成協議，接受為期366天的鎖定期。在未經高盛事先書面同意的情況下，他持有的所有股份均不得出售。"
+    },
+    {
+      "id": "4911411",
+      "time": "2026-06-02 07:00:22",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "可口可樂公司正探索讓其印度最大裝瓶商的母公司——印度斯坦可口可樂控股私人有限公司在印度公開上市。"
+    },
+    {
+      "id": "mkt:019e856a-8681-7993-96fb-1983208e504f",
+      "time": "2026-06-02 07:00:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea May CPI YoY 3.1% (exp. 3.0%; prior 2.6%)."
+    },
+    {
+      "id": "mkt:019e856a-8630-7993-96fb-10de7e84b9a0",
+      "time": "2026-06-02 07:00:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea May CPI MoM 0.5% (consensus 0.3%; prior 0.5%)."
+    },
+    {
+      "id": "mkt:019e856a-5b18-7993-96fb-0f05c6336edf",
+      "time": "2026-06-02 07:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "South Korea | CPI (MoM) (May) | actual 0.5% | consensus 0.30% | previous 0.50%"
+    },
+    {
+      "id": "mkt:019e856a-5b15-7993-96fb-00fd79a46dbe",
+      "time": "2026-06-02 07:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "South Korea | CPI (YoY) (May) | actual 3.1% | consensus 3.00% | previous 2.60%"
+    },
+    {
+      "id": "te:markets:555491",
+      "time": "2026-06-02 06:57:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "New Zealand Stocks Muted in Morning Trade — The NZX 50 was almost flat, trading around 13,242 in Tuesday morning trade, after gaining in the previous session, as traders resumed activity following a holiday on Friday, with gains in energy, consumer discretionary, and utilities offset by declines in communication services, materials, and healthcare. The broader index pulled back from its highest level since May 7, reached on Friday, as traders continued to assess comments from RBNZ Governor Anna Breman, who said last week that the Official Cash Rate is likely to rise sooner and more sharply than previously indicated. Caution also prevailed ahead of the release of the US PMI and jobless claims figures due later this week. However, a rally on Wall Street overnight lifted sentiment, supported by optimism that the US and Iran will end the war. Ebos Group gained 1.6%, AFT Pharmaceuticals rose 1.3%, and Auckland International Airport climbed 1.0%, while Chorus and Fisher & Paykel fell 1.2% and 0.8%, respectively."
+    },
     {
       "id": "4911410",
       "time": "2026-06-02 06:56:01",
@@ -156388,93 +156457,6 @@
         "國際"
       ],
       "text": "加拿大總理卡尼和以色列總統赫爾佐格就加沙船隊事件、中東局勢緩和問題展開會談。"
-    },
-    {
-      "id": "4899179",
-      "time": "2026-05-26 07:07:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "加拿大總理卡尼說他與以色列總統赫爾佐格通了電話。"
-    },
-    {
-      "id": "4899178",
-      "time": "2026-05-26 07:06:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "【RISC-V加速產業落地 5月以來融資淨買入居前的概念股出爐】5月25日，第五代精簡指令集架構（RISC-V）概念股集體上漲，平均漲幅達到2.85%，兆易創新觸及漲停，國芯科技、紫光國微、卓易資訊漲幅居前，分別達到7.91%、6.63%、6%。訊息面上，阿里達摩院釋出訊息稱，5月25日，玄鐵團隊宣佈旗下9系列高效能處理器已完成對Android16作業系統的適配，並面向戰略客戶定向釋出玄鐵安卓平臺。作為全球首款成功執行最新版安卓系統的RVA23相容RISC-V處理器，玄鐵9系列實現了里程碑式的突破，標誌著RISC-V在安卓生態中已從功能移植邁入規範相容與產品化交付的新階段，為規模化商業落地奠定堅實的技術基礎。據證券時報·資料寶統計，A股中佈局RISC-V的個股共有28只，主要集中在半導體、IT服務細分行業。從業績上來看，今年一季度9只概念股實現淨利潤同比增長，其中兆易創新、北京君正、好上好等7股增幅超過100%，利揚晶片扭虧為盈，5股同比減虧。從資金面來看，5月以來RISC-V概念股合計獲融資淨買入38.72億元，其中12股獲融資淨買入，兆易創新居首，達到41.72億元，紫光國微、利揚晶片、中微半導、卓易資訊緊隨其後，分別為2.61億元、1.51億元、1.23億元、1.11億元。"
-    },
-    {
-      "id": "mkt:019e6163-1c54-7ddb-85ed-b18bcd688478",
-      "time": "2026-05-26 07:05:45",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United Kingdom | BRC Shop Price Index (YoY) (May) | actual 1.2% | previous 1.00%"
-    },
-    {
-      "id": "4899177",
-      "time": "2026-05-26 07:05:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美軍稱在伊朗南部實施自衛打擊】據美國媒體於美國東部時間5月25日傍晚報道，美軍中央司令部發言人稱，“為保護美軍部隊免受伊朗威脅，美軍在伊朗南部實施了‘自衛打擊’。打擊目標包括導彈發射陣地以及正試圖佈設水雷的伊朗船隻。”該發言人稱，“美軍中央司令部除繼續捍衛美軍部隊外，仍將在當前停火期間保持克制。”"
-    },
-    {
-      "id": "4899176",
-      "time": "2026-05-26 07:04:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "歡聚集團：預計2026年第二季度淨營收將介於5.62億美元至5.81億美元之間。"
-    },
-    {
-      "id": "4899175",
-      "time": "2026-05-26 07:02:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "歡聚集團第一季度淨營收5.557億美元，預估5.397億美元。"
-    },
-    {
-      "id": "4899174",
-      "time": "2026-05-26 07:02:23",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【歡聚Q1營收同增12.4%創近年新高】歡聚集團釋出2026年第一季度財報。歡聚本季度總營收達5.557億美元，同比增長12.4%，創近年來最高同比增速，且三大業務均實現同比增長。其中，社交娛樂業務收入達4.004億美元，同比增長3.2%；廣告技術業務BIGO Ads收入達1.248億美元，同比增長55.6%；電商業務SHOPLINE收入3050萬美元，同比增速達16.1%。在非美國通用會計準則下，歡聚Q1經營利潤及EBITDA分別達3800萬美元及4570萬美元，同比增長22.5%及13.2%。一季度經營性現金流達4600萬美元。截至3月31日，淨現金達31.8億美元。同時，歡聚集團更新三年股東回饋計劃，2026至2028年，集團可回購高達6億美元的股票，分紅9億美元，3年合計金額達15億美元。"
-    },
-    {
-      "id": "4899173",
-      "time": "2026-05-26 07:01:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國5月BRC商店價格指數同比 1.2%，前值 1%。"
-    },
-    {
-      "id": "te:economy:553519",
-      "time": "2026-05-26 06:59:47",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Ireland",
-        "Consumer Confidence",
-        "Importance 1"
-      ],
-      "text": "Irish Consumer Sentiment Improves in May — Ireland’s Credit Union Consumer Sentiment Index rose to 59.4 in May 2026 from 53.3 in April, reversing more than half of the decline recorded over the previous two months as easing energy costs and government support measures improved confidence. The rebound followed a ceasefire in the Middle East that reduced fears of severe economic disruption and helped lower fuel prices, while stronger-than-expected public finances boosted expectations of further support for households and businesses. All five components of the survey increased, with the strongest improvement seen in views on the labor market. Consumers also became less negative about their financial outlook and spending plans, though sentiment remained well below the long-term average of 83.3, highlighting continued cost-of-living pressures."
-    },
-    {
-      "id": "4899172",
-      "time": "2026-05-26 06:58:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "【監事會退場 審計委接棒 上市險企最佳化監督治理體系】A股5家上市險企正式告別監事會。近日，繼中國人壽、中國太保、中國人保、新華保險之後，中國平安宣佈撤銷監事會。至此，5家上市險企監事會職權均轉由董事會審計委員會等相關委員會行使。取消監事會是上市險企落實新公司法、提升公司治理水平的重要一步。不過，在業內人士看來，從監事會到審計委員會、從“形式合規”到“實質風控”，這場公司治理架構的變革能否交出滿意答卷，關鍵在於審計委員會成員能否更好實現履職獨立性、專業性、積極性。 (上證報)"
     }
   ]
 }
