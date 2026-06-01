@@ -1,7 +1,97 @@
 {
-  "updated": "2026-06-01 21:57:46",
-  "count": 16863,
+  "updated": "2026-06-01 22:02:12",
+  "count": 16868,
   "items": [
+    {
+      "id": "4911023",
+      "time": "2026-06-01 22:00:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯財政官員向普京表示，目前戰爭開支已超出財政承受能力。"
+    },
+    {
+      "id": "4911022",
+      "time": "2026-06-01 22:00:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國4月份建築支出環比增長0.4%；預期增長0.2%。"
+    },
+    {
+      "id": "4911021",
+      "time": "2026-06-01 22:00:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國ISM製造業指數創四年新高，達到54，高於預期的53。"
+    },
+    {
+      "id": "4911020",
+      "time": "2026-06-01 22:00:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金日內跌2%，現報4448.64美元/盎司。"
+    },
+    {
+      "id": "te:markets:555415",
+      "time": "2026-06-01 21:59:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Falls on Middle East Tensions — The S&P/TSX Composite Index edged down to trade below 35,000 on Monday as reports that Iran will halt communication with the US cast doubt on a ceasefire renewal. Oil prices rebounded, reviving stagflation concerns and pushing bond yields higher. Financial stocks came under pressure amid expectations of higher borrowing costs and a hawkish monetary outlook, with RBC and TD Bank losing nearly 1%, while CIBC shed close to 2%. Gold prices also declined, weighing on mining shares. Agnico Eagle lost 3.5%, Barrick dropped nearly 3%, and WPM shed almost 4%. Meanwhile, energy stocks advanced as oil prices rallied, with Canadian Natural up nearly 3% and Suncor gaining more than 3%. Shopify also rose almost 2%, supported by optimism around AI-driven growth following Nvidia’s announcement of a new advanced processor for PCs."
+    },
+    {
+      "id": "te:markets:555414",
+      "time": "2026-06-01 21:59:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gasoline Futures Rebound from 6-Week Low — Gasoline futures in the US jumped more than 4% to above $3.15 per gallon, rebounding sharply from a six-week low of $3.03 reached on May 29, after reports that Iran would suspend exchanges of messages with the US in response to Israel’s escalating operations in Lebanon. Earlier, Foreign Ministry spokesperson Esmail Baghaei said Iran remained engaged with the US but continued to do so with “distrust.” The development clouded prospects for an interim peace agreement, even as President Donald Trump said discussions with Tehran would “work out well” despite renewed clashes near the Strait of Hormuz. Supporting prices further, US gasoline inventories fell for a 15th consecutive week in May as refineries operated at high rates using crude from strategic reserves, while some capacity shifted toward producing diesel and jet fuel to address supply concerns."
+    },
+    {
+      "id": "4911019",
+      "time": "2026-06-01 21:59:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4450美元/盎司，日內跌1.99%。"
+    },
+    {
+      "id": "4911018",
+      "time": "2026-06-01 21:57:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【麗珠醫藥：重組人促卵泡激素注射液獲得藥品註冊證書】麗珠醫藥公告，控股子公司麗珠單抗收到國家藥監局核准簽發的重組人促卵泡激素注射液藥品註冊證書。該藥品為麗珠單抗自主研發，適應症包括無排卵婦女、輔助生育技術中超排卵的婦女以及嚴重缺乏促黃體激素和促卵泡激素的患者。本品採用重組基因技術生產，注射筆給藥，已完成生物類似藥的臨床Ⅰ至Ⅲ期評價，與原研藥等效。累計研發費用約為1.22億元。"
+    },
+    {
+      "id": "4911017",
+      "time": "2026-06-01 21:57:14",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克600指數現已下跌超1%。"
+    },
+    {
+      "id": "4911016",
+      "time": "2026-06-01 21:57:10",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "加通貝祥啟動對美國稀土公司的研究覆蓋，給予買入評級，目標價25美元。"
+    },
     {
       "id": "mkt:019e8379-1d72-7ccf-b268-b4e4cbe34a7d",
       "time": "2026-06-01 21:56:48",
@@ -153751,56 +153841,6 @@
         "Impact bearish"
       ],
       "text": "Spot Gold Opens Slightly Lower At $4,571/oz"
-    },
-    {
-      "id": "4898934",
-      "time": "2026-05-25 22:00:31",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "市場訊息：伊朗議會國家安全與外交政策委員會發言人易卜拉欣表示，石油部長在該委員會週二的會議上談及美國海上封鎖，並宣佈已出臺應對封鎖的相關舉措。"
-    },
-    {
-      "id": "mkt:019e5f70-0656-711d-be5c-f0a02dcd5a9e",
-      "time": "2026-05-25 22:00:28",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Russia's Syzran Refinery Halts Oil Processing After May 21 Drone Attack"
-    },
-    {
-      "id": "4898933",
-      "time": "2026-05-25 21:59:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "訊息人士稱，俄羅斯薩雷贊煉油廠在5月21日遭無人機襲擊後已停止原油加工。"
-    },
-    {
-      "id": "te:markets:553476",
-      "time": "2026-05-25 21:59:44",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Israel",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Israeli Shekel Strengthens to 33-Year High — The Israeli shekel strengthened to around $2.88, its strongest level since 1993, after a massive 20% appreciation over the past year. In May, the Bank of Israel cut its benchmark interest rate by 25 bps to 3.75%, in line with expectations, citing stabilising inflation, a stronger shekel and signs that Washington and Tehran are moving closer to extending their ceasefire and reopening the Strait of Hormuz. Further supporting the rate cut was a narrowing 12-month rolling fiscal deficit, which contracted to 3.8% of gross domestic product in April. According to a Bank of Israel survey published on May 19, average inflation expectations for the next 12 months fell to 1.8% from 2.3%, below the midpoint of the government's target (1.9%). Policymakers are now expected to deliver one or two more rate cuts before year end as the economy continues to recover slowly from the conflict with Iran."
-    },
-    {
-      "id": "4898932",
-      "time": "2026-05-25 21:59:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本政府內部傾向於消費稅率減至1%方案】據報道，關於為期兩年的食品飲料消費稅減稅，日本政府內部更傾向於將稅率定為1%的方案而非零稅率。現已獲悉，要實現自民黨在2月眾院選舉承諾中提出的零稅率，對零售店的收銀系統進行修改最長需要花費約1年時間。但若為1%，則修改時間可縮短至半年左右。因此，認為作為物價飆升對策，應該優先考慮儘早執行的看法佔據優勢。日本首相高市早苗最快將在6月下旬作出最終判斷。"
     }
   ]
 }
