@@ -1,7 +1,33 @@
 {
-  "updated": "2026-06-02 03:24:58",
-  "count": 17067,
+  "updated": "2026-06-02 03:28:56",
+  "count": 17071,
   "items": [
+    {
+      "id": "mkt:019e84a6-fb65-7993-96f9-565dde725040",
+      "time": "2026-06-02 03:26:36",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Anthropic confidentially files for IPO; OpenAI's Altman says no race to be first】CNBC reports Anthropic has confidentially submitted an IPO registration statement to the US SEC. OpenAI founder Altman said he had only just learned of the filing and that there is no competition to be the first publicly listed AI company; he framed the contest as one over technology and building the best business, called an IPO a financing event, and said OpenAI will go public when the timing is right."
+    },
+    {
+      "id": "4911281",
+      "time": "2026-06-02 03:25:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟輪值主席國塞普勒斯：歐盟理事會與歐洲議會今日就一項歐盟法規達成臨時協議，該法規將推動歐盟各成員國建立更高效快捷的全歐盟非法滯留人員遣返流程。此番協議是《歐盟移民與庇護公約》的配套細則，助力公約落地施行。"
+    },
+    {
+      "id": "4911280",
+      "time": "2026-06-02 03:24:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "黎巴嫩總統府：黎巴嫩已收到確認，真主黨同意美方提議。"
+    },
     {
       "id": "mkt:019e84a4-650e-7993-96f9-4edd8bf4842c",
       "time": "2026-06-02 03:23:46",
@@ -9,6 +35,14 @@
         "MKT News"
       ],
       "text": "THUNE: The U.S. Senate will advance a $72 billion immigration enforcement spending bill."
+    },
+    {
+      "id": "4911279",
+      "time": "2026-06-02 03:23:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議院多數黨領袖約翰·圖恩表示，美國參議院將推進總額720億美元的移民執法支出法案。"
     },
     {
       "id": "4911278",
