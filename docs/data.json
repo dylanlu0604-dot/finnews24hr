@@ -1,7 +1,55 @@
 {
-  "updated": "2026-06-02 00:34:45",
-  "count": 17031,
+  "updated": "2026-06-02 00:38:46",
+  "count": 17034,
   "items": [
+    {
+      "id": "4911195",
+      "time": "2026-06-02 00:37:40",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "據沙烏地阿拉伯阿拉比亞電視臺：巴基斯坦外交部表示，伊朗方面要求繼續進行調解，以緩和當前局勢並支援停火。"
+    },
+    {
+      "id": "mkt:019e840c-50e4-7993-96f7-1ef5a1e72b48",
+      "time": "2026-06-02 00:37:40",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Israel's Channel 12 reports Prime Minister Netanyahu held a phone call with Trump."
+    },
+    {
+      "id": "mkt:019e840b-4c50-7993-96f7-1343d999bcd5",
+      "time": "2026-06-02 00:36:33",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Al Arabiya (Saudi Arabia) reported Pakistan’s foreign ministry said Iran requested continued mediation to ease the current situation and support a ceasefire."
+    },
+    {
+      "id": "mkt:019e840a-304d-7993-96f7-0a7f59bab448",
+      "time": "2026-06-02 00:35:20",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Israel Defense Forces says it killed one HEZBOLLAH missile unit commander】On June 1 local time, the Israel Defense Forces (IDF) said an airstrike on Nabatieh in southern Lebanon on May 31 killed a HEZBOLLAH missile unit commander whom the IDF said helped organize and direct rocket and drone attacks against Israel. The IDF also said it shot down a HEZBOLLAH-launched drone over its area of operations in southern Lebanon."
+    },
+    {
+      "id": "4911194",
+      "time": "2026-06-02 00:34:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍稱打死1名黎真主黨軍事指揮官】當地時間6月1日，以色列國防軍表示，以軍5月31日在黎巴嫩南部奈拜提耶實施空襲，打死1名黎巴嫩真主黨導彈部隊指揮官。以軍稱，該指揮官在真主黨導彈部隊中擔任單位指揮官，參與組織和指揮針對以色列的火箭彈及無人機襲擊行動。以國防軍還表示，以軍當天在黎巴嫩南部的行動區域上空擊落了一架由黎巴嫩真主黨發射的無人機。（央視新聞）"
+    },
     {
       "id": "4911193",
       "time": "2026-06-02 00:33:51",
@@ -155457,23 +155505,6 @@
         "Impact bullish"
       ],
       "text": "【TSMC Rally Pushes Taiwan Market Cap Past India】Taiwan Market Cap $4.95trn vs India $4.92trn; TSMC +49% YTD, >42% Index Weight on AI Chips"
-    },
-    {
-      "id": "4899036",
-      "time": "2026-05-26 00:36:25",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "美伊協議草案提議將停火期限延長60天，該期限可再度續期。"
-    },
-    {
-      "id": "mkt:019e61b5-9bd7-7993-bac6-cad1e583b029",
-      "time": "2026-05-26 00:35:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "REUTERS POLL: 21 Of 29 Economists See BOK Hike >=25bps By End-Q3"
     }
   ]
 }
