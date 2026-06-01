@@ -1,7 +1,167 @@
 {
-  "updated": "2026-06-01 21:45:49",
-  "count": 16822,
+  "updated": "2026-06-01 21:49:47",
+  "count": 16836,
   "items": [
+    {
+      "id": "te:markets:555404",
+      "time": "2026-06-01 21:49:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Cocoa Futures Hover Around $4,000 — Cocoa futures traded above $4,000 per tonne, extending their recent recovery from multi-month lows, as the market weighed improving supply prospects against lingering weather-related risks. Market participants remain focused on the possible impacts of the El Niño phenomenon, as it could hurt cocoa crops in Ivory Coast and Ghana, which produce more than 60% of the world's cocoa. On the other hand, prospects for a recovery in African cocoa production in 2025/26 are limiting further price gains. Farmers in Ivory Coast reported rainfall was mainly below average last week in most of the country's cocoa growing regions but it was sufficient to boost the size and quality of the March-to-August mid-crop. At the same time, there were signs of increased global inventories. Latest data showed ICE cocoa inventories rose to a near two-year high of 2,846,957 bags by May 29."
+    },
+    {
+      "id": "mkt:019e8371-e915-7ccf-b268-536c6c8e0ac5",
+      "time": "2026-06-01 21:48:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【WTI and Brent rise over $5 intraday】WTI and Brent crude futures each gained more than $5 intraday after reports that Iran's negotiating team halted information exchanges with the US."
+    },
+    {
+      "id": "te:economy:555403",
+      "time": "2026-06-01 21:48:21",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 2"
+      ],
+      "text": "Treasury Yields March Higher — The yield on the US 10-year Treasury note climbed to 4.5% on Monday, extending May's nearly 6-basis-point increase. The move came as oil prices continued to rise after Iranian media reported that Tehran had suspended communications with Washington following attacks in Lebanon and was moving to fully close the Strait of Hormuz. Earlier exchanges of military strikes between the US and Iran had already raised doubts about the prospects for a diplomatic agreement. A prolonged closure of the Strait of Hormuz would add to inflationary pressures by driving energy prices higher, reinforcing expectations that the Fed will keep interest rates elevated for longer. The odds for a rate hike by the Fed in December currently stand above 50%. Separately, former Fed Chair Powell warned that efforts by the Trump administration to pressure the central bank into cutting rates could undermine public confidence in its independence."
+    },
+    {
+      "id": "4910989",
+      "time": "2026-06-01 21:47:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【香港釋出“未來智慧物流加速計劃”】香港特區政府1日推出“未來智慧物流加速計劃”（加速計劃），旨在加快各類資訊科技平臺匯入方案落地應用，協助物流企業依託政府或公營機構營運的物流資料平臺，包括港口社群系統及香港國際機場貨運資料平臺，提升行業數字化水平。 特區政府運輸及物流局發言人表示，部分物流企業尤其是中小型企業數字化水平偏低，難以有效運用現有物流資料平臺。特區政府期望透過加速計劃，鼓勵業界研發創新資訊科技平臺匯入方案，協助企業跨越數字鴻溝，擴大物流資料平臺的行業應用覆蓋面，進一步提升香港物流業競爭力，助力香港打造國際智慧物流樞紐。 為持續推進香港物流業數字化發展，特區政府財政司司長在發表2026/2027財政年度特區政府財政預算案時宣佈，將在“第三方物流服務供應商資助先導計劃”下設立加速計劃，目標惠及100家物流企業。 納入白名單的方案，將被認定為技術可行、具備實用性，可有效助力物流企業對接使用指定物流資料平臺。有意向的第三方物流服務供應商可選用相關方案，透過加速計劃申請資助，用於訂購及應用有關方案。 目前加速計劃首階段白名單申請已開啟，首輪申請截止時間為本月30日，申請均需經過初步評審、技術評審面試、最終審批的三層評審機制。（新華社）"
+    },
+    {
+      "id": "4910988",
+      "time": "2026-06-01 21:47:53",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "布倫特原油、美國原油期貨上漲超5美元，此前伊朗塔斯尼姆通訊社稱伊朗談判團隊已停止與美國交換資訊。"
+    },
+    {
+      "id": "mkt:019e8370-9dad-7ccf-b268-4b9d17d6e9c1",
+      "time": "2026-06-01 21:47:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "MU.O"
+      ],
+      "text": "Micron Technology (MU.O) shares hit an all-time high of $1,036.80."
+    },
+    {
+      "id": "mkt:019e8370-0aaf-7ccf-b268-4220e681ed97",
+      "time": "2026-06-01 21:46:56",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "RIA Novosti reports Russian authorities are preparing a new package of measures to secure domestic supplies."
+    },
+    {
+      "id": "4910987",
+      "time": "2026-06-01 21:46:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "哥倫比亞國際債券上漲，右翼候選人在總統選舉首輪投票中勝出後，2042年到期的債券價格上漲3美分。"
+    },
+    {
+      "id": "4910986",
+      "time": "2026-06-01 21:46:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯新聞社RBC援引訊息人士報道，俄羅斯當局正準備推出一攬子新措施，以保障國內供應穩定。"
+    },
+    {
+      "id": "mkt:019e836f-6cfb-7ccf-b268-3f18f92a2932",
+      "time": "2026-06-01 21:46:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Jazeera reported the Israeli military said it intercepted three rockets launched from Lebanon."
+    },
+    {
+      "id": "4910985",
+      "time": "2026-06-01 21:46:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗塔斯尼姆通訊社6月1日報道，伊朗官員表示，以色列必須立即停止在黎巴嫩和加沙地帶的軍事行動，並從黎巴嫩撤出。在此要求得到滿足前，伊朗不會舉行任何談判。（新華社）"
+    },
+    {
+      "id": "4910984",
+      "time": "2026-06-01 21:45:47",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "哥倫比亞總統選舉第一輪投票結果出爐後，哥倫比亞國家石油公司（Ecopetrol）股票在美國早盤交易中上漲超10%。"
+    },
+    {
+      "id": "4910983",
+      "time": "2026-06-01 21:45:46",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數漲超1%，海天網路漲107.53%，聲網漲10.24%，復朗集團漲10.00%，蔚來漲6.52%，小鵬汽車漲6.75%。"
+    },
+    {
+      "id": "4910982",
+      "time": "2026-06-01 21:45:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗談判代表團成員：伊方正審議美新提議 尚未作出回應】總檯記者當地時間6月1日獲悉，伊朗談判代表團的媒體團隊成員阿賈魯表示，美國的新提議正在由伊朗最高國家安全委員會及相關部門審議。他表示，一份文字已透過調解方送達伊朗，但伊朗尚未對美國的新提議作出回應，且美方可能會對文字進行其他修改，並提出其他問題。阿賈魯表示，伊朗尚未對美國的新文字作出回應，因為伊朗存有一些顧慮，這些顧慮必須得到解決，才能讓伊朗從談判中獲益。（央視新聞）"
+    },
+    {
+      "id": "mkt:019e836e-8781-7ccf-b268-357a27caad1a",
+      "time": "2026-06-01 21:45:16",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude rose above $95/bbl, gaining 5.29% intraday."
+    },
+    {
+      "id": "em:jjsj_mgsj:202606013756337262",
+      "time": "2026-06-01 21:45:16",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "【美國5月標普全球製造業PMI終值55.1 前值55.3】美國5月標普全球製造業PMI終值55.1，前值55.3。"
+    },
+    {
+      "id": "4910981",
+      "time": "2026-06-01 21:45:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國5月份製造業採購經理指數報55.1，初步資料為55.3。"
+    },
     {
       "id": "mkt:019e836e-6d0c-7ccf-b268-286d506bcc7f",
       "time": "2026-06-01 21:45:08",
@@ -153350,30 +153510,6 @@
         "其他"
       ],
       "text": "市場訊息：醫院方面稱， 巴西總統盧拉於本週一接受了放射治療。"
-    },
-    {
-      "id": "4898920",
-      "time": "2026-05-25 21:48:46",
-      "tags": [
-        "市場"
-      ],
-      "text": "土耳其主要銀行指數上漲2%。"
-    },
-    {
-      "id": "4898919",
-      "time": "2026-05-25 21:46:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄對基輔發動系列打擊】最新訊息：俄羅斯外交部今天（5月25日）通報稱，俄軍開始對烏克蘭首都基輔的軍工聯合體發動一系列打擊，打擊將針對決策中心與指揮所。俄方警告外國公民儘快離開基輔，並呼籲基輔市民不要靠近軍事和行政基礎設施。（CCTV國際時訊）"
-    },
-    {
-      "id": "4898918",
-      "time": "2026-05-25 21:46:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "【任鴻斌會長會見新加坡律政部長兼內政部第二部長唐振輝一行】5月25日，中國貿促會會長任鴻斌在京會見新加坡律政部長兼內政部第二部長唐振輝一行。雙方就促進中新工商界往來、加強商事法律領域合作、共同辦好第六屆中國—新加坡國際商事爭議解決論壇等議題交換意見。雙方簽署《中國國際貿易促進委員會與新加坡共和國律政部關於法律與爭議解決合作的諒解備忘錄》。劉健男副會長參加會見。（中國貿促）"
     }
   ]
 }
