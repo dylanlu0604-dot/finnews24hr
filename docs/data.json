@@ -1,7 +1,31 @@
 {
-  "updated": "2026-06-02 01:49:25",
-  "count": 17041,
+  "updated": "2026-06-02 01:53:19",
+  "count": 17042,
   "items": [
+    {
+      "id": "mkt:019e844e-092a-7993-96f8-651f4c8e1c0c",
+      "time": "2026-06-02 01:49:26",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Ukrainian President Zelenskiy said Ukrainian military operations have caused fuel shortages in Crimea and other occupied territories."
+    },
+    {
+      "id": "mkt:019e844d-a7d9-7993-96f8-583339424f04",
+      "time": "2026-06-02 01:49:02",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Zelenskiy says Ukrainian forces can strike Russian logistics across occupied territory; Russian troops in southern and eastern Ukraine have almost no secure supply routes."
+    },
     {
       "id": "4911235",
       "time": "2026-06-02 01:45:40",
@@ -155560,21 +155584,6 @@
         "國際"
       ],
       "text": "俄羅斯總統普京簽署一項法案，免除2026年5月起簽約參與特別軍事行動人員的債務。"
-    },
-    {
-      "id": "mkt:019e61fa-a55e-7223-a772-842baf366fa4",
-      "time": "2026-05-26 01:51:16",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "S&P500",
-        "Impact mixed",
-        "Nasdaq100",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "【Goldman CEO Solomon Rejects AI 'Jobpocalypse,' Says AI To Raise Productivity, Create Jobs】David Solomon in NYT op-ed: AI won't trigger mass unemployment; will boost worker productivity, shift employees to higher‑value tasks; will create roles in AI management, implementation, verification, regulation; acknowledges labor‑market disruption but cites US historical absorption; notes hyperscalers plan $700bn capex this year driving construction jobs; Goldman economists forecast AI could automate 25% of work hours over next decade; biggest hit to banking, law, accounting, software development, customer service"
     }
   ]
 }
