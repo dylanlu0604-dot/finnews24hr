@@ -1,7 +1,34 @@
 {
-  "updated": "2026-06-02 02:20:27",
-  "count": 17032,
+  "updated": "2026-06-02 02:24:11",
+  "count": 17030,
   "items": [
+    {
+      "id": "mkt:019e846a-e69d-7993-96f8-8ba4f82698aa",
+      "time": "2026-06-02 02:20:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "AP: The United States will reduce the number of embassies in Africa processing visa applications."
+    },
+    {
+      "id": "4911241",
+      "time": "2026-06-02 02:20:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息： 美國將縮減非洲地區可辦理簽證業務的大使館數量。"
+    },
+    {
+      "id": "te:markets:555472",
+      "time": "2026-06-02 02:20:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Copper Gains by 2.99% — Top commodity gainers are Copper (2.99%), Silicon (2.56%) and Lithium Carbonate (0.85%). Biggest loser is Gold (-1.16%)."
+    },
     {
       "id": "te:markets:555471",
       "time": "2026-06-02 02:15:07",
@@ -155457,52 +155484,6 @@
         "Importance 1"
       ],
       "text": "Agricultural Commodities Updates: Orange Juice Drops by 2.70% — Top commodity losers are Orange Juice (-2.70%), Rapeseed (-2.18%) and Canola (-1.79%). Gains are led by Cocoa (0.58%)."
-    },
-    {
-      "id": "mkt:019e6218-6ac3-7dd8-b21d-b767cfcf80a0",
-      "time": "2026-05-26 02:23:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Rubio: No Active Or Scheduled US-Ukraine Talks"
-    },
-    {
-      "id": "mkt:019e6217-7dac-7dd8-b21d-a9604d63b86a",
-      "time": "2026-05-26 02:22:45",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "U.S. Secretary Of State Rubio, On U.S. Strike Today: The Straits Have To Be Open, They'Re Going To Be Open One Way Or The Other"
-    },
-    {
-      "id": "mkt:019e6217-3470-7dd8-b21d-a6d412474799",
-      "time": "2026-05-26 02:22:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Rubio: Iran-Deal Wording Talks May Take Several More Days"
-    },
-    {
-      "id": "mkt:019e6216-102f-7dd8-b21d-9f9b5be6829e",
-      "time": "2026-05-26 02:21:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Rubio: Extensive Back-and-Forth Over Iran Draft Wording"
-    },
-    {
-      "id": "mkt:019e6215-a170-7dd8-b21d-92e5af818266",
-      "time": "2026-05-26 02:20:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Rubio Holds Talks in Qatar on Iran Today"
     }
   ]
 }
