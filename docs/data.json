@@ -1,7 +1,25 @@
 {
-  "updated": "2026-06-02 01:41:44",
-  "count": 17042,
+  "updated": "2026-06-02 01:45:36",
+  "count": 17043,
   "items": [
+    {
+      "id": "mkt:019e8449-8783-7993-96f8-566fde3a080d",
+      "time": "2026-06-02 01:44:31",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Trump said negotiations with Iran are ongoing and progressing rapidly."
+    },
+    {
+      "id": "4911233",
+      "time": "2026-06-02 01:44:01",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：與伊朗的談判正在快速推進。"
+    },
     {
       "id": "mkt:019e8446-41d6-7993-96f8-4f31ce4fe372",
       "time": "2026-06-02 01:40:57",
@@ -155573,14 +155591,6 @@
         "MKT News"
       ],
       "text": "GUTERRES Condemns Pakistan Train Bombing, Calls All Terrorism Unacceptable"
-    },
-    {
-      "id": "4899076",
-      "time": "2026-05-26 01:44:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "西班牙衛生部：一名在馬德里接受隔離的西班牙乘客漢坦病毒檢測呈陽性。"
     }
   ]
 }
