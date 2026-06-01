@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-02 03:28:56",
+  "updated": "2026-06-02 03:33:03",
   "count": 17071,
   "items": [
+    {
+      "id": "4911282",
+      "time": "2026-06-02 03:31:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國總統馬克龍：到2030年，法國將投資超過1.75億歐元，用於加強金屬、合金和永磁體的產能，並創造200多個就業崗位。這是歐洲在關鍵稀土資源方面保持主權的重要戰略槓桿。"
+    },
+    {
+      "id": "mkt:019e84aa-203d-7993-96f9-5d27da0b42af",
+      "time": "2026-06-02 03:30:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Council of the European Union and the European Parliament reached agreement on a regulation to accelerate and more effectively enforce return procedures for persons staying on member-state territory."
+    },
     {
       "id": "mkt:019e84a6-fb65-7993-96f9-565dde725040",
       "time": "2026-06-02 03:26:36",
@@ -155812,22 +155828,6 @@
         "國際"
       ],
       "text": "以色列國防軍：過去 24 小時內，以軍對真主黨的70 餘處設施實施打擊，其中在提爾地區摧毀約 10 座指揮中心及武器庫。"
-    },
-    {
-      "id": "mkt:019e6257-2afe-7dd8-b21e-015dad084e86",
-      "time": "2026-05-26 03:32:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Japan, MERCOSUR To Start Economic Partnership Agreement Talks - KYODO"
-    },
-    {
-      "id": "mkt:019e6256-e604-7dd8-b21d-fbfa200d69d8",
-      "time": "2026-05-26 03:32:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Japan House Of Councillors Debates National Intelligence Agency Bill】House Of Councillors Cabinet Committee debates National Intelligence Agency bill; PM TAKAICHI attends, faces opposition questioning; Ruling party plans committee vote today and full House vote on 27; Bill passed House Of Representatives Apr 23; Bill sets National Intelligence Council as core and National Intelligence Agency as executive to coordinate security, counterterrorism and foreign intelligence including counter-espionage"
     }
   ]
 }
