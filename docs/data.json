@@ -1,7 +1,120 @@
 {
-  "updated": "2026-06-01 16:27:18",
-  "count": 16342,
+  "updated": "2026-06-01 16:31:15",
+  "count": 16348,
   "items": [
+    {
+      "id": "mkt:019e824e-1f7d-7112-8c89-6dea184419a4",
+      "time": "2026-06-01 16:30:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TASS reports Russia has asked French authorities for information on a detained oil tanker."
+    },
+    {
+      "id": "mkt:019e824d-fcdb-7112-8c89-6084cb7577bf",
+      "time": "2026-06-01 16:30:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "Final May UK manufacturing PMI 53.9, consensus 53.7, prior 53.7."
+    },
+    {
+      "id": "4910131",
+      "time": "2026-06-01 16:30:05",
+      "tags": [
+        "資料"
+      ],
+      "text": "英國5月製造業PMI終值 53.9，預期53.7，前值53.7。"
+    },
+    {
+      "id": "mkt:019e824d-d86c-7112-8c89-59376672673f",
+      "time": "2026-06-01 16:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Manufacturing PMI (May) | actual 53.9 | consensus 53.7 | previous 53.7"
+    },
+    {
+      "id": "te:markets:555311",
+      "time": "2026-06-01 16:29:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Binance Depreciates by 3.00% — Top crypto losers are Binance (-3%), XRP (-2.35%), Ether (-1.48%) and Bitcoin (-1.31%)."
+    },
+    {
+      "id": "4910130",
+      "time": "2026-06-01 16:29:03",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【日本福島第一核電站2號機組剩餘乏燃料取出工作擬於明日啟動】總檯記者獲悉，據日本方面1日訊息，日本東京電力公司將從2日開始，啟動福島第一核電站2號機燃料池中搬出剩餘乏燃料的工作。（央視新聞）"
+    },
+    {
+      "id": "4910129",
+      "time": "2026-06-01 16:28:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【華為終端：6月12日至6月14日，華為開發者大會2026將於東莞松山湖舉行】華為終端發文稱，6月12日至6月14日，華為開發者大會2026將於東莞松山湖舉行。屆時，我們將帶來豐富的生態夥伴創新案例、開發者內容以及最新的鴻蒙特性和AI能力。"
+    },
+    {
+      "id": "4910128",
+      "time": "2026-06-01 16:28:47",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【王毅向中俄智庫高階論壇（2026）致賀信】2026年6月1日，中共中央政治局委員、外交部長王毅向中俄智庫高階論壇（2026）致賀信。\n\n王毅表示，今年是中俄戰略協作夥伴關係建立30週年和《中俄睦鄰友好合作條約》簽署25週年。在雙方共同努力下，兩國戰略協作不斷深化，務實合作量質齊升，中俄關系進入更有作為、更快發展的新階段。前不久，習近平主席同對華進行國事訪問的普京總統舉行重要會晤，雙方一致同意《條約》繼續延期，為發展永久睦鄰友好、全面戰略協作、互利合作共贏的中俄關系夯實法律和政治基石。\n\n當前，世界之變、時代之變、歷史之變正以前所未有的方式展開。中俄作為世界主要大國和聯合國安理會常任理事國，始終堅定維護以聯合國為核心的國際體系、以國際法為基礎的國際秩序，倡導平等有序的世界多極化，推動構建更加公正合理的全球治理體系，為國際社會注入更多穩定性、建設性和合作性力量。\n\n王毅指出，中俄智庫高階論壇自創立以來，成為中俄兩國間層次最高、覆蓋面最廣、影響力最大的智庫交流平臺，為助力中俄新時代全面戰略協作夥伴關係發展作出積極貢獻。希望兩國專家學者以本屆論壇為契機深入交流，以遠見卓識賦能兩國戰略協作高質量發展，為維護世界和平穩定、促進人類共同進步貢獻更多的思想和智慧。\n\n中俄智庫高階論壇由中國社會科學院和俄羅斯國際事務委員會於2018年創立。本屆論壇主題是“‘中國和俄羅斯：新時代合作’暨中俄建立戰略協作夥伴關係30週年”。"
+    },
+    {
+      "id": "mkt:019e824c-6625-7112-8c89-57b66661c0a2",
+      "time": "2026-06-01 16:28:25",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China Tech Giants"
+      ],
+      "text": "【Huawei Terminal schedules 2026 Developer Conference in Dongguan Songshan Lake for June 12-14】Huawei Terminal said the 2026 Developer Conference will run June 12-14 in Dongguan’s Songshan Lake, showcasing ecosystem partner innovation cases, developer content, and new HarmonyOS features and AI capabilities."
+    },
+    {
+      "id": "4910127",
+      "time": "2026-06-01 16:28:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海峽創新：“鵬博士”合同糾紛一審判決 另有2032.28萬元訴訟未結】海峽創新公告稱，近日收到甘肅省榆中縣法院一審判決，其與華邦建投等與鵬雲數字的建設工程施工合同糾紛一案，判決合同繼續履行，鵬雲數字需支付華邦建投工程進度款220.02萬元及逾期付款利息。截至公告披露日，判決未生效。自2026年1月23日至披露日，公司及控股子公司其他未披露訴訟、仲裁事項涉案金額約2032.28萬元，部分案件未結案，對利潤影響存在不確定性。"
+    },
+    {
+      "id": "4910126",
+      "time": "2026-06-01 16:27:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯已要求法國提供被扣油輪的相關資訊。"
+    },
+    {
+      "id": "4910125",
+      "time": "2026-06-01 16:27:05",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "【美光科技美股盤前漲超4% 盤前價格突破1000美元/股】美光科技美股盤前漲超4%，盤前價格突破1000美元/股，現報1010.51美元。"
+    },
     {
       "id": "4910124",
       "time": "2026-06-01 16:26:27",
@@ -398,6 +511,14 @@
         "MKT News"
       ],
       "text": "【China national carbon market closes at 82.01 yuan/ton, up 1.54%】China national carbon market closed at 82.01 yuan/ton, up 1.54% from the previous day; open 82.50, high 82.50, low 81.10 yuan/ton. Listed agreement trades: volume 195,250 tons, turnover 16,012,925.00 yuan; block agreement trades: volume 500,000 tons, turnover 33,116,000.00 yuan; no one-way bidding. Total traded volume 695,250 tons, total turnover 49,128,925.00 yuan. Jan 1–Jun 1, 2026 traded volume 40,744,361 tons, turnover 3,097,766,291.94 yuan. Cumulative traded volume 905,610,881 tons, cumulative turnover 60,760,384,523.51 yuan as of Jun 1, 2026."
+    },
+    {
+      "id": "4910092",
+      "time": "2026-06-01 16:16:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中央空管辦等部門聯合推廣“掃碼飛”】記者1日從中央空管辦獲悉，中央空管辦日前會同國家發展改革委、公安部、中國民航局等多部門，在上海市、四川省無人機管制空域內劃設固定專用空域，採取“政府協同管理、行業指導監管、使用者隨報隨飛”模式（即“掃碼飛”），實現空域資源持續精細化保障。據中央空管辦有關負責人介紹，近期，在有關軍民航空管部門支援下，上海市在景區開闢專用空域，在確保安全的前提下，讓市民在家門口享受低空飛行樂趣；四川省以“低空+文旅”融合為抓手，實踐探索“掃碼飛”服務，打通公眾參與低空活動的“最後一公里”。（新華社 ）"
     },
     {
       "id": "4910091",
@@ -148917,71 +149038,6 @@
         "歐洲央行"
       ],
       "text": "【歐洲央行管委Stournaras：必須避免採取過於限制性的政策】歐洲央行管委YannisStournaras表示，歐洲央行必須避免採取過於限制性的做法，以免進一步加重經濟活動和投資的負擔。"
-    },
-    {
-      "id": "4898339",
-      "time": "2026-05-25 16:30:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "【習近平將舉行儀式歡迎塞爾維亞總統武契奇訪華】5月25日下午，國家主席習近平將在北京人民大會堂北大廳舉行儀式，歡迎塞爾維亞總統武契奇訪華。應國家主席習近平邀請，塞爾維亞總統武契奇於5月24日至28日對中國進行國事訪問。（央視新聞）"
-    },
-    {
-      "id": "4898338",
-      "time": "2026-05-25 16:30:49",
-      "tags": [
-        "市場"
-      ],
-      "text": "在岸人民幣兌美元收盤報6.7837，較上一交易日上漲110點。"
-    },
-    {
-      "id": "4898337",
-      "time": "2026-05-25 16:30:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "【機構：暑期出境遊提前預訂熱度增長超三成】5月25日，去哪兒旅行資料顯示，相比往年，今年暑期的出境遊預訂啟動更早。截至目前，7月—8月暑期出境遊提前預訂熱度同比增超三成，其中，40%的預訂為親子游。去哪兒旅行資料顯示，部分短途出境航線價格比境內熱門航線價格低60%。更多三線及以下城市居民，在平臺上購買了“人生第一張出境機票”，同比增幅達兩成；部分小城居民預訂境外酒店增幅達五成。此外，愛學習的孩子出國也“不純玩”，既有自然人文風景，又有英語營、大象營、網球營等各種“託班式”夏令營的泰國熱度穩居第一；在歐美目的地，博物館、美術館的搜尋熱度增幅，“跑贏”主題樂園。"
-    },
-    {
-      "id": "mkt:019e5e41-5749-711d-be59-71957a59b4b7",
-      "time": "2026-05-25 16:30:00",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Gold Rises as Weaker Dollar, US-Iran Deal Hopes Improve Inflation Outlook】Gold prices climbed in early European trading, supported by a weaker US dollar and optimism over a potential breakthrough in US-Iran negotiations that could improve the inflation outlook. Futures in New York rose 0.8%, while the dollar index slipped 0.2%, making dollar-priced commodities cheaper for overseas buyers. Hopes for a reopening of the Strait of Hormuz also pushed Brent crude down more than 5%, easing concerns over energy-driven inflation. Gains in gold were limited, however, as weak US consumer confidence and expectations of potential Federal Reserve rate hikes continued to weigh on non-yielding assets."
-    },
-    {
-      "id": "4898336",
-      "time": "2026-05-25 16:29:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息： 庭審期間，以色列總理本雅明・內塔尼亞胡總理及雙方律師進入法官休息室會面。隨後法院稱受外交與安全因素限制，宣佈本次庭審於下午 1 點 45 分結束。"
-    },
-    {
-      "id": "4898335",
-      "time": "2026-05-25 16:28:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "【澳門2026年累計通關總客流量突破1億人次】澳門特區政府治安警察局25日公佈資料顯示，截至24日24時，澳門2026年累計通關總客流量已突破1億人次，較去年達成同一資料提前14天，澳門作為大灣區樞紐的活力持續攀升。（新華社）"
-    },
-    {
-      "id": "4898334",
-      "time": "2026-05-25 16:27:39",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中金財富一營業部存三項違規問題被責令改正 一從業人員被警示】據吉林證監局，經查，中金財富證券長春市長春大街證券營業部存在三項問題：一是考核激勵不當，對員工的績效考核將基金銷售收入作為主要考核指標，績效考核與新開戶數量、客戶交易量直接掛鉤。二是對從業人員及其配偶、利害關係人投資行為申報和監控管理不到位。三是未有效履行投資者適當性管理職責。鑑於此，吉林證監局依據有關規定，對該營業部採取責令改正的行政監督管理措施。同時，吉林證監局披露，周某作為證券從業人員，在上述營業部任職期間，存在借用他人證券賬戶買賣股票，委託證券經紀人以外的個人從事客戶招攬活動，誘導客戶提升風險承受能力評估等級等問題。吉林證監局決定對周某採取出具警示函的監督管理措施。"
     }
   ]
 }
