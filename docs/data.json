@@ -1,7 +1,44 @@
 {
-  "updated": "2026-06-02 07:47:57",
+  "updated": "2026-06-02 07:51:43",
   "count": 17161,
   "items": [
+    {
+      "id": "4911465",
+      "time": "2026-06-02 07:49:33",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【受對AI需求的樂觀情緒提振 日經指數或將上漲】儘管伊朗衝突存在不確定性，但隨著對AI需求的樂觀情緒持續，日本股市或將上漲。新加坡交易所的日經指數期貨上漲0.1%，報67115點。投資者正關注中東局勢的發展及其對能源價格的影響。日經指數週一上漲0.9%，創下66934.33點的歷史新高。"
+    },
+    {
+      "id": "4911464",
+      "time": "2026-06-02 07:49:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【黎總統重申外交途徑是解決衝突的唯一出路】黎巴嫩總統奧恩當地時間6月1日發表宣告稱，儘管黎以談判程序面臨障礙和延誤，黎巴嫩仍將堅持透過談判解決問題。他強調，相較於戰爭，外交途徑才是解決衝突和實現穩定的唯一出路。奧恩表示，談判既不是投降，也不是讓步，而是以儘可能小的代價結束戰爭的一種解決方案。“過程中可能遭遇障礙和拖延，但它正在向前推進，無論需要多長時間，所有問題最終都要透過談判解決。”"
+    },
+    {
+      "id": "te:markets:555499",
+      "time": "2026-06-02 07:49:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Gold Holds Losses on Inflation Worries — Gold traded below $4,500 per ounce on Tuesday after declining in the previous session, pressured by stalled peace negotiations between the US and Iran that kept inflation risks and interest rate expectations at the forefront. On Monday, Iranian media reported that Tehran had suspended communications with Washington in response to Israeli attacks in Lebanon. Meanwhile, President Donald Trump said discussions are still ongoing and suggested that a memorandum of understanding with Iran to reopen the Strait of Hormuz could be reached as early as next week. Markets are currently factoring in a Federal Reserve rate hike before year-end after US inflation accelerated, driven in large part by the Middle East conflict. Investors are now awaiting this week’s US monthly jobs report and comments from Fed officials for additional clues on the future path of monetary policy."
+    },
+    {
+      "id": "4911463",
+      "time": "2026-06-02 07:48:38",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【FedEx Freight執行長：自動駕駛卡車已準備好全面投用】自動駕駛牽引拖車行駛在美國的高速公路上？FedEx Freight執行長表示，這項技術已經準備就緒。這些卡車何時上路則取決於監管機構。“這些牽引車能夠駛出車場，從車場導航至州際公路，在州際公路上行駛，並前往下一個設施。在99.9%的時間裡，司機根本不需要進行任何操作，”FedEx Freight執行長約翰.史密斯(John Smith)說。“監管方面將是最大的障礙。”從聯邦快遞(FedEx)剝離後，FedEx Freight週一作為一家獨立公司開始掛牌交易。該公司專注於將多個較小貨物合併裝入一輛拖車的運輸業務，這被稱為“零擔貨運”(less-than-truckload, 簡稱LTL)行業。總部位於孟菲斯的FedEx Freight年度營收達87億美元，是北美最大的零擔貨運承運商。"
+    },
     {
       "id": "mkt:019e8595-b1bf-7993-96fb-73173e17c423",
       "time": "2026-06-02 07:47:20",
@@ -156663,40 +156700,6 @@
         "公司"
       ],
       "text": "【海南省與中信集團舉行工作會談】據海南日報，5月25日，海南省與中信集團在海口舉行工作會談，圍繞深化拓展央地戰略合作進行深入交流。海南省委書記馮飛、省長劉小明，中信集團董事長奚國華、總經理張文武參加。馮飛表示，海南產業發展方向與中信集團業務佈局高度契合，合作空間廣闊。願與中信集團聚焦金融開放、醫療健康、種業科技、低空經濟等領域，開展戰略性、全方位、系統性合作，攜手實現互利共贏發展。海南將全力做好服務保障，為包括中信集團在內的各類企業營造良好發展環境。奚國華表示，願持續加大在海南投資佈局力度，做好自由貿易港建設的“金融顧問”，創新綜合金融服務模式，提供“融智+融資+融產”的一攬子綜合解決方案；深化醫療健康領域務實合作，吸引集聚內外資醫藥企業，聚力打造生命健康產業高地；拓展產業發展新空間，以科技創新賦能海南現代農業高質量發展，探索低空經濟領域合作，啟用新質生產力創新動能；搭建對外開放合作橋樑，積極宣介自由貿易港政策，吸引更多企業落地海南、共謀發展。"
-    },
-    {
-      "id": "4899221",
-      "time": "2026-05-26 07:50:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "【海南省省長劉小明調研跨境算力設施建設工作】據海南日報，5月25日，海南省省長劉小明來到海南資料產業服務有限公司，調研跨境算力設施建設工作，實地檢視“海南省算力監測排程平臺”上線執行情況，並主持召開調研座談會。劉小明指出，要錨定綠色低碳，深化算電協同，推進綠電直供、綠電替代、節能降碳改造，以穩定、綠色、廉價、可靠的電力保障，築牢算力產業高質量發展的能源保障根基，實現“以電強算、以算促電”的良性迴圈。"
-    },
-    {
-      "id": "4899220",
-      "time": "2026-05-26 07:50:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "澳交所：重申2026財年業績指引。"
-    },
-    {
-      "id": "4899219",
-      "time": "2026-05-26 07:49:45",
-      "tags": [
-        "公司",
-        "原創"
-      ],
-      "text": "【雪佛龍計劃於10月7日至11月19日對惠特斯通液化天然氣工廠開展檢修作業】據雪佛龍官網公告，公司計劃在10月7日至11月19日期間，關停澳大利亞惠特斯通液化天然氣出口裝置的1.5至2條生產線進行檢修。"
-    },
-    {
-      "id": "4899218",
-      "time": "2026-05-26 07:48:13",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【在中東局勢不確定之際，日經指數可能維持區間震盪】在可能達成的美伊和平協議存在不確定性，以及該基準股指週一升至創紀錄高點之際，日本股市可能維持區間震盪。在新加坡交易所，日經指數期貨上漲0.1%，報65,260點。在結束與伊朗戰爭的協議進展放緩之後，投資者正關注中東地區的任何事態發展。日經指數週一上漲2.9%，創下65,158.19點的歷史收盤新高。"
     }
   ]
 }
