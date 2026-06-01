@@ -1,7 +1,205 @@
 {
-  "updated": "2026-06-01 19:32:15",
-  "count": 16569,
+  "updated": "2026-06-01 19:36:09",
+  "count": 16580,
   "items": [
+    {
+      "id": "4910666",
+      "time": "2026-06-01 19:35:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【富士達滬市主機板IPO將於6月8日上會】6月1日，據上交所網站披露，上交所上市稽核委員會定於6月8日召開2026年第34次上市稽核委員會審議會議，屆時將審議天津富士達腳踏車工業股份有限公司的首發事項。"
+    },
+    {
+      "id": "4910665",
+      "time": "2026-06-01 19:34:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "雷蒙德·詹姆斯將美光科技目標價從530美元上調至1100美元。"
+    },
+    {
+      "id": "mkt:019e82f7-4255-7112-8c8e-ff03c345bb51",
+      "time": "2026-06-01 19:34:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "MU.O",
+        "Impact bullish"
+      ],
+      "text": "RAYMOND JAMES raises PT for Micron Technology (MU.O) to $1,100 from $530."
+    },
+    {
+      "id": "mkt:019e82f7-201a-7112-8c8e-f0039e814f30",
+      "time": "2026-06-01 19:34:47",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "A Kazakh minister said Tengiz oilfield crude production has recovered to 290,000 tonnes per day, about 2.13 mln barrels per day."
+    },
+    {
+      "id": "4910664",
+      "time": "2026-06-01 19:34:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【皖維高新：向控股股東轉讓巢湖國元小額貸款有限公司10%股權】皖維高新公告，擬將所持巢湖國元小額貸款有限公司10%股權轉讓給控股股東安徽皖維集團有限責任公司，轉讓價款確定為人民幣1040.63萬元。公司對國元小貸初始投資金額為1000萬元人民幣，持有其10%股權。截至2025年12月31日，公司已累計獲取國元小貸分紅款992萬元。"
+    },
+    {
+      "id": "4910663",
+      "time": "2026-06-01 19:34:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【星輝娛樂：選舉陳創煌為董事長，聘任盧醉蘭為總經理】星輝娛樂6月1日公告，董事會會議同意選舉陳創煌擔任公司第七屆董事會董事長，同意聘任盧醉蘭為公司總經理，聘任仲昆傑、韋富為公司副總經理，同意聘任孫琦為公司董事會秘書。"
+    },
+    {
+      "id": "4910662",
+      "time": "2026-06-01 19:34:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST中地：公司股票將於6月3日撤銷退市風險警示 日漲跌幅限制變更為10%】*ST中地公告，公司股票將於2026年6月2日停牌一天，並於2026年6月3日開市起復牌。公司股票交易自2026年6月3日開市起撤銷退市風險警示，股票簡稱由“*ST中地”變更為“中交地產”，股票程式碼仍為“000736”。撤銷退市風險警示後，公司股票交易價格日漲跌幅限制由“5%”變更為“10%”。"
+    },
+    {
+      "id": "mkt:019e82f6-65fe-7112-8c8e-ea9aae7a6ae8",
+      "time": "2026-06-01 19:34:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "IBM.N",
+        "Impact bullish"
+      ],
+      "text": "IBM (IBM.N) pre-market gains widened to 14.5%."
+    },
+    {
+      "id": "4910661",
+      "time": "2026-06-01 19:33:49",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "IBM股價盤前繼續上漲，最新漲幅為14.5%。"
+    },
+    {
+      "id": "mkt:019e82f6-0605-7112-8c8e-e2bea2bb3d4e",
+      "time": "2026-06-01 19:33:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SpaceX said Musk has agreed to a 366-day lock-up period."
+    },
+    {
+      "id": "4910660",
+      "time": "2026-06-01 19:33:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "道瓊斯期貨漲幅擴大，最新上漲0.6%。"
+    },
+    {
+      "id": "4910659",
+      "time": "2026-06-01 19:33:31",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "IMAX 與亞洲影院集團達成合作，將在印度新增三座 IMAX 影廳。"
+    },
+    {
+      "id": "4910658",
+      "time": "2026-06-01 19:33:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "太空探索技術公司（SpaceX）：馬斯克同意接受 366 天股份鎖定期。"
+    },
+    {
+      "id": "mkt:019e82f5-ad55-7112-8c8e-df51fe781e70",
+      "time": "2026-06-01 19:33:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bullish"
+      ],
+      "text": "Dow Jones futures extended gains, up 0.6%."
+    },
+    {
+      "id": "mkt:019e82f5-375a-7112-8c8e-d76834f2e8f9",
+      "time": "2026-06-01 19:32:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iran state TV says the Iranian president discussed the Strait of Hormuz with Japan's prime minister."
+    },
+    {
+      "id": "4910657",
+      "time": "2026-06-01 19:32:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度政府預計26財年財政赤字佔國內生產總值的4.4%。"
+    },
+    {
+      "id": "mkt:019e82f4-ab13-7112-8c8e-cef5f2bb129b",
+      "time": "2026-06-01 19:32:13",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meituan",
+        "03690.HK",
+        "Impact bearish"
+      ],
+      "text": "Meituan (03690.HK) CEO said food-delivery order volumes may fall YoY in H2 given a high comparable base from last year."
+    },
+    {
+      "id": "4910656",
+      "time": "2026-06-01 19:32:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "美團執行長表示：受去年基數較高影響，下半年外賣訂單量同比可能出現下滑。"
+    },
+    {
+      "id": "mkt:019e82f4-6d4e-7112-8c8e-c68d540a8a6e",
+      "time": "2026-06-01 19:31:57",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meituan",
+        "03690.HK",
+        "Impact bullish"
+      ],
+      "text": "Meituan (03690.HK) CEO said if competition in the food-delivery market remains rational, the company expects unit economics to improve versus Q1."
+    },
+    {
+      "id": "4910655",
+      "time": "2026-06-01 19:31:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中方向非洲有關國家和非盟提供抗擊埃博拉疫情援助】記者今天從國家國際發展合作署瞭解到，近期非洲部分地區埃博拉疫情持續蔓延，形勢嚴峻，世界衛生組織已認定為“國際關注的突發公共事件”。根據疫情發展和非方需求，中國政府決定向剛果（金）提供緊急人道主義援助，並派遣醫療專家組赴剛提供醫療服務和幫助。同時，在雙邊援助基礎上，中國政府也向非盟委員會提供援助並開展疫情防控合作，支援非洲疾控中心防控工作，共同提升非洲國家抗擊疫情能力。（央視新聞）"
+    },
+    {
+      "id": "4910654",
+      "time": "2026-06-01 19:31:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度政府公佈：該國4月財政赤字佔2026/27財年目標的21.4%。"
+    },
     {
       "id": "4910653",
       "time": "2026-06-01 19:31:36",
@@ -150945,97 +151143,6 @@
         "Importance 0"
       ],
       "text": "Brent Prices Fall Sharply — Brent crude futures tumbled nearly 6% to below $98 a barrel on Monday, as optimism grew that the US and Iran could soon reach an agreement to end the conflict and reopen the Strait of Hormuz. Still, uncertainty remains high, with officials on both sides signaling that key issues are yet to be resolved and continuing to send mixed messages on the progress of negotiations. US President Trump said that “the deal with Iran will either be a great and meaningful one, or there will be no deal,” while an Iranian Foreign Ministry spokesman noted that “a consensus was reached on many of the topics discussed, but no one can claim that the signing of an agreement is imminent”. Despite the lingering uncertainty, ship-tracking data indicated a gradual easing in regional disruptions, with three liquefied natural gas tankers recently passing through the Strait of Hormuz en route to Pakistan, China, and India."
-    },
-    {
-      "id": "4898748",
-      "time": "2026-05-25 19:35:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華鼎股份：為子公司提供7701萬元融資擔保】華鼎股份公告稱，為滿足全資子公司浙江亞特新材料有限公司經營發展需要，公司就其銀行授信事項與中國銀行義烏市分行簽署《最高額保證合同》，以連帶責任保證方式提供最高額7701萬元的保證擔保，擔保期限為2026年5月25日起至2028年5月25日。本次擔保在年度擔保授權額度內，無需另行審議。截至公告披露日，公司對控股子公司實際擔保餘額25750萬元，佔2025年度經審計淨資產的6.38%，無逾期擔保情況。"
-    },
-    {
-      "id": "4898747",
-      "time": "2026-05-25 19:35:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "世衛組織總幹事：疫情發現滯後，如今只能倉促追趕防控進度。"
-    },
-    {
-      "id": "4898746",
-      "time": "2026-05-25 19:35:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "【開普檢測：大股東、董事長姚致清減持3%公司股份】開普檢測公告稱，大股東、董事長姚致清因個人資金需求，於2026年3月5日至5月22日透過集中競價和大宗交易合計減持312萬股，佔公司總股本的3%，減持計劃實施完成。減持後，姚致清持股降至1328.12萬股，佔總股本12.77%。本次減持符合相關規定，未違反承諾，不會導致公司控制權變更，不影響公司治理結構及持續經營。"
-    },
-    {
-      "id": "mkt:019e5eea-9931-711d-be5b-72897fb2f43d",
-      "time": "2026-05-25 19:34:45",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "DAX",
-        "Impact bullish",
-        "EURUSD",
-        "Impact bearish",
-        "US10Y",
-        "Impact mixed"
-      ],
-      "text": "Germany 10Y Bund Yield Falls To 2.943%; Lowest Since Apr 8, -9bps"
-    },
-    {
-      "id": "mkt:019e5eea-4df8-711d-be5b-6f73289765db",
-      "time": "2026-05-25 19:34:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "WHO Director-General TEDROS: Suspected Ebola Deaths Hit 220"
-    },
-    {
-      "id": "4898745",
-      "time": "2026-05-25 19:34:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【步長製藥：擬0.75-1.50億元回購股份用於激勵等用途】步長製藥公告稱，公司擬以0.75-1.50億元回購股份，回購價格不超21元/股，預計回購357.14-714.29萬股，佔總股本0.34%-0.68%。資金來源為自有資金（不低於10%）及金融機構回購專項借款（不超90%），已獲民生銀行菏澤分行1億元貸款承諾。回購股份擬用於股權激勵、員工持股計劃、轉換可轉債。回購期限自董事會審議透過起不超12個月。相關主體暫無減持計劃，本次回購不會對公司產生重大不利影響，但存在多種實施風險。"
-    },
-    {
-      "id": "4898744",
-      "time": "2026-05-25 19:34:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "世衛組織總幹事：本輪埃博拉疫情疑似死亡病例達220例。"
-    },
-    {
-      "id": "te:markets:553457",
-      "time": "2026-05-25 19:33:27",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Stocks in Italy Hit All-time High — IT40 increased to an all-time high of 50114.00 Index Points. Over the past 4 weeks, Italy Stock Market Index (IT40) gained 5.04%, and in the last 12 months, it increased 25.23%."
-    },
-    {
-      "id": "4898743",
-      "time": "2026-05-25 19:33:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "德國10年期國債收益率跌至4月8日以來低點2.943%，當日累計下跌9個基點。"
-    },
-    {
-      "id": "4898742",
-      "time": "2026-05-25 19:32:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "【下臺後首次 朴槿惠為在野黨助選】韓國媒體25日報道，韓國前總統朴槿惠近日在大邱、忠清北道等地出席競選宣傳活動，為參加地方選舉的最大在野黨國民力量黨候選人拉票。這是朴槿惠2017年遭彈劾下臺後，首次參與競選宣傳活動。據韓國多家媒體報道，朴槿惠25日上午11時左右前往其已故母親陸英修的出生地忠清北道沃川郡，呼籲當地民眾在下月舉行的地方選舉中投票支援國民力量黨候選人。朴槿惠同行者包括國民力量黨推出的忠清北道知事候選人金榮煥、沃川郡守候選人全相仁以及參加國會議員補選的多名候選人。（新華社）"
     }
   ]
 }
