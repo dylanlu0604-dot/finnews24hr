@@ -1,7 +1,20 @@
 {
-  "updated": "2026-06-02 05:48:26",
-  "count": 17121,
+  "updated": "2026-06-02 05:52:19",
+  "count": 17120,
   "items": [
+    {
+      "id": "mkt:019e852a-5606-7993-96fa-87d5a23a9398",
+      "time": "2026-06-02 05:50:04",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "Trump said he spoke with Israeli Prime Minister Netanyahu today and urged him not to launch a large-scale strike on Beirut; Netanyahu immediately ordered forces to withdraw. He said he also spoke with a representative of Hezbollah's leader and that both sides agreed to stop firing at one another, including at Israeli soldiers; Israel likewise agreed to cease fire. Trump said he hopes the ceasefire will hold."
+    },
     {
       "id": "mkt:019e8528-38c3-7993-96fa-7dc994dd7374",
       "time": "2026-06-02 05:47:46",
@@ -156267,22 +156280,6 @@
         "其他"
       ],
       "text": "市場訊息：智利安託法加斯塔發生 6.8 級地震。"
-    },
-    {
-      "id": "4899138",
-      "time": "2026-05-26 05:51:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【“以前愁放貸，現在愁續貸”，逾百萬億元貸款到期，銀行迎戰資產端“大考”】“貸款利率已經降至2%左右，但客戶還是選擇發債融資。”華東一家股份行的對公業務人士林新（化名）對記者表示，今年最頭疼的不是“貸款放不出去”，而是“貸款留不住了”。繼天量存款到期後，銀行業又迎來天量貸款集中到期——據機構測算，2026年貸款到期規模預計超過104萬億元。記者近日調研多家股份行、城商行、農商行發現，銀行一線人士已感受到壓力：一邊是存量貸款續貸難度提升，另一邊則是優質企業加速轉向發債融資。（上證報）"
-    },
-    {
-      "id": "4899137",
-      "time": "2026-05-26 05:48:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普：伊朗濃縮鈾要麼移交給美國，要麼銷燬】美國總統特朗普在社交媒體“真相社交”發文稱， 這些濃縮鈾（核原料）要麼立即交由美國運回本土銷燬；更為可取的方案是，與伊朗協作配合，在原地或雙方認可的其他地點完成銷燬，整個過程須由伊朗原子能組織或同級機構現場見證。"
     }
   ]
 }
