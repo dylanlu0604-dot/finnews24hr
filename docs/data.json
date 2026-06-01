@@ -1,7 +1,40 @@
 {
-  "updated": "2026-06-02 05:09:43",
-  "count": 17104,
+  "updated": "2026-06-02 05:13:35",
+  "count": 17105,
   "items": [
+    {
+      "id": "4911345",
+      "time": "2026-06-02 05:12:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "美洲鋰業美股盤後快速大漲7.9%。"
+    },
+    {
+      "id": "4911344",
+      "time": "2026-06-02 05:11:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國醫保與醫療補助服務中心（CMS）釋出附帶意見徵詢期的暫行最終細則，規定部分成年醫療補助申請者及參保人每月須完成80小時的工作時長要求。"
+    },
+    {
+      "id": "4911343",
+      "time": "2026-06-02 05:10:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "慧與公司高管：經歸一化調整後，安全業務訂單增長了百分之十幾。"
+    },
+    {
+      "id": "4911342",
+      "time": "2026-06-02 05:10:06",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "超微電腦跟隨慧與公司股價走高，盤後漲7%。"
+    },
     {
       "id": "4911341",
       "time": "2026-06-02 05:08:37",
@@ -156110,34 +156143,6 @@
         "Importance 0"
       ],
       "text": "Norwegian Krone Hits 4-year High — The Norwegian Krone touched 9.13 against the USD, the highest since April 2022. Over the past 4 weeks, US Dollar Norwegian Krone lost 0.82%, and in the last 12 months, it decreased 8.7%."
-    },
-    {
-      "id": "mkt:019e62b2-f7f9-7ff6-adfb-6ce71867bbfc",
-      "time": "2026-05-26 05:12:36",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Rubio Announces Quad Initiative On Indo-Pacific Energy Security"
-    },
-    {
-      "id": "mkt:019e62b2-5b59-7ff6-adfb-60d4aab244df",
-      "time": "2026-05-26 05:11:56",
-      "tags": [
-        "MKT News",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "Rubio Announces Quad Critical Minerals Framework"
-    },
-    {
-      "id": "mkt:019e62b1-3e27-7ff6-adfb-5bbc05f6091c",
-      "time": "2026-05-26 05:10:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Secretary Rubio Launches Quad Indo-Pacific Maritime Monitoring Initiative"
     }
   ]
 }
