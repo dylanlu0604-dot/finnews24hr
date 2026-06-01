@@ -1,7 +1,123 @@
 {
-  "updated": "2026-06-01 15:54:47",
-  "count": 16271,
+  "updated": "2026-06-01 15:58:52",
+  "count": 16278,
   "items": [
+    {
+      "id": "mkt:019e8230-c887-766b-8633-ea18867bc6f2",
+      "time": "2026-06-01 15:58:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Economist: German manufacturing rebound stalled in May; new orders fell for first time this year】Phil Smith, deputy director of economics at S&P Global Market Intelligence, said Germany’s manufacturing rebound stalled in May, confirming PMI signals that growth driven by front-loaded orders may fade. New orders fell for the first time this year amid high uncertainty and surging prices, while manufacturing input-cost pressures continued to rise. Output price inflation was broadly unchanged from April as weak demand led some firms to be more cautious on pricing."
+    },
+    {
+      "id": "4910040",
+      "time": "2026-06-01 15:57:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【西部證券：2026年第三期公司債券6月2日起在深交所上市】西部證券公告稱，公司2026年面向專業投資者公開發行公司債券（第三期）符合深交所債券上市條件，將於2026年6月2日起上市，面向專業投資者中的機構投資者交易。債券簡稱“26西部03”，程式碼524808，發行總額10億元，期限3年，票面年利率1.72%，按年付息、到期一次還本付息。"
+    },
+    {
+      "id": "mkt:019e822f-9bd0-766b-8633-e196968d6555",
+      "time": "2026-06-01 15:56:58",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Kuwait's foreign ministry said it condemns Iran's attack on Kuwaiti territory."
+    },
+    {
+      "id": "te:economy:555297",
+      "time": "2026-06-01 15:56:46",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "France",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "France Factory Contraction Softer Than Initially Expected — France’s S&P Global Manufacturing PMI fell to 49.7 in May 2026 from 52.8 in April, slipping back into contraction, but above the flash estimate of 48.9. Output and new orders declined, reversing April’s stockpiling-driven gains, while production, purchasing volumes, and inventories also fell. Export demand weakened, particularly from Belgium, Germany, and Ukraine. Supply-chain pressures intensified, with vendor delivery times lengthening at the fastest pace since January 2023 due to raw material shortages, transport constraints, and higher fuel costs. Purchasing activity eased after April’s surge, while firms reduced inventories at the fastest rate since November 2025. Employment continued to fall, and backlogs of work declined for the first time this year. Input cost inflation climbed to a four-year high on fuel, metals, and chemicals, while output prices increased at the fastest pace in 40 months. Business confidence weakened amid uncertainty, low demand, and geopolitical tensions."
+    },
+    {
+      "id": "4910039",
+      "time": "2026-06-01 15:56:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "科威特外交部宣告，科威特譴責伊朗對其領土發動襲擊。"
+    },
+    {
+      "id": "mkt:019e822e-64eb-766b-8633-db98b08220e2",
+      "time": "2026-06-01 15:55:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "Germany final May manufacturing PMI 50.1; consensus 49.9, prior 49.9."
+    },
+    {
+      "id": "4910038",
+      "time": "2026-06-01 15:55:25",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美迪凱：12寸玻璃晶圓批次出貨 公司已成功切入三星供應鏈體系】美迪凱(688079.SH)釋出投資者關係活動記錄表公告，公司和日本玻璃廠商合作，開展玻璃基板代加工業務，玻璃基板生產線2025年已透過某頭部fab廠驗廠。12寸玻璃晶圓（GlassCarrier）已批次出貨，310*310和515*510等尺寸的玻璃基板小批次出貨。但2025年半導體用玻璃基板相關的產品銷售收入佔公司總營收比重2.00%左右，佔比較低，未對公司業績構成重大影響。公司透過收購海碩力光電技術（蘇州）有限公司和INNOWAVEVIETNAMCO.,LTD兩家公司100%股權，已成功切入三星的供應鏈體系。目前手機攝像模組用軟膜濾光片持續量產中，功率晶片的晶圓級封測業務也已進入產品驗證。"
+    },
+    {
+      "id": "4910037",
+      "time": "2026-06-01 15:55:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST海華：延期回覆上交所2025年年報問詢函】*ST海華公告稱，公司收到上交所《關於青海華鼎2025年年報有關事項的問詢函》後，積極組織相關人員對問詢事項進行落實和回覆。目前回復材料編制工作尚未完成，將延期回覆問詢函並履行資訊披露義務。"
+    },
+    {
+      "id": "4910036",
+      "time": "2026-06-01 15:55:05",
+      "tags": [
+        "資料"
+      ],
+      "text": "德國5月製造業PMI終值 50.1，預期49.9，前值49.9。"
+    },
+    {
+      "id": "mkt:019e822d-ccf6-766b-8633-d51ca5cdf942",
+      "time": "2026-06-01 15:55:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | Manufacturing PMI Final (May) | actual 50.1 | consensus 49.9 | previous 49.9"
+    },
+    {
+      "id": "4910035",
+      "time": "2026-06-01 15:54:25",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗稱美國“自相矛盾”的立場導致遲遲不能達成協議】伊朗外交部表示，美國在和平協議問題上發出“自相矛盾、相互衝突”的資訊，導致談判程序延長。伊朗外交部發言人Esmail Baghaei在每週例行記者會上表示，阻礙達成協議的另一個主要因素是以色列對黎巴嫩的襲擊。他說，與美國的溝通仍在進行之中。他重申伊朗是在“不信任”的氛圍下與美國進行談判，並稱伊朗沒有就核問題或鈾庫存問題與美國進行談判。"
+    },
+    {
+      "id": "te:markets:555295",
+      "time": "2026-06-01 15:54:25",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "DAX Starts June on Cautious Note — Frankfurt's DAX 40 traded slightly above the flatline around 25,120 on Monday, tracking a general cautious mood, amid ongoing tensions and uncertainty over the prospects of a peace agreement to end the Middle East conflict. The weekend was marked by a new series of reciprocal attacks by Iran and the United States. Meanwhile, optimism around artificial intelligence-related investments continued to provide support. SAP and Infineon Technologies led gains, up 2% and 1.8% respectively. On the opposite side, pharma & healthcare stocks underperformed, led by Fresenius Medical Care (-3.1%) and Bayer (-2%)."
+    },
     {
       "id": "te:economy:555293",
       "time": "2026-06-01 15:54:05",
@@ -458,6 +574,14 @@
       "text": "【博盈特焊：擬向全資孫公司增資不超1億元用於越南基地建設】博盈特焊公告稱，公司於2026年6月1日召開董事會，審議透過向境外全資孫公司博盈特焊越南製造有限公司增加投資不超1億元的議案。資金用於越南生產基地建設三期廠房、購買生產線裝置等，以擴大產能、提升國際競爭力。本次投資尚需政府部門備案、審批，可能存在市場、經營和管理風險。董事會授權經營管理層辦理相關事宜。"
     },
     {
+      "id": "4909999",
+      "time": "2026-06-01 15:44:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【恩威醫藥：控股股東及5%以上股東部分股份解除質押】恩威醫藥公告稱，近日控股股東恩威集團、持股5%以上股東成都傑威部分股份解除質押，解除質押股份合計467萬股，佔公司總股本4.54%。截至公告披露日，上述股東及其一致行動人累計質押股份4651.08萬股，佔其所持股份比例69.31%，佔公司總股本45.20%。所質押股份不存在平倉或被強制平倉情形，不會對公司產生實質性影響。"
+    },
+    {
       "id": "4909998",
       "time": "2026-06-01 15:44:21",
       "tags": [
@@ -800,6 +924,22 @@
         "國際"
       ],
       "text": "【日本推進與北約合作，外交部：與“和平國家”形象背道而馳】6月1日，外交部發言人林劍主持例行記者會。有記者提問，日本防衛省上週五宣佈，將派遣4名自衛隊人員前往北約駐烏克蘭安全援助和訓練部隊總部。日方稱此舉是為了幫助日本汲取經驗，並加強自身的防禦能力。此外日本防衛省還計劃進一步發展與北約的防務合作，中方對此有何評價？這是否意味著日本軍國主義思潮復活？林劍表示，我們對日方推進同北約合作的動向表示嚴重關切。日本大肆推進“再軍事化”，同域外軍事組織互動頻繁，擴大自衛隊的活動範圍，打造可以實戰的作戰體系，這是在突破日本憲法、國際法國內法規制和“專守防衛”等原則，挑戰戰後國際秩序，與日方自詡的“和平國家”形象背道而馳。“日本新型軍國主義成勢為患，威脅地區和平穩定，國際社會必須高度警惕、堅決遏制。”林劍強調。（澎湃新聞）"
+    },
+    {
+      "id": "4909973",
+      "time": "2026-06-01 15:36:11",
+      "tags": [
+        "資料"
+      ],
+      "text": "【上海樓市收穫6年來最好5月 上海大戶型二手房開始發力】“金三銀四”傳統旺季過後，上海二手房市場的熱度並未降低。 根據“網上房地產”資料，2026年5月，上海二手房網籤成交28023套（全口徑資料，含商業、車位等），同比增長約31%。 這一成交規模不僅創下近6年來的5月份同期新高，即使放在近十年的時間跨度中，也僅次於2020年5月約3.05萬套的成交水平。 今年以來，上海二手房市場持續保持活躍。3月成交3.12萬套，4月成交2.87萬套，5月雖然受到“五一”假期影響，成交量仍突破2.8萬套，已連續三個月維持在2.8萬套以上。 若剔除春節因素擾動，上海二手房月度網籤量更是連續6個月保持在2萬套榮枯線以上，顯示市場需求具備較強韌性。 過去半年多時間裡，上海樓市的復甦主要由低總價“老破小”房源帶動，而如今改善型需求呈現上升趨勢。 價格表現同樣印證了這一趨勢。上海50平方米以下微戶型房價已於2025年11月率先止跌；50至90平方米小戶型於2026年1月實現企穩回升；進入今年5月後，144至180平方米中大戶型以及180至250平方米大戶型也陸續出現止跌跡象。（第一財經）"
+    },
+    {
+      "id": "4909972",
+      "time": "2026-06-01 15:35:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外交部：日方近期一系列錯誤言行 國際社會必須高度警惕】6月1日，外交部發言人林劍主持例行記者會。有記者就日防衛大臣在近日香格里拉對話會上的有關言論提問。林劍表示，日本軍國主義曾在二戰期間犯下滔天罪行，給亞洲鄰國造成深重災難。日方近期一系列錯誤言行，威脅地區的和平穩定，國際社會必須高度警惕，共同防範和堅決遏制“新型軍國主義”。（央視新聞）"
     },
     {
       "id": "4909971",
@@ -148199,88 +148339,6 @@
         "國際"
       ],
       "text": "【陳茂波：香港是歐洲金融機構和投資者低配了的市場】香港特區財政司司長陳茂波發文分享歐洲三國之行。他表示感受最深的是歐洲求變意識強烈，在經貿、投資和創科等多個領域，香港和歐洲可以務實合作、共創雙贏。對歐洲，香港價值主張在三方面尤為突出。首先，香港是歐洲金融機構和投資者低配了的市場。從證券、債券、貨幣、衍生工具以至數字資產等，香港提供了豐富投資產品和風險管理工具。其次，雙方可探索跨境投資與監管合作，相互拓展市場。第三在於金融創新，香港在數字資產發展和監管方面走在歐洲的前面，彼此有不少合作和互鑑空間。"
-    },
-    {
-      "id": "4898280",
-      "time": "2026-05-25 15:58:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "【速賣通Brand+品牌出海計劃開放韓國站】5月25日訊息，阿里速賣通AliExpress正將韓國市場列為2026年戰略重心。介面新聞獲悉，速賣通Brand+品牌出海計劃已正式開放韓國站點，今年速賣通在韓國的市場投入將激增至去年的三倍；物流優勢方面，目前速賣通在韓國已實現50%的訂單三日達。為吸引和激勵商家，速賣通還推出了韓國專屬佣金激勵政策，月度最高返傭3萬美元。"
-    },
-    {
-      "id": "te:economy:553406",
-      "time": "2026-05-25 15:58:36",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United Kingdom",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "UK 10-Year Gilt Yields Sink Below 4.9% — UK 10-year gilt yields dropped below 4.9% to their lowest level since April 21, after the sharpest weekly decline since 2024, as investors cheered progress in US-Iran negotiations and trimmed Bank of England rate hike expectations amid weak economic data. Brent crude dropped below $100 per barrel after US President Donald Trump stated that a memorandum of understanding between the two nations had been \"largely negotiated\" and would reopen the Strait of Hormuz. Meanwhile, data last week showed April retail sales slumped 1.3%, nearly double forecasts, while inflation and labor market data also came in softer than expected. May PMI readings signaled the first private sector contraction in a year, reinforcing the shift in rate expectations. Investors now await speeches from BoE policymakers later this week for monetary policy signals, as well as political developments surrounding Prime Minister Keir Starmer after Labour's regional election defeats this month."
-    },
-    {
-      "id": "4898279",
-      "time": "2026-05-25 15:58:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【維科技術：寧波市工業投資有限責任公司及寧波工業投資集團合計持股比例降至4.99%】維科技術公告，資訊披露義務人寧波市工業投資有限責任公司及寧波工業投資集團透過集中競價交易方式減持公司股份，持股比例從5.12%降至4.99%。其中，寧波市工業投資有限責任公司持股比例從4.8%降至4.67%，減持數量為66.44萬股；寧波工業投資集團持股比例保持0.32%不變。此次權益變動是由於資訊披露義務人自身資金需求所致，不會導致公司控股股東和實際控制人發生變化。"
-    },
-    {
-      "id": "mkt:019e5e23-a4cc-711d-be59-2ef1357c0a78",
-      "time": "2026-05-25 15:57:21",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【STOURNARAS Urges More Restrictive ECB Policy If Inf Overshoots】STOURNARAS: Move ECB Policy More Restrictive If Euro-Area inf Temporarily Overshoots 2%; Cites Strait Of Hormuz Blockade Fueling Oil, Gas Rally And Risking Second-Round Wage/Price Effects"
-    },
-    {
-      "id": "4898278",
-      "time": "2026-05-25 15:56:40",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【5月25日滬深兩市漲停分析】創業板指漲超2%、科創50指數大漲近6%，晶片產業鏈持續爆發。四環生物4連板、恆林股份3連板，一圖看懂>>"
-    },
-    {
-      "id": "4898277",
-      "time": "2026-05-25 15:55:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美方被曝敦促伊斯蘭國家與以關係正常化 但“未獲響應”】據美國方面24日訊息，兩名知情美國官員透露，美國總統特朗普23日與一些伊斯蘭國家領導人通話時，試圖把正在談判的美伊協議同“亞伯拉罕協議”掛鉤，敦促這些國家與以色列關係正常化，不過沒有得到相關國家的響應。（央視新聞）"
-    },
-    {
-      "id": "te:markets:553404",
-      "time": "2026-05-25 15:55:23",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Sterling Gains on Iran Deal Optimism — The pound climbed toward $1.35, reaching its highest level since May 13, as investors welcomed progress in US-Iran negotiations and scaled back Bank of England rate hike expectations following a series of weak UK economic releases. Brent crude fell below $100 per barrel after US President Donald Trump stated that a memorandum of understanding between the two nations had been \"largely negotiated\" and would reopen the Strait of Hormuz. The data showing April retail sales declining 1.3%, softer inflation, an unexpectedly cooling labor market, and May PMI signaling the first private sector contraction in a year all contributed to the shift in rate expectations. Investors now await speeches from BoE policymakers later this week for monetary policy signals, as well as political developments surrounding Prime Minister Keir Starmer after Labour's regional election defeats this month."
-    },
-    {
-      "id": "te:economy:553403",
-      "time": "2026-05-25 15:55:09",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Bahrain",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Bahrain Inflation Rises to Near 2-Year High — Bahrain’s annual inflation rose to 1.4% in April 2026 from 1.1% in the previous month. This marked the highest level since June 2024, as prices increased faster in transport (10.0% vs 8.7% in March), along with a sharp rebound in recreation and culture costs (3.4% vs -18.0%). At the same time, deflation eased in alcoholic beverages and tobacco (-0.2% vs -1.3%), health (-0.1% vs -0.3%), communication (-0.8% vs -1.3%), and restaurants and hotels (-0.3% vs -0.4%). Meanwhile, prices for food and non-alcoholic beverages declined (-0.1% vs 2.8%), while deflation persisted in clothing and footwear (-14.0% vs -10.1%), housing and utilities (-2.1% vs -2.0%), and furnishings, household equipment and routine household maintenance (steady at -2.2%). Price growth also slowed in miscellaneous goods and services (4.1% vs 5.0%). On a monthly basis, consumer prices were unchanged in April, following a 0.4% increase in March."
     }
   ]
 }
