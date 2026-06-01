@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-02 04:28:44",
-  "count": 17093,
+  "updated": "2026-06-02 04:32:39",
+  "count": 17092,
   "items": [
+    {
+      "id": "4911309",
+      "time": "2026-06-02 04:30:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "杜克能源執行長表示，擴張核能專案前必須先解決金融風險問題。"
+    },
+    {
+      "id": "4911308",
+      "time": "2026-06-02 04:29:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普將於週五訪問威斯康星州。"
+    },
     {
       "id": "4911307",
       "time": "2026-06-02 04:26:20",
@@ -156038,34 +156054,6 @@
         "國際"
       ],
       "text": "據以色列Walla援引安全訊息人士訊息，以軍方已獲得政治層面批准，將升級對真主黨無人機襲擊的反擊行動，不再維持剋制立場。"
-    },
-    {
-      "id": "mkt:98b0ae63-cf7f-4b0c-9aeb-db5baf8ad70e",
-      "time": "2026-05-26 04:32:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "EXPLOSIONS HEARD IN IRAN’S BANDAR ABBAS CITY, CAUSE STILL UNKNOWN — MEHR NEWS AGENCY"
-    },
-    {
-      "id": "te:markets:553511",
-      "time": "2026-05-26 04:31:58",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Hits Record High on US-Iran Talks — The TSX/S&P Composite Index rose 1% to close at a record 34,831 on Monday, on signs that the US and Iran were negotiating an end to their conflict. Reports are that Iran would move to reopen the Strait of Hormuz during a 30-day window following an agreement, while the ceasefire reached in early April would be extended by 60 days, with talks on Iran’s nuclear program planned during the two-month pause. Oil prices fell, easing inflation concerns and lowering bond yields, supporting the financial sector. Results from banks, including RBC (+0.8%), TD Bank (+1.2%), and BMO (+0.9%) are due this week. Mining stocks also advanced as gold prices climbed, with Agnico Eagle gaining 4.6%, Barrick rising 4.2%, and WPM adding 5.6%. Meanwhile, energy stocks were the main laggards, declining alongside the pullback in oil prices, as Canadian Natural fell 3.6% and Suncor lost 3%. On the trade front, the first round of formal negotiations for the US-Mexico-Canada free trade agreement has begun."
-    },
-    {
-      "id": "4899114",
-      "time": "2026-05-26 04:30:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗Bandar Abbas市出現爆炸聲，原因不明。（伊朗Mehr新聞社）"
     }
   ]
 }
