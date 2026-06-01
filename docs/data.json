@@ -1,7 +1,81 @@
 {
-  "updated": "2026-06-01 14:01:55",
+  "updated": "2026-06-01 14:05:52",
   "count": 16238,
   "items": [
+    {
+      "id": "te:economy:555215",
+      "time": "2026-06-01 14:04:25",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Russia",
+        "Manufacturing PMI",
+        "Importance 2"
+      ],
+      "text": "Russia Manufacturing Shrinks the Least in 3 Months — Russia’s S&P Global Manufacturing PMI increased to 48.8 in May from 48.1 in April, which marked the steepest contraction in four months, while extending the downturn in factory activity to a twelfth straight month. The latest reading also signaled the smallest contraction in three months, as output returned to growth."
+    },
+    {
+      "id": "4909794",
+      "time": "2026-06-01 14:03:40",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【看圖：LG電子股價今年已飆升逾300% 得益於進軍實體AI】今年以來LG電子股價已上漲三倍，投資者對這家歷史悠久的韓國家電製造商向機器人領域的轉型表示讚賞。去年該股基本錯過了晶片驅動的韓國人工智慧AI行業上漲行情，但近幾個月來開始獲得上漲動力。受LG集團董事長具光謨將於6月5日和英偉達的黃仁勳會面訊息提振，該股連續第二個交易日觸及30%的漲停板。據首爾NH Investment & Securities的韓國現金股票主管Shawn Oh，二人會面將重點討論擴大在物理AI領域的合作。他說，合作範圍可能會擴大到LG集團旗下其他公司，包括LG Innotek和LG Uplus。"
+    },
+    {
+      "id": "mkt:019e81c7-4d27-799c-966c-7c809664621f",
+      "time": "2026-06-01 14:02:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "India May GST collections 1.94 trillion rupees, up 3.2% YoY."
+    },
+    {
+      "id": "4909793",
+      "time": "2026-06-01 14:02:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度政府：印度5月商品及服務稅收入為1.94萬億盧比，同比增長3.2%。"
+    },
+    {
+      "id": "4909792",
+      "time": "2026-06-01 14:01:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐元斯托克50指數期貨<STXEc1>下跌0.13%，德國DAX指數期貨<FDXc1>下跌0.06%，富時指數期貨<FFIc1>下跌0.34%。"
+    },
+    {
+      "id": "4909791",
+      "time": "2026-06-01 14:01:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：俄羅斯宣佈禁止出口航空燃料，禁令持續至11月底。"
+    },
+    {
+      "id": "mkt:019e81c5-d050-799c-966c-735b35f040aa",
+      "time": "2026-06-01 14:01:16",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Interfax reported Russia announced a ban on jet-fuel exports through end-November."
+    },
+    {
+      "id": "em:jjsj_ygsj:202606013755944660",
+      "time": "2026-06-01 14:00:57",
+      "tags": [
+        "經濟數據",
+        "英國"
+      ],
+      "text": "英國5月Nationwide房價指數同比增長1.7%，預期增長2.2%；5月Nationwide房價指數環比下降0.6%，預期下降0.2%。"
+    },
     {
       "id": "4909790",
       "time": "2026-06-01 14:00:51",
@@ -147833,79 +147907,6 @@
         "其他"
       ],
       "text": "【面壁智慧聯合清華正式開源中國首個基於昇騰訓練的1.58-bit端側大模型BitCPM-CANN】5月25日，面壁智慧宣佈聯合清華大學正式開源中國首個基於昇騰訓練的低位元端側大模型BitCPM-CANN，從量化運算元、訓練演算法到全鏈路框架，BitCPM-CANN均在華為昇騰上原生完成。在推理階段釋放約6倍視訊記憶體紅利，同時將模型能力保留率維持在 90%–97.2%。(澎湃新聞)"
-    },
-    {
-      "id": "4898026",
-      "time": "2026-05-25 14:05:47",
-      "tags": [
-        "兩會"
-      ],
-      "text": "【全國人大常委會啟動旅遊法執法檢查】為推動旅遊法有效實施，健全旅遊法律法規制度政策，築牢旅遊業高質量發展的法治保障，全國人大常委會5月25日啟動旅遊法執法檢查。旅遊法是我國旅遊業第一部基礎性、綜合性法律，於2013年4月透過、同年10月1日起施行，2016年和2018年分別對部分條款作了修改。記者25日從全國人大常委會執法檢查組第一次全體會議上獲悉，旅遊法執法檢查將採取赴地方檢查與委託省級人大常委會檢查相結合等方式開展檢查工作。6月至9月，執法檢查組將赴山西、黑龍江、福建、貴州、陝西、新疆等6個省（區）開展實地檢查，並委託內蒙古、浙江、山東、江西、重慶、甘肅等6個省（區、市）人大常委會對本行政區域內旅遊法貫徹實施情況進行檢查。檢查組將採取實地檢查、組織座談、典型調研、專題研究、抽查暗訪等多種方式，全面準確瞭解法律實施情況，對帶有普遍性的問題深入調查研究。（新華社）"
-    },
-    {
-      "id": "te:economy:553344",
-      "time": "2026-05-25 14:05:39",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Italy",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Italy 10Y Bond Yield Hits 5-week Low — Italy 10 Year Government Bond Yield decreased to 3.69%, the lowest since April 2026. Over the past 4 weeks, Italy 10Y Bond Yield lost 11.47 basis points, and in the last 12 months, it increased 9.85 basis points."
-    },
-    {
-      "id": "4898025",
-      "time": "2026-05-25 14:04:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "瀾起科技A股成交額超200億元，現漲4.32%。"
-    },
-    {
-      "id": "4898024",
-      "time": "2026-05-25 14:04:21",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美媒：伊朗最高領袖透過“信使網路”對外溝通】多名美國官員24日向美國哥倫比亞廣播公司披露，美方情報顯示，伊朗最高領袖穆傑塔巴·哈梅內伊隱匿在一處秘密地點，與外部世界鮮有接觸，透過一個“信使網路”對外溝通。據報道，為保護穆傑塔巴安全，由多名信使組成的網路負責為其傳遞訊息。穆傑塔巴通常只給出寬泛指示，為伊朗官員能談判和不能談判的議題“定調”。穆傑塔巴在戰事爆發前就很少出現在官方場合。知情人士稱，眼下多數伊朗領導層都選擇隱匿，他們之間如無必要，基本不對話。即便是伊朗政府最高層級官員，也不知道穆傑塔巴藏身何處，且無法與後者直接聯絡。（新華社）"
-    },
-    {
-      "id": "mkt:019e5dbb-ad66-711d-be57-45d57cc6547c",
-      "time": "2026-05-25 14:03:46",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【Australia Expands LNG Domestic-Supply Obligation To 20%】Australia To Require LNG Producers To Retain 20% Of Exports For Domestic Supply; Rule Covers All Projects And Existing Contracts (Contracts ≤ Dec 22, 2025 Respected Only If Compliance Would Breach Them); Firms May Comply Via Third-Party Purchases, Regional Swaps, Reduced Exports Or Global Asset Purchases; Proposal Aims To Create Modest Domestic Oversupply For Regulator To Allow Re-Exports; Industry Says Move Will Deter Investment; Context: East Coast Gas Shortage Risk, Iran Conflict Sidelines ~20% Of Global LNG"
-    },
-    {
-      "id": "mkt:019e5dbb-2427-711d-be57-39f69801c654",
-      "time": "2026-05-25 14:03:16",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bullish"
-      ],
-      "text": "Japan 20-Year Bond Yield Falls 8bps To 3.61%"
-    },
-    {
-      "id": "4898023",
-      "time": "2026-05-25 14:02:49",
-      "tags": [
-        "兩會"
-      ],
-      "text": "【全國人大常委會啟動海南自由貿易港法執法檢查】為貫徹落實黨中央決策部署，以法治引領和保障改革，加大海南自由貿易港法貫徹實施力度，推動更高水平、更高質量對外開放，全國人大常委會5月25日啟動海南自由貿易港法執法檢查。海南自由貿易港法2021年頒佈實施，為海南自由貿易港的建設和平穩有序執行提供了重要的法律保障。記者25日從全國人大常委會執法檢查組第一次全體會議上獲悉，海南自由貿易港法執法檢查將採取實地檢查與專題調研相結合、執法檢查與法律評估相結合、執法檢查與課題研究相結合等多種方式方法，全面深入瞭解法律實施情況。執法檢查中，將重點檢查8方面內容：貿易自由便利落實情況；投資自由便利落實情況；財政稅收制度落實情況；生態環境保護制度落實情況；產業發展與人才支撐制度落實情況；綜合措施落實情況；與法律配套的行政法規、部門規章以及海南自由貿易港法規的制定情況；法律實施中存在的其他問題，對推進法律貫徹實施的意見和建議。（新華社）"
-    },
-    {
-      "id": "4898022",
-      "time": "2026-05-25 14:02:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油期貨下跌5.8%，報每桶91.02美元。布倫特原油價格下跌5.4%，報每桶94.77美元。"
     }
   ]
 }
