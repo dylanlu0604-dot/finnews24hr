@@ -1,7 +1,336 @@
 {
-  "updated": "2026-06-01 15:58:52",
-  "count": 16278,
+  "updated": "2026-06-01 16:03:05",
+  "count": 16296,
   "items": [
+    {
+      "id": "4910062",
+      "time": "2026-06-01 16:02:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "美股盤前，儲存晶片股走高，美光科技漲超3%，閃迪漲超2%。"
+    },
+    {
+      "id": "4910061",
+      "time": "2026-06-01 16:02:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股中概股盤前多數上漲，嗶哩嗶哩漲5%】美股中概股盤前多數上漲，嗶哩嗶哩漲5%，蔚來漲3%，攜程漲2%，亞瑪芬體育、網易、阿里巴巴漲1%，拼多多漲0.6%，百度跌2%。"
+    },
+    {
+      "id": "4910060",
+      "time": "2026-06-01 16:01:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【361度任命門立俊為集團執行總裁】6月1日，國內運動品牌361度（1361.HK）宣佈一項重要人事任命。基於集團國際化戰略升級及全渠道業務發展的需要，361度決定任命門立俊為集團執行總裁，向集團總裁丁伍號彙報。"
+    },
+    {
+      "id": "mkt:019e8234-3472-766b-8634-5354f6b671d8",
+      "time": "2026-06-01 16:01:46",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Kuwait reiterated it has the full right to take all necessary measures to defend its territory."
+    },
+    {
+      "id": "4910059",
+      "time": "2026-06-01 16:01:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雙環傳動：為全資子公司江蘇雙環提供8.7億元融資擔保】雙環傳動公告稱，公司此前獲批為部分全資、控股子公司提供不超56.35億元的融資擔保額度，部分控股子公司與其下屬全資子公司之間可互相提供不超1.40億元額度的融資擔保。近日，公司與部分銀行簽約，為全資子公司江蘇雙環的銀行融資業務提供連帶責任擔保，擔保債權最高本金餘額為8.7億元。截至公告披露日，公司及控股子公司擔保總餘額為17.53億元，均為合併報表範圍內的公司之間擔保，佔2025年末經審計淨資產的17.50%。"
+    },
+    {
+      "id": "mkt:019e8233-e632-766b-8634-4b79aa17aee8",
+      "time": "2026-06-01 16:01:26",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Kuwait said Iran's attack undermined efforts to ease regional tensions."
+    },
+    {
+      "id": "4910058",
+      "time": "2026-06-01 16:01:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海亮股份：發行境外上市股份（H股）備案申請材料獲證監會接收】海亮股份公告稱，公司於2026年1月30日向香港聯交所遞交公開發行H股股票並上市的申請。近日，公司向中國證監會報送的本次發行備案申請材料獲接收。本次發行尚需取得中國證監會、香港證監及香港聯交所等批准、核准或備案，存在不確定性。"
+    },
+    {
+      "id": "mkt:019e8233-e56d-766b-8634-45a989b06eba",
+      "time": "2026-06-01 16:01:25",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Global container freight rates jump as bunker fuel costs spike】UK shipping media reported on May 30 that disruptions to transits through the Strait of Hormuz have sharply increased bunker fuel costs, with carriers passing higher fuel bills to shippers and global container freight rates rising markedly. The report said the fuel surge is the main driver: at the world’s top-20 bunkering hubs ultra-low-sulfur fuel oil is up 68% since mid-February and high-sulfur fuel oil is up 66%. Shipping consultancy Drewry warned that if the Strait of Hormuz is not reopened quickly the shock to the market will intensify and container rates face further upward pressure in the coming weeks amid seasonal strength."
+    },
+    {
+      "id": "4910057",
+      "time": "2026-06-01 16:01:18",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【美股大型科技股盤前漲跌互現，微軟漲1%】美股大型科技股盤前漲跌互現，微軟、英偉達漲1%，Meta持平，亞馬遜跌0.1%，谷歌A跌0.2%，蘋果跌0.6%，特斯拉跌1%。"
+    },
+    {
+      "id": "4910056",
+      "time": "2026-06-01 16:01:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "科威特確認其擁有采取一切必要措施捍衛領土的完整權利。"
+    },
+    {
+      "id": "4910055",
+      "time": "2026-06-01 16:00:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【圓通速遞在臨沂成立新公司】天眼查App顯示，近日，臨沂圓騰物流有限公司成立，法定代表人為丁建軍，註冊資本100萬人民幣，經營範圍包括道路貨物運輸、裝卸搬運、運輸貨物打包服務、普通貨物倉儲服務等，由圓通速遞有限公司全資持股。"
+    },
+    {
+      "id": "4910054",
+      "time": "2026-06-01 16:00:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【震有科技中標中國移動裝置集採專案】近日，中國移動釋出2026年至2027年CPE OTN裝置集採專案公示，震有科技憑藉GTN6800-Cx系列產品與完善的綜合方案成功突圍，拿下標包2中17.39%的中標份額。"
+    },
+    {
+      "id": "4910053",
+      "time": "2026-06-01 16:00:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "倫敦金屬交易所(LME)：鋁庫存減少300噸，鋅庫存減少500噸，錫庫存增加20噸，銅庫存減少3375噸，鎳庫存減少420噸，鉛庫存減少50噸。"
+    },
+    {
+      "id": "mkt:019e8233-4659-766b-8634-3eedb6cc2576",
+      "time": "2026-06-01 16:00:49",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "London Metal Exchange inventories: aluminium down 300 tonnes, zinc down 500 tonnes, tin up 20 tonnes, copper down 3,375 tonnes, nickel down 420 tonnes, lead down 50 tonnes."
+    },
+    {
+      "id": "mkt:019e8233-458d-766b-8634-318d801378c4",
+      "time": "2026-06-01 16:00:47",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Euro area three-month M3 money supply YoY 2.7% in April, down from 3.2% in March."
+    },
+    {
+      "id": "mkt:019e8233-4543-766b-8634-2cde3e72696e",
+      "time": "2026-06-01 16:00:39",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Eurozone | 3-mo M3 Money Supply (YoY) (Apr) | actual 2.7% | previous 3.2%"
+    },
+    {
+      "id": "mkt:019e8233-4542-766b-8634-235daa9ca960",
+      "time": "2026-06-01 16:00:35",
+      "tags": [
+        "MKT News",
+        "EURUSD"
+      ],
+      "text": "Eurozone April ECB 3-year CPI expectation 2.9%, prior 3.0%."
+    },
+    {
+      "id": "mkt:019e8233-0533-766b-8634-1fa28d8b3136",
+      "time": "2026-06-01 16:00:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Eurozone April ECB 1-year CPI expectation 4.0%, unchanged from prior 4.0%."
+    },
+    {
+      "id": "4910052",
+      "time": "2026-06-01 16:00:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "富士康：布林與富士康達成合作，擴大歐洲人工智慧基礎設施製造產能。"
+    },
+    {
+      "id": "4910051",
+      "time": "2026-06-01 16:00:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "科威特表示，伊朗的襲擊破壞了為緩解該地區局勢緊張所作的努力。"
+    },
+    {
+      "id": "4910050",
+      "time": "2026-06-01 16:00:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【喜茶廈門首家喜拉朵實驗室落地，上新鳳梨酥限定風味】6月1日，喜茶廈門永珍城二期喜拉朵實驗室+店正式開業，是其在廈門的首家喜拉朵實驗室門店。據悉，喜拉朵實驗室最早誕生於2019年，在意式傳統冰淇淋（gelato）的工藝基礎上，採用更高標準的鮮果真奶用料每日現做，基於喜茶特色的研發思路與風味設計產品。（新浪科技）"
+    },
+    {
+      "id": "4910049",
+      "time": "2026-06-01 16:00:26",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "【英偉達美股盤前漲超2%】英偉達美股盤前漲超2%。訊息面上，英偉達聯手宇樹、Sharpa 打造參考人形機器人。"
+    },
+    {
+      "id": "te:markets:555299",
+      "time": "2026-06-01 16:00:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural Gas UK Rises by 4.43% — Top commodity gainers are Natural Gas UK (4.43%), Natural Gas EU (3.71%), Crude Oil WTI (3.39%) and Brent Crude Oil (3.10%)."
+    },
+    {
+      "id": "4910048",
+      "time": "2026-06-01 16:00:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【上汽集團：5月整車銷量34.9萬輛，同比下降4.62%】上汽集團公告，2026年5月整車產量33.46萬輛，同比下降18.61%；銷量34.9萬輛，同比下降4.62%。本年累計產量162.08萬輛，同比下降9.64%；累計銷量165.06萬輛，同比下降2.18%。其中，新能源汽車產量18.86萬輛，同比增長24.41%；銷量18.25萬輛，同比增長46.49%；本年累計產量59.75萬輛，同比增長4.69%；累計銷量59.48萬輛，同比增長13.16%。出口及海外基地產量12.92萬輛，同比增長32.70%；銷量12.95萬輛，同比增長32.46%；本年累計產量58.41萬輛，同比增長44.74%；累計銷量58.87萬輛，同比增長45.91%。"
+    },
+    {
+      "id": "4910047",
+      "time": "2026-06-01 16:00:13",
+      "tags": [
+        "資料"
+      ],
+      "text": "歐元區5月製造業PMI終值 51.6，預期51.4，前值51.4。\n歐元區4月貨幣供應M3年率 2.7%，預期3.2%，前值3.20%。"
+    },
+    {
+      "id": "mkt:019e8232-a507-766b-8634-1429e2ea825b",
+      "time": "2026-06-01 16:00:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Eurozone M3 money supply YoY 2.7% in April, vs. 3.2% expected and 3.2% prior."
+    },
+    {
+      "id": "mkt:019e8232-a4a9-766b-8634-08e98ac71bba",
+      "time": "2026-06-01 16:00:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "Eurozone May manufacturing PMI (final) 51.6, versus consensus 51.4 and April 51.4."
+    },
+    {
+      "id": "mkt:019e8232-7401-766b-8634-054100a1a6ec",
+      "time": "2026-06-01 16:00:02",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Iran says shifting U.S. positions a major barrier to talks】Iran foreign ministry spokesman Baghaei said on the 1st that a key difficulty in negotiations with the United States is frequent, self-contradictory shifts in U.S. positions. He said talks are conducted in an atmosphere of mutual distrust and that inconsistent rhetoric and media messaging from the other side only prolong negotiations. Baghaei blamed Israel—specifically its strikes on Lebanon—for preventing regional de-escalation and said the United States also bears responsibility for actions in the region. He warned repeated violations of the Israel-Lebanon ceasefire risk wider regional and global consequences. On the nuclear issue, Baghaei said no talks are underway and that the current priority is ending the war."
+    },
+    {
+      "id": "mkt:019e8232-73ea-766b-8633-f88ed3f9e103",
+      "time": "2026-06-01 16:00:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Eurozone | M3 Money Supply (YoY) (Apr) | actual 2.7% | consensus 3.2% | previous 3.20%"
+    },
+    {
+      "id": "mkt:019e8232-618b-766b-8633-f12fff81efb7",
+      "time": "2026-06-01 16:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Eurozone | Manufacturing PMI Final (May) | actual 51.6 | consensus 51.4 | previous 51.4"
+    },
+    {
+      "id": "4910046",
+      "time": "2026-06-01 15:59:21",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【現代汽車5月全球銷量同比下降7.7%】6月1日，韓國汽車製造商現代汽車公司公佈，2025年5月全球汽車銷量達325,473輛，同比下降7.7%；其中海外銷量同比下降4.6%至280,109輛，而本土銷量下降23.1%至45,364輛。現代汽車將銷量下滑歸因於其供應商零部件供應問題導致的生產中斷。"
+    },
+    {
+      "id": "4910045",
+      "time": "2026-06-01 15:58:54",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗外交部發言人：與美國談判的一大難題在於對方立場頻繁變化】當地時間1日，伊朗外交部發言人巴加埃表示：“基本上，與美國談判的一大難題在於其立場頻繁變化且自相矛盾。”就伊美談判進展，他指出，雙方是在互不信任的環境下進行談判，談判在猜疑中開始並繼續進行，“談判本身也並非雙方互信的標誌”，如果對方言辭前後矛盾，媒體宣傳也自相矛盾，只會延長談判程序。巴加埃還表示，未能達成協議的主要原因是以色列以及其對黎巴嫩的襲擊，這是企圖阻止該地區局勢改善的行徑。此外，美國也負有責任，該地區發生的任何行動都應由美國負責。他稱，黎以停火協議持續遭到違反，這種情況的後果不僅會影響該地區，還會影響全世界。針對核問題，巴加埃強調，目前尚未就核問題進行任何談判，現階段的重點是結束戰爭。（央視新聞）"
+    },
+    {
+      "id": "4910044",
+      "time": "2026-06-01 15:58:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【柳藥集團：累計回購1080.30萬股 金額達1.99億元】柳藥集團公告稱，截至2026年5月31日，公司透過集中競價交易方式累計回購股份1080.30萬股，佔總股本的2.72%，已支付總金額19863.82萬元，回購價格區間為17.83元/股-19.07元/股。公司於2025年7月25日啟動回購，預計回購金額1億-2億元，用於員工持股計劃或股權激勵，回購期限至2026年7月24日。"
+    },
+    {
+      "id": "4910043",
+      "time": "2026-06-01 15:58:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【石頭科技：擬3億-4億元回購股份用於維護股東權益】石頭科技公告稱，公司第三屆董事會第十七次會議審議透過以集中競價交易方式回購公司股份的議案。公司擬以自有資金回購已發行的部分A股，回購價不超179.86元/股，回購資金3億元-4億元。回購股份用於維護公司價值及股東權益，方案自董事會審議透過之日起3個月內實施，擬在披露回購結果暨股份變動公告12個月後出售，3年內完成。該方案無需提交股東會審議。"
+    },
+    {
+      "id": "4910042",
+      "time": "2026-06-01 15:58:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【陝西煤業：子公司所屬企業擬20.5億元辦理融資租賃關聯交易】陝西煤業公告稱，子公司陝煤電力集團所屬陝煤合川擬透過開源租賃辦理20.5億元融資租賃業務，出租人為開源租賃，承租人為陝煤合川，利率3.05%，租賃期15年。開源租賃為公司控股股東陝煤集團的全資子公司，本次交易構成關聯交易，不構成重大資產重組，未達股東會審議標準。過去12個月，公司與陝煤集團及下屬企業除日常關聯交易外的偶發性關聯交易金額合計2240.84萬元。"
+    },
     {
       "id": "mkt:019e8230-c887-766b-8633-ea18867bc6f2",
       "time": "2026-06-01 15:58:15",
@@ -9,6 +338,15 @@
         "MKT News"
       ],
       "text": "【Economist: German manufacturing rebound stalled in May; new orders fell for first time this year】Phil Smith, deputy director of economics at S&P Global Market Intelligence, said Germany’s manufacturing rebound stalled in May, confirming PMI signals that growth driven by front-loaded orders may fade. New orders fell for the first time this year amid high uncertainty and surging prices, while manufacturing input-cost pressures continued to rise. Output price inflation was broadly unchanged from April as weak demand led some firms to be more cautious on pricing."
+    },
+    {
+      "id": "4910041",
+      "time": "2026-06-01 15:58:15",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "【天涯社群回應“網頁打不開”：訪問人數劇增有點卡頓，會盡快完善】今日，停服近三年的老牌論壇天涯社群正式重啟，卻因海量老使用者的瞬間湧入直接把伺服器“擠爆”，大量網友反饋新域名完全打不開，少量使用者即便進去了，也出現非常卡頓的情況，載入十分緩慢。對此，天涯社群客服向新浪科技回應表示，“天涯社群新網址剛剛重啟，訪問人數劇增，有點卡頓，請多試幾次。目前網頁版只能瀏覽帖子，帖子資料還在遷移中，當前只能看到部分版塊和帖子，後面會逐步完善增加。”（新浪科技）"
     },
     {
       "id": "4910040",
@@ -148181,164 +148519,6 @@
         "公司"
       ],
       "text": "【浙商證券：維持華翔股份“買入”評級，人形機器人零部件二期專案投產】浙商證券研報指出，華翔股份人形機器人零部件二期專案投產，新興領域開啟空間。人形機器人零部件二期專案正式投入批次生產，標誌著公司在諧波減速器及人形機器人核心零部件領域，實現了產能規模與製造工藝的雙跨越。截至2026年一季度末，公司在手貨幣資金及交易性金融資產合計約15億元，公司積極尋求優質標的，透過併購重組、戰略投資等方式，加速新業務佈局，開啟成長天花板。公司擬發行不超過13億元可轉債用於擴產提效，已獲上交所稽核透過；傳統主業龍頭地位穩固，2025年汽車零部件營收增長54%，成為重要增長極。工程機械零部件最差階段已過，有望迎經營拐點。公司是家電零部件龍頭，汽車零部件業務快速增長，在手貨幣資金及交易性金融資產合計約15億元，具備外延拓展實力。維持“買入”評級。"
-    },
-    {
-      "id": "4898293",
-      "time": "2026-05-25 16:02:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗稱若再遭襲反擊或覆蓋至印度洋】伊朗最高領袖軍事顧問穆赫辛·雷扎伊5月24日警告稱，如果美國執意發動新一輪軍事打擊，伊朗將打破此前剋制、隱忍的態度，其反擊範圍不僅將覆蓋霍爾木茲海峽與波斯灣，還將進一步延伸至紅海、曼德海峽乃至印度洋。 雷扎伊還表示，歷史經驗證明，對霍爾木茲海峽的控制是伊朗保障國家安全的“合法且關鍵的權利”，管控霍爾木茲海峽是伊朗的“合法權利”。伊朗對該海峽的“管理”不是為了阻斷自由貿易，而是為了防止不安全和軍事入侵。伊朗將對任何侵犯霍爾木茲海峽和進入波斯灣的“敵對行為”作出嚴厲回應。如果“敵對行為”持續，伊朗的“戰略選項”之一是退出《不擴散核武器條約》。（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:019e5e28-03d0-711d-be59-4ee050e34b22",
-      "time": "2026-05-25 16:02:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran Foreign Ministry Spokesman: Finalized MoU Triggers 60-Day Talks On Details, Nuclear, Other Issues"
-    },
-    {
-      "id": "4898292",
-      "time": "2026-05-25 16:02:08",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【九號公司：公司割草機器人已經在美國上市銷售】九號公司5月25日在互動平臺回覆稱，公司割草機器人已經在美國上市銷售。"
-    },
-    {
-      "id": "mkt:019e5e27-ff82-711d-be59-4399a3cf9cab",
-      "time": "2026-05-25 16:02:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Natixis Says ECB-Hike Expectations Overstated After Weak Eurozone PMI】Natixis analysts: Eurozone May preliminary PMI unexpectedly weak; LSEG money markets price 80% chance of 25bp ECB June hike, fully price two more hikes by year-end"
-    },
-    {
-      "id": "mkt:019e5e27-d6fb-711d-be59-3bf82f8ca491",
-      "time": "2026-05-25 16:01:56",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "CBRT Holds 1-Period Gold-For-Lira Sell Swap Auction, Size 6 mt"
-    },
-    {
-      "id": "4898291",
-      "time": "2026-05-25 16:01:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "拉脫維亞總統：我認為議會本週對庫爾貝格政府進行投票的可能性很大。"
-    },
-    {
-      "id": "4898290",
-      "time": "2026-05-25 16:01:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部發言人表示，若諒解備忘錄最終敲定，將在60天內就備忘錄的部分細節及包括核問題在內的其他議題展開談判。"
-    },
-    {
-      "id": "4898289",
-      "time": "2026-05-25 16:01:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "【行賄犯罪嫌疑人薛國泉被遣返回國】近日，在中央反腐敗協調小組國際追逃追贓工作辦公室統籌協調和公安部協助下，經湖南省監察機關與有關國家執法機關密切合作，行賄犯罪嫌疑人薛國泉在境外落網並被遣返回國。湖南省監察機關正在對薛國泉涉嫌行賄犯罪問題立案調查。"
-    },
-    {
-      "id": "mkt:019e5e27-2900-711d-be59-302f45f23f12",
-      "time": "2026-05-25 16:01:14",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iran Foreign Ministry Spokesman: 14-Point MoU To End War, End US Navy Blockade; Iran To Secure Strait Of Hormuz Navigation"
-    },
-    {
-      "id": "4898288",
-      "time": "2026-05-25 16:00:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美媒：美伊框架協議“已達成95%” 】美國福克斯新聞頻道24日援引一名美國官員的話報道說，美國和伊朗的框架協議目前“已達成95%”，雙方在伊朗“核儲備”和霍爾木茲海峽問題上達成協議，目前正在就“措辭”進行磋商。這名未透露姓名的美國官員否認了美國很快與伊朗達成協議的可能性，他說：“我們尚未達成協議，也不會在今天或明天簽署協議。”他推測美國總統特朗普可能給美伊雙方談判代表5到7天時間來達成協議。這名官員還表示，美國有多種選擇，如果美伊雙方未能達成協議，美國“可以恢復軍事打擊”。（新華社）"
-    },
-    {
-      "id": "4898287",
-      "time": "2026-05-25 16:00:15",
-      "tags": [
-        "央行",
-        "市場"
-      ],
-      "text": "土耳其央行透過傳統方式開展1週期黃金兌里拉賣方掉期拍賣，拍賣規模為6噸。"
-    },
-    {
-      "id": "te:markets:553407",
-      "time": "2026-05-25 16:00:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Crude Oil WTI Tumbles by 5.04% — Top commodity losers are Crude Oil WTI (-5.04%), Natural Gas EU (-4.80%) and Brent Crude Oil (-4.77%)."
-    },
-    {
-      "id": "4898286",
-      "time": "2026-05-25 15:59:53",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【歐洲央行斯圖納拉斯：若通脹超出目標，需採取更具限制性的貨幣政策】歐洲央行管委斯圖納拉斯週一表示，如果歐元區通脹率暫時但明顯地超過歐洲央行的目標，應謹慎地將貨幣政策向更具限制性的方向調整。斯圖納拉斯指出，伊朗戰事持續期間霍爾木茲海峽的封鎖導致石油和天然氣價格飆升，這可能對工資以及商品和服務的價格產生次級影響。“如果通脹率明顯但只是暫時性地超出目標水準，政策回應應保持平衡；即應審慎地將貨幣政策調整至較為限制性的方向，以抑制第二輪效應的強度，同時避免對經濟活動造成過度傷害。”他補充道，必須確保通脹迴歸歐洲央行2%的中期目標，同時避免因過於限制性的貨幣政策給經濟活動和投資帶來負擔。"
-    },
-    {
-      "id": "4898285",
-      "time": "2026-05-25 15:59:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部發言人表示，這份14點諒解備忘錄的核心內容是結束戰爭、終止美國海上封鎖，作為交換，伊朗將採取措施保障霍爾木茲海峽的航行安全。"
-    },
-    {
-      "id": "4898284",
-      "time": "2026-05-25 15:59:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【卓勝微：公司已突破並掌握砷化鎵等相關工藝技術】卓勝微5月25日在互動平臺稱，公司目前已突破並掌握砷化鎵等相關工藝技術。"
-    },
-    {
-      "id": "4898283",
-      "time": "2026-05-25 15:59:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "【預告：廣州5月26日召開《關於進一步促進房地產市場平穩健康發展的實施意見》系列配套檔案新聞釋出會】廣州市人民政府新聞辦公室定於5月26日（星期二）上午10:00，在廣州市新聞釋出廳召開《關於進一步促進房地產市場平穩健康發展的實施意見》系列配套檔案新聞釋出會，將邀請市政府、市住房城鄉建設局、市規劃和自然資源局、廣州住房公積金管理中心、花都區、廣州安居集團的相關負責同志介紹《關於進一步促進房地產市場平穩健康發展的實施意見》系列配套檔案的有關情況。"
-    },
-    {
-      "id": "4898282",
-      "time": "2026-05-25 15:59:08",
-      "tags": [
-        "宏觀",
-        "焦點"
-      ],
-      "text": "【習近平會見巴基斯坦總理夏巴茲】5月25日下午，國家主席習近平在北京人民大會堂會見來華進行正式訪問的巴基斯坦伊斯蘭共和國總理夏巴茲·謝里夫。（央視新聞）"
-    },
-    {
-      "id": "4898281",
-      "time": "2026-05-25 15:58:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "【陳茂波：香港是歐洲金融機構和投資者低配了的市場】香港特區財政司司長陳茂波發文分享歐洲三國之行。他表示感受最深的是歐洲求變意識強烈，在經貿、投資和創科等多個領域，香港和歐洲可以務實合作、共創雙贏。對歐洲，香港價值主張在三方面尤為突出。首先，香港是歐洲金融機構和投資者低配了的市場。從證券、債券、貨幣、衍生工具以至數字資產等，香港提供了豐富投資產品和風險管理工具。其次，雙方可探索跨境投資與監管合作，相互拓展市場。第三在於金融創新，香港在數字資產發展和監管方面走在歐洲的前面，彼此有不少合作和互鑑空間。"
     }
   ]
 }
