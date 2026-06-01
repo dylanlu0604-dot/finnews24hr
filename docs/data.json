@@ -1,7 +1,424 @@
 {
-  "updated": "2026-06-02 02:43:28",
-  "count": 17032,
+  "updated": "2026-06-02 03:24:58",
+  "count": 17067,
   "items": [
+    {
+      "id": "mkt:019e84a4-650e-7993-96f9-4edd8bf4842c",
+      "time": "2026-06-02 03:23:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "THUNE: The U.S. Senate will advance a $72 billion immigration enforcement spending bill."
+    },
+    {
+      "id": "4911278",
+      "time": "2026-06-02 03:22:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "知情人士：特朗普提出的“機構政治化調查專項經費”專案已暫緩推進。"
+    },
+    {
+      "id": "4911277",
+      "time": "2026-06-02 03:20:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議院多數黨領袖約翰·圖恩表示，白宮若取消該項撥款當屬最優方案。"
+    },
+    {
+      "id": "mkt:019e84a1-c90e-7993-96f9-4735e8596931",
+      "time": "2026-06-02 03:20:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Senate Majority Leader Thune said the White House has not issued any official statement on President Trump's fund."
+    },
+    {
+      "id": "mkt:019e84a1-8edf-7993-96f9-3fe6cb2fb43b",
+      "time": "2026-06-02 03:20:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Senate majority leader Thune said it would be ideal if the White House abandoned the fund."
+    },
+    {
+      "id": "mkt:019e84a1-16f7-7993-96f9-34986e5088da",
+      "time": "2026-06-02 03:20:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Senate Majority Leader Thune said he hopes to remove President Trump's \"weaponized\" fund from the immigration enforcement spending bill."
+    },
+    {
+      "id": "mkt:019e84a1-154e-7993-96f9-29b5240a0508",
+      "time": "2026-06-02 03:20:09",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iranian state media: IRGC Sacred City Brigade commander Kani said Israeli operations in Lebanon and Gaza will prompt the 'axis of resistance' to treat shipping through the Bab al-Mandeb as equivalent to the Strait of Hormuz."
+    },
+    {
+      "id": "4911276",
+      "time": "2026-06-02 03:19:00",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國參議院多數黨領袖約翰·圖恩表示，白宮尚未就特朗普基金髮布官方公告。"
+    },
+    {
+      "id": "4911275",
+      "time": "2026-06-02 03:18:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國：計劃於2033年前落地多項大型鐵路基建工程。"
+    },
+    {
+      "id": "4911274",
+      "time": "2026-06-02 03:18:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議院多數黨領袖約翰·圖恩表示，希望從移民執法支出法案中剔除特朗普提出的 “政治武器化調查專項經費”。"
+    },
+    {
+      "id": "4911273",
+      "time": "2026-06-02 03:16:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊聖城旅指揮官卡尼：以色列在黎巴嫩與加沙的行動將致使抵抗軸心“將曼德海峽與霍爾木茲海峽的航行形勢對等看待”。"
+    },
+    {
+      "id": "4911272",
+      "time": "2026-06-02 03:15:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：已在密歇根州薩林市動工建設佔地面積1吉瓦的資料中心園區“The Barn”。"
+    },
+    {
+      "id": "mkt:019e849c-5287-7993-96f9-24339b828a52",
+      "time": "2026-06-02 03:14:57",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI said the BARN project is expected to generate $1 billion in tax revenue over the lease term."
+    },
+    {
+      "id": "4911271",
+      "time": "2026-06-02 03:14:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：該專案設計採用閉環冷卻系統，耗水量與普通辦公樓大致相當。"
+    },
+    {
+      "id": "4911270",
+      "time": "2026-06-02 03:14:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：該人工智慧資料中心所需的基礎設施與能源將由專案方承擔費用，相關成本不會轉嫁到當地納稅人身上。"
+    },
+    {
+      "id": "mkt:019e849b-93e7-7993-96f9-1d958fd6fc12",
+      "time": "2026-06-02 03:14:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "OpenAI, together with Related Digital, ORACLE, Walbridge and Blackstone, contributed US$10 mln for upgrades to the Sarlin Entertainment Center."
+    },
+    {
+      "id": "4911269",
+      "time": "2026-06-02 03:13:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：該產業園預計還將在全縣範圍內創造1500個就業崗位，以及額外1000個間接就業崗位。"
+    },
+    {
+      "id": "4911268",
+      "time": "2026-06-02 03:13:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：該新研發中心預計將創造超過2500個工會建築崗位，此外還將提供450個長期現場崗位。"
+    },
+    {
+      "id": "4911267",
+      "time": "2026-06-02 03:12:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：巴恩專案預計將在租賃期內創造10億美元稅收收入。"
+    },
+    {
+      "id": "4911266",
+      "time": "2026-06-02 03:12:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "OpenAI：將聯合Related Digital、甲骨文、Walbridge與黑石集團（Blackstone），共同出資1000萬美元，用於薩林娛樂中心的設施升級改造。"
+    },
+    {
+      "id": "4911265",
+      "time": "2026-06-02 03:12:00",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "法國總統馬克龍：費列羅集團宣佈將於2026年在法國新建兩條生產線，並投資6000萬歐元，以彰顯其對該地區的長期承諾。"
+    },
+    {
+      "id": "4911264",
+      "time": "2026-06-02 03:11:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【烏干達反政府武裝襲擊剛果（金）東部致16人死亡 】剛果（金）政府6月1日發表宣告說，烏干達反政府武裝“民主同盟軍”5月31日襲擊了剛果（金）東部北基伍省貝尼市一個街區，造成16人死亡。"
+    },
+    {
+      "id": "4911263",
+      "time": "2026-06-02 03:11:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "黎巴嫩總統府援引黎巴嫩駐美國大使館訊息稱，真主黨已同意美方提出的雙向停止敵對行動提案，停火範圍將擴至黎巴嫩全境。"
+    },
+    {
+      "id": "4911262",
+      "time": "2026-06-02 03:10:13",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院擬將非洲地區承辦簽證業務的駐外使館數量從近50個縮減至20個。"
+    },
+    {
+      "id": "mkt:019e8497-e947-7993-96f9-161e178b3ecd",
+      "time": "2026-06-02 03:10:08",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "The Lebanese presidency, citing Lebanon's embassy in Washington, said Hezbollah has agreed to a U.S. proposal for a mutual cessation of attacks to be extended across Lebanon."
+    },
+    {
+      "id": "4911261",
+      "time": "2026-06-02 03:09:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗 革命衛隊地面部隊指揮官：我們完全準備好應對任何威脅，武裝部隊的準備水平甚至已經超過了戰爭開始時的水平。"
+    },
+    {
+      "id": "mkt:019e8496-fa01-7993-96f9-0fc4f550a9bc",
+      "time": "2026-06-02 03:09:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada's minister responsible for the USMCA said he will meet U.S. Trade Representative Greer in Washington, D.C., on Tuesday."
+    },
+    {
+      "id": "4911260",
+      "time": "2026-06-02 03:08:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "負責《美墨加協定》事務的加拿大政府部長表示，他將於週二在華盛頓會晤美國貿易代表格里爾。"
+    },
+    {
+      "id": "mkt:019e8496-0246-7993-96f9-02dba9de1983",
+      "time": "2026-06-02 03:08:03",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hang Seng Index futures night session closed 0.15% at 25,207, 191 points below the cash index."
+    },
+    {
+      "id": "4911259",
+      "time": "2026-06-02 03:07:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "丹麥首相梅特·弗雷澤裡克森已組建新一屆政府。"
+    },
+    {
+      "id": "4911258",
+      "time": "2026-06-02 03:06:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列軍方通報，當日早些時候黎巴嫩真主黨在黎巴嫩南部發起無人機襲擊，造成一名以軍軍醫陣亡、另有七名士兵受傷。"
+    },
+    {
+      "id": "4911257",
+      "time": "2026-06-02 03:06:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國農業部表示，4月用於生產燃料乙醇的玉米用量為4.277億蒲式耳，高於去年同期的4.232億蒲式耳。"
+    },
+    {
+      "id": "mkt:019e8494-51a8-7993-96f8-fbf1d589d0e0",
+      "time": "2026-06-02 03:06:13",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Israel's defense minister KATZ said Trump had adopted Israel's position that firing on Israeli settlements would mean Beirut would be bombed, and that was the meaning of his remark."
+    },
+    {
+      "id": "4911256",
+      "time": "2026-06-02 03:06:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國農業部表示，4月美國蒸餾幹穀物可溶物（DDGS）產量為161.2萬噸，較去年同期的163萬噸有所下降。"
+    },
+    {
+      "id": "4911255",
+      "time": "2026-06-02 03:04:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "美銀：資產支援證券、商業地產抵押證券利差優勢突出，成結構化品類優選。"
+    },
+    {
+      "id": "4911254",
+      "time": "2026-06-02 03:02:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防部長卡茨：特朗普採納了我方確立的對等準則，但凡有火力襲擊以色列定居點，以方就將空襲貝魯特，這便是特朗普相關表態的內涵。"
+    },
+    {
+      "id": "mkt:019e8490-6fbb-7993-96f8-f3da6599c9ef",
+      "time": "2026-06-02 03:01:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Israeli reports said Lebanon's presidential office announced Lebanese authorities had received Hezbollah's affirmative response to a US-proposed mutual ceasefire."
+    },
+    {
+      "id": "4911253",
+      "time": "2026-06-02 03:00:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "黎巴嫩總統奧恩辦公室釋出宣告，黎巴嫩官方已收到真主黨同意美方提出的雙向停火提議的答覆。"
+    },
+    {
+      "id": "4911252",
+      "time": "2026-06-02 03:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收跌0.12%，報25213.93點，低水184.25點。"
+    },
+    {
+      "id": "mkt:019e848c-b2f1-7993-96f8-eaac39981ac1",
+      "time": "2026-06-02 02:57:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Flight-tracking data show nearly 12,000 flights transited Syrian airspace in May 2026, a 375% increase from May 2025."
+    },
+    {
+      "id": "4911251",
+      "time": "2026-06-02 02:57:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "黎巴嫩真主黨議員哈桑・法德拉拉：真主黨拒絕了部分停火提議——該提議要求真主黨停止對以色列北部的襲擊，以換取以色列不轟炸貝魯特。"
+    },
+    {
+      "id": "mkt:019e848b-a884-7993-96f8-e44c898f8588",
+      "time": "2026-06-02 02:56:45",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "HEZBOLLAH MP Hassan Fadlallah said the group rejected parts of a ceasefire proposal that would have required it to halt attacks on northern Israel in exchange for Israel refraining from bombing Beirut."
+    },
+    {
+      "id": "4911250",
+      "time": "2026-06-02 02:56:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "資料顯示，5 月近 1.2 萬架次航班飛越敘利亞領空，較 2025 年 5 月大增 375%。"
+    },
+    {
+      "id": "mkt:019e8483-c1cf-7993-96f8-d87ca877368c",
+      "time": "2026-06-02 02:48:07",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Altman said OpenAI will pursue an IPO when it is in the company’s interest."
+    },
+    {
+      "id": "mkt:019e8483-7d99-7993-96f8-d065c718960b",
+      "time": "2026-06-02 02:47:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "OpenAI founder Altman said he has not been monitoring ANTHROPIC's IPO timing since the company filed for an IPO."
+    },
+    {
+      "id": "4911249",
+      "time": "2026-06-02 02:47:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：在 Anthropic 遞交上市申請後，OpenAI 執行長奧特曼稱目前暫不考慮 IPO 上市時機。"
+    },
+    {
+      "id": "mkt:019e8481-8a52-7993-96f8-ca1dffee2847",
+      "time": "2026-06-02 02:45:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Axios reports President Trump plans to cancel 'weaponized' funds."
+    },
+    {
+      "id": "4911248",
+      "time": "2026-06-02 02:44:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "據Axios：特朗普計劃取消“武器化”基金。"
+    },
     {
       "id": "mkt:019e847f-053c-7993-96f8-c37cbae72cde",
       "time": "2026-06-02 02:42:57",
@@ -155377,129 +155794,6 @@
         "MKT News"
       ],
       "text": "【Japan House Of Councillors Debates National Intelligence Agency Bill】House Of Councillors Cabinet Committee debates National Intelligence Agency bill; PM TAKAICHI attends, faces opposition questioning; Ruling party plans committee vote today and full House vote on 27; Bill passed House Of Representatives Apr 23; Bill sets National Intelligence Council as core and National Intelligence Agency as executive to coordinate security, counterterrorism and foreign intelligence including counter-espionage"
-    },
-    {
-      "id": "mkt:019e624e-3970-7dd8-b21d-f4eb22313647",
-      "time": "2026-05-26 03:22:34",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "USDJPY",
-        "Impact mixed"
-      ],
-      "text": "【Bank Of Japan Deputy Governor HIMINO Urges Timely Policy Adjustments To Sustain Market Confidence】BANK OF JAPAN Deputy Governor HIMINO Urges Timely Easing Adjustments After JGB Selloff; Signals Openness To Rate Hike; Markets Price Next-Meeting Increase"
-    },
-    {
-      "id": "4899104",
-      "time": "2026-05-26 03:21:09",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【多地支援打造高質量資料集】今年以來，河南省、四川省、福建省、湖南省、山東省、北京市等多地透過出臺政策檔案、釋出“揭榜掛帥”機會清單、召開專題會議等方式，積極佈局數字經濟。從具體內容看，地方推動數字經濟高質量發展的著手點各有側重，其中，有兩項措施廣受關注，即培育壯大數字經濟企業、支援打造高質量資料集。（證券日報）"
-    },
-    {
-      "id": "4899103",
-      "time": "2026-05-26 03:12:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "法國總統馬克龍： 在泰國總理訪法期間與其舉行會談。"
-    },
-    {
-      "id": "4899102",
-      "time": "2026-05-26 03:07:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯外交部：包括外交機構及工作人員在內的外籍人士應儘快撤離基輔。"
-    },
-    {
-      "id": "4899101",
-      "time": "2026-05-26 03:03:37",
-      "tags": [
-        "市場"
-      ],
-      "text": "在岸人民幣兌美元（CNY）北京時間03:00收報6.7834元，較上週五夜盤收盤漲144點。成交量404.68億美元。"
-    },
-    {
-      "id": "te:economy:553510",
-      "time": "2026-05-26 03:02:16",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Paraguay",
-        "Producer Prices Change",
-        "Importance 0"
-      ],
-      "text": "Uruguay Producer Prices Fall for Third Straight Month — Uruguay’s Producer Price Index fell 1% year-on-year in April 2026, following a 0.7% decline in the previous month. Producer prices posted an annual contraction for the third consecutive month, mainly driven by negative contributions from domestic agricultural and horticultural products, as well as imported categories including metal products, machinery and equipment, non-metallic transportable goods, and food, beverages, tobacco, textiles, and leather products. From a grouping perspective, imported products accounted for most of the downward pressure, while domestic products made a positive contribution that partly offset the decline. The domestic categories supporting the index included food, beverages, tobacco, textiles and leather products, live animals and animal products, and non-metallic transportable goods."
-    },
-    {
-      "id": "4899100",
-      "time": "2026-05-26 02:59:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "【收購二手房工作在各地加速推進，專家：收購二手房工作有望擴圍】上海市房屋管理局5月21日釋出訊息稱，2月2日試點以來，浦東、徐匯、靜安三區已累計完成房源收購523套。除上海外，5月份以來，廣州、蘇州等城市均有國企啟動收購二手房工作。“未來收購二手房工作的範圍有望進一步擴大，還會保持政策高靈活度。”58安居客研究院院長張波建議，各地要重視收購二手房和城市更新的結合，收購併同步提升片區居住環境。統一規範房源評估定價機制，進一步放寬房票使用限制，打通行政區的限制，並加快辦理節奏，讓存量盤活政策更好服務民生。（證券日報）"
-    },
-    {
-      "id": "4899099",
-      "time": "2026-05-26 02:58:12",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "一名瞭解伊朗代表團多哈之行的官員透露，伊方與卡達首相的會談主要圍繞霍爾木茲海峽以及伊朗高丰度濃縮鈾儲備展開。伊朗央行行長也參與了會談，商討最終協議框架下解凍伊朗被凍結資產的相關事宜。"
-    },
-    {
-      "id": "4899098",
-      "time": "2026-05-26 02:54:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以軍空襲黎巴嫩貝卡谷地 打擊真主黨基礎設施】當地時間25日晚，以色列國防軍釋出訊息稱，以軍正在對黎巴嫩貝卡谷地以及黎境內其他地區的真主黨基礎設施實施打擊。當天，以色列北部城鎮什洛米市長加比·納曼在社交媒體上釋出警告稱，“今晚及未來幾天衝突可能會進一步加劇，居民必須保持比平時更高的警惕”。納曼表示，鑑於近期黎巴嫩真主黨無人機襲擊激增，他已要求以軍後方司令部和以色列教育部門叫停線下教育系統，全面轉為線上遠端教學。（央視新聞）"
-    },
-    {
-      "id": "mkt:019e6233-67d0-7dd8-b21d-e86d4d636992",
-      "time": "2026-05-26 02:53:16",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "USDJPY",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "IDR Extends Slide, Hits Record Low 17,785 Per USD"
-    },
-    {
-      "id": "mkt:019e622f-61f4-7dd8-b21d-e2b3df69aafc",
-      "time": "2026-05-26 02:48:52",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact mixed",
-        "DXY",
-        "S&P500"
-      ],
-      "text": "KATAYAMA: Oil Volatility Hits FX, Financial Markets"
-    },
-    {
-      "id": "4899097",
-      "time": "2026-05-26 02:45:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：美軍在“史詩之怒行動”中有13名軍人陣亡；針對委內瑞拉的行動大獲全勝，美方零傷亡。"
-    },
-    {
-      "id": "4899096",
-      "time": "2026-05-26 02:45:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "【內塔尼亞胡指示以軍加大對黎真主黨打擊力度】以色列總理內塔尼亞胡25日表示，他已指示軍方進一步加大對黎巴嫩真主黨的打擊力度。 (新華社)"
     }
   ]
 }
