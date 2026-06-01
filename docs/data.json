@@ -1,7 +1,21 @@
 {
-  "updated": "2026-06-02 02:01:09",
-  "count": 17042,
+  "updated": "2026-06-02 02:05:00",
+  "count": 17036,
   "items": [
+    {
+      "id": "mkt:019e8458-7390-7993-96f8-6aaf303033f7",
+      "time": "2026-06-02 02:00:49",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "Apple (AAPL.O) is reportedly preparing to launch a bill-splitting feature as it further expands its financial services."
+    },
     {
       "id": "4911238",
       "time": "2026-06-02 01:58:19",
@@ -155518,71 +155532,6 @@
         "MKT News"
       ],
       "text": "【Canada PM Mark Carney Calls For Independent Probe Of Gaza-Bound Global Resilience Flotilla】Carney Says Canadian Civilians On Flotilla Faced Unacceptable Treatment; Condemns Israel National Security Minister Itamar Ben‑Gvir; Calls Gaza Humanitarian Situation 'Catastrophic', Demands Immediate Unimpeded Aid Access; Reaffirms Opposition To Settlement Expansion, West Bank Violence; Backs Two‑State Solution"
-    },
-    {
-      "id": "4899085",
-      "time": "2026-05-26 02:04:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡：我們會持續發起反擊。對方一直在使用SIV無人機襲擊我方，我們已組建專門團隊應對，這個問題也終將得到解決。當下我們必須提升打擊頻次與強度，對敵人予以重創。"
-    },
-    {
-      "id": "4899084",
-      "time": "2026-05-26 02:04:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡：我們正與真主黨處於交戰狀態。僅過去數週，我方就擊斃了六百餘名武裝分子。我們不會停下攻勢，我已下令進一步加大打擊力度。"
-    },
-    {
-      "id": "mkt:019e6206-77e8-7dd8-b21d-71f2a433e70d",
-      "time": "2026-05-26 02:04:11",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Central Bank Of Sri Lanka Says Middle East Tensions Keep Global Commodities, Especially Oil, Elevated"
-    },
-    {
-      "id": "mkt:019e6206-2cc3-7dd8-b21d-6bc499410479",
-      "time": "2026-05-26 02:03:52",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "Central Bank of Sri Lanka Says Official FX Reserves $6.8 bln End-Apr 2026"
-    },
-    {
-      "id": "4899083",
-      "time": "2026-05-26 02:02:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "【港股IPO儲備充足 410家上市申請狀態為“處理中”】港股IPO市場延續火熱趨勢。資料顯示，截至5月25日，年內港股IPO募資額達1632.34億港元，同比增長109.74%；IPO數量為57家，同比增長128.00%。按港交所二級行業統計，工業工程、軟體服務、半導體等企業IPO數量居前，分別有12家、10家、9家；同時，“A+H”股上市節奏加速，凸顯硬科技企業對國際融資渠道的迫切需求。"
-    },
-    {
-      "id": "mkt:019e6204-2b19-7dd8-b21d-6401204465dc",
-      "time": "2026-05-26 02:01:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Sri Lanka Central Bank Hikes Overnight Policy Rate to 8.75%】Sri Lanka Central Bank Hikes Overnight Policy Rate to 8.75%"
-    },
-    {
-      "id": "4899082",
-      "time": "2026-05-26 02:01:23",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【歐盟計劃對谷歌處以數億歐元的罰款】歐盟執委會訊息人士稱，歐盟計劃在反壟斷調查中，對Alphabet旗下的谷歌處以高達數億歐元的罰款。這一決定已接近完成，預計將在夏季休會前正式公佈，並補充稱這將是歐盟因違反新《數字市場法》（DMA）而開出的最高罰單。此次調查於2025年3月正式啟動，旨在解決谷歌在搜尋結果中偏袒自家服務的擔憂，並確保這家全球最受歡迎的網際網路搜尋引擎遵守當地法規。"
     }
   ]
 }
