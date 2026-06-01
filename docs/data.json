@@ -1,7 +1,41 @@
 {
-  "updated": "2026-06-02 01:34:04",
-  "count": 17039,
+  "updated": "2026-06-02 01:37:54",
+  "count": 17041,
   "items": [
+    {
+      "id": "4911229",
+      "time": "2026-06-02 01:36:54",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "特朗普就中東問題發表評論後，美國國債跌幅收窄。"
+    },
+    {
+      "id": "mkt:019e8441-3973-7993-96f8-35e1539ec60a",
+      "time": "2026-06-02 01:35:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump says productive talks with Netanyahu and Hezbollah; no US troops to Beirut】President Trump said on social media he had a very productive call with Israeli Prime Minister Netanyahu and that no US troops will go to Beirut; any units already en route have been sent back. He said, via a senior representative, he also had a good call with Hezbollah and that both sides agreed all shooting will stop — Israel will not attack Hezbollah and Hezbollah will not attack Israel."
+    },
+    {
+      "id": "4911228",
+      "time": "2026-06-02 01:34:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：坦率地說，有關與伊朗談判的問題開始變得無聊了。（CNBC）"
+    },
+    {
+      "id": "4911227",
+      "time": "2026-06-02 01:34:44",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【特朗普：真主黨和以色列同意互不攻擊】美國總統特朗普在社交媒體“真相社交”發文稱， 同以色列總理內塔尼亞胡進行了一次富有成效的通話，美方不會向貝魯特派兵，所有正在馳援途中的部隊均已原路撤回。與此同時，我透過高層特使與真主黨順利通了話，對方達成全面停火共識：以色列不會對其發起襲擊，真主黨也不再襲擊以色列。"
+    },
     {
       "id": "mkt:019e843e-e6db-7993-96f8-2d594aaf3bfe",
       "time": "2026-06-02 01:32:55",
@@ -155540,26 +155574,6 @@
         "其他"
       ],
       "text": "【英國謝菲爾德發生槍擊事件 1人死亡】當地時間25日凌晨，英國英格蘭中部城市謝菲爾德發生一起槍擊事件，一名30歲女子中槍後不治身亡。目前警方已逮捕3名涉嫌謀殺的嫌疑人，案件仍在進一步調查中。（央視新聞）"
-    },
-    {
-      "id": "4899074",
-      "time": "2026-05-26 01:37:03",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "埃及石油與礦產資源部：埃及與土耳其奧茲金礦簽署黃金原料合作諒解備忘錄。"
-    },
-    {
-      "id": "mkt:019e61ec-3cfe-7442-918f-7a4a0457b14a",
-      "time": "2026-05-26 01:35:29",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【India Nighttime Heat Persists; Uttar Pradesh Nights Reach 35°C】India Night Heat Raises Power Demand; IMD: 8/10 Mar-May Night Lows Above Avg; Iran War Disrupts LNG, Cuts Gas-Gen; Solar Supports Day Supply; Uttar Pradesh Banda Day ~48°C Night ~35°C; 93% Households Face Daily Outages, Some Up To 8h"
     }
   ]
 }
