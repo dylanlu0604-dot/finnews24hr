@@ -1,7 +1,41 @@
 {
-  "updated": "2026-06-01 12:54:58",
-  "count": 16187,
+  "updated": "2026-06-01 12:58:54",
+  "count": 16185,
   "items": [
+    {
+      "id": "4909685",
+      "time": "2026-06-01 12:56:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達：富士康正擴大與公司的戰略協作，在中國臺灣開發並部署符合四級自動駕駛標準的自動駕駛計程車車隊。"
+    },
+    {
+      "id": "mkt:019e8189-86d4-799c-966b-3ef2e43dde55",
+      "time": "2026-06-01 12:55:34",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "NVIDIA (NVDA.O): Foxconn is piloting NemoClaw to support its Nurabot and CoDoctor platforms."
+    },
+    {
+      "id": "mkt:019e8188-d8f8-799c-966b-32855d0c841b",
+      "time": "2026-06-01 12:54:49",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA (NVDA.O) launched a large-scale open-source agent toolkit and skills suite for physical AI."
+    },
     {
       "id": "4909684",
       "time": "2026-06-01 12:54:07",
@@ -147347,54 +147381,6 @@
         "Important"
       ],
       "text": "Singapore | CPI (YoY) (Apr) | actual 1.8% | consensus 2.00% | previous 1.80%"
-    },
-    {
-      "id": "mkt:019e5d7f-af85-711d-be56-8c336559252e",
-      "time": "2026-05-25 12:58:22",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Lebanon president: Talks with Israel are not compromise or concession; full Israeli withdrawal is non-negotiable demand"
-    },
-    {
-      "id": "4897956",
-      "time": "2026-05-25 12:57:47",
-      "tags": [
-        "國際",
-        "兩會"
-      ],
-      "text": "【鐵凝會見黑山議會副議長努爾科維奇】5月25日，全國人大常委會副委員長鐵凝在京會見黑山議會副議長努爾科維奇。雙方就加強兩國立法機構交往、推動中黑雙邊關係和中國－中東歐國家合作向前發展等共同關心的議題深入交換意見。"
-    },
-    {
-      "id": "4897955",
-      "time": "2026-05-25 12:57:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國務卿：美伊已在開放海峽和伊核問題上有“可靠方案”】當地時間5月25日，美國國務卿魯比奧表示，目前有一份“相當可靠”的方案擺在面前，內容涉及伊朗“開放霍爾木茲海峽”的可能性，以及“就伊朗核問題展開一次切實、重大且有時間限制的談判”。  同日，魯比奧還稱，美國將盡一切努力透過外交途徑取得成功，稱美方“更希望達成一項好的協議”。同時，他表示，美國要麼“會與伊朗達成一項好的協議”，要麼“另尋他法”應對伊朗。 （央視）"
-    },
-    {
-      "id": "4897954",
-      "time": "2026-05-25 12:55:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：阿布扎比國家石油公司（ADNOC）的油輪正悄悄透過霍爾木茲海峽運送石油、天然氣和燃料。"
-    },
-    {
-      "id": "mkt:019e5d7c-a8c7-711d-be56-824a00f548b3",
-      "time": "2026-05-25 12:54:59",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Rubio Says US, Iran Have Reliable Plan To Reopen Strait Of Hormuz And Hold Time‑Bound Nuclear Talks】Rubio: US, Iran Have Reliable Plan To Reopen Strait Of Hormuz, Pursue Time‑Bound Iran Nuclear Talks; US Will Exhaust Diplomacy, Seek Good Deal Or Alternatives"
     }
   ]
 }
