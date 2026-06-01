@@ -1,7 +1,59 @@
 {
-  "updated": "2026-06-02 04:00:57",
-  "count": 17078,
+  "updated": "2026-06-02 04:04:53",
+  "count": 17082,
   "items": [
+    {
+      "id": "4911301",
+      "time": "2026-06-02 04:04:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "英偉達股價收盤上漲6.3%，市值增加3190億美元。"
+    },
+    {
+      "id": "4911300",
+      "time": "2026-06-02 04:02:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "ISHARES軟體ETF兩天內上漲13%，創2001年以來最大漲幅。"
+    },
+    {
+      "id": "4911299",
+      "time": "2026-06-02 04:02:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "塞內加爾被罷免總理稱其政黨將不加入新政府。"
+    },
+    {
+      "id": "mkt:019e84c6-f039-7993-96f9-8cc7de566377",
+      "time": "2026-06-02 04:01:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "ORCL.N",
+        "S&P500"
+      ],
+      "text": "【U.S. close: major indexes finish at record highs; NVIDIA +6%】U.S. stocks closed Monday with all three major indexes at record closing highs: Dow +0.09%, S&P 500 +0.26%, Nasdaq +0.40%. Notable movers: Tesla (TSLA.O) -4.5%, NVIDIA (NVDA.O) +6.0%, Oracle (ORCL.N) up nearly 10%, Qualcomm (QCOM.O) down nearly 9%. Nasdaq Golden Dragon China Index +1.47%; NIO (NIO.N) +6.7%."
+    },
+    {
+      "id": "4911298",
+      "time": "2026-06-02 04:00:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體收漲】道指漲0.09%，標普500指數漲0.27%，納指漲0.41%。美高梅漲16.02%，Arm Holdings漲15.71%，CDW Corporation漲12.48%，Datadog漲12.20%，ZS漲11.44%，加特納漲10.81%。“七姐妹”方面：英偉達漲6.25%，微軟漲2.31%，谷歌跌1.06%，蘋果跌1.87%，亞馬遜跌3.48%，特斯拉跌4.57%，Meta Platforms跌5.07%。"
+    },
     {
       "id": "4911297",
       "time": "2026-06-02 04:00:02",
@@ -26,6 +78,16 @@
         "國際"
       ],
       "text": "美國參議院少數黨領袖舒默週一公佈一項計劃，旨在阻止特朗普頗具爭議的17.76億美元 “反武器化基金”。"
+    },
+    {
+      "id": "mkt:019e84bf-1c27-7993-96f9-8143eb10d404",
+      "time": "2026-06-02 03:52:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Denmark's acting prime minister agreed to form a new government, reaching an accord with centrist and left-wing parties."
     },
     {
       "id": "4911294",
@@ -155881,24 +155943,6 @@
         "Important"
       ],
       "text": "QATARI MEDIATION LANDS US-IRAN AGREEMENT ON TEHRAN’S FROZEN ASSETS - AL JAZEERA, CITING A SOURCE"
-    },
-    {
-      "id": "mkt:019e6273-c2aa-7dd8-b21e-3211b5f34924",
-      "time": "2026-05-26 04:03:32",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "FT: EU Official Says UK May Join €4bln Startup Equity Fund By Year-End"
-    },
-    {
-      "id": "4899110",
-      "time": "2026-05-26 04:03:00",
-      "tags": [
-        "市場"
-      ],
-      "text": "多倫多證交所綜合指數創下收盤歷史新高，突破 3 月 2 日創下的前期高點。"
     }
   ]
 }
