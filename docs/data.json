@@ -1,7 +1,47 @@
 {
-  "updated": "2026-06-01 23:45:52",
-  "count": 17002,
+  "updated": "2026-06-01 23:49:53",
+  "count": 17003,
   "items": [
+    {
+      "id": "4911159",
+      "time": "2026-06-01 23:49:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【烏干達反政府武裝襲擊剛果（金）東部致16人死亡】剛果（金）政府6月1日發表宣告說，烏干達反政府武裝“民主同盟軍”5月31日襲擊了剛果（金）東部北基伍省貝尼市一個街區，造成16人死亡。宣告說，襲擊發生在貝尼市北部。根據當地部門通報，遇難者包括15名平民和1名軍人，多處民房在襲擊中受損。宣告說，打擊“民主同盟軍”仍是剛果（金）政府的“絕對優先事項”。剛果（金）軍方正在追捕襲擊者，並採取必要措施加強平民保護。（新華社）"
+    },
+    {
+      "id": "mkt:019e83df-587e-7993-96f6-6ce4724f86f5",
+      "time": "2026-06-01 23:48:32",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Iran's armed forces warn Israel】On June 1, Abdollahi, commander of Iran's Khatam al-Anbiya Central Command, warned Israel after it reportedly threatened to bomb the southern suburbs of Beirut and issued evacuation notices to local residents. Citing repeated ceasefire violations, he warned residents near northern Israel and around military facilities to evacuate, saying \"if you do not want to be harmed, leave immediately.\""
+    },
+    {
+      "id": "4911158",
+      "time": "2026-06-01 23:47:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗武裝部隊警告以色列】伊朗武裝部隊哈塔姆·安比亞中央司令部司令阿卜杜拉希6月1日發出警告稱，以色列繼續在該地區作惡，威脅要轟炸黎巴嫩首都貝魯特南郊，並向當地居民發出撤離警告。鑑於該政權屢次違反停火協議，倘若這一威脅付諸實施的話，伊朗也警告以色列北部地區居民和軍事設施附近居民，“如果不想受到傷害，請立即離開該地區”。（ CCTV國際時訊 ）"
+    },
+    {
+      "id": "te:markets:555456",
+      "time": "2026-06-01 23:46:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 3"
+      ],
+      "text": "S&P 500, Nasdaq Rise to Record High — US stocks were mixed on Monday as conflicting signals on the US-Iran conflict contrasted with the strong momentum for the AI sector. The S&P 500 inched higher and the Nasdaq 100 was 0.5% up to their records, while the Dow hovered below the flatline. Nvidia gained 4% after it announced its new RTX Spark Superchip to mark its entry in the PC market. The efficiency pledged my Nvidia's new offering lifted software and hyperscaler stocks for fresh momentum in the sector, with Microsoft gaining 2.5% and Oracle gaining 6%, while complementing hardware surged with Micron and Dell jumping 7%. Meanwhile, IBM soared 10% after the resurgence of footage showing President Trump saying the stock has a \"nice price\". Iran stated that it is halting talks with the US until Israel ceases attacks in Gaza shortly after new strikes between Iran and GCC members, despite US President Trump stating that dialogue with Tehran was promising. Traditional economic sectors were penalized with Visa dropping1%."
+    },
     {
       "id": "4911157",
       "time": "2026-06-01 23:44:27",
@@ -155162,36 +155202,6 @@
         "國際"
       ],
       "text": "【以軍稱打死一名哈馬斯核心情報人員】當地時間25日，以色列國防軍在當天發表的一份宣告中稱，在24日針對加沙地帶中部的精準打擊行動中，打死了巴勒斯坦伊斯蘭抵抗運動（哈馬斯）核心情報人員穆罕默德·阿布·馬魯赫。（央視新聞）"
-    },
-    {
-      "id": "mkt:019e5fd3-f110-711d-be5d-d22e1b635208",
-      "time": "2026-05-25 23:49:37",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bearish",
-        "US10Y",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "FITCH Flags North American Corporate Credit Risk From War Spillovers, Tariffs, AI"
-    },
-    {
-      "id": "4899014",
-      "time": "2026-05-25 23:47:24",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "惠譽評級：北美企業面臨戰爭溢位效應、關稅和人工智慧帶來的信用風險。"
-    },
-    {
-      "id": "4899013",
-      "time": "2026-05-25 23:45:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國官方表示，加州一處受損化學儲罐發生劇烈爆炸的風險已徹底消除。"
     }
   ]
 }
