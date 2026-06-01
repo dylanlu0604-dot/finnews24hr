@@ -1,7 +1,186 @@
 {
-  "updated": "2026-06-01 21:49:47",
-  "count": 16836,
+  "updated": "2026-06-01 21:53:43",
+  "count": 16853,
   "items": [
+    {
+      "id": "te:economy:555410",
+      "time": "2026-06-01 21:52:55",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brazil",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "Brazil Manufacturing PMI Returns to Contraction — The S&P Global Brazil Manufacturing PMI fell to 49.1 in May 2026 from 52.6 in the previous month, signaling a renewed deterioration in factory activity after April's expansion. The survey showed manufacturers ended stockpiling efforts, with both purchasing activity and production declining amid weaker demand. Total new orders fell for the fourteenth consecutive month, while export sales contracted sharply as tariffs and the war in the Middle East weighed on demand. Supply-chain disruptions remained severe, with vendor shortages and the conflict causing one of the sharpest deteriorations in delivery times in nearly four years. As a result, input cost inflation stayed close to record highs, driven by rising energy prices, while output charges increased at one of the fastest rates since 2021. Still, manufacturers remained optimistic about future production, citing hopes for improved economic conditions after the presidential elections and an eventual end to the Middle East conflict."
+    },
+    {
+      "id": "4911003",
+      "time": "2026-06-01 21:52:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內漲4%，現報3992.00元。"
+    },
+    {
+      "id": "4911002",
+      "time": "2026-06-01 21:52:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國銀行全球研究部首次覆蓋HAWKEYE 360，給予中性評級，目標價為34美元。"
+    },
+    {
+      "id": "4911001",
+      "time": "2026-06-01 21:52:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "液化石油氣連續主力合約日內漲4%，現報5779.00元。"
+    },
+    {
+      "id": "4911000",
+      "time": "2026-06-01 21:51:54",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4460美元/盎司，日內跌1.84%。"
+    },
+    {
+      "id": "4910999",
+      "time": "2026-06-01 21:51:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "FedEx Freight在下跌9.58%後暫停交易。此前，聯邦快遞完成對FedEx Freight的分拆，並開始在紐約證券交易所掛牌交易。"
+    },
+    {
+      "id": "4910998",
+      "time": "2026-06-01 21:51:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "哥倫比MSCI COLCAP指數在總統選舉第一輪投票結束後上漲6.3%，報2314.07點。"
+    },
+    {
+      "id": "4910997",
+      "time": "2026-06-01 21:51:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲6%，現報96.61美元/桶。"
+    },
+    {
+      "id": "4910996",
+      "time": "2026-06-01 21:50:54",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內漲5%，現報614.10元。"
+    },
+    {
+      "id": "te:markets:555406",
+      "time": "2026-06-01 21:50:34",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Parker-Hannifin Stock Price Hits 27-week Low — Parker-Hannifin shares decreased to 835.64 USD, the lowest since November 2025. Over the past 4 weeks, Parker -Hannifin lost 8.06%, and in the last 12 months, it increased 25.79%."
+    },
+    {
+      "id": "4910995",
+      "time": "2026-06-01 21:50:29",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PTA連續主力合約日內漲2%，現報6276.00元。"
+    },
+    {
+      "id": "mkt:019e8373-2813-7ccf-b268-67bf227c2b22",
+      "time": "2026-06-01 21:50:22",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "WTI crude oil futures surged 7.00% intraday to $93.48/bbl."
+    },
+    {
+      "id": "te:markets:555405",
+      "time": "2026-06-01 21:50:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "NextEra Energy Stock Price Hits 17-week Low — NextEra Energy shares decreased to 85.27 USD, the lowest since January 2026. Over the past 4 weeks, NextEra Energy lost 10.45%, and in the last 12 months, it increased 21.92%."
+    },
+    {
+      "id": "4910994",
+      "time": "2026-06-01 21:50:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：以色列國防軍稱，真主黨出動無人機襲擊了邊境城鎮梅圖拉，另有三枚射向卡米耶爾地區的火箭彈被攔截。目前暫無人員傷亡報告。"
+    },
+    {
+      "id": "mkt:019e8372-e6a5-7ccf-b268-5f43df86bcd2",
+      "time": "2026-06-01 21:50:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact mixed",
+        "S&P500",
+        "US10Y"
+      ],
+      "text": "U.S. May ISM Manufacturing PMI and April construction spending m/m due in 10 minutes."
+    },
+    {
+      "id": "4910993",
+      "time": "2026-06-01 21:49:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲7%，現報93.49美元/桶。"
+    },
+    {
+      "id": "4910992",
+      "time": "2026-06-01 21:49:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "蔚來美股漲近8%。蔚來5月交付新車同比增長62.3% 公司進入密集新品釋出期。"
+    },
+    {
+      "id": "4910991",
+      "time": "2026-06-01 21:49:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "福斯汽車：5月總銷量為2614輛。"
+    },
+    {
+      "id": "4910990",
+      "time": "2026-06-01 21:49:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "英偉達推出新晶片後，ARM的美股上市股價大漲12.5%。"
+    },
     {
       "id": "te:markets:555404",
       "time": "2026-06-01 21:49:04",
@@ -153494,22 +153673,6 @@
         "其他"
       ],
       "text": "【6G試驗頻率正式獲批 6G有望在2030年前後正式商用】近日，6GHz頻段獲工業和資訊化部批覆，這讓我國成為全球首個批覆6G試驗頻率使用許可的國家。在此次許可批覆後，6G技術研發將從實驗室模擬、室內樣機測試環節，逐步走向城市、工業等真實場景中完成效能驗證。從推進節點來看，2022-2025年，我國已順利完成第一階段6G關鍵技術試驗，當前正在啟動第二階段技術方案試驗。未來，國際層面還需完成首版6G標準的制定。業內普遍預計，6G有望在2030年前後正式商用。（央視財經）"
-    },
-    {
-      "id": "4898922",
-      "time": "2026-05-25 21:52:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：醫院稱，盧拉可正常開展日常活動，無需受限。"
-    },
-    {
-      "id": "4898921",
-      "time": "2026-05-25 21:51:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：醫院方面稱， 巴西總統盧拉於本週一接受了放射治療。"
     }
   ]
 }
