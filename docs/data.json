@@ -1,7 +1,127 @@
 {
-  "updated": "2026-06-01 12:58:54",
-  "count": 16185,
+  "updated": "2026-06-01 13:02:51",
+  "count": 16188,
   "items": [
+    {
+      "id": "4909693",
+      "time": "2026-06-01 13:01:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達：優步將多批搭載Drive Hyperion平臺的自動駕駛車隊接入全球網約車網路。"
+    },
+    {
+      "id": "4909692",
+      "time": "2026-06-01 13:01:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【澳大利亞對進口自中國的輕型鋼螺柱和軌道作出雙反初裁】5月25日，澳大利亞反傾銷委員會發布第2026/072號公告，對進口自中國的輕型鋼螺柱和軌道作出反傾銷肯定性初裁，決定自2026年5月26起以保證金的形式徵收臨時反傾銷稅。"
+    },
+    {
+      "id": "4909691",
+      "time": "2026-06-01 13:01:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達與臺積電將人工智慧引入晶圓廠，推動半導體設計與製造發展。"
+    },
+    {
+      "id": "4909690",
+      "time": "2026-06-01 13:00:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達：包括比亞迪、吉利、極氪、小米以及小馬智行等在內的中國主流車企和自動駕駛公司，均已採用或正在基於NVIDIA Hyperion 平臺開發智駕。"
+    },
+    {
+      "id": "4909689",
+      "time": "2026-06-01 13:00:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【捷克總理：今年軍費“恐無法達北約目標”】捷克總理安德烈·巴比什日前告訴媒體，捷克今年可能無法實現北約為成員國設定的軍費開支目標，即軍費達到GDP的2%。巴比什說，捷克“將盡最大努力”實現這一目標，但由於上屆政府過度支出，他的政府正在努力解決存在的財政預算缺口。（新華社）"
+    },
+    {
+      "id": "4909688",
+      "time": "2026-06-01 13:00:14",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "摩根士丹利：將美國航空集團的目標股價從 20 美元上調至 24 美元，維持增持評級；將美國聯合航空控股公司的目標股價從 150 美元上調至 182 美元，維持增持評級。"
+    },
+    {
+      "id": "mkt:019e818d-c4ef-799c-966b-5c1b772c0fd4",
+      "time": "2026-06-01 13:00:10",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Market Regions",
+        "Emerging Markets",
+        "WTI",
+        "Impact bullish",
+        "DXY",
+        "CSI300"
+      ],
+      "text": "【AI rally lifts emerging Asian equities to record; oil, dollar pressure Asian currencies】AI-driven buying pushed emerging Asian equities to record highs, with the MSCI Emerging Markets index up as much as 2% Monday, led by Korea and Taiwan AI leaders. MOODY'S analyst Denise Cheok said AI momentum persists despite multiple risks, providing a tailwind for parts of Southeast Asia tied to the tech ecosystem but concentration raises the risk of a sudden drop in AI demand. Rising oil prices and a stronger USD are straining external finances of fuel net-importing Asian economies and weighing on their currencies; the Indonesian rupiah and Indian rupee are the worst performers YTD. Wee Khoon Chong, Asia-Pacific markets strategist at a New York-based bank, said equity strength has not translated into currency gains, with USD strength, the crude rebound and recent deterioration in trade terms the main drags on many APAC currencies."
+    },
+    {
+      "id": "mkt:019e818d-c29c-799c-966b-550a6743ae25",
+      "time": "2026-06-01 13:00:07",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "Copper"
+      ],
+      "text": "India May manufacturing PMI (final) 55, vs. expected 54.3 and April final 54.3."
+    },
+    {
+      "id": "mkt:019e818d-9604-799c-966b-4ac270acd129",
+      "time": "2026-06-01 13:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "India | Manufacturing PMI (May) | actual 55 | consensus 54.3 | previous 54.3"
+    },
+    {
+      "id": "4909687",
+      "time": "2026-06-01 12:59:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達：VinFast與Autobrains合作，將基於英偉達Hyperion平臺打造的L4級自動駕駛汽車推向東南亞。"
+    },
+    {
+      "id": "mkt:019e818c-c141-799c-966b-4349a806a504",
+      "time": "2026-06-01 12:59:05",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "Foxconn expands strategic cooperation with NVIDIA (NVDA.O) to develop and deploy Level-4 autonomous taxi fleets in Taiwan."
+    },
+    {
+      "id": "4909686",
+      "time": "2026-06-01 12:58:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "全球領先的芬蘭道路負載處理裝置製造商HIAB同意以10.4億美元的企業價值從WYNNCHURCH手中收購北美固體廢物收集車輛（垃圾車）製造商LABRIE。"
+    },
     {
       "id": "4909685",
       "time": "2026-06-01 12:56:42",
@@ -147302,85 +147422,6 @@
         "國際"
       ],
       "text": "【阿布扎比國家石油公司（ADNOC）油輪正悄悄透過霍爾木茲海峽運送石油、天然氣和燃料】據報道，阿聯酋國家石油公司動用自有船隊，悄然從波斯灣外運油氣貨品，規避伊朗海軍與美軍艦艇管控，將能源輸送至緊缺市場。船舶追蹤資料、貿易商及知情人士稱，該公司常採用關閉船舶應答器的靜默航行方式，是中東地區能源外運成效最突出的產油企業之一。戰事爆發近三個月來，中東其他產油國及西方大宗商品貿易商也嘗試穿越霍爾木茲海峽運輸貨物，但這類企業大多租賃油輪，運輸規模受船東風險管控限制。此番大膽舉措凸顯出油企的緊迫心態，倉儲庫容有限促使各方加緊向市場輸送原油。阿聯酋於5月1日正式退出石油輸出國組織，進一步加劇其外運訴求。航運分析機構克拉普勒資深貨運分析師馬特・賴特表示：“阿聯酋脫離歐佩克，又採取隱蔽方式穿越霍爾木茲海峽運油，阿聯酋國家石油公司甘願承擔更高風險輸出原油。”阿聯酋國家石油物流服務公司發言人稱，依照企業規定，不便披露船舶位置、航行動態及航線資訊，相關問詢統一由該部門答覆。"
-    },
-    {
-      "id": "mkt:019e5d83-527e-711d-be56-a7fb82c79ab8",
-      "time": "2026-05-25 13:02:26",
-      "tags": [
-        "MKT News",
-        "Important",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "STAR 50 UP OVER 5%"
-    },
-    {
-      "id": "4897962",
-      "time": "2026-05-25 13:02:17",
-      "tags": [],
-      "text": "科創50指數午後漲幅擴大至5％，成分股中，盛美上海20％漲停，中芯國際漲超15％。"
-    },
-    {
-      "id": "4897961",
-      "time": "2026-05-25 13:02:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內漲幅達5.19%，成分股中，盛美上海漲19.97%，拓荊科技漲17.83%，中芯國際漲16.35%，晶合整合漲10.51%。"
-    },
-    {
-      "id": "4897960",
-      "time": "2026-05-25 13:01:46",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【儲存晶片板塊午後持續走高 華虹公司等股漲停】儲存晶片板塊午後持續走高，華虹公司、華大九天、快克智慧漲停，博敏電子、雅克科技、百傲化學此前封板，概倫電子、上海新陽、盛美上海漲超10%，拓荊科技、南大光電、廣立微、盛合晶微、金太陽等跟漲。"
-    },
-    {
-      "id": "4897959",
-      "time": "2026-05-25 13:01:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內漲幅達4.63%，成分股中，盛美上海漲19.10%，拓荊科技漲16.14%，中芯國際漲14.68%，晶合整合漲9.85%。"
-    },
-    {
-      "id": "4897958",
-      "time": "2026-05-25 13:00:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "【印尼東爪哇省塞梅魯火山噴發 灰柱高約1000米】據印尼火山地質減災中心訊息，當地時間2026年5月25日7時9分，位於印尼東爪哇省的塞梅魯火山發生噴發，火山灰柱高約1000米，持續時間為130秒。"
-    },
-    {
-      "id": "4897957",
-      "time": "2026-05-25 13:00:21",
-      "tags": [
-        "資料"
-      ],
-      "text": "新加坡4月份核心CPI同比增長1.4%；預估1.8%。新加坡4月份CPI同比增長1.8%；預估2.1%。"
-    },
-    {
-      "id": "mkt:019e5d81-3fcf-711d-be56-9ac8dd3372e2",
-      "time": "2026-05-25 13:00:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Singapore April CPI rises 1.8% y/y, below 2.0% forecast, unchanged from prior 1.8%"
-    },
-    {
-      "id": "mkt:019e5d81-1255-711d-be56-91aa0eef2dde",
-      "time": "2026-05-25 13:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Singapore | CPI (YoY) (Apr) | actual 1.8% | consensus 2.00% | previous 1.80%"
     }
   ]
 }
