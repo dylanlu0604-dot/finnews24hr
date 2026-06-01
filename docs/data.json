@@ -1,7 +1,25 @@
 {
-  "updated": "2026-06-01 23:33:13",
-  "count": 16982,
+  "updated": "2026-06-01 23:37:35",
+  "count": 16983,
   "items": [
+    {
+      "id": "4911150",
+      "time": "2026-06-01 23:35:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗最高領袖顧問：霍爾木茲海峽由伊朗管控，我方不會容忍封鎖局面持續下去。我方不會容忍黎巴嫩局勢持續升溫，伊朗武裝部隊的忍耐有限度。"
+    },
+    {
+      "id": "4911149",
+      "time": "2026-06-01 23:32:39",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣三個月期國債，得標利率3.630%，投標倍數2.69。拍賣六個月期國債，得標利率3.665%，投標倍數2.84。"
+    },
     {
       "id": "mkt:019e83d0-92cd-7552-8901-ff94f828b62f",
       "time": "2026-06-01 23:32:22",
@@ -154984,15 +155002,6 @@
         "MKT News"
       ],
       "text": "【Sheinbaum Says Mexico To Host Iran World Cup Team】Mexico Agrees To Base Iran National Team During World Cup After US Declines; FIFA Requested Move; Iran FA President Mehdi Taj Says Squad Moving From Arizona To Tijuana"
-    },
-    {
-      "id": "4899012",
-      "time": "2026-05-25 23:37:25",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "市場資訊：伊美談判雖取得進展，但仍面臨諸多難題，雙方均要求修改備忘錄的措辭。"
     }
   ]
 }
