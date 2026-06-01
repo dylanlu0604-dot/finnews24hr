@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-02 05:56:12",
+  "updated": "2026-06-02 05:59:56",
   "count": 17118,
   "items": [
+    {
+      "id": "mkt:019e8532-f7a2-7993-96fa-8de346314964",
+      "time": "2026-06-02 05:59:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Japan faces banana shortage risk as Middle East disruptions squeeze naphtha-derived ripening gas】Bananas for Japanese retail are ripened in ethylene-filled chambers; ethylene is produced from naphtha, and Japan’s naphtha stocks have dropped about 25% YTD. Shipping disruptions through the Strait of Hormuz, which have cut roughly 20% of global oil supply, are exacerbating the squeeze; Japan’s crude import dependence exceeds 90%. Japan imported about 1 mln tonnes of bananas last year. Eiji Akashi, secretary-general of the Japan Banana Importers Association, said: \"Prices may rise, but we are doing everything to avoid supply shortages.\""
+    },
+    {
+      "id": "4911373",
+      "time": "2026-06-02 05:58:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "中央氣象臺6月2日06時繼續釋出大霧黃色預警。"
+    },
     {
       "id": "mkt:019e852a-5606-7993-96fa-87d5a23a9398",
       "time": "2026-06-02 05:50:04",
@@ -156248,22 +156264,6 @@
         "市場"
       ],
       "text": "WTI原油日內跌6%，現報90.67美元/桶。"
-    },
-    {
-      "id": "4899142",
-      "time": "2026-05-26 05:58:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網自動測定：05月26日05時52分在智利北部附近（南緯23.13度，西經69.52度）發生6.5級左右地震，最終結果以正式速報為準。"
-    },
-    {
-      "id": "4899141",
-      "time": "2026-05-26 05:58:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "【百億級私募倉位指數升至82%以上，“科技+能源”均衡佈局】私募排排網最新統計資料顯示，截至5月15日，百億級股票私募倉位指數升至82%以上，結束了此前連續4周下跌的趨勢，其中超六成百億級私募倉位在80%以上。從進攻方向來看，多家百億級私募選擇“攻守兼備”：一方面，在波動中擇機佈局業績兌現的優質科技股；另一方面，關注能源等估值偏低的板塊。在他們看來，在強產業趨勢支撐下，科技板塊投資機會有望持續演繹，但仍須警惕短期情緒主導下的估值上漲。接下來，業績兌現能力有望擴散至更多行業，均衡配置或許是較為穩妥的選擇。（上證報）"
     }
   ]
 }
