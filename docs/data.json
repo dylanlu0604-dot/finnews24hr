@@ -1,7 +1,102 @@
 {
-  "updated": "2026-06-01 13:06:49",
-  "count": 16196,
+  "updated": "2026-06-01 13:10:44",
+  "count": 16203,
   "items": [
+    {
+      "id": "4909707",
+      "time": "2026-06-01 13:08:46",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "花旗：在6月關稅細節明朗之前，美國銅關稅擔憂大機率仍將對銅價形成支撐。"
+    },
+    {
+      "id": "mkt:019e8195-7e3d-799c-966b-92368b1608ca",
+      "time": "2026-06-01 13:08:38",
+      "tags": [
+        "MKT News",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "CITIGROUP: US copper tariff concerns could continue to support prices until tariffs are clarified, possibly before June."
+    },
+    {
+      "id": "mkt:019e8195-53bb-799c-966b-892343b24bac",
+      "time": "2026-06-01 13:08:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "7267.T",
+        "Impact bullish",
+        "7203.T",
+        "7201.T",
+        "Impact bearish"
+      ],
+      "text": "Honda's Japan sales in May rose 7.7% YoY; Toyota's Japan sales rose 12.8% YoY; Nissan's Japan sales fell 15.7% YoY."
+    },
+    {
+      "id": "4909706",
+      "time": "2026-06-01 13:08:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "【麥格米特觸及漲停】麥格米特觸及漲停，成交額36.43億元。"
+    },
+    {
+      "id": "4909705",
+      "time": "2026-06-01 13:08:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "穆迪將西門子能源的評級展望從穩定調整為正面，並確認其Baa1評級。"
+    },
+    {
+      "id": "4909704",
+      "time": "2026-06-01 13:07:31",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【高盛：目前的儲存晶片短缺將至少持續到2028年】高盛分析師在一份研究報告中表示，目前的儲存晶片短缺將至少持續到2028年。他們指出，AI加速器的計算能力遠遠超過儲存器的資料傳輸速度和容量，使得儲存器頻寬和容量成為制約下一代AI模型擴充套件的主要瓶頸。在2017-2018年雲資料中心擴張期間，儲存晶片短缺持續了兩年，不過高盛分析師認為，在AI資料中心時代，目前的短缺可能會持續更長時間。他們表示，與此同時，由於儲存晶片公司優先生產HBM，目前傳統儲存器產能的增加步伐慢於過去。高盛還預計，儲存晶片供應商將擴大與客戶的長期協議，以提高需求可見度，並制定更高效的資本支出計劃。"
+    },
+    {
+      "id": "mkt:019e8194-752f-799c-966b-8100b95b764d",
+      "time": "2026-06-01 13:07:29",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "Citigroup raises near-term copper price forecast to $14,500/mt and sets a 6-12 month target of $15,000/mt."
+    },
+    {
+      "id": "4909703",
+      "time": "2026-06-01 13:06:43",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "花旗集團：將銅價預測上調，短期目標價為每噸14500美元，未來6至12個月目標價為每噸15000美元。"
+    },
+    {
+      "id": "mkt:019e8193-85f0-799c-966b-7949361b3209",
+      "time": "2026-06-01 13:06:29",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA (NVDA.O) launched Cosmos 3, an open-world foundation model aimed at advancing the development of physical AI."
+    },
     {
       "id": "4909702",
       "time": "2026-06-01 13:06:04",
@@ -147491,22 +147586,6 @@
         "其他"
       ],
       "text": "【中芯國際股價創新高】中芯國際漲16.53%，報153.04元/股，股價再創新高，總市值突破1.22萬億元，成交額達199.13億元。"
-    },
-    {
-      "id": "4897968",
-      "time": "2026-05-25 13:09:13",
-      "tags": [
-        "市場"
-      ],
-      "text": "【EDA概念拉昇 華大九天漲停】EDA概念拉昇，華大九天漲停，概倫電子、廣立微、一博科技、華潤微、紫光國微等漲幅居前。"
-    },
-    {
-      "id": "4897967",
-      "time": "2026-05-25 13:07:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：印尼計劃週一完成出口相關新規。"
     }
   ]
 }
