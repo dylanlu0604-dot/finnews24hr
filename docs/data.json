@@ -1,7 +1,119 @@
 {
-  "updated": "2026-06-01 09:40:27",
+  "updated": "2026-06-01 09:44:14",
   "count": 16029,
   "items": [
+    {
+      "id": "4909372",
+      "time": "2026-06-01 09:43:27",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【電池板塊拉昇，聖陽股份漲停】電池板塊拉昇，聖陽股份、維科技術漲停，振華新材漲超15%，力佳科技漲超10%，天宏鋰電、容百科技、萬里股份、翔豐華、譽辰智慧跟漲。相關ETF方面，電池ETF廣發（159755）漲1.15%，成交額9838.62萬元，儲能電池ETF易方達（159566）漲1.97%，成交額1.33億元。"
+    },
+    {
+      "id": "4909371",
+      "time": "2026-06-01 09:42:58",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本20年期國債收益率上升2.5個基點，至3.595%。"
+    },
+    {
+      "id": "mkt:019e80d9-2233-7113-a826-b938120d4e44",
+      "time": "2026-06-01 09:42:54",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY"
+      ],
+      "text": "Japan 20-year bond yield rose 2.5 bps to 3.595%."
+    },
+    {
+      "id": "mkt:019e80d9-145a-766e-87af-855afeb11610",
+      "time": "2026-06-01 09:42:50",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "An economist at Apollo Asset Management said there is currently no evidence that AI is displacing jobs."
+    },
+    {
+      "id": "4909370",
+      "time": "2026-06-01 09:42:20",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "A股PCB概念股震盪走低，宏和科技跌停，國際復材跌、銅冠銅箔跌超9%，天通股份、中富電路、廣合科技跌超8%。"
+    },
+    {
+      "id": "4909369",
+      "time": "2026-06-01 09:42:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美知名學者：以色列把美國捏在掌心】美國知名學者、哥倫比亞大學教授傑弗裡·薩克斯日前在一檔節目中批評美國為以色列的軍事行動提供庇護，任由以色列干涉其政策，可以說以色列把美國捏在掌心。他認為，如果美國說“不”，那以色列將無法繼續其戰爭。（央視新聞）"
+    },
+    {
+      "id": "te:economy:555151",
+      "time": "2026-06-01 09:42:08",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "MI Inflation Gauge MoM",
+        "Importance 1"
+      ],
+      "text": "Australia Inflation Gauge Eases for First Time in 3 Months — Australia’s Melbourne Institute Monthly Inflation Gauge fell 0.3% month-on-month in May 2026, reversing a 0.6% increase in the previous month and marking the first decline since February. The decline reflected easing price pressures across a range of goods and services, after recent data showed the annual inflation rate slowed to 4.2% in April from 4.6% previously, as automotive fuel prices rose at a softer pace following the reduction of the fuel excise. However, inflation remained well above the central bank’s 2–3% target range, suggesting underlying price pressures are still elevated despite the recent moderation."
+    },
+    {
+      "id": "4909368",
+      "time": "2026-06-01 09:41:54",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【終止籌劃控制權變更事項 百誠醫藥復牌低開16.41%】6月1日，百誠醫藥復牌低開16.41%，報54.00元/股。5月31日晚，百誠醫藥公告稱，公司控股股東、實際控制人終止籌劃控制權變更事項，公司股票將於6月1日起復牌。"
+    },
+    {
+      "id": "mkt:019e80d8-2ec6-766e-87af-7c2d2fe2ac53",
+      "time": "2026-06-01 09:41:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "China A-share PCB-related stocks slid; Honghe Technology hit the daily limit down, International Composite Materials and Tongguan Copper Foil fell over 9%, and Tiantong, Zhongfu Circuit and Guanghe Technology dropped more than 8%."
+    },
+    {
+      "id": "4909367",
+      "time": "2026-06-01 09:41:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【華為釋出新款WATCH GT Runner 2】6月1日，華為WATCH GT Runner 2正式釋出，搭載立體懸浮天線與AI-XDR 定位演算法，推出單次跑力指數指標，官方稱可精準量化訓練效果，目前已正式開售，售價2588元。"
+    },
+    {
+      "id": "4909366",
+      "time": "2026-06-01 09:41:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "【電力板塊短線下挫，京能電力跌停】電力板塊短線下挫，京能電力、恆盛能源、華電遼能跌停，華銀電力、廣西能源、上海電力跟跌。"
+    },
     {
       "id": "4909365",
       "time": "2026-06-01 09:39:42",
@@ -145655,106 +145767,6 @@
         "國際"
       ],
       "text": "【日本一艘液化天然氣運輸船正透過霍爾木茲海峽】當地時間5月25日，日本商船三井旗下的一艘液化天然氣（LNG）運輸船目前正透過霍爾木茲海峽，前往巴基斯坦。該船隻預計26日抵達巴基斯坦並卸貨。"
-    },
-    {
-      "id": "4897707",
-      "time": "2026-05-25 09:43:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【三羊馬等在遼寧成立國際物流公司】企查查APP顯示，近日，三羊馬（遼寧）國際物流有限公司成立，註冊資本3000萬元，經營範圍包含：電池銷售；汽車拖車、求援、清障服務；商務代理代辦服務；二手車經紀等。企查查股權穿透顯示，該公司由三羊馬等共同持股。"
-    },
-    {
-      "id": "4897706",
-      "time": "2026-05-25 09:43:10",
-      "tags": [
-        "市場"
-      ],
-      "text": "【寒武紀盤中漲超10%】A股寒武紀盤中漲10.05%，現報1413.05元。"
-    },
-    {
-      "id": "mkt:019e5ccc-d25f-7882-93e9-8b93e7d1dfc8",
-      "time": "2026-05-25 09:43:07",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "China Tech Giants"
-      ],
-      "text": "【Huawei Unveils New Chip Design Approach to Challenge Global Leaders】Huawei Technologies said it has developed a new chip design principle called the “Tau Scaling Law,” also referred to internally as “Her’s Law,” aimed at advancing semiconductor performance beyond the limits of Moore’s Law. Speaking at the 2026 IEEE International Symposium on Circuits and Systems in Shanghai, Huawei semiconductor chief He Tingbo said the approach could reduce signal delay and improve transistor density to sustain gains in computing power. Huawei said the first Kirin chip based fully on the new design method will be used in a flagship smartphone launching this year, and that the company could reach 1.4-nanometer chip capabilities by 2031."
-    },
-    {
-      "id": "4897705",
-      "time": "2026-05-25 09:42:59",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "印度央行行長馬爾霍特拉：印度服務出口將保持韌性。"
-    },
-    {
-      "id": "4897704",
-      "time": "2026-05-25 09:42:18",
-      "tags": [
-        "市場"
-      ],
-      "text": "【工業軟體概念震盪走強 索辰科技漲超11%】工業軟體概念震盪走強，索辰科技漲超11%，北路智控、瑞松科技、龍軟科技、航天軟體等漲幅居前。"
-    },
-    {
-      "id": "4897703",
-      "time": "2026-05-25 09:42:14",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時中國A50指數期貨漲幅擴大至1%。"
-    },
-    {
-      "id": "4897702",
-      "time": "2026-05-25 09:42:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內漲幅達2.12%，成分股中，中芯國際漲9.11%，寒武紀漲8.83%，盛美上海漲7.06%，天嶽先進漲3.81%。"
-    },
-    {
-      "id": "4897701",
-      "time": "2026-05-25 09:41:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華為麒麟2026手機晶片今秋面世】25日，在國際電路與系統研討會（ISCAS 2026）上，華為公司董事、半導體業務部總裁何庭波表示，將於今年秋季面世的麒麟手機晶片率先採用了邏輯摺疊技術，效能大幅提升。何庭波說，“麒麟2026”手機晶片是邏輯摺疊技術的首次成功實施。“未來十年，我們會持續走向全面摺疊，甚至走向更多層的摺疊，持續最佳化從器件、電路，到晶片和系統的全棧效能。”（人民日報）"
-    },
-    {
-      "id": "mkt:019e5ccb-2f8f-7882-93e9-862b608bc423",
-      "time": "2026-05-25 09:41:20",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "FTSE CHINA A50 INDEX FUTURES UP OVER 1%"
-    },
-    {
-      "id": "4897700",
-      "time": "2026-05-25 09:41:08",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "印度央行行長馬爾霍特拉表示，當前形勢需要採取長期措施。"
-    },
-    {
-      "id": "4897699",
-      "time": "2026-05-25 09:40:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "華為：今年秋季面世的麒麟手機晶片效能將大幅提升。（人民日報）"
     }
   ]
 }
