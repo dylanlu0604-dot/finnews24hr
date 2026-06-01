@@ -1,7 +1,147 @@
 {
-  "updated": "2026-06-01 10:18:35",
-  "count": 16091,
+  "updated": "2026-06-01 10:22:25",
+  "count": 16102,
   "items": [
+    {
+      "id": "4909464",
+      "time": "2026-06-01 10:21:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "總檯記者獲悉，當地時間6月1日，韓國大田一軍工企業發生爆炸。（央視新聞）"
+    },
+    {
+      "id": "mkt:019e80fc-18e9-7666-845d-0f8259a4301d",
+      "time": "2026-06-01 10:21:05",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【SASAC holds NEV talent training for central SOEs】May 28 — The State-owned Assets Supervision and Administration Commission (SASAC) held a special training course at Tsinghua University for central SOE personnel in the new-energy vehicle (NEV) sector; SASAC vice director Tan Zuojun attended. SASAC said the programme will accelerate organisational progress and urgent talent development aligned with NEV electrification, smartification and AI integration to support SOE transformation and upgrades. Training will focus on technical leaders' industry-direction judgment, core-technology innovation and industrial-ecosystem coordination, and on marketing leaders' user insight, digital marketing and overseas market expansion, with a particular push to cultivate AI+NEV specialists to enhance AI-defined vehicle capabilities and AI-enabled advanced manufacturing."
+    },
+    {
+      "id": "4909463",
+      "time": "2026-06-01 10:20:45",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【雞肉板塊震盪拉昇 曉鳴股份雙雙漲超10%】雞肉板塊震盪拉昇盤中震盪走強，曉鳴股份漲超10%，此前京基智農漲停，民和股份、益生股份、湘佳股份等跟漲。"
+    },
+    {
+      "id": "4909462",
+      "time": "2026-06-01 10:20:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "【玻纖概念大幅回撥 宏和科技跌停】玻纖概念大幅回撥，宏和科技跌停，中國巨石跌逾5%，菲利華跌逾7%，國際復材跌近5%。"
+    },
+    {
+      "id": "4909461",
+      "time": "2026-06-01 10:20:17",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【電網裝置板塊異動拉昇 順鈉股份漲停】電網裝置板塊盤中異動拉昇，順鈉股份漲停，聚星科技、思源電氣、白雲電器、金盤科技、特變電工跟漲。"
+    },
+    {
+      "id": "te:markets:555169",
+      "time": "2026-06-01 10:20:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Taiwan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TAIEX Tops 45,000, Hits Fresh Record High — The TAIEX, Taiwan’s benchmark stock index, rose 828 points, or 1.9%, to 45,561 in Monday morning trade, extending gains from the previous session, primarily supported by electronic technology and technology services stocks. The broader index hit a new record high, surpassing the 45,000 level for the first time as optimism over AI demand continued to lift sentiment. A rally on Wall Street on Friday also fueled sentiment, supported by technology stocks amid persistent enthusiasm surrounding AI-related investments. Electronic technology stocks climbed 2.0%, while technology services stocks rose 2.9%. TSMC, the world's largest contract chipmaker, which accounts for more than 40% of the market's total value, advanced 0.4%, while Delta Electronics also gained 0.4%. Meanwhile, Hon Hai Precision Industry and MediaTek surged 4.5% and 7.7%, respectively. On the data front, Taiwan's manufacturing sector grew at the fastest pace since August 2021 in May 2026, supported by stronger demand."
+    },
+    {
+      "id": "4909460",
+      "time": "2026-06-01 10:20:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華虹集團成立鑫智時代企管公司】企查查APP顯示，近日，上海鑫智時代企業管理有限公司成立，法定代表人為徐任重，註冊資本為3億元，經營範圍包含：企業管理。企查查股權穿透顯示，該公司由上海華虹（集團）有限公司全資持股。"
+    },
+    {
+      "id": "4909459",
+      "time": "2026-06-01 10:19:56",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【氟化工板塊震盪走強 巨化股份漲停】氟化工板塊盤中震盪走強，巨化股份漲停，昊華科技觸及漲停，永和股份、三美股份、金石資源、多氟多等跟漲。訊息面上，機構指出，2025年半導體PFA（可熔性聚四氟乙烯）全球供需約2萬噸，隨下游晶圓產能增長疊加12英寸和先進製程提升的結構性變化，全球超純PFA需求或將乘數放大。"
+    },
+    {
+      "id": "mkt:019e80fb-0056-7666-845d-07d1cd1a1aa9",
+      "time": "2026-06-01 10:19:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to YONHAP, an explosion was heard at a Hanwha Aerospace facility in Daejeon."
+    },
+    {
+      "id": "4909458",
+      "time": "2026-06-01 10:19:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【“北腦二號”預計下半年啟動臨床驗證】近日，“臨床腦機介面”學科交叉博士後學術交流活動在首都醫科大學宣武醫院舉行。中國科學院院士趙繼宗介紹了北京模式腦機介面臨床轉化五年規劃。腦機介面產品“北腦一號”預計明年在全國有資質的三甲醫院試點推廣，“北腦二號”預計今年下半年啟動臨床驗證。（新京報）"
+    },
+    {
+      "id": "4909457",
+      "time": "2026-06-01 10:19:32",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【韓國央行行長：此次能源價格上漲部分被半導體出口抵消】韓國央行行長申鉉松6月1日稱，韓國與歐元區國家類似，對能源價格衝擊較為敏感，韓國對能源進口的依賴度較高。通常油價上漲會惡化貿易條件，導致國內總收入（GDI）增速慢於國內生產總值（GDP），但此次能源價格上漲的部分被半導體出口所抵消。（新華財經）"
+    },
+    {
+      "id": "4909456",
+      "time": "2026-06-01 10:19:23",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【掌閱科技：推出人格化AI潮玩CreMoMo】6月1日，掌閱科技(603533)宣佈推出人格化AI潮玩CreMoMo，入局科技消費賽道。公司稱，區別於市面上常規AI玩具，CreMoMo由掌閱自主設計IP形象，依託掌閱自研記憶演算法與擬人化成長體系，具備長效記憶、自主成長、情感共情等差異化能力，打破行業傳統機械互動模式。6月1日早盤，掌閱科技股價漲停，漲幅為9.98%。"
+    },
+    {
+      "id": "4909455",
+      "time": "2026-06-01 10:19:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【梁建章：未來5年將投入150億元進行入境遊宣傳，引入2億入境遊客】攜程集團聯合創始人、董事局主席梁建章6月1日表示，中國入境遊在人文歷史、基礎設施、高價效比和科技等方面都具有優勢，未來5年將在入境遊品牌宣傳方面投入150億元，包括廣告代言、線下營銷等。未來5年，攜程希望引入2億全球入境遊客。影視演員成龍成為攜程集團中國旅遊推廣大使，成龍表示，隨著免籤國家越來越多，希望全球遊客都來體驗真實的中國，而不僅僅是在網路上。（第一財經）"
+    },
+    {
+      "id": "4909454",
+      "time": "2026-06-01 10:18:40",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國務院國資委舉辦中央企業新能源汽車領域人才特訓班】5月28日，國務院國資委舉辦的中央企業新能源汽車領域人才特訓班在清華大學開班，國務院國資委黨委委員、副主任譚作鈞出席開班式並講話。譚作鈞強調，緊扣新能源汽車電動化、智慧化、AI化發展趨勢，加快推進組織進步和急需緊缺人才培養，厚植人才底蘊，為企業轉型升級提供堅實人才保證。要堅持問題導向，聚焦培訓目標，精心組織實施，著力提升技術領軍人才的產業發展方向把握能力、關鍵核心技術創新能力、產業生態協同組織能力，著力提升營銷領軍人才的使用者洞察能力、數字營銷能力和海外市場拓展能力，特別是要培養一批精通“AI+新能源汽車”人才，提升AI定義汽車的能力和應用AI技術賦能先進製造的能力。本次特訓班是國務院國資委2026年戰略性新興產業和未來產業急需緊缺人才特訓的第4個班，由中國一汽、東風汽車、中國長安汽車承辦，分設產業領軍人才、營銷領軍人才、“AI+新能源汽車”3個專題，共有來自23家央國企的183名學員參訓。國務院國資委有關廳局負責同志、有關中央企業分管負責同志參加開班式。(國務院國有資產監督管理委員會)"
+    },
+    {
+      "id": "4909453",
+      "time": "2026-06-01 10:18:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "截止10:18，兩市100只個股漲停。"
+    },
+    {
+      "id": "4909452",
+      "time": "2026-06-01 10:18:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：韓華航空航天公司位於大田的一處廠區傳出爆炸聲。"
+    },
     {
       "id": "mkt:019e80f9-329f-7666-845c-f87e8251f9e4",
       "time": "2026-06-01 10:17:55",
@@ -146326,49 +146466,6 @@
         "Impact bearish"
       ],
       "text": "CHINA’S YUAN RISES 144 PIPS AGAINST DOLLAR IN EARLY TRADE TO 6.7803, STRONGEST SINCE FEB. 9, 2023"
-    },
-    {
-      "id": "4897763",
-      "time": "2026-05-25 10:22:00",
-      "tags": [
-        "市場"
-      ],
-      "text": "新加坡海峽時報指數收盤上漲0.6%，報5096.79點，此前一度觸及5098.05點。"
-    },
-    {
-      "id": "mkt:019e5cf0-08e5-7882-93e9-c484f22ef79e",
-      "time": "2026-05-25 10:21:35",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【LNG Tankers Resume Hormuz Transit as Qatar Exports Move to Asia】Three liquefied natural gas tankers appear to have crossed the Strait of Hormuz in recent days as suppliers in Qatar and the UAE sought to resume exports despite severe disruption in the waterway. The Al Rayyan, carrying Qatari LNG, was tracked north of Muscat and is heading to China after halting signal transmissions near Ras Laffan in May, according to Bloomberg ship-tracking data. Another vessel, the Fuwairit, also resumed transmitting after partially crossing Hormuz and is now bound for Pakistan. The vessels are linked to Japanese shipping firms Kawasaki Kisen Kaisha and Mitsui OSK Lines Ltd.."
-    },
-    {
-      "id": "4897762",
-      "time": "2026-05-25 10:20:36",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "遭富時指數刪除後，印尼Dian Swastika股價下跌 7%。"
-    },
-    {
-      "id": "4897761",
-      "time": "2026-05-25 10:19:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "【第二十二屆文博會今天閉幕】第二十二屆文博會今天（5月25日）將落下帷幕。本屆文博會匯聚全球65個國家和地區的310家海外展商參展，創新打造跨境電商專區、首設APEC經濟體展區，推動中外文化雙向交流、經貿深度融合。展會期間，260場新品首發首展首秀活動在主場館輪番上演，科技與文化共融，為文化產業高質量發展注入創新動能。"
-    },
-    {
-      "id": "4897760",
-      "time": "2026-05-25 10:19:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "豐田將減產規模擴大至約83,000輛。"
     }
   ]
 }
