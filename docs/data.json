@@ -1,7 +1,83 @@
 {
-  "updated": "2026-06-01 10:33:59",
-  "count": 16117,
+  "updated": "2026-06-01 10:37:54",
+  "count": 16123,
   "items": [
+    {
+      "id": "4909495",
+      "time": "2026-06-01 10:36:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PVC連續主力合約日內漲2%，現報5028.00元。"
+    },
+    {
+      "id": "mkt:019e8109-ce4f-7666-845d-67b4bc17048b",
+      "time": "2026-06-01 10:36:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【CNCERT warns of household router DNS tampering causing malicious redirects】China’s National Internet Emergency Response Center (CNCERT) warned that DNS configuration tampering on household routers has caused abnormal redirects. CNCERT said recently some home users connecting to router Wi‑Fi who visit legitimate sites or trigger terminal connectivity checks are being redirected to pornographic, gambling and other illegal pages. The center attributes the incidents to altered DNS server settings on routers, which can cause connected phones and PCs to receive malicious DNS addresses that misresolve legitimate domains and expose users to aggressive ad pushes, phishing and account-data theft risks."
+    },
+    {
+      "id": "4909494",
+      "time": "2026-06-01 10:35:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【貴州大學通報“招聘被指蘿蔔崗”：報考條件設定不當，招聘終止】5月31日，貴州大學釋出情況通報：近日，我校釋出《貴州大學2026年簡化招聘公告》，擬招聘資產經營管理辦公室管理崗位人員，引發關注，對此我校高度重視。該崗位設定的初衷是解決長期紮根貴州、對學校發展作出突出貢獻的高層次人才現實困難，按簡化招聘程式實施。經認真研究，本次招聘在實際操作中存在報考條件設定不當的問題，我校對此深表歉意並決定終止。下步，我們將切實改進相關工作。"
+    },
+    {
+      "id": "4909493",
+      "time": "2026-06-01 10:35:13",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "韓國3年期公司債券收益率上升5個基點至4.406%。"
+    },
+    {
+      "id": "4909491",
+      "time": "2026-06-01 10:34:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【興業證券：2026年將成為腦機介面產業從技術探索邁向產業落地的關鍵一年】興業證券研報認為，2026年將成為腦機介面產業從技術探索邁向產業落地的關鍵一年，產業驅動要素呈現多重共振。腦機介面各類技術路線的底層架構已基本確立，整體方案選擇趨於收斂，而效能最佳化上仍處於快速迭代階段。未來，行業競爭的核心將主要圍繞五大維度展開，包括：電極材料與架構、晶片設計能力、系統整合方案、資料積累和演算法，以及對腦科學的研究和理解將成為行業主要競爭點。“腦控萬物”的理念賦予了腦機介面極其廣闊的想象空間，應用場景的持續深化與多元化發展，將成為驅動行業長期增長的核心動力。"
+    },
+    {
+      "id": "mkt:019e8108-3f69-7666-845d-5fb16175da51",
+      "time": "2026-06-01 10:34:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Industrial Securities: 2026 pivotal for brain‑computer interface industry shift from R&D to commercial deployment】Industrial Securities says 2026 will be a pivotal year for the brain‑computer interface (BCI) industry’s move from technical exploration to industrial deployment as multiple industry drivers converge. Underlying architectures across BCI technical routes are largely established and solution choices are converging, while performance optimization remains in rapid iteration. Future competition will focus on five areas: electrode materials and architecture, chip design capability, system integration solutions, data accumulation and algorithms, and advances in brain‑science research and understanding. The \"brain‑controls‑everything\" concept expands addressable applications; deepening and diversification of use cases will be the core driver of long‑term industry growth."
+    },
+    {
+      "id": "4909490",
+      "time": "2026-06-01 10:34:11",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【煤炭開採加工持續拉昇，昊華能源觸及漲停】煤炭開採加工持續拉昇，昊華能源觸及漲停，鄭州煤電、廣匯能源、盤江股份、雲煤能源跟漲。相關ETF方面，煤炭ETF國泰（515220）漲3.04%，成交額6.43億元。"
+    },
+    {
+      "id": "mkt:019e8107-89dc-7666-845d-5139f849e08d",
+      "time": "2026-06-01 10:33:35",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Korea Exchange (KRX) activated the KOSPI circuit breaker after KOSPI 200 futures rose 5%, suspending program trading for 5 minutes."
+    },
+    {
+      "id": "4909489",
+      "time": "2026-06-01 10:33:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【家用路由器DNS被惡意篡改導致異常跳轉風險，國家網際網路應急中心釋出提示】國家網際網路應急中心釋出關於家用路由器DNS被惡意篡改導致異常跳轉風險的提示。近期，CNCERT發現，部分家庭使用者連線家用路由器Wi-Fi後，訪問正常網站或觸發終端網路連通性檢測時，會異常跳轉至色情、賭博等非法頁面。經研判，該事件主要由家用路由器等家庭網路裝置DNS伺服器配置被篡改導致。路由器是家庭網路的重要入口。一旦DNS配置被惡意修改，連線該路由器的手機、電腦等終端可能自動獲取異常DNS伺服器地址，導致正常網站訪問被錯誤解析，並被誘導跳轉至非法頁面，帶來廣告強推、釣魚欺詐和賬號資訊洩露等風險。（介面新聞）"
+    },
     {
       "id": "4909488",
       "time": "2026-06-01 10:33:16",
@@ -146578,32 +146654,6 @@
         "其他"
       ],
       "text": "【阿里達摩院玄鐵9系列處理器正式適配安卓 RISC-V加速規模化商業落地】阿里達摩院玄鐵今日官微訊息，5月25日，玄鐵團隊宣佈旗下9系列高效能處理器已完成對Android 16作業系統的適配，並面向戰略客戶定向釋出玄鐵安卓平臺。作為全球首款成功執行最新版安卓系統的RVA23相容RISC-V處理器，玄鐵9系列實現突破，標誌著RISC-V在安卓生態中已從功能移植邁入規範相容與產品化交付的新階段，為規模化商業落地奠定技術基礎。目前，玄鐵安卓平臺已面向首批玄鐵戰略客戶開放，加速探索RISC-V智慧終端新場景，顯著縮短從晶片原型到產品上市的週期。另外，Android 17 “Gemini Intelligence” 智慧體推動系統級AI融合，玄鐵最新高效能旗艦處理器系列搭載Vector+Matrix AI加速引擎，適配端側AI推理需求，已實現對千億引數大模型的原生支援，玄鐵團隊將持續激發RISC-V架構在AI領域的靈活擴充套件優勢。"
-    },
-    {
-      "id": "4897780",
-      "time": "2026-05-25 10:36:11",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【28.9萬億Token！全球AI大模型周呼叫量五連漲 國產AI連續4周超美國 DeepSeek-V4-Flash登頂】根據OpenRouter最新資料測算，上週（5月18日至5月24日）全球AI大模型總呼叫量為28.9萬億Token，較此前一週增長7.4%，連續五週上漲，大模型呼叫需求仍在持續釋放。其中，上榜的AI大模型中，中國AI大模型周呼叫量達9.223萬億Token，環比增長19.89%；同期美國AI大模型周呼叫量為4.93萬億Token，環比增長16.27%。中國大模型周呼叫量連續四周超過美國並穩居全球首位，中國模型正在更深地進入全球開發者呼叫體系。 (每日經濟新聞)"
-    },
-    {
-      "id": "4897779",
-      "time": "2026-05-25 10:34:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【怡亞通持股公司成立儲存技術公司】企查查APP顯示，近日，上海芯景鑠儲存技術有限公司成立，法定代表人為馬俊，經營範圍包含：資料處理和儲存支援服務；積體電路晶片設計及服務；電子產品銷售；電力電子元器件銷售等。企查查股權穿透顯示，該公司由芯景鑠（上海）科技有限公司全資持股，後者由怡亞通等共同持股。"
-    },
-    {
-      "id": "4897778",
-      "time": "2026-05-25 10:34:42",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【市場監管總局總工程師劉敏會見國際計量局局長安妮特·古】5月14日，市場監管總局總工程師劉敏在京會見新任國際計量局局長安妮特·古。國際計量大會將於2026年10月在法國巴黎召開，雙方就大會決議草案、國際計量局工作計劃、深化與成員國合作等議題交換了意見。劉敏祝賀安妮特·古就任國際計量局局長，並對其專程來華就有關議題進行交流表示歡迎。她表示，市場監管總局作為國際計量組織可信任的成員，將支援大會有關決議及工作計劃的落實，希望加強與國際計量局合作，為全球計量體系發展發揮建設性作用。安妮特·古表示，此訪主要是聽取中國等主要成員國對大會決議和工作計劃的意見。國際計量局始終順應成員國需求，動態調整優先工作，確保落實組織戰略目標，並高度讚賞中方在參與全球計量治理、提供自願性支援等方面作出的重要貢獻，期待與中國開展更廣泛、深入的合作。"
     }
   ]
 }
