@@ -1,7 +1,77 @@
 {
-  "updated": "2026-06-01 12:12:03",
-  "count": 16163,
+  "updated": "2026-06-01 12:15:57",
+  "count": 16165,
   "items": [
+    {
+      "id": "4909635",
+      "time": "2026-06-01 12:15:19",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【韓國一軍工企業爆炸5死2傷】今天（6月1日）上午，韓國韓華航空航天公司位於韓國大田的一家工廠發生爆炸並引發火災，目前死亡人數已升至5人，此外還有2人受傷。警方和消防部門推測，有可能是工廠內的火箭推進器發生了爆炸。"
+    },
+    {
+      "id": "mkt:019e8164-8d34-799c-966a-710d30d23a2a",
+      "time": "2026-06-01 12:15:11",
+      "tags": [
+        "MKT News",
+        "012450.KS"
+      ],
+      "text": "【Hanwha Aerospace Daejeon plant explosion kills 5, injures 2; rocket motor suspected】An explosion and fire at Hanwha Aerospace's Daejeon plant on June 1 killed five workers and injured two, police and fire officials said. Authorities suspect a rocket motor/propulsion unit may have detonated. South Korea's Lee ordered all available resources mobilised for rescue, a full probe into the cause and measures to prevent a recurrence. The Daejeon facility produces tactical weapons and large rocket motors and previously suffered fatal explosions in 2018 and 2019."
+    },
+    {
+      "id": "4909634",
+      "time": "2026-06-01 12:15:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "韓華航天爆炸事故死亡人數升至5人。"
+    },
+    {
+      "id": "4909633",
+      "time": "2026-06-01 12:13:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【珠海科技產業集團獲雙AAA主體評級】據珠海科技產業集團6月1日訊息，集團獲得中誠信國際信用評級有限責任公司與聯合資信評估股份有限公司兩家國內權威信用評級機構出具的主體長期信用AAA等級報告，評級展望均為“穩定”。聯合資信指出，集團整體資產質量優良，部分投資專案已進入回報期，盈利貢獻顯著，並持有大量優質上市公司股權及金融類資產。（介面新聞）"
+    },
+    {
+      "id": "mkt:019e8162-c67e-799c-966a-6d2fcbceea21",
+      "time": "2026-06-01 12:13:14",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA (NVDA.O) said its Vera system will be made available through system integrators and cloud partners this fall."
+    },
+    {
+      "id": "4909632",
+      "time": "2026-06-01 12:12:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【英偉達：Anthropic、OpenAI 等企業率先採用新款Vera晶片】英偉達公司表示，Anthropic、OpenAI 以及太空探索技術公司（SpaceX）將成為其新款處理器的首批主要客戶。英偉達持續發力拓展在人工智慧資料中心領域的龐大業務版圖，此次也為這款新品鎖定了核心使用者。公司聯合創始人兼執行長黃仁勳在演講中，點名提及上述幾家人工智慧企業。他稱，這些企業將率先在自有資料中心部署英偉達Vera系列中央處理器。該新品將於今年第三季度全面投產。"
+    },
+    {
+      "id": "mkt:019e8161-bcf2-799c-966a-61fd75574377",
+      "time": "2026-06-01 12:12:06",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA (NVDA.O) launched Vera, a CPU built for the intelligent-agent era. NVIDIA says Vera is about 80% faster than x86 CPUs on agent tasks. Vera is designed for the CPU‑intensive workloads behind modern AI factories, including agent AI, reinforcement learning, data processing and task orchestration."
+    },
     {
       "id": "4909631",
       "time": "2026-06-01 12:10:45",
@@ -147065,50 +147135,6 @@
         "公司"
       ],
       "text": "【傑富瑞將潘興廣場公司評級為“持有”】傑富瑞首次對潘興廣場公司進行評級，建議持有，目標價設定為 40 美元。"
-    },
-    {
-      "id": "te:economy:553314",
-      "time": "2026-05-25 12:14:47",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Malaysia",
-        "Producer Prices Change",
-        "Importance 2"
-      ],
-      "text": "Malaysia Producer Prices Grow the Most in Near 4 Years — Malaysia’s producer prices rose 5.4% yoy in April 2026, picking up from a 1.1% gain in the previous month and marking the second straight month of growth. It was also the fastest increase since August 2022, with producer-level cost pressures intensifying amid mounting disruptions from the war in Iran. The mining sector jumped 53.4% after a 26.5% drop in March, buoyed by a sharp rise in crude petroleum extraction (74.5%). Also, manufacturing prices rebounded (1.1% vs -0.8%), reflecting higher computer, electronic & optical products (3.8%). Further, the agriculture, forestry, and fishing sector bounced back (2.7% vs -5.6%), supported by fishing and perennial crops. Utilities also contributed to the upside, with the water supply index staying elevated (10.8% vs 11.3%), while electricity and gas accelerated (10.6% vs 9.6%).On a monthly basis, producer prices increased 3.2%, slowing from March's 4.1% rise."
-    },
-    {
-      "id": "mkt:019e5d57-c687-711d-be56-3317fca21e57",
-      "time": "2026-05-25 12:14:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Malaysia Economy Minister: Petronas Says Energy Supply Secure Through End-July"
-    },
-    {
-      "id": "4897913",
-      "time": "2026-05-25 12:14:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "馬來西亞經濟部長：國有能源企業馬石油表示，能源供應保障至7月底。"
-    },
-    {
-      "id": "4897912",
-      "time": "2026-05-25 12:13:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "【ST喜臨門董事長陳阿裕缺席股東會，兒子回應：董事長外出統籌推進債務化解工作，目前一切正常】5月22日下午，ST喜臨門在其總部召開2025年年度股東會，董事長陳阿裕缺席。陳阿裕兒子、公司副董事長兼總裁陳一鋮解釋稱，董事長外出統籌推進債務化解工作，因故缺席本次股東會。他透露，公司董事長現在一切正常，身體狀態各方面都正常，目前正常履職，沒有任何問題。（財聯社）"
-    },
-    {
-      "id": "4897911",
-      "time": "2026-05-25 12:12:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本政府稱“石腦油供給不存在問題” 民調顯示超六成民眾不接受】據日本方面24日訊息，日本讀賣新聞社於22日至24日實施的全國輿論調查結果顯示，對於日本政府稱“由原油提煉的石腦油供給不存在問題”，64%的受訪者表示“無法接受”，即便是在支援內閣的群體中，也有57%的人表示“無法接受”政府的說明。石腦油是原油提煉過程中的衍生品，被廣泛應用於塑膠、絕緣泡沫、黏合劑、合成纖維、注射器等醫療用品和印刷油墨溶劑等材料。日本高度依賴從中東進口原油和石腦油，由於霍爾木茲海峽航運受阻，日本建築、食品加工、日用品生產等多個行業都已感受到石腦油短缺帶來的衝擊。"
     }
   ]
 }
