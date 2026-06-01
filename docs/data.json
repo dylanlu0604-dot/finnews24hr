@@ -1,7 +1,103 @@
 {
-  "updated": "2026-06-01 08:04:13",
-  "count": 15959,
+  "updated": "2026-06-01 08:08:02",
+  "count": 15963,
   "items": [
+    {
+      "id": "4909220",
+      "time": "2026-06-01 08:07:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "首爾股市綜合股價指數（KOSPI）創下歷史新高。"
+    },
+    {
+      "id": "4909219",
+      "time": "2026-06-01 08:06:54",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "三星電子股價上漲超3%，創歷史新高。"
+    },
+    {
+      "id": "mkt:019e8081-20c9-7777-bd26-a7117f145544",
+      "time": "2026-06-01 08:06:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia's S&P/ASX 200 fell 0.3% in early trade to 8,707.20 points."
+    },
+    {
+      "id": "4909218",
+      "time": "2026-06-01 08:06:17",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "軟銀集團股價上漲6%。"
+    },
+    {
+      "id": "4909217",
+      "time": "2026-06-01 08:06:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "早盤交易中，澳大利亞標普/澳證200指數下跌0.3%，報8707.20點。"
+    },
+    {
+      "id": "mkt:019e8080-78a8-7777-bd26-98ff6094360f",
+      "time": "2026-06-01 08:06:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish",
+        "9984.T"
+      ],
+      "text": "【Japan, South Korea stocks hit record highs】South Korea's KOSPI extended early gains to 1.0%, while Japan's Nikkei 225 rose 0.36%; both reached record highs. SoftBank Group shares gained 6%."
+    },
+    {
+      "id": "te:markets:555100",
+      "time": "2026-06-01 08:05:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "BHP Group Stock Price Hits All-time High — BHP Group shares increased to an all-time high of 62.74 AUD. Over the past 4 weeks, BHP Group gained 14.18%, and in the last 12 months, it increased 66.07%."
+    },
+    {
+      "id": "te:economy:555099",
+      "time": "2026-06-01 08:04:28",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Korea",
+        "Imports YoY",
+        "Importance 1"
+      ],
+      "text": "South Korea Import Growth Below Estimates — South Korea’s imports rose 20.8% year-on-year in May 2026, accelerating from a 16.7% growth in the previous month but falling short of market forecasts of 21.5%, according to flash data. The latest result marked a seventh straight month of increase in purchases and the strongest pace since August 2022, signaling robust domestic demand even as trade flow disruptions tied to the Middle East conflict lingered."
+    },
+    {
+      "id": "4909216",
+      "time": "2026-06-01 08:04:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "軟銀股價上漲4.6%；宣佈法國資料中心計劃。"
+    },
+    {
+      "id": "4909215",
+      "time": "2026-06-01 08:03:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本日經平均股價指數升至歷史新高。"
+    },
     {
       "id": "4909214",
       "time": "2026-06-01 08:03:15",
@@ -144992,56 +145088,6 @@
         "其他"
       ],
       "text": "【中國駐阿富汗使館再次提醒在阿中國公民和機構加強安全防範】近期阿富汗安全形勢依然嚴峻複雜，安全事件和治安案件時有發生，喀布林、赫拉特等地發生多起綁架勒索、武裝搶劫等惡性案件。中國駐阿富汗使館再次提醒在阿中國公民和機構，請密切關注當地安全形勢，增強防範意識，加強駐地及出行安保措施，減少不必要的外出，不要到飯店、宗教場所、大型商超等人員密集場所，出行須有正規安保人員隨衛。如發現異常或遇緊急情況，請及時報警並聯系中國駐阿富汗使館。"
-    },
-    {
-      "id": "4897563",
-      "time": "2026-05-25 08:07:59",
-      "tags": [
-        "市場"
-      ],
-      "text": "澳大利亞標普/澳證200指數早盤下跌0.1%，報8649點。"
-    },
-    {
-      "id": "4897562",
-      "time": "2026-05-25 08:06:45",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信證券：金屬包裝行業梳理兩條投資主線】中信證券研報認為，金屬包裝憑藉堅固抗壓、密封防腐、可回收等優勢在包裝行業中佔據重要地位。二片罐行業在經歷龍頭併購落地及冗餘產能海外轉移後，行業從內卷競爭紅海走向龍頭協同、供需格局改善的良性狀態，2025年12月成功打響二片罐提價第一槍，有望開啟制罐企業盈利上升通道。此外，海外市場拓展方興未艾，未來伴隨波爾戰略收縮至優勢區域深耕，中國製罐企業有望獲得更多全球市場拓展空間，逐步構建全球產能佈局。中信證券綜合梳理兩條投資主線：一、國內行業格局改善，龍頭企業議價能力提升帶動盈利修復；二、海外市場拓展加速，高毛利海外業務貢獻增量利潤。"
-    },
-    {
-      "id": "4897561",
-      "time": "2026-05-25 08:06:09",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本日經股價平均指數首次突破64000關口。"
-    },
-    {
-      "id": "4897560",
-      "time": "2026-05-25 08:05:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "新加坡維持2026年國內生產總值增長預測在2.0%-4.0%區間不變。"
-    },
-    {
-      "id": "4897559",
-      "time": "2026-05-25 08:04:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本日經平均指數創下歷史新高。"
-    },
-    {
-      "id": "4897558",
-      "time": "2026-05-25 08:04:13",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【中信證券：繼續看好肉牛原奶週期共振，推薦牧業養殖龍頭】中信證券研報認為，2026年原奶供給小幅增加，液奶需求築底改善，固體乳需求高景氣。4月以來散奶價格維持高位，原奶供需矛盾持續緩解，龍頭乳企深加工佈局持續推進。5月以來淘汰母牛價格漲至22元/kg以上，龍頭牧業公司增加肉牛業務佈局，2024年以來肉牛存欄去化較多，國內去化及進口配額背景下，2026年肉牛供給端存在下降壓力，參考上輪肉牛週期去化及價格回升節奏，中信證券判斷本輪週期活牛價格仍有上行空間。繼續看好肉牛原奶週期共振，推薦牧業養殖龍頭及全產業鏈佈局、原奶自給率較高的企業，以及乳製品深加工受益乳企。"
     }
   ]
 }
