@@ -1,7 +1,32 @@
 {
-  "updated": "2026-06-02 02:12:44",
-  "count": 17035,
+  "updated": "2026-06-02 02:16:36",
+  "count": 17036,
   "items": [
+    {
+      "id": "te:markets:555471",
+      "time": "2026-06-02 02:15:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural Gas UK Soars by 6.69% — Top commodity gainers are Natural Gas UK (6.69%), Crude Oil WTI (5.11%), Natural Gas EU (4.93%) and Brent Crude Oil (4.07%). Biggest loser is Natural gas (-3.61%)."
+    },
+    {
+      "id": "mkt:019e8464-439e-7993-96f8-87fedaa6c035",
+      "time": "2026-06-02 02:13:43",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "【Apple (AAPL.O) plans iPhone bill‑splitting feature to expand everyday financial tools】Apple (AAPL.O) is planning a new iPhone feature to let users split bills for group meals and other activities, expanding its everyday financial tools and posing a challenge to third‑party apps, people familiar with the matter said. The function would let users photograph receipts, allocate items to different people and generate payment requests; Apple plans to announce it at next week’s Worldwide Developers Conference and include it in iOS 27, the sources said."
+    },
     {
       "id": "mkt:019e8461-9aea-7993-96f8-7c6cb799b195",
       "time": "2026-06-02 02:10:49",
@@ -155522,17 +155547,6 @@
         "WTI"
       ],
       "text": "【Profit-Taking, Oil Rebound Pressure JAPAN'S NIKKEI INDEX Off Highs】JAPAN'S NIKKEI INDEX Retreats From Record; Prior Session +2.87% To 65,158.19; 3-Day Gain +8.95% Largest In >6 Years; AI Optimism Fueled Rally; Profit-Taking, Oil Price Rebound Weigh; Advantest -5%, Tokyo Electron -2.26%, Kioxia -5.45%; SoftBank Group +7% Supports Index; Kawasaki Heavy Industries, IHI ~+8%"
-    },
-    {
-      "id": "te:markets:553505",
-      "time": "2026-05-26 02:15:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Brent Crude Oil Plunges by 6.76% — Top commodity losers are Brent Crude Oil (-6.76%), Natural Gas EU (-6.47%) and Crude Oil WTI (-6.47%). Gains are led by Coking Coal (4.66%)."
     }
   ]
 }
