@@ -1,7 +1,71 @@
 {
-  "updated": "2026-06-02 01:30:05",
-  "count": 17034,
+  "updated": "2026-06-02 01:34:04",
+  "count": 17039,
   "items": [
+    {
+      "id": "mkt:019e843e-e6db-7993-96f8-2d594aaf3bfe",
+      "time": "2026-06-02 01:32:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iraqi security official says a fire aboard a cargo ship has been brought under control."
+    },
+    {
+      "id": "mkt:019e843d-dae6-7993-96f8-257a0454edea",
+      "time": "2026-06-02 01:31:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said Israel would not attack Hezbollah and Hezbollah would not attack Israel."
+    },
+    {
+      "id": "mkt:019e843d-79a9-7993-96f8-1f03a581c72d",
+      "time": "2026-06-02 01:31:21",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "U.S. President Trump said through senior representatives he had a very good call with Hezbollah and that they agreed to cease all shooting."
+    },
+    {
+      "id": "4911226",
+      "time": "2026-06-02 01:31:11",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：我透過高層代表同真主黨進行了一次十分順暢的通話，對方同意全面停止交火。"
+    },
+    {
+      "id": "mkt:019e843d-1eaf-7993-96f8-1437d8789e2c",
+      "time": "2026-06-02 01:30:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "U.S. President Trump said he had a productive call with Israeli Prime Minister Netanyahu and that no troops will be sent to Beirut; any forces en route have been recalled."
+    },
+    {
+      "id": "4911225",
+      "time": "2026-06-02 01:30:57",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：不會向貝魯特派遣軍隊，所有正在開赴當地的部隊均已奉命折返。"
+    },
+    {
+      "id": "4911224",
+      "time": "2026-06-02 01:30:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我與以色列總理內塔尼亞胡進行了一場極富成效的通話。"
+    },
     {
       "id": "mkt:019e843b-a08d-7993-96f8-0f9da758abb5",
       "time": "2026-06-02 01:29:20",
@@ -155496,29 +155560,6 @@
         "Brent"
       ],
       "text": "【India Nighttime Heat Persists; Uttar Pradesh Nights Reach 35°C】India Night Heat Raises Power Demand; IMD: 8/10 Mar-May Night Lows Above Avg; Iran War Disrupts LNG, Cuts Gas-Gen; Solar Supports Day Supply; Uttar Pradesh Banda Day ~48°C Night ~35°C; 93% Households Face Daily Outages, Some Up To 8h"
-    },
-    {
-      "id": "4899073",
-      "time": "2026-05-26 01:32:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "一名美國高階官員暗示，特朗普政府將支援以色列加大對真主黨的打擊力度。"
-    },
-    {
-      "id": "mkt:019e61e8-a775-7005-97f3-245fb3cba9f0",
-      "time": "2026-05-26 01:31:37",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "U.S. Treasury Yields Slide Across Curve; 2Y -6bps To 4.0595%, 10Y -6bps To 4.5034%"
     }
   ]
 }
