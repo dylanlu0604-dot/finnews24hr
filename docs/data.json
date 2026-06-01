@@ -1,7 +1,96 @@
 {
-  "updated": "2026-06-01 09:48:00",
-  "count": 16030,
+  "updated": "2026-06-01 09:51:48",
+  "count": 16034,
   "items": [
+    {
+      "id": "te:economy:555153",
+      "time": "2026-06-01 09:50:39",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Manufacturing PMI",
+        "Importance 2"
+      ],
+      "text": "China Manufacturing Growth Tops Forecasts — The RatingDog China General Manufacturing PMI fell to 51.8 in May 2026 from an over five-year high of 52.2 in April, but remained above the expected 51.4. Growth in new orders and output stayed robust, although both slowed from the previous month, as demand continued to be supported by firmer market conditions, new customers, and product improvements. Export orders, however, saw a slight decline. Production continued to expand, marking one of the strongest readings since late 2024, while backlogs of work rose for a fourth consecutive month, reflecting sustained demand pressures."
+    },
+    {
+      "id": "mkt:019e80df-cfb8-7bb6-a9be-efab2c2ae7eb",
+      "time": "2026-06-01 09:50:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share hog-breeding sector spiked intraday; Jingji Zhinong hit the daily trading limit, while Tianyu Bio, Tianbang Food, Juxing Agriculture, Luoniushan and Dongrui shares advanced."
+    },
+    {
+      "id": "te:markets:555152",
+      "time": "2026-06-01 09:49:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 2"
+      ],
+      "text": "Dollar Rises Amid Iran Deal Uncertainty — The dollar index edged above 99 on Monday, snapping a two-session decline as prospects for a longer-term ceasefire agreement between the US and Iran remained uncertain. Over the weekend, Washington and Tehran exchanged proposals seeking revisions to a draft accord that would extend the ceasefire and reopen the Strait of Hormuz, though there was little indication that negotiations were nearing a breakthrough. President Donald Trump also reaffirmed his demand that Iran suspend its nuclear program and fully restore the strait’s status as an open international waterway. Investors also turned their attention to the closely watched US nonfarm payrolls report, which is expected to provide fresh clues on labor market conditions and the outlook for Federal Reserve policy. Markets are increasingly pricing in the possibility of a Fed rate hike before year-end after inflation accelerated, marking a sharp shift from earlier expectations that interest rates would be lowered."
+    },
+    {
+      "id": "4909381",
+      "time": "2026-06-01 09:49:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國綜指漲幅擴大至4%】韓國綜指漲幅擴大至4%，現報8817.52點。"
+    },
+    {
+      "id": "4909380",
+      "time": "2026-06-01 09:49:31",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【AI伺服器概念港股走強 華勤技術漲22%】截至發稿，華勤技術(03296.HK)漲22%，聯想集團(00992.HK)漲8%，偉仕佳傑(00856.HK)漲7%，聯想控股(03396.HK)漲6%。美股的相關概念AI伺服器製造商上週五走強，戴爾大漲近33%創最大單日漲幅。"
+    },
+    {
+      "id": "mkt:019e80df-2ff7-7bb6-a9be-e2a791e6d2c8",
+      "time": "2026-06-01 09:49:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's KOSPI jumped 4.00% intraday to 8,816.00 points."
+    },
+    {
+      "id": "4909379",
+      "time": "2026-06-01 09:49:04",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【生豬養殖板塊短線拉昇】生豬養殖板塊短線拉昇，京基智農漲停，天域生物、天邦食品、巨星農牧、羅牛山、東瑞股份等紛紛走高。"
+    },
+    {
+      "id": "4909378",
+      "time": "2026-06-01 09:48:57",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "聚丙烯連續主力合約日內漲2%，現報8626.00元。"
+    },
+    {
+      "id": "4909377",
+      "time": "2026-06-01 09:48:02",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【隨著不確定性籠罩美伊談判，金價下跌】亞洲本週伊始，隨著市場等待美伊談判取得進展的跡象，金價小幅走低。重新開放霍爾木茲海峽以及就伊朗核計劃達成一致仍是關鍵癥結所在。美國總統特朗普在Truth Social的一篇帖子中表示，擬議的協議明確規定德黑蘭不會擁有核武器，而伊朗談判代表則一直敦促解除制裁和資產凍結。國信期貨分析師在一份報告中表示，雙方的這些主要分歧仍未解決，該海峽附近的軍事摩擦正在推高市場的地緣政治風險溢價。美元和美債收益率繼續在高位震盪，使得貴金屬缺乏明確的方向性催化劑。現貨黃金下跌0.2%，報每盎司4,530.87美元。"
+    },
     {
       "id": "mkt:019e80dd-531e-7113-a826-e8bbf6373993",
       "time": "2026-06-01 09:47:28",
@@ -145741,46 +145830,6 @@
         "焦點"
       ],
       "text": "滬深兩市成交額超1萬億元，較上日此時放量1785億元。"
-    },
-    {
-      "id": "4897719",
-      "time": "2026-05-25 09:51:18",
-      "tags": [
-        "市場"
-      ],
-      "text": "【白酒板塊短線拉昇，金徽酒漲超8%】白酒板塊短線拉昇，金徽酒漲超8%，皇臺酒業、金種子酒、迎駕貢酒跟漲。"
-    },
-    {
-      "id": "4897718",
-      "time": "2026-05-25 09:50:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "出光油輪抵達日本。"
-    },
-    {
-      "id": "4897717",
-      "time": "2026-05-25 09:50:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "【智譜等成立科技新公司，含多項AI業務】企查查APP顯示，近日，江蘇智譜星連科技有限公司成立，經營範圍包含：人工智慧基礎軟體開發；人工智慧應用軟體開發；資料處理和儲存支援服務等。企查查股權穿透顯示，該公司由智譜等共同持股。"
-    },
-    {
-      "id": "4897716",
-      "time": "2026-05-25 09:48:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "深證成指翻綠，創業板指跌0.37%，滬指現漲0.33%。"
-    },
-    {
-      "id": "4897715",
-      "time": "2026-05-25 09:48:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "大盤主力淨流出超100億。"
     }
   ]
 }
