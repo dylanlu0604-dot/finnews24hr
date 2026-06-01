@@ -1,7 +1,95 @@
 {
-  "updated": "2026-06-01 08:11:51",
-  "count": 15966,
+  "updated": "2026-06-01 08:15:40",
+  "count": 15973,
   "items": [
+    {
+      "id": "mkt:019e8088-c55d-7777-bd26-cc9ecb2d335e",
+      "time": "2026-06-01 08:15:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Huatai Securities: Rising domestic electrification to benefit lithium batteries and energy storage】Huatai Securities said domestic electrification is accelerating and may be underpriced by markets. Since April the AI supply chain has led performance, but domestic and external catalysts for electrification-related sectors may not be fully reflected in prices. Investors may be underestimating the addressable electrification opportunity by focusing on incremental penetration while ignoring replacement demand in the existing installed base and blind spots in electrification use cases. Policy shifts—from last year’s push against internal competition to this year’s compute‑power coordination—are repricing input costs and industry scope, likely supporting continued improvement in sector momentum and earnings. Recommended exposures: lithium batteries/energy storage, mining machinery, forklifts, commercial vehicles and shipbuilding."
+    },
+    {
+      "id": "mkt:019e8088-a6f8-7777-bd26-c49b0a6adf55",
+      "time": "2026-06-01 08:14:59",
+      "tags": [
+        "MKT News",
+        "7203.T",
+        "Impact bearish"
+      ],
+      "text": "Toyota Motor Corp. shares fell 4%."
+    },
+    {
+      "id": "4909227",
+      "time": "2026-06-01 08:14:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "豐田汽車股價下跌4%。"
+    },
+    {
+      "id": "4909226",
+      "time": "2026-06-01 08:13:52",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【華泰證券：國內電氣化率持續提升 鋰電、儲能等賽道有望受益】華泰證券研報表示，近年來，國內電氣化率持續提升，“十五五”碳達峰目標下這一程序或加速。當前市場對電氣化線索或存在三大預期差：第一，4月以來AI產業鏈作為市場主線取得亮眼表現，但內外催化共振下電氣化相關領域定價或仍不充分；第二，投資者或普遍低估國內電氣化空間，一是關注“新增滲透率”而忽視了“存量保有結構”的替換需求，二是電氣化場景存在盲區；第三，從去年的“反內卷”到今年的“算電協同”，政策驅動要素價格與產業空間重估，相關領域景氣度和業績亦有望持續改善。配置上，建議關注鋰電/儲能、礦山機械、叉車、商用車、船舶等細分環節投資機會。"
+    },
+    {
+      "id": "mkt:019e8087-8976-7777-bd26-bc96a54d8ed6",
+      "time": "2026-06-01 08:13:46",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Chinese-made cars rank third in South Korea import registrations in April】YONHAP reports Korea Automobile Importers & Distributors Association (KAIDA) data disclosed April 1 showing Chinese-made vehicles were the third-largest source of newly registered imported cars in South Korea in April, overtaking Japanese-made cars for the first time. April new-import registrations: Europe 16,835 units; United States 13,611; China 2,023; Japan 1,974."
+    },
+    {
+      "id": "mkt:019e8087-3337-7777-bd26-b78aac3d2e09",
+      "time": "2026-06-01 08:13:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Colombian President Gustavo Petro said he does not accept the preliminary count of the presidential election."
+    },
+    {
+      "id": "4909225",
+      "time": "2026-06-01 08:12:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "哥倫比亞總統古斯塔沃·佩特羅表示，他不接受總統選舉初步計票結果。"
+    },
+    {
+      "id": "4909224",
+      "time": "2026-06-01 08:12:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "【全球首個心肌細胞再生人體臨床試驗啟動】科學家正在開發一種全新的心臟再生基因療法，為治療心力衰竭這一常見病帶來了希望。全球首個旨在培育新生心肌細胞的臨床試驗已經啟動，同時多家企業還在研發至少4種用於心臟病的再生基因療法。英國愛丁堡大學的Andrew Baker評價道：“這是首批走向臨床的人體心臟再生研究，這個領域令人滿懷期待。”美國得克薩斯心臟研究所的James Martin主導了這項研究。他表示，在小鼠和豬的動物實驗中觀察到明確的心肌細胞分裂現象。（中國科學報）"
+    },
+    {
+      "id": "te:economy:555102",
+      "time": "2026-06-01 08:11:41",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Korea",
+        "Exports YoY",
+        "Importance 2"
+      ],
+      "text": "South Korea Exports Reach Fresh Record High — South Korea’s exports jumped 53.2% yoy to a record high of USD 87.8 billion in May 2026, surpassing forecasts of 48.4%, accelerating from a 48% rise in April. Exports exceeded USD 80 billion for the 3rd straight month, mainly driven by a surge in semiconductor shipments. Shipments increased for a 12th consecutive month, led by semiconductor exports, which surged to a record USD 37.2 billion."
+    },
+    {
+      "id": "4909223",
+      "time": "2026-06-01 08:11:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "【今日起我國全面進入汛期，南方地區進入主汛期】6月1日起，我國全面進入汛期，南方地區進入主汛期。據預報，6月份，東北北部、江南東部、華南、西南東南部等地降水偏多1～2成；華北南部、西北北部和中東部、黃淮、江淮大部等地降水偏少1～2成；其餘地區降水接近常年。長江中游洞庭湖、鄱陽湖水系部分主要河流，珠江流域西江、韓江，浙江錢塘江及福建閩江等河流可能發生超警洪水。"
+    },
     {
       "id": "mkt:019e8084-8540-7777-bd26-a9dc7e2c4b52",
       "time": "2026-06-01 08:10:28",
@@ -145093,34 +145181,6 @@
         "觀點"
       ],
       "text": "【國金證券：太空光伏建議圍繞四大主線佈局】國金證券研報表示，太空光伏已進入通訊奠基、算力啟航的高速增長期，柔性太陽翼滲透率快速提升，航天級輔材成為產業鏈關鍵瓶頸與高盈利環節。建議圍繞四大主線佈局：一是適配低溫與太空環境的導電漿料；二是柔性封裝核心UTG/CPI蓋板與基板材料；三是潛在空間級封裝膠粘材料；四是高可靠性互聯材料。"
-    },
-    {
-      "id": "4897566",
-      "time": "2026-05-25 08:14:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "馬來西亞國家石油（PETRONAS）證實“塞帕特”號浮式儲卸油輪（FSO Sepat）發生事故；三名人員已被宣告死亡。正配合相關主管部門就事故起因展開調查。"
-    },
-    {
-      "id": "4897565",
-      "time": "2026-05-25 08:13:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "【新加坡維持2026年GDP增長2.0%至4.0%的預測】新加坡維持了2026年經濟增長預測，該國第一季度經濟表現強於預期，但警告稱中東衝突帶來了日益加劇的風險。週一公佈的修正後資料顯示，今年第一季度國內生產總值(GDP)同比增長6.0%，超出了初步預估值。4月份釋出的初步預估資料顯示，增速為4.6%，慢於第四季度錄得的5.7%的增速。新加坡貿易及工業部(MTI)表示，第一季度GDP的增長得益於批發貿易、製造業以及金融和保險業的強勁表現。該部維持新加坡今年2.0%至4.0%的增長預測。該部曾在2月份將增長預測從1.0%-3.0%上調至2.0%-4.0%。貿易及工業部表示，自那時以來，隨著美-以-伊衝突的爆發，全球經濟前景已經惡化。該部補充稱，霍爾木茲海峽的封鎖導致能源供應以及化肥、鋁等其他關鍵投入品供應受阻，這已引發全球能源及其他投入成本的飆升。經季節性調整後，新加坡第一季度GDP環比增長1.0%，而此前的初步預估為萎縮0.3%，第四季度為環比增長1.3%。"
-    },
-    {
-      "id": "te:economy:553228",
-      "time": "2026-05-25 08:12:42",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Australia 10Y Yield Hits 6-Week Low — Australia’s 10-year government bond yield fell to below 4.9%, hitting a six-week low as optimism over a potential US-Iran deal lowered oil prices and tempered inflation concerns. The proposed agreement would reopen the Strait of Hormuz, end hostilities, release some frozen Iranian assets, and lay the groundwork for additional negotiations aimed at restricting Tehran’s nuclear program. However, President Donald Trump said the US would keep its blockade of the Strait of Hormuz in place until a formal agreement is finalized. In Australia, expectations of further monetary tightening by the Reserve Bank weakened after a surprise rise in the jobless rate. The unemployment rate unexpectedly rose to 4.5% in April from 4.3% in March, the highest level in about four and a half years. The probability of a rate hike at the next meeting dropped to just 3%, from 13%. Pricing for August pared to 40% from 60%. Markets now await key inflation numbers this week for further clues on the policy outlook."
     }
   ]
 }
