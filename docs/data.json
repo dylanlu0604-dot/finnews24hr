@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-02 02:16:36",
-  "count": 17036,
+  "updated": "2026-06-02 02:20:27",
+  "count": 17032,
   "items": [
     {
       "id": "te:markets:555471",
@@ -155503,50 +155503,6 @@
         "MKT News"
       ],
       "text": "Rubio Holds Talks in Qatar on Iran Today"
-    },
-    {
-      "id": "te:markets:553506",
-      "time": "2026-05-26 02:20:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Silver Gains by 3.60% — Top commodity gainers are Silver (3.60%), Lithium Carbonate (2.95%), Platinum (1.83%) and Gold (1.16%)."
-    },
-    {
-      "id": "4899090",
-      "time": "2026-05-26 02:18:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "OpenAI：與Grupo Folha（巴西報業集團）和Grupo UOL（巴西入口網站集團）達成戰略內容合作關係。"
-    },
-    {
-      "id": "4899089",
-      "time": "2026-05-26 02:18:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列北部靠近黎巴嫩邊境一帶遭遇無人機襲擊，目前暫無人員死亡報告。"
-    },
-    {
-      "id": "mkt:019e6212-7125-7dd8-b21d-8c6bffdbaae1",
-      "time": "2026-05-26 02:17:16",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Market Themes",
-        "AI Revolution",
-        "Nikkei 225",
-        "Impact bearish",
-        "9984.T",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "【Profit-Taking, Oil Rebound Pressure JAPAN'S NIKKEI INDEX Off Highs】JAPAN'S NIKKEI INDEX Retreats From Record; Prior Session +2.87% To 65,158.19; 3-Day Gain +8.95% Largest In >6 Years; AI Optimism Fueled Rally; Profit-Taking, Oil Price Rebound Weigh; Advantest -5%, Tokyo Electron -2.26%, Kioxia -5.45%; SoftBank Group +7% Supports Index; Kawasaki Heavy Industries, IHI ~+8%"
     }
   ]
 }
