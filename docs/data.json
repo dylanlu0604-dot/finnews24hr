@@ -1,7 +1,166 @@
 {
-  "updated": "2026-06-01 15:38:48",
-  "count": 16240,
+  "updated": "2026-06-01 15:42:43",
+  "count": 16246,
   "items": [
+    {
+      "id": "4909991",
+      "time": "2026-06-01 15:41:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【洋河組織架構調整：營銷中心取消改設14大“戰區”，7大事業部下設多業務單元】近期洋河進行了系統性的組織架構調整。在銷售架構方面，洋河將全國原有的26個營銷中心，精簡整合為14大“戰區”。“戰區”作為市場運營核心，主要負責穩定價格、促進動銷等。其中，洋河對“大本營”江蘇省內市場劃分的最為精細，共分為蘇北、蘇中、蘇南及南京四大“戰區”。除江蘇省外，洋河還在全國市場設定了江西、山東、西北、湖北、河南、河北、安徽、中南、北部、浙滬10大“戰區”。在產品方面，洋河還單設定了7大事業部，並下設相應業務單元，推進專業化運營。（酒業內參）"
+    },
+    {
+      "id": "4909990",
+      "time": "2026-06-01 15:41:55",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4530美元/盎司，日內跌1.37%。"
+    },
+    {
+      "id": "4909989",
+      "time": "2026-06-01 15:41:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗稱，以色列襲擊黎巴嫩致使伊美雙方無法達成協議。"
+    },
+    {
+      "id": "mkt:019e8221-1bc9-766b-8633-55cc3dc7c063",
+      "time": "2026-06-01 15:41:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran foreign ministry: Lebanon ceasefire indispensable to any US‑Iran understanding aimed at ending hostilities】On June 1 local time, Iranian foreign ministry spokesperson BAGHAEI said a ceasefire in Lebanon is an indispensable part of any potential US‑Iran memorandum of understanding aimed at ending hostilities with the United States."
+    },
+    {
+      "id": "mkt:019e8220-e8c6-766b-8633-496de8f68216",
+      "time": "2026-06-01 15:40:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Europe & UK"
+      ],
+      "text": "【UK foreign secretary Cooper visits China; Beijing says 11th China‑UK strategic dialogue to cover cooperation and regional hotspots】Beijing confirmed reports that UK foreign secretary Cooper is in China for the 11th China‑UK strategic dialogue, foreign ministry spokesperson Lin Jian said at a routine briefing. Lin called the dialogue an important high‑level mechanism and said that amid a volatile international environment, strategic communication between China and the UK — both UN Security Council permanent members — has heightened practical significance. He said talks will focus on implementing leaders’ consensus, expanding practical cooperation and discussing international and regional hotspots to deepen a long‑term, stable comprehensive strategic partnership. Beijing said details of the visit will be released in due course."
+    },
+    {
+      "id": "mkt:019e8220-9994-766b-8633-45f311b6876e",
+      "time": "2026-06-01 15:40:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD",
+        "Impact mixed"
+      ],
+      "text": "May final manufacturing PMIs for France, Germany and the euro area are due in 10 minutes."
+    },
+    {
+      "id": "4909988",
+      "time": "2026-06-01 15:40:30",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗外交部：黎巴嫩停火是美伊諒解備忘錄不可或缺的一部分】當地時間6月1日，伊朗外交部發言人巴加埃表示，黎巴嫩地區的停火，是任何潛在的旨在結束與美國戰事的美伊諒解備忘錄不可或缺的一部分。（央視新聞）"
+    },
+    {
+      "id": "4909987",
+      "time": "2026-06-01 15:40:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【成功率99.25%，越疆空弈DobotWAM具身大模型釋出，LIBERO排名第一】6月1日下午訊息，深圳具身智慧企業越疆釋出自研世界動作模型空弈DobotWAM具身大模型，該模型在具身智慧標準評測基準LIBERO上分別完成LIBERO-Spatial、LIBERO-Object、LIBERO-Goal和LIBERO-10四個標準任務套件，覆蓋空間關係理解、物體泛化、目標指令理解以及長時序任務執行等關鍵能力維度，平均成功率達99.25%，領先於π0.5、π0、GR00T-N1.5、π0+FAST等公開模型，以及業內已有資料公佈的其他模型。其中，空弈DobotWAM具身大模型在LIBERO-Object上實現100/100全部成功，在Spatial、Goal和LIBERO-10三個套件中均達到99/100。（新浪科技訊）"
+    },
+    {
+      "id": "4909986",
+      "time": "2026-06-01 15:40:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "土耳其主要股指BIST-100指數<.XU100>回吐部分漲幅，當前上漲0.8%；銀行指數<.XBANK>上漲0.6%。"
+    },
+    {
+      "id": "4909985",
+      "time": "2026-06-01 15:39:44",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【高盛策略師：人工智慧樂觀情緒推動市場大舉增配風險資產】高盛跨資產策略師表示，全球科技股成為本輪金融市場快速且集中增配風險資產的核心標的，對沖基金與散戶投資者紛紛加碼熱門人工智慧相關交易。由克里斯蒂安・穆勒 - 格利斯曼領銜的團隊在研報中指出，不到兩個月時間裡，全球對沖基金淨槓桿率從 70% 以下升至 80% 以上。團隊稱，此番槓桿攀升幅度創下 2025 年 “解放日” 事件以來新高。對沖基金對資訊科技板塊的淨持倉佔比提升 853 個基點，創下有記錄以來最大單季增幅。美股科技股及半導體股的期權持倉水平，重回五年區間內最高梯隊。高盛團隊表示，散戶積極入場，半導體等科技相關板塊資金流入量飆升至本輪週期高點。"
+    },
+    {
+      "id": "4909984",
+      "time": "2026-06-01 15:39:01",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "義大利得利捷股價上漲35%，此前Hydra Investimenti將發起自願公開要約收購，目的是將公司私有化退市。"
+    },
+    {
+      "id": "4909983",
+      "time": "2026-06-01 15:38:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【英國外交大臣庫珀訪華，外交部回應】6月1日，外交部發言人林劍主持例行記者會。會上有記者提問稱，中方昨天釋出了英國外交大臣庫珀訪華並舉行第十一次中英戰略對話的訊息。發言人能否介紹此訪具體情況和中方期待？林劍表示，中英戰略對話是中英雙方重要的高階別對話機制，在變亂交織的國際形勢下，中英作為聯合國安理會常任理事國，加強戰略溝通更具現實意義。此次對話期間，雙方將圍繞落實兩國領導人重要共識，拓展務實合作，以及國際和地區熱點問題進行深入交流，共同推動中英長期穩定的全面戰略伙伴關係深入發展，讓合作成果更好的惠及兩國和世界。關於訪問的具體情況，我們會適時釋出訊息，大家可以保持關注。（環球網）"
+    },
+    {
+      "id": "te:markets:555279",
+      "time": "2026-06-01 15:38:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Cautious to Kick Off June — European stocks started June on a weaker footing, with both the STOXX 50 and STOXX 600 slipping around 0.1%. Investor sentiment remained fragile amid ongoing geopolitical tensions in the Middle East, as the absence of a longer-term agreement between the US and Iran to end hostilities and fully reopen the Strait of Hormuz continued to fuel uncertainty. Over the weekend, the US said it had struck Iranian military sites, while Iran's Revolutionary Guards claimed they had targeted US interests in retaliation. Among individual stocks, Unilever (-1.0%), Airbus (-1.3%), Safran (-1.4%), and Intesa Sanpaolo (-0.8%) were down. In contrast, SAP (+2.0%) and Schneider Electric (+2.6%) outperformed, while energy stocks also advanced, supported by higher oil prices, with Shell (+0.8%) and TotalEnergies (+1.0%) posting gains. Elsewhere, EasyJet surged more than 11% after stating that it had not received any takeover approach from Castlelake."
+    },
+    {
+      "id": "4909982",
+      "time": "2026-06-01 15:38:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【緬甸撣邦南坎鎮爆炸事件致一名中國公民受傷 外交部：目前已獲得救治】6月1日，外交部發言人林劍主持例行記者會。有記者就緬甸一處倉庫爆炸事故提問。林劍表示，5月31日，緬甸撣邦南坎鎮的一處倉庫發生爆炸事故，造成多人傷亡，一名中國公民受傷。中方對事故的遇難者表示深切哀悼，向遇難者家屬和傷者致以誠摯慰問。事件發生後，中方第一時間向緬甸相關方核實情況，請其盡最大的努力救治受傷的中國公民。目前受傷中國公民已獲得救治。中方將繼續密切關注調查進展，為事故的善後提供必要協助。（央視新聞）"
+    },
+    {
+      "id": "mkt:019e821e-9242-766b-8633-3b17960a6fc7",
+      "time": "2026-06-01 15:38:22",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O",
+        "Impact bullish"
+      ],
+      "text": "Piper Sandler raises its price target on Alphabet (GOOG.O) to $445 from $425."
+    },
+    {
+      "id": "4909981",
+      "time": "2026-06-01 15:38:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "【6月1日滬深兩市漲停分析】創業板指縮量跌超2%、科創50跌5%，煤炭、AI應用逆勢大漲，AI硬體、半導體延續調整。粵電力A、合鍛智慧均4連板，天地線上3連板，一圖看懂>>"
+    },
+    {
+      "id": "te:markets:555278",
+      "time": "2026-06-01 15:38:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Starts Week Lower — The FTSE 100 traded lower on Monday as investors monitored developments in the Middle East after the US and Iran exchanged messages over the weekend regarding a draft agreement to extend the ceasefire and reopen the Strait of Hormuz. Sentiment was also affected by reports that Israel expanded its ground operations in Lebanon, undermining a previous truce. Mining stocks were among the biggest decliners, with Fresnillo and Endeavour Mining down nearly 3%. Defence names also retreated, with BAE Systems falling more than 2%, Babcock down 1.8% and Rolls Royce losing 1.7%. In contrast, oil majors Shell and BP gained 1.1% and 0.8% respectively. EasyJet surged more than 10% after responding to reports of takeover interest from Castlelake, stating it had not received any proposal. Meanwhile, Nationwide reported that UK house prices fell 0.6% in May, marking the largest monthly decline since June 2025."
+    },
     {
       "id": "mkt:019e821e-56ca-766b-8633-34d5a50cc2dd",
       "time": "2026-06-01 15:38:06",
@@ -9,6 +168,18 @@
         "MKT News"
       ],
       "text": "India's Nifty Auto index fell 1%."
+    },
+    {
+      "id": "te:markets:555277",
+      "time": "2026-06-01 15:38:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Opens June Muted — The FTSE MIB was broadly flat near 50,000 at the start of the first trading session in June, as caution prevailed amid ongoing uncertainty in the Middle East. The US and Iran are reportedly discussing an extension of the ceasefire and the reopening of the Strait of Hormuz, though no concrete progress has been confirmed. Israel’s expanded ground offensive in Lebanon has also heightened fears of a broader military escalation. On the bourse, gains were led by Eni (+1.3%), tracking higher oil prices, alongside advances in Prysmian (+1.6%), Tenaris (+1.7%), and STMicroelectronics (+1.1%). These were offset by declines across most heavyweight financials, including UniCredit (-0.4%), Intesa Sanpaolo (-0.9%), Banco BPM (-0.6%), and Mediobanca (-0.4%). Unipol Gruppo also slipped 0.7%, despite Moody’s upgrading its Insurer Financial Strength Rating (IFSR) to “A3” with a stable outlook."
     },
     {
       "id": "4909980",
@@ -147879,107 +148050,6 @@
         "公司"
       ],
       "text": "【天陽科技：實控人歐陽建平解除質押1.70%股份】天陽科技公告，公司控股股東、實際控制人歐陽建平於2026年5月21日解除質押828萬股，佔其所持股份10.06%、佔公司總股本1.70%，質押起始日為2025年5月15日，質權人為雲南國際信託有限公司。截至公告日，歐陽建平持股8228.02萬股，累計質押5103萬股，佔其所持股份62.02%、佔公司總股本10.45%。"
-    },
-    {
-      "id": "4898252",
-      "time": "2026-05-25 15:42:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "【長裕集團：公司特種尼龍產品可以在機器人面罩、關節等方面提供產品解決方案】長裕集團5月25日在互動平臺表示，公司特種尼龍產品可以在機器人面罩、關節等方面提供產品解決方案，目前尚處於開發驗證階段，暫未批次供貨。"
-    },
-    {
-      "id": "mkt:019e5e15-e025-711d-be58-eab0a6a800ae",
-      "time": "2026-05-25 15:42:24",
-      "tags": [
-        "MKT News",
-        "Important",
-        "005930.KS"
-      ],
-      "text": "YONHAP: Samsung Non-Chip Unit Union Seeks Halt To Pay Vote"
-    },
-    {
-      "id": "4898251",
-      "time": "2026-05-25 15:42:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "【晶升股份：股東詢價轉讓定價58.33元/股，有效認購倍數3.11倍】晶升股份公告，股東鑫瑞集誠（廈門）創業投資合夥企業（有限合夥）及其一致行動人吳亞宏此前披露擬透過詢價轉讓股份。根據2026年5月25日詢價申購情況，初步確定的本次詢價轉讓價格為58.33元/股。參與詢價轉讓報價及申購的機構投資者共29家，合計有效認購股份數量為860萬股，對應有效認購倍數為3.11倍。本次擬轉讓股份已獲全額認購，初步確定受讓方為15家機構投資者，擬受讓股份總數為276.73萬股。受讓方在受讓後6個月內不得轉讓。"
-    },
-    {
-      "id": "4898250",
-      "time": "2026-05-25 15:42:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【九強生物：獲得2項發明專利證書】九強生物公告，公司於近期收到中華人民共和國國家智慧財產權局頒發的2項專利證書，專利名稱分別為“用於確定血型抗原的檢測試劑”和“一種皮質醇檢測試劑盒”，專利權人均為九強生物，專利型別均為發明，授權日期均為2026年5月19日。上述發明專利證書的取得不會對公司近期生產經營產生重大影響，但有利於發揮公司的智慧財產權優勢，促進技術創新，提升公司的核心競爭力。"
-    },
-    {
-      "id": "4898249",
-      "time": "2026-05-25 15:41:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "【上緯新材工商資訊新增人工智慧硬體研發銷售等經營範圍】記者注意到，根據企查查資訊，近日上緯新材變更了經營範圍，新增電子產品銷售；人工智慧硬體銷售;智慧家庭消費裝置製造；智慧家庭消費裝置銷售；軟體開發；軟體銷售；人工智慧基礎資源與技術平臺；人工智慧公共服務平臺技術諮詢服務；人工智慧應用軟體開發；機械零件、零部件銷售;計算機軟硬體及輔助裝置零售；電子、機械裝置維護(不含特種裝置)；網際網路銷售(除銷售需要許可的商品)。 此前，該公司管理層面現核心調整：原董事長、法定代表人蔡朝陽卸任，田華接任法定代表人，“稚暉君” 彭志輝正式出任董事長一職。（科創板日報）"
-    },
-    {
-      "id": "4898248",
-      "time": "2026-05-25 15:41:34",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【OpenAI IPO預期推動軟銀股價創新高】軟銀集團股價週一升至歷史新高，市場押注其所持OpenAI及SB Energy 股份未來若完成上市，可能帶來鉅額回報。自5月20日以來，軟銀股價累計上漲40%，公司市值突破40萬億日元（2520億美元）。上週連續兩日的大漲推動軟銀股價飆升，此前有報道稱，OpenAI正準備在未來數日內提交IPO申請。電力基礎設施公司SB Energy也表示，計劃在美國秘密提交IPO申請。隨著OpenAI似乎越來越接近IPO，市場對Anthropic、谷歌和xAI等競爭對手威脅OpenAI地位的擔憂有所緩解。TokaiTokyo Intelligence Laboratory 高階分析師Takashi Nakagawa表示，市場“對於期待已久的OpenAI IPO可能終於接近現實感到極為興奮”。他稱，此舉將提高人工智慧領域當前較為不透明估值的透明度。軟銀投資組合中大量為由AI驅動的非上市初創企業。"
-    },
-    {
-      "id": "4898247",
-      "time": "2026-05-25 15:40:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "【宣泰醫藥：鹽酸安非他酮緩釋片獲哥倫比亞INVIMA批准文號】宣泰醫藥(688247)5月25日公告，公司收到哥倫比亞國家藥品和食品監督管理局（簡稱“哥倫比亞INVIMA”）的通知，公司向其申報的鹽酸安非他酮緩釋片的仿製藥申請獲得正式批准。鹽酸安非他酮緩釋片的主要成分是鹽酸安非他酮，鹽酸安非他酮屬於氨基酮類抗抑鬱藥，此次獲批適應症為治療重度抑鬱症以及預防季節性情感障礙。"
-    },
-    {
-      "id": "4898246",
-      "time": "2026-05-25 15:40:31",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "行業資料顯示，憑藉高階 Galaxy S26 系列與入門級 Galaxy A 系列手機銷量穩定，三星電子一季度登頂中南美、中東及東南亞智慧手機市場。"
-    },
-    {
-      "id": "4898245",
-      "time": "2026-05-25 15:39:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "惠譽將鎧俠評級上調至“BBB-”；展望穩定。"
-    },
-    {
-      "id": "4898244",
-      "time": "2026-05-25 15:39:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "【世界盃帶動巴西國內零售市場消費熱情】隨著2026美加墨世界盃足球賽的臨近，巴西國內零售業開始出現消費“升溫”。巴西全國零售管理者聯合會（CNDL）和巴西信貸保護服務機構共同進行的一項調查顯示，全國近60%的消費者打算在世界盃期間購物或享受服務。這項統計顯示，最受歡迎的消費品將是無酒精飲料、零食、燒烤肉類和啤酒。此外，61%的消費者計劃購買世界盃官方或主題T恤，以及旗幟、喇叭等製造氛圍的商品。（新華社）"
-    },
-    {
-      "id": "4898243",
-      "time": "2026-05-25 15:39:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "波蘭財長： 保留茲羅提貨幣有助於更好地調整貨幣政策。"
-    },
-    {
-      "id": "4898242",
-      "time": "2026-05-25 15:38:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "【義大利聖安娜高等研究學院推動機器人技術與人類生活結合】義大利比薩聖安娜高等研究學院的機械智慧研究所正在推動機器人技術與人類生活的緊密結合。該研究所的人機互動實驗室正致力於開發外骨骼裝置和康復機器人，以改善人類生活質量和工作安全性。研究人員強調，機器人技術的核心在於適應和服務於人類需求，而非替代人類。聖安娜高等研究學院已與中國高校展開合作，希望在康復機器人、外骨骼等領域加強交流，共同推動技術的全球應用。(新華社)"
     }
   ]
 }
