@@ -1,7 +1,125 @@
 {
-  "updated": "2026-06-01 22:14:23",
-  "count": 16907,
+  "updated": "2026-06-01 22:18:17",
+  "count": 16918,
   "items": [
+    {
+      "id": "mkt:019e838c-2a4d-7552-8900-2a64807db7a8",
+      "time": "2026-06-01 22:17:41",
+      "tags": [
+        "MKT News",
+        "SPCE.N"
+      ],
+      "text": "Virgin Galactic (SPCE.N) shares were halted for volatility; gains narrowed to 24% after an earlier 44% jump."
+    },
+    {
+      "id": "4911051",
+      "time": "2026-06-01 22:17:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "維珍銀河股價漲幅收窄至24%，此前一度上漲44%。"
+    },
+    {
+      "id": "4911050",
+      "time": "2026-06-01 22:17:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "維珍銀河股價在漲幅收窄後因波動而暫停交易。"
+    },
+    {
+      "id": "4911049",
+      "time": "2026-06-01 22:17:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：卡達首相兼外交部長會見阿聯酋大使。"
+    },
+    {
+      "id": "mkt:019e838b-99b2-7552-8900-26b8e65476f1",
+      "time": "2026-06-01 22:17:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar News Agency reported that Qatar's prime minister and foreign minister met the UAE ambassador."
+    },
+    {
+      "id": "mkt:019e8389-67f9-7ccf-b269-7d1906f41705",
+      "time": "2026-06-01 22:14:39",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "【IDF orders evacuation of Beirut southern suburb Dahiyeh】On June 1 the Israeli Defense Forces warned residents of Dahiyeh, a southern suburb of Beirut, to evacuate and said it would strike targets in the area if Hezbollah continues firing rockets at Israeli towns. The IDF said a suspected Hezbollah-launched drone struck the northern Israeli town of Metula on June 1. Earlier the IDF said three rockets were fired from Lebanon into northern Israel and were intercepted by Israeli air-defence systems; the attacks caused no casualties."
+    },
+    {
+      "id": "4911048",
+      "time": "2026-06-01 22:14:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "諾華製藥股價下跌3%，正邁向2025年11月以來表現最差的單日行情。"
+    },
+    {
+      "id": "mkt:019e8388-fca0-7ccf-b269-7507f1bc25f8",
+      "time": "2026-06-01 22:14:13",
+      "tags": [
+        "MKT News",
+        "NVS.N",
+        "Impact bearish"
+      ],
+      "text": "Novartis (NVS.N) shares fell 3%, on track for their weakest performance since November 2025."
+    },
+    {
+      "id": "4911047",
+      "time": "2026-06-01 22:14:06",
+      "tags": [
+        "央行",
+        "宏觀",
+        "國際"
+      ],
+      "text": "【俄財政官員告知普京，戰爭開支超出了承受能力】俄羅斯政府高層官員已告知俄羅斯總統普京，稱在烏克蘭的戰爭開支已超出俄羅斯的承受能力，這是自俄烏衝突開始以來莫斯科內部出現嚴重分歧的最明顯跡象。據熟悉相關情況的人士所述，俄羅斯財政部和央行的官員已向克里姆林宮提出警告，稱目前預計的國防支出水平可能會導致政府預算赤字急劇擴大，從而引發嚴重後果。這些官員近幾個月來對俄羅斯的經濟狀況和國家預算狀況愈發擔憂，他們已提議削減國防開支。然而，國防部一些高層官員以及部分克里姆林宮官員堅決要實現普京的戰爭目標，他們堅持要維持軍費開支。"
+    },
+    {
+      "id": "mkt:019e8388-e3f3-7ccf-b269-6ae1a3ada505",
+      "time": "2026-06-01 22:14:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Russian finance officials tell Putin war spending exceeds capacity】Senior Russian officials have told President Putin that war spending in Ukraine has exceeded Russia’s capacity, people familiar with the matter said, the clearest sign yet of serious internal rifts in Moscow since the conflict began. Officials from the finance ministry and the central bank warned the Kremlin that currently projected defence spending could sharply widen the government budget deficit and trigger severe consequences. They have grown increasingly worried about the economy and public finances in recent months and have proposed cutting defence expenditures. The defence ministry’s senior officers and some Kremlin officials, however, insist on maintaining military spending to achieve Putin’s war objectives."
+    },
+    {
+      "id": "te:markets:555426",
+      "time": "2026-06-01 22:14:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Sterling Dips Amid Middle East Uncertainty — The British pound slipped toward $1.34, reaching its lowest point since May 19, as mounting Middle East tensions reduced the likelihood of a quick Strait of Hormuz reopening and heightened concerns over the UK’s economic prospects. According to Iran’s Tasnim News Agency, Tehran announced it would suspend negotiations with the US regarding Israeli strikes on Lebanon and fully block the Strait of Hormuz, alleging that Washington had \"violated the ceasefire on all fronts.\" The resulting spike in oil prices led investors to boost expectations for Bank of England rate hikes, with markets now anticipating two increases in 2026. Domestically, UK house prices declined by 0.6% in May, a sharper drop than the forecasted 0.1% and the largest monthly fall since June 2025. Nationwide linked the decrease to fading consumer confidence and the economic strain from rising energy prices tied to the Iran conflict."
+    },
+    {
+      "id": "4911046",
+      "time": "2026-06-01 22:14:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Arla Foods阿拉福茲與DMK集團宣佈合併獲批】Arla Foods阿拉福茲與DMK集團宣佈，其合併事項已獲得全部監管批准，並於2026年6月1日正式生效，合併後的企業名沿用Arla Foods阿拉福茲，總部設於丹麥。合併後，每年牛奶總供應量將達到約194億公斤。"
+    },
+    {
+      "id": "4911045",
+      "time": "2026-06-01 22:13:58",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國10年期國債收益率漲幅擴大至7.5個基點，在美國ISM製造業指數釋出後重新整理日高至4.51%上方，北京時間20:44重新整理日低至4.4433%，隨後迅速拉昇——打亂了08:00以來持穩於4.46%附近的狀態。"
+    },
     {
       "id": "4911044",
       "time": "2026-06-01 22:12:06",
@@ -154225,24 +154343,6 @@
         "國際"
       ],
       "text": "【伊朗稱使用新型防空手段擊落敵方無人機】據伊朗邁赫爾通訊社25日報道，伊朗防空力量當天使用新型防空手段在波斯灣上空擊落一架敵方無人機。報道說，伊方此次行動使用了配備新型系統的“阿爾什神箭手”防禦體系，在波斯灣上空成功實施攔截。伊方稱，該系統具備一定隱蔽能力，相關技術和作戰細節尚未公開。報道說，這一行動表明伊朗具備應對“隱身無人機”進入波斯灣空域的能力。另據邁赫爾通訊社當天早些時候報道，伊朗格什姆島地區傳出防空警報聲，當地居民報告稱聽到相關聲響。（新華社）"
-    },
-    {
-      "id": "4898941",
-      "time": "2026-05-25 22:16:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "【“民營企業進邊疆”行動在遼寧丹東累計簽約專案132個】記者5月25日從“民營企業進邊疆·遼寧行”大會獲悉，自2025年下半年活動啟動招商引資以來，丹東市累計簽約民營企業投資專案132個。本屆活動以“推進中華民族共同體建設、促進邊疆地區高質量發展”為主題，開展了儀器儀表、汽車零部件及紡織服裝推介，特色農業專場推介，海洋經濟發展推介，文體旅商產業融合發展推介，結合遼寧丹東資源稟賦展示當地產業基礎、區位優勢。（新華社）"
-    },
-    {
-      "id": "mkt:019e5f7e-7483-711d-be5d-08edfd68e4a0",
-      "time": "2026-05-25 22:15:59",
-      "tags": [
-        "MKT News",
-        "LLY.O",
-        "Impact bullish"
-      ],
-      "text": "【LILLY Verve-102 Phase 1b Cuts PCSK9 Up To 88%, LDL-C Up To 62%】LILLY Verve-102 single infusion cuts PCSK9 up to 88%, LDL-C up to 62% in Phase 1b; effect durable to 18 months; no serious treatment-related AEs; FDA Fast Track; Phase 2 Planned By Year-End"
     }
   ]
 }
