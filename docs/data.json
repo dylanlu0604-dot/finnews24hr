@@ -1,7 +1,159 @@
 {
-  "updated": "2026-06-01 21:18:10",
-  "count": 16739,
+  "updated": "2026-06-01 21:22:07",
+  "count": 16748,
   "items": [
+    {
+      "id": "mkt:019e8358-d803-7112-8c91-f6d4064ac506",
+      "time": "2026-06-01 21:21:38",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "WTI crude futures jumped about 5% intraday to $91.74/bbl."
+    },
+    {
+      "id": "mkt:019e8358-b2dc-7112-8c91-edd9d2046c8e",
+      "time": "2026-06-01 21:21:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi Arabia condemned Israel's 'aggression' against Lebanon, SPA said."
+    },
+    {
+      "id": "4910914",
+      "time": "2026-06-01 21:21:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "沙烏地阿拉伯譴責以色列對黎巴嫩實施侵略行為。"
+    },
+    {
+      "id": "4910913",
+      "time": "2026-06-01 21:20:47",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油日內漲5%，現報91.74美元/桶。"
+    },
+    {
+      "id": "mkt:019e8357-f06d-7112-8c91-e174c241ea6d",
+      "time": "2026-06-01 21:20:38",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Reports said U.S. Treasuries extended losses after Iran halted communications with the U.S."
+    },
+    {
+      "id": "mkt:019e8357-85a3-7112-8c91-da80ea3ed6ef",
+      "time": "2026-06-01 21:20:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran suspends mediator-led U.S. talks, orders full blockade of Strait of Hormuz】Iranian state media said Tehran has suspended mediator-led negotiations and document exchanges with the United States, citing Israeli strikes on Lebanon and ceasefire violations across multiple fronts. Iran and the Axis of Resistance said they will fully block the Strait of Hormuz and open other fronts, including the Mandeb Strait, to punish Israel and its supporters. Iranian officials demanded Israel immediately halt military operations in Gaza and Lebanon and fully withdraw from occupied areas in Lebanon before talks resume; Iran said it will not negotiate until those conditions are met."
+    },
+    {
+      "id": "te:markets:555385",
+      "time": "2026-06-01 21:20:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Lithium Holds Retreat from 2-Year High — Lithium carbonate prices in China were near CNY 180,000 per tonne, below the two-year high of CNY 200,500 from May 13th as higher prices drove producers to restart mining activity. Mineral Resources will restart its Bald Hill lithium mine following an 18-month suspension, while Core Lithium restarted its Finniss project, making up for shortages elsewhere. Zimbabwe imposed export quotas for lithium concentrates and a full export ban to start next year, and stated exports would be allowed for processed lithium to stimulate the investment in local processing. On the demand front, New data in top consumer China showed that new energy vehicles output, the top source of lithium demand due to their batteries, rose by 5.5% annually to 1.32 million units, while sales rose by 9.7% to 1.34 million units. Demand also remained supported by Chinese investment in power infrastructure, recently consolidated with Beijing stating it would double national EV charging capacity to 180 gigawatts by 2027."
+    },
+    {
+      "id": "4910912",
+      "time": "2026-06-01 21:19:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗媒體6月1日報道，鑑於以色列在黎巴嫩的持續軍事行動，伊朗談判團隊暫停透過中間人同美國的對話。（新華社）"
+    },
+    {
+      "id": "4910911",
+      "time": "2026-06-01 21:19:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗塔斯尼姆通訊社：“抵抗軸心”將啟動所有戰線行動。"
+    },
+    {
+      "id": "mkt:019e8356-456d-7112-8c91-d5346abebf2d",
+      "time": "2026-06-01 21:18:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "TASNIM News reports Iran says it will not negotiate until Israel halts operations in Lebanon and Gaza."
+    },
+    {
+      "id": "mkt:019e8355-78da-7112-8c91-cd466d915902",
+      "time": "2026-06-01 21:17:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "TASNIM NEWS reports Iran and the Resistance Front have decided to fully block the Strait of Hormuz; the report says other fronts, including the Bab el-Mandeb Strait, could be activated in response."
+    },
+    {
+      "id": "4910910",
+      "time": "2026-06-01 21:17:55",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克600指數跌幅擴大，最新報跌0.7%。"
+    },
+    {
+      "id": "mkt:019e8355-2da0-7112-8c91-c6b14e0293f5",
+      "time": "2026-06-01 21:17:37",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Tasnim News reported Iranian officials demanded Israel immediately halt military operations in Gaza and Lebanon and fully withdraw from areas of Lebanon it occupies before talks can resume."
+    },
+    {
+      "id": "4910909",
+      "time": "2026-06-01 21:17:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "德國10年期國債收益率上漲6個基點，報2.99%。"
+    },
+    {
+      "id": "4910908",
+      "time": "2026-06-01 21:16:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "受伊朗中止與美國談判訊息影響，美元匯率升至日內高點。"
+    },
     {
       "id": "4910907",
       "time": "2026-06-01 21:16:43",
@@ -152503,56 +152655,6 @@
         "國際"
       ],
       "text": "Gas Buddy石油分析負責人Patrick De Haan：在正式簽署協議、大量船舶恢復通航前，美國汽油均價大機率將持續高於每加侖4美元。只有市場信心恢復、航運往來重回常態，油價才會大幅回落。"
-    },
-    {
-      "id": "4898891",
-      "time": "2026-05-25 21:20:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "【創維數字：董事長施馳擬減持公司不超過0.5999%股份】創維數字公告，董事長施馳持有公司股份2777.05萬股（佔公司總股本2.4144%），擬自減持計劃公告之日起15個交易日後的3個月內，透過集中競價方式減持不超過690萬股（佔公司總股本0.5999%）。此外，董事、副總經理、董事會秘書張知持有公司股份243.93萬股（佔公司總股本0.2121%），擬同期間透過集中競價方式減持不超過60萬股（佔公司總股本0.0522%）。減持原因為個人自身資金安排需求。"
-    },
-    {
-      "id": "4898890",
-      "time": "2026-05-25 21:20:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "【北玻股份：公司目前尚未涉及半導體玻璃基板產品】北玻股份5月25日在業績說明會上表示，公司主營業務涵蓋玻璃鋼化裝置、低輻射鍍膜節能玻璃生產線、玻璃深加工智慧工廠、節能三元流風機、高溫電窯爐裝備、各類高階深加工玻璃等品類的體系化產品，目前尚未涉及半導體玻璃基板產品。"
-    },
-    {
-      "id": "4898889",
-      "time": "2026-05-25 21:20:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "霍爾木茲海峽監測網站資料顯示，過去24小時僅有兩艘船舶通行，遠低於戰前日均60艘的通航水平。"
-    },
-    {
-      "id": "4898888",
-      "time": "2026-05-25 21:19:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【睿昂基因：兩種較新產品銷量增速迅猛，正在快速開啟市場】5月25日晚，睿昂基因釋出關於2025年年度報告的資訊披露監管問詢函回覆公告。公告中提到：睿昂基因“白血病相關15種融合基因檢測試劑盒(熒光RT-PCR法) ”及“BCR-ABL P210融合基因檢測試劑盒（熒光RT-PCR法）”兩種較新產品正處於市場快速匯入階段，2025年度新增較多入院客戶，銷量增速迅猛。"
-    },
-    {
-      "id": "4898887",
-      "time": "2026-05-25 21:18:59",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "玻璃連續主力合約日內跌1%，現報1026.00元。"
-    },
-    {
-      "id": "4898886",
-      "time": "2026-05-25 21:18:28",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【伊朗稱擊落一架敵方無人機】據伊朗媒體25日報道，伊朗使用新型防空系統在波斯灣上空擊落一架敵方無人機。（新華社）"
     }
   ]
 }
