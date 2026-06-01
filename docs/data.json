@@ -1,7 +1,141 @@
 {
-  "updated": "2026-06-01 18:21:09",
+  "updated": "2026-06-01 18:25:01",
   "count": 16471,
   "items": [
+    {
+      "id": "mkt:019e82b6-4f3c-7112-8c8c-8a8a335123c5",
+      "time": "2026-06-01 18:24:06",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Macron: France willing to support US-Iran talks】French President Macron said on June 1 on social media that France is willing to support US-Iran negotiations; a France- and UK-led multinational escort operation will be prepared to deploy after a US-Iran agreement to help secure shipping through the Strait of Hormuz. Macron said he conveyed the offer during a May 31 call with US President Trump and that France can provide expertise and capabilities, particularly on nuclear-related elements of any deal."
+    },
+    {
+      "id": "4910464",
+      "time": "2026-06-01 18:24:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "比亞迪5月插電式混合動力乘用車銷量178316輛，月環比+13%。"
+    },
+    {
+      "id": "4910463",
+      "time": "2026-06-01 18:23:43",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "花旗集團將福特目標股價從13美元上調至19美元。"
+    },
+    {
+      "id": "4910462",
+      "time": "2026-06-01 18:23:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "據沙烏地阿拉伯阿拉比亞電視臺：以色列方面表示，將在黎巴嫩利塔尼河地區周邊設立一個由軍方控制的區域。"
+    },
+    {
+      "id": "4910461",
+      "time": "2026-06-01 18:23:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "比亞迪5月乘用車銷量376990輛，環比+20%。"
+    },
+    {
+      "id": "mkt:019e82b5-5ac8-7112-8c8c-84e934651287",
+      "time": "2026-06-01 18:23:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "China EV Leaders",
+        "1211.HK",
+        "Impact bearish"
+      ],
+      "text": "BYD reported May new-energy vehicle (NEV) sales of 383,453 units; year-to-date NEV sales 1,405,039 units, down 20.32% YoY cumulatively."
+    },
+    {
+      "id": "te:economy:555355",
+      "time": "2026-06-01 18:22:51",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Portugal",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "Portugal Industrial Production Flat in April as Energy Output Plunges — Portugal's industrial production stagnated in April 2026 compared to the same month a year earlier, marking a sharp deceleration from an upwardly revised 4.1% growth in March, primarily driven by a 17.2% plunge in energy output, attributed to a decline in electricity production. Excluding energy, industrial production growth slowed to 3.8% from 6.0%. Output growth also softened in other sectors: consumer goods (3.6% vs. 4.4% in March), intermediate goods (4.9% vs. 6.8%), and capital goods (2.1% vs. 7.3%). On a monthly basis, industrial activity declined 2.6% in April, following a revised 4.3% increase in March."
+    },
+    {
+      "id": "te:economy:555354",
+      "time": "2026-06-01 18:22:48",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Portugal",
+        "Retail Sales YoY",
+        "Importance 1"
+      ],
+      "text": "Portugal Retail Trade Growth Slows in April — Retail sales in Portugal rose 4.3% year-on-year in April 2026, easing from a revised 5.7% increase in March. Growth in retail trade slowed to 4.9% from 6.0%, while wholesale trade growth decelerated to 1.5% from 4.4%. In contrast, the trade, maintenance, and repair of motor vehicles sector strengthened, with growth accelerating to 12.2% from 9.2% in March. On a monthly basis, retail sales fell 1.5%, reversing part of the 2.4% increase recorded in March. Meanwhile, employment increased by 0.7% year-on-year in April, while wages rose 6.1% and hours worked increased 1.9%."
+    },
+    {
+      "id": "mkt:019e82b4-fe3c-7112-8c8c-7add9f712a08",
+      "time": "2026-06-01 18:22:39",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Saudi Al Arabiya TV reports Israel said it will establish a military-controlled zone around Lebanon's Litani River area."
+    },
+    {
+      "id": "4910460",
+      "time": "2026-06-01 18:22:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "比亞迪今年累計汽車銷量141萬輛，同比-20%。"
+    },
+    {
+      "id": "4910459",
+      "time": "2026-06-01 18:22:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "比亞迪5月新能源汽車銷量383453輛。"
+    },
+    {
+      "id": "mkt:019e82b3-cf9b-7112-8c8c-7468d46bfaa7",
+      "time": "2026-06-01 18:21:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "An Indian trade official said New Delhi hopes to reach an agreement with the United States that would give India a competitive advantage against other economies."
+    },
+    {
+      "id": "4910458",
+      "time": "2026-06-01 18:21:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度貿易官員：更傾向於與美國達成一份能讓印度相對其他經濟體同行獲得競爭優勢的協議。"
+    },
+    {
+      "id": "4910457",
+      "time": "2026-06-01 18:20:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天龍股份：擬出資3180萬元認繳私募基金49.2260%份額】天龍股份公告，公司作為有限合夥人擬以自有資金認繳出資3180萬元，佔湖州航啟聿福創業投資合夥企業（有限合夥）認繳出資總額的49.2260%。該基金目標出資總額為6460萬元，專項投資於高新技術行業領域的未上市企業股權。本次交易不構成關聯交易及重大資產重組，無需提交股東會審議。"
+    },
     {
       "id": "mkt:019e82b2-dd75-7112-8c8c-6c59d49fb15f",
       "time": "2026-06-01 18:20:20",
@@ -72,6 +206,14 @@
         "國際"
       ],
       "text": "印度政府官員：印度燃油零售商每售出一升國內航班用航空煤油，就會產生30盧比的收入損失。"
+    },
+    {
+      "id": "4910450",
+      "time": "2026-06-01 18:17:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度貿易訊息人士：預計在獲得美國301條款下貿易行動的豁免後，將與美國最終確定關稅稅率。"
     },
     {
       "id": "mkt:019e82b0-54e0-7112-8c8c-53787a21d604",
@@ -149984,128 +150126,6 @@
         "Importance 1"
       ],
       "text": "South Africa 10-Year Bond Yield at 1-Month Low — South Africa’s 10-year bond yield fell further toward 8.55%, the lowest since April 22, reflecting improved global risk sentiment on hopes of a US–Iran agreement. President Trump said that an agreement involving the US, Iran, and several regional countries had been “largely negotiated” and was awaiting finalization, while cautioning that talks should not be rushed. Domestically, South Africa received its first positive outlook revision from Moody’s Ratings since 2007, with the agency citing the country’s improving fiscal position and commitment to reforms. Meanwhile, traders braced for the SARB's meeting scheduled for May 28, which could bring the first hike since May 2023. Headline inflation surged to 4% in April from 3.1% in March, amid rising price pressures from the Middle East, and it is expected to climb further in the near-term. The SARB is seen lifting rates by 25 basis points to contain potential second-round effects from fuel-driven inflation, though a hold remains possible."
-    },
-    {
-      "id": "4898593",
-      "time": "2026-05-25 18:24:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【設計總院：全資子公司參股小貸公司擬登出清算】設計總院公告稱，全資子公司高速檢測參股的小貸公司經營不佳，自2025年7月1日起停止新增業務，各股東協商擬對其實施登出清算。高速檢測持有小貸公司10%股權（1500萬股權）。因小貸公司部分股東與設計總院控股股東均為安徽交控，本次交易構成關聯交易，但未構成重大資產重組，也未達股東會審議標準。過去12個月，公司與安徽交控及其子公司除日常關聯交易外累計發生關聯交易6900萬元。小貸公司登出後，不會對公司經營和財務狀況產生不利影響。"
-    },
-    {
-      "id": "4898592",
-      "time": "2026-05-25 18:24:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【易華錄：2025年末淨資產為負 股票被實施退市風險警示】易華錄公告稱，2025年度經審計後歸母淨資產為 -19.53億元，主要因近三個會計年度持續虧損及計提大額減值。公司股票於2026年4月30日被實施退市風險警示，簡稱變更為“*ST易錄”。2026年4月28日，公司因涉嫌資訊披露違法違規被證監會立案，目前調查尚在進行中。此外，截至2025年12月31日，公司涉多起訴訟，涉案金額較大，且存在債務逾期、提供流動性支援函等情況。"
-    },
-    {
-      "id": "4898591",
-      "time": "2026-05-25 18:24:37",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【ST海龍：股票交易異常波動 一季度營收2.77億元】ST海龍公告稱，公司股票於2026年5月22日、5月25日連續兩個交易日收盤價格跌幅偏離值累計超12%，屬異常波動。2026年一季度公司實現營收2.77億元，淨利潤502萬元，內外部經營環境未變。公司、大股東及實控人不存在應披露未披露重大事項，異常波動期間大股東及實控人未買賣公司股票。此外，公司一起訴訟案執行結果、股權收購交易均存不確定性，股票已被實施其他風險警示。"
-    },
-    {
-      "id": "4898590",
-      "time": "2026-05-25 18:24:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "【ST亞光：釋出庭外重組債權申報通知 提示多項風險】ST亞光公告稱，為解決債務問題，公司實施庭外重組，沅江市人民政府確定亞光科技清算組為輔助機構。公司現釋出債權申報通知，債權人應於2026年6月25日前透過網路債權申報系統申報債權。如未來法院裁定受理公司重整，庭外重組階段的債權申報視為在後續正式重整程式中已申報。公司提示，是否進入重整程式尚不確定，若法院裁定受理重整，公司股票可能被實施退市風險警示；若重整失敗，公司存在被宣告破產及股票被終止上市的風險。"
-    },
-    {
-      "id": "4898589",
-      "time": "2026-05-25 18:24:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "【輝隆股份：擬登出回購股份1157.72萬股並減少註冊資本】輝隆股份公告稱，公司於2026年5月6日召開董事會、5月25日召開股東會，審議透過變更回購股份用途並登出、減少註冊資本及修訂《公司章程》的議案。公司擬登出回購專用證券賬戶的11,577,228股，登出後總股本將由946,518,080股減至934,940,852股，註冊資本由9.47億元減至9.35億元。根據規定，債權人可在相應時間要求清償債務或提供擔保。"
-    },
-    {
-      "id": "4898588",
-      "time": "2026-05-25 18:23:43",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國總統特朗普25日在社交媒體上發文說，與伊朗的協議要麼是“一項偉大而有意義的協議”，要麼“就沒有協議”，他不會簽署為伊朗獲得核武器鋪平道路的協議。（新華社）"
-    },
-    {
-      "id": "4898587",
-      "time": "2026-05-25 18:23:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：伊朗民航官員表示，歷經近期美以軍事打擊後，該國 20 座機場已全面恢復運營。"
-    },
-    {
-      "id": "4898586",
-      "time": "2026-05-25 18:23:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "【京東集團與三一集團簽訂戰略合作協議】5 月 25 日，京東集團與三一集團在北京簽署戰略合作協議。京東集團SEC副主席、京東集團CEO許冉與三一集團董事伏衛忠共同出席，並見證雙方有關負責人完成簽約。（京東黑板報）"
-    },
-    {
-      "id": "4898585",
-      "time": "2026-05-25 18:22:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【ST長方：債權人申請庭外重組相關申請獲受理】ST長方公告，公司近日收到重組中心發來的《福田企業重組服務中心專案受理通知書》，獲悉申請人提交關於公司的重組專案申請材料齊全，且內容符合《福田企業重組服務中心工作規程（試行）》規定的受理條件，經徵詢公司意見且公司表示無異議後，重組中心決定予以受理。"
-    },
-    {
-      "id": "mkt:019e5ea8-b0f5-711d-be5a-eac865b896d7",
-      "time": "2026-05-25 18:22:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran Civil Aviation Official: 20 Airports Resume Operations Nationwide"
-    },
-    {
-      "id": "4898584",
-      "time": "2026-05-25 18:22:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "【ST恆信：控股股東孟憲民質押320萬股用於償債】ST恆信公告，控股股東孟憲民質押320萬股，用於償還債務，質權人為張凱，質押起始日2026年5月22日，至辦理解除質押登記手續之日；截至公告披露日，其累計質押6165.5萬股，佔其所持股份數量比例98.58%，佔公司總股本比例10.19%。"
-    },
-    {
-      "id": "4898583",
-      "time": "2026-05-25 18:22:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "【王力安防：擬定增募資不超過3億元用於智慧門窗專案及補充流動資金】王力安防公告，公司於2026年5月25日召開第四屆董事會第四次會議審議透過2026年度向特定物件發行股票預案。本次擬向包括實際控制人家族成員王健愷在內的不超過35名特定物件發行股票，王健愷擬以不超過6000萬元現金認購。發行價格不低於定價基準日前20個交易日股票交易均價的80%，王健愷認購股份限售18個月，其他發行物件限售6個月。本次發行數量不超過1.34億股（含本數），募集資金總額不超過3億元（含本數），扣除發行費用後擬用於“湖北王力安防產品有限公司智慧門窗系列產品專案”2.1億元及補充流動資金9000萬元。本次發行尚需公司股東會審議透過、上交所稽核透過及中國證監會註冊。"
-    },
-    {
-      "id": "4898582",
-      "time": "2026-05-25 18:22:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "【金溢科技：股東王麗娟擬減持不超過0.44%股份】金溢科技公告，自披露起15個交易日後的3個月內（2026年6月17日至2026年9月16日，法律法規禁止減持的期間除外），持股310.5萬股（佔公司剔除回購專用證券賬戶後總股本的1.80%，佔公司總股本的1.76%）的股東王麗娟因個人資金需求，擬透過集中競價或大宗交易減持不超過77.63萬股（佔公司剔除回購專用證券賬戶後總股本的0.45%，佔公司總股本的0.44%）；若採用集中競價，任意連續90日內減持不超過公司股份總數的1%；若採用大宗交易，不超過2%；減持價格隨行就市。"
-    },
-    {
-      "id": "4898581",
-      "time": "2026-05-25 18:22:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "【地質災害橙色預警：安徽江西湖北等地局地發生災害氣象風險高】自然資源部與中國氣象局5月25日18時聯合釋出地質災害氣象風險預警：預計，5月25日20時至26日20時，浙江西部、安徽南部和西部、江西東北部、河南南部、湖北中東部和西南部、湖南西北部、重慶東北部、西藏東南部等地部分地區發生地質災害的氣象風險較高（黃色預警），其中，安徽南部和西部、江西東北部、湖北東北部等地局地發生地質災害的氣象風險高（橙色預警）。"
-    },
-    {
-      "id": "4898580",
-      "time": "2026-05-25 18:21:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "【播恩集團：擬簽署股權收購條款清單，暫定交易價格為1.25億元】播恩集團公告，擬與交易對方簽署《有關股權轉讓協議的TermSheet》，透過現金方式收購希傑國際控股有限公司持有的希傑（瀋陽）飼料有限公司、希傑（天津）飼料有限公司及希傑（聊城）飼料有限公司三家目標公司各100%的股權。本次交易的暫定交易價格為人民幣1.25億元，最終交易價格將由符合《中華人民共和國證券法》規定的獨立第三方資產評估機構出具的評估報告為基礎協商確定。公司需支付人民幣700萬元交易保證金，若截至2026年8月31日未能簽署正式股權轉讓協議，該保證金將不予退還。"
     }
   ]
 }
