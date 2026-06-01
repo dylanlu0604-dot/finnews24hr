@@ -1,7 +1,19 @@
 {
-  "updated": "2026-06-02 02:05:00",
-  "count": 17036,
+  "updated": "2026-06-02 02:08:52",
+  "count": 17034,
   "items": [
+    {
+      "id": "mkt:019e845e-683f-7993-96f8-70b046549556",
+      "time": "2026-06-02 02:07:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Anthropic reportedly filed draft S-1 for IPO】Anthropic has reportedly submitted a confidential draft S-1 as it races OpenAI to list, targeting a Wall Street IPO as early as this autumn. Share count and pricing have not been set. Anthropic, OpenAI and SpaceX are advancing listing plans to open a major financing channel. In its most recent financing Anthropic raised $65.0 bln and was valued at $965.0 bln, surpassing OpenAI. Demand for its tools has surged as clients adopt them for coding and other tasks. Goldman Sachs, JP Morgan and Morgan Stanley are expected to be considered for lead-manager roles on the Anthropic and OpenAI listings, sources said."
+    },
     {
       "id": "mkt:019e8458-7390-7993-96f8-6aaf303033f7",
       "time": "2026-06-02 02:00:49",
@@ -155508,30 +155520,6 @@
         "國際"
       ],
       "text": "以色列高階官員：遏制階段已然結束，以色列決定對真主黨發動大規模打擊。"
-    },
-    {
-      "id": "4899086",
-      "time": "2026-05-26 02:08:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯外長拉夫羅夫與美國國務卿魯比奧通電話。他向美方通報，俄軍正對基輔境內供烏軍使用的相關設施展開系統性打擊。"
-    },
-    {
-      "id": "mkt:019e6208-7c4c-7bbc-a45a-900c1d389a70",
-      "time": "2026-05-26 02:06:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Central Bank Of Sri Lanka: Sri Lankan Rupee Faced Sharp Depreciation Pressure In Recent Weeks, Easing Since"
-    },
-    {
-      "id": "mkt:019e6207-b9c3-7dd8-b21d-7d2af5c2652a",
-      "time": "2026-05-26 02:05:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Canada PM Mark Carney Calls For Independent Probe Of Gaza-Bound Global Resilience Flotilla】Carney Says Canadian Civilians On Flotilla Faced Unacceptable Treatment; Condemns Israel National Security Minister Itamar Ben‑Gvir; Calls Gaza Humanitarian Situation 'Catastrophic', Demands Immediate Unimpeded Aid Access; Reaffirms Opposition To Settlement Expansion, West Bank Violence; Backs Two‑State Solution"
     }
   ]
 }
