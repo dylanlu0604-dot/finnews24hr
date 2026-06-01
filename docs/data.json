@@ -1,7 +1,57 @@
 {
-  "updated": "2026-06-01 23:41:52",
-  "count": 16999,
+  "updated": "2026-06-01 23:45:52",
+  "count": 17002,
   "items": [
+    {
+      "id": "4911157",
+      "time": "2026-06-01 23:44:27",
+      "tags": [
+        "央行",
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【調查顯示，隨著3月伊朗局勢衝擊消退，英國公眾5月通脹預期進一步放緩】根據民調公司YouGov為美國花旗銀行進行的月度調查資料，英國公眾對未來通貨膨脹的預期在5月份有所緩和，一年期通脹預期從5.0%回落至4.7%，3月為5.4%，長期通脹預期從4.5%回落至4.0%。此前該預期曾在3月份飆升至2023年以來的最高水平。這一回落跡象讓英國央行感到些許寬慰，表明伊朗戰爭帶來的價格衝擊所造成的持久影響可能比最初想象的要小。"
+    },
+    {
+      "id": "4911156",
+      "time": "2026-06-01 23:43:59",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【國際金價跌破4500美元】因中東緊張局勢加劇，國際黃金價格1日盤中加速下跌。紐約商品交易所8月黃金期價一度跌至每盎司4455美元附近，跌幅接近2.5%。 據伊朗媒體1日報道，伊朗和“抵抗陣線”計劃徹底封鎖霍爾木茲海峽，並在曼德海峽等其他“戰線”開啟行動。 據伊朗塔斯尼姆通訊社1日報道，伊朗官員表示，以色列必須立即停止在黎巴嫩和加沙地帶的軍事行動，並從黎巴嫩撤出。在此要求得到滿足前，伊朗不會舉行任何談判。 市場分析認為，國際能源成本上漲將推升通脹，強化了包括美聯儲在內的主要央行可能在更長時間內維持緊縮貨幣政策的市場預期，令金價承壓。(新華社)"
+    },
+    {
+      "id": "mkt:019e83da-3fb5-7993-96f6-66bfdd745973",
+      "time": "2026-06-01 23:42:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "BBC reports London Underground strike will go ahead as scheduled after talks collapsed."
+    },
+    {
+      "id": "mkt:019e83d9-4111-7993-96f6-58dd300f3b9e",
+      "time": "2026-06-01 23:41:53",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Nikkei reports BlackRock will acquire a 15% stake in Japanese taxi app GO."
+    },
+    {
+      "id": "4911155",
+      "time": "2026-06-01 23:41:33",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "市場訊息：貝萊德擬收購日本打車軟體 Go 公司 15% 股權。"
+    },
     {
       "id": "mkt:019e83d7-653c-7993-96f6-541cc1191977",
       "time": "2026-06-01 23:39:50",
@@ -155142,30 +155192,6 @@
         "國際"
       ],
       "text": "美國官方表示，加州一處受損化學儲罐發生劇烈爆炸的風險已徹底消除。"
-    },
-    {
-      "id": "te:markets:553498",
-      "time": "2026-05-25 23:45:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "European Stocks Approach Records — European stocks closed sharply higher on Monday, the highest since their record highs in late February on signals that the US and Iran could soon agree to a deal that would restore energy exports from the Middle East. The Eurozone's STOXX 50 gained 2% to 6,139 and the pan-European STOXX 600 added 1.1% to 632. US President Trump stated that negotiations with Iran proceeded favorably during the weekend and Secretary of State Rubio signaled a degree of optimism on an incoming deal, driving oil prices to decline sharply and supporting European sovereign bonds. Banks benefited sharply from the rally for bonds, with Santander, BBVA, and Deutsche Bank adding more than 4%. The drop in power prices also aided margins for industrial giants, with Safran soaring 6% while Schneider added 3.5%."
-    },
-    {
-      "id": "te:economy:553497",
-      "time": "2026-05-25 23:42:31",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Mexico",
-        "Current Account",
-        "Importance 1"
-      ],
-      "text": "Mexico Current Account Deficit Widens in Q1 2026 — Mexico’s current account posted a deficit of $15.88 billion in the first quarter of 2026, widening from a $13.34 billion gap in the same period of 2025 and missing forecasts of a $9.38 billion deficit. The January–March deficit reflected a $2.41 billion shortfall in the goods and services balance and a $28.06 billion deficit in the primary income balance, partly offset by a $14.59 billion surplus in the secondary income balance. Compared with a year earlier, Mexico recorded wider deficits in the petroleum trade balance, services balance, and primary income balance. Meanwhile, larger surpluses in the non-petroleum trade balance and secondary income balance helped cushion the deterioration. As a share of GDP, the current account deficit stood at 3.1% in Q1 2026, broadly stable from the 3.2% deficit recorded a year earlier."
     }
   ]
 }
