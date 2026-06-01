@@ -1,7 +1,91 @@
 {
-  "updated": "2026-06-01 22:02:12",
-  "count": 16868,
+  "updated": "2026-06-01 22:06:19",
+  "count": 16876,
   "items": [
+    {
+      "id": "te:economy:555418",
+      "time": "2026-06-01 22:04:51",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Business Confidence",
+        "Importance 3"
+      ],
+      "text": "US Factory Growth Strongest in 4 Years — The ISM Manufacturing PMI rose to 54 in May 2026 from 52.7 in each of the previous two months and beating forecasts of 53. The reading pointed to the strongest expansion in the factory sector since May 2022, with faster growth seen for new orders (56.8 vs 54.1), production (54.3 vs 53.4) and backlog of orders (52.2 vs 51.4). Also, employment contracted less (48.6 vs 46.4). Price pressures remained elevated but below the levels seen in April (82.1 vs 84.6)."
+    },
+    {
+      "id": "4911031",
+      "time": "2026-06-01 22:04:50",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【報道稱伊朗暫停談判，比特幣觸及七週低點】伊朗國家媒體報道稱該國將暫停與美國的談判後，比特幣跌至七週低點。伊朗的Tasnim news agency表示，伊朗將切斷透過調解人進行的談判，以抗議以色列對黎巴嫩的襲擊。Strategy上週有史以來第二次出售該加密貨幣的訊息也令比特幣承壓。根據週一的一份檔案，Strategy在5月26日至5月31日期間以250萬美元的價格出售了32枚代幣，平均每枚77,135美元。倫敦證券交易所集團資料顯示，比特幣最低跌至71,495美元。"
+    },
+    {
+      "id": "4911030",
+      "time": "2026-06-01 22:04:26",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【受伊朗暫停談判報道影響，歐元區和英國國債收益率擴大漲幅】有報道稱，伊朗暫停與美國的談判，以抗議以色列襲擊黎巴嫩，受此影響，歐元區政府債券和英國國債收益率飆升。伊朗塔斯尼姆通訊社(Tasnim)在X平臺上表示，伊朗將停止透過中間人與美國進行談判和資訊交換。Tradeweb的資料顯示，10年期德國國債收益率上升8.3個基點，至3.012%；法國10年期國債收益率上升10個基點，至3.636%；10年期義大利國債收益率躍升11個基點，至3.750%；10年期英國國債收益率上升8.2個基點，至4.889%。"
+    },
+    {
+      "id": "te:markets:555417",
+      "time": "2026-06-01 22:04:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Euro Slides Toward April Lows Amid Middle East Tensions — The euro dropped toward $1.16, nearing its weakest level since April 7, as escalating Middle East tensions dashed hopes for a quick reopening of the Strait of Hormuz and raised concerns about the Eurozone’s economic outlook. Iran’s Tasnim News Agency reported on Monday that Tehran would halt negotiations with the US over Israeli strikes on Lebanon and fully close the Strait of Hormuz, accusing Washington of \"violating the ceasefire on all fronts.\" The resulting surge in oil prices prompted investors to increase bets on European Central Bank interest rate hikes. Markets now expect at least two ECB rate increases this year, with an over 90% probability of the first hike occurring as early as next week. Investors are also awaiting this week’s Eurozone inflation report, following last week’s data showing accelerated EU-harmonized inflation in May for France, Italy, and Spain, while Germany saw a slowdown."
+    },
+    {
+      "id": "4911028",
+      "time": "2026-06-01 22:03:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【杭臺高鐵溫玉段開始聯調聯試】記者從中國鐵路上海局集團有限公司獲悉，6月1日，新建杭州經紹興至台州高鐵溫嶺至玉環段啟動聯調聯試，標誌著杭臺高鐵溫玉段進入開通運營倒計時。 杭臺高鐵溫玉段位於台州市南部，途經台州溫嶺、玉環兩市，新建正線約37公里，設計時速350公里。線路建成運營後，將填補玉環市鐵路空白，對於加快構建浙江省1小時高鐵交通圈、完善區域鐵路網布局、促進沿線旅遊開發等具有重要意義。（新華社）"
+    },
+    {
+      "id": "4911027",
+      "time": "2026-06-01 22:02:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "美元升至日內高點，此前ISM製造業指數超出預期。"
+    },
+    {
+      "id": "4911026",
+      "time": "2026-06-01 22:02:10",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "加密貨幣概念股下跌，比特幣跌至一個多月新低。Strategy公司股價下跌6%，此前該公司售出了價值250萬美元的比特幣。Coinbase Global股價下跌5%，Robinhood股價下跌7.6%，Circle股價下跌5.8%。普羅 Shares比特幣策略ETF與貝萊德安碩比特幣信託均下跌2.6%。"
+    },
+    {
+      "id": "4911025",
+      "time": "2026-06-01 22:01:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國5月ISM庫存指數 49.9，前值49。\n美國5月ISM就業指數 48.6，前值46.4。\n美國5月ISM新訂單指數 56.8，前值54.1。\n美國5月ISM產出指數 54.3，前值53.4。\n美國5月ISM製造業物價支付指數 82.1，預期85.5，前值84.6。"
+    },
+    {
+      "id": "4911024",
+      "time": "2026-06-01 22:01:11",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國國債收益率在ISM製造業資料與建築支出資料公佈後小幅擴大漲幅；10年期美國國債收益率目前上行5.9個基點，報4.512%。"
+    },
     {
       "id": "4911023",
       "time": "2026-06-01 22:00:37",
@@ -9,6 +93,15 @@
         "國際"
       ],
       "text": "俄羅斯財政官員向普京表示，目前戰爭開支已超出財政承受能力。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202606013756348352",
+      "time": "2026-06-01 22:00:25",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國供應管理學會5月份製造業指數升至54.0，預估為53.0。"
     },
     {
       "id": "4911022",
@@ -153821,26 +153914,6 @@
         "XAUUSD"
       ],
       "text": "Axios: Trump Signals U.S. Softening On Iran Enriched-Uranium Stockpile"
-    },
-    {
-      "id": "4898935",
-      "time": "2026-05-25 22:03:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華林證券：控股股東立業集團累計質押6.41億股公司股份】5月25日，華林證券釋出公告稱，近日公司接到控股股東深圳市立業集團有限公司通知，獲悉其所持有本公司的1.173億股股份辦理了質押，此次質押股份佔立業集團持股總數的6.74%，佔公司總股本4.34%，質押起始日期為2026年5月22日，質押期限至辦理解除登記之日止，質權人為中國農業銀行股份有限公司深圳中心區支行，質押資金用於企業自身經營發展。"
-    },
-    {
-      "id": "mkt:019e6129-a168-7bb3-80d3-650a7e339faf",
-      "time": "2026-05-25 22:02:58",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Spot Gold Opens Slightly Lower At $4,571/oz"
     }
   ]
 }
