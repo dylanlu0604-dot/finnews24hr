@@ -1,7 +1,494 @@
 {
-  "updated": "2026-06-02 00:50:37",
-  "count": 17025,
+  "updated": "2026-06-02 01:30:05",
+  "count": 17034,
   "items": [
+    {
+      "id": "mkt:019e843b-a08d-7993-96f8-0f9da758abb5",
+      "time": "2026-06-02 01:29:20",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "IRNA reports Iran's oil minister said repairs to energy infrastructure have made significant progress and he is optimistic about a rapid restoration of oil production capacity."
+    },
+    {
+      "id": "4911223",
+      "time": "2026-06-02 01:28:02",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【上汽MG歐洲首家工廠落戶西班牙】上汽集團旗下MG品牌已選定西班牙建設其首家歐洲汽車工廠。當地政府表示，該專案位於西班牙西北部，初始投資預計約2億歐元(2.32億美元)，不包括港口費用，年產能可達12萬輛。工廠預計於2028年投產。MG原為英國品牌，近20年前被上汽集團收購，目前是歐洲銷量最高的中國汽車品牌之一。"
+    },
+    {
+      "id": "mkt:019e8439-8216-7993-96f8-07ec4d0f42fd",
+      "time": "2026-06-02 01:27:01",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iraqi security official says preliminary assessment indicates the second explosion aboard a cargo ship about 40 nautical miles southeast of Umm Qasr was caused by a drone attack."
+    },
+    {
+      "id": "mkt:019e8439-2437-7993-96f7-fc915337b11c",
+      "time": "2026-06-02 01:26:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "An Iraqi security official said a cargo ship about 40 nautical miles southeast of Umm Qasr suffered a second explosion and caught fire; no casualties reported."
+    },
+    {
+      "id": "4911222",
+      "time": "2026-06-02 01:26:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克安全官員訊息：波斯灣海域、烏姆卡斯爾港東南約 40 海里處一艘貨輪遭遇二次爆炸並起火，暫無人員傷亡通報。初步研判顯示，這艘在波斯灣、伊拉克烏姆卡斯爾港東南約 40 海里處遭遇二次爆炸的貨輪系遭無人機襲擊所致。"
+    },
+    {
+      "id": "mkt:019e8438-7c81-7993-96f7-f26935d69026",
+      "time": "2026-06-02 01:25:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Two Israeli sources said Israel is awaiting final approval from Trump before conducting any operation in the southern suburbs of Beirut."
+    },
+    {
+      "id": "4911221",
+      "time": "2026-06-02 01:25:11",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "兩名以色列訊息人士：以色列正等待特朗普最終批准，方可在貝魯特南部郊區開展軍事行動。"
+    },
+    {
+      "id": "mkt:019e8436-e3c5-7993-96f7-eb6626c159ae",
+      "time": "2026-06-02 01:24:10",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "【Israel says it intercepted multiple rockets fired by Hezbollah from Lebanon】Israel Defense Forces (IDF) said on June 1 that Hezbollah fired multiple rockets from Lebanon into Israel. Israeli air defenses intercepted some; others fell near IDF troops with no casualties reported. Hezbollah also launched a drone from Lebanon that struck an Israeli position in northern Israel. The IDF warned residents of Dahiyeh, a southern suburb of Beirut, to evacuate and said it would respond by striking targets in Dahiyeh if Hezbollah continues firing at Israeli towns."
+    },
+    {
+      "id": "mkt:019e8436-1d30-7993-96f7-e53b2fbb48dd",
+      "time": "2026-06-02 01:23:19",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "The Federal Reserve accepted $1.302 billion from five counterparties in its fixed-rate reverse repo operation."
+    },
+    {
+      "id": "4911220",
+      "time": "2026-06-02 01:19:10",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "週一（6月1日），美聯儲隔夜逆回購協議（RRP）使用規模為13.02億美元（交易對手5家），上個交易日報116.77億美元。"
+    },
+    {
+      "id": "mkt:019e8430-2007-7993-96f7-d8f7d4774dd4",
+      "time": "2026-06-02 01:16:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Trump says he doesn't care if Iran talks end; expects oil to fall soon】In a CNBC interview on Monday, US President Trump said he 'doesn't care' whether talks with Iran end and that he 'really doesn't care' about reports Tehran stopped contact after Israeli military action in Lebanon. He said he will ask Israeli Prime Minister Netanyahu about the situation in Lebanon and that he is not worried about oil prices, saying they will 'drop like a stone' in the near term. Earlier, Iranian state media reported Tehran would halt negotiations and vowed to 'completely block' the Strait of Hormuz; that report had pushed oil sharply higher."
+    },
+    {
+      "id": "te:markets:555469",
+      "time": "2026-06-02 01:13:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Colombia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Colombian Peso Tests 5-Year High — The Colombian peso surged to 3,570 per USD in June, testing its strongest level in over five years, after rightwing populist presidential candidate de la Espriella unexpectedly won the first round of elections. The candidate, seen as an outsider, set up the run-off against leftist Cepeda, backed by outgoing President Petro. The surge in the peso tracked similar moves for other Colombian asset classes. Espriella had pledged to cut Colombia's growing budget deficit amid the country's increasingly tight public finances, with last year's shortfall coming at 6.4% of the GDP, a reason cited by the central bank to hold rates restrictive. At the same time, the candidate also pledged to back coal mining and oil drilling in Colombia, which face opposition from the incumbent government."
+    },
+    {
+      "id": "mkt:019e842d-1b3d-7993-96f7-d59971cb99df",
+      "time": "2026-06-02 01:13:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil's finance minister said that if Brazilian financial institutions are hit by U.S. sanctions they may be unable to provide the PIX payment system."
+    },
+    {
+      "id": "mkt:019e842c-dfc1-7993-96f7-cd466ff6b70d",
+      "time": "2026-06-02 01:13:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil's finance minister said they had done their best to submit an explanation."
+    },
+    {
+      "id": "mkt:019e842c-8ce8-7993-96f7-c57eef18608a",
+      "time": "2026-06-02 01:12:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil's finance minister said the government is concerned about new U.S. tariffs."
+    },
+    {
+      "id": "4911219",
+      "time": "2026-06-02 01:11:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗國家通訊社（IRNA）：伊朗石油部長表示，本國能源設施重建工作取得重大進展，有望快速恢復產能。"
+    },
+    {
+      "id": "mkt:019e842b-83b1-7993-96f7-bc7cc452bbde",
+      "time": "2026-06-02 01:11:44",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Russia is reportedly considering imports of aviation fuel, a Russian business news agency reports."
+    },
+    {
+      "id": "4911218",
+      "time": "2026-06-02 01:10:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息： 俄羅斯正考慮進口航空煤油。"
+    },
+    {
+      "id": "mkt:019e8428-8145-7993-96f7-b1b6f429ac86",
+      "time": "2026-06-02 01:08:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "US President Trump said oil prices will fall \"like a rock\" in the near future."
+    },
+    {
+      "id": "mkt:019e8427-923c-7993-96f7-a9f7b9a6b4e5",
+      "time": "2026-06-02 01:07:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said he will ask Israeli Prime Minister Netanyahu about the situation in Lebanon."
+    },
+    {
+      "id": "mkt:019e8426-b1bb-7993-96f7-a02f58c2fac3",
+      "time": "2026-06-02 01:06:27",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Netanyahu speaks with Trump on Iran, Lebanon】On the evening of June 1 local time, Israeli Prime Minister Netanyahu held a phone call with U.S. President Trump to discuss developments in Iran and Lebanon. The call followed Israeli forces crossing the Litani River to launch an offensive, effectively collapsing a temporary ceasefire that began April 17. On May 31 Netanyahu ordered an expansion of military operations in Lebanon and has sought U.S. support for strikes on Beirut and other targets, a request he has communicated to Washington."
+    },
+    {
+      "id": "4911217",
+      "time": "2026-06-02 01:06:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：石油價格短期內將“像石頭一樣”下挫。"
+    },
+    {
+      "id": "mkt:019e8425-cdfc-7993-96f7-9958ddd01e94",
+      "time": "2026-06-02 01:05:30",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's foreign ministry said it will continue, citing its right to self‑defense, to make full use of all capabilities to protect its interests when necessary."
+    },
+    {
+      "id": "4911216",
+      "time": "2026-06-02 01:05:16",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗外交部：伊朗將依據自衛權，在必要時動用全部自身力量維護本國利益。"
+    },
+    {
+      "id": "4911215",
+      "time": "2026-06-02 01:04:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【內塔尼亞胡與特朗普通話，討論伊朗及黎巴嫩局勢】6月1日，以色列總理內塔尼亞胡與美國總統特朗普通電話，就伊朗及黎巴嫩局勢進行討論。日前，隨著以軍越過利塔尼河展開進攻，4月17日開始的黎以臨時停火已經名存實亡。以色列總理內塔尼亞胡5月31日下令擴大在黎軍事行動，同時尋求美國支援打擊貝魯特等地，並已就此與美方溝通。（央視）"
+    },
+    {
+      "id": "mkt:019e8425-47dd-7993-96f7-96af9d5b5ce1",
+      "time": "2026-06-02 01:04:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said he is not concerned about oil prices."
+    },
+    {
+      "id": "mkt:019e8424-e1a9-7993-96f7-8938893ce0cb",
+      "time": "2026-06-02 01:04:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "TRUMP: I don't care whether negotiations with Iran are over."
+    },
+    {
+      "id": "4911214",
+      "time": "2026-06-02 01:04:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：不擔心油價。"
+    },
+    {
+      "id": "mkt:019e8424-a244-7993-96f7-8270581c6792",
+      "time": "2026-06-02 01:04:13",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Iran says it will respond if red lines over Lebanon and Gaza are crossed】Iranian state TV reported that on the 1st a social-media account linked to the IRGC intelligence arm posted that crossing Iran’s red lines on Lebanon and Gaza would amount to launching a direct war against Iran’s national security and allied Islamic Resistance forces. The post said Iran is determined to carry out defensive actions, including measures that break existing rules and frameworks and the opening of new fronts, while maintaining the current posture in the Strait of Hormuz."
+    },
+    {
+      "id": "4911213",
+      "time": "2026-06-02 01:04:04",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：正在詢問內塔尼亞胡到底發生了什麼事。"
+    },
+    {
+      "id": "4911212",
+      "time": "2026-06-02 01:03:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊方稱將就黎巴嫩和加沙問題紅線被突破作出回應】據伊朗國家電視臺報道，與伊朗伊斯蘭革命衛隊情報組織相關的一個社交媒體賬號1日發文稱，在黎巴嫩和加沙問題上越過紅線，意味著對伊朗國家安全以及伊斯蘭抵抗力量發動直接戰爭。報道說，該賬號稱，作為回應，伊朗決心實施防禦行動，包括採取打破既有規則和框架的措施、開闢新的戰線，同時維持霍爾木茲海峽既有態勢。（新華社）"
+    },
+    {
+      "id": "mkt:019e8423-da54-7993-96f7-7caa8ef4d3e5",
+      "time": "2026-06-02 01:03:22",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's foreign ministry said a ceasefire violation on any one front is equivalent to a violation on all fronts."
+    },
+    {
+      "id": "4911211",
+      "time": "2026-06-02 01:03:20",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：我不在乎與伊朗的和平談判是否結束。"
+    },
+    {
+      "id": "4911210",
+      "time": "2026-06-02 01:02:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部：一條戰線違反停火，等同於所有戰線違反停火。"
+    },
+    {
+      "id": "mkt:019e8423-6fff-7993-96f7-714926cddaf5",
+      "time": "2026-06-02 01:02:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Iran's foreign ministry said the United States bears direct responsibility for breaches of the ceasefire with Iran and should also be held accountable for Israeli ceasefire violations in Lebanon."
+    },
+    {
+      "id": "4911209",
+      "time": "2026-06-02 01:02:22",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗外交部：美國需對破壞伊方相關停火協議以及以色列在黎巴嫩境內違反停火協定的行為承擔直接責任。"
+    },
+    {
+      "id": "mkt:019e8422-c024-7993-96f7-6b9181cb4da4",
+      "time": "2026-06-02 01:02:10",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O"
+      ],
+      "text": "According to Business Insider, Amazon (AMZN.O)'s head of satellite internet warned employees to stay focused after last week's Blue Origin rocket explosion."
+    },
+    {
+      "id": "4911208",
+      "time": "2026-06-02 01:02:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：在上週藍色起源火箭發生爆炸後，亞馬遜衛星網際網路業務負責人要求員工穩住心神、專注工作。"
+    },
+    {
+      "id": "4911207",
+      "time": "2026-06-02 01:01:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "華碩釋出了搭載NVIDIA RTX Spark顯示卡的革命性ProArt P16和P14膝上型電腦。"
+    },
+    {
+      "id": "4911206",
+      "time": "2026-06-02 01:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】國際銅夜盤收漲1.10%，滬銅收漲1.12%，滬鋁收漲0.49%，滬鋅收漲0.26%，滬鉛收跌0.09%，滬鎳收漲1.26%，滬錫收漲2.46%。氧化鋁夜盤收跌0.69%，鋁合金收漲0.41%。不鏽鋼夜盤收漲1.52%。"
+    },
+    {
+      "id": "mkt:019e841f-7fad-7993-96f7-6711d4bacf97",
+      "time": "2026-06-02 00:58:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRNA reported HEZBOLLAH said it would observe a ceasefire agreement if Israel stops its aggression and withdraws forces."
+    },
+    {
+      "id": "mkt:019e841d-19a3-7993-96f7-5c1c119df1cd",
+      "time": "2026-06-02 00:55:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to Israel's Channel 12, HEZBOLLAH told Trump it would agree to a ceasefire and that the ceasefire would carry no preconditions."
+    },
+    {
+      "id": "4911205",
+      "time": "2026-06-02 00:55:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "航運資料顯示，委內瑞拉5月份的石油出口量上升至125萬桶/日。\n5月份委內瑞拉輸往加勒比地區用於儲存的石油出口量降至約5.8萬桶/日。\n委內瑞拉對印度的石油出口在五月增至約42.7萬桶/日。\n委內瑞拉對美國的石油出口在五月增加至約55.8桶/日。"
+    },
+    {
+      "id": "4911204",
+      "time": "2026-06-02 00:54:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "據以色列媒體Channel 12報道，真主黨告訴特朗普稱他們將同意停火，真主黨表示同意停火不會附加任何前提條件。"
+    },
+    {
+      "id": "mkt:019e841a-3c3b-7993-96f7-52a2706206cf",
+      "time": "2026-06-02 00:52:52",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI"
+      ],
+      "text": "Shipping data showed Venezuela's oil exports to the United States rose to about 55.8 b/d in May."
+    },
+    {
+      "id": "4911202",
+      "time": "2026-06-02 00:52:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "LME期銅收漲196美元，報13832美元/噸。LME期鋁收漲50美元，報3716美元/噸。LME期鋅收漲38美元，報3578美元/噸。"
+    },
+    {
+      "id": "mkt:019e8419-f8bb-7993-96f7-4ab4e4ff248b",
+      "time": "2026-06-02 00:52:33",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Shipping data show Venezuela's oil exports to India rose to about 427,000 barrels per day in May."
+    },
+    {
+      "id": "mkt:019e8419-8b16-7993-96f7-43460bda291a",
+      "time": "2026-06-02 00:52:06",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Shipping data show Venezuela's oil exports to the Caribbean for storage fell to about 58,000 b/d in May."
+    },
+    {
+      "id": "mkt:019e8418-8cb4-7993-96f7-3cb6c8d1a381",
+      "time": "2026-06-02 00:51:01",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Shipping data show Venezuela's oil exports rose to 1.25 mln barrels per day in May."
+    },
+    {
+      "id": "4911200",
+      "time": "2026-06-02 00:50:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "Tripo AI完成近2億美元A+輪和A++輪融資，以推進其AI 3D及世界模型路線圖。"
+    },
     {
       "id": "4911199",
       "time": "2026-06-02 00:47:39",
@@ -155032,392 +155519,6 @@
         "Impact bearish"
       ],
       "text": "U.S. Treasury Yields Slide Across Curve; 2Y -6bps To 4.0595%, 10Y -6bps To 4.5034%"
-    },
-    {
-      "id": "4899072",
-      "time": "2026-05-26 01:30:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國特使史蒂夫・維特科夫與賈裡德・庫什納將前往以色列，商討美伊潛在協議相關事宜。"
-    },
-    {
-      "id": "4899071",
-      "time": "2026-05-26 01:29:32",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗媒體：伊朗總統已下令恢復網路服務。"
-    },
-    {
-      "id": "4899070",
-      "time": "2026-05-26 01:29:07",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗塔斯尼姆通訊社否認沙特媒體有關伊朗同意將高濃縮鈾運出境外的報道，稱相關訊息純屬虛假資訊，是心理戰的一部分。"
-    },
-    {
-      "id": "4899069",
-      "time": "2026-05-26 01:28:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "阿拉伯電視臺：霍爾木茲海峽管控細則以及美國在伊朗周邊的軍事部署相關爭議仍在持續。"
-    },
-    {
-      "id": "mkt:019e61e3-98d2-7663-b7b0-1f04c6e88848",
-      "time": "2026-05-26 01:26:00",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact mixed",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "BOJ Deputy Governor HIMINO: Monitor Middle East Risk To Japan Economy, Inflation; Assess Base‑Case Odds, Weigh Timing And Pace Of Policy Adjustments"
-    },
-    {
-      "id": "mkt:019e61e3-32f9-7663-b7b0-176321f52cb0",
-      "time": "2026-05-26 01:25:29",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "HIMINO (BOJ) Signals Continued Policy-Rate Hikes; Will Adjust Easing Based On Economic Activity, Prices, Financial Conditions"
-    },
-    {
-      "id": "mkt:019e61e2-5cdb-7663-b7b0-0ae54b3f1073",
-      "time": "2026-05-26 01:24:39",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "BOJ Deputy Governor HIMINO Says Japan Economic Outlook May Shift On Middle East Tensions"
-    },
-    {
-      "id": "mkt:019e61e1-cba1-7663-b7b0-014b7c9bb9c0",
-      "time": "2026-05-26 01:24:08",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "HIMINO (BOJ) To Monitor Bond Market Conditions, Functioning; Seek Market Views In Taper Review"
-    },
-    {
-      "id": "mkt:019e61e1-6dbc-7663-b7af-fa9226259a3b",
-      "time": "2026-05-26 01:23:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【HIMINO: BOJ To Use Appropriate Policy To Achieve Inf Target Sustainably】HIMINO Says BOJ Will Use Appropriate Monetary Policy To Achieve Stable, Sustainable Inf Target"
-    },
-    {
-      "id": "4899068",
-      "time": "2026-05-26 01:23:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普釋出了兩張人工智慧風格的梗圖，批評奧巴馬的對伊政策，指責其資助德黑蘭政權，並將奧巴馬過往呼籲談判的立場與自己動用武力的做法進行對比。"
-    },
-    {
-      "id": "mkt:019e61e1-2960-7663-b7af-f1b8ebfbf54b",
-      "time": "2026-05-26 01:23:26",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "BOJ Deputy Governor HIMINO Says Market Views On Rising Long-Term Yields Reflect Global Inf Concerns"
-    },
-    {
-      "id": "4899067",
-      "time": "2026-05-26 01:21:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基：烏克蘭與美國圍繞擴大反導防禦系統生產的討論進展甚微，我們正努力與歐洲展開合作。"
-    },
-    {
-      "id": "4899066",
-      "time": "2026-05-26 01:21:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基：我們將繼續就美方如何援助烏克蘭與美國進行談判，我們需要取得成果，外交層面尤為如此。"
-    },
-    {
-      "id": "4899065",
-      "time": "2026-05-26 01:20:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基：歐洲正在為我們的國防提供援助，尤其是在資金方面，但仍需要美國發揮領導作用。"
-    },
-    {
-      "id": "4899064",
-      "time": "2026-05-26 01:20:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "匈牙利總理毛焦爾將於5月28日會晤歐盟委員會主席馮德萊恩、北約秘書長呂特及比利時首相。"
-    },
-    {
-      "id": "mkt:019e61dd-24f6-7dd2-a26e-929ea8a23f09",
-      "time": "2026-05-26 01:18:54",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "EURUSD",
-        "Impact bearish",
-        "USDJPY",
-        "Impact bullish",
-        "CNH"
-      ],
-      "text": "【Middle East Uncertainty Keeps Asian Currencies Range-Bound Vs Dollar】WSJ: US Struck Targets In Southern Iran, Military Calls 'Defensive Strike'; Asian Currencies Range-Bound Vs Dollar; LSEG: USD/KRW 1509.70 -0.2%, USD/SGD 1.2767, AUD/USD 0.7166; OCBC Bank: US‑Iran Deal Risk High, Dollar Downside Limited By US Growth/AI Cycle"
-    },
-    {
-      "id": "4899063",
-      "time": "2026-05-26 01:18:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯加里寧格勒機場已實施臨時起降管控。"
-    },
-    {
-      "id": "4899062",
-      "time": "2026-05-26 01:17:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普在阿靈頓國家公墓結束講話。"
-    },
-    {
-      "id": "4899061",
-      "time": "2026-05-26 01:17:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以軍稱在黎巴嫩戰線“正處於戰爭狀態”】當地時間25日，以色列國防軍北方司令部司令拉菲·米洛表示，以軍在黎巴嫩戰線“正處於戰爭狀態”，並強調以軍絕不容忍對以色列本土的攻擊。米洛還表示，以色列軍隊正在黎巴嫩領土縱深開展針對真主黨基礎設施和武裝人員的軍事行動。（央視新聞）"
-    },
-    {
-      "id": "mkt:019e61d9-c72d-7dd2-a26e-7141fa8fd19e",
-      "time": "2026-05-26 01:15:22",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "【Iran Says Israel Launched Multiple Drone Attacks On UAE To Frame Iran】Iran Military Technical Review Says In Recent Weeks Israel Carried Out Multiple 'False-Flag' Drone Attacks On UAE To Provoke UAE And Blame Iran; Israel No Comment"
-    },
-    {
-      "id": "4899060",
-      "time": "2026-05-26 01:15:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "匈牙利方面表示，儘管仍存在限制，但歐盟在資金問題上展現出了善意。"
-    },
-    {
-      "id": "4899059",
-      "time": "2026-05-26 01:12:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "匈牙利政府擬於5月28日簽署歐盟資金相關協議。"
-    },
-    {
-      "id": "mkt:019e61d7-00af-722f-887a-22562daa8258",
-      "time": "2026-05-26 01:12:20",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "ISRAELI MILITARY Says Northern Enemy-Air Alerts False"
-    },
-    {
-      "id": "4899058",
-      "time": "2026-05-26 01:09:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗宣傳協調委員會負責人表示，伊朗革命領袖的葬禮日期仍未敲定，請民眾勿輕信各類傳言。"
-    },
-    {
-      "id": "4899057",
-      "time": "2026-05-26 01:09:41",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "白銀連續主力合約日內漲2%，現報19158.00元。"
-    },
-    {
-      "id": "4899056",
-      "time": "2026-05-26 01:08:55",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普重申伊朗永遠不會擁有核武器。"
-    },
-    {
-      "id": "4899055",
-      "time": "2026-05-26 01:08:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：目前正與委內瑞拉政府密切合作。"
-    },
-    {
-      "id": "4899054",
-      "time": "2026-05-26 01:08:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場資訊：美伊協議達成後，所有國家的船舶都將能夠像事實上封鎖之前那樣自由、安全地通航。"
-    },
-    {
-      "id": "mkt:8ef22486-8e79-40bd-877d-959e2425645a",
-      "time": "2026-05-26 01:06:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Spot Silver Falls Below $77/oz, Down 1.37% Intraday"
-    },
-    {
-      "id": "mkt:019e61cc-d52e-788b-8b2f-5470638be8ca",
-      "time": "2026-05-26 01:01:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Taiwan Weighted Index Opens +368.3 pts (+0.84%) To 44,012.7 May 26 (Tue)"
-    },
-    {
-      "id": "mkt:019e61cc-b9bc-788b-8b2f-4bea30173537",
-      "time": "2026-05-26 01:01:07",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD"
-      ],
-      "text": "Shanghai Gold Exchange Gold T+D down 0.09% to CNY 995.67/g early Tue May 26 | Shanghai Gold Exchange Silver T+D down 0.10% to CNY 18861/kg early Tue May 26"
-    },
-    {
-      "id": "4899053",
-      "time": "2026-05-26 01:00:19",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "上海原油連續主力合約日內跌4%，現報596.80元。"
-    },
-    {
-      "id": "4899052",
-      "time": "2026-05-26 01:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【夜盤期貨收盤】國際銅夜盤收漲0.42%，滬銅收漲0.39%，滬鋁收跌0.29%，滬鋅收漲0.62%，滬鉛收跌0.27%，滬鎳收漲0.42%，滬錫收漲0.54%。氧化鋁夜盤收漲4.82%，鋁合金收跌0.26%。不鏽鋼夜盤收漲0.13%。"
-    },
-    {
-      "id": "4899051",
-      "time": "2026-05-26 00:58:43",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油日內跌7%，現報89.82美元/桶。"
-    },
-    {
-      "id": "4899050",
-      "time": "2026-05-26 00:58:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油失守90美元/桶，日內跌6.84%。"
-    },
-    {
-      "id": "te:markets:553504",
-      "time": "2026-05-26 00:57:52",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Hits 4-week Low — Brent decreased to 96.31 USD/Bbl, the lowest since April 2026. Over the past 4 weeks, Brent Crude Oil lost 5.18%, and in the last 12 months, it increased 49.42%."
-    },
-    {
-      "id": "4899049",
-      "time": "2026-05-26 00:56:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "【阿拉伯媒體稱美伊草案協議達成】據阿拉伯電視臺（Al Arabiya）報道稱，美伊草案協議達成，草案協議允許免費開放霍爾木茲海峽，並清除水雷；需在30天內恢復霍爾木茲海峽的通航。協議規定美國承諾放鬆對伊朗港口的封鎖；協議允許伊朗出售和出口石油；協議將為伊朗石油出口提供特定的制裁豁免，將分階段考慮放鬆對伊朗石油的制裁措施，具體情況取決於伊朗對其承諾的落實。協議規定繼續進行核談判，以達成長期共識。"
-    },
-    {
-      "id": "mkt:019e61c8-6b63-7119-9f24-64a95979fb52",
-      "time": "2026-05-26 00:56:25",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan Finance Minister KATAYAMA To Monitor Middle East Impact On Prices, Economy; To Act To Shield Households"
-    },
-    {
-      "id": "mkt:019e61c6-7f44-7119-9f24-566e8c42a640",
-      "time": "2026-05-26 00:53:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israel IDF Says Air-Raid Alarms Sound In Northern Sasa After Enemy Aircraft Incursion"
-    },
-    {
-      "id": "4899048",
-      "time": "2026-05-26 00:53:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗體育部長：國際足聯已承諾為伊朗球員發放2026年世界盃參賽簽證。"
-    },
-    {
-      "id": "mkt:0e4f9fe0-3c43-423e-a770-15d98c6ab37e",
-      "time": "2026-05-26 00:52:20",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY"
-      ],
-      "text": "【Japan 5-Year Govt Yield Rises 1bp To 1.965%】Japan 5-Year Govt Yield Up 1bp To 1.965%"
     }
   ]
 }
