@@ -1,7 +1,35 @@
 {
-  "updated": "2026-06-02 02:39:36",
-  "count": 17030,
+  "updated": "2026-06-02 02:43:28",
+  "count": 17032,
   "items": [
+    {
+      "id": "mkt:019e847f-053c-7993-96f8-c37cbae72cde",
+      "time": "2026-06-02 02:42:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Altman, founder of OpenAI, said public anxiety about artificial intelligence is understandable."
+    },
+    {
+      "id": "4911247",
+      "time": "2026-06-02 02:40:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "OpenAI的CEO Altman：人們對AI感到焦慮是正確的。"
+    },
+    {
+      "id": "mkt:019e847c-73fa-7993-96f8-b8a17e7c44a6",
+      "time": "2026-06-02 02:40:09",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D closed down 0.24% at 978.86 yuan per gram in the evening session on June 1; Shanghai Gold Exchange silver T+D closed down 0.29% at 18,110 yuan per kilogram."
+    },
     {
       "id": "4911246",
       "time": "2026-06-02 02:36:22",
@@ -155472,17 +155500,6 @@
         "國際"
       ],
       "text": "【內塔尼亞胡指示以軍加大對黎真主黨打擊力度】以色列總理內塔尼亞胡25日表示，他已指示軍方進一步加大對黎巴嫩真主黨的打擊力度。 (新華社)"
-    },
-    {
-      "id": "mkt:019e6229-6ff5-7dd8-b21d-da38d5d7cf41",
-      "time": "2026-05-26 02:42:23",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "China's Most Active Coking Coal futures Gain Narrows To 6.00%, 1271.00 Yuan/mt"
     }
   ]
 }
