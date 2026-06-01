@@ -1,7 +1,79 @@
 {
-  "updated": "2026-06-02 07:36:33",
-  "count": 17149,
+  "updated": "2026-06-02 07:40:20",
+  "count": 17152,
   "items": [
+    {
+      "id": "4911450",
+      "time": "2026-06-02 07:39:47",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【亞市早盤油價小幅走高 特朗普尋求平息以色列與真主黨衝突】早盤油價小幅走高。近月西得州中質油期貨上漲0.2%，報每桶92.31美元。美國總統特朗普週一試圖平息以色列與真主黨之間日益加劇的衝突，該衝突威脅到美國與伊朗的和平談判。特朗普宣佈，雙方已同意停火，以色列總理內塔尼亞胡已取消對黎巴嫩的襲擊。然而，Tickmill的Joseph Dahrieh在一封電子郵件中表示，美伊談判缺乏明顯突破，且中東地區再次發生衝突事件。這位董事總經理補充說，這些因素加劇了人們的擔憂，即影響霍爾木茲海峽的限制措施可能會維持比預期更長的時間，這使得油價保持在高位。"
+    },
+    {
+      "id": "mkt:019e858e-b75d-7993-96fb-5931b973469e",
+      "time": "2026-06-02 07:39:43",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Kyiv mayor said a nine-storey residential building caught fire after a Russian strike."
+    },
+    {
+      "id": "4911449",
+      "time": "2026-06-02 07:39:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "基輔市長稱，基輔一棟九層公寓樓在俄羅斯襲擊後起火。"
+    },
+    {
+      "id": "4911448",
+      "time": "2026-06-02 07:39:11",
+      "tags": [
+        "市場",
+        "兩會"
+      ],
+      "text": "【前5個月地方債券發行超4.7萬億元】今年以來，更加積極的財政政策持續落地，成效不斷顯現。 從地方債券角度看，記者梳理Wind資料發現，今年前5個月，各地發行地方債券規模總計達到47219億元，較2025年同期的43148億元增長超9%。從債券型別看，用於置換存量隱性債務的再融資專項債券（簡稱“置換債券”）和新增專項債券佔比較大。前5個月，各地發行置換債券合計14263億元，佔地方債券總體發行規模的30%，完成全年限額2萬億元的71%；各地發行新增專項債券規模達到14951億元，接近1.5萬億元關口。 今年的《政府工作報告》明確，擬安排地方政府專項債券4.4萬億元，完善專項債券專案負面清單管理和自審自發試點，重點支援建設重大專案、置換隱性債務、消化政府拖欠賬款等。從發行進度看，今年前5個月新增專項債券發行進度約為34%。（證券日報）"
+    },
+    {
+      "id": "4911447",
+      "time": "2026-06-02 07:37:06",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【華泰證券：AI驅動感光幹膜需求爬升，行業頭部企業有望受益】華泰證券研報表示，感光幹膜作為PCB製造的關鍵材料，有望伴隨下游景氣持續增長，AI等領域進一步帶動高階幹膜需求。當前感光幹膜國產化率較低，伴隨內資企業加速高階領域技術突破與產能擴張以及政策端支援，國產化率未來有望提高，行業頭部企業有望受益。"
+    },
+    {
+      "id": "te:markets:555498",
+      "time": "2026-06-02 07:36:27",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Holds Gains on US-Iran Stalemate — Brent crude futures remained above $95 per barrel on Tuesday after jumping more than 4% at the start of the month, as ongoing peace talks between the US and Iran showed little progress, keeping markets cautious about supply disruptions. On Monday, Iranian media reported that Tehran had suspended communications with Washington in response to Israeli strikes in Lebanon. The report also indicated that Iran and its regional allies are considering the full closure of the Strait of Hormuz and the Bab el-Mandeb Strait, a key alternative route for global oil shipments. Meanwhile, President Donald Trump said negotiations remain ongoing and noted that a memorandum of understanding with Iran to reopen the Strait of Hormuz could be reached within the next week. Separately, Lebanese authorities called for all Lebanese territory to be covered under any extension of the ceasefire agreement between Hezbollah and Tel Aviv."
+    },
+    {
+      "id": "mkt:019e858b-b2d2-7993-96fb-56154e04ec18",
+      "time": "2026-06-02 07:36:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Explosions continue in Kyiv】Explosions have been heard in Kyiv since about 02:15 local time on the 2nd; Kyiv military administration head Tkachenko says Russian forces are launching ballistic missiles at the city."
+    },
     {
       "id": "4911446",
       "time": "2026-06-02 07:35:39",
@@ -156547,42 +156619,6 @@
         "國際"
       ],
       "text": "【天風策略：沃什要做格林斯潘】天風證券研報稱，當地時間5月22日，凱文·沃什在華盛頓宣誓就任美國聯邦儲備委員會主席，美國總統特朗普在白宮為其舉行就職儀式，並強調希望沃什保持“完全獨立”。沃什在講話中表示，將領導一個“以改革為導向”的美聯儲，強調履行控制通脹與實現充分就業的職責，並將“維持價格穩定和實現最大就業”作為核心使命。此次儀式並未按照慣例在美聯儲總部舉行，而是改在白宮——上一次還是格林斯潘的就職儀式。沃什表示，“我打算像格林斯潘那樣，以充沛的精力和明確的目標履行主席職責。”4月美聯儲會議紀要顯示，委員會內部政策分歧明顯，但鷹派立場進一步增強。截至2026年5月22日，兩年期國債收益率已升至4.13%，略高於聯邦基金目標利率3.75%，美國兩年期國債收益率作為債券市場投資者對美聯儲利率政策預期的指標，或反映投資者正調整倉位，預計美聯儲將在未來數月可能加息。"
-    },
-    {
-      "id": "4899212",
-      "time": "2026-05-26 07:37:36",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【全球最大鋁土礦生產國幾內亞擬於6月推出口管制，試圖提振價格】全球最大的鋁土礦生產國幾內亞計劃於2026年6月正式出臺針對鋁土礦的出口管制與改革措施，核心目的是透過控制出口總量來遏制礦價跌勢並促使其回升。幾內亞礦業和地質部長布納·西拉（Bouna Sylla）指出，作為供應了全球超過三分之一鋁土礦的國家，幾內亞2025年的出口量激增25%至1.83億噸，今年一季度增速進一步加快。這種嚴重的供過於求導致市場低迷，礦價較去年年初的峰值近乎腰斬。西拉強調，政府的原則是“供應絕不能超過需求”，希望透過調節出口量將價格拉回合理水平。"
-    },
-    {
-      "id": "4899211",
-      "time": "2026-05-26 07:37:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普就處置伊朗濃縮鈾提出新選項 】美東時間25日下午，美國總統特朗普在社交媒體發文，稱伊朗持有的濃縮鈾要麼由美方運回美國銷燬，要麼在國際監督下在伊朗銷燬。特朗普寫道，伊朗濃縮鈾“要麼立即交給美國”，由美方運回國內予以銷燬；“更好的是，在與伊朗伊斯蘭共和國通力協作與協調下，就地或在另一處可以接受的地點銷燬”，整個過程及相關事宜須由“原子能委員會”或等同機構全程見證。不清楚特朗普寫的“原子能委員會”是否指國際原子能機構。美國有線電視新聞網認為，與特朗普以往表態相比，此次表態顯示他對伊朗參與處置濃縮鈾過程持“開放態度”。（新華社）"
-    },
-    {
-      "id": "te:markets:553527",
-      "time": "2026-05-26 07:37:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Holds Losses as Iran Deal Eyed — Brent crude futures stayed near $97 per barrel on Tuesday after plunging over 6% in the previous session, as rising optimism over a potential US-Iran agreement that would end the conflict and reopen the Strait of Hormuz continued to weigh on prices. President Donald Trump said negotiations were progressing well, although he warned that fresh attacks could follow if talks collapsed, while a Pakistani mediator reportedly told China that an agreement was nearing. The US and Iran are currently discussing a framework that would extend the ceasefire for roughly two months, during which Washington would lift its blockade and Tehran would reopen the Strait of Hormuz. Still, several key issues remain unresolved, particularly Iran’s nuclear program and its demand to retain authority over maritime traffic through the vital waterway. At the same time, continued tensions around Hormuz, including reports of American and Israeli strikes on Iranian vessels, kept investors wary."
-    },
-    {
-      "id": "4899210",
-      "time": "2026-05-26 07:36:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4590美元/盎司，日內漲0.69%。"
     }
   ]
 }
