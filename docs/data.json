@@ -1,7 +1,64 @@
 {
-  "updated": "2026-06-02 04:08:48",
-  "count": 17087,
+  "updated": "2026-06-02 04:12:58",
+  "count": 17092,
   "items": [
+    {
+      "id": "4911305",
+      "time": "2026-06-02 04:12:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【丹麥看守首相宣佈新政府組建完成】當地時間6月1日，丹麥看守首相弗雷澤裡克森覲見丹麥國王，向國王報告成功組建新政府。"
+    },
+    {
+      "id": "mkt:019e84cf-e1c7-7993-96f9-bb34f377ad80",
+      "time": "2026-06-02 04:11:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Jazeera cited a Qatari diplomatic source saying the US informed Qatar that, after a phone call between Trump and Netanyahu, Israel's earlier threat to strike Beirut's southern suburbs was canceled."
+    },
+    {
+      "id": "te:markets:555476",
+      "time": "2026-06-02 04:10:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Hewlett Packard earnings above expectations at 0.79 USD — Hewlett Packard (HPE) released earnings per share at 0.79 USD, compared to market expectations of 0.53 USD."
+    },
+    {
+      "id": "te:markets:555475",
+      "time": "2026-06-02 04:10:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Prices Pare Some Gains But Remain Elevated — Oil prices pared some gains but remained sharply higher on the first trading day of June, with WTI crude futures rising 6% to trade above $92 per barrel. Prices initially surged after Iranian media reported that Tehran had suspended communications with Washington in response to attacks in Lebanon and was preparing to fully close the Strait of Hormuz, raising fears of further disruptions to global oil supplies. However, crude moved away from session highs after US President Trump said that Israel and Hezbollah had agreed to halt attacks against each other in Lebanon and that discussions with Iran were continuing. Trump also downplayed Iran's decision to suspend indirect talks, stating that he did not care whether the negotiations were over. Despite the pullback, market concerns remained elevated as the developments cast doubt on the prospects for an interim peace agreement, particularly amid fresh clashes involving US and Iranian forces near the Strait of Hormuz."
+    },
+    {
+      "id": "4911304",
+      "time": "2026-06-02 04:09:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "惠與科技股價飆升28%，此前該公司釋出全年盈利預期超出預期。"
+    },
+    {
+      "id": "mkt:019e84cd-cfc9-7993-96f9-b1beedcdf314",
+      "time": "2026-06-02 04:09:00",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Semafor reports Luma AI is building a robotics lab that will allow anyone to use its software to train robots."
+    },
     {
       "id": "4911303",
       "time": "2026-06-02 04:08:15",
@@ -155989,14 +156046,6 @@
         "Energy"
       ],
       "text": "【Inpex Ichthys LNG Workers Call Off Planned Strike】Offshore Alliance Says Talks Progressed; Strike Called Off; Ichthys ~2% Of Global LNG, 9.3 Mln T/Yr; Exports Mostly To Japan; Union Seeks Pay Hike, Better Conditions; Talks >1 Yr; ~20% Of Global LNG Supply Already Offline"
-    },
-    {
-      "id": "mkt:019e6279-c75e-7dd8-b21e-3aff9b1d6ea0",
-      "time": "2026-05-26 04:10:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "National Bank Of The Kyrgyz Republic Keeps Policy Rate Unchanged At 12.0%"
     }
   ]
 }
