@@ -1,7 +1,102 @@
 {
-  "updated": "2026-06-01 12:04:21",
-  "count": 16160,
+  "updated": "2026-06-01 12:08:11",
+  "count": 16161,
   "items": [
+    {
+      "id": "4909627",
+      "time": "2026-06-01 12:07:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "蔚來汽車：2026年5月，蔚來全新ES8完成11,475臺新車交付。截至目前，全新ES8在大型SUV級別以及40萬元以上市場連續五個月斬獲銷量冠軍，憑藉現象級的市場表現，進一步夯實了在高階純電SUV市場的引領地位。 5月23日，全新ES8達成第十一萬臺交付里程碑。"
+    },
+    {
+      "id": "te:markets:555201",
+      "time": "2026-06-01 12:06:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "South Korean Won Extends Losses on US-Iran Risks — The South Korean won weakened to around 1,515 per dollar, extending losses from the previous session amid lingering uncertainty surrounding US-Iran negotiations and higher oil prices. US President Donald Trump said he was in no hurry to finalize a deal with Iran, despite earlier expectations that an agreement could be reached soon, while disagreements over nuclear terms and the reopening of the Strait of Hormuz continued to cloud the outlook. Rising crude prices added pressure on the won, given South Korea's heavy reliance on energy imports. However, losses were tempered by strong export fundamentals, with South Korea's outbound shipments surging 53% year-on-year to a record $87.8 billion in May, driven by a 169% jump in semiconductor exports. Additionally, the KOSPI climbed to a fresh record high amid continued optimism surrounding AI-related investment and technology demand, helping improve risk appetite."
+    },
+    {
+      "id": "4909626",
+      "time": "2026-06-01 12:06:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【濱海投資：全資附屬公司與中石化新星新能源公司訂立協同發展清潔能源產業的戰略合作協議】濱海投資公告，全資附屬公司濱投天津與中石化新星新能源公司進一步訂立《關於協同發展清潔能源產業的戰略合作協議》，有效期為三年。"
+    },
+    {
+      "id": "4909625",
+      "time": "2026-06-01 12:06:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天海電子：公司現階段特種聯結器暫無法適配6G訊號傳輸需求】天海電子6月1日在互動平臺表示，公司現階段特種聯結器暫無法適配6G訊號傳輸需求。公司始終密切跟蹤通訊行業技術演進與6G產業發展動向，結合自身技術儲備持續研判市場機會。"
+    },
+    {
+      "id": "4909624",
+      "time": "2026-06-01 12:05:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "霍尼韋爾分拆完成後啟用新品牌名稱：霍尼韋爾科技與霍尼韋爾航空航天。"
+    },
+    {
+      "id": "4909623",
+      "time": "2026-06-01 12:05:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "【敘過渡總統與特朗普通話談取消制裁 】敘利亞過渡政府總統沙拉5月31日與美國總統特朗普通電話，討論取消美國針對敘利亞的所有制裁。敘利亞總統府發表宣告說，沙拉與特朗普的通話內容包括中東最新局勢以及敘利亞經濟等議題。沙拉向特朗普提到，取消美國對敘剩餘制裁關係到敘利亞的經濟振興和吸引外資。"
+    },
+    {
+      "id": "mkt:019e815b-c5ca-799c-966a-55ec4846f241",
+      "time": "2026-06-01 12:05:35",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Market Themes",
+        "The Trump Trade",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "【Copper enters key month as Trump tariff plan may become clearer】New York and LME copper rose on Monday as markets enter a month that could clarify the Trump administration’s import-tariff plans for metals. The US commerce secretary must submit recommendations on refined-copper tariffs to the president by June 30; ahead of any decision the US price premium versus the rest of the world has widened, drawing metal back to US ports and underpinning prices. Copper is up about 5% in May. Progress in US‑Iran ceasefire talks and spillover demand from AI-related assets have also supported the market. Goldman Sachs raised its LME year‑end 2026 copper target to $13,735/ton from $12,465, citing US stockpiling and weaker‑than‑expected mine supply keeping the market tight."
+    },
+    {
+      "id": "mkt:019e815b-a944-799c-966a-4942043009a5",
+      "time": "2026-06-01 12:05:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "China EV Leaders",
+        "Market Regions",
+        "Greater China",
+        "09866.HK",
+        "Impact bullish"
+      ],
+      "text": "NIO-SW (09866.HK): cumulative deliveries reached 1,148,118 vehicles to date."
+    },
+    {
+      "id": "mkt:019e815a-d578-799c-966a-45057b78c6f8",
+      "time": "2026-06-01 12:04:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "China EV Leaders",
+        "09866.HK",
+        "Impact bullish",
+        "NIO.N"
+      ],
+      "text": "NIO (09866.HK): 2026 cumulative deliveries reached 1,148,118 vehicles."
+    },
     {
       "id": "mkt:019e8159-85f5-799c-966a-3b87c2416db4",
       "time": "2026-06-01 12:03:05",
@@ -146989,88 +147084,6 @@
         "公司"
       ],
       "text": "【位元組反擊騰訊稱“都是賣豬食的，誰也別看不起誰”？抖音副總裁李亮：相關內容系謠言】近日，有傳言稱騰訊、位元組跳動高管“隔空互懟”，騰訊高管將部分“低質洗腦短影片”比作“豬食”，隨後位元組副總裁回應稱，“大家都是賣豬食的，誰也別互相看不起。”5月24日，抖音集團副總裁李亮在微博發文闢謠：相關內容系謠言，“我沒有說過這樣的話，也沒有其他‘位元組副總裁’說過這樣的話”，並表示其此前發文都可公開查證，要求微博、網易及時清理相關謠言。（澎湃新聞）"
-    },
-    {
-      "id": "4897908",
-      "time": "2026-05-25 12:07:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "【新加坡尋求將富人開戶時間縮短至一個月】隨著新加坡作為財富管理中心的重要性上升，該國金融監管機構正與私人銀行合作，以使用一種“風險適配”方法縮短開戶時間。新加坡金融管理局局長謝啇真在新加坡舉行的瑞銀亞洲投資大會上表示，該機構希望將週期從目前中值六週左右（複雜案例需更長時間），縮短至一個月以內。謝啇真週一稱，此舉旨在確保銀行避免對客戶的財富來源進行不必要和過度的審查，同時堅持高標準。謝啇真稱，金管局週一向金融機構釋出了一份通函，就最新方法提供了更多指導。他還表示，業界將推出案例研究，並培訓銀行員工和合規專業人員。"
-    },
-    {
-      "id": "mkt:019e5d51-5b35-7882-93ea-d92f6c968ead",
-      "time": "2026-05-25 12:07:44",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bearish",
-        "FTSE100",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "UK Bank Lending To Businesses Drops To Near 30-Year Low; Weak Growth, Tighter Lender Rules Squeeze Small-Firm Credit"
-    },
-    {
-      "id": "4897907",
-      "time": "2026-05-25 12:06:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華大九天：新推出首款Argus 3DIC物理驗證平臺，全面支援2.5D/3D異構整合封裝設計】華大九天在互動易回覆稱，在3DIC方面，公司前瞻性洞察到當前AI、GPU、儲存等晶片正依託3DIC技術突破後摩爾時代先進工藝及算力瓶頸，在3DIC設計EDA領域提前佈局，構建了覆蓋從異構整合三維晶片協同設計到驗證的全流程解決方案，填補了國內高階3DIC設計工具的空白，是國內唯一的3DIC設計驗證全流程EDA提供商。公司新推出首款業界領先的Argus 3DIC物理驗證平臺，全面支援2.5D/3D異構整合封裝設計，可實現3DIC多元化協同設計到封裝的全鏈路物理驗證。"
-    },
-    {
-      "id": "4897905",
-      "time": "2026-05-25 12:06:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "【廣東省戰略性新興產業投資引導基金正式啟動】5月25日上午，廣東省戰略性新興產業投資引導基金啟動儀式在廣州舉行。 省委書記黃坤明，省委副書記、省長孟凡利出席啟動儀式併為基金揭牌。  經省委、省政府批准，廣東省戰略性新興產業投資引導基金組建成立，總規模 1000億元 ，首期註冊規模 500億元，是廣東首支永續經營的公司制省級政府投資基金。該基金將按照“政府引導、市場化運作、專業化管理”原則，透過構建“引導基金-母基金-子基金”架構，發揮槓桿效應和“長錢長投”優勢，強化“投早、投小、投長期、投硬科技”正向激勵，引導和撬動國家級基金、央企資金、金融資本、產業資本及投資機構等各方資金投入，帶動打造萬億級產業投資基金叢集，更好助推廣東現代化產業體系建設。中信集團董事長奚國華，中國人壽集團董事長蔡希良，中國工商銀行行長劉珺，省領導張虎、馮忠華、張國智、李運、唐屹峰，廣州市市長孫志洋，深圳市市長覃偉中出席活動。"
-    },
-    {
-      "id": "mkt:019e5d50-196c-711d-be56-2277706e2a5c",
-      "time": "2026-05-25 12:06:06",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "【ISRAELI MILITARY: One Dead, One Critically Wounded In Southern Lebanon】ISRAELI MILITARY: Soldier Killed, One Critically Wounded In Southern Lebanon Drone Strike Israeli Forces Deaths ≥23 Since Mar 2; LEBANESE HEALTH MINISTRY Reports Lebanon Deaths 3,151, Injuries 9,571 Since Mar 2"
-    },
-    {
-      "id": "mkt:019e5d4f-a8ea-7882-93ea-cc0a89f74918",
-      "time": "2026-05-25 12:06:02",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "MAJOR EU COUNTRIES PUSH FOR TOUGHER CHINA POLICY AHEAD OF BRUSSELS DEBATE-SCMP"
-    },
-    {
-      "id": "mkt:019e5d4e-b02c-7882-93ea-c7481319495a",
-      "time": "2026-05-25 12:04:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "FTI: Thailand Auto Exports Rise 8.43% YoY In April; March -0.64%"
-    },
-    {
-      "id": "4897904",
-      "time": "2026-05-25 12:04:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "【京港高鐵雄商段全線拉通試驗正式啟動】從國鐵鄭州局瞭解到，今天（25日）凌晨5時13分，55432次高速綜合檢測列車從商丘站平穩駛出，標誌著京港高鐵雄商段全線拉通試驗工作正式啟動，為線路後續試執行、開通運營等做好準備。試驗期間，鐵路部門將對全線軌道、供電、接觸網、通訊等各系統開展全面綜合驗證。"
     }
   ]
 }
