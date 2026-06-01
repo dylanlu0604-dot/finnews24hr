@@ -1,7 +1,70 @@
 {
-  "updated": "2026-06-02 04:04:53",
-  "count": 17082,
+  "updated": "2026-06-02 04:08:48",
+  "count": 17087,
   "items": [
+    {
+      "id": "4911303",
+      "time": "2026-06-02 04:08:15",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗革命衛隊暗示曼德海峽通航將受管控】伊朗伊斯蘭革命衛隊“聖城旅”指揮官卡尼1日表示，以色列在美國支援下對黎巴嫩和加沙的軍事行動，將使“抵抗陣線”擴大對這兩個戰線的支援並“啟用”其他戰線，曼德海峽的通航狀況將與霍爾木茲海峽“保持一致”。（新華社）"
+    },
+    {
+      "id": "4911302",
+      "time": "2026-06-02 04:06:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊海軍宣佈，針對美軍在阿曼海襲擊伊朗“利安星號”船隻一事，己方對關聯美以兩方的“地中海航運薩里斯卡號”貨輪實施報復性打擊。"
+    },
+    {
+      "id": "mkt:019e84cb-1b23-7993-96f9-a93abfef6796",
+      "time": "2026-06-02 04:06:03",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps Navy attacked the US-owned cargo ship MSC Sariska."
+    },
+    {
+      "id": "mkt:019e84ca-963b-7993-96f9-a163fc73e33f",
+      "time": "2026-06-02 04:05:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bullish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "Dow Jones Industrial Average rose 46.48 points, or 0.09%, to 51,078.94 on Monday, June 1; the S&P 500 rose 19.96 points, or 0.26%, to 7,600.02; the Nasdaq Composite rose 114.19 points, or 0.42%, to 27,086.81."
+    },
+    {
+      "id": "mkt:019e84ca-86a6-7993-96f9-9c64bb8a39d8",
+      "time": "2026-06-02 04:05:25",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "TASNIM NEWS: Since the Persian Gulf maritime authority began operations in early May, more than 300 non‑Iranian‑flagged vessels have submitted information to apply for permits for safe transit of the Strait of Hormuz, the vast majority of them tankers."
+    },
+    {
+      "id": "mkt:019e84ca-63dc-7993-96f9-9773e4f53810",
+      "time": "2026-06-02 04:05:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Washington Post reports the Pentagon has designated its press office a classified space, barring journalists from entering to meet public affairs officers who traditionally answer their questions."
+    },
     {
       "id": "4911301",
       "time": "2026-06-02 04:04:07",
@@ -155934,15 +155997,6 @@
         "MKT News"
       ],
       "text": "National Bank Of The Kyrgyz Republic Keeps Policy Rate Unchanged At 12.0%"
-    },
-    {
-      "id": "mkt:019e60bd-be5a-7221-b41c-d90e88d10132",
-      "time": "2026-05-26 04:05:02",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "QATARI MEDIATION LANDS US-IRAN AGREEMENT ON TEHRAN’S FROZEN ASSETS - AL JAZEERA, CITING A SOURCE"
     }
   ]
 }
