@@ -1,7 +1,73 @@
 {
-  "updated": "2026-06-01 13:49:47",
+  "updated": "2026-06-01 13:53:52",
   "count": 16223,
   "items": [
+    {
+      "id": "mkt:019e81bd-b009-799c-966c-1018ad0cd835",
+      "time": "2026-06-01 13:52:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Coke most-active contract jumped 6.00% intraday to 2,015.50 yuan/ton."
+    },
+    {
+      "id": "4909775",
+      "time": "2026-06-01 13:52:28",
+      "tags": [],
+      "text": "焦煤主力合約觸及漲停，漲幅7.98％，報1387.5元/噸。"
+    },
+    {
+      "id": "mkt:019e81bc-7990-799c-966c-0921640dd0ca",
+      "time": "2026-06-01 13:51:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "China coking coal most-active futures contract hit the daily limit, up 7.98% at 1,387.5 yuan/ton."
+    },
+    {
+      "id": "4909774",
+      "time": "2026-06-01 13:50:58",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "焦炭連續主力合約日內漲6%，現報2015.50元。"
+    },
+    {
+      "id": "4909773",
+      "time": "2026-06-01 13:50:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海：開發“數字員工”等多智慧體協同產品】上海市新聞釋出會6月1日召開，介紹《上海市服務業發展“十五五”規劃》相關情況。上海市經濟資訊化委副主任葛東波表示，加快“人工智慧+”生產性服務業發展。將最佳化模型、算力、語料供給，加快培育工業設計、供應鏈管理、質量檢測、裝置運維等生產性服務業。推廣訂單履約監控、智慧排產等雲化服務，開發“數字員工”等多智慧體協同產品，部署“小快輕準”解決方案，推動AI+生產性服務業創新發展。"
+    },
+    {
+      "id": "4909772",
+      "time": "2026-06-01 13:50:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【OpenAI官宣進軍機器人賽道，短期內專注研發協助型機器人】OpenAI官宣進軍機器人賽道。6月1日，OpenAI CEO山姆·奧特曼（Sam Altman）在社交平臺釋出OpenAI Robotics招聘資訊，稱公司正在尋找傑出的全棧硬體、運營、系統及機器學習工程師，共同程式設計並製造對社會真正有用的機器人。奧特曼表示，人工智慧應當能夠在現實世界中幫助人類。短期內，OpenAI專注於研發能夠協助技術工人建設未來基礎設施的機器人；長遠來看，公司設想未來的每個人都能擁有一個可以完成各種需求的個人機器人。（澎湃）"
+    },
+    {
+      "id": "mkt:019e81bb-70f1-799c-966c-02280389d06a",
+      "time": "2026-06-01 13:50:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact mixed"
+      ],
+      "text": "UK May Nationwide house price index m/m due in 10 minutes."
+    },
     {
       "id": "4909771",
       "time": "2026-06-01 13:48:47",
@@ -147687,67 +147753,6 @@
         "其他"
       ],
       "text": "寒武紀成交額達200億元，現漲8.32%。"
-    },
-    {
-      "id": "4898012",
-      "time": "2026-05-25 13:53:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "【緯穎：目前AI伺服器最大挑戰在於零部件短缺 包括儲存、高階PCB板、MLCC等】緯穎總經理林威遠指出，目前AI伺服器最大挑戰在於缺料，包括儲存、高階PCB板、MLCC等關鍵零部件，供貨都吃緊。有成套零部件才有機會出貨，因此取得與確保零部件供應成為最重要的事，現在每天都與供應商、客戶溝通供料狀況。"
-    },
-    {
-      "id": "mkt:019e5db0-5fb9-711d-be57-24baf1a3e223",
-      "time": "2026-05-25 13:51:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IDF Detects Suspicious Air Target After Alarms In Arab Al-Aramsh; Loses Contact; Incident Over, No Injuries"
-    },
-    {
-      "id": "4898011",
-      "time": "2026-05-25 13:50:59",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美光馬納薩斯晶圓廠開始生產1α製程DDR4】日前美光位於弗吉尼亞州馬納薩斯的晶圓廠開始生產1α（1-alpha）DRAM晶片。據介紹，1α DRAM節點是美國本土有史以來最先進的記憶體技術，非常適合用於關鍵應用的長生命週期記憶體，包括DDR4和LPDDR4產品。美光也表示，其1α DRAM技術是全球最先進的DDR4技術，將在未來幾年與公司在愛達荷州博伊西和紐約克萊的領先記憶體技術同步支援長生命週期產品需求。美光預計馬納薩斯工廠將在2026年底前完成合格的1α DRAM生產。這項超過20億美元的投資將使美光在馬納薩斯的DDR4晶圓供應增加4倍。"
-    },
-    {
-      "id": "mkt:019e5daf-a615-711d-be57-1a5ea78cfdb1",
-      "time": "2026-05-25 13:50:40",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Musk Says New Model To Significantly Outperform 0.5T V8-Small On Grok Production Traffic, Particularly In Complex Coding"
-    },
-    {
-      "id": "4898010",
-      "time": "2026-05-25 13:50:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "馬斯克：Grok 基礎模型 V9-Medium (1.5T) 已完成訓練。評估結果良好。補充訓練中新增了大量遊標資料，後續還將新增更多資料。目前正在進行微調，強化學習將於幾天後開始。預計 2 至 3 周後正式釋出。與目前承載所有 Grok 生產流量的 0.5T v8-small 模型相比，這將是一次重大改進，尤其是在處理複雜編碼任務方面。"
-    },
-    {
-      "id": "mkt:019e5daf-397c-711d-be57-1250482ba75e",
-      "time": "2026-05-25 13:50:12",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Musk Says Grok Base Model V9-Medium (1.5T) Training Complete; Eval Positive; Cursor Data Added; Fine-Tuning Underway; RL To Start In Days; Release In 2-3 Weeks"
-    },
-    {
-      "id": "4898009",
-      "time": "2026-05-25 13:49:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美方承認對伊朗動武損失42架軍機】美國國會研究服務處（CRS）近日釋出報告顯示，對伊朗動武期間，美軍至少損失42架飛機。其中，確定“完全毀壞”的有4架F-15E戰鬥機、2架KC-135加油機、2架MC-130J運輸機、24架MQ-9無人機，以及A-10攻擊機、E-3預警機和MQ-4C“海神”無人機各1架。此外，還有1架F-35A隱身戰機、1架HH-60W直升機與5架KC-135加油機被擊傷。鑑於CRS的官方背景，這份報告被外界認為可信度較高，但也有美媒指出，報告中仍存遺漏之處。（中新網）"
     }
   ]
 }
