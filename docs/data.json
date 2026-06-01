@@ -1,7 +1,81 @@
 {
-  "updated": "2026-06-01 20:15:41",
+  "updated": "2026-06-01 20:19:39",
   "count": 16644,
   "items": [
+    {
+      "id": "4910767",
+      "time": "2026-06-01 20:18:16",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【燃油漲價，印度多家航空公司大幅削減航班】由於航空燃油成本上漲和旅行需求疲軟，印度航空公司、靛藍航空公司和印度航空快運公司決定自1日起大幅削減國內航班。此前，這些航空公司已削減部分國際航班。"
+    },
+    {
+      "id": "4910766",
+      "time": "2026-06-01 20:17:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "Coinbase Global股價盤前下跌4%，Strategy Asset股價下跌5.8%。"
+    },
+    {
+      "id": "4910765",
+      "time": "2026-06-01 20:17:21",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【摩根大通交易員對投機型科技股持懷疑態度】由安德魯·泰勒領導的摩根大通市場情報部門指出，在經歷瞭如此迅猛的上漲之後，鑑於潛在收益率仍有可能高舉不下，投資者理應“對科技股中那些風險較高的個股保持警惕”。泰勒主張轉向該行業中更具知名度的公司，尤其是在債券收益率上升的情況下，因為這可能會對規模較小且虧損的公司造成最大影響。他補充道，那些規模較大、盈利狀況較好的科技股進行的股票回購活動“有助於推動向優質企業的轉型。”"
+    },
+    {
+      "id": "mkt:019e831d-c4e7-7112-8c90-4dfd618bc703",
+      "time": "2026-06-01 20:17:06",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact bearish",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "【JP Morgan traders wary of speculative tech names】Goldman Sachs' basket of unprofitable tech stocks rose 27% in May, outperforming the Nasdaq-100 by 17 percentage points and posting its best monthly performance since November 2020. The basket is up 57% year-to-date vs. an 11% gain for the S&P 500. JP Morgan Market Intelligence, led by Andrew Taylor, warns investors to be cautious on higher-risk tech names after the rapid rally and recommends rotating into larger, better-known firms; rising bond yields could hurt smaller, loss-making companies most. Share buybacks by larger, profitable techs are aiding a shift toward quality."
+    },
+    {
+      "id": "4910764",
+      "time": "2026-06-01 20:16:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "南非主要股指下跌 1.1%，報 113422.00 點。"
+    },
+    {
+      "id": "4910763",
+      "time": "2026-06-01 20:15:21",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【檔案：歐盟雲端計算新規將限制亞馬遜、微軟、谷歌參與戰略性招標專案】相關檔案顯示，歐盟計劃為關鍵公共採購專案中的雲端計算服務設立嚴格准入標準，此舉或將把亞馬遜、微軟、谷歌三大美國科技企業排除在相關專案之外。 該提案是歐盟委員會《雲端計算與人工智慧發展法案》的組成部分。歐盟數字事務負責人亨娜·維爾庫寧將於週三正式公佈這套法案及配套政策，核心目標是降低歐洲對美國科技的依賴。 這份此前未對外披露的提案仍有可能在最終階段作出調整。提案新增非價格類強制評標標準，要求專案優先選用歐盟本土研發的軟硬體產品，這將進一步對美國大型科技企業形成限制。 歐盟委員會未就方案細節置評，但表示這套科技自主配套政策，“對於提升歐洲本土技術實力、增強區域競爭力與安全保障能力至關重要”。（環球市場播報）"
+    },
+    {
+      "id": "4910762",
+      "time": "2026-06-01 20:15:18",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "加密概念股盤前下跌，比特幣跌至一個多月低位。riot遊戲平臺股價下跌2.9%；Hut 8 Mining美股上市股份下跌1.5%；Marathon Digital Holdings股價下跌2.6%。"
+    },
+    {
+      "id": "4910761",
+      "time": "2026-06-01 20:15:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "B·萊利投資銀行首次覆蓋美國稀土，給予買入評級，目標價為28美元。"
+    },
     {
       "id": "4910760",
       "time": "2026-06-01 20:14:48",
@@ -151635,77 +151709,6 @@
         "公司"
       ],
       "text": "市場訊息：埃尼集團及其合作方獲批象牙海岸巴萊因油田三期專案投資。整體油田三期開發後，原油日產量將從6萬桶提升至15萬桶，天然氣日產量從8000萬立方英尺增至2億立方英尺。"
-    },
-    {
-      "id": "4898812",
-      "time": "2026-05-25 20:19:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列訊息：一架無人機炸彈襲擊紹梅拉一處建築，暫無人員傷亡。"
-    },
-    {
-      "id": "4898811",
-      "time": "2026-05-25 20:19:17",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【韓國現代汽車組建專項團隊 推進智慧工廠與機器人業務】業內訊息人士週一表示，韓國現代汽車集團新設專門部門，推進軟體定義工廠戰略，並統籌機器人零部件採購工作，為旗下製造廠區部署阿特拉斯人形機器人鋪路。 集團近期增設軟體定義工廠專案統籌崗位，任命新加坡創新中心首席創新官Alpesh Patel出任該負責人。現代旗下美國子公司波士頓動力研發的阿特拉斯人形機器人，曾亮相2026年拉斯維加斯國際消費電子展。 此前現代汽車集團公佈規劃，計劃2028年前建成年產3萬臺人形機器人的產能基地，陸續在現代、起亞旗下工廠投入總計2.5萬臺機器人作業。"
-    },
-    {
-      "id": "4898810",
-      "time": "2026-05-25 20:18:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "【報告：德國汽車和紡織行業受就業人數下降打擊】安永的一份報告顯示，在德國工業就業人數普遍低迷的情況下，德國汽車和紡織行業繼續受到就業人數下降的嚴重影響。報告稱，去年汽車行業的員工人數下降了4%，自2019年以來降幅高達15%。紡織行業的降幅更為劇烈，自2019年以來流失了22%的工作崗位。報告發現，與此同時，僅有兩個行業逆勢而上，自2019年以來，化工和製藥行業的就業人數略有增加。"
-    },
-    {
-      "id": "4898809",
-      "time": "2026-05-25 20:18:06",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【報告：美國10年期國債收益率升幅料將超過歐元區同類債券】法國外貿銀行策略師在一份報告中表示，由於美國經濟更為強勁，美國10年期國債收益率的升幅可能超過歐元區同類債券。他們表示：“鑑於美國經濟相對具有韌性、金融環境在結構上更為寬鬆，以及對長端收益率高企的容忍度更高，中期內美國國債收益率面臨的上升壓力應會大於歐元區利率。“相比之下，歐元區經濟增長對能源價格高企“要脆弱得多“。法國外貿銀行表示，這應會限制歐洲央行像目前市場預期的那樣大幅加息的能力。Tradeweb資料顯示，10年期德國國債收益率下跌逾9個基點，至2.941%的六週低點。"
-    },
-    {
-      "id": "4898808",
-      "time": "2026-05-25 20:16:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【賽恩斯再融資定於6月1日上會】上海證券交易所上市稽核委員會定於2026年6月1日召開2026年第30次上市稽核委員會審議會議，審議賽恩斯環保股份有限公司(再融資)。"
-    },
-    {
-      "id": "te:economy:553465",
-      "time": "2026-05-25 20:16:24",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Mexico",
-        "Balance of Trade",
-        "Importance 1"
-      ],
-      "text": "Mexico Posts Larger-Than-Expected Trade Surplus — Mexico’s trade balance rebounded to a $4.52 billion surplus in April 2026 from a $0.04 billion deficit a year earlier, beating forecasts of a $1.41 billion surplus. Exports surged 32.6% year-on-year to $72.04 billion, driven by a 71% jump in extractive shipments. Manufacturing exports also rose sharply by 34%, with auto exports increasing 8.2%. Meanwhile, exports of agricultural and livestock products edged up 0.1%. Imports advanced 24.1% to $67.52 billion, mainly due to a 29.8% increase in intermediate goods purchases. Imports of consumer goods rose 7.7%, while capital goods imports increased 1.3%. Year-to-date, the trade balance recorded a surplus of $247.63 billion."
-    },
-    {
-      "id": "mkt:019e5f10-aea6-711d-be5b-eda4f8ba4b69",
-      "time": "2026-05-25 20:16:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iran Parliament Speaker Ghalibaf Leads Delegation To Doha】Iran Speaker Mohammad Bagher Ghalibaf Arrives In Doha; Delegation To Hold Talks With Qatari Officials On Ending Hostilities"
-    },
-    {
-      "id": "4898807",
-      "time": "2026-05-25 20:15:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【偉測科技：2025年度現金分紅總額調整至9244.86萬元（含稅）】偉測科技公告，因公司總股本由1.68億股增加至1.68億股，公司擬維持每10股派發現金股利5.5元（含稅）不變，現金分紅總額由9227.06萬元（含稅）調整至9244.86萬元（含稅）。"
     }
   ]
 }
