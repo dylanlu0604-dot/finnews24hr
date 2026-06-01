@@ -1,7 +1,27 @@
 {
-  "updated": "2026-06-02 02:35:43",
-  "count": 17029,
+  "updated": "2026-06-02 02:39:36",
+  "count": 17030,
   "items": [
+    {
+      "id": "4911246",
+      "time": "2026-06-02 02:36:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "黎巴嫩真主黨議員哈桑・法德拉拉： 全面停火是以色列軍隊撤出黎巴嫩全部領土的先決條件。"
+    },
+    {
+      "id": "mkt:019e8478-baae-7993-96f8-b0c31521bd6e",
+      "time": "2026-06-02 02:36:05",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "HEZBOLLAH MP Hassan Fadlallah said a full ceasefire would be a precondition for Israeli withdrawal from all Lebanese territory."
+    },
     {
       "id": "mkt:019e8478-01b2-7993-96f8-af5b388ff15c",
       "time": "2026-06-02 02:35:17",
@@ -155463,18 +155483,6 @@
         "Industrial Metals"
       ],
       "text": "China's Most Active Coking Coal futures Gain Narrows To 6.00%, 1271.00 Yuan/mt"
-    },
-    {
-      "id": "mkt:019e6226-11bf-7dd8-b21d-d356542d5205",
-      "time": "2026-05-26 02:38:42",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "【Rubio: Strait Of Hormuz Must Remain Open; Iran Deal Wording Talks May Take Days】Rubio Says Strait Of Hormuz Must Remain Open After US Airstrike; Iran Agreement Wording Talks May Take Days"
     }
   ]
 }
