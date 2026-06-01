@@ -1,7 +1,32 @@
 {
-  "updated": "2026-06-01 11:56:11",
-  "count": 16152,
+  "updated": "2026-06-01 12:00:28",
+  "count": 16153,
   "items": [
+    {
+      "id": "4909615",
+      "time": "2026-06-01 11:59:04",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【谷歌今夏將在日本東京開設美國以外首家零售店】谷歌6月1日宣佈，今夏將在日本東京表參道開設其在美國以外的首家零售店。宣告稱，顧客可在店內體驗和購買最新款谷歌Pixel手機等產品，並獲得最新的AI體驗。"
+    },
+    {
+      "id": "4909614",
+      "time": "2026-06-01 11:57:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【建投能源成立新公司 含風力發電相關業務】企查查APP顯示，近日，建投（新疆）新能源有限公司成立，註冊資本1000萬元，經營範圍包含：發電技術服務；風力發電技術服務；電力行業高效節能技術研發；合同能源管理等。企查查股權穿透顯示，該公司由建投能源全資持股。"
+    },
+    {
+      "id": "4909613",
+      "time": "2026-06-01 11:55:49",
+      "tags": [
+        "行業"
+      ],
+      "text": "【乘聯分會崔東樹：1-4月中國新能源乘用車佔世界份額61%】6月1日，乘聯分會秘書長崔東樹發文表示，2026年1-4月世界汽車銷量達到3096萬臺，新能源汽車達到665萬臺。2026年1-4月的新能源車份額達到21.4%，其中純電動車的佔比達到14.7%，插電混動達到6.7%的汽車比例，2026年1-4月普通混合動力達到7.9%超過插混成為增長亮點。   2026年1-4月中國新能源乘用車世界份額達到61%的水平。2026年中國在世界純電動車市場份額56%份額，2026年中國在世界插電混動份額達到71%的高水平。"
+    },
     {
       "id": "4909612",
       "time": "2026-06-01 11:54:01",
@@ -146967,26 +146992,6 @@
         "Importance 1"
       ],
       "text": "Palm Oil Retreats on Stronger Ringgit, Weak Exports — Malaysian palm oil futures fell over 1% to below MYR 4,500 per tonne, reversing gains from the prior session amid a stronger ringgit and weakness in Dalian edible oils. Meanwhile, the Chicago market was closed for a holiday. Broader energy markets also pressured sentiment, with crude oil prices slipping to two-week lows on optimism that the U.S. and Iran were moving closer to a peace deal. Weak exports further weighed on risk appetite, with cargo surveyors noting that palm oil shipments during May 1–20 dipped between 13.9% and 20.5% from April. In India, the world’s largest palm oil buyer, imports shrank 26% in April to a four-month low due to softer institutional demand and a narrowing price discount. Still, Losses were tempered by tighter exports in top grower Indonesia, set to phase in June–August ahead of full implementation in September, which could benefit Malaysia. Jakarta will also lift its biodiesel mandate to B50 in July, while Malaysia plans to raise blending to B15 in June."
-    },
-    {
-      "id": "te:markets:553306",
-      "time": "2026-05-25 12:00:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Copper Rises as Market Sentiment Improves — Copper futures climbed to around $6.4 per pound on Monday, reaching their highest level in more than a week as investor sentiment strengthened on signs that the US and Iran were moving closer to a deal that could reopen the Strait of Hormuz, easing concerns over inflation and further interest rate hikes. Still, President Trump said Washington would maintain its blockade of the Strait of Hormuz until a formal agreement is finalized, adding that he would not “rush” into a deal. Copper prices also continued to draw support from the strong rally in AI-related technology stocks since the beginning of May, reinforcing expectations for higher demand tied to electrification and wiring needs in data centers. Additional support came from the global transition toward clean energy, which is expected to sustain long-term copper demand. At the same time, supply concerns linked to the Middle East conflict, particularly shortages of sulfur used in copper smelting, continued to underpin prices."
-    },
-    {
-      "id": "4897897",
-      "time": "2026-05-25 11:56:39",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【三艘LNG運輸船悄然透過霍爾木茲海峽】儘管霍爾木茲海峽幾乎全面關閉，近日仍有三艘裝有液化天然氣(LNG)的油輪似乎成功透過該航道，卡達和阿聯酋的供應商試圖將燃料運往主要買家。船舶追蹤資料顯示，“Al Rayyan”號油輪透過霍爾木茲海峽後，週一被發現出現在阿曼首都馬斯喀特以北海域。這艘油輪於5月22日左右停止發出訊號，當時停泊在波斯灣卡達拉斯拉凡出口工廠附近。船舶資料顯示，另一艘在3月下旬裝載卡達貨物的油輪，也在週日至週一期間透過了霍爾木茲海峽。Fuwairit號輪船在部分經過霍爾木茲海峽時停止傳送訊號，隨後在馬斯喀特以北重新出現。根據資料，這艘船目前正向巴基斯坦方向移動。自2月下旬戰爭爆發以來，波斯灣地區的液化天然氣出口國被想盡辦法，希望將困在該地區的燃料運出。媒體週日報道稱，一艘在阿布扎比國家石油公司達斯島出口設施裝載貨物的LNG油輪，已駛離霍爾木茲海峽，週末被發現正駛向印度。"
     }
   ]
 }
