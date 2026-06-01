@@ -1,7 +1,36 @@
 {
-  "updated": "2026-06-02 02:08:52",
-  "count": 17034,
+  "updated": "2026-06-02 02:12:44",
+  "count": 17035,
   "items": [
+    {
+      "id": "mkt:019e8461-9aea-7993-96f8-7c6cb799b195",
+      "time": "2026-06-02 02:10:49",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bearish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Sources say Israel delayed planned airstrikes on Beirut at US request】Sources say Israel delayed planned airstrikes on Beirut, Lebanon, at the request of the US, which is advancing a ceasefire initiative and urged Israel to wait; the reports have not been confirmed by Israeli officials."
+    },
+    {
+      "id": "4911240",
+      "time": "2026-06-02 02:10:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "【訊息人士稱以色列應美國要求推遲空襲黎巴嫩貝魯特】訊息人士稱，以色列應美國的要求推遲了原定對黎巴嫩貝魯特的空襲計劃，並補充說，美國正在推進一項停火倡議，並要求以色列等待。但相關訊息未得到以色列官方證實。（央視新聞）"
+    },
+    {
+      "id": "4911239",
+      "time": "2026-06-02 02:08:51",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【市況火熱，歐洲垃圾級企業競相削減貸款成本】本週伊始，借款人正紛紛湧向歐洲槓桿貸款市場進行債務重定價，希望利用有利的信用條件來削減其加點。漢堡王（Burger King）的運營商Restaurant Brands Europe、眼科護理服務商nexeye、以及汽車零部件製造商Parts Holding Europe等公司，均在尋求將其歐元定期貸款的利率削減25-50個基點。生育連鎖機構Ivirma同樣計劃對其借款進行重定價——並在現有債務基礎上增加一筆等值5000萬歐元的定期貸款；而MotoGP Sports則試圖在其目前支付的、高於基準利率275個基點的利息水平上進一步調降。"
+    },
     {
       "id": "mkt:019e845e-683f-7993-96f8-70b046549556",
       "time": "2026-06-02 02:07:19",
@@ -155504,22 +155533,6 @@
         "Importance 1"
       ],
       "text": "Energy Commodities Updates: Brent Crude Oil Plunges by 6.76% — Top commodity losers are Brent Crude Oil (-6.76%), Natural Gas EU (-6.47%) and Crude Oil WTI (-6.47%). Gains are led by Coking Coal (4.66%)."
-    },
-    {
-      "id": "4899088",
-      "time": "2026-05-26 02:11:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "xAI：Grok創作功能現已面向所有SuperGrok及X高階增強版使用者開放測試版。"
-    },
-    {
-      "id": "4899087",
-      "time": "2026-05-26 02:09:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列高階官員：遏制階段已然結束，以色列決定對真主黨發動大規模打擊。"
     }
   ]
 }
