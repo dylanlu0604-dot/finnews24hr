@@ -1,7 +1,127 @@
 {
-  "updated": "2026-06-01 19:16:35",
-  "count": 16549,
+  "updated": "2026-06-01 19:20:32",
+  "count": 16558,
   "items": [
+    {
+      "id": "4910617",
+      "time": "2026-06-01 19:19:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印尼PT SMART Tbk代表團到訪中控技術】近日，印尼綜合性農業食品企業——PT SMART Tbk（金光糧油）高層代表團專程到訪中控技術，雙方圍繞糧油及食品全產業鏈的自動化升級、數字化轉型及工業AI應用進行了深入探討，並就未來合作方向達成重要共識。"
+    },
+    {
+      "id": "4910616",
+      "time": "2026-06-01 19:19:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【漢朔科技：2025年權益分派後回購股份價格上限調整為83.90元/股】漢朔科技公告稱，公司2025年年度權益分派方案為以4.19億股為基數，每10股派1元現金（含稅），共計派發現金紅利4187.20萬元。根據回購方案，自2026年5月29日（權益分派除權除息日）起，回購股份價格上限由不超過84元/股（含）調整至不超過83.90元/股（含）。除價格上限調整外，回購其他事項均無變化。"
+    },
+    {
+      "id": "4910615",
+      "time": "2026-06-01 19:18:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【深振業A：擬1.5億元出售5項深圳地區自有物業】深振業A(000006)6月1日公告，為盤活存量資產，提高資產週轉與資金使用效率，公司董事會同意採用公開掛牌方式在深圳聯合產權交易所公開掛牌轉讓5項深圳地區自有物業，包括：寶麗大廈裙樓二層、寶麗大廈裙樓三層、星海名城三期幼兒園整棟、星海名城組團一商鋪肉菜市場一層、星海名城組團一商鋪肉菜市場二層。本次擬出售物業掛牌底價總計1.5億元。"
+    },
+    {
+      "id": "mkt:019e82e8-7bf5-7112-8c8e-76a7ab1bd55b",
+      "time": "2026-06-01 19:18:54",
+      "tags": [
+        "MKT News",
+        "NOW.N",
+        "Impact bullish",
+        "ADBE.O"
+      ],
+      "text": "U.S. software stocks extended premarket gains: ServiceNow (NOW.N) up 11%, Adobe (ADBE.O) up 5.7%."
+    },
+    {
+      "id": "4910614",
+      "time": "2026-06-01 19:18:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "美股盤前軟體股擴大漲幅；SERVICENOW上漲11%，ADOBE上漲5.7%。"
+    },
+    {
+      "id": "mkt:019e82e8-19d3-7112-8c8e-6e0bc259c5d3",
+      "time": "2026-06-01 19:18:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Beijing launches first Space Compute Industry Innovation Center】June 1 — At the Haidian-hosted Beijing Satellite IoT Industry Development Conference, Beijing formally established its first Space Compute Industry Innovation Center. The center was approved by the Beijing Municipal Bureau of Economy and Information Technology and is led by Beijing University of Posts and Telecommunications with Haidian District support and participation from industry leaders. Operating under a company-plus-alliance model, it targets six R&D areas: space-native compute chips with high reliability and heat tolerance; high-performance, ultra-interconnect space compute payloads; space compute satellite platforms and standards; large models optimized for power and reliability constraints in space; integrated space–ground communications, telemetry networking and cloudification; and commercialization of space compute services and tokenized operations. The center aims to build an end-to-end space compute ecosystem across chip–hardware–platform–intelligence–network–application."
+    },
+    {
+      "id": "4910613",
+      "time": "2026-06-01 19:17:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【北京市首個太空算力產業創新中心正式成立】6月1日，北京市衛星物聯網行業發展大會在海淀成功舉辦。大會現場宣佈，北京市首個太空算力產業創新中心正式成立，該中心由北京市經濟和資訊化局批覆設立，由北京郵電大學在海淀區的支援下，聯合行業龍頭企業共同牽頭組建。北京郵電大學計算機學院院長王尚廣教授介紹，該中心採用“公司+聯盟”模式，圍繞太空算力全產業鏈系統佈局六大攻關方向——高可靠強耐熱的太空原生算力晶片、高效能超互聯的太空算力載荷、太空算力衛星平臺與標準體系、面向功耗與可靠性約束的太空大模型、天地一體通訊測控組網與雲化、太空算力服務化與Token化運營，貫通“晶片—硬體—平臺—智慧—網路—應用”全棧協同，系統打造太空算力原生產業體系。"
+    },
+    {
+      "id": "4910612",
+      "time": "2026-06-01 19:17:28",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【江蘇國信：股票交易異常波動 一季度淨利潤同比降9.73%】江蘇國信公告稱，公司股票於2026年5月28日、5月29日和6月1日連續三個交易日收盤價格漲幅偏離值累計超20%，屬異常波動。公司基本面未變，目前未開展算電協同業務，也未參與蒙電入蘇專案。2026年一季度，公司歸屬於上市公司股東的淨利潤同比下降9.73%，扣非淨利潤同比下降9.39%。當前平均上網電價同比顯著下降，燃料成本存上升風險，經營有挑戰。"
+    },
+    {
+      "id": "te:markets:555365",
+      "time": "2026-06-01 19:17:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Rise to Record High — Futures tracking US equities rose to new records on Monday, extending the momentum of support from the tech sector, which has outweighed concerns of macroeconomic headwinds stemming from soaring energy prices. Contracts tracking the S&P 500, Nasdaq 100, and Dow were around 0.5% higher for new peaks. Nvidia advanced over 2% premarket after it announced its new RTX Spark Superchip to mark its entry in the PC market, rivaling AMD and Intel, which plunged around 5% each. The efficiency pledged my Nvidia's new offering lifted software and hyperscaler stocks for fresh momentum in the sector, with Microsoft and Oracle jumping 4% each. In turn, broader sectors were more muted as oil prices rebounded amid the persistent lack of clarity regarding progress on the deal between Iran and the US. Berkshire Hathaway shares were flat following news it will acquire Taylor Morrison for $6.8 billion, the firm's first move following the departure of Warren Buffet."
+    },
+    {
+      "id": "mkt:019e82e6-895a-7112-8c8e-644b9ae33697",
+      "time": "2026-06-01 19:16:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "QCOM.O",
+        "Impact bearish"
+      ],
+      "text": "Qualcomm (QCOM.O) U.S. premarket decline widened to about 10%."
+    },
+    {
+      "id": "4910611",
+      "time": "2026-06-01 19:16:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【賽力斯：2026年5月汽車銷量36480輛，同比下降17.38%】賽力斯公告，2026年5月公司汽車產量36583輛，同比下降18.28%；銷量36480輛，同比下降17.38%。本年累計產量16.05萬輛，同比增長5.49%；累計銷量16.04萬輛，同比增長8.18%。其中新能源汽車本月產量34233輛，同比下降15.47%；銷量33476輛，同比下降16.27%；本年累計產量14.67萬輛，同比增長11.94%；累計銷量14.51萬輛，同比增長15.14%。"
+    },
+    {
+      "id": "4910610",
+      "time": "2026-06-01 19:16:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "【上期所：將於6月6日開展全市場測試】6月1日，上海期貨交易所釋出關於交易系統測試的通知，將於2026年6月6日（週六）開展全市場測試。相關事宜請參見《交易系統測試指南》。"
+    },
+    {
+      "id": "4910609",
+      "time": "2026-06-01 19:16:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "高通美股盤前跌幅擴大至10%。"
+    },
     {
       "id": "4910607",
       "time": "2026-06-01 19:15:04",
@@ -150839,38 +150959,6 @@
         "國際"
       ],
       "text": "據卡達半島電視臺25日報道，有伊朗官員表示，霍爾木茲海峽將分階段開放。（新華社）"
-    },
-    {
-      "id": "4898713",
-      "time": "2026-05-25 19:19:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "【鵬鼎控股：5月25日競得1.43億元土地使用權】鵬鼎控股公告稱，公司於2026年5月25日競得深圳市寶安區燕羅街道宗地號為A425 - 0617的國有建設用地使用權，土地面積141,225.15平方米，建築面積392,039平方米，用途為普通工業用地，成交價格1.43億元。本次交易不構成關聯交易和重大資產重組，涉及金額未達公司最近一期經審計淨資產的10%，無需提交審議。地塊將用於PCB產業投資，資金為自有資金，對財務和經營無重大不利影響。後續仍需辦理相關手續。"
-    },
-    {
-      "id": "4898711",
-      "time": "2026-05-25 19:18:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中航重機：擬出售不超1673.40萬股上大股份股票】中航重機公告稱，公司第八屆董事會第三次臨時會議於2026年5月25日審議透過議案，同意以詢價轉讓方式擇機出售所持中和上大航空材料股份有限公司部分股票，不超1673.40萬股，出售比例不超4.5%，出售期限至2026年9月4日。截至2025年12月31日，該部分股票賬面價值8680.84萬元。本次交易不構成關聯交易和重大資產重組，無需提交股東會審議。"
-    },
-    {
-      "id": "4898710",
-      "time": "2026-05-25 19:18:36",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內漲3%，現報1423.00美元/盎司。"
-    },
-    {
-      "id": "4898709",
-      "time": "2026-05-25 19:17:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "【深圳常住人口首破1800萬 去年增量居全國城市首位】25日，深圳市釋出2025年國民經濟和社會發展統計公報。公報顯示，2025年末全市常住人口達1824.85萬人，首次突破1800萬人，比上年末增加25.90萬人。其中，城鎮常住人口1820.96萬人，佔常住人口的比重為99.79%。（深圳釋出）"
     }
   ]
 }
