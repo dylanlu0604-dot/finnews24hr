@@ -1,7 +1,166 @@
 {
-  "updated": "2026-06-01 14:45:18",
-  "count": 16209,
+  "updated": "2026-06-01 14:49:14",
+  "count": 16217,
   "items": [
+    {
+      "id": "4909861",
+      "time": "2026-06-01 14:48:20",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨連續主力合約日內漲13%，現報3945.00點。"
+    },
+    {
+      "id": "mkt:019e81f0-5c2c-799c-966d-42e20b3fd0b5",
+      "time": "2026-06-01 14:47:53",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Israeli Prime Minister Netanyahu ordered the Israel Defense Forces to strike targets in Beirut's southern suburbs."
+    },
+    {
+      "id": "4909860",
+      "time": "2026-06-01 14:47:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華創證券：維持藍思科技“強推”評級，積極拓展機器人&AI伺服器&商業航天新賽道】華創證券研報指出，藍思科技股權激勵彰顯發展信心，積極拓展機器人&AI伺服器&商業航天新賽道。機器人方面，公司已成功切入全球頭部機器人客戶供應鏈，作為智元機器人戰略合作伙伴，公司自2025年起為其靈犀系列產品提供全系列整機制造及核心模組生產服務，累計交付訂單規模達數千臺；商業航天方面，公司自2023 年起持續向頭部商業航天客戶批次供應地面接收器結構件模組；衛星端產品方面，公司自主研發的航天級UTG柔性玻璃，正與國內外商業航天客戶進行緊密聯合研發與技術驗證。公司消費電子和智慧汽車等主營業務穩健，同時積極拓展機器人、AI伺服器，以及商業航天等領域。預計公司26-28年實現歸母淨利潤54.80/69.05/85.28億元，參考可比公司領益智造、環旭電子、長盈精密，給予公司2026年45倍PE，目標股價46.70元，維持“強推”評級。"
+    },
+    {
+      "id": "4909859",
+      "time": "2026-06-01 14:47:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "內塔尼亞胡：已命令軍方襲擊貝魯特南郊目標。"
+    },
+    {
+      "id": "4909858",
+      "time": "2026-06-01 14:47:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "極石汽車2026年5月交付2052臺，銷量同比增長66%。"
+    },
+    {
+      "id": "te:markets:555233",
+      "time": "2026-06-01 14:47:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Set for Weaker Open — European equity markets were on track for a lower open on Monday as the lack of a longer-term agreement between the US and Iran to end hostilities and fully reopen the Strait of Hormuz kept investors on edge. Meanwhile, European Central Bank board member Isabel Schnabel warned that the growing adoption of stablecoins, most of which are tied to the US dollar, could weaken the euro’s role and reduce some countries’ control over monetary policy. She also reiterated comments from last week suggesting that the ECB should consider raising interest rates this month even if a US-Iran peace agreement is reached. In premarket trading, Euro Stoxx 50 and Stoxx 600 futures were both down about 0.3%, pointing to a softer start for European markets."
+    },
+    {
+      "id": "4909857",
+      "time": "2026-06-01 14:47:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "衣索比亞與債券持有人團體談判結束，雙方未能達成協議。"
+    },
+    {
+      "id": "te:markets:555231",
+      "time": "2026-06-01 14:46:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Taiwan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TAIEX Breaks 45,000 Mark, Closes 1.4% Higher — The TAIEX, Taiwan’s benchmark stock index, increased 605 points, or 1.4%, to close at 45,338 on Monday, extending gains from the previous session, primarily supported by electronic technology and technology services stocks. The broader index hit a new record high, surpassing the 45,000 level for the first time as optimism over AI demand continued to lift sentiment. A rally on Wall Street on Friday also fueled sentiment, supported by tech stocks amid persistent enthusiasm surrounding AI-related investments. Electronic technology stocks rose 1.2%, with MediaTek surging 5.7%, while Hon Hai Precision Industry gained 1.6%. Meanwhile, TSMC, the world's largest contract chipmaker, which accounts for more than 40% of the market's total value, was unchanged after rising 2.6% on Friday. Technology services stocks climbed 2.1%, with Wiwynn Corp. advancing 2.6%. On the data front, Taiwan's manufacturing sector grew at the fastest pace since August 2021 in May 2026, supported by stronger demand."
+    },
+    {
+      "id": "4909856",
+      "time": "2026-06-01 14:46:48",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美國和伊朗發生新衝突後美元上漲】週末美國和伊朗發生新衝突後美元上漲，提振了油價並對避險資產構成支撐。美國表示，在伊朗擊落一架美國無人機後，美方打擊了伊朗的防空雷達和無人機基地。這一訊息傳出之際，有關一項協議的談判仍在繼續。總統特朗普週一在Truth Social發帖稱，伊朗“非常希望達成一項協議，而且這對美國來說將是一項好協議“。DXY美元指數上漲0.1%，至99.011；該指數在週五曾觸及98.751的兩週低點，當時對達成協議的希望提振了該貨幣。"
+    },
+    {
+      "id": "4909855",
+      "time": "2026-06-01 14:46:42",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破94美元/桶，日內漲3.20%。"
+    },
+    {
+      "id": "4909854",
+      "time": "2026-06-01 14:46:41",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【司法部、國家發展改革委、商務部負責人就《國務院關於對外投資的規定》答記者問】2026年5月5日，國務院總理李強簽署第837號國務院令，公佈《國務院關於對外投資的規定》（以下簡稱《規定》），自2026年7月1日起施行。日前，司法部、國家發展改革委、商務部負責人就《規定》的有關問題回答了記者提問。 問：請簡要介紹一下《規定》的制定背景。 答：對外投資是對外開放的重要方面。黨的十八大以來，黨中央、國務院就深化對外投資領域改革，健全境外投資法律體系等作出一系列決策部署，我國對外投資規模穩居世界前列，參與國際產業分工合作不斷深化。隨著百年變局加速演進，地緣政治風險上升，國際競爭日益激烈，長期以來主要依據部門規章、規範性檔案等實施對外投資管理服務的模式已不符合現實需求，迫切需要高位階專門立法將長期施行的有效措施上升為法律制度，更好對接國際高標準經濟貿易規則，明確對外投資服務、管理、保護等方面的制度措施，以有效保護投資者及其對外投資合法權益，維護國家主權、安全和發展利益，在法治軌道上推進對外投資高質量發展。(新華社)"
+    },
+    {
+      "id": "mkt:019e81ee-dbb0-799c-966d-39aaaebe4db4",
+      "time": "2026-06-01 14:46:15",
+      "tags": [
+        "MKT News",
+        "000660.KS"
+      ],
+      "text": "【Fire, toxic gas leak at SK Hynix Cheongju plant; firm says production unaffected】At about 10:32 local time on June 1, a gas room linking two production bays at SK Hynix’s fourth campus in Cheongju, North Chungcheong Province, caught fire. Automatic sprinklers activated and the blaze was brought under control, but a fluorine gas leak injured seven people who were sent to hospital. SK Hynix evacuated about 3,600 staff. Residual gas was cleared by about 13:38 local time, all buildings were reopened and the company declared the incident closed. SK Hynix said plant production equipment was not affected and production would not be interrupted; the company is investigating the cause."
+    },
+    {
+      "id": "4909852",
+      "time": "2026-06-01 14:45:19",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "韓國交易所表示，市值龍頭三星電子股價於週一首次突破2000萬億韓元（摺合1.32萬億美元）。"
+    },
+    {
+      "id": "4909851",
+      "time": "2026-06-01 14:45:05",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【韓國頭部鋼鐵企業工會要求加薪：POSCO基本工資漲7.1%、現代制鐵績效獎金提高150%】據韓國《中央日報》中文版1日訊息，韓國鋼鐵行業排名第一、第二位的POSCO(浦項制鐵)和現代制鐵正在或即將與工會展開工資及集體協議協商。該報道援引業界1日訊息，POSCO(浦項制鐵)工會已於5月20日向公司提交談判要求案，其中包括基本工資上調7.1%等內容。雙方最早將於本月初啟動正式談判。"
+    },
+    {
+      "id": "4909850",
+      "time": "2026-06-01 14:45:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【6月1日：“農產品批發價格200指數”比上週五下降0.13個點】據農業農村部監測，6月1日“農產品批發價格200指數”為113.07，比上週五下降0.13個點，“菜籃子”產品批發價格指數為113.10，比上週五下降0.15個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為14.77元/公斤，比上週五下降0.6%；牛肉66.68元/公斤，比上週五上升0.1%；羊肉63.94元/公斤，比上週五下降0.2%；雞蛋10.24元/公斤，比上週五上升4.1%；白條雞17.09元/公斤，比上週五上升1.2%。重點監測的28種蔬菜平均價格為4.21元/公斤，比上週五上升0.7%；重點監測的6種水果平均價格為7.88元/公斤，比上週五上升2.6%。鯽魚20.58元/公斤，比上週五上升2.4%；鯉魚14.79元/公斤，比上週五上升0.3%；白鰱魚10.39元/公斤，比上週五下降0.9%；大帶魚43.47元/公斤，比上週五上升7.7%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與上週五相比價格升幅前五名的是平菇、大帶魚、菠蘿、蓮藕和雞蛋，幅度分別為7.8%、7.7%、6.6%、4.2%和4.1%；價格降幅前五名的是南瓜、西紅柿、土豆、洋白菜和韭菜，幅度分別為3.0%、2.7%、2.4%、2.3%和2.2%。"
+    },
+    {
+      "id": "te:markets:555230",
+      "time": "2026-06-01 14:44:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "ASX 200 Ends Muted Ahead of Key Data Releases — The ASX 200 was little changed on Monday, the first trading day of June, closing at 8,729 after the prior session’s rally. Gains in tech services, healthcare, and commercial services offset declines in process industries and consumer services. Traders braced for a busy week of domestic releases, including Q1 business inventories, company gross profits, and GDP. April trade data will also be due after March exports fell while imports surged. Meanwhile, fresh figures showed job ads rose in May for the first time in three months, while the monthly inflation gauge slipped 0.3% mom, its first decline since February. In the U.S, stock futures edged higher after President Donald Trump said Tehran “really wants to make a deal” that would benefit the U.S. and its allies. Two of the big four banks posted modest gains, alongside heavyweight BHP Group (0.3%) and Rio Tinto (1.7%). On the downside, Lynas Rare Earths slipped 2.6%, CSL Ltd. fell 2.3%, and Bluescope Steel lost 1.1%."
+    },
+    {
+      "id": "4909848",
+      "time": "2026-06-01 14:44:42",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【韓國SK海力士工廠發生火災】當地時間6月1日上午10時32分左右，位於韓國忠清北道清州市的SK海力士第四園區內，連線兩個生產間的氣體室發生火災，自動噴淋系統在起火後隨即啟動，火勢及時得到控制，但對人體有害的氟氣發生洩露，7人被送往醫院接受治療。 在有毒氣體洩漏後，SK海力士立即疏散了相關工廠內的約3600名員工。之後於當地時間13時38分左右完成殘留氣體清除工作，經確認無異常情況後，重新開放全部工廠建築，並宣佈事件處置結束。SK海力士方面表示，工廠的生產裝置執行未受影響，不會使生產中斷；目前公司正在調查事故發生的確切原因。”（央視新聞）"
+    },
     {
       "id": "4909847",
       "time": "2026-06-01 14:44:39",
@@ -147567,80 +147726,6 @@
         "國際"
       ],
       "text": "卡利巴夫再次當選伊朗議會議長。"
-    },
-    {
-      "id": "4898114",
-      "time": "2026-05-25 14:48:56",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【日經指數上漲2.9%創歷史新高，晶片股領漲】得益於對美伊和平談判的持續希望，日本日經指數收盤上漲2.9%，報65,158.19點，創歷史新高。晶片相關股票領漲，其中鎧俠大漲14%，Lasertec上漲13%。隨著原油價格下跌緩解了通貨膨脹擔憂，10年期日本國債收益率下降7個基點，至2.690%。在美國總統特朗普週日表示他不急於與伊朗達成結束戰爭的協議後，投資者正關注中東局勢的發展。美元報158.90日元，紐約市場週五晚間為159.19日元。"
-    },
-    {
-      "id": "4898113",
-      "time": "2026-05-25 14:48:36",
-      "tags": [
-        "市場"
-      ],
-      "text": "中芯國際尾盤20CM漲停，股價創歷史新高，成交額超320億元，市值達1.26萬億元。"
-    },
-    {
-      "id": "4898112",
-      "time": "2026-05-25 14:48:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內漲幅達6.04%，成分股中，中芯國際漲19.55%，盛美上海漲18.06%，拓荊科技漲16.99%，西部超導漲12.80%。"
-    },
-    {
-      "id": "4898111",
-      "time": "2026-05-25 14:48:03",
-      "tags": [],
-      "text": "科創50指數漲幅擴大至6％，中芯國際漲19％領漲成分股。"
-    },
-    {
-      "id": "4898110",
-      "time": "2026-05-25 14:47:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "希臘 1 至 4 月中央政府基礎預算盈餘達 51.9 億歐元。"
-    },
-    {
-      "id": "4898109",
-      "time": "2026-05-25 14:47:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華源證券：首予天味食品“買入”評級，內生、外延雙輪驅動收入增長】華源證券研報指出，天味食品復調龍頭多元擴張，內生、外延雙輪驅動成長。公司聚焦菜譜式調料、火鍋調料等複合調味品賽道，內生主業圍繞“好人家”和“大紅袍”兩大主品牌持續擴充品類、拓展渠道，最終在市場紅利期成功打造一系列億元級大單品、基本完成全國化佈局。同時，公司在行業調整期培育“外延擴張”新曲線，進一步完善多品類、全渠道佈局。截至2025年末，公司實現營收/歸母淨利潤約34.5/5.7億元，2019-2025年複合增速分別為12.2%/11.5%。復調賽道景氣度高，品類滲透率提升空間大，尤其是菜譜式調料成長空間廣闊。行業集中度提升空間大，龍頭有望脫穎而出；成長邏輯修復，高分紅凸顯價值。選取的可比公司海天味業、寶立食品、頤海國際26年平均PE值19倍，鑑於公司內生、外延雙輪驅動收入增長，基本面向上同時保持高分紅力度，首次覆蓋給予“買入”評級。"
-    },
-    {
-      "id": "4898108",
-      "time": "2026-05-25 14:46:46",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "創業板指漲2.00%，現報4017.388點；上證指數漲0.87%，現報4148.857點；深證成指漲1.57%，現報15842.868點。"
-    },
-    {
-      "id": "mkt:019e5de2-9da1-711d-be58-13a28cd95f93",
-      "time": "2026-05-25 14:46:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "India Finance Minister Says Govt Expects Rs1trn Revenue Loss From Consumption-Tax Cut"
-    },
-    {
-      "id": "4898107",
-      "time": "2026-05-25 14:45:46",
-      "tags": [
-        "行業",
-        "焦點"
-      ],
-      "text": "【全球超9成超大型油輪訂單湧向我國 中國超大型油輪全球爆單】最新資料顯示，今年一季度，我國新接67艘超大型油輪訂單，佔全球市場份額的92.0%，相關造船廠的建造週期已排至2030年。目前，我國油輪建造已掌握甲醇、液氨等最新雙燃料動力技術，我國船企正迎來油輪新接訂單集中爆發。（央視財經）"
     }
   ]
 }
