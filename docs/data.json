@@ -1,7 +1,117 @@
 {
-  "updated": "2026-06-01 22:18:17",
-  "count": 16918,
+  "updated": "2026-06-01 22:22:24",
+  "count": 16920,
   "items": [
+    {
+      "id": "mkt:019e838f-6dc6-7552-8900-518552490054",
+      "time": "2026-06-01 22:21:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "An Israeli Defense Ministry spokesman said the French government has decided to bar Israeli officials from attending this month’s European defence exhibition."
+    },
+    {
+      "id": "4911056",
+      "time": "2026-06-01 22:21:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國國防部：2026年5月31日星期日在伊拉克北部發生了一起訓練事故，一名英國軍人遇難。"
+    },
+    {
+      "id": "4911055",
+      "time": "2026-06-01 22:21:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防部發言人：法國政府已決定禁止以色列官員以官方身份參加本月舉辦的歐洲國際防務展。"
+    },
+    {
+      "id": "te:markets:555428",
+      "time": "2026-06-01 22:19:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "US Natgas Prices Ease from 3-Month High — US natural gas futures fell more than 3% to below $3.2 per MMBtu, retreating from a nearly three-month high of $3.29 reached in the previous session as traders reassessed supply and demand conditions. Weather forecasts continue to point to mostly above-normal temperatures through June 13, a trend that could boost gas consumption from power generators as air conditioning demand rises. On the supply side, gas production in the Lower 48 states averaged 109.4 billion cubic feet per day in May, slightly below April’s 109.8 bcfd. Meanwhile, flows to major US LNG export facilities declined to 17.1 bcfd from a record 18.8 bcfd in April due to seasonal maintenance work at several plants. Despite the latest pullback, US natural gas prices surged 18.9% in May, following a 4.1% decline in April."
+    },
+    {
+      "id": "mkt:019e838e-05d4-7552-8900-4d6262ef9733",
+      "time": "2026-06-01 22:19:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK Maritime Trade Operations said it is currently unclear whether there are any environmental impacts."
+    },
+    {
+      "id": "mkt:019e838d-c98f-7552-8900-4189b1295241",
+      "time": "2026-06-01 22:19:27",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "UK Maritime Trade Operations received a report of an incident about 40 nm southeast of Umm Qasr, Iraq, in which a merchant vessel transiting the Arabian Gulf was struck on its starboard side by an unidentified aerial object and a large explosion followed."
+    },
+    {
+      "id": "mkt:019e838d-81b7-7552-8900-3c2af3aaf817",
+      "time": "2026-06-01 22:19:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Baltic Dry Index slips as Capesize rates soften】The Baltic Dry Index (BDI) fell 2 pts, or 0.06%, to 3,222 on Monday as the Capesize index eased. The Capesize index dropped 7 pts, or 0.1%, to 5,496; Capesize average daily earnings fell dlr65 to dlr46,346. The Panamax index rose 1 pt to 2,344, with Panamax average daily earnings up dlr9 to dlr21,095. Supramax gained 1 pt to 1,570 and Handysize rose 2 pts to 853."
+    },
+    {
+      "id": "4911054",
+      "time": "2026-06-01 22:19:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海事貿易行動組織：一艘貨輪在阿拉伯海航行途中，右舷遭一枚未知彈丸擊中後發生了大規模爆炸。目前尚未發現此次事件對環境造成任何影響。"
+    },
+    {
+      "id": "4911053",
+      "time": "2026-06-01 22:18:53",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "訊息人士：巴里克黃金公司正在考慮將其非洲業務在英國上市。"
+    },
+    {
+      "id": "4911052",
+      "time": "2026-06-01 22:18:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海事貿易行動組織：已收到報告，伊拉克烏姆蓋瑟東南方向40海里處發生一起安全事件。"
+    },
+    {
+      "id": "mkt:019e838c-b67e-7552-8900-35746f8567fd",
+      "time": "2026-06-01 22:18:15",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "GOLD.O"
+      ],
+      "text": "Sources said Barrick Gold is considering a London listing of its African business."
+    },
+    {
+      "id": "te:economy:555427",
+      "time": "2026-06-01 22:18:07",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "UK Gilt Yields Jump on Inflation Fears — UK 10-year gilt yields climbed back above 4.9%, recovering from over one-month lows, as renewed US-Iran tensions pushed oil prices higher and intensified inflation concerns. Iran’s Tasnim News Agency reported on Monday that Tehran would halt negotiations with the US over Israeli strikes on Lebanon and fully close the Strait of Hormuz, accusing Washington of \"violating the ceasefire on all fronts.\" Over the weekend, both sides exchanged proposals to revise a draft deal to extend the ceasefire and reopen the Strait of Hormuz, though progress remained uncertain. The geopolitical uncertainty prompted investors to modestly raise expectations for further Bank of England rate hikes this year, with markets now pricing in two increases. Economically, UK house prices fell 0.6% in May, according to Nationwide, a steeper decline than the expected 0.1% and the largest monthly drop since June 2025, driven by weakening consumer confidence and the impact of the Iran conflict on energy prices."
+    },
     {
       "id": "mkt:019e838c-2a4d-7552-8900-2a64807db7a8",
       "time": "2026-06-01 22:17:41",
@@ -154253,96 +154363,6 @@
         "市場"
       ],
       "text": "哈莫尼黃金公司：此次人員死亡由豎井工程相關事故引發。"
-    },
-    {
-      "id": "4898949",
-      "time": "2026-05-25 22:22:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "【巴西總統接受預防性放射治療】巴西總統盧拉的醫療團隊今天（5月25日）釋出醫療報告說，盧拉在一個月前切除一處皮膚病變後，目前已開始接受頭皮部位補充性的預防性淺層放射治療。”報告還指出，盧拉將繼續“不受限制地維持日常活動”。盧拉4月24日在巴西聖保羅接受小型外科手術，切除了頭皮上的皮膚病變。巴西媒體報道說，盧拉切除的是一處基底細胞癌病變，相關治療過程順利，未出現併發症。該病變通常與長期日曬有關，不會向身體其他部位擴散。（CCTV國際時訊）"
-    },
-    {
-      "id": "te:markets:553483",
-      "time": "2026-05-25 22:22:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Rises on US-Iran Deal Hopes — The S&P/TSX Composite Index rose nearly 1% to trade above 34,500 on Monday, supported by signs that the US and Iran are nearing an agreement. US President Trump said on Saturday that a memorandum of understanding on a potential deal with Iran was “largely negotiated,” while both countries and mediators in Pakistan pointed to progress in talks. Oil prices fell on hopes that an agreement could reopen the Strait of Hormuz, easing stagflation concerns and pushing bond yields lower. Investors also awaited quarterly earnings from major Canadian lenders, with RBC rising 0.9%, TD Bank gaining 1.1%, and BMO adding 1.1%. Optimism surrounding AI-related technology stocks lifted Shopify by more than 1.6%. Meanwhile, higher gold prices supported mining shares, with Agnico Eagle and Barrick rising nearly 3% and Wheaton Precious Metals gaining over 4.5%. In contrast, lower crude prices weighed on energy producers, with Canadian Natural down more than 2% and Suncor Energy losing nearly 2%."
-    },
-    {
-      "id": "4898948",
-      "time": "2026-05-25 22:21:34",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "哈莫尼黃金公司通報，姆波能礦場發生事故，兩名員工身亡。"
-    },
-    {
-      "id": "4898947",
-      "time": "2026-05-25 22:21:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "【日產取消在英生產純電動汽車零部件計劃】日產汽車公司取消了在英國生產純電動汽車驅動裝置“動力總成”的計劃。為推進經營重組，日產已經決定削減國內外的汽車工廠數量並縮減產能，也將調整動力總成的生產基地。原計劃進行生產的是與日產共同開發EV動力總成的子公司“加特可”（Jatco）。加特可原計劃2026年在英國中部桑德蘭建成工廠，並向附近的日產的汽車廠供貨。"
-    },
-    {
-      "id": "4898946",
-      "time": "2026-05-25 22:20:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：由卡利巴夫率領的伊朗代表團離開多哈，啟程返回德黑蘭。"
-    },
-    {
-      "id": "4898945",
-      "time": "2026-05-25 22:19:48",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【李強會見塞爾維亞總統武契奇】5月25日上午，國務院總理李強在北京人民大會堂會見來華進行國事訪問的塞爾維亞總統武契奇。 李強表示，今年是中塞全面戰略伙伴關係建立10週年。近些年，中塞元首保持良好密切交往，為兩國關係發展提供了戰略指引和重要保障。今天下午，習近平主席將同總統先生舉行會晤，就推進新時代中塞命運共同體建設作出進一步規劃。中方願同塞方一道繼續努力，始終做相互信賴的夥伴，堅定支援彼此核心利益，推動各領域合作不斷走深走實，更好服務各自現代化建設，為兩國人民帶來更多福祉。 李強指出，中方願同塞方加強發展戰略對接，更好發揮兩國經貿混委會、投資工作組等機制作用，進一步釋放雙邊自貿協定積極效應，做大做優兩國經貿合作。中方願進口塞方更多優質產品，支援更多有實力的中國企業赴塞投資，拓展人工智慧、新能源、先進製造、綠色低碳等新興領域合作，為兩國發展更好賦能。匈塞鐵路是共建“一帶一路”旗艦專案，中方願同塞方一道做好塞爾維亞段維護運營，積極推動全段早日通車。雙方要深化旅遊、教育、體育、媒體等人文合作，促進國民相知相親。當前國際形勢持續複雜演變，中方願同塞方加強在聯合國等平臺的協調配合，踐行真正的多邊主義，推動落實四大全球倡議，構建更加公正合理的全球治理體系。 武契奇表示，中國是塞爾維亞鐵桿朋友，塞中友誼深厚，兩國始終相互信任、相互堅持。習近平主席2016年首次成功對塞進行國事訪問，為兩國關係深入發展注入強勁動力。塞方堅定恪守一箇中國原則，將繼續在關乎中方核心利益問題上給予堅定支援。中國的投資與合作有力促進了塞爾維亞發展，塞方祝賀中方經濟社會發展取得的巨大成就，願同中方保持高層往來，進一步用好雙邊自貿協定紅利，深化貿易、投資、農食、基礎設施建設、人工智慧、清潔能源等領域合作，促進教育、旅遊、媒體等人文交流。塞方願同中方密切多邊溝通協作，堅定維護多邊主義，捍衛國際公平正義。吳政隆參加會見。（新華社）"
-    },
-    {
-      "id": "te:economy:553482",
-      "time": "2026-05-25 22:19:18",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Nigeria",
-        "GDP Annual Growth Rate",
-        "Importance 0"
-      ],
-      "text": "Nigeria GDP Growth Moderates to 3.9% in Q1 — Nigeria's economy expanded by 3.89% year-on-year in Q1 2026, down slightly from a 4.07% advance in the previous three-month period. Growth slowed sharply in the all-important oil sector (2.57% vs 6.79% in Q4). The average daily crude oil production reached 1.55 million barrels per day in Q4, lower than 1.62 million bpd in the same period last year and 1.58 million bpd in Q4 2025, attributed to several factors including aged facilities and oil theft. The non-oil sector rose 3.94%, slightly easing from 3.99% in Q4 but maintaining a robust pace, supported by services (4.31%), industry (3.50%) and agriculture (3.15%)."
-    },
-    {
-      "id": "4898944",
-      "time": "2026-05-25 22:18:51",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【李強會見塞爾維亞總統武契奇】國務院總理李強在北京人民大會堂會見來華進行國事訪問的塞爾維亞總統武契奇。（新華社）"
-    },
-    {
-      "id": "4898943",
-      "time": "2026-05-25 22:18:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【錦和商管：就與水氣石訴訟傳聞釋出澄清公告】錦和商管公告稱，近日部分媒體就公司與水氣石訴訟釋出相關報道，公司予以澄清。公司經營穩定，重視股東回報，截止2025年12月31日，合併報表貨幣資金及現金等價約2.2億元，有息負債為零，分紅不影響正常經營。公司與水氣石因合同履行爭議涉訟，相關爭議以法院最終裁決確定，公司依規披露，不存在資訊披露違規情形。雙方訴訟將由法院審理裁決，公司將執行判決結果並及時公告。"
-    },
-    {
-      "id": "4898942",
-      "time": "2026-05-25 22:18:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗稱使用新型防空手段擊落敵方無人機】據伊朗邁赫爾通訊社25日報道，伊朗防空力量當天使用新型防空手段在波斯灣上空擊落一架敵方無人機。報道說，伊方此次行動使用了配備新型系統的“阿爾什神箭手”防禦體系，在波斯灣上空成功實施攔截。伊方稱，該系統具備一定隱蔽能力，相關技術和作戰細節尚未公開。報道說，這一行動表明伊朗具備應對“隱身無人機”進入波斯灣空域的能力。另據邁赫爾通訊社當天早些時候報道，伊朗格什姆島地區傳出防空警報聲，當地居民報告稱聽到相關聲響。（新華社）"
     }
   ]
 }
