@@ -1,7 +1,52 @@
 {
-  "updated": "2026-06-02 00:14:47",
-  "count": 17018,
+  "updated": "2026-06-02 00:18:59",
+  "count": 17021,
   "items": [
+    {
+      "id": "4911182",
+      "time": "2026-06-02 00:17:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍：在黎巴嫩南部以軍駐防區域攔截一架無人機。"
+    },
+    {
+      "id": "4911181",
+      "time": "2026-06-02 00:17:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普被問及能否耗過伊朗時表示：伊朗想拖多久，我就能等多久，他們正蒙受鉅額經濟損失。"
+    },
+    {
+      "id": "mkt:019e83f8-1d5b-7993-96f6-d5ddd5803a13",
+      "time": "2026-06-02 00:15:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "President Trump told an MSNBC reporter the US will continue to maintain a blockade of the Strait of Hormuz."
+    },
+    {
+      "id": "mkt:019e83f7-43fc-7993-96f6-cdae71057bf3",
+      "time": "2026-06-02 00:14:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump told an MSNBC reporter on Iran: \"To be honest, I think we've talked too much. I think staying silent would be very good.\""
+    },
+    {
+      "id": "4911180",
+      "time": "2026-06-02 00:14:33",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：我方將維持霍爾木茲海峽封鎖舉措。"
+    },
     {
       "id": "mkt:019e83f5-f8ce-7993-96f6-c25c8cd585cd",
       "time": "2026-06-02 00:13:15",
@@ -155339,22 +155384,6 @@
         "其他"
       ],
       "text": "【卡達埃米爾與阿曼蘇丹通電話 討論地區局勢】當地時間5月25日，卡達埃米爾塔米姆與阿曼蘇丹海賽姆通電話，雙方就當前地區局勢的發展進行了討論。雙方一致認同儘快達成解決方案的重要性，以推動維護地區安全。（央視新聞）"
-    },
-    {
-      "id": "4899029",
-      "time": "2026-05-26 00:15:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外長阿拉格齊發聲，聲援真主黨及黎巴嫩的抵抗力量。"
-    },
-    {
-      "id": "4899028",
-      "time": "2026-05-26 00:15:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普在阿靈頓國家公墓向無名戰士墓敬獻花圈，紀念陣亡將士紀念日。"
     }
   ]
 }
