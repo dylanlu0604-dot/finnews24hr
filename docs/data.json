@@ -1,7 +1,48 @@
 {
-  "updated": "2026-06-01 08:08:02",
-  "count": 15963,
+  "updated": "2026-06-01 08:11:51",
+  "count": 15966,
   "items": [
+    {
+      "id": "mkt:019e8084-8540-7777-bd26-a9dc7e2c4b52",
+      "time": "2026-06-01 08:10:28",
+      "tags": [
+        "MKT News",
+        "005930.KS",
+        "Impact bullish"
+      ],
+      "text": "Samsung Electronics shares rose over 3% intraday to a record high of KRW 328,000."
+    },
+    {
+      "id": "4909222",
+      "time": "2026-06-01 08:10:27",
+      "tags": [
+        "央行",
+        "市場",
+        "國際"
+      ],
+      "text": "【韓國出口保持強勁勢頭 對央行鷹派立場構成支撐】韓國5月出口延續強勁勢頭，進一步鞏固央行日益鷹派的立場，半導體需求持續旺盛，在地緣政治和通脹風險上升之際仍支撐著經濟增長。海關部門週一表示，經工作日差異調整後，5月份出口額較上年同期增長60.7%。進口額增長20.8%，貿易順差為269億美元。未經調整的資料顯示，上月出口增長53.2%，而4月修正後的增幅為48%。半導體再次引領漲勢，這得益於與人工智慧和資料中心相關的強勁全球投資。最新資料顯示，韓國經濟持續走強。在2025年底萎縮後，韓國經濟在今年年初強勁反彈。第一季度國內生產總值環比增長1.7%，為2020年以來最快增速，受半導體出口增長和商業投資的推動。"
+    },
+    {
+      "id": "4909221",
+      "time": "2026-06-01 08:09:40",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本10年期國債收益率上漲2個基點，報2.675%。"
+    },
+    {
+      "id": "te:economy:555101",
+      "time": "2026-06-01 08:08:31",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Korea",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "South Korea Posts Record-High Trade Surplus — South Korea’s trade surplus surged to USD 26.95 billion in May 2026, up from USD 6.93 billion in the same month a year earlier, surpassing market expectations of a USD 24.3 billion surplus and marking a 16th consecutive month in the black and the largest surplus on record, flash data showed. Exports jumped 53.2% year-on-year, beating market forecasts of 48.4% and accelerating from a 48.0% rise in April, mainly driven by a surge in semiconductor exports. Meanwhile, imports increased 20.8%, softer than expectations of 21.5% but accelerating from 16.7% growth in April, marking a seventh consecutive month of expansion and supported by resilient domestic demand."
+    },
     {
       "id": "4909220",
       "time": "2026-06-01 08:07:26",
@@ -145080,14 +145121,6 @@
         "Importance 1"
       ],
       "text": "Australia 10Y Yield Hits 6-Week Low — Australia’s 10-year government bond yield fell to below 4.9%, hitting a six-week low as optimism over a potential US-Iran deal lowered oil prices and tempered inflation concerns. The proposed agreement would reopen the Strait of Hormuz, end hostilities, release some frozen Iranian assets, and lay the groundwork for additional negotiations aimed at restricting Tehran’s nuclear program. However, President Donald Trump said the US would keep its blockade of the Strait of Hormuz in place until a formal agreement is finalized. In Australia, expectations of further monetary tightening by the Reserve Bank weakened after a surprise rise in the jobless rate. The unemployment rate unexpectedly rose to 4.5% in April from 4.3% in March, the highest level in about four and a half years. The probability of a rate hike at the next meeting dropped to just 3%, from 13%. Pricing for August pared to 40% from 60%. Markets now await key inflation numbers this week for further clues on the policy outlook."
-    },
-    {
-      "id": "4897564",
-      "time": "2026-05-25 08:08:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國駐阿富汗使館再次提醒在阿中國公民和機構加強安全防範】近期阿富汗安全形勢依然嚴峻複雜，安全事件和治安案件時有發生，喀布林、赫拉特等地發生多起綁架勒索、武裝搶劫等惡性案件。中國駐阿富汗使館再次提醒在阿中國公民和機構，請密切關注當地安全形勢，增強防範意識，加強駐地及出行安保措施，減少不必要的外出，不要到飯店、宗教場所、大型商超等人員密集場所，出行須有正規安保人員隨衛。如發現異常或遇緊急情況，請及時報警並聯系中國駐阿富汗使館。"
     }
   ]
 }
