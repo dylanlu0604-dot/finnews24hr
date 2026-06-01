@@ -1,7 +1,81 @@
 {
-  "updated": "2026-06-02 00:06:50",
-  "count": 17007,
+  "updated": "2026-06-02 00:10:46",
+  "count": 17012,
   "items": [
+    {
+      "id": "te:markets:555465",
+      "time": "2026-06-02 00:10:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 0.73% Lower — The CAC 40 Index dropped 60 points or 0.73 percent on Monday to close at 8124 points. Losses were led by Accor (-3.87%), Renault (-3.73%) and Thales (-3.67%). Offsetting the fall, top gainers were Dassault Systemes (7.74%), Capgemini (7.01%) and Publicis (2.25%)."
+    },
+    {
+      "id": "4911176",
+      "time": "2026-06-02 00:09:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：數千名美國海軍、空軍和陸軍人員正在海上、空中以及陸地上為美國對伊朗的持續封鎖行動提供支援。截至6月1日，部隊已指示121艘商船改道，並對5艘船隻實施了停運措施，以確保相關行動的順利進行。"
+    },
+    {
+      "id": "mkt:019e83f2-49d2-7993-96f6-bc5b04d042ef",
+      "time": "2026-06-02 00:09:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "CENTCOM said thousands of U.S. Navy, Air Force and Army personnel are supporting ongoing U.S. blockade operations against Iran at sea, in the air and on land. As of June 1, forces had ordered 121 merchant ships to alter course and suspended operations for five vessels."
+    },
+    {
+      "id": "4911175",
+      "time": "2026-06-02 00:08:27",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "比特幣跌破71000美元，日內跌3.69%。"
+    },
+    {
+      "id": "4911174",
+      "time": "2026-06-02 00:07:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【董軍同南非國防和退伍軍人部部長會談】6月1日，國防部長董軍應邀訪問南非期間與南國防和退伍軍人部部長莫採卡舉行會談。雙方就兩國兩軍關係、國際地區形勢和共同關心的問題深入交換意見，表示將落實好兩國元首重要共識，持續深化全方位務實合作。會談前，莫採卡為董軍舉行歡迎儀式，並陪同檢閱儀仗隊。(國防部發布)"
+    },
+    {
+      "id": "te:markets:555463",
+      "time": "2026-06-02 00:07:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "European Stocks Close Lower — European stocks closed firmly lower on Monday, pulling back from robust morning trading after setbacks to an agreement between the US and Iran worsened the outlook for global energy supply. The Euro STOXX 50 fell 0.5% to 6,023 and the STOXX Europe 600 lost 0.9% to 620. Official Iranian media stated that Tehran would halt talks with the US and extend the blockade on the Strait of Hormuz due to Israel's attacks on Lebanon. Energy prices surged and sovereign yields in the Eurozone rose sharply, denting growth prospects should an agreement that restores tanker flows not be reached soon. Intesa Sanpaolo and Allianz dropped 1.8% due to the rise in yields, while Airbus, Safran, and Siemens energy lost on higher energy costs. In turn, SAP surged 8%, tracking US software giants after Nvidia announced it will produce chips for personal computers."
+    },
+    {
+      "id": "te:markets:555464",
+      "time": "2026-06-02 00:07:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 0.82% Lower — The FTSE 100 Index decreased 85 points or 0.82 percent on Monday to close at 10324 points. The decline was led by Rolls-Royce (-5.50%), BAE Systems (-5.14%) and Persimmon (-5.01%). On the upside, the strongest performers were Easyjet Plc (7.66%), The Sage Group (7.29%) and Entain (5.21%)."
+    },
     {
       "id": "mkt:019e83ee-80ad-7993-96f6-b4dde2166c99",
       "time": "2026-06-02 00:05:06",
@@ -155219,29 +155293,6 @@
         "Importance 1"
       ],
       "text": "The FTSE MIB Index Closes 1.43% Higher — The FTSE MIB Index gained 709 points or 1.43 percent on Monday to close at 50220 points. Gains were led by Avio (7.20%), Nexi (6.93%) and Amplifon (3.91%)."
-    },
-    {
-      "id": "4899027",
-      "time": "2026-05-26 00:10:27",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【七國集團因分歧或兩年無聯合公報】七國集團峰會將於6月中旬在法國埃維昂舉行。據日本《日經亞洲》5月24日報道，此次七國集團可能繼去年的加拿大峰會之後，連續第二年不發表聯合公報，“以免暴露美國與其他成員國之間日益加深的分歧”。（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:019e5fe5-727a-711d-be5e-0fc6233219d5",
-      "time": "2026-05-26 00:08:41",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "【CNN: US, Iran Seek Wording Compromise On Nuclear Terms, Sanctions; Iran Delegation In Qatar Signals Progress】CNN: US Officials Say Wording Disputes On Iran's Nuclear Program And Sanctions Delay Final Deal To End War; Iranian Delegation In Qatar Monday, Including Senior Tehran Negotiators, Seen As Positive Signal; Qatar Positioned To Mediate"
     }
   ]
 }
