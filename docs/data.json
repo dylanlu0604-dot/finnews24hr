@@ -1,7 +1,59 @@
 {
-  "updated": "2026-06-01 08:19:29",
-  "count": 15974,
+  "updated": "2026-06-01 08:23:17",
+  "count": 15977,
   "items": [
+    {
+      "id": "mkt:019e808f-38f6-7777-bd26-dfcb01aeaf5f",
+      "time": "2026-06-01 08:22:10",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Nasdaq100",
+        "Impact mixed",
+        "CNH",
+        "S&P500"
+      ],
+      "text": "【CITIC Securities: AI and tech trading stretched but not yet extreme】CITIC Securities says current AI and technology-sector trading is very stretched but not yet at historical extremes. The firm attributes the rally to pronounced macro divergence between new and old domestic drivers across investment, production and profits—traditional demand is weakening while AI-related activity is expanding. Similar divergence exists abroad: the US is the epicenter of AI spending and demand, while South Korea is capturing outsized hardware profits; global AI expansion is lifting demand for China’s AI-related products. CITIC’s calculations show this episode differs from four prior concentrated rallies by a stronger macro fundamental split. Because much of China’s production, exports and trading momentum reflects overseas spillovers, the report flags near-term market risks from the persistence of external macro divergence, the degree to which profit expectations are realised, and whether corporate expansion is funded by internal cash rather than debt; over the medium term it highlights the potential for further Chinese AI capex to raise its contribution to GDP growth."
+    },
+    {
+      "id": "4909234",
+      "time": "2026-06-01 08:21:46",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "【中信證券：測算當前AI與科技交易雖極致但尚未到極端】中信證券研報認為，當前AI和科技板塊交易趨於極致，但這種極致背後是同樣極致的宏觀基本面分化：在投資、生產、盈利三個維度上，國內新動能和舊動能明顯此消彼長，傳統需求走弱而AI相關領域持續擴張。這種分化也不只在中國，美韓兩國也存在宏觀增長的分化，但成色有所不同，美國是AI支出和需求的震中，韓國透過硬體供給大規模盈利，AI全球擴張浪潮也強力帶動中國AI相關產品的景氣程度不斷走高。中信證券測算當前AI與科技交易雖極致但尚未到極端，與歷史上四輪抱團交易相比，本輪極致交易的宏觀基本面分化特徵更為明顯。考慮到當前我國生產、出口和交易熱度較大程度源自海外的外溢傳導，短期關注外部變化：一是海外基本面分化持續性、盈利預期兌現度以及企業擴張是否仍靠自有資金而非債務融資；長期關注我國AI資本開支進一步釋放，並有望提高對我國經濟增長的貢獻斜率。"
+    },
+    {
+      "id": "mkt:019e808d-51fb-7777-bd26-d00d7ed0e71b",
+      "time": "2026-06-01 08:20:05",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【South Korea exports surge 60.7% YoY in May】Workday-adjusted South Korean exports rose 60.7% YoY in May, customs data showed; imports climbed 20.8%, yielding a $26.9 bln trade surplus. Unadjusted exports increased 53.2% YoY, the largest rise since January 1984; April's gain was revised to 48% YoY. Semiconductors led the export surge on strong global AI and data-center investment. The strength further cements the Bank of Korea's increasingly hawkish stance despite rising geopolitical and inf risks."
+    },
+    {
+      "id": "4909233",
+      "time": "2026-06-01 08:19:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500股指期貨上漲0.1%，納斯達克股指期貨上漲0.3%。"
+    },
+    {
+      "id": "4909232",
+      "time": "2026-06-01 08:19:24",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "【高盛上調2026年底銅價預測】高盛週一將其對2026年底銅價的預測上調至每公噸13,735美元，此前預測為12,465美元。該行指出，由於供應增長不及預期，且美國進口量增加吸收了現有金屬供應，美國以外市場的供需緊張程度超出預期。該行還將2027年銅價平均預測從之前的每噸12,150美元上調至13,800美元。"
+    },
     {
       "id": "4909231",
       "time": "2026-06-01 08:18:54",
@@ -145169,24 +145221,6 @@
         "公司"
       ],
       "text": "【奧克股份：參股公司申請公開發行股票獲得中國證監會同意註冊批覆】奧克股份(300082)5月25日早間公告，公司參股公司武漢吉和昌新材料股份有限公司（簡稱“吉和昌”）近日收到中國證監會下發的《關於同意武漢吉和昌新材料股份有限公司向不特定合格投資者公開發行股票註冊的批覆》。"
-    },
-    {
-      "id": "4897571",
-      "time": "2026-05-25 08:20:54",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本日經225指數上漲2%，至64,627.55點。"
-    },
-    {
-      "id": "4897570",
-      "time": "2026-05-25 08:20:43",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本日經指數上漲2%。"
     }
   ]
 }
