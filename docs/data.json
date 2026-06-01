@@ -1,7 +1,53 @@
 {
-  "updated": "2026-06-02 04:54:09",
-  "count": 17108,
+  "updated": "2026-06-02 04:58:01",
+  "count": 17112,
   "items": [
+    {
+      "id": "mkt:019e84f9-99b1-7993-96fa-3d20691e310f",
+      "time": "2026-06-02 04:56:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【EU weighs fiscal flexibility for member states to offset energy-cost shock】The European Commission is weighing a proposal to grant member states extra fiscal flexibility to cushion rising energy costs tied to tensions with Iran, people familiar with the matter said. Under the proposal, governments would be allowed additional energy-related spending outside EU fiscal rules equivalent to roughly 0.3% of GDP, implemented as an exemption clause akin to the existing defense-spending carve-out. Italy, already highly indebted and facing elevated energy bills, has been among the strongest advocates for expanded fiscal leeway."
+    },
+    {
+      "id": "4911331",
+      "time": "2026-06-02 04:56:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國土安全部部長馬林斯在新聞釋出會上表示，目前沒有必要暫停紐瓦克機場的國際航班入境辦理流程。"
+    },
+    {
+      "id": "mkt:019e84f9-3af5-7993-96fa-3372aa6ca19e",
+      "time": "2026-06-02 04:56:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Homeland Security Secretary said there is currently no need to suspend processing of international flights at Newark Liberty International Airport."
+    },
+    {
+      "id": "4911330",
+      "time": "2026-06-02 04:55:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "【紐約期金跌超1.7%，失守4500美元】週一（6月1日）紐約尾盤，現貨黃金下跌1.26%，報4483.04美元/盎司，整體持續走低，北京時間21:10出現一波短線加速下跌行情、22:00重新整理日低至4447.97美元。COMEX黃金期貨跌1.74%，報4513.00美元/盎司，全天持續下跌，交投區間為4577.30-4476美元。"
+    },
+    {
+      "id": "mkt:019e84f7-47c7-7993-96fa-2b9cc7c37c08",
+      "time": "2026-06-02 04:54:18",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "ROSN.ME",
+        "Impact bullish"
+      ],
+      "text": "Russian oil producer Rosneft said Q1 2026 revenue was 2.032 tln rubles, up 4.3% QoQ. Q1 2026 net profit rose sevenfold from Q4 2025 to 115 bln rubles."
+    },
     {
       "id": "4911329",
       "time": "2026-06-02 04:53:25",
@@ -156208,14 +156254,6 @@
         "MKT News"
       ],
       "text": "Singapore Industrial Output YoY 17.6% Apr vs 12.0% Est; Mar Revised To 9.2% From 10.10%"
-    },
-    {
-      "id": "4899124",
-      "time": "2026-05-26 04:54:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗部分地區傳出爆炸聲 原因尚不明】當地時間25日晚，伊朗班德爾阿巴斯市出現爆炸聲，這些聲音的確切位置和來源尚不清楚。同時，在波斯灣附近的西里克和賈斯克周邊也出現了爆炸聲。（央視新聞）"
     }
   ]
 }
