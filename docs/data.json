@@ -1,7 +1,161 @@
 {
-  "updated": "2026-06-01 17:31:49",
-  "count": 16412,
+  "updated": "2026-06-01 17:35:43",
+  "count": 16418,
   "items": [
+    {
+      "id": "mkt:019e8289-8f36-7112-8c8b-248ee950854c",
+      "time": "2026-06-01 17:35:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "HKEX filing shows Goldman Sachs Group's short position in Bilibili (09626.HK) fell to 3.97% on May 27 from 4.54%."
+    },
+    {
+      "id": "4910337",
+      "time": "2026-06-01 17:35:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海螺水泥：首次回購0.0113%公司股份，已支付的總金額為人民幣 1207.94萬元】海螺水泥公告，2026年 6月 1日，公司透過上海證券交易所交易系統以集中競價交易方式首次回購 A 股股份 60萬股，佔公司總股本的比例為 0.0113%，回購最高價格人民幣 20.33元/股，回購最低價格人民幣 20元/股，已支付的總金額為人民幣 1207.94萬元（不含交易費用）。"
+    },
+    {
+      "id": "4910336",
+      "time": "2026-06-01 17:35:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST萬邦：公司股票被實施其他風險警示及相關整改進展】ST萬邦公告稱，2025年度公司內部控制被出具否定意見審計報告，股票被深交所實施其他風險警示，若下一年度內部控制仍被出具無法表示意見或否定意見，股票將被實施退市風險警示。公司採取了一系列措施，包括5月7日成立“合規內控整改專項工作小組”，與審計機構核查相關問題，對關鍵財務環節自查整改，擬定專項合規培訓計劃等。目前公司生產經營正常，將持續披露進展及風險。"
+    },
+    {
+      "id": "mkt:019e8289-382f-7112-8c8b-1f069ceab559",
+      "time": "2026-06-01 17:34:51",
+      "tags": [
+        "MKT News",
+        "00300.HK"
+      ],
+      "text": "HKEX filing shows UBS's long position in Midea Group (00300.HK) H shares fell to 6.26% on May 26 from 7.02%; its short position declined to 3.60% from 4.36%."
+    },
+    {
+      "id": "4910335",
+      "time": "2026-06-01 17:34:39",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【天津：部署開展房地產交易和中介市場秩序整治工作】天津市住房城鄉建設委會同市市場監管委組織各區住建和市場監管部門召開專題會議，部署開展房地產交易和中介市場秩序整治工作。按照工作安排，計劃利用2個月左右時間，聚焦人民群眾反映強烈的難點和痛點問題，加大房地產市場秩序整治力度，打擊房地產領域虛假宣傳營銷、經紀服務違規收費等違法違規行為，切實維護人民群眾合法權益。這期間，市住房城鄉建設委會同市市場監管委將組織各區完善資訊共享、線索移送、聯合執法等工作機制，周密部署安排，對涉及違法違規行為依法及時處理，形成有效震懾，推動房地產市場領域矛盾化解提質增效，促進房地產市場平穩健康發展。"
+    },
+    {
+      "id": "4910334",
+      "time": "2026-06-01 17:34:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【妙可藍多：高階管理人員共增持142.33萬元】妙可藍多公告，公司副總經理王宇新先生、副總經理劉揚先生、副總經理李輝先生以及副總經理付學飛先生於2026年5月29日至6月1日期間，透過上海證券交易所集中競價交易系統增持公司股份共計75,000股，佔公司總股本的0.0147%，增持金額共計人民幣1,423,263.00元。"
+    },
+    {
+      "id": "4910333",
+      "time": "2026-06-01 17:34:27",
+      "tags": [
+        "觀點"
+      ],
+      "text": "據港交所披露：高盛於5月27日將所持嗶哩嗶哩的空頭頭寸從4.54%下調至3.97%。"
+    },
+    {
+      "id": "4910332",
+      "time": "2026-06-01 17:34:11",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "俄羅斯國家原子能公司負責人：我們將商議聯合發聲，就此次襲擊向歐洲各國領導人表明立場。"
+    },
+    {
+      "id": "4910331",
+      "time": "2026-06-01 17:34:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "瑞銀集團於5月26日將其持有的美的集團H股多頭倉位從7.02%降至6.26%。"
+    },
+    {
+      "id": "4910330",
+      "time": "2026-06-01 17:33:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以極右翼部長被曝“強拍”羞辱影片 或為選舉作秀】以色列軍方近期攔截試圖駛往巴勒斯坦加沙地帶的“全球堅韌船隊”，並扣押大量活動人士。以國家安全部部長、極右翼政客本-格維爾隨後釋出羞辱被扣人員的影片，引發國際社會廣泛批評。以色列媒體5月31日披露本-格維爾拍攝羞辱影片的更多細節，顯示他當時不顧阻攔、強行登船並拍攝影片。有媒體認為，本-格維爾事後毫無歉意，其高調作秀或與即將舉行的新一屆議會選舉有關。（新華社）"
+    },
+    {
+      "id": "4910329",
+      "time": "2026-06-01 17:33:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4520美元/盎司，日內跌1.59%。"
+    },
+    {
+      "id": "mkt:019e8287-2169-7112-8c8b-15fdda57d1f1",
+      "time": "2026-06-01 17:32:34",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alibaba",
+        "Tencent",
+        "Xiaomi",
+        "9988.HK",
+        "Impact mixed",
+        "0700.HK",
+        "Impact bullish",
+        "1810.HK",
+        "Impact bearish"
+      ],
+      "text": "Southbound flows net bought CNY 4.657 bln today. Via Shanghai–Hong Kong Stock Connect, Akeso and Alibaba were net bought HKD 1.706 bln and HKD 579m; Xiaomi was the largest net seller at HKD 353m. Via Shenzhen–Hong Kong Stock Connect, Akeso and Tencent were net bought HKD 1.001 bln and HKD 551m; Alibaba was the largest net seller at HKD 482m."
+    },
+    {
+      "id": "4910328",
+      "time": "2026-06-01 17:32:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "西門子：西門子與合作伙伴開發專為英偉達人工智慧資料中心打造的參考架構。"
+    },
+    {
+      "id": "4910327",
+      "time": "2026-06-01 17:31:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【成都：城鎮職工基本養老保險滿3年可在中心城區落戶】成都市人民政府網站釋出關於在四川天府新區直管區、成都高新區和中心城區實行合法穩定就業和居住落戶的通知。通知稱，持有四川天府新區直管區、成都高新區、錦江區、青羊區、金牛區、武侯區、成華區、龍泉驛區、青白江區、新都區、溫江區、雙流區、郫都區、新津區有效期內居住證，在成都市行政區域內按照國家和省、市相關規定連續繳納城鎮職工基本養老保險3年及以上的人員，可申請落戶。"
+    },
+    {
+      "id": "4910326",
+      "time": "2026-06-01 17:31:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗革命衛隊海軍發出警告，將攔截霍爾木茲海峽內所有 “違法” 船隻。"
+    },
+    {
+      "id": "te:economy:555346",
+      "time": "2026-06-01 17:31:29",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "UK Gilt Yields Rebound as US-Iran Tensions Lift Oil Prices — UK 10-year gilt yields rose to 4.85% at the start of June, rebounding from over one-month lows at the end of May, as oil prices surged amid escalating US-Iran tensions. Both nations continued exchanging strikes, with Iran claiming it targeted a US airbase previously used in an attack on a telecommunications tower on Sirik Island, while both sides cited \"self-defense.\" Over the weekend, they exchanged proposals to revise a draft deal aimed at extending the ceasefire and reopening the Strait of Hormuz, though progress remained uncertain. The geopolitical uncertainty has led investors to modestly increase expectations for further Bank of England rate hikes this year. Economically, UK house prices fell 0.6% in May, according to Nationwide, a sharper decline than the expected 0.1% and the largest monthly drop since June 2025, driven by weakening consumer confidence and the Iran conflict’s impact on energy prices."
+    },
+    {
+      "id": "4910325",
+      "time": "2026-06-01 17:31:21",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度Nifty 50指數收盤下跌0.75%。"
+    },
     {
       "id": "mkt:019e8285-e46c-7112-8c8b-0bc78000665a",
       "time": "2026-06-01 17:31:13",
@@ -149501,108 +149655,6 @@
         "Brent"
       ],
       "text": "【Iran To Open Strait Within 30 Days After Deal; Cease-Fire Extended 60 Days】Nikkei Citing Middle East Diplomat: Iran To Clear SEA MINES In Strait Of Hormuz Within 30 Days After Deal; Open Strait To All Vessels, Stop Transit Fees; Early-April Cease-Fire Extended 60 Days; Parties To Negotiate Iran Nuclear Program During 2-Month Truce"
-    },
-    {
-      "id": "4898495",
-      "time": "2026-05-25 17:35:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "【力箭一號遙十四運載火箭順利出廠】中科宇航宣佈，近日，力箭一號遙十四運載火箭在中科宇航產業化基地如期完成總裝測試，順利透過出廠評審，擬於近期在東風商業航天創新試驗區執行“一箭 8 星”發射任務。此次力箭一號遙十四運載火箭順利出廠，充分彰顯力箭一號成熟穩定的產品效能、滾動批產的交付能力、快速備份的保障水平，標誌著該型火箭已達成高密度、低成本、快響應的規模化批次交付。（中科宇航）"
-    },
-    {
-      "id": "mkt:019e5e7d-0926-711d-be5a-4b074b6ef2fe",
-      "time": "2026-05-25 17:35:07",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact mixed",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "EUR/CHF Falls To 9-Week Low 0.9095"
-    },
-    {
-      "id": "4898494",
-      "time": "2026-05-25 17:34:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗總統：絕不屈服於外部壓力和過分要求】當地時間25日，伊朗總統佩澤希齊揚表示，伊朗的敵對力量在軍事領域遭遇失敗後，其當前重點已轉向經濟戰。佩澤希齊揚稱，伊朗當前的談判程序和對外互動安排，旨在確保伊朗人民的權利得到充分維護。無論在任何情況下，伊朗都不會屈服於外部壓力和過分要求。（央視新聞）"
-    },
-    {
-      "id": "4898493",
-      "time": "2026-05-25 17:34:35",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【機構：印度上調黃金進口稅不會抑制需求】Gavekal Research的Charles Gave在一份報告中寫道，印度上調黃金進口稅不會抑制當地需求。他指出，此舉削弱了盧比兌黃金的價值，並補充說，這反而會鼓勵當地人購買更多黃金作為儲蓄。Gave補充說，政府需要動員印度的黃金，但“長期以黃金進行儲蓄的人永遠不會放棄黃金，除非他們能獲得豐厚的回報“。Gave表示，與黃金掛鉤的債券可能透過本息支付更好地支援政府融資，同時維持黃金水平。"
-    },
-    {
-      "id": "4898492",
-      "time": "2026-05-25 17:34:10",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【秋田微：股票交易異常波動 不存在應披露未披露重大事項】秋田微公告稱，公司股票於2026年5月21日、22日、25日連續三個交易日收盤價格漲幅偏離值累計超30%，屬異常波動情形。經核實，公司前期披露資訊無更正補充；未發現公共傳媒報道未公開重大資訊；經營及內外部環境未變；公司、控股股東等不存在應披露未披露重大事項；控股股東等在異常波動期間無買賣公司股票情形；不存在違反資訊公平披露情形。提醒投資者理性投資，注意風險。"
-    },
-    {
-      "id": "4898491",
-      "time": "2026-05-25 17:33:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "倫敦證券交易所集團資料顯示，歐元兌瑞士法郎跌至九周低點0.9095瑞郎。"
-    },
-    {
-      "id": "4898490",
-      "time": "2026-05-25 17:33:01",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【國務院任免國家工作人員】國務院任免國家工作人員。任命高松為北京大學校長。免去張雲明的工業和資訊化部副部長職務；免去龔旗煌的北京大學校長職務；免去高松的中山大學校長職務。（新華社）"
-    },
-    {
-      "id": "4898489",
-      "time": "2026-05-25 17:32:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "【上海：佈局市級“AI+微短劇”中試基地 支援“AI+微短劇”應用創新】上海市文化和旅遊局印發《上海市加快推進人工智慧賦能微短劇高質量發展的若干措施》。其中提出，佈局市級“AI+微短劇”中試基地。支援企業、科研院所、高校聯合開展中試基地建設與運營，推動人工智慧深度賦能微短劇內容生產傳播全鏈路，探索形成具有推廣示範效應的行業解決方案。支援“AI+微短劇”應用創新。鼓勵企業聚焦行業典型應用場景，打造AI微短劇技能庫、智慧體。對自主研發、市場認可的智慧體專案，按不超過實際研發投入20%給予最高1000萬元支援。"
-    },
-    {
-      "id": "4898488",
-      "time": "2026-05-25 17:32:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：以色列軍方通報，北部梅圖拉、米斯加夫阿姆、馬爾加利奧特城鎮因疑似黎巴嫩無人機侵入響起防空警報，相關事件正在調查中。"
-    },
-    {
-      "id": "mkt:019e5e7a-43ec-711d-be5a-4662173dd0f7",
-      "time": "2026-05-25 17:31:59",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "【Iran President PEZESHKIAN: Won't Yield To External Pressure Or Excessive Demands】Iran President PEZESHKIAN says after military failures adversaries shifted to economic warfare; negotiations aimed to safeguard Iranian rights; He stressed that Iran will not yield under any circumstances to external pressure or excessive demands."
-    },
-    {
-      "id": "mkt:019e6031-6385-711d-be5e-8073d0bd3701",
-      "time": "2026-05-25 17:31:49",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Trump Administration Will Back Israel Escalating Strikes On Hezbollah, Senior U.S. Official Says (Axios)"
     }
   ]
 }
