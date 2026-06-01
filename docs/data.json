@@ -1,7 +1,130 @@
 {
-  "updated": "2026-06-01 09:36:34",
-  "count": 16027,
+  "updated": "2026-06-01 09:40:27",
+  "count": 16029,
   "items": [
+    {
+      "id": "4909365",
+      "time": "2026-06-01 09:39:42",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數漲超2%，現報4982.020點；恒生指數現漲0.755%。"
+    },
+    {
+      "id": "4909364",
+      "time": "2026-06-01 09:39:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超5000億元，較上日此時縮量311億元。"
+    },
+    {
+      "id": "4909363",
+      "time": "2026-06-01 09:39:01",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "玻璃基板概念快速走強，紅星發展5天3板，沃格光電漲超9%，京東方A、雷曼光電、彩虹股份、TCL科技跟漲。"
+    },
+    {
+      "id": "mkt:019e80d5-1bd7-766e-87af-7430ddd67236",
+      "time": "2026-06-01 09:38:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "000725.SZ",
+        "Impact bullish",
+        "000100.SZ"
+      ],
+      "text": "China A-share glass-substrate concept stocks rallied. Hongxing Development hit limit-up three times in five sessions; Voge Optoelectronics jumped over 9%. BOE A, Lehman Optoelectronics, Rainbow Co. and TCL Technology also advanced."
+    },
+    {
+      "id": "4909361",
+      "time": "2026-06-01 09:37:31",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "A股MLCC概念延續上週強勢，火炬電子觸及漲停，商絡電子漲超10%，國瓷材料、博遷新材、潔美科技、三環集團等跟漲。"
+    },
+    {
+      "id": "mkt:019e80d4-4122-766e-87af-68be0618f48a",
+      "time": "2026-06-01 09:37:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A-shares MLCC sector extended last week’s strength; Torch Electronics hit the daily limit-up, Shangluo Electronics rose >10%, and Guoci Materials, Boqian New Materials, Jiemei Technology and Sanhuan Group also advanced."
+    },
+    {
+      "id": "4909360",
+      "time": "2026-06-01 09:37:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "【生益科技股價創歷史新高】生益科技盤中股價創歷史新高，現漲5.02%，報147.68元，總市值為3415.83億元。"
+    },
+    {
+      "id": "te:markets:555147",
+      "time": "2026-06-01 09:37:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "South Korean Shares Set Fresh Record on Tech Rally — The benchmark KOSPI climbed more than 3% to around 8,750 on Monday, hitting a fresh record high amid strong semiconductor exports and continued AI-driven demand. South Korea’s exports surged 53% year-on-year to a record $87.8 billion in May, led by a 169% jump in semiconductor shipments, reinforcing optimism over the sector’s earnings outlook. Samsung Electronics led the advance, soaring 5.7%, while investors also looked ahead to Nvidia CEO Jensen Huang’s visit to South Korea later this week, with expectations of AI and semiconductor partnership opportunities. Additional support came from record highs on Wall Street, fueled by sustained enthusiasm for AI infrastructure spending. Other notable gains included Hyundai Motor (2.1%), Doosan Enerbility (4.5%), Hanwha Aerospace (5.3%), KB Financial Group (1.3%), and LG Electronics (24.4%). However, lingering uncertainty surrounding US-Iran negotiations and higher oil prices kept broader geopolitical and inflation risks in focus."
+    },
+    {
+      "id": "4909359",
+      "time": "2026-06-01 09:36:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "半導體產業鏈延續調整，長光華芯跌超10%，東芯股份、賽微電子、燕東微、炬光科技、盛美上海、中微公司等十餘股跌超5%。"
+    },
+    {
+      "id": "4909358",
+      "time": "2026-06-01 09:36:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "合鍛智慧漲停走出4連板，4天累計漲幅達46.42%。"
+    },
+    {
+      "id": "mkt:019e80d3-133e-766e-87af-616c712f2fe5",
+      "time": "2026-06-01 09:36:10",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Australia May seasonally adjusted ANZ total job ads YoY +2.0%; prior -1.4%."
+    },
+    {
+      "id": "mkt:019e80d2-f5a7-766e-87af-5b6364c5ecff",
+      "time": "2026-06-01 09:36:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | ANZ Total Job Advertisements SA (YoY) (May) | actual 2% | previous -1.4%"
+    },
+    {
+      "id": "4909357",
+      "time": "2026-06-01 09:35:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【科技部部長陰和俊：建設智慧化科研平臺系統 加快推動人工智慧賦能科學研究落地應用】科學技術部部長陰和俊在《求是》雜誌發文指出，持續加強基礎研究，加快取得一批能夠引領未來產業發展的重大原創性成果。基礎研究是整個科學體系的源頭，是所有技術問題的總機關。面對我國原始創新能力相對薄弱的突出問題，要以更大力度、更實舉措加強基礎研究，全面提升引領未來產業發展的科技策源力。強化基礎研究戰略性、前瞻性、體系化佈局，進一步明確基礎研究的主攻方向和重點領域。加大基礎研究投入，逐步提高基礎研究經費佔比，加快形成多元化投入格局。健全符合基礎研究特點的分類評價體系，營造開放包容、寬容失敗的創新環境。建設智慧化科研平臺系統，加快推動人工智慧賦能科學研究落地應用。"
+    },
     {
       "id": "4909356",
       "time": "2026-06-01 09:35:52",
@@ -145632,105 +145755,6 @@
         "其他"
       ],
       "text": "華為：今年秋季面世的麒麟手機晶片效能將大幅提升。（人民日報）"
-    },
-    {
-      "id": "4897698",
-      "time": "2026-05-25 09:39:54",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "印度央行行長馬爾霍特拉稱國際收支平衡問題“目前還無需過度擔憂”。"
-    },
-    {
-      "id": "4897697",
-      "time": "2026-05-25 09:39:38",
-      "tags": [
-        "市場"
-      ],
-      "text": "【碳化矽概念反覆活躍 新潔能漲停】碳化矽概念反覆活躍，新潔能漲停，芯朋微、晶豐明源漲超10%，宏微科技、捷捷微電、天嶽先進、揚傑科技跟漲。。"
-    },
-    {
-      "id": "4897696",
-      "time": "2026-05-25 09:39:27",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【半導體板塊短線拉昇，新潔能漲停】半導體板塊短線拉昇，新潔能漲停，東芯股份漲超15%，晶豐明源、芯朋微、帝奧微漲超10%，宏微科技、聖邦股份、寒武紀、華天科技、捷捷微電跟漲。"
-    },
-    {
-      "id": "4897695",
-      "time": "2026-05-25 09:39:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【科創50指數漲幅擴大至1%】科創50指數漲幅擴大至1%，現報1809.74點。"
-    },
-    {
-      "id": "4897694",
-      "time": "2026-05-25 09:39:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內漲幅達1.25%，成分股中，寒武紀漲7.15%，中芯國際漲6.11%，盛美上海漲5.71%，天嶽先進漲3.92%。"
-    },
-    {
-      "id": "4897693",
-      "time": "2026-05-25 09:39:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "【病毒防治概念快速拉昇 達安基因漲停】病毒防治概念快速拉昇，達安基因漲停，之江生物漲超11%，科華生物、凱普生物、潤達醫療跟漲。"
-    },
-    {
-      "id": "4897692",
-      "time": "2026-05-25 09:38:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【優必選、溫州國資等成立具身智慧科技公司】企查查APP顯示，近日，溫州市具身智慧科技有限公司成立，註冊資本7000萬元，經營範圍包含：人工智慧應用軟體開發；人工智慧基礎軟體開發；數字技術服務；基於雲平臺的業務外包服務；智慧機器人的研發等。企查查股權穿透顯示，該公司由優必選、溫州市甌海科技投資有限公司等共同出資。"
-    },
-    {
-      "id": "mkt:019e5cc8-eec5-7882-93e9-789154285785",
-      "time": "2026-05-25 09:38:52",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact mixed",
-        "SZSE Component"
-      ],
-      "text": "TURNOVER ON SSE AND SZSE EXCEEDED 500 BILLION YUAN"
-    },
-    {
-      "id": "4897691",
-      "time": "2026-05-25 09:38:46",
-      "tags": [
-        "市場"
-      ],
-      "text": "臺灣加權股價指數上漲3%至43,548.27點。"
-    },
-    {
-      "id": "4897690",
-      "time": "2026-05-25 09:37:51",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超5000億元，較上日此時放量624億元。"
-    },
-    {
-      "id": "4897689",
-      "time": "2026-05-25 09:36:38",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本10年期國債收益率下行3個基點至2.73%。"
     }
   ]
 }
