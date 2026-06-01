@@ -1,7 +1,90 @@
 {
-  "updated": "2026-06-01 23:57:53",
-  "count": 17000,
+  "updated": "2026-06-02 00:02:54",
+  "count": 17004,
   "items": [
+    {
+      "id": "4911169",
+      "time": "2026-06-02 00:01:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "義大利交通部資料：5 月特斯拉新車上牌量同比下滑 23.5%。"
+    },
+    {
+      "id": "4911168",
+      "time": "2026-06-01 23:59:58",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "Anthropic 已向美國證券交易委員會（SEC）秘密遞交 S-1 招股說明書草案。"
+    },
+    {
+      "id": "4911167",
+      "time": "2026-06-01 23:59:27",
+      "tags": [
+        "公司",
+        "觀點",
+        "焦點",
+        "國際"
+      ],
+      "text": "【SpaceX：馬斯克同意接受為期366天的股票鎖定期】根據SpaceX提交的S-1檔案修正案，馬斯克已與承銷商達成協議，接受為期366天的鎖定期。在未經高盛事先書面同意的情況下，他持有的所有股份均不得出售。SpaceX還表示，將預留最多5%的IPO A類普通股供部分員工以及由公司高管指定的人士認購。"
+    },
+    {
+      "id": "te:economy:555462",
+      "time": "2026-06-01 23:59:04",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Mexico",
+        "Manufacturing PMI",
+        "Importance 0"
+      ],
+      "text": "Mexico's Manufacturing PMI Rises in May — The S&P Global Mexico Manufacturing PMI rose to 49.6 in May 2026 from 47.7 in the previous month, signaling a softer deterioration in factory activity and the joint-mildest contraction in the current nine-month downturn. New orders returned to growth, supported by stronger domestic demand, upcoming FIFA World Cup-related activity, and the approval of pending projects. However, manufacturing output continued to decline, while export orders fell at the sharpest pace in three months amid weaker demand from Europe, Japan, and the US. Elevated cost pressures linked to tariffs and the war in the Middle East pushed input price inflation to one of the highest levels in over 15 years, driven by higher energy, fuel, transportation, and raw material costs. Firms responded by reducing purchasing activity, cutting inventories, and shedding jobs. Despite ongoing challenges, business confidence improved and turned positive in May, although optimism remained subdued by historical standards."
+    },
+    {
+      "id": "4911166",
+      "time": "2026-06-01 23:58:42",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "【紐約聯儲研究：比起人工智慧 遠端辦公對年輕畢業生求職影響更大】紐約聯儲銀行的一項研究顯示，相較於人工智慧的普及，遠端辦公的興起更能解釋近期年輕大學畢業生失業率上升的原因。紐約聯儲經濟學家Natalia Emanuel等研究人員週一在紐約聯儲官網釋出的部落格文章中表示，29歲以下擁有大學學歷勞動者的失業率較疫情前水平上升，其中約64%可歸因於居家辦公趨勢。Emanuel及合作者比較了軟體工程等“可遠端工作”和機械工程等“不可遠端工作”不同年齡段的失業率。研究人員發現，在“可遠端工作”類別，不同年齡段之間的失業率差距最為顯著，而就“不可遠端工作”類別而言，不同年齡段之間的失業率差距已恢復到疫情前水平。經濟學家認為，由於居家辦公模式會阻礙員工培訓和發展，企業越來越不願意僱用年輕員工從事可以遠端進行的工作。"
+    },
+    {
+      "id": "mkt:019e83e8-7f6d-7993-96f6-98e38c1d01d6",
+      "time": "2026-06-01 23:58:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel Defense Forces said it killed Hezbollah’s missile unit commander Muhammad Musa Mutayreq in strikes on Sunday in the Nabatiyeh region."
+    },
+    {
+      "id": "mkt:019e83e7-954c-7993-96f6-9297ed8d4abb",
+      "time": "2026-06-01 23:57:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O"
+      ],
+      "text": "Portugal auto association ACAP says Tesla new registrations in May rose 348.8% YoY; Jan-May registrations up 58.4%."
+    },
+    {
+      "id": "te:markets:555461",
+      "time": "2026-06-01 23:57:25",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Falls as Iran-US Tensions Lift Oil Prices — The FTSE MIB fell 0.5% to close at 49,775 on Monday as reports that Iran will halt communication with the US cast doubt on the prospects for renewing the ceasefire. Oil prices rebounded, reviving stagflation concerns and pushing bond yields higher. Financial stocks came under pressure amid expectations of higher borrowing costs and a hawkish monetary outlook, with UniCredit down 0.7%, Intesa Sanpaolo losing 1.9%, and Generali shedding 0.8%. Utilities also traded lower, with Enel down 0.7%. Other notable laggards included Stellantis (-2.7%) and Leonardo (-3.6%). In contrast, energy-related stocks advanced alongside the oil rally, with Eni up 2.2%, Tenaris gaining 3.2%, and Prysmian adding 0.9%."
+    },
     {
       "id": "4911164",
       "time": "2026-06-01 23:56:41",
@@ -155138,40 +155221,6 @@
         "國際"
       ],
       "text": "【美伊正著手解決核問題與制裁相關的措辭分歧】美國官員稱，圍繞伊朗核計劃及解除制裁的文字措辭爭議，導致停戰協議遲遲無法敲定，但各方樂觀認為分歧有望較快化解。一名美國官員表示，伊朗談判團隊高層組成的代表團週一抵達卡達，結合卡達的調停作用來看，這是一個積極訊號。"
-    },
-    {
-      "id": "4899024",
-      "time": "2026-05-26 00:01:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯外交部發言人扎哈羅娃表示，俄方將召見捷克駐莫斯科外交機構負責人，就大主教遭拘留一事提出強烈抗議。"
-    },
-    {
-      "id": "4899023",
-      "time": "2026-05-26 00:00:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "訊息人士：真主黨無人機襲擊行動升級後，以色列正商討調整在黎巴嫩的軍事策略。"
-    },
-    {
-      "id": "4899022",
-      "time": "2026-05-26 00:00:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "黎巴嫩公共衛生部稱，自3月2日以來，已有3185人死於以色列相關襲擊。"
-    },
-    {
-      "id": "mkt:019e5fdb-bd3c-711d-be5d-fee602c4c102",
-      "time": "2026-05-25 23:58:02",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "【BANK OF RUSSIA Files Second Suit At EU General Court Over Frozen Sovereign Assets】BANK OF RUSSIA Files Second Suit At EU General Court Challenging EU Rule Allowing Use Of Frozen Sovereign Assets To Repay Loans To Ukraine"
     }
   ]
 }
