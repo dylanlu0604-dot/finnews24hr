@@ -1,7 +1,103 @@
 {
-  "updated": "2026-06-01 23:37:35",
-  "count": 16983,
+  "updated": "2026-06-01 23:41:52",
+  "count": 16999,
   "items": [
+    {
+      "id": "mkt:019e83d7-653c-7993-96f6-541cc1191977",
+      "time": "2026-06-01 23:39:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkey's President Erdogan said the government will not allow street unrest."
+    },
+    {
+      "id": "4911154",
+      "time": "2026-06-01 23:39:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其總統埃爾多安：主要反對黨內部的派系紛爭與土政府無關， 政府不會放任街頭陷入動盪。"
+    },
+    {
+      "id": "mkt:019e83d6-ea98-7993-96f6-4d14d308ad9e",
+      "time": "2026-06-01 23:39:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkey's President ERDOGAN said internal debates within the main opposition party are unrelated to the government."
+    },
+    {
+      "id": "mkt:019e83d6-7f23-7993-96f6-462c81d3dcb3",
+      "time": "2026-06-01 23:38:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Iran's central military command warned that if Israel attacks Beirut, residents in northern Israel should leave to avoid harm."
+    },
+    {
+      "id": "4911152",
+      "time": "2026-06-01 23:38:38",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗中央軍事指揮部警告：若以色列空襲貝魯特，為免遭打擊，奉勸以色列北部居民提前撤離。"
+    },
+    {
+      "id": "mkt:019e83d6-3508-7993-96f6-3867808a5eda",
+      "time": "2026-06-01 23:38:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Interfax reports Russia's nuclear regulator chief met with IAEA Director General Grossi to discuss conditions at the Zaporizhzhia nuclear plant."
+    },
+    {
+      "id": "mkt:019e83d5-971c-7993-96f6-35f0a4b7500a",
+      "time": "2026-06-01 23:37:53",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "European equities closed lower on Monday June 1: Germany's DAX 30 fell 90.74 points (-0.36%) to 25,022.32; the UK's FTSE 100 dropped 69.45 points (-0.67%) to 10,339.83; France's CAC 40 slid 36.75 points (-0.45%) to 8,146.59; the Euro Stoxx 50 lost 16.18 points (-0.27%) to 6,034.36; Spain's IBEX 35 declined 178.44 points (-0.97%) to 18,189.86; Italy's FTSE MIB fell 255.25 points (-0.51%) to 49,781.50."
+    },
+    {
+      "id": "mkt:019e83d5-8264-7993-96f6-29e60e329eb7",
+      "time": "2026-06-01 23:37:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Islamic Republic of Iran Broadcasting (IRIB) said that, after actions by the US and Israel (USrael), dictionary editors should reconsider the definition of ceasefire."
+    },
+    {
+      "id": "mkt:019e83d5-6ca0-7993-96f6-251d8b46fcdd",
+      "time": "2026-06-01 23:37:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Lebanese official says Hezbollah prepared for immediate comprehensive ceasefire; Iran suspends US-mediated talks】Axios reports an adviser to Lebanese Parliament Speaker Nabih Berri told the Trump administration that Hezbollah is prepared to agree to an immediate, comprehensive ceasefire with Israel and has pledged to ensure enforcement. Fighting in Lebanon is escalating and could jeopardize prospects of ending the Iran–Israel war, particularly after Prime Minister Netanyahu threatened strikes on Beirut. Tasnim News Agency reported Iran has suspended US-mediated talks in protest of Israeli actions in Lebanon. Berri is one of Lebanon’s most powerful Shia politicians and close to Hezbollah, but US and Israeli officials question whether he can compel Hezbollah to comply."
+    },
+    {
+      "id": "4911151",
+      "time": "2026-06-01 23:37:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：俄羅斯核監管機構負責人與國際原子能機構總幹事格羅西就扎波羅熱核電站局勢舉行會談。"
+    },
     {
       "id": "4911150",
       "time": "2026-06-01 23:35:51",
@@ -9,6 +105,94 @@
         "國際"
       ],
       "text": "伊朗最高領袖顧問：霍爾木茲海峽由伊朗管控，我方不會容忍封鎖局面持續下去。我方不會容忍黎巴嫩局勢持續升溫，伊朗武裝部隊的忍耐有限度。"
+    },
+    {
+      "id": "mkt:019e83d3-6fed-7552-8902-3ad448b43563",
+      "time": "2026-06-01 23:35:26",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "US 3-month Treasury bill auction on June 1 — percentage of awards at the stop-out rate 44.66%, prior 25.6%."
+    },
+    {
+      "id": "mkt:019e83d2-f595-7552-8902-35bcc9d46f97",
+      "time": "2026-06-01 23:34:44",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 3-Month Bill Auction Accepted at High (Jun.1) | actual 44.66% | previous 25.6%"
+    },
+    {
+      "id": "mkt:019e83d2-4f4b-7552-8902-2d00b62c8639",
+      "time": "2026-06-01 23:34:10",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "U.S. 3-month Treasury bill auction bid-cover ratio 2.69 on June 1, down from 3.08 previously."
+    },
+    {
+      "id": "mkt:019e83d2-10d5-7552-8902-245b7d7de70a",
+      "time": "2026-06-01 23:33:56",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 3-Month Bill Auction Bid/Cover Ratio (Jun.1) | actual 2.69 | previous 3.08"
+    },
+    {
+      "id": "mkt:019e83d2-0eda-7552-8902-1a697ddca040",
+      "time": "2026-06-01 23:33:54",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "U.S. 3-month Treasury auction (dated June 1) stop-out yield 3.63%, prior 3.60%."
+    },
+    {
+      "id": "mkt:019e83d1-d4be-7552-8902-143284d33e37",
+      "time": "2026-06-01 23:33:42",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 3-Month Bill Auction High Yield Rate (Jun.1) | actual 3.63% | previous 3.60%"
+    },
+    {
+      "id": "mkt:019e83d1-1297-7552-8902-0eb8c23c8b7e",
+      "time": "2026-06-01 23:32:53",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders"
+      ],
+      "text": "【Changan Automobile May deliveries 209,100; overseas +38% YoY】Changan Automobile said May deliveries totaled 209,100 vehicles; overseas deliveries were 70,700 (+38% YoY). New-energy vehicle deliveries in May were 92,400."
+    },
+    {
+      "id": "mkt:019e83d0-f92a-7552-8902-038a9ab5f10b",
+      "time": "2026-06-01 23:32:46",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Axios reported Lebanon's parliament speaker told the Trump administration on Sunday that Hezbollah is ready for a full ceasefire with Israel and has pledged to ensure the ceasefire's implementation."
     },
     {
       "id": "4911149",
@@ -154982,26 +155166,6 @@
         "Importance 1"
       ],
       "text": "Mexico Current Account Deficit Widens in Q1 2026 — Mexico’s current account posted a deficit of $15.88 billion in the first quarter of 2026, widening from a $13.34 billion gap in the same period of 2025 and missing forecasts of a $9.38 billion deficit. The January–March deficit reflected a $2.41 billion shortfall in the goods and services balance and a $28.06 billion deficit in the primary income balance, partly offset by a $14.59 billion surplus in the secondary income balance. Compared with a year earlier, Mexico recorded wider deficits in the petroleum trade balance, services balance, and primary income balance. Meanwhile, larger surpluses in the non-petroleum trade balance and secondary income balance helped cushion the deterioration. As a share of GDP, the current account deficit stood at 3.1% in Q1 2026, broadly stable from the 3.2% deficit recorded a year earlier."
-    },
-    {
-      "id": "mkt:019e5fca-bb11-711d-be5d-c83259457454",
-      "time": "2026-05-25 23:39:31",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Iran Supreme National Security Council Secretary Says 'No Surrender, No Retreat'"
-    },
-    {
-      "id": "mkt:019e5fca-4668-711d-be5d-c75f53c267dc",
-      "time": "2026-05-25 23:38:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Sheinbaum Says Mexico To Host Iran World Cup Team】Mexico Agrees To Base Iran National Team During World Cup After US Declines; FIFA Requested Move; Iran FA President Mehdi Taj Says Squad Moving From Arizona To Tijuana"
     }
   ]
 }
