@@ -1,7 +1,110 @@
 {
-  "updated": "2026-06-01 12:35:24",
-  "count": 16174,
+  "updated": "2026-06-01 12:39:23",
+  "count": 16178,
   "items": [
+    {
+      "id": "4909666",
+      "time": "2026-06-01 12:38:37",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【印度臨時取消棉花進口關稅 紡織股走高】印度宣佈暫時取消棉花進口關稅後，Vardhman Textiles 和 Trident 領漲紡織品製造商股票。政府表示，該豁免措施將於週一生效，並持續至10月31日，以增加該行業原材料的供應。Vardhman Textiles股價上漲高達7.8%，Trident上漲5.7%，Welspun Living上漲5.8%，KPR Mill上漲4.4%，Kitex Garments上漲3.5%。"
+    },
+    {
+      "id": "4909665",
+      "time": "2026-06-01 12:38:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "上交所：景順長城全球半導體晶片產業股票型證券投資基金（QDII-LOF）將於2026年6月1日下午開市起停牌至當日收市，停牌期間本基金贖回業務照常辦理。"
+    },
+    {
+      "id": "4909664",
+      "time": "2026-06-01 12:37:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【思特奇與武漢雲簽訂合作協議 共築武漢城市算力網】據思特奇訊息，近日，思特奇與武漢雲端計算科技有限公司正式簽署合作協議，雙方將攜手共同推進武漢算力公共服務平臺升級、聯合運營及算力網終端產業佈局，打造“中部領先、全國一流”的算力運營服務體系。"
+    },
+    {
+      "id": "mkt:019e8179-4d0b-799c-966a-dd2b3bf80125",
+      "time": "2026-06-01 12:37:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Shanghai Stock Exchange: INVESCO Great Wall Global Semiconductor Chip Equity Fund (QDII-LOF) temporarily suspended】Shanghai Stock Exchange said INVESCO Great Wall Global Semiconductor Chip Equity Fund (QDII-LOF) will be suspended from the start of the afternoon session on June 1, 2026 until that day's close. As of the midday close on June 1 the fund's latest secondary-market trade price was CNY 4.552; NAV per share as of May 28, 2026 was CNY 3.2876, implying roughly a 38.5% premium. Redemption will continue to be processed during the suspension."
+    },
+    {
+      "id": "4909663",
+      "time": "2026-06-01 12:37:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "英偉達美股夜盤股價上漲2.7%。"
+    },
+    {
+      "id": "4909662",
+      "time": "2026-06-01 12:37:29",
+      "tags": [
+        "兩會"
+      ],
+      "text": "【全國人大常委會啟動職業教育法執法檢查 】為推動職業教育法全面正確有效實施，推進現代職業教育體系建設，促進職普融通、產教融合，提升職業學校關鍵辦學能力，進一步增強職業教育的適應性和吸引力，全國人大常委會6月1日啟動職業教育法執法檢查。職業教育法於1996年頒佈施行，並於2022年進行全面修訂。記者1日從全國人大常委會職業教育法執法檢查組第一次全體會議上獲悉，此次執法檢查將採取赴地方檢查與委託省級人大常委會檢查相結合的方式，提高執法檢查整體質效。6月至9月，執法檢查組赴天津、遼寧、江蘇、浙江、江西、湖南、寧夏等7個省（區、市）開展實地檢查，並委託福建、河南、四川、陝西、新疆等5個省（區）人大常委會對本行政區域內職業教育法貫徹實施情況進行檢查。檢查組將透過聽取地方政府及有關部門彙報、召開座談會、實地檢查、問卷調查、隨機抽查等方式，全面瞭解法律實施情況，找準查清法律實施中存在的主要問題。執法檢查中，將重點檢查7方面內容：法定職責落實和相關配套制度建設情況；建立現代職業教育體系情況；深化產教融合校企合作情況；推進職普融通協調發展情況；提升職業學校關鍵辦學能力情況；強化職業教育支援保障情況；法律實施中存在的問題困難和意見建議。"
+    },
+    {
+      "id": "mkt:019e8178-a13e-799c-966a-d78c6a6f31c3",
+      "time": "2026-06-01 12:37:06",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "【NVIDIA names ANTHROPIC, OpenAI and SpaceX as initial Vera users; Q3 production set】NVIDIA said ANTHROPIC, OpenAI and SpaceX will be among the first large users of its upcoming data‑center microprocessor, Vera. Vera, NVIDIA’s first standalone data‑center microprocessor, is slated for full production in Q3. CEO Jensen Huang said Vera is 1.8x faster than x86‑based chips on core AI workloads. NVIDIA positions Vera to compete directly with Intel Xeon, AMD Epyc and hyperscalers’ in‑house designs such as Amazon’s Graviton."
+    },
+    {
+      "id": "4909661",
+      "time": "2026-06-01 12:36:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "搭載Windows系統的英偉達DGX工作站將萬億引數AI超級計算機帶入每家企業的桌面。"
+    },
+    {
+      "id": "mkt:019e8177-447b-799c-966a-c8bb76a6ef63",
+      "time": "2026-06-01 12:35:37",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Chip Wars",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "【NVIDIA launches RTX Spark superchip for PCs, targets Intel dominance】At Computex Taipei NVIDIA said it will deploy an RTX Spark “superchip” in PCs to challenge Intel’s dominance. The chip will appear in Dell Technologies and Lenovo laptops and desktops from this autumn. Built with MediaTek assistance, the SoC combines a microprocessor and GPU and will run Microsoft Windows for Arm. The CPU will offer up to 20 compute cores; the GPU is a Blackwell-architecture unit with 6,144 cores. Both elements share on-package memory and communicate via NVIDIA’s NVLink, bringing data-center-class interconnects to personal computers. The design will be manufactured by TSMC using its 3N process."
+    },
+    {
+      "id": "4909660",
+      "time": "2026-06-01 12:35:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本龜甲萬將於9月1日起上調醬油及其他產品價格。"
+    },
+    {
+      "id": "4909659",
+      "time": "2026-06-01 12:35:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "韓華航空航天股價下跌3.3%。"
+    },
     {
       "id": "mkt:019e8176-8233-799c-966a-c434291b0e43",
       "time": "2026-06-01 12:34:47",
@@ -147185,73 +147288,6 @@
         "公司"
       ],
       "text": "【三菱化學擬拆分石化業務】三菱化學集團表示，旗下核心子公司三菱化學已著手考量剝離石化業務，以期後續開展併購整合、順應行業整體重組趨勢。計劃在 2028 年 3 月財年結束前完成拆分工作。"
-    },
-    {
-      "id": "4897939",
-      "time": "2026-05-25 12:38:42",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "馬來西亞通訊公司亞通集團（Axiata Group Bhd）：將繼續密切監控中東地區當前持續的地緣政治緊張局勢。"
-    },
-    {
-      "id": "te:economy:553325",
-      "time": "2026-05-25 12:37:59",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Malaysia",
-        "Leading Economic Index",
-        "Importance 1"
-      ],
-      "text": "Malaysia Leading Index Falls for 3rd Month — Malaysia's leading economic index edged down 0.1% month-on-month in March 2026, following a 0.3% decline in the previous month. It marked a third straight monthly drop, weighed down by declines in real imports of semiconductors (-0.9% vs -0.8%) and the number of companies registered (-0.1% vs -0.6%). Meanwhile, increases were seen in real money supply M1 (0.3% vs 0.6%), the Bursa Malaysia Industrial Index (0.02% vs 0.2%), and real imports of other basic precious and non-ferrous metals (0.3% vs 0.5%), while the number of housing units approved rebounded (0.3% vs -0.2%). On an annual basis, the leading index rose 0.5%, easing from an upwardly revised 0.8% in February. Meanwhile, the coincident index, a gauge of current economic conditions, rose 0.8% month-on-month, rebounding from a 1.4% fall in February."
-    },
-    {
-      "id": "4897938",
-      "time": "2026-05-25 12:37:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "超微電腦：近期事件突顯了對全行業解決方案的需求，這類方案將進一步助力保障供應鏈安全，並強化出口管制法律的執行力度。"
-    },
-    {
-      "id": "4897937",
-      "time": "2026-05-25 12:36:50",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【全國首單掛鉤藍色債券合約類信用衍生品交易落地山東】近日，在中國人民銀行山東省分行指導和推動下，山東省成功落地掛鉤藍色債券的合約類信用衍生品交易。該業務是全國首單以藍色債券為保護標的的信用風險緩釋合約（CRMA），其中，浦發銀行與申萬宏源證券以山東能源集團新能源集團有限公司發行的藍色債券“G26新能1”為標的達成信用風險保護交易，交易規模3000萬元，上海清算所提供清算服務。該模式透過運用金融衍生工具有效緩釋了投資者在藍色債券配置中的信用風險，在增強市場投資信心的同時，有助於進一步降低我省海洋經濟實體企業的融資成本，有力引導金融資源流向藍色經濟領域。（上海清算所）"
-    },
-    {
-      "id": "4897936",
-      "time": "2026-05-25 12:36:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "超微電腦表示：致力於攜手行業夥伴，守護先進技術與智慧財產權。完善的合規框架，輔以符合英偉達及其他合作伙伴要求的嚴格盡職調查，是解決熱門技術被非法轉售至受限市場這一風險的關鍵舉措。"
-    },
-    {
-      "id": "mkt:019e5d6b-4722-711d-be56-5471d6313b99",
-      "time": "2026-05-25 12:36:12",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Oil Prices Likely to Stay Elevated Even After US-Iran Deal, AMP Says】Global oil benchmarks are unlikely to return to pre-conflict levels this year even if a US-Iran agreement is reached, according to Shane Oliver of Australian wealth manager AMP. He said it will take time for shipping through the Strait of Hormuz to normalize and that markets will continue pricing in a risk premium for potential supply disruptions. Oliver estimates West Texas Intermediate could end the year around $80 a barrel and Brent around $85, compared with roughly $67 before the conflict, with higher levels possible if the nuclear issue remains unresolved."
-    },
-    {
-      "id": "4897935",
-      "time": "2026-05-25 12:35:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "5月25日上午，塞爾維亞總統武契奇前往天安門廣場，向人民英雄紀念碑敬獻花圈。（新華社）"
     }
   ]
 }
