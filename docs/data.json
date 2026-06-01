@@ -1,7 +1,31 @@
 {
-  "updated": "2026-06-02 05:01:58",
-  "count": 17111,
+  "updated": "2026-06-02 05:05:52",
+  "count": 17103,
   "items": [
+    {
+      "id": "4911338",
+      "time": "2026-06-02 05:04:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "黎巴嫩議長：我們決心在黎巴嫩各地，特別是南部地區，實現停火。如果伊朗和美國之間達成結束戰爭的協議，將包括停止所有戰線上的攻擊，特別是黎巴嫩。黎巴嫩絕不會忘記伊朗在這個敏感階段所持的積極立場。"
+    },
+    {
+      "id": "4911337",
+      "time": "2026-06-02 05:02:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "伯克希爾哈撒韋對Alphabet的投資包括：以每股351.81美元的價格買入50億美元的A類普通股，以及以每股348.20美元的價格買入50億美元的C類資本股。"
+    },
+    {
+      "id": "4911336",
+      "time": "2026-06-02 05:02:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌母公司Alphabet：計劃將約300億美元市價配售（ATM）募資資金用於清繳2026自然年度應繳稅款。"
+    },
     {
       "id": "mkt:019e84fd-d115-7993-96fa-4cf2b4a4f740",
       "time": "2026-06-02 05:01:27",
@@ -156117,130 +156141,6 @@
         "Impact bearish"
       ],
       "text": "【SCHNABEL Says ECB Should Hike In June Even If US‑Iran Reach Deal】SCHNABEL: ECB Needs June Hike Even If US‑Iran Deal; Prolonged Conflict, High Energy Prices Driving Inf >2%; Energy Infrastructure, Global Supply Chains Damaged; Second‑Round Effects Emerging"
-    },
-    {
-      "id": "mkt:019e62ac-ebbe-7dd8-b21f-3e4154bec747",
-      "time": "2026-05-26 05:05:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Australia FM Seeks Deeper Cooperation With Southeast Asia On Anti-Scam Centers"
-    },
-    {
-      "id": "mkt:019e62ac-c308-7dd8-b21f-331b385f1d27",
-      "time": "2026-05-26 05:05:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Australia FM Launches Port Cooperation With Quad Nations"
-    },
-    {
-      "id": "mkt:019e62ac-4aff-7dd8-b21f-28a0c4f2333b",
-      "time": "2026-05-26 05:04:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "WTI Climbs Above $95/bbl, Up 1.91% Intraday; Brent Up 2.00% to $95.63/bbl"
-    },
-    {
-      "id": "4899126",
-      "time": "2026-05-26 05:03:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "一名伊朗官員向半島電視臺透露，德黑蘭方面已向美方發出警告：一旦以色列襲擊貝魯特及其南部郊區，將嚴重阻礙停火程序，並可能中斷外交斡旋工作。"
-    },
-    {
-      "id": "mkt:019e62ab-6935-7dd8-b21f-245438d805f5",
-      "time": "2026-05-26 05:03:56",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "SCHNABEL Says Bond Yield Rise Not Worrisome"
-    },
-    {
-      "id": "mkt:019e62ab-3b4c-7dd8-b21f-1bb624dab95a",
-      "time": "2026-05-26 05:03:44",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "US10Y"
-      ],
-      "text": "ECB Executive Board Member SCHNABEL Warns Inf Shock Spreading To More Consumption-Basket Items; Signs Mounting"
-    },
-    {
-      "id": "mkt:019e62ab-06f2-7dd8-b21f-158878392d1f",
-      "time": "2026-05-26 05:03:28",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "EURUSD",
-        "Impact mixed",
-        "DXY"
-      ],
-      "text": "ECB SCHNABEL: Latest Data Signal Upward Inf Risk, Downside Growth Risk"
-    },
-    {
-      "id": "mkt:019e62aa-9297-7dd8-b21f-0eb18e1a7c76",
-      "time": "2026-05-26 05:03:09",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bearish",
-        "DAX",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "ECB SCHNABEL Warns Shock To Deepen Drag On Growth"
-    },
-    {
-      "id": "mkt:019e62aa-75d9-7dd8-b21f-02377f59ae1e",
-      "time": "2026-05-26 05:02:56",
-      "tags": [
-        "MKT News",
-        "Important",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "ECB Executive Board Member SCHNABEL: June Rate Hike Inevitable; Can't Ignore Surging Inf"
-    },
-    {
-      "id": "4899125",
-      "time": "2026-05-26 05:02:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "報道稱，圖爾西·加巴德辭職後，副總統萬斯在美國總統特朗普的政府內部愈發孤立，其在伊朗問題上的非干涉主義主張與特朗普發生衝突，而國務卿盧比奧的影響力正在上升。（每日郵報）"
-    },
-    {
-      "id": "mkt:019e62a9-c323-7dd8-b21e-fe446fb944df",
-      "time": "2026-05-26 05:02:09",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact mixed",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "ECB Executive Board Member SCHNABEL Says Policy Action Needed Even If Iran War Ends Today; Energy Infrastructure Damage"
     }
   ]
 }
