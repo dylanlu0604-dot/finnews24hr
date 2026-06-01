@@ -1,7 +1,32 @@
 {
-  "updated": "2026-06-02 05:05:52",
-  "count": 17103,
+  "updated": "2026-06-02 05:09:43",
+  "count": 17104,
   "items": [
+    {
+      "id": "4911341",
+      "time": "2026-06-02 05:08:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "慧與公司執行長在電話會議上表示：Wi-Fi 7接入點銷量增長超七倍，這反映出市場明確向網路現代化轉型。"
+    },
+    {
+      "id": "4911340",
+      "time": "2026-06-02 05:07:35",
+      "tags": [
+        "觀點",
+        "焦點"
+      ],
+      "text": "【Alphabet計劃進行800億美元股權融資 伯克希爾將投資100億美元】Alphabet計劃同時進行300億美元承銷發行和400億美元按市價發行。伯克希爾將透過私募配售方式向Alphabet投資100億美元，其中包括以每股351.81美元認購50億美元A類普通股，以及以每股348.20美元認購50億美元C類股本Alphabet將把融資所得用於擴建AI算力基礎設施。高盛、J.P. Morgan Securities和摩根士丹利是承銷發行的聯席賬簿管理人。"
+    },
+    {
+      "id": "4911339",
+      "time": "2026-06-02 05:06:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國國土安全部不會暫停紐瓦克機場的國際航班】美國國土安全部部長馬林周一表示，鑑於新澤西州某拘留中心附近的州和地方執法官員給予了配合，他無需暫停紐瓦克機場的國際航班通關手續。“只要我們繼續與地方和州執法部門保持這種合作關係，就無需採取這一措施，”馬林在達拉斯舉行的新聞釋出會上表示。"
+    },
     {
       "id": "4911338",
       "time": "2026-06-02 05:04:46",
@@ -156113,34 +156138,6 @@
         "MKT News"
       ],
       "text": "U.S. Secretary Rubio Launches Quad Indo-Pacific Maritime Monitoring Initiative"
-    },
-    {
-      "id": "mkt:019e62af-4e2b-7ff6-adfb-54b8ea0be190",
-      "time": "2026-05-26 05:08:36",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "USDJPY"
-      ],
-      "text": "Japan FM MOTEGI: Quad Agrees To Oppose Unilateral Use Of Force Or Coercion To Alter Status Quo"
-    },
-    {
-      "id": "mkt:019e62ad-95f1-7ff6-adfb-485e2f5a9ca3",
-      "time": "2026-05-26 05:06:43",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【SCHNABEL Says ECB Should Hike In June Even If US‑Iran Reach Deal】SCHNABEL: ECB Needs June Hike Even If US‑Iran Deal; Prolonged Conflict, High Energy Prices Driving Inf >2%; Energy Infrastructure, Global Supply Chains Damaged; Second‑Round Effects Emerging"
     }
   ]
 }
