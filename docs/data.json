@@ -1,7 +1,38 @@
 {
-  "updated": "2026-06-02 02:31:52",
-  "count": 17026,
+  "updated": "2026-06-02 02:35:43",
+  "count": 17029,
   "items": [
+    {
+      "id": "mkt:019e8478-01b2-7993-96f8-af5b388ff15c",
+      "time": "2026-06-02 02:35:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "HEZBOLLAH MP Hassan Fadlallah said he supports a comprehensive ceasefire across all Lebanese territory."
+    },
+    {
+      "id": "4911245",
+      "time": "2026-06-02 02:34:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "黎巴嫩真主黨議員哈桑・法德拉拉：我方支援在黎巴嫩全境實現全面停火。"
+    },
+    {
+      "id": "mkt:019e8474-8a4f-7993-96f8-a60f39e755dc",
+      "time": "2026-06-02 02:31:30",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bearish",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "【Night session most-active contracts close】At the 02:30 close, Shanghai most-active gold contract fell 1.28% to 980 yuan/gram; Shanghai most-active silver contract fell 0.73% to 18,130 yuan/kg; SC crude oil most-active contract rose 3.57% to 606 yuan/barrel."
+    },
     {
       "id": "mkt:019e8474-6af3-7993-96f8-9c38a4e38e47",
       "time": "2026-06-02 02:31:22",
