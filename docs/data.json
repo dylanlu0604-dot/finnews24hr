@@ -1,7 +1,101 @@
 {
-  "updated": "2026-06-01 09:51:48",
-  "count": 16034,
+  "updated": "2026-06-01 09:55:34",
+  "count": 16044,
   "items": [
+    {
+      "id": "4909390",
+      "time": "2026-06-01 09:54:54",
+      "tags": [],
+      "text": "【《國務院關於對外投資的規定》公佈】投資者開展對外投資活動，不得出口、使用國家禁止出口的貨物、技術、服務及相關資料，或者未經許可出口、使用國家限制出口的貨物、技術、服務及相關資料；不得以跨境派遣技術人員、組織人員赴其他國家（地區）工作、跨境提供技術指導、安排人員跨境培訓等方式向其他國家（地區）轉移國家禁止出口的貨物、技術、服務及相關資料，或者未經許可向其他國家（地區）轉移國家限制出口的貨物、技術、服務及相關資料。"
+    },
+    {
+      "id": "4909389",
+      "time": "2026-06-01 09:54:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "【電力板塊走勢分化，深南電A盤中觸及漲停】電力板塊走勢分化，深南電A盤中觸及漲停，金房能源此前漲停，粵電力A、晉控電力、華能國際跟漲。"
+    },
+    {
+      "id": "4909388",
+      "time": "2026-06-01 09:54:44",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指漲1.02%，現報4079.292點；上證指數漲0.15%，現報4074.644點；深證成指漲0.56%，現報15661.899點。"
+    },
+    {
+      "id": "4909387",
+      "time": "2026-06-01 09:54:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "焦煤連續主力合約日內漲5%，現報1349.50元。"
+    },
+    {
+      "id": "4909386",
+      "time": "2026-06-01 09:54:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "塑膠連續主力合約日內漲3%，現報8040.00元。"
+    },
+    {
+      "id": "4909385",
+      "time": "2026-06-01 09:53:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【通用人工智慧公司VAST獲近2億美元A輪系列融資】近日，通用人工智慧公司VAST宣佈完成A+及A++兩輪融資，合計近2億美元。本輪融資由渶策資本、國壽長三角科創基金領投，深圳市人工智慧終端產業基金（產業方為全球頭部終端廠商榮耀）、知名產業戰投、上海半導體產投等產業投資方，深創投、元生資本、沃賦創投與方廣資本等財務資本聯合投資；同時，春華創投、靖亞資本、BV百度風投、東方嘉富等老股東亦持續超額追投。"
+    },
+    {
+      "id": "mkt:019e80e1-d5ae-7bb6-a9be-f9e942ea64aa",
+      "time": "2026-06-01 09:52:24",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "【China Coast Guard patrols waters east of Taiwan in response to Japan, Philippines delimitation talks】China Coast Guard spokesman Jiang Lue said on June 1 the Daishan flotilla conducted law-enforcement patrols in waters east of Taiwan. He called the patrols a necessary response to Japan and the Philippines’ unilateral announcement to launch delimitation talks in those waters, saying such moves seriously infringe China’s territorial sovereignty and maritime rights. Jiang urged Tokyo and Manila to immediately cease what he described as illegal actions; the China Coast Guard said it will continue to strengthen control of the area to defend national territory and maritime interests."
+    },
+    {
+      "id": "4909384",
+      "time": "2026-06-01 09:52:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達20億港元。"
+    },
+    {
+      "id": "4909383",
+      "time": "2026-06-01 09:51:58",
+      "tags": [
+        "宏觀",
+        "焦點"
+      ],
+      "text": "國務院釋出關於對外投資的規定。（中國政府網）"
+    },
+    {
+      "id": "mkt:019e80e1-55ff-7bb6-a9be-f58285f17c12",
+      "time": "2026-06-01 09:51:51",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "China's State Council issued regulations on outbound investment."
+    },
+    {
+      "id": "4909382",
+      "time": "2026-06-01 09:51:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中國海警位中國臺灣島以東海域開展執法巡查】中國海警局新聞發言人姜略表示，6月1日，中國海警岱山艦編隊位中國臺灣島以東海域依法開展執法巡查。這是針對日本和菲律賓單方面宣佈啟動中國臺灣島以東海域劃界談判、嚴重侵犯中國領土主權和海洋權益採取的必要行動。我們敦促日菲立即停止一切侵害中國主權權益的非法行動。中國海警將持續加強有關海域管控，以實際行動堅決維護國家領土主權和海洋權益。（央視新聞）"
+    },
     {
       "id": "te:economy:555153",
       "time": "2026-06-01 09:50:39",
@@ -343,6 +437,14 @@
         "000100.SZ"
       ],
       "text": "China A-share glass-substrate concept stocks rallied. Hongxing Development hit limit-up three times in five sessions; Voge Optoelectronics jumped over 9%. BOE A, Lehman Optoelectronics, Rainbow Co. and TCL Technology also advanced."
+    },
+    {
+      "id": "4909362",
+      "time": "2026-06-01 09:37:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【鈉離子電池概念表現活躍 振華新材漲超11%】鈉離子電池概念表現活躍，振華新材漲超11%，翔豐華、同興科技、傳藝科技、容百科技、貝特瑞跟漲。訊息面上，中國工程院院士、寧德時代首席科學家吳凱在2026裝備強國論壇上表示，今年寧德時代將有一系列鈉離子電池產品規模量產。"
     },
     {
       "id": "4909361",
@@ -145813,23 +145915,6 @@
       "time": "2026-05-25 09:55:38",
       "tags": [],
       "text": "煤炭股掀漲停潮，盤江股份、淮北礦業、上海能源、平煤股份相繼漲停。"
-    },
-    {
-      "id": "4897721",
-      "time": "2026-05-25 09:54:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華為與航天能源簽署合作MOU/備忘錄協議】近日，華為與上海航天能源股份有限公司簽署合作MOU/備忘錄協議，雙方將深入整合優勢資源，在國內大中型燃氣企業共同開展智慧氣網綜合解決方案以及專案聯合拓展合作。"
-    },
-    {
-      "id": "4897720",
-      "time": "2026-05-25 09:53:49",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超1萬億元，較上日此時放量1785億元。"
     }
   ]
 }
