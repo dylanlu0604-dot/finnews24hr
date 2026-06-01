@@ -1,7 +1,153 @@
 {
-  "updated": "2026-06-01 16:07:05",
-  "count": 16297,
+  "updated": "2026-06-01 16:11:14",
+  "count": 16304,
   "items": [
+    {
+      "id": "4910077",
+      "time": "2026-06-01 16:10:21",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【龍旗科技：擬申請註冊發行不超30億元債務融資工具】龍旗科技公告稱，公司擬向中國銀行間市場交易商協會申請註冊發行總額度不超過30億元的債務融資工具，品種包括超短期融資券、短期融資券等。發行將根據資金需求和市場利率情況，一次或分期擇機進行，募集資金用於日常經營、償債等。公司董事會提請股東會授權董事會負責註冊及後續發行工作，授權有效期自股東會審議透過起，在註冊、發行及存續期內持續有效。該事項尚需股東會審議透過，並報交易商協會獲准註冊。"
+    },
+    {
+      "id": "te:markets:555307",
+      "time": "2026-06-01 16:10:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Rice Falls by 2.51% — Top commodity losers are Rice (-2.51%) and Oat (-1.18%). Gains are led by Sugar (1.58%), Cotton (1.18%) and Canola (1.03%)."
+    },
+    {
+      "id": "te:economy:555306",
+      "time": "2026-06-01 16:09:38",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Euro Area",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "Eurozone Manufacturing Growth Slows Amid Rising Costs — The S&P Global Eurozone Manufacturing PMI fell to 51.6 in May 2026, down from April’s near four-year high of 52.2 but slightly above the preliminary estimate of 51.4. While the sector expanded for a fourth consecutive month, growth is faltering under the strain of soaring prices and supply chain disruptions tied to the Middle East conflict. A notable outlier was the suppliers’ delivery times index, which, despite signaling the worst delays since June 2022, positively contributed to the headline PMI, as longer lead times historically correlate with higher manufacturing activity. However, new orders stagnated, production growth slowed, and input prices and output charges surged to four-year and three-and-a-half-year highs, respectively. Employment continued to decline, and business optimism remained subdued."
+    },
+    {
+      "id": "mkt:019e823b-1ea6-766b-8634-81ccc369accc",
+      "time": "2026-06-01 16:09:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "00268.HK",
+        "Impact bullish",
+        "00100.HK",
+        "Impact bearish",
+        "Hang Seng Index"
+      ],
+      "text": "Hong Kong close: HSI rose 0.86%, Hang Seng Tech Index rose 1.65%. Kingdee International (00268.HK) closed up over 19%; MiniMax (00100.HK) closed down more than 15%."
+    },
+    {
+      "id": "4910076",
+      "time": "2026-06-01 16:09:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【上海機電：截至5月31日累計回購1412.14萬股B股 耗資2147.64萬美元】上海機電公告稱，公司擬以集中競價交易方式回購境內上市外資股（B股），回購金額不超過3927.32萬美元，回購股份將全部登出並減少註冊資本。2026年5月，公司回購161.99萬股B股，支付金額229.92萬美元。截至5月31日，公司累計回購1412.14萬股B股，佔總股本的1.3807%，支付總金額2147.64萬美元。"
+    },
+    {
+      "id": "4910075",
+      "time": "2026-06-01 16:09:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【港股收盤：恒生指數漲0.857%，恒生科技指數漲1.652%】金蝶國際漲20.082%，金山軟體漲10.594%，零跑汽車漲8.550%，老鋪黃金漲8.432%，蔚來-SW漲7.106%，美團-W漲7.080%，小鵬集團-W漲6.186%。"
+    },
+    {
+      "id": "4910074",
+      "time": "2026-06-01 16:08:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國總統馬克龍表示，在今年的“選擇法國”投資峰會上，企業已承諾在法國進行總計930億歐元的投資。"
+    },
+    {
+      "id": "mkt:019e823a-1d83-766b-8634-7c751c60a0a5",
+      "time": "2026-06-01 16:08:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "President Macron said companies pledged €93 billion of investment in France at this year’s Choose France summit."
+    },
+    {
+      "id": "mkt:019e823a-079d-7112-8c88-c88dc806c6f9",
+      "time": "2026-06-01 16:08:21",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "ARM.O",
+        "Impact bullish",
+        "MU.O",
+        "MSFT.O"
+      ],
+      "text": "US tech stocks were mostly higher in premarket trading. Arm (ARM.O) rose as much as 8%, Micron Technology (MU.O) gained over 3%, Oracle (ORCL.N) rose 2.8% and Microsoft (MSFT.O) rose 2.3%."
+    },
+    {
+      "id": "4910073",
+      "time": "2026-06-01 16:08:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【白雲山：分公司獲磷酸奧司他韋幹混懸劑註冊證書，研發費用約2211.72萬元】白雲山公告，公司分公司廣州白雲山醫藥集團股份有限公司白雲山製藥總廠近日收到國家藥品監督管理局核准簽發的關於磷酸奧司他韋幹混懸劑的《藥品註冊證書》。該藥品適用於成人和2周齡及以上兒童的甲型與乙型流感治療，以及1歲及以上人群的甲型與乙型流感預防。根據米內網資料，2025年該藥品在國內城市、縣級公立醫院及城市、網上藥店的銷售額為人民幣13501萬元。截至目前，白雲山製藥總廠在該專案上已投入研發費用合計約人民幣2211.72萬元（未經審計）。本次獲得註冊證書豐富了白雲山製藥總廠抗感染產品的種類，有利於提升公司在抗感染領域市場的競爭力。"
+    },
+    {
+      "id": "4910072",
+      "time": "2026-06-01 16:07:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【達嘉維康：全資子公司達嘉維康生物製藥有限公司獲得阿奇黴素幹混懸劑藥品註冊證書】達嘉維康公告，全資子公司達嘉維康生物製藥有限公司近日收到國家藥品監督管理局核准簽發的關於阿奇黴素幹混懸劑的《藥品註冊證書》。阿奇黴素幹混懸劑，口服混懸劑，化學藥品4類，規格0.1g（按C38H72N2O12計），上市許可持有人達嘉維康生物製藥有限公司，證書編號2026S01786，藥品批准文號國藥準字H20264545，有效期至2031年5月26日。該藥品的獲批將豐富公司自產品種矩陣，最佳化產品結構，增強公司核心競爭力。"
+    },
+    {
+      "id": "4910071",
+      "time": "2026-06-01 16:07:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【京雄高速二期今年將建成通車】據“雄安釋出”微信公眾號訊息，京雄高速二期是雄安新區“四縱三橫”和大興國際機場“五縱兩橫”區域路網的重要組成部分。專案位於保定涿州市，路線起自京雄高速一期義和莊樞紐互通，向西與京港澳高速相接，全長12.5公里，總投資39.18億元，2024年10月開工。全線採用雙向六車道高速公路標準建設，設計速度120公里/小時。"
+    },
+    {
+      "id": "te:markets:555305",
+      "time": "2026-06-01 16:06:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Aluminum Hits 4-year High — Aluminum increased to 3709.00 USD/T, the highest since March 2022. Over the past 4 weeks, Aluminum gained 3.71%, and in the last 12 months, it increased 49.86%."
+    },
+    {
+      "id": "4910070",
+      "time": "2026-06-01 16:06:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【駐日美軍計劃轉移無人機 周邊地區代表要求落實安全措施】近日，日本方面訊息顯示，美軍將從今年夏天起，陸續將3架RQ-4“全球鷹”無人偵察機從關島安德森空軍基地轉移至位於東京都的駐日美軍橫田基地。當地時間6月1日，日本方面訊息稱基地周邊6個地區的代表今天前往日本防衛省，要求防衛省敦促駐日美軍徹底落實安全對策等措施。具體包括迅速提供轉移時間、後續運用等準確的資訊，並採取安全措施，同時儘量減少噪音等帶來的影響。訊息還稱，長期以來，駐日美軍基地安全事故、噪音和犯罪等問題頻發，嚴重影響基地周邊居民日常生活，並引發多起訴訟。（央視新聞）"
+    },
     {
       "id": "te:economy:555304",
       "time": "2026-06-01 16:06:07",
@@ -36,6 +182,14 @@
       "text": "Arcfox reported May 2026 sales of 17,943 vehicles, up 32.82% YoY."
     },
     {
+      "id": "4910068",
+      "time": "2026-06-01 16:05:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【方盛製藥：受讓藥品品種置換為三個新藥品】方盛製藥公告稱，2026年6月1日，香港方盛堂與康溢醫藥、李明志簽訂《藥品品種轉讓協議之補充協議二》，將原轉讓的“德國(漢堡)強力利糖靈”等3個藥品，置換為“天行健靈芝精華膠囊”等3個藥品。本次更換為等價替換，不涉及定價變更。截至公告披露日，香港方盛堂已付清轉讓款，雙方正推進轉移工作。新藥品受讓後擬在內地申請上市註冊，但存在不予註冊等風險，藥品生產、銷售情況也具不確定性。"
+    },
+    {
       "id": "4910067",
       "time": "2026-06-01 16:05:19",
       "tags": [
@@ -53,6 +207,14 @@
         "Importance 1"
       ],
       "text": "Metals Commodities Updates: Silicon Gains by 2.56% — Top commodity gainers are Silicon (2.56%), Copper (1.69%) and Lithium Carbonate (0.85%). Biggest loser is Gold (-0.95%)."
+    },
+    {
+      "id": "4910066",
+      "time": "2026-06-01 16:04:54",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【全國市場監管服務型執法工作現場推進會在陝西西安召開】5月26日至27日，全國市場監管服務型執法工作現場推進會在陝西省西安市召開。會議總結交流全國市場監管執法稽查和服務型執法工作開展情況，分析當前形勢與任務，部署下一步重點工作。市場監管總局副局長白清元出席會議並講話，陝西省副省長李鈞出席會議並致辭。會議對持續推動執法稽查工作作出部署，要求堅持寬嚴相濟的執法導向，做到執法力度與溫度的統一。要理清執法重點，抓住重點產品、重點領域、重點環節，集中力量打擊突出違法行為，切實達到以案促治的系統治理效果。要切實提升執法效能，透過完善執法機制、提高執法技術支撐能力、培養執法人才等舉措，健全完善執法體系，提升執法效能。要切實增強宣傳意識，加大宣傳引導力度，努力營造執法稽查工作的良好氛圍。"
     },
     {
       "id": "mkt:019e8236-5546-766b-8634-682ad80f7f72",
@@ -148467,85 +148629,6 @@
         "其他"
       ],
       "text": "肯亞考慮縮減 2026 至 2027 財年預算規模。"
-    },
-    {
-      "id": "4898310",
-      "time": "2026-05-25 16:10:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部發言人：卡達埃米爾並未前往德黑蘭。我們對以色列政權不抱任何期望，除了他們會破壞任何可能緩解本地區緊張局勢的程序。"
-    },
-    {
-      "id": "te:markets:553412",
-      "time": "2026-05-25 16:10:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Palm Oil Falls by 0.76% — Today's Agricultural commodities market is characterized by modest daily movements, with Palm Oil standing out as the frontrunner with a -0.76% decrease."
-    },
-    {
-      "id": "4898309",
-      "time": "2026-05-25 16:10:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列軍方通報，今日早些時候一架國防軍無人機因故障在該國中部空地緊急迫降，軍方已收回該機，暫無人員傷亡。"
-    },
-    {
-      "id": "4898308",
-      "time": "2026-05-25 16:09:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "【ZINKO擇珂集團完成數千萬元A輪融資】5月25日，據華映資本訊息，國內IP全鏈路商業集團ZINKO擇珂集團於近日宣佈完成數千萬元A輪融資，由華映資本獨家投資。本次融資資金將主要用於全球IP矩陣拓展、原創IP孵化、AI智慧技術研發投入、自有消費品品牌矩陣升級，以及全球供應鏈與數字化運營平臺建設，加速推進全球化佈局與全鏈路生態落地。"
-    },
-    {
-      "id": "mkt:019e5e2e-e612-711d-be59-61dddcf9d01b",
-      "time": "2026-05-25 16:09:41",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Iran FM: No Expectations Of Israeli Regime; Will Sabotage Any De-Escalation Process"
-    },
-    {
-      "id": "4898307",
-      "time": "2026-05-25 16:08:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "【長春高新：GenSci144片臨床試驗申請獲受理，中國CKD患病率8.16%】長春高新公告，公司控股子公司金賽藥業自主研發的口服小分子SLC6A19抑制劑GenSci144片，用於慢性腎臟病（CKD）的境內生產藥品註冊臨床試驗申請近日獲國家藥品監督管理局受理，受理號CXHL2600616、CXHL2600617。該藥為化藥1類，擬用於CKD治療，中國成年人CKD患病率為8.16%，患者近1.56億。此前該藥用於苯丙酮尿症的臨床試驗申請已獲受理。"
-    },
-    {
-      "id": "mkt:019e5e2e-200e-711d-be59-58780321fd50",
-      "time": "2026-05-25 16:08:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran FM Spokesman Says Qatar's Emir Did Not Visit Tehran"
-    },
-    {
-      "id": "4898306",
-      "time": "2026-05-25 16:08:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【康希諾：24價肺炎疫苗啟動I/II期臨床，完成首例入組】康希諾公告，公司24價肺炎球菌多糖結合疫苗（CRM197/破傷風類毒素）（PCV24）於近日正式啟動I/II期臨床試驗，並完成首例受試者入組。該疫苗於2026年1月獲得藥物臨床試驗批准通知書，覆蓋24種肺炎球菌主要流行血清型，採用雙載體技術，擬適用於2月齡（最小6周）及以上人群接種。截至公告日，國內外均無24價肺炎球菌多糖結合疫苗上市產品。"
-    },
-    {
-      "id": "4898305",
-      "time": "2026-05-25 16:08:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "【英國“重返歐盟”話題為何升溫】英國圍繞“脫歐是否正確”的爭論，十年來從未真正停止。最新的變化在於，過去“重返歐盟”更多停留在民間、學界和部分媒體討論中，主流政黨往往視之為政治禁忌，而近期，這一議題卻被推到英國政治的前臺，捲入工黨內部權力競爭與英國對外戰略再定位之中。近期辭職的前英國衛生大臣韋斯·斯特里廷公開稱“脫歐”是“災難性錯誤”，並表示英國未來的歸宿在歐洲。這番表態迅速引發連鎖反應。大曼徹斯特市長安迪·伯納姆也捲入相關討論。兩人都被外界視為可能挑戰首相斯塔默的工黨重量級人物，因此，在工黨地方選舉受挫、黨內對斯塔默路線不滿上升的背景下，“重返歐盟”話題不再只是政策辯論，也成為工黨潛在接班人展示路線、爭取選民的政治議題。（新華社）"
     }
   ]
 }
