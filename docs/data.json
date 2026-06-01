@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-01 10:41:42",
-  "count": 16127,
+  "updated": "2026-06-01 10:45:34",
+  "count": 16121,
   "items": [
+    {
+      "id": "4909503",
+      "time": "2026-06-01 10:42:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬恆達：5月總銷量為1767輛。"
+    },
     {
       "id": "mkt:019e810e-942c-7666-845d-759d6e0cf35d",
       "time": "2026-06-01 10:41:16",
@@ -146620,77 +146628,6 @@
         "其他"
       ],
       "text": "【塞爾維亞總統武契奇向人民英雄紀念碑敬獻花圈】5月25日上午，塞爾維亞總統武契奇前往天安門廣場，向人民英雄紀念碑敬獻花圈。（央視新聞）"
-    },
-    {
-      "id": "4897786",
-      "time": "2026-05-25 10:45:23",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【零售板塊短線拉昇，供銷大集漲停】零售板塊短線拉昇，供銷大集漲停，匯通能源、華致酒行、華聯股份、豫園股份、赫美集團跟漲。"
-    },
-    {
-      "id": "4897785",
-      "time": "2026-05-25 10:45:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美以伊衝突後 首艘日本油輪經霍爾木茲海峽抵日】當地時間25日，日本出光興產旗下原油運輸船“出光丸”抵達日本。據稱，這是中東局勢惡化後，日本首艘透過霍爾木茲海峽並抵達日本的原油油輪。據悉，“出光丸”裝載了約200萬桶原油，相當於日本國內約0.8天的原油需求量。"
-    },
-    {
-      "id": "4897784",
-      "time": "2026-05-25 10:44:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "新加坡基準股指漲0.61%，創下5099.18點的歷史新高。"
-    },
-    {
-      "id": "mkt:019e5d04-f695-7882-93e9-ef886f3634b8",
-      "time": "2026-05-25 10:44:26",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "SINGAPORE'S BENCHMARK STOCK INDEX RISES AS MUCH AS 0.61% TO RECORD HIGH OF 5,099.18 POINTS"
-    },
-    {
-      "id": "te:markets:553288",
-      "time": "2026-05-25 10:43:41",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "South Korea",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "South Korean Won Gains on US-Iran Deal Hopes — The South Korean won strengthened to around 1,510 per dollar, recovering after touching its weakest level since March 2009 near 1,520, as easing geopolitical tensions boosted appetite for risk-sensitive Asian assets. Sentiment improved after signs of progress in US-Iran negotiations fueled expectations that the Strait of Hormuz could reopen, helping crude oil prices tumble more than 4% and easing concerns over global energy supply disruptions and inflation pressures. Additional support for the won came from continued optimism surrounding South Korea’s semiconductor sector, with strong AI-driven demand, record KOSPI trading activity, and robust chip exports reinforcing confidence in the country’s export outlook. Investor sentiment was also lifted by plans to allow foreign investors to trade South Korean ETFs directly, a move expected to support additional overseas capital inflows into local financial markets."
-    },
-    {
-      "id": "te:economy:553286",
-      "time": "2026-05-25 10:43:21",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Singapore",
-        "Domestic Exports of Non Oil (nodx) (%yoy)",
-        "Importance 1"
-      ],
-      "text": "Singapore Raises 2026 Export Growth Forecast to 3%–5% — Singapore raised its 2026 forecast for non-oil domestic exports (NODX) growth to 3.0%–5.0%, up from the previously estimated 2.0%–4.0%, supported by a better-than-expected first-quarter performance, particularly in electronics (+57.8%) amid strong AI-related demand. However, the outlook remains clouded by uncertainties from the Middle East conflict and potential re-escalation of trade tensions, Enterprise Singapore said on Monday. Meanwhile, NODX grew 9.6% in the first quarter of 2026, following a 12.7% expansion in the fourth quarter of 2025 and coming in stronger than expected, with electronics surging 57.8%, well above 23.4% growth in the fourth quarter of 2025. By contrast, non-electronic exports fell 3.5%, reversing a 9.4% rise in the fourth quarter. The updated forecast remains consistent with the IMF and WTO’s projection of softer growth in global trade volumes in 2026, while also factoring in high base effects in the latter half of the year, Enterprise Singapore added."
-    },
-    {
-      "id": "te:markets:553285",
-      "time": "2026-05-25 10:41:50",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Yen Strengthens as Oil and Dollar Weaken — The Japanese yen appreciated past 159 per dollar on Monday, rebounding from three-week lows as declining oil prices and a softer US dollar supported the currency amid signs that the US and Iran were moving closer to a deal that could reopen the Strait of Hormuz. A full reopening of the key shipping route would offer relief to major Asian economies heavily reliant on Middle Eastern oil imports. Meanwhile, data released last week showed Japan’s core inflation rate slowed to a four-year low in April, reducing pressure on the Bank of Japan to tighten monetary policy in the near term. Even so, the central bank could still consider raising rates as Japan’s economy continues to show resilience. Separately, traders remained cautious about the possibility of currency intervention, with the yen still trading near the 160-per-dollar level that reportedly prompted Tokyo’s intervention efforts in late April and early May."
     }
   ]
 }
