@@ -1,7 +1,45 @@
 {
-  "updated": "2026-06-02 03:40:55",
-  "count": 17077,
+  "updated": "2026-06-02 03:44:50",
+  "count": 17080,
   "items": [
+    {
+      "id": "4911290",
+      "time": "2026-06-02 03:43:09",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "芝商所啟動加密貨幣期貨和期權全天候交易。"
+    },
+    {
+      "id": "4911289",
+      "time": "2026-06-02 03:42:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國司法部：就反武器化基金作出的裁定表示強烈異議】美國司法部對弗吉尼亞州聯邦地區法院法官就反武器化基金作出的裁定表示強烈異議。法院裁定，司法部無論如何不得推進新近設立的該反武器化基金；設立這筆基金原本是為彌補大量民眾遭受的不公打壓、傷害與惡意針對。該基金面向所有遭工具化構陷、鎖定打擊或迫害的人員開放，不限民主黨、共和黨、保守黨、無黨派人士或其他黨派身份。司法部將遵照法院裁決執行。"
+    },
+    {
+      "id": "mkt:019e84b4-ec08-7993-96f9-7c521e70f856",
+      "time": "2026-06-02 03:41:49",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "【Dollar index rises 0.3% to 99.200 on 1st】The dollar index, which tracks the currency against six major peers, rose 0.3% to 99.200 at the New York close. EUR/USD 1.1631 (prev. 1.1664); GBP/USD 1.3458 (prev. 1.3461); USD/JPY 159.76 (prev. 159.26); USD/CHF 0.7864 (prev. 0.7811); USD/CAD 1.3842 (prev. 1.3797); USD/SEK 9.3059 (prev. 9.2338)."
+    },
+    {
+      "id": "4911288",
+      "time": "2026-06-02 03:40:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數1日上漲】美元指數1日上漲。衡量美元對六種主要貨幣的美元指數當天上漲0.3%，在匯市尾市收於99.200。截至紐約匯市尾市，1歐元兌換1.1631美元，低於前一交易日的1.1664美元；1英鎊兌換1.3458美元，低於前一交易日的1.3461美元。1美元兌換159.76日元，高於前一交易日的159.26日元；1美元兌換0.7864瑞士法郎，高於前一交易日的0.7811瑞士法郎；1美元兌換1.3842加元，高於前一交易日的1.3797加元；1美元兌換9.3059瑞典克朗，高於前一交易日的9.2338瑞典克朗。"
+    },
     {
       "id": "4911287",
       "time": "2026-06-02 03:38:05",
@@ -155875,14 +155913,6 @@
         "MKT News"
       ],
       "text": "IDF: STRUCK MORE THAN 70 HEZBOLLAH SITES ACROSS LEBANON"
-    },
-    {
-      "id": "mkt:019e6262-7ec9-7dd8-b21e-174ac8cefa28",
-      "time": "2026-05-26 03:44:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【IDF Says Killed Key Hamas Weapons-Production Figure Mohammed Abu Malouh】IDF Says Oct 24 Precision Strike In Central Gaza Killed Hamas Weapons-Production Core Mohammed Abu Malouh; Used Aerial Recon, Precision-Guided Munitions; Claimed He Continued Arms Production During Ceasefire"
     }
   ]
 }
