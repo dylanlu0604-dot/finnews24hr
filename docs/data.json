@@ -1,7 +1,141 @@
 {
-  "updated": "2026-06-01 22:06:19",
-  "count": 16876,
+  "updated": "2026-06-01 22:10:24",
+  "count": 16905,
   "items": [
+    {
+      "id": "mkt:019e8384-f302-7552-8900-0284e18067e3",
+      "time": "2026-06-01 22:09:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Xinyisheng: 1.6T optical-module orders up sharply YoY; expect rapid sequential growth this year】Xinyisheng told investors it expects overall supply-chain stability and order deliveries to gradually improve in 2027 Q2–Q4. 1.6T optical-module orders are substantially higher than a year ago and are expected to show rapid quarter-on-quarter growth this year; together with 800G modules they will be the primary drivers of 2024 deliveries."
+    },
+    {
+      "id": "4911041",
+      "time": "2026-06-01 22:09:01",
+      "tags": [
+        "觀點"
+      ],
+      "text": "英國花旗調查顯示：英國五年期通脹預期降至4.0%。"
+    },
+    {
+      "id": "4911040",
+      "time": "2026-06-01 22:08:40",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【新易盛：1.6T光模組產品訂單相對於去年增幅很大，預計在今年呈現出逐季快速增長的趨勢】新易盛在投資者關係活動中透露，綜合訂單預期、產能準備及供應鏈情況，公司預計2027年第二至第四季度整體供應鏈穩定性及訂單交付情況將逐步向好。同時，1.6T光模組產品訂單相比去年大幅增長，預計今年將呈現逐季快速增長的趨勢，並與800G產品一起成為今年交付的主力。"
+    },
+    {
+      "id": "4911039",
+      "time": "2026-06-01 22:08:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "戴爾科技向AI雲服務提供商CoreWeave交付了首套可執行的NVIDIA Vera Rubin NVL72超級計算機系統，該產品成功透過了所有測試。這標誌著英偉達下一代AI機架系統的首批確認出貨。"
+    },
+    {
+      "id": "te:economy:555423",
+      "time": "2026-06-01 22:08:17",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Germany",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Bund Yields Surge Above 3% on ECB Rate Hike Expectations — German 10-year Bund yields climbed above 3%, moving further from last week’s two-month low of 2.93%, as renewed US-Iran tensions amplified inflation concerns and reinforced expectations of European Central Bank rate hikes this year. Iran’s Tasnim News Agency reported on Monday that Tehran would halt negotiations with the US over Israeli strikes on Lebanon and fully close the Strait of Hormuz, accusing Washington of \"violating the ceasefire on all fronts.\" The resulting oil price surge led investors to increase bets on ECB rate increases. Markets now anticipate at least two ECB rate hikes in 2026, with an over 90% chance of the first occurring as soon as next week. Investors are also focused on this week’s Eurozone inflation report, following last week’s data showing accelerated EU-harmonized inflation in May for France, Italy, and Spain, while Germany experienced a slowdown."
+    },
+    {
+      "id": "4911038",
+      "time": "2026-06-01 22:08:06",
+      "tags": [
+        "觀點"
+      ],
+      "text": "英國花旗銀行調查顯示：5月英國未來一年通脹預期降至4.7%。"
+    },
+    {
+      "id": "4911037",
+      "time": "2026-06-01 22:07:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【SK海力士勞資雙方最早本月開啟薪資談判】業內人士訊息稱，SK海力士管理層和員工預計最早將於本月（6月）開始今年的薪資談判。由於 SK 海力士去年透過重組績效獎金制度已基本解決了關鍵問題，預計今年的談判可能會集中在工資增長和福利制度的改善上。報道稱，SK海力士員工強烈要求擴大住房基金支援。SK海力士目前提供最高1億韓元的住房貸款專案。雖然年利率均為1.5%，但貸款額度有所不同。還款方式為一年寬限期，之後15年等額償還本金。"
+    },
+    {
+      "id": "4911036",
+      "time": "2026-06-01 22:07:54",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【黃仁勳稱無所不能的電腦來了 英偉達入局萬億美元賽道】美國科技公司英偉達今天（1日）宣佈推出一款適用於個人電腦Windows系統的新款超級晶片。英偉達執行長黃仁勳表示，新產品將改變以往個人電腦的工作方式，“微軟和英偉達對其進行了精心最佳化，所以搭載它的電腦實際上可以‘無所不能’。”分析認為，英偉達正式進軍個人電腦晶片市場，推出全新處理器，意在打破英特爾、蘋果和高通等在該領域的壟斷地位，並推動個人電腦裝置適配人工智慧時代的發展需求。相關人士表示：“如果看看這個市場，包括移動裝置、膝上型電腦、桌上型電腦等產品，目前每年的潛在市場規模已經超過1萬億美元。”（央視財經）"
+    },
+    {
+      "id": "te:economy:555420",
+      "time": "2026-06-01 22:07:44",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Construction Spending",
+        "Importance 1"
+      ],
+      "text": "US Construction Spending Rises More than Anticipated — Construction spending in the US rose by 0.4% month-over-month in April 2026, following a revised 0.2% increase in the prior month and better than the expected 0.2% rise. This marked the second consecutive monthly increase. Private-sector construction rose 0.4%, supported by a 0.8% increase in residential activity, as gains in single-family projects (+1.4%) offset a decline in multi-family construction (-0.3%). Year-on-year, construction spending advanced by 0.9%."
+    },
+    {
+      "id": "4911035",
+      "time": "2026-06-01 22:07:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【拓竹科技釋出3D印表機新品A2L】6月1日晚，拓竹科技正式釋出3D印表機新品A2L，現已全平臺發售，新品首次搭載自適應振動補償演算法與顆粒阻尼器，列印尺寸330×320×325mm。"
+    },
+    {
+      "id": "4911034",
+      "time": "2026-06-01 22:07:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍要求貝魯特南郊居民撤離】以色列軍方今天（6月1日）稱，已向黎巴嫩首都貝魯特南郊居民釋出警告，要求當地民眾撤離“以保安全”。以軍警告稱，如果黎巴嫩真主黨繼續向以色列城鎮發射火箭彈，以軍將對貝魯特南郊地區相關目標實施打擊。（CCTV國際時訊）"
+    },
+    {
+      "id": "4911033",
+      "time": "2026-06-01 22:06:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "惠譽評級：歐洲大型另類投資管理人可抵禦宏觀挑戰。"
+    },
+    {
+      "id": "mkt:019e8381-e7bb-7ccf-b269-4f1cfe0f3a0a",
+      "time": "2026-06-01 22:06:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fitch Ratings says large European alternative asset managers have shown resilience to macro challenges."
+    },
+    {
+      "id": "te:economy:555419",
+      "time": "2026-06-01 22:05:47",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Manufacturing PMI",
+        "Importance 2"
+      ],
+      "text": "Canada Manufacturing Sector Growth Sustained in May — The S&P Global Canada Manufacturing PMI remained in growth territory for a second straight month at 52.9 in May 2026, down slightly from 53.3 in April but still above its long-run average. The sector was supported by further increases in output and new orders, as firms reported stronger demand and success in attracting new customers. Employment also continued to rise, with some manufacturers citing pressure on existing capacity. However, inflationary pressures intensified, with both input and output price measures climbing to near four-year highs. At the same time, supplier delivery times deteriorated sharply as the conflict in the Middle East disrupted supply chains. Despite ongoing growth, business confidence remained subdued amid concerns about costs and the broader economic outlook."
+    },
+    {
+      "id": "4911032",
+      "time": "2026-06-01 22:05:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【天津最佳化調整12條重點產業鏈】據天津發布，在2026世界智慧產業博覽會相關活動中，市工業和資訊化局向外界釋出天津市調整最佳化後的12條重點產業鏈，突出產業支撐、分類施策、兩業融合，有力支撐全市現代化產業體系建設。天津市工業和資訊化局規劃發展處副處長高建介紹，此次重點產業鏈最佳化調整，是對標現代化產業體系路線圖實施的。為了突出產業支撐作用，新增智慧機器人、資源綜合利用2條產業鏈；將汽車及新能源汽車、車聯網2條產業鏈整合為“智慧網聯新能源汽車產業鏈”；將信創、積體電路2條產業鏈整合為“新一代資訊科技產業鏈”，並新增人工智慧、智慧終端2條子鏈。調整最佳化後，12條重點產業鏈將有力支撐綠色石化、汽車、高階裝備、新一代資訊科技、新能源新材料、生命健康、迴圈經濟7大產業發展。"
+    },
     {
       "id": "te:economy:555418",
       "time": "2026-06-01 22:04:51",
@@ -53,12 +187,39 @@
       "text": "【杭臺高鐵溫玉段開始聯調聯試】記者從中國鐵路上海局集團有限公司獲悉，6月1日，新建杭州經紹興至台州高鐵溫嶺至玉環段啟動聯調聯試，標誌著杭臺高鐵溫玉段進入開通運營倒計時。 杭臺高鐵溫玉段位於台州市南部，途經台州溫嶺、玉環兩市，新建正線約37公里，設計時速350公里。線路建成運營後，將填補玉環市鐵路空白，對於加快構建浙江省1小時高鐵交通圈、完善區域鐵路網布局、促進沿線旅遊開發等具有重要意義。（新華社）"
     },
     {
+      "id": "mkt:019e837f-5b64-7ccf-b269-4162871c0017",
+      "time": "2026-06-01 22:03:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bullish",
+        "CSI300",
+        "CNH"
+      ],
+      "text": "【China's 3D printers surge abroad; Shenzhen makes nearly 90% of global consumer models】CUSTOMS data: China exported 2.46 mln 3D printers in Jan–Apr, valued at 6.106 bln yuan, up 100.3% in units and 110.4% in value YoY. Growth is led by consumer-grade 3D printers, which exporters say combine higher performance and cost competitiveness; some upgraded models now approach industrial-grade print quality. Shenzhen remains the production hub for consumer units, accounting for nearly 90% of the global consumer 3D-printer market; Shenzhen's Jan–Apr export value was 5.24 bln yuan, +128.6% YoY, or 85.8% of China’s 3D-printer export value."
+    },
+    {
       "id": "4911027",
       "time": "2026-06-01 22:02:28",
       "tags": [
         "其他"
       ],
       "text": "美元升至日內高點，此前ISM製造業指數超出預期。"
+    },
+    {
+      "id": "mkt:019e837e-26f1-7ccf-b269-3abe78d24263",
+      "time": "2026-06-01 22:02:12",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "U.S. Treasury yields ticked up after ISM manufacturing and construction spending releases; the 10-year Treasury yield rose 5.9 bps to 4.512%."
     },
     {
       "id": "4911026",
@@ -78,6 +239,81 @@
       "text": "美國5月ISM庫存指數 49.9，前值49。\n美國5月ISM就業指數 48.6，前值46.4。\n美國5月ISM新訂單指數 56.8，前值54.1。\n美國5月ISM產出指數 54.3，前值53.4。\n美國5月ISM製造業物價支付指數 82.1，預期85.5，前值84.6。"
     },
     {
+      "id": "mkt:019e837d-ac49-7ccf-b269-31b8af444a57",
+      "time": "2026-06-01 22:01:43",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "US10Y",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "US May ISM manufacturing prices-paid index 82.1, below 85.5 expected and 84.6 prior."
+    },
+    {
+      "id": "mkt:019e837d-aa4f-7ccf-b269-2ab06f188a9e",
+      "time": "2026-06-01 22:01:36",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | ISM Manufacturing Prices Paid Index (May) | actual 82.1 | consensus 85.5 | previous 84.6"
+    },
+    {
+      "id": "mkt:019e837d-a9d7-7ccf-b269-253b253d8dba",
+      "time": "2026-06-01 22:01:33",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "Copper",
+        "S&P500"
+      ],
+      "text": "US May ISM production index 54.3, up from 53.4 previously."
+    },
+    {
+      "id": "mkt:019e837d-54c2-7ccf-b269-19757355ff3f",
+      "time": "2026-06-01 22:01:25",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | ISM Production Index (May) | actual 54.3 | previous 53.4"
+    },
+    {
+      "id": "mkt:019e837d-5468-7ccf-b269-1436a2d90324",
+      "time": "2026-06-01 22:01:23",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "US May ISM Employment Index 48.6; prior 46.4."
+    },
+    {
+      "id": "mkt:019e837d-51b0-7ccf-b269-0c4cc9c465fb",
+      "time": "2026-06-01 22:01:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US May ISM Inventories Index 49.9, prior 49.0"
+    },
+    {
+      "id": "mkt:019e837d-51a6-7ccf-b269-031b97c275df",
+      "time": "2026-06-01 22:01:15",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | ISM Employment Index (May) | actual 48.6 | previous 46.4"
+    },
+    {
       "id": "4911024",
       "time": "2026-06-01 22:01:11",
       "tags": [
@@ -87,12 +323,97 @@
       "text": "美國國債收益率在ISM製造業資料與建築支出資料公佈後小幅擴大漲幅；10年期美國國債收益率目前上行5.9個基點，報4.512%。"
     },
     {
+      "id": "mkt:019e837d-0dfb-7ccf-b268-f9fad9533fe1",
+      "time": "2026-06-01 22:01:09",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "US ISM new-orders index for May 56.8; prior 54.1."
+    },
+    {
+      "id": "mkt:019e837d-0cd7-7ccf-b268-f5c518f4ac38",
+      "time": "2026-06-01 22:01:08",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | ISM Inventory Index (May) | actual 49.9 | previous 49"
+    },
+    {
+      "id": "mkt:019e837c-f3c6-7ccf-b268-ea5288b3fb89",
+      "time": "2026-06-01 22:01:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | ISM New Orders Index (May) | actual 56.8 | previous 54.1"
+    },
+    {
+      "id": "mkt:019e837c-f365-7ccf-b268-e67b5f0254c2",
+      "time": "2026-06-01 22:01:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "US April construction spending rose 0.4% MoM, vs 0.2% expected; March revised to +0.6%."
+    },
+    {
+      "id": "mkt:019e837c-a62c-7ccf-b268-da7e5686a7a8",
+      "time": "2026-06-01 22:00:44",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Construction Spending (MoM) (Apr) | actual 0.4% | consensus 0.2% | previous 0.60%"
+    },
+    {
+      "id": "mkt:019e837c-a3af-7ccf-b268-d4b49f05f12d",
+      "time": "2026-06-01 22:00:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "US May ISM manufacturing PMI 54.0, expected 53.0, prior 52.7."
+    },
+    {
       "id": "4911023",
       "time": "2026-06-01 22:00:37",
       "tags": [
         "國際"
       ],
       "text": "俄羅斯財政官員向普京表示，目前戰爭開支已超出財政承受能力。"
+    },
+    {
+      "id": "mkt:019e837c-6618-7ccf-b268-c821ddf78da0",
+      "time": "2026-06-01 22:00:28",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | ISM Manufacturing PMI (May) | actual 54 | consensus 53 | previous 52.7"
     },
     {
       "id": "em:jjsj_mgsj:202606013756348352",
@@ -140,6 +461,19 @@
       "text": "TSX Falls on Middle East Tensions — The S&P/TSX Composite Index edged down to trade below 35,000 on Monday as reports that Iran will halt communication with the US cast doubt on a ceasefire renewal. Oil prices rebounded, reviving stagflation concerns and pushing bond yields higher. Financial stocks came under pressure amid expectations of higher borrowing costs and a hawkish monetary outlook, with RBC and TD Bank losing nearly 1%, while CIBC shed close to 2%. Gold prices also declined, weighing on mining shares. Agnico Eagle lost 3.5%, Barrick dropped nearly 3%, and WPM shed almost 4%. Meanwhile, energy stocks advanced as oil prices rallied, with Canadian Natural up nearly 3% and Suncor gaining more than 3%. Shopify also rose almost 2%, supported by optimism around AI-driven growth following Nvidia’s announcement of a new advanced processor for PCs."
     },
     {
+      "id": "mkt:019e837b-d8bf-7ccf-b268-c3773383e20b",
+      "time": "2026-06-01 21:59:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude futures climbed above $94/bbl, up 7.6% intraday."
+    },
+    {
       "id": "te:markets:555414",
       "time": "2026-06-01 21:59:43",
       "tags": [
@@ -166,6 +500,16 @@
         "公司"
       ],
       "text": "【麗珠醫藥：重組人促卵泡激素注射液獲得藥品註冊證書】麗珠醫藥公告，控股子公司麗珠單抗收到國家藥監局核准簽發的重組人促卵泡激素注射液藥品註冊證書。該藥品為麗珠單抗自主研發，適應症包括無排卵婦女、輔助生育技術中超排卵的婦女以及嚴重缺乏促黃體激素和促卵泡激素的患者。本品採用重組基因技術生產，注射筆給藥，已完成生物類似藥的臨床Ⅰ至Ⅲ期評價，與原研藥等效。累計研發費用約為1.22億元。"
+    },
+    {
+      "id": "mkt:019e8379-862e-7ccf-b268-bd3dd9ea3fa2",
+      "time": "2026-06-01 21:57:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Stoxx Europe 600 fell more than 1%."
     },
     {
       "id": "4911017",
@@ -153872,48 +154216,6 @@
         "DXY"
       ],
       "text": "【Gold Rises On Iran Peace Hopes; Oil, Dollar Fall】Gold >1% Mon On Iran Peace Hopes; Oil, Dollar Fall; UBS: Lower Oil Cuts Fed inf Risk, Supports Gold"
-    },
-    {
-      "id": "te:markets:553481",
-      "time": "2026-05-25 22:10:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Ibovespa Gains on US-Iran Peace Deal Prospects — The Ibovespa edged up to trade near the 177,000 mark on Monday as prospects for an agreement to end the war in Iran supported risk appetite. US President Donald Trump said on Saturday that a memorandum of understanding on a potential deal with Iran was “largely negotiated,” while both countries and mediators in Pakistan pointed to progress in talks. Oil prices fell below $100 per barrel on hopes that an agreement could reopen the Strait of Hormuz, easing stagflation concerns and pushing bond yields lower. Banks traded higher, with Itaú rising more than 1.5% and Bradesco adding over 1%. B3 advanced more than 1.5% after JPMorgan Chase raised its target price for the stock. Other notable gainers included Ambev (+0.8%) and WEG (+1.4%). In contrast, Petrobras fell nearly 2% amid the decline in oil prices."
-    },
-    {
-      "id": "4898937",
-      "time": "2026-05-25 22:09:07",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【5月25日增減持彙總】據統計，5月25日盤後，綜藝股份披露增持情況，包括泰豪科技、眾捷汽車、晶盛機電、宏昌科技、金溢科技、中新賽克、固高科技、鴻日達、創維數字在內的9家A股上市公司披露擬減持情況。"
-    },
-    {
-      "id": "4898936",
-      "time": "2026-05-25 22:09:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗外交部：談判取得進展但仍面臨困難】伊朗外交部發言人巴加埃25日表示，伊朗與美國的談判已取得一定進展，但是否能夠很快達成協議“取決於美國”。他重申，任何針對伊朗的敵對行動都將得到回應。 巴加埃當天在德黑蘭舉行的記者會上作出上述表態。他說，目前伊美雙方仍透過巴基斯坦調解渠道進行資訊交換。近期披露的進展是經過數週間接談判形成的成果，雙方已在不少問題上接近達成共識，但美方立場“矛盾且不斷變化”，給談判程序帶來困難。 巴加埃表示，目前各方重點仍是推進諒解備忘錄文字內容。他強調，黎巴嫩問題將成為潛在諒解內容的一部分。 就霍爾木茲海峽局勢，巴加埃表示，伊朗在該海峽採取的措施符合國際法框架，是為了應對美國軍事行動及潛在安全威脅。他強調，伊朗對相關船隻收取的是“航行服務費”，而不是“通行費”，伊朗與阿曼正推動制定船隻安全通行協議，旨在維護海峽安全及海洋環境，在這一過程中，“所提供的服務和環境保護工作需要一定的費用支援”。 巴加埃還表示，中國在推動地區停火與談判程序中發揮了“建設性和積極作用”。他說，中國和俄羅斯在聯合國安理會相關會議上持積極立場，伊朗近期也與中俄外交人員就局勢發展進行了磋商。(新華社)"
-    },
-    {
-      "id": "mkt:019e612e-cd39-777f-a3c1-5f48766eda2c",
-      "time": "2026-05-25 22:07:54",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "Axios: Trump Signals U.S. Softening On Iran Enriched-Uranium Stockpile"
     }
   ]
 }
