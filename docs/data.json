@@ -1,7 +1,99 @@
 {
-  "updated": "2026-06-01 10:03:16",
-  "count": 16063,
+  "updated": "2026-06-01 10:07:05",
+  "count": 16070,
   "items": [
+    {
+      "id": "4909422",
+      "time": "2026-06-01 10:06:19",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "油氣股震盪拉昇，仁智股份封漲停，傑瑞股份漲超8%，貝肯能源、新錦動力、惠博普、藍科高新跟漲。"
+    },
+    {
+      "id": "4909421",
+      "time": "2026-06-01 10:06:14",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【半導體板塊震盪走強，領先股份漲停】半導體板塊震盪走強，頎中科技盤中創新高，領先股份漲停，安路科技漲超15%，強一股份漲超10%，芯海科技、瑞芯微、大普微、樂鑫科技、銀河微電跟漲。"
+    },
+    {
+      "id": "4909420",
+      "time": "2026-06-01 10:05:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "受科技股樂觀情緒延續，納斯達克100期貨上漲0.5%。"
+    },
+    {
+      "id": "te:markets:555159",
+      "time": "2026-06-01 10:05:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Hong Kong Stocks Start Month Higher — The Hang Seng Index rose 170 points, or 0.7%, to 25,357 on Monday, kicking off the new month on a positive note as gains in technology services, electronic technology, and consumer-related stocks lifted the market. Sentiment was supported by continued optimism surrounding artificial intelligence-related investments and renewed buying at the beginning of the month. Investors continued to monitor developments in the Middle East after oil prices advanced and the US dollar strengthened amid limited progress toward a permanent US-Iran ceasefire. Although elevated geopolitical tensions kept energy markets in focus, Hong Kong equities remained supported by steady risk appetite. Among the biggest gainers were Tencent Holdings (2.4%), Akeso Inc. (9.14%), Lenovo (5.8%), Pop Mart International (3.4%), and Xiaomi Corporation (2.1%)."
+    },
+    {
+      "id": "mkt:019e80ed-7ef1-7bb6-a9bf-7608bf5b54a1",
+      "time": "2026-06-01 10:05:08",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders"
+      ],
+      "text": "Hongmeng Zhixing delivered 46,122 units in May, up 41% MoM. Jan–May cumulative deliveries rose 26.5% YoY. Wenjie M6 and Shangjie Z7 have begun phased mass deliveries."
+    },
+    {
+      "id": "4909419",
+      "time": "2026-06-01 10:04:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海：推動航運綠色化轉型 加快建設國際航運綠色燃料加註中心和交易中心】上海市人民政府辦公廳印發《上海市服務業發展“十五五”規劃》，其中提到，強化海空港樞紐全球輻射能力，加快洋山、羅涇等港區基礎設施規劃建設，最佳化臨港新片區、外高橋多式聯運集疏運網路；推動國際中轉和集拼業務規模化發展，豐富多業態混拼模式，最佳化“聯動接卸”業務模式；高標準建成東方樞紐上海東站，發展“航空+”多式聯運，完善浦東國際機場、虹橋國際機場高品質商務航線網路。推動航運服務業高水平發展，推動在滬航運保險運營中心做實做強，支援發展航運領域融資租賃；推進涉外海事臨時仲裁發展，推動成立專業化海事鑑定中心；吸引和培育國際性、國家級航運專業組織和功能性機構在滬集聚發展。加快航運數字化智慧化程序，拓展國際集裝箱運輸服務平臺應用，深化“空運通”平臺建設，持續推進智慧航道建設，拓展“航貿鏈”應用。推動航運綠色化轉型，加快建設國際航運綠色燃料加註中心和交易中心，完善綠色航運技術研發、船舶能效管理等服務體系，積極參與我國自主的國際航運可持續燃料認證體系建設，穩步推進與國際港口合作共建綠色航運走廊。"
+    },
+    {
+      "id": "4909417",
+      "time": "2026-06-01 10:03:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股新消費股走強，泡泡瑪特漲超5%】港股新消費股走強，泡泡瑪特漲超5%，布魯可漲超4%，嗶哩嗶哩-W漲超2%。"
+    },
+    {
+      "id": "mkt:019e80eb-a7c9-7666-845c-9e18d91864b2",
+      "time": "2026-06-01 10:03:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Taiwan's TAIEX extended gains to 2%."
+    },
+    {
+      "id": "4909416",
+      "time": "2026-06-01 10:03:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "雞蛋連續主力合約日內漲5%，現報4893.00元。"
+    },
+    {
+      "id": "4909415",
+      "time": "2026-06-01 10:03:01",
+      "tags": [
+        "資料"
+      ],
+      "text": "【5月RatingDog中國製造業PMI跌至51.8，擴張態勢收縮】5月RatinaDog中國製造業PMI，錄得51.8，較4月回落0.4個百分點。生產與需求方面，擴張態勢延續但步伐放緩。產出繼續增長，但增速較4月有所回落。新訂單總量保持擴張，但增速放緩。新出口訂單較4月有所減少，落入收縮區間。價格指標方面，成本與價格漲勢雙雙放緩。原材料共價格漲幅較上月收窄，產出價格增速同步放緩，企業提價步伐有所減慢。整體來看，5月製造業擴張速度較上月放緩，但基礎執行穩定。新訂單與產出的持續擴張為行業提供支撐成本端壓力的緩解有助於改善企業盈利預期。不過外需訂單出現收縮，是後續需要關注的風險點。"
+    },
     {
       "id": "mkt:019e80eb-3568-7666-845c-93fb8c414e2b",
       "time": "2026-06-01 10:02:38",
@@ -20,6 +112,14 @@
         "市場"
       ],
       "text": "臺交所加權股價指數上漲2%至45,636.53點。"
+    },
+    {
+      "id": "4909412",
+      "time": "2026-06-01 10:02:31",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "國務院關於對外投資的規定：投資者在投資目的國家（地區）遭遇與貿易有關的投資壁壘或者其他投資經營障礙的，國務院商務主管部門可以自行或者會同國務院其他有關部門組織開展調查，有關組織、個人應當予以協助、配合。根據調查結果，國務院有關部門可以採取調整有關國別投資政策，禁止或者限制有關貨物、技術進出口或者國際服務貿易等措施。任何國家（地區）、國際組織違反國際法和國際關係基本準則，在投資經營等方面對中華人民共和國採取歧視性禁止、限制或者其他類似措施，中國政府及其有關部門可以根據實際情況採取相應的措施，保護投資者及其對外投資的安全和正當權益，保護國家的海外利益不受威脅和侵害。"
     },
     {
       "id": "4909411",
@@ -146058,47 +146158,6 @@
         "其他"
       ],
       "text": "【六維力感測器企業藍點觸控再獲億元融資，上汽金控、尚頎資本領投】近日國內六維力感測器企業藍點觸控完成C++輪數億元人民幣融資。六維力感測器是機器人的重要零部件之一，為其提供力覺反饋，實現精密裝配、柔順控制與穩定行走等智慧互動能力。本輪融資由上汽金控、尚頎資本領投，由中芯聚源、正大機器人以及厚為資本跟投。據瞭解，此次融資距上一輪C+輪融資僅一個月，藍點觸控半年完成了三輪億元級融資，股東陣容目前包括紅杉中國、寧德時代旗下溥泉資本、智元機器人、銀河通用、上汽系資本、中芯產業資本等。（第一財經）"
-    },
-    {
-      "id": "4897740",
-      "time": "2026-05-25 10:06:44",
-      "tags": [
-        "市場"
-      ],
-      "text": "【超硬材料概念反覆活躍 黃河旋風觸及漲停】超硬材料概念反覆活躍，黃河旋風觸及漲停，惠豐鑽石、博雲新材、四方達、恆盛能源、力量鑽石跟漲。"
-    },
-    {
-      "id": "mkt:019e5ce1-5607-7882-93e9-a86fd80b5c61",
-      "time": "2026-05-25 10:05:31",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SZSE Component"
-      ],
-      "text": "CHINESE CHIPS STOCKS RISE BROADLY SMIC A SHARES RISE 6.3%; CAMBRICON TECHNOLOGIES UP 7.3%"
-    },
-    {
-      "id": "4897739",
-      "time": "2026-05-25 10:04:21",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印尼盾在早盤交易中小幅走弱，兌美元報17710。"
-    },
-    {
-      "id": "4897738",
-      "time": "2026-05-25 10:03:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【油氣開採及服務板塊持續走低，通源石油、科力股份跌超8%】油氣開採及服務板塊持續走低，通源石油、科力股份跌超8%，首華燃氣、中油工程、中曼石油跟跌。"
     }
   ]
 }
