@@ -1,7 +1,108 @@
 {
-  "updated": "2026-06-01 09:44:14",
-  "count": 16029,
+  "updated": "2026-06-01 09:48:00",
+  "count": 16030,
   "items": [
+    {
+      "id": "mkt:019e80dd-531e-7113-a826-e8bbf6373993",
+      "time": "2026-06-01 09:47:28",
+      "tags": [
+        "MKT News",
+        "09868.HK",
+        "Impact bullish",
+        "09863.HK",
+        "09866.HK"
+      ],
+      "text": "Hong Kong auto stocks strengthened: XPeng Inc (09868.HK) rose more than 7%, Leapmotor (09863.HK) gained nearly 5%, and NIO (09866.HK) and Xiaomi Corp (01810.HK) also advanced."
+    },
+    {
+      "id": "4909376",
+      "time": "2026-06-01 09:46:35",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【港股汽車股走強，小鵬集團-W漲超7%】港股汽車股走強，小鵬集團-W漲超7%，零跑汽車漲近5%，蔚來-SW、小米集團-W跟漲。"
+    },
+    {
+      "id": "mkt:019e80dc-4da4-7113-a826-e627441a0193",
+      "time": "2026-06-01 09:46:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Jazeera reports Israeli strikes in Lebanon on Sunday have raised the death toll to 12."
+    },
+    {
+      "id": "4909375",
+      "time": "2026-06-01 09:46:11",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【AI應用概念逆勢走強 視覺中國等多股漲停】早盤AI應用概念逆勢走強，視覺中國、稅友股份、掌閱科技漲停，星環科技漲超10%，實豐文化、易點天下、鼎捷數智、漢得資訊等跟漲。"
+    },
+    {
+      "id": "mkt:019e80dc-4b4e-7113-a826-d8f5ec391a2e",
+      "time": "2026-06-01 09:46:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China A-share battery sector rallied; Shengyang, Weike Technology and Wanli hit daily-limit up; Zhenhua New Material rose over 15%, Lijia Technology gained more than 10%; Tianhong Lithium, Rongbai Technology, Xiangfenghua and Yuchen Intelligent also advanced."
+    },
+    {
+      "id": "mkt:019e80db-4e3e-766e-87af-a6f68f39a9f4",
+      "time": "2026-06-01 09:45:12",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "South Korea's KOSPI rose above 8,800, up 3.84% intraday."
+    },
+    {
+      "id": "4909374",
+      "time": "2026-06-01 09:45:08",
+      "tags": [
+        "資料",
+        "焦點"
+      ],
+      "text": "中國5月RatingDog製造業PMI 51.8，前值 52.2。"
+    },
+    {
+      "id": "mkt:019e80db-4b87-766e-87af-9bf9ef66aefa",
+      "time": "2026-06-01 09:45:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "CNH",
+        "Hang Seng Index"
+      ],
+      "text": "China May RatingDog manufacturing PMI 51.8, versus 51.6 expected and 52.2 in April."
+    },
+    {
+      "id": "mkt:019e80db-0f4d-766e-87af-93f52af26e96",
+      "time": "2026-06-01 09:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | S&P Global/Ratingdog China General Manufacturing PMI (May) | actual 51.8 | consensus 51.6 | previous 52.2"
+    },
+    {
+      "id": "4909373",
+      "time": "2026-06-01 09:44:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本大阪欲推“副首都”構想 自民黨存異議】日本媒體日前報道，日本維新會正在推進將大阪設為“副首都”的構想，定於6月中旬組建一個專門小組。對此，同屬執政聯盟的自民黨內部出現了反對聲音。所謂“副首都”構想，是指在東京遭遇大規模災難時，由大阪臨時替代其首都功能，確保國家行政、司法等核心功能持續運轉。據這一構想，日本應形成多極分散型經濟圈，透過鼓勵人口遷入、扶持高校以及為年輕人創造就業機會等舉措分散人口，避免東京“單極化”加劇。（新華社）"
+    },
     {
       "id": "4909372",
       "time": "2026-06-01 09:43:27",
@@ -145680,93 +145781,6 @@
         "市場"
       ],
       "text": "大盤主力淨流出超100億。"
-    },
-    {
-      "id": "4897714",
-      "time": "2026-05-25 09:47:15",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【加快推進三亞太古裡等專案建設 海南17條措施促城市商業提質升級】據海南日報，海南省商務廳等五部門近期出臺的《海南省促進城市商業提質升級若干措施》，明確了完善網路佈局、推動業態創新、豐富優質商品供給、強化執行保障、最佳化空間利用五大方面舉措，包括打造國際消費核心引擎商圈、建設文旅商融合特色消費街區、構築自貿港汽車全鏈消費高地等十七條措施。其中，在打造國際消費核心引擎商圈方面，依託海南離島免稅政策優勢和旅遊資源稟賦，加快推進三亞國際免稅城三期（三亞太古裡）、超級永珍城、海棠故事、海南中心等一批旗艦型、標誌性商業地標專案建設。支援引入全球頂級品牌旗艦店、體驗店，集聚高階商業要素，打造立足海南、輻射全國、面向世界的國際消費地標。"
-    },
-    {
-      "id": "4897713",
-      "time": "2026-05-25 09:47:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【玻璃基板概念震盪走高 晶方科技漲停】玻璃基板概念震盪走高，晶方科技漲停，麥格米特、金瑞礦業、沃格光電、通富微電、凱格精機等漲幅居前。"
-    },
-    {
-      "id": "4897712",
-      "time": "2026-05-25 09:46:51",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【儲存晶片板塊持續走高，兆易創新、華虹公司盤中創新高】儲存晶片板塊持續走高，兆易創新、華虹公司盤中創新高，博敏電子2連板，華天科技漲停，東芯股份漲超15%，聖邦股份、中芯國際、雲漢芯城、天馬新材、艾森股份跟漲。"
-    },
-    {
-      "id": "te:markets:553269",
-      "time": "2026-05-25 09:46:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Australia Stocks Rise for 3rd Session as Week Opens — Australian equities edged up 25 points, or 0.3%, to 8,682 in Monday morning trade, marking a third straight gain as U.S. equity futures rose sharply on signals that a deal to reopen the Strait of Hormuz may be close, though President Donald Trump stressed he would not “rush” into an agreement. Gains remained modest, however, with investors cautious ahead of April CPI data later this week, after March inflation in Australia accelerated to 4.6%, the fastest since September 2023, driven in part by fuel costs. Traders also vigilantly awaited U.S. PCE figures for clues on price pressures and rate direction. Non-energy minerals, producer manufacturing, and process industries advanced, while energy minerals and consumer services lagged. Three of the four major banks posted small rises. Standout movers included Qantas Airways (5.1%), Northern Star Resources (4.7%), Evolution Mining (4.0%), and Lynas Rare Earths (1.9%)."
-    },
-    {
-      "id": "4897710",
-      "time": "2026-05-25 09:45:44",
-      "tags": [
-        "焦點"
-      ],
-      "text": "寒武紀漲逾11％，股價重新整理歷史新高，總市值超9000億元。"
-    },
-    {
-      "id": "4897709",
-      "time": "2026-05-25 09:45:14",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【光伏裝置概念盤初下挫，國晟科技觸及跌停】光伏裝置概念盤初下挫，國晟科技觸及跌停，通靈股份跌超15%，艾羅能源、錦浪科技跟跌。"
-    },
-    {
-      "id": "te:economy:553268",
-      "time": "2026-05-25 09:45:02",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "China",
-        "Foreign Direct Investment YoY",
-        "Importance 2"
-      ],
-      "text": "FDI into China Drops 10.3% in January-April — Foreign direct investment inflows into China fell 10.3% year-on-year to CNY 287.7 billion in the first four months of 2026. Within the total, FDI in the manufacturing sector amounted to CNY 78.9 billion, while high-tech industries attracted CNY 166.3 billion, up 20.3% and accounting for 40.4% of total FDI. Meanwhile, the services sector received CNY 204.2 billion. Still, investment in R&D and design services, as well as in the manufacturing of computers and office equipment and electronic and communication equipment, increased by 108.4%, 22.9%, and 20.2%, respectively."
-    },
-    {
-      "id": "mkt:019e5cce-18d5-7882-93e9-941b794d141a",
-      "time": "2026-05-25 09:44:31",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "688256.SS",
-        "Impact bullish"
-      ],
-      "text": "CAMBRICON JUMPS OVER 10%, HITS RECORD HIGH OF RMB 1,434"
-    },
-    {
-      "id": "4897708",
-      "time": "2026-05-25 09:44:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本一艘液化天然氣運輸船正透過霍爾木茲海峽】當地時間5月25日，日本商船三井旗下的一艘液化天然氣（LNG）運輸船目前正透過霍爾木茲海峽，前往巴基斯坦。該船隻預計26日抵達巴基斯坦並卸貨。"
     }
   ]
 }
