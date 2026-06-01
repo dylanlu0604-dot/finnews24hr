@@ -1,7 +1,74 @@
 {
-  "updated": "2026-06-01 12:47:11",
-  "count": 16176,
+  "updated": "2026-06-01 12:51:09",
+  "count": 16181,
   "items": [
+    {
+      "id": "mkt:019e8184-b9e5-799c-966b-1d07141dac7e",
+      "time": "2026-06-01 12:50:19",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA (NVDA.O) positions NVIDIA DRIVE Hyperion as a global platform to support robotaxi ride-hailing services."
+    },
+    {
+      "id": "4909677",
+      "time": "2026-06-01 12:50:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達 DRIVE Hyperion 成為面向無人駕駛計程車時代的全球通用平臺。"
+    },
+    {
+      "id": "4909676",
+      "time": "2026-06-01 12:49:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4540美元/盎司，日內跌1.18%。"
+    },
+    {
+      "id": "mkt:019e8182-5292-799c-966b-112cd7d2fe3c",
+      "time": "2026-06-01 12:47:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Copper",
+        "Impact bullish",
+        "CNH",
+        "Impact mixed",
+        "S&P500"
+      ],
+      "text": "【China Ministry of Transport: weekly courier pickups ~4.39 bln, +2.19% w/w】China Ministry of Transport said for the week May 25-31: rail freight totaled 80.10 mln tonnes, down 0.84% w/w; highway truck passages were 55.37 mln, up 1.65% w/w; monitored ports handled 281.09 mln tonnes of cargo, up 8.03% w/w, and 6.98 mln TEU of containers, up 10.04% w/w; civil aviation operated 110,000 flights, down 1.46% w/w, including 5,039 cargo flights (3,250 international, 1,789 domestic); postal and courier pickups were about 4.39 bln items, up 2.19% w/w, with deliveries about 4.39 bln items, up 1.71% w/w."
+    },
+    {
+      "id": "mkt:019e8182-0a9a-799c-966b-08afcc85c11d",
+      "time": "2026-06-01 12:47:23",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7"
+      ],
+      "text": "NVIDIA (NVDA.O) launched Alpamayo 2, a super-open inference model tailored for robotaxi services."
+    },
+    {
+      "id": "4909674",
+      "time": "2026-06-01 12:47:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達推出面向自動駕駛計程車的Alpamayo 2超級開放推理模型。"
+    },
     {
       "id": "4909673",
       "time": "2026-06-01 12:46:32",
@@ -147266,15 +147333,6 @@
         "市場"
       ],
       "text": "【“安監風暴”將至 煤價何去何從？多機構研判：警惕脈衝後回落】5月25日早間，國內商品期貨開盤，焦煤、焦炭漲停。訊息面上，5月22日，山西長治市沁源縣山西通洲集團留神峪煤礦發生瓦斯爆炸事故。隨著應急管理部介入及國務院事故調查組“較真碰硬”地開展調查，一場針對煤礦安監的“風暴”正在醞釀。受此影響，原煤供給收縮預期升溫。5月24日，一位不願具名的煤炭企業人士向記者表示，根據以往經驗，此次山西礦難，大機率會引發煤炭行業的安全大檢查，新的一波大排查大整治，肯定會影響產量，但從安全形度考慮，一些大型煤礦不能停工太長時間。 新世紀期貨回顧近十年（2016年至2025年）歷史資料指出，煤礦重大事故當日焦煤期貨上漲機率達85.7%，當日平均漲幅約1.59%，市場對供給收縮預期反應高度敏感。新世紀期貨的研究表明，雖然重大安全事故能在短期內點燃市場熱情，但行情持續性極弱。在過去的類似事故中，事故發生當月焦煤期貨價格下跌的機率高達71.4%，平均跌幅達6.11%，“脈衝式上漲、當月回落”往往成為常態。（每經）"
-    },
-    {
-      "id": "4897950",
-      "time": "2026-05-25 12:48:16",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【泰國4月汽車產量跌至五年新低】泰國工業聯合會週一表示，受中東戰事拖累出口、能源價格走高影響，該國4月汽車產量創下五年以來最低值。4月汽車產量同比下降0.44%，共計103794輛，3月產量曾同比上漲2.69%。泰國工業聯合會汽車分會會長素拉蓬・派西塔帕納蓬在新聞釋出會上稱，受曼谷車展訂單帶動，國內汽車銷量小幅增長2.54%，達48394輛。當月汽車出口量下滑8.43%，僅有60190輛。泰國是東南亞最大汽車生產基地，也是多家國際頭部車企的出口製造中心，豐田、本田以及比亞迪、長城汽車等中國車企近年均在此佈局建廠，服務本地消費與海外出口市場。泰國工業聯合會維持預期，繼去年產量微降0.9%至145.5萬輛後，2026年汽車產量將增長3%，達到150萬輛。"
     }
   ]
 }
