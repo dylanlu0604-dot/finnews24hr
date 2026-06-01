@@ -1,7 +1,72 @@
 {
-  "updated": "2026-06-01 12:08:11",
-  "count": 16161,
+  "updated": "2026-06-01 12:12:03",
+  "count": 16163,
   "items": [
+    {
+      "id": "4909631",
+      "time": "2026-06-01 12:10:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI、Anthropic和SpaceX成為英偉達Vera晶片的首批採用者。"
+    },
+    {
+      "id": "4909630",
+      "time": "2026-06-01 12:10:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度馬恆達：2026年5月國內乘用車銷量為58021輛，同比增長11%。2026年5月總汽車銷量為99636輛。"
+    },
+    {
+      "id": "te:economy:555203",
+      "time": "2026-06-01 12:10:06",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Vietnam",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Vietnam 10Y Bond Yield Hits 3-year High — Vietnam 10 Year Government Bond Yield increased to 4.47%, the highest since March 2023. Over the past 4 weeks, Vietnam 10Y Bond Yield gained 8.70 basis points, and in the last 12 months, it increased 123.80 basis points."
+    },
+    {
+      "id": "mkt:019e815f-724f-799c-966a-5b12a55d2229",
+      "time": "2026-06-01 12:09:36",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China Tech Giants",
+        "Market Regions",
+        "Greater China",
+        "Star Stocks",
+        "Meituan",
+        "Tencent",
+        "Alibaba",
+        "Xiaomi",
+        "00700.HK",
+        "Impact bullish",
+        "09988.HK",
+        "00268.HK"
+      ],
+      "text": "【Hong Kong midday: HSI up 0.87% as tech, application software lead】Hong Kong stocks rose in the morning session; the Hang Seng Index was up 0.87% at the midday close and the Hang Seng Tech Index gained 1.8% after an intraday high of 2.7%. Large-cap techs drove the market: Meituan (03690.HK) +6%+, Tencent Holdings (00700.HK) +2.5%, Kuaishou (01024.HK) +2.5%, Alibaba (09988.HK) +2.3%, Xiaomi (01810.HK) +2%. Application software outperformed, led by Kingdee International (00268.HK) nearly +19%. Semiconductor, optical-communications and PCB names underperformed: Tianshu Zhixin (09903.HK) down nearly 12%, Hua Hong Semiconductor (01347.HK) down about 4%, Cambridge Technology (06166.HK) down >8%, Yangtze Optical Fibre and Cable (06869.HK) down >6%, Guanghe Technology (01989.HK) down >8%."
+    },
+    {
+      "id": "4909629",
+      "time": "2026-06-01 12:09:26",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【東吳證券：NeoCloud龍頭崛起 AI算力基礎設施價值凸顯】東吳證券釋出研報稱，AI算力供需錯配仍是本輪NeoCloud行業景氣的核心來源，海外建議重點關注NeoCloud龍頭及算力/儲存產業鏈，國內則建議沿算力基礎設施和運營商生態佈局。建議關注：1)海外NeoCloud龍頭;2)海外算力/儲存產業鏈;3)國內算力基礎設施與運營商生態。"
+    },
+    {
+      "id": "4909628",
+      "time": "2026-06-01 12:08:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【光宇元芯完成Pre-A及Pre-A+兩輪融資，累計融資超億元】6月1日，據星辰資本訊息，光宇元芯（杭州）光電有限責任公司近期宣佈連續完成Pre-A及Pre-A+兩輪融資，累計融資規模超億元人民幣。其中，Pre-A輪由方廣資本、華睿投資領投，紅杉中國、襄禾資本、中科創星跟投；Pre-A+輪由老股東方廣資本追加投資。公司過往股東包括明勢創投、線性資本、中科創星、紅杉中國等多家明星機構。星辰資本擔任公司長期獨家財務顧問。"
+    },
     {
       "id": "4909627",
       "time": "2026-06-01 12:07:38",
@@ -147044,46 +147109,6 @@
         "國際"
       ],
       "text": "【日本政府稱“石腦油供給不存在問題” 民調顯示超六成民眾不接受】據日本方面24日訊息，日本讀賣新聞社於22日至24日實施的全國輿論調查結果顯示，對於日本政府稱“由原油提煉的石腦油供給不存在問題”，64%的受訪者表示“無法接受”，即便是在支援內閣的群體中，也有57%的人表示“無法接受”政府的說明。石腦油是原油提煉過程中的衍生品，被廣泛應用於塑膠、絕緣泡沫、黏合劑、合成纖維、注射器等醫療用品和印刷油墨溶劑等材料。日本高度依賴從中東進口原油和石腦油，由於霍爾木茲海峽航運受阻，日本建築、食品加工、日用品生產等多個行業都已感受到石腦油短缺帶來的衝擊。"
-    },
-    {
-      "id": "4897910",
-      "time": "2026-05-25 12:11:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "【孟加拉國達卡發生卡車翻車事故 致15死10傷】當地時間25日凌晨，在孟加拉國達卡西北部的坦蓋爾縣，一輛卡車翻車造成至少15人死亡，約10人受傷。傷者已被送往附近醫院緊急救治。"
-    },
-    {
-      "id": "te:markets:553310",
-      "time": "2026-05-25 12:11:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "India",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Indian Rupee Rises to 2-Week High — The Indian rupee strengthened to around 95.4 per dollar, extending its rally for another session to a two-week high as sentiment improved on easing crude oil prices and supportive remarks from the Reserve Bank of India. Support for the rupee increased after Brent crude prices fell below $100 per barrel for the first time in over two weeks amid optimism that the US and Iran are moving closer to a peace agreement. Sentiment was further boosted after Sanjay Malhotra stated that the RBI would do “whatever is required” to ensure orderly forex market movements, adding that the rupee appears undervalued. He also said the central bank has around $700 billion in reserves to curb volatility. However, gains in the rupee were partly limited by persistent inflation concerns after India’s state-owned fuel retailers raised petrol and diesel prices for the fourth time in May to offset losses stemming from higher costs linked to the Iran conflict."
-    },
-    {
-      "id": "te:markets:553309",
-      "time": "2026-05-25 12:10:53",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Taiwan",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Taiwan Stocks Break 43,000 Level — The TAIEX, Taiwan’s benchmark stock index, surged 1,209 points, or 2.9%, to 43,477 around midday on Monday, gaining for a third straight session and tracking rises in U.S. futures buoyed by optimism surrounding US-Iran end-of-war talks. The broader index touched 43,000 for the first time, mainly supported by a surge in electronic technology stocks, which jumped 3.5%. Taiwan Semiconductor Manufacturing Company (TSMC), which accounts for more than 40% of the market’s total value, rose 1.8%, while MediaTek jumped 10.0% and Delta Electronics soared 8.8%. Meanwhile, technology services rose 1.8%, with Co-Tech Development Corp soaring 4.8%. However, traders awaited the release of data on the country’s industrial production for April after it jumped in March, as well as retail sales data for April."
-    },
-    {
-      "id": "4897909",
-      "time": "2026-05-25 12:09:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "【位元組反擊騰訊稱“都是賣豬食的，誰也別看不起誰”？抖音副總裁李亮：相關內容系謠言】近日，有傳言稱騰訊、位元組跳動高管“隔空互懟”，騰訊高管將部分“低質洗腦短影片”比作“豬食”，隨後位元組副總裁回應稱，“大家都是賣豬食的，誰也別互相看不起。”5月24日，抖音集團副總裁李亮在微博發文闢謠：相關內容系謠言，“我沒有說過這樣的話，也沒有其他‘位元組副總裁’說過這樣的話”，並表示其此前發文都可公開查證，要求微博、網易及時清理相關謠言。（澎湃新聞）"
     }
   ]
 }
