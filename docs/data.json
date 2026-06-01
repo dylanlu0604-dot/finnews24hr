@@ -1,7 +1,39 @@
 {
-  "updated": "2026-06-02 05:13:35",
-  "count": 17105,
+  "updated": "2026-06-02 05:17:25",
+  "count": 17106,
   "items": [
+    {
+      "id": "4911349",
+      "time": "2026-06-02 05:15:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時A50期指連續夜盤收跌0.06%，報15533點。"
+    },
+    {
+      "id": "4911348",
+      "time": "2026-06-02 05:15:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "微軟股價跟隨Alphabet下跌，跌幅1.1%。"
+    },
+    {
+      "id": "4911347",
+      "time": "2026-06-02 05:13:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "慧與公司高管：公司已將截至2026財年人工智慧網路業務累計訂單目標上調至至少20億美元。"
+    },
+    {
+      "id": "4911346",
+      "time": "2026-06-02 05:13:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "委內瑞拉原油日產量升至120萬桶。"
+    },
     {
       "id": "4911345",
       "time": "2026-06-02 05:12:13",
@@ -156115,34 +156147,6 @@
         "DXY"
       ],
       "text": "【BOJ New Trend Indicator Shows inf Above 2% Target】BOJ: Apr Core inf ex one-offs 2.8% YoY, above 2% target; up from 2.5% in Mar; new indicator excludes education, energy subsidies; tops Japan govt core CPI 1.4% YoY"
-    },
-    {
-      "id": "4899128",
-      "time": "2026-05-26 05:17:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "智利政府預計2026年預算赤字對GDP佔比為2.4%。"
-    },
-    {
-      "id": "4899127",
-      "time": "2026-05-26 05:15:15",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時A50期指連續夜盤收漲0.25%，報15617點。"
-    },
-    {
-      "id": "te:markets:553513",
-      "time": "2026-05-26 05:14:58",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Norway",
-        "currency",
-        "Importance 0"
-      ],
-      "text": "Norwegian Krone Hits 4-year High — The Norwegian Krone touched 9.13 against the USD, the highest since April 2022. Over the past 4 weeks, US Dollar Norwegian Krone lost 0.82%, and in the last 12 months, it decreased 8.7%."
     }
   ]
 }
