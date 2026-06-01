@@ -1,7 +1,39 @@
 {
-  "updated": "2026-06-02 04:24:48",
-  "count": 17091,
+  "updated": "2026-06-02 04:28:44",
+  "count": 17093,
   "items": [
+    {
+      "id": "4911307",
+      "time": "2026-06-02 04:26:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗伊斯蘭革命衛隊稱對美以船隻實施打擊】當地時間6月1日晚，伊朗伊斯蘭革命衛隊宣佈，在美國軍隊對伊朗位於阿曼灣的船隻發動侵略性襲擊後，伊朗伊斯蘭革命衛隊海軍採取報復行動，使用巡航導彈擊中了屬於美以勢力的“薩里斯卡”（Sariska）號船隻。伊朗伊斯蘭革命衛隊海軍強調，任何美國軍隊在該地區的任何侵略行為都將遭到堅決回應。該宣告中並未提及相關行動的具體時間。英國海上貿易行動辦公室1日通報說，一艘貨船在波斯灣靠近伊拉克南部海域航行時被不明投射物擊中併發生劇烈爆炸。（央視新聞）"
+    },
+    {
+      "id": "mkt:019e84dd-4fdb-7993-96f9-db1d01de8c8c",
+      "time": "2026-06-02 04:25:56",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【IRGC says it struck vessel Sariska with cruise missile; UK reports merchant ship hit in Persian Gulf】On the evening of June 1 local time, Iran's Islamic Revolutionary Guard Corps (IRGC) said its naval forces fired a cruise missile at the vessel Sariska, which it described as linked to US and Israeli interests, saying the strike was retaliation for what it called an aggressive US attack on Iranian ships in the Gulf of Oman. The IRGC said it would respond firmly to any US military aggression and did not give a specific time for the action. Separately, UK Maritime Trade Operations said a merchant ship in the Persian Gulf near southern Iraq was struck by an unidentified projectile and suffered a large explosion."
+    },
+    {
+      "id": "mkt:019e84dc-6194-7993-96f9-d5d3d409c4c5",
+      "time": "2026-06-02 04:24:55",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "HPE.O",
+        "Impact bullish"
+      ],
+      "text": "【HPE forecasts strong server demand; shares surge 30% after-hours】Hewlett Packard Enterprise (HPE) raised annual sales guidance above estimates, saying demand for its servers and networking products has surged and should continue into next year. In its fiscal Q2 2026 results HPE said revenue for the year ending October 2026 is expected to rise about 31% and revenue for the year ending October 2027 about 10%, versus analysts’ prior forecasts of 19% and 5.3%. The stock jumped roughly 30% in after-hours trading. Last week’s blowout results from rival Dell had already lifted sector sentiment; HPE is a key hardware beneficiary of AI training and deployment demand."
+    },
     {
       "id": "te:markets:555482",
       "time": "2026-06-02 04:22:09",
@@ -156034,18 +156066,6 @@
         "國際"
       ],
       "text": "伊朗Bandar Abbas市出現爆炸聲，原因不明。（伊朗Mehr新聞社）"
-    },
-    {
-      "id": "mkt:daf17796-d35c-4a9c-b805-61fdee176377",
-      "time": "2026-05-26 04:25:38",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "EBRAHIM AZIZI, HEAD OF THE IRANIAN PARLIAMENT’S NATIONAL SECURITY COMMISSION, SAYS ANY AGREEMENT BETWEEN TEHRAN AND WASHINGTON WILL NOT MARK THE END OF IRAN’S CONFRONTATION WITH THE UNITED STATES, DESCRIBING THE CONFLICT AS “BOTH FUNDAMENTAL AND EXISTENTIAL” FOR TEHRAN"
     }
   ]
 }
