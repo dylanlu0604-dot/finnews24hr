@@ -1,7 +1,31 @@
 {
-  "updated": "2026-06-02 04:16:54",
-  "count": 17090,
+  "updated": "2026-06-02 04:20:51",
+  "count": 17089,
   "items": [
+    {
+      "id": "mkt:019e84d6-883d-7993-96f9-cc2fd928ba04",
+      "time": "2026-06-02 04:18:32",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【IRGC signals Bab al‑Mandeb navigation will be aligned with Strait of Hormuz】IRGC Quds Force commander Qaani said on the 1st that Israeli military action in Lebanon and Gaza, backed by the US, will expand the 'axis of resistance's' support for those fronts and activate other fronts, and that navigation through the Bab al‑Mandeb will be aligned with the Strait of Hormuz."
+    },
+    {
+      "id": "te:markets:555478",
+      "time": "2026-06-02 04:16:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Rebound to Hit New Highs — The three major US stock indexes rebounded from a cautious start to close at fresh record highs on Monday, as President Trump said talks with Iran were continuing at a rapid pace and a resurgence in AI-related stocks also helping to boost investors' sentiment. The S&P 500 gained 0.3%, the Nasdaq advanced 0.4%, and the Dow Jones added 46 points. Technology stocks led the rally, with Nvidia surging 6.3% after unveiling its new RTX Spark Superchip, marking its entry into the PC market. Optimism surrounding Nvidia's latest offering boosted software and hyperscaler stocks, with Microsoft rising 2.3% and Oracle jumping 9.9%. The positive spillover also lifted hardware-related names, as Micron Technology and Dell Technologies climbed 6.6% and 10.8%, respectively. Energy shares also traded higher amid rising oil prices, with Exxon Mobil gaining 2.5% and Chevron advancing 1.9%."
+    },
     {
       "id": "mkt:019e84d2-6a7a-7993-96f9-c26697d3f56b",
       "time": "2026-06-02 04:14:02",
@@ -155999,33 +156023,6 @@
         "DXY"
       ],
       "text": "EBRAHIM AZIZI, HEAD OF THE IRANIAN PARLIAMENT’S NATIONAL SECURITY COMMISSION, SAYS ANY AGREEMENT BETWEEN TEHRAN AND WASHINGTON WILL NOT MARK THE END OF IRAN’S CONFRONTATION WITH THE UNITED STATES, DESCRIBING THE CONFLICT AS “BOTH FUNDAMENTAL AND EXISTENTIAL” FOR TEHRAN"
-    },
-    {
-      "id": "mkt:019e6283-6abb-7dd8-b21e-62f80a3d3b59",
-      "time": "2026-05-26 04:20:40",
-      "tags": [
-        "MKT News",
-        "9984.T",
-        "Impact bullish"
-      ],
-      "text": "SoftBank Group Shares Extend Rally, Up 12%"
-    },
-    {
-      "id": "4899112",
-      "time": "2026-05-26 04:18:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "據報道，伊朗南部阿巴斯港一處軍事空軍基地附近發生爆炸，目擊者稱當地時間 23 時 40 分左右接連響起至少三聲巨響。"
-    },
-    {
-      "id": "4899111",
-      "time": "2026-05-26 04:18:32",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【據悉美伊就伊朗被凍結資產達成諒解，協議或明日宣佈】據半島電視臺報道，一位熟悉伊朗高階代表團與多哈官員之間會談的訊息人士表示，卡達的斡旋已促成與美國就伊朗被凍結金融資產達成諒解。該訊息人士補充說，由於在這個對伊朗人至關重要的問題上達成了協議，美伊之間很可能將於明天宣佈達成協議。"
     }
   ]
 }
