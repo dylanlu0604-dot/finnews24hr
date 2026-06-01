@@ -1,7 +1,113 @@
 {
-  "updated": "2026-06-01 12:15:57",
-  "count": 16165,
+  "updated": "2026-06-01 12:19:48",
+  "count": 16170,
   "items": [
+    {
+      "id": "mkt:019e8168-5cda-799c-966a-9d69f7c0d6bb",
+      "time": "2026-06-01 12:19:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NVIDIA (NVDA.O): OEMs including Dell (DELL.N), HPE, Lenovo and Super Micro (SMCI.O) are building standalone Vera CPU systems at scale."
+    },
+    {
+      "id": "mkt:019e8167-e32c-799c-966a-913cd4620ca8",
+      "time": "2026-06-01 12:18:49",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "ORCL.O"
+      ],
+      "text": "NVIDIA (NVDA.O): ANTHROPIC, OpenAI, SpaceXAI, ByteDance, CoreWeave (CRWV.O) and Oracle Cloud Infrastructure plan to adopt NVIDIA’s Vera chips."
+    },
+    {
+      "id": "4909641",
+      "time": "2026-06-01 12:18:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴克萊對 IBM 啟動覆蓋，給予增持評級，目標價為350美元。"
+    },
+    {
+      "id": "4909640",
+      "time": "2026-06-01 12:18:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【曹操出行獲納入香港交易所科技100指數】6月1日，曹操出行（02643.HK）宣佈，根據香港交易所釋出的科技100指數半年度調整結果，公司獲納入該指數成分股。本次調整將於2026年6月12日收市後生效，並於6月15日正式執行。"
+    },
+    {
+      "id": "4909639",
+      "time": "2026-06-01 12:18:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【厄瓜多取消對哥倫比亞商品徵收的“安全稅”】厄瓜多國家海關總署5月31日宣佈，自6月1日起取消對哥倫比亞輸厄商品徵收的“安全稅”。厄瓜多國家海關總署署長桑德羅·卡斯蒂略當天在社交媒體上表示，自6月1日起，針對原產於及來自哥倫比亞的商品，“安全稅”稅率將降至零。這是厄總統丹尼爾·諾沃亞宣佈的一項措施，厄海關將確保有效執行，以促進合法貿易、區域一體化及兩國共同打擊非法經濟活動的合作。此前，諾沃亞在社交媒體發文稱，在與哥總統候選人阿韋拉多·德拉埃斯普列利亞會談後，決定自6月1日起撤銷對哥關稅措施，以加強兩國在貿易、能源和安全領域的合作。"
+    },
+    {
+      "id": "mkt:019e8167-4382-799c-966a-8f835f816fce",
+      "time": "2026-06-01 12:18:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China's first innovative IV anesthetic ciprofol wins FDA approval】Haisco said its self-developed Class 1 innovative intravenous anesthetic, ciprofol injection, has received US FDA approval for induction of general anesthesia in adults. Ciprofol is the first China-originated original intravenous anesthetic to secure international market approval."
+    },
+    {
+      "id": "4909638",
+      "time": "2026-06-01 12:17:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中國1類靜脈麻醉創新藥環泊酚獲美國FDA批准上市】6月1日中午，海思科宣佈，其自主研發的1類靜脈麻醉創新藥——環泊酚注射液，近日正式獲得美國食品藥品監督管理局（FDA）上市批准，用於成人全身麻醉誘導適應症。環泊酚因此成為中國首個走向國際的靜脈麻醉原研創新藥。"
+    },
+    {
+      "id": "4909637",
+      "time": "2026-06-01 12:16:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【英偉達Vera Rubin已全面投入生產】英偉達CEO黃仁勳在臺北的GTC演講中宣佈，英偉達新一代平臺Vera Rubin已經全面投入生產，Vera Rubin採用美光、SK海力士和三星的HBM（高頻寬記憶體），提供機櫃級（POD）一體化AI工廠底座。英偉達為Rubin搭建的供應鏈是上一代Blackwell的“兩倍大”，以往需要花兩個小時組裝一個巨大的Blackwell機架，現在（Vera Rubin）只需要5分鐘。"
+    },
+    {
+      "id": "mkt:019e8165-9e80-799c-966a-80dc729df6c4",
+      "time": "2026-06-01 12:16:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "China EV Leaders",
+        "09868.HK",
+        "Impact bullish"
+      ],
+      "text": "Xpeng Inc (09868.HK) delivered 32,158 vehicles in May 2026, up 4% MoM."
+    },
+    {
+      "id": "4909636",
+      "time": "2026-06-01 12:16:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "小鵬汽車：2026年5月交付車輛32,158輛，較上月增長4%。"
+    },
+    {
+      "id": "mkt:019e8164-d551-799c-966a-7cac4df943dc",
+      "time": "2026-06-01 12:15:29",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "OpenAI, ANTHROPIC and SpaceX are among the first adopters of NVIDIA (NVDA.O)'s Vera chip."
+    },
     {
       "id": "4909635",
       "time": "2026-06-01 12:15:19",
@@ -147085,56 +147191,6 @@
         "國際"
       ],
       "text": "馬來西亞經濟部長：受中東航班取消及航班改道影響，2020年4月每日客運航班量下降31.5%。"
-    },
-    {
-      "id": "mkt:019e5d5c-52b4-711d-be56-3e5abcfc2065",
-      "time": "2026-05-25 12:19:44",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Malaysia Economy Minister Says Power Reserves Adequate For Current Demand Growth"
-    },
-    {
-      "id": "4897919",
-      "time": "2026-05-25 12:19:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "馬來西亞經濟部長：現有電力儲備足以應對當前需求增長。"
-    },
-    {
-      "id": "4897917",
-      "time": "2026-05-25 12:18:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗處決一名參與一月抗議活動的男子。"
-    },
-    {
-      "id": "4897916",
-      "time": "2026-05-25 12:18:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "中韓半導體ETF(513310)：本基金將於2026年5月25日下午開市起至當日收市停牌。"
-    },
-    {
-      "id": "4897915",
-      "time": "2026-05-25 12:18:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "【巴基斯坦與阿里巴巴達成多項合作】據阿里巴巴25日訊息，巴基斯坦日前在杭州與阿里巴巴宣佈達成多項合作，涉及AI基礎設施、醫療AI科技、中小企業發展、人才培養、電子支付等領域。據悉，在數字經濟領域，阿里巴巴國際站將依託旗下跨境生意AI工作臺Accio Work，為1萬家巴基斯坦中小企業提供AI和數字化培訓，雙方共同推動至少2000家當地企業入駐，並設立“巴基斯坦館”，連線超5000萬全球買家。Daraz旗下Koko Tech計劃投資300萬美元，拓展巴基斯坦數字支付業務。巴基斯坦總理夏巴茲·謝里夫表示，此次合作可推動數字普惠、賦能青年、促進農業現代化以及實現金融領域的數字化。(國是直通車)"
-    },
-    {
-      "id": "4897914",
-      "time": "2026-05-25 12:16:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【傑富瑞將潘興廣場公司評級為“持有”】傑富瑞首次對潘興廣場公司進行評級，建議持有，目標價設定為 40 美元。"
     }
   ]
 }
