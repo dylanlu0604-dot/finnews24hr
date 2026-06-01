@@ -1,7 +1,178 @@
 {
-  "updated": "2026-06-01 22:22:24",
-  "count": 16920,
+  "updated": "2026-06-01 22:26:27",
+  "count": 16934,
   "items": [
+    {
+      "id": "4911067",
+      "time": "2026-06-01 22:25:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟：Surface Laptop Ultra 將於今年晚些時候上市。"
+    },
+    {
+      "id": "mkt:019e8393-068d-7552-8900-89d0e0923bd0",
+      "time": "2026-06-01 22:25:11",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "Microsoft (MSFT.O) said its Surface Laptop Ultra will feature NVIDIA technology."
+    },
+    {
+      "id": "mkt:019e8392-d780-7552-8900-87ef25cb89ae",
+      "time": "2026-06-01 22:24:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "An Israeli Defense Ministry spokesman called France's restrictions on Israeli officials and companies at a European international defense exhibition 'shameful'."
+    },
+    {
+      "id": "4911066",
+      "time": "2026-06-01 22:24:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟：Surface Laptop Ultra 聯合英偉達打造。"
+    },
+    {
+      "id": "4911065",
+      "time": "2026-06-01 22:24:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防部發言人指責法國政府對以色列官員及企業在歐洲國際防務展上施加的限制“令人不齒”。"
+    },
+    {
+      "id": "mkt:019e8392-5367-7552-8900-7d94cc842700",
+      "time": "2026-06-01 22:24:25",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O"
+      ],
+      "text": "Microsoft (MSFT.O) launches Surface Laptop Ultra."
+    },
+    {
+      "id": "4911064",
+      "time": "2026-06-01 22:24:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟推出 Surface Laptop Ultra 膝上型電腦。"
+    },
+    {
+      "id": "mkt:019e8392-1d5e-7552-8900-764eab2a8681",
+      "time": "2026-06-01 22:24:11",
+      "tags": [
+        "MKT News",
+        "ESLT.O",
+        "Impact bearish"
+      ],
+      "text": "An Israeli Defense Ministry spokesman said France will restrict Israeli defense firms' participation in the European International Defense Exhibition, permitting only the display of air-defense system products."
+    },
+    {
+      "id": "mkt:019e8391-9c7e-7552-8900-68967f573304",
+      "time": "2026-06-01 22:23:38",
+      "tags": [
+        "MKT News",
+        "SPCE.N",
+        "Impact bearish"
+      ],
+      "text": "Virgin Galactic (SPCE.N) resumed trading; shares continued to fall."
+    },
+    {
+      "id": "4911063",
+      "time": "2026-06-01 22:23:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【默克大灣區創新與合作中心在深圳南山區落成】6月1日，德國默克集團宣佈，默克大灣區創新與合作中心在深圳市南山區正式竣工落成。根據規劃，默克大灣區創新與合作中心主要定位為集團的創新研發載體，重點聚焦生命科學與醫藥健康產業，透過整合全球創新資源，推動創新藥物和生物技術的研發。"
+    },
+    {
+      "id": "4911062",
+      "time": "2026-06-01 22:23:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "英偉達高開高走，現漲超5%。"
+    },
+    {
+      "id": "mkt:019e8391-5276-7552-8900-67c4875308f5",
+      "time": "2026-06-01 22:23:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "NVIDIA (NVDA.O) intraday gains widened to 5%."
+    },
+    {
+      "id": "4911061",
+      "time": "2026-06-01 22:23:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防部發言人：參展歐洲國際防務展的以色列防務企業將被法國政府限制僅可展出防空產品。"
+    },
+    {
+      "id": "4911060",
+      "time": "2026-06-01 22:22:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "維珍銀河恢復交易，股價繼續收窄漲幅。"
+    },
+    {
+      "id": "4911059",
+      "time": "2026-06-01 22:22:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新易盛：目前公司在光路交換機領域已有充分佈局】新易盛6月1日接受機構調研時表示，目前公司在光路交換機（OCS）領域已有充分佈局，公司可以根據客戶的定製化需求進行產品開發，預計市場明年下半年或者2028年將有批次供應需求。"
+    },
+    {
+      "id": "4911058",
+      "time": "2026-06-01 22:22:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺積電漲超5%，續刷歷史新高。"
+    },
+    {
+      "id": "mkt:019e8390-0d04-7552-8900-593b3d767939",
+      "time": "2026-06-01 22:21:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "TSM.N",
+        "Impact bullish"
+      ],
+      "text": "TSMC (TSM.N) shares rose more than 5%, extending gains to a fresh record high."
+    },
+    {
+      "id": "4911057",
+      "time": "2026-06-01 22:21:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "雲端計算服務商CoreWeave漲超14%，公司已完成對英偉達Vera Rubin NVL72平臺的行業首創啟用和驗證。"
+    },
     {
       "id": "mkt:019e838f-6dc6-7552-8900-518552490054",
       "time": "2026-06-01 22:21:15",
@@ -154325,44 +154496,6 @@
         "國際"
       ],
       "text": "Polymarket資料顯示：美國在 5 月 31 日前宣佈達成新伊核協議的機率目前為 37%，而伊朗同意移交濃縮鈾的機率僅為 11%。"
-    },
-    {
-      "id": "mkt:019e5f85-d44c-711d-be5d-17fce29cb2c2",
-      "time": "2026-05-25 22:24:08",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Qatar, Oman Foreign Ministers Discuss Regional Developments】Oman Top Diplomat Calls Qatar Foreign Minister And Prime Minister Mohammed; Officials Coordinate Positions, Seek Consensus To Restore Strait Of Hormuz Shipping"
-    },
-    {
-      "id": "4898952",
-      "time": "2026-05-25 22:24:02",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【天然橡膠價格大漲 多重因素推動】今年以來，天然橡膠價格持續走高，處於近兩年的高位。目前，天然橡膠現貨價格在17500—17900元/噸區間內，較2026年初上漲2200元/噸，漲幅約14%。期貨價格在17460元/噸，相比年初上漲11%。分析師指出，本輪天然橡膠行情上漲原因如下：從供給端來看，一是由於全球天然橡膠的結構性短缺。據天然橡膠生產國協會預測，2026年全球天然橡膠需求量將攀升至1560.2萬噸，而產量預計僅為1532.4萬噸，供需存在明顯缺口。二是由於極端天氣的擾動預期。據國家氣候中心預計，今年5月將進入厄爾尼諾狀態，天然橡膠主產區面臨高溫乾旱減產風險，進一步加劇市場對供應收緊的擔憂。從需求端來看，2026年全球汽車產業溫和復甦，我國新能源汽車產銷持續增長，歐美輪胎替換與出口需求回升，疊加非洲等新興市場消費提速，天然橡膠下游需求穩定，為價格提供堅實支撐。此外，中東地緣衝突，推高國際油價，這也直接帶動合成橡膠價格上漲，從而間接支撐天然橡膠價格。（央視財經）"
-    },
-    {
-      "id": "4898951",
-      "time": "2026-05-25 22:23:47",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "【我國發布倫理指引規範人體基因資料研究】科技部5月25日釋出《人體基因資料研究倫理指引》，旨在規範人體基因資料研究行為，切實保護研究參與者及相關群體的合法權益，促進人體基因資料研究的健康發展。指引由國家科技倫理委員會生命科學倫理分委員會研究編制，明確了人體基因資料是指從人體生物樣本（如細胞、組織、器官、體液及分泌物等）中獲取或由其衍生的、能夠直接反映人類遺傳資訊的各類資料。隨著基因測序、組學技術和資料分析方法等的飛速發展，人體基因資料相關研究持續深化，為生物醫學研究、疾病預防與精準醫療提供了重要的科學支撐。與此同時，人體基因資料因具有身份標識性、家系群體關聯性、跨代影響延續性等特殊屬性，其相關科技活動可能引發倫理、法律與社會層面的多重複雜問題。根據指引，開展人體基因資料相關科技活動，應當遵循增進福祉、尊重自主、控制風險、不傷害與防止濫用、公平公正的基本原則。具體包括：以促進人類健康、提高疾病預防診療水平、增進社會公共利益和人類健康福祉為目的；對可能產生重大不確定性、跨境擴散風險或者跨代影響的應用，應當秉持審慎態度，在實施前開展充分風險評估，採取更為嚴格的風險控制措施；遵循科學合理、目的正當和最小必要的要求，尊重和保護個人合法權益等。指引還明確，從事人體基因資料相關科技活動，應當加強基因隱私保護。不得以侵犯隱私為目的開展資料探勘或者利用。開展資料探勘、分析與應用的，應當嚴格保護研究參與者及相關群體的隱私，確保相關處理活動在知情同意和倫理審查批准範圍內進行。在科學研究與技術開發全過程中，應當根據資料敏感程度和風險等級，採取相應的隱私保護措施。專家表示，指引實施將有效引導我國人體基因資料研究在規範化軌道上行穩致遠，最終實現科技創新潛能釋放與倫理責任擔當的動態平衡。（新華社）"
-    },
-    {
-      "id": "4898950",
-      "time": "2026-05-25 22:22:36",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "哈莫尼黃金公司：此次人員死亡由豎井工程相關事故引發。"
     }
   ]
 }
