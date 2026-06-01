@@ -1,7 +1,163 @@
 {
-  "updated": "2026-06-02 04:40:44",
-  "count": 17092,
+  "updated": "2026-06-02 04:50:14",
+  "count": 17102,
   "items": [
+    {
+      "id": "te:markets:555485",
+      "time": "2026-06-02 04:49:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Falls as Middle East Tensions Lift Oil Prices — The Ibovespa lost 0.9% to close at 172,197 on Monday as signs of renewed escalation in the Middle East hurt risk appetite and revived concerns about inflation and interest rates. Although US President Donald Trump said Israel and Hezbollah had agreed to stop attacking each other in Lebanon and that talks with Iran were continuing, fresh violence threatened efforts to end the conflict. Oil prices spiked after reports that US-Iran negotiations had stalled, fueling stagflation fears and pushing bond yields higher. Banks led losses, with Itaú down 1.7%, Bradesco shedding 1.1%, and Itaúsa losing 1.2%. Meanwhile, the S&P Global Brazil Manufacturing PMI fell to 49.1 in May from 52.6 in April, signaling a renewed contraction in factory activity and weighing on industrial stocks such as WEG, which dropped 2.5%. Utilities also pressured the index, with Auren down 2.4%. In contrast, Petrobras gained 0.9%, supported by higher oil prices."
+    },
+    {
+      "id": "4911320",
+      "time": "2026-06-02 04:49:35",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【慧與股價盤後飆升超30% 預計未來18個月伺服器需求增長強勁】慧與給出的年度銷售額展望高於分析師預期，並稱公司伺服器和網路產品需求大幅增長，預計這一勢頭將持續到明年。該股在盤後交易中飆升。該公司週一在宣告中表示，截至10月的財年營收將增長約31%，截至2027年10月的財年營收將增長約10%。這兩項預測均明顯高於分析師的預期，分析師對2026財年和2027財年的預期增幅分別為19%和5.3%。執行長Antonio Neri在採訪中表示，慧與決定提前給出2027財年預測，是為了顯示“這一勢頭的永續性”。"
+    },
+    {
+      "id": "mkt:019e84f2-eddb-7993-96fa-1156d1078bd1",
+      "time": "2026-06-02 04:49:33",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "EU prepares to grant member states greater budgetary flexibility to ease energy cost pressures."
+    },
+    {
+      "id": "4911319",
+      "time": "2026-06-02 04:47:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國醫保與醫療補助服務中心（CMS）署長奧茲：醫保中心正與執法機構磋商，對醫療補助就業規則的自主申報開展監管核查。"
+    },
+    {
+      "id": "mkt:019e84f1-1061-7993-96fa-0fab3a5dfa48",
+      "time": "2026-06-02 04:47:31",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O",
+        "Impact bearish"
+      ],
+      "text": "Google (GOOG.O) fell 1.7% in U.S. after-hours trading."
+    },
+    {
+      "id": "4911318",
+      "time": "2026-06-02 04:47:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國醫保與醫療補助服務中心（CMS）署長奧茲：醫療補助參保就業規定旨在引導參保人轉入僱主贊助醫保計劃。"
+    },
+    {
+      "id": "4911317",
+      "time": "2026-06-02 04:47:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國醫保與醫療補助服務中心釋出醫療補助就業規則落地暫行終版條例。"
+    },
+    {
+      "id": "4911316",
+      "time": "2026-06-02 04:44:05",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "谷歌母公司Alphabet盤後跌1.4%。"
+    },
+    {
+      "id": "mkt:019e84ed-e744-7993-96fa-016892af9052",
+      "time": "2026-06-02 04:44:04",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "GOOG.O"
+      ],
+      "text": "Alphabet (GOOG.O) is raising capital to expand AI infrastructure and compute capacity."
+    },
+    {
+      "id": "mkt:019e84ed-133b-7993-96f9-ff46eaf80a38",
+      "time": "2026-06-02 04:43:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O",
+        "Impact mixed"
+      ],
+      "text": "Market sources say Alphabet (GOOG.O) plans an $80 billion equity financing, with Berkshire Hathaway committing $10 billion."
+    },
+    {
+      "id": "4911315",
+      "time": "2026-06-02 04:42:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌母公司Alphabet本次股權募資用於擴建人工智慧基礎設施與算力資源。"
+    },
+    {
+      "id": "4911314",
+      "time": "2026-06-02 04:42:05",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "伯克希爾·哈撒韋擬向谷歌母公司Alphabet投資100億美元。"
+    },
+    {
+      "id": "4911313",
+      "time": "2026-06-02 04:41:34",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "谷歌母公司Alphabet披露擬募資800億美元股權融資計劃。"
+    },
+    {
+      "id": "4911312",
+      "time": "2026-06-02 04:41:24",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【6月2日美股成交額前20：英偉達再次進軍PC晶片市場】第2名英偉達收高6.25%，成交462.76億美元。英偉達將攜一款新晶片殺入個人電腦市場，著眼於英特爾技術在該領域的主導地位，並推動順應AI時代的裝置現代化。英偉達執行長黃仁勳在國際電腦展上表示，從今年秋季開始，英偉達全新的RTX Spark超級晶片將首次應用於戴爾、聯想等主要PC廠商的筆記本和臺式電腦。這是英偉達再次嘗試進軍PC處理器市場。十多年前，該公司曾在這個領域鎩羽而歸。"
+    },
+    {
+      "id": "mkt:019e84ea-fae3-7993-96f9-f2ea0e631afe",
+      "time": "2026-06-02 04:40:52",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Sirens sounded in northern Israeli border town Metula after a suspected rocket attack by HEZBOLLAH."
+    },
     {
       "id": "mkt:019e84e7-ddd6-7993-96f9-e8d9251002f6",
       "time": "2026-06-02 04:37:28",
@@ -156005,58 +156161,6 @@
         "國際"
       ],
       "text": "【半島電視臺：美伊就資產解凍問題達成諒解】卡達半島電視臺25日報道，一名瞭解伊朗高階代表團在多哈會談情況的訊息人士表示，在卡達斡旋下，美國與伊朗已就伊朗被凍結金融資產問題達成一項諒解。該訊息人士說，由於被凍結金融資產問題對伊朗至關重要，美伊雙方“很有可能”於明天宣佈達成協議。卡達外交部一名官員當天告訴新華社記者，一個伊朗高階代表團正在多哈參加會談，代表團成員包括伊朗伊斯蘭議會議長卡利巴夫和外交部長阿拉格齊。此次會談旨在討論美伊間達成協議、結束戰爭的可能性，將重點討論霍爾木茲海峽、伊朗高濃縮鈾庫存、伊朗海外被凍結資金等問題。伊朗央行行長在代表團中負責討論最終協議可能涉及的金融相關事項。（新華社）"
-    },
-    {
-      "id": "mkt:019e629d-3ec6-7dd8-b21e-843364e29c1b",
-      "time": "2026-05-26 04:48:52",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "U.S. 2-yr Treasury yield down ~7bps to 4.0573%; 10-yr down ~6bps to 4.5083%"
-    },
-    {
-      "id": "mkt:019e629a-5672-7dd8-b21e-794b12d71b57",
-      "time": "2026-05-26 04:45:42",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Spot Gold Falls 1.00% Intraday to $4,524.84/oz"
-    },
-    {
-      "id": "4899120",
-      "time": "2026-05-26 04:44:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【智利國家銅業公司即將卸任的主席同時辭去鋰業合資公司職務】智利國營的智利國家銅業公司（Codelco）主席Maximo Pacheco宣佈卸任，同時也將辭去Nova Andino Litio公司的董事會職務。該公司是Codelco與智利化工礦業公司（SQM）成立的鋰業合資企業。在寫給Codelco新任主席Bernardo Fontaine的信中，Pacheco坦言，他的辭職是因為某些部門和階層此前一直在施壓、企圖迫使其離開公司。Pacheco此番徹底離職之際，Codelco正面臨著外界高度審視。上週，該公司在一項內部審計後宣佈，已解僱一名高管並處分了其他相關人員，原因是他們錯誤地彙報了2025年的銅產量。"
-    },
-    {
-      "id": "mkt:019e6298-4bd1-7dd8-b21e-743024971791",
-      "time": "2026-05-26 04:43:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Australia PM Meets UAE Minister Reem Al Hashimy; Discusses Security Cooperation, Thanks Support For Australians"
-    },
-    {
-      "id": "4899119",
-      "time": "2026-05-26 04:41:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "古巴公佈 4 月大赦令釋放人員完整名單。"
     }
   ]
 }
