@@ -1,7 +1,66 @@
 {
-  "updated": "2026-06-02 03:33:03",
-  "count": 17071,
+  "updated": "2026-06-02 03:36:59",
+  "count": 17075,
   "items": [
+    {
+      "id": "mkt:019e84b0-1b03-7993-96f9-708a263696f8",
+      "time": "2026-06-02 03:36:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Lebanese presidency says Hezbollah pledges to halt strikes on Israel】The Lebanese presidency said on June 1 that Hezbollah has pledged to halt strikes on Israel. The statement said US president Trump had earlier announced the development and that Trump communicated with Hezbollah via Lebanese president Joseph Aoun and the US ambassador to Lebanon; parties coordinated to secure a ceasefire consensus."
+    },
+    {
+      "id": "mkt:019e84af-ace7-7993-96f9-6b5a1bf93037",
+      "time": "2026-06-02 03:36:05",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【International oil prices jump on the 1st】At the close, NYMEX July light crude futures rose $4.80 to $92.16/bbl, up 5.49%. ICE Brent August futures rose $3.86 to $94.98/bbl, up 4.24%."
+    },
+    {
+      "id": "4911285",
+      "time": "2026-06-02 03:35:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "【黎巴嫩總統辦公室：真主黨已承諾停止打擊以色列】當地時間6月1日，黎巴嫩總統辦公室發表最新宣告。宣告確認，黎巴嫩真主黨已承諾停止對以色列的打擊。此前，美國總統特朗普也宣佈了這一訊息。宣告還透露了談判的具體細節。在此次停火斡旋中，特朗普透過黎巴嫩總統約瑟夫·奧恩、美國駐黎巴嫩大使與黎巴嫩真主黨展開溝通。各方積極協調，最終促成這一停火共識。"
+    },
+    {
+      "id": "mkt:019e84ae-5daf-7993-96f9-611ad0ea1e80",
+      "time": "2026-06-02 03:34:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Prime Minister Netanyahu said he spoke with President Trump tonight and warned that if Hezbollah does not stop attacking Israeli cities and civilians, Israel will strike targets in Beirut. He said the government’s position remains firm and the Israel Defense Forces will continue planned operations in southern Lebanon."
+    },
+    {
+      "id": "4911284",
+      "time": "2026-06-02 03:33:32",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡：今晚同特朗普通了電話，並告知對方，若真主黨不停止襲擊我方城市與民眾，以色列將打擊貝魯特境內的目標。 我方這一立場堅定不移。 與此同時，以色列國防軍將按原定計劃繼續在黎巴嫩南部開展軍事行動。"
+    },
+    {
+      "id": "4911283",
+      "time": "2026-06-02 03:33:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價1日大幅上漲】國際油價1日大幅上漲。截至當天收盤，紐約商品交易所7月交貨的輕質原油期貨價格上漲4.80美元，收於每桶92.16美元，漲幅為5.49%；8月交貨的倫敦布倫特原油期貨價格上漲3.86美元，收於每桶94.98美元，漲幅為4.24%。"
+    },
     {
       "id": "4911282",
       "time": "2026-06-02 03:31:23",
@@ -155808,26 +155867,6 @@
         "MKT News"
       ],
       "text": "【IDF Says Killed Key Hamas Weapons-Production Figure Mohammed Abu Malouh】IDF Says Oct 24 Precision Strike In Central Gaza Killed Hamas Weapons-Production Core Mohammed Abu Malouh; Used Aerial Recon, Precision-Guided Munitions; Claimed He Continued Arms Production During Ceasefire"
-    },
-    {
-      "id": "mkt:019e625a-937b-7dd8-b21e-0e94f1ed5b4b",
-      "time": "2026-05-26 03:36:00",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact mixed"
-      ],
-      "text": "【BofA Keeps 12-Month Gold PT $6,000/oz; Near-Term Pressure, Medium-Term Bullish】Widmer: Middle East Energy Spike Reprices inf And U.S. Rate Path, Weighs On Gold Near Term; Central Bank Buying, Investor Demand Rebound And Slower Growth Support BofA 12-Mo PT $6,000/oz"
-    },
-    {
-      "id": "4899105",
-      "time": "2026-05-26 03:33:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防軍：過去 24 小時內，以軍對真主黨的70 餘處設施實施打擊，其中在提爾地區摧毀約 10 座指揮中心及武器庫。"
     }
   ]
 }
