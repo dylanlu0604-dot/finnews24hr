@@ -1,7 +1,81 @@
 {
-  "updated": "2026-06-02 00:10:46",
-  "count": 17012,
+  "updated": "2026-06-02 00:14:47",
+  "count": 17018,
   "items": [
+    {
+      "id": "mkt:019e83f5-f8ce-7993-96f6-c25c8cd585cd",
+      "time": "2026-06-02 00:13:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Trump told an MSNBC reporter he has not received any indication from Iran that it has suspended negotiations."
+    },
+    {
+      "id": "4911179",
+      "time": "2026-06-02 00:12:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及伊朗問題：說實話，我認為我們談論得太多了。我認為保持沉默會非常好。"
+    },
+    {
+      "id": "4911178",
+      "time": "2026-06-02 00:12:09",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普接受美國全國廣播公司（NBC）記者採訪時談及伊朗相關事宜，表示並未收到伊朗方面有關暫停談判報道的相關訊息。"
+    },
+    {
+      "id": "te:markets:555468",
+      "time": "2026-06-02 00:12:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 0.52% Lower — The FTSE MIB Index decreased 262 points or 0.52 percent on Monday to close at 49775 points. The decline was led by Avio (-8.45%), Fincantieri (-3.97%) and Leonardo SpA (-3.96%). On the upside, the strongest performers were Tenaris (3.49%), Saipem (2.89%) and Eni (2.17%)."
+    },
+    {
+      "id": "te:markets:555467",
+      "time": "2026-06-02 00:11:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 0.40% Lower — The DAX Index fell 102 points or 0.40 percent on Monday to close at 25003 points. Leading the losses are Rheinmetall (-6.51%), Bayer (-3.83%) and MTU Aero Engines AG (-3.81%). Top gainers were SAP (8.03%), Brenntag (1.34%) and RWE (1.06%)."
+    },
+    {
+      "id": "te:markets:555466",
+      "time": "2026-06-02 00:10:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "CAC 40 Falls on Iran-US Tensions — The CAC 40 shed 0.4% to close at 8,147 on Monday as reports that Iran will halt communication with the US cast doubt on the prospects for renewing the ceasefire. Oil prices rebounded, reviving stagflation concerns and pushing bond yields higher. Investors also assessed the outlook for the French economy after the Bank of France signaled it would lower its growth forecasts later this month following a weak start to the year and persistent geopolitical uncertainties linked to the conflict in the Middle East. The central bank currently expects the economy to expand by 0.9% this year, while the IMF recently cut its forecast to 0.7% from 0.9%. Industrial stocks led losses, with Airbus down 3.6%, Safran losing 2.8%, and Thales shedding 4%. Luxury shares also traded lower amid higher risk aversion, with LVMH down 0.7% and L'Oréal losing 0.8%. On the upside, TotalEnergies gained 1.6% as oil prices advanced."
+    },
+    {
+      "id": "4911177",
+      "time": "2026-06-02 00:10:31",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "Anthropic投資方股價跳漲， Zoom 通訊股價上漲 9.4%，韓國 SK 電信美股漲幅 14.6%。"
+    },
     {
       "id": "te:markets:555465",
       "time": "2026-06-02 00:10:03",
@@ -155281,18 +155355,6 @@
         "國際"
       ],
       "text": "特朗普在阿靈頓國家公墓向無名戰士墓敬獻花圈，紀念陣亡將士紀念日。"
-    },
-    {
-      "id": "te:markets:553503",
-      "time": "2026-05-26 00:12:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE MIB Index Closes 1.43% Higher — The FTSE MIB Index gained 709 points or 1.43 percent on Monday to close at 50220 points. Gains were led by Avio (7.20%), Nexi (6.93%) and Amplifon (3.91%)."
     }
   ]
 }
