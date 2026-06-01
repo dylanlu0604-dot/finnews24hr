@@ -1,7 +1,74 @@
 {
-  "updated": "2026-06-01 22:10:24",
-  "count": 16905,
+  "updated": "2026-06-01 22:14:23",
+  "count": 16907,
   "items": [
+    {
+      "id": "4911044",
+      "time": "2026-06-01 22:12:06",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【國泰海通證券：石墨化價格上漲，關注負極企業盈利修復】國泰海通證券研報表示，負極材料行業受2025年四季度以來石墨化與原材料漲價影響，盈利出現環比下滑。國泰海通證券認為，“反內卷”大勢所趨，面對2025年四季度以來持續增長的動力與儲能需求，考慮目前負極材料行業供給相對剛性，重視負極行業頭部公司盈利修復的可能性。建議關注：石墨化自供比例高、一體化程度強的負極企業；外協比例相對較高但成本傳導快、議價能力強的頭部負極企業。"
+    },
+    {
+      "id": "4911043",
+      "time": "2026-06-01 22:11:38",
+      "tags": [
+        "資料",
+        "市場",
+        "國際"
+      ],
+      "text": "【美國5月ISM製造業PMI創四年新高】美國5月ISM製造業PMI為54，較4月份上升1.3點，為2022年5月以來的最高值，得益於新訂單和生產量的增加。製造業PMI已連續五個月顯示出了擴張態勢，這表明在人工智慧投資大幅增加、稅收政策更加優惠以及貿易政策不確定性降低的背景下，製造業領域正展現出新的活力。新訂單增長速度加快至四個月以來的最高水平，同時工廠生產也呈現上升態勢。上漲的部分原因或許也在於消費者試圖大量囤積商品，以期搶在未來價格上漲之前出手。中東地區的衝突以及霍爾木茲海峽的關閉導致了石油及其他原材料價格的上漲。儘管油價已從峰值回落，但仍遠高於戰前水平。ISM資料顯示，對於生產商而言，原材料成本繼續大幅上漲，價格指數有所下降，但仍接近自2022年以來的最高水平。"
+    },
+    {
+      "id": "4911042",
+      "time": "2026-06-01 22:11:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中美兩軍在美國夏威夷舉行2026年度中美海上軍事安全磋商機制工作小組會議】5月28日至29日，中美兩軍在美國夏威夷舉行2026年度中美海上軍事安全磋商機制工作小組會議。雙方以構建“中美建設性戰略穩定關係”重要共識為引領，在平等和尊重基礎上，就當前中美海空安全形勢進行了坦誠、建設性交流，對2025年中美海上軍事安全磋商機制會議以來的《中美海空相遇安全行為準則》執行情況進行了評估，討論了改進中美海上軍事安全問題的措施。雙方一致認為，兩軍進行有效溝通交流，有助於一線部隊更加專業地執行任務，增進相互瞭解、避免誤解誤判。同時，中方堅決反對任何以航行和飛越自由為名危害中國主權和安全，反對任何針對中方的侵權挑釁和抵近偵察滋擾，將繼續依法依規堅定維護國家領土主權和海洋權益，維護地區和平繁榮。（人民日報）"
+    },
+    {
+      "id": "mkt:019e8386-78fe-7ccf-b269-60d50d032031",
+      "time": "2026-06-01 22:11:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China, US militaries hold 2026 maritime security consultative working-group meeting in Hawaii】May 28-29 — Chinese and US military delegations met in Hawaii for the 2026 bilateral maritime security consultative mechanism working-group meeting. Guided by a shared aim to build a constructive strategic-stability relationship, delegations held frank exchanges on current maritime and air security conditions, assessed implementation of the China‑US Code for Safe Encounters at Sea and in the Air since the 2025 meeting, and discussed measures to improve handling of maritime military-safety issues. Both sides said effective military-to-military communication helps front-line units perform tasks more professionally and reduces risk of miscalculation. China reiterated firm opposition to any use of freedom of navigation or overflight to undermine its sovereignty or security, condemned infringement, provocative acts and close-in reconnaissance and harassment, and said it will continue to lawfully and resolutely defend territorial sovereignty and maritime rights while maintaining regional peace and prosperity."
+    },
+    {
+      "id": "mkt:019e8386-2981-7ccf-b269-5cbe725c4c07",
+      "time": "2026-06-01 22:11:07",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "Commodities",
+        "Energy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "【US May ISM manufacturing PMI hits four-year high】US ISM manufacturing PMI rose to 54 in May, up 1.3 points from April and the highest reading since May 2022, driven by gains in new orders and production. The index has signaled expansion for five consecutive months. New orders accelerated to a four-month high and factory output increased. ISM reported input costs for manufacturers continued to rise sharply; the prices index eased from its peaks but remained near 2022 highs. ISM cited higher oil and commodity prices linked to conflict in the Middle East and the temporary closure of the Strait of Hormuz; oil has pulled back from peak levels but remains well above pre-conflict levels. ISM also noted stronger AI investment, more favorable tax policy and reduced trade-policy uncertainty as supporting manufacturing activity; consumer stockpiling may have contributed to demand."
+    },
+    {
+      "id": "mkt:019e8385-28db-7552-8900-082670ed25fe",
+      "time": "2026-06-01 22:10:02",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact mixed"
+      ],
+      "text": "CITI/YOUGOV survey: UK one-year inflation expectations in May fell to 4.7%; long-term expectations fell to 4.0%."
+    },
     {
       "id": "mkt:019e8384-f302-7552-8900-0284e18067e3",
       "time": "2026-06-01 22:09:48",
@@ -165,6 +232,15 @@
         "國際"
       ],
       "text": "【受伊朗暫停談判報道影響，歐元區和英國國債收益率擴大漲幅】有報道稱，伊朗暫停與美國的談判，以抗議以色列襲擊黎巴嫩，受此影響，歐元區政府債券和英國國債收益率飆升。伊朗塔斯尼姆通訊社(Tasnim)在X平臺上表示，伊朗將停止透過中間人與美國進行談判和資訊交換。Tradeweb的資料顯示，10年期德國國債收益率上升8.3個基點，至3.012%；法國10年期國債收益率上升10個基點，至3.636%；10年期義大利國債收益率躍升11個基點，至3.750%；10年期英國國債收益率上升8.2個基點，至4.889%。"
+    },
+    {
+      "id": "4911029",
+      "time": "2026-06-01 22:04:14",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【英國5月房價環比下跌0.6%】中東戰事引發的衝擊開始影響到英國的房產市場。全英房屋抵押貸款協會（Nationwide）6月1日公佈資料顯示，5月，英國房價環比下跌0.6%，同比上漲1.7%，均較4月房價漲幅明顯放緩。4月，英國平均房價環比上漲0.4%，同比上漲3%。全英房屋抵押貸款協會首席經濟學家Robert Gardner指出，5月，英國房價迎來了今年以來的首次月度下跌，這是意料之中的事。中東局勢帶來了不確定性，也使得英國的能源價格和抵押貸款利率上漲，這些均不利於房產市場。但Robert Gardner同時強調，近年來英國經濟和房地產市場展現出驚人的韌性。英國家庭財務狀況穩健，家庭總債務佔收入的比例處於近二十年來的最低水平，並且積累了相當可觀的儲蓄，如果中東衝擊能夠相對迅速地過去，並且能源價格在未來幾個季度恢復正常，那麼英國房地產市場的疲軟也將是短暫的。"
     },
     {
       "id": "te:markets:555417",
@@ -154167,55 +154243,6 @@
         "Impact bullish"
       ],
       "text": "【LILLY Verve-102 Phase 1b Cuts PCSK9 Up To 88%, LDL-C Up To 62%】LILLY Verve-102 single infusion cuts PCSK9 up to 88%, LDL-C up to 62% in Phase 1b; effect durable to 18 months; no serious treatment-related AEs; FDA Fast Track; Phase 2 Planned By Year-End"
-    },
-    {
-      "id": "mkt:019e5f7b-f678-711d-be5d-04c4c1452380",
-      "time": "2026-05-25 22:13:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "PICCHETTI, BRAZIL CENTRAL BANK Sees Q1 GDP Accelerating Again"
-    },
-    {
-      "id": "4898940",
-      "time": "2026-05-25 22:12:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：以色列對黎巴嫩南部提爾市的馬舒克鎮發動突襲。"
-    },
-    {
-      "id": "4898939",
-      "time": "2026-05-25 22:12:06",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "巴西央行行長：巴西2026 年第一季度經濟增速加快。"
-    },
-    {
-      "id": "4898938",
-      "time": "2026-05-25 22:10:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗議會國家安全與外交政策委員會發言人援引石油部長的話稱：霍爾木茲海峽已成為伊朗伊斯蘭共和國手中有力的博弈籌碼。"
-    },
-    {
-      "id": "mkt:019e5f79-5239-711d-be5c-faef559b8429",
-      "time": "2026-05-25 22:10:31",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "Energy",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "【Gold Rises On Iran Peace Hopes; Oil, Dollar Fall】Gold >1% Mon On Iran Peace Hopes; Oil, Dollar Fall; UBS: Lower Oil Cuts Fed inf Risk, Supports Gold"
     }
   ]
 }
