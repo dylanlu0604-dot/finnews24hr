@@ -1,7 +1,18 @@
 {
-  "updated": "2026-06-02 02:24:11",
-  "count": 17030,
+  "updated": "2026-06-02 02:28:02",
+  "count": 17027,
   "items": [
+    {
+      "id": "te:markets:555473",
+      "time": "2026-06-02 02:25:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Oat Drops by 3.54% — Top commodity losers are Oat (-3.54%) and Coffee (-2.11%). Gains are led by Sugar (2.56%) and Canola (1.95%)."
+    },
     {
       "id": "mkt:019e846a-e69d-7993-96f8-8ba4f82698aa",
       "time": "2026-06-02 02:20:58",
@@ -155443,47 +155454,6 @@
         "國際"
       ],
       "text": "美國加州州長紐森：已就加登格羅夫危險品事故申請並獲批總統緊急狀態公告。"
-    },
-    {
-      "id": "4899091",
-      "time": "2026-05-26 02:27:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列軍方表示，正在襲擊黎巴嫩貝卡谷地及其他多個區域的真主黨基礎設施。"
-    },
-    {
-      "id": "mkt:019e621b-d4e7-7dd8-b21d-c4f0a5b37536",
-      "time": "2026-05-26 02:27:31",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "Indonesia Rupiah Drops To Record Low 17,765/USD"
-    },
-    {
-      "id": "mkt:019e6219-fc40-7dd8-b21d-bc4ef6e0d80a",
-      "time": "2026-05-26 02:25:30",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Indonesia's Sovereign Wealth Fund Boosts AI Data Center Investment】Indonesia Investment Authority (INA) Deploys IDR 74.5trn (USD 4.2bln); ~30% Into Digital Infrastructure; AUM >USD 8bln; Data-Center Capacity 74MW 100% Leased; INA Caps Digital Allocation At 30% Annually; MOODY'S Sees >=USD 3trn Data-Center-Related Flows Over Next 5 Years"
-    },
-    {
-      "id": "te:markets:553507",
-      "time": "2026-05-26 02:25:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Orange Juice Drops by 2.70% — Top commodity losers are Orange Juice (-2.70%), Rapeseed (-2.18%) and Canola (-1.79%). Gains are led by Cocoa (0.58%)."
     }
   ]
 }
