@@ -1,7 +1,111 @@
 {
-  "updated": "2026-06-01 21:22:07",
-  "count": 16748,
+  "updated": "2026-06-01 21:25:58",
+  "count": 16763,
   "items": [
+    {
+      "id": "4910927",
+      "time": "2026-06-01 21:25:16",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "交易員已充分消化歐洲央行6月加息25個基點的預期，這是自5月4日以來的首次。"
+    },
+    {
+      "id": "4910926",
+      "time": "2026-06-01 21:25:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲6%，現報92.62美元/桶。"
+    },
+    {
+      "id": "4910925",
+      "time": "2026-06-01 21:24:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲5%，現報95.69美元/桶。"
+    },
+    {
+      "id": "mkt:019e835a-e808-7112-8c92-0d382de92f56",
+      "time": "2026-06-01 21:23:53",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "DXY rose to an intraday high of 99.23 on reports that Iran halted communications with the US."
+    },
+    {
+      "id": "4910924",
+      "time": "2026-06-01 21:23:37",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "蘇黎世機場股份公司股價下跌2.9%。"
+    },
+    {
+      "id": "4910923",
+      "time": "2026-06-01 21:23:27",
+      "tags": [
+        "觀點"
+      ],
+      "text": "加皇資本市場將Meta Platforms目標價維持在810.00美元。"
+    },
+    {
+      "id": "mkt:019e835a-7e5e-7112-8c92-033baaaeeb69",
+      "time": "2026-06-01 21:23:26",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold slipped below $4,470/oz, down 1.54% on the day."
+    },
+    {
+      "id": "4910922",
+      "time": "2026-06-01 21:23:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "美元創下日內新高。"
+    },
+    {
+      "id": "4910921",
+      "time": "2026-06-01 21:22:56",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "法蘭克福機場管理集團股價下跌3.2%。"
+    },
+    {
+      "id": "mkt:019e8359-e284-7112-8c91-f8b375dd3206",
+      "time": "2026-06-01 21:22:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Main crude futures contracts rose in short-term trade: SC crude up 3.25% at 603.8 yuan/bbl; low-sulfur fuel oil (LU) up 2.76% at 4,773 yuan/tonne; fuel oil up 2.24% at 3,924 yuan/tonne; bitumen up 3.21% at 4,373 yuan/tonne."
+    },
+    {
+      "id": "4910920",
+      "time": "2026-06-01 21:22:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4470美元/盎司，日內跌1.56%。"
+    },
     {
       "id": "mkt:019e8358-d803-7112-8c91-f6d4064ac506",
       "time": "2026-06-01 21:21:38",
@@ -10,6 +114,50 @@
         "Important"
       ],
       "text": "WTI crude futures jumped about 5% intraday to $91.74/bbl."
+    },
+    {
+      "id": "4910919",
+      "time": "2026-06-01 21:21:38",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破92美元/桶，日內漲5.31%。"
+    },
+    {
+      "id": "4910918",
+      "time": "2026-06-01 21:21:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4500美元/盎司，日內跌2.03%。"
+    },
+    {
+      "id": "4910917",
+      "time": "2026-06-01 21:21:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期金日內跌2%，現報4501.08美元/盎司。"
+    },
+    {
+      "id": "4910916",
+      "time": "2026-06-01 21:21:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破95美元/桶，日內漲4.44%。"
+    },
+    {
+      "id": "4910915",
+      "time": "2026-06-01 21:21:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲3%，現報2910.00元。"
     },
     {
       "id": "mkt:019e8358-b2dc-7112-8c91-edd9d2046c8e",
@@ -152647,14 +152795,6 @@
         "USDJPY"
       ],
       "text": "【Russian Wheat Export Prices Rise On Strong Ruble, Farmer Withholding】Russia 12.5% protein wheat FOB Jun–Jul $245/mt, +$5 WoW; New‑season Jul $242/mt, +$2 (IKAR); May exports est 3.0–3.3 mln mt (IKAR); Sovecon 12.5% range $242–244/mt vs $240–242 prior week."
-    },
-    {
-      "id": "4898893",
-      "time": "2026-05-25 21:22:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "Gas Buddy石油分析負責人Patrick De Haan：在正式簽署協議、大量船舶恢復通航前，美國汽油均價大機率將持續高於每加侖4美元。只有市場信心恢復、航運往來重回常態，油價才會大幅回落。"
     }
   ]
 }
