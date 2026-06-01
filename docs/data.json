@@ -1,7 +1,214 @@
 {
-  "updated": "2026-06-01 21:29:55",
-  "count": 16775,
+  "updated": "2026-06-01 21:33:55",
+  "count": 16785,
   "items": [
+    {
+      "id": "mkt:019e8363-7c8a-7112-8c92-61998f79a889",
+      "time": "2026-06-01 21:33:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IBM (IBM.N) shares opened 8.7% higher, on track to reach a record high."
+    },
+    {
+      "id": "4910951",
+      "time": "2026-06-01 21:33:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "IBM股價開盤上漲8.7%。"
+    },
+    {
+      "id": "mkt:019e8363-4e10-7112-8c92-5cd9358c318a",
+      "time": "2026-06-01 21:33:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【EU urges Israel to halt military escalation in Lebanon】At a Brussels briefing on June 1, the EU called on Israel to stop military escalation in Lebanon and to respect Lebanese sovereignty and territorial integrity, urging continued diplomatic efforts to secure long-term stability. On UNIFIL’s authorization, which expires end-2026, the EU said it is studying a new EU security and defense mission to help Lebanon strengthen state control and border security."
+    },
+    {
+      "id": "te:markets:555390",
+      "time": "2026-06-01 21:32:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gold Prices Dip on Inflation Fears — Gold prices erased early gains to trade at $4,470 per ounce in the first June session, approaching late-March lows. Rising oil prices, fueled by fresh Iran-US strikes, heightened inflation concerns and reinforced expectations that central banks will maintain tighter monetary policies for longer. Iran claimed it targeted a US airbase previously used in an attack on a telecommunications tower on Sirik Island, with both sides invoking \"self-defense.\" Over the weekend, the parties exchanged proposals to revise a draft deal aimed at extending the ceasefire and reopening the Strait of Hormuz, though progress remained uncertain. Traders now see a roughly 50% chance of at least one US rate hike by year-end. Attention shifts to upcoming US jobs data and remarks from Federal Reserve officials due later this week. Meanwhile, Fed Governor Jerome Powell, in his first comments since his chair term ended on May 15, warned about the risks of a politicized Federal Reserve."
+    },
+    {
+      "id": "4910950",
+      "time": "2026-06-01 21:32:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數漲超0.5%，海天網路漲108.43%，聲網漲5.37%，億咖通科技漲4.24%，小鵬汽車漲5.71%，金山雲漲5.54%。"
+    },
+    {
+      "id": "mkt:019e8362-5416-7112-8c92-57f81dbf5042",
+      "time": "2026-06-01 21:31:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "QCOM.O",
+        "Impact bearish"
+      ],
+      "text": "Qualcomm (QCOM.O) opened more than 6% lower."
+    },
+    {
+      "id": "4910949",
+      "time": "2026-06-01 21:31:50",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【羅文在福建調研市場監管領域深化群眾身邊不正之風和腐敗問題集中整治工作】5月26日至28日，市場監管總局黨組書記、局長羅文在福建調研市場監管領域深化群眾身邊不正之風和腐敗問題集中整治工作。調研組隨機抽取泉州市、廈門市的外賣商戶、養老服務機構、旅遊市場商家，現場調研網路餐飲食品安全治理、養老服務突出問題整治、旅遊行業強制消費問題糾治等情況，對發現的問題進行督促整改。要堅決貫徹落實中央紀委國家監委部署要求，深化市場監管領域群眾身邊不正之風和腐敗問題集中整治，嚴查網路餐飲食品安全問題，完善監管制度機制，切實維護人民群眾“舌尖上的安全”；要深化養老服務領域虛假宣傳專項整治，嚴厲打擊各類違法違規行為；要大力糾治人民群眾反映強烈的強制消費、誘導消費亂象，切實保障遊客合法權益。（市說新語）"
+    },
+    {
+      "id": "mkt:019e8361-c5e2-7112-8c92-48795df99476",
+      "time": "2026-06-01 21:31:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Chip Wars",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "ARM.O",
+        "MU.O"
+      ],
+      "text": "【US majors open lower; NVIDIA rises after Arm-based RTX Spark PC tie-up】US stocks opened lower on fresh Middle East developments: Dow -0.3%, S&P 500 -0.2%, Nasdaq -0.19%. NVIDIA (NVDA.O) rose 2.7% and Microsoft (MSFT.O) gained 3% after the pair unveiled an Arm‑architecture RTX Spark PC chip; NVIDIA said it is entering the PC CPU market. Arm (ARM.O) jumped 8.8%, Intel (INTC.O) fell 6.6%. Storage names rallied: Micron Technology (MU.O) gained over 5%, its share price topped $1,000, and SanDisk (SNDK.O) rose 3.4%."
+    },
+    {
+      "id": "4910947",
+      "time": "2026-06-01 21:31:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "英偉達股價開盤上漲3%，ARM ADR上漲12%。"
+    },
+    {
+      "id": "4910946",
+      "time": "2026-06-01 21:31:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "高通股價開盤下跌7.6%，英特爾下跌6.7%，AMD下跌3.8%。"
+    },
+    {
+      "id": "4910945",
+      "time": "2026-06-01 21:31:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4490美元/盎司，日內跌2.27%。"
+    },
+    {
+      "id": "4910944",
+      "time": "2026-06-01 21:30:46",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股開盤：三大股指漲跌不一】道指跌0.38%，標普500指數跌0.16%，納指持平。Strategy跌8.23%，高通跌7.33%，Coinbase Global跌6.46%，美高梅漲11.31%，Arm Holdings漲10.35%，現在服務漲8.94%。“七姐妹”方面：微軟漲2.82%，英偉達漲2.48%，Meta Platforms漲0.11%，蘋果跌0.89%，谷歌跌1.30%，特斯拉跌2.02%，亞馬遜跌2.16%。"
+    },
+    {
+      "id": "4910943",
+      "time": "2026-06-01 21:30:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "美高梅度假村股價開盤上漲11%。"
+    },
+    {
+      "id": "4910942",
+      "time": "2026-06-01 21:30:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特同時強調，應依據相關國際公約，維護黎巴嫩主權、保護黎巴嫩民眾安全。"
+    },
+    {
+      "id": "4910941",
+      "time": "2026-06-01 21:30:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "沙特呼籲國際社會履行職責，制止此類侵略行徑，終止以色列企圖向黎巴嫩境內擴張的軍事行動。"
+    },
+    {
+      "id": "te:markets:555389",
+      "time": "2026-06-01 21:30:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Shopify Stock Price Hits 4-week High — Shopify shares increased to 168.80 CAD, the highest since May 2026. Over the past 4 weeks, Shopify Inc gained 1.53%, and in the last 12 months, it increased 14.16%."
+    },
+    {
+      "id": "4910940",
+      "time": "2026-06-01 21:30:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大5月標普全球製造業採購經理人指數 52.9，前值53.3。"
+    },
+    {
+      "id": "te:markets:555388",
+      "time": "2026-06-01 21:30:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Adobe Systems Stock Price Hits 11-week High — Adobe Systems shares increased to 271.39 USD, the highest since March 2026. Over the past 4 weeks, Adobe Systems gained 5.33%, and in the last 12 months, it decreased 37.55%."
+    },
+    {
+      "id": "mkt:019e8360-b090-7112-8c92-4290f33b8ad7",
+      "time": "2026-06-01 21:30:07",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "Canada's S&P Global manufacturing PMI eased to 52.9 in May from 53.3 in April."
+    },
+    {
+      "id": "4910939",
+      "time": "2026-06-01 21:30:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "通用動力公司將斥資2億美元在德克薩斯州建設彈藥廠。"
+    },
+    {
+      "id": "mkt:019e8360-80ff-7112-8c92-3c0d9804bc2a",
+      "time": "2026-06-01 21:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | RBC Manufacturing PMI (May) | actual 52.9 | previous 53.3"
+    },
+    {
+      "id": "4910938",
+      "time": "2026-06-01 21:29:52",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊媒稱伊朗停止與美交換資訊】據伊朗塔斯尼姆通訊社今天（6月1日）報道，鑑於以色列在黎巴嫩的戰爭罪行持續升級，考慮到黎巴嫩停火是伊美停火的先決條件之一，伊朗談判團隊停止“透過調解人與美國方面進行對話和文字交換”。此外據報道，地區抵抗陣線和伊朗已制定計劃，要徹底封鎖霍爾木茲海峽，並啟動包括曼德海峽在內的其他戰線，以懲罰以色列及其支持者。（CCTV國際時訊）"
+    },
     {
       "id": "4910937",
       "time": "2026-06-01 21:29:09",
@@ -122,6 +329,15 @@
         "公司"
       ],
       "text": "【東陽光：控股子公司簽署100億元至120億元算力服務採購合同】東陽光公告，控股子公司東莞東陽光雲智算科技有限公司與B公司簽署《算力服務採購合同》，合同預計總金額區間為人民幣100億元至120億元。"
+    },
+    {
+      "id": "em:qqyh_ozyh:202606013756307049",
+      "time": "2026-06-01 21:26:23",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "【交易員已充分消化歐洲央行6月加息25個基點的預期】交易員已充分消化歐洲央行6月加息25個基點的預期，這是自5月4日以來的首次。"
     },
     {
       "id": "mkt:019e835d-21b9-7112-8c92-113fade15f94",
@@ -152784,127 +153000,6 @@
         "公司"
       ],
       "text": "【白羽雞養殖行業高景氣持續，業內人士建議適度控制產能】5月份以來，受優質雞苗稀缺、禽肉消費持續向好影響，白羽雞養殖行業高景氣持續。山東菏澤白羽肉雞養殖戶李先生表示，目前一隻雞的養殖利潤在2元以上，屬於近幾年的較好水平；雞苗方面，目前益生股份父母代雞苗報價66元/套，商品代雞苗報價4.1元/羽，均為年內高點。多位業內人士看好後市行情，益生股份總裁林傑表示，祖代種雞的減少影響14個月以後商品代雞苗的供給，預計2026年下半年優質商品代雞苗供給較上半年偏緊，價格較好。同時，有業內人士建議適度控制產能，不要讓“白雞賣白菜價”行情重演。"
-    },
-    {
-      "id": "4898905",
-      "time": "2026-05-25 21:33:39",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "【中國人民銀行行長潘功勝會見法國央行行長德加洛】2026年5月25日，中國人民銀行行長潘功勝會見法國央行行長德加洛，雙方就全球和中國經濟形勢、中法及中歐經濟金融合作以及全球經濟金融治理等議題交換意見。潘功勝表示，近年來在中法兩國元首戰略引領下，中法關係與合作取得積極進展。當前，全球經濟面臨地緣衝突等多重挑戰，中法、中歐要加強戰略溝通，共同維護多邊主義，攜手構建更加公平、公正、包容、有韌性的全球金融治理體系。中國堅定推進金融業對外開放，歡迎包括法國在內的各國金融機構深耕中國市場。中國人民銀行願繼續深化與法國央行的交流合作，推動中法、中歐金融合作不斷邁上新臺階。德加洛表示，在當前複雜多變的國際形勢下，深化中法、中歐合作意義重大。法國央行高度重視與中國人民銀行的合作關係，願進一步加強溝通協調，共同推動完善全球經濟金融治理。會後，德加洛在中國人民銀行作學術演講，並與工作人員進行交流。中國人民銀行副行長宣昌能參加會見並主持演講活動。中國金融學會理事會會長易綱出席講座（中國人民銀行）"
-    },
-    {
-      "id": "4898904",
-      "time": "2026-05-25 21:33:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯外交部：打擊將同時針對決策中心與指揮所。"
-    },
-    {
-      "id": "mkt:019e5f57-15ae-711d-be5c-b6b447b249a0",
-      "time": "2026-05-25 21:33:11",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "XAUUSD",
-        "Impact mixed"
-      ],
-      "text": "Moscow Begins Series Of Strikes On Kyiv Defense-Industrial Facilities, Russian Foreign Ministry Says - TASS"
-    },
-    {
-      "id": "mkt:019e5f56-b19b-711d-be5c-a9a7835f24dd",
-      "time": "2026-05-25 21:32:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "S&P/TSX Composite Hits Intraday Record High"
-    },
-    {
-      "id": "4898903",
-      "time": "2026-05-25 21:32:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯外交部：俄將對基輔境內烏克蘭國防工業設施發動系列打擊。"
-    },
-    {
-      "id": "mkt:019e5f56-42f8-711d-be5c-a68ecae24058",
-      "time": "2026-05-25 21:32:18",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "US10Y"
-      ],
-      "text": "TASS: Russian Foreign Ministry Urges Foreign Nationals To Leave Kyiv"
-    },
-    {
-      "id": "4898902",
-      "time": "2026-05-25 21:32:11",
-      "tags": [
-        "市場"
-      ],
-      "text": "多倫多股票指數盤中創歷史新高，突破上週五峰值。"
-    },
-    {
-      "id": "4898901",
-      "time": "2026-05-25 21:32:00",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "俄羅斯外交部：敦促外國公民撤離基輔。"
-    },
-    {
-      "id": "4898900",
-      "time": "2026-05-25 21:31:54",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "苯乙烯連續主力合約日內跌3%，現報8828.00元。"
-    },
-    {
-      "id": "4898899",
-      "time": "2026-05-25 21:31:42",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【美伊重啟談判 國際油價一度跌超6% 美油回落有待霍爾木茲通航】週一早盤，美國政府與伊朗就重啟霍爾木茲海峽航運、結束中東衝突展開談判，國際油價應聲下跌。 截至週一早盤，北美基準西德克薩斯輕質原油期貨一度下跌超6.1%，報90.68美元/桶；全球基準布倫特原油期貨同樣下跌6.1%，報價97.22美元/桶。 油價回落帶動美國成品油零售價小幅下調。美國汽車協會資料顯示，週一普通汽油均價超每加侖4.5美元，較週日、一週前均微降不足1美分。儘管油價處於高位，該機構上週預估，陣亡將士紀念日週末自駕出行人數將突破3900萬，創下歷史新高。 美國汽車協會發言人Tiffany Wright表示：“出行規模再創紀錄，但同比增幅創下十餘年來最低水平。出行需求依舊旺盛，不過高油價與持續通脹，或將促使民眾縮短行程、延後出行計劃，或是選擇短途出遊。”特朗普週一表態，美伊談判最終要麼達成一份實質性協議，要麼談判無果告終。 Gas Buddy石油分析負責人Patrick De Haan週日在社交媒體發文稱，在正式簽署協議、大量船舶恢復通航前，美國汽油均價大機率將持續高於每加侖4美元。"
-    },
-    {
-      "id": "mkt:019e5f54-d950-711d-be5c-99d23f78806d",
-      "time": "2026-05-25 21:30:30",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Qatar Confirms Iranian Senior Delegation Meeting In Doha】Qatar Foreign Ministry Says Iranian Delegation Including Parliament Speaker Mohammad Bagher Ghalibaf And Negotiator Abbas Araghchi In Doha To Discuss Possible US‑Iran Deal; Agenda: Strait Of Hormuz, HEU Stockpile, Frozen Overseas Funds; Iran Central Bank Governor To Cover Financial Terms"
-    },
-    {
-      "id": "4898898",
-      "time": "2026-05-25 21:30:23",
-      "tags": [
-        "市場"
-      ],
-      "text": "多倫多證券交易所S&P/TSX綜合指數（.GSPTSE）開盤上漲164.45點，漲幅0.48%，報34635.81點。"
-    },
-    {
-      "id": "4898897",
-      "time": "2026-05-25 21:30:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "【航行警告！南海實彈射擊訓練】據中國海事局網站訊息，珠海海事局釋出航行警告，5月26日和28日每天7時至19時，南海部分海域進行實彈射擊，禁止駛入。"
     }
   ]
 }
