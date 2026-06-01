@@ -1,7 +1,42 @@
 {
-  "updated": "2026-06-01 08:23:17",
-  "count": 15977,
+  "updated": "2026-06-01 08:27:07",
+  "count": 15978,
   "items": [
+    {
+      "id": "4909238",
+      "time": "2026-06-01 08:25:22",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【日經指數上漲 受科技股領漲提振】日本股市早盤走高，因科技股的漲幅抵消了汽車股下跌的影響。 日經指數上漲0.4%，至66611.29點。 鎧俠上漲9.1%，軟銀集團上漲5.6%，而日產汽車下跌5.0%，本田汽車下跌4.3%。涵蓋範圍更廣的東證指數下跌0.3%，至3946.03點。投資者正關注中東地區的任何事態發展及其對原油價格的影響。"
+    },
+    {
+      "id": "4909237",
+      "time": "2026-06-01 08:24:43",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【中信證券：展望下半年預計銀行基本面將延續修復趨勢，行業估值提升可期】中信證券研報稱，今年以來，公募FOF規模快速增長的背後，銀行財富管理模式升級起到了重要作用。基於FOF的資配平臺搭建是銀行財富業務由“代理模式”走向“投顧模式”的重要一步，財富模式升級助力銀行收入結構最佳化。5月步入金融政策和銀行業績真空期，預計市場表現更多受市場風格和資金面影響。上週銀行板塊小幅上漲1.02%，位居30箇中信一級行業第6位。資金面看，上週部分銀行管理層表態，隱含被動和證金資金流出高峰已過，銀行股資金供需格局邊際轉暖。展望下半年，預計銀行基本面將延續修復趨勢，行業估值提升可期，且股息率持續對低風偏資金具備吸引力，具備確定性強的絕對收益空間。"
+    },
+    {
+      "id": "mkt:019e8091-5f65-7777-bd26-e31dce799703",
+      "time": "2026-06-01 08:24:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Colombia's incumbent Petro rejects preliminary presidential vote count】On May 31 President Gustavo Petro said on social media he refuses to recognize preliminary presidential vote counts, saying the rapid count has no legal force and is not an official public result. The National Civil Registry's early tally, with 95.12% of ballots counted, showed no candidate secured a majority and a runoff is required. The preliminary count put far-right independent candidate Avelardo de la Espriella on 43.62% and ruling left coalition candidate Iván Cepeda on 41.13%."
+    },
+    {
+      "id": "4909236",
+      "time": "2026-06-01 08:24:08",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信證券：特斯拉機器人專利佈局浮出水面，規模量產在即】中信證券研報稱，近期世界智慧財產權組織（WIPO）公開了新一批特斯拉機器人相關專利，靈巧手是其機器人近期的核心升級點之一。隨著特斯拉機器人外觀、專利等細節公開，我們判斷V3版本設計接近定型，特斯拉機器人即將進入量產階段。特斯拉兼具領先的AI大模型技術與規模化製造能力，我們堅定看好特斯拉機器人以及供應鏈企業。"
+    },
     {
       "id": "mkt:019e808f-38f6-7777-bd26-dfcb01aeaf5f",
       "time": "2026-06-01 08:22:10",
@@ -145193,34 +145228,6 @@
         "觀點"
       ],
       "text": "【中信證券：利率區間震盪格局仍難打破】中信證券研報指出，展望下半年，預計經濟基本面將延續內需弱、外需高景氣的結構特徵，經濟增速的波動性較小；雖然社融增速逐步見底，但出口高景氣形成的結匯資金以及“存款搬家”將繼續支撐債券配置需求。貨幣政策總量操作時點後移，央行回籠中長期流動性引導資金利率迴歸政策利率附近執行。利率區間震盪格局仍難打破，預計下半年10年期國債到期收益率維持在1.7%~1.9%區間執行，關注資金面迴歸中性和通脹回升預期差的波段機會。"
-    },
-    {
-      "id": "4897573",
-      "time": "2026-05-25 08:24:20",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【日經指數上漲逾2% 創歷史新高】受對美伊可能達成和平協議的希望提振，日本日經225指數漲幅進一步擴大，最新上漲2.10%，報64667.42點，創歷史新高。晶片和建築類股領漲。鎧俠上漲5.3%，大成建設上漲7.8%。在美國總統特朗普週日表示他不急於與伊朗達成結束戰爭的協議後，投資者正密切關注中東局勢的發展。"
-    },
-    {
-      "id": "te:markets:553230",
-      "time": "2026-05-25 08:24:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Gasoline Futures Hit 4-Week Low — Gasoline futures for delivery in New York Harbor shed more than 4% to around $3.30 per gallon, the lowest in over four weeks, as optimism over US and Iran reaching a deal eased concerns about deeper disruptions to global energy supplies. President Trump said talks with Iran were progressing constructively, though he stressed the US would not rush an agreement. He added that a deal, including the reopening of the Strait of Hormuz, could be announced soon, but the US blockade would remain in place until negotiations are finalized. Energy exports from the region have been largely halted since early March, driving global oil inventories down at a record pace, according to the IEA, while gasoline futures remain up more than 80% this year. Meanwhile, US gasoline inventories fell for a 14th straight week in mid-May as refineries ran near full capacity using SPR feedstock. Output was also curtailed as refiners shifted production toward distillates to help prevent diesel and jet fuel shortages."
-    },
-    {
-      "id": "4897572",
-      "time": "2026-05-25 08:23:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "【奧克股份：參股公司申請公開發行股票獲得中國證監會同意註冊批覆】奧克股份(300082)5月25日早間公告，公司參股公司武漢吉和昌新材料股份有限公司（簡稱“吉和昌”）近日收到中國證監會下發的《關於同意武漢吉和昌新材料股份有限公司向不特定合格投資者公開發行股票註冊的批覆》。"
     }
   ]
 }
