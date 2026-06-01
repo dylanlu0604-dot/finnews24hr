@@ -1,7 +1,110 @@
 {
-  "updated": "2026-06-01 19:36:09",
-  "count": 16580,
+  "updated": "2026-06-01 19:40:04",
+  "count": 16584,
   "items": [
+    {
+      "id": "mkt:019e82fa-c9cd-7112-8c8f-18c5f6f4d56f",
+      "time": "2026-06-01 19:38:54",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Turkey's energy minister said state pipeline company BOTAS is negotiating with GAZPROM on a gas agreement."
+    },
+    {
+      "id": "4910673",
+      "time": "2026-06-01 19:38:31",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "高盛重申了對英偉達的買入評級和285美元的目標價，理由是更強的AI PC雄心、持續的資料中心領導地位，以及Agent AI的日益採用；英偉達的Vera Rubin推出仍按計劃進行，並認為該股有進一步上漲空間。"
+    },
+    {
+      "id": "mkt:019e82fa-6ff8-7112-8c8f-14f270e0e7ef",
+      "time": "2026-06-01 19:38:31",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "Goldman Sachs reiterated its Buy rating on NVIDIA and maintained a $285 PT, citing the firm's more aggressive positioning in the AI PC market, continued data-center leadership and accelerating adoption of AI agents. Progress on the next-generation Vera Rubin platform remains on schedule, and Goldman sees further upside for the shares."
+    },
+    {
+      "id": "4910672",
+      "time": "2026-06-01 19:37:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國自研高精度大氣風場探測系統為神舟飛船安全返回提供精確氣象保障】神二十二飛船返回艙近日成功著陸東風著陸場，記者1日從北京某研究所獲悉，我國自主研發的高精度大氣風場探測系統為飛船安全返回提供了精確氣象保障，為飛船落點精準預測提供了關鍵資料支撐。（新華社）"
+    },
+    {
+      "id": "mkt:019e82f8-e4a4-7112-8c8f-0d32f6f8a225",
+      "time": "2026-06-01 19:36:49",
+      "tags": [
+        "MKT News",
+        "Market Regions"
+      ],
+      "text": "【Shudao Equipment says it has materially entered commercial space support sector】Shudao Equipment said at a May 28 roadshow it has materially entered the commercial space-support market via its own operations, supplying rocket‑propellant‑grade liquid methane production equipment to a domestic launch base and liquid air‑separation units to the Jiuquan space industry park. The company said fund allocations to industrial gas and hydrogen projects will support implementation of commercial-space applications, strengthen related core technologies and product capabilities, and promote industry-level synergies."
+    },
+    {
+      "id": "mkt:019e82f8-d69d-7112-8c8f-03053e3fce0f",
+      "time": "2026-06-01 19:36:46",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "PBR.O",
+        "Impact bearish"
+      ],
+      "text": "Petrobras will cut jet fuel prices by 14.2%."
+    },
+    {
+      "id": "4910671",
+      "time": "2026-06-01 19:36:20",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【華能蒙電：股票交易異常波動 一季度淨利潤同比降24.63%】華能蒙電公告稱，公司股票2026年5月28日、5月29日、6月1日連續三個交易日內收盤價格漲幅偏離值累計超20%，屬異常波動。5月25日至6月1日股價累計漲46.94%，偏離上證指數48.28%、所屬行業指數37.39%。公司最新市盈率、市淨率均高於行業。經自查，公司生產經營正常，無應披露未披露重大事項。2026年一季度，公司淨利潤6.94億元，同比降24.63%，受煤炭和電價波動影響。"
+    },
+    {
+      "id": "4910670",
+      "time": "2026-06-01 19:36:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蜀道裝備：已透過自有業務實質性切入商業航天配套領域】蜀道裝備(300540)5月28日在路演活動中表示，目前，公司已透過自有業務實質性切入商業航天配套領域，包括為國內航天基地供應火箭推進劑級液態甲烷生產裝置及酒泉航天產業園液體空分裝置。基金投向工業氣體、氫能等領域專案，將為公司在商業航天等戰略性新興產業應用場景中落地實施具體專案提供有力保障，並有利於推動公司增強相關核心技術儲備和產品支撐能力，實現良好的產業協同效果。"
+    },
+    {
+      "id": "4910669",
+      "time": "2026-06-01 19:36:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【甘肅電投金昌發電公司與金川集團熱電公司簽訂工業蒸汽供汽合作協議】近日，甘肅電投金昌發電公司與金川集團熱電公司聯合舉辦技術交流會，並簽訂工業蒸汽供汽合作協議。下一步，雙方將持續深化多領域、全方位能源協同。"
+    },
+    {
+      "id": "4910668",
+      "time": "2026-06-01 19:35:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【深南電路：籌劃定增事項 用於專案建設和日常經營】深南電路(002916.SZ)公告稱，為滿足業務發展需要，公司擬透過向特定物件發行股票方式募集資金，用於專案建設和日常經營。該事專案前處於籌劃階段，尚需經公司董事會、股東會審議及國家相關監管部門批准，最終能否取得批准及時間存在不確定性。公司將根據進展情況履行資訊披露義務。"
+    },
+    {
+      "id": "4910667",
+      "time": "2026-06-01 19:35:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈薩克能源部長：石油日產量已回升至29萬噸。"
+    },
     {
       "id": "4910666",
       "time": "2026-06-01 19:35:14",
@@ -151076,73 +151179,6 @@
         "國際"
       ],
       "text": "訊息人士：伊朗首席談判代表與外交部長目前身處多哈，將就可能達成的解決衝突的美伊協議與卡達總理舉行會談。"
-    },
-    {
-      "id": "4898752",
-      "time": "2026-05-25 19:39:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "據港交所檔案：國聯綠色科技(無錫)股份有限公司向港交所提交上市申請書。"
-    },
-    {
-      "id": "te:markets:553460",
-      "time": "2026-05-25 19:39:40",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Oil Prices Tumble — WTI crude futures tumbled nearly 6% to below $91 a barrel on Monday, as optimism grew that the US and Iran could soon reach an agreement to end the conflict and reopen the Strait of Hormuz. Still, uncertainty remains high, with officials on both sides signaling that key issues are yet to be resolved and continuing to send mixed messages on the progress of negotiations. US President Trump said that “the deal with Iran will either be a great and meaningful one, or there will be no deal,” while an Iranian Foreign Ministry spokesman noted that “a consensus was reached on many of the topics discussed, but no one can claim that the signing of an agreement is imminent”. Despite the lingering uncertainty, ship-tracking data indicated a gradual easing in regional disruptions, with three liquefied natural gas tankers recently passing through the Strait of Hormuz en route to Pakistan, China, and India."
-    },
-    {
-      "id": "te:economy:553459",
-      "time": "2026-05-25 19:39:28",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Brazil",
-        "Economic Optimism Index",
-        "Importance 1"
-      ],
-      "text": "Brazil's Consumer Confidence Weakens — Brazil's seasonally adjusted FGV-IBRE Consumer Confidence Index retreated 0.3 points to 88.8 in May 2026, following two consecutive months of improvement. The survey showed mixed signals across components, with the Expectations Index (IE) falling 1.0 point to 91.3, while the Current Situation Index (ISA) rose 0.8 points to 86.1, its highest level since December 2014 (86.5). The decline was driven by weaker expectations for the coming months alongside a still favorable assessment of current conditions, with the current situation index holding at its highest level since end-2014. Consumers earning up to R$4,800 showed a deterioration in future expectations, reflecting greater sensitivity to economic uncertainty. Overall, the May results point to stable current conditions but increased caution about the outlook ahead,” said Anna Carolina Gouveia, economist at FGV IBRE."
-    },
-    {
-      "id": "4898751",
-      "time": "2026-05-25 19:39:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "【“十五五”時期我國新型電網投資預計將超過5萬億元】記者25日從國家發展改革委獲悉，“十五五”時期我國新型電網投資預計將超過5萬億元。新型電網建設對於保障能源安全、促進綠色發展具有重要意義。目前，我國已經建成規模巨大、執行安全、技術先進的全國堅強互聯大電網，有力保障了全國超過10萬億千瓦時的年度用電量，有效支撐了超過18億千瓦的新能源併網消納。（新華社）"
-    },
-    {
-      "id": "4898750",
-      "time": "2026-05-25 19:38:44",
-      "tags": [
-        "宏觀",
-        "兩會"
-      ],
-      "text": "【王滬寧主持召開全國政協主席會議】政協第十四屆全國委員會第五十一次主席會議25日在京召開。中共中央政治局常委、全國政協主席王滬寧主持並講話。 會議傳達學習貫徹習近平總書記近期重要講話和重要指示精神。王滬寧表示，要深入學習貫徹習近平總書記關於當前經濟形勢和經濟工作的重要講話精神，把思想和行動統一到中共中央對當前經濟形勢的科學判斷和對經濟工作的決策部署上來，引導政協委員圍繞中共中央部署的重要任務加強調研協商，提出前瞻性、針對性、可操作性強的意見和建議，深入界別群眾宣傳闡釋習近平經濟思想和我國宏觀經濟政策，統一思想、提振信心、凝聚力量。要深入學習貫徹習近平總書記在加強基礎研究座談會上的重要講話精神，組織引導政協委員著眼實現高水平科技自立自強、建設科技強國目標，圍繞堅持“四個面向”戰略導向和基礎研究的主攻方向、重點領域積極協商議政、建言獻策。要深入學習貫徹習近平總書記關於提高防災減災救災能力的重要講話精神，深刻把握高質量發展和高水平安全的辯證關係，圍繞做好防災減災救災工作等加強調查研究，提出意見和建議。要深入學習貫徹習近平總書記就推動哲學社會科學高質量發展作出的重要指示精神，聚焦學習研究宣傳習近平新時代中國特色社會主義思想，組織政協委員開展黨的創新理論研究闡釋，推出高質量研究成果。(新華社)"
-    },
-    {
-      "id": "4898749",
-      "time": "2026-05-25 19:37:10",
-      "tags": [
-        "市場"
-      ],
-      "text": "義大利10年期國債收益率跌至3.657%，創4月17日以來新低，單日下行12個基點。"
-    },
-    {
-      "id": "te:markets:553458",
-      "time": "2026-05-25 19:36:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Prices Fall Sharply — Brent crude futures tumbled nearly 6% to below $98 a barrel on Monday, as optimism grew that the US and Iran could soon reach an agreement to end the conflict and reopen the Strait of Hormuz. Still, uncertainty remains high, with officials on both sides signaling that key issues are yet to be resolved and continuing to send mixed messages on the progress of negotiations. US President Trump said that “the deal with Iran will either be a great and meaningful one, or there will be no deal,” while an Iranian Foreign Ministry spokesman noted that “a consensus was reached on many of the topics discussed, but no one can claim that the signing of an agreement is imminent”. Despite the lingering uncertainty, ship-tracking data indicated a gradual easing in regional disruptions, with three liquefied natural gas tankers recently passing through the Strait of Hormuz en route to Pakistan, China, and India."
     }
   ]
 }
