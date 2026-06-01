@@ -1,7 +1,216 @@
 {
-  "updated": "2026-06-01 08:31:13",
-  "count": 15972,
+  "updated": "2026-06-01 08:35:04",
+  "count": 15990,
   "items": [
+    {
+      "id": "mkt:019e809a-5c07-766e-87ad-af980926f749",
+      "time": "2026-06-01 08:34:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Chinese Jiuzhou Group said it has recently signed power-equipment supply contracts in Indonesia and Saudi Arabia to deliver DC power units and UPS systems to large local industrial parks."
+    },
+    {
+      "id": "4909250",
+      "time": "2026-06-01 08:34:05",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事鮑威爾：美聯儲不考慮政黨或政治人物的興衰。"
+    },
+    {
+      "id": "te:economy:555113",
+      "time": "2026-06-01 08:34:01",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "Japan Manufacturing PMI Confirmed at Lower Level — The S&P Global Japan Manufacturing PMI was confirmed at 54.5 in May 2026, matching the preliminary estimate and following a reading of 55.1 in April, which was the highest since January 2022. However, the latest reading still signaled expansion, albeit at a slower pace, as output continued to rise."
+    },
+    {
+      "id": "4909249",
+      "time": "2026-06-01 08:32:52",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【九洲集團成功簽約印尼、沙特專案】 據九洲集團訊息，近日，九洲集團成功簽約印尼、沙特電力裝備供貨專案，為當地大型工業產業園區提供直流電源及UPS系統裝置。"
+    },
+    {
+      "id": "4909248",
+      "time": "2026-06-01 08:32:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "韓聯社報道：KAKAO員工工會將於6月10日舉行4小時部分罷工。"
+    },
+    {
+      "id": "4909247",
+      "time": "2026-06-01 08:32:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "CFETS：5月29日人民幣匯率指數按周漲0.19至100.66。"
+    },
+    {
+      "id": "mkt:019e8098-66b4-7777-bd27-43ecd1668356",
+      "time": "2026-06-01 08:31:59",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Governor Powell, in remarks accepting the Kennedy Library Foundation award, did not comment on monetary policy or the economic outlook."
+    },
+    {
+      "id": "4909246",
+      "time": "2026-06-01 08:31:52",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國KOSPI指數上漲2%，至8646.96，續創歷史新高。"
+    },
+    {
+      "id": "mkt:019e8098-4e8e-7777-bd27-3a3ccc25e403",
+      "time": "2026-06-01 08:31:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions"
+      ],
+      "text": "South Korea's KOSPI rose 2.00% intraday, extending gains to a fresh record high."
+    },
+    {
+      "id": "mkt:019e8097-d0c1-7777-bd27-31ea7c561b17",
+      "time": "2026-06-01 08:31:24",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Governor Powell warned a politicized Fed would destroy public trust and said the Fed and other institutions are facing a \"stress test\"."
+    },
+    {
+      "id": "4909245",
+      "time": "2026-06-01 08:31:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "鮑威爾在接受肯尼迪圖書館基金會獎項的致詞中，未對貨幣政策與經濟前景發表評論。"
+    },
+    {
+      "id": "4909244",
+      "time": "2026-06-01 08:31:11",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事鮑威爾警告表示，政治化的美聯儲將摧毀公眾信任；並稱美聯儲及其他民主機構正面臨\"壓力測試\"。"
+    },
+    {
+      "id": "4909243",
+      "time": "2026-06-01 08:30:31",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "韓國5月製造業PMI 54.8，前值 53.6。\n日本5月製造業PMI終值 54.5，初值 54.5。\n越南5月製造業PMI 52.8，前值 50.5。"
+    },
+    {
+      "id": "em:jjsj_rbsj:202606013755295767",
+      "time": "2026-06-01 08:30:26",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本5月製造業PMI終值報54.5，前值54.5。"
+    },
+    {
+      "id": "mkt:019e8096-c719-7777-bd27-2f70411ae9b8",
+      "time": "2026-06-01 08:30:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan May final manufacturing PMI 54.5, unchanged from prior 54.5."
+    },
+    {
+      "id": "mkt:019e8096-b481-7777-bd27-222b6d8e45a5",
+      "time": "2026-06-01 08:30:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Taiwan Nikkei Manufacturing PMI 56.1 in May, up from 55.3 in April."
+    },
+    {
+      "id": "mkt:019e8096-b450-7777-bd27-1b386a996e21",
+      "time": "2026-06-01 08:30:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "S&P Global Vietnam Manufacturing PMI rose to 52.8 in May from 50.5 in April, remaining in expansion territory."
+    },
+    {
+      "id": "mkt:019e8096-b411-7777-bd27-159dd8889ba5",
+      "time": "2026-06-01 08:30:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's HSBC manufacturing PMI rose to 54.8 in May from 53.6 previously."
+    },
+    {
+      "id": "mkt:019e8096-79e8-7777-bd27-0db36d1df134",
+      "time": "2026-06-01 08:30:01",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "【CITIC Securities: Fed dovish forces clearly weakened】CITIC Securities says the Fed's internal dovish camp has clearly weakened. Board turnover is steady: over the next two years only Jerome Powell faces potential turnover when his term ends in 2028; regional Fed presidents face no formal departure pressure before 2028. New chair Wash was sworn in on May 22 and did not signal dovishness. Overall policy stance is dominated by neutral to neutral‑hawkish views; US economic data and geopolitical risks remain key watch points."
+    },
+    {
+      "id": "mkt:019e8096-6518-7777-bd27-065912e86410",
+      "time": "2026-06-01 08:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Manufacturing PMI Final (May) | actual 54.5 | previous 54.5"
+    },
+    {
+      "id": "mkt:019e8096-64c4-7777-bd26-fe15f3a9fb18",
+      "time": "2026-06-01 08:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Taiwan | Manufacturing PMI (May) | actual 56.1 | previous 55.3"
+    },
+    {
+      "id": "mkt:019e8096-649c-7777-bd26-f6d2ad6be2f4",
+      "time": "2026-06-01 08:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "South Korea | Manufacturing PMI (May) | actual 54.8 | previous 53.6"
+    },
     {
       "id": "4909242",
       "time": "2026-06-01 08:29:17",
@@ -19,6 +228,19 @@
         "國際"
       ],
       "text": "韓國LG電子股價上漲28%。"
+    },
+    {
+      "id": "mkt:019e8093-fba6-7777-bd26-eedeed161354",
+      "time": "2026-06-01 08:27:22",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "005930.KS",
+        "Impact bullish",
+        "000660.KS"
+      ],
+      "text": "South Korea's monthly semiconductor exports surged to a record $37.2 billion in May, data from the Ministry of Trade, Industry and Energy showed."
     },
     {
       "id": "4909240",
@@ -145135,49 +145357,6 @@
         "其他"
       ],
       "text": "【8股獲券商買入評級，比亞迪目標漲幅達53.73%】Wind資料顯示，5月22日，共有8只個股獲券商買入評級，其中2只個股公佈了目標價格。按最高目標價計算，比亞迪、海博思創目標漲幅排名居前，漲幅分別達53.73%、16.59%。從評級調整方向來看，3只個股評級維持不變，5只個股為首次評級。從獲買入評級個股所屬Wind行業來看，商業和專業服務、食品、飲料與菸草、汽車與汽車零部件買入評級個股數量最多，分別有2只、2只、1只。"
-    },
-    {
-      "id": "4897587",
-      "time": "2026-05-25 08:33:22",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本東證指數創歷史新高，超過了2月27日的收盤價。"
-    },
-    {
-      "id": "4897586",
-      "time": "2026-05-25 08:32:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "歐洲斯托克50指數期貨上漲0.6%，德國DAX指數期貨上漲0.6%。"
-    },
-    {
-      "id": "4897585",
-      "time": "2026-05-25 08:31:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【碧水源：公司沒有云南水務的應收賬款】碧水源5月25日在互動平臺表示，公司沒有云南水務的應收賬款，沒有為雲南水務擔保貸款。"
-    },
-    {
-      "id": "em:qqyh_ozyh:202605253747585078",
-      "time": "2026-05-25 08:31:36",
-      "tags": [
-        "央行",
-        "歐洲央行"
-      ],
-      "text": "【歐洲央行行長拉加德預計央行可能在6月上調通脹預測】當地時間5月24日，歐洲央行行長拉加德表示，決策者下月開會時，很可能上調通脹預測。拉加德說，歐洲央行3月份預測今年通脹率將為2.6%，這一預測“很可能會調整”。她補充稱，自那以來，“形勢已經發生變化”。"
-    },
-    {
-      "id": "4897584",
-      "time": "2026-05-25 08:31:26",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【美伊談判積極訊號促國際油價大跌】由於美國與伊朗談判程序出現一些積極訊號，國際油價在紐約當地時間24日晚開始新一週交易後顯著下跌，跌幅一度超5%。 資料顯示，紐約商品交易所7月交貨的輕質原油期貨價格一度下跌5.24美元至每桶91.36美元，跌幅為5.42%；7月交貨的倫敦布倫特原油期貨價格一度下跌5.42美元至每桶98.12美元，跌幅達5.23%。 美國總統特朗普24日在社交媒體發文稱，與伊朗的談判正在“以有序且建設性的方式”進行。 阿曼與伊朗代表24日在阿曼首都馬斯喀特圍繞依據國際法規範霍爾木茲海峽通航的一系列原則進行討論，並就保障航運、貿易及供應鏈安全交換意見。（新華社）"
     }
   ]
 }
