@@ -1,7 +1,28 @@
 {
-  "updated": "2026-06-02 04:12:58",
-  "count": 17092,
+  "updated": "2026-06-02 04:16:54",
+  "count": 17090,
   "items": [
+    {
+      "id": "mkt:019e84d2-6a7a-7993-96f9-c26697d3f56b",
+      "time": "2026-06-02 04:14:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【Netanyahu: IDF will continue planned operations in southern Lebanon】On the evening of June 1, Netanyahu said on social media he had spoken by phone with US President Trump and told him that if Hezbollah continues attacks on Israeli cities and civilians, Israel would strike related targets in Beirut. He said Israel's position remains unchanged and the IDF will continue planned operations in southern Lebanon."
+    },
+    {
+      "id": "4911306",
+      "time": "2026-06-02 04:13:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以總理：以軍將繼續按計劃在黎南部開展行動】當地時間6月1日晚間，以色列總理內塔尼亞胡透過社交媒體發文，證實其當天晚間與美國總統特朗普通電話。他在通話中告訴特朗普，如果黎巴嫩真主黨繼續襲擊以色列城市和民眾，以方將對位於黎巴嫩首都貝魯特的相關目標實施打擊。他表示，“我們的立場不變。與此同時，以色列國防軍將繼續按計劃在黎巴嫩南部開展行動。”"
+    },
     {
       "id": "4911305",
       "time": "2026-06-02 04:12:10",
@@ -156005,47 +156026,6 @@
         "國際"
       ],
       "text": "【據悉美伊就伊朗被凍結資產達成諒解，協議或明日宣佈】據半島電視臺報道，一位熟悉伊朗高階代表團與多哈官員之間會談的訊息人士表示，卡達的斡旋已促成與美國就伊朗被凍結金融資產達成諒解。該訊息人士補充說，由於在這個對伊朗人至關重要的問題上達成了協議，美伊之間很可能將於明天宣佈達成協議。"
-    },
-    {
-      "id": "mkt:019e627f-d831-7dd8-b21e-5f1553a5d439",
-      "time": "2026-05-26 04:16:45",
-      "tags": [
-        "MKT News",
-        "MRO.N",
-        "Impact bullish"
-      ],
-      "text": "JEFFERIES Raises Marathon Oil (MRO.N) PT To $296 From $279"
-    },
-    {
-      "id": "mkt:019e627d-5fb0-7dd8-b21e-57416f0af9ca",
-      "time": "2026-05-26 04:14:04",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "【South Korea Says N. KOREA Launched Unidentified Aerial Objects Into Western Peninsula Waters; N. KOREA Silent】South Korea Joint Chiefs Of Staff Say N. KOREA Launched Unidentified Aerial Objects Into Western Peninsula Waters; No Official Comment From N. KOREA"
-    },
-    {
-      "id": "mkt:019e627d-5d4d-7dd8-b21e-4f85dcf1439a",
-      "time": "2026-05-26 04:14:03",
-      "tags": [
-        "MKT News",
-        "PSX.N",
-        "Impact bullish"
-      ],
-      "text": "JEFFERIES Raises Phillips 66 (PSX.N) PT To $191 From $173"
-    },
-    {
-      "id": "mkt:019e627c-9821-7dd8-b21e-43cc0f3a68cc",
-      "time": "2026-05-26 04:13:12",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【Inpex Ichthys LNG Workers Call Off Planned Strike】Offshore Alliance Says Talks Progressed; Strike Called Off; Ichthys ~2% Of Global LNG, 9.3 Mln T/Yr; Exports Mostly To Japan; Union Seeks Pay Hike, Better Conditions; Talks >1 Yr; ~20% Of Global LNG Supply Already Offline"
     }
   ]
 }
