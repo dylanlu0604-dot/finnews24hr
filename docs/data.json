@@ -1,7 +1,93 @@
 {
-  "updated": "2026-06-01 14:29:39",
-  "count": 16216,
+  "updated": "2026-06-01 14:33:35",
+  "count": 16205,
   "items": [
+    {
+      "id": "mkt:019e81e1-84c9-799c-966d-03f7b059101d",
+      "time": "2026-06-01 14:31:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "【Japan's Nikkei 225, South Korea's KOSPI close at record highs】June 1 (Monday): Japan's Nikkei 225 closed up 604.83 pts (+0.91 pct) at 66,934.33. South Korea's KOSPI closed up 311.85 pts (+3.68 pct) at 8,788.0. Both marked record closing highs."
+    },
+    {
+      "id": "4909826",
+      "time": "2026-06-01 14:31:25",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【日韓股市集體收漲】日經225指數收漲0.91%，報66934.33點。韓國綜指收漲3.68%，報8788.00點。"
+    },
+    {
+      "id": "4909824",
+      "time": "2026-06-01 14:30:39",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "軟銀集團超越豐田，成為日本市值最高企業。"
+    },
+    {
+      "id": "4909823",
+      "time": "2026-06-01 14:30:30",
+      "tags": [
+        "資料"
+      ],
+      "text": "瑞士4月實際零售銷售年率 1.6%，前值0.50%。"
+    },
+    {
+      "id": "mkt:019e81e0-5c47-799c-966c-f952a2365d97",
+      "time": "2026-06-01 14:30:24",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Switzerland real retail sales YoY April 1.6% vs 0.5% prior."
+    },
+    {
+      "id": "te:markets:555228",
+      "time": "2026-06-01 14:30:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Nikkei 225 Index Closes 0.94% Higher — The Nikkei 225 Index went up by 624 points or 0.94 percent on Monday to close at 66954 points. The rise was led by Softbank (14.99%), Murata Manufacturing (10.18%) and Sumco (9.16%). On the downside, the weakerst performers were Denki Kagaku Kogyo (-7.04%), Mitsubishi Motors (-6.73%) and Mitsubishi Electric (-6.69%)."
+    },
+    {
+      "id": "mkt:019e81e0-3bd8-799c-966c-f3e4c072c7dd",
+      "time": "2026-06-01 14:30:16",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Switzerland | Real Retail Sales (YoY) (Apr) | actual 1.6% | previous 0.50%"
+    },
+    {
+      "id": "4909822",
+      "time": "2026-06-01 14:30:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【市場監管總局釋出兒童智慧手錶消費提示 選購使用看這幾點】記者今天瞭解到，市場監管總局釋出兒童智慧手錶消費提示。幫助家長和孩子們科學購買和使用相關產品。兒童智慧手錶是供3週歲及以上、14週歲以下兒童使用的、具有資訊處理功能的手錶。建議消費者在選購和使用時重點關注以下幾點："
+    },
+    {
+      "id": "mkt:019e81df-5b64-799c-966c-ec37d23377f8",
+      "time": "2026-06-01 14:29:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Banque de France Governor Villeroy: in most scenarios growth expectations will remain positive."
+    },
     {
       "id": "mkt:019e81dd-b432-799c-966c-e35b0d9272fc",
       "time": "2026-06-01 14:27:30",
@@ -147522,201 +147608,6 @@
         "MKT News"
       ],
       "text": "TASS: Rubio To Visit Armenia May 26"
-    },
-    {
-      "id": "mkt:019e5dd6-1a66-711d-be57-e067ee821fff",
-      "time": "2026-05-25 14:32:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "India Finance Minister: Domestic Economy Remains Strong"
-    },
-    {
-      "id": "mkt:019e5dd6-0800-711d-be57-da8eeaa12fe1",
-      "time": "2026-05-25 14:32:41",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "India Finance Minister Urges Monitoring Fuel, Fertilizer, FX"
-    },
-    {
-      "id": "4898090",
-      "time": "2026-05-25 14:32:28",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "印度財政部長：印度國內經濟形勢仍保持韌性。"
-    },
-    {
-      "id": "4898089",
-      "time": "2026-05-25 14:32:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "魯比奧將於 5 月 26 日訪問亞美尼亞。"
-    },
-    {
-      "id": "4898088",
-      "time": "2026-05-25 14:32:22",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "四環生物盤中漲停，上演“地天板”，現報4.54元，成交額10.46億元。"
-    },
-    {
-      "id": "mkt:019e5dd5-a296-711d-be57-d57474221c57",
-      "time": "2026-05-25 14:32:13",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "Energy",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "India Finance Minister: High International Crude, Fertilizer, Gold Prices Weigh On External Environment"
-    },
-    {
-      "id": "4898087",
-      "time": "2026-05-25 14:32:07",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "印度財政部長：我們必須將重點放在“三個F”上——即燃油、化肥與外匯。"
-    },
-    {
-      "id": "mkt:019e5dd5-7a58-711d-be57-c8e981f5eb0f",
-      "time": "2026-05-25 14:31:58",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "【JAPAN'S NIKKEI INDEX Hits Record High】JAPAN'S NIKKEI INDEX Rises 1,819.12 pts (+2.87%) To 65,158.19 Close May 25; Record High"
-    },
-    {
-      "id": "4898086",
-      "time": "2026-05-25 14:31:39",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "印度財政部長：國際原油價格高企、化肥價格上漲以及黃金價格走高正給對外領域帶來一些挑戰。"
-    },
-    {
-      "id": "4898085",
-      "time": "2026-05-25 14:31:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "受 OpenAI 上市預期提振，軟銀集團股價創下歷史新高。"
-    },
-    {
-      "id": "mkt:019e5dd5-05ce-711d-be57-c626bb5c921f",
-      "time": "2026-05-25 14:31:32",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "India Finance Minister Says PM Call To Maintain Forex Reserves Crucial"
-    },
-    {
-      "id": "4898084",
-      "time": "2026-05-25 14:31:24",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "【日本日經指數收盤點位創歷史新高】日經225指數收漲2.87%，報65158.19點。日本東證指數上漲 1.3%，收盤創下歷史新高。韓國股市休市。"
-    },
-    {
-      "id": "4898083",
-      "time": "2026-05-25 14:30:58",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "印度財政部長：總理提出的節約外匯儲備的號召至關重要。"
-    },
-    {
-      "id": "mkt:019e5dd4-728e-711d-be57-bdd3c0f3944f",
-      "time": "2026-05-25 14:30:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "India Finance Minister: Plan Must Protect Citizens, Safeguard Exporters, Maintain Economic Stability"
-    },
-    {
-      "id": "4898082",
-      "time": "2026-05-25 14:30:37",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "印度財政部長：（政策）方向必須兼顧保護公民權益、保障出口商利益與維持經濟穩定。"
-    },
-    {
-      "id": "mkt:019e5dd3-f822-711d-be57-b0e03a203870",
-      "time": "2026-05-25 14:30:24",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "India Finance Minister Says Middle East Crisis May Raise Fuel Costs, Delay Shipments For Consumers, Firms"
-    },
-    {
-      "id": "4898081",
-      "time": "2026-05-25 14:30:21",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "印度財政部長：西亞危機可能意味著普通民眾和企業將面臨更高的燃料成本和貨物延誤。"
-    },
-    {
-      "id": "4898080",
-      "time": "2026-05-25 14:30:14",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本日經指數收盤點位創歷史新高。"
-    },
-    {
-      "id": "te:markets:553352",
-      "time": "2026-05-25 14:30:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Nikkei 225 Index Closes 2.94% Higher — The Nikkei 225 Index gained 1863 points or 2.94 percent on Monday to close at 65202 points. Gains were led by Murata Manufacturing (17.29%), Taiyo Yuden (16.51%) and Fujikura (14.43%)."
-    },
-    {
-      "id": "4898079",
-      "time": "2026-05-25 14:30:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "【外交部：敦促德方有關人士恪守一箇中國原則 停止向“臺獨”分裂勢力發出錯誤訊號】5月25日，外交部發言人毛寧主持例行記者會。有記者就德國跨黨派代表團訪問中國臺灣地區提問，毛寧表示，世界上只有一箇中國，臺灣是中國領土不可分割的一部分，中方一貫堅決反對建交國與中國臺灣地區進行任何形式的官方交往。一箇中國原則是公認的國際關係準則和國際社會普遍共識，也是中德關係的政治基礎。我們敦促德方有關人士恪守一箇中國原則，停止向“臺獨”分裂勢力發出錯誤訊號。民進黨當局“倚外謀獨”，也是註定要失敗。（央視新聞）"
     }
   ]
 }
