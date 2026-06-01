@@ -1,7 +1,131 @@
 {
-  "updated": "2026-06-01 22:26:27",
-  "count": 16934,
+  "updated": "2026-06-01 22:30:25",
+  "count": 16940,
   "items": [
+    {
+      "id": "4911076",
+      "time": "2026-06-01 22:29:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗表示，美、以試圖借黎巴嫩與加沙向其施壓。"
+    },
+    {
+      "id": "mkt:019e8396-e0e3-7552-8900-ad40bc1b5aa3",
+      "time": "2026-06-01 22:29:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "German Chancellor MERZ will convene multiple leaders to draft a NATO strategy aimed at courting Trump’s support; he will also chair an E5 leaders’ meeting this month to prepare for the upcoming NATO summit."
+    },
+    {
+      "id": "4911074",
+      "time": "2026-06-01 22:29:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：德國總理默茨將召集各方高層，擬定北約爭取特朗普支援的相關方案。"
+    },
+    {
+      "id": "mkt:019e8396-53b4-7552-8900-a7b6f8c14682",
+      "time": "2026-06-01 22:28:47",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "Russell 2000 fell 1.2%."
+    },
+    {
+      "id": "4911073",
+      "time": "2026-06-01 22:28:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "羅素2000指數下跌1.2%。"
+    },
+    {
+      "id": "4911072",
+      "time": "2026-06-01 22:28:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【世界首個乏燃料地下儲存庫或明年初啟用】位於芬蘭的世界上第一座乏燃料地下永久儲存庫建設已進入收尾階段，將在本月接受最終評估，預期於明年年初前正式投入使用。屆時，這座儲存庫可儲存芬蘭兩座核電站共5座核反應堆產生的乏燃料。這座乏燃料儲存庫名為“翁卡洛”，芬蘭語中意為“洞穴”，位於芬蘭西南部城鎮埃烏拉約基一處地下基岩中，距地表約433米，附近有芬蘭兩座核電站之一的奧爾基盧奧托核電站。翁卡洛儲存庫由從事核廢料處理業務的波西瓦公司承建，2004年啟動工程專案可行性研究，2015年獲得儲存庫建設許可，專案總成本據估算將達10億歐元，預計可儲存相當於6500噸鈾的乏燃料。（新華社）"
+    },
+    {
+      "id": "4911071",
+      "time": "2026-06-01 22:27:57",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【6月1日增減持彙總】據不完全統計，6月1日盤後，華測導航披露增持情況，包括華研精機、潤澤科技、保立佳、雲中馬、矩子科技、咸亨國際在內的6家A股上市公司披露擬減持情況。"
+    },
+    {
+      "id": "4911070",
+      "time": "2026-06-01 22:27:30",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【分析師：海灣地區股市多數下跌，受對伊朗戰爭的擔憂拖累】分析師表示，隨著美伊緊張局勢重燃令投資者保持謹慎，海灣地區股市收盤多數走低。Zaye Capital Markets的Naeem Aslam表示，儘管全球盈利帶來支撐，且圍繞人工智慧(AI)的情緒積極，但與石油、通貨膨脹和伊朗相關的風險仍在破壞地區市場情緒。週一，卡達QE指數收盤下跌1.1%，沙烏地阿拉伯TASI指數下跌0.6%，阿布扎比基準指數下跌0.5%。迪拜金融市場綜合指數上漲0.3%。"
+    },
+    {
+      "id": "mkt:019e8394-ecd7-7552-8900-9979b1ede54b",
+      "time": "2026-06-01 22:27:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude futures surged 8.00% intraday to $94.35/bbl."
+    },
+    {
+      "id": "4911069",
+      "time": "2026-06-01 22:26:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲8%，現報94.35美元/桶。"
+    },
+    {
+      "id": "te:markets:555429",
+      "time": "2026-06-01 22:26:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "TTF Prices Extend Gains in Afternoon Trading — European natural gas futures extended gains to more than 6%, approaching €49 per megawatt hour, as renewed geopolitical tensions raised concerns over global energy supplies. Prices were supported by reports that Iran would suspend exchanges of messages with the US in protest over Israel’s escalating military operations in Lebanon. Tehran accused Washington of sending mixed signals and delaying negotiations, while Foreign Ministry spokesperson Esmail Baghaei said Iran continued to engage with the US with “distrust.” President Donald Trump maintained that talks on an interim peace deal would “work out well,” despite renewed clashes near the Strait of Hormuz. The waterway has remained largely closed for three months, heightening concerns about LNG flows and Europe’s ability to rebuild gas inventories ahead of winter. European storage facilities are currently around 38% full, well below the five-year average of more than 50% for this time of year."
+    },
+    {
+      "id": "4911068",
+      "time": "2026-06-01 22:26:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "低硫燃料油連續主力合約日內漲5%，現報4878.00元。"
+    },
+    {
+      "id": "mkt:019e8393-dcfd-7552-8900-946688936409",
+      "time": "2026-06-01 22:26:01",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O"
+      ],
+      "text": "Microsoft (MSFT.O) said the Surface Laptop Ultra will launch later this year."
+    },
     {
       "id": "4911067",
       "time": "2026-06-01 22:25:35",
@@ -154431,71 +154555,6 @@
         "其他"
       ],
       "text": "市場訊息：玻利維亞政府將總統及各部部長薪資削減 50%。"
-    },
-    {
-      "id": "mkt:019e5f8b-595e-711d-be5d-1e816b6a0e0d",
-      "time": "2026-05-25 22:30:19",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "DAX",
-        "Impact bullish",
-        "EURUSD",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Stoxx Europe 50 Up 2%, Erases Losses Since Iran War Began"
-    },
-    {
-      "id": "4898957",
-      "time": "2026-05-25 22:30:08",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "歐洲斯托克50指數上漲2%，抹去了自伊朗戰爭爆發以來的所有跌幅。"
-    },
-    {
-      "id": "4898956",
-      "time": "2026-05-25 22:29:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴西財長杜里根： 中東局勢已對經濟造成影響。"
-    },
-    {
-      "id": "4898955",
-      "time": "2026-05-25 22:28:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西總統盧拉辦公室通報，盧拉確診早期皮膚癌，將接受15次放射治療。"
-    },
-    {
-      "id": "4898954",
-      "time": "2026-05-25 22:28:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "沙特訊息人士：除非確立一條不可逆轉、能夠推動巴勒斯坦建國的路徑，否則沙特不會與以色列實現關係正常化。"
-    },
-    {
-      "id": "mkt:019e6140-cc40-7114-a182-8e0f4bc6af54",
-      "time": "2026-05-25 22:27:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【6.9-Magnitude Quake Strikes Northern Chile】6.9 quake hits Northern Chile; epicenter 20 km NE of Calama; depth 114 km; no casualties or damage reported; no tsunami expected; local 25th 17:52 (Beijing 26th 05:52)"
-    },
-    {
-      "id": "4898953",
-      "time": "2026-05-25 22:26:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "Polymarket資料顯示：美國在 5 月 31 日前宣佈達成新伊核協議的機率目前為 37%，而伊朗同意移交濃縮鈾的機率僅為 11%。"
     }
   ]
 }
