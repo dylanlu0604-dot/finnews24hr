@@ -1,7 +1,148 @@
 {
-  "updated": "2026-06-01 20:23:36",
-  "count": 16650,
+  "updated": "2026-06-01 20:27:33",
+  "count": 16657,
   "items": [
+    {
+      "id": "mkt:019e8326-c3d4-7112-8c90-72e97c59a52d",
+      "time": "2026-06-01 20:26:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "India plans to introduce a producer price index (PPI)."
+    },
+    {
+      "id": "4910788",
+      "time": "2026-06-01 20:26:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "美高梅股價盤前漲幅擴大至15%。"
+    },
+    {
+      "id": "4910787",
+      "time": "2026-06-01 20:26:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度計劃修訂批發物價指數的基期年份。"
+    },
+    {
+      "id": "mkt:019e8326-2f4b-7112-8c90-6a44986a4243",
+      "time": "2026-06-01 20:26:18",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "The Israel Defense Forces said that after air-raid sirens were triggered across northern Israel a suspicious aerial target was detected. The incident has ended with no casualties. Several missiles were launched from Lebanon into Israeli territory; some were intercepted and others fell in open areas."
+    },
+    {
+      "id": "4910786",
+      "time": "2026-06-01 20:25:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【星星科技：擬1元出售全資子公司100%股權】星星科技公告稱，為最佳化業務佈局和資源配置，公司擬將全資子公司深圳精密100%股權轉讓給台州宏量，轉讓價款為1元。台州宏量系公司實際控制人直接控制的公司，本次交易構成關聯交易。截至2026年4月30日，深圳精密股東全部權益評估值為-5026.08萬元。本次交易不涉及債權債務轉移，完成後深圳精密不再納入公司合併報表。2026年初至公告日，公司與該關聯方累計已發生各類關聯交易16961.88萬元（不含本次）。"
+    },
+    {
+      "id": "mkt:019e8325-6bd8-7112-8c90-676c60aca348",
+      "time": "2026-06-01 20:25:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【SpaceX to reserve up to 5% of IPO Class A shares for employees and executives' friends and family】In an amended prospectus filed Monday, SpaceX said it will reserve up to 5% of Class A common stock in its IPO for certain employees and for friends and family of company executives. The filing said participants on a designated friends-and-family list will not be subject to the lock-up; more than 60% of pre-IPO issued shares will be subject to a 366-day lock-up, including shares held by Musk, and Musk has agreed to the 366-day lock-up."
+    },
+    {
+      "id": "4910785",
+      "time": "2026-06-01 20:25:20",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【粵電力A：股票交易異常波動 澄清網路不實傳言】粵電力A公告稱，公司股票於2026年5月29日、6月1日連續兩個交易日收盤價漲幅偏離值累計超20%，屬異常波動。5月27日至6月1日股價短期漲40.05%，最新換手率18.65%，滾動市盈率61.71倍，高於行業水平。公司澄清網路傳言，新疆克拉瑪依專案不存在擴大算力規劃，與韶關算力叢集無直接關聯，2026 - 2027年預計投產新能源約120萬千瓦而非500萬千瓦。2026年一季度歸母淨利潤虧損1.52億元，經營仍面臨挑戰。"
+    },
+    {
+      "id": "4910784",
+      "time": "2026-06-01 20:25:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯政府表示，外國籍船舶在俄內陸水域航行的許可，將由俄羅斯聯邦安全域性與國防部核發。"
+    },
+    {
+      "id": "mkt:019e8324-f64f-7112-8c90-5b5852159c72",
+      "time": "2026-06-01 20:24:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "Copper",
+        "Hang Seng Index"
+      ],
+      "text": "【Shanghai to bolster emerging pillar industries, pre-emptively lay out future sectors】Shanghai Mayor Gong Zheng chaired an executive meeting on June 1 that gave in-principle approval to a 15th Five-Year Plan to accelerate new industrialization and build a modern industrial system. The plan designates advanced manufacturing as the backbone, directs optimization and value-chain upgrading of traditional pillars—automotive, steel and petrochemicals—and strengthens the strategic role of three lead industries. It orders expansion of emerging pillar industries and accelerated, forward-looking development of future sectors; emphasizes innovation-led policy to speed tech breakthroughs, R&D, new-use scenario cultivation and efficient commercialization of technological成果; and mandates intelligent, green and integrated transformation, improved evaluation metrics and enhanced service support to strengthen industrial capacity for high-quality growth."
+    },
+    {
+      "id": "4910783",
+      "time": "2026-06-01 20:24:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST洲際：控股股東廣西正和未符合受理破產清算申請的法定條件】ST洲際公告，控股股東廣西正和實業集團有限公司收到廣西壯族自治區柳州市中級人民法院的《民事裁定書》，裁定不予受理張友進對廣西正和的破產清算申請。法院認為，張友進的申請不能成立，廣西正和尚未符合受理破產清算申請的法定條件。"
+    },
+    {
+      "id": "4910782",
+      "time": "2026-06-01 20:24:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【弘信電子：控股子公司擬與關聯方共同投資通用機器人公司】弘信電子(300657.SZ)公告稱，公司控股子公司燧弘華創擬與關聯方雲創智月共同投資A公司，標的公司從事通用機器人相關業務。按投前估值200億元，燧弘華創出資5000萬元，雲創智月預計出資2.8億元，認購標的公司新增註冊資本。本次投資構成關聯交易，旨在與公司主營業務形成戰略協同，完善產業生態。"
+    },
+    {
+      "id": "4910781",
+      "time": "2026-06-01 20:24:44",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【NYMEX天然氣主力合約跌超1%】NYMEX天然氣主力合約跌超1%，現報3.25美元/百萬英熱。"
+    },
+    {
+      "id": "4910780",
+      "time": "2026-06-01 20:24:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【美團電話會：預期Q2外賣UE會明顯好於Q1】美團一季度財報電話會上，美團管理層表示，隨著餐飲外賣行業補貼持續最佳化，外賣競爭正逐步轉向以效率和體驗為核心的階段。一季度以來，美團進一步鞏固了在中高價值外賣訂單市場的領先地位，繼續擴大與同類平臺在UE上的領先優勢。若競爭環境保持理性，疊加二季度旺季效應，預期Q2外賣UE會明顯好於Q1。美團CEO王興表示：“相信隨著監管的持續引導，行業競爭將逐步迴歸理性。我們有信心持續保持在運營效率上的領先優勢，確保在行業中保持長期、穩固的競爭力。我們也相信我們的長期UE會迴歸到合理水平。”"
+    },
+    {
+      "id": "4910779",
+      "time": "2026-06-01 20:24:13",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "回聲星暫緩支付利息，等待來自美國電話電報公司的交易款項到賬。"
+    },
+    {
+      "id": "4910778",
+      "time": "2026-06-01 20:23:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "敘利亞外交部譴責伊朗對科威特的襲擊。"
+    },
+    {
+      "id": "4910777",
+      "time": "2026-06-01 20:23:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海：發展壯大一批新興支柱產業 超前佈局未來產業】上海市長龔正6月1日主持召開市政府常務會議，會議原則同意《上海市加快推進新型工業化 構建現代化產業體系“十五五”規劃》並指出，要加快構建以先進製造業為骨幹的現代化產業體系，奮力在推進新型工業化中勇為尖兵、走在前列。要堅持雙向發力，夯實產業發展根基。積極推動汽車、鋼鐵、石化等傳統支柱產業最佳化提升、向價值鏈高階延伸，強化三大先導產業戰略引領作用，發展壯大一批新興支柱產業，超前佈局未來產業。要堅持創新引領，鍛造產業競爭優勢。加快新技術攻關突破、新產品研發應用、新場景培育開放，支援科技成果高效轉化和產業化，讓更多“科技之花”結出“產業之果”。要堅持智慧化、綠色化、融合化轉型，促進產業轉型升級。強化示範引領，完善評價體系，最佳化服務保障，為全市經濟高質量發展提供更加強勁的工業支撐。"
+    },
     {
       "id": "4910776",
       "time": "2026-06-01 20:22:46",
@@ -65,6 +206,14 @@
         "國際"
       ],
       "text": "【法國巴黎銀行：亞洲科技股超級週期遠未見頂】法國巴黎銀行表示，至少在短期內，在估值支撐下，科技股超級週期依然是亞洲市場中唯一具有高確定性的盈利增長故事。“現在就斷言科技股週期已經見頂還為時過早，可能最早也要等到2027年上半年才會出現這一擔憂。”該行亞太區現貨股票研究主管William Bratton在一份報告中寫道。如果剔除科技和能源板塊，過去一個季度亞洲市場的整體遠期盈利預期僅提高了1%。中東衝突引發的能源價格上漲，正持續對內需導向型板塊構成壓力。"
+    },
+    {
+      "id": "4910770",
+      "time": "2026-06-01 20:19:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【一批兒童相關國家標準釋出】“六一”國際兒童節到來，國家市場監督管理總局近日釋出一批兒童相關國家標準，涉及毛絨玩具、電動童車、兒童傘具、未成年人上網等方面，從兒童用品到網路環境全面升級技術要求，多層次築牢兒童安全防護屏障。\n\n在毛絨玩具方面，《毛絨、布制玩具》（GB/T 9832—2026）國家標準覆蓋兒童日常高頻接觸的玩偶、公仔、抱枕等全品類毛絨、布制玩具，新增甲醛、pH值、色牢度、異味等健康安全指標，嚴格管控零件脫落、縫線開裂等物理機械風險。同時，細化外觀品質、填充物均勻度、清潔保養指引等要求，使產品兼顧安全性與使用體驗。\n\n在電動童車方面，《電動童車通用技術條件》（GB/T 32441—2026）國家標準適用於14歲以下兒童使用的非道路電池驅動玩具車輛，聚焦充電欠保護、耐用性不足等問題，明確續航時長、遙控效能、轉向操作力、充電防護、導線強度等要求，強化產品疲勞耐久與整體機械強度，並對車速超8公里/時的產品增設檔位鎖定保護，有效防範結構及部件失效帶來的安全隱患。\n\n在兒童傘具方面，《兒童傘通用技術要求》（GB/T 28477—2026）國家標準適用於3歲至14歲兒童使用的傘具，最佳化傘面強度、開合力度與底座穩定性等基礎效能，明確開關耐久性、抗風能力與部件牢固度，規範防紫外線標註標識，提升反光可視性，保障兒童戶外使用安全。\n\n在未成年人上網方面，《網路安全技術 移動網際網路未成年人模式技術要求》（GB/T 47694—2026）國家標準針對網路不良資訊侵擾、上網成癮、個人資訊洩露、誘導消費等風險，明確手機終端、上網軟體、應用下載平臺中未成年人專屬防護模式的技術要求，助力未成年人安全健康上網。（新華社）"
     },
     {
       "id": "4910769",
@@ -151681,91 +151830,6 @@
         "The Trump Trade"
       ],
       "text": "TRUMP Urges Countries To Sign Abraham Accords After Saturday Talks"
-    },
-    {
-      "id": "4898822",
-      "time": "2026-05-25 20:27:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普：要求各國立即簽署《亞伯拉罕協議》】特朗普在真相社交平臺發文稱，我正式要求各國立即簽署《亞伯拉罕協議》。倘若伊朗願意與我達成協議，作為美國總統，我十分樂意接納其加入這一獨一無二的國際聯盟。中東地區將實現團結凝聚、實力雄厚、經濟繁榮，發展水準有望冠絕全球。我已授意相關人員啟動流程，推動各國正式加入這份具有歷史意義的協議並完成簽署工作。感謝各方對此事予以關注。"
-    },
-    {
-      "id": "4898821",
-      "time": "2026-05-25 20:25:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普稱，他在週六的會談後要求各國簽署《亞伯拉罕協議》。"
-    },
-    {
-      "id": "mkt:019e5f19-0bd5-711d-be5c-025082c6ad03",
-      "time": "2026-05-25 20:25:37",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "SHANGHAI STAR MARKET IPO REVIEW COMMITTEE TO REVIEW UNITREE ROBOTICS LISTING APPLICATION ON JUNE 1"
-    },
-    {
-      "id": "4898820",
-      "time": "2026-05-25 20:25:13",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "【宇樹科技：公司2026年1-3月扣非後淨利潤由上年同期的8483.65萬元降至4025.36萬元，同比下降幅度為52.55%】宇樹科技股份有限公司首次公開發行股票並在科創板上市申請檔案稽核中心意見落實函回覆中提到，報告期內，公司2026年1-3月實現營業收入4.23億元，同比增幅由上年度的332.64%回落至68.49%，同時因研發費用、銷售費用等期間費用大幅增加，扣非後淨利潤由上年同期的8483.65萬元降至4025.36萬元，同比下降幅度為52.55%。同時，公司預計2026年1-6月營業收入約為10.52億元至11.28億元，同比增幅約為35.62%至45.41%，亦因研發投入等期間費用快速增加，扣非後淨利潤預計約為2.36億元至2.83億元，較上年同期下降約21.97%至6.43%，較2026年第一季度同比降幅將有明顯縮小。"
-    },
-    {
-      "id": "4898819",
-      "time": "2026-05-25 20:24:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：沙特等國家應加入《亞伯拉罕協議》。"
-    },
-    {
-      "id": "mkt:019e5f18-5d58-711d-be5b-fa95a06c016d",
-      "time": "2026-05-25 20:24:45",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "TRUMP Says Talks With Iran Progressing"
-    },
-    {
-      "id": "4898818",
-      "time": "2026-05-25 20:24:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普稱與伊朗的談判進展順利。"
-    },
-    {
-      "id": "4898817",
-      "time": "2026-05-25 20:24:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：伊朗談判代表卡利巴夫將與卡達埃米爾會晤。"
-    },
-    {
-      "id": "4898816",
-      "time": "2026-05-25 20:23:42",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內跌6%，現報94.16美元/桶。"
-    },
-    {
-      "id": "mkt:019e5f17-5f5d-711d-be5b-f3c011030ea9",
-      "time": "2026-05-25 20:23:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's Parliament Speaker Ghalibaf To Meet Qatar Emir"
     }
   ]
 }
