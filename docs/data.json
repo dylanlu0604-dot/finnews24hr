@@ -1,7 +1,78 @@
 {
-  "updated": "2026-06-01 10:37:54",
-  "count": 16123,
+  "updated": "2026-06-01 10:41:42",
+  "count": 16127,
   "items": [
+    {
+      "id": "mkt:019e810e-942c-7666-845d-759d6e0cf35d",
+      "time": "2026-06-01 10:41:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China A-share CPO sector extended losses; Dongshan Precision hit the daily limit-down. Related names including Huanxu Electronics, Changyingtong, Hengdongguang, Changuang Huaxin, Dongtian Micro and Changxin Bochuang also fell."
+    },
+    {
+      "id": "mkt:019e810e-7e04-7666-845d-6fbeec997332",
+      "time": "2026-06-01 10:41:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【IAEA inspectors to be allowed into attacked area at Zaporizhzhia nuclear plant】Zaporizhzhia nuclear plant spokesman Evgenia Yakhina said on May 31 that IAEA inspectors will be allowed into the attacked area once on-site operational and safety conditions permit. The plant said a Ukrainian drone struck the motor room of Unit 6 the previous day and has notified the IAEA."
+    },
+    {
+      "id": "4909502",
+      "time": "2026-06-01 10:41:01",
+      "tags": [
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【燃氣股異動拉昇 國新能源漲停】燃氣股盤中異動拉昇，國新能源漲停，萬憬能源、廣匯能源、首華燃氣、長春燃氣、貝肯能源跟漲。訊息面上，中信證券研報稱，卡達受襲致LNG出口設施受損、修復週期長達數年，美國LNG生產線集中進入檢修季導致出口量下滑，澳大利亞多個LNG專案爆發罷工擾動供應；疊加夏季發電用氣高峰將至，東北亞、歐洲LNG現貨價格已大漲10%，市場預計氣價或將持續震盪走高。"
+    },
+    {
+      "id": "4909501",
+      "time": "2026-06-01 10:40:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【美圖公司漲超16% 海外市場4月增長強勁】截至發稿，美圖公司(01357.HK)漲超16%。據瑞銀（UBS）報告，2026年4月，該公司旗下應用的海外總收入同比增長42%，多款產品在海外增長強勁，其中，Wink的4月海外收入接近翻倍。報告顯示，美圖旗下應用在中國內地的4月總收入顯著增長。但相比之下，這些應用在海外市場的增長更加強勁。"
+    },
+    {
+      "id": "4909500",
+      "time": "2026-06-01 10:40:10",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【東鵬飲料H股盤中漲超10% 控股股東擬1億至2億港元增持H股】6月1日早盤，東鵬飲料H股一度漲超10%，最高觸及146.6港元/股。截至9時56分，東鵬飲料H股報139.4港元/股，漲5.37%。6月1日早間，東鵬飲料公告，公司控股股東林木勤計劃於2026年5月29日至2027年5月28日期間增持公司H股股份，增持金額為1億港元至2億港元。"
+    },
+    {
+      "id": "4909499",
+      "time": "2026-06-01 10:39:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "【CPO概念持續走弱 東山精密觸及跌停】CPO概念盤中持續走弱，東山精密觸及跌停，環旭電子、長盈通、蘅東光、長光華芯、東田微、長芯博創均跌超7%。"
+    },
+    {
+      "id": "4909498",
+      "time": "2026-06-01 10:38:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超1.5萬億元，較上日此時縮量1855億元。"
+    },
+    {
+      "id": "4909497",
+      "time": "2026-06-01 10:38:08",
+      "tags": [
+        "公司",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【荷蘭國際：美元料將在160日元附近獲得支撐】荷蘭國際集團的Chris Turner在一份研究報告中表示，未來幾個月美元料將在160日元附近獲得支撐，並可能升至162-163日元區間。這位全球市場主管表示：“如今，投機市場做空日元的意願大大降低，如果說有什麼不同的話，那就是美聯儲的下一步行動可能會轉向支援加息，而不是降息。”Turner說，此外，日本央行需要“實施一次非常偏緊縮的加息，以逆轉實際利差對日元不利的最新轉變“。他補充說，這“在某種程度上需要日本央行應對政策利率明年升至1.50%以上的預期，而在目前的政治環境下，這可能很困難“。根據倫敦證券交易所集團的資料，美元上漲0.1%，報159.47日元。"
+    },
     {
       "id": "4909495",
       "time": "2026-06-01 10:36:12",
@@ -146620,40 +146691,6 @@
         "Importance 1"
       ],
       "text": "Yen Strengthens as Oil and Dollar Weaken — The Japanese yen appreciated past 159 per dollar on Monday, rebounding from three-week lows as declining oil prices and a softer US dollar supported the currency amid signs that the US and Iran were moving closer to a deal that could reopen the Strait of Hormuz. A full reopening of the key shipping route would offer relief to major Asian economies heavily reliant on Middle Eastern oil imports. Meanwhile, data released last week showed Japan’s core inflation rate slowed to a four-year low in April, reducing pressure on the Bank of Japan to tighten monetary policy in the near term. Even so, the central bank could still consider raising rates as Japan’s economy continues to show resilience. Separately, traders remained cautious about the possibility of currency intervention, with the yen still trading near the 160-per-dollar level that reportedly prompted Tokyo’s intervention efforts in late April and early May."
-    },
-    {
-      "id": "4897783",
-      "time": "2026-05-25 10:41:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【奇瑞成立新能源科技公司】企查查APP顯示，近日，蕪湖昇源新能源科技有限公司成立，法定代表人為吳常勝，註冊資本為4540萬元，經營範圍包含：太陽能發電技術服務；節能管理服務；合同能源管理；資源再生利用技術研發；儲能技術服務等。企查查股權穿透顯示，該公司由奇瑞旗下安徽奇瑞綠能生態科技有限公司全資持股。"
-    },
-    {
-      "id": "4897782",
-      "time": "2026-05-25 10:41:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "【夏巴茲抵華出席中巴企業投資大會】5月24日上午，來華訪問的巴基斯坦總理夏巴茲在杭州出席第三屆中巴資訊科技與電信、電池儲能系統及農業B2B投資大會。作為夏巴茲此次訪華的一項重要活動，本次大會吸引來自兩國的500多家企業參與，充分彰顯了雙方在新興產業領域日益深化的合作關係。夏巴茲在主旨演講中表示，今年是巴中建交75週年，兩國全天候戰略合作伙伴關係歷久彌堅。巴中經貿往來密切、發展空間巨大。希望雙方在農業、數字經濟與人工智慧、經濟特區建設、礦產資源開發等領域進一步深化合作，實現優勢互補、互利共贏。他誠摯希望兩國企業加強交流合作，共贏美好未來，不斷書寫巴中友誼新篇章。夏巴茲當天還在現場見證了中巴雙方多項經貿合作專案的簽約儀式。夏巴茲表示，從此前數次訪華交流，到本次杭州會議，雙方已簽署多項大額合作諒解備忘錄。當前，各項備忘錄需要落地為正式合作協議。他同時提出，希望雙方持續加強農業等四大領域的合作。(環球時報)"
-    },
-    {
-      "id": "mkt:019e5d01-18d0-7882-93e9-e5293376f053",
-      "time": "2026-05-25 10:40:13",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "PHILIPPINE BENCHMARK STOCK INDEX RISES 1% TO 6,023.57 POINTS, HIGHEST SINCE MAY 11"
-    },
-    {
-      "id": "4897781",
-      "time": "2026-05-25 10:38:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "【阿里達摩院玄鐵9系列處理器正式適配安卓 RISC-V加速規模化商業落地】阿里達摩院玄鐵今日官微訊息，5月25日，玄鐵團隊宣佈旗下9系列高效能處理器已完成對Android 16作業系統的適配，並面向戰略客戶定向釋出玄鐵安卓平臺。作為全球首款成功執行最新版安卓系統的RVA23相容RISC-V處理器，玄鐵9系列實現突破，標誌著RISC-V在安卓生態中已從功能移植邁入規範相容與產品化交付的新階段，為規模化商業落地奠定技術基礎。目前，玄鐵安卓平臺已面向首批玄鐵戰略客戶開放，加速探索RISC-V智慧終端新場景，顯著縮短從晶片原型到產品上市的週期。另外，Android 17 “Gemini Intelligence” 智慧體推動系統級AI融合，玄鐵最新高效能旗艦處理器系列搭載Vector+Matrix AI加速引擎，適配端側AI推理需求，已實現對千億引數大模型的原生支援，玄鐵團隊將持續激發RISC-V架構在AI領域的靈活擴充套件優勢。"
     }
   ]
 }
