@@ -1,7 +1,227 @@
 {
-  "updated": "2026-06-01 21:33:55",
-  "count": 16785,
+  "updated": "2026-06-01 21:37:45",
+  "count": 16800,
   "items": [
+    {
+      "id": "mkt:019e8367-225e-7ccf-b267-ff501900373b",
+      "time": "2026-06-01 21:37:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "European oil and gas stocks rose 1%."
+    },
+    {
+      "id": "4910964",
+      "time": "2026-06-01 21:37:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "惠譽確認歐洲委員會開發銀行評級為“AAA”，展望穩定。"
+    },
+    {
+      "id": "te:markets:555391",
+      "time": "2026-06-01 21:37:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Ease from Records — US stocks fell from record highs on Monday as conflicting signals regarding the war in the Middle East lifted energy prices and worsened the macroeconomic scenario for the corporate sector. The S&P 500 and Nasdaq 100 inched lower while the Dow fell 150 points. Iran stated that it is halting talks with the US until Israel ceases attacks in Gaza, shortly after new strikes between Iran and GCC members, despite US President Trump stating that dialogue with Tehran was promising. Traditional economic sectors in the Dow were penalized with JPMorgan and Visa dropping up to 1%. Still, strong signals from the AI economy continued to support chip and software stocks. Nvidia advanced over 2% premarket after it announced its new RTX Spark Superchip to mark its entry in the PC market, rivaling AMD and Intel, which plunged around 5% each. The efficiency pledged my Nvidia's new offering lifted software and hyperscaler stocks for fresh momentum in the sector, with Microsoft and Oracle jumping 4% each."
+    },
+    {
+      "id": "4910963",
+      "time": "2026-06-01 21:37:04",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲油氣股指上漲1%。"
+    },
+    {
+      "id": "4910962",
+      "time": "2026-06-01 21:36:56",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "英偉達股價上漲3.6%，該公司推出個人電腦晶片，將人工智慧直接引入個人電腦。"
+    },
+    {
+      "id": "mkt:019e8366-db2c-7ccf-b267-f1736e4a4e87",
+      "time": "2026-06-01 21:36:56",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA (NVDA.O) up 3.6%."
+    },
+    {
+      "id": "4910961",
+      "time": "2026-06-01 21:36:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【宇樹科技體驗館亞洲首店來了 宇樹科技四足機器人9997元起】5月31日，國內知名機器人企業宇樹科技設立的具身智慧體驗館在上海開業，這也是宇樹科技線上下推出體驗+購物的亞洲首店。門店室內面積約100平方米，主要銷售機器人、機器狗、熊貓“皮膚”以及健身棒等產品。消費者可以體驗最新款機器人。據介紹，四足機器人的價格是9997元起，人形機器人R1是29999元起，G1是85000元起。（央視財經）"
+    },
+    {
+      "id": "4910960",
+      "time": "2026-06-01 21:36:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【美迪凱：公司已成功切入三星的供應鏈體系】美迪凱近日接受機構調研時表示，公司透過收購海碩力光電技術（蘇州）有限公司和INNOWAVE VIETNAM CO.,LTD兩家公司100%股權，已成功切入三星的供應鏈體系。目前手機攝像模組用軟膜濾光片持續量產中，功率晶片的晶圓級封測業務也已進入產品驗證。"
+    },
+    {
+      "id": "mkt:019e8366-04bd-7ccf-b267-ed8260f871c4",
+      "time": "2026-06-01 21:36:00",
+      "tags": [
+        "MKT News",
+        "NZDUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "NZD/USD fell 1% intraday to a low of 0.5927."
+    },
+    {
+      "id": "4910959",
+      "time": "2026-06-01 21:35:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐西蘭元兌美元下跌 1%，跌至盤中低點 0.5927。"
+    },
+    {
+      "id": "mkt:019e8365-4cc8-7112-8c92-9158f33453ce",
+      "time": "2026-06-01 21:35:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "DELL.N",
+        "Impact bullish"
+      ],
+      "text": "Dell (DELL.N) climbed nearly 7% in early trading."
+    },
+    {
+      "id": "4910958",
+      "time": "2026-06-01 21:35:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "戴爾盤初漲近7%。"
+    },
+    {
+      "id": "mkt:019e8365-36c2-7112-8c92-8ea17fb0bfea",
+      "time": "2026-06-01 21:35:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "US May S&P Global Manufacturing PMI final reading due in 10 minutes."
+    },
+    {
+      "id": "4910957",
+      "time": "2026-06-01 21:34:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美光科技漲超5% 股價突破1000美元】儲存概念股集體上漲，美光科技漲超5%，股價突破1000美元，閃迪漲3.4%，西部資料漲超4%。"
+    },
+    {
+      "id": "4910956",
+      "time": "2026-06-01 21:34:43",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲航空航天與國防類股指下跌，最新跌幅為3.6%。"
+    },
+    {
+      "id": "mkt:019e8364-cb64-7112-8c92-8510b262102f",
+      "time": "2026-06-01 21:34:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "European aerospace and defense stocks were down 3.6%."
+    },
+    {
+      "id": "mkt:019e8364-3d58-7112-8c92-7991b47fe367",
+      "time": "2026-06-01 21:34:03",
+      "tags": [
+        "MKT News",
+        "NOW.N",
+        "Impact bullish",
+        "ADBE.O",
+        "CRM.N"
+      ],
+      "text": "U.S. software stocks extended gains after last Friday's rebound: ServiceNow rose 9% (NOW.N), Adobe 3% (ADBE.O) and Salesforce 5% (CRM.N)."
+    },
+    {
+      "id": "4910955",
+      "time": "2026-06-01 21:33:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "GoPro盤初跌超8%，審計機構對GoPro的持續經營能力提出重大質疑。"
+    },
+    {
+      "id": "mkt:019e8363-f286-7112-8c92-729821064153",
+      "time": "2026-06-01 21:33:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "U.S. equities opened lower on Monday, June 1: the Dow Jones Industrial Average was down 231.60 points (-0.45%) at 50,800.86 at the open; the S&P 500 was down 9.42 points (-0.12%) at 7,570.64; the Nasdaq Composite was down 11.12 points (-0.04%) at 26,961.50."
+    },
+    {
+      "id": "4910954",
+      "time": "2026-06-01 21:33:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "維珍銀河開盤大漲23%。"
+    },
+    {
+      "id": "4910953",
+      "time": "2026-06-01 21:33:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時350住宅建築商指數下跌，最新跌幅為3.6%。"
+    },
+    {
+      "id": "mkt:019e8363-aa56-7112-8c92-6d55d87db3b4",
+      "time": "2026-06-01 21:33:27",
+      "tags": [
+        "MKT News",
+        "SPCE.N",
+        "Impact bullish"
+      ],
+      "text": "Virgin Galactic (SPCE.N) shares opened 23% higher."
+    },
     {
       "id": "mkt:019e8363-7c8a-7112-8c92-61998f79a889",
       "time": "2026-06-01 21:33:15",
@@ -152934,72 +153154,6 @@
         "市場"
       ],
       "text": "歐元兌瑞郎走高，日內最新上漲0.1%，報0.91135。"
-    },
-    {
-      "id": "4898910",
-      "time": "2026-05-25 21:37:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【容大感光：彩色顯示光刻膠技術成熟，已批次供貨】容大感光5月25日在互動平臺稱，公司彩色顯示光刻膠技術成熟，已批次供貨。"
-    },
-    {
-      "id": "4898909",
-      "time": "2026-05-25 21:36:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國工程院撤銷張堯學院士稱號】近日，中國工程院釋出關於撤銷張堯學院士稱號的決定。決定稱，中央紀委國家監委網站5月21日公佈，中南大學原黨委常委、校長張堯學嚴重違紀違法被開除黨籍和公職。根據中國工程院有關規定，決定自2026年5月21日起撤銷張堯學的院士稱號。"
-    },
-    {
-      "id": "mkt:019e5f59-5bc7-711d-be5c-c6a4401af14a",
-      "time": "2026-05-25 21:35:35",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Caspian Pipeline Consortium (CPC) Oil Exports Rise 5% MoM To 6.314 mln mt In Apr, Two Sources"
-    },
-    {
-      "id": "4898908",
-      "time": "2026-05-25 21:35:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "【柳工：公司業務暫不涉及火箭回收阻攔系統】柳工5月25日在互動平臺稱，公司業務暫不涉及火箭回收阻攔系統。"
-    },
-    {
-      "id": "mkt:019e5f58-c034-711d-be5c-bd87c505c4be",
-      "time": "2026-05-25 21:35:07",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Russian Foreign Ministry: Strikes To Target Decision Centers, Command Posts"
-    },
-    {
-      "id": "4898907",
-      "time": "2026-05-25 21:35:03",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【MemoMind再獲6000萬元融資 極米科技為AI眼鏡子公司設下8年上市“時間線”】5月25日晚間，極米科技公告稱，其控股子公司、AI眼鏡品牌“MemoMind”的運營主體深圳市青睞創新智慧技術有限公司（以下簡稱深圳青睞）擬增資擴股，引入中金新興基金等投資者合計6000萬元資金。極米科技則再次放棄了優先認購權。值得注意的是，加上過去12個月內已完成的5000萬元融資，深圳青睞在一年內已累計獲得1.1億元的外部投資。在連續放棄增資後，極米科技對這家子公司的持股比例將從最初的51%稀釋至44.2411%。更引人關注的是，本輪融資協議中設定了明確的回購條款，約定若深圳青睞未能在2034年12月31日前完成合格上市，投資方有權要求極米科技方面按年化6%的利率進行回購。這意味著，極米科技內部已經為AI眼鏡業務埋下了一條長達8年半的上市“時間線”。（21財經）"
-    },
-    {
-      "id": "4898906",
-      "time": "2026-05-25 21:34:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "【白羽雞養殖行業高景氣持續，業內人士建議適度控制產能】5月份以來，受優質雞苗稀缺、禽肉消費持續向好影響，白羽雞養殖行業高景氣持續。山東菏澤白羽肉雞養殖戶李先生表示，目前一隻雞的養殖利潤在2元以上，屬於近幾年的較好水平；雞苗方面，目前益生股份父母代雞苗報價66元/套，商品代雞苗報價4.1元/羽，均為年內高點。多位業內人士看好後市行情，益生股份總裁林傑表示，祖代種雞的減少影響14個月以後商品代雞苗的供給，預計2026年下半年優質商品代雞苗供給較上半年偏緊，價格較好。同時，有業內人士建議適度控制產能，不要讓“白雞賣白菜價”行情重演。"
     }
   ]
 }
