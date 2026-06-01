@@ -1,7 +1,63 @@
 {
-  "updated": "2026-06-02 01:37:54",
-  "count": 17041,
+  "updated": "2026-06-02 01:41:44",
+  "count": 17042,
   "items": [
+    {
+      "id": "mkt:019e8446-41d6-7993-96f8-4f31ce4fe372",
+      "time": "2026-06-02 01:40:57",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Iran foreign ministry: US directly responsible for Israel’s Lebanon–Israel ceasefire violations】On the 1st, Iran’s foreign ministry said the United States bears direct responsibility for violations of an Iran–U.S. ceasefire and for Israel’s breaches of the Lebanon–Israel ceasefire, and should bear full responsibility for the consequences. Iran said it will defend its interests when it deems necessary."
+    },
+    {
+      "id": "4911232",
+      "time": "2026-06-02 01:40:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍：鑑於確認有火箭彈從黎巴嫩發射，目標直指衝突線沿線的各社群，後方司令部已釋出預防性指令。公眾應在警報響起時立即進入避難場所。"
+    },
+    {
+      "id": "mkt:019e8445-ca37-7993-96f8-4596ca101c44",
+      "time": "2026-06-02 01:40:26",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Israel Defense Forces said rockets confirmed fired from Lebanon targeted frontline communities; rear command issued precautionary orders. The public should enter shelters immediately when alarms sound."
+    },
+    {
+      "id": "4911231",
+      "time": "2026-06-02 01:40:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗外交部：美對以色列違反黎以停火協議負有直接責任】當地時間1日，伊朗外交部就美以持續違反停火協議發表宣告。宣告指出，美國對違反伊美停火協議以及以色列違反黎以停火協議負有直接責任，美國應對此局勢的後果承擔全部責任。伊朗將在認為必要時捍衛自身利益。（央視新聞）"
+    },
+    {
+      "id": "4911230",
+      "time": "2026-06-02 01:38:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普：以色列和黎真主黨的所有交火行動將立即停止】當地時間6月1日，美國總統特朗普在社交媒體“真實社交”上發文表示，他與以色列總理內塔尼亞胡進行了一次富有成效的通話，現已確定不會有任何部隊前往貝魯特，凡是此前正在途中的部隊，均已奉命撤回。特朗普還表示，透過高階別代表的協調，他也與黎巴嫩真主黨進行了一次良好的溝通。雙方已達成共識，所有交火行動將立即停止——即以色列不會攻擊黎真主黨，黎真主黨也不會攻擊以色列。（央視新聞）"
+    },
+    {
+      "id": "mkt:019e8443-d8cc-7993-96f8-3c50b9eeb025",
+      "time": "2026-06-02 01:38:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said negotiations with Iran are 'starting to get very boring'."
+    },
     {
       "id": "4911229",
       "time": "2026-06-02 01:36:54",
@@ -155525,55 +155581,6 @@
         "其他"
       ],
       "text": "西班牙衛生部：一名在馬德里接受隔離的西班牙乘客漢坦病毒檢測呈陽性。"
-    },
-    {
-      "id": "mkt:019e61f1-92a0-7ee7-91bb-49d7772e0182",
-      "time": "2026-05-26 01:41:09",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Spot Silver Extends Slide, Falls Below $76/oz"
-    },
-    {
-      "id": "mkt:4fcb2518-936c-486e-a4e1-8f15c262b4fc",
-      "time": "2026-05-26 01:40:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【HIMINO: Bank Of Japan To Monitor Middle East, Decide Rate-Hike Timing】HIMINO Says BANK OF JAPAN Will Monitor Middle East Impact On Japan Economy And Inflation; Continue Raising Policy Rate, Adjust Monetary Easing Pace"
-    },
-    {
-      "id": "mkt:019e61ef-d044-7442-918f-93448937ac89",
-      "time": "2026-05-26 01:39:21",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Spot Silver Drops Over 2.0% Intraday To $76.34/oz"
-    },
-    {
-      "id": "mkt:019e61ee-e3f0-7442-918f-872e2eb3cb39",
-      "time": "2026-05-26 01:38:26",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Tencent",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Where To Park Small Change? Wealth Yield Tracker】China: Tencent Licaitong Current+7d Annualized Yields 0.8100%-1.2740%; WeChat Lingqiantong 7d Annualized 0.0030%-1.0360%; Alipay Yu'e Bao 7d Annualized 1.0000%-1.0410%"
-    },
-    {
-      "id": "4899075",
-      "time": "2026-05-26 01:38:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "【英國謝菲爾德發生槍擊事件 1人死亡】當地時間25日凌晨，英國英格蘭中部城市謝菲爾德發生一起槍擊事件，一名30歲女子中槍後不治身亡。目前警方已逮捕3名涉嫌謀殺的嫌疑人，案件仍在進一步調查中。（央視新聞）"
     }
   ]
 }
