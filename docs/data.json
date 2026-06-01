@@ -1,7 +1,55 @@
 {
-  "updated": "2026-06-02 05:44:34",
-  "count": 17118,
+  "updated": "2026-06-02 05:48:26",
+  "count": 17121,
   "items": [
+    {
+      "id": "mkt:019e8528-38c3-7993-96fa-7dc994dd7374",
+      "time": "2026-06-02 05:47:46",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "IRIB reported a senior Iranian military officer said if Israel violates the ceasefire in Lebanon, the established order in the Strait of Hormuz will also apply to the Bab el-Mandeb."
+    },
+    {
+      "id": "mkt:019e8527-f2d8-7993-96fa-75e8f85ccab1",
+      "time": "2026-06-02 05:47:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Trump says deal with Iran likely within a week to extend ceasefire, reopen Strait of Hormuz】President Trump told ABC News he expects an agreement with Iran within a week to extend a ceasefire and reopen the Strait of Hormuz, saying progress is \"going well.\" He described a recent incident as a \"hiccup\" that he quickly resolved, saying it arose from Iranian anger over an Israeli strike in Lebanon. Trump said he phoned Hezbollah and Prime Minister Netanyahu, told both to stop firing, and that shooting ceased. He called a peace agreement potentially \"even better than a military victory\" and said he has not yet signed a memorandum to reopen the strait because several key terms still need to be finalized."
+    },
+    {
+      "id": "4911372",
+      "time": "2026-06-02 05:45:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "慧與執行長：公司預計2027年供應情況不會發生變化。"
+    },
+    {
+      "id": "4911371",
+      "time": "2026-06-02 05:45:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：諒解備忘錄仍需“再敲定幾個點”。"
+    },
+    {
+      "id": "4911370",
+      "time": "2026-06-02 05:44:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【算力大單密集落地 資金大幅加倉12只概念股】當前，隨著AI產業潛力的釋放及大模型推理階段的深入，算力作為產業鏈上游的核心供給，已成為全球數字經濟競爭的戰略制高點。截至今年3月底，我國智慧算力規模達到每秒1882百億億次，算力供給更豐富。今年以來累計漲幅低於43%（跑輸算力概念股平均漲幅），且5月29日融資餘額較去年末增幅均超過30%的算力概念股有12只，按照融資餘額增幅排序，居前的有優刻得-W、超穎電子、龍芯中科。（證券時報）"
+    },
     {
       "id": "4911369",
       "time": "2026-06-02 05:42:34",
@@ -156235,23 +156283,6 @@
         "國際"
       ],
       "text": "【特朗普：伊朗濃縮鈾要麼移交給美國，要麼銷燬】美國總統特朗普在社交媒體“真相社交”發文稱， 這些濃縮鈾（核原料）要麼立即交由美國運回本土銷燬；更為可取的方案是，與伊朗協作配合，在原地或雙方認可的其他地點完成銷燬，整個過程須由伊朗原子能組織或同級機構現場見證。"
-    },
-    {
-      "id": "4899136",
-      "time": "2026-05-26 05:46:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "【塞內加爾總統任命經濟學家阿米努·洛為新總理 】塞內加爾總統法耶25日任命艾哈邁杜·阿米努·洛為新任總理。總統府秘書長奧馬爾·桑巴·巴當天在國家電視臺宣讀相關總統令。（新華社）"
-    },
-    {
-      "id": "4899135",
-      "time": "2026-05-26 05:46:36",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：濃縮鈾要麼移交給美國，要麼銷燬。"
     }
   ]
 }
