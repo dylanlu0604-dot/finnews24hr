@@ -1,7 +1,200 @@
 {
-  "updated": "2026-06-01 09:59:25",
-  "count": 16049,
+  "updated": "2026-06-01 10:03:16",
+  "count": 16063,
   "items": [
+    {
+      "id": "mkt:019e80eb-3568-7666-845c-93fb8c414e2b",
+      "time": "2026-06-01 10:02:38",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bearish",
+        "CSI300"
+      ],
+      "text": "【May RatingDog China manufacturing PMI falls to 51.8; expansion slows】May RatingDog China manufacturing PMI 51.8, down 0.4 percentage points from April. Production and demand remain in expansion but momentum slowed; output rose but at a weaker pace. Total new orders continued to expand more slowly; new export orders declined from April into contraction. Cost and price pressures eased: input-material price gains narrowed and output price growth decelerated; firms’ pass‑through moderated. Overall manufacturing expansion slowed but underlying activity remains stable; continued new orders and output support the sector and easing cost pressure helps profit prospects, while weaker external demand is a downside risk."
+    },
+    {
+      "id": "4909413",
+      "time": "2026-06-01 10:02:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺交所加權股價指數上漲2%至45,636.53點。"
+    },
+    {
+      "id": "4909411",
+      "time": "2026-06-01 10:02:18",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達30億港元。"
+    },
+    {
+      "id": "4909410",
+      "time": "2026-06-01 10:02:13",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【大商所雞蛋主力合約觸及漲停】大商所雞蛋主力合約觸及漲停，報4391元/500千克，現漲幅為5.99%。"
+    },
+    {
+      "id": "4909409",
+      "time": "2026-06-01 10:02:09",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "國務院關於對外投資的規定：中國境內組織、個人參與對外投資相關仲裁、訴訟或者受到境外司法、執法機構相關調查，需要向境外提供證據或者相關材料的，應當遵守保守國家秘密、資料安全、個人資訊保護、技術出口管理、出口管制、司法協助等法律、行政法規和國家有關規定。依法須經主管機關准許的，應當履行相關法律程式。"
+    },
+    {
+      "id": "mkt:019e80ea-bc9c-7bb6-a9bf-5bc883a0870a",
+      "time": "2026-06-01 10:02:07",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Main egg futures contract hit the daily limit, rising 5.99% to 4,391 yuan per 500 kg."
+    },
+    {
+      "id": "4909408",
+      "time": "2026-06-01 10:02:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "菲律賓總統：毫無疑問，菲律賓與越南在維護本地區和平、穩定與基於規則的秩序方面有著共同利益。"
+    },
+    {
+      "id": "4909407",
+      "time": "2026-06-01 10:01:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【山東省自然資源廳原一級巡視員李樹民接受紀律審查和監察調查】據山東省紀委監委訊息：山東省自然資源廳原一級巡視員李樹民涉嫌嚴重違紀違法，目前正接受山東省紀委監委紀律審查和監察調查。"
+    },
+    {
+      "id": "4909406",
+      "time": "2026-06-01 10:01:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【鴻蒙智行5月交付46122臺】6月1日訊息，鴻蒙智行5月交付46,122臺，環比增長41%。"
+    },
+    {
+      "id": "mkt:019e80ea-64d1-7666-845c-8b0fcdb9e2a4",
+      "time": "2026-06-01 10:01:45",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component",
+        "SSE Composite"
+      ],
+      "text": "A-share small-metals sector rallied briefly; Changyu Group hit limit-up, Huaxi Nonferrous had earlier hit limit-up, and Xiye, Baowu Magnesium, Zhangyuan Tungsten, Jinmo and Anning also advanced."
+    },
+    {
+      "id": "4909405",
+      "time": "2026-06-01 10:01:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "菲律賓總統：在本地區應對不斷演變、充滿不確定性的全球環境之際，我們現有的夥伴關係變得愈發重要。"
+    },
+    {
+      "id": "mkt:019e80ea-2091-7666-845c-8572bf05c43f",
+      "time": "2026-06-01 10:01:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "000001.SS",
+        "Impact bullish",
+        "000300.SS"
+      ],
+      "text": "China A-share property sector rallied briefly. Joy City hit the daily limit; Huali Family had earlier sealed a limit-up. Dalong Real Estate, Rongsheng Development, Shahe, Shanghai Lingang and Lujiazui also advanced."
+    },
+    {
+      "id": "4909404",
+      "time": "2026-06-01 10:00:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "菲律賓總統：今日我們將與越南的關係提升為強化戰略伙伴關係。"
+    },
+    {
+      "id": "4909403",
+      "time": "2026-06-01 10:00:38",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "雞蛋連續主力合約日內漲4%，現報4847.00元。"
+    },
+    {
+      "id": "4909402",
+      "time": "2026-06-01 10:00:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【打造青少年法治與家校教育課堂 最高法等聯合推出一站式服務平臺】今天是“六一”國際兒童節，最高人民法院聯合教育部、共青團中央、全國婦聯等單位打造的“法護未來——青少年法治與家校教育課堂”在騰訊平臺上線。最高人民法院、教育部、共青團中央、全國婦聯結合四部門對未成年人保護的工作職責，協同發力、優勢互補，聚力打造內容權威、形式創新、覆蓋廣泛、持續執行的法治教育品牌專案，服務青少年健康成長的知識需要。（央視新聞）"
+    },
+    {
+      "id": "4909401",
+      "time": "2026-06-01 10:00:12",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【房地產板塊短線拉昇，大悅城漲停】房地產板塊短線拉昇，大悅城漲停，華麗家族此前封板，大龍地產、榮盛發展、沙河股份、上海臨港、陸家嘴等跟漲。相關ETF方面，房地產ETF華夏（515060）漲0.62%，成交額3004.29萬元，地產ETF華寶（159707）漲0.57%，成交額3491.78萬元。"
+    },
+    {
+      "id": "4909400",
+      "time": "2026-06-01 09:59:47",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超1萬億元，較上日此時縮量808億元。"
+    },
+    {
+      "id": "mkt:019e80e8-9a7a-7bb6-a9bf-45e12007f7ad",
+      "time": "2026-06-01 09:59:47",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Bank of Korea Governor Shin said oil-price rises typically worsen terms of trade, causing GDI growth to lag GDP, but part of the recent energy-price rise has been offset by South Korea's semiconductor exports."
+    },
+    {
+      "id": "4909399",
+      "time": "2026-06-01 09:59:14",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "國務院關於對外投資的規定：國家健全境外投資安全審查制度，國務院投資主管部門、商務主管部門會同國務院其他有關部門對影響或者可能影響國家安全的境外投資及相關資產、權益等的轉讓、處分進行安全審查。有關組織、個人應當予以協助、配合，不得拒絕、阻礙，並應當遵守境外投資安全審查決定。"
+    },
+    {
+      "id": "4909398",
+      "time": "2026-06-01 09:59:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "銀行間主要利率債收益率下行，10年期國債“26附息國債10”收益率破1.70%關口，下行0.9bp報1.6980%；30年期國債“26超長特別國債02”收益率破2.19%關口，下行1.8bp報1.1880%。"
+    },
+    {
+      "id": "te:markets:555157",
+      "time": "2026-06-01 09:58:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "US Natgas Prices Climb Further — US natural gas futures rose further to $3.36 per MMBtu, the highest level since early February, amid expectations of stronger demand over the next two weeks. Forecasts indicate mostly above-normal temperatures through June 13, increasing the likelihood that power generators will consume more gas to meet rising air-conditioning demand. Additional support came from the latest EIA report, which showed a smaller-than-expected increase in gas storage inventories. On the supply side, gas production in the Lower 48 states averaged 109.4 billion bcfd in May, down from 109.8 bcfd in April, providing further upward pressure on prices. Meanwhile, flows to major LNG export plants fell from a monthly record high of 18.8 bcfd in April to 17.1 bcfd so far in May due to seasonal maintenance at several plants. US gas prices rallied 18.9% in May, after a 4.1 % drop in April."
+    },
     {
       "id": "4909397",
       "time": "2026-06-01 09:58:45",
@@ -145906,64 +146099,6 @@
         "公司"
       ],
       "text": "【油氣開採及服務板塊持續走低，通源石油、科力股份跌超8%】油氣開採及服務板塊持續走低，通源石油、科力股份跌超8%，首華燃氣、中油工程、中曼石油跟跌。"
-    },
-    {
-      "id": "4897737",
-      "time": "2026-05-25 10:03:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時中國A50指數期貨上漲1%。"
-    },
-    {
-      "id": "4897736",
-      "time": "2026-05-25 10:02:32",
-      "tags": [
-        "市場"
-      ],
-      "text": "【算力租賃概念震盪調整 三人行、恆為科技雙雙跌停】算力租賃概念盤中震盪下挫，三人行、恆為科技雙雙跌停，行雲科技一度跌超19%，中貝通訊、揚電科技、優刻得、奧瑞德、宏景科技跟跌。"
-    },
-    {
-      "id": "4897735",
-      "time": "2026-05-25 10:02:04",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【國務院國資委舉辦中央企業新材料領域青年科技領軍人才特訓班】日前，國務院國資委舉辦中央企業新材料領域青年科技領軍人才特訓班，國務院國資委黨委委員、副主任譚作鈞出席開班式並講話。譚作鈞強調，要深入學習貫徹習近平總書記關於新材料產業發展的重要指示批示精神，貫徹落實黨中央、國務院決策部署，切實增強責任感緊迫感，加快推動適應AI的組織進步，加快培養一批懂專業、通AI、有前瞻、善創新的複合型人才。要緊扣國家重大戰略需求，突出AI賦能，透過24天跨專業、跨單位、跨領域的學習交流研討，全方位構建新材料產業的完整知識體系和能力結構，在把握新材料產業重點發展方向上有新認知，在推動底層技術和原始創新上有新突破，在提升跨領域協同創新上有新進展，特別是在重構基於AI的新材料研發體系上有新思考，切實推動AI體系嵌入材料設計、製備、驗證、應用全過程。本次特訓班是國務院國資委2026年戰略性新興產業和未來產業急需緊缺人才特訓的第2個班，由中國石油、中國石化、中國鋼研、中國建材承辦，邀請11名院士在內的46名頂尖專家授課，40家企業的159名學員參訓。國務院國資委有關廳局負責同志、有關中央企業分管負責同志參加開班式。"
-    },
-    {
-      "id": "4897734",
-      "time": "2026-05-25 10:01:40",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印尼股市基準指數上漲1%至6222.91點。"
-    },
-    {
-      "id": "4897733",
-      "time": "2026-05-25 10:01:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中國與俄羅斯簽署反壟斷執法和競爭政策領域諒解備忘錄】5月20日，國家市場監督管理總局局長羅文與俄羅斯聯邦反壟斷局局長馬克西姆·沙斯科利斯基簽署《中華人民共和國國家市場監督管理總局與俄羅斯聯邦反壟斷局諒解備忘錄（2026—2027）》。 該備忘錄旨在落實中俄政府間反壟斷執法和競爭政策領域合作協定，約定了雙方交流反壟斷和反不正當競爭、廣告領域資訊，開展具體案件執法交流協作與邊境合作等，以促進兩國經濟健康有序發展。"
-    },
-    {
-      "id": "4897732",
-      "time": "2026-05-25 10:00:33",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "30年期日本政府債券（JGB）收益率<JP30YTN=JBTC>下跌5.5個基點，至3.955%。"
-    },
-    {
-      "id": "4897731",
-      "time": "2026-05-25 10:00:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國海油等成立油田開發新公司】企查查APP顯示，近日，中海油（錦州）油田開發有限公司成立，經營範圍包含：海洋石油開採；海洋天然氣開採；深海海底區域資源勘探開發；海洋工程關鍵配套系統開發等。企查查股權穿透顯示，該公司由中國海油全資子公司中海石油（中國）有限公司等共同持股。"
     }
   ]
 }
