@@ -1,7 +1,41 @@
 {
-  "updated": "2026-06-03 05:46:25",
-  "count": 18454,
+  "updated": "2026-06-03 05:50:16",
+  "count": 18456,
   "items": [
+    {
+      "id": "mkt:019e8a4e-5e0e-733d-881b-0e5bd3c0d9e3",
+      "time": "2026-06-03 05:47:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Explosions reported near Qeshm Island, southern Iran】Residents reported hearing blasts near Qeshm Island in southern Iran in the early hours of June 3 local time. The nature and cause of the explosions are unclear and Iranian authorities have not commented."
+    },
+    {
+      "id": "4913692",
+      "time": "2026-06-03 05:47:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "委內瑞拉國民議會初審透過法案，擬放開電力行業、引入民間資本投資。"
+    },
+    {
+      "id": "mkt:019e8a4e-21f7-733d-881b-0415eae4cdc9",
+      "time": "2026-06-03 05:47:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Venezuela's National Assembly provisionally passed legislation to allow private investment in the power sector."
+    },
+    {
+      "id": "4913691",
+      "time": "2026-06-03 05:46:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗南部格什姆島傳出爆炸聲】當地時間6月3日凌晨，據伊朗南部格什姆島當地居民報告稱，聽到該地附近傳出爆炸聲。目前尚不清楚爆炸的具體性質，伊朗官方也暫未就爆炸原因發表評論。（央視新聞）"
+    },
     {
       "id": "4913690",
       "time": "2026-06-03 05:45:22",
@@ -169164,26 +169198,6 @@
         "國際"
       ],
       "text": "巴西參議員博索納羅：我告訴特朗普，如果我當選，我們將達成貿易協議。"
-    },
-    {
-      "id": "4901051",
-      "time": "2026-05-27 05:48:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場資訊：英國將與波蘭簽署一項新的防務與安全協議，以遏制俄羅斯構成的威脅。"
-    },
-    {
-      "id": "mkt:019e6642-9a0e-7332-8106-fb3d8c5754c0",
-      "time": "2026-05-27 05:48:21",
-      "tags": [
-        "MKT News",
-        "LMT.O",
-        "Impact bullish",
-        "RTX.O",
-        "NOC.O"
-      ],
-      "text": "【UK, Poland To Sign Defense-Security Pact To Deter Russia】UK, Poland To Sign Defense-Security Pact In London; Starmer, TUSK To Finalize Wed; Pact To Co-Produce Next-Gen Medium-Range Air-Defence Missiles, Hold Large Joint Exercises, Accelerate Counter-Hybrid Ops (arson, cargo fires, cyberattacks, espionage)"
     }
   ]
 }
