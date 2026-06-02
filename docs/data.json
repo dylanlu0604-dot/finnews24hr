@@ -1,7 +1,159 @@
 {
-  "updated": "2026-06-02 21:55:36",
-  "count": 18063,
+  "updated": "2026-06-02 21:59:46",
+  "count": 18069,
   "items": [
+    {
+      "id": "4913175",
+      "time": "2026-06-02 21:58:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：俄美專家上週會晤討論雙邊議題。"
+    },
+    {
+      "id": "mkt:019e88a0-fc44-777f-8415-d6d195691ef3",
+      "time": "2026-06-02 21:58:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TASS reported Russian and U.S. experts met last week to discuss bilateral issues."
+    },
+    {
+      "id": "mkt:019e88a0-d586-777f-8415-ce80d68bd5e3",
+      "time": "2026-06-02 21:58:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Politico reports Texas Attorney General Ken Paxton, who recently clinched the Republican nomination for the U.S. Senate, plans to meet with Trump at the White House on Tuesday evening local time."
+    },
+    {
+      "id": "te:markets:555802",
+      "time": "2026-06-02 21:58:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Climbs to Fresh Record — The S&P/TSX Composite Index rose 0.5% to trade near the 35,000 mark on Tuesday, reaching a record high after underperforming US stocks in the previous session. Energy and mining shares led gains as oil prices remained elevated despite retreating from Monday’s spike, while gold prices moved higher. Canadian Natural and Suncor added about 1%, benefiting from firm crude prices. Barrick gained nearly 1% after reports that it is considering a London listing for its African business, with a potential all-share transaction involving UK-listed Endeavour Mining among the options under review. On the geopolitical front, US President Donald Trump said talks with Iran were ongoing, although tensions between Israel and Lebanon continued to cloud prospects for a broader agreement and the eventual normalization of trade flows through the region."
+    },
+    {
+      "id": "mkt:019e889f-abfc-777f-8415-c7c3cddf9023",
+      "time": "2026-06-02 21:57:06",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said Mossad will continue to be on the front line against Iranian aggression."
+    },
+    {
+      "id": "4913174",
+      "time": "2026-06-02 21:57:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【費城半導體指數漲超4%創歷史新高】費城半導體指數盤初漲超4%創歷史新高，邁威爾科技漲幅擴大至23%，博通漲超5%，臺積電漲超2%，美光科技、AMD、高通漲超1%。"
+    },
+    {
+      "id": "mkt:019e889f-783d-777f-8415-b9caa59de05d",
+      "time": "2026-06-02 21:56:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said the Iranian regime is destined to perish and Israel will help bring it to an end."
+    },
+    {
+      "id": "4913173",
+      "time": "2026-06-02 21:56:48",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡：伊朗政權註定要消亡，我們將幫助結束它。"
+    },
+    {
+      "id": "te:markets:555800",
+      "time": "2026-06-02 21:56:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Walt Disney Stock Price Hits 4-week Low — Walt Disney shares decreased to 100.31 USD, the lowest since May 2026. Over the past 4 weeks, Walt Disney lost 0.73%, and in the last 12 months, it decreased 10.96%."
+    },
+    {
+      "id": "4913172",
+      "time": "2026-06-02 21:56:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡：摩薩德將繼續處在對抗伊朗的前線。"
+    },
+    {
+      "id": "te:economy:555799",
+      "time": "2026-06-02 21:55:46",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Poland",
+        "Interest Rate",
+        "Importance 1"
+      ],
+      "text": "National Bank of Poland Holds Rate as Expected — The National Bank of Poland held its reference policy rate at 3.75% in its June 2026 meeting, maintaining the rate at its lowest level in four years, as widely expected by markets. The hold contrasted with what is likely to be a rate hike by neighboring Eurozone countries next week, consistent with a relatively stable zloty and recent evidence of price stability in the Polish economy. The latest data showed that headline inflation eased to 3.1% in May from 3.2% in the earlier month, well below market expectations of 3.6% to push back against concerns that the surge in energy prices since the war in Iran would trigger an entrenched increase in consumer prices."
+    },
+    {
+      "id": "4913171",
+      "time": "2026-06-02 21:55:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "丹戈特（Dangote）執行長：我們目前擁有極充足的航空煤油庫存，完全有能力以極具競爭力的價格將產品交付到全球各地。"
+    },
+    {
+      "id": "mkt:019e889d-c11e-777f-8415-b5cf9dce8718",
+      "time": "2026-06-02 21:55:00",
+      "tags": [
+        "MKT News",
+        "Market Regions"
+      ],
+      "text": "Mexico's main stock index rose 1% after three consecutive days of declines."
+    },
+    {
+      "id": "mkt:019e889d-b637-777f-8415-ab33830b3570",
+      "time": "2026-06-02 21:54:57",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Brazil's National Petroleum Agency (ANP) said April oil and gas production averaged 5.64 million barrels of oil equivalent per day; oil output was 4.34 million bpd, up 19.5% YoY."
+    },
+    {
+      "id": "te:markets:555798",
+      "time": "2026-06-02 21:54:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Mastercard Stock Price Hits 13-month Low — Mastercard shares decreased to 479.67 USD, the lowest since April 2025. Over the past 4 weeks, Mastercard lost 4.8%, and in the last 12 months, it decreased 17.43%."
+    },
     {
       "id": "4913170",
       "time": "2026-06-02 21:54:09",
@@ -165447,87 +165599,6 @@
         "Importance 0"
       ],
       "text": "GSCI Hits 4-week Low — GSCI decreased to 710.55 Index Points, the lowest since April 2026. Over the past 4 weeks, GSCI Commodity Index lost 2.38%, and in the last 12 months, it increased 35.72%."
-    },
-    {
-      "id": "4900738",
-      "time": "2026-05-26 21:59:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：哥倫比亞成立專項小組，調查哥倫比亞總統佩特羅涉嫌干預選舉一事。"
-    },
-    {
-      "id": "4900737",
-      "time": "2026-05-26 21:58:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "【水利部：推動建立水預算管理制度 “像管錢一樣管水”】記者26日從水利部在寧夏銀川市召開的水預算管理試點建設現場會上獲悉，水利部將推動水預算管理制度加快建立落地，力爭在“十五五”期間實現水預算管理全覆蓋，相關制度政策標準體系基本完善，節水基礎設施短板基本補齊，水資源精細化管理水平明顯提升。水預算管理，核心就是將財政預算理念融入水資源全週期管理，“像管錢一樣管水”，實現水資源精細化管理和高效配置。自2024年全國水預算管理試點工作啟動以來，水利部統籌推動全國20個、省級78個試點建設，形成一批可複製可推廣的經驗做法。 (新華社)"
-    },
-    {
-      "id": "4900736",
-      "time": "2026-05-26 21:58:08",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【雞蛋期貨上演“淡季逆襲” 上市公司稱直接影響有限】在現貨供應偏緊、庫存極低與資金湧入的共同推動下，雞蛋期貨主力2607合約強勢突破，創下上市以來新高，上演了一波凌厲的“淡季逆襲”行情。曉鳴股份表示，農產品單邊上漲行情通常難以持續，需關注行業螺旋式發展中的波動性。禽業龍頭聖農發展認為，此輪蛋價上漲源於其自身週期反彈，與肉雞行業無關。此外，由於缺乏對應的期貨工具，公司也無法利用雞蛋或生豬期貨來對沖肉雞業務的價格風險。 (每經網)"
-    },
-    {
-      "id": "te:markets:553796",
-      "time": "2026-05-26 21:57:31",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Western Digital Stock Price Hits All-time High — Western Digital shares increased to an all-time high of 525.24 USD. Over the past 4 weeks, Western Digital gained 30.8%, and in the last 12 months, it increased 911.5%."
-    },
-    {
-      "id": "4900735",
-      "time": "2026-05-26 21:57:29",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【陳剛韋韜會見中國黃金集團周洲殷長波 共同見證雙方簽署戰略合作框架協議】5月26日，廣西壯族自治區黨委書記、自治區人大常委會主任陳剛，自治區主席韋韜在南寧會見中國黃金集團有限公司董事長周洲、總經理殷長波一行，共同見證自治區政府與中國黃金集團簽署戰略合作框架協議。陳剛、韋韜代表自治區黨委、政府對中國黃金集團長期以來給予廣西發展的大力支援表示感謝。陳剛表示，廣西深入貫徹落實習近平總書記關於廣西工作論述的重要要求，搶抓高水平共建西部陸海新通道等重大機遇，持續擴大對內對外開放，加快打造製造業十大現代化支柱產業，全力推進有色金屬產業特別是關鍵金屬產業高階化、智慧化、綠色化、規模化、園區化發展，因地制宜發展新質生產力，加快推動高質量發展。廣西是中國有色金屬之鄉，礦產資源豐富，區位優勢獨特，雙方合作潛力巨大。希望中國黃金集團進一步加大在桂投資佈局力度，共同落實好戰略合作框架協議，在礦權整合、科技創新、產業鏈延伸等方面深化合作，攜手推動廣西礦業“走出去”，共同打造國家級關鍵金屬產業叢集，實現互利共贏、共同發展。（廣西釋出）"
-    },
-    {
-      "id": "mkt:019e6493-5110-7330-84b4-c19423873fad",
-      "time": "2026-05-26 21:57:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "VON DER LEYEN Calls For Hybrid-Threat Response Pact"
-    },
-    {
-      "id": "4900734",
-      "time": "2026-05-26 21:56:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟委員會會主席：應制定混合威脅應對預案。"
-    },
-    {
-      "id": "4900733",
-      "time": "2026-05-26 21:56:27",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【巴克萊分析師：英國石油公司董事會在又一次人事失誤後應面臨質詢】巴克萊分析師Lydia Rainforth寫道，在董事長Albert Manifold因嚴重的公司治理問題辭職後，需要對英國石油公司董事會的決策過程提出嚴重質疑。她表示，雖然他被解僱的原因尚不清楚，但他的任命似乎是該董事會的又一次失誤。她說，該能源公司大量的人事變動應該會引發質疑。該股交易價格下跌4.4%，報5.27英鎊，早些時候曾下跌超過9%。"
-    },
-    {
-      "id": "mkt:019e6491-f552-7330-84b4-b83a66cf09f1",
-      "time": "2026-05-26 21:55:47",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "U.S. TRUMP, Cabinet To Discuss Economic, Foreign-Policy Updates Wed"
     }
   ]
 }
