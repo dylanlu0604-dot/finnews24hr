@@ -1,7 +1,180 @@
 {
-  "updated": "2026-06-02 23:31:00",
-  "count": 18202,
+  "updated": "2026-06-02 23:35:04",
+  "count": 18203,
   "items": [
+    {
+      "id": "mkt:019e88f8-8f84-7007-9c8f-15e6a4cfa6e7",
+      "time": "2026-06-02 23:34:11",
+      "tags": [
+        "MKT News",
+        "EURUSD"
+      ],
+      "text": "Market sources say the EU has asked relevant bodies for advice to assess additional financing needs."
+    },
+    {
+      "id": "4913359",
+      "time": "2026-06-02 23:34:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "AMC股價大漲22%，受益於觀影人次創2019年以來歷年5月新高，但分析師警示其揹負79.3億美元債務，存在破產風險。"
+    },
+    {
+      "id": "mkt:019e88f8-4948-7007-9c8f-0c943a150d6e",
+      "time": "2026-06-02 23:33:52",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB Governing Council member Sleijpen said policymakers must monitor whether energy is driving broader inflation."
+    },
+    {
+      "id": "4913358",
+      "time": "2026-06-02 23:33:41",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行官員斯萊彭：需觀察能源漲價是否向整體通脹傳導。"
+    },
+    {
+      "id": "mkt:019e88f7-9491-7007-9c8f-075b0abddb6e",
+      "time": "2026-06-02 23:33:07",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "US 6-week Treasury auction to June 2 — share awarded at the stop-out rate 63.21%, prior 68.12%."
+    },
+    {
+      "id": "4913357",
+      "time": "2026-06-02 23:33:02",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行行長貝利表示，央行儲備規模正穩步回落至均衡水平。"
+    },
+    {
+      "id": "4913356",
+      "time": "2026-06-02 23:32:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟向相關機構發出需求建議書，徵集後續資金需求方案。"
+    },
+    {
+      "id": "mkt:019e88f7-5357-7007-9c8e-fd204fd70e18",
+      "time": "2026-06-02 23:32:50",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "US 6-week Treasury bill auction on June 2: bid-cover ratio 3.28, prior 2.71."
+    },
+    {
+      "id": "mkt:019e88f7-3828-7007-9c8e-f03a64ee5605",
+      "time": "2026-06-02 23:32:43",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "EURUSD"
+      ],
+      "text": "U.S. 6-week Treasury bill auction (settlement June 2): stop-out yield 3.625%, prior 3.62%."
+    },
+    {
+      "id": "4913355",
+      "time": "2026-06-02 23:32:31",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣六週期國債，得標利率3.625%，投標倍數3.28。"
+    },
+    {
+      "id": "4913354",
+      "time": "2026-06-02 23:32:21",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "豐田汽車北美公司：公佈2026年5月美國汽車銷量為23.88萬輛。"
+    },
+    {
+      "id": "4913353",
+      "time": "2026-06-02 23:32:14",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "豐田汽車北美公司：2026年5月美國電動化車型總銷量為137,031輛。"
+    },
+    {
+      "id": "mkt:019e88f6-5407-7007-9c8e-ebd57a84fc63",
+      "time": "2026-06-02 23:31:45",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【Netanyahu: Israel will never allow Iran to threaten its existence】On the 2nd, Israeli Prime Minister Netanyahu said at a Mossad leadership handover that he will never allow Iran to threaten Israel's existence, reiterating long-standing policy to prevent Iran from acquiring nuclear weapons. He called the Iranian regime a \"terrorist regime destined to disappear from the world\" and said Israel would \"help achieve that goal,\" ensuring Iran cannot threaten Israel with \"a nuclear bomb and thousands of lethal ballistic missiles.\""
+    },
+    {
+      "id": "4913352",
+      "time": "2026-06-02 23:31:29",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【歐洲主要股指收盤普漲】歐洲斯托克600指數上漲0.68%，歐洲斯托克指數上漲0.95%，歐元區藍籌股指數上漲1.17%。英國富時100指數上漲0.36%，德國DAX指數上漲0.46%，法國CAC 40指數上漲0.78%，西班牙IBEX指數上漲0.46%。"
+    },
+    {
+      "id": "4913351",
+      "time": "2026-06-02 23:31:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列與黎巴嫩開啟第四輪談判。"
+    },
+    {
+      "id": "mkt:019e88f5-61f0-7007-9c8e-e7a9aa3c5865",
+      "time": "2026-06-02 23:30:43",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "TM.N"
+      ],
+      "text": "Toyota Motor (TM.N) sold 238,800 vehicles in the U.S. in May, down 0.6% YoY. U.S. electric vehicle sales in May totaled 137,031 units, up 15.3% YoY."
+    },
+    {
+      "id": "4913350",
+      "time": "2026-06-02 23:30:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國計劃在亞塞拜然進行能源投資，並稱已簽署總金額達80億美元的協議。"
+    },
     {
       "id": "4913349",
       "time": "2026-06-02 23:30:09",
@@ -166632,186 +166805,6 @@
         "市場"
       ],
       "text": "【美光市值突破1萬億美元大關 AI帶來旺盛需求】美光科技市值週二突破1萬億美元，躋身萬億陣營，這再度顯示儲存相關的半導體已成為AI基礎設施建設的關鍵組成部分。該股今年以來累計上漲逾210%，此前2025年上漲近240%。"
-    },
-    {
-      "id": "mkt:019e64ec-3c5f-7772-bfd9-12799b6ec74c",
-      "time": "2026-05-26 23:34:12",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "ISRAELI MILITARY Says Expanding Ground Ops South Of Yellow Line In South Lebanon To Eliminate Direct Threat To Civilians, Troops"
-    },
-    {
-      "id": "4900853",
-      "time": "2026-05-26 23:33:21",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "美國財政部拍賣三個月期國債，得標利率3.595%，投標倍數3.08。拍賣六個月期國債，得標利率3.650%，投標倍數2.77。"
-    },
-    {
-      "id": "4900852",
-      "time": "2026-05-26 23:33:07",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "以色列軍方官員：以軍越過黃線、在黎巴嫩南部擴大地面行動，目的是消除針對本國平民及軍人的直接威脅。"
-    },
-    {
-      "id": "mkt:019e64ea-dc55-7772-bfd9-093f17d01c5e",
-      "time": "2026-05-26 23:32:30",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "U.S. 3M Govt Auction BID-COVER RATIO Falls To 3.08 From 3.17"
-    },
-    {
-      "id": "mkt:019e64ea-db17-7772-bfd9-008a19550afc",
-      "time": "2026-05-26 23:32:25",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "US 3M Govt Bond Auction — Allocation At Winning Rate 25.6% (Prev 12.47%)"
-    },
-    {
-      "id": "mkt:019e64ea-6560-7772-bfd8-fe445671b4c0",
-      "time": "2026-05-26 23:32:19",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "U.S. 3M Treasury Stop-Out Yield 3.595% Prev 3.60%"
-    },
-    {
-      "id": "mkt:019e64ea-6557-7772-bfd8-f0e925050d9b",
-      "time": "2026-05-26 23:32:19",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "US 6M Treasury Auction: 37.55% Allocated At Stop-Out Yield; Prior 37.69%"
-    },
-    {
-      "id": "mkt:019e64ea-64e7-7772-bfd8-ee98f035b2c7",
-      "time": "2026-05-26 23:32:18",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "US 6M Govt Bond Auction Stop Rate 3.65% (May 26) Prev 3.62%"
-    },
-    {
-      "id": "mkt:019e64ea-5454-7772-bfd8-e266032de306",
-      "time": "2026-05-26 23:32:12",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "US 6M Treasury Auction BID-COVER RATIO 2.77, Prev 3.07"
-    },
-    {
-      "id": "mkt:019e64ea-39e4-7772-bfd8-cf2c98e0e166",
-      "time": "2026-05-26 23:32:06",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 3-Month Bill Auction Bid/Cover Ratio (May.26) | actual 3.08 | previous 3.17"
-    },
-    {
-      "id": "mkt:019e64ea-39e5-7772-bfd8-dfba0b970ffe",
-      "time": "2026-05-26 23:32:06",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 3-Month Bill Auction High Yield Rate (May.26) | actual 3.595% | previous 3.60%"
-    },
-    {
-      "id": "mkt:019e64ea-39e4-7772-bfd8-d5c7f26485bb",
-      "time": "2026-05-26 23:32:06",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 3-Month Bill Auction Accepted at High (May.26) | actual 25.6% | previous 12.47%"
-    },
-    {
-      "id": "mkt:019e64ea-105d-7772-bfd8-c2cc70d0cbc9",
-      "time": "2026-05-26 23:32:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 6-Month Bill Auction Bid/Cover Ratio (May.26) | actual 2.77 | previous 3.07"
-    },
-    {
-      "id": "mkt:019e64ea-1025-7772-bfd8-bc91c9d03d7e",
-      "time": "2026-05-26 23:32:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 6-Month Bill Auction High Yield Rate (May.26) | actual 3.65% | previous 3.62%"
-    },
-    {
-      "id": "mkt:019e64ea-101c-7772-bfd8-b12d97d78955",
-      "time": "2026-05-26 23:32:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 6-Month Bill Auction Accepted at High (May.26) | actual 37.55% | previous 37.69%"
-    },
-    {
-      "id": "4900851",
-      "time": "2026-05-26 23:31:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "【魯比奧：伊朗協議談判需更多時間】美國國務卿魯比奧表示，美伊雙方為延長停火、重開霍爾木茲海峽而展開的談判，因協議草案措辭仍有分歧，還需數日才能完成。 他稱，美方堅持該水道保持完全開放、免費通行，並警告特朗普總統不會接受一份 “糟糕的協議”。"
     }
   ]
 }
