@@ -1,7 +1,146 @@
 {
-  "updated": "2026-06-03 02:27:17",
-  "count": 18426,
+  "updated": "2026-06-03 02:31:21",
+  "count": 18433,
   "items": [
+    {
+      "id": "mkt:019e899a-3806-7779-8aad-961947e51709",
+      "time": "2026-06-03 02:30:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Microsoft (MSFT.O) executive said the company's AI inference models were co-developed on its own chips."
+    },
+    {
+      "id": "4913591",
+      "time": "2026-06-03 02:30:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【白宮記協晚宴改期至7月 特朗普稱計劃出席】當地時間6月2日，美國總統特朗普表示，此前因突發暴力事件而中斷的白宮記協晚宴已確定改期至7月24日舉行，他已接受邀請並計劃出席活動。特朗普在社交媒體發文稱，白宮記者協會主席邀請其出席並發表講話，他已經接受邀請。他表示，不確定屆時是否會發表與此前類似的“尖銳言論”，但“一切很快就會見分曉”。特朗普還稱，重新舉辦晚宴是件好事，因為“不能讓瘋狂分子改變我們的生活方式，甚至改變活動安排”。他預計這將是一場“一票難求”的熱門活動。"
+    },
+    {
+      "id": "te:markets:555847",
+      "time": "2026-06-03 02:30:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Bitcoin Slumps by 5.78% — Top crypto losers are Bitcoin (-5.78%), XRP (-5.59%) and Ether (-4.56%)."
+    },
+    {
+      "id": "4913590",
+      "time": "2026-06-03 02:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收跌0.41%，報603.60元人民幣/桶。滬金夜盤收漲0.17%，滬銀收漲0.24%。"
+    },
+    {
+      "id": "4913589",
+      "time": "2026-06-03 02:29:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟高管稱，微軟推理大模型由其自研晶片聯合開發。"
+    },
+    {
+      "id": "mkt:019e8999-51f0-7779-8aad-8cab83dd8ace",
+      "time": "2026-06-03 02:29:43",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O",
+        "Impact bullish"
+      ],
+      "text": "Microsoft (MSFT.O) head of AI said MAI Image 2.5 and its Flash variant have surpassed Nano Banana 2 on image-editing benchmarks."
+    },
+    {
+      "id": "mkt:019e8998-e3c6-7779-8aad-867c308101bf",
+      "time": "2026-06-03 02:29:18",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "MSFT.O"
+      ],
+      "text": "Microsoft (MSFT.O) head of AI said MAI-CODE-1 FLASH is Microsoft's new code-generation model."
+    },
+    {
+      "id": "4913588",
+      "time": "2026-06-03 02:29:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟人工智慧負責人：MAI Image 2.5及其極速版本在影象編輯任務上的得分超越了Nano Banana 2。"
+    },
+    {
+      "id": "mkt:019e8998-a15c-7779-8aad-78c5de53a3ef",
+      "time": "2026-06-03 02:29:00",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O",
+        "Impact bullish"
+      ],
+      "text": "Microsoft (MSFT.O) head of AI said MAI-THINKING-1 is the company's first inference model."
+    },
+    {
+      "id": "mkt:019e8998-50ef-7779-8aad-75b050d52f13",
+      "time": "2026-06-03 02:28:37",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "Microsoft (MSFT.O) head of AI said MAI-THINKING-1 is an inference model with 35 billion active parameters."
+    },
+    {
+      "id": "mkt:019e8997-cb5e-7779-8aad-6925113ce7f8",
+      "time": "2026-06-03 02:28:06",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Microsoft",
+        "MSFT.O",
+        "Impact bullish"
+      ],
+      "text": "Microsoft (MSFT.O) head of AI said the MAI-TRANSCRIBE-1.5 model is the most cost-effective among comparable models from all hyperscale cloud providers."
+    },
+    {
+      "id": "mkt:019e8997-347d-7779-8aad-6750fa4808dc",
+      "time": "2026-06-03 02:27:26",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "MSFT.O",
+        "Impact bullish"
+      ],
+      "text": "Microsoft (MSFT.O) AI chief announced the launch of seven new AI models, adding image and transcription models to its product lineup."
+    },
+    {
+      "id": "4913587",
+      "time": "2026-06-03 02:27:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟人工智慧負責人：MAI-CODE-1 Flash是微軟全新程式設計模型。"
+    },
     {
       "id": "mkt:019e8996-9f52-7779-8aad-5bcc7d55e95a",
       "time": "2026-06-03 02:26:47",
@@ -168804,58 +168943,6 @@
         "國際"
       ],
       "text": "以色列國防軍：巴阿姆地區拉響防空警報，偵測到敵方飛行器入侵。"
-    },
-    {
-      "id": "4900938",
-      "time": "2026-05-27 02:31:16",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI 7月原油期貨收報93.89美元/桶。NYMEX 6月天然氣期貨收報2.8940美元/百萬英熱單位。NYMEX 6月汽油期貨收報3.2205美元/加侖，NYMEX 6月取暖油期貨收報3.7146美元/加侖。"
-    },
-    {
-      "id": "4900937",
-      "time": "2026-05-27 02:30:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "NASA:  藍色起源將交付首輛月球地形車。"
-    },
-    {
-      "id": "4900936",
-      "time": "2026-05-27 02:30:11",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【廉價SOFR期權大買家現身，意在對沖美聯儲加息溢價】5月26日長週末歸來，有擔保隔夜融資利率（SOFR）期權市場出現顯著資金流向，其中最引人注目的是買家透過大手筆買入廉價的“12月看漲期權蝶式組合”，來大舉押注看漲空間。該頭寸的核心目標，是瞄準市場目前計價的、截止到今年年底的美聯儲緊縮（加息）幅度的回落。"
-    },
-    {
-      "id": "te:markets:553839",
-      "time": "2026-05-27 02:30:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: Ether Drops by 1.85% — Top crypto losers are Ether (-1.85%), Bitcoin (-1.69%) and XRP (-1.10%)."
-    },
-    {
-      "id": "4900935",
-      "time": "2026-05-27 02:30:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "上期所原油期貨夜盤收漲0.81%，報609.50元人民幣/桶。滬金夜盤收跌1.15%，滬銀收跌1.38%。"
-    },
-    {
-      "id": "4900934",
-      "time": "2026-05-27 02:29:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "據美聯社：華盛頓州一化學品儲罐發生內爆，造成人員遇難。"
     }
   ]
 }
