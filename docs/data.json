@@ -1,7 +1,62 @@
 {
-  "updated": "2026-06-02 13:14:04",
-  "count": 17350,
+  "updated": "2026-06-02 13:18:05",
+  "count": 17351,
   "items": [
+    {
+      "id": "4911910",
+      "time": "2026-06-02 13:17:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "半導體板塊震盪走高，裕太微20cm漲停，源傑科技、江豐電子、傑華特漲幅居前。"
+    },
+    {
+      "id": "4911909",
+      "time": "2026-06-02 13:17:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三星重工獲北美4.33萬億韓元FLNG訂單】6月2日，據報道，三星重工表示，公司從一家北美客戶手中獲得了一份浮式液化天然氣生產設施（FLNG）的訂單，合同金額達4.3301萬億韓元。該設施預計於2030年7月交付，將在客戶發出開工通知後啟動建造工作。"
+    },
+    {
+      "id": "4911908",
+      "time": "2026-06-02 13:16:52",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本10年期國債收益率下跌10個基點，至2.580%。"
+    },
+    {
+      "id": "mkt:019e86c2-6174-7dd4-a7a7-7e150bf8a798",
+      "time": "2026-06-02 13:15:44",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "QCOM.O",
+        "Impact bullish"
+      ],
+      "text": "【Qualcomm CEO Amon: intelligent agents a reality, endpoint transformation set to accelerate】Qualcomm President and CEO Cristiano Amon, in the opening keynote at COMPUTEX 2026 in Taipei, said intelligent agents are becoming the primary driver of AI token demand, enabling AI at scale and shaping future AI architecture and economics. He said future agents will proactively run compute on users’ behalf, auto‑assign tasks and exploit end‑to‑end compute across all scenarios."
+    },
+    {
+      "id": "4911907",
+      "time": "2026-06-02 13:15:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "【江西銅業觸及漲停】江西銅業觸及漲停，成交額33.33億元。"
+    },
+    {
+      "id": "4911906",
+      "time": "2026-06-02 13:13:59",
+      "tags": [
+        "公司",
+        "國際",
+        "原創"
+      ],
+      "text": "【黃仁勳將亮相韓國熱門綜藝節目】韓國TvN電視臺週二宣佈，英偉達CEO黃仁勳將在即將到來的首爾之行中作客韓國熱門綜藝節目《You Quiz on the Block》。《You Quiz on the Block》是韓國收視率最高的脫口秀節目之一，由人氣喜劇演員劉在石主持。微軟聯合創始人比爾·蓋茨去年8月訪韓時就曾作客這檔節目。TvN的運營商CJ ENM表示，黃仁勳將與劉在石探討其人生歷程，以及他對人工智慧和社會未來的看法。"
+    },
     {
       "id": "4911905",
       "time": "2026-06-02 13:13:24",
@@ -158655,51 +158710,6 @@
         "國際"
       ],
       "text": "【中國海警依法驅離日非法進入我釣魚島領海船隻】中國海警局新聞發言人姜略表示，5月26日，日本“獅子”號漁船非法進入中國釣魚島領海，中國海警艦艇依法對其採取必要管控措施並警告驅離。釣魚島及其附屬島嶼是中國固有領土，我們敦促日方立即停止在該海域的一切侵權挑釁行徑。中國海警將持續在釣魚島海域開展維權執法，維護國家主權和海洋權益。"
-    },
-    {
-      "id": "4899655",
-      "time": "2026-05-26 13:17:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "【機構：全球固定收益市場提供具吸引力的長期機會】Payden & Rygel的Paul Saint-Pasteur在一份報告中表示，儘管地緣政治不確定性加劇、通脹擔憂持續以及全球增長預期發生變化，但全球固定收益市場繼續為長期投資者提供極具吸引力的機會。“固定收益可以再次透過套息產生可觀的收益，這意味著投資者不再需要僅僅依靠收益率下降和資本升值來產生回報，“這位董事兼全球固定收益策略師表示。他說，雖然近期波動可能會持續，但“高企的初始收益率為債券投資者創造了多年來最具吸引力的切入點。”"
-    },
-    {
-      "id": "4899654",
-      "time": "2026-05-26 13:17:12",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【滬電股份觸及漲停】滬電股份觸及漲停，成交額104.92億元。"
-    },
-    {
-      "id": "4899653",
-      "time": "2026-05-26 13:15:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【大和：信維通訊料將受益於星鏈使用者可能出現的激增】大和資本市場分析師在一份研究報告中表示，信維通訊料將受益於SpaceX“星鏈”衛星網際網路服務使用者可能出現的激增。根據SpaceX的招股說明書，星鏈註冊使用者超過1,000萬，在這種情況下，這家中國公司目前預計其使用者群將在2026年和2027年增長一倍，預計2030年將達到1.5億至2億。鑑於信維通訊作為星鏈地面終端供應商的地位，大和認為該公司是直接受益者。該公司強調了向星鏈供應相控陣天線的進展，以及與衛星網際網路服務Amazon Leo不斷增加的合作。大和將該股目標價從人民幣105.00元上調至人民幣130.00元，維持買入評級不變。"
-    },
-    {
-      "id": "te:markets:553627",
-      "time": "2026-05-26 13:15:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: Turkish Lira Depreciates by 0.52% — Top currency losers are Turkish Lira (-0.52%), New Zealand Dollar (-0.41%), Swedish Krona (-0.27%), British Pound (-0.21%), Euro (-0.12%) and Japanese Yen (-0.06%). Gains are led by South Korean Won (0.38%) and Dollar Index (0.12%)."
-    },
-    {
-      "id": "4899652",
-      "time": "2026-05-26 13:14:26",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "A股有色·鋁概念午後活躍，中國鋁業逼近漲停，南山鋁業、雲鋁股份、天山鋁業、神火股份、新疆眾和跟漲。"
     }
   ]
 }
