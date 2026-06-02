@@ -1,7 +1,21 @@
 {
-  "updated": "2026-06-03 02:35:24",
-  "count": 18437,
+  "updated": "2026-06-03 02:40:58",
+  "count": 18436,
   "items": [
+    {
+      "id": "mkt:019e89a2-cc79-733d-8818-bed906104b02",
+      "time": "2026-06-03 02:40:08",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O",
+        "Impact bullish"
+      ],
+      "text": "【Microsoft launches Scout AI assistant integrated into email and calendar】Microsoft has launched Scout, an AI assistant integrated into internal email and calendar systems to operate like a 24/7 executive assistant rather than a user-visible chatbot. Charles Lamanna, head of commercial apps product development, said Scout can autonomously perform broader tasks — for example, rescheduling meetings to resolve time conflicts — and can be shared so employees can query a manager’s Scout. Microsoft did not disclose pricing; initial use will require a GitHub Copilot subscription. Lamanna said customer billing will likely be usage-based rather than a fixed fee, and Microsoft intends to add more AI products to subscription plans as model-access costs fall."
+    },
     {
       "id": "mkt:019e899c-c50c-7779-8aad-bf842636a189",
       "time": "2026-06-03 02:33:29",
@@ -168963,25 +168977,6 @@
         "其他"
       ],
       "text": "NASA:  螢火蟲航空的 Elytra 航天器將向月球投放首批無人機。"
-    },
-    {
-      "id": "mkt:019e6593-23bb-7332-8105-ab27314e2f34",
-      "time": "2026-05-27 02:36:42",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【IRGC Navy Says 25 Vessels Transit Strait Of Hormuz In 24h】IRGC Navy Allows 25 Vessels (Tankers, Containerships, Merchant Ships) To Transit Strait Of Hormuz In Past 24h Under IRGC Coordination And Security; IRGC Asserts Effective, Authoritative Control Of Strait, Warns Any Aggression Will Be Met With Severe Retaliation"
-    },
-    {
-      "id": "4900941",
-      "time": "2026-05-27 02:36:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗伊斯蘭革命衛隊：過去24小時25艘船隻獲准透過霍爾木茲海峽】當地時間26日晚間，伊朗伊斯蘭革命衛隊海軍公共關係部發布訊息稱，過去24小時內，包括油輪、集裝箱船和其他商船在內的25艘船隻在獲得許可後，在伊朗伊斯蘭革命衛隊海軍的協調和安全保障下透過了霍爾木茲海峽。同時，伊朗伊斯蘭革命衛隊海軍還表示，正在對霍爾木茲海峽進行“有效且權威”的控制，任何侵略行為都將遭到嚴厲回擊。（央視新聞）"
     }
   ]
 }
