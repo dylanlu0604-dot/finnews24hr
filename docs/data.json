@@ -1,7 +1,71 @@
 {
-  "updated": "2026-06-03 02:48:52",
-  "count": 18436,
+  "updated": "2026-06-03 02:52:49",
+  "count": 18443,
   "items": [
+    {
+      "id": "4913603",
+      "time": "2026-06-03 02:52:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡此前缺席會議開場，現已抵達以色列北部問題專項內閣會議現場。"
+    },
+    {
+      "id": "4913602",
+      "time": "2026-06-03 02:51:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic拒絕向放貸機構披露財務資訊。"
+    },
+    {
+      "id": "mkt:019e89ac-e6c5-733d-8818-da9c32555594",
+      "time": "2026-06-03 02:51:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Secretary of State Rubio said the U.S. has made significant progress in how it delivers foreign aid globally."
+    },
+    {
+      "id": "4913601",
+      "time": "2026-06-03 02:49:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油期貨結算價報每桶96.00美元，上漲1.02美元，漲幅1.07%。"
+    },
+    {
+      "id": "mkt:019e89ab-4fb2-733d-8818-d5b6709f0c09",
+      "time": "2026-06-03 02:49:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Secretary of State Rubio said Venezuela needs a legitimately elected government, but conditions must be created to enable that."
+    },
+    {
+      "id": "4913600",
+      "time": "2026-06-03 02:49:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：委內瑞拉需要一個透過選舉合法上臺的政府，但前提是必須先為此創造條件。"
+    },
+    {
+      "id": "4913599",
+      "time": "2026-06-03 02:49:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【微軟釋出全新量子晶片 計劃2029年造出實用量子計算機】微軟公司於舊金山舉辦的Build開發者大會上釋出升級版量子計算晶片馬約拉納2代（Majorana 2）。微軟稱這款新晶片的核心突破：量子位元存續時長突破20秒，量子位元數量從上一代的8枚提升至12枚。依託馬約拉納2代晶片取得的飛速進展，微軟計劃在2029年研發出可規模化落地的實用型量子計算機。"
+    },
+    {
+      "id": "4913598",
+      "time": "2026-06-03 02:48:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：委內瑞拉問題的解決之道是舉行自由公正的選舉。"
+    },
     {
       "id": "mkt:019e89aa-4b9a-733d-8818-cb188da20bca",
       "time": "2026-06-03 02:48:19",
@@ -168969,14 +169033,6 @@
         "市場"
       ],
       "text": "【芝加哥小麥期貨跌超1.7%】週二（5月26日）紐約尾盤，彭博穀物分類指數跌1.15%，報31.7796點，全天處於下跌狀態，整體呈現出M形走勢。CBOT玉米期貨跌1.13%，CBOT小麥期貨跌1.74%。CBOT大豆期貨跌0.92%，報11.8550美元/蒲式耳，豆粕期貨跌1.02%，豆油期貨漲0.42%。"
-    },
-    {
-      "id": "mkt:019e65a1-637a-7332-8105-b06af4a86bee",
-      "time": "2026-05-27 02:52:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Chemical Blast Kills Multiple At Nippon Paper Group Plant In Longview, Washington】Longview Fire Department Says Major Chemical Explosion At Nippon Paper Group Plant; Multiple Dead"
     }
   ]
 }
