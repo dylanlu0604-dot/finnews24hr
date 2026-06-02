@@ -1,7 +1,123 @@
 {
-  "updated": "2026-06-02 10:05:14",
+  "updated": "2026-06-02 10:09:11",
   "count": 17255,
   "items": [
+    {
+      "id": "mkt:019e8616-d35b-7aa2-99e9-28ec6783c1ad",
+      "time": "2026-06-02 10:08:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "0700.HK",
+        "Impact bullish"
+      ],
+      "text": "Tencent Holdings (00700.HK) extended intraday gains to about 4% after reports it is close to launching a WeChat AI assistant."
+    },
+    {
+      "id": "4911685",
+      "time": "2026-06-02 10:08:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "LG電子股價下跌7%。"
+    },
+    {
+      "id": "4911684",
+      "time": "2026-06-02 10:07:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "銀行板塊逆勢拉昇，滬農商行、廈門銀行漲超3%，中信銀行、建設銀行、渝農商行、招商銀行等跟漲。"
+    },
+    {
+      "id": "mkt:019e8615-ea38-7aa2-99e9-2638dbbeb06d",
+      "time": "2026-06-02 10:07:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Takaichi urges Iran to show maximum flexibility to reach agreement quickly】Japanese Prime Minister Takaichi told Iranian President Pezeshkian in their third phone call that all vessels, regardless of nationality—including Japanese and other Asian ships—should be able to transit the Strait of Hormuz safely. She urged Iran to show maximum flexibility to reach a swift agreement and reiterated that de‑escalation through dialogue is essential. Japan, with limited domestic energy resources, is highly dependent on Middle East oil; prolonged regional disruption would raise downside risk to Japan’s economy and energy security."
+    },
+    {
+      "id": "4911683",
+      "time": "2026-06-02 10:06:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "APTIV宣佈與英偉達擴大合作，共同打造可用於生產環境的邊緣人工智慧技術。"
+    },
+    {
+      "id": "mkt:019e8615-20a8-7aa2-99e9-1d7b83094a2e",
+      "time": "2026-06-02 10:06:24",
+      "tags": [
+        "MKT News",
+        "000625.SZ",
+        "Impact bullish"
+      ],
+      "text": "Mainland A-share auto OEM sector rose; Changan Automobile up 5.7%, SERES up 3.87%, Sinotruk up 2.68%."
+    },
+    {
+      "id": "4911682",
+      "time": "2026-06-02 10:06:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "LG股價暴跌17%。"
+    },
+    {
+      "id": "4911681",
+      "time": "2026-06-02 10:05:51",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超1萬億元，較上日此時縮量909億元。"
+    },
+    {
+      "id": "mkt:019e8613-db4a-7aa2-99e9-107c7f844369",
+      "time": "2026-06-02 10:05:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY"
+      ],
+      "text": "Japan 10-year government bond yield rose 2.5 bps to 2.655%."
+    },
+    {
+      "id": "4911680",
+      "time": "2026-06-02 10:04:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國資料：中國車在韓市場首超日系】據韓聯社6月1日報道，韓國進口車協會當天披露的資料顯示，4月在韓新註冊登記的進口車中，中國產汽車排名第三，史上首次趕超日本產汽車。資料顯示，4月韓國進口新車註冊量中，歐洲產汽車以1.68萬輛排名第一，其後依次為美國產（1.36萬輛）、中國產（2023輛）和日本產（1974輛）等。韓聯社稱，這是中國產汽車在韓國進口車市場首次超過日本產汽車。韓媒普遍將此次排名視為韓國進口車市場格局轉變的重要訊號。《韓國經濟》對此報道稱，中國汽車品牌正在韓國市場快速提升存在感。（環球時報）"
+    },
+    {
+      "id": "mkt:019e8613-9753-7aa2-99e9-0bea30590199",
+      "time": "2026-06-02 10:04:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【South Korea data: Chinese cars overtake Japanese in import registrations for first time】YONHAP reported June 1 that Korea Import Car Association data show Chinese-made cars ranked third in April new imported-car registrations in South Korea, surpassing Japanese-made cars for the first time. April import registrations: European-made 16,800 vehicles; U.S.-made 13,600; Chinese-made 2,023; Japanese-made 1,974. South Korean outlets described the result as a signal of shifting import-market dynamics; Korea Economic said Chinese brands are rapidly increasing their presence."
+    },
+    {
+      "id": "mkt:019e8613-9316-7aa2-99e9-022279e6a1c3",
+      "time": "2026-06-02 10:04:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "U.S. equity index futures were lower: S&P 500 futures down 0.50%, Nasdaq-100 futures down 0.75%, Dow futures down 0.47%."
+    },
     {
       "id": "4911679",
       "time": "2026-06-02 10:04:23",
@@ -157535,115 +157651,6 @@
         "觀點"
       ],
       "text": "【東吳證券首席經濟學家蘆哲：聚焦技術、政策、競爭三大維度，推動“蘇州智造”邁向全球】5月26日，東吳證券首席經濟學家、研究所聯席所長蘆哲在“蘇州智造2030峰會”上表示，蘇州用三十年時間完成從代工嵌入、製造升級、智造蓄力到AI領跑的四次關鍵躍升，成為中國製造業轉型升級的典型樣本。尤其是2022年借AI算力浪潮，光模組、高階PCB、伺服器等全鏈條發力，躋身全球AI硬體核心極，A股市值規模位列全國第四。東吳證券也將持續發揮資本與研究優勢，助力企業搶抓戰略機遇，共同推動“蘇州智造”邁向全球價值鏈頂端。他建議，未來蘇州需進一步聚焦技術、政策、競爭三大維度。技術層面，需鞏固1.6T光模組、液冷、人形機器人等先發優勢，著力在硬科技賽道再培育一批具有全球影響力的隱形冠軍和龍頭企業。在政策層面，要主動對接國家新型工業化、大規模裝置更新、智算中心國產化替代等重大戰略部署，把國家戰略勢能轉化為地方發展實效；在競爭層面，要堅持“快半步”發展策略，保持前瞻佈局、搶先落子、持續迭代的競爭優勢，形成“龍頭引領、中小企業跟進、產學研協同”的完整創新生態。"
-    },
-    {
-      "id": "4899443",
-      "time": "2026-05-26 10:09:07",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "聯想集團港股持續上漲，漲幅達15%。"
-    },
-    {
-      "id": "4899442",
-      "time": "2026-05-26 10:08:58",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "斯里蘭卡央行將該國法定存款準備金率維持在2%。"
-    },
-    {
-      "id": "te:markets:553564",
-      "time": "2026-05-26 10:08:57",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Hong Kong",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Hong Kong Stocks Hold Steady — The Hang Seng Index was little changed, to around 25,600 on Tuesday, pressured by weakness in technology shares as investors turned cautious ahead of key corporate earnings. Sentiment toward Xiaomi Corporation deteriorated after short bets on the company climbed to a record high amid concerns over rising memory costs and intensifying competition in China’s electric vehicle market. Broader market sentiment remained mixed, though optimism surrounding a potential US-Iran agreement earlier supported Asian equities and weighed on oil prices. Financial and tech service stocks dragged the index lower, with notable declines from Tencent Holdings (-1.6%), Xiaomi Corporation (-1.7%), Meituan (-4.2%), and AIA Group (-0.9%). However, electronic technology shares bucked the broader decline, led by gains in Semiconductor Manufacturing International Corporation and Lenovo Group, which surged 9.1% and 10.7%, respectively."
-    },
-    {
-      "id": "te:markets:553563",
-      "time": "2026-05-26 10:08:37",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Yen Holds Steady Amid US-Iran Uncertainty — The Japanese yen steadied near 159 per dollar on Tuesday, moving sideways so far this week as fresh US military operations in southern Iran and ongoing peace negotiations kept investors cautious. The US military reportedly targeted missile launch sites and vessels suspected of attempting to deploy mines in southern Iran, with US Central Command saying the operations were aimed at protecting American troops in the region. Meanwhile, President Donald Trump said talks with Tehran were progressing well, though he warned that additional attacks could follow if negotiations broke down. On the domestic front, data released last week showed Japan’s core inflation rate slowed to a four-year low in April, easing pressure on the Bank of Japan to tighten monetary policy in the near term. Still, the central bank may continue to consider further rate hikes as the Japanese economy remains relatively resilient."
-    },
-    {
-      "id": "4899441",
-      "time": "2026-05-26 10:08:36",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時中國A50指數期貨漲1%。"
-    },
-    {
-      "id": "4899440",
-      "time": "2026-05-26 10:08:24",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【算力租賃概念持續調整 行雲科技跌超15%】算力租賃概念盤中持續調整，行雲科技跌超15%，此前大位科技跌停，平治資訊、直真科技、中貝通訊、美利雲、鴻博股份等多股跌超7%。"
-    },
-    {
-      "id": "4899439",
-      "time": "2026-05-26 10:08:11",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【培育鑽石板塊短線拉昇，恆林股份漲停】培育鑽石板塊短線拉昇，恆林股份漲停，惠豐鑽石、黃河旋風、四方達、力量鑽石、晶盛機電等跟漲。"
-    },
-    {
-      "id": "4899438",
-      "time": "2026-05-26 10:06:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【光輪智慧完成新一輪融資，螞蟻集團領投】近日，光輪智慧宣佈完成新一輪融資。本輪由螞蟻集團領投，建投投資、大灣區共同家園基金、森馬方道基金、山東孚弘（工業富聯參與管理產業基金）、芯能投資、臨芯投資等國資、產業以及財務機構共同參與；同時，三七互娛、國方創新、道禾長期投資、鼎石資管等老股東跟投。本輪融資將主要用於物理 AI 的資料與評測基礎設施相關核心技術投入，持續加強規模化交付能力建設，並加快全球市場開拓與生態合作。"
-    },
-    {
-      "id": "4899437",
-      "time": "2026-05-26 10:06:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【騰訊在上海投資成立商業管理公司】企查查APP顯示，近日，上海珩岫商業管理有限公司成立，經營範圍包含：企業管理；企業管理諮詢；市場營銷策劃；企業形象策劃等。企查查股權穿透顯示，該公司由深圳市騰訊睿見投資有限公司全資持股。"
-    },
-    {
-      "id": "4899436",
-      "time": "2026-05-26 10:06:38",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "斯里蘭卡央行預測，2026年3月斯里蘭卡私營部門信貸規模為106980億盧比，高於2026年2月的104390億盧比。"
-    },
-    {
-      "id": "4899435",
-      "time": "2026-05-26 10:06:30",
-      "tags": [
-        "市場"
-      ],
-      "text": "【玻璃基板概念活躍 沃格光電漲停】玻璃基板概念活躍，沃格光電漲停，雷曼光電、通富微電、華映科技、五方光電、麥格米特等漲幅居前。"
-    },
-    {
-      "id": "4899434",
-      "time": "2026-05-26 10:06:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "【我國耐高溫、高強、高模鋁基複合材料研發取得進展】據中國科學院金屬研究所訊息，鋁基複合材料憑藉高比強度、高比模量的優勢，已成為航空航天領域的核心結構材料。但受高溫介面退化、基體軟化問題制約，其服役溫度長期侷限於300℃以下，嚴重限制了在高溫場景的應用。為提升高溫服役能力，具有優異冶金結合介面的原位鋁基複合材料成為研究焦點。近日，中國科學院金屬研究所瀋陽材料科學國家研究中心鋁鎂材料研究部研究團隊，提出缺陷促進的Ti2AlC（MAX相）“內分解”機制。該策略可突破錶面擴散主導的反應動力學瓶頸，解決強化相尺寸與體積分數難以協同的核心矛盾，成功研發出兼具優異高溫強度與模量的多級結構Al3Ti/Al複合材料。"
     }
   ]
 }
