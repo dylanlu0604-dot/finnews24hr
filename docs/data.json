@@ -1,7 +1,20 @@
 {
-  "updated": "2026-06-03 02:52:49",
-  "count": 18443,
+  "updated": "2026-06-03 02:56:46",
+  "count": 18441,
   "items": [
+    {
+      "id": "mkt:019e89b0-c0ea-733d-8818-e53884d78490",
+      "time": "2026-06-03 02:55:22",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "【Venezuela tells oil firms to supply their own power for oil and gas projects】Energy firms visiting Venezuela were told to bring their own generation to power oil and gas operations to avoid frequent blackouts from a poorly maintained national grid, reports say. A new draft of Venezuela’s petroleum law would require power self-sufficiency in hydrocarbon extraction areas and contemplates allowing private firms to sell electricity to oil developers; leaked documents indicate companies would be required to use off-grid systems to avoid burdening the fragile grid."
+    },
     {
       "id": "4913603",
       "time": "2026-06-03 02:52:12",
@@ -169005,34 +169018,6 @@
         "市場"
       ],
       "text": "恒指期貨夜盤收跌0.01%，報25403.96點，低水195.49點。"
-    },
-    {
-      "id": "mkt:019e65a4-3459-7332-8105-b8714f071f3e",
-      "time": "2026-05-27 02:55:20",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "Axios: Sources Say TRUMP On Call With NETANYAHU"
-    },
-    {
-      "id": "4900945",
-      "time": "2026-05-27 02:54:58",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "據AXIOS：特朗普正在與內塔尼亞胡通電話。"
-    },
-    {
-      "id": "4900944",
-      "time": "2026-05-27 02:54:36",
-      "tags": [
-        "市場"
-      ],
-      "text": "【芝加哥小麥期貨跌超1.7%】週二（5月26日）紐約尾盤，彭博穀物分類指數跌1.15%，報31.7796點，全天處於下跌狀態，整體呈現出M形走勢。CBOT玉米期貨跌1.13%，CBOT小麥期貨跌1.74%。CBOT大豆期貨跌0.92%，報11.8550美元/蒲式耳，豆粕期貨跌1.02%，豆油期貨漲0.42%。"
     }
   ]
 }
