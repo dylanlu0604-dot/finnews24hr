@@ -1,7 +1,42 @@
 {
-  "updated": "2026-06-03 01:48:00",
-  "count": 18396,
+  "updated": "2026-06-03 01:51:54",
+  "count": 18399,
   "items": [
+    {
+      "id": "mkt:019e8976-2f24-7779-8aac-cbe8a7ed364b",
+      "time": "2026-06-03 01:51:24",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Canada formally proposes renewing United States–Mexico–Canada Agreement】Canada has formally proposed renewing the United States–Mexico–Canada Agreement (USMCA) for 16 years to avoid triggering the pact’s statutory annual review. In a letter to U.S. Trade Representative Jamison Greer and Mexico’s economy minister Marcelo Ebrard, Minister Dominic LeBlanc said parties may propose improvements to boost North American competitiveness, that Canada expects ongoing engagement with the U.S. and Mexico, and that parallel talks with the U.S. to resolve industry tariff issues are critical."
+    },
+    {
+      "id": "4913554",
+      "time": "2026-06-03 01:51:09",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "凱雷集團收購巴斯夫塗料業務獲歐盟附條件批准，歐盟要求凱雷剝離諾力昂全球多硫化物業務。歐盟表示，將該業務出售給合適收購方可消除反壟斷顧慮。"
+    },
+    {
+      "id": "4913553",
+      "time": "2026-06-03 01:49:50",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【加拿大正式提議續簽美墨加協定】據加拿大媒體2日報道，加拿大政府已向美國和墨西哥政府提議續簽“美國—墨西哥—加拿大協定”。據報道，加拿大政府負責加美貿易的部長多米尼克·勒布朗在致美國貿易代表賈米森·格里爾和墨西哥經濟部長馬塞洛·埃布拉德的信中建議，將這一自由貿易協定續簽16年，以此規避觸發法定年度審查程式。"
+    },
+    {
+      "id": "4913552",
+      "time": "2026-06-03 01:48:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國眾議院道德委員會正就不當性行為指控調查加州民主黨聯邦眾議員吉米·戈麥斯。"
+    },
     {
       "id": "4913551",
       "time": "2026-06-03 01:46:32",
@@ -168569,15 +168604,6 @@
         "其他"
       ],
       "text": "馬斯克：無人機製造商錯誤地利用了星鏈。"
-    },
-    {
-      "id": "4900916",
-      "time": "2026-05-27 01:49:25",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【做空大佬Left特出庭作證，堅稱其交易與公開言論始終一致】Andrew Left在美國法庭上向陪審團表示，他針對相關公司發表的公開言論從未與其在這些股票中建立的做空或做多倉位產生過矛盾，以此全力反駁了政府刑事指控中的核心要點。本場審判的核心在於界定“表達個人觀點”何時會演變為“操縱市場”。檢方堅稱，Left的私下通訊記錄足以證明，他在向公眾表達其交易意圖時存在“表裡不一”的欺詐行為。 檢方指控Left在2018年10月透過唱多特斯拉的做多倉位來誤導投資者，隨後又迅速拋售持股以牟取暴利；但Left辯稱，減持多頭倉位與反手做空該股票絕非同一概念。"
     }
   ]
 }
