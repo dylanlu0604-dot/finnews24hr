@@ -1,7 +1,45 @@
 {
-  "updated": "2026-06-02 18:41:33",
-  "count": 17766,
+  "updated": "2026-06-02 18:45:22",
+  "count": 17770,
   "items": [
+    {
+      "id": "4912725",
+      "time": "2026-06-02 18:44:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新易盛：預計公司矽光方案產品的佔比將持續提升】新易盛釋出投資者關係活動記錄表公告，根據目前行業發展趨勢及產品迭代情況，預計公司矽光方案產品的佔比將持續提升，今年矽光產品佔比相比去年已有較大幅度提升，矽光產品已是公司主流產品，公司已與主流Fab廠家建立合作關係並針對未來的產能需求提前進行規劃，以保障矽光產品的供應。"
+    },
+    {
+      "id": "te:economy:555763",
+      "time": "2026-06-02 18:44:11",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Greece",
+        "Loan Growth",
+        "Importance 1"
+      ],
+      "text": "Greece Credit Growth at Over 1-1/2-Year Low — Total credit extended to the Greek economy rose by 3.9% year-on-year in April 2026, the smallest increase since September 2024, following an upwardly revised 4.5% advance in the prior month. Credit to the private sector decreased to 6.8% from 7.7% in the previous month. The monthly net flow of credit was negative by €1,216 million, compared with a positive net flow of €2,409 million in the previous month. At the same time, credit to the general government fell by 0.7% in April, following a 0.8% decrease in the prior month. The monthly net flow of bank credit to the general government was positive by €135 million, compared with a positive net flow of €1,124 million in the previous month."
+    },
+    {
+      "id": "4912724",
+      "time": "2026-06-02 18:43:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "蒙特利爾銀行將聯邦快遞目標股價從410美元下調至340美元。"
+    },
+    {
+      "id": "mkt:019e87ec-6ff3-7cc3-a9f1-be31a1849dcd",
+      "time": "2026-06-02 18:41:19",
+      "tags": [
+        "MKT News",
+        "APSEZ.NS",
+        "Impact bullish"
+      ],
+      "text": "India's Adani Ports said cargo throughput rose 16% in May, while container throughput rose 17%."
+    },
     {
       "id": "4912723",
       "time": "2026-06-02 18:40:35",
