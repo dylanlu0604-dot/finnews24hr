@@ -1,7 +1,103 @@
 {
-  "updated": "2026-06-02 23:06:05",
-  "count": 18162,
+  "updated": "2026-06-02 23:10:08",
+  "count": 18165,
   "items": [
+    {
+      "id": "4913314",
+      "time": "2026-06-02 23:08:55",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【中俄智庫高階論壇在莫斯科舉辦】中俄戰略協作夥伴關係建立30週年和《中俄睦鄰友好合作條約》簽署25週年之際，中俄智庫高階論壇1日至2日在莫斯科舉辦。來自中俄兩國政府、學術界及相關機構的200餘名代表共話兩國友好交往與戰略協作歷史，就中俄深化戰略協作對構建公正世界秩序的重要性等議題展開討論。中國社會科學院院長高翔1日在論壇開幕式影片致辭中表示，中俄兩國共同倡導世界多極化，構建新型國際關係，推動建設更加公正合理的全球治理體系，為維護全球戰略穩定貢獻重要力量。中俄雙方要繼續以聯合國、上海合作組織、金磚國家合作機制、二十國集團等平臺為抓手，攜手推動平等有序的世界多極化、普惠包容的經濟全球化，為改革完善全球治理體系貢獻自身力量；要秉持互利共贏原則，深化中國“十五五”規劃同俄羅斯2030年前發展戰略對接，為兩國經濟社會高質量發展注入源源不斷的動力。（新華社）"
+    },
+    {
+      "id": "4913313",
+      "time": "2026-06-02 23:08:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐元區債券收益率下跌，交易員權衡美伊談判前景。"
+    },
+    {
+      "id": "4913312",
+      "time": "2026-06-02 23:07:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國貨幣政策委員會成員格林：迅速調整利率是有好處的，而且調整的時機與調整的力度同樣重要。"
+    },
+    {
+      "id": "mkt:019e88df-8947-7ccc-bd1f-750e3773a9fe",
+      "time": "2026-06-02 23:06:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New Zealand Global Dairy Trade price index for the period to May 26 fell 0.6% (previous +0.6%)."
+    },
+    {
+      "id": "mkt:019e88df-44eb-7ccc-bd1f-6deb9e9a0eb0",
+      "time": "2026-06-02 23:06:31",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Global Dairy Trade Price Index (MoM) (May.26) | actual -0.6% | previous 0.6%"
+    },
+    {
+      "id": "mkt:019e88df-4022-7ccc-bd1f-66bd2b332313",
+      "time": "2026-06-02 23:06:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Bank of England MPC member Greene said the ongoing conflict has strengthened the case for rate increases and the Bank may need to tighten monetary policy in the coming weeks or months."
+    },
+    {
+      "id": "4913311",
+      "time": "2026-06-02 23:06:06",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "英國貨幣政策委員會委員格林：隨著衝突持續，加息理由愈發充分，未來數週或數月可能有必要收緊貨幣政策。"
+    },
+    {
+      "id": "4913310",
+      "time": "2026-06-02 23:06:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐西蘭運營的全球乳製品貿易價格指數下跌0.6%，平均售價為每噸4021美元。"
+    },
+    {
+      "id": "4913309",
+      "time": "2026-06-02 23:05:50",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【房利美和房地美下挫 FHFA局長身兼代理情報總監引發質疑】房利美和房地美普通股週二下跌，此前特朗普任命聯邦住房金融局(FHFA)局長Bill Pulte擔任代理國家情報總監。Pulte缺乏國安方面背景，預計他在擔任代理國家情報總監的同時將繼續兼任FHFA局長以及房利美和房地美董事長。房利美和房地美股價週二均下跌逾3%，兩家公司股價今年累計跌幅均超過30%。"
+    },
+    {
+      "id": "mkt:019e88de-c807-7ccc-bd1f-5b858f351ba2",
+      "time": "2026-06-02 23:05:38",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "U.S. Secretary of State Rubio said there are signs Iran's supreme leader is, to some extent, increasingly taking an active role in related affairs. He also said there are signs the supreme leader remains alive."
+    },
     {
       "id": "4913308",
       "time": "2026-06-02 23:05:19",
@@ -166384,65 +166480,6 @@
         "MKT News"
       ],
       "text": "【IDF Crosses April 17 'Yellow Line' Into Lebanon After HEZBOLLAH Drone Attacks】IDF crosses April 17 'Yellow Line' into Lebanon following HEZBOLLAH drone strikes; operational depth unclear"
-    },
-    {
-      "id": "te:markets:553813",
-      "time": "2026-05-26 23:09:55",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "US Natgas Prices Edge Up — US natural gas futures rose around 2% to $2.96 per MMBtu as producers reduced output over the US holiday weekend and more domestic supply was redirected to LNG export terminals along the Gulf Coast. Estimated gas flows to LNG facilities reached about 18.4 billion cubic feet per day on Tuesday, up nearly 9% from the previous week, as several export plants returned from seasonal maintenance that had temporarily redirected supply into the domestic market. Average gas production in the Lower 48 states slipped to 109.4 billion cubic feet per day so far in May, down from 109.8 billion in April. Lower output and firmer demand in recent weeks likely reduced the storage surplus to around 6% above normal, compared with roughly 7% the week before. However, below average temperatures are expected across California through May 30 and in the Eastern US from May 31 to June 4, potentially reducing air conditioning demand and allowing more gas to flow into storage."
-    },
-    {
-      "id": "4900840",
-      "time": "2026-05-26 23:09:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "Naspers同期按均價870.0998南非蘭特回購79.92萬股，合計將近6.954億蘭特（摺合超0.42億美元）。"
-    },
-    {
-      "id": "4900839",
-      "time": "2026-05-26 23:08:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：伊朗電信已恢復完整國際網際網路接入。目前光纖到戶、超高速數字使用者線路、非對稱數字使用者線路等固網寬頻使用者，可無限制連線全球網際網路，正常訪問各類境外網站與服務。"
-    },
-    {
-      "id": "4900838",
-      "time": "2026-05-26 23:07:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "【航行警告！渤海部分海域進行軍事演習 禁止駛入】據中國海事局網站訊息，葫蘆島海事局釋出航行警告，5月27日4時至12時，渤海部分海域進行軍事演習，禁止駛入。（央視新聞）"
-    },
-    {
-      "id": "4900837",
-      "time": "2026-05-26 23:07:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "基輔拉響防空警報。"
-    },
-    {
-      "id": "4900836",
-      "time": "2026-05-26 23:06:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "Prosus於5月18-22日按均價39.836歐元回購股票230萬。"
-    },
-    {
-      "id": "4900835",
-      "time": "2026-05-26 23:06:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以軍突破黎以協商停火線 尚不清楚行動將深入何處 】以色列媒體26日報道稱，為應對黎巴嫩真主黨持續對以色列發動的無人機襲擊，以軍已開始越過4月17日停火協議劃定的“黃線”，向黎境內更深區域展開地面行動。《耶路撒冷郵報》報道說，目前尚不清楚以軍此次行動將深入至何種程度。（新華社）"
     }
   ]
 }
