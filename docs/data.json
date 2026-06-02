@@ -1,7 +1,137 @@
 {
-  "updated": "2026-06-02 23:55:02",
-  "count": 18231,
+  "updated": "2026-06-02 23:58:59",
+  "count": 18242,
   "items": [
+    {
+      "id": "mkt:019e890e-b0e1-7ff0-aaad-a88bf170e0b7",
+      "time": "2026-06-02 23:58:20",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude futures up 1.00% intraday, trading at $93.10/barrel."
+    },
+    {
+      "id": "4913407",
+      "time": "2026-06-02 23:58:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：伊朗戰爭已經結束。"
+    },
+    {
+      "id": "mkt:019e890e-6645-7ff0-aaad-a5ba2b855f6e",
+      "time": "2026-06-02 23:58:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Secretary of State Rubio said Iran is seeking hundreds of billions of dollars for reconstruction."
+    },
+    {
+      "id": "4913406",
+      "time": "2026-06-02 23:57:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：伊朗重建需要數千億美元。"
+    },
+    {
+      "id": "mkt:019e890e-2945-7ff0-aaad-9f0fd6e9cf7a",
+      "time": "2026-06-02 23:57:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "U.S. Secretary of State Rubio said the war in Iran has already ended."
+    },
+    {
+      "id": "4913405",
+      "time": "2026-06-02 23:57:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美加墨世界盃進入開賽倒計時 國際轉播中心正式啟用】2026年美加墨世界盃即將開幕。6月1日，國際足聯正式啟用了位於美國達拉斯的國際轉播中心，賽事期間，這裡將成為電視、廣播和新媒體運營的中心。（央視新聞）"
+    },
+    {
+      "id": "4913404",
+      "time": "2026-06-02 23:56:58",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：伊朗已同意就此前拒絕磋商的部分核計劃內容展開談判。"
+    },
+    {
+      "id": "4913403",
+      "time": "2026-06-02 23:56:55",
+      "tags": [
+        "市場",
+        "其他"
+      ],
+      "text": "【老鄉雞道歉】6月2日晚，連鎖餐飲品牌老鄉雞在社交平臺發文稱，“近期，我們看到有顧客攜寵進店，老鄉雞餐廳未能及時提醒和妥善安置；既給攜寵顧客造成了不便，更給其他顧客造成了不好的消費體驗。對此，我們感到非常抱歉。這是老鄉雞管理上的疏忽，在此我們向大家表示深深的歉意。”"
+    },
+    {
+      "id": "4913402",
+      "time": "2026-06-02 23:56:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：我方已在印太區域扣押6艘船隻。"
+    },
+    {
+      "id": "mkt:019e890c-75a7-7ff0-aaad-9661347e3a15",
+      "time": "2026-06-02 23:55:55",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "Brent",
+        "Impact mixed",
+        "XAUUSD"
+      ],
+      "text": "US Secretary of State Rubio said the US seized six vessels in the Indo-Pacific."
+    },
+    {
+      "id": "4913401",
+      "time": "2026-06-02 23:55:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美銀預判美國通脹回升機率抬升，行情延續至2027年】美國銀行表示，近期宏觀經濟資料抬升美國一輪小幅再通脹週期延續至2027至2028年的可能性。該行預計本輪週期趨勢不變，但美債收益率上行空間有限，傾向採用期限與收益率曲線波段交易策略。美銀指出，10年期美債收益率突破4.4%是佈局中期頭寸的優質入場點位。"
+    },
+    {
+      "id": "mkt:019e890c-2553-7ff0-aaad-8d9c0705270a",
+      "time": "2026-06-02 23:55:34",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent"
+      ],
+      "text": "Brent crude traded at $95.00/barrel, up 0.04% on the day."
+    },
+    {
+      "id": "4913400",
+      "time": "2026-06-02 23:55:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：儘管透過中間人進行談判面臨諸多挑戰，伊朗已同意就其核計劃的某些方面進行談判，而一年前伊朗甚至拒絕討論這些方面。與伊朗的談判與和瑞士的談判截然不同。明白嗎？它們大相徑庭。"
+    },
+    {
+      "id": "4913399",
+      "time": "2026-06-02 23:54:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：即便伊核問題得到解決，美國和伊朗之間仍會存續分歧；歸根結底，除卻核計劃之外，我們還將面臨伊朗帶來的其他難題。伊朗把資金用於資助真主黨、哈馬斯，並在全球扶持“恐怖”活動。"
+    },
     {
       "id": "4913398",
       "time": "2026-06-02 23:53:56",
@@ -167026,45 +167156,6 @@
         "國際"
       ],
       "text": "【以軍越線突襲黎巴嫩南部 在美伊協議達成前升級局勢】以色列媒體26日報道稱，為應對黎巴嫩真主黨持續對以色列發動的無人機襲擊，以軍已開始越過4月17日停火協議劃定的“黃線”，向黎境內更深區域展開地面行動。《耶路撒冷郵報》報道說，目前尚不清楚以軍此次行動將深入至何種程度。報道援引以軍官員的話說，控制位於“黃線”以外的特定地點或有助於削弱真主黨的無人機威脅。報道稱，以軍此次行動目的尚不明確，可能旨在逐步擴大對黎領土的控制，並向真主黨施壓，迫使其減少無人機襲擊甚至接受解除部分武裝，同時向以國內展示政府和軍方正以強硬姿態回應安全威脅。報道說，此次以黎局勢升級正值外界普遍預計美國與伊朗將達成協議之際。美伊協議可能進一步要求以色列與真主黨之間實現更全面的停火。（新華社）"
-    },
-    {
-      "id": "te:markets:553825",
-      "time": "2026-05-26 23:58:50",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "FTSE MIB Down From Record High on US-Iran Tensions — The FTSE MIB fell 0.6% to close at 49,899 on Tuesday, pulling back after a record high in the previous session as renewed military action weakened hopes for a US-Iran peace agreement. The US and Israel carried out targeted strikes in Iran, renewing uncertainty over the reopening of the Strait of Hormuz and reviving concerns about prolonged inflation driven by elevated energy prices. ECB board member Isabel Schnabel said the ECB should proceed with a June rate hike even if tensions ease. Financials traded lower, with UniCredit down 0.8%, Intesa Sanpaolo losing 0.6%, and Generali shedding 1.2% after unveiling Redion, its new global care platform brand. Ferrari plunged 8.4% after investors reacted negatively to its new Luce electric car. STMicroelectronics rose 3.1% as chipmakers continued to benefit from the AI boom in the US, while Eni gained 0.6% on oil supply concerns."
-    },
-    {
-      "id": "mkt:019e6502-974e-7332-8104-a5722125f17e",
-      "time": "2026-05-26 23:58:49",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "【Dudley Warns Fed Credibility At Risk After Years Above 2% Inf】Ex-NY Fed Dudley: Fed Credibility At Risk After >5 Years Above 2% inf; WARSH Faces Pressure As CPI Records Biggest MoM Gain Since 2023, Trump Pushes Rate Cuts"
-    },
-    {
-      "id": "te:markets:553824",
-      "time": "2026-05-26 23:57:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "FTSE 100 Rises on Tuesday — The FTSE 100 rose 0.3% on Tuesday, supported by strong gains in banks and mining stocks, partly reflecting a catch up move after the Bank Holiday. Banks advanced across the board, with HSBC up 1.1%, Lloyds Banking Group 1.8%, Barclays 1.6%, NatWest 2.1% and Standard Chartered 1.8%. Mining shares also rallied, with Rio Tinto rising 2%, Glencore 3.2%, Anglo American 2.4%, Antofagasta 3.6%, Fresnillo 1.3% and Endeavour Mining 3.3%. Kingfisher rose more than 2% after a trading update. In contrast, energy majors weighed on the index, with Shell and BP among the biggest drags, as BP fell more than 4% following news that chair Albert Manifold was removed immediately after governance and conduct concerns were raised by the board. Economic data showed UK shop price inflation rose to 1.2% year-on-year in May according to the British Retail Consortium, while food inflation eased slightly to 2.7%."
     }
   ]
 }
