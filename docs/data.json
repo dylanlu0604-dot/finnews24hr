@@ -1,7 +1,69 @@
 {
-  "updated": "2026-06-03 03:13:03",
-  "count": 18445,
+  "updated": "2026-06-03 03:16:58",
+  "count": 18449,
   "items": [
+    {
+      "id": "mkt:019e89c1-9fd7-733d-8819-250b902307d7",
+      "time": "2026-06-03 03:13:48",
+      "tags": [
+        "MKT News",
+        "Copper",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "U.S. Treasury posted on its website that the United States has imposed sanctions related to the Democratic Republic of the Congo."
+    },
+    {
+      "id": "mkt:019e89c1-1eab-733d-8819-18ec5ee39f71",
+      "time": "2026-06-03 03:13:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "U.S. Treasury website shows the U.S. announced new Iran-related sanctions."
+    },
+    {
+      "id": "4913615",
+      "time": "2026-06-03 03:13:08",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部：美國出臺針對剛果民主共和國的新一輪制裁。"
+    },
+    {
+      "id": "mkt:019e89c0-eb7e-733d-8819-154ad8bd2255",
+      "time": "2026-06-03 03:13:02",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【EU €20 billion AI data‑centre plan hit by delays and funding shortfall】The EU’s €20 billion plan to build five large AI data centres is faltering as delays and funding uncertainty are deterring potential private partners, people familiar with the matter said. A tender process originally slated for May is now expected to start in July, and financing is planned in two tranches scheduled for 2028 and 2030 under a new EU budget still under negotiation. Sources said funding gaps mean at most two of the five centres are likely to receive money before the new budget takes effect in 2028. Unclear demand prospects and uncertainty over subsidy timing are cited as key reasons private investors are hesitating."
+    },
+    {
+      "id": "mkt:019e89c0-cce5-733d-8819-0ea959e8878a",
+      "time": "2026-06-03 03:12:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Argentina's foreign minister said the country intends to join the Trans-Pacific Partnership."
+    },
+    {
+      "id": "4913614",
+      "time": "2026-06-03 03:12:47",
+      "tags": [
+        "宏觀",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國財政部：美國出臺新一輪涉伊朗制裁措施。"
+    },
     {
       "id": "4913613",
       "time": "2026-06-03 03:12:28",
@@ -169036,22 +169098,6 @@
         "國際"
       ],
       "text": "伊朗總統：（中東）地區各國已然明白，若繼續接納美軍基地，自身將蒙受巨大損害。"
-    },
-    {
-      "id": "4900956",
-      "time": "2026-05-27 03:14:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以色列稱襲擊哈馬斯新任軍事領導人】以色列總理內塔尼亞胡和國防部長卡茨26日晚間發表聯合宣告說，以色列國防軍當天在加沙地帶襲擊巴勒斯坦伊斯蘭抵抗運動（哈馬斯）新任軍事領導人穆罕默德·奧達。以方稱，奧達是2023年10月7日哈馬斯突襲以色列的“策劃者之一”，期間擔任哈馬斯情報部門負責人。奧達大約一週前接替遭以軍暗殺的哈馬斯時任軍事領導人伊茲丁·哈達德。（新華社）"
-    },
-    {
-      "id": "4900955",
-      "time": "2026-05-27 03:13:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "【內塔尼亞胡：以軍正佔領黎巴嫩“戰略要地”】以色列總理內塔尼亞胡26日召集安全內閣開會，稱以色列國防軍正加大在黎巴嫩的軍事打擊力度，在縱深地區行動，並佔領一些“戰略要地”。（新華社）"
     }
   ]
 }
