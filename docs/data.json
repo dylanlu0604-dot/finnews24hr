@@ -1,7 +1,90 @@
 {
-  "updated": "2026-06-03 01:00:19",
-  "count": 18335,
+  "updated": "2026-06-03 01:04:12",
+  "count": 18334,
   "items": [
+    {
+      "id": "mkt:019e8949-ca12-7779-8aab-ac0b1778ccd7",
+      "time": "2026-06-03 01:02:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "President Trump said the outcome of dealings with Iran is uncertain, but told Tehran \"it's time; in any case you must reach a deal.\""
+    },
+    {
+      "id": "4913502",
+      "time": "2026-06-03 01:02:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達執行長黃仁勳表示，與微軟的合作已實現讓智慧自主代理在個人電腦上執行。"
+    },
+    {
+      "id": "4913501",
+      "time": "2026-06-03 01:02:24",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【特朗普談伊朗：雙方談判一直在持續進行】特朗普在社交媒體平臺表示，有關伊朗與美國數日前中斷溝通的虛假新聞報道不實。雙方對話一直在持續推進，四天前、三天前、兩天前、昨天以及今日均有交流。後續談判走向尚無定論，但他表示已告知伊朗：無論如何，如今是達成協議的時候了。相關僵持局面已持續47年，不能再繼續下去。"
+    },
+    {
+      "id": "mkt:019e8949-2853-7779-8aab-a6c9b75f9d6f",
+      "time": "2026-06-03 01:02:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. President Trump said reports that Iran and the U.S. had stopped talks were false and that dialogue has continued, with contacts four days ago, three days ago, two days ago, yesterday and today."
+    },
+    {
+      "id": "4913500",
+      "time": "2026-06-03 01:01:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：今天繼續與伊朗對話。"
+    },
+    {
+      "id": "4913499",
+      "time": "2026-06-03 01:01:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：說美國和伊朗停止對話是錯誤的。"
+    },
+    {
+      "id": "4913498",
+      "time": "2026-06-03 01:01:09",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普談伊朗：雙方談判一直在持續進行。"
+    },
+    {
+      "id": "4913497",
+      "time": "2026-06-03 01:00:59",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【Kalshi瞄準華爾街】在衝擊體育博彩市場後，預測交易平臺Kalshi如今開始挑戰傳統交易所。獲得美國商品期貨交易委員會批覆後，Kalshi成為美國首家上線比特幣永續期貨的交易場所，該品種為不帶到期日的槓桿合約。隨著行業競爭加劇，此舉引發投資者不安，各大交易所股價應聲走低。Kalshi估值220億美元，目標打造全品類衍生品交易所，且已遞交申請，計劃上線更多加密貨幣永續合約。業內支持者表示，合規永續產品能夠將龐大的離岸交易市場納入美國金融監管體系。"
+    },
+    {
+      "id": "4913496",
+      "time": "2026-06-03 01:00:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】國際銅夜盤收漲1.19%，滬銅收漲1.05%，滬鋁收漲0.79%，滬鋅收漲1.57%，滬鉛收漲0.69%，滬鎳收跌0.28%，滬錫收漲2.22%。氧化鋁夜盤收跌1.23%，鋁合金收漲0.90%。不鏽鋼夜盤收漲0.67%。"
+    },
     {
       "id": "4913495",
       "time": "2026-06-03 00:59:32",
@@ -167872,110 +167955,6 @@
         "美聯儲"
       ],
       "text": "美國2年期國債中標利率為4.071%，與發行前預交易的當發收益率一致。"
-    },
-    {
-      "id": "4900898",
-      "time": "2026-05-27 01:02:33",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "美國財政部拍賣六週期國債，得標利率3.620%，投標倍數2.71。"
-    },
-    {
-      "id": "4900897",
-      "time": "2026-05-27 01:02:23",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "美國財政部拍賣690億美元兩年期國債，得標利率4.071%，投標倍數2.64。"
-    },
-    {
-      "id": "mkt:019e653c-b497-7332-8105-29696b0d2e0d",
-      "time": "2026-05-27 01:02:13",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "DXY",
-        "Impact bearish",
-        "US10Y",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "US 2Y Bond Auction Allocation At Awarded Yield 42.14% Vs 4.28% Prior"
-    },
-    {
-      "id": "mkt:019e653c-b439-7332-8105-21fb473246dd",
-      "time": "2026-05-27 01:02:11",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "EURUSD"
-      ],
-      "text": "US 2Y Treasury Auction Stop-Out Yield 4.071% vs 3.81% Prior"
-    },
-    {
-      "id": "mkt:019e653c-b39a-7332-8105-1eb72ca482bb",
-      "time": "2026-05-27 01:02:10",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "US 2Y Treasury Auction BID-COVER RATIO 2.64; Prev 2.65"
-    },
-    {
-      "id": "mkt:019e653c-79ca-7332-8105-16904527138a",
-      "time": "2026-05-27 01:02:02",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 2-Year Note Auction Bid/Cover Ratio (May.26) | actual 2.64 | previous 2.65"
-    },
-    {
-      "id": "mkt:019e653c-7981-7332-8105-0d85981575fa",
-      "time": "2026-05-27 01:02:02",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 2-Year Note Auction Accepted at High (May.26) | actual 42.14% | previous 4.28%"
-    },
-    {
-      "id": "mkt:019e653c-7972-7332-8105-0207aede1a58",
-      "time": "2026-05-27 01:02:02",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 2-Year Note Auction High Yield Rate (May.26) | actual 4.071% | previous 3.81%"
-    },
-    {
-      "id": "mkt:019e653b-976c-7332-8104-f928cdebb400",
-      "time": "2026-05-27 01:01:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China Launches Communications Technology Test Satellite-24 With Long March-7A】China Launches Communications Technology Test Satellite-24 From Wenchang Space Launch Site At 00:16 Beijing Time May 27 With Long March-7A; Satellite Enters Planned Orbit; Mission To Validate Multi-Band, High-Rate Satellite Communications"
-    },
-    {
-      "id": "4900896",
-      "time": "2026-05-27 01:00:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "【我國成功發射通訊技術試驗衛星二十四號】北京時間2026年5月27日0時16分，我國在文昌航天發射場使用長征七號改運載火箭，成功將通訊技術試驗衛星二十四號發射升空，衛星順利進入預定軌道，發射任務取得圓滿成功。該衛星主要用於開展多頻段、高速率衛星通訊技術驗證。（央視新聞）"
     }
   ]
 }
