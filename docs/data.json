@@ -1,7 +1,122 @@
 {
-  "updated": "2026-06-02 19:47:42",
-  "count": 17941,
+  "updated": "2026-06-02 19:51:43",
+  "count": 17943,
   "items": [
+    {
+      "id": "mkt:019e882c-20a0-7882-9281-ce6fcc0ab4ac",
+      "time": "2026-06-02 19:50:53",
+      "tags": [
+        "MKT News",
+        "INTC.O",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "【Intel CEO Chen Liwu says CPU demand rising, supply constrained】June 2, at Computex Taipei Intel CEO Chen Liwu said CPU demand is increasing while supply is constrained; over the past four weeks multiple company CEOs have called requesting more CPUs, which he called an opportunity for Intel. He added Intel has made significant progress in its wafer foundry business and is engaging many potential customers."
+    },
+    {
+      "id": "4912893",
+      "time": "2026-06-02 19:50:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【長安啟源再次回應A07追尾事故：事故車無鐳射雷達，光照不足或無法探測障礙物】針對濟廣高速“10·2”長安啟源A07追尾重型半掛車致3死交通事故，長安啟源官方6月1日再次回應，就該事故車輛的硬體配置及輔助駕駛系統的適用場景作出進一步說明。在回應中，長安啟源方面明確，事故車輛為長安啟源A07的2024款車型，搭載了上一代的IACC（整合式自適應巡航）系統，且該車沒有搭載鐳射雷達。對於該系統在複雜環境下的實際探測能力，長安啟源官方提示，IACC適合在高速公路或路況良好的道路上使用。若遇到天氣惡劣或視線不佳，如雨、霧、沙塵、光照不足等情況，系統可能無法探測到前方障礙物並做出有效響應。（新黃河）"
+    },
+    {
+      "id": "4912892",
+      "time": "2026-06-02 19:49:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗稱過去24小時24艘船透過霍爾木茲海峽】伊朗伊斯蘭革命衛隊海軍2日表示，過去24小時內共有24艘船隻在獲得相關許可後，經革命衛隊協調並在其提供安全保障的情況下透過霍爾木茲海峽。"
+    },
+    {
+      "id": "4912891",
+      "time": "2026-06-02 19:49:34",
+      "tags": [
+        "宏觀",
+        "公司",
+        "資料"
+      ],
+      "text": "【Meta在全球範圍擴大青少年內容管控】Meta 週二披露，正對旗下 Instagram、臉書、Messenger 全球青少年賬號擴容內容管控設定，保障未成年使用者獲取適配其年齡段的使用體驗；當下各大社交平臺因兒童身心健康與安全問題正面臨日趨嚴苛的監管審視。該管控方案去年 10 月率先在部分國家落地，初衷是阻隔未成年人接觸不適宜內容。Meta 同時在 Instagram 上線一項新功能，豐富青少年瀏覽內容品類，避免其反覆刷到同類主題內容。今年 4 月，Meta 向投資者警示，歐美多國圍繞青少年社交產品問題出臺的監管及訴訟阻力，或對公司經營與財務業績造成重大負面影響。在一起標誌性訴訟中，洛杉磯陪審團於 3 月 25 日裁定 Meta 與谷歌母公司 Alphabet 存在過失，認定二者旗下社交平臺產品設計損害未成年人身心健康，並向一名自述幼時沉迷社交媒體的 20 歲女性原告合計賠付 600 萬美元。"
+    },
+    {
+      "id": "4912890",
+      "time": "2026-06-02 19:48:58",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【瑞士央行行長：未設定具體匯率目標 干預匯市意願增強】瑞士央行行長施萊格爾表示，該行並未設定具體的匯率目標。他重申了央行的立場，即其對瑞郎匯率進行干預的意願有所增強。他表示：“瑞士央行透過設定央行政策利率來確保適當的貨幣環境，並在必要時還會採取其他措施，比如干預外匯市場。但瑞士央行並不追求匯率目標。由於中東局勢的惡化，瑞郎面臨升值壓力，導致央行干預匯市意願增強。”"
+    },
+    {
+      "id": "mkt:019e882a-4367-7448-98bc-fdab03b438a2",
+      "time": "2026-06-02 19:48:51",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "【Swiss National Bank chairman Schlegel: no explicit FX target; greater readiness to intervene】Swiss National Bank chairman Schlegel said the SNB has not set and is not pursuing a specific exchange-rate target, but its willingness to intervene in FX markets has increased. He said the bank uses its policy rate to secure appropriate monetary conditions and will employ other measures, including FX intervention if necessary, as deteriorating Middle East tensions are putting upward pressure on the Swiss franc."
+    },
+    {
+      "id": "mkt:019e8829-cbff-7448-98bc-f44d6efe1583",
+      "time": "2026-06-02 19:48:20",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "A UK trade union said members employed by Bilfinger on North Sea assets operated by Ithaca Energy will strike in June over a pay dispute."
+    },
+    {
+      "id": "te:markets:555782",
+      "time": "2026-06-02 19:47:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Ease from Records — US equity futures eased from records as uncertain energy supply from the Middle East pressed the US macroeconomic backdrop. Contracts for the S&P 500 and Nasdaq 100 only inched down, but those for the Dow fell by over 200 points. Oil prices remained higher on the week as reports indicated strikes between Israel and Lebanon persisted despite US President's Trump signal of a ceasefire, which Iran claimed was necessary to restart peace talks and open the Strait of Hormuz. JPMorgan and P&G were lower premarket to set the pace for traditional economic sectors. Meanwhile, software stocks sank to correct from yesterday's surge amid skepticism on AI spending. Alphabet dropped 2% as it will issue $80 billion in equity to fund AI infrastructure, contrasting with consistent buybacks in recent years. Also, HPE surged nearly 30% on a AI-fuelled guidance upgrade, and Marvell surged 20% after Nvidia CEO Huang stated it could be the next trillion dollar company."
+    },
+    {
+      "id": "mkt:019e8829-34fa-7448-98bc-eecd0fcf6b4d",
+      "time": "2026-06-02 19:47:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Magyar: If anti-corruption measures create a level playing field, more German investment will flow into Hungary."
+    },
+    {
+      "id": "4912888",
+      "time": "2026-06-02 19:47:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "英國團結工會：受僱於比爾芬格公司、在伊薩卡能源運營的北海資產專案工作的團結工會會員，將在6月就薪酬糾紛發起罷工。"
+    },
+    {
+      "id": "4912887",
+      "time": "2026-06-02 19:47:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "英國團結工會：比爾芬格公司的海上作業工人將因薪資糾紛發起罷工。"
+    },
     {
       "id": "4912886",
       "time": "2026-06-02 19:46:20",
@@ -164232,96 +164347,6 @@
         "國際"
       ],
       "text": "俄羅斯衛生部長表示，該國已研發出針對新型埃博拉毒株的疫苗。"
-    },
-    {
-      "id": "mkt:019e6420-282c-7ff6-adfe-d8f043d08e64",
-      "time": "2026-05-26 19:51:29",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Amazon",
-        "Market Regions",
-        "Europe & UK",
-        "Market Themes",
-        "Magnificent 7",
-        "AMZN.O"
-      ],
-      "text": "AMAZON: STARTING MAY 26, ALEXA+ IS AVAILABLE ACROSS FRANCE AS PART OF EARLY ACCESS PROGRAM - BLOG"
-    },
-    {
-      "id": "4900497",
-      "time": "2026-05-26 19:51:13",
-      "tags": [
-        "市場"
-      ],
-      "text": "美股盤前，半導體普漲，美光科技漲近7%，AMD漲近3%，高通漲近3%，ARM、臺積電漲近2%。"
-    },
-    {
-      "id": "4900496",
-      "time": "2026-05-26 19:50:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "亞馬遜：自5月26日起，Alexa+透過早鳥搶先體驗計劃面向法國全境開放使用。"
-    },
-    {
-      "id": "4900495",
-      "time": "2026-05-26 19:49:19",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "【中國鋼鐵工業協會：歐盟CBAM規則歧視性加劇 我國鋼鐵業亟須系統應對】針對歐盟CBAM新政帶來的規則歧視、成本上漲、產業鏈承壓等一系列問題，結合行業實測資料與發展實際，記者調研發現，未來須從外交交涉、產業協同、體系建設、平臺賦能四大維度系統化應對。\n一是組織官方交涉，推動預設值合理化。建議國家層面利用中歐高層對話及雙邊經貿機制，設立CBAM專門議題，以鋼協提供的重點企業實際排放資料（“中國預設值”建議）為技術依據，向歐盟嚴正表明其預設值設定嚴重失真，缺乏科學基礎，構成歧視性貿易壁壘，要求其予以糾正並建立基於客觀資料的調整機制。\n二是統籌應對間接影響，支援產業鏈資料庫建設。建議國家層面關注CBAM對下游行業的傳導影響，出臺政策引導和支援鋼鐵行業加快建設統一、權威的產品碳排放因子資料庫，並推動產業鏈上下游碳足跡核算方法與資料互認，為下游企業應對CBAM提供可追溯、可信的資料支撐。\n三是加強核查機構監管與培育，爭取國際互認。建議主管部門進一步規範國內碳核查認證市場，提高機構專業能力與公信力門檻，培育一批高水平、國際知名的核查機構。同時，積極透過官方渠道推動與歐盟在核查機構資質互認方面的對話，為我國優秀機構爭取平等參與CBAM核查的機會，保障我出口企業資料主權與安全。\n四是加快建設國家級CBAM資料服務平臺。建議由國家有關部委指導，行業協會牽頭，依託現有基礎（如鋼鐵全產業鏈EPD平臺），加快建設國家級的CBAM碳排放資料統一填報與管理服務平臺，實現資料國內安全儲存、標準化核算、合規核證與安全對外輸出，降低企業應對成本，提升資料管理效率與安全水平。（中國鋼鐵工業協會）"
-    },
-    {
-      "id": "4900494",
-      "time": "2026-05-26 19:48:49",
-      "tags": [
-        "市場"
-      ],
-      "text": "【剛需買房人掃貨京滬老破小，北京上海300萬以下二手房賣爆了】今年樓市的“小陽春”行情，持續期比往年更長。 以往，樓市“小陽春”大多集中在3月～4月，但今年5月以來，核心城市二手房成交依然活躍。領跑本輪行情的北京、上海，二手房出現成交放量、掛牌下降、價格企穩的跡象。 那麼，在數萬套成交背後，誰在密集進入二手房市場？從一組資料可見端倪。以北京為例，截至4月份，當地300萬元以下的二手房源成交佔比已達78%。 這意味著，低總價房源背後的剛需買房人，依然是本輪二手房行情的“主力軍”。 上海也有類似特徵。截至今年4月，當地300萬元以下房源佔比為70%。進一步細分可見，70平方米以下、總價200萬元以下房源成交佔比，分別為41%、50%。 為何剛需房成交佔比持續升高？普睿地產研究表示，上述趨勢進一步說明，去年“老破小”房源跌出的極致價效比，在持續消納市場中的“極致剛需”入市。（第一財經）"
-    },
-    {
-      "id": "mkt:019e641d-0a67-7ff6-adfe-d390dce70cb0",
-      "time": "2026-05-26 19:48:05",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "China Tech Giants",
-        "NTES.O",
-        "Impact bullish"
-      ],
-      "text": "APPROVED DOMESTIC GAMES INCLUDE ONE TITLE FROM NETEASE"
-    },
-    {
-      "id": "4900493",
-      "time": "2026-05-26 19:47:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "【崑崙萬維Agent模型闖入全球第一梯隊 定價低至行業一半】5月26日，崑崙萬維旗下天工AI正式推出高效能Agent模型SkyClaw-v1.0，並同步釋出輕量化版本SkyClaw-v1.0-lite，兼具高效能與極致價效比。SkyClaw-v1.0支援百萬token上下文，深度適配各類真實智慧體工作場景，重點最佳化複雜工具呼叫、多輪任務執行、程式碼生成、檔案編輯、互動式應用構建與研究型資料分析。模型經過大規模mid-train、高質量合成任務SFT與端到端強化學習最佳化，可在OpenClaw、Hermes、Nanobot等主流Agent環境中執行，同時適配Claude Code、Codex等程式碼Agent框架，通用性與相容性拉滿。"
-    },
-    {
-      "id": "te:economy:553764",
-      "time": "2026-05-26 19:47:52",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Brazil",
-        "Current Account",
-        "Importance 1"
-      ],
-      "text": "Brazil Current Account Gap Larger than Expected — Brazil's current account shortfall rose to $1.8 billion in April 2026 from $1.6 billion in the same month of the previous year, larger than the expected 0.2 billion deficit. The services gap widened to $5.0 billion from $4.1 billion in April 2025, mainly driven by higher spending on travel abroad, telecom and IT services, and equipment rentals. At the same time, the primary income shortfall rose to $6.8 billion from $5 billion, as net expenses for profits and dividends rose to $4.6 billion from $3.4 billion a year earlier, while net interest expenses increased to $2.3 billion from $1.7 billion. On the other hand, the trade surplus increased to $9.7 billion from $7 billion a year ago, as exports jumped 13.9% while imports rose at a slower 6.2%. The secondary income surplus decreased slightly to $0.4 billion from $0.5 billion."
-    },
-    {
-      "id": "4900492",
-      "time": "2026-05-26 19:47:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家能源局釋出51個“人工智慧+”能源高價值場景】5月26日，由國家能源局主辦的全國“人工智慧+”能源現場推進會發布首批“人工智慧+”能源高價值場景，其中包括“電網規劃方案智慧生成與評估”等51個場景。高價值應用場景，從需求看，聚焦長期制約行業發展的痛點問題；從發展階段看，人工智慧技術賦能空間大，但行業應用處於早期階段，未來可能對行業發展產生顛覆性、變革性影響；從成效看，具備全行業推廣潛力，大規模應用後能助推能源產業轉型升級。此前，國家發展改革委、國家能源局釋出關於推進“人工智慧+”能源高質量發展的實施意見提出，加快能源應用場景賦能。此次釋出的51個高價值場景聚焦意見提出的八大類典型應用場景，探索形成綜合解決方案可規模複製、商業模式可參考借鑑的“人工智慧+”能源融合發展新正規化，推動提升能源行業智慧化發展水平。其中，在電網領域，聚焦規劃評審、排程執行等場景，人工智慧提升電網運營管理效率；在能源新業態領域，圍繞虛擬電廠、車網互動等場景，人工智慧為新業態的孵化培育和規模化發展提供支撐；在新能源領域，透過多後設資料融合，人工智慧助力功率預測、市場化運營，提升新能源市場參與度和基地化運營能力等。（新華社）"
     }
   ]
 }
