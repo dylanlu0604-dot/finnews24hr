@@ -1,7 +1,55 @@
 {
-  "updated": "2026-06-02 12:24:31",
-  "count": 17327,
+  "updated": "2026-06-02 12:28:32",
+  "count": 17328,
   "items": [
+    {
+      "id": "mkt:019e8695-f6e0-7dd4-a7a6-bf7fd3eaa0d9",
+      "time": "2026-06-02 12:27:15",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "S&P500",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "US 10-year Treasury yield down 3.8 bps to 4.439%."
+    },
+    {
+      "id": "4911862",
+      "time": "2026-06-02 12:26:51",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期美國國債收益率下跌3.8個基點，降至4.439%。"
+    },
+    {
+      "id": "4911861",
+      "time": "2026-06-02 12:25:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【北京地鐵新線開工 R4線一期北段串聯北京三區】今天（6月2日），記者從北京市重大專案辦和京投軌道公司獲悉，北京軌道交通R4線一期北段工程正式進入建設階段。作為北京市落實“十五五”規劃的重大標誌性工程，這條首都東北方向的大容量快速骨幹線路將進一步織密軌道交通網路，為首都高質量發展注入強勁動能。R4線一期北段全長20.78公里，南起北京市朝陽區東壩，北至北京市順義區燕京橋，串聯朝陽、通州、順義三區。線路建成後，將有效填補北京東北部地區軌道交通空白，提升中心城區與平原新城、城市副中心的互聯互通效率。"
+    },
+    {
+      "id": "mkt:019e8694-8f91-7dd4-a7a6-b63479622491",
+      "time": "2026-06-02 12:25:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Israeli airstrike in southern Lebanon wounds two】An agency reported Israeli warplanes struck Mansouri in the Tyre district of southern Lebanon in the early hours local time and shelled the area. A second strike hit a house in Housh town, destroying or damaging several nearby homes. Two wounded were pulled from the rubble and taken to hospital."
+    },
+    {
+      "id": "4911860",
+      "time": "2026-06-02 12:25:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【黃仁勳：個人電腦將擁有前所未有的效能】英偉達CEO黃仁勳認為，隨著智慧體（AI Agent）逐步嵌入作業系統，個人電腦將擁有前所未有的效能；使用者無需精通各類應用軟體的全部功能，只需向 AI Agent 下達工作需求，智慧體就可自主統籌規劃並落地執行，顯著提升個人工作效率。"
+    },
     {
       "id": "te:markets:555588",
       "time": "2026-06-02 12:23:40",
@@ -158422,41 +158470,6 @@
         "觀點"
       ],
       "text": "【中信證券：受益MLCC週期上行 本土廠商或加速伺服器、車規等高規格產品突破】中信證券26日釋出研報指出，MLCC在伺服器、光模組有廣泛應用，受益伺服器功率提升、垂直供電、800V等升級有望迎量價齊升機遇。當前受益AI需求景氣，MLCC行業正進入新一輪漲價、景氣上行週期，機構看好本土廠商乘風發展並順勢加速伺服器、車規等高規格產品突破。"
-    },
-    {
-      "id": "4899613",
-      "time": "2026-05-26 12:28:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "【深圳“十五五”規劃綱要：推動物流運輸綠色轉型 大力發展重卡超充、重卡換電】《深圳市國民經濟和社會發展第十五個五年規劃綱要》釋出。其中提出，大力發展智慧物流，加大“無人機+功能型無人車”接駁、“無人車+地鐵”聯運、“無人機+人工”配送等新型配送模式應用，構建市域級智慧配送網路。推進智慧化機場港口建設，加強人工智慧在班次執行、物流運輸、經營管理等場景下的應用。推動物流運輸綠色轉型，推廣船舶岸電使用，培育船用清潔燃料加註業務，大力發展重卡超充、重卡換電，推進物流樞紐超充、封閉港區換電等示範應用，建設淨零排放綠色港口。夯實冷鏈物流執行體系基礎，積極推進“水陸空鐵+智冷”運輸，補齊城市“最後一公里”冷鏈物流設施短板。到2030年，物流無人機起降架次超200萬次。"
-    },
-    {
-      "id": "te:markets:553613",
-      "time": "2026-05-26 12:27:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Palm Oil Up Toward MYR 4,500 Ahead of Wednesday Break — Malaysian palm oil futures rose modestly to near MYR 4,500 per tonne, rebounding from prior losses amid a weaker ringgit and firmer edible oils on the Dalian exchange. Crude oil strength also provided support after U.S. defensive actions in southern Iran boosted the broader vegetable oil complex. Meanwhile, the top producer, Indonesia, exported 2.17 million metric tons of palm oil products in March, down from 2.88 million tons in March 2025, according to an industry association. Jakarta plans to route commodity shipments through a state-run firm starting September, a move seen as potentially aiding Malaysian flows in the interim. However, gains were capped by weak exports. Cargo surveyors noted that Malaysian palm oil exports for May 1–25 fell between 14.5% and 18.0% from April. Demand prospects from India, the world’s largest palm oil importer, also remained uncertain after imports plunged 26% in April to a four-month low. Markets will be closed on Wednesday for a holiday."
-    },
-    {
-      "id": "4899612",
-      "time": "2026-05-26 12:26:13",
-      "tags": [
-        "資料"
-      ],
-      "text": "《深圳市國民經濟和社會發展第十五個五年規劃綱要》釋出。其中提出，擴大合格境外有限合夥人（QFLP）總量管理試點機構範圍，支援國際資產管理機構設立合格境內投資者境外投資（QDIE）管理企業。拓展前海自由貿易賬戶功能和試點銀行範圍，支援符合條件的深圳企業發行離岸人民幣債券、綠色債券。到2030年，QFLP試點基金規模達1000億元。"
-    },
-    {
-      "id": "4899611",
-      "time": "2026-05-26 12:25:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中非合作論壇事務大使劉豫錫作為中國政府代表出席貝南總統就職儀式】2026年5月24日，應貝南政府邀請，中非合作論壇事務大使劉豫錫作為中國政府代表在貝南科托努出席瓦達尼總統就職儀式。25日，瓦達尼在總統府會見劉豫錫。劉豫錫向瓦達尼總統轉達習近平主席的熱烈祝賀和良好祝願。劉表示，中貝兩國政治互信日益鞏固，各領域友好合作長足發展。中方願加強兩國戰略對接，落實中非合作論壇北京峰會成果，推動中貝戰略伙伴關係邁向更高水平。瓦達尼感謝習近平主席第一時間向他致電祝賀並表示，政治互信是貝中關係的鮮明底色，長期以來中方為貝南經濟社會發展提供了寶貴支援，貝方恪守一箇中國原則，讚賞中國零關稅政策，願同中方深化治國理政經驗交流，加強各領域合作，推動貝中關係不斷邁上新臺階。（外交部）"
     }
   ]
 }
