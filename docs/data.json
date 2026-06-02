@@ -1,7 +1,176 @@
 {
-  "updated": "2026-06-02 12:03:24",
-  "count": 17305,
+  "updated": "2026-06-02 12:08:35",
+  "count": 17317,
   "items": [
+    {
+      "id": "mkt:019e8682-ecf7-7663-9953-91c92ea3a025",
+      "time": "2026-06-02 12:06:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Alibaba Research Institute: Qwen3.7-Max ranks first among domestic models】Third-party firm Artificial Analysis’s latest global large-model ranking gave Qwen3.7-Max a score of 57, close to top GPT, Claude and Gemini models, and ranked it first among Chinese models. The model handles programming tasks from page prototyping to complex multi-file projects; in office workflows it can integrate tools and coordinate multi-agent collaboration to automate multi-step processes. In fully autonomous tests it remained coherent over runs exceeding 35 hours and more than 1,000 tool calls. It also demonstrates cross-agent-framework generalization, performing well when connected to various agent frameworks and tools."
+    },
+    {
+      "id": "4911839",
+      "time": "2026-06-02 12:06:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【智譜5年參保人數增長14倍 近三年增資160%】據媒體報道，6月1日，智譜在港交所公告稱，公司建議申請配發及發行A股，並申請在科創板上市及准予交易。天眼查App顯示，智譜AI關聯公司北京智譜華章科技股份有限公司成立於2019年6月，法定代表人為劉德兵，經營範圍包括人工智慧基礎軟體開發、人工智慧應用軟體開發、資料處理和儲存支援服務等，由唐傑、天津三快科技有限公司、廣西騰訊創業投資有限公司等共同持股。參保人數資訊顯示，該公司從2019年的43人增至2024年的647人。變更記錄顯示，該公司註冊資本從2023年的約1711.6萬人民幣增至如今的約4458.4萬人民幣。"
+    },
+    {
+      "id": "mkt:019e8681-a471-7663-9953-8d0a022cdfbf",
+      "time": "2026-06-02 12:05:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "China Tech Giants",
+        "Star Stocks",
+        "Tencent",
+        "Meituan",
+        "Alibaba",
+        "00700.HK",
+        "Impact bullish",
+        "03690.HK",
+        "01211.HK"
+      ],
+      "text": "【HK midday: Hang Seng Tech rallies; Tencent, Meituan jump >7%】Hong Kong stocks rallied into the midday close: Hang Seng Index +1.46%, Hang Seng TECH Index +3.48%. Tech heavyweights Tencent (00700.HK) and Meituan (03690.HK) led gains, both >7% by the half-day, driving the tech index higher. BYD (01211.HK), Alibaba (09988.HK) and Bilibili (09626.HK) were each up over 5%. May auto delivery data released; NIO (09866.HK), XPeng (09868.HK), SERES (09927.HK) and GAC Group (02238.HK) also rose."
+    },
+    {
+      "id": "mkt:019e8681-a073-7663-9953-8775dc30a72a",
+      "time": "2026-06-02 12:04:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "US is in talks to expand deployment of nuclear weapons in Europe, the Financial Times reports."
+    },
+    {
+      "id": "mkt:019e8681-4b8f-7663-9953-7910355f9571",
+      "time": "2026-06-02 12:04:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Cambodian government says Thailand has 21 days to appoint two mediators."
+    },
+    {
+      "id": "mkt:019e8681-3756-7663-9953-70e6e9dfd83c",
+      "time": "2026-06-02 12:04:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Cambodia's government said it has initiated compulsory mediation proceedings after Thailand unilaterally withdrew from a key bilateral agreement."
+    },
+    {
+      "id": "mkt:019e8681-0886-7663-9953-6b304ae623a7",
+      "time": "2026-06-02 12:04:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Cambodian government says it has sent formal notification to Thailand and the UN Secretary-General."
+    },
+    {
+      "id": "mkt:019e8680-efd7-7663-9953-6469db05053c",
+      "time": "2026-06-02 12:04:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Cambodian government to initiate compulsory mediation under the UN Convention on the Law of the Sea (UNCLOS) to resolve overlapping maritime claims with Thailand."
+    },
+    {
+      "id": "4911838",
+      "time": "2026-06-02 12:03:43",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【市場分析：隨著避險資金流持續，比特幣依然承壓】亞洲交易時段，隨著中東緊張局勢重燃引發避險情緒，比特幣依然承壓，在4月初以來的低點附近徘徊。XS.com高階市場分析師Antonio Di Giacomo表示，地緣政治的不確定性正在引發油價的大幅波動以及對國際貿易路線穩定性的擔憂，加劇了機構投資者的謹慎情緒。他補充說，過去三週，與比特幣相關的ETF經歷了大量資金流出，隨著市場參與者減少加密貨幣敞口，贖回規模超過30億美元。比特幣最新下跌0.6%，報70,913美元，此前一度觸及70,086美元——逼近備受關注的70,000美元關口。"
+    },
+    {
+      "id": "4911837",
+      "time": "2026-06-02 12:03:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "柬埔寨政府：泰國目前有21天時間任命兩名本國調解員。"
+    },
+    {
+      "id": "4911836",
+      "time": "2026-06-02 12:03:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "柬埔寨政府：啟動強制調解程式，因泰國單方面退出一項核心雙邊協定。"
+    },
+    {
+      "id": "4911835",
+      "time": "2026-06-02 12:03:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "柬埔寨政府：已向泰國及聯合國秘書長髮出正式通知。"
+    },
+    {
+      "id": "4911834",
+      "time": "2026-06-02 12:03:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "柬埔寨政府宣告：將發起《聯合國海洋法公約》下強制調解程式，以解決與泰國的重疊海洋主權主張爭端。"
+    },
+    {
+      "id": "4911833",
+      "time": "2026-06-02 12:02:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國正就擴大在歐洲的核武器部署進行談判。"
+    },
+    {
+      "id": "4911832",
+      "time": "2026-06-02 12:01:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【協鑫集團董事長朱共山：新能源行業也需要“邏輯摺疊” 探索類“韜定律”】在今日舉行的2026年SNEC展會開幕式上，展會執行主席、協鑫集團董事長朱共山在致辭中提到，在 “AI+能源”正規化下，電力即算力，AI即電網，協同即效率。在此背景下，新能源行業也需要“邏輯摺疊”，探索類“韜定律”——跳出傳統的低維度競爭，用全鏈條價值升級，繪製屬於可持續 AI時代的電-碳-算摩爾曲線。他認為，要將光伏從製造端成本比拼的泥潭，拉入系統端價值創造的新場景。"
+    },
+    {
+      "id": "4911831",
+      "time": "2026-06-02 12:01:46",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4500美元/盎司，日內漲0.35%。"
+    },
+    {
+      "id": "4911830",
+      "time": "2026-06-02 12:01:37",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4530美元/盎司，日內漲0.56%。"
+    },
+    {
+      "id": "4911829",
+      "time": "2026-06-02 12:01:33",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【港股午評：恒生指數漲1.46%，恒生科技指數漲3.48%】港股午間收盤，恒生指數漲1.46%，恒生科技指數漲3.48%。恒指港股通ETF銀華（159318）漲1.0%，港股通科技ETF鵬華（159751）漲1.94%。板塊方面，航空貨運與物流、互動媒體與服務板塊漲幅靠前；水務、酒店和度假村REIT板塊跌幅靠前。個股方面，偉仕佳傑漲13.61%，聯想控股漲9.93%，長飛光纖光纜漲9.71%，中國重汽漲9.5%，粵港灣智算漲7.81%；歌禮制藥-B跌12.63%，中集集團跌8.75%，拓璞數控跌8.29%，思格新能跌6.92%，三生製藥跌6.75%。"
+    },
     {
       "id": "mkt:019e867e-0bba-7663-9953-5a3e680882bf",
       "time": "2026-06-02 12:01:07",
@@ -158190,63 +158359,6 @@
         "其他"
       ],
       "text": "【深圳“十五五”規劃綱要：夯實先進製造基礎底座 謀劃推動新一批先進製造業重大專案建設】《深圳市國民經濟和社會發展第十五個五年規劃綱要》釋出，其中提出，謀劃推動新一批先進製造業重大專案建設，引進落地技術先進、綠色低碳、帶動性強的標誌性專案。實施產業基礎再造工程，加快補齊基礎裝備、基礎零部件及元器件、基礎軟體、基礎材料、基礎工藝和產業技術基礎等瓶頸短板。加快先進基礎材料、關鍵戰略材料、前沿新材料等研發，加強減材、等材、增材等製造工藝攻關。積極推廣首臺（套）重大技術裝備、首批次新材料、首版次軟體示範應用。在重點領域高標準建設一批國家級製造業創新中心，強化行業關鍵共性技術協同攻關，突破掌握更多源頭底層技術。"
-    },
-    {
-      "id": "te:markets:553606",
-      "time": "2026-05-26 12:07:51",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "India",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Rupee Eases Amid Higher Crude Prices — The Indian rupee hovered near 95.4 per dollar, easing slightly after reaching its strongest level in nearly two weeks, as renewed geopolitical tensions and stronger importer demand for dollars pressured the currency. Fresh US military strikes in southern Iran weakened hopes for a near-term Middle East peace deal, while Brent crude prices rebounded more than 2% to above $98 per barrel after a recent decline. The rupee had earlier recovered from record lows of 96.96, supported by improved sentiment and dollar-selling intervention by the Reserve Bank of India. Still, traders expect the rebound to face headwinds from month-end importer demand and maturing offshore non-deliverable forward positions. Meanwhile, concerns over imported inflation intensified after India raised compressed natural gas prices following another fuel price hike this month. Goldman Sachs also raised its inflation forecast and now expects two more RBI rate hikes this year."
-    },
-    {
-      "id": "4899595",
-      "time": "2026-05-26 12:07:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "【深圳“十五五”規劃綱要：年均增速力爭保持在5%以上】《深圳市國民經濟和社會發展第十五個五年規劃綱要》釋出，其中提出，培育和發展新質生產力、融入和服務新發展格局、建設現代化經濟體系取得重大突破，經濟實現質的有效提升和量的合理增長，保持工業合理比重，居民消費率顯著提高，內需拉動經濟增長主動力持續增強，地區生產總值超過5萬億元，年均增速力爭保持在5%以上。"
-    },
-    {
-      "id": "4899594",
-      "time": "2026-05-26 12:06:29",
-      "tags": [
-        "央行",
-        "市場"
-      ],
-      "text": "斯里蘭卡科倫坡證券交易所全股指數下跌0.1%；斯里蘭卡央行將關鍵政策利率上調100個基點。"
-    },
-    {
-      "id": "te:markets:553605",
-      "time": "2026-05-26 12:06:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "India",
-        "stocks",
-        "Importance 0"
-      ],
-      "text": "ICICI Bank Stock Price Hits 4-week High — ICICI Bank shares increased to 1297.00 INR, the highest since April 2026. Over the past 4 weeks, ICICI Bank lost 1.3%, and in the last 12 months, it decreased 10.33%."
-    },
-    {
-      "id": "4899593",
-      "time": "2026-05-26 12:06:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "華為終端：歡迎於和偉成為鴻蒙智行問界M9品牌大使。"
-    },
-    {
-      "id": "4899592",
-      "time": "2026-05-26 12:04:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "【東方電熱：機器人液冷散熱模組訂單總金額佔比較小 對經營業績沒有重大影響】東方電熱在互動平臺表示，溫擎智控正在和一些潛在客戶陸續簽訂開發訂單。此外，溫擎智控是國內首家推出“系統級機器人液冷散熱模組”的企業，產品獲得多家機器人企業認可。截至目前，公司簽訂的機器人液冷散熱模組訂單總金額佔公司當期營業收入的比重較小，對公司經營業績沒有重大影響，請注意投資風險。"
     }
   ]
 }
