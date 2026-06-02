@@ -1,7 +1,71 @@
 {
-  "updated": "2026-06-03 01:36:09",
-  "count": 18375,
+  "updated": "2026-06-03 01:40:06",
+  "count": 18383,
   "items": [
+    {
+      "id": "4913543",
+      "time": "2026-06-03 01:39:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：ZoomInfo原生接入企業版Codex。"
+    },
+    {
+      "id": "4913542",
+      "time": "2026-06-03 01:39:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國石油就價值20億英鎊北海資產與伊薩卡能源展開深度談判。"
+    },
+    {
+      "id": "4913541",
+      "time": "2026-06-03 01:38:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基表示，俄羅斯可能在週二夜間發動新一輪大規模攻擊。"
+    },
+    {
+      "id": "4913540",
+      "time": "2026-06-03 01:38:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基稱，反導武器的交付速度跟不上俄羅斯導彈襲擊的節奏。"
+    },
+    {
+      "id": "mkt:019e896a-4ec6-7779-8aac-8e0a643df849",
+      "time": "2026-06-03 01:38:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IAEA Director General GROSSI said they will meet to review lessons learned and how to improve preparedness."
+    },
+    {
+      "id": "4913539",
+      "time": "2026-06-03 01:36:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普稱，與德黑蘭方面的談判走向尚難預料。"
+    },
+    {
+      "id": "mkt:019e8968-704b-7779-8aac-7cf826af2d52",
+      "time": "2026-06-03 01:36:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's foreign ministry said Iran's foreign minister spoke with his Egyptian counterpart, exchanging views on recent regional developments and ongoing diplomatic efforts to ease tensions in West Asia and preserve regional stability."
+    },
+    {
+      "id": "4913538",
+      "time": "2026-06-03 01:35:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "百勝餐飲集團宣佈營運長兼人力與文化事務總監特雷西·斯金斯卸任退休。"
+    },
     {
       "id": "4913537",
       "time": "2026-06-03 01:35:06",
@@ -272,6 +336,16 @@
         "其他"
       ],
       "text": "微軟高管透露，索拉拉專案便攜裝置將新增醫療患者自助掛號功能。"
+    },
+    {
+      "id": "mkt:019e8969-602a-7779-8aac-838e686d3943",
+      "time": "2026-06-03 01:20:08",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "The Federal Reserve accepted $2.502 billion from 32 counterparties in a fixed-rate reverse repurchase operation."
     },
     {
       "id": "4913522",
@@ -168370,15 +168444,6 @@
         "國際"
       ],
       "text": "【美國疾控中心召集員工志願參與機場埃博拉篩查】隨著剛果民主共和國和烏干達的致命病毒疫情持續加劇，美國疾病控制與預防中心（CDC）正向其內部員工徵集志願者，以協助在國內機場開展埃博拉病毒篩查。美國CDC意在擴大針對國際旅客的篩查能力，並已將“CDC準備就緒應急響應者”（CDCReady Responders）列為此次機場篩查的優先動員物件。篩查流程將包括對乘客進行簡短的問卷調查和體溫檢測，出現症狀的人員將接受進一步評估，以判定其所患疾病是否可能為埃博拉。"
-    },
-    {
-      "id": "4900913",
-      "time": "2026-05-27 01:36:32",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4530美元/盎司，日內跌0.61%。"
     }
   ]
 }
