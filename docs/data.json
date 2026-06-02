@@ -1,7 +1,31 @@
 {
-  "updated": "2026-06-03 05:19:29",
-  "count": 18462,
+  "updated": "2026-06-03 05:23:20",
+  "count": 18458,
   "items": [
+    {
+      "id": "4913682",
+      "time": "2026-06-03 05:22:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【報道：特朗普敦促伊朗做出更堅定的核承諾】據ABC記者報道稱，美國國務卿魯比奧在參議院外交關係委員會聽證會上表態，美伊協議或於今日、明日或下週落地。 據多名美國官員及知情人士透露，美國總統特朗普要求伊朗以書面形式作出具體核讓步，以此作為一份初步協議的內容，打破美伊之間長期陷入的談判僵局。 訊息人士表示，此前伊朗談判代表僅作出口頭保證，承諾該國最終會就核專案相關條款達成共識；但特朗普在週五白宮戰情室的會議上判定，這類口頭承諾約束力不足。"
+    },
+    {
+      "id": "mkt:019e8a36-fe2e-733d-881a-c3393a4302ca",
+      "time": "2026-06-03 05:22:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US media: US pilot twice shot down — once by friendly fire, once by Iranian missile】CBS, citing two people familiar with the incidents, reported the F-15E pilot shot down over Iran had earlier been downed in the early days of the Iran war when his previous aircraft was hit by friendly fire from Kuwaiti forces. He ejected safely and, just over 30 days later on a separate mission over Iran, his F-15E was struck by an Iranian surface-to-air missile, prompting a bold rescue operation. Retired Air Force Lt. Gen. David Deptula called the sequence a very unusual coincidence and said he could not recall since Vietnam a pilot being downed twice in the same campaign — like being struck by lightning twice."
+    },
+    {
+      "id": "4913681",
+      "time": "2026-06-03 05:19:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大政府負責加美貿易的部長勒布朗： 本國已針對美國 301 條款關稅調查開展相關籌備工作。"
+    },
     {
       "id": "4913680",
       "time": "2026-06-03 05:18:18",
@@ -169185,72 +169209,6 @@
         "國際"
       ],
       "text": "特朗普：這（比特幣及加密貨幣產業）是一大支柱產業，我們必須對其加以保護。"
-    },
-    {
-      "id": "4901034",
-      "time": "2026-05-27 05:23:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：CFTC主席做得非常出色。"
-    },
-    {
-      "id": "4901033",
-      "time": "2026-05-27 05:23:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談預測市場：我們希望保持領先地位。"
-    },
-    {
-      "id": "4901032",
-      "time": "2026-05-27 05:22:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "蘋果和谷歌警告稱，加拿大一項法案將威脅加密服務安全。"
-    },
-    {
-      "id": "mkt:019e662a-854e-7332-8106-d7b6535ee36b",
-      "time": "2026-05-27 05:22:03",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Tesla",
-        "Market Themes",
-        "Magnificent 7",
-        "TSLA.O",
-        "Impact mixed",
-        "Nasdaq100"
-      ],
-      "text": "【Insiders: Musk Discussed Merging SpaceX With Tesla】Musk Discussed Merging SpaceX, Tesla; SpaceX To Start Nasdaq Trading In ~2 Weeks; SpaceX Valued At USD 1.25trln After Earlier XAI Merger; Tesla Market Cap ~USD 1.6trln; Firms Share Resources, Employees Expect Deal"
-    },
-    {
-      "id": "4901031",
-      "time": "2026-05-27 05:21:17",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：要守住全球加密貨幣與比特幣產業中心地位，抵禦境外競爭衝擊。"
-    },
-    {
-      "id": "4901030",
-      "time": "2026-05-27 05:20:38",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：必須保留美國商品期貨交易委員會對預測市場的專屬管轄權。"
-    },
-    {
-      "id": "4901029",
-      "time": "2026-05-27 05:19:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際貨幣基金組織（IMF）：孟加拉國當局已申請一項新的IMF支援規劃，IMF工作人員正與孟方就其改革議程及政策優先事項展開討論。"
     }
   ]
 }
