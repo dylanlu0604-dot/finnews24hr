@@ -1,7 +1,52 @@
 {
-  "updated": "2026-06-02 08:10:37",
-  "count": 17187,
+  "updated": "2026-06-02 08:14:24",
+  "count": 17188,
   "items": [
+    {
+      "id": "mkt:019e85ad-7fed-7993-96fc-26d08cc9f49f",
+      "time": "2026-06-02 08:13:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kyiv mayor said preliminary reports show two people were injured in an attack in Kyiv."
+    },
+    {
+      "id": "4911502",
+      "time": "2026-06-02 08:13:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "基輔市長表示，初步報告顯示基輔的襲擊事件造成兩人受傷。"
+    },
+    {
+      "id": "4911501",
+      "time": "2026-06-02 08:12:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "韓華航空航天股價下跌6.2%，報106.7萬韓元。"
+    },
+    {
+      "id": "4911500",
+      "time": "2026-06-02 08:11:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "早盤交易中，澳大利亞標普/澳證200指數下跌0.6%，報8673.60點。"
+    },
+    {
+      "id": "mkt:019e85ab-6641-7993-96fc-1d83d0f2822c",
+      "time": "2026-06-02 08:11:02",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "ARM.O",
+        "Impact bullish",
+        "9984.T"
+      ],
+      "text": "SoftBank Group shares rose 4.6% after Arm (ARM.O) surged in overnight trading."
+    },
     {
       "id": "mkt:019e85aa-a3a8-7993-96fc-116497628e67",
       "time": "2026-06-02 08:10:13",
@@ -156912,43 +156957,6 @@
         "國際"
       ],
       "text": "【美軍稱發動“自衛性”空襲 伊媒稱目前局勢平靜 】美軍中央司令部發言人25日說，美軍當天對伊朗南部的導彈發射陣地和佈雷艇發動“自衛性”空襲。據伊朗媒體報道，阿巴斯港傳出爆炸聲，目前局勢平靜。中央司令部發言人蒂姆·霍金斯在一份宣告中說，美軍打擊目標包括伊朗導彈發射陣地和試圖佈設水雷的船隻，旨在保護美軍部隊“免受伊朗軍隊構成的威脅”。霍金斯聲稱，在持續停火期間，美軍繼續“自衛”，並“保持克制”。伊朗法爾斯通訊社報道這一訊息時，稱“美軍承認違反停火協議”。據伊朗多家媒體報道，當地時間25日深夜，阿巴斯港聽到三起爆炸，原因不明。霍爾木茲海峽沿岸的錫裡克和賈斯克兩地也傳出類似爆炸聲響。邁赫爾通訊社稍後報道，局勢得到控制，無需擔心。伊斯蘭共和國廣播電視臺記者後續在阿巴斯港現場報道，當地局勢正常，該市所屬霍爾木茲甘省政府正進行進一步調查。"
-    },
-    {
-      "id": "4899253",
-      "time": "2026-05-26 08:12:22",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【國金證券：看好國際佈局具備優勢的頭部券商展現出更強的業績韌性及成長性】國金證券研報表示，在政策的支援與券商自身發展需要的驅動下，深化國際業務佈局已成為明確的趨勢，境外業務更高的槓桿及ROE是券商開啟長期盈利空間的重要驅動力。國際業務受資金實力、業務資質、品牌優勢、佈局範圍等多因素影響，形成了較高的集中度。我們看好國際佈局具備優勢的頭部券商展現出更強的業績韌性及成長性。"
-    },
-    {
-      "id": "te:markets:553530",
-      "time": "2026-05-26 08:11:52",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Futures Rally on Optimism Over Iran Talks — US stock futures jumped on Tuesday as Wall Street reopened following a holiday-extended weekend, with investor sentiment boosted by hopes for a potential peace agreement between the US and Iran. President Donald Trump said negotiations were progressing well, though he warned that fresh attacks could follow if talks broke down, while a Pakistani mediator reportedly told China that a deal was close. Nevertheless, key issues remain unresolved, including Iran’s nuclear ambitions and its demand to maintain control over maritime traffic through the Strait of Hormuz. Last week, the Dow rose 2.13%, while the S&P 500 gained 0.88% and the Nasdaq Composite advanced 0.45%, supported by optimism over Middle East peace efforts and another strong batch of corporate earnings. Investors are now focusing on a busy week of US economic releases, including PCE inflation and GDP data, alongside earnings reports from Zscaler, Salesforce, and Dell Technologies, among others."
-    },
-    {
-      "id": "4899252",
-      "time": "2026-05-26 08:11:46",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【華泰證券：多因素將推動核心城市樓市率先進入結構性修復通道】華泰證券研報表示，我國房地產市場正進入全新階段，華泰證券認為行業正從過去的“信用驅動”逐步轉向“產業驅動”，房地產對經濟的作用從“舊週期”的引擎逐步成為“新週期”經濟發展的結果。新興產業發展情況，或將決定城市未來房地產市場的復甦節奏以及發展質量。華泰證券認為，新興產業帶來的財富效應、人口流入與房地產庫存改善，將推動核心城市樓市率先進入結構性修復通道。華泰證券認為改善型尤其是終極改善需求可能會在這些城市釋放的更加明顯，在這些城市擁有較多佈局且具備“好房子”品質的房企有望受益。"
-    },
-    {
-      "id": "4899251",
-      "time": "2026-05-26 08:10:58",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4580美元/盎司，日內漲0.51%。"
     }
   ]
 }
