@@ -1,7 +1,75 @@
 {
-  "updated": "2026-06-02 09:53:23",
-  "count": 17245,
+  "updated": "2026-06-02 09:57:17",
+  "count": 17250,
   "items": [
+    {
+      "id": "mkt:019e860b-15e4-7aa2-99e8-dd4adb0bcf71",
+      "time": "2026-06-02 09:55:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "AI Revolution",
+        "Nasdaq100",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "【MORGAN STANLEY FUND: Market opportunities likely to spread from a few core names to broader tech】MORGAN STANLEY fund says last week’s market divergence persisted, driven by continued AI-chain strength and catalysts in parts of the supply chain; IPO expectations for two domestic memory giants boosted related stocks. Margin financing has surged since May—growth second only to August last year—with the financing balance briefly near 2.9 tln yuan last week. Electronics and telecom sectors logged net margin financing purchases above 100 bln yuan. Extreme, concentrated trading is producing violent swings that release rather than accumulate risk; with risk appetite low, capital has clustered in high‑momentum areas. Given a recent easing in external geopolitical tensions, opportunities are expected to diffuse from a few core plays into a wider set of technology names, though some large‑cap non‑tech stocks may be capped if the market re‑heats. At the security level, AI remains the most favoured exposure and is lifting semiconductors and upstream components/materials; selected pockets in energy storage, machinery and chemicals show improving demand."
+    },
+    {
+      "id": "4911663",
+      "time": "2026-06-02 09:55:00",
+      "tags": [
+        "觀點"
+      ],
+      "text": "高盛預計，受霍爾木茲海峽局勢干擾影響，成品油利潤將在2026年之前維持高位。"
+    },
+    {
+      "id": "4911662",
+      "time": "2026-06-02 09:54:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【教育部會同有關部門啟動實施“2026年高考護航行動”】2026年高考在即，教育部深入貫徹落實樹立和踐行正確政績觀學習教育部署要求，堅持為人民出政績、以實幹出政績，會同網信、公安等部門部署開展“2026年高考護航行動”，全面做好考試組織、宣傳引導、考生服務等各項工作，全力護航“平安高考”。 2026年高考期間，各地教育部門、招生考試機構將聯合網信、公安等部門集中開展打擊手機作弊、淨化涉考網路環境、打擊銷售作弊器材、打擊替考作弊、淨化考點周邊環境、清理整頓涉考培訓機構和助考中介等多個專項行動，清理處置助考犯罪、招生詐騙、虛假宣傳、網路謠言等不實有害資訊，加強治安、出行、食宿、醫療衛生、噪音治理、心理輔導等多方面綜合服務保障，營造良好考試環境，堅決維護教育考試公平。 考後，各地將堅持以考生為本，進一步最佳化志願填報指導服務，升級完善志願填報服務系統，多渠道、多形式組織開展系列志願填報諮詢服務活動，面向欠發達地區縣中開展“陽光志願”幫扶行動，全面提升志願填報服務的普惠性、可及性、便捷性，助力更多學子圓夢大學、成長成才。"
+    },
+    {
+      "id": "mkt:019e8609-ff44-7aa2-99e8-d29d6b989706",
+      "time": "2026-06-02 09:54:22",
+      "tags": [
+        "MKT News",
+        "SSE Composite",
+        "Impact bearish",
+        "CSI300",
+        "SZSE Component",
+        "Impact mixed"
+      ],
+      "text": "China's three main A-share indices turned negative; the ChiNext index had earlier risen more than 1.7%."
+    },
+    {
+      "id": "4911661",
+      "time": "2026-06-02 09:53:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "三大指數集體翻綠，創業板指此前一度漲超1.7%。"
+    },
+    {
+      "id": "4911660",
+      "time": "2026-06-02 09:53:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【臺空軍一飛機墜毀，兩人死亡】臺空軍岡山基地一架T-34型教練機（機號3414）今（2）日上午執行飛行訓練任務時發生墜機事故，機上兩名飛行員死亡，臺空軍已成立專案小組展開調查，釐清事故發生原因。 臺空軍指出，失事教練機由盧姓中校及過姓中校駕駛，今日上午執行模擬發動機失效航線訓練任務，於上午8時08分在岡山基地跑道北頭附近墜落。（看臺海）"
+    },
+    {
+      "id": "4911659",
+      "time": "2026-06-02 09:52:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：俄羅斯禁止航空燃油出口至11月30日。"
+    },
     {
       "id": "mkt:019e8607-a28c-7aa2-99e8-cb4a7cb1802a",
       "time": "2026-06-02 09:51:47",
@@ -157533,26 +157601,6 @@
         "Importance 1"
       ],
       "text": "China Stocks Retreat as Deal Optimism Falters — The Shanghai Composite slipped 0.6% to 4,130 on Tuesday, while the Shenzhen Component tumbled 1.2% to 15,677, with both benchmarks retreating from the previous session as fresh US military strikes in the Middle East dimmed hopes for a near-term peace agreement. US forces on Tuesday launched strikes in southern Iran, describing the operations as defensive measures, even as Washington and Tehran were reportedly moving closer to a potential agreement aimed at easing tensions and reopening the Strait of Hormuz. Meanwhile, Chinese investors are increasingly seeking alternative channels to trade overseas equities after Beijing intensified its crackdown on illicit cross-border stock trading in an effort to curb capital outflows. Among individual stocks, major decliners included Foxconn Industrial Internet (-2.3%), Hygon Information Technology (-2.9%), Luxshare Precision Industry (-2.9%), and Sungrow Power Supply (-1.9%)."
-    },
-    {
-      "id": "te:markets:553557",
-      "time": "2026-05-26 09:54:31",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Currency",
-        "Importance 2"
-      ],
-      "text": "Dollar Steadies on US-Iran Uncertainty — The dollar index steadied above 99 on Tuesday after facing pressure at the start of the week, as US military operations in southern Iran and ongoing peace negotiations kept investors cautious about inflation risks. The US military reportedly targeted vessels suspected of attempting to deploy mines, along with missile launch sites in southern Iran, which allegedly posed a threat to American forces in the region. At the same time, President Trump said talks with Tehran were progressing well, though he warned that further attacks could follow if negotiations collapsed, while a Pakistani mediator reportedly told China that an agreement was close. Last week, the dollar climbed to its highest level in six weeks as investors increasingly bet that the Federal Reserve may need to tighten monetary policy to contain inflation, with markets fully pricing in a rate hike before year-end. Attention is now turning to upcoming PCE inflation data for additional signals on the Fed’s policy path."
-    },
-    {
-      "id": "4899420",
-      "time": "2026-05-26 09:53:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本政府據悉傾向於將食品飲料消費稅稅率降至1%】據報道，關於為期兩年的食品飲料消費稅減稅問題，日本政府傾向於降至1%而不是零。日本首相高市早苗最早可能在6月下旬作出最終決定。據報道，將消費稅下調至1%，相較執政黨此前承諾考慮降至零，收銀系統所需調整的時間可縮短一半。"
     }
   ]
 }
