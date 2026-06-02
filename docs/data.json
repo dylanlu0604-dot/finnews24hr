@@ -1,7 +1,180 @@
 {
-  "updated": "2026-06-02 18:10:23",
-  "count": 17722,
+  "updated": "2026-06-02 18:14:14",
+  "count": 17731,
   "items": [
+    {
+      "id": "mkt:019e87d3-0953-7aa8-868c-7ab8f093ee47",
+      "time": "2026-06-02 18:13:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Blackstone's BCP Asia III raises $13.1bn, tops $10bn target】Blackstone said on June 2 its Asia private equity fund BCP Asia III closed at $13.1bn, exceeding a $10bn target. The vehicle is Blackstone's largest private equity fundraising in Asia."
+    },
+    {
+      "id": "te:economy:555753",
+      "time": "2026-06-02 18:13:32",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "LMI Logistics Managers Index",
+        "Importance 2"
+      ],
+      "text": "US Logistics Activity Remains Robust — The Logistics Manager’s Index in the US declined to 69.5 in May 2026 from 69.9 in April, pointing to a slowdown in the logistics sector, although it is still the second fastest level of expansion since March 2022. Inventory levels slowed (-1.5 to 54.8) and warehousing capacity moved back from contraction to mild expansion (+5 to 50.5). Despite the slowdown in inventory expansion and increase in storage capacity, costs remain elevated. Inventory Costs are up (+9.4 to 84.1) which is the highest reading for this metric since May of 2022. Warehousing prices remain elevated as well (70.7 vs 72.7). Also, the transportation market has been tight, with prices growing at an unprecedented rate since the closure of the Strait of Hormuz. Transportation prices are up to a record high (+1 to 96). Transportation capacity continues to contract quickly (31.7 vs 28.4), and transportation utilization expansion remains elevated (69.5 vs 69.6)."
+    },
+    {
+      "id": "4912653",
+      "time": "2026-06-02 18:13:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "德國商業銀行：將2026年末白銀價格預測從每盎司90美元下調至每盎司80美元。"
+    },
+    {
+      "id": "4912652",
+      "time": "2026-06-02 18:13:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華海藥業：下屬子公司HB0056注射液新增適應症獲臨床試驗許可】華海藥業公告稱，下屬子公司華奧泰及華博生物收到國家藥監局核准簽發的HB0056注射液專案新增適應症“特發性肺纖維化”的《藥物臨床試驗批准通知書》。截至目前，公司在HB0056專案上研發投入約1.01億元。2024 - 2026年，該藥物已在國內外獲批多項臨床試驗許可。不過，醫藥產品研發存在多種不確定因素，公司將及時披露進展。"
+    },
+    {
+      "id": "4912651",
+      "time": "2026-06-02 18:13:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【交通運輸部召開安全生產視訊會議】會議要求，要強化抓好安全生產工作的政治自覺、思想自覺和行動自覺，嚴格落實安全生產領導責任，嚴格落實安全監管責任，加強安全履責跟蹤問效。要紮實推進汛期暑期重大風險隱患排查整治，北部片區要全面查改重大風險隱患，推動企業提升自查深度，強化壓力穿透傳導；南部、中部片區要嚴格隱患整改，嚴防問題反彈，強化源頭治理。要強化災害天氣主動防禦，公路防汛方面，要壓緊壓實屬地責任，持續完善“一張清單”，嚴格落實主動防禦措施；水上防汛防颱風方面，要科學組織海上船舶避風，加強汛期內河客運安全防範，強化港口防汛防颱風防高溫措施。要提前謀劃端午節假期重大危險源提級管控，深入開展節前全覆蓋培訓，強化線上線下排程核查，加大激勵約束力度。要加強公路運營、道路運輸、水上交通、港口航道、工程建設和城市軌道交通等重點領域安全監管，紮實推進突出問題專項治理，強力開展“打非治違”，持續提升監管質效。要認真組織開展交通運輸“安全生產月”活動，加強從業人員安全培訓，廣泛開展安全宣傳教育，強化社會公眾監督。"
+    },
+    {
+      "id": "4912650",
+      "time": "2026-06-02 18:13:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "貿易商稱，印度5月棕櫚油進口量環比上升7.3%，至55.1萬噸。"
+    },
+    {
+      "id": "4912649",
+      "time": "2026-06-02 18:12:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "交易商稱，印度5月葵花籽油進口量環比下降32.3%至29.4萬噸。"
+    },
+    {
+      "id": "4912648",
+      "time": "2026-06-02 18:12:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "交易商稱，印度5月食用植物油進口量環比上升2.6%，至134萬噸。"
+    },
+    {
+      "id": "4912647",
+      "time": "2026-06-02 18:12:40",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "交易商稱，印度5月豆油進口量環比上漲38%，至49.7萬噸，創五個月來新高。"
+    },
+    {
+      "id": "4912646",
+      "time": "2026-06-02 18:12:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "金房能源：公司主營業務收入中供熱收入佔比超90%，蓄冷儲能業務處於發展階段，對公司收入及利潤影響較小，公司未涉及液冷、電力供應相關業務。公司蓄冷儲能業務服務場景延伸至資料中心及智算中心，相關供能場景佔總營收比重不足3%。"
+    },
+    {
+      "id": "4912644",
+      "time": "2026-06-02 18:12:17",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "根據美國證券交易委員會（SEC）檔案顯示：Alphabet公司提交申請，擬發售至多1.5億股B類存托股份。"
+    },
+    {
+      "id": "4912643",
+      "time": "2026-06-02 18:12:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "德國商業銀行：維持2027年底黃金價格預測為每盎司5200美元。"
+    },
+    {
+      "id": "mkt:019e87d1-8327-7aa8-868c-773b9fe77061",
+      "time": "2026-06-02 18:11:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Commerzbank lowers its end-2026 gold forecast to $4,800/oz from $5,000/oz."
+    },
+    {
+      "id": "4912642",
+      "time": "2026-06-02 18:11:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "火炬電子：公司關注到市場對公司MLCC業務較為關注，現就相關情況說明如下：截至2025年底，公司自產MLCC業務收入佔主營業務收入的比例約為17%，在算力基礎設施方向的應用尚處於培育期，相關業務收入佔比極低，對公司業績影響有限，相關業務推廣存在較大不確定性。"
+    },
+    {
+      "id": "4912641",
+      "time": "2026-06-02 18:11:34",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【藍科高新：中信建投核查收購51%股權內幕資訊登記制度執行情況】藍科高新公告稱，公司擬現金收購中國浦發持有的中國空分工程51%股權。獨立財務顧問中信建投核查後認為，公司已按相關法律法規制定《內幕資訊知情人登記制度》。籌劃交易期間，公司採取必要保密措施，限定敏感資訊知悉範圍，嚴格履行依法披露前的保密義務，如與交易對方磋商時做好內幕資訊知情人員登記、透過交易程序備忘錄記載進展等，還向上海證券交易所報備相關材料。"
+    },
+    {
+      "id": "4912640",
+      "time": "2026-06-02 18:11:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國商業銀行：將2026年末金價預測從每盎司5000美元下調至4800美元。"
+    },
+    {
+      "id": "4912639",
+      "time": "2026-06-02 18:11:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "根據美國證券交易委員會（SEC）披露檔案：Alphabet計劃發售150億美元的A類普通股與C類股本。"
+    },
+    {
+      "id": "4912638",
+      "time": "2026-06-02 18:10:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國廣核：台山2號機組換料大修完成 6月2日併網發電】中國廣核公告稱，非全資子公司台山核電於2025年末開始台山2號機組年度換料大修，並增加部分檢查和試驗等工作。截至6月2日，該機組已完成各項工作，各項引數滿足核安全法規和電廠技術規範要求，已併網發電，台山核電站及周邊環境監測正常。公司將確保各在運核電機組安全穩定執行。"
+    },
+    {
+      "id": "4912637",
+      "time": "2026-06-02 18:10:38",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【火炬電子：股價異常波動 提醒投資者注意風險】火炬電子公告稱，公司股票於2026年5月29日、6月1日、2日連續三個交易日內日收盤價格漲幅偏離值累計超20%，屬異常波動。截至公告披露日，公司不存在應披露未披露的重大資訊，生產經營正常。2025年度營收41.21億元，同比增47.09%，淨利潤3.20億元，同比增64.39%；2026年一季度營收13.50億元，同比增77.16%，淨利潤0.40億元，同比降62.82%。公司提醒投資者注意投資風險。"
+    },
+    {
+      "id": "4912636",
+      "time": "2026-06-02 18:10:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【土耳其外長預計特朗普將出席北約峰會】土耳其方面預計，美國總統特朗普將於下月出席在安卡拉舉行的北約峰會。屆時，北約成員國將面臨壓力，需就美國長期以來提出的增加國防開支的要求拿出具體進展成果。“據我們所知，是的，他確實打算出席。”土耳其外交部長哈坎·菲丹週二表示。菲丹稱，特朗普和土耳其總統埃爾多安在過去一個月裡多次通電話，“每次通話中他都表示自己會出席”。7月7日至8日，土耳其將接待北約成員國的領導人。菲丹表示，儘管存在一些政治方面的說法，但美國仍堅定地致力於該聯盟，並且沒有表現出要違背北約協議而脫離聯盟的跡象。"
+    },
     {
       "id": "mkt:019e87cf-8427-7ccf-be8e-478e7248f5ec",
       "time": "2026-06-02 18:09:44",
@@ -162313,103 +162486,6 @@
         "公司"
       ],
       "text": "【天陽科技：控股股東歐陽建平質押1228萬股股份】天陽科技公告稱，近日公司控股股東、實際控制人歐陽建平質押1228萬股股份，佔其所持股份比例14.92%，佔公司總股本比例2.52%，質押起始日為2026年5月22日，質權人為民生理財有限責任公司，質押用途為資金需求。截至公告披露日，歐陽建平及其一致行動人皓宏智業累計質押股份7031萬股，佔其所持股份比例57.62%，佔公司總股本比例14.40%。未來一年內到期的質押股份5803萬股，對應融資餘額3.68億元，還款資金來源為自有及自籌資金，質押風險可控。"
-    },
-    {
-      "id": "4900272",
-      "time": "2026-05-26 18:14:04",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【播恩集團：股價異常波動 擬收購股權事項存不確定性】播恩集團公告稱，公司股票2026年5月22日、5月25日、5月26日連續三個交易日收盤價漲幅偏離值累計超20%，屬異常波動。公司2024 - 2025年淨利潤分別為-2871.39萬元、-1977.34萬元，2026年一季度淨利潤914.92萬元。公司擬現金收購希傑國際持有的三家目標公司各100%股權，交易尚處初步意向階段，存在不達預期、終止及700萬元保證金無法收回風險。"
-    },
-    {
-      "id": "mkt:019e63c6-d466-7ff6-adfe-77d2a3eaea87",
-      "time": "2026-05-26 18:13:55",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Tencent",
-        "0700.HK",
-        "Impact bullish"
-      ],
-      "text": "TENCENT REPURCHASES 1.1 MLN SHARES FOR HKD 500.9 MLN ON MAY 26 - HKEX FILING"
-    },
-    {
-      "id": "4900271",
-      "time": "2026-05-26 18:13:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以軍稱打擊黎巴嫩境內超100個真主黨目標】當地時間26日，以色列國防軍釋出訊息稱，25日夜間至26日凌晨，以軍打擊了黎巴嫩貝卡谷地及黎南部地區超100個真主黨基礎設施，並打死多名武裝人員。以軍表示，在貝卡谷地，以軍打擊了包括黎真主黨武器庫在內的多個軍事設施。在黎南部，以軍打擊了90多個真主黨武器庫、指揮中心、觀察哨和其他基礎設施。以軍稱，真主黨利用這些設施策劃針對以軍和以色列平民的襲擊。（央視新聞）"
-    },
-    {
-      "id": "4900270",
-      "time": "2026-05-26 18:12:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國中冶：5月26日回購股份超1000萬股 涉資約2508萬元】中國中冶公告稱，5月26日，公司在香港聯交所回購329.1萬股，每股價格1.49-1.54港元，付出總額500.00萬港元；在上海證券交易所回購710.06萬股，每股價格2.81-2.84元，付出總額2008.06萬元。公司可根據購回授權購回股份總數為2.87億股，截至5月26日累計購回2917.8萬股，佔決議透過當日已發行股份的1.02%。"
-    },
-    {
-      "id": "4900269",
-      "time": "2026-05-26 18:12:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "騰訊5月26日購回價值5.01億港元的股份。"
-    },
-    {
-      "id": "4900268",
-      "time": "2026-05-26 18:12:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國盧卡斯無人機使用星鏈服務的費用已上調。"
-    },
-    {
-      "id": "4900267",
-      "time": "2026-05-26 18:11:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "【超達裝備：青島海青擬減持公司不超1%股份】超達裝備(301186)5月26日公告，公司持股5.74%的股東青島海青匯創創新科技服務合夥企業(有限合夥)（簡稱“青島海青”）計劃以集中競價方式，減持公司股份不超過81.95萬股(佔公司剔除回購專用賬戶中股份後總股本的1%)。"
-    },
-    {
-      "id": "4900266",
-      "time": "2026-05-26 18:11:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "Melius Research將蘋果目標價從355美元上調至385美元。"
-    },
-    {
-      "id": "4900265",
-      "time": "2026-05-26 18:11:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國國防部同意SpaceX上調星鏈服務使用費。"
-    },
-    {
-      "id": "te:economy:553748",
-      "time": "2026-05-26 18:11:04",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United Kingdom",
-        "Cbi Distributive Trades",
-        "Importance 2"
-      ],
-      "text": "UK Retail Downturn Eases in May — The CBI retail sales balance improved to -46 in May 2026 from -68 in April, beating market expectations of -60, with retailers expecting a further moderation to -36 next month. Sales remained below seasonal norms and demand stayed weak, while retail sentiment remained negative for a second straight year despite a slower deterioration than in previous quarters. Retail selling price inflation eased to its slowest pace since February 2025, with the balance falling to 28 from 41. Retailers also signalled further cuts to investment and hiring plans, with capital expenditure expectations falling to their weakest level since February 2025. Employment in the sector continued to decline, although at a slower pace. CBI economist Charlotte Dendy said the slowdown in price growth highlights weak consumer demand and warned that firms continue to face pressure from high operating costs, while calling for business rates reform, lower energy costs and reduced regulatory burdens to support the sector."
-    },
-    {
-      "id": "4900264",
-      "time": "2026-05-26 18:10:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "【航天電子：唐水源、胡文華、徐持被提名為獨立董事候選人】航天電子公告稱，公司董事會提名唐水源、胡文華、徐持為第十四屆董事會獨立董事候選人。三人公開宣告具備獨立董事任職資格，不存在影響獨立性的關係，已透過公司第十三屆董事會提名委員會資格審查，與提名人無利害關係。三人承諾任職期間遵守相關法規和業務規則，確保履職時間和精力，若任職後不符合資格將辭職。"
     }
   ]
 }
