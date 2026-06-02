@@ -1,7 +1,47 @@
 {
-  "updated": "2026-06-03 02:11:37",
-  "count": 18408,
+  "updated": "2026-06-03 02:15:33",
+  "count": 18409,
   "items": [
+    {
+      "id": "mkt:019e898b-2a83-7779-8aad-1c321a3fef05",
+      "time": "2026-06-03 02:14:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Jazeera, citing Lebanese officials, said the U.S. is working to secure a full ceasefire agreement by the end of talks tomorrow."
+    },
+    {
+      "id": "4913569",
+      "time": "2026-06-03 02:14:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "半島電視臺援引黎巴嫩官方訊息：美國正推動在明日本輪談判結束之際達成全面停火協議。"
+    },
+    {
+      "id": "4913568",
+      "time": "2026-06-03 02:12:51",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "據美國交通部資料，5月汽油均價較2025年上漲42.2%。"
+    },
+    {
+      "id": "mkt:019e8989-cef8-7779-8aad-14ecccfe7bff",
+      "time": "2026-06-03 02:12:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "U.S. Department of Transportation data show average gasoline prices in May rose 42.2% year-on-year versus May 2025."
+    },
     {
       "id": "4913567",
       "time": "2026-06-03 02:09:18",
@@ -168657,39 +168697,6 @@
         "國際"
       ],
       "text": "美國國家運輸安全委員會指出存在安全隱患，敦促聯邦航空管理局調整強降雨天氣下的跑道狀況評估方式。"
-    },
-    {
-      "id": "te:markets:553836",
-      "time": "2026-05-27 02:15:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Gasoline Slumps by 6.40% — Top commodity losers are Gasoline (-6.40%), Heating Oil (-4.13%), Brent Crude Oil (-3.73%) and Crude Oil WTI (-2.84%). Gains are led by Germany Natural Gas THE (4.65%), Natural Gas EU (3.41%) and Natural gas (0.85%)."
-    },
-    {
-      "id": "mkt:019e657d-2278-7332-8105-651caf90a899",
-      "time": "2026-05-27 02:12:40",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "NETANYAHU: Israel Strikes New Hamas Armed Faction Chief In Gaza"
-    },
-    {
-      "id": "4900927",
-      "time": "2026-05-27 02:11:49",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "內塔尼亞胡：以色列對加沙地帶哈馬斯新任武裝分支負責人實施了打擊。"
     }
   ]
 }
