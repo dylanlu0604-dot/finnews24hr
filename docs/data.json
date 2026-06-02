@@ -1,7 +1,70 @@
 {
-  "updated": "2026-06-03 01:51:54",
-  "count": 18399,
+  "updated": "2026-06-03 01:55:50",
+  "count": 18405,
   "items": [
+    {
+      "id": "mkt:019e8979-c53f-7779-8aac-ee94edcf37a0",
+      "time": "2026-06-03 01:55:19",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "U.S. investment-grade bond issuance exceeded $1 trillion in 2026."
+    },
+    {
+      "id": "mkt:019e8978-cbcb-7779-8aac-e769656cd71c",
+      "time": "2026-06-03 01:54:15",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O"
+      ],
+      "text": "Microsoft (MSFT.O) launches new GitHub Copilot coding app."
+    },
+    {
+      "id": "4913558",
+      "time": "2026-06-03 01:53:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "2026年美國投資級債券發行規模將超過1萬億美元。"
+    },
+    {
+      "id": "4913557",
+      "time": "2026-06-03 01:52:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟推出全新GitHub Copilot程式設計應用。"
+    },
+    {
+      "id": "mkt:019e8977-72a4-7779-8aac-d922607e6339",
+      "time": "2026-06-03 01:52:47",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "U.S. President Trump said he accepted an invitation to the White House Correspondents' Dinner."
+    },
+    {
+      "id": "4913556",
+      "time": "2026-06-03 01:52:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：已接受白宮記者協會晚宴邀請。"
+    },
+    {
+      "id": "mkt:019e8977-41a7-7779-8aac-d2a98db5c9d5",
+      "time": "2026-06-03 01:52:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump announced the White House Correspondents' Dinner, originally scheduled for April 25 and interrupted by an incident, will be rescheduled for July 24."
+    },
     {
       "id": "mkt:019e8976-2f24-7779-8aac-cbe8a7ed364b",
       "time": "2026-06-03 01:51:24",
@@ -10,6 +73,14 @@
         "Important"
       ],
       "text": "【Canada formally proposes renewing United States–Mexico–Canada Agreement】Canada has formally proposed renewing the United States–Mexico–Canada Agreement (USMCA) for 16 years to avoid triggering the pact’s statutory annual review. In a letter to U.S. Trade Representative Jamison Greer and Mexico’s economy minister Marcelo Ebrard, Minister Dominic LeBlanc said parties may propose improvements to boost North American competitiveness, that Canada expects ongoing engagement with the U.S. and Mexico, and that parallel talks with the U.S. to resolve industry tariff issues are critical."
+    },
+    {
+      "id": "4913555",
+      "time": "2026-06-03 01:51:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：將出席記者協會晚宴。"
     },
     {
       "id": "4913554",
@@ -168587,23 +168658,6 @@
         "觀點"
       ],
       "text": "訊息人士：軟銀聘請高盛、摩根大通、瑞穗證券和摩根士丹利，擔任機器人企業 ROZE 的 IPO 承銷商。"
-    },
-    {
-      "id": "4900918",
-      "time": "2026-05-27 01:55:01",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "沃爾沃汽車在美國獲得特殊授權，可以繼續在美國推進其發展計劃。"
-    },
-    {
-      "id": "4900917",
-      "time": "2026-05-27 01:53:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "馬斯克：無人機製造商錯誤地利用了星鏈。"
     }
   ]
 }
