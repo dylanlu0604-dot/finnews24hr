@@ -1,7 +1,73 @@
 {
-  "updated": "2026-06-02 13:45:55",
-  "count": 17396,
+  "updated": "2026-06-02 13:49:45",
+  "count": 17398,
   "items": [
+    {
+      "id": "mkt:019e86e0-fe0d-7dd4-a7a8-5a69864e51ec",
+      "time": "2026-06-02 13:49:12",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Ukraine's Air Force spokesman said Russia fired eight Zircon hypersonic missiles in a nighttime strike on Ukraine, possibly the largest number launched during the Russia-Ukraine conflict."
+    },
+    {
+      "id": "4911957",
+      "time": "2026-06-02 13:48:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭空軍發言人表示，俄羅斯在夜間對烏克蘭的襲擊中發射了8枚鋯石高超音速導彈，這可能是開戰以來該型號導彈發射數量最多的一次。"
+    },
+    {
+      "id": "mkt:019e86e0-37a8-7dd4-a7a8-54797f67a142",
+      "time": "2026-06-02 13:48:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Ministries launch \"Guopin Action\" national recruitment drive】Eight ministries, including the Ministry of Education, the Ministry of Human Resources and Social Security and the State-owned Assets Supervision and Administration Commission, issued a joint notice launching the Guopin Action from May through December to accelerate employment for 2026 university graduates and 2024–2025 graduates who left school without jobs. The campaign targets expanded hiring in sectors with strong employment pull and rapid job growth—notably manufacturing and services—by developing roles that match graduates’ skills. Authorities will encourage quality firms and SOEs to run Guopin Action city‑industry recruitment events tied to the 15th Five‑Year Plan and local industrial development to boost employer participation in hiring."
+    },
+    {
+      "id": "4911956",
+      "time": "2026-06-02 13:47:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華貴人壽總經理羅振華辭任】華貴人壽保險股份有限公司（以下簡稱“華貴人壽”）日前公告，羅振華因年齡原因辭去公司總經理職務，經董事會決議，自2026年5月15日起不再聘任羅振華為公司總經理。值得一提的是，不久前，華貴人壽董事長劉剛也已離任。"
+    },
+    {
+      "id": "4911955",
+      "time": "2026-06-02 13:47:01",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【教育部等八部門聯合開展“國聘行動”】記者6月2日從教育部獲悉，教育部、人社部、國務院國資委等八部門日前印發通知，於5月至12月聯合開展“國聘行動”，全力促進2026屆高校畢業生和2024、2025屆離校未就業畢業生等重點群體儘早就業。據介紹，為深入挖潛拓展就業崗位，聚焦就業帶動能力強、崗位規模增長較快的製造業、服務業等重點產業領域，開發更多有利於發揮畢業生所學所長的就業崗位。鼓勵結合“十五五”規劃和城市產業發展，組織優質企業開展以“國聘行動+城市產業專場”為主題的招聘活動，帶動更多用人主體參與促就業。（新華社）"
+    },
+    {
+      "id": "4911954",
+      "time": "2026-06-02 13:45:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏稱遭俄73枚導彈656架無人機襲擊】當地時間今天（6月2日）凌晨，包括首都基輔在內，烏克蘭全境大部分地區都響起了空襲警報，基輔接連傳出劇烈爆炸聲。烏克蘭空軍稱，俄軍共發射73枚導彈和656架無人機襲擊基輔等地。烏克蘭方面稱，截至目前，俄軍的大規模空襲造成基輔、第聶伯羅和哈爾科夫至少10人死亡、約100人受傷。俄羅斯國防部也證實對烏克蘭境內目標發動大規模打擊。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:019e86dd-f500-7dd4-a7a8-49cb8a33fd06",
+      "time": "2026-06-02 13:45:53",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Ukraine says Russia launched 73 missiles, 656 drones】Air-raid sirens sounded across much of Ukraine, including Kyiv, in the early hours of June 2 amid repeated explosions. Ukraine’s air force said Russia launched 73 missiles and 656 drones against Kyiv and other areas. Ukraine reported at least 10 dead and about 100 wounded in Kyiv, Dnipro and Kharkiv so far. The Russian Defence Ministry confirmed large-scale strikes on targets inside Ukraine."
+    },
     {
       "id": "4911953",
       "time": "2026-06-02 13:44:42",
@@ -159111,48 +159177,6 @@
         "焦點"
       ],
       "text": "矽鐵連續主力合約日內跌3%，現報5834.00元。"
-    },
-    {
-      "id": "4899686",
-      "time": "2026-05-26 13:48:56",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【玻璃基板概念持續活躍 京東方A4天3板】午後玻璃基板概念持續活躍，京東方A走出4天3板，成交超224億，此前紅星發展、沃格光電漲停，雷曼光電漲超10%，華映科技、TCL科技、安彩高科、彩虹股份跟漲。"
-    },
-    {
-      "id": "4899685",
-      "time": "2026-05-26 13:48:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "【潤達醫療等成立新公司，含多項AI業務】企查查APP顯示，近日，合肥問道整合醫學科技有限公司成立，經營範圍包含：人工智慧公共服務平臺技術諮詢服務；人工智慧雙創服務平臺；人工智慧公共資料平臺；軟體開發；人工智慧應用軟體開發等。企查查股權穿透顯示，該公司由潤達醫療等共同持股。"
-    },
-    {
-      "id": "4899684",
-      "time": "2026-05-26 13:47:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "【和正醫藥pan-RAS抑制劑HZ-V055膠囊開展治療RAS突變的晚期實體瘤的I期臨床試驗申請獲受理】5月26日，杭州和正醫藥有限公司宣佈，其開發的1類創新藥pan-RAS抑制劑HZ-V055膠囊開展治療RAS突變的晚期實體瘤的I期臨床試驗申請，已獲得藥品審評中心（CDE）受理。該申請是國家藥監局全面實施品電子通用技術文件（eCTD）申報以來，公司首個以eCTD形式提交的註冊申請。"
-    },
-    {
-      "id": "4899683",
-      "time": "2026-05-26 13:47:00",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "維勒魯瓦：歐洲央行將毫不猶豫地採取行動壓低通脹。"
-    },
-    {
-      "id": "4899682",
-      "time": "2026-05-26 13:46:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度證券交易委員會主席：探索債務證券代幣化試點專案。"
     }
   ]
 }
