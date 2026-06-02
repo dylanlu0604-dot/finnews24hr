@@ -1,7 +1,118 @@
 {
-  "updated": "2026-06-03 02:19:28",
-  "count": 18411,
+  "updated": "2026-06-03 02:23:22",
+  "count": 18416,
   "items": [
+    {
+      "id": "4913579",
+      "time": "2026-06-03 02:22:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：近期簽署針對金融機構欺詐問題的行政令。"
+    },
+    {
+      "id": "mkt:019e8992-61c6-7779-8aad-39775b12153c",
+      "time": "2026-06-03 02:22:12",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【HEZBOLLAH rejects partial ceasefire with Israel; exchanges continue】A senior HEZBOLLAH official said on Feb 2 the group will not accept any partial ceasefire with Israel, rejecting proposals to trade an Israeli halt to strikes on Beirut’s southern suburbs for HEZBOLLAH stopping attacks on northern Israeli settlements. He said HEZBOLLAH only accepts a comprehensive, complete and genuine ceasefire, not a return to the pre-conflict status. Lebanon’s state news agency reported Israeli airstrikes on Feb 2 hit multiple sites in southern Lebanon including Dweir and Nabatieh, killing at least 12 and wounding four, including Lebanese army personnel. HEZBOLLAH said its fighters launched a series of attacks on Israeli forces in southern Lebanon in the early hours of Feb 2."
+    },
+    {
+      "id": "4913578",
+      "time": "2026-06-03 02:22:01",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "谷歌：將更新美國預測市場政策，禁止在俄亥俄州投放預測市場合約及相關產品廣告。"
+    },
+    {
+      "id": "4913577",
+      "time": "2026-06-03 02:21:53",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "谷歌：自2026年6月2日起，預測市場及相關產品的廣告推廣在俄亥俄州被禁止。"
+    },
+    {
+      "id": "4913576",
+      "time": "2026-06-03 02:21:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "【辛鮑姆：墨美摩擦系極右翼勢力搞事】墨西哥總統辛鮑姆1日表示，她不認為美國總統特朗普在主導近期美政府針對墨方的政治“攻勢”，當前雙邊關係緊張應歸咎於兩國各自的極右翼勢力。 (新華社)"
+    },
+    {
+      "id": "4913575",
+      "time": "2026-06-03 02:21:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【真主黨不接受與以色列“部分停火” 雙方繼續互襲】黎巴嫩真主黨高階官員馬哈茂德·庫馬提2日接受媒體採訪時表示，真主黨不同意與以色列達成任何“部分停火”協議。庫馬提表示，真主黨及其盟友不會接受“用以軍停止襲擊貝魯特南郊換取真主黨停止打擊以色列北部居民點”的方案。他強調，真主黨只接受全面、完整且真正的停火，而不是僅僅回到本輪衝突爆發之前的局面，“我們不會同意任何部分停火協議”。據黎巴嫩國家通訊社2日報道，以色列軍隊當天仍持續對杜韋爾、奈拜提耶等黎南部多地發動空襲，造成至少12人死亡、4人受傷，死傷者包括黎政府軍人員。真主黨當天說，其武裝人員於2日凌晨對黎南部的以色列軍隊發動一系列襲擊。"
+    },
+    {
+      "id": "4913574",
+      "time": "2026-06-03 02:20:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "微軟執行長推出可長期自主執行、名為Autopilots的自主智慧體產品。"
+    },
+    {
+      "id": "mkt:019e8991-0167-7779-8aad-314b5f76a640",
+      "time": "2026-06-03 02:20:41",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O",
+        "Impact bullish"
+      ],
+      "text": "Microsoft (MSFT.O) unveiled a new quantum chip and said it aims to deliver a practical quantum computer by 2029."
+    },
+    {
+      "id": "4913573",
+      "time": "2026-06-03 02:20:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟表示，內測版中的一款產品案例是名為Microsoft Scout的全天候職場智慧個人助理。"
+    },
+    {
+      "id": "te:markets:555845",
+      "time": "2026-06-03 02:20:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Lithium Carbonate Falls by 1.82% — Top commodity losers are Lithium Carbonate (-1.82%) and Silicon (-0.52%). Gains are led by Copper (1.62%), Iron Ore CNY (0.70%) and Platinum (0.58%). Meanwhile Gold was little changed."
+    },
+    {
+      "id": "mkt:019e8990-03ba-7779-8aad-2cedd959711e",
+      "time": "2026-06-03 02:19:37",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O"
+      ],
+      "text": "Microsoft (MSFT.O) CEO launched Autopilots, long-running autonomous agents."
+    },
     {
       "id": "4913572",
       "time": "2026-06-03 02:18:41",
@@ -168664,62 +168775,6 @@
         "Importance 1"
       ],
       "text": "Agricultural Commodities Updates: Cocoa Rallies by 9.38% — Top commodity gainers are Cocoa (9.38%), Canola (1.96%) and Rapeseed (1.84%). Biggest losers are Wheat (-1.70%), Corn (-1.23%) and Sugar (-1.16%)."
-    },
-    {
-      "id": "mkt:019e6586-6f42-7332-8105-7a86a60961d4",
-      "time": "2026-05-27 02:22:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Mexico Stocks Rise >1%"
-    },
-    {
-      "id": "mkt:019e6586-62f7-7332-8105-75183e29b9aa",
-      "time": "2026-05-27 02:22:46",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "TASNIM NEWS: IRGC Navy Says 25 Tankers, Container & Commercial Vessels Transited Strait Of Hormuz With Iranian Permission In Past 24 Hours"
-    },
-    {
-      "id": "4900933",
-      "time": "2026-05-27 02:22:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "墨西哥主要股指漲幅超1%。"
-    },
-    {
-      "id": "4900932",
-      "time": "2026-05-27 02:21:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗最近一天允許25艘船隻透過霍爾木茲海峽。（伊朗媒體Tasnim）"
-    },
-    {
-      "id": "4900931",
-      "time": "2026-05-27 02:20:55",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "美光股價漲幅擴大至超 20%，創 2011 年以來最大漲幅。"
-    },
-    {
-      "id": "te:markets:553837",
-      "time": "2026-05-27 02:20:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Silver Falls by 2.61% — Top commodity losers are Silver (-2.61%), Lithium Carbonate (-1.77%) and Gold (-1.74%)."
     }
   ]
 }
