@@ -1,7 +1,205 @@
 {
-  "updated": "2026-06-02 20:57:12",
-  "count": 17961,
+  "updated": "2026-06-02 21:01:55",
+  "count": 17967,
   "items": [
+    {
+      "id": "mkt:8cbcca2b-2a8c-45e2-8163-4d4be69d55f2",
+      "time": "2026-06-02 21:00:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's Ministry of Industry said it will raise crude oil imports from Canada to 20 million barrels per year."
+    },
+    {
+      "id": "mkt:019e886b-d4f3-7448-98be-af47ced348d6",
+      "time": "2026-06-02 21:00:27",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Night session open: most-active domestic futures contracts mostly higher. Shanghai tin up about 2%; Shanghai silver and rubber (20) up over 1%; Shanghai aluminum, LME copper and Shanghai zinc up around 1%. Decliners included SC crude, fuel oil and bitumen, down more than 1%; low-sulfur fuel oil (LU) and PVC down roughly 1%."
+    },
+    {
+      "id": "mkt:019e886b-d3ba-7448-98be-a53a922876f5",
+      "time": "2026-06-02 21:00:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fed official Hammack said businesses have shown strong resilience amid numerous changes."
+    },
+    {
+      "id": "4913024",
+      "time": "2026-06-02 21:00:20",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "比特幣跌破69000美元，日內跌3.39%。"
+    },
+    {
+      "id": "mkt:019e886b-b86f-7448-98be-9fef17aa7552",
+      "time": "2026-06-02 21:00:18",
+      "tags": [
+        "MKT News",
+        "GS.O",
+        "Impact bullish",
+        "MS.O"
+      ],
+      "text": "【SpaceX seeks underwriting fee below 0.75% for planned $75 billion IPO】SpaceX is negotiating with banks to underwrite a planned $75 billion IPO, seeking an underwriting fee below 0.75%. Even at that rate banks could still earn roughly $500 million from record first-day aftermarket trading. Co-leads Goldman Sachs and Morgan Stanley are set to take larger shares of the fee pool. The cited figures are base fees and exclude discretionary incentive payments. For context, banks typically charge 4–7% on IPOs (average deal size under $1 billion); fees fall materially on very large deals but usually remain above 1%."
+    },
+    {
+      "id": "4913023",
+      "time": "2026-06-02 21:00:14",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲哈馬克：多家企業在諸多變動中一直保持極強韌性。"
+    },
+    {
+      "id": "mkt:019e886b-a8c0-7448-98be-93cf01328e39",
+      "time": "2026-06-02 21:00:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fed's Hammack said he has heard both positive and negative cases regarding tariffs."
+    },
+    {
+      "id": "4913022",
+      "time": "2026-06-02 21:00:03",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲哈馬克：聽聞有關關稅的觀點存在正反兩面。"
+    },
+    {
+      "id": "4913021",
+      "time": "2026-06-02 21:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國內期貨夜盤開盤】集運指數歐線期貨連續跌4.88%，碳酸鋰連續跌3.91%，鈀連續漲2.43%，尿素連續跌2.34%，鉑連續漲2.21%。"
+    },
+    {
+      "id": "mkt:019e886b-6ce6-7448-98be-8de6e5fb6454",
+      "time": "2026-06-02 21:00:01",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "US Republican Senator Graham said any agreement with Iran must punish future support for its proxies."
+    },
+    {
+      "id": "mkt:019e886b-2bc2-7448-98be-84f0166e2e3a",
+      "time": "2026-06-02 20:59:40",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "U.S. Trade Representative Greer said the USTR will publish reports on additional Section 301 investigations in the coming weeks and said the U.S. faces a large trade deficit that requires substantial tariffs to correct."
+    },
+    {
+      "id": "4913020",
+      "time": "2026-06-02 20:59:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議員格雷厄姆：任何伊朗核協議都必須懲罰未來對代理人的支援。"
+    },
+    {
+      "id": "4913019",
+      "time": "2026-06-02 20:59:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表格里爾：我國存在鉅額貿易逆差，我們需要徵收高額關稅來糾正這一問題。"
+    },
+    {
+      "id": "4913018",
+      "time": "2026-06-02 20:59:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表格里爾：我們將在未來幾周釋出其他301條款調查的相關報告。"
+    },
+    {
+      "id": "4913017",
+      "time": "2026-06-02 20:59:01",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【興業銀行：6月8日起，積存金活期產品將支援掛單購買、掛單贖回交易功能】興業銀行釋出公告，計劃調整積存金產品業務功能，並更新部分業務協議條款。自2026年6月8日起，積存金活期產品將支援掛單購買、掛單贖回交易功能。因黃金市場不斷變化，掛單訂單建立及成交需要一定時間，滿足掛單條件，不代表承諾交易成功。"
+    },
+    {
+      "id": "mkt:019e886a-7e40-7448-98be-7fc494cf0cef",
+      "time": "2026-06-02 20:58:59",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Vito Energy Group's Bahrain head said this year the legal definitions of force majeure and delivered-price (CIF) contracts have been pushed to the limit."
+    },
+    {
+      "id": "4913016",
+      "time": "2026-06-02 20:58:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "伯恩斯坦將慧與科技目標價從35美元上調至62美元。"
+    },
+    {
+      "id": "mkt:019e8869-a49a-7448-98be-7461bfddd304",
+      "time": "2026-06-02 20:58:05",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bullish",
+        "S&P500",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Fed's Hammack said he has not yet seen signs of rising inflation expectations."
+    },
+    {
+      "id": "4913015",
+      "time": "2026-06-02 20:57:48",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲哈馬克：目前尚未發現通脹預期上升的跡象。"
+    },
+    {
+      "id": "mkt:019e8869-6ae1-7448-98be-6ab15c8583ba",
+      "time": "2026-06-02 20:57:48",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "U.S. Trade Representative Greer said exports have performed very well under the tariff policy and manufacturing is showing early signs of recovery."
+    },
+    {
+      "id": "4913014",
+      "time": "2026-06-02 20:57:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表格里爾：關稅措施已帶來出口佳績，製造業顯現“萌芽復甦跡象” 。"
+    },
     {
       "id": "4913013",
       "time": "2026-06-02 20:56:24",
@@ -164446,144 +164644,6 @@
         "其他"
       ],
       "text": "匈牙利央行：將以謹慎且依託資料的方式決定基準利率水平。"
-    },
-    {
-      "id": "em:jjsj_mgsj:202605263749921073",
-      "time": "2026-05-26 21:01:42",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "【美國3月FHFA房價指數同比增長1.7% 前值1.7%】美國3月FHFA房價指數同比增長1.7%，前值1.7%。"
-    },
-    {
-      "id": "4900632",
-      "time": "2026-05-26 21:01:34",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "匈牙利央行：承諾以可持續方式實現通脹目標。"
-    },
-    {
-      "id": "4900631",
-      "time": "2026-05-26 21:00:54",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行稱外匯儲備增加15億歐元，至3423億歐元。"
-    },
-    {
-      "id": "em:jjsj_mgsj:202605263749921768",
-      "time": "2026-05-26 21:00:21",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "【美國3月S&P/CS20座大城市未季調房價指數年率0.8% 預期1%】美國3月S&P/CS20座大城市未季調房價指數年率0.8%，預期1%，前值0.90%。"
-    },
-    {
-      "id": "4900630",
-      "time": "2026-05-26 21:00:20",
-      "tags": [
-        "資料",
-        "國際"
-      ],
-      "text": "美國3月S&P/CS20座大城市未季調房價指數年率 0.8%，預期1%，前值0.90%。\n美國3月S&P/CS20座大城市未季調房價指數月率 1%，前值0.4%。\n美國3月S&P/CS20座大城市季調後房價指數月率 -0.2%，預期0.1%，前值-0.05%。"
-    },
-    {
-      "id": "4900629",
-      "time": "2026-05-26 21:00:11",
-      "tags": [
-        "資料",
-        "國際"
-      ],
-      "text": "美國3月FHFA房價指數月率 0.1%，前值由0.00%修正為-0.1%。\n美國3月FHFA房價指數 441.5，前值由441.4修正為441.2。\n美國3月FHFA房價指數年率 1.7%，前值1.7%。"
-    },
-    {
-      "id": "4900628",
-      "time": "2026-05-26 21:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國內期貨夜盤開盤】碳酸鋰連續跌4.00%，紅棗連續漲2.94%，矽鐵連續跌2.73%，生豬連續跌2.53%，焦炭連續跌2.45%。"
-    },
-    {
-      "id": "mkt:019e645f-47b4-7ff6-adff-c07756afdb5d",
-      "time": "2026-05-26 21:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | S&P/Case Shiller 20-City Home Price Index SA (MoM) (Mar) | actual -0.2% | consensus 0.1% | previous -0.05%"
-    },
-    {
-      "id": "mkt:019e645f-44ce-7ff6-adff-b1087af5796e",
-      "time": "2026-05-26 21:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | S&P/Case Shiller 20-City Home Price Index NSA (MoM) (Mar) | actual 1% | previous 0.4%"
-    },
-    {
-      "id": "mkt:019e645f-53a8-7ff6-adff-cc032028a76f",
-      "time": "2026-05-26 21:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | S&P/Case Shiller 20-City Home Price Index (YoY) (Mar) | actual 0.8% | consensus 1% | previous 0.90%"
-    },
-    {
-      "id": "mkt:019e645f-410e-7ff6-adff-acc17eed283d",
-      "time": "2026-05-26 21:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | FHFA House Price Index (YoY) (Mar) | actual 1.7% | previous 1.7%"
-    },
-    {
-      "id": "mkt:019e645e-e279-7ff6-adff-a647ee4df671",
-      "time": "2026-05-26 21:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | FHFA House Price Index (Mar) | actual 441.5 | previous 441.4"
-    },
-    {
-      "id": "mkt:019e645e-e274-7ff6-adff-9f3069b0cb85",
-      "time": "2026-05-26 21:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | FHFA House Price Index (MoM) (Mar) | actual 0.1% | previous 0.00%"
-    },
-    {
-      "id": "4900627",
-      "time": "2026-05-26 20:59:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【電氣風電與華能江蘇簽署風機採購合同】5月26日，電氣風電與華能江蘇能源開發有限公司（簡稱“華能江蘇”）在上海簽署華能啟東H4#海上風電場專案風力發電機組及附屬裝置採購合同。雙方將在江蘇海上風電、深遠海資源開發以及風電後市場運維等方面開展合作。"
-    },
-    {
-      "id": "4900625",
-      "time": "2026-05-26 20:57:46",
-      "tags": [
-        "市場"
-      ],
-      "text": "【可可期貨價格飆升 基金加大空頭回補】紐約和倫敦可可期貨大幅上漲，市場越發擔心潛在的厄爾尼諾氣候現象可能威脅西非可可作物產量之際，投機客繼續進行空頭回補。紐約最活躍合約一度上漲9.5%，至每噸4,157美元，創5月11日以來最大盤中漲幅；倫敦期貨漲幅接近9%。"
     }
   ]
 }
