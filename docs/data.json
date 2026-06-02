@@ -1,7 +1,138 @@
 {
-  "updated": "2026-06-03 00:07:50",
-  "count": 18250,
+  "updated": "2026-06-03 00:11:47",
+  "count": 18262,
   "items": [
+    {
+      "id": "te:markets:555832",
+      "time": "2026-06-03 00:11:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 0.48% Higher — The DAX Index went up by 121 points or 0.48 percent on Tuesday to close at 25124 points. The rise was led by Infineon (9.98%), Scout24 (5.24%) and Continental (3.03%). On the downside, the weakerst performers were SAP (-3.65%), Bayer (-2.93%) and Deutsche Boerse (-2.38%)."
+    },
+    {
+      "id": "4913428",
+      "time": "2026-06-03 00:10:58",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "高盛CEO所羅門：希望聽取紐約市長馬姆達尼進一步闡述相關業務情況。"
+    },
+    {
+      "id": "4913427",
+      "time": "2026-06-03 00:10:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "riot平臺股價下跌0.7%，馬拉松控股股價下跌0.9%。"
+    },
+    {
+      "id": "te:markets:555831",
+      "time": "2026-06-03 00:10:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 0.77% Higher — The CAC 40 Index rose 63 points or 0.77 percent on Tuesday to close at 8209 points. Leading the gains are STMicroelectronics (15.93%), Danone (4.37%) and Schneider Electric (4.13%). Top losers were Capgemini (-7.61%), Dassault Systemes (-4.10%) and Carrefour (-2.75%)."
+    },
+    {
+      "id": "4913426",
+      "time": "2026-06-03 00:10:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "Coinbase Global股價下跌4.8%，Strategy股價下跌8.6%。"
+    },
+    {
+      "id": "4913425",
+      "time": "2026-06-03 00:09:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "景順PROSHARES比特幣策略交易所交易基金下跌5.7%，貝萊德安碩比特幣信託下跌5.7%。"
+    },
+    {
+      "id": "4913424",
+      "time": "2026-06-03 00:09:52",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "加密貨幣個股下跌，比特幣跌至兩個月低位。"
+    },
+    {
+      "id": "4913423",
+      "time": "2026-06-03 00:09:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：委內瑞拉的石油收益不再遭侵佔，資金現已直接用於撥付公職人員薪酬、採購醫療裝置，相關賬目同步接受審計，這是一項重大進展。"
+    },
+    {
+      "id": "mkt:019e8917-ecd3-7ff0-aaad-eea0b180e8e2",
+      "time": "2026-06-03 00:08:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil's vice president said the government will seek dialogue to prevent a proposed U.S. tariff it deems unfair from taking effect."
+    },
+    {
+      "id": "mkt:019e8917-94ae-7ff0-aaad-e620196f732d",
+      "time": "2026-06-03 00:08:02",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI said role-specific plugins are being gradually rolled out on the Codex coding platform in supported regions."
+    },
+    {
+      "id": "4913422",
+      "time": "2026-06-03 00:07:49",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "高盛：美國柴油庫存降至2003年以來最低，8月恐面臨供應危機。"
+    },
+    {
+      "id": "4913421",
+      "time": "2026-06-03 00:07:31",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【特朗普據悉繼續獲得稅務審計豁免 但18億美元基金計劃面臨變數】據知情人士透露，美國官員正繼續執行禁止政府對總統唐納德·特朗普及其企業的過往稅務申報進行調查的協議，而設立“反武器化基金”的計劃已被擱置。彭博新聞社此前報道稱，特朗普政府週一私下表示，將暫停推進這項規模18億美元的基金。該基金原計劃用於補償所謂遭政府“武器化”對待的受害者。因討論未公開訊息而要求匿名的知情人士稱，協議的另一部分要求不得推進在和解前對特朗普、其家族成員及其公司啟動的任何審計和稅務相關調查，這部分不受擱置該基金的的決定影響。"
+    },
+    {
+      "id": "mkt:019e8916-fb55-7ff0-aaad-dc4a3b81181e",
+      "time": "2026-06-03 00:07:25",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "WIX.O",
+        "Impact bullish"
+      ],
+      "text": "OpenAI said it is working with partners including Wix, Base44, Replit, Lovable, Figma, Webflow and Emergent to build a website partner ecosystem."
+    },
+    {
+      "id": "4913420",
+      "time": "2026-06-03 00:07:13",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "白宮記者協會將於7月24日在華盛頓再度舉辦晚宴。"
+    },
     {
       "id": "te:markets:555830",
       "time": "2026-06-03 00:07:09",
@@ -167190,30 +167321,6 @@
         "Importance 1"
       ],
       "text": "The FTSE MIB Index Closes 0.64% Lower — The FTSE MIB Index fell 321 points or 0.64 percent on Tuesday to close at 49899 points. Leading the losses are Ferrari NV (-7.71%), Brunello Cucinelli (-2.93%) and Nexi (-2.19%). Top gainers were STMicroelectronics (3.19%), Avio (2.71%) and Leonardo SpA (1.54%)."
-    },
-    {
-      "id": "te:markets:553830",
-      "time": "2026-05-27 00:11:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The DAX Index Closes 0.80% Lower — The DAX Index dropped 204 points or 0.80 percent on Tuesday to close at 25185 points. Losses were led by MTU Aero Engines AG (-3.15%), Deutsche Bank (-2.22%) and Scout24 (-2.14%). Offsetting the fall, top gainers were Zalando (3.25%), E.ON (0.76%) and Infineon (0.61%)."
-    },
-    {
-      "id": "te:markets:553829",
-      "time": "2026-05-27 00:10:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The CAC 40 Index Closes 1.03% Lower — The CAC 40 Index decreased 85 points or 1.03 percent on Tuesday to close at 8173 points. The decline was led by Carrefour (-6.05%), Credit Agricole (-6.05%) and TP (-4.96%)."
     }
   ]
 }
