@@ -1,7 +1,142 @@
 {
-  "updated": "2026-06-02 09:41:26",
-  "count": 17227,
+  "updated": "2026-06-02 09:45:22",
+  "count": 17230,
   "items": [
+    {
+      "id": "4911641",
+      "time": "2026-06-02 09:44:38",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【燃油漲價 印度多家航空公司大幅削減航班】由於航空燃油成本上漲和旅行需求疲軟，印度航空公司、靛藍航空公司和印度航空快運公司決定自1日起大幅削減國內航班。此前，這些航空公司已削減部分國際航班。據印度媒體報道，這次航班削減安排預計將持續至8月，屆時正值暑期出行高峰，航班減少可能會進一步推高機票價格並給旅客出行帶來不便。根據計劃，印度航空公司將減少約22%的國內航班，其子公司印度航空快運將減少近10%，靛藍航空則削減約5%至7%，三家公司合計每日減少約250架次航班。往返孟買、新德里、班加羅爾等主要城市的航線預計將受到較大影響。（新華社）"
+    },
+    {
+      "id": "4911640",
+      "time": "2026-06-02 09:43:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達20億港元。"
+    },
+    {
+      "id": "4911639",
+      "time": "2026-06-02 09:43:17",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【足球概念板塊持續下挫，共創草坪觸及跌停】足球概念板塊持續下挫，舒華體育、粵傳媒、共創草坪觸及跌停，金陵體育跌超10%，中體產業、雙象股份、流金科技、金埔園林、綠茵生態跟跌。"
+    },
+    {
+      "id": "mkt:019e85ff-d1c3-7aa2-99e8-8c23502d7d8b",
+      "time": "2026-06-02 09:43:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Zhengzhou opens advance housing provident fund withdrawals for existing-home purchases】Zhengzhou Housing Provident Fund Management Center and the city’s Housing Security and Real Estate Administration said they will allow advance withdrawal of housing provident fund (HPF) to pay for purchases of existing homes in Zhengzhou’s eight urban districts. Eligible Zhengzhou HPF contributors buying stock homes may, after filing the Zhengzhou existing‑home sale contract and if they meet HPF withdrawal conditions, withdraw the buyer’s, spouse’s and co‑owners’ HPF funds to pay the purchase price; withdrawn funds must be transferred into the supervised account specified in the Zhengzhou existing‑home transaction settlement supervision agreement."
+    },
+    {
+      "id": "te:economy:555526",
+      "time": "2026-06-02 09:43:12",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Current Account",
+        "Importance 1"
+      ],
+      "text": "Australia Current Account Gap Exceeds Forecasts — Australia’s current account deficit widened to AUD 27.1 billion in the first quarter of 2026 from an upwardly revised AUD 23.0 billion in the previous quarter, exceeding market expectations of a AUD 23.0 billion shortfall. The goods and services surplus increased to AUD 2.4 billion from AUD 1.1 billion in Q4, while the secondary income deficit widened to AUD 1.0 billion from AUD 0.8 billion. Meanwhile, the primary income deficit increased to AUD 23.7 billion in Q1 2026 from AUD 23.3 billion in the previous quarter."
+    },
+    {
+      "id": "4911638",
+      "time": "2026-06-02 09:42:49",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "雞蛋連續主力合約日內跌2%，現報4760.00元。"
+    },
+    {
+      "id": "4911637",
+      "time": "2026-06-02 09:42:33",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【液冷伺服器概念震盪反彈 阿萊德等多股漲停】早盤液冷伺服器概念震盪反彈，阿萊德20cm漲停，博傑股份、意華股份漲停，科瑞技術、川環科技、鼎通科技、思泉新材等跟漲。"
+    },
+    {
+      "id": "4911636",
+      "time": "2026-06-02 09:42:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "玻璃連續主力合約日內跌1%，現報1044.00元。"
+    },
+    {
+      "id": "4911635",
+      "time": "2026-06-02 09:42:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超5000億元，較上日此時縮量1414億元。"
+    },
+    {
+      "id": "4911634",
+      "time": "2026-06-02 09:42:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨上漲1%。"
+    },
+    {
+      "id": "4911633",
+      "time": "2026-06-02 09:41:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【鄭州開通預提住房公積金支付存量住房購房款業務】鄭州住房公積金管理中心、鄭州市住房保障和房地產管理局釋出通知，開通預提住房公積金支付存量住房購房款業務。擬在鄭州市（市內八區）購買存量住房的鄭州住房公積金繳存職工，符合住房公積金購房提取條件時，可於《鄭州市存量房買賣合同》備案後，提取買受人及其配偶、共有權人的住房公積金，用於支付購房款，提取資金轉入《鄭州市存量房交易結算資金監管協議》載明的監管賬戶。"
+    },
+    {
+      "id": "te:economy:555524",
+      "time": "2026-06-02 09:41:15",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Private House Approvals",
+        "Importance 1"
+      ],
+      "text": "Australia Private House Approvals Fall in April — Private house approvals in Australia fell by 0.1% month-over-month to 10,088 units in April 2026, slipping from a downwardly revised 0.5% rise in the previous month, preliminary estimates showed. The latest reading marked the first month of decline since last November. Regionally, private sector house approvals decreased in New South Wales (-13.8%) and Western Australia (-1.2%), while increasing in South Australia (11.4%), Victoria (2.2%), and Queensland (0.9%). On an annual basis, private house approvals rose by 7% in April, marking the softest growth in five months and slowing from an upwardly revised 12.4% surge in the preceding period."
+    },
+    {
+      "id": "mkt:019e85fd-ddf6-7aa2-99e8-8091cb1c0ca0",
+      "time": "2026-06-02 09:41:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Where to Park Spare Cash: Short-term Money-market Yield Snapshot】Tencent Licaitong (current account, 7-day annualized yield) ranged 0.7570%–1.1520%. WeChat Wallet Lingqiantong 7-day annualized yield ranged 1.0030%–1.440%. Alipay Yu’e Bao 7-day annualized yield ranged 1.0000%–1.1150%."
+    },
+    {
+      "id": "mkt:019e85fd-db40-7aa2-99e8-7f0105f6277c",
+      "time": "2026-06-02 09:41:04",
+      "tags": [
+        "MKT News",
+        "SZSE Component",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "China A-share component sector surged in a short-lived rally; Zhongjing Electronics hit the daily limit. Component makers Junya Technology, Weiergao, Shengyi Electronics, Fenghua High‑Tech and Maijie Technology also rose."
+    },
     {
       "id": "4911632",
       "time": "2026-06-02 09:40:44",
@@ -157253,104 +157388,6 @@
         "焦點"
       ],
       "text": "科創50日內跌幅達3.11%，成分股中，中科飛測跌7.58%，思特威跌6.00%，盛科通訊跌6.02%，中微公司跌5.54%。"
-    },
-    {
-      "id": "4899405",
-      "time": "2026-05-26 09:45:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "北證50日內跌幅達1.03%，成分股中，天力複合跌5.42%，富士達跌4.51%，星圖測控跌3.84%，連城數控跌3.75%。"
-    },
-    {
-      "id": "mkt:019e61f4-d5d5-7001-8a1d-029d00f6bacd",
-      "time": "2026-05-26 09:44:47",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "SPOT GOLD FALLS NEARLY 1% TO $4,526.79/OZ"
-    },
-    {
-      "id": "4899404",
-      "time": "2026-05-26 09:43:11",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【玻璃基板概念逆勢拉昇 紅星發展漲停】早盤玻璃基板概念逆勢拉昇，紅星發展漲停，艾森股份、沃格光電、雷曼光電、凱盛科技、華映科技跟漲。"
-    },
-    {
-      "id": "4899403",
-      "time": "2026-05-26 09:43:00",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀<XAG=>下跌3%，至每盎司75.69美元。"
-    },
-    {
-      "id": "4899402",
-      "time": "2026-05-26 09:42:53",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普全球評級：亞洲汽車製造商面臨需求疲軟與成本上漲壓力。"
-    },
-    {
-      "id": "4899401",
-      "time": "2026-05-26 09:42:43",
-      "tags": [
-        "市場"
-      ],
-      "text": "【新易盛盤中漲超5%】新易盛盤中漲5.01%，現報692.00元。"
-    },
-    {
-      "id": "4899400",
-      "time": "2026-05-26 09:42:40",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點"
-      ],
-      "text": "【證券板塊拉昇 錦龍股份漲停】證券板塊拉昇，錦龍股份漲停，華安證券、中信建投、招商證券、中國銀河、光大證券等漲幅居前。"
-    },
-    {
-      "id": "4899399",
-      "time": "2026-05-26 09:42:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【優優綠能：公司參股投資中瑞宏芯 將圍繞資料中心直流供電等開展合作】優優綠能(301590)近日接受機構調研時表示，公司長期關注碳化矽技術賽道，並積極推進國產碳化矽器件的匯入驗證。隨著公司充電模組從30kW、40kW向60kW、80kW迭代升級，新一代的充電模組核心器件採用全碳化矽方案，同時在電路拓撲和結構佈局等方面完成系統最佳化，有效提升了轉換效率和功率密度，實現產品降本增效。疊加AI算力基礎設施的高速發展，碳化矽器件的應用空間有望進一步拓寬。2026年第一季度，公司參股投資國內碳化矽器件領域的頭部企業蘇州中瑞宏芯半導體有限公司，本次投資旨在強化公司與上游器件廠商的產業協同，雙方將圍繞超大功率充電模組、資料中心直流供電等業務開展深度合作，為相關產品的研發迭代和商業化落地提供技術與供應鏈保障。"
-    },
-    {
-      "id": "4899398",
-      "time": "2026-05-26 09:42:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度國家證券交易所（NSE）可能在6月初向印度證券交易委員會（SEBI）提交首次公開募股（IPO）申請檔案。"
-    },
-    {
-      "id": "4899397",
-      "time": "2026-05-26 09:41:31",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【港股PCB概念股走強建 滔積層板漲近8%】截至發稿，建滔積層板(01888.HK)漲7.63%，勝宏科技(02476.HK)漲5.80%，建滔集團(00148.HK)漲3%。"
-    },
-    {
-      "id": "4899396",
-      "time": "2026-05-26 09:41:26",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨黃金<XAU=>下跌近1%，報每盎司4526.79美元。"
     }
   ]
 }
