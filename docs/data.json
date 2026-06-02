@@ -1,7 +1,124 @@
 {
-  "updated": "2026-06-03 00:03:51",
-  "count": 18241,
+  "updated": "2026-06-03 00:07:50",
+  "count": 18250,
   "items": [
+    {
+      "id": "te:markets:555830",
+      "time": "2026-06-03 00:07:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 0.37% Higher — The FTSE 100 Index gained 39 points or 0.37 percent on Tuesday to close at 10378 points. Gains were led by Antofagasta (6.47%), Easyjet Plc (5.43%) and Glencore (4.40%). Biggest losers were Airtel Africa (-5.21%), The Sage Group (-4.37%) and Endeavour (-4.30%)."
+    },
+    {
+      "id": "mkt:019e8916-96a1-7ff0-aaad-d3f3a4ec8fa9",
+      "time": "2026-06-03 00:06:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources: the White House Correspondents' Association will hold an additional dinner in Washington on July 24."
+    },
+    {
+      "id": "4913419",
+      "time": "2026-06-03 00:06:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "委內瑞拉要求石油企業自行供應生產運營所需電力。"
+    },
+    {
+      "id": "mkt:019e8916-1fe4-7ff0-aaad-cb90e77a3448",
+      "time": "2026-06-03 00:06:28",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "MSFT.O",
+        "Impact bullish"
+      ],
+      "text": "OpenAI opened a preview for commercial and enterprise customers; CODEX now supports building and sharing interactive hosted websites and applications."
+    },
+    {
+      "id": "mkt:019e8914-be76-7ff0-aaad-c37c67c4d1bf",
+      "time": "2026-06-03 00:04:57",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Russia's Energy Ministry is preparing additional measures to secure stable gasoline supplies for the domestic market."
+    },
+    {
+      "id": "mkt:019e8914-7372-7ff0-aaad-b8b01572af49",
+      "time": "2026-06-03 00:04:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "OpenAI to roll out additional domain-specific plugins soon, covering corporate finance, private equity, marketing strategy, strategic consulting and legal services."
+    },
+    {
+      "id": "4913418",
+      "time": "2026-06-03 00:04:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：特定角色外掛已在支援地區的Codex程式碼平臺逐步推出。"
+    },
+    {
+      "id": "4913417",
+      "time": "2026-06-03 00:03:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：在我們打造網站合作伙伴生態系統的過程中，我們還與Wix、Base44、Replit、Lovable、Figma、Webflow以及Emergent等多家合作伙伴展開合作。"
+    },
+    {
+      "id": "4913416",
+      "time": "2026-06-03 00:03:41",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "俄羅斯能源部表示，目前正在制定額外措施，以保障國內市場的汽油供應穩定。"
+    },
+    {
+      "id": "4913415",
+      "time": "2026-06-03 00:03:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "沙烏地阿拉伯、約旦、阿拉伯聯合大公國、卡達、印度尼西亞、巴基斯坦、埃及和土耳其的外交部長強烈譴責“極端以色列定居者”在“以色列軍隊保護下”對阿克薩清真寺建築群的“持續入侵”，以及在其庭院內“升起以色列國旗”。"
+    },
+    {
+      "id": "mkt:019e8913-1a95-7ff0-aaad-b415b3c085f8",
+      "time": "2026-06-03 00:03:10",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI launches role-specific plugins, site features and annotation tools to help teams better leverage CODEX."
+    },
+    {
+      "id": "4913414",
+      "time": "2026-06-03 00:03:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "OpenAI：很快將推出更多細分領域專屬外掛，涵蓋公司金融、私募股權投資、營銷策略、戰略諮詢與法律領域。"
+    },
+    {
+      "id": "4913413",
+      "time": "2026-06-03 00:02:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：目前Codex已面向商業及企業客戶開放預覽，該模型現在可建立並託管互動式網站與應用程式，且支援共享。"
+    },
     {
       "id": "4913412",
       "time": "2026-06-03 00:01:58",
@@ -167097,49 +167214,6 @@
         "Importance 1"
       ],
       "text": "The CAC 40 Index Closes 1.03% Lower — The CAC 40 Index decreased 85 points or 1.03 percent on Tuesday to close at 8173 points. The decline was led by Carrefour (-6.05%), Credit Agricole (-6.05%) and TP (-4.96%)."
-    },
-    {
-      "id": "te:markets:553828",
-      "time": "2026-05-27 00:07:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE 100 Index Closes 0.31% Higher — The FTSE 100 Index rose 32 points or 0.31 percent on Tuesday to close at 10498 points. Leading the gains are International Airlines Group (3.91%), Antofagasta (3.66%) and Burberry (3.29%). Top losers were Melrose (-5.18%), BP (-4.46%) and Auto Trader (-4.18%)."
-    },
-    {
-      "id": "mkt:019e6509-ef8e-7332-8104-b3ba78fec0ab",
-      "time": "2026-05-27 00:06:50",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7",
-        "META.O"
-      ],
-      "text": "Meta Platforms (META.O) Plans 1,395 Layoffs in King County, Washington in Jul 2026"
-    },
-    {
-      "id": "4900876",
-      "time": "2026-05-27 00:06:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "根據裁員預警通知，Meta將於 2026 年 7 月在金縣裁員 1395 人。"
-    },
-    {
-      "id": "4900875",
-      "time": "2026-05-27 00:04:26",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "美國稀土公司上漲3.4%，美國銻業公司上漲3.2%，Critical Metals上漲3.1%，NioCorp上漲5.4%，TMC the metals company上漲3.6%，Alpha Metallurgical Resources上漲8.1%，Warrior Met Coal上漲10.9%。"
     }
   ]
 }
