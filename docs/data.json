@@ -1,7 +1,319 @@
 {
-  "updated": "2026-06-02 23:35:04",
-  "count": 18203,
+  "updated": "2026-06-02 23:46:51",
+  "count": 18222,
   "items": [
+    {
+      "id": "4913383",
+      "time": "2026-06-02 23:45:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "據美國警方通報，艾奧瓦州一座城市多地接連發生槍擊案，案件源於家庭糾紛，共造成六人遇難。"
+    },
+    {
+      "id": "4913382",
+      "time": "2026-06-02 23:44:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "比特幣跌破67000美元關口，過去兩小時加密市場合計爆倉7億美元。"
+    },
+    {
+      "id": "4913381",
+      "time": "2026-06-02 23:44:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿卡邁與英偉達擴大合作，共建AI工廠架構。"
+    },
+    {
+      "id": "4913380",
+      "time": "2026-06-02 23:43:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "萬事達卡管理層人事調整，內部高管Ling Hai出任首席財務官。"
+    },
+    {
+      "id": "te:markets:555828",
+      "time": "2026-06-02 23:43:27",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Rebound to Record Highs — US stocks swing higher to new records on Tuesday as more strength from the AI economy offset the ongoing impasse between the US and Iran. The S&P 500, Nasdaq 100, and Dow pared losses to hover above the flatline. Heavyweight chip producers and companies in the AI infrastructure space were sharply higher to extend the momentum that has carried equity indices this year. Broadcom jumped 5% ahead of its earnings tomorrow, while Lan Research, Qualcomm, and On Semiconductors added over 5% as the higher capacity for wafers by SK Hynix improved the output forecast for the sector. Meanwhile, HPE surged 30% on a AI-fuelled guidance upgrade, and Marvell surged 20% after Nvidia CEO Huang stated it could be the next trillion dollar company. In turn, energy prices remained higher as reports indicated strikes between Israel and Lebanon persisted despite US President's Trump signal of a ceasefire, which Iran claimed was necessary to restart peace talks and open the Strait of Hormuz."
+    },
+    {
+      "id": "mkt:019e8900-e56a-7337-9546-9cdae8bcb92a",
+      "time": "2026-06-02 23:43:17",
+      "tags": [
+        "MKT News",
+        "PANW.O",
+        "Impact bullish",
+        "CRWD.O",
+        "ZS.O"
+      ],
+      "text": "White House orders creation of a cybersecurity information-sharing platform, directing the AI industry and critical infrastructure operators to voluntarily cooperate on software vulnerabilities."
+    },
+    {
+      "id": "mkt:019e8900-7edd-7007-9c8f-3c82d6f01cf4",
+      "time": "2026-06-02 23:42:51",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Nasdaq100",
+        "Impact mixed",
+        "S&P500"
+      ],
+      "text": "White House: Trump has ordered US agencies to develop cybersecurity standards for advanced AI models. US government cybersecurity testing of AI firms will be voluntary."
+    },
+    {
+      "id": "4913379",
+      "time": "2026-06-02 23:42:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮：相關AI行政令擬設立網路安全資訊交換中心，在自願合作原則下聯動AI行業、關鍵基礎設施運營方，統籌彙總軟體漏洞相關資訊。"
+    },
+    {
+      "id": "4913378",
+      "time": "2026-06-02 23:42:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮：美國政府針對人工智慧企業開展的網路安全檢測採取自願參與原則。"
+    },
+    {
+      "id": "4913377",
+      "time": "2026-06-02 23:41:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮：特朗普的行政命令要求美國機構為先進人工智慧模型制定網路安全標準。"
+    },
+    {
+      "id": "mkt:019e88ff-564c-7007-9c8f-34020bea4e65",
+      "time": "2026-06-02 23:41:34",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "White House: executive order on artificial intelligence emphasizes strengthening cyber defenses across federal agencies."
+    },
+    {
+      "id": "4913376",
+      "time": "2026-06-02 23:41:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮：這份關於人工智慧的行政令重點強調在整個政府範圍內強化網路防禦建設。"
+    },
+    {
+      "id": "4913375",
+      "time": "2026-06-02 23:41:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "Bumble即將上線付費多人約會新功能。"
+    },
+    {
+      "id": "4913374",
+      "time": "2026-06-02 23:40:26",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【維多集團警告稱歐美國家仍未意識到石油供應短缺的嚴重性】維多集團中東地區高管表示，許多西方政府仍然沒有意識到霍爾木茲海峽封鎖正在全球引發的石油供應短缺。“我認為在歐洲和美國，人們都還不夠警覺，依然像往常一樣生活，”維多董事會成員Tom Baker在倫敦舉行的標普全球中東石油天然氣會議上表示。隨著原油價格升至接近每桶100美元，汽油、柴油和航空燃油等石油產品的價格和波動性也出現了更大幅度的飆升。這導致許多發展中國家，特別是亞洲和非洲部分地區國家的需求下降。維多預計全球需求減少約400萬桶/日，各國推遲購買原油，寄希望於伊朗戰爭的潛在解決將推動油價下跌。"
+    },
+    {
+      "id": "4913373",
+      "time": "2026-06-02 23:40:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮行政令：美國將在60天內甄選可信的人工智慧合作方。"
+    },
+    {
+      "id": "mkt:019e88fd-f031-7007-9c8f-298841709e2b",
+      "time": "2026-06-02 23:40:03",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "The White House said the U.S. will select trusted AI partners within 60 days."
+    },
+    {
+      "id": "4913372",
+      "time": "2026-06-02 23:39:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國疾病控制與預防中心：美容醫療旅遊20例接診病例報告術後感染；四名患者死亡，均與旅行相關醫美手術有關。"
+    },
+    {
+      "id": "4913371",
+      "time": "2026-06-02 23:39:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【澳門首屆國際網路視聽節開幕 探討文化出海新路徑】澳門首屆國際網路視聽節2日開幕。來自內地、港澳特區以及葡語國家、東南亞國家的政府代表、產業機構和內容創作者，圍繞產業趨勢、內容創新、文化出海、國際合作等議題開展交流，探索網路視聽行業發展新路徑。（央視新聞）"
+    },
+    {
+      "id": "4913370",
+      "time": "2026-06-02 23:38:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮行政令：美國將建立人工智慧涉密基準評測機制。"
+    },
+    {
+      "id": "4913369",
+      "time": "2026-06-02 23:38:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮行政令規定：美國可在前沿人工智慧模型正式釋出前先行調取核驗。"
+    },
+    {
+      "id": "mkt:019e88fc-ba5a-7337-9546-90a486169d31",
+      "time": "2026-06-02 23:38:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "White House: U.S. will have access to AI \"frontier models\" before their release."
+    },
+    {
+      "id": "4913368",
+      "time": "2026-06-02 23:38:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐盟就發債專案後續資金需求向機構發出方案徵詢函】惠譽AAA、穆迪Aaa、Scope AAA、標普AA+評級的歐盟，依據歐盟委員會第2023/1602號決議遴選機構，並已向入選機構傳送需求建議書（RfP），擬在近期落地發債專案的後續融資安排。"
+    },
+    {
+      "id": "mkt:019e88fb-4d9d-7337-9546-8ebea07e94a7",
+      "time": "2026-06-02 23:37:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "European equities closed higher on Tuesday, June 2: Germany DAX +0.57% at 25,137.04; UK FTSE 100 +0.37% at 10,376.72; France CAC 40 +0.77% at 8,209.09; Euro STOXX 50 +1.21% at 6,107.75; Spain IBEX 35 +0.71% at 18,273.54; Italy FTSE MIB +1.62% at 50,580.50."
+    },
+    {
+      "id": "4913367",
+      "time": "2026-06-02 23:36:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮宣佈，特朗普已簽署行政令，旨在推動人工智慧創新並築牢相關安全保障。"
+    },
+    {
+      "id": "mkt:abf36c41-96a1-469a-81c2-ad96db9ec03f",
+      "time": "2026-06-02 23:36:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "White House: President Trump signed an executive order to promote advanced AI innovation and safety."
+    },
+    {
+      "id": "4913366",
+      "time": "2026-06-02 23:36:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "以太坊跌破1900美元，日內跌5.32%。"
+    },
+    {
+      "id": "4913365",
+      "time": "2026-06-02 23:36:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟觀察團表示，經核查確認哥倫比亞大選預選計票結果。"
+    },
+    {
+      "id": "4913364",
+      "time": "2026-06-02 23:35:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮釋出人工智慧行政命令。"
+    },
+    {
+      "id": "4913363",
+      "time": "2026-06-02 23:35:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日英意六代機專案設觀察員以便推銷】據日本共同社6月2日報道，日本、英國和義大利正在討論為其六代機聯合專案“全球作戰空中計劃”建立觀察員機制。三國防長計劃於7月舉行會晤，屆時或將敲定加拿大為首批觀察員。而所謂的觀察員機制，其實就是向戰機的潛在買家共享專案的研發進展和資料，以便向觀察員國家“推銷”戰機。 據此前報道，日英意三國聯合推進的這一專案，目標是在2035年之前推出“擁有高效能感測器、隱形性和網路化作戰的第六代戰機”。去年5月，該計劃公開了戰鬥機的模型，但並未公佈詳細資訊。 （CCTV國際時訊）"
+    },
+    {
+      "id": "4913362",
+      "time": "2026-06-02 23:35:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【巴基斯坦安全部隊在俾路支省打死17名恐怖分子】當地時間6月2日，巴基斯坦三軍新聞局稱，自5月24日巴基斯坦西南部俾路支省一列客運列車遭爆炸襲擊後，巴基斯坦安全部隊在俾路支省展開了系列基於情報的行動。在開展這些行動的過程中，巴方部隊打擊了多處恐怖分子據點。經過交火後，共有17名恐怖分子被打死，從其身上繳獲了武器、彈藥以及大量爆炸物和準備就緒的簡易爆炸裝置。（央視新聞）"
+    },
+    {
+      "id": "4913361",
+      "time": "2026-06-02 23:34:49",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行官員斯萊彭：歐洲央行將採取必要舉措，市場靜待政策落地。"
+    },
+    {
+      "id": "mkt:019e88f9-1ad5-7007-9c8f-218bf4df7cef",
+      "time": "2026-06-02 23:34:46",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB executive board member Sleijpen said the ECB will take necessary measures; markets expect action."
+    },
+    {
+      "id": "mkt:019e88f8-ffcd-7007-9c8f-1ce810d30233",
+      "time": "2026-06-02 23:34:35",
+      "tags": [
+        "MKT News",
+        "HMC.N",
+        "Impact bullish"
+      ],
+      "text": "Honda Motor (HMC.N) U.S. May total sales 148,903 units, up 9.9% YoY."
+    },
+    {
+      "id": "4913360",
+      "time": "2026-06-02 23:34:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國本田5月總銷量148903輛，同比增長9.9%。"
+    },
     {
       "id": "mkt:019e88f8-8f84-7007-9c8f-15e6a4cfa6e7",
       "time": "2026-06-02 23:34:11",
@@ -166673,138 +166985,6 @@
         "Important"
       ],
       "text": "【WSJ CORRECT: CENTCOM Says US Did Not Restart 'Freedom Plan'】CENTCOM: US Did Not Restart 'Freedom Plan'; WSJ CORRECTS Earlier Claim That US Navy Escorted Greek Supertanker Carrying 2mln Barrels Off Oman As Plan Restart"
-    },
-    {
-      "id": "4900864",
-      "time": "2026-05-26 23:46:31",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【報道：美聯儲削弱監管員權力，華爾街幕後施壓期冀鎖定更多成果】華爾街未雨綢繆——銀行家們正積極尋求法律層面的明確性，以防止未來監管政策因政黨輪替而遭到推倒重來。美聯儲計劃對有關“監管意見”（Observations）的官方檔案進行修訂。據訊息人士透露，美聯儲透過公開發布監管操作原則，旨在讓目前的政策調整變得更具永續性和約束力。對此，美國國會山民主黨人發出嚴厲警告，斥責當前的監管倒退正在削弱全球經濟風險期下的金融體系安全防線。"
-    },
-    {
-      "id": "4900863",
-      "time": "2026-05-26 23:46:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "富時英國指數公司擬將Aberdeen、Investec納入富時100指數。"
-    },
-    {
-      "id": "4900862",
-      "time": "2026-05-26 23:45:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "據日經新聞：阿聯酋與伊拉克加緊建設輸油管道，以避開霍爾木茲海峽這一航運瓶頸。"
-    },
-    {
-      "id": "4900861",
-      "time": "2026-05-26 23:44:00",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國華爾街日報更正此前報道，稱美國中央司令部的一位發言人表示，美國並未恢復“自由計劃”，有關該計劃重新啟動的報道是不準確的。"
-    },
-    {
-      "id": "mkt:019e64f4-f048-7332-8104-7f91f138e97f",
-      "time": "2026-05-26 23:43:54",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "WSJ Corrects Earlier Report; CENTCOM Says U.S. Has Not Resumed 'Freedom Plan'"
-    },
-    {
-      "id": "4900860",
-      "time": "2026-05-26 23:43:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "捷克國防部：該國彈藥供應計劃進展順利，今年將向烏克蘭交付 100 萬發大口徑炮彈；若獲得額外資金，交付數量還將進一步增加。"
-    },
-    {
-      "id": "mkt:019e64f4-2ffa-7772-bfd9-2378927436f0",
-      "time": "2026-05-26 23:43:05",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "CENTCOM Says US Forces Rerouted 108 Commercial Vessels As Of May 26 To Ensure Compliance"
-    },
-    {
-      "id": "4900859",
-      "time": "2026-05-26 23:41:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國中央司令部：截至 5 月 26 日，美軍已引導 108 艘商船調整航線，確保相關規定得到遵守。"
-    },
-    {
-      "id": "4900858",
-      "time": "2026-05-26 23:38:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯常駐聯合國代表表示，美方拒絕發放簽證，此舉違反了《聯合國總部協定》中美國應履行的義務。"
-    },
-    {
-      "id": "mkt:019e64f0-1d57-7332-8104-74c63d98ecbc",
-      "time": "2026-05-26 23:38:37",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "DAX",
-        "Impact bearish",
-        "FTSE100",
-        "Impact bullish"
-      ],
-      "text": "Germany DAX30 Down 210.64 pts (-0.83%) To 25,183.29 May 26 Close; UK FTSE 100 Up 26.95 pts (+0.26%) To 10,493.21 May 26 Close; France CAC 40 Down 85.15 pts (-1.03%) To 8,173.11 May 26 Close; STOXX Europe 50 Down 73.11 pts (-1.19%) To 6,063.55 May 26 Close; Spain IBEX 35 Down 87.04 pts (-0.47%) To 18,300.36 May 26 Close; Italy FTSE MIB Down 298.85 pts (-0.60%) To 49,921.50 May 26 Close"
-    },
-    {
-      "id": "4900857",
-      "time": "2026-05-26 23:37:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗國家媒體報道，伊朗總統與亞塞拜然總統於週二通電話，雙方探討了雙邊關係的發展現狀與未來前景。"
-    },
-    {
-      "id": "4900856",
-      "time": "2026-05-26 23:37:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "明晟公司MSCI北歐國家指數跌0.3%，報397.39點。在十個板塊中，北歐金融板塊跌幅最大。Nibe Industrier AB跌4.3%，在一眾北歐個股裡表現最差。"
-    },
-    {
-      "id": "mkt:019e64ee-238b-7772-bfd9-1868d5fcaee1",
-      "time": "2026-05-26 23:36:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Russia UN Envoy Says US Denied Visa To Dep. FM Alexander Alimov, Preventing Attendance At UN Security Council Meeting"
-    },
-    {
-      "id": "4900855",
-      "time": "2026-05-26 23:36:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯常駐聯合國代表稱，美方未向俄副外長髮放簽證，導致其無法出席聯合國安理會會議。"
-    },
-    {
-      "id": "4900854",
-      "time": "2026-05-26 23:35:41",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美光市值突破1萬億美元大關 AI帶來旺盛需求】美光科技市值週二突破1萬億美元，躋身萬億陣營，這再度顯示儲存相關的半導體已成為AI基礎設施建設的關鍵組成部分。該股今年以來累計上漲逾210%，此前2025年上漲近240%。"
     }
   ]
 }
