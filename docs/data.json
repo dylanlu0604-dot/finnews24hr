@@ -1,7 +1,68 @@
 {
-  "updated": "2026-06-03 00:48:17",
-  "count": 18328,
+  "updated": "2026-06-03 00:52:15",
+  "count": 18329,
   "items": [
+    {
+      "id": "4913489",
+      "time": "2026-06-03 00:51:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達外交部：國際原子能機構總幹事拉斐爾·格羅西在多哈會晤卡達首相，磋商卡達與該聯合國核監管機構的合作事宜，同時商討伊朗核問題談判的最新進展。"
+    },
+    {
+      "id": "mkt:019e893e-4b36-7779-8aab-63d8e010fbda",
+      "time": "2026-06-03 00:50:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Secretary of State Rubio said Hezbollah is not only an enemy of Israel and the United States, but also an enemy of Lebanon and the Lebanese people."
+    },
+    {
+      "id": "4913488",
+      "time": "2026-06-03 00:49:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：我們正在與伊朗談判，我們希望與伊朗達成協議，以使霍爾木茲海峽重新開放；如果伊朗堅持關閉霍爾木茲海峽，包圍力量將持續存在。伊朗可能就其核計劃的某些方面進行談判。"
+    },
+    {
+      "id": "mkt:019e893d-3925-7779-8aab-5dc4b3738d28",
+      "time": "2026-06-03 00:49:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. lawmakers propose repealing a 12% excise tax on heavy trucks."
+    },
+    {
+      "id": "mkt:019e893c-d090-7779-8aab-538a786a26b1",
+      "time": "2026-06-03 00:48:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "CENTCOM said aircraft carrier USS Abraham Lincoln is transiting the Arabian Sea to continue support for a U.S. blockade of Iran. The U.S. military has rerouted 122 commercial vessels to new courses to ensure compliance."
+    },
+    {
+      "id": "4913487",
+      "time": "2026-06-03 00:48:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：美國海軍“亞伯拉罕·林肯”號航空母艦（CVN-72）正在阿拉伯海航行，該航母持續配合美方針對伊朗實施的封鎖行動。美軍已勒令122艘商船變更航線，以迫使相關船隻遵守封鎖管控要求。"
+    },
+    {
+      "id": "4913486",
+      "time": "2026-06-03 00:47:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦通訊委員會（FCC）啟動四年以來首場頻譜拍賣。"
+    },
     {
       "id": "4913485",
       "time": "2026-06-03 00:47:39",
@@ -167847,58 +167908,6 @@
         "國際"
       ],
       "text": "【Quantinuum擬IPO募資10.5億美元 此前列入美國政府量子計算支援計劃】霍尼韋爾國際支援的量子計算公司Quantinuum Inc.擬透過美國首次公開募股(IPO)募資10.5億美元，藉助投資者對該技術的熱情推進上市。根據公司週二提交給美國證券交易委員會(SEC)的檔案，Quantinuum計劃發行約2100萬股，發行價區間為每股45-50美元。根據檔案列出的已發行股份計算，按區間上限定價，Quantinuum的市值將達到127億美元。Quantinuum生產功能強大的量子計算機，能夠解決傳統處理器能力範圍之外的複雜任務。量子計算機有望實現計算能力的指數級飛躍，這對人工智慧至關重要。該公司正在開發可用於化學、機器學習、網路安全、金融和藥物發現等領域的平臺。檔案顯示，安進和三井物產等公司是其早期使用者和合作方。"
-    },
-    {
-      "id": "mkt:019e6533-06a9-7332-8104-ec444e61bc33",
-      "time": "2026-05-27 00:51:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "cenc: M3.2 Quake Hits Puyang County, Henan; Depth 10km May 27 00:46"
-    },
-    {
-      "id": "4900890",
-      "time": "2026-05-27 00:51:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "馬斯克：路透社有關太空探索技術公司星鏈的報道不實。"
-    },
-    {
-      "id": "4900889",
-      "time": "2026-05-27 00:50:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "馬斯克稱美國國防部違規使用星鏈民用系統。"
-    },
-    {
-      "id": "mkt:019e6530-bca0-7332-8104-e3fb26f264d7",
-      "time": "2026-05-27 00:49:13",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "NETANYAHU: Israel Deploys Large Ground Forces In S. Lebanon, Controls Strategic Areas"
-    },
-    {
-      "id": "4900888",
-      "time": "2026-05-27 00:49:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網自動測定：05月27日00時46分在河南濮陽市濮陽縣附近（北緯35.76度，東經115.24度）發生3.0級左右地震，最終結果以正式速報為準。"
-    },
-    {
-      "id": "4900887",
-      "time": "2026-05-27 00:48:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "內塔尼亞胡：以色列軍方在黎巴嫩南部投入大規模地面部隊，並逐步掌控多處戰略要地。"
     }
   ]
 }
