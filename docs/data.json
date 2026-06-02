@@ -1,7 +1,75 @@
 {
-  "updated": "2026-06-03 01:20:21",
-  "count": 18352,
+  "updated": "2026-06-03 01:24:21",
+  "count": 18358,
   "items": [
+    {
+      "id": "4913524",
+      "time": "2026-06-03 01:22:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國總統馬克龍在愛麗捨宮會見匈牙利總理毛焦爾。"
+    },
+    {
+      "id": "mkt:019e895b-ba62-7779-8aac-1d7002ed080a",
+      "time": "2026-06-03 01:22:29",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Several Iraqi militias announce plans to disarm】On June 2, Iraq's Shiite militia Justice Alliance said it will form committees to inventory personnel and weapons, sever ties with the Popular Mobilization Forces (PMF) and transfer weapons to unified state control. The Shiite Imam Ali Brigade issued a similar statement the same day, saying it will cut links with PMF bodies, immediately begin inventory and hand over weapons and equipment to state management. Iraq's parliament first deputy speaker Adnan Feyhan welcomed the Coordination Framework Alliance's earlier decision and the militias' announcement to disarm."
+    },
+    {
+      "id": "mkt:019e895a-dad9-7779-8aac-1037ae9da3ae",
+      "time": "2026-06-03 01:21:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "MSFT.O"
+      ],
+      "text": "Microsoft announced the launch of Project Solara, in which chips will run AI agents rather than applications and communicate directly with cloud data centers."
+    },
+    {
+      "id": "mkt:019e895a-03b9-7779-8aac-08f7ad805506",
+      "time": "2026-06-03 01:20:37",
+      "tags": [
+        "MKT News",
+        "NVO.O",
+        "Impact bullish",
+        "LLY.O"
+      ],
+      "text": "CMS chief says from July 1 Medicare beneficiaries who meet prescribing criteria will pay $50 per month for GLP-class drugs."
+    },
+    {
+      "id": "4913523",
+      "time": "2026-06-03 01:20:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟高管透露，索拉拉專案便攜裝置將新增醫療患者自助掛號功能。"
+    },
+    {
+      "id": "4913522",
+      "time": "2026-06-03 01:20:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊內閣批准與敘利亞簽署協議，將經巴尼亞斯和塔爾圖斯兩個地中海港口運輸、儲存及處理巴士拉輕質、中質和重質原油。"
+    },
+    {
+      "id": "4913521",
+      "time": "2026-06-03 01:19:52",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【多個伊拉克民兵組織宣佈擬解除武裝】當地時間6月2日，伊拉克什葉派民兵組織“正義聯盟”宣佈將成立相關委員會清點人員及武器裝備，並正式推動解除與“人民動員組織”各機構聯絡，“將武器交由國家統一管理”。伊拉克什葉派民兵組織“伊瑪目阿里旅”同日發表宣告，決定解除與“人民動員組織”各機構聯絡，並立即啟動相應程式，清點移交武器裝備，“將武器交由國家統一管理”。（央視新聞）"
+    },
     {
       "id": "mkt:019e8959-3dfe-7779-8aac-02979d75bdaa",
       "time": "2026-06-03 01:19:47",
@@ -168146,14 +168214,6 @@
         "國際"
       ],
       "text": "【SpaceX啟動IPO燃爆市場狂熱，火箭與衛星概念股全線暴漲】航天基礎設施公司紅線系統（Redwire Corp.）股價一度暴漲31%，衛星寬頻通訊公司AST SpaceMobile Inc.狂飆20%，火箭與航天器製造商螢火蟲太空（Firefly Aerospace Inc.）漲幅亦高達21%。彭博社彙總的資料顯示，由美國銀行編纂、旨在追蹤太空競賽核心參與者及潛在受益者的“美國太空競賽一攬子股票”投資組合，今年以來錄得驚人漲幅。分析師與投資者普遍預計，全球太空經濟將持續擴張，整個太空概念股板塊有望在未來二十年內精準捕獲這一歷史性的經濟增長紅利。"
-    },
-    {
-      "id": "4900907",
-      "time": "2026-05-27 01:23:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "太空算力初創公司StarCloud與SpaceX簽署合同，計劃部署超50臺星鏈迷你鐳射終端，用於超25個衛星軌道資料中心，首批硬體一年內入軌。"
     }
   ]
 }
