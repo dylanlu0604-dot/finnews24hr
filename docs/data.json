@@ -1,7 +1,156 @@
 {
-  "updated": "2026-06-02 13:30:03",
-  "count": 17371,
+  "updated": "2026-06-02 13:33:58",
+  "count": 17385,
   "items": [
+    {
+      "id": "4911940",
+      "time": "2026-06-02 13:33:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄南部一煉油廠遭無人機襲擊起火】當地時間6月2日清晨，俄羅斯克拉斯諾達爾邊疆區行動指揮部通報，伊利斯基煉油廠因遭無人機襲擊發生火災。此外，無人機碎片墜落在當地一棟公寓樓區域內。相關襲擊未造成人員傷亡。據悉，伊利斯基煉油廠是俄羅斯南部最大的石油加工企業之一，經營烴原料的接收、儲存、加工以及成品油的公路和鐵路運輸。該廠擁有6套煉油工藝裝置，年產能達660萬噸。（央視新聞）"
+    },
+    {
+      "id": "mkt:019e86d2-6ddd-7dd4-a7a7-e55e68e4505e",
+      "time": "2026-06-02 13:33:13",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "China A-share fiber-optic sector extended gains as Zhongtian Technology and Hangdian Co. hit daily limit-up; earlier limit-ups seen in Yangtze Optical Fibre & Cable, Hengtong Optic‑Electric, Yongding Co. and Huiyuan Communications. Changyingtong advanced over 10%."
+    },
+    {
+      "id": "4911939",
+      "time": "2026-06-02 13:33:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "阿里巴巴港股上漲6%。"
+    },
+    {
+      "id": "mkt:019e86d2-0a7b-7dd4-a7a7-dd7844e639e8",
+      "time": "2026-06-02 13:32:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China's CSI 300 index futures (IF) main contract rose more than 2.00% intraday, trading at 4,906.8 points."
+    },
+    {
+      "id": "4911938",
+      "time": "2026-06-02 13:32:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "滬深300指數期貨上漲2.0%至4,906.00點。"
+    },
+    {
+      "id": "4911937",
+      "time": "2026-06-02 13:32:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "西門子能源達成收購卡姆林集團協議。"
+    },
+    {
+      "id": "4911936",
+      "time": "2026-06-02 13:32:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀突破77美元/盎司，日內漲2.38%。"
+    },
+    {
+      "id": "4911935",
+      "time": "2026-06-02 13:31:49",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深證成指漲2.00%，現報15647.472點；上證指數漲0.66%，現報4084.697點；創業板指漲3.28%，現報4080.671點。"
+    },
+    {
+      "id": "4911934",
+      "time": "2026-06-02 13:31:41",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨連續主力合約日內跌4%，現報3700.00點。"
+    },
+    {
+      "id": "4911933",
+      "time": "2026-06-02 13:31:26",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【光纖概念持續走強 中天科技、杭電股份觸及漲停】午後光纖概念持續走強，中天科技、杭電股份觸及漲停，此前長飛光纖、亨通光電、永鼎股份、匯源通訊漲停，長盈通漲超10%。"
+    },
+    {
+      "id": "mkt:019e86d0-2486-7dd4-a7a7-d7bfa230d7ff",
+      "time": "2026-06-02 13:30:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot silver rose more than 2% intraday to $76.33/oz; New York silver futures extended gains to about 2%, trading at $76.76/oz."
+    },
+    {
+      "id": "4911932",
+      "time": "2026-06-02 13:30:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲2%，現報76.34美元/盎司。"
+    },
+    {
+      "id": "4911931",
+      "time": "2026-06-02 13:30:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲2%，現報76.76美元/盎司。"
+    },
+    {
+      "id": "4911930",
+      "time": "2026-06-02 13:30:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌1%，現報94.01美元/桶。"
+    },
+    {
+      "id": "te:markets:555602",
+      "time": "2026-06-02 13:30:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: XRP Depreciates by 1.97% — Top crypto losers are XRP (-1.97%), Bitcoin (-1.18%), Binance (-1.18%) and Ether (-0.67%)."
+    },
+    {
+      "id": "4911929",
+      "time": "2026-06-02 13:29:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "【銅纜高速連線板塊震盪走強，鑫科材料漲停】銅纜高速連線板塊震盪走強，鑫科材料漲停，長飛光纖、中天科技、博威合金等股此前漲停，凱旺科技、太辰光、長芯博創、鼎通科技、華豐科技跟漲。"
+    },
     {
       "id": "4911928",
       "time": "2026-06-02 13:28:18",
@@ -158884,23 +159033,6 @@
         "其他"
       ],
       "text": "魯比奧：四方安全對話機制具有切實可行的目標。"
-    },
-    {
-      "id": "4899665",
-      "time": "2026-05-26 13:33:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：四方會談成果頗豐。"
-    },
-    {
-      "id": "4899663",
-      "time": "2026-05-26 13:31:10",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【傑瑞股份：今年公司燃氣輪機發電機組銷售價格有所上漲】傑瑞股份5月25日接受機構調研時表示，公司燃氣輪機發電機組的銷售定價遵循市場化原則，綜合考慮北美市場需求動態、成本、技術附加值及行業競爭格局等多重因素，今年公司燃氣輪機發電機組銷售價格有所上漲。"
     }
   ]
 }
