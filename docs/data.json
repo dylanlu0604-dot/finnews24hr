@@ -1,7 +1,122 @@
 {
-  "updated": "2026-06-02 22:16:50",
-  "count": 18111,
+  "updated": "2026-06-02 22:21:08",
+  "count": 18115,
   "items": [
+    {
+      "id": "4913225",
+      "time": "2026-06-02 22:18:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "兩名訊息人士透露，英國軍方已開始使用SpaceX公司的“星盾”（Starshield）專案。"
+    },
+    {
+      "id": "4913224",
+      "time": "2026-06-02 22:18:15",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【孫正義重登亞洲首富】6月2日，福布斯實時富豪榜單顯示，軟銀集團創始人兼CEO孫正義身家攀升至1007億美元，一舉超越印度安巴尼、阿達尼等富豪，時隔十餘年再度登頂亞洲首富寶座。"
+    },
+    {
+      "id": "4913223",
+      "time": "2026-06-02 22:17:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【杜祥琬院士宣告：從未參與也未委託任何單位將核技術應用於垃圾焚燒】杜祥琬表示，“近期，在網路上出現一些宣傳，聲稱本人及其團隊將核技術應用於垃圾焚燒，取得顯著效果。本人與團隊參與了‘無廢城市’試點建設相關諮詢專案研究。但本人從未參與，也未委託任何單位或個人將核技術應用於垃圾焚燒，當前網路流傳的相關新聞報道內容均為不實資訊。”（澎湃）"
+    },
+    {
+      "id": "te:economy:555810",
+      "time": "2026-06-02 22:17:44",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Job Quits",
+        "Importance 1"
+      ],
+      "text": "US Job Quits Fall in April — The number of job quits in the US fell to 2.977 million in April 2026 from the downwardly revised 3.160 million in March and below 3.144 million a year ago. It was the lowest reading since mid-2020. The quits rate edged down to 1.9% from 2.0%, marking its lowest reading since 2020 and signaling fewer workers voluntarily leaving their jobs. The number of quits declined primarily in retail trade (-48,000); professional and business services (-31,000); transportation, warehousing, and utilities (-30,000); health care and social assistance (-23,000) and finance & insurance (-22,000). Quits fell across most regions, with declines in the Northeast (-94,000), Midwest (-57,000), and South (-37,000), while the West registered a marginal increase of 5,000."
+    },
+    {
+      "id": "mkt:019e88b2-7eab-7333-b144-298d1537b06f",
+      "time": "2026-06-02 22:17:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Zhuhai proposes wider housing provident fund withdrawals】Zhuhai Housing Provident Fund Management Center published a public consultation on a notice from the Zhuhai Housing Provident Fund Management C.BANK proposing changes to provident fund withdrawal and use rules. The draft proposes adding withdrawals for urban renewal projects and for renovation of owner-occupied housing to meet residents’ demand for improved living conditions. The center said expanding the fund’s applicable scope would significantly enhance inclusiveness and resident benefits, support urban renewal and renovation withdrawals, improve system effectiveness and help contributors move from \"secure housing\" to \"better housing\"."
+    },
+    {
+      "id": "mkt:019e88b2-7d3c-7333-b144-21a174e0e861",
+      "time": "2026-06-02 22:17:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Bank of England governor Bailey said tighter financial conditions give the Bank more time."
+    },
+    {
+      "id": "mkt:019e88b2-6320-7889-9572-70d5b1de6d09",
+      "time": "2026-06-02 22:17:23",
+      "tags": [
+        "MKT News",
+        "SAAB-B.ST",
+        "Impact mixed"
+      ],
+      "text": "Saab says potential total contract value USD 60.8 mln; contract term 60 months."
+    },
+    {
+      "id": "mkt:019e88b1-fdf2-7333-b144-16085571a70d",
+      "time": "2026-06-02 22:17:03",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【Russian defence ministry says forces launched large-scale strikes on Ukraine】The Russian Defence Ministry said on the night of the 1st to early 2nd that Russian forces launched large-scale strikes on Ukraine using air-, land- and sea-based long-range precision weapons, including hypersonic ballistic missiles and attack drones. Targets, it said, included Ukrainian defence-industrial enterprises, fuel storage and transport facilities, and military airports. In precision strikes aimed at Kyiv the ministry said 10 firms producing attack drones and other military products were hit and three local recruitment centres were damaged. It also reported damage to defence firms outside Kyiv in Zaporizhia, Dnipropetrovsk, Kharkiv, Sumy, Khmelnytskyi and Poltava, and said support infrastructure at six military airports was destroyed. The statement added that tactical aviation, strike drones, missile troops and artillery struck 133 training ranges, long-range drone launch sites and temporary deployment points of Ukrainian forces and foreign mercenaries."
+    },
+    {
+      "id": "4913222",
+      "time": "2026-06-02 22:17:02",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行行長貝利：金融環境已收緊，貨幣政策尚有觀望時間。"
+    },
+    {
+      "id": "4913221",
+      "time": "2026-06-02 22:16:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大總理卡尼：GDP疲軟反映出為重建經濟進行政策調整帶來的影響。"
+    },
+    {
+      "id": "mkt:019e88b1-48be-7333-b144-0b0a62f68527",
+      "time": "2026-06-02 22:16:18",
+      "tags": [
+        "MKT News",
+        "SAAB-B.ST"
+      ],
+      "text": "Saab wins $22.4 mln order from the US Army, market sources say."
+    },
+    {
+      "id": "4913220",
+      "time": "2026-06-02 22:16:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國陸軍已授予薩博一份價值2240萬美元的固定總價合同訂單。"
+    },
     {
       "id": "mkt:019e88b0-d514-7333-b144-063a6f4111d9",
       "time": "2026-06-02 22:15:50",
@@ -165913,86 +166028,6 @@
         "原創"
       ],
       "text": "【5月26日增減持彙總】據不完全統計，5月26日盤後，木林森、傑瑞股份、美利信、ST易購披露增持情況，亞世光電、中電港、安凱客車、燕東微、恆光股份、可川科技、永安期貨、芯聯整合、先鋒精科、芯朋微、超達裝備、浙大網新、得邦照明、報喜鳥、飛亞達在內的15家A股上市公司披露擬減持情況。"
-    },
-    {
-      "id": "4900766",
-      "time": "2026-05-26 22:20:34",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美光科技漲幅擴大至15%】美光科技股價上漲15.01%，報863.715美元/股，總市值報9740億美元。"
-    },
-    {
-      "id": "te:markets:553802",
-      "time": "2026-05-26 22:20:31",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Qualcomm Stock Price Hits All-time High — Qualcomm shares increased to an all-time high of 247.90 USD. Over the past 4 weeks, Qualcomm gained 84.85%, and in the last 12 months, it increased 70.31%."
-    },
-    {
-      "id": "mkt:019e64a8-3ffd-7330-84b5-2fbacd244fb6",
-      "time": "2026-05-26 22:20:08",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "US Dallas Fed Business Activity Index May Due In 10 Min"
-    },
-    {
-      "id": "4900765",
-      "time": "2026-05-26 22:18:55",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【入境遊消費活力十足 入境流量變消費增量】“空箱而來、滿載而歸”如今成了入境遊客來華的常態。自去年國家離境退稅政策出臺以後，上海釋出了三年行動方案，提出擴網點、增品類、促便利、優環境等多項舉措，打造離境退稅標杆城市。一年來，上海入境消費市場熱度持續攀升。資料顯示，從去年5月至今年4月，上海全市開具離境退稅“即買即退”申請單數量同比增長14.7倍，“即買即退”銷售額同比增長9.7倍，新增離境退稅商店超1200家。 隨著“即買即退”等便利化政策的落地，越來越多的境外遊客在深圳開啟了“買買買”模式。在深圳華強北一家無人機銷售門店，非週末時間，店內依舊人頭攢動，其中有不少境外遊客的身影。記者看到，境外遊客下單後，銷售人員會提供“一站式”服務，協助他們快速辦理離境退稅手續。門店銷售人員表示，今年前四個月，門店銷量相比去年同期提升了40%。資料顯示，今年1至4月，深圳離境退稅商品銷售額同比激增145%，“即買即退”商品銷售額與退稅額同比增長1.11倍。（央視財經）"
-    },
-    {
-      "id": "te:markets:553801",
-      "time": "2026-05-26 22:18:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Applied Materials Stock Price Hits All-time High — Applied Materials shares increased to an all-time high of 448.47 USD. Over the past 4 weeks, Applied Materials gained 10.65%, and in the last 12 months, it increased 176.81%."
-    },
-    {
-      "id": "4900764",
-      "time": "2026-05-26 22:18:10",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【英國宣佈對俄實施新一輪制裁】當地時間5月26日，英國政府宣佈針對俄羅斯金融體系實施新一輪制裁。本輪制裁共涉及18個物件。英國外交、聯邦事務及發展部當天發表宣告稱，新制裁措施將立即生效。英國政府稱，自俄烏衝突升級以來，英國已累計制裁超過3300個俄羅斯相關個人、企業及船隻。俄羅斯方面對此暫無回應。（央視新聞）"
-    },
-    {
-      "id": "te:markets:553800",
-      "time": "2026-05-26 22:17:57",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Luxembourg",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "Stocks in Luxembourg Hit Near 18-year High — LuxX increased to 2278.00 Index Points, the highest since June 2008. Over the past 4 weeks, Luxembourg Stock Exchange gained 11.67%, and in the last 12 months, it increased 49.54%."
-    },
-    {
-      "id": "4900763",
-      "time": "2026-05-26 22:17:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟委員會主席馮德萊恩：目前波羅的海國家面臨無人機侵擾、網路威脅、虛假資訊等安全挑戰，這些問題未來也可能蔓延至歐洲其他地區。歐洲亟需提升防務能力、應急備戰水平與協同協作能力，以應對當前局勢。"
     }
   ]
 }
