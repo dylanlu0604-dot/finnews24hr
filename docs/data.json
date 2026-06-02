@@ -1,7 +1,107 @@
 {
-  "updated": "2026-06-02 11:58:08",
-  "count": 17302,
+  "updated": "2026-06-02 12:03:24",
+  "count": 17305,
   "items": [
+    {
+      "id": "mkt:019e867e-0bba-7663-9953-5a3e680882bf",
+      "time": "2026-06-02 12:01:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Space Energy Development Alliance launched】A Space Energy Development Alliance was launched at the opening ceremony of the 19th International Solar PV, Smart Energy & Energy Storage and Battery Conference and Exhibition (Shanghai) on June 2, 2026."
+    },
+    {
+      "id": "te:markets:555578",
+      "time": "2026-06-02 11:59:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Rupee Retreats from Multi-Week Highs — The Indian rupee edged lower to around 95.1 per dollar, retreating from multi-week highs as uncertainty surrounding US-Iran negotiations kept crude oil markets volatile. Brent crude remained near $100 per barrel after conflicting signals on diplomatic talks between Washington and Tehran. The rupee also faced headwinds from continued foreign portfolio outflows, with overseas investors selling about $2.5 billion of equities over the last two trading sessions, bringing total outflows since late February to nearly $25 billion. Market participants also digested mixed economic data, as India's fiscal deficit widened to INR 3.6 trillion in April, nearly double the level recorded a year earlier, while industrial production rose 4.9% year-on-year, signaling resilience in manufacturing despite pressure from elevated oil prices and a weaker rupee. Investors are now focused on this week's Reserve Bank of India policy meeting, with expectations split between a rate hold and a 25-basis-point hike."
+    },
+    {
+      "id": "mkt:019e867c-6da1-7663-9953-5070db1fa16c",
+      "time": "2026-06-02 11:59:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【RuiKe Laser says subsidiary Ruixin fiber orders full; capacity utilization exceeds 97%】RuiKe Laser said wholly owned subsidiary Wuhan Ruixin Special Fiber focuses on R&D, production and sales of specialty fiber, holds the top domestic market share in laser-use specialty fiber, and some optical communications fiber technologies are at internationally leading levels. Benefiting from a surge in downstream demand for laser processing, optical communications and aerospace sensing, Ruixin’s orders are full and capacity utilization exceeds 97%."
+    },
+    {
+      "id": "4911828",
+      "time": "2026-06-02 11:59:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【機構：英偉達的PC晶片公告表明AI交易正超越GPU】盛寶金融的Charu Chanana在一份研究報告中表示，英偉達最新的PC晶片表明，AI交易正在超越GPU領域。她說，AI的下一階段可能不再侷限於單一晶片，而是更多地涉及擴充套件AI所需的完整技術棧，從CPU、GPU、記憶體到網路和伺服器。這意味著受益者名單正在擴大。她指出，Arm是架構方面的受益者，而微軟是Windows AI的把關人。與英偉達共同開發最新PC晶片的聯發科技，獲得了涉足智慧手機和互聯裝置之外的高階計算機會的敞口。她補充說，博通和Marvell等公司在網路層面上致力於擴充套件資料中心，而戴爾和聯想集團等PC製造商將生產搭載英偉達晶片的PC。"
+    },
+    {
+      "id": "4911827",
+      "time": "2026-06-02 11:59:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【太空能源發展聯盟啟動】記者從6月2日舉行的第十九屆（2026）國際太陽能光伏和智慧能源&儲能和電池（上海）大會暨展覽會開幕式上獲悉，當日開幕式上舉行了太空能源發展聯盟啟動儀式。"
+    },
+    {
+      "id": "4911826",
+      "time": "2026-06-02 11:58:49",
+      "tags": [
+        "央行"
+      ],
+      "text": "【凱投宏觀：最低工資上調增強了澳大利亞央行加息的理由】凱投宏觀的Abhijit Surya表示，澳大利亞將最低工資上調4.75%，增強了該央行在9月所在季度再次加息的理由。在市場定價反映出8月份是最有可能的時間預期的背景下，該亞太區高階經濟學家堅持他的預測，即再加息25個基點。Surya承認，最低工資上調的直接影響將是溫和的，但他指出，澳大利亞央行的分析表明，此類決定會影響其他領域的薪酬設定。他補充說，整體工資增長超出澳大利亞央行預期的可能性看起來更大了。"
+    },
+    {
+      "id": "4911825",
+      "time": "2026-06-02 11:58:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【銳科鐳射：子公司睿芯光纖目前訂單飽滿 產能利用率超97%】據銳科鐳射訊息，全資子公司武漢睿芯特種光纖有限責任公司（簡稱“睿芯光纖”）深耕特種光纖研發、生產與銷售，在鐳射器用特種光纖領域穩居國內市佔率第一，通訊光纖技術部分達到國際領先水平。目前受益於鐳射加工、光通訊、空天感測等下游需求爆發，訂單飽滿，產能利用率超過97%。"
+    },
+    {
+      "id": "te:markets:555577",
+      "time": "2026-06-02 11:58:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "Stocks in India Hit 8-week Low — SENSEX decreased to 73945.00 Index Points, the lowest since April 2026. Over the past 4 weeks, SENSEX lost 3.89%, and in the last 12 months, it decreased 8.73%."
+    },
+    {
+      "id": "4911824",
+      "time": "2026-06-02 11:58:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【凱恩股份：現有主營業務不包括超級電容或超級電容隔膜紙業務】凱恩股份6月2日在互動平臺表示，公司現有主營業務產品包括煙用配套用紙、特種食品包裝紙、工業配套用紙等，不包括超級電容或超級電容隔膜紙業務。"
+    },
+    {
+      "id": "mkt:019e867a-f96f-7663-9953-4a2225f64a26",
+      "time": "2026-06-02 11:57:45",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "005930.KS",
+        "Impact bearish"
+      ],
+      "text": "【Jensen Huang on Samsung bonuses: I try to pay as much as possible, but that doesn't mean it's right】NVIDIA CEO Jensen Huang said he tries to pay employees as much as possible, commenting on partner Samsung Electronics’ recent compensation deal that offers chip engineers bonuses of up to $400,000. Huang said “I try to pay as much as possible, and I do, but that doesn't mean it's right.” He dismissed claims that AI threatens jobs as “nonsense,” saying AI will boost income, profits and GDP. Samsung’s March filing shows average employee pay last year was 158 million won (about $105,000)."
+    },
     {
       "id": "mkt:019e8679-c28b-7663-9953-430a221f98d2",
       "time": "2026-06-02 11:56:26",
@@ -158147,65 +158247,6 @@
         "公司"
       ],
       "text": "【東方電熱：機器人液冷散熱模組訂單總金額佔比較小 對經營業績沒有重大影響】東方電熱在互動平臺表示，溫擎智控正在和一些潛在客戶陸續簽訂開發訂單。此外，溫擎智控是國內首家推出“系統級機器人液冷散熱模組”的企業，產品獲得多家機器人企業認可。截至目前，公司簽訂的機器人液冷散熱模組訂單總金額佔公司當期營業收入的比重較小，對公司經營業績沒有重大影響，請注意投資風險。"
-    },
-    {
-      "id": "4899591",
-      "time": "2026-05-26 12:02:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "【深圳：經濟總量從2020年的2.83萬億元增長至3.87萬億元，年均增速5.5%、居國內一線城市首位】《深圳市國民經濟和社會發展第十五個五年規劃綱要》釋出。過去五年，全市上下錨定高質量發展高地、法治城市示範、城市文明典範、民生幸福標杆、可持續發展先鋒的戰略定位努力奮鬥，經濟社會發展取得新進展新成效。 經濟總量從2020年的2.83萬億元增長至3.87萬億元，年均增速5.5%、居國內一線城市首位。成為全國首個5萬億級產值規模的工業大市，規上工業總產值、全口徑工業增加值連續4年保持全國城市第一。固定資產投資累計達4.5萬億元、為“十三五”時期的1.5倍，並於2024年歷史性突破1萬億元。社會消費品零售總額站穩萬億元新臺階。外貿進出口總額躍居全國城市首位、出口總額實現“三十三連冠”，服務貿易進出口總額突破萬億元大關。來源於轄區的一般公共預算收入連續五年保持萬億元以上。萬元地區生產總值能耗、水耗、碳排放居全國最優水平。"
-    },
-    {
-      "id": "4899590",
-      "time": "2026-05-26 12:02:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟高階官員向英國《金融時報》表示，英國可能於今年加入規模達40億歐元的歐盟創業基金。"
-    },
-    {
-      "id": "4899589",
-      "time": "2026-05-26 12:01:45",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【國務院國資委副主任李鎮會見摩爾多瓦公共資產署署長羅曼·科尤哈里】5月22日，國務院國資委副主任李鎮在國資委會見摩爾多瓦公共資產署署長羅曼·科尤哈里。雙方就國資監管和國企治理議題進行交流。李鎮對科尤哈里來訪表示歡迎。他簡要介紹了中國國資央企情況，指出國務院國資委持續完善制度建設和治理機制，透過最佳化佈局結構、強化考核激勵、管好資本收益、落實監督問責等舉措，不斷做強做優做大國有企業和國有資本，表示願與摩方加強交流合作，共同推動兩國國有企業高質量發展。科尤哈里高度評價中國國資國企改革發展成就。他介紹了摩爾多瓦國企改革發展規劃和進展，表示希望學習借鑑中國國企改革發展經驗，提升摩國有企業治理水平，更好服務國家現代化。"
-    },
-    {
-      "id": "te:markets:553601",
-      "time": "2026-05-26 12:01:41",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Soybean Prices Extend Decline — Soybean futures fell below $11.90 per bushel, retreating further from recent two-year highs as uncertainty over global trade and geopolitical developments weighed on prices. A potential US–Iran peace deal that could reopen the Strait of Hormuz and restore flows of fuel and fertilizers critical for crop production is seen as supportive for agricultural supply, potentially boosting global grain output. However, crude oil prices rebounded on reports of fresh US strikes in southern Iran, reinforcing biofuel-related demand. Elsewhere, doubts over a US–China trade agreement also weighed on prices, after Beijing did not confirm the Trump administration’s claim that it had committed to purchasing at least $17 billion in US agricultural products annually through 2028, alongside existing soybean pledges. China’s Ministry of Commerce said the two sides had only agreed on a “guiding target” to expand agricultural trade, without referencing the $17 billion figure."
-    },
-    {
-      "id": "4899588",
-      "time": "2026-05-26 12:01:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "【港股午評：恒生指數漲0.54%，恒生科技指數漲2.29%】港股午間收盤，恒生指數漲0.54%，恒生科技指數漲2.29%。恒指港股通ETF銀華（159318）漲0.61%，港股通科技ETF鵬華（159751）漲1.87%。板塊方面，客運航空公司、半導體產品與裝置板塊漲幅靠前；能源裝置與服務、建築材料板塊跌幅靠前。個股方面，東嶽集團漲24.41%，聯想集團漲17.84%，聯想集團-R漲17.74%，五一視界漲16.79%，南山鋁業國際漲15.85%；國富量子跌19.09%，海致科技集團跌8.59%，東鵬飲料跌8.58%，長飛光纖光纜跌8.17%，鈞達股份跌8.07%。"
-    },
-    {
-      "id": "4899587",
-      "time": "2026-05-26 12:00:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "吉爾吉斯斯坦中央銀行維持關鍵利率在12%不變。"
-    },
-    {
-      "id": "4899586",
-      "time": "2026-05-26 11:59:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【東方證券：國產黑電龍頭內銷份額將持續提升 AI互聯與RGB背光重塑黑電格局】東方證券釋出研報稱，三星退出將利好國內黑電龍頭承接30萬臺電視銷量，國產頭部品牌的競爭優勢顯著，該行預計國產頭部品牌的內銷份額將持續提升。TCL電子(01070)、海信視像(600060.SH)已率先實現對谷歌合作，具備海外Google TV生態適配能力的品牌更有望在AI電視和智慧家居入口競爭中取得先發優勢。當前高階電視正在形成兩條並行升級路徑RGB背光路線;另一類是以TCLSQD-Mini LED為代表的控光精細度和亮度優先的路線。後續哪條路徑在高階市場勝出，仍取決於畫質體驗與成本下降速度。"
     }
   ]
 }
