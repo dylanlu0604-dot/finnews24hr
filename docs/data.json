@@ -1,7 +1,87 @@
 {
-  "updated": "2026-06-02 22:29:43",
-  "count": 18133,
+  "updated": "2026-06-02 22:33:48",
+  "count": 18124,
   "items": [
+    {
+      "id": "4913254",
+      "time": "2026-06-02 22:32:45",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行行長貝利：本輪能源衝擊規模遠不及2022年。"
+    },
+    {
+      "id": "mkt:019e88c0-29a7-7aa9-a70f-6e984733804d",
+      "time": "2026-06-02 22:32:35",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "Bank of England Governor Bailey said the current energy shock is far less severe than in 2022."
+    },
+    {
+      "id": "4913253",
+      "time": "2026-06-02 22:32:18",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "據外媒報道，美國國務卿魯比奧2日說：“我們正在與伊朗談判。”（新華社）"
+    },
+    {
+      "id": "4913251",
+      "time": "2026-06-02 22:31:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【浙江省委書記王浩會見寮國人民革命黨中央委員會總書記、國家主席通倫一行】2日下午，浙江省委書記王浩在杭州會見了寮國人民革命黨中央委員會總書記、國家主席通倫一行。 王浩代表浙江省委、省政府和6700多萬浙江人民，對通倫一行的到訪表示歡迎，並簡要介紹了浙江經濟社會發展情況。王浩說，習近平總書記在浙江工作期間，為浙江量身制定了“八八戰略”，20多年來引領浙江發生了全方位、系統性、深層次精彩蝶變。當前，浙江正堅定不移貫徹落實習近平總書記考察浙江重要講話精神，深入踐行“八八戰略”，推動高質量發展建設共同富裕示範區取得決定性進展、率先呈現基本實現社會主義現代化的生動圖景。今年是中老建交65週年暨“中老友好年”，在中老加快打造高標準、高質量、高水平的命運共同體大背景下，浙江與寮國的交流合作取得了豐碩成果。我們將堅決貫徹習近平總書記重要指示精神，認真落實兩黨兩國最高領導人重要共識，進一步發揮好中老鐵路作用，持續深化經貿投資、現代農業、數字經濟、基礎設施等領域合作，不斷拓展教科文體等領域合作成果，加強地方交流交往，攜手開展更高質量互利共贏，共同助力中老友好薪火相傳，共增人民福祉。（浙江釋出）"
+    },
+    {
+      "id": "4913250",
+      "time": "2026-06-02 22:31:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "捷克克朗兌歐元日內上漲0.3%，報1歐元兌24.21克朗，創2月以來最強水平。"
+    },
+    {
+      "id": "4913249",
+      "time": "2026-06-02 22:29:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "埃及供應部：埃及批准了一項機制，允許糖在商品市場掛牌交易。"
+    },
+    {
+      "id": "4913248",
+      "time": "2026-06-02 22:29:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "挪威財政大臣：挪威主權財富基金體量過於龐大，資產配置已無處避險。"
+    },
+    {
+      "id": "mkt:019e88bd-05ef-7dd9-9eba-d730ea44b4dc",
+      "time": "2026-06-02 22:29:00",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact bearish"
+      ],
+      "text": "Nasdaq 100 futures quickly turned negative."
+    },
+    {
+      "id": "4913247",
+      "time": "2026-06-02 22:28:56",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行貝利談及人工智慧：當前市場定價隱含所有人都能從AI行情中獲益的樂觀預期。"
+    },
     {
       "id": "mkt:019e88bc-b61f-7dd9-9eba-ceb1692082ac",
       "time": "2026-06-02 22:28:45",
@@ -10,6 +90,15 @@
         "Important"
       ],
       "text": "Coking coal futures (contract 2609) reversed into gains, up 1.39% at 1,387.5 yuan/ton; trading value ~27.679 bln yuan. Open interest rose about 32.1k contracts intraday, signaling notable position build. Coke futures (contract 2609) rose 1.51% to 2,015.5 yuan/ton; trading value ~1.809 bln yuan and open interest climbed nearly 1.5k contracts, with volume and OI increasing in tandem."
+    },
+    {
+      "id": "4913246",
+      "time": "2026-06-02 22:28:34",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：伊朗相關協議或於今日、明日或下週落地。"
     },
     {
       "id": "mkt:019e88bc-8769-7dd9-9eba-c25594213e58",
@@ -89,6 +178,14 @@
         "Brent"
       ],
       "text": "U.S. Secretary of State Rubio said Iran may have agreed to negotiate some elements of its nuclear program it previously refused to discuss."
+    },
+    {
+      "id": "4913243",
+      "time": "2026-06-02 22:27:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：伊朗有可能已經同意就其核計劃中一些此前拒絕在談判中提及的內容進行磋商。"
     },
     {
       "id": "4913241",
@@ -165976,219 +166073,6 @@
         "其他"
       ],
       "text": "哈薩克首次發行熊貓債券，發行規模 34 億元人民幣，票面利率 1.9%。"
-    },
-    {
-      "id": "4900785",
-      "time": "2026-05-26 22:33:01",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美國5月達拉斯聯儲製成品價格指數 18.9，前值27.6。\n美國5月達拉斯聯儲製造業就業指數 0.2，前值-0.9。\n美國5月達拉斯聯儲製造業裝船指數 7.4，前值15。\n美國5月達拉斯聯儲製造業原材料支付價格指數 42.7，前值37。"
-    },
-    {
-      "id": "mkt:019e64b4-0685-7330-84b5-b22508e54c8d",
-      "time": "2026-05-26 22:32:49",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "US Dallas Fed May Manufacturing Raw-Materials Prices Paid Index Climbs To 42.7 From 37"
-    },
-    {
-      "id": "mkt:019e64b3-ef13-7330-84b5-acd9b32a217c",
-      "time": "2026-05-26 22:32:42",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "S&P500",
-        "Impact bearish",
-        "WTI",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "US Dallas Fed Manufacturing Shipments Index Falls To 7.4 In May From 15"
-    },
-    {
-      "id": "mkt:019e64b3-c116-7330-84b5-a248235938fc",
-      "time": "2026-05-26 22:32:40",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Dallas Fed Prices Paid for Raw Materials (May) | actual 42.7 | previous 37"
-    },
-    {
-      "id": "mkt:019e64b3-ac5e-7330-84b5-9a7b9307c54e",
-      "time": "2026-05-26 22:32:32",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "US Dallas Fed Manufacturing Employment Index May 0.2; Apr -0.9"
-    },
-    {
-      "id": "mkt:019e64b3-ac06-7330-84b5-9689b96190d0",
-      "time": "2026-05-26 22:32:31",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Dallas Fed Shipments Index (May) | actual 7.4 | previous 15"
-    },
-    {
-      "id": "mkt:019e64b3-a284-7330-84b5-8e422a1e6297",
-      "time": "2026-05-26 22:32:29",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "US10Y",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "US Dallas Fed Manufactured Products Price Index Drops To 18.9 In May From 27.6"
-    },
-    {
-      "id": "mkt:019e64b3-821f-7330-84b5-816f210c78bd",
-      "time": "2026-05-26 22:32:24",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Dallas Fed Employment Index (May) | actual 0.2 | previous -0.9"
-    },
-    {
-      "id": "4900784",
-      "time": "2026-05-26 22:32:16",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美國5月達拉斯聯儲製造業產出指數 9.4，前值19。\n美國5月達拉斯聯儲新訂單指數 6.4，前值9.9。"
-    },
-    {
-      "id": "mkt:019e64b3-6c97-7330-84b5-7e88c0354fb3",
-      "time": "2026-05-26 22:32:15",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Dallas Fed Prices Received for Finished Goods (May) | actual 18.9 | previous 27.6"
-    },
-    {
-      "id": "mkt:019e64b3-4679-7330-84b5-7438132abd9a",
-      "time": "2026-05-26 22:32:10",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "US Dallas Fed May New Orders Index 6.4; Apr 9.9"
-    },
-    {
-      "id": "mkt:019e64b3-2c42-7330-84b5-6d623086c598",
-      "time": "2026-05-26 22:31:59",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Dallas Fed New Orders Index (May) | actual 6.4 | previous 9.9"
-    },
-    {
-      "id": "mkt:019e64b3-2968-7330-84b5-66da96e11cf6",
-      "time": "2026-05-26 22:31:58",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "U.S. Dallas Fed Manufacturing Production Index May 9.4, Prior 19"
-    },
-    {
-      "id": "mkt:019e64b2-f920-7330-84b5-5c16d46c4d5a",
-      "time": "2026-05-26 22:31:49",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Dallas Fed Production Index (May) | actual 9.4 | previous 19"
-    },
-    {
-      "id": "em:qqyh_mlc:202605263750032524",
-      "time": "2026-05-26 22:31:42",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "美國5月達拉斯聯儲商業活動指數為0.4，前值-2.3。"
-    },
-    {
-      "id": "em:jjsj_mgsj:202605263750032524",
-      "time": "2026-05-26 22:31:42",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "美國5月達拉斯聯儲商業活動指數為0.4，前值-2.3。"
-    },
-    {
-      "id": "mkt:019e64b2-c193-7330-84b5-5313b31f3ab7",
-      "time": "2026-05-26 22:31:33",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Copper"
-      ],
-      "text": "US Dallas Fed Business Activity Index Rises To 0.4 In May From -2.3"
-    },
-    {
-      "id": "4900783",
-      "time": "2026-05-26 22:31:29",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美國5月達拉斯聯儲製造業指數為0.4，預期值為0.0，前值-2.3。"
-    },
-    {
-      "id": "mkt:019e64b2-7d9b-7330-84b5-4f5fb7eeef02",
-      "time": "2026-05-26 22:31:19",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Dallas Fed Business Activity Index (May) | actual 0.4 | previous -2.3"
-    },
-    {
-      "id": "4900782",
-      "time": "2026-05-26 22:30:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗議長結束對卡達的訪問回國】據伊朗伊斯蘭共和國廣播電視臺26日報道，伊朗伊斯蘭議會議長卡利巴夫26日結束對卡達的訪問後返回伊朗。報道稱，卡利巴夫率團訪問卡達，同卡方官員就伊美談判程序及地區局勢進行磋商。 (新華社)"
     }
   ]
 }
