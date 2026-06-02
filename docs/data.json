@@ -1,7 +1,29 @@
 {
-  "updated": "2026-06-03 03:44:24",
-  "count": 18443,
+  "updated": "2026-06-03 03:48:12",
+  "count": 18444,
   "items": [
+    {
+      "id": "mkt:019e89df-ff74-733d-8819-4ce52b415838",
+      "time": "2026-06-03 03:46:58",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "MSFT.O",
+        "Impact bullish",
+        "QCOM.O",
+        "2454.TW"
+      ],
+      "text": "【Microsoft launches Project Solara to embed AI agents in enterprise mobile devices】Microsoft on Tuesday unveiled Project Solara, a platform to support products that use AI agents as primary interfaces, aiming to move AI agents off laptop screens and into enterprise mobile devices. It showed two concept designs co-developed with Qualcomm and MediaTek: an enhanced employee badge with Wi-Fi, Bluetooth and other wireless connectivity, a touchscreen and fingerprint reader; and a compact, thick-screen desktop-style device. Microsoft and Qualcomm CEOs said new device form factors optimized for specific operating environments and able to run dedicated AI agents are needed because existing PC and phone interfaces are not always optimal."
+    },
+    {
+      "id": "4913624",
+      "time": "2026-06-03 03:46:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "【芝加哥小麥、大豆期貨至少跌1%】週二（6月2日）紐約尾盤，彭博穀物分類指數跌1.15%，報30.6268點。CBOT玉米期貨跌0.90%，CBOT小麥期貨跌1.00%。CBOT大豆期貨跌1.35%，報11.6450美元/蒲式耳，豆粕期貨跌0.03%，豆油期貨跌0.89%。ICE原糖期貨跌0.48%，ICE白糖期貨跌0.93%。ICE阿拉比卡咖啡期貨跌0.56%，咖啡“C”期貨跌0.77%。羅布斯塔咖啡期貨漲0.70%。紐約可可期貨漲4.60%，報4074美元/噸。倫敦可可期貨漲5.44%。芝加哥WCE雙低油菜籽期貨漲0.18%。ICE棉花期貨漲0.41%。"
+    },
     {
       "id": "4913623",
       "time": "2026-06-03 03:38:19",
@@ -169024,15 +169046,6 @@
         "MKT News"
       ],
       "text": "U.S. Air Force Awards SpaceX $2.29bln Contract To Build Space Data Network"
-    },
-    {
-      "id": "4900970",
-      "time": "2026-05-27 03:47:27",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國太空軍授予SpaceX一份價值22.9億美元的軍事空間資料網路合同。"
     }
   ]
 }
