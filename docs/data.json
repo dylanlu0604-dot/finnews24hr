@@ -1,7 +1,51 @@
 {
-  "updated": "2026-06-02 09:21:47",
-  "count": 17222,
+  "updated": "2026-06-02 09:25:39",
+  "count": 17214,
   "items": [
+    {
+      "id": "4911606",
+      "time": "2026-06-02 09:24:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普被曝同以總理通話爆粗口】據美國阿克西奧斯新聞網站6月1日報道，美國總統特朗普當天在與以色列總理內塔尼亞胡的通話中，就以色列在黎巴嫩的軍事升級行動爆粗口。 報道援引兩名訊息人士的話稱，特朗普在通話中稱內塔尼亞胡“瘋了”，並指責他忘恩負義，稱自己曾幫助內塔尼亞胡在其腐敗案審理中“免於入獄”。報道還援引一名美國官員的話稱，特朗普告訴內塔尼亞胡，轟炸黎巴嫩首都貝魯特將使以色列在國際上進一步陷入孤立。 根據一名美國官員的說法，特朗普在同內塔尼亞胡通話時說，“要不是我，你現在就在監獄裡。我一直在救你。現在所有人都恨你。所有人都恨以色列”。 另一名瞭解通話內容的訊息人士稱，特朗普當時“氣壞了”，一度對內塔尼亞胡吼道：“你到底在幹什麼？” 報道稱，特朗普在通話中“強勢壓制”了內塔尼亞胡。內塔尼亞胡回答：“好吧，好吧，只要確保一切妥當就行。” 報道稱，特朗普認為最近幾天以色列過度擴大在黎巴嫩的軍事行動，並反對以色列為了擊殺一名黎巴嫩真主黨指揮官而炸燬整棟建築的做法。特朗普的憤怒似乎源於內塔尼亞胡決定在黎巴嫩升級軍事行動，這可能會破壞他與伊朗的談判。 報道援引上述一名美國官員的話稱，“這是自特朗普再次上任以來，他與內塔尼亞胡之間最糟糕的通話之一”。報道說，特朗普和內塔尼亞胡過去有過幾次緊張的通話，但在伊朗等問題上仍密切協調。(新華社)"
+    },
+    {
+      "id": "4911605",
+      "time": "2026-06-02 09:22:00",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行公開市場今日淨回籠2,488億元人民幣。"
+    },
+    {
+      "id": "mkt:019e85ec-3d0d-7993-96fd-05d5ff184cac",
+      "time": "2026-06-02 09:21:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Hong Kong: HSI opened down 3.11 points (-0.01%) at 25,395.07 on June 2; Hang Seng Tech Index opened up 30.91 points (+0.62%) at 4,995.83; HSCEI (Hang Seng China Enterprises Index) opened up 3.44 points (+0.04%) at 8,511.31; Red Chip Index opened down 5.23 points (-0.12%) at 4,422.19."
+    },
+    {
+      "id": "4911604",
+      "time": "2026-06-02 09:21:36",
+      "tags": [
+        "焦點"
+      ],
+      "text": "港股恒指低開跌0.01％，國企指數漲0.04％，恒生科技指數開漲0.62%。"
+    },
+    {
+      "id": "em:qqyh_zgyh:202606023756896112",
+      "time": "2026-06-02 09:21:33",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "央行今日開展2億元7天逆回購操作，操作利率為1.40%，與此前持平。"
+    },
     {
       "id": "mkt:019e85eb-beca-7993-96fc-ff9966f71670",
       "time": "2026-06-02 09:21:19",
@@ -157146,124 +157190,6 @@
         "焦點"
       ],
       "text": "【港股半導體股走強 華虹半導體漲近15%】截至發稿，華虹半導體(01347.HK)漲14.99%，中芯國際(00981.HK)漲14.97%，兆易創新(03986.HK)漲9.90%，英諾賽科(02577.HK)漲8.23%。"
-    },
-    {
-      "id": "4899353",
-      "time": "2026-05-26 09:25:35",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行副行長：我們將在監測中東局勢發展對日本經濟與物價的影響，並檢驗基準情景實現可能性的同時，考量調整的時機與節奏。"
-    },
-    {
-      "id": "4899352",
-      "time": "2026-05-26 09:25:17",
-      "tags": [
-        "焦點"
-      ],
-      "text": "三大股指低開，滬指跌0.37％，深成指跌0.44％，創業板跌0.45％。"
-    },
-    {
-      "id": "te:markets:553549",
-      "time": "2026-05-26 09:25:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "US Natural Gas Prices Hover Near 1-Week Low — US natural gas futures rose to $2.93 per MMBtu but remained near a one-week low as a milder weather outlook and rising inventories continued to weigh on prices. Temperatures are forecast to stay largely near seasonal norms through early June, reducing expectations for stronger power-sector demand. The latest EIA report showed energy firms injected 101 bcf of gas into storage in the week ending May 15, surpassing market expectations for a 95-bcf build and the five-year average increase of 92 bcf for the same period, reinforcing concerns about ample supply. Weaker feedgas demand from LNG export facilities added further pressure, with flows to major US terminals declining from a record 18.8 bcfd in April to around 17.0 bcfd in May due to seasonal maintenance at plants including Golden Pass LNG and Freeport LNG. Still, some positive sentiment emerged after reports indicated that three US LNG cargoes are expected to arrive in China in June, the first such deliveries since February 2025."
-    },
-    {
-      "id": "4899351",
-      "time": "2026-05-26 09:24:52",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行副行長：日本央行將繼續上調政策利率，並根據經濟活動、物價與金融狀況調整貨幣寬鬆程度。"
-    },
-    {
-      "id": "4899350",
-      "time": "2026-05-26 09:24:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "【海爾釋出AI運動外骨骼機器人】據海爾集團，5月26日，海爾釋出全球最輕AI運動外骨骼機器人——海爾外骨骼機器人W3，採用全碳纖維+鈦合金設計，1.75kg超輕機身，重新整理行業紀錄；搭載AI步態演算法3.0，內建多維感測器，毫秒級判斷運動意圖；大扭矩雙電機+高能量電池，單腿最大助力16N·m，減負約5kg。"
-    },
-    {
-      "id": "4899349",
-      "time": "2026-05-26 09:24:12",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行副行長：我們的經濟展望可能會因中東局勢而發生改變。"
-    },
-    {
-      "id": "4899348",
-      "time": "2026-05-26 09:23:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "【京東方A介紹公司玻璃基封裝載板、鈣鈦礦、光互聯相關業務進展】京東方A(000725)近日接受機構調研時介紹公司玻璃基封裝載板、鈣鈦礦、光互聯相關業務進展：玻璃基封裝載板業務方面，公司於2024年投資9.93億元建設玻璃基封裝載板試驗線。目前已給部分國內客戶送樣，部分客戶已透過概念認證，並進入技術測試階段。截至目前，公司還未實現批次生產，該業務尚未實現量產營收。鈣鈦礦業務方面，公司自2024年至今建設了手套箱（25mm*25mm）、實驗線（300mm*300mm）和中試線（1200*2400mm）三大平臺，採用剛性/柔性/疊層元件技術路線並行開發，三大研發平臺總投資近10億元。目前公司正持續相關產品技術開發，並與國內相關客戶開展壽命實證等工作。目前產品化程序以示範實證專案落地為主，尚未實現量產營收。光互連業務方面，公司下屬子公司於2023年投資建設MicroLED晶片生產線。目前公司下屬子公司的MicroLED光互聯晶片已產出相關樣品併為客戶送樣。截至目前，該業務尚未形成銷售收入。"
-    },
-    {
-      "id": "4899347",
-      "time": "2026-05-26 09:23:21",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行副行長平：在我們審議縮減購債計劃的過程中，我們將在聽取市場參與者意見的同時，評估債券市場形勢與市場功能。"
-    },
-    {
-      "id": "te:economy:553548",
-      "time": "2026-05-26 09:22:53",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Brunei",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Brunei Consumer Prices Rise for First Time Since October — Brunei’s consumer prices rose 0.1% year-on-year in April 2026, reversing a 0.1% decline in the prior month and marking the first inflationary reading since October last year. The uptick was driven partly by transport costs, which edged up 0.1% after a 0.4% fall previously. Price pressures also strengthened for food and non-alcoholic beverages (0.8% vs 0.6% in March), clothing and footwear (3.2% vs 2.3%), furnishings and household maintenance (0.8% vs 0.7%), health (0.4% vs 0.2%), and restaurants and hotels (0.5% vs 0.7%). Education inflation held steady at 0.3%. Meanwhile, several categories continued to record declines, including housing and utilities (-0.4% vs -0.3%), recreation and culture (-1.2% vs -2.2%), communication (-3.4% vs -3.5%), and miscellaneous goods and services (-0.5% vs -0.1%). On a monthly basis, consumer prices climbed 0.5%, rebounding from a 0.3% drop in March and marking the strongest monthly increase since December 2024."
-    },
-    {
-      "id": "4899346",
-      "time": "2026-05-26 09:22:26",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行副行長：日本央行將採取恰當的貨幣政策，以穩定、可持續地實現通脹目標。"
-    },
-    {
-      "id": "4899345",
-      "time": "2026-05-26 09:22:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華天科技：目前尚無自建或者收購基板企業的規劃】華天科技5月26日在互動平臺表示，公司與基板企業建立穩定供應關係，目前尚無自建或者收購基板企業的規劃。"
-    },
-    {
-      "id": "4899344",
-      "time": "2026-05-26 09:22:09",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "央行今日開展2490億元7天逆回購操作，投標量2490億元，中標量2490億元，操作利率為1.40%，與此前持平。"
-    },
-    {
-      "id": "4899343",
-      "time": "2026-05-26 09:22:00",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行副行長：市場認為長期利率上行反映出全球對通脹的擔憂。"
     }
   ]
 }
