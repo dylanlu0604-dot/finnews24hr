@@ -1,7 +1,118 @@
 {
-  "updated": "2026-06-03 07:22:52",
-  "count": 18502,
+  "updated": "2026-06-03 07:26:42",
+  "count": 18512,
   "items": [
+    {
+      "id": "4913771",
+      "time": "2026-06-03 07:25:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：據伊朗媒體報道，沙烏地阿拉伯傳出警報聲，儘管這些報道無法獨立核實。"
+    },
+    {
+      "id": "mkt:019e8aa7-f29c-733d-881c-3971c4f9ad5a",
+      "time": "2026-06-03 07:25:22",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Islamic Republic of Iran Broadcasting (IRIB) said alarm sirens sounded in Saudi Arabia."
+    },
+    {
+      "id": "4913770",
+      "time": "2026-06-03 07:24:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【聯合國敦促全球做好準備，應對厄爾尼諾帶來的極端高溫風險】6月2日，聯合國氣象機構預測，一場中等強度、甚至可能是強烈的厄爾尼諾現象（El Nino）正在形成，這可能會在未來幾個月內推高全球氣溫，並增加極端天氣發生的風險。世界氣象組織（WMO）表示，異常溫暖的海水正推動著厄爾尼諾的發展，並預計6-8月期間，全球大部分地區的氣溫將高於平均水平。該組織還補充稱，厄爾尼諾現象很有可能會一直持續到11月。"
+    },
+    {
+      "id": "4913769",
+      "time": "2026-06-03 07:24:25",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破96美元/桶，日內漲2.40%。"
+    },
+    {
+      "id": "4913768",
+      "time": "2026-06-03 07:24:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "財通證券給予東方電氣A股買進的初始評級。"
+    },
+    {
+      "id": "4913767",
+      "time": "2026-06-03 07:24:08",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【拜耳：儘管面臨訴訟威脅 但暫無重組計劃】拜耳公司一名代表週二表示，儘管公司正面臨關於其“農達”除草劑的訴訟雪崩，但目前尚無計劃剝離孟山都。該公司代表在接受媒體採訪時表示，公司重組雖可能是一個可行的選項，但目前尚無此計劃，公司當前的重點是提升業績並應對所面臨的訴訟浪潮。拜耳執行長安德森（Bill Anderson）重申了“農達”訴訟案對這家德國製藥和作物科學巨頭生產草甘膦類農藥構成的威脅。據該公司稱，涉及的原告約有10萬人。“如果草甘膦的訴訟問題得不到解決，美國就將不再生產草甘膦，”安德森表示。"
+    },
+    {
+      "id": "4913766",
+      "time": "2026-06-03 07:23:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲2%，現報95.64美元/桶。"
+    },
+    {
+      "id": "mkt:019e8aa6-3687-733d-881c-3187cd5f83f6",
+      "time": "2026-06-03 07:23:29",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver was down more than 1.0% intraday, trading at $74.36/oz."
+    },
+    {
+      "id": "4913765",
+      "time": "2026-06-03 07:23:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【多元投融資體系 協同助力城市更新】隨著《城市更新“十五五”規劃》的出爐，系列重點任務、重大工程將進入落地階段。專家認為，城市更新領域重大工程覆蓋面廣，將成為拉動內需的重要支撐，並帶動更多產業投資機遇和需求釋放。同時，財政、金融、社會資本三方聯動的多元投融資體系協同發力，為推進城市更新提供有力的資金保障。（中國證券報）"
+    },
+    {
+      "id": "te:economy:555869",
+      "time": "2026-06-03 07:22:43",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Industry Index",
+        "Importance 1"
+      ],
+      "text": "Australia Industry Conditions Remain Weak — Australia’s Industry Index edged down 1.0 point to -26.5 in May 2026, underscoring persistent industrial weakness amid an energy crisis and economic uncertainty. New orders plunged 6.3 points to -34.6, back to late-2024 lows, as firms cited delayed investment, thin pipelines, and cautious re-ordering. Input volumes fell 5.5 points, reflecting supply chain disruptions, transport bottlenecks, and high freight costs. Activity/sales stayed subdued at -32.6, while employment remained in contraction at -14.6 despite modest improvement, with uneven labor conditions marked by skill shortages and reduced hours. Cost pressures eased but remained heavy: input prices dropped 6.4 points to 63.1, sales prices slipped 2.4 points to 18.3, leaving margins strained. Meanwhile, wages rose 6.0 points to 43.6. Capacity utilisation eased to 75.7%, constrained by surging energy costs, raw material shortages, and regulatory hurdles, with weak investment and uncertainty expected to weigh further on conditions."
+    },
+    {
+      "id": "mkt:019e8aa5-55b4-733d-881c-2ec05279299f",
+      "time": "2026-06-03 07:22:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "WTI crude rose about 2.0% intraday to $97.21/bbl after reports of explosion sounds across multiple Middle Eastern countries."
+    },
+    {
+      "id": "4913764",
+      "time": "2026-06-03 07:22:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴林關閉其領空，禁止所有交通通行，至少持續到協調世界時（ UTC  ） 16:00。 該通知稱，巴林飛行情報區 (FIR) 對所有飛機關閉，僅有限例外情況適用於先前批准從巴林國際機場起飛的航班。"
+    },
     {
       "id": "4913763",
       "time": "2026-06-03 07:21:22",
@@ -169624,23 +169735,6 @@
         "國際"
       ],
       "text": "【美國加緊在肯亞設立隔離設施，服務接觸過埃博拉病毒的美國人】據知情人士透露，在剛果民主共和國爆發埃博拉疫情之際，特朗普政府預計將派遣美國公共衛生官員前往肯亞，為當地可能設立的一個隔離設施配備人員。這些知情人士表示，該設施主要目的是為該地區接觸過該病毒或檢測結果很可能呈陽性的美國人、以及檢測結果已呈陽性的美國人服務。截至週二，該設施正等待肯亞政府的批准。"
-    },
-    {
-      "id": "4901101",
-      "time": "2026-05-27 07:25:31",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【中泰證券：藥店板塊26Q1利潤端延續雙位數同比增長 關注Q2流感基數消除的加速回暖趨勢】中泰證券研報稱，2026年5月中旬，醫保局約談部分線下連鎖藥房公司，在消費提振承壓疊加強勢板塊資金分流影響，線下藥房近期股價表現仍較為承壓。從益豐估值覆盤視角看，當前~13X動態PE估值已接近24Q3的十年期歷史低點12.4X。我們認為藥房行業在26年業績同比向上的可靠程度較高，立足當前時點從歷史估值中樞及股息率視角看，藥房板塊兼具估值回暖的向上彈性和紅利防禦屬性，維持大參林、益豐藥房“買入”評級，建議關注老百姓、一心堂、健之佳等標的的觸底回暖表現。"
-    },
-    {
-      "id": "4901100",
-      "time": "2026-05-27 07:22:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "【29股股息率超4% 機構依然看好價值板塊中長期配置價值】在當下的市場環境中，價值板塊與成長板塊呈現出鮮明的風格對立與走勢分化。前者主要指代銀行、煤炭、白酒等傳統行業龍頭，其特徵是估值處於低位、分紅穩定，但業績增長相對平緩；後者則聚焦於人工智慧和半導體等高彈性、高估值的科技成長股。市場分析指出，近期價值板塊持續疲軟主要受兩大核心因素掣肘：一是市場風格的劇烈輪動。二是宏觀預期的邊際差。儘管宏觀經濟整體處於修復通道，但市場對白酒等傳統消費需求的復甦強度仍存分歧，疊加地產行業的深度調整，導致相關產業鏈資產的風險偏好下移。不過，也有機構依然看好價值板塊的中長期配置價值。在此市場格局下，穩定的高股息率已然成為價值板塊的核心估值錨與安全邊際。當前價值板塊個股股息率已處於較高水平。據證券時報·資料寶統計，A股市值超千億元的價值板塊個股中，共有29只個股年內股價回落，靜態股息率突破4%。其中，格力電器股息率表現突出，超過7%；中遠海控、瀘州老窖、華夏銀行等價值股股息率均超過6%。"
     }
   ]
 }
