@@ -1,7 +1,64 @@
 {
-  "updated": "2026-06-02 09:17:56",
-  "count": 17218,
+  "updated": "2026-06-02 09:21:47",
+  "count": 17222,
   "items": [
+    {
+      "id": "mkt:019e85eb-beca-7993-96fc-ff9966f71670",
+      "time": "2026-06-02 09:21:19",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Hong Kong stocks opened: HSI down 0.01%, Hang Seng Tech Index up 0.62%; Meituan (03690.HK) up 1.34% after reporting results."
+    },
+    {
+      "id": "4911603",
+      "time": "2026-06-02 09:21:12",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行今日開展2億元7天逆回購操作，投標量2億元，中標量2億元，操作利率為1.40%，與此前持平。"
+    },
+    {
+      "id": "mkt:019e85eb-9a34-7993-96fc-f0cf36b5487c",
+      "time": "2026-06-02 09:21:10",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "PBOC conducted a 7-day reverse repo today of 200 mln yuan; bids and allotment each amounted to 200 mln yuan, and the rate was 1.40%, unchanged."
+    },
+    {
+      "id": "te:markets:555520",
+      "time": "2026-06-02 09:20:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "New Zealand Dollar Falls for 2nd Day — The New Zealand dollar slipped to around $0.592 on Tuesday, extending its decline from the previous session as weakening risk sentiment outweighed support from expectations of higher interest rates. Investors remained cautious amid ongoing uncertainty surrounding a potential Middle East peace agreement, with conflicting signals from the US and Iran and renewed tensions near the Strait of Hormuz, raising concerns about prolonged geopolitical and trade disruptions. However, losses were tempered by expectations of tighter monetary policy following hawkish signals from the Reserve Bank of New Zealand. Markets are currently pricing in roughly an 80% chance of a rate hike in July and around 75 basis points of cumulative tightening over the year, equivalent to three quarter-point increases."
+    },
+    {
+      "id": "4911602",
+      "time": "2026-06-02 09:20:00",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【業內人士：蘋果考慮採用LG Display的新面板技術】LG Display正在開發一種名為高遷移率氧化物（HMO）的薄膜電晶體（TFT）背板技術，該技術將應用於第六代中小尺寸OLED。由於蘋果公司正在考慮將HMO作為下一代低功耗背板的候選材料，以取代低溫多晶氧化物（LTPO）TFT，LG Display已開始對該技術進行驗證。韓國業內人士推測，LG Display的HMO技術可能主要應用於Apple Watch等裝置中使用的OLED顯示屏。另外，蘋果並不傾向於獨家供貨，而是更傾向於雙渠道或三渠道供貨策略。(藍鯨新聞)"
+    },
+    {
+      "id": "4911601",
+      "time": "2026-06-02 09:17:35",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國：如果外國公司使用85%的美國鋼材，則可享受10%的關稅稅率。"
+    },
     {
       "id": "mkt:019e85e8-1164-7993-96fc-ec66218c1c59",
       "time": "2026-06-02 09:17:18",
@@ -157207,23 +157264,6 @@
         "國際"
       ],
       "text": "日本央行副行長：市場認為長期利率上行反映出全球對通脹的擔憂。"
-    },
-    {
-      "id": "em:qqyh_zgyh:202605263749011574",
-      "time": "2026-05-26 09:21:34",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "央行今日開展2490億元7天逆回購操作，操作利率為1.40%，與此前持平。"
-    },
-    {
-      "id": "4899342",
-      "time": "2026-05-26 09:18:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "【工信部：前4個月移動網際網路累計流量達1420億GB 同比增長18.5%】工信部5月25日釋出2026年前4個月通訊業經濟執行情況，移動網際網路流量較快增長，4月DOU值處於高位。前4個月，移動網際網路累計流量達1420億GB，同比增長18.5%。截至4月末，移動網際網路使用者數達16.24億戶，比上年末淨增1416萬戶。4月當月戶均移動網際網路接入流量（DOU）達到23.17GB/戶·月，同比增長13.5%，比上年底高0.13GB/戶·月。"
     }
   ]
 }
