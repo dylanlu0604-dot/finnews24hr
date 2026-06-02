@@ -1,7 +1,106 @@
 {
-  "updated": "2026-06-02 22:58:00",
-  "count": 18140,
+  "updated": "2026-06-02 23:02:02",
+  "count": 18146,
   "items": [
+    {
+      "id": "mkt:019e88da-8020-7ccc-bd1f-09dbd3cf346e",
+      "time": "2026-06-02 23:01:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Denmark's central bank said it did not intervene in the foreign exchange market in May."
+    },
+    {
+      "id": "mkt:019e88da-63f5-7ccc-bd1f-03260bd6d375",
+      "time": "2026-06-02 23:01:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources: Despite doubts about the prospects of an $1.8 billion fund, President Trump will still be granted an audit exemption."
+    },
+    {
+      "id": "mkt:019e88da-5dd4-7ccc-bd1e-fa72659cda3e",
+      "time": "2026-06-02 23:01:12",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Vitol says Europe, US underestimating oil supply shortfall】Vitol’s Middle East senior managers said many Western governments remain insufficiently aware of tightening global oil supply after the Strait of Hormuz was blocked. Vitol board member Tom Baker said, “In Europe and the US everyone seems oblivious and are just carrying on as normal.” Crude has risen toward $100/bbl while refined products—gasoline, diesel and jet fuel—have posted larger price gains and volatility, depressing demand in many developing countries, notably parts of Asia and Africa. Vitol estimates global oil demand will decline by about 4 mln b/d. Some buyers have delayed purchases hoping the Iran-related conflict will be resolved and push prices lower."
+    },
+    {
+      "id": "4913298",
+      "time": "2026-06-02 23:01:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：即便18億美元基金存疑，特朗普仍將獲得審計豁免權。"
+    },
+    {
+      "id": "mkt:019e88d9-f8ee-7ccc-bd1e-f415d6235189",
+      "time": "2026-06-02 23:00:46",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Bank of England Governor Bailey said the central bank is moving along a preset path toward an equilibrium level of reserves and that this could be achieved within one to two years."
+    },
+    {
+      "id": "4913297",
+      "time": "2026-06-02 23:00:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國衛生安全域性（UKHSA）：英國境內確診安第斯漢坦病毒病例的接觸者自我隔離期現已縮短至42天。"
+    },
+    {
+      "id": "te:markets:555814",
+      "time": "2026-06-02 23:00:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Brazilian Real Appreciates by 0.60% — Top currency gainers are Brazilian Real (0.60%), Mexican Peso (0.53%), Australian Dollar (0.36%), British Pound (0.13%) and Euro (0.10%). Biggest losers are Japanese Yen (-0.13%) and Dollar Index (-0.08%)."
+    },
+    {
+      "id": "4913296",
+      "time": "2026-06-02 23:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】瀝青連續跌2.27%，20號膠連續漲1.66%，燃料油連續跌1.20%，液化石油氣連續跌0.94%，PVC連續跌0.93%。"
+    },
+    {
+      "id": "4913295",
+      "time": "2026-06-02 23:00:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴西總統盧拉：我與特朗普在華盛頓的會晤很成功，這惹惱了博索納羅家族。"
+    },
+    {
+      "id": "te:markets:555813",
+      "time": "2026-06-02 22:57:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "WTI Wavers as Markets Assess US-Iran Peace Prospects — WTI crude oil futures fluctuated around $92 per barrel on Tuesday after surging 5.5% in the previous session, as traders weighed conflicting signals over the prospects for a US-Iran peace agreement. Iranian news agencies raised doubts about progress in negotiations, despite President Donald Trump stating a day earlier that talks were continuing. Trump said a memorandum of understanding to reopen the Strait of Hormuz could be reached within the next week, although several issues still need to be resolved. Uncertainty surrounding a possible extension of the ceasefire and the future of shipping through Hormuz has kept oil markets volatile after prices fell sharply last month on hopes for a breakthrough. Adding to the uncertainty, Trump and Israeli Prime Minister Benjamin Netanyahu gave differing accounts of discussions on Lebanon, while Lebanese officials said negotiations aimed at expanding a US-brokered ceasefire are continuing this week."
+    },
+    {
+      "id": "4913293",
+      "time": "2026-06-02 22:57:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "【阿斯麥股價續刷記錄新高 總市值報6500億美元】阿斯麥股價上漲4.3%，報1698.53美元/股，續刷記錄新高，總市值報6546億美元。"
+    },
     {
       "id": "mkt:019e88d6-c4e1-7ccc-bd1e-ef7156e47b4d",
       "time": "2026-06-02 22:57:14",
@@ -166181,50 +166280,6 @@
         "國際"
       ],
       "text": "【荷蘭央行行長：歐洲央行將“竭盡所能”確保通貨膨脹降至目標】歐洲央行管理委員會成員Olaf Sleijpen表示，歐洲央行將採取一切必要措施，使消費者物價增速回落至目標水平，官員們在6月政策會議召開時將掌握比目前更多的資訊。“歐洲央行當然會竭盡所能，確保通脹迴歸到價格穩定的水平。”這位荷蘭央行行長週二在阿姆斯特丹表示。政策制定者下個月進行討論時將“掌"
-    },
-    {
-      "id": "4900830",
-      "time": "2026-05-26 23:00:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國際生命健康企業海南行合作交流會舉行，馮飛、奚國華致辭，劉小明、張文武出席】5月26日，對話自貿港・健康新全球——國際生命健康企業海南行合作交流會在海口舉行，省委書記馮飛、中信集團董事長奚國華致辭，省長劉小明作海南自由貿易港政策推介，中信集團總經理張文武等出席。馮飛代表海南省委、省政府歡迎各位嘉賓。他表示，建設海南自由貿易港，是習近平主席親自謀劃、親自部署、親自推動的重大國家戰略。封關運作以來，物暢其流、人享其行、流量聚集等成效初顯，海南正成為中國對外開放的新前沿、地區互利合作的新熱土、推動經濟全球化的新引擎。海南高度重視發展生命健康產業，願與全球夥伴圍繞醫療旅遊、生態康養等消費場景，打造全球知名的獨特功能性旅遊承載地；歡迎全球醫藥企業和科研機構將最前沿的創新健康產品、先進醫學技術帶到樂城先行先試，共同構建全球醫藥創新轉化的“快車道”；期待與全球企業共享開放機遇，在生物醫藥高階製造、國際專案生產轉化等領域開展深度合作，共同打造面向全球的健康產業叢集，共譜雙向奔赴、互利共贏的合作新篇章。（海南釋出）"
-    },
-    {
-      "id": "te:markets:553812",
-      "time": "2026-05-26 23:00:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: South Korean Won Rises by 0.55% — Top currency gainer is South Korean Won (0.55%). Biggest losers are New Zealand Dollar (-0.54%), Turkish Lira (-0.52%), Swedish Krona (-0.45%), British Pound (-0.42%), Japanese Yen (-0.26%), Euro (-0.16%) and Dollar Index (-0.06%)."
-    },
-    {
-      "id": "4900829",
-      "time": "2026-05-26 23:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【夜盤期貨收盤】焦炭連續跌2.00%，燃料油連續漲1.61%，低硫燃料油連續漲1.56%，焦煤連續跌1.48%，瀝青連續漲1.23%。"
-    },
-    {
-      "id": "4900828",
-      "time": "2026-05-26 22:59:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "【美銀：上調思科和Ciena目標價，維持“買入”評級】美銀將思科的目標價從114美元上調至135美元，將Ciena的目標價從550美元上調至660美元，理由是人工智慧基礎設施的快速擴張推動高速光網路裝置需求大幅攀升，維持“買入”評級。"
-    },
-    {
-      "id": "4900827",
-      "time": "2026-05-26 22:58:49",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國《華爾街日報》26日援引美軍官的話報道稱，美國海軍“已重新開始協助船隻”透過霍爾木茲海峽。（新華社）"
     }
   ]
 }
