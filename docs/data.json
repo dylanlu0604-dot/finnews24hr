@@ -1,7 +1,87 @@
 {
-  "updated": "2026-06-02 13:18:05",
-  "count": 17351,
+  "updated": "2026-06-02 13:22:06",
+  "count": 17357,
   "items": [
+    {
+      "id": "mkt:019e86c5-d432-7dd4-a7a7-9bb3607260a8",
+      "time": "2026-06-02 13:19:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "Benchmark Japanese 10-year government bond futures rose 0.81 points following a strong 10-year JGB auction."
+    },
+    {
+      "id": "4911914",
+      "time": "2026-06-02 13:19:24",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【印度金融犯罪調查機構搜查了韋丹塔資源集團的辦公場所】據印度《經濟時報》援引官員訊息，印度金融犯罪調查機構週二突擊搜查了韋丹塔資源集團相關經營場所。報道稱，印度執法局依據《印度外匯管理法》立案調查，並開展本次搜查行動。目前涉案違規細節尚未披露。"
+    },
+    {
+      "id": "4911913",
+      "time": "2026-06-02 13:19:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超2萬億元，較上日此時縮量1268億元。"
+    },
+    {
+      "id": "mkt:019e86c5-31ae-7dd4-a7a7-9631017ddf6a",
+      "time": "2026-06-02 13:18:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Honeywell unit Quantinuum signs non-binding MoU with Mitsubishi Electric on quantum computing】Quantinuum, Honeywell’s quantum computing unit, has signed a non-binding memorandum of understanding with Mitsubishi Electric to establish a strategic partnership framework aimed at accelerating quantum computing applications in advanced industrial engineering and design."
+    },
+    {
+      "id": "4911912",
+      "time": "2026-06-02 13:17:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【Salesforce對Anthropic的投資估值約為50億美元】當地時間6月1日，據報道，Salesforce對Anthropic的投資估值約為50億美元。知情人士透露，Salesforce最早於2023年初參與Anthropic融資，投資金額約為5000萬美元，此後持續參與其後續融資輪次。"
+    },
+    {
+      "id": "mkt:019e86c4-4df2-7dd4-a7a7-8c8275608db4",
+      "time": "2026-06-02 13:17:40",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields"
+      ],
+      "text": "Japan's 10-year government bond yield fell 10 bps to 2.580%."
+    },
+    {
+      "id": "mkt:019e86c4-493e-7dd4-a7a7-86702dcb113e",
+      "time": "2026-06-02 13:17:38",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China A-share semiconductor sector traded higher after choppy moves; Yutaiwei hit the daily up-limit, while Yuanjie Technology, Jiangfeng Electronics and Jiehuate were among the top gainers."
+    },
+    {
+      "id": "4911911",
+      "time": "2026-06-02 13:17:35",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【韓國簡化極紫外光刻機進口審批流程】韓國產業通商資源部在一份宣告中表示，為助力本土蓬勃發展的晶片產業維繫競爭力，韓國將簡化半導體生產所用極紫外（EUV）光刻機的進口通關手續。根據內閣批准的修訂版《高壓氣體安全控制法》實施細則，EUV 裝置進口辦理週期將從此前的34天縮短至約9天。韓國產業部表示，此項新政將利好三星電子與 SK 海力士，兩家企業可更快完成高階晶片生產裝置的裝機投產。"
+    },
     {
       "id": "4911910",
       "time": "2026-06-02 13:17:06",
@@ -158693,23 +158773,6 @@
         "公司"
       ],
       "text": "【地平線徐健：拆分成立機器人公司，實現汽車“母生態”溢位效應】“我們希望從汽車出發通向一切，即汽車‘母生態’實現溢位效應。”日前，地平線首席生態官徐健在2026中國汽車論壇同濟大學專場上向等媒體記者透露，地平線已拆分成立“地瓜機器人”公司。 記者獲悉，地瓜機器人明確不做機器人本體，而是定位為機器人軟硬體通用底座提供商——為各類機器人提供晶片、演算法和軟體開發平臺。 2026年4月，地瓜機器人宣佈完成1.5億美元B2輪融資，B輪累計融資額達2.7億美元。公開資料顯示，地瓜機器人迄今總計推出超百款機器人產品。2025年，地瓜機器人年出貨量同比大幅增長180%，客戶數量同比增長200%，頭部客戶實現了從成熟消費級品類到前沿具身智慧機器人的全領域覆蓋。（中國經營報）"
-    },
-    {
-      "id": "4899657",
-      "time": "2026-05-26 13:20:14",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "花旗集團將力拓目標股價從7200便士上調至7600便士。"
-    },
-    {
-      "id": "4899656",
-      "time": "2026-05-26 13:19:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中國海警依法驅離日非法進入我釣魚島領海船隻】中國海警局新聞發言人姜略表示，5月26日，日本“獅子”號漁船非法進入中國釣魚島領海，中國海警艦艇依法對其採取必要管控措施並警告驅離。釣魚島及其附屬島嶼是中國固有領土，我們敦促日方立即停止在該海域的一切侵權挑釁行徑。中國海警將持續在釣魚島海域開展維權執法，維護國家主權和海洋權益。"
     }
   ]
 }
