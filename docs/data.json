@@ -1,7 +1,55 @@
 {
-  "updated": "2026-06-02 11:14:19",
-  "count": 17270,
+  "updated": "2026-06-02 11:18:14",
+  "count": 17268,
   "items": [
+    {
+      "id": "4911780",
+      "time": "2026-06-02 11:16:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表辦公室提議，除已適用第232條款國家安全關稅的商品外，對來自巴西的所有進口商品徵收25%的關稅。"
+    },
+    {
+      "id": "4911779",
+      "time": "2026-06-02 11:16:02",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "韓國斗山集團股價暴跌16%。"
+    },
+    {
+      "id": "4911778",
+      "time": "2026-06-02 11:15:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星重工將為北美客戶建造一艘浮式液化天然氣裝置，預計2030年前完工。"
+    },
+    {
+      "id": "mkt:019e8654-a0e1-7448-8816-037e32e84eb8",
+      "time": "2026-06-02 11:15:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "The U.S. Trade Representative's office proposed a 25% tariff on all imports from Brazil, excluding goods already subject to Section 232 national-security tariffs."
+    },
+    {
+      "id": "4911777",
+      "time": "2026-06-02 11:14:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【協鑫集團董事長朱共山：光伏產業正規化革命的下半場是“向天借地”的太空能源】6月2日，在第十九屆（2026）國際太陽能光伏和智慧能源&儲能和電池（上海）大會暨展覽會開幕式上，協鑫集團董事長朱共山表示，光伏產業正規化革命的下半場，是“向天借地”的太空能源。他認為，如果說光伏產業正規化革命的上半場是瓦特與位元的共生，下半場則是材料與航天的共舞。具體而言，能源採集將脫離大氣層的過濾與地表的晝夜迴圈，在近乎理想的宇宙環境中，進行一場更近距離的光合作用。可重複使用火箭持續壓低發射成本，巨型商業星座創造規模化需求，將太空光伏推向工程經濟學範疇。鈣鈦礦/疊層技術相關驗證取得突破，工程可靠性驗證、批次化製造與系統成本最佳化正持續向前，其耐輻射封裝一旦過關，有望在五到十年內切入太空應用序列。未來，“發-輸-配-用”的線性鏈條，被壓縮為天地能量的點對點投送。天基電站“無線定投”，打破地理枷鎖，抵達偏遠基地、島礁與應急節點，省去千里輸電長廊。算電協同在太空達到極致，能量即產即用，算力當即產生。"
+    },
     {
       "id": "4911776",
       "time": "2026-06-02 11:12:25",
@@ -157780,71 +157828,6 @@
         "原創"
       ],
       "text": "【三星成韓國負債最多企業集團】韓國金融監管機構週二表示，三星已成為韓國負債最多的企業集團，到2025年底總負債超過了SK集團。晶片製造商SK海力士的母公司SK集團排名落至第三位，現代汽車排名第二；之後是樂天第四，LG第五。總體而言，共有42家企業集團被認定為高負債企業，上一年為41家。截至去年底，這些集團的銀行信貸未償餘額為386.9萬億韓元（2,550億美元），比上年增長4.1%。"
-    },
-    {
-      "id": "4899547",
-      "time": "2026-05-26 11:17:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿達尼綠色能源：計劃在2027財年新增超過10吉瓦時的電池儲能容量。"
-    },
-    {
-      "id": "te:economy:553597",
-      "time": "2026-05-26 11:17:11",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Brunei",
-        "Balance of Trade",
-        "Importance 1"
-      ],
-      "text": "Brunei Trade Surplus Hits 4-Month High — Brunei’s trade surplus widened to BND 597.0 million in March 2026 from BND 491.7 million in the same month a year earlier, marking the largest amount since last October. Exports surged 32.7% yoy to BND 1.66 billion, the highest level in over three years, boosted by strong gains in mineral fuels (34.1%) and chemicals (30.5%). Australia remained the largest export destination, accounting for 31.2% of total shipments, followed by China (14.2%), Singapore (14.2%), Japan (6.4%), and India (6.2%). Meanwhile, imports climbed 40.0% to BND 1.06 billion, mainly driven by a sharp rise in mineral fuel purchases (57.4%). Singapore was the top source of imports, supplying 52.4% of total inbound shipments, ahead of Australia (14.3%), Malaysia (11.2%), Vietnam (4.3%), China (3.2%), and the U.S. (1.8%). For the first quarter of 2026, trade surplus edged higher to BND 1.57 billion from BND 1.46 billion in the same period last year, as exports increased 4.9% while imports rose at a slower rate of 3.1%."
-    },
-    {
-      "id": "te:markets:553596",
-      "time": "2026-05-26 11:16:34",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Platinum Pressured Near 3-Week Lows — Platinum futures traded around $1,950 an ounce, hovering near three-week lows as heightened uncertainty in the Middle East kept inflation risks elevated. Even as negotiations proceeded, US forces conducted strikes in southern Iran in what it described as defensive actions, dimming hopes of a potential peace deal. This sent oil prices higher, fueling inflation concerns and reinforced expectations that central banks could maintain tighter monetary policy for longer. Meanwhile, platinum draws support from its favorable supply-demand outlook. Strong demand from China, particularly following the launch of a new domestic platinum futures contract, has reinforced investor interest in the metal. The market also remains structurally tight, with output in major suppliers South Africa and Russia constrained by aging mines, high operating costs, and sanctions-related challenges. Expectations of solid industrial demand from the automotive sector, further added support."
-    },
-    {
-      "id": "4899546",
-      "time": "2026-05-26 11:16:15",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【與主流預期唱反調！貝萊德：美聯儲有充分理由選擇降息】儘管近來市場對美聯儲年內加息的預期高漲，但貝萊德亞太區全球固定收益主管Navin Saigal卻與主流預期“唱反調”地表示，在新任主席凱文·沃什的領導下，美聯儲可能有充分理由選擇降息而非加息。“如果非要我在這兩者之間做出選擇，我認為實際上存在足夠的因素支援降息，”Saigal在回答關於沃什任內加息可能性的提問時表示。“從未來展望來看，(美國)勞動力市場將面臨一定壓力，這可能意味著按兵不動或降息，”他補充道。Saigal的言論與債券投資者近來的預期，可以說形成了鮮明對比——後者押注沃什將優先維護美聯儲抗通脹的公信力，而非順應特朗普總統降低利率的意願。利率交易員目前的定價顯示，美聯儲幾乎肯定會在12月底前加息，這與僅僅三個月前市場預期將進一步降息的局面形成了急劇反轉。"
-    },
-    {
-      "id": "4899545",
-      "time": "2026-05-26 11:16:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家藥監局：深化審評審批制度改革，激發醫藥產業創新活力】5月25日，國家藥監局黨組書記、局長黃果主持召開局黨組理論學習中心組集體（擴大）學習會議。會議強調，要堅持標準先行，夯實藥品安全源頭根基；堅持嚴管嚴控，織密全域全程監管網路；堅持重拳整治，嚴厲打擊違法違規行為。以改革創新賦能醫藥產業高質量發展。深化審評審批制度改革，激發醫藥產業創新活力；創新監管方式方法，不斷提升監管效能；完善中藥科學監管體系，推動中藥傳承創新發展。以系統觀念完善藥品安全責任體系。壓緊壓實企業主體責任、地方屬地責任、部門監管責任、社會共治責任，最廣泛凝聚藥品安全治理合力。"
-    },
-    {
-      "id": "4899544",
-      "time": "2026-05-26 11:15:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "【通訊網路裝置及器件板塊持續走低】通訊網路裝置及器件板塊持續走低，美利信跌超11%，三旺通訊、光庫科技、仕佳光子、德科立等跟跌。"
-    },
-    {
-      "id": "4899543",
-      "time": "2026-05-26 11:14:43",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "韓國財政部週二表示，韓國計劃加強對跨境加密貨幣交易的監管，以遏制非法活動。"
     }
   ]
 }
