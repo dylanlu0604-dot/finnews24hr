@@ -1,7 +1,128 @@
 {
-  "updated": "2026-06-03 01:40:06",
-  "count": 18383,
+  "updated": "2026-06-03 01:44:07",
+  "count": 18394,
   "items": [
+    {
+      "id": "mkt:019e896e-3ab4-7779-8aac-b9d67bbb4900",
+      "time": "2026-06-03 01:42:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O"
+      ],
+      "text": "Microsoft (MSFT.O) CEO launched a technology to enable OpenClaw to run smoothly on Windows."
+    },
+    {
+      "id": "4913549",
+      "time": "2026-06-03 01:42:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "貿易商稱，摩洛哥計劃自8月1日起暫停徵收軟小麥關稅。"
+    },
+    {
+      "id": "mkt:019e896d-cf4c-7779-8aac-b33c9b3b678f",
+      "time": "2026-06-03 01:42:15",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "IAEA Director General Grossi said many nuclear activities previously carried out by Iran have now stopped."
+    },
+    {
+      "id": "4913548",
+      "time": "2026-06-03 01:42:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：很高興能在白宮橢圓辦公室接見弗拉維奧·博索納羅。\n注：弗拉維奧·博索納羅（Flávio Bolsonaro）是巴西前總統雅伊爾·博索納羅的長子，目前為巴西聯邦參議員。"
+    },
+    {
+      "id": "mkt:019e896d-af30-7779-8aac-abc47026e09e",
+      "time": "2026-06-03 01:42:02",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "WTI"
+      ],
+      "text": "IAEA Director-General Grossi said the assessment of Iran's nuclear program has fundamentally changed because we are in a state of war and the program has become a target of strikes."
+    },
+    {
+      "id": "4913547",
+      "time": "2026-06-03 01:41:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國醫療保險和醫療補助服務中心（CMS）負責人奧茲談特朗普的最新體檢：如果你看這些記錄，它們非常出色。他的膽固醇、血壓——所有數字當然都在極佳的引數範圍內。"
+    },
+    {
+      "id": "mkt:019e896c-e1ab-7779-8aac-a742d5487f7d",
+      "time": "2026-06-03 01:41:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Ukraine's President Zelenskiy said Russia may launch a new large-scale attack on Tuesday evening."
+    },
+    {
+      "id": "mkt:019e896c-9efb-7779-8aac-9aefc2332919",
+      "time": "2026-06-03 01:40:57",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Zelenskiy said deliveries of air‑defence weapons cannot keep pace with Russia's missile attacks."
+    },
+    {
+      "id": "mkt:019e896c-453f-7779-8aac-9301acfc2b6a",
+      "time": "2026-06-03 01:40:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said he was pleased to receive Flavio Bolsonaro in the White House Oval Office."
+    },
+    {
+      "id": "4913546",
+      "time": "2026-06-03 01:40:18",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "微軟執行長宣佈推出可讓OpenClaw在Windows系統上順暢執行的技術支援方案。"
+    },
+    {
+      "id": "4913545",
+      "time": "2026-06-03 01:40:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "國際原子能機構總幹事格羅西表示，伊朗此前開展的諸多核活動現已停止。"
+    },
+    {
+      "id": "4913544",
+      "time": "2026-06-03 01:39:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "國際原子能機構總幹事格羅西：對伊朗核計劃的評估已發生根本性轉變，原因是我們正處於戰爭狀態，且該核計劃已成為攻擊目標。"
+    },
     {
       "id": "4913543",
       "time": "2026-06-03 01:39:12",
@@ -168436,14 +168557,6 @@
         "市場"
       ],
       "text": "沃爾沃ADR股價升至盤中高點，漲幅高達3.4%。"
-    },
-    {
-      "id": "4900914",
-      "time": "2026-05-27 01:42:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國疾控中心召集員工志願參與機場埃博拉篩查】隨著剛果民主共和國和烏干達的致命病毒疫情持續加劇，美國疾病控制與預防中心（CDC）正向其內部員工徵集志願者，以協助在國內機場開展埃博拉病毒篩查。美國CDC意在擴大針對國際旅客的篩查能力，並已將“CDC準備就緒應急響應者”（CDCReady Responders）列為此次機場篩查的優先動員物件。篩查流程將包括對乘客進行簡短的問卷調查和體溫檢測，出現症狀的人員將接受進一步評估，以判定其所患疾病是否可能為埃博拉。"
     }
   ]
 }
