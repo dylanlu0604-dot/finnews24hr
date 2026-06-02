@@ -1,7 +1,63 @@
 {
-  "updated": "2026-06-02 12:16:31",
-  "count": 17323,
+  "updated": "2026-06-02 12:20:30",
+  "count": 17324,
   "items": [
+    {
+      "id": "4911856",
+      "time": "2026-06-02 12:18:49",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4540美元/盎司，日內漲0.77%。"
+    },
+    {
+      "id": "4911855",
+      "time": "2026-06-02 12:17:51",
+      "tags": [
+        "資料",
+        "市場",
+        "國際"
+      ],
+      "text": "印度尼西亞5月核心消費者物價指數（CPI）同比上漲2.59%，調查預期為上漲2.52%。"
+    },
+    {
+      "id": "mkt:019e868d-3bbf-7663-9953-aa8cddae0998",
+      "time": "2026-06-02 12:17:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【NASA: New England fireball caused by meteor breakup】NASA said the sonic boom and fireball observed over New England on May 30 were caused by a meteor breaking up on atmospheric entry. The agency estimated the object was about 1.6 m in diameter, roughly 5.6 tonnes in mass, and entered the atmosphere at about 68,000 km/h at approximately 14:00 ET on May 30 (02:00 Beijing May 31)."
+    },
+    {
+      "id": "4911854",
+      "time": "2026-06-02 12:17:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【天津最佳化調整12條重點產業鏈】天津日報訊息，在2026世界智慧產業博覽會相關活動中，天津市工業和資訊化局向外界釋出天津市市調整最佳化後的12條重點產業鏈，突出產業支撐、分類施策、兩業融合，有力支撐全市現代化產業體系建設。2026年前4個月，12條重點產業鏈規模以上企業數量達到5213家，其中，工業企業4613家，產值達到5968億元，增加值同比增長6%，拉動全市工業增長5.2個百分點，佔規模以上工業比重87.5%，支撐作用進一步提升。"
+    },
+    {
+      "id": "mkt:019e868c-7bcd-7663-9953-a7c73e8a5d8e",
+      "time": "2026-06-02 12:16:54",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Chip Wars",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O"
+      ],
+      "text": "【NVIDIA's Huang says N2X, N3X in development】On June 1 NVIDIA (NVDA.O) launched RTX Spark (N1X), a PC superchip targeted at Windows PCs, marking the company’s formal push into the PC primary-processor market. CEO Jensen Huang said N1X is a long-term platform architecture; NVIDIA plans a smaller N1 variant and has N2X and N3X on its development roadmap. The series will be marketed as an integrated full‑stack compute platform, with ongoing iterative upgrades and software‑ecosystem enhancements to broaden use cases and improve AI‑PC performance."
+    },
+    {
+      "id": "4911853",
+      "time": "2026-06-02 12:16:44",
+      "tags": [],
+      "text": "【創業板50ETF華安（159949）早盤漲2.61％成交15.7億！英偉達Rubin平臺引爆PCB價值量翻倍，算力硬體迎增量紅利】6月2日訊息，滬指探底回升，創指漲超2％。受此帶動，創業板50ETF華安（159949）早盤漲2.61％，報1.968元，換手率6.29％，成交額15.71億元，居同類標的ETF首位。資金流向上，創業板50ETF華安（159949）近期已由流出轉為流入。近60個交易日資金淨流入27.7億元，但近20個交易日資金淨流入7.7億元，近10個交易日資金淨流入9.6億元。截止2026年6月1日，該ETF流通規模為246.51億元。訊息面上，英偉達下一代Rubin平臺推動單機PCB價值量翻增超兩倍。算力升級，正從“單顆晶片”走向“整櫃系統硬體”。PCB、HBM儲存、MLCC、高速交換機晶片等外圍配套硬體，成為AI基礎設施升級的核心增量環節。機構指出，算力板塊長期演進邏輯並未動搖，隨著時間進入6月，2027年光模組需求預期正加速明朗，而此前制約交付的上游核心器件缺料問題也逐步迎來改善拐點，龍頭廠商的產能與業績彈性有望加速釋放。招商證券指出，當前A股已進入盈利驅動的上行階段，預計6月指數將呈“震盪上行、高點抬升”格局。配置應聚焦於資源品、AI算力鏈及出口製造等業績確定性較強的方向。國泰海通釋出研報稱，本輪行情與歷史週期存在顯著差異，行業的定價核心正從傳統的地產基建需求拉動，全面轉向“新能源H＋AI“的結構性需求重塑與供給端剛性約束的共振。投資者可直接透過股票賬戶交易創業板50ETF華安（159949），也可透過聯接基金（A類：160422；C類：160424；I類：022654；Y類：022976）參與。"
+    },
     {
       "id": "4911852",
       "time": "2026-06-02 12:15:55",
@@ -158373,49 +158429,6 @@
         "其他"
       ],
       "text": "【深圳“十五五”規劃綱要：試點資料跨境流動清單管理制度】《深圳市國民經濟和社會發展第十五個五年規劃綱要》釋出。其中提出，探索構建資料安全有序跨境流動長效機制，試點資料跨境流動清單管理制度，在金融保險、商貿物流、碳足跡管理等領域培育建設跨境可信資料空間。"
-    },
-    {
-      "id": "4899608",
-      "time": "2026-05-26 12:18:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "【深圳“十五五”規劃綱要：適度超前建設新型基礎設施 統籌推進物聯網、工業網際網路、衛星網際網路、萬兆光網、跨境光纜通道建設】《深圳市國民經濟和社會發展第十五個五年規劃綱要》釋出。其中提出，加大資訊網、算力網、新一代能源網、城市感知網、創新設施試驗場“四網一場”投資，打造適配產業發展需求的基礎設施網路。統籌推進物聯網、工業網際網路、衛星網際網路、萬兆光網、跨境光纜通道建設，完善跨境資料流通公共基礎設施。打造“超算+智算+邊緣計算”算力一張網。推動國產作業系統、國產人工智慧軟硬體生態以及自主可控數字孿生等與交通、物流、能源、生態環保、水務、應急、公共服務等深度融合，推進傳統基礎設施更新和數智化改造，打造數實融合的城市感知網。建設一批前沿技術和共性基礎技術供給平臺，打造世界級重大科技基礎設施叢集。"
-    },
-    {
-      "id": "te:markets:553611",
-      "time": "2026-05-26 12:17:22",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Copper Eases on Middle East Uncertainty — Copper futures slipped below $6.4 per pound on Tuesday, trimming gains from the prior session as elevated uncertainty in the Middle East kept inflation and interest rate concerns in focus. The US military reportedly targeted missile launch sites and vessels suspected of attempting to deploy mines in southern Iran, though President Donald Trump said talks with Tehran were progressing well. Despite the pullback, copper prices remain underpinned by the strong rally in AI-related technology stocks since the start of May, supporting expectations for rising demand tied to electrification and data center wiring requirements. Additional support also comes from the global shift toward clean energy, which is expected to sustain longer-term copper consumption. Meanwhile, supply-side concerns linked to the Middle East conflict, particularly potential shortages of sulfur used in copper smelting, continue to lend underlying price support."
-    },
-    {
-      "id": "4899607",
-      "time": "2026-05-26 12:17:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【武契奇說沒學中文是最大遺憾 】今天（5月26日）上午，正在訪華的塞爾維亞總統武契奇訪問清華大學。在接受記者提問時，武契奇表示，沒學中文是他最大的遺憾，好在他的小兒子目前正在學習中文。（ CCTV國際時訊  ）"
-    },
-    {
-      "id": "4899606",
-      "time": "2026-05-26 12:16:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【拓維資訊董事會透過免去宋雋逸董事職務議案】拓維資訊公告，為進一步完善公司治理，提升公司規範運作水平，董事會同意向股東會提請免去宋雋逸先生的董事職務。本議案已經公司董事會提名委員會審議透過，尚需提交股東會審議。"
-    },
-    {
-      "id": "4899605",
-      "time": "2026-05-26 12:16:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "【深圳“十五五”規劃綱要：推動人工智慧賦能千行百業】《深圳市國民經濟和社會發展第十五個五年規劃綱要》釋出。其中提出，深入實施“人工智慧+”行動，以更大力度場景開放推動人工智慧在產業、科技、民生和城市治理等領域全面滲透。推動“人工智慧+先進製造”融合，構建高度自主化、深度柔性化、全域性高效化新一代製造系統技術底座，打造“設計即製造、製造即智慧、製造即服務”的未來製造新模式。"
     }
   ]
 }
