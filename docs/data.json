@@ -1,7 +1,53 @@
 {
-  "updated": "2026-06-02 13:06:11",
-  "count": 17347,
+  "updated": "2026-06-02 13:10:12",
+  "count": 17348,
   "items": [
+    {
+      "id": "4911900",
+      "time": "2026-06-02 13:08:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【量子計算公司Quantinuum與三菱電機達成量子計算合作協議】當地時間6月1日，霍尼韋爾旗下量子計算公司Quantinuum宣佈與三菱電機簽署了一份不具約束力的諒解備忘錄，雙方將建立戰略合作伙伴關係，共同開發量子計算應用。此次合作的目標應用領域包括工廠自動化、能源公用事業以及樓宇系統等。"
+    },
+    {
+      "id": "mkt:019e86bb-1358-7dd4-a7a7-66bb53978516",
+      "time": "2026-06-02 13:07:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Statistics Indonesia said foreign tourist arrivals in Indonesia in April rose 7.22% YoY."
+    },
+    {
+      "id": "4911899",
+      "time": "2026-06-02 13:07:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度尼西亞統計局資料顯示，該國4月外國入境遊客人數同比增長7.22%。"
+    },
+    {
+      "id": "mkt:019e86b9-d482-7dd4-a7a7-5a5766c185cf",
+      "time": "2026-06-02 13:06:21",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Nasdaq100",
+        "Impact mixed",
+        "S&P500"
+      ],
+      "text": "【Xinhua: Is the US AI-fueled rally at risk of a 'bubble burst'?】US stock indexes recently hit fresh highs driven by artificial intelligence, pushing many tech market caps sharply higher and intensifying debate over an 'AI bubble'. Market participants say the rally's durability depends on sustained AI build-out, corporate profitability and macro fundamentals; a US slowdown that curbs corporate spending on AI infrastructure is a clear downside risk. Several strategists say the market lacks classic end-of-bull triggers—widespread speculative mania, broad margin deterioration or renewed Fed rate hikes—but elevated valuations, concentrated gains and very high earnings expectations leave the AI-driven rally in a fragile boom."
+    },
+    {
+      "id": "mkt:019e86b9-46cc-7dd4-a7a7-56451d0d613c",
+      "time": "2026-06-02 13:05:49",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "FTSE China A50 index futures extended gains to 2%."
+    },
     {
       "id": "mkt:019e86b8-ede4-7dd4-a7a7-4866169cd8ab",
       "time": "2026-06-02 13:05:26",
@@ -158626,46 +158672,6 @@
         "國際"
       ],
       "text": "美國國務卿魯比奧在印度出席四方會談部長級會議時發表講話：啟動印太海上監測計劃；將宣佈四方安全對話關於印太能源安全的倡議。"
-    },
-    {
-      "id": "4899646",
-      "time": "2026-05-26 13:09:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄羅斯一民宅發生火災致6人死亡 】俄羅斯鄂木斯克州一處民宅26日發生火災，造成包括4名兒童在內的6人死亡。 鄂木斯克州偵查部門當天在社交平臺發文說，火災發生在該州尤里耶夫卡村的一處民宅。目前，相關部門人員正在現場展開事故原因調查工作。"
-    },
-    {
-      "id": "4899645",
-      "time": "2026-05-26 13:08:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "【螞蟻靈波與簡智機器人達成戰略合作】5月26日，螞蟻靈波宣佈，公司與簡智新創（北京）機器人科技有限公司近日達成深度戰略合作。根據合作規劃，雙方將圍繞螞蟻靈波全系具身智慧模型矩陣展開資料協同，雙方還將聯合研發專屬數採裝置，持續提升人類資料精度與維度，加速高質量物理真實資料的scale up。"
-    },
-    {
-      "id": "te:economy:553620",
-      "time": "2026-05-26 13:07:53",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Coincident Index",
-        "Importance 1"
-      ],
-      "text": "Japan Coincident Index Revised Slightly Lower — Japan’s coincident economic index, which tracks activity in areas such as factory output, employment, and retail sales, stood at 116.4 in March 2026, slightly less than final data of 116.5. The reading marked a modest improvement in the economy, with mounting risks from the Middle East conflict and lingering uncertainty surrounding U.S. trade policies. Domestic demand remained resilient, amid continued gains in private consumption and business investment. However, exports and industrial production were flat, reflecting weaker foreign demand and cautious business sentiment. On the monetary policy front, the Bank of Japan kept its short-term interest rate at 0.75% in March. However, policymakers signaled more room for another rate hike if economic output and inflation come in line with the central bank’s projections."
-    },
-    {
-      "id": "te:economy:553619",
-      "time": "2026-05-26 13:07:33",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Leading Economic Index",
-        "Importance 1"
-      ],
-      "text": "Japan Leading Index Revised Downward — Japan’s leading economic index, which gauges the outlook for the months ahead using indicators such as job offers and consumer sentiment, was revised lower to 114.0 in March 2026 from 114.5 in the preliminary estimate. However, the latest reading was higher than February’s 113.2 and remained the highest level since August 2021, underscoring a gradual improvement in the economic outlook. Tokyo’s large-scale stimulus program, designed to bolster household spending and stabilize growth, helped lift the index compared to February despite intensifying cost pressures caused by rising fuel prices linked to the war in Iran."
     }
   ]
 }
