@@ -1,7 +1,47 @@
 {
-  "updated": "2026-06-03 03:16:58",
-  "count": 18449,
+  "updated": "2026-06-03 03:20:54",
+  "count": 18451,
   "items": [
+    {
+      "id": "mkt:019e89c7-9ed7-733d-8819-3f73d19662d4",
+      "time": "2026-06-03 03:20:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Goldman Sachs CEO Solomon: greed outweighs fear in markets】Goldman Sachs CEO Solomon said equity gains are driven by profit-seeking that outweighs concerns about economic volatility and inflation. He said greed currently far exceeds fear and liquidity is ample. Solomon added that inflationary pressures are real and, if they exceed expectations, he expects the Fed would respond with rate hikes."
+    },
+    {
+      "id": "mkt:019e89c7-963b-733d-8819-34e2814f9fd9",
+      "time": "2026-06-03 03:20:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Secretary of State Rubio says at least five more countries are willing to accept a certain number of Afghan refugees."
+    },
+    {
+      "id": "4913617",
+      "time": "2026-06-03 03:19:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：另有至少五個國家願意接收一定數量的阿富汗難民。"
+    },
+    {
+      "id": "mkt:019e89c5-d1e3-733d-8819-2ed0a84f3a72",
+      "time": "2026-06-03 03:18:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Secretary of State Rubio said the Trump administration does not want Afghans who assisted U.S. forces forced to return to Afghanistan."
+    },
+    {
+      "id": "4913616",
+      "time": "2026-06-03 03:17:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧： 特朗普政府不希望曾協助美軍的阿富汗人被迫遣返阿富汗。"
+    },
     {
       "id": "mkt:019e89c1-9fd7-733d-8819-250b902307d7",
       "time": "2026-06-03 03:13:48",
@@ -169066,38 +169106,6 @@
         "WTI"
       ],
       "text": "【Israel Says Killed Hamas New Military Leader Muhammad Oda】NETANYAHU, Defense Minister Katz Say IDF Struck Hamas New Military Leader Muhammad Oda In Gaza; Oda Alleged Oct. 7, 2023 Raid Planner, Former Hamas Intelligence Head; Replaced Izdin Haddad After Assassination Last Week"
-    },
-    {
-      "id": "mkt:019e65b9-7b32-7332-8105-d1e4e5d6bfc3",
-      "time": "2026-05-27 03:18:34",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "【KASHKARI Says Prolonged Iran War Could Trigger U.S. Series Of Rate Hikes】KASHKARI: Prolonged Iran war could trigger U.S. series of rate hikes; Fed Held Rates At Late‑April FOMC; Kashkari Opposed Dovish Wording In Statement; Next Move Could Be Hike Or Cut, Depends On Inf Trend And Strait Of Hormuz Reopening; Warns Long‑Run Inf Expectations Could Get Out Of Control; Says FOMC Likely To Respond Forcefully"
-    },
-    {
-      "id": "4900959",
-      "time": "2026-05-27 03:18:11",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "月球前哨公司：美國國家航空航天局選定本公司，成為月球地形車服務合同項下高可行性任務訂單的兩家合作供應商之一。"
-    },
-    {
-      "id": "4900958",
-      "time": "2026-05-27 03:17:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗總統：（中東）地區各國已然明白，若繼續接納美軍基地，自身將蒙受巨大損害。"
     }
   ]
 }
