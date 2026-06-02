@@ -1,7 +1,52 @@
 {
-  "updated": "2026-06-02 14:05:49",
-  "count": 17426,
+  "updated": "2026-06-02 14:09:48",
+  "count": 17427,
   "items": [
+    {
+      "id": "4911985",
+      "time": "2026-06-02 14:08:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兆易創新成交額達200億元】6月2日下午，兆易創新成交額達200億元，現漲1.49%。"
+    },
+    {
+      "id": "4911984",
+      "time": "2026-06-02 14:07:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【英偉達CEO黃仁勳：Vera CPU將比GPU更受歡迎 將成為公司新的主要增長動力】英偉達CEO黃仁勳週二在臺北Computex大會的英偉達媒體見面會上表示，目前在晶片供應方面的確存在一些限制，這仍是一個令人擔憂的問題。“我們已經為所有這些系統的強勁增長確保了供應。”黃仁勳表示，“我們有足夠的供應來實現非常強勁的增長，但的確仍然存在供應限制。”黃仁勳還表示，公司的Vera CPU將比其GPU更受歡迎，因為Vera CPU在處理資訊方面起著至關重要的作用，“Vera CPU將成為我們新的主要增長動力。”"
+    },
+    {
+      "id": "te:markets:555616",
+      "time": "2026-06-02 14:07:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Set for Higher Open — European equity markets were poised for a stronger open on Tuesday, recovering from the previous session’s losses as investors stepped in to buy the dip while evaluating the durability of the global technology and AI-driven rally. Traders also continued to monitor developments in the Middle East after Tehran reportedly suspended talks with Washington in response to Israeli strikes in Lebanon, although President Donald Trump said negotiations remain ongoing. In Europe, investors will focus on the Eurozone’s flash inflation report for May to assess how the Middle East conflict is influencing regional price pressures. Meanwhile, the corporate earnings calendar remains light, with no major earnings releases scheduled across Europe on Tuesday. In premarket trading, Euro Stoxx 50 futures rose 0.6%, while Stoxx 600 futures gained 0.5%."
+    },
+    {
+      "id": "4911983",
+      "time": "2026-06-02 14:05:38",
+      "tags": [
+        "國際",
+        "原創"
+      ],
+      "text": "【韓國將原油互換機制延長至6月底】韓國產業通商資源部週二表示，鑑於霍爾木茲海峽局勢持續動盪，政府將與私營企業合作的原油互換機制延長至本月底。韓國政府於今年4月推出原油互換機制，旨在伊朗衝突爆發後穩定國內燃料供應。根據該機制，政府將部分原油儲備（主要來自中東）借給煉油企業，並約定在獲得替代供應後，煉油企業將恢復這些原油庫存。該機制最初計劃執行兩個月，至5月底結束。韓國產業通商資源部稱，迄今為止，韓國政府已與私營企業交易了總計2100萬桶原油庫存。該部門表示，韓國已確保伊朗衝突前約85%的原油儲備，足以滿足7月份的需求，預計8月份原油供應不會出現重大中斷。"
+    },
+    {
+      "id": "4911982",
+      "time": "2026-06-02 14:05:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【某國有大行經營貸6月起全面轉型線上評估？回應來了：個別地區試點 網傳情況不實】近日，多個頭部社交平臺上流傳某國有大行“經營貸”相關資訊，引發較多貸款中介和貸款客戶關注。其核心內容涉及“經營貸”評估政策的調整事項。記者今日向前述國有大行進行求證。該行總行相關人士回應稱，經核實瞭解僅為個別地區試點，“相關情況基本都不屬實”。"
+    },
     {
       "id": "4911981",
       "time": "2026-06-02 14:04:53",
@@ -159393,44 +159438,6 @@
         "公司"
       ],
       "text": "【中國信通院牽頭完成首個ITU-R 6G衛星技術趨勢報告書】4月29日至5月5日，國際電信聯盟無線電通訊局衛星研究組（ITU-R SG4）WP4B第58次全會在瑞士日內瓦召開。在WP4B對口組組長單位上海垣信衛星科技有限公司的組織協調下，由中國信通院牽頭，聯合中信科行動通訊技術股份有限公司、中國電信衛星通訊有限公司、上海微小衛星工程中心、中興通訊股份有限公司等單位共同完成的《6G衛星元件的發展和技術趨勢》報告書經會議審議，報送SG4會議透過，並將於近期釋出。該報告書主要研究面向6G的衛星無線電介面技術，內容涉及6G衛星發展趨勢、6G衛星無線技術、6G衛星網路技術、6G衛星終端發展、6G衛星隱私與安全等方面。"
-    },
-    {
-      "id": "4899696",
-      "time": "2026-05-26 14:09:36",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【韓建河山盤中觸及跌停，公司回應】5月26日早盤，韓建河山股價觸及跌停。截至午間收盤，韓建河山股價報5.96元/股，收盤跌幅為9.7%。訊息面上，公司連續多年虧損，主營業務不佳，且面臨控股股東司法凍結、訂單不穩定等多重風險。對此，韓建河山方面回應稱，二級市場股價受多重因素影響。受房地產產業調控等因素影響，公司連續多年虧損。但公司也在透過發力PCCP業務積極尋求新的業務增長點。一般來說，公司業務都需要透過招投標進行，PCCP業務主要用於一些大型排水工程。公司只能透過增加訂單來緩解經營壓力。至於控股股東司法凍結，公司已經做了公告，會繼續跟進相關進展。（中證金牛座）"
-    },
-    {
-      "id": "mkt:019e62e6-b342-7ff6-adfb-b3e3845833e1",
-      "time": "2026-05-26 14:09:06",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "005930.KS",
-        "Impact bearish"
-      ],
-      "text": "【Samsung Bonus Deal Seen Adding to Korea Inflation, Housing Risks】Bonus agreements at Samsung Electronics Co. and SK Hynix Inc. risk turning South Korea’s AI-driven chip boom into a source of inflation and housing-market pressure, according to media. Economist Hyosung Kwon said chip-sector bonuses are increasingly feeding into household liquidity, asset prices and wage growth, adding to financial stability and inflation risks for the Bank of Korea. Kwon said the trend supports the case for a hawkish shift in the third quarter and leaves room for at least 100 basis points of tightening by the first half of 2027."
-    },
-    {
-      "id": "4899695",
-      "time": "2026-05-26 14:08:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "【文科股份：子公司聯合中標峨勝水泥九里廠區分散式光伏專案一期】據文科股份訊息，近日，公司全資子公司深圳文科綠色工程有限公司聯合廣東永光新能源設計諮詢有限公司，成功中標峨勝水泥九里廠區分散式光伏專案一期，中標金額達3350.75萬元，是目前公司承接的單體容量最大的工商業光伏專案。"
-    },
-    {
-      "id": "4899694",
-      "time": "2026-05-26 14:06:12",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【德商銀行：德國國債收益率預計將部分收復週一跌幅】德國商業銀行的Erik Liem和Rainer Guntermann在一份報告中表示，美國最新的打擊行動使剛剛出現的與伊朗達成協議的希望面臨考驗，德國國債收益率料將部分收復週一的大幅跌幅。這些利率策略師寫道：“在希望依然存在的情況下，未來幾天似乎可能會出現一些反覆。“週二歐元區政府債券供應的重頭戲是義大利債券拍賣，將發行2028年2月到期的義大利國債以及兩隻通脹掛鉤債券，即2031年8月到期的BTPei和2046年2月到期的BTPei。"
     }
   ]
 }
