@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-03 03:20:54",
-  "count": 18451,
+  "updated": "2026-06-03 03:24:51",
+  "count": 18450,
   "items": [
+    {
+      "id": "4913618",
+      "time": "2026-06-03 03:21:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：以色列空襲黎巴嫩南部納巴泰省多個城鎮。"
+    },
     {
       "id": "mkt:019e89c7-9ed7-733d-8819-3f73d19662d4",
       "time": "2026-06-03 03:20:21",
@@ -169082,30 +169090,6 @@
         "國際"
       ],
       "text": "【俄法院裁定歐洲清算銀行立即向俄央行賠償約2000億歐元】當地時間5月26日，俄羅斯莫斯科仲裁法院批准俄央行的申請，將對歐洲清算銀行約2000億歐元的追償判決轉為“立即執行”。該法院已於5月15日作出一審判決，裁定歐洲清算銀行須向俄央行支付上述款項。（央視新聞）"
-    },
-    {
-      "id": "mkt:019e65bd-3030-7332-8105-e785bd53f349",
-      "time": "2026-05-27 03:22:37",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "【NETANYAHU Says IDF Seizing Strategic Sites In Lebanon】NETANYAHU Orders Intensified IDF Strikes, Deep Operations In Lebanon; IDF Deploys Large Forces To Secure Strategic Sites, Consolidate Northern Israel Buffer Zone; Israel Developing Nationwide Drone Countermeasures"
-    },
-    {
-      "id": "mkt:019e65bc-a48e-7332-8105-dfd3b115779c",
-      "time": "2026-05-27 03:22:02",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "【Israel Says Killed Hamas New Military Leader Muhammad Oda】NETANYAHU, Defense Minister Katz Say IDF Struck Hamas New Military Leader Muhammad Oda In Gaza; Oda Alleged Oct. 7, 2023 Raid Planner, Former Hamas Intelligence Head; Replaced Izdin Haddad After Assassination Last Week"
     }
   ]
 }
