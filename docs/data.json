@@ -1,7 +1,90 @@
 {
-  "updated": "2026-06-02 21:39:12",
-  "count": 18045,
+  "updated": "2026-06-02 21:43:17",
+  "count": 18046,
   "items": [
+    {
+      "id": "4913141",
+      "time": "2026-06-02 21:41:49",
+      "tags": [
+        "行業",
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "【阿布扎比國家石油公司擬在阿聯酋新建輸油管線，繞開霍爾木茲海峽】阿聯酋正規劃本國首條多品類成品油輸送管線，即便霍爾木茲海峽航道受阻，汽油、柴油與航空煤油仍可依託該管線實現出口。 阿布扎比國家石油公司（ADNOC）貿易業務執行副總裁菲利普·胡裡於週二透露，公司計劃修建一條成品油管線，實現運輸路線繞開霍爾木茲海峽。霍爾木茲海峽是全球關鍵能源貿易通道，自三個月前相關戰事爆發後，海峽通航受到大幅限制。中東各產油國紛紛籌建配套基建，降低伊朗對自身原油出口通道的牽制。胡裡表示，阿布扎比國家石油公司正投入大量資源最佳化供應鏈與配套體系，預判危機或將長期延續，以此保障公司能夠高效、具備成本優勢地持續向全球客戶供貨。"
+    },
+    {
+      "id": "4913140",
+      "time": "2026-06-02 21:41:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【審批提速，可轉債市場或將迎來密集發行視窗期】隨著再融資政策落地見效、稽核節奏持續提速，疊加前期存量轉債集中贖回退市帶來的供給缺口填補需求，可轉債市場正式開啟密集發行週期。自6月1日以來，盛德轉債、通合轉債先後啟動網上發行，6月4日，迪威轉債也將啟動發行，可轉債的發行速度正在加快。值得一提的是，當前已獲稽核透過的可轉債數量達30只，募資金額超過480億元，為階段性發行奠定堅實基礎。分析人士指出，隨著審批提速、儲備專案集中落地，可轉債市場有望進入年度密集發行視窗期。充裕的新券供給將重塑市場供需結構，啟用市場活力，持續最佳化轉債市場生態。（證券時報）"
+    },
+    {
+      "id": "te:markets:555793",
+      "time": "2026-06-02 21:40:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Soybeans Hits 5-week Low — Soybeans decreased to 1167.00 USd/Bu, the lowest since April 2026. Over the past 4 weeks, Soybeans lost 3.26%, and in the last 12 months, it increased 12.24%."
+    },
+    {
+      "id": "te:markets:555792",
+      "time": "2026-06-02 21:40:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Opens 0.20% Higher — The Dow Jones Index is picking up 104 points or 0.20 percent on Tuesday. Gains are led by Caterpillar (3.54%), Cisco Systems (3.14%) and Goldman Sachs (1.82%). Biggest losers are Salesforce (-4.55%), Microsoft (-2.97%) and Amazon (-2.36%)."
+    },
+    {
+      "id": "4913139",
+      "time": "2026-06-02 21:39:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "Ned Davis Research將2026年年底標普500指數目標上調至7950點。"
+    },
+    {
+      "id": "mkt:019e888f-a16b-777f-8415-3ae0abf6b22a",
+      "time": "2026-06-02 21:39:28",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "Ned Davis Research raised its S&P 500 year-end 2026 target to 7,950."
+    },
+    {
+      "id": "4913138",
+      "time": "2026-06-02 21:38:26",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "市場訊息：知情人士表示，經霍爾木茲海峽繞行的成品油管道將成為阿布扎比國家石油公司下一步的重點專案。該管道將類似於美國的哥倫比亞管道等其他成品油管道，可在不同型別的成品油之間切換運輸。"
+    },
+    {
+      "id": "mkt:019e888e-b151-777f-8415-35307ca3a684",
+      "time": "2026-06-02 21:38:23",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Financial Times reports Abu Dhabi National Oil Company (ADNOC) is prioritizing a refined‑products pipeline that would bypass the Strait of Hormuz. The project would resemble the U.S. Colonial pipeline and be capable of switching shipments among different refined product types."
+    },
     {
       "id": "4913137",
       "time": "2026-06-02 21:37:48",
@@ -165296,70 +165379,6 @@
         "Importance 0"
       ],
       "text": "Bosnia and Herzegovina Inflation at 2023-Highs — The annual inflation rate in Bosnia and Herzegovina accelerated to 6.8% in April 2026, up from 5.1% in March. This marks the highest level since May 2023, as transportation costs surged by 25.9% from 11.1% in the previous month. Additional upward price pressures came from housing and utilities (11% versus 9.4%), furnishings (2.8% versus 2.4%) and communication (3.2% versus 1.5%). In contrasts, inflation slowed for food (2.6% versus 3.3%), alcoholic beverages and tobacco (3.4% versus 4.1%), health (5.7% versus 6.3%), recreation and culture (4.4% versus 4.6%) and restaurants and hotels (6.2% versus 6.5%). Meanwhile, deflation eased for clothing and footwear (-6.3% versus -6.8%), while inflation stood for education (3.6%). On a monthly basis, consumer prices rose 1.9%, accelerating from 1.7% in the previous month."
-    },
-    {
-      "id": "mkt:019e6485-9c17-7330-84b4-7d9ced03ee0d",
-      "time": "2026-05-26 21:42:18",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "Nasdaq100",
-        "Impact bullish"
-      ],
-      "text": "SOX Climbs 3.8% To Record High"
-    },
-    {
-      "id": "4900714",
-      "time": "2026-05-26 21:42:09",
-      "tags": [
-        "市場"
-      ],
-      "text": "費城半導體指數創下歷史新高，最新上漲3.8%。"
-    },
-    {
-      "id": "4900713",
-      "time": "2026-05-26 21:41:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：伊朗議員稱，將伊朗和平核活動交由美國審批，既違背國家利益，也不符合領導層既定方針。"
-    },
-    {
-      "id": "te:markets:553792",
-      "time": "2026-05-26 21:40:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Opens 0.32% Higher — The Dow Jones Index is gaining 164 points or 0.32 percent on Tuesday. Leading the gains are Goldman Sachs (1.84%), Honeywell International (1.76%) and Caterpillar (1.36%). Top losers are IBM (-2.73%), UnitedHealth (-1.68%) and Cisco Systems (-1.43%)."
-    },
-    {
-      "id": "4900712",
-      "time": "2026-05-26 21:40:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "【藥捷安康：替恩戈替尼聯合新型內分泌治療用於經治後進展的轉移性去勢抵抗性前列腺癌中國II期臨床試驗獲批開展】藥捷安康-B公告，公司核心產品替恩戈替尼(Tinengotinib, TT-00420)聯合新型內分泌治療(NHT)用於經治後進展的轉移性去勢抵抗性前列腺癌(mCRPC)的II期臨床試驗，已於2026年5月25日獲國家藥品監督管理局(NMPA)批准。"
-    },
-    {
-      "id": "4900711",
-      "time": "2026-05-26 21:39:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "【美股加密礦企全線衝高】美股加密礦企全線衝高，TeraWulf漲近11%，Cipher Digital漲近9%，CleanSpark、MARA Holdings、IREN、Hut 8漲超6%，比特幣礦商ETF WGMI漲近6%。"
-    },
-    {
-      "id": "4900710",
-      "time": "2026-05-26 21:39:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列方面訊息：以色列國防軍已越過黃線，在黎巴嫩境內開展地下行動。"
     }
   ]
 }
