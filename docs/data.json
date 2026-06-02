@@ -1,7 +1,33 @@
 {
-  "updated": "2026-06-03 05:23:20",
+  "updated": "2026-06-03 05:27:13",
   "count": 18458,
   "items": [
+    {
+      "id": "mkt:019e8a38-53b8-733d-881a-dcc12b49eb52",
+      "time": "2026-06-03 05:23:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada's minister for Canada-U.S. trade, Leblanc, said Ottawa is holding bilateral talks with Mexico on the US-Mexico-Canada Agreement (USMCA)."
+    },
+    {
+      "id": "mkt:019e8a38-3b5b-733d-881a-d5fac69f3d2a",
+      "time": "2026-06-03 05:23:21",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Canada's minister for Canada-U.S. trade, Leblanc, said Canada has been preparing for a U.S. Section 301 tariff investigation."
+    },
+    {
+      "id": "mkt:019e8a38-2a01-733d-881a-cd7a3ef127c1",
+      "time": "2026-06-03 05:23:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada’s minister for Canada-U.S. trade, Leblanc, said U.S. trade talks have been underway for months."
+    },
     {
       "id": "4913682",
       "time": "2026-06-03 05:22:33",
@@ -169185,30 +169211,6 @@
         "MKT News"
       ],
       "text": "【Cuba FM Bruno Rodríguez Parrilla Denounces US 'Collective Punishment' Over Oil Embargo】Cuba FM Bruno Rodríguez Parrilla Tells UN Security Council US Energy Sanctions Violate International Law, Amount To Naval Blockade And 'Collective Punishment' (May 26)"
-    },
-    {
-      "id": "mkt:019e662e-7e94-7332-8106-df7e7cc80dcb",
-      "time": "2026-05-27 05:26:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "USTR GREER Sends Team To India Next Week To Finalize Framework Trade Deal"
-    },
-    {
-      "id": "4901036",
-      "time": "2026-05-27 05:25:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗最高領袖穆傑塔巴：懇請各位朝聖者也為我祈福。"
-    },
-    {
-      "id": "4901035",
-      "time": "2026-05-27 05:25:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：這（比特幣及加密貨幣產業）是一大支柱產業，我們必須對其加以保護。"
     }
   ]
 }
