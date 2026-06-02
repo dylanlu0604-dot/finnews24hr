@@ -1,7 +1,79 @@
 {
-  "updated": "2026-06-02 13:49:45",
-  "count": 17398,
+  "updated": "2026-06-02 13:53:41",
+  "count": 17405,
   "items": [
+    {
+      "id": "mkt:019e86e4-592d-7dd4-a7a8-707231bd138e",
+      "time": "2026-06-02 13:52:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkish Automotive Manufacturers Association: May vehicle sales down 22.55% YoY; Jan‑May down 7.40% YoY."
+    },
+    {
+      "id": "4911962",
+      "time": "2026-06-02 13:52:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【浦東國際機場口岸今年出入境人員突破1500萬人次】截至6月2日凌晨，上海浦東國際機場口岸今年出入境人員總量在全國空港口岸中率先突破1500萬人次，較去年提前5天，約佔全國空港口岸出入境人員總量的四分之一，穩居全國空港口岸首位。此外，上海機場邊檢站還高效保障了超177萬人次中轉旅客享受24小時直接過境免辦邊檢手續的便利，充分彰顯上海作為全方位門戶複合型國際航空樞紐的強勁領先態勢。（上觀新聞）"
+    },
+    {
+      "id": "4911961",
+      "time": "2026-06-02 13:52:17",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "韓國KOSPI指數轉漲，早盤一度跌超3%。三星電子漲超5%，再創歷史新高。"
+    },
+    {
+      "id": "4911960",
+      "time": "2026-06-02 13:52:11",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "菲律賓股市指數上漲2%至5916.56點。"
+    },
+    {
+      "id": "mkt:019e86e3-980f-7dd4-a7a8-6a6bca7a0475",
+      "time": "2026-06-02 13:52:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "【China-Europe Railway Express 'Central Corridor' throughput via Erenhot tops 2,000 trains this year】A fully loaded China-Europe freight train carrying 55 containers departed the Erenhot rail border for Malaszewicze, Poland, marking the 2,000th China-Europe Railway Express through Erenhot so far this year. As of June 1 Erenhot has handled 193,700 TEU and 1.8266 million tonnes of cargo, up 10.94% and 27.46% YoY. The Erenhot corridor now operates 75 routes to more than 70 hub stations in over 10 countries, including Germany and Poland, and connects with most China origin cities."
+    },
+    {
+      "id": "4911959",
+      "time": "2026-06-02 13:51:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其行業協會：5月汽車銷量同比下降22.55%。"
+    },
+    {
+      "id": "4911958",
+      "time": "2026-06-02 13:51:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中歐班列“中通道”今年通行量突破2000列】6月2日，一列滿載55個集裝箱的中歐班列，經二連浩特鐵路口岸出境，開往波蘭馬拉舍維奇，這是今年以來經二連浩特鐵路口岸通行的第2000列中歐班列。截至6月1日，二連浩特鐵路口岸中歐班列運送貨物19.37萬標箱、182.66萬噸，同比分別增長10.94%、27.46%。"
+    },
+    {
+      "id": "mkt:019e86e1-c7cf-7dd4-a7a8-62dc7e9a4ab5",
+      "time": "2026-06-02 13:50:04",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Switzerland's April trade balance due in 10 minutes."
+    },
     {
       "id": "mkt:019e86e0-fe0d-7dd4-a7a8-5a69864e51ec",
       "time": "2026-06-02 13:49:12",
@@ -159168,15 +159240,6 @@
         "市場"
       ],
       "text": "HD現代重工股價上漲9.4%，報74.4萬韓元。"
-    },
-    {
-      "id": "4899687",
-      "time": "2026-05-26 13:53:08",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "矽鐵連續主力合約日內跌3%，現報5834.00元。"
     }
   ]
 }
