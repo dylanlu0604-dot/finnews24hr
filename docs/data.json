@@ -1,7 +1,85 @@
 {
-  "updated": "2026-06-02 12:08:35",
-  "count": 17317,
+  "updated": "2026-06-02 12:12:31",
+  "count": 17319,
   "items": [
+    {
+      "id": "4911847",
+      "time": "2026-06-02 12:10:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【被控損害學生心理健康 美社媒以近三千萬美元和解 】美國多家社交媒體平臺被指控其技術容易致學生成癮從而影響心理健康，最終同意以庭外和解方式向肯塔基州一個學區支付約2700萬美元。這起訴訟由肯塔基州東部的佈雷西特縣學區提起，原定於本月晚些時候在加利福尼亞州奧克蘭市開庭審理，但涉案的臉書、優兔等4家社媒平臺的經營企業決定庭外和解。據法新社6月1日報道，上述企業同意各自支付200萬至900萬美元不等的和解金，而它們在和解協議中均未承認有任何過錯。佈雷西特縣學區原本尋求逾6000萬美元的賠償，用於資助一個為期15年的心理健康專案，並應對社交媒體對學生造成的負面影響，包括睡眠問題、情緒困擾和人際衝突。"
+    },
+    {
+      "id": "4911846",
+      "time": "2026-06-02 12:09:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【機構最新排名：Qwen3.7位列國產模型第一】5月20日，千問正式釋出了Qwen3.7-Max。在三方機構Artificial Analysis公佈的最新全球大模型總榜中，Qwen3.7-Max得分57，與GPT、Claude、Gemini最強模型分數接近，位列國產模型第一。"
+    },
+    {
+      "id": "4911845",
+      "time": "2026-06-02 12:08:29",
+      "tags": [
+        "公司",
+        "資料"
+      ],
+      "text": "谷歌DeepMind、Anthropic和Meta擴大對機器“意識”和人工智慧福利的研究。"
+    },
+    {
+      "id": "te:markets:555579",
+      "time": "2026-06-02 12:08:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Copper Holds Firm After US Tariff Move — Copper futures remained above $6.5 per pound on Tuesday, hovering near over two-week highs after President Donald Trump signed a proclamation adjusting certain metals tariffs to better address national security concerns. The move has widened the US copper premium, potentially encouraging fresh inflows of the metal into US ports just as global supply constraints intensify. Chile, the world’s largest copper producer, reported its weakest April output in 23 years, underscoring mounting concerns over tight global supply. On the demand side, optimism around the expansion of artificial intelligence technologies and rapid data center buildouts supported the metal’s outlook. Rising copper usage in global power grids, driven by the ongoing shift toward cleaner energy systems, further reinforced the bullish demand narrative."
+    },
+    {
+      "id": "4911844",
+      "time": "2026-06-02 12:07:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "港交所：港交所將與阿斯塔納國際交易所（AIX）簽署一份獨立諒解備忘錄，兩家交易所將展開合作，拓寬跨境上市機遇，推動股票雙重上市業務發展。"
+    },
+    {
+      "id": "4911843",
+      "time": "2026-06-02 12:07:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "港交所：根據與阿斯塔納國際金融中心管理局達成的諒解備忘錄，港交所將在氣候轉型、脫碳工作以及綠色金融等領域開展合作。"
+    },
+    {
+      "id": "4911842",
+      "time": "2026-06-02 12:07:20",
+      "tags": [
+        "資料",
+        "市場",
+        "國際"
+      ],
+      "text": "印度尼西亞統計局公佈資料：該國5月消費者物價指數（CPI）同比上漲3.08%，調查預期為同比上漲2.97%。"
+    },
+    {
+      "id": "4911841",
+      "time": "2026-06-02 12:07:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【教育部等部門開展護航行動助力“平安高考”】從教育部獲悉，教育部會同網信、公安等部門部署開展“2026年高考護航行動”，全面做好考試組織、宣傳引導、考生服務等各項工作，全力護航“平安高考”。據悉，2026年高考期間，各地教育部門、招生考試機構將聯合網信、公安等部門集中開展打擊手機作弊、淨化涉考網路環境、打擊銷售作弊器材、打擊替考作弊、淨化考點周邊環境、清理整頓涉考培訓機構和助考中介等多個專項行動，清理處置助考犯罪、招生詐騙、虛假宣傳、網路謠言等不實有害資訊，加強治安、出行、食宿、醫療衛生、噪音治理、心理輔導等多方面綜合服務保障，營造良好考試環境，堅決維護教育考試公平。（新華社）"
+    },
+    {
+      "id": "4911840",
+      "time": "2026-06-02 12:07:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美航空航天局：美東北部“火球”現象由流星解體引發 】美國航空航天局1日證實，美國東北部新英格蘭地區5月30日下午出現的音爆和“火球”現象，由一顆進入地球大氣層的流星解體所致。美航空航天局在社交媒體平臺X上釋出訊息說，美國東部時間5月30日14時（北京時間31日2時）許，一顆直徑約1.6米、質量約5.6噸的流星以每小時約6.8萬公里的速度進入地球大氣層。該機構表示，這顆流星進入大氣層後從西北向東南方向飛行約42公里後，在距地面約50公里高空解體，最終有隕石碎片墜入馬薩諸塞州科德角灣。根據最新測算，流星解體釋放的能量約相當於230噸TNT炸藥爆炸，這也是當地居民聽到音爆巨響的原因。"
+    },
     {
       "id": "mkt:019e8682-ecf7-7663-9953-91c92ea3a025",
       "time": "2026-06-02 12:06:24",
@@ -158298,67 +158376,6 @@
         "國際"
       ],
       "text": "【韓稱朝鮮向半島西部海域發射不明飛行物 朝方暫無回應】當地時間5月26日，據韓國聯合參謀本部訊息，朝鮮向半島西部海域發射不明飛行物。目前，朝鮮官方暫未就此釋出訊息。（央視新聞）"
-    },
-    {
-      "id": "4899601",
-      "time": "2026-05-26 12:11:57",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【深圳“十五五”規劃綱要：支援頭部證券公司成為綜合型全能型投資銀行 打造國際一流投資銀行和投資機構】《深圳市國民經濟和社會發展第十五個五年規劃綱要》釋出。其中提出，推動法人總部銀行增加資本規模，持續最佳化公司治理，提升綜合競爭優勢；支援民營銀行打造數字化普惠金融服務樣板。推動證券、基金、期貨機構提升創新能力；支援頭部證券公司成為綜合型全能型投資銀行，推動國資大型證券公司提升資本實力，打造國際一流投資銀行和投資機構；推動基金公司做優做強，提升市場份額。"
-    },
-    {
-      "id": "4899600",
-      "time": "2026-05-26 12:10:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【深圳“十五五”規劃綱要：支援深圳證券交易所建設世界一流交易所，深化創業板改革】《深圳市國民經濟和社會發展第十五個五年規劃綱要》釋出，支援深圳證券交易所建設世界一流交易所，深化創業板改革。健全科技創新債券融資稽核“綠色通道”機制，最佳化科技創新債券做市交易制度，推動科技創新債券、民營公司債券存續規模快速增長。支援前海股權交易中心打造高水平上市培育基地，推動創新型和“專精特新”中小企業納入專板培育，暢通前海股權交易中心轉新三板掛牌“綠色通道”機制。支援前海聯合交易中心完善期現貨聯動業務。到2030年，前海股權交易中心“專精特新”專板入板企業數量達5000家。"
-    },
-    {
-      "id": "4899599",
-      "time": "2026-05-26 12:10:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "【深圳“十五五”規劃綱要：建立一批具備全國全球影響力的“深圳服務”品牌，打造全球專業服務業之都】《深圳市國民經濟和社會發展第十五個五年規劃綱要》釋出，其中提出，培育引進會計審計、法律服務、人力資源、工程服務、管理諮詢、會展等領域全球服務商，培育資料服務、數字廣告等新增長點，建立一批具備全國全球影響力的“深圳服務”品牌，打造全球專業服務業之都。深化深港專業服務規則銜接與機制對接，在服務標準、資格互認、執業便利等領域建立與國際通行規則相銜接的制度型開放體系。支援專業服務業機構為企業拓展國內外市場提供專業化、市場化、國際化服務。到2030年，專業服務業營業收入突破7000億元。"
-    },
-    {
-      "id": "4899598",
-      "time": "2026-05-26 12:09:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "【深圳“十五五”規劃綱要：前瞻佈局第六代行動通訊（6G）、生物製造、未來能源、量子科技、腦機介面、細胞與基因等未來產業】《深圳市國民經濟和社會發展第十五個五年規劃綱要》釋出，其中提出，前瞻佈局第六代行動通訊（6G）、生物製造、未來能源、量子科技、腦機介面、細胞與基因等未來產業，建立健全投入增長和風險分擔機制，構建創新策源、轉化孵化、應用牽引、生態營造的未來產業培育全鏈條。"
-    },
-    {
-      "id": "te:economy:553607",
-      "time": "2026-05-26 12:09:19",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Kyrgyzstan",
-        "Interest Rate",
-        "Importance 1"
-      ],
-      "text": "Kyrgyz Central Bank Holds Key Rate at 12% — The National Bank of the Kyrgyz Republic left its benchmark interest rate unchanged at 12% at its May 25, 2026 meeting, maintaining tight monetary conditions to contain inflationary pressures. Inflation rose 4.7% since the start of 2026, with annual inflation reaching 10.9% as of May 15, driven mainly by higher food prices and services costs. The central bank noted that escalating geopolitical tensions in the Middle East have increased volatility in global energy and food markets, fueling imported inflation in the highly import-dependent economy. Meanwhile, the economy continued to expand at a strong pace, with real GDP growing 12.4% year-on-year in January-April, supported by gains in services, industry, and construction amid rising investment activity. The bank said the domestic foreign exchange and money markets remain stable and reiterated that it stands ready to act if risks to price stability intensify. The next policy meeting is scheduled for July 27, 2026."
-    },
-    {
-      "id": "4899597",
-      "time": "2026-05-26 12:09:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "【深圳“十五五”規劃綱要：大力發展人工智慧終端、低空經濟、具身智慧機器人、海洋經濟、商業航天等一批新興支柱產業】《深圳市國民經濟和社會發展第十五個五年規劃綱要》釋出，其中提出，大力發展人工智慧終端、低空經濟、具身智慧機器人、海洋經濟、商業航天等一批新興支柱產業。加快人工智慧手機和電腦、智慧家居、智慧穿戴等新一代智慧終端研發應用，積極推動全身智慧、全車智慧、全屋智慧規模化應用。構建低空經濟發展的規則規制、基礎設施、裝備產業等體系，最佳化空域保障，拓展場景業態，鞏固提升國際競爭力。"
-    },
-    {
-      "id": "4899596",
-      "time": "2026-05-26 12:08:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "【深圳“十五五”規劃綱要：夯實先進製造基礎底座 謀劃推動新一批先進製造業重大專案建設】《深圳市國民經濟和社會發展第十五個五年規劃綱要》釋出，其中提出，謀劃推動新一批先進製造業重大專案建設，引進落地技術先進、綠色低碳、帶動性強的標誌性專案。實施產業基礎再造工程，加快補齊基礎裝備、基礎零部件及元器件、基礎軟體、基礎材料、基礎工藝和產業技術基礎等瓶頸短板。加快先進基礎材料、關鍵戰略材料、前沿新材料等研發，加強減材、等材、增材等製造工藝攻關。積極推廣首臺（套）重大技術裝備、首批次新材料、首版次軟體示範應用。在重點領域高標準建設一批國家級製造業創新中心，強化行業關鍵共性技術協同攻關，突破掌握更多源頭底層技術。"
     }
   ]
 }
