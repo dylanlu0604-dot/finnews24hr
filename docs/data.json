@@ -1,7 +1,114 @@
 {
-  "updated": "2026-06-02 23:51:01",
-  "count": 18225,
+  "updated": "2026-06-02 23:55:02",
+  "count": 18231,
   "items": [
+    {
+      "id": "4913398",
+      "time": "2026-06-02 23:53:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：伊朗打算大批次自研導彈、無人機及各類常規武器，還要建設海軍力量，待到那時美方將束手無策，這也是特朗普下令開戰的緣由。"
+    },
+    {
+      "id": "4913397",
+      "time": "2026-06-02 23:53:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：總統已經明確表示，首要任務是伊朗絕不能擁有核武器。"
+    },
+    {
+      "id": "4913396",
+      "time": "2026-06-02 23:53:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "埃法日集團（Eiffage）已中標富瑞校園共享基礎設施建設專案，合同金額超過1.2億歐元。"
+    },
+    {
+      "id": "4913395",
+      "time": "2026-06-02 23:52:49",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國能源部向科羅拉多礦業學院與埃萊門特美國公司撥付6700萬美元資金，用於建設稀土提煉加工廠。"
+    },
+    {
+      "id": "4913394",
+      "time": "2026-06-02 23:52:35",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【派拉蒙尋求歐盟批准收購華納兄弟】歐盟執委會的一份檔案顯示，派拉蒙天舞公司週二向歐盟反壟斷部門申請批准其收購華納兄弟探索公司的交易。歐盟執委會作為歐盟的競爭監管機構，已將作出決定的截止日期定為7月7日。"
+    },
+    {
+      "id": "mkt:019e8909-3e01-7ff0-aaad-87e120475ca8",
+      "time": "2026-06-02 23:52:24",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "MSFT.O",
+        "Impact bullish",
+        "GOOGL.O",
+        "NVDA.O"
+      ],
+      "text": "【Trump signs executive order to promote advanced AI innovation and security】The White House said President Trump signed an executive order to promote advanced AI innovation and security. The order directs the National Security Systems Committee to prioritize cyber defenses for national security systems and take appropriate, rapid action within 30 days of issuance. It requires a classified benchmark evaluation process to assess advanced AI models' cyber-defense capabilities and to determine when models should be designated as \"protected frontier models.\" The U.S. will seek access to frontier models up to 30 days before public release and will select trusted AI partners within 60 days."
+    },
+    {
+      "id": "4913393",
+      "time": "2026-06-02 23:52:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍本土前線司令部鑑於與真主黨脆弱的停火局勢，放寬以北部邊境管控措施，准許學校、企業恢復運營，上調公眾集會人數上限，部分割槽域海灘同步重新對外開放。"
+    },
+    {
+      "id": "4913392",
+      "time": "2026-06-02 23:51:52",
+      "tags": [
+        "宏觀",
+        "焦點",
+        "國際"
+      ],
+      "text": "【特朗普簽署行政令，助推前沿人工智慧創新與安全發展】白宮週二披露，美國總統特朗普已簽署一份人工智慧相關行政令，旨在推動先進人工智慧技術創新、健全 AI 安全管控。白宮釋出的行政令文字顯示，該政令要求美國聯邦各主管部門制定先進 AI 模型的網路安全規範，並著力強化全政府體系網路防禦能力。政令寫明，要求美國財政部長牽頭設立 AI 領域網路安全資訊統籌中心，在自願協作原則下聯動人工智慧行業與關鍵基礎設施運營主體；該中心統籌協調、理順各方軟體漏洞排查工作，完成漏洞發現與核驗，分級統籌漏洞修復優先順序、統一推送漏洞補丁。"
+    },
+    {
+      "id": "4913391",
+      "time": "2026-06-02 23:51:09",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【亞馬遜稱歐盟不應將雲服務納入數字競爭法規管轄範圍】亞馬遜副總裁、副總法律顧問安德魯·德沃爾在部落格文章中表示，若依據歐盟《數字市場法案》將雲軟體服務劃定為受監管平臺，或將遏制行業創新、抬升歐洲本土企業經營成本。歐盟現階段正開展調查，研判亞馬遜AWS與微軟Azure兩大主流雲服務是否要被法案認定為歐盟“守門人”企業。他指出：“雲端計算行業競爭充分，且已有歐盟專項立法實施監管。”"
+    },
+    {
+      "id": "4913390",
+      "time": "2026-06-02 23:50:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本防相香會期間推銷武器鼓吹構想】自放鬆武器出口限制後，日本政府不斷加速推進其“再軍事化”圖謀。上週末，日本防衛大臣小泉進次郎在赴新加坡出席第23屆香格里拉對話會期間，不但大肆“推銷”日本護衛艦，還鼓吹所謂新版“自由開放印太”構想，主張日本進一步強化防衛能力，引發輿論擔憂。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:019e8907-9600-7ff0-aaad-787f5350a9ce",
+      "time": "2026-06-02 23:50:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian state media reported President Putin spoke with Belarusian President Lukashenko to discuss expanding bilateral allied cooperation."
+    },
+    {
+      "id": "4913389",
+      "time": "2026-06-02 23:50:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI正佈局金融、法律領域AI工具，對標Anthropic展開行業競爭。"
+    },
     {
       "id": "mkt:019e8907-008b-7337-9546-a8199a09be92",
       "time": "2026-06-02 23:49:53",
@@ -166958,63 +167065,6 @@
         "Importance 1"
       ],
       "text": "FTSE 100 Rises on Tuesday — The FTSE 100 rose 0.3% on Tuesday, supported by strong gains in banks and mining stocks, partly reflecting a catch up move after the Bank Holiday. Banks advanced across the board, with HSBC up 1.1%, Lloyds Banking Group 1.8%, Barclays 1.6%, NatWest 2.1% and Standard Chartered 1.8%. Mining shares also rallied, with Rio Tinto rising 2%, Glencore 3.2%, Anglo American 2.4%, Antofagasta 3.6%, Fresnillo 1.3% and Endeavour Mining 3.3%. Kingfisher rose more than 2% after a trading update. In contrast, energy majors weighed on the index, with Shell and BP among the biggest drags, as BP fell more than 4% following news that chair Albert Manifold was removed immediately after governance and conduct concerns were raised by the board. Economic data showed UK shop price inflation rose to 1.2% year-on-year in May according to the British Retail Consortium, while food inflation eased slightly to 2.7%."
-    },
-    {
-      "id": "4900870",
-      "time": "2026-05-26 23:54:54",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【前紐約聯儲主席杜德利：警告美聯儲公信力岌岌可危】前紐約聯儲主席杜德利表示， 美聯儲多年未能實現 2% 的通脹目標，正面臨公信力受損的風險，市場通脹預期或將失控。他指出，通脹持續高於目標水平、長期通脹預期上行，且在高利率環境下美國經濟依舊保持強勁增長，這意味著貨幣政策的緊縮力度或不及市場預想。 杜德利還提到，人工智慧投資、高額政府債務等結構性因素可能推高中性利率；此外，政治壓力與領導層更迭進一步加劇了不確定性。"
-    },
-    {
-      "id": "te:markets:553823",
-      "time": "2026-05-26 23:54:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "CAC 40 Drops Amid US Strikes on Iran — The CAC 40 slipped 1% to close at 8,173 on Tuesday as renewed military action weakened hopes for a US-Iran peace agreement. The US and Israel carried out targeted strikes in Iran, renewing uncertainty over when the Strait of Hormuz could reopen and reviving concerns about prolonged inflation driven by elevated energy prices. On the monetary policy front, Isabel Schnabel said the ECB should proceed with an interest rate hike in June even if tensions in the Middle East ease. The central bank is widely expected to raise borrowing costs by 25 basis points next month. Luxury stocks led losses, with LVMH down 1.8%, Hermès shedding 3.3%, and Kering falling 3%. Industrials also traded lower, with Safran down 2.1% and Airbus losing 1.1%. On the upside, STMicroelectronics gained 3.1% as chipmakers continued to benefit from the AI boom in the US, while TotalEnergies rose 0.7% on renewed supply concerns."
-    },
-    {
-      "id": "mkt:019e64fc-2a8e-7332-8104-9d366e47ac3f",
-      "time": "2026-05-26 23:51:47",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iran President Says Tehran Seeks 'Dignified Framework' To End War"
-    },
-    {
-      "id": "4900869",
-      "time": "2026-05-26 23:51:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗總統：德黑蘭希望在體面的框架下結束戰事。"
-    },
-    {
-      "id": "4900868",
-      "time": "2026-05-26 23:51:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗總統：與卡達埃米爾通電話。"
-    },
-    {
-      "id": "mkt:019e64fb-a3ed-7332-8104-908b721123f5",
-      "time": "2026-05-26 23:51:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran President Calls Qatar Emir"
     }
   ]
 }
