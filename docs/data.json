@@ -1,7 +1,118 @@
 {
-  "updated": "2026-06-02 10:09:11",
-  "count": 17255,
+  "updated": "2026-06-02 10:13:08",
+  "count": 17258,
   "items": [
+    {
+      "id": "4911692",
+      "time": "2026-06-02 10:11:39",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼盾兌美元<IDR=>早盤走軟，跌至17890的歷史新低。"
+    },
+    {
+      "id": "4911691",
+      "time": "2026-06-02 10:11:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生指數漲超1%，現報25652.801點；恒生科技指數現漲2.418%。"
+    },
+    {
+      "id": "4911690",
+      "time": "2026-06-02 10:11:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "美團香港股價上漲7.3%。"
+    },
+    {
+      "id": "mkt:019e8619-5299-7aa2-99e9-40688b4ab37e",
+      "time": "2026-06-02 10:11:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "066570.KS",
+        "Impact bearish"
+      ],
+      "text": "South Korea's KOSPI fell over 3% again; LG Electronics shares dropped 7%."
+    },
+    {
+      "id": "4911689",
+      "time": "2026-06-02 10:10:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "港股儲存概念走低，南方兩倍做多海力士跌超9%，兆易創新、南方兩倍做多三星電子跌超3%，瀾起科技跌超2%。"
+    },
+    {
+      "id": "mkt:019e8619-1476-7aa2-99e9-3c27475c59fb",
+      "time": "2026-06-02 10:10:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Canon to raise prices on some laser consumables】Canon will raise prices on certain laser consumables effective June 1, 2026, citing sustained increases in raw-material, transportation and production costs."
+    },
+    {
+      "id": "4911688",
+      "time": "2026-06-02 10:10:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "【佳能上調部分鐳射耗材的價格】從知情人獲悉，受原材料，運輸和生產成本連續上漲的影響，佳能決定於2026年6月1日起，上調部分鐳射耗材的價格。（藍鯨新聞）"
+    },
+    {
+      "id": "te:markets:555545",
+      "time": "2026-06-02 10:10:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Hong Kong Shares Extend Gains — The Hang Seng Index edged higher by 230 points, or 0.9%, to 25,625 on Tuesday, extending gains from the previous session as technology stocks advanced amid continued optimism over artificial intelligence-related investments. The rise followed fresh record highs on Wall Street overnight, driven by strength in major technology shares. Investor sentiment remained cautious, however, as traders weighed renewed uncertainty surrounding US-Iran peace negotiations and their potential impact on global risk appetite. Meanwhile, traders monitored developments in Hong Kong's property sector after reports indicated that tighter mainland Chinese restrictions on overseas capital transfers could curb demand from wealthy Chinese buyers, potentially slowing a recent surge in local real estate purchases. Notable gainers included Tencent (+0.5%), Lenovo (+3.5%), Meituan (+4.4%), Semiconductor Manufacturing International (+1.6%), and Meitu (+2.4%)."
+    },
+    {
+      "id": "4911687",
+      "time": "2026-06-02 10:09:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "Quantinuum：已與三菱電機簽署諒解備忘錄，啟動戰略合作伙伴關係。該合作旨在加速量子計算應用的開發。"
+    },
+    {
+      "id": "mkt:019e8618-0f05-7aa2-99e9-3094b07b658b",
+      "time": "2026-06-02 10:09:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "【Bear attacks in Japan injure four】Four people were injured in bear attacks at an office and nearby residences in Sasakino, Fukushima City, Fukushima prefecture early on June 2. Japan has seen a rise in bear attacks: Ministry of the Environment preliminary data show 238 people were attacked nationwide between early April last year and the end of March, with 13 fatalities—both record highs. Government estimates put populations at more than 19,000 Asian black bears in the Tohoku region and 11,600 brown bears in Hokkaido."
+    },
+    {
+      "id": "4911686",
+      "time": "2026-06-02 10:09:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）跌幅擴大至3.2%。"
+    },
+    {
+      "id": "te:markets:555543",
+      "time": "2026-06-02 10:09:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Heating Oil Futures Hold Above $3.60 — US heating oil futures traded above $3.60 per gallon in early June, holding most of their recent losses, as doubts over US–Iran negotiations raised fears of prolonged energy supply disruptions from the Middle East. Reports indicated that Iran had suspended indirect negotiations with Washington over Israel’s operations in Lebanon, contrasting with President Donald Trump’s statement that talks with the US were still ongoing. The differing accounts have kept markets on edge and energy commodities volatile. Distillate exports from the region have been significantly disrupted since the conflict began in March, straining refinery operations and driving heating oil futures to a record $4.60 per gallon that month. Reflecting continued supply tightness, US distillate inventories, including diesel and heating oil, fell by more than 2.0 million barrels in the week ended May 22, larger than expectations for a 1 million-barrel draw."
+    },
     {
       "id": "mkt:019e8616-d35b-7aa2-99e9-28ec6783c1ad",
       "time": "2026-06-02 10:08:08",
@@ -157574,83 +157685,6 @@
         "Importance 1"
       ],
       "text": "Asia FX Updates: New Zealand Dollar Drops by 0.34% — Top currency loser is New Zealand Dollar (-0.34%). Gains are led by South Korean Won (0.29%). Meanwhile, Chinese Yuan and Japanese Yen were little changed."
-    },
-    {
-      "id": "te:economy:553566",
-      "time": "2026-05-26 10:12:53",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Sri Lanka",
-        "Interest Rate",
-        "Importance 1"
-      ],
-      "text": "Sri Lanka Hikes Key Rate by 100 bps — The Central Bank of Sri Lanka raised its benchmark interest rate by 100 basis points to 8.75% at its May 2026 meeting, marking the highest borrowing costs since February 2024 amid mounting inflationary and external pressures linked to the escalating Middle East conflict. Headline inflation accelerated to 5.4% in April, driven largely by sharp increases in domestic energy prices following persistently high global oil costs. While inflationary pressures were mainly supply-led, the central bank also flagged stronger domestic demand, supported by continued private sector credit growth, rising imports, and improving economic activity indicators. Inflation is expected to stay above the 5% target in the near term before easing gradually. Meanwhile, Sri Lanka’s external sector faced added strain from higher fuel import costs, softer tourism earnings, and speculative market activity, although worker remittances remained resilient."
-    },
-    {
-      "id": "4899451",
-      "time": "2026-05-26 10:12:23",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【兩部門再次緊急預撥1.6億元中央自然災害救災資金支援湖南、重慶等5省（區、市）做好自然災害應急搶險救災工作】5月26日，財政部、應急管理部再次緊急預撥1.6億元中央自然災害救災資金，其中，一是預撥1.1億元，支援安徽、湖南、重慶、貴州4省（市）開展防汛救災工作，重點做好排危除險、搜救轉移安置受災人員等工作，切實保障人民群眾生命財產安全；二是預撥0.5億元，支援廣西做好地震災害受災群眾救助和倒損民房修復等工作，推動災區儘快恢復正常生產生活秩序。"
-    },
-    {
-      "id": "4899450",
-      "time": "2026-05-26 10:12:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【五糧液世界盃聯名盲盒炒至2萬】近期，五糧液跨界世界盃推出的聯名盲盒引發關注。第一財經記者實地探訪門店發現，這款盲盒的“隱藏款”極具稀缺性。據工作人員介紹，消費者需要整箱購買，且“百箱僅出五箱”的門檻，讓個別款式直逼兩萬元天價。這種“一瓶難求”的現象也引爆了二手市場。記者在閒置平臺上看到，目前這些聯名隱藏款的價格普遍已達原價的2到3倍，部分極度稀缺的款式，其價格更是漲超20倍。傳統酒企為何玩起“高階盲盒”？專家分析指出，五糧液此舉旨在精準觸達重度受眾人群，藉助世界盃的熱度吸引年輕消費者關注，進而承接第三季度白酒銷售。其跨界邏輯成立，但高溢價背後，企業的投入產出是否合理、賽後如何保持長效轉化，仍是關鍵考驗。（第一財經）"
-    },
-    {
-      "id": "4899449",
-      "time": "2026-05-26 10:11:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "魯比奧：特朗普說要麼達成一項好的協議，要麼就不要達成協議。"
-    },
-    {
-      "id": "4899448",
-      "time": "2026-05-26 10:11:11",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "甲醇連續主力合約日內跌2%，現報2832.00元。"
-    },
-    {
-      "id": "4899447",
-      "time": "2026-05-26 10:10:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【思特威與紫光展銳聯合佈局MicroLED高速光互連】據思特威訊息，近日，思特威(688213)與紫光展銳（上海）科技股份有限公司（簡稱“紫光展銳”)正式達成戰略合作。雙方強強聯合佈局MicroLED高速光互連領域，圍繞光互連晶片設計與系統解決方案落地展開深度協同，為AI算力叢集短距高速互連場景，提供高頻寬、低功耗、高整合、高可靠的國產化核心解決方案。"
-    },
-    {
-      "id": "4899446",
-      "time": "2026-05-26 10:10:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "魯比奧：伊朗談判將持續幾天。"
-    },
-    {
-      "id": "4899445",
-      "time": "2026-05-26 10:10:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "【雄安新區：住房公積金貸款最高額度提高至80萬元】雄安新區住房管理中心關於最佳化調整住房公積金提取和貸款政策的通知。其中提出，符合新區租房提取條件的繳存職工，未辦理房屋租賃合同備案的，提取最高額度提高至每年17000元；在“河北雄安新區住房租賃資訊化服務平臺”辦理房屋租賃合同備案的，提取最高額度提高至每年25000元。繳存職工在新區購買自住住房，申請住房公積金貸款的，貸款最高額度提高至80萬元。住房公積金繳存地在新區的北京來源疏解單位職工，在新區購買自住住房，申請住房公積金貸款時，貸款最高額度提高至120萬元。二孩及以上的多子女家庭在新區購買自住住房，申請住房公積金貸款的，貸款最高額度上浮20萬元。職工家庭在全國範圍內僅有一筆但已結清的住房公積金貸款記錄，且在新區無房的，執行首套住房公積金貸款政策。（雄安公積金）"
-    },
-    {
-      "id": "4899444",
-      "time": "2026-05-26 10:10:24",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【東吳證券首席經濟學家蘆哲：聚焦技術、政策、競爭三大維度，推動“蘇州智造”邁向全球】5月26日，東吳證券首席經濟學家、研究所聯席所長蘆哲在“蘇州智造2030峰會”上表示，蘇州用三十年時間完成從代工嵌入、製造升級、智造蓄力到AI領跑的四次關鍵躍升，成為中國製造業轉型升級的典型樣本。尤其是2022年借AI算力浪潮，光模組、高階PCB、伺服器等全鏈條發力，躋身全球AI硬體核心極，A股市值規模位列全國第四。東吳證券也將持續發揮資本與研究優勢，助力企業搶抓戰略機遇，共同推動“蘇州智造”邁向全球價值鏈頂端。他建議，未來蘇州需進一步聚焦技術、政策、競爭三大維度。技術層面，需鞏固1.6T光模組、液冷、人形機器人等先發優勢，著力在硬科技賽道再培育一批具有全球影響力的隱形冠軍和龍頭企業。在政策層面，要主動對接國家新型工業化、大規模裝置更新、智算中心國產化替代等重大戰略部署，把國家戰略勢能轉化為地方發展實效；在競爭層面，要堅持“快半步”發展策略，保持前瞻佈局、搶先落子、持續迭代的競爭優勢，形成“龍頭引領、中小企業跟進、產學研協同”的完整創新生態。"
     }
   ]
 }
