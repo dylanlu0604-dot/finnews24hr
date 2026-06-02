@@ -1,7 +1,178 @@
 {
-  "updated": "2026-06-02 17:04:53",
-  "count": 17621,
+  "updated": "2026-06-02 17:08:51",
+  "count": 17627,
   "items": [
+    {
+      "id": "4912435",
+      "time": "2026-06-02 17:08:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【塞力醫療：擬1862.6萬元出售北京供應鏈50%的股權】塞力醫療公告，擬將其持有的北京供應鏈51%股權中的50%股權轉讓給霍菲，轉讓價格為1862.6萬元。交易完成後，公司仍持有北京供應鏈1%的股權，北京供應鏈將不再納入合併報表範圍。本次交易不構成關聯交易，亦不構成重大資產重組。"
+    },
+    {
+      "id": "4912434",
+      "time": "2026-06-02 17:08:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國政府：在議會批准第七份碳預算後，將盡快在合理可行範圍內釋出一份實施方案，明確說明第七份碳預算將如何落實。"
+    },
+    {
+      "id": "4912433",
+      "time": "2026-06-02 17:08:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【貝萊德（BlackRock）對江西銅業股份的多頭持倉比例降至4.99%】據香港交易所披露，貝萊德（BlackRock）對江西銅業股份有限公司 - H股的多頭持倉比例於2026年5月27日從5.57%降至4.99%。"
+    },
+    {
+      "id": "mkt:019e8797-1a0a-7777-bfa7-d2cb1cec1a94",
+      "time": "2026-06-02 17:08:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【State Council: deepen seed-industry revitalization; accelerate breeding of breakthrough varieties】The State Council issued the Plan for Accelerating Agricultural and Rural Modernization (\"15th Five-Year\"). It directs deeper implementation of a seed-industry revitalization campaign, including precise germplasm identification, gene mining and targeted improvement, and development of a commercialized breeding system. The plan calls for tiered cultivation of national seed-industry flagship firms and accelerated selection of breakthrough varieties. It endorses steady reform of the new aquaculture-variety approval system, construction of national breeding and seed-production bases, stricter protection of seed-industry IP and tougher enforcement against counterfeiting and trademark infringement, and promotion of industrial-scale application of biological breeding."
+    },
+    {
+      "id": "mkt:019e8796-dd16-7777-bfa7-cff68967d0de",
+      "time": "2026-06-02 17:07:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "UK government publishes proposed level for the seventh carbon budget, targeting an 87% reduction in emissions in 2038–42."
+    },
+    {
+      "id": "4912432",
+      "time": "2026-06-02 17:07:31",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "匈牙利央行：2025年名義房價漲幅為23.5%，房地產市場估值偏高程度升至22.5%。"
+    },
+    {
+      "id": "mkt:019e8796-6591-7777-bfa7-c5b6e6ce8bce",
+      "time": "2026-06-02 17:07:19",
+      "tags": [
+        "MKT News",
+        "ORCL.N",
+        "Impact bullish"
+      ],
+      "text": "Scotiabank raises Oracle (ORCL.N) PT to $290 from $215."
+    },
+    {
+      "id": "4912431",
+      "time": "2026-06-02 17:07:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "豐業銀行將甲骨文目標股價從215美元上調至290美元。"
+    },
+    {
+      "id": "4912428",
+      "time": "2026-06-02 17:06:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "據上交所公告，上海燧原科技股份有限公司科創板IPO稽核狀態變更為“已問詢”。"
+    },
+    {
+      "id": "4912427",
+      "time": "2026-06-02 17:06:04",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "匈牙利財政部長表示，歐盟資金協議允許削減國家債務。"
+    },
+    {
+      "id": "te:economy:555731",
+      "time": "2026-06-02 17:05:34",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "France",
+        "Government Budget Value",
+        "Importance 0"
+      ],
+      "text": "France Budget Deficit Narrows Slightly in Jan-Apr — France’s state budget deficit narrowed slightly to €69.6 billion in January–April 2026 from €69.3 billion a year ago. Revenues increased 8.0% year-on-year to €114.1 billion, outpacing a 5.7% rise in expenditures to €167.5 billion. Meanwhile, Special Treasury accounts posted a deficit of €16.2 billion, narrowing slightly from €16.4 billion in the same period last year."
+    },
+    {
+      "id": "te:economy:555730",
+      "time": "2026-06-02 17:05:25",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Home Loans",
+        "Importance 1"
+      ],
+      "text": "UK Mortgage Lending Falls to 6-Month Low — Net borrowing of mortgage debt by UK individuals decreased to £4.4 billion in April 2026, the lowest in six months, from £6.8 billion in March and below the previous 6-month average of £5.1 billion. The annual growth rate for net mortgage lending increased slightly to 3.3% in April, from 3.0% in March. Secured gross lending decreased slightly to £27.5 billion in April, from £28.7 billion in March, still slightly above the 6-month average of £24.8 billion. Repayments increased in April to £22.7 billion, from £19.8 billion in March, above the 6-month average of £19.7 billion. The ‘effective’ interest rate on newly drawn mortgages increased, to 4.08% in April, from 4.03% in March. The rate on the outstanding stock of mortgages was 3.92% in April, down from 3.93% in March."
+    },
+    {
+      "id": "4912425",
+      "time": "2026-06-02 17:05:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "據上交所公告，無錫市好達電子股份有限公司科創板IPO稽核狀態變更為“已受理”。"
+    },
+    {
+      "id": "4912424",
+      "time": "2026-06-02 17:05:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中銀國際：上調美團目標價至110港元，評級升至“買入”】中銀國際發表報告指，美團第一季度總收入同比增長6%至910億元，符合市場預期。該行預期外賣業務單位經濟(UE)的改善趨勢將在近月持續，並推動第二季度核心本地商業(CLC)錄得36億元經營利潤。儘管短期競爭情況仍不明朗，但美團具備穩固的供應鏈、履約及營運等核心優勢，透過多樣化的實時配送模型及交叉銷售，能更好地平衡市場份額與UE表現。同時，隨著人工智慧(AI)加速賦能核心業務，將進一步釋放長期效率。該行預測美團第二季度收入將加速增長，同比升11%至1021億元，其中核心本地商業及新業務收入預計分別同比增長6%及23%。該行將美團評級由“持有”上調至“買入”，按分類加總估值法(SOTP)將目標價由100港元上調至110港元。"
+    },
+    {
+      "id": "mkt:019e8794-76a3-7777-bfa7-b988ad42ad0c",
+      "time": "2026-06-02 17:05:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "HUNGARY CENTRAL BANK: household lending rose sharply in H2 2025; property market risks have increased."
+    },
+    {
+      "id": "mkt:019e8794-2951-7777-bfa7-b15ac630ee32",
+      "time": "2026-06-02 17:04:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "TIGR.O"
+      ],
+      "text": "【Tiger Brokers (TIGR.O) says one-off RMB 411 mln penalty won't materially impair operations or long-term growth】Tiger Brokers (TIGR.O) said the CSRC Beijing bureau on May 22 imposed administrative penalties and ordered confiscation of illegal gains totaling RMB 411 mln (about $59.7 mln) on certain Chinese subsidiaries for conducting unlicensed cross-border securities business and violations in fund and futures activities. The company accepted the penalty and has recognized it as a post‑Q1 material item. Tiger Brokers said the one-off charge, given its overall profitability and cash flow, will not have a material adverse impact on operating activities or long-term development."
+    },
+    {
+      "id": "4912423",
+      "time": "2026-06-02 17:04:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【壹號食品：針對旗下4件“壹號土豬”商標被宣告無效一事，已向法院提起訴訟】國家智慧財產權局商標局持續更新一批宣告無效帶有欺騙性的商標，包括多個含有“土豬”“土雞”字樣的商標，其中波及廣東知名企業壹號食品。6月2日，壹號食品方面表示，針對企業旗下4件應用於豬肉及豬肉製品的“壹號土豬”商標被宣告無效一事，企業已向法院提起訴訟，希望透過司法程式維護合法權益。壹號土豬創始人、廣東壹號食品股份有限公司董事長陳生首次回應該爭議表示，企業理解並支援國家規範商標管理、保護消費者權益的舉措，但認為“壹號土豬”在此次整治中實為被“誤傷”，相關認定未能充分考慮企業長期深耕土豬產業的發展歷程。（南都）"
+    },
+    {
+      "id": "4912422",
+      "time": "2026-06-02 17:04:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天音控股：收到江西證監局行政監管措施決定書】天音控股公告，公司於2026年4月24日收到江西證監局下發的《關於對天音通訊控股股份有限公司採取責令改正措施並對黃紹文、劉彥、陳學同、曾富榮、孫海龍採取出具警示函措施的決定》。要求公司對《決定書》中提出的問題進行改正。公司已高度重視，及時向控股股東、董事、高階管理人員及相關部門進行了通報，認真對照相關法律法規和規範性檔案以及公司內部管理制度，對相關事項進行全面自查，並制訂了整改報告。"
+    },
+    {
+      "id": "4912421",
+      "time": "2026-06-02 17:04:17",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【Pimco稱AI尚未構成“久期供給衝擊” 當前美債收益率受貨幣政策預期驅動】品浩(Pimco)表示，人工智慧相關借貸熱潮未來可能對債券市場產生更大影響，但認為這股力量主導了近期美國長期國債收益率上漲的說法，似乎被誇大了。Pimco多資產信貸策略師Lotfi Karoui在一份報告中寫道，由債務融資支援的AI投資最終可能推高風險溢價，也就是投資者持有風險更高或期限更長資產時要求的額外回報，但這一過程很可能會在數年間逐步展開。他說，眼下美國長期國債收益率走高，更合理的解釋是，伊朗戰爭加劇通脹風險，促使市場對美聯儲利率路徑的預期發生變化。Karoui寫道：“AI建設帶來的結構性壓力確實存在，但其上升過程緩慢，並不是目前投資者正在看到的收益率走勢背後的驅動因素。週期性因素仍支撐債券在對沖中的作用。”"
+    },
     {
       "id": "4912420",
       "time": "2026-06-02 17:04:06",
@@ -161404,118 +161575,6 @@
         "公司"
       ],
       "text": "【亞星化學：擬為子公司1億元融資租賃業務提供擔保】亞星化學公告稱，公司控股子公司亞星新材料擬用自有化工生產裝置作租賃物，以售後回租方式向江蘇金租辦理不超1億元的融資租賃業務，額度有效期12個月。公司擬為該業務提供不超1億元的連帶責任擔保，亞星新材料其他股東未提供擔保。截至公告披露日，公司及其控股子公司對外擔保總額6.60億元，均為對亞星新材料的擔保，無逾期擔保。該議案將在2026年6月1日的臨時股東會上審議。"
-    },
-    {
-      "id": "te:markets:553737",
-      "time": "2026-05-26 17:08:35",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "WTI Falls Toward 5-Week Low — WTI crude oil futures traded below $93 per barrel on Tuesday, near a five-week low, as markets balanced optimism over ongoing US-Iran negotiations against renewed military operations in southern Iran. Reports said the US military targeted missile launch sites and vessels suspected of preparing to deploy mines, with US Central Command stating the actions were intended to protect American forces in the region. At the same time, President Donald Trump said discussions with Tehran were progressing positively but warned that further strikes could follow if talks collapse. The US and Iran are currently negotiating a framework to extend the ceasefire by around two months, during which Washington would ease its blockade while Tehran would reopen the Strait of Hormuz."
-    },
-    {
-      "id": "4900112",
-      "time": "2026-05-26 17:08:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國智算中心供配電技術大會暨展覽會將於6月3日—5日在上海舉辦】6月3日—5日，中國智算中心供配電技術大會暨展覽會將在上海新國際博覽中心舉辦。"
-    },
-    {
-      "id": "4900111",
-      "time": "2026-05-26 17:08:03",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【華泰證券：首予沐曦股份“買入”，目標價898.6元】華泰證券研報指出，沐曦股份作為國內領先的高效能通用GPU晶片供應商，憑藉自研XCORE架構與MetaXLink高速互連技術，構建了覆蓋人工智慧訓練、推理、科學智算及圖形渲染的完整產品矩陣，產品效能表現處於國內第一梯隊，已廣泛應用於智算中心、科研機構及工業計算等場景。看好公司受益：1）AI推理需求激增拉動AI晶片需求快速增長，26年國產替代進一步加速；2）公司GPU產品快速迭代，不斷縮小與海外主流產品的差距，並積極推進超節點方案研發，有望在國內市場保持領先。綜合考慮，給予公司27年58xPS（較摩爾執行緒折價，主要考慮摩爾執行緒佈局產品類別豐富度更高），對應目標價898.6元，首次覆蓋給予“買入”。"
-    },
-    {
-      "id": "4900110",
-      "time": "2026-05-26 17:07:47",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【伊朗媒體否認伊美達成諒解備忘錄的說法】據伊朗伊斯蘭共和國廣播電視臺26日報道，部分外國媒體報道稱，伊朗與美國達成14點諒解備忘錄，這“純屬捏造，毫無根據”。 報道說，有媒體數小時前稱已獲得伊美諒解備忘錄的最終草案，其中涉及開放霍爾木茲海峽、啟動核問題談判、解凍伊朗被凍結資金等問題，但這些說法均不屬實。（新華社）"
-    },
-    {
-      "id": "4900109",
-      "time": "2026-05-26 17:07:38",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【港美網際網路LOF：二級市場交易價格溢價 提醒投資風險】港美網際網路LOF公告稱，近期該基金二級市場交易價格明顯高於基金份額淨值，出現較大幅度溢價。2026年5月26日收盤價為2.280元，截至5月22日基金份額淨值為2.0116元。若5月27日溢價幅度未有效回落，基金有權申請停牌等措施。投資者可在二級市場交易或申贖基金，交易價格受多種因素影響，可能致投資者損失。目前基金運作正常，無應披露未披露重大資訊。"
-    },
-    {
-      "id": "4900108",
-      "time": "2026-05-26 17:07:21",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【納指ETF嘉實：提醒基金二級市場交易價格溢價風險】納指ETF嘉實公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年5月26日，收盤價為2.033元，收盤時基金份額參考淨值為1.8876元。若5月27日溢價幅度未有效回落，基金有權申請盤中臨時停牌等措施。基金運作正常，無應披露未披露重大資訊。提醒投資者關注溢價風險，審慎投資。"
-    },
-    {
-      "id": "4900106",
-      "time": "2026-05-26 17:06:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "【康芝藥業：注射用頭孢他啶他唑巴坦鈉獲臨床試驗批准】康芝藥業公告稱，公司申報的“注射用頭孢他啶他唑巴坦鈉(3:1)”獲國家藥監局《藥物臨床試驗批准通知書》。該產品已投產銷售，此次為補充申請，增加兒童適用人群及用法用量的臨床試驗。這是公司藥品研發階段性成果，對短期財務和業績無重大影響，不影響產品銷售。後續臨床試驗進展有不確定性，公司將及時披露。"
-    },
-    {
-      "id": "4900105",
-      "time": "2026-05-26 17:06:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "【沃特股份：控股股東部分股份解除質押 共計599.13萬股】沃特股份公告稱，近日，控股股東吳憲女士、何徵先生及其一致行動人深圳市銀橋投資有限公司所持有公司的部分股份辦理了解除質押，合計解除質押599.13萬股，佔其所持股份比例5.55%，佔公司總股本比例2.28%。截至公告披露日，三者累計質押股份3544.32萬股，佔其所持股份比例32.81%，佔公司總股本比例13.47%。控股股東目前資信良好，質押不會影響公司運營和治理，不存在平倉或強制過戶風險。"
-    },
-    {
-      "id": "4900104",
-      "time": "2026-05-26 17:06:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中央生態環保督察通報廣東惠州陽江海洋生態保護不到位問題】第三輪第六批中央生態環境保護督察26日釋出典型案例，通報廣東省惠州市、陽江市海水養殖汙染治理、紅樹林保護、入海河流整治等海洋生態保護問題。海水養殖汙染問題突出。督察暗查期間，隨機抽查惠州市惠東縣6家養殖場發現，外排尾水均存在超標問題。其中，有4家養殖場尾水流入廣東大亞灣水產資源省級自然保護區、惠東紅樹林自然保護區。惠東縣豐茂花草種植公司養殖尾水排入廣東大亞灣水產資源省級自然保護區核心保護區，在海面形成深色汙染帶，總氮、總磷濃度超廣東海水養殖尾水一級排放限值3.2倍、2.1倍。陽江市陽西縣兩個鄉鎮7公里嚴格保護岸線範圍內，存在56個養殖尾水排口，養殖尾水直排，衝擊破壞岸線。（新華社）"
-    },
-    {
-      "id": "4900103",
-      "time": "2026-05-26 17:05:32",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【納指ETF易方達：提示基金二級市場交易價格溢價風險】納指ETF易方達公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年5月26日，收盤價為2.013元，基金份額參考淨值為1.8707元。提醒投資者關注溢價風險，審慎投資。若5月27日溢價幅度未有效回落，基金有權申請臨時停牌等措施。目前基金運作正常，無應披露未披露資訊。"
-    },
-    {
-      "id": "4900102",
-      "time": "2026-05-26 17:05:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "【晶科能源：出售子公司股權獲1.26億元款項 預計增利0.56億】晶科能源公告稱，公司曾將持有的新疆仕邦光能科技有限公司100%股權出售給仕陽綠能科技。截至公告披露日，仕陽綠能科技已支付部分第二期股權轉讓款。近日，其完成支付第二期股權轉讓款及資金佔用利息共計1.26億元，與2025年度部分業績補償款抵消後完成支付。預計影響2026年利潤總額0.56億元，最終以審計結果為準。公司將敦促其履行剩餘付款義務，若未支付將作相應會計處理。"
-    },
-    {
-      "id": "4900101",
-      "time": "2026-05-26 17:05:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "訊息人士稱，比利時發生火車與校車相撞事故，已造成多人死亡。"
-    },
-    {
-      "id": "4900100",
-      "time": "2026-05-26 17:05:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【小米汽車工廠卡丁車體驗中心6月1日起調價】小米汽車工廠卡丁車體驗中心將於6月1日起正式調價：工作日實行特惠價69元/人次，非工作日恢復99元/人次票價。據介紹，小米汽車工廠卡丁車體驗中心自3月1日開業以來，已服務近8000位客人。"
     }
   ]
 }
