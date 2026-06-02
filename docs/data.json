@@ -1,7 +1,79 @@
 {
-  "updated": "2026-06-02 13:41:57",
-  "count": 17393,
+  "updated": "2026-06-02 13:45:55",
+  "count": 17396,
   "items": [
+    {
+      "id": "4911953",
+      "time": "2026-06-02 13:44:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國新基金、上城資本等在杭州成立創投基金】企查查APP顯示，近日，國新錢江創業投資基金（杭州）合夥企業（有限合夥）成立，出資額約10億元，經營範圍為創業投資。企查查股權穿透顯示，該合夥企業由中國國新控股旗下國新國同（杭州）股權投資有限公司、杭州上城領航創業投資有限公司、杭實智投（杭州）產業投資基金合夥企業（有限合夥）、國新創投基金（杭州）合夥企業（有限合夥）共同出資。"
+    },
+    {
+      "id": "4911952",
+      "time": "2026-06-02 13:43:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國中冶、北京國資成立置業公司】企查查APP顯示，近日，北京麗澤築城置業有限公司成立，法定代表人為劉華衛，註冊資本為15億元，經營範圍包含：房地產開發經營；建設工程施工；土地整治服務；承接總公司工程建設業務；工程管理服務等。企查查股權穿透顯示，該公司由北京豐臺國有資本運營集團有限公司旗下北京麗澤金融商務區控股集團有限公司、中國中冶控股子公司上海寶冶集團有限公司共同持股。"
+    },
+    {
+      "id": "mkt:019e86db-963f-7dd4-a7a8-4785d3c1b2b7",
+      "time": "2026-06-02 13:43:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian Defence Ministry said it struck Ukraine's defence-industrial facilities with high-precision, long-range weapons."
+    },
+    {
+      "id": "mkt:019e86db-6860-7dd4-a7a8-3d8b86504513",
+      "time": "2026-06-02 13:43:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "State Street's head of trading for South Korea expects the South Korean won to stabilise in H2."
+    },
+    {
+      "id": "4911951",
+      "time": "2026-06-02 13:42:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部表示，俄方已使用高精度遠端武器打擊烏克蘭國防工業設施。"
+    },
+    {
+      "id": "4911950",
+      "time": "2026-06-02 13:42:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼4月份棕櫚油出口量為190萬噸。"
+    },
+    {
+      "id": "mkt:019e86da-795f-7dd4-a7a8-32b5dab91a5c",
+      "time": "2026-06-02 13:42:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Russia's FSB warns foreign intelligence services use mobile devices for sabotage】Russia's Federal Security Service (FSB) warned foreign intelligence services are using mobile communication devices to support sabotage and advised against discussing classified information on or near mobile devices, saying conversations could be accessed by third parties and consequences could be irreversible. The FSB said it uncovered an operation in which a foreign intelligence service used malware-infected smartphones to obtain information from a senior Russian official."
+    },
+    {
+      "id": "mkt:019e86da-380b-7dd4-a7a8-2c331a4464dc",
+      "time": "2026-06-02 13:41:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Han Zheng meets UK foreign secretary Cooper】Beijing, June 2 — Vice President Han Zheng met UK Foreign Secretary Cooper in Beijing. Han said President Xi and Prime Minister Starmer agreed in January to develop a long-term, stable comprehensive strategic partnership and urged closer strategic communication to consolidate bilateral momentum, expand economic and people-to-people ties, and pursue multilateralism and global governance reform to boost stability and predictability. Cooper said the UK and China share broad common interests and cooperation potential in trade and investment, AI, green development and climate response, and the UK is willing to work with China to implement leaders' consensus through constructive dialogue and cooperation."
+    },
+    {
+      "id": "4911949",
+      "time": "2026-06-02 13:41:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【韓正會見英國外交大臣庫珀】6月2日，國家副主席韓正在北京會見英國外交大臣庫珀。韓正表示，今年1月，習近平主席同斯塔默首相一致同意發展中英長期穩定的全面戰略伙伴關係，開啟兩國關係新篇章。中英關係改善發展符合兩國人民利益。雙方要攜手承擔大國責任，加強戰略溝通，鞏固雙邊關係良好勢頭，不斷挖掘新機遇，孕育新動能，促進人文交流和民心相通。共同踐行真正的多邊主義，攜手推進全球治理體系改革，為世界注入更多穩定性和確定性。（新華社）"
+    },
     {
       "id": "mkt:019e86d9-b743-7dd4-a7a8-20b3114ec054",
       "time": "2026-06-02 13:41:09",
@@ -159081,55 +159153,6 @@
         "國際"
       ],
       "text": "印度證券交易委員會主席：探索債務證券代幣化試點專案。"
-    },
-    {
-      "id": "4899681",
-      "time": "2026-05-26 13:45:01",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "印度市場監管機構負責人：正在審查上市債券是否需要與上市股票相同的強化資訊披露要求。"
-    },
-    {
-      "id": "4899680",
-      "time": "2026-05-26 13:43:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "【德龍鐳射等新設戰新股權投資基金】企查查APP顯示，近日，江蘇南通元禾重元戰新股權投資基金合夥企業（有限合夥）成立，經營範圍包含：以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該企業由江蘇南通新一代資訊科技產業專項母基金（有限合夥）、德龍鐳射等共同出資。"
-    },
-    {
-      "id": "4899679",
-      "time": "2026-05-26 13:43:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "【雅榕極光（溫州）創業投資合夥企業成立，出資額5155萬】天眼查App顯示，近日，雅榕極光（溫州）創業投資合夥企業（有限合夥）成立，執行事務合夥人為郭軍海，出資額5155萬人民幣，經營範圍為創業投資，以私募基金從事股權投資、投資管理、資產管理等活動。合夥人資訊顯示，該合夥企業由雅戈爾時尚股份有限公司、雅榕私募基金管理（浙江）有限公司共同出資。"
-    },
-    {
-      "id": "4899678",
-      "time": "2026-05-26 13:42:55",
-      "tags": [
-        "市場"
-      ],
-      "text": "京東方A觸及漲停，成交額超200億元。"
-    },
-    {
-      "id": "4899677",
-      "time": "2026-05-26 13:42:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "瑞典將於7月起下調公共交通票價。"
-    },
-    {
-      "id": "4899676",
-      "time": "2026-05-26 13:42:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "三體宇宙發宣告回應“原CEO許垚被執行死刑”。"
     }
   ]
 }
