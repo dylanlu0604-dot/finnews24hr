@@ -1,7 +1,58 @@
 {
-  "updated": "2026-06-03 00:32:18",
-  "count": 18303,
+  "updated": "2026-06-03 00:36:16",
+  "count": 18307,
   "items": [
+    {
+      "id": "mkt:019e8930-7948-7779-8aab-278a83d8c937",
+      "time": "2026-06-03 00:35:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Secretary of State Rubio said Washington received, via the Lebanese government and its parliament speaker, a message from Hezbollah stating it will not attack Israel unless Israel attacks Beirut."
+    },
+    {
+      "id": "4913464",
+      "time": "2026-06-03 00:35:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破96美元/桶，日內漲1.10%。"
+    },
+    {
+      "id": "4913463",
+      "time": "2026-06-03 00:34:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮記者協會晚宴定於7月24日（週五）舉辦，原定4月舉行的晚宴因槍擊突發事件緊急疏散停辦，涉案嫌疑人已被控圖謀刺殺總統。白宮記者協會主席表示：本屆晚宴不止是常規會務活動，更要藉此宣告：暴力不容於美國社會，自由媒體絕不會在脅迫下噤聲。諸位已然證明，團結與勇氣理應戰勝恐嚇。"
+    },
+    {
+      "id": "mkt:019e892f-959b-7779-8aab-1e0d3ef2dd96",
+      "time": "2026-06-03 00:34:17",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "【Musk-linked shell company buys land outside Houston; potential site for Terafab chip plant】A shell company linked to Elon Musk has purchased more than 6,000 acres across at least six parcels in Grimes County outside Houston, land records show. The buyer, WIT Tech LLC, appears to be securing a site for Terafab, a proposed chip factory backed by SpaceX, Tesla and xAI with planned capital spending of about $55 billion and potential total investment of up to $119 billion. Transaction prices were not disclosed."
+    },
+    {
+      "id": "4913462",
+      "time": "2026-06-03 00:33:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "匈牙利總理毛焦爾談歐盟：我們不會成為阻礙。我們知道我們是這個俱樂部的一員。我們知道我們不會在所有事情上都意見一致——但我們不會為了否決而否決。否決是一項主權權利——但只有在真正關乎國家利益且所有談判手段都已用盡時，它才值得使用。我相信談判。我曾在布魯塞爾作為外交官工作九年，從未動用過一次否決權。"
+    },
+    {
+      "id": "4913461",
+      "time": "2026-06-03 00:33:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲1%，現報95.96美元/桶。"
+    },
     {
       "id": "mkt:019e892c-6d06-7779-8aab-143b4e1fcbfa",
       "time": "2026-06-03 00:30:50",
@@ -167660,26 +167711,6 @@
         "國際"
       ],
       "text": "外交訊息人士：卡利巴夫訪問卡達期間，雙方商討了伊朗凍結資金的解凍機制。"
-    },
-    {
-      "id": "4900883",
-      "time": "2026-05-27 00:35:50",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美銀淡化市場擔憂，否認超大規模雲服務商將“淹沒”信用債市場】美國銀行策略師們並不擔心超大規模雲服務商（Hyperscalers）在市場中的債務份額會過大，以至於投資者無法消化。美銀指出，四家高信用評級的超大規模雲服務商的風險溢價持續走寬，這使得它們的相對價值頗具吸引力。目前被納入ICE美銀美國公司債主指數的超大規模雲服務商債務總額估計為4500億美元，這一規模遠低於其他高度集中的大型行業板塊。"
-    },
-    {
-      "id": "te:markets:553834",
-      "time": "2026-05-27 00:35:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Gasoline is down by 5.01% — Gasoline decreased 5.01% to 3.281 USD/Gal"
     }
   ]
 }
