@@ -1,7 +1,41 @@
 {
-  "updated": "2026-06-03 03:05:10",
-  "count": 18446,
+  "updated": "2026-06-03 03:09:09",
+  "count": 18445,
   "items": [
+    {
+      "id": "mkt:019e89bc-2cdb-733d-8819-030f89246514",
+      "time": "2026-06-03 03:07:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Microsoft",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "MSFT.O"
+      ],
+      "text": "NVIDIA (NVDA.O) will partner with Microsoft (MSFT.O) to develop a unified technology stack for agentic AI."
+    },
+    {
+      "id": "mkt:019e89b9-9827-733d-8818-fee7d7b0b34c",
+      "time": "2026-06-03 03:05:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CNBC said Israeli Prime Minister Netanyahu will be interviewed by a CNBC reporter at 10:00 a.m. ET on June 3 (22:00 Beijing time)."
+    },
+    {
+      "id": "4913612",
+      "time": "2026-06-03 03:04:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達攜手微軟合作搭建自主智慧體 AI 一體化技術棧。"
+    },
     {
       "id": "4913611",
       "time": "2026-06-03 03:03:52",
@@ -169018,49 +169052,6 @@
         "其他"
       ],
       "text": "以軍持續向黎巴嫩南部下達強制撤離令，要求另外七個村鎮的居民緊急疏散避險。"
-    },
-    {
-      "id": "4900952",
-      "time": "2026-05-27 03:08:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗伊斯蘭革命衛隊航空防空系統夜間監測到一架美軍F-35隱形戰機，該機疑似企圖從南部闖入伊朗領空。"
-    },
-    {
-      "id": "mkt:019e65ae-7957-7332-8105-c93edbd9dba6",
-      "time": "2026-05-27 03:06:33",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Nikkei Cites Turkish Official: NATO To Invite Japan, South Korea, Australia, New Zealand To July Summit"
-    },
-    {
-      "id": "4900951",
-      "time": "2026-05-27 03:06:14",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "美國國家航空航天局：分別與阿斯卓拉布、月球前哨兩家企業簽訂月球車專案合同，每份合同價值2.2億美元。"
-    },
-    {
-      "id": "mkt:019e65ad-d638-7332-8105-c2f98b9f81b6",
-      "time": "2026-05-27 03:05:51",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "KASHKARI Says Protracted Iran War Could Prompt US Rate-Hike Series"
     }
   ]
 }
