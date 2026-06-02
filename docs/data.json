@@ -1,7 +1,158 @@
 {
-  "updated": "2026-06-02 21:47:19",
-  "count": 18050,
+  "updated": "2026-06-02 21:51:23",
+  "count": 18061,
   "items": [
+    {
+      "id": "te:markets:555795",
+      "time": "2026-06-02 21:50:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "ProLogis Stock Price Hits 4-week Low — ProLogis shares decreased to 138.87 USD, the lowest since May 2026. Over the past 4 weeks, ProLogis gained 0.33%, and in the last 12 months, it increased 28.02%."
+    },
+    {
+      "id": "mkt:019e8899-bcfb-777f-8415-97a730187a42",
+      "time": "2026-06-02 21:50:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Dangote CEO says refinery is operating at full capacity."
+    },
+    {
+      "id": "4913155",
+      "time": "2026-06-02 21:50:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "丹戈特（Dangote）執行長：公司將於2028年底前新增70萬桶/日的煉油產能。"
+    },
+    {
+      "id": "mkt:019e8899-6f33-777f-8415-8c3a63e831cc",
+      "time": "2026-06-02 21:50:15",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "Dangote CEO says the company will add 700,000 b/d of refining capacity by end-2028."
+    },
+    {
+      "id": "mkt:019e8899-5d0a-777f-8415-83945e75834d",
+      "time": "2026-06-02 21:50:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "Macro & Rates",
+        "US Economy",
+        "GBPUSD",
+        "Impact mixed",
+        "DXY",
+        "US10Y"
+      ],
+      "text": "Bank of England Governor Bailey is due to appear before the House of Lords in 10 minutes; U.S. April JOLTS job openings are scheduled for release in 10 minutes."
+    },
+    {
+      "id": "mkt:019e8897-ba1b-777f-8415-78cdbb603c58",
+      "time": "2026-06-02 21:48:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sky News reports sales of SpaceX shares via intermediaries including Hargreaves Lansdown may total up to $2 bln."
+    },
+    {
+      "id": "4913153",
+      "time": "2026-06-02 21:48:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：透過Hargreaves Lansdown等中介平臺出售的SpaceX股份規模可能高達20億美元。"
+    },
+    {
+      "id": "mkt:019e8897-68f2-777f-8415-775fd0cf4589",
+      "time": "2026-06-02 21:48:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran to hold funerals for late Supreme Leader Ali Khamenei in three cities】State media reported Iran will hold funeral ceremonies for late Supreme Leader Ali Khamenei in Tehran, Qom and Mashhad."
+    },
+    {
+      "id": "4913152",
+      "time": "2026-06-02 21:47:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗將在三座城市為哈梅內伊舉辦葬禮】據伊朗伊斯蘭共和國通訊社2日報道，伊朗將在德黑蘭、庫姆和馬什哈德三座城市為伊朗已故最高領袖阿里·哈梅內伊舉辦葬禮。（新華社）"
+    },
+    {
+      "id": "mkt:019e8897-18fd-777f-8415-6c82d11bae11",
+      "time": "2026-06-02 21:47:44",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Japan's finance minister Katayama said the government and some financial institutions will be granted access to Anthropic's Mythos model."
+    },
+    {
+      "id": "4913151",
+      "time": "2026-06-02 21:47:33",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "日本財務大臣：日本政府及部分金融機構將獲得Anthropic公司Mythos大模型訪問許可權。"
+    },
+    {
+      "id": "4913150",
+      "time": "2026-06-02 21:47:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：馬斯克旗下SpaceX計劃在其IPO中加入面向英國零售投資者的配售。"
+    },
+    {
+      "id": "4913149",
+      "time": "2026-06-02 21:47:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列外交部：誰都不願自己的孩子僅有 15 秒時間逃往防空洞。真主黨是挾持整個黎巴嫩的恐怖組織。 我們必將守護本國孩童安全。"
+    },
+    {
+      "id": "mkt:019e8896-92db-777f-8415-6275a369d66c",
+      "time": "2026-06-02 21:47:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sky News reports SpaceX, owned by Elon Musk, plans to include an allocation for UK retail investors in its IPO."
+    },
+    {
+      "id": "mkt:019e8896-542b-777f-8415-5cc25775a1b1",
+      "time": "2026-06-02 21:46:53",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders"
+      ],
+      "text": "【SAIC Motor to build first European EV plant in Spain】Galicia regional government said SAIC Motor will invest an initial €200m to build its first European electric-vehicle factory in Ferrol, A Coruña. The plant is targeted to produce 120,000 vehicles a year and is expected to create more than 2,300 jobs. Construction is slated to begin in 2027 with commercial operation targeted by end-2028. The project includes an industrial zone near the local port for vehicle assembly and shipment."
+    },
+    {
+      "id": "4913148",
+      "time": "2026-06-02 21:46:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "真主黨宣告：為保衛黎巴嫩及其民眾，回擊以色列敵方破壞停火協議、襲擊黎巴嫩南部村鎮並造成殉難者與多名平民傷亡的行徑，伊斯蘭抵抗運動武裝人員在東扎烏塔爾鎮東南郊，對以軍第二輛尼米拉軍用車輛實施打擊，命中目標屬實。"
+    },
     {
       "id": "mkt:019e8895-fdd7-777f-8415-551cc9870c66",
       "time": "2026-06-02 21:46:31",
@@ -165362,58 +165513,6 @@
         "國際"
       ],
       "text": "【花旗：市場可能過度反映了美聯儲加息的預期】受霍爾木茲海峽海上交通恢復的希望推動，美債收益率下跌，但投資者反映的預期仍是今年美聯儲加息的可能性高於降息。花旗分析師寫道，這種預期反映是錯誤的。“我們認為風險平衡偏向另一方，未來幾周或幾個月內可能會重新反映降息預期。“花旗承認，較低的能源成本將使美聯儲能夠再次關注穩定的失業率和高於目標的通貨膨脹，這表明應將利率維持在當前水平。但這些分析師表示，基本面風險“平衡偏向勞動力市場疲軟和通貨膨脹放緩的方向“，這使得降息成為最可能的下一步舉措。"
-    },
-    {
-      "id": "4900720",
-      "time": "2026-05-26 21:51:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內漲4%，現報97.25美元/桶。"
-    },
-    {
-      "id": "4900719",
-      "time": "2026-05-26 21:50:14",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "PTA連續主力合約日內漲1%，現報6052.00元。"
-    },
-    {
-      "id": "mkt:019e648c-c16c-7330-84b4-8bcfd25f39b9",
-      "time": "2026-05-26 21:50:06",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【Iran Parliament Official Says Iran-US Ties Will Remain Challenging Even After Deal】May 25 — Chair, Iran Parliament National Security And Foreign Policy Committee Says US Unlikely To Act In Good Faith; Any Deal Won't End Iran‑US Challenges; Post‑Feb.28 Iran 'Completely Different,' Must Prepare"
-    },
-    {
-      "id": "mkt:019e648c-bfc0-7330-84b4-83f85cf6af6f",
-      "time": "2026-05-26 21:50:06",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "S&P500",
-        "Impact mixed",
-        "DXY",
-        "US10Y"
-      ],
-      "text": "US May Conference Board Consumer Confidence Index Due In 10 Minutes"
-    },
-    {
-      "id": "4900718",
-      "time": "2026-05-26 21:49:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗議會要員：即使達成協議 伊美關係仍存挑戰】當地時間5月25日，伊朗伊斯蘭議會國家安全和外交政策委員會主席易卜拉欣·阿齊茲在接受採訪時再次強調，“美國人不太可能真誠行事，他們太習慣於撕毀協議了”。阿齊茲表示，即使伊朗與美國透過談判達成協議，也不意味著衝突結束，不意味著伊朗與美國的關係不再面臨挑戰——美國的行為本身就說明“離一切結束還很遠”。阿齊茲還強調，2月28日戰爭後的伊朗與之前的伊朗“已經完全不同”。伊朗必須為這場生死攸關的鬥爭做好準備。（央視新聞）"
     }
   ]
 }
