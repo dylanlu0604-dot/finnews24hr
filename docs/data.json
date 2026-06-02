@@ -1,7 +1,196 @@
 {
-  "updated": "2026-06-02 21:59:46",
-  "count": 18069,
+  "updated": "2026-06-02 22:04:09",
+  "count": 18070,
   "items": [
+    {
+      "id": "mkt:019e88a5-29ed-777f-8416-219723b41a12",
+      "time": "2026-06-02 22:03:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury yields pared losses after job openings data; the 10-year yield fell 1.4 bps to 4.463%."
+    },
+    {
+      "id": "te:economy:555803",
+      "time": "2026-06-02 22:02:48",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Job Offers",
+        "Importance 3"
+      ],
+      "text": "US Job Openings Highest since Nov 2024 — The number of job openings increased to 7.6 million in April 2026, the highest since November 2024 and well above market expectations of 6.88M. Job openings increased over the year by 520,000. In April, the number of job openings increased in professional and business services (+668,000), but decreased in finance and insurance (-135,000). Over the month, hires and total separations decreased to 5.1 million and 5.0 million, respectively. Within separations, both quits (3.0 million) and layoffs and discharges (1.7 million) were little changed."
+    },
+    {
+      "id": "mkt:019e88a4-c78d-777f-8416-1f4c82ab1fc5",
+      "time": "2026-06-02 22:02:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kremlin said Saudi Arabia's energy minister will lead a large delegation, including ARAMCO, to attend this week's economic forum."
+    },
+    {
+      "id": "mkt:019e88a4-7957-777f-8416-147d8e3dc966",
+      "time": "2026-06-02 22:02:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Kremlin said Saudi Arabia will be the main guest at this week's economic forum."
+    },
+    {
+      "id": "mkt:019e88a4-437d-777f-8416-093c22bea26c",
+      "time": "2026-06-02 22:01:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kremlin says a U.S. official delegation led by Rodney Cook, chair of the U.S. Arts Committee, will attend this week’s St. Petersburg International Economic Forum — the first formal U.S. delegation visit to Russia since 2017-18."
+    },
+    {
+      "id": "4913185",
+      "time": "2026-06-02 22:01:41",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "波蘭央行：後續決策將取決於經濟資料。"
+    },
+    {
+      "id": "4913184",
+      "time": "2026-06-02 22:01:10",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "波蘭央行：可能會干預外匯市場。"
+    },
+    {
+      "id": "4913183",
+      "time": "2026-06-02 22:00:47",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【中泰證券助力江西財投集團公司債券成功發行】6月1日，由中泰證券擔任牽頭主承銷商、簿記管理人的江西省財政投資集團有限公司2026年面向專業投資者公開發行公司債券（第一期）成功發行。本期債券發行規模16億元，期限5年，全場認購倍數達4.99倍，最終票面利率1.74%，重新整理江西省5年期公司信用類債券發行利率歷史最低紀錄。"
+    },
+    {
+      "id": "4913182",
+      "time": "2026-06-02 22:00:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮表示，由美國美術委員會主席率領的美國官方代表團將於本週出席聖彼得堡經濟論壇。"
+    },
+    {
+      "id": "mkt:019e88a3-1a64-777f-8416-00e10991fc87",
+      "time": "2026-06-02 22:00:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Polish central bank says future policy decisions will be data-dependent."
+    },
+    {
+      "id": "4913181",
+      "time": "2026-06-02 22:00:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "克里姆林宮表示，沙特能源大臣將率大型代表團出席，代表團成員包括沙特阿美方面人員。"
+    },
+    {
+      "id": "mkt:019e88a3-1947-777f-8415-fc650a88c9e7",
+      "time": "2026-06-02 22:00:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Polish central bank reiterated it may intervene in FX markets."
+    },
+    {
+      "id": "4913180",
+      "time": "2026-06-02 22:00:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "普京週四將與烏茲別克總統會談，商談俄羅斯在這個中亞國家建造核電站的相關事宜。"
+    },
+    {
+      "id": "4913179",
+      "time": "2026-06-02 22:00:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮表示，美國代表團將於本週在聖彼得堡與俄羅斯政府官員舉行會談。"
+    },
+    {
+      "id": "mkt:019e88a2-bc2a-777f-8415-f2f21bb05df9",
+      "time": "2026-06-02 22:00:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "U.S. April JOLTS job openings 7.618 mln, vs. 6.88 mln expected; prior revised from 6.866 mln to 6.887 mln."
+    },
+    {
+      "id": "4913178",
+      "time": "2026-06-02 22:00:12",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國4月JOLTs職位空缺 761.8萬人，預期688萬人，前值由686.6萬人修正為688.7萬人。"
+    },
+    {
+      "id": "4913177",
+      "time": "2026-06-02 22:00:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：智利警方突襲桑坦德銀行，並逮捕了一名員工。"
+    },
+    {
+      "id": "mkt:019e88a2-625a-777f-8415-efa719ba87b9",
+      "time": "2026-06-02 22:00:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | JOLTS Job Openings (Apr) | actual 7618000K | consensus 6880000K | previous 6866000K"
+    },
+    {
+      "id": "mkt:019e88a2-32f1-777f-8415-e57d6cf4dac3",
+      "time": "2026-06-02 21:59:50",
+      "tags": [
+        "MKT News",
+        "BSAC.SN"
+      ],
+      "text": "Chilean police raided Banco Santander and arrested one employee, Chilean media reported."
+    },
+    {
+      "id": "mkt:019e88a1-c591-777f-8415-dcdd2967b422",
+      "time": "2026-06-02 21:59:19",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "KATAYAMA said he understood access to the MYTHOS model had been granted to some Japanese institutions."
+    },
+    {
+      "id": "4913176",
+      "time": "2026-06-02 21:59:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣：據我方瞭解，日本相關機構已獲准接入Mythos系統。"
+    },
     {
       "id": "4913175",
       "time": "2026-06-02 21:58:30",
@@ -165401,204 +165590,6 @@
         "國際"
       ],
       "text": "市場訊息：普京將於 5 月 28 日在哈薩克經濟論壇上發表講話。"
-    },
-    {
-      "id": "mkt:019e6499-7fbd-7330-84b5-0a006953a2ab",
-      "time": "2026-05-26 22:04:01",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "TASS: Russia, Kazakhstan To Discuss Boosting Oil Transport Capacity"
-    },
-    {
-      "id": "4900747",
-      "time": "2026-05-26 22:03:49",
-      "tags": [
-        "市場"
-      ],
-      "text": "【網際網路上機器使用的流量已超人類 智慧體成使用網際網路主角】資料顯示，2025年至2030年中國智慧體市場規模預計將從804億元增長至6968億元，年均複合增長率達到54%。當前，智慧體正逐漸成為人工智慧形成現實生產力的主要途徑。但在產業加速跑的同時，技術架構不統一、互動協議不相容等問題也日益凸顯。專家表示，面對這一新興產業，急需加快標準化工作，打破技術壁壘。專家指出，隨著智慧體成為直接使用網際網路的主角，網際網路本身也正在從“資訊交換的網”邁向“能力協同的網”。中國信通院人工智慧研究所所長：“2025年網際網路上來自機器的自動化流量佔比已經突破了53%，超過人類上網的流量。其中來自智慧體的流量更是在過去一年上漲了78倍。智慧體未來一定會成為直接使用網際網路的主角。”（央視財經）"
-    },
-    {
-      "id": "4900746",
-      "time": "2026-05-26 22:03:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：俄羅斯與哈薩克將商討擴大石油運輸通道運力。"
-    },
-    {
-      "id": "4900745",
-      "time": "2026-05-26 22:02:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "【外籍人士在美等綠卡或不再可行？美國最新移民政策調整引爭議，科技行業最受傷】“這個週末我接了好幾個身邊朋友的電話，都對這個政策非常擔心。它的打擊面非常廣。”美國陸律師事務所（Law Office of Lu & Associates）的管理律師陸穎26日告訴記者。 陸穎所說的政策指的是美國公民及移民服務局（USCIS）於當地時間5月22日釋出的一項新的移民政策備忘錄，其中要求除非特殊情況，身處美國境內、有意申請合法永久居留身份（綠卡）的外籍人士，必須返回本國遞交申請。 這一政策變化立刻引起了相關移民群體的關注甚至恐慌。USCIS新聞發言人扎克·卡勒（Zach Kahler）隨後澄清稱，這項新政策並不會適用於所有型別的移民，能夠“帶來經濟利益或符合國家利益”的申請者仍有可能沿用先前路徑推進申請，而其他型別的申請者則可能根據具體情況被要求在境外提出申請。 儘管如此，陸穎告訴第一財經，無論是備忘錄本身還是發言人的澄清都沒有明確說明，究竟哪些人、具備怎樣的條件，才能證明自己對美國具有“經濟利益”或符合“國家利益”。目前也不清楚正在審理中的身份調整申請是否會適用新政策。 （第一財經）"
-    },
-    {
-      "id": "4900744",
-      "time": "2026-05-26 22:02:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美媒：隨著美國空襲引發伊朗局勢緊張升級，特朗普將罕見造訪戴維營】隨著與伊朗的和平談判臨近關鍵時刻，美國總統特朗普將於週三罕見地造訪戴維營，並在那裡舉行內閣會議。預計所有內閣成員都將前往位於馬里蘭州鄉村地區的這座總統休養地，與特朗普會合。受惡劣天氣影響，會議地點可能會發生變動。據一位白宮官員透露，與會官員將討論“本屆政府近期取得的各項成就，其中包括經濟發展與小企業領域的成果、‘消除欺詐工作組’的重點工作亮點，以及外交政策方面的最新動態”。然而，鑑於美國此前對伊朗南部的目標實施了空襲，且隨後伊朗最高領袖穆傑塔巴發出了針對美國在中東軍事基地的威脅，伊朗問題極有可能成為此次會議的主導議題。"
-    },
-    {
-      "id": "mkt:019e6497-eed0-7330-84b5-0203040f3000",
-      "time": "2026-05-26 22:02:12",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "【TRUMP To Make Rare Camp David Visit As US Airstrike Escalates Iran Tensions】NY Post: TRUMP To Visit Camp David Wednesday For Cabinet Meeting; All Cabinet Expected To Attend; Venue Rural Maryland, Weather Could Force Change; WHITE HOUSE Official Lists Agenda: Economic And Small-Business Wins, Anti-Fraud Task Force Highlights, Foreign-Policy Updates; Iran Likely Dominant Topic After US Strike On Southern Iran, Iran's Supreme Leader Mujtaba Threatens US Middle East Bases"
-    },
-    {
-      "id": "4900743",
-      "time": "2026-05-26 22:01:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：俄羅斯與哈薩克將簽署核電站相關協議。"
-    },
-    {
-      "id": "4900742",
-      "time": "2026-05-26 22:01:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "納斯達克100指數漲幅擴大至1.5%。"
-    },
-    {
-      "id": "4900741",
-      "time": "2026-05-26 22:00:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國5月諮商會消費者現況指數 121.2，前值123.8。\n美國5月諮商會消費者預期指數 74.4，前值72.2。"
-    },
-    {
-      "id": "mkt:019e6496-c7f1-7330-84b4-fbb9e47e4a18",
-      "time": "2026-05-26 22:00:55",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact mixed"
-      ],
-      "text": "U.S. Conference Board Consumer Expectations 74.4 May; Prior 72.2"
-    },
-    {
-      "id": "mkt:019e6496-811c-7330-84b4-f6e0a06757cf",
-      "time": "2026-05-26 22:00:43",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "S&P500",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "US10Y"
-      ],
-      "text": "US Conference Board Present Situation Index Falls To 121.2 In May From 123.8"
-    },
-    {
-      "id": "mkt:019e6496-80c3-7330-84b4-ec7b1cdc3d0f",
-      "time": "2026-05-26 22:00:42",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Conference Board Expectations Index (May) | actual 74.4 | previous 72.2"
-    },
-    {
-      "id": "mkt:019e6496-7ec0-7330-84b4-e1d875eb2cde",
-      "time": "2026-05-26 22:00:33",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Conference Board Current Conditions Index (May) | actual 121.2 | previous 123.8"
-    },
-    {
-      "id": "4900740",
-      "time": "2026-05-26 22:00:20",
-      "tags": [
-        "資料",
-        "焦點",
-        "國際"
-      ],
-      "text": "美國5月諮商會消費者信心指數 93.1，預期92，前值92.8。"
-    },
-    {
-      "id": "em:jjsj_mgsj:202605263749991720",
-      "time": "2026-05-26 22:00:19",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "美國5月諮商會消費者信心指數93.1，預期92，前值92.8。"
-    },
-    {
-      "id": "4900739",
-      "time": "2026-05-26 22:00:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以色列空襲加沙地帶中部致5人死亡】巴勒斯坦加沙地帶安全和醫療部門訊息人士26日告訴新華社記者，以軍當天對加沙地帶中部邁加齊難民營發動空襲，造成5人死亡。加沙地帶安全部門訊息人士和目擊者稱，以色列無人機當天上午襲擊了一群巴勒斯坦人。加沙地帶醫療部門訊息人士稱，以色列空襲後，5名遇難者遺體和多名傷者被送往醫院。以色列軍方尚未就此次空襲發表宣告。加沙地帶衛生部門26日釋出的報告顯示，自2025年10月10日停火協議生效以來，已有900多名巴勒斯坦人在以方軍事行動中死亡、2000多人受傷。（新華社）"
-    },
-    {
-      "id": "mkt:019e6496-0591-7330-84b4-dbbfbf6a439c",
-      "time": "2026-05-26 22:00:11",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "S&P500",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "US Conference Board Consumer Confidence Index May 93.1, Est 92, Apr 92.8"
-    },
-    {
-      "id": "mkt:019e6495-f2e7-7330-84b4-d014eab06410",
-      "time": "2026-05-26 22:00:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "RCN TV: Colombia Electoral Interference Investigation Committee To Probe President Gustavo Petro"
-    },
-    {
-      "id": "mkt:019e6495-d243-7330-84b4-cd16559a44db",
-      "time": "2026-05-26 22:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Conference Board Consumer Confidence Index (May) | actual 93.1 | consensus 92 | previous 92.8"
-    },
-    {
-      "id": "te:markets:553797",
-      "time": "2026-05-26 21:59:50",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "GSCI Hits 4-week Low — GSCI decreased to 710.55 Index Points, the lowest since April 2026. Over the past 4 weeks, GSCI Commodity Index lost 2.38%, and in the last 12 months, it increased 35.72%."
     }
   ]
 }
