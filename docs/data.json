@@ -1,7 +1,88 @@
 {
-  "updated": "2026-06-03 01:24:21",
-  "count": 18358,
+  "updated": "2026-06-03 01:28:16",
+  "count": 18364,
   "items": [
+    {
+      "id": "mkt:019e8960-7aa3-7779-8aac-3dc6ea708fc8",
+      "time": "2026-06-03 01:27:41",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Iraq says it will raise pipeline crude exports in two phases over the next 2.5 months, increasing flows from 220,000 bpd to 770,000 bpd — a net rise of 550,000 bpd."
+    },
+    {
+      "id": "4913529",
+      "time": "2026-06-03 01:27:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥提議將美墨加協定有效期延長16年。"
+    },
+    {
+      "id": "4913528",
+      "time": "2026-06-03 01:27:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta週二宣佈，為提升青少年線上安全，正最佳化Facebook、Instagram和Messenger青少年賬號的內容管控設定。"
+    },
+    {
+      "id": "mkt:019e895f-2f89-7779-8aac-309e8d7cc181",
+      "time": "2026-06-03 01:26:12",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Iraq's cabinet approved an agreement with Syria to transport, store and process Basra light, medium and heavy crude via the Mediterranean ports of Banias and Tartus."
+    },
+    {
+      "id": "4913527",
+      "time": "2026-06-03 01:25:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國本田汽車：5月電動化汽車銷量為44173輛。"
+    },
+    {
+      "id": "mkt:019e895e-5f2f-7779-8aac-2da93c62bceb",
+      "time": "2026-06-03 01:25:23",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Iraq said it plans to raise crude exports delivered by truck to neighboring countries to 420,000 bpd in three phases."
+    },
+    {
+      "id": "mkt:019e895d-d026-7779-8aac-212383ba7bce",
+      "time": "2026-06-03 01:24:47",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "Microsoft (MSFT.O) officially previewed a desktop device built around a MediaTek chip as part of its Project Solara initiative."
+    },
+    {
+      "id": "4913526",
+      "time": "2026-06-03 01:24:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際原子能機構總幹事格羅西表示，我們不僅向阿聯酋提供道義支援，同時也提供技術支援。"
+    },
     {
       "id": "4913524",
       "time": "2026-06-03 01:22:29",
@@ -168197,23 +168278,6 @@
         "焦點"
       ],
       "text": "比特幣跌破76000美元，日內跌1.84%。"
-    },
-    {
-      "id": "4900909",
-      "time": "2026-05-27 01:27:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國疾控中心（CDC）要求工作組提供志願者，此前美國在兩個機場針對埃博拉病毒實施篩檢。"
-    },
-    {
-      "id": "4900908",
-      "time": "2026-05-27 01:26:37",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【SpaceX啟動IPO燃爆市場狂熱，火箭與衛星概念股全線暴漲】航天基礎設施公司紅線系統（Redwire Corp.）股價一度暴漲31%，衛星寬頻通訊公司AST SpaceMobile Inc.狂飆20%，火箭與航天器製造商螢火蟲太空（Firefly Aerospace Inc.）漲幅亦高達21%。彭博社彙總的資料顯示，由美國銀行編纂、旨在追蹤太空競賽核心參與者及潛在受益者的“美國太空競賽一攬子股票”投資組合，今年以來錄得驚人漲幅。分析師與投資者普遍預計，全球太空經濟將持續擴張，整個太空概念股板塊有望在未來二十年內精準捕獲這一歷史性的經濟增長紅利。"
     }
   ]
 }
