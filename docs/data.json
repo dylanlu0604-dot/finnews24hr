@@ -1,7 +1,71 @@
 {
-  "updated": "2026-06-02 12:12:31",
-  "count": 17319,
+  "updated": "2026-06-02 12:16:31",
+  "count": 17323,
   "items": [
+    {
+      "id": "4911852",
+      "time": "2026-06-02 12:15:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌1%，現報91.22美元/桶。"
+    },
+    {
+      "id": "te:economy:555584",
+      "time": "2026-06-02 12:15:27",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Indonesia",
+        "Inflation Rate",
+        "Importance 2"
+      ],
+      "text": "Indonesia Inflation Tops Expectations — Indonesia’s annual inflation accelerated to 3.08% in May 2026 from an eight-month low of 2.42% in the prior month, surpassing market expectations of 2.97%. Despite the pickup, inflation remained within the central bank’s target range of 1.5% to 3.5%. On a monthly basis, consumer prices increased 0.28%, up from a 0.13% rise in April and well above forecasts of a 0.14% gain."
+    },
+    {
+      "id": "4911851",
+      "time": "2026-06-02 12:14:35",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【野村證券認為印度央行將維持利率不變】野村證券預計印度儲備銀行（印度央行）將於6月5日維持政策利率不變，理由是該行奉行正統通脹目標制框架、加息對外匯維穩收效有限，且當前通脹水平低於政策目標。包括內森・斯里巴拉松德拉姆在內的策略師在研報中稱，隔夜指數互換（OIS）市場定價隱含6月5日議息會議加息約30個基點。由於收益率曲線短端流動性偏弱，OIS市場定價高於市場普遍預期，隱含加息幅度不止25個基點。"
+    },
+    {
+      "id": "4911850",
+      "time": "2026-06-02 12:12:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "香港交易所稱與哈薩克交易所等簽署合作備忘錄，加強與中亞市場互聯互通。"
+    },
+    {
+      "id": "mkt:019e8688-729b-7dd4-a7a6-90125b53d1af",
+      "time": "2026-06-02 12:12:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【US Weighs Expanding Nuclear Deployments in Europe to Reassure NATO Allies】US officials are discussing expanding US nuclear deployments to additional NATO countries in Europe to reassure allies that reductions in conventional military support will not weaken their security. Officials are reportedly open to adding deployments beyond the six countries that currently host US nuclear-capable bombers, potentially enabling more bases for US dual-capable aircraft able to deliver nuclear weapons; Poland and some Baltic states have expressed interest. People familiar with the talks say any formal agreement to expand deployments is unlikely to be reached soon."
+    },
+    {
+      "id": "4911849",
+      "time": "2026-06-02 12:12:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏稱遭俄大規模空襲9人死60多人傷】當地時間今天（6月2日）凌晨，包括首都基輔在內，烏克蘭全境大部分地區都響起了空襲警報，基輔接連傳出劇烈爆炸聲。烏克蘭方面稱，截至目前，俄軍的大規模空襲造成基輔、第聶伯羅和哈爾科夫至少9人死亡、60多人受傷。俄方稱，盧甘斯克地區一所學校當地時間5月22日凌晨遭烏克蘭無人機襲擊，造成21人死亡、40多人受傷。烏克蘭軍方否認襲擊該學校。俄軍5月24日使用“榛樹”高超音速導彈等武器對烏克蘭實施報復性打擊後，於5月25日表示將繼續實施打擊，同時敦促他國外交官員和外國公民撤離基輔。 連日來，烏克蘭總統澤連斯基多次警告稱可能遭大規模襲擊。"
+    },
+    {
+      "id": "4911848",
+      "time": "2026-06-02 12:11:54",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【日本啟動福島第一核電站2號機組剩餘乏燃料取出工作】當地時間6月2日，日本東京電力公司開始從福島第一核電站2號機組的乏燃料池中取出核燃料。在發生事故的1號至4號機組中，3號機和4號機已完成相關作業，2號機是第3個開展此項工作的機組。根據東京電力公司介紹，當地時間2日中午開始，工作人員使用起重機將長約4米、重約250公斤的燃料元件逐一吊起，並在水中將其裝入金屬容器，該容器直徑約1.4米，長度約5.6米。據悉，在福島第一核電站2號機組反應堆廠房上層的乏燃料池內，目前存放著587組已使用燃料和28組未使用燃料。東京電力公司計劃在2028財年之前，將全部615組燃料轉移至核電站內的共用乏燃料池。"
+    },
     {
       "id": "4911847",
       "time": "2026-06-02 12:10:33",
@@ -158352,30 +158416,6 @@
         "其他"
       ],
       "text": "【深圳“十五五”規劃綱要：推動人工智慧賦能千行百業】《深圳市國民經濟和社會發展第十五個五年規劃綱要》釋出。其中提出，深入實施“人工智慧+”行動，以更大力度場景開放推動人工智慧在產業、科技、民生和城市治理等領域全面滲透。推動“人工智慧+先進製造”融合，構建高度自主化、深度柔性化、全域性高效化新一代製造系統技術底座，打造“設計即製造、製造即智慧、製造即服務”的未來製造新模式。"
-    },
-    {
-      "id": "4899604",
-      "time": "2026-05-26 12:15:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "【深圳“十五五”規劃綱要：構建全棧自主可控技術底座 培育國際領先的國產通用大模型和行業應用模型】《深圳市國民經濟和社會發展第十五個五年規劃綱要》釋出。其中提出，統籌推進智算晶片研發製造、算力設施建設和模型演算法發展，打造高效易用的人工智慧技術底座。夯實算力晶片產業根基，推動昇騰等訓練晶片及端側推理晶片最佳化迭代和應用適配，促進國產人工智慧算力生態繁榮。夯實多層次智慧算力底座，高標準建設訓力基礎設施，打造超智協同、異構融合、普惠泛在的可持續算力供給體系。加強人工智慧基礎理論研究和模型基礎架構創新，培育國際領先的國產通用大模型和行業應用模型，以高價值應用場景推動模型演算法應用落地。到2030年，全市實時可用算力規模超150EFlops，國產晶片部分指標和算力叢集達到國際先進水平，形成能力強大、支撐全面應用的大模型底座。"
-    },
-    {
-      "id": "4899603",
-      "time": "2026-05-26 12:14:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "鴻蒙智行：歡迎黃渤成為鴻蒙智行問界M9品牌大使。"
-    },
-    {
-      "id": "4899602",
-      "time": "2026-05-26 12:13:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓稱朝鮮向半島西部海域發射不明飛行物 朝方暫無回應】當地時間5月26日，據韓國聯合參謀本部訊息，朝鮮向半島西部海域發射不明飛行物。目前，朝鮮官方暫未就此釋出訊息。（央視新聞）"
     }
   ]
 }
