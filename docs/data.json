@@ -1,7 +1,68 @@
 {
-  "updated": "2026-06-02 11:18:14",
-  "count": 17268,
+  "updated": "2026-06-02 11:22:21",
+  "count": 17272,
   "items": [
+    {
+      "id": "4911782",
+      "time": "2026-06-02 11:21:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美媒稱美伊談判重回正軌】美國有線電視新聞網6月1日援引一名熟悉美伊談判情況的地區訊息人士的話報道，談判已經重回正軌。伊朗媒體此前報道說，由於以色列對黎巴嫩持續發動襲擊，伊朗與美國的談判已暫停。但美國總統特朗普隨後表示，他已經與以色列方面通話，與伊朗的談判正在“快速推進”。"
+    },
+    {
+      "id": "te:markets:555569",
+      "time": "2026-06-02 11:20:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "South Korean Won Weakens Toward 17-Year Low — The South Korean won weakened past 1,517 per dollar, approaching the more than 17-year low of around 1,520 reached on May 22, as renewed Middle East tensions boosted oil prices and supported demand for the US dollar. Investors turned cautious amid reports that Iran suspended negotiations with the US, fueling fears of further disruptions to global energy markets, with higher crude prices posing a risk to South Korea's trade balance as a major energy importer. The currency also remained under pressure from broader risk aversion across regional markets. Meanwhile, South Korea's annual inflation rate accelerated to 3.1% in May, the highest in more than two years, reinforcing expectations that the Bank of Korea could move toward a rate hike as early as July. The currency also drew support from continued optimism over the country's semiconductor sector, after Nvidia unveiled a new AI-focused chip and discussed AI memory cooperation with SK Group."
+    },
+    {
+      "id": "te:markets:555568",
+      "time": "2026-06-02 11:20:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "European Gas Prices Ease — European natural gas futures dropped to €47.7 per megawatt hour after rallying 6.7% in the previous session on fears of prolonged supply disruptions. Monday’s sharp gains were driven by renewed tensions after Iran suspended indirect talks with the US over Israel's escalating attacks in Lebanon and threatened to extend the blockade of the Strait of Hormuz to the Bab el-Mandeb Strait, another critical chokepoint at the southern entrance to the Red Sea. Despite this, President Donald Trump said that talks were still ongoing. The continued closure of the Strait has cut around one-fifth of global LNG flows, posing a challenge for importing regions as the disruption has tightened global supplies and increased competition for cargoes. This raised concerns about Europe’s ability to rebuild gas inventories ahead of winter, as it only has 38% of its storage capacity filled."
+    },
+    {
+      "id": "mkt:019e8657-b35f-7448-8816-1263cf530cce",
+      "time": "2026-06-02 11:19:14",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【GCL Group chairman Zhu Gongshan: second half of PV paradigm shift is space-based energy \"borrowing land from the sky\"】GCL Group chairman Zhu Gongshan told the opening of the 19th International Solar PV and Smart Energy & Storage & Battery (Shanghai) Conference that the next phase of the photovoltaic industry’s paradigm shift will be space-based solar — \"borrowing land from the sky.\" He said the industry is moving from a watts+bits era to one combining materials and aerospace: harvesting above the atmosphere avoids atmospheric attenuation and diurnal cycles and offers near-ideal generation conditions. Falling launch costs from reusable rockets and large commercial satellite constellations creating scalable demand are pushing space PV toward engineering economics. Breakthroughs in perovskite/tandem cells, ongoing validation of engineering reliability, scaling of manufacturing and system cost improvements, and development of radiation-tolerant encapsulation could allow space applications within five to ten years."
+    },
+    {
+      "id": "mkt:019e8657-594f-7448-8816-0fe6c54d018a",
+      "time": "2026-06-02 11:18:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "The U.S. Trade Representative's office said beef, coffee, certain fruits and nuts, spices, petroleum and metal ores will be exempt from punitive tariffs in measures targeting Brazil."
+    },
+    {
+      "id": "4911781",
+      "time": "2026-06-02 11:18:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表辦公室：對巴西牛肉、咖啡、部分水果與堅果、香料、石油以及金屬礦石將免徵懲罰性關稅。"
+    },
     {
       "id": "4911780",
       "time": "2026-06-02 11:16:10",
@@ -41,6 +102,15 @@
         "Impact bearish"
       ],
       "text": "The U.S. Trade Representative's office proposed a 25% tariff on all imports from Brazil, excluding goods already subject to Section 232 national-security tariffs."
+    },
+    {
+      "id": "em:qqyh_ozlc:202606023757336970",
+      "time": "2026-06-02 11:15:25",
+      "tags": [
+        "央行",
+        "澳洲聯儲"
+      ],
+      "text": "【澳大利亞央行官員對通脹預期“上升”表示擔憂】澳大利亞央行政策委員會委員IanHarper表示，澳大利亞長期通脹預期有所上升，金融市場目前預計消費者價格將在較長時間內維持在央行目標之上，這種轉變是多年來未見的。“通脹預期很重要，”經濟學教授Harper週二在墨爾本出席澳大利亞經濟發展委員會的一場活動時稱。"
     },
     {
       "id": "4911777",
@@ -157801,33 +157871,6 @@
         "其他"
       ],
       "text": "【廣西柳州市自然災害救助應急響應調整為一級】柳州市防災減災救災委員會5月25日釋出通知，針對柳州市5.2級震群地震災害造成的災情，根據《柳州市自然災害救助應急預案（2025年修訂）》有關規定，市防災減災救災委員會決定於即日起將柳州市自然災害救助三級應急響應調整為一級，請各縣（區）、各有關單位按照預案要求做好救災救助工作。"
-    },
-    {
-      "id": "em:qqyh_mlc:202605263749398639",
-      "time": "2026-05-26 11:22:05",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【與主流預期唱反調！貝萊德：美聯儲有充分理由選擇降息】儘管近來市場對美聯儲年內加息的預期高漲，但貝萊德亞太區全球固定收益主管NavinSaigal卻與主流預期“唱反調”地表示，在新任主席凱文·沃什的領導下，美聯儲可能有充分理由選擇降息而非加息。"
-    },
-    {
-      "id": "4899550",
-      "time": "2026-05-26 11:22:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣東：堅定不移強化企業創新主體地位】5月26日，廣東省人民政府新聞辦公室舉行“開局起步‘十五五’”廣東專場新聞釋出會。廣東省科學技術廳廳長王月琴表示，廣東區域創新綜合能力連續9年全國第一，其中最大優勢就是企業創新能力強。全省高新技術企業7.4萬家、入庫科技型中小企業5.6萬家，均居全國前列，湧現出一批具有全球影響力的科技領軍企業。“十五五”時期，廣東將堅定不移強化企業創新主體地位，把平臺、專案、人才、資金等創新資源，更多佈局到企業、對接到企業。（上證報）"
-    },
-    {
-      "id": "4899549",
-      "time": "2026-05-26 11:19:21",
-      "tags": [
-        "公司",
-        "國際",
-        "原創"
-      ],
-      "text": "【三星成韓國負債最多企業集團】韓國金融監管機構週二表示，三星已成為韓國負債最多的企業集團，到2025年底總負債超過了SK集團。晶片製造商SK海力士的母公司SK集團排名落至第三位，現代汽車排名第二；之後是樂天第四，LG第五。總體而言，共有42家企業集團被認定為高負債企業，上一年為41家。截至去年底，這些集團的銀行信貸未償餘額為386.9萬億韓元（2,550億美元），比上年增長4.1%。"
     }
   ]
 }
