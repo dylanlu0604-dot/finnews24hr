@@ -1,7 +1,158 @@
 {
-  "updated": "2026-06-02 21:06:06",
-  "count": 17981,
+  "updated": "2026-06-02 21:10:16",
+  "count": 17990,
   "items": [
+    {
+      "id": "4913055",
+      "time": "2026-06-02 21:09:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "秘魯交通運輸從業者將獲臨時燃油補貼。"
+    },
+    {
+      "id": "4913054",
+      "time": "2026-06-02 21:09:11",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲哈馬克：經濟不確定性極高，因此政策前景也不確定。"
+    },
+    {
+      "id": "mkt:019e8873-0c69-799a-9e69-cd9f4272145c",
+      "time": "2026-06-02 21:08:15",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "ANTHROPIC plans to expand its network verification program."
+    },
+    {
+      "id": "4913053",
+      "time": "2026-06-02 21:08:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：普爾特將留任聯邦住房金融局局長，同時兼任房利美與房地美董事長。"
+    },
+    {
+      "id": "mkt:019e8872-d8c8-799a-9e69-c7eb9ada164a",
+      "time": "2026-06-02 21:08:07",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "ANTHROPIC is expanding its Glasswing program, extending partnerships to about 150 new organizations."
+    },
+    {
+      "id": "4913052",
+      "time": "2026-06-02 21:08:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic：擬進一步擴容網路安全核驗專案。"
+    },
+    {
+      "id": "4913051",
+      "time": "2026-06-02 21:07:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【融僑集團擬對旗下8只債券進行重組，本金餘額超75億元】融僑集團股份有限公司將對旗下包括“HPR融僑1”、“H融僑F1”、“H0融僑F1”等8只債券進行重組，債券餘額合計75.129億元。（澎湃）"
+    },
+    {
+      "id": "4913050",
+      "time": "2026-06-02 21:07:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic：計劃進一步擴容 Glasswing 專案。"
+    },
+    {
+      "id": "mkt:019e8872-5e18-799a-9e69-b8c9483fd35c",
+      "time": "2026-06-02 21:07:36",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Vito Energy Group's Bahrain head said the oil market may currently be underestimating certain risks."
+    },
+    {
+      "id": "4913049",
+      "time": "2026-06-02 21:07:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic：同步推出 Claude 安全產品線。"
+    },
+    {
+      "id": "mkt:019e8872-52bc-799a-9e69-b0a212c2cc59",
+      "time": "2026-06-02 21:07:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump has named FHFA Director and chairman of Fannie Mae and Freddie Mac Pulte as acting Director of National Intelligence. He will retain his FHFA post and his chairmanship of Fannie Mae and Freddie Mac during the acting DNI appointment."
+    },
+    {
+      "id": "4913048",
+      "time": "2026-06-02 21:07:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "加密支付服務商Movement獲美國、加拿大與歐盟持牌支付通道准入，承諾為新興市場打造穩定幣結算與收益基礎設施。"
+    },
+    {
+      "id": "4913047",
+      "time": "2026-06-02 21:07:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：任命普爾特為代理國家情報總監。"
+    },
+    {
+      "id": "4913046",
+      "time": "2026-06-02 21:06:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic：擴容 Glasswing 專案。"
+    },
+    {
+      "id": "mkt:019e8871-3909-7ee5-848c-853e7729bed9",
+      "time": "2026-06-02 21:06:21",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Weiduo Energy Group's Bahrain head said that from a refined products perspective, for the remainder of the year the market's supply system may struggle to keep pace with demand."
+    },
+    {
+      "id": "4913045",
+      "time": "2026-06-02 21:06:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "WORKDAY宣佈與亞馬遜網路服務（Amazon Web Services，AWS）實現資料雲整合。"
+    },
+    {
+      "id": "4913044",
+      "time": "2026-06-02 21:05:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic表示：我們正將合作伙伴關係拓展至約150家新機構。"
+    },
     {
       "id": "mkt:019e8870-4097-7ee5-848c-782f24538420",
       "time": "2026-06-02 21:05:15",
@@ -164697,82 +164848,6 @@
         "國際"
       ],
       "text": "【美國天然氣期貨早盤走高】隨著市場在長週末後重新開放，美國天然氣期貨小幅走高；長週末期間的預測下調了6月初的一些製冷需求預期。NatGasWeather.com在一份報告中表示，直到6月第一週，全國需求依然疲軟，“因為美國大部分地區經歷了完美的天氣，最高氣溫在60至80多華氏度之間“。該預報機構補充說，6月中下旬美國內陸地區更炎熱的天氣“如果得克薩斯州更熱的話，會更令人印象深刻“。將於明日到期的紐約商交所6月合約上漲1.2%，報每百萬英熱單位2.943美元。"
-    },
-    {
-      "id": "mkt:019e6467-e9c0-7ff6-ae00-3b9eb0d50361",
-      "time": "2026-05-26 21:09:52",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【ECB's Sleijpen Vows To Do 'Everything Necessary' To Reign In Inf】ECB's Sleijpen Vows To Do 'Everything Necessary' To Reign In Inf ECB Officials To Have Richer Data Ahead Of June Meeting Sleijpen Says Officials Weigh Iran-War Energy-Driven Inf Vs Slower Growth, Financial-Stability Risks Eurozone CPI +3.0% YoY In April, Above ECB 2% Target"
-    },
-    {
-      "id": "4900648",
-      "time": "2026-05-26 21:09:42",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【歐洲央行管委斯萊彭：歐洲央行將“竭盡全力”遏制通脹】歐洲央行管委斯萊彭表示，歐洲央行將採取一切必要措施，將消費者物價增速拉回目標水平；在制定相關計劃時，決策官員們將在6月的會議上掌握比以往更為豐富的資訊。斯萊彭表示：“歐洲央行當然會竭盡全力，確保通脹迴歸物價穩定的軌道。”目前，決策官員們仍在權衡兩方面的因素：一方面是源自伊朗戰爭及其引發的能源成本飆升所帶來的通脹壓力；另一方面則是經濟增長放緩以及金融穩定性面臨的風險。4月份的物價漲幅已達3%，遠超歐洲央行設定的2%的目標。"
-    },
-    {
-      "id": "4900647",
-      "time": "2026-05-26 21:09:36",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "匈牙利央行行長瓦爾加：持續走低的風險溢價可拓寬政策操作空間。"
-    },
-    {
-      "id": "4900646",
-      "time": "2026-05-26 21:09:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "【OpenAI廣告新策略：從小客戶切入，謀求規模化發展】今年早些時候，OpenAI首次在ChatGPT上線廣告業務，彼時合作的都是擁有高額廣告預算的知名品牌，例如Adobe、福特汽車和塔吉特百貨。如今，該公司正拓展廣告業務版圖，推出更多面向中小企業營銷人員的服務，正式與廣告巨頭Meta展開正面競爭。 一位接觸過OpenAI管理層的人士透露，公司高管向多家外部廣告技術企業表示，當前一大核心目標是挖掘本地小型商戶客戶，比如洗車行、乾洗店等。另一位廣告機構高管稱，OpenAI還上線了一系列面向中小廣告主的定製功能，包括轉化類廣告，這類廣告旨在引導使用者完成實際操作，比如下單消費、預約服務或填寫聯絡表單。 此番佈局，意味著OpenAI開始追趕Meta、谷歌等老牌廣告巨頭現有的成熟能力。（環球市場播報）"
-    },
-    {
-      "id": "4900645",
-      "time": "2026-05-26 21:08:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "【永傑新材：重大資產重組相關主體買賣股票不構成內幕交易】永傑新材公告稱，公司籌劃以現金購買奧科寧克（中國）投資有限公司相關資產，構成重大資產重組。自查期間為2025年7月26日起至《重大資產購買報告書（草案）》首次披露日。自查發現，永傑新材總經理助理趙小芳買入900股並賣出900股，奧科寧克（中國）投資有限公司人力資源總監張西娟買入1200股並賣出300股，二人已出具承諾稱交易與重組無關。經核查，相關主體買賣股票行為不構成內幕交易，不會對本次交易構成實質性法律障礙。"
-    },
-    {
-      "id": "4900644",
-      "time": "2026-05-26 21:07:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "Volatus Aerospace入選進入美國無人機主導地位計劃下一階段。"
-    },
-    {
-      "id": "4900643",
-      "time": "2026-05-26 21:06:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "【一油輪在阿曼首都附近海域遭遇事故 部分燃油洩漏入海】當地時間5月26日，英國海上貿易行動辦公室稱，當天上午，一艘油輪在阿曼首都馬斯喀特以東約60海里海域遭遇外部爆炸事故。目前暫無人員傷亡報告，但部分燃油洩漏入海。油輪船長報告稱，爆炸位置在船隻左舷靠近水線處。目前船員和船隻總體安全，但部分燃油已洩漏至海中。有關部門正對事故原因展開調查。（央視新聞）"
-    },
-    {
-      "id": "te:economy:553780",
-      "time": "2026-05-26 21:06:08",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Case Shiller Home Price Index YoY",
-        "Importance 2"
-      ],
-      "text": "US Home Price Gains Ease Further in March — The S&P Cotality Case-Shiller 20-City Home Price Index rose just 0.8% year-over-year in March 2026, easing from 0.9% in February and falling short of market expectations for a 1.0% increase. It was the weakest annual increase since July 2023, adding to evidence of a cooling US housing market. For the tenth straight month, inflation outpaced home price growth, continuing to erode inflation-adjusted housing wealth. Regional divergence also persisted, with Midwest and Northeast cities outperforming while many Sun Belt and Western markets remained under pressure. Chicago led annual price gains with a 6.1% increase, followed by New York at 4.0% and Cleveland at 3.0%. On the downside, Seattle recorded the steepest annual decline at –2.5%. Other weak performers included Denver (–2.0%), Tampa (–1.9%), Dallas (–1.7%), and Phoenix (–1.6%). Even traditionally resilient markets such as Los Angeles (–1.6%) and Washington (–0.1%) slipped into negative territory."
     }
   ]
 }
