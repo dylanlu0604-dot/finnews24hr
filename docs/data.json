@@ -1,7 +1,105 @@
 {
-  "updated": "2026-06-02 13:57:38",
-  "count": 17406,
+  "updated": "2026-06-02 14:01:47",
+  "count": 17413,
   "items": [
+    {
+      "id": "4911971",
+      "time": "2026-06-02 14:00:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【道通科技與ChargeLab達成戰略合作 共同拓展加拿大電動汽車充電市場】據道通科技訊息，近日，道通科技旗下子公司道通能源已與加拿大充電管理軟體平臺ChargeLab正式簽署戰略合作協議。雙方將共同為加拿大市場提供整合了硬體與軟體的一體化電動汽車充電解決方案。"
+    },
+    {
+      "id": "4911970",
+      "time": "2026-06-02 14:00:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞士4月貿易帳 30.98億瑞郎，前值31.77億瑞郎。"
+    },
+    {
+      "id": "mkt:019e86eb-05ac-7dd4-a7a8-a1904753ae1b",
+      "time": "2026-06-02 14:00:09",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Switzerland April trade surplus CHF 3.098 bln, down from CHF 3.177 bln previously."
+    },
+    {
+      "id": "4911969",
+      "time": "2026-06-02 14:00:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "【羅馬尼亞關閉俄領館 俄方：將對該不友好舉動作出回應】當地時間6月1日，俄羅斯外交部發言人扎哈羅娃表示，俄方肯定會對羅馬尼亞關閉俄羅斯在康斯坦察總領事館的這一決定作出回應，具體反制措施將另行公佈。近日，羅馬尼亞稱有俄無人機在羅馬尼亞境內墜毀，造成2人受傷。羅馬尼亞隨後宣佈俄羅斯駐康斯坦察總領事為“不受歡迎的人”，並關閉該總領事館。俄方此前表示，西方國家借羅馬尼亞無人機事件“大做文章”，但對俄的所有指控均缺乏證據，至今沒有拿出任何“相關事實與佐證材料”。（央視新聞）"
+    },
+    {
+      "id": "mkt:019e86ea-e568-7dd4-a7a8-9cc6774fb26f",
+      "time": "2026-06-02 13:59:56",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Switzerland | Trade Balance (Apr) | actual 3098000000B | previous 3177000000B"
+    },
+    {
+      "id": "4911968",
+      "time": "2026-06-02 13:59:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華為哈勃入股五線宏音 後者含智慧機器人業務】企查查APP顯示，近日，五線宏音（重慶）科技有限公司發生工商變更，新增華為關聯公司深圳哈勃科技投資合夥企業（有限合夥）為股東，同時註冊資本增至116.67萬元。企查查資訊顯示，該公司成立於2024年，經營範圍包含：智慧機器人的研發；智慧機器人銷售；可穿戴智慧裝置銷售；樂器零售；樂器批發；樂器零配件銷售等。"
+    },
+    {
+      "id": "4911967",
+      "time": "2026-06-02 13:59:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "A股工業富聯衝擊漲停，成交額超246億元，股價逼近歷史新高。"
+    },
+    {
+      "id": "4911966",
+      "time": "2026-06-02 13:59:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內漲2%，現報1410.90美元/盎司。"
+    },
+    {
+      "id": "mkt:019e86ea-149b-7dd4-a7a8-88f670b6ae48",
+      "time": "2026-06-02 13:59:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "A-share Foxconn Industrial hit the daily limit-up; turnover topped 24.6 billion yuan and the stock approached a record high."
+    },
+    {
+      "id": "mkt:019e86e8-dc1d-7dd4-a7a8-8450f896424b",
+      "time": "2026-06-02 13:57:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "QUNR.O",
+        "Impact bullish"
+      ],
+      "text": "【Qunar: Advance summer inbound bookings to Beijing up >20% YoY】Qunar data show advance bookings for summer 2026 inbound flights to Beijing are up more than 20% YoY. Jan–May 2026 foreign traveler bookings on Qunar covered over 100 Chinese cities; Beijing remains a top-3 inbound destination and saw a notable increase in foreigners using Beijing as their first stop versus last year."
+    },
+    {
+      "id": "4911965",
+      "time": "2026-06-02 13:57:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿達尼電力：目標裝機容量42050兆瓦，目前運營裝機容量18330兆瓦。"
+    },
     {
       "id": "4911964",
       "time": "2026-06-02 13:56:31",
@@ -159215,42 +159313,6 @@
         "Impact bullish"
       ],
       "text": "EUROSTOXX 50 FUTURES DOWN 0.36%, DAX FUTURES DOWN 0.39%, FTSE FUTURES UP 0.16%"
-    },
-    {
-      "id": "4899692",
-      "time": "2026-05-26 14:01:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "阿斯利康：DATROWAY獲美國食品藥品監督管理局批准，該審批基於三期臨床試驗資料，並完成了優先審評程式。"
-    },
-    {
-      "id": "te:markets:553634",
-      "time": "2026-05-26 14:01:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "NZX 50 Hits Two-Week High, Closes 0.8% Higher — The NZX 50 rose 99 points, or 0.8%, to close at 13,070 on Tuesday, halting losses from the previous session and hitting its highest level since May 12, mainly boosted by healthcare and tech stocks. Healthcare stocks surged 6.2%, with Fisher & Paykel Healthcare, a heavyweight stock, jumping 9.1% after posting a 24% increase in net profit for the 12 months ended March. Meanwhile, Ryman Healthcare rose 1.4% after reporting narrowing losses in the year to March. However, rising oil prices capped the gains after fresh US military strikes in Iran clouded the outlook for a US-Iran deal to reopen the Strait of Hormuz. Traders also remained cautious ahead of the RBNZ’s monetary policy decision on Wednesday, with markets expecting the central bank to keep interest rates unchanged while anticipating the release of the government’s 2026 budget. Other top gainers included Summerset Group Holdings (4.3%), ANZ Group Holdings (3.8%), Gentrack Group (3.2%), and Westpac Banking Corp. (2.0%)."
-    },
-    {
-      "id": "4899691",
-      "time": "2026-05-26 14:00:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "【鹽城國資成立黃海物流股權投資合夥企業，出資額20億元】企查查APP顯示，近日，鹽城市黃海物流股權投資合夥企業（有限合夥）成立，出資額20億元，經營範圍包含：以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該企業由鹽城盛州投資控股集團有限公司等共同出資。"
-    },
-    {
-      "id": "4899690",
-      "time": "2026-05-26 14:00:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本4月機床訂單終值同比增長45.1%。"
     }
   ]
 }
