@@ -1,7 +1,98 @@
 {
-  "updated": "2026-06-02 23:18:30",
-  "count": 18185,
+  "updated": "2026-06-02 23:22:49",
+  "count": 18193,
   "items": [
+    {
+      "id": "mkt:019e88ed-435c-755e-9b88-94dbaf31106b",
+      "time": "2026-06-02 23:21:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EU sets July 7 deadline for merger review of Paramount-Warner transaction."
+    },
+    {
+      "id": "4913337",
+      "time": "2026-06-02 23:21:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟設定7月7日為派拉蒙收購華納審查的最後期限。"
+    },
+    {
+      "id": "4913336",
+      "time": "2026-06-02 23:21:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "華納兄弟股價迅速轉漲。"
+    },
+    {
+      "id": "4913335",
+      "time": "2026-06-02 23:21:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海二手房5月成交2.8萬套，創近6年同期新高】延續“小陽春”的熱度，上海樓市“紅五月”行情兌現。根據“網上房地產”資料，2026年5月，上海二手房網籤成交28023套（全口徑資料，含商業、車位等），同比增長約31%。這一成交規模不僅創下近6年來的同期新高，即使放在近十年的時間跨度中，也僅次於2020年5月約3.05萬套的成交水平。58安居客房產研究院分院長張波點評稱：“上海這輪市場強勢表現，本質是市場自身週期性觸底後的修復反彈，疊加政策效應的持續釋放。此前調整週期中，市區部分不少二手房價格已出現明顯的過度下行，市場本身就具備修復動力，這一動力是成交量基本面。春節後限購最佳化等政策，進一步開啟了需求釋放的閘門，帶動市場熱度連續三個月維持高位。”(新京報)"
+    },
+    {
+      "id": "4913334",
+      "time": "2026-06-02 23:19:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：北約峰會將會是一場看點頗多的會議。"
+    },
+    {
+      "id": "mkt:019e88eb-0d01-755e-9b88-8a089c6e5857",
+      "time": "2026-06-02 23:19:22",
+      "tags": [
+        "MKT News",
+        "PARA.O",
+        "Impact mixed",
+        "WBD.O"
+      ],
+      "text": "Paramount's offer to acquire Warner is under EU review for foreign subsidies."
+    },
+    {
+      "id": "mkt:019e88ea-d8fa-755e-9b88-8568e6d8ab68",
+      "time": "2026-06-02 23:19:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China-Russia think-tank forum held in Moscow】A China-Russia think-tank forum was held in Moscow on the 1st–2nd to mark the 30th anniversary of the China-Russia strategic partnership and the 25th anniversary of the China-Russia Treaty of Good-Neighborliness and Friendly Cooperation. More than 200 government, academic and institutional delegates discussed deepening strategic cooperation and its significance for shaping a just international order."
+    },
+    {
+      "id": "4913333",
+      "time": "2026-06-02 23:19:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "派拉蒙收購華納的交易進入歐盟併購審查程式。"
+    },
+    {
+      "id": "mkt:019e88ea-b831-7cc5-8c74-06c9e33a1c73",
+      "time": "2026-06-02 23:19:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel says the IDF has permitted schools in northern border towns to reopen."
+    },
+    {
+      "id": "4913332",
+      "time": "2026-06-02 23:18:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列：以國防軍批准北部邊境城鎮學校復課。"
+    },
+    {
+      "id": "mkt:019e88e9-dc6b-7cc5-8c73-fdae58ba0447",
+      "time": "2026-06-02 23:18:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Colombia's state oil company said it activated an emergency plan during a 24-hour union strike."
+    },
     {
       "id": "te:markets:555819",
       "time": "2026-06-02 23:17:41",
@@ -166638,39 +166729,6 @@
         "Importance 0"
       ],
       "text": "Brent Crude Oil Above $100 — Brent crude oil futures traded around $100 per barrel on Tuesday, with fresh tensions between the US and Iran clouding hopes for an interim agreement to reopen the Strait of Hormuz. Recent clashes included US strikes near the strait, while reports indicated the US Navy has resumed escorting tankers through the area. Iran’s Revolutionary Guard also claimed it fired at an F 35 fighter jet and several drones after they entered Iranian airspace. The developments come as negotiations continue to end a conflict that has disrupted global energy markets. Secretary of State Marco Rubio said talks may take several more days as both sides work on the wording of an initial agreement. Oil prices, which surged in March and April, are now on track for a monthly decline as markets weigh the fragile ceasefire and possible reopening of Hormuz against rapidly tightening global inventories."
-    },
-    {
-      "id": "te:markets:553815",
-      "time": "2026-05-26 23:21:33",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "WTI Crude Oil Falls on Tuesday — WTI crude oil futures fell to $94.4 per barrel on Tuesday, after a small increase on Friday. Fresh tensions between the US and Iran clouded hopes for an interim agreement to reopen the Strait of Hormuz. Recent clashes included US strikes near the strait, while reports indicated the US Navy has resumed escorting tankers through the area. Iran’s Revolutionary Guard also claimed it fired at an F 35 fighter jet and several drones after they entered Iranian airspace. The developments come as negotiations continue to end a conflict that has disrupted global energy markets. Secretary of State Marco Rubio said talks may take several more days as both sides work on the wording of an initial agreement. Oil prices, which surged in March and April, are now on track for a monthly decline as markets weigh the fragile ceasefire and possible reopening of Hormuz against rapidly tightening global inventories."
-    },
-    {
-      "id": "4900845",
-      "time": "2026-05-26 23:20:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：隨著與伊朗的談判進入關鍵階段，美國總統特朗普將於週三在戴維營召開內閣會議，此類會議並不常見。福克斯新聞證實，全體內閣成員均將出席，即將卸任的國家情報總監圖西・加巴德也位列其中。 目前停火局勢日趨不穩，美方正考量後續舉措，力求與伊朗達成一份範圍更廣的協議，本次會議便在此背景下召開。"
-    },
-    {
-      "id": "mkt:019e64dd-c16e-7772-bfd8-99d6db6a977c",
-      "time": "2026-05-26 23:18:34",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "MU.O",
-        "Impact bullish",
-        "005930.KS",
-        "000660.KS"
-      ],
-      "text": "【Micron Tops $1 Trillion Market Cap As AI Spurs Memory-Chip Rally】Micron (MU.O) Market Cap Tops $1 Trillion After Shares Jump 18% To $886.60; UBS Raises PT To $1,625 From $535; Samsung Electronics Above $1 Trillion, SK Hynix Nears $1 Trillion"
     }
   ]
 }
