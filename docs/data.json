@@ -1,7 +1,216 @@
 {
-  "updated": "2026-06-02 22:25:16",
-  "count": 18118,
+  "updated": "2026-06-02 22:29:43",
+  "count": 18133,
   "items": [
+    {
+      "id": "mkt:019e88bc-b61f-7dd9-9eba-ceb1692082ac",
+      "time": "2026-06-02 22:28:45",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Coking coal futures (contract 2609) reversed into gains, up 1.39% at 1,387.5 yuan/ton; trading value ~27.679 bln yuan. Open interest rose about 32.1k contracts intraday, signaling notable position build. Coke futures (contract 2609) rose 1.51% to 2,015.5 yuan/ton; trading value ~1.809 bln yuan and open interest climbed nearly 1.5k contracts, with volume and OI increasing in tandem."
+    },
+    {
+      "id": "mkt:019e88bc-8769-7dd9-9eba-c25594213e58",
+      "time": "2026-06-02 22:28:21",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "US Secretary of State Rubio said an Iran agreement could be reached today, tomorrow or next week."
+    },
+    {
+      "id": "mkt:019e88bc-86b7-7dd9-9eba-bc7c7de3bec1",
+      "time": "2026-06-02 22:28:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of England Governor Bailey said markets may be overly optimistic about AI's pass-through effects."
+    },
+    {
+      "id": "mkt:019e88bb-e8a5-7333-b144-6f39248e1580",
+      "time": "2026-06-02 22:27:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Egypt's Ministry of Supply said the government approved a mechanism allowing sugar to be listed and traded on the commodities market."
+    },
+    {
+      "id": "4913245",
+      "time": "2026-06-02 22:27:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "Alphabet(GOOG.O)股價跌幅從此前的4.8%收窄至1.6%。"
+    },
+    {
+      "id": "4913244",
+      "time": "2026-06-02 22:27:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "納斯達克100指數轉跌。"
+    },
+    {
+      "id": "mkt:019e88bb-a4db-7333-b144-6659d0a04f46",
+      "time": "2026-06-02 22:27:30",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O",
+        "Impact bearish"
+      ],
+      "text": "Alphabet (GOOG.O) shares trimmed losses to 1.6% from an earlier 4.8%."
+    },
+    {
+      "id": "te:economy:555812",
+      "time": "2026-06-02 22:27:24",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "US 10-Year Yield Halts Slide — The yield on the 10-year US Treasury note rose was above 4.45% on Tuesday, halting the slide that bottomed at a three-week low in the prior week as the latest economic data favored restrictive policy by the Federal Reserve. The JOLTS indicated that job openings were well above expectations at their highest in over one year in April, consistent with robust labor data for the period in muted levels of jobless claims. On top of that, manufacturing activity was also above expectations in May per the ISM PMI, while prices continued to surge. Rate futures continued to show a portion of the market positioned for a rate hike by the Federal Reserve this year, even though the new FOMC Chairman Kevin Warsh had previously advocated for lower rates. The hawkish outlook for the central bank also persisted despite oil prices remaining below their peaks, as the continuous impasse between Iran and the US delayed expectations of restored energy supply from the region."
+    },
+    {
+      "id": "mkt:019e88bb-a3eb-7dd9-9eba-b7c2d2052c7b",
+      "time": "2026-06-02 22:27:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. Secretary of State Rubio said Iran may have agreed to negotiate some elements of its nuclear program it previously refused to discuss."
+    },
+    {
+      "id": "4913241",
+      "time": "2026-06-02 22:26:44",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：我們正在與伊朗進行談判。"
+    },
+    {
+      "id": "mkt:019e88ba-d97f-7333-b144-52c8bc35823c",
+      "time": "2026-06-02 22:26:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Senate Republican leader Thune, asked about Trump's appointment of Pulte as acting director of national intelligence, said the U.S. does not need a weaponized director of national intelligence."
+    },
+    {
+      "id": "mkt:019e88ba-d91e-7333-b144-4e816b3003be",
+      "time": "2026-06-02 22:26:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact mixed",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "U.S. Secretary of State Rubio said the U.S. is negotiating with Iran."
+    },
+    {
+      "id": "4913240",
+      "time": "2026-06-02 22:26:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "魯比奧：我們（美國）仍然是世界上唯一的全球超級大國，但如果這種力量不被用來保護那些締造它的人、那些它本應保護的人，那麼這一切都毫無意義。"
+    },
+    {
+      "id": "mkt:019e88ba-8135-7dd9-9eba-9cc2c4d05807",
+      "time": "2026-06-02 22:26:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Secretary of State Rubio: Iran's conventional defensive capabilities have been significantly degraded."
+    },
+    {
+      "id": "4913239",
+      "time": "2026-06-02 22:26:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "焦煤連續主力合約日內漲1%，現報1382.50元。"
+    },
+    {
+      "id": "4913238",
+      "time": "2026-06-02 22:26:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "比特幣跌破68000美元，日內跌4.92%。"
+    },
+    {
+      "id": "4913237",
+      "time": "2026-06-02 22:25:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：我們認為我們的預算將會經歷一些變化，我們的外交政策完全專注於美國的國家利益。"
+    },
+    {
+      "id": "4913236",
+      "time": "2026-06-02 22:25:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "魯比奧稱：伊朗的常規防禦能力已遭到大幅削弱。"
+    },
+    {
+      "id": "4913235",
+      "time": "2026-06-02 22:24:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：伊朗仍擁有大量無人機。"
+    },
+    {
+      "id": "mkt:019e88b9-2e28-7dd9-9eba-90e87adeae95",
+      "time": "2026-06-02 22:24:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Bank of England Governor Bailey said equity markets and credit spreads pose risks."
+    },
+    {
+      "id": "4913234",
+      "time": "2026-06-02 22:24:45",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行行長貝利：股票市場、信用利差方面存在風險。"
+    },
+    {
+      "id": "mkt:019e88b9-05f4-7dd9-9eba-8e1cd5886dcb",
+      "time": "2026-06-02 22:24:43",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "U.S. Secretary of State Rubio said Iran still possesses a large number of drones."
+    },
     {
       "id": "mkt:019e88b8-d32c-7dd9-9eba-8794757f7ed9",
       "time": "2026-06-02 22:24:33",
@@ -165980,70 +166189,6 @@
         "國際"
       ],
       "text": "【伊朗議長結束對卡達的訪問回國】據伊朗伊斯蘭共和國廣播電視臺26日報道，伊朗伊斯蘭議會議長卡利巴夫26日結束對卡達的訪問後返回伊朗。報道稱，卡利巴夫率團訪問卡達，同卡方官員就伊美談判程序及地區局勢進行磋商。 (新華社)"
-    },
-    {
-      "id": "4900781",
-      "time": "2026-05-26 22:29:34",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【法國興業銀行：美國國債比美股更具吸引力】法國興業銀行策略師表示，美國國債看起來比美股更具吸引力，收益率走高對股市構成風險。他們表示，當10年期國債收益率超過4.5%時，股票收益與債券收益率變幅之間將轉為強烈負相關。美國股權風險溢價正接近3%這一關鍵閾值，歷史上該水平往往預示著股市即將出現回撥。他們寫道：“美股吸收債券收益率進一步走高的能力似乎有限。”盈利預期上調不足以抵消股價上漲和債券收益率走高的影響。策略師指出，2026年大多數市場的股本成本並未下降。股價上漲的推動因素是盈利增長，而非估值倍數走高。"
-    },
-    {
-      "id": "4900780",
-      "time": "2026-05-26 22:28:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "【動力電池將迎大規模退役週期 動力電池回收新規來了】隨著我國新能源汽車保有量攀升，動力電池將迎來大規模退役週期。今年4月1日，《新能源汽車廢舊動力電池回收和綜合利用管理暫行辦法》正式實施。過去，小作坊高價截流、私拆倒賣，導致正規回收企業“有資質、無車收”。新規要求“車電一體”報廢，實行統一的24位“國標編碼”，為每塊電池賦予唯一“身份證”。白名單企業反饋回收量正穩步提升。廢舊電池既是環境風險的“燙手山芋”，也是蘊藏資源的“城市礦山”。只有將新規落到實處，讓每個環節合規運轉，才能釋放“城市礦山”紅利，護航新能源產業行穩致遠。（央視財經）"
-    },
-    {
-      "id": "mkt:019e64ae-2514-7330-84b5-47311e9972ab",
-      "time": "2026-05-26 22:26:34",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Turkey Says ERDOGAN, Iran's President Discussed War; Turkey To Continue Support In Negotiations"
-    },
-    {
-      "id": "4900779",
-      "time": "2026-05-26 22:26:10",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "比特幣升破78000美元，日內漲0.91%。"
-    },
-    {
-      "id": "4900778",
-      "time": "2026-05-26 22:25:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：土耳其將繼續在磋商中提供支援。"
-    },
-    {
-      "id": "4900777",
-      "time": "2026-05-26 22:25:31",
-      "tags": [
-        "資料",
-        "市場",
-        "國際"
-      ],
-      "text": "【隨著通脹擔憂加劇，美國消費者信心有所減弱】5月份，美國消費者信心小幅下滑；受伊朗戰爭引發物價上漲的影響，消費者對當前經濟狀況的看法有所回落。美國5月諮商會消費者信心指數下跌0.7點，至93.1。衡量當前狀況的指標在5月份下降3.2點至121.2，而衡量未來六個月預期的指標則上升至74.4。這份報告進一步印證了美國消費者對高昂生活成本日益增長的焦慮。儘管勞動力市場總體穩定，且鮮有大規模裁員跡象，但近期燃油價格的飆升對低收入家庭而言尤其具有挑戰性。"
-    },
-    {
-      "id": "4900776",
-      "time": "2026-05-26 22:25:27",
-      "tags": [
-        "觀點",
-        "國際"
-      ],
-      "text": "【高盛：油價波動下資本支出增長仍具韌性】高盛上調 2026 年美國資本支出增速預期至 7.8%，稱油價走高難以拖累企業投資勢頭。該行表示，人工智慧相關基建投入及稅收優惠將持續發力，抵消關稅與製造業面臨的不利因素，同時預計美國全年國內生產總值增速為 2.1%。"
     }
   ]
 }
