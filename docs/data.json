@@ -1,7 +1,99 @@
 {
-  "updated": "2026-06-02 23:22:49",
-  "count": 18193,
+  "updated": "2026-06-02 23:26:54",
+  "count": 18198,
   "items": [
+    {
+      "id": "4913343",
+      "time": "2026-06-02 23:25:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗將在三座城市為已故最高領袖哈梅內伊舉行葬禮】據伊朗媒體2日報道，伊朗首都德黑蘭市政府官員表示，已確定將在德黑蘭、庫姆和馬什哈德三座城市為已故最高領袖阿里·哈梅內伊舉行葬禮。德黑蘭市政府官員表示，相關部門正籌備在首都舉行的送葬儀式，預計有1500萬至2000萬人參加。根據哈梅內伊生前遺願及其親屬建議，其遺體將安葬於位於馬什哈德的伊瑪目禮薩聖陵。整個葬禮活動計劃持續三天。（新華社）"
+    },
+    {
+      "id": "4913342",
+      "time": "2026-06-02 23:25:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：在美國實施打擊行動後，伊朗的導彈、無人機及海軍戰力遭遇大幅損耗，其軍事基礎設施已被“嚴重削弱”，海軍近乎喪失作戰能力。"
+    },
+    {
+      "id": "4913341",
+      "time": "2026-06-02 23:24:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列空襲黎巴嫩南部多處城鎮。"
+    },
+    {
+      "id": "4913340",
+      "time": "2026-06-02 23:23:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "委內瑞拉已聘請霍金路偉律師事務所擔任其違約債務重組的法律顧問，該債務總額約為1700億美元。這一關鍵舉措可能成為近幾十年來規模最大的主權債務重組之一。"
+    },
+    {
+      "id": "mkt:019e88ef-1176-7007-9c8e-d95d5b2c30ca",
+      "time": "2026-06-02 23:23:49",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "U.S. Secretary of State Rubio said the United States does not have unlimited resources for war."
+    },
+    {
+      "id": "4913339",
+      "time": "2026-06-02 23:23:22",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：我們的戰爭資源並非無窮無盡。"
+    },
+    {
+      "id": "mkt:019e88ee-a172-7007-9c8e-d4831d4d84d8",
+      "time": "2026-06-02 23:23:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Yunji Technology and Qi An Xin launch high-security robot】At the 2026 Beijing Cybersecurity Conference on June 2, Beijing Yunji Technology Co. and Qi An Xin Group jointly launched a high-security service robot. The product positions service robots to expand beyond traditional commercial use in hotels and office buildings into higher-security environments including government, energy, finance and urban security operations."
+    },
+    {
+      "id": "te:markets:555825",
+      "time": "2026-06-02 23:23:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "HCA Stock Price Hits 42-week Low — HCA shares decreased to 367.42 USD, the lowest since August 2025. Over the past 4 weeks, HCA lost 13.94%, and in the last 12 months, it decreased 4.03%."
+    },
+    {
+      "id": "4913338",
+      "time": "2026-06-02 23:22:59",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【齊向東：AI引爆網安千億增量市場，最大受益者屬於創新頭部廠商】6月2日，第八屆北京網路安全大會（BCS 2026）在北京開幕。奇安信集團董事長齊向東在開幕峰會上表示，這波AI革命，對網安產業是大利好，最大受益者是創新的頭部安全廠商。網路安全是AI時代的基礎性產業，產業規模會伴隨數智化規模水漲船高，網路安全面前擺著的是千億級增量空間。當前中美網路安全產業規模相差高達12倍，AI時代的攻防失衡正引爆實戰安全、資料安全與全棧安全三類剛需，防護者選擇提升漏挖能力拉平失衡，不現實；防護者選擇依靠AI原生安全能力拉平失衡，也不現實；基於這兩條“不現實”，最終形成一條共識：加速網路安全升級改造，追平攻防失衡差距，是AI時代的必然選擇。"
+    },
+    {
+      "id": "mkt:019e88ee-13af-7cc5-8c74-179c31165237",
+      "time": "2026-06-02 23:22:31",
+      "tags": [
+        "MKT News",
+        "PARA.O",
+        "Impact mixed"
+      ],
+      "text": "Paramount is seeking European Union approval for its $110 billion Warner deal, market sources said."
+    },
     {
       "id": "mkt:019e88ed-435c-755e-9b88-94dbaf31106b",
       "time": "2026-06-02 23:21:50",
@@ -166679,56 +166771,6 @@
         "國際"
       ],
       "text": "據美聯社：美國國務卿魯比奧稱伊朗相關協議談判還將持續數日。"
-    },
-    {
-      "id": "mkt:019e64e3-eaba-7772-bfd8-aba9eba0a89b",
-      "time": "2026-05-26 23:25:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iran Restores Full International Internet Connectivity, State Media】Iran Telecom Restores Full International Internet Connection, Reported 26th"
-    },
-    {
-      "id": "4900846",
-      "time": "2026-05-26 23:24:50",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【伊朗媒體：伊朗全面恢復國際網際網路連線】據伊朗伊斯蘭共和國通訊社26日報道，伊朗電信公司已全面恢復國際網際網路連線。（新華社）"
-    },
-    {
-      "id": "te:markets:553817",
-      "time": "2026-05-26 23:23:49",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "S&P and Nasdaq Reach New Highs — The S&P 500 gained 0.7% on Tuesday, while the Nasdaq climbed more than 1% to fresh record highs while the Dow Jones reversed earlier gains and was down about 80 points as investors returned from the long weekend with continued focus on developments in the Middle East. Markets remained cautiously optimistic that the US and Iran could still reach an agreement, with traders viewing the two sides as closer than ever to a deal despite mixed signals and further US strikes. Technology, industrials, and materials led the market higher, while energy stocks posted the steepest declines. Among individual movers, Micron Technology surged more than 16%, pushing its market capitalization above $1 trillion for the first time after UBS raised its price target and said the stock could more than double. Alphabet rose 1%, Broadcom advanced 3%, and Tesla gained 1.8%. On the downside, Nvidia slipped 0.5%, while Microsoft and Amazon fell 0.8% and 0.7%, respectively. Exxon Mobil also declined 1.9%."
-    },
-    {
-      "id": "mkt:019e64e2-83cc-7772-bfd8-a61fb0ece432",
-      "time": "2026-05-26 23:23:46",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact bearish"
-      ],
-      "text": "GBP/USD Falls 0.50% Intraday To 1.3437"
-    },
-    {
-      "id": "te:markets:553816",
-      "time": "2026-05-26 23:23:21",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Crude Oil Above $100 — Brent crude oil futures traded around $100 per barrel on Tuesday, with fresh tensions between the US and Iran clouding hopes for an interim agreement to reopen the Strait of Hormuz. Recent clashes included US strikes near the strait, while reports indicated the US Navy has resumed escorting tankers through the area. Iran’s Revolutionary Guard also claimed it fired at an F 35 fighter jet and several drones after they entered Iranian airspace. The developments come as negotiations continue to end a conflict that has disrupted global energy markets. Secretary of State Marco Rubio said talks may take several more days as both sides work on the wording of an initial agreement. Oil prices, which surged in March and April, are now on track for a monthly decline as markets weigh the fragile ceasefire and possible reopening of Hormuz against rapidly tightening global inventories."
     }
   ]
 }
