@@ -1,7 +1,42 @@
 {
-  "updated": "2026-06-03 06:14:00",
-  "count": 18452,
+  "updated": "2026-06-03 06:17:51",
+  "count": 18453,
   "items": [
+    {
+      "id": "4913710",
+      "time": "2026-06-03 06:15:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上證報評論：莫讓票據衝量稀釋信貸成色】文章提到，今年4月，票據融資單月新增1.24萬億元，創有統計以來新高。進入5月後，票據利率仍持續低位執行，最後一週短端利率一度逼近零值，國有大行在二級市場持續買票。這些現象都指向同一個訊號：實體融資需求仍未明顯修復，銀行原本用於投放貸款的資金，部分轉向票據市場補量。也就是說，部分資金並未真正流向實體中長期融資需求，而是在銀行體系內透過票據形式完成規模調節。利率越接近零值，越說明銀行收票需求已經脫離正常收益約束。這種現象值得警惕。票據融資本身並非問題，問題在於若銀行過度依賴票據衝量，信貸資料表面上看起來並不差，但真實融資需求和企業中長期投資意願並沒有同步改善，這樣的信貸增長容易“虛胖”。更進一步看，若以票據替代真實貸款投放，不僅不能改善企業的投資意願，還可能使信貸考核從服務實體經濟轉向完成短期數字目標。尤其是在月末、季末等考核時點，如果銀行將票據作為衝規模、補缺口的主要工具，信貸資料成色就會被稀釋，金融支援實體經濟的質量也會打折扣。"
+    },
+    {
+      "id": "te:markets:555856",
+      "time": "2026-06-03 06:15:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Brazilian Real Rises by 0.68% — Top currency gainers are Brazilian Real (0.68%), Mexican Peso (0.45%), Australian Dollar (0.28%) and British Pound (0.07%). Biggest loser is Japanese Yen (-0.17%). Meanwhile, Dollar Index and Euro were little changed."
+    },
+    {
+      "id": "4913709",
+      "time": "2026-06-03 06:15:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：黎巴嫩與以色列官員今日在華盛頓舉行會晤。"
+    },
+    {
+      "id": "4913708",
+      "time": "2026-06-03 06:14:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【聯合國：剛果（金）東部暴力升級阻礙埃博拉疫情防控工作】當地時間6月2日，聯合國人道事務協調廳表示，剛果（金）東部持續升級的暴力衝突正嚴重影響平民安全，並阻礙埃博拉疫情防控工作。"
+    },
     {
       "id": "4913707",
       "time": "2026-06-03 06:10:28",
@@ -169119,45 +169154,6 @@
         "Importance 1"
       ],
       "text": "Energy Commodities Updates: Gasoline Plunges by 6.76% — Top commodity losers are Gasoline (-6.76%), Naphtha (-4.90%), Heating Oil (-4.53%), Brent Crude Oil (-3.77%) and Crude Oil WTI (-3.02%). Gains are led by Germany Natural Gas THE (4.65%), Propane (3.98%) and Natural Gas EU (3.24%)."
-    },
-    {
-      "id": "te:markets:553850",
-      "time": "2026-05-27 06:15:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: New Zealand Dollar Drops by 0.60% — Top currency losers are New Zealand Dollar (-0.60%), Turkish Lira (-0.51%), British Pound (-0.43%), Japanese Yen (-0.24%), Dollar Index (-0.10%) and Euro (-0.10%). Gains are led by South Korean Won (0.26%)."
-    },
-    {
-      "id": "mkt:019e665a-ba3d-7332-8107-2a5179957e46",
-      "time": "2026-05-27 06:14:42",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "【IRGC Navy Deputy Commander Says Energy Dependence Puts US In 'Request' Position】IRGC Navy Deputy Commander Mohammad Akbarzadeh Says US, Europe Energy Dependence Raises Vulnerability; Puts US In 'Request' Position To Strike Deal With Iran; Says US Hegemony Waning, Cannot Guarantee Allies' Security"
-    },
-    {
-      "id": "mkt:019e665a-15d9-7332-8107-259cf98d0b54",
-      "time": "2026-05-27 06:14:00",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Amazon",
-        "Market Themes",
-        "Magnificent 7",
-        "AMZN.O",
-        "Impact bullish"
-      ],
-      "text": "AWS Adds 24/7 U.S.-Citizen-Staffed Tech Support For GovCloud (US) Customers"
     }
   ]
 }
