@@ -1,7 +1,99 @@
 {
-  "updated": "2026-06-03 00:28:08",
-  "count": 18296,
+  "updated": "2026-06-03 00:32:18",
+  "count": 18303,
   "items": [
+    {
+      "id": "mkt:019e892c-6d06-7779-8aab-143b4e1fcbfa",
+      "time": "2026-06-03 00:30:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Goldman Sachs CEO Solomon said consumer behavior could change in H2."
+    },
+    {
+      "id": "mkt:019e892c-5b70-7779-8aab-0a45dc95885f",
+      "time": "2026-06-03 00:30:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Secretary of State Rubio said the US has achieved significant results, including preemptive de-escalation of crises before they erupted and the ending of ongoing conflicts, and said he was proud of those efforts."
+    },
+    {
+      "id": "4913460",
+      "time": "2026-06-03 00:30:09",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "高盛CEO所羅門：今年下半年美國消費者行為可能出現轉變。"
+    },
+    {
+      "id": "mkt:019e892b-6d96-7779-8aab-05cfe2118eab",
+      "time": "2026-06-03 00:29:45",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "Goldman Sachs CEO Solomon said systemic liquidity is ample to absorb large IPOs."
+    },
+    {
+      "id": "4913459",
+      "time": "2026-06-03 00:28:58",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "高盛CEO所羅門：當前市場貪婪情緒遠超恐慌情緒。"
+    },
+    {
+      "id": "mkt:019e892a-91d5-7779-8aaa-f8f47a8fcc41",
+      "time": "2026-06-03 00:28:48",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. Secretary of State Rubio said Venezuela's oil wealth is no longer being stolen but is being used directly to pay government employees' salaries, to procure medical equipment, and is being audited. He described this as a major development."
+    },
+    {
+      "id": "4913458",
+      "time": "2026-06-03 00:28:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "剛果（金）表示，埃博拉確診病例數已升至344例，其中死亡病例60例。"
+    },
+    {
+      "id": "mkt:019e8929-f087-7779-8aaa-f380d2b137af",
+      "time": "2026-06-03 00:28:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Secretary of State Rubio said the president has made clear the top priority is to ensure Iran never obtains nuclear weapons."
+    },
+    {
+      "id": "4913457",
+      "time": "2026-06-03 00:27:47",
+      "tags": [
+        "公司",
+        "觀點",
+        "焦點"
+      ],
+      "text": "高盛CEO所羅門：當前金融體系流動性充足，足以承接大型首次公開募股（IPO）。"
+    },
+    {
+      "id": "4913456",
+      "time": "2026-06-03 00:27:34",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "高盛CEO所羅門：Alphabet上調業績指引公告發布後，股價表現向好。"
+    },
     {
       "id": "4913455",
       "time": "2026-06-03 00:27:13",
@@ -167588,33 +167680,6 @@
         "Importance 0"
       ],
       "text": "Gasoline is down by 5.01% — Gasoline decreased 5.01% to 3.281 USD/Gal"
-    },
-    {
-      "id": "4900882",
-      "time": "2026-05-27 00:31:46",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【交易員尋獵AI贏家，目光投向日本調味品巨頭】加拿大的百浪多資產管理公司（Brompton Funds）首席投資官Laura Lau買入味之素（Ajinomoto Co.）的股票，該股在2026年年內至今已漲61%。這家日本公司不僅是家喻戶曉的調味品巨頭，更是半導體核心絕緣薄膜的絕對壟斷者。眼下，投資者正將目光投向科技行業之外，竭力尋找人工智慧基礎設施建設浪潮中的潛在受益者，包括水務公司、歐洲線纜企業以及天然氣管道運營商等領域均已進入投資者視野。"
-    },
-    {
-      "id": "4900881",
-      "time": "2026-05-27 00:29:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國中央司令部：近期有媒體報道稱，美國海軍已重啟護航行動，為行經霍爾木茲海峽的商船提供協助。該說法不實。“自由行動” 護航計劃並未重啟，目前美軍並未在霍爾木茲海峽為商船提供護航。"
-    },
-    {
-      "id": "mkt:019e651d-f622-7332-8104-d219377b4425",
-      "time": "2026-05-27 00:28:42",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Nikkei: TAKAICHI, LULA Meeting Being Arranged At Mid-June G7 Summit"
     }
   ]
 }
