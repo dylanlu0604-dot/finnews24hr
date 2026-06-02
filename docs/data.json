@@ -1,7 +1,162 @@
 {
-  "updated": "2026-06-02 23:10:08",
-  "count": 18165,
+  "updated": "2026-06-02 23:14:29",
+  "count": 18180,
   "items": [
+    {
+      "id": "4913324",
+      "time": "2026-06-02 23:12:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍放寬北部聚居區本土前線司令部管控措施，相關調整自週二起生效、持續至週日，恢復部分運作等級。"
+    },
+    {
+      "id": "mkt:019e88e5-2f02-755e-9b88-6e12e5ba2248",
+      "time": "2026-06-02 23:12:52",
+      "tags": [
+        "MKT News",
+        "CBOE.O",
+        "Impact bearish",
+        "CME.O",
+        "ICE.O"
+      ],
+      "text": "U.S. exchange operators fell on concerns about risks from perpetual futures: Cboe Global Markets dropped 9%, CME Group slid 4.7% to a one-year low, and Intercontinental Exchange fell 3.9%, approaching a two-year low."
+    },
+    {
+      "id": "4913323",
+      "time": "2026-06-02 23:12:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本首相高市早苗本月將決定是否將食品稅降至1%。"
+    },
+    {
+      "id": "te:markets:555818",
+      "time": "2026-06-02 23:12:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Siemens Energy Stock Price Hits 8-week Low — Siemens Energy shares decreased to 158.32 EUR, the lowest since April 2026. Over the past 4 weeks, Siemens Energy AG lost 10.4%, and in the last 12 months, it increased 78.16%."
+    },
+    {
+      "id": "mkt:019e88e4-84bc-755e-9b88-6313ee61430e",
+      "time": "2026-06-02 23:12:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The OCC, the Federal Reserve and the FDIC have removed references to 'reputational risk' from relevant documents."
+    },
+    {
+      "id": "4913322",
+      "time": "2026-06-02 23:12:03",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國交易所運營商股價因對永續期貨風險的擔憂進一步下跌。"
+    },
+    {
+      "id": "4913321",
+      "time": "2026-06-02 23:11:59",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "芝加哥期權交易所全球市場公司股價下跌9%，芝加哥商業交易所集團股價下跌4.7%，觸及一年多低點，洲際交易所股價下跌3.9%，逼近兩年低點。"
+    },
+    {
+      "id": "4913320",
+      "time": "2026-06-02 23:11:31",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國股市接近盤中高點，道瓊斯指數最新上漲0.3%。"
+    },
+    {
+      "id": "4913319",
+      "time": "2026-06-02 23:11:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：從伊朗得到回覆可能需要長達6天的時間。"
+    },
+    {
+      "id": "mkt:019e88e3-701e-755e-9b88-58e0ee68f9f0",
+      "time": "2026-06-02 23:11:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. Secretary of State Rubio said a response from Iran could take up to six days."
+    },
+    {
+      "id": "4913318",
+      "time": "2026-06-02 23:10:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：四分五裂的伊朗政權正面臨溝通問題。"
+    },
+    {
+      "id": "mkt:019e88e3-4dce-755e-9b88-5109a6762278",
+      "time": "2026-06-02 23:10:52",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "U.S. Secretary of State Rubio said the fractured Iranian regime is facing communication problems."
+    },
+    {
+      "id": "mkt:019e88e3-03f3-755e-9b88-4b14e194aeaa",
+      "time": "2026-06-02 23:10:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sources: Ivory Coast cocoa regulator raised the export premium from £0/tonne to £125/tonne. The regulator has sold about 1.0 mln tonnes of export contracts for the 2026-27 main crop season."
+    },
+    {
+      "id": "4913317",
+      "time": "2026-06-02 23:10:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "訊息人士稱，象牙海岸可可監管機構因厄爾尼諾擔憂限制2026/27銷售季銷量。"
+    },
+    {
+      "id": "mkt:019e88e2-a50d-755e-9b88-41ec48663fdf",
+      "time": "2026-06-02 23:10:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sources say Ivory Coast's cocoa regulator is capping sales for the 2026/27 season, citing El Nifio-related crop risk."
+    },
+    {
+      "id": "4913316",
+      "time": "2026-06-02 23:10:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞典正在考慮禁止15歲以下的人群使用社交媒體。"
+    },
+    {
+      "id": "4913315",
+      "time": "2026-06-02 23:09:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【有關垃圾焚燒，杜祥琬院士釋出闢謠宣告】6月2日，中國工程院官方網站釋出杜祥琬院士的正式宣告，針對近期網路流傳的“杜祥琬院士及其團隊將核技術應用於垃圾焚燒並取得顯著效果”相關不實宣傳內容，進行公開闢謠。杜祥琬表示，近期，在網路上出現一些宣傳，聲稱本人及其團隊將核技術應用於垃圾焚燒，取得顯著效果。本人與團隊參與了“無廢城市”試點建設相關諮詢專案研究。但本人從未參與，也未委託任何單位或個人將核技術應用於垃圾焚燒，當前網路流傳的相關新聞報道內容均為不實資訊。他表示，現提醒各媒體及網路平臺嚴格稽核釋出內容，本人將保留追究相關單位和個人法律責任的權利。"
+    },
     {
       "id": "4913314",
       "time": "2026-06-02 23:08:55",
@@ -166463,23 +166618,6 @@
         "Impact bullish"
       ],
       "text": "【Wall Street Banks Press Fed To Lock In Regulatory Easing】Banks Lobby Fed To Cement Biggest Banking Overhaul Since 2008, Seek Legal Clarity On MRA Alternatives As Republican Officials Curb MRA Use"
-    },
-    {
-      "id": "4900841",
-      "time": "2026-05-26 23:14:15",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "據耶路撒冷郵報援引以色列i24頻道外交記者訊息稱：一名美國官員否認有關美方已重啟霍爾木茲海峽船隻護航行動及 “自由行動” 的相關報道。"
-    },
-    {
-      "id": "mkt:019e64d6-c618-7772-bfd8-826e503f78d7",
-      "time": "2026-05-26 23:10:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【IDF Crosses April 17 'Yellow Line' Into Lebanon After HEZBOLLAH Drone Attacks】IDF crosses April 17 'Yellow Line' into Lebanon following HEZBOLLAH drone strikes; operational depth unclear"
     }
   ]
 }
