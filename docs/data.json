@@ -1,7 +1,37 @@
 {
-  "updated": "2026-06-03 00:52:15",
+  "updated": "2026-06-03 00:56:18",
   "count": 18329,
   "items": [
+    {
+      "id": "mkt:019e8942-a8be-7779-8aab-7364805484d7",
+      "time": "2026-06-03 00:55:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kremlin says President Putin held a phone call with Belarusian President Lukashenko to discuss further development of bilateral alliance cooperation."
+    },
+    {
+      "id": "4913490",
+      "time": "2026-06-03 00:54:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "微軟執行長表示，過去18個月公司新增的資料中心容量，超過了Azure成立頭十年的新增總量。"
+    },
+    {
+      "id": "mkt:019e8941-7c21-7779-8aab-6ac359d4f06d",
+      "time": "2026-06-03 00:53:50",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O"
+      ],
+      "text": "Microsoft (MSFT.O) announced the Surface RTX Spark Dev Box, a compact Windows-based developer PC powered by NVIDIA RTX Spark chips, designed for local-first (on-device) AI development."
+    },
     {
       "id": "4913489",
       "time": "2026-06-03 00:51:35",
@@ -167883,31 +167913,6 @@
         "Importance 1"
       ],
       "text": "PepsiCo Stock Price Hits 17-week Low — PepsiCo shares decreased to 146.36 USD, the lowest since January 2026. Over the past 4 weeks, PepsiCo lost 4.98%, and in the last 12 months, it increased 11.46%."
-    },
-    {
-      "id": "4900892",
-      "time": "2026-05-27 00:54:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美中央司令部否認恢復霍爾木茲海峽護航行動】當地時間26日，美軍中央司令部在社交媒體發文稱，最近有訊息稱，美國海軍已重新開始協助船隻透過霍爾木茲海峽。這一訊息不實。事實是，“自由計劃”行動尚未恢復，美國部隊目前並未護送商業船隻透過霍爾木茲海峽。當天早些時候，美國《華爾街日報》援引美軍官的話報道稱，美國海軍“已重新開始協助船隻”透過霍爾木茲海峽。（央視新聞）"
-    },
-    {
-      "id": "mkt:019e6535-b1ce-7332-8104-f151afd7d3f8",
-      "time": "2026-05-27 00:54:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Musk Says Refinitiv Report On SpaceX Starlink False; Says Pentagon Improperly Used Starlink Civil System"
-    },
-    {
-      "id": "4900891",
-      "time": "2026-05-27 00:54:09",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【Quantinuum擬IPO募資10.5億美元 此前列入美國政府量子計算支援計劃】霍尼韋爾國際支援的量子計算公司Quantinuum Inc.擬透過美國首次公開募股(IPO)募資10.5億美元，藉助投資者對該技術的熱情推進上市。根據公司週二提交給美國證券交易委員會(SEC)的檔案，Quantinuum計劃發行約2100萬股，發行價區間為每股45-50美元。根據檔案列出的已發行股份計算，按區間上限定價，Quantinuum的市值將達到127億美元。Quantinuum生產功能強大的量子計算機，能夠解決傳統處理器能力範圍之外的複雜任務。量子計算機有望實現計算能力的指數級飛躍，這對人工智慧至關重要。該公司正在開發可用於化學、機器學習、網路安全、金融和藥物發現等領域的平臺。檔案顯示，安進和三井物產等公司是其早期使用者和合作方。"
     }
   ]
 }
