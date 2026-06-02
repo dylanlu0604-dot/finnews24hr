@@ -1,7 +1,162 @@
 {
-  "updated": "2026-06-02 22:33:48",
-  "count": 18124,
+  "updated": "2026-06-02 22:37:53",
+  "count": 18128,
   "items": [
+    {
+      "id": "mkt:019e88c4-7e3f-7aa9-a70f-aa2bab1c22cc",
+      "time": "2026-06-02 22:37:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran discloses burial site for late Supreme Leader Ali Khamenei】State news agency said the late Supreme Leader Ali Khamenei will be interred at the Imam Reza shrine in Mashhad, citing his expressed wishes and his family's recommendation."
+    },
+    {
+      "id": "mkt:019e88c3-fe58-7aa9-a70f-a6ec80aeaced",
+      "time": "2026-06-02 22:36:45",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. Secretary of State Rubio said Washington hopes to end exemptions for sanctions on Russian oil as soon as possible."
+    },
+    {
+      "id": "4913263",
+      "time": "2026-06-02 22:36:41",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【6月2日增減持彙總】據不完全統計，6月2日盤後，四川九洲、宏川智慧、銀龍股份披露增持情況，包括中巖大地、露笑科技、移為通訊、艾布魯、青島銀行、蘇奧感測、欣靈電氣、唯科科技、芯動聯科、風語築、科美診斷、方邦股份、博納影業、威龍股份、蜀道裝備、浩通科技、必得科技、華鈺礦業、南模生物、聯域股份在內的20家A股上市公司披露擬減持情況。"
+    },
+    {
+      "id": "4913262",
+      "time": "2026-06-02 22:36:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：我們希望儘快結束對俄羅斯石油制裁的豁免。"
+    },
+    {
+      "id": "mkt:019e88c3-cbc4-7aa9-a70f-98c2ecc96562",
+      "time": "2026-06-02 22:36:29",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Rubio says U.S. negotiating with Iran】U.S. Secretary of State Rubio said on the 2nd that the United States is negotiating with Iran."
+    },
+    {
+      "id": "4913261",
+      "time": "2026-06-02 22:36:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【比亞迪：計劃今年底前建成2萬座閃充站】據深圳釋出，6月2日，以“車馳天下 材賦未來”為主題的2026年深汕特別合作區產業投資促進大會舉行。比亞迪股份有限公司副總裁羅忠良在會上發言時說，5年前比亞迪投資深汕的決定“無比正確”。目前，比亞迪深汕產業園一期已全面達產，二期產能穩步提升，三、四期於去年投產。今年3月釋出的第二代刀片電池即在深汕生產。羅忠良介紹，比亞迪已啟動“閃充中國”戰略，計劃今年底前建成2萬座閃充站。截至5月底，全國已建成超6150座，其中深圳已建成149座。此前釋出的第二代刀片電池及閃充技術，實現“5分鐘充好，9分鐘充飽；零下30℃，只多3分鐘”。"
+    },
+    {
+      "id": "mkt:019e88c3-7966-7aa9-a70f-964cc19b8efe",
+      "time": "2026-06-02 22:36:09",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "【Israeli strikes in southern Lebanon kill 10, injure 131】Lebanese Health Ministry said Israeli strikes on multiple sites in southern Lebanon on the 1st killed at least 10 and injured 131. Strikes around Jabal Amal Hospital in Tyre killed 4 and wounded 127, including 39 medical and administrative staff—four critically—and caused serious damage to hospital infrastructure. A separate strike on Marwaniyeh in the Sidon area killed six and injured four."
+    },
+    {
+      "id": "mkt:019e88c3-0c55-7aa9-a70f-883a5ddfe876",
+      "time": "2026-06-02 22:35:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Secretary of State Rubio said the U.S. will rejoin Gavi (Global Alliance for Vaccines and Immunization)."
+    },
+    {
+      "id": "4913260",
+      "time": "2026-06-02 22:35:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧表示，美國將重新參與全球疫苗聯盟的相關工作。"
+    },
+    {
+      "id": "4913259",
+      "time": "2026-06-02 22:35:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍襲擊黎南部多地致10死131傷】黎巴嫩衛生部2日表示，以色列1日對黎南部多地發動襲擊，造成至少10人死亡、131人受傷。（新華社）"
+    },
+    {
+      "id": "4913258",
+      "time": "2026-06-02 22:34:54",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【金飾大降價了】近期，國際金價持續震盪回落，1日盤中失守每盎司4500美元整數關口。金價從年初的歷史高位明顯回撤，國內黃金飾品價格也隨之下調。記者今天走訪北京的黃金賣場看到，目前北京市場主流品牌足金飾品零售價，普遍落在每克1340元至1370元區間，對比年初市場零售高點的每克1600元至1700元，單克價格下調超過300元，降幅約兩成。金價回落，帶動了剛性消費需求釋放，很多消費者帶著明確需求進店。投資類黃金市場觀望情緒更濃，更多消費者選擇逐步進場、按需入手。針對本輪金價回落，業內專家分析，核心原因是地緣政治衝突邊際緩和、美聯儲推遲降息預期升溫、美債收益率走高以及美元走強，短期金價確實存在一定調整壓力，但大跌空間有限。（央視財經）"
+    },
+    {
+      "id": "mkt:019e88c2-41a7-7aa9-a70f-804008440976",
+      "time": "2026-06-02 22:34:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Norway's finance minister said U.S. public support for NATO remains strong."
+    },
+    {
+      "id": "4913257",
+      "time": "2026-06-02 22:34:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：加拿大正式尋求續簽美墨加協定並減免相關行業關稅。"
+    },
+    {
+      "id": "mkt:019e88c1-c2b0-7aa9-a70f-78b2cac0cb94",
+      "time": "2026-06-02 22:34:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "9984.T",
+        "Impact bullish"
+      ],
+      "text": "【Masayoshi Son Reclaims Asia's Richest】Forbes real-time list shows SoftBank founder and CEO Masayoshi Son's net worth rose to US$100.7bn on June 2, surpassing Mukesh Ambani and Gautam Adani. SoftBank shares rallied as much as 14.71% yesterday, lifting market value to ¥48.0 trillion (about US$306bn) and briefly overtaking Toyota’s roughly ¥46.0 trillion, ending Toyota’s more-than-20-year run as Japan’s largest listed company by market cap. At today’s Tokyo close SoftBank market cap was ¥49.3 trillion versus Toyota ¥44.92 trillion."
+    },
+    {
+      "id": "4913256",
+      "time": "2026-06-02 22:34:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗伊斯蘭共和國通訊社2日報道，根據伊朗已故最高領袖阿里·哈梅內伊生前遺願及其親屬建議，其遺體將安葬在馬什哈德的伊瑪目禮薩聖陵。（新華社）"
+    },
+    {
+      "id": "4913255",
+      "time": "2026-06-02 22:33:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天源迪科：公司沒有參與穩定幣和跨境支付業務】天源迪科(300047)6月2日在業績說明會上表示，公司沒有參與穩定幣和跨境支付業務。"
+    },
+    {
+      "id": "mkt:019e88c0-d93e-7aa9-a70f-73f634c2b0d5",
+      "time": "2026-06-02 22:33:20",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Crypto Concepts"
+      ],
+      "text": "Tianyuan Dike said at a June 2 earnings briefing that it is not involved in stablecoin or cross-border payments businesses."
+    },
     {
       "id": "4913254",
       "time": "2026-06-02 22:32:45",
@@ -165952,127 +166107,6 @@
         "國際"
       ],
       "text": "以色列媒體26日報道說，以軍越過以黎停火線在黎巴嫩南部開展地面攻勢。（新華社）"
-    },
-    {
-      "id": "4900794",
-      "time": "2026-05-26 22:37:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國海軍恢復引導船隻穿越霍爾木茲海峽】美國軍方官員透露，美國海軍已恢復協助船隻穿越霍爾木茲海峽。這些官員表示，一艘滿載200萬桶原油的希臘籍超級油輪，在穿越阿曼海岸附近的水域時，獲得了美國海軍的引導護航。這艘船自3月初以來一直滯留在中東海灣地區，目前正駛往印度以交付其貨物。此次護航行動標誌著“自由計劃”的重啟。該計劃是美國此前發起的一項旨在引導船隻穿越這一重要航運通道的倡議，但在啟動約36小時後曾一度中止。官員們表示，美國海軍計劃在未來幾天內，協助包括超級油輪和集裝箱船在內的約十餘艘船隻穿越該水域。"
-    },
-    {
-      "id": "mkt:019e64b8-68cd-7330-84b5-d7f92b46bc59",
-      "time": "2026-05-26 22:37:39",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【U.S. Navy Resumes Escorts Through Strait Of Hormuz】U.S. Navy Escorts Greek Supertanker Laden With 2 mln Barrels Near Oman; Vessel En Route To India; 'Freedom Plan' Reinstated; Navy To Escort ~10 Vessels Including Supertankers, Container Ships"
-    },
-    {
-      "id": "4900793",
-      "time": "2026-05-26 22:37:34",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "義大利阿維奧公司（AVIO）股票在停牌後恢復交易，股價上漲4.7%。"
-    },
-    {
-      "id": "4900792",
-      "time": "2026-05-26 22:36:31",
-      "tags": [
-        "市場"
-      ],
-      "text": "洲際交易所紐約可可期貨<CCc1>漲幅超10%，報每噸4185美元。"
-    },
-    {
-      "id": "mkt:019e64b7-2e5b-7330-84b5-c84ec913b185",
-      "time": "2026-05-26 22:36:19",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "US To Aid 10+ Vessels Transit Strait Of Hormuz Over Coming Days: WSJ"
-    },
-    {
-      "id": "4900791",
-      "time": "2026-05-26 22:35:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國計劃未來數日為十餘艘船隻護航通行霍爾木茲海峽。"
-    },
-    {
-      "id": "4900790",
-      "time": "2026-05-26 22:35:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國稱海軍在阿曼海岸附近為希臘油輪提供護航。"
-    },
-    {
-      "id": "mkt:019e64b6-6ac4-7330-84b5-c1efe77f4eb6",
-      "time": "2026-05-26 22:35:28",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "MU.O",
-        "Impact bullish"
-      ],
-      "text": "【Micron Technology (MU) Market Cap Tops $1 Trln After 18% Rally】Micron Technology (MU) shares +18% to $886, record high; Market Cap $1.00 Trln; YTD +210%."
-    },
-    {
-      "id": "4900789",
-      "time": "2026-05-26 22:34:45",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美光科技總市值突破1萬億美元】美光科技股價上漲18%，報886美元/股，再次重新整理歷史新高，總市值達10000億美元。今年以來，美光科技累計漲幅達210%。"
-    },
-    {
-      "id": "4900788",
-      "time": "2026-05-26 22:34:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國海軍恢復為霍爾木茲海峽通航船隻提供護航。"
-    },
-    {
-      "id": "mkt:019e64b5-91a9-7330-84b5-bfaffcc8b3bb",
-      "time": "2026-05-26 22:34:27",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "U.S. Navy Resumes Escorting Ships Through Strait Of Hormuz, WSJ Says"
-    },
-    {
-      "id": "4900787",
-      "time": "2026-05-26 22:34:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "【巴克萊分析師：增長放緩之際，奢侈品公司應重新思考戰略】巴克萊分析師在一份研究報告中表示，在增長率放緩的環境下，奢侈品公司需要重新思考其戰略。在疫情後的高峰期過後，該行業一直在應對高階商品需求長達數年的低迷。“近期的放緩突顯了消費者行為的轉變，並要求重新思考既定的戰略手冊，“他們寫道。這些分析師表示，這些公司應專注於其核心業務，減少對非奢侈品活動的敞口。他們補充說，這可能需要進行資產剝離，例如開雲集團出售其美容業務。他們表示，目前的格局需要不斷的創新和新產品，以及更本地化的產品供應，以應對區域客戶的差異。“成功將取決於品牌在保持質量、傳統和工藝的同時，適應不斷變化的消費者群體的能力，“巴克萊表示。"
-    },
-    {
-      "id": "4900786",
-      "time": "2026-05-26 22:33:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "哈薩克首次發行熊貓債券，發行規模 34 億元人民幣，票面利率 1.9%。"
     }
   ]
 }
