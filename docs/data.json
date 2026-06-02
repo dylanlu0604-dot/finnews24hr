@@ -1,7 +1,59 @@
 {
-  "updated": "2026-06-03 05:15:35",
-  "count": 18459,
+  "updated": "2026-06-03 05:19:29",
+  "count": 18462,
   "items": [
+    {
+      "id": "4913680",
+      "time": "2026-06-03 05:18:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大政府負責加美貿易的部長勒布朗： 加方正與墨西哥方面就《美墨加協定》開展雙邊磋商。"
+    },
+    {
+      "id": "4913679",
+      "time": "2026-06-03 05:17:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：巴林內政部週二宣佈，即日起禁止本國公民前往伊朗、伊拉克，禁令另行通知前持續生效，並警示違規者將被追究法律責任。"
+    },
+    {
+      "id": "4913678",
+      "time": "2026-06-03 05:17:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國總統特朗普希望伊朗以書面形式做出核方面的讓步。"
+    },
+    {
+      "id": "4913677",
+      "time": "2026-06-03 05:16:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國總統特朗普敦促伊朗做出更堅定的核承諾。"
+    },
+    {
+      "id": "te:markets:555854",
+      "time": "2026-06-03 05:16:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Bermuda",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "Stocks in Bermuda Hit All-time High — BSX increased to an all-time high of 3598.00 Index Points. Over the past 4 weeks, Bermuda Stock Exchange Index gained 0.56%, and in the last 12 months, it increased 27.44%."
+    },
+    {
+      "id": "4913676",
+      "time": "2026-06-03 05:16:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時A50期指連續夜盤收跌0.15%，報15912點。"
+    },
     {
       "id": "4913675",
       "time": "2026-06-03 05:14:49",
@@ -169199,39 +169251,6 @@
         "其他"
       ],
       "text": "國際貨幣基金組織（IMF）：孟加拉國當局已申請一項新的IMF支援規劃，IMF工作人員正與孟方就其改革議程及政策優先事項展開討論。"
-    },
-    {
-      "id": "te:economy:553849",
-      "time": "2026-05-27 05:18:19",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "South Korea",
-        "Business Confidence",
-        "Importance 1"
-      ],
-      "text": "South Korea Business Confidence Nears 4-Year High — South Korea’s Business Survey Index for the manufacturing sector rose to 80 in May 2026 from 74 in the previous month, marking the highest reading since August 2022. The production index increased to 90 from 88, while the new orders index climbed to 87 from 85. Meanwhile, the inventories index rose to 100 from 97, and the financial conditions index improved to 79 from 76. The Economic Sentiment Index, which combines the Business Survey Index and the Consumer Survey Index, increased by 5.8 points to 97.5 in May."
-    },
-    {
-      "id": "mkt:019e6626-6850-7332-8106-cb55e48ec59b",
-      "time": "2026-05-27 05:17:33",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Tesla",
-        "Market Themes",
-        "Magnificent 7",
-        "TSLA.O"
-      ],
-      "text": "ELON MUSK Weighs Tesla‑SpaceX Merger, CNBC"
-    },
-    {
-      "id": "4901028",
-      "time": "2026-05-27 05:17:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "【馬斯克推動SpaceX登陸納斯達克，與特斯拉合併傳聞再度升溫】馬斯克正籌備帶領太空探索技術公司（SpaceX）上市，外界愈發猜測，他的最終目標是將該公司與特斯拉合併。據知情人士透露，馬斯克已和團隊探討過兩家企業整合的可能性。特斯拉與SpaceX目前已共用工程師，並聯合攻克電力與算力受限等相關難題。"
     }
   ]
 }
