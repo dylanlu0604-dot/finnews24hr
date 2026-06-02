@@ -1,7 +1,27 @@
 {
-  "updated": "2026-06-03 05:42:31",
-  "count": 18455,
+  "updated": "2026-06-03 05:46:25",
+  "count": 18454,
   "items": [
+    {
+      "id": "4913690",
+      "time": "2026-06-03 05:45:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：SPACEX計劃最早於週三確定IPO條款。"
+    },
+    {
+      "id": "te:markets:555855",
+      "time": "2026-06-03 05:45:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "HRC Steel Hits 4-week Low — HRC Steel decreased to 1122.00 USD/T, the lowest since April 2026. Over the past 4 weeks, Hot-Rolled Coil Steel gained 4.22%, and in the last 12 months, it increased 36.44%."
+    },
     {
       "id": "mkt:019e8a48-c175-733d-881a-fe9de8e4aaac",
       "time": "2026-06-03 05:41:24",
@@ -169164,30 +169184,6 @@
         "NOC.O"
       ],
       "text": "【UK, Poland To Sign Defense-Security Pact To Deter Russia】UK, Poland To Sign Defense-Security Pact In London; Starmer, TUSK To Finalize Wed; Pact To Co-Produce Next-Gen Medium-Range Air-Defence Missiles, Hold Large Joint Exercises, Accelerate Counter-Hybrid Ops (arson, cargo fires, cyberattacks, espionage)"
-    },
-    {
-      "id": "4901050",
-      "time": "2026-05-27 05:46:13",
-      "tags": [
-        "市場"
-      ],
-      "text": "Zscaler股價盤後延續跌勢，目前下跌19%。"
-    },
-    {
-      "id": "4901049",
-      "time": "2026-05-27 05:44:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "聯合國安理會譴責無人機襲擊阿聯酋巴拉卡核電站。"
-    },
-    {
-      "id": "4901048",
-      "time": "2026-05-27 05:43:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "【十倍光晶片大牛股 併購告吹】5月26日晚間，光晶片大牛股——仕佳光子（688313）突發公告稱，公司於5月26日召開第四屆董事會第十三次會議，審議透過了《關於終止發行股份及支付現金購買資產並募集配套資金暨關聯交易事項的議案》，同意公司終止本次發行股份及支付現金購買資產並募集配套資金暨關聯交易事項，並授權公司管理層全權辦理本次終止相關事宜。"
     }
   ]
 }
