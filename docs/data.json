@@ -1,7 +1,143 @@
 {
-  "updated": "2026-06-02 15:49:05",
-  "count": 17541,
+  "updated": "2026-06-02 15:53:05",
+  "count": 17543,
   "items": [
+    {
+      "id": "4912229",
+      "time": "2026-06-02 15:52:23",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "泰國央行行長：不擔心滯脹風險。"
+    },
+    {
+      "id": "4912228",
+      "time": "2026-06-02 15:52:19",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "泰國央行行長：不擔心滯脹風險."
+    },
+    {
+      "id": "4912227",
+      "time": "2026-06-02 15:52:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐洲議會國際貿易委員會投票透過立法，決定取消對美國商品的多項歐盟進口關稅，這是2025年7月達成的歐盟-美國貿易協議的關鍵部分。"
+    },
+    {
+      "id": "te:markets:555692",
+      "time": "2026-06-02 15:52:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Rises to Fresh Record — The FTSE MIB climbed more than 1% to around 50,400 on Tuesday, reaching a new record and recouping losses from the previous session, as markets remained attentive to shifting dynamics in the Middle East. Talks continue to lack concrete agreement, while access through the Strait of Hormuz remains significantly restricted. However, a modest easing in oil prices helped improve sentiment. Focus is also shifting toward upcoming Eurozone preliminary inflation figures, with both headline and core inflation expected to accelerate in May. Across the bourse, STMicroelectronics rose 0.6% after raising its data centre revenue target, citing strong AI-driven demand and ongoing capacity expansion. Eni also gained more than 2% after signing an agreement with FIB, a subsidiary of Seri Industrial Group, to jointly develop a fully integrated battery supply chain. Other notable performers included Prysmian Group (+2%), Tenaris (+3.2%), and UniCredit (+0.8%)."
+    },
+    {
+      "id": "mkt:019e8751-7a89-7555-bd37-d38bba7d59cb",
+      "time": "2026-06-02 15:52:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "S&P500",
+        "Impact bullish",
+        "EURUSD",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "European Parliament’s International Trade Committee voted to approve legislation removing multiple EU import tariffs on U.S. goods, a key element of the EU-U.S. trade agreement struck in July 2025."
+    },
+    {
+      "id": "4912226",
+      "time": "2026-06-02 15:51:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【力合科創：公司透過珠海紫荊泓鑫投資管理有限公司及其在管基金間接持有長進光子股份】力合科創6月2日在互動平臺表示，根據長進光子《招股說明書》披露的股東資訊，公司透過珠海紫荊泓鑫投資管理有限公司及其在管基金深圳力合泓鑫間接持有長進光子股份。"
+    },
+    {
+      "id": "4912225",
+      "time": "2026-06-02 15:50:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【深圳新星：全資子公司取得安全生產許可證】深圳新星公告稱，公司全資子公司贛州松輝投資建設的三氟化硼專案已透過安全設施竣工驗收，近日取得江西省應急管理廳頒發的《安全生產許可證》。這標誌著三氟化硼產品邁入正式生產階段，將最佳化公司產業佈局，構建多元化產品體系，提升競爭力和盈利能力。此外，該專案可實現產業鏈資源綜合利用，降低生產成本。不過，專案產品產能爬坡及釋放尚需時間，可能面臨市場環境、價格波動等風險。"
+    },
+    {
+      "id": "4912224",
+      "time": "2026-06-02 15:50:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美退役將軍：伊朗借真主黨讓美國“失去平衡”，轉移核談判注意力】據報道，退役美國將軍馬克·金米特稱，以色列部隊已深入黎巴嫩南部，以至於可能不再有機會讓他們撤回了。金米特表示，伊朗最擔憂的可能是以軍出現在黎巴嫩南部的重要戰略標點博福爾城堡。他補充說，這是26年來以色列部隊深入黎巴嫩最遠的一次。金米特指出，此前特朗普表示以色列不會像宣稱的那樣攻擊貝魯特南郊，但這一事態發展並不等同於以色列同意從黎巴嫩南部撤軍。德黑蘭很可能正在利用真主黨和黎巴嫩的局勢，來“轉移”外界對其核計劃談判的注意力。金米特說，伊朗旨在透過策略使美國失去平衡：先是控制霍爾木茲海峽，現在又將矛盾焦點引向以色列與真主黨的對峙局勢。"
+    },
+    {
+      "id": "4912223",
+      "time": "2026-06-02 15:50:15",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【英國國債收益率下跌，受美伊達成協議前景影響】隨著投資者預計美國和伊朗可能在6月份達成協議，從而結束霍爾木茲海峽的封鎖並緩解能源供應衝擊，英國國債收益率下跌。美國總統特朗普週一表示，以色列和真主黨已同意停火，同時油價下跌。“市場的預設基準似乎仍然是協議即將達成，且透過霍爾木茲海峽的交通最終將恢復正常，”Tickmill Group的Patrick Munnelly在一份報告中表示。Tradeweb資料顯示，10年期英國國債收益率下跌5.8個基點，至4.841%。"
+    },
+    {
+      "id": "4912222",
+      "time": "2026-06-02 15:50:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "Genmab股價下跌5.1%，躋身斯托克600指數表現最差個股之列。"
+    },
+    {
+      "id": "mkt:019e874f-ad83-7555-bd37-caba82c33bff",
+      "time": "2026-06-02 15:50:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. WTI and Brent crude both fell more than 2% intraday, trading at $92.56/bbl and $93.07/bbl respectively."
+    },
+    {
+      "id": "4912220",
+      "time": "2026-06-02 15:49:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中南傳媒：子公司簽訂9.67億元政府採購合同】中南傳媒公告稱，2026年6月1日，其全資子公司湖南省新華書店與湖南省教育廳簽訂《政府採購合同協議書》，合同總價96693萬元。合同內容為2026年義務教育免費教科書採購，履行時間至2026年12月31日。此次簽約使公司繼續成為相關教材供應商，確保主營業務收入穩定，對2026年度生產經營有積極影響。"
+    },
+    {
+      "id": "mkt:019e874f-1322-7555-bd37-c2a81c7359c7",
+      "time": "2026-06-02 15:49:26",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Retired US general: Iran using Hezbollah to unbalance US, divert attention from nuclear talks】Retired US general Mark Kimmitt said Israeli forces have pushed deep into southern Lebanon, reaching Beaufort Castle — the furthest Israeli penetration in 26 years — and may no longer be in a position to withdraw. Kimmitt said Tehran is likely leveraging Hezbollah and the Lebanon front to divert attention from its nuclear talks and to unsettle the US strategically, after previously seeking leverage via the Strait of Hormuz."
+    },
+    {
+      "id": "4912219",
+      "time": "2026-06-02 15:49:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新諾威：SYS6043在533例患者中客觀緩解率（ORR）為41.8%】新諾威公告，控股子公司巨石生物在2026年ASCO年會公佈SYS6043的I期臨床研究資料。SYS6043是一款新型B7-H3靶向ADC，載荷為拓撲異構酶I抑制劑，藥物抗體比（DAR）約為6。研究是一項在中國開展的多中心、開放標籤、單臂的I/II期臨床試驗，旨在評估SYS6043在晚期實體瘤患者中的安全性、耐受性、藥代動力學特徵和初步療效。截至2026年3月31日，該研究共納入627例患者，其中包括168例肺癌、147例婦科腫瘤、137例乳腺癌、66例鼻咽癌、50例頭頸鱗癌、22例食管鱗癌、14例肝癌和23例其他瘤種。在533例療效可評估的患者中，客觀緩解率（ORR）為41.8%，疾病控制率（DCR）為81.4%，中位緩解持續時間（mDoR）為6.9個月。"
+    },
     {
       "id": "4912218",
       "time": "2026-06-02 15:47:42",
@@ -160467,114 +160603,6 @@
         "公司"
       ],
       "text": "【聖達生物：股東萬健投資已減持1%】聖達生物公告，股東天台萬健投資發展中心（有限合夥）已完成減持計劃，2026年3月16日—5月21日透過集中競價減持189.03萬股，佔公司總股本1.00%，成交價15.58～19.1元/股，套現3414.79萬元；原計劃2026年2月25日至5月24日擬減持不超567.09萬股、3%，實際尚餘378.06萬股未減持；減持後其持股2684.72萬股，佔14.20%。"
-    },
-    {
-      "id": "4899896",
-      "time": "2026-05-26 15:53:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：中國香港擬發放13000張網約車牌照。"
-    },
-    {
-      "id": "4899895",
-      "time": "2026-05-26 15:52:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【松延動力與北京市昌平區教委達成戰略合作】5月26日，松延動力發文稱，公司近日與北京市昌平區教育委員會聯合舉辦戰略合作框架協議簽約儀式。松延動力聯合創始人、首席市場官張淼與昌平區委教育工委委員、區教委副主任王麗梅進行現場簽約。雙方將在人工智慧教育領域展開合作，立足昌平區發展需求與松延動力技術創新實力，聚焦學生科創素養提升、教師教學能力升級、區域科創生態構建三大重點，形成可複製、可推廣的“機器人+教育”昌平模式，助力人形機器人在教育場景規模化落地與高質量發展。"
-    },
-    {
-      "id": "4899894",
-      "time": "2026-05-26 15:52:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "【擎朗智慧釋出小尺寸人形機器人XMAN-L1】擎朗智慧正式釋出小尺寸人形機器人XMAN-L1。該機器人身高136cm，配備42個仿生自由度，膝關節峰值扭矩132N·m，單腿功率超2000W，端側算力100TOPS，並接入豆包、騰訊等大模型，支援自然語言對話。XMAN-L1作為擎朗智慧“通+專”矩陣中的輕量互動崗位，主要面向互動、客流引導與輕量表演等場景，釋出即上崗。"
-    },
-    {
-      "id": "4899892",
-      "time": "2026-05-26 15:52:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【渤海化學：完成轉讓子公司49%股權 獲5.36億元轉讓款】渤海化學公告稱，公司於2026年3月27日及4月13日分別透過董事會和股東會審議，將持有的全資子公司渤海石化49%股權，以5.36億元轉讓給控股股東天津渤海化工集團。截至公告日，公司已收到全部轉讓款，標的工商變更登記尚在辦理中，後續將依規披露進展。"
-    },
-    {
-      "id": "4899891",
-      "time": "2026-05-26 15:51:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【星河動力智神星系列火箭發射工位（一期）正式竣工】5月26日，星河動力航天宣佈，公司位於東風商業航天創新試驗區的智神星系列火箭發射工位（一期）近日正式竣工並投入使用。作為智神星系列液體運載火箭的專屬工位，將全面支撐智神星一號可重複使用運載火箭的測試、加註、發射全流程作業。"
-    },
-    {
-      "id": "mkt:019e6344-9ff5-7ff6-adfc-f8b37a8a0f3a",
-      "time": "2026-05-26 15:51:42",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "【IRGC Says It Shot Down US MQ-9 Drone, Warns Over Ceasefire Violations: IRNA】The IRGC said it shot down a US MQ-9 drone and detected an RQ-4 drone and an F-35 fighter jet, according to a statement carried by Iranian media. The force warned it would respond to any ceasefire violations by the US military and said it considers retaliatory action a legitimate right."
-    },
-    {
-      "id": "mkt:019e6343-f767-7ff6-adfc-f32eac996657",
-      "time": "2026-05-26 15:50:59",
-      "tags": [
-        "MKT News",
-        "2899.HK",
-        "Impact bullish"
-      ],
-      "text": "S&PGR REVISES ZIJIN MINING OUTLOOK TO POS; 'BBB' RTG AFRMD"
-    },
-    {
-      "id": "4899890",
-      "time": "2026-05-26 15:50:52",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【技源集團：副總經理吉世雄因個人原因辭職】技源集團公告，公司高階管理人員吉世雄先生因個人原因，於2026年5月26日申請辭去公司副總經理職務，辭職後不再擔任公司及控股子公司任何職務。吉世雄先生的辭職不會對公司規範運作和日常運營產生不利影響，其辭職報告自送達董事會之日起生效。吉世雄先生未直接持有公司股份，透過員工持股平臺江陰技源管理諮詢合夥企業（有限合夥）間接持有公司股份0.2498%，透過員工戰配東證期貨技源集團戰略配售集合資產管理計劃間接持有公司股份0.0551%。"
-    },
-    {
-      "id": "te:markets:553706",
-      "time": "2026-05-26 15:49:54",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "FTSE MIB Declines — Italy’s FTSE MIB fell to around 50,000 on Tuesday, after hitting a fresh record in the previous session, as optimism over a US–Iran deal was tempered by signs of setbacks in negotiations and continued mixed signals from both sides. Tensions rose following reported military strikes in the region, described by US forces as “self-defense” operations. The developments came shortly after comments from President Trump suggesting progress in talks with Tehran on a potential interim agreement. The renewed uncertainty adds upward pressure to oil prices. Across the bourse, the leading decliner was Ferrari, which shed nearly 6% shortly after the launch of its first fully electric vehicle. Other notable laggards included luxury names Moncler and Brunello Cucinelli, down 1.9% and 2.6% respectively. Generali also fell 0.9% after unveiling Redion, the group’s new global care platform brand."
-    },
-    {
-      "id": "4899889",
-      "time": "2026-05-26 15:49:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "【螞蟻集團等成立資訊科技公司，含AI相關業務】企查查APP顯示，近日，螞蟻逸智（深圳）資訊科技有限公司成立，經營範圍包含：科技中介服務；大資料服務；人工智慧行業應用系統整合服務等。企查查股權穿透顯示，該公司由螞蟻科技集團股份有限公司旗下螞蟻逸智（廣州）資訊科技有限公司等共同持股。"
-    },
-    {
-      "id": "4899888",
-      "time": "2026-05-26 15:49:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "【超訊通訊等成立資料智慧技術服務公司】企查查APP顯示，近日，超訊（廣東）資料智慧技術服務有限公司成立，經營範圍包含：人工智慧雙創服務平臺；人工智慧基礎軟體開發；人工智慧通用應用系統；智慧機器人的研發等。企查查股權穿透顯示，該公司由超訊通訊等共同持股。"
-    },
-    {
-      "id": "4899887",
-      "time": "2026-05-26 15:49:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防軍訊息：本土前線司令部指揮官在視察以色列北部相關部門時表示，與地方當局保持常態化溝通、協同開展工作，是保障民眾安全、為民眾做出精準應對的關鍵。"
     }
   ]
 }
