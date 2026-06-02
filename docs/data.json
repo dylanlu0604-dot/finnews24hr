@@ -1,7 +1,111 @@
 {
-  "updated": "2026-06-03 00:11:47",
-  "count": 18262,
+  "updated": "2026-06-03 00:15:50",
+  "count": 18270,
   "items": [
+    {
+      "id": "4913438",
+      "time": "2026-06-03 00:14:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴西政府：根據盧拉總統與特朗普總統5月7日達成的共識，兩國正就關稅問題展開談判。"
+    },
+    {
+      "id": "4913437",
+      "time": "2026-06-03 00:14:45",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "花旗集團將希捷科技的目標股價從每股740.00美元上調至1150.00美元，維持希捷科技買入評級。"
+    },
+    {
+      "id": "4913436",
+      "time": "2026-06-03 00:14:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西政府：巴西保留援引本國《互惠法》應對不公平貿易行為的權利。"
+    },
+    {
+      "id": "4913435",
+      "time": "2026-06-03 00:14:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【SpaceX 員工抱團議價，IPO 前爭取更低管理費與節稅理財工具】超一千名SpaceX在職及離職員工結成聯盟，在公司IPO落地前與財富管理機構談判，爭取更優惠費率、對接各類金融產品。該團體已接洽20餘家理財顧問機構與私人銀行，謀求股權質押借貸、直接指數投資等精細化理財方案，目標將全部受託資產的管理費率控制在0.5%以下。此舉或將為手握大額IPO行權收益的科創企業員工打造全新財富管理範本，業內專家表示，依託集體籌碼抱團議價將成為行業常態。"
+    },
+    {
+      "id": "te:markets:555833",
+      "time": "2026-06-03 00:13:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "European Stocks Rebound — European stocks closed firmly higher on Tuesday, trimming losses from last week with support from a respite in sovereign bonds despite the prolonged impasse between the US and Iran. The Euro STOXX 50 added 1.2% to 6,100 and the STOXX Europe 600 gained 0.7% to 625. The tech sector led the gains amid news that SK Hynix will double its wafer capacity and bullish signals from the largest companies. ASML surged 5% and Infineon gained 9.5%. Also, STMicroelectronics surged 15% after raising its earnings target and Prosus surged 9.4% after Tencent announced it was testing a new AI agent. Banks also closed sharply higher to track the rebound in sovereign bonds, with UniCredit, BNP Paribas, and Deutsche Bank adding more than 1.6%. Meanwhile, Eurozone's preliminary inflation data showed the headline rate rose to 3.2% as expected, while the core inflation rose slightly more than expected to 2.5%, consolidating bets of a rate hike by the ECB next week."
+    },
+    {
+      "id": "4913434",
+      "time": "2026-06-03 00:13:06",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "高盛CEO所羅門：需加快審批流程，推動紐約新增建設專案落地。"
+    },
+    {
+      "id": "mkt:019e891c-1374-7ff0-aaad-f0501d286c8e",
+      "time": "2026-06-03 00:12:58",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Market sources say Venezuela is urging energy firms to self-supply electricity to ensure continued operation of oil and gas assets."
+    },
+    {
+      "id": "4913433",
+      "time": "2026-06-03 00:12:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【巴西總統簽署法令確保順利舉辦女足世界盃】2日，巴西《聯邦政府公報》上刊登了由總統盧拉簽署的一項法令，該法令為該國舉辦2027年女足世界盃所採取的相關舉措奠定法律基礎。 這項法令涵蓋諸多方面，包括門票銷售和轉售、簡化簽證手續、志願者管理規定、公共安全措施、商業權利保護以及各級政府間的協調等。 巴西體育部長科爾代羅說：“巴西不只是要舉辦一項賽事，更致力於透過賽事在社會包容、基礎設施和體育發展等領域留下遺產。” 2027年女足世界盃將於6月24日至7月25日舉行，預計將有超300萬球迷現場觀賽。(新華社)"
+    },
+    {
+      "id": "4913432",
+      "time": "2026-06-03 00:12:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴西政府：預計美國貿易代表辦公室的提案不會形成實際關稅，但仍將採取措施減輕其可能對經濟造成的損害。"
+    },
+    {
+      "id": "4913431",
+      "time": "2026-06-03 00:12:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "逾千名SpaceX在職及離職員工結成同盟展開相關行動，謀求公司IPO後降低財富管理費。"
+    },
+    {
+      "id": "4913430",
+      "time": "2026-06-03 00:11:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "SpaceX員工組建團體，謀求公司IPO後降低財富管理費。"
+    },
+    {
+      "id": "4913429",
+      "time": "2026-06-03 00:11:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽評級：秘魯企業將面臨大選後政策分化的局面。"
+    },
     {
       "id": "te:markets:555832",
       "time": "2026-06-03 00:11:08",
@@ -167283,44 +167387,6 @@
         "國際"
       ],
       "text": "【伊朗總統：已準備好達成“有尊嚴的”框架協議】當地時間5月26日，伊朗總統佩澤希齊揚與卡達埃米爾（國家元首）塔米姆通電話。佩澤希齊揚表示， 伊朗已準備好達成一個“有尊嚴的”框架協議，以結束地區內正在持續的戰爭與緊張局勢。塔米姆表示，卡達政府將不遺餘力，為地區和平與穩定付出一切努力。（央視新聞）"
-    },
-    {
-      "id": "mkt:019e6510-a78c-7332-8104-bad0f60ace9a",
-      "time": "2026-05-27 00:14:10",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Interfax: Russia Weighs Diesel, Kerosene Export Limits; No Decision Yet"
-    },
-    {
-      "id": "4900878",
-      "time": "2026-05-27 00:13:47",
-      "tags": [
-        "市場"
-      ],
-      "text": "【德國兩年期國債收益率漲超5個基點】週二（5月26日）歐市尾盤，德國10年期國債收益率漲3.3個基點，報2.979%，日內交投於2.958%-2.986%區間，整體呈現出N形走勢。兩年期德債收益率漲5.3個基點，報2.589%，日內交投於2.554%-2.599%區間；30年期德債收益率漲1.5個基點，報3.516%。2/10年期德債收益率利差跌1.978個基點，報38.398個基點。"
-    },
-    {
-      "id": "4900877",
-      "time": "2026-05-27 00:13:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：俄羅斯有關部門正考慮限制柴油和煤油出口，目前尚未作出最終決定。"
-    },
-    {
-      "id": "te:markets:553831",
-      "time": "2026-05-27 00:12:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE MIB Index Closes 0.64% Lower — The FTSE MIB Index fell 321 points or 0.64 percent on Tuesday to close at 49899 points. Leading the losses are Ferrari NV (-7.71%), Brunello Cucinelli (-2.93%) and Nexi (-2.19%). Top gainers were STMicroelectronics (3.19%), Avio (2.71%) and Leonardo SpA (1.54%)."
     }
   ]
 }
