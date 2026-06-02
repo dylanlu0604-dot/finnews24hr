@@ -1,7 +1,77 @@
 {
-  "updated": "2026-06-02 11:34:24",
-  "count": 17287,
+  "updated": "2026-06-02 11:38:21",
+  "count": 17292,
   "items": [
+    {
+      "id": "4911802",
+      "time": "2026-06-02 11:36:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【招銀國際：下調小鵬集團-W目標價至82港元 維持“買入”評級】招銀國際釋出研報稱，小鵬集團-W(09868)第一季淨虧損18億元人民幣，較預測超出約2.5億元人民幣，該行將集團目標價由94港元下調至82港元，維持“買入”評級。該行表示，考慮到管理層指引第二季毛利率按季持平，銷量按季激增60-70%，預計第二季淨虧損將顯著收窄，而受益於規模效應的改善，預計將在下半年實現淨利潤轉正。該行現料小鵬2026年虧損12.13億元人民幣，2027年則料盈利15.41億元人民幣。"
+    },
+    {
+      "id": "mkt:019e8667-15db-7448-8816-8db925c20b9e",
+      "time": "2026-06-02 11:35:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component",
+        "CSI300"
+      ],
+      "text": "【A-share midday: indexes rebound; semiconductor, chip and CPO names lift】China A-share indices rebounded from early lows; Shanghai Composite briefly fell 0.6% before recovering. At midday the Shanghai Composite was down 0.04%, the Shenzhen Composite up 0.96% and ChiNext up 2.15%. Electronic components stocks rallied: Shengye Electric hit limit-up, Dali Kaipu and Zhongjing Electronics also reached daily limits; Fenghua Hi-Tech, Dongshan Precision, Pengding Holdings, Baoding Technology and Huidian were among top gainers. The CPO sector, after an initial drop, quickly rallied with Hengtong Optical-Electric and Yihua shares at limit-up and Alaide, Yuanjie Technology and Guangku Technology rising over 10%. AIPC names opened higher and extended gains: Leishen Technology surged over 20%, Yingli shares rose more than 10%, Chunqiu Electronics hit limit-up, while Huiwei Intelligent, Xinhai Technology and iSoftStone were strong performers."
+    },
+    {
+      "id": "4911801",
+      "time": "2026-06-02 11:35:35",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本10年期國債拍賣投標倍數為3.53，5月上一期拍賣的投標倍數為3.90。"
+    },
+    {
+      "id": "mkt:019e8666-ac6a-7448-8816-8296c5c17aa6",
+      "time": "2026-06-02 11:35:31",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "ARM.O",
+        "Impact bullish",
+        "ORCL.N"
+      ],
+      "text": "Arm (ARM.O) CEO said Oracle (ORCL.N) and ByteDance are now customers for Arm's AGI CPU."
+    },
+    {
+      "id": "4911800",
+      "time": "2026-06-02 11:35:06",
+      "tags": [
+        "公司",
+        "央行",
+        "國際"
+      ],
+      "text": "三井住友金融集團建議日本央行自2027年4月起，將每月公債購買規模維持在2.1萬億日元。"
+    },
+    {
+      "id": "4911799",
+      "time": "2026-06-02 11:34:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "ARM執行長：甲骨文和位元組跳動目前已是其通用人工智慧（AGI）CPU的客戶。"
+    },
+    {
+      "id": "4911798",
+      "time": "2026-06-02 11:34:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【越疆釋出空弈DobotWAM具身大模型】6月2日訊息，越疆釋出自研世界動作模型空弈DobotWAM具身大模型。該模型在具身智慧標準評測基準LIBERO上，分別完成LIBERO-Spatial、LIBERO-Object、LIBERO-Goal和LIBERO-10四個標準任務套件，覆蓋空間關係理解、物體泛化、目標指令理解以及長時序任務執行等關鍵能力維度，平均成功率達99.25%。"
+    },
     {
       "id": "4911797",
       "time": "2026-06-02 11:33:06",
@@ -9,6 +79,14 @@
         "其他"
       ],
       "text": "【多家銀行補貼微信支付提現】近日，多家銀行宣佈推出微信提現補貼活動。受訪專家認為，這是銀行在移動支付時代對低成本負債的一場精準爭奪戰，本質上是將營銷費用轉化為使用者可感知的即時利益，換回更穩定、更低成本的存款基礎。另外，透過比較微信提現、支付寶提現活動，發現免費額度多與平臺場景相關，比如會員積分、購物外賣等。且兩家平臺均與生態內網際網路民營銀行有一定“互動”，即透過免費提現來吸引銀行潛在使用者。（經濟參考報）"
+    },
+    {
+      "id": "mkt:019e8664-9dd4-7448-8816-7b0b75e0f2af",
+      "time": "2026-06-02 11:33:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Banks subsidise WeChat Pay withdrawals to capture low-cost deposits】Several Chinese banks have rolled out subsidies for WeChat Pay withdrawal fees. Analysts say banks are converting marketing spend into immediate consumer benefits to wage a targeted battle for low‑cost liabilities in the mobile‑payments era, aiming to secure a more stable, lower‑cost deposit base. Free withdrawal quotas are typically tied to platform scenarios such as membership points, e‑commerce and food delivery. Both WeChat Pay and Alipay are coordinating with internet private banks, using fee waivers to attract potential depositors."
     },
     {
       "id": "te:markets:555574",
@@ -158027,31 +158105,6 @@
         "公司"
       ],
       "text": "【邁威生物等投資成立生物科技公司】企查查APP顯示，近日，邁威視（上海）生物科技有限公司成立，法定代表人為由偉智，註冊資本為1000萬元，經營範圍包含：醫學研究和試驗發展；第一類醫療器械銷售；第二類醫療器械銷售；藥品批發；藥品進出口等。企查查股權穿透顯示，該公司由邁威生物、上海邁威視康企業管理合夥企業（有限合夥）等共同持股。"
-    },
-    {
-      "id": "4899566",
-      "time": "2026-05-26 11:38:15",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印度Nifty 50指數盤前交易下跌0.11%。"
-    },
-    {
-      "id": "4899565",
-      "time": "2026-05-26 11:38:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "【深圳深港智投私募股權投資基金合夥企業成立，出資額21億】天眼查App顯示，近日，深圳深港智投私募股權投資基金合夥企業（有限合夥）成立，執行事務合夥人為信達資本管理有限公司、深圳港創新私募股權基金管理（深圳）有限公司，出資額21億人民幣，經營範圍為以私募基金從事股權投資、投資管理、資產管理等活動。合夥人資訊顯示，該基金由深圳市深圳港資本有限公司、中國信達、中國東方資產管理股份有限公司等共同出資。"
-    },
-    {
-      "id": "4899564",
-      "time": "2026-05-26 11:37:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【慧谷新材：公司光電塗層材料產品可用於玻璃基板光電封裝領域】慧谷新材(301683)在互動平臺表示，目前公司應用於LED晶片封裝領域的光電塗層材料產品可用於玻璃基板光電封裝領域。公司相關產品在該領域暫未形成規模化銷售，業務具有不確定性，請廣大投資者注意投資風險。"
     }
   ]
 }
