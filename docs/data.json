@@ -1,7 +1,225 @@
 {
-  "updated": "2026-06-02 21:18:36",
-  "count": 18018,
+  "updated": "2026-06-02 21:22:44",
+  "count": 18034,
   "items": [
+    {
+      "id": "4913101",
+      "time": "2026-06-02 21:21:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈馬克對人工智慧將作為勞動者的補充工具持樂觀態度。"
+    },
+    {
+      "id": "4913100",
+      "time": "2026-06-02 21:21:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "波蘭移動支付系統Blik在進入羅馬尼亞、斯洛伐克後，計劃進軍歐元區。"
+    },
+    {
+      "id": "4913099",
+      "time": "2026-06-02 21:21:31",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "以色列央行行長亞龍暗示，因通脹預期下調，降息步伐或將加快。"
+    },
+    {
+      "id": "4913098",
+      "time": "2026-06-02 21:21:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "萊茵金屬股份公司（RHEINMETALL AG）：目前已投放資金2600萬美元，剩餘投資計劃於今年晚些時候落地。"
+    },
+    {
+      "id": "mkt:019e887e-d8f4-799a-9e6a-9b97bd3873cf",
+      "time": "2026-06-02 21:21:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada's Prime Minister Carney said the auto industry's 50% U.S. local-content rule is currently under consultation."
+    },
+    {
+      "id": "mkt:019e887e-981b-799a-9e6a-978725c6ff2b",
+      "time": "2026-06-02 21:20:50",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Federal Reserve's HAMMACK said inf may require policy support to reach 2%."
+    },
+    {
+      "id": "4913097",
+      "time": "2026-06-02 21:20:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國海灣地區取代波斯海灣地區成為燃料供應的搖擺者。"
+    },
+    {
+      "id": "mkt:019e887e-1c19-799a-9e6a-8d919f157faf",
+      "time": "2026-06-02 21:20:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CARNEY said Canada has made some progress on trade issues with the United States."
+    },
+    {
+      "id": "4913096",
+      "time": "2026-06-02 21:20:21",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲哈馬克：或需政策發力才能令通脹回落至 2% 目標。"
+    },
+    {
+      "id": "4913095",
+      "time": "2026-06-02 21:20:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大總理卡尼表示，加拿大在與美國存在的部分貿易問題上正取得進展。"
+    },
+    {
+      "id": "4913094",
+      "time": "2026-06-02 21:19:46",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲哈馬克：通脹水平居高不下、仍存上行壓力且呈現全域普漲態勢。"
+    },
+    {
+      "id": "mkt:019e887d-ae4f-799a-9e6a-82550e127a8d",
+      "time": "2026-06-02 21:19:44",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve's HAMMACK said the central bank is weighing multiple scenarios tied to a war lasting longer than expected."
+    },
+    {
+      "id": "4913093",
+      "time": "2026-06-02 21:19:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普2日在社交媒體上發文說，任命普爾特為代理國家情報總監。（新華社）"
+    },
+    {
+      "id": "mkt:019e887c-b17e-799a-9e6a-7b28d0ea6685",
+      "time": "2026-06-02 21:18:49",
+      "tags": [
+        "MKT News",
+        "ORCL.N",
+        "Impact bullish"
+      ],
+      "text": "UBS raised its Oracle (ORCL.N) target price to $285 from $250."
+    },
+    {
+      "id": "4913092",
+      "time": "2026-06-02 21:18:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞銀將甲骨文目標股價從250美元上調至285美元。"
+    },
+    {
+      "id": "mkt:019e887c-7b4e-799a-9e6a-7273a0110ce3",
+      "time": "2026-06-02 21:18:34",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Canadian prime minister Carney said slower population growth is weighing on GDP."
+    },
+    {
+      "id": "mkt:019e887c-5679-799a-9e6a-6900dd795fd2",
+      "time": "2026-06-02 21:18:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada's prime minister Carney said investment has shown some volatility."
+    },
+    {
+      "id": "mkt:019e887c-42a3-799a-9e6a-60c2dc3a8449",
+      "time": "2026-06-02 21:18:24",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Fed official Hammack said the main concern is that inflation remains too high and is still rising."
+    },
+    {
+      "id": "4913091",
+      "time": "2026-06-02 21:18:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國食品藥品監督管理局：指南草案支援涵蓋基因組編輯療法在內的多種細胞與基因治療產品開發。"
+    },
+    {
+      "id": "mkt:019e887c-30be-799a-9e6a-5a4cfeceff01",
+      "time": "2026-06-02 21:18:18",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish"
+      ],
+      "text": "Carney says he sees some softness."
+    },
+    {
+      "id": "4913090",
+      "time": "2026-06-02 21:18:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "LME倫銅向上觸及14000美元/噸，最新報14000.0美元/噸，日內上漲1.21%。"
+    },
+    {
+      "id": "mkt:019e887c-16ba-799a-9e6a-5229237d718c",
+      "time": "2026-06-02 21:18:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada's Prime Minister Carney said some economic data will be uneven."
+    },
+    {
+      "id": "4913089",
+      "time": "2026-06-02 21:18:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡尼表示，當前投資活動的走勢仍存在一些其他波動。"
+    },
+    {
+      "id": "4913088",
+      "time": "2026-06-02 21:17:49",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲哈馬克：主要擔憂是通脹水平過高且仍在上升。"
+    },
     {
       "id": "mkt:019e887b-96c9-799a-9e6a-490ae5e06775",
       "time": "2026-06-02 21:17:39",
@@ -165046,80 +165264,6 @@
         "國際"
       ],
       "text": "【第十四屆中英政黨對話舉行】5月26日，第十四屆中英政黨對話在江蘇揚州舉行，主題是“發揮政黨作用，構建中英長期穩定的全面戰略伙伴關係”。中共中央對外聯絡部部長劉海星出席並作主旨講話。中方有關部委、地方和高校代表，英國前首席內閣大臣、英中協會會長利丁頓，英國工黨、保守黨議員和駐華使領館官員，以及兩國企業界人士等60餘人出席。雙方進行坦誠、深入、建設性交流，認為中英發展長期穩定的全面戰略伙伴關係對兩國和世界具有重要意義。雙方應落實好兩國領導人重要共識，秉持戰略伙伴初心和求同存異、開放包容精神，妥善處理分歧，深化互利合作，密切人文交流，加強國際事務溝通協作，促進共同發展和世界和平穩定。對話方塊架下還舉行了中英企業家圓桌會。（新華社）"
-    },
-    {
-      "id": "4900672",
-      "time": "2026-05-26 21:22:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "【塔吉克總統呼籲全球加強水資源領域合作】塔吉克總統拉赫蒙26日表示，為應對當前水資源領域一系列挑戰，全球亟需加強相關合作。他說，當前全球仍有數十億人口缺乏安全飲用水和衛生設施，未來水資源短缺形勢可能進一步加劇。全球近一半城市人口可能面臨缺水問題，綠色產業、數字基礎設施等新興產業發展也將進一步推高水資源需求。同時，氣候變化引發的乾旱、洪水、冰川消融和海平面上升等因素也在不斷加劇全球水資源挑戰。拉赫蒙表示，為應對這些挑戰，全球應進一步加強在水資源領域的合作。為此，塔方提議設立“杜尚別水資源問題框架計劃”，推進水資源領域正在實施的行動，併為協調和整合各方努力以取得更多實際成果打下基礎。他指出，應從現在就開始謀劃2030年後的全球水議程，共同應對日益嚴峻的水資源挑戰。（新華社）"
-    },
-    {
-      "id": "4900671",
-      "time": "2026-05-26 21:21:51",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【美伊談判未能達成協議，穀物價格走低】芝加哥期貨交易所穀物期貨在盤前交易中走低，此前美國和伊朗在長週末期間未能達成停火協議。“美伊衝突形勢多變，”AgMarket.net在一份報告中表示。“美國在伊朗南部實施了自衛打擊，當時伊朗正試圖在霍爾木茲海峽佈雷。“持續的戰鬥以及霍爾木茲海峽的長期關閉使得對通貨膨脹的擔憂更加嚴重。盤前交易中，芝加哥期貨交易所玉米期貨下跌0.6%，大豆期貨下跌0.5%，小麥期貨下跌0.5%。"
-    },
-    {
-      "id": "4900670",
-      "time": "2026-05-26 21:21:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "【訊息人士：解凍伊朗海外資金成伊美談判主要分歧】據伊朗法爾斯通訊社26日報道，一名接近伊朗談判團隊的訊息人士表示，目前伊美談判的主要分歧之一，是伊朗海外資金解凍問題。 這名訊息人士稱，美國一度在履行相關承諾問題上“後退”，但伊方堅持，在約定資金到賬之前，“任何協議都不可能達成”。 報道稱，在卡達方面協調後，相關問題已取得一定進展。不過，鑑於美國“違背承諾”的歷史，伊朗“已為所有可能情況作好準備”。(新華社)"
-    },
-    {
-      "id": "4900669",
-      "time": "2026-05-26 21:20:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟委員會主席馮德萊恩：正籌備新一輪對俄製裁方案。"
-    },
-    {
-      "id": "mkt:019e6471-335d-7330-84b4-158d04aa13c4",
-      "time": "2026-05-26 21:20:00",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "VON DER LEYEN Preparing Next Russia Sanctions Package"
-    },
-    {
-      "id": "mkt:019e6471-0a04-7330-84b4-0d3b048e1ce6",
-      "time": "2026-05-26 21:19:50",
-      "tags": [
-        "MKT News",
-        "DAX",
-        "Impact bullish",
-        "EURUSD"
-      ],
-      "text": "Sources Say European Commission Plans To Allocate 2/3 Of Mobile-Satellite Spectrum To European Firms; Remainder To Non-European Firms"
-    },
-    {
-      "id": "4900668",
-      "time": "2026-05-26 21:19:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：歐盟委員會計劃將三分之二的移動衛星頻譜分配給歐洲企業，剩餘部分由非歐洲企業使用。"
-    },
-    {
-      "id": "4900667",
-      "time": "2026-05-26 21:18:51",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "匈牙利央行行長：家庭通脹預期下滑，態勢向好。"
     }
   ]
 }
