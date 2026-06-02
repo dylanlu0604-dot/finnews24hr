@@ -1,7 +1,169 @@
 {
-  "updated": "2026-06-02 09:33:40",
-  "count": 17223,
+  "updated": "2026-06-02 09:37:35",
+  "count": 17231,
   "items": [
+    {
+      "id": "4911626",
+      "time": "2026-06-02 09:36:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭官方稱，基輔已有1人死亡，受傷人數升至20人。"
+    },
+    {
+      "id": "4911625",
+      "time": "2026-06-02 09:36:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "比亞迪汽車：比亞迪王朝5月銷售151537輛。"
+    },
+    {
+      "id": "4911624",
+      "time": "2026-06-02 09:35:55",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美“新格倫”火箭爆炸致發射臺癱瘓 修復或需到2028年】當地時間5月28日，美國航天企業藍色起源公司的“新格倫”重型火箭在佛羅里達州的肯尼迪航天中心進行靜態點火測試時發生爆炸。美國國家航空航天局（NASA）局長艾薩克曼6月1日接受採訪時表示，修復這處“新格倫”火箭專用發射臺將“耗時良久”，“可能要到2028年才能修復”。"
+    },
+    {
+      "id": "4911623",
+      "time": "2026-06-02 09:35:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【湘財基金再獲控股股東湘財證券增資 註冊資本增至4億】成立近8年，湘財基金已完成5輪增資，較初始資本增加3倍。湘財基金公告顯示，全資控股股東湘財證券再度增資，公司註冊資本由3.5億元增至4億元。據天眼查，此輪增資已於5月25日完成工商變更，此前已分別在2024年12月、2023年4月、2022年9月、2020年12月完成前4輪增資。"
+    },
+    {
+      "id": "4911622",
+      "time": "2026-06-02 09:35:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達10億港元。"
+    },
+    {
+      "id": "4911621",
+      "time": "2026-06-02 09:35:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "香櫞研究：不同意陪審團對安德魯·萊福特作出的裁決。"
+    },
+    {
+      "id": "mkt:019e85f8-be4b-7993-96fd-f4fc69b3b495",
+      "time": "2026-06-02 09:35:06",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "China A-share robotics sector strengthened in early trade; Zhongdalide hit limit-up, Wuyang Zikong and Lvde Xiebo rose over 10%, while Haozhi Jidian, Sanxie Motor, Changsheng Bearing and Mosu Technology also advanced."
+    },
+    {
+      "id": "mkt:019e85f8-a939-7993-96fd-e87e7b05dcff",
+      "time": "2026-06-02 09:34:51",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Brent"
+      ],
+      "text": "【Russia launches air strikes across Ukraine】Ukraine said early on June 2 that Russia launched air strikes across the country, with most regions under air-raid warnings. Kyiv reported four dead and 16 injured in Dnipro, 14 injured in the capital Kyiv, and power outages in parts of the country."
+    },
+    {
+      "id": "4911620",
+      "time": "2026-06-02 09:34:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "【人形機器人板塊短線拉昇，中大力德漲停】人形機器人板塊短線拉昇，中大力德漲停，綠的諧波、科達自控、三協電機、昊志機電、模塑科技跟漲。"
+    },
+    {
+      "id": "mkt:019e85f7-7f2e-7993-96fd-e354d3338543",
+      "time": "2026-06-02 09:33:54",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "Australia Q1 current account deficit widened to A$27.1 bln, versus A$23.0 bln expected and A$21.1 bln previously."
+    },
+    {
+      "id": "mkt:019e85f7-6ba5-7993-96fd-dc9993448025",
+      "time": "2026-06-02 09:33:43",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | Current Account (Q1) | actual -27100000000B | consensus -23000000000B | previous -21100000000B"
+    },
+    {
+      "id": "mkt:019e85f7-516d-7993-96fd-d299fd1bc938",
+      "time": "2026-06-02 09:33:33",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Australia April seasonally adjusted building approvals up 10.2% YoY, prior 9.0%."
+    },
+    {
+      "id": "mkt:019e85f7-510e-7993-96fd-cd17d87dd9e5",
+      "time": "2026-06-02 09:33:32",
+      "tags": [
+        "MKT News",
+        "03750.HK",
+        "Impact bullish",
+        "03931.HK",
+        "06960.HK"
+      ],
+      "text": "Hong Kong-listed energy storage stocks rallied: CATL (03750.HK) up over 5%, 03931.HK up 2.73%, 06960.HK up 2.47%."
+    },
+    {
+      "id": "mkt:019e85f6-ddcf-7993-96fd-c6ebc189517d",
+      "time": "2026-06-02 09:33:18",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | Building Approvals SA (YoY) (Apr) | actual 10.2% | previous 9%"
+    },
+    {
+      "id": "4911619",
+      "time": "2026-06-02 09:33:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄對烏克蘭全境發動空襲】烏克蘭方面稱，當地時間今天（6月2日）凌晨，俄羅斯對烏克蘭全境發動襲擊，烏克蘭大部分地區均處於空襲警報之下。據烏方稱，截至目前。襲擊造成第聶伯市4人死亡、16人受傷，首都基輔14人受傷，部分地區斷電。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:019e85f6-6fad-7993-96fd-bfd60926be60",
+      "time": "2026-06-02 09:32:39",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact mixed"
+      ],
+      "text": "Australia April seasonally adjusted private-sector building approvals +7% YoY, down from 12% previously."
+    },
+    {
+      "id": "mkt:019e85f6-6a25-7993-96fd-b116f3408c0c",
+      "time": "2026-06-02 09:32:31",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | Private Sector Building Approvals SA (YoY) (Apr) | actual 7% | previous 12%"
+    },
     {
       "id": "4911618",
       "time": "2026-06-02 09:32:24",
@@ -157223,83 +157385,6 @@
         "市場"
       ],
       "text": "現貨白銀日內跌2%，現報76.47美元/盎司。"
-    },
-    {
-      "id": "4899385",
-      "time": "2026-05-26 09:37:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "【優優綠能：公司AIDC供電系列產品計劃於今年6月在上海光伏展首次亮相】優優綠能近日接受機構調研時表示，為聚焦佈局AIDC供電業務，公司與深圳市厚啟投資合夥企業（有限合夥）、深圳市楓茗投資合夥企業（有限合夥）兩大持股平臺，共同出資設立控股子公司深圳市艾格數字能源科技有限公司，作為該業務的獨立經營主體。其中，公司持股70%，持股平臺合計持股30%，後續持股平臺的股權將逐步轉讓給公司AIDC事業部核心骨幹及外部行業專家。截至2026年3月，艾格數字能源及兩大持股平臺均已完成工商註冊登記。公司AIDC供電系列產品計劃於2026年6月在SNEC 2026上海光伏儲能展上首次亮相。"
-    },
-    {
-      "id": "4899384",
-      "time": "2026-05-26 09:37:15",
-      "tags": [
-        "市場"
-      ],
-      "text": "【勝宏科技股價創歷史新高】勝宏科技盤中股價創歷史新高，現漲0.11%，報383.42元，總市值為3734.23億元。"
-    },
-    {
-      "id": "4899383",
-      "time": "2026-05-26 09:37:10",
-      "tags": [
-        "國際",
-        "原創"
-      ],
-      "text": "【日本財務大臣表示將動用儲備資金用於部分補充預算】日本財務大臣片山皋月表示，政府將從今年的年度預算儲備資金中動用約32億美元，作為補貼公用事業的部分補充預算資金。 片山皋月週二在內閣會議後表示，關於7月至9月的電力和燃氣價格，政府決定從今年的儲備資金中撥出5135億日元（約32億美元）作為資金來源以提供支援，確保價格低於去年夏天的水平。片山皋月表示，高市早苗在內閣會議上指出，鑑於中東局勢仍不明朗，政府應靈活制定扶持措施，“不僅僅限於對電力和天然氣價格的支援”。"
-    },
-    {
-      "id": "4899382",
-      "time": "2026-05-26 09:36:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本經濟產業大臣赤澤亮正表示，鑑於日本已確保必要的原油和液化天然氣供應，現在無須求日本家庭比以往更加註重節能。 政府每年夏季都會呼籲節約能源，因為夏季是能源需求增加的時期，今年的呼籲與往年沒有什麼不同。"
-    },
-    {
-      "id": "4899381",
-      "time": "2026-05-26 09:35:24",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "日本經濟產業大臣赤澤亮正表示，目前有兩名日本高階政府官員正在訪問俄羅斯。日本經濟產業省通商政策局局長荒井勝喜和外務省歐洲局審議官石川誠己計劃會見俄羅斯政府官員及其他相關人士。訪問的目的是促進溝通，保護在俄羅斯運營的日本公司的資產。"
-    },
-    {
-      "id": "4899380",
-      "time": "2026-05-26 09:34:34",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "【港股聯想集團漲幅擴大至10%，上個交易日漲近20%】港股聯想集團漲幅擴大至10%，上個交易日漲近20%。訊息面上，聯想中國上財年AI相關收入暴增超140%，佔比超三成。"
-    },
-    {
-      "id": "4899379",
-      "time": "2026-05-26 09:34:14",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4570美元/盎司，日內漲0.30%。"
-    },
-    {
-      "id": "4899378",
-      "time": "2026-05-26 09:34:06",
-      "tags": [
-        "市場"
-      ],
-      "text": "大盤主力淨流出超100億。"
-    },
-    {
-      "id": "4899377",
-      "time": "2026-05-26 09:34:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期銀失守77美元/盎司，日內漲1.05%。"
     }
   ]
 }
