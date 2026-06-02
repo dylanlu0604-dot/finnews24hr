@@ -1,7 +1,83 @@
 {
-  "updated": "2026-06-03 07:46:02",
-  "count": 18531,
+  "updated": "2026-06-03 07:49:57",
+  "count": 18535,
   "items": [
+    {
+      "id": "mkt:019e8abd-f02c-733d-881c-96e61de96222",
+      "time": "2026-06-03 07:49:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Canada submits new trade proposal to US but warns of potential 'turbulence'】Canada's minister for Canada-U.S. trade, LeBlanc, said Ottawa has submitted a new, detailed trade proposal to the United States based on recent negotiations following a meeting in Washington with U.S. Trade Representative GREER. LeBlanc declined to disclose details, said talks will continue in coming days, and warned negotiations could still turn negative, calling \"turbulence\" inevitable; Ottawa is under pressure to show progress after Mexico began bilateral USMCA talks with Washington."
+    },
+    {
+      "id": "mkt:019e8abd-10e6-733d-881c-8b6942d5e0fb",
+      "time": "2026-06-03 07:48:26",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Japan's finance minister KATAYAMA said he discussed a range of global financial issues with his U.S. counterpart, including advanced artificial intelligence."
+    },
+    {
+      "id": "4913811",
+      "time": "2026-06-03 07:48:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山：正就全球金融形勢的各類議題（包括先進人工智慧）與美國對口官員展開討論。"
+    },
+    {
+      "id": "4913810",
+      "time": "2026-06-03 07:47:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍證實攔截伊朗導彈和無人機 稱空襲格什姆島】美東時間2日晚，美軍中央司令部在社交媒體發文，稱伊朗2日在整個中東範圍發動襲擊，美軍攔截若干伊朗彈道導彈和無人機。作為回應，美軍對伊朗格什姆島發動“自衛性”空襲。（央視）"
+    },
+    {
+      "id": "4913809",
+      "time": "2026-06-03 07:47:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山皋月：額外預算旨在最大限度地降低來自中東的金融風險。"
+    },
+    {
+      "id": "4913808",
+      "time": "2026-06-03 07:47:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山：我們將努力提供詳盡的解釋，以確保補充預算儘快獲得透過。"
+    },
+    {
+      "id": "4913807",
+      "time": "2026-06-03 07:45:56",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "指標10年期日本國債期貨早盤下跌0.16點。"
+    },
+    {
+      "id": "4913806",
+      "time": "2026-06-03 07:45:51",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經平均指數期貨早盤上漲1.1%。"
+    },
+    {
+      "id": "4913805",
+      "time": "2026-06-03 07:45:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中東媒體：美軍駐科威特和巴林基地遇襲】據中東地區媒體報道，科威特和巴林境內的美軍基地3日凌晨持續遭導彈和無人機襲擊，當地防空警報不斷響起。報道說，巴林境內的美軍朱費爾基地和美軍第五艦隊總部遭打擊，美軍“愛國者”防空系統攔截來襲導彈。另據伊朗媒體報道，對美軍基地的攻擊是在伊朗格什姆島傳出爆炸聲後立即發生的。法爾斯通訊社報道說，格什姆島居民當天凌晨至少聽到三聲爆炸聲從該島南部傳出。截至記者發稿時，有阿拉伯國家媒體報道，由於空襲，巴林、科威特和阿聯酋的機場已暫停運營。訊息人士稱，沙烏地阿拉伯境內的美軍基地也響起防空警報。（新華社）"
+    },
     {
       "id": "mkt:019e8aba-116a-733d-881c-873053a4ca3f",
       "time": "2026-06-03 07:45:10",
@@ -169880,50 +169956,6 @@
         "Important"
       ],
       "text": "UEDA, JEFFERSON To Attend Event In 10 Mins"
-    },
-    {
-      "id": "4901130",
-      "time": "2026-05-27 07:49:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "廣發證券恢復跟蹤大秦鐵路，評級增持，目標價6.63元。"
-    },
-    {
-      "id": "4901129",
-      "time": "2026-05-27 07:48:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網正式測定：05月27日07時44分在河北秦皇島市北戴河區（北緯39.83度，東經119.33度）發生2.6級地震，震源深度9千米。"
-    },
-    {
-      "id": "4901128",
-      "time": "2026-05-27 07:48:11",
-      "tags": [
-        "公司",
-        "央行",
-        "國際"
-      ],
-      "text": "瑞穗銀行CEO：日本央行可能在6月或7月加息。"
-    },
-    {
-      "id": "4901127",
-      "time": "2026-05-27 07:47:46",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【特朗普政府擬限制聯邦員工對媒體爆料 提議要求籤署保密協議】美國總統特朗普政府週二提議給予聯邦機構選擇權，要求員工簽署保密協議(NDA)，以防止他們向記者透露機密資訊。此舉引發新聞自由倡議團體的批評。美國人事管理局(OPM)釋出一份保密協議草案，供聯邦機構用於管理新進員工或現有員工。根據協議草案，政府可對違規員工追究民事與刑事責任。各機構將自行決定是否要求籤署保密協議。這項草案是總統試圖加強對美國政府員工的控制、並懲罰他認為對其批評過激的新聞機構與媒體人士的最新舉措。自特朗普第二任期開始以來，他與政府成員已對多家大型媒體公司提起至少五起訴訟，聲稱這些媒體釋出假新聞或誤導性報導，並索賠數百億美元。不過法院多半支援新聞機構。"
-    },
-    {
-      "id": "4901126",
-      "time": "2026-05-27 07:46:52",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "基準6月交割10年期日本國債期貨早盤上漲0.02點。"
     }
   ]
 }
