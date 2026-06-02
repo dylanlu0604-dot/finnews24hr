@@ -1,7 +1,67 @@
 {
-  "updated": "2026-06-03 01:28:16",
-  "count": 18364,
+  "updated": "2026-06-03 01:32:11",
+  "count": 18368,
   "items": [
+    {
+      "id": "4913532",
+      "time": "2026-06-03 01:31:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "受投資者押注SpaceX上市行情推動，Tema太空創新ETF規模突破26億美元。\n注：該ETF由Tema Global旗下發行，聚焦全產業鏈太空賽道主題ETF。"
+    },
+    {
+      "id": "mkt:019e8962-e538-7779-8aac-50202cb1a60f",
+      "time": "2026-06-03 01:30:16",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O",
+        "Impact bullish",
+        "QCOM.O"
+      ],
+      "text": "Microsoft (MSFT.O) and Qualcomm (QCOM.O) officially previewed a portable device designed for on-device mobile agent interaction."
+    },
+    {
+      "id": "4913531",
+      "time": "2026-06-03 01:30:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "國際原子能機構總幹事格羅西表示，如果不對協議條款開展強有力的核查與監督，要達成一項終止伊朗爭端的協議是絕無可能的。"
+    },
+    {
+      "id": "4913530",
+      "time": "2026-06-03 01:29:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "微軟執行長宣佈Web IQ今日正式上線。"
+    },
+    {
+      "id": "mkt:019e8961-7955-7779-8aac-4a94cb7702fc",
+      "time": "2026-06-03 01:28:41",
+      "tags": [
+        "MKT News",
+        "Important",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Market sources say Mexico has proposed extending the US-Mexico-Canada Agreement (USMCA) by 16 years."
+    },
+    {
+      "id": "mkt:019e8961-05cc-7779-8aac-442337cbd607",
+      "time": "2026-06-03 01:28:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IAEA Director General Grossi said the agency is providing the UAE both moral and technical support."
+    },
     {
       "id": "mkt:019e8960-7aa3-7779-8aac-3dc6ea708fc8",
       "time": "2026-06-03 01:27:41",
@@ -168260,24 +168320,6 @@
         "XAUUSD"
       ],
       "text": "Iran Parliament Speaker Ghalibaf Says Tehran Will Walk Away From Talks If U.S. 'Plays Word Games'"
-    },
-    {
-      "id": "4900911",
-      "time": "2026-05-27 01:30:52",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4500美元/盎司，日內跌1.55%。"
-    },
-    {
-      "id": "4900910",
-      "time": "2026-05-27 01:30:12",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "比特幣跌破76000美元，日內跌1.84%。"
     }
   ]
 }
