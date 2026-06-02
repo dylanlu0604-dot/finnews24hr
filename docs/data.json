@@ -1,7 +1,33 @@
 {
-  "updated": "2026-06-03 01:55:50",
-  "count": 18405,
+  "updated": "2026-06-03 01:59:51",
+  "count": 18404,
   "items": [
+    {
+      "id": "4913561",
+      "time": "2026-06-03 01:58:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【魯比奧：美伊仍在談 協議何時達成不確定】美國國務卿魯比奧2日在國會參議院外交關係委員會舉行的聽證會上表示，美國仍在與伊朗談判，但他不確定何時能達成協議。這是美國和以色列2月底對伊朗發起大規模軍事行動後，魯比奧首次在國會作證。回答議員關於美伊談判進展的提問時，他說，“我們正在同伊朗談判”，伊朗“已經同意就其核計劃的一些內容展開談判，而就在一個月前，甚至一年前，他們連談都不願談”。魯比奧說，與伊朗的協議“可能在今天達成，可能明天達成，也可能下週達成”，但這“並不保證最終一定能達成一份獲得國會認可的協議”。（新華社）"
+    },
+    {
+      "id": "4913560",
+      "time": "2026-06-03 01:57:43",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "印度財政部：對馬來西亞出口光伏玻璃加徵反補貼稅。"
+    },
+    {
+      "id": "4913559",
+      "time": "2026-06-03 01:57:25",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "印度財政部：對馬來西亞相關出口產品徵收反補貼稅。"
+    },
     {
       "id": "mkt:019e8979-c53f-7779-8aac-ee94edcf37a0",
       "time": "2026-06-03 01:55:19",
@@ -168626,38 +168652,6 @@
         "Impact bearish"
       ],
       "text": "【Spot Gold Falls Below $4,490/oz; Down 1.77% Intraday】Spot gold falls below $4,490/oz, down 1.77% intraday"
-    },
-    {
-      "id": "mkt:019e6571-54e0-7332-8105-54a1c1ffd7a4",
-      "time": "2026-05-27 01:59:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iran President Says Unwavering On Territory, Sovereignty】Iran President PEZESHKIAN Extends 'Brotherly' Hand To Islamic States; Pledges Unwavering Defense Of Territory, Sovereignty"
-    },
-    {
-      "id": "4900921",
-      "time": "2026-05-27 01:59:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗總統：毫不動搖捍衛領土與國家主權】當地時間5月26日，伊朗總統佩澤希齊揚發表講話時表示，伊朗向伊斯蘭國家伸出了“兄弟般的友誼之手”。與此同時，伊朗在捍衛自身領土和國家主權上沒有絲毫動搖。（央視新聞）"
-    },
-    {
-      "id": "mkt:019e656f-5483-7332-8105-4b2932a22fff",
-      "time": "2026-05-27 01:57:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "SoftBank Hires GOLDMAN SACHS, JPMORGAN, MIZUHO, MORGAN STANLEY to Advise ROZE Robotics IPO"
-    },
-    {
-      "id": "4900919",
-      "time": "2026-05-27 01:56:00",
-      "tags": [
-        "觀點"
-      ],
-      "text": "訊息人士：軟銀聘請高盛、摩根大通、瑞穗證券和摩根士丹利，擔任機器人企業 ROZE 的 IPO 承銷商。"
     }
   ]
 }
