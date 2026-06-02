@@ -1,7 +1,130 @@
 {
-  "updated": "2026-06-02 21:26:52",
-  "count": 18037,
+  "updated": "2026-06-02 21:31:02",
+  "count": 18042,
   "items": [
+    {
+      "id": "mkt:019e8887-2e3a-7cc2-b75f-d49ba6b8b6ef",
+      "time": "2026-06-02 21:30:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Guangzhou May resale home online signings rise 8.45% YoY to 9,983】Data from the Guangzhou Real Estate Brokerage Association on June 2 showed May resale (secondhand) residential online signings of 9,983 units, totaling 995.1k sq m, up 8.45% and 7.89% YoY respectively."
+    },
+    {
+      "id": "4913117",
+      "time": "2026-06-02 21:30:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "【Abivax美股盤前跌超40%】Abivax美股盤前跌超40%，現報77.8美元。"
+    },
+    {
+      "id": "4913116",
+      "time": "2026-06-02 21:30:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國稱 美方就分行業關稅展開談判至關重要。"
+    },
+    {
+      "id": "mkt:019e8886-cbcd-7cc2-b75f-c8ff38a78042",
+      "time": "2026-06-02 21:29:55",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "Canada sent formal letters to Mexico and the United States to launch a review of the United States–Mexico–Canada Agreement (USMCA), saying talks with the United States to resolve sectoral tariffs will be crucial."
+    },
+    {
+      "id": "4913115",
+      "time": "2026-06-02 21:29:34",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "美國農業信心指數5月降至119。"
+    },
+    {
+      "id": "mkt:019e8886-6e60-799a-9e6a-e5af8cda507f",
+      "time": "2026-06-02 21:29:31",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Vito Energy Group's Bahrain head said the risk of a U.S. ban on crude oil or refined product exports is extremely low."
+    },
+    {
+      "id": "4913114",
+      "time": "2026-06-02 21:29:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西財長：上午11點召開關於第301條的會議。"
+    },
+    {
+      "id": "4913113",
+      "time": "2026-06-02 21:28:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大已就《美墨加協定》（USMCA）審議啟動事宜向墨西哥和美國發出正式信函，加方稱與美方就解決行業關稅問題展開磋商至關重要。"
+    },
+    {
+      "id": "4913112",
+      "time": "2026-06-02 21:28:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐洲議會委員會投票支援歐美貿易協議】歐洲議會國際貿易委員會2日投票支援歐美貿易協議，以避免跨大西洋關稅衝突捲土重來。當天，歐洲議會國際貿易委員會以31票贊成、6票反對、3票棄權的結果，支援透過相關立法，以實施關稅削減措施。相關立法最終需在6月中旬獲得歐洲議會全會批准。歐洲議會國際貿易委員會主席朗格說，期待美國遵守協議。他說，自去年7月以來，美國已至少三次嚴重違反該協議。歐美於2025年7月達成貿易協議，核心內容包括歐盟暫停對所有美國工業品的關稅，並對大量進入歐盟市場的美國農食產品建立關稅配額制度，以換取美國對大多數歐盟輸美商品徵收15%的關稅。（新華社）"
+    },
+    {
+      "id": "4913111",
+      "time": "2026-06-02 21:28:20",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "維多公司巴林負責人湯姆·貝克：認為美國原油或成品油出口禁令的風險極低。"
+    },
+    {
+      "id": "mkt:019e8885-4581-7cc2-b75f-bd3950220918",
+      "time": "2026-06-02 21:28:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada’s prime minister Carney said the country proposes extending the US‑Mexico‑Canada Agreement (USMCA) for 16 years."
+    },
+    {
+      "id": "4913110",
+      "time": "2026-06-02 21:27:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大提議將《美墨加協定》（USMCA）續期 16 年。"
+    },
+    {
+      "id": "4913109",
+      "time": "2026-06-02 21:27:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "維多利亞的秘密高管在電話會議上表示：預計第二季度關稅影響約為1500萬美元。"
+    },
+    {
+      "id": "mkt:019e8884-354a-7cc2-b75f-b3e54ef89a91",
+      "time": "2026-06-02 21:27:06",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Governor Hammack said the unemployment rate remains the best single gauge of the labor market and that the labor market is broadly in balance."
+    },
     {
       "id": "4913107",
       "time": "2026-06-02 21:25:38",
@@ -165206,96 +165329,6 @@
         "焦點"
       ],
       "text": "小馬智行 ADR 盤中最大漲幅達 17%，創 9 月 19 日以來日內最大漲幅。"
-    },
-    {
-      "id": "4900687",
-      "time": "2026-05-26 21:30:49",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納斯達克中國金龍指數漲超0.5%，老虎證券漲7.80%，信也科技漲9.35%，小鵬汽車漲6.57%，萬物新生漲3.85%，360數科漲4.42%。"
-    },
-    {
-      "id": "4900686",
-      "time": "2026-05-26 21:30:45",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股開盤：三大股指漲跌不一】道指漲0.25%，標普500指數漲0.60%，納指持平。邁威爾科技漲10.27%，美光漲9.92%，APP AppLovin漲8.29%，汽車地帶跌4.97%，Atlassian跌2.79%，財捷跌2.28%。“七姐妹”方面：特斯拉漲1.42%，亞馬遜漲0.70%，蘋果漲0.40%，谷歌漲0.34%，英偉達漲0.17%，Meta Platforms跌0.02%，微軟跌0.95%。"
-    },
-    {
-      "id": "mkt:019e647a-fb00-7330-84b4-22d12d3bd73e",
-      "time": "2026-05-26 21:30:41",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Wall Street (US)",
-        "S&P500",
-        "Impact bullish",
-        "MU.O",
-        "PONY.O"
-      ],
-      "text": "U.S. Stocks Open: Dow +0.27%, S&P 500 +0.58%, Nasdaq +0.94% Micron Technology (MU.O) +9.4% after UBS Raises PT to $1,625 (Street High) Pony.ai (PONY.O) +14.35% after Q1 Revenue +145% YoY"
-    },
-    {
-      "id": "4900685",
-      "time": "2026-05-26 21:30:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "據中國海事局網站訊息，葫蘆島海事局釋出航行警告，5月27日4時至12時，渤海部分海域進行軍事演習，禁止駛入。"
-    },
-    {
-      "id": "te:markets:553786",
-      "time": "2026-05-26 21:30:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Micron Technology Stock Price Hits All-time High — Micron Technology shares increased to an all-time high of 821.86 USD. Over the past 4 weeks, Micron Technology gained 55.9%, and in the last 12 months, it increased 704.33%."
-    },
-    {
-      "id": "4900684",
-      "time": "2026-05-26 21:29:53",
-      "tags": [
-        "央行",
-        "市場"
-      ],
-      "text": "匈牙利央行行長：福林匯率較3月已出現上漲。"
-    },
-    {
-      "id": "4900683",
-      "time": "2026-05-26 21:29:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "【塞爾維亞與匯天就低空領域達成合作意向】5月26日，塞爾維亞總統武契奇一行與中國低空經濟企業匯天就低空領域達成合作意向，計劃以“2027貝爾格萊德世博會”為核心契機，共同打造中東歐首個國家級低空經濟智慧示範區，建成集研發測試、示範運營、人才培訓、標準輸出於一體並輻射歐洲的低空經濟樞紐。據悉，匯天將參與塞方低空航線試點專案，在塞開展演示試飛、測試試驗、示範運營、駕駛員培訓及投資建廠等活動，塞方將在用地、融資、法規及政策等方面給予支援。"
-    },
-    {
-      "id": "4900682",
-      "time": "2026-05-26 21:28:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "【第五屆中國－東盟民間友好組織領導人會晤在江西舉行】5月26日，第五屆中國－東盟民間友好組織領導人會晤在江西景德鎮成功舉行。中國人民對外友好協會和來自汶萊、柬埔寨、印度尼西亞、寮國、馬來西亞、緬甸、菲律賓、新加坡、泰國、越南等10國的14個民間友好組織負責人以及東帝汶駐華使館代表等近百人出席。 本次會晤以“聚力遠航 共謀中國東盟民間友好新願景”為主題，與會嘉賓就深化中國東盟民間友好合作進行深入交流，達成積極共識。 會後釋出共同倡議，各方強調要進一步發展完善中國－東盟民間友好合作機制，持續搭建更多民間交往、務實合作、人文交流和青少年友好的橋樑，為構建更為緊密的中國－東盟命運共同體貢獻民間力量。（新華社）"
-    },
-    {
-      "id": "te:economy:553785",
-      "time": "2026-05-26 21:28:31",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Canada",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Canada 10-Year Bond Yield Retreats From 2-Year High — Canada's 10-year government bond yield fell to 3.45% from the two-year high of 3.7% touched on May 19th, tracking similar moves in the US as the outlook of soaring inflation was tamed by a pullback in energy prices. The US and Iran signaled they were closer to agreeing on a deal to end the war and restore energy supply from the key region. Despite fresh strikes that dented optimism on a deal, the drop in energy costs aligned with the Bank of Canada's signal that it does not see high energy prices spreading to inflation in core sectors of the economy. Likewise, the latest inflation report indicated that the Bank of Canada’s preferred core inflation gauges slowed more than expected to their lowest levels in five years. In turn, the GDP is expected to have been flat in the first quarter, also supporting the case for lower rates."
     }
   ]
 }
