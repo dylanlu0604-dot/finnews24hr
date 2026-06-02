@@ -1,7 +1,204 @@
 {
-  "updated": "2026-06-02 23:02:02",
-  "count": 18146,
+  "updated": "2026-06-02 23:06:05",
+  "count": 18162,
   "items": [
+    {
+      "id": "4913308",
+      "time": "2026-06-02 23:05:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "英格蘭銀行貨幣政策委員會委員格林：儘早採取利率行動存在益處，應對的速度可以說和幅度同等重要。"
+    },
+    {
+      "id": "4913307",
+      "time": "2026-06-02 23:05:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國貨幣政策委員會成員格林：即便通脹最終並非持續高企，採取行動的風險也遠不及不作為的風險嚴重。"
+    },
+    {
+      "id": "mkt:019e88dd-f192-7ccc-bd1f-536b877ca6e5",
+      "time": "2026-06-02 23:04:54",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "FTSE100",
+        "Impact mixed"
+      ],
+      "text": "Bank of England Governor Bailey said the labour market is slowing due to insufficient hiring."
+    },
+    {
+      "id": "4913306",
+      "time": "2026-06-02 23:04:51",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：有跡象表明，伊朗最高領袖正逐步加大對相關事務的介入程度。"
+    },
+    {
+      "id": "mkt:019e88dd-9944-7ccc-bd1f-4bb26494c06a",
+      "time": "2026-06-02 23:04:43",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Bank of England MPC member Greene said acting on interest rates sooner would be beneficial; the speed of the response may be as important as the size of the move."
+    },
+    {
+      "id": "4913305",
+      "time": "2026-06-02 23:04:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "英格蘭銀行貨幣政策委員會委員格林：相較於產出穩定，我給物價穩定賦予了相對更高的權重。"
+    },
+    {
+      "id": "4913304",
+      "time": "2026-06-02 23:04:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國貨幣政策委員會成員格林：不採取行動的風險比採取行動的風險更嚴重。"
+    },
+    {
+      "id": "4913303",
+      "time": "2026-06-02 23:04:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國貨幣政策委員會成員格林：不能指望市場收緊替我們完成政策工作。"
+    },
+    {
+      "id": "mkt:019e88dd-23fc-7ccc-bd1f-43097bccbf9c",
+      "time": "2026-06-02 23:04:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Bank of England MPC member Greene said the risk of acting is lower than the risk of not acting."
+    },
+    {
+      "id": "4913302",
+      "time": "2026-06-02 23:04:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴西總統盧拉：特朗普政府曾對巴西商品加徵關稅。"
+    },
+    {
+      "id": "mkt:019e88dc-e047-7ccc-bd1f-3e6d32016103",
+      "time": "2026-06-02 23:03:56",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "Bank of England MPC member Greene said that under the Bank of England's scenario B, larger second‑round effects from energy prices would necessitate higher interest rates."
+    },
+    {
+      "id": "mkt:019e88dc-cb03-7ccc-bd1f-37d7acac8166",
+      "time": "2026-06-02 23:03:46",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "Bank of England MPC member Greene said the central bank cannot rely solely on a steepening yield curve to achieve its policy objectives."
+    },
+    {
+      "id": "4913301",
+      "time": "2026-06-02 23:03:25",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國貨幣政策委員會成員格林：若能源價格走勢與英國央行情景B一致，但第二輪效應更顯著，則需要加息。"
+    },
+    {
+      "id": "4913300",
+      "time": "2026-06-02 23:03:10",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "聯合國大會2日選舉孟加拉國外長卡利勒·拉赫曼為第81屆聯大主席。拉赫曼將於今年9月就職，任期一年。"
+    },
+    {
+      "id": "mkt:019e88db-a38e-7ccc-bd1f-2b56ba5017b3",
+      "time": "2026-06-02 23:02:29",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Bank of England monetary policy committee member Greene said UK households and firms may be more sensitive to rising inf than previously."
+    },
+    {
+      "id": "mkt:019e88db-7f06-7ccc-bd1f-210b74259857",
+      "time": "2026-06-02 23:02:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Bank of England monetary policy committee member Greene said the case for raising the Bank's key rate is strengthening."
+    },
+    {
+      "id": "4913299",
+      "time": "2026-06-02 23:02:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國貨幣政策委員會委員格林：英國家庭與企業對通脹上升的敏感度可以說高於以往時期。"
+    },
+    {
+      "id": "mkt:019e88da-d2bd-7ccc-bd1f-1af9c0c4b398",
+      "time": "2026-06-02 23:01:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Lula said he learned during negotiations about a 25% tariff."
+    },
+    {
+      "id": "mkt:019e88da-b427-7ccc-bd1f-1163ed5010bd",
+      "time": "2026-06-02 23:01:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "German foreign minister said he is confident Germany can strengthen the UN Security Council and the United Nations."
+    },
+    {
+      "id": "te:markets:555817",
+      "time": "2026-06-02 23:01:25",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Volatile as Markets Assess US-Iran Peace Prospects — Brent crude oil futures fluctuated around $95 per barrel on Tuesday after surging 4.2% in the previous session, as traders weighed conflicting signals over the prospects for a US-Iran peace agreement. Iranian news agencies raised doubts about progress in negotiations, despite President Donald Trump stating a day earlier that talks were continuing. Trump said a memorandum of understanding to reopen the Strait of Hormuz could be reached within the next week, although several issues still need to be resolved. Uncertainty surrounding a possible extension of the ceasefire and the future of shipping through Hormuz has kept oil markets volatile after prices fell sharply last month on hopes for a breakthrough. Adding to the uncertainty, Trump and Israeli Prime Minister Benjamin Netanyahu gave differing accounts of discussions on Lebanon, while Lebanese officials said negotiations aimed at expanding a US-brokered ceasefire are continuing this week."
+    },
     {
       "id": "mkt:019e88da-8020-7ccc-bd1f-09dbd3cf346e",
       "time": "2026-06-02 23:01:21",
@@ -166246,40 +166443,6 @@
         "國際"
       ],
       "text": "【以軍突破黎以協商停火線 尚不清楚行動將深入何處 】以色列媒體26日報道稱，為應對黎巴嫩真主黨持續對以色列發動的無人機襲擊，以軍已開始越過4月17日停火協議劃定的“黃線”，向黎境內更深區域展開地面行動。《耶路撒冷郵報》報道說，目前尚不清楚以軍此次行動將深入至何種程度。（新華社）"
-    },
-    {
-      "id": "4900834",
-      "time": "2026-05-26 23:06:00",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "巴西國家開發銀行行長證實，該行於 5 月出售了巴西石油公司股份，此舉依據相關法規要求，同時也是鑑於 2026 年該股股價上漲。"
-    },
-    {
-      "id": "4900833",
-      "time": "2026-05-26 23:04:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌：現已可透過需求營銷廣告活動直接管理谷歌展示廣告網路（GDN）投放資源。"
-    },
-    {
-      "id": "4900832",
-      "time": "2026-05-26 23:04:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國航空將部署星鏈系統。"
-    },
-    {
-      "id": "4900831",
-      "time": "2026-05-26 23:03:31",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【荷蘭央行行長：歐洲央行將“竭盡所能”確保通貨膨脹降至目標】歐洲央行管理委員會成員Olaf Sleijpen表示，歐洲央行將採取一切必要措施，使消費者物價增速回落至目標水平，官員們在6月政策會議召開時將掌握比目前更多的資訊。“歐洲央行當然會竭盡所能，確保通脹迴歸到價格穩定的水平。”這位荷蘭央行行長週二在阿姆斯特丹表示。政策制定者下個月進行討論時將“掌"
     }
   ]
 }
