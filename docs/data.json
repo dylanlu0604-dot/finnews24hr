@@ -1,7 +1,176 @@
 {
-  "updated": "2026-06-02 15:12:53",
-  "count": 17523,
+  "updated": "2026-06-02 15:17:01",
+  "count": 17526,
   "items": [
+    {
+      "id": "mkt:019e8730-9f54-7555-bd37-01e83bb255b5",
+      "time": "2026-06-02 15:16:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China bond futures midday close】2-year bond futures (TS) most-active contract rose 0.01%; 5-year (TF) up 0.04%; 10-year (T) up 0.06%; 30-year (TL) unchanged."
+    },
+    {
+      "id": "mkt:019e8730-9766-7555-bd36-fb1c0bf65be2",
+      "time": "2026-06-02 15:16:07",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "LME tin up 4.00% intraday, trading at $58,750/tonne."
+    },
+    {
+      "id": "te:markets:555664",
+      "time": "2026-06-02 15:16:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Shangai Composite Index Closes 0.46% Higher — The Shangai Composite Index rose 19 points or 0.46 percent on Tuesday to close at 4076 points. Leading the gains are Datang Intl (8.36%), China Molybdenum (6.57%) and Aluminum Corporation of China (4.78%). Top losers were Huaneng (-6.86%), Zhejiang Zheneng (-4.48%) and China International (-3.03%)."
+    },
+    {
+      "id": "4912139",
+      "time": "2026-06-02 15:15:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【星海圖釋出自研雙足人形機器人】6月2日，星海圖正式釋出自研雙足人形機器人Kengo（行客）。"
+    },
+    {
+      "id": "4912138",
+      "time": "2026-06-02 15:15:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "意法半導體米蘭上市股票在上漲9.78%後自動停牌，觸及2000年9月以來最高點位。"
+    },
+    {
+      "id": "mkt:019e8730-64a9-7555-bd36-f39b5596f1ac",
+      "time": "2026-06-02 15:15:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "STM.MI",
+        "Impact mixed"
+      ],
+      "text": "Milan-listed STMicroelectronics shares were automatically suspended after rising 9.78%, the stock hitting its highest level since September 2000."
+    },
+    {
+      "id": "4912137",
+      "time": "2026-06-02 15:15:44",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【泰國央行：預計2027年第二季度通脹將減緩】泰國央行行長：預計泰國今年通脹率為3%。預計2027年第二季度通脹將減緩。關鍵利率將保持不變，除非情況發生變化。出口將實現良好增長。預計今年出口增長12%至13%。"
+    },
+    {
+      "id": "4912136",
+      "time": "2026-06-02 15:15:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【茅臺子公司回應“一瓶飛天捆綁4瓶黔茅酒”】6月2日，有報道稱，在茅臺集團2026年全國專案合作峰會上，有參會者被要求“買1瓶飛天茅臺，最低要捆綁4瓶黔茅酒”。據悉，2025年7月，茅臺保健酒業下屬子公司健康產業公司與貴州黔茅營銷策劃有限公司開展合作，由黔茅策劃公司經銷健康產業公司生產的黔茅系列酒類產品。根據雙方約定，黔茅策劃公司對黔茅系列酒類產品的宣傳承擔責任，要嚴格管控經銷商、分銷商，依法合規招商、宣傳，不得欺騙或誤導消費者，不得擅自以“茅臺集團公司”“健康產業銷售公司”名義進行招商、宣傳、產品推廣等，產品廣告宣傳等內容須獲得審批後方可釋出。對於“捆綁銷售”的情況，貴州茅臺酒廠（集團）保健酒業有限公司釋出宣告稱，這是貴州黔茅營銷策劃有限公司擅自開展的誤導消費者的招商、宣傳活動。茅臺保健酒表示：“鑑於此活動已違反雙方約定，健康產業銷售公司已暫停與黔茅策劃公司一切合作及經銷授權，後續將依法追究其相關法律責任。”（新浪科技）"
+    },
+    {
+      "id": "te:economy:555662",
+      "time": "2026-06-02 15:15:17",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Austria",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Austria Inflation at 5-Month High — The annual inflation rate in Austria rose to 3.7% year-on-year in May 2026 from 3.3% in the previous month, marking its highest level since December 2025, according to preliminary estimates. Services inflation increased (4.4% vs 4.1% in April), mainly driving the overall rise, partly due to higher airline ticket prices. Industrial goods also rose (1.4% vs 0.8%). Meanwhile, energy-related costs increased at a slower pace, with gasoline inflation easing, while diesel and heating oil prices declined compared to the previous month. Food, beverages, and tobacco inflation also eased (2.4% vs 2.6%). On a monthly basis, consumer prices rose 0.1%, slowing from 0.3% in the preceding period."
+    },
+    {
+      "id": "te:markets:555661",
+      "time": "2026-06-02 15:15:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Higher on Tuesday — European stocks traded higher on Tuesday, with both the STOXX 50 and STOXX 600 gaining 0.6% after starting June with losses in the previous session. Investors took advantage of the recent pullback while assessing the sustainability of the global technology and AI-driven market rally. Market participants also remained focused on developments in the Middle East, where negotiations continue to fluctuate and the Strait of Hormuz remains largely closed. Meanwhile, attention is turning to the Eurozone’s preliminary inflation data, with headline inflation expected to rise to 3.2% and core inflation projected to accelerate to 2.4%."
+    },
+    {
+      "id": "4912135",
+      "time": "2026-06-02 15:15:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨收盤】 30年期主力合約基本持平， 10年期主力合約漲0.06%， 5年期主力合約漲0.04%， 2年期主力合約漲0.01%。"
+    },
+    {
+      "id": "4912134",
+      "time": "2026-06-02 15:14:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普被曝擬放棄“反武器化”基金計劃】據新華社，知情人士透露，在遭國會兩黨議員質疑並面臨司法挑戰後，美國總統特朗普計劃放棄一項總額約18億美元的“反武器化”基金計劃。該基金原計劃用於補償前總統拜登時期美國政府被“武器化”的“受害者”。美國阿克西奧斯新聞網站6月1日報道，兩名美國高階政府官員說，這項基金“目前已被擱置”。（新華社）"
+    },
+    {
+      "id": "4912133",
+      "time": "2026-06-02 15:14:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "受騰訊香港股價飆升提振，PROSUS股價上漲11%。"
+    },
+    {
+      "id": "mkt:019e872e-918c-7555-bd36-ee20512f09f9",
+      "time": "2026-06-02 15:13:56",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "BOT governor expects exports to grow 12-13% this year."
+    },
+    {
+      "id": "4912132",
+      "time": "2026-06-02 15:13:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "英飛凌、矽晶圓廠Siltronic、Suss Microtec、Elmos、PVA Tepla的股價漲幅在2.5%至5.3%之間。"
+    },
+    {
+      "id": "4912130",
+      "time": "2026-06-02 15:13:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4540美元/盎司，日內漲1.24%。"
+    },
+    {
+      "id": "mkt:019e872d-7527-7555-bd36-e5013e9b16a1",
+      "time": "2026-06-02 15:12:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "【U.S. reportedly weighing expanded nuclear deployments in Europe】The FT on June 2, citing three people, reported the U.S. is discussing whether to deploy nuclear weapons to additional NATO European members. The U.S. already maintains nuclear-capable aircraft in six European countries — Belgium, Germany, Italy, the Netherlands, Turkey and the UK — and U.S. officials have signaled openness to deployments beyond those six. Any expansion would involve allowing more countries to host U.S. dual-capable aircraft (DCA) capable of nuclear delivery, though officials say expanding nuclear-hosting arrangements is not urgent. Poland and some Baltic states have expressed interest; discussions are taking place through NATO channels. The Pentagon and NATO did not respond to requests for comment."
+    },
+    {
+      "id": "4912129",
+      "time": "2026-06-02 15:12:08",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "市場監管總局、工業和資訊化部、民政部關於印發《保健食品護老提升專項行動工作方案》的通知。"
+    },
     {
       "id": "mkt:019e872c-b5b5-7555-bd36-da3bfbb09536",
       "time": "2026-06-02 15:11:54",
@@ -160291,146 +160460,6 @@
         "Importance 1"
       ],
       "text": "HSBC Holdings Stock Price Hits 12-week High — HSBC Holdings shares increased to 144.80 HKD, the highest since February 2026. Over the past 4 weeks, HSBC Holdings gained 3.21%, and in the last 12 months, it increased 56.6%."
-    },
-    {
-      "id": "4899817",
-      "time": "2026-05-26 15:16:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "檔案顯示，貝恩資本旗下的開曼 BCPE Pangea 基金表示，或就鎧俠控股的董事人選提出重大提案。"
-    },
-    {
-      "id": "te:markets:553673",
-      "time": "2026-05-26 15:16:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Shangai Composite Index Closes 0.12% Lower — The Shangai Composite Index decreased 5 points or 0.12 percent on Tuesday to close at 4148 points. The decline was led by Datang Intl (-3.24%), Yonyou Soft (-3.20%) and Shanghai Electric (-3.02%). On the upside, the strongest performers were Aluminum Corporation of China (10.01%), Zijin Mining (4.91%) and China Molybdenum (4.34%)."
-    },
-    {
-      "id": "4899816",
-      "time": "2026-05-26 15:16:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "【太陽能新設科技公司，含新興能源技術研發業務】企查查APP顯示，近日，中節能太陽能科技（富川）有限公司成立，法定代表人為侯亞新，經營範圍包含：儲能技術服務；發電技術服務；太陽能發電技術服務；新興能源技術研發；光伏裝置及元器件銷售等。企查查股權穿透顯示，該公司由太陽能(000591)間接全資持股。"
-    },
-    {
-      "id": "te:markets:553672",
-      "time": "2026-05-26 15:16:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Steel Hits Near 1-Month Low — Steel rebar futures dropped below CNY 3,160 per ton, hovering near their lowest level in almost a month as weak demand continued to weigh on prices. Steel margins in China remain under pressure amid persistent weakness in the country’s infrastructure and property construction sectors. Demand for Chinese steel exports has also softened, with overseas buyers showing limited appetite for purchases at elevated prices. China’s steel output declined 2.8% year-on-year to 86.63 million tons in April, marking the weakest April reading since 2018. Meanwhile, the latest monthly industry report from Mysteel indicated that long steel production is expected to increase as improved profitability encourages domestic steelmakers to raise output. However, the prospect of higher supply could create additional downward pressure later this month if end-user demand continues to deteriorate."
-    },
-    {
-      "id": "te:economy:553671",
-      "time": "2026-05-26 15:16:02",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "South Africa",
-        "Leading Economic Index",
-        "Importance 1"
-      ],
-      "text": "South Africa Business Cycle Index Rises Most in Nearly 5 Years — The composite leading business cycle indicator in South Africa climbed by 2.4% month-on-month in March 2026, following an upwardly revised 0.6% increase in the previous month. The latest figure marked the strongest expansion since May 2021, as six of the seven\" available components contributed positively, led by an acceleration in the six-month smoothed growth rate in the real M1 money supply and a widening of the interest rate spread. Meanwhile, the main negative contributions came from a deterioration in the composite leading business cycle indicator for South Africa’s major trading-partner countries. The composite coincident indicator declined by 0.1% in February 2026, driven by decrease in the utilization of production capacity in the manufacturing sector and industrial production index. In contrast, the lagging indicator edged up by 0.6% in February."
-    },
-    {
-      "id": "4899815",
-      "time": "2026-05-26 15:15:50",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內漲3%，現報96.23美元/桶。"
-    },
-    {
-      "id": "te:economy:553670",
-      "time": "2026-05-26 15:15:02",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Philippines",
-        "Government Budget Value",
-        "Importance 1"
-      ],
-      "text": "Philippines Budget Surplus Narrows in April — The Philippines’ budget surplus narrowed to PHP 31.4 billion in April 2026 from PHP 67.3 billion in the same month a year earlier. Total expenditures jumped 11.14% to PHP 505.4 billion, driven by higher National Tax Allotment shares for LGUs, as well as the Annual Block Grant for the BARMM and the Local Government Support Fund. Spending was also supported by increased budgetary assistance to GOCCs and the return of PHP 60.0 billion in excess funds from PhilHealth. Meanwhile, total revenues rose 2.83% year-on-year to PHP 536.8 billion, driven by a 2.62% increase in tax collections and a 7.32% rise in non-tax revenues. For the January–April period, the budget deficit narrowed to PHP 324.1 billion, down 14.44% from PHP 378.7 billion in the same period last year."
-    },
-    {
-      "id": "4899814",
-      "time": "2026-05-26 15:15:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國債期貨收盤】 30年期主力合約漲0.19%， 10年期主力合約漲0.01%， 5年期主力合約漲0.02%， 2年期主力合約漲0.02%。"
-    },
-    {
-      "id": "4899813",
-      "time": "2026-05-26 15:14:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "惠譽評級：摩爾多瓦對外緩衝能力提升，相關政策緩解能源衝擊風險。"
-    },
-    {
-      "id": "mkt:019e6322-7bb1-7ff6-adfc-8f233430b330",
-      "time": "2026-05-26 15:14:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CHINA FOREIGN MINISTRY, ON QUAD STATEMENT: COOPERATION SHOULD NOT HURT MUTUAL TRUST, COOPERATION AMONG REGIONAL COUNTRIES"
-    },
-    {
-      "id": "4899812",
-      "time": "2026-05-26 15:13:44",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【發改委：推行常住地提供基本公共服務是推進農業轉移人口市民化的迫切任務】5月26日，國務院新聞辦公室舉辦國務院政策例行吹風會，介紹《關於推行常住地提供基本公共服務的實施意見》有關情況。會上，國家發展改革委副主任鄭備表示，我國長期在城鎮居住生活但未落戶的群眾超過2.5億人，其中進城農民工及隨遷家屬1.7億人，推進常住地提供基本公共服務，讓新市民在穩定就業居住的城市獲得隨遷子女教育、住房保障、就業、社保、醫療、衛生等方面的基本服務，享有更加美好的生活，是深入實施以人為本的新型城鎮化戰略的重要內容。目前，我國城鎮化正從快速增長期轉向穩定發展期，推行常住地提供基本公共服務，促進未落戶常住人口與戶籍人口同等享有基本公共服務，是推進農業轉移人口市民化的一項迫切任務，也是廣大新市民最關心、最直接、最現實的利益訴求。"
-    },
-    {
-      "id": "mkt:019e6321-7ef0-7ff6-adfc-828fc7686dce",
-      "time": "2026-05-26 15:13:19",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "IRAN'S SUPREME LEADER SAYS REGIONAL POWERS WILL NO LONGER BE A SHIELD FOR U.S. BASES, U.S WILL NO LONGER HAVE A SAFE HAVEN IN THE REGION"
-    },
-    {
-      "id": "mkt:019e6321-6e4b-7ff6-adfc-789147df20cc",
-      "time": "2026-05-26 15:13:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CHINA FOREIGN MINISTRY, ON QUAD AGREEING FIJI PORT: BELIEVE COOPERATION AMONG COUNTRIES SHOULD PROMOTE REGIONAL PEACE STABILITY"
-    },
-    {
-      "id": "4899811",
-      "time": "2026-05-26 15:13:13",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油突破96美元/桶，日內漲2.90%。"
-    },
-    {
-      "id": "4899810",
-      "time": "2026-05-26 15:13:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "西班牙將封鎖預測市場Polymarket和Kalshi。"
     }
   ]
 }
