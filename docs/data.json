@@ -1,7 +1,25 @@
 {
-  "updated": "2026-06-03 05:50:16",
+  "updated": "2026-06-03 05:54:09",
   "count": 18456,
   "items": [
+    {
+      "id": "4913693",
+      "time": "2026-06-03 05:52:01",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【非農就業大考前夕 看空力量主導美債市場】債券交易員堅持押注收益率上升，儘管已經削減了一些最激進的倉位。週五即將公佈的美國關鍵就業資料可能會進一步強化市場對於美聯儲加息的預期。近期，美國債券市場一直由看空力量主導。油價上漲以及通脹持續高於目標水平，推動基準國債收益率大幅攀升，並促使交易員加大對最快今年加息的押注。儘管隨著美伊有望達成停戰協議，市場情緒有所改善，但交易員整體仍保持防禦姿態。美國10年期國債收益率已從兩週前接近4.69%的高點回落至4.5%以下，但仍明顯高於今年早些時候觸及的低點。美國銀行策略師在最新一期週報中寫道：“市場倉位仍然偏向做空。”他們補充稱，“即使動能不如之前明確”，但倉位應仍偏向收益率上行。"
+    },
+    {
+      "id": "mkt:019e8a51-62df-733d-881b-16f91df0b626",
+      "time": "2026-06-03 05:50:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The UN General Assembly on June 2 elected Bangladesh's foreign minister Khalil Rahman as president of its 81st session. He will take office this September for a one-year term."
+    },
     {
       "id": "mkt:019e8a4e-5e0e-733d-881b-0e5bd3c0d9e3",
       "time": "2026-06-03 05:47:32",
@@ -169175,29 +169193,6 @@
         "國際"
       ],
       "text": "【特朗普在白宮會見巴西大選熱門挑戰者弗拉維奧·博索納羅】美國總統特朗普週二在白宮會見了巴西參議員弗拉維奧·博索納羅。在將於今年10月舉行的巴西大選中，他是現任總統盧拉的頭號挑戰者。作為巴西前總統、特朗普的親密盟友雅伊爾·博索納羅的長子，弗拉維奧·博索納羅在社交媒體上釋出了一張他與特朗普在橢圓形辦公室的合影，但未透露會面細節。"
-    },
-    {
-      "id": "mkt:019e6647-0f8f-7332-8107-07d9df3c37b3",
-      "time": "2026-05-27 05:53:13",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "【USTR GREER Says 10% Global Tariff Could Be Reimposed After July Expiry】USTR GREER Says Trump's 10% Global Tariff Under Trade Act Sec.122 Could Be Reimposed After July Expiry; 150-Day Limit, Regs Silent On Restart; GREER Declines To Say If Admin Will Seek Extension; GREER Says Unlikely Congress Would Restrict Sec.122 To One Term"
-    },
-    {
-      "id": "4901052",
-      "time": "2026-05-27 05:51:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴西參議員博索納羅：我告訴特朗普，如果我當選，我們將達成貿易協議。"
     }
   ]
 }
