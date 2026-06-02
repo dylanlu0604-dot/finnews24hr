@@ -1,7 +1,113 @@
 {
-  "updated": "2026-06-02 21:22:44",
-  "count": 18034,
+  "updated": "2026-06-02 21:26:52",
+  "count": 18037,
   "items": [
+    {
+      "id": "4913107",
+      "time": "2026-06-02 21:25:38",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲哈馬克：失業率仍是衡量就業市場的最佳單一指標。"
+    },
+    {
+      "id": "mkt:019e8882-7b72-799a-9e6a-cab878dce536",
+      "time": "2026-06-02 21:25:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Purdue University: U.S. farmer confidence fell in May."
+    },
+    {
+      "id": "mkt:019e8882-79f7-799a-9e6a-c46138e517e0",
+      "time": "2026-06-02 21:25:10",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "Oil exports from Russia's western ports rose 15% MoM in May after drone strikes disrupted refinery operations, sources said."
+    },
+    {
+      "id": "mkt:019e8881-fbe7-799a-9e6a-bffd4f5f457b",
+      "time": "2026-06-02 21:24:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Israel, Lebanon hold fourth round of talks in Washington】Israeli sources said the fourth round of Israel-Lebanon talks took place in Washington on the 2nd (local time)."
+    },
+    {
+      "id": "4913106",
+      "time": "2026-06-02 21:24:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士稱，無人機襲擊擾亂煉油活動後，俄羅斯5月西部港口石油出口環比增長15%。"
+    },
+    {
+      "id": "4913105",
+      "time": "2026-06-02 21:24:24",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "普渡大學：美國農民信心指數在5月份走低。"
+    },
+    {
+      "id": "4913104",
+      "time": "2026-06-02 21:24:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以黎在華盛頓舉行第四輪會談】當地時間2日，總檯記者自以色列方面獲悉，以色列-黎巴嫩第四輪會談在美國華盛頓舉行。（央視新聞）"
+    },
+    {
+      "id": "mkt:019e8880-9ed3-799a-9e6a-b31c6843ac30",
+      "time": "2026-06-02 21:22:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Israel Governor Yaron signaled he may accelerate rate cuts as inflation expectations fall."
+    },
+    {
+      "id": "4913103",
+      "time": "2026-06-02 21:22:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡尼：加拿大產汽車美本土零部件平均佔比已達 50%。"
+    },
+    {
+      "id": "mkt:019e8880-5d77-799a-9e6a-ad03af3aaf9b",
+      "time": "2026-06-02 21:22:51",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Federal Reserve's Hammack said he is optimistic that AI will complement workers."
+    },
+    {
+      "id": "4913102",
+      "time": "2026-06-02 21:22:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【長治市沁源縣委書記趙永進接受省紀委監委紀律審查和監察調查】據山西省紀委監委網站訊息，長治市沁源縣委書記趙永進涉嫌嚴重違紀違法，目前正接受省紀委監委紀律審查和監察調查。"
+    },
+    {
+      "id": "mkt:019e887f-ac13-799a-9e6a-a7b63e2ef08a",
+      "time": "2026-06-02 21:22:02",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "i24News reports Israeli and Lebanese officials are holding a fourth round of talks in Washington, D.C."
+    },
     {
       "id": "4913101",
       "time": "2026-06-02 21:21:46",
@@ -165190,80 +165296,6 @@
         "Importance 1"
       ],
       "text": "Canada 10-Year Bond Yield Retreats From 2-Year High — Canada's 10-year government bond yield fell to 3.45% from the two-year high of 3.7% touched on May 19th, tracking similar moves in the US as the outlook of soaring inflation was tamed by a pullback in energy prices. The US and Iran signaled they were closer to agreeing on a deal to end the war and restore energy supply from the key region. Despite fresh strikes that dented optimism on a deal, the drop in energy costs aligned with the Bank of Canada's signal that it does not see high energy prices spreading to inflation in core sectors of the economy. Likewise, the latest inflation report indicated that the Bank of Canada’s preferred core inflation gauges slowed more than expected to their lowest levels in five years. In turn, the GDP is expected to have been flat in the first quarter, also supporting the case for lower rates."
-    },
-    {
-      "id": "4900681",
-      "time": "2026-05-26 21:26:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "【45股特大單淨流入超2億元】據資料寶，今日，45股特大單淨流入超2億元，陽光電源特大單淨流入20.75億元，淨流入資金規模居首；新易盛特大單淨流入資金16.34億元，位列第二；淨流入資金居前的還有京東方A、華天科技、上海電力等。特大單淨流出股中，中芯國際特大單淨流出資金21.92億元，淨流出資金最多；通富微電、華工科技特大單淨流出資金分別為20.73億元、18.50億元，淨流出資金規模位列第二、第三。"
-    },
-    {
-      "id": "4900680",
-      "time": "2026-05-26 21:25:55",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "匈牙利央行行長瓦爾加：消費者物價指數走勢已與三月預測出現分歧。但外部環境不確定，需要觀察趨勢是否持久。"
-    },
-    {
-      "id": "4900679",
-      "time": "2026-05-26 21:25:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "【晨豐科技：擬投資13.15億元建設兩個儲能專案】晨豐科技公告，公司擬投資13.15億元建設北網新能開魯縣800MWh電網側獨立新型儲能電站示範專案和通遼市科左中旗200MW/800MWh儲能電站示範專案。"
-    },
-    {
-      "id": "4900678",
-      "time": "2026-05-26 21:25:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【嘉戎技術：擬發行股份購買杭州藍然100%股權】嘉戎技術公告，公司擬透過發行股份方式向廈門溥玉、樓永通等19名交易對方購買其合計持有的杭州藍然技術股份有限公司100%股權，交易價格13.5億元。同時，公司擬向廈門溥玉發行股份募集配套資金10億元，用於綠色成套裝置生產基地專案、電滲析膜組器生產基地專案等。本次交易構成關聯交易，不構成重組上市。業績承諾方將對標的資產未來業績進行承諾補償。標的公司杭州藍然主要從事離子交換膜及元件、電滲析相關裝置的研發、生產與銷售。"
-    },
-    {
-      "id": "mkt:019e6476-1091-7330-84b4-1b2aaf8ed4ca",
-      "time": "2026-05-26 21:25:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "HUNGARY NBH Governor Varga: CPI Diverging From Mar Forecast; External Uncertainty Requires Monitoring For Persistence"
-    },
-    {
-      "id": "4900676",
-      "time": "2026-05-26 21:25:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "【廣西壯族自治區政府與智慧機器人企業簽署戰略合作協議】5月26日，廣西壯族自治區政府與智元創新（上海）科技股份有限公司、廣西階段者機器人有限公司在南寧簽署戰略合作協議。自治區主席韋韜會見智元創新聯合創始人、總裁彭志輝和階段者機器人創始人王世傑，並共同見證協議簽署。"
-    },
-    {
-      "id": "4900675",
-      "time": "2026-05-26 21:23:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【嘉戎技術：廈門溥玉投資合夥企業（有限合夥）擬受讓6910.15萬股股份】嘉戎技術公告，收購人廈門溥玉投資合夥企業（有限合夥）以發行3120.83萬股股份購買其所持有杭州藍然技術股份有限公司3251.34萬股股份（佔44.8269%），對價為6.48億元，並向其發行3789.31萬股股份募集配套資金，對價為10億元。本次收購完成後，廈門溥玉成為嘉戎技術的控股股東。"
-    },
-    {
-      "id": "4900674",
-      "time": "2026-05-26 21:23:24",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "匈牙利央行行長：匈牙利風險溢價回落、居民消費價格指數增速放緩，貨幣政策操作空間得以擴大。"
-    },
-    {
-      "id": "4900673",
-      "time": "2026-05-26 21:23:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "【第十四屆中英政黨對話舉行】5月26日，第十四屆中英政黨對話在江蘇揚州舉行，主題是“發揮政黨作用，構建中英長期穩定的全面戰略伙伴關係”。中共中央對外聯絡部部長劉海星出席並作主旨講話。中方有關部委、地方和高校代表，英國前首席內閣大臣、英中協會會長利丁頓，英國工黨、保守黨議員和駐華使領館官員，以及兩國企業界人士等60餘人出席。雙方進行坦誠、深入、建設性交流，認為中英發展長期穩定的全面戰略伙伴關係對兩國和世界具有重要意義。雙方應落實好兩國領導人重要共識，秉持戰略伙伴初心和求同存異、開放包容精神，妥善處理分歧，深化互利合作，密切人文交流，加強國際事務溝通協作，促進共同發展和世界和平穩定。對話方塊架下還舉行了中英企業家圓桌會。（新華社）"
     }
   ]
 }
