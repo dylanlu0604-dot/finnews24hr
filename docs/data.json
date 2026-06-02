@@ -1,7 +1,107 @@
 {
-  "updated": "2026-06-03 00:56:18",
-  "count": 18329,
+  "updated": "2026-06-03 01:00:19",
+  "count": 18335,
   "items": [
+    {
+      "id": "4913495",
+      "time": "2026-06-03 00:59:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "微軟執行長邀請英偉達執行長透過直播在開發者大會上發表演講。"
+    },
+    {
+      "id": "mkt:019e8946-6232-7779-8aab-9ac2e3bfd654",
+      "time": "2026-06-03 00:59:11",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O",
+        "Impact bullish"
+      ],
+      "text": "Microsoft (MSFT.O) CEO said the company added more new data-center capacity in the past 18 months than Azure added over its first ten years."
+    },
+    {
+      "id": "mkt:019e8945-bec9-7779-8aab-95866041fbaa",
+      "time": "2026-06-03 00:58:29",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O"
+      ],
+      "text": "Microsoft (MSFT.O) CEO announced a preview release of the Cobalt 200 chip."
+    },
+    {
+      "id": "4913494",
+      "time": "2026-06-03 00:57:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "傑富瑞將中聯重科A股評級上調至買進。"
+    },
+    {
+      "id": "4913493",
+      "time": "2026-06-03 00:57:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "傑富瑞將徐工機械評級下調至持有，目標價10.60元人民幣。"
+    },
+    {
+      "id": "mkt:019e8944-be6a-7779-8aab-896df817313e",
+      "time": "2026-06-03 00:57:24",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Israeli military says Givati Brigade carried out targeted operations in southern Lebanon】Local time June 2, the Israeli military said its Givati Brigade conducted multiple operations in the Nabatieh area of southern Lebanon, including targeted raids, weapons clearance and strikes on armed personnel. The operations aimed to establish Israeli positions, remove direct threats to northern Israel and strengthen deployments in southern Lebanon. The military said forces crossed the Litani River and, with Israeli Air Force support, carried out precision strikes that destroyed militant infrastructure, searched for and cleared weapons, and killed multiple armed personnel."
+    },
+    {
+      "id": "4913492",
+      "time": "2026-06-03 00:57:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "微軟執行長宣佈推出Cobalt 200晶片預覽版。"
+    },
+    {
+      "id": "mkt:019e8944-5e8b-7779-8aab-87523b5b7612",
+      "time": "2026-06-03 00:56:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UN meteorological agency forecasts a moderate El Nifio in coming months, possibly strengthening to strong; this could push up global temperatures and increase the risk of extreme weather."
+    },
+    {
+      "id": "4913491",
+      "time": "2026-06-03 00:56:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍稱在黎南部開展定點行動 打擊武裝人員與武器設施】當地時間6月2日，以色列國防軍表示，以軍吉瓦提旅近日在黎巴嫩南部奈拜提耶地區開展多項軍事行動，包括定點突襲、清除武器和打擊武裝人員。此次行動旨在在相關區域建立以軍陣地，以消除對以色列北部的直接威脅，並加強在黎巴嫩南部的作戰部署。以軍同時表示，以軍部隊已越過利塔尼河，在以色列空軍支援下實施精確打擊，摧毀武裝組織基礎設施，搜尋並清除武器，打死多名武裝人員。（央視新聞）"
+    },
+    {
+      "id": "mkt:019e8943-4de6-7779-8aab-7b0c0c71ad8d",
+      "time": "2026-06-03 00:55:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "Market sources say the EU's AI data-center plan is stalled by delays and funding shortfalls."
+    },
     {
       "id": "mkt:019e8942-a8be-7779-8aab-7364805484d7",
       "time": "2026-06-03 00:55:07",
@@ -167876,43 +167976,6 @@
         "其他"
       ],
       "text": "【我國成功發射通訊技術試驗衛星二十四號】北京時間2026年5月27日0時16分，我國在文昌航天發射場使用長征七號改運載火箭，成功將通訊技術試驗衛星二十四號發射升空，衛星順利進入預定軌道，發射任務取得圓滿成功。該衛星主要用於開展多頻段、高速率衛星通訊技術驗證。（央視新聞）"
-    },
-    {
-      "id": "4900895",
-      "time": "2026-05-27 01:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【夜盤期貨收盤】國際銅夜盤收跌0.36%，滬銅收跌0.39%，滬鋁收漲0.64%，滬鋅收跌0.72%，滬鉛收漲0.21%，滬鎳收漲1.45%，滬錫收跌0.20%。氧化鋁夜盤收漲1.31%，鋁合金收漲0.26%。不鏽鋼夜盤收漲0.88%。"
-    },
-    {
-      "id": "4900894",
-      "time": "2026-05-27 00:58:30",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【王毅主持聯合國安理會“維護聯合國憲章宗旨和原則，加強以聯合國為核心的國際體系”高階別會議】26日，經中國作為聯合國安理會本月輪值主席倡議，安理會圍繞“維護聯合國憲章宗旨和原則，加強以聯合國為核心的國際體系”舉行高階別會議。中共中央政治局委員、外交部長王毅主持會議，聯合國秘書長古特雷斯作形勢通報，100多國代表包括20多國外長和高階別代表專程出席。（新華社）"
-    },
-    {
-      "id": "4900893",
-      "time": "2026-05-27 00:57:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "訊息人士稱，西方石油公司將收購埃克森美孚特立尼達近海深水區塊 10% 的股份。"
-    },
-    {
-      "id": "te:markets:553835",
-      "time": "2026-05-27 00:56:44",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "PepsiCo Stock Price Hits 17-week Low — PepsiCo shares decreased to 146.36 USD, the lowest since January 2026. Over the past 4 weeks, PepsiCo lost 4.98%, and in the last 12 months, it increased 11.46%."
     }
   ]
 }
