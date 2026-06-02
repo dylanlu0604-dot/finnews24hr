@@ -1,7 +1,28 @@
 {
-  "updated": "2026-06-03 02:44:56",
-  "count": 18435,
+  "updated": "2026-06-03 02:48:52",
+  "count": 18436,
   "items": [
+    {
+      "id": "mkt:019e89aa-4b9a-733d-8818-cb188da20bca",
+      "time": "2026-06-03 02:48:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Secretary of State Rubio said the solution to Venezuela's problems is holding free and fair elections."
+    },
+    {
+      "id": "mkt:019e89a9-8897-733d-8818-c33ddb173341",
+      "time": "2026-06-03 02:47:29",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O"
+      ],
+      "text": "【Microsoft unveils upgraded quantum chip, targets commercial quantum computer by 2029】Microsoft (MSFT.O) unveiled the Majorana 2 quantum chip at Build 2026, saying it now targets a commercially practical quantum computer by 2029. Majorana 2 has 12 qubits, up from 8 in the prior model, and Microsoft says qubit coherence exceeds 20 seconds versus under 12 milliseconds previously. The device uses lead-based superconducting connectors instead of aluminium. Microsoft says it has halved its timetable and set 2029 as the current target."
+    },
     {
       "id": "4913597",
       "time": "2026-06-03 02:43:32",
@@ -168956,15 +168977,6 @@
         "MKT News"
       ],
       "text": "【Chemical Blast Kills Multiple At Nippon Paper Group Plant In Longview, Washington】Longview Fire Department Says Major Chemical Explosion At Nippon Paper Group Plant; Multiple Dead"
-    },
-    {
-      "id": "4900943",
-      "time": "2026-05-27 02:48:35",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美華盛頓州一日資企業發生化學爆炸，多人死亡】美國西北部華盛頓州朗維尤市消防局26日說，日本製紙集團旗下企業位於當地的工廠當天早晨發生“重大化學爆炸”，已造成多人死亡。（新華社）"
     }
   ]
 }
