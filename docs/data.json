@@ -1,7 +1,129 @@
 {
-  "updated": "2026-06-03 07:34:25",
-  "count": 18517,
+  "updated": "2026-06-03 07:38:17",
+  "count": 18528,
   "items": [
+    {
+      "id": "te:markets:555876",
+      "time": "2026-06-03 07:37:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Climbs for Third Straight Session — Brent crude futures rose toward $98 per barrel on Wednesday, gaining for a third straight session as uncertainty surrounding US-Iran peace talks kept a geopolitical risk premium in oil markets. Iranian media reports cast doubt on the progress of the negotiations, despite President Donald Trump maintaining that discussions remain ongoing. According to reports, Trump is seeking written commitments from Iran on specific nuclear-related concessions as part of a preliminary framework aimed at ending the conflict, after Tehran had previously provided verbal assurances on certain aspects of its nuclear program. The lack of a breakthrough has heightened concerns that global crude inventories may need to be drawn down further. Meanwhile, in the US, industry data showed crude inventories declined by 6.8 million barrels last week. If confirmed by official government figures due later on Wednesday, it would mark the sixth consecutive weekly drawdown in US crude stockpiles."
+    },
+    {
+      "id": "4913792",
+      "time": "2026-06-03 07:36:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：美軍對格什姆島發動打擊，以回應伊朗發動的未遂襲擊。"
+    },
+    {
+      "id": "mkt:019e8ab2-37dd-733d-881c-5a220cfa326c",
+      "time": "2026-06-03 07:36:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "Japan finalizes $19 bln supplementary budget to subsidize soaring fuel and utility costs."
+    },
+    {
+      "id": "4913791",
+      "time": "2026-06-03 07:36:26",
+      "tags": [],
+      "text": "美國中央司令部：當地時間6月2日，美軍成功擊退了伊朗發射的多枚彈道導彈及無人機，並針對伊朗在中東全境企圖發動的襲擊，對格什姆島實施了自衛打擊。"
+    },
+    {
+      "id": "4913790",
+      "time": "2026-06-03 07:36:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：美軍週二攔截摧毀了多枚伊朗彈道導彈及無人機。"
+    },
+    {
+      "id": "4913789",
+      "time": "2026-06-03 07:36:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本政府敲定規模達190億美元的追加預算，用於補貼飆升的燃料與公用事業費用。"
+    },
+    {
+      "id": "te:markets:555875",
+      "time": "2026-06-03 07:36:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Climbs for Third Straight Session — WTI crude futures rose above $95 per barrel on Wednesday, gaining for a third straight session as uncertainty surrounding US-Iran peace talks kept a geopolitical risk premium in oil markets. Iranian media reports cast doubt on the progress of the negotiations, despite President Donald Trump maintaining that discussions remain ongoing. According to reports, Trump is seeking written commitments from Iran on specific nuclear-related concessions as part of a preliminary framework aimed at ending the conflict, after Tehran had previously provided verbal assurances on certain aspects of its nuclear program. The lack of a breakthrough has heightened concerns that global crude inventories may need to be drawn down further. Meanwhile, in the US, industry data showed crude inventories declined by 6.8 million barrels last week. If confirmed by official government figures due later on Wednesday, it would mark the sixth consecutive weekly drawdown in US crude stockpiles."
+    },
+    {
+      "id": "mkt:019e8ab1-9dc6-733d-881c-577dd048cf78",
+      "time": "2026-06-03 07:35:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "CENTCOM said on June 2 (local time) US forces repelled multiple ballistic missiles and drones launched by Iran and carried out a self-defensive strike on Qeshm Island in response to Iran's attempted attacks across the Middle East."
+    },
+    {
+      "id": "4913788",
+      "time": "2026-06-03 07:35:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國：伊朗向鄰國發射了數枚彈道導彈。"
+    },
+    {
+      "id": "4913787",
+      "time": "2026-06-03 07:35:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【光伏企業集體轉型綜合能源服務商 算電協同成爭奪重地】6月2日，全球重磅光伏展會2026 SNEC SMART E國際智慧能源大會在上海開幕。記者參會發現，光伏行業正逐漸告別單一製造時代，邁入價值重構元年，企業加速從光伏產品製造商向綜合能源、零碳算力服務商轉型。產業轉型的“重頭戲”是算電協同。當日，多家光伏龍頭落地AIDC算電融合方案，針對性研發算力專用光伏產品。有儲能上市公司高管對記者表示，“十五五”末算力中心用電量有望達到全社會用電量的8%，對新能源及儲能的帶動效應非常顯著，且有望超預期。（上海證券報）"
+    },
+    {
+      "id": "4913786",
+      "time": "2026-06-03 07:35:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本內閣批准追加190億美元預算用於應對中東局勢。"
+    },
+    {
+      "id": "4913785",
+      "time": "2026-06-03 07:34:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美銅倫銅差值走闊 銅價短中期或仍具備上行動能】6月2日，COMEX（紐約商品交易所）銅價盤中衝高至6.649美元/磅，約合14658.40美元/噸，與LME（倫敦金屬交易所）銅價差一度升至近700美元。在兩地價差拉大的同時，兩大交易所庫存差距也有走闊之勢。這一幕似曾相識。2025年，受多重因素影響，COMEX與LME銅價曾有近3000美元的極端價差，觸發較大規模的跨市套利。此後，COMEX銅庫存保持上升態勢。業內人士表示，近期兩大交易所價差拉大已引發貿易流向重構和區域性供給錯配，非美市場短缺持續加劇。在供需基本面支撐下，銅價短中期或仍具備上行動能。（上海證券報）"
+    },
+    {
+      "id": "te:economy:555873",
+      "time": "2026-06-03 07:34:07",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "API Crude Oil Stock Change",
+        "Importance 0"
+      ],
+      "text": "US Crude Stockpiles Fall for 7th Week — US crude oil inventories fell by 6.8 million barrels in the week ending May 29, 2026, according to the American Petroleum Institute, sharply exceeding expectations for a 3.6 million-barrel decrease. The latest figure also marked the seventh consecutive weekly decline and followed a 2.8 million-barrel draw in the previous week. Gasoline inventories rose by 3.5 million barrels after falling 3.2 million barrels a week earlier, while distillate inventories, which include diesel and heating oil, declined by 214,000 barrels, reversing a 1.1 million-barrel increase in the prior week. The latest API data pointed to a sharper-than-expected drawdown in US crude stockpiles, while refined fuel inventories showed mixed trends."
+    },
     {
       "id": "4913784",
       "time": "2026-06-03 07:33:32",
@@ -169768,22 +169890,6 @@
         "其他"
       ],
       "text": "【湖南嚴打煙花爆竹非法生產：對充當“保護傘”的，一律先免職再徹查】湖南省政府5月26日下午召開全省煙花爆竹非法生產“嚴查嚴打”任務部署電視電話會議。為堅決落實湖南省委、省政府關於嚴厲打擊煙花爆竹非法生產的決策部署，切實保障人民群眾生命財產安全，經省安委會同意，自即日起至2026年8月底，在全省集中開展嚴厲打擊煙花爆竹非法生產“雷霆”行動，後續轉入常態化排查整治階段。 通知明確，排查見底不留死角。聚焦非法生產易發多發的重點區域，緊盯閒置廠房、廢棄養殖場所、省際市際交界地帶、煙花爆竹關閉退出企業、城鄉結合部出租屋等重點場所，開展全覆蓋拉網式清查，逐一登記造冊，建立排查檔案，做到不漏一處，不漏一屋。充分運用無人機航拍、用電異常監測、紅外熱成像、外來人員車輛監控等技術手段，實行空地一體排查，提高排查精準度和覆蓋面。同步設立舉報專項資金，落實舉報獎勵制度，對群眾舉報做到舉報一起，核實一起，獎勵一起，讓非法窩點無處藏身。 通知強調，要壓實責任嚴肅問責。各地因排查整治走過場，弄虛作假致使非法生產存在的，或群眾舉報屬實，上級督查檢查中發現的，依法從嚴追究屬地相關領導責任。對公職人員充當非法生產“保護傘”的，一律先免職再徹查，涉嫌犯罪的移送司法機關處理。省安委辦將組織相關部門對“打非”工作開展明察暗訪，對工作部署不力，措施不到位，排查整治流於形式的地區，予以通報、約談、警示曝光。（湖南日報）"
-    },
-    {
-      "id": "mkt:019e66a7-24bd-7332-8107-5ebc8bb50d17",
-      "time": "2026-05-27 07:38:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【U.S. SEC Proposes Easing 'Gun‑Jumping' Rules To Boost IPOs】U.S. SEC Proposes Relaxing Two‑Decade‑Old Gun‑Jumping Rules To Spur IPOs; Proposal Would Let Large Accelerated Filers Skip Certain Disclosures For Up To 5 Years; 60‑Day Comment Period"
-    },
-    {
-      "id": "4901113",
-      "time": "2026-05-27 07:36:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中銀證券研究：特斯拉FSD監督版入華訊號增強 將進一步推動國內高階智駕競爭升級】中銀證券研究稱，特斯拉監督版 FSD 入華訊號增強，智慧駕駛本土化測試與審批程序加速。近日，特斯拉官方宣佈監督版FSD可在中國使用，同時特斯拉中國發布多個智慧駕駛測試相關崗位，覆蓋北京、上海、廣州、深圳、蘇州、武漢等城市。相關崗位涉及實車測試、法規跟蹤、主動安全功能測試和Autopilot整車級測試，顯示特斯拉正在為FSD在中國市場的本土化測試和合規落地做準備。若後續獲批並正式推送，將進一步推動國內高階智駕競爭升級。"
     }
   ]
 }
