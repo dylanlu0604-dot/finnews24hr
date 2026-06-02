@@ -1,7 +1,82 @@
 {
-  "updated": "2026-06-02 23:46:51",
-  "count": 18222,
+  "updated": "2026-06-02 23:51:01",
+  "count": 18225,
   "items": [
+    {
+      "id": "mkt:019e8907-008b-7337-9546-a8199a09be92",
+      "time": "2026-06-02 23:49:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Rubio said nuclear talks with Iran are highly complex and technical and will take some time."
+    },
+    {
+      "id": "mkt:019e8906-8e1a-7ff0-aaad-74d04bba39bc",
+      "time": "2026-06-02 23:49:28",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "US10Y"
+      ],
+      "text": "AFP reports HEZBOLLAH will not accept a \"partial ceasefire\" with Israel."
+    },
+    {
+      "id": "4913388",
+      "time": "2026-06-02 23:49:10",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：伊朗核談判兼具高度複雜性與專業性，談判程序尚需時日。"
+    },
+    {
+      "id": "mkt:019e8906-198b-7337-9546-a366237614fe",
+      "time": "2026-06-02 23:48:57",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "NVDA.O",
+        "Impact bullish",
+        "MSFT.O"
+      ],
+      "text": "Market sources say OpenAI plans to launch AI tools targeted at the financial and legal sectors, positioning it to compete with ANTHROPIC."
+    },
+    {
+      "id": "4913387",
+      "time": "2026-06-02 23:48:36",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "亞馬遜稱，歐盟不應將雲服務納入其數字競爭規則範疇。"
+    },
+    {
+      "id": "4913386",
+      "time": "2026-06-02 23:48:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽評級：拉美石化行業短期內獲提振，但評級上行空間有限。"
+    },
+    {
+      "id": "4913385",
+      "time": "2026-06-02 23:46:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "藍色起源發射臺在火箭爆炸中受損，NASA預計修復可能要持續至2028年。"
+    },
+    {
+      "id": "4913384",
+      "time": "2026-06-02 23:46:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯：總統普京同白俄羅斯總統盧卡申科舉行通話，雙方就雙邊同盟合作發展事宜展開磋商。"
+    },
     {
       "id": "4913383",
       "time": "2026-06-02 23:45:22",
@@ -166940,51 +167015,6 @@
         "MKT News"
       ],
       "text": "Iran President Calls Qatar Emir"
-    },
-    {
-      "id": "4900867",
-      "time": "2026-05-26 23:50:57",
-      "tags": [
-        "觀點",
-        "國際"
-      ],
-      "text": "高盛：伊朗局勢緊張之際，美元貨幣對正步調一致地共振走勢。"
-    },
-    {
-      "id": "4900866",
-      "time": "2026-05-26 23:50:47",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【美國銀行上調蘋果公司目標價 認為智慧體AI帶來巨大機遇】蘋果公司週二股價上漲，此前美國銀行將這家iPhone製造商的目標價從330美元上調至380美元，並維持“買入”評級。分析師Wamsi Mohan認為該公司“在智慧體AI領域蘊藏著巨大的機遇”。“如果AI助手成為搜尋、應用、商務、日程安排、支付和工作流程執行的新入口，我們認為蘋果應該對模型提供商、應用開發者、商家、廣告商和支付網路擁有相當大的影響力”。該公司認為短期記憶體在執行風險，並表示對蘋果公司而言，將數字助手Siri打造為AI的執行層至關重要。"
-    },
-    {
-      "id": "mkt:019e64fa-3db9-7332-8104-88abfb15116c",
-      "time": "2026-05-26 23:49:41",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【WSJ Corrects: U.S. Navy Did Not Restart 'Freedom Plan,' CENTCOM Says】Retracts Claim U.S. Escorted Greek-Flagged Supertanker Carrying 2 mln bbl; Navy Quietly Assisting Ships Through Strait Of Hormuz"
-    },
-    {
-      "id": "4900865",
-      "time": "2026-05-26 23:49:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "【英國兩年期國債收益率跌幅收窄至將近3個基點】週二（5月26日）歐市尾盤，英國10年期國債收益率跌0.19個基點，報4.878%，長週末歸來跳空低開之後，逐步收復失地，大部分時間持穩於4.850%一線。兩年期英債收益率跌3.1個基點，報4.3%。30年期英債收益率大致持平，50年期英債收益率漲0.5個基點。2/10年期英債收益率利差漲1.243個基點，報+57.807個基點。"
-    },
-    {
-      "id": "mkt:019e64f9-2628-7332-8104-84be09779cc0",
-      "time": "2026-05-26 23:48:30",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【WSJ CORRECT: CENTCOM Says US Did Not Restart 'Freedom Plan'】CENTCOM: US Did Not Restart 'Freedom Plan'; WSJ CORRECTS Earlier Claim That US Navy Escorted Greek Supertanker Carrying 2mln Barrels Off Oman As Plan Restart"
     }
   ]
 }
