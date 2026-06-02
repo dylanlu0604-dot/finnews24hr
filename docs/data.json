@@ -1,7 +1,108 @@
 {
-  "updated": "2026-06-02 13:33:58",
-  "count": 17385,
+  "updated": "2026-06-02 13:37:58",
+  "count": 17390,
   "items": [
+    {
+      "id": "4911944",
+      "time": "2026-06-02 13:36:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨連續主力合約日內跌5%，現報3662.00點。"
+    },
+    {
+      "id": "4911943",
+      "time": "2026-06-02 13:36:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭空軍稱，俄羅斯夜間向烏克蘭發射了656架無人機、73枚導彈。"
+    },
+    {
+      "id": "te:economy:555604",
+      "time": "2026-06-02 13:35:58",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Indonesia",
+        "Tourist Arrivals",
+        "Importance 1"
+      ],
+      "text": "Indonesia Tourist Arrivals Grow 7.22% YoY in April — Foreign tourist arrivals to Indonesia increased by 7.22% year-on-year to 1.25 million in April 2026, slowing from a 10.5% rise in the previous month amid lingering economic uncertainties and softer travel demand from some long-haul markets. Most visitors originated from Malaysia (22.31%), Singapore (14.29%), East Timor (8.26%), China (25.75%), Japan (20.94%), South Korea (4.41%), Australia (5.52%), and the U.S. (3.47%). In contrast, arrivals declined from the Middle East (-25.09%) and Europe (-15.5%), with notable drops from the UK (-17.96%), France (-12.14%), and Germany (-26.13%). During the first four months of the year, foreign tourist arrivals rose 8.24% year-on-year to 4.68 million"
+    },
+    {
+      "id": "mkt:019e86d4-d4cb-7dd4-a7a8-002b35eae0c5",
+      "time": "2026-06-02 13:35:54",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "The Ukrainian Air Force said Russia launched 656 drones and 73 missiles at Ukraine overnight."
+    },
+    {
+      "id": "4911942",
+      "time": "2026-06-02 13:35:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油失守91美元/桶，日內跌1.26%。"
+    },
+    {
+      "id": "mkt:019e86d4-5210-7dd4-a7a7-fc394bf400ad",
+      "time": "2026-06-02 13:35:21",
+      "tags": [
+        "MKT News",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "【Chile President Kast sets security push and 4% growth target in first state-of-nation】President Kast used his first state-of-the-nation to prioritise tougher immigration controls and accelerated deportations, saying the government will submit legislation to create an institutional framework and a registry for serious offenders. On the economy he set an annual growth target of 4%, said he will aim for fiscal balance by 2030, targets a 6% unemployment rate and plans to create at least 300,000 jobs."
+    },
+    {
+      "id": "mkt:019e86d4-3edd-7dd4-a7a7-f0f50bbb45e1",
+      "time": "2026-06-02 13:35:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Taiwan Weighted Index closed up 219.4 points, or 0.48 percent, at 45,557.31 on Tuesday, June 2."
+    },
+    {
+      "id": "4911941",
+      "time": "2026-06-02 13:34:51",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【籌劃控制權變更事項“告吹”，和仁科技股價重挫逾17%，公司回應】6月2日，和仁科技早盤股價大跌。資料顯示，截至午間收盤，公司股價報12.48元/股，跌17.46%。訊息面上，和仁科技6月1日晚間披露關於終止籌劃控制權變更事項暨復牌的公告。對於股價大跌，和仁科技方面回應記者，籌劃控制權變更事項以及終止籌劃控制權變更事項都是控股股東行為，上市公司層面無法控制。目前公司經營是正常的，公司業務具有一定的季節性。公司的客戶主要是一些公立醫院，專案的審批、立項、招投標會集中在一季度和二季度，專案的驗收會集中在三四季度。(中證金牛座)"
+    },
+    {
+      "id": "te:markets:555603",
+      "time": "2026-06-02 13:34:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Thailand",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "Stocks in Thailand Hit 4-year High — SET 50 increased to 1033.00 Index Points, the highest since March 2022. Over the past 4 weeks, Thailand SET 50 Index gained 6.07%, and in the last 12 months, it increased 40.38%."
+    },
+    {
+      "id": "mkt:019e86d3-7ff5-7dd4-a7a7-e8838864ae89",
+      "time": "2026-06-02 13:34:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot palladium up more than 2.00% intraday, trading at $1,383.53/oz."
+    },
     {
       "id": "4911940",
       "time": "2026-06-02 13:33:15",
@@ -158991,48 +159092,6 @@
         "焦點"
       ],
       "text": "滬深兩市成交額超2.5萬億元，較上日此時放量94億元。"
-    },
-    {
-      "id": "4899670",
-      "time": "2026-05-26 13:37:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "【手擀麵“手擀”竟然是商標？克明食品：產品本身沒問題，將做包裝、宣傳的整改】5月25日，克明食品釋出宣告，就旗下產品使用“手擀”相關表述向消費者致歉，並宣佈即日起全面停止生產、銷售帶有“手擀”相關表述的產品。5月26日上午，記者從克明食品獲悉，此舉“短期內對銷售會有影響”，但企業相關人士也表示，並不是說以後不能生產了，只是要做好包裝、宣傳的合規整改，因為其產品本身無質量問題。（每日經濟新聞）"
-    },
-    {
-      "id": "4899669",
-      "time": "2026-05-26 13:36:56",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "德國漢莎航空公司股價盤前下跌1.6%，因券商下調了其股票評級。"
-    },
-    {
-      "id": "4899668",
-      "time": "2026-05-26 13:35:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本外務大臣與美國國務卿舉行會談。"
-    },
-    {
-      "id": "4899667",
-      "time": "2026-05-26 13:34:18",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【有機矽概念股短線拉昇，東嶽矽材漲超10%】有機矽概念股短線拉昇，東嶽矽材漲超10%，合盛矽業、矽寶科技、興發集團跟漲。"
-    },
-    {
-      "id": "4899666",
-      "time": "2026-05-26 13:34:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "魯比奧：四方安全對話機制具有切實可行的目標。"
     }
   ]
 }
