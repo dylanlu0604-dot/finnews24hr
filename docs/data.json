@@ -1,7 +1,81 @@
 {
-  "updated": "2026-06-03 00:24:10",
-  "count": 18291,
+  "updated": "2026-06-03 00:28:08",
+  "count": 18296,
   "items": [
+    {
+      "id": "4913455",
+      "time": "2026-06-03 00:27:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "法國糖尿病協會（FFD）週二呼籲製藥公司繼續在糖尿病治療領域進行創新，擔心這種常見疾病會被蓬勃發展的肥胖症市場所掩蓋。"
+    },
+    {
+      "id": "te:markets:555839",
+      "time": "2026-06-03 00:27:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Climbs to Record Close — The FTSE MIB climbed 1.6% to close at a record 50,578 on Tuesday, recouping losses from the previous session as easing sovereign bond yields supported risk appetite. Financial stocks led gains, with UniCredit rising 1.6% and Generali adding 1.9%. Luxury shares also advanced amid signs that Chinese demand is stabilizing, with Ferrari up 2%. STMicroelectronics soared 15.1% after raising its data-center revenue target, citing strong AI-driven demand and ongoing capacity expansion. Meanwhile, investors monitored developments in the Middle East after Iran suspended indirect talks with Washington over Israel's military operations in Lebanon, although US President Donald Trump maintained that negotiations were still ongoing. On the data front, Eurozone's preliminary inflation data showed the headline rate rose to 3.2% as expected, while the core inflation rose slightly more than expected to 2.5%, consolidating bets of a rate hike by the ECB next week."
+    },
+    {
+      "id": "mkt:019e8928-0141-7779-8aaa-ed4a700f912e",
+      "time": "2026-06-03 00:26:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IMF appoints Mateusz Szczurek as director of the European Department."
+    },
+    {
+      "id": "4913454",
+      "time": "2026-06-03 00:25:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "藍色起源公司執行長稱，該公司的新格倫火箭將於今年年底前恢復飛行。"
+    },
+    {
+      "id": "4913453",
+      "time": "2026-06-03 00:25:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "國際貨幣基金組織宣佈任命馬特烏什·舒楚雷克為歐洲部主任。"
+    },
+    {
+      "id": "4913452",
+      "time": "2026-06-03 00:24:39",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "市場資訊：受伊朗支援的伊拉克民兵組織真主旅將遵照扎伊迪總理出臺的政策，向伊拉克政府移交武器。"
+    },
+    {
+      "id": "mkt:019e8926-69f8-7779-8aaa-e47312792ba6",
+      "time": "2026-06-03 00:24:16",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "US Secretary of State Rubio said Washington helped end the war between India and Pakistan by participating in mediation."
+    },
+    {
+      "id": "4913451",
+      "time": "2026-06-03 00:24:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【全國騎行使用者破1.3億 帶動騎行裝備、摺疊腳踏車熱銷】如今，隨著各地騎行道路建設加快，騎行人群已從專業愛好者擴充套件至普通大眾，成為一種全民生活方式。這股熱潮也直接帶動了相關騎行裝備的熱銷。資料顯示，目前全國騎行使用者已突破1.3億。隨著全民健身意識深化與城市基建完善，騎行不再是小眾運動，而是演變為廣受大眾歡迎的時尚健身方式和生活休閒選擇。從城區綠道到山野小徑，從專業競技到親子娛樂，騎行正以多元化的形態融入人們的日常生活。騎行人群的擴大也帶動了相關騎行裝備熱銷。記者走訪多家門店瞭解到，目前運動腳踏車銷量保持平穩，騎行裝備成為新增長點，具有設計感的頭盔、手套和騎行服尤為熱銷。目前國內騎行裝備相關專利共1058項，外觀與實用新型專利佔比達88.1%。隨著騎行人群擴大，摺疊腳踏車因小巧輕便、便於攜帶且適合多場景使用，市場需求旺盛。一些腳踏車企業訂單大增，紛紛擴大產能趕訂單，同時依託國內產業鏈優勢，加速產品迭代升級。深圳某腳踏車有限公司相關負責人：今年摺疊車大幅增長，訂單已經到了今年10月份。摺疊車已經佔到整體產能的一半以上，現在最大的問題就是產能不足，今年計劃擴產能，擴50%以上。（央視財經）"
+    },
     {
       "id": "mkt:019e8924-fc32-7779-8aaa-de5f19e475cd",
       "time": "2026-06-03 00:22:42",
@@ -167541,41 +167615,6 @@
         "Japan & APAC"
       ],
       "text": "Nikkei: TAKAICHI, LULA Meeting Being Arranged At Mid-June G7 Summit"
-    },
-    {
-      "id": "te:markets:553833",
-      "time": "2026-05-27 00:26:50",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "DAX Finishes Lower — Frankfurt's DAX 40 closed about 0.8% down at 25,184 on Tuesday, halting a two-day advance, amid profit-taking and renewed caution over developments in the Gulf. Hopes for progress on a US–Iran deal eased after fresh US strikes on Iran and threats from Tehran, which pushed oil prices higher. Meanwhile, ongoing optimism around AI helped cushion the decline. Top losers were MTU Aero Engines (-3.5%), Deutsche Bank (-2.1%), Fresenius SE & Co (-2%) and SAP (-2%).On the flip side, Zalando (2.3%), Infineon Technologies (0.8%), E.ON (0.7%), and Continental (0.6%).posted the biggest gains."
-    },
-    {
-      "id": "mkt:019e651b-ee2a-7332-8104-cb95bff81795",
-      "time": "2026-05-27 00:26:29",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Japan To Open Trade Talks With Mercosur, Seeks Oil And Auto Exports - Nikkei"
-    },
-    {
-      "id": "4900880",
-      "time": "2026-05-27 00:26:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "據日經新聞：日本即將啟動與南方共同市場的貿易談判，以求獲取石油並擴大汽車出口。"
     }
   ]
 }
