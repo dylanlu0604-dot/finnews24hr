@@ -1,7 +1,66 @@
 {
-  "updated": "2026-06-02 16:21:22",
-  "count": 17546,
+  "updated": "2026-06-02 16:25:19",
+  "count": 17535,
   "items": [
+    {
+      "id": "te:markets:555711",
+      "time": "2026-06-02 16:24:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Euro Slightly Up as Middle East Talks, Inflation Data Eyed — The euro edged higher to $1.165 amid conflicting signals about progress in ending the Middle East conflict and as investors awaited the release of Eurozone May inflation data later today. US President Donald Trump and Israeli Prime Minister Benjamin Netanyahu offered differing accounts of a call about the Lebanon conflict. Trump said he had urged both sides to stop fighting, while Netanyahu’s version was less definitive. The uncertainty follows reports that Iran had paused negotiations with the US, demanding an end to Lebanon clashes as part of any deal, though Trump claimed discussions with Iran were advancing quickly. Investors are also focused on May’s flash Eurozone inflation figures for clues on the economic impact of the Iran conflict. The data comes ahead of next week’s European Central Bank meeting, with markets pricing in a 95% chance of a 25-basis-point rate hike. Two such increases are expected this year, with a potential third."
+    },
+    {
+      "id": "4912300",
+      "time": "2026-06-02 16:23:30",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗革命衛隊發言人：如果戰爭重燃，伊朗革命衛隊將使用新型武器和作戰方式。"
+    },
+    {
+      "id": "4912299",
+      "time": "2026-06-02 16:22:25",
+      "tags": [
+        "行業",
+        "其他"
+      ],
+      "text": "【國家衛健委：探索在城市社群衛生服務機構推廣應用醫學人工智慧輔助診斷等技術】國家衛生健康委辦公廳釋出關於進一步健全城市社群衛生服務體系 提升服務能力的通知，其中提出，加強數智化賦能。探索在城市社群衛生服務機構推廣應用醫學人工智慧輔助診斷、處方前置稽核、語音病歷資訊自動採集輔助書寫等技術，提高醫務人員診療效率。加強基本公共衛生服務、家庭醫生服務數智化賦能，提高服務效率和及時性，提高健康管理精準度。合理利用人工智慧加強病歷、處方、醫囑等輔助稽核，提高醫學文書管理水平。加強社群衛生服務機構與上級醫院數智系統聯通和標準統一，促進檢查檢驗結果互認。"
+    },
+    {
+      "id": "te:economy:555710",
+      "time": "2026-06-02 16:21:45",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Germany",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Bund Yields Drop as Oil Prices Ease Amid Middle East Uncertainty — German 10-year Bund yields declined to 2.95%, partially reversing Monday’s eight-basis-point increase, as oil prices fell and mixed signals emerged about progress toward ending the Middle East conflict. US President Donald Trump and Israeli Prime Minister Benjamin Netanyahu provided conflicting accounts of a call regarding the Lebanon conflict. Trump stated he had urged both sides to halt fighting, while Netanyahu’s description was less explicit. The confusion follows reports that Iran had paused negotiations with the US, insisting on an end to Lebanon clashes as part of any agreement, though Trump claimed talks with Iran were moving forward rapidly. Investors are also awaiting May’s flash Eurozone inflation data for insights into the economic impact of the Iran conflict. The data precedes next week’s ECB meeting, with money markets pricing in a 95% probability of a 25-basis-point rate hike. A total of two such increases are expected this year, with a possibility of a third."
+    },
+    {
+      "id": "4912298",
+      "time": "2026-06-02 16:21:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏稱打擊俄多處重要軍事及能源目標】當地時間6月2日，烏克蘭武裝部隊總參謀部通報稱，烏國防力量於1日夜間至2日凌晨，對俄羅斯境內多處重要目標實施打擊。本次打擊覆蓋多處關鍵設施與軍事裝備，位於俄羅斯克拉斯諾達爾邊疆區的伊利斯基煉油廠遭襲後起火，具體損失情況仍有待核實。此外，烏方還打擊了俄方“鎧甲-S1”彈炮合一防空系統、一艘軍用艦船等目標。俄羅斯方面對此暫無回應。（央視新聞）"
+    },
+    {
+      "id": "4912297",
+      "time": "2026-06-02 16:20:47",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "滙豐給予中金公司A股買進的初始評級；目標價42.80元人民幣。"
+    },
     {
       "id": "mkt:019e876b-252d-7555-bd38-b01e8757e082",
       "time": "2026-06-02 16:20:06",
@@ -160588,166 +160647,6 @@
         "國際"
       ],
       "text": "【摩根士丹利：經濟增長支撐下，股市可承受高利率】摩根士丹利策略師表示，若股市上漲的核心驅動力是強勁經濟增長，而非央行強硬加息立場，那麼股票市場能夠承受債券收益率走高帶來的影響。由邁克・威爾遜帶領的團隊稱，股市短期風險主要來自債券市場波動加劇或流動性收緊，但美聯儲與美國財政部具備相應工具來緩解這類壓力。團隊指出，過往經驗表明，名義經濟高增長帶來的收益率粘性，並不會對股市形成壓制。報告稱，投資者對週期股的信心集中在工業、能源、金屬及原材料板塊；而受能源價格走高影響的消費板塊，市場關注度依舊低迷。目前，投資者尚未認同該團隊提出的企業盈利全面回暖這一判斷。"
-    },
-    {
-      "id": "4899999",
-      "time": "2026-05-26 16:24:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防軍：初步報告顯示，在卡夫拉扎地區響起警報聲。具體詳情正在核實中。"
-    },
-    {
-      "id": "4899998",
-      "time": "2026-05-26 16:24:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【金牌家居：2025年營收33.01億元 同比降5.01%】金牌家居公告稱，2026年5月26日召開業績說明會，就2025年度及2026年第一季度業績與投資者交流。2025年營收33.01億元，同比降5.01%。各渠道中，新零售渠道營收18.44億元，同比增4.38%；家裝渠道營收7.99億元，同比增約26%；海外渠道營收2.97億元，同比降11.27%；精裝渠道營收10.11億元，同比降18.60%。未來公司將深化研產供銷協同聯動降本增效，推進“飛流AI”商業化落地，並綜合研究是否下調“金23轉債”轉股價格。"
-    },
-    {
-      "id": "4899997",
-      "time": "2026-05-26 16:24:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "【28000個集裝箱泰國榴蓮來了】本季泰國榴蓮仍迎來豐產，整體品質穩定，出口保持強勁勢頭。中國長期穩居泰國榴蓮第一大出口市場，眼下泰國榴蓮對華出口情況如何？根據泰國農業部門統計，截至今年5月中旬，僅該國東部地區出口到中國的榴蓮已突破28000個集裝箱，總價值超過510億泰銖，約合人民幣106億元。目前由於榴蓮大量上市，市場價格已經有所下降。今年榴蓮產量較去年增加了約30%。泰國尖竹汶府某榴蓮分揀工廠負責人稱，今年泰國天氣條件理想，因此榴蓮口感特別好。今年泰國榴蓮在中國市場銷售情況很好，中國消費者需求非常旺盛。總體來看，今年利潤比去年更高。（央視財經）"
-    },
-    {
-      "id": "4899996",
-      "time": "2026-05-26 16:24:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "【峨眉山A：峨眉山景區調整高山區（金頂片區）遊覽管理措施】峨眉山Ａ(000888)5月26日公告，為進一步最佳化景區遊玩體驗、升級配套設施，峨眉山高山區雷洞坪停車場及車站將開展封閉施工，同時金頂索道也將進行全面升級改造。施工期間高山觀光車、金頂索道通行運力會有所縮減，相關工程預計2027年全部完工，屆時將全面恢復正常運營，施工期間，景區正常對外開放，僅金頂片區實行客流管控。在景區高山區（金頂片區）遊覽管理措施執行期間，該事項預計可能對公司經營造成一定影響。"
-    },
-    {
-      "id": "mkt:019e6362-084a-7ff6-adfd-4e9336a51988",
-      "time": "2026-05-26 16:23:49",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "China Tech Giants",
-        "BABA.N",
-        "Impact bearish",
-        "9988.HK",
-        "Hang Seng Index"
-      ],
-      "text": "【China Tightens Overseas Travel Restrictions on AI Talent】China has begun restricting overseas travel for senior AI professionals at private firms including Alibaba Group Holding Ltd. and DeepSeek, according to people familiar with the matter. Government agencies are requiring approval for overseas trips by individuals involved in advanced AI work deemed strategically important. The measures expand longstanding travel controls previously applied to sensitive sectors and reflect Beijing’s efforts to safeguard technology and narrow the AI gap with the US."
-    },
-    {
-      "id": "4899995",
-      "time": "2026-05-26 16:23:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "【普冉股份：權益分派後股份及可轉債價格調整 交易仍待稽核】普冉股份公告稱，公司擬發行股份、可轉債及支付現金購買珠海諾亞長天儲存技術有限公司49%股權並募資。因實施2025年年度權益分派，以總股本148,049,102股為基數，每股派現0.12元，股份發行價格由90.00元/股調為89.88元/股，可轉債初始轉股價格也由90.00元/股調為89.88元/股。本次交易尚需上交所稽核及證監會註冊，存在不確定性。"
-    },
-    {
-      "id": "4899994",
-      "time": "2026-05-26 16:23:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國通號：中標五個軌道交通專案 中標金額總計約9億元】中國通號公告稱，2026年3-4月，公司中標五個重要專案，鐵路市場一個，城市軌道交通市場四個，中標金額總計約9億元，約佔公司2025年經審計營業總收入的2.60%。因涉及手續辦理，尚未簽訂正式合同，存在不確定性，且專案跨年分期實施，對當期業績影響也有不確定性。"
-    },
-    {
-      "id": "4899993",
-      "time": "2026-05-26 16:23:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "【江航裝備：持股5%以上股東國新資本減持計劃屆滿，累計減持0.35%股份】江航裝備公告，持股5%以上股東國新資本有限公司此前披露減持計劃，擬透過集中競價方式減持不超過1.00%股份，即不超過791.34萬股。截至2026年5月25日，本次減持計劃時間屆滿，國新資本於2026年5月8日至2026年5月25日期間，透過集中競價方式累計減持公司股份278.33萬股，佔公司總股本的0.35%。減持價格區間為13.8元/股至15.09元/股，減持總金額為4024.24萬元。本次減持計劃未完成，實際減持數量較原計劃上限少513.01萬股。目前，國新資本持有公司股份4599.3萬股，佔公司總股本的5.81%。"
-    },
-    {
-      "id": "4899992",
-      "time": "2026-05-26 16:22:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "【莊園牧場：訴訟進入二審，6月16日開庭審理】莊園牧場公告稱，公司因與持股5%以上股東、董事馬紅富就全資子公司支付搬遷損失事宜提起訴訟，一審被駁回全部訴求。公司在法定上訴期內遞交《民事上訴狀》，繳納上訴費14.72萬元，案件進入二審程式。近日，公司收到蘭州市中級人民法院傳票，定於2026年6月16日審理此案。涉案金額2107.38萬元，佔公司最近一期經審計淨資產的1.93%，二審結果尚不確定，無法判斷對利潤的影響。"
-    },
-    {
-      "id": "4899991",
-      "time": "2026-05-26 16:22:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中光防雷：獲得十一項專利證書】中光防雷公告，公司近期取得國家智慧財產權局頒發的十一項專利證書，包括多項發明專利和實用新型專利。這些專利涉及瞬態電壓抑制器、交直流電流觸發電路、閃電定位方法與系統、各種型別的電湧保護器等，專利權期限為10年至20年不等。這些專利的取得有助於公司增強技術創新能力和核心競爭力，進一步完善智慧財產權保護體系，儘管不會對公司生產經營產生重大影響，但有利於充分發揮自主智慧財產權優勢。以上專利權人主要為公司和四川省公路規劃勘察設計研究院有限公司。"
-    },
-    {
-      "id": "mkt:019e6360-7f5e-7ff6-adfd-43ac331374ce",
-      "time": "2026-05-26 16:22:08",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "China Tech Giants",
-        "Star Stocks",
-        "Alibaba",
-        "BABA.N",
-        "Impact bearish",
-        "CSI300",
-        "Hang Seng Index"
-      ],
-      "text": "CHINA IS RESTRICTING OVERSEAS TRAVEL FOR TOP AI PROFESSIONALS IN PRIVATE FIRMS SUCH AS ALIBABA GROUP HOLDING AND DEEPSEEK"
-    },
-    {
-      "id": "4899990",
-      "time": "2026-05-26 16:22:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "【滄州大化：聚海分公司生產裝置完成檢修恢復生產】滄州大化公告稱，按照年度檢修計劃，公司於2026年5月1日對聚海分公司生產裝置進行停產檢修，目前檢修工作已完成，裝置恢復生產。"
-    },
-    {
-      "id": "mkt:019e6360-670e-7ff6-adfd-39fcd37ec03a",
-      "time": "2026-05-26 16:22:02",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish",
-        "Hang Seng Index",
-        "CNH"
-      ],
-      "text": "CHINA EXPANDS TRAVEL CURBS TO TOP AI TALENT AT PRIVATE FIRMS"
-    },
-    {
-      "id": "4899989",
-      "time": "2026-05-26 16:21:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "【勝利濟陽頁岩油國家級示範區累產突破200萬噸】5月26日，從中國石化獲悉，中國首個陸相斷陷盆地頁岩油國家級示範區——勝利濟陽頁岩油國家級示範區累計產量突破200萬噸，標誌著中國中低成熟度頁岩油勘探開發取得重要突破。示範區內59口井峰值日產油超過百噸，最高達263噸，年產量從初期的13.1萬噸攀升至2025年的70萬噸，提前一年完成目標任務，形成了陸相斷陷盆地頁岩油高效勘探開發模式。"
-    },
-    {
-      "id": "4899988",
-      "time": "2026-05-26 16:21:38",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【NASA擬為SpaceX追加六次載人任務 總金額或近17億美元】美國國家航空航天局（NASA）釋出採購公告，宣佈擬在現有商業載人運輸能力合同基礎上，為SpaceX追加六次認證後載人任務。NASA表示，合同增補生效後將立即敲定其中至多三次任務，剩餘三次則根據需求安排，直至國際空間站（ISS）按計劃在2030年終止運營。 此次增項原因十分明確。NASA稱，做出該決定主要基於幾方面因素：國際空間站近期縮短駐留任務時長、波音公司遭遇技術故障與進度延誤、兩家企業的任務分配安排，以及持續保障可靠載人運輸能力面臨的技術難題。波音的CST-100“星際客機”飛船至今仍未取得載人飛行認證，NASA最新任務清單中也未安排該飛船執行貨運任務。 目前這六次新增任務的合同金額尚未對外公佈。參照2022年單次任務約2.87億美元的標準測算，本次增項合同總額或將接近17億美元。"
-    },
-    {
-      "id": "4899987",
-      "time": "2026-05-26 16:21:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【夏農芯創：預計2026年來自阿里、騰訊、位元組跳動等客戶收入有較大增長】5月26日下午，夏農芯創(300475)在2025年度暨2026年第一季度業績說明會上表示，阿里、騰訊、位元組跳動為公司主要客戶，預計今年來自以上客戶的收入會有較大增長。"
-    },
-    {
-      "id": "4899986",
-      "time": "2026-05-26 16:21:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "【利通電子：董事楊冰及高管施佶提前終止減持計劃，已減持完成】利通電子公告，公司董事楊冰、高階管理人員施佶此前披露減持計劃，減持期間為2026年4月21日至2026年5月25日。本次減持已實施完畢，楊冰透過集中競價減持62000股，佔公司總股本0.0236%，當前持股18.68萬股（佔比0.0712%）；施佶透過集中競價減持20.4萬股，佔總股本0.0778%，當前持股62.94萬股（佔比0.2399%）。經綜合考慮，相關減持主體決定提前終止上述減持計劃。"
     }
   ]
 }
