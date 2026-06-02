@@ -1,7 +1,90 @@
 {
-  "updated": "2026-06-02 21:35:06",
-  "count": 18050,
+  "updated": "2026-06-02 21:39:12",
+  "count": 18045,
   "items": [
+    {
+      "id": "4913137",
+      "time": "2026-06-02 21:37:48",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "微芯科技股價上漲4%，此前公司釋出了預測報告，稱其在2026年資料中心收入將增長65%。"
+    },
+    {
+      "id": "4913136",
+      "time": "2026-06-02 21:37:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "基輔官員：截至目前已有81人受傷。"
+    },
+    {
+      "id": "4913135",
+      "time": "2026-06-02 21:36:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：阿布扎比國家石油公司計劃建設一條繞過霍爾木茲海峽的石油產品管道。"
+    },
+    {
+      "id": "4913134",
+      "time": "2026-06-02 21:36:32",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【SpaceX要求壓低IPO承銷費率 但投行仍有望分食5億美元收入】馬斯克旗下SpaceX正在與經手其IPO的華爾街投行談判，希望支付極低的費率。不過，即便收費標準大幅壓低，負責此次上市的銀行仍有望從這場創紀錄的IPO中獲得約5億美元收入。馬斯克旗下這家航天與人工智慧集團計劃於本月進行IPO，目標募資規模750億美元，據知情人士透露，目前該公司正爭取將承銷費率壓低至0.75%以下。儘管這一費率遠低於通常水平，但仍將成為這些負責安排此次IPO的華爾街銀行歷史上最賺錢的上市專案之一。作為本次IPO的牽頭行，高盛集團和摩根士丹利預計將從承銷費用中獲得比其他21家參與券商更大的份額。知情人士表示，上述數字僅反映SpaceX支付的基礎承銷費用，並未包含可能額外發放的獎勵性費用。由於討論尚未公開資訊，知情人士要求匿名。SpaceX、高盛和摩根士丹利的發言人均拒絕對此置評。"
+    },
+    {
+      "id": "mkt:019e888c-c181-777f-8415-2972bcd3f25e",
+      "time": "2026-06-02 21:36:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Financial Times reports Abu Dhabi National Oil Company (ADNOC) plans to build a pipeline to bypass the Strait of Hormuz for refined petroleum products."
+    },
+    {
+      "id": "mkt:019e888c-7442-777f-8415-250150ec7a33",
+      "time": "2026-06-02 21:36:02",
+      "tags": [
+        "MKT News",
+        "Dow",
+        "Impact bullish"
+      ],
+      "text": "Dow Jones Industrial Average turned higher, trading up 0.25%."
+    },
+    {
+      "id": "4913133",
+      "time": "2026-06-02 21:35:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "NUBANK股價下跌10%，創2025年4月以來最大跌幅。"
+    },
+    {
+      "id": "4913132",
+      "time": "2026-06-02 21:34:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "道指轉漲，盤初曾下跌約0.2%。"
+    },
+    {
+      "id": "mkt:019e888b-0c1a-777f-8415-1bdd1e42947e",
+      "time": "2026-06-02 21:34:28",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "Polish central bank left its main interest rate unchanged at 3.75%."
+    },
     {
       "id": "te:markets:555791",
       "time": "2026-06-02 21:34:15",
@@ -165277,144 +165360,6 @@
         "國際"
       ],
       "text": "以色列方面訊息：以色列國防軍已越過黃線，在黎巴嫩境內開展地下行動。"
-    },
-    {
-      "id": "te:markets:553791",
-      "time": "2026-05-26 21:39:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Ibovespa Falls Amid US Strikes on Iran — The Ibovespa edged down to trade below 177,500 on Tuesday after new US attacks on Iran reduced expectations that a peace agreement could be reached soon. The latest strikes renewed uncertainty over when the Strait of Hormuz might reopen, reviving concerns about prolonged inflation and higher-for-longer interest rates. Major banks posted losses, with Santander, Bradesco, and Itaú all falling close to 1%. Utilities also traded lower, with Axia down more than 1%. Elsewhere, Rede D'Or lost over 1% after signing an investment agreement with Atlântica, a group formed by two indirect subsidiaries of Bradesco Saúde, related to the future construction and operation of a hospital in Rio de Janeiro. São Martinho also fell more than 1% despite reporting EBITDA above forecasts in Q1 2026. On the trade front, Japan is set to begin negotiations for an Economic Partnership Agreement with Mercosur."
-    },
-    {
-      "id": "te:markets:553790",
-      "time": "2026-05-26 21:38:36",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Verizon Stock Price Hits 4-week High — Verizon shares increased to 48.53 USD, the highest since April 2026. Over the past 4 weeks, Verizon gained 2.63%, and in the last 12 months, it increased 11.87%."
-    },
-    {
-      "id": "4900709",
-      "time": "2026-05-26 21:38:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "羅素2000指數創日內高點，最新上漲0.9%。"
-    },
-    {
-      "id": "4900708",
-      "time": "2026-05-26 21:38:25",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納斯達克中國金龍指數漲超1%，老虎證券漲13.26%，小鵬汽車漲7.12%，信也科技漲5.57%，優品車漲4.11%，高途漲6.07%。"
-    },
-    {
-      "id": "mkt:019e6481-eff7-7330-84b4-747f495e9552",
-      "time": "2026-05-26 21:38:17",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "Russell 2000 Hits Intraday High, Up 0.9%"
-    },
-    {
-      "id": "4900707",
-      "time": "2026-05-26 21:37:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "博通公司宣佈推出BCM68850，這是業界首款整合NPU和Wi-Fi 8的50G ITU-PON家庭閘道器SoC。"
-    },
-    {
-      "id": "4900706",
-      "time": "2026-05-26 21:37:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：伊朗議員稱，若就霍爾木茲海峽達成相關協議，伊朗將蒙受純粹損失。"
-    },
-    {
-      "id": "mkt:019e6481-0cf4-7330-84b4-6f42f325afce",
-      "time": "2026-05-26 21:37:19",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "WSJ: Iranian Lawmaker Says Potential Strait Of Hormuz Agreement 'Pure Loss' For Iran"
-    },
-    {
-      "id": "4900705",
-      "time": "2026-05-26 21:36:47",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "OKLO股價上漲8.1%，此前該公司稱其已被美國能源部選中，就將冷戰時期遺留鈽用作反應堆燃料一事展開談判。"
-    },
-    {
-      "id": "4900704",
-      "time": "2026-05-26 21:36:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "Karsan：E-ATAK自動駕駛車被後方駛來的有軌電車撞上，事故起因是有軌電車未能保持安全跟車距離。"
-    },
-    {
-      "id": "4900703",
-      "time": "2026-05-26 21:36:21",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "歡聚股價上漲12.5%，公司第一季度營收超預期。"
-    },
-    {
-      "id": "mkt:019e6480-0874-7330-84b4-64afae84ea7b",
-      "time": "2026-05-26 21:36:12",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "YY.O",
-        "Impact bullish"
-      ],
-      "text": "China's JOYY Inc (YY.O) Shares Jump 12.5% After Q1 Revenue Beats Estimates"
-    },
-    {
-      "id": "mkt:019e647f-a28d-7330-84b4-5a82fe0b8bf2",
-      "time": "2026-05-26 21:35:46",
-      "tags": [
-        "MKT News",
-        "Important",
-        "MU.O",
-        "Impact bullish"
-      ],
-      "text": "Micron Technology (MU.O) Rises 11.5% To Record After UBS Raises PT To $1,625 From $535"
-    },
-    {
-      "id": "4900702",
-      "time": "2026-05-26 21:35:38",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【分析師：油價正重獲上行動能】在美國對伊朗船隻及導彈發射裝置發動打擊之後，原油期貨正從昨日的暴跌中有所回升。儘管相關談判仍在繼續，但伊朗已發出報復威脅。Spartan Capital公司的Peter Cardillo在一份研報中指出：“我們看到油價正重獲上行動能。儘管仍有部分船隻繼續穿越霍爾木茲海峽，將數百萬桶原油運往目的地，但圍繞潛在和平協議的口水戰，正持續推遲戰爭迅速解決的前景。”"
     }
   ]
 }
